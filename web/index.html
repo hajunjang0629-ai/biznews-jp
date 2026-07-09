@@ -1,0 +1,1180 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0" />
+  <meta name="theme-color" content="#1d4ed8" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="BizNews JP" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta name="description" content="世界のビジネスニュースを日本語で。記事の要約と全文和訳をお届けします。" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%231d4ed8' width='100' height='100' rx='20'/><text x='50' y='62' font-size='44' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>BN</text></svg>" />
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%231d4ed8' width='180' height='180' rx='36'/><text x='90' y='112' font-size='80' text-anchor='middle' fill='white' font-family='sans-serif' font-weight='bold'>BN</text></svg>" />
+  <title>BizNews JP | ビジネスニュース和訳</title>
+  <style>
+/* BizNews JP - Mobile-first styles */
+
+:root {
+  --brand-50: #f0f7ff;
+  --brand-100: #e0effe;
+  --brand-600: #1d4ed8;
+  --brand-700: #1e40af;
+  --brand-900: #1e3a5f;
+  --slate-50: #f8fafc;
+  --slate-100: #f1f5f9;
+  --slate-200: #e2e8f0;
+  --slate-400: #94a3b8;
+  --slate-500: #64748b;
+  --slate-600: #475569;
+  --slate-700: #334155;
+  --slate-800: #1e293b;
+  --slate-900: #0f172a;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+  background: var(--slate-50);
+  color: var(--slate-900);
+  line-height: 1.6;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Header */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--slate-200);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  padding-top: env(safe-area-inset-top);
+}
+
+.header-inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (min-width: 640px) {
+  .header-inner {
+    padding: 0 1.5rem;
+    height: 4rem;
+  }
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-icon {
+  width: 2rem;
+  height: 2rem;
+  background: var(--brand-600);
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+@media (min-width: 640px) {
+  .logo-icon {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+}
+
+.logo-text {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--brand-900);
+}
+
+.logo-sub {
+  display: none;
+  font-size: 0.75rem;
+  color: var(--slate-500);
+}
+
+@media (min-width: 640px) {
+  .logo-text { font-size: 1.125rem; }
+  .logo-sub { display: block; }
+}
+
+.nav-link {
+  padding: 0.5rem 0.875rem;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--slate-600);
+  border-radius: 0.5rem;
+  transition: all 0.15s;
+  touch-action: manipulation;
+}
+
+.nav-link:hover {
+  color: var(--brand-600);
+  background: var(--brand-50);
+}
+
+/* Main */
+.main-content {
+  flex: 1;
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 1rem 1rem 1.5rem;
+  padding-bottom: calc(1.5rem + env(safe-area-inset-bottom));
+  width: 100%;
+}
+
+@media (min-width: 640px) {
+  .main-content {
+    padding: 2rem 1.5rem;
+  }
+}
+
+.page-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+@media (min-width: 640px) {
+  .page-title { font-size: 1.5rem; }
+}
+
+.page-desc {
+  font-size: 0.875rem;
+  color: var(--slate-500);
+  margin-bottom: 1.5rem;
+}
+
+/* Category filter */
+.category-bar {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.25rem;
+  margin: 0 -1rem 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.category-bar::-webkit-scrollbar { display: none; }
+
+@media (min-width: 640px) {
+  .category-bar {
+    margin: 0 0 1.5rem;
+    padding-left: 0;
+    padding-right: 0;
+    flex-wrap: wrap;
+    overflow: visible;
+  }
+}
+
+.cat-btn {
+  flex-shrink: 0;
+  padding: 0.625rem 1.125rem;
+  min-height: 44px;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border: 1px solid var(--slate-200);
+  background: white;
+  color: var(--slate-600);
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: inherit;
+  touch-action: manipulation;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.cat-btn:hover {
+  border-color: #93c5fd;
+  color: var(--brand-700);
+}
+
+.cat-btn.active {
+  background: var(--brand-600);
+  color: white;
+  border-color: var(--brand-600);
+}
+
+/* Article cards */
+.articles-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.featured-card {
+  background: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  border: 1px solid var(--slate-200);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s;
+  display: block;
+  touch-action: manipulation;
+}
+
+.featured-card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  border-color: #bfdbfe;
+}
+
+.featured-img-wrap {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: var(--slate-100);
+}
+
+@media (min-width: 640px) {
+  .featured-img-wrap { aspect-ratio: 21 / 9; }
+}
+
+.featured-img-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s;
+}
+
+.featured-card:hover .featured-img-wrap img {
+  transform: scale(1.05);
+}
+
+.featured-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0,0,0,0.7), rgba(0,0,0,0.2), transparent);
+}
+
+.featured-overlay-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1rem 1.25rem;
+}
+
+@media (min-width: 640px) {
+  .featured-overlay-text { padding: 1.25rem 1.5rem; }
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.125rem 0.625rem;
+  background: var(--brand-600);
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 500;
+  border-radius: 9999px;
+  margin-bottom: 0.5rem;
+}
+
+.badge-light {
+  background: var(--brand-50);
+  color: var(--brand-700);
+}
+
+.featured-title {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: white;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (min-width: 640px) {
+  .featured-title { font-size: 1.5rem; }
+}
+
+.card-body {
+  padding: 1rem 1.25rem;
+}
+
+@media (min-width: 640px) {
+  .card-body { padding: 1.25rem 1.5rem; }
+}
+
+.card-summary {
+  font-size: 0.875rem;
+  color: var(--slate-600);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.6;
+}
+
+.card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.5rem;
+  margin-top: 0.75rem;
+  font-size: 0.75rem;
+  color: var(--slate-400);
+}
+
+.article-card {
+  display: flex;
+  gap: 0.75rem;
+  background: white;
+  border-radius: 0.75rem;
+  padding: 0.75rem;
+  border: 1px solid var(--slate-200);
+  transition: all 0.2s;
+  touch-action: manipulation;
+}
+
+@media (min-width: 640px) {
+  .article-card {
+    gap: 1rem;
+    padding: 1rem;
+  }
+}
+
+.article-card:hover {
+  border-color: #bfdbfe;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.card-thumb {
+  width: 6rem;
+  height: 6rem;
+  flex-shrink: 0;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background: var(--slate-100);
+}
+
+@media (min-width: 640px) {
+  .card-thumb {
+    width: 8rem;
+    height: 6rem;
+  }
+}
+
+.card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.article-card:hover .card-thumb img {
+  transform: scale(1.05);
+}
+
+.card-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 0.875rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  transition: color 0.15s;
+}
+
+@media (min-width: 640px) {
+  .card-title { font-size: 1rem; }
+}
+
+.article-card:hover .card-title {
+  color: var(--brand-700);
+}
+
+.info-box {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  background: var(--brand-50);
+  border: 1px solid var(--brand-100);
+  border-radius: 0.75rem;
+  font-size: 0.875rem;
+  color: #1e40af;
+  line-height: 1.6;
+}
+
+/* Article detail */
+.article-detail {
+  max-width: 48rem;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.875rem;
+  color: var(--slate-500);
+  margin-bottom: 1.5rem;
+  transition: color 0.15s;
+  min-height: 44px;
+  touch-action: manipulation;
+}
+
+.back-link:hover { color: var(--brand-600); }
+
+.article-hero {
+  aspect-ratio: 16 / 9;
+  border-radius: 1rem;
+  overflow: hidden;
+  background: var(--slate-100);
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.article-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.article-header {
+  margin-bottom: 2rem;
+}
+
+.article-h1 {
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0.75rem 0;
+}
+
+@media (min-width: 640px) {
+  .article-h1 { font-size: 1.75rem; }
+}
+
+@media (min-width: 768px) {
+  .article-h1 { font-size: 2rem; }
+}
+
+.article-title-en {
+  font-size: 0.875rem;
+  color: var(--slate-500);
+  font-style: italic;
+  margin-bottom: 0.75rem;
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.section-bar {
+  width: 4px;
+  height: 1.5rem;
+  border-radius: 2px;
+  background: var(--brand-600);
+}
+
+.section-bar.gray { background: var(--slate-400); }
+
+.section-heading h2 {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+@media (min-width: 640px) {
+  .section-heading h2 { font-size: 1.25rem; }
+}
+
+.summary-box {
+  background: linear-gradient(135deg, var(--brand-50), #eff6ff);
+  border: 1px solid var(--brand-100);
+  border-radius: 1rem;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.summary-box p {
+  font-size: 0.875rem;
+  color: var(--slate-800);
+  line-height: 1.8;
+}
+
+@media (min-width: 640px) {
+  .summary-box p { font-size: 1rem; line-height: 2; }
+}
+
+.translation-box {
+  background: white;
+  border: 1px solid var(--slate-200);
+  border-radius: 1rem;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.translation-box p {
+  font-size: 0.875rem;
+  color: var(--slate-700);
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 640px) {
+  .translation-box p { font-size: 1rem; }
+}
+
+.translation-box p:last-child { margin-bottom: 0; }
+
+.toggle-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 1rem 1.125rem;
+  min-height: 48px;
+  background: var(--slate-100);
+  border: none;
+  border-radius: 0.75rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--slate-700);
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s;
+  text-align: left;
+  touch-action: manipulation;
+}
+
+.toggle-btn:hover { background: #e8edf3; }
+
+.toggle-btn .arrow {
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+
+.toggle-btn.open .arrow { transform: rotate(180deg); }
+
+.original-box {
+  margin-top: 0.75rem;
+  background: var(--slate-50);
+  border: 1px solid var(--slate-200);
+  border-radius: 0.75rem;
+  padding: 1.25rem 1.5rem;
+}
+
+.original-box p {
+  font-size: 0.875rem;
+  color: var(--slate-600);
+  line-height: 1.8;
+  margin-bottom: 1rem;
+}
+
+.original-box p:last-child { margin-bottom: 0; }
+
+.source-line {
+  padding-top: 1rem;
+  border-top: 1px solid var(--slate-200);
+  font-size: 0.75rem;
+  color: var(--slate-400);
+}
+
+.source-line a {
+  color: var(--brand-600);
+}
+
+.source-line a:hover { text-decoration: underline; }
+
+.not-found {
+  text-align: center;
+  padding: 5rem 1rem;
+}
+
+.not-found h1 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.not-found p {
+  color: var(--slate-500);
+  margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0.75rem 1.5rem;
+  background: var(--brand-600);
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+  border-radius: 0.5rem;
+  transition: background 0.15s;
+  touch-action: manipulation;
+}
+
+.btn-primary:hover { background: var(--brand-700); }
+
+.hidden { display: none !important; }
+
+/* Footer */
+.site-footer {
+  background: var(--slate-900);
+  color: var(--slate-400);
+  margin-top: auto;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+.footer-inner {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+@media (min-width: 640px) {
+  .footer-inner {
+    padding: 2.5rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.footer-brand {
+  font-weight: 600;
+  color: white;
+  font-size: 0.875rem;
+}
+
+.footer-sub {
+  font-size: 0.75rem;
+  color: var(--slate-500);
+  margin-top: 0.25rem;
+}
+
+.footer-copy {
+  font-size: 0.75rem;
+  color: var(--slate-500);
+  margin-top: 1rem;
+}
+
+@media (min-width: 640px) {
+  .footer-copy { margin-top: 0; }
+}
+
+/* Mobile sticky back bar (article pages) */
+.mobile-back-bar {
+  display: none;
+}
+
+@media (max-width: 639px) {
+  .article-detail .back-link {
+    display: none;
+  }
+
+  .mobile-back-bar {
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 60;
+    padding: 0.625rem 1rem;
+    padding-bottom: calc(0.625rem + env(safe-area-inset-bottom));
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-top: 1px solid var(--slate-200);
+    box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .mobile-back-bar button {
+    width: 100%;
+    min-height: 48px;
+    border: none;
+    border-radius: 0.625rem;
+    background: var(--brand-600);
+    color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: inherit;
+    touch-action: manipulation;
+    cursor: pointer;
+  }
+
+  .mobile-back-bar button:active {
+    background: var(--brand-700);
+  }
+
+  body.has-mobile-bar .main-content.article-detail {
+    padding-bottom: calc(5.5rem + env(safe-area-inset-bottom));
+  }
+}
+
+/* Category scroll hint on mobile */
+@media (max-width: 639px) {
+  .category-bar {
+    mask-image: linear-gradient(to right, black 90%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, black 90%, transparent 100%);
+  }
+}
+
+/* Comfortable reading on phones */
+@media (max-width: 639px) {
+  .summary-box p,
+  .translation-box p {
+    font-size: 1rem;
+    line-height: 1.85;
+  }
+
+  .article-h1 {
+    font-size: 1.375rem;
+  }
+
+  .card-thumb {
+    width: 5.5rem;
+    height: 5.5rem;
+  }
+}
+
+/* Reduce motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+  html { scroll-behavior: auto; }
+}
+
+.logo { cursor: pointer; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="#" class="logo" onclick="navigate('');return false;">
+        <div class="logo-icon">BN</div>
+        <div>
+          <div class="logo-text">BizNews JP</div>
+          <div class="logo-sub">世界のビジネスニュース和訳</div>
+        </div>
+      </a>
+      <nav><a href="#" class="nav-link" onclick="navigate('');return false;">トップ</a></nav>
+    </div>
+  </header>
+  <main id="app" class="main-content"></main>
+  <div id="mobile-back-bar" class="mobile-back-bar hidden" aria-hidden="true">
+    <button type="button" id="mobile-back-btn">← 記事一覧に戻る</button>
+  </div>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div>
+        <p class="footer-brand">BizNews JP</p>
+        <p class="footer-sub">世界のビジネスニュースを日本語でお届け</p>
+      </div>
+      <p class="footer-copy">© 2025 BizNews JP. 記事は教育目的の翻訳・要約です。</p>
+    </div>
+  </footer>
+  <script>
+const ARTICLES = [
+  {
+    "id": "fed-rate-hold-2025",
+    "title": "Federal Reserve Holds Rates Steady, Signals One Cut Later This Year",
+    "titleJa": "米連邦準備制度理事会、金利据え置き──年内1回の利下げを示唆",
+    "summaryJa": "米連邦準備制度理事会（FRB）は政策金利を4.25〜4.50%の範囲で据え置きました。インフレが目標の2%に向かって緩やかに低下している一方、雇用市場は依然として堅調であると判断しています。パウエル議長は「データに依存した姿勢を維持する」と述べ、年内に1回の利下げの可能性を示唆しました。市場は9月の利下げを織り込み始めており、長期金利は小幅に下落しました。企業は資金調達コストの安定を歓迎する一方、住宅ローン金利の高止まりが不動産市場に引き続き圧力をかけています。",
+    "bodyOriginal": "The Federal Reserve kept its benchmark interest rate unchanged at 4.25% to 4.50% on Wednesday, extending a pause that began late last year as policymakers assess whether inflation is sustainably moving toward their 2% target.\n\nIn a statement following a two-day meeting, the central bank noted that economic activity has been expanding at a solid pace, while job gains have remained robust and the unemployment rate has stayed low. Officials acknowledged that inflation has eased over the past year but remains somewhat elevated.\n\nChair Jerome Powell told reporters that the Fed is \"not in a hurry\" to adjust rates, emphasizing that each decision will depend on incoming economic data. \"We want to see more evidence that inflation is moving sustainably toward 2% before we consider further rate cuts,\" Powell said.\n\nMarkets had widely expected the hold, but traders shifted bets toward a September rate cut after Powell's comments. The S&P 500 rose 0.4% following the announcement, while the 10-year Treasury yield fell to 4.18%.\n\nCorporate borrowers welcomed the stability. \"Predictable financing costs help us plan capital expenditures,\" said the CFO of a major industrial firm. However, mortgage rates near 7% continue to weigh on the housing market, with existing home sales falling 2.1% last month.\n\nAnalysts at Goldman Sachs now forecast one 25-basis-point cut in 2025, down from two cuts projected earlier. The next policy meeting is scheduled for late July.",
+    "bodyJa": "米連邦準備制度理事会（FRB）は水曜日、政策金利を4.25%から4.50%の範囲で据え置きました。インフレが持続的に2%の目標に向かって動いているかどうかを政策当局が評価する中、昨年後半から続く金利据え置きが延長されました。\n\n2日間の会合後に発表された声明で、中央銀行は経済活動が堅調なペースで拡大し続けていること、雇用の増加が力強く続き、失業率が低い水準を維持していることを指摘しました。当局者は、インフレが過去1年で緩和されたものの、依然としてやや高い水準にあることを認めました。\n\nジェローム・パウエル議長は記者会見で、FRBは金利調整を「急いでいない」と述べ、各決定が今後の経済データに依存することを強調しました。「さらなる利下げを検討する前に、インフレが持続的に2%に向かって動いているというより多くの証拠を見たい」とパウエル氏は語りました。\n\n市場は据え置きを広く予想していましたが、パウエル氏の発言後、トレーダーは9月の利下げに賭ける動きにシフトしました。発表後、S&P500は0.4%上昇し、10年物国債利回りは4.18%まで下落しました。\n\n企業の借り手は安定を歓迎しました。「予測可能な資金調達コストは、設備投資の計画に役立ちます」と大手工業会社のCFOは述べました。しかし、7%近い住宅ローン金利は引き続き住宅市場に重しとなっており、既存住宅の売却件数は先月2.1%減少しました。\n\nゴールドマン・サックスのアナリストは、2025年の利下げ予測を従来の2回から1回の25ベーシスポイント利下げに下方修正しました。次の政策会合は7月下旬に予定されています。",
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/business/",
+    "publishedAt": "2025-07-08T14:30:00Z",
+    "category": "金融政策",
+    "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    "readTime": 4
+  },
+  {
+    "id": "nvidia-ai-chip-demand",
+    "title": "Nvidia Surpasses $4 Trillion Market Cap on AI Chip Demand",
+    "titleJa": "エヌビディア、AI半導体需要で時価総額4兆ドル突破",
+    "summaryJa": "エヌビディアの時価総額が4兆ドルを超え、世界初の非金融企業としてこの水準に到達しました。データセンター向けAI半導体の需要が引き続き急増しており、同社の四半期売上は前年比78%増の386億ドルに達しました。主要クラウドプロバイダーが次世代GPUの大量発注を続けており、供給制約が依然として課題です。競合のAMDやインテルもAIチップ市場への参入を加速していますが、エヌビディアのシェアは80%以上を維持しています。投資家はAI投資サイクルの持続性に注目しており、規制リスクや地政学的なサプライチェーン問題が今後の変数となります。",
+    "bodyOriginal": "Nvidia became the first non-financial company to surpass a $4 trillion market capitalization on Tuesday, driven by relentless demand for its artificial intelligence chips used in data centers worldwide.\n\nThe chipmaker reported quarterly revenue of $38.6 billion, up 78% year-over-year, beating Wall Street estimates for the fifth consecutive quarter. Data center revenue alone reached $32.1 billion, accounting for 83% of total sales.\n\nCEO Jensen Huang said demand for the company's next-generation Blackwell architecture \"exceeds supply by a wide margin.\" Major cloud providers including Amazon, Microsoft, and Google have placed multi-billion-dollar orders for Nvidia GPUs to power their AI services.\n\n\"We are at the beginning of a new industrial revolution,\" Huang told investors on an earnings call. \"Every company will become an AI company, and every data center will be accelerated.\"\n\nCompetitors are racing to catch up. AMD unveiled its MI350 series chips targeting enterprise AI workloads, while Intel is restructuring its foundry business to compete more aggressively. Despite these efforts, Nvidia maintains over 80% share in the AI accelerator market.\n\nAnalysts warn that valuation concerns are growing. At current levels, Nvidia trades at 45 times forward earnings. Regulatory scrutiny over the company's dominance in AI chips is also intensifying in both the U.S. and Europe.\n\nShares rose 3.2% in after-hours trading following the earnings report.",
+    "bodyJa": "エヌビディアは火曜日、世界中のデータセンターで使用される人工知能半導体への途切れない需要に押され、非金融企業として初めて時価総額4兆ドルを超えました。\n\n同社は四半期売上386億ドル（前年比78%増）を報告し、5四半期連続でウォール街の予想を上回りました。データセンター部門の売上だけで321億ドルに達し、総売上の83%を占めています。\n\nジェンセン・フアンCEOは、同社の次世代Blackwellアーキテクチャへの需要が「供給を大きく上回っている」と述べました。アマゾン、マイクロソフト、グーグルを含む主要クラウドプロバイダーは、AIサービスを支えるためにエヌビディアGPUの数十億ドル規模の注文を出しています。\n\n「私たちは新しい産業革命の始まりにいます」とフアン氏は決算説明会で投資家に語りました。「すべての企業がAI企業となり、すべてのデータセンターが加速化されます。」\n\n競合他社は追いつこうと競争を加速させています。AMDはエンタープライズAIワークロードをターゲットにしたMI350シリーズチップを発表し、インテルはより積極的に競争するためにファウンドリ事業を再編しています。これらの努力にもかかわらず、エヌビディアはAIアクセラレータ市場で80%以上のシェアを維持しています。\n\nアナリストは、評価面での懸念が高まっていると警告しています。現在の水準では、エヌビディアは予想利益の45倍で取引されています。AI半導体における同社の支配的地位に対する規制当局の監視も、米国と欧州の両方で強まっています。\n\n決算発表後、株価は時間外取引で3.2%上昇しました。",
+    "source": "Bloomberg",
+    "sourceUrl": "https://www.bloomberg.com/",
+    "publishedAt": "2025-07-07T21:00:00Z",
+    "category": "テクノロジー",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    "readTime": 5
+  },
+  {
+    "id": "japan-boj-rate-decision",
+    "title": "Bank of Japan Raises Rates to 0.75%, Highest in 17 Years",
+    "titleJa": "日本銀行、政策金利を0.75%に引き上げ──17年ぶりの高水準",
+    "summaryJa": "日本銀行は金融政策決定会合で政策金利を0.5%から0.75%に引き上げ、1995年以来17年ぶりの高水準としました。春闘での賃上げ率の改善と物価の安定した上昇を背景に、金融正常化のペースを加速させています。植田総裁は「実質金利は依然としてマイナスであり、緩和的な金融環境は維持される」と説明しました。円相場は一時1ドル=155円台まで円高が進み、輸出企業の株価には押し下げ圧力がかかりました。一方、銀行株は金利上昇を歓迎し、三菱UFJフィナンシャル・グループなどが上昇しました。市場は年内にさらなる利上げの可能性を50%程度と見ています。",
+    "bodyOriginal": "The Bank of Japan raised its policy interest rate to 0.75% on Thursday, the highest level in 17 years, as stronger wage growth and persistent inflation give policymakers confidence to continue normalizing monetary policy.\n\nGovernor Kazuo Ueda said the decision reflects \"growing evidence that the virtuous cycle between wages and prices is taking hold.\" Major companies agreed to average wage increases of 5.25% in this year's spring labor negotiations, the highest in three decades.\n\n\"In real terms, interest rates remain negative, and monetary conditions continue to be accommodative,\" Ueda told a news conference. The BOJ will also gradually reduce its purchases of Japanese government bonds.\n\nThe yen strengthened to 155.2 per dollar following the announcement, gaining 0.8% on the day. Exporters including Toyota and Sony saw their shares decline, while banking stocks rallied. Mitsubishi UFJ Financial Group rose 2.4%.\n\nEconomists at Nomura Securities expect one more rate hike by year-end, bringing the policy rate to 1.0%. However, global trade tensions and uncertainty over U.S. tariff policies could complicate the BOJ's path forward.\n\nJapan's core consumer price index rose 2.8% in May from a year earlier, staying above the BOJ's 2% target for the 38th consecutive month.",
+    "bodyJa": "日本銀行は木曜日、賃金上昇の強まりと持続的なインフレを背景に、政策当局が金融政策の正常化を継続する自信を深めているとして、政策金利を0.75%に引き上げ、17年ぶりの高水準としました。\n\n植田和男総裁は、この決定は「賃金と物価の好循環が定着しつつあるという証拠が増えていること」を反映していると述べました。大手企業は今年の春闘で平均5.25%の賃上げに合意し、30年ぶりの高水準となりました。\n\n「実質金利は依然としてマイナスであり、金融環境は引き続き緩和的です」と植田氏は記者会見で語りました。日銀は日本国債の買い入れも段階的に縮小します。\n\n発表後、円は1ドル=155.2円まで円高となり、当日0.8%上昇しました。トヨタやソニーなどの輸出企業の株価は下落した一方、銀行株は上昇しました。三菱UFJフィナンシャル・グループは2.4%上昇しました。\n\n野村證券のエコノミストは、年末までにもう1回の利上げがあり、政策金利は1.0%に達すると予想しています。しかし、グローバルな貿易摩擦と米国の関税政策の不確実性が、日銀の今後の道筋を複雑にする可能性があります。\n\n日本のコア消費者物価指数は5月に前年比2.8%上昇し、日銀の2%目標を38か月連続で上回りました。",
+    "source": "Nikkei Asia",
+    "sourceUrl": "https://asia.nikkei.com/",
+    "publishedAt": "2025-07-08T03:00:00Z",
+    "category": "金融政策",
+    "imageUrl": "https://images.unsplash.com/photo-1540959733336-eab4de63ee47?w=800&q=80",
+    "readTime": 4
+  },
+  {
+    "id": "tesla-robotaxi-launch",
+    "title": "Tesla Launches Robotaxi Service in Austin, Texas",
+    "titleJa": "テスラ、テキサス州オースティンでロボタクシーサービスを開始",
+    "summaryJa": "テスラはテキサス州オースティンで自動運転タクシーサービス「Robotaxi」の限定運用を開始しました。Model Yをベースにした車両が、安全運転員なしで市内の特定エリアを走行します。イーロン・マスクCEOは「交通の未来はここから始まる」と述べましたが、規制当局や競合からは安全性への懸念が示されています。ウェイモやクルーズなどの競合は既に他都市で商用サービスを展開しており、テスラは後発組です。初期は招待制の利用者のみが対象で、1回の乗車料金は推定5〜10ドルです。テスラの株価は発表後4%上昇しましたが、自動運転技術の実用化には依然としてハードルが残ります。",
+    "bodyOriginal": "Tesla officially launched its long-awaited Robotaxi service in Austin, Texas on Monday, marking the electric vehicle maker's boldest bet on autonomous driving technology.\n\nA fleet of modified Model Y vehicles began operating in a geofenced area of the city without safety drivers, though remote monitoring staff can intervene if needed. The service is initially available to invited users only, with rides priced between $5 and $10 per trip.\n\n\"This is the beginning of the future of transportation,\" CEO Elon Musk said at a launch event. \"Within a few years, owning a car that doesn't drive itself will be like owning a horse.\"\n\nThe launch comes as competitors Waymo and Cruise have already deployed commercial robotaxi services in Phoenix, San Francisco, and other cities. Analysts note that Tesla's approach relies primarily on camera-based systems without lidar sensors, a design choice that has drawn skepticism from safety advocates.\n\nThe National Highway Traffic Safety Administration said it is monitoring the deployment closely. Austin city officials granted Tesla a permit for up to 200 vehicles in the initial phase.\n\nTesla shares jumped 4% on the news, adding roughly $40 billion to its market value. However, the company faces ongoing lawsuits related to previous Autopilot incidents, and full-scale commercialization could take years.",
+    "bodyJa": "テスラは月曜日、テキサス州オースティンで長らく待望されていたロボタクシーサービスを正式に開始し、自動運転技術への同社最大の賭けを実現しました。\n\n改造されたModel Yの車隊が、安全運転員なしで市内の特定エリア（ジオフェンス内）での運行を開始しましたが、必要に応じてリモート監視スタッフが介入できます。サービスは当初、招待されたユーザーのみが利用可能で、1回の乗車料金は5〜10ドルです。\n\n「これは交通の未来の始まりです」とイーロン・マスクCEOはローンチイベントで述べました。「数年以内に、自分で運転しない車を所有することは、馬を所有するようなものになるでしょう。」\n\nこのローンチは、競合のウェイモやクルーズが既にフェニックス、サンフランシスコなどの都市で商用ロボタクシーサービスを展開している中で行われました。アナリストは、テスラのアプローチが主にLiDARセンサーなしのカメラベースのシステムに依存していることに注目しており、この設計選択は安全擁護派から懐疑的な視線を向けられています。\n\n全米高速道路交通安全局（NHTSA）は展開を綿密に監視していると述べました。オースティン市の当局者は、初期段階で最大200台の車両についてテスラに許可証を交付しました。\n\nテスラの株価はこのニュースで4%急騰し、時価総額は約400億ドル増加しました。しかし、同社は以前のAutopilot関連事故に関する訴訟に直面しており、本格的な商用化には数年かかる可能性があります。",
+    "source": "CNBC",
+    "sourceUrl": "https://www.cnbc.com/",
+    "publishedAt": "2025-07-07T16:00:00Z",
+    "category": "自動車",
+    "imageUrl": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    "readTime": 4
+  },
+  {
+    "id": "opec-oil-production",
+    "title": "OPEC+ Agrees to Gradual Output Increase Starting August",
+    "titleJa": "OPEC+、8月から段階的な原油増産で合意",
+    "summaryJa": "OPEC+は8月から毎月22万バレルの段階的な原油増産に合意しました。サウジアラビア主導のこの決定は、高い原油価格による世界経済への影響を懸念する一方、市場シェアの回復も狙っています。ブレント原油はバレルあたり78ドル前後で推移しており、増産発表後は2%下落しました。エネルギーアナリストは、需要の季節的な強さと地政学リスクが価格の下支えになると分析しています。米国のシェールオイル生産も記録的高水準で、OPEC+の価格支配力は相対的に低下しています。日本や欧州の輸入国にとっては、エネルギーコストの安定化がインフレ抑制に寄与する可能性があります。",
+    "bodyOriginal": "OPEC and its allies agreed on Sunday to begin gradually increasing oil production by 220,000 barrels per day starting in August, a move that signals the group's confidence in global demand while addressing concerns about high energy prices.\n\nSaudi Arabia, the de facto leader of OPEC+, has been balancing the need to support oil prices—which fund its ambitious economic diversification plans—with pressure from consuming nations worried about inflation.\n\nBrent crude fell 2% to $78.40 per barrel following the announcement. Oil prices have traded in a relatively narrow range this year, supported by Middle East tensions but capped by rising U.S. shale production.\n\n\"We believe the market can absorb this additional supply,\" Saudi Energy Minister Prince Abdulaziz bin Salman said after the virtual meeting. The group plans to review production levels monthly.\n\nU.S. shale output has reached record levels of 13.4 million barrels per day, reducing OPEC+'s market influence. American producers have benefited from technology improvements that lowered extraction costs.\n\nFor import-dependent economies like Japan and the eurozone, lower energy costs could help ease inflationary pressures. Japan's trade deficit widened last month partly due to higher fuel import costs.\n\nEnergy analysts at Wood Mackenzie expect Brent to average $80 per barrel in the second half of 2025.",
+    "bodyJa": "OPECと同盟国は日曜日、8月から毎日22万バレルの段階的な原油増産を開始することで合意しました。この動きは、高いエネルギー価格への懸念に対応しつつ、世界の需要に対するグループの自信を示すものです。\n\n事実上のOPEC+のリーダーであるサウジアラビアは、野心的な経済多角化計画の資金源となる石油価格を支える必要性と、インフレを懸念する消費国からの圧力のバランスを取っています。\n\nブレント原油は発表後2%下落し、1バレル=78.40ドルとなりました。原油価格は今年、中東の緊張に支えられながらも、米国のシェール生産の増加によって上値を抑えられ、比較的狭いレンジで推移しています。\n\n「市場はこの追加供給を吸収できると考えています」とサウジのエネルギー大臣アブドゥルアジーズ・ビン・サルマン王子は仮想会議後に述べました。グループは生産量を毎月見直す予定です。\n\n米国のシェール生産量は1日1340万バレルの記録的高水準に達し、OPEC+の市場への影響力を弱めています。米国の生産者は、採掘コストを下げた技術革新の恩恵を受けています。\n\n日本やユーロ圏のような輸入依存型経済にとって、エネルギーコストの低下はインフレ圧力の緩和に役立つ可能性があります。日本の貿易赤字は先月、燃料輸入コストの上昇が一因で拡大しました。\n\nウッド・マッケンジーのエネルギーアナリストは、2025年下半期のブレント原油平均を1バレル80ドルと予想しています。",
+    "source": "Financial Times",
+    "sourceUrl": "https://www.ft.com/",
+    "publishedAt": "2025-07-06T12:00:00Z",
+    "category": "エネルギー",
+    "imageUrl": "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    "readTime": 4
+  },
+  {
+    "id": "amazon-ai-investment",
+    "title": "Amazon Plans $100 Billion AI Infrastructure Investment Over Five Years",
+    "titleJa": "アマゾン、5年間でAIインフラに1000億ドル投資へ",
+    "summaryJa": "アマゾンは今後5年間で人工知能インフラに1000億ドル（約15兆円）を投資する計画を発表しました。AWSのデータセンター拡張、カスタムAIチップ「Trainium」「Inferentia」の開発、生成AIサービスの強化が主な内容です。アンディ・ジャシーCEOは「AIはアマゾンにとってこれまでで最大の技術変革」と強調しました。マイクロソフトやグーグルも同様の大規模投資を発表しており、クラウド各社のAI軍拡競争が激化しています。投資家は短期の利益率低下を懸念する一方、長期的な競争力確保には不可欠と評価しています。AWSの市場シェアは32%で首位を維持していますが、マイクロソフトAzureの追い上げが続いています。",
+    "bodyOriginal": "Amazon announced plans to invest $100 billion in artificial intelligence infrastructure over the next five years, one of the largest corporate technology investments ever disclosed.\n\nThe spending will fund expansion of Amazon Web Services data centers, development of custom AI chips including Trainium and Inferentia, and enhancement of generative AI services such as Amazon Bedrock and the Nova model family.\n\n\"AI represents the biggest technology transformation in Amazon's history,\" CEO Andy Jassy said at the company's annual cloud conference in Las Vegas. \"We are investing at a scale that matches the opportunity.\"\n\nThe announcement comes as cloud rivals Microsoft and Google have committed tens of billions to AI infrastructure. Microsoft's capital expenditure reached $14 billion last quarter alone, while Google parent Alphabet spent $12 billion.\n\nAWS maintains a 32% share of the global cloud market, but Microsoft Azure is growing faster at 29% share. Amazon's stock rose 1.8% on the news, though some investors expressed concern about near-term margin pressure.\n\nThe investment will create an estimated 50,000 construction and engineering jobs across the United States, with new data center campuses planned in Virginia, Ohio, and Oregon.\n\nAnalysts at Morgan Stanley estimate Amazon's AI-related revenue could reach $50 billion annually by 2028.",
+    "bodyJa": "アマゾンは今後5年間で人工知能インフラに1000億ドルを投資する計画を発表し、これは企業が開示した中でも最大級の技術投資の一つです。\n\nこの支出は、Amazon Web Services（AWS）のデータセンター拡張、TrainiumやInferentiaを含むカスタムAIチップの開発、Amazon BedrockやNovaモデルファミリーなどの生成AIサービスの強化に充てられます。\n\n「AIはアマゾンの歴史において最大の技術変革を意味します」とアンディ・ジャシーCEOはラスベガスで開催された同社の年次クラウドカンファレンスで述べました。「私たちはその機会に見合った規模で投資しています。」\n\nこの発表は、クラウドの競合であるマイクロソフトとグーグルがAIインフラに数百億ドルを投じると公約している中で行われました。マイクロソフトの設備投資は昨四半期だけで140億ドルに達し、グーグルの親会社アルファベットは120億ドルを支出しました。\n\nAWSは世界のクラウド市場で32%のシェアを維持していますが、マイクロソフトAzureは29%のシェアでより速い成長を続けています。アマゾンの株価はこのニュースで1.8%上昇しましたが、一部の投資家は短期的な利益率への圧力を懸念しました。\n\nこの投資は米国全体で推定5万人の建設・エンジニアリングの雇用を生み出し、バージニア、オハイオ、オレゴンに新しいデータセンターキャンパスの建設が計画されています。\n\nモルガン・スタンレーのアナリストは、アマゾンのAI関連売上が2028年までに年間500億ドルに達する可能性があると推定しています。",
+    "source": "Wall Street Journal",
+    "sourceUrl": "https://www.wsj.com/",
+    "publishedAt": "2025-07-08T10:00:00Z",
+    "category": "テクノロジー",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    "readTime": 5
+  },
+  {
+    "id": "eu-trade-tariffs",
+    "title": "EU and U.S. Reach Preliminary Trade Deal, Tariffs Reduced to 10%",
+    "titleJa": "EUと米国が貿易合意の大枠で合意、関税を10%に引き下げ",
+    "summaryJa": "欧州連合と米国は貿易協定の大枠で合意し、相互に課していた関税を10%に引き下げることになりました。自動車、鉄鋼、農産物をめぐる紛争が緩和され、両地域の企業にとって見通しが改善しました。欧州の自動車メーカーは米国市場への輸出コストの低下を歓迎しており、フォルクスワーゲンやメルセデス・ベンツの株価が上昇しました。ただし、合意の詳細は今後数週間で詰める必要があり、各国議会の承認も必要です。世界貿易の不確実性が一段落したことで、グローバル株式市場は全体的に上昇しました。日本企業にとっても、欧米間の貿易摩擦緩和はサプライチェーンの安定に寄与すると期待されています。",
+    "bodyOriginal": "The European Union and the United States reached a preliminary trade agreement on Friday, reducing reciprocal tariffs to 10% and easing tensions that have weighed on global markets for months.\n\nThe deal addresses disputes over automobiles, steel, and agricultural products. European automakers, which export millions of vehicles to the U.S. annually, welcomed the reduction in costs. Shares of Volkswagen and Mercedes-Benz rose 3% and 2.5% respectively.\n\n\"We have found a path forward that protects our workers and our industries,\" European Commission President Ursula von der Leyen said at a joint press conference with U.S. Trade Representative Jamieson Greer.\n\nDetails of the agreement still need to be finalized over the coming weeks, and approval from legislative bodies on both sides of the Atlantic is required. Some lawmakers in France and Germany have expressed reservations about concessions made on agricultural access.\n\nGlobal equity markets rallied on the news, with the Stoxx Europe 600 gaining 1.2% and the Dow Jones Industrial Average rising 0.8%. The euro strengthened modestly against the dollar.\n\nJapanese officials said the deal could help stabilize supply chains for automakers and electronics manufacturers with operations in both regions. Trade uncertainty has been a key concern for the Bank of Japan's policy outlook.\n\nAnalysts cautioned that implementation risks remain, and future policy changes in Washington could alter the terms.",
+    "bodyJa": "欧州連合と米国は金曜日、貿易協定の大枠で合意し、相互関税を10%に引き下げ、数か月間世界市場に重しとなっていた緊張を緩和しました。\n\nこの合意は、自動車、鉄鋼、農産物をめぐる紛争に対応するものです。年間数百万台を米国に輸出している欧州の自動車メーカーは、コスト低下を歓迎しました。フォルクスワーゲンとメルセデス・ベンツの株価はそれぞれ3%と2.5%上昇しました。\n\n「私たちの労働者と産業を守る前進の道を見出しました」とウルズラ・フォン・デアライエン欧州委員長は、米国通商代表のジェイミーソン・グリアー氏との共同記者会見で述べました。\n\n合意の詳細は今後数週間で詰める必要があり、大西洋両岸の立法府による承認も必要です。フランスとドイツの一部の議員は、農産物市場アクセスに関する譲歩について懸念を表明しています。\n\nこのニュースを受けて世界の株式市場は上昇し、STOXX欧州600は1.2%、ダウ工業株30種は0.8%上昇しました。ユーロはドルに対して小幅に強含みました。\n\n日本の当局者は、この合意が両地域に事業を展開する自動車メーカーや電機メーカーのサプライチェーン安定に役立つ可能性があると述べました。貿易の不確実性は日本銀行の政策見通しにおける主要な懸念事項でした。\n\nアナリストは、実施リスクが残っており、ワシントンの将来の政策変更が条件を変える可能性があると警告しました。",
+    "source": "Reuters",
+    "sourceUrl": "https://www.reuters.com/business/",
+    "publishedAt": "2025-07-05T18:00:00Z",
+    "category": "貿易",
+    "imageUrl": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "readTime": 4
+  },
+  {
+    "id": "china-stimulus-package",
+    "title": "China Unveils $140 Billion Stimulus Package to Boost Domestic Consumption",
+    "titleJa": "中国、国内消費刺激のため14兆円規模の景気対策を発表",
+    "summaryJa": "中国国務院は国内消費を刺激するため、約1400億ドル（約21兆円）規模の景気対策パッケージを発表しました。家電製品や自動車の買い替え補助、地方自治体向けのインフラ投資、住宅ローン金利の引き下げが含まれます。不動産市場の長期低迷と若年層の高失業率が経済の弱点となっており、当局は内需拡大に注力しています。上海総合指数は発表後2.1%上昇しました。ただし、経済学者の間では、この措置だけでは構造的な問題の解決には不十分ではないかとの見方もあります。日本企業にとっては、中国市場の消費回復が輸出にプラスに働く可能性がありますが、地政学リスクは依然として不透明感を残しています。",
+    "bodyOriginal": "China's State Council unveiled a 1 trillion yuan ($140 billion) stimulus package on Wednesday aimed at boosting domestic consumption and stabilizing economic growth amid persistent property market weakness.\n\nThe measures include subsidies for replacing home appliances and vehicles, increased infrastructure spending by local governments, and reduced mortgage rates for first-time homebuyers. Consumer vouchers will be distributed in major cities including Beijing, Shanghai, and Shenzhen.\n\n\"Expanding domestic demand is our top priority,\" Premier Li Qiang said at a State Council meeting. \"We must activate the consumption potential of our 1.4 billion people.\"\n\nChina's economy grew 5.2% in the first quarter, meeting the government's annual target, but youth unemployment remains elevated at 15.3%, and property investment has declined for 18 consecutive months.\n\nThe Shanghai Composite Index rose 2.1% following the announcement. Japanese and South Korean exporters with significant China exposure, including Toyota and Samsung, saw modest stock gains.\n\nEconomists at UBS said the package is \"necessary but insufficient\" to address structural challenges including local government debt and demographic headwinds. They expect additional measures later this year.\n\nForeign businesses welcomed the focus on consumption but called for clearer regulatory policies and equal treatment for international companies operating in China.",
+    "bodyJa": "中国国務院は水曜日、不動産市場の長期低迷の中で国内消費を刺激し経済成長を安定させることを目的とした、1兆元（約1400億ドル）規模の景気対策パッケージを発表しました。\n\nこの措置には、家電製品や自動車の買い替え補助金、地方自治体によるインフラ支出の増加、初めて住宅を購入する人向けの住宅ローン金利の引き下げが含まれます。北京、上海、深センを含む主要都市で消費券が配布されます。\n\n「国内需要の拡大が最優先事項です」と李強首相は国務院の会議で述べました。「14億人の消費潜在力を活性化しなければなりません。」\n\n中国経済は第1四半期に5.2%成長し、政府の年間目標を達成しましたが、若年失業率は15.3%と依然として高く、不動産投資は18か月連続で減少しています。\n\n発表後、上海総合指数は2.1%上昇しました。中国市場への露出が大きいトヨタやサムスンを含む日本と韓国の輸出企業の株価も小幅に上昇しました。\n\nUBSのエコノミストは、このパッケージは地方政府の債務や人口動態の逆風といった構造的課題に対処するには「必要だが不十分」だと述べました。年内に追加措置があると予想しています。\n\n外国企業は消費重視を歓迎したものの、より明確な規制政策と、中国で事業を展開する国際企業への平等な扱いを求めました。",
+    "source": "South China Morning Post",
+    "sourceUrl": "https://www.scmp.com/",
+    "publishedAt": "2025-07-08T06:00:00Z",
+    "category": "マクロ経済",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    "readTime": 5
+  }
+];
+
+function formatDate(iso) {
+  return new Date(iso).toLocaleDateString("ja-JP", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
+function getCategories() {
+  const cats = new Set(ARTICLES.map((a) => a.category));
+  return ["すべて", ...cats];
+}
+
+function getArticleById(id) {
+  return ARTICLES.find((a) => a.id === id);
+}
+
+function getArticlesByCategory(category) {
+  if (!category || category === "すべて") return ARTICLES;
+  return ARTICLES.filter((a) => a.category === category);
+}
+
+function escapeHtml(str) {
+  const div = document.createElement("div");
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function paragraphs(text) {
+  return text.split("\n\n").filter(Boolean);
+}
+
+
+let activeCategory = "すべて";
+
+function navigate(hash) {
+  if (hash) location.hash = hash;
+  else {
+    history.pushState(null, "", location.pathname + location.search);
+    location.hash = "";
+  }
+  render();
+  window.scrollTo(0, 0);
+}
+
+function updateMobileBar(show) {
+  const bar = document.getElementById("mobile-back-bar");
+  document.body.classList.toggle("has-mobile-bar", show);
+  if (bar) bar.classList.toggle("hidden", !show);
+}
+
+function getRoute() {
+  const h = location.hash.replace(/^#/, "");
+  if (h.startsWith("article/")) {
+    return { page: "article", id: decodeURIComponent(h.slice(8)) };
+  }
+  return { page: "home" };
+}
+
+function renderHome() {
+  document.title = "BizNews JP | ビジネスニュース和訳";
+  updateMobileBar(false);
+  const main = document.getElementById("app");
+  main.className = "main-content";
+  main.innerHTML = `
+    <section>
+      <h1 class="page-title">ビジネスニュース</h1>
+      <p class="page-desc">世界の主要メディアから厳選。要約と全文和訳付き。</p>
+    </section>
+    <div class="category-bar" id="category-bar" role="tablist" aria-label="カテゴリ"></div>
+    <div id="articles-container"></div>
+    <div class="info-box">
+      <strong>記事の読み方：</strong>
+      各記事を開くと、まず全文の要約（日本語）が表示されます。その下に和訳全文を掲載しています。原文は折りたたみで確認できます。
+    </div>`;
+  renderCategories();
+  renderArticles();
+}
+
+function renderCategories() {
+  const bar = document.getElementById("category-bar");
+  if (!bar) return;
+  const categories = getCategories();
+  bar.innerHTML = categories
+    .map(
+      (cat) =>
+        `<button type="button" class="cat-btn${cat === activeCategory ? " active" : ""}" data-category="${escapeHtml(cat)}" role="tab">${escapeHtml(cat)}</button>`
+    )
+    .join("");
+  bar.querySelectorAll(".cat-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      activeCategory = btn.dataset.category;
+      renderCategories();
+      renderArticles();
+    });
+  });
+}
+
+function renderArticles() {
+  const container = document.getElementById("articles-container");
+  if (!container) return;
+  const filtered = getArticlesByCategory(activeCategory);
+  if (filtered.length === 0) {
+    container.innerHTML = '<p style="text-align:center;color:#64748b;padding:3rem 0">該当する記事がありません。</p>';
+    return;
+  }
+  const [featured, ...rest] = filtered;
+  let html = "";
+  if (featured) {
+    html += `
+      <a href="#article/${encodeURIComponent(featured.id)}" class="featured-card" style="margin-bottom:0.75rem;display:block">
+        <div class="featured-img-wrap">
+          <img src="${featured.imageUrl}" alt="${escapeHtml(featured.titleJa)}" loading="lazy" />
+          <div class="featured-overlay"></div>
+          <div class="featured-overlay-text">
+            <span class="badge">${escapeHtml(featured.category)}</span>
+            <h2 class="featured-title">${escapeHtml(featured.titleJa)}</h2>
+          </div>
+        </div>
+        <div class="card-body">
+          <p class="card-summary">${escapeHtml(featured.summaryJa)}</p>
+          <div class="card-meta">
+            <span>${escapeHtml(featured.source)}</span><span>·</span>
+            <span>${formatDate(featured.publishedAt)}</span><span>·</span>
+            <span>${featured.readTime}分で読める</span>
+          </div>
+        </div>
+      </a>`;
+  }
+  if (rest.length) {
+    html += '<div class="articles-list">' + rest.map((a) => `
+      <a href="#article/${encodeURIComponent(a.id)}" class="article-card">
+        <div class="card-thumb"><img src="${a.imageUrl}" alt="${escapeHtml(a.titleJa)}" loading="lazy" /></div>
+        <div class="card-content">
+          <span class="badge badge-light">${escapeHtml(a.category)}</span>
+          <h3 class="card-title">${escapeHtml(a.titleJa)}</h3>
+          <p class="card-summary" style="-webkit-line-clamp:2;margin-top:0.25rem">${escapeHtml(a.summaryJa)}</p>
+          <div class="card-meta">
+            <span>${escapeHtml(a.source)}</span><span>·</span>
+            <span>${formatDate(a.publishedAt)}</span>
+          </div>
+        </div>
+      </a>`).join("") + "</div>";
+  }
+  container.innerHTML = html;
+}
+
+function renderArticlePage(id) {
+  const article = getArticleById(id);
+  const main = document.getElementById("app");
+  main.className = "main-content article-detail";
+  if (!article) {
+    document.title = "記事が見つかりません | BizNews JP";
+    updateMobileBar(false);
+    main.innerHTML = `
+      <div class="not-found">
+        <h1>記事が見つかりません</h1>
+        <p>お探しの記事は存在しないか、削除された可能性があります。</p>
+        <a href="#" class="btn-primary" onclick="navigate('');return false;">トップに戻る</a>
+      </div>`;
+    return;
+  }
+  updateMobileBar(true);
+  document.title = article.titleJa + " | BizNews JP";
+  const parasJa = paragraphs(article.bodyJa).map((p) => `<p>${escapeHtml(p)}</p>`).join("");
+  const parasEn = paragraphs(article.bodyOriginal).map((p) => `<p>${escapeHtml(p)}</p>`).join("");
+  main.innerHTML = `
+    <a href="#" class="back-link" onclick="navigate('');return false;">← 記事一覧に戻る</a>
+    <div class="article-hero"><img src="${article.imageUrl}" alt="${escapeHtml(article.titleJa)}" /></div>
+    <header class="article-header">
+      <div style="display:flex;flex-wrap:wrap;gap:0.5rem;align-items:center;margin-bottom:0.75rem">
+        <span class="badge">${escapeHtml(article.category)}</span>
+        <span style="font-size:0.75rem;color:#94a3b8">${escapeHtml(article.source)}</span>
+      </div>
+      <h1 class="article-h1">${escapeHtml(article.titleJa)}</h1>
+      <p class="article-title-en">${escapeHtml(article.title)}</p>
+      <div class="card-meta">
+        <time datetime="${article.publishedAt}">${formatDate(article.publishedAt)}</time>
+        <span>·</span><span>約${article.readTime}分で読める</span>
+      </div>
+    </header>
+    <section>
+      <div class="section-heading"><div class="section-bar"></div><h2>要約</h2></div>
+      <div class="summary-box"><p>${escapeHtml(article.summaryJa)}</p></div>
+    </section>
+    <section>
+      <div class="section-heading"><div class="section-bar gray"></div><h2>和訳全文</h2></div>
+      <div class="translation-box">${parasJa}</div>
+    </section>
+    <section>
+      <button type="button" class="toggle-btn" id="toggle-original" aria-expanded="false">
+        <span>原文（英語）を表示する</span><span class="arrow">▼</span>
+      </button>
+      <div class="original-box hidden" id="original-box">${parasEn}</div>
+    </section>
+    <p class="source-line">出典：<a href="${article.sourceUrl}" target="_blank" rel="noopener noreferrer">${escapeHtml(article.source)}</a></p>`;
+  const toggleBtn = document.getElementById("toggle-original");
+  const originalBox = document.getElementById("original-box");
+  toggleBtn.addEventListener("click", () => {
+    const isHidden = originalBox.classList.toggle("hidden");
+    const isOpen = !isHidden;
+    toggleBtn.classList.toggle("open", isOpen);
+    toggleBtn.setAttribute("aria-expanded", String(isOpen));
+    toggleBtn.querySelector("span").textContent = isOpen ? "原文（英語）を隠す" : "原文（英語）を表示する";
+  });
+}
+
+function render() {
+  const route = getRoute();
+  if (route.page === "article") renderArticlePage(route.id);
+  else renderHome();
+}
+
+window.addEventListener("hashchange", render);
+window.addEventListener("popstate", render);
+document.addEventListener("DOMContentLoaded", () => {
+  const backBtn = document.getElementById("mobile-back-btn");
+  if (backBtn) backBtn.addEventListener("click", () => navigate(""));
+  render();
+});
+
+  </script>
+</body>
+</html>
