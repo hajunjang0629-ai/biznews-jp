@@ -15,6 +15,382 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "kevin-warsh-names-members-of-his-federal-7d7af9cd",
+    title: "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
+    titleJa: "ケビン・ウォーシュはマーク・アンドリーセン、ダグ・マクミロンらを連邦準備制度の特別委員会のメンバーに指名",
+    summaryJa: "FRBのケビン・ウォーシュ議長は木曜日、FRBの運営を調査するための5つの特別委員会を構成する専門家の名前を発表した。そのリストにはウォール街の著名人、ビジネスリーダー、そして広範囲にわたる学者や元FRB関係者が含まれている。ウォーシュ氏は先月初めて特別委員会を設置する意向を明らかにし、コミュニケーション、データ、FRBのバランスシート、データ、生産性、雇用、政策立案者のインフレに対する見方の枠組みに取り組むと述べた。同グループは、ウォーシュ氏が約束した金融政策の見直しの一環として、インフレから人工知能まであらゆるものに取り組む予定だ。",
+    bodyOriginal: `Federal Reserve Chairman Kevin Warsh on Thursday released names of the experts who will comprise five task forces to examine the institution's operations — a list that includes several prominent Wall Street names, business leaders and a wide expanse of academicians and former Fed officials.
+Warsh first disclosed his intention to create the task forces last month, saying they would tackle communications, data, the Fed's balance sheet, data, productivity and jobs and the framework for how the policymakers view inflation. The group's will tackle everything from inflation to artificial intelligence as part of Warsh's promised review of monetary policy.
+Among the prominent names involved are venture capitalist Marc Andreessen, former Bank of England Governor Mervin King, and Greg Mankiw, former chairman of the White House's Council of Economic Advisers. Doug McMillon, the former CEO of Walmart, leads the names of business executives involved. Several of the names, including King, had been leaked previously.
+"I am honored that the best minds from a range of disciplines have agreed to work with us to sharpen our performance as an institution," Warsh said. "The goal is straightforward: to ensure the Fed is best positioned to achieve our objectives in this consequential time."
+A Fed news release did not indicate a timeline of when the task forces would complete their work, though Warsh has said he expects changes to come this year.
+The statement also noted that the panels will "operate independently, with a mandate to follow the evidence, provide candid feedback, and produce rigorous findings" that will be reported back to officials on the Federal Open Market Committee.
+Members represent a swath of interests, spanning ideologies and backgrounds.
+Others named to the task forces include Raghuram Rajan, former governor the Reserve Bank of India; former Fed Governor Jeremy Stein and William White, a Canadian economist who warned about central bank easy money prior to the 2008 global financial crisis.
+For Andreesen, this is the second prominent appointment in recent days, having been named in late June to the U.S. Defense Policy Board, a civilian advisory group for the Pentagon. Andreesen is on the productivity and jobs task force.
+When he initially announced the task forces, Warsh, who has been chairman for less than two months, said the groups would "start with first principles; ask hard questions; examine current practice; consider alternatives; and, ultimately, propose next steps for policymaker consideration."
+The chairman said in the Thursday announcement that the Fed has "resolve to pursue our mandate with rigor."
+The task forces are expected to take a sharp look at Fed orthodoxy. Warsh already has had an impact on Fed communications as officials look to provide less guidance about where policy is headed and focus more on their "reaction function," or the conditions under which they will adjust interest rates. The post-meeting statement in June was notably shorter than prior versions.
+The members of the task forces are:
+Communications: Peter R. Fisher, professor of practice, Foster School of Business, University of Washington; Arminio Fraga, founder and chairman, Gávea Investimentos and the former president of the Central Bank of Brazil; and King.
+Balance Sheet Policy: Karen Dynan, Harvard economist; Rajan and Stein.
+Data: McMillon, Harvard economist Raj Chetty and University of Chicago economist Kevin Murphy.
+Productivity and Jobs: Andreesen, Stanford economist Charles I. Jones, and Asha Sharma, executive vice president and XBOX CEO at Microsoft.
+Inflation Frameworks: Mankiw, White and New York University economist Thomas Sargent.
+The groups will be supported as well by Fed staff.`,
+    bodyJa: `FRBのケビン・ウォーシュ議長は木曜日、FRBの運営を調査するための5つの特別委員会を構成する専門家の名前を発表した。そのリストにはウォール街の著名人、ビジネスリーダー、そして広範囲にわたる学者や元FRB関係者が含まれている。
+ウォーシュ氏は先月初めて特別委員会を設置する意向を明らかにし、コミュニケーション、データ、FRBのバランスシート、データ、生産性、雇用、政策立案者のインフレに対する見方の枠組みに取り組むと述べた。同グループは、ウォーシュ氏が約束した金融政策の見直しの一環として、インフレから人工知能まであらゆるものに取り組む予定だ。
+関与した著名人の中には、ベンチャーキャピタリストのマーク・アンドリーセン氏、元イングランド銀行総裁マービン・キング氏、元ホワイトハウス経済諮問委員長グレッグ・マンキュー氏などが含まれる。ウォルマートの元最高経営責任者（CEO）であるダグ・マクミロン氏が、関与した企業幹部の名前を率いている。キング氏を含む数人の名前は以前にリークされていた。
+「さまざまな分野の最高の人材が、機関としてのパフォーマンスを向上させるために私たちと協力することに同意したことを光栄に思います」とウォーシュ氏は述べた。 「目標は単純明快で、この重大な時期にFRBが目標を達成するために最適な立場にあることを保証することだ。」
+FRBのニュースリリースでは、タスクフォースがいつ作業を完了するかについてのスケジュールは示されていないが、ウォーシュ総裁は今年中に変更が加えられると予想していると述べた。
+声明ではまた、委員会は「証拠を追跡し、率直なフィードバックを提供し、厳密な調査結果を生み出すという使命のもと、独立して運営」され、それらの調査結果は連邦公開市場委員会の当局者に報告されると述べた。
+メンバーは、イデオロギーや背景にまたがる幅広い関心を代表しています。
+特別委員会に指名された他のメンバーには、元インド準備銀行総裁のラグラム・ラジャン氏も含まれる。元FRB総裁のジェレミー・スタイン氏と、2008年の世界金融危機前に中央銀行のイージーマネーについて警告したカナダの経済学者ウィリアム・ホワイト氏。
+アンドリーセン氏にとって、これは、6月下旬に国防総省の文民諮問機関である米国国防政策委員会のメンバーに指名されて以来、ここ数日で2度目の重要な任命となる。アンドリーセン氏は生産性と雇用の特別委員会に所属している。
+委員長に就任して2カ月も経っていないウォーシュ氏は、最初にタスクフォースの設立を発表した際、各グループが「第一原則から始め、厳しい質問をし、現在の慣行を調査し、代替案を検討し、最終的には政策立案者の検討のために次のステップを提案する」と述べた。
+議長は木曜日の発表で、FRBは「我々の任務を厳格に遂行する決意」をしていると述べた。
+特別委員会はFRBの正統性を厳しく検討すると予想されている。当局者が政策の方向性についてのガイダンスをあまり提供せず、「反応機能」、つまり金利を調整する条件に重点を置く傾向にあるため、ウォーシュ氏はすでにFRBのコミュニケーションに影響を与えている。 6月の会合後の声明は、以前の声明に比べて著しく短かった。
+タスクフォースのメンバーは次のとおりです。
+コミュニケーション: ピーター R. フィッシャー、ワシントン大学フォスター ビジネス スクール実践教授。アルミニオ・フラガ氏、Gávea Investimentos の創設者兼会長、ブラジル中央銀行の元総裁。そしてキング。
+バランスシート政策: カレン・ダイナン、ハーバード大学の経済学者。ラージャンとスタイン。
+データ: マクミロン、ハーバード大学の経済学者ラジ・チェッティ、シカゴ大学の経済学者ケビン・マーフィー。
+生産性と雇用: アンドリーセン氏、スタンフォード大学の経済学者チャールズ I. ジョーンズ氏、およびマイクロソフトの執行副社長兼 XBOX CEO のアシャ シャルマ氏。
+インフレの枠組み: マンキュー、ホワイト、ニューヨーク大学の経済学者トーマス・サージェント。
+これらのグループはFRB​​スタッフからも支援される予定だ。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/kevin-warsh-names-members-of-his-federal-reserve-task-forces-including-marc-andreessen-doug-mcmillon.html",
+    publishedAt: "2026-07-09T19:53:20+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "new-ex-elon-etfs-let-you-avoid-spacex-an-66f8d4c6",
+    title: "New ‘Ex-Elon’ ETFs let you avoid SpaceX and Tesla — but are they just a gimmick?",
+    titleJa: "新しい「Ex-Elon」ETF を使えば、SpaceX と Tesla を回避できますが、単なる仕掛けなのでしょうか?",
+    summaryJa: "ある専門家は、Subversiveの新しいETFが有意義な形で普及するかどうかを疑っている。",
+    bodyOriginal: `One expert doubts that new ETFs from Subversive will catch on in a meaningful way.`,
+    bodyJa: `ある専門家は、Subversiveの新しいETFが有意義な形で普及するかどうかを疑っている。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/new-ex-elon-etfs-let-you-avoid-spacex-and-tesla-but-are-they-just-a-gimmick-e872d762?mod=mw_rss_topstories",
+    publishedAt: "2026-07-09T19:52:00+00:00",
+    category: "自動車",
+    imageUrl: "https://images.mktw.net/im-33044798",
+    readTime: 2,
+  },
+  {
+    id: "only-5-of-u-s-adults-can-ace-this-8-ques-48aae2ba",
+    title: "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+    titleJa: "この 8 つの質問による金融リテラシー テストに合格できるのは、米国の成人のわずか 5% です。できますか？",
+    summaryJa: "金融リテラシーはここ 10 年で最低水準に達し、銀行口座は壊滅的な打撃を受けています。",
+    bodyOriginal: `Financial literacy just hit a 10-year low — and it is devastating bank accounts.`,
+    bodyJa: `金融リテラシーはここ 10 年で最低水準に達し、銀行口座は壊滅的な打撃を受けています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+    publishedAt: "2026-07-09T19:49:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-73352954",
+    readTime: 2,
+  },
+  {
+    id: "a-huge-trade-just-happened-on-the-nasdaq-310066f2",
+    title: "A huge trade just happened on the Nasdaq 100. Bulls are taking notice",
+    titleJa: "ナスダック 100 で大規模な取引が起こった。強気派が注目している",
+    summaryJa: "木曜日のインベスコQQQトラストETFの単独最大の取引が何らかの兆候であれば、ハイテク強気派は新高値をそれほど長く待つ必要はないかもしれない。同トレーダーは、今月末までにナスダック100指数が史上最高値を更新する必要がある3部構成のコールスプレッド、確信度の高い方向性の賭け、そして木曜日に取引された全オプションの中で3番目に大きな取引に2400万ドルを費やした。",
+    bodyOriginal: `Tech bulls may not have to wait much longer for fresh highs, if the single-biggest trade in the Invesco QQQ Trust ETF on Thursday is any indication.
+The trader spent $24 million on a three-part call spread that needs the Nasdaq-100 index to make an all-time high by the end of this month, a high-conviction directional bet and the third-biggest trade among all options exchanged on Thursday.
+Despite recent volatility, the Nasdaq 100 has been effectively flat since May 14. The index last made a high on June 3, with most options volume centering around the $710 level, according to data from ThinkOrSwim. At the same time, the S&P 500 has been trading in a roughly 200-point range since early May.
+The main piece of the bullish position, executed about 90 minutes after the opening bell, was a $30 million purchase of 28,000 736-strike calls expiring July 31. At the same time, the person sold $6 million worth of the 730/740-strike call spread expiring the same date, lowering the cost of the trade, but pushing the breakeven up to about $750 – less than $2 above the QQQ high from early June.
+"If he doesn't have another position against this, he needs Qs to explode higher," Scott Bauer, CEO of Chicago-based Prosper Trading Academy, said by phone. "The spread reduces his cost but pushes up the level for the breakeven. If the index just grinds he's going to get killed."
+Open interest in the 736-strike calls was equal to the volume of the trade at the time of execution, suggesting the trader might have been buying back calls that they sold, arguably a lower-conviction trade but still one that reflects a neutral to positive view on the index.
+Of the $1.6 billion in QQQ options traded Thursday, $944 million was tied to calls, according to SpotGamma data, though about as many calls were sold as bought, ThinkOrSwim data suggest. Almost exactly the same number of contracts were sold as bought for both puts and calls.
+While the $24 million trade stands out for its apparent directional bias, one of the two trades bigger on the day was also bullish, in the S&P 500 ETF SPY.
+In that fund, someone bought 2,000 of deep in-the-money 500-strike calls expiring July 24 for $50 million.
+The second-biggest single trade of the day was in nuclear business Oklo, where someone bought $46 million worth of 200-strike calls expiring in January 2028, as well as $21 million of 90-strike calls expiring in mid-December. The stock currently trades at $50.`,
+    bodyJa: `木曜日のインベスコQQQトラストETFの単独最大の取引が何らかの兆候であれば、ハイテク強気派は新高値をそれほど長く待つ必要はないかもしれない。
+同トレーダーは、今月末までにナスダック100指数が史上最高値を更新する必要がある3部構成のコールスプレッド、確信度の高い方向性の賭け、そして木曜日に取引された全オプションの中で3番目に大きな取引に2400万ドルを費やした。
+最近のボラティリティにもかかわらず、ナスダック 100 は 5 月 14 日以降、実質的に横ばいでした。ThinkOrSwim のデータによると、ナスダック 100 指数が最後に高値を付けたのは 6 月 3 日で、ほとんどのオプション取引高は 710 ドルの水準を中心にしていました。同時に、S&P500指数は5月初旬以来、約200ポイントの範囲で取引されている。
+開始ベルの約90分後に実行された強気ポジションの主な部分は、7月31日に期限切れとなる2万8000個の736ストライクコールを3000万ドルで購入したことだった。同時に、その人物は同日期限切れの730/740ストライクコールスプレッドの600万ドル相当を売却し、取引コストを下げたが、損益分岐点を約750ドルまで押し上げた。これはQQQの高値を2ドル下回っていた。 6月上旬から。
+シカゴに本拠を置くプロスパー・トレーディング・アカデミーのスコット・バウアー最高経営責任者（CEO）は、「彼がこれに対して別のポジションを持っていないのであれば、Qsを爆発的に高める必要がある」と電話で語った。 「スプレッドは彼のコストを削減しますが、損益分岐点のレベルを押し上げます。指​​数がただ下がったら、彼は殺されるでしょう。」
+736ストライクコールの建玉は約定時の取引量と同額であり、トレーダーが売却したコールを買い戻していた可能性があることを示唆しており、おそらく確信度の低い取引ではあるが、依然として指数に対して中立から肯定的な見方を反映している取引であると考えられる。
+SpotGamma データによると、木曜日に取引された QQQ オプション 16 億ドルのうち、9 億 4,400 万ドルがコールに関連していましたが、ThinkOrSwim のデータによると、コールの売りと買いの数はほぼ同じでした。プットとコールの両方で、売られた契約と買われた契約の数がほぼ同じ数でした。
+2,400万ドルの取引は、その明らかな方向性の偏りで際立っていますが、この日のより大きな取引2件のうちの1件、S&P 500 ETF SPYも強気でした。
+そのファンドでは、誰かが7月24日に期限切れとなるディープ・イン・ザ・マネーの500ストライク・コール2,000件を5,000万ドルで購入した。
+この日2番目に大きかった単一取引は原子力事業オクロで、誰かが2028年1月に期限切れとなる200ストライクコールを4,600万ドル相当と、12月中旬に期限切れとなる90ストライクコールを2,100万ドル相当購入した。現在、株価は50ドルで取引されている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/a-huge-trade-just-happened-on-the-nasdaq-100-bulls-are-taking-notice.html",
+    publishedAt: "2026-07-09T19:26:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "anduril-ceo-says-it-s-bad-to-ipo-in-midd-afecdbf6",
+    title: "Anduril CEO says it's bad to IPO in ‘middle of a hype cycle’",
+    titleJa: "アンドゥリルCEO、「誇大宣伝サイクルの真っ只中」にIPOするのは良くないと語る",
+    summaryJa: "アンドゥリルのブライアン・シンプ最高​​経営責任者（CEO）は、現在の市場状況を考慮すると、防衛テクノロジー企業は上場を急ぐ必要はないと述べた。シンプ氏は木曜日、アレン＆カンパニー・サンバレーカンファレンスでCNBCのジュリア・ブールスティンに対し、「投資家が実際に上場してから3年間で十分な利益を得られたことをIPOの成功と定義する」と語った。 「誇大宣伝サイクルの真っ只中は、それを行うには悪い時期です。ですから、急いで外出する必要はありません。」",
+    bodyOriginal: `Anduril CEO Brian Schimpf said the defense tech company is in no hurry to go public given the current market conditions.
+"We define a successful IPO as our investors got a good return three years from actually going out," Schimpf told CNBC's Julia Boorstin at the Allen & Co. Sun Valley Conference on Thursday. "A bad time to do that is in the middle of a hype cycle. So we're not in a rush to go out."
+Defense tech companies like Anduril are riding a surge in demand for their products and services, fueled by President Donald Trump's military reindustrialization aspirations. Spending on the technology is hitting all-time highs, with the defense budget on track to reach $1.5 trillion.
+Still, the tech IPO market remains relatively tepid, even after SpaceX's record offering last month. Shares of Elon Musk's space and artificial intelligence company closed at a high of $201.80 on their third day, but have since lost about a quarter of their value and are trading just above their $150 opening price.
+Meanwhile, AI model leaders OpenAI and Anthropic have both confidentially filed to go public, but neither have set a timeline for their IPOs. Some investors are increasingly skeptical of whether the public market would buy in at their current valuations of close to $1 trillion.
+Anduril, which makes drones and AI-powered weapons, doubled its valuation in May to $61 billion, becoming one of the most richly valued private tech companies. Schimpf said at the time that the company would "aggressively" invest in scaling defense systems for the U.S.
+Defense tech companies Shield AI and autonomous shipmaker Saronic also closed big funding rounds earlier this year.
+However, that's not necessarily a good thing, Schimpf said.
+"We're seeing crazy high valuations on the expectations of future growth and all of those different things," he said. "I'm not sure that the market is particularly rational on the pricing right now."
+As Anduril scales, questions mount over when the shares will finally hit the public market. Founder Palmer Luckey has said he "definitely" aims to IPO, but hasn't set a target.
+"I do think a lot of companies are dangerously leading into overvalued territory in a way that could backfire," Schimpf said.
+WATCH: Nasdaq's president says there's a 'significant' pickup in international firms listing`,
+    bodyJa: `アンドゥリルのブライアン・シンプ最高​​経営責任者（CEO）は、現在の市場状況を考慮すると、防衛テクノロジー企業は上場を急ぐ必要はないと述べた。
+シンプ氏は木曜日、アレン＆カンパニー・サンバレーカンファレンスでCNBCのジュリア・ブールスティンに対し、「投資家が実際に上場してから3年間で十分な利益を得られたことをIPOの成功と定義する」と語った。 「誇大宣伝サイクルの真っ只中は、それを行うには悪い時期です。ですから、急いで外出する必要はありません。」
+アンドゥリルのような防衛テクノロジー企業は、ドナルド・トランプ大統領の軍事再産業化の願望に後押しされて、自社の製品やサービスに対する需要の急増に乗っている。この技術への支出は過去最高を記録しており、国防予算は1兆5000億ドルに達する見込みだ。
+それでも、スペースX社が先月記録的な株式を公開した後でも、ハイテクIPO市場は比較的低調なままだ。イーロン・マスク氏の宇宙・人工知能企業の株価は3日目に201.80ドルの高値で取引を終えたが、その後は価値の約4分の1を失い、初値の150ドルをわずかに上回る水準で取引されている。
+一方、AIモデルのリーダーであるOpenAIとAnthropicは両社とも極秘に株式公開を申請しているが、どちらもIPOのスケジュールを設定していない。一部の投資家は、公開市場が現在の1兆ドル近い評価額で買い入れるかどうかについて、懐疑的な見方を強めている。
+ドローンやAI搭載兵器を製造するアンドゥリルは、5月に評価額を2倍の610億ドルに引き上げ、最も価値のある民間テクノロジー企業の1つとなった。シンプフ氏は当時、同社が米国の防衛システムの拡張に「積極的に」投資すると述べた。
+防衛テクノロジー企業のシールドAIと自律型船舶メーカーのサロニックも今年初めに大規模な資金調達ラウンドを終了した。
+しかし、それは必ずしも良いことではない、とシンプ氏は言う。
+同氏は、「将​​来の成長への期待や、さまざまな事柄について、非常に高い評価が見られている」と述べた。 「現時点で市場が特に合理的な価格設定をしているかどうかはわかりません。」
+アンドゥリルの規模が拡大するにつれ、株式が最終的に公開市場に投入されるのはいつになるのかという疑問が高まっている。創業者のパーマー・ラッキー氏は「間違いなく」IPOを目指すと述べたが、目標は設定していない。
+「多くの企業が、裏目に出かねない危険なやり方で過大評価の領域に突入しようとしていると私は思う」とシンプフ氏は語った。
+注目：ナスダック社長、国際企業の上場が「大幅に」増加していると発言`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/anduril-ceo-ipo-defense.html",
+    publishedAt: "2026-07-09T18:52:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "prediction-markets-spark-insider-trading-3c812188",
+    title: "Prediction markets spark insider trading concerns. Here's how Goldman and other companies are responding",
+    titleJa: "予測市場はインサイダー取引の懸念を引き起こします。ゴールドマンと他の企業の対応は次のとおりです",
+    summaryJa: "インサイダー取引は、予測市場という新しい世界において新たなリスクとなっており、ゴールドマン・サックスを含む一部の企業は、プラットフォーム上での従業員の取引を制限する措置を講じています。関係者によると、ゴールドマン・サックスは従業員に対し、選挙、金融市場、マクロ経済データ、地政学だけでなく、銀行特有の出来事に関連した契約に基づいて取引することを禁止した。",
+    bodyOriginal: `Insider trading is an emerging risk in the new world of prediction markets, and some companies – including Goldman Sachs – are taking steps to limit employees' trades on the platforms.
+Goldman Sachs has banned its employees from trading on contracts related to events that are specific to the bank, as well as elections, financial markets, macroeconomic data and geopolitics, according to people familiar with the matter.
+A representative for Goldman declined to comment on the policy, but did state that the bank prohibits using material, nonpublic information to trade across all markets.
+While some firms have started developing policies to managing insider trading risks on prediction markets, many others have yet to take those first steps, legal experts say.
+"We are getting constant questions from clients, particularly among regulated entity clients, about what the regulator expectations are, what the risks are, where the areas of potential liability are," said David Oliwenstein, a partner and securities enforcement practice lead at Pillsbury.
+The news of an explicit prediction market trading directive at Goldman comes after the first event contract insider-trading case to involve a private sector company.
+In May, the Commodity Futures Trading Commission and Department of Justice charged Google employee Michele Spagnuolo with using material, nonpublic information to trade on Polymarket contracts related to the browser's "Year in Search" lists. Using the handle "AlphaRaccoon," Spagnuolo allegedly collected about $1.2 million in profit, according to the CFTC's complaint.
+Legal experts said the sheer number of contracts available on prediction platforms may provide new avenues for material, nonpublic information to be used to turn a profit. For example, a Google employee could use internal data to trade on contracts about what the company's headcount will be this year, when it may release a new version of its Gemini AI tool or where Alphabet's share price will end the month.
+"All these different questions that you're able to bet on… it makes it really hard to kind of play whack-a-mole in terms of where people are using the information they've obtained confidentially," said Karen Woody, law professor at Washington and Lee University.
+Lawyers told CNBC that as more insider trading on these platforms is caught and prosecuted, there will be greater expectations that businesses have sufficient policies and education to avoid any potential liability in a case involving one of their employees.
+But lawyers also said they're advising clients it's nowhere near late, and companies should take this time now to develop the necessary policies.
+Where companies stand
+CNBC reached out to 50 publicly traded and privately held companies, which all have contracts regarding details about their businesses on prediction market platforms.
+In total, only three revealed they have policies related to trading on prediction markets, while another two said it was something they were actively reviewing.
+United Airlines told CNBC it does not have an explicit policy on prediction market trading, but that its employee guidelines "prohibit using your position (or company confidential information gained from your position) for your personal gain."
+A spokesperson for JPMorgan Chase confirmed a Barron's report that employees are urged to proceed with caution when trading on prediction markets — particularly on contracts related to the financial sector.
+At Morgan Stanley, a spokesperson said the bank has policies regarding trading on prediction markets in its employee code of conduct, but did not disclose further details.
+A person familiar with Bank of America's plans told CNBC that the company was in the process of communicating updates to policy that will outline prohibited activities for employees and provide examples to help clarify expectations for trading on prediction market platforms. The person didn't provide details about the specific changes to policy itself.
+Banks appeared to be the sector most likely to respond that they were developing prediction market trading policies or already had one in place.
+"Financial institutions, they have huge compliance departments," said Lara Shortz, a partner at Michelman & Robinson in its labor and employment practice. "They spend a lot of time putting together policies related to trading and the use of information."
+Overall, 36 companies — including from sectors beyond just banks — did not respond to inquiries from CNBC regarding their prediction market trading policies for employees. Another seven declined to comment on the matter.
+While CNBC cannot conclude exactly what these businesses that did not respond are doing, it matches what lawyers who work with companies on internal policy matters said: just a few companies have undertaken major policy changes so far, while many others are still in the early stages of any form of updates during the platform's new, explosive rise.
+"Right now, training is not necessarily the gold standard, just because it is new," said Marissa Mastroianni, an employment law attorney at Cole Schotz.
+What's already on the books
+Some legal experts and company representatives argued that broad directives that ban insider trading inherently apply to prediction markets, too. A person familiar with OpenAI's employee policies said that the company's blanket insider trading policy is clear that staff cannot use material, nonpublic information in any way.
+But Tiffany Magri, a regulatory advisor at compliance technology company Smarsh, said companies benefit from explicitly mentioning prediction markets in their policies.
+"The question is no longer whether exchanges can detect suspicious trades," she said. "It's whether employers have established clear expectations around when employees should be prohibited from participating in markets tied to information they encounter through their work."
+To Magri's point, leading prediction market platforms Kalshi and Polymarket have taken steps on their own to crack down on insider trading.
+Kalshi, in early June, announced new employment verification tools for participants on some prediction markets. That same month, it partnered with StarCompliance to allow employers with the partner's software to access their employees' event contract trades. To beef up its own internal oversight, the exchange partnered with Solidus Labs, a market integrity company, in February.
+Polymarket highlighted its own partnerships in a statement to CNBC. Those include one with Chainalysis — an on-chain market enforcement company — and another with Palantir to monitor suspicious activity on its sports-related contracts.
+But Magri noted these are just first steps, and that companies need to start training employees about the platforms rather than rely on the exchanges themselves to stop insider trading.
+Both Kalshi and Polymarket declined to comment if they're working with companies directly as they develop internal oversight and enforcement mechanisms.
+Early days, growing urgency
+Companies and the CFTC are jumping into new territory when confronting insider information on prediction markets.
+On the prosecution front, Woody said the CFTC has a "blank canvas" on how it will go after insider trading. "I think what's going to be interesting with the CFTC taking the lead here is that there aren't a lot of cases to date yet in this space. It's fairly new," she said.
+The CFTC did not respond to a request from CNBC to comment on whether it foresees companies becoming liable in the future for insider trading from their employees if they are deemed to have failed in educating them enough about it.
+With lingering uncertainty on the regulatory side, companies should take the lead in rulemaking and learn how prediction markets work, said John Sullivan, professor of management at San Francisco State University.
+Lawyers from King & Spalding LLP outlined steps companies can take in an article on Law360. Those include updating their insider trading policies to include event contracts and establishing protocols to monitor unusual activity on individual markets related to their businesses.
+For even stricter measures, Sullivan told CNBC businesses should consider banning the platforms on company-owned devices and prevent employees from trading during work hours.
+The foolish move would be to dismiss prediction markets' relevance, he said. "It's embarrassing not to have done anything or not to know about it."
+— CNBC's Ashley Capoot contributed reporting
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `インサイダー取引は、予測市場という新しい世界において新たなリスクとなっており、ゴールドマン・サックスを含む一部の企業は、プラットフォーム上での従業員の取引を制限する措置を講じています。
+関係者によると、ゴールドマン・サックスは従業員に対し、選挙、金融市場、マクロ経済データ、地政学だけでなく、銀行特有の出来事に関連した契約に基づいて取引することを禁止した。
+ゴールドマンの代表者はこの方針についてコメントを控えたが、同行はすべての市場での取引に重要な非公開情報を使用することを禁止していると述べた。
+一部の企業は予測市場におけるインサイダー取引のリスクを管理するためのポリシーを策定し始めているが、他の多くの企業はまだ最初の一歩を踏み出していないと法律専門家は言う。
+ピルズベリーのパートナー兼証券執行実務責任者のデービッド・オリウェンスタイン氏は、「規制当局の期待は何なのか、リスクは何なのか、潜在的な責任の範囲はどこなのかなど、顧客、特に規制対象企業の顧客から絶えず質問を受けている」と述べた。
+ゴールドマンにおける明示的な予測市場取引指令のニュースは、民間企業が関与した初のイベント契約インサイダー取引事件の後に発表された。
+5月、商品先物取引委員会と司法省は、ブラウザの「検索年」リストに関連するPolymarket契約の取引に重要な非公開情報を使用したとして、Google社員のMichele Spagnuolo氏を起訴した。 CFTCの訴状によると、スパニョーロは「AlphaRaccoon」というハンドル名を使って約120万ドルの利益を集めたという。
+法律専門家らは、予測プラットフォームで利用できる膨大な数の契約が、重要な非公開情報を利益を上げるために利用する新たな手段を提供する可能性があると述べた。たとえば、Googleの従業員は内部データを使用して、今年の会社の従業員数、Gemini AIツールの新バージョンのリリース時期、またはAlphabetの株価が月末にどこで終了するかなどに関する契約を取引することができます。
+ワシントン・アンド・リー大学の法学教授カレン・ウッディ氏は、「こうしたさまざまな質問に賭けることができるため、人々が極秘に入手した情報がどこで使われているかという点で、一種のモグラたたきをするのが非常に難しくなる」と述べた。
+弁護士らはCNBCに対し、これらのプラットフォームでのインサイダー取引が摘発され、起訴されることが増えるにつれ、従業員が関与した訴訟での潜在的な責任を回避するために企業が十分なポリシーと教育を備えていることへの期待が高まるだろうと語った。
+しかし、弁護士らは顧客に対し、今からでも遅くはない、企業は今この機会に必要な方針を策定すべきだとアドバイスしているとも述べた。
+企業の立ち位置
+CNBCは上場企業および非公開企業50社に連絡を取り、いずれも予測市場プラットフォームでの事業の詳細に関する契約を結んでいる。
+合計で、予測市場での取引に関するポリシーがあることを明らかにしたのはわずか 3 社で、他の 2 社は積極的に検討中であると述べました。
+ユナイテッド航空はCNBCに対し、予測市場取引に関する明確なポリシーはないものの、従業員向けのガイドラインは「個人的な利益のために自分の地位（または自分の地位から得た企業機密情報）を利用することを禁止している」と語った。
+JPモルガン・チェースの広報担当者は、従業員が予測市場、特に金融セクターに関連する契約で取引する際には、慎重に取引を進めるよう求められているという本誌の報道を認めた。
+モルガン・スタンレーの広報担当者は、同行が従業員の行動規範に予測市場での取引に関する方針を定めていると述べたが、それ以上の詳細は明らかにしなかった。
+バンク・オブ・アメリカの計画に詳しい関係者はCNBCに対し、同社は従業員に対する禁止行為の概要を示し、予測市場プラットフォームでの取引に対する期待を明確にするための例を示す方針の最新情報を伝達しているところだと語った。同関係者は政策そのものの具体的な変更については詳細を明らかにしなかった。
+銀行は、予測市場取引ポリシーを開発中、またはすでに導入していると回答する可能性が最も高いセクターであるようです。
+「金融機関には大規模なコンプライアンス部門がある」と、マイケルマン・アンド・ロビンソンの労働・雇用実務パートナーであるララ・ショートツ氏は語る。 「彼らは取引や情報の利用に関する政策をまとめるのに多くの時間を費やしている。」
+全体として、銀行以外のセクターを含む 36 社が、従業員向けの予測市場取引ポリシーに関する CNBC の問い合わせに回答しませんでした。他の7人はこの件についてコメントを拒否した。
+CNBCは、応答しなかった企業が何をしているのかを正確に結論づけることはできないが、企業と協力して内部政策問題に取り組んでいる弁護士らの発言と一致している。これまでに大規模なポリシー変更を行ったのはほんの数社だが、他の多くの企業はプラットフォームの新たな爆発的な台頭の中で、何らかの形でのアップデートの初期段階にあるという。
+コール・ショッツの雇用法弁護士、マリッサ・マストロヤンニ氏は、「現時点では、トレーニングが新しいという理由だけで、必ずしもトレーニングが黄金律であるとは限らない」と述べた。
+すでに本に載っているもの
+一部の法律専門家や企業代表は、インサイダー取引を禁止する広範な指令は本質的に予測市場にも適用されると主張した。 OpenAIの従業員ポリシーに詳しい関係者は、同社の包括的インサイダー取引ポリシーでは、従業員が重要な非公開情報をいかなる形でも使用できないことは明らかだと述べた。
+しかし、コンプライアンステクノロジー企業スマッシュの規制アドバイザー、ティファニー・マグリ氏は、企業はポリシーで予測市場について明示的に言及することで利益を得られると述べた。
+「もはや問題は、取引所が疑わしい取引を検知できるかどうかではない」と同氏は述べた。 「雇用主が、従業員が仕事を通じて遭遇する情報に関連する市場への参加をいつ禁止すべきかについて、明確な期待を定めているかどうかが問題だ。」
+マグリ氏の指摘によれば、予測市場プラットフォーム大手のカルシとポリマーケットは、インサイダー取引を取り締まるために独自の措置を講じている。
+カルシは6月初旬、一部の予測市場の参加者向けに新しい雇用確認ツールを発表した。同月、同社はStarComplianceと提携し、パートナーのソフトウェアを使用する雇用主が従業員のイベント契約取引にアクセスできるようにした。独自の内部監視を強化するため、同取引所は2月に市場健全性企業Solidus Labsと提携した。
+ポリマーケットはCNBCへの声明で自社のパートナーシップを強調した。その中には、オンチェーン市場執行会社であるChainaliesとの提携や、スポーツ関連契約における不審な活動を監視するPalantirとの提携も含まれる。
+しかしマグリ氏は、これらは単なる最初のステップであり、企業はインサイダー取引を阻止するために取引所自体に依存するのではなく、プラットフォームについて従業員のトレーニングを開始する必要があると指摘した。
+カルシとポリマーケットの両社は、内部監視と執行メカニズムの開発にあたり、企業と直接協力しているかどうかについてはコメントを控えた。
+初期の頃、高まる緊急性
+企業とCFTCは、予測市場に関するインサイダー情報に直面する際に、新たな領域に飛び込もうとしている。
+ウディ氏は検察面で、CFTCはインサイダー取引をどうするかについて「白紙のキャンバス」を持っていると述べた。 「CFTCがここで主導権を握ることで興味深いのは、この分野でこれまでに多くの訴訟が存在していないことだと思う。これはかなり新しいことだ」と彼女は述べた。
+CFTCはCNBCからの、企業が従業員に対するインサイダー取引について十分な教育を怠ったとみなされた場合、将来的に従業員によるインサイダー取引の責任を負うことになると予想しているかどうかについてコメントを求めたが、回答はなかった。
+サンフランシスコ州立大学のジョン・サリバン教授（経営学）は、規制面での不確実性が残る中、企業はルール策定で主導権を握り、予測市場がどのように機能するかを学ぶべきだと述べた。
+King & Spalding LLP の弁護士は、Law360 に関する記事に関して企業が講じることができる手順について概説しました。これらには、イベント契約を含めるためにインサイダー取引ポリシーを更新することや、ビジネスに関連する個々の市場での異常な活動を監視するためのプロトコルを確立することが含まれます。
+サリバン氏はさらに厳しい措置として、企業は会社所有の端末でのプラットフォームの禁止や、従業員の勤務時間中の取引を禁止することを検討すべきだとCNBCに語った。
+同氏は、予測市場の関連性を無視するのは愚かな行動だ、と述べた。 「何もしていない、知らないというのは恥ずかしいことだ。」
+— CNBC の Ashley Capoot がレポートに寄稿
+開示: CNBC とカルシには、顧客の獲得と少数出資を含む商業関係があります。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html",
+    publishedAt: "2026-07-09T18:52:22+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "interest-rates-may-need-to-rise-this-yea-7992a742",
+    title: "Interest rates may need to rise this year, says Bank of England economist",
+    titleJa: "イングランド銀行のエコノミスト、今年は金利上昇が必要かもしれないと語る",
+    summaryJa: "イングランド銀行のエコノミスト、今年は金利上昇が必要かもしれないと語る- 公開されました",
+    bodyOriginal: `Interest rates may need to rise this year, says Bank of England economist
+- Published
+Interest rates may need to increase this year to keep rising prices under control, according to the Bank of England's chief economist.
+Huw Pill, who is from Cardiff, told the Walescast podcast that the "speed limit at which you can run the economy is a bit lower than it's been in the past".
+Pill is one of only nine people in the UK who decide what the Bank of England's interest rate should be - something which affects the cost of mortgages and the rates at which prices rise.
+He went to Whitchurch High School in Cardiff, whose alumni include some of Wales' best known sporting heroes.
+Unlike them, he has had a chance to see the 400,000 bars of gold bullion stored at the Bank and has confirmed that they're "amazingly shiny."
+Pill is a member of the Monetary Policy Committee (MPC) which decides whether to raise or lower the Bank of England interest rate.
+This rate helps determine the cost of mortgages, other borrowing and the return savers get on their money. It also controls inflation which is the rate at which prices are rising.
+The Bank of England has an inflation target of 2%, but the rate currently stands at 2.8%.
+In Conversation with the Bank of England's Chief Economist
+Fliss and James speak to Huw Pill about his Welsh roots and his journey from Cardiff to one of the most influential economic roles in the country
+Pill believes interest rates will need to increase this year to keep inflation down.
+He was in a minority of MPC members who voted for an increase in interest rates in June.
+"I've been at the bank for 56 months, inflation's been at or below target for three months, it's been above target for 53 months," he said.
+"So I think that's a reflection of the fact that, in part, we've had some bad luck, we've been subject to challenges, but perhaps we've been a little bit over optimistic about what the trend growth in the economy is."
+What is happening to UK prices?
+- Published17 June
+He said that productivity, which measures how efficiently people work, has slowed down in the UK.
+It is also a particular problem in Wales where it is the lowest of the four home nations and around 15 percent lower than the UK average, external.
+People in Wales also earn lower wages than the UK average, and the country has some of the highest rates of welfare claims.
+Pill said improving the efficiency of the Welsh economy is the key to raising living standards.
+Things like better infrastructure "to link places together" and creating "a better educated workforce" are recognised drivers of productivity.
+But he acknowledged that it is "a very difficult thing to deliver" in an uncertain world, where "public finances are constrained" and politicians face "hard decisions".
+Before joining the Bank of England, Pill previously worked at the European Central Bank from its inception through to the Eurozone crisis, when the survival of the single currency was in jeopardy.
+He said the ability of a central bank to set interest rates and print money were powerful tools, but they were also blunt tools.
+"It doesn't allow you to solve all problems," he said.
+Pill said countries like Greece, Spain Portugal and Ireland had to go through "a lot of pain", with politicians making "difficult decisions" about changing their economies.
+But "they have come out the other side in stronger shape," he argued.
+Inside the century-old building standing above 400,000 gold bars
+- Published16 September 2025
+Since taking up his role at the Bank of England, Pill said he had only seen the billions of pounds worth of gold bullion stored in the vaults once, when the MPs on the Treasury Select Committee visited.
+"Perhaps unsurprisingly, they're not encouraging people to go down there too often," he said.
+But "it's very heavy and it's amazingly shiny," he added.
+You can listen to the full interview with Huw Pill on Walescast on BBC Sounds.`,
+    bodyJa: `イングランド銀行のエコノミスト、今年は金利上昇が必要かもしれないと語る
+- 公開されました
+イングランド銀行の首席エコノミストによると、物価上昇を抑えるために今年は金利を引き上げる必要があるかもしれないという。
+カーディフ出身のヒュー・ピル氏はウェールズキャストのポッドキャストで、「経済を運営できる制限速度は過去に比べて若干低い」と語った。
+ピル氏は、住宅ローンのコストや物価上昇率に影響を与えるイングランド銀行の金利を決定する、英国でわずか9人のうちの1人である。
+彼はカーディフのウィッチチャーチ高校に通いましたが、その卒業生にはウェールズで最も有名なスポーツ界の英雄も含まれています。
+彼らとは異なり、彼は銀行に保管されている40万本の金地金を見る機会があり、それらが「驚くほど輝いている」ことを確認した。
+ピル氏はイングランド銀行の金利を引き上げるか引き下げるかを決定する金融政策委員会（MPC）の委員を務めている。
+この金利は、住宅ローンやその他の借入のコストを決定するのに役立ち、貯蓄者はお金を得ることができます。また、価格の上昇率であるインフレも制御します。
+イングランド銀行はインフレ目標を2％としているが、現在のインフレ率は2.8％となっている。
+イングランド銀行のチーフエコノミストとの対談
+フリスとジェームズがヒュー・ピルにウェールズのルーツと、カーディフからこの国で最も影響力のある経済的役割の一つに至るまでの道のりについて語る
+ピル氏はインフレを抑えるために今年は金利を引き上げる必要があると考えている。
+同氏は6月の利上げに賛成票を投じたMPC会員の少数派だった。
+同氏は「私は銀行に５６カ月間勤務しており、インフレ率は３カ月間目標以下で推移しており、５３カ月間は目標を上回っている」と述べた。
+「したがって、これは、私たちが不運に見舞われ、困難にさらされてきたという事実を反映していると思いますが、おそらく経済成長の傾向について少し楽観的すぎたのでしょう。」
+イギリスの物価に何が起こっているのでしょうか？
+- 6 月 17 日公開
+同氏は、人々がどれだけ効率的に働くかを測る生産性が英国では鈍化していると述べた。
+また、ウェールズでは特に問題となっており、本国4か国の中で最も低く、英国の対外平均よりも約15パーセント低い。
+また、ウェールズの人々の賃金は英国の平均よりも低く、この国は生活保護受給率が最も高い国の一つです。
+ピル氏は、ウェールズ経済の効率を改善することが生活水準向上の鍵であると述べた。
+「場所を結び付ける」ためのより良いインフラストラクチャや「より良い教育を受けた労働力」の創出などが、生産性の原動力として認識されています。
+しかし同氏は、「財政が制約され」、政治家が「難しい決断」を迫られている不確実な世界において、それを実現するのは「非常に難しいこと」であると認めた。
+ピル氏はイングランド銀行に入社する前、欧州中央銀行の発足から単一通貨の存続が危機に瀕したユーロ圏危機まで勤務していた。
+同氏は、金利を設定し紙幣を印刷する中央銀行の能力は強力なツールだが、同時に鈍器でもあると述べた。
+「それですべての問題を解決できるわけではない」と彼は言う。
+ピル氏は、ギリシャ、スペイン、ポルトガル、アイルランドなどの国々は政治家が経済変革について「難しい決断」を下しており、「多くの痛み」を経験しなければならなかったと述べた。
+しかし、「彼らはより強い形で向こう側に来ている」と彼は主張した。
+40万本の金の延べ棒の上にそびえる築100年の建物の内部
+- 2025 年 9 月 16 日公開
+ピル氏はイングランド銀行に就任して以来、財務特別委員会の議員らが訪れた際に一度だけ金庫に保管されている数十億ポンド相当の金塊を見たことがあると語った。
+「おそらく当然のことかもしれませんが、彼らは人々にあまり頻繁にそこに行くことを奨励していません」と彼は言いました。
+しかし、「非常に重く、驚くほど光沢がある」と彼は付け加えた。
+ヒュー・ピル氏のインタビュー全文は、BBC Sounds の Walescast で聴くことができます。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-09T17:37:11+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e9e/live/5a89b0f0-7bbb-11f1-8b3b-4de03d5aab17.jpg",
+    readTime: 4,
+  },
+  {
+    id: "alleged-reflecting-pool-vandal-david-hea-4839c54e",
+    title: "Alleged Reflecting Pool vandal David Hearn pleads not guilty; lawyer calls him 'scapegoat'",
+    titleJa: "リフレクティング・プールの破壊者とされるデビッド・ハーン氏は無罪を主張。弁護士は彼を「スケープゴート」と呼ぶ",
+    summaryJa: "弁護士は「ハーン氏がリフレクティング・プールに触れたとして重罪に問われる可能性があるなら、すべてのアメリカ人が危険にさらされることになる」とトランプ政権を非難した。",
+    bodyOriginal: `Three-time U.S. Olympic canoeist David Hearn pleaded not guilty on Thursday to a felony charge for allegedly ripping up sealant in the National Mall's Reflecting Pool in Washington.
+Hearn's attorney afterward blasted prosecutors for obtaining an indictment against the 67-year-old, calling him a political "scapegoat" for the Trump administration's controversial handling of the renovation of the roughly 2,000-foot Reflecting Pool.
+"Mr. Hearn pled not guilty because he is not guilty," the attorney, Norm Eisen, told reporters outside of D.C. Superior Court.
+"If Mr. Hearn can be charged with a felony for touching the Reflecting Pool, every American is at risk, and every American should be alarmed about this prosecution," Eisen said.
+"It is not a crime to touch the Reflecting Pool, to touch water in the United States of America."
+Supporters of Hearn who gathered outside the court carried signs, including ones that said "Trump always blames others for his failures;" "The Deflecting Pool: Never admit failure;" and "Drop the Trumped Up Charges."
+Hearn was arrested June 19 on a misdemeanor charge after the Bethesda, Maryland, resident stopped at the Reflecting Pool during a bicycle ride and reached into it.
+Hearn has said he put his hand into the pool to see what a partially detached piece of blue liner from the bottom felt like.
+But U.S. Attorney for the District of Columbia Jeanine Pirro claimed he had intentionally damaged a 2-square-foot piece of sealant as she announced July 2 that a grand jury had indicted Hearn on a felony charge of destruction of property.
+"National Park employees observed Hearn actually forcefully and violently pulling up and removing the bottom liner with both hands," Pirro said at a press conference that day.
+Hearn is accused of causing more than $1,000 in damage. He faces a maximum possible sentence of 10 years in prison, but would likely receive a much less harsh sentence if convicted.
+"The government's evidence is weak," said Mary Dohrmann, another lawyer for Hearn, during his appearance in court, The Associated Press reported. Hearn was not required to post bail in the case.
+President Donald Trump has made renovation of the Reflecting Pool on the National Mall a top priority of his administration.
+That project has been criticized by some over the administration's award of a no-bid contract to a company connected to a Trump donor for work on the pool, a new blue liner peeling from the bottom of the pool and the water turning green from algae.
+Trump and government officials have claimed, without evidence, that vandals cut a gash extending several hundred feet in the pool lining.
+A National Park Service official in a court filing has said that after the renovation was substantially complete in early June, U.S. Park Police found that "a caulk over the foam sealant" in the pool had been "cut with a sharp knife or razor and destruction of the delaminating surface material."
+Hearn is not accused of using a razor or knife.
+"This indictment reflects the administration's effort to scapegoat Davy and to shift blame for their own failures," Eisen said outside of the court on Thursday.
+"This is a case that should never have been brought," Eisen said. "Davy Hearn is innocent, and we are going to fight this case and entrust the justice system to do the right thing."
+"We will litigate these issues vigorously," Eisen said. "We have confidence in our justice system to see through this misuse of government power against an ordinary American based on a false and politicized narrative."`,
+    bodyJa: `オリンピックに3度出場した米国のカヌー選手、デビッド・ハーン氏は木曜日、ワシントンにあるナショナル・モールのリフレクティング・プールでシーラントを引き裂いたとされる重罪に対して無罪を主張した。
+ハーン氏の弁護士はその後、ハーン氏を約2,000フィートのリフレクティング・プール改修に関する物議を醸したトランプ政権の対応に対する政治的な「スケープゴート」と呼び、67歳のハーン氏に対する起訴を取得した検察当局を非難した。
+ノーム・アイゼン弁護士はワシントンDC高等裁判所の外で記者団に対し、「ハーン氏は無罪を主張した。なぜなら自分は無罪だからだ」と語った。
+「もしハーン氏がリフレクティング・プールに触れたことで重罪に問われる可能性があるなら、すべてのアメリカ人が危険にさらされており、すべてのアメリカ人がこの訴追について警戒すべきだ」とアイゼン氏は述べた。
+「アメリカ合衆国では、反射するプールや水に触れることは犯罪ではありません。」
+法廷の外に集まったハーン支持者らは、「トランプ氏は自分の失敗をいつも他人のせいにする」などと書かれたプラカードを掲げていた。 「偏向プール: 失敗を決して認めない。」そして「でっち上げられた告発を取り下げる」。
+ハーン氏はメリーランド州ベセスダ在住のハーン氏が自転車走行中にリフレクティング・プールに立ち寄り、プールに手を入れたとして軽犯罪容疑で６月１９日に逮捕された。
+ハーン氏は、プールの底から部分的に剥がれた青いライナーの部分がどのような感じかを確認するためにプールに手を入れたと述べた。
+しかし、コロンビア特別区のジャニーン・ピロ連邦検事は、7月2日に大陪審が器物損壊の重罪でハーンを起訴したと発表し、2平方フィートのシーラントを意図的に損傷したと主張した。
+ピッロ氏は同日の記者会見で、「国立公園の職員らは、ハーン氏が実際に力強く暴力的にボトムライナーを両手で引き上げたり外したりしているのを目撃した」と述べた。
+ハーンは1,000ドル以上の損害を与えた疑いで告訴されている。同氏には最長で懲役10年の刑が言い渡される可能性があるが、有罪判決が下されれば、それよりも軽い刑が言い渡される可能性が高い。
+AP通信によると、ハーン氏のもう一人の弁護士、メアリー・ドーマン氏は出廷中に「政府の証拠は弱い」と述べた。ハーン氏はこの事件で保釈金を支払う必要はなかった。
+ドナルド・トランプ大統領は、ナショナル・モールのリフレクティング・プールの改修を政権の最優先課題に据えている。
+このプロジェクトは、プール工事でトランプ大統領の寄付者に関係する企業に政府が入札なしの契約を与え、プールの底から新しい青いライナーが剥がれ、水が藻類で緑色に変色したことをめぐって、一部の人々から批判されている。
+トランプ大統領と政府当局者は、証拠もなく、破壊者らがプールの裏地に数百フィートに及ぶ切り傷を切った、と主張した。
+国立公園局職員は裁判所への提出書類の中で、改修工事が6月初旬に実質的に完了した後、米国公園警察がプール内の「発泡シーラント上のコーキング」が「鋭利なナイフかカミソリで切断され、剥離した表面素材が破壊されていた」ことを発見したと述べた。
+ハーンはカミソリやナイフを使用した疑いは持たれていない。
+アイゼン氏は木曜日、法廷の外で「今回の起訴は、デービー氏をスケープゴートにし、自らの失敗の責任を転嫁しようとする政権の努力を反映している」と述べた。
+「これは決して提起されるべきではなかった事件だ」とアイゼン氏は語った。 「デイビー・ハーンは無実であり、私たちはこの訴訟を戦い、司法制度に正しいことを委ねるつもりです。」
+「我々はこれらの問題を精力的に訴訟するつもりだ」とアイゼン氏は語った。 「私たちは、誤った政治化された物語に基づいて一般のアメリカ人に対する政府権力の悪用を見破る司法制度を信頼しています。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/reflecting-pool-david-hearn-washington-trump-olympian.html",
+    publishedAt: "2026-07-09T17:35:10+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
     id: "micron-shares-rise-7-after-announcing-bi-57daec17",
     title: "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments",
     titleJa: "米国のチップ製造投資への数十億ドルの追加発表を受け、マイクロン株は7％上昇",
