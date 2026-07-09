@@ -26,8 +26,8 @@ if errorlevel 1 (
   git push origin main
 )
 
-gh api repos/hajunjang0629-ai/biznews-jp/pages -X POST -f build_type=legacy -f "source[branch]=main" -f "source[path]=/web" 2>nul
-gh api repos/hajunjang0629-ai/biznews-jp/pages -X PUT -f build_type=legacy -f "source[branch]=main" -f "source[path]=/web" 2>nul
+gh api repos/hajunjang0629-ai/biznews-jp/pages -X POST -f build_type=legacy -f "source[branch]=main" -f "source[path]=/docs" 2>nul
+gh api repos/hajunjang0629-ai/biznews-jp/pages -X PUT -f build_type=legacy -f "source[branch]=main" -f "source[path]=/docs" 2>nul
 
 echo.
 echo ========================================

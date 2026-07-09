@@ -16,13 +16,16 @@
 
 スマホのブラウザ（Chrome / Safari）から **HTTPSのURL** で開くのが最も確実です。
 
-### 方法1：GitHub Pages で公開（無料）
-1. `deploy.bat` をダブルクリック（GitHubに公開）
-2. 数分後、スマホで次のURLを開く：
-   ```
-   https://あなたのユーザー名.github.io/biznews-jp/
-   ```
-3. Safariなら「ホーム画面に追加」でアプリのように使えます
+### 方法1：GitHub Pages で公開（無料）✅ 公開済み
+スマホのブラウザで次のURLを開いてください：
+
+```
+https://hajunjang0629-ai.github.io/biznews-jp/
+```
+
+Safariなら「ホーム画面に追加」でアプリのように使えます。
+
+更新時は `deploy.bat` を実行してください。
 
 ### 方法2：同じWi-Fi内でテスト
 PCで以下を実行し、表示されたIPアドレスをスマホのブラウザに入力：

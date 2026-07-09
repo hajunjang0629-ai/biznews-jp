@@ -256,7 +256,10 @@ out.write_text(html, encoding="utf-8")
 
 # Deploy folder for GitHub Pages / mobile HTTPS access
 web_dir = root / "web"
+docs_dir = root / "docs"
 web_dir.mkdir(exist_ok=True)
+docs_dir.mkdir(exist_ok=True)
 (web_dir / "index.html").write_text(html, encoding="utf-8")
+(docs_dir / "index.html").write_text(html, encoding="utf-8")
 
 # Write without print to avoid encoding issues on Windows console
