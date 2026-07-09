@@ -15,6 +15,462 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "micron-shares-rise-7-after-announcing-bi-57daec17",
+    title: "Micron shares rise 7% after announcing billions more in U.S. chipmaking investments",
+    titleJa: "米国のチップ製造投資への数十億ドルの追加発表を受け、マイクロン株は7％上昇",
+    summaryJa: "同社が米国の半導体サプライチェーンの強化を目的とした新たな投資ラウンドと、2035年まで同国での支出を加速する計画を発表したため、マイクロン株は木曜日に7％上昇した。最大30億ドルの新たな戦略的投資には、台湾に本社を置くGlobalWafersがテキサスの施設でウェーハの開発と製造を拡大するための5億ドルが含まれており、生シリコンウェーハの生産能力に対する10年間の供給契約も含まれている。",
+    bodyOriginal: `Micron shares rose 7% on Thursday as the company announced a new round of investments aimed at boosting the U.S. semiconductor supply chain, and plans to accelerate its spending in the country through 2035.
+The new strategic investment of up to $3 billion includes $500 million for Taiwanese-headquartered GlobalWafers to expand its wafer development and manufacturing in its Texas facilities, and also comes with a 10-year supply agreement for raw silicon wafer capacity.
+"Securing a reliable supply of critical input materials is essential to supporting Micron's long-term growth and technology roadmap," said Ben Tessone, Micron's chief procurement officer, in a press release.
+In a separate announcement, the chipmaker said it will also raise its planned U.S. investment to $250 billion through 2035, roughly a $50 billion increase, as memory demand from the artificial intelligence buildout skyrockets.
+Other names in the chip space rallied on Thursday, with Applied Materials, KLA Corp and Lam Research up 7%, ARM Holdings up 11%.`,
+    bodyJa: `同社が米国の半導体サプライチェーンの強化を目的とした新たな投資ラウンドと、2035年まで同国での支出を加速する計画を発表したため、マイクロン株は木曜日に7％上昇した。
+最大30億ドルの新たな戦略的投資には、台湾に本社を置くGlobalWafersがテキサスの施設でウェーハの開発と製造を拡大するための5億ドルが含まれており、生シリコンウェーハの生産能力に対する10年間の供給契約も含まれている。
+「マイクロンの長期的な成長と技術ロードマップをサポートするには、重要な投入材料の信頼できる供給を確保することが不可欠です」とマイクロンの最高調達責任者ベン・テッソーネ氏はプレスリリースで述べた。
+別の発表の中で、同社はまた、人工知能構築によるメモリ需要の急増に伴い、米国での投資計画を2035年までに約500億ドル増額の2,500億ドルに引き上げると発表した。
+木曜日にはチップ分野の他の銘柄も上昇し、アプライド・マテリアルズ、KLAコーポレーション、ラム・リサーチが7％上昇、ARMホールディングスが11％上昇した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+    publishedAt: "2026-07-09T15:21:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "goldman-sachs-wins-70-billion-in-asset-m-2350f37e",
+    title: "Goldman Sachs wins $70 billion in asset management deals with Verizon, Lockheed Martin",
+    titleJa: "ゴールドマン・サックス、ベライゾン、ロッキード・マーチンとの資産管理契約で700億ドルを獲得",
+    summaryJa: "ゴールドマン・サックスは木曜日、ベライゾン・コミュニケーションズとロッキード・マーティンの退職資産合計700億ドルを管理する契約を獲得したと発表した。これは、急成長する企業投資のアウトソーシング市場における最近の大きな発表の1つである。ゴールドマンによると、その義務にはベライゾンとロッキード・マーティンの年金資産約300億ドルと、ベライゾンの確定拠出退職資産（通常は401(k)）の約400億ドルが含まれるという。",
+    bodyOriginal: `Goldman Sachs said Thursday it won deals to manage a combined $70 billion in retirement assets for Verizon Communications and Lockheed Martin, one of the larger recent announcements in the fast-growing market for outsourced corporate investing.
+The mandates include about $30 billion in pension assets for Verizon and Lockheed Martin and $40 billion in Verizon defined-contribution retirement assets, which are typically 401(k)s, according to Goldman.
+The moves underscore how some of America's largest employers are increasingly handing responsibility for managing retirement assets to outside firms such as Goldman as portfolios become more complex and require expertise across public and private markets.
+Competition in the multitrillion-dollar market for retirement assets is fierce among managers including Goldman, BlackRock, Russell Investments and Mercer, because the long-term institutional mandates generate steady fee revenue.
+By growing that business, Goldman hopes to increase its share of revenues that are seen as stable and recurring, unlike the more volatile trading and investment banking operations.
+"Large plan sponsors are consolidating responsibilities with one partner with the investment expertise and depth of platform to manage their bespoke needs," Marc Nachmann, Goldman's global head of asset and wealth management, said in a statement.
+Goldman's outsourced chief investment officer business had about $480 billion in assets as of March 31, while the firm's broader asset and wealth management division oversees roughly $3.7 trillion worth of investments.`,
+    bodyJa: `ゴールドマン・サックスは木曜日、ベライゾン・コミュニケーションズとロッキード・マーティンの退職資産合計700億ドルを管理する契約を獲得したと発表した。これは、急成長する企業投資のアウトソーシング市場における最近の大きな発表の1つである。
+ゴールドマンによると、その義務にはベライゾンとロッキード・マーティンの年金資産約300億ドルと、ベライゾンの確定拠出退職資産（通常は401(k)）の約400億ドルが含まれるという。
+この動きは、ポートフォリオがより複雑になり、公的市場と私的市場にわたる専門知識が必要となる中、米国最大の雇用主の一部が退職資産管理の責任をゴールドマンなどの外部企業にますます委譲していることを浮き彫りにしている。
+数兆ドル規模の退職資産市場における競争は、ゴールドマン、ブラックロック、ラッセル・インベストメンツ、マーサーなどの運用会社の間で熾烈を極めている。これは、長期にわたる機関投資家が安定した手数料収入を生み出しているためである。
+ゴールドマンは、同事業を成長させることで、より不安定なトレーディングや投資銀行業務とは異なり、安定的かつ継続的とみなされる収益のシェアを拡大​​したいと考えている。
+ゴールドマンの資産・ウェルスマネジメント部門グローバル責任者マーク・ナックマン氏は声明で、「大規模なプランのスポンサーは、投資の専門知識とオーダーメードのニーズを管理するための深いプラットフォームを備えたパートナー1社との責任を統合している」と述べた。
+ゴールドマンの外部委託最高投資責任者業務の資産は3月31日時点で約4800億ドルで、同社の広範な資産・資産管理部門は約3兆7000億ドル相当の投資を監督している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/goldman-sachs-asset-management-deals-verizon-lockheed-martin.html",
+    publishedAt: "2026-07-09T15:00:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "june-home-sales-disappoint-as-prices-rea-1ea98bd1",
+    title: "June home sales disappoint as prices reach an all-time high",
+    titleJa: "6月の住宅販売は価格が過去最高値に達し失望",
+    summaryJa: "住宅ローン金利の高さと過去最高の価格が住宅購入者の手を引いている。全米不動産業者協会によると、６月の中古住宅販売は季節調整済み年率ベースで５月比２．４％減の４０９万戸となった。住宅アナリストらは前月比わずかな増加を予想していた。",
+    bodyOriginal: `High mortgage rates coupled with record-high prices are causing homebuyers to pull back.
+Sales of previously owned homes in June dropped 2.4% from May to 4.09 million units on a seasonally adjusted, annualized basis, according to the National Association of Realtors. Housing analysts were predicting a slight gain month over month.
+June sales were, however, 2.8% higher than the same month a year prior.
+"The back-and-forth in monthly home sales activity, driven by mild fluctuations in mortgage rates, shows how sensitive home buyers are to affordability conditions," said Lawrence Yun, the Realtors' chief economist, in a release. "However, job gains—more than half a million since the beginning of the year—will continue to provide support for the housing market."
+This count represents closed sales, so contracts that were likely signed in May, when the average rate on the 30-year fixed mortgage was still moving higher. It began rising sharply at the start of March at the beginning of the Iran war.
+Inventory at the end of June was 1.56 million units, down 0.6% from May but 1.3% higher than June 2025. At the current sales pace, that represents a 4.6-month supply. The market is considered balanced between buyer and seller at a six-month supply.
+With the market still lean, prices continue to rise. The median price of an existing home sold in June was $440,600, an increase of 1.8% from the year before and the highest on record. June is usually the strongest month for both sales and prices.
+"Progress on long-term housing affordability could be hampered if inventory growth continues to stall. Without consistent gains in inventory, home prices can accelerate. It is critical to introduce more supply to the market to widen the opportunity for homeownership," Yun said.
+Sales continue to be strongest on the higher end of the market. Sales of homes priced below $100,000 were down 1.7% from a year ago, and sales of those priced between $100,000 and $250,000 were up less than 1%. Meanwhile sales of homes priced between $750,000 and $1 million were up nearly 14% from the year before, and sales of homes priced above $1 million were up 18%.
+Regionally, home sales were down in June month over month everywhere except in the Northeast.
+One-quarter of all sales were all-cash, down from 29% last year. First-time buyers made up 33% of sales, up from 30% a year ago.`,
+    bodyJa: `住宅ローン金利の高さと過去最高の価格が住宅購入者の手を引いている。
+全米不動産業者協会によると、６月の中古住宅販売は季節調整済み年率ベースで５月比２．４％減の４０９万戸となった。住宅アナリストらは前月比わずかな増加を予想していた。
+ただ、６月の売上高は前年同月比２．８％増だった。
+ザ・リアルターズのチーフエコノミスト、ローレンス・ユン氏はリリースで「住宅ローン金利の緩やかな変動によって毎月の住宅販売活動が一進一退していることは、住宅購入者が手頃な価格の条件にいかに敏感であるかを示している」と述べた。 「しかし、年初から50万人を超える雇用の増加は引き続き住宅市場を下支えするだろう。」
+この数は成約済みの販売を表しているため、30 年固定住宅ローンの平均金利がまだ上昇していた 5 月に署名された可能性が高い契約です。イラン戦争が始まった3月初めから急激に上昇し始めた。
+6月末の在庫は156万個で、5月から0.6％減少したが、2025年6月と比べると1.3％増加した。現在の販売ペースでは4.6か月分の供給に相当する。市場は 6 か月分の供給で買い手と売り手のバランスが取れていると考えられます。
+市場が依然として低迷しているため、価格は上昇し続けています。 6月に販売された中古住宅価格の中央値は44万600ドルで、前年比1.8％上昇し、過去最高となった。通常、6 月は売上と価格の両方が最も好調な月です。
+「在庫の伸びが停滞し続ければ、長期的な住宅価格の上昇が妨げられる可能性がある。在庫が一貫して増加しなければ、住宅価格は加速する可能性がある。住宅保有の機会を広げるためには、より多くの供給を市場に導入することが重要である」とユン氏は述べた。
+ハイエンド市場での売上は引き続き好調です。価格が10万ドル未満の住宅の販売は前年比1.7％減少し、価格が10万～25万ドルの住宅の販売は1％未満の増加となった。一方、価格が75万ドルから100万ドルの間の住宅の販売は前年比14％近く増加し、価格が100万ドルを超える住宅の販売は18％増加した。
+地域別に見ると、6月の住宅販売は北東部を除く全地域で前月比減少した。
+全売上高の4分の1が現金によるもので、昨年の29％から減少した。初回購入者が売上に占める割合は 33% となり、1 年前の 30% から増加しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/june-home-sales-prices.html",
+    publishedAt: "2026-07-09T14:44:29+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ohio-is-america-s-top-state-for-business-b8094259",
+    title: "Ohio is America's Top State for Business in 2026, capping yearslong rise with first No. 1 finish",
+    titleJa: "オハイオ州は 2026 年にアメリカでビジネスのトップの州となり、長年の上昇を初の 1 位で締めくくる",
+    summaryJa: "比類のないコストで比類のないアクセスを提供するオハイオ州は、2026 年にはアメリカのビジネスでトップの州になります。ここは、かつてラストベルトのバックルと考えられていたバックアイ州の長い登山の頂点です。オハイオ州は、2007 年の第 1 回 CNBC 調査で 30 位に終わりました。現在、オハイオ州は成長、資本、イノベーションを引き寄せる魅力を持っており、そのスローガン「すべての中心」に忠実です。",
+    bodyOriginal: `Offering unparalleled access at unrivaled costs, Ohio is America's Top State for Business in 2026.
+It is the pinnacle of a long climb for the Buckeye State, once considered the buckle of the Rust Belt. Ohio finished 30th in the inaugural CNBC study in 2007. Today, it is a magnet for growth, capital and innovation, truly living up to its slogan, "The Heart of it All."
+"We've been strategically focused on making Ohio literally the go-to state for business," said Gov. Mike DeWine, a Republican, in his State of the State address in March.
+The efforts have paid off. Ohio broke into the top five in CNBC's rankings for the first time last year. This year, the 20th year of our annual study, the competitive environment plays to the state's biggest strengths.
+Ohio shines in infrastructure and business costs
+Ohio ranks No. 1 for Infrastructure, the most important category under this year's Top States methodology. More than 143 million people live within a day's drive of Ohio, affording Ohio companies better access to markets than any other state. But that is just the beginning of Ohio's infrastructure advantage.
+The state offers one of the nation's most robust programs to pair companies with shovel-ready sites for development, according to data compiled for the CNBC study by the Site Selectors Guild. The state earmarked $175 million for site readiness last year, second only to California. As of this month, a state database listed 26 available "SiteOhio Authenticated" sites, which the state economic development agency, JobsOhio, says are "construction ready on day one."
+In an interview with CNBC on Thursday, DeWine gave the example of defense technology company Anduril, which chose a site near Columbus, Ohio, early last year for a major manufacturing site, at an initial investment of $1 billion. "We sat down with them at the governor's residence, me and my wife had [Anduril CEO and co-founder] Palmer Luckey and others over, and they said, 'We want to be in production within a year,' and now they are almost ready for production, within the next few days," he said.
+With good connectivity and abundant electrical power for sophisticated computing, Ohio is already in the top 10 for the number of data centers at 224, according to Data Center Map. And the state will soon be home to one of the largest data centers in the world under a public-private partnership announced in March between SoftBank and electric utility AEP. The 10-gigawatt, $4.2 billion facility is being built on a federally owned site in Pike County, east of Cincinnati, where a U.S. uranium enrichment facility for nuclear weapons once stood.
+Data center development is controversial, however. A grassroots organization seeking a constitutional ban on future large projects in Ohio claims to have gathered 100,000 signatures and is now hoping to get the measure on the ballot next year. In May, DeWine, an early proponent of the facilities, ordered a temporary freeze on the state's 100% sales tax break for data center developers.
+"Data centers are contributing to our economic development in the state. They draw in other companies and other business; we absolutely know that," DeWine said. "But one thing that we [are doing] is [making] sure that when a data center comes in, they pay their fair share," he added. "When they come in, they should not be causing people's homeowner's rates to go up."
+Ohio gubernatorial race focuses on affordability
+The data center issue is helping to shape a harsh debate about affordability in the race to succeed DeWine, who is term-limited.
+The Democratic nominee, former state Public Health Director Dr. Amy Acton, is calling for guardrails on data centers to protect residential utility rates, union jobs and the environment.
+The Republican candidate, tech entrepreneur Vivek Ramaswamy, has been more receptive to data centers, based on his public statements, though he said developers should be required to pay for their own electricity.
+"One thing about Ohio, whether we've had Democrat governors or Republican governors, [is that] they are either center-left or center-right," DeWine said. "This is a state that has stability … we're predictable; we're not going to have any big changes that [would] bother you from bringing your company in here."
+While affordability has been a major focus in the gubernatorial race, Ohio has a much better track record than most states.
+The state ranks No. 1 in the important Cost of Doing Business category. Rents for office and industrial space are among the lowest in the country, according to real estate data firm CoStar. Insurance and utility costs are reasonable, and incentives provided to businesses are among the most generous in the country. State financial disclosures show the state gave out more than $1 billion in tax breaks last fiscal year.
+While Ohio is a low tax state, property taxes are high, and that's become a political weakness, but DeWine noted that the state legislature has taken action in recent months and the government will continue to focus on the issue. "You don't hear people talking about the problem with our income tax or other taxes," he said. "We have a low income tax and you will continue to see that reduced. Property tax is the one thing, because we rely on property taxes for a significant portion of funding our schools. But we are moving on that. We hear the people, and we've taken action, and we will continue to do that in the future," he said.
+Individuals do well, too. Ohio ranks No. 9 for Cost of Living, with housing costs among the most affordable in the country.
+Ohio also finishes in the Top 10 in other categories: Economy, at No. 9; Technology and Innovation, at No. 10; and Access to Capital, at No. 9.
+The Top State still lags in key categories
+Despite all its progress, Ohio still has considerable work to do.
+Ohio ranks No. 23 in Education, with the ninth-largest average public school class size, according to the National Education Association. State funding for higher education lags, according to the State Higher Education Officers Association.
+That contributes to Ohio's most glaring competitive weakness, in the important Workforce category, where America's Top State for Business finishes No. 35. Only about 19% of Ohio adults have a bachelor's degree or higher, according to the Census Bureau, placing Ohio workers in the bottom tier of the nation for educational attainment. More crucially, not enough skilled workers are staying in Ohio or moving there, based on data compiled for CNBC by labor analytics firm Lightcast.
+"We're focusing on the student," DeWine said. "If you're in the top 5% of your graduating high school class, you're going to get $20,000 … you can [use that towards] any state school, or you can pick a private school in the state of Ohio," he said. "We've seen the number of kids in that cohort [which] was at around 60% go[ing] to school in the state of Ohio [grow to] about 85% since we put that into effect," he added.
+Hoping to close the state's skills gap, JobsOhio announced in June that it will invest $300 million over the next 10 years to recruit and train skilled workers. The agency estimates the state will need 540,000 workers in science, technology, engineering and math, or STEM, occupations in the decade to come.
+"This is aimed at getting people prepared for real jobs in the real world," DeWine said in announcing the JobsOhio Experiential Learning Initiative.
+How we scored all 50 U.S. states
+The CNBC study measures all 50 states across 10 categories of competitiveness, for a total of 2,500 possible points. Ohio scored 1,623 points to capture this year's crown.
+Our methodology assigns a weight to each category based on how frequently the states cite it as a selling point. The idea is to measure the states based on the criteria they use to pitch themselves to business.
+Here are this year's categories and point totals:
+- Infrastructure: 440 points (17.6%)
+- Economy: 415 points (16.6%)
+- Workforce: 345 points (13.8%)
+- Quality of Life: 290 points (11.6%)
+- Cost of Doing Business: 285 points (11.4%)
+- Technology and Innovation: 245 points (9.8%)
+- Business Friendliness: 225 points (9%)
+- Access to Capital: 105 points (4.2%)
+- Education: 100 points (4%)
+- Cost of Living: 50 points (2%)
+The rest of the Top States
+North Carolina, which was last year's Top State, finishes No. 2 this year. The Tar Heel State has been on an impressive run in CNBC's rankings. The state has finished first or second in each of the past six years, and it misses a repeat win in 2026 by just nine points.
+North Carolina is top-ranked in the Economy category this year, even though the state went a full year without being able to pass a budget. Its state legislature finally passed a budget last week, which Gov. Josh Stein signed on Tuesday. Job growth and economic growth have been strong. But that growth has helped push costs higher. North Carolina ranks 35th for Cost of Living. And poor worker protections and rising crime help push the state to No. 34 for Quality of Life.
+Virginia finishes third, ranking No. 2 for Infrastructure, behind Ohio, and No. 5 for Education. But federal budget and personnel cuts have hurt the Old Dominion's Economy ranking, which falls to No. 23 in 2026 compared with No. 14 last year.
+Texas comes in fourth, ranking No. 1 for Workforce and No. 2 for Economy and Access to Capital. But persistently high crime, poor healthcare, and a lack of inclusiveness land the Lone Star State at No. 49 for Quality of Life.
+No. 5 Minnesota, by contrast, ranks No. 4 for Quality of Life, with outstanding healthcare, strong worker protections, and inclusive state laws. But the North Star State can be crushingly expensive, with high taxes and living costs.
+This year's Most Improved State is Arkansas, which has seen an influx of workers in the corporation-heavy northwest part of the state, home to Walmart, Tyson Foods and J.B. Hunt Transport Services. The Natural State rises 13 spots to No. 28 overall, led by a 23-place jump to No. 13 in the Workforce category.
+2026 Bottom States include some old standbys
+We rank all 50 states, so if there are Top States, there must be Bottom States.
+At No. 46 is West Virginia, which ranks No. 48 for Economy and No. 49 for Access to Capital. But The Mountain State is No. 1 for Cost of Living.
+Louisiana comes in at No. 47. The Pelican State ranks poorly for Economy, at No. 47; Business Friendliness, at No. 48; and Quality of Life, at No. 46.
+Coming in at No. 48 is Rhode Island. The Ocean State ranks last for Economy, No. 48 for Access to Capital, and No. 46 for Infrastructure. Yet it still manages to be America's fifth-most expensive state to live in.
+No. 49 is Alaska. The Last Frontier ranks dead last for Education and Access to Capital, and No. 49 for Infrastructure.
+This year's Bottom State is Hawaii. The Aloha State comes in last for Infrastructure and the Cost of Doing Business, and at No. 47 for Cost of Living. Even Hawaii's legendary lifestyle takes a hit in 2026, because childcare is more expensive than it is in any other state. That drops Hawaii to No. 6 for Quality of Life.
+Join the conversation
+Didn't see your state mentioned? You can see where it ranked overall, and in all 10 categories of competitiveness, on the 2026 America's Top States for Business full rankings page.
+As always, CNBC welcomes your feedback. On social media, use the hashtag #TopStates.`,
+    bodyJa: `比類のないコストで比類のないアクセスを提供するオハイオ州は、2026 年にはアメリカのビジネスでトップの州になります。
+ここは、かつてラストベルトのバックルと考えられていたバックアイ州の長い登山の頂点です。オハイオ州は、2007 年の第 1 回 CNBC 調査で 30 位に終わりました。現在、オハイオ州は成長、資本、イノベーションを引き寄せる魅力を持っており、そのスローガン「すべての中心」に忠実です。
+共和党のマイク・デワイン知事は３月の州教書演説で、「われわれはオハイオ州を文字通りビジネスにとって頼りになる州にすることに戦略的に注力してきた」と述べた。
+努力が実を結びました。オハイオ州は昨年、CNBCのランキングで初めてトップ5に入った。年次調査の20年目となる今年は、競争環境が州の最大の強みを発揮します。
+オハイオ州はインフラストラクチャとビジネスコストで優れています
+オハイオ州は、今年のトップステートの方法論で最も重要なカテゴリーであるインフラストラクチャーで第 1 位にランクされています。オハイオ州から車で 1 日圏内に 1 億 4,300 万人以上の人々が住んでおり、オハイオ州の企業は他のどの州よりも市場へのアクセスが良好です。しかし、それはオハイオ州のインフラストラクチャの優位性の始まりにすぎません。
+Site Selectors GuildがCNBCの調査のためにまとめたデータによると、同州は、企業と開発用のシャベル準備が整った用地を組み合わせる国内で最も強力なプログラムの1つを提供している。同州は昨年、サイトの準備に1億7,500万ドルを割り当て、これはカリフォルニア州に次いで2位となった。今月の時点で、州データベースには利用可能な「SiteOhio Authenticated」サイト 26 件がリストされており、州経済開発庁 JobsOhio は「初日から建設の準備ができている」と述べている。
+木曜日のCNBCとのインタビューで、デワイン氏は防衛技術企業アンドゥリルの例を挙げ、昨年初めに初期投資10億ドルで大手製造拠点としてオハイオ州コロンバス近郊の敷地を選んだ。 「私たちは知事公邸で彼らと話し合い、私と妻は（アンドゥリルのCEO兼共同創設者である）パーマー・ラッキーらを招いて、彼らは『1年以内に生産を開始したい』と言いました。そして現在、数日以内に生産の準備がほぼ整いました」と同氏は語った。
+データセンターマップによると、オハイオ州は高度なコンピューティングのための良好な接続性と豊富な電力により、データセンター数ですでに 224 でトップ 10 に入っています。そして同州には、ソフトバンクと電力会社AEPが3月に発表した官民提携に基づき、まもなく世界最大級のデータセンターが建設される予定だ。 10ギガワット、42億ドルのこの施設は、かつて米国の核兵器用ウラン濃縮施設があったシンシナティ東のパイク郡の連邦所有の敷地に建設されている。
+ただし、データセンターの開発には議論の余地があります。オハイオ州で将来の大規模プロジェクトを憲法で禁止することを求める草の根団体は、10万人の署名を集めたと主張し、現在、来年の投票でこの法案が可決されることを期待している。 5月、この施設の初期の提案者であるデワイン氏は、データセンター開発者に対する州の100％消費税減税の一時凍結を命令した。
+「データセンターは州の経済発展に貢献している。データセンターは他の企業や他のビジネスを呼び込んでいる。私たちはそのことをよく知っている」とデワイン氏は語った。 「しかし、私たちが[取り組んでいる]ことの1つは、データセンターが導入されたときに、彼らが公平な負担を確実に支払うようにすることです」と彼は付け加えた。 「それらが入ってくると、人々の住宅所有者の金利が上昇するようなことがあってはなりません。」
+オハイオ州知事選は手頃な価格を重視
+データセンターの問題は、任期付きのデワイン氏の後継者争いにおいて、価格の手頃さに関する厳しい議論を形作る一因となっている。
+民主党候補者である元州公衆衛生局長のエイミー・アクトン博士は、住宅の公共料金、労働組合の雇用、環境を守るためにデータセンターにガードレールを設置するよう求めている。
+共和党候補のハイテク起業家ヴィヴェク・ラマスワミ氏は、公式声明に基づいてデータセンターに対してより寛容な姿勢を示しているが、開発者は電気代を自費で支払う必要があると述べた。
+「オハイオ州について一つ言えることは、これまでに民主党の知事がいたか共和党の知事がいたかにかかわらず、彼らは中道左派か中道右派のどちらかだということだ」とデワイン氏は語った。 「これは安定した州です…私たちは予測可能です。あなたの会社をここに連れてくることを悩ませるような大きな変化はありません。」
+知事選では手頃な価格が大きな焦点となっているが、オハイオ州は他の州よりもはるかに優れた実績を持っている。
+同州は重要な事業コストの分野で第 1 位にランクされています。不動産データ会社コスターによると、オフィスや工業用スペースの賃料は国内で最も低い部類に入る。保険料や公共料金は手頃で、企業に提供されるインセンティブは国内で最も寛大なものの一つです。州の財務情報開示によると、州は昨年会計年度に10億ドル以上の減税を行った。
+オハイオ州は税金が低い州である一方、固定資産税が高く、それが政治的な弱点となっているが、デワイン氏は、ここ数カ月で州議会が行動を起こしており、政府は引き続きこの問題に注力していくだろうと指摘した。 「我々の所得税やその他の税金の問題について人々が話しているのを聞いたことがない」と彼は言った。 「我が国の所得税は低く、今後も減税が続くだろう。学校資金のかなりの部分を固定資産税に依存しているため、固定資産税が唯一の課題だ。しかし、我々はその方向に進んでいる。我々は国民の声を聞き、行動を起こしており、今後もそれを続けるつもりだ」と同氏は語った。
+個人も元気です。オハイオ州は生活費で第 9 位にランクされており、住宅費は全米で最も手頃な地域の一つです。
+オハイオ州は他のカテゴリーでもトップ 10 に入っています。エコノミーは 9 位。テクノロジーとイノベーション、10位。そして9位は「資本へのアクセス」。
+トップ州は主要カテゴリーで依然として後れを取っている
+あらゆる進歩にもかかわらず、オハイオ州にはまだやるべき多くの仕事が残っています。
+全米教育協会によると、オハイオ州は教育分野で第 23 位にランクされており、公立学校の平均クラス人数は第 9 位となっています。州高等教育職員協会によると、高等教育に対する州の資金提供が遅れている。
+このことが、アメリカのビジネスでトップの州が35位に終わっている重要な労働力部門におけるオハイオ州の最も明らかな競争力の弱さに寄与している。国勢調査局によると、オハイオ州の成人のうち学士以上の学位を持っている人は約19％しかおらず、オハイオ州の労働者は学歴の点で全米最下位に位置している。さらに重要なのは、労働分析会社ライトキャストがCNBC向けにまとめたデータによると、十分な熟練労働者がオハイオ州に留まったり、移住したりしていないことだ。
+「私たちはこの学生に焦点を当てています」とデワイン氏は語った。 「高校卒業クラスの上位5％に入れば、2万ドルがもらえる…どの州立学校にでも使えるし、オハイオ州の私立学校を選ぶこともできる」と同氏は語った。 「この政策を施行して以来、オハイオ州の学校に通っている子どもの数は約60％でしたが、約85％に増加しました」と彼は付け加えた。
+ジョブズオハイオ州は州内のスキルギャップを埋めることを期待し、熟練労働者の採用と訓練に今後10年間で3億ドルを投資すると6月に発表した。同庁は、同州では今後10年間に科学、技術、工学、数学（STEM）の分野で54万人の労働者が必要になると推計している。
+「これは人々に現実世界での実際の仕事に向けて準備をさせることを目的としている」とデワイン氏はジョブズオハイオ体験学習イニシアチブの発表で述べた。
+米国 50 州すべてをどのように採点したか
+CNBCの調査では、50州すべてを10のカテゴリーにわたる競争力を測定し、合計2,500点を獲得できる可能性がある。オハイオ州は1,623得点を獲得し、今年の栄冠を獲得した。
+私たちの方法論では、州がそれをセールスポイントとして挙げる頻度に基づいて、各カテゴリーに重みを割り当てます。そのアイデアは、州がビジネスに売り込む際に使用する基準に基づいて州を評価することです。
+今年のカテゴリーと合計ポイントは次のとおりです。
+- インフラストラクチャー: 440 ポイント (17.6%)
+- 経済: 415 ポイント (16.6%)
+- 従業員: 345 ポイント (13.8%)
+- 生活の質: 290 ポイント (11.6%)
+- ビジネスのコスト: 285 ポイント (11.4%)
+- テクノロジーとイノベーション: 245 ポイント (9.8%)
+- ビジネスフレンドリー度: 225 ポイント (9%)
+- 資本へのアクセス: 105 ポイント (4.2%)
+- 教育: 100 ポイント (4%)
+- 生活費：50ポイント（2%）
+残りのトップ州
+昨年トップの州だったノースカロライナ州は今年は2位に終わった。タールヒール州はCNBCのランキングで目覚ましい成績を収めている。同州は過去6年間いずれも1位か2位で終わっており、わずか9ポイント差で2026年の連覇を逃している。
+ノースカロライナ州は予算を可決できずに一年を過ごしたにもかかわらず、今年の経済部門でトップにランクされている。同州議会は先週ようやく予算案を可決し、ジョシュ・スタイン知事が火曜日に署名した。雇用の増加と経済成長は力強いものでした。しかし、その成長によりコストが上昇しました。ノースカロライナ州は生活費で 35 位にランクされています。そして、不十分な労働者保護と犯罪の増加により、州は生活の質で 34 位に押し上げられています。
+バージニア州は 3 位で、インフラストラクチャーではオハイオ州に次ぐ第 2 位、教育では第 5 位となっています。しかし、連邦予算と人員削減によりオールド・ドミニオンの経済ランキングは悪化し、昨年の14位から2026年には23位に下がった。
+テキサス州は 4 位で、労働力で 1 位、経済と資本へのアクセスで 2 位となっています。しかし、依然として高い犯罪、劣悪な医療、包括性の欠如により、この孤立星州は生活の質で 49 位にランクされています。
+対照的に、第 5 位のミネソタ州は、優れた医療、強力な労働者保護、包括的な州法を備え、生活の質で第 4 位にランクされています。しかし、北極州は税金や生活費が高く、非常に物価が高い場合があります。
+今年最も改善された州はアーカンソー州で、ウォルマート、タイソン・フーズ、J.B.ハント・トランスポート・サービスの本拠地である企業の多い州北西部に労働者が流入している。 Natural State は、労働力部門で 23 ランク上昇して 13 位となり、全体で 28 位と 13 ランク上昇しました。
+2026 年のボトムステートには古いスタンバイがいくつか含まれています
+私たちは 50 州すべてをランク付けしているため、上位の州があれば下位の州も存在するはずです。
+46 位はウェストバージニア州で、経済面で 48 位、資本へのアクセス面で 49 位にランクされています。しかし、山岳州は生活費ではナンバーワンです。
+ルイジアナ州は 47 位です。ペリカン州立大学は経済部門で 47 位と悪い順位にあります。ビジネスフレンドリー度、48位。そして生活の質は46位です。
+48位はロードアイランド州です。オーシャンステートは経済では最下位、資本へのアクセスでは第 48 位、インフラストラクチャーでは第 46 位にランクされています。それでもなお、アメリカで5番目に生活費が高い州であることに変わりはない。
+49位はアラスカです。最後のフロンティアは、教育と資本へのアクセスでは最下位、インフラストラクチャでは49位にランクされています。
+今年の最下位州はハワイです。アロハ州はインフラストラクチャーとビジネスコストでは最下位、生活コストでは第 47 位となっています。他のどの州よりも保育料が高額なため、ハワイの伝説的なライフスタイルも 2026 年には打撃を受けることになる。これにより、ハワイは生活の質で第 6 位に落ちます。
+会話に参加する
+あなたの州について言及されていませんか？ 2026 年のアメリカのビジネストップ州完全ランキング ページで、全体および競争力の 10 カテゴリーすべてでの順位を確認できます。
+いつものように、CNBC は皆様からのフィードバックをお待ちしております。ソーシャル メディアでは、ハッシュタグ #TopStates を使用してください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/ohio-no-1-americas-top-states-for-business-rankings.html",
+    publishedAt: "2026-07-09T14:06:29+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "meta-jumps-into-ai-coding-market-in-effo-cee83039",
+    title: "Meta jumps into AI coding market in effort to chase Anthropic and OpenAI",
+    titleJa: "Meta、Anthropic と OpenAI を追いかけて AI コーディング市場に参入",
+    summaryJa: "AI 責任者の Alexandr Wang 氏のリーダーシップの下、最初の人工知能モデルを発表してから 3 か月後、Meta は市場の重要な分野で OpenAI や Anthropic と競合しようとして、主要なアップデートを展開しています。Meta が木曜日に導入した Muse Spark 1.1 は、同社の「エージェントおよびコーディング作業にとってこれまでで最も強力なモデル」であると Wang 氏は CNBC のインタビューで述べた。 4月にリリースされた初期のMuse Sparkモデルは、「プライベートAPIプレビュー」を通じてテクノロジーにアクセスできる「一部のパートナー」のみが利用できた。",
+    bodyOriginal: `Three months after unveiling its first artificial intelligence model under the leadership of AI chief Alexandr Wang, Meta is rolling out a major update as it attempts to compete with OpenAI and Anthropic in critical areas of the market.
+Muse Spark 1.1, which Meta introduced on Thursday, represents its "strongest model for agentic and coding work yet," Wang said in an interview with CNBC. The initial Muse Spark model released in April was only available to "select partners" who could access the technology via a "private API preview."
+Meta is making the new model's API available through a developer portal as part of a public preview, where users will be able to sign up and see instructions for integration. A Meta spokesperson said some early partners can already access the API, and new users "will be able to add themselves to a waitlist and be added from there over time." For now, Meta said it's limiting API access to its own properties rather than making it available on third-party platforms like the popular OpenRouter marketplace.
+"This is going to be served on top of the computer infrastructure that we've built," Wang said.
+It's Meta's second notable rollout for the Muse family this week. On Tuesday, Meta released Muse Image, originally code-named Mango, a model for creating images, as the company seeks to attract creators and advertisers to its offerings.
+Meta CEO Mark Zuckerberg is coming under pressure from Wall Street to show a return on the company's massive and growing investment in AI infrastructure and development. While it's spending at the rate of its hyperscaler peers, Meta doesn't have a cloud infrastructure business (though it plans to start one), and it's failed to keep up with OpenAI, Anthropic and Google in developing popular models and AI applications.
+Wang characterized pricing of the Muse Spark update as "very aggressive and attractive" compared with similar offerings from labs like Anthropic and OpenAI. He said every new API account will start with $20 in free credits. From there, the company will charge $1.25 per million tokens in input, and $4.25 per million tokens of output, he said.
+"The goal is to really have attractive pricing that scales with immense consumption usage," Wang said.
+He said Muse Spark 1.1 outperformed rival models in certain tasks involving the ability to interact with various third-party coding products and services.
+Wang's Meta Superintelligence Labs, or MSL, trained Muse Spark 1.1 to excel in coding-related tasks because that ultimately improves the capabilities of AI agents that can autonomously perform multiple tasks like a fleet of human interns, he said.
+"You kind of have to build coding capabilities as part of that in service of overall agentic capabilities," Wang said.
+The tech industry's excitement about AI agents took off in the first half of 2026, in part due to the sudden popularity of OpenClaw, which developers could use to manage AI models that power supercharged digital assistants. Wang said Meta trained Muse Spark 1.1 "to be able to work well with all of the most popular harnesses that developers use today, and we felt that was the best approach for this model given our goal to maximize adoption."
+Although Meta's previous AI strategy emphasized releasing its earlier Llama family of models to the open-source community, the company is now focusing on selling access to proprietary AI models.
+Wang said that Meta is still "committed to open source" and that his MSL unit has a "variant of Muse Spark that is in development that we do intend to open source." He declined to say when the company would release it.
+Wang added that he's been "dog-fooding" the latest Muse Spark model, and is excited about the technology's ability to be used as tool for improving personal health via tasks like searching the web, reading academic papers and accessing personal health-related data.
+"It's one of these use cases that I think really encapsulates the needs of these agentic systems," Wang said of his AI and health experiments.
+Wang said Meta is currently training a more powerful AI model, code-named Watermelon, but didn't say when it would be released. Muse Spark's code name was Avocado.`,
+    bodyJa: `AI 責任者の Alexandr Wang 氏のリーダーシップの下、最初の人工知能モデルを発表してから 3 か月後、Meta は市場の重要な分野で OpenAI や Anthropic と競合しようとして、主要なアップデートを展開しています。
+Meta が木曜日に導入した Muse Spark 1.1 は、同社の「エージェントおよびコーディング作業にとってこれまでで最も強力なモデル」であると Wang 氏は CNBC のインタビューで述べた。 4月にリリースされた初期のMuse Sparkモデルは、「プライベートAPIプレビュー」を通じてテクノロジーにアクセスできる「一部のパートナー」のみが利用できた。
+Meta は、パブリック プレビューの一環として、開発者ポータルを通じて新しいモデルの API を利用できるようにしています。ユーザーはそこでサインアップして、統合の手順を確認できます。 Metaの広報担当者は、一部の初期パートナーはすでにAPIにアクセスでき、新規ユーザーは「順番待ちリストに自分を追加し、時間の経過とともにそこから追加されるようになる」と述べた。 Metaは今のところ、人気のあるOpenRouterマーケットプレイスのようなサードパーティプラットフォームでAPIを利用できるようにするのではなく、自社のプロパティへのAPIアクセスを制限していると述べた。
+「これは、私たちが構築したコンピューターインフラストラクチャの上で提供されることになる」とワン氏は語った。
+今週の Meta の Muse ファミリー向けの 2 番目の注目すべき展開です。メタ社は火曜日、同社の製品にクリエイターや広告主を引き付けることを目指して、画像作成用のモデルであるMuse Image（当初のコード名はMango）をリリースした。
+Metaの最高経営責任者（CEO）であるマーク・ザッカーバーグ氏は、AIインフラストラクチャと開発に対する同社の巨額かつ成長を続ける投資の見返りを示すようウォール街から圧力を受けている。同業のハイパースケーラーと同程度の支出を行っている一方で、Meta にはクラウド インフラストラクチャ ビジネスがなく（開始する予定はあるものの）、人気モデルや AI アプリケーションの開発において OpenAI、Anthropic、Google に追いつくことができていません。
+Wang 氏は、Anthropic や OpenAI などのラボが提供する同様のサービスと比較して、Muse Spark アップデートの価格設定は「非常に積極的で魅力的」であると特徴付けました。同氏は、すべての新しい API アカウントは 20 ドルの無料クレジットから開始すると述べました。そこから同社は、入力トークン 100 万あたり 1.25 ドル、出力トークン 100 万あたり 4.25 ドルを請求する予定であると同氏は述べた。
+「目標は、膨大な消費量に合わせて魅力的な価格設定を実現することです」とワン氏は語った。
+同氏は、Muse Spark 1.1は、さまざまなサードパーティのコーディング製品やサービスと対話する機能を含む特定のタスクにおいて、ライバルモデルよりも優れたパフォーマンスを発揮したと述べた。
+Wang 氏のメタ スーパーインテリジェンス ラボ (MSL) は、Muse Spark 1.1 をコーディング関連のタスクで優れた能力を発揮できるようにトレーニングしました。これにより、人間のインターンの集団のように複数のタスクを自律的に実行できる AI エージェントの能力が最終的に向上するからだと同氏は述べました。
+「エージェント機能全体のサービスの一部としてコーディング機能を構築する必要があるのです」と Wang 氏は言います。
+AI エージェントに対するテクノロジー業界の興奮は 2026 年上半期に高まりました。これは、開発者が強力なデジタル アシスタントを強化する AI モデルを管理するために使用できる OpenClaw が突然普及したことも一因です。 Wang 氏は、Meta が Muse Spark 1.1 を「現在開発者が使用している最も一般的なハーネスのすべてで適切に動作できるようにトレーニングしました。採用を最大化するという目標を考慮すると、それがこのモデルにとって最良のアプローチであると感じました」と述べました。
+Meta の以前の AI 戦略では、初期の Llama ファミリのモデルをオープンソース コミュニティにリリースすることに重点を置いていましたが、同社は現在、独自の AI モデルへのアクセスを販売することに重点を置いています。
+Wang 氏は、Meta 氏は依然として「オープンソースに取り組んでいる」と述べ、彼の MSL 部門には「オープンソース化するつもりで開発中の Muse Spark の亜種」があると述べた。同氏は同社がいつリリースするかについては明言を避けた。
+ワン氏は、最新の Muse Spark モデルを「ドッグフーディング」していると付け加え、ウェブ検索、学術論文の閲覧、個人の健康関連データへのアクセスなどのタスクを通じて、個人の健康を改善するためのツールとしてこのテクノロジーが使用できることに興奮していると付け加えた。
+「これは、これらのエージェント システムのニーズを本当に要約していると思うユースケースの 1 つです」と Wang 氏は AI と健康に関する実験について述べました。
+ワン氏は、メタは現在、コード名「ウォーターメロン」というより強力なAIモデルをトレーニングしていると述べたが、いつリリースされるかについては明らかにしなかった。ミューズ・スパークのコードネームはアボカドだった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+    publishedAt: "2026-07-09T14:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "tanker-traffic-through-strait-of-hormuz-636c4fea",
+    title: "Tanker traffic through Strait of Hormuz slows after Iranian attacks trigger renewed fighting with U.S.",
+    titleJa: "イランの攻撃で米国との戦闘が再開され、ホルムズ海峡を通るタンカーの往来が鈍化",
+    summaryJa: "今週、イランによる商船３隻への攻撃によりペルシャ湾が新たな戦争の瀬戸際に追い込まれて以降、ホルムズ海峡を通る石油タンカーの交通量が鈍化している。貿易情報会社クプラーの商品調査ディレクター、マット・スミス氏によると、水曜日にはタンカー１３隻がホルムズを通過したが、前週は１日平均３３隻だった。スミス氏によると、船はイランが管理する航路をたどるか、追跡を避けるためにトランスポンダーのスイッチを切ったという。",
+    bodyOriginal: `Oil tanker traffic through the Strait of Hormuz has slowed after Iranian attacks on three commercial ships this week pushed the Persian Gulf to the brink of a renewed war.
+Thirteen tankers crossed Hormuz on Wednesday compared with an average of 33 per day over the previous week, said Matt Smith, director of commodity research at the trade intelligence firm Kpler. The ships either followed the route controlled by Iran or switched their transponders off to avoid tracking, Smith said.
+Oil prices have rallied more than 6% this week as investors worry that crude exports through Hormuz could plunge again as the U.S. and Iran fight for control of the strategic sea lane.
+President Donald Trump said Wednesday that he believed the ceasefire with Iran was over after Tehran attacked three tankers transiting Hormuz earlier this week. The U.S. has launched two rounds of airstrikes against Iran and reimposed oil sanctions in retaliation for the tanker attacks.
+"The collapse of the ceasefire framework, the reimposition of Iranian oil sanctions, and the scale of U.S. kinetic action inside Iran represent the most significant escalation of the conflict since its opening phase," the maritime intelligence firm Windward told clients in a Wednesday note.
+But the oil market is not pricing in a complete closure of the strait, said Andy Lipow, president of Lipow Oil Associates, in a note to clients Thursday.
+"It appears to be pricing in a new normal where periods of conflict (perhaps we might call them missile skirmishes) occur between periods of relative calm (or unease) that permit the transit of tankers," Lipow said.
+Oil exports through Hormuz had rebounded after the U.S. and Iran signed a memorandum of understanding on June 17 to reopen the strait. Tehran promised safe passage to ships and agreed to not charge a toll for 60 days under the interim deal with the U.S.
+But Tehran has demanded that ships use a northern route under its control to enjoy safe passage. It has attacked vessels using a southern route along Oman's coast that is protected by the U.S. Navy.
+"This is part of this sporadic targeted campaign by Iran to destabilize that southern corridor and send a message to Gulf State producers that are not sending their oil via that northern corridor," said Michelle Wiese Bockmann, a senior maritime intelligence analyst at Windward.
+Iran basically shut down Hormuz by threatening commercial ships after the U.S. and Israel launched a massive wave of airstrikes on Feb. 28 that killed its head of state Ayatollah Ali Khamenei. The closure of the strait dragged on for months, triggering the biggest supply disruption in history.`,
+    bodyJa: `今週、イランによる商船３隻への攻撃によりペルシャ湾が新たな戦争の瀬戸際に追い込まれて以降、ホルムズ海峡を通る石油タンカーの交通量が鈍化している。
+貿易情報会社クプラーの商品調査ディレクター、マット・スミス氏によると、水曜日にはタンカー１３隻がホルムズを通過したが、前週は１日平均３３隻だった。スミス氏によると、船はイランが管理する航路をたどるか、追跡を避けるためにトランスポンダーのスイッチを切ったという。
+米国とイランが戦略的シーレーンの主導権を争う中、ホルムズ経由の原油輸出が再び落ち込む可能性があると投資家が懸念する中、原油価格は今週６％以上上昇した。
+ドナルド・トランプ大統領は水曜日、イランが今週初めにホルムズを航行中のタンカー３隻を攻撃したことを受けて、イランとの停戦は終わったと信じていると述べた。米国はタンカー攻撃への報復としてイランに対する２度の空爆を開始し、石油制裁を再発動した。
+「停戦枠組みの崩壊、イラン石油制裁の再発動、そしてイラン国内での米国の運動的行動の規模は、紛争の初期段階以来最も顕著なエスカレーションを表している」と海事情報会社ウィンドワードは水曜日のメモで顧客に語った。
+しかしリポウ・オイル・アソシエイツの社長、アンディ・リポウ氏は木曜日の顧客向けメモで、石油市場は海峡の完全閉鎖を織り込んでいないと述べた。
+「タンカーの航行が許可される比較的平穏な（または不安な）期間の間に紛争期間（ミサイル小競り合いと呼んでもいいかもしれない）が発生する新たな常態を織り込んでいるようだ」とリポウ氏は述べた。
+ホルムズ経由の石油輸出は、米国とイランが６月１７日に海峡再開の覚書に署名してから回復していた。テヘランは船舶の安全な航行を約束し、米国との暫定合意に基づき60日間通行料を請求しないことに同意した。
+しかしイラン政府は、船舶が安全に航行できるよう、同国の管理下にある北方航路を使用するよう要求している。米海軍が保護するオマーン沿岸の南ルートを利用して船舶を攻撃した。
+ウィンドワード社の上級海洋情報アナリスト、ミシェル・ヴィーゼ・ボックマン氏は、「これは、南回廊を不安定にし、北回廊経由で石油を送らない湾岸諸国の生産国にメッセージを送るための、イランによる散発的標的作戦の一環だ」と述べた。
+イランは、米国とイスラエルが2月28日に大規模な空爆を開始し、国家元首ハメネイ師を殺害した後、商船を脅迫してホルムズ島を基本的に閉鎖した。海峡の閉鎖は何か月も続き、史上最大の供給途絶を引き起こした。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/iran-strait-hormuz-oil-tanker-traffic-gulf-trump.html",
+    publishedAt: "2026-07-09T13:37:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "porn-site-company-fined-630-000-over-fai-89e4ff02",
+    title: "Porn site company fined £630,000 over failed age checks",
+    titleJa: "ポルノサイト会社、年齢確認不合格で63万ポンドの罰金",
+    summaryJa: "ポルノサイト会社、年齢確認不合格で63万ポンドの罰金- 公開されました",
+    bodyOriginal: `Porn site company fined £630,000 over failed age checks
+- Published
+Ofcom has fined the operator of a pornography site £630,000 for failing to properly check the ages of its users.
+Sites allowing adult content, including porn, have had to use "highly effective" age assurance to make sure UK visitors are 18 or older since July 2025.
+But Ofcom, which enforces these requirements, said the company behind porn site Fapello had not introduced any checks and did not reply to requests for information on time.
+"Age checks are no longer optional for porn sites in the UK," said George Lusty, director of enforcement at Ofcom.
+"They are a cornerstone of our laws to protect children from content they should not be seeing."
+The regulator opened an investigation into the porn site operator in November.
+On Thursday, Ofcom said it had fined the company £600,000 for not introducing methods to check the age of users.
+After it did not respond to its requests for information on time, Ofcom handed down an additional £30,000 penalty.
+"Providers also need to know that if they don't supply accurate information to us on time, when we request it, they should expect to face enforcement action, including fines," added Lusty.
+While the site has since blocked UK visitors, the regulator says it will continue to monitor its compliance.
+Broader scrutiny
+The fine is one of many handed down by Ofcom in recent months over age check failings.
+In May, the regulator fined porn company YoungTek Solutions £600,000 for not putting systems in place to make sure UK visitors were over the age of 18.
+And prior to that, the regulator levied a £1.35m fine on another adult site operator for failing to introduce age checks.
+But Ofcom has also faced ongoing scrutiny over the effectiveness of its enforcement of the UK's age check rules for porn sites.
+It was revealed in December the regulator had never heard from a firm handed a £1m fine - prompting questions of whether monetary penalties were enough to secure action.
+However, that same company later began complying with Ofcom's rules.
+Meanwhile Ofcom is involved in an ongoing dispute with online message board 4chan over its refusal to pay a £520,000 fine.
+A lawyer for the firm has repeatedly mocked the regulator's threats of further fines or enforcement action with AI-generated cartoon images of hamsters.
+Ofcom has set out a number of ways websites can verify the age of users, including through credit card checks, photo ID matching and estimating age using a selfie.
+Whatever format platforms choose, they must be "technically accurate, robust, reliable and fair", it says.
+The regulator said on Thursday it had opened a new investigation into another porn provider, Bit Hive, to assess its compliance - citing concern one of its age check methods "may not be highly effective".
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published27 May
+- Published5 May`,
+    bodyJa: `ポルノサイト会社、年齢確認不合格で63万ポンドの罰金
+- 公開されました
+Ofcomは、ユーザーの年齢確認を適切に怠ったとして、ポルノサイトの運営者に63万ポンドの罰金を科した。
+ポルノを含むアダルトコンテンツを許可するサイトは、2025年7月以降、英国の訪問者が18歳以上であることを確認するために「非常に効果的な」年齢保証を使用する必要がある。
+しかし、これらの要件を強制しているオフコムは、ポルノサイト「ファペロ」を運営する会社はいかなる検査も導入しておらず、情報提供の要請にも期限までに返答しなかったと述べた。
+「英国のポルノサイトでは、年齢確認はもはやオプションではない」とオフコムの執行ディレクター、ジョージ・ラスティ氏は語った。
+「これらは、子どもたちを見てはいけないコンテンツから守るための法律の基礎です。」
+規制当局は11月にポルノサイト運営者に対する調査を開始した。
+オフコムは木曜日、ユーザーの年齢を確認する方法を導入しなかったとして同社に60万ポンドの罰金を科したと発表した。
+情報提供要請に期限までに応じなかったため、Ofcom は追加の 3 万ポンドの罰金を言い渡した。
+「プロバイダーはまた、私たちが要求したときに正確な情報を期限までに提供しなかった場合、罰金を含む強制措置に直面することを覚悟する必要があることを知っておく必要があります」とラスティ氏は付け加えた。
+その後、同サイトは英国からの訪問者をブロックしているが、規制当局は今後もその遵守状況を監視し続けるとしている。
+より広範な調査
+この罰金は、年齢確認の不合格を理由にここ数カ月間にオフコムが言い渡した多くの罰金のうちの1つである。
+規制当局は5月、英国の訪問者が18歳以上であることを確認するシステムを導入しなかったとして、ポルノ会社ヤングテック・ソリューションズに60万ポンドの罰金を科した。
+そしてそれに先立ち、規制当局は年齢チェックの導入を怠ったとして別のアダルトサイト運営者に135万ポンドの罰金を課した。
+しかし、Ofcom はまた、ポルノ サイトに対する英国の年齢確認規則の施行の有効性を巡って継続的な監視にも直面している。
+12月には、規制当局が100万ポンドの罰金を言い渡した企業から何も聞いていないことが明らかになり、制裁金が措置を確保するのに十分なのかという疑問が生じた。
+しかし、その同じ会社はその後、Ofcom の規則に準拠し始めました。
+一方、Ofcom は 52 万ポンドの罰金の支払いを拒否したことをめぐり、オンライン掲示板 4chan と係争中である。
+同社の弁護士は、AIが生成したハムスターの漫画画像を使って、追加の罰金や強制執行を行うという規制当局の脅しを繰り返し嘲笑してきた。
+Ofcom は、クレジット カードの確認、写真付き ID の照合、自撮り写真を使用した年齢推定など、Web サイトがユーザーの年齢を確認できるさまざまな方法を確立しました。
+プラットフォームがどのような形式を選択するとしても、それらは「技術的に正確で、堅牢で、信頼性があり、公平である」必要があると述べています。
+規制当局は木曜日、別のポルノプロバイダーであるビットハイブのコンプライアンスを評価するため、同社の年齢確認方法の1つが「あまり効果的ではない可能性がある」という懸念を理由に、新たな調査を開始したと発表した。
+Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。
+関連トピック
+- 5 月 27 日公開
+- 5 月 5 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-09T11:29:31+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a15f/live/ee3faaa0-7b86-11f1-881d-8fcf7e2296a7.jpg",
+    readTime: 4,
+  },
+  {
+    id: "how-can-i-get-air-conditioning-in-my-hom-3ca927ec",
+    title: "How can I get air conditioning in my home and how much does it cost?",
+    titleJa: "家にエアコンを設置するにはどうすればよいですか?また、その費用はどれくらいかかりますか?",
+    summaryJa: "家にエアコンを設置するにはどうすればよいですか?また、その費用はどれくらいかかりますか?- 公開されました",
+    bodyOriginal: `How can I get air conditioning in my home and how much does it cost?
+- Published
+As the UK experiences hotter summers and more regular heatwaves, households have been grappling with how to keep sweltering homes as cool as possible.
+Air conditioning has been in hot demand, with retailers seeing their stock fly off the shelves and units online sell out.
+The technology already features in many modern cars, hotels and other public places, yet historically homes have been designed to cope with cold weather and keeping heat in them.
+Is it time the technology became a feature in most British homes?
+Types of air con and how they work
+The main function of air conditioning is to cool the temperature inside a building.
+There are three main types of air con systems designed for homes:
+Portable air conditioners: The clue is in the name. They are portable, standalone units, which can be used to cool individual rooms. They are simply plugged into the nearest socket and work by drawing in warm air, cooling it, and venting heat outside through a window via a pipe or ducting.
+Split systems: These involve two units, one inside and one outside, that are fixed to a wall and linked by a pipe. The one outside acts as a condenser, which expels the unwanted heat into the air outside. You can buy one for just one room or you can get multiple indoor units to work with a single outdoor condenser, according to LG, the household appliance and white goods retailer. British Gas says, external such "ductless systems" are one of the most common options for UK homes.
+Ducted air con: These systems are designed to serve the entire home, with a central unit pushing cooled air through a network of ducting, with vents in each room. Unlike the other options, this would require invasive renovation work to an existing property.
+How much do they cost?
+Costs range widely depending on what is wanted and/or required.
+Portable units are the cheapest form of air con, ranging from £350 to £650 on average, depending on the brand and performance, according to Checkatrade., external
+However, as demand has soared in recent weeks some retailers began selling the cooling machines for £149, as Lidl did in its middle aisles.
+Wall mounted or split air con units can cost between £750 and £1,100 each, Checkatrade says - but that is just the unit, and does not include the labour and other installation costs, such as hooking it up to the property's electricity fuse board. Installation company Heatable suggests, external a full cost is typically £2,000 to £3,500, but can go up to £6,000 if you want to have it in more than one room.
+Ducted air con systems cost the most, between £990 and £1,750 without installation costs, according to Checkatrade. Fitting the ducting or remedial work to hide it inside properties means it is likely to be more expensive than any of the other systems given the level of work involved. Heatable estimates it to be between £5,000 and £10,000, depending on the property size, layout and how complex the ductwork needs to be.
+The size of both split and ducted units are determined by what is known as the BTU (British Thermal Unit), Checkatrade says, to ensure it will cool the space it's required to. The larger the BTU number, the bigger the room to cool, and therefore the more expensive the unit.
+Following installation, consumer group Which? suggests the running costs "vary wildly" and depend on the type of system.
+"A typical portable air conditioner adds roughly 25p to 40p an hour to your electricity bill," it says.
+The pros and cons
+Stating the obvious, the main benefit of having air con in a home is that it can keep it cool during times of extreme heat, meaning people can sleep, work and generally live more comfortably.
+However, air con units require electricity, the price of which remains much higher now than it was a few years ago, and so you can expect your overall energy bill to increase if you purchase and use one regularly.
+Some environmental groups have also raised concerns over the impact of such technology on the environment, including the chemicals used in units to cool air.
+Portable air con units are easy to set up, use and move around homes. They are cheaper to buy than the alternatives and do not require professional installation.
+But they can be more expensive to run due to not being as energy efficient.
+Checkatrade says portable or window units are a good short-term solution and are also ideal for renters or those who live in listed buildings who cannot make major changes to their property.
+Split systems are much better at cooling rooms and are also cheaper to run, according to Checkatrade. They are also quieter than portable units, but they do entail larger upfront costs and need to be installed by a professional tradesperson.
+Ducting air con is the least noticeable option due to the vents and can cool multiple rooms. But when it comes to retrofitting older homes it can be complex due to having to find space for the equipment, which adds to installation costs.
+Do you need planning permission to install air con?
+You don't for portable units.
+The government says "in most cases", planning permission is not required to install air con "for a small home if it would not materially affect the appearance of the building from outside".
+It adds there is no blanket rule and says people should speak to their local authority to check the rules, adding "councils should take a common-sense approach".
+What about heat pumps?
+There are some heat pumps that can also work as air conditioning systems, although Which? says this depends on the type and whether the model is reversible.
+"Air-to-air heat pumps are specifically designed to provide both heating and cooling by reversing the way they transfer heat - taking heat from outside to warm your home in winter, and removing heat from inside to cool it in summer," Which? says.
+How do I keep cool if I don't want or can't afford air con?
+Let in cool air and encourage air flow. Open windows on opposite sides of the house to encourage air flow, but only do this when the air temperature outside is cooler than inside, which tends to be overnight or in the early morning.
+Keep warmer air out during the day. In the heat of the day it is best to keep your windows shut and blinds or curtains closed.
+Use a fan to enhance the breeze. Fans are a relatively cheap and energy-efficient way to keep air moving and can help you stay cool.
+Stay hydrated, wear loose-fitting clothes and take tepid showers. Tepid showers can help to cool your body temperature. The NHS recommends six to eight glasses of water a day, but you may need more in the heat.`,
+    bodyJa: `家にエアコンを設置するにはどうすればよいですか?また、その費用はどれくらいかかりますか?
+- 公開されました
+英国では夏がさらに暑くなり、熱波が定期的に発生するようになり、各家庭は暑い家をできるだけ涼しく保つ方法に頭を悩ませています。
+エアコンの需要は非常に高く、小売業者では在庫が棚から消え、オンラインではエアコンが売り切れとなっています。
+この技術はすでに多くの現代の自動車、ホテル、その他の公共の場所に搭載されていますが、歴史的に住宅は寒さに対処し、室内の熱を保つように設計されてきました。
+このテクノロジーが英国のほとんどの家庭に普及する時期が来たのでしょうか?
+エアコンの種類と仕組み
+空調の主な機能は建物内の温度を下げることです。
+家庭用に設計されたエアコン システムには主に 3 つのタイプがあります。
+ポータブルエアコン：ヒントは名前にあります。これらは持ち運び可能な独立型ユニットであり、個々の部屋を冷却するために使用できます。最も近いコンセントに差し込むだけで、暖かい空気を吸い込んで冷却し、パイプやダクトを介して窓から熱を屋外に排出します。
+分割システム: 内側と外側の 2 つのユニットが壁に固定され、パイプで接続されています。外側のものは凝縮器として機能し、不要な熱を屋外の空気中に排出します。家電製品および白物家電の小売業者である LG によると、1 つの部屋専用に購入することも、複数の室内ユニットを 1 つの室外コンデンサーで動作させることもできます。 British Gas によれば、このような外部の「ダクトレス システム」は、英国の家庭で最も一般的なオプションの 1 つです。
+ダクトエアコン: これらのシステムは家全体にサービスを提供するように設計されており、中央ユニットが冷気をダクトネットワークに送り込み、各部屋に通気口を備えています。他のオプションとは異なり、これには既存の物件に対する侵襲的な改修工事が必要になります。
+費用はいくらですか?
+費用は、何が必要か、何が必要かによって大きく異なります。
+Checkatrade によると、ポータブルユニットは最も安価なエアコンで、平均価格はブランドや性能に応じて 350 ポンドから 650 ポンドの範囲です。
+しかし、ここ数週間で需要が急増したため、Lidlが中央通路で販売したように、一部の小売業者は冷却機を149ポンドで販売し始めた。
+Checkatradeによると、壁に取り付けられたエアコンユニットや分割式エアコンユニットの価格はそれぞれ750ポンドから1,100ポンドの間であるが、それは単なるユニットの金額であり、人件費や、物件の電気ヒューズボードに接続するなどのその他の設置費用は含まれていない。設置会社Heatableによると、屋外の全額費用は通常2,000ポンドから3,500ポンドですが、複数の部屋に設置したい場合は最大6,000ポンドになる可能性があります。
+Checkatrade によると、ダクト付きエアコン システムが最も高価で、設置費用を除くと 990 ポンドから 1,750 ポンドの間です。ダクトを設置したり補修工事を行って敷地内に隠すことは、作業のレベルを考慮すると、他のシステムよりも費用がかかる可能性が高いことを意味します。 Heatable は、物件の規模、レイアウト、ダクト工事の複雑さによって異なりますが、費用は 5,000 ポンドから 10,000 ポンドの間であると見積もっています。
+Checkatradeによると、分割ユニットとダクトユニットの両方のサイズは、必要な空間を確実に冷却できるように、BTU（英国熱量ユニット）として知られるものによって決定されます。 BTU の数値が大きいほど、冷却する部屋が広くなり、したがってユニットの価格も高くなります。
+設置後、消費者団体「どっち?」ランニングコストは「大きく異なり」、システムの種類によって異なると示唆しています。
+「一般的なポータブルエアコンを使用すると、1 時間あたりおよそ 25 ペンスから 40 ペンスの電気代が追加されます」と書かれています。
+長所と短所
+当たり前のことですが、家にエアコンを設置することの主な利点は、猛暑のときに涼しく保つことができることであり、これは人々が睡眠、仕事、そして一般的な生活をより快適にできることを意味します。
+ただし、エアコンには電気が必要であり、その価格は数年前に比べて依然として高いため、定期的に購入して使用すると、全体の光熱費が増加することが予想されます。
+一部の環境保護団体も、空気を冷却するためのユニットに使用される化学薬品など、このような技術が環境に与える影響について懸念を表明している。
+ポータブルエアコンユニットは、セットアップ、使用、家の中での移動が簡単です。代替品よりも安価に購入でき、専門家による取り付けは必要ありません。
+ただし、エネルギー効率が低いため、ランニングコストが高くなる可能性があります。
+Checkatradeによれば、ポータブルまたはウィンドウユニットは短期的な解決策として優れており、賃貸人や、物件に大きな変更を加えることができない指定建造物に住んでいる人にとっても理想的であるという。
+Checkatradeによると、スプリットシステムは部屋を冷却する能力がはるかに優れており、ランニングコストも安価です。また、ポータブルユニットよりも静かですが、多額の初期費用がかかり、専門の業者が設置する必要があります。
+ダクトエアコンは通気口があるため最も目立たないオプションであり、複数の部屋を冷却できます。しかし、古い住宅を改修する場合は、機器を設置するスペースを確保する必要があるため、作業が複雑になる可能性があり、設置コストが増加します。
+エアコンを設置するには計画許可が必要ですか？
+ポータブルユニットには必要ありません。
+政府は、「小規模住宅の場合、建物の外からの外観に重大な影響を与えない場合には、ほとんどの場合」エアコン設置に計画許可は必要ないとしている。
+同報告書は、包括的な規則はないと付け加え、人々は規則を確認するために地方自治体に相談するべきだとし、「議会は常識的なアプローチを取るべきだ」と付け加えた。
+ヒートポンプについてはどうですか?
+空調システムとしても機能するヒートポンプがいくつかありますが、どれでしょうか?これはタイプと、モデルが可逆的かどうかによって異なると述べています。
+「空対空ヒートポンプは、熱の伝達方法を逆にすることで暖房と冷房の両方を提供できるように特別に設計されています。冬には屋外から熱を取り込んで家を温め、夏には屋内から熱を取り除いて涼しくします。」と言う。
+エアコンを使いたくない場合、またはエアコンを買う余裕がない場合、どうやって涼しく保つことができますか?
+冷たい空気を取り込み、空気の流れを促進します。家の反対側の窓を開けて空気の流れを促しますが、これを行うのは外の気温が室内よりも低い場合で、夜間または早朝に行う傾向があります。
+日中暖かい空気を遮断します。日中の暑いときは、窓を閉め、ブラインドやカーテンを閉めておくのが最善です。
+風を良くするには扇風機を使用してください。ファンは比較的安価でエネルギー効率が高く、空気を循環させ、涼しさを保つのに役立ちます。
+水分を補給し、ゆったりとした服を着て、ぬるま湯のシャワーを浴びてください。ぬるま湯のシャワーは体温を下げるのに役立ちます。 NHS は 1 日にグラス 6 ～ 8 杯の水を推奨していますが、暑いときにはさらに多くの水を必要とする場合があります。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c2ey1p0jnmxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-09T10:00:08+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea7d/live/da01c550-7479-11f1-9125-bd35be688627.jpg",
+    readTime: 8,
+  },
+  {
     id: "u-s-iran-trade-fresh-strikes-as-trump-sa-c04ca1d7",
     title: "U.S., Iran trade fresh strikes as Trump says he's 'not sure' he wants deal",
     titleJa: "米国とイラン、新たな攻撃を交わす トランプ大統領、合意を望んでいるかは「分からない」",
