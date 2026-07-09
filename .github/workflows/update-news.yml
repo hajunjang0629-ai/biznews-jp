@@ -1,0 +1,39 @@
+name: Auto Update News
+
+on:
+  schedule:
+    # UTC: 0時・6時・12時・18時（日本時間 9時・15時・21時・3時）
+    - cron: "0 0,6,12,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements-fetch.txt
+
+      - name: Fetch and translate news
+        run: python scripts/fetch-news.py
+
+      - name: Sync site files
+        run: |
+          python scripts/sync-articles.py
+          python scripts/bundle-single.py
+
+      - name: Commit and deploy
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update business news"
+          file_pattern: "data/articles.json docs/index.html web/index.html static/js/data.js biznews.html lib/articles.ts"

@@ -1,6 +1,7 @@
 @echo off
 chcp 65001 >nul
 echo BizNews JP をビルドしています...
+python "%~dp0scripts\sync-articles.py"
 python "%~dp0scripts\bundle-single.py"
 if errorlevel 1 exit /b 1
 echo.
