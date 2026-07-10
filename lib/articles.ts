@@ -15,6 +15,390 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "u-s-to-continue-technical-talks-with-ira-67262c5e",
+    title: "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'",
+    titleJa: "トランプ大統領、停戦は「終わった」と発言後、米国、イランとの「技術協議」継続へ",
+    summaryJa: "ここ数日、両国が空爆を行っているにもかかわらず、米国はイランと「技術協議」に参加し、紛争の解決策を見つけることに引き続き尽力する、とMSナウが木曜、米国当局者の話として報じた。ＭＳナウによると、同当局者は、ドナルド・トランプ大統領が自身の立場を明確にし、イランによる商船への攻撃を「テロ行為」と位置づけたと述べた。",
+    bodyOriginal: `The U.S. will engage in "technical talks" with Iran and remains committed to finding a solution to the conflict, despite the two countries trading airstrikes in recent days, MS Now reported Thursday, citing a U.S. official.
+The official said President Donald Trump had made his position clear and characterized Iran's attacks on commercial vessels as "acts of terrorism," according to MS Now.
+Those comments come after Trump at the NATO summit in Ankara, Turkey, said that the ceasefire with Iran was "over."
+The memorandum of understanding between the two countries is performance-based, and Iran's actions constitute "failed performance at an unacceptable level," the U.S. official told MS Now, adding that talks with Tehran will continue.
+The ceasefire signed last month has come under serious strain in recent days with the U.S. and Iranian forces conducting strikes this week. "I don't want to deal with them [Iran] anymore," Trump said at the NATO summit.
+On his way back from the summit, Trump said that Iran had called to make a deal to cease the escalating hostilities in the Middle East. "They called a little while ago. They want to make a deal so badly. I just don't know if they're worthy of making a deal. I don't know that they're going to honor the deal. That's the problem," he said.
+Iranian officials have accused the U.S. of not honoring the MOU, citing violation of "Iranian adjustments" in the Strait of Hormuz, "persistent threats of further strikes" and reinstating oil sanctions.
+The U.S. military conducted renewed rounds of offensive strikes against Iran in retaliation for three commercial vessels transiting the Strait of Hormuz coming under attack. The U.S. Treasury Department subsequently withdrew a waiver that had allowed Iran to sell its oil.
+Oil prices were marginally lower on Friday in Asia trading, with global benchmark Brent crude futures for September delivery easing to $76.3 per barrel while U.S. West Texas Intermediate crude futures at $71.87.`,
+    bodyJa: `ここ数日、両国が空爆を行っているにもかかわらず、米国はイランと「技術協議」に参加し、紛争の解決策を見つけることに引き続き尽力する、とMSナウが木曜、米国当局者の話として報じた。
+ＭＳナウによると、同当局者は、ドナルド・トランプ大統領が自身の立場を明確にし、イランによる商船への攻撃を「テロ行為」と位置づけたと述べた。
+これらのコメントは、トルコのアンカラで行われたNATO首脳会議でトランプ大統領がイランとの停戦は「終わった」と発言した後に出たものである。
+両国間の覚書は実績ベースであり、イランの行動は「容認できないレベルでの失敗」に相当すると米当局者はMS Nowに語り、テヘランとの協議は継続すると付け加えた。
+先月署名された停戦は、米国軍とイラン軍が今週空爆を実施するなど、ここ数日で深刻な緊張にさらされている。トランプ大統領はNATO首脳会議で「彼ら（イラン）とはもう関わりたくない」と語った。
+トランプ大統領はサミットからの帰り道、イランが中東で激化する敵対行為を停止するための合意を求めたと述べた。同氏は「彼らは少し前に電話してきた。彼らはとても合意を望んでいる。ただ、彼らが合意を結ぶに値するかどうかは分からない。彼らが合意を遵守するかどうかも分からない。それが問題だ」と述べた。
+イラン当局者らは、ホルムズ海峡における「イランの調整」への違反、「更なる攻撃の執拗な脅迫」、石油制裁の復活などを理由に、米国が覚書を遵守していないとして非難している。
+米軍は、ホルムズ海峡を通過中の商船３隻が攻撃を受けた報復として、イランに対する新たな攻撃を実施した。その後、米国財務省はイランによる石油販売を許可していた免除を撤回した。
+金曜日のアジア取引では原油価格が小幅下落し、世界の指標となるブレント原油先物9月渡しは1バレル当たり76.3ドルに下落し、米国ウエスト・テキサス・インターミディエイト原油先物は71.87ドルとなった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+    publishedAt: "2026-07-10T02:51:57+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "chip-giant-sk-hynix-raises-26-5bn-in-meg-864f2579",
+    title: "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+    titleJa: "半導体大手SKハイニックス、米国株の大型売却で265億ドルを調達",
+    summaryJa: "半導体大手SKハイニックス、米国株の大型売却で265億ドルを調達- 公開されました",
+    bodyOriginal: `Chip giant SK Hynix raises $26.5bn in mega US share sale
+- Published
+South Korean computer chip maker SK Hynix has raised $26.5bn (£19.8bn) in its New York share offering, marking the largest ever listing by a foreign firm in the US.
+The company, a key supplier to artificial intelligence (AI) chip giant Nvidia, said on Thursday that it had sold 177.9 million American depositary shares for $149 each. The shares are set to begin trading on Friday on the Nasdaq.
+SK Hynix saw its market value top $1tn in its home country in May, lifted by the boom in demand for AI chips.
+Its share price has more than tripled in South Korea this year, which along with Samsung Electronics has helped boost the benchmark Kospi index by more than 70% over the same period.
+SK Hynix is one of the world's leading memory chip makers. The industry has been given a major boost by the hundreds of billions being spent on AI.
+Shares in rivals Samsung Electronics and Micron have more than doubled in recent months.
+The US listing gives SK Hynix easier access to huge amounts of potential investment from the world's biggest economy, which has fewer barriers than South Korea, said Seoul National University finance professor Jaewon Choi.
+Traders are closely watching the listing as a "yardstick to test the water" for whether investor enthusiasm for memory chip makers will continue, Choi said.
+The AI boom has triggered a rush of companies raising money on the the stock market.
+In June, GrokAI owner SpaceX became the world's biggest ever listing as it raised $85.7bn.
+Meanwhile, AI developers Anthropic and OpenAI are preparing to go public, with valuations of more $1tn.
+Demand for SK Hynix's offering was reportedly over seven times more than the number of shares available, highlighting the strong investor appetite for a key company in the AI supply chain.
+Each American depositary share is equivalent to a tenth of a Seoul-traded common share, SK Hynix said.
+The offering gives US investors a way to buy SK Hynix shares without having to trade via an overseas stock exchange.
+The company has pledged major investments to develop South Korea's chip making and AI capabilities in the coming years.
+The country's government is likely to be counting on SK Hynix's US listing to raise funds that can support the firm's domestic investments, said Hanyang University business professor Yun Youngjin.
+But the Nasdaq listing carries some risks, especially if investors move money towards the US and away from South Korea's stock market, Yun added.
+In June, the country's government unveiled plans for more than $880bn of investments in partnership with SK Hynix and Samsung.
+Both SK Hynix and Samsung have stock market valuations of more that $1tn, joining growing group of firms which includes tech giants Nvidia, Apple, Microsoft and Google-owner Alphabet.`,
+    bodyJa: `半導体大手SKハイニックス、米国株の大型売却で265億ドルを調達
+- 公開されました
+韓国のコンピューターチップメーカーSKハイニックスはニューヨーク株式売り出しで265億ドル（198億ポンド）を調達し、外国企業による米国上場としては史上最大規模となった。
+人工知能（AI）チップ大手エヌビディアへの主要サプライヤーである同社は木曜日、米国預託株式1億7790万株を1株149ドルで売却したと発表した。株式は金曜日にナスダックで取引が開始される予定だ。
+SKハイニックスは、AIチップの需要ブームによって5月に本国での時価総額が1兆ドルを超えた。
+同社の株価は今年韓国で3倍以上に上昇し、サムスン電子とともに同時期に基準となるコスピ指数を70％以上押し上げることに貢献した。
+SK Hynix は世界有数のメモリ チップ メーカーの 1 つです。 AI に数千億ドルが費やされることで、業界は大きな後押しを受けています。
+ライバルのサムスン電子とマイクロンの株価はここ数カ月で２倍以上に上昇した。
+ソウル国立大学のジェウォン・チョイ金融教授は、米国での上場により、SKハイニックスは韓国よりも障壁が少ない世界最大の経済大国からの巨額の潜在的投資へのアクセスが容易になると述べた。
+トレーダーらは、メモリーチップメーカーに対する投資家の熱意が続くかどうかを見極める「見極めの基準」として、今回の上場を注視しているとチョイ氏は語った。
+AIブームをきっかけに、株式市場で資金調達を行う企業が殺到している。
+6月にはGrokAIの所有者であるSpaceXが857億ドルを調達し、史上最大の上場企業となった。
+一方、AI開発者のAnthropicとOpenAIは株式公開の準備を進めており、評価額は1兆ドルを超える。
+伝えられるところによると、SKハイニックスの売り出しに対する需要は入手可能な株式数の7倍以上であり、AIサプライチェーンの主要企業に対する投資家の強い意欲を浮き彫りにしている。
+SKハイニックスによると、米国の預託株式は1株当たりソウルで取引される普通株の10分の1に相当する。
+この提案により、米国の投資家は海外の証券取引所を介して取引することなくSKハイニックスの株を購入する方法が得られる。
+同社は、今後数年間で韓国のチップ製造とAI能力を開発するために大規模な投資を約束している。
+漢陽大学ビジネス教授のユン・ヨンジン氏は、韓国政府はSKハイニックスの国内投資を支援できる資金を調達するために、SKハイニックスの米国上場を期待している可能性が高いと述べた。
+しかし、特に投資家が韓国の株式市場から米国に資金を移した場合、ナスダック上場にはいくつかのリスクが伴うとユン氏は付け加えた。
+6月、同国政府はSKハイニックスとサムスンと提携して8,800億ドルを超える投資計画を発表した。
+SKハイニックスとサムスンはどちらも株式市場評価額が1兆ドルを超えており、ハイテク大手のエヌビディア、アップル、マイクロソフト、グーグル傘下のアルファベットを含む成長企業グループに加わっている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-10T02:48:18+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cb7/live/4865ed80-7c0b-11f1-a0e5-951d7247156a.jpg",
+    readTime: 3,
+  },
+  {
+    id: "sk-hynix-raises-26-5-billion-in-u-s-offe-62bd0449",
+    title: "SK Hynix raises $26.5 billion in U.S. offering. What to know about the stock.",
+    titleJa: "SKハイニックスが米国で265億ドルを調達。株式について知っておくべきこと。",
+    summaryJa: "米国の投資家は、メモリチップの激戦市場に参入する別の簡単な方法を手に入れようとしている。",
+    bodyOriginal: `U.S. investors are about to get another straightforward way to play the red-hot market for memory chips.`,
+    bodyJa: `米国の投資家は、メモリチップの激戦市場に参入する別の簡単な方法を手に入れようとしている。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/sk-hynix-is-about-to-hit-the-u-s-market-heres-what-to-know-about-the-deal-1c873fa4?mod=mw_rss_topstories",
+    publishedAt: "2026-07-10T02:38:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-18931762",
+    readTime: 2,
+  },
+  {
+    id: "inside-nato-s-extraordinary-48-hours-tha-4c388d23",
+    title: "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
+    titleJa: "世界外交に対するトランプ大統領の支配力を明らかにしたNATOの異例の48時間の内部",
+    summaryJa: "トルコのアンカラでは48時間、あたかも世界がドナルド・トランプの予定通りに動いているかのように感じられた。市場は急騰した。 NATO同盟国は対立に備えている。ウクライナは安心感を求めた。イランは議題をひっくり返すと脅した。ある瞬間、指導者たちは外交危機に備えていた。次に、同盟関係がこれまで以上に分裂するのではないかと多くの人が懸念していた大統領との「ラブイン」について説明していた。",
+    bodyOriginal: `For 48 hours in Ankara, Turkey, it felt as though the world was moving on Donald Trump's timetable.
+Markets lurched. NATO allies braced for confrontation. Ukraine searched for reassurance. Iran threatened to upend the agenda. One moment, leaders were preparing for diplomatic crisis; the next, they were describing a "love-in" with the very president many had feared would leave the alliance more divided than ever.
+I've covered hundreds of major international events over my 25 years at CNBC — G7, G8 and G20 summits, OPEC meetings, climate conferences and multiple trips to Ukraine. But I've never witnessed such dramatic reversals of fortune, affecting so many global players, compressed into just 48 hours.
+The NATO Summit wasn't simply another diplomatic gathering. It became a real-time demonstration of how quickly the geopolitical landscape can shift when President Trump is at the center of it.
+While major summits involving the U.S. inevitably revolve around Washington, this one felt different. It revolved not just around one country, but also around one individual.
+Think about everything that was in play. Iran. Russia's war in Ukraine. Greenland. European security. Spain's refusal to meet NATO's military spending targets. President Volodymyr Zelenskyy's uncertain standing with Washington. Every major issue seemed to converge on one summit — and every one of them ultimately revolved around the U.S. president.
+To recount, every European NATO member — plus Canada — was effectively on trial coming into this gathering. Trump and Defense Secretary Pete Hegseth had again been aggressively criticizing NATO for its lack of support over Iran and for failing to spend anywhere near enough money on its own security.
+In addition, the president took aim at Denmark yet again over its refusal to hand over Greenland for the greater good — whose greater good being a mildly contentious point — and, of course, Spain was getting both barrels for being even worse than the other 30 NATO partners in its military spending.
+Zelenskyy was in town, once again to drum up NATO support. And let's be honest, he never really knows what kind of reception he's going to get from the Leader of the Free World.
+Then came the absolute bombshell from Mr. Trump that he was done with dealing with the Iranians, done with the memorandum of understanding and the ceasefire. Markets went south and oil went north.
+At that point, the summit appeared to be heading toward confrontation.
+And yet, then the optics changed on a dime. The mood changed just like that, and suddenly love was in the air.
+Even before the big final Trump press conference, world leaders were telling me in quiet asides that the meeting with Trump had gone brilliantly, that he had been very happy, that he had listened — actually listened — to every leader in the big closed-door confab and had left in a good mood.
+Hang on, was this the same Donald Trump who had been berating partners only hours earlier?
+Yes, apparently so.
+I wasn't so sure, but I heard it myself from the horse's mouth only hours later when, in front of a thousand journalists at his summit-closing press conference, the U.S. president confirmed the love-in was real.
+Standing alongside Secretary of State Marco Rubio, Treasury Secretary Scott Bessent, Hegseth and Deputy Chief of Staff Stephen Miller, the president spoke of the "tremendous love in the room" during the leaders' meeting. "The unity was amazing," he said. "The love was pretty wild."
+It was a remarkable turnaround from the public criticism Trump had directed at many of those same allies only hours earlier.
+The summit produced some clear winners and losers. Turkish President Recep Tayyip Erdoğan emerged stronger after hosting a smooth summit and appeared to move closer to securing U.S. approval for F-35 fighter jets.
+Mark Rutte, the NATO secretary general, kept up the praise for Trump and, in doing so, helped keep the U.S. engaged with NATO, at least for now. Spain and Denmark, despite early assaults, came away without any major rebuke from the U.S. in Trump's closing press conference.
+Another big winner must be Zelenskyy, who appears to have risen in the U.S. president's estimation as Ukraine has stabilized the battlefield and taken the fight deep into Russia despite the odds. The Ukrainian leader may even have secured a deal to produce Patriot missile systems — something Kyiv has long viewed as a priority.
+Losers? Well, clearly Putin would have been unhappy with both the show of unity from NATO, its huge progress on defense spending and Ukraine's warmer reception from Trump.
+And Iran? Well, that remains the big unknown.
+I asked the U.S. president directly when I got the chance to fire a question at him: "What happens next if you really have given up on the ceasefire?"
+His answer, I'm afraid, was opaque. He simply returned to the point that Iran would never have a nuclear weapon on his watch.
+And perhaps that's the lasting takeaway from these extraordinary 48 hours.
+The atmosphere inside NATO changed dramatically over the course of the summit, but the biggest questions remain unanswered. What happens next with Iran? Can the improved mood between Trump and NATO allies last beyond this meeting? And what does it ultimately mean for Ukraine?
+Those questions matter far more than the political theater. But if this summit demonstrated anything, it is how quickly the geopolitical landscape can shift when Donald Trump is at the center of it. Allies, adversaries and markets alike are learning to adjust in real time.`,
+    bodyJa: `トルコのアンカラでは48時間、あたかも世界がドナルド・トランプの予定通りに動いているかのように感じられた。
+市場は急騰した。 NATO同盟国は対立に備えている。ウクライナは安心感を求めた。イランは議題をひっくり返すと脅した。ある瞬間、指導者たちは外交危機に備えていた。次に、同盟関係がこれまで以上に分裂するのではないかと多くの人が懸念していた大統領との「ラブイン」について説明していた。
+私はCNBCでの25年間にわたり、G7、G8、G20サミット、OPEC会議、気候会議、ウクライナへの複数回の訪問など、何百もの主要な国際イベントを取材してきました。しかし、これほど劇的な運命の逆転が、わずか 48 時間に圧縮されて、これほど多くの世界的プレーヤーに影響を与えるのを私は見たことがありません。
+NATO首脳会議は単なる外交集会ではなかった。これは、トランプ大統領が地政学的な状況の中心にいるときに、地政学的な状況がいかに急速に変化するかをリアルタイムで実証するものとなった。
+米国が関与する主要な首脳会談は必然的にワシントンを中心に展開するが、今回は違うと感じた。それは 1 つの国だけでなく、1 人の個人を中心に展開していました。
+プレー中に起こったことすべてを考えてください。イラン。ロシアによるウクライナ戦争。グリーンランド。ヨーロッパの安全保障。スペインはNATOの軍事支出目標の達成を拒否した。ウォロディミル・ゼレンスキー大統領のワシントンに対する不確実な立場。すべての主要な問題は 1 つの首脳会談に収束するかのように見えましたが、最終的にはそのどれもが米国大統領を中心に展開しました。
+もう一度言いますと、ヨーロッパのすべての NATO 加盟国、さらにカナダもこの集会に参加した事実上の裁判を受けていました。トランプ大統領とピート・ヘグセス国防長官は、NATOがイランに対する支援を欠如し、自国の安全保障に十分な資金をほとんど投じていないとして、再び激しく批判していた。
+さらに、大統領は、より大きな利益のためにグリーンランドの引き渡しを拒否したデンマークを再び非難した。そのより大きな利益は、やや議論の余地のある点であるが。そしてもちろん、スペインは軍事支出において他のNATO加盟国30カ国よりもさらに悪いということで、両方の非難を浴びていた。
+ゼレンスキー氏は再びNATO支援を強化するために街にいた。そして正直に言うと、彼は自由世界の指導者からどのような歓迎を受けるか全く分かりません。
+その後、トランプ氏から、覚書と停戦でイランとの付き合いは終わったという、まったくの爆弾発言があった。市場は南へ、石油は北へ向かいました。
+この時点で首脳会談は対立に向かっているように見えた。
+それでも、光学系は劇的に変化しました。それだけで雰囲気が変わり、突然恋の空気が漂ってきました。
+最後のトランプの大規模な記者会見の前でさえ、世界の指導者たちは、トランプとの会談は見事に終わった、彼はとても幸せだった、大規模な密室会議ですべての指導者の言うことに耳を傾け、実際に耳を傾け、上機嫌で帰っていった、と私に静かに話していた。
+ちょっと待って、これはほんの数時間前にパートナーを非難していたドナルド・トランプ氏だったのか？
+はい、どうやらそうです。
+私にはあまり確信がありませんでしたが、わずか数時間後、首脳会談閉会記者会見で1000人のジャーナリストの前で、米国大統領がラブインが本物であることを認めたとき、馬の口からそれを自分で聞きました。
+マルコ・ルビオ国務長官、スコット・ベッセント財務長官、ヘグセス氏、スティーブン・ミラー首席補佐官らと並んで立った大統領は、首脳会談中に「室内の計り知れない愛」について語った。 「団結力は素晴らしかった」と彼は語った。 「その愛はかなりワイルドだった。」
+これは、ほんの数時間前にトランプ大統領が同じ同盟国の多くに向けていた国民の批判からの驚くべき転換だった。
+このサミットでは、明らかな勝者と敗者が明らかになった。トルコのレジェップ・タイイップ・エルドアン大統領は、首脳会談を円滑に主催した後さらに勢いを増し、F-35戦闘機に対する米国の承認獲得に近づくように見えた。
+NATO事務総長のマーク・ルッテ氏はトランプ氏を称賛し続け、そうすることで少なくとも現時点では米国がNATOと関わり続けることに貢献した。スペインとデンマークは、序盤の攻撃にも関わらず、トランプ大統領の閉会記者会見で米国からの大きな叱責も受けずに済んだ。
+もう一人の大きな勝者はゼレンスキー氏に違いない。ウクライナが不利な状況にもかかわらず戦場を安定させ、ロシアの奥深くまで戦いを持ち込んだことで、米国大統領の評価が上がったようだ。ウクライナの指導者は、キエフが長い間優先事項として考えていたパトリオット・ミサイル・システムを製造する契約さえ獲得した可能性がある。
+敗者？まあ、明らかにプーチン大統領は、NATOの団結の誇示、国防費の大幅な進展、そしてウクライナのトランプからの温かい歓迎の両方に不満を抱いていただろう。
+そしてイランは？まあ、それは大きな未知のままです。
+私はアメリカ大統領に質問する機会を得たとき、「もし本当に停戦を諦めたら、次に何が起こるのか？」と直接尋ねた。
+残念ですが、彼の答えは不透明でした。彼は単に、イランが核兵器を監視することは決してないだろうという点に戻っただけだ。
+そしておそらくそれが、この並外れた 48 時間から得られる永続的な収穫です。
+NATO内部の雰囲気は首脳会談の過程で劇的に変化したが、最大の疑問は未解決のままだ。イランとの今後はどうなるでしょうか？トランプ大統領とNATO同盟国との間の改善されたムードは今回の会談以降も続くだろうか？そして、それはウクライナにとって最終的に何を意味するのでしょうか？
+こうした疑問は、政治劇よりもはるかに重要だ。しかし、今回の首脳会談が何かを示したとすれば、それは、ドナルド・トランプ氏が地政学的状況の中心にいるときに、地政学的な状況がどれだけ早く変化し得るかということだ。同盟国、敵対者、市場は同様にリアルタイムで調整することを学んでいます。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
+    publishedAt: "2026-07-09T23:00:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "pressure-builds-on-europe-s-biggest-port-860c5a02",
+    title: "Pressure builds on Europe's biggest port to be greener",
+    titleJa: "ヨーロッパ最大の港をより環境に優しいものにするよう圧力が高まる",
+    summaryJa: "ヨーロッパ最大の港をより環境に優しいものにするよう圧力が高まる- 公開されました",
+    bodyOriginal: `Pressure builds on Europe's biggest port to be greener
+- Published
+Standing on a grassy verge in the Hook of Holland, I'm overlooking the Port of Rotterdam.
+At the delta of the Rhine and Meuse in the Netherlands, on land largely reclaimed from the North Sea, it's the biggest port for freight, external in Europe.
+By some measures, Rotterdam alone handles almost as much cargo as all UK ports combined.
+The horizon is dominated by cranes, bulk carriers and container stacks – the visible parts of a vast energy and chemicals hub.
+Five refineries, including Shell's largest in Europe, process hundreds of thousands of barrels of crude oil a day, while a tight cluster of chemical plants feeds factories across the continent.
+According to research by CE Delft, the fossil fuels flowing through the port are ultimately linked to around 600 megatonnes of CO2 a year – many times more than the CO2 output of the Netherlands' biggest airport, Schiphol.
+That scale has made Rotterdam a test case for a difficult question: can a port built on fossil fuels ever truly become green?
+Pressure is building on the port to do something.
+A lawsuit brought by environmental group Advocates for the Future argues that the Port of Rotterdam Authority is not doing enough to phase out fossil-based energy, and wants a concrete plan to wind down the coal, oil and gas flows whose emissions dwarf those of most countries.
+Rotterdam's own industrial cluster currently emits about 29 million tonnes of CO2 a year – roughly half of the Netherlands' domestic emissions, says Mark van Dijk, head of external relations at the Port of Rotterdam Authority.
+That's the equivalent of tens of thousands of return flights from Amsterdam to Los Angeles. "It's not good," admits van Dijk.
+The Port Authority has a plan to cut the emissions of its own activities and encourage businesses on the site to be greener.
+It has set targets to cut its own direct and purchased energy emissions by 90% between 2019 and 2030.
+The plan includes developing a hydrogen hub where companies can test new fuels, investing in onshore power so ships can plug into the grid instead of burning fuel at berth, and supporting bunkering of alternatives such as LNG, biofuels and methanol.
+There is also an effort to mitigate CO2 emissions.
+"In the short term we're focusing on CCS [Carbon Capture and Storage] – capturing CO2 and storing it in depleted gas fields," van Dijk says, referring to the Porthos project that will pipe industrial emissions offshore.
+Buffeted by the wind, Advocates for the Future director Maikel van Wissen argues that a port of this scale shouldn't just be managing the flow of fossil fuels. Instead, he argues, it has a responsibility to use its clout to speed up the shift to cleaner operations.
+"A state-owned enterprise should take legal obligations on states to reduce emissions," Van Wissen says.
+"We are asking in the lawsuit to phase out that dependency, to create alternatives. It takes time, but if you don't have a plan, you always choose cheap short-term solutions. This is an important hub, if you do it in a controlled way, you offer an alternative, that will stop industry from moving elsewhere."
+The port says it is making efforts to shift its business model.
+"We try to work together with the polluters, and slowly phase them out," says Oscar van Veen, director of innovation at the Port of Rotterdam, speaking on a small boat in the harbour. He pauses, then corrects himself: "As fast as possible, of course."
+But many of the biggest emitters in the port answer to headquarters in the US or China.
+Their loyalty lies with boardrooms abroad. If the rules in Rotterdam become too tight, they can simply move – as Shell shifted its headquarters to the UK and Unilever left Rotterdam altogether.
+"The Port of Rotterdam is a key player in this sustainable transition but their sphere of influence is limited," says Bettina Kampman, from environmental consultancy CE Delft, which works for governments, companies and NGOs.
+Even transitioning their own activities to lower emissions comes with challenges.
+"New developments need physical space. They can speed up the energy infrastructure developments - the electricity needed to electrify the processes. That's all limited at the moment due to the lack of power cables," Kampman says.
+Emeritus professor Harry Geerlings, of Erasmus University Rotterdam, has spent more than three decades studying sustainable transport and ports.
+He is sceptical that any single port authority can drive a full transition on its own. What is needed, he says, is a global level playing field – the kind of framework provided in Europe by the Emissions Trading System and past rules on sulphur in marine fuels.
+He points out how EU sulphur limits changed behaviour: ships calling at European ports had to switch to cleaner fuels or fit scrubbers to reduce pollution.
+China initially resisted, he says, but when its ships could no longer enter US and European ports without complying, it followed suit. "If you have the right incentives, you change the behaviour of these companies."
+But there are limits to what regional rules can do. Many ships now sail with dual fuel set ups, burning cleaner, low-sulphur fuel as they enter European waters, then flipping back to cheaper, high sulphur heavy fuel oil once they are out on the high seas.
+Geerlings believes Rotterdam's port authority genuinely wants to change and is building the infrastructure for a smoother transition.
+"But their biggest income is still tied to fossil fuel industries," he notes. "It's not simply a switch you turn on or off. A port needs activity as a logistics node – otherwise it's no longer a port. It's a real dilemma."
+The geopolitics are not always helpful. Across the Atlantic, US President Donald Trump has cast doubt on climate policy and railed against wind power, while offering incentives that favour fossil fuels over renewables.
+That contrast sharpens Rotterdam's concern about losing energy intensive industry to regions with looser rules and cheaper power.
+Advocates for the Future argues that as a publicly owned company, the Port of Rotterdam Authority should be held to a higher standard.
+It wants a detailed phase-out plan for fossil activities, not just a long-term promise of climate neutrality by 2050. "We are not asking for anything extraordinary," says director Maikel van Wissen. "We're asking for a plan that really contributes to a sustainable future for the port."
+"We do want the same thing," insists Van Dijk. Sharing an electric taxi back towards the city, a 45-minute drive from the edge of the sprawling port. He stresses that Rotterdam and its critics are, on paper at least, heading for the same destination: net zero around mid century. The disagreement is over how fast, and how radically, to change.
+More Technology of Business
+- Published12 June
+- Published26 June
+- Published5 June`,
+    bodyJa: `ヨーロッパ最大の港をより環境に優しいものにするよう圧力が高まる
+- 公開されました
+オランダのフックの草が茂った端に立って、私はロッテルダム港を見下ろしています。
+オランダのライン川とムーズ川のデルタ地帯にあり、大部分が北海から埋め立てられた土地にあり、ヨーロッパ国外最大の貨物港です。
+見方によっては、ロッテルダムだけでも英国のすべての港を合わせた量とほぼ同じ量の貨物を扱っています。
+地平線上には、クレーン、ばら積み貨物船、コンテナの積み重ねが占めており、これらは広大なエネルギーと化学の拠点の目に見える部分です。
+シェルの欧州最大の製油所を含む 5 つの製油所が 1 日あたり数十万バレルの原油を処理し、化学工場が密集して大陸中の工場に供給されています。
+CE デルフトの調査によると、港を流れる化石燃料は最終的に年間約 600 メガトンの CO2 を排出しており、これはオランダ最大のスキポール空港の CO2 排出量の何倍にもなります。
+この規模により、ロッテルダムは、化石燃料で建設された港は本当に環境に優しいものになることができるのかという難しい質問に対するテストケースとなっています。
+港湾には何かをするよう圧力が高まっている。
+環境保護団体「未来のためのアドボケート」が起こした訴訟では、ロッテルダム港湾管理局は化石燃料エネルギーの段階的廃止に十分な努力をしていないと主張し、ほとんどの国に比べて排出量が少ない石炭、石油、ガスの排出量を削減するための具体的な計画を求めている。
+ロッテルダム港湾公社の対外関係責任者、マーク・ファン・ダイク氏によると、ロッテルダム自身の産業クラスターは現在、年間約2,900万トンのCO2を排出しているが、これはオランダ国内の排出量の約半分に相当するという。
+これはアムステルダムからロサンゼルスまでの往復航空券数万便に相当します。 「それは良くない」とファン・ダイクは認める。
+港湾局は、自らの活動による排出量を削減し、敷地内での企業の環境への配慮を奨励する計画を立てています。
+同社は2019年から2030年までに自社の直接および購入したエネルギー排出量を90％削減するという目標を設定している。
+この計画には、企業が新しい燃料をテストできる水素ハブの開発、船舶が停泊時に燃料を燃やす代わりに送電網に接続できるように陸上電力に投資すること、LNG、バイオ燃料、メタノールなどの代替燃料の補給をサポートすることが含まれている。
+CO2排出量を削減する取り組みも行われています。
+「短期的には、CO2を回収して枯渇したガス田に貯蔵するCCS（炭素回収・貯蔵）に注力している」とファン・ダイク氏は産業排出物を海洋にパイプするポルトス・プロジェクトについて言及した。
+風を受けながらも、「未来のための権利擁護団体」のディレクター、マイケル・ファン・ウィッセン氏は、この規模の港は化石燃料の流れを管理するだけではいけないと主張する。むしろ、その影響力を利用してよりクリーンな運営への移行を加速する責任がある、と同氏は主張する。
+「国有企業は州に対して排出量を削減する法的義務を負うべきだ」とヴァン・ウィッセン氏は言う。
+「私たちは訴訟でその依存関係を段階的に廃止し、代替案を作成するよう求めています。時間はかかりますが、計画がなければ、常に安価な短期的な解決策を選択します。これは重要な拠点です。管理された方法で実行すれば、代替案を提供することになり、業界が他の場所に移動するのを阻止することになります。」
+同港はビジネスモデルの転換に取り組んでいるとしている。
+「私たちは汚染者と協力し、徐々に汚染者を排除しようと努めています」とロッテルダム港のイノベーション担当ディレクター、オスカー・ヴァン・フェーン氏は港の小型ボート上で語った。彼は立ち止まり、「もちろんできるだけ早く」と訂正した。
+しかし、港湾の最大排出者の多くは米国または中国の本社に回答している。
+彼らの忠誠心は海外の役員室にあります。シェルが本社を英国に移転し、ユニリーバがロッテルダムを完全に撤退したため、ロッテルダムの規則が厳しくなりすぎた場合は、移転するだけで済みます。
+「ロッテルダム港はこの持続可能な移行において重要な役割を果たしていますが、その影響範囲は限られています」と政府、企業、NGOのために活動する環境コンサルタント会社CEデルフトのベッティーナ・カンプマン氏は言う。
+自らの活動を排出量削減に移行するにも課題が伴います。
+「新たな開発には物理的なスペースが必要です。エネルギーインフラの開発、つまりプロセスを電動化するために必要な電力の開発をスピードアップすることができます。電力ケーブルが不足しているため、現時点ではそれがすべて制限されています」とカンプマン氏は言う。
+エラスムス大学ロッテルダム名誉教授ハリー・ギアリングス氏は、30年以上にわたって持続可能な交通と港湾の研究に取り組んできた。
+同氏は、単一の港湾局が単独で完全な移行を推進できるかどうかについては懐疑的である。必要なのは、世界的に平等な競争の場、つまり排出権取引制度や海洋燃料中の硫黄に関する過去の規則によってヨーロッパで提供されているような枠組みだ、と同氏は言う。
+同氏は、EUの硫黄制限によって行動がどのように変化したかを指摘し、ヨーロッパの港に寄港する船舶は、汚染を軽減するためによりクリーンな燃料に切り替えるか、スクラバーを装着する必要があった。
+同氏によると、中国は当初は抵抗したが、中国の船舶が従わなければ米国や欧州の港に入港できなくなると、それに従ったという。 「適切なインセンティブがあれば、これらの企業の行動を変えることができます。」
+しかし、地域のルールにできることには限界があります。現在、多くの船は二重燃料設定で航行しており、ヨーロッパの海域に入る際にはよりクリーンで低硫黄の燃料を燃焼させ、公海上に出るとより安価な高硫黄の重油に切り替えています。
+ギアリングス氏は、ロッテルダムの港湾局が本気で変化を望んでおり、よりスムーズな移行のためのインフラを構築していると信じている。
+「しかし、彼らの最大の収入は依然として化石燃料産業に依存している」と彼は指摘する。 「それは単にスイッチをオンまたはオフにするものではありません。港には物流ノードとしての活動が必要です。そうでなければ、港はもはや港ではありません。これは本当のジレンマです。」
+地政学は必ずしも役に立つとは限りません。大西洋の向こうでは、ドナルド・トランプ米大統領が気候変動政策に疑問を投げかけ、風力発電を激しく非難する一方で、再生可能エネルギーよりも化石燃料を優遇する奨励金を提示している。
+このコントラストは、ルールが緩く電力料金が安い地域にエネルギー集約型産業が奪われるのではないかというロッテルダムの懸念をさらに強めている。
+Advocates for the Futureは、上場企業としてロッテルダム港管理局はより高い基準を遵守すべきだと主張している。
+同政府は、2050年までに気候中立性を保つという長期的な約束だけでなく、化石活動の詳細な段階的廃止計画を求めている。「我々は特別なことを求めているわけではない」とディレクターのマイケル・ファン・ウィッセン氏は言う。 「私たちは港の持続可能な未来に真に貢献する計画を求めています。」
+「私たちも同じことを望んでいます」とファン・ダイクは主張する。電気タクシーに乗って、広大な港の端から車で 45 分の市内に戻ります。同氏は、ロッテルダムとその批判者たちは、少なくとも建前上は同じ目的地、つまり今世紀半ば頃にネットゼロを目指していると強調する。意見の相違は、どれだけ早く、どれだけ根本的に変化するかという点にある。
+ビジネスのさらなるテクノロジー
+- 6 月 12 日発行
+- 6 月 26 日発行
+- 6 月 5 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-09T23:00:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c82f/live/34e11c20-7397-11f1-b1db-af71d47507d6.jpg",
+    readTime: 8,
+  },
+  {
+    id: "we-saved-6-000-on-holidays-by-swapping-h-c1c018dc",
+    title: "We saved £6,000 on holidays by swapping homes with strangers",
+    titleJa: "休日に見知らぬ人と家を交換して6,000ポンドを節約しました",
+    summaryJa: "休日に見知らぬ人と家を交換して6,000ポンドを節約しました- 公開されました",
+    bodyOriginal: `We saved £6,000 on holidays by swapping homes with strangers
+- Published
+Would you swap homes with a stranger in exchange for a cheaper holiday? Or would the idea of someone sleeping in your bed and using your kitchen while you were away put you off?
+Henry Vanderpump, 42, his wife Elliw, 39, and their two young children have had two home exchange holidays in the past two years and have another planned this summer.
+In each case, they have stayed in another family's home, while that family stays in theirs, a five-bedroom house in Tarporley, rural Cheshire.
+Neither side pays anything for their accommodation, although they do pay an annual membership fee to Home Link, the listings site they use to book the trips.
+So far, the Vanderpumps have stayed in similarly sized properties in Hamburg and Copenhagen, and Henry says they have saved around £2,500 on accommodation per trip, plus a further £700 on transport, as they also swapped cars.
+"We used to have one holiday a summer, now we have two [because of the savings we make from home exchanges]. And the kids love the idea of living in someone else's house while that person is living in theirs."
+Home exchanges have been around since at least the 1950s, but an increasing number of people seem to be embracing them because of the rising cost of living, or simply to experience a new type of travel, commentators say.
+'We lived like a German family'
+Henry says the best thing about swapping homes isn't the savings but getting to visit places off the tourist trail and have a "really authentic experience".
+When the family visited Hamburg in 2024, they stayed in a suburb and lived "like a German family" for a week, exploring lakes on the edge of the city recommended by their hosts.
+Last year, they stayed in "a very Scandinavian house" in suburban Copenhagen, which was "all on one level and had no clutter".
+"They also left us several electric bikes to use," Henry says. "We cycled to the beach, swam in the Baltic and tried restaurants they recommended."
+Some people are not comfortable with the idea of strangers staying in their home, and for those who are, there's a lot of preparation and tidying to do before their guests arrive.
+Home swappers may also have to be more flexible about when they travel - Home Link says members typically send 10-15 messages before getting an offer.
+"Last minute bookings won't always work," says May Burrough, 38, a chief operating officer from London who has done 34 home swaps over the last three years using HomeExchange.
+Rather than doing direct exchanges, she hosts people in her central London flat while she's overseas staying with her partner in France.
+This way, May builds up points on the platform she can use to book trips at other times.
+How to home swap successfully
+If you are putting your home on a booking platform, make the listing clear, with plenty of information and appealing photos
+Keep in contact before and during the exchange to build trust and avoid misunderstandings
+Declutter and make space in wardrobes, drawers and cupboards your guests will use
+Leave a comprehensive guide for guests, covering things like appliance instructions, rubbish collection and emergency information
+Share local recommendations to help them get the most out of their stay
+Lock away items of value to avoid them being damaged
+Check that your home insurance policy provides the cover you need
+Sources: Home Link, HomeExchange, the Association of British Insurers
+May reckons she has saved about £5,000-£8,000 through swaps in places like Barcelona and the Swiss Alps.
+She loves the "community feel" of home exchanges and says she's only ever had one "semi-negative experience" when a booking she thought was for a whole flat turned out to be a room in a flat share.
+As for preparation before guests arrive, she says she tries to make sure her flat is clean and clears some space in her wardrobe. "I provide clean sheets and towels. I lock away valuables."
+The main home-swap listings platforms vet their members and invite them to review one another.
+But the Association of British Insurers advises hosts to check that their home and contents insurance provides the cover they need before hosting guests.
+It also says it is worth checking your travel insurance before staying in someone else's home to check it covers accidental damage.
+Petra Novak, who uses the home swap site Kindred, says the platform's own damage protection policy has covered her on the few occasions something was damaged in her London flat.
+The 34-year-old, who uses the platform as she works remotely around Europe, says she has saved some £18,000-£20,000 through home exchanges.
+She says she was nervous about swapping homes with strangers at first but has never had a bad experience.
+However, for added peace of mind, she likes to check out the social media profiles of prospective guests, adding that a personal touch can help build trust before an exchange.
+"I personally like when someone submits their booking request along with a nice introduction letter, telling me about themselves and the reason why they would be visiting London."`,
+    bodyJa: `休日に見知らぬ人と家を交換して6,000ポンドを節約しました
+- 公開されました
+より安価な休暇と引き換えに、見知らぬ人と家を交換しますか?それとも、あなたがいない間に誰かがあなたのベッドで寝ていてキッチンを使うと思うと嫌になりますか?
+ヘンリー・ヴァンダーポンプさん（42歳）と妻のエリーさん（39歳）、そして二人の幼い子供たちは、過去2年間に2回自宅交換休暇を過ごしており、この夏にはもう一つの休暇を計画している。
+いずれの場合も、彼らは別の家族の家に滞在し、その家族はチェシャーの田舎、ターポーリーにある寝室が5つある自分たちの家に滞在している。
+どちらも宿泊費は一切支払わないが、旅行の予約に利用する物件情報サイト「ホームリンク」には年会費を支払っている。
+これまでヴァンダーポンプ一家はハンブルクとコペンハーゲンにある同様の広さの物件に滞在しており、ヘンリーさんによると、旅行ごとに宿泊費が約2,500ポンド、さらに車も交換したため、交通費がさらに700ポンド節約できたという。
+「以前は夏に1回の休暇がありましたが、今は（住宅交換で得た節約のおかげで）2回あります。そして、子供たちは、その人が自分の家に住んでいる間、他の人の家に住むというアイデアが大好きです。」
+コメンテーターらによると、ホームエクスチェンジは少なくとも1950年代から存在しているが、生活費の上昇を理由に、あるいは単に新しいタイプの旅行を体験するためにこれを受け入れる人が増えているようだという。
+「私たちはドイツ人の家族のように暮らしました」
+ヘンリーさんは、家を交換する一番の利点は節約ではなく、観光コースから外れた場所を訪れて「本当に本物の体験」ができることだと語った。
+2024年に家族がハンブルクを訪れたとき、家族は郊外に滞在し、ホストの勧めで市外れの湖を探索しながら「ドイツ人の家族のように」1週間暮らした。
+昨年、夫妻はコペンハーゲン郊外にある「まさにスカンジナビア風の家」に滞在したが、そこは「すべてが同じ階にあり、散らかったものは何もなかった」という。
+「彼らはまた、私たちに使用できる電動自転車を数台残してくれました」とヘンリーは言います。 「私たちは自転車でビーチに行き、バルト海で泳ぎ、彼らが勧めてくれたレストランを試しました。」
+見知らぬ人が家に泊まるという考えに抵抗を感じる人もいます。そのような人にとっては、ゲストが到着する前にたくさんの準備や片付けをしなければなりません。
+ホーム交換者は旅行の時期についてもより柔軟になる必要があるかもしれない - Home Link によると、メンバーはオファーを得る前に通常 10 ～ 15 件のメッセージを送信するという。
+「直前の予約が常にうまくいくとは限りません」と、HomeExchange を使用して過去 3 年間で 34 件の住宅交換を行ったロンドン在住の最高執行責任者、メイ バロー氏 (38 歳) は言います。
+彼女は、フランスにいるパートナーと一緒に海外に滞在している間、直接的な交流を行うのではなく、ロンドン中心部のアパートで人々を受け入れています。
+このようにして、メイさんはプラットフォーム上にポイントを貯め、別の機会に旅行を予約するために使用できます。
+ホームスワップを成功させる方法
+自宅を予約プラットフォームに掲載する場合は、豊富な情報と魅力的な写真を掲載し、明確なリストを作成してください。
+信頼を築き、誤解を避けるために、交換前および交換中に連絡を取り続けます。
+ゲストが使用するワードローブ、引き出し、食器棚を整理してスペースを作ります
+家電製品の説明書、ゴミの収集、緊急情報などを網羅した包括的なガイドをゲスト向けに残してください。
+滞在を最大限に楽しむために地元のおすすめ情報を共有する
+貴重品は破損しないように鍵をかけて保管してください
+住宅保険契約が必要な補償を提供しているかどうかを確認してください
+出典: Home Link、HomeExchange、英国保険会社協会
+メイさんは、バルセロナやスイスアルプスなどでの交換を通じて、約5000ポンドから8000ポンドを節約したと考えている。
+彼女はホームエクスチェンジの「コミュニティ感」が大好きで、アパート全体を予約すると思っていたのにアパートシェアの一室だったことが判明したときの「半否定的な経験」は一度だけだという。
+ゲストが到着する前の準備に関しては、アパートを清潔にし、ワードローブにスペースを空けるように努めていると彼女は言います。 「清潔なシーツとタオルを提供します。貴重品は鍵をかけて保管します。」
+主要な住宅交換物件プラットフォームは会員を精査し、相互にレビューするよう招待しています。
+しかし、英国保険協会はホストに対し、ゲストを迎える前に、住宅保険や生活物品保険が必要な補償を提供しているかどうかを確認するようアドバイスしている。
+また、他人の家に滞在する前に、旅行保険が偶発的な損害をカバーしているかどうかを確認する価値があるとも述べています。
+住宅交換サイト「Kindred」を利用しているペトラ・ノバクさんは、ロンドンのアパートで何かが破損したことは数回あったが、プラットフォーム独自の損害補償ポリシーでカバーされていると語った。
+ヨーロッパ各地でリモートで仕事をする際にこのプラットフォームを利用している34歳の彼女は、ホームエクスチェンジを通じて約1万8000ポンドから2万ポンドを節約したと語る。
+最初は見知らぬ人と家を交換することに緊張したが、悪い経験は一度もなかったと彼女は言う。
+しかし、さらに安心感を与えるために、彼女は見込み客のソーシャルメディアのプロフィールをチェックするのが好きで、交流の前に個人的なタッチをすることで信頼を築くことができると付け加えました。
+「個人的には、誰かが自分自身のことやロンドンを訪れる理由を伝える素敵な紹介状と一緒に予約リクエストを提出するのが好きです。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-09T23:00:38+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/74796a60-7b6a-11f1-936a-038dbfe02d14.jpg",
+    readTime: 6,
+  },
+  {
+    id: "taco-bell-is-reportedly-pulling-produce-9f9b2ad6",
+    title: "Taco Bell is reportedly pulling produce from some stores. Here’s what to know.",
+    titleJa: "タコベルは一部の店舗から農産物を撤去していると伝えられている。ここで知っておくべきことは次のとおりです。",
+    summaryJa: "ミシガン州では、寄生虫が原因の病気が発生し、1,000人以上が罹患している。",
+    bodyOriginal: `An outbreak of a parasite-caused illness has sickened more than 1,000 people in Michigan.`,
+    bodyJa: `ミシガン州では、寄生虫が原因の病気が発生し、1,000人以上が罹患している。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/taco-bell-is-reportedly-pulling-produce-from-some-stores-heres-what-to-know-a3569cd8?mod=mw_rss_topstories",
+    publishedAt: "2026-07-09T22:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-879242",
+    readTime: 2,
+  },
+  {
+    id: "why-a-hidden-divergence-between-the-vix-44cc4028",
+    title: "Why a hidden divergence between the VIX and Nasdaq volatility has the smart money on edge",
+    titleJa: "VIX とナスダックのボラティリティの間に隠れた乖離があり、賢いマネーが危機に瀕している理由",
+    summaryJa: "トレーダーは強気市場に完全に魅了されていますが、ナスダックのボラティリティの急上昇は、ヘッジの時期が来たことを示唆しています。",
+    bodyOriginal: `Traders are completely enthralled by the bull market — but surging Nasdaq volatility suggests it is time to hedge.`,
+    bodyJa: `トレーダーは強気市場に完全に魅了されていますが、ナスダックのボラティリティの急上昇は、ヘッジの時期が来たことを示唆しています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-a-hidden-divergence-between-the-vix-and-nasdaq-volatility-has-the-smart-money-on-edge-cda23cc0?mod=mw_rss_topstories",
+    publishedAt: "2026-07-09T22:19:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-615981",
+    readTime: 2,
+  },
+  {
     id: "kevin-warsh-names-members-of-his-federal-7d7af9cd",
     title: "Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon",
     titleJa: "ケビン・ウォーシュはマーク・アンドリーセン、ダグ・マクミロンらを連邦準備制度の特別委員会のメンバーに指名",
@@ -1833,260 +2217,6 @@ Bernadette McCague による追加レポート。
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fac/live/fce6af60-7ab2-11f1-9510-1546718f668b.jpg",
     readTime: 6,
-  },
-  {
-    id: "fed-rate-hold-2025",
-    title: "Federal Reserve Holds Rates Steady, Signals One Cut Later This Year",
-    titleJa: "米連邦準備制度理事会、金利据え置き──年内1回の利下げを示唆",
-    summaryJa: "米連邦準備制度理事会（FRB）は政策金利を4.25〜4.50%の範囲で据え置きました。インフレが目標の2%に向かって緩やかに低下している一方、雇用市場は依然として堅調であると判断しています。パウエル議長は「データに依存した姿勢を維持する」と述べ、年内に1回の利下げの可能性を示唆しました。市場は9月の利下げを織り込み始めており、長期金利は小幅に下落しました。企業は資金調達コストの安定を歓迎する一方、住宅ローン金利の高止まりが不動産市場に引き続き圧力をかけています。",
-    bodyOriginal: `The Federal Reserve kept its benchmark interest rate unchanged at 4.25% to 4.50% on Wednesday, extending a pause that began late last year as policymakers assess whether inflation is sustainably moving toward their 2% target.
-
-In a statement following a two-day meeting, the central bank noted that economic activity has been expanding at a solid pace, while job gains have remained robust and the unemployment rate has stayed low. Officials acknowledged that inflation has eased over the past year but remains somewhat elevated.
-
-Chair Jerome Powell told reporters that the Fed is "not in a hurry" to adjust rates, emphasizing that each decision will depend on incoming economic data. "We want to see more evidence that inflation is moving sustainably toward 2% before we consider further rate cuts," Powell said.
-
-Markets had widely expected the hold, but traders shifted bets toward a September rate cut after Powell's comments. The S&P 500 rose 0.4% following the announcement, while the 10-year Treasury yield fell to 4.18%.
-
-Corporate borrowers welcomed the stability. "Predictable financing costs help us plan capital expenditures," said the CFO of a major industrial firm. However, mortgage rates near 7% continue to weigh on the housing market, with existing home sales falling 2.1% last month.
-
-Analysts at Goldman Sachs now forecast one 25-basis-point cut in 2025, down from two cuts projected earlier. The next policy meeting is scheduled for late July.`,
-    bodyJa: `米連邦準備制度理事会（FRB）は水曜日、政策金利を4.25%から4.50%の範囲で据え置きました。インフレが持続的に2%の目標に向かって動いているかどうかを政策当局が評価する中、昨年後半から続く金利据え置きが延長されました。
-
-2日間の会合後に発表された声明で、中央銀行は経済活動が堅調なペースで拡大し続けていること、雇用の増加が力強く続き、失業率が低い水準を維持していることを指摘しました。当局者は、インフレが過去1年で緩和されたものの、依然としてやや高い水準にあることを認めました。
-
-ジェローム・パウエル議長は記者会見で、FRBは金利調整を「急いでいない」と述べ、各決定が今後の経済データに依存することを強調しました。「さらなる利下げを検討する前に、インフレが持続的に2%に向かって動いているというより多くの証拠を見たい」とパウエル氏は語りました。
-
-市場は据え置きを広く予想していましたが、パウエル氏の発言後、トレーダーは9月の利下げに賭ける動きにシフトしました。発表後、S&P500は0.4%上昇し、10年物国債利回りは4.18%まで下落しました。
-
-企業の借り手は安定を歓迎しました。「予測可能な資金調達コストは、設備投資の計画に役立ちます」と大手工業会社のCFOは述べました。しかし、7%近い住宅ローン金利は引き続き住宅市場に重しとなっており、既存住宅の売却件数は先月2.1%減少しました。
-
-ゴールドマン・サックスのアナリストは、2025年の利下げ予測を従来の2回から1回の25ベーシスポイント利下げに下方修正しました。次の政策会合は7月下旬に予定されています。`,
-    source: "Reuters",
-    sourceUrl: "https://www.reuters.com/business/",
-    publishedAt: "2025-07-08T14:30:00Z",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "amazon-ai-investment",
-    title: "Amazon Plans $100 Billion AI Infrastructure Investment Over Five Years",
-    titleJa: "アマゾン、5年間でAIインフラに1000億ドル投資へ",
-    summaryJa: "アマゾンは今後5年間で人工知能インフラに1000億ドル（約15兆円）を投資する計画を発表しました。AWSのデータセンター拡張、カスタムAIチップ「Trainium」「Inferentia」の開発、生成AIサービスの強化が主な内容です。アンディ・ジャシーCEOは「AIはアマゾンにとってこれまでで最大の技術変革」と強調しました。マイクロソフトやグーグルも同様の大規模投資を発表しており、クラウド各社のAI軍拡競争が激化しています。投資家は短期の利益率低下を懸念する一方、長期的な競争力確保には不可欠と評価しています。AWSの市場シェアは32%で首位を維持していますが、マイクロソフトAzureの追い上げが続いています。",
-    bodyOriginal: `Amazon announced plans to invest $100 billion in artificial intelligence infrastructure over the next five years, one of the largest corporate technology investments ever disclosed.
-
-The spending will fund expansion of Amazon Web Services data centers, development of custom AI chips including Trainium and Inferentia, and enhancement of generative AI services such as Amazon Bedrock and the Nova model family.
-
-"AI represents the biggest technology transformation in Amazon's history," CEO Andy Jassy said at the company's annual cloud conference in Las Vegas. "We are investing at a scale that matches the opportunity."
-
-The announcement comes as cloud rivals Microsoft and Google have committed tens of billions to AI infrastructure. Microsoft's capital expenditure reached $14 billion last quarter alone, while Google parent Alphabet spent $12 billion.
-
-AWS maintains a 32% share of the global cloud market, but Microsoft Azure is growing faster at 29% share. Amazon's stock rose 1.8% on the news, though some investors expressed concern about near-term margin pressure.
-
-The investment will create an estimated 50,000 construction and engineering jobs across the United States, with new data center campuses planned in Virginia, Ohio, and Oregon.
-
-Analysts at Morgan Stanley estimate Amazon's AI-related revenue could reach $50 billion annually by 2028.`,
-    bodyJa: `アマゾンは今後5年間で人工知能インフラに1000億ドルを投資する計画を発表し、これは企業が開示した中でも最大級の技術投資の一つです。
-
-この支出は、Amazon Web Services（AWS）のデータセンター拡張、TrainiumやInferentiaを含むカスタムAIチップの開発、Amazon BedrockやNovaモデルファミリーなどの生成AIサービスの強化に充てられます。
-
-「AIはアマゾンの歴史において最大の技術変革を意味します」とアンディ・ジャシーCEOはラスベガスで開催された同社の年次クラウドカンファレンスで述べました。「私たちはその機会に見合った規模で投資しています。」
-
-この発表は、クラウドの競合であるマイクロソフトとグーグルがAIインフラに数百億ドルを投じると公約している中で行われました。マイクロソフトの設備投資は昨四半期だけで140億ドルに達し、グーグルの親会社アルファベットは120億ドルを支出しました。
-
-AWSは世界のクラウド市場で32%のシェアを維持していますが、マイクロソフトAzureは29%のシェアでより速い成長を続けています。アマゾンの株価はこのニュースで1.8%上昇しましたが、一部の投資家は短期的な利益率への圧力を懸念しました。
-
-この投資は米国全体で推定5万人の建設・エンジニアリングの雇用を生み出し、バージニア、オハイオ、オレゴンに新しいデータセンターキャンパスの建設が計画されています。
-
-モルガン・スタンレーのアナリストは、アマゾンのAI関連売上が2028年までに年間500億ドルに達する可能性があると推定しています。`,
-    source: "Wall Street Journal",
-    sourceUrl: "https://www.wsj.com/",
-    publishedAt: "2025-07-08T10:00:00Z",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "china-stimulus-package",
-    title: "China Unveils $140 Billion Stimulus Package to Boost Domestic Consumption",
-    titleJa: "中国、国内消費刺激のため14兆円規模の景気対策を発表",
-    summaryJa: "中国国務院は国内消費を刺激するため、約1400億ドル（約21兆円）規模の景気対策パッケージを発表しました。家電製品や自動車の買い替え補助、地方自治体向けのインフラ投資、住宅ローン金利の引き下げが含まれます。不動産市場の長期低迷と若年層の高失業率が経済の弱点となっており、当局は内需拡大に注力しています。上海総合指数は発表後2.1%上昇しました。ただし、経済学者の間では、この措置だけでは構造的な問題の解決には不十分ではないかとの見方もあります。日本企業にとっては、中国市場の消費回復が輸出にプラスに働く可能性がありますが、地政学リスクは依然として不透明感を残しています。",
-    bodyOriginal: `China's State Council unveiled a 1 trillion yuan ($140 billion) stimulus package on Wednesday aimed at boosting domestic consumption and stabilizing economic growth amid persistent property market weakness.
-
-The measures include subsidies for replacing home appliances and vehicles, increased infrastructure spending by local governments, and reduced mortgage rates for first-time homebuyers. Consumer vouchers will be distributed in major cities including Beijing, Shanghai, and Shenzhen.
-
-"Expanding domestic demand is our top priority," Premier Li Qiang said at a State Council meeting. "We must activate the consumption potential of our 1.4 billion people."
-
-China's economy grew 5.2% in the first quarter, meeting the government's annual target, but youth unemployment remains elevated at 15.3%, and property investment has declined for 18 consecutive months.
-
-The Shanghai Composite Index rose 2.1% following the announcement. Japanese and South Korean exporters with significant China exposure, including Toyota and Samsung, saw modest stock gains.
-
-Economists at UBS said the package is "necessary but insufficient" to address structural challenges including local government debt and demographic headwinds. They expect additional measures later this year.
-
-Foreign businesses welcomed the focus on consumption but called for clearer regulatory policies and equal treatment for international companies operating in China.`,
-    bodyJa: `中国国務院は水曜日、不動産市場の長期低迷の中で国内消費を刺激し経済成長を安定させることを目的とした、1兆元（約1400億ドル）規模の景気対策パッケージを発表しました。
-
-この措置には、家電製品や自動車の買い替え補助金、地方自治体によるインフラ支出の増加、初めて住宅を購入する人向けの住宅ローン金利の引き下げが含まれます。北京、上海、深センを含む主要都市で消費券が配布されます。
-
-「国内需要の拡大が最優先事項です」と李強首相は国務院の会議で述べました。「14億人の消費潜在力を活性化しなければなりません。」
-
-中国経済は第1四半期に5.2%成長し、政府の年間目標を達成しましたが、若年失業率は15.3%と依然として高く、不動産投資は18か月連続で減少しています。
-
-発表後、上海総合指数は2.1%上昇しました。中国市場への露出が大きいトヨタやサムスンを含む日本と韓国の輸出企業の株価も小幅に上昇しました。
-
-UBSのエコノミストは、このパッケージは地方政府の債務や人口動態の逆風といった構造的課題に対処するには「必要だが不十分」だと述べました。年内に追加措置があると予想しています。
-
-外国企業は消費重視を歓迎したものの、より明確な規制政策と、中国で事業を展開する国際企業への平等な扱いを求めました。`,
-    source: "South China Morning Post",
-    sourceUrl: "https://www.scmp.com/",
-    publishedAt: "2025-07-08T06:00:00Z",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "japan-boj-rate-decision",
-    title: "Bank of Japan Raises Rates to 0.75%, Highest in 17 Years",
-    titleJa: "日本銀行、政策金利を0.75%に引き上げ──17年ぶりの高水準",
-    summaryJa: "日本銀行は金融政策決定会合で政策金利を0.5%から0.75%に引き上げ、1995年以来17年ぶりの高水準としました。春闘での賃上げ率の改善と物価の安定した上昇を背景に、金融正常化のペースを加速させています。植田総裁は「実質金利は依然としてマイナスであり、緩和的な金融環境は維持される」と説明しました。円相場は一時1ドル=155円台まで円高が進み、輸出企業の株価には押し下げ圧力がかかりました。一方、銀行株は金利上昇を歓迎し、三菱UFJフィナンシャル・グループなどが上昇しました。市場は年内にさらなる利上げの可能性を50%程度と見ています。",
-    bodyOriginal: `The Bank of Japan raised its policy interest rate to 0.75% on Thursday, the highest level in 17 years, as stronger wage growth and persistent inflation give policymakers confidence to continue normalizing monetary policy.
-
-Governor Kazuo Ueda said the decision reflects "growing evidence that the virtuous cycle between wages and prices is taking hold." Major companies agreed to average wage increases of 5.25% in this year's spring labor negotiations, the highest in three decades.
-
-"In real terms, interest rates remain negative, and monetary conditions continue to be accommodative," Ueda told a news conference. The BOJ will also gradually reduce its purchases of Japanese government bonds.
-
-The yen strengthened to 155.2 per dollar following the announcement, gaining 0.8% on the day. Exporters including Toyota and Sony saw their shares decline, while banking stocks rallied. Mitsubishi UFJ Financial Group rose 2.4%.
-
-Economists at Nomura Securities expect one more rate hike by year-end, bringing the policy rate to 1.0%. However, global trade tensions and uncertainty over U.S. tariff policies could complicate the BOJ's path forward.
-
-Japan's core consumer price index rose 2.8% in May from a year earlier, staying above the BOJ's 2% target for the 38th consecutive month.`,
-    bodyJa: `日本銀行は木曜日、賃金上昇の強まりと持続的なインフレを背景に、政策当局が金融政策の正常化を継続する自信を深めているとして、政策金利を0.75%に引き上げ、17年ぶりの高水準としました。
-
-植田和男総裁は、この決定は「賃金と物価の好循環が定着しつつあるという証拠が増えていること」を反映していると述べました。大手企業は今年の春闘で平均5.25%の賃上げに合意し、30年ぶりの高水準となりました。
-
-「実質金利は依然としてマイナスであり、金融環境は引き続き緩和的です」と植田氏は記者会見で語りました。日銀は日本国債の買い入れも段階的に縮小します。
-
-発表後、円は1ドル=155.2円まで円高となり、当日0.8%上昇しました。トヨタやソニーなどの輸出企業の株価は下落した一方、銀行株は上昇しました。三菱UFJフィナンシャル・グループは2.4%上昇しました。
-
-野村證券のエコノミストは、年末までにもう1回の利上げがあり、政策金利は1.0%に達すると予想しています。しかし、グローバルな貿易摩擦と米国の関税政策の不確実性が、日銀の今後の道筋を複雑にする可能性があります。
-
-日本のコア消費者物価指数は5月に前年比2.8%上昇し、日銀の2%目標を38か月連続で上回りました。`,
-    source: "Nikkei Asia",
-    sourceUrl: "https://asia.nikkei.com/",
-    publishedAt: "2025-07-08T03:00:00Z",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1540959733336-eab4de63ee47?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "nvidia-ai-chip-demand",
-    title: "Nvidia Surpasses $4 Trillion Market Cap on AI Chip Demand",
-    titleJa: "エヌビディア、AI半導体需要で時価総額4兆ドル突破",
-    summaryJa: "エヌビディアの時価総額が4兆ドルを超え、世界初の非金融企業としてこの水準に到達しました。データセンター向けAI半導体の需要が引き続き急増しており、同社の四半期売上は前年比78%増の386億ドルに達しました。主要クラウドプロバイダーが次世代GPUの大量発注を続けており、供給制約が依然として課題です。競合のAMDやインテルもAIチップ市場への参入を加速していますが、エヌビディアのシェアは80%以上を維持しています。投資家はAI投資サイクルの持続性に注目しており、規制リスクや地政学的なサプライチェーン問題が今後の変数となります。",
-    bodyOriginal: `Nvidia became the first non-financial company to surpass a $4 trillion market capitalization on Tuesday, driven by relentless demand for its artificial intelligence chips used in data centers worldwide.
-
-The chipmaker reported quarterly revenue of $38.6 billion, up 78% year-over-year, beating Wall Street estimates for the fifth consecutive quarter. Data center revenue alone reached $32.1 billion, accounting for 83% of total sales.
-
-CEO Jensen Huang said demand for the company's next-generation Blackwell architecture "exceeds supply by a wide margin." Major cloud providers including Amazon, Microsoft, and Google have placed multi-billion-dollar orders for Nvidia GPUs to power their AI services.
-
-"We are at the beginning of a new industrial revolution," Huang told investors on an earnings call. "Every company will become an AI company, and every data center will be accelerated."
-
-Competitors are racing to catch up. AMD unveiled its MI350 series chips targeting enterprise AI workloads, while Intel is restructuring its foundry business to compete more aggressively. Despite these efforts, Nvidia maintains over 80% share in the AI accelerator market.
-
-Analysts warn that valuation concerns are growing. At current levels, Nvidia trades at 45 times forward earnings. Regulatory scrutiny over the company's dominance in AI chips is also intensifying in both the U.S. and Europe.
-
-Shares rose 3.2% in after-hours trading following the earnings report.`,
-    bodyJa: `エヌビディアは火曜日、世界中のデータセンターで使用される人工知能半導体への途切れない需要に押され、非金融企業として初めて時価総額4兆ドルを超えました。
-
-同社は四半期売上386億ドル（前年比78%増）を報告し、5四半期連続でウォール街の予想を上回りました。データセンター部門の売上だけで321億ドルに達し、総売上の83%を占めています。
-
-ジェンセン・フアンCEOは、同社の次世代Blackwellアーキテクチャへの需要が「供給を大きく上回っている」と述べました。アマゾン、マイクロソフト、グーグルを含む主要クラウドプロバイダーは、AIサービスを支えるためにエヌビディアGPUの数十億ドル規模の注文を出しています。
-
-「私たちは新しい産業革命の始まりにいます」とフアン氏は決算説明会で投資家に語りました。「すべての企業がAI企業となり、すべてのデータセンターが加速化されます。」
-
-競合他社は追いつこうと競争を加速させています。AMDはエンタープライズAIワークロードをターゲットにしたMI350シリーズチップを発表し、インテルはより積極的に競争するためにファウンドリ事業を再編しています。これらの努力にもかかわらず、エヌビディアはAIアクセラレータ市場で80%以上のシェアを維持しています。
-
-アナリストは、評価面での懸念が高まっていると警告しています。現在の水準では、エヌビディアは予想利益の45倍で取引されています。AI半導体における同社の支配的地位に対する規制当局の監視も、米国と欧州の両方で強まっています。
-
-決算発表後、株価は時間外取引で3.2%上昇しました。`,
-    source: "Bloomberg",
-    sourceUrl: "https://www.bloomberg.com/",
-    publishedAt: "2025-07-07T21:00:00Z",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "tesla-robotaxi-launch",
-    title: "Tesla Launches Robotaxi Service in Austin, Texas",
-    titleJa: "テスラ、テキサス州オースティンでロボタクシーサービスを開始",
-    summaryJa: "テスラはテキサス州オースティンで自動運転タクシーサービス「Robotaxi」の限定運用を開始しました。Model Yをベースにした車両が、安全運転員なしで市内の特定エリアを走行します。イーロン・マスクCEOは「交通の未来はここから始まる」と述べましたが、規制当局や競合からは安全性への懸念が示されています。ウェイモやクルーズなどの競合は既に他都市で商用サービスを展開しており、テスラは後発組です。初期は招待制の利用者のみが対象で、1回の乗車料金は推定5〜10ドルです。テスラの株価は発表後4%上昇しましたが、自動運転技術の実用化には依然としてハードルが残ります。",
-    bodyOriginal: `Tesla officially launched its long-awaited Robotaxi service in Austin, Texas on Monday, marking the electric vehicle maker's boldest bet on autonomous driving technology.
-
-A fleet of modified Model Y vehicles began operating in a geofenced area of the city without safety drivers, though remote monitoring staff can intervene if needed. The service is initially available to invited users only, with rides priced between $5 and $10 per trip.
-
-"This is the beginning of the future of transportation," CEO Elon Musk said at a launch event. "Within a few years, owning a car that doesn't drive itself will be like owning a horse."
-
-The launch comes as competitors Waymo and Cruise have already deployed commercial robotaxi services in Phoenix, San Francisco, and other cities. Analysts note that Tesla's approach relies primarily on camera-based systems without lidar sensors, a design choice that has drawn skepticism from safety advocates.
-
-The National Highway Traffic Safety Administration said it is monitoring the deployment closely. Austin city officials granted Tesla a permit for up to 200 vehicles in the initial phase.
-
-Tesla shares jumped 4% on the news, adding roughly $40 billion to its market value. However, the company faces ongoing lawsuits related to previous Autopilot incidents, and full-scale commercialization could take years.`,
-    bodyJa: `テスラは月曜日、テキサス州オースティンで長らく待望されていたロボタクシーサービスを正式に開始し、自動運転技術への同社最大の賭けを実現しました。
-
-改造されたModel Yの車隊が、安全運転員なしで市内の特定エリア（ジオフェンス内）での運行を開始しましたが、必要に応じてリモート監視スタッフが介入できます。サービスは当初、招待されたユーザーのみが利用可能で、1回の乗車料金は5〜10ドルです。
-
-「これは交通の未来の始まりです」とイーロン・マスクCEOはローンチイベントで述べました。「数年以内に、自分で運転しない車を所有することは、馬を所有するようなものになるでしょう。」
-
-このローンチは、競合のウェイモやクルーズが既にフェニックス、サンフランシスコなどの都市で商用ロボタクシーサービスを展開している中で行われました。アナリストは、テスラのアプローチが主にLiDARセンサーなしのカメラベースのシステムに依存していることに注目しており、この設計選択は安全擁護派から懐疑的な視線を向けられています。
-
-全米高速道路交通安全局（NHTSA）は展開を綿密に監視していると述べました。オースティン市の当局者は、初期段階で最大200台の車両についてテスラに許可証を交付しました。
-
-テスラの株価はこのニュースで4%急騰し、時価総額は約400億ドル増加しました。しかし、同社は以前のAutopilot関連事故に関する訴訟に直面しており、本格的な商用化には数年かかる可能性があります。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/",
-    publishedAt: "2025-07-07T16:00:00Z",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "opec-oil-production",
-    title: "OPEC+ Agrees to Gradual Output Increase Starting August",
-    titleJa: "OPEC+、8月から段階的な原油増産で合意",
-    summaryJa: "OPEC+は8月から毎月22万バレルの段階的な原油増産に合意しました。サウジアラビア主導のこの決定は、高い原油価格による世界経済への影響を懸念する一方、市場シェアの回復も狙っています。ブレント原油はバレルあたり78ドル前後で推移しており、増産発表後は2%下落しました。エネルギーアナリストは、需要の季節的な強さと地政学リスクが価格の下支えになると分析しています。米国のシェールオイル生産も記録的高水準で、OPEC+の価格支配力は相対的に低下しています。日本や欧州の輸入国にとっては、エネルギーコストの安定化がインフレ抑制に寄与する可能性があります。",
-    bodyOriginal: `OPEC and its allies agreed on Sunday to begin gradually increasing oil production by 220,000 barrels per day starting in August, a move that signals the group's confidence in global demand while addressing concerns about high energy prices.
-
-Saudi Arabia, the de facto leader of OPEC+, has been balancing the need to support oil prices—which fund its ambitious economic diversification plans—with pressure from consuming nations worried about inflation.
-
-Brent crude fell 2% to $78.40 per barrel following the announcement. Oil prices have traded in a relatively narrow range this year, supported by Middle East tensions but capped by rising U.S. shale production.
-
-"We believe the market can absorb this additional supply," Saudi Energy Minister Prince Abdulaziz bin Salman said after the virtual meeting. The group plans to review production levels monthly.
-
-U.S. shale output has reached record levels of 13.4 million barrels per day, reducing OPEC+'s market influence. American producers have benefited from technology improvements that lowered extraction costs.
-
-For import-dependent economies like Japan and the eurozone, lower energy costs could help ease inflationary pressures. Japan's trade deficit widened last month partly due to higher fuel import costs.
-
-Energy analysts at Wood Mackenzie expect Brent to average $80 per barrel in the second half of 2025.`,
-    bodyJa: `OPECと同盟国は日曜日、8月から毎日22万バレルの段階的な原油増産を開始することで合意しました。この動きは、高いエネルギー価格への懸念に対応しつつ、世界の需要に対するグループの自信を示すものです。
-
-事実上のOPEC+のリーダーであるサウジアラビアは、野心的な経済多角化計画の資金源となる石油価格を支える必要性と、インフレを懸念する消費国からの圧力のバランスを取っています。
-
-ブレント原油は発表後2%下落し、1バレル=78.40ドルとなりました。原油価格は今年、中東の緊張に支えられながらも、米国のシェール生産の増加によって上値を抑えられ、比較的狭いレンジで推移しています。
-
-「市場はこの追加供給を吸収できると考えています」とサウジのエネルギー大臣アブドゥルアジーズ・ビン・サルマン王子は仮想会議後に述べました。グループは生産量を毎月見直す予定です。
-
-米国のシェール生産量は1日1340万バレルの記録的高水準に達し、OPEC+の市場への影響力を弱めています。米国の生産者は、採掘コストを下げた技術革新の恩恵を受けています。
-
-日本やユーロ圏のような輸入依存型経済にとって、エネルギーコストの低下はインフレ圧力の緩和に役立つ可能性があります。日本の貿易赤字は先月、燃料輸入コストの上昇が一因で拡大しました。
-
-ウッド・マッケンジーのエネルギーアナリストは、2025年下半期のブレント原油平均を1バレル80ドルと予想しています。`,
-    source: "Financial Times",
-    sourceUrl: "https://www.ft.com/",
-    publishedAt: "2025-07-06T12:00:00Z",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
   },
 ];
 
