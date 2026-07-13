@@ -15,6 +15,326 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "meta-s-louisiana-data-center-investment-30003a99",
+    title: "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
+    titleJa: "メタのルイジアナ州データセンターへの投資は寛大な税制優遇を受けて500億ドルに達する",
+    summaryJa: "メタ氏によると、ルイジアナ州リッチランド教区に計画されているハイペリオン・データセンター・スーパークラスターは5GWの施設で、費用は500億ドル以上になるという。",
+    bodyOriginal: `Meta's massive Hyperion data center project in rural Louisiana is getting much bigger and costlier, with a big assist from the state's government.
+The company said in a blog post on Monday that the site in Richland Parish, Louisiana — home to what will be Meta's largest data center — will be a 5GW facility and cost over $50 billion. That's higher than the $27 billion figure that was revealed in October, when Meta and Blue Owl Capital formed a joint venture to help with the buildout and management of the facility, originally planned as a 2GW data center.
+As Meta pursues its multi-hundred-billion-dollar buildout artificial intelligence buildout, the company and hyperscaler rivals Microsoft, Alphabet and Amazon are taking advantage of tax rebates and energy deals being offered by states that are fighting to get a piece of the AI boom.
+In late 2024, Louisiana Republican Governor Jeff Landry signed into law a 20-year sales tax exemption for data centers built before 2029 as part of an effort to court Meta in the state, CNBC previously reported. Landry is set to host a press event on Monday in Baton Rouge.
+"I'm a business guy," Landry told CNBC in an interview last year. "What we know is when you look at the overall comprehensive package here, it's in the black. For local government, and the state, and how you get to the bottom line is irrespective to me."
+Meta is expanding the project as it seeks to build out enough AI infrastructure to meet demand. The announcement comes after Meta had its best week on the stock market since early 2024 following the release of two major AI models under the leadership of AI chief Alexandr Wang, head of Meta Superintelligence Labs. Investors have been looking for the company to start showing returns on its outsized AI investments.
+Meta said in Monday's post that the company "pays the full costs of the energy, water, and related infrastructure the data center uses so consumers aren't paying the cost." Since construction of the Louisiana data center began in December 2024, local businesses have received over $1.6 billion in contracts from Meta, the company said.
+"With this expansion, we will be investing over $1 billion in local infrastructure improvements, including roads, water and wastewater systems," Meta said in the post. The company didn't announce a financial partner for the expansion.
+When the project began, the estimated price tag was $10 billion. CEO Mark Zuckerberg said in a Facebook post roughly six months later that the supercluster, named Hyperion, would be "able to scale up to 5GW over several years." Unlike traditional data centers, superclusters are packed with graphics processing units and related cutting-edge hardware tailored for AI workloads.
+"Meta Superintelligence Labs will have industry-leading levels of compute and by far the greatest compute per researcher," Zuckerberg wrote.
+A Meta spokesperson told CNBC that the Hyperion project should reach 2GW by 2030, but there's no timeline for when the full 5GW project will be completed.`,
+    bodyJa: `ルイジアナ州の田舎にあるメタ社の大規模なハイペリオン・データセンター・プロジェクトは、州政府からの多大な支援を受けて、はるかに大規模かつ高価になっている。
+同社は月曜日のブログ投稿で、メタ社最大のデータセンターとなるルイジアナ州リッチランド教区のサイトは5GWの施設で、費用は500億ドル以上になると述べた。これは、当初2GWのデータセンターとして計画されていた施設の建設と管理を支援するために、メタとブルー・オウル・キャピタルが合弁事業を設立した10月に明らかになった270億ドルという数字よりも高い。
+メタ社が数千億ドル規模の人工知能開発を進める中、同社とハイパースケーラーのライバルであるマイクロソフト社、アルファベット社、アマゾン社は、AIブームの一部を獲得しようと争っている州が提供する税金還付やエネルギー協定を利用している。
+2024年後半、ルイジアナ州の共和党知事ジェフ・ランドリーは、州内のメタに求愛する取り組みの一環として、2029年以前に建設されたデータセンターに対する20年間の売上税免除法案に署名したとCNBCが以前報じた。ランドリー氏は月曜日にバトンルージュでプレスイベントを主催する予定だ。
+「私はビジネスマンだ」とランドリー氏は昨年CNBCのインタビューで語った。 「私たちが知っているのは、ここでの包括的なパッケージ全体を見ると、黒字だということです。地方自治体にとっても州にとっても、最終的にどうやって利益を得るのかは私には関係ありません。」
+Meta は、需要を満たすのに十分な AI インフラストラクチャを構築するためにプロジェクトを拡大しています。この発表は、メタ・スーパーインテリジェンス・ラボ所長でAI責任者のアレクサンドル・ワン氏のリーダーシップの下、2つの主要なAIモデルのリリースを受けて、メタが株式市場で2024年初頭以来最高の週を迎えた後に行われた。投資家は同社が大規模なAI投資から利益を上げ始めることを期待していた。
+メタ氏は月曜の投稿で、同社が「データセンターが使用するエネルギー、水道、関連インフラの費用を全額負担しているため、消費者はコストを支払っていない」と述べた。ルイジアナ州のデータセンターの建設が2024年12月に始まって以来、地元企業はメタ社から16億ドル以上の契約を受け取ったと同社は述べた。
+「この拡張により、道路、上下水道システムを含む地域インフラの改善に10億ドル以上を投資することになる」とメタ氏は投稿の中で述べた。同社は拡張のための財務パートナーを発表しなかった。
+プロジェクトが開始されたとき、推定価格は 100 億ドルでした。 CEOのマーク・ザッカーバーグ氏は約6か月後のFacebookへの投稿で、Hyperionと名付けられたスーパークラスターは「数年かけて5GWまでスケールアップできる」と述べた。従来のデータセンターとは異なり、スーパークラスターには、AI ワークロードに合わせて調整されたグラフィックス処理ユニットと関連する最先端のハードウェアが詰め込まれています。
+「メタ・スーパーインテリジェンス・ラボは業界をリードするレベルのコンピューティングを備え、研究者一人当たりのコンピューティングはこれまでで最も優れたものになるだろう」とザッカーバーグ氏は書いた。
+Metaの広報担当者はCNBCに対し、Hyperionプロジェクトは2030年までに2GWに達するはずだが、完全な5GWプロジェクトがいつ完了するかについてのタイムラインはないと語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+    publishedAt: "2026-07-13T09:30:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "oil-prices-surge-as-much-as-5-after-iran-b38e9343",
+    title: "Oil prices surge as much as 5% after Iran declares Strait of Hormuz is closed",
+    titleJa: "イランがホルムズ海峡閉鎖宣言後、原油価格が最大5％上昇",
+    summaryJa: "今週は米国とイランによる攻撃の応酬が続く中、原油価格が新たな急騰で始まる。",
+    bodyOriginal: `The week is kicking off with fresh spikes for oil prices as the U.S. and Iran continued to exchange attacks.`,
+    bodyJa: `今週は米国とイランによる攻撃の応酬が続く中、原油価格が新たな急騰で始まる。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+    publishedAt: "2026-07-13T09:27:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-94895376",
+    readTime: 2,
+  },
+  {
+    id: "geopolitical-shock-exposes-sk-hynix-leve-019238e6",
+    title: "Geopolitical shock exposes SK Hynix leverage after hot ADR debut",
+    titleJa: "地政学的衝撃により、活発なADRデビュー後にSKハイニックスのレバレッジが暴露される",
+    summaryJa: "米国での預託証券上場が大成功を収めたわずか1取引セッション後、韓国の半導体メーカーSKハイニックスの現地株はソウルの国内取引所で15％急落した。",
+    bodyOriginal: `Just one trading session after a highly successful U.S. listing for its depositary receipts, local shares in South Korean chip maker SK Hynix plummeted 15% on the domestic exchange in Seoul.`,
+    bodyJa: `米国での預託証券上場が大成功を収めたわずか1取引セッション後、韓国の半導体メーカーSKハイニックスの現地株はソウルの国内取引所で15％急落した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories",
+    publishedAt: "2026-07-13T09:12:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-66386191",
+    readTime: 2,
+  },
+  {
+    id: "tsmc-just-reported-a-record-month-for-re-9c2d9430",
+    title: "TSMC just reported a record month for revenue ahead of critical earnings report on Thursday",
+    titleJa: "TSMCは木曜日の重要な収益報告に先立ち、記録的な月収を報告したばかりだ",
+    summaryJa: "台湾積体電路製造公司は、6月の純収益が67%増加して132億ドルになったと発表した",
+    bodyOriginal: `Taiwan Semiconductor Manufacturing Corp. said net revenue increased by 67% in June to $13.2 billion`,
+    bodyJa: `台湾積体電路製造公司は、6月の純収益が67%増加して132億ドルになったと発表した`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories",
+    publishedAt: "2026-07-13T09:01:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-72859017",
+    readTime: 2,
+  },
+  {
+    id: "u-s-and-iran-exchange-strikes-as-strait-371be56d",
+    title: "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
+    titleJa: "ホルムズ海峡の対立激化で米国とイランが攻撃を交わす",
+    summaryJa: "イランは週末の米軍の新たな攻撃に対抗し、湾岸諸国の米軍基地への攻撃を開始し、戦略的に重要なホルムズ海峡を巡る対立が深まった。今回のやりとりは、先月署名された暫定和平協定の将来にさらなる疑問を投げかけている。この協定は、ホルムズ海峡を再開し、60日間の交渉を経て戦争を終結させる道筋をつけることを目的としていた。",
+    bodyOriginal: `Iran responded to a fresh wave of strikes from U.S. forces over the weekend by launching an attack on American military bases in several Gulf states, deepening a standoff over the strategically vital Strait of Hormuz.
+The latest exchange casts further doubt over the future of the interim peace agreement signed last month, a deal that had sought to pave the way to reopen the Strait of Hormuz and end the war after 60 days of negotiations.
+Iran's strikes targeted U.S. bases in Kuwait, Bahrain, Jordan, Oman and Qatar, according to the country's state media outlets, describing them as retaliatory measures to renewed U.S. bombings.
+Sirens sounded for the third time in Bahrain on Monday, Reuters reported, citing the country's interior ministry. The Islamic Revolutionary Guard Corps (IRGC) said it had targeted U.S. military facilities in Bahrain and radar systems in Oman as part of its latest retaliatory attacks.
+U.S. Central Command said Sunday that American forces had successfully hit dozens of targets at multiple locations to degrade Tehran's ability to continue attacking vessels traversing the Strait of Hormuz.
+American forces struck Iranian military air-defense systems, coastal radar sites, missile and drone capabilities and small boats using U.S. fighter aircraft, naval vessels, one-way attack aerial drones and one-way attack sea drones for the first time, Centcom said in a post on X.
+The U.S. and Iran also issued conflicting accounts over whether the Strait of Hormuz remains open to shipping.
+Located in the gulf between Oman and Iran, the Strait of Hormuz is recognized as one of the world's most critical energy choke points. The narrow waterway typically handles around 20% of the world's oil traffic.
+Oil prices jumped on Monday morning as the latest cycle of attacks and counterattacks renewed fears of further disruption to flows through the Strait of Hormuz.
+International benchmark Brent crude futures with September delivery advanced 2.8% to trade at $78.14 per barrel, paring gains from earlier in the session. U.S. West Texas Intermediate futures with August delivery, meanwhile, gained 2.5% to $73.24.
+"The era of one-sided deals is OVER. We told you: keep your word or pay the price. Reality is knocking," Iran's parliament speaker Mohammad Bagher Ghalibaf said Sunday in a social media post.
+Ghalibaf's comments were posted alongside an image of Article 5 of the U.S.-Iran memorandum of understanding, which relates to the reopening of the Strait of Hormuz.
+U.S. President Donald Trump on Friday said the U.S. and Iran had agreed to continue peace talks, but said the ceasefire established in last month's peace deal had been scrapped.
+Iran accuses U.S. of exerting pressure on Oman
+Iran's Ministry of Foreign Affairs on Monday condemned U.S. attacks over the last 24 hours, saying the bombings represent a "serious threat to international peace and security," and have "rendered futile all efforts of the past few months to reduce tension and establish peace in the West Asian region."
+Iran also accused the U.S. of exerting "overt and covert pressure" on Oman, thereby preventing a result from recent talks in Muscat for both countries to establish arrangements for managing the Strait of Hormuz and traffic routes.
+Read more
+A White House spokesperson was not immediately available to comment when contacted by CNBC on Monday morning.
+Situated on the southeastern coast of the Arabian Peninsula, opposite Iran across the strait, Oman has been in joint talks with Iran on a new maritime security order, amid reports that the two countries could push to establish transit fees.
+Analysts have told CNBC that Oman's ability to impose service fees sits within tight legal limits, given that the strait is governed by the principle of transit passage, which does not allow states to charge vessels for passing through. Service fees, however, may be one way to circumvent this.
+— CNBC's Emma Graham contributed to this report.`,
+    bodyJa: `イランは週末の米軍の新たな攻撃に対抗し、湾岸諸国の米軍基地への攻撃を開始し、戦略的に重要なホルムズ海峡を巡る対立が深まった。
+今回のやりとりは、先月署名された暫定和平協定の将来にさらなる疑問を投げかけている。この協定は、ホルムズ海峡を再開し、60日間の交渉を経て戦争を終結させる道筋をつけることを目的としていた。
+イランの国営メディアによると、イランの空爆はクウェート、バーレーン、ヨルダン、オマーン、カタールの米軍基地を標的にしており、米国による新たな爆撃に対する報復措置だと説明した。
+ロイター通信が同国内務省の話として報じたところによると、月曜日、バーレーンで３回目のサイレンが鳴った。イスラム革命防衛隊（IRGC）は、最新の報復攻撃の一環としてバーレーンの米軍施設とオマーンのレーダーシステムを標的にしたと発表した。
+米中央軍は日曜日、米軍がホルムズ海峡を通過する船舶を攻撃し続けるイランの能力を低下させるために、複数の場所で数十の目標を攻撃することに成功したと発表した。
+セントコムはＸへの投稿で、米軍が初めて米国の戦闘機、海軍艦艇、一方向攻撃用航空無人機、一方向攻撃用海上無人機を使用して、イラン軍の防空システム、沿岸レーダーサイト、ミサイルと無人機の能力、小型船舶を攻撃したと述べた。
+米国とイランはまた、ホルムズ海峡の船舶航行が引き続き可能かどうかについて矛盾した説明を発表した。
+オマーンとイランの間の湾に位置するホルムズ海峡は、世界で最も重要なエネルギーのチョークポイントの一つとして認識されています。この狭い水路は通常、世界の石油輸送の約 20% を処理しています。
+最近の一連の攻撃と反撃により、ホルムズ海峡を通る流れがさらに混乱するのではないかとの懸念が改めて高まり、月曜朝、原油価格が急騰した。
+国際ベンチマークであるブレント原油先物（9月渡し）は2.8％上昇し、1バレル当たり78.14ドルで取引され、取引序盤からの上昇に匹敵した。一方、8月渡しの米国ウェスト・テキサス・インターミディエート先物は2.5％上昇し73.24ドルとなった。
+「一方的な取引の時代は終わった。我々は言った、約束を守るか、代償を払うかだ。現実はノックしている」とイラン国会議長のモハマド・バーガー・ガリバフは日曜、ソーシャルメディアへの投稿で述べた。
+ガリバフ氏のコメントは、ホルムズ海峡の再開に関する米国・イラン覚書の第５条の画像とともに掲載された。
+ドナルド・トランプ米大統領は金曜日、米国とイランは和平交渉を継続することで合意したが、先月の和平合意で確立された停戦は破棄されたと述べた。
+イラン、米国がオマーンに圧力をかけていると非難
+イラン外務省は月曜、過去24時間にわたる米国の攻撃を非難し、今回の爆撃は「国際の平和と安全に対する深刻な脅威」であり、「西アジア地域の緊張を緩和し平和を確立するための過去数カ月のあらゆる努力が無駄になった」と述べた。
+イランはまた、米国がオマーンに「公然かつ秘密の圧力」をかけ、それによってホルムズ海峡と交通路の管理に関する取り決めを確立するという最近のマスカットでの両国協議の成果を妨げていると非難した。
+続きを読む
+ホワイトハウス報道官は月曜日午前にCNBCから連絡を受けたが、すぐにはコメントできなかった。
+アラビア半島の南東海岸に位置し、海峡を挟んでイランの反対側に位置するオマーンは、両国が通過料金の制定を推進する可能性があるとの報道のなか、新たな海洋安全保障令についてイランと共同協議を行っている。
+アナリストらはCNBCに対し、この海峡は通過通航の原則が適用されており、国家が船舶の通過に対して料金を請求することを認めていないことを考慮すると、オマーンがサービス料を課す能力は厳しい法的制限の範囲内にあると語った。ただし、サービス料金はこれを回避する 1 つの方法である可能性があります。
+— CNBC の Emma Graham がこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html",
+    publishedAt: "2026-07-13T09:00:32+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "tsmc-the-world-s-largest-contract-chipma-88245b7a",
+    title: "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
+    titleJa: "世界最大の受託チップメーカーであるTSMC、6月の売上高が68%増加したと報告",
+    summaryJa: "台湾積体電路製造は今週後半の第2四半期決算発表に先立ち、月曜、6月の売上高が前年同期比67.9％増加したと報告した。2026年上半期のTSMCの総収益は2兆4000億新台湾ドル(749億9000万ドル)に達し、2025年の同時期と比較して35.6%増加した。TSMCは6月の収益が4,426億8000万台湾ドルと報告し、前月比6.2%増加した。",
+    bodyOriginal: `Taiwan Semiconductor Manufacturing Co. reported a 67.9% year-on-year rise in its June sales on Monday, ahead of its second-quarter earnings release later this week.
+For the first half of 2026, TSMC's total revenue reached 2.4 trillion new Taiwan dollars ($74.99 billion), representing a 35.6% increase compared to the same period in 2025. TSMC reported June revenue of NT$ 442.68 billion — a 6.2% increase from the previous month.
+The Taiwanese chip giant's shares rose 1% Monday.
+TSMC's numbers are "quite robust," said Sravan Kundojjala, an analyst at SemiAnalysis, noting that the chipmaker's second-quarter revenue exceeded its high-end guidance of $40.2 billion. The result came whereas historically June revenue has declined month-over-month over the past four years, he added.
+"The demand supply situation in AI is still quite tight and TSMC is sold out on N3, which is targeted by all leading AI GPU and CPUs this year," he added.
+The world's largest contract chipmaker manufactures semiconductors for a wide range of applications, spanning from smartphones to high-performance AI computing systems, with key clients including U.S. technology leaders such as AI darling Nvidia, Apple and Advanced Micro Devices.
+"We estimate TSMC is on track to over $40 billion in AI chip revenue in 2026, or close to 25% of its total revenue," Kundojjala said.
+TSMC plans to add two advanced chip packaging plants in the Chiayi Science Park in southern Taiwan, Reuters reported, citing remarks made by Taiwan's National Science and Technology Council Minister Wu Cheng-wen on Sunday. Wu noted that the site's first facility is already in mass production, with the second expected to begin shortly.
+TSMC, which commands a 73% share of the global pure-foundry market — chips manufactured for clients — in the first quarter of 2026, according to data from Counterpoint Research, is set to report its second-quarter earnings on Thursday, July 16.`,
+    bodyJa: `台湾積体電路製造は今週後半の第2四半期決算発表に先立ち、月曜、6月の売上高が前年同期比67.9％増加したと報告した。
+2026年上半期のTSMCの総収益は2兆4000億新台湾ドル(749億9000万ドル)に達し、2025年の同時期と比較して35.6%増加した。TSMCは6月の収益が4,426億8000万台湾ドルと報告し、前月比6.2%増加した。
+台湾の半導体大手の株価は月曜日に1％上昇した。
+セミアナリシスのアナリスト、スラバン・クンドジャラ氏は、TSMCの数字は「非常に堅調だ」と述べ、同社の第2四半期の売上高が上限予想の402億ドルを上回ったと指摘した。過去 4 年間、歴史的に 6 月の収益が前月比で減少してきた中で、この結果がもたらされたと同氏は付け加えた。
+「AI分野の需要供給状況は依然かなり逼迫しており、TSMCは今年、すべての主要なAI GPUとCPUのターゲットとなっているN3で完売状態だ」と同氏は付け加えた。
+世界最大の受託チップメーカーは、スマートフォンから高性能 AI コンピューティング システムに至る幅広いアプリケーション向けの半導体を製造しており、主要顧客には AI の最愛の Nvidia、Apple、Advanced Micro Devices などの米国のテクノロジー リーダーが含まれます。
+Kundojjala氏は、「TSMCのAIチップ収益は2026年に400億ドル以上、つまり総収益の25％近くに達すると推定している」と述べた。
+台湾の国家科学技術委員会の呉承文大臣の日曜の発言を引用してロイター通信が報じたところによると、TSMCは台湾南部の嘉義サイエンスパークに2つの先端チップパッケージング工場を追加する計画だという。ウー氏は、この施設の最初の施設はすでに量産中であり、2番目の施設も間もなく開始される予定であると述べた。
+Counterpoint Researchのデータによると、TSMCは、2026年第1四半期に世界のピュアファウンドリ市場（顧客向けに製造されるチップ）で73％のシェアを獲得しており、7月16日木曜日に第2四半期決算を発表する予定だ。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+    publishedAt: "2026-07-13T07:29:26+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "the-spacex-ipo-made-history-one-month-on-a6b166d1",
+    title: "The SpaceX IPO made history. One month on has it lost momentum?",
+    titleJa: "SpaceXのIPOは歴史を作りました。 1か月経って勢いがなくなったでしょうか？",
+    summaryJa: "SpaceXのIPOは歴史を作りました。 1か月経って勢いがなくなったでしょうか？- 公開されました",
+    bodyOriginal: `The SpaceX IPO made history. One month on has it lost momentum?
+- Published
+SpaceX investors have swung from celebration to apparent concern in its first month as a publicly traded company.
+When shares in the firm, co-founded and led by Elon Musk, first became available for individuals to buy on the public stock market on 12 June, there was an investor frenzy.
+Although the company had decided to price its shares at $135 each, the price immediately shot up to $150 that first day, climbing to $176, before closing at $160.95.
+It solidified SpaceX as the largest initial public offering (IPO) of all time.
+The following week, its shares went up even further, hitting an intraday high of $225, meaning it had surpassed Amazon and Microsoft in total market value.
+"With Elon Musk, any company he touches gets people excited," Keith Snyder, analyst at investment research firm CFRA, said. "But this was also the first time people felt like they were able to invest in something that was being marketed as an AI play."
+Willy Lee, an investor at Neosteller, which facilitates individual investors putting money into private companies, agreed that the excitement around the IPO was very much around artificial intelligence (AI).
+"Everyone saw SpaceX as an AI story," he said.
+SpaceX earlier this year acquired Musk's AI start-up xAI, recently renamed SpaceXAI, external and best known for the controversial chatbot Grok, and also started leasing data centre capacity to other tech companies.
+But its main business is the manufacture and launch of rockets and telecommunications satellites called Starlink. When Starlink said it was cutting prices in the Memphis, Tennessee area amid local concerns over a massive data centre project, SpaceX shares fell on the day by 8%.
+As the reality of how SpaceX currently makes money has seemed to come into clearer focus, the company's shares have started to sink.
+Even amid a tumultuous couple of weeks for tech stocks, SpaceX has taken a particular hit.
+When it was added to the Nasdaq100 index on 7 July, for instance, although the index closed down 1.7%, SpaceX fell 4.4%. An earlier addition to the FTSE Russell index had given the shares a slight boost.
+SpaceX did not respond to a request for comment.
+At the end of its first trading month, shares of SpaceX were selling at around $145 each, roughly 18% less than the high on its first day of trading, and 35% less than its peak so far.
+'Definitely underwater'
+Such a drop in price means that retail investors who purchased SpaceX stock during its first five days of trading are looking at a potential loss on their investment.
+"If you bought around the first tick you're definitely underwater," Snyder said.
+"It started to look a lot like a meme stock," Snyder added, pointing to the examples of GameStop and, more recently, Wendy's, external, where retail investors drive up a stock price through little more than excited online conversation.
+He expects SpaceX to dip even further, to around $115 a share, based on the company's business performance. That would value the company at around $1.5 trillion.
+Samuel Kerr, who heads analysis of equity capital markets for Mergermarket, noted that the swings in the share price so far will have had a different impact on different investors.
+"If you're an IPO investor, you're ok," Kerr said, referring to groups of investors who were either able to buy SpaceX at the company's proposed listing price of $135, or who were insiders with pre-IPO equity in the company.
+"If you bought in the first few days, you're not very happy right now," Kerr added.
+Nevertheless, Musk has expressed little but enthusiasm for the business prospects of SpaceX.
+After the company's public listing made him the world's first trillionaire, Musk said that SpaceX would pull in $1tn in yearly revenue by 2030.
+Musk has also shown that he is ready and willing to use SpaceX shares, and their volatility, as a currency.
+When the share price spiked on 16 June, SpaceX announced it was acquiring Cursor, a start-up that created an AI bot for writing computer code, in an all-stock deal valued at $60bn.
+By doing so at that time, Musk essentially bought Cursor for free, given how much value SpaceX stock had gained at that exact time.
+"It showed a level of market sophistication that almost no other issuer has," Kerr said of the Cursor acquisition.
+SpaceX shares have drifted down since.
+All eyes on earnings
+Morgan Stanley, which was a lead banker on the SpaceX IPO, seems to think the dip will be an interlude.
+It last week initiated coverage by its financial analysts and put a target share price, external on the company of $300, a 33% jump from its highest trading price to date.
+SpaceX currently operates at a loss and last year it made $18bn in revenue, according to financial disclosures required for it to go public.
+Musk's projected $1tn in revenue is roughly 55 times that.
+At the moment, anticipation is building around the company's first public earnings report. SpaceX has not yet announced a date for this, but financial analysts are expecting it to happen in early August.
+The company's earnings will likely coincide with the end of what's known as a "lock-up" period, when SpaceX employees who have been prohibited from selling shares in the firm that they received as part of their compensation will be able to shift them on to the open market.
+More shares for sale, plus a potentially more detailed explanation of SpaceX's business and future growth could create further dramatic swings in price.
+"If SpaceX can do all the things it says it will do, yes, investors are sitting on the most valuable company ever," Kerr said.
+"But it's got a lot of work to do to get there."`,
+    bodyJa: `SpaceXのIPOは歴史を作りました。 1か月経って勢いがなくなったでしょうか？
+- 公開されました
+スペースXの投資家らは、上場企業としての最初の1カ月で祝賀ムードから明らかな懸念へと揺れ動いた。
+イーロン・マスク氏が共同設立し率いていた同社の株式が6月12日に初めて公開株式市場で個人が購入できるようになったとき、投資家は熱狂した。
+同社は自社株の価格を1株当たり135ドルに決定していたが、その初日に株価はすぐに150ドルまで急騰し、176ドルまで上昇し、160.95ドルで取引を終えた。
+これによりSpaceXは史上最大の新規株式公開（IPO）としての地位を確立した。
+翌週、同社の株価はさらに上昇し、日中最高値の225ドルを記録した。これは、時価総額でアマゾンとマイクロソフトを上回ったことを意味する。
+投資調査会社CFRAのアナリスト、キース・スナイダー氏は、「イーロン・マスク氏の場合、彼が関わる企業はすべて人々を興奮させる」と語る。 「しかし、人々がAI劇として売り出されたものに投資できると感じたのもこれが初めてだった。」
+個人投資家が非公開企業に資金を投入できるように支援するネオステラーの投資家ウィリー・リー氏も、IPOの興奮は人工知能（AI）に大きく寄せられていたことに同意した。
+「誰もがSpaceXをAIの物語として見ていた」と彼は語った。
+SpaceXは今年初めにマスク氏のAI新興企業xAI（最近社名をSpaceXAIに変更した社外）を買収し、物議を醸したチャットボットGrokで最もよく知られ、データセンター容量の他のハイテク企業へのリースも開始した。
+しかし、同社の主な事業はスターリンクと呼ばれるロケットと通信衛星の製造と打ち上げだ。大規模なデータセンタープロジェクトに対する地元の懸念を受けてスターリンクがテネシー州メンフィス地域で価格を引き下げると発表すると、スペースX株はその日8％下落した。
+SpaceXが現在どのようにして利益を上げているのかという現実がより明確になってきたように見えるにつれ、同社の株価は下がり始めた。
+ハイテク株にとってここ数週間の激動の中でも、スペースXは特に打撃を受けている。
+例えば、7月7日に同社がナスダック100指数に追加されたとき、指数は1.7％下落したにもかかわらず、スペースXは4.4％下落した。 FTSEラッセル指数への以前の追加は株価をわずかに押し上げた。
+スペースXはコメント要請に応じなかった。
+最初の取引月の終わり時点で、スペースXの株価は1株あたり約145ドルで販売されており、取引初日の高値より約18％安、これまでのピークより35％安となっている。
+「間違いなく水中にいる」
+このような価格下落は、取引開始から最初の5日間にスペースX株を購入した個人投資家が投資損失の可能性を検討していることを意味する。
+「最初のティック付近で買ったとしたら、間違いなく水中にいるだろう」とスナイダー氏は言う。
+「ミーム株のように見え始めた」とスナイダー氏は付け加え、ゲームストップや最近では社外のウェンディーズの例を挙げ、個人投資家がオンラインでの興奮した会話以上に株価をつり上げている。
+同氏は、同社の業績に基づいてスペースXの株価がさらに下がり、1株あたり115ドル程度になると予想している。そうすれば、同社の価値は約1兆5000億ドルとなる。
+マージャーマーケットの株式資本市場分析責任者であるサミュエル・カー氏は、これまでの株価の変動は投資家によって異なる影響を与えるだろうと指摘した。
+カー氏は、スペースX社の提示価格135ドルでスペースX社を購入できた投資家グループ、またはIPO前の同社株式を保有していたインサイダーグループを指して、「あなたがIPO投資家なら大丈夫だ」と語った。
+「最初の数日で購入した人は、今はあまり満足していないでしょう」とカー氏は付け加えた。
+それにもかかわらず、マスク氏はスペースXの事業見通しについて熱意以外はほとんど表明していない。
+マスク氏は、同社の上場により世界初の大富豪となった後、スペースXは2030年までに年間1兆ドルの収益を得るだろうと述べた。
+マスク氏はまた、スペースX株とそのボラティリティを通貨として利用する用意があり、喜んで利用する用意があることも示した。
+6月16日に株価が急騰したとき、スペースXはコンピューターコードを書くためのAIボットを開発した新興企業カーソルを600億ドル相当の全株式取引で買収すると発表した。
+その時点でSpaceX株がどれだけの価値を得ていたかを考えると、マスク氏はその時点でCursorを実質的に無料で購入したことになる。
+カー氏はカーサー社の買収について、「他の発行体にはほぼないレベルの市場の洗練性を示した」と述べた。
+それ以来、スペースX株は下落している。
+収益に注目
+スペースXのIPOでリードバンカーだったモルガン・スタンレーは、今回の下落はつなぎになると考えているようだ。
+同社は先週、財務アナリストらによる取材を開始し、社外目標株価をこれまでの最高値から33％上昇する300ドルに設定した。
+上場に必要な財務情報開示によると、スペースXは現在赤字で運営されており、昨年は180億ドルの収益をあげた。
+マスク氏の予想売上高1兆ドルはその約55倍だ。
+現時点では、同社の初の公開決算報告に期待が高まっている。スペースXはまだその日程を発表していないが、金融アナリストらは8月初旬に開催されると予想している。
+同社の決算は、報酬の一部として受け取った同社株の売却を禁止されていたスペースX従業員が公開市場に移行できるようになる、いわゆる「ロックアップ」期間の終了と同時となる可能性が高い。
+より多くの株式が売り出され、さらにスペースXの事業と将来の成長についてより詳細な説明が行われる可能性があれば、さらに劇的な価格変動が生じる可能性がある。
+「スペースXが言うことをすべて実行できるなら、そう、投資家は史上最も価値のある企業に注目していることになる」とカー​​氏は語った。
+「しかし、そこに到達するにはやるべきことがたくさんあります。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-13T07:19:57+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab1/live/ee081470-7c79-11f1-b976-0b9c15b0ccfc.png",
+    readTime: 6,
+  },
+  {
+    id: "us-and-iran-trade-fire-as-tensions-rise-4645adbf",
+    title: "US and Iran trade fire as tensions rise over Strait of Hormuz",
+    titleJa: "ホルムズ海峡で緊張高まる米国とイランの交戦",
+    summaryJa: "ホルムズ海峡で緊張高まる米国とイランの交戦- 公開されました",
+    bodyOriginal: `US and Iran trade fire as tensions rise over Strait of Hormuz
+- Published
+The US launched a new attack on Iran on Sunday evening, continuing days of strikes between the two countries. Iranian state media reported that the strikes killed one person in southwestern Iran, while four were injured.
+Within hours of the fresh US strikes, Iran's Islamic Revolutionary Guard Corps (IRGC) said it had struck US military bases in Kuwait, Jordan and Bahrain.
+The escalating attacks, which cast doubt over the future of the interim US-Iran agreement signed in June, come amid conflicting claims over whether the Strait of Hormuz is open.
+Iran says it has closed the key waterway until further notice, while the US insists it is open.
+On Sunday evening, Centcom announced another round of strikes against Iran, which it said started at 17:00 ET (22:00 BST).
+Dozens of Iranian military targets, including air-defence systems, coastal radar sites, and missile and drone capabilities were struck, it said later.
+US forces were "prepared to ensure that freedom of navigation remains available to commercial shipping despite Iran's continued unwarranted aggression, harassment, threats, and arbitrary declarations," Centcom said.
+Minutes before the initial Centcom announcement, Iranian state TV reported explosions in Sirik, Qeshm, Bandar Abbas and Jask.
+"Following the attack of the American enemy on Monday morning... one person was martyred and four others were injured," IRNA reported, citing the deputy governor for security and law enforcement in Khuzestan province, Valiollah Hayati.
+Oil prices jumped on Monday in Asia. Brent crude was up by 4.3% at $79.26 (£59.22) a barrel, while US-traded oil also rose by 4.3% to $74.50.
+Energy prices on global wholesale markets have swung wildly in recent months as traders reacted to developments in the conflict.
+Shortly after the US and Israel attacked Iran on 28 February Tehran effectively closed the Strait of Hormuz, through which around 20% of the world's oil and liquefied natural gas (LNG) usually passes.
+Despite the latest gains, prices are well below the more than $120 a barrel mark Brent reached at the end of April.
+The new wave of US strikes on Sunday evening, came after US forces hit 140 Iranian military targets, Centcom said on Saturday evening.
+Iran's Islamic Revolutionary Guard Corps (IRGC) responded to those strikes with wide-ranging attacks on US bases and allies across the region, marking an escalation in the scale of hostilities.
+Among those targeted by Iran were Qatar, a mediator in ceasefire talks which had not been attacked since April, and the UAE, which had not been attacked since May. The BBC has approached US Central Command (Centcom) for comment on an attack in Jordan.
+The renewed fire has put in jeopardy an interim ceasefire agreement signed last month, which aimed to reopen the strait and eventually bring a permanent end to the conflict.
+Earlier this week, US President Donald Trump declared the Iranian attacks meant the ceasefire was over, while Iran's Foreign Minister Abbas Araghchi accused the US of violating the deal.
+However, Trump said talks would still continue and mediators were trying to revive the process.
+On Sunday, US Central Command insisted the Strait was open, warning the US military was in position to make sure it stayed free-flowing.
+Additional reporting by Goncheh Habibiazad.
+Related topics
+- Published11 hours ago
+- Published18 June`,
+    bodyJa: `ホルムズ海峡で緊張高まる米国とイランの交戦
+- 公開されました
+米国は日曜夜にイランへの新たな攻撃を開始し、両国間の攻撃は数日間続いた。イラン国営メディアは、この空爆によりイラン南西部で１人が死亡、４人が負傷したと報じた。
+米国の新たな攻撃から数時間以内に、イランイスラム革命防衛隊（IRGC）はクウェート、ヨルダン、バーレーンの米軍基地を攻撃したと発表した。
+6月に署名された米国とイランの暫定合意の将来に疑問を投げかける攻撃の激化は、ホルムズ海峡が開いているかどうかをめぐる主張の対立の中で起こっている。
+イランは追って通知があるまで主要水路を閉鎖していると主張しているが、米国は開いていると主張している。
+日曜日の夕方、セントコムはイランに対する追加攻撃を発表し、東部時間17時（BST22時）に開始したと発表した。
+その後、防空システム、沿岸レーダーサイト、ミサイルや無人機の能力を含む数十のイランの軍事目標が攻撃されたと発表した。
+セントコムは、米軍は「イランの不当な侵略、嫌がらせ、脅迫、恣意的な宣言が続いているにもかかわらず、商船の航行の自由を確保する準備ができていた」と述べた。
+最初のセントコムの発表の数分前に、イラン国営テレビはシリク、ケシュム、バンダル・アッバス、ジャスクで爆発があったと報じた。
+ＩＲＮＡはフゼスターン州の治安・法執行担当副知事ヴァリオラ・ハヤティ氏の話として、「月曜朝の米敵の攻撃を受けて…１人が殉教し、他の４人が負傷した」と報じた。
+月曜日、アジアでは原油価格が急騰した。ブレント原油は4.3％上昇して1バレルあたり79.26ドル（59.22ポンド）、米国で取引される原油も4.3％上昇して74.50ドルとなった。
+トレーダーらが紛争の展開に反応したため、世界の卸売市場のエネルギー価格はここ数カ月で大きく変動した。
+2月28日に米国とイスラエルがイランを攻撃した直後、イランは通常、世界の石油と液化天然ガス（LNG）の約20％が通過するホルムズ海峡を事実上封鎖した。
+最近の上昇にもかかわらず、価格はブレントが4月末に達した1バレル当たり120ドルを超える水準を大きく下回っている。
+日曜夕方の米国の新たな攻撃の波は、米軍がイランの軍事目標140カ所を攻撃した後に起こったとセントコムは土曜夜に発表した。
+イランのイスラム革命防衛隊（IRGC）はこれらの攻撃に応じて、地域全体の米軍基地と同盟国に対する広範な攻撃を行い、敵対行為の規模の拡大を示した。
+イランの標的となった国の中には、停戦交渉の仲介国で4月以来攻撃されていないカタールや、5月以来攻撃されていないUAEも含まれていた。 BBCはヨルダンでの攻撃に関するコメントを求めて米中央軍（セントコム）に問い合わせた。
+新たな火災により、海峡の再開と最終的に紛争の恒久的な終結を目指す先月署名された暫定停戦合意が危うくなった。
+今週初め、ドナルド・トランプ米大統領はイランの攻撃は停戦の終了を意味すると宣言し、イランのアッバス・アラグチ外相は米国が協定に違反していると非難した。
+しかし、トランプ大統領は、交渉はまだ継続しており、調停者はプロセスを復活させようとしていると述べた。
+日曜日、米中央軍は海峡は開いていると主張し、米軍は海峡の自由な流れを確保する立場にあると警告した。
+Goncheh Habibiazad による追加レポート。
+関連トピック
+- 11 時間前に公開
+- 6 月 18 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-13T05:00:46+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03f/live/5cc84d20-7e6a-11f1-bee8-53ce494e1abc.jpg",
+    readTime: 4,
+  },
+  {
     id: "sk-hynix-shares-slide-12-in-seoul-after-b599c41c",
     title: "SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut",
     titleJa: "SKハイニックス株、ナスダック市場での好調なデビュー後、ソウル市場で12％下落",
@@ -1760,442 +2080,6 @@ Araghchi said the move was a violation of the June memorandum of understanding b
     publishedAt: "2026-07-11T12:51:50+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "funflation-hits-home-why-staying-in-isn-c6e4bc72",
-    title: "'Funflation' hits home: Why staying in isn't the cost-saver it used to be",
-    titleJa: "「ファンフレーション」が心に刺さる: 住み続けることが以前のようなコスト削減ではない理由",
-    summaryJa: "何十年もの間、ビデオゲームはアリックス・グリーンにとって頼りになる趣味でした。しかし近年、グリーンは割高感を感じている。イリノイ州の大学院生は、大作を購入する代わりに、小規模スタジオの安価な代替品を選択したり、ボード ゲームやカード ゲームに目を向けたりしました。場合によっては、31 歳の彼は、実際にゲームをプレイする代わりに、YouTube で他の人が人気のゲームをプレイしているビデオを見ることもあります。",
-    bodyOriginal: `For decades, video games have been a go-to hobby for Alyx Green. But in recent years, Green has felt priced out.
-Instead of buying the biggest releases, the Illinois graduate student has opted for cheaper alternatives from smaller studios or turned to board and card games. In some cases, the 31-year-old watches videos of others playing hot games on YouTube in lieu of actually playing.
-"The price has been going up," Green said. "It's just hard to keep up."
-U.S. consumers have for years grappled with "funflation," used to describe the sharply higher prices for live experiences like concerts or sporting events that were halted during pandemic lockdowns.
-Sticker shock first felt by consumers outside the home is now following them into their living rooms. After a wave of price hikes from some of the world's largest companies, including Amazon, Apple and Netflix, even at-home pastimes like streaming movies or playing video games are pinching the pocketbooks of consumers like Green.
-Exclusive data analyzed for CNBC by PNC Financial Services shows that, as pricing pressures mounted, the average consumer pulled back on home entertainment in June compared with a year ago. That was most prominent among Gen Z and Millennial consumers, who each cut their transactions by about 4%.
-"Funflation is back in 2026," said Brian LeBlanc, PNC's senior economist.
-"We're seeing that very clearly in things like travel, entertainment, concerts," LeBlanc said. Now, "we're also starting to see it more in home leisure."
-Unwelcome news
-Microsoft's Xbox and Apple each announced price hikes for devices in late June, which Apple acknowledged in a statement was "not welcome news." A month earlier, Nintendo said that it was raising the price of its Switch 2 in the U.S. by 11%.
-Companies blamed higher prices on more expensive components as a result of the artificial intelligence-driven memory chip crunch.
-Deborah Weinswig, founder of Coresight Research, said some of the increases could price out consumers.
-Xbox CEO Asha Sharma said in recent interviews that gaming is becoming unaffordable and that the company will focus on making less-costly consoles. Microsoft announced this week that it was laying off thousands of workers in its Xbox unit and spinning off several gaming studios.
-"We've reached a point where it will be hard to imagine that mass audiences can afford thousands of dollars to spend on a console generation," Sharma said on stage during a Fortune event early last month.
-Computers and related devices had gotten cheaper over time, adjusted for inflation and their capacity, as production became more efficient. But that trend has begun to reverse as component costs take off, meaning the disinflationary relief for shoppers looks to be coming to an end, said Elizabeth Renter, NerdWallet senior economist.
-Powering these devices — along with air-conditioning units that are running more thanks homebodies — has also gotten more expensive. Electricity prices have skyrocketed 45% since 2019, partially driven by supply shocks tied to the Russian invasion of Ukraine in 2022, and the war with Iran in 2026, according to government data.
-'Streamflation'
-Several major streaming services have also raised their subscription prices, a phenomenon dubbed "streamflation."
-Netflix, Amazon and Spotify announced increases for their platforms earlier this year, following similar moves by Disney and Warner Bros. Discovery's HBO Max in late 2025. Apple raised prices for its TV+ service in mid-2025, its third increase in as many years.
-Tubi, the free service from Fox Corp., has seen its viewership numbers exceed those of the leading streamers in some cases. Executives have bet that consumers tired of rising monthly subscriptions would be willing to watch ads in exchange for free content.
-Fiona Williams said she regularly subscribes to services and then cancels to keep her spending manageable. Sometimes, the project manager skips out altogether. Rather than purchasing a Peacock membership for the newest season of the hit dating show "Love Island," for example, she watches clips from episodes on social media platforms to follow along with the latest developments.
-"It's a balancing act," said Williams, 40. "But I'm never maintaining more than one at a time, because it's just too expensive."
-The Akron, Ohio, resident has shifted some of her downtime to reading reading books, which haven't seen the same price increases as other leisure categories.
-The Bureau of Labor Statistics reported a 53% surge in the price of subscribing or renting videos and video games since the start of 2019, while TV services climbed 27% and music subscriptions by 14%. Recreational book prices, on the other hand, have fallen 4%.
-Pressure on consumers
-Annual inflation spiked in out-of-home "funflation" categories, like sporting events and amusement park visits, in 2026, according to the data analysis from PNC. The Pittsburgh-based bank said these service categories are once again putting upward pressure on the core personal consumption expenditures price index, Federal Reserve policymakers' favorite measurement of inflation.
-This year's FIFA World Cup, co-hosted by the U.S., has fetched a median ticket price topping $900, TicketData said this week. When asked about fan anger over ticket costs, FIFA President Gianni Infantino told CNBC that attending a match in the U.S. was a "once-in-a-lifetime opportunity" with demand dwarfing that of past tournaments.
-Economists warn that higher prices on recreational activities — whether in or out of the home — can further intensify the average Joe's economic pessimism. Consumer sentiment has dropped to record lows in recent months, according to a closely followed index from the University of Michigan.
-"The ability to play games and get out of my own life for a second was a major way for me to have some sort of happiness," said Green, the student in Illinois. "Now, the overall economy is getting worse, and I don't have any distractions from it."
-— CNBC's Natalie Rice contributed to this report.`,
-    bodyJa: `何十年もの間、ビデオゲームはアリックス・グリーンにとって頼りになる趣味でした。しかし近年、グリーンは割高感を感じている。
-イリノイ州の大学院生は、大作を購入する代わりに、小規模スタジオの安価な代替品を選択したり、ボード ゲームやカード ゲームに目を向けたりしました。場合によっては、31 歳の彼は、実際にゲームをプレイする代わりに、YouTube で他の人が人気のゲームをプレイしているビデオを見ることもあります。
-「価格は上昇している」とグリーン氏は語った。 「ついていくのが大変なんです。」
-米国の消費者は長年にわたり、パンデミックによるロックダウン中に中止されたコンサートやスポーツイベントなどのライブ体験の価格が急激に上昇することを指す「ファンフレーション」に悩まされてきた。
-消費者が最初に家の外で感じたステッカーショックは、今ではリビングルームにも押し寄せています。アマゾン、アップル、ネットフリックスなどの世界最大手企業の相次ぐ値上げを受けて、映画のストリーミングやビデオゲームなどの家庭での娯楽さえ、グリーンのような消費者の財布を圧迫している。
-PNCファイナンシャル・サービスがCNBC向けに分析した独占データによると、価格圧力が高まる中、平均的な消費者は6月に1年前と比べてホーム・エンターテイメントを控えたことが明らかになった。この傾向はZ世代とミレニアル世代の消費者の間で最も顕著で、それぞれ取引額が約4％減少した。
-PNCのシニアエコノミスト、ブライアン・ルブラン氏は「2026年にはファンフレーションが戻ってくる」と述べた。
-「旅行、エンターテインメント、コンサートなどでそれがはっきりと見られます」とルブラン氏は語った。今では、「家庭でのレジャーでもそれが増え始めています。」
-歓迎されないニュース
-マイクロソフトのXboxとアップルはそれぞれ6月下旬に端末の価格引き上げを発表したが、アップルは声明で「歓迎すべきニュースではない」と認めた。 1か月前、任天堂は米国でのSwitch 2の価格を11％値上げすると発表した。
-企業は、人工知能によるメモリチップの需要不足の結果、部品価格が高騰したためだと主張した。
-コアサイト・リサーチの創設者デボラ・ワインスウィッグ氏は、値上げの一部は消費者に価格を割く可能性があると述べた。
-Xbox CEO のアシャ・シャルマ氏は最近のインタビューで、ゲームは手の届かないものになりつつあるため、同社はより低コストのゲーム機の製造に注力すると述べた。マイクロソフトは今週、Xbox部門の従業員数千人を解雇し、複数のゲームスタジオを分社化すると発表した。
-シャーマ氏は先月初め、フォーチュンのイベントのステージ上で、「大衆の視聴者がコンソール世代に数千ドルを費やす余裕があるとは想像しにくい段階に達している」と語った。
-コンピューターと関連デバイスは、生産の効率化に伴い、インフレとその容量を考慮して、時間の経過とともに安価になりました。しかし、ナードウォレットのシニアエコノミスト、エリザベス・レンター氏は、部品価格の高騰に伴いこの傾向は逆転し始めており、これは買い物客に対するディスインフレ緩和が終わりに近づいていることを意味していると述べた。
-これらの機器への電力供給は、家庭のおかげでより稼働しているエアコンと同様に、さらに高価になってきています。政府のデータによると、電力価格は2019年以来45％高騰しており、これは2022年のロシアによるウクライナ侵攻と2026年のイランとの戦争に伴う供給ショックが一因となっている。
-「ストリームフレーション」
-いくつかの大手ストリーミングサービスもサブスクリプション価格を値上げしており、この現象は「ストリームフレーション」と呼ばれている。
-2025年後半のディズニーとワーナー・ブラザース・ディスカバリーのHBO Maxの同様の動きに続き、Netflix、Amazon、Spotifyは今年初めに自社プラットフォームの値上げを発表した。Appleは2025年半ばにTV+サービスの値上げを行い、ここ数年で3回目の値上げとなった。
-Fox Corp.の無料サービスである Tubi の視聴者数は、場合によっては大手ストリーマーの視聴者数を上回っています。幹部らは、月額料金の値上がりに飽き飽きした消費者が無料コンテンツと引き換えに広告を視聴するだろうと予想している。
-フィオナ・ウィリアムズさんは、定期的にサービスに加入し、その後は支出を管理できるように解約していると語った。場合によっては、プロジェクトマネージャーが完全にサボることもあります。たとえば、彼女は人気恋愛番組「ラブ アイランド」の最新シーズンのためにピーコックの会員権を購入するのではなく、ソーシャル メディア プラットフォームでエピソードのクリップを視聴して最新の展開を追いかけています。
-40歳のウィリアムズ氏は、「これはバランスを取るための行為だ。しかし、私は一度に複数を維持することは決してない。なぜなら、それはあまりにも高価だからだ」と語った。
-オハイオ州アクロン在住の彼女は、オフタイムの一部を読書に充てているが、他のレジャーカテゴリーに比べて値上がりは見られていない。
-労働統計局の報告によると、2019年初め以降、ビデオやビデオゲームの購読またはレンタルの価格が53％上昇し、テレビサービスは27％、音楽サブスクリプションは14％上昇した。一方、娯楽本の価格は4％下落した。
-消費者への圧力
-PNCのデータ分析によると、2026年にはスポーツイベントや遊園地訪問など、家庭外の「ファンフレーション」カテゴリーで年間インフレが急増した。ピッツバーグに本拠を置く銀行は、こうしたサービスカテゴリーが、連邦準備理事会の政策当局者が好むインフレ指標であるコア個人消費支出価格指数に再び上昇圧力をかけていると述べた。
-米国と共催される今年のFIFAワールドカップのチケット価格の中央値は900ドルを超えたと、チケットデータが今週発表した。 FIFAのジャンニ・インファンティーノ会長は、チケット代をめぐるファンの怒りについて問われ、CNBCに対し、米国での試合観戦は「一生に一度の機会」であり、需要は過去の大会をはるかに下回ると語った。
-エコノミストらは、家の内外を問わず、レクリエーション活動の価格が高騰すると、平均的なジョーの経済的悲観がさらに強まる可能性があると警告している。ミシガン大学が注意深く監視している指標によると、消費者心理はここ数カ月で記録的な最低水準に低下している。
-イリノイ州の学生グリーンさんは、「ゲームをして自分の生活から一瞬だけ抜け出せることは、私にとってある種の幸福を得る大きな方法だった」と語った。 「現在、経済全体が悪化していますが、それから気を紛らわせることはできません。」
-— CNBC のナタリー・ライスがこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
-    publishedAt: "2026-07-11T12:47:23+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "day-to-day-dread-haunts-frustrated-job-065a1f24",
-    title: "‘Day-to-day dread’ haunts frustrated job seekers in era of low hiring. When will it end?",
-    titleJa: "採用率が低い時代に、不満を抱えた求職者は「日々の恐怖」につきまとわれます。いつ終わるの？",
-    summaryJa: "数年前まで仕事を見つけるのは簡単でした。現在、失業率は歴史的に低いにもかかわらず、アメリカ人は自分たちの雇用の見通しを心配しています。",
-    bodyOriginal: `Finding a job was easy a few years ago. Now, Americans are worried about their job prospects, even though the unemployment rate is historically low.`,
-    bodyJa: `数年前まで仕事を見つけるのは簡単でした。現在、失業率は歴史的に低いにもかかわらず、アメリカ人は自分たちの雇用の見通しを心配しています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories",
-    publishedAt: "2026-07-11T12:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-62482490",
-    readTime: 2,
-  },
-  {
-    id: "reeves-tells-bbc-burnham-needs-worked-th-07f6aaeb",
-    title: "Reeves tells BBC: Burnham needs worked-through plan to govern from the start",
-    titleJa: "リーブス氏はBBCに「バーナム氏は最初から統治するには綿密な計画が必要だ」と語る",
-    summaryJa: "リーブス氏はBBCに「バーナム氏は最初から統治するには綿密な計画が必要だ」と語る- 公開されました",
-    bodyOriginal: `Reeves tells BBC: Burnham needs worked-through plan to govern from the start
-- Published
-Rachel Reeves has warned the incoming prime minister, Andy Burnham, that he needs to be properly prepared to govern when he arrives in Downing Street in a little more than a week.
-Speaking exclusively to the BBC in what is likely to be her last major interview as chancellor, Reeves told Laura Kuenssberg that "it is important that when Andy walks through that door he has a worked-through plan, because governing is hard in Britain, and lots of challenges and shocks will come his way".
-She said Burnham and his team coming into Downing Street must be "really clear about what they want to achieve", and that "he needs to stay laser-focused on those things that have always motivated him, have always driven him".
-Asked why Sir Keir Starmer's time in office was coming to an end, she said: "People are impatient for change - I'm impatient for change and I totally get that people want to see their lives changed faster."
-We sat down in one of the lavish 17th Century state rooms upstairs in No 11 Downing Street - exactly the same room where she gave her first full interview as chancellor in July 2024.
-She would never have suspected then that she and her next-door neighbour would be moving out just 24 months later. Reeves wouldn't explicitly say who should be the next chancellor, or even if she would like to stay.
-She has always told us that being chancellor is her "dream job". She and her team clearly do not expect to stay in No 11, but with the incoming No 10 team tight-lipped about its cast list, we just don't know.
-Reeves said that she had returned "stability and trust" to the economy over the past two years, and that "Andy will take over an economy that is much stronger than the one I inherited from the Conservatives just two years ago."
-In the interview, Reeves wanted to focus on what she described as the "big picture" - government borrowing costs that have gone down, inflation way down from its peak, increased investment in infrastructure like roads and railways, and the economy growing faster than the UK's nearest competitors.
-But by other measures, there are still big problems in the economy. Inflation is still above target and is expected to rise, growth has been slow, and just this week, the Bank of England warned that interest rates might have to go up again.
-The country's debts are due to be higher at the end of this parliament than they were when Labour moved in. And more than anything else, firms and families' spending power is still under pressure, with the latest ONS figures showing disposable income falling.
-One former senior minister told me Reeves had "spent a lot of time and energy painting a picture of her grim inheritance in the expectation things would brighten up quickly and she could claim credit".
-"By the time she found that things were different, with tight public finances, mushrooming welfare, and the economy stuck in a low-growth trap, she had used up all her political capital and was unable to win the big arguments on welfare reform," they said.
-"It's all actually sad because I think her instincts are generally OK, but by the time she figured out the right things to do, it was too late".
-A close political ally of Starmer, Reeves became shadow chancellor in 2021 as Labour campaigned to return to power, resulting in their landslide victory two years ago.
-Many Labour MPs believe mistakes made in No 11 soured the prospects for Starmer's government soon after he and Reeves moved into Downing Street. Starmer himself has pointed to the decision to take away the winter fuel allowance from millions of pensioners, later partly reversed, as being one of the government's errors.
-A senior Labour figure told me: "She'd underestimated the desire for radical change, and lacked political nous on key decisions like winter fuel."
-Reeves however, would not acknowledge this had been a specific problem, and was eager to highlight the progress she believed the economy has made on her watch. Nor was she in the mood to admit that her relationship with business had worsened after she hiked National Insurance tax for employers.
-One City source told me the increasing costs for business had an immediate effect, and led to them laying off staff. "There was so much goodwill, but it was genuinely staggering - it just went in a few weeks," they said.
-Reeves credited her decisions as the first female chancellor with creating a "rock of stability and trust", but acknowledged there had been tough moments in office.
-She said the worst had been when she was seen in tears in the House of Commons during a session of Prime Minister's Questions in July last year. Reeves said: "Don't cry on national television. That was probably my toughest moment, or perhaps even tougher, seeing the photos of me crying on national television on the front page of pretty much every newspaper the following day."
-Asked if she was disappointed that Burnham has been planning his time as PM for a year, as a Labour MP admitted this week, she said: "I think it is perfectly reasonable for people to have ambition. Andy has never shied away from the fact that he wanted at some point to lead the Labour Party. And I want him to be ready for that, because I want it to be a success and I am sure he will be."
-- Published27 June
-- Published2 days ago`,
-    bodyJa: `リーブス氏はBBCに「バーナム氏は最初から統治するには綿密な計画が必要だ」と語る
-- 公開されました
-レイチェル・リーブスは次期首相アンディ・バーナムに対し、1週間強後にダウニング街に到着する際には適切に統治する準備をしておく必要があると警告した。
-首相として最後の重要なインタビューとなる可能性が高いBBCの独占インタビューで、リーブス氏はローラ・クエンスバーグに対し、「アンディがそのドアをくぐるとき、綿密な計画を持っていることが重要だ。なぜなら英国では統治が難しく、多くの課題やショックがアンディに降りかかるからだ」と語った。
-彼女は、ダウニング街に来るバーナムと彼のチームは「何を達成したいのか本当に明確」でなければならず、「彼は常に自分を動機づけ、常に自分を駆り立ててきたものにレーザーの焦点を合わせ続ける必要がある」と語った。
-キア・スターマー卿の任期が終わりに近づいている理由を尋ねると、彼女はこう語った。「人々は変化を待ち望んでいます。私も変化を待ち望んでいますし、人々が自分たちの生活がより早く変わることを望んでいることはよくわかります。」
-私たちはダウニング街11番地の上階にある17世紀の豪華な大広間のひとつに座った。彼女が2024年7月に首相として最初の完全なインタビューを行ったのとまったく同じ部屋だ。
-そのとき彼女は、自分と隣人がわずか 24 か月後に引っ越しをすることになるとは思いもしなかったでしょう。リーブス氏は誰が次期首相になるべきか、あるいは留任したいかどうかについても明言しなかった。
-彼女はいつも私たちに、首相になることが彼女の「夢の仕事」であると語ってきました。彼女と彼女のチームは明らかに11位に留まることを期待していないが、次の10位チームがキャストリストについては口を閉ざしているため、私たちには分からない。
-リーブス氏は、過去２年間で経済に「安定と信頼」を取り戻したと述べ、「アンディ氏は私が２年前に保守党から引き継いだ経済よりもはるかに強力な経済を引き継ぐだろう」と語った。
-インタビューの中でリーブス氏は、彼女が「全体像」と表現したもの、つまり政府の借入コストの低下、インフレ率のピーク時からの大幅な低下、道路や鉄道などのインフラへの投資の増加、そして英国の最も近い競合国よりも急速に成長している経済に焦点を当てたいと考えた。
-しかし、別の観点から見ると、経済には依然として大きな問題が残っている。インフレ率は依然として目標を上回っており、今後も上昇すると予想されており、成長は鈍化しており、つい今週、イングランド銀行は金利を再び引き上げる必要があるかもしれないと警告した。
-国の債務は今議会終了時には労働党が政権を握った時よりも高くなる見通しだ。そして何よりも、ONSの最新統計で可処分所得が減少していることから、企業や家族の購買力は依然圧迫されている。
-ある元上級大臣は、リーブスさんが「状況がすぐに明るくなり、自分の功績を主張できると期待して、彼女の悲惨な遺産の全体像を描くのに多くの時間とエネルギーを費やした」と私に語った。
-「財政が逼迫し、福祉が急成長し、経済が低成長の罠に陥っているなど、状況が異なっていることに気付いた時には、彼女は政治資金をすべて使い果たし、福祉改革に関する大きな議論に勝つことができなかった」と彼らは述べた。
-「本当に悲しいことです。彼女の本能は概ね大丈夫だと思うのですが、彼女が何をすべきかを理解した時にはもう手遅れでした。」
-スターマー氏の親密な政治的同盟者であるリーブス氏は、労働党が政権復帰を目指して運動し、２年前に地滑り的な勝利を収めた2021年に影の首相に就任した。
-多くの労働党議員は、スターマー氏とリーブス氏がダウニング街に引っ越した直後、11番氏のミスがスターマー政権の見通しを悪化させたと信じている。スターマー自身も、何百万もの年金受給者から冬季燃料手当を剥奪するという決定（後に一部取り消された）は政府の誤りの一つであると指摘している。
-労働党の幹部は私にこう語った。「彼女は急進的な変化への欲求を過小評価しており、冬季燃料のような重要な決定に関して政治的名声を欠いていた。」
-しかし、リーブス氏はこれが特定の問題であったことを認めず、彼女が見守ってきた経済の進歩を熱心に強調したがった。また、雇用主向け国民保険税を引き上げた後、企業との関係が悪化したことを認める気もなかった。
-ある市関係者は、事業コストの増加が直ちに影響を及ぼし、職員の解雇につながったと私に語った。 「非常に多くの善意がありましたが、それは本当に驚くべきことでした。ほんの数週間で終わってしまったのです」と彼らは語った。
-リーブス氏は、初の女性首相としての自身の決断が「安定と信頼の岩」を生み出したと評価したが、就任中に厳しい時期もあったことを認めた。
-彼女は、昨年7月の首相質疑中に下院で涙を流しているところを目撃されたのが最悪だったと語った。リーブスさんは、「国営テレビで泣くな。翌日、ほぼすべての新聞の一面に全国テレビで泣いている私の写真を見たときが、おそらく私にとって最もつらかった、あるいはそれ以上につらかった」と語った。
-労働党議員が今週認めたように、バーナム氏が1年間首相としての任期を計画していたことに失望しているのかとの質問に、彼女はこう答えた。「人々が野心を抱くのは全く当然のことだと思う。アンディは、いつか労働党を率いていきたいという事実から逃げたことは一度もなかった。そして、私は彼にその準備をしてもらいたい。なぜなら、私はそれを成功させたいし、彼は必ずそうするだろうから。」
-- 6 月 27 日発行
-- 2 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwykdvgv4d4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-11T12:00:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4172/live/943434a0-7d24-11f1-ba31-ed66fa13cdef.jpg",
-    readTime: 6,
-  },
-  {
-    id: "burnout-frustration-and-heartbreak-amazo-5c51a6b6",
-    title: "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
-    titleJa: "燃え尽き症候群、フラストレーション、失恋: アマゾンの人員削減が飽和した雇用市場に大きな打撃を与える",
-    summaryJa: "1 月の早朝、ジェイク リンズリーさんは、携帯電話が点灯するアマゾンからのテキスト メッセージで目が覚めました。「『荷物が遅れています』と言っているのかと思いました」とリンズリーさんはインタビューで語った。 「もう一度読んで、『なんてことだ、私はクビになったんだ』と思った。」",
-    bodyOriginal: `On an early morning in January, Jake Linsley woke up to a text from Amazon that was lighting up his phone.
-"I thought it was saying, 'Your package is delayed,'" Linsley said in an interview. "I read it again and was like, 'Holy s---, I got fired.'"
-Linsley, who worked as a finance manager at Amazon for nearly six years, was one of roughly 16,000 employees swept up in the company's mass layoffs in late January. Combined with the more than 14,000 staffers let go three months earlier, it marked the steepest cuts in Amazon's history.
-As an Amazon employee, Linsley was part of an American corporate elite: working for a tech giant with opportunities for growth, promotion, high salaries and enviable perks. But he and the other laid-off workers suddenly entered the harsh reality of a job market being rapidly reshaped by artificial intelligence — and competing with hordes of others who had been let go b Meta, Salesforce and Cisco. In some cases, the jobs they'd been hired to do simply don't exist anymore. And the tech giants continue to cut roles in part to fund the hundreds of billions of dollars they're investing in AI.
-The tech sector has laid off roughly 140,000 employees in the U.S. so far this year, more than any other industry, according to consulting firm Challenger, Gray & Christmas. In May, layoffs across the industry reached their highest for any month since August 2024, before easing in June.
-AI was the main reason companies gave for the cuts for a fourth straight month, Challenger said in a report last week. The firm said AI has been cited in about 23% of all job cut announcements in 2026.
-"Tech remains the epicenter of this year's cuts," Challenger said. "AI is the dominant force as companies are restructuring around it, automating roles and reallocating budgets toward new capabilities. The sector is being reshaped in real time."
-Amazon has been downsizing more aggressively than many of its peers, laying off more than 57,000 staffers since 2022, or roughly 16% of its corporate workforce. According to data from the website Layoffs.fyi, Amazon has accounted for about 13% of the tech industry's cuts this year.
-Amazon CEO Andy Jassy has warned employees that AI "should change the way our work is done," and that in the next few years, efficiency gains from the technology "will reduce our total corporate workforce." The company has looked for ways to unwind its pandemic-era hiring binge and eliminate bureaucracy so that it can operate like "the world's largest startup."
-CNBC spoke to more than a dozen people laid off by Amazon over the past eight-plus months about how they've navigated the job market at a time of swelling industry unemployment and, for many, a sense of diminishing opportunity.
-While some have since landed roles at places like Apple or Salesforce, others are staring at hundreds of unanswered job applications and roles with pay cuts. Some described the dark irony of going all in on AI at Amazon only to find themselves replaced by it.
-Montana MacLachlan, an Amazon spokesperson, said in a statement that the cuts were made to ensure the company can move fast and serve customers. Amazon continues to hire and invest in strategic areas that are critical to its future, she added.
-"We don't make decisions to eliminate roles lightly, and we work hard to support employees who are impacted," MacLachlan said.
-AI wasn't the reason for the vast majority of the layoffs, Amazon said.
-Linsley's job search lasted for about three months, before he took a position in April as a vice president at a health-care IT startup.
-"I'd rather have a stable job than one that can grow 5x and disappear overnight," he said.
-The job hunt
-Courtney Haeflinger applied to hundreds of jobs but struggled to land interviews.
-For months after she was laid off from Amazon Web Services in January, she'd begin her day in front of her computer at 8:30 a.m., diligently scanning job boards and refreshing her inbox, hoping to hear back from recruiters.
-As soon as a job was posted, there would quickly be 200 to 300 applicants, Haeflinger said. She couldn't tell if it was due to the raft of unemployed workers, or if bots were running wild.
-"It makes it harder for us as real job seekers to get in the door," said Haeflinger, 49, who landed a job last week at AT&T. "It's frustrating."
-In the months after her departure from Amazon, the pace of cuts across the industry turned a difficult task into a seeming impossibility.
-Haeflinger applied for a few jobs at Meta, around the time the company was announcing plans to eliminate 10% of its staff. A job at Oracle came across her feed. But when she saw the software vendor was cutting thousands of jobs, she hesitated to apply.
-Amazon, meanwhile, has continued to downsize through smaller rounds, slashing roles in customer service in April, followed by cuts in the third-party seller support division in May, according to people familiar with the matter who asked not to be named because the layoffs weren't made public.
-The company laid off 57 employees in its home state of Washington between May and early June, according to a WARN filing released Monday. The filing doesn't indicate what units were impacted, but software engineers, program managers and product roles were among the job titles listed.
-Dorian Smith was only out of work for about a month after getting laid off by Amazon in January, but he said it was a humbling experience that drove him to take a job at a late-stage startup.
-Smith said he'd thought of Amazon as a "lifelong career," having worked his way up in customer service to a job as a web development engineer over his 10-plus years at the company.
-"It was almost heartbreaking in a way because my identity felt tied to that job," Smith said.
-He applied to at least 250 jobs and only heard back from four companies, all with "generic rejection emails," Smith said. He ultimately connected with a recruiter after posting on LinkedIn, which led him to the startup world.
-"I always had this thought of, 'I have Amazon on my resume, this prestigious thing,'" Smith said. "But when this layoff happened, it was like, 'OK, big deal, so do 30,000 other people.'"
-'New era' of software
-For some former Amazon workers, the layoffs provided an opportunity to reset.
-Yogesh Verma, a former AWS engineer who lost his job in January, called it a "blessing in disguise." The 25-year-old said he soured on Amazon as it enacted a strict return-to-office policy, pressure around AI usage grew and employees were tasked with "building new products haphazardly."
-"Initially, it felt like, 'Oh, what am I going to do now,' but it gradually turned out for the better," Verma said. "The workload was getting higher and higher, and the work-life balance was also getting worse."
-In April, Verma took a slight pay cut to join an AI marketing company that he said offers a "good environment," hybrid work options and an opportunity to learn new skills.
-A former director in Amazon's advertising unit who was laid off in October — and who wished to remain anonymous in order to not jeopardize his job search — said working for a big tech company was a "life changer," but that the job had become a drain on his mental and physical health.
-He said he's taking time off to strengthen his AI coding skills, so that when he reenters the job market, he's better equipped for "software development in this new era."
-Chris DeSantis, who worked as a senior product manager for nearly four years, said he's "happy to take less money" if it means he can work for a company that's closer to the cutting edge of AI. DeSantis, 32, was laid off from Amazon's retail organization in January.
-"When you look at these companies and what they're doing with AI, people like us, engineers and technical product managers, we want to be doing the fun stuff, building things super fast," DeSantis said. "It used to be that going to the bigger companies was that, but now, at least based on the organization I was in, we weren't close to doing the fun stuff."
-Whether it's fun or not, AI has taken over the halls of Amazon.
-Jassy, who replaced founder Jeff Bezos as CEO in 2021, has urged employees to "use and experiment with AI whenever you can," and figure out ways to "get more done with scrappier teams."
-AWS has released a slew of AI tools mostly targeted for enterprises, while also striving to develop more competitive AI models and putting Amazon at the center of the surge in demand for AI compute. The company has infused AI across more surfaces of its e-commerce website, including the search bar, and has revamped its aging Alexa digital assistant with more conversational and agentic features.
-'Rat race'
-While the AI blitz is viewed as essential to keep Amazon relevant in the next era of technology, life at the company now resembles a "rat race," in the words of a current software engineer, who asked not to be named in order to speak candidly on the subject.
-Some Amazon managers track employees' AI activity via internal dashboards, and are instructed by leaders to remind their teams to adopt the tools as much as possible, with certain teams factoring usage into performance reviews, three current and former employees said.
-A former AWS engineer who was laid off in January and also asked to remain unnamed said it had become "abundantly clear that the priority was AI everywhere, regardless of whether it really helped or made sense."
-At the same time, Amazon and other companies are reckoning with the high costs of AI and have taken steps to rein in so-called tokenmaxxing, where developers use AI as much as possible with little regard to output.
-Another former engineer at AWS said Amazon added badges to its internal "phone tool" directory that scored employees' usage of its AI apps called Q, based on the number of tokens they consumed.
-In late May, Amazon shut down a similar phone tool leaderboard, called Kirorank, after it discovered employees were tokenmaxxing to climb up the ranks.
-As it slashes its corporate workforce, Amazon has ramped up its hiring in lower-cost countries like India, according to three former employees who described that dynamic in the organizations where they worked. One of those people — a former manager who was laid off in May — called it a "no-brainer," as the company knows that, compared to Seattle, it can hire people in India at a "fraction of the cost."
-DeSantis, the laid-off product manager, said he adopted a "survivalist mentality" after making it through six rounds of job cuts during his time at Amazon. When his time finally came, DeSantis said he did his best not to take it personally.
-"It really is kind of bizarre when it does happen to you," DeSantis said. "When you look back, it's like there's nothing you could've done."
-WATCH: Long-term unemployment is rising in the U.S. along with its hidden costs to the economy`,
-    bodyJa: `1 月の早朝、ジェイク リンズリーさんは、携帯電話が点灯するアマゾンからのテキスト メッセージで目が覚めました。
-「『荷物が遅れています』と言っているのかと思いました」とリンズリーさんはインタビューで語った。 「もう一度読んで、『なんてことだ、私はクビになったんだ』と思った。」
-リンズリー氏はアマゾンで財務マネージャーとして6年近く働いており、1月下旬に同社の大量解雇の対象となった約1万6000人の従業員のうちの1人だった。 3か月前に1万4000人以上の従業員を解雇したことと合わせると、アマゾン史上最も大幅な人員削減となった。
-アマゾンの従業員として、リンズリーはアメリカの企業エリートの一員でした。成長、昇進、高給、うらやむような特典の機会を備えた巨大テクノロジー企業で働いていました。しかし、彼と他の解雇された労働者は、人工知能によって急速に再形成されている雇用市場という厳しい現実に突然直面し、メタ、セールスフォース、シスコに解雇された大勢の人々と競争している。場合によっては、彼らが雇われていた仕事がもう存在していないということもあります。そして、ハイテク大手は、AIに投資している数千億ドルの資金調達の一環として、役割の人員削減を続けている。
-コンサルティング会社チャレンジャー・グレイ・アンド・クリスマスによると、ハイテク業界は今年これまでに米国で約14万人の従業員を解雇しており、これは他のどの業界よりも多い。 5月には業界全体の人員削減数が2024年8月以来の最高水準に達したが、6月には緩和された。
-チャレンジャー氏は先週の報告書で、企業が4カ月連続で削減を表明した主な理由はAIだったと述べた。同社によると、2026年のすべての人員削減発表の約23％でAIが引用されているという。
-チャレンジャー氏は「ハイテク分野は依然として今年の削減の中心地だ」と述べた。 「企業が AI を中心に再編し、役割を自動化し、新しい機能に予算を再配分する中で、AI が支配力となっています。この分野はリアルタイムで再構築されています。」
-アマゾンは多くの同業他社よりも積極的に人員削減を進めており、2022年以降、全社従業員の約16％に相当する5万7000人以上の従業員を解雇している。ウェブサイト「Layoffs.fyi」のデータによると、今年のハイテク業界の人員削減の約13％をアマゾンが占めている。
-アマゾンの最高経営責任者（CEO）アンディ・ジャシー氏は従業員に対し、AIは「私たちの仕事のやり方を変えるはず」であり、今後数年間でテクノロジーによる効率の向上によって「企業の総労働力は減少するだろう」と警告した。同社はパンデミック時代の採用過多を緩和し、官僚主義を排除して「世界最大の新興企業」のように運営できる方法を模索してきた。
-CNBCは、過去8カ月以上にわたってアマゾンによって一時解雇された十数人に、業界の失業率が増大し、多くの人にとって機会が減少していると感じている中で、彼らがどのようにして雇用市場を切り抜けてきたかについて話を聞いた。
-その後、Apple や Salesforce などで役職に就いた人もいますが、何百件もの応募があり、返事も来ず、給与も減額される役職に目を向けている人もいます。 Amazon で AI に全力を尽くした結果、AI に取って代わられてしまうという暗い皮肉を語る人もいました。
-アマゾンの広報担当モンタナ・マクラクラン氏は声明で、今回の削減は同社が迅速に行動し、顧客にサービスを提供できるようにするために行われたと述べた。アマゾンは今後も自社の将来にとって重要な戦略的分野への雇用と投資を続けている、と同氏は付け加えた。
-マクラクラン氏は、「私たちは軽々しく役割を廃止する決定を下すことはなく、影響を受ける従業員をサポートするために懸命に取り組んでいる」と語った。
-アマゾンによると、人員削減の大部分はAIが原因ではなかったという。
-リンズリーさんの就職活動は約 3 か月間続き、4 月にヘルスケア IT 新興企業の副社長に就任しました。
-「私は、5倍に成長して一夜にして消える仕事よりも、安定した仕事に就きたいと思っています」と彼は言う。
-就職活動
-コートニー・ヘフリンガーさんは何百もの求人に応募したが、なかなか面接にたどり着けなかった。
-1 月にアマゾン ウェブ サービスから解雇されてから数か月間、彼女は午前 8 時半にコンピューターの前で一日を始め、採用担当者からの返事を待ちながら、熱心に求人情報サイトに目を通し、受信箱を更新していました。
-求人が掲載されるとすぐに、すぐに 200 ～ 300 人の応募者が来るだろうとヘフリンガー氏は語った。彼女には、それが大量の失業者のせいなのか、それともボットの暴走によるものなのかはわかりませんでした。
-先週AT&Tに就職した49歳のヘフリンガー氏は、「そのせいで、本物の求職者である私たちが門に入るのが難しくなっている」と語った。イライラする。
-彼女がアマゾンを退職してから数か月間で、業界全体で人員削減のペースが進み、困難な課題が一見不可能に見えてきました。
-ヘフリンガー氏は、メタ社が従業員の10％を削減する計画を発表していた頃、同社のいくつかの仕事に応募した。オラクルでの仕事が彼女のフィードに出会いました。しかし、そのソフトウェアベンダーが何千人もの人員を削減しているのを見て、応募することをためらった。
-一方、アマゾンは小規模なラウンドで人員削減を続けており、人員削減は公表されていないため匿名を条件に事情に詳しい関係者らによると、4月には顧客サービス部門の人員削減に続き、5月にはサードパーティ販売者サポート部門の人員削減が続いた。
-月曜日に発表されたWARN提出書類によると、同社は5月から6月初旬にかけて本拠地ワシントン州で57人の従業員を解雇した。提出書類にはどの部門が影響を受けたかは示されていないが、リストされている役職にはソフトウェアエンジニア、プログラムマネージャー、製品担当者などが含まれていた。
-ドリアン・スミス氏は、1月にアマゾンで解雇されてから約1カ月しか仕事をしていなかったが、それが後期段階の新興企業に就職するきっかけとなった屈辱的な経験だったと語った。
-スミス氏は、Amazon で 10 年以上勤務し、顧客サービスから Web 開発エンジニアまでキャリアを積み、Amazon を「生涯のキャリア」だと考えていたと語った。
-「私のアイデンティティがその仕事に結びついていると感じたので、ある意味、ほとんど悲痛な思いでした」とスミスさんは語った。
-スミス氏によると、彼は少なくとも250の求人に応募したが、返事が来たのは4社だけで、いずれも「ありきたりな不採用メール」だったという。 LinkedIn に投稿した後、最終的に採用担当者とつながり、それが彼をスタートアップの世界に導きました。
-「私はいつも、『私の履歴書にはAmazonと書いてある、この名誉あること』という考えを持っていた」とスミス氏は語った。 「でも、今回の人員削減が起こったときは、『よし、大したことだ、他の3万人もそうなる』という感じだった。」
-ソフトウェアの「新時代」
-アマゾンの元従業員の一部にとって、一時解雇はリセットの機会となった。
-1月に職を失った元AWSエンジニアのヨゲシュ・ヴェルマ氏は、これを「姿を変えた祝福」と呼んだ。 25歳の彼は、アマゾンが厳格なオフィス復帰方針を制定し、AIの使用をめぐる圧力が高まり、従業員が「無計画に新製品を開発する」という任務を課せられたことを受けて、同社に不満を抱いたと語った。
-「最初は『ああ、これからどうしよう』という感じだったが、徐々に良い方向に変わってきた」とヴェルマさんは語った。 「仕事量はますます増大し、ワークライフバランスも悪化していました。」
-ヴァーマさんは4月、若干の減給を受け入れて、「良い環境」、ハイブリッドな働き方のオプション、新しいスキルを学ぶ機会を提供するAIマーケティング会社に入社したと述べた。
-10月に解雇されたアマゾン広告部門の元ディレクターは、就職活動を危険にさらさないために匿名を希望したが、大手ハイテク企業で働くことは「人生を変えるもの」だったが、その仕事が精神的、肉体的健康を消耗するものになったと語った。
-同氏は、AIコーディングのスキルを強化するために休暇を取っていると述べ、就職市場に再参入した際に「この新しい時代のソフトウェア開発」に向けた準備を整えていると語った。
-シニアプロダクトマネージャーを4年近く務めたクリス・デサンティス氏は、AIの最先端に近い企業で働くことができるのであれば、「お金が減っても喜んで」と語った。 32歳のデサンティス氏は1月にアマゾンの小売組織から解雇された。
-「これらの企業と彼らが AI で何をしているかを見ると、私たちのようなエンジニアやテクニカル プロダクト マネージャーは、楽しいことをして、ものを超高速で構築したいと考えています」とデサンティス氏は述べました。 「かつては、大企業に行くのが当たり前だった。でも今は、少なくとも私が所属していた組織からすると、楽しいことをやるには程遠い。」
-楽しいかどうかは別として、AI がアマゾンのホールを占拠しています。
-2021年に創業者のジェフ・ベゾス氏の後任として最高経営責任者（CEO）に就任したジャシー氏は、従業員に「可能な限りAIを使用して実験する」こと、そして「より効率的なチームでより多くの成果をあげる」方法を見つけることを奨励した。
-AWS は、主に企業向けをターゲットとした多数の AI ツールをリリースしてきたが、同時により競争力の高い AI モデルの開発にも努め、Amazon を AI コンピューティング需要の急増の中心に据えている。同社は、検索バーを含む電子商取引 Web サイトのより多くの面に AI を導入し、老朽化し​​た Alexa デジタル アシスタントを改良して、より会話的でエージェント的な機能を追加しました。
-「ラットレース」
-AI 電撃はアマゾンがテクノロジーの次の時代に関連し続けるために不可欠とみなされているが、この件について率直に話すため匿名を希望した現役ソフトウェアエンジニアの言葉を借りれば、同社での生活は現在「ラットレース」に似ているという。
-アマゾンの一部のマネージャーは社内ダッシュボードを通じて従業員のAI活動を追跡しており、一部のチームは業績評価に使用状況を織り込みながら、可能な限りツールを導入するようチームにリマインドするようリーダーから指示されていると、現従業員と元従業員3名が述べた。
-1月に解雇され、同様に匿名を求められた元AWSエンジニアは、「AIが本当に役立つか、意味があるかに関係なく、優先事項はどこにいてもAIであることは十分に明らかだ」と述べた。
-同時に、Amazon やその他の企業は AI のコストの高さを考慮しており、開発者が出力をほとんど考慮せずに AI を可能な限り使用する、いわゆるトークンマックスシングを抑制するための措置を講じています。
-AWSの別の元エンジニアは、Amazonが社内の「電話ツール」ディレクトリにバッジを追加し、従業員が消費したトークンの数に基づいてQと呼ばれるAIアプリの使用状況をスコア化したと述べた。
-従業員がランクを上げるためにトークンマックスを行っていることが判明したため、Amazonは5月下旬、Kirorankと呼ばれる同様の電話ツールのリーダーボードを閉鎖した。
-アマゾンは企業の人員削減に伴い、インドのような低コスト国での雇用を増やしていると、勤務していた組織内でのこうした動きについて語った元従業員３人によると、アマゾンはインドなどの低コスト国での採用を強化しているという。そのうちの1人（5月に解雇された元マネージャー）は、シアトルに比べてインドでは「数分の1のコスト」で人材を雇用できることを同社が知っているため、これを「当然のこと」と呼んだ。
-一時解雇されたプロダクトマネージャーのデサンティス氏は、アマゾン時代に6回の人員削減を乗り越えた後、「生存主義の考え方」を採用したと語った。ついに自分の番が来たとき、デサンティス氏は、それを個人的に受け止めないよう最善を尽くしたと語った。
-「それが自分の身に起こると、本当に奇妙です」とデサンティス氏は言う。 「振り返ってみると、何もできなかったような気がします。」
-注目：米国では長期失業率が上昇しており、それが経済にもたらす隠れたコストも増加している`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
-    publishedAt: "2026-07-11T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "regular-water-is-no-longer-enough-welcom-9b20bf11",
-    title: "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
-    titleJa: "普通の水ではもう十分ではありません。 「機能性水分補給」をめぐる企業のゴールドラッシュへようこそ。",
-    summaryJa: "ソーシャルメディアとGLP-1は水分補給製品への関心の高まりに拍車をかけており、企業は電解質混合物や「水分補給ホットチョコレート」などで対応している。",
-    bodyOriginal: `Social media and GLP-1s are spurring increased interest in hydration products, and companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”`,
-    bodyJa: `ソーシャルメディアとGLP-1は水分補給製品への関心の高まりに拍車をかけており、企業は電解質混合物や「水分補給ホットチョコレート」などで対応している。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
-    publishedAt: "2026-07-11T12:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-29505143",
-    readTime: 2,
-  },
-  {
-    id: "fed-chair-warsh-will-be-in-the-hot-seat-cc403cdb",
-    title: "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
-    titleJa: "ウォーシュFRB議長は議員らが経済に関する見解を求める中、注目の席に立つことになる",
-    summaryJa: "ケビン・ウォーシュ氏は今週、FRB議長として初めて議会で証言する。議員らは答えを求めるだろう。",
-    bodyOriginal: `Kevin Warsh will testify before Congress for the first time as Fed chair this week. Lawmakers will want answers.`,
-    bodyJa: `ケビン・ウォーシュ氏は今週、FRB議長として初めて議会で証言する。議員らは答えを求めるだろう。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
-    publishedAt: "2026-07-11T11:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-62250329",
-    readTime: 2,
-  },
-  {
-    id: "spain-battles-to-contain-one-of-its-dead-fb1a6225",
-    title: "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-    titleJa: "スペイン、少なくとも12人が死亡、最悪の被害をもたらした山火事の鎮圧に奮闘中",
-    summaryJa: "スペイン、少なくとも12人が死亡、最悪の被害をもたらした山火事の鎮圧に奮闘中- 公開されました",
-    bodyOriginal: `Spain battles to contain one of its deadliest wildfires as at least 12 killed
-- Published
-Hundreds of firefighters in Spain are still battling to contain pockets of flames in the south east after one of the country's worst-ever wildfires.
-Emergency services have been deployed around the village of Bedar where 12 people have been killed - among them four Britons, according to Spanish authorities. Another 23 people are still missing.
-Local officials in the Los Gallardos area of Almería have warned the number of dead could rise, with fears that more Britons are among those killed.
-A sustained heatwave with temperatures of around 40C (104F) has caused wildfires across Southern Europe this summer, particularly in France, Portugal and Spain.
-Soaring temperatures, incredibly dry ground and powerful winds led to the Los Gallardos fire spreading quickly on Thursday afternoon.
-The cause of the fire has been put down to a fallen power line, but local electricity companies have denied this was the cause.
-No additional information has been given about the four people who were found dead in a burnt-out car.
-Antonio Sanz, Andalusia's health and emergencies minister, said earlier they were believed to be "of British origin" and that the car had a steering wheel on the right.
-Lucinda Curtois, who arrived in Spain with her partner Riyaz Cheytan and their teenage children for a holiday on Thursday, described their escape from Bedar.
-"It was almost like there was a mushroom cloud of smoke, it was like a bomb had gone off," she said.
-Curtois told the BBC she feared at least two other UK nationals had been killed.
-"They left their home on foot, I don't know why," she said. "I can only presume it was probably because their road was cut off because they live out in the countryside."
-Officials in Bedar said some of those who had died had not taken a recommended evacuation route - but it's not clear how well that guidance was conveyed.
-Neither the Spanish authorities - nor the Foreign Office in London - have revealed the identity of the deceased.
-Sanz said the rapid fire had been complex and the majority or even all of the victims may have been foreign nationals.
-Belgian Foreign Minister Maxime Prévot said many Belgians had second homes in the country and consular services were trying to contact "Belgians with whom they have not been able to get in touch".
-The Andalusian branch of national weather agency AEMET said conditions were due to be "rather more favourable" on Saturday, with moderate wind and cooler air.
-With at least 12 people dead, this is already among the deadliest wildfires in Spanish history.
-In 1984, 20 people died in a fire on the Canary Island of La Gomera, while in 1979, 21 people, including nine children, died in a forest fire near Lloret de Mar in north-eastern Spain.
-Climate change is driving up temperatures around the world, and Europe is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service.
-This is causing increased summer heatwaves, greater pressure on Europe's water supply, and more intense wildfires.
-Get in touch
-Have you been affected by the wildfires and extreme heat in Southern Europe? If it is safe to do so, get in touch.`,
-    bodyJa: `スペイン、少なくとも12人が死亡、最悪の被害をもたらした山火事の鎮圧に奮闘中
-- 公開されました
-スペイン史上最悪の山火事の一つを受け、スペインでは数百人の消防士が今も南東部で発生した炎を鎮火するために奮闘している。
-スペイン当局によると、12人が死亡し、うち英国人4人を含むベダル村周辺には救急隊が出動した。さらに23人が依然として行方不明となっている。
-アルメリア州ロス・ガヤルドス地域の地元当局は、死者の中に英国人がさらに含まれるのではないかとの懸念から、死者数がさらに増加する可能性があると警告している。
-この夏、気温約40度（104度）の持続的な熱波により、南ヨーロッパ全域、特にフランス、ポルトガル、スペインで山火事が発生した。
-気温の上昇、信じられないほど乾燥した地面、そして強い風により、木曜日の午後、ロス・ガリャルドスの火災は急速に広がりました。
-火災の原因は送電線の落下によるものとされているが、地元の電力会社はこれが原因ではないと否定している。
-焼け落ちた車の中で死亡しているのが発見された４人については、追加情報は明らかにされていない。
-アンダルシア州の保健・緊急事態大臣アントニオ・サンツ氏は先に、これらの車は「英国製」とみられ、この車は右側にハンドルがあったと述べた。
-木曜日に休暇のためにパートナーのリヤズ・シェイタンと10代の子供たちとともにスペインに到着したルシンダ・クルトワさんは、ベダルからの脱出について語った。
-「まるでキノコの煙が立ち上っているようで、まるで爆弾が爆発したようだった」と彼女は語った。
-クルトワさんはBBCに対し、少なくとも他に英国人2人が殺害されたのではないかと懸念していると語った。
-「彼らは徒歩で家を出ましたが、理由はわかりません」と彼女は語った。 「おそらく田舎に住んでいるため、道路が寸断されてしまったのではないかと推測するほかありません。」
-ベダルの当局者らは、死亡者の中には推奨された避難経路を通らなかった人もいると述べたが、その指導がどの程度伝わったかは不明だ。
-スペイン当局もロンドンの外務省も、死亡者の身元を明らかにしていない。
-サンツ氏は、今回の銃撃は複雑で、犠牲者の大半、あるいは全員が外国人だった可能性があると述べた。
-ベルギーのマキシム・プレヴォ外相は、多くのベルギー人が国内に別荘を持っており、領事館は「連絡が取れないベルギー人」に連絡を取ろうとしていると述べた。
-国立気象局ＡＥＭＥＴのアンダルシア支局は、土曜日は風も穏やかで空気も涼しく、天候は「むしろ好転する」見込みだと述べた。
-少なくとも12人が死亡し、これはすでにスペインの歴史の中で最も死者数の多い山火事の一つとなっている。
-1984年にはカナリア諸島のラ・ゴメラ島で火災が発生し20人が死亡し、1979年にはスペイン北東部リョレト・デ・マル近郊の山火事で9人の子供を含む21人が死亡した。
-コペルニクス気候局によると、気候変動により世界中で気温が上昇しており、ヨーロッパは最も温暖化が進んでいる大陸であり、世界平均の2倍の速さで気温が上昇しているという。
-これにより、夏の熱波が増大し、ヨーロッパの水供給への圧力が増大し、山火事の激化が起こっています。
-連絡する
-南ヨーロッパの山火事と猛暑の影響を受けましたか?安全であれば、連絡してください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-11T07:46:09+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg",
-    readTime: 3,
-  },
-  {
-    id: "will-trump-accounts-deliver-for-american-ce200fa8",
-    title: "Will Trump Accounts deliver for American children?",
-    titleJa: "トランプのアカウントはアメリカの子供たちに役立つでしょうか？",
-    summaryJa: "トランプのアカウントはアメリカの子供たちに役立つでしょうか？- 公開されました",
-    bodyOriginal: `Will Trump Accounts deliver for American children?
-- Published
-The launch of Trump Accounts, the new savings scheme aimed at encouraging investing among American children, was marked with an historic ringing of the Wall Street opening bell in the Oval Office this week.
-But not everyone is convinced the project will prove a success in giving new generations a stake in the so-called American dream, with sceptics suggesting that it will not live up to the hype.
-The savings accounts are now available to all US children under the age of 18, with babies born between 2025 and 2028 qualifying for a $1,000 contribution to kickstart savings.
-The move comes as the cost of living remains a major issue ahead of November's mid-term elections, but tax experts told the BBC families on lower incomes could lose out and that the scheme is too complicated.
-How do Trump Accounts work?
-The accounts named after the president are available nationwide and can be created for anyone under the age of 18 with a valid social security number. Parents can simply download the app.
-Families, friends and employers can contribute up to $5,000 per year per child, who can access the funds when they turn 18.
-By law, the money must be invested in a low-cost index fund designed for long-term growth. But while the money grows tax free, withdrawals are subject to taxes and a possible 10% penalty if made before the age of 59 and a half.
-To avoid such a penalty, the money must be assigned to pay for certain things, such as higher education, buying or building a first home, or for personal emergency expenses.
-Trump Accounts add to other existing tax-efficient savings schemes that Americans can use for retirement, such as IRAs, or for educational purposes, such as 529 plans, which parents use to save for their children's college fees.
-According to a Congress report,, external Trump Accounts are a new form of traditional individual retirement account (IRA), but differ because of certain rules.
-What's the reaction been?
-While the White House has been keen to push the scheme, reaction to it has been split.
-The White House's argument is that Trump Accounts offer millions of children a way into stock ownership in the US, which it says has historically been "unevenly distributed, with many households - especially younger and lower‑income families - having little or no exposure".
-However, Will McBride, chief economist at the Tax Foundation think tank, says the scheme is too complicated to sign up to, which will lead, in his view to a "minority that benefits".
-He suggests those that will take advantage will be the parents of children who are "relatively well-informed, relatively well-off, relatively tuned in [and] have their act together".
-However, Andy Blocker, head of policy, regulatory and government relations at financial services firm Edward Jones, believes the $1,000 contribution for babies born during Trump's second term in office will remove a "barrier of having nothing to start with".
-"If by year-end more families have a clear on-ramp to begin saving and investing for their children's financial futures, that's success," he suggests.
-Adam Michel, director of tax policy studies at the Cato Institute, says the idea of the scheme is admirable, but warns it might "not live up to the rhetoric".
-He says the main benefit is the $1,000 starting subsidy but suggests many families would be better off using existing savings accounts.
-He also points out barriers such as penalties for early withdrawal, as seen for other savings accounts, adding that lower-income children may feel compelled to take the money out when they turn 18 to "help make ends meet", and therefore have to pay a penalty. "Trump Accounts do not fix that problem."
-How many people have signed up?
-It is understood some six million families had signed up before Trump Accounts went live on 4 July, which is a fraction of the tens of millions of children who could be eligible for one.
-The White House said on Monday that the $1,000 subsidy for babies had been deposited into more than half a million accounts so far. About 3.6 million children were born in the US in 2025, according to provisional data.
-At the end of this week, the White House said that American families had "contributed nearly $125 million to Trump Accounts" so far, external.
-What are the returns?
-Trump Accounts estimates the $1,000 starting pot could rise to $6,000 by the time a child reaches 18 even without any further contributions. Its calculations are based on historical S&P 500 averages, but it warns actual results may differ and are not guaranteed.
-If $250 a year was added to a child's account, the pot could be worth $19,000 by the time they turn 18, according to the scheme. It could be as high as $271,000 if family members or employers contribute the maximum $5,000 a year.
-The scheme has the backing of some big business names, including investment giant BlackRock, which said about 40% of Americans have no exposure to financial markets. Several US companies, including card payment giant Visa and tech company Dell, have also pledged support for the scheme.
-Related topics
-- Published2 December 2025`,
-    bodyJa: `トランプのアカウントはアメリカの子供たちに役立つでしょうか？
-- 公開されました
-米国の子供たちの投資促進を目的とした新たな貯蓄制度「トランプ・アカウント」の開始は、今週大統領執務室で歴史的なウォール街開会の鐘が鳴り響いた。
-しかし、このプロジェクトが新世代にいわゆるアメリカン・ドリームへの権利を与えるという点で成功すると誰もが確信しているわけではなく、懐疑論者らはこのプロジェクトが誇大宣伝に応えられないと示唆している。
-この普通預金口座は現在、18 歳未満のすべての米国の子供が利用でき、2025 年から 2028 年の間に生まれた乳児にはキックスタート貯蓄への 1,000 ドルの拠出資格が与えられます。
-この動きは、11月の中間選挙に向けて生活費が依然として大きな争点となっている中で行われたが、税務専門家らはBBCに対し、低所得世帯が損をする可能性があり、制度が複雑すぎると述べた。
-トランプアカウントはどのように機能しますか?
-大統領の名を冠したアカウントは全国で利用可能で、有効な社会保障番号を持つ18歳未満であれば誰でも作成できる。保護者はアプリをダウンロードするだけで済みます。
-家族、友人、雇用主は子供1人当たり年間最大5,000ドルを寄付することができ、子供は18歳になるとその資金にアクセスできるようになる。
-法律により、資金は長期的な成長を目的とした低コストのインデックスファンドに投資しなければなりません。しかし、そのお金は非課税で増えていくが、引き出しには税金がかかり、59歳半未満に引き出した場合には10％の罰金が科せられる可能性がある。
-このようなペナルティを回避するには、そのお金を高等教育、最初の住宅の購入または建設、または個人的な緊急出費などの特定の支払いに割り当てる必要があります。
-トランプ口座は、IRAなどのアメリカ人が退職後の生活のために利用できる他の既存の節税効率の高い貯蓄制度や、親が子供の大学費用を貯蓄するために利用する529プランなどの教育目的に利用できる制度に追加される。
-議会の報告書によると、外部トランプ口座は従来の個人退職口座（IRA）の新しい形式ですが、特定のルールがあるため異なります。
-反応はどうでしたか？
-ホワイトハウスはこの計画の推進に熱心だが、それに対する反応は分かれている。
-ホワイトハウスの主張は、トランプ口座は米国で数百万人の子供たちに株を所有する機会を提供しているというもので、歴史的に「不平等に分布しており、多くの世帯、特に若年層や低所得層はほとんど、あるいはまったく利用されていない」という。
-しかしシンクタンク、タックス・ファウンデーションの首席エコノミスト、ウィル・マクブライド氏は、この制度は加入するには複雑すぎるため、「恩恵を受けるのは少数派」になるだろうと述べている。
-同氏は、これを利用するのは「比較的情報が豊富で、比較的裕福で、比較的社会に同調し、一緒に行動している」子どもの親になるだろうと示唆している。
-しかし、金融サービス会社エドワード・ジョーンズの政策・規制・政府関係部門責任者アンディ・ブロッカー氏は、トランプ大統領の２期目の任期中に生まれた赤ちゃんに1000ドルの寄付金を支給すれば、「何も持たないという壁」が取り除かれると信じている。
-「年末までに、より多くの家庭が子どもたちの経済的将来のために貯蓄と投資を開始する明確なスタートを切れれば、それは成功だ」と同氏は示唆する。
-ケイトー研究所の税制研究部長アダム・ミシェル氏は、この制度のアイデアは素晴らしいとしながらも、「レトリックに応えられない」可能性があると警告する。
-同氏は、主な利点は 1,000 ドルの開始補助金であると述べていますが、多くの家族は既存の普通預金口座を使用したほうが良いと示唆しています。
-同氏はまた、他の普通預金口座に見られるような早期引き出しに対する罰則などの障壁も指摘し、低所得層の子供たちは「家計を助ける」ために18歳になるとお金を引き出しざるを得ないと感じ、そのために罰金を支払わなければならない可能性があると付け加えた。 「トランプのアカウントはその問題を解決しません。」
-何人が登録しましたか?
-7月4日にトランプアカウントが公開されるまでに約600万世帯が登録したとされているが、これはアカウントを取得できる数千万人の子供たちのほんの一部にすぎない。
-ホワイトハウスは月曜日、乳児へ​​の1,000ドルの補助金がこれまでに50万以上の口座に振り込まれたと発表した。暫定データによると、2025年に米国で約360万人の子供が生まれる。
-今週末、ホワイトハウスは、米国の家族がこれまでに対外的に「トランプ氏の口座に1億2500万ドル近くを寄付」したと発表した。
-リターンは何ですか?
-トランプ・アカウントは、追加の寄付がなくても、開始時の1,000ドルのポットは子供が18歳になるまでに6,000ドルに上昇する可能性があると推定しています。その計算は過去のS&P 500の平均に基づいていますが、実際の結果は異なる可能性があり、保証されないことを警告しています。
-この計画によれば、子供の口座に年間250ドルが追加された場合、そのポットは18歳になるまでに1万9000ドルの価値がある可能性があるという。家族や雇用主が年間最大5,000ドルを寄付した場合、その額は271,000ドルに達する可能性があります。
-この計画には、米国人の約40％が金融市場にまったく関与していないという投資大手ブラックロックなど、一部の大手企業が支援している。カード決済大手ビザやハイテク企業デルなど米国企業数社もこの制度への支持を表明している。
-関連トピック
-- 2025 年 12 月 2 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-11T07:41:18+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7442/live/ebd646e0-7a35-11f1-ab76-d75965dea4d1.jpg",
     readTime: 6,
   },
 ];
