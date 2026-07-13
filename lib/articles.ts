@@ -15,6 +15,488 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "sk-hynix-shares-slide-12-in-seoul-after-b599c41c",
+    title: "SK Hynix shares slide 12% in Seoul after stellar Nasdaq debut",
+    titleJa: "SKハイニックス株、ナスダック市場での好調なデビュー後、ソウル市場で12％下落",
+    summaryJa: "SKハイニックス株は、投資家が利益を確保し、人工知能メモリチップに対する需要の急増が株価の急騰を正当化するかどうかを検討する中、金曜の同社のナスダック市場での好調なデビュー後、月曜ソウル市場で12％以上下落した。韓国のメモリチップメーカーである同社は、AI関連の半導体株に対する米国の投資家の強い意欲を反映し、金曜日のウォール街デビューで13%急騰した。",
+    bodyOriginal: `SK Hynix shares tumbled more than 12% in Seoul on Monday after the chipmaker's strong Nasdaq debut Friday, as investors locked in profits and weighed whether surging demand for artificial intelligence memory chips justified the stock's sharp gains.
+The South Korean memory-chip maker had jumped 13% in its Wall Street debut on Friday, reflecting strong appetite from U.S. investors for AI-linked semiconductor stocks.
+The decline on Monday reflects a mix of profit-taking and uncertainty over how the U.S.-listed shares should be valued relative to the Korean stock, with analysts saying the ADR debut has effectively created a new benchmark for investors to assess the company's valuation.
+"Everybody's really confused about what's going to happen to the memory demand and where the fair price is," Daniel Yoo, global strategist at Yuanta Securities, said on "Squawk Box Asia." "It's all about how much demand is there versus how much supply is going to come in ... [and] what kind of multiple you will be getting."
+Taiwan Semiconductor Manufacturing Co.'s U.S.-listed ADRs trade at a roughly 13% to 14% premium to its domestic shares, Yoo pointed out, adding that SK Hynix's sharp move has created a discount rate of more than 20% between its U.S. and Korean listings.
+Yoo said the sell-off was also driven by the mechanics of the offering, calling it "additional share issuance" that increased the supply of stock available to investors. "The market is taking this as a correctional period for SK Hynix domestically."
+The pullback was likely to prove temporary as structural AI demand continues to outpace supply, he said, adding that shares will likely move "in the right direction" over the next six to 12 months despite near-term volatility.
+Phillip Wool, chief research officer at Rayliant Global Advisors, also downplayed the recent weakness in Asian AI hardware names, describing it as a portfolio rebalancing exercise rather than a deterioration in the industry's outlook.
+"I think it's mostly risk management," Wool said, noting that many investors had accumulated outsized positions in South Korean and Taiwanese AI chipmakers after their strong gains. "Prudent risk management suggests you have to scale those back."
+He added that the selling "doesn't really speak to any sort of reduction in the excitement about AI hardware." Wool said the AI investment was broadening beyond semiconductors, but that should continue to benefit memory suppliers such as SK Hynix.`,
+    bodyJa: `SKハイニックス株は、投資家が利益を確保し、人工知能メモリチップに対する需要の急増が株価の急騰を正当化するかどうかを検討する中、金曜の同社のナスダック市場での好調なデビュー後、月曜ソウル市場で12％以上下落した。
+韓国のメモリチップメーカーである同社は、AI関連の半導体株に対する米国の投資家の強い意欲を反映し、金曜日のウォール街デビューで13%急騰した。
+月曜日の下落は利益確定売りと、韓国株と比べて米国上場株をどのように評価すべきかという不確実性が重なったことを反映しており、アナリストらは、ADRデビューが事実上、投資家にとって同社の評価を評価するための新たなベンチマークとなったと述べている。
+ユアンタ証券のグローバルストラテジスト、ダニエル・ユー氏は「メモリ需要がどうなるのか、適正価格はどこなのかについて、誰もが本当に混乱している」と「Squawk Box Asia」で語った。 「重要なのは、どれだけの需要があるか、それに対してどのくらいの供給が入るか、そしてどのような倍率になるかです。」
+台湾積体電路製造の米国上場ADRは国内株に対して約13～14%のプレミアムで取引されているとユ氏は指摘し、SKハイニックスの急激な動きにより米国と韓国の上場の間に20%以上の割引率が生じたと付け加えた。
+ユ氏は、売り出しの仕組みも売り出しの原因となったと述べ、投資家が利用できる株式の供給を増やす「追加株式発行」と呼んだ。 「市場はこれを国内のSKハイニックスの調整期間と受け止めている。」
+同氏は、AIの構造的な需要が供給を上回り続けているため、反落は一時的なものに終わる可能性が高いと述べ、短期的なボラティリティにもかかわらず、株価は今後6～12カ月で「正しい方向に」動く可能性が高いと付け加えた。
+レイリアント・グローバル・アドバイザーズの首席研究責任者フィリップ・ウール氏も、最近のアジアのAIハードウェア銘柄の低迷を軽視し、これは業界の見通しの悪化ではなく、ポートフォリオのバランス調整の一環であると説明した。
+ウール氏は「主にリスク管理だと思う」と述べ、多くの投資家が韓国や台湾のAIチップメーカーの大幅な上昇を受けて巨額のポジションを蓄積していると指摘した。 「慎重なリスク管理は、それらを縮小する必要があることを示唆しています。」
+同氏は、この売却は「AIハードウェアに対する興奮が冷めるわけではない」と付け加えた。ウール氏は、AIへの投資は半導体を超えて拡大しているが、SKハイニックスなどのメモリサプライヤーには引き続き恩恵をもたらすだろうと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/13/sk-hynix-shares-fall-after-stellar-nasdaq-debut.html",
+    publishedAt: "2026-07-13T03:33:59+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "oil-prices-rise-stock-futures-dip-after-e1c578a9",
+    title: "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
+    titleJa: "米国とイランの間の最近のストライキ激化を受けて、原油価格は上昇、株価先物は下落",
+    summaryJa: "米国とイランが週末にホルムズ海峡周辺での報復攻撃を続けたことを受け、日曜日には原油価格が上昇し、米国の株価指数先物が下落した。",
+    bodyOriginal: `Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.`,
+    bodyJa: `米国とイランが週末にホルムズ海峡周辺での報復攻撃を続けたことを受け、日曜日には原油価格が上昇し、米国の株価指数先物が下落した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
+    publishedAt: "2026-07-13T03:03:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-00964245",
+    readTime: 2,
+  },
+  {
+    id: "mcconnell-provides-health-update-after-l-0394a365",
+    title: "McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia",
+    titleJa: "マコーネル氏は、原因不明の長い不在の後、健康状態の最新情報を提供します。秋と肺炎を患ったと言う",
+    summaryJa: "ケンタッキー州、共和党のミッチ・マコネル上院議員は日曜日、転倒により意識を失い病院に運ばれ、数週間の欠席に至ったと述べた。6月14日に入院して以来上院を欠席している84歳のマコーネル氏も、自身の写真と自身の状態を説明する声明を提供した。ここ数週間、特に自宅で心停止が発生し救急隊が対応したと報じられて以来、彼の不在と入院についての憶測が激しくなっている。",
+    bodyOriginal: `Sen. Mitch McConnell, R-Ky., on Sunday said he suffered a fall that rendered him unconscious and landed him in the hospital, leading to a multi-week absence.
+McConnell, 84 — who has been absent from the Senate since he was hospitalized on June 14 — also provided a photo of himself with a statement explaining his condition. His absence and hospitalization have been speculated on intensely in recent weeks, especially after it was reported that emergency services responded to a case of cardiac arrest at his home.
+McConnell, who is a polio survivor, sought to put the speculation over his health to rest.
+"[L]ast month, I took a fall which landed me in the hospital," McConnell said in the statement to his constituents. "My doctors have confirmed that I didn't break any bones or suffer a concussion. I didn't have a heart attack or a stroke. I don't have any tumors or hemorrhages. But I was briefly unconscious and was taken to the hospital."
+The former Senate GOP leader said he also "had to deal with a mild case of pneumonia" while in the hospital. In a photo released with his statement, McConnell is holding a copy of the Sports section of the July 12 edition of The Washington Post.
+McConnell is the longest-serving party leader in Senate history. He stepped down from the leader post at the beginning of this Congress, handing the reins to Sen. John Thune, R-S.D.
+Last week, Kentucky Gov. Andy Beshear requested that McConnell provide an update on his health and fitness to serve after the senator's office provided sparse updates on his condition throughout his hospitalization, leaving questions about his condition swirling.
+McConnell said in the statement that he remains fit to serve, but will not return to the Senate yet.
+"As much as it frustrates me, this process takes time. And on the advice of my doctors, I won't be able to return to the Senate floor to vote quite yet," he said. "But rest assured that, in the meantime, I'm not taking a break from the Senate business that matters to you. I've been working closely with my legislative staff on current issues, and with my Kentucky team who help me provide timely constituent services across our Commonwealth."
+McConnell will retire at the end of his term next year.`,
+    bodyJa: `ケンタッキー州、共和党のミッチ・マコネル上院議員は日曜日、転倒により意識を失い病院に運ばれ、数週間の欠席に至ったと述べた。
+6月14日に入院して以来上院を欠席している84歳のマコーネル氏も、自身の写真と自身の状態を説明する声明を提供した。ここ数週間、特に自宅で心停止が発生し救急隊が対応したと報じられて以来、彼の不在と入院についての憶測が激しくなっている。
+ポリオ生存者であるマコーネル氏は、自分の健康に対する憶測を鎮めようと努めた。
+マコネル氏は有権者に向けた声明で「先月、転倒して病院に入院した」と述べた。 「医師たちは、私が骨折や脳震盪を起こしていないことを確認しました。心臓発作や脳卒中も起こしていません。腫瘍や出血もありません。しかし、一時的に意識を失い、病院に運ばれました。」
+元上院共和党指導者は、入院中に「軽度の肺炎に対処しなければならなかった」とも語った。声明とともに公開された写真の中で、マコネル氏はワシントン・ポスト紙7月12日号のスポーツ欄のコピーを手に持っている。
+マコーネル氏は上院史上最も長く党首を務めた人物である。彼は今議会の初めに党首のポストを降り、共和党のジョン・チューン上院議員に手綱を引き渡した。
+先週、ケンタッキー州のアンディ・ベシェア知事は、上院議員事務所が入院期間中のマコネル氏の病状に関する最新情報をほとんど提供せず、マコネル氏の病状についての疑問が渦巻いていることを受けて、マコネル氏に対し、自身の健康状態と就任に向けた適性に関する最新情報を提供するよう要請した。
+マコーネル氏は声明の中で、自身は引き続き職務に適任だが、まだ上院に戻るつもりはないと述べた。
+「私はイライラしているのですが、このプロセスには時間がかかります。そして医師のアドバイスにより、私はまだ上院議場に戻って投票することはできないでしょう」と彼は語った。 「しかし、その間、私はあなたたちにとって重要な上院の仕事を休むわけではないのでご安心ください。私は現在の問題について立法スタッフと緊密に協力しており、連邦全体でタイムリーな有権者サービスを提供するのを手伝ってくれるケンタッキー州のチームと緊密に協力しています。」
+マコーネル氏は来年の任期満了で退任する。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html",
+    publishedAt: "2026-07-13T01:25:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "10-years-of-pok-mon-go-and-the-millions-53742d0f",
+    title: "10 years of Pokémon Go and the millions still trying to catch 'em all",
+    titleJa: "Pokémon GO が誕生して 10 年、何百万人もの人々が今もポケモン Go をすべて捕まえようとしています",
+    summaryJa: "Pokémon GO が誕生して 10 年、何百万人もの人々が今もポケモン Go をすべて捕まえようとしています- 公開されました",
+    bodyOriginal: `10 years of Pokémon Go and the millions still trying to catch 'em all
+- Published
+Pokémon fans have spent the past three decades trying to catch 'em all - and since the beginning this hunt has often taken place outside the home.
+The popular series started out on Nintendo's portable Game Boy console in 1996, and has found modern success on people's phones.
+The mobile app Pokémon Go, which is now celebrating its 10th anniversary, uses GPS and augmented reality to let players find and catch virtual monsters in real-world locations.
+It has been downloaded more than a billion times across iOS and Android devices, with millions still logging on each day.
+And Michael Steranka, vice president of product at the game's publisher Scopely, says the Pokémon Go experience has always been about bringing people together.
+"Pokémon Go will always start with community - we think we're only scratching the surface here," he said.
+"We often receive wedding invites from players who met through Pokémon Go... because it's been such an integral part of their relationship."
+It may seem a surprising sentiment to have for a game and its studio.
+But Pokémon Go's connection with its players appears to have prevailed, as hundreds of gamers gathered in New York's Times Square on Thursday to battle a giant Mewtwo - a reference to the game's original trailer published over a decade ago, external.
+When it was released in 2016, Pokémon Go quickly became one of the biggest mobile game launches in history.
+The technology overlays digital creatures onto a live view of the real world through a smartphone's camera, making it appear as though they're standing in front of the player.
+It sparked a craze where people flocked to places like parks, waterfronts and shopping malls in the hope of catching Pokémon.
+"By allowing you to take your mobile phone out into the world to discover virtual creatures, Pokémon Go helped realise the millennial dream of becoming a Pokémon Trainer," said Matthew Reynolds, editor of Pokémon news website One More Catch, external.
+The game's popularity has endured. It has hosted major live events in more than 60 countries, averaging more than 400,000 attendees a year since the first Go Fest in 2017.
+'Like a music festival'
+Scopely estimates players have explored over 100 billion kilometres while playing Pokémon Go - roughly 334 round trips between the Earth and the Sun.
+UK content creator j0beats runs one of Twitch's biggest channels dedicated to the game and regularly travels to events like the one in New York to meet fellow players.
+"People always think it's crazy that you travel all over just to catch some pixels," she laughs.
+"But it's not just about that. When you go to these big events, you're there for the people and for the energy of it.
+"It's like a music festival - you could just stay at home and just listen to the music, or you could go out there and you could listen live and appreciate it with other people. It's the same sort of concept."
+But the streamer says her fondest memory of the game is a little closer to home.
+In 2025, Pokémon Go's Wild Area - one of its events - came to South Yorkshire.
+"It was the only European event and it was hosted in Doncaster, which is sort of just around the corner from me," she said.
+"So it was really exciting to collaborate with the community ambassadors there and help them host the event."
+For some players, the game has also had an unexpected impact on their mental health.
+Austin lives in Maine in the US and has been playing since 2017.
+He told me before playing Pokémon Go it was "nearly impossible" to motivate himself to do anything, as he was feeling very anxious and depressed about life.
+"When I went to my first raid meetup it was like a warm blanket," he said.
+"As I held my phone and walked to the group of strangers in the park, I saw them look at me, and for the first time I wasn't nervous meeting this new group of people, I was actually excited and happy."
+"From that day on that little voice telling me to stay in bed was put on mute."
+Over the years, the game has sometimes been a victim of its own hype and global appeal.
+Police and safety groups once warned players not to become so engrossed in catching the next Psyduck that they got lost or put themselves in danger.
+The game's immense popularity sometimes also meant "servers buckled under the strain", said Reynolds, meaning connectivity problems were "rife for some time".
+And while the pandemic was seen as a boon for many in the video game industry, Steranka says the initial strict lockdowns "impacted Pokémon Go probably more than any other game out there".
+The game later bounced back as restrictions eased and people once again looked for reasons to get outside.
+Then in 2025, some fans questioned how the game's future might change when Scopely - which is itself owned by Saudi Arabia's Public Investment Fund, bought developer Niantic for $3.5bn (then £2.7bn).
+"My hope is that we prove to players over time that this is definitively a good thing for the game and the community," Steranka says.
+Looking ahead, Steranka says the focus for the game remains on community, memories and creating experiences families can share.
+"No matter where I was and what phase of my life, Pokémon Go has been there for me," he says.
+"It meets people where they are, at whatever phase of life they're in."
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published17 April
+- Published11 May
+- Published27 February`,
+    bodyJa: `Pokémon GO が誕生して 10 年、何百万人もの人々が今もポケモン Go をすべて捕まえようとしています
+- 公開されました
+ポケモンファンは過去 30 年間、すべてのポケモンを捕まえようと努力してきましたが、当初からこの狩りは家の外で行われることが多かったです。
+この人気シリーズは 1996 年に任天堂のポータブル ゲームボーイ コンソールで始まり、人々の携帯電話でも現代的な成功を収めました。
+現在 10 周年を迎えているモバイル アプリ Pokémon Go は、GPS と拡張現実を使用して、プレイヤーが現実世界の場所で仮想モンスターを見つけて捕まえることができます。
+iOS および Android デバイス全体で 10 億回以上ダウンロードされており、今でも毎日数百万人がログインしています。
+そして、ゲームの発売元であるスコープリー社の製品担当副社長であるマイケル・ステランカ氏は、ポケモンGOの体験は常に人々を結び付けるものであったと語る。
+「Pokémon Goは常にコミュニティから始まります。私たちはここで表面をなぞっただけだと考えています」と彼は語った。
+「Pokémon GO を通じて知り合ったプレイヤーから結婚式の招待状をよく受け取ります。ポケモン GO は彼らの関係にとって非常に重要な部分だからです。」
+ゲームとそのスタジオに対してこのような感情を持つのは驚くべきことのように思えるかもしれません。
+しかし、Pokémon Goとプレイヤーとのつながりは広まったようで、木曜日には数百人のゲーマーが巨大なミュウツーと戦うためにニューヨークのタイムズスクエアに集まった（これは10年以上前に外部で公開されたゲームのオリジナルトレーラーへの言及である）。
+Pokémon Go は 2016 年にリリースされると、すぐに史上最大のモバイル ゲームのローンチの 1 つになりました。
+この技術は、スマートフォンのカメラを介して現実世界のライブビューにデジタル生物を重ね合わせ、あたかもプレイヤーの前に立っているように見せます。
+それはポケモンを捕まえることを期待して人々が公園、水辺、ショッピングモールなどの場所に群がる熱狂を引き起こした。
+「携帯電話を世界に持ち出して仮想の生き物を発見できるようにしたことで、Pokémon GO はポケモントレーナーになるという千年の夢の実現に役立ちました」と、ポケモン ニュース ウェブサイト One More Catch の編集者であるマシュー レイノルズ氏 (社外) は述べています。
+ゲームの人気は根強く残っています。 2017 年の最初の Go Fest 以来、60 か国以上で大規模なライブ イベントを主催し、年間平均 40 万人以上の参加者を集めています。
+「音楽祭みたい」
+Scopely は、プレイヤーが Pokémon Go をプレイ中に探検した距離は 1,000 億キロメートル以上、つまり地球と太陽をおよそ 334 往復したと推定しています。
+英国のコンテンツ クリエイターである j0beats は、ゲーム専用の Twitch 最大のチャンネルの 1 つを運営しており、ニューヨークで開催されるようなイベントに定期的に出張して仲間のプレイヤーと交流しています。
+「ピクセルをキャッチするためだけにあちこちを旅するなんて、みんな頭がおかしいといつも思われます」と彼女は笑います。
+「しかし、それだけではありません。これらの大きなイベントに行くとき、あなたは人々とそのエネルギーのためにそこにいるのです。
+「それは音楽フェスティバルのようなものです。家にいてただ音楽を聴くこともできますし、外に出て生で聴いて他の人と一緒に鑑賞することもできます。それと同じようなコンセプトですね。」
+しかし、ストリーマーは、ゲームに関する彼女の最も楽しい思い出は、もう少し身近なところにあると語ります。
+2025 年、Pokémon GO のイベントの 1 つであるワイルド エリアがサウス ヨークシャーにやって来ました。
+「これはヨーロッパで唯一のイベントで、ドンカスターで開催されましたが、それは私からすぐ近くにあります」と彼女は言いました。
+「ですから、現地のコミュニティアンバサダーと協力してイベントの主催を手伝うことができて、本当にエキサイティングでした。」
+一部のプレイヤーにとって、このゲームは精神的健康に予期せぬ影響を与えました。
+オースティンは米国メイン州に住んでおり、2017年からプレーしている。
+彼は、Pokémon GO をプレイする前、人生に対して非常に不安と憂鬱を感じていたため、何かをする動機を自分に与えることは「ほぼ不可能」だったと私に語った。
+「初めてレイド交流会に行ったときは、まるで暖かい毛布のようでした」と彼は語った。
+「携帯電話を持って公園にいる見知らぬ人たちのグループに歩いていくと、彼らが私を見ているのが見えました。初めてこの新しい人々のグループに会うことに緊張しなくなり、実際に興奮していて幸せでした。」
+「その日から、ベッドにいてくださいという小さな声は聞こえなくなりました。」
+長年にわたり、このゲームは時として、その誇大広告や世界的な魅力の犠牲者となってきました。
+警察や安全団体はかつて、次のサイダックを捕まえるのに夢中になりすぎて道に迷ったり、危険にさらされないようプレイヤーに警告したことがある。
+レイノルズ氏によると、このゲームの絶大な人気により、「サーバーが過負荷で座屈」することもあり、接続の問題が「しばらくの間蔓延」していたことを意味するという。
+そして、パンデミックはビデオゲーム業界の多くの人々にとって恩恵と見なされていたが、ステランカ氏は、最初の厳格なロックダウンが「おそらく他のどのゲームよりもポケモンGOに影響を与えた」と述べた。
+その後、制限が緩和され、人々が再び外出する理由を探すにつれて、ゲームは回復しました。
+そして2025年、サウジアラビアの公共投資基金が所有するスコープリーが開発会社ナイアンティックを35億ドル（当時27億ポンド）で買収したことで、一部のファンはゲームの将来がどう変わるのか疑問を抱いた。
+「私の願いは、これがゲームとコミュニティにとって決定的に良いことであることを、時間をかけてプレイヤーに証明することです」とステランカ氏は言います。
+今後を見据えて、ステランカ氏は、ゲームの焦点は引き続きコミュニティ、思い出、家族が共有できる体験の創造にあると述べています。
+「私がどこにいても、人生のどの段階にいても、Pokémon GO は私にとって常にそこにありました」と彼は言います。
+「人生のどの段階にいても、その人がいる場所で人々と出会います。」
+Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。
+関連トピック
+- 4 月 17 日公開
+- 5 月 11 日公開
+- 2 月 27 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-13T00:07:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c312/live/88ec5440-7be6-11f1-9010-bd4e2d0a26e0.png",
+    readTime: 7,
+  },
+  {
+    id: "new-era-for-gibraltar-with-removal-of-11-effe7d8b",
+    title: "New era for Gibraltar with removal of 118-year-old border controls with Spain",
+    titleJa: "118年間続いたスペインとの国境管理が撤廃され、ジブラルタルに新時代が到来",
+    summaryJa: "118年間続いたスペインとの国境管理が撤廃され、ジブラルタルに新時代が到来- 公開されました",
+    bodyOriginal: `New era for Gibraltar with removal of 118-year-old border controls with Spain
+- Published
+Every weekday morning, Shilpi Chotrani rides her bicycle from her home in the Spanish town of La Línea de la Concepción to Gibraltar. It's a short journey but it means crossing an international border.
+A British Overseas Territory of around 40,000 inhabitants, Gibraltar has a border control for those entering and leaving.
+That means that during the morning and afternoon rush hours, when around 15,000 Spaniards who work in the territory cross the frontier, there can be long, time-consuming queues.
+"The fact that there is a border between us is ridiculous," says Chotrani, who has a job in human resources in a Gibraltarian shipping and tourism company. "I don't think a fence should separate people from one place and another."
+Behind her, the 1,400-foot-tall Rock of Gibraltar is shrouded in early-morning cloud. Perched at the southern tip of mainland western Europe, it is just nine miles from Morocco, at a point where the Atlantic Ocean and the Mediterranean Sea meet.
+It is a place that has witnessed military battles, sovereignty disputes and a 13-year blockade imposed by Spain.
+But from 15 July it is scheduled to see a new development - the removal of the border, allowing freedom of movement between Spain and Gibraltar.
+This is part of a carefully negotiated agreement between the European Union and the UK following the latter's exit from the bloc. Sharing a land border with the EU meant that Gibraltar posed a unique challenge in the post-Brexit era.
+"This is going to be a great step forward, both for the Spanish side and the British side," says Chotrani. "All of those of us who live [in La Línea de la Concepción] think this is a great idea. This should have been done a long time ago."
+Gibraltar has one of the highest per capita incomes in the world. But La Línea de la Concepción and the nearby area is one of the most deprived parts of Spain.
+Unemployment, which is high across the southern Andalusia region, is close to 30% here. The removal of the border is therefore expected to have major economic benefits, facilitating the flow of people back and forth, and possibly going some way to redress the imbalance between the two territories.
+"This is something historic, we've had a border fence since 1908," says Juan Franco, the mayor of La Línea de la Concepción, who is keen to underline the local economic dependence on the British territory.
+"You have to realise that for an average company in this town a third of its income is from clients in Gibraltar," he says.
+After a decade of uncertainty regarding Gibraltar's future relationship with Spain following the UK's vote to leave the EU, Franco says he believes "this solution to Brexit will end up having a positive effect for us".
+Spain to check Gibraltar arrivals under post-Brexit deal
+- Published26 February
+No threat to British sovereignty over Gibraltar deal, says Lammy
+- Published12 June 2025
+Gibraltarians were staunchly opposed to Brexit, with 96% of them voting to remain in the EU in the 2016 referendum on the issue. That staunchly pro-EU stance was driven partly by concerns that exiting the bloc would encourage Spanish sovereignty claims on the Rock.
+But another major factor was Gibraltar's existing close trade relationship with the EU – particularly in areas such as online gaming, shipping and financial services – and fears about the logistical challenges Brexit would pose.
+After years of negotiation involving Spain, the EU and the UK, the solution has been to align Gibraltar with the European customs union and the Schengen European free travel zone.
+Travellers arriving from countries outside Schengen, such as the UK, will have to show their passports to Gibraltarian and Spanish officials at the territory's airport and port.
+The Chief Minister of Gibraltar, Fabian Picardo, says the new arrangements, which are due to be provisionally implemented with their approval by the UK and European Parliaments still pending, represent "a huge change" for the territory.
+"One of the key things which has defined the past eight generations of Gibraltarians is the restrictions at the frontier," he told the BBC in the Gibraltarian government's headquarters.
+Picardo describes the agreement as introducing "complete and utter fluidity of people and goods" between Gibraltar, on the one hand, and Spain and the EU on the other.
+The most obvious economic benefit for Gibraltar, Picardo says, will be an increase in arrivals.
+"Business will now be able, in Gibraltar, to see a footfall increase which is not going to be restrained by a potential queue on the way in or frontier queue on the way out."
+With Spain contesting the UK's sovereignty of Gibraltar, it is an issue that occasionally flares up in the political arena. In the most notorious episode of bilateral tensions in recent times, Spain's dictator, Francisco Franco, introduced a blockade of the Rock in 1969, which was only lifted in 1982, well after his death.
+The chief minister casts the new arrangement as the opposite of the blockade - a logical, mutually beneficial opening up of a border.
+"This will be huge for human relations, it will be huge for business, it will be huge for frontier workers, it will be a new dawn" for Gibraltar's relationship with Spain and the EU, says Picardo.
+Spain's foreign minister, José Manuel Albares, has cast it in a similar light, speaking of "a new era" for the Rock.
+However, the deal also means that goods sold in Gibraltar must comply with EU regulations, something that had not been the case until now.
+In addition, the lack of value added tax (VAT) in Gibraltar has meant that a new transaction tax is being introduced, replacing import duty. Charged on all goods sold in Gibraltar, it will start at 15% this year, eventually rising to 17%. There will also be higher rates of excise tax on certain goods.
+John Isola, managing director of Anglo Hispano Company, which runs several restaurants and bars on the Rock, says there is a sense of relief among the Gibraltarian business community that the drawn-out Brexit issue has, finally, been resolved – and without a hard border.
+He sees the new arrangement as "a good compromise" that will encourage more visitors to Gibraltar and therefore more business.
+However, Isola also admits to some nervousness due to the new regulations and tax regime, which he expects will have an impact on competitiveness. "For anybody importing goods the scenario changes completely in terms of the paperwork that one is going to have to present to get the goods in," he says.
+He also believes that new requirements to adhere to EU standards "is a challenge for anybody who is importing goods from the UK or anywhere else outside the EU".
+Gibraltarians and residents of La Línea de la Concepción have had plenty of time to get used to the idea of the new arrangement. In recent weeks, machinery has been tearing down the border fence each night, in preparation for 15 July.
+Having witnessed so much drama in the past, this territory is about to discover the significance of the latest twist in its history.
+Related topics
+Read more global business stories
+- Published4 days ago
+- Published7 days ago`,
+    bodyJa: `118年間続いたスペインとの国境管理が撤廃され、ジブラルタルに新時代が到来
+- 公開されました
+シルピ・チョトラーニさんは平日の毎朝、スペインの町ラ・リネア・デ・ラ・コンセプシオンの自宅からジブラルタルまで自転車に乗ります。短い旅ではありますが、国境を越えることになります。
+人口約 40,000 人の英国海外領土であるジブラルタルには、出入国者に対する国境管理が行われています。
+つまり、領土内で働く約1万5000人のスペイン人が国境を越える朝と午後のラッシュアワーには、時間のかかる長い行列ができる可能性がある。
+「私たちの間に国境があるという事実はばかばかしい」と、ジブラルタルの海運・観光会社で人事の仕事をしているチョトラーニ氏は言う。 「フェンスで人々をある場所と別の場所から隔てるべきではないと思います。」
+彼女の後ろには、高さ400フィートのジブラルタルの岩が早朝の雲に覆われています。西ヨーロッパ本土の南端に位置し、モロッコからわずか 9 マイル、大西洋と地中海が交わる地点にあります。
+ここは軍事戦闘、主権紛争、そしてスペインによる13年間にわたる封鎖を目撃してきた場所だ。
+しかし、7月15日からは国境が撤廃され、スペインとジブラルタル間の移動の自由が認められるという新たな展開が予定されている。
+これは、欧州連合と英国のEU離脱後の英国との間で慎重に交渉された協定の一部である。 EUと陸路で国境を共有していることは、ジブラルタルがEU離脱後の時代に独特の課題を突きつけることを意味した。
+「これはスペイン側にとってもイギリス側にとっても大きな前進となるだろう」とチョトラーニ氏は言う。 「[ラ・リネア・デ・ラ・コンセプシオンに]住んでいる私たち全員が、これは素晴らしいアイデアだと考えています。これはずっと前に行われるべきでした。」
+ジブラルタルは一人当たりの所得が世界で最も高い国の一つです。しかし、ラ・リネア・デ・ラ・コンセプシオンとその近隣地域は、スペインで最も恵まれない地域の一つです。
+アンダルシア南部地域全体で失業率は高く、ここでも失業率は30％近くに達している。したがって、国境の撤廃は大きな経済的利益をもたらし、人々の行き来を促進し、おそらく両国間の不均衡を是正する何らかの手段になると期待されている。
+ラ・リネア・デ・ラ・コンセプシオン市長のフアン・フランコ氏は、「これは歴史的なことだ。1908年から国境フェンスが設置されてきた」と語り、英国領土への地域経済の依存度を強調したいとしている。
+「この町の平均的な企業では、収入の 3 分の 1 がジブラルタルの顧客からのものであることを認識する必要があります」と彼は言います。
+英国のEU離脱投票後、ジブラルタルとスペインの将来の関係については10年にわたり不確実性が続いたが、フランコ氏は「EU離脱に対するこの解決策は最終的には我が国にとってプラスの効果をもたらすだろう」と信じていると述べた。
+スペイン、EU離脱後の協定に基づきジブラルタル到着者をチェックへ
+- 2 月 26 日発行
+ラミー氏、ジブラルタル協定を巡る英国の主権への脅威はない
+- 2025 年 6 月 12 日公開
+ジブラルタル国民はEU離脱に断固反対しており、この問題に関する2016年の国民投票では国民の96％がEU残留に投票した。この断固とした親EUの姿勢は、EU離脱がスペインのザ・ロックに対する主権主張を促進するのではないかという懸念によって部分的に推進された。
+しかし、もう一つの大きな要因は、ジブラルタルとEUとの既存の密接な貿易関係、特にオンラインゲーム、海運、金融サービスなどの分野における関係と、Brexitがもたらす物流上の課題に対する懸念だった。
+スペイン、EU、英国が関与した長年の交渉を経て、解決策はジブラルタルを欧州関税同盟およびシェンゲン欧州自由旅行圏と連携させることであった。
+英国などシェンゲン協定外の国から到着する旅行者は、シェンゲン圏の空港と港でジブラルタルとスペインの当局者にパスポートを提示する必要がある。
+ジブラルタル州のファビアン・ピカルド首相は、英国と欧州議会の承認をまだ保留したまま暫定的に実施される予定の新たな取り決めは、ジブラルタルにとって「大きな変化」を意味すると述べた。
+同氏はジブラルタル政府本部でBBCに対し、「過去8世代のジブラルタル人を特徴づけた重要なことの一つは、辺境での制限だ」と語った。
+ピカルド氏は、この協定は、一方ではジブラルタル、もう一方ではスペインとEUの間に「人や物の完全かつ完全な流動性」を導入するものであると説明している。
+ジブラルタルにとって最も明白な経済的利益は到着者数の増加だ、とピカルド氏は言う。
+「ジブラルタルでは、ビジネスは今後、往路の行列や退路の辺境の行列によって妨げられることなく、客足の増加を確認できるようになります。」
+スペインが英国のジブラルタル主権を争っており、政治の舞台で時折激化する問題だ。最近の二国間緊張の最も悪名高いエピソードでは、スペインの独裁者フランシスコ・フランコが1969年にロック封鎖を導入したが、それが解除されたのは彼の死後かなり後の1982年だった。
+首相は新たな取り決めを封鎖とは反対の、論理的で相互利益となる国境開放だと位置づけている。
+ジブラルタルとスペインおよびEUの関係にとって、「これは人間関係にとっても、ビジネスにとっても、国境地帯の労働者にとっても非常に大きなものであり、新たな夜明けとなるだろう」とピカルド氏は言う。
+スペインの外務大臣ホセ・マヌエル・アルバレスも同様の見方をし、ロックの「新時代」について語った。
+しかし、この協定は、ジブラルタルで販売される商品がEUの規制に従わなければならないことも意味しており、これまではそうではなかった。
+さらに、ジブラルタルには付加価値税 (VAT) が存在しないため、輸入税に代わって新しい取引税が導入されることになります。ジブラルタルで販売されるすべての商品に課せられる税率は、今年は15％から始まり、最終的には17％に引き上げられる。また、特定の商品に対する消費税の税率も高くなります。
+オン・ザ・ロックで複数のレストランやバーを経営するアングロ・イスパノ・カンパニーのマネージング・ディレクター、ジョン・イソラ氏は、ジブラルタルのビジネス界には、長引いた英国のEU離脱問題がついに、しかも厳しい国境線もなく解決されたという安堵感が広がっていると語る。
+同氏は、この新たな取り決めは、ジブラルタルへのより多くの訪問者、ひいてはビジネスの増加を促進する「良い妥協策」だと考えている。
+しかし、イゾラ氏はまた、新しい規制と税制のために多少の不安を感じていることも認めており、競争力に影響を与えると予想している。 「商品を輸入する人にとって、商品を受け取るために提示しなければならない書類の点でシナリオは完全に変わります」と彼は言います。
+同氏はまた、EU基準に準拠するための新たな要件は「英国やEU域外から商品を輸入する者にとっての課題である」とも考えている。
+ジブラルタル人やラ・リネア・デ・ラ・コンセプシオンの住民は、新しい取り決めのアイデアに慣れるまでに十分な時間があった。ここ数週間、7月15日に備えて機械が毎晩国境フェンスの破壊を行っている。
+過去に多くのドラマを目撃してきたこの地域は、その歴史における最新の展開の重要性を発見しようとしています。
+関連トピック
+グローバル ビジネス ストーリーをもっと読む
+- 4 日前に公開
+- 7 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-12T23:29:06+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df71/live/aad05480-7c4a-11f1-bee8-53ce494e1abc.jpg",
+    readTime: 8,
+  },
+  {
+    id: "why-switching-to-save-money-is-easier-th-340bb693",
+    title: "Why switching to save money is easier than you might think",
+    titleJa: "お金を節約するための切り替えが思っているよりも簡単な理由",
+    summaryJa: "お金を節約するための切り替えが思っているよりも簡単な理由- 公開されました",
+    bodyOriginal: `Why switching to save money is easier than you might think
+- Published
+Seeking out a better deal from your broadband, pay TV and energy suppliers? While you know it could save hundreds of pounds, you might be wondering if it's worth the hassle.
+But often it only needs one call or a couple of clicks - and banks even pay an incentive to people who switch their main current accounts.
+Regulators have made the switching process easier in recent years, encouraging people to shop around when cost of living pressures have intensified.
+Which deals are the best for you still depends on your circumstances, but here are some of the ways that switching works.
+'One touch' broadband switch
+Virgin Media has just been fined £28m by regulator Ofcom for repeatedly preventing customers from cancelling contracts.
+The communications regulator said it uncovered tactics including agents deliberately hanging up calls, and customers being put on hold "for no reason". Millions of calls from customers were likely to have been mishandled over a three-year period which prevented or delayed them from switching to a better broadband, landline or pay-TV deal.
+Anyone switching now shouldn't face the same hassle. Ofcom's One Touch Switch service, launched in 2024, means you only have to contact your new provider, not negotiate with the old one.
+Ofcom says you should check whether you are in or out of contract, external, as you could face exit fees.
+Some people are motivated to switch because they are fed up with the service from their old supplier.
+Many do so in order to save money. So, customers may still decide to call their current provider in order to negotiate a better deal, or ask them to match the offer they could get by switching.
+Paid to change bank
+In years gone by, most people would get a bank account early in their adult life and stick with it for decades.
+Competition now sees banks try to win over new customers by offering cash to switch - but only if you use their current account as your main account.
+Many people have been put off that idea owing to the perceived complication of wages being paid into that account, and direct debits and the like needing to be moved.
+The Current Account Switch Service, external now does most of the hard work.
+You provide the account and debit card numbers for the account you are leaving to your new bank and choose a date for the move (although it can take seven days).
+Behind the scenes, the service will then automatically transfer direct debits and standing orders, move the balance, redirect incoming payments, such as benefits or salaries, and close your old account.
+If anything goes wrong, you'll be refunded any interest and charges on your old and new accounts.
+If you have an overdraft, you'll have to check the new bank offers to cover this, and the amount owed will then be switched automatically. If not, you'll have to pay it off.
+Doing your homework on energy switch
+Changing energy supplier and tariff has also been simplified by regulator Ofgem, but there are some key things to check, including:
+The way you pay can make a big difference to your bill - paying every month by direct debit is typically £140 a year cheaper than getting a bill every three months
+Falling behind on previous bills can prevent you from switching to a new supplier
+Decide on whether to move to a fixed tariff, which sets the price per unit of gas and electricity for a period of time, or a variable one
+As with broadband, you only need to contact the new supplier if you want to switch.
+Ofgem says the new supplier will need, external your postcode, the name of your current energy supplier and your current tariff, the amount you pay for your energy per unit (shown in kilowatt hours - kWh - on your bill), and the amount of energy you use each year. Most of this is on bills or energy statements, and switching services can help.
+The switch can take five days, and you have a 14-day cooling off period, during which you can cancel the switch without a fee.
+It is important to take meter readings, so you get charged the correct amount by your old and new supplier.`,
+    bodyJa: `お金を節約するための切り替えが思っているよりも簡単な理由
+- 公開されました
+ブロードバンド、有料テレビ、エネルギー供給業者からより有利な取引を探していますか?何百ポンドも節約できることはわかっていても、手間をかける価値があるかどうか疑問に思うかもしれません。
+しかし多くの場合、1回の電話か数回のクリックだけで手続きが完了し、銀行はメインの当座預金口座を切り替える人に奨励金を支払うことさえある。
+規制当局は近年、切り替えプロセスを容易にし、生活費の圧迫が高まったときに人々が買い物をするよう奨励している。
+どの取引があなたにとって最適であるかは状況によって異なりますが、切り替えの方法をいくつか紹介します。
+「ワンタッチ」ブロードバンドスイッチ
+Virgin Mediaは顧客の契約解除を繰り返し妨害したとして、規制当局のOfcomから2,800万ポンドの罰金を課されたばかりだ。
+通信規制当局は、エージェントが意図的に電話を切ったり、顧客が「理由もなく」保留にされたりするなどの手口が判明したと述べた。顧客からの数百万件の電話は、3 年間で誤って処理された可能性があり、そのため、より良いブロードバンド、固定電話、または有料テレビ契約への切り替えが妨げられたり、遅れたりしました。
+これから切り替える人は同じ問題に直面する必要はありません。 2024 年に開始された Ofcom のワンタッチ スイッチ サービスでは、古いプロバイダーと交渉する必要はなく、新しいプロバイダーに連絡するだけで済みます。
+Ofcom は、契約終了時に違約金が発生する可能性があるため、外部契約の有無を確認する必要があると述べています。
+以前のサプライヤーのサービスにうんざりしたために、乗り換えようとする人もいます。
+多くの人はお金を節約するためにそうします。したがって、顧客は、より有利な取引を交渉するために、または切り替えによって得られるオファーと一致するように依頼するために、現在のプロバイダーに電話することを決定する可能性があります。
+銀行を変更するために支払われる
+昔は、ほとんどの人が成人してから早い段階で銀行口座を取得し、それを何十年も使い続けていたでしょう。
+現在、競争が激化しており、銀行は切り替え用の現金を提供することで新規顧客を獲得しようとしているが、それは当座預金口座をメイン口座として使用している場合に限られる。
+賃金がその口座に支払われ、口座振替などを移動する必要があるという複雑な認識のせいで、多くの人がその考えを先延ばしにしてきました。
+現在、外部の現在のアカウント切り替えサービスが、ほとんどのハードワークを実行します。
+退職する口座の口座番号とデビット カード番号を新しい銀行に提供し、移行日を選択します (ただし、7 日かかる場合があります)。
+その後、このサービスは舞台裏で自動的に口座振替や定期注文の転送、残高の移動、福利厚生や給与などの入金のリダイレクトを行い、古いアカウントを閉鎖します。
+何か問題が発生した場合は、古いアカウントと新しいアカウントの利息と料金が返金されます。
+当座貸越がある場合は、これをカバーするために銀行の新しいオファーを確認する必要があり、その後、未払い額が自動的に切り替えられます。そうでない場合は、返済しなければなりません。
+エネルギースイッチで宿題をする
+エネルギー供給者と料金の変更も規制当局 Ofgem によって簡素化されましたが、次のような重要な確認事項がいくつかあります。
+支払い方法によって請求額に大きな違いが生じる可能性があります。通常、口座振替で毎月支払う方が、3 か月ごとに請求書を受け取るよりも年間 140 ポンド安くなります。
+以前の請求を滞納すると、新しいサプライヤーに切り替えることができなくなる可能性があります
+一定期間のガスと電気の単位あたりの価格を設定する固定料金プランに移行するか、変動料金プランに移行するかを決定します。
+ブロードバンドと同様に、切り替えたい場合は新しいサプライヤーに連絡するだけで済みます。
+Ofgem によれば、新しい供給業者には、郵便番号、現在のエネルギー供給業者の名前と現在の料金表、単位あたりのエネルギー料金の支払い額 (請求書にはキロワット時 (kWh) で表示)、および毎年使用するエネルギー量が必要になります。そのほとんどは請求書や電力料金明細書に記載されており、サービスの切り替えが役に立ちます。
+切り替えには 5 日間かかりますが、14 日間のクーリングオフ期間があり、その間は手数料なしで切り替えをキャンセルできます。
+新旧のサプライヤーから正しい金額が請求されるように、メーターの測定値を取得することが重要です。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-12T23:28:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16a/live/a606cc70-7c74-11f1-917a-91e958a7e786.png",
+    readTime: 5,
+  },
+  {
+    id: "who-will-replace-lindsey-graham-in-the-s-a0493d94",
+    title: "Who will replace Lindsey Graham in the Senate?",
+    titleJa: "上院でリンジー・グラハムの後任は誰になるでしょうか?",
+    summaryJa: "先週末に急死したリンジー・グラハム上院議員（共和党、サウスカロライナ州）の空席を埋めるべく、混雑する可能性のある議場で最初に名前が挙がっているのはナンシー・メイス下院議員（共和党、サウスカロライナ州）とヘンリー・マクマスター・サウスカロライナ州知事の2人である。グラハム氏は死去当時、再選を目指しており、今年11月の総選挙で民主党のアニー・アンドリュース氏と対決する予定だった。この選挙戦では、エイミー・ウォルター氏とともにクック・ポリティカル・リポートが「ソリッドR」と名付けていた。",
+    bodyOriginal: `Rep. Nancy Mace, R-S.C., and South Carolina Gov. Henry McMaster are among the first two names being floated in what could be a crowded field to fill the seat vacated by Sen. Lindsey Graham, R-S.C., who died suddenly over the weekend.
+Graham was seeking reelection at the time of his death and was due to square off against Democrat Annie Andrews in the general election this November, in a race the Cook Political Report with Amy Walter had labeled "Solid R."
+A person familiar with Mace's thinking, who spoke on condition of anonymity, said she is "strongly considering" running for the seat and would be out with polling on Monday.
+Mace, who has represented South Carolina's 1st congressional district since 2021, launched a campaign for governor but lost in the Republican primary in June.
+"South Carolina lost a giant last night. For more than three decades, Lindsey Graham gave everything he had to this state and this country, from the Air Force to the United States Senate," Mace wrote on X on Sunday. "We did not always agree, but no one ever questioned his love for South Carolina or the fight he brought to every room he walked into."
+In a subsequent post on X on Sunday, Mace referenced "The Godfather Part III."
+"'Just when I thought I was out… they pull me back in…'" she posted.
+Meanwhile, President Donald Trump, the preeminent kingmaker in Republican politics, said on NBC's "Meet the Press" Sunday morning that "I have somebody I like" to replace Graham, but declined to name who it is.
+"I'm not going to tell you who now because it's too soon," the president said.
+Trump, however, heaped praise on South Carolina Gov. Henry McMaster, a close ally, during the interview.
+"Henry's been a great governor, you know now he's termed out, but he's going to do the right thing," Trump said. "I think Henry will be fantastic."
+According to South Carolina state law, McMaster will need to hold a special primary election on Aug.11 to replace Graham on the November ballot. The filing period for that primary will open July 21.
+McMaster has the authority to appoint a candidate to fill Graham's current role. Michelle LeClair, McMaster's press secretary, told CNBC: "At this time, our focus is on honoring Senator Graham's life and service. Questions regarding the process for filling the vacancy will be addressed by the Governor's Office when there are updates to share."
+Punchbowl News had reported that Rep. Joe Wilson, R-S.C., is interested in the interim appointment and would run for a full term.
+But Wilson, who is running for reelection in South Carolina's 2nd congressional district, on Sunday appeared to throw cold water on the claim in a post on X.
+"I was grateful to speak with President Trump today reminiscing about our mutual friend, Senator Lindsey Graham. I assured him my goal is to remain in the House to keep his two-vote majority for the American people!!!" Wilson posted.
+Others could also join the race.
+Rep. William Timmons, who is seeking another term representing South Carolina's 4th congressional district, said in a statement to CNBC that he was "deeply saddened" by Graham's passing but didn't rule out a run.
+"If and when the time comes to discuss the future, I have always been willing to serve South Carolina wherever I can make the greatest difference," Timmons said.
+Rep. Ralph Norman, another member of South Carolina's House delegation who fell short in his campaign for governor earlier this year, is also expected to test the waters, multiple outlets reported.
+Graham's replacement potentially could come from outside the halls of Congress. There is speculation that Lt. Gov. Pamela Evette, who earned Trump's endorsement in her campaign for governor, could enter the fray.
+And Politico reported that Treasury Secretary Scott Bessent, a South Carolina native who has kept a home in the state, was fielding calls from people encouraging him to run. Bessent's spokespeople did not immediately respond to a CNBC request for comment.`,
+    bodyJa: `先週末に急死したリンジー・グラハム上院議員（共和党、サウスカロライナ州）の空席を埋めるべく、混雑する可能性のある議場で最初に名前が挙がっているのはナンシー・メイス下院議員（共和党、サウスカロライナ州）とヘンリー・マクマスター・サウスカロライナ州知事の2人である。
+グラハム氏は死去当時、再選を目指しており、今年11月の総選挙で民主党のアニー・アンドリュース氏と対決する予定だった。この選挙戦では、エイミー・ウォルター氏とともにクック・ポリティカル・リポートが「ソリッドR」と名付けていた。
+メイス氏の考えに詳しい関係者は匿名を条件に、メイス氏は立候補を「強く検討」しており、月曜日には投票に行く予定だと語った。
+2021年からサウスカロライナ州第1下院選挙区の代表を務めているメイス氏は知事選に立候補したが、6月の共和党予備選で敗れた。
+「サウスカロライナ州は昨夜、巨人を失った。リンジー・グラハムは30年以上にわたり、空軍から米国上院まで、この州とこの国に持てるすべてを捧げた」とメイス氏は日曜日のXに書いた。 「私たちはいつも同意していたわけではありませんでしたが、彼のサウスカロライナへの愛や、彼がどの部屋に入っても喧嘩をしたことに疑問を抱く人は誰もいませんでした。」
+日曜日のXに関するその後の投稿で、メイスは「ゴッドファーザー パートIII」に言及した。
+「『外に出たと思ったら…彼らは私を引き戻した…』」と彼女は投稿した。
+一方、共和党政界の傑出したキングメーカーであるドナルド・トランプ大統領は日曜朝、NBCの「ミート・ザ・プレス」でグラハム氏の後任に「好きな人がいる」と述べたが、それが誰なのかは明らかにしなかった。
+大統領は「時期尚早なので今は誰とは言わない」と述べた。
+しかし、トランプ大統領はインタビュー中に、親密な同盟者であるサウスカロライナ州知事ヘンリー・マクマスターを称賛した。
+トランプ大統領は「ヘンリーは偉大な知事だった。もう解任されたが、彼は正しいことをするつもりだ」と語った。 「ヘンリーは素晴らしい選手になると思うよ。」
+サウスカロライナ州法によれば、マクマスター氏は11月の投票でグラハム氏に代わって8月11日に特別予備選挙を実施する必要がある。その予備選挙の提出期間は7月21日に始まる。
+マクマスター氏はグラハム氏の現在の役割を担う候補者を任命する権限を持っている。マクマスター氏の報道官ミシェル・ルクレア氏はCNBCに対し、「現時点では、我々はグラハム上院議員の生涯と功績に敬意を表することに重点を置いている。欠員補充のプロセスに関する質問については、最新情報があれば知事室から回答されるだろう」と語った。
+パンチボウル・ニュースは、ジョー・ウィルソン下院議員（共和党、サウスカロライナ州）が暫定任命に興味を示しており、全任期に立候補するつもりだと報じていた。
+しかし、サウスカロライナ州第2下院選挙区での再選を目指して立候補しているウィルソン氏は日曜日、Xへの投稿でこの主張に冷や水を浴びせたようだ。
+「今日、私たちの共通の友人であるリンジー・グラハム上院議員のことを思い出しながら、トランプ大統領と話せたことに感謝しました。私の目標は下院に留まり、アメリカ国民の2票の過半数を維持することであると彼に約束しました!!!」ウィルソンが投稿しました。
+他の人もレースに参加する可能性があります。
+サウスカロライナ州第4選挙区を代表して再選を目指しているウィリアム・ティモンズ下院議員はCNBCへの声明で、グラハム氏の死去に「深く悲しんでいる」としながらも、出馬する可能性は否定しなかった。
+ティモンズ氏は、「将​​来について話し合う時期が来たら、私は常にサウスカロライナ州で最大の変化をもたらすことができる限り喜んで奉仕するつもりだ」と語った。
+今年初めの知事選での選挙戦で落選したサウスカロライナ州下院議員団のもう一人のラルフ・ノーマン下院議員も水域を試すとみられると複数の報道機関が報じた。
+グラハム氏の後任は議会外から選出される可能性がある。知事選でトランプ大統領の支持を得たパメラ・エヴェット副知事がこの争いに加わる可能性があるとの憶測がある。
+また、ポリティコは、サウスカロライナ州出身で州内に住居を構えているスコット・ベッセント財務長官が、出馬を促す人々からの電話に対応していると報じた。ベッセント氏の広報担当者はCNBCのコメント要請にすぐには応じなかった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/12/nancy-mace-lindsey-graham-senate-seat-south-carolina-election.html",
+    publishedAt: "2026-07-12T20:28:16+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "graham-s-death-complicates-myriad-gop-go-47262358",
+    title: "Graham’s death complicates myriad GOP goals in Congress",
+    titleJa: "グラハム氏の死は議会における無数の共和党の目標を複雑にする",
+    summaryJa: "リンジー・グラハム上院議員の死去は、議会がホワイトハウスの有力な情報提供者であり連立構築者の一人を失う中、共和党の一連の政策努力に混乱をもたらすことになる。71歳で亡くなった共和党サウスカロライナ州グラハム氏は、上院の重鎮であり、ドナルド・トランプ大統領との緊密な関係により、上院が数多くの協定を仲介し、ウクライナなどの同盟国への援助を確保することに貢献した。上院予算委員会の委員長を務めたグラハム氏は、「大きくて美しい法案」として知られるトランプ大統領の目玉和解税・支出法案の可決に不可欠な存在だった。",
+    bodyOriginal: `Sen. Lindsey Graham's death stands to scramble an array of Republican policy efforts, as Congress loses one of its top White House whisperers and coalition builders.
+Graham, R-S.C., who died at 71, was a titan of the Senate whose close relationship with President Donald Trump helped the upper chamber broker numerous deals and secure aid for allies such as Ukraine. Graham, who chaired the Senate Budget Committee, was integral to passing Trump's marquee reconciliation tax-and-spending law, known as the "one big, beautiful bill."
+He also served on the Appropriations, Judiciary, and Environment and Public Works Committees and was known to work across the aisle on policy issues.
+Graham's death comes as the Senate works to advance many of Trump's priorities before heading into a tough midterm election in November, and his passing is likely to complicate those efforts. Included in the long list of unfinished business is the SAVE America Act, Trump's sought-after voter-ID bill; a third reconciliation bill to address affordability and replenish the military; and the confirmation of Attorney General nominee Todd Blanche.
+SAVE America Act
+Graham was a staunch advocate for the SAVE America Act, Trump's laundry list bill to require voter ID and proof of citizenship to vote, along with several other White House priorities. Trump has been almost singularly focused on the bill, despite its steep odds of becoming law.
+Trump, in a Sunday call on NBC's "Meet the Press," lamented that the SAVE America Act will be harder to pass without Graham's support.
+"This is a big blow to the Save America Act, let me tell you," Trump said. "He was pushing for the SAVE America Act like crazy."
+The SAVE America Act, especially the version being pushed by Trump, faced steep odds of becoming law with or without Graham. It was far short of the 60 votes needed to overcome the Senate filibuster, given strong Democratic opposition.
+Graham's death, however, will make it more difficult for the Senate to communicate the steep odds of passing the SAVE America Act. Trump noted that he spoke with Graham Saturday night about the bill.
+"He called, and he said we're all set for the Save America Act," Trump said. "He literally called me about the Save America Act."
+Reconciliation 3.0
+Graham would have been integral to any additional reconciliation packages Republicans aim to pass by the end of this year. The Budget Committee steers reconciliation bills, which must be budget-centric and comply with the Byrd Rule — an arcane Senate process that allows the upper chamber to skirt the 60-vote filibuster.
+Congress has already passed two reconciliation bills this year, including the one big, beautiful bill and a bill to fund immigration enforcement agencies after federal agents from those agencies shot and killed two American citizens earlier this year.
+A third package — still not entirely fleshed out and largely in flux — was expected to include military spending to replenish stockpiles depleted by the war with Iran, affordability issues and fraud.
+Graham's death now throws into disarray any planning he had done for that bill and leaves the Budget Committee without a chairman.
+Blanche nomination
+Trump's pick for Attorney General, acting AG Todd Blanche, now faces a new hurdle to Senate confirmation.
+Graham served on the Judiciary Committee and was next in line to take the gavel when the term of Chair Chuck Grassley, R-Iowa, ends. The Committee includes 12 Republicans and 10 Democrats, meaning any Republican defection, along with full Democratic opposition, would result in a deadlock. Graham's death brings that tally to 11 Republicans and 10 Democrats.
+Sen. Thom Tillis, R-N.C., who is retiring at the end of his term and also serves on the Judiciary Committee, is currently undecided on Blanche's nomination, though he said he has a positive predisposition toward him and has met with Trump's former personal attorney. Should Tillis defect now, along with all Democrats, Blanche's nomination would fail 11-10.
+Ukraine aid
+Graham has been one of Ukraine's staunchest supporters as it repels Russia's invasion that began in 2021. He has been critical in shepherding money through Congress and greasing the wheels for Trump to support aid to Ukraine.
+The senator had just returned from Ukraine immediately before his death.
+Trump, who came into office pledging to end the war in Ukraine, was significantly more antagonistic to the country than his predecessor, former President Joe Biden. In the first days of his second term, Trump hosted Ukrainian President Volodymyr Zelenskyy and berated him publicly. Trump has also threatened to cut off aid to Ukraine on numerous occasions.
+After much lobbying from Graham, however, the president eventually warmed to aiding Ukraine as it fights Russia. Trump recently said Ukraine would be licensed to make Patriot missile interceptors, a long-range defense system that Ukraine has long sought.
+On Friday, Graham announced he and several other senators had reached a deal with the White House to advance an updated sanctions package aimed at Russia.
+"As Russia intensifies its slaughter of civilians, it is imperative that the legislative and executive branches work together to create tools to exact a heavy price on those who buy Russian oil and natural gas, fueling the Putin war machine," the senators said.`,
+    bodyJa: `リンジー・グラハム上院議員の死去は、議会がホワイトハウスの有力な情報提供者であり連立構築者の一人を失う中、共和党の一連の政策努力に混乱をもたらすことになる。
+71歳で亡くなった共和党サウスカロライナ州グラハム氏は、上院の重鎮であり、ドナルド・トランプ大統領との緊密な関係により、上院が数多くの協定を仲介し、ウクライナなどの同盟国への援助を確保することに貢献した。上院予算委員会の委員長を務めたグラハム氏は、「大きくて美しい法案」として知られるトランプ大統領の目玉和解税・支出法案の可決に不可欠な存在だった。
+彼はまた、歳出委員会、司法委員会、環境・公共事業委員会の委員も務め、通路を越えて政策問題に取り組むことで知られていました。
+グラハム氏の死去は、上院が11月の厳しい中間選挙に向けてトランプ大統領の優先事項の多くを前進させようと取り組んでいる最中に起きたもので、同氏の死去によりこうした取り組みが複雑になる可能性が高い。未完の仕事の長いリストには、トランプ大統領が求めていた有権者ID法案であるSAVE America Actが含まれている。手頃な価格に対処し、軍隊を補充するための3番目の和解法案。そして司法長官候補のトッド・ブランシュ氏の承認。
+セーブ・アメリカ法
+グラハム氏は、SAVE America Act、投票に有権者IDと市民権証明を要求するトランプ大統領の洗濯物リスト法案、その他いくつかのホワイトハウスの優先事項の熱心な支持者だった。成立の可能性が非常に高いにもかかわらず、トランプ大統領はほぼ唯一この法案に焦点を当ててきた。
+トランプ大統領は日曜日のNBC番組「ミート・ザ・プレス」に出演し、グラハム氏の支持がなければSAVEアメリカ法の可決はさらに困難になると嘆いた。
+トランプ大統領は「これはセーブ・アメリカ法に対する大きな打撃だ、言わせてほしい」と述べた。 「彼は狂ったようにSAVE America Actを推進していました。」
+SAVE America Act、特にトランプ大統領が推し進めている法案は、グラハム氏の有無にかかわらず成立するかどうかは極めて難しい。民主党の強い反対を考慮すると、上院議事妨害を打開するために必要な60票には遠く及ばなかった。
+しかし、グラハム氏の死により、上院が「SAVE America Act」可決の極めて高い確率を伝えることはさらに困難になるだろう。トランプ大統領は土曜日の夜に法案についてグラハム氏と話したと述べた。
+トランプ大統領は「彼から電話があり、『セーブ・アメリカ法』への準備は整っていると言われた」と語った。 「彼は文字通り、『アメリカ救援法』について私に電話をかけてきました。」
+和解 3.0
+共和党が今年末までに可決を目指す追加の和解案にはグラハム氏が不可欠だったはずだ。予算委員会は和解法案の立案を主導するが、この法案は予算中心であり、上院が60票の議事妨害を回避できるようにする難解な上院プロセスであるバード・ルールに準拠する必要がある。
+議会は今年すでに2件の和解法案を可決しており、そのうちの1件は大きく美しい法案と、今年初めに移民執行機関の連邦職員が米国人2名を射殺した事件を受けて移民執行機関に資金を提供する法案である。
+3番目のパッケージはまだ完全に具体化されておらず、ほぼ流動的であるが、イランとの戦争、手頃な価格の問題、詐欺によって枯渇した備蓄を補充するための軍事支出が含まれると予想されていた。
+グラハム氏の死により、彼がその法案のために行った計画はすべて混乱に陥り、予算委員会は委員長不在のままとなった。
+ブランシュのノミネート
+トランプ大統領が司法長官に指名したトッド・ブランシュ長官代理は、上院での承認を得るために新たなハードルに直面している。
+グラハム氏は司法委員会の委員を務め、チャック・グラスリー委員長（共和党、アイオワ州）の任期が終了する際に次に小槌を受け取る予定だった。同委員会には共和党員12名、民主党員10名が含まれており、民主党の全面反対とともに共和党が離党すれば膠着状態に陥ることになる。グラハム氏の死により、その数は共和党員11名、民主党員10名となった。
+任期満了で退任し、司法委員会の委員も務めるトム・ティリス上院議員（共和党、ノースカロライナ州）は現在、ブランチ氏の指名について未定だが、ブランチ氏に対して好意的な傾向があり、トランプ氏の元個人弁護士と面会したと述べた。もしティリス氏が今、民主党員全員とともに離党すれば、ブランシュ氏の指名は11対10で失敗することになる。
+ウクライナ援助
+グラハム氏は、2021年に始まったロシアの侵略を撃退するウクライナの最も熱心な支持者の一人だ。議会を通じて資金を誘導し、トランプ大統領がウクライナ支援を支援できるようにすることに重要な役割を果たしてきた。
+同上院議員は亡くなる直前にウクライナから帰国したばかりだった。
+ウクライナ戦争終結を誓って就任したトランプ氏は、前任のジョー・バイデン前大統領よりもウクライナに対する敵対心が著しく強かった。 2期目の任期の最初の数日、トランプ氏はウクライナのウォロディミル・ゼレンスキー大統領を接待し、公の場で彼を非難した。トランプ大統領はまた、何度もウクライナへの援助を打ち切ると脅してきた。
+しかし、グラハム氏からの多大なロビー活動の後、大統領は最終的に、ロシアと戦うウクライナを支援することに前向きになった。トランプ大統領は最近、ウクライナが長年求めてきた長距離防衛システムであるパトリオットミサイル迎撃システムの製造許可をウクライナに与えると述べた。
+金曜日、グラハム氏は自身と他の数名の上院議員がロシアを対象とした最新の制裁パッケージを進めることでホワイトハウスと合意に達したと発表した。
+「ロシアが民間人虐殺を強化する中、立法府と行政府が協力して、ロシアの石油や天然ガスを購入する者たちに高額の対価を課し、プーチン大統領の戦争機構を刺激する手段を作り出すことが不可欠だ」と上院議員らは述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/12/grahams-death-policy-washington-save-america-ukraine-blanche-reconciliation.html",
+    publishedAt: "2026-07-12T18:22:11+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "elon-musk-and-sam-altman-spar-on-x-after-5ff7cf92",
     title: "Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit",
     titleJa: "AppleがOpenAI訴訟を起こした後、イーロン・マスク氏とサム・アルトマン氏がXを巡って争う",
@@ -1715,440 +2197,6 @@ Related topics
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7442/live/ebd646e0-7a35-11f1-ab76-d75965dea4d1.jpg",
     readTime: 6,
-  },
-  {
-    id: "astrazeneca-s-trial-flop-raises-a-bigger-526a2da8",
-    title: "AstraZeneca's trial flop raises a bigger question: Is its pipeline premium becoming more vulnerable?",
-    titleJa: "アストラゼネカの試験的失敗は、より大きな疑問を引き起こした：同社のパイプラインプレミアムはより脆弱になっているのだろうか？",
-    summaryJa: "アストラゼネカのワイヌアに対する後期臨床試験の失敗は、同社に大きな財務的影響を与えるとは予想されていなかった。ほとんどのアナリストは、この試験の失敗によって評価モデルからわずか 2 ～ 4% が消去されたと推定しています。しかし、株価は1回の取引でその約2倍下落しており、市場の反応が希少な心臓病の治療を目的とした1つの薬剤の損失以上のものを反映していることを示唆している。",
-    bodyOriginal: `AstraZeneca's failed late-stage trial for Wainua was never expected to have a major financial impact on the company.
-Most analysts estimate the trial miss wiped just 2-4% from their valuation models. Yet the shares lost roughly twice that in a single session, suggesting the market reaction reflected more than just the loss of one drug, which was intended to treat a rare heart disease.
-The disconnect has shifted attention away from Wainua itself and toward something more difficult to measure: whether the valuation premium investors have long assigned to one of Europe's most highly regarded drug pipelines is justified.
-For years, AstraZeneca has commanded among the richest valuations among large European pharmaceutical companies on the assumption that management consistently delivers successful late-stage clinical trials across oncology, rare diseases, and specialty medicines, and replenishes its portfolio with new blockbuster medicines.
-Under CEO Pascal Soriot's 14-year reign, AstraZeneca has developed a reputation as a pharma powerhouse that rarely posts negative trial results.
-Wainua itself was not expected to become one of AstraZeneca's biggest products. Instead, the surprise lay in the failure of a program many investors viewed as having a high probability of success.
-Analysts mostly say the disappointment doesn't undermine AstraZeneca's long-term growth story, but it may have raised the bar for proving it.
-The issue goes beyond the extra revenue Wainua would have added to AstraZeneca's top line, as it puts a dent in the company's credibility, Jefferies analysts wrote in a note to clients on Thursday.
-"This was meant to be a slam dunk making the outright failure surprising."
-Bigger than one drug
-The financial impact of Wainua's failure as a treatment for ATTR cardiomyopathy, a rare and life-threatening heart condition, appears relatively modest.
-Citi puts the net present value impact at roughly 3%. Jefferies estimates around 2%, and Leerink Partners' price target reduction implied a similarly limited hit. Bank of America described the sales impact as "mid-single digit," while Morningstar said decreased sales estimates for Wainua do not significantly change its valuation.
-Those estimates contrast with the market reaction as shares fell 6.2% in Thursday's session, marking the stock's worst day in over two years, and were down an additional 3% on Friday.
-An AstraZeneca spokesperson declined to comment further on the share price reaction.
-Rather than simply removing part of Wainua sales from their models, investors may be reassessing the confidence they place in AstraZeneca's broader pipeline and execution.
-Dan Coatsworth, head of markets at AJ Bell, noted that AstraZeneca has had far more hits than misses recently, creating high expectations for success.
-"AstraZeneca has bold plans to hit $80 billion in sales by 2030, and investors will now be asking if this target is credible," Coatsworth said in emailed comments.
-Jefferies said the failed trial does not threaten management's 2030 ambition, while Citi continues to expect that the company can exceed that target.
-Leerink noted that, after speaking to management, removing Wainua for ATTR-cardiomyopathy decreases the headroom above the company-provided consensus of about $82.7 billion to about $80.8 billion, reflecting $1.9 billion in Wainua revenues in 2030.
-Morningstar left its fair value estimate unchanged, saying the setback "does not change our view of its late-stage drug development capabilities," while noting AstraZeneca's oncology franchise, rare disease business and broader pipeline remain intact.
-Both Goldman Sachs and Bank of America highlighted that investors had not seriously considered the possibility of the trial failing, given the favorable precedent from Alnylam's rival drug Amvuttra that works similarly.
-A shrinking margin for error?
-The failed study also comes at an important moment for AstraZeneca.
-Several of the company's largest pipeline catalysts — including the AVANZAR trial for lung cancer, SERENA-4 for breast cancer, and cliramitug also for ATTR cardiomyopathy — are expected to report data over the coming months, meaning investor attention is now concentrated on fewer high-profile readouts.
-"All eyes on AVANZAR," Jefferies wrote, describing it as the next major catalyst likely to determine sentiment. The readout is expected in July or August.
-Leerink suggested the setback puts even greater focus on the remaining "binary events" expected later this year.
-Most analysts continue to recommend buying the stock. Citi reiterated AstraZeneca as its top European pharmaceutical pick, Bank of America reiterated its Buy rating, and Jefferies argued investors should be "buying the dip."`,
-    bodyJa: `アストラゼネカのワイヌアに対する後期臨床試験の失敗は、同社に大きな財務的影響を与えるとは予想されていなかった。
-ほとんどのアナリストは、この試験の失敗によって評価モデルからわずか 2 ～ 4% が消去されたと推定しています。しかし、株価は1回の取引でその約2倍下落しており、市場の反応が希少な心臓病の治療を目的とした1つの薬剤の損失以上のものを反映していることを示唆している。
-この断絶により、関心はワイヌアそのものから離れ、より測定が難しいものへと移った。それは、投資家が長い間、欧州で最も評価の高い医薬品パイプラインの一つに割り当ててきたバリュエーション・プレミアムが正当であるかどうかだ。
-アストラゼネカは長年にわたり、経営陣が腫瘍学、希少疾患、特殊医薬品にわたる後期臨床試験を一貫して成功させ、ポートフォリオに新たな大ヒット医薬品を補充しているという前提で、欧州の大手製薬会社の中で最も豊富な評価額を獲得してきた。
-パスカル・ソリオ最高経営責任者（CEO）の14年間の統治下で、アストラゼネカは否定的な試験結果をめったに発表しない製薬大手としての評判を築いてきた。
-ワイヌア自体はアストラゼネカの最大の製品の一つになるとは予想されていなかった。むしろ驚きは、多くの投資家が成功の可能性が高いと見ていたプログラムが失敗したことにあった。
-アナリストらの大半は、今回の失望がアストラゼネカの長期的な成長ストーリーを損なうものではないが、それを証明するハードルを上げた可能性があると述べている。
-この問題は、ワイヌアがアストラゼネカの売上高に加えるはずだった追加収益を超えており、同社の信頼性に傷を与えるものであると、ジェフリーズのアナリストらは木曜日の顧客向けノートで述べた。
-「これはスラムダンクのつもりだったので、完全な失敗は驚くべきことだった。」
-一つの薬よりも大きなもの
-まれで生命を脅かす心臓病であるATTR心筋症の治療法としてワイヌアが失敗した場合の経済的影響は比較的小さいようだ。
-シティは、正味現在価値への影響を約 3% と見積もっています。ジェフリーズは約2％と予想しており、リーリンク・パートナーズの目標株価引き下げも同様に限定的な打撃を示唆している。バンク・オブ・アメリカは売上高への影響を「一桁半ば」と表現したが、モーニングスターはワイヌアの売上高予想の減少は同社の評価を大きく変えるものではないと述べた。
-これらの予想は市場の反応とは対照的で、木曜日の取引で株価は6.2％下落し、2年以上で最悪の日となり、金曜日にはさらに3％下落した。
-アストラゼネカの広報担当者は株価の反応についてこれ以上のコメントを控えた。
-投資家は単にワイヌアの売上の一部をモデルから除外するのではなく、アストラゼネカのより広範なパイプラインと実行に対する信頼を再評価している可能性がある。
-ＡＪベルの市場責任者、ダン・コーツワース氏は、アストラゼネカは最近、ヒット作よりもヒット作の方がはるかに多く、成功への期待が高まっていると指摘した。
-コーツワース氏は電子メールでのコメントで、「アストラゼネカは２０３０年までに売上高を８００億ドルに達するという大胆な計画を持っており、投資家は今後この目標が信頼できるかどうかを問うことになるだろう」と述べた。
-ジェフリーズ氏は、裁判の失敗は経営陣の２０３０年目標を脅かすものではないとし、シティは同社がその目標を超えることができると引き続き期待していると述べた。
-リーリンク氏は、経営陣との話し合いの結果、ATTR心筋症でワイヌアを解任すると、会社が提示したコンセンサスである約827億ドルを上回る余裕が約808億ドルに減少し、これは2030年のワイヌアの収益19億ドルを反映していると指摘した。
-モーニングスターは公正価値の見積りを据え置き、今回の挫折は「同社の後期段階の医薬品開発能力に関するわれわれの見方を変えるものではない」と述べた一方、アストラゼネカの腫瘍学フランチャイズ、希少疾患事業、および広範なパイプラインは無傷のままであると指摘した。
-ゴールドマン・サックスとバンク・オブ・アメリカは、アルナイラム社のライバル薬で同様の効果があるアムブトラの有利な前例を踏まえ、投資家が治験失敗の可能性を真剣に検討していないと強調した。
-誤差の範囲は縮小していますか？
-この研究の失敗は、アストラゼネカにとっても重要な時期に起きた。
-肺がんを対象としたAVANZAR試験、乳がんを対象としたSERENA-4、ATTR心筋症を対象としたcliramitugなど、同社最大のパイプライン触媒のいくつかは今後数カ月以内にデータを報告すると見込まれており、これは投資家の注目が現在、少数の注目度の高いデータに集中していることを意味している。
-ジェフリーズ氏は「AVANZARに注目が集まっている」と書き、AVANZARがセンチメントを決定づける可能性が高い次の主要な触媒になると述べた。発表は7月か8月に予定されている。
-リーリンク氏は、今回の挫折により、今年後半に予想される残りの「バイナリーイベント」にさらに重点が置かれることになると示唆した。
-ほとんどのアナリストは引き続き株の購入を推奨している。シティはアストラゼネカを欧州の製薬会社のトップ候補として繰り返し、バンク・オブ・アメリカは買いの格付けを繰り返し、ジェフリーズは投資家は「押し目を買う」べきだと主張した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/11/astrazenecas-trial-pipeline-pharma-valutaion-stock.html",
-    publishedAt: "2026-07-11T05:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "meta-pulls-new-ai-image-feature-after-da-d30a0e3a",
-    title: "Meta pulls new AI image feature after days of backlash",
-    titleJa: "数日間の反発を経て、Meta が新しい AI 画像機能を廃止",
-    summaryJa: "数日間の反発を経て、Meta が新しい AI 画像機能を廃止- 公開されました",
-    bodyOriginal: `Meta pulls new AI image feature after days of backlash
-- Published
-Meta has abruptly taken down a new feature that allowed people to use its artificial intelligence (AI) tool to make fake images from user content on Instagram.
-The feature was part of a broad rollout of Muse Image, a new AI image generation tool Instagram's parent company released on Tuesday.
-It allowed users of the Meta AI chatbot to tag public-facing accounts on Instagram and quickly use content on those accounts to create AI-generated or altered content and images.
-The feature quickly sparked blowback due to privacy concerns, leading Meta to admit it had “missed the mark" so it was "no longer available”.
-Muse Image was the tech firm's first foray into AI image generation but faced backlash as Instagram users were opted in by default.
-It meant that anyone with a public account could have their likeness used without their knowledge or permission.
-Hollywood union Sag-Aftra described the U-turn as a "win". It had previously urged its members and "all Instagram users" to take action to protect their likeness stating that there had been an "utter miscalculation of public sentiment regarding the obvious dangers and harms inherent in such use".
-The London-based human rights charity Privacy International had also criticised the feature, telling the BBC it was "the latest sign AI companies see people's images and data as raw material to be exploited".
-“Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,” Meta added in its decision to pull the feature. “We've heard the feedback.”
-When Meta announced Muse Image, external, the firm said it was limited to Instagram, but more AI features and integrations were planned for WhatsApp, Facebook and Messenger.
-It also has an AI video tool in development.
-Meta declined to make any further comment.`,
-    bodyJa: `数日間の反発を経て、Meta が新しい AI 画像機能を廃止
-- 公開されました
-Metaは、同社の人工知能（AI）ツールを使用してInstagram上のユーザーコンテンツから偽の画像を作成することを可能にする新機能を突然削除した。
-この機能は、Instagramの親会社が火曜日にリリースした新しいAI画像生成ツールであるMuse Imageの広範な展開の一環であった。
-これにより、Meta AI チャットボットのユーザーは、Instagram 上の公開アカウントにタグを付け、それらのアカウントのコンテンツをすぐに使用して、AI によって生成または変更されたコンテンツや画像を作成できるようになりました。
-この機能はすぐにプライバシー上の懸念から反発を引き起こし、メタ社はこの機能が「的外れ」だったため「もう利用できなくなった」と認めた。
-Muse Imageは同社のAI画像生成への初の進出だったが、Instagramユーザーがデフォルトでオプトインしているため反発に直面した。
-つまり、公開アカウントを持つ人は誰でも、本人の知らないうちに、または許可なく自分の肖像を使用される可能性がありました。
-ハリウッドの労働組合サグ・アフトラは、Uターンを「勝利」と表現した。同社は以前、「そのような使用に内在する明白な危険性と害に関して国民感情の完全な誤算」があったとして、会員と「すべてのインスタグラムユーザー」に対し、肖像を保護するための行動を起こすよう呼び掛けていた。
-ロンドンに本拠を置く人権慈善団体プライバシー・インターナショナルもこの機能を批判し、これは「AI企業が人々の画像やデータを悪用される原材料とみなしている最新の兆候」だとBBCに語った。
-「私たちの目的は、便利なクリエイティブツールを提供し、公開コンテンツをこの方法で参照できるかどうかを人々が制御できるようにすることでした」とMetaは機能を廃止する決定に付け加えた。 「フィードバックは聞いています。」
-Meta が社外向けに Muse Image を発表したとき、同社は Instagram に限定されるが、WhatsApp、Facebook、Messenger に対してさらに多くの AI 機能と統合が計画されていると述べました。
-AIビデオツールも開発中です。
-メタ氏はそれ以上のコメントを控えた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-11T01:45:59+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05bb/live/b840f240-7ccd-11f1-bee8-53ce494e1abc.png",
-    readTime: 2,
-  },
-  {
-    id: "us-wants-iran-to-pledge-to-stop-shooting-ad66cae8",
-    title: "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-    titleJa: "米国はイランに対し、ホルムズ海峡での船舶への射撃をやめるという誓約を求めている",
-    summaryJa: "米国はイランに対し、ホルムズ海峡での船舶への射撃をやめるという誓約を求めている- 公開されました",
-    bodyOriginal: `US wants Iran to pledge to stop shooting at ships in Strait of Hormuz
-- Published
-The US wants Iran to publicly state that the Strait of Hormuz is open and to pledge to stop firing on commercial ships as part of negotiations due to be held on Saturday.
-US media cited unnamed officials as saying Tehran had privately acknowledged to President Donald Trump's advisers that the shooting at ships was a mistake, though the Iranians reportedly pinned the blame on a rogue internal group.
-Trump has said both sides have agreed to continue talks despite this week's fighting over the Strait of Hormuz, which the White House saw as a violation of the ceasefire.
-In June the US and Iran signed a ceasefire agreement where Iran would, in part, give safe passage to commercial ships.
-Tehran said that an "errant" sect of hardliners was trying to undermine negotiations by firing on the commercial ships, senior US officials told CBS News, the BBC's US partner.
-One official told the TV network: "They [the Iranians] came back to the table and said, 'We screwed up. We made a mistake. Let's keep talking.'"
-In a briefing for reporters on Friday, the US officials said a message to Tehran's leadership had been conveyed through regional mediators demanding Iran release a statement declaring the strait open and that it will stop shooting at commercial ships, according to multiple media reports.
-"They're either going to give us that statement or we're not having a good outcome for them," said one official, quoted by Reuters news agency.
-The White House also wants Iran to publicly acknowledge that firing on the shipping was a mistake, CBS reports.
-Vice-President JD Vance, Secretary of State Marco Rubio and two people who have been heavily involved in Middle East talks - special envoy Steve Witkoff and Trump's son-in-law Jared Kushner - are expected to lead negotiations, which were expected to take place in Oman on Saturday.
-Meanwhile, a delegation from Qatar travelled to Iran on Friday for talks aimed at defusing tensions and easing navigation through the Strait of Hormuz.
-Trump wrote in a post on Truth Social earlier on Friday: "The Islamic Republic of Iran has asked us to continue 'talks.'
-"We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!"
-No fresh attacks were reported on Friday after fighting broke out in the Gulf region earlier this week, marking the worst exchange of fire between the US and Iran since the two nations signed an interim deal in June.
-Three ships were struck while using a US-recommended route through Omani waters. Iran has repeatedly said the only "safe" passage is a separate route through its waters.
-Overall progress came last month when the US and Iran agreed on a 14-point memorandum of understanding, which was aimed at extending a ceasefire and ending conflict "on all fronts".
-As part of the agreement Iran and Oman must hold talks "to define the future administration and maritime services" in the strait with other Gulf states.
-During the conflict, Iran sought to assert its sovereignty over the strait, including by establishing the "Persian Gulf Strait Authority", which it said would manage "safe passage permits".
-Iran's Fars news agency has reported that under the new deal with the US the strait would ultimately be managed by Iran in co-ordination with Oman, including possible "service fees" for ships to transit the waterway.`,
-    bodyJa: `米国はイランに対し、ホルムズ海峡での船舶への射撃をやめるという誓約を求めている
-- 公開されました
-米国はイランに対し、ホルムズ海峡は開いていると公に表明し、土曜日に開催予定の交渉の一環として商船への砲撃を停止することを約束することを求めている。
-米メディアは匿名の当局者の話として、イラン政府がドナルド・トランプ大統領の顧問に対し、船舶への銃撃は間違いだったと非公式に認めたと伝えたが、伝えられるところによると、イラン側は責任を国内のならず者集団に負わせていると伝えられている。
-トランプ大統領は、ホワイトハウスが停戦違反とみなした今週のホルムズ海峡での戦闘にもかかわらず、双方が協議を継続することで合意したと述べた。
-6月に米国とイランは、イランが商船の安全な航行を部分的に認める停戦協定に署名した。
-イラン政府は、強硬派の「誤った」一派が商船に発砲することで交渉を弱体化させようとしていると述べたと米国高官がBBCの米国パートナーであるCBSニュースに語った。
-ある当局者はテレビ局に対し、「彼ら（イラン人）はテーブルに戻ってきて、『我々は失敗した。我々は間違いを犯した。話を続けよう』と言った」と語った。
-複数のメディア報道によると、米当局者らは金曜の記者向け会見で、イランに対し海峡開放を宣言する声明の発表と商船への射撃を中止するよう求めるメッセージが地域の仲介者を通じてテヘラン指導部に伝えられたと述べた。
-ロイター通信が伝えたところによると、ある当局者は「彼らが我々にそのような声明を出すか、そうでなければ我々が彼らにとって良い結果をもたらさないかのどちらかだ」と語った。
-CBSの報道によると、ホワイトハウスはイランに対し、船舶への発砲は間違いだったと公的に認めることも求めているという。
-Ｊ・Ｄ・バンス副大統領、マルコ・ルビオ国務長官、そして中東交渉に深く関与してきた２人、スティーブ・ウィトコフ特使とトランプ大統領の義理の息子ジャレッド・クシュナー氏が交渉を主導するとみられ、土曜日にオマーンで行われる予定だった。
-一方、カタールの代表団は金曜日、緊張の緩和とホルムズ海峡の航行の緩和を目的とした協議のためイランを訪れた。
-トランプ大統領は金曜日、トゥルース・ソーシャルへの投稿で「イラン・イスラム共和国は我々に『対話』を続けるよう求めてきた」と書いた。
-「我々はそうすることに同意したが、米国は不確実な言葉で彼らに対し、停戦は終わったと述べた！」
-今週初めに湾岸地域で戦闘が勃発したが、金曜には新たな攻撃は報告されておらず、米国とイランの間での銃撃戦は６月に両国が暫定合意に署名して以来最悪となった。
-オマーン海域を通過する米国推奨の航路を利用中に船舶３隻が衝突した。イランは、唯一の「安全な」航路は自国の海域を通る別のルートであると繰り返し述べてきた。
-全体的な進展は先月、米国とイランが停戦延長と「あらゆる面で」紛争を終わらせることを目的とした14項目の覚書に合意したことで実現した。
-合意の一環として、イランとオマーンは他の湾岸諸国との海峡で「将来の行政と海洋サービスを定義するため」の協議を開催する必要がある。
-紛争中、イランは「安全な通航許可」を管理する「ペルシャ湾海峡管理局」を設立するなど、同海峡の主権を主張しようとした。
-イランのファルス通信は、米国との新たな合意の下で、この海峡は最終的にはイランがオマーンと連携して管理することになり、これには水路を通過する船舶に「サービス料」がかかる可能性も含まれると報じた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-11T01:24:49+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83f6/live/e1bcc750-7a4a-11f1-8540-110da73337d9.jpg",
-    readTime: 4,
-  },
-  {
-    id: "apple-sues-openai-alleging-trade-secret-25a11045",
-    title: "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
-    titleJa: "Apple、営業秘密窃盗の疑いでOpenAIを提訴、計画は「あらゆるレベルで」行われていたと語る",
-    summaryJa: "Appleは金曜日、人工知能研究所が独自の消費者向けハードウェアを開発するためにiPhoneメーカーの知的財産を盗んだとして、OpenAIを営業秘密窃盗の疑いで北カリフォルニアの連邦裁判所に訴えた。「しかし、これだけは明らかだ。技術スタッフのメンバーから最高ハードウェア責任者に至るまで、あらゆるレベルで、そしてビジネスパートナーと連携して、OpenAIはAppleの企業秘密や機密情報を盗んでいる」と同社は訴訟書類で述べた。",
-    bodyOriginal: `Apple on Friday sued OpenAI in federal court in Northern California, alleging trade secret theft, saying that the artificial intelligence lab took the iPhone maker's intellectual property in order to develop its own consumer hardware.
-"This much is clear, however: at every level, from members of its Technical Staff to its Chief Hardware Officer, and in coordination with business partners, OpenAI has been stealing Apple's trade secrets and confidential information," the company said in a legal filing.
-It's a shocking reversal for the two companies, which entered into a high-profile partnership in 2024, when ChatGPT was integrated into the iPhone's operating system. OpenAI CEO Sam Altman visited Apple's headquarters for the announcement.
-But relations between the two companies have chilled since OpenAI announced plans to enter the hardware industry last year, when it bought former Apple designer Jony Ive's startup, called IO Products, for $6.4 billion.
-Apple's updated version of its Siri assistant, which is coming out this fall, is based on Google's Gemini AI models instead of OpenAI's technology.
-Most of Apple's allegations involve former employees who have interviewed with or joined OpenAI.
-Apple alleged that OpenAI's hardware chief, Tang Tan, who is a former Apple vice president, has directed Apple employees interviewing at OpenAI to share Apple secrets as part of the interviewing process. Tan is named as a defendant in the suit.
-"He has directed job candidates still working for Apple to bring 'actual parts' from Apple to their interviews for 'show and tell' sessions in which he and his team at OpenAI can elicit still more Apple confidential information," Apple said in the filing.
-Apple alleged that OpenAI coached departing Apple employees in how to evade security processes when leaving the iPhone maker, and that Chang Liu, a former employee who joined OpenAI, stole an Apple laptop. Liu is named as a defendant in the suit.
-It also said that Apple believes OpenAI is asking hardware firms to carry out a metal finishing technique that Apple invented, while "misleading the partner to believe they had Apple's permission to do so."
-"Recently, significant evidence has emerged suggesting individuals employed by OpenAI wrongfully took Apple's secret and confidential information regarding our unreleased technologies, processes, and products," an Apple representative told CNBC in a statement.
-"We have no interest in other companies' trade secrets. We remain focused on building innovative technology that empowers people everywhere," a representative for OpenAI said in a statement.
-IO Products is also named in the lawsuit.
-OpenAI hasn't announced when or what its hardware products will be, but Altman said in November that it had finished its first prototypes.
-Apple didn't comment on whether the lawsuit will affect the partnership with OpenAI, which includes the integration of ChatGPT into Apple Intelligence.
-Mounting legal woes present another risk to OpenAI as it gears up for what's expected to be a historic IPO.
-Apple's complaint comes two months after OpenAI won a high-profile trial against Tesla and SpaceX CEO Elon Musk. A federal jury found that Musk, who helped start OpenAI, had waited too long to sue the AI lab over claims that Altman, co-founder Greg Brockman and the company reneged on agreements to run it as a nonprofit. Musk said he would appeal.
-Apple is seeking damages, injunctions, and an order to force OpenAI to stop using its trade secrets.
-WATCH: Apple shares move higher despite losing ground to China`,
-    bodyJa: `Appleは金曜日、人工知能研究所が独自の消費者向けハードウェアを開発するためにiPhoneメーカーの知的財産を盗んだとして、OpenAIを営業秘密窃盗の疑いで北カリフォルニアの連邦裁判所に訴えた。
-「しかし、これだけは明らかだ。技術スタッフのメンバーから最高ハードウェア責任者に至るまで、あらゆるレベルで、そしてビジネスパートナーと連携して、OpenAIはAppleの企業秘密や機密情報を盗んでいる」と同社は訴訟書類で述べた。
-ChatGPTがiPhoneのオペレーティングシステムに統合された2024年に注目を集める提携関係を結んだ両社にとって、これは衝撃的な逆転だ。 OpenAI CEOのサム・アルトマン氏は発表のためにApple本社を訪れた。
-しかし、OpenAIが昨年、元Appleデザイナー、ジョニー・アイブ氏のスタートアップ「IO Products」を64億ドルで買収してハードウェア業界への参入計画を発表して以来、両社の関係は冷え込んでいる。
-Appleがこの秋に発売するSiriアシスタントの最新版は、OpenAIの技術ではなく、GoogleのGemini AIモデルに基づいている。
-Apple の申し立てのほとんどは、OpenAI と面接したり、OpenAI に参加したりした元従業員に関係しています。
-Appleは、OpenAIのハードウェア責任者で元Apple副社長のTang Tan氏が、OpenAIで面接を受けるApple従業員に対し、面接プロセスの一環としてAppleの秘密を共有するよう指示したと主張した。タン氏は訴訟の被告として指名されている。
-「同氏は、まだAppleで働いている求職者に対し、Appleの『実際の部品』を面接に持ち込んで『見せて伝える』セッションを行うよう指示しており、そこで同氏とOpenAIの彼のチームはさらに多くのAppleの機密情報を引き出すことができる」とAppleは提出書類の中で述べた。
-Appleは、OpenAIが退職するApple従業員にiPhoneメーカーを退職する際のセキュリティプロセスを回避する方法を指導し、OpenAIに入社した元従業員のChang Liu氏がAppleのラップトップを盗んだと主張した。劉氏は訴訟の被告として指名されている。
-またAppleは、OpenAIがハードウェア企業に対し、Appleが発明した金属仕上げ技術の実施を求めている一方で、「パートナーにAppleの許可を得ていると誤解させている」と考えていると述べた。
-「最近、OpenAIに雇用されている個人が、当社の未発表テクノロジー、プロセス、製品に関するAppleの機密情報を不当に持ち出したことを示唆する重要な証拠が明らかになった」とAppleの代表者は声明でCNBCに語った。
-OpenAIの代表者は声明で「われわれは他社の企業秘密には興味がない。われわれは引き続き、どこにいても人々に力を与える革新的な技術の構築に注力する」と述べた。
-IO Productsも訴訟の対象となっている。
-OpenAIはそのハードウェア製品がいつ、どのようなものになるのかについては発表していないが、アルトマン氏は11月に最初のプロトタイプが完成したと述べた。
-Appleは、この訴訟がChatGPTのApple Intelligenceへの統合を含むOpenAIとの提携に影響を与えるかどうかについてはコメントしなかった。
-歴史的なIPOと予想されるIPOに向けて準備を進めるOpenAIにとって、法的問題の増大は新たなリスクとなっている。
-Appleの訴状は、OpenAIがTeslaとSpaceXのCEOであるElon Muskに対する注目を集める裁判に勝った2か月後に出された。連邦陪審は、OpenAIの立ち上げに貢献したマスク氏が、アルトマン氏、共同創設者のグレッグ・ブロックマン氏、そして同社が非営利団体として運営するための契約を反故にしたとの主張をめぐって、AI研究所を訴えるには時間がかかりすぎたと認定した。マスク氏は控訴するつもりだと述べた。
-Appleは損害賠償、差し止め、OpenAIに対して企業秘密の使用を停止するよう強制する命令を求めている。
-注目：中国に劣勢にもかかわらずアップル株は上昇`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-    publishedAt: "2026-07-11T00:08:23+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "apple-sues-openai-for-alleged-theft-of-c-871c273b",
-    title: "Apple sues OpenAI for alleged theft of confidential info — and says that’s just ‘the tip of the iceberg’",
-    titleJa: "Apple、機密情報窃盗容疑でOpenAIを告訴―それは「氷山の一角」にすぎないと主張",
-    summaryJa: "iPhoneメーカーは、OpenAIにおける「不正行為は常態化しており、リーダーシップによって模範となっている」と主張している。",
-    bodyOriginal: `The iPhone maker claims “misconduct is normalized and exemplified by leadership” at OpenAI.`,
-    bodyJa: `iPhoneメーカーは、OpenAIにおける「不正行為は常態化しており、リーダーシップによって模範となっている」と主張している。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/apple-sues-openai-for-institutional-misconduct-and-alleges-thats-just-the-tip-of-the-iceberg-6e803c4d?mod=mw_rss_topstories",
-    publishedAt: "2026-07-10T23:06:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-42876452",
-    readTime: 2,
-  },
-  {
-    id: "meet-the-crypto-billionaires-building-a-ef14cebb",
-    title: "Meet the crypto billionaires building a world where money buys you a vote",
-    titleJa: "お金で投票できる世界を構築する仮想通貨億万長者を紹介します",
-    summaryJa: "お金で投票できる世界を構築する仮想通貨億万長者を紹介します- 公開されました",
-    bodyOriginal: `Meet the crypto billionaires building a world where money buys you a vote
-- Published
-The Free Republic of Liberland doesn't look like much from the boat.
-You would never guess that this flat, muddy stretch of floodplain on the Danube River, dotted with alder trees, tents and treehouses, is connected to some of the world's wealthiest men - including the biggest initial investor in the Trump family's crypto business.
-By contrast, the virtual reality version of Liberland I'm currently being shown, designed by Zaha Hadid's ZHA architecture firm, features gleaming towers, floating public parks, and gravity-defying water features.
-The person showing it to me is Vít Jedlička, Liberland's president. He founded the micronation on a disputed bit of territory between Serbia and Croatia with the goal of making a truly libertarian, digital country that runs on the same technology as cryptocurrencies.
-I've come to Liberland for the past year as part of a BBC Two documentary, The Tech Billionaire Takeover. Liberland may look and sound like a joke. But it is bankrolled by some of the wealthiest men in crypto, and it runs on an idea they are trying to export: that government itself can be replaced.
-We arrive at the country by boat because Croatian authorities have stopped people from doing so by land. A few settlers in anoraks come out to wave to us from the shore and President Jedlička, communicating via megaphone, presents one of the settlers with an official medal.
-In most modern democracies, everyone has an equal vote. But things are different in Liberland thanks to a purchasable crypto token called Liberland Merits. President Jedlička tells me a person is elected through Merits. "So the people that have more Merits are able to have more say in who is going to be in the leadership of the country," he says. This effectively means you can vote directly with your money.
-Liberland is also entirely tax-free, something its interior minister, Ivan Pernar, a controversial Croatian former MP who was kicked out of parliament for spreading conspiracy theories, explains to me.
-"Usually, people who believe in freedom, decentralised finances and so on, they tend to be from the upper class of society," Pernar tells me. "If you make zero selection and you say whoever comes on [the] boat is welcome, we would end up like [the] UK. We don't want that."
-"So it's liberty, but... some people have more liberty than others?" I ask. One of the main ways to gain power and influence in Liberland appears to be through money, I suggest.
-"Of course," says Pernar. He says that if you had "a bunch of bums in your country without anything", others would have to contribute to their benefits. He goes on to compare the poor to animals. "Don't feed the animals, because if you do, they will be accustomed to that and they will lose [the] ability to feed themselves. The same is with people."
-To Liberland's wealthy backers, helping the poor - or indeed any form of taxation or centralised redistribution of wealth - is an affront to their individual liberty. This view is shared, unsurprisingly, by people in this world with far more money and influence than Pernar.
-The banana billionaire
-Over the past year, I've been hanging out with Liberland's prime minister, Chinese crypto titan Justin Sun. With Sun's backing - and that of about 30 other tech billionaires, they claim - the Liberlanders may now actually have access to the money needed to start building the version of their micronation with gleaming towers.
-Sun is worth an estimated $8.5bn (£6.4bn). He's perhaps most famous for purchasing an art piece consisting of a banana duct taped to a wall for $6.2m and then eating it. He has also been accused by US regulators of fraud and market manipulation. Sun denies the charges, and recently reached a $10m settlement to resolve them.
-His company, Tron, is a blockchain, a global software network on which you can buy and sell crypto currencies. Unlike a bank, it isn't run by one single authority - it's decentralised, existing across many computers all around the world, making it harder to tax and regulate.
-This same blockchain technology is being used to run Liberland's government and one day, if Sun gets his way, it could run ours too. Citizens vote on laws and referendums using digital tokens, and the voting itself is automatically tallied and enforced by code, rather than counted by officials. In reality, though, the technology is still in its juvenile phase, and human officials are still required to implement laws.
-According to blockchain analytics firm TRM Labs, external, Tron is one of the biggest platforms for moving illicit crypto - reportedly including funds tied to Hamas and Hezbollah, external, alongside those of drug cartels and mafia networks. Sun says Tron has innovated new collaborations with law enforcement to tackle illegal transactions on the blockchain, leading to huge declines in illicit volume on the platform.
-The Trump family welcomed him as lead token investor in their own crypto business, World Liberty Financial. Sun invested more than $75m in the company, as well as millions more in Donald Trump's memecoin, which won him a dinner with the US president.
-President Trump officially stepped down from the company once he took office but his family trust still owns and profits from it, selling a cryptocurrency coin called USD1. He has made more than $1.4bn from crypto in the past year, and stands to make much more.
-A planet without borders?
-It's safe to say the Trumps have profited hugely from their relationship to Sun. But what do Sun and other crypto entrepreneurs who have cosied up to the Trumps want in return? Liberland may offer a glimpse.
-In person, Sun is warm and friendly. Like other billionaires I met, I sensed that Sun rarely got to hang around people that didn't work for him or desire his money. Most of our conversations centred around sci-fi and video games.
-Last summer, when Sun had just landed from space after paying $29m to fly there with Jeff Bezos' Blue Origin company, he rang me to tell me about the experience. He had been struck by the idea that "the planet itself is boundaryless", without borders, and that "there's not even a concept of the country in the first place". The notion that the nation-state is outdated, and could therefore be replaced with blockchain technology, is one of the reasons h e decided to run to become Liberland's prime minister.
-Liberland isn't an outlier - it's one of several prototypes of such micronations, areas claimed as independent nations but not legally recognised as such. Prospera in Honduras, Peter Thiel's Seasteading Institute, and Tim Draper's Draper Nation, a fully digital country with Bitcoin as its currency, are all chasing the same idea.
-I meet Draper, a billionaire tech investor himself, at Silicon Valley's Draper University, his boot camp for young tech founders, where students pledge to "promote freedom at all costs". Draper tells me he believes government provides "bad service at a high cost", and blockchain will simply replace it: "It's just a matter of time."
-Many of these ideas can be traced back to the controversial thinker and tech founder Curtis Yarvin, who has been called the "founder of the Dark Enlightenment". He has won praise from figures on the US right, including tech billionaire Peter Thiel and some in the current Trump administration, including Vice-President JD Vance. His philosophy is notoriously confusing, but it essentially amounts to a criticism of democracy (which has failed, he claims, because immigration is still too high) and concludes we should replace it with an authoritarian structure that sits somewhere in between a corporation, a monarchy, and a blockchain-run micro-nation.
-Despite the fact that he views the media as one half of "The Cathedral" - his term for what he believes is the repressive ideological power made up of journalists and academics that secretly runs Western society - he agrees to meet me in Berkeley, California. We go on a short hike while Yarvin, who looks like an ageing punk rocker, speaks in circuitous, long-winded yarns that reference esoteric texts and periods of history to prove his points.
-In our conversation, he outlines his "Patchwork" concept, in which traditional nation-states are replaced with a global network of sovereign mini-countries owned by shareholders and competing for citizens like a business competes for customers. He believes blockchain can be used to bring this world about and that the result would be "corporate monarchies" ruled over by "CEO-kings". These corporate monarchs would be accountable to a hidden board of shareholders, who could potentially even control the military and police through something he called a "crypto dingus" that would allow them to essentially disable all guns.
-Many of these tech billionaires see Trump, and his office, as outdated, something that will eventually be replaced with their superior technology. Throughout my time meeting tech billionaires, I increasingly got the sense that they saw themselves as the real holders of power.
-The crypto lobby has now surpassed the fossil fuel industry to become the most powerful lobby in the US, having contributed $238m in the most recent election cycle, according to Fox Business analysis, external. Yarvin, Sun, Draper, and Liberland all give a glimpse into the future some of them envision for us.
-From Justin Sun, to Liberland and Tim Draper, everyone told me how blockchain technology and cryptocurrency can free us - and our money - from government control. But who would we be handing the control to instead? Every example I've seen ends in wealth and power flowing to whoever controls the technology.
-Related topics
-- Published11 December 2025`,
-    bodyJa: `お金で投票できる世界を構築する仮想通貨億万長者を紹介します
-- 公開されました
-リベルラント自由共和国は船からはあまり見えません。
-ハンノキの木、テント、ツリーハウスが点在するドナウ川沿いのこの平らで泥だらけの氾濫原が、トランプ家の仮想通貨ビジネスへの最大の初期投資家を含む世界有数の富裕層とつながっているとは、想像もつかないだろう。
-対照的に、私が現在見せている仮想現実バージョンのリベルランドは、ザハ・ハディド氏の建築事務所ZHAが設計したもので、光り輝く塔、水に浮かぶ公共公園、重力に逆らう水の施設を特徴としている。
-私にそれを見せてくれたのは、リベルランド社の社長、ヴィット・イェドリチカ氏です。彼は、仮想通貨と同じテクノロジーで運営される真に自由主義的なデジタル国家を作ることを目標に、セルビアとクロアチアの間の係争地域にミクロネーションを設立した。
-私はこの 1 年間、BBC Two のドキュメンタリー「The Tech Billionaire Takeover」の一環としてリベルランドに来ました。リベルランドは一見冗談のように聞こえるかもしれません。しかし、この資金は仮想通貨業界で最も裕福な人々によって資金提供されており、彼らが輸出しようとしているアイデア、つまり政府自体を置き換えることができるというアイデアに基づいて実行されています。
-クロアチア当局が陸路での渡航を禁止しているため、私たちは船でこの国に到着します。アノラックを着た数人の入植者が海岸から私たちに手を振って出てきて、イェドリチカ大統領がメガホンで通信しながら入植者の一人に公式メダルを授与した。
-ほとんどの現代民主主義では、誰もが平等な投票権を持っています。しかし、リベルランドでは、リベルランドメリットと呼ばれる購入可能な暗号トークンのおかげで状況が異なります。イェドリチカ大統領は、人は功績によって選ばれると私に言いました。 「つまり、より多くの功績を持つ人々は、誰が国の指導者になるかについてより多くの発言権を持つことができるのです」と彼は言う。これは事実上、自分のお金で直接投票できることを意味します。
-リベルラント州も完全に非課税であると、陰謀論を広めたために議会から追放され、物議を醸したクロアチアの元国会議員イワン・ペルナール内務大臣が私に説明してくれた。
-「通常、自由や分散型財政などを信じる人々は、社会の上流階級の出身であることが多いです」とペルナー氏は私に語った。 「もし選択をゼロにして、誰が乗っても歓迎だと言うなら、我々は英国のようになってしまうだろう。我々はそれを望んでいない。」
-「だから、それは自由だけど…他の人よりももっと自由を持っている人もいるの？」尋ねます。リベルランドで権力と影響力を獲得する主な方法の 1 つは、お金を利用することだと思われます。
-「もちろんです」とペルナールは言う。同氏は、もし「あなたの国に何も持っていない野郎たちがたくさんいる」としたら、他の人たちは彼らの利益に貢献しなければならないだろうと言う。彼は続けて貧しい人々を動物に例えます。 「動物に餌を与えないでください。餌を与えると動物はそれに慣れてしまい、自分で餌を食べる能力を失ってしまいます。人間も同様です。」
-リベルランドの裕福な支援者にとって、貧しい人々を助けること、あるいは実際にいかなる形態の課税や集中的な富の再分配も、彼らの個人の自由に対する侮辱である。当然のことながら、この見解は、ペルナールよりもはるかに多くの資金と影響力を持つ世界の人々によって共有されています。
-バナナ億万長者
-ここ1年、私はリベルランド首相で中国の仮想通貨大手ジャスティン・サン氏と付き合いを続けてきた。 Sun の支援と、その他約 30 人のハイテク億万長者の支援により、リベルランダーは現在、光り輝く塔を備えたミクロネーションのバージョンの構築を開始するのに必要な資金に実際にアクセスできるようになるかもしれません。
-サンの価値は推定85億ドル（64億ポンド）に上る。彼はおそらく、壁に貼り付けられたバナナのダクトからなるアート作品を620万ドルで購入し、それを食べたことで最も有名です。同氏は米国の規制当局からも詐欺と市場操作の疑いで告発されている。サンは容疑を否認しており、最近解決のために1000万ドルの和解に達した。
-彼の会社である Tron は、暗号通貨を売買できる世界的なソフトウェア ネットワークであるブロックチェーンです。銀行とは異なり、単一の当局によって運営されているわけではありません。分散型で世界中の多くのコンピューターに存在するため、課税や規制が難しくなります。
-これと同じブロックチェーン技術がリベルランド政府の運営に使用されており、いつかサンの思い通りになれば、私たちの政府も運営されるようになるかもしれない。国民はデジタルトークンを使用して法律や国民投票に投票し、投票自体は当局による集計ではなく、コードによって自動的に集計および強制されます。しかし実際には、このテクノロジーはまだ初期段階にあり、法律を施行するには人間の役人が依然として必要とされています。
-外部のブロックチェーン分析会社TRM Labsによると、トロンは違法暗号通貨を移動させるための最大のプラットフォームの1つであり、麻薬カルテルやマフィアのネットワークの資金と並んで、外部のハマスやヒズボラに関連する資金も含まれていると報じられている。サン氏によると、トロンはブロックチェーン上の違法取引に対処するために法執行機関との新たな連携を考案し、プラットフォーム上の違法取引量の大幅な減少につながったという。
-トランプ家は、自身の仮想通貨事業ワールド・リバティ・ファイナンシャルのリードトークン投資家として同氏を歓迎した。サン氏は同社に7,500万ドル以上を投資し、さらにドナルド・トランプ氏のミームコインにも数百万ドルを投資し、それによって米国大統領との夕食会を勝ち取った。
-トランプ大統領は就任後正式に同社を辞任したが、同氏の家族信託は依然として同社を所有し、USD1と呼ばれる仮想通貨コインを販売して利益を得ている。彼は過去 1 年間で暗号通貨から 14 億ドル以上を稼ぎ出しており、さらに多くを稼ぐつもりです。
-国境のない惑星？
-トランプ夫妻がサンとの関係から多大な利益を得ていると言っても過言ではない。しかし、トランプ夫妻に癒着したサンや他の仮想通貨起業家たちは、見返りに何を望んでいるのだろうか？リベルランドはその一端を垣間見せてくれるかもしれない。
-実際にサンは温かくてフレンドリーです。私が会った他の億万長者たちと同じように、サンも自分のために働いてくれない人やお金を欲しがらない人たちと付き合うことはほとんどなかったと感じました。私たちの会話のほとんどは SF とビデオ ゲームに集中していました。
-昨年の夏、サン氏がジェフ・ベゾス氏のブルー・オリジン社とともに宇宙飛行に2900万ドルを支払って宇宙から着陸したばかりのとき、サン氏は私に電話してその経験について話してくれた。彼は、「地球自体に境界がない」、国境がない、そして「そもそも国家という概念すらない」という考えに衝撃を受けました。国民国家は時代遅れであり、したがってブロックチェーン技術に置き換えられる可能性があるという考えが、彼がリベルラント州の首相に立候補することを決めた理由の1つである。
-リベルランドは外れ値ではありません。それは、独立国家として主張されているものの、法的には独立国家として認められていない地域、そのようなミクロネーションのいくつかのプロトタイプの 1 つです。ホンジュラスのプロスペラ、ピーター・ティール氏の海洋研究所、ティム・ドレイパー氏のドレイパー・ネイション（ビットコインを通貨とする完全デジタル国家）は、すべて同じアイデアを追い求めている。
-私は、自身も億万長者のハイテク投資家であるドレイパー氏に、若いハイテク創業者向けのブートキャンプであるシリコンバレーのドレイパー大学で会った。そこでは学生たちが「どんな犠牲を払ってでも自由を推進する」と誓う。ドレイパー氏は、政府が「質の悪いサービスを高コストで」提供していると信じており、ブロックチェーンがそれを置き換えるだけだ、「それは時間の問題だ」と語った。
-これらのアイデアの多くは、「暗黒啓蒙の創始者」と呼ばれ、物議を醸した思想家でありテクノロジーの創始者であるカーティス・ヤーヴィンに遡ることができます。同氏はハイテク億万長者のピーター・ティール氏や、副大統領のJ・D・バンス氏など現トランプ政権の一部を含む米国右派の人物から賞賛を集めている。彼の哲学はわかりにくいことで有名だが、本質的には民主主義（移民が依然として多すぎるために民主主義は失敗したと彼は主張する）への批判に相当し、民主主義を企業、君主制、ブロックチェーンが運営する小国家の中間に位置する権威主義的構造に置き換えるべきであると結論づけている。
-彼はメディアを「大聖堂」（西側社会を密かに運営しているジャーナリストや学者で構成された抑圧的なイデオロギー権力であると彼が信じている用語）の半分と見なしているという事実にもかかわらず、カリフォルニア州バークレーで私と会うことに同意した。年老いたパンクロッカーのように見えるヤーヴィンが、難解な書物や歴史の時代を引き合いに出し、自分の要点を証明するために回りくどい長文で話す間、私たちは短いハイキングに出かける。
-私たちの会話の中で、彼は、伝統的な国民国家を、株主が所有する主権ミニ国家の世界的ネットワークに置き換え、企業が顧客を獲得するように国民を獲得するために競争するという、彼の「パッチワーク」コンセプトについて概説しました。彼は、ブロックチェーンを使用してこの世界を実現することができ、その結果は「CEO-王」が統治する「企業君主制」になるだろうと信じています。これらの企業君主たちは、隠れた株主委員会に対して責任を負うことになり、株主委員会は、彼が「暗号通貨」と呼んだものを通じて、軍や警察を実質的にすべての銃を無効化できるようにすることさえも潜在的にコントロールできる可能性がある。
-こうしたハイテク億万長者の多くは、トランプ大統領と彼のオフィスは時代遅れであり、最終的には彼らの優れたテクノロジーに取って代わられるだろうと考えている。ハイテク億万長者たちと会ううちに、彼らが自分たちを本当の権力者だとみなしているという感覚がますます強くなった。
-フォックス・ビジネス社外の分析によれば、仮想通貨ロビーは今や化石燃料産業を超えて米国で最も強力なロビーとなり、直近の選挙サイクルで2億3,800万ドルを寄付した。ヤーヴィン、サン、ドレイパー、リベルランドは皆、彼らが私たちに思い描く未来を垣間見せてくれます。
-ジャスティン・サンからリベルランド、ティム・ドレイパーまで、誰もが私に、ブロックチェーン技術と暗号通貨がどのようにして私たちと私たちのお金を政府の管理から解放できるかを教えてくれました。しかし、代わりに誰に制御を渡すのでしょうか?私が見てきたすべての例は、テクノロジーを制御する者に富と権力が流れ込むという結末に終わります。
-関連トピック
-- 2025 年 12 月 11 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-10T23:03:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-photo-that-shows-who-s-really-on-top-fbc04936",
-    title: "The photo that shows who's really on top in Le Pen's party",
-    titleJa: "ルペン党の本当にトップは誰なのかを示す写真",
-    summaryJa: "ルペン党の本当にトップは誰なのかを示す写真- 公開されました",
-    bodyOriginal: `The photo that shows who's really on top in Le Pen's party
-- Published
-A stern-looking Jordan Bardella squinted in the sun as a reporter asked him whether he was relieved or disappointed that he would not be the 2027 presidential candidate for the National Rally (RN).
-"Neither," he said in a flat voice during a campaign event in the village of La Flèche. "I am glad Marine can represent us. We will work together hand in hand like we've always done."
-The previous evening his mentor Marine Le Pen announced she would run for the presidency next year, and not him. In the space of 20 minutes on primetime TV on Tuesday, she put an end to the prospect of handing the party's candidacy to her protege.
-Thirty-year-old Bardella has had a dizzying career up the RN ranks, but he was always measured about his prospects of becoming president.
-"I want Marine to be the candidate," he had said repeatedly, making it clear he would stand only if an appeal court confirmed she was barred from running for office over a fake jobs scam.
-But as party president he had been growing into the role of stand-in candidate - even going on a statesman-like visit to Poland last month. As the date of Le Pen's appeal verdict drew near he appeared increasingly excited to launch his own presidential campaign.
-Instead, on Tuesday, a Paris court ended her ban on holding public office and said she should wear an electronic tag for a year. That evening Le Pen announced she and Bardella would run together as "a winning ticket". She would be president, and he prime minister.
-But that is not how France's political system works.
-France's next parliamentary election is not due until 2029. It is possible a victorious Le Pen could trigger a snap election soon after taking up the post of president and make Bardella prime minister - but there is no guarantee this might happen quickly.
-So Bardella is left waiting.
-Many National Rally supporters will be relieved Le Pen is running instead. She has made politics her life, has already run three presidential campaigns, and her decision has boosted her lead in the polls.
-Bardella's age and lack of experience, many feared, would have come under close scrutiny and could have become a liability.
-Still, Bardella's body language at Wednesday's campaign event in the north-west was telling.
-While Le Pen beamed at the cameras, brushing off suggestions her deputy would mind being sidelined and insisting "our personal ambitions are absolutely irrelevant", he barely reacted and scarcely smiled.
-The speedy climb in National Rally ranks that has characterised his political career seems to have stalled.
-Had he been allowed to run, with his party's sizeable lead in the polls and his own strong approval ratings, by spring 2027 he could have succeeded Emmanuel Macron as France's youngest president – and the first hard-right head of state in modern French history.
-Born in 1995, Bardella was brought up by his Italian-born single mother, Luisa, on the outskirts of Paris.
-Although he has often said she struggled to make ends meet, his father Olivier, also of Italian origin, ran a drinks distribution business and lived in the more affluent town of Montmorency. That detail undercuts the hard-luck narrative surrounding Bardella's early years which he would later use to appeal to a wider electorate.
-Neither parent was particularly political and, according to an interview a friend from his teenage years gave to Le Monde, nor was the young Bardella, preferring to spend time on his PlayStation and streaming his Call of Duty sessions on a YouTube channel called Jordan9320.
-Yet when he decided to join the far-right National Front as a 17-year-old in 2012, he climbed the ranks quickly. He was made local departmental secretary at 19 and regional councillor for the Paris region at 20. Along the way, he dropped out of university to focus on his political career.
-Bardella would later attribute his initial decision to join the party to a fascination with Marine Le Pen, who had taken the reins of the party from her father Jean-Marie Le Pen in 2011 and was working to turn it from a fringe, extremist movement into a respectable political force.
-"There's something about her that others don't have," Bardella said in 2021. "She has a character, an energy... a courage that speak to me."
-That interest was reciprocated.
-Early on, he entered the RN's inner circle through his relationship with the daughter of an old National Front hand, Frederic Chatillon; by 2017, Le Pen had named Bardella party spokesman. Around the same time, Bardella started dating Le Pen's niece, Nolwenn.
-Two years later he became the European Parliament's second-youngest MEP, and at 27 – already one of the party's most visible figures – he was elected National Rally president.
-In 2024, it looked like Bardella would make another leap ahead. National Rally emerged with 33% of the vote in the first round of snap parliamentary elections, bringing him within touching distance of becoming prime minister. Eventually, a centre-left alliance won the second round.
-But in the two years since, Bardella's popularity has remained solid. In early July, his approval rating was at 40%; Marine Le Pen's has remained stable at 39%.
-Bardella's appeal has always been, in great part, his capacity to appeal to a large part of the electorate.
-He speaks to the youth vote through his social media channels, where he has two million followers.
-His relationship with Italian socialite Princess Maria Carolina of Bourbon-Two Sicilies has given him a glamorous edge, but he frequently references his modest upbringing.
-His politics broadly follow Le Pen's talking points - a standard anti-immigration stance and populist rhetoric.
-Mass immigration was "shaking the balance of European countries, of Western societies, and namely French society", Bardella told the BBC, and he said his first move as president would be to trigger a referendum on immigration to "allow France to take back control of [its] borders".
-In a nod to business leaders, he has promised to shield entrepreneurs "from an unbearable fiscal and regulatory straitjacket".
-He pleases Eurosceptics, sayings he wants to renegotiate France's membership of the EU, viewing it as "profoundly old-fashioned" and "obsolete", and he has even suggested halving France's contribution to the EU budget.
-But he insists he is not looking to "destroy anything", reassuring more cautious voters.
-His chameleon-like qualities have led some to call Bardella an "incredible blank canvas" upon which RN voters can project their ideal candidate. But he is also "a huge question mark", Lecturer Pierre-Henri Tavoillot says. His true ideological make-up "is unclear... and his smooth image allows him to cast a wide net".
-Jordan Bardella could soon be French PM at 28. But for many he remains an enigma
-- Published16 June 2024
-French far-right leader tells BBC he shares US warnings on Europe 'for most part'
-- Published10 December 2025
-In the year he spent acting as Le Pen's Plan B, most of his focus was on domestic politics.
-But he has talked of looking at France leaving Nato's integrated command, after the end of the Ukraine war, and has condemned Macron's proposal to extend France's nuclear deterrence to European allies as a potential "national betrayal".
-He has also been building ties with Europe's nationalist right - from Giorgia Meloni to Poland's PiS - while distancing himself from US President Donald Trump, whom he has called "erratic".
-For a year, he had to pull off a delicate balancing act ahead of the Le Pen appeal verdict: to appear as both poised for the presidency and prepared to make way if Le Pen was ultimately allowed to run.
-He spoke of being "calm and ready to accept the consequences".
-Now the decision has been made for him, all Jordan Bardella can do is allow his mentor and maker to return to the spotlight she feared would never be hers again.
-Related topics
-- Published4 days ago`,
-    bodyJa: `ルペン党の本当にトップは誰なのかを示す写真
-- 公開されました
-厳しい表情のジョーダン・バルデラ氏は、2027年の国民集会（RN）の大統領候補に選ばれないことに安堵したか失望したかを記者に尋ねられ、太陽の光の下で目を細めた。
-「どちらでもない」とラ・フレーシュ村での選挙活動中に彼は平然とした声で言った。 「マリーンが私たちの代表になれることをうれしく思います。私たちはこれまでのように手を携えて協力していきます。」
-前夜、彼の指導者であるマリーヌ・ルペン氏は、来年の大統領選に立候補すると発表したが、彼ではなかった。火曜日のゴールデンタイムのテレビで20分の間に、彼女は党の立候補を自分の弟子に譲るという見通しに終止符を打った。
-30歳のバルデラ氏はRNの階級で目まぐるしいキャリアを積んできたが、大統領になる可能性については常に評価されていた。
-同氏は「マリーン氏を候補者にしたい」と繰り返し述べ、偽の求人詐欺で彼女が立候補できないと控訴裁判所が認めた場合のみ立候補する意向を明らかにしていた。
-しかし、党首として彼は代役候補としての役割を果たしつつあり、先月には政治家らしくポーランドを訪問したこともあった。ルペン氏の控訴評決の日が近づくにつれ、ルペン氏は自身の大統領選挙活動を開始することにますます興奮しているようだった。
-その代わりに、火曜日、パリの裁判所は彼女の公職への就任禁止を解除し、電子タグを1年間着用するよう命じた。その夜、ルペン氏はバルデラ氏と「勝ち馬券」として一緒に出馬すると発表した。彼女は大統領になり、彼は首相になるだろう。
-しかし、フランスの政治制度はそのようには機能しません。
-フランスの次の議会選挙は2029年まで予定されていない。勝利したルペン氏が大統領就任後すぐに解散総選挙を実施し、バルデラ氏を首相にする可能性もあるが、それがすぐに実現するという保証はない。
-それでバルデラは待たされることになる。
-多くの国民集会支持者はルペン氏が代わりに立候補することに安堵するだろう。彼女は政治を自分の人生にしており、すでに3回の大統領選挙活動を行っており、彼女の決定により世論調査でのリードがさらに広がった。
-バルデラの年齢と経験不足が厳しい監視の対象となり、責任を問われる可能性があると多くの人が懸念していた。
-それでも、水曜日の北西部での選挙イベントでのバルデラ氏のボディーランゲージはそれを物語っていた。
-ルペン氏はカメラに向かって満面の笑みを浮かべ、副首相が脇に追いやられることを気にするのではないかという示唆を一蹴し、「私たちの個人的な野心はまったく無関係だ」と主張したが、ほとんど反応せず、ほとんど笑顔も見せなかった。
-彼の政治家としてのキャリアを特徴づけてきた全国集会の順位の急速な上昇は停滞しているようだ。
-もし世論調査で党の大幅なリードと自身の高い支持率を持って同氏が出馬を許可されていれば、2027年春までにエマニュエル・マクロン氏の後を継いでフランス最年少大統領となり、フランス現代史上初の極右国家元首となっていただろう。
-1995年に生まれたバルデラは、イタリア生まれのシングルマザー、ルイーザによってパリ郊外で育てられた。
-生計を立てるのに苦労したと彼はよく語っているが、同じくイタリア出身の父親オリヴィエは飲料流通業を経営し、より裕福な町モンモランシーに住んでいた。この詳細は、後にバルデッラがより広範な有権者にアピールするために利用することになる、バルデッラの初期をめぐる不運の物語を台無しにする。
-10代の頃からの友人がルモンド紙に寄せたインタビューによると、両親は特に政治的な考えはなく、若きバルデラも同様で、PlayStationで時間を過ごしたり、Jordan9320というYouTubeチャンネルでコール オブ デューティのセッションをストリーミングしたりすることを好んでいたという。
-しかし、2012年に17歳で極右国民戦線への参加を決意すると、急速に階級を上げた。彼は 19 歳で地方省秘書官、20 歳でパリ地方の地方議員に就任しました。途中、政治家としてのキャリアに専念するために大学を中退しました。
-バルデラ氏は後に、入党の最初の決断は、2011年に父ジャン＝マリー・ルペン氏から党の実権を引き継ぎ、同党を非主流の過激派運動から立派な政治勢力に変えるべく尽力していたマリーヌ・ルペン氏に魅了されたからだと語った。
-バルデラは2021年に「彼女には他の人にはない何かがある。彼女には個性、エネルギー、そして勇気があり、それが私に語りかけてくる」と語った。
-その関心は報われました。
-早い段階で、彼は元国民戦線メンバーの娘フレデリック・シャティヨンとの関係を通じてRNの内輪に入った。 2017年までにルペン氏はバルデラ党の報道官を任命した。同じ頃、バルデラ氏はルペン氏の姪、ノルウェン氏と交際を始めた。
-2年後、彼は欧州議会で2番目に若い議員となり、すでに党内で最も注目を集めている人物の1人である27歳で国民集会の議長に選出された。
-2024年、バルデッラはさらなる飛躍を遂げるかに見えた。国民集会は、解散議会選挙の第一回投票で得票率33％を獲得し、首相就任まであと一歩のところまで近づいた。最終的には中道左派連合が第２ラウンドで勝利した。
-しかしそれから2年間、バルデッラの人気は確固たる地位を保っている。 7月初旬の時点で彼の支持率は40％だった。マリーヌ・ルペン氏は39％で安定している。
-バルデッラ氏の魅力は常に、大部分の有権者に訴えかける彼の能力にある。
-彼はソーシャル メディア チャンネルを通じて若者の投票に訴え、200 万人のフォロワーがいます。
-イタリアの社交界の人気者、ブルボン・ツー・シチリアのマリア・カロリーナ王女との関係が彼に魅力を与えているが、彼は自分の質素な生い立ちについて頻繁に言及している。
-彼の政治は、ルペン氏の論点、つまり標準的な反移民の立場とポピュリスト的なレトリックをほぼ踏襲している。
-バルデラ氏はBBCに対し、大量移民が「欧州諸国、西側社会、そしてとりわけフランス社会のバランスを揺るがしている」と語り、大統領としての最初の行動は「フランスが国境管理を取り戻すことを可能にする」ために移民に関する国民投票を発動することだろうと語った。
-ビジネスリーダーらに敬意を表し、同氏は起業家を「耐え難い財政と規制の束縛から」守ると約束した。
-同氏はフランスのEU加盟を「極めて時代遅れ」で「時代遅れ」とみなして再交渉したいと述べ、欧州懐疑派を喜ばせており、EU予算に対するフランスの拠出額を半減することさえ提案している。
-しかし同氏は「何かを破壊する」つもりはないと主張し、より慎重な有権者を安心させた。
-彼のカメレオンのような資質により、バルデラをRN有権者が理想の候補者を投影できる「信じられないほどの真っ白なキャンバス」と呼ぶ人もいる。しかし、彼には「大きな疑問符」も付いている、とピエール・アンリ・タヴォワイヨ講師は言う。彼の本当のイデオロギー構成は「不明瞭である…そして彼の滑らかなイメージが彼に広い網を投じることを可能にしている」。
-ジョーダン・バルデラ氏は28歳で間もなくフランス首相になる可能性がある。しかし多くの人にとって彼は依然として謎のままだ
-- 2024 年 6 月 16 日公開
-フランスの極右指導者、BBCに対し、欧州に対する米国の警告は「大部分において」同じだと語った
-- 2025 年 12 月 10 日公開
-ルペン氏のプランBとして活動した1年間、彼の焦点のほとんどは国内政治にあった。
-しかし同氏は、ウクライナ戦争終結後、フランスがNATOの統合指揮権から離脱することを検討していると話し、フランスの核抑止力を欧州の同盟国にも拡大するというマクロン氏の提案は「国家的裏切り」の可能性があると非難した。
-同氏はまた、ジョルジア・メローニ氏からポーランドのPiSに至るまで、欧州の民族主義右派との関係を構築しつつ、同氏を「常軌を逸している」と評するドナルド・トランプ米大統領とは距離を置いている。
-ルペン氏の控訴評決を前に1年間、彼は微妙なバランスを保たなければならなかった。つまり、大統領就任に向けて準備が整っているように見せ、最終的にルペン氏の出馬が認められた場合に道を譲る準備ができているように見せるためだった。
-同氏は「落ち着いて結果を受け入れる準備ができている」と語った。
-ジョーダン・バルデラにとって決断が下された今、ジョーダン・バルデラにできることは、彼の師であり創造者である彼女が、二度と自分のものになることはないと恐れていたスポットライトに戻ることを許すことだけだ。
-関連トピック
-- 4 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-10T23:02:59+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aab/live/b694cdc0-7bad-11f1-9671-6995d20a3bb8.jpg",
-    readTime: 9,
-  },
-  {
-    id: "meta-s-stock-roars-back-to-life-as-it-no-4bc2807c",
-    title: "Meta’s stock roars back to life as it notches its best week in years",
-    titleJa: "メタ社の株価はここ数年で最高の週を記録し、活気を取り戻している",
-    summaryJa: "投資家はメタの新しい低コストAIの価格設定とインフラストラクチャ計画に強気だ。",
-    bodyOriginal: `Investors are bullish on Meta’s new low-cost AI pricing and infrastructure plans.`,
-    bodyJa: `投資家はメタの新しい低コストAIの価格設定とインフラストラクチャ計画に強気だ。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories",
-    publishedAt: "2026-07-10T22:24:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-65244158",
-    readTime: 2,
   },
 ];
 
