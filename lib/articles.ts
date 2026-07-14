@@ -15,6 +15,534 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "china-exports-in-june-jump-at-fastest-pa-bf19f8b9",
+    title: "China exports in June jump at fastest pace since 2021 as AI boom, tariff rush lift trade",
+    titleJa: "AIブーム、関税ラッシュ引き上げ貿易を受け、6月の中国輸出は2021年以来最速のペースで急増",
+    summaryJa: "AIハードウェアに対する世界的な需要の高まりと、予想される関税引き上げを乗り越えるための米国の小売業者の殺到により出荷が急増し、6月の中国貿易の伸びは予想をはるかに上回った。火曜日の税関統計によると、全体の輸出は米ドル換算で前年比27％増と、2021年10月以来の高水準となり、5月の19.4％増から加速し、エコノミスト予想の18.2％増を大幅に上回った。",
+    bodyOriginal: `China's trade growth accelerated far more than expected in June, as booming global demand for AI hardware and a rush by U.S. retailers to beat anticipated tariff hikes turbocharged shipments.
+Overall exports rose 27% from a year earlier in U.S. dollar value terms, the strongest since October 2021, customs data showed Tuesday, quickening from the 19.4% gain in May and sharply beat economists' estimates for a 18.2% growth.
+Imports grew 36% in June, the largest jump since June 2021, gaining pace from the 27.4% growth in May and beating economists' forecast for a 24% growth. The trade surplus stood at $125.6 billion in June.
+China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data. The outbound shipment to the Southeast Asian nations soared about 35% while imports rose 27%.
+Shipment to the European Union rose 18.5% and imports from the bloc grew more than 9%.
+Factory activity accelerated in June as U.S.-bound orders recorded sharp year-on-year gains, a survey by China Beige Book showed last month, pushing up freight rates. Manufacturers are bracing for additional tariffs from U.S. President Donald Trump's Section 301 probes as the 10% broad-based duty is set to expire on July 24.
+Beijing has grappled with a deepening supply-demand imbalance, as strong industrial output and exports tied to the global AI investment boom continue to power headline growth, even as consumption and private investment weakens amid a prolonged property downturn and volatile global oil prices.
+The global AI investment boom has also helped to cushion the fallout from the Middle East conflict and a global oil shock.
+China is expected to release its gross domestic product growth for the second quarter on Wednesday. Economists polled by Reuters expect growth to have slowed to 4.5% in the second quarter, after a solid 5% in the first quarter.
+Industrial output and retail sales for June, also due Wednesday, are projected to expand 4.7% and shrink 0.1%, respectively. Urban investment is estimated to decline 4.9% in the first half-year, deepening from 4.1% in the first five months, according to a Reuters poll.
+Investors are now looking to an expected Politburo meeting in late July for clues on stimulus that could shape policy for the rest of the year, although analysts expect no meaningful stimulus unless growth slows more sharply, given resilient exports and Beijing's focus on curbing excess factory capacity to fight deflation.`,
+    bodyJa: `AIハードウェアに対する世界的な需要の高まりと、予想される関税引き上げを乗り越えるための米国の小売業者の殺到により出荷が急増し、6月の中国貿易の伸びは予想をはるかに上回った。
+火曜日の税関統計によると、全体の輸出は米ドル換算で前年比27％増と、2021年10月以来の高水準となり、5月の19.4％増から加速し、エコノミスト予想の18.2％増を大幅に上回った。
+6月の輸入は36％増加し、2021年6月以来最大の伸びとなり、5月の27.4％増加から勢いを増し、エコノミスト予想の24％増加を上回った。 ６月の貿易黒字は１２５６億ドルだった。
+CNBCの公式データの計算によると、中国の米国への輸出は先月約14％増加し、輸入は26％増加した。東南アジア諸国への輸出は約35％増加し、輸入は27％増加した。
+欧州連合への出荷は18.5％増加し、域内からの輸入は9％以上増加した。
+中国ベージュブックの先月の調査によると、米国向け注文が前年比で大幅な増加を記録したため、6月に工場の活動が加速し、運賃が上昇した。 10％の広範な関税が7月24日に期限切れとなる中、製造業者はドナルド・トランプ米大統領の第301条調査による追加関税に備えている。
+長引く不動産低迷と世界的な原油価格の変動で消費と民間投資が低迷する中でも、世界的なAI投資ブームに関連した堅調な鉱工業生産と輸出が引き続き主要成長を牽引しており、中国政府は深刻化する需給不均衡に取り組んでいる。
+世界的な AI 投資ブームは、中東紛争や世界的なオイルショックの影響を和らげるのにも役立っています。
+中国は水曜日に第２・四半期の国内総生産（ＧＤＰ）伸び率を発表するとみられている。ロイターがまとめたエコノミストらは、第１・四半期は堅調な５％成長だったが、第２・四半期は４．５％に減速すると予想している。
+同じく水曜日に発表される６月の鉱工業生産と小売売上高は、それぞれ４．７％拡大、０．１％縮小すると予想されている。ロイター調査によると、都市投資は上半期に４．９％減少し、上半期の４．１％からさらに減少すると予想されている。
+投資家らは現在、今年残りの政策を形作る可能性のある景気刺激策の手がかりを求めて、7月下旬に予定されている政治局会議に注目しているが、アナリストらは、輸出の回復力や中国政府がデフレ対策として過剰な工場生産能力の抑制に注力していることを考慮すると、成長がより急激に減速しない限り意味のある刺激策は期待できないと予想している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
+    publishedAt: "2026-07-14T03:10:41+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "us-based-mexican-food-chain-chipotle-ope-a2936b14",
+    title: "US-based Mexican food chain Chipotle opening first outlet in Mexico",
+    titleJa: "米国に本拠を置くメキシコ料理チェーン「チポトレ」がメキシコに初出店",
+    summaryJa: "米国に本拠を置くメキシコ料理チェーン「チポトレ」がメキシコに初出店- 公開されました",
+    bodyOriginal: `US-based Mexican food chain Chipotle opening first outlet in Mexico
+- Published
+Chipotle Mexican Grill is set to open its first restaurant in Mexico this week, testing its appeal in the country that inspired its menu.
+The chain, which has more than 4,100 outlets worldwide, said on Monday that the move is a "significant milestone" for the firm - known for its customisable burritos, tacos and bowls.
+The announcement has been met with a mixed response on social media, with many users mocking the decision.
+US restaurant chains have struggled to succeed in the countries their dishes originated. Taco Bell no longer has any outlets in Mexico, while Domino's Pizza has pulled out of Italy.
+Chipotle boss Scott Boatwright said: "We are entering Mexico with deep respect for the country's culinary heritage and a commitment to delivering the Chipotle experience with excellence."
+"We look forward to serving new guests and earning a place in Mexico's vibrant dining culture."
+The new restaurant, located in the northeastern state of Nuevo León near the Texas border, serves as an "important proof-of-concept" the company said.
+The company plans to open more restaurants in the state and expand into Mexico City in 2027 as part of its collaboration with Mexican restaurant operator Alsea. The firm's brands include Domino's Pizza, Starbucks and Chili's.
+Internet users have been split over Chipotle's entry into Mexico.
+"Bold move selling Mexico a corporate version of Mexico," a commenter on X said.
+Another X post questioned why Mexicans would pay for Chipotle when they have "perfectly fine and healthy food available to them?"
+"It's like Pizza Hut [opening a] location in Napoli, makes no sense," said another.
+"Next up, Panda Express opening its first mainland China location," one post read, referring to the US chain that specialises in Chinese food.
+The move could be an important test for Chipotle's plans to expand globally, one wrote, while another suggested the chain could do well as a "tourist novelty".
+The company plans to open up to 370 new restaurants globally this year, including new outlets in Singapore and South Korea.
+Many commenters drew comparisons with other US chains like Taco Bell that have tried to break into countries that their menus took inspiration from.
+Taco Bell has tried and failed to establish itself in Mexico twice, despite being one of the world's biggest fast food franchises.
+The chain moved out of the country in 2010 after failing to attract Mexican diners.
+Domino's Pizza closed its last outlets in Italy - the birthplace of pizza - in 2022 after facing stiff competition from local restaurants since it opened there seven years earlier.
+Related topics
+- Published26 October 2025
+- Published25 July 2025`,
+    bodyJa: `米国に本拠を置くメキシコ料理チェーン「チポトレ」がメキシコに初出店
+- 公開されました
+チポトレ・メキシカン・グリルは今週、メキシコに初のレストランをオープンする予定で、そのメニューのインスピレーションとなった国での魅力を試している。
+世界中に4,100以上の店舗を展開するこのチェーンは、カスタマイズ可能なブリトー、タコス、ボウルで知られる同社にとって、この動きは「重要なマイルストーン」であると月曜日に述べた。
+この発表はソーシャルメディア上でさまざまな反応を示し、多くのユーザーがこの決定を嘲笑した。
+米国のレストランチェーンは、その料理の発祥国で成功することに苦戦している。タコベルはメキシコに店舗を持たなくなり、ドミノ・ピザはイタリアから撤退した。
+チポトレのボス、スコット・ボートライト氏は「我々はメキシコの食文化の伝統に深い敬意を払い、最高のチポトレ体験を提供するという決意を持ってメキシコに参入する」と語った。
+「新しいゲストにサービスを提供し、メキシコの活気に満ちた食文化の中で居場所を獲得できることを楽しみにしています。」
+テキサス州との国境に近い北東部ヌエボ・レオン州に位置するこの新しいレストランは、「重要な概念実証」として機能すると同社は述べた。
+同社はメキシコのレストラン運営会社アルシーとの提携の一環として、州内でさらに多くのレストランをオープンし、2027年にはメキシコシティにも進出する計画だ。同社のブランドには、ドミノ・ピザ、スターバックス、チリズが含まれます。
+チポトレのメキシコ進出を巡っては、インターネットユーザーの意見が分かれている。
+Xのコメント投稿者は「メキシコに企業版メキシコを売り込む大胆な行動だ」と述べた。
+別のXの投稿では、メキシコ人は「完璧に上質で健康的な食べ物が手に入るのに、なぜチポトレに金を払うのか？」と疑問を呈していた。
+別の人は「ピザハットがナポリに出店するのと同じで、意味がない」と語った。
+ある投稿では、「次は、パンダエクスプレスが中国本土初の店舗をオープンする」と、中華料理を専門とする米国のチェーン店について言及した。
+この動きはチポトレの世界展開計画にとって重要な試練となる可能性があるとある者は書いたが、別の者はこのチェーンが「観光客向けのノベルティ」としてうまくいく可能性があると示唆した。
+同社は今年、シンガポールと韓国の新店を含め、世界で最大370店のレストランを新規オープンする計画だ。
+多くのコメント投稿者は、メニューのインスピレーションを得た国に進出しようとしているタコベルのような他の米国のチェーン店との比較を引き合いに出していた。
+タコベルは世界最大のファストフードフランチャイズの一つであるにもかかわらず、メキシコでの地位を確立しようとして二度失敗した。
+このチェーンはメキシコ人客の誘致に失敗したため、2010年に国外に移転した。
+ドミノ・ピザは、ピザ発祥の地であるイタリアで7年前に開店して以来、地元レストランとの激しい競争にさらされ、2022年に最後の店舗を閉店した。
+関連トピック
+- 2025 年 10 月 26 日発行
+- 2025 年 7 月 25 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-14T02:42:51+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ab/live/6119a2a0-7f2a-11f1-a2d1-357b5800ed69.jpg",
+    readTime: 3,
+  },
+  {
+    id: "trump-s-hormuz-toll-plans-bring-oil-supp-180377a1",
+    title: "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
+    titleJa: "トランプ大統領のホルムズ通行料計画で石油供給リスクが再び脚光を浴びる",
+    summaryJa: "ホルムズ海峡を通過する貨物に20％の手数料を課すというドナルド・トランプ大統領の計画は、特に戦闘の再発で重要な水路が再び閉鎖された場合、世界の石油余剰を脅かしている。アナリストらは、提案されている賦課金は直接コストよりも、それが示唆する内容、つまり海峡を通る輸送の混乱が供給不足につながり、今月初めに出した黒字予想を覆すリスクの高まりが重要であると述べた。",
+    bodyOriginal: `President Donald Trump's plan to impose a 20% fee on cargo passing through the Strait of Hormuz is threatening the global oil surplus, especially if renewed fighting shuts the key waterway again.
+Analysts said the proposed levy matters less for its direct cost than for what it signals: a heightened risk that disruptions to shipping through the strait could lead to supply shortages, upending forecasts of a surplus made earlier this month.
+Andy Lipow, president of Lipow Oil Associates, said on CNBC's "Squawk Box Asia" that the market had been counting on stronger supplies following the U.S.-Iran memorandum of understanding signed last month, but that optimism has faded.
+"Those surpluses are certainly in jeopardy, especially if the strait would completely shut down."
+Lipow estimates that Trump's proposed fee, if applied to crude cargoes, would effectively add about $16 a barrel to oil shipped through the strait, though the administration has yet to clarify how the charge would be implemented.
+Citi warned that effecting the fee could also lift the possibility of a broader military confrontation in the near term.
+"It is our view that the risks of military escalation have risen materially should this announcement be implemented," Citi wrote in a note published early Tuesday.
+"The possibility that the Iranian regime walks away from the MoU until after the mid-term U.S. elections has also risen, a scenario which would most likely see higher for longer oil prices," Citi's analysts added.
+While the proposed levy would raise shipping costs, other experts said investors are increasingly focused on the possibility that an escalating conflict could remove barrels from the market altogether.
+"The immediate impact is obviously supportive of oil prices, but the more consequential issue is the risk of renewed physical supply losses," said Henry Hoffman, co-portfolio manager at Catalyst Energy Infrastructure Fund.
+U.S. West Texas Intermediate futures for August delivery rose 2.27% to $79.91 per barrel. International benchmark Brent crude futures for September delivery climbed 2.14% to $85.11, extending gains after advancing 9.6% in the previous session.
+Falling vessel traffic in Strait
+Hoffman cautioned that falling vessel traffic could eventually force producers to reduce output if storage fills up because crude can no longer be exported. Vessel traffic through the Hormuz Strait fell sharply on Sunday, with Kpler data showing just 14 ships crossing the waterway, including four crude tankers, compared with 37 vessels a week earlier.
+If exporters are unable to ship crude out of the Gulf, storage tanks can eventually fill up, leaving producers with little choice but to temporarily halt production, said Hoffman. "That makes the effective supply loss potentially much greater than what can be measured simply by looking at damaged infrastructure."
+The latest developments would also undermine expectations from the International Energy Agency and others that global oil markets would remain comfortably supplied. The IEA just last week said it expects the oil market to return to surplus toward the end of 2026, though the outlook hinged on tanker traffic through the strait gradually recovering.
+The timing could prove especially challenging if Asian demand rebounds just as Middle Eastern supplies become less dependable, he added. "Saudi Arabia recently moved its primary Asian crude grade from an enormous premium to a discount, which should encourage Chinese refiners to increase purchases after imports fell sharply during the initial disruption."
+Saudi Aramco recently cut prices by $11 per barrel to a $1.50 discount versus the Oman/Dubai benchmark.
+"In other words, Chinese demand may begin recovering just as the reliability of Middle Eastern supply is deteriorating again."`,
+    bodyJa: `ホルムズ海峡を通過する貨物に20％の手数料を課すというドナルド・トランプ大統領の計画は、特に戦闘の再発で重要な水路が再び閉鎖された場合、世界の石油余剰を脅かしている。
+アナリストらは、提案されている賦課金は直接コストよりも、それが示唆する内容、つまり海峡を通る輸送の混乱が供給不足につながり、今月初めに出した黒字予想を覆すリスクの高まりが重要であると述べた。
+リポウ・オイル・アソシエイツのアンディ・リパウ社長はＣＮＢＣの「スコーク・ボックス・アジア」で、先月署名された米国とイランの覚書を受けて市場は供給の増加に期待していたが、楽観的な見方は消えたと述べた。
+「特に海峡が完全に閉鎖した場合、これらの余剰は確かに危険にさらされる。」
+リパウ氏は、トランプ大統領の提案した料金が原油貨物に適用された場合、海峡を通って輸送される石油に実質的に1バレルあたり約16ドル追加されると推定しているが、政府は料金がどのように実施されるかまだ明らかにしていない。
+シティは、この手数料の影響により、近い将来、より広範な軍事衝突が起こる可能性も高まる可能性があると警告した。
+シティは火曜日初めに公表したメモで「この発表が実施された場合、軍事的エスカレーションのリスクが大幅に高まるというのがわれわれの見解だ」と述べた。
+シティのアナリストは「イラン政権が米国の中間選挙後まで覚書から離脱する可能性も高まっており、原油価格が長期化すればこのシナリオはさらに上昇する可能性が最も高い」と付け加えた。
+他の専門家らは、提案されている課税により輸送コストが上昇する一方、投資家らは紛争の激化により樽が市場から完全に撤去される可能性にますます注目していると述べた。
+カタリスト・エネルギー・インフラストラクチャー・ファンドの共同ポートフォリオマネジャー、ヘンリー・ホフマン氏は「当面の影響は明らかに原油価格を支援しているが、より重大な問題は物理的な供給損失が再び起こるリスクだ」と述べた。
+米国ウエスト・テキサス・インターミディエート先物８月限は２．２７％上昇し、１バレル＝７９．９１ドルとなった。国際ベンチマークであるブレント原油先物９月渡しは２．１４％上昇して８５．１１ドルとなり、前取引で９．６％上昇した後、さらに上昇幅を広げた。
+海峡の船舶交通量の減少
+ホフマン氏は、原油が輸出できなくなって貯蔵庫がいっぱいになった場合、船舶交通量の減少により最終的には生産者が減産を余儀なくされる可能性があると警告した。ホルムズ海峡を通過する船舶の交通量は日曜日に激減し、クプラーのデータによると、同水路を横断する船舶は原油タンカー４隻を含むわずか１４隻にとどまったが、１週間前の船舶は３７隻だった。
+ホフマン氏は、輸出業者が湾岸から原油を出荷できなければ、最終的には貯蔵タンクが満杯になり、生産者には一時的に生産を停止する以外に選択肢がほとんどなくなると述べた。 「そのため、実効供給損失は、損傷したインフラを観察するだけで測定できるものよりもはるかに大きくなる可能性があります。」
+また、最新の動向は、世界の石油市場が引き続き快適に供給されるという国際エネルギー機関などの期待を損なうことになるだろう。 IEAはつい先週、石油市場が2026年末にかけて黒字に戻るとの見通しを発表したが、見通しは同海峡を通過するタンカーの交通量が徐々に回復するかどうかにかかっている。
+中東の供給が不安定になると同時にアジアの需要が回復すれば、タイミングは特に困難になる可能性があると付け加えた。 「サウジアラビアは最近、アジア産原油の主要グレードを巨額のプレミアムからディスカウントに変更した。これにより、最初の混乱で輸入が大幅に減少した中国の精製業者が購入を増やすようになるだろう。」
+サウジアラムコは最近、価格を1バレル当たり11ドル引き下げ、オマーン/ドバイのベンチマークに対して1.50ドル割引した。
+「言い換えれば、中東の供給の信頼性が再び悪化すると同時に、中国の需要が回復し始める可能性がある。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html",
+    publishedAt: "2026-07-14T02:37:12+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "u-s-completes-strikes-against-iran-while-67ffa80e",
+    title: "U.S. completes strikes against Iran, while Tehran targets Gulf neighbors",
+    titleJa: "米国がイランへの攻撃を完了、一方イランは湾岸諸国を標的に",
+    summaryJa: "米国は3夜連続でイランの軍事目標に対する攻撃を完了し、一方イランはホルムズ海峡で首長国の石油タンカー2隻を攻撃し、湾岸全域に空襲警報を発令した。米中央軍は、イランに対する最新の一連の攻撃を完了したと発表した。セントコムは声明で、この５時間の任務はイラン全土の軍事目標を攻撃し、商業船舶を攻撃するイランの能力をさらに低下させたと述べた。",
+    bodyOriginal: `The U.S. has completed its strikes against Iranian military targets for a third consecutive night, while Tehran hit two Emirati oil tankers in the Strait of Hormuz and triggered air-raid warnings across the Gulf.
+U.S. Central Command said it has completed the latest wave of strikes against Iran. The five-hour mission struck military targets across Iran and further degraded Iran's ability to attack commercial shipping, Centcom said in a statement.
+The U.S. forces attacked Iranian coastal defense systems, missile and drone sites, and maritime capabilities.
+The military action came hours after Trump ordered to reinstate a blockade on Iran in the strait Tuesday at 4 p.m. ET, and floated a 20% toll charge for ships going through the critical energy waterway.
+Iran retaliated with attacks targeting Gulf countries, including the United Arab Emirates and Bahrain Tuesday morning.
+The UAE Defense Ministry said Tuesday morning that national tankers Mombasa and AI Bahiyah were targeted by two Iranian cruise missiles in the strait's southern lane, inside Omani territorial waters. The attack killed one Indian crew member aboard the Mombasa, injured eight others and caused "material damage" to both tankers as a result of the fires that broke out on board.
+The ministry said it would remain "on the highest level of readiness and preparedness to address any threats," and would take all necessary measures to respond to any attempts to undermine the country's security and stability.
+Bahrain, home to the U.S. Navy's Fifth Fleet, also came under renewed attack, and sounded missile-alert sirens early Tuesday, according to the Associated Press, as Iran retaliated to American strikes.
+Traffic through Hormuz is slowing again with confirmed crossings declining by around 52% week on week over July 10 to 12, according to Kpler, with traffic reverting to "more defensive routing patterns" — increased use of Iranian and dark routes while shunning Omani and corridors authorized by International Maritime Organization.
+War risk premiums for Strait of Hormuz are expected to increase sharply as markets react to the escalating tensions, according to Lloyd's List Intelligence, as shipowners and charterers have paused decisions to transit through the waterway.
+The strikes have unraveled the ceasefire following the interim U.S.-Iran agreement signed last month, aimed at reopening the strait and pausing hostilities for 60 days of negotiations.
+The escalation in the region pushed Brent crude up 2% to $85 a barrel on Tuesday, while the U.S. West Texas Intermediate rose 2.3% to $80 amid renewed uncertainty over commercial shipping through the Hormuz waterway that carried a fifth of the world's oil and gas before the conflict.`,
+    bodyJa: `米国は3夜連続でイランの軍事目標に対する攻撃を完了し、一方イランはホルムズ海峡で首長国の石油タンカー2隻を攻撃し、湾岸全域に空襲警報を発令した。
+米中央軍は、イランに対する最新の一連の攻撃を完了したと発表した。セントコムは声明で、この５時間の任務はイラン全土の軍事目標を攻撃し、商業船舶を攻撃するイランの能力をさらに低下させたと述べた。
+米軍はイランの沿岸防衛システム、ミサイルや無人機の拠点、海洋能力を攻撃した。
+この軍事行動は、トランプ大統領が火曜日午後4時にイラン海峡における封鎖を再開するよう命令した数時間後に行われた。東部標準時は、重要なエネルギー水路を通過する船舶に対して 20% の通行料を課すことを提案しました。
+イランは火曜日朝、アラブ首長国連邦やバーレーンを含む湾岸諸国を標的とした攻撃で報復した。
+UAE国防省は火曜朝、オマーン領海内の海峡南側車線で国営タンカー「モンバサ」と「AIバヒヤ」がイランの巡航ミサイル2発の標的になったと発表した。この攻撃により、モンバサ号のインド人乗組員1人が死亡、8人が負傷し、船内で発生した火災により両タンカーに「物的損害」が発生した。
+同省は「あらゆる脅威に対処するための最高レベルの準備と備え」を維持し、国の安全と安定を損なうあらゆる試みに対応するために必要なあらゆる措置を講じると述べた。
+AP通信によると、イランがアメリカの攻撃に報復する中、米海軍第5艦隊の本拠地バーレーンも新たな攻撃を受け、火曜日早朝にミサイル警報のサイレンを鳴らした。
+クプラー氏によると、ホルムズを通る交通は再び減速しており、確認された交差点は7月10日から12日にかけて前週比約52％減少しており、交通は「より防御的な経路パターン」、つまりオマーンや国際海事機関が認可した回廊を避けながらイランルートや暗いルートの利用が増加しているという。
+ロイズ・リスト・インテリジェンスによると、船主や用船会社がホルムズ海峡を通過する決定を一時停止しているため、緊張の高まりに市場が反応するにつれ、ホルムズ海峡の戦争リスクプレミアムは急激に上昇すると予想されている。
+この攻撃により、海峡の再開と60日間の交渉の敵対行為の一時停止を目的とした先月署名された米国とイランの暫定合意に続く停戦が崩れた。
+この地域の激化により、火曜日にはブレント原油が２％上昇して１バレル＝８５ドルとなった一方、紛争前に世界の石油とガスの５分の１を運んでいたホルムズ水道を通る商業輸送を巡る不確実性が再び高まる中、米国ウェスト・テキサス・インターミディエイトは２．３％上昇して８０ドルとなった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html",
+    publishedAt: "2026-07-14T02:34:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "oil-gains-over-2-as-mideast-tensions-and-e0d65c79",
+    title: "Oil gains over 2% as Mideast tensions and Hormuz toll prospects raise supply worries",
+    titleJa: "中東情勢の緊張とホルムズの通行料見通しで供給不安が高まる中、原油は2％以上上昇",
+    summaryJa: "ドナルド・トランプ米大統領がホルムズ海峡での輸送料を課し、イランの港湾封鎖を再開する計画を発表したことを受けて火曜日、原油価格が上昇し、世界の原油供給に混乱が生じる可能性に対する懸念が高まった。米国ウエスト・テキサス・インターミディエート先物８月限は２．２７％上昇し、１バレル＝７９．９１ドルとなった。国際ベンチマークであるブレント原油先物９月渡しは２．１４％上昇して８５．１１ドルとなり、前取引で９．６％上昇した後、さらに上昇幅を広げた。",
+    bodyOriginal: `Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz and reinstate a blockade of Iranian ports, raising concerns over potential disruptions to global crude supplies.
+U.S. West Texas Intermediate futures for August delivery rose 2.27% to $79.91 per barrel. International benchmark Brent crude futures for September delivery climbed 2.14% to $85.11, extending gains after advancing 9.6% in the previous session.
+Trump said Monday that the U.S. will levy fees on ships transiting the Strait of Hormuz, charging "at the rate of 20% on all cargo shipped," after describing the United States as the "guardian" of the vital oil transit route.
+In a post on Truth Social, Trump also announced that Washington would reinstate its blockade of Iranian ports near the strait, further escalating the conflict with Tehran. U.S. Central Command later said the blockade would take effect at 4 p.m. ET on Tuesday.
+Citi warned that Trump's proposal to impose shipping fees in the Strait of Hormuz materially raises the risk of further military escalation.
+"The possibility that the Iranian regime walks away from the MoU until after the mid-term US elections has also risen, a scenario which would most likely see higher for longer oil prices," the bank wrote in a report published early Tuesday.
+Roughly one-fifth of global oil supplies passed through the Strait of Hormuz before the U.S. and Israel launched strikes on Iran on Feb. 28. Shipping traffic slumped after Iran began targeting vessels in the waterway in early March, but had started to recover following Washington and Tehran's interim agreement.`,
+    bodyJa: `ドナルド・トランプ米大統領がホルムズ海峡での輸送料を課し、イランの港湾封鎖を再開する計画を発表したことを受けて火曜日、原油価格が上昇し、世界の原油供給に混乱が生じる可能性に対する懸念が高まった。
+米国ウエスト・テキサス・インターミディエート先物８月限は２．２７％上昇し、１バレル＝７９．９１ドルとなった。国際ベンチマークであるブレント原油先物９月渡しは２．１４％上昇して８５．１１ドルとなり、前取引で９．６％上昇した後、さらに上昇幅を広げた。
+トランプ大統領は月曜日、米国は重要な石油輸送ルートの「守護者」であると述べた後、ホルムズ海峡を通過する船舶に「輸送される全貨物の20％」の料金を課すと述べた。
+トランプ大統領はまた、真実ソーシャルへの投稿で、米国が海峡近くのイラン港の封鎖を再開し、イランとの紛争をさらに激化させると発表した。米中央軍はその後、封鎖は午後４時に発効すると発表した。東部時間火曜日。
+シティは、ホルムズ海峡に輸送料を課すというトランプ大統領の提案は、さらなる軍事エスカレーションのリスクを実質的に高めるものだと警告した。
+同銀行は火曜日初めに公表した報告書の中で、「イラン政権が米国の中間選挙後まで覚書から離脱する可能性も高まっており、原油価格が長期化すればこのシナリオはさらに上昇する可能性が最も高い」と述べた。
+米国とイスラエルが2月28日にイラン攻撃を開始するまで、世界の石油供給量のおよそ5分の1がホルムズ海峡を通過していた。イランが3月初旬に同水路の船舶を標的にし始めてから海運は低迷したが、米国とイランの暫定合意を受けて回復し始めていた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+    publishedAt: "2026-07-14T01:42:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "is-tracking-your-food-purchases-good-for-3809f12b",
+    title: "Is tracking your food purchases good for your health?",
+    titleJa: "食料品の購入を追跡することは健康に良いのでしょうか?",
+    summaryJa: "食料品の購入を追跡することは健康に良いのでしょうか?- 公開されました",
+    bodyOriginal: `Is tracking your food purchases good for your health?
+- Published
+With a packet of biscuits in one hand and her smartphone in the other in the biscuits sucrées aisle of her local Hyper U supermarket west of Paris, Nathalie sees red. Literally.
+"Look at that!" she says showing me her phone. 0/100 is marked in red lettering.
+"This is one of Malo's [her 12-year-old son's] favourites but it's not only full of sugar and saturated fats, there are four additives as well including one health risk," she says.
+Nathalie clicks on the additive in question: E450. "A mineral which, taken in excess, can lead to bone marrow and kidney problems," she reads.
+"Honestly, that they can put this sort of thing in food aimed at children drives me nuts!" she says.
+We scan an Italian alternative whose packaging gives you the impression those biscuits have been hand-made by peasant women wearing black shawls.
+The score is not much better: "Malo hates shopping with me now," says Nathalie. "You spend ages scanning and he can never have what he wants."
+The app, having activated the red alert, suggests a healthier alternative. It's organic, containing wholewheat, fruit and fibre.
+"You end up buying a lot more organic stuff so it's more expensive," she says.
+Nathalie is one of a growing number of people using Yuka, an app developed in France, to shop more healthily. Not just for food but cosmetics and toiletries too.
+Download it and you can use your phone to scan the barcodes of any one of the six million products on the Yuka database (about 1,200 new ones a day) and it'll tell you immediately – green for good, red for bad, yellow for could be better. If you want to know more, you can delve further. Pages and pages if you want.
+Started in 2015, Yuka now has 85 million users in 12 countries: numerous European ones plus the US, Canada and Australia.
+The third-biggest user is the UK with around five million, second is France with six million, but the biggest by a very long way is the US with 28 million.
+Yuka has some high-profile fans in the US. For example, Donald Trump's Secretary of Health and Human Services, Robert F Kennedy Jr, says it's his favourite app.
+Yuka was founded in France where it still has its headquarters, but three years ago co-founder and CEO Julie Chapon moved to the States because the app was doing so well there.
+She says the app is more successful in the US because the need is greater. "I'm thrilled to be in a country where there is still so much progress to be made," she says, diplomatically.
+In France, Yuka is one facet of a wider food-tracking phenomenon.
+In 2012, a French programmer called Stéphane Gigandet launched a free, online and crowdsourced food product database called Open Food Facts during the Food Revolution Day organised by English chef Jamie Oliver.
+A community-driven non-profit rather than a private company, it now makes available information on over four million food products around the world.
+Also, two months after Yuka's launch, the French government started its Nutri-Score labeling, external. It's creator was the food researcher Serge Hercberg from Paris' Sorbonne University.
+"I was inspired in particular by the UK's Traffic Light system which gives green, amber or red lights for sugar, fat, salt, calories... but I wanted something simpler. The Nutri-Score gives a global score. You can tell at a glance whether a product is going to be good or bad for your health," he says.
+Introduced after a bit of an arm-wrestle with the food industry, Nutri-Score is a voluntary front-of-pack label for pre-packaged food. Many big food manufacturers such as Danone and Nestlé have adopted it widely, but some brands – especially where they'd score poorly - simply opt out.
+"Applications like Yuka and Open Food Facts fill that gap," says Hercberg.
+They also go further than Nutri-Score, giving info, for example, about additives (chemicals added to preserve or colour food for example which are coded as e-numbers) whose presence is a strong indicator that food is ultra-processed.
+The Yuka drawback? Christian Reynolds, Reader in Food Policy at City St George's University, London says tech is one of a basket of solutions but research shows the limits.
+"I supported a [British government] review on how people interact with labels, external and information, and the take home from that was that few people have the time, capacity or inclination to engage with shopping and food choices beyond routine."
+Hercberg see the limitations to food tracking systems as well: "Unfortunately, they essentially only touch the more privileged section of the population, who are not those most at risk of health problems linked to the way they eat."
+He considers the Nutri-Score labeling system he created and apps like Yuka and Open Food Facts to be allies.
+They are all about sharing information, which they already do among themselves. Yuka has its own food scientists but replies essentially on academic publications and publicly-available data. It incorporates Nutri-Score data in its product assessments.
+Unlike Nutri-Score and Open Food Facts, Yuka is a private company and profitable says CEO Julie Chapon.
+However, she stresses that revenue does not come from advertising, sponsored rankings or product placement.
+"We have never accepted money from brands to influence our ratings or recommendations. Our revenue comes from users, through the premium version of the app," she says.
+The percentage of Yuka users who pay for premium is tiny but that suffices because the total number of users is so enormous, she adds.
+Chapon says there is evidence that Yuka has an impact on shopping habits. In 2024 a company survey of 20,000 users indicated that 94% of them put products back on the shelf when the app showed a red rating.
+As for evidence of how this app is changing the food produced and sold, the most striking example is probably the French super and hyper-market chain Intermarché, France's third largest with over 2,100 stores.
+It says it has changed a lot of its own brand product formulations because of their Yuka scores.
+"Since 2017, we have reformulated over 3,000 recipes and taken out 160 additives… Last year alone, we re-worked the formulations of around 300 products," the company said in a statement.
+In April this year it even started putting products' Yuka scores on its online shopping site.
+More Technology of Business
+- Published12 June
+- Published5 June
+- Published9 June`,
+    bodyJa: `食料品の購入を追跡することは健康に良いのでしょうか?
+- 公開されました
+パリ西にある地元のスーパー U ハイパー U のビスケットシュクレの通路で、片手にビスケットのパックを持ち、もう一方の手にスマートフォンを持ったナタリーさんは、赤いものを見ました。文字通り。
+「あれを見てください！」彼女は私に携帯電話を見せながら言いました。 0/100は赤い文字でマークされています。
+「これはマロ（12歳の息子）のお気に入りの1つですが、砂糖と飽和脂肪がたっぷり含まれているだけでなく、1つの健康リスクを含む4つの添加物も含まれています」と彼女は言う。
+ナタリーは問題の添加剤「E450」をクリックします。 「過剰に摂取すると骨髄や腎臓の問題を引き起こす可能性があるミネラルです」と彼女は書いている。
+「正直、子供向けの食品にこんなものを入れられるなんて、本当に腹が立ちます！」彼女は言います。
+私たちは、黒いショールを着た農民の女性によって手作りされたビスケットのような印象を与えるパッケージのイタリアの代替品をスキャンしました。
+スコアはそれほど良くありません。「マロは私と一緒に買い物をするのを嫌がるようになりました」とナタリーは言います。 「スキャンに何年も費やしても、彼は望むものを決して手に入れることができません。」
+緊急警報を発したアプリは、より健康的な代替手段を提案します。全粒粉、果物、食物繊維を含むオーガニック製品です。
+「結果的にオーガニックのものをたくさん買うことになるので、値段も高くなります」と彼女は言う。
+ナタリーさんは、より健康的な買い物をするためにフランスで開発されたアプリ、ユカを使用する人が増えているうちの 1 人です。食品だけでなく化粧品や日用品なども。
+これをダウンロードすると、携帯電話を使用して、Yuka データベースにある 600 万件の製品 (1 日あたり約 1,200 件の新製品) のバーコードをスキャンできます。すぐに、良いものは緑、悪いものは赤、より良いものは黄色であることを示します。さらに詳しく知りたい場合は、さらに掘り下げることができます。必要に応じて、何ページも。
+2015 年にサービスを開始した Yuka は、現在 12 か国に 8,500 万人のユーザーを抱えています。多くのヨーロッパ諸国に加え、米国、カナダ、オーストラリアも含まれます。
+3 番目に多いユーザーは英国で約 500 万人、2 番目はフランスの 600 万人ですが、ダントツで最大のユーザーは米国の 2,800 万人です。
+ユカには米国にも著名なファンがいます。たとえば、ドナルド・トランプ大統領の保健福祉長官ロバート・F・ケネディ・ジュニアは、これがお気に入りのアプリだと述べている。
+ユカはフランスで設立され、現在も本社を置いているが、共同創設者兼 CEO のジュリー・シャポン氏は、アプリが現地で非常に好調だったため、3 年前に米国に移住した。
+彼女は、このアプリが米国でより成功しているのは、ニーズが大きいからだと言う。 「まだ多くの進歩が見られる国に来られて興奮しています」と彼女は外交面で語る。
+フランスでは、ユカは広範な食品追跡現象の一側面を担っています。
+2012年、フランス人プログラマーのステファン・ジガンデ氏は、英国人シェフのジェイミー・オリバー氏が主催した食品革命デーに合わせて、「Open Food Facts」と呼ばれる無料のオンラインクラウドソース食品データベースを立ち上げた。
+民間企業ではなくコミュニティ主導の非営利団体である同社は、現在世界中で 400 万を超える食品に関する情報を提供しています。
+また、ユカの発売から 2 か月後、フランス政府はニュートリスコアの対外表示を開始しました。考案者はパリのソルボンヌ大学の料理研究家セルジュ・ヘルクベルグ氏。
+「私は特に、砂糖、脂肪、塩分、カロリーを緑、琥珀、または赤で示す英国の信号機システムにインスピレーションを受けました...しかし、私はもっとシンプルなものを望んでいました。ニュートリスコアは世界的なスコアを提供します。製品が健康に良いか悪いかが一目でわかります。」と彼は言います。
+食品業界との少々の格闘の末に導入されたニュートリスコアは、包装済み食品の自主的なパッケージ前面ラベルです。ダノンやネスレなどの多くの大手食品メーカーはこれを広く採用していますが、一部のブランド、特にスコアが低い場合は単にオプトアウトします。
+「Yuka や Open Food Facts のようなアプリケーションがそのギャップを埋めます」と Hercberg 氏は言います。
+また、Nutri-Score よりさらに進んで、たとえば添加物 (食品の保存や着色のために添加される化学物質で、e 番号としてコード化されているもの) に関する情報も提供します。その存在は、食品が超加工されていることを示す強力な指標です。
+ユカの欠点は？ロンドンのシティ・セント・ジョージズ大学で食料政策のリーダーを務めるクリスチャン・レイノルズ氏は、テクノロジーは解決策のバスケットの1つだが、研究では限界が示されていると語る。
+「私は、人々がラベルや外部情報、情報とどのように関わるかについての（英国政府の）見直しを支持しました。そしてそこから得られた教訓は、日常を超えて買い物や食べ物の選択に取り組む時間や能力、あるいは傾向を持っている人はほとんどいないということです。」
+ヘルクバーグ氏は、食品追跡システムにも限界があると見ている。「残念ながら、それらは基本的に人口のより特権的な層にしか影響を与えておらず、彼らは食事方法に関連した健康問題のリスクが最も高い人たちではないのです。」
+彼は、自身が作成したニュートリスコア表示システムと、Yuka や Open Food Facts のようなアプリを同盟関係にあると考えています。
+彼らは情報を共有することが目的であり、すでに彼らの間で共有されています。ユカには独自の食品科学者がいますが、基本的に学術出版物と公開されているデータに基づいて回答しています。製品評価にはニュートリスコアデータが組み込まれています。
+Nutri-Score や Open Food Facts とは異なり、Yuka は非公開企業であり、利益を上げていると CEO の Julie Chapon 氏は述べています。
+ただし、収益は広告、スポンサー付きランキング、商品の掲載などから得られるものではないと彼女は強調する。
+「私たちは、評価や推奨に影響を与えるためにブランドから金銭を受け取ったことがありません。私たちの収益は、アプリのプレミアムバージョンを通じてユーザーから得ています」と彼女は言います。
+プレミアム料金を支払うユカ ユーザーの割合はごくわずかですが、ユーザーの総数は非常に膨大なので、それで十分だと彼女は付け加えました。
+チャポンさんは、ユカが買い物習慣に影響を与えているという証拠があると言う。 2024 年に 20,000 人のユーザーを対象に行った同社の調査では、アプリが赤の評価を示した場合、ユーザーの 94% が製品を棚に戻したことが示されました。
+このアプリが食品の生産と販売にどのような変化をもたらしているかを示す証拠として、最も顕著な例はおそらく、2,100 店舗以上を展開するフランス第 3 位のスーパーマーケットチェーン、インターマルシェでしょう。
+同社は、ユカスコアを理由に自社ブランド製品の配合を大幅に変更したと述べている。
+「2017年以来、当社は3,000以上のレシピを再配合し、160の添加物を取り除いた…昨年だけでも約300の製品の配合を見直した」と同社は声明で述べた。
+今年4月にはオンラインショッピングサイトに商品の優香スコアも掲載し始めた。
+ビジネスのさらなるテクノロジー
+- 6 月 12 日発行
+- 6 月 5 日発行
+- 6 月 9 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-13T23:04:58+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac4/live/19124130-7492-11f1-8e1d-bbbb1017d210.jpg",
+    readTime: 8,
+  },
+  {
+    id: "i-don-t-want-to-seem-tight-how-much-sho-1833d31d",
+    title: "'I don't want to seem tight': How much should you give to the year-end teacher collection?",
+    titleJa: "「きついと思われたくない」: 先生の年末のコレクションにはいくらあげるべきですか?",
+    summaryJa: "「きついと思われたくない」: 先生の年末のコレクションにはいくらあげるべきですか?- 公開されました",
+    bodyOriginal: `'I don't want to seem tight': How much should you give to the year-end teacher collection?
+- Published
+Parents know the drill: as the end of summer term rolls in it's time to think about thank-yous for the teachers after another year of hard work and tested patience.
+But just how generous should you be? Is £5 too much? Or too little? And what about support staff like teaching assistants, canteen staff and librarians?
+With many parents strapped for cash and heading into the holidays, it's an extra expense to budget for and an awkward etiquette to negotiate.
+Plus, what used to be a simple matter of buying chocolate and writing a card has been overtaken by an organisational extravaganza, with class reps sending out a flurry of Whatsapps to drum up contributions, before passing round the collective card, and deciding on flowers, spa days, wine or vouchers.
+'You can't just put a few quid in or you'll seem tight'
+This can all really add up, as one parent told the BBC.
+At her South East London primary school, collections have reached as much as £560, which is split between the teacher and teaching assistants. For a class of 30, that works out at more than £18 per child.
+On top of this, she says there are usually bake sales and ice cream sales in June and July to raise money for the school, as well as collections for support staff who are leaving or members of the PTA.
+The mother-of-two, who didn't want to share her name, said she and her partner "were not in an uncomfortable position" but still "feel the strain".
+"Sometimes you are asked to put money into someone's bank account and there's a lot of pressure there. You can't just put a few quid in or you'll seem tight."
+Teacher whip-rounds are a hot topic on the online forum Mumsnet, where they tend to divide opinion.
+In a recent thread, one parent spoke of the "insane" amount they were asked to give, while another said they felt pressured to contribute, especially if there was a class "Queen Bee" organising the collection.
+But others responding online said it was reasonable to give a sizeable amount, with one arguing that teachers were "woefully underpaid and undervalued".
+Even if you are contributing £10 each for three members of staff, that costs the same as taking the family out for coffee and pastries, they pointed out.
+'It would be terrible to call someone out'
+Maya, who also did not want to use her real name due to "the politics of it all", has taken on the role of organising the whip-round for the past few years at her children's London school.
+The mother-of-two says a class collection is more affordable than giving individual presents. So she and the other parents agreed on a contribution of £5 per member of staff, making a total of £15 from each child for their teacher and two teaching assistants.
+She does note that in a year when the teacher "hasn't been the best" payouts have been lower, but usually most parents do contribute.
+"A couple of mums always say, 'we like to do our own thing'," she says. She is aware there may be good reasons parents or carers can't take part; some of the pupils are in care.
+"I think it would be terrible to call someone out and be like: why haven't you contributed?" she says.
+For families that can't afford extravagant presents a collection can make things easier, says psychologist Cathrine Jansson-Boyd at Anglia Ruskin University.
+But in fact, all children benefit from a shift away from the "showing-off culture" at the school gate at the end of term, which can make them anxious, she says.
+"It avoids some kids perhaps going: 'Mummy, or Daddy, why didn't we give the teacher 10 bottles of champagne?'," says Jansson-Boyd.
+She thinks a £5 contribution from each child adds up to an "incredibly generous" gift for staff.
+'Whether a parent has contributed is not relevant'
+Behavioural psychologist Jo Hemmings thinks contributions should be specified in advance, leaving less room for doubt and social pressure - because, after all, you can never be sure your donation will not end up being talked about.
+"I think everyone should give an equal amount. Probably about £10 per parent, I think the maximum is probably £20," she says. She suggests £5 for teaching assistants.
+"I don't know if that makes me sound very mean or very generous, but I feel that's kind of an affordable level," she says.
+She also thinks the card should be from the class as a whole, regardless of who donated.
+"Whether a parent has contributed or not is not relevant - the teacher doesn't need to know that."
+Tim, a teacher at a private school in Cheltenham, says what means the most to him is when students have written a card or a note themselves.
+"I'm a physics teacher and I've got a terrible sense of humour," he confesses, so he particularly likes it if the students pick up on his fondness for corny puns.
+Tim, like plenty of teachers, says he doesn't want parents to feel any obligation to give a gift.
+Most schools have rules over the value of gifts teacher can accept, limited to £30 or £50 typically, and discourage cash gifts altogether.
+"I think it wouldn't be a bad idea for schools to point that out and say, look, if you're going to buy something, make sure you keep below X amount," says Tim.
+Get in touch
+What’s your biggest money dilemma? Tell us your story.`,
+    bodyJa: `「きついと思われたくない」: 先生の年末のコレクションにはいくらあげるべきですか?
+- 公開されました
+親はその訓練を知っています。夏学期の終わりが近づくと、もう一年間懸命に働き、忍耐力を試された教師たちへの感謝の気持ちを考える時が来ました。
+しかし、どれだけ寛大であるべきでしょうか？ 5ポンドは多すぎますか？それとも少なすぎますか？また、ティーチングアシスタント、食堂スタッフ、図書館司書などのサポートスタッフはどうでしょうか?
+多くの親がお金に困って休暇を迎える中、予算を組むのは余分な出費であり、交渉するのは厄介なエチケットでもあります。
+さらに、これまではチョコレートを買ってカードを書くという単純なことであったことが、組織的な盛大な行事に取って代わられました。クラスの代表者が寄付金を集めるために大量の Whatsapp を送信し、その後集合カードを回して、花、スパデー、ワイン、バウチャーを決定するというものです。
+「ほんの数ポンド入れるだけではだめだよ、そうしないときつく見えるよ」
+ある親がBBCに語ったように、これらすべてが実際に積み重なる可能性がある。
+彼女のロンドン南東部の小学校では、コレクションが 560 ポンドに達し、教師と指導助手で折半されています。 30 人のクラスの場合、子供 1 人あたり 18 ポンド以上になります。
+これに加えて、通常 6 月と 7 月には、学校への資金を集めるために焼き菓子の販売やアイスクリームの販売が行われるほか、退職するサポートスタッフや PTA メンバーへの募金も行われると彼女は言います。
+2人の子供の母親である彼女は、名前を明かしたくなかったが、自分とパートナーは「不快な立場ではなかった」が、それでも「緊張を感じている」と語った。
+「時々、誰かの銀行口座にお金を入れるように頼まれることがありますが、そこには大きなプレッシャーがかかります。数ポンドを入れるだけではだめで、そうしないと窮屈に思われてしまいます。」
+教師の鞭打ちはオンライン フォーラム マムズネットで話題になっており、意見が分かれる傾向にあります。
+最近のスレッドでは、ある保護者が寄付を求められた「常軌を逸した」金額について語った一方、別の保護者は、特にコレクションを主催するクラス「女王蜂」がいる場合には寄付をするようプレッシャーを感じたと述べた。
+しかし、オンラインで回答した他の回答者は、教師は「ひどく低賃金で過小評価されている」と主張し、多額の寄付をするのは合理的だと述べた。
+たとえスタッフ3人に10ポンドずつ寄付したとしても、家族をコーヒーやペストリーに連れて行くのと同じ費用がかかると彼らは指摘した。
+「誰かに声をかけたらひどいことになるだろう」
+マヤさんも「政治的な理由から」本名を使いたくなかったが、ここ数年は子供の通うロンドンの学校で鞭打ち大会を主催する役割を引き受けている。
+2 人の子供の母親である彼女は、個人にプレゼントを贈るよりも、クラスのコレクションの方が手頃な価格だと言います。そこで彼女と他の保護者は、スタッフ1人当たり5ポンドを寄付することで合意し、教師と2人の指導助手のために子供1人当たり合計15ポンドを寄付することにした。
+彼女は、教師が「最高ではなかった」年には支払いは減ったものの、通常はほとんどの親が寄付をしていると指摘している。
+「何人かの母親はいつも『自分たちのことは自分でやりたい』と言うのです」と彼女は言います。彼女は、親や介護者が参加できない正当な理由があるかもしれないことを認識しています。一部の生徒は保護を受けています。
+「誰かを呼び出して『なぜ貢献しないの？』と言うのはひどいことだと思います。」彼女は言います。
+アングリア・ラスキン大学の心理学者キャサリン・ヤンソン・ボイド氏は、豪華なプレゼントを買う余裕のない家族にとって、コレクションを用意しておくと楽になると話す。
+しかし実際には、学期末に校門で不安になる「見せびらかし文化」から離れることで、すべての子どもが恩恵を受けると彼女は言う。
+「こうすることで、『ママかパパ、なぜ先生にシャンパンを10本もあげなかったの？』と言う子供たちも避けられるでしょう」とヤンソン・ボイド氏は言う。
+彼女は、子供たち 1 人あたり 5 ポンドの寄付がスタッフへの「信じられないほど寛大な」贈り物になると考えています。
+「親が寄付したかどうかは関係ない」
+行動心理学者のジョー・ヘミングス氏は、寄付は事前に明示し、疑いや社会的圧力の余地を少なくすべきだと考えています。なぜなら、結局のところ、自分の寄付が話題にならないとは決して言い切れないからです。
+「誰もが同じ額を寄付すべきだと思います。おそらく親1人あたり約10ポンド、最高はおそらく20ポンドだと思います」と彼女は言う。彼女はティーチングアシスタントに 5 ポンドを提案しています。
+「それがとても意地悪に聞こえるか、とても寛大に聞こえるかわかりませんが、それは手頃なレベルだと思います」と彼女は言います。
+彼女はまた、誰が寄付したかに関係なく、カードはクラス全体からのものであるべきだと考えています。
+「親が貢献したかどうかは関係ありません。教師はそれを知る必要はありません。」
+チェルトナムの私立学校の教師であるティムは、彼にとって最も意味のあることは、生徒が自分でカードやメモを書いたときだと言います。
+「私は物理の教師ですが、ひどいユーモアのセンスを持っています」と彼は告白するので、特に生徒たちが彼のダジャレ好きを察知するのが好きだという。
+多くの教師と同様、ティムも親には贈り物をする義務を感じてほしくないと言う。
+ほとんどの学校では、教師が受け取ることができる贈り物の額について規則があり、通常は 30 ポンドか 50 ポンドに制限されており、現金の贈り物は一切禁止されています。
+「学校がそのことを指摘して、何かを買うなら必ずX額以下に抑えるように言うのは悪い考えではないと思います」とティムは言う。
+連絡する
+お金に関する最大のジレンマは何ですか?あなたのストーリーを教えてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckg8x4vk04vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-13T23:02:11+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f19/live/cf46fe70-7c6a-11f1-b259-7334926d10bb.jpg",
+    readTime: 6,
+  },
+  {
+    id: "the-secretive-crypto-firm-backed-by-fara-82169ea3",
+    title: "The secretive crypto firm backed by Farage's biggest donor",
+    titleJa: "ファラージ氏の最大の資金提供者が支援する秘密主義の暗号通貨会社",
+    summaryJa: "ファラージ氏の最大の資金提供者が支援する秘密主義の暗号通貨会社- 公開されました",
+    bodyOriginal: `The secretive crypto firm backed by Farage's biggest donor
+- Published
+Who is the biggest purchaser of the world's biggest safe haven asset - gold?
+China? Japan? One of the Gulf countries, perhaps?
+In fact, the single biggest buyer of the precious metal last year was a company you've probably never heard of – a crypto firm called Tether.
+The El Salvador-based company runs USDT, the world's biggest stablecoin, which is a form of crypto backed up by hard currency.
+It serves as a conduit between riskier, volatile cryptocurrencies and the conventional finance system, essentially used as an offshore dollar.
+Yet Tether bought more gold last year than anyone, according to European Central Bank data.
+It keeps it stored in a James Bond-style Swiss former nuclear bunker, according to Tether's boss.
+Tether says it also owns as much US Government debt as some G20 nation states, some $135bn (£101bn), which is more than South Korea.
+It is a huge player, almost taking on the characteristics of a private central bank. Yet it employs just 200 people.
+It is also, perhaps inadvertently, entangled in the questions around the funding of Nigel Farage's Reform party.
+One of Tether's significant shareholders is Christopher Harborne.
+Last August, Harborne gave £9m in cash to Farage's Reform party – the biggest party donation in British history. He gave a further £3m to Reform in October and an additional £3m in January. All the donations were declared.
+Harborne had given £5m directly to Farage, a previously undisclosed personal gift which was the subject of parliamentary investigations, before Farage resigned as an MP.
+Farage and Harborne have both said there were no strings attached to the personal gift, nor to the political donations to Reform.
+The Bank of England's governor Andrew Bailey recently confirmed that Farage raised the issue of cryptocurrency regulation and the related issue of central bank digital currencies with him in September last year.
+He said Farage made his views "very clear", but the "intervention" did not change the Bank's policy, and that in general he could spot "lobbying" and knew how to discount it.
+There was a specific issue Farage was concerned about - speculation that the Bank of England would push ahead with a limit on holdings of potential sterling stablecoins of between £10,000 and £20,000.
+The industry was lobbying hard against it.
+My understanding is that Farage did not raise Tether specifically with the governor, but he did talk about stablecoin regulation in general.
+It raises reasonable questions about the precise details of that conversation and the scope for any possible benefit to Tether and its shareholders from shifts in Bank of England policy.
+The Reform leader had already spoken openly about embracing cryptocurrencies.
+"Tether is about to be valued as a $500bn company," he told LBC presenter Nick Ferrari in September, the day before meeting Bailey.
+"This world is enormous, and I've been urging for years that London should embrace it. We should become a global trading centre for this stuff under proper regulation."
+On the wider conversation, Farage's team say that "his remarks to Andrew Bailey are consistent with his long-held belief that the UK should be a global hub for regulated cryptocurrency innovation and investment".
+To that end, last May when Reform was ahead in the polls, the only piece of draft legislation it had published was its Cryptoassets and Digital Finance Bill.
+It had a fleeting reference to stablecoins, and no reference to the Bank's existing plan to limit personal holdings.
+I read it and downloaded it.
+It has since disappeared from the Reform website and from the web generally.
+Reform tells the BBC it is still party policy but that it regularly updates the website to highlight latest announcements.
+Three months on from that stablecoin regulation becomes absolutely central to Reform's priority discussions with the Bank of England, Reform says because the official consultation only opened up last November.
+It's important to note that Bailey is not just the man running the Bank of England.
+He also chairs the international financial regulation body, the Financial Stability Board. So he is arguably the most important non-American in the world for the regulation of crypto and stablecoins, reporting directly to G7 and G20 summits.
+He has expressed concern that stablecoins could be destabillising if they are considered to be a form of money without guarantees of holding their value.
+This industry is extremely sensitive to financial regulation.
+Some context lies across the Atlantic as to why.
+Last July, the Trump administration passed the so-called Genius Act, essentially legitimising stablecoins, under certain regulation in the US.
+On the back of this, one provider, called Circle, floated in New York, and it surged 10-fold in value in three weeks.
+In turn, over this period Tether and its advisers prepared for a capital raise valuing the much larger stablecoin at $500bn.
+In the same month Harborne donated a record £9m to Reform, relaxation of US stablecoin regulation drove up the value of his stake in Tether by several billion dollars.
+Then the following month, Reform referenced Tether by name in public, to the radio station LBC, and raised stablecoins as a priority issue with the UK regulator.
+The BBC understand that Harborne has no executive role at Tether, nor any control. He has a stake of around 13% in the firm.
+Harborne was also a registered named lobbyist at the European Parliament for the Digital Currencies Governance Group, for which Tether was a founder member, for seven months from September 2020.
+The DCGG regularly defends Tether by name in its submissions to various regulatory bodies.
+Lawyers for Harborne declined to comment.
+A Reform spokesman said that it was "false" to make any suggestion that policy development is connected to or influenced by individual donors, and that there was no requirement to discuss the financial interests of party donors at meetings such as with the Bank of England governor.
+The Bank did row back on some stablecoin restrictions last month, it said because of recommendations from the House of Lords financial committee.
+None of this contradicts Farage's argument that there were no strings attached to Harborne's personal gifts and political donations.
+But this is a unique situation where a political party preparing for government has received £15m of donations from one individual over the past year, a clear majority of its registered donations from a single individual.
+In addition, a year previously, its leader accepted a previously undisclosed £5m personal gift from the same individual.
+The money flowed at the precise moment that changes to global regulation of stablecoins was transforming the value and prospects of that sector.
+Never before has a table-topping political party been so dependent on donors connected to a narrow sector, which is in turn demonstrably extremely sensitive to live regulatory decisions.
+If there is an early election in the next year, won by Reform, it would then also choose the next governor of the Bank of England, before the expiry of Bailey's term in 2028.
+Sir Charlie Bean, a former deputy governor at the Bank of England, told the BBC: "Stablecoins are only stable if they have the appropriate regulatory environment… . But there is right now an unsurprising regulatory race to the bottom amid the potential for greater profits."
+He added: "When funds are coming from major shareholders of such large financial institutions, there is a clear potential conflict of interest here, for example, in the appointment of a new Bank of England governor.
+"Transparency is one solution."
+The questions crystallised by this unusual meeting last September are likely to remain with us.
+Related topics
+- Published5 days ago
+- Published5 days ago`,
+    bodyJa: `ファラージ氏の最大の資金提供者が支援する秘密主義の暗号通貨会社
+- 公開されました
+世界最大の安全資産である金の最大の購入者は誰でしょうか?
+中国？日本？おそらく湾岸諸国の一つでしょうか？
+実際、昨年の貴金属の最大の購入者は、おそらく聞いたこともない会社、テザーという暗号通貨会社でした。
+エルサルバドルに拠点を置く同社は、ハードカレンシーに裏付けられた暗号通貨の一種である世界最大のステーブルコインであるUSDTを運営しています。
+これは、リスクが高く不安定な仮想通貨と、基本的にオフショアドルとして使用される従来の金融システムとの間のパイプ役として機能します。
+それでも、欧州中央銀行のデータによると、テザーは昨年、誰よりも多くの金を購入した。
+テザー社のボスによると、それはジェームズ・ボンド風のスイスの元核バンカーに保管されているという。
+テザー社は、一部のG20諸国と同程度の米国政府債務も保有しており、その額は約1,350億ドル（約1,010億ポンド）で、これは韓国を上回っているとしている。
+これは巨大なプレーヤーであり、ほぼ民間中央銀行の特徴を帯びています。しかし、従業員はわずか 200 名です。
+それはまた、おそらく図らずも、ナイジェル・ファラージ率いる改革党の資金調達をめぐる問題に巻き込まれている。
+テザーの重要株主の一人はクリストファー・ハーボーン氏です。
+昨年8月、ハーボーン氏はファラージ氏の改革党に現金900万ポンドを寄付したが、これは英国史上最大の政党献金となった。同氏は10月に改革社にさらに300万ポンド、1月にもさらに300万ポンドを寄付した。寄付金はすべて申告されました。
+ハーボーン氏はファラージ氏が国会議員を辞任する前に、これまで非公開だった個人的な贈与として議会調査の対象となった500万ポンドをファラージ氏に直接贈与していた。
+ファラージ氏とハーボーン氏は両氏とも、改革への個人的な寄付や政治献金には何の制約もなかったと述べた。
+イングランド銀行のアンドリュー・ベイリー総裁は最近、ファラージ氏が昨年9月に仮想通貨規制とそれに関連する中央銀行デジタル通貨の問題を同氏に提起したことを認めた。
+同氏は、ファラージ氏は自身の見解を「非常に明確」に述べたが、「介入」によって世銀の政策が変わることはなく、一般的にファラージ氏は「ロビー活動」を見破ることができ、それを割り引く方法を知っていたと述べた。
+ファラージ氏が懸念していた特定の問題があった。それは、イングランド銀行が1万ポンドから2万ポンドの潜在的なスターリングステーブルコインの保有制限を進めるのではないかという憶測だ。
+業界はこれに反対するロビー活動を熱心に行っていた。
+私の理解では、ファラージ氏はテザーについて特に知事に言及したわけではありませんが、ステーブルコインの規制全般については話しました。
+この会話の正確な詳細と、イングランド銀行の政策変更によってテザーとその株主が得られる利益の範囲について、当然の疑問が生じます。
+改革指導者はすでに暗号通貨の採用について公然と語っていた。
+同氏はベイリー氏と会う前日、9月にLBCの司会者ニック・フェラーリに対し、「テザーは5,000億ドルの企業として評価されようとしている」と語った。
+「この世界は広大であり、私はロンドンがそれを受け入れるべきだと何年も主張してきました。適切な規制のもとで、この世界の貿易センターになるべきです。」
+より広範な会話について、ファラージ氏のチームは「アンドリュー・ベイリーに対する彼の発言は、英国が規制された仮想通貨のイノベーションと投資の世界的なハブとなるべきだという彼の長年の信念と一致している」と述べた。
+この目的のために、世論調査で改革派が優勢だった昨年5月、改革派が公表した唯一の法案は暗号資産およびデジタルファイナンス法案だった。
+ステーブルコインへの言及は一瞬だけあったが、個人保有を制限するという世銀の既存の計画への言及はなかった。
+読んでダウンロードしました。
+それ以来、Reform の Web サイトおよび Web 全般から姿を消しました。
+改革派はBBCに対し、党の政策であることに変わりはないが、ウェブサイトを定期的に更新して最新の発表を強調していると語った。
+ステーブルコイン規制から3か月が経過し、改革案とイングランド銀行との優先協議の絶対的な中心となるのは、公式協議が昨年11月に始まったばかりであるため、改革案は述べている。
+ベイリー氏はイングランド銀行を経営しているだけではないことに注意することが重要です。
+同氏は国際金融規制機関である金融安定理事会の議長も務めている。したがって、彼はおそらく仮想通貨とステーブルコインの規制において世界で最も重要な非アメリカ人であり、G7サミットとG20サミットに直接報告している。
+同氏は、ステーブルコインがその価値を維持する保証のない貨幣の一形態とみなされる場合、ステーブルコインが不安定化する可能性があるとの懸念を表明した。
+この業界は金融規制に非常に敏感です。
+その理由については、いくつかの背景が大西洋の向こう側にあります。
+昨年7月、トランプ政権は米国における一定の規制の下でステーブルコインを実質的に合法化する、いわゆるジーニアス法を可決した。
+これを背景に、Circle というプロバイダーがニューヨークに浮上し、その価値は 3 週間で 10 倍に急騰しました。
+次に、この期間中、テザーとそのアドバイザーは、はるかに大きなステーブルコインを5,000億ドルと評価して資本調達の準備をしました。
+同月、ハーボーン氏はリフォーム社に記録的な900万ポンドを寄付し、米国のステーブルコイン規制の緩和により、ハーボーン氏のテザー株の価値は数十億ドル上昇した。
+そして翌月、改革はラジオ局LBCに対し公の場でテザーの名を挙げ、ステーブルコインを英国規制当局の優先課題として取り上げた。
+BBC は、ハーボーンがテザー社で経営的な役割を果たしておらず、いかなる支配力も持たないことを理解しています。彼は同社の株式の約13％を保有している。
+ハーボーン氏は、2020年9月から7か月間、テザー社が創設メンバーだったデジタル通貨ガバナンスグループの欧州議会の指名ロビイストとしても登録されていた。
+DCGGはさまざまな規制機関への提出において定期的にテザーを名指しで擁護している。
+ハーボーンの弁護士はコメントを控えた。
+改革派の報道官は、政策策定が個人献金者と関連している、または個人献金者の影響を受けているとの示唆は「誤り」であり、イングランド銀行総裁との会合などで政党献金者の経済的利益について話し合う義務はないと述べた。
+同銀行は先月、貴族院金融委員会からの勧告を理由に、ステーブルコインの一部制限に反対したと述べた。
+これらはいずれも、ハーボーン氏の個人的な贈り物や政治献金には何の制約もなかったというファラージ氏の主張と矛盾しない。
+しかしこれは、政権を準備している政党が過去1年間に1人の個人から1500万ポンドの寄付を受け取ったという特殊な状況であり、登録されている寄付の明らかに過半数は1人の個人からのものである。
+さらに、1年前、そのリーダーは同じ個人からこれまで非公開だった500万ポンドの個人的な贈り物を受け取った。
+ステーブルコインの世界的な規制の変更がそのセクターの価値と見通しを変えようとしていたまさにその瞬間に資金が流れた。
+有力政党が狭いセクターに関係する献金者にこれほど依存したことはかつてなかったが、その結果、実際の規制上の決定に対して非常に敏感であることは明らかである。
+来年早期に選挙が実施され、改革派が勝利すれば、2028年のベイリー氏の任期満了前に次期イングランド銀行総裁も選出されることになる。
+元イングランド銀行副総裁サー・チャーリー・ビーン氏はBBCに対し、「ステーブルコインが安定するのは、適切な規制環境が整っている場合に限られる…。しかし現在、より大きな利益が期待できる中で、底値を目指す驚くべき規制競争が起きている。」と語った。
+同氏はさらに、「このような大手金融機関の大株主から資金が出ている場合、例えばイングランド銀行の新総裁の任命などにおいて、明らかに利益相反の可能性がある。
+「透明性は解決策の一つです。」
+昨年9月のこの異例の会合で浮き彫りになった疑問は、今後も残るだろう。
+関連トピック
+- 5 日前に公開
+- 5 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-13T23:00:59+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae0/live/c36317c0-7ef3-11f1-83a7-0959f8cc10cc.jpg",
+    readTime: 9,
+  },
+  {
     id: "judge-says-trump-sued-irs-for-improper-p-e9d78975",
     title: "Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar",
     titleJa: "判事はトランプ氏が「不当な目的」でIRSを訴えたと述べた。彼の弁護士を弁護士に紹介する",
@@ -1501,438 +2029,6 @@ X の他の場所では、アカウント @iliketeslas が、アルトマンは 
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "former-emir-of-qatar-sheikh-hamad-bin-kh-5543115b",
-    title: "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-    titleJa: "カタール元首長シェイク・ハマド・ビン・ハリファ・アール・サーニー氏が74歳で死去",
-    summaryJa: "カタール元首長シェイク・ハマド・ビン・ハリファ・アール・サーニー氏が74歳で死去- 公開されました",
-    bodyOriginal: `Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74
-- Published
-Sheikh Hamad bin Khalifa Al Thani, the former leader of Qatar, has died aged 74, the country's government announced on Sunday.
-"The Bureau of the Emir mourns the great loss to the nation of the late, may God have mercy on him," a statement read.
-Sheikh Hamad was one of the key masterminds behind modern Qatar and had taken power from his father in June 1995 in a bloodless coup.
-He is credited with transforming its economy into the wealthy global powerhouse it is today, thanks to its huge gas reserves. But his reign also had controversies - including Qatar's World Cup bid in 2010.
-Qatari emir hands power to son Tamim
-- Published25 June 2013
-Funeral prayers will be held on Sunday evening before several days of public mourning across the country to mark his death.
-Flags will be flown at half mast, while government offices and public institutions will be shut as a mark of respect.
-King Charles and Queen Camilla paid tribute, saying Sheikh Hamad had "dedicated many years of distinguished service to Qatar".
-"His leadership, vision and commitment to the welfare of the Qatari people were widely admired, both within Qatar and around the world," they added.
-India declared a day of national mourning and said that all entertainment events would cancelled during the period.
-Prime Minister Shri Narendra Modi said: "A visionary leader who led Qatar to great levels of development and prosperity.
-"We remember him also as a true friend whom I had the honour of meeting during my last visit to Qatar in February 2024."
-When Sheikh Hamad took power 31 years ago Qatar was struggling for money with its oil reserves dwindling.
-His coup - carried out while his father Sheikh Khalifa was abroad - changed the country forever.
-It became a leading producer and exporter of liquefied natural gas, thanks to international partnerships and investments that had been brokered.
-In 1996 Al Jazeera was launched there before becoming a big name in international broadcasting.
-And Sheikh Hamad founded the Qatar Investment Authority which put money into businesses abroad, including Harrods and football team Paris Saint-Germain.
-It would be football where he secured one of Qatar's biggest - and controversial - triumphs.
-The country was awarded the right to host the 2022 World Cup in 2010, despite allegations of corruption it was later cleared of.
-It hired 30,000 foreign labourers just to build the stadiums. In 2021 it was reported some 6,500 migrant workers from India, Pakistan, Nepal, Bangladesh and Sri Lanka had died since it won the World Cup bid.
-The Qatar government said not all the deaths recorded were of people working on World Cup-related projects and many had lived there a long time.
-There was also criticism over Qatar's human rights record and laws against same-sex relationships.
-Sheikh Hamad voluntarily abdicated for his son in 2013.
-Qatar was a British protectorate until 1971, with the Al Thani family as monarchs since 1851.`,
-    bodyJa: `カタール元首長シェイク・ハマド・ビン・ハリファ・アール・サーニー氏が74歳で死去
-- 公開されました
-カタールの元指導者シェイク・ハマド・ビン・ハリファ・アル・サーニ氏が74歳で死去したと同国政府が日曜日に発表した。
-「首長局は故国民の多大なる損失を悼みます。神が彼に慈悲を与えてくださいますように」と声明で述べた。
-シェイク・ハマドは現代カタールの背後にある主要な首謀者の一人であり、1995年6月に無血クーデターで父親から権力を掌握した。
-彼は、その膨大なガス埋蔵量のおかげで、その経済を今日のような裕福な世界的大国に変えたと信じられています。しかし、彼の治世には2010年のカタールのワールドカップ招致など、論争もあった。
-カタール首長、息子タミムに権力を委譲
-- 2013 年 6 月 25 日公開
-彼の死を記念して全米で数日間の追悼が続く前に、日曜の夕方に葬儀の祈りが行われる。
-国旗は半旗で掲げられ、政府機関や公共機関は敬意を表して閉鎖される。
-チャールズ国王とカミラ王妃は、ハマド首長が「長年にわたる功績をカタールに捧げた」と述べ、追悼の意を表した。
-「彼のリーダーシップ、ビジョン、そしてカタール国民の福祉への取り組みは、カタール国内だけでなく世界中で広く称賛された」と彼らは付け加えた。
-インドは国家喪の日を宣言し、期間中のすべての娯楽イベントは中止されると発表した。
-シュリ・ナレンドラ・モディ首相は「カタールを素晴らしいレベルの発展と繁栄に導いた先見の明のある指導者。
-「私たちは彼を、2024年2月にカタールを最後に訪問した際にお会いできて光栄だった真の友人としても覚えています。」
-31年前にハマド首長が権力を握ったとき、カタールは石油埋蔵量が減少する中、資金繰りに苦しんでいた。
-彼のクーデターは、父シェイク・ハリファが海外にいる間に実行され、国を永遠に変えた。
-国際的なパートナーシップと仲介された投資のおかげで、同社は液化天然ガスの主要な生産者および輸出者となった。
-1996 年にアルジャジーラがこの地で創刊され、その後国際放送で有名になりました。
-そしてシェイク・ハマドはカタール投資庁を設立し、ハロッズやサッカーチームのパリ・サンジェルマンなど海外のビジネスに資金を投入した。
-彼がカタール最大の、そして物議を醸す勝利を収めたのはサッカーだろう。
-この国は2010年に2022年ワールドカップの開催権を獲得したが、汚職疑惑は後に解消された。
-スタジアム建設のためだけに3万人の外国人労働者を雇用した。 2021年には、インド、パキスタン、ネパール、バングラデシュ、スリランカからの約6,500人の出稼ぎ労働者がワールドカップ招致に勝利して以来死亡したと報告された。
-カタール政府は、記録された死亡者のすべてがワールドカップ関連のプロジェクトに従事していた人々によるものではなく、多くは長年そこに住んでいたと述べた。
-カタールの人権実績や同性愛を禁止する法律についても批判があった。
-シェイク・ハマドは2013年に息子のために自主的に退位した。
-カタールは1971年まで英国の保護領であり、1851年からアル・サーニ家が君主となった。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-12T16:35:50+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d015/live/7ee2a4e0-7df8-11f1-9800-45cddfec00b9.jpg",
-    readTime: 3,
-  },
-  {
-    id: "as-five-big-u-s-banks-report-earnings-on-cc229f15",
-    title: "As five big U.S. banks report earnings on the same day, Citigroup is the one to watch",
-    titleJa: "米国の大手銀行5行が同日に決算を発表する中、シティグループが注目される",
-    summaryJa: "米国最大手の銀行の中で、シティグループは、ある重要な指標によって最大の改善を示すと予想されている。しかし、独自のパフォーマンス目標を達成するにはまだ長い道のりがあります。",
-    bodyOriginal: `Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.`,
-    bodyJa: `米国最大手の銀行の中で、シティグループは、ある重要な指標によって最大の改善を示すと予想されている。しかし、独自のパフォーマンス目標を達成するにはまだ長い道のりがあります。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-    publishedAt: "2026-07-12T15:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-74725908",
-    readTime: 2,
-  },
-  {
-    id: "earnings-estimates-have-been-following-a-db2ccd43",
-    title: "Earnings estimates have been following an unusual pattern this time around",
-    titleJa: "今回の利益予想は異例のパターンをたどっている",
-    summaryJa: "アナリストは通常​​、決算前の数カ月に予想を引き下げる。しかし、エネルギーとテクノロジーセクターのおかげで、第 2 四半期の決算に向けて期待は実際に高まっています。",
-    bodyOriginal: `Analysts generally lower their estimates in the months before earnings. But thanks to the energy and tech sectors, expectations have actually climbed heading into second-quarter results.`,
-    bodyJa: `アナリストは通常​​、決算前の数カ月に予想を引き下げる。しかし、エネルギーとテクノロジーセクターのおかげで、第 2 四半期の決算に向けて期待は実際に高まっています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-    publishedAt: "2026-07-12T14:00:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-85790238",
-    readTime: 2,
-  },
-  {
-    id: "badly-burned-british-couple-rescued-from-7e9bd596",
-    title: "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-    titleJa: "スペインの山火事で大やけどを負った英国人夫婦が渓谷から救出されたと報道",
-    summaryJa: "スペインの山火事で大やけどを負った英国人夫婦が渓谷から救出されたと報道- 公開されました",
-    bodyOriginal: `Badly burned British couple rescued from ravine during Spain wildfires, reports say
-- Published
-A British couple have been found down a ravine, badly burned and semi-conscious, after being caught up in the deadly wildfires that tore through Spain's Almeria province, according to local media.
-The pair are thought to have been out hiking when they were caught up in the blaze, which spread rapidly through the province on Thursday. They were evacuated and taken to hospital where they are in intensive care.
-Hundreds of firefighters have been battling the fires, which have claimed the lives of 12 people, including four believed to be Britons, and burned through 6,600 hectares (16,300 acres), local authorities said.
-The identities of those killed have not yet been officially confirmed.
-The couple were discovered by Civil Guard officers searching for survivors near the worst-hit village of Bedar in the early hours of Friday morning.
-One of the rescuers, Sergeant Pedro Barre, said they heard distant cries for help.
-"As you gain more experience, something inside you tells you, 'Look again, try one more time,'" he told Spain's TVE state broadcaster.
-The rescue team followed the sound and climbed down a hillside. They found the couple in critical condition, semi-conscious and with severe burns covering 40% of their bodies.
-"Being able to call out in the condition they were in was a titanic effort," said Rafael Zea, another of the officers involved in the operation.
-"We'll never forget that look of surprise and emotion on their faces," Barre added.
-On Sunday, Andalusia's regional government head, Juan Manuel Moreno Bonilla, said that "the fire has been contained and its perimeter secured," adding in a social media post that the overall alert had been downgraded.
-Firefighters had made significant progress in getting the fires under control on Saturday, when calmer winds and higher air humidity prevailed.
-About 600 of the nearly 1,500 people evacuated from the fire zone in Almería province were told they could return, regional emergency chief Antonio Sanz said.
-On Sunday, dozens of people gathered at a roundabout beneath the village of Bédar, hoping to be allowed back to their homes.
-Many said they had no idea if their properties had survived the fire.
-Their path was being blocked by blue police tape and traffic officers from the Civil Guard.
-Among those waiting anxiously were Mike and Belinda Lithgoe from Cornwall, who have a holiday property nearby.
-Since the fires, they have slept in their camper van alongside their dog, Rocket.
-The couple said they would be allowed to check on their home during a one hour window later on Sunday, following a meeting attended by the village mayor and the emergency services.
-"We're waiting to see if our house is still there" said Belinda.
-She said she was "hopeful" because the smoke was on the other side of the mountain as they were fleeing.
-"It's impossible to know," said Mike. "You hope it will have gone down the ravine and round rather than up through the village."
-Also waiting nearby were Emma Mitchell and her husband.
-Emma challenged an earlier statement by local authorities that some of those killed had not taken a designated evacuation route.
-"We've lived here for three years full time and there has never been information that you should take this road if there is a fire, never."
-And the son of a Belgian man who perished in Spanish wildfires also disputed authorities' claims that his father and other victims ignored official advice to shelter in place, telling the Reuters news agency that emergency services gave them no guidance.
-Emma also condemned the decision not to send a text message to all phones in the area.
-"I think they should have done the mobile alert, as they do for earthquakes. I know they said that it was too technical and complex… but the reality is, out here in Bédar, there are very few officials."
-Local officials have said previously said they did not issue an alert on Thursday night because it may have reached people beyond the affected area and could have complicated evacuations.
-Emma said her local policeman as well as local firefighters had been magnificent in their individual efforts, visiting dozens of people as the fire took hold.
-A sustained heatwave with temperatures of around 40C (104F) has caused wildfires across Southern Europe this summer, particularly in France, Portugal and Spain.
-On Friday, Los Gallardos mayor Francisco Miguel Reyes told Spanish radio station Cadena SER said "it feels like a bomb has fallen" on the area.
-"This is the first time we've faced a fire as devastating as this."
-Hundreds of firefighters, military and law enforcement personnel, and 30 aircraft, continued responding to the blaze.
-Forensic scientists in Madrid are using samples from the bodies of the victims and DNA samples from the families of those reported missing to try to identify the dead.
-The identification process has been slowed because collecting DNA samples from relatives has proved difficult, with family members traveling from other countries.
-With at least 12 people dead, this is already among the deadliest wildfires in Spanish history.
-In 1984, 20 people died in a fire on the Canary Island of La Gomera, while in 1979, 21 people, including nine children, died in a forest fire near Lloret de Mar in north-eastern Spain.
-Climate change is driving up temperatures around the world, and Europe is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service.
-This is causing increased summer heatwaves, greater pressure on Europe's water supply, and more intense wildfires.
-Wildfires have also plagued France over the summer months.
-On Monday over 10,000 people were evacuated from their homes in the foothills of the French Pyrenees.
-However, French authorities said on Saturday 32 people had been arrested on suspicion of starting the fires.
-Additional reporting by Kostas Kallergis`,
-    bodyJa: `スペインの山火事で大やけどを負った英国人夫婦が渓谷から救出されたと報道
-- 公開されました
-地元メディアによると、スペインのアルメリア県を襲った致命的な山火事に巻き込まれ、重度の火傷を負って意識不明の英国人夫婦が渓谷で発見された。
-２人は木曜日に州内に急速に広がった火災に巻き込まれた際、ハイキングに出ていたとみられている。彼らは避難して病院に運ばれ、集中治療を受けています。
-地元当局によると、数百人の消防士が消火活動を行っており、英国人とみられる４人を含む１２人の命が奪われ、６６００ヘクタール（１万６３００エーカー）が全焼した。
-殺害された人々の身元はまだ正式に確認されていない。
-夫妻は金曜日の早朝、最も被害が大きかったベダル村近くで生存者を捜索していた民間警備隊員によって発見された。
-救助隊員の一人、ペドロ・バーレ軍曹は、遠くで助けを求める叫び声が聞こえたと語った。
-「経験を積むにつれて、自分の中の何かが『もう一度見て、もう一度試してみろ』と言うのです」と彼はスペインの国営放送TVEに語った。
-救助隊は音を追って丘の斜面を降りた。彼らは夫婦が意識不明の重体で、体の40％を覆う重度の火傷を負っているのを発見した。
-「彼らが置かれていた状態で声を上げることができたのは大変な努力だった」と作戦に参加したもう一人の警察官ラファエル・ゼア氏は語った。
-「彼らの驚きと感動の表情を我々は決して忘れないだろう」とバーレ氏は付け加えた。
-日曜日、アンダルシア州の地方自治体長官、フアン・マヌエル・モレノ・ボニージャ氏は「火災は鎮火し、周囲の安全は確保された」と述べ、全体的な警戒態勢が引き下げられたとソーシャルメディアへの投稿で付け加えた。
-風が穏やかで空気の湿度が高かった土曜日、消防士らは火災の鎮圧に大きく前進した。
-アルメリア州の火災地帯から避難した約1,500人のうち約600人が帰還の可能性があると告げられたと、地域緊急事態責任者のアントニオ・サンス氏は述べた。
-日曜日、数十人の人々が自宅への帰還を望んでベダル村の下にあるロータリーに集まった。
-多くの人は、自分たちの財産が火災から生き残ったかどうかわからないと述べた。
-彼らの道は青い警察テープと民間警備隊の交通警官によって遮断されていた。
-心配そうに待っていた人々の中には、近くに別荘を持っているコーンウォール出身のマイク・リスゴーさんとベリンダ・リスゴーさんの姿もあった。
-火災以来、彼らは愛犬のロケットと一緒にキャンピングカーの中で寝ています。
-夫妻は、村長と救急隊が出席した会議の後、日曜後半の１時間の枠内で自宅の様子を確認することが許可されると述べた。
-「私たちは家がまだそこにあるかどうかを確認するのを待っています」とベリンダさんは言いました。
-彼らが逃げているときに煙が山の向こう側にあったので、彼女は「希望を持っていた」と語った。
-「それを知ることは不可能だ」とマイクは言った。 「それが村を通って上がるのではなく、渓谷を下って回ってくれればよかったのに」
-近くにはエマ・ミッチェルさんと夫も待っていました。
-エマさんは、死亡者の中には指定された避難経路を通らなかった人もいるとする地元当局の以前の声明に異議を唱えた。
-「私たちはここにフルタイムで3年間住んでいますが、火事が起きたらこの道を通るべきだという情報は一度もありませんでした。」
-また、スペインの山火事で死亡したベルギー人男性の息子も、父親や他の犠牲者が避難勧告を無視したという当局の主張に異議を唱え、救急サービスは何も指導しなかったとロイター通信に語った。
-エマさんはまた、地域内のすべての電話にテキストメッセージを送信しないという決定を非難した。
-「地震のときと同じように、モバイル警報を行うべきだったと思います。技術的で複雑すぎると彼らが言ったことは知っています…しかし現実には、ここベダルには職員がほとんどいません。」
-地元当局者らはこれまで、感染地域を超えて人々に到達し、避難が複雑になる可能性があるため、木曜夜には警報を発令しなかったと述べていた。
-エマさんは、地元の警察官と地元の消防士が、火災が発生した際に数十人を訪問するなど、それぞれの活動で素晴らしい活躍をしてくれたと語った。
-この夏、気温約40度（104度）の持続的な熱波により、南ヨーロッパ全域、特にフランス、ポルトガル、スペインで山火事が発生した。
-金曜日、ロス・ガヤルドスのフランシスコ・ミゲル・レイエス市長はスペインのラジオ局カデナSERに対し、この地域は「爆弾が落ちたような気分だ」と語った。
-「これほど壊滅的な火災に直面したのは初めてだ。」
-数百人の消防士、軍および法執行機関の職員、および30機の航空機が火災への対応を続けた。
-マドリッドの法医学者らは、犠牲者の遺体から採取したサンプルと、行方不明と報告された人々の家族から採取したDNAサンプルを使用して、死者の身元確認を試みている。
-家族が他国から旅行しているため、親族からDNAサンプルを収集することが困難であることが判明したため、身元特定プロセスは遅れている。
-少なくとも12人が死亡し、これはすでにスペインの歴史の中で最も死者数の多い山火事の一つとなっている。
-1984年にはカナリア諸島のラ・ゴメラ島で火災が発生し20人が死亡し、1979年にはスペイン北東部リョレト・デ・マル近郊の山火事で9人の子供を含む21人が死亡した。
-コペルニクス気候局によると、気候変動により世界中で気温が上昇しており、ヨーロッパは最も温暖化が進んでいる大陸であり、世界平均の2倍の速さで気温が上昇しているという。
-これにより、夏の熱波が増大し、ヨーロッパの水供給への圧力が増大し、山火事の激化が起こっています。
-夏の間、山火事もフランスを悩ませている。
-月曜日、フランスのピレネー山脈の麓にある自宅から1万人以上が避難した。
-しかし、フランス当局は土曜日、火災を起こした容疑で３２人を逮捕したと発表した。
-Kostas Kallergis による追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-12T13:35:01+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/586b/live/21e5a140-7df6-11f1-a2c7-db8990d0c651.jpg",
-    readTime: 6,
-  },
-  {
-    id: "majority-of-u-s-workers-support-an-ai-we-2eb087af",
-    title: "Majority of U.S. workers support an AI wealth fund as tech layoffs surge, survey finds",
-    titleJa: "技術者の解雇が急増する中、米国の労働者の大多数がAIウェルスファンドを支持していることが調査で判明",
-    summaryJa: "最近の世論調査によると、米国の従業員の過半数は現在、企業全体の利益が増加しているにもかかわらずテクノロジー部門の人員削減の増加に不満を抱いており、AI政府系ファンドを通じて企業の責任をさらに追及したいと考えている。調査会社ベラサイトが成人1,690人を対象に6月に実施し、今月初めに発表した全国調査によると、現在アメリカ国民の69％がAI企業に株式の50％を公的政府系ファンドに譲渡する「強制」を支持していることが示唆された。",
-    bodyOriginal: `A majority of U.S. employees now want to hold corporations more accountable via an AI sovereign wealth fund, amid dissatisfaction over a growing number of tech layoffs despite higher overall corporate profits, according to a recent poll.
-The national survey of 1,690 adults by research firm Verasight, which was carried out in June and published earlier this month, suggests that 69% of Americans now support "forcing" AI firms to transfer 50% of their stock to a public sovereign wealth fund.
-"In the eyes of the public, AI Sovereign funds are seen as a tool to distribute the gains from the AI industry back to broader society," said Benjamin Leff, chief executive officer of Verasight.
-In June, Senator Bernie Sanders proposed the American AI Sovereign Wealth Fund Act which, if passed, would give the public a 50% stake in the largest AI companies in the U.S.
-"It would guarantee that the economic benefits generated by AI are used to improve the lives of all of us — not simply to make the richest people in the world even richer," Sanders said in a statement last month.
-"The future of AI and the fate of humanity must not be decided behind closed doors in Silicon Valley by billionaires seeking to maximize their power and profit," Sanders said.
-The rising number of tech layoffs in the U.S. have left many workers frustrated and worried over job security, as corporations continue to ramp up capital expenditure for AI expansion.
-Goldman Sachs Senior Global Economist Joseph Briggs estimates that more than 9% of the labor force, or around 15 million workers, could lose their jobs during a 10-year AI transition period, the bank said in a report published last month.
-This "would be the type of automation and reallocation shock that we saw in the late '90s and early 2000s and in other periods of significant technological change," Briggs said.
-"But [Briggs] believes these losses will prove temporary owing to his expectation that AI will create many new jobs over the long term even as it destroys existing ones," the Goldman Sachs report says.
-Sovereign wealth funds can serve in multiple roles when it comes to AI. They can lead development of AI at a national level by funding capital-intensive AI infrastructure, take equity stakes in AI companies and capture a share of AI-driven economic gains for the public treasury, according to research firm Windfall Trust.
-However, sovereign wealth funds could also face challenges in managing between the public good and the global race to build AI capabilities.
-"There is also a tension between the financial mandate (maximize returns for citizens) and the strategic mandate (build national AI capacity, maintain influence over frontier systems), since these objectives can conflict when the best financial investment is a foreign AI company rather than a domestic one," Windfall Trust added.`,
-    bodyJa: `最近の世論調査によると、米国の従業員の過半数は現在、企業全体の利益が増加しているにもかかわらずテクノロジー部門の人員削減の増加に不満を抱いており、AI政府系ファンドを通じて企業の責任をさらに追及したいと考えている。
-調査会社ベラサイトが成人1,690人を対象に6月に実施し、今月初めに発表した全国調査によると、現在アメリカ国民の69％がAI企業に株式の50％を公的政府系ファンドに譲渡する「強制」を支持していることが示唆された。
-Verasightのベンジャミン・レフ最高経営責任者（CEO）は「一般の人々の目には、AIソブリンファンドはAI産業から得た利益をより広範な社会に分配するツールとみなされている」と述べた。
-6月、バーニー・サンダース上院議員は、可決されれば米国最大のAI企業の株式50％を国民に付与する米国AIソブリン・ウェルス・ファンド法を提案した。
-サンダース氏は先月の声明で、「AIによって生み出される経済的利益が、単に世界で最も裕福な人々をさらに裕福にするためではなく、私たち全員の生活を向上させるために使われることが保証されるだろう」と述べた。
-サンダース氏は「AIの将来と人類の運命は、権力と利益を最大化しようとする億万長者によってシリコンバレーの密室で決定されるべきではない」と述べた。
-企業がAI拡張のための設備投資を増やし続ける中、米国ではハイテク部門の人員削減数が増加し、多くの労働者が雇用の確保に不満と不安を抱えている。
-ゴールドマン・サックスのシニア・グローバル・エコノミスト、ジョセフ・ブリッグス氏は、10年間のAI移行期間中に労働力の9％以上、つまり約1500万人が職を失う可能性があると同銀行が先月発表した報告書で述べた。
-これは「90年代後半から2000年代初頭、その他の重大な技術革新の時期に見られたタイプの自動化と再割り当てのショックだろう」とブリッグス氏は述べた。
-「しかし、ブリッグス氏は、AIが既存の雇用を破壊する一方で、長期的には多くの新たな雇用を創出するとの期待から、これらの損失は一時的なものに終わると信じている」とゴールドマン・サックスの報告書は述べている。
-AI に関しては、政府系ファンドは複数の役割を果たすことができます。調査会社ウィンドフォール・トラストによると、彼らは資本集約型のAIインフラに資金を提供することで国家レベルでAIの開発を主導し、AI企業の株式を取得し、AIによる経済利益の一部を国庫に納めることができるという。
-しかし、政府系ファンドは、公益と AI 機能構築の世界的な競争の間での管理において課題に直面する可能性もあります。
-「また、財政的使命（国民への利益の最大化）と戦略的使命（国家AI能力の構築、フロンティアシステムへの影響力の維持）の間には緊張も存在する。なぜなら、最良の財政投資が国内のAI企業ではなく外国のAI企業である場合、これらの目標は矛盾する可能性があるからである」とWindfall Trustは付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html",
-    publishedAt: "2026-07-12T12:27:55+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "us-senator-lindsey-graham-dies-after-bri-b2e44540",
-    title: "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
-    titleJa: "米国上院議員リンジー・グラハム氏が「短期間の突然の病気」で死去、事務所が発表",
-    summaryJa: "米国上院議員リンジー・グラハム氏が「短期間の突然の病気」で死去、事務所が発表- 公開されました",
-    bodyOriginal: `US Senator Lindsey Graham dies after 'brief and sudden illness', his office says
-- Published
-US Republican Senator Lindsey Graham has died at the age of 71 following a brief and sudden illness.
-His office has released a statement saying he died on Saturday evening, adding that Graham's family "asks for privacy during this incredibly difficult period."
-Elected to the Senate in 2002, the South Carolina politician was one of Washington's most influential voices on foreign policy and a key ally of Trump.
-He had just returned from Kyiv, where he met the Ukrainian President Volodymyr Zelensky on Friday. There were no known health concerns ahead of his trip.
-In a social media post marking the senator's death, US President Donald Trump said Graham was a "true American Patriot".
-Graham also served as Chairman of the Senate Budget Committee.
-He was a strong proponent of US support for Ukraine. In his most recent trip to the country, Graham was working on a version of the Russia sanctions bill, which he said would give "tools to President Trump to end this war."
-"Putin will not stop in Ukraine," he told the BBC in 2023.
-"To be weak in Ukraine means that you lose in Taiwan," he said.
-Over the years, Graham clashed with President Trump. After the US Capitol riots in 2021, Graham gave a speech on the Senate floor, in which he said: "Trump and I, we've had a hell of a journey. I hate it to end this way."
-"All I can say is a count me out. Enough is enough."
-But he later became one of his staunchest backers and supported Trump in the 2024 election.
-He told the BBC in 2023: "There is a dark side to Donald Trump... and he was a very good president. But I am sticking with him because I saw what he did," citing Trump's record on the US southern border, the killing of Iran's Qasem Soleimani and the appointment of conservative judges.
-Graham "consistently pushed for outcomes in the War on Terror that protect our long-term national security interests," his website said.
-He was opposed to the withdrawal of US troops from Afghanistan in 2021, describing it as a "sad and dangerous event for US national security...Jihadists all over the world are celebrating. America will be seen as weak."
-Graham was a staunch supporter of Israel. Israel's President Benjamin Netanyahu paid tribute to Graham, saying "Lindsey understood that the security of Israel and America are inseparable."
-Israel lost "one of its greatest friends" he said.
-Related topics
-- Published29 May 2023
-- Published28 February 2025`,
-    bodyJa: `米国上院議員リンジー・グラハム氏が「短期間の突然の病気」で死去、事務所が発表
-- 公開されました
-米国共和党上院議員リンジー・グラハム氏が短期間の突然の病気のため71歳で死去した。
-グラハム氏の事務所は声明を発表し、グラハム氏が土曜夜に亡くなったと発表し、グラハム氏の家族は「この信じられないほど困難な時期にプライバシーを守るよう求めている」と付け加えた。
-2002年に上院議員に選出されたサウスカロライナ州の政治家は、外交政策に関してワシントンで最も影響力のある発言者の一人であり、トランプ大統領の重要な同盟者だった。
-同氏は金曜日にウクライナのウォロディミル・ゼレンスキー大統領と会談したキエフから戻ったばかりだった。彼の旅行前に健康上の懸念は知られていなかった。
-ドナルド・トランプ米大統領は上院議員の死を伝えるソーシャルメディアへの投稿で、グラハム氏は「真のアメリカの愛国者」だと述べた。
-グラハム氏は上院予算委員長も務めた。
-彼は米国のウクライナ支援を強く支持していた。グラハム氏は最近の同国訪問で、対ロシア制裁法案の作成に取り組んでおり、同法案は「トランプ大統領にこの戦争を終わらせるための手段」を与えるものになると述べた。
-「プーチン大統領はウクライナに止まらない」と2023年にBBCに語った。
-「ウクライナで弱いということは、台湾で負けるということだ」と同氏は語った。
-グラハム氏は長年にわたりトランプ大統領と衝突してきた。 2021年の連邦議会議事堂暴動後、グラハム氏は上院議場で演説し、「トランプと私は、地獄のような旅をしてきた。このまま終わるのは嫌だ」と語った。
-「私が言えるのは、私を除外してくださいということだけです。もう十分です。」
-しかしその後、同氏はトランプ氏の最も熱心な支持者の一人となり、2024年の選挙ではトランプ氏を支持した。
-同氏は2023年にBBCに対し、「ドナルド・トランプには暗い面がある…そして彼はとても良い大統領だった。しかし、私は彼に固執する。なぜなら、彼のやったことを見たからである」と述べ、米国南部国境でのトランプの記録、イランのガーセム・ソレイマニ殺害、保守派判事の任命を挙げた。
-グレアム氏は「長期的な国家安全保障上の利益を守る対テロ戦争の成果を一貫して推進した」とグラハム氏のウェブサイトには記載されている。
-同氏は２０２１年のアフガニスタンからの米軍撤退に反対し、「米国の国家安全保障にとって悲しく危険な出来事だ…世界中のジハード主義者が祝っている。米国は弱いとみなされるだろう」と述べた。
-グラハムはイスラエルの熱心な支持者でした。イスラエルのベンヤミン・ネタニヤフ大統領は「リンゼイ氏はイスラエルと米国の安全が分かちがたいものであることを理解していた」とグラハム氏に敬意を表した。
-イスラエルは「最も偉大な友人の一人」を失ったと同氏は語った。
-関連トピック
-- 2023 年 5 月 29 日公開
-- 2025 年 2 月 28 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-12T08:14:08+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0992/live/576e9b70-7dc2-11f1-b976-0b9c15b0ccfc.jpg",
-    readTime: 3,
-  },
-  {
-    id: "senator-lindsey-graham-has-died-after-a-d8bea833",
-    title: "Senator Lindsey Graham has died after a brief illness, his office says",
-    titleJa: "リンジー・グラハム上院議員が短期間の病気の末に死去したと事務所が発表",
-    summaryJa: "リンジー・グラハム上院議員が死去したと彼の事務所が日曜日に発表した。グラハム氏の事務所はXに関する声明で、「7月11日土曜日の夜、米国上院議員リンジー・グラハム氏が短期間の突然の病気により亡くなった」と発表した。",
-    bodyOriginal: `Senator Lindsey Graham has passed away, his office said Sunday.
-"On the evening of Saturday, July 11, U.S. Senator Lindsey Graham passed away from a brief and sudden illness," Graham's office said in a statement on X.
-Graham, a prominent Republican from South Carolina, was 71.
-"Senator Graham's family appreciates prayers at this time and asks for privacy during this incredibly difficult period," his office added.
-A spokeswoman for Graham told MS NOW that he had just returned from a trip to Ukraine. She had no additional information on the circumstances of his passing and said more information would become available in the coming days.
-His Senate website described Graham as "a conservative problem-solver and one of the strongest proponents of a robust national defense."
-President Donald Trump said Graham was "one of the greatest people and Senators I have ever known".
-"He was always working, and was a true American Patriot. Lindsey will be greatly missed!!!," Trump said in a post on Truth Social.
-Israeli Prime Minister Benjamin Netanyahu said he and his wife Sara were grieving "with the American people over the loss of our dear friend, Senator Lindsey Graham".
-"Lindsey understood that the security of Israel and America are inseparable. He devoted his life to defending America, strengthening our alliance and standing up for the free world," Netanyahu said in a post on X.
-Graham was elected to the U.S. Senate in 2002 and was re-elected in 2008, 2014, and 2020.
-He served as Chairman of the Senate Budget Committee and as a member of the Senate Committee on Appropriations, Senate Judiciary Committee, and Senate Committee on Environment and Public Works.
-Prior to serving in the Senate, Graham was elected to the House of Representatives in 1994.
-Before being elected to Congress, Graham served in the U.S. Air Force, logging six-and-a-half years of service on active duty as an Air Force lawyer.
-During the first Gulf War in the early 1990's, Graham was called to active duty and served as a Staff Judge Advocate where he prepared members for deployment to the Gulf region.
-Graham retired from the Air Force Reserves in June 2015 having served his country in uniform for 33 years. He retired at the rank of Colonel.
-A native South Carolinian, Graham grew up in a blue collar family in the small town of Central where his parents ran a restaurant and pool hall, according to his website. The first member of his family to go to college, Graham earned his undergraduate and law degrees from the University of South Carolina.`,
-    bodyJa: `リンジー・グラハム上院議員が死去したと彼の事務所が日曜日に発表した。
-グラハム氏の事務所はXに関する声明で、「7月11日土曜日の夜、米国上院議員リンジー・グラハム氏が短期間の突然の病気により亡くなった」と発表した。
-サウスカロライナ州出身の著名な共和党員グラハム氏は71歳。
-同氏の事務所は「グラハム上院議員の家族は現時点での祈りに感謝しており、この信じられないほど困難な時期にプライバシーを守ってほしいと願っている」と付け加えた。
-グラハムさんの広報担当者はMS NOWに対し、グラハムさんはウクライナ旅行から戻ったばかりだと語った。彼女は彼の死の状況について追加情報を持っておらず、今後数日中にさらなる情報が入手可能になるだろうと述べた。
-同氏の上院ウェブサイトでは、グラハム氏を「保守的な問題解決者であり、強固な国防の最も強力な支持者の一人」と評している。
-ドナルド・トランプ大統領はグラハム氏について「私がこれまで知った中で最も偉大な人物であり上院議員の一人」と述べた。
-トランプ大統領はトゥルース・ソーシャルへの投稿で、「彼は常に仕事をしており、真のアメリカ愛国者だった。リンジーがいなくなるととても寂しくなるだろう！！！」と述べた。
-イスラエルのベンヤミン・ネタニヤフ首相は、自身と妻サラが「親愛なる友人リンジー・グラハム上院議員の死を米国民とともに」悲しんでいると述べた。
-ネタニヤフ首相はＸへの投稿で「リンゼイ氏はイスラエルと米国の安全保障が切り離せないことを理解していた。米国を守り、同盟を強化し、自由世界のために立ち上がることに人生を捧げた」と述べた。
-グラハム氏は2002年に米国上院議員に選出され、2008年、2014年、2020年に再選された。
-上院予算委員会の委員長を務め、上院歳出委員会、上院司法委員会、上院環境・公共事業委員会の委員も務めた。
-グラハム氏は上院議員に就任する前、1994年に下院議員に選出された。
-グラハム氏は議会議員に選出される前に米国空軍に勤務し、空軍弁護士として6年半現役勤務した。
-1990年代初頭の第一次湾岸戦争中、グラハムは現役に召集され、法務参謀として湾岸地域への派遣隊員の準備を務めた。
-グラハム氏は33年間軍服を着て祖国に奉仕し、2015年6月に空軍予備役を退役した。彼は大佐の階級で退役した。
-彼のウェブサイトによると、生来のサウスカロライナ人であるグラハムは、両親がレストランとビリヤード場を経営するセントラルの小さな町のブルーカラーの家庭で育った。家族の中で大学に進学した最初のメンバーであるグラハムは、サウスカロライナ大学で学士号と法学の学位を取得しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/12/senator-lindsey-graham-has-died-after-a-brief-illness-his-office-says.html",
-    publishedAt: "2026-07-12T08:04:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "how-aldi-is-taking-on-us-supermarkets-wi-29c49c01",
-    title: "How Aldi is taking on US supermarkets with its $4 almond butter",
-    titleJa: "Aldi は 4 ドルのアーモンドバターで米国のスーパーマーケットにどのように対抗しているか",
-    summaryJa: "ドイツのスーパーマーケットが米国で90億ドルを投じるこの計画は、マンハッタンのような都市の中心地をターゲットにしている。その割引モデルはウォルマートに匹敵するでしょうか?",
-    bodyOriginal: `How Aldi is taking on US supermarkets with its $4 almond butter
-- Published
-When Mary Porter walked into Manhattan's newest Aldi store hunting for bargains, the long-time resident found what she considered a retail miracle in plain sight: a $4 jar of almond butter that costs $22 in her own neighbourhood.
-"Aldi has the reputation for being inexpensive, so I thought I would come and check it out, and by golly, it is amazing," Porter, 79, told the BBC, marvelling at the savings alongside the fresh spinach and organic raspberries filling her basket.
-To the unassuming passer-by, the storefront is completely hidden, tucked away in an underground parking lot beneath The Ellery, a luxury apartment complex where the cheapest rent starts at nearly $5,000 (£3,725) a month.
-In fact, the building's own website completely omits the discount grocer from its curated online neighbourhood guide, choosing instead to highlight pricier nearby options like Whole Foods and Brooklyn Fare.
-But step past the luxury façade into the basement, and the quiet disappears. Even on an early Tuesday afternoon in July, the brightly lit, bustling space hums with high energy as a lunchtime crowd of New Yorkers tightly navigates the narrow aisles with oversized canvas bags.
-Porter's discovery is part of Aldi's $9bn US expansion plan to add 800 new stores over five years, specifically targeting dense urban hubs like Manhattan. It marks a massive scale-up for the German discounter, which first entered the US in 1976 and has steadily grown its footprint to nearly 2,800 storefronts.
-The aggressive real estate blitz signals a bold shift for a brand traditionally associated with suburban strip malls and lower-end consumers.
-Incumbent US grocers may look with some concern at the insurgency Aldi pulled off since it entered the UK market in the 1990s.
-Alongside fellow German discounter Lidl, Aldi picked up huge swathes of the market by offering discount prices for high-quality goods. The traditional "big four" grocers at the time - Tesco, Sainsbury's, Asda and Morrisons - were slow to respond to the new competition, leaving the challengers to gradually pick off their shoppers.
-Today, Aldi is the UK's fourth biggest grocer, commanding 10.8% of the market.
-Its rapid growth is being mirrored across Europe, its rise aided by easing perceptions of it as a strictly discount grocer as shoppers became increasingly impressed by the quality of its products. The cost of living crisis of the 2020s further fuelled its ascent.
-However, while Aldi is rapidly ascending the ranks of American grocery consciousness, it is not, and may never aim to be, Walmart.
-Aldi currently holds just 2.9% of the US grocery pie, while Walmart controls about 20%.
-Yet analysts say that staying smaller is precisely how Aldi wins.
-Data from location analytics firm Placer.ai reveals Aldi is capturing middle- and higher-income shoppers with household incomes between $75,000 and $125,000.
-While hard discounters traditionally rely on lower-income demographics, years of persistent inflation have flipped the script, forcing wealthier households to aggressively trade down.
-"Those shoppers have started to trade off a visit to a conventional grocery store or a quick service restaurant and started to go into Aldi more frequently," RJ Hottovy, Placer.ai's head of analytical research, told the BBC. "They're looking for ways to stretch their household budget."
-For some urban commuters, the new city location offers a better experience than older formats. Kelvin Dozier, who usually shops at an Aldi in Brooklyn, recently started visiting the Manhattan location right across from his office for convenience.
-"The one here - it's brighter," Dozier told the BBC, noting the fresh sweet navel oranges in his basket. "The one in Brooklyn is a little smaller. It almost seems temporary, but here it looks like a permanent location."
-Still, winning over city slickers accustomed to premium brands remains an uphill battle. Ralph Montenegro, visiting Aldi for the first time, remained fiercely loyal to competitors.
-"It has more variety than say Target," Montenegro said, praising the prices on staples like flour and fruit, though he noted he still prefers Trader Joe's. He added that Aldi's heavy reliance on packaged, private-label processed foods was a detractor compared to the natural organic options he prefers.
-This strict reliance on limited, private labels is exactly what keeps Aldi's overheads low, according to Dustin York, an associate professor of communication at Maryville University.
-He says that Aldi targets a lean, highly efficient model that provides about 80% of what a traditional big-box retailer carries, but at a much lower cost.
-Still, York argues it is unlikely that Aldi will take dramatic market share from Walmart, because the retail giant is simply too massive. "I call Walmart the battleship, and I call Aldi a kind of submarine."
-But navigating those crowded waters can bring a distinct financial hazard.
-"Their biggest kryptonite is real estate cost," York warned, pointing to a brutal Manhattan retail landscape where average asking rents are between $350 and $700 per square foot.
-In addition to high rents, Manhattan's roads provide another challenge.
-Speaking on Bloomberg's Odd Lots podcast, Aldi's US chief commercial officer Scott Patton detailed that supplying the Manhattan store requires trucking inventory in from South Windsor, Connecticut, using shorter, specialised trucks to navigate tight city streets.
-"We come at night because of the congestion," Patton said, noting that each truck requires a two-driver team to handle the city's turning radiuses. One driver watches for blind spots while the other unloads the groceries. To keep shelves in the Manhattan location stocked, Aldi runs three to four of these trips every night, calling the operation a "logistical symphony".
-Walmart becomes first retailer to hit $1tn market value
-- Published3 February
-Because of those structural constraints, beating America's largest retailer is nearly impossible, says Jerry Sheldon, a retail analyst at IHL Group.
-"The reason Aldi cannot simply out-discount its way to the throne is that Walmart fights with a war chest and Aldi fights with a scalpel," Sheldon explained.
-Walmart pours more than $20bn a year into its business, the bulk of it into technology, automation, and its supply chain, with robots moving product through its warehouses and AI setting its forecasts on delivery routes.
-Furthermore, Sheldon points out that Walmart earns billions from things like advertising and membership, which Aldi does not.
-"Aldi is a brilliant single-purpose machine, while Walmart is a money machine that happens to sell groceries cheaply. That gap is the whole ballgame," Sheldon said.
-For shoppers like Mary Porter, the corporate chess match matters less than the immediate relief to her wallet.
-"I get on the subway with my big bag and go home with my cheap groceries. I mean, I'm so happy. This is amazing," Porter said.
-Additional reporting by Archie Mitchell`,
-    bodyJa: `Aldi は 4 ドルのアーモンドバターで米国のスーパーマーケットにどのように対抗しているか
-- 公開されました
-メアリー・ポーターがバーゲン品を探してマンハッタンの最新のアルディ店に入ったとき、長年住んでいた彼女は小売業の奇跡だと思うものを目に見えて見つけた。それは、自分の近所では22ドルもする4ドルのアーモンドバターの瓶だった。
-「アルディは安いという評判があるので、行ってみようと思ったのですが、なんと驚くべきことでしょう」と79歳のポーターさんはBBCに語り、カゴにいっぱいの新鮮なほうれん草や有機ラズベリーとともに節約効果に驚嘆した。
-気取らない通行人にとって、店の外観は完全に隠されており、最も安い家賃で月額 5,000 ドル (3,725 ポンド) 近くから始まる高級マンション、エラリーの地下駐車場にひっそりと佇んでいます。
-実際、この建物のウェブサイトでは、厳選されたオンライン近所ガイドからディスカウント食料品店を完全に除外し、代わりにホールフーズやブルックリン・フェアなど、近隣のより高価な選択肢を強調しています。
-しかし、豪華なファサードを通り過ぎて地下に一歩足を踏み入れると、静けさは消えてしまいます。 7 月の火曜日の午後早くでも、ランチタイムのニューヨーカーの群衆が特大のキャンバスバッグを抱えて狭い通路をぎっしりと行き交い、明るく照らされた賑やかな空間は活気に満ちた活気にあふれています。
-ポーターの発見は、特にマンハッタンのような密集した都市中心部をターゲットに、5年間で800の新しい店舗を追加するアルディの90億ドルの米国拡大計画の一環である。これは、1976 年に初めて米国に進出し、着実に店舗数を 2,800 近くまで拡大してきたドイツのディスカウント業者にとって、大規模な規模拡大を意味します。
-積極的な不動産の攻勢は、伝統的に郊外のストリップモールや低価格帯の消費者と関連付けられてきたブランドの大胆な転換を示唆している。
-米国の既存食料品店は、アルディが1990年代に英国市場に参入して以来、反乱を起こしていることを若干の懸念の目で見ているかもしれない。
-アルディは、同じくドイツのディスカウント業者であるリドルと並んで、高品質の商品を割引価格で提供することで、市場の広大な領域を獲得した。当時の伝統的な「ビッグ 4」食料品店、テスコ、セインズベリーズ、アズダ、モリソンズは、新たな競争への対応が遅れ、挑戦者たちは徐々に買い物客を狙い撃ちしていった。
-現在、アルディは英国で 4 番目に大きな食料品店であり、市場の 10.8% を占めています。
-その急速な成長はヨーロッパ全土に反映されており、買い物客が同社の製品の品質にますます感銘を受けるようになり、完全なディスカウント食料品店としての認識が緩和されたことがその成長を後押ししました。 2020年代の生活費危機がその上昇にさらに拍車をかけた。
-しかし、アルディはアメリカの食料品店の意識のランクを急速に上げているが、ウォルマートではないし、決してウォルマートを目指すことはないかもしれない。
-アルディは現在、米国の食料品のパイのわずか2.9％を握っているが、ウォルマートは約20％を支配している。
-しかしアナリストは、規模を小さくし続けることがまさにアルディの勝利だと言う。
-位置分析会社Placer.aiのデータによると、アルディが世帯収入7万5000ドルから12万5000ドルの間の中所得以上の買い物客を獲得していることが明らかになった。
-ハードディスカウント業者は伝統的に低所得者層に依存しているが、長年にわたるインフレが続いたため状況は反転し、裕福な世帯は積極的に値下げを余儀なくされている。
-「これらの買い物客は、従来の食料品店やクイックサービスのレストランへの訪問を犠牲にし始め、より頻繁にアルディに行き始めています」とPlacer.aiの分析調査責任者RJ Hottovy氏はBBCに語った。 「彼らは家計を豊かにする方法を探しています。」
-一部の都市部の通勤者にとって、都市部の新しい場所は古い形式よりも優れたエクスペリエンスを提供します。普段はブルックリンのアルディで買い物をするケルビン・ドージャーさんは、最近、便宜上、オフィスの真向かいにあるマンハッタンの店舗を訪れるようになった。
-「ここのほうが明るいよ」とドージャーさんはBBCに語り、かごの中の新鮮で甘いネーブルオレンジに注目した。 「ブルックリンのものはもう少し小さいです。ほとんど一時的なもののように見えますが、ここでは恒久的な場所のように見えます。」
-それでも、プレミアムブランドに慣れている都会派の人々を勝ち取るのは依然として困難な戦いである。初めてアルディを訪れたラルフ・モンテネグロは、競合他社に対する激しい忠誠心を保ち続けた。
-「ターゲットよりも品揃えが豊富だ」とモンテネグロ氏は小麦粉や果物などの必需品の価格を賞賛しながらも、それでもトレーダー・ジョーズを好むと述べた。同氏は、アルディ氏が包装されたプライベートブランドの加工食品に大きく依存していることは、彼が好む自然なオーガニックの選択肢と比較すると中傷になると付け加えた。
-メリービル大学コミュニケーション学部のダスティン・ヨーク准教授によると、この限定されたプライベートブランドへの厳密な依存こそが、アルディの諸経費を低く抑えているのだという。
-同氏によると、アルディは従来の大型小売店が取り扱う商品の約80％を、はるかに低コストで提供する無駄のない高効率モデルをターゲットにしているという。
-それでもヨーク氏は、アルディがウォルマートから劇的な市場シェアを奪う可能性は低いと主張する。なぜなら、この小売大手は単純に巨大すぎるからである。 「私はウォルマートを戦艦と呼び、アルディを一種の潜水艦と呼んでいます。」
-しかし、こうした混雑した海域を航行することは、明らかな経済的危険をもたらす可能性があります。
-ヨーク氏は、平均募集賃料が平方フィート当たり350ドルから700ドルの間である過酷なマンハッタンの小売業界の現状を指摘し、「彼らにとって最大の難関は不動産コストだ」と警告した。
-高い家賃に加えて、マンハッタンの道路には別の課題があります。
-アルディの米国最高商務責任者スコット・パットン氏は、ブルームバーグのポッドキャスト「Odd Lots」で、マンハッタンの店舗に商品を供給するには、コネチカット州サウスウィンザーから在庫を輸送する必要があり、狭い市内の通りを移動するために短い専用トラックを使用する必要があると詳述した。
-「渋滞のため、私たちは夜に来ます」とパットン氏は述べ、各トラックには市内の回転半径を処理するために2人のドライバーチームが必要であると指摘した。 1 人のドライバーが死角を監視し、もう 1 人が食料品を降ろします。マンハッタンの店舗の棚に在庫を保管しておくために、アルディ氏はこうした出張を毎晩 3 ～ 4 回実施し、この業務を「ロジスティック・シンフォニー」と呼んでいます。
-ウォルマートが時価総額1兆ドルに達した初の小売業者となる
-- 2 月 3 日発行
-IHLグループの小売アナリスト、ジェリー・シェルドン氏は、こうした構造的制約のため、米国最大の小売業者に勝つことはほぼ不可能だと語る。
-「アルディが王位への道を単純に割り引くことができない理由は、ウォルマートが軍資金で戦い、アルディがメスで戦うからだ」とシェルドン氏は説明した。
-ウォルマートは年間200億ドル以上を事業に注ぎ込んでおり、その大半はテクノロジー、オートメーション、サプライチェーンに投じられており、ロボットが倉庫内で商品を移動させたり、AIが配送ルートの予測を設定したりしている。
-さらにシェルドン氏は、ウォルマートは広告や会員制などで何十億ドルも稼いでいるが、アルディはそうではない、と指摘する。
-「アルディは素晴らしい単一目的のマシンだが、ウォルマートは食料品をたまたま安く売るマネーマシンだ。その差がすべての勝負だ」とシェルドン氏は語った。
-メアリー・ポーターのような買い物客にとって、企業のチェスの試合は、自分の財布の当面の救済よりも重要である。
-「大きなバッグを持って地下鉄に乗り、安い食料品を持って家に帰ります。つまり、とても幸せです。これは素晴らしいことです」とポーターさんは語った。
-Archie Mitchell による追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-12T05:00:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/402e3660-7c59-11f1-ad56-219c1e341d26.jpg",
-    readTime: 9,
   },
 ];
 
