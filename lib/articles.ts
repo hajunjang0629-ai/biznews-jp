@@ -15,6 +15,376 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "warren-buffett-on-the-market-today-it-s-af33f899",
+    title: "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
+    titleJa: "今日の市場でのウォーレン・バフェット氏：「誰もがギャンブルを好む中、価値観を見つけるのは難しい」",
+    summaryJa: "ウォーレン・バフェット氏は株式市場が長期投資ではなく投機取引にますます動かされていると批判した。「誰もがギャンブルを好む中、価値観を見つけるのは難しい」とバフェット氏はCNBCのベッキー・クイックに語った。",
+    bodyOriginal: `Warren Buffett was critical of a stock market that he said is increasingly driven by speculative trading, as opposed to investing for the long term.
+"It's tough to find values when everybody is preferring gambling," Buffett told CNBC's Becky Quick.
+The chairman of Berkshire Hathaway had sharp words on the stock market earlier this year. In May, he likened the stock market to "a church with a casino attached," specifically calling out the surge in one-day options trading as "gambling."
+The stock market has rallied to all-time highs this year, climbing a wall of worry that included an energy shock from an ongoing war with Iran. Skeptics have said there's too much speculation in stocks tied to the artificial intelligence buildout, with vehicles such as options and leveraged exchange-traded funds adding fuel to the fire. Equities have increasingly attracted retail traders en masse, who are buying shares of memory chipmaker Micron and recent IPO SpaceX.
+The billionaire investor, 95, known for his stout adherence to value investing expressed his belief that the most meaningful investment opportunities are fewer and far between, requiring a patient and disciplined approach.
+"There are times when opportunities are just thrown at you so fast you can't, you know, it's unbelievable," the Berkshire chairman said. "And then there's other times when you're very, very lucky if you find one thing in a couple of years. And it should always be that the the latter is what prevails."
+"But since humans love to gamble so much, there's more money in in actually cultivating gamblers than there are cultivating investors," he said.`,
+    bodyJa: `ウォーレン・バフェット氏は株式市場が長期投資ではなく投機取引にますます動かされていると批判した。
+「誰もがギャンブルを好む中、価値観を見つけるのは難しい」とバフェット氏はCNBCのベッキー・クイックに語った。
+バークシャー・ハサウェイの会長は今年初め、株式市場に関して鋭い発言をした。 5月には株式市場を「カジノが併設された教会」に例え、特に1日オプション取引の急増を「ギャンブル」と呼んだ。
+株式市場は今年、史上最高値まで上昇し、イランとの戦争継続によるエネルギーショックなどの不安の壁を乗り越えた。懐疑論者らは、オプションやレバレッジ型上場投資信託などの手段が火に油を注いでおり、人工知能の増強に関連した株式への投機が多すぎると指摘している。株式市場への個人トレーダーの関心はますます高まっており、メモリーチップメーカーのマイクロンや最近IPOしたスペースXの株を購入している。
+バリュー投資を堅持することで知られる95歳の億万長者投資家は、最も有意義な投資機会は稀であり、忍耐強く規律あるアプローチが必要であるとの信念を表明した。
+バークシャーの会長は、「チャンスがあまりにも早く与えられ、それができないときがある。信じられないことだ」と語った。 「また、数年のうちに何かを見つけたら、とてもとても幸運だということもあります。そして、常に後者が優先されるべきです。」
+「しかし、人間はギャンブルが大好きなので、実際にギャンブラーを育成することには、投資家を育成するよりも多くの資金が投入されます」と彼は言う。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
+    publishedAt: "2026-07-15T13:48:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "watch-fed-chairman-kevin-warsh-testify-l-a6d6659d",
+    title: "Watch Fed Chairman Kevin Warsh testify live before Senate banking committee",
+    titleJa: "FRBのケビン・ウォーシュ議長が上院銀行委員会で生証言する様子をご覧ください",
+    summaryJa: "[ストリームは東部時間午前 10 時に開始される予定です。イベント開始と同時に CNBC テレビがストリーミングを開始します。上にプレーヤーが表示されない場合は、ページを更新してください。]米連邦準備理事会（FRB）のケビン・ウォーシュ議長は水曜日、上院銀行委員会で証言し、経済とさまざまな要因が金利にどのような影響を与えるかについての質問に直面した。",
+    bodyOriginal: `[The stream is slated to start at 10 a.m. ET. CNBC Television will start the stream when the event begins. Please refresh the page if you do not see a player above.]
+Federal Reserve Chairman Kevin Warsh testifies Wednesday before the Senate Banking Committee, facing questions over the the economy and how various factors might impact interest rates.
+Part of congressionally mandated Capitol Hill appearances for the central bank leader, Warsh spoke Tuesday to the House Financial Services Committee. During his remarks, he reaffirmed the Fed's commitment to fighting inflation though he gave few clues about the direction of monetary policy.
+Legislators tried baiting Warsh into commenting on fiscal and political matters, but he largely avoided the topics, stressing the importance of the Fed staying focused on its assigned responsibilities.
+Read more:
+Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people
+Kevin Warsh names members of his Federal Reserve task forces, including Marc Andreessen, Doug McMillon
+Fed meeting minutes to show 'family fight' over rates. The squabble could drag on for a while`,
+    bodyJa: `[ストリームは東部時間午前 10 時に開始される予定です。イベント開始と同時に CNBC テレビがストリーミングを開始します。上にプレーヤーが表示されない場合は、ページを更新してください。]
+米連邦準備理事会（FRB）のケビン・ウォーシュ議長は水曜日、上院銀行委員会で証言し、経済とさまざまな要因が金利にどのような影響を与えるかについての質問に直面した。
+ウォーシュ氏は議会で義務付けられた中銀総裁の国会議事堂出席の一環として、火曜日に下院金融委員会で講演した。同氏は発言の中で、金融政策の方向性についてはほとんど手がかりを示さなかったものの、インフレとの戦いに対するFRBの取り組みを再確認した。
+議員らはウォーシュ氏をだまして財政や政治問題についてコメントさせようとしたが、同氏はその話題をほとんど避け、FRBが与えられた責任に集中し続けることの重要性を強調した。
+続きを読む:
+ウォーシュ氏、アメリカ国民に対するインフレ「税」を取り除くためにFRBの政策「体制変更」を約束
+ケビン・ウォーシュはマーク・アンドリーセン、ダグ・マクミロンらを連邦準備制度の特別委員会のメンバーに指名
+金利をめぐる「家族間の争い」を示すFRB会議議事録。争いはしばらく長引く可能性がある`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
+    publishedAt: "2026-07-15T13:47:51+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "arsenal-of-democracy-jamie-dimon-announ-6184d932",
+    title: "‘Arsenal of democracy’: Jamie Dimon announces $24 million effort to boost American shipbuilding",
+    titleJa: "「民主主義の武器庫」：ジェイミー・ダイモン氏、米国の造船促進に2400万ドルの取り組みを発表",
+    summaryJa: "JPモルガン・チェースのジェイミー・ダイモン最高経営責任者（CEO）は、フィラデルフィア海軍工廠の新しい潜水艦施設に資金を提供し、米国の造船を強化するための2,400万ドルのパッケージを発表した。",
+    bodyOriginal: `JPMorgan Chase CEO Jamie Dimon on Wednesday announced a $24 million effort to help revive American shipbuilding, his latest move under the bank's $1.5 trillion security project aimed at bolstering industries critical to U.S. economic and national security.
+The figure includes $18 million in loans and $6 million in grants to finance a new submarine manufacturing facility at the Philadelphia Navy Yard being built by Rhoads Industries, expand lending to maritime-related small businesses and strengthen regional suppliers, JPMorgan said.
+"The arsenal of democracy has been reignited," Dimon told CNBC's Andrew Ross Sorkin.
+"People said it couldn't happen, but here you have Hanwha shipbuilding at the Philadelphia Navy Yard," Dimon said, naming a South Korean conglomerate with a U.S. vessel-making subsidiary.
+The announcement comes as rising geopolitical tensions, including wars in the Middle East and Ukraine, spur governments to rearm and reinvest in domestic industrial capacity.
+Last year, JPMorgan launched a $1.5 trillion initiative to finance sectors it considers critical to U.S. economic and national security, including shipbuilding. The firm announced an expansion of the program into Europe this year.`,
+    bodyJa: `JPモルガン・チェースのジェイミー・ダイモン最高経営責任者（CEO）は水曜日、米国の造船業の復活を支援するために2400万ドルの取り組みを発表した。これは、米国の経済と国家安全保障にとって重要な産業の強化を目的とした同銀行の1兆5000億ドルの安全保障プロジェクトに基づく最新の措置である。
+JPモルガンによると、この額にはローズ・インダストリーズが建設中のフィラデルフィア海軍工廠の新しい潜水艦製造施設への融資、海事関連中小企業への融資拡大、地域サプライヤー強化のための融資1,800万ドルと補助金600万ドルが含まれているという。
+「民主主義の武器が再燃した」とダイモン氏はCNBCのアンドリュー・ロス・ソーキン氏に語った。
+「人々はそんなことはありえないと言っていましたが、ここフィラデルフィア海軍工廠にはハンファ造船所があります」とダイモン氏は米国の造船子会社を持つ韓国の複合企業の名を挙げて語った。
+この発表は、中東やウクライナでの戦争を含む地政学的な緊張の高まりが政府の再軍備や国内の産業能力への再投資に拍車をかけている中で行われた。
+JPモルガンは昨年、造船など米国の経済と国家安全保障にとって重要と考えるセクターに資金を提供するため、1兆5000億ドル規模の取り組みを開始した。同社は今年、このプログラムをヨーロッパに拡大すると発表した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/jamie-dimon-jpmorgan-chase-defense.html",
+    publishedAt: "2026-07-15T13:45:27+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "morgan-stanley-posts-record-quarterly-re-00435df2",
+    title: "Morgan Stanley posts record quarterly revenue and profit as equities trading surges 69%",
+    titleJa: "モルガン・スタンレー、株式取引が69%急増し、四半期売上高と利益の記録を更新",
+    summaryJa: "モルガン・スタンレーは水曜日、株式トレーディング収益の69％急増により、第2四半期に記録的な売上高と利益を記録した。同社が報告した内容は次のとおりです。",
+    bodyOriginal: `Morgan Stanley on Wednesday posted record revenue and profit for the second quarter, driven by a 69% surge in equities trading revenue.
+Here's what the company reported:
+- Earnings per share: $3.46 vs. $2.94 LSEG estimate
+- Revenue: $21.35 billion vs. $19.64 billion estimate
+The company said profit jumped 58% from a year earlier to $5.58 billion. Revenue climbed 27% to $21.35 billion.
+Like at peers Goldman Sachs and JPMorgan Chase, a massive beat in equities trading drove the quarter's outsized results. Heightened activity fueled by the global artificial intelligence boom propelled JPMorgan and Goldman to beat estimates for equities trading by a combined $4.4 billion, while investment banking at the two firms topped estimates by a combined $1 billion.
+Equities trading revenue at Morgan Stanley hit a record $6.3 billion, roughly $1.9 billion more than analysts surveyed by StreetAccount had expected. The firm cited strength across the equities franchise and "notable strength in Asia," another recurring Wall Street theme as the AI trade spreads globally.
+Meanwhile, fixed income trading rose 13% to $2.46 billion, essentially matching the consensus estimate, on good results in credit trading.
+"Active markets and consistent execution across all three regions drove exceptional results for our integrated firm," CEO Ted Pick said in the release.
+Investment banking revenue surged 58% to $2.44 billion, about $270 million more than analysts had expected, on additional completed mergers, initial public offerings and related equities deals, and rising debt issuance.
+Revenue in the firm's giant wealth management division climbed 14% to $8.86 billion, about $146 million more than expected, as asset levels were buoyed by the rising stock market and growth in deposits and lending.
+Revenue in investment management, the firm's smallest division, rose about 6% to $1.65 billion thanks to rising asset values, essentially matching the estimate.`,
+    bodyJa: `モルガン・スタンレーは水曜日、株式トレーディング収益の69％急増により、第2四半期に記録的な売上高と利益を記録した。
+同社が報告した内容は次のとおりです。
+- 1 株当たり利益: 3.46 ドル vs. LSEG 予想 2.94 ドル
+- 収益: 推定 196 億 4000 万ドルに対して 213 億 5000 万ドル
+同社によると、利益は前年比５８％増の５５億８０００万ドルとなった。売上高は２７％増の２１３億５０００万ドルとなった。
+同業のゴールドマン・サックスやJPモルガン・チェースと同様、株式取引の大躍進が当四半期の大幅な業績を押し上げた。世界的な人工知能ブームに後押しされた活動の活発化により、JPモルガンとゴールドマンは株式取引の予想を合わせて44億ドル上回り、両社の投資銀行業務は合わせて10億ドル上回った。
+モルガン・スタンレーの株式トレーディング収入は過去最高の63億ドルに達し、ストリートアカウントが調査したアナリストの予想を約19億ドル上回った。同社は、株式フランチャイズ全体の強さと、AI貿易が世界的に広がるにつれてウォール街で繰り返されるもう一つのテーマである「アジアにおける顕著な強さ」を挙げた。
+一方、債券トレーディングはクレジットトレーディングの好調を受けて１３％増の２４億６０００万ドルとなり、コンセンサス予想とほぼ一致した。
+CEOのテッド・ピック氏はリリースの中で「活発な市場と3つの地域すべてにわたる一貫した執行が、当社の統合会社に並外れた成果をもたらした」と述べた。
+投資銀行部門の収益は58％増の24億4000万ドルとなり、追加の完了した合併、新規株式公開および関連株式取引、債券発行の増加により、アナリスト予想を約2億7000万ドル上回った。
+株式市場の上昇と預金と融資の伸びによって資産水準が上昇したため、同社の巨大資産管理部門の売上高は14％増の88億6000万ドルとなり、予想を約1億4600万ドル上回った。
+同社最小部門である投資管理部門の収益は資産価値の上昇により約6％増の16億5000万ドルとなり、ほぼ予想と一致した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/morgan-stanley-ms-earnings-q2-2026-.html",
+    publishedAt: "2026-07-15T13:44:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "wholesale-prices-unexpectedly-declined-0-98bd4b00",
+    title: "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
+    titleJa: "ガソリンの大幅な下落により、6月の卸売価格は予想外に0.3％下落した",
+    summaryJa: "労働統計局が水曜日に発表したところによると、エネルギーコストのスライドによりインフレ状況が明るくなり、6月の卸売価格は予想外に下落した。同月の農産物価格指数は季節調整済みで0.3％下落したが、ダウ・ジョーンズの最終需要コスト指標は変わらないとのコンセンサス予想と比較した。年間ベースでは、この指数は 5.5% のインフレ率を示しました。 ５月の統計は当初発表の１．１％増から０．６％増へと大幅に下方修正された。",
+    bodyOriginal: `Wholesale prices unexpectedly fell in June as sliding energy costs helped brighten the inflation picture, the Bureau of Labor Statistics reported Wednesday.
+The produce price index posted a seasonally adjusted 0.3% decline for the month, compared with the Dow Jones consensus estimate for the final demand cost measure to be unchanged. On an annual basis, the index indicated a 5.5% inflation rate. The May reading was revised sharply lower, from an initially reported increase of 1.1% to 0.6%.
+Excluding food and energy, the core PPI rose 0.2%, against the outlook for a 0.3% increase. The core PPI less trade services rose 0.1% and was up 5.1% from a year ago.
+As with consumer prices, the index benefited from easing energy costs, particularly as oil fell due to the brief pause in tensions between the U.S. and Iran. Goods prices posted a 1.4% monthly decline, the biggest drop since July 2022 as energy slumped 6.4% and final demand food prices were off 0.6%.
+Within the goods category, gasoline tumbled 12%, accounting for about two-thirds of the monthly decrease.
+At the same time, services prices rose 0.2%, boosted by a 0.4% increase in trade services.
+The release comes the day after the BLS reported that the consumer price index, a broad measure of inflation at the cash register, posted an unexpectedly sharp decline of 0.4% in June, bringing the annual inflation rate down to 3.5%. That was the biggest monthly drop since April 2020, just after the Covid pandemic declaration.
+Core consumer inflation slipped to 2.6% after prices were unchanged for the month.
+While the inflation measures are still well above the Federal Reserve's 2% goal, they do represent progress in the central bank's five-year battle to get back to target.
+"The Fed's war with inflation isn't over by any means," said Chris Rupkey, chief economist at Fwdbonds, "... but there is good news from the front and the odds of Fed rate hikes should continue to recede as inflation at the factory level is trending lower, and producers will not be passing on their higher costs to the consumer level as much as we previously thought."
+The consumer and producer price indexes both feed heavily into the calculation of the Fed's preferred inflation gauge. Policymakers most closely follow the personal consumption expenditures price index, due to be released later this month from the Commerce Department. For May, the PCE index indicated headline inflation of 4.1% and core at 3.4%, both likely to come down following this week's releases.
+Markets still expect the Fed to approve an interest rate hike this year, as soon as September. Fed Chairman Kevin Warsh on Tuesday told House lawmakers that the June decline in prices did not represent a "mission accomplished" moment for inflation.`,
+    bodyJa: `労働統計局が水曜日に発表したところによると、エネルギーコストのスライドによりインフレ状況が明るくなり、6月の卸売価格は予想外に下落した。
+同月の農産物価格指数は季節調整済みで0.3％下落したが、ダウ・ジョーンズの最終需要コスト指標は変わらないとのコンセンサス予想と比較した。年間ベースでは、この指数は 5.5% のインフレ率を示しました。 ５月の統計は当初発表の１．１％増から０．６％増へと大幅に下方修正された。
+食品とエネルギーを除くコアＰＰＩは０．３％上昇の見通しに対し０．２％上昇した。貿易サービスを除いたコアPPIは0.1%上昇し、前年比では5.1%上昇した。
+消費者物価と同様に、特に米国とイラン間の緊張の一時停止による原油安により、指数もエネルギーコストの緩和から恩恵を受けた。エネルギーが6.4％下落し、最終需要の食品価格が0.6％下落したため、商品価格は前月比1.4％下落し、2022年7月以来最大の下落となった。
+商品カテゴリー内ではガソリンが12％下落し、月間の減少額の約3分の2を占めた。
+同時に、サービス価格は貿易サービスの０．４％上昇に後押しされて０．２％上昇した。
+この発表は、レジでのインフレの広範な指標である消費者物価指数が6月に0.4％という予想外の急激な低下を記録し、年間インフレ率が3.5％に低下したとBLSが報告した翌日に行われた。これは、新型コロナウイルスのパンデミック宣言直後の2020年4月以来、月間で最大の減少幅となった。
+同月の価格は横ばいでしたが、コア消費者インフレ率は２．６％に低下しました。
+インフレ対策は依然として連邦準備制度理事会の目標である２％を大幅に上回っているが、目標を取り戻すための中央銀行の５年間の戦いにおける進歩を示している。
+Fwdbondsの首席エコノミスト、クリス・ラプキー氏は「FRBのインフレとの戦いは決して終わっていない。…だが、前線から良いニュースもあり、工場レベルのインフレは低下傾向にあり、生産者はこれまで考えていたほどコスト高を消費者レベルに転嫁しないため、FRBの利上げの可能性は今後も後退するはずだ」と述べた。
+消費者物価指数と生産者物価指数はいずれも、FRBの優先インフレ指標の計算に大きく反映されます。政策当局者が最も注目しているのは、商務省が今月後半に発表する予定の個人消費支出価格指数だ。 5月のPCE指数は総合インフレ率4.1％、コアインフレ率3.4％を示しており、今週の発表を受けてどちらも低下する可能性が高い。
+市場では依然としてFRBが早ければ9月にも年内利上げを承認すると予想されている。 FRBのケビン・ウォーシュ議長は火曜日、下院議員に対し、6月の物価下落はインフレにとって「使命が達成された」瞬間ではないと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
+    publishedAt: "2026-07-15T13:13:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "u-s-launches-fresh-wave-of-strikes-on-ir-c3f4d922",
+    title: "U.S. launches fresh wave of strikes on Iran, as analysts warn conflict risks becoming 'forever war'",
+    titleJa: "紛争が「永遠の戦争」になるリスクをアナリストが警告、米国がイランへの新たな攻撃を開始",
+    summaryJa: "ドナルド・トランプ大統領が、イランが和平交渉に協力しなければ来週軍事攻撃が激化すると警告した数時間後、米国は水曜早朝、イランに対する新たな攻撃を開始した。米中央軍は水曜日のXへの投稿で、東部時間午前6時にイランに対する一連の攻撃を開始したと発表した。",
+    bodyOriginal: `The U.S. launched a fresh round of strikes on Iran early Wednesday morning, hours after President Donald Trump warned military strikes would intensify next week if Tehran does not cooperate in peace talks.
+U.S. Central Command said in a post on X on Wednesday that it had begun launching a wave of strikes against Iran at 6 a.m. ET.
+"The strikes are designed to further degrade military capabilities Iranian forces have used to attack commercial shipping in the Strait of Hormuz," it said.
+In a later update, Centcom said Wednesday's strikes were completed at 7:30 a.m. ET, adding that precision munitions had been launched against Iran's coastal defense systems, and cruise missile storage and launch sites on Greater Tunb Island.
+The Tunb Islands are small islands located in the Persian Gulf, near the Strait of Hormuz.
+Centcom had carried out more strikes against Iran on Tuesday. Tehran, meanwhile, has launched attacks on multiple Gulf countries.
+In an interview with Fox News on Tuesday evening, Trump hinted that the conflict was more likely to intensify than de-escalate as a fragile ceasefire agreed last month continues to fracture.
+"We're going to hit them very hard tonight," he said. "We're going to hit them hard tomorrow night. We're going to hit them really hard the night after."
+He added that U.S. forces would go on to target key Iranian infrastructure next week without a diplomatic breakthrough.
+"Next week it gets really bad for them because next week comes the power plants," he said. "Next week comes the bridges. We're going to knock out all their power plants. We're going to knock out all their bridges unless they get to the table and negotiate."
+Trump threatened to impose a 20% levy on cargo shipped through the Strait of Hormuz earlier this week, before abandoning that demand on Tuesday. The president said the Gulf states would invest in the U.S. as repayment instead.
+The escalation in fighting comes after the U.S. launched strikes on dozens of Iranian targets last week, in retaliation for commercial ships transiting the Strait of Hormuz coming under attack.
+Trump subsequently said the ceasefire between Washington and Tehran was "over."
+Oil prices edged higher on Wednesday morning, as concerns about safe transit through the Strait of Hormuz – a critical oil shipping route in the Middle East – lingered. Front-month global benchmark Brent crude futures held above the $85 per barrel mark.
+Speaking to CNBC's "Squawk Box Europe" on Wednesday, Jakob Larsen, chief safety and security officer at international shipping body BIMCO, said the current situation is "not easy" for the industry to navigate.
+"All these messages going back and forth and changing direction completely just adds to the confusion and the complexity of the whole situation," he said. "If you take a step away and look at it from above, then the overall environment we're looking at is increased uncertainty, increased risks, and with that comes higher prices."
+Risk of 'forever war'
+Mike Rosenberg, a management professor at IESE Business School, told CNBC over email on Wednesday morning that "it seems we are no closer to a settlement" to end the conflict.
+"The current return to war makes it clear that the terms of the Islamabad Memorandum, signed by Trump on 14 June, were unrealistic at the time," he said. "As long as both sides seek an agreement that allows them to claim victory, I cannot see a positive outcome any time soon."
+Rosenberg said that the best the U.S. can hope for now is "a new version of the joint plan of action that Obama and his team developed years ago," which he added will be difficult for Trump to accept.
+"The Trump administration underestimated Iranian resolve and has no easy way out," he said. "The most likely outcome is some kind of permanent ceasefire negotiated by Pakistan without any nuclear guarantees, and it is likely that the administration will avoid making that agreement before the mid-term elections."
+Andreas Böhm, a lecturer in international affairs at Switzerland's University of St Gallen, said the conflict was "tricky" to resolve and risked becoming a drawn-out, years-long war.
+"Trump is stuck in a mess of his own (and Israel's) making and can't find a face-saving way out of it, while the Iranians assume they are still in conflict and are therefore trying to maximize their gains and risk overplaying their hand," he said in an email. "This might result in a long-time low-level conflict and therefore one of the forever-wars Trump pledged to end. Each side will try to raise the costs for the respective other until it will become prohibitive."
+Böhm, a specialist in Middle East affairs, told CNBC Trump had "started the war without a goal," making it difficult to predict what might come next.
+"Without a strategy, it is not clear what he aims to achieve," he said. "[Trump] can't open the Strait of Hormuz by force other than an operation of a scale that he will be unable sell to the American public. If he starts a broader war on infrastructure in Iran, the retribution will hit energy infrastructure in the Gulf."
+The only way out of the conflict now was through diplomacy, said Böhm, but he added that this would now be "much more difficult."
+"There might be some narrow runway where negotiations regarding Hormuz might land, but broader arrangements must come to terms with the fact that there is now a different reality," he said. "We can't go back to before to this war."`,
+    bodyJa: `ドナルド・トランプ大統領が、イランが和平交渉に協力しなければ来週軍事攻撃が激化すると警告した数時間後、米国は水曜早朝、イランに対する新たな攻撃を開始した。
+米中央軍は水曜日のXへの投稿で、東部時間午前6時にイランに対する一連の攻撃を開始したと発表した。
+同報道官は、「今回の攻撃は、イラン軍がホルムズ海峡の商船を攻撃するために利用してきた軍事能力をさらに低下させることを目的としている」と述べた。
+その後の最新情報でセントコムは、水曜日の攻撃は東部時間午前7時30分に完了したと発表し、イランの沿岸防衛システムとグレータートゥンブ島の巡航ミサイルの保管・発射場に対して精密弾が発射されたと付け加えた。
+トゥンブ諸島は、ホルムズ海峡近くのペルシャ湾に位置する小さな島です。
+セントコムは火曜日にもイランに対して追加攻撃を実施していた。一方、テヘランは複数の湾岸諸国への攻撃を開始した。
+火曜日夜のFOXニュースとのインタビューで、トランプ大統領は、先月合意された脆弱な停戦が引き裂かれ続けているため、紛争は縮小するよりも激化する可能性が高いと示唆した。
+「今夜は彼らを徹底的に攻撃するつもりだ」と彼は言った。 「我々は明日の夜、彼らを厳しく攻撃するつもりだ。明後日の夜も彼らを徹底的に攻撃するつもりだ。」
+同氏は、外交上の突破口がなければ、米軍は来週もイランの主要インフラを攻撃し続けるだろうと付け加えた。
+「来週は発電所が稼働するため、来週は彼らにとって本当にひどい状況になる」と彼は語った。 「来週は橋が来ます。私たちは彼らの発電所をすべて破壊するつもりです。彼らがテーブルに着いて交渉しない限り、私たちは彼らの橋をすべて破壊するつもりです。」
+トランプ大統領は今週初め、ホルムズ海峡を通って出荷される貨物に20％の関税を課すと脅したが、火曜日にはその要求を放棄した。大統領は、湾岸諸国は返済の代わりに米国に投資すると述べた。
+戦闘の激化は、ホルムズ海峡を通過する商船が攻撃を受けたことへの報復として、米国が先週、イランの数十の目標への攻撃を開始した後に起こった。
+その後、トランプ大統領は、ワシントンとテヘランの間の停戦は「終わった」と述べた。
+中東の重要な石油輸送ルートであるホルムズ海峡の安全な輸送に対する懸念が根強く、水曜日朝の原油価格は小幅上昇した。前月の世界的なベンチマークであるブレント原油先物は1バレル当たり85ドルを超えて推移した。
+国際海運会社BIMCOの安全・セキュリティ最高責任者、ヤコブ・ラーセン氏は水曜日、CNBCの「スコーク・ボックス・ヨーロッパ」に出演し、現在の状況は業界にとって「乗り切るのは容易ではない」と語った。
+「こうしたメッセージが行ったり来たり、完全に方向を変えたりすることは、状況全体の混乱と複雑さを増すだけだ」と同氏は述べた。 「一歩離れて上から眺めてみると、私たちが見ている全体的な環境は不確実性の増大とリスクの増大であり、それに伴い価格の上昇が伴うことになる。」
+「永遠の戦争」のリスク
+IESEビジネススクールの経営学教授マイク・ローゼンバーグ氏は水曜朝、電子メールでCNBCに対し、紛争終結に向けて「和解にはまだ近づいていないようだ」と語った。
+「今回の戦争復帰は、トランプ大統領が6月14日に署名したイスラマバード覚書の条件が当時非現実的であったことを明らかにしている」と述べた。 「双方が勝利を主張できるような合意を求める限り、近いうちに前向きな結果が得られるとは考えられない」
+ローゼンバーグ氏は、米国が現時点で期待できる最善のことは「オバマ氏と彼のチームが数年前に策定した共同行動計画の新バージョン」だと述べ、トランプ氏がこれを受け入れるのは難しいだろうと付け加えた。
+「トランプ政権はイランの決意を過小評価しており、簡単な解決策はない」と述べた。 「最も可能性の高い結果は、核保証なしでパキスタンが交渉したある種の恒久的停戦であり、政権は中間選挙前にその合意を結ぶことを回避する可能性が高い。」
+スイスのザンクトガレン大学で国際情勢を教えるアンドレアス・ベーム講師は、紛争の解決は「難しく」、長期にわたる戦争になる危険性があると述べた。
+同氏は電子メールで、「トランプ氏は自ら（そしてイスラエル）が引き起こした混乱に陥っており、そこから抜け出す面子を保つ方法を見つけられない。一方、イラン人はまだ紛争が続いていると考えており、そのため自分たちの利益を最大限に高めようとしており、手を出しすぎるリスクを冒している」と述べた。 「これは長期にわたる低レベルの紛争を引き起こす可能性があり、したがってトランプ大統領が終結を約束した永遠の戦争の一つとなる可能性がある。双方は法外な額になるまで、互いの費用を増額しようとするだろう。」
+中東問題の専門家であるベーム氏はCNBCに対し、トランプ大統領は「目標もなく戦争を始めた」ため、次に何が起こるかを予測するのは困難だと語った。
+「戦略がなければ、彼が何を達成しようとしているのかは明らかではない」と彼は言う。 「（トランプ氏は）米国民に売り込むことができない規模の作戦以外、武力でホルムズ海峡を開くことはできない。イランのインフラに対する広範な戦争を始めれば、その報復は湾岸のエネルギーインフラに打撃を与えるだろう。」
+ベーム氏は、現在の紛争を打開する唯一の方法は外交によるものだと述べたが、今後はこれが「はるかに困難」になるだろうと付け加えた。
+同氏は「ホルムズ問題に関する交渉が決着する狭い滑走路はあるかもしれないが、現在は異なる現実があるという事実を踏まえ、より広範な取り決めが必要だ」と述べた。 「この戦争の前に戻ることはできない。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/trump-iran-hormuz-strikes-power-plants-targeted.html",
+    publishedAt: "2026-07-15T12:07:12+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "don-t-panic-five-ways-to-stop-your-kids-b993ea2f",
+    title: "Don't panic - five ways to stop your kids' endless scrolling",
+    titleJa: "パニックにならないでください - 子供の際限ないスクロールを止める 5 つの方法",
+    summaryJa: "パニックにならないでください - 子供の際限ないスクロールを止める 5 つの方法- 公開されました",
+    bodyOriginal: `Don't panic - five ways to stop your kids' endless scrolling
+- Published
+If you're a parent, you may have breathed a sigh of relief - or perhaps frustration - at the UK government's plans to implement an overnight social media curfew for 16 and 17-year-olds.
+It would see apps such as Instagram, TikTok and YouTube made unavailable by default to the teenagers - though they will be able to opt out of the curfew if they want.
+Features the government considers addictive such as auto-play videos and infinite scrolling will also be disabled under the plans, aimed at improving teenagers' focus, sleep quality and family life.
+We asked some parenting experts for their tips on how to pry those phones away from their offspring's hands – even if only for a short while.
+1. Start small and be realistic
+Many parents who have already given their children tablets or smartphones might wonder if the best thing is to just get rid of them. But that might not be the most productive option, believes child psychologist Dr Jane Gilmour.
+"Changing a habit is always going to be hard," she says. Instead, she recommends implementing changes at a neutral moment, not in the heat of an argument about screen time. "Calm brains communicate best."
+A good first step to reducing screen time could be designating a set place in the home for devices, such as a particular cupboard.
+"Have one place for chargers... so when the phones go away, they go on the charger and that's it."
+2. Be collaborative
+Older children and teenagers can benefit from being part of the conversation around screen time, rather than having rules imposed on them, says child psychologist Dr Maryhan Baker.
+Acknowledging the peer pressure surrounding social media can help get teens onside, she says, such as telling them: "I understand that that's where you connect with your friends. I understand the social pressure if you're deemed not to be on this. I really get it.
+"So let's have a conversation about how we can begin to create space within our day, and your day where you're not on that phone all of the time."
+Parenting coach Olivia Edwards adds that building a strong connection with your child or teenager will make it easier to regulate screen use.
+"We have to have a strong relationship with our child because that is what's going to get us towards co-operation [and] teamwork."
+This could include taking a genuine interest in the content your child consumes online.
+3. Turn screen time into learning opportunities
+Many parents feel they're struggling to keep up with the rapidly changing fads and trends on social media. But there is an opportunity for both adults and children to learn from each other through frank discussions about screen time.
+Olivia says: "You might say something like: 'How do you think social media works? How do you think that app works to keep people looking at it? Did you know they make money off the more time people spend on it?'"
+Jane also says parents can teach their children digital literacy in a hands-on way. "There might be content that you can look at together and say, 'OK, do you think that that is true? How would I figure out if that's true or not?'"
+4. Model good behaviour
+It's no secret that children mimic their parents, so encouraging good screen habits in them might have to start with some self reflection.
+Maryhan encourages a light-hearted approach to this. "Even if we just do a slightly self-deprecating conversation with our kids, like: 'We're all guilty of this, I'm not as great on my relationship with [my phone] as I could be.'"
+Phones and tablets have provided people of all ages with an ever-present source of entertainment, but Jane says that both adults and children could benefit from embracing boredom a bit more.
+"Being on the screen, it keeps us looking at the external world. When we go into our internal world and we sort of stare into space, into the middle distance, it allows us to think about the past, it allows us to visualise the future, it predicts creativity.
+"So when your kids are protesting [that] there's nothing to do, they're just staring into space - that's OK. And actually that's a positive thing."
+5. Don't panic
+Parenting has never been easy, but raising children in a time where screens are everywhere, while we are still learning how they affect us, can be very worrying.
+Dr Tony Sampson, a reader in digital communication at the University of Essex, says parents shouldn't fall into the trap of moral panic.
+"There is a tendency for anxious parents to become caught up in a prevailing media panic and see all adolescent brains as simply hardwired for social media addiction," he says.
+But children and teenagers have what's called neuroplasticity – their brains are better at adapting and bouncing back than adults' brains.
+"We read a lot about the ways in which social media erodes attention," he says.
+"[But] social media does not shorten or erode attention. It captures it and diverts it toward engagement with commercial content.
+"Positive technological use can help boost neuroplasticity for creativity, exploration and learning."
+Get in touch
+Are you a parent who is concerned about screen time? Have you taken steps to address the issue with your children?
+Related topics
+- Published23 January`,
+    bodyJa: `パニックにならないでください - 子供の際限ないスクロールを止める 5 つの方法
+- 公開されました
+あなたが親であれば、16歳と17歳に対して一晩のソーシャルメディア外出禁止令を導入するという英国政府の計画に安堵のため息をついたこと、あるいはおそらくイライラしたことがあるかもしれない。
+Instagram、TikTok、YouTubeなどのアプリは、ティーンエイジャーにとってデフォルトで利用できなくなるが、希望すれば外出禁止令をオプトアウトできるようになる。
+この計画では、青少年の集中力、睡眠の質、家庭生活の改善を目的として、動画の自動再生や無限スクロールなど中毒性があると政府がみなしている機能も無効化される。
+私たちは子育ての専門家に、たとえ短時間であっても、子どもの手からスマートフォンを引き離す方法についてヒントを求めました。
+1. 小さなことから始めて現実的になる
+すでに子供にタブレットやスマートフォンを与えている親の多くは、それらを処分するのが最善の策ではないかと疑問に思うかもしれません。しかし、それは最も生産的な選択肢ではないかもしれない、と児童心理学者のジェーン・ギルモア博士は考えています。
+「習慣を変えるのは常に難しいことです」と彼女は言います。代わりに、彼女は、スクリーンタイムについて議論が盛り上がっている最中ではなく、中立的な瞬間に変更を実装することを推奨しています。 「冷静な頭脳はコミュニケーションに最も優れています。」
+スクリーンタイムを減らすための良い最初のステップは、特定の戸棚など、デバイスを置くための家の決まった場所を指定することです。
+「充電器用の場所を 1 か所に確保してください。携帯電話がなくなったら、充電器に置いて終わりです。」
+2. 協力的になる
+児童心理学者のメアリーハン・ベイカー博士によると、年長の子供やティーンエイジャーは、ルールを課されるよりも、スクリーンタイムの会話に参加することで恩恵を受けることができるという。
+ソーシャルメディアを取り巻く同調圧力を認識することは、十代の若者たちに「友達とつながるのはそこだということは理解しています。これに参加していないとみなされた場合の社会的圧力は理解しています。私は本当にそれを理解しています。
+「それでは、私たちの 1 日の中で、常に電話を使っていない 1 日の中で、どのようにしてスペースを作り始めることができるかについて話し合いましょう。」
+子育てコーチのオリビア・エドワーズ氏は、子どもやティーンエイジャーとの強いつながりを築くことで、画面の使用を規制しやすくなると付け加えた。
+「私たちは子供と強い関係を築かなければなりません。それが私たちを協力やチームワークへと導くものだからです。」
+これには、お子様がオンラインで消費するコンテンツに純粋に興味を持つことが含まれる場合があります。
+3. スクリーンタイムを学習の機会に変える
+多くの親は、急速に変化するソーシャル メディアの流行やトレンドについていくのに苦労していると感じています。しかし、大人も子どもも、スクリーンタイムについて率直に話し合うことでお互いから学び合う機会があります。
+オリヴィアはこう言います。「次のようなことを言うかもしれません。『ソーシャルメディアはどのように機能すると思いますか？』そのアプリは人々に注目してもらうためにどのように機能すると思いますか?人々がそれに費やす時間が長ければ長いほど、お金が儲かると知っていましたか？」
+ジェーン氏はまた、親が子供たちにデジタルリテラシーを実践的な方法で教えることができるとも述べています。 「一緒に見て『そうだね、それは本当だと思う？』と言えるコンテンツもあるかもしれない。それが本当かどうかはどうすればわかるでしょうか？」
+4. 良い行動を模範とする
+子供が親の真似をするのは周知の事実です。そのため、子供たちに適切なスクリーン習慣を奨励するには、少し内省することから始める必要があるかもしれません。
+Maryhan 氏は、これに対して気楽なアプローチを推奨しています。 「たとえ、子供たちと少し自虐的な会話をするだけでも、『これに関しては私たち全員が罪を犯しているのに、私は（携帯電話との）関係がそれほどうまくいっていないのです。』といった感じです。」
+携帯電話やタブレットは、あらゆる年齢層の人々に常に娯楽の源を提供してきましたが、ジェーン氏は、大人も子供も退屈をもう少し受け入れることで恩恵を受けることができると述べています。
+「スクリーン上にいると、私たちは外の世界を見続けます。私たちが自分の内なる世界に入り、宇宙や中距離を見つめると、過去について考えたり、未来を想像したり、創造性を予測したりすることができます。
+「だから、子供たちが何もすることがないと抗議しているとき、彼らはただ宇宙を見つめているだけです。それは問題ありません。そして実際、それは良いことなのです。」
+5. パニックにならないでください
+子育ては決して簡単なことではありませんが、スクリーンが私たちにどのような影響を与えるかを私たちがまだ学んでいない間に、どこにでもスクリーンがある時代に子供を育てるのは非常に心配なことです。
+エセックス大学でデジタルコミュニケーションを専門に研究しているトニー・サンプソン博士は、親は道徳的パニックの罠に陥るべきではないと言う。
+「不安を抱える親たちは、蔓延するメディアパニックに巻き込まれ、思春期の脳はすべてソーシャルメディア中毒に組み込まれているだけだと考える傾向があります」と彼は言う。
+しかし、子供や十代の若者にはいわゆる神経可塑性があり、彼らの脳は大人の脳よりも適応して立ち直るのが得意です。
+「ソーシャルメディアがどのように注目を奪うかについて、私たちはよく読んでいます」と彼は言います。
+「[しかし]ソーシャルメディアは注目を短くしたり、弱めたりすることはありません。それは注目を捕らえ、商業コンテンツへの関与に向けさせます。
+「テクノロジーを積極的に利用することで、創造性、探求、学習の神経可塑性を高めることができます。」
+連絡する
+あなたはスクリーンタイムを心配している親ですか?子どもたちとこの問題に対処するための措置を講じましたか?
+関連トピック
+- 1 月 23 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c86e3q5j992o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-15T11:13:40+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5254/live/0894cae0-803f-11f1-8a74-43d9da26a654.jpg",
+    readTime: 7,
+  },
+  {
+    id: "several-flights-diverted-after-plane-blo-233016ba",
+    title: "Several flights diverted after plane blocks Gatwick runway",
+    titleJa: "飛行機がガトウィック空港の滑走路を遮断し、数便が目的地変更",
+    summaryJa: "飛行機がガトウィック空港の滑走路を遮断し、数便が目的地変更- 公開されました",
+    bodyOriginal: `Several flights diverted after plane blocks Gatwick runway
+- Published
+A number of flights were diverted from Gatwick Airport after a plane temporarily blocked one of its runways.
+Emergency services met the British Airways plane as a precaution upon landing, following reports of a "technical fault" with the aircraft.
+One of the diverted planes, an already-delayed EasyJet flight from Rome to Gatwick, had to land at Stansted airport instead - and subsequently became stuck there because it was unable to find fuel.
+Passengers were left on that plane for over two hours in the middle of the night before disembarking.
+The BA plane which temporarily blocked the runway at Gatwick Airport reportedly experienced a landing gear issue. BA said the plane landed safely and passengers disembarked normally.
+A London Gatwick spokesperson said: "Earlier this morning, the runway was closed for a short period due to a technical issue with an aircraft.
+"As a result, a small number of flights were diverted, with the majority later returning to London Gatwick. As always, safety and security is our number one priority."
+There were a number of delays to arrivals and departures from Gatwick Airport on Wednesday, although it was not clear if these were connected to the earlier runway closure.
+What are my rights if my flight is cancelled or delayed?
+- Published5 hours ago
+EasyJet apologised "for the inconvenience caused by the diversion and delay in disembarking" its flight which was diverted to Stansted.
+"While we worked to make onward arrangements for customers, as no ground handling staff were available for the unscheduled arrival, the aircraft was unable to refuel and so customers disembarked in Stansted and were advised they would be reimbursed for their onward travel," it said.
+Passengers were informed EasyJet was struggling to get any fuel to the plane at Stansted. The airline has no arrangement with Swissport which had provided some fuel to another BA plane.
+People on the plane got off at Stansted and had to make their own onward travel arrangements and claim back costs later.
+Can I claim extra compensation for disruption?
+In circumstances when flight disruption is considered to be the airline's fault, you have a number of rights under UK law., external
+These apply as long as you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
+What you are entitled to depends on what caused the cancellation and how much notice you are given.
+If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
+The amount you are entitled to also depends on how far you were travelling:
+for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
+for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
+for flights over 3,500km, such as London to New York, you can claim up to £520 per person`,
+    bodyJa: `飛行機がガトウィック空港の滑走路を遮断し、数便が目的地変更
+- 公開されました
+ガトウィック空港の滑走路の1つを飛行機が一時的にふさいだため、多くの便が出発地を変更した。
+ブリティッシュ・エアウェイズ機に「技術的欠陥」があるとの報告を受け、緊急サービスが着陸時の予防措置として同機に出迎えた。
+目的地を変更した飛行機のうちの1機、ローマ発ガトウィック行きイージージェット便はすでに遅延していたが、代わりにスタンステッド空港に着陸する必要があり、その後燃料が見つからずそこで立ち往生した。
+乗客は飛行機から降りるまで、真夜中に２時間以上も飛行機内に放置された。
+ガトウィック空港で一時的に滑走路を封鎖したBA機は、着陸装置に問題が発生したと伝えられている。 BAは、飛行機は安全に着陸し、乗客は通常通りに降機したと発表した。
+ロンドン・ガトウィック空港の広報担当者は「今朝早く、航空機の技術的問題のため滑走路が短期間閉鎖された。
+「その結果、少数の便が目的地変更となり、大部分は後にロンドン・ガトウィック空港に戻りました。いつものように、安全とセキュリティは私たちの最優先事項です。」
+水曜日にはガトウィック空港の発着に多数の遅延が発生したが、これが早期の滑走路閉鎖と関係があるかどうかは明らかではない。
+私のフライトがキャンセルまたは遅延した場合、私の権利はどうなりますか?
+- 5 時間前に公開
+イージージェットはスタンステッド行きの便を目的地に変更し、「目的地変更と降機の遅れによりご迷惑をおかけしたこと」を謝罪した。
+「我々は顧客のためにその後の手配をするよう努めたが、予定外の到着に対応できるグランドハンドリングスタッフがいなかったため、航空機に燃料を補給することができなかったため、顧客はスタンステッドで下機し、その後の渡航費は払い戻されると案内された」と述べた。
+乗客らには、スタンステッド空港でイージージェットが航空機に燃料を供給するのに苦労していると知らされた。同航空は、別のBA機に燃料を供給していたスイスポート社との協定を結んでいない。
+飛行機に乗っていた人々はスタンステッドで下車し、その後の旅行の手配を自分で行い、後で費用を請求しなければなりませんでした。
+中断に対して追加の補償を請求できますか?
+フライトの中断が航空会社の過失であるとみなされる状況では、お客様には英国の法律に基づく多くの権利があります。外部
+これらは、英国の空港からいずれかの航空会社で出発する場合、EU または英国の航空会社で英国の空港に到着する場合、または英国の航空会社で EU 内の空港に到着する場合に適用されます。
+あなたが受け取る権利があるものは、キャンセルの原因と通知がどれくらいの期間であったかによって異なります。
+2 週間以内に通知せずにフライトがキャンセルされた場合、提供された代替フライトのタイミングに基づいて補償を請求できる場合があります。
+受け取る権利のある金額は、旅行距離によっても異なります。
+グラスゴーからアムステルダムなど、1,500km未満のフライトの場合、1人あたり最大220ポンドを請求できます
+イーストミッドランズからマラケシュなど、1,500kmから3,500kmのフライトの場合、1人あたり最大350ポンドを請求できます
+ロンドンからニューヨークなど、3,500kmを超えるフライトの場合、1人あたり最大520ポンドを請求できます`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3ryr25gvjdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-15T10:23:27+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8f/live/9b8ebd00-8009-11f1-bb75-11c541dbc811.jpg",
+    readTime: 4,
+  },
+  {
     id: "asml-rises-5-after-hiking-sales-forecast-8f2be40c",
     title: "ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand",
     titleJa: "ASML、強いAIチップ需要を受けて今年2度目の売上予測引き上げを受け5%上昇",
@@ -1739,394 +2109,6 @@ Facebook (外部)、X (外部) で BBC Kent をフォローし、外部の Insta
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39e0/live/2c24cef0-7f5a-11f1-a97a-9b1029617ccb.jpg",
     readTime: 4,
-  },
-  {
-    id: "taiwan-s-second-largest-chipmaker-starts-98d439b8",
-    title: "Taiwan's second-largest chipmaker starts mass production in Singapore; Citi sees improving outlook",
-    titleJa: "台湾第2位のチップメーカーがシンガポールで量産を開始。シティ、見通しは改善するとみている",
-    summaryJa: "台湾第2位の受託チップメーカー、ユナイテッド・マイクロエレクトロニクス・コーポレーション（UMC）は火曜日、シンガポールの施設内で製造された初の量産シリコン・フォトニクス・ウェーハを発表した。UMC は、AI およびハイパースケーラー データセンター ネットワークにおける高速光インターコネクトの需要の高まりに対処することを目指しています。",
-    bodyOriginal: `Taiwan's second-largest contract chipmaker, United Microelectronics Corporation (UMC), announced Tuesday its first mass-produced silicon photonics wafers manufactured within its Singapore facility.
-UMC is aiming to address the growing demand for high-speed optical interconnects in AI and hyperscaler data center networks.
-Collaborating with SILITH Technology, a local fabless chip design company, the joint team brought the silicon photonics platform from development to production readiness in 18 months, securing the technology to support next-generation AI infrastructure, UMC said in a statement.
-UMC also plans to make its own 12-inch silicon photonics platform available for customer product development by 2027.
-It comes as analysts at Citi said they see an improving outlook for the chipmaker in the second half of the year, forecasting a 13% quarter-on-quarter sales jump in the second quarter of 2026 and a gross margin recovery.
-Supporting Wall Street optimism, UMC recently reported strong financial performance, with June sales jumping 22.85% year-on-year to NT$23.12 billion ($719.21 million), and first-half cumulative sales rising 11.28%.
-The company's stock, however, fell nearly 5% in Taiwan during Tuesday's session, before parring losses to trade 1.6% lower.
-UMC is part of a broader wave of Taiwanese tech firms expanding their manufacturing footprint in Singapore, as the city-state grows into a major regional hub for the global semiconductor supply chain.
-This growing ecosystem includes King Yuan Electronics Corp as well as Vanguard International Semiconductor Corporation, a chipmaker backed by TSMC, which recently partnered with Netherlands-based NXP Semiconductors to build a $7.8 billion manufacturing plant in the city state.
-Silicon photonics is an essential technology for transmitting and processing data at ultra-high speeds, with its market seeing notable growth driven by rising data traffic and demand for faster optical communication, pushing its global size to an estimated $3.71 billion in 2026 according to data from Polaris Market Research.`,
-    bodyJa: `台湾第2位の受託チップメーカー、ユナイテッド・マイクロエレクトロニクス・コーポレーション（UMC）は火曜日、シンガポールの施設内で製造された初の量産シリコン・フォトニクス・ウェーハを発表した。
-UMC は、AI およびハイパースケーラー データセンター ネットワークにおける高速光インターコネクトの需要の高まりに対処することを目指しています。
-UMCは声明で、地元のファブレスチップ設計会社SILITH Technologyと協力して、共同チームはシリコンフォトニクスプラットフォームを開発から生産準備まで18カ月で完了させ、次世代AIインフラをサポートする技術を確保したと述べた。
-UMC はまた、2027 年までに顧客の製品開発に独自の 12 インチ シリコン フォトニクス プラットフォームを利用できるようにする予定です。
-シティのアナリストらは、今年下半期には同社の見通しが改善するとみており、2026年第2四半期には売上高が前四半期比13％増加し、粗利益も回復すると予想していると述べたことを受けてのことだ。
-ウォール街の楽観論を裏付けるように、UMCは最近、6月の売上高が前年同期比22.85％増の231億2000万台湾ドル（7億1,921万ドル）となり、上半期の累計売上高が11.28％増加したという好調な財務実績を報告した。
-しかし、同社株は火曜日の取引中に台湾で５％近く下落し、損失をパーリングすると１．６％安で取引された。
-UMCは、シンガポールが世界的な半導体サプライチェーンの主要な地域ハブとして成長する中、シンガポールでの製造拠点を拡大する台湾ハイテク企業の幅広い波の一部である。
-この成長するエコシステムには、King Yuan Electronics Corpのほか、TSMCが支援するチップメーカーであるVanguard International Semiconductor Corporationが含まれており、同社は最近オランダに本拠を置くNXP Semiconductorsと提携して、同市に78億ドルをかけて製造工場を建設した。
-シリコンフォトニクスは、超高速でデータを送信および処理するために不可欠な技術であり、その市場はデータトラフィックの増加とより高速な光通信の需要によって顕著な成長を遂げており、ポラリスマーケットリサーチのデータによると、その世界規模は2026年には推定37億1000万ドルに達します。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/umc-starts-mass-production-in-singapore-citi-sees-improving-outlook.html",
-    publishedAt: "2026-07-14T05:44:04+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "how-us-commerce-secretary-s-epstein-link-b231af26",
-    title: "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-    titleJa: "米国商務長官のエプスタインとの関係は英国の内部告発者によってどのように明らかにされたか",
-    summaryJa: "米国商務長官のエプスタインとの関係は英国の内部告発者によってどのように明らかにされたか- 公開されました",
-    bodyOriginal: `How US commerce secretary's Epstein links were uncovered by British whistleblower
-- Published
-A British man has told the BBC how he unearthed evidence indicating that his former employer, Howard Lutnick - now US commerce secretary - failed to disclose a business relationship with the paedophile financier, Jeffrey Epstein.
-Simon Andriesz, previously a managing director at a Wall Street firm, discovered an email chain from 2018 in which Lutnick and Epstein had discussed the prospects of a start-up business they were both involved in.
-Andriesz shared his findings - from the millions of released Epstein files - with US politicians on the influential House Oversight Committee, ahead of an appearance there by Lutnick in May.
-Lutnick told the committee that, to the best of his knowledge, he had only learned this year that Epstein had been an investor in the firm. Speaking on his behalf, the US Commerce Department told us there was no evidence of wrongdoing.
-Andriesz also discovered in the files that one of Lutnick's firms had made plans in 2013 to go into business with another figure linked to Epstein, the then-Prince Andrew, by commercially exploiting the contacts the former UK trade envoy had made.
-"What it involved was a loan to Andrew Mountbatten-Windsor of £1m... to basically buy a prince," he tells File on 4 Investigates.
-Searching 3.5 million documents
-"I was completely shocked," says Andriesz, describing the moment when he discovered his own name in the Epstein files - a massive collection of documents, photos, video and emails relating to the notorious sex offender, released by the US government in the past year.
-The specific files in which Andriesz appeared related to interviews he had given to the FBI while in dispute with his former employer, BGC Partners - a financial brokerage firm, part of Lutnick's Cantor Fitzgerald group.
-In 2016, Andriesz had raised concerns internally about accounting irregularities at the firm. He was sacked in 2017, but some of his allegations later led to BGC being ordered to pay a $3m (£2.24m) penalty by the US derivatives regulator for "numerous supervision, reporting, and record-keeping violations".
-BGC told us that Andriesz's allegations lacked credibility and were "categorically false". It said the claims had been investigated by authorities in several jurisdictions which, according to BGC, had not substantiated the allegations.
-Andriesz spoke to the FBI about BGC, and about the firm's ultimate boss, Lutnick, in 2020-21 - after Epstein had killed himself in jail while awaiting trial on sex trafficking charges.
-The Epstein files show Andriesz alleged that Lutnick had had undeclared business ties with Epstein. The FBI did not investigate these accusations.
-Andriesz tells the BBC he was disappointed that few had seemed interested in what he had discovered: "I'm exposing Howard Lutnick's relationship, financial links, with Jeffrey Epstein, and there's no interest."
-In 2025, Lutnick was appointed US commerce secretary, at which point he sold his shares in Cantor Fitzgerald and passed control of the firm to his sons.
-On a podcast later that year, he claimed he had only ever met Epstein once, 20 years earlier, when they had been neighbours in Manhattan, and that he had found his behaviour "gross".
-However, with the Epstein files' release, inconsistencies began to appear in this version of events. A photo showed Lutnick with Epstein on the sex offender's Caribbean island, Little St James, in December 2012.
-Four years earlier in Florida, Epstein had been sent to prison for two charges of soliciting prostitution - including one with a minor.
-Andriesz suspected there was yet more to find in the Epstein files that could back up his claims - if only people knew where to look in the 3.5 million pages of documents.
-"Everyone was searching 'Lutnick'," he says. He knew, though, that Cantor Fitzgerald executives preferred to use initials rather than full names in their emails.
-Andriesz searched for "HWL" (Howard William Lutnick) and found emails sent to and from Epstein in 2018. Epstein had talked directly to Lutnick about a digital advertising company called Adfin, in which he and Lutnick's firm, Cantor Fitzgerald, had both invested.
-Andriesz spotted correspondence, external where Epstein had directly asked the HWL account: "what do you think the prospects for adfin are?"
-Lutnick responded: "Producing revenue finally. This is their year. Next 12 months they need to become economically self-sufficient."
-Andriesz then shared this information with US politicians on the House Oversight Committee, the US Congress's main investigatory committee.
-Lutnick agreed to appear before the committee in an off-camera hearing in May.
-He has not been accused of any wrongdoing in connection with Epstein, and he told the committee: "I unequivocally condemn the conduct attributed to Jeffrey Epstein and everyone who participated in his illegal activities. The survivors of his crimes deserve our respect and support."
-Epstein Files: Lutnick, the Royals and the British Whistleblower
-A former trader reveals how he unearthed evidence that US Commerce Secretary Howard Lutnick had failed to disclose a business relationship with the paedophile financier Jeffrey Epstein.
-Listen now on BBC Sounds or on Tuesday 14 July at 20:00 on BBC Radio 4
-Lutnick repeated his claim to the committee, that he did not know until this year that Epstein had been a co-investor in Adfin. However, Democrats on the committee accused him of lying and all 21 signed a letter demanding his resignation, external.
-The US Commerce Department told us the allegations against Lutnick were "a desperate partisan distraction from the historic work of this Administration", adding that the commerce secretary has answered hundreds of questions before Congress and there is "no evidence of wrongdoing or legitimate cause for concern".
-'To buy a prince'
-Another discovery Andriesz made in the Epstein files concerned Lutnick's association with two other people who knew Epstein well - the then-Prince Andrew and his ex-wife, Sarah Ferguson.
-Lutnick had been friends with Ferguson since the 1990s and was a guest at Princess Eugenie's wedding in 2018.
-Documents in the files revealed his firm, Cantor Fitzgerald, had a plan in 2013 "to buy a prince", as Andriesz puts it, and exploit Andrew's contacts with wealthy individuals and sovereign institutions.
-Under the proposed terms of the deal, £1m would be loaned to a firm controlled by the prince, which would then be bound to do business exclusively with Cantor Fitzgerald.
-Epstein warned the prince's business aide, David Stern, against the deal, the files reveal. One of his concerns was about the exclusivity of the deal - under its terms, Andrew could only introduce wealthy clients to Cantor Fitzgerald and no-one else.
-The files indicate that advisers to both Lutnick and the former prince discussed the deal for four months, from August to November 2013, but it came to nothing.
-Asked about the deal, Cantor Fitzgerald did not deny the talks took place but told the BBC it did not go into business with the former prince. Andrew Mountbatten-Windsor did not respond to a request for comment.
-A world away
-Andriesz, now 57, lives in a quiet Cornish seaside village, a world away from Wall Street. He says the litigation of the past decade has had a devastating effect on his career, his finances and his health.
-Despite winning a financial award of $420,000 (£313,000) for his whistleblowing from the US regulator, Andriesz says authorities in the US and UK have failed to hold BGC and Cantor Fitzgerald properly to account - or protect him from retaliation by his former employer for his reports of wrongdoing.
-BGC says it has strong policies protecting whistleblowers from retaliation and denies retaliating against Andriesz. It says it has had no involvement with him since his departure other than responding to litigation he has initiated.
-It maintains Andriesz's employment was terminated after he refused to follow medical advice, declined to perform essential job duties, rejected reasonable accommodation, and ultimately abandoned his role.
-Speaking on behalf of Lutnick, the White House said: "The BBC's pathetic and desperate attempt to slander Secretary Lutnick will do nothing to change the fact that he has been the most consequential Commerce Secretary in modern history."`,
-    bodyJa: `米国商務長官のエプスタインとの関係は英国の内部告発者によってどのように明らかにされたか
-- 公開されました
-英国人男性がBBCに対し、元雇用主で現在米国商務長官のハワード・ラトニック氏が小児性愛者の投資家ジェフリー・エプスタイン氏とのビジネス関係を明らかにしなかったことを示す証拠をどのようにして発掘したかを語った。
-以前ウォール街の企業でマネージングディレクターを務めていたサイモン・アンドリース氏は、ルートニック氏とエプスタイン氏が二人が携わる新興事業の見通しについて話し合っていた2018年の一連の電子メールを発見した。
-アンドリーズ氏は、5月にルートニック氏が下院監視委員会に出席するのに先立ち、公開された数百万件のエプスタインファイルから得た調査結果を影響力のある下院監視委員会の米国政治家らと共有した。
-ラトニック氏は委員会に対し、自分の知る限り、エプスタイン氏が同社の投資家であったことは今年になって初めて知ったと述べた。米国商務省は同氏に代わって、不正行為の証拠はないと述べた。
-アンドリーズ氏はまた、ルートニック氏の会社の1つが2013年に、エプスタイン氏と関係のある別の人物、当時のアンドルー王子と取引する計画を立てていたことをファイルの中で発見し、元英国通商公使が築いた人脈を商業的に悪用した。
-「それに関係したのは、アンドリュー・マウントバッテン＝ウィンザーへの100万ポンドの融資だった…要するに王子を買うためだった」と彼はFile on 4 Investigatesに語った。
-350万件のドキュメントを検索
-「完全にショックでした」とアンドリーズさんは、エプスタインのファイルの中に自分の名前を見つけた瞬間について語った。エプスタインのファイルは、昨年米国政府が公開した悪名高い性犯罪者に関する膨大な文書、写真、ビデオ、電子メールのコレクションである。
-アンドリーズ氏が登場した特定のファイルは、アンドリーズ氏が元雇用主であるBGCパートナーズ（ルトニック氏のカンター・フィッツジェラルド・グループの金融仲介会社）と係争中にFBIに行ったインタビューに関連していた。
-2016年、アンドリエシュ氏は同社の会計不正について社内で懸念を表明していた。同氏は2017年に解任されたが、その後、彼の主張の一部により、BGCは「数多くの監督、報告、記録保持違反」を理由に米デリバティブ規制当局から300万ドル（224万ポンド）の違約金の支払いを命じられた。
-BGCは、アンドリエシュ氏の主張は信憑性を欠き、「断固として虚偽」であると我々に語った。 BGCによれば、この主張はいくつかの管轄区域の当局によって調査されたが、その主張は裏付けられていなかったと述べた。
-アンドリーズ氏は2020年から2021年にかけてエプスタイン氏が性的人身売買容疑で裁判を待っている間に刑務所で自殺した後、BGCと同社の最終ボスであるルトニック氏についてFBIに語った。
-エプスタインのファイルには、アンドリース氏がルートニック氏がエプスタイン氏と未申告のビジネス関係を持っていたと主張したことが示されている。 FBIはこれらの告発を調査しなかった。
-アンドリーズはBBCに対し、自分が発見したことに興味を持つ人がほとんどいなかったことに失望したと語った。「私はハワード・ラトニックとジェフリー・エプスタインとの関係や経済的つながりを暴露しているのに、関心はない」。
-2025年、ラトニック氏は米国商務長官に任命され、その時点でカンター・フィッツジェラルド社の株式を売却し、同社の経営権を息子たちに引き継いだ。
-同年後半のポッドキャストで、エプスタインとは20年前、マンハッタンの隣人だった時に一度だけ会ったことがあり、エプスタインの行動が「ひどい」と感じたと主張した。
-しかし、エプスタインファイルの公開により、このバージョンの出来事に矛盾が現れ始めました。写真には、2012年12月に性犯罪者のカリブ海の島、リトル・セント・ジェームスでエプスタインと一緒にいるルートニックが写っていた。
-エプスタイン被告は4年前にフロリダ州で、未成年者に対するものを含む売春斡旋の2件の罪で刑務所に送られていた。
-アンドリーズ氏は、350万ペー​​ジの文書のどこを見るべきかを人々が知っていさえすれば、彼の主張を裏付ける可能性のあるエプスタインのファイルがまだ見つかるのではないかと疑った。
-「誰もが『ルートニック』を検索していました」と彼は言う。しかし、彼は、カンター・フィッツジェラルドの幹部が電子メールでフルネームよりもイニシャルを使用することを好むことを知っていました。
-アンドリーズさんは「HWL」（ハワード・ウィリアム・ラトニック）を検索し、2018年にエプスタインとの間で送受信された電子メールを発見した。エプスタインは、アンドリーズとラトニックの会社カンター・フィッツジェラルドが投資していたアドフィンというデジタル広告会社についてラトニックに直接話していた。
-アンドリーズ氏は、エプスタイン氏がHWLのアカウントに直接「adfinの見通しは何だと思いますか？」と外部から尋ねたやりとりを発見した。
-これに対しラトニック氏は、「ようやく収入が得られるようになった。今年は彼らの年だ。今後12か月間、彼らは経済的に自立する必要がある」と答えた。
-その後、アンドリーズ氏はこの情報を米国議会の主要調査委員会である下院監視委員会の米国政治家らと共有した。
-ラトニック氏は５月に行われるオフカメラ公聴会で委員会に出廷することに同意した。
-同氏はエプスタイン氏に関連したいかなる不正行為でも告発されておらず、同氏は委員会で「ジェフリー・エプスタイン氏と彼の違法行為に参加した全員による行為を明白に非難する。彼の犯罪の生存者は我々の敬意と支援に値する」と述べた。
-エプスタイン・ファイル: ルートニック、ロイヤルズ、そして英国の内部告発者
-元トレーダーが、ハワード・ラトニック米商務長官が小児性愛者の投資家ジェフリー・エプスタインとのビジネス関係を明らかにしなかったことを示す証拠をどのようにして発掘したかを明らかにした。
-BBC Sounds または 7 月 14 日火曜日 20:00 から BBC Radio 4 で今すぐお聴きください。
-ラトニック氏は委員会に対し、エプスタイン氏がアドフィン社の共同投資家であったことは今年になるまで知らなかったとの主張を繰り返した。しかし、委員会の民主党議員らは同氏が嘘をついていると非難し、委員２１人全員が対外的に同氏の辞任を要求する書簡に署名した。
-米商務省は、ルートニック氏に対する疑惑は「現政権の歴史的事業からの絶望的な党派的な気晴らし」であると述べ、商務長官は議会で何百もの質問に答えており、「不正行為の証拠や正当な懸念材料はない」と付け加えた。
-「王子様を買うために」
-アンドリーズがエプスタインのファイルで発見したもう一つの発見は、ルートニックとエプスタインをよく知る他の2人、当時のアンドルー王子と元妻サラ・ファーガソンとの関係に関するものだった。
-ルートニック氏は1990年代からファーガソン氏と友人で、2018年にはユージェニー王女の結婚式にゲストとして出席していた。
-ファイル内の文書から、彼の会社カンター・フィッツジェラルドが2013年にアンドリュー氏の言うところの「王子を買収」し、裕福な個人や主権機関とアンドリュー氏のつながりを利用する計画があったことが明らかになった。
-提案された契約条件では、王子が管理する企業に100万ポンドが融資され、その企業はカンター・フィッツジェラルドと独占的に取引することになる。
-エプスタイン氏は王子のビジネス側近、デビッド・スターン氏にこの取引に反対するよう警告したことがファイルで明らかになった。彼の懸念の 1 つは、取引の独占性に関するものでした。その条件の下で、アンドリューは裕福な顧客をカンター フィッツジェラルドにのみ紹介でき、他には誰にも紹介できませんでした。
-ファイルによれば、ルートニック氏と元王子の顧問らは2013年8月から11月までの4か月間、この取引について話し合ったが、結果は空振りに終わった。
-この契約について質問されたカンター・フィッツジェラルド氏は、交渉が行われたことは否定しなかったが、元王子との取引はしていないとBBCに語った。アンドリュー・マウントバッテン＝ウィンザー氏はコメントの要請に応じなかった。
-はるか遠くの世界
-現在57歳のアンドリーズさんは、ウォール街から隔絶された静かなコーンウォールの海辺の村に住んでいる。過去10年間の訴訟は彼のキャリア、財政、健康に壊滅的な影響を与えたと彼は言う。
-アンドリーズ氏は、米国の規制当局から内部告発により42万ドル（31万3,000ポンド）の賞金を獲得したにもかかわらず、米国と英国の当局はBGCとカンター・フィッツジェラルド氏の責任を適切に追及できず、不正行為の報告に対する元雇用主の報復から彼を守っていないと述べた。
-BGCは内部告発者を報復から守る強力な方針を持っており、アンドリエシュ氏への報復を否定していると述べた。同氏が起こした訴訟に対応する以外、同氏の退任以来一切関与していないという。
-アンドリエシュ氏は医師の助言に従うことを拒否し、重要な職務の遂行を拒否し、合理的配慮を拒否し、最終的には職務を放棄したため、雇用は打ち切られたと主張している。
-ホワイトハウスはラトニック長官を代表して、「ラトニック長官を中傷しようとするBBCの哀れで必死の試みは、同長官が現代史で最も影響力のある商務長官であったという事実を変えることは何もないだろう」と述べた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T05:00:03+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2b7/live/dad63ca0-7e9b-11f1-bee8-53ce494e1abc.jpg",
-    readTime: 10,
-  },
-  {
-    id: "thailand-probes-possible-negligence-in-d-7a1488e8",
-    title: "Thailand probes possible negligence in deadly Bangkok bar fire",
-    titleJa: "タイ、バンコクのバー火災で過失の可能性を捜査",
-    summaryJa: "タイ、バンコクのバー火災で過失の可能性を捜査- 公開されました",
-    bodyOriginal: `Thailand probes possible negligence in deadly Bangkok bar fire
-- Published
-Thai authorities are investigating if negligence was what led to the deadly inferno at a Bangkok bar late on Sunday, as survivors reported doors being locked and the lack of signage demarcating emergency exits.
-The use of flammable materials as decoration may have facilitated the rapid spread of the fire, which originated near the stage, police say.
-This "indicates a lack of caution and disregard for the safety of the patrons," Police General Kittiratt Phanphet said on Monday.
-The blaze has left at least 30 people dead and dozens more injured. First responders found many of the victims in the restrooms at the end of the bar, from where experts believe they tried to flee – but couldn't.
-As of Tuesday morning, 27 of the deceased victims have been identified, authorities said. More than 70 people are injured, 24 of them critically.
-Preliminary investigations suggest the blaze was caused by a short circuit in an air conditioner, which quickly cut power throughout the bar.
-But several people who had visited the bar earlier have described it as a dark room even in its original state. Phatsara Khamloet, who visited in May, told BBC Thai she had to navigate a "winding route" to reach the bathroom, and noted that the exits were not well marked.
-Busakorn Saensuk, a fire safety expert from the Engineering Institute of Thailand who inspected the aftermath at Rong Beer Na Lat Phrao, said the door near the restrooms was locked, while the two doors at the entrance were partially obstructed by furniture and other objects.
-Customers would instinctively have run away from the fire, towards the back where the restrooms were, Busakorn tells BBC Thai.
-"But once they reached the back, they couldn't get out.
-"If the emergency signs were lit, people would have been able to see how the door was locked and may have been able to unlock it," she says.
-Busakorn also noted that the stage was decorated using highly flammable materials such as plastic flowers, while the ceiling was plastered with combustible foam.
-Survivors have described the stage being engulfed in flames within seconds. Thai indie band Thotsakan, which was performing when the fire broke out, has lost two members to the tragedy.
-Worsak Kanok Nukulchai, a professor specialising in structural engineering, believes many people would have died by inhaling toxic smoke "even before getting burned".
-The first flames would have reacted with the flammable materials to produce carbon monoxide and hydrogen cyanide, often known as the "toxic twins" of fire smoke, he explains.
-The bar was registered as a "restaurant with live music" rather than an "entertainment venue", Bangkok authorities have confirmed, and it was therefore not required to use fire-retardant materials.
-Bangkok's Metropolitan Administration says it is reviewing regulations governing the materials allowed in the construction and decoration of entertainment venues and restaurants alike.
-According to PBS Thai, the owner of Rong Beer Na Lat Phrao previously owned another pub in Thailand's Yasothon province, which was also destroyed by fire in December 2019.
-There were no casualties in the earlier incident because the blaze happened during the day, the report said.
-With reporting by Nongnapat Patcham and Panisa Aemocha in Bangkok
-- Published1 day ago`,
-    bodyJa: `タイ、バンコクのバー火災で過失の可能性を捜査
-- 公開されました
-タイ当局は、日曜遅くにバンコクのバーで起きた大惨事の原因が過失だったかどうかを調査しているが、生存者らはドアが施錠されており、非常口の境界を示す標識が欠如していたと報告している。
-装飾として可燃性の素材を使用したことで、ステージ付近から発生した火災の急速な延焼が促進された可能性があると警察は発表している。
-これは「警戒心が欠如し、利用客の安全を無視していることを示している」とキティラット・ファンペット警察長官は月曜日に述べた。
-この火災により少なくとも30人が死亡、さらに数十人が負傷した。最初の対応担当者はバーの端にあるトイレで犠牲者の多くを発見し、専門家はそこから逃げようとしたが逃げられなかったと考えている。
-当局によると、火曜日朝の時点で死亡した犠牲者のうち27人の身元が確認されている。 70人以上が負傷し、そのうち24人が重体となっている。
-予備調査によると、出火の原因はエアコンの短絡であり、バー全体の電源がすぐに切れたことが示唆されている。
-しかし、以前にバーを訪れた何人かの人々は、元の状態でも暗い部屋だったと述べています。 5月に訪れたファトサラ・カムロットさんはBBCタイ語に対し、トイレに行くには「曲がりくねった道」を通らなければならず、出口の標識がしっかりしていないと述べた。
-ロン・ビール・ナ・ラート・プラオの余波を視察したタイ工学研究所の防火専門家ブサコーン・センスク氏は、トイレ近くのドアは施錠されており、入り口の2つのドアは家具や他の物体で部分的に塞がれていたと述べた。
-ブサコーン氏はBBCタイ語に、客は本能的に火事からトイレのあった裏側に逃げたであろうと語った。
-「しかし、彼らが一度奥に到達すると、そこから抜け出すことはできませんでした。
-「緊急標識が点灯していれば、人々はドアがどのように施錠されているかを見ることができ、鍵を開けることができたかもしれません」と彼女は言う。
-ブサコーン氏はまた、ステージがプラスチックの花など可燃性の高い素材を使用して装飾され、天井が可燃性の発泡体で覆われていることにも言及した。
-生存者らはステージが数秒以内に炎に包まれたと証言している。火災発生時に演奏していたタイのインディーズバンド、トーサカンはこの悲劇でメンバー２人を失った。
-構造工学を専門とするウォルサク・カノック・ヌクルチャイ教授は、多くの人が「火傷する前に」有毒な煙を吸って死亡しただろうと考えている。
-最初の炎は可燃性物質と反応して、火災の煙の「有毒な双子」としてよく知られる一酸化炭素とシアン化水素を生成しただろうと彼は説明する。
-バンコク当局は、このバーは「娯楽施設」ではなく「生演奏のあるレストラン」として登録されており、そのため難燃性素材の使用は義務付けられていなかったと認めた。
-バンコク都庁は、娯楽施設やレストランの建設や装飾に許可される資材を管理する規制を見直していると述べた。
-PBSタイによると、ロン・ビール・ナ・ラート・プラオのオーナーは以前、タイのヤソートーン県で別のパブを経営していたが、そこも2019年12月に火災で焼失した。
-報告書によると、火災は日中に起きたため、先の事件では死傷者は出なかったという。
-Nongnapat Patcham と Panisa Aemocha によるバンコクのレポートによる
-- 1 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T03:47:41+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73c6/live/00a8bbe0-7f52-11f1-b976-0b9c15b0ccfc.jpg",
-    readTime: 4,
-  },
-  {
-    id: "china-exports-in-june-jump-at-fastest-pa-bf19f8b9",
-    title: "China exports in June jump at fastest pace since 2021 as AI boom, tariff rush lift trade",
-    titleJa: "AIブーム、関税ラッシュ引き上げ貿易を受け、6月の中国輸出は2021年以来最速のペースで急増",
-    summaryJa: "AIハードウェアに対する世界的な需要の高まりと、予想される関税引き上げを乗り越えるための米国の小売業者の殺到により出荷が急増し、6月の中国貿易の伸びは予想をはるかに上回った。火曜日の税関統計によると、全体の輸出は米ドル換算で前年比27％増と、2021年10月以来の高水準となり、5月の19.4％増から加速し、エコノミスト予想の18.2％増を大幅に上回った。",
-    bodyOriginal: `China's trade growth accelerated far more than expected in June, as booming global demand for AI hardware and a rush by U.S. retailers to beat anticipated tariff hikes turbocharged shipments.
-Overall exports rose 27% from a year earlier in U.S. dollar value terms, the strongest since October 2021, customs data showed Tuesday, quickening from the 19.4% gain in May and sharply beat economists' estimates for a 18.2% growth.
-Imports grew 36% in June, the largest jump since June 2021, gaining pace from the 27.4% growth in May and beating economists' forecast for a 24% growth. The trade surplus stood at $125.6 billion in June.
-China's exports to the U.S. jumped around 14% last month while imports grew 26%, according to CNBC calculation of the official data. The outbound shipment to the Southeast Asian nations soared about 35% while imports rose 27%.
-Shipment to the European Union rose 18.5% and imports from the bloc grew more than 9%.
-Factory activity accelerated in June as U.S.-bound orders recorded sharp year-on-year gains, a survey by China Beige Book showed last month, pushing up freight rates. Manufacturers are bracing for additional tariffs from U.S. President Donald Trump's Section 301 probes as the 10% broad-based duty is set to expire on July 24.
-Beijing has grappled with a deepening supply-demand imbalance, as strong industrial output and exports tied to the global AI investment boom continue to power headline growth, even as consumption and private investment weakens amid a prolonged property downturn and volatile global oil prices.
-The global AI investment boom has also helped to cushion the fallout from the Middle East conflict and a global oil shock.
-China is expected to release its gross domestic product growth for the second quarter on Wednesday. Economists polled by Reuters expect growth to have slowed to 4.5% in the second quarter, after a solid 5% in the first quarter.
-Industrial output and retail sales for June, also due Wednesday, are projected to expand 4.7% and shrink 0.1%, respectively. Urban investment is estimated to decline 4.9% in the first half-year, deepening from 4.1% in the first five months, according to a Reuters poll.
-Investors are now looking to an expected Politburo meeting in late July for clues on stimulus that could shape policy for the rest of the year, although analysts expect no meaningful stimulus unless growth slows more sharply, given resilient exports and Beijing's focus on curbing excess factory capacity to fight deflation.`,
-    bodyJa: `AIハードウェアに対する世界的な需要の高まりと、予想される関税引き上げを乗り越えるための米国の小売業者の殺到により出荷が急増し、6月の中国貿易の伸びは予想をはるかに上回った。
-火曜日の税関統計によると、全体の輸出は米ドル換算で前年比27％増と、2021年10月以来の高水準となり、5月の19.4％増から加速し、エコノミスト予想の18.2％増を大幅に上回った。
-6月の輸入は36％増加し、2021年6月以来最大の伸びとなり、5月の27.4％増加から勢いを増し、エコノミスト予想の24％増加を上回った。 ６月の貿易黒字は１２５６億ドルだった。
-CNBCの公式データの計算によると、中国の米国への輸出は先月約14％増加し、輸入は26％増加した。東南アジア諸国への輸出は約35％増加し、輸入は27％増加した。
-欧州連合への出荷は18.5％増加し、域内からの輸入は9％以上増加した。
-中国ベージュブックの先月の調査によると、米国向け注文が前年比で大幅な増加を記録したため、6月に工場の活動が加速し、運賃が上昇した。 10％の広範な関税が7月24日に期限切れとなる中、製造業者はドナルド・トランプ米大統領の第301条調査による追加関税に備えている。
-長引く不動産低迷と世界的な原油価格の変動で消費と民間投資が低迷する中でも、世界的なAI投資ブームに関連した堅調な鉱工業生産と輸出が引き続き主要成長を牽引しており、中国政府は深刻化する需給不均衡に取り組んでいる。
-世界的な AI 投資ブームは、中東紛争や世界的なオイルショックの影響を和らげるのにも役立っています。
-中国は水曜日に第２・四半期の国内総生産（ＧＤＰ）伸び率を発表するとみられている。ロイターがまとめたエコノミストらは、第１・四半期は堅調な５％成長だったが、第２・四半期は４．５％に減速すると予想している。
-同じく水曜日に発表される６月の鉱工業生産と小売売上高は、それぞれ４．７％拡大、０．１％縮小すると予想されている。ロイター調査によると、都市投資は上半期に４．９％減少し、上半期の４．１％からさらに減少すると予想されている。
-投資家らは現在、今年残りの政策を形作る可能性のある景気刺激策の手がかりを求めて、7月下旬に予定されている政治局会議に注目しているが、アナリストらは、輸出の回復力や中国政府がデフレ対策として過剰な工場生産能力の抑制に注力していることを考慮すると、成長がより急激に減速しない限り意味のある刺激策は期待できないと予想している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/china-june-trade-data-exports-imports.html",
-    publishedAt: "2026-07-14T03:10:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "us-based-mexican-food-chain-chipotle-ope-a2936b14",
-    title: "US-based Mexican food chain Chipotle opening first outlet in Mexico",
-    titleJa: "米国に本拠を置くメキシコ料理チェーン「チポトレ」がメキシコに初出店",
-    summaryJa: "米国に本拠を置くメキシコ料理チェーン「チポトレ」がメキシコに初出店- 公開されました",
-    bodyOriginal: `US-based Mexican food chain Chipotle opening first outlet in Mexico
-- Published
-Chipotle Mexican Grill is set to open its first restaurant in Mexico this week, testing its appeal in the country that inspired its menu.
-The chain, which has more than 4,100 outlets worldwide, said on Monday that the move is a "significant milestone" for the firm - known for its customisable burritos, tacos and bowls.
-The announcement has been met with a mixed response on social media, with many users mocking the decision.
-US restaurant chains have struggled to succeed in the countries their dishes originated. Taco Bell no longer has any outlets in Mexico, while Domino's Pizza has pulled out of Italy.
-Chipotle boss Scott Boatwright said: "We are entering Mexico with deep respect for the country's culinary heritage and a commitment to delivering the Chipotle experience with excellence."
-"We look forward to serving new guests and earning a place in Mexico's vibrant dining culture."
-The new restaurant, located in the northeastern state of Nuevo León near the Texas border, serves as an "important proof-of-concept" the company said.
-The company plans to open more restaurants in the state and expand into Mexico City in 2027 as part of its collaboration with Mexican restaurant operator Alsea. The firm's brands include Domino's Pizza, Starbucks and Chili's.
-Internet users have been split over Chipotle's entry into Mexico.
-"Bold move selling Mexico a corporate version of Mexico," a commenter on X said.
-Another X post questioned why Mexicans would pay for Chipotle when they have "perfectly fine and healthy food available to them?"
-"It's like Pizza Hut [opening a] location in Napoli, makes no sense," said another.
-"Next up, Panda Express opening its first mainland China location," one post read, referring to the US chain that specialises in Chinese food.
-The move could be an important test for Chipotle's plans to expand globally, one wrote, while another suggested the chain could do well as a "tourist novelty".
-The company plans to open up to 370 new restaurants globally this year, including new outlets in Singapore and South Korea.
-Many commenters drew comparisons with other US chains like Taco Bell that have tried to break into countries that their menus took inspiration from.
-Taco Bell has tried and failed to establish itself in Mexico twice, despite being one of the world's biggest fast food franchises.
-The chain moved out of the country in 2010 after failing to attract Mexican diners.
-Domino's Pizza closed its last outlets in Italy - the birthplace of pizza - in 2022 after facing stiff competition from local restaurants since it opened there seven years earlier.
-Related topics
-- Published26 October 2025
-- Published25 July 2025`,
-    bodyJa: `米国に本拠を置くメキシコ料理チェーン「チポトレ」がメキシコに初出店
-- 公開されました
-チポトレ・メキシカン・グリルは今週、メキシコに初のレストランをオープンする予定で、そのメニューのインスピレーションとなった国での魅力を試している。
-世界中に4,100以上の店舗を展開するこのチェーンは、カスタマイズ可能なブリトー、タコス、ボウルで知られる同社にとって、この動きは「重要なマイルストーン」であると月曜日に述べた。
-この発表はソーシャルメディア上でさまざまな反応を示し、多くのユーザーがこの決定を嘲笑した。
-米国のレストランチェーンは、その料理の発祥国で成功することに苦戦している。タコベルはメキシコに店舗を持たなくなり、ドミノ・ピザはイタリアから撤退した。
-チポトレのボス、スコット・ボートライト氏は「我々はメキシコの食文化の伝統に深い敬意を払い、最高のチポトレ体験を提供するという決意を持ってメキシコに参入する」と語った。
-「新しいゲストにサービスを提供し、メキシコの活気に満ちた食文化の中で居場所を獲得できることを楽しみにしています。」
-テキサス州との国境に近い北東部ヌエボ・レオン州に位置するこの新しいレストランは、「重要な概念実証」として機能すると同社は述べた。
-同社はメキシコのレストラン運営会社アルシーとの提携の一環として、州内でさらに多くのレストランをオープンし、2027年にはメキシコシティにも進出する計画だ。同社のブランドには、ドミノ・ピザ、スターバックス、チリズが含まれます。
-チポトレのメキシコ進出を巡っては、インターネットユーザーの意見が分かれている。
-Xのコメント投稿者は「メキシコに企業版メキシコを売り込む大胆な行動だ」と述べた。
-別のXの投稿では、メキシコ人は「完璧に上質で健康的な食べ物が手に入るのに、なぜチポトレに金を払うのか？」と疑問を呈していた。
-別の人は「ピザハットがナポリに出店するのと同じで、意味がない」と語った。
-ある投稿では、「次は、パンダエクスプレスが中国本土初の店舗をオープンする」と、中華料理を専門とする米国のチェーン店について言及した。
-この動きはチポトレの世界展開計画にとって重要な試練となる可能性があるとある者は書いたが、別の者はこのチェーンが「観光客向けのノベルティ」としてうまくいく可能性があると示唆した。
-同社は今年、シンガポールと韓国の新店を含め、世界で最大370店のレストランを新規オープンする計画だ。
-多くのコメント投稿者は、メニューのインスピレーションを得た国に進出しようとしているタコベルのような他の米国のチェーン店との比較を引き合いに出していた。
-タコベルは世界最大のファストフードフランチャイズの一つであるにもかかわらず、メキシコでの地位を確立しようとして二度失敗した。
-このチェーンはメキシコ人客の誘致に失敗したため、2010年に国外に移転した。
-ドミノ・ピザは、ピザ発祥の地であるイタリアで7年前に開店して以来、地元レストランとの激しい競争にさらされ、2022年に最後の店舗を閉店した。
-関連トピック
-- 2025 年 10 月 26 日発行
-- 2025 年 7 月 25 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T02:42:51+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ab/live/6119a2a0-7f2a-11f1-a2d1-357b5800ed69.jpg",
-    readTime: 3,
-  },
-  {
-    id: "trump-s-hormuz-toll-plans-bring-oil-supp-180377a1",
-    title: "Trump's Hormuz toll plans bring oil supply risks back in spotlight",
-    titleJa: "トランプ大統領のホルムズ通行料計画で石油供給リスクが再び脚光を浴びる",
-    summaryJa: "ホルムズ海峡を通過する貨物に20％の手数料を課すというドナルド・トランプ大統領の計画は、特に戦闘の再発で重要な水路が再び閉鎖された場合、世界の石油余剰を脅かしている。アナリストらは、提案されている賦課金は直接コストよりも、それが示唆する内容、つまり海峡を通る輸送の混乱が供給不足につながり、今月初めに出した黒字予想を覆すリスクの高まりが重要であると述べた。",
-    bodyOriginal: `President Donald Trump's plan to impose a 20% fee on cargo passing through the Strait of Hormuz is threatening the global oil surplus, especially if renewed fighting shuts the key waterway again.
-Analysts said the proposed levy matters less for its direct cost than for what it signals: a heightened risk that disruptions to shipping through the strait could lead to supply shortages, upending forecasts of a surplus made earlier this month.
-Andy Lipow, president of Lipow Oil Associates, said on CNBC's "Squawk Box Asia" that the market had been counting on stronger supplies following the U.S.-Iran memorandum of understanding signed last month, but that optimism has faded.
-"Those surpluses are certainly in jeopardy, especially if the strait would completely shut down."
-Lipow estimates that Trump's proposed fee, if applied to crude cargoes, would effectively add about $16 a barrel to oil shipped through the strait, though the administration has yet to clarify how the charge would be implemented.
-Citi warned that effecting the fee could also lift the possibility of a broader military confrontation in the near term.
-"It is our view that the risks of military escalation have risen materially should this announcement be implemented," Citi wrote in a note published early Tuesday.
-"The possibility that the Iranian regime walks away from the MoU until after the mid-term U.S. elections has also risen, a scenario which would most likely see higher for longer oil prices," Citi's analysts added.
-While the proposed levy would raise shipping costs, other experts said investors are increasingly focused on the possibility that an escalating conflict could remove barrels from the market altogether.
-"The immediate impact is obviously supportive of oil prices, but the more consequential issue is the risk of renewed physical supply losses," said Henry Hoffman, co-portfolio manager at Catalyst Energy Infrastructure Fund.
-U.S. West Texas Intermediate futures for August delivery rose 2.27% to $79.91 per barrel. International benchmark Brent crude futures for September delivery climbed 2.14% to $85.11, extending gains after advancing 9.6% in the previous session.
-Falling vessel traffic in Strait
-Hoffman cautioned that falling vessel traffic could eventually force producers to reduce output if storage fills up because crude can no longer be exported. Vessel traffic through the Hormuz Strait fell sharply on Sunday, with Kpler data showing just 14 ships crossing the waterway, including four crude tankers, compared with 37 vessels a week earlier.
-If exporters are unable to ship crude out of the Gulf, storage tanks can eventually fill up, leaving producers with little choice but to temporarily halt production, said Hoffman. "That makes the effective supply loss potentially much greater than what can be measured simply by looking at damaged infrastructure."
-The latest developments would also undermine expectations from the International Energy Agency and others that global oil markets would remain comfortably supplied. The IEA just last week said it expects the oil market to return to surplus toward the end of 2026, though the outlook hinged on tanker traffic through the strait gradually recovering.
-The timing could prove especially challenging if Asian demand rebounds just as Middle Eastern supplies become less dependable, he added. "Saudi Arabia recently moved its primary Asian crude grade from an enormous premium to a discount, which should encourage Chinese refiners to increase purchases after imports fell sharply during the initial disruption."
-Saudi Aramco recently cut prices by $11 per barrel to a $1.50 discount versus the Oman/Dubai benchmark.
-"In other words, Chinese demand may begin recovering just as the reliability of Middle Eastern supply is deteriorating again."`,
-    bodyJa: `ホルムズ海峡を通過する貨物に20％の手数料を課すというドナルド・トランプ大統領の計画は、特に戦闘の再発で重要な水路が再び閉鎖された場合、世界の石油余剰を脅かしている。
-アナリストらは、提案されている賦課金は直接コストよりも、それが示唆する内容、つまり海峡を通る輸送の混乱が供給不足につながり、今月初めに出した黒字予想を覆すリスクの高まりが重要であると述べた。
-リポウ・オイル・アソシエイツのアンディ・リパウ社長はＣＮＢＣの「スコーク・ボックス・アジア」で、先月署名された米国とイランの覚書を受けて市場は供給の増加に期待していたが、楽観的な見方は消えたと述べた。
-「特に海峡が完全に閉鎖した場合、これらの余剰は確かに危険にさらされる。」
-リパウ氏は、トランプ大統領の提案した料金が原油貨物に適用された場合、海峡を通って輸送される石油に実質的に1バレルあたり約16ドル追加されると推定しているが、政府は料金がどのように実施されるかまだ明らかにしていない。
-シティは、この手数料の影響により、近い将来、より広範な軍事衝突が起こる可能性も高まる可能性があると警告した。
-シティは火曜日初めに公表したメモで「この発表が実施された場合、軍事的エスカレーションのリスクが大幅に高まるというのがわれわれの見解だ」と述べた。
-シティのアナリストは「イラン政権が米国の中間選挙後まで覚書から離脱する可能性も高まっており、原油価格が長期化すればこのシナリオはさらに上昇する可能性が最も高い」と付け加えた。
-他の専門家らは、提案されている課税により輸送コストが上昇する一方、投資家らは紛争の激化により樽が市場から完全に撤去される可能性にますます注目していると述べた。
-カタリスト・エネルギー・インフラストラクチャー・ファンドの共同ポートフォリオマネジャー、ヘンリー・ホフマン氏は「当面の影響は明らかに原油価格を支援しているが、より重大な問題は物理的な供給損失が再び起こるリスクだ」と述べた。
-米国ウエスト・テキサス・インターミディエート先物８月限は２．２７％上昇し、１バレル＝７９．９１ドルとなった。国際ベンチマークであるブレント原油先物９月渡しは２．１４％上昇して８５．１１ドルとなり、前取引で９．６％上昇した後、さらに上昇幅を広げた。
-海峡の船舶交通量の減少
-ホフマン氏は、原油が輸出できなくなって貯蔵庫がいっぱいになった場合、船舶交通量の減少により最終的には生産者が減産を余儀なくされる可能性があると警告した。ホルムズ海峡を通過する船舶の交通量は日曜日に激減し、クプラーのデータによると、同水路を横断する船舶は原油タンカー４隻を含むわずか１４隻にとどまったが、１週間前の船舶は３７隻だった。
-ホフマン氏は、輸出業者が湾岸から原油を出荷できなければ、最終的には貯蔵タンクが満杯になり、生産者には一時的に生産を停止する以外に選択肢がほとんどなくなると述べた。 「そのため、実効供給損失は、損傷したインフラを観察するだけで測定できるものよりもはるかに大きくなる可能性があります。」
-また、最新の動向は、世界の石油市場が引き続き快適に供給されるという国際エネルギー機関などの期待を損なうことになるだろう。 IEAはつい先週、石油市場が2026年末にかけて黒字に戻るとの見通しを発表したが、見通しは同海峡を通過するタンカーの交通量が徐々に回復するかどうかにかかっている。
-中東の供給が不安定になると同時にアジアの需要が回復すれば、タイミングは特に困難になる可能性があると付け加えた。 「サウジアラビアは最近、アジア産原油の主要グレードを巨額のプレミアムからディスカウントに変更した。これにより、最初の混乱で輸入が大幅に減少した中国の精製業者が購入を増やすようになるだろう。」
-サウジアラムコは最近、価格を1バレル当たり11ドル引き下げ、オマーン/ドバイのベンチマークに対して1.50ドル割引した。
-「言い換えれば、中東の供給の信頼性が再び悪化すると同時に、中国の需要が回復し始める可能性がある。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/trumps-hormuz-toll-plans-bring-oil-supply-risks-back-in-spotlight.html",
-    publishedAt: "2026-07-14T02:37:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "u-s-completes-strikes-against-iran-while-67ffa80e",
-    title: "U.S. completes strikes against Iran, while Tehran targets Gulf neighbors",
-    titleJa: "米国がイランへの攻撃を完了、一方イランは湾岸諸国を標的に",
-    summaryJa: "米国は3夜連続でイランの軍事目標に対する攻撃を完了し、一方イランはホルムズ海峡で首長国の石油タンカー2隻を攻撃し、湾岸全域に空襲警報を発令した。米中央軍は、イランに対する最新の一連の攻撃を完了したと発表した。セントコムは声明で、この５時間の任務はイラン全土の軍事目標を攻撃し、商業船舶を攻撃するイランの能力をさらに低下させたと述べた。",
-    bodyOriginal: `The U.S. has completed its strikes against Iranian military targets for a third consecutive night, while Tehran hit two Emirati oil tankers in the Strait of Hormuz and triggered air-raid warnings across the Gulf.
-U.S. Central Command said it has completed the latest wave of strikes against Iran. The five-hour mission struck military targets across Iran and further degraded Iran's ability to attack commercial shipping, Centcom said in a statement.
-The U.S. forces attacked Iranian coastal defense systems, missile and drone sites, and maritime capabilities.
-The military action came hours after Trump ordered to reinstate a blockade on Iran in the strait Tuesday at 4 p.m. ET, and floated a 20% toll charge for ships going through the critical energy waterway.
-Iran retaliated with attacks targeting Gulf countries, including the United Arab Emirates and Bahrain Tuesday morning.
-The UAE Defense Ministry said Tuesday morning that national tankers Mombasa and AI Bahiyah were targeted by two Iranian cruise missiles in the strait's southern lane, inside Omani territorial waters. The attack killed one Indian crew member aboard the Mombasa, injured eight others and caused "material damage" to both tankers as a result of the fires that broke out on board.
-The ministry said it would remain "on the highest level of readiness and preparedness to address any threats," and would take all necessary measures to respond to any attempts to undermine the country's security and stability.
-Bahrain, home to the U.S. Navy's Fifth Fleet, also came under renewed attack, and sounded missile-alert sirens early Tuesday, according to the Associated Press, as Iran retaliated to American strikes.
-Traffic through Hormuz is slowing again with confirmed crossings declining by around 52% week on week over July 10 to 12, according to Kpler, with traffic reverting to "more defensive routing patterns" — increased use of Iranian and dark routes while shunning Omani and corridors authorized by International Maritime Organization.
-War risk premiums for Strait of Hormuz are expected to increase sharply as markets react to the escalating tensions, according to Lloyd's List Intelligence, as shipowners and charterers have paused decisions to transit through the waterway.
-The strikes have unraveled the ceasefire following the interim U.S.-Iran agreement signed last month, aimed at reopening the strait and pausing hostilities for 60 days of negotiations.
-The escalation in the region pushed Brent crude up 2% to $85 a barrel on Tuesday, while the U.S. West Texas Intermediate rose 2.3% to $80 amid renewed uncertainty over commercial shipping through the Hormuz waterway that carried a fifth of the world's oil and gas before the conflict.`,
-    bodyJa: `米国は3夜連続でイランの軍事目標に対する攻撃を完了し、一方イランはホルムズ海峡で首長国の石油タンカー2隻を攻撃し、湾岸全域に空襲警報を発令した。
-米中央軍は、イランに対する最新の一連の攻撃を完了したと発表した。セントコムは声明で、この５時間の任務はイラン全土の軍事目標を攻撃し、商業船舶を攻撃するイランの能力をさらに低下させたと述べた。
-米軍はイランの沿岸防衛システム、ミサイルや無人機の拠点、海洋能力を攻撃した。
-この軍事行動は、トランプ大統領が火曜日午後4時にイラン海峡における封鎖を再開するよう命令した数時間後に行われた。東部標準時は、重要なエネルギー水路を通過する船舶に対して 20% の通行料を課すことを提案しました。
-イランは火曜日朝、アラブ首長国連邦やバーレーンを含む湾岸諸国を標的とした攻撃で報復した。
-UAE国防省は火曜朝、オマーン領海内の海峡南側車線で国営タンカー「モンバサ」と「AIバヒヤ」がイランの巡航ミサイル2発の標的になったと発表した。この攻撃により、モンバサ号のインド人乗組員1人が死亡、8人が負傷し、船内で発生した火災により両タンカーに「物的損害」が発生した。
-同省は「あらゆる脅威に対処するための最高レベルの準備と備え」を維持し、国の安全と安定を損なうあらゆる試みに対応するために必要なあらゆる措置を講じると述べた。
-AP通信によると、イランがアメリカの攻撃に報復する中、米海軍第5艦隊の本拠地バーレーンも新たな攻撃を受け、火曜日早朝にミサイル警報のサイレンを鳴らした。
-クプラー氏によると、ホルムズを通る交通は再び減速しており、確認された交差点は7月10日から12日にかけて前週比約52％減少しており、交通は「より防御的な経路パターン」、つまりオマーンや国際海事機関が認可した回廊を避けながらイランルートや暗いルートの利用が増加しているという。
-ロイズ・リスト・インテリジェンスによると、船主や用船会社がホルムズ海峡を通過する決定を一時停止しているため、緊張の高まりに市場が反応するにつれ、ホルムズ海峡の戦争リスクプレミアムは急激に上昇すると予想されている。
-この攻撃により、海峡の再開と60日間の交渉の敵対行為の一時停止を目的とした先月署名された米国とイランの暫定合意に続く停戦が崩れた。
-この地域の激化により、火曜日にはブレント原油が２％上昇して１バレル＝８５ドルとなった一方、紛争前に世界の石油とガスの５分の１を運んでいたホルムズ水道を通る商業輸送を巡る不確実性が再び高まる中、米国ウェスト・テキサス・インターミディエイトは２．３％上昇して８０ドルとなった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html",
-    publishedAt: "2026-07-14T02:34:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "the-u-s-is-maxing-out-its-strategic-oil-65e6dbbb",
-    title: "The U.S. is maxing out its strategic oil reserves as Trump vows to control the Strait of Hormuz",
-    titleJa: "トランプ大統領がホルムズ海峡の制圧を誓う中、米国は戦略的石油備蓄を最大限に活用している",
-    summaryJa: "政府の報告書によると、戦略石油備蓄の備蓄は不安定なほど不足しており、大規模な設備の故障、漏洩、流出の被害を受けている。",
-    bodyOriginal: `Strategic Petroleum Reserve stockpiles are precariously low and have been hit by major equipment failures, leaks and spills, according to a government report.`,
-    bodyJa: `政府の報告書によると、戦略石油備蓄の備蓄は不安定なほど不足しており、大規模な設備の故障、漏洩、流出の被害を受けている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-u-s-is-maxing-out-its-strategic-oil-reserves-as-trump-vows-to-control-the-strait-of-hormuz-b71f88a9?mod=mw_rss_topstories",
-    publishedAt: "2026-07-14T02:30:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-44519931",
-    readTime: 2,
   },
 ];
 
