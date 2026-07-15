@@ -15,6 +15,432 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-s-dni-pick-jay-clayton-won-t-tell-8ab8887a",
+    title: "Trump's DNI pick Jay Clayton won't tell senators Biden won the 2020 election",
+    titleJa: "トランプ大統領のDNI選出ジェイ・クレイトン氏は上院議員にバイデンが2020年選挙で勝ったことを伝えないと",
+    summaryJa: "ドナルド・トランプ大統領が国家情報長官に指名したジェイ・クレイトン氏は、2020年の選挙でジョー・バイデン氏が勝利したとの発言を拒否し、前任者のトゥルシー・ギャバード氏が今年初めのジョージア州選挙事務所襲撃に参加していたことは知らなかったと主張し、水曜日の物議を醸した上院承認公聴会でニューヨーク・タイムズ紙の記者らを召喚したことを擁護した。元証券取引委員会委員長で現在ニューヨーク南部地区検事のクレイトン氏は、トランプ大統領の指名発表から1か月以上、そして6月に予定されていた承認公聴会を大統領が突然妨害してから数週間後に上院情報特別委員会に出廷した。",
+    bodyOriginal: `Jay Clayton, President Donald Trump's pick for director of national intelligence, refused to say Joe Biden won the 2020 election, claimed not to know his predecessor Tulsi Gabbard took part in a raid of a Georgia election office earlier this year and defended subpoenaing New York Times journalists in a contentious Senate confirmation hearing Wednesday.
+Clayton, the former Securities and Exchange Commission chair and current U.S. attorney for the Southern District of New York, appeared before the Senate Select Committee on Intelligence more than a month after Trump announced his nomination and weeks after the president then abruptly sabotaged a planned confirmation hearing in June.
+While it appeared a month ago that Clayton would have a relatively smooth path to confirmation, Democrats challenged Clayton's election comments and time as U.S. attorney. He is still likely to be confirmed in the Republican-controlled Senate.
+Sen. Jon Ossoff, D-Ga., who spoke with MS NOW on Tuesday ahead of a Thursday night speech Trump is scheduled to deliver on foreign attempts to subvert the 2020 election, grilled Clayton on whether he was aware of Gabbard's presence earlier this year at a raid of a Fulton County, Georgia, election office.
+Clayton said he only learned of Gabbard's involvement, which was widely reported, from Ossoff during a private meeting earlier this week.
+"Is it appropriate for the director of national intelligence to oversee the execution of domestic search warrants at sensitive election facilities? Yes or no?" Ossoff asked. Clayton did not answer.
+"Your answers lack credibility. Your testimony lacks credibility," Ossoff said.
+On multiple occasions during the roughly two-hour hearing, Clayton declined to answer who won the 2020 election, instead saying: "I am not an election denier. Joe Biden was certified."
+Ossoff, at one point, called Clayton's responses "disqualifying."
+The committee is expected to vote on Clayton's nomination next week. If advanced by the committee, the full Senate will weigh in.
+The process of Clayton's nomination as DNI, a role that would grant him access to the country's most sensitive secrets and authority over 18 intelligence agencies, has been marred by controversy, thanks to Trump's actions and the interim appointment of Bill Pulte, a close Trump ally and director of the Federal Housing Finance Agency. Bipartisan lawmakers have questioned whether Pulte — who from his perch atop the FHFA launched mortgage-related inquiries into Trump opponents — was fit for the job.
+"I can't think of any other instance in history of this committee where a president sends a nominee up, and then in a bipartisan way, we say we really want to move heaven and earth to get this nominee moving quickly because of the importance of the position, and then the president decided that the Senate was moving too fast on his own nominee, and holds that nominee," Senate Intelligence Committee Vice Chair Mark Warner, D-Va., said Wednesday at Clayton's hearing.
+The DNI job opened up in May when then-Director Gabbard announced plans to step away. Pulte took the helm later that month and has carried out Trump's orders to fire dozens of high-ranking intelligence officials.
+The morning of Clayton's original hearing, Trump took to TruthSocial and directed him not to appear, saying he was pausing the nomination. Trump said he balked in part because he wanted Congress to attach a controversial election bill — that would impose photo identification rules and proof of citizenship to register — to the renewal of an unrelated foreign surveillance law.
+Subsequent to Trump's appointment of Pulte, negotiations over that foreign surveillance law, known as Section 702 of the Foreign Intelligence Surveillance Act, fell apart. The program lapsed in June, as Democrats protested Pulte's appointment to the position.
+In the wake of Pulte's interim appointment, support for Clayton seemed widespread. But he was grilled on Wednesday by Democrats on the Senate panel.
+Sen. Angus King, I-Maine, questioned Clayton about a statement he made on CNBC about California elections, in which he seemed to entertain the possibility of voter fraud.
+"We had a problem, a deep problem with voting in America," Clayton said during a June appearance on "Squawk Box." "On the integrity side, we're doing an absolutely terrible job, and the American people are right to question it."
+King requested clarification.
+"That meant that the audit trail we have available for our elections in a number of places is not the kind of audit trail that you would expect in something that is this important," Clayton said.
+Asked by King whether voter fraud was a problem in American elections, Clayton said, "I don't think we can say definitively whether there is, or is not, until we have better processes."
+Sens. Michael Bennet, D-Colo., and Kirsten Gillibrand, D-N.Y., both pressed Clayton on subpoenas served to New York Times reporters last week on the heels of reporting on security concerns related to a new Air Force One that was gifted to Trump by Qatar.
+Clayton issued the subpoenas, which The New York Times said were delivered Friday, in some cases to the homes of the reporters in question. Those reporters were ordered to appear before a grand jury on Wednesday to testify "in regard to an alleged violation of federal criminal law."
+Clayton said he was not able to get into the specifics of the investigation.
+"Let me say that I am confident that the procedures that we have in place to protect the First Amendment and protect the freedom of the press, and not result in intimidation of journalists," Clayton said.`,
+    bodyJa: `ドナルド・トランプ大統領が国家情報長官に指名したジェイ・クレイトン氏は、2020年の選挙でジョー・バイデン氏が勝利したとの発言を拒否し、前任者のトゥルシー・ギャバード氏が今年初めのジョージア州選挙事務所襲撃に参加していたことは知らなかったと主張し、水曜日の物議を醸した上院承認公聴会でニューヨーク・タイムズ紙の記者らを召喚したことを擁護した。
+元証券取引委員会委員長で現在ニューヨーク南部地区検事のクレイトン氏は、トランプ大統領の指名発表から1か月以上、そして6月に予定されていた承認公聴会を大統領が突然妨害してから数週間後に上院情報特別委員会に出廷した。
+1か月前にはクレイトン氏の承認までは比較的スムーズに進むと思われていたが、民主党はクレイトン氏の選挙に関するコメントと米国弁護士としての期間に異議を唱えた。同氏は共和党が多数を占める上院で承認される可能性が依然として高い。
+2020年選挙を転覆しようとする外国の試みについてトランプ大統領が予定している木曜夜の演説に先立って火曜MS NOWと対談した民主党ジョージア州のジョン・オソフ上院議員は、今年初めにジョージア州フルトン郡の選挙事務所を襲撃した際にガバード氏の存在を知っていたかどうかについてクレイトン氏を激しく非難した。
+クレイトン氏は、広く報道されているガバード氏の関与について、今週初めの個人的な会合でオソフ氏から初めて知ったと述べた。
+「国家情報長官が、機密性の高い選挙施設における国内捜索令状の執行を監督するのは適切か? はい、いいえ?」オソフは尋ねた。クレイトンは答えなかった。
+オソフ氏は「あなたの答えは信頼性に欠ける。あなたの証言も信頼性に欠ける」と述べた。
+約2時間の公聴会中、クレイトン氏は何度も2020年の選挙で誰が勝ったかについて答えることを避け、代わりに「私は選挙否定者ではない。ジョー・バイデンは認定された」と述べた。
+オソフ氏はある時点で、クレイトン氏の対応を「失格」と呼んだ。
+委員会は来週クレイトン氏の指名について投票を行う予定だ。委員会が提案した場合、上院全員が参加することになる。
+クレイトン氏をDNIに指名するプロセスは、同氏に国の最も機密な秘密と18の諜報機関に対する権限へのアクセスを与える役割を与えるものだが、トランプ氏の行動と、トランプ氏の盟友で連邦住宅金融庁長官のビル・プルト氏の暫定任命のおかげで論争によって損なわれている。超党派の議員らは、FHFAのトップとしてトランプ大統領反対派に対する住宅ローン関連の調査を開始したプルテ氏がその職に適任なのかどうか疑問を呈している。
+上院情報委員会のマーク・ワーナー副委員長（民主党、バージニア州）は水曜日、「この委員会の歴史の中で、大統領が候補者を送り出し、超党派でこの役職の重要性からこの候補者を迅速に動かすために天地を動かしたいと主張した例は他に思いつかない。その後、大統領は上院が自分の候補者に関してあまりにも急ぎすぎると判断し、その候補者を保留する」とクレイトンズで述べた。聴覚。
+DNIの仕事は5月に当時のギャバード長官が辞任する計画を発表したときに開始された。プルト氏は同月下旬に指揮を執り、数十人の情報機関高官を解雇するというトランプ大統領の命令を実行した。
+クレイトン氏の最初の公聴会の朝、トランプ氏はトゥルースソーシャルに対し、指名を一時停止していると述べ、出廷しないよう指示した。トランプ大統領が躊躇したのは、写真付き身分証明書の規定や登録時の市民権証明を義務付ける物議を醸す選挙法案を、無関係な外国監視法の更新に議会が添付することを望んでいたことが一因だと述べた。
+トランプによるプルテ氏の任命後、外国情報監視法第702条として知られる外国監視法をめぐる交渉は決裂した。このプログラムは、民主党がプルト氏のポストへの任命に抗議したため、6月に失効した。
+プルト氏の暫定任命を受けて、クレイトン氏への支持は広範囲に広がっているように見えた。しかし、彼は水曜日、上院委員会の民主党員によって非難された。
+アンガス・キング上院議員、アイメイン氏は、カリフォルニア州選挙についてCNBCでクレイトン氏が行った発言についてクレイトン氏に質問したが、その中でクレイトン氏は不正投票の可能性を示唆しているようだった。
+クレイトン氏は6月に「スコーク・ボックス」に出演し、「私たちは問題を抱えていた。アメリカでの投票には深刻な問題があった」と語った。 「誠実さの面では、我々はまったくひどい仕事をしているし、アメリカ国民が疑問を抱くのは当然だ。」
+キング氏は説明を求めた。
+「つまり、私たちが選挙のためにさまざまな場所で利用できる監査証跡は、これほど重要なものに期待される種類の監査証跡ではないということだ」とクレイトン氏は述べた。
+キング牧師から米国の選挙で不正投票が問題になっているかとの質問に対し、クレイトン氏は「より良いプロセスが確立されるまで、不正投票が問題になっているかどうかを明確に言うことはできないと思う」と述べた。
+マイケル・ベネット上院議員（コロラド州）とカーステン・ギリブランド下院議員（民主党、ニューヨーク州）は先週、カタールからトランプ大統領に贈られた新型エアフォース・ワンに関連した安全保障上の懸念を報じた直後、ニューヨーク・タイムズの記者らに召喚状を提出するようクレイトン氏に迫った。
+クレイトン氏は召喚状を発行したが、ニューヨーク・タイムズ紙によれば、召喚状は金曜日に届けられ、場合によっては問題の記者の自宅に届けられたという。これらの記者らは水曜日、「連邦刑法違反の疑いに関して」証言するために大陪審に出廷するよう命じられた。
+クレイトン氏は、捜査の詳細には踏み込めなかったと述べた。
+「言っておきますが、合衆国憲法修正第1条を守り報道の自由を守るために私たちが定めた手続きがジャーナリストの脅迫につながるものではないと確信しています」とクレイトン氏は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/trump-dni-jay-clayton-senate-2020-election.html",
+    publishedAt: "2026-07-15T19:02:13+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "salary-information-to-be-shown-on-job-ad-9ec2a8b9",
+    title: "Salary information to be shown on job ads under new laws",
+    titleJa: "新しい法律の下で求人広告に表示される給与情報",
+    summaryJa: "新しい法律の下で求人広告に表示される給与情報- 公開されました",
+    bodyOriginal: `Salary information to be shown on job ads under new laws
+- Published
+Employers will have to publish salary information in job adverts under government plans to rewrite anti-discrimination laws.
+Details of other job conditions could also have to be disclosed to candidates, under the draft proposals.
+Ministers argue greater transparency will help people navigate the jobs market and could prevent future pay discrimination claims.
+However, details of exactly what salary information will have to be shared are yet to be hammered out.
+Officials plan to consult on whether exact salaries will have to be displayed, or potentially a pay range or "benchmark rate" for open roles.
+They also plan to ask industry groups whether information beyond basic salary, such as bonuses, should be made available.
+Employers that do not publish a job advert for a role would have to give candidates the information in writing prior to a job interview.
+In a policy document, the Cabinet Office said salary information would help jobseekers make informed application decisions, and improve the hiring process for companies by weeding out candidates with "misaligned pay expectations".
+Citing various academic studies, it also said transparency would help prevent "unequal outcomes" when salaries are offered to successful applicants.
+"When pay is opaque, salary decisions can be influenced by stereotypes – such as stereotypes of women, ethnic minorities, or disabled people," it added.
+Salary ranges
+Although pay transparency is not currently mandatory in the UK, there has been an increasing trend in recent years for employers to disclose information voluntarily.
+Previous research by the CIPD, an industry body for human resources managers, has found the practice is much more widespread in public bodies and charities than the private sector, while pay ranges were more common than specific salaries.
+But it has cautioned that employers disclosing information are not always "fully transparent", with ranges sometimes wider than £10,000.
+The proposals echo pay transparency proposals being rolled out across the European Union.
+Large employers in Europe of more than 100 workers will have to disclose the initial pay or range for new roles, which must either included in a published job advert or shared before an interview.
+They will also be banned from asking candidates about their salary history - something that does not feature in the Cabinet Office consultation.
+The Cabinet Office says it intends for its proposals to apply in England, Wales and Scotland, with the exact terms set out in legislation following a consultation with industry ending in October.
+The rights watchdog for Northern Ireland has previously argued that the new EU pay transparency rules should apply in the province under the terms of the Windsor Framework deal signed under prime minister Rishi Sunak.
+The Northern Ireland Executive has previously declined to say whether it planned to follow the EU rules. The BBC has asked whether it is planning new rules in Northern Ireland in light of the new proposals for Great Britain.
+Related topics
+- Published28 April 2022
+- Published5 February 2024`,
+    bodyJa: `新しい法律の下で求人広告に表示される給与情報
+- 公開されました
+政府の差別禁止法改正計画に基づき、雇用主は求人広告に給与情報を掲載することが義務付けられる。
+提案草案では、他の職務条件の詳細も候補者に開示する必要がある可能性がある。
+閣僚らは、透明性の向上は人々が雇用市場を乗り切るのに役立ち、将来の賃金差別の申し立てを防ぐことができると主張する。
+ただし、正確にどのような給与情報を共有する必要があるかについては、まだ詳細が詰められていません。
+当局者らは、正確な給与を表示する必要があるかどうか、あるいは潜在的に募集中の役職の給与範囲や「ベンチマークレート」を表示する必要があるかどうかについて協議する予定だ。
+ボーナスなど基本給以外の情報も公開すべきかどうか業界団体に問い合わせる予定だ。
+ある職種の求人広告を出さない雇用主は、面接前に候補者に書面で情報を提供する必要があります。
+内閣府は政策文書の中で、給与情報は求職者が十分な情報に基づいて応募を決定するのに役立ち、「給与の期待にずれがある」候補者を排除することで企業の採用プロセスを改善すると述べた。
+また、さまざまな学術研究を引用し、透明性が合格者に給与を提供する際の「不平等な結果」を防ぐのに役立つとも述べた。
+「給与が不透明な場合、給与決定は女性、少数民族、障害者に対する固定観念などの固定観念に影響される可能性がある」と同紙は付け加えた。
+給与範囲
+英国では現在、給与の透明性は義務ではありませんが、近年、雇用主が自発的に情報を開示する傾向が高まっています。
+人事管理者のための業界団体であるCIPDによるこれまでの調査では、この慣行は民間部門よりも公共団体や慈善団体ではるかに広く普及しており、給与範囲は特定の給与よりも一般的であることが判明した。
+しかし、雇用主が情報を開示することは常に「完全に透明」であるわけではなく、その範囲は場合によっては1万ポンドを超える場合があると警告している。
+この提案は、欧州連合全体で展開されている給与の透明性に関する提案を反映しています。
+労働者100人以上を抱える欧州の大規模雇用主は、初任給や新たな役割の範囲を開示する必要があり、公表される求人広告に掲載するか、面接前に共有する必要がある。
+また、候補者に給与履歴について質問することも禁止されるが、これは内閣府の協議では取り上げられていない。
+内閣府は、業界との協議が10月に終了した後、正確な条件を法律で定め、提案をイングランド、ウェールズ、スコットランドに適用するつもりだと述べた。
+北アイルランドの権利監視団体は以前、リシ・スナック首相の下で署名されたウィンザー枠組協定の条件に基づき、EUの新たな給与透明性規則が同州に適用されるべきだと主張していた。
+北アイルランド行政府はこれまで、EUの規則に従うつもりかどうかについては明言を避けてきた。 BBCは、英国に対する新たな提案を踏まえて、北アイルランドでの新たな規則を計画しているかどうかを尋ねた。
+関連トピック
+- 2022 年 4 月 28 日公開
+- 2024 年 2 月 5 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-15T18:46:26+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a965/live/a2688400-807a-11f1-b339-39b3d6faedee.jpg",
+    readTime: 3,
+  },
+  {
+    id: "spacex-share-price-drops-below-stock-mar-5e1aa1e5",
+    title: "SpaceX share price drops below stock market debut",
+    titleJa: "スペースXの株価が株式市場デビューを下回る",
+    summaryJa: "スペースXの株価が株式市場デビューを下回る- 公開されました",
+    bodyOriginal: `SpaceX share price drops below stock market debut
+- Published
+SpaceX's share price has dropped below its stock market debut just over a month ago, falling sharply from a post-float peak.
+The price for a single share in Elon Musk's rocket, satellite and artificial intelligence (AI) company fell to $132.62 (£98.24) on Wednesday, below its initial listing of $135 in June.
+SpaceX's initial public offering (IPO) made Musk the world's first trillionaire. Compared to its on-the-day high so far, the stock price is now down 41%.
+If the price holds, or falls further, it will mean that those who purchased stock around the time of its flotation will stand to lose money on their investment.
+Even amid a tumultuous few weeks for tech stocks, SpaceX has taken a particular hit.
+Compared to a 0.2% fall on the wider Nasdaq index, where SpaceX's shares are listed, the company's stock price fell more than 2% on Wednesday.
+SpaceX stock has been volatile since it began trading on the public stock market a little over one month ago.
+After an initial investor frenzy that saw the company valued at more than Amazon and Microsoft, the price of its shares has drifted downward.
+Initially, SpaceX was treated by investors as the first chance they had to invest in an AI company, according to what financial market analysts and experts recently told the BBC,
+Earlier this year, SpaceX acquired Musk's AI start-up xAI, recently renamed SpaceXAI, marking it's first foray into an AI-focused business.
+XAI is best known for the controversial chatbot Grok, but through that acquisition, SpaceX now leases data centre capacity to other tech companies.
+The company's main business is the manufacture and launch of rockets and telecommunications satellites called Starlink.
+When Starlink said it was cutting prices in the Memphis, Tennessee area amid local concerns over a massive data centre project, SpaceX shares fell by 8%.
+Steve Sosnick, chief market analyst at Interactive Brokers, told Reuters: "There hasn't been anything that lately to remind people of some of the catalysts for why they bought SpaceX."
+SpaceX is expected to release in August its first public earnings report.
+Sosnick added: "The fact that a stock has fallen a couple of dollars below its IPO price in itself is not a tragedy, but SpaceX is heavily watched and has an important role in investor psyche."
+SpaceX did not immediately respond to a request for comment.`,
+    bodyJa: `スペースXの株価が株式市場デビューを下回る
+- 公開されました
+スペースXの株価はわずか1カ月前の株式市場デビューを下回り、浮上後の最高値から急落した。
+イーロン・マスク氏のロケット・衛星・人工知能（AI）企業の1株価格は水曜日、132.62ドル（98.24ポンド）に下落し、6月の新規上場時の135ドルを下回った。
+スペースXの新規株式公開（IPO）により、マスク氏は世界初の大富豪となった。これまでの当日の高値と比較すると、株価は現在41％下落している。
+価格が維持されるか、さらに下落する場合、株式の浮上時に購入した人は投資で損失を被る可能性があることを意味します。
+ハイテク株にとって激動の数週間が続いている中でも、スペースXは特に打撃を受けている。
+スペースX株が上場されているナスダック指数の0.2％下落と比較すると、水曜日の同社株価は2％以上下落した。
+スペースX株は1カ月余り前に公開株式市場で取引を開始して以来、不安定な状況が続いている。
+同社の価値がアマゾンやマイクロソフトを上回ると投資家が当初熱狂した後、株価は下落した。
+金融市場アナリストや専門家が最近BBCに語ったところによると、当初、スペースXは投資家たちからAI企業に投資する最初のチャンスとして扱われていたという。
+今年初め、スペースXはマスク氏のAI新興企業xAI（最近スペースXAIに改名）を買収し、AI中心のビジネスへの初進出となった。
+XAIは物議を醸したチャットボット「Grok」で最もよく知られているが、その買収によりSpaceXは現在、データセンターの容量を他のハイテク企業にリースしている。
+同社の主な事業は、スターリンクと呼ばれるロケットや通信衛星の製造・打ち上げである。
+大規模なデータセンタープロジェクトに対する地元の懸念を受けて、スターリンクがテネシー州メンフィス地域で価格を引き下げると発表したとき、スペースX株は8％下落した。
+インタラクティブ・ブローカーズの首席市場アナリスト、スティーブ・ソスニック氏はロイターに対し、「最近、スペースＸ社を買収したきっかけの一部を人々に思い出させるような出来事は何もない」と語った。
+スペースXは8月に初の公開収益報告書を発表する予定だ。
+ソスニック氏はさらに、「株価が公開価格を数ドル下回ったという事実自体は悲劇ではないが、スペースXは非常に注目されており、投資家の心理に重要な役割を果たしている」と付け加えた。
+スペースXはコメントの要請にすぐには応じなかった。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-15T18:11:57+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18a1/live/2b8ede90-806d-11f1-bf5f-a7a6eeea7412.jpg",
+    readTime: 3,
+  },
+  {
+    id: "public-service-loan-forgiveness-has-new-f2c804d8",
+    title: "Public Service Loan Forgiveness has new rules — 3 changes borrowers should know about",
+    titleJa: "公共サービスローンの免除に新しい規則が追加されました — 借り手が知っておくべき 3 つの変更点",
+    summaryJa: "連邦裁判所は公共サービスローン免除の資格を抑制しようとするトランプ政権の取り組みを阻止したが、その他の最近の変更は依然として借り手がプログラムの恩恵を受ける能力に影響を与えている。たとえば、新しい返済計画は PSLF の対象外となり、多くの親借り手がプログラムから完全に締め出される可能性があります。これらの変更は、国の連邦学生ローン制度を全面的に見直したドナルド・トランプ大統領の「One Big Beautiful Bill Act」によるもので、7月1日から施行される。",
+    bodyOriginal: `While federal courts have blocked the Trump administration's efforts to curb eligibility for Public Service Loan Forgiveness, other recent changes still impact borrowers' ability to benefit from the program.
+For example, a new repayment plan doesn't qualify for PSLF, and many parent borrowers may now be locked out of the program entirely. These shifts are due to President Donald Trump's One Big Beautiful Bill Act, which overhauled the country's federal student loan system, and are effective as of July 1.
+PSLF, which President George W. Bush signed into law in 2007, allows certain not-for-profit and government employees to have their federal student loans canceled after 120 payments, or 10 years. More than 9 million borrowers may be eligible, according to a 2022 estimate from Protect Borrowers, a nonprofit.
+Here are three recent updates to PSLF.
+1. New repayment plan won't qualify
+To qualify for PSLF, student loan borrowers need to be enrolled in certain repayment plans.
+Any time spent in one of the new plans established by the OBBBA — the Tiered Standard Plan— will not count toward your 120 required PSLF payments, said Scott Buchanan, executive director of the Student Loan Servicing Alliance, a trade group for federal student loan servicers. The Tiered Standard Plan comes with fixed payments, spread over different timelines based on your total debt amount.
+For new borrowers, or those who took out loans after July 1, your only repayment option to qualify for PSLF is the new Repayment Assistance Plan. RAP is the U.S. Department of Education's latest income-driven repayment plan, or IDR, meaning it sets borrowers' monthly bills at a share of their income. Under RAP, monthly payments typically range from 1% to 10% of your earnings; the more you make, the bigger your required payment.
+"For anyone borrowing a new loan on or after July 1, 2026, this is especially important, because the Tiered Standard Plan is the default," said Rich Williams, a former deputy assistant secretary at the Education Department. "New borrowers who don't actively pick a plan get placed there automatically, quietly earning zero PSLF credit."
+It's a 10-year path to forgiveness regardless of which plan you are enrolled in.Nancy Niermanassistant director at EDCAP
+Existing student loan holders pursuing PSLF will have more repayment plans to choose from, including the Income-Based Repayment plan, or IBR, said Nancy Nierman, assistant director of the Education Debt Consumer Assistance Program in New York, a nonprofit that helps borrowers navigate repayment. As a result, they should compare their monthly bills under the available IDR plans and pick the cheapest option, she said.
+If you hope to get your debt scrubbed from PSLF, you should generally ignore the forgiveness term on the IDR plan, Nierman added. For example, RAP concludes in debt cancellation only after 30 years.
+But for PSLF borrowers, she said, "it's a 10-year path to forgiveness regardless of which plan you are enrolled in."
+2. Parent PLUS borrowers may be locked out
+Many parents who borrow student loans for their children's higher education no longer qualify for PSLF, due to the OBBBA's changes. That's because the law shut out Parent PLUS borrowers from IDR access.
+"Parent PLUS loans no longer have a path into income-driven repayment or PSLF," said Williams.
+Parent borrowers who took out loans after July 1 now qualify only for the Tiered Standard Repayment Plan, which doesn't count toward PSLF.
+Meanwhile, existing Parent PLUS loan holders recently had a short window to consolidate their debt and potentially maintain a way to enroll in an IDR plan. Consolidating Parent PLUS loans leaves borrowers with a Direct federal loan — the kind most students carry.
+But if you did not do so, you have lost access to IDR plans and therefore the benefit of PSLF, experts say.
+3. Your employer shouldn't disqualify you
+Student loan borrowers may no longer need to fret over whether their employer will remain eligible for PSLF. That's because two federal judges in June struck down the Trump administration's rule that would have changed the definition of a "qualifying employer" under PSLF to exclude organizations that "engage in unlawful activities."
+Opponents of the policy said the vague language would have allowed the Trump administration to shut out nonprofits that it didn't like.
+"The administration could appeal the decision, but they have not said anything since the rule was struck down," Nierman said. "And if they did appeal, there's no guarantee they would win."
+The Education Department recently wrote on its website that it was working to update the PSLF form to comply with the court order, but that "language regarding an employer's certification that it has not engaged in illegal activities will have no effect."
+The best way to find out if your job qualifies for PSLF is to fill out the so-called employer certification form. It's best to fill out this form at least once a year and keep records of your confirmed qualifying payments, experts say.`,
+    bodyJa: `連邦裁判所は公共サービスローン免除の資格を抑制しようとするトランプ政権の取り組みを阻止したが、その他の最近の変更は依然として借り手がプログラムの恩恵を受ける能力に影響を与えている。
+たとえば、新しい返済計画は PSLF の対象外となり、多くの親借り手がプログラムから完全に締め出される可能性があります。これらの変更は、国の連邦学生ローン制度を全面的に見直したドナルド・トランプ大統領の「One Big Beautiful Bill Act」によるもので、7月1日から施行される。
+ジョージ・W・ブッシュ大統領が2007年に署名したPSLFは、特定の非営利団体および政府職員に対し、連邦学生ローンを120回または10年間の支払い後に取り消すことを認めている。非営利団体プロテクト・ボローワーズの2022年の推計によると、900万人以上の借り手が対象となる可能性がある。
+PSLF に対する最近の 3 つのアップデートを以下に示します。
+1. 新しい返済計画は対象外となります
+PSLF の資格を得るには、学生ローンの借り手は特定の返済計画に登録する必要があります。
+連邦学生ローンサービサーの業界団体である学生ローンサービシングアライアンスのエグゼクティブディレクター、スコット・ブキャナン氏は、OBBBAが確立した新しいプランの1つである段階的スタンダードプランに費やした時間は、必要な120回のPSLF支払いにはカウントされないと述べた。段階的スタンダード プランには固定支払いが含まれており、負債総額に基づいてさまざまなスケジュールに分割されます。
+新規の借り手、または 7 月 1 日以降にローンを組んだ人の場合、PSLF の資格を得る唯一の返済オプションは、新しい返済支援プランです。 RAP は米国教育省の最新の収入主導型返済計画 (IDR) であり、借り手の毎月の請求額を収入の割合で設定することを意味します。 RAP では、月々の支払いは通常、収益の 1% から 10% の範囲です。稼げば稼ぐほど、必要な支払い額も大きくなります。
+「2026年7月1日以降に新規ローンを借りる人にとって、これは特に重要です。段階的スタンダードプランがデフォルトだからです」と教育省の元次官補リッチ・ウィリアムズ氏は述べた。 「積極的にプランを選択しない新規借り手は自動的にそこに配置され、静かに PSLF クレジットを獲得することはありません。」
+どのプランに登録しているかに関係なく、赦しまでは 10 年かかります。ナンシー ニアマン EDCAP アシスタント ディレクター
+借り手の返済を支援する非営利団体、ニューヨークの教育債務消費者支援プログラムのアシスタントディレクター、ナンシー・ニアマン氏は、PSLFを利用する既存の学生ローン保有者は、所得に基づく返済計画（IBR）を含む、より多くの返済計画から選択できるようになるだろうと述べた。そのため、利用可能なIDRプランで月々の請求額を比較し、最も安いオプションを選択する必要があると彼女は述べた。
+PSLFから債務を免除してもらいたいのであれば、通常はIDR計画の免除条項を無視すべきだとニアマン氏は付け加えた。たとえば、RAP は 30 年後にのみ債務免除を完了します。
+しかし、PSLFの借り手にとっては、「どのプランに加入していても、免除までには10年かかる」と彼女は言う。
+2.親PLUSの借り手はロックアウトされる可能性があります
+OBBBA の変更により、子供の高等教育のために学生ローンを借りている多くの親は PSLF の資格を失いました。これは、法律により、Parent PLUS の借り手が IDR アクセスから締め出されたためです。
+「親のPLUSローンには、収入に応じた返済やPSLFへの道はもうありません」とウィリアムズ氏は述べた。
+7 月 1 日以降にローンを組んだ親の借り手は現在、段階的標準返済プランのみの資格があり、PSLF にはカウントされません。
+一方、既存のParent PLUSローン保有者は最近、債務を整理してIDRプランに登録する方法を維持する可能性を維持するための短い期間を抱えていました。 Parent PLUS ローンを統合すると、借り手にはほとんどの学生が抱えているような直接連邦ローンが残されます。
+しかし、そうしなかった場合、IDR プランへのアクセスが失われ、したがって PSLF の恩恵を受けることができなくなる、と専門家は言います。
+3. 雇用主はあなたの資格を剥奪すべきではありません
+学生ローンの借り手は、雇用主が PSLF の資格を維持できるかどうかを心配する必要がなくなりました。というのは、2人の連邦判事が6月、PSLFに基づく「適格雇用主」の定義を変更して「違法な活動に従事する」組織を排除するというトランプ政権の規則を無効にしたからだ。
+この政策の反対派は、この曖昧な文言によりトランプ政権が気に入らない非営利団体を締め出すことを可能にしてしまうと述べた。
+「政権はこの決定に対して控訴する可能性があるが、この規則が廃止されて以来何も言っていない」とニアマン氏は語った。 「もし彼らが控訴したとしても、勝てる保証はない。」
+教育省は最近ウェブサイトで、裁判所命令に準拠するためにPSLFフォームの更新に取り組んでいるが、「違法行為に関与していないという雇用主の証明に関する文言は効果がない」と書いた。
+あなたの仕事が PSLF の対象となるかどうかを確認する最良の方法は、いわゆる雇用主証明書フォームに記入することです。専門家によると、少なくとも年に一度はこのフォームに記入し、確認された対象となる支払いの記録を保管することが最善です。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/public-service-loan-forgiveness-pslf-changes.html",
+    publishedAt: "2026-07-15T17:58:41+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "anthropic-moves-closer-to-mega-ipo-as-ba-2c86fedc",
+    title: "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
+    titleJa: "銀行家が投資家との会合を準備する中、アンスロピックはメガIPOに近づく",
+    summaryJa: "Anthropic は、ライバルの OpenAI を公開市場で打ち負かそうとしている AI スタートアップ企業として、早ければ 10 月にも IPO を行う可能性に先立ち、投資家との会合を準備している。",
+    bodyOriginal: `Anthropic is lining up meetings with investors ahead of a potential initial public offering later this year, a person with knowledge of the plans told CNBC.
+Bankers leading the offering are scheduling meetings between prospective investors and executives of the artificial intelligence firm behind the popular Claude models, said the person, who declined to be identified speaking about the process.
+The meetings suggest Anthropic's IPO preparations are advancing, as bankers begin sounding out investor demand before a formal roadshow and eventual share sale. Anthropic confidentially filed its IPO prospectus with the Securities and Exchange Commission last month, but hasn't disclosed when it plans to debut.
+The giant AI startup could hit the public markets as soon as October, though the timing could change, according to Bloomberg, which first reported the investor meetings. An Anthropic spokesperson declined to comment.
+An Anthropic listing would build on momentum from June's massive SpaceX IPO and further open the public markets to companies at the center of the AI boom. It follows years in which the industry's biggest names remained private while raising hundreds of billions of dollars from investors.
+Anthropic appears poised to beat rival OpenAI to the public markets, which could be an advantage for the startup if AI enthusiasm later wanes. OpenAI also confidentially filed for an IPO with the SEC in June, but it has not disclosed any additional details.
+Anthropic was founded in 2021 by a group of executives and researchers who defected from OpenAI over concerns about the company's direction. Anthropic has found early success selling to enterprises, in large part due to its popular coding assistant, Claude Code.
+The company closed a $65 billion funding round at a $965 billion valuation in May, pushing it above OpenAI's $852 billion valuation for the first time.
+Goldman Sachs, Morgan Stanley and JPMorgan Chase, the three biggest Wall Street banks by revenue, are involved in the IPO planning.
+The AI spending boom has fueled a resurgence in profit for Wall Street firms as they seek to satisfy investors clamoring for ways to fund the buildout and invest in or hedge aspects of the theme.
+— CNBC's Kate Rooney contributed to this report.
+WATCH: Anthropic says Trump administration has lifted export controls on Claude Fable 5 and Mythos 5`,
+    bodyJa: `計画に詳しい関係者がCNBCに語ったところによると、アンスロピックは今年後半の新規株式公開に先立ち、投資家との会合を準備しているという。
+プロセスについて匿名を条件に語ったこの関係者によると、この提案を主導する銀行家らは、将来の投資家と人気のクロードモデルの背後にある人工知能企業幹部との会合をスケジュールしているという。
+会合は、アンスロピックのＩＰＯ準備が進んでいることを示唆しており、銀行家らは正式なロードショーと最終的な株式売却に先立って投資家の需要を聞き出し始めている。アンスロピックは先月、証券取引委員会にIPO目論見書を極秘に提出したが、いつデビューする予定なのかは明らかにしていない。
+投資家会合の内容を最初に報じたブルームバーグによると、この巨大AI新興企業は早ければ10月にも公開市場に投入される可能性があるが、タイミングは変更される可能性があるという。 Anthropicの広報担当者はコメントを控えた。
+Anthropicの上場は、6月のSpaceXの大規模なIPOの勢いをさらに強化し、AIブームの中心にいる企業に公開市場をさらに開放することになる。これは、業界最大手の企業が投資家から数千億ドルを調達しながら非公開のままだった数年間に続くものである。
+Anthropic は公開市場でライバルの OpenAI に勝つ準備ができているようで、AI への熱意が後に衰えた場合、それはスタートアップにとって有利になる可能性がある。 OpenAIも6月に秘密裏にSECにIPOを申請したが、それ以上の詳細は明らかにしていない。
+Anthropic は、会社の方向性への懸念を理由に OpenAI から離反した幹部や研究者のグループによって 2021 年に設立されました。 Anthropic は、主に人気のあるコーディング アシスタントである Claude Code のおかげで、企業向けの販売で初期の成功を収めました。
+同社は5月に9,650億ドルの評価額で650億ドルの資金調達ラウンドを完了し、OpenAIの評価額8,520億ドルを初めて上回った。
+売上高でウォール街の3大銀行であるゴールドマン・サックス、モルガン・スタンレー、JPモルガン・チェースがIPO計画に関与している。
+AI支出ブームはウォール街企業の利益回復を加速させており、増強資金を調達し、テーマの側面に投資またはヘッジする方法を求めている投資家を満足させようとしている。
+— CNBC の Kate Rooney がこのレポートに寄稿しました。
+動画: Anthropic は、トランプ政権がクロード・ファブル 5 とミトス 5 の輸出規制を解除したと発表`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
+    publishedAt: "2026-07-15T17:22:51+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "historic-ibm-stock-crash-sets-up-unique-76f6e12c",
+    title: "Historic IBM stock crash sets up unique options strategy",
+    titleJa: "歴史的なIBM株暴落で独自のオプション戦略が確立",
+    summaryJa: "1789 年 7 月 14 日、パリの民衆はバスティーユを襲撃し、アンシャン レジームの絶対的権威の暴力的な終焉を告げました。今日、まさに同じ日に（237 年後ではありますが）株式市場は、テクノロジーのアンシャンレジーム、つまりインターナショナル・ビジネス・マシーンに対抗する独自の金融革命を起こしました。IBMの株価は73ドル強下落し、約217ドルとなった。これは、1日で25％という驚くべき下落額だ。これは私の生涯の中で最も急激な単一セッションの下落であり、私が生まれる前の1968年1月3日以来見られなかった破壊の規模に匹敵します。",
+    bodyOriginal: `On July 14, 1789, the people of Paris stormed the Bastille, signaling a violent end to the absolute authority of the ancien régime. Today, on that very same date, (albeit 237 years later) the stock market staged its own financial revolution against the ancien régime of technology: International Business Machines.
+IBM shares fell just over $73 to ~$217 — a jaw-dropping 25% single-day decapitation. It is the steepest single-session drop in my lifetime, matching a scale of destruction not seen since January 3, 1968, before I was born.
+The catalyst for this sudden coup was a preliminary Q2 sales miss. IBM reported revenue of $17.2 billion, falling short of Wall Street's $17.9 billion expectations, driven by a 7% slide in its infrastructure division. According to CEO Arvind Krishna, enterprise customers shifted their spending away from IBM's traditional products, hoarding cash to buy hardware, servers, and storage to hedge against AI-fueled supply shortages and impending price hikes. While this may be Krishna's own convenient narrative rather than an independently verified trend, the market didn't wait for a trial. The verdict was absolute, and the execution was swift.
+But where there is panic, there is premium. In the option pits, the crowd has gathered but hasn't dispersed. Typically, when bad news drops, implied volatility undergoes a rapid "vol crush." Instead, IBM's one-month implied volatility is trading at its 99.6%ile — dwarfing the premium expansion seen during the 2019 Taper Tantrum, the 2022 rate-hike bear market and the various tariff tantrums, exceeded only by the "Pandemic Plunge" in 2020.
+With the market pricing in absolute chaos, it is time to adopt an "off with their heads" stance on high premiums. Since the stock has already endured a massive 25% structural re-rating, the majority of the downward momentum is likely exhausted. By selling the monthly August 21, 2026, 190/245 short strangle, we can collect a massive premium from terrified buyers, betting that the stock will quietly consolidate within its new post-revolutionary boundaries.
+Premium Captured: ~$11.25 per strangle (as of the July 14, 2026, close). This represents a 5.18% standstill yield relative to the underlying stock price in just 38 days.
+- Downside Breakeven: $178.75 (approx. 17.6% below current price)
+- Upside Breakeven: $256.25 (approx. 18.1% above current price)
+This trade relies on a wide, symmetrical margin of safety. To breach the lower barrier of $178.75 — a level not visited since early 2024 — IBM would need to drop an additional 18% from its already-shattered state. If forced to take assignment, you are establishing a long position at a steep historical discount. On the upside, reclaiming $256.25 would require IBM to recoup more than half of today's historic sell-off before August expiration, an unlikely feat given the sudden enterprise freeze on software and consulting budgets.
+As the dust settles on this Bastille Day blowout, the market has left the gates wide open for option sellers. The news is out, but panic has kept options premiums elevated. For those willing to capture the fear, the short strangle offers a high-probability path to watch the remaining premium slowly bleed away.`,
+    bodyJa: `1789 年 7 月 14 日、パリの民衆はバスティーユを襲撃し、アンシャン レジームの絶対的権威の暴力的な終焉を告げました。今日、まさに同じ日に（237 年後ではありますが）株式市場は、テクノロジーのアンシャンレジーム、つまりインターナショナル・ビジネス・マシーンに対抗する独自の金融革命を起こしました。
+IBMの株価は73ドル強下落し、約217ドルとなった。これは、1日で25％という驚くべき下落額だ。これは私の生涯の中で最も急激な単一セッションの下落であり、私が生まれる前の1968年1月3日以来見られなかった破壊の規模に匹敵します。
+この突然のクーデターのきっかけとなったのは、第 2 四半期の予備的な販売ミスでした。 IBMの売上高は172億ドルと報告したが、インフラ部門の7％減が影響し、ウォール街の予想179億ドルを下回った。 CEOのArvind Krishna氏によると、企業顧客は支出をIBMの従来製品から移し、AIによる供給不足や差し迫った価格上昇に備えてハードウェア、サーバー、ストレージを購入するために現金を貯め込んだという。これは独自に検証された傾向ではなく、クリシュナ自身の都合の良い話かもしれないが、市場は裁判を待ってくれなかった。判決は絶対的であり、死刑執行は迅速であった。
+しかし、パニックがあるところにはプレミアムがあります。オプションピットには群衆が集まっているが分散していない。通常、悪いニュースが流れ込むと、インプライド・ボラティリティは急速な「株価暴落」を起こします。むしろ、IBMの1か月のインプライド・ボラティリティは99.6%で取引されており、2019年のテーパー・タントラム、2022年の利上げ弱気市場、さまざまな関税の癇癪の際に見られた保険料の拡大を矮小化しているが、これを超えたのは2020年の「パンデミック・プランジ」だけだった。
+市場が完全な混乱を織り込んでいる今、高保険料に対して「頭を下げる」スタンスを採用する時期が来ています。同株はすでに25％という大規模な構造再格付けに耐えているため、下落の勢いの大部分は尽きた可能性が高い。 2026年8月21日の月次190/245ショートストラングルを売却することで、株式が革命後の新たな境界線内で静かに統合されることに賭けて、恐怖に駆られた買い手から巨額のプレミアムを集めることができる。
+プレミアムキャプチャ: 絞めごとに ~$11.25 (2026 年 7 月 14 日の時点、終了時点)。これは、わずか 38 日間で原株価と比較した 5.18% の静止利回りを表します。
+- 下値損益分岐点: $178.75 (現在の価格より約 17.6% 低い)
+- 上方損益分岐点: $256.25 (現在価格より約 18.1% 上)
+この取引は、広く対称的な安全マージンに依存しています。 178.75ドルという下限の壁（2024年初頭以来一度も訪れていない水準）を突破するには、IBMはすでに崩壊した状態からさらに18％下落する必要がある。割り当てを受けることを余儀なくされた場合、歴史的に大幅な割引でロングポジションを確立することになります。好材料としては、256.25ドルを取り戻すには、IBMが8月の期限までに今日の歴史的な下落の半分以上を取り戻す必要があるが、企業によるソフトウェアとコンサルティング予算の突然の凍結を考慮すると、ありそうもない偉業である。
+今回のフランス革命記念日の暴落の騒ぎが収まる中、市場はオプション売り手に門戸を大きく開いたままにした。このニュースは発表されましたが、パニックによりオプションのプレミアムは上昇したままです。恐怖を味わいたい人にとって、短い首絞めは、残りのプレミアムがゆっくりと流れ出ていくのを高確率で見ることができる道を提供します。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
+    publishedAt: "2026-07-15T17:17:38+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "fed-chairman-warsh-says-he-meets-often-w-fa94587d",
+    title: "Fed Chairman Warsh says he meets 'often' with Trump administration, defends independence",
+    titleJa: "ウォーシュFRB議長、トランプ政権と「頻繁に」会うと独立を擁護",
+    summaryJa: "米連邦準備制度理事会（FRB）のケビン・ウォーシュ議長は水曜日、議長就任以来ドナルド・トランプ大統領と会話したかどうかについては明言を避けたが、トランプ政権と定期的に連絡を取り合っていることを認めた。それは彼の独立性に影響を与えるものではないとウォーシュ氏は語った。",
+    bodyOriginal: `Federal Reserve Chairman Kevin Warsh on Wednesday declined to say if he has spoken to President Donald Trump since becoming chair, but confirmed he is in regular communication with the Trump administration.
+That doesn't affect his independence, Warsh said.
+Warsh is in a delicate position seven weeks into his term as Fed chair. Investors are trying to suss out where the Fed will take interest rates, as Warsh pulls back on how the Fed talks about its plans. He was appointed by a president who said lower interest rates were a litmus test for his choice of chair and has continued to call for cuts since Warsh was confirmed. Any suggestion that Warsh didn't come by his views honestly could threaten his ability to bring a divided Federal Open Market Committee to consensus on interest rates.
+The White House declined to comment on any conversations between the president and the Fed chairman, saying it doesn't discuss any of the president's private conversations that might or might not have occurred.
+Spokespersons for Treasury Secretary Scott Bessent and the Fed declined to comment.
+Warsh, in the hearing, repeatedly defended his independence and the credibility that flows from it during two days of appearances before Congress, starting with the House on Tuesday and moving to the Senate Wednesday.
+"The independence of the Federal Reserve is sacrosanct," Warsh said Tuesday. "Part of the reason for the Fed's power comes not just from a printing press, though it can be useful from time to time. It comes from our credibility, credibility to make the best choices we can consistent with the law that you've written for us."
+As Warsh noted in his testimony both days, inflation has remained above the Fed's 2% target for the past 63 months. Inflation fell in June, according to consumer and producer price index data released this week, but Warsh was careful not to take a victory lap.
+"Any central bank would be happy to have the data going in the right direction. My view is these are all imperfect measures of the state of underlying inflation," he said.
+That view of inflation is up for debate within the Fed. Warsh has created a task force to review how the Fed thinks about inflation. But it isn't a given that the Fed will accept the task force's — and Warsh's — views on the matter.
+The FOMC appears divided on the course of interest rates. Governor Christopher Waller and New York Federal Reserve President John Williams have said in recent days it may be necessary to raise interest rates this year.
+But if Warsh still needs allies on the Fed, he has one in the Trump administration. The White House has said the president defers to Warsh's views about how to manage the Fed, even though Trump still generally wants interest rates down.
+The Fed chair and the Treasury secretary meet for a weekly breakfast by longstanding tradition.
+Warsh has kept up that tradition with Bessent, and gone beyond it, he said Wednesday.
+"I do meet with the Treasury Secretary weekly. I talk to him often between that." He added he will make his own decisions about interest rates.
+Warsh and Bessent share a mentor in investor Stanley Druckenmiller, who employed Warsh for more than a decade until he became Fed chairman. Bessent worked for Druckenmiller earlier in his career as a hedge fund manager. Warsh and Bessent didn't overlap in working for Druckenmiller, but the two knew each other well before taking their current jobs.
+Warsh said before becoming Fed chairman that he wanted to negotiate a new Treasury-Fed Accord, referring to the 1951 agreement that established the Fed's modern independence. Warsh said he wanted to hand some powers over the Fed's balance sheet to the Treasury secretary. He hasn't elaborated on those views since becoming Fed chair and has created a task force that will review the Fed's balance sheet policy.
+Top Trump economic advisor Kevin Hassett said Wednesday on CNBC's "Squawk Box" that he also had recently spoken to Warsh. Hassett said he had praised Warsh's new task forces when the two spoke.
+Warsh declined to say under direct questioning from the Senate Banking Committee whether he had spoken to the president since becoming chairman. But he indicated it shouldn't be seen as a problem if he had spoken to the president.
+"I certainly don't feel uncomfortable receiving a call from the chairman of this committee or the president of the United States," Warsh said.
+Public calendars released by the Fed show Powell met with or called Bessent only a handful of times outside of their regular breakfast meetings. There was only one such meeting in 2026, when Powell and Bessent discussed risks of artificial intelligence with bank CEOs in April.`,
+    bodyJa: `米連邦準備制度理事会（FRB）のケビン・ウォーシュ議長は水曜日、議長就任以来ドナルド・トランプ大統領と会話したかどうかについては明言を避けたが、トランプ政権と定期的に連絡を取り合っていることを認めた。
+それは彼の独立性に影響を与えるものではないとウォーシュ氏は語った。
+ウォーシュ氏はFRB議長としての任期を終えて7週間が経過し、微妙な立場にある。ウォーシュ氏がFRBの計画についての発言を撤回する中、投資家はFRBがどのような金利政策を採用するのかを探ろうとしている。同氏は、金利低下が議長選択のリトマス試験紙であると述べた大統領によって任命されており、ウォーシュ氏が承認されて以来利下げを要求し続けている。ウォーシュ氏が自身の見解に正直に基づいていないことが示唆されると、分裂した連邦公開市場委員会に金利に関する合意をもたらす同氏の能力が脅かされる可能性がある。
+ホワイトハウスは、大統領とFRB議長のいかなる会話についてもコメントを拒否し、行われたかもしれないし、行われなかったかもしれない大統領の個人的な会話については言及していないと述べた。
+スコット・ベッセント財務長官とFRBの報道官はコメントを控えた。
+ウォーシュ氏は公聴会で、火曜日の下院から水曜日の上院までの２日間の議会出廷中、自身の独立性とそこから得られる信頼性を繰り返し擁護した。
+ウォーシュ氏は火曜日、「連邦準備制度の独立性は神聖なものだ」と述べた。 「FRBの力の理由の一部は、印刷機だけから来ているわけではありませんが、時には役に立つこともあります。それは私たちの信頼性、あなたが私たちのために書いてくれた法律に沿って可能な限り最善の選択をする信頼性から来ています。」
+ウォーシュ氏が両日の証言で指摘したように、インフレ率は過去63カ月間、FRBの目標である2％を上回っている。今週発表された消費者物価指数と生産者物価指数のデータによると、６月のインフレ率は低下したが、ウォーシュ氏は勝利のラップをとらないよう注意した。
+同氏は「どの中央銀行もデータが正しい方向に向かうことを喜んでいるだろう。私の見解では、これらはすべて基調的なインフレの状態を示す不完全な指標だ」と述べた。
+インフレに対するこうした見方はFRB内で議論の余地がある。ウォーシュ氏はFRBがインフレについてどのように考えているかを検討するための特別委員会を設置した。しかし、FRBがこの問題に関する特別委員会、そしてウォーシュ氏の見解を受け入れるかどうかは明らかではない。
+FOMCでは金利の行方について意見が分かれているようだ。クリストファー・ウォーラー知事とジョン・ウィリアムズニューヨーク連銀総裁はここ数日、今年利上げが必要になる可能性があると述べている。
+しかし、ウォーシュ氏が依然としてFRBに同盟者を必要としているとすれば、トランプ政権には同氏の同盟者がいるだろう。ホワイトハウスは、トランプ大統領は依然として全般的に金利引き下げを望んでいるが、大統領はFRBの運営方法についてウォーシュ氏の見解を尊重していると述べた。
+FRB議長と財務長官は長年の伝統に従って毎週朝食を共にする。
+ウォーシュ氏はベッセント氏とともにその伝統を守り続け、さらにそれを超えてきたと水曜日に語った。
+「財務長官とは毎週会っている。その合間によく話をしている。」同氏は金利については自ら決定するつもりだと付け加えた。
+ウォーシュ氏とベッセント氏は、投資家のスタンレー・ドラッケンミラー氏を指導者としており、同氏はウォーシュ氏がFRB議長に就任するまで10年以上雇用していた。ベッセント氏は、ヘッジファンドマネージャーとしてのキャリアの初期にドラッケンミラーで働いていました。ウォーシュとベッセントはドラッケンミラーで働いていた時期が重なっていなかったが、二人は現在の仕事に就く前からお互いのことをよく知っていた。
+ウォーシュ氏はFRB議長就任前、FRBの現代的独立性を確立した1951年の合意に言及し、新たな財務・FRB協定について交渉したいと述べていた。ウォーシュ氏は、FRBのバランスシートに関する権限の一部を財務長官に移譲したいと述べた。同氏はFRB議長就任以来こうした見解について詳しく述べておらず、FRBのバランスシート政策を見直す作業部会を設置した。
+トランプ大統領のトップ経済顧問ケビン・ハセット氏も水曜日、CNBCの「スコーク・ボックス」で、最近ウォーシュ氏とも話したと語った。ハセット氏は、２人が会談した際にウォーシュ氏の新たな任務部隊を称賛したと述べた。
+ウォーシュ氏は上院銀行委員会からの直接質問に対し、委員長就任以来大統領と話をしたかどうかについては明言を避けた。しかし、大統領と話し合ったとしても問題視されるべきではないとの考えを示した。
+ウォーシュ氏は「この委員会の委員長や米国大統領から電話を受けるのは確かに不快ではない」と述べた。
+FRBが公表した公開カレンダーによると、パウエル氏がベッセント氏と面会したり電話したりしたのは定例朝食会以外では数回のみだった。 2026年にそのような会合があったのは、パウエル氏とベッセント氏が4月に銀行CEOらと人工知能のリスクについて話し合ったときの1回だけだった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/15/feds-warsh-says-he-meets-often-with-trump-administration.html",
+    publishedAt: "2026-07-15T17:16:14+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "brewdog-co-founder-james-watt-launches-b-b860c87c",
+    title: "Brewdog co-founder James Watt launches bid to buy back beer firm",
+    titleJa: "ブリュードッグの共同創設者ジェームス・ワット氏、ビール会社の買い戻しに向けた入札を開始",
+    summaryJa: "ブリュードッグの共同創設者ジェームス・ワット氏、ビール会社の買い戻しに向けた入札を開始- 公開されました",
+    bodyOriginal: `Brewdog co-founder James Watt launches bid to buy back beer firm
+- Published
+Brewdog co-founder James Watt says he has made an offer to buy back the craft beer business months after it was sold to a US company.
+At its peak, Brewdog had four breweries, about 100 pubs worldwide and was said to be worth more than $1bn.
+However, it was bought over by beverage and medical cannabis company Tilray earlier this year after collapsing with debts of more than £500m, leading to hundreds of job losses.
+Watt - who co‑founded the firm with Martin Dickie in Aberdeenshire almost 20 years ago - said investors in Brewdog's "Equity for Punks" scheme would receive shares "for free" if his takeover bid was successful.
+I invested £12,000 in Brewdog - I think I've lost it all
+- Published18 February
+About 20,000 people invested in the scheme, typically spending about £500 on shares costing £20-30 each. They were left worthless as the firm collapsed.
+Watt stood down as chief executive in 2024 and moved to a newly created position of "captain and co-founder". Dickie left the company last year, citing personal reasons.
+Both had sold shares in the firm to a US private equity fund TSG in 2017, making £50m each.
+After leaving Brewdog, Watt launched a new beer brand, Second Best, offering nearly 20% of shares to people who lost money after investing in Equity for Punks.
+Former investors told the BBC that they were sceptical about those plans.
+Watt's email to investors
+In an email to those who signed up to the Second Best offer, seen by BBC Scotland News, Watt said he had made an official offer to buy back Brewdog.
+He wrote: "If successful, everyone who has signed up to Second Best will own the same stake in Brewdog they once held. For free."
+Watt added that the firm "should be owned by the equity punks and I will endeavour to ensure that happens".
+The Aberdeenshire businessman was previously involved in a bid to buy back the firm following its collapse, but lost out to Tilray.
+Disclosure: The Truth about Brewdog
+Just how ‘punk’ is Brewdog? Mark Daly investigates the truth behind the beer company’s marketing and financial hype.
+Watt recently apologised to staff and investors for the "many mistakes" made in the management of the company, admitting that it tried to diversify too quickly.
+Brewdog's brash marketing style had regularly sparked controversy, but the firm also faced criticism for its treatment of investors and staff.
+A 2022 a BBC Disclosure investigation uncovered claims of inappropriate behaviour by Watt towards female staff, and revealed that Brewdog violated import laws and fabricated many of its marketing stories.
+In 2024, the firm faced a backlash after revealing it would no longer hire new staff on the real living wage, instead paying the lower legal minimum wage.
+Watt denied any wrongdoing alleged in the film and threatened to sue the BBC. He later said he sometimes missed social cues because he has autism.
+A complaint to broadcasting regulator Ofcom was rejected.
+Brewdog said it was putting in a range of measures to improve workplace culture following the release of the programme.
+Tilray and Second Best have been asked to comment on Watt's letter.`,
+    bodyJa: `ブリュードッグの共同創設者ジェームス・ワット氏、ビール会社の買い戻しに向けた入札を開始
+- 公開されました
+ブリュードッグの共同創設者ジェームス・ワット氏は、クラフトビール事業が米国企業に売却されてから数カ月後に買い戻す提案を行ったと述べた。
+最盛期には、ブリュードッグは世界中に 4 つの醸造所と約 100 のパブを持ち、その価値は 10 億ドル以上と言われていました。
+しかし、同社は5億ポンド以上の負債を抱えて経営破綻し、数百人の雇用喪失につながった後、今年初めに飲料・医療用大麻会社ティルレイに買収された。
+約20年前にマーティン・ディッキーとともにアバディーンシャーで同社を共同設立したワット氏は、ブリュードッグの「パンクのための株式」制度の投資家は、彼の買収提案が成功すれば株式を「無料」で受け取ることになると述べた。
+Brewdog に 12,000 ポンド投資しました - すべて失ったと思います
+- 2 月 18 日公開
+約2万人がこの制度に投資し、通常は1株あたり20～30ポンドの株式に約500ポンドを費やした。会社が倒産したため、彼らは無価値になってしまいました。
+ワット氏は2024年に最高経営責任者を退任し、新たに創設された「キャプテン兼共同創設者」の役職に移った。ディッキー氏は個人的な理由を理由に昨年会社を辞めた。
+両氏は2017年に同社株を米国のプライベートエクイティファンドTSGに売却し、それぞれ5000万ポンドを稼いでいた。
+ブリュードッグを辞めた後、ワットは新しいビールブランド「セカンド・ベスト」を立ち上げ、株式の20％近くをエクイティ・フォー・パンクスへの投資で損失を被った人々に提供した。
+元投資家らはBBCに対し、こうした計画には懐疑的だと語った。
+ワット氏から投資家へのメール
+BBCスコットランドニュースが見たところ、ワット氏はセカンドベストオファーにサインアップした人たちに宛てた電子メールの中で、ブリュードッグ社を買い戻す正式オファーを出したと述べた。
+同氏は、「成功すれば、セカンドベストにサインアップした全員が、かつて保有していたブリュードッグ株と同じ株を無料で所有することになる。」と書いている。
+ワット氏は、同社は「株のパンクたちが所有するべきであり、私はそれが確実に実現するよう努力する」と付け加えた。
+アバディーンシャーの実業家である同氏は以前、経営破綻後の同社の買い戻し入札に参加していたが、ティルレイに敗れた。
+情報開示: ブリュードッグについての真実
+Brewdog はどれほど「パンク」なのでしょうか?マーク・デイリーは、ビール会社のマーケティングと財務上の誇大広告の背後にある真実を調査します。
+ワット氏は最近、同社の経営で犯した「多くの間違い」についてスタッフと投資家に謝罪し、多角化を急ぎすぎたことを認めた。
+ブリュードッグの大胆なマーケティングスタイルは定期的に物議を醸してきたが、同社は投資家やスタッフの扱いについても批判にさらされていた。
+2022年のBBCディスクロージャー調査では、ワットによる女性スタッフに対する不適切な行為の主張が明らかになり、ブリュードッグが輸入法に違反し、マーケティング記事の多くを捏造していたことが明らかになった。
+同社は2024年、今後は実質生活賃金で新規スタッフを雇用せず、代わりに低い法定最低賃金を支払うと明らかにし、反発に直面した。
+ワット氏は映画内での不正行為を否定し、BBCを訴えると脅した。彼は後に、自閉症のため社会的な合図を見逃すことがあると語った。
+放送規制当局Ofcomへの申し立ては却下された。
+ブリュードッグは、プログラムのリリース後、職場文化を改善するためにさまざまな措置を講じていると述べた。
+ティルレイとセカンド・ベストはワットの書簡についてコメントを求められている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c7vyv2v2vmzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-15T15:14:39+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b415/live/257ac930-8057-11f1-a142-eb8f669bef0c.jpg",
+    readTime: 4,
+  },
+  {
     id: "warren-buffett-on-the-market-today-it-s-af33f899",
     title: "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
     titleJa: "今日の市場でのウォーレン・バフェット氏：「誰もがギャンブルを好む中、価値観を見つけるのは難しい」",
@@ -1673,442 +2099,6 @@ BLSは、エネルギー指数がその減少に最も大きく寄与してお�
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "consumer-prices-rose-3-5-annually-in-jun-bbccdc58",
-    title: "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased",
-    titleJa: "6月の消費者物価は年率3.5％上昇したが、エネルギー価格の緩和を受けて予想を下回った",
-    summaryJa: "エネルギー価格の急騰が今年のインフレ急騰を少なくとも一時的に緩和したため、6月の消費者物価は過去6年以上で最大の下落を記録したと労働統計局が火曜日に報告した。米国経済全体の商品やサービスのコストを示す広範な指標である消費者物価指数は、全体的に予想を下回った。同月のCPIは季節調整済みで0.4％低下し、年間インフレ率は3.5％に低下した。",
-    bodyOriginal: `Consumer prices posted their biggest decline in more than six years during June as a sharp swoon in energy prices provided at least temporary relief from this year's inflation surge, the Bureau of Labor Statistics reported Tuesday.
-The consumer price index, a broad measure of costs for goods and services across the U.S. economy, was lower than expected across the board. The CPI fell a seasonally adjusted 0.4% for the month, bringing the annual inflation rate down to 3.5%.
-Economists surveyed by Dow Jones had been looking for a drop of 0.2% and an inflation rate of 3.8%, following the 4.2% reading in May. The monthly decline in headline inflation was the biggest since April 2020.
-Core inflation, which excludes food and energy, was flat on the month, putting the 12-month rate at 2.6%. The consensus forecast was for respective increases of 0.2% and 2.9%, following a 2.9% May level.
-The energy index slumped 5.7% in June, its biggest monthly drop since April 2020, though it still surged 15.7% on an annual basis, pushed by a 26.7% gain for gasoline. However, gasoline and fuel oil both saw decreases of more than 9% in June.
-In addition, services costs, which are closely watched by Federal Reserve policymakers for longer-run inflation trends, moderated significantly. Services excluding energy costs were flat, with shelter rising just 0.1% and transportation services posting a 0.3% decline.
-Food prices rose 0.2%, while new vehicles were flat and used cars and trucks saw a 0.2% decline. Apparel prices, which are sensitive to both energy and tariff inputs, fell 0.6%.
-Stock market futures were mostly positive following the report while Treasury yields were sharply lower. Traders continued to expect the Fed to hike in September, though they lowered the odds to 63% from better than 75% a day ago, according to the CME's FedWatch measure of futures prices.
-The Fed currently targets its key overnight borrowing rate in a range between 3.5%-3.75%.
-"June finally brought some relief on inflation," said Heather Long, chief economist at Navy Federal Credit Union. "This takes the pressure off the Federal Reserve and allows the central bank to wait and see what happens. The concern is that this relief will be short-lived as the war in Iran re-starts. It's too uncertain to know how the inflation story ends."
-Though the inflation readings provided some hope, they are unlikely to motivate Federal Reserve officials to lower interest rates anytime soon, with the central bank broadly expected to raise its benchmark rate in September. Fed Governor Christopher Waller said Monday that it would take several months of positive readings to convince him that inflation is moving back to the central bank's 2% target.
-The report follows tough talk from Fed officials about inflation. Following their June meeting, policymakers released a statement flatly saying the rate-setting Federal Open Market Committee "will deliver price stability."
-New Fed Chairman Kevin Warsh, while previously expressing a belief that interest rates could be lowered in the future, has made controlling inflation a centerpiece of his message since taking office in May.
-"The Fed's number one objective is to get monetary policy right — or as near to it as we possibly can." Warsh said in remarks to Congress set for delivery Tuesday. "That is our clear and constant aim, the star we steer by. And if we get policy right — and we will — the inflation surge of the last five years will be a thing of the past."
-Easing inflation could become temporary depending on how things play out in the Middle East.
-An lessening of hostilities helped drive oil costs about 25% lower in June, but President Donald Trump last week declared a ceasefire with Iran over as the two sides exchanged attacks. Oil spiked Monday and was higher again Tuesday.
-"The longer the conflict drags on, the higher the probability that the Fed will have to hike and back its promise from Warsh's first meeting as Chair to 'deliver on price stability,'" said Ryan Weldon, investment director at IFM Investors.`,
-    bodyJa: `エネルギー価格の急騰が今年のインフレ急騰を少なくとも一時的に緩和したため、6月の消費者物価は過去6年以上で最大の下落を記録したと労働統計局が火曜日に報告した。
-米国経済全体の商品やサービスのコストを示す広範な指標である消費者物価指数は、全体的に予想を下回った。同月のCPIは季節調整済みで0.4％低下し、年間インフレ率は3.5％に低下した。
-ダウ・ジョーンズが調査したエコノミストらは、5月の4.2％に続き、0.2％の下落と3.8％のインフレ率を予想していた。総合インフレ率の月間下落率は2020年4月以来最大となった。
-食品とエネルギーを除いたコアインフレ率は前月比横ばいで、１２カ月のインフレ率は２．６％となった。コンセンサス予想は５月の２．９％水準に続き、それぞれ０．２％増と２．９％増だった。
-6月のエネルギー指数は5.7％下落し、月としては2020年4月以来最大の下落となったが、それでも年率ベースではガソリンの26.7％上昇に押されて15.7％上昇した。しかし、6月にはガソリンと燃料油がともに9％以上減少した。
-さらに、連邦準備理事会の政策当局者が長期的なインフレ傾向を注視しているサービスコストも大幅に減少した。エネルギーコストを除くサービスは横ばいで、避難所はわずか0.1%の上昇にとどまり、交通サービスは0.3%の減少となった。
-食品価格は０．２％上昇したが、新車は横ばい、中古車とトラックは０．２％下落した。エネルギーと関税投入量の両方に影響を受けやすいアパレル価格は０．６％下落した。
-この報道を受けて株式市場の先物相場はおおむねプラスとなったが、米国債利回りは大幅に低下した。 ＣＭＥのフェドウォッチによる先物価格指標によると、トレーダーらは引き続きＦＲＢが９月に利上げすると予想しているが、その確率は前日の７５％超から６３％に引き下げられた。
-FRBは現在、主要な翌日物借入金利の目標を3.5％─3.75％の範囲に設定している。
-海軍連邦信用組合の首席エコノミスト、ヘザー・ロング氏は「６月になってようやくインフレがいくらか緩和された」と述べた。 「これによりFRBからの圧力がなくなり、中央銀行は様子を見守ることができるようになる。懸念されるのは、イラン戦争が再開する中、この救済措置も長くは続かないことだ。インフレの結末がどうなるのかは不確実すぎて分からない。」
-インフレ統計はある程度の希望を与えたものの、連邦準備理事会当局者が近いうちに金利を引き下げる動機となる可能性は低く、中央銀行は9月に基準金利を引き上げると広く予想されている。 FRBのクリストファー・ウォーラー総裁は月曜日、インフレ率が中銀の目標である2％に戻りつつあると確信するには、前向きな読みが数カ月かかるだろうと述べた。
-この報告書は、インフレに関するFRB当局者の厳しい発言を受けてのものだ。 6月の会合後、政策当局者らは声明を発表し、金利設定を行う連邦公開市場委員会が「物価の安定を実現する」とキッパリ述べた。
-ケビン・ウォーシュ新FRB議長は以前、将来金利が引き下げられる可能性があるとの考えを表明していたが、5月の就任以来、インフレ抑制をメッセージの中心に据えている。
-「FRBの第一の目的は、金融政策を正しく、あるいは可能な限りそれに近づけることだ。」ウォーシュ氏は火曜日に予定されている議会での発言の中でこう述べた。 「それが我々の明確かつ不変の目標であり、我々が舵を切る星だ。そして我々が政策を正しく行えば、そして我々はそうするだろうが、過去5年間のインフレ急増は過去のものになるだろう。」
-中東情勢の展開次第では、インフレの緩和は一時的なものになる可能性がある。
-敵対行為の緩和により、6月の石油価格は約25％下落したが、先週、両国が攻撃を交わす中、ドナルド・トランプ大統領はイランとの停戦を宣言した。原油は月曜日に急騰し、火曜日には再び上昇した。
-ＩＦＭインベスターズの投資ディレクター、ライアン・ウェルドン氏は「紛争が長引けば長引くほど、ＦＲＢが利上げし、ウォーシュ議長としての初会合での『物価安定の実現』という約束を支持しなければならない可能性が高くなる」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/consumer-price-index-inflation-report-june-2026.html",
-    publishedAt: "2026-07-14T14:02:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "ibm-stock-craters-23-after-issuing-secon-cf9d3b26",
-    title: "IBM stock craters 23% after issuing second-quarter earnings warning",
-    titleJa: "第2四半期の業績に関する警告発表後、IBMの株価は23％急落",
-    summaryJa: "ハードウェア、ソフトウェア、コンサルティングを提供する同社が発表した第2四半期の暫定決算が予想を下回ったことを受け、火曜日のインターナショナル・ビジネス・マシーンズの株価は23％下落した。株価は２３．７％下落した１９８７年１０月１９日以来の最悪のペースとなっている。",
-    bodyOriginal: `International Business Machines shares slipped 23% on Tuesday after the hardware, software and consulting provider released preliminary second-quarter results that fell short of expectations.
-The stock is pacing its worst day since Oct. 19, 1987, when shares fell 23.7%.
-The tech company reported adjusted earnings of $2.93 a share on revenue of $17.2 billion, below analysts' expectations for earnings of $3.01 a share and revenue of $17.86 billion, according to FactSet.
-CEO Arvind Krishna blamed the shortfall on weakness in the software and infrastructure business, as clients shifted spending toward hardware purchases such as memory chips.
-"In the last few weeks of June, we saw clients shift their quarterly capex spend toward servers, storage, and memory purchases to secure supply-constrained infrastructure ahead of expected price increases," Krishna wrote in a letter to IBM investors. "While we anticipated some supply chain related impact in our expectations, we did not anticipate the magnitude of the capex reprioritization."
-"These conditions require our teams to execute perfectly, and this quarter we faltered. We did not adapt and move quickly enough, and numerous large deals failed to close on the timelines we expected, driving the majority of our shortfall," Krishna added.
-In IBM's previous quarter, the company's software revenue grew 11% to $7.05 billion in the first quarter, helping lift the company to report stronger-than-expected results that returned an adjusted $1.91 per share versus $1.81 expected by analysts.
-First-quarter revenue came in at $15.92 billion, also topping estimates of $15.62 billion.
-Tuesday's slip comes as fears continue that the growth in artificial intelligence tools will disrupt the businesses of the biggest software companies.
-Memory names like Micron and SK Hynix have been among the latest beneficiaries of the buildout, as demand linked to running and processing AI workloads skyrockets.`,
-    bodyJa: `ハードウェア、ソフトウェア、コンサルティングを提供する同社が発表した第2四半期の暫定決算が予想を下回ったことを受け、火曜日のインターナショナル・ビジネス・マシーンズの株価は23％下落した。
-株価は２３．７％下落した１９８７年１０月１９日以来の最悪のペースとなっている。
-ファクトセットによると、同社の調整後利益は1株当たり2.93ドル、売上高は172億ドルと報告されており、アナリスト予想の1株利益3.01ドル、売上高178億6,000万ドルを下回った。
-CEOのアルビンド・クリシュナ氏は、顧客がメモリチップなどのハードウェアの購入に支出を移したため、この不足はソフトウェアおよびインフラ事業の弱さが原因だと主張した。
-クリシュナ氏はIBM投資家に宛てた書簡の中で「6月最後の数週間、顧客が四半期ごとの設備投資をサーバー、ストレージ、メモリの購入に振り替え、予想される価格上昇に先立って供給に制約のあるインフラを確保するのを目にした」と述べた。 「私たちの予想ではサプライチェーン関連の影響はある程度予想していましたが、設備投資の再優先順位付けの規模は予想していませんでした。」
-「これらの状況では、チームが完璧に遂行することが求められますが、この四半期では私たちは足踏みしました。私たちは適応して迅速に行動することができず、多くの大型取引が予想通りのスケジュールで成立しなかったため、不足額の大部分が生じました」とクリシュナ氏は付け加えた。
-IBMの前四半期、第1四半期の同社のソフトウェア収益は11%増の70億5000万ドルとなり、アナリスト予想の1.81ドルに対し、調整後の1株利益は1.91ドルという予想を上回る好調な業績を同社が報告するのに貢献した。
-第１・四半期の売上高は１５９億２０００万ドルで、予想の１５６億２０００万ドルも上回った。
-火曜日の下落は、人工知能ツールの成長が最大手のソフトウェア企業のビジネスを混乱させるのではないかとの懸念が続く中で起きた。
-AI ワークロードの実行と処理に関連する需要が急増する中、Micron や SK Hynix などのメモリ企業もこの増強の恩恵を最近受けています。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-    publishedAt: "2026-07-14T13:57:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "us-inflation-rate-eases-to-3-5-as-gasoli-90da30b9",
-    title: "US inflation rate eases to 3.5% as gasoline prices fall",
-    titleJa: "ガソリン価格下落で米国のインフレ率は3.5％に低下",
-    summaryJa: "ガソリン価格下落で米国のインフレ率は3.5％に低下- 公開されました",
-    bodyOriginal: `US inflation rate eases to 3.5% as gasoline prices fall
-- Published
-Inflation in the US eased last month as the cost of filling up at the pumps fell, official figures show.
-Prices rose 3.5% in the year to June, according to the Bureau of Labor Statistics (BLS), down from 4.2% recorded in May.
-Gasoline prices decreased 9.7% last month, but are still much more expensive than a year ago. On Tuesday, the national average had risen to $3.86 a gallon from $3.79 a week ago, according to motorist advocacy group AAA.
-While the rate of inflation has fallen more than expected, the easing of price rises could be short-lived due to the renewed conflict in the Middle East sending global oil prices up again.
-The price of a barrel of Brent crude, which is the global benchmark for oil, hit $87 on Tuesday, an increase of almost $10 in the space of 24 hours.
-The spike in the price of the commodity came after the fresh military strikes on Iran by the US this week, with President Donald Trump declaring a new naval blockade in the Strait of Hormuz and a 20% charge on all cargo being shipped through the key waterway used for global trade.
-The escalation has already led analysts to predict that inflation will rise in the coming months and that interest rate cuts are unlikely anytime soon.
-"Gasoline prices are already back above June levels, meaning the next inflation report will heat up again," said Ipek Ozkardeskaya, senior analyst at Swissquote Bank.
-Ahead of his first address to the US Congress later, newly appointed Federal Reserve chairman Kevin Warsh said his committee had "no tolerance to persistently elevated inflation".
-"We share a resolute commitment to restoring price stability," he said in prepared comments.
-The Fed held US interest rates between 3.5% and 3.75% at Warsh's first meeting in June and some analysts suggest rates could be raised in the coming months.
-President Trump pushed Warsh's predecessor, Jerome Powell, to cut interest rates, and has made it clear he expects Warsh to fulfil his demand for reductions in borrowing costs for Americans.
-But Lindsay James, investment strategist at wealth management firm Quilter, said despite Warsh having got his "feet under the table, it does not mean rate cuts are looming in order to appease President Trump".
-"Instead, we are likely to see a conservative outlook from the Federal Reserve when it meets in a fortnight," she added.
-While energy prices fell last month, food price inflation increased further, with the cost of meat, poultry, fish and eggs going up, along with dairy products and cereals.
-However, eating out remains more expensive, with meals on average costing 3.7% more than they did last year.
-While the overall inflation rate fell in June, lower inflation does not mean that prices are getting cheaper, it is just that they are rising at a slower pace.
-So-called core inflation, which strips out food and energy prices that are seen as volatile, remained unchanged in June at 2.6%.
-That figure is what will be closely monitored by the Fed when it comes to deciding whether to cut, hold or raise interest rates.
-Federal Reserve governor Christopher Waller warned on Monday that policymakers would have to consider raising rates.
-"If we get another hot reading on core inflation this week, then the FOMC (Federal Open Market Committee) will need to consider tightening monetary policy in the near term," Waller told the New York Association for Business Economics.
-"Sternly staring at inflation until it melts before our withering gaze is not an option."
-The theory behind increasing interest rates to tackle inflation is that by making borrowing more expensive, more people will cut back on spending and that leads to demand for goods falling and price rises easing.
-But it is a balancing act, as high interest rates can harm the economy as businesses may hold off from investing in production and jobs. Interest rate cuts, which Trump has called for, can boost the economy by lowering borrowing costs and encouraging spending and investment.
-On Tuesday, more than a fifth of small business owners in the US reported that inflation was their "single most important" problem, the highest amount for almost two years, according to the National Federation of Independent Business.`,
-    bodyJa: `ガソリン価格下落で米国のインフレ率は3.5％に低下
-- 公開されました
-公式統計によると、ポンプでの給油コストが低下したため、米国のインフレは先月緩和した。
-労働統計局（BLS）によると、6月までの1年間に物価は3.5％上昇し、5月の4.2％上昇から鈍化した。
-ガソリン価格は先月９．７％下落したが、それでも１年前に比べてかなり高価だ。自動車運転者擁護団体AAAによると、火曜日の全国平均は1ガロン当たり3.86ドルと、1週間前の3.79ドルから上昇した。
-インフレ率は予想よりも低下しているが、中東紛争の再燃により世界の原油価格が再び上昇しているため、価格上昇の緩和は長く続かない可能性がある。
-石油の世界的なベンチマークであるブレント原油の価格は火曜日に1バレル＝87ドルに達し、24時間でほぼ10ドル上昇した。
-この商品価格の急騰は、今週米国がイランに対する新たな軍事攻撃を行った後に生じ、ドナルド・トランプ大統領はホルムズ海峡での新たな海上封鎖と、世界貿易に使用される重要な水路を通じて輸送されるすべての貨物に20％の関税を課すことを宣言した。
-この事態のエスカレーションにより、アナリストらはすでにインフレ率が今後数カ月間に上昇し、近い将来には利下げの可能性は低いと予想している。
-スイスクォート銀行のシニアアナリスト、イペク・オズカルデスカヤ氏は「ガソリン価格はすでに６月の水準を上回っており、次回のインフレ報告が再び加熱することを意味している」と述べた。
-新たにFRB議長に任命されたケビン・ウォーシュ氏は、その後米議会での初演説を前に、同委員会は「持続的なインフレ高進を容認しない」と述べた。
-同氏は用意したコメントで「われわれは物価安定の回復に向けた断固たる決意を共有している」と述べた。
-FRBは6月のウォーシュ総裁の最初の会合で米金利を3.5％から3.75％の間に据え置いており、一部のアナリストは今後数カ月以内に利上げが行われる可能性があると示唆している。
-トランプ大統領はウォーシュ氏の前任者ジェローム・パウエル氏に利下げを促し、米国人の借り入れコスト削減を求めるウォーシュ氏の要求を満たすことを期待していることを明らかにした。
-しかし、資産管理会社キルターの投資ストラテジスト、リンジー・ジェームス氏は、ウォーシュ氏が「テーブルの下に足を踏み入れたとしても、それはトランプ大統領をなだめるために利下げが迫っていることを意味するものではない」と述べた。
-「むしろ、２週間後の連邦準備理事会会合では、保守的な見通しが示される可能性が高い」と同氏は付け加えた。
-エネルギー価格は先月下落したが、食品価格のインフレはさらに進み、肉、家禽、魚、卵の価格が乳製品や穀物とともに上昇した。
-しかし、外食は依然として高価であり、食事の平均費用は昨年よりも 3.7% 高くなりました。
-6月に全体的なインフレ率は低下しましたが、インフレ率の低下は物価が安くなっているということではなく、物価の上昇ペースが遅いというだけです。
-変動しやすいとされる食品やエネルギー価格を差し引いたいわゆるコアインフレ率は、6月は2.6％で横ばいとなった。
-FRBが利下げ、据え置き、利上げのいずれを行うかを決定する際に、この数字を注意深く監視することになる。
-米連邦準備理事会（FRB）のクリストファー・ウォーラー総裁は月曜日、政策当局者は利上げを検討する必要があると警告した。
-ウォラー氏はニューヨーク経済協会に対し、「今週、コアインフレに関する新たな有力な指標が得られれば、ＦＯＭＣ（連邦公開市場委員会）は短期的に金融政策の引き締めを検討する必要があるだろう」と述べた。
-「私たちの萎縮する視線の前に、インフレが溶けるまで厳しい目でインフレを見つめることは選択肢ではない。」
-インフレに対処するための金利上昇の背後にある理論は、借入がより高価になることで、より多くの人が支出を削減し、それが商品の需要の低下と価格上昇の緩和につながるというものです。
-しかし、高金利は企業が生産や雇用への投資を控える可能性があり、経済に悪影響を与える可能性があるため、これはバランスをとるための措置である。トランプ大統領が要求している金利引き下げは、借り入れコストを低下させ、支出と投資を促すことで景気を押し上げることができる。
-全米独立ビジネス連盟によると、火曜日、米国の中小企業経営者の5分の1以上がインフレが「最も重要な」問題であると報告し、その金額はほぼ2年ぶりの最高額となった。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T13:51:22+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c00/live/75181c70-7f7d-11f1-b1fb-a927e22d7e8b.jpg",
-    readTime: 5,
-  },
-  {
-    id: "sen-tim-scott-wants-to-hear-from-warsh-o-58728556",
-    title: "Sen. Tim Scott wants to hear from Warsh on data centers and artificial intelligence",
-    titleJa: "ティム・スコット上院議員はデータセンターと人工知能についてウォーシュ氏から聞きたいと考えている",
-    summaryJa: "上院銀行委員会のティム・スコット委員長は火曜日、連邦準備制度理事会のケビン・ウォーシュ議長がデータセンターと人工知能について話すのを聞きたいと述べた。共和党、サウスカロライナ州のスコット氏は、水曜の委員会でウォーシュ氏をFRB議長として初めて迎える予定だ。同氏は半年に一度の金融政策報告書を議会に提出するようだ。しかし、CNBCのSquawk Boxに出演した際に聞きたいことを尋ねられたスコット氏は、会話がより広範になることを期待していると示唆した。",
-    bodyOriginal: `Senate Banking Committee Chair Tim Scott said Tuesday he wants to hear Federal Reserve Chairman Kevin Warsh speak about data centers and artificial intelligence.
-Scott, R-S.C., will host Warsh before his committee on Wednesday for the first time as Fed chairman. He's appearing to deliver the semiannual monetary policy report to Congress. But Scott signaled he hopes the conversation will be broader when asked what he wants to hear during an appearance on CNBC's Squawk Box.
-"The dual mandate of the Fed is really important: price stability employment, I also think we have to drill into the artificial intelligence conversation in South Carolina," Scott said. "The real question we should ask is how do we make sure that these data centers pay their own way as it relates to electricity and water use."
-Scott noted that in South Carolina, some parties want to ban the data centers that are driving AI. Data center moratoriums are gaining ground across the country as voters recoil from increased utility bills.
-"When you zoom out, the most important question is who wins the future? Is it China or is it America? Artificial intelligence will be that which threads that needle," he said. "I want to make sure that we are on the right side of history, and frankly we have to solve the problems at home so that we can win the issue as a country."`,
-    bodyJa: `上院銀行委員会のティム・スコット委員長は火曜日、連邦準備制度理事会のケビン・ウォーシュ議長がデータセンターと人工知能について話すのを聞きたいと述べた。
-共和党、サウスカロライナ州のスコット氏は、水曜の委員会でウォーシュ氏をFRB議長として初めて迎える予定だ。同氏は半年に一度の金融政策報告書を議会に提出するようだ。しかし、CNBCのSquawk Boxに出演した際に聞きたいことを尋ねられたスコット氏は、会話がより広範になることを期待していると示唆した。
-スコット氏は「FRBの二重の使命は非常に重要だ。物価安定、雇用、そしてサウスカロライナ州での人工知能に関する会話も掘り下げる必要があると思う」と述べた。 「私たちが問うべき真の問題は、電気と水の使用に関連して、これらのデータセンターが独自に支払うことをどのように保証するかということです。」
-スコット氏は、サウスカロライナ州では、一部の政党がAIを推進するデータセンターの禁止を求めていると指摘した。有権者が公共料金の値上げに反発する中、データセンターの一時停止が全米で広まりつつある。
-「ズームアウトすると、最も重要な問題は、誰が未来を勝ち取るかということだ。中国なのか、それともアメリカなのか。どの糸を針に刺すかは人工知能だ」と同氏は語った。 「私たちが歴史の正しい側にいることを確認したい。率直に言って、国としてこの問題に勝つためには国内の問題を解決しなければならない。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/tim-scott-kevin-warsh-data-centers-artificial-intelligence.html",
-    publishedAt: "2026-07-14T13:36:04+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "spacex-alumni-building-remote-controlled-4a9b722c",
-    title: "SpaceX alumni building remote-controlled construction equipment land $115 million fund round",
-    titleJa: "SpaceX同窓会が遠隔操作の建設機械用地を建設、1億1500万ドルの資金調達ラウンド",
-    summaryJa: "スペースX社のイーロン・マスク氏が地球外生命体を伴う宇宙経済を投資家に売り込む中、同社の元エンジニア2人が設立した設立2年の建設スタートアップ企業は、惑星間インフラの将来に向けた態勢を整えている。テラファーマは火曜日、クライナー・パーキンス、ベイン・キャピタル・ベンチャーズ、防衛技術企業スペースX、アンドゥリル、ハドリアンからの投資による資金調達ラウンドで1億1500万ドルを調達したと発表した。",
-    bodyOriginal: `As SpaceX's Elon Musk sells investors on a space economy with life beyond Earth, a two-year-old construction startup founded by two of the company's former engineers is positioning itself for the future of interplanetary infrastructure.
-TerraFirma on Tuesday said it raised $115 million in a funding round with investments from Kleiner Perkins, Bain Capital Ventures, and defense tech companies SpaceX, Anduril and Hadrian.
-The Austin-based company uses a combination of interfaces, including Xbox controllers, to remotely operate construction equipment, and says its tools cut costs and improve safety. Long-term, the company wants to build on Mars.
-"Infrastructure is a bottleneck to basically every single industry that needs to innovate over the next couple of decades," CEO and co-founder Noah Schochet told CNBC. "There's such a deficit of people taking all of the great tech that has existed and been built for the last couple decades and bringing it" to the construction industry.
-The company plans to use the funding to hire 300 employees over the next year and build both a Texas factory and a mission control center.
-Terrafirma is part of a growing network of startups spun out of SpaceX that are looking to capitalize on the budding space economy. Other famous startups from former SpaceX alumni include hypersonic weapons maker Castelion and Realativity Space.
-SpaceX's historic $86 billion IPO last month, coupled with NASA's push to establish a lunar base on the Moon and Mars, has sparked fresh optimism for the sector.
-Over time, this future could include moving industry to Mars or the Moon to build solar cells and more easily launch data centers into space.
-Schochet and Noah McGuinness, the company's founders, met about a decade ago on the first day of engineering class at Princeton University. Over the next four years, the pair endured very similar course loads and worked on every project.
-After graduation, both founders landed at SpaceX. McGuinness worked on the government satellite program known as Starshield, while Schochet worked on Starlink and later Starship.
-While there, the team was under constant pressure to build and quickly scale, sometimes working in difficult conditions and facing infrastructure struggles, like reliable bathrooms.
-At the same time, the construction industry was working at a snail's pace, which sparked an idea: bring the speed of building at SpaceX to the construction industry.
-"We're building rockets the size of skyscrapers at one a month, and all those processes for mass manufacturing automation, none of them are showing up in construction," Schochet said.
-Looking back, the pair described the experience as physically and mentally "rough," with days spent sleeping at their desks, but said it was "all worth it."
-About half of the company's engineering team also previously worked at SpaceX, Tesla and the Boring Company.
-For now, Terrafirma is set on proving its technology on Earth, with recent commercial projects including a sports arena and a Starbucks.
-But the firm hasn't lost sight of its long-term goal and plans to bid on any future moon projects.
-"The problem is you don't want to build a community based around a space economy that doesn't yet exist," Schochet said. "You want to build it around the economic drivers that truly drive the world today."`,
-    bodyJa: `スペースX社のイーロン・マスク氏が地球外生命体を伴う宇宙経済を投資家に売り込む中、同社の元エンジニア2人が設立した設立2年の建設スタートアップ企業は、惑星間インフラの将来に向けた態勢を整えている。
-テラファーマは火曜日、クライナー・パーキンス、ベイン・キャピタル・ベンチャーズ、防衛技術企業スペースX、アンドゥリル、ハドリアンからの投資による資金調達ラウンドで1億1500万ドルを調達したと発表した。
-オースティンに拠点を置く同社は、Xbox コントローラーなどのインターフェースを組み合わせて建設機械を遠隔操作しており、そのツールによってコストが削減され、安全性が向上すると述べています。長期的には、同社は火星に建設したいと考えている。
-CEO兼共同創設者のノア・ショシェ氏はCNBCに対し、「今後数十年にわたって革新が必要な基本的にあらゆる業界にとって、インフラストラクチャがボトルネックとなっている」と語った。 「過去数十年間に存在し、構築されてきた素晴らしい技術をすべて取り入れて、それを建設業界に持ち込む人材が非常に不足している。」
-同社はこの資金を活用して今後1年間で従業員300人を雇用し、テキサス工場とミッションコントロールセンターの両方を建設する計画だ。
-Terrafirma は、新興の宇宙経済を活用しようとしている SpaceX からスピンアウトした新興企業の拡大するネットワークの一部です。 SpaceX の元卒業生による他の有名なスタートアップには、極超音速兵器メーカーの Castelion や Realativity Space などがあります。
-先月のSpaceXの歴史的な860億ドルのIPOは、月と火星の月面基地設立を目指すNASAの推進と相まって、この分野に新たな楽観的な見方を引き起こした。
-時間が経つにつれて、この未来には産業を火星や月に移して太陽電池を構築し、より簡単に宇宙にデータセンターを立ち上げることが含まれる可能性があります。
-同社の創設者であるショットとノア・マクギネスは、約10年前、プリンストン大学の工学クラスの初日に出会った。次の 4 年間、二人はほぼ同じような授業負荷に耐え、あらゆるプロジェクトに取り組みました。
-卒業後、両創設者はSpaceXに入社しました。マクギネスはスターシールドとして知られる政府の衛星プログラムに取り組み、ショシェはスターリンクとその後のスターシップに取り組みました。
-滞在中、チームは構築と迅速な拡張という常にプレッシャーにさらされ、時には困難な状況で作業し、信頼性の高いトイレなどのインフラストラクチャの問題に直面することもありました。
-同時に、建設業界はカタツムリのようなペースで仕事をしていたため、SpaceX の建設のスピードを建設業界にもたらすというアイデアが生まれました。
-「私たちは月に1基のペースで超高層ビルほどの大きさのロケットを製造しているが、大量生産自動化のためのプロセスはすべて建設現場には現れていない」とショーシェ氏は語った。
-振り返ってみると、二人はその経験を肉体的にも精神的にも「大変」で、何日も机に向かって寝て過ごしたと述べたが、「それだけの価値はあった」と語った。
-同社のエンジニアリング チームの約半数は、以前に SpaceX、Tesla、および Boring Company で働いていました。
-テラファーマは今のところ、スポーツアリーナやスターバックスなどの最近の商業プロジェクトで、その技術を地球上で証明することに取り組んでいる。
-しかし同社は長期的な目標を見失っておらず、将来の月プロジェクトに入札する予定だ。
-「問題は、まだ存在していない宇宙経済を基盤としたコミュニティを構築したくないということです」とショシェ氏は言う。 「今日の世界を真に動かす経済的原動力を中心に構築したいと考えています。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/terrafirma-construction-tech-spacex.html",
-    publishedAt: "2026-07-14T13:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "warsh-promises-inflation-will-be-a-thing-063a73a8",
-    title: "Warsh promises inflation will be a 'thing of the past,' cites benefits of AI investment boom",
-    titleJa: "ウォーシュ氏、AI投資ブームの恩恵を引き合いに出し、インフレは「過去のもの」になると約束",
-    summaryJa: "米連邦準備制度理事会（FRB）のケビン・ウォーシュ議長は火曜日、「金融政策を正しく行い」、過去5年間中央銀行を悩ませてきたインフレを打破すると誓った。ウォーシュ氏は今週、議会の別の委員会への発言で、インフレに関する最近の厳しい発言を繰り返した一方で、米国経済の強さと、特に人工知能を含む企業投資から得られる恩恵についても強調した。",
-    bodyOriginal: `Federal Reserve Chairman Kevin Warsh pledged Tuesday to "get monetary policy right" and defeat the inflation that has bedeviled the central bank for the past five years.
-In remarks for delivery to separate congressional panels this week, Warsh reiterated his recent tough talk on inflation, while also touting the strength of the U.S. economy and benefits coming from business investment, particularly involving artificial intelligence.
-"Today we are at a hinge point in history. It's up to all of us to meet this moment," said Warsh, who speaks Tuesday to the House Financial Services Committee then the Senate Banking Committee on Wednesday.
-"The Fed's number one objective is to get monetary policy right — or as near to it as we possibly can. That is our clear and constant aim, the star we steer by," he added. "And if we get policy right — and we will — the inflation surge of the last five years will be a thing of the past."
-The remarks come just two months into Warsh's term. Fed chairs are mandated to appear twice a year before Congress to deliver a monetary policy report then take legislators' questions.
-Warsh takes over a Fed that has scene inflation exceed its 2% mandate since 2021. During his confirmation hearing earlier this year, the chairman called inflation "a choice," and emphasized repeatedly the importance of bringing down the cost of living during his first news conference.
-Similar to his predecessor, Jerome Powell, Warsh noted that the persistently high inflation levels have "been an undue burden on American households and businesses" who have faced higher costs across the board, with the latest surge coming in good part from soaring energy prices.
-"While monthly price fluctuations are inevitable — especially in an unsettled world — underlying inflation over longer time horizons is determined largely by monetary policy," he said. "The members of our Committee have no tolerance for persistently elevated inflation. And we share a resolute commitment to restoring price stability."
-On broader conditions, Warsh said the economy "is expanding at a solid pace, showing resilience in the face of recent developments."
-He pointed to business investment that he called "the most striking feature" of the current climate.
-"The rapid pace — which appears to be accelerating — reflects, in large part, the construction of data centers and the immense demand for the AI-related equipment and software that fill them," he said.
-"We don't know the extent to which the economy will benefit from the AI buildout," he added. "Yet it seems inevitable that what is now called 'AI investment' will soon be called just 'investment.'"
-Warsh previously has said he expects an AI productivity boom will prove disinflationary — a premise challenged by some economists as well as his fellow Fed policymakers.
-Elsewhere, Warsh further fleshed out the five task forces he has created to conduct a comprehensive review of the Fed's operations. The panels will examine the communications, technology, the balance sheet, economic data the Fed employs and the way it looks at inflation.
-Together, he said the groups are part of "a new chapter at the Federal Reserve," an extension of the "regime change" Warsh promised last year in a CNBC interview. However, whereas Warsh previously faulted "incumbents" at the Fed for institutional problems, he has taken a more conciliatory tone since he's been in office.
-"t's been a privilege to return to the Fed and to work again with so many talented and dedicated people I'm fortunate to call my colleague," he said.`,
-    bodyJa: `米連邦準備制度理事会（FRB）のケビン・ウォーシュ議長は火曜日、「金融政策を正しく行い」、過去5年間中央銀行を悩ませてきたインフレを打破すると誓った。
-ウォーシュ氏は今週、議会の別の委員会への発言で、インフレに関する最近の厳しい発言を繰り返した一方で、米国経済の強さと、特に人工知能を含む企業投資から得られる恩恵についても強調した。
-ウォーシュ氏は火曜日に下院金融サービス委員会、水曜日には上院銀行委員会で講演し、「今日、我々は歴史の岐路に立たされている。この瞬間を迎えられるかどうかは我々全員にかかっている」と述べた。
-同氏はさらに、「FRBの第一の目標は、金融政策を正しくすること、あるいはできる限りそれに近づけることだ。それがわれわれの明白かつ不変の目標であり、われわれが導く星だ」と付け加えた。 「そして政策を正しく行えば、そしてそうするだろうが、過去5年間のインフレ急増は過去のものになるだろう。」
-この発言はウォーシュ氏の任期が始まってわずか2カ月後に行われた。 FRB議長は年に2回議会に出頭して金融政策報告を行い、その後議員の質問に応じる義務がある。
-ウォーシュ氏は、2021年以降インフレ率が義務の2％を超えているFRBを引き継ぐ。今年初めの承認公聴会で議長はインフレを「選択」と呼び、最初の記者会見では生計費を引き下げることの重要性を繰り返し強調した。
-前任のジェローム・パウエル氏と同様、ウォーシュ氏は、高止まりするインフレ水準が「米国の家計や企業にとって不当な負担となっており」、全体的にコスト高に直面しており、最近の高騰はエネルギー価格の高騰による部分が大きいと指摘した。
-同氏は「月々の物価変動は避けられないが、特に不安定な世界においては、長期にわたるインフレの基礎となるものは主に金融政策によって決まる」と述べた。 「当委員会のメンバーは、持続的なインフレ高進を容認していない。そして、物価の安定を回復するという断固たる決意を共有している。」
-ウォーシュ氏は、より広範な状況について、経済は「堅実なペースで拡大しており、最近の動向に直面しても回復力を示している」と述べた。
-同氏は、現在の情勢の「最も顕著な特徴」と呼んだ企業投資を挙げた。
-同氏は、「このペースが加速しているように見えるのは、主にデータセンターの建設と、そこに設置されるAI関連機器やソフトウェアに対する膨大な需要を反映している」と述べた。
-同氏は「AIの発展によって経済がどの程度恩恵を受けるかは分からない」と付け加えた。 「しかし、現在『AI投資』と呼ばれているものが、近いうちに単に『投資』と呼ばれるようになるのは避けられないようだ。」
-ウォーシュ氏は以前、AIの生産性ブームがディスインフレをもたらすと予想していると述べたが、この前提には一部のエコノミストやFRBの政策立案者らも異議を唱えている。
-ウォーシュ氏は他の箇所で、FRBの運営の包括的な見直しを行うために創設した5つのタスクフォースをさらに具体化した。パネルディスカッションでは、通信、テクノロジー、バランスシート、FRBが採用する経済データ、インフレに対する見方などを調査する。
-同氏は、これらのグループは共に、ウォーシュ氏が昨年CNBCのインタビューで約束した「政権交代」の延長である「連邦準備制度の新たな章」の一部であると述べた。しかし、ウォーシュ氏は以前、FRBの「現職者」の制度上の問題を非難していたが、就任後はより融和的な態度をとっている。
-同氏は「FRBに戻り、同僚と呼べるほど多くの才能と献身的な人々と再び仕事ができるのは光栄だ」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html",
-    publishedAt: "2026-07-14T12:30:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "uk-wasted-10bn-on-ppe-that-left-nhs-staf-b5fff4c7",
-    title: "UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds",
-    titleJa: "英国は個人用保護具（PPE）に100億ポンドを無駄にし、NHS職員の保護が不十分なままになっていたことが新型コロナ調査で判明",
-    summaryJa: "英国は個人用保護具（PPE）に100億ポンドを無駄にし、NHS職員の保護が不十分なままになっていたことが新型コロナ調査で判明- 公開されました",
-    bodyOriginal: `UK wasted £10bn on PPE that left NHS staff poorly protected, Covid inquiry finds
-- Published
-The lives of NHS staff and patients were put at risk in the pandemic because of a lack of adequate personal protective equipment (PPE), with almost £10bn of taxpayers money wasted in a scramble to buy more, the Covid inquiry has said.
-The chair Baroness Hallett described the "vast" waste in pandemic procurement, amounting to £9.9bn – two-thirds of the £14.9bn the UK and devolved governments spent on PPE.
-The country entered the pandemic with its stockpile of masks, gowns and gloves in a "perilous state" and was "simply not ready to compete" in the global race to secure new supplies, added the chair.
-She criticised the controversial "VIP lane", which prioritised offers of PPE from those with political connections, as a "misguided" policy which undermined public confidence.
-But she said there was "no evidence of cronyism or corruption" by ministers or other officials when awarding the final contracts.
-When the cost of home testing kits and other equipment, such as ventilators, was included, the total amount spent by the government between January 2020 and June 2022 exceeded £42bn, the inquiry found.
-The UK's emergency stockpile of PPE, meant to last at least 15 weeks before being replenished, was running out by the end of March 2020 as demand from hospitals soared.
-Only a third of the masks in England's pandemic stockpile were usable, the inquiry found, while Scotland had no supplies of high-grade respiratory masks used in hospitals.
-At the time, care homes, GP surgeries and pharmacies were all expected to source their own PPE, something the report described as a "major failure in planning".
-Covid inquiry PPE report - key findings
-- Published1 hour ago
-What is the UK Covid inquiry and how does it work?
-- Published16 April
-Covid inquiry turns to PPE deals and the 'VIP lane'
-- Published3 March 2025
-Covid inquiry rejects last-minute bid from Michelle Mone
-- Published3 March 2025
-In total the UK government was forced to write off £9.9bn worth of PPE that was either unused or out of date, as well as £157m for unused healthcare equipment.
-The "ventilator challenge" programme, where suppliers were asked to develop breathing equipment at short notice, led to another £143m charge for designs that never made it into production.
-In Scotland approximately £8mn of healthcare equipment, including PPE and testing kits, was written off.
-In Wales £18m was spent on unused PPE and in Northern Ireland £43m of masks, gowns and gloves were at risk of expiry before they could be used.
-The inquiry said that, although it was better to have purchased too much PPE in a pandemic than too little, it would "clearly have been better if supply had been calibrated more closely with demand".
-"Better planning would have resulted in fairer, faster and less costly procurement decisions," the report concluded.
-Government contingency plans had "never been stress tested" and officials and ministers were "forced to improvise, establishing new emergency procurement and distribution systems within days".
-VIP lane failures
-In England, a so-called "VIP lane" – officially known as the high priority lane – was set up in the pandemic to award government PPE contracts.
-Introduced in April 2020, the idea was to treat offers to supply PPE with greater urgency if they came with a recommendation from ministers, MPs, members of the House of Lords, or other senior officials.
-At the time, the government said there was a "desperate need" to protect health and social care staff, and argued swift action was required to secure healthcare equipment.
-The inquiry criticised that policy as a "misguided attempt at prioritisation" that "embedded unfairness in emergency procurement".
-Some suppliers received favourable treatment because they had connections to the then Conservative government which "undermined trust at a moment when it needed it most".
-"The high priority lane should not have been established and must not be repeated," the report concluded.
-But Baroness Hallett said she had not identified cronyism or corruption on the part of ministers and officials when PPE contracts were finally awarded.
-PPE Medpro contracts
-In February 2025, the inquiry spent a day taking evidence about PPE Medpro, the firm linked to the businessman Doug Barrowman and his wife Baroness Michelle Mone.
-Both Barrowman and Mone have denied any wrongdoing in relation to those contracts that were worth more than £200m.
-Baroness Hallett ordered that testimony from senior government officials had to be heard behind closed doors so as not to prejudice an ongoing criminal investigation by the National Crime Agency (NCA).
-A section of the inquiry's findings related to PPE Medpro was also removed from the final report and will only be published "following the conclusion of any criminal proceedings".
-No criminal charges have been brought to date with the NCA saying that its "ongoing investigation remains a priority for the agency".
-In total, 48 witnesses gave oral evidence for this part of the inquiry in February and March 2025, including former health secretary Matt Hancock and cabinet minister Michael Gove.
-The recommendations made include:
-a "radical overhaul" of the emergency system for buying PPE and distributing it before the next pandemic
-drawing up a "domestic industry strategy" which treats key healthcare equipment as a strategic national asset"
-improving the state of the pandemic stockpile which is held in a giant warehouse in Merseyside
-The Prime Minister's Spokeswoman said the report made for difficult reading
-"The pandemic had a profound and lasting impact across our society and this government is committed to learning the lessons of the Covid inquiry so that we are protected and prepared for the future.
-"And we will of course carefully consider the inquiry's recommendations in detail and we will respond in due course."`,
-    bodyJa: `英国は個人用保護具（PPE）に100億ポンドを無駄にし、NHS職員の保護が不十分なままになっていたことが新型コロナ調査で判明
-- 公開されました
-新型コロナウイルス調査報告書によると、パンデミックでは適切な個人用保護具（PPE）の不足によりNHS職員と患者の命が危険にさらされており、追加購入の争奪戦で約100億ポンドの納税者のお金が無駄にされたという。
-議長のハレット男爵夫人は、パンデミック調達における「膨大な」無駄が99億ポンドに達し、これは英国と地方政府がPPEに費やした149億ポンドの3分の2に相当すると述べた。
-同国はマスク、ガウン、手袋の備蓄が「危険な状態」にある状態でパンデミックに突入し、新たな供給品を確保するための世界的な競争に「単に競争する準備ができていなかった」と議長は付け加えた。
-彼女は、政治的つながりを持つ人々からの個人用保護具の提供を優先する物議を醸した「VIPレーン」を、国民の信頼を損なう「誤った」政策として批判した。
-しかし彼女は、最終契約を締結する際に閣僚やその他の役人による「縁故や汚職の証拠はなかった」と述べた。
-家庭用検査キットや人工呼吸器などの機器の費用を含めると、2020年1月から2022年6月までに政府が支出した総額は420億ポンドを超えたことが調査で判明した。
-英国の個人用保護具の緊急備蓄は、補充されるまで少なくとも15週間持つ予定だったが、病院からの需要が急増したため、2020年3月末までに枯渇しつつあった。
-調査の結果、イングランドのパンデミック備蓄マスクのうち使用可能なのは3分の1のみで、スコットランドには病院で使用される高級呼吸用マスクの供給がなかったことが判明した。
-当時、介護施設、一般開業医、薬局はすべて独自の個人用保護具を調達することが期待されていたが、報告書はこれを「計画における重大な失敗」と述べている。
-新型コロナウイルスに関する調査 PPE レポート - 主な調査結果
-- 1 時間前に公開
-英国の新型コロナウイルス調査とは何ですか?またその仕組みは何ですか?
-- 4 月 16 日公開
-新型コロナウイルスに関する調査は個人用保護具の取引と「VIPレーン」に向けられる
-- 2025 年 3 月 3 日発行
-新型コロナウイルス調査でミシェル・モーンの土壇場入札を拒否
-- 2025 年 3 月 3 日発行
-英国政府は合計99億ポンド相当の未使用または期限切れの個人用保護具と、未使用の医療機器1億5,700万ポンド相当の償却を余儀なくされた。
-「人工呼吸器チャレンジ」プログラムでは、サプライヤーが急遽呼吸器を開発するよう求められ、生産に至らなかった設計に対してさらに1億4,300万ポンドの請求が発生した。
-スコットランドでは、PPEや検査キットを含む医療機器約800万ポンドが償却された。
-ウェールズでは未使用のPPEに1,800万ポンドが費やされ、北アイルランドでは4,300万ポンドのマスク、ガウン、手袋が使用前に期限切れになる危険にさらされていました。
-調査報告書では、パンデミック下では個人用保護具の購入が少なすぎるよりは多すぎる方が良かったが、「供給が需要に合わせてより厳密に調整されていれば明らかに良かった」と述べた。
-報告書は「より適切な計画があれば、より公正で迅速かつ低コストの調達決定が得られただろう」と結論づけている。
-政府の緊急時計画は「ストレステストが一度も行われておらず」、当局者や閣僚は「即席での対応を余儀なくされ、数日以内に新たな緊急調達と配給システムを確立」した。
-VIP レーンの障害
-英国では、パンデミックのさなか、政府による PPE 契約を授与するために、いわゆる「VIP レーン」（正式には高優先レーンとして知られる）が設置されました。
-2020年4月に導入されたこのアイデアは、大臣、国会議員、貴族院議員、またはその他の高官からの推薦があった場合、PPEの供給の申し出をより緊急に扱うというものだった。
-当時、政府は医療・社会福祉従事者の保護が「切実な必要性」があると述べ、医療機器の確保には迅速な行動が必要だと主張した。
-調査報告書は、その政策を「緊急調達に不公平を埋め込む」「優先順位付けの誤った試み」であると批判した。
-一部のサプライヤーは当時の保守党政権とつながりがあり、「最も必要なときに信頼を損なった」として優遇された。
-報告書は「高優先レーンは設置されるべきではなかったし、繰り返されてはならない」と結論づけた。
-しかし、ハレット男爵夫人は、最終的に個人用保護具の契約が締結された際、閣僚や役人の側近や汚職は確認できなかったと述べた。
-PPE メドプロ契約
-2025年2月、捜査は実業家のダグ・バロウマンとその妻ミシェル・モーン男爵夫人に関連する会社、PPEメドプロに関する証拠収集に1日を費やした。
-バロウマン氏もモーン氏も、2億ポンド以上の価値があるこれらの契約に関連した不正行為を否定した。
-ハレット男爵夫人は、国家犯罪庁（NCA）による進行中の犯罪捜査に支障をきたさないように、政府高官らの証言は密室で聞かれなければならないと命令した。
-PPE Medproに関連する調査結果の一部も最終報告書から削除され、「刑事訴訟の終了後」にのみ公表される予定だ。
-NCAは現在まで刑事告訴はされておらず、「引き続き捜査が同局の優先事項である」としている。
-2025年2月から3月にかけて、マット・ハンコック元保健長官やマイケル・ゴーブ閣僚を含む合計48人の証人がこの部分の捜査について口頭証言を行った。
-推奨事項には次のものが含まれます。
-次のパンデミックの前に個人用保護具を購入し配布するための緊急システムの「抜本的な見直し」
-重要な医療機器を国家戦略的資産とする「国内産業戦略」を策定
-マージーサイドの巨大倉庫に保管されているパンデミック備蓄の状態を改善する
-首相報道官は、この報告書は読みにくいものであると述べた
-「パンデミックは社会全体に深刻かつ永続的な影響を及ぼしており、政府は私たちが守られ、将来に備えられるよう新型コロナウイルス調査の教訓を学ぶことに全力で取り組んでいます。
-「そしてもちろん、我々は調査の勧告を詳細に注意深く検討し、しかるべき時期に返答するつもりだ。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/czrxrlydyzzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T12:12:53+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26b2/live/429dd230-7f4b-11f1-b7b5-4731f6422ba0.jpg",
-    readTime: 7,
-  },
-  {
-    id: "south-east-water-must-pay-30-5m-for-supp-2f929b5b",
-    title: "South East Water must pay £30.5m for supply failures",
-    titleJa: "サウス・イースト・ウォーターは供給障害に対して3,050万ポンドを支払う必要がある",
-    summaryJa: "サウス・イースト・ウォーターは供給障害に対して3,050万ポンドを支払う必要がある- 公開されました",
-    bodyOriginal: `South East Water must pay £30.5m for supply failures
-- Published
-South East Water must spend £30.5m on improvements after supply interruptions hit thousands of its customers across Kent and Sussex.
-Water regulator Ofwat said this follows the conclusion of three investigations into the company's repeated failures.
-The redress package will be paid for by the firm's shareholders and not through customer bills.
-A spokesperson for the water company said they were "incredibly sorry" for the historical supply disruptions for Kent and Sussex customers.
-"We know this caused significant disruption and anxiety, and we accept the failures identified by Ofwat," they said.
-"It is not the standard of service our customers deserve.
-"Our priority has been to ensure that the resolution of this investigation directly benefits those who suffered the most."
-Ofwat says the redress will include £5m to provide free water butts for households, £5m to bring forward smart metering to businesses and other non-household customers, and a further £5m for on-site storage to help manage the supply during peak demand.
-The regulator previously proposed a £22m fine for water supply failures between 2020 and 2023, which impacted more than 286,000 people.
-It launched a second probe at the start of this year after further supply interruptions in Tunbridge Wells and across Kent and Sussex between November and January, which left up to 70,000 homes without water.
-Customers were unable to access tap water, shower or flush their toilets during the supply issues between November and January.
-Schools were closed and some customers had to cancel work due to childcare issues as a result, while others had difficulty dealing with medical conditions, according to Ofwat.
-The watchdog found the company did not communicate "clearly and accurately" with customers quickly enough and did not provide those affected with adequate bottled water supplies.
-The third investigation followed the downgrading of South East Water's credit rating by Moody's in May, which meant the firm was in breach of its licence condition.
-'Happening far too often'
-An independent monitor will be appointed by Ofwat to review the company's performance improvement plan.
-Ofwat says the company will also pay for the independent monitor, which is not included in the £30.5m enforcement package.
-Helen Campbell, executive director of delivery at Ofwat, said: "South East Water must now focus on what matters most, its customers.
-"These failures have caused real disruption and hardship for residents and businesses across many years, and supply interruptions of this scale have happened far too often.
-"This package is a first step towards accountability and improved performance, and we welcome the company's efforts to resolve these cases."
-Follow BBC Kent on Facebook, external, X, external, and on Instagram, external and listen to BBC Radio Kent on Sounds. Send your story ideas to southeasttoday@bbc.co.uk, external or WhatsApp us on 08081 002250.
-Related topics
-- Published31 May
-- Published3 June
-- Published12 January
-- Published17 June
-- Published11 April`,
-    bodyJa: `サウス・イースト・ウォーターは供給障害に対して3,050万ポンドを支払う必要がある
-- 公開されました
-サウスイーストウォーターは、ケント州とサセックス州の数千の顧客に供給中断が発生したため、改善に3,050万ポンドを費やす必要がある。
-水道規制当局オフワットは、これは同社の度重なる失敗に関する３回の調査の結果を受けてのものだと述べた。
-救済策の費用は顧客からの請求ではなく、同社の株主によって支払われる。
-水道会社の広報担当者は、ケント州とサセックス州の顧客に対する歴史的な供給中断について「非常に遺憾に思う」と述べた。
-「これが重大な混乱と不安を引き起こしたことは承知しており、オフワットが指摘した失敗を受け入れる」と彼らは述べた。
-「それは私たちの顧客が受けるべきサービスの標準ではありません。
-「私たちの優先事項は、この調査の解決が最も苦しんでいる人々に直接利益をもたらすことを保証することでした。」
-オフワット氏によると、この救済には、家庭に無料の水吸い殻を提供するための500万ポンド、企業やその他の非家庭顧客へのスマートメーターの導入のための500万ポンド、ピーク需要時の供給管理を支援するための敷地内保管のためのさらに500万ポンドが含まれるという。
-規制当局は以前、2020年から2023年までの給水障害に対し2200万ポンドの罰金を提案しており、28万6000人以上に影響が出た。
-11月から1月にかけてタンブリッジ・ウェルズとケント州とサセックス州全域でさらなる供給中断が発生し、最大7万戸が断水したことを受け、今年初めに2回目の調査を開始した。
-11月から1月にかけて供給問題が発生した際、顧客は水道水にアクセスしたり、シャワーやトイレを流すことができなかった。
-オフワット氏によると、学校は閉鎖され、その結果育児の問題で仕事をキャンセルしなければならなかった顧客もいた一方、病状に対処するのが困難になった顧客もいたという。
-監視当局は、同社が顧客と十分な速さで「明確かつ正確に」コミュニケーションをとっておらず、影響を受けた人々に十分なボトル入り飲料水を提供していなかった、と認定した。
-３回目の調査は、５月にムーディーズがサウス・イースト・ウォーターの信用格付けを引き下げたこと（同社がライセンス条件に違反していることを意味する）に続いて行われた。
-「あまりにも頻繁に起こっている」
-会社の業績改善計画をレビューするために、Ofwat によって独立した監視者が任命されます。
-オフワット氏は、同社は独立監視員の費用も支払う予定だが、これは3050万ポンドの執行パッケージには含まれていないと述べた。
-オフワットの配送担当エグゼクティブディレクター、ヘレン・キャンベル氏は、「サウス・イースト・ウォーターは今、最も重要なこと、つまり顧客に集中しなければならない。
-「これらの故障は長年にわたって住民や企業に真の混乱と困難を引き起こしており、この規模の供給中断はあまりにも頻繁に起こっている。
-「このパッケージは説明責任とパフォーマンスの向上に向けた第一歩であり、これらの事件を解決するための同社の取り組みを歓迎します。」
-Facebook (外部)、X (外部) で BBC Kent をフォローし、外部の Instagram で BBC Kent をフォローし、BBC Radio Kent on Sounds を聞いてください。ストーリーのアイデアを、southeasttoday@bbc.co.uk、社外、または WhatsApp (08081 002250) に送信してください。
-関連トピック
-- 5 月 31 日公開
-- 6 月 3 日発行
-- 1 月 12 日発行
-- 6 月 17 日公開
-- 4 月 11 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cevlvxgggxyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T10:13:59+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39e0/live/2c24cef0-7f5a-11f1-a97a-9b1029617ccb.jpg",
-    readTime: 4,
   },
 ];
 
