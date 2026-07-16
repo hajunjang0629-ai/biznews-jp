@@ -15,6 +15,562 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "sen-warren-says-trump-s-cfpb-overhaul-ha-025a3046",
+    title: "Sen. Warren says Trump's CFPB overhaul has cost Americans $26.5 billion",
+    titleJa: "ウォーレン上院議員、トランプ大統領のCFPB改革はアメリカ国民に265億ドルの損失をもたらしたと語る",
+    summaryJa: "マサチューセッツ州のエリザベス・ウォーレン上院議員は木曜日、トランプ政権による消費者金融保護局の見直しにより、これまでに米国民に最大265億ドルの損失が生じたと述べ、消費者金融保護局に加えられた抜本的な変更に対する民主党の最新の批判となった。CNBCに最初に共有されたリポートの中でウォーレン氏は、この数字の大部分はCFPBがラッセル・ヴォート局長代理の下でクレジットカード手数料と当座貸越手数料に上限を設けるルールを撤回するために講じた動きによるものであると述べた。",
+    bodyOriginal: `Sen. Elizabeth Warren, D-Mass., said Thursday that the Trump administration's overhaul of the Consumer Financial Protection Bureau has cost Americans up to $26.5 billion so far, the latest Democratic critique of sweeping changes made to the agency.
+In a report shared first with CNBC, Warren said most of that figure comes from moves the CFPB has taken under acting director Russell Vought to roll back rules capping credit card and overdraft fees.
+The report comes as Vought faces a Senate oversight hearing Thursday on those and other actions, including dismissing enforcement actions and consent orders and an allegation that the agency recently removed 15 years of consumer data from the CFPB website.
+Since taking office last year, the Trump administration has slashed staffing, dropped or narrowed dozens of enforcement cases, and rolled back Biden-era rules to refocus the agency on what officials call its core mission.
+Republicans have defended the moves as necessary to rein in what they view as an overreaching regulator. Democrats led by Warren — who conceived and helped set up the agency after the 2008 financial crisis — have argued that the Trump administration has crippled a key consumer financial watchdog and exposed Americans to unfair or deceptive industry practices.
+The clash comes as the Senate weighs the nomination of Brian Johnson, a former CFPB deputy director turned Capital One executive, whom President Donald Trump tapped to lead the agency permanently.
+Warren's report attributes up to $15 billion in consumer costs to the CFPB's decision to abandon a rule capping most credit-card late fees at $8, a regulation the agency previously estimated would save consumers roughly $10 billion annually.
+It attributes another $7.5 billion to the repeal of the CFPB's overdraft fee rule, which would have limited many banks to charging $5 for overdrafts.
+The remainder of the estimate comes from the CFPB's decision to drop more than three dozen enforcement actions and settlements, some of which were set to send payments directly to consumers. That totaled roughly $4 billion, according to the report.
+The White House and CFPB did not immediately respond to requests for comment.
+Ahead of Thursday's hearing, Warren also sent Vought a letter cataloging what she described as unanswered congressional oversight requests during his tenure running the bureau.`,
+    bodyJa: `マサチューセッツ州のエリザベス・ウォーレン上院議員は木曜日、トランプ政権による消費者金融保護局の見直しにより、これまでに米国民に最大265億ドルの損失が生じたと述べ、消費者金融保護局に加えられた抜本的な変更に対する民主党の最新の批判となった。
+CNBCに最初に共有されたリポートの中でウォーレン氏は、この数字の大部分はCFPBがラッセル・ヴォート局長代理の下でクレジットカード手数料と当座貸越手数料に上限を設けるルールを撤回するために講じた動きによるものであると述べた。
+この報告書は、ヴォート氏が執行措置や同意命令の却下、同庁が最近CFPBのウェブサイトから15年分の消費者データを削除したとの申し立てなど、これらおよびその他の行為に関して木曜日に上院の監視公聴会に臨む中で発表された。
+昨年の就任以来、トランプ政権は職員を削減し、数十件の執行事件を取り下げたり縮小したり、バイデン時代の規則を撤回したりして、当局がその中核的使命と呼ぶものに再び焦点を当ててきた。
+共和党は行き過ぎた規制当局とみなされる規制を抑制するために必要な動きだと擁護してきた。 2008年の金融危機後に同庁の設立を発案し支援したウォーレン氏率いる民主党は、トランプ政権が主要な消費者金融監視機関を無力化し、米国人を不公平または欺瞞的な業界慣行にさらしていると主張した。
+この衝突は、上院がCFPBの元副局長からキャピタル・ワン幹部に転身したブライアン・ジョンソン氏の指名を検討している最中に起きたもので、ドナルド・トランプ大統領は同氏を同局の永久指導者に抜擢した。
+ウォーレン氏の報告書は、ほとんどのクレジットカード延滞手数料を8ドルに制限する規則を廃止するというCFPBの決定により、最大150億ドルの消費者コストが発生したとしている。この規則は消費者が年間約100億ドル節約できると同局は以前試算していた。
+さらに75億ドルは、多くの銀行が当座貸越手数料を5ドルに制限されていたはずのCFPBの当座貸越手数料規則の廃止によるものだとしている。
+残りの推定値は、消費者に直接支払いを行う予定だった30以上の執行措置と和解を取り下げるCFPBの決定によるものである。報告書によると、その総額は約40億ドルだという。
+ホワイトハウスとCFPBはコメント要請に応じていない。
+木曜日の公聴会に先立って、ウォーレン氏はヴォート氏に、同局長官在職中に回答が得られなかった議会監視要請を列挙した書簡も送った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/trumps-cfpb-overhaul-cost-americans-26point5-billion-sen-warren-says.html",
+    publishedAt: "2026-07-16T14:04:30+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "investigation-into-parking-tickets-for-d-9d56ae2f",
+    title: "Investigation into parking tickets for drivers queuing at petrol stations",
+    titleJa: "ガソリンスタンドに並ぶドライバーの駐車違反切符の調査",
+    summaryJa: "ガソリンスタンドに並ぶドライバーの駐車違反切符の調査- 公開されました",
+    bodyOriginal: `Investigation into parking tickets for drivers queuing at petrol stations
+- Published
+One of the UK's largest private parking providers is being investigated by the competition regulator over whether parking tickets for drivers queuing at petrol forecourts are fair.
+Euro Car Parks' broader appeals process relating to petrol stations and car parks is also being looked into, to determine if it breaches consumer protection law.
+The investigation forms part of a wider crackdown by the Competition and Markets Authority (CMA) into potentially unfair practices by private parking operators.
+Research by the RAC has suggested the number of tickets issued in places like gyms, supermarkets, restaurants and retail parks more than doubled in six years, to 14.4 million.
+Motorists have complained about these parking issues, the CMA said, highlighting problems including unclear signage, faulty apps and broken ticket machines.
+The regulator said it wanted to make sure drivers are being treated fairly following complaints from motorists who feel they've been unjustly issued with parking tickets.
+The CMA says it has its own concerns about the way some operators are handling appeals, or attempting to make motorists pay additional fees on top of parking charges.
+It has written to the sector as a whole, and issued warnings to some individual operators about their practices.
+The CMA's executive director of consumer protection Emma Cochrane said receiving a parking ticket could be a stressful experience.
+"Costs are high and often unexpected which is difficult when people are budgeting carefully," she said.
+"Parking companies must treat motorists fairly at all stages – and a clear and consistent appeals process must be at the heart of this.
+"It's time for all private parking operators to comply with consumer law or risk action from the CMA."
+In the open letter to private parking operators, the CMA warned they should review their terms and conditions and make changes if necessary to ensure they are complying with consumer law.
+The CMA's investigation into Euro Car Parks is focusing on whether it is fair for drivers to receive parking charges while queuing for, or using, petrol pumps and other forecourt services such as car washes, plus its wider appeals process.
+It is in the evidence gathering stage, and is set to run until Spring 2027.
+Euro Car Parks has more than 3,000 facilities across the UK and Ireland, according to the company's website, with more than two million cars parking in their spots every day.
+The BBC has contacted Euro Car Parks for comment.
+Which? consumer law expert Lisa Webb said it was positive to see the CMA launch its investigation.
+"We often hear from people who feel frustrated and confused as they fight unfair charges and tickets issued by private parking operators, including for absurd reasons like queuing for a petrol pump or car wash," she said.
+Jack Cousens, head of roads policy at The AA, said forecourts and parking operators need to allow motorists to get the fuel they need without being penalised "for simply waiting their turn".
+"Drivers are already feeling the pinch with rising pump prices, so the last thing they'd want or expect is to be hit for a parking charge just for sitting in the queue," he said.
+Watch: How to fight a parking ticket
+- Published15 May
+Don't pay a fake parking fine – four ways to protect yourself from scams
+- Published3 September 2025
+RAC head of policy Simon Williams said the CMA's effort was a "major step forward in ensuring drivers are treated fairly by private parking operators".
+He pointed out the watchdog's crackdown comes ahead of the government's response to a consultation on reinstating the withdrawn Private Parking Code of Practice.
+"The CMA has shone a much-needed light on the appeals process and found major problems that need to be addressed," he said.
+The AA's Cousens agreed the CMA's intervention was important but worried that a potential cabinet reshuffle next week could further delay the Private Parking Code of Practice bill.
+One of the parking trade bodies, the International Parking Community, said it welcomed the CMA's efforts to ensure motorists were treated fairly. The IPA added it was carefully reviewing the CMA's letter.
+"We have already shared the CMA's open letter with our members and will issue detailed guidance to help them ensure their practices fully meet the standards it sets out."
+The British Parking Association (BPA) is also reviewing the CMA's letter and said it will implement recommendations where appropriate, adding that it has "always strived to strictly uphold the highest industry standards" among members.
+"While continuing to support our members, our focus remains on driving improvements across the UK parking industry and engaging constructively with all parties," BPA's head of external affairs Isaac Occhipinti said.
+Tips to avoid parking problems
+Check the rules for each car park you use, which should be set out in signs in the car park, as not all car parks work in the same way
+Free parking periods may not be automatic - check to see whether you need to register your car's details or scan a receipt
+Payment machine isn't working, or your car breaks down? Make sure to keep evidence, including photos and receipts
+If you believe you've received a ticket incorrectly, appeal it within 14 days
+Know that you always have the right to appeal a parking charge notice
+Get in touch
+Have you had a similar experience with your vehicle? Do you have a similar story to share?`,
+    bodyJa: `ガソリンスタンドに並ぶドライバーの駐車違反切符の調査
+- 公開されました
+英国最大の民間駐車場プロバイダーの1つが、ガソリンスタンドに並ぶドライバーの駐車券が公平かどうかを巡り、競争規制当局から調査を受けている。
+ユーロ・カー・パークスが消費者保護法に違反しているかどうかを判断するため、ガソリンスタンドや駐車場に関する広範な控訴手続きも調査されている。
+この調査は、民間駐車場経営者による潜在的に不公正な行為に対する競争・市場庁（CMA）による広範な取り締まりの一環である。
+RACの調査によると、ジム、スーパーマーケット、レストラン、小売公園などの場所で発行されたチケットの数は6年間で2倍以上の1,440万枚に増加した。
+CMAによると、運転手らはこうした駐車問題について苦情を述べており、不鮮明な標識、欠陥のあるアプリ、壊れた券売機などの問題が浮き彫りになっている。
+規制当局は、不当に駐車違反切符を切られたと感じる運転手からの苦情を受け、ドライバーが公平に扱われるよう努めたいと述べた。
+CMAは、一部の事業者が不服申し立てを処理する方法や、ドライバーに駐車料金に加えて追加料金を支払わせようとする方法について、独自の懸念を抱いていると述べた。
+同部門は業界全体に書簡を送り、一部の個別事業者に対してはその慣行について警告を発した。
+CMAの消費者保護担当エグゼクティブディレクターのエマ・コクラン氏は、駐車違反切符を受け取ることはストレスになる可能性があると述べた。
+「コストは高く、予期せぬことが多いため、慎重に予算を立てている場合は困難です」と彼女は言う。
+「駐車場会社はあらゆる段階でドライバーを公平に扱わなければならず、その中心となるのは明確で一貫した異議申し立てプロセスでなければなりません。
+「すべての民間駐車場運営者が消費者法を遵守しなければ、CMA からの行動にリスクを負う時期が来ています。」
+CMAは民間駐車場経営者への公開書簡の中で、消費者法を確実に遵守するために利用規約を見直し、必要に応じて変更を加える必要があると警告した。
+ユーロ・カー・パークに関するCMAの調査は、ドライバーがガソリンポンプや洗車などの前庭サービスの列に並んでいる間、または使用中に駐車料金を受け取るのが公平かどうか、さらに広範な不服申し立てプロセスに焦点を当てている。
+現在証拠収集段階にあり、2027年春まで実施される予定だ。
+同社のウェブサイトによると、ユーロ・カー・パークは英国とアイルランドに3,000以上の施設を持ち、毎日200万台以上の車がその場所に駐車しているという。
+BBCはユーロ・カー・パークスにコメントを求めた。
+どっち？消費者法の専門家リサ・ウェッブ氏は、CMAが調査を開始するのは前向きだと述べた。
+「私たちは、ガソリンスタンドや洗車の列に並ぶなど不条理な理由で、民間の駐車場運営者から不当な料金や切符を発行され、イライラと混乱を感じている人々の話をよく聞きます」と彼女は語った。
+AAの道路政策責任者、ジャック・カズンズ氏は、前庭や駐車場の管理者は、ドライバーが「順番を待っているだけ」で罰せられることなく必要な燃料を入手できるようにする必要があると述べた。
+同氏は、「ドライバーはポンプ価格の高騰ですでに窮地を感じている。そのため、列に並んでいるだけで駐車料金を請求されることは彼らが最も望んでいないこと、あるいは期待していないことだ」と述べた。
+見る: 駐車違反切符を争う方法
+- 5 月 15 日公開
+偽の駐車違反金を支払わないでください – 詐欺から身を守る 4 つの方法
+- 2025 年 9 月 3 日発行
+ＲＡＣの政策責任者サイモン・ウィリアムズ氏は、ＣＭＡの取り組みは「民間駐車場運営者によるドライバーの公平な扱いを確保する上での大きな前進」だと述べた。
+同氏は、監視機関の取り締まりは、撤回された民間駐車場実施規範の復活に関する協議に対する政府の対応に先立って行われたと指摘した。
+「CMAは控訴手続きに切望されていた光を当て、対処すべき重大な問題を発見した」と同氏は述べた。
+AAのカズンズ氏はCMAの介入が重要であることに同意したが、来週の内閣改造の可能性により民間駐車場実施法法案の制定がさらに遅れる可能性があると懸念した。
+駐車業界団体の一つである国際駐車コミュニティは、自動車運転者が公平に扱われるよう努めるCMAの取り組みを歓迎すると述べた。 IPAは、CMAの書簡を注意深く検討していると付け加えた。
+「私たちはすでにCMAの公開書簡を会員と共有しており、会員が定めた基準を確実に実践できるよう、詳細なガイダンスを発行する予定です。」
+英国駐車場協会（BPA）もCMAの書簡を検討しており、必要に応じて勧告を実施すると述べ、会員の間で「最高の業界基準を厳格に守るよう常に努力してきた」と付け加えた。
+BPAの渉外責任者アイザック・オッキピンティ氏は、「会員への支援を継続しながら、英国の駐車場業界全体の改善を推進し、あらゆる関係者と建設的に関与することに今後も注力していく」と述べた。
+駐車トラブルを避けるためのヒント
+すべての駐車場が同じように機能するわけではないため、使用する各駐車場の規則を確認してください。規則は駐車場の標識に記載されている必要があります。
+無料駐車期間は自動的に設定されない場合があります。車の詳細を登録するか、領収書をスキャンする必要があるかどうかを確認してください。
+精算機が故障したり、車が故障したりしませんか？写真や領収書などの証拠は必ず保管してください
+チケットを間違って受け取ったと思われる場合は、14 日以内に異議を申し立ててください
+あなたはいつでも駐車料金通知に対して異議を申し立てる権利があることを知ってください
+連絡する
+あなたの車でも同じような経験をしたことがありますか?似たような話はありますか?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cnvnyr75r48o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-16T14:04:24+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebba/live/9f20ee20-80fe-11f1-b983-cbe246fcd5da.jpg",
+    readTime: 6,
+  },
+  {
+    id: "iran-warns-u-s-of-hormuz-red-line-says-i-2238c05a",
+    title: "Iran warns U.S. of Hormuz ‘red line,’ says it will retaliate to Trump’s strike threats",
+    titleJa: "イラン、米国にホルムズの「越えてはならない一線」を警告、トランプ大統領の攻撃脅迫には報復すると表明",
+    summaryJa: "イランは木曜日、数日以内にイランのインフラを標的にするというドナルド・トランプ米大統領の脅しが実行されれば、中東の主要標的を「粉砕」するだろうと警告した。トランプ大統領は火曜日夜のFOXニュースとのインタビューで、外交的打開が達成されない場合、米軍は来週イランの主要インフラを標的にするだろうと述べた。",
+    bodyOriginal: `Iran warned Thursday that it would "crush" key targets in the Middle East if U.S. President Donald Trump's threats to target the country's infrastructure in the coming days are carried out.
+Trump said in a Tuesday evening interview with Fox News that U.S. forces would target key Iranian infrastructure next week if a diplomatic breakthrough is not achieved.
+"Next week it gets really bad for them because next week comes the power plants," he said. "Next week comes the bridges. We're going to knock out all their power plants. We're going to knock out all their bridges unless they get to the table and negotiate."
+In a statement published on Telegram on Thursday morning, a spokesperson for Iran's top military command said that if Trump's threats were implemented "everything that is still intact … that is, all the infrastructure in the region – will be crushed under the steel blows of the powerful armed forces of the Islamic Republic of Iran; so that no trace of them remains and it is as if they never existed in the first place."
+They added that "under no circumstances and in no way will we allow America, as a foreign and extra-regional country, to interfere in the Strait of Hormuz."
+"This is Iran's invincible red line," the spokesperson said.
+The Strait, a waterway in the Middle East that's critical to the shipping of oil and other key commodities, has become the focal point of fighting between American and Iranian forces.
+Reuters reported on Thursday that Iran may also be looking to expand its grip on global shipping. Citing anonymous sources, the news agency said the Iranian government had asked Yemen's Tehran-backed Houthis to stand ready to close the Red Sea oil route should U.S. forces carry out Trump's threatened attacks.
+Armed conflict has escalated in recent days after the U.S. launched strikes against Iran earlier this week in retaliation for commercial ships in the Strait of Hormuz coming under attack.
+Tehran, meanwhile, has launched attacks on multiple Gulf countries.
+U.S. Central Command carried out a fresh wave of attacks on Iran overnight that concluded at 9 p.m. ET.
+"U.S. forces struck Iranian command centers, air defense sites, missile and drone capabilities, and coastal surveillance facilities to further degrade Iran's ability to threaten innocent mariners crewing commercial vessels transiting the Strait of Hormuz," Centcom said in a statement posted on X.
+"CENTCOM used precision munitions to hit targets in multiple locations including Bandar Abbas."
+The spokesperson for Iran's Foreign Ministry also warned of retaliation on Wednesday.
+"Our hands are not tied," he said at an event in Tehran, according to state-affiliated media. "Our fighters will respond with full force and power to US aggressions, and in other clauses of the memorandum, wherever we had reciprocal commitments, we have not implemented them."
+Last week, Trump said the ceasefire agreed between the two sides last month was "over." On Wednesday, he told Fox Business News that Iranian officials wanted to meet with American delegates for fresh negotiations.
+Hostilities face potential stalemate
+Oil prices fell on Thursday morning, with Brent crude futures for September delivery shedding 0.5% to trade at $84.42 per barrel by 4:30 a.m. ET. Front-month U.S. West Texas Intermediate crude futures were down almost 0.2% at $79.47 a barrel.
+Clark H. Summers, adjunct professor of government and political philosophy at North Carolina's Belmont Abbey College, told CNBC he believes the current situation will most likely result in a stalemate.
+"The U.S. will continue to make precision air strikes to destroy [drones] and surface-to-surface missile launch sites as Iran pops-up to launch," he said in an email. "Also, the U.S. will act to defeat air attacks launched against neutral shipping in the Persian Gulf. I expect these actions … to be very effective at the tactical level, but ineffective strategically as long as Iran can continue to produce drones and missiles (or has them stockpiled)."
+Summers added that Trump's recent proposals to slap a 20% fee on shipping through the Strait of Hormuz – something the president has since walked back from – strongly suggest the Trump administration is aware the costs of the war are undermining public support for the president.
+"He has tread carefully around the War Powers Act, and seems to be well aware that current U.S. industrial and logistics capabilities are not able to sustain this conflict on an open-ended basis (probably not through the midterm elections, and certainly not through '28," Summers said.
+However, he noted that as long as the Islamic Revolutionary Guard Corps remains in power in Iran and "can crawl out of the rubble alive," they will be able to claim victory.
+"Only a serious ground threat will destroy the IRGC as a governing body and compel it to accept surrender," Summers told CNBC. "Such a threat is extremely unlikely to come from conventional U.S. forces; such an operation is beyond the current capabilities of the U.S. Army and USMC combined."
+A raid on the critical Kharg Island to tighten a blockade on Iranian oil exports may help achieve a negotiated peace deal, Summers said, "but it is unlikely that the IRGC will honor any agreement."
+Richard de Meo, founder and CEO of Attara, a London-based brokerage firm specializing in commodity hedging, told CNBC that markets had become increasingly desensitized to developments in the U.S.-Iran war.
+"Across the corporate sector, there is a growing sense of fatigue in response to the sheer volume of geopolitical risks, with some businesses taking false comfort from relatively range-bound market conditions and overlooking the sharp bouts of volatility we have seen, particularly in energy markets," he said.
+"Nevertheless, treasury teams continue to show strong discipline in their approach to risk management. Where policy flexibility allows, many are increasing hedge ratios and extending hedge tenors, taking steps to secure greater protection and resilience against future market uncertainty."`,
+    bodyJa: `イランは木曜日、数日以内にイランのインフラを標的にするというドナルド・トランプ米大統領の脅しが実行されれば、中東の主要標的を「粉砕」するだろうと警告した。
+トランプ大統領は火曜日夜のFOXニュースとのインタビューで、外交的打開が達成されない場合、米軍は来週イランの主要インフラを標的にするだろうと述べた。
+「来週は発電所が稼働するため、来週は彼らにとって本当にひどい状況になる」と彼は語った。 「来週は橋が来ます。私たちは彼らの発電所をすべて破壊するつもりです。彼らがテーブルに着いて交渉しない限り、私たちは彼らの橋をすべて破壊するつもりです。」
+木曜朝テレグラムに掲載された声明の中で、イラン軍最高司令部の報道官は、もしトランプ大統領の脅しが実行されれば、「まだ無傷であるすべてのもの、つまり地域内のすべてのインフラは、イラン・イスラム共和国の強力な軍隊の鋼鉄の打撃で押しつぶされるだろう。そのため、それらの痕跡は残らず、最初から存在しなかったかのようになるだろう。」と述べた。
+さらに、「いかなる状況においても、またいかなる形においても、米国が外国かつ域外の国としてホルムズ海峡に干渉することを許さない」と付け加えた。
+同報道官は「これはイランにとって無敵の越えてはならない一線だ」と述べた。
+海峡は石油やその他の主要商品の輸送に重要な中東の水路で、アメリカ軍とイラン軍の間の戦闘の焦点となっている。
+ロイター通信は木曜日、イランも世界の海運における支配力を拡大しようとしている可能性があると報じた。同通信は匿名の情報筋の話として、イラン政府がイラン政府が支援するイエメンのフーシ派に対し、米軍がトランプ大統領の脅迫攻撃を実行した場合には紅海石油ルートを閉鎖する準備を整えるよう求めたと伝えた。
+ホルムズ海峡で商船が攻撃を受けたことへの報復として米国が今週初めにイランへの攻撃を開始して以来、ここ数日で武力衝突が激化している。
+一方、テヘランは複数の湾岸諸国への攻撃を開始した。
+米中央軍は一晩中イランに対する新たな攻撃を実施し、午後9時に終了した。 ET。
+セントコムはＸに掲載した声明で、「米軍は、ホルムズ海峡を通過する商船に乗組む無実の船員を脅かすイランの能力をさらに低下させるために、イランの司令センター、防空拠点、ミサイルや無人機の能力、沿岸監視施設を攻撃した」と述べた。
+「CENTCOMはバンダル・アッバスを含む複数の場所の目標を攻撃するために精密弾を使用した。」
+イラン外務省報道官も水曜日に報復を警告した。
+国営メディアによると、同氏はテヘランでのイベントで「我々の手は縛られていない」と述べた。 「我が国の戦闘員は米国の侵略に対して全力で対抗するが、覚書の他の条項で相互の約束があったとしても、我々はそれを実行していない。」
+トランプ大統領は先週、先月両国間で合意された停戦は「終わった」と述べた。同氏は水曜日、FOXビジネスニュースに対し、イラン当局者は新たな交渉のために米国の代表団との会談を望んでいると語った。
+敵対行為は膠着状態に陥る可能性がある
+木曜日朝の原油価格は下落し、９月渡しのブレント原油先物は東部時間午前４時３０分までに０．５％下落し、１バレル＝８４．４２ドルで取引された。前月の米国ウェスト・テキサス・インターミディエイト原油先物はほぼ0.2％下落し、1バレル＝79.47ドルとなった。
+ノースカロライナ州ベルモント・アビー大学の政府・政治哲学非常勤教授クラーク・H・サマーズ氏はCNBCに対し、現在の状況では膠着状態に陥る可能性が高いと考えていると語った。
+同氏は電子メールで、「イランが突然発射する中、米国は（無人機）と地対地ミサイル発射場を破壊するための精密空爆を継続する」と述べた。 「また、米国は、ペルシャ湾で中立国の船舶に対して行われた航空攻撃を打ち破るために行動するだろう。私はこれらの行動が…戦術レベルでは非常に効果的であると期待しているが、イランが無人機とミサイルを生産し続ける（またはそれらを備蓄している）限り、戦略的には効果がない。」
+サマーズ氏は、ホルムズ海峡を通過する輸送に20％の手数料を課すというトランプ大統領の最近の提案（大統領はその後、提案を撤回したが）は、戦争の費用が大統領に対する国民の支持を損なっているとトランプ政権が認識していることを強く示唆していると付け加えた。
+「彼は戦争権限法を慎重に回避しており、現在の米国の産業能力と兵站能力ではこの紛争を無制限に維持することはできないことを十分に認識しているようだ（おそらく中間選挙を通じてではなく、もちろん28年を通じてもそうではない）」とサマーズ氏は語った。
+しかし、同氏は、イスラム革命防衛隊がイランで権力を維持し、「瓦礫の中から生きて這い上がることができる」限り、勝利を収めることができると指摘した。
+サマーズ氏はCNBCに対し、「統治機関としての革命防衛隊を破壊し、降伏を受け入れざるを得なくなるのは、深刻な地上の脅威だけだ」と語った。 「そのような脅威が通常の米軍から来る可能性は非常に低い。そのような作戦は米陸軍と米海兵隊を合わせた現在の能力を超えている。」
+サマーズ氏は、イラン石油輸出封鎖を強化するための重要なハルグ島への襲撃は、交渉による和平協定の達成に役立つかもしれないが、「しかし革命防衛隊がいかなる協定も遵守する可能性は低い」と述べた。
+ロンドンに本拠を置く商品ヘッジ専門の証券会社アタラの創設者兼最高経営責任者（CEO）のリチャード・デ・メオ氏はCNBCに対し、市場は米国・イラン戦争の展開に対してますます鈍感になっていると語った。
+同氏は「企業部門全体で、膨大な量の地政学的リスクに対する疲労感が高まっており、一部の企業は比較的レンジ内にとどまる市況から誤った安心感を抱き、特にエネルギー市場で見られる急激なボラティリティーの発生を見逃している」と述べた。
+「それにもかかわらず、財務チームはリスク管理へのアプローチにおいて強力な規律を示し続けている。政策の柔軟性が許す限り、多くのチームはヘッジ比率を高め、ヘッジ期間を延長し、将来の市場の不確実性に対する保護と回復力を強化する措置を講じている。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/iran-warns-of-hormuz-red-line-retaliation-to-trumps-strike-threats.html",
+    publishedAt: "2026-07-16T13:08:49+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "nvidia-backed-fireworks-hits-17-5-billio-cfa7dfb6",
+    title: "Nvidia-backed Fireworks hits $17.5 billion valuation as companies pursue cheaper AI models",
+    titleJa: "企業がより安価な AI モデルを追求する中、NVIDIA が支援する Fireworks の評価額は 175 億ドルに達する",
+    summaryJa: "FireworksはかつてコーディングスタートアップCursorからの収益に大きく依存していたが、より多くの企業が低コストのAIモデルに手を伸ばすにつれ、ここ1年で多角化を進めた。",
+    bodyOriginal: `The cost of the latest artificial intelligence models is increasingly breeding anxiety among finance executives, who have started directing employees to consider open-source alternatives.
+That's boosting cloud startup Fireworks, which competes with Amazon and Google to host models that developers can weave into applications. The Nvidia-backed company said Thursday that it has exceeded $1 billion in annualized revenue, five times what it had last year, and it has now raised a $1.5 billion round at a $17.5 billion valuation.
+"We're seeing super-linear demand," Lin Qiao, Fireworks' co-founder and CEO, told CNBC in an interview at the company's headquarters in San Mateo, California. "This is a once-in-a-lifetime opportunity to have this kind of market."
+Fireworks is much smaller than Anthropic and OpenAI, which investors have valued above $800 billion each this year, nor is it close to the top names in technology, whose market capitalizations are counted in the trillions. But the startup's revenue milestone suggests that companies aren't completely satisfied with the models coming out of the top labs.
+The achievement also presents new evidence that Amazon, Microsoft and Google are not totally dominating in cloud computing.
+Shares of easy-to-use cloud infrastructure vendor DigitalOcean are up 149% so far this year as growth has accelerated. CoreWeave, which rents out Nvidia graphics processing units, or GPUs, raised $1.5 billion in an initial public offering last year and is now worth $42 billion.
+By managing computing infrastructure for models, Fireworks does business in the inference cloud market, alongside startups such as Baseten and Together AI. It's also started providing GPUs for training AI models, like neoclouds CoreWeave, Lambda and Nebius.
+Rather than go it alone, Fireworks has started forming alliances.
+In March, it announced a partnership with Microsoft, which fields its own Foundry service for running open models. The arrangement allows customers of the Windows and Office company to draw on models through Fireworks, which relies on computing power from more than 20 suppliers, including Microsoft.
+"Through Microsoft we can get much bigger reach," Qiao said.
+Fireworks gives developers an easy way to adopt models from Chinese companies such as DeepSeek, MiniMax and Z.ai. Open-weight models OpenAI released last year are also available. The idea is for clients to bring their own data that frontier labs don't have and refine models until they deliver state-of-the-art performance for specific tasks, Qiao said.
+While Anthropic and OpenAI serve up "generalized intelligence," Fireworks can unlock "specialized intelligence," she said.
+The argument might sound familiar to those following the discourse of technology figureheads.
+Microsoft CEO Satya Nadella wrote in a Sunday blog post that "a company should be able to use a model without giving up the knowledge that makes it unique."
+Nadella was referring to Palantir CEO Alex Karp's remarks on CNBC earlier this month.
+Technical customers "want to know they own the means of production," Karp said. "It's not being transferred to someone else."
+Dollars and cents are a factor, too. Cryptocurrency exchange operator Coinbase has been adopting cheaper models where it makes sense, CEO Brian Armstrong wrote in a June X post.
+"Our cost compared with the equivalent-quality closed model is five to 10 times cheaper," Qiao said.
+A former Meta director, Qiao and six of her co-founders started Fireworks in 2022. The company employs around 200 people. Qiao expects the head count to reach 600 by the end of 2026.
+"This is the year when we'll really hit the gas," Qiao said.
+Fireworks hired former Salesforce executive George Hu as its president in April. The startup plans to assemble a formidable sales team after years of having customers sign themselves up. The new money will also help Fireworks obtain more GPUs and hire more technologists.
+Developers are increasingly counting on Fireworks to handle requests.
+Fireworks now handles 40 trillion AI tokens per day, Qiao said. Google disclosed in May that its AI models were processing about 19 billion tokens per minute for developers, implying more than 27 trillion per day. OpenAI announced in March that its developer tools were working through 15 billion tokens per minute, which would suggest about 22 trillion per day. Each token equates to about three-quarters of a single word.
+As of last year, about half of Fireworks' revenue came from AI coding startup Cursor, which has become less dependent on OpenAI and Anthropic and built a custom model named Composer.
+"We are much more diversified right now," Qiao said. In June, Elon Musk's SpaceX agreed to acquire Cursor in a $60 billion stock deal, with the transaction set to close this quarter. Other Fireworks clients include Elastic, GitLab and MongoDB.
+Atreides Management, Index Ventures and TCV led Fireworks' new round. Nvidia also participated, as did Evantic and Lightspeed Venture Partners.
+WATCH: OpenAI CEO: Chinese open-source models are getting very good`,
+    bodyJa: `最新の人工知能モデルのコストは、財務幹部の間で不安を増大させており、従業員にオープンソースの代替モデルを検討するよう指示し始めている。
+これが、開発者がアプリケーションに組み込むことができるモデルのホストをめぐってAmazonやGoogleと競合するクラウド新興企業Fireworksを後押ししている。 Nvidiaが支援する同社は木曜日、年間収益が昨年の5倍となる10億ドルを超え、現在175億ドルの評価額で15億ドルの資金を調達したと発表した。
+Fireworksの共同創設者兼最高経営責任者（CEO）のLin Qiao氏は、カリフォルニア州サンマテオの同社本社でのインタビューでCNBCに対し、「非常に線形的な需要が見られる」と語った。 「このような市場が開かれるのは一生に一度のチャンスです。」
+Fireworksは、投資家が今年それぞれ8000億ドル以上と評価したAnthropicやOpenAIよりもはるかに小規模であり、時価総額が数兆ドルに数えられるテクノロジー業界のトップ企業にも及ばない。しかし、このスタートアップの収益マイルストーンは、企業が一流の研究所から出てくるモデルに完全には満足していないことを示唆している。
+この成果は、Amazon、Microsoft、Google がクラウド コンピューティングにおいて完全に支配しているわけではないという新たな証拠も示しています。
+使いやすいクラウドインフラベンダーであるDigitalOceanの株価は、成長が加速し今年これまでに149％上昇している。 Nvidiaグラフィックス・プロセッシング・ユニット（GPU）をレンタルするCoreWeaveは、昨年の新規株式公開で15億ドルを調達し、現在価値は420億ドルとなっている。
+Fireworks は、モデルのコンピューティング インフラストラクチャを管理することで、Baseten や Together AI などの新興企業と並んで、推論クラウド市場でビジネスを行っています。また、ネオクラウドの CoreWeave、Lambda、Nebius など、AI モデルをトレーニングするための GPU の提供も開始しました。
+Fireworks は単独で事業を進めるのではなく、提携を結び始めています。
+同社は3月に、オープンモデルを実行するための独自のFoundryサービスを展開するMicrosoftとの提携を発表した。この取り決めにより、Windows and Office 企業の顧客は、Microsoft を含む 20 社以上のサプライヤーのコンピューティング能力に依存する Fireworks を通じてモデルを利用できるようになります。
+「マイクロソフトを通じて、我々はさらに大きなリーチを得ることができる」とQiao氏は語った。
+Fireworks を使用すると、開発者は DeepSeek、MiniMax、Z.ai などの中国企業のモデルを簡単に採用できます。昨年発売したOpenAIのオープンウェイトモデルもございます。アイデアは、顧客がフロンティアラボにはない独自のデータを持ち込んで、特定のタスクに対して最先端のパフォーマンスを提供するまでモデルを改良することだ、とQiao氏は述べた。
+Anthropic と OpenAI は「一般化されたインテリジェンス」を提供しますが、Fireworks は「特化されたインテリジェンス」を解き放つことができると彼女は言いました。
+この議論は、テクノロジー界の有力者らの議論を追いかけている人にとっては馴染み深いものかもしれない。
+Microsoftの最高経営責任者（CEO）Satya Nadella氏は日曜のブログ投稿で、「企業はモデルを独自のものにする知識を放棄することなくモデルを使用できるべきだ」と述べた。
+ナデラ氏は今月初めにCNBCでパランティアCEOのアレックス・カープ氏の発言に言及していた。
+技術顧客は「生産手段を自分たちが所有していることを知りたがっている」とカー​​プ氏は言う。 「他人に譲渡するものではありません。」
+ドルとセントも要素です。仮想通貨取引所運営会社のコインベースは、合理的な場合にはより安価なモデルを採用してきたとCEOのブライアン・アームストロング氏が6月1日の投稿で書いた。
+「同等品質の密閉型モデルと比較して、当社のコストは 5 ～ 10 倍安いです」と Qiao 氏は述べています。
+元 Meta ディレクターの Qiao 氏と共同創設者 6 名は、2022 年に Fireworks を設立しました。同社の従業員は約 200 名です。喬氏は、2026年末までに従業員数が600人に達すると予想している。
+「今年は我々が本格的にアクセルを踏み込む年だ」と喬氏は語った。
+Fireworksは4月に元Salesforce幹部のGeorge Huを社長に迎えた。このスタートアップは、何年にもわたって顧客に自らサインアップしてもらってきた後、強力な営業チームを編成する予定だ。新たな資金は、Fireworks がより多くの GPU を入手し、より多くの技術者を雇用するのにも役立ちます。
+開発者はリクエストを処理するために Fireworks をますます信頼しています。
+チャオ氏によると、Fireworksは現在、1日当たり40兆個のAIトークンを処理しているという。 Googleは5月、自社のAIモデルが開発者向けに1分あたり約190億トークンを処理していることを明らかにしたが、これは1日あたり27兆以上を意味する。 OpenAI は 3 月に、開発者ツールが 1 分あたり 150 億のトークンを処理していると発表しました。これは、1 日あたり約 22 兆個のトークンを処理していることになります。各トークンは 1 つの単語の約 4 分の 3 に相当します。
+昨年の時点で、Fireworks の収益の約半分は AI コーディングのスタートアップ Cursor からのもので、同社は OpenAI と Anthropic への依存を減らし、Composer という名前のカスタム モデルを構築しました。
+「私たちは現在、はるかに多様化しています」と喬氏は語った。 6月、イーロン・マスク氏のスペースXは600億ドルの株式取引でカーソルを買収することに合意し、取引は今四半期に完了する予定だ。他の Fireworks クライアントには、Elastic、GitLab、MongoDB などがあります。
+Atreides Management、Index Ventures、TCV が Fireworks の新しいラウンドを主導しました。 Nvidia も参加し、Evantic と Lightspeed Venture Partners も参加しました。
+注目: OpenAI CEO: 中国のオープンソース モデルは非常に良くなっている`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/fireworks-nvidia-cloud-ai-startup-value.html",
+    publishedAt: "2026-07-16T13:00:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "nvidia-unveils-new-ai-model-and-expands-0a30c903",
+    title: "Nvidia unveils new AI model and expands Japan’s physical AI ecosystem",
+    titleJa: "Nvidia が新しい AI モデルを発表し、日本の物理 AI エコシステムを拡大",
+    summaryJa: "Nvidiaは水曜日、ロボットとビジョンAIエージェント用の新しいAIモデルを発表し、日本の物理AI市場への進出を強化した。同社の新モデルである Cosmos 3 Edge は、システムが物理環境をリアルタイムで認識し、ナビゲートできるように設計された、いわゆるワールド モデルです。 Cosmos 3 Edge is a World モデルは、大規模言語モデル (LLM) と比較して、より広範囲の入力から学習できるシステムです。この展開は、5 月の Cosmos 3 の発売に続くものです。",
+    bodyOriginal: `Nvidia unveiled a new AI model for robots and vision AI agents on Wednesday, deepening its push into the physical AI market in Japan.
+The company's new model, Cosmos 3 Edge, is a so-called world model, designed to help systems perceive and navigate physical environments in real time. Cosmos 3 edge is a World models are systems that can learn from a wider range of inputs compared to large language models (LLMs). The rollout follows the launch of Cosmos 3 in May.
+The regional expansion takes center stage during CEO Jensen Huang's two-day visit to Japan, where the Silicon Valley chip giant is expanding its physical AI footprint by forming a coalition that local industrial giants, including Fujitsu, Hitachi, and Kawasaki Heavy Industries, intend to join, according to Nvidia.
+"The next frontier of AI is in the physical world, and this is a once-in-a-generation opportunity for Japan," Nvidia CEO Jensen Huang said in a Wednesday statement. "Japan invented modern manufacturing. Now, it has the opportunity to reinvent it for the age of intelligent industries."
+The tech giant's partnership with Japanese firms comes just months after Microsoft's $10 billion investment in the country, which aims to build out AI infrastructure and beef up cybersecurity. Japanese investment giant SoftBank has bet heavily on the boom in AI. It's looking to partner with Microsoft and Sakura Internet to develop AI in Japan.
+Japan's AI market is expected to reach $27.9 billion by 2029, opening doors for U.S. firms to invest, according to the International Trade Administration. This growth is driven by Tokyo's active push to promote AI adoption across industries, coupled with the eagerness of local firms to forge international partnerships.
+Ajay Rajadhyaksha, global chairman of research at Barclays, told CNBC last month that the country holds an advantage in Asia, driven by its diverse AI and clean structural growth stories.
+Nvidia's partnership push
+Nvidia is also aggressively expanding its AI footprint into Japan's healthcare and biotechnology sectors by extending its reach into agentic AI for advanced sciences through new drug discovery and medical robotics initiatives.
+When it comes to agentic AI, Nvidia highlighted the ongoing expansion of Tokyo-1, the AI drug discovery consortium operated by Xeureka, a Mitsui subsidiary. The platform, which has steadily grown since its initial announcement in 2023, is powered by the Nvidia BioNeMo Agent Toolkit, a platform for accelerating autonomous AI drug discovery.
+Japan's pharmaceutical heavyweights are already scaling their involvement. Major drugmakers, including Astellas Pharma Inc, Daiichi Sankyo, and Ono Pharmaceutical are utilizing Nvidia's specialized biology toolkit to streamline their workflows, the U.S. company said in a blog post.
+Beyond biotech, Nvidia said it is making inroads into industrial automation through a partnership with Kawasaki Heavy Industries.`,
+    bodyJa: `Nvidiaは水曜日、ロボットとビジョンAIエージェント用の新しいAIモデルを発表し、日本の物理AI市場への進出を強化した。
+同社の新モデルである Cosmos 3 Edge は、システムが物理環境をリアルタイムで認識し、ナビゲートできるように設計された、いわゆるワールド モデルです。 Cosmos 3 Edge is a World モデルは、大規模言語モデル (LLM) と比較して、より広範囲の入力から学習できるシステムです。この展開は、5 月の Cosmos 3 の発売に続くものです。
+Nvidiaによると、最高経営責任者（CEO）のジェンスン・ファン氏の2日間の来日では、この地域拡大が中心的な舞台となる。NVIDIAによると、シリコンバレーのチップ大手は連合を形成することで物理的なAIのフットプリントを拡大しており、富士通、日立、川崎重工業など地元の大手産業も参加する予定だという。
+「AIの次のフロンティアは物理世界にあり、これは日本にとって一世代に一度のチャンスだ」とNVIDIAのCEO、ジェンセン・ファン氏は水曜日の声明で述べた。 「日本は近代的な製造業を発明しました。今、日本はインテリジェント産業の時代に向けて製造業を再発明する機会に恵まれています。」
+このテクノロジー巨人と日本企業との提携は、AIインフラの構築とサイバーセキュリティの強化を目的としたマイクロソフトの日本への100億ドル投資からわずか数カ月後に行われた。日本の投資大手ソフトバンクはAIブームに大きく賭けている。同社はマイクロソフトやさくらインターネットと提携して日本でAIを開発することを検討している。
+国際貿易局によると、日本のAI市場は2029年までに279億ドルに達すると予想されており、米国企業の投資に扉が開かれている。この成長は、業界全体で AI 導入を推進する東京の積極的な推進と、国際的なパートナーシップを築こうとする地元企業の熱意によって推進されています。
+バークレイズのリサーチ部門グローバルチェアマンであるアジャイ・ラジャディヤクシャ氏は先月CNBCに対し、バークレイズは多様なAIとクリーンな構造成長ストーリーによってアジアでは優位性を保っていると語った。
+Nvidia のパートナーシップ推進
+Nvidia はまた、新薬発見や医療ロボットの取り組みを通じて先端科学向けのエージェント AI にも範囲を広げ、日本のヘルスケアおよびバイオテクノロジー分野への AI のフットプリントを積極的に拡大しています。
+エージェント AI に関して、NVIDIA は、三井物産の子会社である Xeureka が運営する AI 創薬コンソーシアムである Tokyo-1 の継続的な拡大を強調しました。このプラットフォームは、2023 年の最初の発表以来着実に成長しており、自律 AI 創薬を加速するプラットフォームである Nvidia BioNeMo エージェント ツールキットを利用しています。
+日本の製薬大手はすでに関与を拡大している。アステラス製薬、第一三共、小野薬品工業などの大手製薬会社は、ワークフローを合理化するためにNVIDIAの特殊な生物学ツールキットを利用していると米国企業がブログ投稿で述べた。
+Nvidiaは、バイオテクノロジーを超えて、川崎重工業との提携を通じて産業オートメーションにも進出していると述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/nvidia-reveals-new-ai-model-and-expands-japans-physical-ai-ecosystem.html",
+    publishedAt: "2026-07-16T12:55:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "tiktok-faces-ofcom-investigation-over-ch-91eb89c2",
+    title: "TikTok faces Ofcom investigation over child age checks",
+    titleJa: "TikTok、児童の年齢確認を巡りOfcomの捜査に直面",
+    summaryJa: "TikTok、児童の年齢確認を巡りOfcomの捜査に直面- 公開されました",
+    bodyOriginal: `TikTok faces Ofcom investigation over child age checks
+- Published
+An investigation has been launched into whether TikTok is doing enough to keep children off its platform.
+The probe by media regulator Ofcom comes a month after the UK government announced that under-16's would be banned entirely from a range of platforms.
+Ofcom will examine how the video-sharing app assesses if a user is a child and whether it has adequate systems to prevent children from viewing harmful content.
+"We're confident that we meet our Online Safety Act obligations and will work with Ofcom to demonstrate it," a TikTok spokesperson said.
+It follows a review by regulator in May which criticised the platform for not being "safe enough" for children and called for stronger action on children's online safety.
+Kate Davies, Ofcom's group director for strategy and research told BBC's Today programme: "This is where TikTok comes in. We found that some method of age checks being used by social media are not working well enough".
+At the heart of the regulator's probe into the platform is its use of technology known as "age inference".
+This essentially relies on estimating how old a user is based on how they use the platform, such as the videos they watch or others they interact with.
+Davies said Ofcom had "serious doubts" over whether such tools are good enough at checking the age of users.
+The regulator requires social media platforms, among others, to use "highly effective" methods to check users are old enough to use them and prevent children from seeing harmful material.
+"We have very serious questions about whether age inference can be highly effective," she said.
+But a TikTok spokesperson said: "We strictly enforce age-appropriate experiences through expert-informed platform rules and advanced age inference technologies, in line with major industry peers."
+They said the company had invested "billions" in online safety since launching in the UK eight years ago.
+Age check enforcement
+Ofcom's review of TikTok's age checks are part of a broader clampdown on sites failing to prevent children encountering adult content, such as pornography, and other harmful material.
+Under the Online Safety Act's (OSA) protection of children's codes, which took effect on 25 July last year, sites with such content must use methods such as face scans to check a UK visitor is over the age of 18.
+But the regulator has since had to take action, including issuing large fines, against dozens of adult sites over suspected or proven non-compliance.
+Its investigation into TikTok shows scrutiny is now being stepped up for social media sites.
+TikTok is not alone in using so-called age inference tech, with Instagram also deploying it among other methods to identify where a person might be a child lying about their age.
+The platform says UK users are placed into an age-appropriate experience for under-18s by default until they are understood to be an adult.
+It says people who fail to enter a date of birth that puts them over the age of 13 when they create an account are prohibited from making a new one, for instance by trying to enter a different date of birth.
+Further questions
+Andy Burrows, chief executive of the Molly Rose Foundation (MRF), welcomed Ofcom's investigation.
+He criticised TikTok for what he called "egregious failures" to prevent children from "being exposed to a tsunami of harmful content".
+The charity, set up by the family of Molly Russell - who took her own life at the age of 14 after viewing self-harm and suicide content on social media - cited its own research which found many teens were seeing high-risk content on TikTok.
+But Burrows said any investigation must also deal with the site's "blatant failure to clean up its toxic algorithms and comply with child safety duties".
+The BBC has approached TikTok for a response.
+Rebecca Smart, criminal lawyer and online safety expert at law firm Payne Hicks Beach, said the OSA had clearly "made some headway" in protecting children.
+But she said "the current enforcement regime may not provide a strong enough deterrent to drive full compliance".
+"There should be severe penalties for services that do not have appropriate age checks in place to protect these children," she said.
+"Without stronger accountability and enforcement, children will remain vulnerable to online harms that the OSA was designed to prevent."
+Related topics
+- Published24 July 2025
+- Published21 May
+- Published1 day ago`,
+    bodyJa: `TikTok、児童の年齢確認を巡りOfcomの捜査に直面
+- 公開されました
+TikTokが子どもたちをプラットフォームから遠ざけるのに十分な措置を講じているかどうかについて調査が開始された。
+メディア規制当局オフコムによるこの調査は、英国政府が16歳未満の利用をさまざまなプラットフォームから完全に禁止すると発表してから1か月後に行われた。
+Ofcomは、ビデオ共有アプリがユーザーが子供であるかどうかをどのように評価するか、また子供が有害なコンテンツを閲覧するのを防ぐ適切なシステムがあるかどうかを調査する。
+TikTokの広報担当者は「当社はオンライン安全法の義務を遵守していると確信しており、Ofcomと協力してそれを証明するつもりだ」と述べた。
+これは、このプラットフォームが子供にとって「十分に安全」ではないと批判し、子供のオンライン安全性に対するより強力な措置を求めた5月の規制当局による審査に続くものである。
+Ofcomの戦略・調査グループディレクターのケイト・デイビス氏はBBCのトゥデイ番組で、「ここでTikTokの出番だ。ソーシャルメディアで使われている年齢チェックの一部の方法が十分に機能していないことがわかった」と語った。
+規制当局によるプラットフォーム調査の核心は、「年齢推論」として知られる技術の利用だ。
+これは基本的に、ユーザーが視聴するビデオや他のユーザーと対話するなど、プラットフォームの使用方法に基づいてユーザーの年齢を推定することに依存しています。
+デービス氏は、オフコムはこうしたツールがユーザーの年齢を確認するのに十分であるかどうかについて「深刻な疑問」を抱いていると述べた。
+規制当局はソーシャルメディアプラットフォームなどに対し、ユーザーがソーシャルメディアを使用できる年齢に達しているかを確認し、子どもが有害なコンテンツを見ないようにするための「非常に効果的な」方法を使用するよう求めている。
+「年齢推定が非常に効果的であるかどうかについて、私たちは非常に深刻な疑問を抱いています」と彼女は言う。
+しかし、TikTokの広報担当者は「当社は、主要な同業他社と同様に、専門家に基づいたプラットフォームルールと高度な年齢推論技術を通じて、年齢に応じた体験を厳格に施行している」と述べた。
+彼らは、同社が8年前に英国で立ち上げて以来、オンラインの安全性のために「数十億」を投資してきたと述べた。
+年齢確認の実施
+TikTokの年齢確認に関するOfcomの見直しは、児童がポルノなどのアダルトコンテンツやその他の有害なコンテンツに遭遇することを防止できていないサイトに対する広範な取り締まりの一環である。
+昨年 7 月 25 日に発効したオンライン安全法 (OSA) による児童コードの保護に基づき、そのようなコンテンツを含むサイトは英国の訪問者が 18 歳以上であることを確認するために顔スキャンなどの方法を使用する必要があります。
+しかし、規制当局はその後、違反の疑いまたは証明された違反を理由に、数十のアダルトサイトに対して多額の罰金を課すなどの措置を講じなければならなくなった。
+TikTokに対する同社の調査は、ソーシャルメディアサイトに対する監視が強化されていることを示している。
+いわゆる年齢推論技術を利用しているのはTikTokだけではなく、インスタグラムも年齢を偽っている人物が子供である可能性を特定する他の方法の一つとしてこの技術を導入している。
+同プラットフォームによると、英国のユーザーはデフォルトで18歳未満に対して、成人であることが理解されるまで年齢に応じたエクスペリエンスが提供されるという。
+アカウント作成時に13歳以上の生年月日を入力しなかった場合、別の生年月日を入力するなどして新たにアカウントを作成することは禁止されるという。
+さらに質問
+モリー・ローズ財団（MRF）の最高責任者、アンディ・バローズ氏はオフコムの調査を歓迎した。
+同氏は、子供たちが「有害なコンテンツの津波にさらされる」のを防ぐための「ひどい失敗」だとTikTokを批判した。
+ソーシャルメディアで自傷行為や自殺コンテンツを閲覧した後、14歳で自ら命を絶ったモリー・ラッセルさんの遺族が設立したこの慈善団体は、多くの十代の若者がTikTokでリスクの高いコンテンツを見ているという独自の調査を引用した。
+しかし、バロウズ氏は、いかなる捜査も同サイトの「有害なアルゴリズムを一掃し、児童の安全義務を遵守していない明らかな失敗」にも対処しなければならないと述べた。
+BBCはTikTokに返答を求めた。
+法律事務所ペイン・ヒックス・ビーチの刑事弁護士でオンライン安全の専門家でもあるレベッカ・スマート氏は、OSAが子どもの保護に関して明らかに「ある程度前進した」と述べた。
+しかし彼女は、「現在の執行体制は、完全な遵守を推進するのに十分な強力な抑止力を提供しない可能性がある」と述べた。
+「これらの子供たちを保護するために適切な年齢確認を実施していないサービスには厳しい罰則を設けるべきだ」と彼女は述べた。
+「より強力な説明責任と執行がなければ、子どもたちはOSAが防止するように設計されたオンライン上の危害に対して脆弱なままになるでしょう。」
+関連トピック
+- 2025 年 7 月 24 日発行
+- 5 月 21 日公開
+- 1 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ce8l1zk9dk9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-16T11:08:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c060/live/299cb270-80e4-11f1-a5c2-db1656c1a0a8.jpg",
+    readTime: 6,
+  },
+  {
+    id: "u-s-grocery-slowdown-deepens-as-shoppers-f519137a",
+    title: "U.S. grocery slowdown deepens as shoppers buy fewer items, raising pressure on food companies",
+    titleJa: "買い物客の購入品数減少で米国の食料品不況が深刻化し、食品会社への圧力が高まる",
+    summaryJa: "米国の食料品の減速は無視できなくなってきている。買い物客は1年前に比べて購入する品物が減り、販売単価の低迷が価格上昇を上回っているため、食料品の売上高は減少している。これは、CNBCと独占的に共有されたニールセンIQ食料品データを使用したベイン・アンド・カンパニーの新しい分析によるものです。",
+    bodyOriginal: `The U.S. grocery slowdown is becoming harder to ignore.
+Shoppers are buying fewer items than a year ago, and grocery sales are declining as weakening unit sales are now outweighing rising prices. That is according to new analysis from Bain & Company using NielsenIQ grocery data shared exclusively with CNBC.
+Grocery units, which refer to individual items or products sold, fell 1.8% in June from a year earlier, a sharp reversal from the 0.1% year-over-year growth recorded in June 2025. While prices continue to rise about 2% to 3% year-over-year, that inflation cushion for the industry is no longer enough to keep overall sales growing.
+"That big grocery stock up trip that costs you $300 in 2019, now costing you $400," said Kurt Grichel, head of Bain's Americas retail practice.
+"Even that upper-income consumer, you're talking a big enough absolute dollar change that people start to feel a little bit of that sticker shock and start to shop around," said Grichel.
+Rather than one economic shock, Bain suggests several pressures have converged on consumers.
+Grocery prices are roughly 33% higher than they were in 2019 and fuel costs have spiked. Many lower-income households have also had to cut back spending due to reduced SNAP benefits and tighter program eligibility.
+Bain's U.S. Consumer Pulse Wave survey conducted in May found 80% of Americans are still trying to spend less, while 28% are actively cutting back on grocery spending. Among those shoppers, 56% said they are trading down to cheaper brands, 49% said they are buying fewer items and 44% said they are relying more heavily on coupons and promotions.
+Those trends are having ripple effects for producers. PepsiCo is one of the food manufacturers feeling the consumer shift.
+During its second quarter reported on Thursday, the beverage and snack maker said North American demand weakened. North America food revenue fell 2%, while volume was flat.
+"I think the consumer is worse than what we had anticipated, and it's driven mainly by gas prices," said PepsiCo CEO Ramon Laguarta during the company's conference call with investors.
+Executives also pointed to lower effective pricing, indicating the company increased promotional activity as consumers became more price sensitive.
+Those results align with a broader shift across the grocery industry, where retailers including Walmart and Kroger have emphasized price cuts and value-focused promotions to attract shoppers.
+Walmart announced summer price cuts to beef, ice cream and other items including products made by PepsiCo, Coca-Cola and the company's own private label Great Value.
+"The grocers have been pushing back on the suppliers to reduce prices where possible, and the suppliers recognize the need to do so," said Telsey Advisory Group analyst Joe Feldman.
+"The entire industry is trying to get back to unit growth, not just dollar growth."
+Bain said that strategy may become increasingly important.
+"The edge goes to grocers that are priced sharply on the products that customers notice," said Grichel. "Most things like ground beef, chicken, milk, eggs, and they're using a combination of promotions, loyalty programs, personalization, private label to stitch together an overall value proposition that customers can understand and trust."`,
+    bodyJa: `米国の食料品の減速は無視できなくなってきている。
+買い物客は1年前に比べて購入する品物が減り、販売単価の低迷が価格上昇を上回っているため、食料品の売上高は減少している。これは、CNBCと独占的に共有されたニールセンIQ食料品データを使用したベイン・アンド・カンパニーの新しい分析によるものです。
+販売された個々の品目または製品を指す食料品部門は、6月に前年同月比1.8％減少し、2025年6月に記録した前年比0.1％増から大きく反転した。価格は前年比約2％から3％上昇し続けているが、業界のインフレクッションはもはや全体の売上高の成長を維持するには十分ではない。
+「2019年には300ドルかかった大規模な食料品買い出し旅行が、現在は400ドルになっている」とベインの南北アメリカ小売業務責任者のカート・グリケル氏は語る。
+「高所得層の消費者でさえ、人々がそのステッカーショックを少し感じて買い物をし始めるほど、十分に大きな絶対的なドルの変化を話しているのです」とグリチェル氏は述べた。
+ベイン氏は、単一の経済ショックではなく、いくつかの圧力が消費者に集中していることを示唆しています。
+食料品価格は2019年と比べて約33％上昇し、燃料費も高騰している。多くの低所得世帯も、SNAP給付金の削減とプログラムの資格の厳格化により、支出を削減する必要に迫られている。
+ベインが5月に実施した米国消費者パルスウェーブ調査では、米国人の80％が依然として支出を減らそうと努力しており、28％が食料品の支出を積極的に削減していることが判明した。これらの買い物客のうち、56% がより安価なブランドに買い替えていると回答し、49% が購入する品物が減った、44% がクーポンやプロモーションにもっと依存していると回答しました。
+こうした傾向は生産者に波及効果をもたらしている。ペプシコは消費者の変化を感じている食品メーカーの一つだ。
+木曜日に報告された第2四半期中に、飲料およびスナックメーカーは北米の需要が弱まったと述べた。北米の食品収益は 2% 減少しましたが、販売量は横ばいでした。
+ペプシコのラモン・ラグアルタ最高経営責任者（CEO）は投資家との電話会議で「消費者の状況はわれわれが予想していたよりも悪化していると思う。その原因は主にガソリン価格だ」と語った。
+幹部らは実効価格の低下も指摘し、消費者が価格に敏感になるにつれて同社が販促活動を強化したことを示唆している。
+これらの結果は、ウォルマートやクローガーなどの小売業者が買い物客を引きつけるために値下げや価値を重視したプロモーションを強調している食料品業界全体の広範な変化と一致している。
+ウォルマートは牛肉、アイスクリーム、ペプシコ、コカ・コーラ、自社プライベートブランドのグレート・バリューの製品を含むその他の商品の夏季値下げを発表した。
+テルシー・アドバイザリー・グループのアナリスト、ジョー・フェルドマン氏は「食料品店はサプライヤーに対し、可能な限り値下げを要求しており、サプライヤーもそうする必要性を認識している」と述べた。
+「業界全体が、金額の伸びだけではなく、単位の伸びを取り戻そうとしているのです。」
+ベイン氏は、戦略がますます重要になる可能性があると述べた。
+「顧客が注目する商品に大幅な価格を設定する食料品店に優位性がある」とグリチェル氏は語った。 「ひき肉、鶏肉、牛乳、卵などのほとんどの製品は、プロモーション、ロイヤルティ プログラム、パーソナライゼーション、プライベート ラベルを組み合わせて、顧客が理解し、信頼できる全体的な価値提案をつなぎ合わせています。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/us-grocery-spending-slows-in-hit-to-food-companies.html",
+    publishedAt: "2026-07-16T11:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "who-is-the-frontrunner-to-be-the-uk-s-ne-c0d5de66",
+    title: "Who is the frontrunner to be the UK's next chancellor?",
+    titleJa: "英国の次期首相の最有力候補は誰?",
+    summaryJa: "英国の次期首相の最有力候補は誰?- 公開されました",
+    bodyOriginal: `Who is the frontrunner to be the UK's next chancellor?
+- Published
+Andy Burnham will be moving in to Downing Street on Monday, as he becomes the next UK prime minister following the resignation of Sir Keir Starmer.
+But who will live next door in Number 11 as chancellor?
+Officially, Burnham's team says no decision has been taken and cabinet position announcements won't be made until Monday.
+But that hasn't stopped speculation about who may take on the top Treasury role - and attempts at influencing Burnham's choice in chancellor.
+Whoever it is, that person will face quite the in-tray – high debt, low growth, welfare reform, defence spending, and the economic fallout from the US-Israel war with Iran to name a few issues.
+Here are the names of those believed to be in the running for the job - and what they could mean for your finances.
+Shabana Mahmood
+There has been increasing talk of the current home secretary becoming chancellor.
+The BBC has been told there are "live discussions" about putting Mahmood in Number 11, while the Financial Times, external is reporting it as a certainty based on three sources close to Burnham.
+While she does not have an economics background, she is a senior minister on Labour's right and it may be felt that she could reassure financial markets and smooth the transition to a Burnham government.
+Kathleen Brooks, research director at XTB, said the markets were already rallying in relief to reports that Mahmood would become chancellor, with the pound up about 1% against the US dollar this week.
+"It tells us two things about Andy Burnham's government: firstly, the market trusts Mahmood to take a sensible approach to economic policy, and to tackle the hard questions of welfare spending, secondly, Burnham is willing to have those to the right of the Labour party in his cabinet in key economic roles," Brooks said.
+However, according to separate reports from the Press Association, Mahmood is keen to remain as home secretary and see through changes she has brought in to the asylum system.
+Ed Miliband
+In late June, Ed Miliband was the bookmakers' strong favourite for the number two job in British politics, with the former Labour party leader politically closer to Burnham than other rivals.
+However, opinions differ on whether former Treasury adviser Miliband would receive the backing of the financial markets, which the government depends on to lend money.
+Some see Miliband as an inflation risk, believing his drive for net zero as energy secretary as partly responsible for the UK's high energy prices compared to other countries.
+Analysts say that reputation, whether accurate or not, could affect how bond markets react to his time as chancellor.
+In recent days, several MPs close to Burnham - who have no issues with the energy secretary - believe the likelihood of appointing Miliband has significantly lessened.
+But others close to Miliband believe it was both highly possible he would become chancellor, and something that was still wanted.
+Yvette Cooper
+Foreign Secretary Yvette Cooper could be a surprise compromise pick, and is seen as a potential for chancellor.
+She has years of experience in government, serving as chief secretary to the Treasury under Gordon Brown, and sits somewhere in between Miliband and McFadden or Streeting politically.
+Danni Hewson, head of financial analysis at financial services firm AJ Bell, calls her a "middle of the road" option but also "a bit more of an unknown".
+Wes Streeting
+Wes Streeting, a former contender for the Labour leadership, was the early favourite for chancellor, with suggestions that he could be awarded the job for coming out and backing Burnham and withdrawing his own ambitions.
+However, economist and cross-bench peer Lord Jim O'Neill, who has been providing advice to Burnham, has warned against this approach.
+Lord O'Neill told the BBC the advice he has given Burnham is to "figure out what his priorities are as prime minister before he picks a chancellor".
+Though Burnham may appreciate Streeting's backing, the pair's politics differ - with Burnham seen to be inclined to spend more than Streeting.
+Simon French, chief economist at consultancy Panmure Liberum, says Streeting is a "relatively market-friendly option" because of his pro-growth comments, but also a political risk because he might someday want to be prime minister.
+Pat McFadden
+Though seen as a less likely option than Streeting or Miliband, some view Pat McFadden as the most qualified pick, having held shadow Treasury jobs, been a business minister in a previous Labour government, and also being the current work and pensions secretary.
+It is his experience in the latter role that could help him to tackle what many say will be any future chancellor's biggest task: welfare reform.
+Panmure Liberum's French believes the markets may view McFadden as "the safest pair of hands" out of those in the running and will either react positively or neutrally if he were picked.
+But if Burnham is looking for a clean break from the previous government, he will likely overlook the Sir Keir-loyalist.
+Rachel Reeves
+It's looking increasingly unlikely that the current Chancellor, Rachel Reeves, will keep her job.
+A spokesperson for Burnham said no decisions had been made about who he would appoint, but reports suggest Reeves would be replaced and offered a junior or mid-level cabinet position.
+Reeves has urged a Burnham-led government to stick to what she is doing because it is "beginning to bear fruit". Burnham has said previously he would stick to Reeves' fiscal rules.
+She defended her handling of the UK economy in an interview with the BBC, in which she backed the former Manchester mayor, despite the reports of her potential demotion. She opted to welcome him to parliament in a photoshoot with other MPs and was notably absent from Sir Keir's resignation speech.
+Reeves told the British Chambers of Commerce conference she was proud of her record so far but there was "more to do".
+And the rest
+Then there are the longlist of wildcards.
+Former defence secretary John Healey, who very publicly quit because he did not believe the government was spending enough on defence, is another option.
+However, Paul Johnson says Burnham would essentially be committing to meeting that spending demand if he chose him.
+"If I was Andy Burnham, I would not want to tie myself to that particular pillar that quickly," he said.
+Bookmakers and reports also mention chief secretary to the prime minister Darren Jones, who ruled himself out of the running for the leadership, and former chief executive of the Resolution Foundation Torsten Bell as outsiders.
+While some politicians are more likely to be hired than others, each one will want the job.
+As Lord O'Neil puts it: "The ones whose names are in the papers are the ones who are putting themselves forward."
+Related topics
+- Published20 hours ago
+- Published20 hours ago`,
+    bodyJa: `英国の次期首相の最有力候補は誰?
+- 公開されました
+キーア・スターマー卿の辞任を受けて次期英国首相に就任するアンディ・バーナム氏は、月曜日にダウニング街に引っ越してくる予定だ。
+しかし、11番地の隣に誰が首相として住むのでしょうか？
+公式には、バーナム氏のチームは何も決定は下されておらず、閣僚の職位発表は月曜日まで行われないと述べている。
+しかし、それでも誰が財務省トップの役割を担うかについての憶測や、バーナム氏の首相選びに影響を与えようとする試みは止まらなかった。
+それが誰であれ、その人物は、いくつかの問題例を挙げると、高債務、低成長、福祉改革、国防支出、米国とイスラエルの対イラン戦争による経済的影響など、かなりの難題に直面することになるだろう。
+以下に、その職に立候補していると考えられる人々の名前と、彼らがあなたの財政に与える影響を示します。
+シャバナ・マフムード
+現在の内務大臣が首相に就任するという話が増えている。
+BBCはマフムードを11番に据えることについて「生の議論」があると伝えられているが、社外のフィナンシャル・タイムズ紙はバーナムに近い3人の情報源に基づいてそれが確実であると報じている。
+彼女には経済学の経歴はないが、労働党右派の上級大臣であり、金融​​市場を安心させ、バーナム政権への移行を円滑に進めることができると考えられているのかもしれない。
+ＸＴＢのリサーチディレクター、キャスリーン・ブルックス氏は、マフムード氏が首相に就任するとの報道に市場はすでに安堵感から反発しており、今週ポンドは対ドルで約１％上昇したと述べた。
+「これはアンディ・バーナム政権について2つのことを物語っている。第1に市場はマフムードが経済政策に対して賢明なアプローチをとり、福祉支出という難しい問題に取り組むと信頼していること、第2にバーナムは労働党の右派の人々を経済の重要な役割に閣内に入れることに意欲的である」とブルックス氏は語った。
+しかし、記者協会の別の報道によると、マフムード氏は内務大臣に留まり、彼女が亡命制度にもたらした変化を見届けることに熱心である。
+エド・ミリバンド
+6月下旬時点では、元労働党党首のエド・ミリバンド氏が他のライバルより政治的にバーナム氏に近いとして、ブックメーカーの英国政界第2位の有力候補となっていた。
+しかし、ミリバンド元財務顧問が政府が資金の貸し出しに依存している金融市場の支援を得られるかどうかについては意見が分かれている。
+ミリバンド氏をインフレリスクと見なす人もおり、エネルギー長官としてネットゼロを目指す同氏の推進が他国に比べて英国のエネルギー価格の高さの一因であると考えている。
+アナリストらは、正確かどうかは別として、評判が同氏の首相時代に対する債券市場の反応に影響を与える可能性があると指摘している。
+ここ数日、バーナム氏に近い数人の国会議員は、エネルギー長官と何ら問題を抱えていないが、ミリバンド氏を任命する可能性は大幅に低下したと考えている。
+しかし、ミリバンドに近い他の人々は、ミリバンドが首相に就任する可能性が非常に高く、依然として望まれていた人物であると信じている。
+イベット・クーパー
+イベット・クーパー外相は予想外の妥協案で選ばれる可能性があり、首相候補とみられている。
+彼女は政府で長年の経験があり、ゴードン・ブラウンの下で財務長官を務め、政治的にはミリバンドとマクファデンまたはストリートの間のどこかに位置している。
+金融サービス会社AJベルの財務分析責任者、ダニー・ヒューソン氏は、彼女のことを「中途半端」な選択肢だが、「もう少し未知数」とも言う。
+ウェス・ストリート
+労働党指導部の元候補者であるウェス・ストリート氏は、初期の首相候補であり、バーナム氏を名乗り出て支持し、自身の野望を撤回することで首相に就任する可能性があるとの示唆があった。
+しかし、バーナム氏にアドバイスを提供してきた経済学者であり、ベンチ外の同業者であるジム・オニール卿は、このアプローチに対して警告している。
+オニール卿はBBCに対し、バーナム氏に与えたアドバイスは「首相を選ぶ前に首相としての優先事項が何かを理解すること」だと語った。
+バーナムはストリートティングの支援に感謝しているかもしれないが、二人の政策は異なっており、バーナムはストリートティングよりも多額の支出をする傾向があるとみられている。
+コンサルティング会社パンミュール・リベルムのチーフエコノミスト、サイモン・フレンチ氏は、成長を支持するコメントをしているため、ストリーティングは「比較的市場に優しい選択肢」だが、いつか首相になりたいと考えているため政治的リスクでもあると語る。
+パット・マクファーデン
+ストリーティング氏やミリバンド氏に比べて可能性は低いと見られているが、影の財務省の職を歴任し、前労働党政権で経済相を務め、現在は労働年金長官を務めているパット・マクファデン氏が最も適任だと見る人もいる。
+後者の役割での彼の経験は、将来の首相の最大の課題であると多くの人が言う福祉改革に取り組むのに役立つ可能性がある。
+パンミュール・リベルムのフランス人は、市場はマクファーデンを候補者の中で「最も安全なペア」とみなしている可能性があり、彼が選ばれた場合は肯定的または中立的に反応すると考えている。
+しかし、バーナム氏が前政権からの完全な決別を求めているのであれば、キーア卿支持者を無視する可能性が高い。
+レイチェル・リーブス
+現首相レイチェル・リーブスが職を続ける可能性はますます低くなってきている。
+バーナム氏の広報担当者は、誰を任命するかについては何も決定していないと述べたが、報道によると、リーブス氏の後任には若手か中堅の閣僚ポストがオファーされるだろうという。
+リーブス氏は、バーナム主導の政府に対して、「成果を上げ始めている」ため、バーナム氏が行っていることを堅持するよう求めた。バーナム氏は以前、リーブス氏の財政ルールを堅持すると述べていた。
+彼女はBBCとのインタビューで、降格の可能性があるとの報道にもかかわらず、前マンチェスター市長を支持した英国経済への自身の対応を擁護した。彼女は他の国会議員との写真撮影で彼を議会に迎えることを選択し、特にキア卿の辞任演説には欠席した。
+リーブスさんは英国商工会議所の会議で、これまでの実績を誇りに思うが「やるべきことはまだある」と語った。
+そして残りは
+次に、ワイルドカードの長いリストがあります。
+ジョン・ヒーリー元国防長官は、政府が国防に十分な支出をしていないという理由で辞任を公言しているが、もう一つの選択肢である。
+しかし、ポール・ジョンソン氏は、バーナム氏が彼を選んだ場合、本質的にその支出需要を満たすことにコミットするだろうと述べている。
+「もし私がアンディ・バーナムだったら、そんなにすぐにその特​​定の柱に自分を結びつけたくないだろう」と彼は言った。
+ブックメーカーや報道では、党首選に立候補しないことを辞退したダレン・ジョーンズ首相の首席秘書官や、レゾリューション財団の元最高経営責任者トーステン・ベル氏も部外者として言及されている。
+一部の政治家は他の政治家よりも採用される可能性が高いが、それぞれがその職を望むだろう。
+オニール卿はこう述べています。「新聞に名前が載っている人は、自分自身を名乗り出ている人です。」
+関連トピック
+- 20 時間前に公開
+- 20 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-16T10:03:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78fd/live/b69ee8d0-80f0-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 8,
+  },
+  {
     id: "tsmc-to-invest-additional-100-billion-in-2e035819",
     title: "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
     titleJa: "TSMC、第2四半期の利益が77％急増したことを受け、アリゾナ州に追加1000億ドル投資へ",
@@ -1579,438 +2135,6 @@ for flights over 3,500km, such as London to New York, you can claim up to £520 
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d8f/live/9b8ebd00-8009-11f1-bb75-11c541dbc811.jpg",
     readTime: 4,
-  },
-  {
-    id: "asml-rises-5-after-hiking-sales-forecast-8f2be40c",
-    title: "ASML rises 5% after hiking sales forecast for second time this year on strong AI chip demand",
-    titleJa: "ASML、強いAIチップ需要を受けて今年2度目の売上予測引き上げを受け5%上昇",
-    summaryJa: "ASMLは水曜日、顧客がAIチップの生産を拡大し続ける中、今年2回目のガイダンスを引き上げ、予想を上回る四半期決算を報告した。オランダの半導体装置メーカーは、通年の売上高が430億ユーロ（490億ドル）から450億ユーロ、粗利益率が54％から56％になると予想していると述べた。従来は年間純売上高が360億～400億ユーロ、粗利益率が51～53％になると予想していた。",
-    bodyOriginal: `ASML on Wednesday raised its guidance for the second time this year and reported stronger-than-expected quarterly results as its customers continue to ramp up production of AI chips.
-The Dutch semiconductor-equipment maker said it now expects full-year sales to come in between 43 billion euros ($49 billion) and 45 billion euros, and a gross margin of between 54 and 56%. It previously predicted annual net sales of between 36 billion and 40 billion euros, and a gross margin between 51% and 53%.
-The stock jumped over 7% at the market open before slightly paring gains to last trade 4.8% higher. Shares have surged 115% this year.
-Here's how ASML did versus LSEG consensus estimates for the second quarter:
-- Net sales: 9.3 billion euros versus 8.8 billion euros expected
-- Net profit: 2.9 billion euros versus 2.6 billion euros expected
-ASML — Europe's most valuable company — is the only company in the world that makes extreme ultraviolet (EUV) lithography machines used to produce the most advanced semiconductors.
-CEO Christophe Fouquet said order intake remained "extremely strong" in the first half of the year. That momentum means the company will target adding 30% to its 2026 low NA EUV capacity and 30% to its 2026 Deep Ultraviolet (DUV) immersion capacity, he said.
-Chip expansion push
-ASML had already raised its guidance last quarter on the continued demand for its highest-end EUV machines. This is expected to remain high as chipmakers expand production capacity to meet the needs of the AI boom.
-The company's customers continue to "accelerate their capacity expansion plans," CEO Fouquet said in a Wednesday statement. "This is translating into customer commitments across our product portfolio, providing ASML with increased visibility into longer-term demand."
-"ASML is doing a great job in bringing that capacity in, and the firm has several levers to do that," Javier Correonero, senior equity analyst at Morningstar, told CNBC's Ritika Gupta. He said the company was increasing output by optimizing the "cleanroom" space they have in Veldhoven, where they produce the DUV and EUV machines, while also carrying out so-called "fast shipments."
-Earlier this week, Taiwan Semiconductor Manufacturing Co (TSMC), one of ASML's largest customers, reported a 68% jump in June sales on the back of strong demand for its chips.
-TSMC is planning to add two advanced chip packaging plants in the Chiayi Science Park in southern Taiwan, Reuters reported, citing remarks made by Taiwan's National Science and Technology Council Minister Wu Cheng-wen on Sunday.
-UBS analysts said in a July 10 note that the buildout in semiconductor fabrication facilities, as well as AI-driven demand for leading-edge chip production, is expected to help ASML see a stronger second half of the year.
-China sales
-Despite robust demand, semiconductor stocks have come under pressure as investors question whether the huge AI-driven capital spending can be sustained. ASML also faces tightening restrictions on export controls of its advanced chip equipment.
-The stock slumped 6% in April after a bipartisan group of U.S. lawmakers proposed a bill that would cut off ASML's sale of DUV machines to Chinese chip companies and impact its already shrinking sales there. That law still needs to work its way through the U.S. legislative process.
-But restrictions can have a counterintuitive effect, Morningstar's Correonero said, and have previously led to a boom in demand as Chinese customers snapped up machines in anticipation of further restrictions. He noted that while ASML is a well-managed company, expectations are quite high.
-"There's a lot priced in, and we see it slightly overvalued," the analyst said. "Just to give you an idea, ASML right now is trading roughly at a 50x forward PE, which is in line with the peaks that we saw during Covid times ... Our valuation for ASML implies more like a 35-40x forward PE, which we consider more recent."
-Read more
-ASML said Wednesday that it continues to expect China to make up around 20% of its total net sales for the year.
-"The Chinese market is moving in sync with the overall behavior that we see globally," Chief Financial Officer Roger Dassen said in a transcript of a video interview.
-The company said it will provide an update on its longer-term goals at a Capital Markets Day on June 10 next year.
-— CNBC's Arjun Kharpal helped contribute to this story.`,
-    bodyJa: `ASMLは水曜日、顧客がAIチップの生産を拡大し続ける中、今年2回目のガイダンスを引き上げ、予想を上回る四半期決算を報告した。
-オランダの半導体装置メーカーは、通年の売上高が430億ユーロ（490億ドル）から450億ユーロ、粗利益率が54％から56％になると予想していると述べた。従来は年間純売上高が360億～400億ユーロ、粗利益率が51～53％になると予想していた。
-株価は市場開始時に7％以上急騰した後、前回取引の4.8％高と比べて若干の上昇幅を保った。株価は今年115％上昇した。
-第 2 四半期の ASML と LSEG コンセンサス予測の比較は次のとおりです。
-- 純売上高: 予想88億ユーロに対し93億ユーロ
-- 純利益: 予想26億ユーロに対し29億ユーロ
-ASML — ヨーロッパで最も価値のある企業 — は、最先端の半導体の製造に使用される極端紫外線 (EUV) リソグラフィー装置を製造する世界で唯一の企業です。
-CEOのクリストフ・フーケ氏は、今年上半期の受注は引き続き「非常に好調」だったと述べた。この勢いは、同社が2026年の低NA EUV容量を30％、2026年の深紫外線（DUV）浸漬容量を30％増やすことを目標にしていることを意味すると同氏は述べた。
-チップ拡張プッシュ
-ASMLは、最高級EUV装置に対する継続的な需要を受けて、すでに前四半期にガイダンスを引き上げていた。チップメーカーがAIブームのニーズに応えるために生産能力を拡大する中、この数字は引き続き高水準で推移すると予想される。
-フーケ最高経営責任者（CEO）は水曜日の声明で、同社の顧客は引き続き「生産能力拡大計画を加速させている」と述べた。 「これは当社の製品ポートフォリオ全体にわたる顧客のコミットメントに反映されており、ASML は長期的な需要に対する可視性を高めています。」
-モーニングスターのシニア株式アナリスト、ハビエル・コレオネロ氏はCNBCのリティカ・グプタに対し、「ASMLはその能力を導入する上で素晴らしい仕事をしており、同社はそれを実現するための手段をいくつか持っている」と語った。同氏は、同社はフェルドホーフェンにあるDUVおよびEUV装置を生産する「クリーンルーム」スペースを最適化することで生産量を増やしていると同時に、いわゆる「高速出荷」も行っていると述べた。
-ASMLの最大顧客の1つである台湾積体電路製造（TSMC）は今週初め、同社のチップに対する強い需要を背景に6月の売上高が68％増加したと報告した。
-台湾の国家科学技術委員会の呉承文大臣の日曜日の発言を引用してロイター通信が報じたところによると、TSMCは台湾南部の嘉義サイエンスパークに先進的なチップパッケージング工場を2つ追加する計画だという。
-UBSのアナリストらは7月10日のメモで、半導体製造施設の増強と最先端チップ生産に対するAI主導の需要がASMLの今年下半期の好調を後押しすると予想していると述べた。
-中国販売
-堅調な需要にもかかわらず、投資家がAI主導の巨額の設備投資を維持できるかどうか疑問を抱き、半導体株は圧力にさらされている。 ASMLはまた、先端チップ機器の輸出規制の強化にも直面している。
-米国の超党派議員グループがASMLによる中国チップ企業へのDUV装置の販売を打ち切り、すでに縮小している中国での売上高に影響を与える法案を提案したことを受け、株価は4月に6％下落した。この法律はまだ米国の立法プロセスを通過する必要がある。
-しかし、モーニングスターのコレオネロ氏は、制限は直観に反する効果をもたらす可能性があり、以前はさらなる制限を見越して中国の顧客が機械を買い占めたため、需要が急増したと述べた。同氏は、ASML は適切に管理されている企業である一方で、期待は非常に高いと指摘しました。
-同アナリストは「多くのことが織り込まれており、やや過大評価されていると見ている」と述べた。 「参考までに言っておきますが、ASMLは現在、およそ50倍の先物PERで取引されており、これは新型コロナウイルス感染症の時期に見られたピークと一致しています…ASMLに対する当社の評価は、35〜40倍の先物PEを示唆しており、これはより最近のものであると考えています。」
-続きを読む
-ASMLは水曜日、今年の総純売上高の約20％を中国が占めると引き続き予想していると述べた。
-ロジャー・ダッセン最高財務責任者（ＣＦＯ）はビデオインタビューの記録で、「中国市場は世界的に見られる全体的な動きと同期して動いている」と述べた。
-同社は、来年6月10日の資本市場デーで長期目標に関する最新情報を発表すると述べた。
-— CNBC の Arjun Kharpal がこの記事の寄稿に協力しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/15/asml-2q-earnings-ai-chips-orders.html",
-    publishedAt: "2026-07-15T08:11:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "midnight-social-media-curfew-proposed-fo-c197394e",
-    title: "Midnight social media curfew proposed for UK teens aged 16 and 17",
-    titleJa: "英国の16歳と17歳の十代の若者に深夜のソーシャルメディア外出禁止を提案",
-    summaryJa: "英国の16歳と17歳の十代の若者に深夜のソーシャルメディア外出禁止を提案- 公開されました",
-    bodyOriginal: `Midnight social media curfew proposed for UK teens aged 16 and 17
-- Published
-Older teenagers in the UK will face an overnight social media curfew, the government has announced - though they will be able to opt out of it by changing their account settings.
-It would mean apps such as Instagram, TikTok and YouTube being set to be unavailable by default to 16 and 17-year-olds between midnight and 06:00.
-The government also wants "addictive" features such as auto-play and infinite scroll to be set to be disabled, saying - combined with the curfew - the measures will improve teenagers' focus, sleep quality and family life.
-However, campaigners such as Ellen Roome, who believes her 14-year-old son Jools Sweeney died in an online challenge gone wrong in 2022, does not think the plan goes far enough as teenagers can switch the setting off.
-"I just think it's not good enough really just to have a product you can switch off, it's a bit like offering a 17-year-old a bottle of alcohol and then moving it slightly out of arms reach, they can just drag it back in, I really wish they could go stronger and harder on these things," she told BBC Radio 4's Today programme.
-The new plans follow the announcement in June that under-16s in the UK would be banned entirely from a range of platforms.
-Online safety minister Kanishka Narayan defended the policy on BBC One's Breakfast programme, saying the combination of the curfew and limiting auto-play features meant that "Britain is already going to be the most robust place in the world when it comes to regulating" tech companies.
-Speaking on the Today programme, Alex, who is 17, said while there were questions about whether being able to opt out "defeated the point", he felt it could still help by reminding young people how long they are spending on social apps.
-Meanwhile 17-year-old Confidence, who said she often spent up to six hours a day on social media, said she would prefer to opt out of the curfew - adding if people her age are trusted to make decisions about university, they should be able to control their own screen time.
-In an earlier statement, Technology Secretary Liz Kendall said the measures would be "crucial in helping young people get the sleep they need, focus on school and college, and spend more quality time with family and friends, all of which are fundamental to building a happy, healthy and fulfilling adult life".
-"We want young people to enjoy the benefits of technology while having the tools to make the online world a place where they can thrive."
-Laura Trott, the Conservative shadow education secretary, described the plans as a "dog's dinner".
-"Either they think 16 and 17-year-olds should be on social media or they don't, but curfews they can simply switch off won't achieve anything," she said.
-The government said further measures would be aimed at helping children use AI chatbots safely - including by making providers introduce regular breaks for under-18s.
-It says it will aim to lay its new proposed measures in front of Parliament by the end of 2026, with the aim that they take effect alongside its social media ban for under-16s next spring.
-But some child safety charities and experts have cast doubt on the effectiveness or promise of a midnight curfew for older UK teens.
-"While we welcome these measures for older teens, this latest move is yet another piecemeal set of announcements, not the comprehensive plan for children's safety that's required," said Andy Burrows, chief executive of the Molly Rose Foundation.
-He added that Prime Minister Sir Keir Starmer "leaves office having announced a social media ban without a plan" - with his likely successor Andy Burnham to "inherit a series of missed opportunities".
-Prof Sonia Livingstone, an expert in children's digital rights at the London School of Economics, said a curfew could harm vulnerable children by limiting their access to social media when they might need it most.
-"If it's a curfew on companies using push notifications to wake someone up in the night, absolutely have a curfew," Prof Livingstone told the BBC.
-"But if it's a curfew that prevents a child in need of support or help or comfort reaching out to trusted sources in the middle of the night, I think that's quite harmful potentially."
-Dame Rachel de Souza, children's commissioner for England, said: "We have to listen to young people. They don't want a ban, but they do want to be protected from addictive, infinite scrolling."
-She added: "I want to know more about how the policies, such as a curfew, will be delivered and will be watching closely to make sure they are effective – alongside pushing Ofcom to make full use of its powers to make the online world safer for children."
-Which social media platforms will be banned for UK under-16s?
-- Published16 June
-'One part of the puzzle'
-The government trialled a range of possible interventions, including overnight curfews, in the homes of some families across the UK.
-It saw 300 teens have their social apps disabled entirely, blocked overnight from 21:00 and 07:00 or capped to one hour's use - with some also seeing no such changes at all - in order to compare their experiences over one month.
-In a report published on Tuesday, the government cited its curfew trials as seeing the most sleep benefits, as well as more engaging and communicative family evenings, and a less burdensome set-up for parents.
-It was also the most manageable option of the three to enforce, the report said.
-"These findings show what parents have been telling us all along: when children spend less time on social media, the benefits are real," Kendall said of the findings.
-But Pete Etchells, professor of science communication at Bath Spa University, cautioned against relying too much on them.
-"This is a small study that is one part of the puzzle in trying to understand how children and parents will navigate technology restrictions in a practical way," he said.
-VPN questions
-The proposals outlined by the prime minister follow in Australia's footsteps by banning social media for under-16s in the UK.
-Australia's restrictions, which took effect in December, saw a slew of social apps forced to close teens' accounts and prevent them from opening new ones.
-But the curbs have been criticised as ineffective, with many teens saying they can still access supposedly banned sites.
-This, and questions over the feasibility of age checks for under-16s, has prompted some concern about the UK following suit.
-Another point of concern had been suggestions by the government it might consider potential curbs around virtual private networks (VPNs).
-On Tuesday, the government - citing findings from research it commissioned, external - said there was little to show VPNs were being used by many children to get around age checks.
-Online safety minister Narayan confirmed on Wednesday that at this stage the government would not be making changes to its VPNs policy.
-"We have decided not to limit VPNs today and that's the primary conclusion for now but it is something we will continue to review," he said.
-Additional reporting by Chris Vallance
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published21 March
-- Published15 June`,
-    bodyJa: `英国の16歳と17歳の十代の若者に深夜のソーシャルメディア外出禁止を提案
-- 公開されました
-政府は、英国の年長のティーンエイジャーに対し、一晩中ソーシャルメディアの使用禁止を課すことになると発表したが、アカウント設定を変更することで禁止をオプトアウトすることも可能だという。
-これは、Instagram、TikTok、YouTubeなどのアプリが、デフォルトで16歳と17歳に対して午前0時から午前6時まで利用できないように設定されることを意味する。
-政府はまた、自動再生や無限スクロールなどの「中毒性」機能を無効に設定することを望んでおり、外出禁止令と組み合わせることで、この措置は十代の若者たちの集中力、睡眠の質、家庭生活を改善すると述べている。
-しかし、エレン・ルームさんのような活動家たちは、2022年に14歳の息子ジュールズ・スウィーニーさんがオンラインチャレンジの失敗で死亡したと信じているが、10代の若者が設定をオフにできるため、この計画が十分に進んでいるとは考えていない。
-「スイッチをオフにできる製品があるだけでは本当に十分ではないと思います。それは、17歳の子供にアルコールのボトルを勧めて、それを腕の届かないところに少し移動させて、引きずって元に戻すようなものです。私は彼らがこれらのことにもっと強く、より熱心に取り組むことができることを本当に願っています」と彼女はBBCラジオ4の番組「トゥデイ」で語った。
-新しい計画は、英国の16歳未満のユーザーがさまざまなプラットフォームから完全に禁止されるという6月の発表に続くものだ。
-オンライン安全大臣のカニシカ・ナラヤン氏は、BBC Oneの朝食番組に関する方針を擁護し、外出禁止令と自動再生機能の制限の組み合わせにより、ハイテク企業の規制に関して「英国はすでに世界で最も堅牢な国になるだろう」と述べた。
-Todayの番組で、17歳のアレックスさんは、オプトアウトできるのは「的外れ」かどうかという疑問はあるものの、若者たちにソーシャルアプリにどれだけの時間を費やしているかを思い出させることで、それでも役立つ可能性はあると感じたと語った。
-一方、ソーシャルメディアに1日最大6時間を費やすことが多かったという17歳のコンフィデンスさんは、外出禁止令を解除したいと述べ、もし同年齢の人々が大学に関する決定を下すのに信頼されているのであれば、彼らは自分のスクリーンタイムをコントロールできるはずだと付け加えた。
-リズ・ケンドール技術長官は以前の声明で、今回の措置は「若者が必要な睡眠をとり、学校や大学に集中し、家族や友人と充実した時間を過ごすことを支援する上で極めて重要であり、これらはすべて幸せで健康で充実した成人生活を築く上での基礎となる」と述べた。
-「私たちは若者たちにテクノロジーの恩恵を享受しながら、オンラインの世界を成長できる場所にするためのツールを手に入れてほしいと考えています。」
-保守党の影の教育担当書記であるローラ・トロット氏は、この計画を「犬の夕食」と表現した。
-「彼らは16歳と17歳がソーシャルメディアを利用すべきだと考えているか、そうでないかのどちらかですが、単にスイッチを切るだけの外出禁止令では何も達成できません」と彼女は言う。
-政府は、プロバイダーに18歳未満に対する定期的な休憩の導入を義務付けるなど、子供たちがAIチャットボットを安全に使用できるようにすることを目的としたさらなる措置を講じると述べた。
-来春の16歳未満に対するソーシャルメディア禁止と並行して発効することを目指し、2026年末までに新たな法案を議会に提出することを目指すとしている。
-しかし、一部の児童安全慈善団体や専門家は、英国の年長の十代の若者に対する深夜外出禁止令の有効性や約束に疑問を投げかけている。
-モリー・ローズ財団のアンディ・バローズ最高経営責任者（CEO）は、「10代以上の若者に対するこうした措置は歓迎するが、今回の措置はまたしても断片的な発表であり、子どもたちの安全のために必要とされる包括的な計画ではない」と述べた。
-同氏は、サー・キア・スターマー首相が「無計画にソーシャルメディアの禁止を発表し辞任」し、後継者となる可能性が高いアンディ・バーナム氏が「逃した一連の機会を引き継ぐ」と付け加えた。
-ロンドン・スクール・オブ・エコノミクスの子どものデジタル権利の専門家であるソニア・リビングストン教授は、外出禁止令は最も必要なときにソーシャルメディアへのアクセスを制限し、弱い立場にある子どもたちに悪影響を与える可能性があると述べた。
-リヴィングストン教授はBBCに対し、「夜中に誰かを起こすためにプッシュ通知を使用している企業に外出禁止令を課すのであれば、絶対に外出禁止令を設けるべきだ」と語った。
-「しかし、サポートや支援、慰めを必要としている子どもが真夜中に信頼できる情報源に連絡することを妨げる外出禁止令であれば、それは潜在的に非常に有害だと思います。」
-イングランド児童委員のデイム・レイチェル・デ・ソウザ氏は、「若者の声に耳を傾けなければならない。彼らは禁止を望んでいるわけではないが、中毒性のある無限スクロールから守られることを望んでいる」と語った。
-彼女はさらに、「外出禁止などの政策がどのように実現されるのかをもっと知りたいし、子供たちにとってオンラインの世界をより安全にするためにOfcomがその権限を最大限に活用するよう促すと同時に、それらの政策が効果的であることを注意深く監視するつもりだ」と付け加えた。
-英国の 16 歳未満の人々に対して禁止されるソーシャル メディア プラットフォームはどれですか?
-- 6 月 16 日公開
-「パズルの一部」
-政府は英国全土の一部の家庭で夜間の外出禁止など、考えられるさまざまな介入を試行した。
-この調査では、1か月間の体験を比較するため、300人の10代の若者がソーシャルアプリを完全に無効にし、夜間21時から7時までブロックするか、使用時間を1時間に制限するなどの措置を講じた。中には全くそのような変化が見られなかった人もいた。
-火曜日に発表された報告書の中で、政府は、外出禁止令の試験では、睡眠効果が最も高く、家族の夜がより魅力的でコミュニケーションが促進され、親の負担が軽減されたと述べた。
-また、これは施行する3つの選択肢の中で最も管理しやすい選択肢でもあったと報告書は述べている。
-「これらの調査結果は、親たちが私たちにずっと言い続けてきたことを示している。子どもたちがソーシャルメディアに費やす時間が減れば、その恩恵は本物だということだ」とケンダル氏は調査結果について語った。
-しかし、バース・スパ大学のピート・エッチェルズ科学コミュニケーション教授は、それらに頼りすぎないよう警告する。
-同氏は、「これは小規模な研究であり、子どもや親が実際的な方法でテクノロジーの制限をどのように乗り越えるかを理解しようとするパズルの一部である」と述べた。
-VPN に関する質問
-首相が概説した提案は、英国で16歳未満に対するソーシャルメディアを禁止するというオーストラリアの例に倣ったものだ。
-オーストラリアの規制は12月に発効し、多数のソーシャルアプリが10代の若者のアカウントを閉鎖し、新たなアカウントを開設することができなくなった。
-しかし、この縁石は効果がないと批判されており、多くの十代の若者たちは禁止されているはずのサイトにまだアクセスできると主張している。
-このことと、16歳未満に対する年齢確認の実現可能性を巡る疑問により、英国も追随するのではないかとの懸念が生じている。
-もう 1 つの懸念点は、仮想プライベート ネットワーク (VPN) に関する潜在的な制限を検討する可能性があるという政府の提案でした。
-火曜日、政府は外部に委託した調査結果を引用し、多くの子供たちが年齢確認を回避するためにVPNを使用していることを示す証拠はほとんどないと述べた。
-ナラヤン・オンライン安全大臣は水曜日、現段階では政府がVPNポリシーを変更するつもりはないことを認めた。
-同氏は「われわれは本日、VPNを制限しないことを決定した。それが現時点での主要な結論だが、今後も検討していく」と述べた。
-Chris Vallance による追加レポート
-Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。
-関連トピック
-- 3 月 21 日公開
-- 6 月 15 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-15T07:58:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/654dede0-8024-11f1-bee8-53ce494e1abc.jpg",
-    readTime: 9,
-  },
-  {
-    id: "thames-water-returns-to-profit-after-rai-a6e4c57b",
-    title: "Thames Water returns to profit after raising bills",
-    titleJa: "テムズ・ウォーター、料金値上げ後に黒字に転換",
-    summaryJa: "テムズ・ウォーター、料金値上げ後に黒字に転換- 公開されました",
-    bodyOriginal: `Thames Water returns to profit after raising bills
-- Published
-Thames Water has returned to a full-year profit after hiking its customers bills by 40% last year.
-The UK's largest water company reported post-tax income of £113m for the 12 months to the end of March, swinging from a £1.51bn post-tax loss the previous year.
-However, the firm's net debt also swelled to £18.5bn from £16.8bn as it said it "continued to fund the business through... debt and internally generated cash flows".
-Chief executive Chris Weston said: "The progress we have made in turning the company around has meant we are now performing better."
-The publication of Thames Water's results comes after the government rejected a proposed rescue deal for the business in June.
-Under the terms of the deal, Thames' lenders wanted leniency from future pollution fines in return for writing off £9.4bn of its debt pile and investing new money.
-Thames Water said on Wednesday pollution incidents had fallen by 18%. It hit just over half of its performance targets.
-The firm said it was below target when it came to customer complaints, which jumped by 77% in a year, with bill complaints making up over three quarters of the total.
-The results also reveal how money from its customer bills is not enough to fund the massive upgrades needed to improve its aging and historically underinvested infrastructure, which means it needs to borrow more money.
-It added that it has enough debt funding to keep the business going "through to Q4 2026".
-Weston told investors on a call on Wednesday its investors "want to see what the new Burnham government thinks before providing more funding".
-Labour MP Andy Burnham is expected to become Prime Minister on Monday. He has previously called for Thames Water to be nationalised.
-Additional reporting by Simon Jack
-Related topics
-- Published16 June
-- Published15 July 2025`,
-    bodyJa: `テムズ・ウォーター、料金値上げ後に黒字に転換
-- 公開されました
-テムズ・ウォーターは昨年、顧客への請求額を40％値上げした後、通年で黒字に戻った。
-英国最大の水道会社は、3月末までの12か月間で税引き後利益が1億1,300万ポンドと報告し、前年の15億1,000万ポンドの税引き後損失から大きく拡大した。
-しかし、同社は「負債と内部で生み出されたキャッシュフローを通じて事業資金を供給し続けている」と述べ、純負債も168億ポンドから185億ポンドに膨らんだ。
-クリス・ウェストン最高経営責任者（ＣＥＯ）は「会社の立て直しに向けた進歩により、業績も向上している」と述べた。
-テムズ・ウォーターの決算発表は、政府が6月に同事業に対する救済協定提案を拒否した後に行われた。
-取引条件に基づき、テムズ川の貸し手は94億ポンドの債務の山を帳消しにして新たな資金を投資する代わりに、将来の汚染罰金の減免を求めていた。
-テムズ・ウォーターは水曜日、汚染事件が18％減少したと発表した。業績目標の半分強を達成しました。
-同社は、顧客からの苦情に関しては目標を下回っており、苦情は1年で77％増加し、請求書に関する苦情が全体の4分の3以上を占めていると述べた。
-この結果はまた、老朽化し​​歴史的に投資が不足していたインフラを改善するために必要な大規模なアップグレードの資金として、顧客請求からの資金だけでは十分ではなく、より多くの資金を借入する必要があることも明らかにしている。
-また、「2026年第4四半期まで」事業を継続するのに十分な借入資金があると付け加えた。
-ウェストン氏は水曜日の電話会議で投資家に対し、投資家は「追加資金を提供する前にバーナム新政権が何を考えているかを見たいと考えている」と語った。
-労働党議員アンディ・バーナム氏が月曜日に首相に就任すると予想されている。同氏は以前、テムズ川の国有化を主張していた。
-Simon Jack による追加レポート
-関連トピック
-- 6 月 16 日公開
-- 2025 年 7 月 15 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-15T07:35:29+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0067/live/694e25f0-800f-11f1-855c-e18bf6105698.jpg",
-    readTime: 2,
-  },
-  {
-    id: "u-s-strikes-iranian-missile-sites-defens-1bfa8255",
-    title: "U.S. strikes Iranian missile sites, defense systems and reinstates port blockade",
-    titleJa: "米国、イランのミサイル基地と防衛システムを攻撃、港湾封鎖を再開",
-    summaryJa: "ホルムズ海峡内およびその周辺のイラン港湾に対する海上封鎖を再開する命令が発効したことを受け、中央軍は火曜日遅く、米軍がイラン目標に対する新たな攻撃を完了したと発表した。午後３時に始まった７時間のストライキは、セントコムはXポストで、ETはホルムズ海峡とイラン沿岸地域付近の数十の軍事目標を攻撃したと述べた。",
-    bodyOriginal: `U.S. forces completed another round of strikes against Iranian targets, the Central Command said late Tuesday, as the order to resume its naval blockade of Iranian ports in and around the Strait of Hormuz took effect.
-The seven-hour strikes, which had started at 3 p.m. ET, hit dozens of military targets near the Strait of Hormuz and Iranian coastal areas, Centcom said in an X post.
-American fighter aircraft, drones, and naval vessels launched precision munitions against Iranian missile and drone sites, naval facilities, and coastal defense systems, further devastating Iran's ability to threaten commercial shipping through the critical waterway, according to Centcom.
-The strikes took place as the U.S. naval blockade in the Gulf of Oman resumed at 4 p.m. ET.
-In a statement posted on social media later in the day, Brad Cooper, Centcom Commander, said that Iran had "intentionally" targeted civilians and attacked seven commercial ships over the past seven days, resulting in about a dozen crew members killed, missing or injured.
-The warring countries have escalated military hostilities in recent days, with Tehran expanding attacks to several Gulf countries. Jordan's Army reportedly said that their air defense system had struck down three missiles from Iran earlier on Wednesday.
-In an interview with Fox News that aired Tuesday, President Donald Trump renewed his threats to target Iranian power plants and bridges, unless the Iranians "get to the table and negotiate."
-The American blockade of Iranian ports was lifted after the U.S. and Iran struck a temporary ceasefire deal as part of a 14-point memorandum of understanding signed last month. But Trump last week declared the ceasefire was "over" after multiple flare-ups of hostilities in the region and as each side accused the other of violating the terms of the deal.
-Trump announced Monday that the U.S. would reimpose the blockade against Iran, as Tehran's efforts to forcefully take control of the strait appear to have ramped back up as the ceasefire falls to the wayside.
-To increase pressure on the Iranian regime, the U.S. Treasury said on Tuesday it had imposed new sanctions to dismantle the "illicit shipping empire" of Mohammad Hossein Shamkhani, describing the network as "a major enabler behind Iran's oil exports."
-Commercial shipping traffic through the waterway, which was far below prewar levels even as the ceasefire was in effect, sharply dropped in recent days, ship tracking firms found.
-Before the U.S. and Israel launched the war against Iran in late February, the strait saw 20% of the world's oil pass through it.
-"The Hormuz Strait is OPEN, and will remain OPEN, with or without Iran," Trump insisted in a Truth Social post announcing the blockade was back on.
-In the same post, Trump said that the U.S. will start demanding reimbursement "at the rate of 20% on all cargo shipped" through the strait.
-The policy proposal met with deep skepticism from energy experts and swift opposition from shipping industry groups, including the United Nations' International Maritime Organization. Critics quickly resurrected recent clips of Trump administration officials declaring that it would be illegal for a country to impose tolls in an international waterway.
-One day after announcing the 20% fee plan, Trump reversed course. He claimed on Truth Social on Tuesday morning that he would "replace" the proposed toll with "Trade and Investment Deals that the various Gulf States will be making into the United States."
-At the White House later Tuesday, Trump said that he had fielded calls from world leaders who told him "we'd love to do it a different way."
-"I like that, actually, because I don't think anybody should be able to charge a fee for the strait," Trump said. "I don't think anybody should be really in that position, but we were doing it as a reimbursement."
-He said that he spoke with Saudi Arabia, the United Arab Emirates, Qatar, Bahrain, Kuwait and others. None of those countries has yet revealed plans this week to boost investment in the U.S.`,
-    bodyJa: `ホルムズ海峡内およびその周辺のイラン港湾に対する海上封鎖を再開する命令が発効したことを受け、中央軍は火曜日遅く、米軍がイラン目標に対する新たな攻撃を完了したと発表した。
-午後３時に始まった７時間のストライキは、セントコムはXポストで、ETはホルムズ海峡とイラン沿岸地域付近の数十の軍事目標を攻撃したと述べた。
-セントコムによると、アメリカの戦闘機、無人機、海軍艦艇がイランのミサイルや無人機の拠点、海軍施設、沿岸防衛システムに対して精密弾を発射し、重要な水路を通る商船を脅かすイランの能力をさらに壊滅させた。
-攻撃はオマーン湾での米国の海上封鎖が午後4時に再開される中で行われた。 ET。
-セントコムのブラッド・クーパー司令官は同日後半にソーシャルメディアに投稿した声明で、イランが「意図的に」民間人を標的にし、過去7日間に7隻の商船を攻撃し、その結果乗組員約12人が死亡、行方不明、負傷したと述べた。
-紛争諸国はここ数日軍事的敵対行為を激化させており、イラン政府は湾岸諸国のいくつかへの攻撃を拡大している。ヨルダン軍は水曜日初め、防空システムがイランからのミサイル３発を撃墜したと発表した。
-火曜日に放送されたFOXニュースとのインタビューで、ドナルド・トランプ大統領は、イランが「テーブルに着いて交渉」しない限り、イランの発電所や橋を標的にする、と改めて脅迫した。
-米国によるイラン港湾封鎖は、先月署名された14項目の覚書の一環として米国とイランが一時停戦協定を結んだことを受けて解除された。しかし、トランプ大統領は先週、この地域で何度も敵対関係が激化し、双方が協定条件に違反していると相手を非難したことを受けて、停戦は「終わった」と宣言した。
-トランプ大統領は月曜、停戦が暗礁に乗り上げる中、海峡を力で制圧しようとするイラン政府の取り組みが再び加速しているように見える中、米国がイランに対する封鎖を再び課すと発表した。
-イラン政権への圧力を強化するため、米財務省は火曜日、モハマド・ホセイン・シャムハーニー氏の「違法海運帝国」を解体するために新たな制裁を課したと発表し、同ネットワークを「イランの石油輸出を支える主要な要因」であると述べた。
-船舶追跡会社によると、この水路を通る商業船舶の交通量は、停戦が発効していたにもかかわらず戦前の水準をはるかに下回っていたが、ここ数日で急激に減少した。
-米国とイスラエルが２月下旬に対イラン戦争を開始する前、この海峡は世界の石油の２０％が通過していた。
-トランプ大統領は、封鎖再開を発表したトゥルース・ソーシャルへの投稿で、「ホルムズ海峡は開いており、イランの有無にかかわらず、今後も開いたままだ」と主張した。
-トランプ大統領は同じ投稿で、米国は海峡を通って輸送される「全貨物の20％の割合」で償還を要求し始めると述べた。
-この政策提案は、エネルギー専門家からは深い懐疑の声が上がり、国連の国際海事機関を含む海運業界団体からはすぐに反対された。批評家らは、トランプ政権当局者が国際水路で国が料金を課すことは違法であると宣言する最近の映像をすぐに復活させた。
-20％の手数料計画を発表した翌日、トランプ大統領は方針を転換した。同氏は火曜日朝、トゥルース・ソーシャルで、提案されている通行料を「湾岸諸国が米国と締結する貿易・投資協定」に「置き換える」と主張した。
-トランプ大統領は火曜日後半にホワイトハウスで、世界の指導者らからの電話に応じて「ぜひ別の方法でやりたい」との電話を受けたと述べた。
-「実際、私はそれが気に入っている。誰も海峡の使用料を請求できるべきではないと思うからだ」とトランプ大統領は語った。 「誰も実際にそのような立場にあるべきではないと思いますが、私たちは償還としてそれを行っていました。」
-サウジアラビア、アラブ首長国連邦、カタール、バーレーン、クウェートなどと協議したと述べた。これらの国はいずれも今週、米国への投資を拡大する計画をまだ明らかにしていない。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-    publishedAt: "2026-07-15T05:54:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "why-europe-is-suddenly-betting-big-on-dr-8eadf9bc",
-    title: "Why Europe is suddenly betting big on drones",
-    titleJa: "なぜヨーロッパは突然ドローンに大きく賭け始めたのか",
-    summaryJa: "欧州はロシアのウクライナ侵攻に対抗して何年もかけて軍の再建に取り組んできた。現在、投資は大陸の将来の安全保障の中心となると考えられる 1 つの技術、つまりドローンを中心にますます集中しています。過去 2 週間にわたる一連の発表は、その変化がいかに急速に加速しているかを示しています。 NATOは新たなドローン構想を発表し、英国はドローンと対ドローンシステムに数十億ポンドを割り当て、ドイツはウクライナ向けに5万機のドローン調達に動き、防衛技術スタートアップのヘルシングは180億ドルの評価額を確保した。",
-    bodyOriginal: `Europe has spent years rebuilding its military in response to Russia's invasion of Ukraine. Now, investment is increasingly converging around one technology that is seen as central to the continent's future security: drones.
-A flurry of announcements over the past two weeks shows just how quickly that shift is accelerating. NATO unveiled a new drone initiative, the U.K. earmarked billions of pounds for drones and counter-drone systems, Germany moved to procure 50,000 drones for Ukraine, and defense tech startup Helsing secured an $18 billion valuation.
-The developments reflect a broader shift in military planning, with drones and autonomous systems moving from niche battlefield tools to a core part of modern warfare. The trend is creating opportunities not only for drone manufacturers but also for companies developing AI, software, electronic warfare and secure communications.
-"Future defence is moving towards a layered battlefield, where, for example, a tank will not simply fire shells; it will also launch drones, receive live targeting data from satellites and [unmanned aerial vehicles], share information across the battlefield, and operate as part of a networked force," Morningstar analyst Loredana Muharremi told CNBC.
-Battlefield lessons from Ukraine – alongside Iran's use of low-cost Shahed drones in the Middle East – have shown the importance of relatively inexpensive, AI-enabled drones that can gather intelligence, extend the reach of conventional weapons and increasingly operate autonomously.
-How are drones being used in modern warfare?
-Those battlefield lessons are now reshaping procurement decisions across Europe.
-Last week, NATO Secretary General Mark Rutte said the military alliance would become "drone-ready," as he announced a drone initiative in which allies would invest more than $40 billion in counter-drone capabilities over the next five years.
-Drones have "fundamentally altered" the character of modern warfare and have become a "decisive factor" on the battlefield, Rutte said, citing the Russia-Ukraine war as one example.
-The U.K. is also investing heavily in autonomous systems. Under its Defence Investment Plan published in late June, the government committed £5 billion ($6.7 billion) to a "UK drone transformation" program aimed at strengthening the country's armed forces.
-Germany, meanwhile, is expanding support for Ukraine. On Monday, defense software company Auterion and Ukrainian drone maker Skyfall announced a 90-million-euro order for 50,000 drones equipped with Auterion's operating system from a European NATO member. A source familiar with the matter confirmed to CNBC that the country was Germany.
-"This is the first war happening at a time where drones were prevalent enough that they started to play a role," Auterion CEO Lorenz Meier told CNBC.
-Software is increasingly defining the battlefield, according to Meier.
-Auterion's operating system enables drones to continue striking targets despite electronic jamming, making them more effective in contested environments. "It allows them to dive into a target, even if the target has jammers, where previously they would have lost video signal and missed," Meier said.
-It also allows them to strike a target that's below the radio horizon, for example, when a drone descends in a valley. The company plans to introduce software that allows operators to control coordinated swarms of drones rather than piloting each aircraft individually.
-While the latest order is intended for Ukraine, Meier said the technology is already attracting interest from armed forces, including those of Germany, Norway, Britain, and France.
-Low-cost drones are also increasingly being paired with high-end weapons to improve their effectiveness by distracting or overwhelming enemy air defenses.
-Beyond drone makers
-The growing use of drones and other autonomous systems is also boosting the demand for the technology needed to coordinate the drones in real time, according to Muharremi. That includes secure communications, battle management software, AI, and satellite-based intelligence, sensors and electronic warfare systems.
-"As a result, companies with physical platform scale and exposure across autonomy, air defence, sensors, electronic warfare, software, and space are likely to capture a share of future defence spending," she said.
-It comes as European core defense spending has doubled since 2019 and, under NATO's 3.5% target for 2035, could reach about 800 billion euros by 2030 – roughly 2.9 % of GDP – according to McKinsey.
-Venture capital investment in defense technology also accelerated sharply in 2025 on both sides of the Atlantic. Deal volumes more than doubled year on year, according to McKinsey, and European defense tech funding rose from around 200 million euros in 2021 to 2.6 billion euros in 2025.
-Among the biggest beneficiaries is Munich-based Helsing. On Monday, the company announced a funding round that valued it at $18 billion, cementing its position as one of Europe's best-funded defense technology startups.
-Helsing makes drones and underwater surveillance weapons, and builds AI and autonomous software to power these military applications, highlighting how Europe's defense industry is increasingly betting that the future of warfare will depend as much on software and autonomy as on traditional military hardware.`,
-    bodyJa: `欧州はロシアのウクライナ侵攻に対抗して何年もかけて軍の再建に取り組んできた。現在、投資は大陸の将来の安全保障の中心となると考えられる 1 つの技術、つまりドローンを中心にますます集中しています。
-過去 2 週間にわたる一連の発表は、その変化がいかに急速に加速しているかを示しています。 NATOは新たなドローン構想を発表し、英国はドローンと対ドローンシステムに数十億ポンドを割り当て、ドイツはウクライナ向けに5万機のドローン調達に動き、防衛技術スタートアップのヘルシングは180億ドルの評価額を確保した。
-この開発は軍事計画における広範な変化を反映しており、無人機と自律システムはニッチな戦場ツールから現代戦争の中核部分に移行しています。この傾向は、ドローンメーカーだけでなく、AI、ソフトウェア、電子戦、安全な通信を開発する企業にもチャンスをもたらしています。
-モーニングスターのアナリスト、ロレダナ・ムハレミ氏はCNBCに対し、「将来の防衛は多層的な戦場に向かって進んでおり、例えば戦車は単に砲弾を発射するだけでなく、無人機を発射し、衛星や（無人航空機）からリアルタイムの照準データを受信し、戦場全体で情報を共有し、ネットワーク化された部隊の一部として活動することになる」と語った。
-ウクライナが戦場で得た教訓は、イランが中東で低コストのシャヘド・ドローンを使用していることと並行して、情報を収集し、通常兵器の射程を延長し、ますます自律的に運用できる比較的安価なAI搭載ドローンの重要性を示している。
-ドローンは現代の戦争でどのように使用されていますか?
-こうした戦場での教訓は現在、ヨーロッパ全土で調達の決定を再構築しつつある。
-先週、NATO事務総長のマーク・ルッテは、同盟国が今後5年間で対ドローン能力に400億ドル以上を投資するドローン構想を発表し、軍事同盟は「ドローン対応」になるだろうと述べた。
-ルッテ氏は、無人機は現代の戦争の性格を「根本的に変え」、戦場では「決定的な要因」になったと述べ、一例としてロシア・ウクライナ戦争を挙げた。
-英国も自動運転システムに多額の投資を行っている。政府は6月末に発表した国防投資計画に基づき、国軍の強化を目的とした「英国無人機変革」プログラムに50億ポンド（67億ドル）を投入した。
-一方、ドイツはウクライナへの支援を拡大している。月曜日、防衛ソフトウェア会社オーテリオンとウクライナのドローンメーカースカイフォールは、欧州のNATO加盟国からオーテリオンのオペレーティングシステムを搭載したドローン5万機を9000万ユーロで発注したと発表した。関係筋はＣＮＢＣに対し、その国がドイツであることを認めた。
-オーテリオンのロレンツ・マイヤー最高経営責任者（CEO）はCNBCに対し、「ドローンが十分に普及し、ドローンが役割を果たし始めた時期に起きた初めての戦争だ」と語った。
-マイヤー氏によると、ソフトウェアは戦場をますます定義づけるようになっています。
-オーテリオンのオペレーティング システムにより、ドローンは電子妨害にもかかわらず目標を攻撃し続けることができるため、紛争環境でのドローンの効果がさらに高まります。 「これにより、標的に妨害装置が設置されている場合でも、以前ならビデオ信号が失われて見逃していたであろう標的に飛び込むことが可能になる」とマイヤー氏は語った。
-また、ドローンが谷に降下する場合など、電波の地平線の下にある目標を攻撃することも可能になります。同社は、オペレーターが各航空機を個別に操縦するのではなく、ドローンの群れを調整して制御できるソフトウェアを導入する予定だ。
-今回の発注はウクライナを対象としているが、マイヤー氏は、この技術はすでにドイツ、ノルウェー、英国、フランスを含む軍隊からの関心を集めていると述べた。
-低コストのドローンは、敵の防空を妨害したり圧倒したりすることで効果を高めるために、高性能兵器と組み合わせられることも増えています。
-ドローンメーカーを超えて
-ムハレミ氏によると、ドローンやその他の自律システムの利用が拡大していることにより、ドローンをリアルタイムで調整するために必要な技術の需要も高まっているという。これには、安全な通信、戦闘管理ソフトウェア、AI、衛星ベースのインテリジェンス、センサー、電子戦システムが含まれます。
-「その結果、物理的なプラットフォームの規模と自治、防空、センサー、電子戦、ソフトウェア、宇宙にわたるエクスポージャーを持つ企業が、将来の国防支出のシェアを獲得する可能性が高い」と同氏は述べた。
-マッキンゼーによると、欧州の中核的国防支出が2019年以来倍増しており、NATOの2035年までの3.5％目標の下では、2030年までに約8000億ユーロ（GDPの約2.9％）に達する可能性があるという。
-防衛技術へのベンチャーキャピタルの投資も、2025 年には大西洋の両側で急激に加速しました。マッキンゼーによると、取引額は前年比で2倍以上に増加し、欧州の防衛技術資金は2021年の約2億ユーロから2025年には26億ユーロに増加した。
-最大の恩恵を受けたのはミュンヘンに本拠を置くヘルシングだ。同社は月曜日、180億ドルと評価される資金調達ラウンドを発表し、ヨーロッパで最も資金を集めた防衛技術新興企業の1つとしての地位を固めた。
-ヘルシングはドローンや水中監視兵器を製造し、これらの軍事用途を強化するAIや自律型ソフトウェアを構築しており、ヨーロッパの防衛産業が戦争の将来が従来の軍事ハードウェアだけでなくソフトウェアや自律性に依存することへの賭けをますます強めていることを浮き彫りにしている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
-    publishedAt: "2026-07-15T05:05:26+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "oil-rises-as-u-s-continues-to-strike-teh-e05aebf8",
-    title: "Oil rises as U.S. continues to strike Tehran, reinstates blockade of Iranian ports",
-    titleJa: "米国がテヘラン攻撃を続け、イランの港湾封鎖を再開する中、原油が上昇",
-    summaryJa: "米軍がテヘランに対して再度攻撃を実施し、米国がホルムズ海峡近くのイラン港湾の海上封鎖を再開したため、水曜日の不安定な取引の中で原油価格が上昇した。米国ウエスト・テキサス・インターミディエイト先物８月限は１．０１％上昇し、１バレル＝８０．１４ドルとなった。国際ベンチマークであるブレントの９月先物は１．２３％上昇し、８５．７７ドルとなった。",
-    bodyOriginal: `Oil prices rose in choppy trading Wednesday as U.S. forces carried out another round of strikes against Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.
-U.S. West Texas Intermediate futures for August delivery rose 1.01% to $80.14 per barrel. September Futures for international benchmark Brent were up 1.23% at $85.77.
-U.S. Central Command said late Tuesday stateside that it had carried out another wave of strikes against Iran late Tuesday, targeting dozens of military assets near the Strait of Hormuz and along Iran's coastline in a seven-hour operation.
-The attacks, involving fighter aircraft, drones and naval vessels, struck missile and drone facilities, naval assets and coastal defense systems to further degrade Iran's ability to threaten commercial shipping, Centcom said.
-The operation started as U.S. forces resumed a naval blockade on vessels traveling to and from Iranian ports earlier in the day.
-In a subsequent social media statement, Centcom Commander Brad Cooper said Iran had "intentionally" targeted civilians and attacked seven commercial vessels over the previous week, leaving roughly a dozen crew members dead, missing or injured.
-"The latest escalation shows how expectations of a rapid opening of then Strait were premature," said Saul Kavonic, senior energy analyst at Mst Marquee.
-"The hostilities and reimposed blockade set the conflict back on an escalatory trajectory," he told CNBC in an email. "Oil could retest $100 if the current intensity of hostilities persist for a few weeks, or head higher still if regional oil infrastructure is targeted."`,
-    bodyJa: `米軍がテヘランに対して再度攻撃を実施し、米国がホルムズ海峡近くのイラン港湾の海上封鎖を再開したため、水曜日の不安定な取引の中で原油価格が上昇した。
-米国ウエスト・テキサス・インターミディエイト先物８月限は１．０１％上昇し、１バレル＝８０．１４ドルとなった。国際ベンチマークであるブレントの９月先物は１．２３％上昇し、８５．７７ドルとなった。
-米中央軍は火曜日遅く、ホルムズ海峡付近とイランの海岸線に沿った数十の軍事施設を標的とし、７時間の作戦でイランに対する新たな攻撃を実施したと米国内で火曜日遅くに発表した。
-セントコムによると、戦闘機、無人機、海軍艦艇を使った攻撃は、ミサイルや無人機の施設、海軍資産、沿岸防衛システムを攻撃し、商業船舶を脅かすイランの能力をさらに低下させた。
-この作戦は、米軍が同日早朝にイラン港を出入りする船舶に対する海上封鎖を再開したことを受けて開始された。
-その後のソーシャルメディア声明で、セントコム司令官のブラッド・クーパー氏は、イランが「意図的に」民間人を標的にし、前週に7隻の商船を攻撃し、乗組員約12人が死亡、行方不明、負傷したと述べた。
-「最近の事態の拡大は、当時の海峡が急速に開通するという期待がいかに時期尚早だったかを示している」と、マスト・マーキーの上級エネルギーアナリスト、ソール・カボニック氏は述べた。
-「敵対行為と封鎖の再発動により、紛争は再びエスカレートする軌道に戻った」と同氏は電子メールでCNBCに語った。 「現在の戦闘の激しさが数週間続く場合、石油価格は100ドルを再試行する可能性があるが、地域の石油インフラが標的にされる場合はさらに上昇する可能性がある。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
-    publishedAt: "2026-07-15T02:58:47+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "china-posts-slowest-quarterly-growth-sin-23f5c3b4",
-    title: "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-    titleJa: "中国は投資低迷で景気刺激策を求める声が高まり、2022年以来最も低い四半期成長率を記録",
-    summaryJa: "第２・四半期の中国経済は２０２２年第４・四半期以来の弱いペースで拡大し、消費の低迷が続く一方、投資の減少加速で成長へのひずみが深まる中、政策刺激策を求める声が強まった。国家統計局が水曜日に示した4～6月期の国内総生産（GDP）成長率は4.3％となり、ロイター調査によるエコノミスト予想の4.5％成長を下回り、第1四半期の5％から鈍化した。",
-    bodyOriginal: `China's economy in the second quarter expanded at its weakest pace since the fourth quarter of 2022, reinforcing calls for policy stimulus as an accelerating slide in investments deepened the strain on growth, while consumption stayed subdued.
-Gross domestic product growth came in at 4.3% in the April to June period, data from the National Statistics Bureau showed Wednesday, missing economists' forecast for 4.5% growth in a Reuters poll, and slowing from 5% in the first quarter.
-That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades, amid tensions with trade partners, including the U.S. and the European Union, and sluggish domestic demand.
-Given the disappointing growth, Tianchen Xu, senior economist at Economist Intelligence Unit, expects stimulus measures to be ramped up in the third quarter, including a policy rate cut to stimulate investment demand.
-Urban fixed-asset investment, including real estate development and infrastructure projects, declined 5.7% in the first six months from a year earlier, worse than expectations for a 4.9% drop in a Reuters poll, and steepening from a 4.1% contraction in the first five months.
-Xu attributed the steepening investment slump to local governments channeling resources into debt restructuring and a shortage of eligible projects in the pipeline. "Boosting infrastructure investment will be a key focus for stabilizing growth."
-In June, China's retail sales grew 1%, rebounding from a 0.6% drop in the prior month and exceeding economists' forecast for a 0.1% fall. Retail sales in May posted their first monthly decline since late 2022, dragged down by tepid demand and merchants' steep discounting.
-Industrial output expanded 5.3% in June from a year ago, stronger than the forecast 4.7% growth, and gaining pace from 4.5% expansion in May.
-Chinese economy has grappled with a deepening supply-demand imbalance. Robust industrial production and exports tied to the global AI investment boom continue to power headline growth, even as consumption and private investment weakens amid a prolonged property downturn and volatile energy prices.
-The statistics bureau noted "acute" imbalance between excess supply and sluggish demand, urging policymakers to step up "counter- and cross-cyclical adjustments."
-Urban investment slumped for the first time in decades last year, falling 3.8% from a year earlier, as a prolonged property downturn and tighter constraints on local governments' borrowing have hampered one of China's traditional growth drivers.
-Chinese urban unemployment stood at 5% in June. The leadership is targeting an unemployment rate of less than 5.5% over the next five-year period.
-— CNBC's Evelyn Cheng contributed to the report.`,
-    bodyJa: `第２・四半期の中国経済は２０２２年第４・四半期以来の弱いペースで拡大し、消費の低迷が続く一方、投資の減少加速で成長へのひずみが深まる中、政策刺激策を求める声が強まった。
-国家統計局が水曜日に示した4～6月期の国内総生産（GDP）成長率は4.3％となり、ロイター調査によるエコノミスト予想の4.5％成長を下回り、第1四半期の5％から鈍化した。
-この第２・四半期の成長率は、米国や欧州連合（ＥＵ）を含む貿易相手国との緊張や内需の低迷を背景に、中国政府の通期成長率目標範囲である４．５─５％を下回り、ここ数十年で最も野心的ではない目標となった。
-エコノミスト・インテリジェンス・ユニットのシニアエコノミスト、ティエンチェン・シュウ氏は、期待外れの成長を踏まえ、投資需要を刺激するための政策金利引き下げを含む景気刺激策が第３・四半期に強化されると予想している。
-不動産開発やインフラプロジェクトを含む都市部の固定資産投資は１─６月に前年同期比５．７％減少し、ロイター調査の予想（４．９％減）よりも悪化し、１─６月の４．１％減から急減速した。
-Xu氏は、投資不振の深刻化は地方政府が債務再編に資源を注ぎ込んでいることと、パイプラインにある適格プロジェクトの不足が原因であると指摘した。 「インフラ投資の促進が成長を安定させるための重要な焦点となるだろう。」
-６月の中国の小売売上高は１％増加し、前月の０．６％減から回復し、エコノミスト予想の０．１％減を上回った。 5月の小売売上高は、需要の低迷と加盟店の大幅な値引きに引きずられ、2022年後半以来初めて月間減少を記録した。
-6月の鉱工業生産は前年同月比5.3％増と、予想の4.7％増を上回り、5月の4.5％増から勢いを増した。
-中国経済は深刻化する需給不均衡に直面している。長引く不動産不況と不安定なエネルギー価格の影響で消費と民間投資が低迷する中でも、世界的なAI投資ブームに伴う堅調な鉱工業生産と輸出が引き続き主要成長を牽引している。
-統計局は過剰供給と需要低迷の間の「深刻な」不均衡を指摘し、政策当局者に「カウンターシクリカル調整」と「クロスシクリカル調整」を強化するよう促した。
-長引く不動産不況と地方政府の借り入れ制限強化が中国の伝統的な成長原動力の一つを妨げたため、都市投資は昨年、数十年ぶりに前年比3.8％減と数十年ぶりに低迷した。
-中国の都市部の失業率は6月に5％だった。指導部は今後５年間の失業率を５．５％未満にすることを目標としている。
-— CNBC の Evelyn Cheng がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
-    publishedAt: "2026-07-15T02:47:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "china-economic-growth-falls-sharply-miss-92628fb4",
-    title: "China economic growth falls sharply, missing target",
-    titleJa: "中国の経済成長率は大幅に低下、目標未達成",
-    summaryJa: "中国の経済成長率は大幅に低下、目標未達成- 公開されました",
-    bodyOriginal: `China economic growth falls sharply, missing target
-- Published
-China's economic growth slowed sharply between the start of April and end of June as weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.
-Official gross domestic product (GDP) figures showed that the world's second largest economy grew in the second quarter of the year by 4.3%, below Beijing's annual target.
-The announcement comes a day after government data showed that China's exports jumped by 27% in June compared to a year earlier.
-In March, China cut the target to a range of 4.5%-5%, its lowest economic expansion goal since 1991 - a move some analysts say gives officials more flexibility in managing the economy.
-The figures mark the first full quarter of GDP data since the start of the Iran war on 28 February and comes after a rise of 5% in the first quarter.
-Separate data released on Wednesday highlighted the economic challenges Beijing is facing at home - including a long-running property market slump and weak consumer spending.
-New home prices contracted again, although the 0.1% fall in June was at a slightly slower pace than the previous month.
-But retail sales rose by 1% in June, improving from a 0.6% decrease in May.
-Customs data for June, which was released on Tuesday, showed that China's tech exports were boosted by soaring global demand for semiconductors to power artificial intelligence (AI) data centres.
-Surging demand for Chinese electric vehicles (EVs) also gave a major boost to China's exports - with monthly car exports topping one million for the first time.`,
-    bodyJa: `中国の経済成長率は大幅に低下、目標未達成
-- 公開されました
-中国の経済成長は、国内需要の低迷と原油価格へのイラン戦争の影響が同国の堅調な輸出に影を落としたため、4月初めから6月末にかけて急激に減速した。
-公式の国内総生産（GDP）統計によると、世界第2位の経済大国の今年第2四半期の成長率は4.3％で、中国政府の年間目標を下回った。
-この発表は、6月の中国の輸出が前年比27％増加したことが政府統計で示された翌日に行われた。
-中国は3月に目標を4.5％から5％の範囲に引き下げ、これは1991年以来最低の景気拡大目標であるが、一部のアナリストはこの措置により当局が経済運営に柔軟性を与えると述べている。
-この数字は、2月28日のイラン戦争開始以来、初めての四半期全体のGDP統計となり、第1四半期の5％上昇に続くものとなった。
-水曜日に発表された別のデータは、長期にわたる不動産市場の低迷や個人消費の低迷など、中国政府が国内で直面している経済的課題を浮き彫りにした。
-新築住宅価格は再び縮小したが、６月の０．１％下落ペースは前月より若干鈍化した。
-しかし、６月の小売売上高は１％増加し、５月の０．６％減から改善した。
-火曜日に発表された6月の税関統計は、人工知能（AI）データセンターの動力源となる半導体の世界的な需要の急増により、中国のハイテク輸出が増加したことを示した。
-中国の電気自動車（EV）に対する需要の急増も中国の輸出を大きく押し上げ、月間自動車輸出台数が初めて100万台を突破した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-15T02:22:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
-    readTime: 2,
   },
 ];
 
