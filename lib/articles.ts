@@ -15,6 +15,314 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "tsmc-to-invest-additional-100-billion-in-2e035819",
+    title: "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
+    titleJa: "TSMC、第2四半期の利益が77％急増したことを受け、アリゾナ州に追加1000億ドル投資へ",
+    summaryJa: "台湾積体電路製造は木曜日、第2四半期の利益が前年同期比77.4％増加したと報告し、世界最大の受託チップメーカーが連続記録破りのマイルストーンを達成し続ける中、過去の予想を大幅に上回った。以下は、LSEG SmartEstimates に対する TSMC の第 2 四半期の結果です。より一貫して正確なアナリストの予測を重視しています。",
+    bodyOriginal: `Taiwan Semiconductor Manufacturing Co on Thursday reported a 77.4% jump in second-quarter profit year on year, soaring past estimates as the world's largest contract-chipmaker continues to set consecutive record-breaking milestones.
+Here are TSMC's second-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
+- Revenue: 1.27 trillion new Taiwan dollars ($39.45 billion ) vs. NT$1.264 trillion expected
+- Net income: NT$706.56 billion vs. NT$632.64 billion expected
+The company forecast third-quarter revenue between $44.6 billion and $45.8 billion, with operating profit margin of 56% to 58%. "AI related demand continues to be extremely robust," said TSMC Chairman C.C. Wei.
+TSMC will invest an additional $100 billion in Arizona to meet strong customer demand, bringing its total investment in the state to $265 billion, Wei added.
+"This is to build several or more semiconductor logical wafer fab for two nanometer MP [mass production] technologies, as well as advanced packaging fabs to support the strong multi-year demand from our leading U.S. customers," Wei added.
+The company also raised its budget to between $60 billion and $64 billion for this year as it continues to invest heavily to support customers' growth, said CFO Wendell Huang.
+The Taiwanese tech giant's net income for the three months ended in June came in at a record high for a fifth consecutive quarter, and surged 23.4% from the prior quarter.
+TSMC is sitting on real leverage but choosing not to fully use it, said Sravan Kundojjala, an analyst at SemiAnalysis. "Net, they have far more pricing power than they are currently exercising," Kundojjala said, adding that while the chipmaker is capturing more value through selective price increases, it remains deliberate rather than opportunistic to keep margins healthy without squeezing customers.
+Kundojjala said that the memory boom is now squeezing TSMC's non-AI business. "Consumer and price-sensitive end markets took a hit from rising memory prices and tight component supply.
+Revenue surged to NT$1.27 trillion, a 36% jump from NT$933.79 billion in the same period year ago. Advanced technologies — 7-nanometer and under — accounted for 77% of total wafer revenue, the company said.
+The 5-nanometer process technology accounted for 33% of TSMC's second-quarter revenue, followed by 3-nanometer at 30%, Huang said in the earnings call Thursday.
+For 2026 revenue by platform, the company said high-performance computing accounted for 66% of its revenue, followed by smartphones at 22% and Internet of Things at 5%.
+Asia's most valuable company that has been riding robust demand for AI chips it manufactures for global tech giants, including Nvidia, Apple and Broadcom saw shares gain 1.23% Thursday. The stock has risen over 58% so far this year.`,
+    bodyJa: `台湾積体電路製造は木曜日、第2四半期の利益が前年同期比77.4％増加したと報告し、世界最大の受託チップメーカーが連続記録破りのマイルストーンを達成し続ける中、過去の予想を大幅に上回った。
+以下は、LSEG SmartEstimates に対する TSMC の第 2 四半期の結果です。より一貫して正確なアナリストの予測を重視しています。
+- 収益: 1 兆 2,700 億新台湾ドル (394 億 5,000 万ドル) 対 予想 1 兆 2,640 億台湾ドル
+- 純利益: 7,065.6億台湾ドル、予想6,326.4億台湾ドル
+同社は第３・四半期の売上高が４４６億─４５８億ドル、営業利益率が５６─５８％になると予想している。 TSMCのC.C.会長は「AI関連の需要は引き続き非常に堅調だ」と述べた。魏。
+TSMCは顧客の強い需要に応えるためにアリゾナ州にさらに1000億ドルを投資し、同州への総投資額は2650億ドルになるとウェイ氏は付け加えた。
+「これは、2ナノメートルMP（量産）技術に対応した複数の半導体論理ウェーハ工場と、米国の主要顧客からの数年にわたる強い需要をサポートするための高度なパッケージング工場を建設することです」と魏氏は付け加えた。
+同社はまた、顧客の成長を支援するために多額の投資を継続するため、今年の予算を600億ドルから640億ドルに引き上げたとCFOのウェンデル・ファン氏は述べた。
+台湾のハイテク大手の6月までの3カ月間の純利益は5四半期連続で過去最高を記録し、前四半期比23.4％増加した。
+セミアナリシスのアナリスト、スラバン・クンドジャラ氏は、TSMCは実際のレバレッジを活用しているが、それを完全には活用しないことを選択していると述べた。 「正味、彼らは現在行使しているよりもはるかに大きな価格決定力を持っている」とクンドジャラ氏は述べ、半導体メーカーは選択的な値上げを通じてより多くの価値を獲得しているが、顧客を圧迫することなくマージンを健全に保つために日和見的ではなく計画的に取り組んでいると付け加えた。
+クンドジャラ氏は、メモリブームが現在、TSMCの非AI事業を圧迫していると述べた。 「消費者市場と価格に敏感な最終市場は、メモリ価格の上昇と部品供給の逼迫により打撃を受けました。
+売上高は1兆2700億台湾ドルに急増し、前年同期の9337億9000万台湾ドルから36％増加した。同社によると、7ナノメートル以下の先端技術がウェーハ総収益の77％を占めたという。
+Huang氏は木曜日の決算会見で、TSMCの第2四半期売上高の33％を5ナノメートルプロセス技術が占め、次いで3ナノメートルが30％となったと述べた。
+同社は、2026年のプラットフォーム別収益について、ハイパフォーマンスコンピューティングが収益の66％を占め、スマートフォンが22％、モノのインターネットが5％と続くと述べた。
+Nvidia、Apple、Broadcomを含む世界的なハイテク大手向けに製造するAIチップの堅調な需要に乗り続けているアジアで最も価値のある企業の株価は木曜日に1.23%上昇した。株価は年初から５８％以上上昇している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
+    publishedAt: "2026-07-16T08:24:49+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "ukraine-s-zelenskyy-ousts-defense-minist-f943350f",
+    title: "Ukraine's Zelenskyy ousts defense minister in surprise shake-up as protest calls emerge",
+    titleJa: "ウクライナのゼレンシキー氏、抗議の声が高まる中、驚きの改革で国防相を更迭",
+    summaryJa: "ウクライナのミハイロ・フェドロフ国防大臣は、ウォロディミル・ゼレンスキー大統領がロシアの本格的な侵略開始以来4度目となる大規模な政府改造に着手する中、突然の措置でそのポストを解任された。人気者であり、ウクライナの無人機戦争の擁護者とみなされていたフョードロフ氏は、水曜日にソーシャルメディアへの投稿で解任を認め、「ウクライナ国民に奉仕できたことは大変光栄だった」と述べた。",
+    bodyOriginal: `Ukrainian Defense Minister Mykhailo Fedorov has been dismissed from his post in a surprise move as President Volodymyr Zelenskyy undertakes his fourth major government reshuffle since the start of Russia's full-scale invasion.
+Fedorov, who was seen as a popular figure and an advocate of Ukraine's drone warfare, confirmed his dismissal on Wednesday in a social media post, saying it had been a "great honor to serve the Ukrainian people."
+Fedorov listed what he considered several of his team's achievements during his six months in post, including the shutdown of Starlink systems for Russian forces, the isolation of occupied Crimea, and "an unpopular but extremely important transformation of the army."
+The move sparked some to call for a peaceful protest in Kyiv on Thursday morning and comes shortly after Ukraine's parliament accepted the resignation of Prime Minister Yulia Svyrydenko after just a year in office.
+Serhiy Koretsky, the current CEO of Ukraine's state-owned energy company Naftogaz, has been nominated as the country's next prime minister, Ukraine's parliament speaker Ruslan Stefanchuk said Wednesday.
+Zelenskyy nominated Koretsky for the role, Stefanchuk said via Facebook, with Ukraine's president having previously described preparing for winter and bolstering efforts to secure a ceasefire as immediate government priorities.
+Dmytro Koziatynskyi, a war veteran who was a leading organizer of nationwide protests last summer, said Wednesday via social media that "it's no longer possible to tolerate what's happening with our government."
+"I call on all caring people to come out tomorrow at 9:01 a.m. to Franko Square and show the president that we are against constant reshuffles in the government and replacing effective ministers with convenient opportunists," Koziatynskyi said on X, according to a translation.
+Daria Kaleniuk, co-founder and executive director of the Anti-Corruption Action Center, a prominent watchdog based in Kyiv, said she planned to join the protest, according to a report from The Kyiv Independent.
+Having boosted drone production and capabilities in four years of war, Ukraine has stepped up its attacks on Russian energy infrastructure and military assets, targeting high-profile oil refineries in major cities as part of a sustained push to raise the economic cost of Russia's conflict and weaken Russian forces in southern Ukraine.
+Defense experts and strategists have described its drone campaign as pivotal in helping to stall Russia's military momentum, while also warning that Kyiv's deep-strike successes have drastically raised the risk of escalation.
+In an announcement that came as a surprise to many, particularly given that the country appears to have turned the tide in the war in recent months, Zelenskyy announced Sunday that "Ukraine is changing its political strategy."
+The president said each priority area of foreign policy would be assigned to a specific person "with substantial experience who is capable of implementing what we agree on at the leaders' level and what the Ukrainian people expect."`,
+    bodyJa: `ウクライナのミハイロ・フェドロフ国防大臣は、ウォロディミル・ゼレンスキー大統領がロシアの本格的な侵略開始以来4度目となる大規模な政府改造に着手する中、突然の措置でそのポストを解任された。
+人気者であり、ウクライナの無人機戦争の擁護者とみなされていたフョードロフ氏は、水曜日にソーシャルメディアへの投稿で解任を認め、「ウクライナ国民に奉仕できたことは大変光栄だった」と述べた。
+フョードロフ氏は、ロシア軍のスターリンク・システムの停止、占領下のクリミアの孤立、「不人気ではあるが非常に重要な軍の変革」など、任期６カ月間のチームの成果のいくつかを挙げた。
+この動きをきっかけに木曜朝、キエフで平和的な抗議活動を呼びかける声が上がったが、これはウクライナ議会が就任わずか1年でユリア・スヴィリデンコ首相の辞任を受諾した直後に起きたものである。
+ウクライナ国会議長のルスラン・ステファンチュク氏は水曜日、ウクライナ国営エネルギー会社ナフトガス社の現CEOセルヒイ・コレツキー氏が次期首相に指名されたと発表した。
+ステファンチュク氏はフェイスブックを通じて、ゼレンシキー大統領がコレツキー氏をその役職に指名したと述べ、ウクライナ大統領は以前、冬に備え、停戦を確保する取り組みを政府の当面の優先事項として強化すると述べていたと述べた。
+退役軍人で昨夏全国的な抗議活動の主導的主催者だったドミトロ・コジアチンスキー氏は水曜日、ソーシャルメディアを通じて「我が国の政府で起きていることを容認することはもはや不可能だ」と述べた。
+翻訳によると、コジアチンスキー氏はＸで「明日午前９時１分にフランコ広場に来て、政府の絶え間ない改造や有能な閣僚を都合の良い日和見主義者に置き換えることに反対していることを大統領に示すよう、すべての心ある人々に呼びかける」と語った。
+キエフ・インディペンデント紙の報道によると、キエフに本拠を置く著名な監視機関である反汚職行動センターの共同創設者で事務局長のダリア・カレニュク氏は、抗議活動に参加する予定だと述べた。
+4年間の戦争で無人機の生産と能力を強化したウクライナは、ロシア紛争による経済コストを引き上げ、ウクライナ南部のロシア軍を弱体化させるための継続的な推進の一環として、ロシアのエネルギーインフラと軍事資産への攻撃を強化し、主要都市の知名度の高い製油所を標的にした。
+国防専門家や戦略家らは、ロシアの無人機作戦がロシアの軍事的勢いを失速させる上で極めて重要であると説明する一方、キエフの集中攻撃の成功がエスカレーションのリスクを大幅に高めていると警告している。
+この発表は多くの人にとって驚きであり、特にこの国がここ数カ月で戦争の流れを変えたように見えることを考えると、ゼレンシキー大統領は日曜、「ウクライナは政治戦略を変更している」と発表した。
+大統領は、外交政策の各優先分野には「首脳レベルでの合意やウクライナ国民の期待を実行できる豊富な経験を持つ」特定の人物が割り当てられると述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/ukraine-russia-zelenskyy-crimea-putin.html",
+    publishedAt: "2026-07-16T08:06:58+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "foreign-investors-sweeten-on-indian-gove-955e6e47",
+    title: "Foreign investors sweeten on Indian government bonds as equities see a sell-off",
+    titleJa: "株式相場が急落する中、外国人投資家はインド国債に甘くなっている",
+    summaryJa: "外国人投資家はインド株への好感度が下がっているようだが、ブルームバーグ世界総合債券指数への採用の可能性を前に、同国の債券にはますますポジティブな見方を示している。専門家らによると、インドは先月、外国資本誘致を目指して海外債券投資家に対する課税を廃止し、ブルームバーグ指数への組み入れへの道が開かれたという。これに関する最新情報は間もなく発表される予定ですが、実際の導入は 2027 年の初めに行われる予定です。",
+    bodyOriginal: `Foreign investors appear to have soured on Indian stocks, but they are turning increasingly positive on the country's bonds, ahead of a possible inclusion in the Bloomberg Global Aggregate Bond Index.
+India last month scrapped tax on overseas bond investors, clearing the path to its inclusion in the Bloomberg Index, as it seeks to attract foreign capital, experts said. While an update on this is expected soon, the actual inclusion is expected to happen in early 2027.
+India could get a weightage of about 0.7% in the index, and this is estimated to lead to flows of "$25 to $27 billion," by financial year 2028, Ashish Vaidya, head of treasury at DBS Bank, said on CNBC's "Inside India" last week.
+Foreign investors have purchased $7.7 billion in Indian debt so far this year, surpassing the $6.6 billion for the entire 2025, according to data from Indian depository NSDL.
+And $5.8 billion of those inflows were just in June after India cut the 12.5% long-term capital gains tax and the 20% withholding tax on interest income for foreign investors buying government bonds.
+Meanwhile, foreign investors have sold direct equities worth $27.6 billion in 2026 so far, as Indian stocks lost their appeal amid an AI-driven momentum in global markets.
+India also included government securities with maturities of 15, 30, and 40 years under the "fully accessible route," which has no investment caps on purchases. In June, under the fully accessible route, India received monthly foreign inflows of $2.3 billion — the highest in the last 14 months.
+Expansion of the FAR bonds universe to include longer-tenor issuances could draw interest from foreign insurance and pension funds that have "longer duration demand," HSBC said in a note last month.
+Tax exemption for foreign investors buying Indian government bonds is "truly a gamechanger," Tanveer Sethi, senior executive vice president of investment management at Kotak Mahindra Asset Management Singapore, told CNBC.
+Index inclusion is a "natural and intended consequence of the tax reform," he said, adding that the current inflows are from tactical investors and a few active investors who are taking positions ahead of the inclusion.
+Following the index inclusion, some of this money will change hands from these tactical investors to the passive ones, experts said.
+Positive for rupee
+Equity outflows, coupled with a rising import bill due to higher global oil prices, have pressured government finances and the rupee.
+India's balance of payments deficit widened to $23.6 billion in the financial year ended in March 2026, from $5 billion a year ago. For April and May, the deficit was $11 billion due to the continued capital outflows and energy price shocks. Bond inflows will help narrow that gap and shore up the rupee.
+A previous inclusion of Indian bonds to JPMorgan Government Bond Index-Emerging Markets (GBI-EM) in 2024 resulted in net inflows of up to $20 billion, Gaura Sengupta, chief economist at India's IDFC First Bank, told CNBC.
+Unlike the earlier case, the Bloomberg Index includes both emerging and developed markets, so Indian bonds need to stand out, she added. The move to abolish tax for overseas bond investors has reduced the compliance costs and improved ease of doing business, Sengupta added.
+Bloomberg is already laying groundwork for the internationalization of India's government bond market. Last week, it launched an "electronic trading workflow" for Indian government bonds that enables foreign portfolio investors to "access liquidity provided by international and domestic banks through the Bloomberg Terminal."`,
+    bodyJa: `外国人投資家はインド株への好感度が下がっているようだが、ブルームバーグ世界総合債券指数への採用の可能性を前に、同国の債券にはますますポジティブな見方を示している。
+専門家らによると、インドは先月、外国資本誘致を目指して海外債券投資家に対する課税を廃止し、ブルームバーグ指数への組み入れへの道が開かれたという。これに関する最新情報は間もなく発表される予定ですが、実際の導入は 2027 年の初めに行われる予定です。
+DBS銀行の財務責任者、アシシュ・ヴァイディア氏は先週CNBCの「インサイド・インディア」で、インドは同指数で約0.7％の比重を占める可能性があり、これにより2028会計年度までに「250億ドルから270億ドル」の資金流入が見込まれると予想していると述べた。
+インドの預金金融機関NSDLのデータによると、外国人投資家は今年これまでに77億ドルのインド国債を購入しており、2025年全体の66億ドルを上回っている。
+そして、これらの流入のうち58億ドルは、インドが国債を購入する外国人投資家に対する長期キャピタルゲイン税12.5％と利子収入に対する源泉徴収税20％を引き下げた6月直後のものだった。
+一方、世界市場におけるAI主導の勢いの中でインド株の魅力が失われたため、海外投資家はこれまでに2026年に276億ドル相当の直接株式を売却した。
+インドはまた、購入に投資上限がない「完全にアクセス可能なルート」に満期15年、30年、40年の国債も含めた。 6月、完全にアクセス可能なルートの下で、インドは月間23億ドルの海外流入を受け取り、これは過去14か月で最高となった。
+HSBCは先月のメモで、長期発行を含めてFAR債の対象範囲が拡大すれば、「より長いデュレーションの需要」を持つ海外の保険や年金基金からの関心を集める可能性があると述べた。
+コタック・マヒンドラ・アセット・マネジメント・シンガポールの投資管理担当シニアエグゼクティブバイスプレジデント、タンヴィール・セティ氏はCNBCに対し、インド国債を購入する外国人投資家に対する免税は「まさに変革をもたらす」と語った。
+同氏は、指数への組み入れは「税制改革の自然かつ意図された結果」だとし、現在の資金流入は戦術的な投資家と組み入れに先んじてポジションを取る少数のアクティブ投資家からのものだと付け加えた。
+専門家らによると、指数への組み入れ後、この資金の一部はこうした戦術的な投資家から消極的な投資家に移されるだろう。
+ルピーにとってプラス
+世界的な原油価格の上昇による輸入代金の増加と相まって、株式の流出が政府財政とルピーを圧迫している。
+インドの国際収支赤字は、２０２６年３月終了会計年度には前年の５０億ドルから２３６億ドルに拡大した。 ４月と５月の赤字は継続的な資本流出とエネルギー価格ショックにより１１０億ドルとなった。債券の流入はその差を縮め、ルピーを押し上げるのに役立つだろう。
+インドのIDFCファースト銀行のチーフエコノミスト、ガウラ・セングプタ氏はCNBCに対し、2024年にインド国債がJPモルガン国債インデックス・エマージング・マーケット（GBI-EM）に組み入れられたことにより、最大200億ドルの純流入が生じたと語った。
+先ほどのケースとは異なり、ブルームバーグ指数には新興国市場と先進国市場の両方が含まれているため、インド債券が目立つ必要があると同氏は付け加えた。海外債券投資家に対する税金を廃止する動きにより、コンプライアンスコストが削減され、取引が容易になったとセングプタ氏は付け加えた。
+ブルームバーグはすでにインド国債市場の国際化に向けた基礎を築いている。同社は先週、インド国債の「電子取引ワークフロー」を開始し、海外のポートフォリオ投資家が「ブルームバーグターミナルを通じて国内外の銀行が提供する流動性にアクセス」できるようにした。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/fii-buy-india-bonds-sell-nifty.html",
+    publishedAt: "2026-07-16T08:01:32+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "british-steel-taken-into-public-ownershi-28355275",
+    title: "British Steel taken into public ownership to protect 'vital' UK supply",
+    titleJa: "ブリティッシュ・スチール、英国の「重要な」供給を保護するために公有化される",
+    summaryJa: "ブリティッシュ・スチール、英国の「重要な」供給を保護するために公有化される- 公開されました",
+    bodyOriginal: `British Steel taken into public ownership to protect 'vital' UK supply
+- Published
+British Steel has been taken into public ownership in what the government said was a bid to "protect UK steelmaking".
+The future of the steelworks, which employs roughly 2,700 people in Scunthorpe and supports many other industries in north Lincolnshire, has been dogged by uncertainty over recent years.
+"Today's decision secures the future of steelmaking in the UK, protects skilled jobs and safeguards a vital national capability," Prime Minister Sir Keir Starmer said.
+The UK government took control of British Steel operations in Scunthorpe last year, though it has since remained under the ownership of the Chinese firm Jingye Group.
+Jingye has said it has begun the process of seeking compensation for nationalisation, having previously said the business was losing £700,000 a day. However, the UK government has said it could limit or refuse compensation.
+The BBC has been unable to get a response from Jingye to Thursday's announcement.
+Starmer added: "British Steel is part of the fabric of our nation and a cornerstone of Britain's industrial strength.
+"This government will always act in the national interest to support British industry, strengthen our economy and ensure the industries we rely on can thrive long into the future."
+In March, the National Audit Office released a report noting that the Scunthorpe steelworks was costing the government about £1.3m a day.
+The government had previously sought private investors to take control of the steel manufacturer, initially stopping short of full nationalisation.
+"British Steel now belongs to the British people, and our focus is on the future: stabilising the business, backing the communities that rely on it and building a sustainable, competitive and decarbonised steel sector for the years ahead," Business Secretary Peter Kyle said.
+On Wednesday, Parliament passed legislation allowing the government to bring the steel industry into public ownership under circumstances where it met a public interest test.
+A spokesperson for the Department for Business and Trade had confirmed on Wednesday the government was "strongly minded" to use the new powers in the case of British Steel.
+"The Steel Act gives us powers to nationalise steel companies where it's necessary in the public interest, to protect a foundation industry that supports our critical national infrastructure, economy and defence," the department said in a statement.
+Business Secretary Peter Kyle told the BBC the government will need to cover the running costs "for the immediate future".
+He said an independent assessor will determine whether Jingye should be compensated for the nationalisation based on the value of the company.
+"But let me be really clear, there is an alternative here - that we let this business go bust," he said.
+"If that business disappears, we will lose the ability for primary steel production in our country, we will become entirely dependent on global supply."
+The government seized control of the Scunthorpe plant in April 2025 after Jingye flagged the potential closure of the last two remaining blast furnaces.
+If the furnaces had been starved of fuel and gone out, the UK would no longer have had the capability to produce "virgin steel" because the process of restarting them would have been extremely difficult and costly.
+Simon Boyd, managing director of Reid Steel, a structural steel manufacturer in Dorset, said the nationalisation "had to be done".
+Boyd, whose company buys thousands of tonnes from British Steel each year, told the BBC's Today programme Jingye had been "sabotaging the infrastructure" at the company and the government "had to step in".
+He said the government would need to invest heavily in British Steel and would not see a return for 10-20 years.
+But he said it "now belongs to the British people". A bid to sell it on to private investors would have required government support, and in the past has been seen to "benefit the private companies and not the British people", he added.
+Virgin steel-making involves iron being extracted from its original source to be purified and treated to make all types of steel used in major construction projects, such as new buildings and railways.
+If the plant stopped producing virgin steel, the UK would become the only member of the G7 group of leading economies without the ability to make it. The government views that as a risk to the UK's economic security.
+Jingye bought British Steel in 2020 one year after it was placed in compulsory liquidation by its previous owner, private equity group Greybull Capital.
+Announcing the move to take British Steel into public ownership, the government said a strong domestic steel industry was "critical" to its plans to reindustrialise Britain and to "reduce reliance on overseas supply chains for strategically important materials".
+Get in touch
+Do you have any views, comments or questions about this story?
+British Steel nationalisation takes step closer
+- Published16 hours ago
+'A new chapter beckons' at British Steel
+- Published11 May
+UK signals it may block payout to British Steel owner
+- Published12 June
+British Steel failure: The role of Greybull
+- Published22 May 2019
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `ブリティッシュ・スチール、英国の「重要な」供給を保護するために公有化される
+- 公開されました
+英国政府は「英国の鉄鋼製造を保護する」ため、ブリティッシュ・スチールを公有化した。
+スカンソープでは約 2,700 人の従業員を雇用し、リンカンシャー北部の他の多くの産業を支えている製鉄所の将来は、近年不確実性に悩まされている。
+キア・スターマー首相は「今日の決定は英国の鉄鋼業の将来を確保し、熟練した雇用を保護し、重要な国家能力を守るものだ」と述べた。
+英国政府は昨年、スカンソープにおけるブリティッシュ・スチールの事業を掌握したが、その後も中国企業京業集団の所有下にある。
+ジンゲ社は以前、同事業が1日あたり70万ポンドの損失を被っていると述べ、国有化に対する補償を求める手続きを開始したと述べた。しかし、英国政府は補償を制限したり拒否したりする可能性があると述べた。
+BBCは木曜日の発表に対するジンゲ氏からの返答を得ることができていない。
+スターマー氏はさらに、「英国鉄鋼は我が国の構造の一部であり、英国の産業力の基礎となっている。
+「この政府は常に英国産業を支援し、経済を強化し、我々が依存する産業が将来にわたって繁栄できるようにするために国益に沿って行動するだろう。」
+3月、国家会計検査院は、スカンソープ製鉄所が政府に1日あたり約130万ポンドの損害を与えていると指摘する報告書を発表した。
+政府は以前、民間投資家に鉄鋼メーカーの経営権を取得するよう求めていたが、当初は完全国有化には至らなかった。
+「ブリティッシュ・スチールは今や英国国民のものであり、我々は将来に焦点を当てている。事業を安定させ、それに依存する地域社会を支援し、今後数年間に向けて持続可能で競争力があり、脱炭素化された鉄鋼セクターを構築することだ」とピーター・カイル経営相は述べた。
+水曜日、議会は公益性のテストに合格した状況下で政府が鉄鋼産業を公有化することを認める法案を可決した。
+商工省の報道官は水曜日、政府がブリティッシュ・スチールの件で新たな権限を行使することに「強い意志がある」と認めた。
+同省は声明で「鉄鋼法は、我が国の重要な国家インフラ、経済、防衛を支える基盤産業を保護するために、公益上必要な場合には鉄鋼会社を国有化する権限を与えている」と述べた。
+ピーター・カイル商務長官はBBCに対し、政府は「当面の」運営費を負担する必要があると語った。
+同氏は、独立した評価機関が国有化に対してジンゲに補償金を支払うべきかどうかを企業価値に基づいて決定すると述べた。
+「しかし、はっきり言っておきたいのですが、代替案はここにあります。この事業を潰すということです」と同氏は語った。
+「もしその事業が消滅すれば、我が国の一次鉄鋼生産能力を失い、完全に世界供給に依存することになるだろう。」
+ジンゲ氏が最後に残った2つの高炉が閉鎖される可能性があると警告した後、政府は2025年4月にスカンソープ工場の管理権を掌握した。
+もし炉が燃料切れで停止していたら、英国はもはや「バージンスチール」を生産する能力を失っていただろう。なぜなら、炉を再稼働させるプロセスは極めて困難で費用がかかったであろうからである。
+ドーセット州の構造用鉄鋼メーカー、リード・スチールのマネージング・ディレクター、サイモン・ボイド氏は、国有化は「やらなければならなかった」と述べた。
+同社がブリティッシュ・スチールから毎年数千トンを購入しているボイド氏は、BBCのトゥデイ番組で、ジンゲ氏が同社の「インフラを妨害」しており、政府が「介入せざるを得なかった」と語った。
+同氏は、政府はブリティッシュ・スチールに多額の投資をする必要があり、収益は１０─２０年は見込めないと述べた。
+しかし、彼は「今は英国国民のものだ」と述べた。民間投資家に売却するには政府の支援が必要だが、これまでは「英国民ではなく民間企業に利益をもたらす」とみられていたと同氏は付け加えた。
+バージン製鋼では、元の供給源から鉄を抽出し、精製および処理して、新しい建物や鉄道などの主要な建設プロジェクトに使用されるあらゆる種類の鋼を製造します。
+同工場がバージンスチールの生産を停止すれば、英国は主要経済国で構成されるG7グループの中で唯一、生産能力を持たない国となるだろう。政府はこれを英国の経済安全保障に対するリスクとみなしている。
+ジンゲは、前所有者であるプライベート・エクイティ・グループのグレイブル・キャピタルによって強制清算に入った1年後の2020年にブリティッシュ・スチールを買収した。
+ブリティッシュ・スチールの公有化に向けた動きを発表した政府は、英国の再産業化計画と「戦略的に重要な資材の海外サプライチェーンへの依存を減らす」計画にとって、国内の強い鉄鋼産業が「極めて重要」であると述べた。
+連絡する
+この話に関して何かご意見、ご意見、ご質問はありますか？
+ブリティッシュ・スチールの国有化が一歩近づく
+- 16 時間前に公開
+ブリティッシュ・スチールで「新たな章が始まる」
+- 5 月 11 日公開
+英国はブリティッシュ・スチール社への支払いを阻止する可能性があると示唆
+- 6 月 12 日発行
+英国鉄鋼の破綻：グレイブルの役割
+- 2019 年 5 月 22 日公開
+私たちの Politics Essential ニュースレターに登録して、ウェストミンスターの内情やその周辺の状況を把握してください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-16T07:34:47+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5dd4/live/ee156d40-80df-11f1-926f-c90d1bcfbc84.jpg",
+    readTime: 6,
+  },
+  {
+    id: "uk-economy-returns-to-growth-in-may-9c72333f",
+    title: "UK economy returns to growth in May",
+    titleJa: "英国経済は5月に成長に戻る",
+    summaryJa: "英国経済は5月に成長に戻る- 公開されました",
+    bodyOriginal: `UK economy returns to growth in May
+- Published
+The UK's economy returned to growth in May after having shrunk in the previous month, the latest official data has shown.
+The economy expanded by 0.1%, the Office for National Statistics (ONS) said, driven by growth in the UK's service sector, although this was offset by falls in the production and construction sectors.
+It comes after the economy had contracted slightly in April, when the US-Israel war with Iran began to have an impact on businesses.
+In the three months to May, the ONS said the economy grew by 0.7% compared with the previous three month period.
+"The economy recorded robust growth in the three months to May, though the pace eased slightly as the latest two months showed a weaker picture," said Liz McKeown, director of economic statistics at the ONS.
+"Computer programming and advertising led the way, while the often-volatile pharmaceutical industry also performed well," she added.
+The economy saw a strong start to the year, but growth has faltered in recent months with the conflict in the Middle East having affected some businesses.
+The Iran war has pushed up oil and fuel prices, and also disrupted supply chains.
+The ONS said firms in a number of sectors had flagged the conflict as affecting activity, including some manufacturing industries, hospitality firms, travel agencies and entertainment companies.
+Yael Selfin, chief economist at KPMG, said the warmer weather and World Cup might have boosted consumer spending into June and July, but this "may not be enough to offset weakness across other parts of the economy".
+"The recent rise in energy prices, driven by a pick-up in tensions in the Middle East, could pose a risk to the growth outlook, with financial conditions also tightening as a result," Selfin said.
+Since hostilities resumed between the US and Iran last week, the price of oil has risen from about $72 a barrel to $84, although it remains well below the peak of around $120 seen earlier this year.
+The growth in May "is not a bad welcome gift for incoming PM Andy Burnham", said Paul Dales, chief UK economist at Capital Economics.
+"But with higher energy prices still restraining real incomes, he shouldn't get used to it."
+Responding to the latest figures, a spokesperson for the Treasury said: "We have the right economic plan which has put the UK in a much stronger position than two years ago with the fastest growth in the G7 in the first quarter and the OECD agreeing that we have restored stability."
+UK economy contracts as Iran war impact felt
+- Published12 June
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `英国経済は5月に成長に戻る
+- 公開されました
+最新の公式データによると、英国経済は前月は縮小したが、5月には成長に戻った。
+国家統計局（ＯＮＳ）によると、英国のサービス部門の成長に牽引されて経済は０．１％拡大したが、生産部門や建設部門の落ち込みによって相殺されたという。
+これは、米国とイスラエルのイラン戦争が企業に影響を及ぼし始めた4月に経済が若干縮小した後の出来事だった。
+ＯＮＳは５月までの３カ月の経済成長率が前３カ月比０．７％だったと発表した。
+ＯＮＳの経済統計部長、リズ・マッキューン氏は「経済は５月までの３カ月間に堅調な成長を記録したが、直近２カ月で景気が低迷したためペースは若干鈍化した」と述べた。
+「コンピュータープログラミングと広告が牽引役となり、不安定な製薬業界も好調だった」と同氏は付け加えた。
+経済は今年好調なスタートを切ったものの、中東紛争が一部の企業に影響を及ぼしたことからここ数カ月は成長が鈍化した。
+イラン戦争により石油と燃料の価格が高騰し、サプライチェーンも混乱した。
+ONSは、一部の製造業、サービス業、旅行代理店、エンターテインメント会社など、多くの分野の企業が紛争が活動に影響を与えていると報告していると述べた。
+ＫＰＭＧのチーフエコノミスト、ヤエル・セルフィン氏は、温暖な気候とワールドカップが６月から７月にかけて個人消費を押し上げた可能性があるが、「経済の他の部分の弱さを相殺するには十分ではないかもしれない」と述べた。
+セルフィン氏は「中東情勢の緊張激化による最近のエネルギー価格の上昇は、成長見通しにリスクをもたらす可能性があり、その結果金融情勢も逼迫している」と述べた。
+先週米国とイランの間で戦闘が再開されて以来、原油価格は1バレル当たり約72ドルから84ドルに上昇したが、それでも今年初めに見られたピークの約120ドルを大きく下回っている。
+キャピタル・エコノミクスの英国チーフエコノミスト、ポール・デールズ氏は、５月の成長は「アンディ・バーナム次期首相にとって悪くない歓迎の贈り物だ」と述べた。
+「しかし、エネルギー価格の高騰が依然として実質所得を抑制しているため、彼はそれに慣れるべきではない。」
+最新の数字を受けて財務省報道官は、「われわれには正しい経済計画があり、第１・四半期にはＧ７の中で最も高い成長を遂げ、英国は２年前よりもはるかに強い立場に立つことができ、英国が安定を回復したとＯＥＣＤも同意した」と述べた。
+イラン戦争の影響で英国経済が縮小
+- 6 月 12 日発行
+私たちの Politics Essential ニュースレターに登録して、ウェストミンスターの内情やその周辺の状況を把握してください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8xnllq944go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-16T07:19:17+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec30/live/249c95d0-8065-11f1-bf5f-a7a6eeea7412.jpg",
+    readTime: 3,
+  },
+  {
+    id: "u-s-slaps-25-tariff-on-most-brazilian-go-764aa815",
+    title: "U.S. slaps 25% tariff on most Brazilian goods over 'unfair trade practices'",
+    titleJa: "米国、「不公平な貿易慣行」を理由に大半のブラジル製品に25％の関税を課す",
+    summaryJa: "米国は来週からブラジルからのほとんどの輸入品に25％の関税を課し、米国政府が不公正な貿易慣行と呼ぶものに対する1年にわたる調査を終了し、交渉決裂後にブラジルとの緊張が再燃した。この措置は、1974年の通商法第301条に基づいて取られたもので、X社、メタ社、グーグル社を含む米国のテクノロジー企業に対し、特定の政治的コンテンツの削除と米国居住者に属するアカウントの停止を指示する命令、メキシコとインドに対する特恵関税、知的財産権の執行の弱さ、エタノール市場の障壁など、ブラジルの慣行を標的としている。",
+    bodyOriginal: `The U.S. has levied 25% tariffs on most imports from Brazil effective next week, concluding a yearlong investigation into what Washington calls unfair trade practices, and reigniting tensions with the Latin American nation after negotiation fell apart.
+The action, taken under Section 301 of the Trade Act of 1974, targets Brazilian practices, such as orders directing American technology firms — including X, Meta, and Google — to remove certain political content and suspend accounts belonging to U.S. residents, preferential tariffs for Mexico and India, weak intellectual property enforcement, and ethanol market barriers.
+The 25% levy, set to take effect on July 22, will apply to most imports from Brazil, with exemptions for certain goods such as beef, orange juice, aircraft and parts, and energy products.
+Brazil's President Luiz Inacio Lula da Silva in a statement posted on X rejected the tariff decision as groundless, and vowed to initiate countermeasures while raise the issue within the framework of the WTO dispute settlement mechanism.
+There was "no justification for unilateral measures," given that Washington has run a cumulative $424.5 billion goods and services surplus with Brazil over 15 years, the president said, citing U.S. government data. The U.S. goods trade surplus with Brazil was $14.4 billion last year, more than doubled from the year prior.
+The fresh U.S. tariffs come after the Supreme Court in February struck down President Donald Trump's previous 50% levies on Brazilian goods, keeping in place only a 10% global tariff. Trump has sought to reinstate his tariff power by launching Section 301 probes, which allows him to impose levies on countries found to have engaged in unfair trade practices, without additional congressional authorization.
+The extra tariffs are necessary to level the playing field for American workers and companies, the office of U.S. trade representative said in a statement.
+In a post on X shortly after the official announcement, Secretary of State Marco Rubio said that Lula's government had "not negotiated in good faith" and that the tariffs were the price of Lula "putting his own ego ahead of making a deal."
+The move followed months of engagement, including several high-level meetings between Brazilian officials and USTR representatives in recent weeks.
+Lula reportedly said last month that Brazil would not accept the treatment his country had received, referring to Trump's proposal of 25% extra tariffs then.
+A separate U.S. probe into forced-labor enforcement could see an additional 12.5% duty on Brazilian goods on top of the 25%, with the decision due next week.
+The dispute has also spilled into Brazil's upcoming presidential election in October. Lula has accused Senator Flavio Bolsonaro of helping trigger the tariffs after his Washington visit, although the senator denied and said he planned to persuade the Trump administration to delay the tariff imposition until after the election.`,
+    bodyJa: `米国は来週からブラジルからのほとんどの輸入品に25％の関税を課し、米国政府が不公正な貿易慣行と呼ぶものに対する1年にわたる調査を終了し、交渉決裂後にブラジルとの緊張が再燃した。
+この措置は、1974年の通商法第301条に基づいて取られたもので、X社、メタ社、グーグル社を含む米国のテクノロジー企業に対し、特定の政治的コンテンツの削除と米国居住者に属するアカウントの停止を指示する命令、メキシコとインドに対する特恵関税、知的財産権の執行の弱さ、エタノール市場の障壁など、ブラジルの慣行を標的としている。
+7月22日に発効する予定の25％の課税は、ブラジルからのほとんどの輸入品に適用されるが、牛肉、オレンジジュース、航空機と部品、エネルギー製品などの一部の品目は免除される。
+ブラジルのルイス・イナシオ・ルーラ・ダ・シルバ大統領は、Xに掲載された声明の中で、関税決定は根拠がないと拒否し、WTOの紛争解決メカニズムの枠組みの中でこの問題を提起し、対抗措置を開始すると明言した。
+大統領は、米国政府のデータを引用し、米国が15年間でブラジルに対して累積4,245億ドルの物品・サービス黒字を計上していることを考慮すると、「一方的な措置を正当化する理由はない」と述べた。昨年の米国の対ブラジルモノ貿易黒字は１４４億ドルで、前年の２倍以上に増加した。
+米国の新たな関税は、2月に最高裁判所がドナルド・トランプ大統領によるブラジル製品に対する以前の50％の関税を無効にし、世界全体で10％の関税のみを維持した後に行われた。トランプ大統領は、不公正な貿易慣行に関与したと判明した国に議会の追加承認なしに課徴金を課すことを可能にする第301条調査を開始することで、関税権限の復活を目指している。
+米通商代表部は声明で、追加関税は米国の労働者と企業の競争条件を平等にするために必要だと述べた。
+公式発表直後、マルコ・ルビオ国務長官はXへの投稿で、ルーラ政権は「誠実に交渉していない」とし、関税はルーラが「合意よりも自分のエゴを優先した」代償であると述べた。
+この動きは、ここ数週間のブラジル当局者とUSTR代表との間の数回のハイレベル会談を含む数か月にわたる関与の後に行われた。
+伝えられるところによると、ルーラ氏は先月、当時トランプ大統領が提案した25％の追加関税に言及し、ブラジルは自国が受けた扱いを受け入れるつもりはないと述べたという。
+強制労働の執行に関する米国の別の調査では、ブラジル製品に対して25％に加えて12.5％の追加関税が課される可能性があり、決定は来週予定されている。
+この論争は10月に予定されているブラジル大統領選挙にも波及している。ルーラ氏はフラビオ・ボルソナロ上院議員がワシントン訪問後に関税発動に協力したと非難したが、同上院議員は否定し、大統領選後まで関税発動を延期するようトランプ政権を説得するつもりだと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/16/us-tariffs-brazil-unfair-trade-practices-section-301-.html",
+    publishedAt: "2026-07-16T06:32:39+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
     id: "alibaba-and-baidu-shares-jump-in-hong-ko-9f094a4f",
     title: "Alibaba and Baidu shares jump in Hong Kong on Apple AI partnership",
     titleJa: "Apple AI提携でアリババと百度の株価が香港で急上昇",
@@ -166,6 +474,34 @@ Chinese ministry of foreign affairs did not respond to CNBC's request for commen
     publishedAt: "2026-07-16T01:47:30+00:00",
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ai-is-so-big-it-s-now-impossible-for-inv-3179a7a1",
+    title: "AI is so big, it’s now impossible for investors to avoid",
+    titleJa: "AI は非常に巨大なので、投資家が避けることはもはや不可能です",
+    summaryJa: "投資家にとって人工知能ブームを避けることは事実上不可能になっています。このテーマは株式市場を追い詰めるだけではありません。企業信用やベンチャーキャピタルも組織的に飲み込んでいる。",
+    bodyOriginal: `Exposure to the artificial-intelligence boom has become virtually impossible for investors to avoid. The theme hasn’t just cornered the stock market. It has systematically swallowed up corporate credit and venture capital, too.`,
+    bodyJa: `投資家にとって人工知能ブームを避けることは事実上不可能になっています。このテーマは株式市場を追い詰めるだけではありません。企業信用やベンチャーキャピタルも組織的に飲み込んでいる。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/ai-is-so-big-its-now-impossible-for-investors-to-avoid-9271e03f?mod=mw_rss_topstories",
+    publishedAt: "2026-07-16T00:59:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-36473530",
+    readTime: 2,
+  },
+  {
+    id: "united-airlines-gets-hit-by-a-6-billion-0eca531a",
+    title: "United Airlines gets hit by a $6 billion added-fuel-cost headwind",
+    titleJa: "ユナイテッド航空、60億ドルの追加燃料費の逆風に見舞われる",
+    summaryJa: "投資家はユナイテッド航空のジェット燃料代がさらに高額になる可能性があることに注目しており、航空会社は今年の追加燃料費が60億ドル近くになると予想していると述べた。",
+    bodyOriginal: `Investors zero in on United’s potentially fatter jet-fuel bill — the airline said it expects nearly $6 billion in additional fuel expenses for the year.`,
+    bodyJa: `投資家はユナイテッド航空のジェット燃料代がさらに高額になる可能性があることに注目しており、航空会社は今年の追加燃料費が60億ドル近くになると予想していると述べた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/united-airlines-gets-hit-by-a-6-billion-added-fuel-cost-headwind-dacb07b6?mod=mw_rss_topstories",
+    publishedAt: "2026-07-16T00:25:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-82149330",
     readTime: 2,
   },
   {
@@ -1675,462 +2011,6 @@ Surging demand for Chinese electric vehicles (EVs) also gave a major boost to Ch
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
     readTime: 2,
-  },
-  {
-    id: "brace-for-4-gas-again-how-u-s-iran-tensi-454411a2",
-    title: "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-    titleJa: "4ドルのガソリンを再び用意せよ：米国とイランの緊張がどのようにして価格破壊を終わらせる恐れがあるのか",
-    summaryJa: "米国人はここ数週間でガスポンプにある程度の安堵感を得ており、インフレを抑制するのに十分だった。米国とイランがホルムズ海峡の制海権を巡って争いを続ける中、この状況は長くは続かないかもしれない。",
-    bodyOriginal: `Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.`,
-    bodyJa: `米国人はここ数週間でガスポンプにある程度の安堵感を得ており、インフレを抑制するのに十分だった。米国とイランがホルムズ海峡の制海権を巡って争いを続ける中、この状況は長くは続かないかもしれない。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-    publishedAt: "2026-07-15T00:28:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-94092618",
-    readTime: 2,
-  },
-  {
-    id: "i-changed-jobs-10-times-in-10-years-to-g-a789c642",
-    title: "I changed jobs 10 times in 10 years to get the career I wanted",
-    titleJa: "希望のキャリアを得るために10年間で10回転職しました",
-    summaryJa: "希望のキャリアを得るために10年間で10回転職しました- 公開されました",
-    bodyOriginal: `I changed jobs 10 times in 10 years to get the career I wanted
-- Published
-Brittany Harris-Nelson describes her career journey so far as being like "a frog moving across lily pads".
-"Each step brought me closer to where I ultimately wanted to be, even if the path wasn't always linear," says the 32-year-old.
-Today, Harris-Nelson works in a mid-level administrative position at Wake Forest University in Winston-Salem, North Carolina, a role she had long coveted.
-She says that to get there, she leapt from one college job to another for close to a decade, using each new role to gain specialised skills that would help with her career advancement.
-Overall, she has had 10 different jobs at six different universities over the past decade, starting with several positions when she was still a student, and then three full-time roles.
-Harris-Nelson has been an office manager, an admissions counsellor and a student advisor, before reaching her current position as assistant director of student engagement.
-While she does not wish to reveal how much she now earns, she says that as she changed jobs her salary didn't increase much. But she got more benefits, such as extra paid leave and bigger pension contributions from her employer.
-"Each role helped me build skills and perspectives that I didn't yet have, and together those experiences prepared me for the work I do today," she says.
-And she's not alone.
-Gen Z job hop more
-Industry professionals have identified the emergence of a new work trend among members of Gen Z (those born from 1997–2012), called "lily padding".
-It refers to young adults hopping from job to job to try to improve their skills and chances of getting more senior roles and higher pay, rather than staying put in one role at one company. The idea is that they supercharge their employability.
-The data seems to back up the phenomenon. The average tenure of a Gen Z employee in the first five years of their career is just 1.1 years, compared with 1.8 years for millennials (those born between 1981 and 1996), and almost three years for older generations. That is according to a 2024 global survey, external of 11,250 workers by recruitment agency Randstad.
-This increased mobility in the job market leads to increased salaries, at least in the UK, one 2025 report found., external The study by financial company Wealthify said that people who changed jobs four or more times over the previous decade earned an average of £39,276 versus £30,088 for other workers - a 31% premium.
-Those who describe their career strategies as "lily padding" are always on the lookout for the next opportunity.
-That's the case of Adam Smiley Poswolsky, who is now a 42-year-old public speaker and author who talks and writes about how to improve workplace cultures.
-Based in San Francisco, he says that the traditional career ladder mindset of staying at one company and working your way up didn't apply to him. Instead, he adds that he was looking for "meaning and purpose" in his work and life.
-He says that to achieve this he moved between government, non-profit, creative and corporate work, and had a host of jobs in 15 years.
-His gigs have included – project leader for Peace Corps, the US government agency that allows young Americans to do voluntary work overseas; and being an English teacher at Harvard University.
-Poswolsky has also been a location scout for Warner Bros, a film producer in New York City, worked on Barack Obama's successful 2008 presidential election campaign, a public speaker at the youth-leadership programme, and the fellow of a think tank.
-Throughout his career, he says he's sought interesting work and developed skills that helped him get to where he is now - writing books and being a well-paid public speaker.
-"In each of my jumps, I was very clear on being ready for something new, but I also knew the skillset I was taking from one experience to the next," he says.
-Poswolsky concludes that he's glad he's found flexibility and happiness through this career evolution rather than via a vertical corporate structure. He adds that he has also eventually managed to match the $70,000 (£52,000) he earned at the Peace Corps back when he was 28.
-"The skills I learned in that government job helped me as a writer, which then led to me writing a book, which led to my current career as a professional keynote speaker."
-'People want variety and pace'
-Nicola Grant, chief people officer at UK insurance provider Hiscox, says she's noticed a broader shift in how people think about their careers.
-Increasingly, individuals – particularly earlier in their careers, she says - want to build a breadth of experience faster, rather than follow a single, linear path. They are building a portfolio of skills.
-She's also found there's a greater willingness among younger employees to move if they feel their development is slowing, or their options are limited.
-"Expectations have changed; people want variety, pace and to build skills that will remain relevant," she says, "It's about a desire for growth."
-"That ultimately benefits both the individual and the organisation," she adds.
-Lucy Kemp, a strategic brand and communications leader at the IT company La Fosse and an employee experience specialist, agrees.
-To her, lily padding is the future of work, not just a trend, as people who follow the tactic try to reach more senior roles and higher pay.
-"Younger people have seen that loyalty doesn't pay off," says Kemp. "They want to shape their own careers, based on skills they value.
-"There's a different sense of achievement compared to older generations, a completely different experience of work," she says.
-Kemp also points out that learning in the office from peers isn't occurring as much since the pandemic, with people working from home and AI taking over basic tasks.
-Instead, people are looking at skills that will be relevant in five years' time. And they'll get them by switching to a project on another team, a switch to another sector, or a job at another company, Kemp says. "People just want to learn something new and have a purpose."
-That's how Harris-Nelson feels. "I see my career as an ongoing journey rather than a destination," she says. "I'm always learning and growing."
-Related topics
-- Published28 May
-- Published30 June`,
-    bodyJa: `希望のキャリアを得るために10年間で10回転職しました
-- 公開されました
-ブリタニー・ハリス・ネルソンは、これまでのキャリアの旅を「スイレンの葉の上を移動するカエル」のようだったと表現しています。
-「たとえその道が必ずしも直線的ではなかったとしても、一歩一歩が私を最終的になりたかった場所に近づけてくれました。」と 32 歳の彼は言います。
-現在、ハリス・ネルソンはノースカロライナ州ウィンストン・セーラムにあるウェイク・フォレスト大学で中級管理職に就いており、これは彼女が長年切望していた役職である。
-彼女は、そこに到達するために、10 年近く大学での仕事を転々とし、新しい役割を担うたびに、キャリアアップに役立つ専門スキルを習得したと語ります。
-全体として、彼女は過去 10 年間に 6 つの異なる大学で 10 の異なる仕事に就き、学生時代にいくつかの役職に就き、その後 3 つのフルタイムの役職に就きました。
-ハリス・ネルソンは、学生エンゲージメント部門のアシスタントディレクターとしての現在の職に就く前に、オフィスマネージャー、入学カウンセラー、学生アドバイザーを務めてきました。
-現在の収入は明かしたくないが、転職しても給料はあまり上がらなかったという。しかし、彼女は追加の有給休暇や雇用主からのより多くの年金拠出金など、より多くの恩恵を受けました。
-「それぞれの役割は、私がまだ持っていなかったスキルや視点を構築するのに役立ち、それらの経験が合わさって、今日の仕事の準備を整えてくれました」と彼女は言います。
-そして彼女は一人ではありません。
-Z世代のジョブホップの増加
-業界専門家らは、Z世代（1997年から2012年生まれ）の間で「リリー・パディング」と呼ばれる新たな働き方トレンドが台頭していることを確認した。
-これは、1つの会社で1つの役割に留まるのではなく、自分のスキルを向上させ、より上級の役割やより高い給与に就くチャンスを得るために、職を転々とする若者を指します。そのアイデアは、彼らの雇用可能性を大幅に高めることです。
-データはこの現象を裏付けているようだ。 Z世代の従業員のキャリア最初の5年間の平均在職期間はわずか1.1年であるのに対し、ミレニアル世代（1981年から1996年生まれ）の平均在職期間は1.8年、それより上の世代ではほぼ3年です。これは、人材紹介会社ランスタッドが従業員1万1,250人を対象とした2024年の世界的な調査によるものである。
-金融会社ウェルシファイの調査によると、雇用市場における流動性の向上により、少なくとも英国では給与の増加が見込まれており、過去10年間に4回以上転職した人の平均収入は3万9,276ポンドであるのに対し、他の労働者の平均収入は3万9,276ポンドで、31％のプレミアムとなっている。
-自分のキャリア戦略を「百合の詰め物」と表現する人は、常に次の機会を虎視眈々と狙っています。
-それが、現在 42 歳の講演者であり、職場文化を改善する方法について講演したり執筆した作家であるアダム・スマイリー・ポズウォルスキーの場合です。
-サンフランシスコに拠点を置く彼は、1 つの会社に留まり、昇進していくという従来のキャリアラダーの考え方は自分には当てはまらなかったと語ります。その代わりに、自分の仕事と人生に「意味と目的」を探していたと付け加えた。
-これを達成するために、政府、非営利、クリエイティブ、企業の仕事を渡り歩き、15 年間で数多くの仕事を経験したと彼は言います。
-彼の仕事には、アメリカの若者が海外でボランティア活動をすることを許可する米国政府機関である平和部隊のプロジェクトリーダーが含まれます。そしてハーバード大学で英語教師をしています。
-ポズウォルスキー氏はまた、ワーナー・ブラザーズのロケスカウト、ニューヨーク市の映画プロデューサー、バラク・オバマの成功した2008年大統領選挙キャンペーンに取り組み、若者リーダーシップ・プログラムの講演者、そしてシンクタンクのフェローでもあった。
-彼はキャリアを通して、面白い仕事を探し、スキルを磨いて、本を書いたり、高給取りの講演者として現在の地位に到達したと語ります。
-「それぞれのジャンプで、何か新しいことへの準備ができていることは非常に明確でしたが、同時に、ある経験から次の経験に至るまでにどのようなスキルセットが必要かも知っていました」と彼は言います。
-ポズウォルスキー氏は、垂直的な企業構造ではなく、このキャリアの進化を通じて柔軟性と幸福を見つけられてよかったと結論付けています。最終的には、28歳のときに平和部隊で稼いだ7万ドル（5万2000ポンド）に匹敵する金額に達することができたと付け加えた。
-「政府の仕事で学んだスキルは作家としての私に役立ち、それが本を書くことにつながり、それがプロの基調講演者としての現在のキャリアにつながりました。」
-「人々は多様性とペースを求めています」
-英国の保険会社ヒスコックスの最高人事責任者であるニコラ・グラント氏は、人々のキャリアに対する考え方が広範囲に変化していることに気づいたと語る。
-彼女によると、個人は、特にキャリアの初期段階では、単一の直線的な道をたどるのではなく、幅広い経験をより早く構築したいと考えています。彼らはスキルのポートフォリオを構築しています。
-彼女はまた、若い従業員の間で、自分の成長が遅れている、または選択肢が限られていると感じた場合、異動する意欲がより高いことも発見しました。
-「期待は変わりました。人々は多様性、ペース、そして時代に通用するスキルを身につけることを望んでいます。それは成長への欲求に関するものです。」と彼女は言います。
-「それは最終的に個人と組織の両方に利益をもたらします」と彼女は付け加えた。
-IT企業ラ・フォッセの戦略的ブランドおよびコミュニケーションリーダーであり、従業員エクスペリエンスのスペシャリストでもあるルーシー・ケンプ氏もこれに同意する。
-彼女にとって、ユリの詰め物は単なるトレンドではなく、仕事の未来であり、この戦術に従う人々はより上級の役割とより高い給料を獲得しようとしているからです。
-「若い人たちは、忠誠心が報われないことを知っています」とケンプ氏は言う。 「彼らは、自分が大切にしているスキルに基づいて、自分のキャリアを形成したいと考えています。
-「上の世代とは異なる達成感があり、仕事の経験も全く異なります」と彼女は言う。
-ケンプ氏はまた、パンデミック以降、人々が在宅勤務をし、AIが基本的なタスクを引き継いでいるため、オフィスで同僚から学ぶことはそれほど行われていないと指摘した。
-代わりに、人々は 5 年後に役立つスキルに注目しています。そして、別のチームのプロジェクトに切り替えるか、別のセクターに切り替えるか、別の会社に就職することで、それらを獲得できるだろうとケンプ氏は言う。 「人々はただ何か新しいことを学び、目的を持ちたいだけなのです。」
-それがハリス・ネルソンの気持ちです。 「私は自分のキャリアを目的地ではなく、進行中の旅だと考えています」と彼女は言います。 「私は常に学び、成長しています。」
-関連トピック
-- 5 月 28 日発行
-- 6 月 30 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ce8kxgpe3kdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T23:04:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b112/live/176aa4b0-7c32-11f1-b976-0b9c15b0ccfc.jpg",
-    readTime: 8,
-  },
-  {
-    id: "buy-now-pay-later-rules-to-bring-refunds-d5fa440f",
-    title: "Buy Now Pay Later rules to bring refunds and rejections",
-    titleJa: "今すぐ購入して後で払い戻しと拒否を行うためのルール",
-    summaryJa: "今すぐ購入して後で払い戻しと拒否を行うためのルール- 公開されました",
-    bodyOriginal: `Buy Now Pay Later rules to bring refunds and rejections
-- Published
-Shoppers using Buy Now Pay Later (BNPL) services have stronger rights but some will be refused loans, as new rules come into effect.
-From Wednesday, BNPL lenders must have regulator approval to operate, giving shoppers more access to refunds and independent rulings on unresolved complaints if things go wrong.
-Providers such as Klarna and Clearpay have become huge operators allowing consumers to pay in interest-free instalments, but campaigners have often described the wider sector as an unregulated Wild West.
-But there are fears that new affordability checks on each BNPL transaction will leave some blocked for the first time, pushing them towards "thrilled" loan sharks instead.
-"While regulation is clearly needed and welcomed, our recent research found that nearly half of those likely to be rejected have not missed a BNPL payment," said Kate Pender, chief executive of not-for-profit Fair4All Finance, which promotes fair and accessible financial services.
-"The need for credit doesn't just disappear when you can't access it and people are often pushed towards more expensive or unregulated alternatives."
-What's changing under new rules
-Only lenders authorised by the Financial Conduct Authority (FCA) will now be able to offer BNPL services, bringing them more in line with credit card providers and banks offering loans.
-It also means:
-Customers can now refer new unresolved complaints about BNPL services to the Financial Ombudsman Service (FOS) for independent adjudication. The FOS expects to deal with about 2,000 cases by the end of March
-Consumers can claim for refunds and compensation for faulty goods costing more than £100 from the BNPL provider (known as section 75), as is already the case with items bought on a credit card
-Shoppers must pass an instant and automatic test that they can repay the loan, otherwise the purchase via BNPL will be blocked
-Borrowers must get clear upfront information about the loan such as what happens if a payment is missed, and be directed to free debt advice if they are in financial difficulty
-Regulators say stricter regulation will prevent people from splashing out on something unaffordable in a few clicks, taking on too much debt and being caught out by late payment fees.
-But Pender estimated 10% to 30% of BNPL users would fail "conservative" affordability checks, which are designed by each lender. This could leave many unable to buy the essentials they needed.
-Loan sharks would be "thrilled at the prospect", she told BBC News, with younger people or those who had repayment issues in the past among those more likely to be rejected.
-BNPL has proved particularly popular with 18 to 24-year-olds, although it has widespread use among all age groups.
-'It didn't feel like debt'
-Many debt charities have welcomed the changes, which they say have come after years of delay. They are still urging people to pause before buying anything via BNPL, to consider whether they would have bought it even if it was not available on credit.
-They point out that some retailers' in-house BNPL products will fall outside of the new regulation.
-Advice service Money Wellness said its figures suggest people were increasingly spreading smaller purchases across multiple BNPL agreements rather than using the product for occasional high-value items.
-"Our concern isn't Buy Now Pay Later itself. It's what can happen when people begin relying on multiple forms of credit simply to make ends meet," said Matthew Sheeran, its external relations manager.
-Tim Riesner was among those who took out various loans, including BNPL, only to face problems when his life changed.
-"It didn't feel like debt. It felt like convenience. You're buying something online and it says 'split it, pay later'. You think you're being sensible. But you can have multiple plans running at once," he said.
-"Before you know it, it's thousands. Add in loans, credit cards, bits of finance here and there, and suddenly I owed £24,000."
-His finances unravelled after having to give up well-paid work in construction after suffering problems with his eyesight.
-"Nobody should have any sympathy for me at all. I'm an adult. I knew what I was doing. The responsibility lies with me. However, advertising is very seductive. It draws you in, because the society that we live in is the society that says you can have it, and you can have it right now," he told the BBC.
-After a tough and dark period, he spoke to charity Business Debtline, where staff helped him to go through his debts, organise a Debt Relief Order, and he is now well on his way to being debt-free.
-Jack Sporcic, debt adviser at National Debtline, said: "We are urging consumers to treat Buy Now Pay Later in exactly the same way as any other form of borrowing.
-"We often see people using Buy Now Pay Later for everyday essentials such as food, energy bills and household basics."
-Bill debt soars but many don't know help is available
-- Published10 June
-One million more UK homeowners set to face higher mortgages
-- Published7 July
-How to change bank, energy or broadband provider and save money
-- Published2 days ago
-Credit reference agency Experian, which already receives data voluntarily from some providers estimated that more than 100 million BNPL transactions were made by 8.5 million customers in 2025, worth more than £7bn in spending.
-Of that spending, 98.5% of balances were repaid on time, it said.
-Leading BNPL providers have supported regulation of the sector, albeit with calls to allow them to innovate.
-"The FCA's rules largely formalise what we already do - we run affordability checks, show costs upfront and report to credit reference agencies," said a spokesman for Klarna, which says the average age of its customers is 38.
-"Interest-free buy now pay later is a simpler, fairer, lower-cost alternative to revolving credit. Robust regulation that gives consumers added confidence and strengthens their access to protections is a good thing."`,
-    bodyJa: `今すぐ購入して後で払い戻しと拒否を行うためのルール
-- 公開されました
-Buy Now Pay Later (BNPL) サービスを利用する買い物客にはより強力な権利が与えられますが、新しい規則が施行されると一部の買い物客はローンを拒否されます。
-水曜日から、BNPLの貸し手は営業するには規制当局の承認が必要となり、買い物客は事態が悪化した場合に返金や未解決の苦情に対する独立した裁定を受けやすくなる。
-KlarnaやClearpayなどのプロバイダーは、消費者が無利息の分割払いを行えるようにする巨大事業者となったが、活動家らは、この業界全体を規制のない未開拓の西部とよく表現する。
-しかし、各BNPL取引に対する新たな手頃な価格チェックにより、一部の取引が初めてブロックされ、代わりに「興奮した」高利貸しに誘導されるのではないかとの懸念がある。
-公平で利用しやすい金融サービスを推進する非営利団体フェア４オール・ファイナンスの最高経営責任者ケイト・ペンダー氏は、「規制は明らかに必要であり、歓迎されているが、最近の調査では、拒否される可能性が高い人の半数近くがＢＮＰＬの支払いを逃していないことが判明した」と述べた。
-「クレジットにアクセスできなくなっても、クレジットの必要性は消えるわけではなく、人々はより高価な、または規制されていない代替手段に駆り立てられることがよくあります。」
-新しいルールの下で何が変わるのか
-金融行動監視機構（FCA）によって認可された貸し手のみがBNPLサービスを提供できるようになり、ローンを提供するクレジットカードプロバイダーや銀行とより連携することになる。
-また、次のような意味もあります。
-顧客は、BNPL サービスに関する新たな未解決の苦情を独立した裁定のために金融オンブズマン サービス (FOS) に照会できるようになりました。 FOS は 3 月末までに約 2,000 件の事件に対処すると予想している
-クレジットカードで購入した商品の場合と同様に、消費者はBNPLプロバイダー（セクション75として知られる）に対して100ポンドを超える欠陥商品の返金と補償を請求できます。
-買い物客はローンを返済できるかどうかの即時自動テストに合格する必要があります。合格しないと、BNPL 経由での購入がブロックされます。
-借り手は、支払いが滞った場合に何が起こるかなど、ローンに関する明確な情報を事前に入手し、経済的に困難に陥った場合は無料の借金相談に案内される必要があります。
-規制当局は、規制を強化することで、人々が数回クリックするだけで手の届かないものにお金をはねたり、多額の借金を抱えたり、延滞料を徴収されたりすることを防ぐことができると述べている。
-しかし、ペンダー氏は、BNPL利用者の10～30％が、各金融機関が設計した「保守的な」手頃な価格チェックに合格しないと推定した。これにより、多くの人が必要な必需品を購入できなくなる可能性がある。
-融資を断られる可能性が高いのは、若い人や過去に返済問題を抱えた人たちで、高利貸しは「その見通しに興奮している」だろうと彼女はBBCニュースに語った。
-BNPL は、すべての年齢層に広く使用されていますが、特に 18 歳から 24 歳の間で人気があることがわかっています。
-「借金という感じはしなかった」
-多くの債務慈善団体はこの変化を歓迎しており、何年も遅れてようやく実現したとしている。彼らは依然として、BNPL経由で何かを購入する前に立ち止まり、たとえクレジットで購入できなかったとしても購入するかどうかを検討するよう人々に呼びかけている。
-彼らは、一部の小売業者の自社BNPL製品は新たな規制の対象外になると指摘している。
-アドバイスサービスのマネーウェルネスは、その数字は、人々が時々高額な商品のために製品を使用するのではなく、複数のBNPL契約にまたがって少額の購入をますます分散していることを示唆していると述べた。
-同社の対外関係マネージャー、マシュー・シーラン氏は「われわれの懸念は、今すぐ購入して後で支払うということ自体ではない。人々が単に家計をやりくりするために複数の信用形態に依存し始めたときに起こり得ることだ」と述べた。
-ティム・リースナー氏も、BNPL を含むさまざまなローンを組んだものの、人生が変わったときに問題に直面した人の一人でした。
-「借金とは感じませんでした。便利だと感じました。オンラインで何かを購入すると、『分割して後で支払い』と表示されます。自分は賢明であると思われます。しかし、一度に複数のプランを実行することはできます」と彼は言いました。
-「気づけば、その額は数千ポンドになっています。ローン、クレジット カード、あちこちの金融を加えると、突然 24,000 ポンドの借金を負うことになりました。」
-視力の問題に悩まされ、建設業での高賃金の仕事を断念しなければならなくなった後、彼の経済は破綻した。
-「誰も私に同情してはいけない。私は大人だ。自分が何をしていたかはわかっていた。責任は私にある。しかし、広告はとても魅惑的だ。広告は人を引き込む。なぜなら、私たちが住んでいる社会は、広告を手に入れることができ、今すぐ手に入れることができるという社会だからだ」と彼はBBCに語った。
-厳しく暗い時期を経た後、彼は慈善団体ビジネス・デブトラインに相談し、そこでスタッフが彼の借金を整理し、債務救済命令を組織するのを手伝ってくれた。そして現在、彼は無借金生活への道を順調に進んでいる。
-ナショナル・デットラインの債務アドバイザー、ジャック・スポーシック氏は、「消費者に対し、今すぐ購入して後で支払うサービスを他の借り入れとまったく同じように扱うよう促している。
-「食料品、光熱費、家庭用品などの日用品に、今すぐ購入して後で支払うサービスを利用している人をよく見かけます。」
-請求書の借金は急増するが、多くの人は助けが利用できることを知らない
-- 6 月 10 日発行
-さらに100万人の英国の住宅所有者が住宅ローンの高額化に直面する見通し
-- 7 月 7 日に公開
-銀行、電力会社、ブロードバンドプロバイダーを変更してお金を節約する方法
-- 2 日前に公開
-すでに一部のプロバイダーから自発的にデータを受け取っている信用照会機関エクスペリアンは、2025年には1億件を超えるBNPL取引が850万人の顧客によって行われ、支出額は70億ポンド以上に相当すると推定している。
-この支出のうち残高の98.5％が期日通りに返済されたという。
-主要なBNPLプロバイダーは、イノベーションを許可するよう求めながらも、この分野の規制を支持してきました。
-顧客の平均年齢は38歳だというクラナ社の広報担当者は、「FCAの規則は、われわれがすでに行っていることをほぼ形式化したものである。われわれは手頃な価格の調査を実施し、費用を前もって提示し、信用調査機関に報告する」と述べた。
-「無利子で今すぐ購入して後で支払うという方法は、リボ払いクレジットに代わる、よりシンプルで公平、低コストの代替手段です。消費者にさらなる自信を与え、保護へのアクセスを強化する強力な規制は良いことです。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9q283r9px3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T23:01:57+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55c/live/e2e009b0-7ec0-11f1-8439-ebc9c5f19300.jpg",
-    readTime: 8,
-  },
-  {
-    id: "heating-oil-customers-to-get-compensatio-73703af8",
-    title: "Heating oil customers to get compensation after price hikes",
-    titleJa: "灯油の顧客、値上げ後に補償金を受け取る",
-    summaryJa: "灯油の顧客、値上げ後に補償金を受け取る- 公開されました",
-    bodyOriginal: `Heating oil customers to get compensation after price hikes
-- Published
-Heating oil customers who had their orders cancelled and prices raised when the US-Israel war with Iran broke out will get compensation, the competition watchdog has said.
-Some 1,700 households were forced to "re-order at significantly higher prices or go without fuel" costing them up to £350, the Competition Markets Authority (CMA) said.
-Some suppliers have agreed to compensate customers and the regulator is planning legal action against those who have so far refused to do so, it added.
-The UK and Ireland Fuel Distribution Association (UKIFDA), which represents heating oil suppliers, said "there were a small number of cases found which require redress".
-Wholesale oil prices jumped from around $70 a barrel at the start of Iran war in February to almost $120 a barrel by the end of March as the conflict disrupted the transportation and production of energy in the region.
-UK heating oil prices also jumped around this time. The CMA said on Wednesday that "average retail prices were, at their peak, 92% higher".
-The CMA's investigation into the heating oil market found the price increases after the Iran war largely reflected rising wholesale costs and suppliers have not profited materially from the crisis.
-However, it concluded heating oil customers are not as well protected as those connected to the energy grid.
-It has recommended new regulations over how prices are quoted and cancellations are handled as well as "better support for vulnerable consumers".
-Chancellor Rachel Reeves said: "It is reassuring to know it is a competitive market but the lack of protection for these households does concern me so we will look very seriously at what can be done."
-UKIFDA chief executive Ken Cronin said: "We will work with all government bodies on the recommendations set out in this report."
-Meanwhile, the CMA has not said how many suppliers have agreed to compensate customers for cancelled orders, how many customers will receive a pay out, or how much they will get.
-"Those who paid more to replace their cancelled order will receive a payment covering the difference, while those who did not buy replacement oil will have their original orders honoured at the agreed price," it said.
-"[We are] preparing to take court-based enforcement action against firms that fail to compensate customers voluntarily," it added.
-The BBC understands more details will be provided once the scheme is up and running.
-The CMA's report on the heating oil sector follows a four-month investigation launched in March.
-Those who use heating oil often store it in a tank outside their property and are among the first to feel the impact of rising prices.
-Some 1.5 million households depend on heating oil, but do not have the same consumer protections as electricity and gas customers, according to the CMA.
-Most of those are in Northern Ireland, where the watchdog says 60% of households rely on it.
-'Punished for doing the sensible thing'
-Anthony Maines, 31, from Seaton Delaval in Northumberland, said he had paid £463.83 for 700 litres of heating oil on 28 February.
-He placed the through a broker when he saw the US and Israel first attacked Iran, but says the order was cancelled a few days later.
-He says he was then forced to reorder 500 litres of oil for around £700 through a different broker.
-He says he decided to lock in the cheaper price at the start of the conflict because he predicted the war would cause prices to rise.
-Anthony agrees with the CMA's approach, especially after his experience.
-"It felt like I was being punished for doing the sensible thing," he says.
-He received a partial resolution through his broker who agreed in May to honour the original price he paid at the end of February, but by then he had already paid elsewhere at a higher price for his oil.
-- Published16 March
-- Published10 March`,
-    bodyJa: `灯油の顧客、値上げ後に補償金を受け取る
-- 公開されました
-米国・イスラエルとイランの戦争勃発時に注文がキャンセルされ、価格が値上げされた灯油の顧客は補償を受けることになると競争監視団体は発表した。
-競争市場庁（CMA）によると、約1,700世帯が「大幅に高い価格で再注文するか、燃料なしで生活する」ことを余儀なくされ、最大350ポンドの費用がかかったという。
-一部の供給業者は顧客への補償に同意しており、規制当局はこれまでに補償を拒否した業者に対する法的措置を計画していると付け加えた。
-暖房油供給業者を代表する英国・アイルランド燃料流通協会（UKIFDA）は、「救済が必要な事例が少数ながら見つかった」と述べた。
-紛争により地域内のエネルギー輸送と生産が混乱したため、卸売原油価格は2月のイラン戦争開始時には1バレルあたり約70ドルだったが、3月末には1バレルあたり120ドル近くまで上昇した。
-英国の暖房油価格もこの時期に急騰した。 CMAは水曜日、「平均小売価格はピーク時に92％高かった」と発表した。
-CMAによる暖房油市場の調査では、イラン戦争後の価格上昇は主に卸売コストの上昇を反映しており、供給業者は危機から大きな利益を得ていないことが判明した。
-しかし、灯油の顧客はエネルギー網に接続されている顧客ほど十分に保護されていないと結論付けた。
-価格の見積もりやキャンセルの処理方法に関する新たな規制のほか、「弱い立場にある消費者へのサポートの強化」を勧告した。
-レイチェル・リーブス財務大臣は、「競争の激しい市場であることを知って心強いが、これらの世帯への保護が欠如していることは懸念しているので、何ができるかを非常に真剣に検討する」と述べた。
-UKIFDAのケン・クローニン最高経営責任者（CEO）は「我々はこの報告書に記載された勧告に基づき、すべての政府機関と協力する」と述べた。
-一方、CMAは、キャンセルされた注文に対する顧客への補償に同意したサプライヤーの数や、支払いを受ける顧客の数、あるいは報酬額については明らかにしていない。
-「キャンセルされた注文を交換するためにより多くの金額を支払った人は、その差額をカバーする支払いを受け取るが、交換用オイルを購入しなかった人は、合意された価格で元の注文が尊重される」と同社は述べた。
-「顧客への自主的な補償を怠った企業に対して、裁判所に基づく強制措置を講じる準備を進めている」と付け加えた。
-BBC は、この計画が開始され、実行され次第、より詳細な情報が提供されることを理解しています。
-暖房油セクターに関するCMAの報告書は、3月に開始された4か月にわたる調査を経て発表された。
-灯油を使用する人は、自宅の敷地外にあるタンクに灯油を保管していることが多く、価格高騰の影響を最初に感じる人たちです。
-CMAによると、約150万世帯が灯油に依存しているが、電気やガスの顧客と同様の消費者保護を受けていない。
-そのほとんどは北アイルランドにあり、監視機関によると、世帯の60％が北アイルランドに依存しているという。
-「良識あることをしたから罰せられる」
-ノーサンバーランド州シートン・デラバル在住のアンソニー・メインズさん（31）は、2月28日に灯油700リットルの代金として463.83ポンドを支払ったと語った。
-米国とイスラエルが最初にイランを攻撃したのを見て、ブローカーを通じて注文を出したが、数日後に注文はキャンセルされたという。
-その後、別のブローカーを通じて500リットルの石油を約700ポンドで再注文することを強いられたという。
-同氏は、戦争が価格の上昇を引き起こすと予測したため、紛争開始時に安い価格を固定することにしたと述べた。
-アンソニーは、特に自身の経験を踏まえて、CMA のアプローチに同意します。
-「分別あることをしたことで罰を受けているように感じました」と彼は言う。
-同氏はブローカーを通じて部分的な解決策を受け取り、ブローカーは2月末に支払った元の価格を尊重することに5月に同意したが、その時までにすでに別の場所で原油のより高い価格を支払っていた。
-- 3 月 16 日公開
-- 3 月 10 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T23:00:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb5/live/a97b22b0-7f95-11f1-ac71-510b51a60620.jpg",
-    readTime: 4,
-  },
-  {
-    id: "from-wimbledon-towels-to-scotch-what-ind-943a6cf0",
-    title: "From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers",
-    titleJa: "ウィンブルドンのタオルからスコッチまで：インドと英国の貿易協定が買い物客に何を意味するか",
-    summaryJa: "ウィンブルドンのタオルからスコッチまで：インドと英国の貿易協定が買い物客に何を意味するか- 公開されました",
-    bodyOriginal: `From Wimbledon towels to Scotch: What India-UK trade deal could mean for shoppers
-- Published
-In the offices of Welspun Living, the Indian company that makes championship towels for Wimbledon, preparations have been gathering pace to take full benefit of the India-UK free trade agreement (FTA) that came into effect on Wednesday.
-The home textile manufacturing giant, among India's largest, supplies bedsheets and towels to several major British high-street retailers like John Lewis and Tesco among others.
-"Many of these brands have been in India in recent weeks to chart a business roadmap for the next few years. We typically did joint forward planning only for our US customers, but now, with the deal, it's happening with UK clients too," Dipali Goenka, CEO of Welspun Living, told the BBC.
-"In fact, as we speak, our supply chain team in London is sitting in the John Lewis office."
-The FTA between the world's fifth and sixth largest economies removes or reduces tariffs on 99% of Indian exports to the UK and 90% of UK imports into India.
-The British government has called it "the UK's biggest and most economically significant bilateral trade pact" since leaving the EU, with its GDP estimated to increase by 0.13%, equivalent to £4.8bn ($6.4bn), and India's by 0.06%, or £5.1bn per year in the long run because of the deal.
-Labour-heavy sectors like textiles, garments, footwear, cars and marine products are counting on the agreement's implementation to spur business growth
-"I'm expecting our exports to the UK to now grow in double digits," Goenka said.
-She adds that India was at a disadvantage to countries like Bangladesh and Pakistan because their exports entered the UK duty-free through the Developing Countries Trading Scheme (DCTS), while India paid 12% tariffs.
-But that will now change.
-"If you look at just home textiles, Pakistan's share of UK exports are at around 55%, whereas India's is just 6-7%. That's the gap we can finally cover."
-The pact could also be a tipping point for British alcohol and spirits companies.
-The reduction of customs duties on Scotch whisky from 150% to 75% immediately and then gradually to 40% over 10 years is a "real shift, not a small tweak", says Avneet Singh of Modern Drinks Pvt Ltd, an import house based in the capital Delhi.
-How much this boosts imports will become clearer in the coming months, says Singh, though he sees momentum building ahead of the new terms of trade taking effect.
-"The focus has been on getting the operational side ready. That means working closely with UK suppliers to ensure certificates of origin and other trade documentation are in place, reviewing customs and compliance requirements, and co-ordinating with logistics and clearing partners so shipments can benefit from the revised tariff structure from day one," Singh said.
-So far, it's been a period of "careful preparation rather than rapid expansion", he says. Bigger changes will come once businesses see the actual savings on imported goods.
-Beyond these few pockets of the industry though, the overall impact of the deal could be "incremental rather than transformational", according to trade experts.
-Data from the Delhi-based Global Trade Research Initiative (GTRI) think-tank shows India exported $13.4bn worth of goods to the UK in the financial year 2025-2026, yet more than half of these exports entered the country duty-free under its most favoured nation regime.
-On the import side, India imported $11.7bn from the UK, and over 45% consisted of silver, which remains on India's exclusion list and is outside the agreement.
-"The real test is whether products that previously faced UK tariffs of 4-16% - such as textiles, garments, footwear, carpets, cars, seafood, grapes and mangoes - see higher export orders, larger export volumes and better profit margins. Those indicators will provide the clearest evidence of the agreement's success. The FTA's impact should become visible over the next one to three years," Ajay Srivastava of GTRI told the BBC.
-But several unresolved challenges, such as the UK maintaining tariffs on steel imports above a specific quota to protect domestic producers, could prove to be impediments to utilising the full scope of the deal, according to Srivastava.
-The UK's proposed carbon tax (called CBAM, external) could also reduce some of the FTA gains, he adds, because even if tariffs "fall to zero under the FTA, carbon-related border charges could increase the effective cost of Indian exports in sectors covered by the CBAM, creating new trade frictions".
-There are also other non-tariff barriers that continue to pose challenges.
-Historically India's utilisation of FTAs has been low because small businesses are often unaware of the new rules. As a result, only about 20-30% of India's eligible exports are estimated to use FTA preferences even though import-side utilisation rates are much higher.
-For example, an Indian garment exporter must actively tell a UK buyer that the import duty on shirts has fallen from 12% to zero and renegotiate prices or contracts accordingly.
-Many will need training to comply with origin requirements and documentation so they can claim preferential tariffs.
-"The government and industry associations will have to be proactive in dealing with these issues because otherwise tariff reductions will not automatically translate into higher exports," says Srivastava.
-Yet, for India this is an opportunity that comes at the right time, especially in certain industries such as ready-made garments (RMG), according to CareEdge Research.
-China holds the largest market share in UK's RMG imports; however, it has continued to lose market share due to declining competitiveness and higher labour costs. Additionally, brands are also looking to diversify sourcing from countries like Bangladesh which was gripped by socio-political turmoil until recently.
-"In such a scenario, India is expected to double its market share from 6% in 2024 to 12% in the UK's RMG import in the near to medium term," CareEdge said in a report.
-Overall bilateral trade could also increase by 15% every year, higher than the current growth rate of 10-12%, according to CareEdge, with consumers from both sides broadly benefiting from improved product quality and broader choice.
-Follow BBC News India on Instagram, external, YouTube,, external X, external and Facebook, external.`,
-    bodyJa: `ウィンブルドンのタオルからスコッチまで：インドと英国の貿易協定が買い物客に何を意味するか
-- 公開されました
-ウィンブルドンの優勝タオルを製造するインド企業ウェルスパン・リビングのオフィスでは、水曜日に発効したインド・英国自由貿易協定（FTA）を最大限に活用するための準備が加速している。
-インド最大手のホームテキスタイル製造大手である同社は、ジョン・ルイスやテスコなど英国の大手量販店数社にベッドシーツやタオルを供給している。
-ウェルスパン・リビングのディパリ・ゴエンカ最高経営責任者（CEO）はBBCに対し、「これらのブランドの多くは、今後数年間の事業ロードマップを描くため、ここ数週間インドを訪れている。われわれは通常、米国の顧客に対してのみ共同将来計画を行っていたが、今回の契約により英国の顧客に対してもそれが行われるようになった」と語った。
-「実際、私たちが話している間、ロンドンのサプライチェーンチームはジョン・ルイスのオフィスに座っています。」
-世界第５位と第６位の経済大国間のＦＴＡにより、インドから英国への輸出の９９％と英国からのインドへの輸入の９０％に対する関税が撤廃または引き下げられる。
-英国政府はこれをEU離脱以来「英国最大かつ最も経済的に重要な二国間貿易協定」と呼んでおり、この協定によりインドのGDPは長期的に0.13％、つまり48億ポンド（64億ドル）相当、インドは0.06％、つまり年間51億ポンド増加すると推定されている。
-繊維、衣料品、履物、自動車、水産物などの労働力の多い部門は、事業の成長を促進するために協定の履行に期待している。
-ゴエンカ氏は「英国への輸出は今後２桁成長すると予想している」と述べた。
-同氏は、インドが12％の関税を支払っているのに対し、インドは発展途上国貿易制度（DCTS）を通じて英国に無税で輸出品が入ったため、バングラデシュやパキスタンのような国々にとって不利な立場にあったと付け加えた。
-しかし、これからはそれが変わります。
-「家庭用繊維製品に限って見ると、英国の輸出に占めるパキスタンのシェアは約55％であるのに対し、インドはわずか6～7％にすぎない。それがわれわれが最終的にカバーできるギャップだ。」
-この協定は英国の酒類・蒸留酒会社にとって転換点となる可能性もある。
-スコッチウイスキーの関税を即時に150％から75％に引き下げ、その後10年間で段階的に40％に引き下げることは「小さな調整ではなく、本当の変化」だと首都デリーに拠点を置く輸入会社モダンドリンク社のアヴニート・シン氏は言う。
-これが輸入をどれだけ押し上げるかは今後数カ月のうちに明らかになるだろうとシン氏は言うが、新交易条件の発効に先立って勢いが増していると見ている。
-「運用面の準備に重点が置かれている。つまり、英国のサプライヤーと緊密に連携して原産地証明書やその他の貿易文書が整備されていることを確認し、税関やコンプライアンス要件を見直し、物流や清算パートナーと連携して、貨物が初日から改定された関税構造の恩恵を受けることができるようにすることを意味する」とシン氏は述べた。
-これまでのところ、「急速な拡大ではなく、慎重な準備」の時期だったと同氏は言う。企業が輸入品の実際の節約を確認できれば、さらに大きな変化が訪れるだろう。
-しかし、貿易専門家らによると、業界のこれらの少数の領域を超えて、この協定の全体的な影響は「変革というよりむしろ漸進的」になる可能性がある。
-デリーに本拠を置くシンクタンク、世界貿易研究イニシアチブ（GTRI）のデータによると、インドは2025年から2026年の会計年度に134億ドル相当の商品を英国に輸出したが、これらの輸出の半分以上は最恵国待遇制度の下で無税で入国した。
-輸入面では、インドは英国から117億ドルを輸入したが、その45％以上が銀で構成されており、銀はインドの除外リストに残っており、協定の対象外となっている。
-GTRIのアジェイ・スリバスタバ氏は、「本当の試練は、織物、衣料品、履物、カーペット、自動車、魚介類、ブドウ、マンゴーなど、これまで英国の関税にさらされていた製品の輸出受注が増加し、輸出量が増加し、利益率が向上するかどうかだ。これらの指標は協定の成功を示す最も明白な証拠となるだろう。FTAの影響は今後1～3年で明らかになるはずだ」とBBCに語った。
-しかし、スリバスタバ氏によると、英国が国内生産者を保護するために特定の割当量を超えて鉄鋼輸入に関税を維持するなど、いくつかの未解決の課題が協定の全範囲を活用する際の障害となる可能性があるという。
-英国が提案している炭素税（対外的にはCBAMと呼ばれる）も、FTAの恩恵の一部を削減する可能性があると同氏は付け加えた。なぜなら、たとえ関税が「FTAの下でゼロに下がったとしても、炭素関連の国境税がCBAMの対象分野におけるインドの輸出の実効コストを上昇させ、新たな貿易摩擦を引き起こす可能性がある」からである。
-他にも引き続き課題を引き起こしている非関税障壁があります。
-中小企業は新しいルールを知らないことが多いため、歴史的にインドのFTA利用率は低かった。その結果、輸入側の利用率がはるかに高いにもかかわらず、インドの適格輸出品のうちFTA優遇措置を利用しているのはわずか約20～30％と推定されている。
-たとえば、インドの衣料品輸出業者は、シャツの輸入関税が 12% からゼロに下がったことを英国のバイヤーに積極的に伝え、それに応じて価格や契約を再交渉する必要があります。
-多くの企業は、特恵関税を申請できるよう、原産地要件や書類を遵守するための訓練が必要となるでしょう。
-「政府と業界団体はこれらの問題に積極的に対処する必要がある。そうしないと、関税引き下げが自動的に輸出の増加につながらないからだ」とスリバスタバ氏は言う。
-しかし、CareEdge Researchによると、インドにとって、特に既製衣料品（RMG）などの特定の業界では、これは適切なタイミングで到来するチャンスだという。
-中国は英国の RMG 輸入において最大の市場シェアを保持している。しかし、競争力の低下と人件費の高騰により、市場シェアは減少し続けています。さらに、ブランドは、最近まで社会政治的混乱に見舞われていたバングラデシュのような国からの調達を多様化することも検討している。
-「そのようなシナリオでは、英国のRMG輸入におけるインドの市場シェアは近中期的に2024年の6％から12％に倍増すると予想される」とケアエッジは報告書で述べた。
-CareEdgeによれば、二国間貿易全体も毎年15％増加する可能性があり、現在の成長率10～12％を上回っており、双方の消費者は製品品質の向上と幅広い選択肢から広く恩恵を受けている。
-Instagram (外部)、YouTube、外部 X (外部)、および Facebook (外部) で BBC News India をフォローしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0kymrz0vkgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-14T22:17:43+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b761/live/c7a2b980-7e80-11f1-926f-c90d1bcfbc84.jpg",
-    readTime: 7,
-  },
-  {
-    id: "your-monthly-netflix-bill-is-up-29-in-ju-7bc80c3c",
-    title: "Your monthly Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-    titleJa: "Netflix の月々の料金は 1 年余りで 29% 増加しました。ワシントンが介入する時が来た。",
-    summaryJa: "Netflix は依然としてウォール街の人気者であり、政府規制当局の標的となっている",
-    bodyOriginal: `Netflix is still a Wall Street favorite — and a target for government regulators`,
-    bodyJa: `Netflix は依然としてウォール街の人気者であり、政府規制当局の標的となっている`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-    publishedAt: "2026-07-14T22:11:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-95726777",
-    readTime: 2,
-  },
-  {
-    id: "three-powerful-forces-are-draining-famil-519a6b6f",
-    title: "Three powerful forces are draining family wealth — and your estate plan is completely unprepared",
-    titleJa: "3 つの強力な勢力が家族の財産を枯渇させています - そしてあなたの財産計画はまったく準備されていません",
-    summaryJa: "メディケイドの削減から IRA の税金の罠まで、家族の相続に対する本当の脅威とその対処法をご紹介します。",
-    bodyOriginal: `From Medicaid cuts to an IRA tax trap, here are the real threats to your family’s inheritance and what to do about them.`,
-    bodyJa: `メディケイドの削減から IRA の税金の罠まで、家族の相続に対する本当の脅威とその対処法をご紹介します。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
-    publishedAt: "2026-07-14T21:38:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-88262128",
-    readTime: 2,
-  },
-  {
-    id: "the-ai-boom-just-found-two-new-winners-g-fde400c8",
-    title: "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
-    titleJa: "AI ブームでは、ゴールドマン サックスと JP モルガン チェースという 2 つの新たな勝者が誕生しました。",
-    summaryJa: "米国のメガバンクは火曜日、世界的な人工知能ブームがハイテク大手や半導体メーカーだけに利益をもたらしているわけではないという証拠を示した。ゴールドマン・サックスとJPモルガン・チェースは、株式取引と投資銀行業務の大幅な増加に支えられ、それぞれ記録的な四半期売上高を記録した。",
-    bodyOriginal: `American megabanks on Tuesday gave evidence that the global artificial intelligence boom isn't just benefiting tech giants and chip makers.
-Goldman Sachs and JPMorgan Chase each posted record quarterly revenue hauls, fueled by massive gains in equities trading and investment banking.
-Behind the surge in activity — Goldman revenue jumped 39% to $20.3 billion, while JPMorgan saw it rise 27% to $58 billion — is the fact that AI is "everywhere in financial markets," JPMorgan CFO Jeremy Barnum told reporters.
-"These are booming environments with a ton of activity, big IPOs, big index rebalancing, a lot of activity in Asia," Barnum said Tuesday. "A lot of it is downstream of the AI theme, writ large on a global basis. It's just a very, very, very active environment."
-The quarter showed that the AI boom is creating winners far beyond Silicon Valley. While Nvidia and hyperscalers including Alphabet have captured many of the headlines, Goldman, JPMorgan and other banks are profiting from the massive flows of capital into AI.
-They are advising on AI-related deals, financing data centers and power infrastructure, underwriting debt and equity offerings, and facilitating the surge in trading that has accompanied the global race to deploy the technology.
-That is creating "a ripple effect" across the American economy and giving banks a flood of new opportunities to provide financing and trading solutions across public and private markets, Goldman CEO David Solomon told analysts Tuesday.
-"We are in the middle of an AI capex super cycle where there are demands on financing in every single financing instrument, in every region of the world and across every single industry," Solomon said. Capex is short for capital expenditures, or investments made by a business for physical assets like factories.
-Goldman is preparing for a three-to-five year investment cycle that is still in its early stages, he told analysts.
-Goldman shares jumped 8% in afternoon trading, while JPMorgan rose 2%.
-AI 'tipping point'
-While the AI buildout isn't new, what's changed is that it has broadened out beyond chips and software to include power providers and infrastructure players.
-The top beneficiaries of this trend are the three biggest Wall Street firms: Goldman Sachs, JPMorgan and Morgan Stanley, according to Wells Fargo banking analyst Mike Mayo.
-The AI investment boom "reached a tipping point" in the second quarter, Mayo said.
-Mayo increased his price targets for Goldman and JPMorgan after Tuesday's blowout results. Morgan Stanley is scheduled to report earnings on Wednesday.
-The clearest evidence of the AI impact appeared in equities trading, where global capital flows and blockbuster transactions helped produce some of the biggest revenue surprises of the quarter.
-Revenue from equities trading rose 86% to $6 billion at JPMorgan and 72% to $7.42 billion at Goldman. Combined, that was a whopping $4.4 billon more than analysts had expected.
-Other large banks also benefited. Bank of America, the second biggest U.S. lender by assets, saw equity trading revenue rise 70% to $3.6 billion.
-Helping the quarter, investors broadened out their search for AI beneficiaries, pouring money into Asian markets, including South Korea, Taiwan and Japan, Soofian Zuberi, president and co-head of Global Markets at Bank of America, told CNBC.
-"People looked at the AI trade and said, 'What are the best reflections of it outside the U.S?,'" Zuberi said. "You've got American clients who are diversifying and allocating more money to Asia, including foundations, the endowments, and family offices."
-SpaceX, Alphabet
-The AI impact also showed up in the banks' strong advisory banking revenue for the second quarter.
-Investment banking revenue at Goldman jumped 55% to $3.4 billion, and climbed 30% to $3.3 billion at JPMorgan Chase. That is a combined $1 billion more than analysts had expected.
-In the quarter, Goldman was lead advisor on the SpaceX IPO and Alphabet's $90 billion equity issuance and advised Dominion Energy on its sale to NextEra Energy, all moves driven by the AI cycle.
-At Bank of America, investment banking fees jumped 50% to $2.1 billion.
-At the same time as they reap record fees driven by AI, banks are starting to benefit from implementing the technology internally. That should help them increase revenue while keeping a lid on headcount and other expenses.
-"AI is driving banking by helping streamline processes," Zubieri said. "And banking is driving AI, because without banking you can't have all these data centers financed."`,
-    bodyJa: `米国のメガバンクは火曜日、世界的な人工知能ブームがハイテク大手や半導体メーカーだけに利益をもたらしているわけではないという証拠を示した。
-ゴールドマン・サックスとJPモルガン・チェースは、株式取引と投資銀行業務の大幅な増加に支えられ、それぞれ記録的な四半期売上高を記録した。
-JPモルガンのジェレミー・バーナム最高財務責任者（CFO）は記者団に対し、ゴールドマンの売上高が39％増の203億ドル、JPモルガンの売上高が27％増の580億ドルとなった背景には、AIが「金融市場のいたるところに存在している」という事実があると語った。
-バーナム氏は火曜日、「これらは大量の活動、大規模なIPO、大規模な指数リバランス、アジアでの多くの活動を伴う活況な環境だ」と述べた。 「その多くは AI テーマの下流にあり、地球規模で大規模に行われています。まさに、非常に、非常に、非常に活発な環境です。」
-この四半期は、AI ブームがシリコンバレーをはるかに超えた勝者を生み出していることを示しました。 Nvidia や Alphabet を含むハイパースケーラーが多くの見出しを飾っていますが、ゴールドマン、JP モルガン、その他の銀行は AI への膨大な資本の流れから利益を得ています。
-彼らは、AI 関連の取引についてアドバイスし、データセンターや電力インフラへの資金調達、債券や株式の引受を引き受け、テクノロジー導入の世界的な競争に伴う取引の急増を促進しています。
-それがアメリカ経済全体に「波及効果」を生み出し、銀行に公開市場と私設市場にわたって融資と取引ソリューションを提供する新たな機会を大量に与えている、とゴールドマンのデービッド・ソロモン最高経営責任者（CEO）は火曜日にアナリストに語った。
-「私たちはAI設備投資のスーパーサイクルの真っ只中におり、世界のあらゆる地域、あらゆる業界にわたって、あらゆる融資手段で資金調達の需要が存在します」とソロモン氏は述べた。 Capex は資本支出の略で、企業が工場などの物理的資産に対して行う投資です。
-同氏はアナリストに対し、ゴールドマンは３─５年の投資サイクルに向けて準備を進めているが、まだ初期段階にあると語った。
-ゴールドマン株は午後の取引で８％上昇し、ＪＰモルガンは２％上昇した。
-AIの「転換点」
-AI の構築は新しいものではありませんが、変わったのは、AI の範囲がチップやソフトウェアを超えて、電力プロバイダーやインフラストラクチャー プレーヤーを含むようになったということです。
-ウェルズ・ファーゴの銀行アナリスト、マイク・メイヨ氏によると、この傾向で最も恩恵を受けているのはウォール街の３大企業、ゴールドマン・サックス、ＪＰモルガン、モルガン・スタンレーだという。
-メイヨー氏は、AI投資ブームは第2四半期に「転換点に達した」と述べた。
-メイヨー氏は火曜日の大幅な決算を受けて、ゴールドマンとJPモルガンの目標株価を引き上げた。モルガン・スタンレーは水曜日に決算発表を予定している。
-AI の影響を示す最も明確な証拠は株式取引に現れており、世界的な資本の流れと大規模な取引が、この四半期最大の予想外の収益を生み出しました。
-株式トレーディングによる収益は、ＪＰモルガンが８６％増の６０億ドル、ゴールドマンが７２％増の７４億２０００万ドルとなった。合計すると、アナリストの予想を44億ドルも上回った。
-他の大手銀行も恩恵を受けた。資産額で米国第２位の銀行であるバンク・オブ・アメリカの株式トレーディング収入は７０％増の３６億ドルとなった。
-この四半期を支援して、投資家はAIの受益者探しの範囲を広げ、韓国、台湾、日本を含むアジア市場に資金を注ぎ込んだとバンク・オブ・アメリカの社長兼グローバル・マーケッツ共同責任者のスーフィアン・ズベリ氏がCNBCに語った。
-「人々はAI貿易を見て、『米国以外ではAI貿易を最もよく反映しているのは何だろう』と言った」とズベリ氏は語った。 「財団、基金、ファミリーオフィスなど、アジアに資金を多角化し、より多くの資金を割り当てているアメリカ人の顧客がいます。」
-スペースX、アルファベット
-AI の影響は、第 2 四半期の銀行のアドバイザリー バンキング収益の好調にも表れました。
-ゴールドマンの投資銀行収入は５５％増の３４億ドル、ＪＰモルガン・チェースは３０％増の３３億ドルだった。これはアナリストの予想を合計で10億ドル上回る額となる。
-同四半期、ゴールドマンはスペースXのIPOとアルファベットの900億ドルの株式発行の主任顧問を務め、ドミニオン・エナジーのNextEra Energyへの売却について助言したが、これらすべての動きはAIサイクルによって推進された。
-バンク・オブ・アメリカでは、投資銀行手数料が50％増の21億ドルとなった。
-AI によって記録的な手数料を獲得すると同時に、銀行はそのテクノロジーを内部に導入することで恩恵を受け始めています。これにより、従業員数やその他の経費を抑えながら収益を増やすことができるはずです。
-「AIはプロセスの合理化を支援することで銀行業務を推進している」とズビエリ氏は語った。 「そして、銀行業が AI を推進しています。銀行業がなければ、これらすべてのデータセンターに資金を提供することはできないからです。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
-    publishedAt: "2026-07-14T19:50:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
   },
 ];
 
