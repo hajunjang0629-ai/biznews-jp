@@ -15,6 +15,372 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "u-s-military-says-it-has-completed-the-l-415a3d35",
+    title: "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
+    titleJa: "米軍、輸送の混乱が拡大する中、イランに対する最新の攻撃を完了したと発表",
+    summaryJa: "クウェートとバーレーンがイランの飛翔体による攻撃を報告し、商業船舶が引き続き混乱に直面していると報告する中、米軍は土曜早朝、イランに対する7夜連続の攻撃を終了したと発表した。米国とイランが先月署名した脆弱な停戦協定は、最新の戦闘が続く中、さらに崩れる兆しを見せている。暫定合意は、戦略的に重要なホルムズ海峡を再開し、２月２８日の米国とイスラエルのイラン攻撃から始まった紛争を終結させることを目的としていた。",
+    bodyOriginal: `The U.S. military said early Saturday it ended a seventh straight night of strikes against Iran, as Kuwait and Bahrain reported attacks by Iranian projectiles and commercial shipping continued to face disruptions.
+The fragile truce signed by the U.S. and Iran last month showed further signs of unravelling as the latest round of fighting continued. The interim agreement was intended to reopen the strategically vital Strait of Hormuz and end the conflict which began with U.S. and Israeli strikes on Iran on Feb. 28.
+U.S. Central Command said the attacks, which ended at 9:30 p.m. U.S. Eastern Time on Friday, struck "military logistics infrastructure, underground weapons storage, and maritime capabilities".
+"CENTCOM continues to hold Iran accountable at the Commander in Chief's direction while fully enforcing a naval blockade against Iranian ports," it said in a post on X.
+The military also said its forces intercepted several shipping vessels in recent days.
+"During the first three days of renewed implementation, U.S. forces have redirected 4 commercial vessels, disabled 1, and boarded 1 to ensure full compliance," Central Command said in a separate statement.
+Meanwhile, Iran's Revolutionary Guard Corps said it blocked four vessels early Saturday as they attempted to move under U.S. protection through the Strait of Hormuz.
+"In a coordinated missile and drone operation, all four were halted and immobilized at sea," Iran's IRNA News Agency quoted the IRGC Navy Command as saying in a post on X.
+Iran also appeared to continue its attacks on regional targets.
+Kuwait said its air defenses were "responding to hostile drone threats."
+It also said an Iranian attack on its power and water distillation station caused a fire but no casualties, according to an X post by the Kuwait News Agency. It was the second attack on Kuwait's water facilities in two days.
+Kuwait is known to be overwhelmingly dependent on desalination for drinking water, with almost 90% of the arid nation's water demand satisfied through seawater desalination plants.
+Kuwait Airways said it rescheduled most of its flights, blaming "hostile missile and drone attacks following the Iranian aggression."
+Neighboring Bahrain's government said early Saturday that its air defense systems intercepted several Iranian projectiles and sounded sirens to warn residents.
+On Friday, Iran claimed it had targeted U.S. military forces in Syria and Bahrain.
+'Winning big in Iran'
+U.S. President Donald Trump has insisted the war with Iran is going well, saying Thursday in a primetime address to the American public: "We are likewise winning big in Iran, and you will see the fruits of that labor very, very shortly."
+The U.S. president had threatened to strike Iran's bridges and power plants next week if the country refused to return to the negotiating table.
+Ian Lesser, distinguished fellow at GMF, a Washington-based think tank, said there appears to be a risk of the U.S. and Iran becoming mired in a so-called forever war.
+"There's a risk of this, but of course we were in essentially a cold and occasionally hot war with Iran for decades," Lesser told CNBC by video call.
+"I think in some sense this is misjudgment by the current administration. But it is also part of a pattern in the American approach to the use of force, that we have enormous capability and enormous operational prowess and we are hobbled by strategic mistakes," he added.
+Oil prices were sharply higher on Friday due to the ongoing unrest in the Middle East.
+International benchmark Brent crude futures with September delivery advanced 4.6% to $88.10 a barrel on Friday, while U.S. West Texas Intermediate futures with August delivery gained 4.5% to settle at $82.49. Both were at their highest since mid-June.
+For the week, both benchmarks gained about 16%, with Brent on track for a third consecutive weekly gain and WTI set for its second.
+– Reuters contributed to this report.`,
+    bodyJa: `クウェートとバーレーンがイランの飛翔体による攻撃を報告し、商業船舶が引き続き混乱に直面していると報告する中、米軍は土曜早朝、イランに対する7夜連続の攻撃を終了したと発表した。
+米国とイランが先月署名した脆弱な停戦協定は、最新の戦闘が続く中、さらに崩れる兆しを見せている。暫定合意は、戦略的に重要なホルムズ海峡を再開し、２月２８日の米国とイスラエルのイラン攻撃から始まった紛争を終結させることを目的としていた。
+米中央軍は、攻撃は午後９時半に終了したと発表した。米国東部時間金曜日、「軍の兵站インフラ、地下兵器貯蔵庫、海洋能力」を攻撃した。
+「CENTCOMはイランの港に対する海上封鎖を完全に実施しながら、最高司令官の指示に従ってイランの責任を追及し続ける」とXへの投稿で述べた。
+軍はまた、ここ数日で軍が数隻の輸送船を拿捕したと述べた。
+中央軍は別の声明で、「新たな実施の最初の３日間で、米軍は完全な遵守を徹底するため、商船４隻を方向転換し、１隻を無効化し、１隻に乗船させた」と述べた。
+一方、イラン革命防衛隊は土曜日早朝、米国の保護下でホルムズ海峡を通過しようとした船舶４隻を阻止したと発表した。
+イランのIRNA通信は、Xへの投稿で革命防衛隊海軍司令部の発言を引用し、「ミサイルと無人機の協調作戦により、4機すべてが海上で停止され動けなくなった」と伝えた。
+イランも地域目標への攻撃を継続しているようだ。
+クウェートは、防空体制が「敵対的なドローンの脅威に対応している」と述べた。
+また、クウェート通信社のXポストによると、同国は発電所と水の蒸留所に対するイランの攻撃により火災が発生したが死傷者は出なかったと述べた。クウェートの水道施設への攻撃はここ２日間で２度目となった。
+クウェートは飲料水の淡水化に圧倒的に依存していることで知られており、乾燥国の水需要のほぼ90％が海水淡水化プラントによって満たされている。
+クウェート航空は、「イランの侵略に続く敵対的なミサイルとドローン攻撃」を理由に、ほとんどの便のスケジュールを変更したと発表した。
+隣国のバーレーン政府は土曜早朝、同国の防空システムがイランの飛翔体数発を迎撃し、サイレンを鳴らして住民に警告したと発表した。
+金曜日、イランはシリアとバーレーンの米軍を標的にしたと主張した。
+「イランで大勝利」
+ドナルド・トランプ米大統領は、イランとの戦争は順調に進んでいると主張し、木曜、米国民に向けたゴールデンタイムの演説で「我々も同様にイランで大きな勝利を収めており、その努力の成果が間もなく現れるだろう」と述べた。
+米国大統領は、イランが交渉のテーブルに戻ることを拒否した場合、来週イランの橋と発電所を攻撃すると脅していた。
+ワシントンに本拠を置くシンクタンクGMFの著名研究員イアン・レッサー氏は、米国とイランがいわゆる永遠の戦争に陥るリスクがあるようだと述べた。
+レッサー氏はビデオ通話でＣＮＢＣに対し、「リスクはあるが、もちろん我々は数十年にわたりイランと本質的に冷戦、時には熱戦を繰り広げていた」と語った。
+「これはある意味、現政権の誤った判断だと思う。しかし、これは米国の武力行使アプローチのパターンの一部でもある。われわれは膨大な能力と膨大な作戦能力を持っているのに、戦略上の誤りによって足かせを食われているということだ」と同氏は付け加えた。
+中東での不安が続いているため、金曜日の原油価格は大幅に上昇した。
+国際ベンチマークであるブレント原油先物（9月渡し）は金曜、4.6％上昇して1バレル＝88.10ドルとなった一方、8月渡しの米国ウェスト・テキサス・インターミディエイト先物は4.5％上昇して82.49ドルで落ち着いた。いずれも６月中旬以来の高値となった。
+この週では、両ベンチマークは約16％上昇し、ブレントは3週連続の上昇傾向にあり、WTIは2週間連続の上昇を記録した。
+– ロイターがこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
+    publishedAt: "2026-07-18T13:18:56+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "i-racked-up-35-000-in-credit-card-debt-s-ba0d21b4",
+    title: "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
+    titleJa: "私はクレジットカードで35,000ドルの借金を抱えてしまいました。自己破産を申請すべきでしょうか？",
+    summaryJa: "「信用カウンセリング機関と協力したり、困難なプログラムに登録したりすることも考えています。」",
+    bodyOriginal: `“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”`,
+    bodyJa: `「信用カウンセリング機関と協力したり、困難なプログラムに登録したりすることも考えています。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
+    publishedAt: "2026-07-18T13:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-90674611",
+    readTime: 2,
+  },
+  {
+    id: "a-massive-lettuce-recall-hits-home-as-lo-e3a15e10",
+    title: "A massive lettuce recall hits home as local restaurants shake up their salad menus",
+    titleJa: "地元レストランがサラダメニューを刷新する中、レタスの大規模リコールが衝撃的",
+    summaryJa: "袋詰めのレタスをすべて廃棄する独立系レストランもあれば、顧客に葉物野菜を提供し続ける方法を見つけたレストランもある。",
+    bodyOriginal: `Some independent restaurants are throwing out all their bagged lettuce, while others have found ways to keep serving customers their leafy greens.`,
+    bodyJa: `袋詰めのレタスをすべて廃棄する独立系レストランもあれば、顧客に葉物野菜を提供し続ける方法を見つけたレストランもある。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/a-massive-lettuce-recall-hits-home-as-local-restaurants-shake-up-their-salad-menus-15f7ac35?mod=mw_rss_topstories",
+    publishedAt: "2026-07-18T13:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-20686256",
+    readTime: 2,
+  },
+  {
+    id: "world-cup-audience-stayed-bipartisan-des-4fe975d9",
+    title: "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
+    titleJa: "トランプ大統領の重要な役割にもかかわらず、ワールドカップの視聴者は超党派であったことがCNBCの調査で判明",
+    summaryJa: "ドナルド・トランプ大統領は、ワールドカップを2期目の最も目立つ政治舞台の1つとした。しかし、最新のCNBC全米経済調査によると、トーナメントの米国の観客は依然として驚くほど超党派であった。調査によると、登録有権者の49％がワールドカップの少なくとも一部を観戦したと回答した。この中には民主党員の５１％、共和党員の４７％、無党派層の４７％が含まれていた。",
+    bodyOriginal: `President Donald Trump made the World Cup one of the most visible political stages of his second term. But the tournament's U.S. audience remained strikingly bipartisan, according to the latest CNBC All-America Economic Survey.
+Forty-nine percent of registered voters said they watched at least some of the World Cup, according to the survey. That included 51% of Democrats, 47% of Republicans and 47% of independents.
+"It crosses partisanship, one of the few things in the world that seems to at the moment," said Jay Campbell, a partner at Democratic polling firm Hart Research, which conducted the survey along with Republican firm Public Opinion Strategies.
+The split was equally narrow along other political lines, the survey found. Fifty-one percent of voters who backed Kamala Harris in 2024 watched, compared with 47% of Trump voters. Voters who approved or disapproved of Trump tuned in at nearly the same rates, 47% and 50%, respectively.
+The World Cup's four-point Democratic-Republican gap was smaller than the partisan divides over voters' favorite sports. Republicans were 13 points more likely than Democrats to choose football, while Democrats held seven-point advantages in soccer generally and in basketball.
+Just 8% of voters named soccer as their favorite sport, but 17% said they watched "a lot" of the World Cup and an additional 32% said they watched "some."
+Micah Roberts, a partner at Public Opinion Strategies, described the tournament as a place "where Democrats and Republicans agree."
+The survey asked about World Cup viewership and asked respondents to identify their favorite sport. The results suggest the tournament largely avoided the partisan sorting that has followed Trump into much of U.S. culture.
+Since returning to office, Trump has chaired the White House task force overseeing the World Cup. FIFA President Gianni Infantino has repeatedly appeared with him, and FIFA opened offices in Trump Tower. Trump attended the World Cup draw, held at the John F. Kennedy Memorial Center for the Performing Arts, where Trump's name, which he added to the center, was recently required to be removed after a court ruling.
+Infantino also gave Trump 10 tickets worth $15,000 to last year's Club World Cup final, according to Trump's annual financial disclosure. Trump helped present the trophy and is expected to do so again Sunday at the World Cup final at MetLife Stadium in New Jersey.
+FIFA later awarded Trump its inaugural Peace Prize, drawing scrutiny from European lawmakers and an ethics complaint accusing Infantino of violating FIFA's political neutrality rules.
+Trump's involvement also extended beyond ceremonies.
+After U.S. striker Folarin Balogun received a red card, which triggered an automatic one-match suspension, Trump called Infantino and asked him to review the call. FIFA placed the suspension on probation, allowing Balogun to play in the next match, against Belgium.
+The U.S. lost 4-1 to Belgium and was eliminated. UEFA, European soccer's governing body, called FIFA's reversal "unprecedented, incomprehensible and unjustifiable." FIFA said its disciplinary committee acted under the organization's rules.
+Still, the controversy didn't dent viewership. Half of MAGA Republicans watched, compared with 46% of non-MAGA Republicans, according to the All-America survey.
+The tournament's international appeal also reached deep into Trump's "America First" coalition. Among viewers, 88% said they watched matches not involving the U.S., including 82% of all Republicans and 86% of MAGA Republicans.
+The sharper divides were economic and educational. Fifty-nine percent of voters earning at least $100,000 watched, compared with 31% of those earning less than $30,000. Viewership reached 65% among voters with postgraduate degrees but fell to 40% among those with a high school education or less. Those divides may reflect access to paid television, on which millions of viewers watched World Cup games.
+The CNBC All-America Economic Survey was conducted July 8 through July 12 by Hart Research Associates and Public Opinion Strategies. It surveyed 1,000 registered voters nationwide and has a margin of error of plus or minus 3.1 percentage points.`,
+    bodyJa: `ドナルド・トランプ大統領は、ワールドカップを2期目の最も目立つ政治舞台の1つとした。しかし、最新のCNBC全米経済調査によると、トーナメントの米国の観客は依然として驚くほど超党派であった。
+調査によると、登録有権者の49％がワールドカップの少なくとも一部を観戦したと回答した。この中には民主党員の５１％、共和党員の４７％、無党派層の４７％が含まれていた。
+共和党の世論調査会社パブリック・オピニオン・ストラテジーズと共同で調査を実施した民主党系世論調査会社ハート・リサーチのパートナー、ジェイ・キャンベル氏は、「党派性を超えたものであり、現時点でそうなっているのは世界でも数少ないことの一つだ」と語った。
+他の政治的路線でも同様に意見の隔たりは狭いことが調査で判明した。 2024年にカマラ・ハリスを支持した有権者の51％が視聴したのに対し、トランプ支持者の47％が視聴した。トランプ大統領を支持する有権者と不支持を示す有権者は、それぞれ47％と50％でほぼ同じ割合で視聴した。
+ワールドカップの民主党と共和党の4ポイント差は、有権者の好きなスポーツを巡る党派間の溝よりも小さかった。共和党は民主党よりもサッカーを選択する可能性が13ポイント高かったが、サッカー全般とバスケットボールでは民主党が7ポイント有利だった。
+好きなスポーツとしてサッカーを挙げた有権者はわずか8％だったが、17％がワールドカップを「たくさん」見ていると答え、さらに32％が「ある程度」見ていると答えた。
+パブリック・オピニオン・ストラテジーズのパートナー、ミカ・ロバーツ氏は、この大会を「民主党と共和党の意見が一致する」場だと述べた。
+調査ではワールドカップの視聴率について尋ね、回答者に好きなスポーツを特定するよう求めた。この結果は、トランプ大統領に続いて米国文化の多くに組み込まれてきた党派的な仕分けがこの大会でほぼ回避されたことを示唆している。
+トランプ氏は大統領に復帰して以来、ワールドカップを監督するホワイトハウスの特別委員会の議長を務めている。 FIFAのジャンニ・インファンティーノ会長も何度も同席しており、FIFAはトランプタワーに事務所を開設した。トランプ大統領はジョン・F・ケネディ記念舞台芸術センターで行われたワールドカップの抽選会に出席したが、裁判所の判決を受けて同センターに追加されたトランプ氏の名前は最近削除するよう求められた。
+トランプ大統領の年次財務情報開示によれば、インファンティーノ氏はまた、昨年のクラブワールドカップ決勝戦のチケット10枚（1万5000ドル相当）をトランプ大統領に贈ったという。トランプ氏はトロフィーの授与に協力しており、日曜、ニュージャージー州のメットライフ・スタジアムで行われるワールドカップ決勝戦で再びトロフィー授与を行う予定だ。
+FIFAはその後、欧州議員からの厳しい監視と、FIFAの政治的中立規定に違反したとしてインファンティーノ氏を告発する倫理告訴を受けて、トランプ氏に初の平和賞を授与した。
+トランプ大統領の関与は式典以外にも広がった。
+アメリカ代表ストライカーのフォラリン・バログンがレッドカードを受け、自動的に1試合の出場停止処分を受けたことを受け、トランプ大統領はインファンティーノに電話をかけて内容を見直すよう求めた。 FIFAは執行猶予処分を科し、バログンが次のベルギー戦に出場することを許可した。
+アメリカはベルギーに1-4で敗れ敗退した。欧州サッカー統括団体のＵＥＦＡは、ＦＩＦＡの逆転行為を「前例のない、理解不能で不当なもの」と批判した。 FIFAは、規律委員会は組織の規則に基づいて行動したと述べた。
+それでも、この論争は視聴率を低下させることはなかった。全米調査によると、MAGA共和党員の半数が視聴したが、非MAGA共和党員では46％だった。
+この大会の国際的なアピールは、トランプ大統領の「アメリカ第一主義」連合にも深く浸透した。視聴者のうち、88％が米国が関与しない試合を観戦したと答え、その内訳は全共和党員の82％、MAGA共和党員の86％だった。
+より深刻な溝は経済面と教育面であった。収入10万ドル以上の有権者の59％が視聴したのに対し、収入3万ドル未満の有権者の31％が視聴した。視聴率は大学院学位を持つ有権者では65％に達したが、高校教育以下の有権者では40％に低下した。こうした格差は、数百万人の視聴者がワールドカップの試合を視聴した有料テレビへのアクセスを反映している可能性がある。
+CNBC全米経済調査は、ハート・リサーチ・アソシエイツとパブリック・オピニオン・ストラテジーズによって7月8日から7月12日まで実施された。全国の登録有権者1,000人を対象に調査したもので、誤差の範囲はプラスマイナス3.1パーセントポイントとなっている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
+    publishedAt: "2026-07-18T12:00:02+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "korean-beauty-products-are-becoming-main-ff313ede",
+    title: "Korean beauty products are becoming mainstream in the U.S. Why there may be even more growth ahead",
+    titleJa: "韓国の美容製品が米国で主流になりつつある理由 さらなる成長が期待できる理由",
+    summaryJa: "オリーブ ヤングが 5 月下旬に米国初の店舗をオープンしたとき、買い物客はすでにキャンプをしており、行列は複数のブロックにまたがっていました。カリフォルニア州パサデナにある韓国の大手美容品小売業者の新店舗は、オープン週末に6,000人の客が来店し、現在は1日平均1,600人以上の来店客がいると同社は発表した。その後、カリフォルニア州センチュリーシティに別の店舗をオープンし、米国内でさらに店舗をオープンする予定だと述べた。",
+    bodyOriginal: `When Olive Young opened its first U.S. outpost in late May, shoppers were already camping out, and the line spanned multiple blocks.
+On opening weekend, the leading South Korean beauty retailer's new store in Pasadena, California, had 6,000 customers move through its doors, and it currently sees an average of more than 1,600 visitors per day, the company said. It has since opened another location, in Century City, California, and said it plans to open more stores in the U.S.
+That popularity is a microcosm of a bigger trend playing out in the U.S.: Consumers can't get enough of beauty products from a country thousands of miles away — positioning some companies to get ahead.
+"The U.S. is not only the world's largest beauty market, but also one of the most influential in shaping global beauty trends, content, and consumer behavior," Olive Young global communications lead Rena Kim said. "It was a natural and strategic next step in our global expansion."
+Glowing up
+Consumption of Korean cosmetics, otherwise referred to as K-beauty, has been on the rise in the U.S. for years, with the "first wave" taking place in the 2010s and continuing into the Covid-19 pandemic.
+"People were home. They had time to kind of learn about a 10-step skin care routine. They learned about what specific ingredients did, how to layer products together," said Anna Mayo, a NielsenIQ beauty thought leader. "We saw the rise of this 'glass skin' look, and this real emphasis on healthy and glowing skin that looks great every day versus the need to kind of cover it up with cosmetics."
+"Consumers have already been primed in this skin care-first philosophy that they're kind of living in," she added.
+Now, the "second wave" has taken hold, Mayo said, as K-beauty brands successfully take advantage of this appetite among U.S. consumers for skin care. According to NielsenIQ, U.S. K-beauty sales reached $2.8 billion in early 2026, representing a roughly 48% increase from a year ago. That's faster than the nearly 45% growth rate seen in the prior-year period — an unusual acceleration, Mayo said.
+K-beauty is also penetrating more U.S. households, climbing to 28.7% over the latest yearly period — a sign that it's becoming stickier in the country.
+Morgan Stanley analyst Simeon Gutman said he expects K-beauty's growth trajectory to continue. In a note dated March 11, the analyst forecast that K-beauty sales in the U.S. can reach approximately $4 billion in 2026, citing "the rising popularity of K-culture and U.S. consumer demand for functional skincare products" as catalysts.
+Gutman later confirmed to CNBC that those views are current.
+Even if those projections don't come to fruition, K-beauty popularity will have a lasting impact on the U.S. consumer. Cassandra Bankson, a medical aesthetician and skin care educator, believes such popularity has paved the way for cosmetics products from other countries to follow suit, even in the U.S., so long as information and trade channels are open.
+"I think it's coming, and I think people don't see it coming," Bankson said, adding that she thinks products from China and Japan will be next, then from Vietnam, Singapore and Thailand.
+"The U.S. now has these underground groups in a lot of the beauty groups that I'm in, saying, 'You guys, look at what I got from Judydoll,' or 'I just went to China, I just went to Vietnam, look at this Thai sunscreen that I got that we can't get anywhere else,'" she said. "I think that there's a lot more room for that."
+The American mall has started to be reshaped as a result. At Westfield Garden State Plaza in New Jersey, the lineup of Asian retailers has expanded over the past 12 months, seeing new additions such as Sukoshi — a top destination for K-beauty as well as Japanese beauty, or J-beauty, and Asian lifestyle products.
+"Consumer discovery has fundamentally changed," said Kate Sabbag, vice president of leasing at Westfield Garden State Plaza. "People aren't just finding brands in malls anymore — they're discovering them on TikTok, Instagram and through international travel. And once they connect with a brand, they want to experience it in real life. We're seeing that play out across our portfolio."
+Who could benefit?
+While a huge chunk of K-beauty sales comes from platforms such as TikTok Shop and Amazon, according to NielsenIQ data, there's room for retail to take up more market share.
+"There is a huge opportunity to kind of move this segment offline and into stores and reach people that way," NielsenIQ's Mayo said in an interview.
+Earlier this year, Sephora partnered with Olive Young to bring K-beauty products to Sephora customers in stores as well as online, and Morgan Stanley's Gutman said Ulta Beauty is also set up to benefit from rising K-beauty popularity in the U.S.
+In its latest earnings report, Ulta CFO Christopher DelOrefice said "the skincare and wellness category delivered low-single-digit comp growth this quarter," with prestige skin care, including Korean brand Medicube, continuing to "perform well." He said K-beauty brand Peach & Lily was among those driving "healthy guest engagement," while mass skin care's "solid" growth in the period was supported by the in-store expansion of Anua.
+"I would expect them to continue to lean into this trend within the market," said Anna Glaessgen, a research analyst at B. Riley Securities focusing on consumer products. "Clearly with the really successful launch of the Olive Young store, there's a ton of demand for K-beauty, and they need to be there where the consumer is."
+Ulta did not respond to CNBC's request for comment. The company's Q2 figures could give investors more clarity on this. The report is scheduled to be released Aug. 5.
+However, Glaessgen highlighted that K-beauty's popularity poses a risk: Overall average selling price in the category could be affected given that K-beauty typically carries a lower price point than prestige skin care.
+"If people who normally would have been a prestige skin care shopper spending $30 to $60 on something are now spending in the teens to in the 20s, obviously that carries downward pressure to the average spend in the category," she said.
+She sees that risk coming more from the younger generations who are just now entering prestige skin care. "If they are finding efficacy in a $20 or $30 product, it might be more difficult to get them to trade up to something running in the hundreds," the analyst said.
+Other retailers such as Target, Costco and Walmart further increasing their K-beauty market penetration could also be a way to help attract a broader audience to the category.
+Target has already made significant strides in that area. The retailer quadrupled its K-beauty items in the spring, offering more than 150 new products and more than 10 new brands across skin care, makeup and hair care, a spokesperson told CNBC. The company plans to introduce more products.
+"Beauty is an incredibly important and deeply personal category for our guests, and our team is always looking to flex our merchandising authority by bringing them the brands and trends they want most," Amanda Nusz, senior vice president of merchandising, essentials and beauty at Target, told CNBC. "K-beauty is a great example."
+Raymond James analyst Olivia Tong underscored that products from brands such as The Ordinary, which is based in Canada and owned by Estee Lauder, have incorporated ingredients that have become popularized by those in the K-beauty space, such as centella asiatica.
+"It's a very different way of looking at the category — more about maintenance, very ingredient heavy, and there's obviously a certain speed to market that they're bringing too," she said to CNBC. "We don't think this is just a trend per se. We think that this is a bit of a shift in the market."`,
+    bodyJa: `オリーブ ヤングが 5 月下旬に米国初の店舗をオープンしたとき、買い物客はすでにキャンプをしており、行列は複数のブロックにまたがっていました。
+カリフォルニア州パサデナにある韓国の大手美容品小売業者の新店舗は、オープン週末に6,000人の客が来店し、現在は1日平均1,600人以上の来店客がいると同社は発表した。その後、カリフォルニア州センチュリーシティに別の店舗をオープンし、米国内でさらに店舗をオープンする予定だと述べた。
+その人気は、米国で起こっているより大きなトレンドの縮図です。消費者は何千マイルも離れた国からの美容製品を十分に手に入れることができず、一部の企業が先を行く立場にあります。
+「米国は世界最大の美容市場であるだけでなく、世界の美容トレンド、コンテンツ、消費者行動の形成に最も影響力のある国の一つでもある」とオリーブ・ヤングのグローバルコミュニケーション責任者レナ・キム氏は述べた。 「これは当社の世界展開における自然かつ戦略的な次のステップでした。」
+光る
+Kビューティーとも呼ばれる韓国化粧品の消費は米国で長年増加しており、2010年代に「第1波」が発生し、新型コロナウイルス感染症のパンデミックまで続いた。
+「人々は家にいました。10 ステップのスキンケア ルーチンについて学ぶ時間がありました。特定の成分が何をするのか、製品を重ね合わせる方法などを学びました」と NielsenIQ の美容思想リーダー、アンナ メイヨ氏は述べました。 「私たちはこの『ガラスの肌』のような外観の隆盛を目の当たりにし、化粧品で隠す必要性ではなく、毎日美しく見える健康的で輝く肌を重視するようになりました。」
+「消費者はすでに、このスキンケア第一の哲学に慣れ親しんでおり、その中に生きているようなものです」と彼女は付け加えた。
+現在、「第2の波」が定着しており、Kビューティーブランドが米国消費者のスキンケアに対する欲求をうまく利用しているとメイヨー氏は述べた。 NielsenIQ によると、米国の K-ビューティーの売上高は 2026 年初めに 28 億ドルに達し、前年比約 48% 増加しました。これは前年同期の45％近い成長率よりも速い、異例の加速だとメイヨー氏は述べた。
+また、K ビューティーは米国のより多くの世帯に浸透しており、最近の年間では 28.7% に上昇しています。これは、この国での K ビューティーの浸透度がさらに高まっていることを示しています。
+モルガン・スタンレーのアナリスト、シメオン・ガットマン氏は、Kビューティーの成長軌道は今後も続くと予想していると述べた。同アナリストは3月11日付のメモで、「Kカルチャーの人気の高まりと機能性スキンケア製品に対する米国の消費者の需要」を触媒として挙げ、米国でのKビューティーの売上高は2026年に約40億ドルに達する可能性があると予想した。
+ガットマン氏は後にCNBCに対し、それらの見解が現在のものであることを認めた。
+たとえその予測が現実にならなかったとしても、Kビューティーの人気は米国の消費者に永続的な影響を与えるだろう。メディカルエステティシャンでありスキンケア教育者でもあるカサンドラ・バンクソン氏は、このような人気により、情報と貿易ルートが開かれている限り、米国であっても他国の化粧品が追随する道が開かれたと考えている。
+バンクソン氏は「私はそれが来ていると思うが、人々はそれが来るとは思っていないと思う」と述べ、次は中国と日本からの製品、その次はベトナム、シンガポール、タイからの製品になるだろうと付け加えた。
+「米国には今、私が所属している美容グループの多くに地下グループがいて、『皆さん、私がジュディドールから得たものを見てください』とか、『私は中国に行ったばかり、ベトナムに行ったばかりです、他では手に入らないこのタイの日焼け止めを見てください』と言うのです」と彼女は語った。 「その余地はもっとあると思います。」
+その結果、アメリカのショッピングモールは再構築され始めました。ニュージャージー州のウェストフィールド ガーデン ステート プラザでは、過去 12 か月間でアジアの小売業者のラインナップが拡大し、K ビューティーだけでなく日本のビューティー、または J ビューティーやアジアのライフスタイル製品のトップ目的地である Sukoshi などの新たな店舗も加わりました。
+「消費者の発見は根本的に変わった」とウェストフィールド・ガーデン・ステート・プラザのリース担当副社長、ケイト・サブバッグ氏は語る。 「人々はもはやショッピングモールでブランドを見つけるだけではなく、TikTok、Instagram、海外旅行を通じてブランドを見つけています。そして、一度ブランドと結びつくと、彼らはそれを実生活で体験したいと考えます。それが私たちのポートフォリオ全体に波及しているのを私たちは目にしています。」
+誰が利益を得られるでしょうか？
+NielsenIQ データによると、K ビューティーの売上の大部分は TikTok Shop や Amazon などのプラットフォームによるものですが、小売業がより多くの市場シェアを占める余地があります。
+NielsenIQのメイヨ氏はインタビューで、「このセグメントをオフラインや店舗に移動させ、その方法で人々にリーチする大きなチャンスがある」と語った。
+今年初め、セフォラはオリーブ・ヤングと提携して、店舗やオンラインでセフォラの顧客にKビューティー製品を提供しており、モルガン・スタンレーのガットマン氏は、ウルタ・ビューティーも米国でのKビューティー人気の高まりから恩恵を受ける準備ができていると述べた。
+UltaのCFOクリストファー・デルオレフィス氏は最新の決算報告で、「スキンケアとウェルネス部門は今四半期、一桁台前半の利益成長を達成した」とし、韓国ブランドのメディキューブを含む高級スキンケアが引き続き「好調」だったと述べた。同氏は、Kビューティーブランドのピーチ＆リリーは「健全なゲストエンゲージメント」を推進している企業の1つである一方、この時期のマススキンケアの「堅実な」成長はアヌアの店内拡大に支えられたと述べた。
+B・ライリー・セキュリティーズの消費者向け製品を専門とする調査アナリスト、アンナ・グラスゲン氏は、「市場では引き続きこの傾向に傾くと予想される」と述べた。 「オリーブ ヤング ストアの立ち上げが大成功を収めたことで、K ビューティーに対する需要が非常に高まっていることは明らかであり、消費者がいる場所に彼らが存在する必要があるのです。」
+アルタはCNBCのコメント要請に応じなかった。同社の第2四半期の数字は、投資家にこの点をさらに明確にする可能性がある。この報告書は8月5日に発表される予定だ。
+しかし、Glaessgen 氏は、K ビューティーの人気にはリスクがあると強調しました。K ビューティーは通常、高級スキンケアよりも低価格帯であることを考えると、このカテゴリー全体の平均販売価格が影響を受ける可能性があります。
+「通常なら何かに30～60ドルを費やす高級スキンケアの買い物客だった人々が、今は10代～20代で支出しているとすれば、明らかにそのカテゴリーの平均支出額に下方圧力がかかっている」と彼女は言う。
+彼女は、そのリスクは、高級スキンケアを始めたばかりの若い世代からより多く来ると見ています。同アナリストは、「20ドルや30ドルの製品に有効性が見出された場合、数百ドルの製品に買い替えてもらうのはより難しいかもしれない」と述べた。
+ターゲット、コストコ、ウォルマートなどの他の小売業者が、K-ビューティー市場への浸透をさらに高めることも、このカテゴリーに幅広い視聴者を引き付けるのに役立つ可能性があります。
+Target はすでにその分野で大きな進歩を遂げています。同社の広報担当者がCNBCに語ったところによると、同社は春にKビューティーアイテムを4倍に増やし、スキンケア、メイクアップ、ヘアケアにわたる150以上の新製品と10以上の新ブランドを提供した。同社はさらに多くの製品を導入する予定だ。
+ターゲットのマーチャンダイジング、必需品、美容担当上級副社長のアマンダ・ヌシュ氏はCNBCに対し、「美容はゲストにとって非常に重要で非常に個人的なカテゴリーであり、私たちのチームはゲストが最も望むブランドやトレンドを提供することで、マーチャンダイジングの権限を柔軟に活用できるよう常に努めている」と語った。 「K-beautyが良い例です。」
+レイモンド・ジェームスのアナリスト、オリビア・トン氏は、カナダに本拠を置きエスティ・ローダー傘下のジ・オーディナリーなどのブランドの製品には、ツボクサなどのKビューティー分野で人気のある成分が組み込まれていると強調した。
+「このカテゴリーに対する見方は全く異なるものです。メンテナンスがより重要で、原材料が非常に多く、市場投入までのスピードも明らかに一定です」と彼女はCNBCに語った。 「私たちは、これが単なるトレンドだとは考えていません。これは市場におけるちょっとした変化だと考えています。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/18/korean-beauty-products-are-becoming-mainstream-in-the-us.html",
+    publishedAt: "2026-07-18T11:45:35+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "warshgpt-how-wall-street-is-adapting-to-0b97aaa6",
+    title: "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+    titleJa: "「WarshGPT」: ウォール街はFRBのコミュニケーション新時代にどのように適応しているか",
+    summaryJa: "F/m Investments のワシントン D.C. オフィスは、連邦準備制度理事会本部から車ですぐの距離にあります。しかし、中央銀行の新しいリーダーシップの下で、最高経営責任者（CEO）のアレクサンダー・モリス氏は、距離感がはるかに大きいことに気づいた。FRBのケビン・ウォーシュ議長は5月の就任以来、中央銀行の将来を見据えたコミュニケーションの総点検に着手した。この動きはモリス氏のような市場参加者にとって警鐘を鳴らした。彼らの投資理論の一部はFRBが金利をどうするか予測することに依存しているからだ。",
+    bodyOriginal: `F/m Investments' Washington, D.C., office is just a short drive from the Federal Reserve's headquarters. But under the central bank's new leadership, CEO Alexander Morris has found the distance feeling far greater.
+Fed Chairman Kevin Warsh embarked on an overhaul of the central bank's forward-looking communication since taking the post in May. That move sounded the alarm for market participants like Morris, whose investing theses rely in part on predicting what the Fed will do with interest rates.
+"We've made a pretty good business out of decoding Fedspeak," said Morris, referring to the jargon-heavy communication preferred by central bank leaders. "And he just said he was going to go quiet on us."
+This week, Morris' firm, which manages exchange-traded funds tied to inflation and U.S. Treasurys, released "WarshGPT." It's an artificial intelligence-powered tool that parses nearly 1,800 documents and transcripts from Warsh, with the goal of helping users understand how he may analyze issues related to the economy or monetary policy.
+F/m Investments is one of many financial institutions readying for an era with less public forecasting from Warsh's Fed. In some cases, they're turning to AI models to gain an edge in investing.
+"Whether the Fed is providing a lot of information or a little information, investors have to understand what the Fed is likely to do in the future," said Gary Richardson, a former historian at the central bank who's now a University of California, Irvine, economics professor. "With limited information, people are going to try to do anything they can to figure out what the Fed is thinking."
+Greetings and briefcase sizes
+Investors and Fed watchers have wondered if former Chairman Alan Greenspan's communication style can serve as a baseline for what to expect under Warsh.
+In that era, Richardson said people joked that Greenspan simply saying "good evening" could cause a market decline. Financial media tracked a so-called briefcase indicator, which operated on the theory that Greenspan carrying a bulkier bag meant he accumulated evidence for why borrowing costs should be altered.
+Already, Warsh has made expectations clear for a shift in how the Fed publicizes information. One of his task forces aimed at reshaping the Fed's operations is focused on how the central bank communicates.
+June's Federal Reserve meeting statement — the first such release under Warsh — contained around 130 words, down from figures above 300 words seen in prior publications, a CNBC analysis found. Warsh, who acknowledged the statement was "shorter" and "simpler," said it purposefully excluded forward guidance.
+In his first post-decision press conference as chairman, Warsh allocated 5% of sentences to policy-relevant topics, according to UBS. That number came in at 27% for an average meeting under predecessor Jerome Powell, the bank said.
+'One word can move dollars'
+F/m Investments' WarshGPT chatbot cost less than $1,000 to build with Anthropic's Claude model, despite the name being a riff on rival OpenAI's ChatGPT. It took roughly two weeks to create from inception to release, a timeframe that included pre-rollout testing by a group that included Fed alumni and newsletter writers.
+In addition to Warsh's communications, the product also taps into economic and political history to ensure its responses have context. But F/m set limits to what WarshGPT can do: The bot doesn't talk as Warsh and will not offer offer forward statements or forecasts.
+F/m isn't the only large firm reconsidering its strategies and tools for understanding a Warsh-led central bank.
+UBS runs an interactive dashboard for clients to track the Fed's policy tone. It allows users to have an unbiased assessment of Warsh's commentary during meetings, according to Elena Amoruso, a strategist at the Swiss bank.
+Following Warsh's debut policy meeting as chief last month, Amoruso told clients that Warsh's policy-relevant comments were "overwhelmingly hawkish." The central bank leader's stance was driven by his views on the labor market and growth, she said, in addition to the state of inflation.
+"Arguably, this is the most high-value data set … in terms of how much one word can move dollars," Amoruso told CNBC.
+At JPMorgan Asset Management, chief global strategist David Kelly has some backup plans if the Fed stops putting out key releases. If the central bank does away with the "dot plot," for instance, Kelly said his team will more closely mull over speeches by members of the Federal Open Market Committee — the group tasked with setting interest rates — to get a sense of how they would next vote.
+To be sure, Kelly said major changes to Fed communication would likely take several months to announce and implement. He said the final decisions may not be as drastic as some expect.
+"Just like the Federal Reserve says it can be patient in adjusting interest rates to the economy, we can be patient in adjusting our resources," Kelly said.
+'Less clarity'
+Still, investors anticipate having less forward guidance from the Fed could result in bigger market swings after policy decisions or members' public appearances. Some traders see a chance to rake in larger returns in this environment.
+"If there's less communication about the reaction function, I actually think that's a negative for the economy," said Steve Friedman, a New York Fed alum who's now senior macroeconomist at MacKay Shields. However, "less clarity about what the Fed may do can actually be a source of alpha for investors if you have a robust framework for thinking about the economy and monetary policy."
+If Warsh dials back public speaking engagements, Friedman said he would more closely monitor speeches from Fed Governor Christopher Waller. Friedman described Waller as a "bellwether" for the broader committee.
+Waller said this week that the Fed shouldn't be focused on "fighting the last war" with inflation, but that interest rate hikes could still be on the table.
+Retail traders may need to further diversify their portfolios to account for added policy uncertainty under Warsh, according to UC-Irvine's Richardson. Investment firms looking to get ahead, meanwhile, will be spending big to hire Fed alumni who can help make predictions in a lower-transparency environment, Richardson said.
+There are already differing expectations forming for how the Fed will proceed with policy in the coming months.
+Fed funds futures traders are pricing in an almost 59% likelihood that the central bank increases interest rates in September, according to CME's FedWatch tool. On the other hand, Kalshi traders think it's most likely that the Fed will keep rates unchanged at that meeting.
+"For ordinary investors, it's already really hard for them to figure out what's going on," Richardson said. "It's going to become much harder."`,
+    bodyJa: `F/m Investments のワシントン D.C. オフィスは、連邦準備制度理事会本部から車ですぐの距離にあります。しかし、中央銀行の新しいリーダーシップの下で、最高経営責任者（CEO）のアレクサンダー・モリス氏は、距離感がはるかに大きいことに気づいた。
+FRBのケビン・ウォーシュ議長は5月の就任以来、中央銀行の将来を見据えたコミュニケーションの総点検に着手した。この動きはモリス氏のような市場参加者にとって警鐘を鳴らした。彼らの投資理論の一部はFRBが金利をどうするか予測することに依存しているからだ。
+モリス氏は、中央銀行指導者が好む専門用語の多いコミュニケーションについて言及し、「フェドスピークを解読することで、かなり良いビジネスができた」と語った。 「そして彼は、私たちに対して黙るつもりだと言いました。」
+インフレと米国債に関連する上場投資信託（ETF）を運用するモリスの会社は今週、「WarshGPT」を発表した。これは人工知能を活用したツールで、ウォーシュ氏の約 1,800 件の文書とトランスクリプトを解析し、ウォーシュ氏が経済や金融政策に関連する問題をどのように分析するかをユーザーが理解できるようにすることを目的としています。
+F/m Investmentsは、ウォーシュFRBからの予測があまり公表されない時代に備えている多くの金融機関のうちの1つである。場合によっては、投資で優位性を得るために AI モデルに目を向けています。
+元中央銀行の歴史学者で、現在はカリフォルニア大学アーバイン校の経済学教授ゲイリー・リチャードソン氏は、「FRBが多くの情報を提供しているか、少ない情報を提供しているかにかかわらず、投資家はFRBが将来何をする可能性が高いかを理解する必要がある」と述べた。 「限られた情報の中で、人々はFRBが何を考えているのかを理解するためにあらゆる手段を講じようとするだろう。」
+ご挨拶とブリーフケースのサイズ
+投資家やFRBウォッチャーは、アラン・グリーンスパン前議長のコミュニケーションスタイルが、ウォーシュ政権下で何が期待されるかのベースラインとして機能するのではないかと疑問を抱いている。
+リチャードソン氏によると、当時、人々はグリーンスパン氏が「こんばんは」と言うだけで市場の下落を引き起こす可能性があると冗談を言ったという。金融メディアはいわゆるブリーフケース指標を追跡したが、これはグリーンスパン氏がよりかさばるバッグを運んでいるということは、借入コストを変更する必要がある理由の証拠を蓄積していることを意味するという理論に基づいていた。
+ウォーシュ氏はすでに、FRBの情報公開方法の変化への期待を明らかにしている。 FRBの運営再構築を目指す同氏のタスクフォースの1つは、中央銀行のコミュニケーション方法に焦点を当てている。
+CNBCの分析によると、6月の連邦準備制度理事会声明（ウォーシュ政権下での初の発表）には約130ワードが含まれており、以前の出版物に見られた300ワードを超える数字から減少した。ウォーシュ氏は、声明が「短く」「シンプル」だったと認め、フォワードガイダンスを意図的に除外したと述べた。
+UBSによると、ウォーシュ氏は議長としての決定後の最初の記者会見で、文章の5％を政策関連の話題に割り当てた。同銀行によると、この数字は前任のジェローム・パウエル氏の下での平均的な会合では２７％だったという。
+「一言でお金が動く」
+F/m Investments の WarshGPT チャットボットは、名前がライバル OpenAI の ChatGPT をもじったものであるにもかかわらず、Anthropic の Claude モデルを使用して構築するのにかかるコストは 1,000 ドル未満でした。構想からリリースまでの作成にはおよそ 2 週間かかり、その期間には FRB の卒業生やニュースレターの執筆者を含むグループによる事前テストも含まれていました。
+ウォーシュのコミュニケーションに加えて、この製品は経済的および政治的歴史も活用して、その応答に文脈があることを保証します。しかし、F/M は、WarshGPT ができることに制限を設けています。ボットは Warsh として会話せず、オファーの先渡しステートメントや予測を提供しません。
+ウォーシュ主導の中央銀行を理解するための戦略とツールを再検討している大企業はF/Mだけではない。
+UBSは、顧客がFRBの政策方針を追跡するための対話型ダッシュボードを運営している。スイス銀行のストラテジスト、エレナ・アモルソ氏によると、これによりユーザーは会議中にウォーシュ氏の解説を公平に評価できるようになるという。
+ウォーシュ氏が先月首席としてデビューした政策会議後、アモルソ氏は顧客に対し、ウォーシュ氏の政策関連の発言は「圧倒的にタカ派的」だと語った。同氏は、中銀総裁のスタンスはインフレ状況に加え、労働市場と成長に関する同氏の見解によって決定されたと述べた。
+アモルソ氏はCNBCに対し、「おそらく、これは、1つの単語がどれだけドルを動かすことができるかという点で、最も価値の高いデータセットだ」と語った。
+JPモルガン・アセット・マネジメントのチーフ・グローバル・ストラテジスト、デービッド・ケリー氏は、FRBが主要リリースの発表を停止した場合のバックアップ計画をいくつか用意している。例えばケリー氏は、中央銀行が「ドットプロット」を廃止した場合、チームは連邦公開市場委員会（金利設定を担当する団体）のメンバーの演説をより綿密に検討し、次回の投票方法を把握すると述べた。
+確かにケリー氏は、FRBのコミュニケーションに対する大きな変更は発表から実施までに数カ月かかる可能性が高いと述べた。同氏は、最終決定は一部の人が期待するほど抜本的なものではない可能性があると述べた。
+ケリー氏は「連邦準備理事会が経済に合わせて金利を調整するのに忍耐強くなれると言っているのと同じように、我々も資源を調整するのに忍耐強くなれる」と語った。
+「鮮明度が低下する」
+それでも投資家は、FRBからのフォワードガイダンスが減少すると、政策決定やメンバーの公の場への出席後に市場の変動が大きくなる可能性があると予想している。一部のトレーダーは、この環境でより大きな利益を得るチャンスがあると考えています。
+ニューヨーク連銀の卒業生で現在マッケイ・シールズのシニア・マクロエコノミストを務めるスティーブ・フリードマン氏は、「反応関数についてのコミュニケーションが減れば、それは経済にとってマイナスになると実際に思う」と語った。しかし、「経済と金融政策について考えるための強固な枠組みがあれば、FRBが何をするかについて不明確であっても、実際には投資家にとってアルファの源泉となり得る。」
+フリードマン氏は、ウォーシュ氏が公の場での講演活動を縮小する場合、クリストファー・ウォーラーFRB理事の講演をより注意深く監視すると述べた。フリードマン氏はウォーラー氏を広範な委員会の「先導者」と表現した。
+ウォーラー総裁は今週、FRBはインフレとの「最終戦争との戦い」に集中すべきではないとしながらも、利上げが依然として検討の対象となる可能性があると述べた。
+カリフォルニア大学アーバイン校のリチャードソン氏によると、ウォーシュ政権下で政策の不確実性が増すことに対処するため、個人トレーダーはポートフォリオをさらに多様化する必要があるかもしれないという。一方、成功を目指す投資会社は、透明性の低い環境での予測に貢献できるFRB卒業生の雇用に多額の費用を投じるだろうとリチャードソン氏は述べた。
+FRBが今後数カ月間に政策をどのように進めるかについては、すでにさまざまな予想が形成されている。
+ＣＭＥのフェドウォッチツールによると、フェデラルファンド先物トレーダーらは中銀が９月に利上げする可能性をほぼ５９％織り込んでいる。一方、カルシのトレーダーらは、FRBが今回の会合で金利を据え置く可能性が最も高いと考えている。
+「一般の投資家にとって、何が起こっているのかを理解するのはすでに非常に困難だ」とリチャードソン氏は語った。 「それはもっと難しくなるだろう。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+    publishedAt: "2026-07-18T11:31:03+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "how-are-prediction-markets-taxed-the-irs-b1af1b5c",
+    title: "How are prediction markets taxed? The IRS hasn’t provided guidance yet",
+    titleJa: "予測市場にはどのように課税されますか? IRSはまだガイダンスを提供していない",
+    summaryJa: "予測市場の人気が高まるにつれ、トレーダーは重要な問題に直面しています。それは、内国歳入庁が賞金の課税方法について詳細を明らかにしていないということです。今年も半分以上終わったが、IRSは予測市場の勝敗に対する連邦税の扱いに関するガイダンスをまだ共有していない。",
+    bodyOriginal: `As prediction markets grow in popularity, traders are facing a key question: The Internal Revenue Service hasn't shared any details on how their winnings are to be taxed.
+The year is more than halfway over, but the IRS has yet to share any guidance on the federal tax treatment for prediction market winnings and losses.
+"I think it's extremely confusing for the users of prediction markets because they're getting a lot of [conflicting] guidance," said Ryan Schutz, a former IRS special agent and founder of First There Tax.
+Winnings from prediction markets could fit into several categories, tax experts said: gambling income, capital gains or treatment under a Section 1256 contract.
+President Donald Trump's "One Big Beautiful Bill Act" has a provision that applies a 90% cap on gambling loss deductions. Previously, if someone won $100 and lost $100, they wouldn't pay any taxes. Under the new framework, however, a taxpayer would only be able to deduct $90 and still wind up with $10 of taxable winnings.
+"Sports gambling is actually in very bad tax treatment right now," said Nathan Goldman, a professor of accounting at North Carolina State University.
+Under capital gains treatment, taxpayers who have losses that exceed gains can use up to $3,000 in realized losses to offset ordinary income.
+Finally, futures contracts can be deemed Section 1256 contracts. In this case, 60% of the capital gain is taxed at the lower long-term rate, while 40% is subject to the higher short-term rate. Long-term capital gains are taxed at either 0%, 15% or 20%, while short-term gains are taxed as ordinary income, which can have a rate as high as 37%. That 60/40 split is consistent regardless of how long an asset was held.
+Those guidelines are much more attractive to taxpayers than those categorizing their income as gambling.
+"For the vast majority of people, the 1256 treatment or capital gain treatment would result in the least amount of tax," said Schutz.
+Unique event contracts may face different treatment
+In May, prediction market platform Kalshi introduced perpetual futures, or "perps," which have no expiration dates. Because perps do not follow the same structure as a traditional event contract, Schutz said different guidelines may apply.
+"I could definitely see an argument of someone saying that event contracts could have a different categorization than perpetuals," he said. "When I first found out about the perpetuals, they felt more like a real financial contract because they don't have a specific end date and that kind of tracks with the mechanics of 1256."
+Without guidance from the IRS, tax experts say it’s tricky to determine the tax treatment that may apply to prediction market contracts, such as which team will win the World Cup final on Sunday.
+"Some contracts may look more like sports wagering, while others may resemble financial or economic forecasting," said George Salis, chief economist and senior tax policy director at Vertex. "That range makes it harder to create one simple tax framework that applies cleanly across every type of contract."
+Event contracts related to sports continue to dominate on leading prediction market platforms and face high scrutiny from states and critics, who argue such contracts are identical to what sports betting sites offer.
+While both Kalshi and Polymarket declined to comment on what role prediction market platforms can play in ensuring their users have a better understanding of their tax obligations, both platforms do provide users with a Form 1099 to report activity. Taxpayers still need to report their earnings even if they don't receive a 1099.
+Neither the IRS or the Department of Treasury responded to CNBC's request for comment.
+States say it's gambling
+Prediction markets may generate tax revenue for states if its contracts would be considered gambling.
+"Treating [contracts] as gambling income is more beneficial to [states], because that's a revenue driver," Schutz said.
+After a 2018 Supreme Court decision, which gave states the power to regulate sports gambling, states like Oregon, New York and New Hampshire have implemented at least a 50% tax on online sports betting sites.
+The Commodity Futures Trading Commission asserts its jurisdiction over prediction markets, saying that the platforms' event contracts are structured as swaps.
+Unlike other states, North Carolina recognized prediction markets as operating under the CFTC. The state imposed a 6% tax on prediction market operators and a 23% tax on sports betting sites. That move helps North Carolina possibly avoid getting sued by prediction market platforms, said Goldman.
+"I think North Carolina is pretty much saying, 'Maybe if we go in with a lower number, we won't have as big of a fight in the courtroom over whether we're allowed to impose this,'" Goldman said.
+Jurisdiction battle
+Multiple states are involved in legal proceedings with prediction market platforms, arguing that they are running illegal sports betting operations. The CFTC has entered the fray, suing to defend what it claims is its exclusive jurisdiction over event contracts.
+Earlier this month, a New York federal judge rejected Kalshi's request to stop New York from implementing its state gambling laws on the platform's sports-related event contracts.
+The legal action has also made the tax picture complicated from a federal point of view.
+"If states come in and they start enacting their own laws, we have these converging laws all over the place and that makes what Washington ultimately does a lot more challenging," Goldman said.
+While there is no clear roadmap on how prediction markets are levied, tax experts told CNBC they are eager for clarity.
+"I would love to see IRS guidance. I think that would be the most definitive solution," Schutz said." I think the IRS might be hesitant to come out with guidance that conflicts with the CFTC position."
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `予測市場の人気が高まるにつれ、トレーダーは重要な問題に直面しています。それは、内国歳入庁が賞金の課税方法について詳細を明らかにしていないということです。
+今年も半分以上終わったが、IRSは予測市場の勝敗に対する連邦税の扱いに関するガイダンスをまだ共有していない。
+元国税局特別捜査官でファースト・ゼア・タックス創設者のライアン・シュッツ氏は、「予測市場のユーザーにとっては、（矛盾する）ガイダンスが数多く提供されているため、非常に混乱していると思う」と述べた。
+税務専門家らによると、予測市場からの賞金はギャンブル収入、キャピタルゲイン、または第1256条契約に基づく扱いなど、いくつかのカテゴリーに該当する可能性があるという。
+ドナルド・トランプ大統領の「One Big Beautiful Bill Act」には、ギャンブル損失控除に90％の上限を適用する条項がある。以前は、誰かが 100 ドル勝って 100 ドル負けた場合、税金は支払われませんでした。しかし、新しい枠組みの下では、納税者は90ドルしか控除できず、それでも最終的に課税対象となる賞金は10ドルになる。
+ノースカロライナ州立大学の会計学教授ネイサン・ゴールドマン氏は、「スポーツ賭博は現在、実際に非常に悪い税務処理を受けている」と述べた。
+キャピタルゲインの扱いにより、利益を超える損失を抱えた納税者は、最大3,000ドルの実現損失を経常利益と相殺することができます。
+最後に、先物契約は第 1256 条契約とみなすことができます。この場合、キャピタルゲインの 60% には低い長期税率が適用され、40% には高い短期税率が適用されます。長期キャピタルゲインには 0%、15%、または 20% のいずれかが課税されますが、短期利益には通常の所得として課税され、その税率は 37% に達する場合があります。この 60/40 の分割は、資産の保有期間に関係なく一貫しています。
+これらのガイドラインは、納税者にとって、収入をギャンブルとして分類するガイドラインよりもはるかに魅力的です。
+「大多数の人にとって、1256の扱いかキャピタルゲインの扱いが最も少ない税金となるだろう」とシュッツ氏は述べた。
+ユニークなイベント契約は異なる扱いを受ける可能性がある
+予測市場プラットフォームのカルシは5月、有効期限のない永久先物、つまり「パープ」を導入した。犯罪者は従来のイベント契約と同じ構造に従っていないため、異なるガイドラインが適用される可能性があるとシュッツ氏は述べた。
+「イベント契約は永久契約とは異なるカテゴリーに分類される可能性があるという誰かの議論が目に見えてわかりました」と彼は言う。 「永久契約について初めて知ったとき、具体的な終了日がなく、1256 年の仕組みを踏襲しているため、実際の金銭的な契約のように感じました。」
+IRSの指導がなければ、日曜のワールドカップ決勝でどのチームが勝つかなど、予測市場の契約に適用される可能性のある税務上の扱いを決定するのは難しいと税務専門家らは言う。
+バーテックスのチーフエコノミスト兼シニア税務政策ディレクターのジョージ・サリス氏は、「一部の契約はスポーツ賭博に似ているかもしれないが、他の契約は金融や経済予測に似ているかもしれない」と述べた。 「その範囲により、あらゆる種類の契約にきれいに適用される単一の単純な税の枠組みを作成することが困難になります。」
+スポーツに関連したイベント契約は引き続き主要な予想市場プラットフォームで優勢であり、そのような契約はスポーツ賭博サイトが提供するものと同一であると主張する州や評論家からの厳しい監視にさらされている。
+カルシとポリマーケットの両社は、ユーザーが納税義務をより深く理解できるようにする上で予測市場プラットフォームがどのような役割を果たすことができるかについてコメントを拒否したが、両プラットフォームはユーザーに活動を報告するためのフォーム1099を提供している。納税者は、1099 を受け取っていない場合でも、収入を報告する必要があります。
+IRSも財務省もCNBCのコメント要請に応じなかった。
+各州はギャンブルだと主張
+予測市場は、その契約がギャンブルとみなされる場合、州に税収をもたらす可能性がある。
+「（契約を）ギャンブル収入として扱うことは、（州）にとってより有益です。それが収入の原動力となるからです」とシュッツ氏は述べた。
+各州にスポーツ賭博を規制する権限を与えた2018年の最高裁判所の判決を受けて、オレゴン州、ニューヨーク州、ニューハンプシャー州などの州は、オンラインスポーツ賭博サイトに少なくとも50％の税金を導入した。
+商品先物取引委員会は、プラットフォームのイベント契約はスワップとして構成されているとして、予測市場に対する管轄権を主張している。
+他の州とは異なり、ノースカロライナ州は予測市場が CFTC の下で運営されていると認めた。同州は予想市場運営者に６％、スポーツ賭博サイトに２３％の税を課した。この動きにより、ノースカロライナ州は予測市場プラットフォームからの訴訟を回避できる可能性があるとゴールドマン氏は述べた。
+「ノースカロライナ州は、おそらく『もっと低い数字で臨めば、これを課すことが許されるかどうかを巡って法廷でこれほど大きな争いは起こらないだろう』と言っているのだと思う」とゴールドマン氏は語った。
+所轄の戦い
+複数の州が、違法なスポーツ賭博運営を行っているとして、予測市場プラットフォームを巡る訴訟に関与している。 CFTCはこの争いに加わり、イベント契約に関する独占的管轄権を主張するものを擁護するために訴訟を起こした。
+今月初め、ニューヨーク州の連邦判事は、同プラットフォームのスポーツ関連イベント契約にニューヨーク州が州賭博法を施行するのを阻止するというカルシ氏の要請を却下した。
+この訴訟により、連邦の観点からも税務の状況が複雑になった。
+「もし州が参入して独自の法律を制定し始めれば、あちこちでこのような法律が収束することになり、それが最終的にワシントンが行うことをより困難なものにする」とゴールドマン氏は語った。
+予測市場への課税方法について明確なロードマップはないが、税務専門家らはCNBCに対し、明確化を望んでいると語った。
+シュッツ氏は「IRSのガイダンスをぜひ見てみたい。それが最も決定的な解決策になると思う」とし、「IRSはCFTCの立場と相反するガイダンスを出すのをためらうのではないかと思う」と語った。
+開示: CNBC とカルシには、顧客の獲得と少数出資を含む商業関係があります。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/18/how-are-prediction-markets-taxed-the-irs-hasnt-provided-guidance-yet.html",
+    publishedAt: "2026-07-18T11:24:54+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
     id: "us-strikes-hit-iran-for-seventh-consecut-9fb48f59",
     title: "US strikes hit Iran for seventh consecutive night",
     titleJa: "米国による7夜連続のイラン空爆",
@@ -297,6 +663,84 @@ Katie Williams と Nardine Saad による追加レポートあり
     category: "テクノロジー",
     imageUrl: "https://images.mktw.net/im-71583098",
     readTime: 2,
+  },
+  {
+    id: "my-buyers-dropped-their-offer-by-15-000-a3cd1884",
+    title: "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+    titleJa: "「私の購入者は交換の前日にオファーを15,000ポンドで取り下げました」：ガズンダリングとそれを回避する方法",
+    summaryJa: "「私の購入者は交換の前日にオファーを15,000ポンドで取り下げました」：ガズンダリングとそれを回避する方法- 公開されました",
+    bodyOriginal: `'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it
+- Published
+Sarah was excitedly packing up to move out of the terraced house her family had outgrown to a four-bedroom home in the countryside.
+But the day before exchanging contracts the buyers of her house dropped their agreed offer by £15,000. "It was awful, your heart just drops to your stomach," says Sarah, not her real name.
+She had fallen victim to gazundering, a rare but growing problem in the property market in England and Wales, according to the Conveyancing Association, external.
+It is calling for government reforms aimed at tackling this and other house buying and selling issues to be brought in "without delay" instead of 2029 as planned.
+For Sarah, her husband and two children their move had all been going smoothly.
+They were selling the three-bedroom terrace they'd renovated and buying her parents' four-bedroom detached house in the countryside.
+But the day before contracts were exchanged Sarah received a phone call from her "befuddled" estate agent saying he had some bad news.
+Their buyers said they'd done some more research about the area and would now offer £15,000 less than the price they'd agreed.
+"I can't even begin to go through the financial consequences [if we lost the sale]," she says.
+If they accepted the lower offer they would be out of pocket but if they refused there would be costs too.
+"We had already paid one set of legal fees but would have had to pay again if we needed a new buyer. We'd also paid the removal fees already and would have to pay again if we cancelled the moving date," says Sarah.
+What is gazundering?
+Gazundering is when a buyer lowers their agreed offer just before contracts are exchanged.
+It puts a seller under pressure to accept the lower price or risk losing their sale and collapsing their property chain - potentially losing the house they want to buy.
+It is possible because in England, Wales and Northern Ireland an offer is not legally binding until parties exchange contracts. Once an offer is accepted it takes an average of 120 days to complete. One in three house sales fall through before exchange.
+This costs sellers £400m and the wider economy £1.5bn each year, according to the Ministry for Housing, Communities and Local Government.
+Planned government reforms would cut that time by four weeks and save the average first time buyer £650, it says.
+After speaking to her dad and husband Sarah decided to put her house back on the market that same day.
+The next day, her buyers "went running into the estate agent's office saying they were happy to proceed with the agreed sale price", she says.
+"Gazundering is actually awful. It's not just a business deal. It's my children's home and the fact that nothing's been done about it is ridiculous."
+Beth Rudolf from the Conveyancing Association says gazundering is a small but growing problem.
+"It's not actually that big, it doesn't happen very often [but] it's started increasing though because of the change in the property market that's made it a buyers' market."
+There are more houses on the market than people looking to buy, she explained, which means sellers face stiffer competition, forcing them to lower prices.
+The government has put plans in place to reform the house buying and selling market in England and Wales which would tackle issues like gazundering although at the moment the timetable for those reforms, external is by the end of the current parliament in 2029.
+The Ministry for Housing, Communities and Local Government told the BBC: "We're stopping gazundering by introducing legally binding agreements that prevent buyers from walking away at the last minute without a valid reason, with fines for those who do."
+How to avoid gazundering
+Be clear with your estate agent that your finances won't allow any last minute re-negotiation so they can set this boundary with prospective buyers
+Instruct your conveyancing lawyer to gather all the necessary Land Registry, local authority documents and searches, drainage, water and environmental searches as well as completing the property information questionnaires when you put your property on market. This gives less time and opportunity for gazundering
+You may consider a reservation agreement when a buyer pays a fee to reserve the right to buy the property for a period of time. The seller agrees not to sell to anyone else during that time and if either pull out there are financial penalties
+A conditional binding offer means you agree to buy a house, but only if specific rules are met first such as a related sale or mortgage deal. If those rules fail, you can cancel the deal without financial penalty
+Source: The Conveyancing Association`,
+    bodyJa: `「私の購入者は交換の前日にオファーを15,000ポンドで取り下げました」：ガズンダリングとそれを回避する方法
+- 公開されました
+サラは、家族が増えすぎたテラスハウスを出て、田舎にある寝室が 4 つある家に引っ越しようと、わくわくしながら荷造りをしていました。
+しかし、契約書を取り交わす前日、彼女の家の買い手は合意したオファーを15,000ポンド引き下げた。 「最悪でした。心臓が胃まで落ち込んでしまいます」とサラは本名ではなく語った。
+社外の伝達協会によると、彼女はガズンダリングの被害者になっていた。ガズンダリングはイングランドとウェールズの不動産市場で稀ではあるが深刻化している問題だという。
+この問題やその他の住宅売買問題に取り組むことを目的とした政府改革を、予定通りの2029年ではなく「遅滞なく」導入するよう求めている。
+サラ、夫、そして 2 人の子供にとって、引っ越しはすべて順調に進んでいた。
+彼らは改装した3ベッドルームのテラスを売り、彼女の両親が田舎に所有していた4ベッドルームの一戸建てを購入した。
+しかし、契約書が交わされる前日、サラさんは「困惑した」不動産業者から電話を受け、悪い知らせがあると告げられた。
+購入者らは、その地域についてさらに調査を行った結果、合意した価格よりも1万5000ポンド安く提示すると述べた。
+「（売却に失敗した場合の）経済的影響を考え始めることさえできません」と彼女は言う。
+もし彼らがより低い提案を受け入れた場合、彼らはポケットから出ますが、彼らが拒否した場合は費用もかかります。
+「私たちはすでに弁護士費用を 1 回支払っていましたが、新しい買い手が必要な場合は再度支払わなければなりませんでした。また、撤去費用もすでに支払っていたので、引っ越し日をキャンセルした場合は再度支払わなければなりません」とサラさんは言います。
+ガズンダリングとは何ですか？
+ガズンデリングとは、買い手が契約書を交わす直前に、合意したオファーを引き下げることです。
+これにより売り手は、より低い価格を受け入れるよう圧力をかけられ、そうでなければ売却を逃して不動産チェーンが崩壊するリスクが生じ、購入したい家を失う可能性があります。
+イングランド、ウェールズ、北アイルランドでは、当事者が契約を交わすまでオファーに法的拘束力がないため、このようなことが可能となる。オファーが受け入れられてから完了までには平均 120 日かかります。 3 件に 1 件の住宅が買い替え前に売れなくなってしまいます。
+住宅・コミュニティ・地方自治体省によると、これにより売り手は毎年4億ポンド、経済全体では15億ポンドのコストが発生するという。
+計画されている政府改革により、その期間は4週間短縮され、初めて購入する人は平均650ポンド節約できるという。
+父親と夫と話し合った後、サラさんはその日のうちに家を売りに戻すことに決めました。
+翌日、買主たちは「不動産業者のオフィスに駆け込んできて、合意された販売価格で喜んで進めると言いました」と彼女は言う。
+「ガズンデリングは実際にはひどいものだ。これは単なるビジネス取引ではない。これは私の子供たちの家であり、それに対して何も対策が講じられていないという事実はばかげている。」
+Conveyancing Association の Beth Rudolf 氏は、ガズンダリングは小さいながらも深刻化している問題だと述べています。
+「実際にはそれほど大きくはなく、頻繁に起こるわけではありませんが、不動産市場の変化により買い手市場になったため、増加し始めています。」
+市場に出ている住宅の数が購入希望者よりも多いため、売り手はより激しい競争に直面し、価格の引き下げを余儀なくされていると彼女は説明した。
+政府はイングランドとウェールズの住宅売買市場を改革する計画を立てており、ガズンダリングなどの問題に取り組むことになるが、現時点での改革のスケジュールは外部的には2029年の今議会の終わりまでとなっている。
+住宅・コミュニティ・地方自治体省はBBCに対し、「正当な理由なしに購入者が土壇場で立ち去ることを防ぎ、違反した者には罰金を科す法的拘束力のある協定を導入することで、ガズンダリングを阻止している」と語った。
+ガズンダリングを避ける方法
+不動産業者に、あなたの財務状況が土壇場での再交渉を許可しないことを明確にして、購入希望者との境界線を設定できるようにしてください。
+不動産を売りに出す際には、必要な土地登記簿、地方自治体の書類と調査、排水、水と環境の調査をすべて収集し、不動産情報アンケートに記入するよう、仲介弁護士に指示してください。これにより、ガズンダリングの時間と機会が減ります
+買主が一定期間不動産を購入する権利を留保するために料金を支払う場合は、予約契約を検討することができます。売主はその間誰にも売らないことに同意し、どちらかが手を引いた場合には金銭的な罰金が課せられます。
+条件付き拘束力のあるオファーとは、住宅の購入に同意することを意味しますが、関連する販売や住宅ローン契約など、特定のルールが最初に満たされた場合に限ります。これらのルールが失敗した場合、金銭的なペナルティなしで取引をキャンセルできます
+出典: 伝える協会`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-18T01:14:53+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847b/live/e25f5800-81e1-11f1-8b86-31ce3d5ecce7.jpg",
+    readTime: 6,
   },
   {
     id: "leather-jacket-worn-by-nvidia-ceo-goes-f-05559093",
@@ -1761,440 +2205,6 @@ BBC Verifyは、バーナムが直面する5つの大きな政策課題と、そ
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70f2/live/c74af560-8119-11f1-926f-c90d1bcfbc84.png",
     readTime: 10,
-  },
-  {
-    id: "burnham-s-manchesterism-got-him-to-no-10-d0c20cf3",
-    title: "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-    titleJa: "バーナムの「マンチェスタリズム」は彼を10位につけたが、それはイギリスでもうまくいくだろうか？",
-    summaryJa: "アンディ・バーナムが労働党の与党執行部によって議会に立候補することを阻止され、マンチェスター市長室に引きこもったのはわずか5か月前のことだった。数週間後、そこで彼に会ったとき、彼は自分の失望を自分の都市地域のためのいくつかの野心的な計画で乗り切るつもりだと言いました。",
-    bodyOriginal: `It was just five months ago when Andy Burnham retreated to his mayor's office in Manchester, having been blocked by Labour's ruling executive from standing for parliament.
-When I met him there a few weeks later, he told me he planned to deal with his disappointment with some ambitious plans for his city region.
-Burnham told me he wanted to appeal directly to Fifa to host the final of women's football World Cup in 2035 Manchester instead of Wembley. "Imagine how electrifying that is for any girl growing up in the north of England," he said.
-He said he was also joining forces with other mayors for a "Great Northern" Olympic bid across the north of England, and a plan was also afoot to host the Ryder Cup in Bolton. Sports bodies needed "re-educating" about the rest of the country, he said.
-Manchester has already poached the Brit Awards from London after half a century in the capital.
-Big, bold gestures like these tell part of the story of what has happened in the city. Burnham's civic ambition is a byproduct of Manchester's status as the fastest-growing city economy in the country. As Burnham prepares to become prime minister, will he be able to apply the same model to the whole of the nation?
-Manchester's rise
-Even before Burnham returned to parliament in June, there has been talk of Manchesterism as a political-economic philosophy that offers a programme for national transformation, rooted in a critique of a currently unresponsive, over-centralised British state.
-The city has a long history of blending the freest of free markets with a strong social spirit. Manchester's cotton traders championed free trade and liberal economics, at the same time as the emergence of the co-operative movement, the trade unions and the Suffragettes. Even the Manchester Ship Canal, the emblem of monopoly-breaking free trade, required local government intervention backed by the workers.
-But for an understanding of contemporary Manchester, you need to go back to the summer of 1996.
-Andy Burnham had left the north-west by then. He told me how when he first looked for a local media job after graduating in the early 1990s, all he could get was a role as an unpaid reporter on the Middleton Guardian.
-"I had to do what so many people of my generation, born in the 60s or 70s in the north-west of England had to do to get on in life," he said. "We had to go south."
-By 1996, Burnham was an MP's researcher. That year, back in Manchester, the IRA detonated the largest bomb in the UK since World War Two, devastating the city centre,
-The reconstruction in the aftermath of the attack marked the start of Manchester's ascent from the doldrums of de-industrialisation. The essential idea provided by a group of local political, cultural and business leaders, and an architect called Ian Simpson, was that the city centre should be reshaped by demolishing, not repairing, many of the damaged buildings.
-From disaster could then arise a great opportunity to reshape the city's geography and economy. Council leader Sir Richard Leese and his top civil servant, the late Sir Howard Bernstein set the tone for a variety of bold centrally driven strategic plans that were actually largely delivered by private capital and then significant international investment.
-The council leadership was ruthlessly focused on transforming brownfield industrial sites. The private sector would go nowhere near these, but the council de-risked those investments with public money. It also sometimes stepped in to tide projects over during financial crises.
-At the end of this process, private capital poured in, lining up the cranes and the hard hats. The council offered a flexible interpretation of requirements to build a proportion of "affordable housing", sometimes effectively waived, sometimes met by funding building in cheaper areas of the city.
-Paul Thwaite, the chief executive of NatWest, which has funded some of these projects, and who is on the board of the University of Manchester, says Manchester's success story over the past 20 years was "built on there being a clear plan the private sector can get behind".
-Why hanging on to students matters
-Such a shift would have been unthinkable a generation ago. The model of Manchester's city centre development has succeeded in creating a critical mass of population, housing, jobs and service sector activity that has allowed it to turn its significant undergraduate population into a goldmine.
-According to the mayor, more people from London had moved to Manchester (13,000) than the other way round (11,800) in the latest set of internal migration figures.
-He put this down to a flow of young workers into the Manchester city centre service economy.
-In a reverse from the 1990s, "no-one here has to leave to get on in life", Burnham told me. "And in fact, there's a net inflow of young people from London."
-Manchester now retains over half its graduates, more than any other city apart from London, according to the Centre for Cities, and Manchester also attracts almost as many young graduates as it produces.
-Tom Beahon, the CEO of Manchester-based sports brand Castore, who has not been shy about criticising some of the government's business policies, told our Big Boss podcast earlier this year that the mayor had helped "attract inbound investment, making it a place that students want to stay after they graduate from the fantastic universities". That in turn means more businesses want to launch in the city, he added.
-It is a case study in agglomeration effects - the economic power of locating similar types of jobs close together. And if its infrastructure can keep up, Manchester's economy will continue to fly.
-Burnham's Manchester
-Andy Burnham is a product of this Greater Manchester and spent his decade as its first mayor trying to shape it. As Andy Spinoza, the foremost chronicler of Manchester's turnaround, puts it: "Burnham jumped into a moving car, and by the end he was driving it."
-But what else is there to Burnham beyond driving that moving car?
-While he has managed to ascend to the Labour leadership and the cusp of No 10 without revealing his wider policy plans, there is a fairly recent text already out there. In 2024 with his fellow north-west regional mayor, Merseyside's Steve Rotherham, he published a book called Head North: A Rallying Cry for a More Equal Britain.
-It was the basis for Burnham's speech earlier this month on Manchesterism and remains his national political-economic-constitutional prospectus. The 10-point plan to "rewire" the country argues that better "homes, transport and jobs" across the country can only come from "a new set of principles and rules for the running of the British state".
-What underpins this is a determination to tear up two formulas that have long formed the backbone of how UK governments allocate money. The first is the Treasury's Green Book, which decides infrastructure spending and which has traditionally valued existing areas of high growth and land value the most. In Burnham's view, this drags investment in transport to the south of England.
-The tangible example of all of this can be found on Platforms 13 and 14 of Piccadilly station in central Manchester. The only east-west train link for the entire region is here, and it is often jam-packed with trains and 40,000 daily commuters attempting to cross the Pennines and get to the airport. Burnham has long advocated for an underground four-platform "Kings Cross of the North" with a northern version of London's Elizabeth Line.
-He relays a story about his time as chief secretary to the Treasury in 2007 when he was told: "No project in the north passed the Green Book, Minister." He told me the same in 2020 when there were murmurings of reform to the formula. Chancellor Rachel Reeves pursued pilot projects to change the approach that could favour local investment.
-In the book, Burnham also advocates tearing up the Barnett formula, which allocates public spending, topping up spend for Scotland, Wales and Northern Ireland so they do not lose out to England as a whole. The effect, Burnham argues, is that the north of England is left squeezed in a "pincer".
-In Head North and his recent speech, Burnham points to Germany's "Basic Law", with its duty of "equivalent living standards" across the regions. Such a law, he argued, would protect local government and give regions a right to be consulted on long-term decisions.
-Burnham also advocates significant constitutional change, including a form of proportional representation and the replacement of the House of Lords with a "Senate of the Nations and the Regions", alongside devolution of powers over large swathes of public services to regional level.
-On Net Zero he proposes a "Northern Way", which subsidises the transition, retrofits, cutting bills, and building exportable locally owned industry. He contrasts this with a "Whitehall way", which he characterises as bans, charges and taxes that hit the poorest.
-The actual policy consequence of this will have to reckon with rising global energy prices, pressure on household budgets, and some impatience from North Sea energy interests to pump more oil and gas. There are some contradictions in for example, full tax and spend devolution for every region. Would the south-east get to keep the taxes it raises? Some aides recently played down any changes to the Barnett formula amid concerns from Scottish politicians.
-The national stage
-The fundamental difference between running a city region and a country is the need to raise the entire spectrum of tax revenues to fund spending. Or to borrow more money. The picture is rather constrained on both right now. Manchester has been agile in attracting private capital to build infrastructure, especially housing, partly because it had to. Can that stretch across the whole country?
-With Manchester's cotton traders in mind, I asked Burnham back in February if he considered the Manchester model to be politically left or right - an example of statism, perhaps?
-"When it comes to right versus left, well, we've always been very pro-business, pro-enterprise here. We want people to succeed individually and businesses to succeed, but give back at the same time," he said.
-Some campaigners say that the dash for the gleaming towers and spires in the centre has left behind much of the rest of the region, and that the centre of Manchester is becoming a mini-London. While Burnham has criticised decades of "neoliberalism" and the "trickle-down effect", the reality is it has been core to the Manchester model.
-At the same time, Margaret Thatcher's 1985 bus deregulation has been reversed and over the years public money from central and local government, from the EU, as well as from the partly council-owned airport, has been spent on trams - a nod to the importance of spreading the proceeds of growth in the centre around the region.
-To greater or lesser degrees Burnham has floated more "public control", cost of living support, small business rates relief, and higher infrastructure investment and higher defence spending. They sound difficult to reconcile with sticking to promises to limit borrowing and not raise major taxes.
-For example, the Defence Investment Plan is "funded" by cuts to capital investment in transport, energy and elsewhere. These are precisely the areas that Manchesterism would suggest might get more central capital investment.
-Burnham the mayor has beaten the drum for the new Liverpool-Manchester Northern Powerhouse Rail and the high speed Manchester-Birmingham line he worked up with former West Midlands Mayor Andy Street. But what will Prime Minister Burnham do?
-More from InDepth
-We are living fewer years in good health: Is the NHS part of the problem?
-- Published5 days ago
-The youth clubs fighting to stay relevant in the social media age
-- Published7 days ago
-And what about the paused Brexit reset? There was a deal ready to go for closer relations at a UK-EU summit originally planned for next week. The government had started to explore different red lines for the next Labour manifesto and a turn back towards Europe's single market. Does he go with Remainy Manchester? Or do the feelings of his Leave constituency, Makerfield, trump all?
-NatWest's Paul Thwaite says there could be a "powerful recipe for sustained growth" from the private capital that flows from "long-term certainty and genuine collaboration". There isn't, however, a "single blueprint" from Manchester or anywhere, he says. For devolution to work "the institutions, the leadership and the commercial capability matter as much as the powers themselves".
-Burnham in his speech quoted the famous line attributed to Tony Wilson in the film 24 Hour Party People: "It's Manchester, we do things differently here." Now it's time to reveal what exactly it means for the nation.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `アンディ・バーナムが労働党の与党執行部によって議会に立候補することを阻止され、マンチェスター市長室に引きこもったのはわずか5か月前のことだった。
-数週間後、そこで彼に会ったとき、彼は自分の失望を自分の都市地域のためのいくつかの野心的な計画で乗り切るつもりだと言いました。
-バーナム氏は、2035年女子サッカーワールドカップの決勝戦をウェンブリーではなくマンチェスターで開催するようFIFAに直接訴えたいと語った。 「イングランド北部で育った少女にとって、それがどれほど衝撃的なことか想像してみてください」と彼は語った。
-同氏は、イングランド北部全域での「グレート・ノーザン」オリンピック招致に向けて他の市長らと協力しており、ボルトンでライダーカップを開催する計画も進行中であると述べた。スポーツ団体は国内の他の地域について「再教育」する必要があると同氏は述べた。
-マンチェスターは首都で半世紀を経て、すでにロンドンからブリット・アワードを奪い取っている。
-このような大きく大胆なジェスチャーは、この街で何が起こったのかの一端を物語っています。バーナムの市民的野心は、国内で最も急成長している都市経済としてのマンチェスターの地位の副産物である。バーナムは首相になる準備をしているが、同じモデルを全国民に適用できるだろうか?
-マンチェスターの台頭
-バーナム氏が6月に議会に復帰する前から、現在無反応で過度に集中化した英国国家への批判に根ざした国家変革プログラムを提供する政治経済哲学としてのマンチェステリズムについての話題があった。
-この都市には、最も自由な市場と強い社会的精神が融合してきた長い歴史があります。マンチェスターの綿花商人は、協同組合運動、労働組合、参政権運動の台頭と同時に、自由貿易と自由主義経済を擁護した。独占を打破する自由貿易の象徴であるマンチェスター運河でさえ、労働者の支援を受けた地方政府の介入を必要とした。
-しかし、現代のマンチェスターを理解するには、1996 年の夏に戻る必要があります。
-アンディ・バーナムはその時までに北西部を去っていた。彼は、1990 年代初頭に大学を卒業した後、初めて地元メディアの仕事を探したとき、得られたのはミドルトン・ガーディアン紙の無給記者の役だけだった、と語った。
-「60年代か70年代にイングランド北西部で生まれた同世代の多くの人たちが、人生を生きていくためにしなければならなかったのと同じことを、私もやらなければならなかった」と彼は語った。 「私たちは南に行かなければなりませんでした。」
-1996年までに、バーナムは国会議員の研究者になった。その年、マンチェスターに戻って、IRAは第二次世界大戦以来英国で最大の爆弾を爆発させ、市の中心部を壊滅させた。
-攻撃後の復興は、マンチェスターの産業空洞化による低迷からの浮上の始まりとなった。地元の政治、文化、ビジネスのリーダーのグループとイアン・シンプソンという建築家が提供した本質的なアイデアは、損傷した建物の多くを修復するのではなく、取り壊すことによって市の中心部を再形成すべきだというものでした。
-災害からは、都市の地理と経済を再構築する絶好の機会が生まれる可能性があります。評議会指導者リチャード・リース卿とそのトップ公務員である故ハワード・バーンスタイン卿は、中央主導型のさまざまな大胆な戦略計画の方向性を定め、実際には主に民間資本と、その後多大な国際投資によって実現されました。
-市議会指導部は、ブラウンフィールドの工業用地を変革することに容赦なく焦点を当てました。民間部門はこれらに近づくことはできませんでしたが、評議会は公的資金を使ってこれらの投資のリスクを軽減しました。金融危機の際にはプロジェクトを終わらせるために介入することもあった。
-このプロセスの最後に民間資本が注ぎ込まれ、クレーンとヘルメットが並べられました。同市議会は、一部の「手頃な価格の住宅」を建設するための要件を柔軟に解釈することを提案し、場合によっては事実上免除され、場合によっては市内の安価な地域での建設に資金を提供することで満たされた。
-これらのプロジェクトの一部に資金を提供しているナットウェスト社の最高経営責任者であり、マンチェスター大学の理事でもあるポール・スウェイト氏は、過去20年間にわたるマンチェスターの成功物語は「民間部門が後押しできる明確な計画に基づいて築かれた」と語る。
-生徒に寄り添うことが重要な理由
-このような変化は一世代前には考えられなかったでしょう。マンチェスター市中心部の開発モデルは、クリティカルマスの人口、住宅、雇用、サービス部門の活動を創出することに成功し、そのおかげで、かなりの学部人口を宝の山に変えることができました。
-市長によると、最新の国内移住者数ではロンドンからマンチェスターへの移住者（1万3000人）の方がその逆（1万1800人）よりも多かったという。
-同氏はこれを、マンチェスター市中心部のサービス経済への若い労働者の流れのせいだと説明した。
-1990年代とは逆に、「ここにいる誰も、人生を生きていくためにここを離れる必要はない」とバーナム氏は私に語った。 「そして実際、ロンドンからは若者が純流入している。」
-都市センターによると、マンチェスターは現在卒業生の半数以上を保持しており、これはロンドンを除けば他のどの都市よりも多く、またマンチェスターには輩出したのとほぼ同じ数の若い卒業生が集まっている。
-マンチェスターに本拠を置くスポーツブランド、カスストアの最高経営責任者（CEO）トム・ビーホン氏は、政府の事業政策の一部を批判することを躊躇しなかったが、今年初めにビッグボス・ポッドキャストで市長が「インバウンド投資を呼び込み、学生たちが素晴らしい大学を卒業した後に滞在したいと思う場所にする」ことに貢献したと語った。それはつまり、より多くの企業が市内で立ち上げを希望することを意味すると彼は付け加えた。
-これは、集積効果、つまり類似した種類の仕事を近くに配置することによる経済力のケーススタディです。そして、そのインフラが維持できれば、マンチェスターの経済は成長し続けるでしょう。
-バーナムのマンチェスター
-アンディ・バーナムはこのグレーター・マンチェスターの出身者であり、初代市長として 10 年間をマンチェスターの形成に努めてきました。マンチェスターの逆転記録の第一人者であるアンディ・スピノザは、「バーナムは走行中の車に飛び込み、最後には車を運転していた」と述べている。
-しかし、バーナムには、その動く車を運転する以外に何があるでしょうか?
-同氏は広範な政策計画を明らかにすることなく、なんとか労働党指導部と第10位の頂点に上り詰めたが、かなり最近の文書がすでに世に出ている。 2024年、彼は同じ北西部地方市長であるマージーサイドのスティーブ・ロザラム氏とともに、『Head North：より平等な英国を求める結集する叫び』という本を出版した。
-これはマンチェステリズムに関する今月初めのバーナムの演説の基礎となったものであり、今でも彼の国家政治経済憲法に関する目論見書である。国の「配線を変える」ための10項目の計画は、国中の「住宅、交通、雇用」の改善は「英国国家運営のための新たな原則と規則」からのみもたらされると主張している。
-これを支えているのは、英国政府が資金を配分する方法の根幹を長い間形成してきた 2 つの方式を打ち破るという決意です。 1 つ目は財務省のグリーンブックです。これはインフラ支出を決定し、伝統的に既存の高成長地域と地価を最も高く評価してきました。バーナム氏の見解では、これによりイングランド南部への輸送への投資が滞るという。
-これらすべての具体的な例は、マンチェスター中心部のピカデリー駅の 13 番線と 14 番線にあります。この地域全体を東西に結ぶ唯一の鉄道がここにあり、ペナイン山脈を越えて空港に行こうとする毎日 40,000 人の通勤客と電車で混雑することがよくあります。バーナム氏は長年、ロンドンのエリザベス線の北版を備えた地下4プラットホーム「キングス・クロス・オブ・ザ・ノース」の建設を提唱してきた。
-彼は、2007年に財務省首席秘書官を務めていたとき、「北部のプロジェクトはグリーンブックを通過しなかった、大臣」と言われたときの話を伝えた。方式の改革がささやかれていた2020年にも、彼は私に同じことを言った。レイチェル・リーブス首相は、地元投資を促進するアプローチを変えるためのパイロットプロジェクトを推進した。
-同書の中でバーナムはまた、公共支出を配分するバーネット方式を廃止し、スコットランド、ウェールズ、北アイルランドがイングランド全体に負けないように支出を補充することを主張している。その結果、イングランド北部が「挟み撃ち」にされたままになっているとバーナムは主張する。
-『ヘッド・ノース』と最近の演説の中で、バーナムは地域全体で「同等の生活水準」を義務づけたドイツの「基本法」を指摘している。このような法律は地方自治体を保護し、地域に長期的な決定について協議する権利を与えるだろうと彼は主張した。
-バーナムはまた、比例代表制の導入や貴族院を「国家と地域の上院」に置き換えるとともに、広範な公共サービスに対する権限を地域レベルに移譲することなど、大幅な憲法改正を主張している。
-Net Zero では、移行、改修、経費削減、輸出可能な地元所有産業の構築に補助金を与える「Northern Way」を提案しています。同氏はこれを、最も貧しい人々に打撃を与える禁止、課徴金、税金として特徴づける「ホワイトホール方式」と対比している。
-この政策の実際の結果は、世界的なエネルギー価格の上昇、家計への圧力、さらに石油とガスを汲み上げたいという北海のエネルギー利権からの焦りを考慮する必要があるだろう。たとえば、すべての地域に対する税金と歳出の完全な地方分権にはいくつかの矛盾があります。南東部は引き上げた税金を維持できるだろうか？一部の側近は最近、スコットランドの政治家らの懸念を背景に、バーネット方式の変更を軽視した。
-全国の舞台
-都市地域の運営と国の運営の根本的な違いは、支出を賄うためにあらゆる範囲の税収を集める必要があることです。あるいは、さらにお金を借りるためです。現時点では、どちらのイメージもかなり制限されています。マンチェスターは、そうしなければならなかったという理由もあり、インフラ、特に住宅を建設する民間資本の誘致に機敏に取り組んできた。それが全国に広がる可能性はあるのでしょうか？
-マンチェスターの綿花商人を念頭に置いて、私は2月にバーナムに、マンチェスターモデルは政治的に左派か右派か、と尋ねた。国家主義の一例だろうか？
-「右派と左派に関して言えば、そうですね、ここでは私たちは常に非常にビジネス寄り、企業寄りでした。私たちは人々が個人で成功し、企業が成功することを望んでいますが、同時に恩​​返しもしたいのです」と彼は語った。
-運動家の中には、中心部にある輝く塔や尖塔を目指して突進するあまり、この地域の他の地域の大部分が取り残されており、マンチェスターの中心部はミニ・ロンドンになりつつあると言う人もいる。バーナムは数十年にわたる「新自由主義」と「トリクルダウン効果」を批判しているが、実際にはそれがマンチェスター・モデルの中核であった。
-同時に、マーガレット・サッチャー政権の1985年のバス規制緩和は撤回され、長年にわたって中央政府、地方政府、EU、そして一部市営空港からの公的資金が路面電車に費やされてきたが、これは中心部の成長による収益を地域周辺に分散させることの重要性へのうなずきである。
-多かれ少なかれ、バーナムはさらなる「公的管理」、生活費支援、中小企業料金の軽減、インフラ投資と国防支出の拡大を打ち出してきた。借入を制限し、大型増税は行わないという約束を守ることと、折り合いをつけるのは難しいように思える。
-たとえば、国防投資計画は、輸送、エネルギーなどへの設備投資の削減によって「資金調達」されています。これらはまさに、マンチェステリズムがより集中的な資本投資を受ける可能性があると示唆する分野である。
-バーナム市長は、新しいリバプール-マンチェスター・ノーザン・パワーハウス鉄道と、元ウェスト・ミッドランズ市長のアンディ・ストリート氏と共同で開発したマンチェスター-バーミンガム高速線の建設を成功させた。しかし、バーナム首相はどうするでしょうか？
-InDepthのその他の作品
-私たちが健康で過ごせる年数は減ってきています。NHS も問題の一部なのでしょうか?
-- 5 日前に公開
-ソーシャルメディア時代においても関連性を維持するために奮闘する青少年クラブ
-- 7 日前に公開
-そして、一時停止されたBrexitリセットはどうなるでしょうか？当初来週予定されていた英国・EU首脳会議では、関係緊密化に向けた合意が準備されていた。政府は次期労働党マニフェストと欧州単一市場への回帰に向けて、さまざまな越えてはならない一線を模索し始めていた。彼は残留マンチェスターに行くのか？それとも、離脱派の支持者であるメイカーフィールドの感情がすべてに優先するのだろうか？
-ナットウェストのポール・スウェイト氏は、「長期的な確実性と真の協力」から流れる民間資本から「持続的成長のための強力なレシピ」が見つかる可能性があると述べた。しかし、マンチェスターやどこにも「単一の青写真」はない、と彼は言う。地方分権が機能するためには、「権力そのものと同じくらい制度、指導力、商業能力が重要である」。
-バーナムはスピーチの中で、映画『24時間パーティー・ピープル』のトニー・ウィルソンによる有名なセリフ「ここはマンチェスターだ、ここでは違うやり方をしている」を引用した。今こそ、それが国家にとって正確に何を意味するのかを明らかにする時です。
-BBC InDepth は、思い込みに疑問を投げかける新鮮な視点と、その日の最大の問題についての深いレポートを提供する、最高の分析を提供する Web サイトとアプリです。エマ・バーネットとジョン・シンプソンが、毎週土曜日に、最も示唆に富んだ深い読み物と分析を厳選して紹介します。ニュースレターへの登録はこちらから
-連絡する
-この話で提起された問題によってあなたは個人的に影響を受けていますか?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-17T05:00:08+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06f7/live/70ecfc50-811d-11f1-bee8-53ce494e1abc.jpg",
-    readTime: 10,
-  },
-  {
-    id: "china-hits-out-at-british-steel-national-ef9625bd",
-    title: "China hits out at British Steel nationalisation",
-    titleJa: "中国が英国鉄鋼国有化を非難",
-    summaryJa: "中国が英国鉄鋼国有化を非難- 公開されました",
-    bodyOriginal: `China hits out at British Steel nationalisation
-- Published
-China has hit out at the nationalisation of British Steel, saying it "firmly opposes and is strongly dissatisfied with the British government's decision".
-On Thursday, the UK government said that taking the loss-making firm into public hands would protect jobs and safeguard a "vital national capability".
-The UK took control of British Steel's operations in Scunthorpe last year, though it was still owned by China's Jingye Group, limiting the government's ability to steer its future.
-China's commerce ministry said on Friday that the moves "seriously infringed upon Jingye's legitimate rights and interests and severely undermined the confidence of Chinese companies investing in the UK".
-It also called on Britain to "faithfully fulfil" its obligations under the China–UK Bilateral Investment Treaty.
-"Disregarding Jingye's significant contribution to the UK economy and society, the British side forcibly took control of the company in the name of national security," the ministry said.
-The statement added that Beijing would monitor developments closely and support Chinese firms to protect their rights, but did not specify what protecting Chinese companies' rights might involve.
-The decision to nationalise British Steel threatens to strain the relationship between London and Beijing just as Andy Burnham is set to become the prime minister on Monday.
-The incoming PM will have to weigh his approach to the issue with the economic benefits of ties with the world's second largest economy.
-The nationalisation came after Parliament on Wednesday passed legislation allowing the government to bring the steel industry into public ownership under circumstances where it met a public interest test.
-Jingye is seeking compensation, having previously said the business was losing £700,000 a day. The BBC has been unable to get a response from Jingye itself to Thursday's announcement.
-By taking British Steel into public ownership the government now has the power and freedom to decide on the future of the plant, while keeping the blast furnaces going.
-It is unlikely the government will want to continue running the business in the long term as it is costing it more than a million pounds a day.
-In March, the National Audit Office said the Scunthorpe steelworks was costing the government about £1.3m a day.
-Business Secretary Peter Kyle told the BBC the government would need to cover the running costs "for the immediate future".
-Related topics
-- Published15 hours ago`,
-    bodyJa: `中国が英国鉄鋼国有化を非難
-- 公開されました
-中国はブリティッシュ・スチールの国有化を激しく非難し、「英国政府の決定に断固反対し、強い不満を持っている」と述べた。
-木曜日、英国政府は、赤字企業を公的手に委ねることが雇用を守り、「極めて重要な国家能力」を守ることになると述べた。
-英国は昨年、スカンソープでのブリティッシュ・スチールの経営管理を掌握したが、同社はまだ中国の京業集団の所有下にあり、政府の将来の舵取り能力は制限されていた。
-中国商務省は金曜日、今回の措置は「景業の正当な権利と利益を著しく侵害し、英国に投資している中国企業の信頼を著しく損なった」と述べた。
-また英国に対し、中英二国間投資協定に基づく義務を「忠実に履行」するよう求めた。
-同省は「英国の経済と社会に対するジンゲの多大な貢献を無視し、英国側は国家安全保障の名の下に同社を強制的に掌握した」と述べた。
-声明は、中国政府が動向を注意深く監視し、中国企業の権利を保護するよう支援すると付け加えたが、中国企業の権利の保護に何が含まれるかについては明らかにしなかった。
-月曜日にはアンディ・バーナム氏が首相に就任する予定であるが、ブリティッシュ・スチール国有化の決定はロンドンと北京の関係を緊張させる恐れがある。
-次期首相は、この問題に対する自身のアプローチと、世界第2位の経済大国との関係がもたらす経済的利益を比較検討する必要があるだろう。
-この国有化は、水曜日に議会が公益性のテストに適合する状況下で政府が鉄鋼産業を公有化することを許可する法案を可決した後に行われた。
-ジンゲ氏は以前、同事業が1日あたり70万ポンドの損失を被っていると述べ、補償を求めている。 BBCは木曜日の発表に対してジンゲ氏自身からの返答を得ることができていない。
-ブリティッシュ・スチールを公有化することにより、政府は高炉を稼働し続けながら、工場の将来を決定する権限と自由を手に入れた。
-1日あたり100万ポンド以上の費用がかかるため、政府が長期的に事業を継続したいとは考えにくい。
-3月、国家会計検査院は、スカンソープ製鉄所が政府に1日あたり約130万ポンドの損害を与えていると発表した。
-ピーター・カイル商務長官はBBCに対し、政府は「当面の」運営費を負担する必要があると語った。
-関連トピック
-- 15 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-17T02:50:36+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72e5/live/17d2eee0-8181-11f1-a117-633a3b1f8a33.jpg",
-    readTime: 2,
-  },
-  {
-    id: "micron-has-turned-into-the-most-importan-59227a8e",
-    title: "Micron has turned into ‘the most important stock in the market.’ So is it time to worry?",
-    titleJa: "マイクロンは「市場で最も重要な株」になった。それで心配する時期が来たのだろうか?",
-    summaryJa: "投資家はメモリーのピークを懸念しているが、アナリストらは、さまざまな収益シナリオと比較すると株価はまだ割安に見えると述べている。",
-    bodyOriginal: `While investors are concerned about a memory peak, analysts say the stock still looks cheap relative to various earnings scenarios.`,
-    bodyJa: `投資家はメモリーのピークを懸念しているが、アナリストらは、さまざまな収益シナリオと比較すると株価はまだ割安に見えると述べている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/micron-has-turned-into-the-most-important-stock-in-the-market-so-is-it-time-to-worry-71e335bf?mod=mw_rss_topstories",
-    publishedAt: "2026-07-17T02:11:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-40268001",
-    readTime: 2,
-  },
-  {
-    id: "oil-rises-as-iran-threatens-retaliation-3fc45945",
-    title: "Oil rises as Iran threatens retaliation if Trump targets country's critical infrastructure",
-    titleJa: "トランプ大統領が国の重要インフラを標的にすればイランが報復すると脅し、原油上昇",
-    summaryJa: "イラン政府が、ドナルド・トランプ大統領が国の主要施設を攻撃するとの脅しを実行すれば地域のインフラを標的にすることを明言したことを受け、投資家が米国とイランの間の緊張激化を検討する中、金曜日の原油価格は上昇した。米国ウエスト・テキサス・インターミディエート先物８月限は１．３２％上昇し、１バレル＝８０．０９ドルとなった。国際ベンチマークであるブレント原油先物９月限は１．３３％上昇し、１バレル＝８５．３５ドルとなった。",
-    bodyOriginal: `Oil prices rose Friday as investors weighed escalating tensions between the United States and Iran after Tehran vowed to target regional infrastructure if President Donald Trump followed through on threats to strike the country's key facilities.
-U.S. West Texas Intermediate futures for August delivery rose 1.32% to $80.09 per barrel. September futures for international benchmark Brent advanced 1.33% to $85.35 per barrel.
-In an interview with Fox News on Tuesday, Trump said U.S. forces would target Iran's infrastructure next week unless the two sides reached a diplomatic breakthrough.
-Responding in a statement posted on Telegram on Thursday, a spokesperson for Iran's top military command warned that if Trump's threats were carried out, "everything that is still intact … that is, all the infrastructure in the region – will be crushed."
-Jorge León, senior vice president at Rystad Energy, wrote in a note on Friday that a limited agreement between Washington and Tehran remained the firm's base case scenario, though confidence in that outcome had weakened.
-He added that both sides still had strong economic incentives to avoid a complete breakdown in talks, with the U.S. seeking lower oil prices ahead of the November midterm elections and Iran reluctant to forgo economic incentives.
-"Tehran has a substantial economic package on the table, including access to frozen assets and export waivers, that it does not want to walk away from permanently," León said.`,
-    bodyJa: `イラン政府が、ドナルド・トランプ大統領が国の主要施設を攻撃するとの脅しを実行すれば地域のインフラを標的にすることを明言したことを受け、投資家が米国とイランの間の緊張激化を検討する中、金曜日の原油価格は上昇した。
-米国ウエスト・テキサス・インターミディエート先物８月限は１．３２％上昇し、１バレル＝８０．０９ドルとなった。国際ベンチマークであるブレント原油先物９月限は１．３３％上昇し、１バレル＝８５．３５ドルとなった。
-トランプ大統領は火曜日のFOXニュースとのインタビューで、両国が外交的打開策に達しない限り、米軍は来週イランのインフラを標的にするだろうと語った。
-これに応じて、イラン軍最高司令部の報道官は、木曜テレグラムに掲載された声明で、トランプ大統領の脅しが実行されれば、「無傷で残っているすべてのもの、つまり地域内のすべてのインフラが破壊されるだろう」と警告した。
-ライスタッド・エナジーの上級副社長、ホルヘ・レオン氏は金曜日のメモで、ワシントンとイラン政府の間の限定的な合意が同社の基本シナリオのままであるが、その結果に対する信頼は弱まったと述べた。
-同氏は、米国は11月の中間選挙を前に原油価格の引き下げを求める一方、イランは経済的インセンティブを放棄することに消極的であり、双方には交渉の完全な決裂を避ける強い経済的インセンティブがまだあると付け加えた。
-「イラン政府は凍結資産へのアクセスや輸出免除などの実質的な経済対策を検討しており、それを永久に放棄することは望んでいない」とレオン氏は述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
-    publishedAt: "2026-07-17T01:51:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-media-to-sell-early-access-to-key-11943fca",
-    title: "Trump Media to sell early access to key social posts",
-    titleJa: "トランプメディア、主要なソーシャル投稿への早期アクセスを販売",
-    summaryJa: "トランプメディア、主要なソーシャル投稿への早期アクセスを販売- 公開されました",
-    bodyOriginal: `Trump Media to sell early access to key social posts
-- Published
-Trump Media & Technology Group, which owns Truth Social, is launching a paid service to give Wall Street firms high-speed access to its most influential posts.
-Launching on 1 August, instant updates will be delivered from key accounts, it said. US President Donald Trump currently has the most followers on the platform.
-The company behind the app hopes it will create a steady new source of money for the firm which is currently loss-making.
-It is likely to be aimed at financial traders who want to see market-moving news fast. Trump’s social media posts often cause sudden swings in global markets, especially when he writes about trade and tariffs. For firms, a delay of even seconds can be costly.
-Until now, banks and traders had to monitor the app manually. The new system will send posts directly to paying clients.
-"Markets already move on Truth Social posts", said Kevin McGurn, the interim boss of Trump Media, adding that the service will create a steady profit.
-The new commercial data feed, named Truth API, promises to deliver posts to paying institutional clients in "milliseconds".
-The service will run 24 hours a day, seven days a week.
-The company, which launched its social media app in 2022, said some firms have been copying its data for months without permission.
-McGurn warned that Trump Media will soon block these methods, forcing firms to buy the official feed instead.
-Trump could benefit substantially from the move. Since his family remains the majority shareholder in the company, the president stands to profit directly from selling expedited access to his own public statements.
-The BBC has contacted Trump Media and the White House for comment on whether or not the president's posts will be included in the paid feed.
-While other social media networks already sell data, the move highlights the unique overlap between Trump’s private businesses and his public role as president.
-It would be "unprecedented" if the feature did include the president's posts, said Mark Spiegel, an investment expert from Stanphyl Capital Management.
-Companies that trade off the latest headlines would be "at a disadvantage" if they did not pay for quick access as they could miss out on posts that could move markets, Spiegel said.
-"But to put this in context, remember that Trump's posts constitute just a tiny fraction of what moves markets," he added.
-Additional reporting by Osmond Chia`,
-    bodyJa: `トランプメディア、主要なソーシャル投稿への早期アクセスを販売
-- 公開されました
-Truth Socialを所有するトランプ・メディア＆テクノロジー・グループは、ウォール街の企業が同社の最も影響力のある投稿に高速アクセスできるようにする有料サービスを開始している。
-8月1日に開始され、主要アカウントからインスタントアップデートが配信されるという。現在、このプラットフォームで最も多くのフォロワーを抱えているのはドナルド・トランプ米国大統領だ。
-このアプリを開発した会社は、現在赤字を出している同社に安定した新たな資金源を生み出すことを期待している。
-市場の動きのニュースを素早く知りたい金融トレーダーをターゲットにしている可能性が高い。トランプ氏のソーシャルメディアへの投稿は、特に貿易や関税について書いた場合、世界市場に突然の変動を引き起こすことが多い。企業にとっては、ほんの数秒の遅れでもコストがかかる可能性があります。
-これまで、銀行やトレーダーはアプリを手動で監視する必要がありました。新しいシステムでは、料金を支払っているクライアントに投稿が直接送信されます。
-トランプ・メディアの暫定責任者ケビン・マクガーン氏は「市場はすでに真実ソーシャルの投稿に注目している」と述べ、このサービスは安定した利益を生み出すだろうと付け加えた。
-Truth APIと名付けられた新しい商用データフィードは、料金を支払っている機関顧客に「ミリ秒」で投稿を配信すると約束している。
-このサービスは 24 時間年中無休で提供されます。
-2022年にソーシャルメディアアプリを立ち上げた同社は、一部の企業が数カ月にわたり同社のデータを無断でコピーしていたと述べた。
-マクガーン氏は、トランプ・メディアが間もなくこうした手法を阻止し、代わりに企業に公式フィードの購入を強制すると警告した。
-トランプ氏はこの動きから大きな恩恵を受ける可能性がある。彼の家族が依然として同社の大株主であるため、大統領は自身の公式声明への迅速なアクセスを販売することで直接利益を得る立場にある。
-BBCはトランプ・メディアとホワイトハウスに連絡し、大統領の投稿が有料フィードに含まれるかどうかについてコメントを求めた。
-他のソーシャルメディアネットワークはすでにデータを販売しているが、今回の動きは、トランプ氏の民間事業と大統領としての公的な役割との間の独特の重複を浮き彫りにしている。
-スタンフィル・キャピタル・マネジメントの投資専門家マーク・シュピーゲル氏は、特集に大統領のポストが含まれていれば「前例のない」ことになるだろうと述べた。
-最新のヘッドラインをトレードオフにしている企業は、迅速なアクセスに料金を支払わなければ、市場を動かす可能性のある投稿を見逃す可能性があり「不利な立場にある」とシュピーゲル氏は述べた。
-「しかし、これを文脈で説明すると、トランプ大統領の投稿は市場を動かすもののほんの一部に過ぎないことを忘れないでください」と彼は付け加えた。
-オズモンド・チアによる追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-17T01:27:36+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a36/live/a22ce670-817e-11f1-a087-3f9df20b4f8a.jpg",
-    readTime: 3,
-  },
-  {
-    id: "elon-musk-s-memphis-ai-empire-is-the-epi-8a4ade7d",
-    title: "Elon Musk's Memphis AI empire is the epicenter of the data center backlash",
-    titleJa: "イーロン・マスク氏のメンフィス AI 帝国はデータセンターの反発の中心地である",
-    summaryJa: "イーロン・マスクがグレーター・メンフィスを人工知能の野望の中心地とし、データセンターとエネルギーインフラを猛スピードで建設してから2年が経ち、住民は騒音や天然ガス燃焼タービンからの排出物などの望ましくない影響と格闘している。現在、Colossus および Colossus II として知られる SpaceXAI サイトに対する世論の反対が、AI 開発に反対する全国の他のコミュニティに青写真を提供しています。",
-    bodyOriginal: `Two years after Elon Musk made Greater Memphis the center of his artificial intelligence ambitions, building data centers and energy infrastructure at breakneck speed, residents are grappling with unwanted effects, including noise and emissions from the natural gas-burning turbines.
-Now, public opposition to the SpaceXAI sites, known as Colossus and Colossus II, is providing a blueprint for other communities across the country opposed to AI developments.
-This week, New York Gov. Kathy Hochul enacted a one-year moratorium on the construction of AI data centers in her state, drawing the ire of U.S. President Donald Trump, an ally of Musk.
-And last week, New Jersey Gov. Mikie Sherrill enacted legislation to ensure data center operators pay a fair share for electricity, instead of shifting costs to residents and businesses.
-Other policy proposals, protests and litigation are underway, many directly citing Memphis and SpaceXAI, which was acquired by Musk's defense contractor, SpaceX, in February.
-"When you think about what precedent Colossus has set, it hasn't been a great one," said Jigar Shah, the former director of the U.S. Department of Energy loan program office, and a long-time energy entrepreneur. "It certainly is a case study for what not to do in most of the rest of the country. But from a capitalist standpoint, they got rewarded."
-In June, SpaceX pulled off a record-setting IPO, with AI and its Colossus I and II facilities at the heart of its growth narrative.
-Google, Anthropic and Reflection AI have all inked agreements with SpaceX to rent excess computing capacity at Colossus and Colossus II, deals worth up to $2.32 billion per month.
-Residents don't feel the same benefits. Several told CNBC that SpaceXAI never consulted with them about their plans before they broke ground, though it was clear the data centers would profoundly impact nearby neighborhoods.
-Today, the noise from Colossus II and its gas-burning turbines is "like a form of torture," said Jason Haley of Southaven, Miss., whose house is within a mile of the site. Southaven is part of the Greater Memphis area.
-Opposition rising
-Opposition to data centers is rising, and not just against xAI, but also in response to developments planned or underway from Microsoft, Meta, Google, OpenAI and other so-called hyperscalers.
-In May, seven in 10 Americans said they oppose the construction of data centers for AI in their local area, according to a Gallup poll. Nearly half, or 48%, said they were strongly opposed.
-Even Musk has acknowledged the public distaste for AI data centers and power plants to run them.
-"There are very few people who want a power plant in their backyard," Musk said in an interview with JPMorgan CEO Jamie Dimon in the road show ahead of SpaceX's IPO. "If we wanted to, say, double the electricity usage of the United States," he said, "we would have to build twice as many power plants. Most communities are not super excited about that."
-Musk and SpaceX did not respond to multiple requests for comment about the backlash to their buildout in Memphis.
-SpaceXAI has purchased over 1,100 acres in Greater Memphis for its data centers and power plant.
-The data centers were initially built to train and run xAI's Grok AI models and chatbot, which was steeped in controversy.
-Data centers have been around for decades, but a building boom started after generative AI triggered an explosion in the need for data processing and power. The facilities typically require vast plots of land, energy to power the chips and servers inside, and water to cool high-tech equipment.
-For all their complexity, once built, data centers don't require a large workforce for operations, and don't always generate a huge number of new jobs or vast amounts of tax revenue.
-Memphis residents and climate advocates are sharing their experiences as a cautionary tale, using lessons learned to help other communities push for updated regulations, or more favorable deals with data center developers.
-Their testimonies have directly and indirectly influenced policies, lawsuits, elections and movements taking shape beyond Memphis.
-Communities in nearby Olive Branch and Jackson, for example, updated their zoning laws, citing a wish to avoid the pitfalls Memphis residents faced when Musk moved to town.
-In June, Utah state Senate president Stuart Adams lost in the Republican primary after he supported a proposed data center backed by investor Kevin O'Leary. Two other local officials who backed the project also lost in primary elections.
-Musk's Colossus I data center was completed in just 122 days, he said in a post on Sept. 2, 2024, announcing that the data center had been brought online.
-During its first year in operation, SpaceXAI paid $25 million in taxes, making it the second largest tax-paying property in Shelby County after FedEx, said Memphis Mayor Paul Young, who helped bring the data center business to the county.
-"Ever since this project began, we were looking at how to mitigate the potential negative impacts and how to amplify the positives," Young said. He acknowledged that SpaceX has not yet delivered everything it promised, such as the delayed construction of a water recycling plant meant to reduce the company's need for huge amounts of water to cool equipment at Colossus.
-Residents around Greater Memphis told CNBC their water and electricity bills have gone up after SpaceXAI moved to town.
-Memphis Light Gas & Water said that water and electricity rates "have not been impacted" by SpaceXAI.
-An "electric rate increase plan of 4% for 3 years beginning in 2024 was not due to any data center load," a spokesperson for the utility told CNBC via email.
-Legal battles
-Last year, Haley joined a neighborhood group called the Safe and Sound Coalition, to take noise measurements, raise awareness and push the company and municipal leaders to make changes.
-In March, Southaven Mayor Darren Musselwhite pledged to "step-up tougher enforcement" on the noise but told Haley, in e-mails read by CNBC, "you may want to consider selling your home."
-Musselwhite told CNBC in an email on Thursday that he has "worked countless hours to mitigate noise concerns," and "never told a citizen to move."
-Haley and other Southaven residents sued SpaceX in a proposed class action lawsuit filed in June this year, alleging the company created a "public nuisance" with noise from Colossus II.
-Following in their footsteps, neighbors to Microsoft's Fairwater Data Center in Mt. Pleasant, Wisconsin, this month filed a proposed class action suit over noise issues.
-In April, the Southern Environmental Law Center and Earthjustice sued Musk's company on behalf of the NAACP in a federal court in Mississippi. They allege the company has violated the federal Clean Air Act by using dozens of gas-burning turbines without required permits, and without pollution controls in place from the start to power its facilities.
-The types of turbines SpaceXAI used in Memphis can emit thousands of tons of smog-forming nitrogen oxides per year, according to manufacturers' spec sheets. SpaceXAI also emits particulate matter called "PM 2.5," or "particle pollution," from construction and operations.
-NAACP's lawyers asked a judge for an emergency injunction in May to stop SpaceX from using dozens of turbines in Southaven. The U.S. Department of Justice swiftly stepped in, asking the court to toss the suit.
-As part of their motion to intervene last month, the DOJ said SpaceXAI's technology had been used in American military operations in Iran, and was now crucial for national security. They also argued the suit "threatens" America's national, economic and energy security.
-SpaceX is defending against the NAACP lawsuit, arguing the turbines currently on site are only temporary, and plans are in place for permitted turbines with pollution controls.
-The NAACP released a guide for communities in January on how to protect themselves from "dirty data," and a framework companies can follow to avoid clashes with neighbors like SpaceXAI experienced in Memphis.
-Attorney Abre' Conner, who leads the NAACP Center for Environmental and Climate Justice, said SpaceXAI and other companies are moving to areas that have already experienced industrial pollution, "deepening the sacrifice zones that many of these community members have been fighting to get out of for so long."
-In Whitehaven, Tennessee, where a majority of residents are black, long-time resident Loretta Thornton said she had invested some retirement and savings into reframing her house, which borders the fence line of Colossus II.
-She said suggestions to sell and move away don't seem viable, especially with housing costs and interest rates rising.
-"You just have to endure this. And that's all I'm doing," Thornton said. "I know I cannot sell my property. Who will want to buy it, living beside this thing?"
--- CNBC producer Andrew Evers contributed reporting.`,
-    bodyJa: `イーロン・マスクがグレーター・メンフィスを人工知能の野望の中心地とし、データセンターとエネルギーインフラを猛スピードで建設してから2年が経ち、住民は騒音や天然ガス燃焼タービンからの排出物などの望ましくない影響と格闘している。
-現在、Colossus および Colossus II として知られる SpaceXAI サイトに対する世論の反対が、AI 開発に反対する全国の他のコミュニティに青写真を提供しています。
-ニューヨーク州のキャシー・ホチョル知事は今週、同州でのAIデータセンター建設を1年間停止する法律を制定し、マスク氏の同盟者であるドナルド・トランプ米大統領の怒りを買った。
-そして先週、ニュージャージー州のミキエ・シェリル知事は、住民や企業にコストを転嫁するのではなく、データセンター運営者が電気代の公平な負担を確保する法案を制定した。
-他の政策提案、抗議活動、訴訟も進行中であり、その多くはメンフィスとマスク氏の防衛請負業者であるスペースXが2月に買収したスペースXAIを直接引用している。
-「コロッサスがど​​んな前例を作ったかを考えてみると、それは決して素晴らしいものではなかった」と、元米国エネルギー省融資プログラム局長であり、長年のエネルギー起業家であるジガー・シャー氏は言う。 「これは確かに、国内の他のほとんどの地域でしてはいけないことの事例研究だ。しかし、資本主義の観点からすれば、彼らは報われたのである。」
-6月、SpaceXはAIとそのColossus IおよびColossus II施設を成長物語の中心に据え、記録的なIPOを成功させた。
-Google、Anthropic、Reflection AIはいずれも、ColossusとColossus IIの余剰コンピューティング能力をレンタルするというSpaceXとの契約を締結しており、月額最大23億2000万ドル相当の契約となっている。
-住民は同じ恩恵を感じていない。データセンターが近隣地域に重大な影響を与えることは明らかだったが、着工前にSpaceXAIが計画について一度も相談しなかった、と数人はCNBCに語った。
-現在、コロッサス II とそのガス燃焼タービンから出る騒音は「一種の拷問のようだ」と、現場から 1 マイル以内に家があるミシガン州サウスヘブンのジェイソン・ヘイリー氏は語った。サウスヘイブンはグレーター メンフィス地域の一部です。
-反対派の台頭
-データセンターに対する反対は高まっており、それは xAI に対する反対だけでなく、Microsoft、Meta、Google、OpenAI、およびその他のいわゆるハイパースケーラーによる計画または進行中の開発に対抗するものでもあります。
-ギャラップの世論調査によると、5月にはアメリカ人の10人中7人が地元でのAI用データセンターの建設に反対していると回答した。ほぼ半数の48％が「強く反対」と回答した。
-マスク氏ですら、AIデータセンターやそれを運営する発電所に対する国民の嫌悪感を認めている。
-マスク氏はスペースXのIPOに先立つロードショーでJPモルガンのジェイミー・ダイモン最高経営責任者（CEO）とのインタビューで「自宅の裏庭に発電所を置きたいと思う人はほとんどいない」と語った。 「例えば、米国の電力使用量を2倍にしたければ、2倍の発電所を建設しなければならないだろう。ほとんどの地域社会はそれについてあまり乗り気ではない」と彼は言う。
-マスク氏とスペースX社は、メンフィスでの建設に対する反発について複数のコメント要請に応じなかった。
-SpaceXAI は、データセンターと発電所のためにグレーター メンフィスにある 1,100 エーカー以上の土地を購入しました。
-データセンターは当初、xAI の Grok AI モデルとチャットボットをトレーニングおよび実行するために建設されましたが、これについては論争が巻き起こりました。
-データセンターは何十年も前から存在していましたが、生成 AI がデータ処理と電力の需要の爆発的な増加を引き起こした後、建設ブームが始まりました。通常、施設には広大な土地、内部のチップやサーバーに電力を供給するためのエネルギー、ハイテク機器を冷却するための水を必要とします。
-データセンターはその複雑さにもかかわらず、一度構築されてしまえば、運用に大規模な労働力を必要とせず、常に膨大な数の新たな雇用や巨額の税収を生み出すわけでもありません。
-メンフィスの住民と気候変動擁護者は、他のコミュニティが最新の規制を推進したり、データセンター開発者とのより有利な取引を推進したりするために学んだ教訓を活用して、自分たちの経験を教訓として共有しています。
-彼らの証言は、メンフィスを超えて形を成す政策、訴訟、選挙、運動に直接的および間接的に影響を与えてきました。
-たとえば、近くのオリーブブランチやジャクソンのコミュニティは、マスク氏が町に引っ越してきたときにメンフィスの住民が直面した落とし穴を避けたいという願いを理由に、ゾーニング法を更新した。
-6月、ユタ州上院議長のスチュアート・アダムスは、投資家のケビン・オレアリーが支援するデータセンター計画を支持したため、共和党予備選で敗北した。このプロジェクトを支持した他の地方公務員2人も予備選挙で敗れた。
-マスク氏のColossus Iデータセンターはわずか122日で完成したと同氏は2024年9月2日の投稿で述べ、データセンターがオンラインになったと発表した。
-データセンター事業の同郡への導入に尽力したメンフィス市長のポール・ヤング氏によると、スペースXAIは運営初年度に2500万ドルの税金を支払い、シェルビー郡内ではフェデックスに次いで2番目に大きな納税施設となったという。
-「このプロジェクトが始まって以来、私たちは潜在的なマイナスの影響をどのように軽減し、プラスの影響をどのように増幅するかを検討していました」とヤング氏は語った。同氏は、スペースX社がコロッサスの設備を冷却するための大量の水の必要性を減らすことを目的とした水リサイクルプラントの建設の遅れなど、約束したすべてをまだ達成していないことを認めた。
-グレーターメンフィス周辺の住民はCNBCに対し、SpaceXAIが町に移転してから水道代と電気代が上がったと語った。
-メンフィス・ライト・ガス・アンド・ウォーターは、水道料金と電気料金はSpaceXAIによって「影響を受けていない」と述べた。
-電力会社の広報担当者は電子メールでＣＮＢＣに対し、「２０２４年から３年間で４％の電気料金値上げ計画はデータセンターの負荷によるものではない」と語った。
-法廷闘争
-昨年、ヘイリーさんは騒音測定を行い、意識を高め、会社や自治体の指導者に変革を促すために、Safe and Sound Coalition と呼ばれる近隣団体に参加しました。
-サウスヘイブン市長のダレン・マッセルホワイト氏は3月、騒音に対する「取り締まりをさらに強化する」と約束したが、CNBCが読んだ電子メールの中でヘイリー氏に「家を売却することを検討したほうがいいかもしれない」と語った。
-マッセルホワイト氏は木曜日、CNBCに電子メールで「騒音の懸念を軽減するために数え切れないほどの時間を費やしてきた」と述べ、「市民に移動するように言ったことは一度もなかった」と語った。
-ヘイリー氏と他のサウスヘイブン住民は、スペースX社がコロッサスIIの騒音で「公共迷惑」を引き起こしたとして、今年6月に提起された集団訴訟で同社を訴えた。
-彼らの足跡をたどり、ウィスコンシン州マウントプレザントにあるマイクロソフトのフェアウォーターデータセンターの近隣住民は今月、騒音問題をめぐって集団訴訟を提起した。
-4月、南部環境法センターとアースジャスティスはNAACPを代表してマスク氏の会社をミシシッピ州の連邦裁判所に告訴した。彼らは、同社が必要​​な許可なしに数十台のガス燃焼タービンを使用し、施設に電力を供給するために最初から汚染対策を講じずに連邦大気浄化法に違反したと主張している。
-メーカーの仕様書によると、SpaceXAIがメンフィスで使用しているタービンの種類は、スモッグを形成する窒素酸化物を年間数千トン排出する可能性がある。 SpaceXAIはまた、建設や運営から「PM 2.5」または「粒子汚染」と呼ばれる粒子状物質を排出している。
-NAACPの弁護士らは5月、スペースX社がサウスヘイブンで数十基のタービンを使用することを差し止める緊急差し止め命令を判事に求めた。米国司法省はすぐに介入し、裁判所に訴訟を放棄するよう求めた。
-先月の介入動議の一環として司法省は、スペースXAIの技術はイランにおけるアメリカの軍事作戦に使用されており、今や国家安全保障にとって極めて重要であると述べた。彼らはまた、この訴訟は米国の国家、経済、エネルギーの安全保障を「脅かしている」と主張した。
-SpaceXはNAACP訴訟に対して弁護しており、現在敷地内に設置されているタービンは一時的なものにすぎず、汚染防止を備えた許可されたタービンの計画が策定されていると主張している。
-NAACPは1月、「ダーティデータ」から身を守る方法についてのコミュニティ向けガイドと、メンフィスで経験したSpaceXAIのような近隣住民との衝突を避けるために企業が従うことができる枠組みを発表した。
-NAACP環境・気候正義センターを率いるエイブレ・コナー弁護士は、SpaceXAIやその他の企業がすでに産業汚染が発生している地域に移転しており、「地域住民の多くが長い間そこから抜け出すために戦ってきた犠牲ゾーンをさらに深めている」と述べた。
-住民の大多数が黒人であるテネシー州ホワイトヘブンで、長年住んでいるロレッタ・ソーントンさんは、退職金と貯蓄の一部をコロッサス2世のフェンスラインに接する自宅の建て替えに投資したと語った。
-同氏は、特に住宅費と金利が上昇している状況では、売却して引っ越しするという提案は実現可能ではないと思われると述べた。
-「あなたはただこれに耐えなければなりません。そしてそれが私がしているすべてです」とソーントンは言いました。 「自分の不動産を売却できないことはわかっています。この物件の隣に住んで、誰がそれを買いたいと思うでしょうか？」
--- CNBCプロデューサーのアンドリュー・エヴァーズ氏が報道に貢献した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html",
-    publishedAt: "2026-07-17T00:49:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "spacex-aborts-starship-test-flight-sendi-bd966a0d",
-    title: "SpaceX aborts Starship test flight, sending stock lower",
-    titleJa: "スペースX、スターシップの試験飛行を中止、株価下落",
-    summaryJa: "スペースXは木曜日、巨大ロケット「スターシップ」の打ち上げを取り消し、最高経営責任者（CEO）のイーロン・マスク氏は「できれば数日以内に」再挑戦することを約束した。90分間の打ち上げ枠は午後6時45分に開いた。東部時間後、数分以内に、この再利用ロケットメーカーはライブストリームでその日は活動を休止すると発表した。",
-    bodyOriginal: `SpaceX scrubbed the launch of its Starship mega rocket on Thursday, with CEO Elon Musk pledging to make another attempt "hopefully in a few days."
-A 90-minute launch window opened at 6:45 p.m. ET, and within minutes, the reusable rocket maker announced on a livestream that it was standing down for the day.
-"Some of the engines didn't start, triggering an automatic launch abort," Musk wrote in a post on X. He added later in another X post: "To be confident of a good flight, 2 Raptors will be removed & replaced. Most probable launch timing is early next week."
-Shares of SpaceX fell more than 3% in extended trading, sinking further beneath its IPO price of $135. The stock is on a five-day losing streak.
-The rocket was poised for takeoff from SpaceX's Starbase complex in South Texas when a hold was triggered on the booster, which "shut down the engines right as they were starting to ignite," a SpaceX employee said on the livestream.
-It would've been the first test flight of Starship V3, an upgraded version of its roughly 400-foot-tall rocket, since SpaceX's blockbuster initial public offering last month.
-An earlier V3 test launch in May did not go perfectly.
-After a successful liftoff, several engines in the bottom stage of the rocket failed to reignite to help guide it to a soft landing, causing it to plummet into the Gulf of Mexico.
-The Federal Aviation Administration ordered SpaceX to investigate the anomaly, and on Monday, the agency cleared Starship to fly again.
-"The final mishap report cites two most probable root causes for the loss of the Super Heavy booster as heat effects on propulsion system components during the ascent and erroneous engine alarm system settings," the FAA said in a statement.
-SpaceX identified four corrective actions, including vehicle hardware and software updates, "to prevent a reoccurrence of the event," the agency said.
-As part of Thursday's mission, Starship planned to ferry 20 functioning, next-generation Starlink satellites, which were expected to extend their solar arrays and antennas, then attempt to connect with the broader Starlink constellation, SpaceX said. The satellites are expected to "demise upon reentry approximately 20 minutes after deployment," the company noted.
-Investors are closely watching the 13th Starship test flight as the giant rocket is key to SpaceX ambitions to scale its Starlink satellite internet service, and to complete Artemis test flights with NASA as it aims for the U.S. space agency's next moon landing.
-Since they hit the public markets last month, SpaceX shares have skyrocketed, then fallen, and briefly dipped below their $135 IPO price on Wednesday. The stock continued to fall on Thursday, sliding more than 3% to close at $131.11.
-With the IPO, SpaceX raised a total of $85.7 billion, including the underwriters' option, making it the largest IPO on record.
-— CNBC's Lora Kolodny contributed reporting to this article.`,
-    bodyJa: `スペースXは木曜日、巨大ロケット「スターシップ」の打ち上げを取り消し、最高経営責任者（CEO）のイーロン・マスク氏は「できれば数日以内に」再挑戦することを約束した。
-90分間の打ち上げ枠は午後6時45分に開いた。東部時間後、数分以内に、この再利用ロケットメーカーはライブストリームでその日は活動を休止すると発表した。
-マスク氏はXへの投稿で「エンジンの一部が始動せず、自動打ち上げ中止を引き起こした」と書き、その後別のXへの投稿で「良好な飛行を確信するため、2機のラプターを取り外して交換する。最も可能性の高い打ち上げ時期は来週初めだ」と付け加えた。
-スペースXの株価は延長取引で3％以上下落し、IPO価格の135ドルをさらに下回った。株価は5日連続で下落している。
-ロケットはテキサス州南部にあるスペースXのスターベース複合施設から離陸の準備をしていたところ、ブースターのホールドが作動し、「点火が始まると同時にエンジンが停止した」とスペースXの従業員がライブストリームで語った。
-これは、高さ約400フィートのロケットのアップグレード版であるスターシップV3の、先月の大ヒット株式公開以来、初の試験飛行となるはずだった。
-5 月に行われた V3 テストの開始は完全には完了しませんでした。
-打ち上げが成功した後、ロケットの下段にあるいくつかのエンジンが再点火して軟着陸に導くことができず、ロケットはメキシコ湾に急落した。
-米連邦航空局はスペースXに異常の調査を命じ、月曜日、同局はスターシップの再飛行を許可した。
-FAAは声明で、「最終事故報告書では、スーパーヘビーブースター喪失の最も考えられる根本原因として、上昇中の推進システム部品への熱影響と、エンジン警報システムの設定ミスの2つを挙げている」と述べた。
-スペースXは「事故の再発を防ぐ」ため、車両のハードウェアとソフトウェアのアップデートを含む4つの是正措置を特定したと同局は述べた。
-木曜日のミッションの一環として、スターシップは、太陽電池アレイとアンテナを拡張し、より広範なスターリンク星座との接続を試みることが期待される、機能する次世代スターリンク衛星20基を輸送することを計画していた、とスペースXは述べた。同社は、衛星は「展開後約20分後に再突入時に消滅」すると予想されていると述べた。
-巨大ロケットは、スターリンク衛星インターネットサービスを拡大し、米国宇宙機関の次の月面着陸を目指すNASAとのアルテミス試験飛行を完了するというスペースXの野望の鍵となるため、投資家は13回目のスターシップ試験飛行に注目している。
-先月公開市場に登場して以来、スペースX株は急騰した後下落し、水曜日には一時公開価格の135ドルを下回った。株価は木曜日も下落を続け、3％以上下落して131.11ドルで取引を終えた。
-今回のIPOでスペースXは引受会社オプションを含め総額857億ドルを調達し、史上最大のIPOとなった。
-— CNBC の Lora Kolodny がこの記事にレポートを寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/16/spacex-spcx-stock-starship-test-flight.html",
-    publishedAt: "2026-07-17T00:16:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "netflix-is-getting-stingier-about-its-vi-034703e8",
-    title: "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
-    titleJa: "Netflixは視聴データについてますますケチになっているが、ウォール街は不満を抱いている",
-    summaryJa: "Netflixの株価は、業績がまちまちであることと、「私たちが見たもの」レポートの発行を削減するという新たな計画を受けて下落している。",
-    bodyOriginal: `Netflix’s stock is falling in the wake of mixed earnings and a new plan to cut back on the publication of ‘What We Watched’ reports.`,
-    bodyJa: `Netflixの株価は、業績がまちまちであることと、「私たちが見たもの」レポートの発行を削減するという新たな計画を受けて下落している。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
-    publishedAt: "2026-07-17T00:14:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-80154349",
-    readTime: 2,
   },
 ];
 
