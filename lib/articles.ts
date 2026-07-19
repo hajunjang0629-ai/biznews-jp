@@ -15,6 +15,256 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "andrew-tate-and-brother-arrested-in-us-a-74ad62f8",
+    title: "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+    titleJa: "アンドリュー・テートと弟、英国でさらなる容疑をかけられ米国で逮捕",
+    summaryJa: "アンドリュー・テートと弟、英国でさらなる容疑をかけられ米国で逮捕- 公開されました",
+    bodyOriginal: `Andrew Tate and brother arrested in US after more charges laid against them in UK
+- Published
+Controversial influencer Andrew Tate and his brother Tristan have been arrested in the US after British authorities announced they were bringing further charges against them.
+The UK's Crown Prosecution Service (CPS) said Andrew Tate was being charged with seven further counts of rape, as well as other charges relating to alleged crimes including sex trafficking and child pornography.
+Tristan Tate has been charged with one count of sexual assault, two counts of rape and three counts of arranging or facilitating trafficking for sexual exploitation.
+The alleged offending is said to have taken place between July 2010 and August 2017. The Tates have previously denied any wrongdoing.
+"These charging decisions followed receipt of a further file of evidence from Bedfordshire Police and bring the total number of alleged victims in this case to seven," Malcolm McHaffie, Head of the Special Crime Division at the Crown Prosecution Service, said.
+The US Marshals confirmed to the BBC that the Tates had been taken into custody, while a US Department of Justice spokesperson said the arrests were "pursuant to extradition proceedings".
+The CPS said in its statement it has requested the extradition of the brothers, who are dual British-US citizens, from the US.
+A lawyer who represents the Tates, Joseph McBride, said "the world knows Andrew and Tristan are innocent" in a statement released after their arrest on Saturday evening.
+"Their enemies know it best of all. That is exactly why they have been attacked," McBride continued, describing the new UK charges as a "political hit".
+He said the new charges were designed to counter a defamation action filed by the brothers in the US.
+"We are confident that once a competent judge sees the facts, and once the Department of Justice confronts this egregious abuse of its own authority, Andrew and Tristan Tate will walk free. America does not do Britain's political dirty work," he continued.
+In May 2025, prosecutors confirmed a list of 21 charges Andrew Tate, 39, and Tristan Tate, 37, will eventually face in the UK.
+These alleged offences are said to have taken place between 2012 and 2016.
+In 2024, Bedfordshire Police secured European arrest warrants for the pair to have them returned from Romania, where they are based and are under criminal investigation.
+In June, the brothers lost a legal bid to be told the names of their UK accusers, after the CPS decided it was necessary to withhold the names of their alleged victims until legal action formally started.`,
+    bodyJa: `アンドリュー・テートと弟、英国でさらなる容疑をかけられ米国で逮捕
+- 公開されました
+物議を醸しているインフルエンサーのアンドリュー・テートと弟のトリスタンが、イギリス当局が彼らをさらに告発すると発表した後、アメリカで逮捕された。
+英国の検察庁（CPS）は、アンドリュー・テートがさらに7件の強姦罪のほか、性的人身売買や児童ポルノなどの犯罪容疑に関連した罪で起訴されていると発表した。
+トリスタン・テートは、性的暴行1件、強姦2件、性的搾取のための人身売買の斡旋または幇助3件で起訴されている。
+容疑は2010年7月から2017年8月の間に起きたとされるが、テート夫妻はこれまで不正行為を否定していた。
+英国検察庁のマルコム・マクハフィー特殊犯罪部門責任者は、「ベッドフォードシャー警察からさらなる証拠ファイルを受け取った後の起訴決定で、この事件の被害者とされる人の総数は7人になった」と述べた。
+米国連邦保安官らはBBCに対し、テーツ氏が拘留されたことを確認したが、米国司法省報道官は逮捕は「引き渡し手続きに基づく」ものであると述べた。
+CPSは声明の中で、英国と米国の二重国籍である兄弟の引き渡しを米国に要請したと述べた。
+テート夫妻の代理人を務めるジョセフ・マクブライド弁護士は、土曜夕方の逮捕後に発表した声明で「アンドリューとトリスタンが無実であることは世界が知っている」と述べた。
+「彼らの敵はそれを一番よく知っている。まさにそれが彼らが攻撃されている理由だ」とマクブライド氏は続け、英国の新たな告発を「政治的打撃」と表現した。
+同氏は、新たな告発は米国で兄弟らが起こした名誉毀損訴訟に対抗することを目的としていると述べた。
+「ひとたび有能な裁判官が事実を認識し、司法省がこのひどい職権濫用に立ち向かうと、アンドリュー・テートとトリスタン・テートは自由の身になるだろうとわれわれは確信している。米国は英国のような政治的な汚い仕事はしない」と同氏は続けた。
+2025年5月、検察当局はアンドリュー・テート被告（39歳）とトリスタン・テート被告（37歳）が英国で最終的に直面することになる21件の容疑のリストを確認した。
+これらの犯罪容疑は2012年から2016年の間に起きたと言われている。
+2024年、ベッドフォードシャー警察は、2人が本拠地を置き、犯罪捜査を受けているルーマニアから帰国させるための欧州逮捕状を確保した。
+6月、CPSが正式に訴訟が始まるまで被害者とされる人々の名前を伏せる必要があると判断したため、兄弟たちは英国での告発者の名前を明らかにするよう求めた法的入札に敗れた。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-19T02:17:07+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
+    readTime: 3,
+  },
+  {
+    id: "two-us-troops-killed-and-one-missing-aft-8374dfba",
+    title: "Two US troops killed and one missing after Iranian attack in Jordan",
+    titleJa: "ヨルダンでのイラン攻撃後、米軍兵士2名が死亡、1名が行方不明",
+    summaryJa: "ヨルダンでのイラン攻撃後、米軍兵士2名が死亡、1名が行方不明- 公開されました",
+    bodyOriginal: `Two US troops killed and one missing after Iranian attack in Jordan
+- Published
+Two US service members were killed and one remains missing after Iranian ballistic missile and drone attacks in Jordan on Friday, military officials said.
+The US Central Command (Centcom) said four US service members were medically evacuated to Jordan hospitals but have since been discharged. Others who had minor injuries have returned to duty.
+US military officials did not disclose the identities of those killed, nor provide details about the circumstances or location of the incident.
+On Saturday night the US launched another round of air strikes against Iran at President Donald Trump's direction, Centcom said.
+The strikes - for the eighth night in a row - are "designed to further degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz", the statement said.
+The strikes aim to "swiftly punish Islamic Revolutionary Guard Corps forces who launched attacks against American service members in Jordan last night," the statement continued, without providing further details.
+It followed a week of renewed hostilities in which Washington reimposed its blockade of Iranian ports and Tehran declared the Strait of Hormuz closed, as their preliminary ceasefire collapsed less than a month after it began.
+Late on Saturday, Iran's Supreme Leader Mojtaba Khamenei said in a written statement that America's "repeated breaches" of the agreement had "laid bare a fundamental truth: the signature of the US president is utterly worthless and devoid of credibility".
+Khamenei, who has not been seen in public since the attack which killed his father at the start of the war, accused the US of seeking to "escalate the conflict" and said Iran had "unforgettable lessons in store for it".
+Jordan's military earlier said it had intercepted 10 Iranian missiles fired into its airspace overnight, without reporting any damage.
+The US death toll in the conflict has now risen to 16 after an American Navy pilot who went missing earlier this month was declared dead, marking the second increase in the toll this week.
+In a statement on Saturday, Centcom said: "Two US service members in Jordan were killed in action as US Central Command (Centcom) and partner forces defended against Iranian ballistic missile and drone attacks. Additionally, one service member is currently missing.
+"Out of respect for the families, Centcom will withhold additional information, including the identities of the fallen warriors, until 24 hours after the next of kin have been notified."
+Responding to the announcement of the deaths, US Defence Secretary Pete Hegseth wrote on X: "Godspeed, heroes. Their sacrifice only stiffens our resolve."
+The Islamic Revolutionary Guard Corps (IRGC) said it had destroyed at least two US fighter aircraft early on Saturday on Al-Azraq base in Jordan, according to Iranian state media.
+The BBC contacted Centcom regarding this report but it declined to add further details.
+Separately on Saturday, the US Department of State issued a notice advising Americans worldwide, but particularly in the Middle East, to exercise "increased caution".
+The travel notice urged those in the region to "monitor the news for breaking developments", adding: "Due to heightened tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation."
+Trump threatens to bomb bridges and power plants unless Iran resumes talks
+- Published3 days ago
+Trump retreat over Hormuz tolls suggests he is struggling to end Iran war
+- Published4 days ago
+Washington and Tehran struck a preliminary deal to end the war in June, but the agreement unravelled within weeks - with Trump declaring the agreement "over" on 8 July.
+At least 50 people have been killed and more than 500 injured in US strikes over the past three weeks, Iranian state media reported citing the country's health ministry.
+Thousands more have been killed across the Middle East since the US-Israeli war with Iran began on 28 February, official figures show, with the vast majority coming from Iran and Lebanon.
+As well as military targets, both Iran and the US have been accused of striking critical infrastructure in recent days.
+The US denied Iranian accusations that it had hit bridges, a train station and an airport earlier this week. Washington said it had exclusively struck military targets. BBC Verify confirmed an attack on a bridge in Hormozgan province.
+Trump had threatened on Tuesday to strike Iran's bridges and power plants next week if the country did not return to talks.
+Meanwhile, the Gulf Cooperation Council accused Tehran of deliberately targeting civilian infrastructure in the region. After Iran said it had responded to US strikes by targeting American Gulf allies on Saturday, Kuwait said a power plant and a water distillation plant had been hit.
+Jasem Mohamed Albudaiwi, who leads the council representing Saudi Arabia, Kuwait, Qatar, Bahrain, the United Arab Emirates and Oman, said such action amounted to "war crimes".
+Under international law, attacking civilians or civilian areas is illegal. However, in certain circumstances, civilian objects - like a bridge or a power plant - lose their protection if they are used to support the enemy's war effort.
+This week also saw Trump reimpose the US blockade of Iranian ports, under which Centcom said five commercial vessels had been "redirected" and one had been disabled as of Saturday.
+Iran meanwhile declared the Strait of Hormuz shut, causing traffic to grind to a halt through the vital shipping channel through which around a fifth of the world's oil and liquefied natural gas ordinarily passes.
+Trump said on Monday that all vessels transiting the strait - including those of US allies - would have to pay a 20% fee to do so, before abandoning the proposal altogether on Tuesday, saying it would instead be replaced by trade deals with Gulf allies.
+Related topics
+- Published9 hours ago`,
+    bodyJa: `ヨルダンでのイラン攻撃後、米軍兵士2名が死亡、1名が行方不明
+- 公開されました
+金曜日にヨルダンでイランの弾道ミサイルと無人機による攻撃があり、米軍関係者２人が死亡、１人が行方不明となったと軍関係者が明らかにした。
+米中央軍（セントコム）は、米軍人４人が医学的にヨルダンの病院に避難したが、その後退院したと発表した。軽傷を負った他の人たちは任務に復帰した。
+米軍当局者は殺害された人々の身元を明らかにしておらず、事件の状況や場所についての詳細も明らかにしていない。
+セントコムによると、土曜夜、米国はドナルド・トランプ大統領の指示でイランに対する追加空爆を開始した。
+声明によると、今回の攻撃は８夜連続で「ホルムズ海峡の商船を脅かすイランの能力をさらに低下させることを目的としている」という。
+声明は、今回の空爆は「昨夜ヨルダンで米軍人に対して攻撃を開始したイスラム革命防衛隊を迅速に処罰する」ことを目的としていると続けたが、さらなる詳細は明らかにしなかった。
+それは、米国政府がイラン港湾封鎖を再発動し、イラン政府がホルムズ海峡閉鎖を宣言した1週間の新たな敵対行為に続き、予備的な停戦開始から1か月も経たないうちに崩壊した。
+土曜日遅く、イランの最高指導者モジタバ・ハメネイ師は書面による声明で、米国による合意の「度重なる違反」は「米国大統領の署名はまったく価値がなく、信頼性を欠いているという根本的な真実を明らかにした」と述べた。
+ハメネイ師は、戦争開始時に父親を殺害した攻撃以来、公の場に姿を現していないが、米国が「紛争の激化」を狙っていると非難し、イランには「忘れられない教訓が待っている」と述べた。
+ヨルダン軍はこれに先立ち、領空に向けて発射されたイラン製ミサイル１０発を一晩で迎撃したが、被害報告はなかったと発表した。
+今月初めに行方不明になった米海軍パイロットの死亡が確認されたことを受け、紛争による米国の死者数は16人に増え、今週2回目の増加となった。
+セントコムは土曜日の声明で、「ヨルダン駐留の米軍人２名が、米中央軍（セントコム）と提携部隊がイランの弾道ミサイルと無人機攻撃を防御する中、戦闘中に死亡した。また、軍人１名が現在行方不明となっている」と述べた。
+「遺族に敬意を表し、セントコムは、近親者に通知されてから24時間後まで、戦死した戦士の身元を含む追加情報を差し控える。」
+死亡の発表を受けて、ピート・ヘグセス米国防長官はXに次のように書いた：「神速の英雄よ。彼らの犠牲は私たちの決意を固くするだけです。」
+イラン国営メディアによると、イスラム革命防衛隊（IRGC）は土曜日早朝、ヨルダンのアル・アズラク基地で少なくとも2機の米軍戦闘機を破壊したと発表した。
+BBCはこの報道に関してセントコムに問い合わせたが、さらなる詳細の追加は拒否された。
+これとは別に土曜日、米国務省は世界中、特に中東の米国人に対し「一層の警戒」を行うよう勧告する通知を出した。
+渡航通知では、この地域の人々に「最新の展開についてニュースに注意する」よう呼び掛け、「中東での緊張の高まりにより、安全保障環境は依然として複雑で、予期せぬエスカレーションの可能性がある」と付け加えた。
+トランプ大統領、イランとの協議再開がなければ橋や発電所を爆撃すると脅す
+- 3 日前に公開
+ホルムズ通行料問題でトランプ大統領が撤退、イラン戦争終結に苦戦していることを示唆
+- 4 日前に公開
+米国とイランは6月に戦争終結に向けた暫定合意を結んだが、合意は数週間以内に解消され、トランプ大統領は7月8日に合意は「終わった」と宣言した。
+イラン国営メディアは同国の保健省の話として、過去３週間の米国の空爆で少なくとも５０人が死亡、５００人以上が負傷したと報じた。
+公式統計によると、2月28日に米国・イスラエルとイランの戦争が始まって以来、中東全域でさらに数千人が殺害され、その大部分がイランとレバノンからのものである。
+軍事目標だけでなく、イランと米国の両国はここ数日、重要インフラを攻撃したとして非難されている。
+米国は今週初めに橋、駅、空港を攻撃したというイランの主張を否定した。米国政府は軍事目標のみを攻撃したと述べた。 BBCヴェリファイはホルモズガン州の橋への攻撃を確認した。
+トランプ大統領は火曜日、イランが協議に復帰しなければ来週イランの橋と発電所を攻撃すると脅迫した。
+一方、湾岸協力会議はイラン政府が地域の民間インフラを意図的に標的にしていると非難した。イランが土曜日、米国の湾岸同盟国を標的にして米国の攻撃に応じたと発表したことを受け、クウェートは発電所と蒸留所が攻撃を受けたと発表した。
+サウジアラビア、クウェート、カタール、バーレーン、アラブ首長国連邦、オマーンを代表して評議会を率いるジャセム・モハメド・アルブダイウィ氏は、こうした行為は「戦争犯罪」に当たると述べた。
+国際法の下では、民間人や民間地域への攻撃は違法です。ただし、特定の状況では、橋や発電所などの民間の物体が敵の戦争努力を支援するために使用された場合、その保護が失われます。
+今週はトランプ大統領が米国によるイラン港湾封鎖を再発動し、セントコムは土曜日の時点で商船５隻が「方向転換」され、１隻が航行不能になったと発表した。
+一方、イランはホルムズ海峡の閉鎖を宣言し、通常、世界の石油と液化天然ガスの約5分の1が通過する重要な輸送路の交通が停止した。
+トランプ大統領は月曜日、米国の同盟国の船舶も含め、この海峡を通過するすべての船舶はそのために20％の手数料を支払わなければならないと述べ、その後火曜日にはこの提案を完全に放棄し、その代わりに湾岸同盟国との通商協定に置き換えると述べた。
+関連トピック
+- 9 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-19T00:18:47+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb90/live/f934e660-82d3-11f1-a42c-29abcdb2a052.jpg",
+    readTime: 6,
+  },
+  {
+    id: "russians-turn-to-cash-putting-more-strai-487c9543",
+    title: "Russians turn to cash, putting more strain on slowing wartime economy",
+    titleJa: "ロシア人は現金に目を向け、戦時経済の減速にさらに負担をかける",
+    summaryJa: "ロシア人は現金に目を向け、戦時経済の減速にさらに負担をかける- 公開されました",
+    bodyOriginal: `Russians turn to cash, putting more strain on slowing wartime economy
+- Published
+Russians are returning to cash, as mobile internet shutdowns disrupt card payments, and more businesses seek to dodge tax under mounting financial pressure more than four years into the war with Ukraine.
+Russia has added 1.56tn roubles (£14.8bn; $20bn) in cash into circulation since the start of the year - the biggest rise for the equivalent period in any year outside the Covid-19 pandemic, according to Central Bank figures analysed by the BBC.
+The spike comes amid a wave of Ukrainian drone attacks, which have repeatedly led the Kremlin to shut down mobile internet across large swathes of the country, leaving many unable to pay by card. The government says the aim of the shutdowns is to counter the drone strikes.
+"Having cash on hand gives you some sense of control and security," one woman in Moscow told the BBC on condition of anonymity. "If there's an emergency in the city, I know I'll still be able to buy basic necessities, even if the mobile network goes down."
+The latest increase follows several earlier wartime surges in cash withdrawals as Russians have sought a buffer against uncertainty.
+Cash in circulation jumped after President Vladimir Putin announced a partial mobilisation in September 2022 and during a brief mutiny by the Wagner mercenary group in June 2023.
+Now, the shift is making it harder for the state to collect tax, just as it faces a widening budget deficit and needs every rouble it can raise to fund the war in Ukraine.
+Although Russia's oil and gas sector, which accounts for about a quarter of state revenues, has benefited from a recent rise in oil prices following the Iran war, the broader economy is slowing.
+In May, the Russian economy ministry cut its GDP growth forecast to 0.4% for 2026, putting the country on course for its weakest economic growth since 2022.
+To boost revenues, the Kremlin hiked VAT from 20% to 22% in January, and lowered the threshold at which small and medium-sized businesses have to pay it, pushing many already struggling firms to the brink.
+With margins squeezed by higher taxes and a slowing economy, pharmacies, restaurants, beauty salons and corner shops are increasingly steering customers towards cash to keep more income off the books.
+"Stalls at our market have been closing one after another because it's no longer profitable to stay open," said one woman, who runs a small clothing shop at a market in the western city of Pskov.
+"Most of those still trading ask customers to pay in cash whenever they can, so less money goes through the till."
+Taras Skvortsov, chief financial officer of Russia's largest lender Sberbank, warned last month that there were "very serious signs" that more businesses were paying wages "in envelopes" under the table.
+"This is a very worrying moment... We are not seeing cash return to the banking system through cash collection, ATMs or self-service terminals," said Skvortsov, in comments cited by state news agency Interfax. "It is staying in people's hands".
+About 6% of entrepreneurs said they had turned to "grey schemes" to cope with the new tax burden, including avoiding cash-register receipts, according to a May survey by Russia's largest SME association, Opora Russia.
+Cash payments help businesses understate turnover to stay below the VAT threshold, while cash wages help them avoid payroll taxes.
+Cracking down on the shadow economy has become a key goal for the Kremlin. Before the VAT rise took effect, Putin warned the new rules must not push firms into the shadows and called for a "radical reduction in illegal employment".
+"One arm of the government is trying to squeeze as much money as possible out of people through higher taxes, fines and other charges," Alexander Kolyandr, a non-resident senior fellow at the Center for European Policy Analysis, told the BBC.
+"But another, in trying to counter so-called terrorist threats, is undermining that strategy by making it harder to collect tax," he said, referring to the mobile internet shutdowns.
+The Soviet-era instinct to keep money "under the mattress" is making a comeback despite double-digit returns on bank deposits, which have been kept high as the central bank battles stubborn, war-fuelled inflation.
+A 100,000-rouble (£950; $1,280) one-year fixed-term deposit at Sberbank, Russia's largest lender, currently pays 10% interest.
+Even so, central bank data showed Russians withdrew 550bn roubles from bank accounts in May, including 200bn roubles from fixed-term deposits.
+Anton, a copywriter living in Moscow, said a vendor at a vinyl shop offered him a discount for paying in cash. "He was upfront about the reason, higher taxes," he told the BBC.
+When mobile internet shutdowns intensified during heightened security around Russia's Victory Day celebrations in May, he said he saw people struggling to withdraw money to spend at a flower market in central Moscow.
+"There was a woman going from one ATM to another, looking for one that still had banknotes."`,
+    bodyJa: `ロシア人は現金に目を向け、戦時経済の減速にさらに負担をかける
+- 公開されました
+モバイルインターネットの閉鎖でカード決済ができなくなり、ウクライナとの戦争開始から4年以上が経ち財政圧力が高まる中、税金を逃れようとする企業が増えているため、ロシア人は現金に戻りつつある。
+BBCが分析した中央銀行の統計によると、ロシアは年初以降、1兆5600億ルーブル（148億ポンド、200億ドル）の現金流通を追加しており、新型コロナウイルス感染症パンデミック以外の同時期の同時期で最大の増加となった。
+この急増は、ウクライナの無人機攻撃の波の最中に起きたもので、この攻撃によりクレムリンは国の広い範囲でモバイルインターネットを繰り返し遮断し、多くの人がカードで支払うことができなくなった。政府は閉鎖の目的はドローン攻撃に対抗することだとしている。
+「手元に現金があると、ある程度のコントロールと安心感が得られる」とモスクワ在住の女性は匿名を条件にBBCに語った。 「市内で緊急事態が発生した場合、たとえ携帯電話ネットワークがダウンしても、基本的な必需品を買うことができるとわかっています。」
+今回の増加は、ロシア国民が不確実性に対する緩衝材を求めていたため、戦時中に現金引き出しが数回急増したことを受けてのものである。
+2022年9月にウラジーミル・プーチン大統領が部分動員を発表した後と、2023年6月のワーグナー傭兵集団による短期間の反乱の際、現金流通額が急増した。
+現在、この変化により、国家は財政赤字の拡大に直面し、ウクライナ戦争資金として集められるあらゆるルーブルを必要としているため、税金を徴収することが困難になっている。
+国家歳入の約4分の1を占めるロシアの石油・ガス部門は、イラン戦争後の最近の原油価格上昇の恩恵を受けているが、経済全体は減速している。
+ロシア経済省は5月、2026年のGDP成長率予想を0.4％に引き下げ、ロシアは2022年以来最低の経済成長に向かうとの見通しを示した。
+収入を増やすため、クレムリンは1月に付加価値税を20％から22％に引き上げ、中小企業が支払わなければならない付加価値税の基準値を引き下げ、すでに苦境に立たされている多くの企業を瀬戸際に追い込んだ。
+増税と景気減速で利益率が圧迫されているため、薬局、レストラン、美容院、街角の商店は、帳簿からさらに多くの収入を確保するために、ますます顧客を現金に誘導する傾向にある。
+西部の都市プスコフの市場で小さな衣料品店を営むある女性は、「私たちの市場の露店は次々と閉店している。営業し続けるのはもはや利益ではないからだ」と語った。
+「今も取引を続けている業者のほとんどは、顧客に可能な限り現金で支払うよう求めており、そのためレジを通過するお金が減ります。」
+ロシア最大の金融業者ズベルバンクの最高財務責任者、タラス・スクヴォルツォフ氏は先月、賃金をテーブルの下に「封筒に入れて」支払う企業が増えているという「非常に深刻な兆候」があると警告した。
+国営通信社インタファクスが引用したコメントの中でスクヴォルツォフ氏は、「これは非常に憂慮すべき瞬間だ…現金回収やＡＴＭ、セルフサービス端末を通じて銀行システムに現金が戻ってくる様子は見られない」と述べた。 「人の手に残る」。
+ロシア最大の中小企業団体オポラ・ロシアの5月の調査によると、起業家の約6％が、新たな税負担に対処するためにレジでの領収書の回避など「灰色の制度」に頼ったと回答した。
+現金支払いは、企業が売上高を VAT 基準値以下に抑えるのに役立ち、現金給与は給与税を回避するのに役立ちます。
+影の経済の取り締まりはクレムリンの重要な目標となっている。付加価値税の引き上げが発効する前に、プーチン大統領は、新規則が企業を影の中に追いやってはならないと警告し、「不法雇用の抜本的削減」を求めた。
+欧州政策分析センターの非居住者上級研究員アレクサンダー・コリャンドル氏は、「政府の一部門は、増税や罰金、その他の課徴金を通じて国民からできるだけ多くの金を搾り取ろうとしている」とBBCに語った。
+「しかし、いわゆるテロの脅威に対抗しようとするもう一つの脅威は、税金の徴収を困難にすることでその戦略を台無しにしている」と同氏はモバイルインターネットの遮断に言及しながら述べた。
+中央銀行が頑固な戦争に煽られたインフレと闘う中、銀行預金の収益率が2桁に達しているにもかかわらず、高水準を維持しているにもかかわらず、お金を「マットレスの下」に保管しておこうというソ連時代の本能が復活しつつある。
+ロシア最大の金融業者であるズベルバンクの10万ルーブル（950ポンド、1,280ドル）の1年定期預金には現在10％の利子が付いている。
+それでも、中央銀行のデータによると、ロシア人は5月に定期預金の2000億ルーブルを含む5500億ルーブルを銀行口座から引き出した。
+モスクワ在住のコピーライター、アントンさんによると、ビニールショップの売り子が現金で支払うと割引を申し出たという。 「彼は増税の理由について率直に語った」と同氏はBBCに語った。
+5月のロシア戦勝記念日の祝賀行事に伴う警備強化でモバイルインターネットの遮断が激化した際、モスクワ中心部の花市場で人々がお金を引き出すのに苦労しているのを目撃したと同氏は語った。
+「あるATMから別のATMへ行き、まだ紙幣が残っているATMを探している女性がいました。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-18T23:59:26+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/685838d0-81b2-11f1-bc34-d11e2a8fe857.jpg",
+    readTime: 6,
+  },
+  {
+    id: "taylor-farms-recalls-iceberg-lettuce-in-bef3e5c6",
+    title: "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak",
+    titleJa: "テイラー・ファームズ、シクロスポラ症発生のため27州でアイスバーグレタスをリコール",
+    summaryJa: "テイラー・ファームズは、アイスバーグレタスがシクロスポリア症に汚染されている可能性があるとして、27の州で自主回収している。青果生産者は金曜夜遅くにこの動きを発表し、メディア声明で「メキシコ中部産のすべてのアイスバーグレタスを米国市場から自主的に撤去する」と述べた。",
+    bodyOriginal: `Taylor Farms is voluntarily recalling iceberg lettuce in 27 states because the greens potentially could be contaminated with cyclosporiasis.
+The fruit and vegetable producer announced the move late Friday evening, saying in a media statement that it is "voluntarily removing all iceberg lettuce sourced from central Mexico from the U.S. market."
+The tainted lettuce has been at the center of a cyclosporiasis outbreak that the Centers for Disease Control and Prevention has traced to shredded iceberg lettuce served at Taco Bell locations in 5 states, including Indiana, Kentucky, and Michigan.
+The Food and Drug Administration has said that people who are infected by the cyclospora parasite may experience flu-like symptoms and "watery diarrhea, with frequent bowel movements."
+Taylor Farms said that the potentially tainted "shredded iceberg product" was distributed June 29 through July 16 in states including Alabama, Connecticut, Georgia, Massachusetts and Texas.
+California and New York were among the states not included in the recall notice.
+"Based on information provided yesterday by the FDA, Taylor Farms de Mexico is voluntarily removing all iceberg lettuce sourced from central Mexico from the U.S. market," the company said in a statement. "While the FDA traceback is indicating a specific independent farm that represents less than 1% of the U.S.'s iceberg lettuce supply as the potential source of the outbreak, we have removed all iceberg lettuce from the region indefinitely."
+Before Taylor Farms issued the recall, Yum Brands' Taco Bell said it had removed the potentially contaminated lettuce from its restaurants.
+Walmart on Saturday posted a message on its website about the FDA's latest announcement on the Taylor Farms recall, noting that the greens may have been sold at its stores in states including Alabama, Indiana, and West Virginia.
+"The health and safety of our customers is a top priority," a Walmart spokesperson told CNBC in an emailed statement. "Although there is no indication that products sold in our stores are affected by the current Cyclospora investigations, we have removed four bagged iceberg lettuce salad products from select locations as a precaution after receiving notice from our supplier."
+The spokesperson added: "There have been no confirmed illnesses associated with these products at this time," and that the company is "working closely with our supplier and took immediate steps to remove the products from sale."`,
+    bodyJa: `テイラー・ファームズは、アイスバーグレタスがシクロスポリア症に汚染されている可能性があるとして、27の州で自主回収している。
+青果生産者は金曜夜遅くにこの動きを発表し、メディア声明で「メキシコ中部産のすべてのアイスバーグレタスを米国市場から自主的に撤去する」と述べた。
+汚染されたレタスはシクロスポラ症の発生の中心となっており、疾病管理予防センターは、インディアナ州、ケンタッキー州、ミシガン州を含む5つの州にあるタコベルの店舗で提供されていた細切りアイスバーグレタスが原因であることを突き止めた。
+食品医薬品局は、シクロスポラ原虫に感染した人はインフルエンザのような症状や「頻繁な排便を伴う水様性の下痢」を経験する可能性があると発表した。
+テイラー・ファームズは、汚染された可能性のある「氷山を細断した製品」が6月29日から7月16日にかけて、アラバマ州、コネチカット州、ジョージア州、マサチューセッツ州、テキサス州などの州で配布されたと発表した。
+カリフォルニア州とニューヨーク州はリコール通知に含まれていない州の一つだった。
+同社は声明で「昨日ＦＤＡから提供された情報に基づき、テイラー・ファームズ・デ・メキシコはメキシコ中部産のすべてのアイスバーグレタスを米国市場から自主的に撤去する」と述べた。 「FDAの追跡調査では、米国のアイスバーグレタス供給量の1％未満に相当する特定の独立農場が発生源の可能性があることが示されているが、我々はこの地域からすべてのアイスバーグレタスを無期限に撤去した。」
+テイラー・ファームズがリコールを発表する前に、ヤム・ブランズのタコベルは汚染された可能性のあるレタスをレストランから撤去したと発表した。
+ウォルマートは土曜日、テイラー・ファームのリコールに関するFDAの最新発表についてウェブサイトにメッセージを掲載し、アラバマ州、インディアナ州、ウェストバージニア州などの州の店舗で野菜が販売されていた可能性があると指摘した。
+ウォルマートの広報担当者は電子メールでの声明でＣＮＢＣに対し、「顧客の健康と安全が最優先だ」と語った。 「当社の店舗で販売されている製品が現在のシクロスポラ調査の影響を受けているという兆候はありませんが、サプライヤーからの通知を受けて、予防措置として、袋詰めのアイスバーグレタスサラダ製品4点を一部の店舗から撤去しました。」
+広報担当者は、「現時点でこれらの製品に関連する病気は確認されていない」とし、同社は「サプライヤーと緊密に連携し、製品の販売を中止するために直ちに措置を講じている」と付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html",
+    publishedAt: "2026-07-18T22:04:02+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "respect-is-important-if-my-financial-ad-6a27771b",
+    title: "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
+    titleJa: "「敬意は大切です」: ファイナンシャルアドバイザーが「ねえ」と言ったら、妻と私は立ち去ります。どこで線引きしますか？",
+    summaryJa: "「私が会った財務担当者は、AT&T が American Telephone and Telegraph の短縮形であることを知りませんでした。」",
+    bodyOriginal: `“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”`,
+    bodyJa: `「私が会った財務担当者は、AT&T が American Telephone and Telegraph の短縮形であることを知りませんでした。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
+    publishedAt: "2026-07-18T19:16:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-60496419",
+    readTime: 2,
+  },
+  {
     id: "netflix-is-spending-big-money-on-sports-8066bea3",
     title: "Netflix is spending big money on sports. Is the company making the right bets?",
     titleJa: "Netflixはスポーツに多額の資金を投じている。会社は正しい賭けをしていますか?",
@@ -1339,6 +1589,76 @@ For the week, both benchmarks gained about 16%, with Brent on track for a third 
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-20686256",
     readTime: 2,
+  },
+  {
+    id: "russian-online-retail-warehouses-hit-by-93557554",
+    title: "Russian online retail warehouses hit by deadly Ukrainian strikes",
+    titleJa: "ロシアのオンライン小売倉庫がウクライナの致命的な攻撃で打撃を受ける",
+    summaryJa: "ドローンはモスクワ近郊とタンボフにあるワイルドベリー施設を標的にした。ウクライナの指導者は、これらの施設を「制裁対象の部品」を供給する「主要な物流施設」と呼んだ。",
+    bodyOriginal: `Russian online retail warehouses hit by deadly Ukrainian strikes
+- Published
+Eight people have been killed and 62 injured after Ukrainian drones struck two warehouses belonging to Russia's biggest online retailer, Wildberries, according to Russian officials.
+Seven deaths and 25 injuries occurred at a warehouse in the city of Tambov, roughly 295 miles (475km) south-east of Moscow. One death and 37 injuries occurred at another Wildberries warehouse in Elektrostal in the Moscow region.
+Ukrainian President Volodymyr Zelensky said the attacks had struck "major logistics facilities" which had been used to "supply sanctioned components for drone production and navigation equipment".
+He added that Ukraine had also struck targets in the Sea of Azov, the Black Sea, and Russian-annexed Crimea.
+Images from the scene of one of the warehouse strikes showed flames and huge plumes of black smoke rising from a vast logistics building, with dozens of workers running into a car park area.
+The attacks appear to have started at night, with some videos showing terrified and injured staff attempting to flee as explosions continue. Another clip appears to show the walls of a warehouse disintegrating as they are engulfed by flames.
+Zelensky said Ukraine's operations were in response to "Russian strikes on our civilian infrastructure and on our cities and communities". Overnight into Wednesday, 14 people were killed in Russian attacks across Ukraine.
+Wildberries is often described as the Russian equivalent of Amazon. The merged RWB group, which combines Wildberries with advertising company Russ, was valued at about $12.6bn (£9.3bn) by Forbes Russia in 2026.
+Serhii Kuzan, chairman of the Ukrainian Security and Cooperation Centre, told the BBC that Wildberries was a "vital component" of Russian logistics, and that its website had been used by Russian volunteers to purchase military equipment including walkie-talkies, body armour and drone components.
+"The primary rationale for striking Wildberries' warehouses is to disrupt Russian logistics and the supply of dual-use goods, critical electronics, sanctioned goods and the like to the Russian army and Russian arms manufacturers," he said.
+"The collateral damage from such strikes could also have a serious impact on the Russian economy, as well as a psychological effect on Russian society and, likely, on continued support for the war."
+Russia has targeted similar facilities in Ukraine since the start of the war, including its postal service and some electronics distributors.
+Wildberries CEO Tatyana Kim - one of Russia's first female billionaires - said it had been a "terrible night" for Russia and for the company.
+"Seven people working the night shift died on the spot," governor of the Tambov region Evgeniy Pervyshov wrote on Telegram, adding that 28 drones were also shot down on approach.
+He said 25 people had been injured, including seven in serious condition. Most of these injuries were caused by shrapnel wounds, he said.
+It was the "largest and most inhumane" attack on the region in terms of the number of drones used and the number of casualties, he added.
+Meanwhile, governor of the Moscow region Andrei Vorobyov said eight of those injured in the strikes on the Wildberries warehouse in Elektrostal were in a "serious condition".
+He added that a total of 48 drones were shot down in the region overnight, and that a Russian oil depot had also been struck by a falling drone, which he described as the incident with "the most serious consequences".
+"Firefighters, emergency services, and the Ministry of Emergency Situations continue to work at the scene," he wrote on Telegram. He did not describe the level of damage in detail. Zelensky separately confirmed Ukraine had struck "an oil facility".
+Ukraine has recently intensified its long-range drone attacks on Russia's critical energy infrastructure, causing widespread fuel shortages. Earlier this month, Kyiv said nearly 43% of Russia's oil refining capacity had been "disabled" as a result.
+The BBC has not independently verified this figure.
+Ukraine says Russian oil and gas facilities are legitimate targets as Moscow relies heavily on fossil fuel exports to finance its full-scale invasion, which began in February 2022.
+Russian President Vladimir Putin made a rare admission in June that fuel shortages had been caused by Ukrainian attacks, and signed into law a bill aimed at boosting supplies to the domestic fuel market in early July.
+Related topics
+More on the Ukraine War
+- Published1 day ago
+- Published3 days ago`,
+    bodyJa: `ロシアのオンライン小売倉庫がウクライナの致命的な攻撃で打撃を受ける
+- 公開されました
+ロシア当局によると、ウクライナの無人機がロシア最大のオンライン小売業者ワイルドベリーの倉庫２カ所を攻撃し、８人が死亡、６２人が負傷した。
+モスクワの南東約475キロにあるタンボフ市の倉庫で7人が死亡、25人が負傷した。モスクワ地方のエレクトロスタールにある別のワイルドベリー倉庫で１人が死亡、37人が負傷した。
+ウクライナのウォロディミル・ゼレンスキー大統領は、今回の攻撃は「ドローン製造や航行機器向けに認可された部品の供給」に使われていた「主要物流施設」を襲ったと述べた。
+同氏は、ウクライナはアゾフ海、黒海、ロシアが併合したクリミアの目標も攻撃したと付け加えた。
+倉庫ストライキの現場の画像には、広大な物流ビルから炎と巨大な黒煙が立ち上り、数十人の労働者が駐車場エリアに逃げ込んでいる様子が映っていた。
+攻撃は夜に始まったようで、爆発が続く中、恐怖を感じて負傷したスタッフが逃げようとする様子が一部のビデオで映されている。別のクリップでは、倉庫の壁が炎に包まれて崩壊する様子が映っています。
+ゼレンスキー大統領は、ウクライナの作戦は「我が国の民間インフラや都市や地域社会に対するロシアの攻撃」への対応であると述べた。水曜日にかけて、ウクライナ全土でロシアによる攻撃があり、14人が死亡した。
+ワイルドベリーはロシアのアマゾンに相当するとよく言われます。ワイルドベリーズと広告会社ラスを統合した合併後のRWBグループは、2026年にフォーブス・ロシアによって約126億ドル（93億ポンド）と評価された。
+ウクライナ安全保障協力センターのセルヒイ・クザン会長はBBCに対し、ワイルドベリーズはロシアの物流の「重要な要素」であり、そのウェブサイトはロシアのボランティアによってトランシーバー、防弾チョッキ、ドローン部品などの軍事装備を購入するために使用されていたと語った。
+同氏は、「ワイルドベリー社の倉庫を襲撃する主な理由は、ロシアの物流と、ロシア軍やロシアの武器製造業者への軍民両用品、重要な電子機器、制裁品などの供給を混乱させることだ」と述べた。
+「このような攻撃による巻き添え被害は、ロシア社会に心理的な影響を与えるだけでなく、おそらく戦争への継続的な支援にも深刻な影響を与える可能性がある。」
+ロシアは戦争開始以来、郵便サービスや一部の電子機器販売業者を含むウクライナの同様の施設を標的にしてきた。
+ロシア初の女性億万長者の一人であるワイルドベリーズ最高経営責任者（CEO）のタチアナ・キム氏は、ロシアにとっても会社にとっても「ひどい夜」だったと語った。
+タンボフ地域のエフゲニー・ペルヴィショフ知事はテレグラムに「夜勤で働いていた7人がその場で死亡した」と書き、28機のドローンも接近時に撃墜されたと付け加えた。
+同氏によると、２５人が負傷し、うち７人が重篤な状態だという。これらの負傷のほとんどは破片による傷によるものだと彼は述べた。
+使用された無人機の数と死傷者の数の点で、これはこの地域に対する「最大かつ最も非人道的な」攻撃だった、と彼は付け加えた。
+一方、モスクワ地域のアンドレイ・ヴォロビヨフ知事は、エレクトロスタルのワイルドベリー倉庫へのストライキで負傷者のうち8人が「重篤な状態」にあると述べた。
+同氏は、一夜にしてこの地域で計48機の無人機が撃墜され、ロシアの石油貯蔵所も落下した無人機に直撃されたと付け加え、これを「最も深刻な結果」を伴う事件だと述べた。
+「消防士、救急サービス、非常事態省は現場で活動を続けている」と同氏はテレグラムに書いた。被害の程度については詳細には言及しなかった。ゼレンスキー大統領はこれとは別に、ウクライナが「石油施設」を攻撃したことを認めた。
+ウクライナは最近、ロシアの重要なエネルギーインフラに対する長距離無人機攻撃を強化しており、広範囲にわたる燃料不足を引き起こしている。キエフは今月初め、その結果、ロシアの石油精製能力のほぼ43％が「機能不全」になったと発表した。
+BBCはこの数字を独自に検証していない。
+ウクライナは、ロシアが2022年2月に始まった本格的な侵略の資金調達として化石燃料の輸出に大きく依存しているため、ロシアの石油・ガス施設は正当な標的であると主張している。
+ロシアのウラジーミル・プーチン大統領は6月、燃料不足がウクライナの攻撃によって引き起こされたことを異例に認め、7月初旬に国内燃料市場への供給拡大を目的とした法案に署名した。
+関連トピック
+ウクライナ戦争についてさらに詳しく
+- 1 日前に公開
+- 3 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-18T13:06:25+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 5,
   },
   {
     id: "world-cup-audience-stayed-bipartisan-des-4fe975d9",
@@ -2725,302 +3045,6 @@ AP通信によると、ブランチさんは「彼らが望んでいることが
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 7,
-  },
-  {
-    id: "china-s-moonshot-ai-claims-kimi-k3-can-r-be872102",
-    title: "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-    titleJa: "中国のムーンショット AI は、Kimi K3 が OpenAI や Anthropic に匹敵すると主張",
-    summaryJa: "中国のムーンショット AI は、Kimi K3 が OpenAI や Anthropic に匹敵すると主張- 公開されました",
-    bodyOriginal: `China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic
-- Published
-Chinese AI start-up Moonshot has unveiled a massive new artificial intelligence model it says can rival top American firms.
-The company launched Kimi K3, containing 2.8 trillion parameters, which serves as a measure of an AI's scale and processing power.
-Kimi K3's full capabilities – coding, knowledge work, and reasoning – will be known when it is released as an open-source model on 27 July.
-The sudden breakthrough suggests that China's tech prowess is rapidly narrowing the capabilities gap, upending long-held assumptions in the West that Chinese developers trail their American peers.
-Its arrival later this month will make it the world's first open-source model in the three-trillion-parameter class that can be freely downloaded, run and customised by outside developers.
-The release comes at a highly sensitive moment for the global technology sector, just weeks after the US government abruptly forced American developer Anthropic to temporarily withdraw its flagship Fable and Mythos models due to severe cybersecurity concerns.
-While Washington has since lifted those restrictions, the initial move highlights how the US government now views advanced AI software as critical national infrastructure, labelling frontier models as vital national security assets subject to strict export controls.
-However, the rapid arrival of Kimi K3 suggests Chinese firms are successfully bypassing these regulatory barriers and advancing independently despite US restrictions on hardware sales.
-Heavily backed by domestic tech giants Alibaba and Tencent, Moonshot has quickly risen to the forefront of China's generative AI ecosystem.
-In a statement the company said that K3 stands as Moonshot AI's "most capable flagship model to date".
-Unlike closed, proprietary American systems from OpenAI or Anthropic, Kimi K3's open nature allows global users to modify the system for advanced reasoning and complex software development.
-Moonshot AI noted that the system is uniquely built to operate with "minimal human supervision" to sustain tasks such as engineering and coding.
-Third-party evaluations from Artificial Analysis and Arena.ai show the model performing on a par with leading models in the US, such as OpenAI's GPT and Anthropic's Claude.
-In these independent benchmarks, external, Kimi K3 ranked first in web interface engineering, outperforming Anthropic's Fable system, external in blind human-preference tests.
-While the system's massive size means running it locally requires significant computing equipment, making it open-source could heavily disrupt Silicon Valley's commercial models.
-The announcement had an immediate impact on shares in Moonshot's domestic competitors Zhipu and MiniMax, which tumbled sharply in Hong Kong by about 27% and 16% respectively.`,
-    bodyJa: `中国のムーンショット AI は、Kimi K3 が OpenAI や Anthropic に匹敵すると主張
-- 公開されました
-中国のAI新興企業ムーンショットは、米国トップ企業に匹敵する可能性があるという大規模な新しい人工知能モデルを発表した。
-同社は、AI の規模と処理能力の尺度となる 2 兆 8,000 億のパラメーターを含む Kim K3 を発売しました。
-Kimi K3 の全機能 (コーディング、知識作業、推論) は、7 月 27 日にオープンソース モデルとしてリリースされるときに明らかになります。
-この突然の進歩は、中国の技術力が能力の差を急速に縮めており、中国の開発者が米国の同業他社に後れを取っているという西側諸国の長年の思い込みを覆していることを示唆している。
-今月下旬に登場する予定で、外部の開発者が自由にダウンロード、実行、カスタマイズできる、3 兆パラメータクラスの世界初のオープンソース モデルとなります。
-このリリースは、世界のテクノロジー業界にとって非常に敏感な時期に行われた。米国政府がサイバーセキュリティの深刻な懸念を理由に、米国のデベロッパーAnthropicに対し主力モデルのFableとMythosを一時的に撤退するよう突然強制した数週間後のことだ。
-その後、米国政府はこれらの制限を解除したが、最初の措置は、米国政府が現在、高度なAIソフトウェアを重要な国家インフラとみなしていることを浮き彫りにし、フロンティアモデルを厳格な輸出規制の対象となる重要な国家安全保障資産としてラベル付けしている。
-しかし、Kimi K3の急速な登場は、米国のハードウェア販売制限にもかかわらず、中国企業がこれらの規制障壁をうまく回避し、独自に前進していることを示唆している。
-国内ハイテク大手のアリババとテンセントの強力な支援を受けて、ムーンショットは急速に中国の生成 AI エコシステムの最前線に浮上した。
-同社は声明で、K3はMoonshot AIの「これまでで最も性能の高いフラッグシップモデル」であると述べた。
-OpenAI や Anthropic の米国独自のクローズド システムとは異なり、Kimi K3 のオープンな性質により、世界中のユーザーがシステムを変更して高度な推論や複雑なソフトウェア開発を行うことができます。
-Moonshot AI は、このシステムはエンジニアリングやコーディングなどのタスクを維持するために「最小限の人間の監督」で動作するように独自に構築されていると述べました。
-Artificial Analysis と Arena.ai によるサードパーティの評価では、このモデルが OpenAI の GPT や Anthropic の Claude などの米国の主要モデルと同等のパフォーマンスを示しています。
-これらの独立したベンチマーク (外部) では、Web インターフェイス エンジニアリングで Kim K3 が 1 位にランクされ、ブラインド人間選好テストで Anthropic の Fable システム (外部) を上回りました。
-このシステムの巨大なサイズは、それをローカルで実行するには大規模なコンピューティング機器を必要とすることを意味するが、それをオープンソースにすることは、シリコンバレーの商業モデルを大きく混乱させる可能性がある。
-この発表はムーンショットの国内競合会社であるZhipuとMiniMaxの株価に即座に影響を及ぼし、香港ではそれぞれ約27％と16％急落した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-17T16:53:04+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c87/live/deb1fae0-81f6-11f1-8f4c-d74af0a2675b.jpg",
-    readTime: 4,
-  },
-  {
-    id: "china-hits-out-at-british-steel-national-ef9625bd",
-    title: "China hits out at British Steel nationalisation",
-    titleJa: "中国が英国鉄鋼の国有化を非難",
-    summaryJa: "中国が英国鉄鋼の国有化を非難- 公開されました",
-    bodyOriginal: `China hits out at British Steel nationalisation
-- Published
-China has hit out at the nationalisation of British Steel, saying it "firmly opposes and is strongly dissatisfied with the British government's decision".
-On Thursday, the UK government said that taking the loss-making firm into public hands would protect jobs and safeguard a "vital national capability".
-The UK took control of British Steel's operations in Scunthorpe last year, though it was still owned by China's Jingye Group, limiting the government's ability to steer its future.
-China's commerce ministry said on Friday that the moves "seriously infringed upon Jingye's legitimate rights and interests and severely undermined the confidence of Chinese companies investing in the UK".
-Why has British Steel been nationalised?
-- Published1 day ago
-It also called on Britain to "faithfully fulfil" its obligations under the China–UK Bilateral Investment Treaty.
-"Disregarding Jingye's significant contribution to the UK economy and society, the British side forcibly took control of the company in the name of national security," the ministry said.
-The statement added that Beijing would monitor developments closely and support Chinese firms to protect their rights, but did not specify what protecting Chinese companies' rights might involve.
-The decision to nationalise British Steel threatens to strain the relationship between London and Beijing just as Andy Burnham is set to enter Downing Street on Monday.
-The incoming prime minister will have to weigh his approach to the issue with the economic benefits of ties with the world's second largest economy.
-The China-UK Bilateral Investment Treaty is a legally binding agreement that was signed in 1986. It was designed to promote and protect investments between the two countries.
-On Friday, a UK government spokesperson said it had held negotiations with Jingye but it "wasn't possible to reach an agreement that represented value to the taxpayer".
-"We highly value our relationship with China and remain open to Chinese investment," the spokesperson added.
-The nationalisation came after Parliament on Wednesday passed legislation allowing the government to bring the steel industry into public ownership under circumstances where it met a public interest test.
-Jingye is seeking compensation, having previously said the business was losing £700,000 a day. The BBC has been unable to get a response from Jingye itself to Thursday's announcement.
-Small Business Minister Blair McDougall told the House of Commons on Thursday that the government will appoint an independent valuer in the autumn "to make a judgment on any compensation that is due, and that could be nil".
-By taking British Steel into public ownership the government now has the power and freedom to decide on the future of the plant, while keeping the blast furnaces going.
-It is unlikely the government will want to continue running the business in the long term as it is costing it more than a million pounds a day.
-In March, the National Audit Office said the Scunthorpe steelworks was costing the government about £1.3m a day.
-Business Secretary Peter Kyle told the BBC the government would need to cover the running costs "for the immediate future".
-The steelworks directly employs around 2,700 people in Scunthorpe as well as supporting thousands more jobs in the supply chain.
-The UK imports most of its steel, with major suppliers including the European Union, the US, China and India.
-If the plant stopped producing virgin steel, the UK would become the only member of the G7 group of leading economies without the ability to make it.
-Steel output elsewhere in Britain relies on electric arc furnaces (EAFs), which recycle scrap metal to turn it into new products.
-Although the government's long-term strategy is for all domestically produced steel to come from EAFs, which are cheaper and much less carbon-intensive to run, it does not want to lose production at Scunthorpe yet.
-The plant produces types of steel that are not yet made anywhere else in the country, much of it needed by Network Rail and the building industry.
-The fear had been that losing this output would be disruptive and make the country too reliant on imports. So the decision was made that Scunthorpe should be kept open until alternatives are available.
-British Steel was last under state ownership in 1988 when it was privatised by Prime Minister Margaret Thatcher's government.
-British Steel taken into public ownership to protect 'vital' UK supply
-- Published2 days ago
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
-    bodyJa: `中国が英国鉄鋼の国有化を非難
-- 公開されました
-中国はブリティッシュ・スチールの国有化を激しく非難し、「英国政府の決定に断固反対し、強い不満を持っている」と述べた。
-木曜日、英国政府は、赤字企業を公的手に委ねることが雇用を守り、「極めて重要な国家能力」を守ることになると述べた。
-英国は昨年、スカンソープでのブリティッシュ・スチールの経営管理を掌握したが、同社はまだ中国の京業集団の所有下にあり、政府の将来の舵取り能力は制限されていた。
-中国商務省は金曜日、今回の措置は「景業の正当な権利と利益を著しく侵害し、英国に投資している中国企業の信頼を著しく損なった」と述べた。
-なぜブリティッシュ・スチールは国有化されたのでしょうか？
-- 1 日前に公開
-また英国に対し、中英二国間投資協定に基づく義務を「忠実に履行」するよう求めた。
-同省は「英国の経済と社会に対するジンゲの多大な貢献を無視し、英国側は国家安全保障の名の下に同社を強制的に掌握した」と述べた。
-声明は、中国政府が動向を注意深く監視し、中国企業の権利を保護するよう支援すると付け加えたが、中国企業の権利の保護に何が含まれるかについては明らかにしなかった。
-ブリティッシュ・スチールを国有化するという決定は、アンディ・バーナムが月曜日にダウニング街に入る予定であるのと同じように、ロンドンと北京の関係を緊張させる恐れがある。
-次期首相は、この問題に対する自身のアプローチと、世界第2位の経済大国との関係がもたらす経済的利益を比較検討する必要があるだろう。
-中国・英国二国間投資協定は、1986 年に署名された法的拘束力のある協定です。両国間の投資を促進し、保護することを目的としています。
-金曜日、英国政府報道官は、ジンゲ氏と交渉を行ったが「納税者にとって価値のある合意に達することはできなかった」と述べた。
-同報道官は「われわれは中国との関係を高く評価しており、今後も中国からの投資を歓迎する」と付け加えた。
-この国有化は、水曜日に議会が公益性のテストに適合する状況下で政府が鉄鋼産業を公有化することを許可する法案を可決した後に行われた。
-ジンゲ氏は以前、同事業が1日あたり70万ポンドの損失を被っていると述べ、補償を求めている。 BBCは木曜日の発表に対してジンゲ氏自身からの返答を得ることができていない。
-ブレア・マクドゥーガル中小企業大臣は木曜日、下院で「支払われるべき賠償金について判断を下すため、秋に独立鑑定人を任命する予定である」と述べた。
-ブリティッシュ・スチールを公有化することにより、政府は高炉を稼働し続けながら、工場の将来を決定する権限と自由を手に入れた。
-1日あたり100万ポンド以上の費用がかかるため、政府が長期的に事業を継続したいとは考えにくい。
-3月、国家会計検査院は、スカンソープ製鉄所が政府に1日あたり約130万ポンドの損害を与えていると発表した。
-ピーター・カイル商務長官はBBCに対し、政府は「当面の」運営費を負担する必要があると語った。
-製鉄所はスカンソープで約 2,700 人を直接雇用しているほか、サプライチェーンでさらに数千の雇用をサポートしています。
-英国は鉄鋼の大部分を輸入しており、主要な供給国には欧州連合、米国、中国、インドなどが含まれる。
-同工場がバージンスチールの生産を停止すれば、英国は主要経済国で構成されるG7グループの中で唯一、生産能力を持たない国となるだろう。
-英国の他の地域の鉄鋼生産は、スクラップ金属をリサイクルして新しい製品に変える電気炉（EAF）に依存しています。
-政府の長期戦略は、国内で生産されるすべての鉄鋼を、より安価で運転時の二酸化炭素排出量がはるかに少ない電気炉から調達することだが、まだスカンソープでの生産を失うことは望んでいない。
-この工場は、国内の他のどこでもまだ製造されていないタイプの鋼材を生産しており、その多くはネットワーク鉄道や建設業界で必要とされています。
-この生産量を失うと混乱が生じ、国が輸入に依存しすぎてしまうのではないかという懸念があった。そのため、代替手段が利用可能になるまで、スカンソープはオープンしておくべきであるという決定が下されました。
-ブリティッシュ・スチールが最後に国営であったのは1988年で、マーガレット・サッチャー首相の政府によって民営化された。
-ブリティッシュ・スチール、英国の「重要な」供給を守るために株式公開へ
-- 2 日前に公開
-一日の始まりに必要な見出しをすべて掲載した主力ニュースレターを入手してください。ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-17T16:44:22+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1b8/live/e08168e0-81e4-11f1-bee8-53ce494e1abc.jpg",
-    readTime: 5,
-  },
-  {
-    id: "brewdog-founder-faces-data-complaints-ov-0213cc83",
-    title: "Brewdog founder faces data complaints over efforts to buy back firm",
-    titleJa: "ブリュードッグ創業者、企業買収を巡るデータ苦情に直面",
-    summaryJa: "ブリュードッグ創業者、企業買収を巡るデータ苦情に直面- 公開されました",
-    bodyOriginal: `Brewdog founder faces data complaints over efforts to buy back firm
-- Published
-Brewdog co-founder James Watt is facing complaints to the UK data watchdog after he reportedly contacted former shareholders as part of efforts to take back control of the craft brewer.
-The Information Commissioner's Office (ICO) said it was "assessing" information following complaints related to Watt.
-Earlier this year, US drinks firm Tilray took over Brewdog in a deal worth about £33m after the company collapsed with debts of more than £500m, leading to hundreds of job losses.
-The administration process saw Brewdog shut 36 bars while the takeover deal rendered the shares of about 200,000 crowdfunding investors worthless.
-Tilray bought Brewdog's brand, intellectual property, UK breweries and 11 bars.
-Watt stepped down as chief executive of the brand in 2024 to become its "captain and co-founder".
-Brewdog co-founder James Watt launches bid to buy back beer firm
-- Published2 days ago
-On Wednesday, Watt made a bid to buy back the Scottish craft beer firm just months after it was acquired.
-He tabled an offer to buy Brewdog through his new beer firm, Second Best, claiming that 43,000 so-called equity punk investors had joined forces for the bid.
-The Guardian has reported, external that a number of shareholders contacted by Watt said they did not understand how he had their contact details, raising concerns about a potential breach of the general data protection regulation (GDPR).
-The data privacy rules are overseen by the ICO.
-"We are aware of an incident involving Brewdog and we are assessing the information provided," an ICO spokeswoman said.
-Watt has been contacted for comment.
-He co-founded Brewdog with Martin Dickie in Aberdeenshire in 2007.
-At its peak, the company had four breweries, about 100 pubs worldwide and was said to be worth more than $1bn.
-Earlier this week, bosses at Tilray stressed that the brand was not for sale and planned to reject Watt's takeover efforts.
-A spokesman added: "Tilray Brands did not acquire Equity for Punk shareholder data as part of its acquisition of the BrewDog brand and assets; that records system remains under the control of BrewDog plc (in administration).
-"Tilray acquired only a customer CRM database comprising individuals who explicitly opted in to BrewDog communications.
-"For the avoidance of doubt, Tilray Brands (trading as BrewDog) and its current management team have no involvement in, affiliation with, or responsibility for James Watt's business activities, including Second Best."
-The spokesman added that Tilray Brands did not "authorise, facilitate, or participate in the communications reportedly sent to former Equity for Punks investors and did not authorise the use of any acquired data for such purposes".
-"We take data privacy with the utmost seriousness and can categorically confirm that no data held by Tilray Brands has been shared with external entities or former directors," he said.
-- Published21 March
-- Published18 February`,
-    bodyJa: `ブリュードッグ創業者、企業買収を巡るデータ苦情に直面
-- 公開されました
-ブリュードッグの共同創設者ジェームス・ワット氏は、クラフトビールメーカーの経営権を取り戻す取り組みの一環として元株主と接触したと伝えられ、英国のデータ監視機関への苦情に直面している。
-情報コミッショナー局（ICO）は、ワットに関する苦情を受けて情報を「評価」していると述べた。
-今年初め、米国の飲料会社ティルレイは、ブリュードッグが5億ポンド以上の負債を抱えて破綻し、数百人の雇用喪失につながった後、約3,300万ポンド相当の契約でブリュードッグを買収した。
-この管理プロセスにより、ブリュードッグは36軒のバーを閉店し、買収取引により約20万人のクラウドファンディング投資家の株式が無価値になった。
-ティルレイはブリュードッグのブランド、知的財産、英国のビール醸造所、バー11店舗を買収した。
-ワット氏は2024年に同ブランドの最高経営責任者を辞任し、「キャプテン兼共同創設者」に就任した。
-ブリュードッグの共同創設者ジェームス・ワット氏、ビール会社の買い戻しに向けた入札を開始
-- 2 日前に公開
-水曜日、ワット氏はスコットランドのクラフトビール会社が買収されてからわずか数カ月後に買い戻しに名乗りを上げた。
-同氏は、4万3000人のいわゆる株式パンク投資家が入札に協力したと主張し、新たに設立したビール会社セカンド・ベストを通じてブリュードッグの買収提案を提出した。
-ガーディアン紙は社外向けに、ワット氏から連絡を受けた多くの株主が同氏の連絡先詳細をどのようにして知っていたのか理解できないと述べ、一般データ保護規則（GDPR）違反の可能性についての懸念を高めたと報じた。
-データ プライバシー ルールは ICO によって監督されます。
-ICOの広報担当者は「ブリュードッグが関与した事件を承知しており、提供された情報を検討している」と述べた。
-ワット氏にコメントを求めた。
-彼は 2007 年にマーティン ディッキーとアバディーンシャーで Brewdog を共同設立しました。
-最盛期には、同社は世界中に4つの醸造所と約100のパブを持ち、その価値は10億ドル以上と言われていました。
-今週初め、ティルレイ社の幹部らは、このブランドは売り物ではないと強調し、ワット社の買収努力を拒否する予定であると述べた。
-広報担当者はさらに「ティルレイ・ブランズは、ブリュードッグのブランドと資産の買収の一環としてエクイティ・フォー・パンクの株主データを取得したわけではない。その記録システムは引き続きブリュードッグ社（管理下）の管理下にある」と付け加えた。
-「Tilray は、BrewDog コミュニケーションを明示的にオプトインした個人で構成される顧客 CRM データベースのみを取得しました。
-「誤解を避けるために付け加えておきますが、ティルレイ・ブランズ（ブリュードッグとして取引）とその現経営陣は、セカンド・ベストを含むジェームス・ワットの事業活動には関与しておらず、提携もしておらず、責任もありません。」
-広報担当者は、ティルレイ・ブランズは「エクイティ・フォー・パンクスの元投資家に送られたとされる通信を承認、促進、参加しておらず、取得したデータをそのような目的で使用することも承認していない」と付け加えた。
-「当社はデータのプライバシーを最大限の真剣に受け止めており、ティルレイ・ブランズが保有するデータが外部団体や元取締役と共有されていないことを明確に確認できる」と同氏は述べた。
-- 3 月 21 日公開
-- 2 月 18 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gw9pp0xlno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-17T16:44:15+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fd4/live/fad99060-81fc-11f1-a927-670d17f8e943.jpg",
-    readTime: 4,
-  },
-  {
-    id: "end-of-an-era-for-this-long-term-bond-bu-a606187d",
-    title: "End of an era for this long-term bond bull as inflation takes hold and yields trend higher",
-    titleJa: "インフレが定着し、利回りが上昇傾向にあるため、この長期債券強気の時代は終わりを迎える",
-    summaryJa: "ホイジントン・インベストメント・マネジメントとそのチーフエコノミスト、レイシー・ハント氏は30年以上にわたり、債券に対して強気の姿勢を示してきた。しかし今、彼らの意見は変わりました。",
-    bodyOriginal: `For more than three decades, Hoisington Investment Management and its chief economist Lacy Hunt have been bullish on bonds. But now their opinion has changed.`,
-    bodyJa: `ホイジントン・インベストメント・マネジメントとそのチーフエコノミスト、レイシー・ハント氏は30年以上にわたり、債券に対して強気の姿勢を示してきた。しかし今、彼らの意見は変わりました。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/end-of-an-era-for-this-long-term-bond-bull-as-inflation-takes-hold-and-yields-trend-higher-a7f59e1f?mod=mw_rss_topstories",
-    publishedAt: "2026-07-17T13:39:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-56597806",
-    readTime: 2,
-  },
-  {
-    id: "import-prices-post-surprise-gain-as-cost-cb35b9ec",
-    title: "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-    titleJa: "中国からの商品コストが2008年以来最高値に達する中、輸入価格が予想外の上昇を記録",
-    summaryJa: "中国からの商品価格が18年以上ぶりの月次レベルで上昇したため、米国に持ち込まれる商品のコストは6月に予想外の上昇を記録したと労働統計局が金曜日に報告した。エネルギーの下落が他の地域の上昇で相殺され、輸入物価は同月で０．３％上昇した。年率ベースでは、価格は7.1％上昇し、2022年8月以来の大幅な上昇となった。ダウ・ジョーンズが調査したエコノミストらは6月に0.8％下落すると予想していた。",
-    bodyOriginal: `The cost of goods brought into the U.S. posted an unexpected increase in June as the price of goods from China rose by their largest monthly level in more than 18 years, the Bureau of Labor Statistics reported Friday.
-Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere. On an annual basis, prices jumped 7.1%, the biggest move higher since August 2022. Economists surveyed by Dow Jones had been looking for a decline of 0.8% in June.
-The report indicated that the artificial intelligence buildout could be hitting prices, as costs rose for computers, peripherals and semiconductors.
-Beyond those areas, the BLS said industrial and service machinery drove costs higher, offsetting a 0.4% decrease in fuels and lubricants. The group posted a 12.6% jump in May.
-China also played a role, with import prices rising 0.9%, the biggest monthly move since January 2008, a possible reflection of tariff impacts. The 12-month increase was 1.3%, the largest yearly gain since the period from November 2021 to November 2022. Export prices to China actually fell 0.2% in June, but were up 7.4% annually, the biggest monthly increase dating back to August 2022.
-The report broadly showed that while a decline in oil costs helped lower prices in June, inflation is showing signs of broadening beyond energy as businesses face a variety of rising costs. Export prices broadly decreased 0.6%, the first monthly drop since May 2025. However, export prices rose 10.2% annually.
-Earlier this week, the BLS reported that both consumer and wholesale prices declined, largely on the back of sliding energy costs as tensions between the U.S. and Iran briefly softened.
-Federal Reserve officials have been grappling with the inflation question since prices spiked following the U.S. and Israel attacks on Iran that began in late February.
-In congressional hearings earlier this week, Fed Chairman Kevin Warsh said he didn't view the softer June inflation reports as an indication that the central bank's work is finished in returning inflation back to the 2% goal. Indeed, the reports showed consumer prices up 3.5% from a year ago and wholesale costs rising 5.5%, despite both measures declining in June.
-On Thursday, Dallas Fed President Lorie Logan said she thinks benchmark interest rates should be "modestly higher" to address the inflation problem. Similarly, Cleveland Fed President Beth Hammack on Friday also suggested that policy needs to be tighter.
-"For the first time in my tenure, I'm hearing from businesses who say they think we need to take action to curb inflation, and from consumers who can't make ends meet about a growing sense of despair," Hammack said in a LinkedIn post.`,
-    bodyJa: `中国からの商品価格が18年以上ぶりの月次レベルで上昇したため、米国に持ち込まれる商品のコストは6月に予想外の上昇を記録したと労働統計局が金曜日に報告した。
-エネルギーの下落が他の地域の上昇で相殺され、輸入物価は同月で０．３％上昇した。年率ベースでは、価格は7.1％上昇し、2022年8月以来の大幅な上昇となった。ダウ・ジョーンズが調査したエコノミストらは6月に0.8％下落すると予想していた。
-報告書は、コンピューター、周辺機器、半導体のコストが上昇し、人工知能の強化が価格に影響を及ぼしている可能性があると指摘した。
-BLSは、これらの分野以外では、産業機械やサービス機械がコストを押し上げ、燃料と潤滑油の0.4％減少を相殺したと述べた。同グループは5月に12.6％の上昇を記録した。
-中国も影響し、輸入物価は0.9％上昇し、2008年1月以来最大の月間上昇率となったが、これは関税の影響を反映している可能性がある。 12カ月間の上昇率は1.3％で、2021年11月から2022年11月以来最大の年間上昇率となった。中国への輸出価格は6月に実際には0.2％下落したが、年間では7.4％上昇し、月間上昇率としては2022年8月以来最大だった。
-同報告書は、原油価格の下落が6月の物価下落に寄与した一方で、企業がさまざまなコスト上昇に直面しているため、インフレがエネルギー以外にも拡大する兆候を示していることを大まかに示した。輸出価格は全体的に0.6%下落し、2025年5月以来初めて月間下落となった。しかし、輸出価格は年間10.2%上昇した。
-今週初め、BLSは、米国とイラン間の緊張が一時的に緩和したことによるエネルギーコストの下落を主因として、消費者物価と卸売物価がともに下落したと報告した。
-2月末に始まった米国とイスラエルのイラン攻撃を受けて物価が急騰して以来、FRB当局者らはインフレ問題に取り組んでいる。
-今週初めの議会公聴会で、FRBのケビン・ウォーシュ議長は、6月のインフレ報告が軟調だったことは、インフレ率を2％の目標に戻す中銀の取り組みが終了したことを示すものとは考えていないと述べた。実際、報告書によれば、6月はいずれの指標も低下したにもかかわらず、消費者物価は前年比​​3.5％上昇、卸売コストは5.5％上昇した。
-ダラス連銀のローリー・ローガン総裁は木曜日、インフレ問題に対処するために指標金利は「適度に高め」であるべきだとの考えを述べた。同様に、クリーブランド連銀のベス・ハンマック総裁も金曜日、政策をより引き締める必要があると示唆した。
-ハマック氏はリンクトインへの投稿で、「私の在任中初めて、インフレを抑制するために行動を起こす必要があると考える企業や、生活のやりくりができない消費者から絶望感が高まっているという声を聞いた」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html",
-    publishedAt: "2026-07-17T13:34:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "iran-says-civilian-infrastructure-hit-by-0fbeb562",
-    title: "Iran says civilian infrastructure hit by latest U.S. strikes, expands attacks to Syria, Bahrain",
-    titleJa: "イラン、米国の最近の攻撃で民間インフラが打撃を受け、攻撃をシリアとバーレーンに拡大と発表",
-    summaryJa: "イランは金曜日、米国がイスラム共和国に対する6夜連続の攻撃を完了する中、シリアとバーレーンの米軍を標的にし、地域への攻撃を拡大したと主張した。対立の激化は、米国とイランが先月署名した脆弱な停戦協定がさらに崩れる兆しを見せている中で起きている。暫定合意は、戦略的に重要なホルムズ海峡を再開し、戦闘を停止することを目的としていた。",
-    bodyOriginal: `Iran on Friday claimed it had targeted U.S. military forces in Syria and Bahrain, widening its attacks in the region as the U.S. completed its sixth consecutive night of strikes on the Islamic Republic.
-The escalating standoff comes as the fragile truce signed by the U.S. and Iran last month showed further signs of unravelling. The interim agreement was intended to reopen the strategically vital Strait of Hormuz and stop the fighting.
-U.S. Central Command said overnight that it had completed its latest major wave of strikes against Iran, hitting dozens of military targets, including air defenses, logistics infrastructure and maritime capabilities.
-In a social media post, Centcom said more than 50,000 service members were operating across the Middle East, adding that they "remain vigilant, lethal, and ready."
-Iranian state media said the U.S. air attacks overnight had killed eight people and wounded 20, reportedly alleging that American strikes had hit civilian infrastructure, including bridges, a train station and an airport. CNBC could not independently verify the report.
-Iran's Revolutionary Guard, meanwhile, said that it attacked a U.S. command center in Syria's al-Tanf region, according to state media. There was no immediate comment from the U.S. military or the Syrian government.
-The U.S. military said in February that it had completed the withdrawal of forces from the strategic al-Tanf military base, which sits near the Syrian border with Iraq and Jordan.
-Syria has sought to avoid being drawn into regional hostilities, with President Ahmed al-Sharaa telling a Chatham House event in March that the country would "remain outside" the conflict unless it is subjected to direct attacks.
-Kuwaiti authorities said Friday that one of the country's power generation and water desalination stations was hit in an Iranian attack, causing widespread damage.
-Kuwait's Electricity Water and Renewable Energy Ministry said via social media that it had extinguished a blaze triggered by the attack and was working to assess the damage and get the station working again.
-Kuwait is known to be overwhelmingly dependent on desalination for drinking water, with almost 90% of the arid nation's water demand satisfied through seawater desalination plants.
-Air raid sirens were activated in Bahrain overnight, with the country's Defence Force saying it had intercepted multiple aerial attacks from Iran. The alert followed a claim by Iran that it had targeted U.S. aircraft at the Sakhir airbase in Bahrain.
-Jordan and Qatar also both said they had intercepted Iranian missiles.
-Trump: 'We are likewise winning big in Iran'
-U.S. President Donald Trump has insisted the war with Iran is going well, saying Thursday in a primetime address to the American public: "We are likewise winning big in Iran, and you will see the fruits of that labor very, very shortly."
-The U.S. president had threatened to strike Iran's bridges and power plants next week if the country refused to return to the negotiating table.
-Ian Lesser, distinguished fellow at GMF, a Washington-based think tank, said there appears to be a risk of the U.S. and Iran becoming mired in a so-called forever war.
-"There's a risk of this, but of course we were in essentially a cold and occasionally hot war with Iran for decades," Lesser told CNBC by video call.
-"I think in some sense this is misjudgment by the current administration. But it is also part of a pattern in the American approach to the use of force, that we have enormous capability and enormous operational prowess and we are hobbled by strategic mistakes," he added.
-Oil prices were higher on Friday, firmly on track to register bumper weekly gains.
-International benchmark Brent crude futures with September delivery advanced 1.7% to trade at $85.72 per barrel, while U.S. West Texas Intermediate futures with August delivery gained 2.2% to trade at $80.63.
-Both oil contracts are up more than 11% so far this week and on track for their best weekly performance since late April.`,
-    bodyJa: `イランは金曜日、米国がイスラム共和国に対する6夜連続の攻撃を完了する中、シリアとバーレーンの米軍を標的にし、地域への攻撃を拡大したと主張した。
-対立の激化は、米国とイランが先月署名した脆弱な停戦協定がさらに崩れる兆しを見せている中で起きている。暫定合意は、戦略的に重要なホルムズ海峡を再開し、戦闘を停止することを目的としていた。
-米中央軍は一夜にして、イランに対する最新の大規模攻撃を完了し、防空、兵站インフラ、海洋能力を含む数十の軍事目標を攻撃したと発表した。
-セントコムはソーシャルメディアへの投稿で、5万人以上の軍人が中東全域で活動していると述べ、「警戒し、危険を冒し、備えを続けている」と付け加えた。
-イラン国営メディアは、米軍による一晩の空襲で８人が死亡、２０人が負傷したと伝え、米軍の空爆で橋や駅、空港などの民間インフラが破壊されたと報じた。 CNBCはこの報道を独自に検証できなかった。
-一方、国営メディアによると、イラン革命防衛隊はシリアのアル・タンフ地域にある米軍司令部を攻撃したと発表した。米軍やシリア政府から直ちにコメントは得られていない。
-米軍は２月、イラクとヨルダンとのシリア国境近くにある戦略的アルタンフ軍事基地からの部隊の撤退を完了したと発表した。
-シリアは地域的な敵対関係に巻き込まれることを避けようとしており、アハメド・アル・シャラー大統領は３月のチャタム・ハウスのイベントで、直接攻撃を受けない限り紛争の「外側に留まる」と述べた。
-クウェート当局は金曜日、同国の発電所と淡水化施設の1つがイランの攻撃により攻撃され、広範囲に被害が生じたと発表した。
-クウェートの電力・水・再生可能エネルギー省はソーシャルメディアを通じて、攻撃によって引き起こされた火災は鎮火し、被害状況を調査して発電所を再稼働させるべく取り組んでいると述べた。
-クウェートは飲料水の淡水化に圧倒的に依存していることで知られており、乾燥国の水需要のほぼ90％が海水淡水化プラントによって満たされている。
-バーレーンでは夜空襲警報が鳴り響き、同国国防軍はイランからの複数回の空襲を迎撃したと発表した。この警報は、バーレーンのサクヒール空軍基地にある米軍機を標的にしたとのイランの主張を受けてのことだった。
-ヨルダンとカタールもイランのミサイルを迎撃したと発表した。
-トランプ大統領「我々はイランでも同様に大きな勝利を収めている」
-ドナルド・トランプ米大統領は、イランとの戦争は順調に進んでいると主張し、木曜、米国民に向けたゴールデンタイムの演説で「我々も同様にイランで大きな勝利を収めており、その努力の成果が間もなく現れるだろう」と述べた。
-米国大統領は、イランが交渉のテーブルに戻ることを拒否した場合、来週イランの橋と発電所を攻撃すると脅していた。
-ワシントンに本拠を置くシンクタンクGMFの著名研究員イアン・レッサー氏は、米国とイランがいわゆる永遠の戦争に陥るリスクがあるようだと述べた。
-レッサー氏はビデオ通話でＣＮＢＣに対し、「リスクはあるが、もちろん我々は数十年にわたりイランと本質的に冷戦、時には熱戦を繰り広げていた」と語った。
-「これはある意味、現政権の誤った判断だと思う。しかし、これは米国の武力行使アプローチのパターンの一部でもある。われわれは膨大な能力と膨大な作戦能力を持っているのに、戦略上の誤りによって足かせを食われているということだ」と同氏は付け加えた。
-金曜日の原油価格は上昇し、毎週大幅な上昇を記録する軌道にしっかりと乗っています。
-国際ベンチマークであるブレント原油先物（9月渡し）は1.7％上昇して1バレル当たり85.72ドルで取引され、8月渡しの米国ウェスト・テキサス・インターミディエイト先物は2.2％上昇して80.63ドルで取引された。
-両石油契約は今週これまでに11％以上上昇しており、4月下旬以来最高の週間パフォーマンスを記録する軌道に乗っている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/17/iran-war-us-trump-syria-bahrain.html",
-    publishedAt: "2026-07-17T13:34:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
   },
 ];
 
