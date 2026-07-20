@@ -15,6 +15,440 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "the-fda-made-a-big-reversal-in-its-cyclo-3af940ec",
+    title: "The FDA made a big reversal in its cyclosporiasis probe, but it still thinks iceberg lettuce is to blame",
+    titleJa: "FDAは嚢胞子症の調査で大きな逆転を果たしたが、依然としてアイスバーグレタスが原因であると考えている",
+    summaryJa: "食品医薬品局が嚢胞子症調査の重要な部分について撤回したことは米国で混乱を引き起こしているが、同局は月曜、この発生に関する主な結論は変更していないと発表した。同庁は日曜日、メキシコのテイラー・ファームズから供給されたアイスバーグ・レタスのサンプルがシクロスポラ原虫を保有していることを示す検査が偽陽性であったと発表した。しかし、これは同社が供給したレタスの特定の1つの出荷にのみ適用され、政府機関は、それが1,600人以上、そしておそらく他の数千人に病気を引き起こした車両であるとは考えていません。",
+    bodyOriginal: `The Food and Drug Administration's reversal on a key piece of its cyclosporiasis investigation has sparked confusion in the U.S., but the agency said Monday that it has not changed its main conclusions about the outbreak.
+The agency said Sunday a test that indicated a sample of iceberg lettuce supplied by Taylor Farms de Mexico carried the cyclospora parasite was a false positive. However, that only applies to one specific shipment of lettuce supplied by the company, which the agency does not believe was the vehicle that sickened more than 1,600 people and potentially thousands of others.
+In a Monday clarification, the agency said its false positive does not change its prior conclusion that the outbreak is linked to shredded iceberg lettuce from central Mexico supplied by Taylor Farms, which was also served at some Taco Bell locations. The agency is still advising Americans not to eat recalled iceberg lettuce.
+"FDA's traceback investigation and outbreak data continue to converge on shredded iceberg lettuce from Taylor Farms locations in central Mexico," it said in a statement. "FDA will continue to work with federal and state partners to investigate this multistate outbreak and ensure products implicated in this outbreak have been removed from the market."
+Investigators are continuing to examine what exactly caused the outbreak, which can lead to symptoms similar to a bad stomach bug for days or even weeks. CNBC has reached out to the FDA for details on the next phase of the investigation, including whether additional ingredients or suppliers are under scrutiny and whether the agency expects to issue further guidance. The agency has not yet responded.
+The false positive test comes as the developing investigation creates uncertainty for both consumers and the food industry. While the FDA has said not to eat iceberg lettuce from Taylor Farms, some diners have stayed away from salads altogether as the number of cases rises.
+"Unfortunately, this latest development may add further confusion to what has already been a complex situation for consumers," said Frank Yiannas, former deputy commissioner of food policy and response at the FDA.
+Though industry analysts do not expect the outbreak to have a long-term impact on Taco Bell or other restaurant chains, it could at least temporarily hit sales, based on foot traffic data, and cause a one-to-two quarter hit for companies linked to it. Foot traffic at Taco Bell sank roughly 19% on Friday compared to the day-of-the-week average so far this year, according to data from research firm Placer.ai.
+What the FDA's false positive means
+In foodborne outbreak investigations, a false positive can happen when an initial screening signal isn't reproduced during confirmation testing. Some doctors have pointed out that cyclospora is particularly challenging to recreate in the lab.
+But it has not caused a shift in how public officials view the root of the outbreak.
+The Department of Health and Human Services in Michigan, where the outbreak has seen explosive growth, says it continues to recommend that people purchase whole heads of lettuce rather than pre-washed, bagged or pre-mixed salad kits.
+The agency added that based on interviews with more than 2,000 infected patients, many of them did not report eating lettuce at a restaurant, though they frequently said they ate the leafy green in some setting.
+Taylor Farms said Monday morning it will continue its voluntary recall of implicated iceberg lettuce from central Mexico, and Taco Bell has already started to remove the suspected lettuce from restaurants in affected states.
+The ripple effects go beyond those companies.
+Walmart said Monday that it proactively removed four bagged salad kit products, which are under its Marketside brand and supplied by Taylor Farms, from stores across 27 states even though it said there was no indication that its products are part of the outbreak.
+"There have been no confirmed illnesses associated with these products at this time," the company said in a statement. "We are working closely with our supplier and took immediate steps to remove the products from sale."
+Former FDA Commissioner Dr. Scott Gottlieb suggested to CNBC that the test result does not clear Taylor Farms of its link to the outbreak. The Friday recall was for a product that was imported several weeks ago and was separate from the lettuce that tested positive with the FDA, he said.
+He also noted that because cyclospora has an incubation period of up to two weeks and lettuce has a short shelf life, it is important to test multiple shipments, even if they originated from the same farm.
+While the outbreak may be sourced to a single vendor for now, it's possible the contamination has already spread wider, according to Dr. Norman Beatty, an associate professor of medicine at the University of Florida College of Medicine.
+"We may find that this current outbreak may have led to additional outbreaks because of the nature of this parasite," Beatty told CNBC. "The reason why this is important for this current outbreak is because there's over 30 states where this has been isolated, and there could be other smaller outbreaks occurring in other regions."
+Restaurant fallout
+For restaurants, uncertainty is proving as challenging as the outbreak itself. Salad-focused chains and other operators that rely heavily on fresh produce are left without knowing whether any other ingredients are still a potential risk.
+Taco Bell told CNBC in a Saturday statement that it had voluntarily removed all suspected lettuce from its locations within 72 hours of beginning the process and adjusted its supply chain accordingly. The company added that it is "confident" that consumers can eat safely at its locations.
+"Clearly, this is a nationwide industry-wide issue, not a Taco Bell-specific issue," the company said. "We hope that other members of the industry are taking the same degree of immediate action and accountability for the consumer as we have."
+Taco Bell isn't the only restaurant seeing its business slow, according to Placer.ai. Other restaurant chains that sell lettuce, including Chopt, Panera Bread and Chipotle, also saw declines in traffic Friday, the firm said.
+As headlines about the outbreak swirled last week, the industry's top advocacy group stressed it is taking food safety seriously.
+"The Food Code requires that every restaurant must have a manager that is food safety certified on every shift," said National Restaurant Association CEO Michelle Korsmo in a post on LinkedIn.
+"We'll continue to support public health officials as they investigate the outbreak and ensure our members have the information they need to evaluate their food safety decisions," she added.
+And despite the false positive result, Taylor Farms and Taco Bell parent Yum Brands are still navigating the reputational fallout of an outbreak that prompted product removals and widespread headlines. Even so, restaurant analysts previously told CNBC they did not expect a long-term financial hit for the companies linked to the outbreak.
+Shares of Yum Brands are down nearly 9% in the last five days.`,
+    bodyJa: `食品医薬品局が嚢胞子症調査の重要な部分について撤回したことは米国で混乱を引き起こしているが、同局は月曜、この発生に関する主な結論は変更していないと発表した。
+同庁は日曜日、メキシコのテイラー・ファームズから供給されたアイスバーグ・レタスのサンプルがシクロスポラ原虫を保有していることを示す検査が偽陽性であったと発表した。しかし、これは同社が供給したレタスの特定の1つの出荷にのみ適用され、政府機関は、それが1,600人以上、そしておそらく他の数千人に病気を引き起こした車両であるとは考えていません。
+同庁は月曜の釈明の中で、偽陽性は今回の感染拡大がテイラー・ファームズが供給するメキシコ中部産の細切りアイスバーグレタスに関連しているというこれまでの結論を変えるものではないと述べ、タコベルの一部店舗でも提供されていたと述べた。同庁は依然として米国人に対し、リコール対象のアイスバーグレタスを食べないよう勧告している。
+「FDAの追跡調査と発生データは、メキシコ中部にあるテイラー・ファームズの細切りアイスバーグ・レタスに引き続き集中している」と声明で述べた。 「FDAは引き続き連邦および州のパートナーと協力して、この複数の州での流行を調査し、この流行に関与した製品が市場から確実に排除されるよう努める。」
+捜査当局は、発生の正確な原因の調査を続けており、この発生により、数日間、場合によっては数週間にわたってひどい腹痛に似た症状が引き起こされる可能性がある。 CNBCは、追加の成分や供給業者が精査されているかどうか、またFDAがさらなる指針を発表する予定があるかどうかなど、調査の次の段階の詳細についてFDAに問い合わせた。代理店はまだ返答していない。
+偽陽性検査は、発展中の調査が消費者と食品業界の両方に不確実性をもたらす中で発生しました。 FDAはテイラー・ファームのアイスバーグレタスを食べないよう言っているが、感染者数の増加に伴いサラダをまったく食べない客もいる。
+「残念ながら、この最新の展開は、消費者にとってすでに複雑な状況にさらなる混乱をもたらす可能性がある」とFDAの食品政策・対応担当副長官フランク・イアナス氏は述べた。
+業界アナリストらは感染拡大がタコベルや他のレストランチェーンに長期的な影響を与えるとは予想していないが、客足データに基づくと少なくとも一時的に売上に打撃を与え、感染に関連する企業は1～2四半期の打撃を受ける可能性がある。調査会社Placer.aiのデータによると、金曜日のタコベルの客足は、今年これまでの曜日平均と比べて約19％減少した。
+FDA の誤検知が意味するもの
+食中毒の発生調査では、確認検査中に最初のスクリーニングシグナルが再現されない場合、偽陽性が発生する可能性があります。一部の医師は、シクロスポラを研究室で再現するのは特に難しいと指摘しています。
+しかし、それは政府関係者の感染拡大の根源に対する見方に変化をもたらしたわけではない。
+流行が爆発的に拡大しているミシガン州保健福祉省は、事前に洗ったり、袋詰めしたり、あらかじめ混ぜ合わせたサラダキットではなく、丸ごとのレタスを購入することを引き続き推奨していると述べている。
+同庁は、2,000人以上の感染者への聞き取りに基づいて、患者の多くはレストランでレタスを食べたと報告していないが、何らかの状況で葉物野菜を食べたと頻繁に述べていると付け加えた。
+テイラー・ファームズは月曜朝、メキシコ中部から関与の疑いのあるアイスバーグレタスの自主回収を継続すると発表し、タコベルはすでに影響を受けた州のレストランから疑わしいレタスの撤去を開始している。
+その波及効果はそれらの企業を超えて広がります。
+ウォルマートは月曜日、同社の製品が感染拡大に関与している兆候はないとしながらも、テイラー・ファームズが供給するマーケットサイド・ブランドの袋入りサラダキット製品4品を27州の店舗から積極的に撤去したと発表した。
+同社は声明で「現時点でこれらの製品に関連する病気は確認されていない」と述べた。 「当社はサプライヤーと緊密に連携しており、製品の販売を中止するために直ちに措置を講じました。」
+元FDA長官のスコット・ゴットリーブ博士はCNBCに対し、検査結果によってテイラー・ファームと感染拡大との関連性が明らかになるわけではないと示唆した。同氏によると、金曜日のリコールは数週間前に輸入された製品に関するもので、FDAの検査で陽性反応が出たレタスとは別のものだったという。
+同氏はまた、シクロスポラの潜伏期間は最長2週間で、レタスの賞味期限は短いため、たとえ同じ農場から来たものであっても、複数の出荷品をテストすることが重要であると述べた。
+フロリダ大学医学部准教授のノーマン・ビーティ博士によると、今のところ発生源は単一の業者かもしれないが、汚染はすでに広範囲に広がっている可能性があるという。
+ビーティ氏はCNBCに対し、「今回の感染拡大が、この寄生虫の性質によりさらなる感染拡大につながった可能性がある」と語った。 「今回の感染拡大にとってこれが重要な理由は、30以上の州で感染が隔離されており、他の地域でも小規模な感染拡大が発生する可能性があるためです。」
+レストランのフォールアウト
+レストランにとって、不確実性は流行そのものと同じくらい困難であることが判明しています。サラダを中心としたチェーン店や生鮮食品に大きく依存しているその他の経営者は、他の食材が依然として潜在的なリスクであるかどうかが分からないままになっています。
+タコベルは土曜日の声明でCNBCに対し、作業開始から72時間以内に疑わしいレタスを自社店舗から自主的に撤去し、それに応じてサプライチェーンを調整したと述べた。同社は、消費者がその店舗で安全に食事をできることに「自信を持っている」と付け加えた。
+「明らかに、これは業界全体の問題であり、タコベル特有の問題ではない」と同社は述べた。 「業界の他のメンバーも、私たちと同じ程度の即時行動と消費者に対する説明責任を果たしてくれることを願っています。」
+Placer.aiによると、業績が低迷しているレストランはタコベルだけではないという。同社によると、チョプト、パネラ・ブレッド、チポトレなど、レタスを販売する他のレストラン・チェーンでも来店客が金曜日に減少したという。
+先週、感染拡大に関する見出しが飛び交う中、業界トップの擁護団体は食品の安全を真剣に受け止めていると強調した。
+全米レストラン協会の最高経営責任者（CEO）ミシェル・コルモ氏はLinkedInへの投稿で、「食品基準では、すべてのレストランに食品安全認定を受けたマネージャーをシフトごとに配置することが求められている」と述べた。
+「私たちは公衆衛生当局が発生状況を調査し、食品安全に関する決定を評価するために必要な情報を会員が確実に得られるよう、引き続き支援していきます」と彼女は付け加えた。
+そして、偽陽性の結果にもかかわらず、テイラー・ファームズとタコベルの親会社ヤム・ブランズは依然として、製品の削除や大々的な見出しを引き起こした流行による風評被害を乗り越えている。それでも、レストランアナリストらは以前CNBCに対し、感染拡大に関連した企業が長期的な財務的打撃を受けるとは予想していないと語った。
+ヤム・ブランズの株価は過去５日間で９％近く下落した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/cyclosporiasis-fda-taylor-farms-lettuce-false-positive.html",
+    publishedAt: "2026-07-20T19:42:30+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "paramount-and-warner-bros-merger-hit-wit-055ebcae",
+    title: "Paramount and Warner Bros. merger hit with temporary restraining order",
+    titleJa: "パラマウントとワーナー・ブラザースの合併に一時接近禁止命令が出た",
+    summaryJa: "パラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー買収提案は、州司法長官が起こした訴訟の一環として判事が合併に対する一時差し止め命令を認めたことで、最初の正式な障害に突き当たった。カリフォルニア州地方判事のアラセリ・マルティネス・オルギン氏は、金曜日にオークランドの法廷で双方の弁論を聞いた後、月曜日に命令に署名した。この命令により、合併を進めるすべての行為が14日間停止される。",
+    bodyOriginal: `Paramount Skydance's proposed acquisition of Warner Bros. Discovery hit its first official roadblock when a judge granted a temporary restraining order on the merger as part of a lawsuit brought by state attorneys general.
+California District Judge Araceli Martínez-Olguín signed off on the order Monday after hearing arguments from both sides in an Oakland courtroom on Friday. The order puts a 14-day pause on anything moving forward with the merger.
+Last week, a group of state attorneys general led by California's Rob Bonta filed a lawsuit seeking to block the $110 billion acquisition due to antitrust concerns. The proposed deal would unite the storied film studios of Paramount and Warner Bros, the CBS broadcast network, a sprawling portfolio of pay TV networks that includes CNN, TNT, MTV and BET, and streaming services Paramount+ and HBO Max, under one roof.
+In a statement Monday, a Paramount spokesperson said the company is "confident the evidence will demonstrate that the State AGs' antitrust arguments are without merit as their alleged markets and claims of anticompetitive effects are without any basis in modern market realities."
+"This merger is lawful, pro-competitive, and will benefit consumers, creators, workers, and the entertainment industry. We will continue to vigorously defend the transaction and will look forward to the hearings on the substance of the State AGs' action," according to the statement.
+Warner Bros. declined to comment.
+The lawsuit said the proposed deal would violate the Clayton Antitrust Act — a more than 100-year-old law that prohibits anticompetitive mergers and acquisitions. The lawsuit was brought by a group of states that also includes Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon and Washington.
+In Monday's order, Martínez-Olguín said the coalition of state attorneys general presented "compelling evidence that the combined firm resulting from the transaction will possess substantial market share in the wide-release theatrical distribution market."
+Paramount's lead trial counsel, Jeffrey Kessler, said on CNBC last week that the TRO was filed after Paramount indicated its intention was to close the deal as early as July 22, when the company expects to have all regulatory clearances.
+During Friday's hearing, Paramount attorneys offered to delay the deal closing until mid-August to sidestep a temporary restraining order.
+In Monday's statement, Paramount said it was "grateful for the court's swift order," adding that similar to its offer to delay the deal during Friday's hearing, the order "preserves the status quo while the Court considers the antitrust issues presented."
+Still, the states could seek another temporary restraining order after the 14 days, or a preliminary injunction, which would further delay the deal.
+Another proposed media deal — the $6.2 billion tie-up of broadcast station group owners Nexstar Media Group and Tegna — has been put on pause following a similar lawsuit and preliminary injunction that was granted by a U.S. court. A trial for the lawsuit, which is also being led by Bonta, is set to begin in mid-2027.
+The Paramount-WBD transaction has been under review by the European Union and the U.K., which provided a new provisional deadline of July 22.
+The Antitrust Division of the U.S. Department of Justice signed off on the tie-up in June, clearing it of federal concerns. It has also won approval from several global jurisdictions.
+Paramount has said it's on track to close the deal by the end of September.
+If the transaction were to be delayed beyond then, Paramount could face additional costs, namely a so-called ticking fee that kicks in if it's not closed after Sept. 30. The fee would be an additional 25 cents paid to WBD shareholders per quarter until closing — which would equal about $650 million in cash value per quarter.
+Paramount also agreed to a $7 billion breakup fee if the deal doesn't move forward due to regulatory concerns.
+Bonta called the merger unlawful and said it would "lead to higher prices, lower quality, and less content for film and television, harming movie theaters, basic cable distributors, and ultimately, audiences on every sofa and movie theater seat in the U.S."
+The states that brought the lawsuit against the deal said they believe that the merged entity would control nearly one-third of films and nearly a third of basic cable TV programming.
+Paramount has defended the deal as "pro-competitive."
+In court papers filed Thursday, Paramount said the temporary restraining order "presents one of the weakest merger challenges in modern antitrust history."
+The company said the deal would "produce more high-quality content for consumers; it will incentivize investment in job-creating film production; it will stabilize basic cable television (which is gravely threatened by cord cutting); and it will increase the output of theatrical releases in a challenged entertainment landscape."
+— CNBC's Sarah Whitten and Stephen Desaulniers contributed to this article.
+Correction: Paramount's lead trial counsel, Jeffrey Kessler, spoke on CNBC last week. An earlier version misstated the time element. Paramount agreed to a $7 billion breakup fee if the deal doesn't move forward due to regulatory concerns. An earlier version mischaracterized the fee.`,
+    bodyJa: `パラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー買収提案は、州司法長官が起こした訴訟の一環として判事が合併に対する一時差し止め命令を認めたことで、最初の正式な障害に突き当たった。
+カリフォルニア州地方判事のアラセリ・マルティネス・オルギン氏は、金曜日にオークランドの法廷で双方の弁論を聞いた後、月曜日に命令に署名した。この命令により、合併を進めるすべての行為が14日間停止される。
+先週、カリフォルニア州のロブ・ボンタ氏率いる州司法長官のグループが、独占禁止法の懸念を理由に1100億ドルの買収阻止を求める訴訟を起こした。この協定案では、パラマウントとワーナー・ブラザースの名高い映画スタジオ、CBS放送ネットワーク、CNN、TNT、MTV、BETを含む有料TVネットワークの広大なポートフォリオ、ストリーミングサービスのパラマウント+とHBOマックスを一つ屋根の下に統合することになる。
+パラマウントの広報担当者は月曜の声明で、同社は「市場の主張や反競争効果の主張は現代の市場の現実において何ら根拠がないため、州AGの独占禁止法に関する主張には根拠がないことが証拠によって証明されると確信している」と述べた。
+声明によると、「この合併は合法で、競争促進的であり、消費者、クリエイター、労働者、エンターテインメント業界に利益をもたらすだろう。我々は引き続きこの取引を精力的に擁護し、州AGの行動の内容に関する公聴会を楽しみにしている」としている。
+ワーナー・ブラザースはコメントを控えた。
+訴訟では、提案された取引はクレイトン反トラスト法（反競争的な合併・買収を禁止する100年以上の歴史のある法律）に違反すると述べた。この訴訟は、アリゾナ、コロラド、コネチカット、マサチューセッツ、ミネソタ、ネバダ、ニュージャージー、ニューメキシコ、ニューヨーク、オレゴン、ワシントンを含む州のグループによって起こされた。
+マルティネス＝オルギン氏は月曜日の命令で、州司法長官連合が「取引によって生じる統合会社が広範囲の劇場配給市場で相当の市場シェアを保有することを示す有力な証拠」を提示したと述べた。
+パラマウントの主任裁判弁護士、ジェフリー・ケスラー氏は先週CNBCで、パラマウントがすべての規制当局の認可が得られる予定の7月22日までに取引を完了する意向を示したことを受けてTROが申し立てられたと述べた。
+金曜の公聴会でパラマウントの弁護士らは、一時差し止め命令を回避するため、取引完了を8月中旬まで遅らせることを提案した。
+パラマウントは月曜日の声明で、「裁判所の迅速な命令に感謝している」と述べ、金曜日の公聴会での取引延期の提案と同様に、この命令は「裁判所が提示された独占禁止法の問題を検討している間、現状を維持するものである」と付け加えた。
+それでも各州は14日後に再度の一時的差し止め命令、あるいは仮差止命令を求める可能性があり、そうなれば合意はさらに遅れることになる。
+もう一つのメディア取引案、放送局グループオーナーのネクスター・メディア・グループとテグナ社の62億ドルの提携案は、同様の訴訟と米国裁判所が認めた仮差し止め命令を受けて、一時停止された。この訴訟の裁判もボンタ氏が主導しており、2027年半ばに始まる予定だ。
+パラマウントとWBDの取引は欧州連合と英国によって審査されており、英国は7月22日という新たな暫定期限を設けた。
+米国司法省反トラスト局は6月に提携に署名し、連邦政府の懸念を解消した。また、いくつかの世界的な管轄区域からも承認を得ています。
+パラマウントは9月末までに契約を完了する予定であると述べた。
+取引がそれを超えて遅延した場合、パラマウントは追加費用、すなわち9月30日以降に取引が完了しなかった場合に発生するいわゆるティッキング手数料に直面する可能性がある。手数料は、取引完了まで四半期ごとにWBD株主に追加で25セント支払われることとなり、これは四半期あたり約6億5,000万ドルの現金価値に相当する。
+パラマウントはまた、規制上の懸念により取引が進展しない場合、70億ドルの違約金を支払うことにも同意した。
+ボンタ氏はこの合併は違法だとし、「映画やテレビの価格が高くなり、品質が低下し、コンテンツが減り、映画館や基本的なケーブル配信会社、そして最終的には米国内のすべてのソファや映画館の座席の観客に損害を与える」と述べた。
+この協定に対して訴訟を起こした各州は、合併後の組織が映画のほぼ3分の1と基本的なケーブルテレビ番組のほぼ3分の1を管理することになると考えていると述べた。
+パラマウントはこの契約を「競争促進的」なものとして擁護した。
+パラマウントは木曜日に提出した法廷書類の中で、今回の一時差し止め命令は「現代の独占禁止法の歴史の中で最も弱い合併の課題の一つを提示している」と述べた。
+同社は、今回の提携により「消費者向けにより質の高いコンテンツが制作され、雇用を創出する映画制作への投資が奨励され、（コード切断により深刻な脅威にさらされている）基本的なケーブルテレビが安定し、困難なエンターテインメント環境において劇場公開作品の生産量が増加する」と述べた。
+— CNBC の Sarah Whitten と Stephen Desaulniers がこの記事に寄稿しました。
+訂正：パラマウントの主任裁判弁護士、ジェフリー・ケスラー氏は先週CNBCで講演しました。以前のバージョンでは時間要素が誤って記載されていました。パラマウントは、規制上の懸念により取引が進展しない場合、70億ドルの違約金を支払うことに同意した。以前のバージョンでは料金が誤って記載されていました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html",
+    publishedAt: "2026-07-20T19:20:38+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "trump-administration-s-head-of-ai-safety-f89ba4cb",
+    title: "Trump administration's head of AI safety agency resigns after 3 months on job",
+    titleJa: "トランプ政権のAI安全庁長官、任期3カ月で辞任",
+    summaryJa: "AI標準・イノベーションセンター所長のクリス・フォール氏が、トランプ政権によってその職に選出されてからわずか3か月後に所長の職を辞任したとCNBCが月曜日に確認した。そのウェブサイトによると、米国商務省の一部である CAISI は、政府が商用人工知能システムに関する「テストと共同研究」を促進するのを支援することを目的としている。",
+    bodyOriginal: `Chris Fall, the head of the Center for AI Standards and Innovation, resigned from his role as director just three months after he was picked for the job by the Trump administration, CNBC confirmed on Monday.
+CAISI, part of the U.S. Department of Commerce, aims to help the government facilitate "testing and collaborative research" around commercial artificial intelligence systems, according to its website.
+Commerce Department spokesperson Kristen Eichamer told CNBC that Arvind Raman, the director of National Institute of Standards and Technology, will serve as acting director of CAISI and continue to oversee the agency. Eichamer didn't disclose why Fall, who was tapped to run the organization in April, resigned from his position.
+Fall's departure adds to growing uncertainty surrounding who serves as the Trump administration's point person for AI policy and research. Venture capitalist David Sacks previously held the position of White House AI and crypto czar, but he stepped down from that role in March and has yet to be replaced.
+It's a particularly sensitive moment for the White House as Chinese open-source models gain traction in the U.S. against big proprietary models from OpenAI and Anthropic. Late last week, Chinese startup Moonshot AI unveiled a new model, Kimi K3, that it says closes the gap with leading U.S. offerings and surpasses OpenAI and Anthropic's most capable systems on some benchmarks.
+The Trump administration has taken a more hands-on approach to AI regulation since the president signed an AI executive order in June. The order asks AI developers to voluntarily provide models to the government to assess their capabilities ahead of a full release, and it gave federal agencies 60 days to develop an evaluation framework.
+The process has been murky for companies that have tried to launch powerful new models in the interim.
+OpenAI said in June that it agreed to limit the rollout of its GPT-5.6 model series to a group of "trusted partners" at the request of the U.S. government. Two weeks earlier, Anthropic had to disable access to its Fable 5 and Mythos 5 models to comply with an export control directive that was issued by the Commerce Department. Both companies later managed to release their models more broadly.
+The Trump administration has taken steps to start implementing the executive order in recent weeks, namely by announcing a clearinghouse called "Gold Eagle." The clearinghouse aims to find and fix cyber vulnerabilities, and it puts the White House in charge of greenlighting which companies can access cutting-edge AI models, as CNBC previously reported.
+The clearinghouse has already started to "intake and prioritize identified cybersecurity vulnerabilities" and "coordinate scanning verifications," according to a release from the White House. CAISI was not named as an agency involved with its development.
+WATCH: Fmr. senior WH policy adviser on Trump admin lifting restrictions on Anthropic’s AI models`,
+    bodyJa: `AI標準・イノベーションセンター所長のクリス・フォール氏が、トランプ政権によってその職に選出されてからわずか3か月後に所長の職を辞任したとCNBCが月曜日に確認した。
+そのウェブサイトによると、米国商務省の一部である CAISI は、政府が商用人工知能システムに関する「テストと共同研究」を促進するのを支援することを目的としている。
+商務省のクリステン・アイチャマー報道官はＣＮＢＣに対し、国立標準技術研究所の所長であるアルビンド・ラマン氏がＣＡＩＳＩの所長代理を務め、引き続きＣＡＩＳＩを監督すると語った。アイチャマー氏は、4月に組織運営に抜擢されたフォール氏が辞任した理由を明らかにしなかった。
+フォール氏の辞任により、トランプ政権のAI政策と研究の中心人物が誰になるのかを巡る不確実性がさらに高まっている。ベンチャーキャピタリストのデビッド・サックス氏は以前、ホワイトハウスのAIおよび暗号通貨皇帝の地位にあったが、3月にその役職を辞任し、まだ後任が決まっていない。
+米国ではOpenAIやAnthropicの大手独自モデルに対して中国のオープンソースモデルが勢いを増しているため、今はホワイトハウスにとって特に敏感な時期だ。先週後半、中国の新興企業Moonshot AIは新モデル「Kimi K3」を発表し、米国の主要製品との差を縮め、いくつかのベンチマークでOpenAIやAnthropicの最も有能なシステムを上回ったとしている。
+トランプ政権は、大統領が6月にAI大統領令に署名して以来、AI規制に対してより実践的なアプローチをとっている。この命令では、AI開発者に対し、完全リリースに先立ってその機能を評価するために自発的にモデルを政府に提供するよう求めており、連邦政府機関には評価枠組みの開発に60日間の猶予が与えられている。
+その間に強力な新モデルを投入しようとしている企業にとって、そのプロセスは不透明だ。
+OpenAIは6月、米国政府の要請に応じ、GPT-5.6モデルシリーズの展開を「信頼できるパートナー」のグループに限定することに同意したと発表した。 2 週間前、Anthropic は商務省が発行した輸出管理指令に準拠するために、Fable 5 および Mythos 5 モデルへのアクセスを無効にする必要がありました。両社はその後、モデルをより広範囲にリリースすることに成功しました。
+トランプ政権はここ数週間、「ゴールド・イーグル」と呼ばれる手形交換所の設立を発表するなど、大統領令の実施に向けた措置を講じてきた。 CNBCが以前報じたように、このクリアリングハウスはサイバー脆弱性を発見して修正することを目的としており、企業が最先端のAIモデルにアクセスできるようにする許可をホワイトハウスに与えている。
+ホワイトハウスのリリースによると、クリアリングハウスはすでに「特定されたサイバーセキュリティの脆弱性を取り込み、優先順位を付ける」ことと「スキャン検証の調整」を開始しているという。 CAISIはその開発に関与した機関として名指しされていない。
+見てください：Fmr. WH上級政策顧問、トランプ政権がAnthropicのAIモデルに対する制限を解除したことについて`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+    publishedAt: "2026-07-20T19:18:46+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "sen-darline-graham-running-for-full-term-6bab2f98",
+    title: "Sen. Darline Graham running for full term to replace late brother Lindsey Graham",
+    titleJa: "ダーリン・グラハム上院議員が亡き兄リンジー・グラハムの後任として任期満了に立候補",
+    summaryJa: "サウスカロライナ州のダーリン・グラハム上院議員は月曜日、兄のリンジー・グラハム氏の後任として上院議員として6年の任期を全任することを目指すと発表した。グラハム氏は先週、サウスカロライナ州のヘンリー・マクマスター知事から、7月11日に急死した兄の代わりに年末まで任命された。現在、彼女はより恒久的な議会残留を目指しており、月曜日のインタビューでFOXニュースのショーン・ハニティに「私は参加する」と語った。",
+    bodyOriginal: `South Carolina Sen. Darline Graham announced Monday that she will seek a full, six-year term to replace her brother, Lindsey Graham, in the Senate.
+Graham last week was appointed by South Carolina Gov. Henry McMaster to fill the seat of her brother, who died unexpectedly on July 11, through the end of the year. Now she has her sights on a more permanent stay in Congress, telling Fox News' Sean Hannity "I'm in," in an interview on Monday.
+"I have been praying a lot, talking to my family ... I feel like I can do it. I feel an inner peace about it. Will it be difficult? Yes. Absolutely," Graham said. She's now the fifth South Carolina Republican who says they'll vie for the job in a special GOP primary scheduled for Aug. 11.
+Filing for the special primary officially opens at noon ET on Tuesday. The winner of that primary will face Democrat Annie Andrews in the general election this November, in a race the Cook Political Report with Amy Walter had labeled "Solid R.
+Graham has been a sworn member of the Senate for less than a week, but already she's earned the blessing of President Donald Trump.
+In a TruthSocial post on Friday, the president urged Graham to seek the nomination and called her a "spectacular person, and a true American Patriot."
+"[T]here would be nobody better to honor the legacy of her beloved brother, Lindsey. Darline, who comes from an absolutely incredible family, has been a WINNER all of her life and, should she accept, has my Complete and Total Endorsement in the Special Election for U.S. Senate in South Carolina — SHE WILL NEVER LET YOU DOWN. RUN, DARLINE, RUN!" Trump wrote.
+Her run sets up a showdown with other prominent Palmetto State Republicans.
+South Carolina Rep. Russell Fry announced on Monday that he was throwing his name in the ring, days after fellow South Carolinian Rep. Ralph Norman announced he'd run.
+"South Carolina, I'm in! I'm running for the U.S. Senate. Too many South Carolina families are struggling to make ends meet. High gas prices and soaring grocery costs are hurting hardworking people," Fry said in his post.
+"We need a conservative fighter in the Senate who delivers real results. I will be your conservative MAGA candidate in the special primary Senate election this summer. I'm ready for the fight, and I'm all in," the post continued.
+Fry is a close Trump ally who has represented South Carolina's 7th Congressional District in the northeast part of the state since 2023. Norman, a conservative member of the House Freedom Caucus who failed in his bid for South Carolina governor in a GOP primary earlier this year, announced his plans to run for the Senate seat over the weekend.
+"I'm running to represent the people of South Carolina in the U.S. Senate because we need a fighter who will stand with President Trump and carry on Lindsey Graham's legacy! I've spent years fighting for the Palmetto State in the state house, in Congress, and now I want to get the SAVE America Act passed in the Senate!" wrote Norman, referencing a controversial, Trump-backed election bill that would impose strict photo ID requirements and require proof of citizenship to register to vote.
+Norman has represented South Carolina's 5th Congressional District in the north-central part of the state since 2017. He is not seeking reelection to the House.
+A primary victory for Fry, who is seeking another House term, could complicate Republicans' path to retaining a House majority. If successful in his Senate bid, there's not enough time to replace Fry on the ballot for his House seat in November.
+The South Carolina Election Commission confirmed in a statement last week that a candidate can appear on the general election ballot for multiple offices. But if Fry won both seats, he would need to decline to be sworn in to the House, triggering a special election in spring 2027 and potentially leaving the House GOP a member short to start the 120th Congress.
+"I respect Russell Fry and I have enjoyed serving with him in the House, but the reality is, his candidacy could leave his seat vacant until May 18th. This would leave his constituents unrepresented, jeopardize President Trump's agenda, and put the House at risk of being led by a Speaker Hakeem Jeffries. We can't let that happen!!" Norman posted to X on Monday, referring to the Democratic House leader.
+Mark Lynch, a South Carolina businessman who came in second against Lindsey Graham in South Carolina's June GOP primary, announced on July 13 that he would enter the race. Duke Buckner, who launched two unsuccessful bids, in 2022 and 2024, to unseat Democratic Rep. James Clyburn in South Carolina's 6th Congressional District, has also announced his candidacy.`,
+    bodyJa: `サウスカロライナ州のダーリン・グラハム上院議員は月曜日、兄のリンジー・グラハム氏の後任として上院議員として6年の任期を全任することを目指すと発表した。
+グラハム氏は先週、サウスカロライナ州のヘンリー・マクマスター知事から、7月11日に急死した兄の代わりに年末まで任命された。現在、彼女はより恒久的な議会残留を目指しており、月曜日のインタビューでFOXニュースのショーン・ハニティに「私は参加する」と語った。
+「私は何度も祈り、家族と話してきました...私にはそれができると感じています。それについて心の平安を感じています。それは難しいでしょうか？はい、もちろんです」とグラハムは言いました。彼女は現在、8月11日に予定されている特別共和党予備選挙での職を争うと主張する5人目のサウスカロライナ州共和党議員となった。
+特別予備選挙の申請は火曜日正午（東部時間）に正式に開始される。その予備選の勝者は今年11月の総選挙で民主党のアニー・アンドリュースと対戦することになるが、エイミー・ウォルター氏とのクック・ポリティカル・レポートでは「ソリッド・R・ブッシュ」と名付けられたこの選挙戦で、
+グラハム氏は上院議員に就任してまだ1週間も経っていないが、すでにドナルド・トランプ大統領の祝福を得ている。
+金曜日のトゥルースソーシャルへの投稿で、大統領はグラハム氏に指名を目指すよう促し、彼女を「素晴らしい人物であり、真のアメリカの愛国者」と呼んだ。
+「彼女の最愛の兄、リンジーの功績を称えるのにこれ以上にふさわしい人はいないでしょう。ダーリンは本当に素晴らしい家族の出身で、生涯ずっと勝ち組であり、もし彼女が受け入れるなら、サウスカロライナ州の上院特別選挙で私が完全かつ完全に支持します。彼女は決してあなたを失望させません。走れ、ダーリン、走れ！」とトランプ大統領は書いた。
+彼女の出馬により、他の著名なパルメット州共和党員との対決が始まる。
+サウスカロライナ州下院議員ラッセル・フライ氏は、同じくサウスカロライナ州下院議員ラルフ・ノーマン氏が出馬を表明した数日後、月曜日、土俵に名前をあげると発表した。
+「サウスカロライナ、入ったよ！私は米国上院に立候補しています。サウスカロライナ州では、あまりにも多くの家族が家計のやりくりに苦労しています。ガソリン価格の高騰と食料品の高騰が、勤勉な人々に打撃を与えている」とフライ氏は投稿の中で述べた。
+「私たちは上院に真の結果をもたらす保守派の闘士を必要としている。私はこの夏の特別予備上院選挙で保守派の MAGA 候補者になります。戦いの準備はできているし、全力で取り組んでいる」と投稿は続けた。
+フライ氏はトランプ大統領の盟友で、2023年から同州北東部にあるサウスカロライナ州第7選挙区の代表を務めている。下院自由議員団の保守派議員で、今年初めの共和党予備選でサウスカロライナ州知事選に立候補したが落選したノーマン氏は、週末の上院選に出馬する計画を発表した。
+「私はサウスカロライナ州の人々を代表してアメリカ上院に立候補しています。なぜなら、トランプ大統領の側に立ち、リンジー・グラハムの遺産を引き継ぐ戦士が必要だからです。私は何年も州議会や議会でパルメット州のために戦ってきたが、今は上院で「SAVE America Act」を可決させたいと思っている!」とノーマン氏は書き、物議を醸しているトランプ支持の選挙法案に言及し、厳格な写真付き身分証明書の要件を課し、有権者登録には市民権の証明を要求するものだった。
+ノーマン氏は2017年からサウスカロライナ州中北部の第5下院選挙区の代表を務めているが、下院議員への再選は目指していない。
+下院再任を目指すフライ氏が予備選で勝利すれば、共和党が下院過半数を維持する道が複雑になる可能性がある。上院での立候補が成功した場合、11月の下院議席の投票でフライ氏に代わるには十分な時間がない。
+サウスカロライナ州選挙管理委員会は先週の声明で、候補者が複数の役職の総選挙投票用紙に記載できることを認めた。しかし、フライ氏が両議席を獲得した場合、下院議員就任を辞退する必要があり、2027年春に特別選挙が実施され、第120回議会の開始までに下院共和党の議員が1人不足する可能性がある。
+「私はラッセル・フライ氏を尊敬しており、下院で彼と一緒に仕事をするのを楽しんでいるが、現実には、彼の立候補により彼の議席は5月18日まで空席のままになる可能性がある。そうなれば、有権者が代表を失ったままとなり、トランプ大統領の政策が危うくなり、下院がハキーム・ジェフリーズ議長に主導される危険にさらされることになる。そんなことを許すわけにはいかない!!」とノーマン氏は月曜日、民主党下院院内総務に言及してX氏に投稿した。
+6月のサウスカロライナ州共和党予備選でリンジー・グラハムに対抗して2位となったサウスカロライナ州の実業家マーク・リンチ氏は7月13日、選挙戦への出馬を表明した。サウスカロライナ州第6下院選挙区で民主党議員ジェームズ・クライバーン氏の失脚を目指して2022年と2024年に2度の入札を行ったが不首尾に終わったデューク・バックナー氏も立候補を表明した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html",
+    publishedAt: "2026-07-20T18:53:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "trump-says-netanyahu-won-t-be-arrested-i-b7d723a4",
+    title: "Trump says Netanyahu won't be arrested in New York, pushing back on Mamdani",
+    titleJa: "トランプ大統領、ネタニヤフ首相はニューヨークでは逮捕されないと発言、マムダニ氏を反発",
+    summaryJa: "ドナルド・トランプ大統領は月曜日、イスラエルのベンヤミン・ネタニヤフ首相が9月にニューヨークを訪問する際に「逮捕されない」と述べ、逮捕の可能性があるというゾーラン・マムダニ市長の提案を押し切った。マムダニ氏は、ニューヨーク市法務局がネタニヤフ首相が国連総会出席のため同市を訪れている際にネタニヤフ首相を逮捕する可能性を検討していると述べた。",
+    bodyOriginal: `President Donald Trump said Monday that Israeli Prime Minister Benjamin Netanyahu "will not be arrested" when he visits New York in September, pushing back on a suggestion by Mayor Zohran Mamdani that such an arrest could happen.
+Mamdani has said New York City's legal department is discussing the possibility of arresting Netanyahu when the prime minister is in the city to attend the United Nations General Assembly.
+"I believe that Prime Minister Netanyahu belongs in The Hague," Mamdani told The New York Times' "The Interview" podcast that published Saturday.
+"He's a war criminal who has been charged by the International Criminal Court. And what you will find is that is an opinion that is held by many purely because of what his actions have wrought over these last many years," the mayor said.
+Trump, in a Truth Social post on Monday, said, "Benjamin Netanyahu will not be arrested, in any way, shape, or form, while in the United States of America."
+"He is fighting against the Islamic Republic of Iran, which recently killed 52,000 innocent protestors, and has spent the last 47 years killing American Soldiers, and others," Trump wrote. "The only ones that should be arrested are the people that led Iran into this unprecedented SPIRAL OF DEATH AND DESTRUCTION, something that should have been dealt with years ago, by previous Presidents!"
+The ICC issued an arrest warrant for Netanyahu on Nov. 21, 2024, alleging he is "responsible for the war crimes of starvation as a method of warfare and of intentionally directing an attack against the civilian population" in Gaza, as well as "crimes against humanity of murder, persecution, and other inhumane acts from at least 8 October 2023 until at least 20 May 2024."
+The case relates to Israel's war on Gaza after the attack by the Palestinian militant group Hamas on Israel on Oct. 7, 2023.
+Netanyahu's office on Sunday blasted the ICC and Mamdani.
+"The ICC is a kangaroo court that has no jurisdiction over Americans or Israelis," the prime minister's office said in a statement on X. "Its bogus arrest warrant against Prime Minister Netanyahu was issued by a disgraced former ICC Prosecutor, Karim Khan, a few days before allegations of sexual misconduct against him became public."
+"Instead of backing Khan's criminal behaviour, Mr. Mamdani should focus on fixing the damage his policies have caused New York," the post said. "Like Karim Khan, Mamdani appears interested in diverting public attention from his follies and attacking the leader of the Jewish state and the only democracy in the Middle East."`,
+    bodyJa: `ドナルド・トランプ大統領は月曜日、イスラエルのベンヤミン・ネタニヤフ首相が9月にニューヨークを訪問する際に「逮捕されない」と述べ、逮捕の可能性があるというゾーラン・マムダニ市長の提案を押し切った。
+マムダニ氏は、ニューヨーク市法務局がネタニヤフ首相が国連総会出席のため同市を訪れている際にネタニヤフ首相を逮捕する可能性を検討していると述べた。
+「私はネタニヤフ首相がハーグに所属していると信じています」とマムダニ氏は土曜日に発行されたニューヨーク・タイムズ紙のポッドキャスト「ザ・インタビュー」で語った。
+「彼は戦犯であり、国際刑事裁判所に起訴されている。そして、それは純粋にここ数年に彼の行動が引き起こしたことを理由に多くの人が抱いている意見だということが分かるだろう」と市長は述べた。
+トランプ大統領は月曜日のトゥルース・ソーシャルへの投稿で、「ベンヤミン・ネタニヤフ首相は米国にいる間、いかなる形、形であっても逮捕されない」と述べた。
+トランプ大統領は、「彼はイラン・イスラム共和国と戦っている。イラン・イスラム共和国は最近5万2000人の罪のない抗議者を殺害し、過去47年間に渡ってアメリカ兵などを殺害してきた」と述べた。 「逮捕されるべきは、イランをこの前例のない死と破壊のスパイラルに導いた人々だけであり、これは歴代大統領が何年も前に対処すべきだったものだ！」
+ICCは2024年11月21日、ネタニヤフ首相にガザでの「戦闘手段としての飢餓と民間人への攻撃を意図的に指示した戦争犯罪」、および「少なくとも2023年10月8日から少なくとも2024年5月20日までの殺人、迫害、その他の非人道的行為という人道に対する罪」の責任があると主張し、ネタニヤフ首相に対する逮捕状を発行した。
+この事件は、2023年10月7日にパレスチナ過激派組織ハマスによるイスラエル攻撃後のイスラエルのガザ戦争に関連している。
+ネタニヤフ首相の事務所は日曜日、ICCとマムダニを非難した。
+首相官邸はＸに関する声明で、「ＩＣＣは米国人やイスラエル人に対して管轄権を持たないカンガルー法廷だ」と述べ、「ネタニヤフ首相に対する偽の逮捕状は、同首相に対する性的違法行為の疑惑が公になる数日前に、不名誉な元ＩＣＣ検察官カリム・カーンによって発行された」と述べた。
+同投稿では、「マムダニ氏はカーン氏の犯罪行為を支持するのではなく、彼の政策がニューヨークに与えた損害の修復に注力すべきだ」と述べた。 「カリム・カーンと同様、マムダニも自身の愚行から国民の注目をそらし、ユダヤ国家と中東唯一の民主主義国家の指導者を攻撃することに興味があるようだ。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/trump-netanyahu-arrest-mamdani-new-york-israel.html",
+    publishedAt: "2026-07-20T18:49:10+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "i-will-claim-social-security-early-why-d-2beb83de",
+    title: "I will claim Social Security early. Why do so few people talk about the elephant in the room?",
+    titleJa: "早めに社会保障を請求します。なぜ部屋の中でゾウについて話す人がこれほど少ないのでしょうか?",
+    summaryJa: "「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」",
+    bodyOriginal: `“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”`,
+    bodyJa: `「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
+    publishedAt: "2026-07-20T18:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-36497516",
+    readTime: 2,
+  },
+  {
+    id: "john-healey-becomes-chancellor-weeks-aft-4dbf399f",
+    title: "John Healey becomes chancellor weeks after shock resignation from defence job",
+    titleJa: "ジョン・ヒーリー氏、国防職電撃辞任から数週間後に首相に就任",
+    summaryJa: "ジョン・ヒーリー氏、国防職電撃辞任から数週間後に首相に就任- 公開されました",
+    bodyOriginal: `John Healey becomes chancellor weeks after shock resignation from defence job
+- Published
+John Healey - who has been announced as Andy Burnham's Chancellor of the Exchequer - is seen as the ultimate safe pair of hands.
+Which made the 66-year-old's resignation as Sir Keir Starmer's defence secretary just over a month ago all the more shocking.
+Healey's assessment of the government's much-delayed defence investment plan - that it fell "well short of what is required for defence and the country at this dangerous time" - was devastating and undoubtedly hastened Sir Keir's departure from Downing Street.
+Now he's in charge of the funding not just of defence - but of every arm of government.
+He replaces Rachel Reeves, who had served as Sir Keir's chancellor since Labour's 2024 landslide election win.
+Loyal, and not someone who briefs against colleagues to journalists or indulges in political games, he has been around the top of the Labour party for three decades.
+His resignation came days before Andy Burnham's pivotal by-election in Makerfield, adding to the sense that Sir Keir's premiership was falling apart.
+Healey earned plaudits from across the political spectrum for resigning on a matter of principle.
+He had clashed with Reeves, the woman he is now replacing, pointedly saying in is resignation letter that the Treasury had been "unwilling" to "commit the resources that the nation needs to defend the country at this time of rising threats".
+His return to government in the most vital job of all in cabinet after the prime minister is an even bigger surprise than his resignation, given that his name had not been mentioned as a frontrunner in the increasingly feverish speculation about who Burnham would choose.
+Sources told the BBC that Burnham and Healey "have the same outlook" on many of the prime minister's priorities, including reindustrialisation, the cost-of-living, and driving growth across the country.
+The softly-spoken Yorkshireman has a remarkable record as someone who has been on the Labour frontbench almost continuously since 2001.
+Born in Wakefield in 1960 and educated at Lady Lumley's Comprehensive School, Pickering, and Peter's School in York, he studied social and political science at Christ's College, Cambridge.
+Before entering politics, he worked as a journalist, briefly editing Parliament's in-house magazine The House, before becoming a disability rights campaigner and trade union official.
+He is married and has one son.
+He first came into Parliament in Tony Blair's landslide general election in 1997 as MP for Wentworth, a former mining area north of Sheffield, which following boundary changes is now Rawmarsh and Conisbrough.
+He retained the seat with a majority of 6,908 in the 2024 general election, with a Reform UK candidate in second place.
+In the early 2000s, he held a string of ministerial posts, including housing, local government, and at the Treasury in the Blair and Gordon Brown governments.
+He also assisted Brown as his parliamentary private secretary.
+But his main interest was housing policy. He served as shadow housing secretary when Jeremy Corbyn was Labour leader, despite supporting a failed attempt to oust Corbyn in 2016.
+When Sir Keir was elected Labour leader in 2020, he made Healey shadow defence secretary, becoming defence secretary when Labour came to power four years later.
+Healey was a staunch supporter of Ukraine in its war with Russia and made several trips to the country to meet President Zelensky.
+At his first meeting with Nato allies, in September 2024, he said he was "confident" Labour could honour a commitment to increase defence spending and "make the decisions that allow us to set out a long-term plan to make our forces better equipped to fight and to deter the threats we face".
+Healey also drove investment in housing for armed forces families, with a £9bn spending plan.
+Despite his low key style, he proved capable of delivering stern warnings to the UK's enemies.
+In April this year, he delivered a message to Russian President Vladimir Putin, in a briefing on "covert" operations by Russian sumbmarines, saying: "We see you.
+"We see your activity over our cables and our pipelines, and you should know that any attempt to damage them will not be tolerated and will have serious consequences."
+Following the announcement of the defence investment plan, he condemned what he called "Treasury trickery" and the lack of clarity on what new money the Ministry of Defence would get.
+Healey also made clear that he wanted a clear plan to increase UK defence spending to 3% of GDP by 2030.
+Now he's the chancellor he will have the opportunity to set out that plan himself, and if he is true to his words, it can only mean more positive news for his successor as defence secretary.
+- Published13 June
+- Published9 June`,
+    bodyJa: `ジョン・ヒーリー氏、国防職電撃辞任から数週間後に首相に就任
+- 公開されました
+アンディ・バーナムの財務大臣として発表されたジョン・ヒーリーは、究極の安全な補佐官とみなされている。
+このため、66歳の同氏がわずか1か月ほど前にサー・キア・スターマーの国防長官を辞任したことは、さらに衝撃的なことだった。
+大幅に遅れた政府の国防投資計画に対するヒーリー氏の評価――「この危険な時期に国防と国に必要な計画には大きく及ばない」という――は衝撃的であり、間違いなくキーア卿のダウニング街からの出発を早めた。
+現在、彼は防衛だけでなく政府のあらゆる部門の資金調達を担当している。
+同氏は、2024年の選挙で労働党が地滑り的勝利を収めて以来、サー・キーア首相の首相を務めてきたレイチェル・リーブス氏の後任となる。
+忠実であり、ジャーナリストに同僚に対して意見を述べたり、政治的駆け引きに耽ったりするような人物ではなく、30年間にわたり労働党のトップの座に君臨し続けている。
+同氏の辞任は、アンディ・バーナム氏の極めて重要なメーカーフィールド補欠選挙の数日前に行われ、サー・キーア氏の首相職が崩壊しつつあるという感覚がさらに高まった。
+ヒーリー氏は原則の問題で辞任したことで政界のあらゆる層から称賛を受けた。
+同氏は辞任届の中で、財務省が「脅威が増大しているこの時期に国を守るために必要な資源を投入することに消極的だった」と鋭く述べ、現在後任を務める女性リーブス氏と衝突していた。
+バーナムが誰を選ぶかというますます熱狂的な憶測の中で最有力候補として彼の名前が言及されていなかったことを考えると、首相に次ぐ閣僚の中で最も重要な職にある彼が政権に復帰することは、辞任よりもさらに大きな驚きである。
+関係者がBBCに語ったところによると、バーナム氏とヒーリー氏は、再産業化、生活費、国全体の成長促進など、首相の優先事項の多くについて「同じ見通しを持っている」という。
+穏やかな口調のヨークシャー人である彼は、2001 年以来ほぼ継続的に労働党の最前線に立ってきた人物として、驚くべき実績を持っています。
+1960 年にウェイクフィールドで生まれ、ピカリングのレディ・ラムリー総合学校とヨークのピーターズ・スクールで教育を受け、ケンブリッジのクライスツ・カレッジで社会科学と政治学を学びました。
+政界に入る前はジャーナリストとして議会の機関誌「ザ・ハウス」の編集を短期間務めた後、障害者の権利運動家や労働組合の役員になった。
+彼は結婚しており、息子が 1 人います。
+彼は1997年のトニー・ブレアの地滑り的総選挙で、ウェントワースの議員として初めて国会議員となった。ウェントワースはシェフィールド北方のかつての鉱山地帯で、境界変更を経て現在はローマーシュとコニスブラになっている。
+2024年の総選挙でも過半数の6,908議席を維持し、改革英国候補が2位となった。
+2000 年代初頭、ブレア政権とゴードン・ブラウン政権で住宅、地方自治体、財務省などの一連の閣僚のポストを歴任しました。
+彼はまた、ブラウンの議会私設秘書としてブラウンを補佐した。
+しかし、彼の主な関心は住宅政策でした。彼は、2016年に失敗に終わったコービン追放の試みを支持したにもかかわらず、ジェレミー・コービンが労働党党首だったときに影の住宅長官を務めた。
+サー・キーアが2020年に労働党党首に選出されたとき、ヒーリーを影の国防長官にし、4年後に労働党が政権を握ったときに国防長官となった。
+ヒーリー氏はロシアとの戦争でウクライナを熱心に支持しており、ゼレンスキー大統領に会うために同国を何度も訪問した。
+2024年9月のNATO同盟国との最初の会談で、同氏は労働党が国防費増額の約束を守り、「我が国の軍隊の戦闘装備を改善し、我々が直面する脅威を阻止するための長期計画を立てることを可能にする決定を下すことができる」と「自信を持っている」と述べた。
+ヒーリー氏はまた、90億ポンドの支出計画を立てて、軍隊家族向けの住宅への投資も推進した。
+控えめなスタイルにもかかわらず、彼は英国の敵に厳しい警告を与えることができることを証明した。
+今年4月、同氏はロシア潜水艦による「秘密」作戦に関する会見でロシアのウラジーミル・プーチン大統領に次のようなメッセージを送った。
+「私たちのケーブルやパイプラインを通じたあなたの活動は監視されており、それらに損害を与えようとするいかなる試みも容認されず、深刻な結果を招くことを知っておくべきです。」
+国防投資計画の発表後、同氏は「財務省の欺瞞」と称するものと、国防省が新たにどのような資金を得るのかが不明確であることを非難した。
+ヒーリー氏はまた、英国の国防支出を２０３０年までに国内総生産（ＧＤＰ）の３％に増やす明確な計画を望んでいると明らかにした。
+彼は首相となった今、自らその計画を打ち出す機会を得るだろうし、もし彼がその言葉に忠実であれば、それは国防長官としての彼の後任にとってより明るいニュースを意味するだけだろう。
+- 6 月 13 日発行
+- 6 月 9 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-20T18:44:55+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/220b/live/b25137b0-8460-11f1-8cf4-43aed99842b4.jpg",
+    readTime: 5,
+  },
+  {
+    id: "burnham-has-big-ideas-but-what-will-they-197d4cfa",
+    title: "Burnham has big ideas - but what will they cost?",
+    titleJa: "バーナムには大きなアイデアがありますが、それにはどれくらいの費用がかかるのでしょうか?",
+    summaryJa: "バーナムには大きなアイデアがありますが、それにはどれくらいの費用がかかるのでしょうか?- 公開されました",
+    bodyOriginal: `Burnham has big ideas - but what will they cost?
+- Published
+Up until this point, the new Prime Minister Andy Burnham has described his policy changes with a broad brush. From today, he faces the constraints, trade offs, and realities of high national office.
+For example, Burnham has said Tuesday's announcements on cost of living support would be paid for. In other words, it would mean a tax rise or spending cut, so we will see rather quickly what the new PM prioritises when push comes to shove.
+Meanwhile, the markets seem to have already reacted to the suggestion he would be using some "flexibility" in his borrowing rules to help with new announcements.
+The UK government's 10-year borrowing rose above 5% on Monday after falling in recent days. It has not gone up in this way in other European economies.
+The move was not huge, but it shows the sensitivities at a moment when Burnham is overhauling his cabinet - including replacing Rachel Reeves as chancellor with former defence secretary John Healey.
+The "flexibility" Burnham was talking about is, I understand, about the treatment of financial institutions. This has occurred in some green energy policies and essentially helps exempt certain types of borrowing from the measures of debt. There is scope for this model to extend to housing and other infrastructure.
+It was not a general suggestion of, for example, using up the increased headroom against the government's borrowing rules.
+All this shows how every tricky decision and trade off is being watched by the country and the markets at the same time.
+Surprise choice of chancellor
+Healey is a surprise choice as chancellor but perhaps should not have been. He spent half a decade in Gordon Brown's Treasury with specific knowledge of that era's attempt to regenerate and devolve power - the Regional Development Agencies, later scrapped by the Coalition Government.
+No 10 is stressing that Burnham and Healey "have the same outlook" on the need to maintain economic stability and the current fiscal rules, reindustrialisation, devolution, helping people with the cost-of-living crisis and backing British jobs and British industry to drive growth across the country.
+But immediately there is a trade-off here. Healey resigned as defence secretary last month over funding the defence settlement. He was literally calling for more defence spending, and some of the previous increases in defence funding came from cutting back home infrastructure spending on transport and on energy investment. How will he square those things as chancellor?
+Overall, Healey will probably calm any market jitters after Monday's uptick in government borrowing rates. He quickly has to deliver a funded cost of living policy.
+Tax thresholds on the doorstep
+On policy, Burnham's camp has floated the idea of unfreezing the income tax threshold – and I'm taking it pretty seriously that this may happen.
+Some big unions have swung behind the idea, which would cost at least £4bn depending on the rate of inflation. And others have floated the idea of not just unfreezing the thresholds in 2027 – lifting it from the current £12,570 basic rate to £13,000 and at the upper end from £50,271 to £52,000 – but rolling it back to what it would have been if the freeze hadn't been implemented in 2022. This would be much more expensive to do.
+The UK is in the middle of a nine-year threshold freeze announced by then-chancellor Rishi Sunak to repay the billions borrowed to fund the Covid lockdown. The freeze was extended at the last Budget by Rachel Reeves until 2030-31, pushing one in six workers into the 40p bracket.
+It is intriguing that Burnham says this came up on Makerfield doorstep, as is the fact that significant unions now prioritise a policy that affects their members on or around £50,000 a year. We're talking the likes of nurses, midwives, paramedics, teachers, and engineers.
+However, as some current Number 10 insiders have pointed to, it adds to a list of net spending policies and raises questions about the extent of tax rises or extra borrowing required to make Budget sums add up.
+Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?
+- Published3 days ago
+Defence, housing, and welfare
+More widely, Burnham has also said he would publish a 10-year plan for the country and the economy later this year, likely to detail his wider plans on decentralisation, devolution, and rebuilding Britain.
+Ordinarily, you might expect a significant infrastructure programme with such plans, but Burnham also wants to fund the Defence Investment Plan, a multi-billion, multi-year spending commitment for the UK military. How will he square this?
+In addition, his first priority going through the doors, he said, would be a national plan to end rough sleeping.
+He made a similar pledge in Greater Manchester, but some early progress went in reverse in recent years. When I questioned him about this in February, he said more funding and powers from central government were needed to deal with the recent rise. As his first act as PM, he has now released funds to address it from within the housing budget.
+Long term, he said the answer is mass council house building. This will take years to feed through.
+Welfare is another critical test. Here, I'm told, Burnham expects to show he can make progress on what he called "sustainable reform". This will lean heavily on Alan Milburn's review, which is likely to recommend significant job support funds and mental health assistance for young workers in order to reduce welfare bills.
+This is likely to be delivered by local mayors who know what works in their regions. Burnham hopes to show the markets he can deliver the welfare reform that eluded former prime minister Sir Keir Starmer.
+This is the new PM's conundrum. He faces the same manifesto and borrowing rule constraints as his predecessor, yet he clearly wants to do more. He says his rewiring of Britain will help the economy grow, but many of these solutions could take years.
+And the recent rapid turnover of prime ministers and chancellors shows, even thinking a few years ahead might feel like a luxury.
+Andy Burnham: Who is the new PM?
+From Manchester mayor to prime minister in a matter of months; what is his record and what does he stand for?
+Related topics
+- Published1 hour ago
+- Published10 hours ago`,
+    bodyJa: `バーナムには大きなアイデアがありますが、それにはどれくらいの費用がかかるのでしょうか?
+- 公開されました
+これまで、アンディ・バーナム新首相は自身の政策変更を広範な筆致で説明してきた。今日から、彼は国家の高官の制約、トレードオフ、現実に直面することになる。
+例えば、バーナム氏は、火曜日に発表された生活費支援に関する費用は支払われるだろうと述べた。言い換えれば、それは増税か歳出削減を意味するので、いざというときに新首相が何を優先するかはすぐに分かるだろう。
+一方、市場はすでに、同氏が新たな発表を支援するために借入ルールに「柔軟性」を持たせるとの示唆に反応しているようだ。
+英国政府の１０年借入はここ数日低下した後、月曜日には５％を超えて上昇した。他の欧州経済ではこのように上昇したことはない。
+この動きは大したものではなかったが、レイチェル・リーブス氏を元国防長官ジョン・ヒーリー氏に置き換えて首相に任命するなど、バーナム首相が内閣の刷新を進めている今の敏感さを示している。
+バーナムが言っていた「柔軟性」というのは、金融機関の扱いのことだと私は理解しています。これは一部のグリーンエネルギー政策で行われており、本質的に特定の種類の借入を債務措置から免除するのに役立ちます。このモデルは住宅やその他のインフラにも拡張できる可能性があります。
+これは、たとえば、政府の借入規則に反して増加した余力を使い切るという一般的な提案ではありませんでした。
+これらすべては、あらゆる難しい決定とトレードオフが国と市場によって同時に監視されていることを示しています。
+首相の意外な選択
+ヒーリー氏が首相に選ばれたのは意外だったが、おそらくそうすべきではなかったのだろう。彼はゴードン・ブラウンの財務省で半年間を過ごし、当時の権力の再生と委譲の試み、つまり後に連立政権によって廃止された地域開発庁についての特別な知識を持っていた。
+10位は、バーナム氏とヒーリー氏が、経済の安定と現行の財政ルール、再産業化、地方分権を維持し、生計費危機に直面する人々を支援し、英国全体の成長を促進する英国の雇用と英国産業を支援する必要性について「同じ見通しを持っている」と強調している。
+しかし、ここですぐにトレードオフが発生します。ヒーリー氏は先月、国防和解への資金提供を巡り国防長官を辞任した。彼は文字通り国防支出の拡大を求めており、これまでの国防資金の増加の一部は輸送やエネルギー投資への国内インフラ支出の削減から来ていた。彼は首相としてこれらのことをどのように解決するのだろうか？
+全体として、ヒーリー氏は月曜日の政府借入金利の上昇後の市場の動揺をおそらく落ち着かせるだろう。彼は早急に資金による生活費政策を実現しなければならない。
+税金の基準額はすぐそばにあります
+政策に関しては、バーナム陣営は所得税基準額の凍結を解除するという考えを浮上させており、私はこれが実現する可能性があることをかなり真剣に受け止めている。
+一部の大手労働組合はこの案を支持しており、インフレ率にもよるが少なくとも40億ポンドの費用がかかるだろう。また、2027年に基準額の凍結を解除するだけでなく、基準金利を現在の1万2570ポンドから1万3000ポンドに、上限額を5万271ポンドから5万2000ポンドに引き上げるのではなく、2022年に凍結が実施されなかった場合の水準に戻すという考えも浮上している。これを実現するには、はるかに費用がかかるだろう。
+英国は、新型コロナウイルスのロックダウンに資金を提供するために借りた数十億ドルを返済するため、当時のリシ・スナック首相が発表した9年間の基準凍結の最中にある。この凍結は前回の予算案でレイチェル・リーブス氏によって2030年から31年まで延長され、労働者の6人に1人が40ペンス枠に押し込まれた。
+バーナムがこれがメイカーフィールドの玄関先で思いついたと言っていることは興味深いし、現在主要な組合が組合員に年間5万ポンドかそれ前後の影響を与える政策を優先しているという事実も同様である。私たちは看護師、助産師、救急隊員、教師、エンジニアなどの人々のことを話しています。
+しかし、現在のナンバー10の内部関係者の一部が指摘しているように、これは純支出政策のリストに追加され、予算総額を増やすために必要な増税や追加借入の範囲について疑問を生じさせる。
+バーナムの「マンチェスタリズム」は彼を10位につけたが、それはイギリスでもうまくいくだろうか？
+- 3 日前に公開
+防衛、住宅、福祉
+さらに広く言えば、バーナム氏は今年後半に国と経済に関する10か年計画を発表するとも述べており、地方分権化、地方分権、英国再建に関する広範な計画の詳細が盛り込まれる可能性が高い。
+通常、このような計画には大規模なインフラ計画が期待されるかもしれないが、バーナム氏はまた、英国軍への数十億、複数年にわたる支出公約である国防投資計画にも資金を提供したいと考えている。彼はどうやってこれを解決するのでしょうか？
+さらに、ドアを通過するための最優先事項は、乱寝をなくすための国家計画だ、と彼は述べた。
+彼はグレーター・マンチェスターでも同様の公約を掲げたが、初期の進歩の一部は近年逆戻りした。 2月に私がこのことについて同氏に質問したとき、同氏は、最近の増加に対処するには中央政府からのさらなる資金と権限が必要だと述べた。彼は首相としての最初の行為として、住宅予算内からこの問題に対処するための資金を投入した。
+長期的には、その答えは大衆議会の建設であると彼は述べた。これをやり遂げるには何年もかかります。
+福利厚生も重要なテストです。バーナム氏はここで、彼が「持続可能な改革」と呼ぶものを前進させることができることを示すことを期待していると聞いた。これはアラン・ミルバーン氏の見直しに大きく依存しており、同氏は生活保護費を削減するために、若年労働者に多額の就労支援基金とメンタルヘルス支援を推奨する可能性が高い。
+これは、自分たちの地域で何が効果的であるかを知っている地方首長によって伝えられる可能性があります。バーナム氏は、キア・スターマー元首相が果たせなかった福祉改革を実現できることを市場に示したいと考えている。
+これが新首相の難題だ。彼は前任者と同じマニフェストと借用ルールの制約に直面しているが、それでもなお、さらに多くのことをやりたいと望んでいることは明らかだ。同氏は、英国の配線変更は経済成長に役立つだろうが、これらの解決策の多くには数年かかる可能性があると述べた。
+そして、最近の首相や首相の入れ替わりが激しいことからもわかるように、数年先のことを考えることすら贅沢に思えるかもしれない。
+アンディ・バーナム: 新しい首相は誰ですか?
+マンチェスター市長から数か月で首相に就任。彼の記録は何ですか、そして彼は何を代表していますか？
+関連トピック
+- 1 時間前に公開
+- 10 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9357rlk494o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-20T18:21:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c9/live/dd3a3380-845d-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 7,
+  },
+  {
     id: "two-injured-after-man-with-airsoft-rifle-da190fb7",
     title: "Two injured after man with airsoft rifles lit fireworks outside NYC immigration court: MS NOW",
     titleJa: "ニューヨーク市入国管理裁判所前でエアソフトライフルを持った男が花火に火をつけ2人負傷：MS NOW",
@@ -1579,558 +2013,6 @@ Disclosure: CNBC and Kalshi have a commercial relationship that includes custome
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "american-airlines-ceo-lays-out-his-visio-7891964b",
-    title: "American Airlines CEO lays out his vision to close a more than $3 billion profit gap",
-    titleJa: "アメリカン航空のCEO、30億ドル以上の利益格差を埋めるビジョンを語る",
-    summaryJa: "テキサス州フォートワース — アメリカン航空の CEO、ロバート・アイソムは数学の問題を抱えています。同社は今年、1日あたり約6,500便を運航しているが、シリウムによれば、アラスカ航空のほぼ丸ごと1台分の旅行価値が最も近い競合他社よりも多いのだが、それでもアメリカン航空との利益の差は拡大している。ユナイテッド航空は昨年、アメリカン航空より約30億ドル多く収入をあげ、米国の収益トップであるデルタ航空は50億ドル近く多く稼いだ。",
-    bodyOriginal: `FORT WORTH, Texas — American Airlines CEO Robert Isom has a math problem.
-The carrier is flying about 6,500 flights per day this year — nearly an entire Alaska Airlines more worth of travel more than its closest competitor, according to Cirium — yet American's profit gap has grown. United Airlines brought in about $3 billion more than American last year, and U.S. profit leader Delta Air Lines made nearly $5 billion more.
-In an exclusive interview with CNBC late last month, Isom said American and its nearly 140,000 employees want "to be best at everything that we do." He said that carrier's "long-range plan is certainly making up the margin gap," but he didn't put a timeline on that goal.
-American's top executives at the carrier's headquarters late last month outlined new initiatives to CNBC: bigger, more luxe airport lounges, a new wide-body aircraft order, and fresh interiors for even more of its long-haul fleet to attract big spenders.
-Isom described the carrier's identity as "a premium global airline with the largest footprint in North America."
-American has more decisions it needs to make — and soon — to close the gap. Perhaps its biggest challenge is getting customers to shell out more to fly, something Delta and United zeroed in on years ago.
-American has mastered running an efficient business but "what we will measure over time is: Are we closing this revenue gap and closing the unit revenue gap?" American CFO Devon May said.
-Cabins, planes and lounges
-The carrier's executives reiterated that American's plan rests on growing its ever-more important loyalty program, improving customers' experience, expanding its network and increasing higher-end revenue.
-The airline is forecast to earn 64 cents a share this year, on an adjusted basis, which would be up almost 80% from last year, according to analyst estimates. It will give an updated forecast when it reports second-quarter results on Thursday.
-United and Delta earlier this month reported bookings are still strong. The surge in fuel prices have both helped and hurt the industry this year: The sudden run-up in prices because of the Iran war took carriers off guard, though they're passing more of those costs along to travelers, and executives don't expect fares will drop much anytime soon.
-Wall Street is optimistic American will continue to improve, expecting it to quadruple adjusted earnings in 2027 to $2.58 a share.
-American is now remodeling cabins across the fleet and taking deliveries of new planes with interiors that feature new amenities and more premium seats. Executives have said they're considering but haven't decided on bringing back seatback screens to much of its narrow-body fleet, though American recently joined the ranks of airlines that are adding satellite Wi-Fi from SpaceX's Starlink.
-Customers who are willing to pay more for premium seats or other perks like lounge access have been a bright spot across the industry, and everyone from profit leader Delta to now-defunct budget carrier Spirit Airlines has tried to woo those travelers as airlines rush to get fancy, new seats — small but profitable real estate — in the air.
-Isom told CNBC that work to refresh cabins will soon expand to American's Boeing 787-8 Dreamliners. Its revamped cabins on its largest planes, the 777-300ERs, could debut in the next few weeks. Each business-class, lie-flat seat can bring in close to $10,000 on some long-haul international routes compared with $2,000 or even much less for a seat in the back.
-Keeping up high-touch service levels could be a challenge, the airline's flight attendant union said, as the 70-seat business class soon comes online. American has been phasing out planes with separate first and business classes.
-"Now, as American introduces 70 Business Suites and markets a premium international experience, they're expecting a reduced number of Flight Attendants to deliver significantly more personalized service," Julie Hedrick, president of the Association of Professional Flight Attendants, said in a statement. (American reduced flight attendant staffing on those aircraft from 13 to 11 in 2020. Other carriers have made similar moves.) "The result will be longer service times and a customer experience that falls short of what passengers expect."
-In another lure for premium travelers, Chief Customer Officer Heather Garboden told CNBC that American is going to build the biggest Admirals Club lounge in its network, at 37,000 square feet, at its sprawling Dallas Fort Worth International Airport hub in Terminal C.
-At the under-construction Terminal F at that airport, American is also planning a grab-and-go Provisions airport lounge, as well as a Flagship check-in area in Terminal D. The entire airport, American's largest hub, is undergoing a $12 billion makeover, and the carrier recently unveiled new gates in Terminal C, which will expand further. American and others have been upgrading and expanding airport lounges for the spendiest customers around the U.S.
-But United has had a roughly decade head start at catering to higher-paying travelers, while Delta has close to two decades of experience. In the late 2000s, Delta was giving away about 90% of its domestic first-class seats through free upgrades for frequent flyers, but now it says it sells the vast majority, with customers paying cash or redeeming miles, now a trend among big carriers, though American wants to increase buy-ups.
-Under Isom, American has been upping its game in premium investments. American's commercial team is working on technical changes that aim to offer customers more opportunities to buy pricier seats.
-Aside from its of fortress hubs, American's chief commercial officer, Nat Pieper, said the airline needs to win in so-called jump-ball markets like Los Angeles, Chicago and Washington, D.C. He said American continues to grow sign-ups for its lucrative credit card program in some of those, including New York.
-American said it's flying is split about 80% domestic versus 20% international. International flights often carry a high premium compared with domestic routes — and the planes serving them generally have more luxurious seats on board.
-Isom said the airline's network breadth is a major strong suit and will continue to be.
-While American and other airlines rely on alliances and partnerships to expand reach, United is flying a lot of that itself.
-United flies more internationally than Delta and American, and made its geography quiz-like network a calling card and , adding dots on the map from Mongolia to Galicia, Spain.
-'Never been deterred'
-A mechanical engineer by education who took his first flight at about age 4, Isom rose up the ranks at Northwest Airlines and America West Airlines, which through mergers became modern-day Delta and American, respectively.
-The airline industry is one of the most insular. In part, because of the safety-critical and specific knowledge needed to keep thousands of planes on track every day, airlines don't often hire from other industries, especially at the top.
-The executive team that long worked at American is split between that carrier and United. The CEO of United, Scott Kirby, used to work at American, until he was fired almost exactly 10 years ago. United announced it hired Kirby as president the same day.
-Isom, 62, took over the top role at American in March 2022, after the airline industry had been rocked by the pandemic.
-"I've never been deterred, no matter what the challenges that we face," he said.
-He took over in a quarter when American lost $1.6 billion.
-"I'm clear-eyed about the challenges in this business," he said, pointing to an industry that has been through everything from the 9/11 terrorist attacks, to the financial crisis, bankruptcies, mergers and wars and disease.
-American ranked sixth of 11 U.S. airlines in punctuality in the first half of the year, according to Cirium data that pointed to with a 76.6% on-time rate, while Delta and United took the No. 2 and No. 3 spots, respectively. Under Isom and COO David Seymour, the carrier is working to improve its on-time rate, spreading out its schedule instead of jamming chaotic connecting banks in major hubs, and using artificial intelligence to predict maintenance problems.
-On top of that, the carrier's earnings are still hamstrung from its $35 billion debt load though American has slashed that from around a $54 billion peak coming out of the pandemic, with balance sheet improvement a major priority.
-"They're a giant — with a limp," said Dennis Tajer, spokesman for the Allied Pilots Association, which represents American's 15,000 aviators. Earlier this year, the APA and the flight attendants' union called Isom's leadership into question. Underperformance from the broader company means less profit-sharing for staff.
-Getting customers to notice improvements could take time.
-"Changing a service culture is hard, but not impossible," said Jay Barney, a professor of strategic management at the University of Utah David Eccles School of Business. To alter overall brand perception, he said, "You have to make the changes obvious and visible, to current customers and potential customers."
-One issue is that flyers are often locked in because the biggest airlines have such overwhelming market share at major hub airports, he added.
-What airlines might be trying to do is "charge more to their current customers," Barney said.
-Wide-body planes
-American might be behind in its premium game, but Isom said customer satisfaction scores are rising. Chief Commercial Officer Pieper, an airline industry veteran whom the company appointed last fall as the carrier was recovering from a failed corporate sales strategy in 2024, said demand is strong across the board.
-Buying new wide-body planes will be key to the airline's next phase, Isom said. An order is on the table for this year, with both Boeing and Airbus in the mix, he said.
-American's more than 1,000 planes make up the youngest fleet of the three largest U.S. airlines, according to 2025 annual filings, thanks in part to a more than 400-airplane order it made about 15 years ago for new Boeing and Airbus narrow-body planes, but dozens of its Boeing 777 wide-bodies average more than two decades old.
-American's refresh of those older planes, Boeing 777-200s, are next, Isom said, but the carrier is shopping for new planes.
-"I think that Airbus could play a big role" in the new order, Isom said. American's wide-bodies are all currently Boeing planes.
-American declined to say the size of its planned order. New aircraft for American would likely arrive in the early or middle of the next decade.
-Up in Chicago, rival United — which has been duking it out with American at O'Hare International Airport — snatched up delivery slots for more than 100 Boeing Dreamliners in the last four years.
-A future without United
-As Isom lays out his vision for the future of the airline, there's one path he says the carrier doesn't see as feasible.
-United CEO Kirby suggested this year a merger with American, an idea the airline rebuffed.
-"I spoke with Scott," Isom told CNBC. "Given history, given law, given past mergers, there wasn't anyone that we talked to, our advisors, interested parties, politicians, that said that there was any chance of this happening.
-"At the end of the day, we spend time looking at things that have a chance of happening. We don't spend a lot of time pursuing impossibilities," he said.
-United has a partnership with JetBlue (American had a more involved one with JetBlue in the Northeast but it was blocked by a judge on antitrust grounds in 2023). But Kirby has repeatedly said this year he's not interested in acquiring that New York airline. He also acknowledged that a merger with American won't happen without a willing partner in that carrier's management.
-United, meanwhile, gets several slots at New York's John F. Kennedy International Airport as early as next year under the JetBlue deal.
-"Why buy the cow if you're getting the milk for free?" said Brett Snyder, who writes the Cranky Flier blog.
-Isom gave a standard line from executives when CNBC asked his own appetite for possible mergers and acquisitions, saying the carrier is always on the lookout for opportunities to serve the company's customers.
-For now, though, Isom said he is firmly focused on American's new chapter.
-He said he gravitated toward the industry "to be involved with something where you can make a difference.
-"This is this one that you never wake up in the morning or going to bed at night thinking: Did I do good for somebody or something?" he said. "You certainly had the chance to in this business."`,
-    bodyJa: `テキサス州フォートワース — アメリカン航空の CEO、ロバート・アイソムは数学の問題を抱えています。
-同社は今年、1日あたり約6,500便を運航しているが、シリウムによれば、アラスカ航空のほぼ丸ごと1台分の旅行価値が最も近い競合他社よりも多いのだが、それでもアメリカン航空との利益の差は拡大している。ユナイテッド航空は昨年、アメリカン航空より約30億ドル多く収入をあげ、米国の収益トップであるデルタ航空は50億ドル近く多く稼いだ。
-アイソム氏は先月末、CNBCとの独占インタビューで、アメリカン航空とその約14万人の従業員は「当社が行うすべてのことにおいて最高でありたい」と望んでいると語った。同氏は、航空会社の「長期計画は確実にマージンギャップを埋めつつある」と述べたが、その目標の期限については明らかにしなかった。
-アメリカン航空本社の幹部らは先月下旬、ＣＮＢＣに対し、より大型で豪華な空港ラウンジ、新たなワイドボディ機の発注、高額支出者を惹きつけるための長距離路線の機材の斬新な内装など、新たな取り組みについて概説した。
-アイソム氏は、同社のアイデンティティを「北米最大の拠点を持つプレミアム・グローバル・エアライン」と表現した。
-アメリカン航空は、その差を埋めるために、そして近いうちに、さらに多くの決断を下す必要がある。おそらく同社の最大の課題は、顧客に飛行機の利用料金を高くしてもらうことであり、デルタ航空とユナイテッド航空は数年前にこれに焦点を当てていた。
-アメリカン航空は効率的な事業運営をマスターしているが、「我々が時間をかけて測定するのは、この収益の差を埋め、単位収益の差を埋められるかどうかということだ」米国のデボン・メイ最高財務責任者（ＣＦＯ）はこう語った。
-客室、飛行機、ラウンジ
-航空会社幹部らは、アメリカン航空の計画は、これまで以上に重要なロイヤルティプログラムの拡大、顧客エクスペリエンスの向上、ネットワークの拡大、ハイエンド製品の収益増加にあると繰り返し述べた。
-アナリストの推定によれば、同社は今年、調整後ベースで1株当たり64セントの利益が見込まれており、これは昨年よりほぼ80％増加することになる。木曜日に第２四半期決算を発表する際に最新の予想を発表する予定だ。
-ユナイテッド航空とデルタ航空は今月初め、予約が依然として好調であると報告した。今年の燃料価格の高騰は、業界にとって助けにもなり、打撃にもなった。イラン戦争による価格の突然の高騰は航空会社を不意を突いたが、航空会社はその費用の多くを旅行者に転嫁しており、幹部らは運賃がすぐに大幅に下がるとは予想していない。
-ウォール街はアメリカン航空が今後も改善を続けると楽観的で、2027年の調整後利益は4倍の1株当たり2.58ドルになると予想している。
-アメリカン航空は現在、全機材の客室を改装し、新しいアメニティやより多くのプレミアムシートを備えた内装を備えた新しい航空機の納入を行っています。幹部らは、ナローボディ機の多くにシートバックスクリーンを復活させることを検討しているが決定はしていない、と述べているが、アメリカン航空は最近、スペースXのスターリンクによる衛星Wi-Fiを追加する航空会社の仲間入りを果たした。
-プレミアムシートやラウンジへのアクセスなどの特典に対して、より多くのお金を払っても構わないと考えている顧客は業界全体で明るい話題となっており、航空会社が豪華な新しいシート（小規模だが収益性の高い不動産）を空に確保しようと急ぐ中、利益リーダーのデルタ航空から現在は廃業した格安航空会社スピリット航空に至るまで、あらゆる企業がこうした旅行者を魅了しようとしている。
-アイソム氏はCNBCに対し、客室のリフレッシュ作業が間もなくアメリカン航空のボーイング787-8ドリームライナーにも拡大されると語った。同社最大の航空機である777-300ERの改良されたキャビンは、今後数週間以内にデビューする可能性がある。ビジネスクラスのフラットシートは、一部の長距離国際線では 1 万ドル近くの収益をもたらしますが、後部座席の場合は 2,000 ドルか、さらにそれ以下です。
-航空会社の客室乗務員組合は、70席のビジネスクラスが間もなく導入されるため、ハイタッチサービスレベルを維持するのは困難になる可能性があると述べた。アメリカン航空は、ファーストクラスとビジネスクラスを分けた飛行機の廃止を進めている。
-「現在、アメリカン航空は70のビジネススイートを導入し、プレミアムな国際体験を売り込んでおり、客室乗務員の数を減らして、より個別化されたサービスを提供することを期待している」とプロフェッショナル客室乗務員協会のジュリー・ヘドリック会長は声明で述べた。 （アメリカン航空は2020年にこれらの航空機の客室乗務員を13人から11人に削減した。他の航空会社も同様の措置をとっている。）「その結果、サービス時間は長くなり、顧客体験は乗客の期待を下回る結果になるだろう。」
-プレミアム旅行者にとってもう一つの魅力として、最高顧客責任者のヘザー・ガーボーデン氏はCNBCに対し、アメリカン航空がダラス・フォートワース国際空港のターミナルCにある広大なハブ空港に、自社ネットワーク内で最大となる37,000平方フィートのアドミラルズ・クラブ・ラウンジを建設する予定であると語った。
-同空港の建設中のターミナルFでは、アメリカン航空は、持ち帰り可能なプロビジョンズ空港ラウンジと、ターミナルDのフラッグシップチェックインエリアも計画している。アメリカン航空最大のハブ空港である空港全体は120億ドルをかけて改装中で、同社は最近ターミナルCの新しいゲートを公開し、さらに拡張される予定である。アメリカン航空などは、全米の最もお金を使う顧客のために空港ラウンジのアップグレードと拡張を行っている。
-しかし、ユナイテッド航空は高給取り旅行者への対応において約10年有利なスタートを切った一方、デルタ航空には20年近い経験がある。 2000年代後半、デルタ航空は国内線ファーストクラスの座席の約90％をマイレージ客向けの無料アップグレードを通じて無償で提供していたが、現在はその大部分を顧客が現金で支払うかマイルと引き換えて販売していると述べており、これは大手航空会社の間でトレンドとなっているが、アメリカン航空は買い取りを増やしたいと考えている。
-アイソム氏の下で、アメリカン航空はプレミアム投資での競争力を強化している。アメリカン航空のコマーシャルチームは、より高価な座席を購入する機会を顧客に提供することを目的とした技術的な変更に取り組んでいます。
-アメリカン航空のナット・ピーパー最高商務責任者は、要塞ハブとは別に、アメリカン航空はロサンゼルス、シカゴ、ワシントンD.C.などのいわゆるジャンプボール市場で勝つ必要があると述べた。同氏は、アメリカン航空はニューヨークを含む一部の市場で有利なクレジットカードプログラムへの登録を増やし続けていると述べた。
-アメリカン航空によると、運航率は国内線約80％、国際線約20％に分かれているという。国際線は国内線に比べて高額なプレミアムが付いていることが多く、国際線に就航する飛行機には通常、より豪華な座席が搭載されています。
-イソム氏は、同社のネットワークの広さは大きな強みであり、今後もそうだと述べた。
-アメリカン航空や他の航空会社は提携やパートナーシップに依存して就航範囲を拡大しているが、ユナイテッド航空はその多くを自社で運航している。
-ユナイテッド航空はデルタ航空やアメリカン航空よりも多くの国際便を運航しており、地理クイズのようなネットワークを名刺にして、モンゴルからスペインのガリシアまで地図上に点を追加しています。
-「決して思いとどまらなかった」
-機械エンジニアとして教育を受け、約 4 歳で初めて飛行機に乗ったイソムは、合併によりそれぞれ現在のデルタ航空とアメリカン航空となったノースウエスト航空とアメリカ ウエスト航空で昇進しました。
-航空業界は最も閉鎖的な業界の 1 つです。毎日数千機の航空機を順調に運行させるには安全性が重要で特殊な知識が必要であるため、航空会社は他の業界、特にトップクラスから採用することがあまりありません。
-長年アメリカン航空で働いてきた経営陣は、同航空会社とユナイテッド航空に分かれている。ユナイテッド航空のCEO、スコット・カービー氏は、ちょうど10年前に解雇されるまでアメリカン航空で働いていた。ユナイテッドは同日、カービーを社長に採用したと発表した。
-62歳のイソム氏は、航空業界がパンデミックで揺れた後、2022年3月にアメリカン航空のトップの職に就任した。
-「どんな困難に直面しても、私は決してくじけなかった」と彼は語った。
-同氏はアメリカン航空が16億ドルの損失を出した四半期に引き継いだ。
-同氏は、9/11テロ攻撃から金融危機、倒産、合併、戦争、病気に至るまで、あらゆるものを経験してきたこの業界を指して、「私はこのビジネスの課題についてはっきりと認識している」と語った。
-シリウムのデータによると、定時運航率は76.6％で、アメリカン航空は今年上半期の定時運航率で米国の航空会社11社中6位にランクされ、デルタ航空とユナイテッド航空がそれぞれ2位と3位となった。 Isom 氏と COO の David Seymour 氏の下で、この航空会社は定時運航率の向上に取り組んでおり、主要ハブの混乱した接続銀行を混雑させる代わりにスケジュールを分散し、人工知能を使用してメンテナンスの問題を予測しています。
-それに加えて、アメリカン航空はバランスシートの改善を最優先事項として、パンデミック後のピーク時の約540億ドルから負債額を削減したものの、同社の収益は依然として350億ドルの債務負担で打撃を受けている。
-「彼らは大男で、足を引きずっている」と米国の飛行士1万5000人を代表する連合国パイロット協会のスポークスマン、デニス・タジャー氏は語った。今年初め、APAと客室乗務員組合はイソム氏のリーダーシップに疑問を投げかけた。会社全体のパフォーマンスが低いということは、従業員への利益分配が少ないことを意味します。
-顧客に改善点を認識してもらうには時間がかかる場合があります。
-ユタ大学デビッド・エクルズ・スクール・オブ・ビジネスの戦略経営教授ジェイ・バーニー氏は、「サービス文化を変えるのは難しいが、不可能ではない」と語る。全体的なブランド認識を変えるためには、「現在の顧客と潜在的な顧客に対して、その変化が明白で目に見えるものにしなければならない」と同氏は述べた。
-問題の一つは、大手航空会社が主要ハブ空港で圧倒的な市場シェアを持っているため、チラシが閉じ込められることが多いことだ、と同氏は付け加えた。
-航空会社がやろうとしているのは、「現在の顧客にさらに多くの料金を請求すること」だとバーニー氏は言う。
-広胴機
-アメリカン航空はプレミアムゲームでは遅れを取っているかもしれないが、顧客満足度スコアは上昇しているとアイソム氏は語った。航空業界のベテランであるピーパー最高商務責任者は、航空会社が2024年に失敗した法人販売戦略から立ち直る中、昨年秋に任命したもので、需要は全体的に強いと述べた。
-アイソム氏は、新しいワイドボディ機の購入が航空会社の次の段階への鍵となると語った。今年の発注が検討されており、ボーイングとエアバスの両方が参加していると同氏は語った。
-2025年の年次報告書によると、アメリカン航空の1,000機以上の航空機は、米国の3大航空会社の中で最も若い機体を構成しているが、これは同社が約15年前にボーイングとエアバスのナローボディ機の新型機として400機以上を発注したおかげもあるが、同社のボーイング777ワイドボディ機数十機は平均で20年以上経過している。
-アイソム氏によると、アメリカン航空は次は古い航空機であるボーイング777-200型機のリフレッシュだが、同社は新しい航空機を購入しているという。
-アイソム氏は、新たな秩序において「エアバスが大きな役割を果たすことができると思う」と語った。アメリカンのワイドボディ機は現在はすべてボーイング機です。
-アメリカン航空は計画発注規模については明らかにしなかった。アメリカン航空の新しい航空機は、おそらく次の10年の初めか半ばに到着するでしょう。
-シカゴでは、オヘア国際空港でアメリカン航空と争っているライバルのユナイテッド航空が、過去4年間で100機以上のボーイング・ドリームライナーの配達枠を奪い取った。
-ユナイテッドのない未来
-アイソム氏が航空会社の将来のビジョンを語る中で、同航空会社が実現可能ではないと考えている道が 1 つあると彼は言う。
-ユナイテッドのカービー最高経営責任者（CEO）は今年、アメリカン航空との合併を提案したが、航空会社はこの考えを拒否した。
-「スコットと話した」とイソムさんはCNBCに語った。 「歴史、法律、過去の合併を考慮すると、私たちが話し合った人、顧問、利害関係者、政治家など誰も、このようなことが起こる可能性があると言っていた人は一人もいませんでした。
-「結局のところ、私たちは起こる可能性のある物事を検討することに時間を費やします。私たちは不可能を追求することに多くの時間を費やしません」と彼は言いました。
-ユナイテッド航空はジェットブルー社と提携関係にある（アメリカン航空は北東部でジェットブルー社とより緊密な提携関係を結んでいたが、2023年に独禁法を理由に判事によって阻止された）。しかしカービー氏は今年、そのニューヨーク航空会社の買収には興味がないと繰り返し述べている。同氏はまた、アメリカン航空との合併は、同航空会社の経営に積極的なパートナーがなければ実現しないことも認めた。
-一方、ユナイテッド航空はジェットブルー契約に基づき、早ければ来年にもニューヨークのジョン・F・ケネディ国際空港でいくつかの発着枠を獲得する。
-「無料で牛乳が手に入るのに、なぜ牛を買うのですか？」クランキー・フライヤー・ブログを書いているブレット・スナイダー氏はこう語る。
-CNBCが合併と買収の可能性について自身の意欲を尋ねたとき、アイソム氏は幹部からの標準的なセリフを述べ、航空会社は同社の顧客にサービスを提供する機会を常に探していると述べた。
-しかし今のところ、イソム氏はアメリカン航空の新たな章にしっかりと焦点を当てていると語った。
-同氏は、「変化をもたらすことができる何かに関わるために、この業界に惹かれた」と語った。
-「これは、朝起きたり、夜寝るときに、『私は誰かや何かに良いことをしただろうか』と考えたりすることが決してないものです。」彼は言い​​ました。 「あなたには確かにこのビジネスに携わるチャンスがありました。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/19/american-airlines-ceo.html",
-    publishedAt: "2026-07-19T12:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "housing-costs-is-the-top-political-issue-7d246280",
-    title: "Housing costs is the top political issue for young voters, CNBC survey finds",
-    titleJa: "若い有権者にとって住宅費は最大の政治的争点であることがCNBCの調査で判明",
-    summaryJa: "CNBCの調査によると、18歳から34歳の米国の有権者の間では、住居費が政治的争点のトップであり、食料費や民主主義の保護よりも上位にランクされている。全米の登録有権者1,000人を対象に実施した2026年第2四半期のCNBCの全米経済調査では、住宅費が特に2026年の中間選挙に向けて両党が訴えたいと考えている種類の若い有権者の間で顕著な問題であることが判明した。",
-    bodyOriginal: `The cost of housing is the top political issue — ranked higher than the cost of food or protecting democracy — among U.S. voters between 18- and 34-years-old, a CNBC survey found.
-CNBC's All-America Economic Survey for the second quarter of 2026, which polled 1,000 registered voters across the country, found the cost of housing is a salient issue, particularly among the kinds of young voters that both parties are hoping to court heading into the 2026 midterm elections.
-"It was my contention and the contention of some other people that Democrats had a huge miss in 2024 by not talking more about healthcare. It is an issue where Democrats have had an advantage in polling for a long time," said Jay Campbell, a partner at Hart Research, the Democratic pollster for the survey.
-"I think housing could be the healthcare of 2024, given especially the need for Democrats to turn young people out who are inclined to be anti-Trump and pro-democratic," Campbell said.
-According to survey participants, who were interviewed between July 8 and 12, the costs of housing and healthcare were tied for the fourth-most important issue facing the country right now, trailing the cost of food and groceries, protecting democracy, and immigration and border security. It was the most important issue for male respondents between ages 18- and 49-years-old and second-most important for those respondents of all genders between 35- and 49-years old, after the cost of food and groceries.
-Housing concerns are fueled by factors including expenses relative to income and ballooning mortgage costs driven by rising insurance and property taxes. Forty-nine percent of households that rent spent more than 30% of their income on housing, a June report by Harvard University's Joint Center for Housing Studies found. Of those 22.7 million households, 12.1 million pay more than half of their income for housing, the report found.
-The importance of housing costs split somewhat along partisan lines. Self-described Democrats surveyed said it was the third-most important issue, behind only the cost of food and protecting democracy. Independents also gave highest priority to food costs and democracy, followed by immigration and border security, with housing costs in fourth.
-Republicans, meanwhile, list the issue lower among their top priorities, instead focusing on immigration, the cost of food and Iran.
-The affordability election
-Affordability and cost of living have been the buzzwords leading into the midterms, and both parties have tried to own the issue of housing.
-A bipartisan bill, aimed at increasing housing supply, lowering the cost to rent or buy homes, and limiting the role of private equity in the housing market, advanced out of Congress with overwhelming support in June.
-Its passage could have led to a victory lap for Republicans, who control both chambers of Congress and the White House. But President Donald Trump canceled a planned signing ceremony on such short notice that it had already been set up at the Capitol and then refused to sign the bill, which he called a "big yawn."
-The bill became law earlier this month even without Trump's blessing based on a technicality.
-The episode was the latest example of Trump and Republicans failing to prioritize cost of living, Democrats said, as the president returns to themes of the Iran war and passing a national voter ID law.
-Democrats are widely projected to win back the House, while the path to a Senate majority is more arduous. And they own an advantage on housing, according to the CNBC survey.
-Of those surveyed, 38% said Democrats would do a better job on housing, while 32% gave the nod to Republicans. Among respondents who ranked the cost of housing as a top two issue, 53% said Democrats would do a better job than Republicans.
-Frustration over housing costs tracks with a broader trend of consumer angst amid inflation and the war with Iran. Sixty percent of those polled said they disapprove of Trump's handling of the economy, 63% disapproved of his handling of the situation with Iran, and 68% disapproved of the administration's job on inflation and cost of living.
-Asked who they'd prefer to control Congress after the midterms, respondents gave Democrats a slight — 49% to 45% — edge over Republicans. The margin of error for the survey is 3.1%.
-"Americans are struggling with rising rents, unaffordable home prices, and costly mortgage rates — all happening under Republican rule," Democratic Congressional Campaign Committee spokesperson Viet Shelton said in a statement. "Voters blame Republicans for their broken promises to lower housing costs, and Trump's refusal to address this affordability crisis has left vulnerable Republicans looking like incompetent stooges incapable of delivering on pocketbook issues."
-The perception that "Republicans don't give a damn about the issue," has given Democrats an opening, Shelton said.
-But Republicans aren't ready to cede ground on the issue, noting that while Trump refrained from signing the bill, he also didn't veto it, as he could have.
-"Democrats have spent years fueling a housing crisis with their failed policies. Republicans have taken real action to build more homes, lower costs, and help more families achieve the American Dream," National Republican Congressional Committee spokesman Mike Marinella said in a statement.
-— CNBC's Diana Olick contributed to this report.`,
-    bodyJa: `CNBCの調査によると、18歳から34歳の米国の有権者の間では、住居費が政治的争点のトップであり、食料費や民主主義の保護よりも上位にランクされている。
-全米の登録有権者1,000人を対象に実施した2026年第2四半期のCNBCの全米経済調査では、住宅費が特に2026年の中間選挙に向けて両党が訴えたいと考えている種類の若い有権者の間で顕著な問題であることが判明した。
-同調査の民主党世論調査会社ハート・リサーチのパートナー、ジェイ・キャンベル氏は、「民主党は医療についてもっと語らなかったことで、2024年に大きな失敗をしたというのが私の主張であり、他の何人かの主張でもあった。この問題は、世論調査において民主党が長い間有利に進められてきた問題だ」と述べた。
-キャンベル氏は「特に民主党が反トランプや民主主義を志向する若者を排除する必要があることを考えると、住宅は2024年の医療になる可能性があると思う」と述べた。
-7月8日から12日までにインタビューを受けた調査参加者らによると、住宅費と医療費は、食料品や食料品の価格、民主主義の保護、移民と国境の安全に次いで、現在この国が直面している4番目に重要な問題と同率だった。これは、18 歳から 49 歳までの男性回答者にとって最も重要な問題であり、35 歳から 49 歳までのすべての性別の回答者にとっては、食費と食料品のコストに次いで 2 番目に重要な問題でした。
-住宅への懸念は、収入に比べて出費が増加していることや、保険税や固定資産税の上昇によって住宅ローン費用が膨れ上がっていることなどの要因によって高まっている。ハーバード大学共同住宅研究センターの6月の報告書によると、賃貸世帯の49％が収入の30％以上を住宅に費やしていることが判明した。報告書によると、これら2,270万世帯のうち、1,210万世帯が収入の半分以上を住居費として支払っている。
-住宅費の重要性については、党派の対立に応じて多少意見が分かれている。調査対象となった自称民主党員は、食料費と民主主義の保護に次ぐ3番目に重要な問題だと答えた。無党派層も食料費と民主主義を最優先し、次に入国管理と国境警備、住宅費が４位だった。
-一方、共和党はこの問題を最優先事項の中で下位に挙げ、その代わりに移民、食費、イランに焦点を当てている。
-手頃な価格の選挙
-手頃な価格と生活費は中間選挙に向けての流行語であり、両党は住宅問題を自分のものにしようと努めてきた。
-住宅供給の増加、住宅の賃貸や購入のコストの引き下げ、住宅市場におけるプライベート・エクイティの役割の制限を目的とした超党派の法案が、6月に圧倒的な支持を得て議会を通過した。
-この可決は、議会とホワイトハウスの両院を支配する共和党にとって勝利のラップにつながる可能性があった。しかし、ドナルド・トランプ大統領は、すでに国会議事堂で予定されていた署名式を急遽キャンセルし、法案への署名を拒否したことを「大あくび」と呼んだ。
-この法案は、専門性に基づくトランプ大統領の承認がなくても、今月初めに成立した。
-民主党は、大統領がイラン戦争と全国有権者ID法の可決というテーマに戻る中、この出来事はトランプと共和党が生活費を優先することに失敗した最新の例だと述べた。
-民主党が下院を奪還すると広く予想されているが、上院で過半数を獲得するまでの道のりはさらに険しい。 CNBCの調査によると、彼らは住宅に関して有利な立場にあるという。
-調査対象者のうち、38％は民主党が住宅政策でより良い取り組みをすると答え、32％は共和党に同意した。住宅費を上位2位に挙げた回答者のうち、53％は民主党の方が共和党よりも良い仕事をすると回答した。
-住宅価格に対する不満は、インフレとイランとの戦争の中での消費者の不安というより広範な傾向と連動しています。調査対象者の60％がトランプ大統領の経済対応を支持せず、63％がイラン情勢への対応を支持せず、68％がインフレと生活費に関する政権の取り組みを支持しないと回答した。
-中間選挙後に誰が議会を支配したいかとの質問に対し、回答者は民主党が共和党よりわずかに（49％対45％）リードしていると回答した。この調査の誤差の範囲は 3.1% です。
-民主党議会選挙委員会のベト・シェルトン報道官は声明で、「米国人は家賃の上昇、手の届かない住宅価格、高額な住宅ローン金利に苦しんでいるが、これらはすべて共和党統治下で起こっている」と述べた。 「有権者は共和党が住宅費削減の公約を破ったと非難しているが、トランプ大統領がこの住宅価格危機への対処を拒否したことで、脆弱な共和党は財政問題を解決できない無能な手先のように見えることになった。」
-「共和党はこの問題を気にしていない」という認識が民主党に隙を与えたとシェルトン氏は語った。
-しかし、共和党はこの問題で譲歩する用意はなく、トランプ大統領が法案への署名を控えた一方、拒否権を行使できたはずの拒否権発動もしなかったことを指摘した。
-全国共和党議会委員会のマイク・マリネラ報道官は声明で、「民主党は何年もかけて失敗した政策で住宅危機を煽ってきた。共和党はより多くの住宅を建設し、コストを削減し、より多くの家族がアメリカン・ドリームを達成できるよう支援するために実際の行動をとった」と述べた。
-— CNBC の Diana Olick がこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/19/housing-costs-election-young-voters-cnbc-survey-finds.html",
-    publishedAt: "2026-07-19T12:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "u-s-says-it-targeted-iranian-forces-afte-4a502114",
-    title: "U.S. says it targeted Iranian forces after attacks that killed two American service members",
-    titleJa: "米国は、米軍人２人が死亡した攻撃を受け、イラン軍を標的にしたと発表",
-    summaryJa: "米国は日曜日、先週ヨルダンを攻撃したイラン軍を標的としたと発表した。イランによる攻撃で米軍人２人が死亡、１人が行方不明となった。週末の展開は両国間の先月の脆弱な停戦をさらに危うくし、ホルムズ海峡を通る石油輸送に対する新たな懸念を引き起こす可能性がある。",
-    bodyOriginal: `The U.S. said on Sunday it targeted Iranian forces that struck Jordan last week, an attack by Iran that left two American service members dead and one missing.
-The developments over the weekend further jeopardized last month's fragile truce between the two sides, potentially raising fresh concerns over oil shipments through the Strait of Hormuz.
-U.S. Central Command said it completed an eighth straight night of strikes against Iranian targets.
-"CENTCOM forces successfully hit Iranian military coastal surveillance and air defense facilities, maritime capabilities, and missile and drone storage sites to continue degrading Iranian military capabilities," it said in a post on X.
-"American military assets also targeted Islamic Revolutionary Guard Corps forces that launched attacks against U.S. service members in Jordan on July 17," it added.
-Meanwhile, the U.S. Embassy in Jordan's capital, Amman, issued a security alert Sunday, saying Jordanian authorities evacuated the international airport and seaport in Aqaba "due to a specific and credible threat" without elaborating.
-However, Jordan reportedly denied issuing any decision to evacuate the facilities.
-"No potential threats have been recorded by the relevant Jordanian authorities in the past few hours," Reuters quoted government spokesperson Mohammad Al-Momani as saying in a written statement. "The airport and port are operating normally."
-U.S. President Donald Trump ordered military forces to launch new airstrikes, starting Saturday at 6 p.m. ET, in order to "degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz" and "punish Islamic Revolutionary Guard Corps forces who launched attacks against American service members in Jordan last night," according to Centcom.
-Iran's Deputy Foreign Minister Kazem Gharibabadi said Saturday the country has suspended its commitments to the memorandum of understanding signed last month with the U.S.
-Truce unravels
-"The United States has violated and suspended all of its commitments under the Islamabad Memorandum of Understanding," he said. "We have also suspended our commitments; we are not implementing them and are busy defending our country."
-When asked about Iran saying it is no longer abiding by the interim peace agreement, Trump told a NewsNation reporter, "I couldn't care less."
-The memorandum of understanding signed by the U.S. and Iran last month continued to unravel amid the latest round of fighting, with both sides trading targeted airstrikes in the region. The interim agreement was intended to reopen the strategically vital Strait of Hormuz and end the conflict.
-Iran Supreme Leader Ayatollah Mojtaba Khamenei said that the country has "unforgettable lessons in store" for the U.S.
-"Now that the American enemy seeks to ignite war and endure heavier costs, it should know that the Iranian nation and the Resistance Front have #unforgettable_lessons in store for it," the Islamic Republic of Iran Broadcasting said in a message from Khamenei on X.
-Khamenei said that repeated U.S. attacks have shown that Trump's signature on the memorandum of understanding is "utterly worthless and devoid of credibility."
-The White House did not immediately respond to a CNBC request for comment on the remarks.
-The two additional U.S. military service member fatalities in Jordan add to previously confirmed deaths of 14 other service members killed in action since the war began with U.S. and Israeli strikes on Iran on Feb. 28, according to MS Now.
-Trump, in a telephone interview with a NewsNation reporter, called the deaths of the two service members "very sad, it's a very sad thing."
-"We hate to see it happen. It's in service to our country," and he reiterated his pledge that the U.S. is "never allowing Iran to have a nuclear weapon."
-'Godspeed heroes'
-Secretary of Defense Pete Hegseth responded to the deaths on X: "Godspeed, heroes. Their sacrifice only stiffens our resolve."
-On Saturday, the IRGC said it blocked four vessels as they attempted to move under U.S. protection through the Strait of Hormuz.
-And Iran continued to target regional neighbors.
-Kuwait said Sunday its air defenses were facing missile and drone attacks by Iran.
-The Gulf country has come under repeated Iranian strikes in recent days, with one hitting its critical water desalination facility.
-Despite the renewed attacks, Trump has insisted the war with Iran is going well, saying Thursday in a primetime address to the American public: "We are likewise winning big in Iran, and you will see the fruits of that labor very, very shortly."
-The U.S. president had threatened to strike Iran's bridges and power plants in the coming week if the country refused to return to the negotiating table.
-Oil prices were sharply higher on Friday due to the ongoing unrest in the Middle East.
-International benchmark Brent crude futures with September delivery advanced 4.6% to $88.10 a barrel on Friday, while U.S. West Texas Intermediate futures with August delivery gained 4.5% to settle at $82.49. Both were at their highest since mid-June.
-For the week, both benchmarks gained about 16%, with Brent on track for a third consecutive weekly gain and WTI set for its second.
-— Reuters and the Associated Press contributed to this report.`,
-    bodyJa: `米国は日曜日、先週ヨルダンを攻撃したイラン軍を標的としたと発表した。イランによる攻撃で米軍人２人が死亡、１人が行方不明となった。
-週末の展開は両国間の先月の脆弱な停戦をさらに危うくし、ホルムズ海峡を通る石油輸送に対する新たな懸念を引き起こす可能性がある。
-米中央軍は、イラン目標に対する８夜連続の攻撃を完了したと発表した。
-同紙はXへの投稿で、「CENTCOM部隊はイラン軍の沿岸監視・防空施設、海洋能力、ミサイル・無人機保管場所への攻撃に成功し、イランの軍事能力を引き続き低下させた」と述べた。
-さらに、「米軍資産は、7月17日にヨルダンで米軍人に対する攻撃を開始したイスラム革命防衛隊部隊も標的にした」と付け加えた。
-一方、ヨルダンの首都アンマンの米国大使館は日曜、ヨルダン当局が「具体的かつ信頼できる脅威のため」アカバの国際空港と港から避難したと述べ、詳細は明らかにしなかったが、警戒警報を発令した。
-しかし、ヨルダンは施設を立ち退かせる決定を下したことを否定したと伝えられている。
-ロイター通信は、ヨルダン政府報道官のモハマド・アルモマニ氏が書面での声明で「過去数時間、ヨルダン関連当局により潜在的な脅威は記録されていない」と伝えた。 「空港と港は通常通り業務を行っております。」
-ドナルド・トランプ米大統領は軍に対し、土曜日午後6時から新たな空爆を開始するよう命令した。セントコムによると、ETは「ホルムズ海峡で商船を脅かすイランの能力を低下させる」ため、そして「昨夜ヨルダンで米軍人に対して攻撃を開始したイスラム革命防衛隊を処罰する」ためだという。
-イランのカゼム・ガリババディ外務次官は土曜日、同国は米国と先月署名した覚書への約束を停止したと述べた。
-休戦が解ける
-「米国はイスラマバード覚書に基づく全ての約束に違反し、停止した」と同氏は述べた。 「我々はまた、約束を停止した。我々は約束を履行しておらず、我が国を守ることに忙しい。」
-イランが暫定和平合意をもはや遵守していないと述べたことについて問われたトランプ大統領は、ニューズネーション記者に対し、「気にすることはできない」と語った。
-米国とイランが先月署名した覚書は、最近の戦闘のさなかに解け続け、双方が地域を標的とした空爆を行うことになった。暫定合意は、戦略的に重要なホルムズ海峡を再開し、紛争を終結させることを目的としていた。
-イラン最高指導者モジタバ・ハメネイ師は、この国には米国にとって「忘れられない教訓」があると述べた。
-イラン・イスラム共和国放送は、Xでのハメネイ師のメッセージの中で、「アメリカの敵が戦争を引き起こし、より大きな犠牲に耐えようとしている今、イラン国家と抵抗戦線がそのために#unforgettable_lessonsを用意していることを知るべきだ」と述べた。
-ハメネイ師は、米国による度重なる攻撃は、覚書へのトランプ大統領の署名が「まったく価値がなく、信頼性を欠いている」ことを示していると述べた。
-ホワイトハウスは、この発言についてのCNBCのコメント要請にすぐには応じなかった。
-ＭＳナウによると、ヨルダンでさらに２人の米軍人死亡が確認され、２月２８日の米国とイスラエルによるイラン攻撃で戦争が始まって以来、これまで確認されていた他の軍人１４人の戦死が追加された。
-トランプ大統領はニューズネーション記者との電話インタビューで、軍人２人の死を「非常に悲しい、非常に悲しいことだ」と述べた。
-同氏は「われわれはそのようなことが起こるのは見たくない。これは我が国への奉仕だ」と述べ、米国は「イランの核兵器保有を決して許さない」との誓約を繰り返した。
-「ゴッドスピード・ヒーローズ」
-ピート・ヘグセス国防長官は、Xでの死者について「神速の英雄よ。彼らの犠牲は我々の決意を固めるだけだ」と反応した。
-革命防衛隊は土曜日、米国の保護下でホルムズ海峡を通ろうとした船舶４隻を阻止したと発表した。
-そしてイランは地域の近隣諸国を引き続き標的とした。
-クウェートは日曜日、同国の防空体制がイランによるミサイルや無人機の攻撃に直面していると発表した。
-湾岸諸国はここ数日、イランによる度重なる攻撃を受けており、そのうちの1件は重要な淡水化施設に打撃を与えた。
-新たな攻撃にも関わらず、トランプ大統領はイランとの戦争は順調に進んでいると主張し、木曜、米国民に向けたゴールデンタイムの演説で「われわれは同様にイランでも大きな勝利を収めており、その努力の成果がすぐに目に入るだろう」と述べた。
-米国大統領は、イランが交渉のテーブルに戻ることを拒否した場合、来週中にイランの橋と発電所を攻撃すると脅していた。
-中東での不安が続いているため、金曜日の原油価格は大幅に上昇した。
-国際ベンチマークであるブレント原油先物（9月渡し）は金曜、4.6％上昇して1バレル＝88.10ドルとなった一方、8月渡しの米国ウェスト・テキサス・インターミディエイト先物は4.5％上昇して82.49ドルで落ち着いた。いずれも６月中旬以来の高値となった。
-この週では、両ベンチマークは約16％上昇し、ブレントは3週連続の上昇傾向にあり、WTIは2週間連続の上昇を記録した。
-— ロイター通信とAP通信がこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/19/us-says-it-targeted-iran-forces-after-deaths-of-two-american-troops.html",
-    publishedAt: "2026-07-19T11:36:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "chinese-firm-seeks-compensation-over-bri-b58820df",
-    title: "Chinese firm seeks compensation over British Steel nationalisation",
-    titleJa: "中国企業、ブリティッシュ・スチール国有化で賠償請求",
-    summaryJa: "中国企業、ブリティッシュ・スチール国有化で賠償請求- 公開されました",
-    bodyOriginal: `Chinese firm seeks compensation over British Steel nationalisation
-- Published
-The former owner of British Steel has said it will pursue the British government for compensation after the loss-making firm was nationalised.
-The UK took control of the Scunthorpe steelworks a year ago after China's Jingye Group said it planned to close the site because it was not financially viable, and fully nationalised the plant on Thursday.
-In a statement on Sunday, Jingye said it will seek "full compensation through legal means to the very end" over the UK's move.
-A government spokesperson said draft compensation regulations due to be released in the autumn will set out a compensation process through which an independent assessor "would determine what, if any, is payable".
-Jingye bought the Lincolnshire steel plant in 2020, but in March last year the firm launched a consultation on its closure saying the plant was losing £700,000 a day.
-The government took control of British Steel operations in April 2025, but until this week it remained under Jingye's ownership which limited the government's ability to shape the firm's future.
-On Thursday the UK government said it was taking the firm into public hands in order to safeguard a "vital national capability", giving the government the power to decide the plant's future.
-The decision to nationalise British Steel has threatened to strain the relationship between London and Beijing just as Andy Burnham prepares to enter Downing Street as prime minister on Monday.
-Why has British Steel been nationalised?
-- Published2 days ago
-China hit out at the nationalisation of British Steel on Friday, saying it "firmly opposes and is strongly dissatisfied with the British government's decision".
-China's commerce ministry said the move "seriously infringed" upon Jingye's rights and interests, and "severely undermined the confidence of Chinese companies investing in the UK".
-The statement added that Beijing would support Chinese firms to protect their rights, but did not detail what that might involve.
-A UK government spokesperson said on Friday that commercial negotiations with the Chinese steelmaker had failed to reach an agreement "that represented value to the taxpayer".
-"We highly value our relationship with China and remain open to Chinese investment, and we will continue to work together to deliver a successful trading relationship that provides the best opportunities for British businesses," they added.
-The steelworks employs about 2,700 people and supports other industries in North Lincolnshire, but has faced significant uncertainty over the last few years.
-In March, the National Audit Office released a report that found it was costing the government about £1.3m a day to keep the plant running.
-But Business Secretary Peter Kyle has said letting the operation close was not an option, and the government will continue to cover the running costs "for the immediate future".
-"If that business disappears, we will lose the ability for primary steel production in our country, we will become entirely dependent on global supply," he said on Thursday.
-British Steel was last under state ownership in 1988 when it was privatised by Prime Minister Margaret Thatcher's government.
-Related topics
-- Published1 day ago
-- Published3 days ago
-- Published2 days ago`,
-    bodyJa: `中国企業、ブリティッシュ・スチール国有化で賠償請求
-- 公開されました
-ブリティッシュ・スチールの元オーナーは、赤字会社の国有化を受けて英国政府に賠償を求めると述べた。
-中国の景業グループが資金繰りが不可能であるため工場を閉鎖する計画を発表したことを受けて、英国は1年前にスカンソープ製鉄所の経営権を掌握し、木曜日には工場を完全国有化した。
-ジンゲ氏は日曜日の声明で、英国の今回の措置について「最後まで法的手段による全額補償」を求めると述べた。
-政府報道官は、秋に発表される予定の補償規制草案では、独立した評価機関が「支払うべきものがある場合、その金額を決定する」補償プロセスが定められると述べた。
-ジンゲは2020年にリンカンシャー製鉄所を買収したが、昨年3月に同社は工場が1日あたり70万ポンドの損失を出しているとして閉鎖に関する協議を開始した。
-政府は2025年4月にブリティッシュ・スチールの経営管理を掌握したが、今週まで同社はジンゲの所有権下に残り、同社の将来を形作る政府の能力は制限されていた。
-英国政府は木曜日、「国家の重要な能力」を守るために同社を公的に管理し、政府に工場の将来を決定する権限を与えると発表した。
-アンディ・バーナムが月曜日に首相としてダウニング街に入る準備をしている矢先に、ブリティッシュ・スチールを国有化するという決定により、ロンドンと北京の関係が緊張する恐れがある。
-なぜブリティッシュ・スチールは国有化されたのでしょうか？
-- 2 日前に公開
-中国は金曜日、ブリティッシュ・スチールの国有化を非難し、「英国政府の決定に断固反対し、強く不満を抱いている」と述べた。
-中国商務省は、この措置は景業の権利と利益を「深刻に侵害」し、「英国に投資する中国企業の信頼を著しく損なう」と述べた。
-声明は、中国企業の権利を守るために中国企業を支援すると付け加えたが、その内容については詳細には触れなかった。
-英国政府報道官は金曜日、中国鉄鋼メーカーとの通商交渉は「納税者にとって価値のある」合意に達しなかったと述べた。
-「われわれは中国との関係を高く評価しており、今後も中国からの投資にオープンであり、英国企業に最高の機会を提供する貿易関係を成功させるために引き続き協力していく」と両氏は付け加えた。
-この製鉄所は約 2,700 人の従業員を雇用し、ノース リンカンシャーの他の産業を支援していますが、ここ数年は大きな不確実性に直面しています。
-3月、国家会計検査院は、政府が工場の稼働を維持するために1日あたり約130万ポンドの費用を費やしていることを明らかにした報告書を発表した。
-しかし、ピーター・カイル企業長官は、操業を閉鎖することは選択肢ではなく、政府は「当面」運営費を負担し続けると述べた。
-同氏は木曜日、「もしその事業が消滅すれば、我が国の一次鉄鋼生産能力を失い、完全に世界供給に依存することになるだろう」と述べた。
-ブリティッシュ・スチールが最後に国営であったのは1988年で、マーガレット・サッチャー首相の政府によって民営化された。
-関連トピック
-- 1 日前に公開
-- 3 日前に公開
-- 2 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-19T10:59:07+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa42/live/7ad3f5d0-835b-11f1-926f-c90d1bcfbc84.jpg",
-    readTime: 3,
-  },
-  {
-    id: "is-burnham-promising-a-new-dawn-for-nort-61745c0b",
-    title: "Is Burnham promising a new dawn for North Sea oil and gas?",
-    titleJa: "バーナムは北海の石油とガスに新たな夜明けを約束しているのだろうか？",
-    summaryJa: "バーナムは北海の石油とガスに新たな夜明けを約束しているのだろうか？- 公開されました",
-    bodyOriginal: `Is Burnham promising a new dawn for North Sea oil and gas?
-- Published
-The final weekend before Andy Burnham enters Downing Street is being dominated by suggestions he'll announce plans for new drilling in the North Sea.
-On Saturday, the BBC reported the in-coming prime minister would stick to the party's 2024 manifesto pledge to issue no new oil and gas licences but would honour existing ones.
-That line has been confirmed as the hours count down to the Burnham premiership.
-Speaking on Sunday with Laura Kuenssberg, Labour's deputy leader Lucy Powell said Burnham would stick to the party's manifesto commitments, but there would be a "change of emphasis" on North Sea oil and gas.
-"We've been really clear that the way to achieve in the long term energy security and lower bills is by ensuring that we do have our own homegrown, clean, much cheaper energy," she said.
-"But we've been absolutely clear that North Sea gas and oil is an important part of that transition.
-"It's an important part of the mix, and I think what Andy's talking about is taking a more pragmatic approach and working with the industry to make sure that it can contribute to that [energy] transition and to the mix that is needed over the long term."
-To drill or not to drill? Andy Burnham faces North Sea oil dilemma
-- Published4 days ago
-Swinney softens stance on North Sea drilling as oil prices soar
-- Published2 April
-The city caught in the middle of the big energy shift debate
-- Published30 April
-Just how all this is squared up will, hopefully, become clear in the coming days and weeks.
-There is one thing we can be confident about now - the new prime minister won't be confirming approval for the controversial Rosebank and Jackdaw fields on day one in the job.
-The operators of those fields were given the go-ahead by the previous Conservative government but those decisions are having to be reconsidered because of a successful legal challenge.
-Environmental groups Greenpeace and Uplift argued that ministers had not considered the full climate impact from burning fossil fuels which the fields would produce.
-Despite both sites having production facilities in place, a lengthy process is still underway by the Offshore Petroleum Regulator for Environment and Decommissioning (Opred).
-That is now in its final stages.
-Both applications are subject to consultations which close in August and jumping the gun on those would certainly land the government back in court.
-But while those two decisions are the most pressing and arguably most controversial in Burnham's energy in-tray, there are plenty of other matters he's going to have to take a view on.
-The next biggest relates to oil and gas exploration licences. These give operators the exclusive right to explore for hydrocarbon deposits within an area of sea known as a "block."
-Labour's 2024 election manifesto pledged to ban new licences, and that promise was carried out by Energy Secretary Ed Miliband soon after Labour came to power.
-The government has already agreed to a significant concession by allowing "tie-backs" - production in unlicensed areas which are close by and connected to infrastructure in already licensed areas.
-That dances around the manifesto commitment but, strictly speaking, does not break it. Anything further certainly would.
-There's also no great desire within the oil and gas industry for full licences to explore totally unknown areas of seabed. These require huge amounts of capital investment and are a big gamble.
-Over recent decades, the oil supermajors like BP, Shell and TotalEnergies have been selling off their assets to smaller operators whose pockets are not as deep.
-Their mission is not to explore but to extract what's left in known fields.
-Other options for Burnham include scrapping the Energy Profits Levy (EPL), or windfall tax. This was introduced when prices spiked at the start of Russia's invasion of Ukraine.
-It has a headline rate of 78%, which is taken whether oil and gas prices are high or low.
-The industry says it makes the North Sea one of the least favourable in the world for investors and there is strong evidence that investment has certainly dried up in those years.
-It's due to be replaced in 2030 by another windfall tax, which operators like more because it's only triggered when prices are high and falls back when they are low.
-While politicians have been arguing furiously over Jackdaw, Rosebank, and new exploration licences, it's the EPL which the industry would most like the new prime minister to focus on.
-It's also the one which is likely to face the least opposition from environmentalists.
-It does fit in with one of Andy Burnham's missions of reindustrialisation by encouraging the kind of investment that brings and secures jobs.
-But it's the least politically sexy option to take.
-So what he does there may help define whether the new PM is about grabbing headlines or making genuine moves to stimulate the economy.`,
-    bodyJa: `バーナムは北海の石油とガスに新たな夜明けを約束しているのだろうか？
-- 公開されました
-アンディ・バーナム氏がダウニング街に入る前の最後の週末は、同氏が北海での新たな掘削計画を発表するのではないかという憶測で占められている。
-土曜日、BBCは次期首相が新たな石油・ガスライセンスを発行しないが既存のライセンスは尊重するという党の2024年のマニフェスト公約を堅持するだろうと報じた。
-バーナム首相就任までのカウントダウンが近づくにつれ、その路線が確認された。
-労働党のルーシー・パウエル副党首は日曜、ローラ・クエンスバーグ氏と会談し、バーナム氏は党のマニフェスト公約を堅持するが、北海の石油とガスへの「重点の変更」が行われるだろうと述べた。
-「私たちは、長期的なエネルギー安全保障と料金削減を達成する方法は、自家製のクリーンではるかに安価なエネルギーを確保することであることを本当に明確にしています」と彼女は述べた。
-「しかし、私たちは北海のガスと石油がその移行の重要な部分であることを完全に明確にしています。
-「これはミックスの重要な部分であり、アンディが話しているのは、より現実的なアプローチをとり、業界と協力して、その[エネルギー]移行と長期的に必要とされるミックスに確実に貢献できるようにすることだと思います。」
-ドリルするかドリルしないか？アンディ・バーナムは北海の石油ジレンマに直面している
-- 4 日前に公開
-スウィニー氏、原油価格高騰で北海掘削に対する姿勢を軟化
-- 4 月 2 日発行
-都市はエネルギー転換の大規模な議論の真っただ中にある
-- 4 月 30 日発行
-これらすべてがどのように解明されるかは、おそらく今後数日から数週間のうちに明らかになるでしょう。
-今、私たちが確信できることが1つある。それは、新首相が就任初日に物議を醸しているローズバンクとジャックドー田の承認を確認するつもりはないということだ。
-これらの分野の運営者には前保守党政権からゴーサインが与えられていたが、法的異議申し立てが成功したため、これらの決定は再検討する必要がある。
-環境団体グリーンピースとアップリフトは、大臣らは田畑で生成される化石燃料の燃焼による気候への影響を完全に考慮していないと主張した。
-両方のサイトに生産設備が整っているにもかかわらず、海洋石油環境・廃炉規制当局（Opred）による長期のプロセスがまだ進行中である。
-それは現在、最終段階にある。
-どちらの申請も8月に終了する協議の対象となっており、これらの申請に飛びつくと政府は間違いなく法廷に戻されることになる。
-しかし、これら 2 つの決定は最も差し迫ったものであり、おそらくバーナムのエネルギーの中で最も物議を醸すものである一方で、彼が見解を示さなければならない問題は他にもたくさんあります。
-次に大きいのは石油とガスの探査ライセンスに関するものです。これらにより、事業者は「ブロック」として知られる海域内の炭化水素鉱床を探索する独占的な権利を与えられます。
-労働党の2024年の選挙マニフェストでは新規認可の禁止を約束しており、その公約は労働党が政権を握った直後にエネルギー長官エド・ミリバンドによって実行された。
-政府はすでに、「タイバック」、つまりすでに認可された地域のインフラに近く、それに接続されている認可されていない地域での生産を許可することで大幅な譲歩に同意している。
-これはマニフェストの公約に沿ったものですが、厳密に言えば、それを破るものではありません。それ以上のものは確かにそうなるだろう。
-また、石油・ガス業界では、海底の全く未知の領域を探索するための完全なライセンスを求める大きな願望はありません。これらには巨額の資本投資が必要であり、大きな賭けです。
-ここ数十年にわたり、BP、シェル、トータルエナジーなどの石油スーパーメジャーは、資金がそれほど深くない中小事業者に資産を売却してきた。
-彼らの使命は探検することではなく、既知のフィールドに残っているものを抽出することです。
-バーナムの他の選択肢には、エネルギー利益税（EPL）、つまり棚ぼた税の廃止が含まれる。これは、ロシアによるウクライナ侵攻が始まった際に価格が高騰したときに導入された。
-ヘッドラインレートは78％で、石油とガスの価格が高いか低いかに関係なく適用されます。
-業界は、北海が投資家にとって世界で最も不利な海域の一つとなっており、この数年間で投資が確かに枯渇したという強い証拠があると述べている。
-これは2030年に別の棚ぼた税に置き換えられる予定だが、価格が高いときにのみ発動され、安くなると元に戻るため、事業者にとってはこのほうが好まれている。
-政治家たちはジャックドー、ローズバンク、そして新たな探査ライセンスをめぐって激しく議論しているが、業界が新首相に最も注力してもらいたいのはEPLだ。
-それはまた、環境活動家からの反対が最も少ない可能性が高いものでもあります。
-それは、雇用をもたらし、確保するような投資を奨励することで再産業化を図るというアンディ・バーナムの使命の1つと一致している。
-しかし、それは政治的に最もセクシーでない選択肢だ。
-したがって、そこでの彼の行動は、新首相が見出しをつかむことを目的としているのか、それとも経済を刺激するための真の動きをすることを目的としているのかを定義するのに役立つかもしれない。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-19T09:52:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e322/live/b89a8640-82a7-11f1-84ea-29e7008b1ad8.jpg",
-    readTime: 6,
-  },
-  {
-    id: "my-husband-and-i-are-retired-our-financi-3b8bf30d",
-    title: "My husband and I are retired. Our financial adviser, who is in his 30s, called us ‘you guyses.’ Is that unprofessional?",
-    titleJa: "夫も私も退職しました。 30代のファイナンシャルアドバイザーは私たちを「あなたたち」と呼びました。それはプロフェッショナルではありませんか？",
-    summaryJa: "「私たちと世代が近い方と仕事をお願いしようか迷っています」",
-    bodyOriginal: `“I’m wondering whether I should ask to work with someone closer to our generation.”`,
-    bodyJa: `「私たちと世代が近い方と仕事をお願いしようか迷っています」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-    publishedAt: "2026-07-19T09:20:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-20959072",
-    readTime: 2,
-  },
-  {
-    id: "cuban-dissident-luis-manuel-otero-alc-nt-0ed62832",
-    title: "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-    titleJa: "キューバの反体制派ルイス・マヌエル・オテロ・アルカンタラ氏が米国に亡命",
-    summaryJa: "キューバの反体制派ルイス・マヌエル・オテロ・アルカンタラ氏が米国に亡命- 公開されました",
-    bodyOriginal: `Cuban dissident Luis Manuel Otero Alcántara goes into exile in US
-- Published
-One of Cuba's most prominent dissidents has gone into exile in the US, after leaving Cuba where he had served a five-year prison sentence.
-Luis Manuel Otero Alcántara, 38, is the leader of the San Isidro Movement (SIM), a group of artists, journalists and intellectuals who have campaigned for freedom of speech and democracy in the communist country.
-He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years in the maximum-security Guanajay prison near Havana.
-His whereabouts have been unclear in recent days as Cuban authorities held him in an unknown location while the US approved a parole request.
-Emerging from the airport in Miami, the 38-year-old was greeted by supporters who sang the Cuban national anthem as he held up his forefinger and thumb in the shape of the letter L to represent '"Libertad" - meaning freedom, a recognised anti-government symbol.
-"I believe the dictatorship has to end, and the Castro dynasty has to end, as well," Otero Alcántara later told journalists. "Because as long as there is a Castro in power, there will be corruption."
-Cuban authorities allege the SIM is funded by Washington and has been used to subvert the state, claims the movement denies. Many members say they have been constantly targeted by the security forces, and some arbitrarily detained.
-US Secretary of State Marco Rubio said the Cuban government's "brutal crackdown against its own people five years ago is yet another reminder of the unique misery and evil that is innate to the communist system".
-"Otero Alcántara's only 'crime' was refusing to stay silent and using his art to demand the basic freedoms everyday Cubans have been denied for almost seven decades," he said in a statement.
-The cases of Otero Alcántara and fellow SIM member Maykel Castillo, known as "Osorbo", who is serving an eight-year prison sentence, have been a recurring source of diplomatic tension between Washington and Havana.
-That tension has swelled in recent months, with the Trump administration hitting Cuba with an oil blockade, sanctions and openly threatening military intervention.
-Last week the BBC's US news partner CBS reported that the Pentagon was looking at military options in Cuba, although it quoted officials as saying the briefings did not mean any decision to carry out an operation had been made.
-The US oil blockade has exacerbated an ongoing fuel crisis, with Cubans facing extended blackouts and food shortages in recent months.
-The US also announced in May an unprecedented murder indictment against former Cuban leader Raúl Castro, over the 1996 downing of two planes, an incident that killed four people. Russia and China condemned the move.
-Tourism has taken a major hit amid the US sanctions, with fewer than 360,000 people visiting the island in the first five months of 2026, a decrease of nearly 60% compared to the same period last year, according to Onei.
-Washington warned in May that a peaceful agreement with the Caribbean nation was unlikely.
-Related topics
-More on Cuba
-- Published16 June
-- Published22 May`,
-    bodyJa: `キューバの反体制派ルイス・マヌエル・オテロ・アルカンタラ氏が米国に亡命
-- 公開されました
-キューバの最も著名な反体制派の一人が、５年の懲役刑で服役したキューバを離れ、米国に亡命した。
-ルイス・マヌエル・オテロ・アルカンタラさん（38歳）は、共産主義国における言論の自由と民主主義を求めて活動してきたアーティスト、ジャーナリスト、知識人のグループであるサン・イシドロ運動（SIM）のリーダーである。
-彼は2021年、キューバのここ数十年で最大規模の反政府抗議活動の最中に逮捕され、ハバナ近郊の厳戒態勢のグアナジャイ刑務所で5年間を過ごした。
-米国が仮釈放申請を承認している間、キューバ当局が彼を不明な場所に拘束したため、ここ数日彼の行方は不明となっている。
-マイアミの空港から出てきた38歳の彼は、人差し指と親指で「リベルタード」（自由を意味し、反政府のシンボルとして認知されている）を表す文字Lの形に掲げながら、キューバ国歌を斉唱する支持者らに出迎えられた。
-オテロ・アルカンタラ氏は後に記者団に対し、「独裁政権は終わらなければならないし、カストロ王朝も終わらなければならないと信じている」と語った。 「カストロが権力を握っている限り、汚職は存在するからだ。」
-キューバ当局は、SIMが米国政府から資金提供され、国家転覆に利用されたと主張しているが、運動側は否定している。多くの会員は、常に治安部隊の標的にされており、恣意的に拘束された人もいると述べている。
-マルコ・ルビオ米国務長官は、キューバ政府による「5年前の自国民に対する残忍な弾圧は、共産主義体制に内在する特有の悲惨さと悪を再び思い出させるものである」と述べた。
-「オテロ・アルカンタラの唯一の『犯罪』は、沈黙を拒否し、キューバ人がほぼ70年間否定されてきた日常の基本的自由を自分の芸術を使って要求したことだ」と同氏は声明で述べた。
-オテロ・アルカンタラと、同じくSIMメンバーで懲役8年の刑で服役中の「オソルボ」として知られるマイケル・カスティージョの事件は、ワシントンとハバナの間で外交的緊張を繰り返し引き起こす原因となっている。
-トランプ政権がキューバを石油封鎖や制裁で攻撃し、公然と軍事介入を示唆するなど、この緊張はここ数カ月で高まっている。
-BBCの米国ニュースパートナーであるCBSは先週、国防総省がキューバにおける軍事的選択肢を検討していると報じたが、当局者の発言として、会見は作戦遂行の決定がなされたことを意味するものではないと述べた。
-米国の石油封鎖は進行中の燃料危機を悪化させ、キューバ国民はここ数カ月間、長期にわたる停電と食糧不足に直面している。
-米国はまた、5月に、1996年の飛行機2機撃墜事件（4人死亡）をめぐり、キューバ元指導者ラウル・カストロ氏に対する前例のない殺人起訴を発表した。ロシアと中国はこの動きを非難した。
-オネイ氏によると、米国の制裁により観光業は大きな打撃を受け、2026年最初の5カ月で島を訪れる人は36万人未満となり、前年同期と比べて60％近く減少したという。
-米国政府は5月、カリブ海諸国との平和的合意の可能性は低いと警告した。
-関連トピック
-キューバについてさらに詳しく
-- 6 月 16 日公開
-- 5 月 22 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-19T07:47:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffba/live/61f9f5c0-8336-11f1-ab22-e5791e60f909.jpg",
-    readTime: 3,
-  },
-  {
-    id: "us-and-iran-exchange-strikes-after-two-u-11496eba",
-    title: "US and Iran exchange strikes after two US soldiers killed in Jordan",
-    titleJa: "ヨルダンで米兵２人死亡を受け、米国とイランが攻撃を交わす",
-    summaryJa: "ヨルダンで米兵２人死亡を受け、米国とイランが攻撃を交わす- 公開されました",
-    bodyOriginal: `US and Iran exchange strikes after two US soldiers killed in Jordan
-- Published
-The US launched another round of air strikes against Iran on Saturday night, targeting its coastal surveillance and air defence facilities, US military officials said.
-US Central Command (Centcom) said forces successfully hit Iranian military capabilities, while Iranian state media said Qeshm Island in the Strait of Hormuz had been struck.
-Centcom said it also targeted Iran's Revolutionary Guards (IRGC) responsible for the attack that killed two US troops in Jordan on Friday, where another service member remains missing.
-In response to the latest strikes, Iran's army said it carried out drone attacks on two US bases in Kuwait, according to state media.
-The US and Iran have ramped up attacks against each other in recent days, with both sides accused of striking critical infrastructure.
-On Saturday, Iran said it carried out "large-scale attacks with kamikaze drones" against an American military "depot at Camp Udairi" and another at "Ali Al Salem Air Base in Kuwait", according to the IRGC-affiliated Tasnim news agency.
-The US strikes, on the eighth successive night of attacks, were "designed to further degrade Iran's ability to threaten commercial shipping in the Strait of Hormuz", Centcom said.
-The strikes were to "swiftly punish Islamic Revolutionary Guard Corps forces who launched attacks against American service members in Jordan last night," the statement continued.
-It followed a week of renewed hostilities in which Washington reimposed its blockade of Iranian ports and Tehran declared the Strait of Hormuz closed, as their preliminary ceasefire collapsed less than a month after it began.
-In a statement earlier on Saturday, Centcom said: "Two US service members in Jordan were killed in action as US Central Command (Centcom) and partner forces defended against Iranian ballistic missile and drone attacks. Additionally, one service member is currently missing."
-US Defence Secretary Pete Hegseth responded to the deaths with a post on X that said: "Godspeed, heroes. Their sacrifice only stiffens our resolve."
-The US death toll in the conflict has now risen to 16 after an American Navy pilot who went missing earlier this month was declared dead, marking the second increase in the toll this week.
-In Iran, at least 50 people have been killed and more than 500 injured in US strikes over the past three weeks, the country's health ministry said.
-The US and Iran have both been accused of targeting civilian infrastructure. The US has denied this, saying it "carried out strikes exclusively on military targets, including military logistics infrastructure" after Iran said bridges and a station were hit.
-On Saturday the Gulf Cooperation Council accused Tehran of targeting civilian infrastructure after Kuwait said a power plant and a water distillation plant had been hit.
-Under international law, attacking civilians or civilian areas is illegal. However, in certain circumstances, civilian objects - like a bridge or a power plant - lose their protection if they are used to support the enemy's war effort.
-Washington and Tehran struck a preliminary deal to end the war in June, but the agreement unravelled within weeks - with President Donald Trump declaring the agreement "over" on 8 July.
-Late on Saturday, Iran's Supreme Leader Mojtaba Khamenei said in a written statement that America's "repeated breaches" of the agreement had "laid bare a fundamental truth: the signature of the US president is utterly worthless and devoid of credibility".
-Related topics
-- Published8 hours ago
-- Published14 hours ago`,
-    bodyJa: `ヨルダンで米兵２人死亡を受け、米国とイランが攻撃を交わす
-- 公開されました
-米軍当局者らによると、米国は土曜夜、イランの沿岸監視施設と防空施設を標的に、イランに対する再度の空爆を開始した。
-米中央軍（セントコム）は、部隊がイランの軍事能力を攻撃することに成功したと発表し、一方、イラン国営メディアは、ホルムズ海峡のケシュム島が攻撃されたと報じた。
-セントコムは、金曜にヨルダンで米軍兵士２人が死亡し、もう一人の軍人が行方不明となった襲撃事件の責任者であるイラン革命防衛隊（ＩＲＧＣ）も標的にしたと述べた。
-国営メディアによると、イラン軍は今回の攻撃に対抗して、クウェートにある米軍基地２カ所に対して無人機攻撃を行ったと発表した。
-米国とイランはここ数日、相互攻撃を強化しており、双方とも重要インフラを攻撃したと非難されている。
-革命防衛隊系タスニム通信によりますと、土曜日、イランはアメリカ軍の「キャンプ・ウダイリの補給所」と「クウェートのアリ・アル・サレム空軍基地」のもう一つに対して「神風無人機による大規模攻撃」を行ったと発表しました。
-セントコムは、８夜連続の米国の攻撃は「ホルムズ海峡の商船を脅かすイランの能力をさらに低下させることを目的とした」と述べた。
-声明はさらに、今回の空爆は「昨夜ヨルダンで米軍人に対して攻撃を開始したイスラム革命防衛隊部隊を迅速に処罰するため」と述べた。
-それは、米国政府がイラン港湾封鎖を再発動し、イラン政府がホルムズ海峡閉鎖を宣言した1週間の新たな敵対行為に続き、予備的な停戦開始から1か月も経たないうちに崩壊した。
-セントコムは土曜日に発表した声明で、「ヨルダン駐留の米軍人２名が、米中央軍（セントコム）と提携部隊がイランの弾道ミサイルとドローン攻撃を防御する中、戦闘中に死亡した。また、軍人１名が現在行方不明である」と述べた。
-ピート・ヘグセス米国防長官は、Xに「神速の英雄よ。彼らの犠牲は我々の決意を固めるだけだ」という投稿でこの死を受けて反応した。
-今月初めに行方不明になった米海軍パイロットの死亡が確認されたことを受け、紛争による米国の死者数は16人に増え、今週2回目の増加となった。
-同国の保健省によると、イランでは過去３週間の米軍の攻撃で少なくとも５０人が死亡、５００人以上が負傷した。
-米国とイランはともに民間インフラを標的にしたとして非難されている。イランが橋や駅が攻撃されたと発表したことを受け、米国はこれを否定し、「軍事物流インフラを含む軍事目標のみに空爆を行った」と述べた。
-クウェートが発電所と蒸留所が攻撃されたと発表したことを受け、湾岸協力会議は土曜日、民間インフラを標的にしたとしてテヘランを非難した。
-国際法の下では、民間人や民間地域への攻撃は違法です。ただし、特定の状況では、橋や発電所などの民間の物体が敵の戦争努力を支援するために使用された場合、その保護が失われます。
-米国とイランは6月に戦争終結に向けた暫定合意を結んだが、合意は数週間以内に解消され、7月8日にドナルド・トランプ大統領が合意は「終わった」と宣言した。
-土曜日遅く、イランの最高指導者モジタバ・ハメネイ師は書面による声明で、米国による合意の「度重なる違反」は「米国大統領の署名はまったく価値がなく、信頼性を欠いているという根本的な真実を明らかにした」と述べた。
-Related topics
-- Published8 hours ago
-- Published14 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-19T05:10:57+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e354/live/adca3400-8323-11f1-926f-c90d1bcfbc84.jpg",
-    readTime: 4,
   },
 ];
 
