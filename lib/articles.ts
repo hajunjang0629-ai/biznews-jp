@@ -15,6 +15,466 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "u-s-treasury-yields-edge-higher-as-wall-57e25645",
+    title: "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
+    titleJa: "ウォール街が中東の緊張を監視する中、米国債利回りが若干上昇",
+    summaryJa: "中東の緊張が高まる中、ウォール街が最新の動向を注視する中、月曜日の米国債利回りは若干上昇した。米政府借入の主要指標である１０年米国債利回りは１ベーシスポイント以上上昇し４．５５８％となった。",
+    bodyOriginal: `U.S. Treasury yields edged higher on Monday as Wall Street monitors the latest developments amid escalating tensions in the Middle East.
+The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose over 1 basis point to 4.558%.
+The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, was broadly flat at 4.181%. The longer-dated 30-year Treasury bond yield rose over 1 basis point to 5.078%.
+One basis point is equal to 0.01%, and yields and prices move in opposite directions.
+U.S. Central Command completed the ninth consecutive evening of strikes against Iran, at 10 p.m. ET on Sunday, Centcom said in a post on X.
+The three-hour exercise targeted Iranian military command centers, air defense and coastal surveillance sites, maritime capabilities, and missile and drone launch sites. Centcom said the operation was intended to further diminish Tehran's ability to attack commercial vessels and civilian mariners transiting the Strait of Hormuz.
+U.S. strikes have widened in recent days, with Tehran reporting strikes on civilian infrastructure, including the Bonji desalination plant that cut off water supplies to about 10,000 people.
+Tehran has retaliated across the Gulf with fresh attacks on targets in neighboring countries, including Bahrain, Saudi Arabia, and Jordan. The Kuwaiti army said Monday that its air defense systems were intercepting "hostile" drone attacks from Iran.
+Treasury yields eased off last week as investors digested a raft of data releases indicating that the U.S. economy continues to withstand inflationary pressures caused by the Iran war.
+Last week's slide in borrowing costs followed cooler-than-expected producer and consumer price data, while U.S. jobless claims for the week ending July 11 came in lower than forecasted, at a seasonally-adjusted 208,000.
+On Friday, investors will be monitoring the latest S&P Global Flash U.S. PMI report, which measures the economic health of American manufacturing and services sectors.
+— CNBC's Anniek Bao and Sean Conlon also contributed to this report.`,
+    bodyJa: `中東の緊張が高まる中、ウォール街が最新の動向を注視する中、月曜日の米国債利回りは若干上昇した。
+米政府借入の主要指標である１０年米国債利回りは１ベーシスポイント以上上昇し４．５５８％となった。
+米連邦準備理事会（FRB）の短期金利政策とより密接に連動する2年物国債利回りは4.181％でほぼ横ばいとなった。 ３０年長期国債利回りは１ベーシスポイント超上昇し５．０７８％となった。
+1ベーシスポイントは0.01%に相当し、利回りと価格は逆方向に動きます。
+米中央軍は午後10時にイランに対する9夜連続の攻撃を完了した。東部時間日曜日、CentcomはXへの投稿で述べた。
+3時間にわたる演習は、イラン軍司令部、防空および沿岸監視拠点、海洋能力、ミサイルおよび無人機発射場を対象とした。セントコムは、この作戦はホルムズ海峡を通過する商船や民間船員を攻撃するイラン政府の能力をさらに低下させることを目的としていると述べた。
+米国のストライキはここ数日拡大しており、テヘランは約1万人への給水を遮断したボンジ淡水化プラントなど民間インフラへのストライキを報告している。
+イラン政府は湾岸全域で報復し、バーレーン、サウジアラビア、ヨルダンなど近隣諸国の標的を新たに攻撃した。クウェート軍は月曜日、同軍の防空システムがイランからの「敵対的な」ドローン攻撃を迎撃していると発表した。
+投資家が米国経済がイラン戦争によるインフレ圧力に引き続き耐えていることを示す大量のデータ発表を消化する中、先週、米国債利回りは低下した。
+先週の借入コストの下落は、生産者物価と消費者物価の統計が予想より低かったことを受けてのことだが、7月11日までの週の米国の新規失業保険申請件数は季節調整済みで20万8000件と予想を下回った。
+金曜日、投資家は米国の製造業とサービス部門の経済健全性を測定する最新のS&Pグローバル・フラッシュ米国PMI報告書に注目することになる。
+— CNBCのアニーク・バオ氏とショーン・コンロン氏もこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
+    publishedAt: "2026-07-20T09:25:54+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ryanair-stock-slides-6-as-higher-fuel-co-f61366fc",
+    title: "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
+    titleJa: "イラン戦争による燃料費の高騰でライアンエアの株価が6％下落、利益が減少",
+    summaryJa: "ライアンエアーの第１・四半期利益は、中東危機の影響で消費者が予約を遅らせたことで３４％の打撃を受け、一方、経営不振に陥った航空会社は「厳しい冬」に直面している。",
+    bodyOriginal: `Ryanair warned on Monday that struggling European airlines are facing a "difficult winter" ahead, as the budget carrier reported first-quarter profit that took a 34% hit due to consumers delaying bookings amid the Middle East crisis
+The airline saw its profit after tax in the April to June quarter fall to 538 million euros ($615.3 million), down from 820 million euros the previous year.
+Ryanair said 20% of its unhedged fuel was exposed to price spikes, while ticket fares declined 6%. Operating costs also rose 11% to 3.81 billion euros as the price of its 20% unhedged fuel more than doubled in the quarter.
+Shares fell 5.6% shortly after the market open.
+The company's jet fuel for 2027 is currently 80% hedged at $67 per barrel, and 15% hedged for 2028 at $85 per barrel.
+"Q1 fares (which benefitted from a full Easter during April 2025) required stimulation as the Middle East conflict led to consumer hesitancy, concerns about EU jet-fuel shortages, economic uncertainty and later bookings," Ryanair CEO Michael O'Leary, said.
+O'Leary added that the company's "conservative hedging policy" insulates it from the volatility of oil prices as the Middle East turmoil continues, giving it a "cost advantage over all other EU competitors," while "unprofitable airlines face a difficult winter."
+Travelers were anxious to book their summer holidays at the onset of the war, forcing Ryanair to lower fares, which means despite increased traffic, revenue still took a hit, John Strickland, aviation analyst and director of JLS Consulting, told CNBC's "Squawk Box Europe" on Monday.
+Ryanair issued conservative guidance for the rest of its financial year, with operating costs highly dependent on the price of its unhedged jet fuel. Meanwhile, profit after tax remains "highly sensitive" to adverse geopolitical developments, including escalating conflict in the Middle East and Ukraine, the company said.
+"Despite a recent, slight uptick in volumes, and less price stimulation, Q2 pricing is trending modestly down (y-o-y), and the final H1 fare outcome is heavily dependent on the strength of close-in bookings in Aug. and Sept," O'Leary said. "As is normal this early in the year, we have zero H2 visibility, so it remains far too early to provide any meaningful FY27 PAT guidance."
+Winter 'failures' coming
+Ryanair's O'Leary told CNBC in April that if the price of jet fuel continues to remain elevated, its competitors will see "failures."
+The average price of jet fuel has surged to $127 per barrel for the week ending 10 July, up 41% from the prior year, per the International Air Travel Association's Jet Fuel Price Monitor.
+At the time, the International Energy Agency warned that Europe could run out of jet fuel in a matter of weeks, as the majority of its jet fuel imports came from the Middle East. The region has had to look to international markets to secure alternative supply.
+"If pricing stays higher for longer this summer, we think a number of our airline competitors in Europe are going to face real financial difficulties," O'Leary told CNBC's Ben Boulos at the Norges Bank Investment Management Conference in Oslo in May.
+JLS' Strickland noted that a few smaller airlines have failed in recent weeks, with winter bringing even greater pressures from failures to cancelations.
+"I would expect to see much more severe cancelations in the weaker winter season this year than we've seen for a long time across a whole range of airlines if fuel prices stay high."
+O'Leary said at the time: "We can guarantee people there'll be no price increases, no fuel hedging, no fuel surge levy surcharges, regardless of what happens to summer supply," he added.
+Strickland said the company benefits from a "load factor active revenue passive approach," which means selling seats at marginally low rates, while expecting passengers to spend on additional services.
+"Of course, any passenger in a seat, even if the actual ticket price is low, they'll spend something, maybe just a cup of coffee on board, but it could well be an extra bag, or buying a rental car through Ryanair. So that's a massive driver, around about 20- 25% or so of the company's total revenues," Strickland said.`,
+    bodyJa: `ライアンエアは月曜日、中東危機で消費者が予約を遅らせたことで格安航空会社の第1四半期利益が34％減少したと報告し、経営不振に陥っている欧州航空会社は今後「厳しい冬」に直面すると警告した。
+同社の４─６月期の税引き後利益は５億３８００万ユーロ（６億１５３０万ドル）と、前年同期の８億２０００万ユーロから減少した。
+ライアンエアは、ヘッジされていない燃料油の20％が価格高騰にさらされ、航空券の運賃は6％下落したと述べた。同四半期にヘッジされていない燃料20％の価格が2倍以上に上昇したため、営業コストも11％増加して38億1000万ユーロとなった。
+株価は市場開始直後に５．６％下落した。
+同社の２０２７年のジェット燃料は現在、８０％が１バレル当たり６７ドルでヘッジされており、２０２８年は１５％が１バレル当たり８５ドルでヘッジされている。
+ライアンエアのマイケル・オレアリー最高経営責任者（CEO）は「中東紛争が消費者の躊躇、EUのジェット燃料不足への懸念、経済的不確実性、その後の予約につながったため、（2025年4月の完全復活祭の恩恵を受けた）第1四半期の運賃には刺激が必要だった」と述べた。
+オリアリー氏は、同社の「保守的なヘッジ政策」により、中東の混乱が続く中、原油価格の変動から同社を守り、「他のEUの競合他社よりコスト面での優位性」をもたらしている一方、「採算の悪い航空会社は厳しい冬に直面している」と付け加えた。
+航空アナリストでJLSコンサルティングのディレクターであるジョン・ストリックランド氏は月曜日、CNBCの番組「スコーク・ボックス・ヨーロッパ」で、戦争が始まると旅行者は夏休みの予約を切望していたので、ライアンエアーは運賃の値下げを余儀なくされ、交通量は増加したにもかかわらず収益は依然として打撃を受けていると語った。
+ライアンエアは、残りの会計年度について保守的な見通しを発表し、営業コストはヘッジされていないジェット燃料の価格に大きく依存するとした。一方、税引き後利益は、中東やウクライナで激化する紛争など、不利な地政学的な展開に依然として「非常に敏感」であると同社は述べた。
+「最近の販売量のわずかな増加と価格刺激の減少にもかかわらず、第2四半期の価格設定は（前年比で）若干下落傾向にあり、最終的な上半期の運賃結果は8月と9月のクローズイン予約の強さに大きく依存している」とオリアリー氏は述べた。 「今年の初めにはいつものことですが、下半期の見通しはゼロなので、意味のあるFY27 PATガイダンスを提供するにはまだ時期尚早です。」
+冬の「失敗」がやってくる
+ライアンエアーのオレアリー氏は4月にCNBCに対し、ジェット燃料価格の高騰が続けば、競合他社は「失敗」に見舞われるだろうと語った。
+国際航空旅行協会のジェット燃料価格モニターによると、ジェット燃料の平均価格は7月10日までの週に1バレル当たり127ドルまで上昇し、前年比41％上昇した。
+当時、国際エネルギー機関は、欧州のジェット燃料輸入の大部分が中東からのものであるため、欧州では数週間以内にジェット燃料が枯渇する可能性があると警告していた。この地域は代替供給を確保するために国際市場に目を向ける必要がありました。
+オリアリー氏は５月にオスロで開催されたノルジェス銀行投資管理会議でＣＮＢＣのベン・ブーロス氏に対し、「もしこの夏、価格がより長く高止まりすれば、欧州の競合航空会社の多くは深刻な経営難に直面することになるだろう」と語った。
+JLSのストリックランド氏は、ここ数週間で小規模航空会社数社が経営破綻し、冬には経営破綻や欠航といったプレッシャーがさらに大きくなっていると指摘した。
+「燃料価格が高止まりすれば、今年の冬季の低迷期には、これまであらゆる航空会社で見られてきたよりもさらに厳しい欠航が発生すると予想される。」
+オリアリー氏は当時、「夏の供給がどうなろうとも、値上げ、燃料ヘッジ、燃油サーチャージのないことを国民に保証できる」と付け加えた。
+ストリックランド氏は、同社は、乗客が追加サービスに支出することを期待しながら、わずかに低い料金で座席を販売することを意味する「搭乗率アクティブ・レベニュー・パッシブ・アプローチ」から恩恵を受けていると述べた。
+「もちろん、座席に座っている乗客は、たとえ実際の航空券の価格が安くても、何かを使うでしょう。機内でコーヒー一杯だけかもしれませんが、余分な手荷物を追加したり、ライアンエアーでレンタカーを購入したりする可能性も十分にあります。つまり、これは大きな原動力であり、会社の総収益の約20～25％程度です」とストリックランド氏は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
+    publishedAt: "2026-07-20T09:05:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "jobs-benefits-and-taxes-what-andy-burnha-94538a48",
+    title: "Jobs, benefits and taxes: What Andy Burnham means for your finances",
+    titleJa: "仕事、福利厚生、税金: アンディ・バーナムがあなたの経済に与える影響",
+    summaryJa: "仕事、福利厚生、税金: アンディ・バーナムがあなたの経済に与える影響- 公開されました",
+    bodyOriginal: `Jobs, benefits and taxes: What Andy Burnham means for your finances
+- Published
+Andy Burnham will become the UK's fifth prime minister in four years later today, but the financial challenges facing the country remain the same.
+Lack of job opportunities, lack of improvement in living standards and pressured public services – people expect change and their patience has been wearing thin.
+So here's what the new PM could mean for your money.
+Household income
+Economic growth and putting more money in pockets will have to remain the government's number one priority.
+Between 1990 and 2007, the average person was better off by roughly 2.5% per year.
+Since then, living standards have improved at half that rate, meaning households are thousands of pounds worse off than they could've been otherwise.
+A lack of investment – public and private – in the years of austerity and then following Brexit has taken its toll on productivity and that has affected our prosperity.
+This was then made worse by the disruption of Covid and higher energy prices.
+Meanwhile, food prices have jumped by 40% in just a few years, which has clobbered people's finances.
+While we've been hit less by the US-Israel war with Iran than once feared, there remain several challenges to ensuring economic growth is raised sustainably and permanently.
+More investment is likely to be needed, and more focus on skills. While his plans remain unclear, Andy Burnham has implied boosting both – as well as more state control of utilities to lower bills.
+Jobs
+Underpowered growth is one reason why hiring is at its lowest level for five years, with young people hit particularly hard.
+The reluctance from companies to hire reflects more than just recent economic woes. Automation and the government's own policies, including higher national minimum wages and taxes, have played a role.
+The latter is most telling in the concentration of job losses in sectors such as retail and hospitality. These are industries most vulnerable to an increase in labour costs and, crucially, they are typically a source of entry-level jobs.
+The recent report by former Labour minister Alan Milburn highlighted how a longer term erosion of such posts contributed the recent rise in youth joblessness, adding to the rising number of those not in employment, education, or training (NEETs).
+He warned NEETs could rise to one in six young people, potentially blighting lives for decades.
+The second part of that report, containing policy recommendations, will be published later in the year. It's been suggested that it will call for a radical overhaul of the way every part of the public sector – from education to health and the welfare system – interacts with the private sector.
+The next prime minister will have to decide exactly how those recommendations are taken on board, and there will be a cost involved.
+Borrowing, spending and taxes
+Burnham has not said whether he will raise taxes or cut them, but he has pledged stick to the current government's own rules on borrowing and spending.
+That means only borrowing to invest, not to fund day to day spending, and in a few years' time reducing debt as proportion of the whole economy.
+Before the US-Israel war with Iran started, Chancellor Rachel Reeves reckoned she could meet her financial rules with £24bn to spare. But much of that could have been eroded because of the conflict.
+Burnham's pledge to stick to the current government's rules shows he is wary of upsetting the bond markets, the government's lenders, at a time when just the interest repayments on our national debt account for one in every £10 the government spends.
+Even the plans Burnham has hinted at so far could easily exceed the available wiggle room. His ambitions may be thwarted and some ideas may not survive contact with financial reality.
+He could tweak those rules. For example, bond markets could be sympathetic towards borrowing to fund more investment if they were convinced that would pay off in the terms of higher growth.
+Or he could simply look to raise the money from elsewhere to fund priorities, including through taxes – or cutting from other areas.
+Welfare
+That brings us on to welfare spending. That is set to rise by over a quarter between 2025 and 2030, with the main increases being sickness-related payouts for working age adults and pensioner benefits.
+Pushing through welfare reform has proved difficult for Prime Minister Sir Keir Starmer. Will a new prime minister have greater will and freedom to do so?
+The government's official forecasters have flagged that the cost of providing the state pension under the triple lock system – which increases it by the greater of 2.5%, inflation, or earnings every year – is set to double within the next 50 years.
+Simplifying that formula could mean smaller pension increases and would save tens of billions of pounds. It's an approach backed by many economists, including Lord Jim O'Neill, one of Andy Burnham's new advisers.
+But would Mr Burnham venture where few politicians have and upset the most influential group of voters?
+Defence
+Meanwhile, the bills to provide us with better and safer lives could mount fast.
+Still unsettled is the government's pledge to increase spending on defence to 3.5% of GDP by 2035. Burnham has indicated he wants to support that.
+But that takes more than good intentions. Rather, it could take tens of billions of pounds.
+John Healey quit as defence secretary over what he termed the unwillingness of the Treasury to "commit the resources that the nation needs to defend the country at this time of rising threats".
+Finding that cash may mean taking some away from other bits of government spending because of the self-imposed constraints on public finances. And remember, many departments are already facing a squeeze on their budgets.
+Housing
+With house prices rising more slowly than earnings, purchasing a home for the first time is more possible compared to just a couple of years ago.
+At the start of the year, the Nationwide Building Society said mortgage payments accounted for a third of take home pay – well below the record of 48% in 1989.
+But today's prospective buyers tend to be juggling high rental costs too, making it harder to save for a deposit. This is partly why the average age of the first time buyer has risen over recent years.
+The most sustainable solution is to build more homes, but the government's behind on its target. The number of new homes was down by 6% last year and below the 300,000 needed to reach the government's target.
+Andy Burnham wants to build more social housing, which would help. But, as successive governments have found, it's not easy.
+Housing is one the many big plans Burnham has hinted at to cure our economic malaise, but he has to grapple with a challenging inheritance.
+Ironically, the easiest way to fund his plans would be to draw on the spoils of faster growth.
+Like many before him, Andy Burnham's vision appears to be that you have to spend more money to make money. But whose money?
+Who could be the UK's next chancellor?
+- Published2 days ago
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    bodyJa: `仕事、福利厚生、税金: アンディ・バーナムがあなたの経済に与える影響
+- 公開されました
+アンディ・バーナム氏は4年後の今日、英国の5人目の首相に就任するが、この国が直面する財政上の課題は変わっていない。
+雇用機会の欠如、生活水準の改善の欠如、公共サービスの圧迫など、人々は変化を期待しており、忍耐力が弱くなっています。
+新しい首相があなたのお金にとって何を意味するのかを以下に示します。
+世帯収入
+経済成長と、より多くのお金をポケットに入れることは、今後も政府の最優先事項であり続ける必要があるだろう。
+1990 年から 2007 年の間、平均的な人の生活は年間約 2.5% 向上しました。
+それ以来、生活水準はその半分の割合で改善しました。つまり、世帯の状況は、そうでなかった場合に比べて何千ポンドも悪化しています。
+数年間の緊縮財政とその後のBrexit後の公的および民間の投資不足は生産性に大きな打撃を与え、それが私たちの繁栄に影響を与えました。
+その後、新型コロナウイルス感染症による混乱とエネルギー価格の高騰により、状況はさらに悪化しました。
+一方、食料価格はわずか数年で40％も高騰し、人々の家計を圧迫している。
+米国・イスラエルとイランの戦争による打撃はかつて懸念されていたほどではなくなったが、経済成長を持続的かつ永続的に高めるにはいくつかの課題が残っている。
+より多くの投資が必要となり、スキルにさらに重点が置かれる可能性があります。彼の計画は依然として不透明だが、アンディ・バーナム氏は、請求額を下げるために公共料金の国家管理を強化するだけでなく、両方の促進も示唆している。
+求人
+成長力の鈍化が、雇用が過去5年間で最低水準にある理由の1つであり、若者が特に大きな打撃を受けている。
+企業が採用に消極的なのは、単に最近の経済的苦境だけを反映しているわけではない。自動化と、全国最低賃金や税金の引き上げなどの政府独自の政策が影響を及ぼした。
+後者は小売業やサービス業などの分野での雇用喪失の集中に最も顕著である。これらの業界は人件費の上昇に対して最も脆弱であり、重要なことに、通常は初心者レベルの仕事の供給源となっています。
+元労働大臣アラン・ミルバーンによる最近の報告書は、こうしたポストの長期的な衰退がいかに最近の若者の失業率の増加に寄与し、雇用、教育、訓練を受けていない人々（ニート）の数の増加につながっているかを強調した。
+同氏は、ニートが若者の6人に1人にまで増加し、数十年にわたって生活を脅かす可能性があると警告した。
+政策提言を含む報告書の第 2 部は、年内に発行される予定です。教育から医療、福祉制度に至るまで、公共部門のあらゆる部分が民間部門と相互作用する方法の抜本的な見直しが必要になることが示唆されている。
+次期首相はこれらの勧告をどのように反映させるかを正確に決定する必要があり、それにはコストがかかることになる。
+借金、支出、税金
+バーナム氏は増税するか減税するかについては明言していないが、借入と支出に関する現政府独自のルールを堅持すると約束している。
+これは、日々の支出に資金を提供するのではなく、投資のための借入のみを行い、数年後には経済全体に占める負債の割合を減らすことを意味します。
+米国・イスラエルとイランの戦争が始まる前、レイチェル・リーブス首相は、240億ポンドの余裕があれば財政規則を遵守できると考えていた。しかし、その多くは紛争によって損なわれた可能性がある。
+バーナム氏が現政府の規則を遵守するという公約は、国債の利払いだけでも政府支出10ポンドに1ドルを占める現在、政府の貸し手である債券市場を混乱させることに同氏が警戒していることを示している。
+バーナムがこれまでにほのめかした計画でさえ、利用可能な余裕を軽く超える可能性がある。彼の野心は挫折するかもしれないし、いくつかのアイデアは経済的現実に直面して生き残れないかもしれない。
+彼ならそれらのルールを微調整できるだろう。たとえば、債券市場は、より高い成長という観点から見返りがあると確信している場合、さらなる投資資金を調達するための借入に同情的になる可能性があります。
+あるいは、税金や他の分野からの削減などを通じて、優先課題に資金を提供するために、単に他の場所から資金を調達することを検討することもできるだろう。
+福利厚生
+それが福祉支出につながります。この額は2025年から2030年の間に4分の1以上増加すると見込まれており、主な増加分は労働年齢の成人に対する疾病関連の給付金と年金受給者の給付金である。
+キア・スターマー首相にとって、福祉改革を推し進めるのは困難であることが判明した。新しい首相は、より大きな意志と自由を持って行動できるでしょうか?
+政府の公式予測者らは、トリプルロック制度（毎年2.5％、インフレ率、所得のいずれか大きい方で増加する）に基づく国民年金の支給コストが今後50年以内に2倍になると警告している。
+この計算式を簡素化すれば、年金の増額が減り、数百億ポンドの節約につながる可能性がある。これは、アンディ・バーナムの新しい顧問の一人であるジム・オニール卿を含む多くの経済学者によって支持されているアプローチです。
+しかし、バーナム氏はほとんど政治家がやらないところにあえて挑戦し、最も影響力のある有権者グループを動揺させるだろうか？
+守備
+その一方で、私たちにより良く、より安全な生活を提供するための費用は急速に膨れ上がる可能性があります。
+まだ決着していないのは、2035年までに国防支出をGDPの3.5％まで増やすという政府の公約だ。バーナム氏はこれを支持する意向を示している。
+しかし、それには善意以上のものが必要です。むしろ、それには数百億ポンドがかかる可能性があります。
+ジョン・ヒーリー氏は、財務省が「脅威が増大しているこの時期に国を守るために必要な資源を投入する」ことに消極的であると述べ、国防長官を辞任した。
+その現金を見つけるということは、財政に自主的に課された制約のため、政府支出の他の部分から一部を奪うことを意味するかもしれない。そして、多くの部門がすでに予算の逼迫に直面していることを忘れないでください。
+ハウジング
+住宅価格の上昇が収入よりも遅いため、わずか数年前に比べて初めて住宅を購入する可能性が高まっています。
+今年の初め、全国建築協会は、住宅ローンの支払いが手取り額の3分の1を占めており、1989年の記録である48％を大幅に下回っていると発表した。
+しかし、今日の購入希望者は高額なレンタル費用とやりくりする傾向があり、手付金を貯めるのが難しくなっている。これが、近年初めて購入者の平均年齢が上昇している理由の一部です。
+最も持続可能な解決策はより多くの住宅を建設することだが、政府は目標を達成できていない。昨年の新築住宅数は６％減少し、政府の目標達成に必要な３０万戸を下回った。
+アンディ・バーナムさんは、より多くの公営住宅を建設したいと考えており、それが助けになるだろう。しかし、歴代の政府が気づいたように、それは簡単ではありません。
+住宅は、経済的不況を治すためにバーナムが示唆した多くの大きな計画の 1 つであるが、彼は困難な相続問題に取り組まなければならない。
+皮肉なことに、彼の計画に資金を供給する最も簡単な方法は、より速い成長の戦利品を利用することだろう。
+彼の以前の多くの人々と同様に、アンディ・バーナムのビジョンは、お金を稼ぐためにはより多くのお金を費やす必要があるということのようです。しかし、誰のお金ですか？
+英国の次期首相は誰になるでしょうか?
+- 2 日前に公開
+一日の始まりに必要な見出しをすべて掲載した、当社の主力ニュースレターを入手してください。ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-20T09:03:48+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa72/live/0bbd6980-840d-11f1-b7eb-cd20573e7f71.jpg",
+    readTime: 8,
+  },
+  {
+    id: "boeing-ceo-says-company-still-needs-a-co-538bbabd",
+    title: "Boeing CEO says company still needs 'a couple more years' to repair finances before new jet",
+    titleJa: "ボーイングの最高経営責任者（CEO）、新型ジェット機の発売までに財務を立て直すにはまだ「あと数年」必要だと語る",
+    summaryJa: "ケリー・オルトバーグ最高経営責任者（CEO）は、ボーイングがベストセラーの737 MAXの後継機の開発を急ぐよりも、既存事業の安定化に重点を置いていると示唆した。",
+    bodyOriginal: `Boeing CEO Kelly Ortberg told CNBC Monday that the planemaker will need "a couple more years" to repair its finances before launching a new commercial jet, signaling that the company is focused more on stabilizing its existing business rather than rushing to develop a successor to its best-selling 737 MAX.
+Boeing must clear three hurdles before committing to a new aircraft program, Ortberg told CNBC's Phil LeBeau at the Farnborough International Airshow in the U.K.
+"First of all, we have to be ready, and part of that is getting our financial house in order, and we're working on that," Ortberg said. "It's going to take a couple more years to get where we want to be."
+Ortberg, who came out of retirement to steady the company after a series of manufacturing and quality issues, also repeated that the technology needs to be ready to introduce a new airplane and the company needs to see sufficient market demand.
+For now, airline customers are telling Boeing to focus on improving the reliability and production of its current lineup rather than introducing a new jet, he said, suggesting the company is unlikely to launch a new narrowbody aircraft until later in the decade.
+The market for large commercial aircraft is currently dominated by Boeing and Airbus. A new plane to better compete with Airbus' rival A320 family of jets will likely be crucial for Boeing to secure future business.
+This is a breaking news story. Please refresh for updates.`,
+    bodyJa: `ボーイングのケリー・オルトバーグ最高経営責任者（CEO）は月曜日、CNBCに対し、同社は新しい民間ジェット機を発売するまでに財務を立て直すのに「あと2、3年」必要だと述べ、同社がベストセラーの737 MAXの後継機の開発を急ぐよりも、既存事業の安定化により重点を置いていると示唆した。
+オルトバーグ氏は英国のファンボロー国際航空ショーで、ボーイング社が新しい航空機計画に取り組む前に3つのハードルをクリアする必要があるとCNBCのフィル・ルボー氏に語った。
+「まず第一に、私たちは準備を整えなければなりません。その一環として金融機関を整えることがあり、私たちはそれに取り組んでいます」とオルトバーグ氏は語った。 「私たちが目指すところに到達するには、さらに数年かかるだろう。」
+一連の製造と品質の問題の後、会社を安定させるために退職から復帰したオルトバーグ氏はまた、技術が新しい飛行機を導入する準備ができている必要があり、会社は十分な市場需要を見つける必要があると繰り返した。
+同氏によると、航空会社の顧客は今のところ、ボーイングに対し、新しいジェット機の導入ではなく、現在のラインナップの信頼性と生産性の向上に注力するよう求めており、同社が10年後半まで新しい狭胴機を発売する可能性は低いことを示唆しているという。
+大型民間航空機市場は現在、ボーイングとエアバスが独占している。エアバスのライバルであるA320ファミリーのジェット機との競争力を高める新型航空機は、ボーイングにとって将来のビジネスを確保する上で極めて重要となる可能性が高い。
+これは速報です。更新を確認するには更新してください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/boeing-ceo-ortberg-airbus-farnborough-737max.html",
+    publishedAt: "2026-07-20T08:49:02+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "china-s-car-market-heads-for-worst-year-2d48558c",
+    title: "China's car market heads for worst year since 2021 as sales plunge 20%",
+    titleJa: "中国自動車市場、販売20％減で2021年以来最悪の年へ",
+    summaryJa: "中国の自動車市場は、2025年の記録的な販売台数の後に乗用車に対する消費者の需要が低迷し、2021年以来最悪の年に向かうようだ。今年上半期の乗用車販売台数が20.2％減少したことを受け、中国乗用車協会は2026年通年の小売売上高予測を前年比横ばいという従来予測から14％減に下方修正した。",
+    bodyOriginal: `China's car market appears to be headed for its worst year since 2021, as consumer demand for passenger vehicles tumbles following record-high sales in 2025.
+After passenger vehicle sales fell by 20.2% in the first half of the year, the China Passenger Car Association lowered its 2026 full-year retail sales projection to a decline of 14% from an earlier forecast of flat year-on-year sales.
+It is forecasting a final delivery volume of 20.4 million units at the end of 2026, down from a record 23.7 million units last year. Cumulative sales for the first half of the year currently stand at 8.7 million units.
+Xiao Feng, head of Hong Kong/China Industrials Research at Citic CLSA, expects a bleaker outlook than CPCA's: he projects cumulative auto sales will fall 20% year-on-year, compared to the association's full-year forecast decline of 14%. Feng remains slightly more optimistic for new energy vehicles (NEVs) such as electric and hybrid cars and vans, seeing NEV sales declining 5% to 6% year-on-year.
+"This is going to continue to be a brutal year," Sino Auto Insights founder Tu Le told CNBC, citing increased competition as original equipment manufacturers fight to seize faltering demand.
+Rising fuel costs and a pullback in electric vehicle subsidies have contributed to the struggles of Chinese automakers' as consumer demand slides.
+Transportation energy costs soared 15.3% year-over-year in June, according to data from China's National Bureau of Statistics, driving the collapse in demand for internal combustion engine (ICE) vehicles. Retail sales of ICE vehicles fell 39% year-on-year in June — with pure gasoline models down 42% — accounting for 78% of the total decline in passenger vehicle sales that month.
+Beijing's pullback of NEV subsidies, which had previously stimulated consumer appetite, has tempered demand for cars in 2026. "Policy only moves demand around," Feng told CNBC, noting that the lackluster vehicle sales seen so far "could be paying back the frontloaded demand from last year."
+Chinese automakers are being squeezed by rising raw material and component costs, on the other end.
+Battery-related input costs — including those for lithium and memory chips — are rising sharply, contributing to an industry-wide plunge in sales profit margins to 3.4% for the period between January and May 2026, while industry profits fell 20% year-on-year, according to CPCA Secretary General Cui Dongshu. Passenger vehicle prices fell by more than 1% year-on-year in June, further narrowing already-slim profit margins.
+Feng expects the razor-thin margins to lead to a market shakedown, consolidating China's fragmented EV market into seven or eight major players by 2030.
+He predicts that American automakers won't survive the fiercely competitive Chinese car market, leaving domestic makers BYD, Geely and Leapmotor, Germany's Volkswagen and Japan's Toyota among those left standing.
+But even as Volkswagen pivots into electric cars in China, delivery figures reported by the automaker show a 25.9% year-on-year drop for the first half of 2026.
+Maintaining sales at scale is crucial for survival at this point in the EV race, analysts say.
+Feng estimates that a carmaker in China needs to achieve annual sales of 500,000 units to break even, 1million units for sustainable profits, and 2 million achieve full economies of scale. Smaller players who do not measure up to these figures will be "largely out of [the] market."
+Among the major domestic automakers, BYD reported 1.8 million sales in the first half of 2026, with Geely and Leapmotor trailing behind at 1.4 million and 356,000 deliveries respectively. For foreign companies, Volkswagen Group reported 973,000 deliveries during the same period, while Toyota posted 579,000 deliveries between January and May.
+Export surge expected to fuel next year's recovery
+While experts remain pessimistic about the outlook for the industry into the second half of the year, Feng expects the downturn to give way to a rebound in 2027.
+"[We] expect much better demand next year." he said. Feng described China's auto market as inherently cyclical — as vehicle fleets age and owners look to replace vehicles, sales are expected to recover.
+"With [a] better economic outlook, even better growth [in the EV market] could be expected," Feng said, reaffirming his confidence in a market rebound next year.
+That recovery could get a boost from strong exports, as Chinese automakers capitalize on rising fuel costs in overseas markets.
+Total passenger vehicle exports grew 11.5% month-on-month and surged 82.3% year-on-year, reaching 877,000 units in June, according to CPCA.
+Overseas consumers are "pivoting [to] Chinese-made EVs because of the operation costs," Fengming Lu, Assistant Professor in the Department of Political and Social Change at The Australian National University told CNBC's "The China Connection".
+The war in the Middle East, which has resulted in shipping disruptions and soaring fuel prices worldwide, is "one of the major motivations" driving buyers toward EVs, Lu said.`,
+    bodyJa: `中国の自動車市場は、2025年の記録的な販売台数の後に乗用車に対する消費者の需要が低迷し、2021年以来最悪の年に向かうようだ。
+今年上半期の乗用車販売台数が20.2％減少したことを受け、中国乗用車協会は2026年通年の小売売上高予測を前年比横ばいという従来予測から14％減に下方修正した。
+2026年末の最終出荷量は2,040万個と、過去最高だった昨年の2,370万個から減少すると予想している。現在上半期の累計販売台数は870万台となっている。
+中信CLSAの香港/中国産業調査責任者シャオ・フェン氏は、CPCAよりも暗い見通しを予想している。同協会の通期予想は14％減であるのに対し、累積自動車販売台数は前年比20％減になると予想している。馮氏は、電気自動車やハイブリッド車、バンなどの新エネルギー車（NEV）については若干楽観的な見通しを維持しており、NEVの販売は前年比5～6％減少するとみている。
+Sino Auto Insightsの創設者Tu Le氏はCNBCに対し、OEMメーカーが低迷する需要を掴もうと奮闘する中、競争が激化していると述べ、「今年は厳しい年が続くだろう」と語った。
+消費者の需要が低迷する中、燃料費の高騰と電気自動車補助金の縮小が中国自動車メーカーの苦戦の一因となっている。
+中国国家統計局のデータによると、6月の輸送エネルギーコストは前年同月比15.3％上昇し、内燃機関（ICE）車の需要崩壊を引き起こした。 6月のICE車の小売売上高は前年同月比39％減少し、純ガソリンモデルは42％減少し、同月の乗用車販売全体の減少分の78％を占めた。
+これまで消費者の意欲を刺激してきた中国政府のNEV補助金の撤回により、2026年の自動車需要は抑制された。「政策は需要を動かすだけだ」と馮氏はCNBCに語り、これまでの自動車販売の低迷は「昨年の前倒し需要の反動である可能性がある」と指摘した。
+その一方で、中国の自動車メーカーは原材料や部品のコスト上昇によって圧迫されている。
+CPCAの崔東秀事務総長によると、リチウムやメモリチップを含む電池関連の投入コストが急上昇しており、その影響で業界全体の2026年1月から5月までの売上利益率は3.4％に低下し、業界利益は前年比20％減少したという。 6月の乗用車価格は前年同月比で1％以上下落し、ただでさえ薄い利益率がさらに縮小した。
+馮氏は、この極めて薄い利幅が市場の再編につながり、細分化された中国のEV市場が2030年までに7～8社の大手企業に統合されると予想している。
+同氏は、米国の自動車メーカーは競争の激しい中国自動車市場で生き残ることはできず、国内メーカーのBYD、吉利、リープモーター、ドイツのフォルクスワーゲン、日本のトヨタが生き残ることになるだろうと予測している。
+しかし、フォルクスワーゲンが中国で電気自動車に軸足を移しているにもかかわらず、自動車メーカーが報告した納車台数は2026年上半期で前年同期比25.9％減少することを示している。
+アナリストらは、EV競争の現時点で生き残るためには、大規模な販売を維持することが極めて重要だと指摘する。
+Feng 氏は、中国の自動車メーカーは損益分岐点までに年間販売 50 万台、持続的な利益を得るには 100 万台、完全な規模の経済を達成するには 200 万台を達成する必要があると推定しています。これらの数字に達しない小規模企業は「市場からほとんど撤退」することになる。
+国内の主要自動車メーカーのうち、BYDは2026年上半期の販売台数が180万台と報告し、吉利汽車とリープモーターがそれぞれ140万台と35万6,000台の納車台数で続いている。外国企業では、フォルクスワーゲン・グループが同期間に97万3,000台の納車を報告し、トヨタは1月から5月までに57万9,000台の納車を記録した。
+輸出の急増が来年の景気回復を促進すると予想される
+専門家らは今年下半期の業界の見通しについて依然として悲観的だが、馮氏は景気低迷が2027年に回復に転じると予想している。
+"[We] expect much better demand next year."彼は言い​​ました。馮氏は、中国の自動車市場は本質的に循環的であると述べ、車両群が老朽化し、所有者が車両の買い替えを検討しているため、販売は回復すると予想されている。
+馮氏は「経済見通しが改善すれば、（ＥＶ市場の）さらなる成長が期待できる」と述べ、来年の市場回復への自信を再確認した。
+中国の自動車メーカーが海外市場での燃料費の上昇を利用するため、好調な輸出が回復を後押しする可能性がある。
+CPCAによると、乗用車の総輸出台数は前月比11.5％増、前年同月比82.3％増と急増し、6月には87万7,000台に達した。
+オーストラリア国立大学政治社会変​​革学部のフェンミン・ルー助教授は、海外の消費者は「運営コストを理由に中国製のEVにシフトしている」とCNBCの「ザ・チャイナ・コネクション」に語った。
+中東戦争は世界中で輸送の混乱と燃料価格の高騰をもたらしており、購入者をEVに向かわせる「大きな動機の一つ」となっているとルー氏は述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
+    publishedAt: "2026-07-20T08:43:40+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "ryanair-profits-drop-as-iran-war-puts-of-df268b88",
+    title: "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
+    titleJa: "イラン戦争で乗客減少と燃料費高騰でライアンエアの利益が減少",
+    summaryJa: "イラン戦争で乗客減少と燃料費高騰でライアンエアの利益が減少- 公開されました",
+    bodyOriginal: `Ryanair profits drop as Iran war puts off passengers and lifts fuel costs
+- Published
+Ryanair's profits have fallen sharply as war in the Middle East sent jet fuel prices soaring and customers reluctant to book flights.
+The Irish airline's pre-tax profits dropped 34% to €593m (£503m) between April and June while sales were flat as the company was forced to cut fares to stimulate demand.
+Ryanair also said it expects summer fares to be slightly lower than last year due to "consumer hesitancy" around air travel.
+The price of fuelling a plane has jumped since the US and Israel launched strikes against Iran in February and while Ryanair said it had "hedged" or struck deals for the most future fuel costs, those not included in these arrangements had more than doubled.
+Crude oil prices hit $90 (£67) a barrel for the first time in a month, before falling back slightly, after a weekend of intense exchanges of fire between the US and Iran.
+Traffic through the Strait of Hormuz — an essential route for global oil and gas supplies — has ground to a halt.
+An interim peace deal last month brought some respite to oil and energy prices, but they spiked again as negotiations broke down and fighting resumed.
+The airline warned that its results for the year will be "highly sensitive" to external factors such as conflict escalation in the Middle East and Ukraine as well as the price of unhedged jet fuel.
+Shane Oliver, head of investment strategy at AMP, a fund manager, said: "The longer the strait remains closed and the war escalates, the greater the risk that oil prices will have to rise to around $150 a barrel to bring demand down to match the hit to supply."
+He said: "This is not our base case but it's a high risk again."
+Ryanair said fares for for the key summer period between July and September were on track to be "modestly" lower than last year, with many passengers booking closer to departure than normal.
+The firm's finance chief, Neil Sorahan, said flights on its popular Mediterranean routes were still full. "People [are] as keen to get away as ever, albeit booking just a little bit later," he said.
+Between April and June, Ryanair's revenue ticked up 1% to €4.4bn.
+While passenger numbers rose 6% to 6.1 million- helped by the Easter holiday in April - fares fell by 6% as the airline reduced fares to entice flyers concerned about the Iran war.`,
+    bodyJa: `イラン戦争で乗客減少と燃料費高騰でライアンエアの利益が減少
+- 公開されました
+中東戦争でジェット燃料価格が高騰し、顧客が航空券の予約をためらったことで、ライアンエアの利益は大幅に減少した。
+アイルランド航空の4月から6月までの税引き前利益は34％減の5億9300万ユーロ（5億300万ポンド）となったが、需要喚起のため運賃引き下げを余儀なくされたため売上高は横ばいとなった。
+ライアンエアはまた、航空旅行に対する「消費者の躊躇」により、夏の運賃は昨年より若干安くなると予想しているとも述べた。
+2月に米国とイスラエルが対イラン攻撃を開始して以来、航空機の燃料価格は高騰しており、ライアンエアは将来の燃料費を「ヘッジ」した、または契約を結んだと述べたが、これらの取り決めに含まれていない燃料費は2倍以上になった。
+原油価格は、米国とイランの間で週末に激しい銃撃戦が続いた後、１カ月ぶりに１バレル＝９０ドル（６７ポンド）に達したが、わずかに反落した。
+世界の石油とガスの供給に不可欠なルートであるホルムズ海峡の交通が停止している。
+先月の暫定和平合意により、石油とエネルギー価格はある程度の落ち着きをもたらしたが、交渉が決裂し戦闘が再開されると価格は再び高騰した。
+同社は、今年の業績は中東やウクライナでの紛争激化やヘッジされていないジェット燃料価格などの外部要因に「非常に敏感」になると警告した。
+ファンドマネジャー、ＡＭＰの投資戦略責任者シェーン・オリバー氏は、「海峡閉鎖が長くなり、戦争が激化すればするほど、供給への打撃に見合った需要を抑えるために原油価格が１バレル＝１５０ドル程度まで上昇しなければならないリスクが高まる」と述べた。
+同氏は「これはわれわれの基本シナリオではないが、やはりリスクが高い」と述べた。
+ライアンエアは、7月から9月までの重要な夏の期間の運賃は、多くの乗客が通常よりも出発間近に予約を入れており、昨年よりも「やや」安くなる見通しであると述べた。
+同社の財務責任者、ニール・ソラハン氏は、人気の地中海路線の便は依然として満席だと述べた。 「人々は今までと同じように旅行に熱中しているが、予約は少し遅れている」と彼は語った。
+4月から6月にかけて、ライアンエアの収益は1%増の44億ユーロとなった。
+4月のイースター休暇の影響で乗客数は6％増の610万人となったが、同社がイラン戦争を懸念するビラ引きを誘致するために運賃を値下げしたため、運賃は6％下落した。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn8nldwj12jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-20T08:38:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f13/live/83464970-8414-11f1-b3ec-1d7f0502d196.png",
+    readTime: 3,
+  },
+  {
+    id: "from-super-el-ni-o-to-europe-s-extreme-h-2413b68c",
+    title: "From 'Super El Niño' to Europe’s extreme heatwave: How this year's weather shocks are rattling commodity markets",
+    titleJa: "「スーパーエルニーニョ」からヨーロッパの極度の熱波まで：今年の気象ショックが商品市場にどのような影響を与えているか",
+    summaryJa: "欧州が猛暑に見舞われ、気象学者らが今年の強力なエルニーニョの危険性を警告しているため、市場は資産クラス全体の気候変動の影響を過小評価していると商品ストラテジストらは警告している。世界気象機関は、今年7月から9月にかけて熱帯太平洋で「強いエルニーニョ現象」が発生すると予想している。エルニーニョは、特定の地域で海面水温を上昇させる自然に発生する気候パターンで、多くの場合、異常気象と関連しています。",
+    bodyOriginal: `Markets are underestimating the impact of climate volatility across asset classes, commodity strategists warn, as extreme heat grips Europe and meteorologists flag the risk of a powerful El Niño this year.
+The World Meteorological Organization expects a "strong El Niño event" in the tropical Pacific between July and September this year. El Niño is a naturally occurring climate pattern that raises sea surface temperatures in certain regions and is often associated with extreme weather.
+Investment strategists say that the higher temperatures, drought, heavy rainfall and other extreme weather events resulting from El Niño are set to upend bets on commodity assets.
+The warnings come as Europe battles a persistent heatwave this summer.
+Parts of the U.K. saw a near two-week unbroken run of temperatures above 30 degrees Celsius (86F) this month, while France has experienced three heatwaves this year, with the extreme weather forcing the cancellation of some Bastille Day events last week. South Korea, meanwhile, issued its first "grave heat wave" warnings for Gyeongsan and Pohang earlier this month after adopting a new alert system in June.
+Dan Leonard, director of forecasting for the U.S. at Metdesk, said the looming so-called "super El Niño" could "perhaps eclipse" the major events of 1982, 1997 and 2015.
+The impact on commodities is likely to be uneven, he said.
+Speaking with CNBC's "Morning Call," Leonard said some markets could be hit hard, pushing prices higher, while others — such as natural gas — could fall if the northern winter is warmer than usual.
+Heat risk: from cyclical to structural
+Agriculture is expected to face the greatest upheaval, with warmer and more volatile weather threatening to reduce yields and push food prices higher.
+Societe Generale said agricultural commodity prices have risen 7% this month, with softs — such as cocoa, coffee and wheat — up 8% over the past week.
+U.S. Department of Agriculture data shows food prices were 3.1% higher year-on-year in May. A stronger El Niño could add further upside risk, with food inflation potentially reaching double digits by 2027, according to a note by Man Group.
+Albert Chu, portfolio manager for natural resources at Man Group, said crop yields could fall by 5%-12% in affected regions, while staples such as rice could decline by 2%-8% because of warmer conditions, driving prices higher.
+In a recent Man Group note, Chu said treating the current El Niño episode as an idiosyncratic event, and chronically underpricing climate volatility on commodities, is a "real risk" for investors.
+"What if the current El Niño is only one point in an arc of events to come?," Chu asked.
+Bank of America analysts, meanwhile, said Europe is warming faster than any other continent, with heat stress becoming increasingly structural rather than cyclical.
+In a note, its analysts identified coffee, cocoa, corn and wheat as among the crops most vulnerable to rising temperatures.
+"These crops are highly sensitive during key development stages — flowering, pollination, grain and pod filling — where even short periods of extreme heat can lead to significant yield losses," BofA analysts led by commodity strategist Daryna Kovalska noted.
+They said corn remains markedly undervalued, while sugar output from Brazil and Thailand is likely to plunge 10% in 2026-27 because of El Niño-related effects.
+Kovalska said the bank is bullish on corn because of several weather risks: worsening heat stress in Europe, the threat of El Niño affecting Brazil, and hotter, drier conditions during the U.S. corn-pollination period. BofA expects prices for the new corn crop to rise by nearly $1 per bushel from about $4.70 now, reaching $5.50 to $6.00.
+Extreme weather is also affecting metals, though in different ways, Chu said.
+"Copper production is highly water-intensive, and heat or drought conditions can tighten availability sharply," Chu wrote in a recent Man Group commentary.
+"Aluminum is power-hungry in a different way — electricity accounts for 30-40% of production costs, and smelters depend on cheap, often hydro-generated power. Cooling, food production and AI growth are all set to compete harder for the same scarce power and water resources."`,
+    bodyJa: `欧州が猛暑に見舞われ、気象学者らが今年の強力なエルニーニョの危険性を警告しているため、市場は資産クラス全体の気候変動の影響を過小評価していると商品ストラテジストらは警告している。
+世界気象機関は、今年7月から9月にかけて熱帯太平洋で「強いエルニーニョ現象」が発生すると予想している。エルニーニョは、特定の地域で海面水温を上昇させる自然に発生する気候パターンで、多くの場合、異常気象と関連しています。
+投資ストラテジストらは、エルニーニョに起因する高温、干ばつ、大雨、その他の異常気象がコモディティ資産への賭けを一変させるだろうと述べている。
+この警告は、ヨーロッパがこの夏、続く熱波と闘う中で発せられた。
+英国の一部では今月、摂氏30度（86度）を超える気温がほぼ2週間連続で続いている一方、フランスは今年に入って3回の熱波に見舞われており、先週は異常気象のため一部のフランス革命記念日のイベントが中止に追い込まれた。一方、韓国は6月に新たな警報システムを導入した後、今月初めに慶山市と浦項市に初の「深刻な熱波」警報を発令した。
+メットデスクの米国予測担当ディレクター、ダン・レナード氏は、迫りくるいわゆる「スーパーエルニーニョ」は、1982年、1997年、2015年の主要な現象を「おそらく塗りつぶす」可能性があると述べた。
+コモディティへの影響は一様ではない可能性が高いと同氏は述べた。
+レナード氏はCNBCの番組「モーニングコール」で、北部の冬が例年より暖かければ一部の市場が大きな打撃を受け、価格が上昇する可能性がある一方、天然ガスなど他の市場は下落する可能性があると述べた。
+熱リスク：循環的なものから構造的なものまで
+農業は最大の激変に直面すると予想されており、温暖化と不安定な天候により収量が減少し、食料価格が上昇する恐れがある。
+ソシエテ・ジェネラルによると、農産物価格は今月7％上昇し、カカオ、コーヒー、小麦などのソフト商品は過去1週間で8％上昇した。
+米国農務省のデータによると、5月の食料価格は前年比3.1％上昇した。マン・グループのメモによると、エルニーニョ現象の強まりはさらに上昇リスクを高める可能性があり、食料インフレは2027年までに2桁に達する可能性があるという。
+マン・グループの天然資源ポートフォリオマネジャー、アルバート・チュー氏は、影響を受けた地域では農作物の収量が５─１２％減少する可能性があるほか、コメなどの主食は温暖な気候の影響で２─８％減少し、価格が上昇する可能性があると述べた。
+チュー氏は最近のマン・グループのメモの中で、現在のエルニーニョ現象を特異な出来事として扱い、コモディティの気候変動を慢性的に割安にしていることは、投資家にとって「本当のリスク」であると述べた。
+「現在のエルニーニョ現象が、今後起こる一連の出来事のほんの1点にすぎないとしたらどうなるでしょうか？」とチュー氏は尋ねた。
+一方、バンク・オブ・アメリカのアナリストらは、欧州は他のどの大陸よりも早く温暖化が進んでおり、熱ストレスは周期的ではなく構造的になってきていると述べた。
+アナリストらはメモの中で、コーヒー、ココア、トウモロコシ、小麦が気温上昇の影響を最も受けやすい作物であると特定した。
+商品ストラテジストのダリーナ・コバルスカ氏率いるBofAのアナリストは、「これらの作物は、開花、受粉、穀粒と莢の詰めという重要な発育段階で非常に敏感であり、短期間の猛暑でも大幅な収量損失につながる可能性がある」と指摘した。
+彼らは、トウモロコシは依然として著しく過小評価されている一方、ブラジルとタイの砂糖生産量はエルニーニョ関連の影響で２０２６─２７年に１０％減少する可能性があると述べた。
+コバルスカ氏は、ヨーロッパでの熱ストレスの悪化、ブラジルへの影響を与えるエルニーニョの脅威、米国のトウモロコシ受粉期の暑くて乾燥した気候など、いくつかの気象リスクがあるため、同行がトウモロコシに強気であると述べた。 BofAは、新作トウモロコシの価格が現在の約4.70ドルから1ブッシェル当たり1ドル近く上昇し、5.50～6.00ドルに達すると予想している。
+異常気象は、形は異なるものの、金属にも影響を与えているとチュー氏は語った。
+「銅の生産は非常に水を大量に消費しており、暑さや干ばつの状況により供給が急激に逼迫する可能性がある」とチュー氏は最近のマン・グループの解説で述べた。
+「アルミニウムは別の意味で電力を大量に消費します。電力は生産コストの 30 ～ 40% を占め、製錬所は安価な、多くの場合水力発電された電力に依存しています。冷却、食料生産、AI の成長はすべて、同じ希少な電力と水資源をめぐってより激しく競争することになります。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/from-super-el-nio-to-europes-heatwave-how-to-trade-extreme-weather.html",
+    publishedAt: "2026-07-20T05:54:14+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "fifa-emerges-as-the-9-billion-winner-as-aae608e5",
+    title: "FIFA emerges as the $9 billion winner as the biggest, brashest World Cup ever draws to a close",
+    titleJa: "史上最大かつ最も大胆なワールドカップが閉幕に近づく中、FIFAが90億ドルの勝者として浮上",
+    summaryJa: "史上最大かつ最も大胆なワールドカップは日曜日に閉幕を迎え、スペインが延長戦の末にアルゼンチンを1対0で破り、国際サッカー界最高の賞金を獲得した。エンツォ・フェルナンデスがスペイン人DFパウ・クバルシへのファウルで2枚目のイエローカードを受け、アルゼンチンが10人に減った中、最終的には残念な結果となった決勝戦でバルセロナのフォワード、フェラン・トーレスが唯一のゴールを決め、スペインの2度目のワールドカップ優勝を確定させた。",
+    bodyOriginal: `The biggest, brashest World Cup on record drew to a close Sunday, as Spain defeated Argentina 1-0 in extra time to claim international football's biggest prize.
+Barcelona forward Ferran Torres scored the only goal of what was ultimately a disappointing final, securing Spain's second World Cup title as Argentina were reduced to 10 men after Enzo Fernández received a second yellow card for a foul on Spanish defender Pau Cubarsi.
+Madonna, Justin Bieber, BTS and Shakira were among those who performed at the World Cup's first ever half-time show, which stretched the break out to more than 27 minutes, drawing criticism from commentators and fans.
+Behind the scenes, though, FIFA was always certain to emerge as the financial victor of the tournament. World soccer's governing body presided over the most lucrative sporting event in history and is poised to net over $9 billion in revenue for 2026, according to its own estimates.
+It's the first time 48 teams have competed on the world stage, up from 32 teams four years ago. That means 104 matches instead of 64, scheduled across a period of six weeks rather than four. Additional games allow more content sold to broadcasters, more tickets issued to fans, and more commercial opportunities for advertisers — and a bigger global audience.
+President Gianni Infantino has been the driving force behind FIFA's ruthless commercialization drive. CNBC explores how FIFA is monetizing the World Cup like never before.
+The World Cup expands
+North America appeared to be the perfect sandbox to test out the 48-team format, but its administration was not without controversy. The organization drew criticism over the cost of tickets, which ranged from $60 to over $10,000, with a median price of admission topping $900, according to TicketData.
+Leading up to the tournament, there were question marks over affordability and whether fan demand would hold up. Despite those concerns, demand was remarkably resilient, according to analytics provider Football Benchmark.
+"In the group stage, the utilization rate of stadiums was basically sold out, at 99%," Antonio Di Cianni, director of advisory at Football Benchmark, told CNBC's "Squawk Box Europe" on Friday. "It showed people are willing to pay those prices."
+Encouraged by strong ticket sales, Infantino has already begun floating the idea of further expansion to 64 teams in 2030.
+"These are all issues that we will be examining after the World Cup," he told Swiss broadcaster Blue Sport on July 10.
+If enforced, a 64-team World Cup would see almost one-third of all eligible countries attending the tournament and would boost the inclusivity of the sport, according to Kieran Maguire, associate professor in football finance at the University of Liverpool.
+"This is the opportunity for the World Cup to become the Olympics of football in the sense that it becomes open to far more nations," he told CNBC over the phone.
+"While the medals might be concentrated in the hands of the few, you've got other people who can now say that they have participated."
+Infantino's political ties
+President Donald Trump has been heavily involved in the tournament, which the U.S. co-hosting with Mexico and Canada.
+He has enjoyed a close relationship with Infantino's FIFA, which awarded Trump its inaugural peace prize last year, after the president ferociously pursued the Nobel Peace Prize and did not win it.
+Trump's 2025 financial disclosure, which became public last week, revealed that Infantino gave Trump 10 tickets, valued at $15,000, to last July's FIFA Club World Cup final at MetLife Stadium in New Jersey.
+Their relationship came under further scrutiny after it transpired that Trump called Infantino to ask him to review a one-game suspension issued to USMNT player Folarin Balogun after he received a red card in the match against Belgium, which was then rescinded.
+"I asked for a review because I didn't think it was a foul," Trump said. "I didn't know what the hell a red card was."
+Away from the White House, Infantino's strategy of expansion will prove popular with many countries receiving funding from the organization. As a non-profit, its money is redistributed to build footballing infrastructure in those nations, creating a circular relationship between FIFA and its underlying participants.
+It plans to dispense $2.7 billion in development between its 211 member states from 2027-2030 under "FIFA Forward 4.0."
+"FIFA under Infantino gives lots of money to small countries, who in turn vote for him to be re-elected as president," Maguire added.
+Looking ahead, the 2030 tournament promises to be even larger, with FIFA setting aside a $6 billion budget. It will feature celebrations to mark the 100th anniversary of the tournament, which the federation describes as an "even more attractive event for broadcasters."
+— CNBC's Luke Fountain and Hugh Leask also contributed to this report.`,
+    bodyJa: `史上最大かつ最も大胆なワールドカップは日曜日に閉幕を迎え、スペインが延長戦の末にアルゼンチンを1対0で破り、国際サッカー界最高の賞金を獲得した。
+エンツォ・フェルナンデスがスペイン人DFパウ・クバルシへのファウルで2枚目のイエローカードを受け、アルゼンチンが10人に減った中、最終的には残念な結果となった決勝戦でバルセロナのフォワード、フェラン・トーレスが唯一のゴールを決め、スペインの2度目のワールドカップ優勝を確定させた。
+マドンナ、ジャスティン・ビーバー、防弾少年団、シャキーラらもワールドカップ史上初のハーフタイムショーに出演したが、中断時間は27分以上に延長され、解説者やファンから批判を集めた。
+しかし舞台裏では、FIFA がトーナメントの経済的勝利者として浮上することが常に確実でした。世界サッカーの統括団体は、史上最も儲かるスポーツイベントを主宰しており、独自の試算によれば、2026年には90億ドル以上の収益をあげる準備ができている。
+4年前の32チームから48チームが世界の舞台で戦ったのは今回が初めてだ。これは、64 試合ではなく 104 試合が行われ、4 週間ではなく 6 週間にわたってスケジュールされることを意味します。ゲームの追加により、より多くのコンテンツが放送局に販売され、より多くのチケットがファンに発行され、広告主にとってはより多くの商業機会が得られ、世界中の視聴者がより多くなることが可能になります。
+ジャンニ・インファンティーノ会長は、FIFAの冷酷な商業化推進の原動力となっている。 CNBC は、FIFA がこれまでにない方法でワールドカップを収益化している方法を調査しています。
+ワールドカップは拡大する
+北米は 48 チーム制を試すのに最適なサンドボックスであるように見えましたが、その運営には論争がなかったわけではありません。 TicketData によると、この団体はチケット代が 60 ドルから 10,000 ドル以上に及び、入場料の中央値が 900 ドルを超えていたことをめぐって批判を集めた。
+トーナメントに至るまで、手頃な価格とファンの需要が維持できるかどうかについて疑問符がつきました。分析プロバイダーのFootball Benchmarkによると、こうした懸念にもかかわらず、需要は驚くほど回復したという。
+フットボール・ベンチマークのアドバイザリー・ディレクター、アントニオ・ディ・チャンニ氏は金曜日、CNBCの番組「スコーク・ボックス・ヨーロッパ」で「グループステージでは、スタジアムの使用率は99％で基本的に満員だった」と語った。 「人々がそれらの代償を喜んで支払うことを示しました。」
+好調なチケット販売に後押しされて、インファンティーノ氏はすでに2030年にさらに64チームに拡大する構想を浮上させ始めている。
+同氏は7月10日、スイスの放送局ブルースポーツに対し、「これらはすべてワールドカップ後に検討する問題だ」と語った。
+リバプール大学のキーラン・マグワイア准教授（フットボールファイナンス）によると、もし施行されれば、64チームで構成されるワールドカップには出場資格のある国のうちほぼ3分の1がトーナメントに参加することになり、スポーツの包括性が高まるだろう。
+同氏は電話でCNBCに対し、「より多くの国に開かれるという意味で、これはワールドカップがサッカーのオリンピックになるチャンスだ」と語った。
+「メダルは少数の人々の手に集中しているかもしれないが、参加したと言える人々は他にもいる。」
+インファンティーノの政治的つながり
+ドナルド・トランプ大統領は、米国がメキシコ、カナダと共催するこの大会に深く関与している。
+同氏はインファンティーノ氏率いるFIFAと緊密な関係を築いており、トランプ大統領が昨年ノーベル平和賞を猛烈に追求したが受賞できなかった後、同氏に初の平和賞を授与した。
+先週公になったトランプ大統領の2025年の財務情報開示では、インファンティーノ氏が昨年7月にニュージャージー州のメットライフ・スタジアムで開催されたFIFAクラブワールドカップ決勝戦のチケット10枚（1万5000ドル相当）をトランプ大統領に贈ったことが明らかになった。
+ベルギー戦でレッドカードを受けたUSMNT選手のフォラリン・バログン選手に発令された1試合の出場停止処分を再検討するようトランプ大統領がインファンティーノ氏に電話し、その後取り消されたことが明らかになり、二人の関係はさらに注目されるようになった。
+トランプ大統領は「ファウルではないと思ったので再検討を求めた」と述べた。 「レッドカードが何なのか全く知らなかった。」
+ホワイトハウスから離れても、インファンティーノの拡大戦略は、この組織から資金提供を受けている多くの国で人気があることが判明するだろう。非営利団体として、その資金はそれらの国々でサッカーのインフラを構築するために再分配され、FIFA とその基礎となる参加者との間に循環関係が生まれます。
+「FIFAフォワード4.0」に基づき、2027年から2030年にかけて211加盟国間で開発に27億ドルを支出する計画だ。
+「インファンティーノ監督率いるFIFAは小国に多額の資金を提供しており、小国は彼が会長として再選されるよう投票している」とマグワイア氏は付け加えた。
+今後を見据えると、2030年の大会はさらに大規模になることが予想されており、FIFAは60億ドルの予算を確保している。大会100周年を記念する祝賀会が開催され、連盟はこれを「放送局にとってさらに魅力的なイベント」としている。
+— CNBCのルーク・ファウンテン氏とヒュー・リースク氏もこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/20/world-cup-fifa-football-winner-tournament-spain.html",
+    publishedAt: "2026-07-20T05:45:04+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "brent-breaches-90-as-middle-east-risks-m-688d2a69",
     title: "Brent breaches $90 as Middle East risks mount with U.S-Iran tensions on the rise",
     titleJa: "米国とイランの緊張が高まる中、中東リスクが高まる中、ブレント原油が90ドルを突破",
@@ -1847,1332 +2307,6 @@ Related topics
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3323/live/67c3a600-82db-11f1-9a15-3bb955e2f294.jpg",
     readTime: 3,
-  },
-  {
-    id: "respect-is-important-if-my-financial-ad-6a27771b",
-    title: "‘Respect is important’: If my financial adviser said, ‘Hey,’ my wife and I would walk out. Where do you draw the line?",
-    titleJa: "「敬意は大切です」: ファイナンシャルアドバイザーが「ねえ」と言ったら、妻と私は立ち去ります。どこで線引きしますか？",
-    summaryJa: "「私が会った財務担当者は、AT&T が American Telephone and Telegraph の短縮形であることを知りませんでした。」",
-    bodyOriginal: `“I met with a financial representative who was not aware that AT&amp;T was the shortened form of American Telephone and Telegraph.”`,
-    bodyJa: `「私が会った財務担当者は、AT&T が American Telephone and Telegraph の短縮形であることを知りませんでした。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/respect-is-important-if-my-financial-adviser-said-hey-my-wife-and-i-would-walk-out-where-do-you-draw-the-line-5fbf5879?mod=mw_rss_topstories",
-    publishedAt: "2026-07-18T19:16:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-60496419",
-    readTime: 2,
-  },
-  {
-    id: "netflix-is-spending-big-money-on-sports-8066bea3",
-    title: "Netflix is spending big money on sports. Is the company making the right bets?",
-    titleJa: "Netflixはスポーツに多額の資金を投じている。会社は正しい賭けをしていますか?",
-    summaryJa: "ストリーミングサービスは、ライブ番組が新規加入者の獲得に役立つとしているが、投資家はNetflixの広範なエンゲージメント傾向に幻滅しているという。",
-    bodyOriginal: `The streaming service says live programming helps draw in new subscribers, but investors have become disillusioned with Netflix’s broader engagement trends.`,
-    bodyJa: `ストリーミングサービスは、ライブ番組が新規加入者の獲得に役立つとしているが、投資家はNetflixの広範なエンゲージメント傾向に幻滅しているという。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/netflix-is-paying-up-for-costly-sports-rights-is-the-company-making-the-right-bets-9ce54df7?mod=mw_rss_topstories",
-    publishedAt: "2026-07-18T18:54:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-82988028",
-    readTime: 2,
-  },
-  {
-    id: "your-netflix-bill-is-up-29-in-just-over-7bc80c3c",
-    title: "Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.",
-    titleJa: "Netflix の請求額は 1 年余りで 29% 増加しました。ワシントンが介入する時が来た。",
-    summaryJa: "Netflix は依然としてウォール街の人気者であり、政府規制当局の標的となっている",
-    bodyOriginal: `Netflix is still a Wall Street favorite — and a target for government regulators`,
-    bodyJa: `Netflix は依然としてウォール街の人気者であり、政府規制当局の標的となっている`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-    publishedAt: "2026-07-18T18:49:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-95726777",
-    readTime: 2,
-  },
-  {
-    id: "i-m-67-own-two-homes-outright-worth-2-8-a228fdc4",
-    title: "I’m 67, own two homes outright worth $2.8 million, but I have $19,000 in credit-card debt. Should I get a HELOC?",
-    titleJa: "私は 67 歳で、総額 280 万ドル相当の家を 2 軒所有していますが、クレジット カードの借金が 19,000 ドルあります。 HELOC を取得する必要がありますか?",
-    summaryJa: "「私の息子は最近リンパ腫と診断されました。これはアフガニスタンでの兵役中の火傷被ばくに関連している可能性があります。」",
-    bodyOriginal: `“My son was recently diagnosed with lymphoma, which may be related to burn-pit exposure during his military service in Afghanistan.”`,
-    bodyJa: `「私の息子は最近リンパ腫と診断されました。これはアフガニスタンでの兵役中の火傷被ばくに関連している可能性があります。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/im-67-own-two-mortgage-free-homes-worth-2-8-million-but-i-have-19-000-in-credit-card-debt-should-i-get-a-heloc-7b6c5192?mod=mw_rss_topstories",
-    publishedAt: "2026-07-18T18:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-45376891",
-    readTime: 2,
-  },
-  {
-    id: "two-unexpected-revelations-in-warren-buf-2ab3879e",
-    title: "Two unexpected revelations in Warren Buffett's CNBC interview",
-    titleJa: "ウォーレン・バフェット氏のCNBCインタビューでの2つの予期せぬ暴露",
-    summaryJa: "(これはウォーレン・バフェット・ウォッチのニュースレター、ウォーレン・バフェットとバークシャー・ハサウェイに関するニュースと分析です。ここからサインアップすると、毎週金曜日の夜に受信箱で受け取ることができます。)バフェット氏のCNBCインタビューで判明した2つの予期せぬ事実",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Two unexpected revelations in Buffett's CNBC interview
-In a nearly one-hour interview with CNBC's Becky Quick on the day he publicly revealed he is cutting off the Gates Foundation from future donations, Warren Buffett downplayed the role Bill Gates' association with Jeffrey Epstein played in that decision.
-He also revealed he initiated Berkshire Hathaway's now $30 billion position in Google-parent Alphabet, which many had thought was Greg Abel's first major investment decision as CEO.
-Buffett: Gates-Epstein ties 'distasteful' but everyone makes mistakes
-While Warren Buffett found Bill Gates' ties to notorious sex-trafficker Jeffrey Epstein "distasteful," he says his decision to end future contributions to the Microsoft co-founder's foundation was driven by his three children demonstrating they are now able to responsibly give away "vast sums of money."
-Over the same 20 years he gave the Gates Foundation nearly $48 billion in Berkshire shares, as valued at the time of the donations, he also donated almost $18 billion to Susie Buffett's Sherwood Foundation, the Howard G. Buffett Foundation, Peter Buffett's NoVo Foundation, and the Susan Thompson Buffett Foundation, named for his late first wife.
-He told Becky, "I'm impressed by the fact that my kids really want to give the money away" efficiently, without constructing huge buildings or holding conferences "at esoteric places and all kinds of things."
-Buffett said he didn't have that same confidence in his children in 2006 when he started his donations to the Gates Foundation.
-In a March interview with CNBC, Becky asked if he would continue his "lifetime" commitment to make annual donation to the Gates Foundation in light of revelations in the Jeffrey Epstein files about his connections to Gates.
-At that time, he replied, "I'll wait and see what unfolds ... I don't have to make that decision today. And I haven't made it today."
-"I've learned things I didn't know about something for all these years."
-Now Buffett says he's read a "great deal" about the matter, including Gates' congressional testimony last month, and presumably, the February Wall Street Journal report that in a meeting with foundation staff members, Gates "acknowledged that he had two affairs with Russian women that Epstein later discovered, but that they didn't involve Epstein's victims."
-Buffett's assessment: "While it's distasteful, while he made mistakes, I made mistakes in hiring all kinds of people or choosing friends and then finding out later that they — that one way or another, they weren't what I thought they were. And so, I found nothing in there that that was beyond what I could see — I could picture myself doing."
-In March, Buffett said he had not talked with Gates "at all since the whole thing" with the Epstein files "was unveiled."
-That's no longer the case. Buffett told Becky that Gates came to Omaha within the last several weeks "and we spent three hours talking together" and "he intends to call me" to maintain contact.
-Buffett said that "at some point" he told Gates he is ending his annual donations before announcing the move this week and Gates is "OK" with the decision. "It's been a wonderful friendship."
-In a statement emailed to CNBC by a representative, Bill Gates said, "Warren is one of the greatest philanthropists of all time, and a dear friend. His wisdom, generosity, and deep sense of purpose have defined both his life and his philanthropy."
-Gates credits Buffett's "unprecedented support" with helping to save millions of lives. "My gratitude to Warren is immeasurable, and I cherish the time we spend together. I hope we have much more of it ahead."
-Why Buffett is picking up the pace of his stock donations
-At the same time, Buffett is shifting where his philanthropic donations will be directed, he is also speeding up the pace of those gifts.
-In his previous philanthropic plans, for both the Gates Foundation and the four family foundations, the number of shares donated each year decreased, although the value of the gifts usually was higher than the year before as the price of Berkshire's stock increased.
-Starting now, he is going to give away more shares each year so he can "dispose of all of my Berkshire shares within about eight years," in part because his children, who will be deciding what to do with the money, are "unfortunately growing older."
-Buffett does acknowledge his children have a tough job ahead of them:
-He also said having Greg Abel at the helm of Berkshire makes him feel comfortable about giving up his, and the family's, control of the company sooner rather than later and explained why the foundation named after his first wife will be getting more shares than the foundations run by his three children:
-Berkshire Hathaway shares initially fell on Tuesday's news that Buffett will be accelerating his sales but then recovered to end the week slightly lower.
-Buffett 'initiated' big Alphabet investment, with Abel's approval
-The biggest surprise in Tuesday's interview was Buffett's revelation he is responsible for Berkshire's big investment in Alphabet, Google's parent.
-After purchasing roughly $4.3 billion of shares in last year's third quarter and adding $11.5 billion in this year's first quarter, Berkshire invested another $10 billion in Alphabet by purchasing shares directly from the company as part of its larger plan to fund its AI ambitions.
-Given Buffett's long-standing practice of almost always avoiding tech stocks, many observers, including me, thought making Alphabet one of Berkshire biggest stock holdings was the result of new CEO Greg Abel flexing his investing muscles.
-Wrong, said Buffett: "I initiated it."
-He did go on to say, "I am not doing anything that [Abel] doesn't approve of. He's not doing anything I don't approve of. We talk all the time... but he is the decider."
-Even though Alphabet is "putting out huge amounts of money" on AI infrastructure and he doesn't "like [the stock] as well as at least four or five other businesses that we own," Buffett said, "I think they're more likely to be a winner, based on their record, than — than probably 90 percent or — or 95 percent of what gets merchandised through Wall Street, because Wall Street is just interested in whether they can sell something."
-Buffett again acknowledged in Tuesday's interview he made a "mistake" by not adding Alphabet to Berkshire's portfolio earlier.
-In a 2017 CNBC interview, Buffett admitted he should have known about Google's profit potential because Berkshire's GEICO had been buying a lot of advertising from the company.
-Buffett remains bullish on Apple
-Buffett is disappointed Tim Cook will be stepping down as the CEO of Apple, Berkshire's largest equity holding at $76 billion, but he's still happy with the stock.
-Warsh will 'do the best he can' as new Fed chairman
-Buffett thinks Kevin Warsh is a "good choice" to be the new Federal Reserve chairman, although he "can't be perfect at it, just like I know I couldn't be perfect at taking people's money and earning super returns on it."
-Still, "I think he will do the best he can at achieving the job he was assigned to do, which is 2% inflation and maintaining maximum employment."
-Buffett again sounds alarm on 'gambling' in financial markets
-Buffett is still worried there is too much "gambling" in financial markets.
-"It's tough to find values when everybody is preferring gambling," he said.
-"Since humans love to gamble so much, there's more money in — in actually cultivating gamblers than there are cultivating investors."
-'I broke a leg'
-As the interview was ending, Becky asked Buffett how he was feeling that day.
-"I broke a leg ... a few weeks ago," he replied, without elaborating on exactly what happened.
-It is his first broken leg "in my life until now" so "I've been very lucky on that sort of thing."
-Berkshire buybacks are really back
-It appears Berkshire's relatively small, and publicly previewed, $234 million of share repurchases in the first quarter was not a one and done resumption after a two-year hiatus.
-Barron's estimates Berkshire bought between $5 billion to $11 billion of its shares in the second quarter.
-That's based on a rough calculation derived from Buffett's SEC filing this week on his foundation gifts that disclosed his 188,920 Class A shares, after the contributions, is 13.2% of all of Berkshire's outstanding shares.
-Barron's says the estimated buyback range is fairly large because it doesn't know yet exactly when the buybacks were made and because Buffett's ownership percentage is presented with just one decimal point.
-We'll get the exact number when Berkshire releases its Q2 earnings early next month.
-The complete 1-hour interview
-1. 00:00 - Buffett on his decision to stop donations to Gates Foundation
-BECKY QUICK: Warren, first of all, thank you for sitting down and talking with us today. I appreciate it.
-WARREN BUFFETT: It's always good to sit down. (Laughs)
-BECKY QUICK: Yes, I find the same thing.
-The last time we sat down and spoke with you, or I guess it was two times ago in March when we sat down with you to talk about what you were doing with your charitable giving, you said that you were going to be watching and waiting, that you were kind of waiting to see what came out about Bill Gates and the Epstein files and what had happened.
-You said you hadn't determined what you were going to do.
-Today you put out a release saying that you will be increasing the amount of money that you give to the Susan Thomas Buffett Foundation, your three children's foundations, but there will be nothing given right now to the Gates Foundation. Is that your decision?
-WARREN BUFFETT: That's correct. That's correct.
-But — but in interpreting that, I would point out that I've read a great deal since January 1 in terms of what happened with Bill and Epstein, and I've read his remarks to Congress given under oath, and I've read cross examination, and while it's distasteful, while he made mistakes, I made mistakes in hiring all kinds of people or choosing friends, and then finding out later that they — that one way or another, they weren't what I thought they were.
-And so I found nothing in there that that was beyond what I could see — I could picture myself doing.
-And, you know, he ended it. And I've had situations where I made mistakes about people or people may have felt they made mistakes about me.
-But they — you know — life goes on and — and no one — no one bats 1.000 in the business of choosing people,
-BECKY QUICK: You're talking about hiring decisions, maybe who you're associating yourself with, and there were certainly some questionable decisions on that that came up in the release of these files, but there was also other, you know, personal information.
-WARREN BUFFETT: Yeah. No. He — which he admitted to.
-BECKY QUICK: Yeah.
-WARREN BUFFETT: Yeah. No. And there again, I would say that, you know, I would — I've known some pretty wonderful people, and I still know some wonderful people.
-I don't think they've made every decision correctly.
-BECKY QUICK: So why, if that's your opinion on it, why are you no longer giving money to the Gates Foundation?
-WARREN BUFFETT: Well, I reevaluated my whole situation.
-It's just like I've been doing since I was in my 20s, and we'd gotten married, Susie and I, and we didn't really have any money, but we did know that we intended to live fine, and we intended to have a family, and — but we did not have aspirations of, you know, having six houses or a 500-foot yacht or anything of the sort.
-So even then, we talked about what we would do philanthropically. But my idea, and conviction, was that I would compound money at a better rate than society generally, and that Susie would give it away better than 99.9 percent of the people that were giving it away, and she would get involved personally with the gifts, whereas I like to do things wholesale, and she liked to do things retail.
-So we had a plan, but we didn't have any money. And over time the money started to pile up, and she would say, "Are we rich yet?" And I would say, "No, but we're getting closer."
-But I was not in a hurry to do anything. We did some small things as we went along. I did it.
-I felt the most important threat to mankind was — was the — was the nuclear bomb. And so I had sort of grandiose plans in my mind about how I could change the probabilities of that happening, and I finally came to the conclusion, after decades, that I could not have a 100th, or 1,000th, of 1 percent chance of succeeding in that.
-And, you know, it's nice to bet on long shots, but betting on things that are essentially —
-BECKY QUICK: So you've changed your plans?
-WARREN BUFFETT: So I changed plans.
-BECKY QUICK: Why did you change your plans?
-WARREN BUFFETT: Well, we changed plans because of what I've set out here. The money began — the money began to pile up —
-BECKY QUICK: No, but you changed your — you changed your plan now. In 2024, you said it was a lifetime pledge to the Gates Foundation.
-Now in 2026, you are saying that's not the case. What happened?
-WARREN BUFFETT: Well, what happened was that I gave the Gates Foundation a great deal of money —
-BECKY QUICK: Maybe 47 billion dollars in total?
-WARREN BUFFETT: Yeah. And I had no — and I thought that was a good decision. I think it was a decent decision.
-But I did not think my kids were in any way ready to give away vast sums of money.
-We'd started — Susie and I started with them — I think we gave them — we may have given them a hundred thousand dollars each.
-BECKY QUICK: This goes back 30 years at this point, or longer?
-WARREN BUFFETT: That's about right. Yeah.
-But they were growing children. You know, they had children, you know, they had children of their own by that time.
-But still — they —they — I don't think they were ready for it. And I certainly wanted to treat them all equally. So that's always a problem — is — if they have unequal talents of something.
-Now, I can't turn them all into musicians, and I can't turn them all into baseball players or anything.
-But I really hoped in the charitable field that they would have common goals and be able to work out among themselves a way where, with vast amounts of money, that everybody felt there was plenty to do what they wanted to do. And I have the —
-BECKY QUICK: And you think that's the case today?
-WARREN BUFFETT: Pardon me?
-BECKY QUICK: You think that's the case today?
-WARREN BUFFETT: I feel the probabilities of that are extraordinarily high.
-And — now — is — could something happen to this plan? Of course. I mean, I've got three children that are 72 and 71, and look at my age.
-I mean, things can happen in this world that cause you to change — to change.
-But I have no expectation of changing. I mean, as far as I'm as concerned, we've reached the ideal point.
-We — we kicked. Well, Susie died in 2004, so it's been more me kicking up the amount they receive annually. And clearly, they feel happy with the job, too.
-I mean, there's no sense sticking people in a job that they — they aren't fit for, or that — where they differ totally from you and your views.
-I mean that — that — I had different views in life than my dad, who I admired more than anybody in the world, but it still didn't mean that I joined his church or, you know, did — did anything identically. And — and he encouraged that view.
-He would — he would quote to me Emerson, which — where Emerson said something to the effect that the force in you is new in nature. You know, he's saying, you know, you're one of a kind. Find out what that one is.
-And I think I found it very young by luck, circumstance, and pretty purposeful pursuit myself.
-My kids did not. They behaved like — like most kids. They — they flirted with a lot of different ideas. And — but I feel 100 percent now about what I have seen them do.
-My son Howard just published a 100 page or so report explaining what he's doing, why he's doing, what it's costing.
-BECKY QUICK: An annual report for the Howard Buffett Foundation?
-WARREN BUFFETT: Yeah. And it's better than I could write.
-He's — he — he has a sense of stewardship, and — and he also has enormous empathy for people he sees that don't have it as lucky as he has.
-BECKY QUICK: So then is it fair to say 20 years ago in 2006, when you made this decision, you trusted the Gates Foundation more than your children, and now you trust your children more than the Gates Foundation?
-WARREN BUFFETT: No, the amounts were different. It isn't to say that I trusted them differently, but I felt they were capable of handling —
-And I was certainly not going to turn something over to my kids and then pull it back from them. I mean, and —
-And the Gates Foundation has turned out to earn far more money than they expected to do. They spend more money than anybody in the world that I can think of.
-BECKY QUICK: Yeah. They have an endowment of — north of 90 billion dollars, I think it is.
-WARREN BUFFETT: It's around that figure, and Bill has very substantial resources outside, which he intends to give, and I believe — a hundred percent — I believe that they will go there.
-And I, you know — I've really done the same thing as Bill, in a certain sense. I'm — except I'm — when I put it in, I tell the three children that that it is theirs and it's their responsibility to get it done well.
-And — and you may find this hard to believe, but it's true. I've never looked at their Form 990s, which they file. I — I'm not judging each action as it takes place, because you take actions where you think there's only a 10 percent or 20 percent probability of success. It's not like investments.
-BECKY QUICK: But what are your goals for the money? And you kind of intimated that the kids have similar goals as to what you have.
-WARREN BUFFETT: There's — there are all kinds of ways in which the world is as unequal as you can possibly imagine. I mean, just imagine in health, or the luck of birth, or all of those sort of things. And the ultimate goal is to make life better for the people who get short straws.
-And there's a lot more people who get short straws than we'll ever be able to take care of, and — and my kids will have more insight into certain areas than I would. And I have more insight than — than they do just because of different interests and exposure.
-But the one thing I'm convinced of is that they will be attempting to do something, and they'll be better at it. And the probability is that they've got more years to live than I do.
-So, I mean, it really sneaks up on you when you get to be in the 70s or something like that.
-But I wouldn't — I can't think of a person in the world that — 30 or under, for example — I would trust to do it.
-I think there's all kinds of brilliant people that are 30 or under, and they may turn out to be leaders of society and — and terribly important writers, or whatever it may be. But I do think there's something to seeing how people behave under different circumstances.
-BECKY QUICK: The kids are going to come under pressure, and probably already have, from a long list of people who think that they should fund their ideas.
-I saw something today on X that Brad Gerstner put out suggesting that you give the money to Trump accounts, that there are other great things to do.
-What do you say to the lots and lots of people who will say this is where you should put that money, or what do you think they should say?
-WARREN BUFFETT: If you take 8 billion people in the world and feel that everybody should have an equal chance, I mean, you could — you could spend a thousand dollars or 10 thousand dollars, and you know, to solve everybody's problems. You're never going to solve everybody's problems.
-The idea of serving — solving a societal problem, which is what I started out as, with — with a nuclear weapon — I mean, everybody who worked on the nuclear weapon regretted the fact that they had to put together something like that. The most brilliant people in the world, but they never figured out how to put the [genie] back in the bottle.
-And, you know, that — that is not something that society in the first couple hundred million years of existence there — couple million —
-BECKY QUICK: Do any of those plans, though, like the Trump accounts, appeal to you? Do you think they appeal to the kids? Do you — or do you just leave it to the kids and say, you figure it out?
-WARREN BUFFETT: I leave it to the kids. But I do have this provision in my will, not in these gifts that I'm giving now, but in the — the bulk of my fortune is likely to be left upon my death, even though I'm stepping up the —
-BECKY QUICK: Yeah. I will say right now it's 140 billion dollars that you have left, based on yesterday's closing stock price, in terms of the Class A shares you have left.
-If — the money you gave out this year is 6 billion dollars.
-WARREN BUFFETT: Yeah. It'll have to go up.
-BECKY QUICK: Right, it's 17 and a half billion dollars, at least, annually, and that's assuming that Berkshire doesn't go from here —
-WARREN BUFFETT: Yeah —
-BECKY QUICK: — if you want this to be given out in eight years, as you've said.
-WARREN BUFFETT: — which is a terrible assumption, incidentally. I mean, that is not a realistic assumption.
-BECKY QUICK: To give 17 and a half billion dollars away, annually?
-WARREN BUFFETT: No. That — that an investment produces nothing.
-BECKY QUICK: Oh, correct. So —
-WARREN BUFFETT: I get about 5% Treasury bills, you know.
-BECKY QUICK: Right. How much did you have when you started making these donations in 2006? We were talking about less than a hundred billion dollars at that point, right?
-WARREN BUFFETT: Yeah. Yeah.
-BECKY QUICK: So you've given away 67 billion dollars, and now you have 140 billion dollars left to give as of today.
-WARREN BUFFETT: Which is the nature of compound interest.
-BECKY QUICK: Right.
-WARREN BUFFETT: That's one thing I understand. (Laughs)
-I may not understand all these other things, but —and —
-BECKY QUICK: But 17 and a half billion dollars, even if it weren't to go up, is more money than anybody is giving away right now. And the Gates Foundation gave away, what, 8 billion dollars last year?
-WARREN BUFFETT: Yeah, that's — that's about right. And —
-BECKY QUICK: That's a lot.
-WARREN BUFFETT: And they did it — they did it employing, you know, a few thousand people, which almost any foundation would, that had that kind of money.
-And — and I — I'm impressed by the fact that my kids really want to give the money away rather than do other things with it as they go along. So they —
-BECKY QUICK: You mean rather than spend it on themselves?
-WARREN BUFFETT: Yeah, or buildings or anything of the sort.
-Now, when they're — they'll need more help as they go along. But I — I think — I think the foundations employ something between — there's three of them now —
-BECKY QUICK: Four of them, with the STB (Susan Thompson Buffett) Foundation.
-WARREN BUFFETT: Well, with STB.
-Well, let's take the kids first, because there they make the total decision as to what they're doing. And they have between 11 and 25 employees, and —
-BECKY QUICK: Total? Between the three foundations?
-WARREN BUFFETT: No, each.
-BECKY QUICK: Each. OK.
-WARREN BUFFETT: Yeah. And — and they have expense ratios far below that of institutions that are much better known and —
-BECKY QUICK: Expense ratios closer to one percent or less?
-WARREN BUFFETT: What they've shown — they've shown — they've shown that they're not regarding it as play money.
-BECKY QUICK: Right. Right. Meaning that the bulk — almost everything they get goes back out the door.
-WARREN BUFFETT: Well, it really all goes out the door eventually, but —
-BECKY QUICK: Yeah.
-WARREN BUFFETT: But yeah — yeah. They — they're not going to build, you know, huge office buildings or hold conferences at esoteric places and all kinds of things.
-You know, there's nothing wrong with doing that. I mean —
-But the important thing is whether people that have, you know, a hundred times what they need and don't pass it along to somebody else for the next generation. And — and many parts of the world have been doing that for thousands of years.
-BECKY QUICK: Yeah, you're not a big fan of bureaucracy. Berkshire Hathaway was run here, in this office, with 25 people or something in the home office.
-WARREN BUFFETT: Twenty-five people. And we probably went up — we probably grew in size 10-for-one before we added the last two or three.
-BECKY QUICK: Uh huh.
-Before we move on, does — does Bill Gates know about this? When we spoke with you in March, you said you had not spoken with him since any of these allegations started coming out.
-He said the same thing last month in — in June when he sat down with this congressional testimony, that he had not spoken with you since January.
-Have you spoken with him since? And does this come as a surprise to him?
-WARREN BUFFETT: No — no, it does not come as a surprise.
-And — and B), he came by Omaha, I don't know, three weeks ago — or — I kind of lose track on time — but certainly not three months — but three — since we talked. And we spent three hours talking together, and — and — and he's — he — he intends to call me. He's the one that initiates calls, just generally.
-And — and as you can see, I'm available anytime. (Laughs)
-But — he's — he's much more organized than I am, and — but he already proposed another one, and —
-BECKY QUICK: Another meeting?
-WARREN BUFFETT: Yeah. And — and — he is — we have had an enormous number of good times together since we met — whenever it was — what was it, 1991?
-And he's always done more than his share of it — always more than his share. You don't see me doing the planning or doing —
-BECKY QUICK: In the friendship, you mean?
-WARREN BUFFETT: Yeah. It's — it's — it's been a wonderful friendship.
-And — and Bill and I are interested in enough things that overlap that we find plenty to talk about, and then each of us has got his own specialty to some extent.
-BECKY QUICK: But you told him three — three weeks ago or so when you met him that you would not be making any more donations to the Gates Foundation?
-WARREN BUFFETT: Yeah, I may have even — may have been even — I can't tell you exactly when I told him.
-But — but at some point, I had read the — I had read what Congress came up with. I'd read everything.
-And — and all I can say is, you know, I've — I don't know whether I've done dumper things, but I've done things that — I've just done many dumb things in life.
-I mean, that is — all I have to do is look at our portfolio. I mean, four out of five of our — at least four out of five of — of the decisions I've made have not been anything out of the ordinary. But —
-BECKY QUICK: But he was OK when you told him —
-WARREN BUFFETT: Yeah.
-BECKY QUICK: — that this was — OK.
-WARREN BUFFETT: Yeah.
-BECKY QUICK: So he's on board. None of this is news to him.
-WARREN BUFFETT: Yeah.
-Bill, unlike me, more or less, I think wants it to end when — when he dies. Then of course he doesn't know when he's —
-BECKY QUICK: His foundation?
-WARREN BUFFETT: The Gates Foundation.
-Whereas, I hope that my kids live a lot longer than — than I do, and I hope all three participate. And I think all three will be better off for doing it.
-But that — that's not a decision that was made — well, when Susie and I started giving them — I think we moved it up to, maybe, 30 million a year, and —
-BECKY QUICK: To the kids' foundations?
-WARREN BUFFETT: No, actually to —
-BECKY QUICK: Oh.
-WARREN BUFFETT: — to — but — to their foundations. I don't remember the exact figures at all.
-But we gave it to them when we were 99 percent sure that — that they — well, we knew they were willing and — and in some cases, in a certain way, eager, to do things for other people.
-They — they've had a good life. They haven't — they haven't —
-Well, they've followed that rule that somebody told me a long time ago, but — which I get credit for, but I didn't think of it myself — which is that if you're the child of some very rich family, that you should have enough — you should be given enough to do — to do — to do something, but not enough to do nothing.
-BECKY QUICK: Right.
-WARREN BUFFETT: And that's — that's exactly what's been going on at an increased scale, but —
-BECKY QUICK: Just to —
-WARREN BUFFETT: But I have to step it up now, because, you know, at my age, you know, the probabilities really get against me.
-So that the last will I wrote is — is very likely to be my final will. Whereas the wills that I was writing when I was 30 or 40 or 50, I knew they would change.
-BECKY QUICK: Right. Let's — let's talk about that.
-2. 21:23 - Accelerating the pace of donations
-BECKY QUICK: The other thing that you're announcing in this is that you would like to see the money go out at an expedited — and the shares go out — at an expedited rate.
-To this point, it had kind of been 10 years after your death, you thought the shares would all be disbursed to charity.
-Now you're saying that you would like all of those shares to be disbursed eight years from now, by the end of 2034.
-WARREN BUFFETT: Yeah.
-BECKY QUICK: What — what changed your mind on that, and what does that mean?
-WARREN BUFFETT: Well, it certainly means that I had — I had two purposes in — in all the philanthropy, and — and in particular with all — essentially, a hundred percent of my money in — in Berkshire —
-You know, that's my painting, and — and I like the painting, I like the people associated with it, and it's been refined over time. You know, I've added an (inaudible) over here or something. (Laughs)
-And — and I don't think — I don't know of 10 people in the United States that I would trust to hand it over to. I don't know —
-BECKY QUICK: Your company? You're talking your company?
-WARREN BUFFETT: The company.
-BECKY QUICK: Right.
-WARREN BUFFETT: I don't know of five people, and I know a lot of people. And — now I have a very high standard in terms of what I'm looking for in — in that person. And clearly, we've — we found him with Greg Abel.
-So — and that becomes more evident by the day. Even this year, there's been added things that, so —
-BECKY QUICK: So you don't think you need to hold on to the shares, or have your family have voting power over those shares, for as long because you think Greg Abel is —
-WARREN BUFFETT: He is the choice. The only question is — is — he's not immortal, either, you know.
-I mean, you always have this mortality question, you know, and nobody gets away from it. I mean, it —
-People can be in marvelous health, or seem like it — and you know they —
-Who died the other day? Wasn't he —
-BECKY QUICK: Lindsey Graham.
-WARREN BUFFETT: — 71 or something?
-So there's an enormous variety and variation from — from being lucky to not being lucky.
-And I've — that's — that's the bet I made with Greg.
-I do not have a list of 10. I mean, it isn't — I don't have 10 kids, either. But — even — I don't have a list of three.
-BECKY QUICK: In terms of who you would trust the company to —
-WARREN BUFFETT: Yeah.
-BECKY QUICK: — at this point?
-WARREN BUFFETT: Yeah.
-Now, I've got directors that I trust to be imbued with the — the — they like the concept of Berkshire Hathaway. They would like to keep it going.
-So I've got the right group that's the intermediary in — in making that choice.
-But things don't always work out perfectly with the world.
-BECKY QUICK: So your — your hope is that the shares will be dispersed by the end of 2034, just over eight years from now — eight and a half years from now.
-But I take it if — if you're not here and the kids are the one making the choices, you would leave it to their decision making at that point?
-WARREN BUFFETT: Yeah. And eight — eight years from now, you know, my daughter will be 80 — very close to 81.
-You know, another will be seventy —
-And it's not just a question of mortality. It's a question of keeping your marbles, too. You know, and —
-BECKY QUICK: (Laughs)
-Have they heard you say it like this?
-WARREN BUFFETT: Well — well, I mean — I'm losing marbles — (laughs) — at this point.
-I accumulated marbles for a longer time than I deserved, and that's just a matter of luck.
-I mean, I've — I've seen so many managers of our companies that — well, I think I've mentioned it at a few annual reports — annual meetings, I mean. We had guys cutting out paper dolls, and there's you know, and their assistants covering for them.
-BECKY QUICK: OK, just to — to clarify at this point, you are saying this of your right mind while you're making these decisions, correct?
-WARREN BUFFETT: I hope so. (Laughter)
-But actually, I wrote the will a couple years ago, so that —
-And I will not knowingly — I mean, I will not change that will, except for extremely important decisions, because there's no question that I had my marbles when I wrote it.
-3. 25:40 - The family foundations
-BECKY QUICK: OK, so let's talk a little bit about what happens now, because you've talked about how this is really your children making the decisions, but in the announcement that you're putting out now, you increased each of your children's foundations, the amount you're giving them, by about 50 percent —
-WARREN BUFFETT: Yeah.
-BECKY QUICK: — from what you gave them last year.
-WARREN BUFFETT: But I've increased the Susan Thompson Foundation, but —
-BECKY QUICK: But it's the Susan Thompson Buffett Foundation that really is seeing the outsize gains in what they're going to be giving away.
-They're — they're — the amount of shares they receive this year is tenfold what it was last year. Basically they're getting all the money that would have gone to the Gates Foundation. Why?
-WARREN BUFFETT: They're — they're getting all the money that would have gone to the Susan Thompson Buffett Foundation —
-BECKY QUICK: — and then some.
-WARREN BUFFETT: — if my first wife would have survived.
-BECKY QUICK: Right. And then some.
-WARREN BUFFETT: Yeah.
-BECKY QUICK: But basically the payout they're going to be getting this year, in terms of what they can disburse, is four and a half billion dollars. That's how much the Gates Foundation got last year.
-Why so much more to the STB Foundation than the other three foundations, relatively speaking?
-Everybody gets more, but — but why that outsized amount?
-WARREN BUFFETT: Well, the SCB Foundation is what — and I would say, totally, my wife would have — my first wife would have created — and I would have approved it.
-I mean, we were on the same page in all kinds of questions that aren't even questions anymore, in terms of women's rights, civil rights. I mean, we were — we were in sync.
-That — now she — she took an interest in listening to everybody's story. That would be the last thing in the world — (laughs) — I would want to do.
-She — she saw every individual as an individual, but she also saw them as a group. I saw them as a group, and I had other things that fascinated me more.
-BECKY QUICK: This money that goes through, is this what you will anticipate seeing from — from this point on? In years past, at Thanksgiving, you've given additional disbursements to the three kids' foundations.
-WARREN BUFFETT: Yeah.
-BECKY QUICK: Do you plan to do that again this year?
-WARREN BUFFETT: Yeah, I'm almost sure I will. But — but regardless, the other — the other goes on.
-You know, I mean — if I, you know — I could, I'm — I'm more probable to die before Thanksgiving than any of my three children, and probably the probability of all three combined. But — but —
-But I also enjoy explaining why I take actions, just like I do in the annual report on Berkshire.
-I — I've got a didactic streak, which my partner Charlie Munger had, and to us — the money wasn't — well, the money was important, in terms of what it could actually do for other people.
-It wasn't important for what it could do for me. I — I have not denied myself anything in life.
-BECKY QUICK: If something happens that you're not here to make these decisions, does it revert to what you talked about last year in your will, where there is a new foundation that is created?
-WARREN BUFFETT: Yeah, there's a new foundation —
-BECKY QUICK: And the three kids are in charge?
-WARREN BUFFETT: Because it has to be — to be — because it does have slight variations. One being unanimous consent among the three for anything they do.
-BECKY QUICK: Does the STB Foundation or the kids' foundations, do they have to spend the money in this fiscal year as was required of the Gates Foundation, or is this something where they can take their time and make their plans?
-WARREN BUFFETT: They know — they know my views on it, but they can they can do what they want. But if they — if their wants get away from the basic principles far enough, you look at it again, but that isn't going to happen.
-BECKY QUICK: Warren, you've spent most of your adult life thinking about philanthropy. How have your views changed over time? What would you like to see happen with this?
-I think about the Giving Pledge and what you all did. What's your perspective at this point?
-WARREN BUFFETT: Well, the perspective I have is out of eight billion people, you know, I may be one of the 10 luckiest in the world. (Laughs)
-So I've been lucky and healthy to get to 95. I've been lucky in that the field that intrigued me, and where I had some natural ability, happened to be one that paid off in a way that was — nothing paid off like it.
-I've — I could have been a great violin player, you know — anything else.
-I — it requires more talent than I have, but a different form of talent. And — and fortunately, I got exposed, partly accidentally, to what I liked to do very early on, and that was just an accident.
-If my father had been a plumber, I would not have — I would not have had the same advantage I had.
-So I was incredibly lucky. And — and then, as life has gone along, I have seen how unbelievably unlucky some people have been.
-And it is luck. I mean, you know, we — you know — we had accidents with — with the kids when they were young, and all kinds of things can happen. And they just didn't happen to us.
-BECKY QUICK: All right, let's talk about a few other things while we have you, here.
-WARREN BUFFETT: Yeah.
-BECKY QUICK: Is there more you want to say?
-WARREN BUFFETT: Let me add one more thing on that, though.
-I mean, the idea, the whole idea, of kings and queens and everything, where you pass along, for thousands of years, the ability to live in any manner you wish, you know, while you say "let them eat cake" — (laughs) — to the rest, it —
-That — that is not the way the system should — would be, if I had my way of designing the world. And I can't -- I can't change the design of the world, but I can make — I can level at the edges.
-BECKY QUICK: And those are the same values that your wife, Astrid, and your kids all have, too?
-WARREN BUFFETT: A hundred percent. And I'm glad you mentioned Astrid, because she feels — she's as extreme in this field as you can imagine. And she — she's actually experienced more hardship in life than either Susie or I did, because she was — she's Latvian — and you know, and came over in a boat in Ellis Island, and — and didn't know who she was being assigned to. Lived in foster homes, all kinds of things.
-So, the — the accidents of birth are just so extreme. And I've seen people that use those accidents to justify positions that are just ridiculous — (laughs) in my view.
-And — and that's the reason for encouraging philanthropy.
-You can't mandate it. It isn't even — it isn't philanthropy if you mandate it. But people, most people, are a combination, you know, of lots of good instincts and lots of not so good instincts — (laughs) — and including me. And the —
-If you do things that appeal to their better instincts, they — they respond, sometimes.
-BECKY QUICK: And by the way, your — your point with the Giving Pledge, when you founded that with Bill and Melinda Gates, was to encourage people to give to anything, but not to try and tell them what to do with their money.
-WARREN BUFFETT: Exactly. Exactly. And —
-And also decide when they would do it. I mean, a family that's got a family farm they've had for a hundred years, and they're — you know, within the family, they've all worked out and everything — they're going to have a different view toward capital.
-They're all going to work hard, but they just — going — they're going to have a whole different view than some guy that is — is writing options on Wall Street.
-BECKY QUICK: Yeah.
-4. 33:45 - Buffett says he initiated big Alphabet investment
-BECKY QUICK: OK, let's talk about a few other things that have happened, maybe since we got the chance to sit down last in May.
-The first that I can think of is the massive position that Berkshire has — has developed and grown in Alphabet — in Google shares.
-That's something that a lot of people have looked at and said, OK, this is Greg's mark on how he's going to be changing the portfolio. How did the Alphabet position come along?
-WARREN BUFFETT: I initiated it.
-I mean, I normally wouldn't give you an answer on something like that, but I will because — but we — I am not doing anything that he doesn't approve of. He's not doing anything I don't approve of. We talk all the time.
-He's, you know, he's — well every day, I mean. And — and — but it — he is the decider.
-And getting back to Alphabet, or Google, it's probably number five or six.
-BECKY QUICK: Well, I thought it was number three if you consider the 10 billion dollar private placement that would go along with that, because that would put it north of 31 billion dollars.
-WARREN BUFFETT: Yeah, but we — we've got — we've got the Burlington Northern railroad —
-BECKY QUICK: OK.
-WARREN BUFFETT: — which is certainly worth far more money than that.
-BECKY QUICK: OK, so you're counting — you're counting fully owned companies.
-WARREN BUFFETT: Absolutely. You know, I mean, we are always making the choice between whether we'll buy marketable securities or the company. We look at them the same way.
-There's — there are some minor exceptions to that. We can't — we can't set dividend policy, for example, if we don't own it.
-But the chances of those being material — the important thing is to buy a good business and to buy it on the right terms, and to get the right person to run it.
-BECKY QUICK: OK, but you've quickly grown a north-of-thirty-billion-dollar investment in Alphabet. That puts it, in terms of those companies that you own pieces of, behind only Apple and —
-WARREN BUFFETT: American Express.
-BECKY QUICK: And American Express. So Coca-Cola would be smaller. Bank of America would be smaller.
-WARREN BUFFETT: Well, it's — it's kind of close, and — and it—
-But — but if you take Coca-Cola, which we've owned, you know, 45 years, whatever it may be — you know, we — we don't have a thing to do with running that business, and — but it's a very good business.
-And I — when I say a very good business, I mean something that you can expect to own, earn high returns on capital, over a long period of time.
-Now the question is, when you get into Google, is — or any of the AI companies — you're putting out huge amounts of money. And I can put huge amounts of money into government bonds and get, you know, 20 or 30 or billion dollars a year, in terms of payments from them.
-So, a good business is one that earns a lot more than — than — and has prospects of continuing to earn a lot more than the — the returns on — on essentially riskless investments, which you could define as Treasurys.
-But if you take something like American Express, you know, there are — most of the banks earn 13, 14 percent on — on capital.
-If I asked everybody to guess what American Express would — they would — they would — they would come up with some figure similar. But it's so different that it earns 30 percent-plus on capital, and does not incur more risk in doing so than the banks that earn 13 or 14 percent.
-And the — the trick in life is to find —I mean, in investing — is to find businesses that are going to earn high returns on capital for an extended period of time.
-And that's what happened with — with Berkshire for a long period of time.
-A long period of time gets to be very important because those doubles later on are of very big numbers.
-But Charlie — Charlie Munger — my partner for many — for decades — he just — he just pounded the idea that it wasn't a good business just because it — it was doing sexy things, or whatever it might be.
-But if it wasn't earning real cash that it would — or be expected to do it in a very short period of time — and — and to be able to distribute it if it wanted to — better yet, if it could reemploy it as a business — it was even better than one that had — had the ability to earn high returns, but you couldn't deploy the excess capital of those returns.
-BECKY QUICK: OK, let me ask you, though.
-Forever, people have thought of you as somebody who doesn't invest in technology. And by the way, you've described yourself as somebody who doesn't invest in technology.
-Obviously, the biggest position in the Berkshire portfolio is Apple, a position that you put on. But at the time, you called that a consumer company.
-Google, you just called an AI company. So what happened?
-WARREN BUFFETT: Google — the real question with Google and all of its competitors now, because they're all laying out hundreds of billions. I mean, they —
-BECKY QUICK: They're big capex spenders.
-WARREN BUFFETT: So they — and yeah — and that — and that's real money.
-I mean, that's — if our railroad were to lay out 300 million — or billion — or 200 billion, you know, that — that kind of money wasn't even put in the railroad business, you know, in terms of developing it.
-So — and — and they are — that's the game they're — they're playing now. They weren't playing that game with — with computer software.
-BECKY QUICK: No, so when they were asset light, you didn't like them, and the markets loved them. Now that they are —
-WARREN BUFFETT: I made a mistake.
-BECKY QUICK: — spending heavily on capex, a lot of shareholders don't like them as much, because they don't —
-WARREN BUFFETT: I think they're more likely to be a winner, based on their record, than — than probably 90 percent or — or 95 percent of what gets merchandised through Wall Street, because Wall Street is just interested in whether they can sell something.
-And I can't recall a report on Wall Street that really gets into the internal rates of return that a business is actually earning. That — what's more important than what a business is earning?
-But they ask all these questions about what'll happen next quarter, or you know, or it's just — it's ridiculous.
-But, you know, investing is — is coming up with —
-Well, probably the — close to the most successful long-term investor was — was Rockefeller. And — but look at what oil and gas has done over 150 — or a couple of hundred years.
-So he kept compounding at a very good rate. Not as good a rate as GEICO would have achieved in its early years, because it's easier to do when you're small.
-Getting to do it when you're large is — you got the whole world looking at you, trying to figure out how — (laughs) — how — how come those guys are doing it and we're not doing it?
-BECKY QUICK: Why do you like Alphabet above all others, and what made you initiate this position? What was the eureka moment?
-WARREN BUFFETT: I — I would say that I don't like it as well as at least four or five other businesses that we own.
-BECKY QUICK: Other than Apple, the railroad?
-WARREN BUFFETT: Well —
-BECKY QUICK: American Express?
-WARREN BUFFETT: You're not going to get the whole portfolio out of me — (laughs) — but — and of course —
-BECKY QUICK: But you like it enough it make it a huge position.
-WARREN BUFFETT: I like — I like Berkshire that way. I mean, Berkshire earned high returns on capital without — without — I'm not talking about using the tricks of leveraging or that sort of thing — I'm — and all that.
-BECKY QUICK: But I'm talking about why Alphabet versus the other Magnificent Seven, or the other, you know, hyperscalers, who are doing the same thing, spending a lot of money —
-WARREN BUFFETT: Yeah.
-BECKY QUICK: — Amazon, Microsoft, whoever it may be — to try and win in this position of AI?
-WARREN BUFFETT: Yeah. Well, I don't want to sit around knocking the others. They don't have any choice. You know —
-BECKY QUICK: To spend like this, you mean?
-WARREN BUFFETT: Yeah. They're now playing a game, in many cases, where they — or in some cases — where they're playing a game they don't want to play.
-IBM would have loved it if they just kept playing the game that IBM was playing in the 30s or the 40s or the 50s and the 60s, you know. And then somebody came along with — and said, we'll get a better result for you, achieving the objective of all the customers you have, because that's all you're going to have is — you either have happy customers or you don't have customers, over time. And the customer is not dumb.
-Wall Street can be very dumb, and in terms of — they — they can dream. But a guy with a grocery store can't dream. I mean, I worked at my grandfather's grocery store, and we saw — well, we had one store in 1869 and we had one store in 1969 — (laughs) — and — and other people were earning high returns on capital, some on a national scale. A&P, which people don't associate with anymore, in the 1930s, I mean, they were — they were number one — enemy number one — of trustbusters in — in Washington. And they — they had a very, very, very good hand, and that hand disappeared.
-BECKY QUICK: So it's a different game.
-WARREN BUFFETT: Yep.
-BECKY QUICK: And you like this game? You understand this game more than you understood the game they were playing before? Is that what you're saying?
-WARREN BUFFETT: Yeah, well, there's all kinds of games I don't understand. Sure.
-BECKY QUICK: Yeah. But this game —
-WARREN BUFFETT: Why — why should I expect to make money in all kinds of things I don't understand? And —
-BECKY QUICK: But that's what I'm getting at. What do you understand about this game at this point? Because most people would say he's never going to buy any technology stocks, and I think you've said the same thing yourself in the past.
-WARREN BUFFETT: Yeah, but I've done it. And actually, one of the most successful companies I was associated with, going back to 1958.
-BECKY QUICK: Right.
-WARREN BUFFETT: We started a company called Data Documents. We started Data Documents because a couple of pals of mine read in the paper that IBM had settled a antitrust suit by divesting. They had to divest 50 percent of the capacity of what was their best business. And everybody knew it was their best business.
-Now, it so happens it ran out after 10 or 15 years, and I — I knew some of the people that caused it to run out.
-But if you have a wonderful business, you are going to be subject to attack. So you — it's not a question of whether it was wonderful yesterday. It's — it's — the question is: how long is it going to be wonderful?
-BECKY QUICK: But that's what I think I love. People can try and pigeonhole you and say they know who you are and what you do. To me, it looks like you're 95, turning 96 next month, and you are still changing and following the game.
-WARREN BUFFETT: Well yeah, but it's easier for me — if somebody came along — I'm just trying to think of what it might be — better candy — that would have more predictive value to me than if they came along and had a better way of — of doing something that a hundred of their competitors would sneak in the — in the plant at night to see how — exactly how they got it all done.
-5. 45:48 - Apple faces tough competitors
-BECKY QUICK: Let's talk about your largest position, Apple.
-You told us that you were thrilled with everything that Tim Cook had done. I don't know how well you know [incoming CEO] John Turnus at this point, or what you think the company's doing.
-You still have a lot of faith in Apple?
-WARREN BUFFETT: Well — I — there was no move they could make, that would replace Tim, that I would have liked. (Laughs)
-I mean, you know, if you got somebody, you know, Stradivarius playing the violin for you, I mean, don't — don't spend the next 300 years looking for another one. I mean, you've got one already.
-And — and of course, Wall Street thrives on the idea that convincing you that — that — that if you just listen to them, they've got something that nobody else has. Well — which can't be true. I mean, it's ridiculous.
-But — but it works because — well, in general, it works because the — America has been a wonderful place to invest money. And the Dow industrials, when I bought my first stock, had just crossed a hundred — 100 — and now it's 52,000 or something — and you've got dividends in between and all kinds.
-Well, I mean, the village idiot — (laughs) — could have made it from that point forward. And so I've been in the right game.
-If I'd been in — in wheat speculation, I mean, wheat — wheat's gone from, you know — I don't know whether it's gone from three dollars to five dollars, or something, over 200 years. And it — it's a pretty — it's a very simple business, as long as you keep remembering that it's simple and that making it complicated can — can — well, it's just crazy. At that point, you're gambling.
-BECKY QUICK: But do you still like Apple?
-WARREN BUFFETT: And the people — people's enthusiasm for gambling is enormous.
-BECKY QUICK: You've talked about that —
-WARREN BUFFETT: Yeah.
-BECKY QUICK: — over the last many years, probably since COVID.
-But you still like Apple? Back to the point.
-WARREN BUFFETT: Yeah.
-BECKY QUICK: Yeah.
-WARREN BUFFETT: Yeah.
-And I know more about Apple than I knew many years ago. But on the other hand, if you're — if you're Apple, you've got very, very smart people all over the world shooting and trying to figure out how to make sure that — that Apple's future — the future isn't as bright as the past.
-And look at — look at the car companies. I mean, Henry Ford owned the car business for 30 — for 20 or 25 years, and he — he did — he brutally integrated like you cannot believe. He got — drove costs down. He got the cost of the Model T down, I think, to $285. And he always was decreasing prices while increasing wages.
-BECKY QUICK: Right.
-WARREN BUFFETT: So he was — he was — but he also was a little nuts in some ways, and — and that did him in, finally, when he — when he converted over the Model A, and General Motors just came racing by.
-And — and my friend Charlie Munger thought that General Motors was the — was going to be the dominant company. Who could imagine attacking their dealer fleet and everything they had going for them? And — and — you know.
-You've always got somebody shooting at you.
-BECKY QUICK: To that point, Apple brought a lawsuit against OpenAI just last Friday night — just last week — and basically accused OpenAI of trying to steal trade secrets.
-WARREN BUFFETT: I would say most — most companies would love to try steal trade secrets. They wouldn't love getting caught.
-But if you really could dig deep into the hearts of managers, they'd like to steal secrets. (Laughter)
-Wouldn't you? I mean, if you had a business and you were struggling along, and the guy next door was making money?
-I — I had a half interest in a Sinclair filling station at 30th and Redick in Omaha when I was in my early 20s, and I'd been to business school and knew all these things. The guy next door had the Phillips station and he was pumping 30,000 barrels — 30,000 gallons — a month, and we were pumping 15,000 gallons a month.
-So I said we're going to wipe this guy off the face of the earth. And you know, a couple years later, we were selling 15,000 and he was selling 30,000 and we gave up, and we closed up. And I think he's still operating.
-It's — people are playing for keeps in business.
-6. 50:40 - IRS sues Coca-Cola over taxes
-BECKY QUICK: Yeah.
-We talked about Coca-Cola briefly, the long-time position you've held for more than 45 years.
-There is a major lawsuit —
-WARREN BUFFETT: Yeah.
-BECKY QUICK: — with the government that could look at action, I believe, going all the way back to 1996 with Coca-Cola. The government — the IRS — has said that they owe them —
-WARREN BUFFETT: Yeah, it's 20 —
-BECKY QUICK: Twenty billion dollars, roughly.
-WARREN BUFFETT: Yeah, of which they paid —
-BECKY QUICK: I think they put 10 billion something —
-WARREN BUFFETT: They made a deposit of close to 10 billion.
-BECKY QUICK: But we — we're going to hear about whether — the activities in this has to do with overseas — their overseas business — just some of the accounting that goes back and forth.
-Coca-Cola says that they thought they had an agreement in 1996 that stood, with how they should behave. The government's now looking for more money and saying that's not the case.
-It's not just Coca-Cola that's riding on this, though. There's a lot of other American businesses who are doing the same thing.
-WARREN BUFFETT: Well, a huge number, which is why the derivative effects of the suit could be the biggest in American history.
-BECKY QUICK: What do you think of this? And with the understanding that you are a Coca-Cola shareholder, a large Coca-Cola shareholder, was this an overzealous government looking for ways to raise more money? Was this a company that performed badly — or that behaved badly?
-WARREN BUFFETT: I — you know — I've got a dog in that fight, so — (laughs).
-BECKY QUICK: So you don't want to —
-WARREN BUFFETT: So no, that's why we have courts.
-BECKY QUICK: Yeah. So you'll wait and see what happens with it.
-WARREN BUFFETT: Yeah. No —
-BECKY QUICK: I take it you're watching this closely?
-WARREN BUFFETT: Yeah.
-Paying the extra money won't break Coca-Cola any more than anything I can think of would break Berkshire. I mean, I — I look at — all I think — do — is think about the downside. The upside will take care of itself.
-BECKY QUICK: Right.
-7. 52:25 - New Fed Chairman Kevin Warsh "will do the best he can"
-BECKY QUICK: We also have a new FOMC chairman, Kevin Warsh, who is taking a look at the economy this week. He's going to be — or is speaking to — in front of Congress.
-A lot of questions about what he'll do with the markets — what he'll do with interest rates, and what that, in turn, means to the markets.
-You, in the past, have spoken about how interest rates are gravity, and it determines where stock market prices are headed.
-WARREN BUFFETT: Right.
-BECKY QUICK: So, what do you think happens? What are you betting?
-WARREN BUFFETT: I don't know what he'll do, but I would say that — that job is so complicated. I think the other day he was quoted as saying, you know, that they have 950 economists where they could use about 10.
-I admire him for taking on the job. I think he will do the best he can at achieving the job he was assigned to do, which is, you know, 2 percent inflation while maintaining maximum employment.
-And my guess is that — that just like some of the others that have preceded him, not all of them, but — but he would read that every morning, you know. I mean —
-BECKY QUICK: The dual mandate of the Fed.
-WARREN BUFFETT: The dual mandate.
-And he doesn't — he — he knows he can't be perfect at it. And just like I know I couldn't be perfect at taking people's money and earning super returns on it.
-But my guess is that people were right in realizing that I cared about what happened to their money. And I — I would say that — that Warsh has — he cares about the country.
-BECKY QUICK: OK.
-WARREN BUFFETT: And I think that's been true of a good many. It doesn't mean their decisions are always great, but — because sometimes the decisions are so tough. I mean, imagine Paul Volcker getting you know death threats all the time.
-And — and others just think they know more than they do.
-BECKY QUICK: But you think Kevin knows a lot and is —
-WARREN BUFFETT: I think he's a very — yeah — I think he was a good choice.
-BECKY QUICK: OK.
-WARREN BUFFETT: Which probably means the president will be mad. (Laughs)
-Future presidents will be mad at him because future presidents are looking at the next election, and he's not supposed to be looking at the next election.
-BECKY QUICK: Right.
-8. 54:42 - "It's tough to find values when everybody is preferring gambling"
-BECKY QUICK: You, obviously, don't come out and make calls on where the market's headed at any point in time.
-WARREN BUFFETT: No.
-BECKY QUICK: But you do make calls on market behavior and what makes sense to you and what doesn't.
-Do you think the markets make sense to you when there's so much riding on AI?
-Earnings have been very strong. The consumer looks like it's held into this point. But how do you view it?
-WARREN BUFFETT: Well, I think there are — there are times when opportunities are just thrown at you so fast you can't — you know — it's unbelievable.
-And then there's other times when you're very, very lucky if you find one thing in a couple of years.
-And — and — it should always be that the — the latter is what prevails.
-But — but since humans love to gamble so much, there's more money in — in actually cultivating gamblers than there are cultivating investors.
-If — if somebody bought Berkshire 40 years — you know — 50 years ago, a guy would have made one commission. (Laughs)
-And — and he should spend the rest of his time telling the client, "Don't do anything with it."
-And that's just not the way — we can't expect that of humans.
-But every now and then you do find people that — I mean, you find people who behave far better than other — other people.
-BECKY QUICK: Fair to say, though, it's tougher to find values or find cheap opportunities —
-WARREN BUFFETT: It's — it's tough to find values when everybody is preferring gambling.
-BECKY QUICK: Yeah.
-WARREN BUFFETT: And from the standpoint of the state — we may have discussed this — but from the standpoint of the state, it's — it's sort of disgusting because the state needs money for all kinds of things, roads, schools, you name it, and they have found that they can clip people who are buying nothing but hope, selling them a payout, something with a payout ratio of 60 percent or something like that, and — and if they weren't doing that, they'd have to have the income tax higher.
-BECKY QUICK: Right.
-WARREN BUFFETT: It's a cynical sort of activity. And I think the less you get cynicism between the governing body and — and the people — the government — you — you don't want to — you don't want people to be cynical about their system.
-But there's times when the system says, you know, just be as cynical as you want because this is what I'm going to do, baby. (Laughter)
-9. 57:06 - Buffett has great faith in Greg Abel
-BECKY QUICK: Let's go back very quickly — you touched on this — part of the reason that you want the shares given out over the next eight years is because you want your kids making these decisions.
-But the other part is that you don't feel like you necessarily have to hold on to these voting shares of Berkshire for as long, because you have faith in Greg.
-WARREN BUFFETT: Yeah, exactly.
-And if we didn't — if we didn't have faith — well, part of the reason I'm around is because we didn't have sufficient faith in anybody. And we knew all kinds of people. But I mean, if you were talking about Tom Murphy, I mean, if I could have hired Tom Murphy —
-But the trouble was they were all older, and all my friends were pretty much older. So I — I — I didn't.
-It wasn't like I was in college and I could see who really had it, you know, who was writing crib sheets — (laughs) — on their — on their — answers on their shoulder — on their shoe cuffs.
-BECKY QUICK: But you feel that way with Greg.
-WARREN BUFFETT: I — I feel a hundred percent that way.
-BECKY QUICK: Yeah.
-WARREN BUFFETT: Yeah. I've seen him in a lot of situations — a lot of situations.
-I felt that way with Charlie. I felt that way with Tom Murphy. I mean —
-But you know — nobody — nobody expects you to pick out, you know, 25 husbands and have them all work out. (Laughs)
-And just finding one is pretty tough, I mean, that's the right sort.
-BECKY QUICK: Yeah.
-WARREN BUFFETT: And then you make mistakes.
-10. 58:44 - Buffett broke a leg
-BECKY QUICK: Warren, how are you feeling today?
-WARREN BUFFETT: Well, I — you know — I broke a leg — (laughs) —
-BECKY QUICK: What happened?
-WARREN BUFFETT: — a few weeks ago. So — which is really — you know — I've been very lucky on that sort of thing.
-I haven't broken a leg in — in my life until now. (Laughs)
-But — but — I — I feel good. I'm glad I was born.
-BECKY QUICK: Yeah.
-WARREN BUFFETT: And I'm glad I wasn't born in some other country. And I was glad, initially, that I wasn't born female. And — I mean, all kinds of things.
-I mean, I — I really won the lottery when I came out.
-And other people think they won the lottery if they've got a trust fund set up for them that takes care of them for their whole life, and, you know, five generations thereafter.
-But — but I just wasn't raised that way, and I think it's a good thing I wasn't, and I haven't raised the kids that way — or more important, Susie didn't raise them that way.
-BECKY QUICK: Great. Well, I want to thank you for your time today.
-WARREN BUFFETT: Well, thank you.
-BECKY QUICK: I appreciate it.
-WARREN BUFFETT: And we're interested in business. (Laughter)
-BECKY QUICK: Thank you.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Yahoo Finance video: Everyone wants quick money. Warren Buffett says that's the problem.
-BERKSHIRE STOCK WATCH
-Four weeks
-12 months
-BRK.A stock price: $736,000.00
-BRK.B stock price: $490.91
-BRK.B P/E (TTM): 14.61
-Berkshire market capitalization: $1,058,643,311,348
-Berkshire Cash as of March 31: $397.4 billion (Up 6.5% from Dec. 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $380.2 billion (Up 3.0% from Dec. 31)
-Berkshire repurchased $234 million of its shares in Q1 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Jul. 17, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of March 31, 2026, as reported in Berkshire Hathaway's 13F filing on May 15, 2026, except for:
-- Alphabet, which includes the $10 billion in shares that Berkshire agreed to buy directly from the company, as announced on June 1, 2026. Berkshire has not yet formally disclosed whether the transaction has been completed. The entry is a combination of Class A and Class C Alphabet shares. The market price is a weighted average of the prices of the two classes.
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@nbcuni.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(これはウォーレン・バフェット・ウォッチのニュースレター、ウォーレン・バフェットとバークシャー・ハサウェイに関するニュースと分析です。ここからサインアップすると、毎週金曜日の夜に受信箱で受け取ることができます。)
-バフェット氏のCNBCインタビューで判明した2つの予期せぬ事実
-ウォーレン・バフェット氏は、ゲイツ財団への今後の寄付を打ち切ることを公に明らかにした当日、CNBCのベッキー・クイック氏との1時間近くのインタビューで、その決定においてビル・ゲイツ氏とジェフリー・エプスタインとの関係が果たした役割を軽視した。
-同氏はまた、グーグルの親会社アルファベットにおけるバークシャー・ハサウェイの現在300億ドルのポジションを自分が開始したことも明らかにしたが、これはグレッグ・エイベル氏にとってCEOとしての最初の大規模な投資決定だと多くの人が考えていた。
-バフェット氏：ゲイツ氏とエプスタイン氏の関係は「不快」だが誰でも間違いはある
-ウォーレン・バフェット氏は、ビル・ゲイツ氏と悪名高い性的人身売買犯ジェフリー・エプスタイン氏との関係を「不快」だと感じたが、マイクロソフト共同創設者の財団への今後の寄付をやめるという決断は、彼の3人の子供たちが責任を持って「巨額のお金」を寄付できるようになったということを示したことがきっかけだった、と述べた。
-同じ20年間で、彼はゲイツ財団に寄付当時の価値で約480億ドルのバークシャー株を寄付したほか、スージー・バフェットのシャーウッド財団、ハワード・G・バフェット財団、ピーター・バフェットのノボ財団、そして亡き最初の妻にちなんで名付けられたスーザン・トンプソン・バフェット財団にも約180億ドルを寄付した。
-同氏はベッキーに対し、「難解な場所やあらゆる種類の場所で」巨大な建物を建設したり会議を開催したりすることなく、「子供たちが効率的にお金を寄付したいと本当に望んでいるという事実に感銘を受けた」と語った。
-バフェット氏は、ゲイツ財団への寄付を始めた2006年には、自分の子供たちに対して同じような信頼を持てていなかった、と語った。
-ベッキーはCNBCとの3月のインタビューで、ジェフリー・エプスタインのファイルでゲイツとのつながりが明らかになったのを踏まえ、ゲイツ財団に毎年寄付をするという「生涯」の決意を続けるつもりかと尋ねた。
-その時、彼はこう答えた。「何が起こるか見てみるよ…今日その決断を下す必要はない。そして今日は決断していない。」
-「私は何年もの間、何かについて知らなかったことを学びました。」
-現在バフェット氏は、ゲイツ氏の先月の議会証言や、おそらくは財団職員との面会でゲイツ氏が「ロシア人女性と2度不倫していたことを認め、それが後にエプスタイン氏に発覚したが、それらにはエプスタイン氏の被害者は関与していなかった」という2月のウォール・ストリート・ジャーナル紙の報道も含め、この問題について「かなりの量」を読んだと述べている。
-バフェット氏の評価：「不愉快なことではあるが、彼が間違いを犯した一方で、私はあらゆる種類の人を雇ったり、友人を選んだりする際に間違いを犯し、その後、彼らが――何らかの形で――私が思っていたような人たちではなかったことが後でわかった。だから、そこには私が目に見える範囲を超えたものは何も見つけられなかった――私は自分がやっている姿を想像することができた。」
-バフェット氏は3月、エプスタインファイルに関する「全容が明らかにされて以来」ゲイツ氏と全く話をしていないと述べた。
-もうそんなことはありません。バフェット氏はベッキー氏に、ゲイツ氏が数週間以内にオマハに来て「一緒に3時間話し合った」と連絡を維持するために「私に電話するつもりだ」と語った。
-バフェット氏は今週発表する前に、「ある時点で」ゲイツ氏に年間寄付をやめるつもりだと伝え、ゲイツ氏はこの決定に「OK」していると述べた。 「素晴らしい友情でした。」
-ビル・ゲイツ氏は代理人がＣＮＢＣに電子メールで送った声明で、「ウォーレン氏は史上最も偉大な慈善家の一人であり、親愛なる友人だ。彼の知恵、寛大さ、そして深い目的意識が彼の人生と慈善活動の両方を定義づけた」と述べた。
-ゲイツ氏は、バフェット氏の「前例のない支援」が何百万人もの命を救ったと信じている。 「ウォーレンへの感謝の気持ちは計り知れません。一緒に過ごした時間を大切にしています。これからもっと楽しい時間が過ごせることを願っています。」
-バフェット氏が株式寄付のペースを上げている理由
-同時に、バフェット氏は慈善活動への寄付の宛先を変更しており、寄付のペースも加速している。
-ゲイツ財団と4つの家族財団の両方に対する彼の以前の慈善計画では、バークシャー株の価格が上昇したため、寄付の金額は通常前年よりも高かったにもかかわらず、毎年寄付される株式の数は減少しました。
-今後、同氏は「約8年以内にバークシャー株をすべて処分」できるよう、毎年より多くの株式を贈与する予定だ。その理由の一部は、そのお金の使い道を決めることになる彼の子供たちが「残念ながら高齢になっている」ためだ。
-バフェット氏は、自分の子供たちがこれから大変な仕事に就いていることを認めています。
-同氏はまた、グレッグ・エイベル氏がバークシャーの経営陣に就くことで、自分とその家族が会社の経営権を早期に手放すことに安心していると述べ、なぜ最初の妻の名前にちなんで名付けられた財団が、彼の3人の子供たちが運営する財団よりも多くの株式を取得するのかを説明した。
-バークシャー・ハサウェイ株は、バフェット氏が売却を加速するとの火曜日のニュースを受けて当初下落したが、その後回復し、若干安で週を終えた。
-バフェット氏、アーベル氏の承認を得てアルファベットへの大規模投資を「開始」
-火曜日のインタビューでの最大の驚きは、バークシャーによるグーグルの親会社アルファベットへの巨額投資の責任者がバフェット氏であると暴露したことだった。
-昨年の第3四半期に約43億ドルの株式を購入し、今年の第1四半期に115億ドルを追加した後、バークシャーはAIへの野望に資金を提供する大規模計画の一環として、アルファベットから直接株式を購入することでさらに100億ドルをアルファベットに投資した。
-バフェット氏が長年にわたり、ほぼ常にハイテク株を避けてきたことを考えると、私を含む多くの観察者は、アルファベットをバークシャー最大の株式保有株の一つにしたのは、新CEOのグレッグ・エイベル氏が投資の筋力を鍛えた結果だと考えていた。
-バフェット氏は「それは間違っている」と述べ、「私が始めたのだ」と語った。
-彼は続けて、「私は（アベルが）認めないことは何もしていない。彼も私が認めないことは何もしていない。私たちはいつも話し合っている…だが決定者は彼だ」と語った。
-アルファベットはAIインフラに「巨額の資金を投じ」ており、「（株は）私たちが所有する他の少なくとも4、5の事業ほど好きではない」にもかかわらず、バフェット氏は「その実績に基づくと、おそらくウォール街を通じて商品化されるものの90パーセントか95パーセントよりも、彼らが勝者になる可能性が高いと思う。なぜなら、ウォール街は彼らが何かを販売できるかどうかだけに興味があるからだ」と述べた。
-バフェット氏は火曜日のインタビューで、バークシャーのポートフォリオにアルファベットを以前に追加しなかったことは「間違い」だったと改めて認めた。
-2017年のCNBCインタビューでバフェット氏は、バークシャーのGEICOが同社から大量の広告を購入していたため、Googleの潜在的な利益について知っておくべきだったと認めた。
-バフェット氏はアップルに対して強気を維持
-バフェット氏はティム・クック氏が760億ドルでバークシャー最大の株式を保有するアップル社のCEOを辞任することに失望しているが、それでも株価には満足している。
-ウォーシュ氏、新FRB議長として「最善を尽くす」
-バフェット氏はケビン・ウォーシュ氏が新連邦準備制度理事会議長に「良い選択」だと考えているが、「人々のお金を集めて超リターンを得るという点では私も完璧になれなかったのと同じように、彼も完璧には出来ない」としている。
-それでも「彼は２％のインフレと最大雇用の維持という自分に課せられた仕事を達成するために最善を尽くすだろう」と述べた。
-バフェット氏、金融市場における「ギャンブル」に再び警鐘を鳴らす
-バフェット氏は金融市場で「ギャンブル」が多すぎることを依然として懸念している。
-「誰もがギャンブルを好む中、価値観を見つけるのは難しい」と彼は言う。
-「人間はギャンブルが大好きなので、実際には投資家を育てるよりもギャンブラーを育てるほうが多くのお金が入ってきます。」
-「足を骨折しました」
-インタビューが終わりかけたとき、ベッキーはバフェットにその日の気分はどうだったか尋ねた。
-「数週間前に足を骨折しました」と彼は答えたが、何が起こったのかについては詳しく説明しなかった。
-足の骨折は「今までの人生で初めて」だったので、「そのようなことに関してはとても幸運だった」。
-バークシャーの自社株買いが本当に戻ってきている
-バークシャーの第1四半期の自社株買いは比較的小規模で、公開プレビューでは2億3,400万ドルであったが、2年間の休止期間を経ての一度の再開ではなかったようだ。
-本誌は、バークシャーが第２・四半期に５０億─１１０億ドルの自社株を購入したと推定している。
-これはバフェット氏が今週SECに提出した財団への贈与に関する大まかな計算に基づいており、同氏のクラスA株18万8,920株（拠出後）はバークシャーの発行済株式全体の13.2％に相当することが明らかになった。
-本誌は、自社株買いがいつ行われたかをまだ正確に把握しておらず、バフェット氏の所有割合が小数点第1位で表示されているため、推定される自社株買いの範囲はかなり大きいとしている。
-バークシャーが来月初めに第2四半期決算を発表する際に正確な数字が分かるだろう。
-1時間のインタビュー全文
-1. 00:00 - バフェット、ゲイツ財団への寄付を停止する決定について語る
-ベッキー・クイック: ウォーレン、まず第一に、今日は座って話してくれてありがとう。それは有り難いです。
-ウォーレン・バフェット: 座っているのはいつでも良いことです。 (笑)
-ベッキー・クイック: はい、私も同じことを見つけました。
-最後に私たちが座ってあなたと話をしたのは、2回前の3月だったと思いますが、あなたが慈善活動で何をしているのかについて話をするためにあなたと座ったとき、あなたは、ビル・ゲイツとエプスタインファイルについて何が明らかになるのか、何が起こったのかを見て待っているつもりだと言ってました。
-何をするかは決まっていないと言っていましたね。
-今日あなたは、3人の子供たちの財団であるスーザン・トーマス・バフェット財団への寄付金を増額するとのリリースを発表しましたが、現時点ではゲイツ財団への寄付は何もありません。それはあなたの決断ですか？
-ウォーレン・バフェット: その通りです。それは正しいです。
-しかし、それを解釈する際に、私はビルとエプスタインに何が起こったのかという点で、1月1日以来かなりの量を読んできたことを指摘したいと思います。私はビルとエプスタインに何が起こったのかについて、議会での宣誓の下で行われた彼の発言を読み、反対尋問も読みました。不愉快ではありますが、彼は間違いを犯しましたが、私はあらゆる種類の人々を雇用したり友人を選んだりする際に間違いを犯し、その後彼らが、何らかの形で、私が思っていたものではなかったことが後でわかりました。
-そして、そこには私が目に見える範囲を超えたものは何も見つかりませんでした。私がやっている自分の姿を想像することができました。
-そしてご存知のように、彼はそれを終わらせました。そして、私が人について間違いを犯したり、人々が私について間違いを犯したと感じたりする状況があったことがあります。
-しかし、彼らは――ご存知のように――人生は続いていくし、そして――そして誰も――人を選ぶという仕事で1,000点を達成する人はいない。
-ベッキー・クイック: あなたは雇用の決定について話していて、おそらくあなたが誰と関係しているのかについて話していますが、確かにこれらのファイルのリリースで明らかになった、それに関して疑わしい決定がいくつかありましたが、その他にも、ご存知のとおり、個人情報もありました。
-ウォーレン・バフェット: そうですね。いいえ、彼はそれを認めました。
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: そうですね。いいえ、そこでも、私はこう言いたいと思います、ご存知の通り、私は何人かの素晴らしい人々を知っていますし、今でも何人かの素晴らしい人々を知っています。
-彼らがすべての決断を正しく下したとは思えません。
-ベッキー・クイック: それで、それがあなたの意見なら、なぜゲイツ財団にもう寄付しないのですか?
-ウォーレン・バフェット: そうですね、私は自分の状況全体を再評価しました。
-それは私が20代の頃からそうしてきたのと同じで、スージーと私は結婚しており、実際にはお金がありませんでしたが、私たちは元気に暮らすつもりで、家族を持つつもりでした、そして—しかし、私たちは6軒の家や500フィートのヨットなどを持ちたいという願望を持っていませんでした。
-それで、それでも私たちは慈善活動として何をするかについて話し合いました。しかし、私の考えと信念は、私は社会一般よりも良いレートでお金を複利化し、スージーはそれを寄付している99.9パーセントの人々よりも良いお金を寄付し、彼女は個人的に贈り物に関与するだろうということでした。一方、私は卸売で物事を行うのが好きで、彼女は小売りをするのが好きでした。
-それで計画はあったのですが、お金がありませんでした。そして時間が経つにつれてお金がたまり始め、彼女は「私たちはもう金持ちになったの？」と言うようになりました。そして私はこう言います、「いいえ、でも、私たちは近づいています。」
-しかし、私は急いで何かをすることはありませんでした。作業を進めながら、いくつかの小さなことを行いました。やったよ。
-人類にとって最も重要な脅威は、核爆弾であると私は感じました。それで、私はそのことが起こる確率をどうやって変えることができるかについて、ある種の壮大な計画を頭の中で考えていました。そして、数十年を経て、最終的には、それが成功する確率は 100 分の 1、または 1,000 分の 1 パーセントではあり得ないという結論に達しました。
-そして、ご存知のように、ロングショットに賭けるのは良いことですが、本質的には—
-ベッキー・クイック: それで、計画を変更したのですか？
-ウォーレン・バフェット: それで計画を変更しました。
-ベッキー・クイック: なぜ計画を変更したのですか?
-ウォーレン・バフェット: そうですね、私がここで述べたことのため、計画を変更しました。お金が始まりました — お金が積み上がり始めました —
-ベッキー・クイック: いいえ、でもあなたは計画を変更しました。今計画を変更しました。 2024年、あなたはそれがゲイツ財団への生涯の誓いであると言いました。
-2026年の今、あなたはそうではないと言っています。どうしたの？
-ウォーレン・バフェット: そうですね、何が起こったのかというと、私はゲイツ財団に多額の資金を寄付しました —
-ベッキー・クイック: 総額470億ドルくらいでしょうか？
-ウォーレン・バフェット: そうですね。そして私には何もありませんでした - そしてそれは良い決断だと思いました。妥当な決断だったと思います。
-しかし、私の子供たちが多額のお金を寄付する準備ができているとは決して思いませんでした。
-私たちは始めていました—スージーと私は彼らと一緒に始めました—私たちは彼らに与えたと思います—私たちは彼らにそれぞれ10万ドルを与えたかもしれません。
-ベッキー・クイック: これはこの時点で 30 年前に遡りますか、それともそれ以上ですか?
-ウォーレン・バフェット: その通りです。うん。
-しかし、彼らは成長期の子供たちでした。ご存知のように、彼らには子供がいました、ご存知のとおり、その時までに彼らには自分の子供がいました。
-しかし、それでも、彼らには、その準備ができていなかったように思います。そして私は確かに彼ら全員を平等に扱いたかったのです。したがって、彼らが何かの才能に不平等を持っている場合、それは常に問題になります。
-さて、彼ら全員をミュージシャンにすることはできませんし、彼ら全員を野球選手などにすることもできません。
-しかし、私は慈善活動の分野で、彼らが共通の目標を持ち、莫大な資金を使って、やりたいことをやることがたくさんあると誰もが感じられる方法を彼らの間で解決できることを心から望んでいました。そして私は—を持っています
-ベッキー・クイック: 今日もそうだと思いますか?
-ウォーレン・バフェット: 失礼ですか？
-ベッキー・クイック: 今日もそうだと思いますか?
-ウォーレン・バフェット: その可能性は非常に高いと思います。
-そして、今、この計画に何かが起こる可能性はあるでしょうか?もちろん。つまり、私には 72 歳と 71 歳の子供が 3 人いますが、私の年齢から見てもそうです。
-つまり、この世界では、あなたを変える、つまり変化させるような出来事が起こる可能性があります。
-しかし、私は変わることを期待していません。つまり、私に関する限り、理想的な点に到達しました。
-私たちは――蹴ったのです。そうですね、スージーは 2004 年に亡くなったので、私が彼らが毎年受け取る金額を増額することになりました。そして明らかに、彼らもその仕事に満足しています。
-つまり、自分が向いていない仕事、またはあなたやあなたの意見とまったく異なる仕事に人を押しつけるのは意味がありません。
-つまり、私は世界中の誰よりも尊敬していた父とは異なる人生観を持っていましたが、それでも私が父の教会に加わったわけではありませんし、同じことをしたわけでもありませんでした。そして、彼はその見方を奨励しました。
-彼はそうするだろう――彼はエマーソンの言葉を私に引用するだろうが――そこでエマーソンは、あなたの中にある力は本質的に新しいものであるという趣旨のことを言った。彼は、あなたは特別な人間だと言っているのです。それが何であるかを調べてください。
-そして、私は幸運と状況、そして私自身のかなり目的のある追求によって、非常に若くしてそれを見つけたと思います。
-私の子供たちはそうではありませんでした。彼らは、ほとんどの子供たちと同じように振る舞いました。彼らは、さまざまなアイデアを出し合いました。そして、しかし私は今、彼らがやっているのを見て100パーセント感じています。
-私の息子のハワードは、自分が何をしているのか、なぜやっているのか、それにどれくらいの費用がかかるのかを説明した 100 ページほどの報告書を出版したところです。
-ベッキー・クイック: ハワード・バフェット財団の年次報告書ですか?
-ウォーレン・バフェット: そうですね。そして、それは私が書くことができるよりも優れています。
-彼は — 彼 — 彼には管理責任の感覚があり、 — そして彼はまた、彼ほど幸運ではない人々に対して多大な共感を持っています。
-ベッキー・クイック: では、20 年前の 2006 年にあなたがこの決断を下したとき、あなたは子供たちよりもゲイツ財団を信頼していましたが、今ではゲイツ財団よりも子供たちを信頼していると言っても過言ではありませんか?
-ウォーレン・バフェット: いいえ、金額は違いました。私が彼らを別の意味で信頼していたというわけではありませんが、彼らには対処できる能力があると感じました
-そして、私は子供たちに何かを渡してからそれを引き戻すつもりは決してありませんでした。つまり、そして—
-そしてゲイツ財団は、彼らが予想していたよりもはるかに多くのお金を稼いでいることが判明しました。彼らは私が思いつく限り、世界中の誰よりも多くのお金を使っています。
-ベッキー・クイック: そうだね。彼らは900億ドル以上の寄付金を持っていると思います。
-ウォーレン・バフェット: それはほぼその数字であり、ビルは外部に非常に多くのリソースを持っており、彼はそれを提供するつもりであり、私は、彼らがそこに行くだろうと100パーセント信じています。
-そして私も、ある意味、ビルと同じことをしてきました。私は、私以外は、それを入れるとき、3人の子供たちに、それは彼らのものであり、それをうまくやり遂げるのは彼らの責任であると言います。
-そして、信じられないかもしれませんが、これは本当です。私は彼らが提出するフォーム 990 を一度も見たことがありません。私 — 私は、それぞれの行動をその場で判断しているわけではありません。なぜなら、成功の確率が 10 パーセントか 20 パーセントしかないと考えて行動を起こすからです。投資とは違います。
-ベッキー・クイック: でも、お金の目標は何ですか?そして、あなたは子供たちもあなたと同じような目標を持っているとほのめかしました。
-ウォーレン・バフェット: それは、あなたが想像できる限り、世界はあらゆる種類の不平等な状況にあります。つまり、健康や出生の幸運、あるいはそのようなことを想像してみてください。そして最終的な目標は、ストローが足りなくなった人々の生活をより良くすることです。
-そして、短いストローを手に入れる人々は、私たちが世話できるよりもはるかに多く、そして私の子供たちは特定の分野について私よりも洞察力があるでしょう。そして、私は彼らよりも多くの洞察力を持っています。単に興味や露出の違いだけで彼らよりも優れています。
-しかし、私が確信していることの一つは、彼らは何かをしようとしているし、もっと上手になるだろうということです。そして彼らの余命は私よりも長い可能性が高いです。
-つまり、70年代くらいになると、それが本当に忍び寄ってきます。
-しかし、私はそうしません。世界中で、たとえば 30 歳以下で、それを信頼できる人は思いつきません。
-30歳以下でもあらゆる種類の優秀な人材がいると思います。彼らは将来、社会のリーダーになるかもしれませんし、非常に重要な作家になるかもしれません。あるいはそれが何であれ。しかし、さまざまな状況下で人々がどのように行動するかを観察することには何かがあると思います。
-ベッキー・クイック: 自分たちのアイデアに資金を提供すべきだと考える人々の長いリストから、子供たちはプレッシャーを受けることになるでしょうし、おそらくすでにそうなっているでしょう。
-今日Xでブラッド・ガースナーがトランプのアカウントにお金を寄付すること、他にやるべき素晴らしいことがあるということを示唆する内容を見た。
-ここにお金をつぎ込むべきだと言う多くの人々に何と言いますか、あるいは彼らは何を言うべきだと思いますか?
-ウォーレン・バフェット: 世界に 80 億人がいて、すべての人に平等なチャンスがあるべきだと思うなら、つまり、全員の問題を解決するために 1,000 ドルや 1 万ドルを費やすことができるでしょう。すべての人の問題を解決することは決してできません。
-奉仕するという考え、つまり社会問題を解決するという考えは、私が核兵器を使って始めたものでした。つまり、核兵器に取り組んでいた人は皆、そのようなものをまとめなければならなかったという事実を後悔していました。世界で最も優秀な人々ですが、[魔神]を瓶に戻す方法を決して知りませんでした。
-そして、ご存知のとおり、それは、社会が存在してから最初の数億年間、数百万年間の社会には存在しなかったことでした。
-ベッキー・クイック: でも、トランプのアカウントのように、それらの計画の中にあなたにとって魅力的なものはありますか?それらは子供たちにアピールすると思いますか？あなたは、それとも子供たちに任せて、「自分が理解する」と言いますか?
-ウォーレン・バフェット: それは子供たちに任せます。しかし、私は遺言書にこの条項を持っています。今贈ろうとしているこれらの贈り物ではなく、私の財産の大部分は、たとえ私が増額しているとしても、私の死後に残ることになるでしょう-
-ベッキー・クイック: そうだね。昨日の株価終値に基づいて、あなたが残しているクラス A 株に換算すると、現時点で 1,400 億ドルが残っていると言えます。
-もし、あなたが今年配ったお金は60億ドルです。
-ウォーレン・バフェット: そうですね。上がらなければなりません。
-ベッキー・クイック: そうですね、少なくとも年間175億ドルです、そしてそれはバークシャーがここから行かないと仮定した場合です—
-ウォーレン・バフェット: そうですね —
-ベッキー・クイック: — あなたが言ったように、これを 8 年以内に発行したいのであれば。
-ウォーレン・バフェット: — ちなみに、これはひどい仮定です。つまり、それは現実的な仮定ではありません。
-ベッキー・クイック: 年間175億ドルを寄付するとは？
-ウォーレン・バフェット: いいえ、それは、投資は何も生み出さないということです。
-ベッキー・クイック: ああ、そうです。それで —
-ウォーレン・バフェット: 私は財務省証券の約 5% を受け取っています。
-ベッキー・クイック：そうですね。 2006 年に寄付を始めたとき、あなたの所持金はいくらでしたか?その時点では1,000億ドル未満の話をしていましたよね？
-ウォーレン・バフェット: そうですね。うん。
-ベッキー・クイック: つまり、あなたは 670 億ドルを寄付しましたが、今日の時点でまだ 1,400 億ドルが寄付できることになります。
-ウォーレン・バフェット: それが複利の性質です。
-ベッキー・クイック：そうですね。
-ウォーレン・バフェット: それは私も理解できることの一つです。 (笑)
-他のことはすべて理解できないかもしれませんが、—そして—
-ベッキー・クイック: しかし、175億ドルという金額は、仮に増額されなかったとしても、現在誰かが寄付している金額よりも多い金額です。ゲイツ財団は昨年、なんと 80 億ドルを寄付したのですか?
-ウォーレン・バフェット: ええ、その通りです。そして—
-ベッキー・クイック：それはたくさんありますね。
-ウォーレン・バフェット: そして、彼らはそれを実行しました。彼らは、ご存知のように、そのような資金を持っている数千人の人々を雇用してそれを行いました。ほとんどの財団はそうでしょう。
-そして、私も、子供たちが、お金を使って他のことをするのではなく、本当にそのお金をあげたがっているという事実に感銘を受けました。それで彼らは—
-ベッキー・クイック：自分自身のために使うのではなく、ということですか？
-ウォーレン・バフェット: そうですね、建物やその類のものです。
-さて、彼らがそうなったとき、彼らは成長するにつれてさらに多くの助けを必要とするでしょう。しかし、私は—私は—財団は中間のものを採用していると思います—現在3つあります—
-ベッキー・クイック: そのうちの 4 人は STB (スーザン・トンプソン・バフェット) 財団に所属しています。
-ウォーレン・バフェット: そうですね、STB です。
-まず子供たちを取り上げましょう。なぜなら、子供たちは自分たちが何をしているかについて完全な決定を下すからです。そして、従業員は 11 人から 25 人で、そして —
-ベッキー・クイック: 合計? 3つの基礎の間でしょうか？
-ウォーレン・バフェット: いいえ、それぞれです。
-ベッキー・クイック：それぞれです。わかりました。
-ウォーレン・バフェット: そうですね。そして、それらの経費率は、よりよく知られている機関の経費率をはるかに下回っています。
-ベッキー・クイック: 経費率は 1% に近いか、それ以下ですか?
-ウォーレン・バフェット: 彼らが示したことは、彼らが示したことは、それを遊びのお金とは考えていないことを示しました。
-ベッキー・クイック：そうですね。右。つまり、彼らが手に入れた大部分、ほぼすべてが外に戻ってしまうということです。
-ウォーレン・バフェット: そうですね、実際には最終的にはすべてが終わりますが、—
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: でも、そうだね、そうだね。彼らは、巨大なオフィスビルを建てたり、難解な場所で会議を開催したりするつもりはありません。
-そうするのは何も悪いことではありません。つまり—
-しかし重要なことは、必要なものの100倍を持っている人々が、それを次世代に誰かに渡さないかどうかです。そして、世界の多くの地域では何千年もの間、それが行われてきました。
-ベッキー・クイック: そうですね、あなたは官僚主義があまり好きではありませんね。バークシャー・ハサウェイは、ここ、このオフィスで、ホームオフィスに 25 人かそこらの人々とともに運営されていました。
-ウォーレン・バフェット: 25人です。そしておそらく私たちはさらに成長しました。最後の 2 つまたは 3 つを追加する前に、おそらく 1 対 10 の規模に成長しました。
-ベッキー・クイック: うーん。
-次に進む前に、ビル・ゲイツはこのことを知っていますか? 3月に私たちがあなたと話したとき、あなたは、これらの疑惑が出始めて以来、彼とは話をしていないと言いました。
-彼は先月、つまり6月にこの議会証言を行ったときに同じことを言いました、1月以来あなたとは話をしていないと言いました。
-それ以来彼と話しましたか？そして、これは彼にとって驚きでしょうか？
-ウォーレン・バフェット: いいえ、いいえ、それは驚くべきことではありません。
-そして — そして B)、彼は 3 週間前かわかりませんが、オマハから来ました — それとも — 時間に間に合うかちょっとわからなくなりました — でも確かに、私たちが話してから 3 か月ではなく — 3 か月 — 経ちました。そして、私たちは一緒に3時間話し合って、そして――そして――そして彼は――彼は――私に電話するつもりです。一般的に、電話をかけてくるのは彼です。
-そして、ご覧のとおり、いつでも対応できます。 (笑)
-しかし — 彼は — 彼は私よりもはるかに組織的です、そして — しかし、彼はすでに別の提案をしていました、そして —
-ベッキー・クイック: 別の会議ですか?
-ウォーレン・バフェット: そうですね。そして――そして――彼もそうだが――出会って以来、私たちは膨大な数の楽しい時間を一緒に過ごしてきた――それがいつだったか――1991年は何だった？
-そして、彼は常に自分の分以上のことを成し遂げてきました。常に自分の分以上のことを行ってきました。私が計画を立てたり、実行したりしているのが見えません。
-ベッキー・クイック: 友情という意味ですか?
-ウォーレン・バフェット: そうですね。それは、それは、素晴らしい友情でした。
-そして、ビルと私は重複する事柄に興味があり、話したいことがたくさん見つかります。そして、私たちそれぞれがある程度自分の専門分野を持っています。
-ベッキー・クイック: でも、あなたは彼に 3 回、つまり 3 週間ほど前に会ったときに、ゲイツ財団にはもう寄付しないと言いましたね?
-ウォーレン・バフェット: そうですね、私が彼にいつ話したかは正確には言えません。
-しかし、しかし、ある時点で、私は議会が提案したものを読んでいました。全部読みますよ。
-そして、私に言えるのは、ほら、私はやったことがあるということだけです。私がダンプなことをしたかどうかはわかりませんが、私は人生でたくさんの愚かなことをしてきました。
-つまり、私がしなければならないのは、ポートフォリオを確認することだけです。つまり、私が下した決断の 5 つのうち 4 つは、少なくとも 5 つのうち 4 つは、何も異常なことではありませんでした。しかし —
-ベッキー・クイック: でも、あなたが彼に言ったとき、彼は大丈夫でした —
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: — それは — OK。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: つまり、彼は参加しているんですね。彼にとってこれは何も新しいことではない。
-ウォーレン・バフェット: そうですね。
-ビルは私と違って、多かれ少なかれ、いつ終わるか、つまり自分が死ぬとき、それを終わらせたいと思っていると思う。もちろん、いつになるかはわかりませんが、
-ベッキー・クイック: 彼の財団は？
-ウォーレン・バフェット: ゲイツ財団。
-一方、私は子供たちが私よりもずっと長生きしてくれることを願っており、3人全員が参加することを願っています。そして、3人全員がそうする方が良いと思います。
-でも、それは、自分で決めたわけではなくて、スージーと私が彼らに寄付し始めたとき、おそらく年間 3,000 万ドルに上げたと思います。
-ベッキー・クイック: 子どもたちの基盤に？
-ウォーレン・バフェット: いいえ、実際には —
-ベッキー・クイック：ああ。
-ウォーレン・バフェット: — に対して — しかし — 彼らの基盤に対して。正確な数字は全く覚えていない。
-しかし、私たちが彼らにそれを与えたのは、彼らが他の人のために何かをする意欲があり、場合によっては、ある意味、熱心であることを99パーセント確信していたときでした。
-彼らは良い人生を送ってきました。彼らはしていない — 彼らはしていない —
-そう、彼らはずっと前に誰かが私に教えてくれたルールに従ってきましたが、それは私が称賛することですが、私自身は思いつきませんでした。それは、もしあなたが大金持ちの家族の子供なら、何かをするのに十分な量を与えられるべきですが、何もしないのには十分ではないということです。
-ベッキー・クイック：そうですね。
-ウォーレン・バフェット: そしてそれは、まさにそれが大規模に起こっていることなのですが、しかし、
-ベッキー・クイック: ただ—
-ウォーレン・バフェット: しかし、私は今、それを強化しなければなりません。なぜなら、私の年齢では、確率が私にとって本当に不利だからです。
-つまり、私が最後に書いた遺書は、おそらく私の最後の遺言となるでしょう。私が30歳、40歳、50歳のときに書いていた遺言書は、変わるだろうとわかっていました。
-ベッキー・クイック：そうですね。それについて話しましょう。
-2. 21:23 - 寄付のペースを加速
-ベッキー・クイック: この記事であなたが発表しているもう 1 つのことは、資金が迅速に流出し、株式も迅速に消滅することを望んでいることです。
-この時点までは、あなたの死後 10 年が経ち、株式はすべて慈善活動に寄付されると思っていました。
-あなたは今、8年後の2034年末までにこれらの株式をすべて払い出したいと言っています。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: え、それについて何があなたの考えを変えたのですか、そしてそれは何を意味しますか？
-ウォーレン・バフェット: そうですね、それは確かに、私がすべての慈善活動において、そして特にすべてにおいて、本質的に私のお金の 100 パーセントをバークシャーに費やしたことを意味します。私には 2 つの目的がありました。
-ご存知のとおり、これは私の絵です。そして、私はその絵が好きです。それに関わる人々も好きです。そして、それは時間をかけて洗練されてきました。ここに (inaudible) か何かを追加しました。 (笑)
-そして、私はそれを引き渡せると信じられる人を米国に 10 人も知らないと思います。わかりません —
-ベッキー・クイック: あなたの会社は？自分の会社のことを言ってるの？
-ウォーレン・バフェット: 会社です。
-ベッキー・クイック：そうですね。
-ウォーレン・バフェット: 私は 5 人も知りませんが、たくさんの人を知っています。そして、今私はその人に何を求めているかという点で非常に高い基準を持っています。そして明らかに、私たちは彼をグレッグ・アベルと一緒に見つけました。
-そしてそれは日を追うごとに明らかになっていきます。今年になっても、こんなものが追加されているので、
-ベッキー・クイック: つまり、あなたがグレッグ・エイベルがそうだと思っている限り、その株式を保有し続ける必要も、家族にその株式に対する議決権を持たせる必要もないと考えているのですね。
-ウォーレン・バフェット: 彼が選択です。唯一の疑問は、彼も不死ではないということです。
-つまり、人は常にこの死の可能性についての疑問を抱えていますが、誰もそれから逃れることはできません。つまり、それは—
-人々は驚くほど健康であることもあれば、そのように見えることもあります - そしてあなたも知っています -
-先日誰が亡くなりましたか？彼はそうでしたか —
-ベッキー・クイック：リンジー・グラハム。
-ウォーレン・バフェット: — 71歳とか？
-したがって、幸運から不運まで、非常に多様で変動があります。
-そして私は、それが、グレッグとの賭けでした。
-私には 10 人のリストはありません。つまり、そうではありません。私には 10 人の子供もいません。しかし、たとえ 3 つのリストを持っていません。
-ベッキー・クイック: 会社を誰に任せるかという点では —
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: — この時点で？
-ウォーレン・バフェット: そうですね。
-さて、私には、バークシャー・ハサウェイのコンセプトが好きな監督たちがいます。彼らはそれを続けたいと考えています。
-したがって、私はその選択を仲介する適切なグループを持っています。
-しかし、世の中、物事が常に完璧にうまくいくとは限りません。
-ベッキー・クイック: ということは、あなたの希望は、今から 8 年強、つまり 8 年半後の 2034 年末までに株式が分散されることです。
-でも、もしあなたがここにいなくて、子供たちが選択をするのなら、その時点で子供たちの意思決定に任せるだろうと私は思います。
-ウォーレン・バフェット: そうですね。そして8年後、ご存知の通り、私の娘は80歳になりますが、81歳に非常に近いです。
-ほら、もう一人は70歳になるだろう――
-そしてそれは死亡率だけの問題ではありません。ビー玉を保管しておくのも問題です。ご存知の通り、そして—
-ベッキー・クイック：（笑）
-彼らはあなたがこのように言っているのを聞いたことがありますか？
-ウォーレン・バフェット: そうですね、そうですね、つまり、ビー玉が減りつつあるのですが (笑)、この時点では。
-必要以上に長い間ビー玉を貯めてきましたが、それはただ運が良かっただけです。
-つまり、私は、私たちの会社の多くのマネージャーを見てきましたが、まあ、いくつかの年次報告書で言及したと思いますが、年次総会です。紙人形を切り出す人たちがいて、彼らのアシスタントがそれをカバーしていました。
-ベッキー・クイック: わかりました、ただ、この時点で明確にしておきますが、あなたはこれらの決定を下しているときに正しい考えでこれを言っていますよね?
-ウォーレン・バフェット: そうだといいですね。 （笑）
-でも実際には、私は数年前に遺言書を書いたので、
-そして、私は故意にその意志を変更するつもりはありません。つまり、非常に重要な決定を除いて、私はその意志を変更しません。なぜなら、それを書いたときに私がビー玉を持っていたことに疑いの余地はないからです。
-3. 25:40 - 家族の基盤
-ベッキー・クイック: わかりました、それでは今何が起こっているのか少し話しましょう。なぜなら、これが実際に決定を下しているのは子供たちであるということをあなたは話しましたが、あなたが今発表している発表では、あなたは子供たちそれぞれの基礎、つまり子供たちに与えている金額を約50パーセント増加させました。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: — 去年あなたが彼らにあげたものから。
-ウォーレン・バフェット: でも、私はスーザン・トンプソン財団を増やしましたが、でも —
-ベッキー・クイック: しかし、実際に寄付するもので大きな利益を得ているのはスーザン・トンプソン・バフェット財団です。
-彼らは――彼らは――今年受け取った株の量は昨年の10倍だ。基本的に彼らは、ゲイツ財団に送られるはずだった資金をすべて受け取っているのです。なぜ？
-ウォーレン・バフェット: 彼らは――スーザン・トンプソン・バフェット財団に寄付されるはずだった資金をすべて手に入れている――
-ベッキー・クイック: — それからいくつか。
-ウォーレン・バフェット: — 私の最初の妻が生き残っていたら。
-ベッキー・クイック：そうですね。それからいくつか。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: しかし基本的に、彼らが今年受け取ることになる配当金は、彼らが支払える金額で言えば、45億ドルです。これはゲイツ財団が昨年受け取った金額だ。
-相対的に見て、なぜ STB 財団が他の 3 つの財団よりも多くの貢献をしているのでしょうか?
-誰でももっと多くのお金を受け取ることができますが、なぜその莫大な金額が得られるのでしょうか?
-ウォーレン・バフェット: そうですね、SCB財団は、私の妻が設立し、最初の妻が設立したであろうものであり、私はそれを承認していたと思います。
-つまり、女性の権利や公民権など、もはや質問ですらないあらゆる種類の質問において、私たちは同じ考えを持っていました。つまり、私たちは同期していたのです。
-それが、今の彼女は、みんなの話を聞くことに興味を持ったのです。それはこの世で一番やりたくないことです — (笑) — 私はやりたくないです。
-彼女はすべての個人を個人として見ていましたが、同時にグループとしても見ていました。私は彼らをグループとして見ましたが、私にはもっと魅了されたものが他にもありました。
-ベッキー・クイック: このお金が流れていきますが、これはあなたがこれから目にすることを期待しているものですか?過去何年もの間、感謝祭で、あなたは 3 人の子供たちの財団に追加の資金を提供しました。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック：今年もそれをやるつもりですか？
-ウォーレン・バフェット: はい、ほぼ確実にそうするでしょう。しかし、しかし、それとは関係なく、もう一方は続きます。
-つまり、私が知っているなら、私はそうすることができます、私は、感謝祭の前に死ぬ可能性が、私の3人の子供の誰よりも、そしておそらく3人全員を合わせた確率よりも高いのです。でも — でも —
-しかし、バークシャーの年次報告書で行うのと同じように、私が行動を起こす理由を説明するのも楽しいです。
-私は――パートナーのチャーリー・マンガーが持っていた教訓的な性格を持っていますが、私たちにとって――お金はそうではありませんでした――まあ、実際に他の人々に何ができるかという点で、お金は重要でした。
-それが私にとって何ができるかは重要ではありませんでした。私は人生において自分自身を否定したことはありません。
-ベッキー・クイック: あなたがこれらの決定を下すためにここにいないということが起こった場合、それはあなたが昨年遺言で話した、新しい基盤が作成されるという内容に戻るのでしょうか?
-ウォーレン・バフェット: ええ、新しい財団があります —
-ベッキー・クイック: それで、3人の子供たちが責任者ですか？
-ウォーレン・バフェット: それは、そうあるべきだから、そうあるべきだから、それはわずかな違いがあるからです。 1つは、3人が何をするにしても全会一致で同意することです。
-ベッキー・クイック: STB財団や子供たちの財団は、ゲイツ財団に要求されたように今年度中に資金を支出しなければならないのでしょうか、それとも時間をかけて計画を立てることができるものなのでしょうか?
-ウォーレン・バフェット: 彼らは知っています - 彼らはそれについての私の意見を知っています、しかし彼らは彼らが望むことをすることができます。しかし、もし彼らの欲求が基本原則から十分に離れている場合、あなたはそれをもう一度見てみましょう、しかしそれは起こりません。
-ベッキー・クイック: ウォーレン、あなたは成人してからのほとんどの時間を慈善活動について考えて過ごしてきました。時間の経過とともにあなたの見解はどのように変化しましたか?これで何が起こると思いますか?
-Giving Pledge と皆さんが行ったことについて考えます。現時点でのあなたの見通しは何ですか？
-ウォーレン・バフェット: そうですね、私が持っている視点は 80 億人の人間の中では、世界で最も幸運な 10 人のうちの 1 人かもしれません。 (笑)
-ですから、私は幸運にも健康で 95 歳まで生きてきました。私が幸運だったのは、私に興味を持った分野、そして私に天性の才能があった分野が、たまたまそのような形で報われた分野でした。これほど報われるものはありませんでした。
-私は、偉大なヴァイオリン奏者になれていたかもしれませんが、それ以外のことなら何でもできました。
-私 — それには私が持っている以上の才能が必要ですが、別の形の才能が必要です。そして、幸運なことに、私はかなり早い段階で、部分的に偶然にも、自分がやりたいと思っていたことに触れることができましたが、それは単なる偶然でした。
-もし私の父が配管工だったら、私はそうではなかったでしょう。私は同じような利点を持っていなかったでしょう。
-だから私は信じられないほど幸運でした。そして、人生が進むにつれて、一部の人々がどれほど信じられないほど不運であるかを見てきました。
-そしてそれは運です。つまり、私たちは、子供たちが幼い頃に、子供たちと事故を起こしました。あらゆる種類のことが起こります。そして、それらは私たちには起こらなかっただけです。
-ベッキー・クイック: わかりました、ここにいる間、他のことについていくつか話しましょう。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: 他に言いたいことはありますか?
-ウォーレン・バフェット: ただし、それについてもう 1 つ付け加えさせてください。
-つまり、王や女王やその他すべての考え、その全体が、あなたが「ケーキを食べさせてあげよう」と言いながら、自分の望むように生きる能力を何千年も受け継いでいくのです — (笑) — 残りの人たちには、それ —
-私が世界をデザインするとしたら、それはシステムのあるべき姿ではありません。そして、私にはできません -- 世界のデザインを変えることはできませんが、作ることはできます -- 端を水平にすることはできます。
-ベッキー・クイック: それはあなたの妻、アストリッド、そしてあなたの子供たちも同じ価値観を持っていますね?
-ウォーレン・バフェット: 100パーセントです。そして、アストリッドについて言及してくれてうれしいです。彼女は、この分野ではあなたが想像できるほど極端だと感じているからです。そして、彼女は実際、スージーや私よりも人生の困難を経験しています。なぜなら、彼女はラトビア人で、ご存知のように、エリス島のボートに乗ってやって来たのですが、そして、自分が誰に割り当てられているのか知りませんでした。養護施設で暮らしたり、いろんなことをしたり。
-つまり、出産時の事故は非常に極端なのです。そして、それらの事故を利用して、ばかばかしい立場を正当化する人々を見てきました—（笑）私の見解では。
-そして、それが慈善活動を奨励する理由です。
-それを義務付けることはできません。それは均等ではありません。それを義務付けたとしても、それは慈善活動ではありません。しかし、人間は、ほとんどの人は、たくさんの良い本能とたくさんのあまり良くない本能の組み合わせです—(笑)—そして私も含めてです。そして—
-彼らのより良い本能に訴えるようなことをすると、彼らは反応することがあります。
-ベッキー・クイック: ところで、あなたがビル・ゲイツとメリンダ・ゲイツとともにGiving Pledgeを設立したときのあなたの主張は、人々に何かに寄付するよう奨励することであり、自分のお金をどうするかについて人々に指示しようとすることではありませんでした。
-ウォーレン・バフェット: その通りです。その通り。そして—
-そして、それをいつ行うかも決めます。つまり、100年にわたって家族経営の農場を持っている家族は、ご存知のとおり、家族内ですべてを解決し、すべてを解決してきましたが、資本に対して異なる見方を持つようになるでしょう。
-彼らは皆、懸命に働くつもりだが、ただ、ウォール街でオプションを書いているような男とはまったく異なる見解を持つことになるだろう。
-ベッキー・クイック: そうだね。
-4. 33:45 - バフェット氏、アルファベットへの大規模投資を始めたと語る
-ベッキー・クイック: OK、最後に座る機会があったのは 5 月以来かもしれませんが、他に起こったいくつかのことについて話しましょう。
-私が最初に思いつくのは、バークシャーがグーグル株で占めている（アルファベットで発展し成長してきた）巨大な地位である。
-これを見て、多くの人が「よし、これがグレッグがポートフォリオをどのように変更するかについて示したものだ」と言いました。アルファベットのポジションはどのようにして生まれたのでしょうか？
-ウォーレン・バフェット: 私が始めました。
-つまり、通常はそのようなことについては答えませんが、答えます。なぜなら、私たちは、彼が認めていないことは何もしていないからです。彼は私が認めないことをしているわけではありません。私たちはいつも話しています。
-彼は、そうです、彼は、つまり、毎日です。そして、そして、しかしそれは、彼が決定者だ。
-アルファベットやグーグルに話を戻すと、おそらく5位か6位だろう。
-ベッキー・クイック: そうですね、それに伴う100億ドルの私募を考慮すると、310億ドルを超えることになるので、3番目だと思いました。
-ウォーレン・バフェット: ええ、でも、私たちには、バーリントン・ノーザン鉄道があります。
-ベッキー・クイック: わかりました。
-ウォーレン・バフェット: — それよりもはるかにお金の価値があるのは確かです。
-ベッキー・クイック: わかりました。それでは、完全所有会社を数えているのですね。
-ウォーレン・バフェット：その通りです。つまり、私たちは常に、有価証券を買うか会社を買うかの選択をしているのです。私たちは彼らを同じように見ています。
-それにはいくつかの小さな例外があります。それはできません。たとえば、当社が株式を所有していなければ、配当ポリシーを設定することはできません。
-しかし、それらの可能性は重要です。重要なことは、良いビジネスを適切な条件で買収し、適切な人材に経営してもらうことです。
-ベッキー・クイック: わかりましたが、アルファベットへの 300 億ドル以上の投資を急速に成長させましたね。つまり、あなたが一部を所有している企業という観点から言えば、Apple と —
-ウォーレン・バフェット: アメリカン・エキスプレスです。
-ベッキー・クイック: それとアメリカン・エキスプレスですね。つまり、コカ・コーラは小さくなるでしょう。バンク・オブ・アメリカはもっと小さくなるだろう。
-ウォーレン・バフェット: そうですね、それは――ある意味近いところにあります、そして――それは――
-しかし — しかし、私たちが所有してきたコカ・コーラを例に取ってみると、それが何であれ、45 年間にわたって所有されてきました — ご存知のように、私たち — 私たちはそのビジネスの運営とは何の関係もありません、そして — しかし、それは非常に良いビジネスです。
-そして、私が非常に優れたビジネスと言うとき、私は長期にわたって所有し、高い資本収益率を得ることが期待できるものを意味します。
-さて問題は、あなたが Google に参入するとき、あるいは他の AI 企業に参入するとき、巨額の資金を投じることになるのかということです。そして私は巨額の資金を国債に投資し、そこからの支払いとして年間20億ドル、300億ドル、あるいは10億ドルを得ることができます。
-したがって、優れたビジネスとは、本質的にリスクのない投資（財務省と定義できる）から、より多くの収益をあげ、さらにその収益をさらに上回る収益を上げ続ける見込みがある企業のことです。
-しかし、アメリカン・エキスプレスのような企業を例にとると、ほとんどの銀行は自己資本で 13 ～ 14 パーセントの利益を得ています。
-もし私が全員に、American Express が何になるかを推測するように頼んだら、彼らは、そうするでしょう、そうするでしょう、彼らは同様の数字を思いつくでしょう。しかし、資本利益が 30 パーセント以上であり、その際に 13 ～ 14 パーセントの利益を得る銀行よりも大きなリスクを負わないという点では大きく異なります。
-そして、人生の秘訣は、つまり投資において、長期にわたって高い資本収益率を獲得できるビジネスを見つけることです。
-そして、それがバークシャーで長期間にわたって起こったことです。
-その後のダブルは非常に大きな数字になるため、長期間が非常に重要になります。
-しかし、チャーリー、チャーリー・マンガーは、何十年もの間、私のパートナーでしたが、セクシーなことをやっているからといって、それが良いビジネスではないという考えをただ抱いていました。
-しかし、実際に現金を稼いでいない場合、あるいは非常に短期間でそれが期待されており、その気になればそれを分配できるのであれば、さらに良いのは、それをビジネスとして再雇用できれば、高い利益を得る能力を持っているが、その利益の余剰資本を投資することはできない。
-ベッキー・クイック: OK、ちょっと聞いてみましょう。
-人々はあなたのことを、テクノロジーに投資しない人だとずっと考えてきました。ところで、あなたは自分自身をテクノロジーには投資しない人間だと言いましたね。
-明らかに、バークシャーのポートフォリオで最大のポジションは Apple であり、これはあなたがつけたポジションです。しかし、当時はそれを消費者企業と呼んでいました。
-Google、あなたは今 AI 企業に電話をかけました。それで何が起こったのでしょうか？
-ウォーレン・バフェット: Google — Google とその競合他社すべてが今、本当の疑問を抱いています。なぜなら、彼らはすべて数千億ドルを投資しているからです。つまり、彼らは—
-ベッキー・クイック: 彼らは多額の設備投資を行っています。
-ウォーレン・バフェット: つまり、彼らは――そして、そう――そしてそれも――そしてそれは本物のお金なのです。
-つまり、もし私たちの鉄道が 3 億、あるいは 10 億、あるいは 2,000 億を投資したとしても、そのような資金は鉄道事業の開発にさえ投入されませんでした。
-それで、そして、そして彼らは、それが彼らが今プレイしているゲームなのです。彼らはそのゲームをコンピューター ソフトウェアを使ってプレイしていたわけではありません。
-ベッキー・クイック: いいえ、ですから、資産が軽いときは、あなたはそれらを好まなかったのですが、市場はそれらを愛していました。今では彼らは—
-ウォーレン・バフェット: 私は間違いを犯しました。
-ベッキー・クイック: — 設備投資に多額の費用を費やしているが、多くの株主はそれをあまり好まない。
-ウォーレン・バフェット: 彼らの実績に基づくと、ウォール街を通じて商品化されるもののおそらく 90 パーセントか 95 パーセントよりも、彼らが勝者になる可能性が高いと思います。なぜなら、ウォール街は彼らが何かを販売できるかどうかだけに興味があるからです。
-そして、企業が実際に稼いでいる内部収益率について深く掘り下げたウォール街のレポートを私は思い出せない。それは、企業の収益よりも重要なことは何でしょうか?
-しかし、彼らは次の四半期に何が起こるかについてこのような質問をします。あるいは、それはただの馬鹿げています。
-しかし、ご存知のとおり、投資は — 思いつく —
-おそらく、最も成功した長期投資家に近いのはロックフェラーでしょう。そして、石油とガスが 150 年間、つまり数百年間にわたって何をしてきたかを見てください。
-それで彼は非常に良いレートで複利を続けました。 GEICO が初期に達成したであろうような高い率ではありません。なぜなら、小さいときのほうが簡単だからです。
-大人になってからそれをやるということは、全世界があなたに注目し、その方法を理解しようとしているということです（笑）、どうやって、どうしてあの人たちはやっていて、私たちがやらないのですか？
-ベッキー・クイック: 他の何よりも Alphabet が好きなのはなぜですか、またこのポジションに就いた理由は何ですか?ユリイカの瞬間は何でしたか？
-ウォーレン・バフェット: 私は、私たちが所有する他の少なくとも 4 ～ 5 つの事業と同様に、この事業が好きではないと思います。
-ベッキー・クイック: Apple 以外では、鉄道は?
-ウォーレン・バフェット: そうですね —
-ベッキー・クイック：アメリカン・エキスプレス？
-ウォーレン・バフェット: 私からポートフォリオ全体を引き出すつもりはないでしょう — (笑) — でも — そしてもちろん —
-ベッキー・クイック: でも、あなたはそれがとても気に入っているので、それが大きな地位を占めることになります。
-ウォーレン・バフェット: 私はバークシャーのそういうところが好きです。つまり、バークシャーは、レバレッジのトリックやその種のことを使用することについては話していませんが、私はそのようなことを一切せずに、高い資本利益率を獲得しました。
-ベッキー・クイック: でも、私が話しているのは、なぜアルファベットと他のマグニフィセント・セブン、あるいはもう一方のハイパースケーラーが同じことをして多額の資金をつぎ込んでいるのか、ということについてです。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: — アマゾン、マイクロソフト、誰であろうと — AI のこの立場で勝とうとしているでしょうか?
-ウォーレン・バフェット: そうですね。まあ、私は他の人をノックして座っているつもりはありません。彼らには選択の余地がありません。ご存知の通り—
-ベッキー・クイック：こんなふうに過ごすってこと？
-ウォーレン・バフェット: そうですね。彼らは今、多くの場合、あるいは場合によっては、やりたくないゲームをプレイしているゲームをプレイしている。
-IBM が 30 年代、40 年代、50 年代、60 年代にプレイしていたゲームをそのままプレイし続けてくれたら、IBM は喜んでいたでしょう。そして、誰かがやって来て、「私たちはあなたにとってより良い結果をもたらし、あなたが抱えているすべての顧客の目標を達成します。なぜなら、あなたが得られるのはそれだけだからです」と言いました。時間の経過とともに、幸せな顧客がいるか、顧客がいないかのどちらかです。そして顧客もバカではありません。
-ウォール街は非常に愚かである可能性がありますが、彼らに関して言えば、彼らは夢を見ることができます。しかし、食料品店を経営する男には夢がありません。つまり、私は祖父の食料品店で働いていましたが、私たちは、1869 年には 1 店舗、1969 年にも 1 店舗がありましたが、(笑)、そして、他の人々が高い資本収益率を稼いでおり、中には国家規模のものも見ました。 A&P という会社は、もう人々は関係がありませんが、1930 年代、彼らは、ワシントンにおける信用破壊者のナンバーワンであり、敵のナンバーワンでした。そして彼らは、とても、とても、とても良いハンドを持っていましたが、そのハンドは消えてしまいました。
-ベッキー・クイック: それは別のゲームということですね。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: それで、このゲームは好きですか?彼らが以前プレイしていたゲームよりも、このゲームの方が理解できましたか?それはあなたが言っていることですか？
-ウォーレン・バフェット: そうですね、私には理解できないゲームがたくさんあります。もちろん。
-ベッキー・クイック: そうだね。しかしこのゲームは――
-ウォーレン・バフェット: なぜ、理解できないあらゆる種類のことでお金が儲かると期待しなければならないのでしょうか?そして—
-ベッキー・クイック: でも、それが私が言いたいことなんです。現時点でこのゲームについて何を理解していますか?なぜなら、ほとんどの人は彼がハイテク株を決して買うつもりはないと言うでしょうし、あなた自身も過去に同じことを言ったと思います。
-ウォーレン・バフェット: ああ、でもやりました。そして実際、1958 年に遡ると、私が関わった最も成功した企業の 1 つです。
-ベッキー・クイック：そうですね。
-ウォーレン・バフェット: 私たちは Data Documents という会社を設立しました。私たちが Data Documents を始めたのは、IBM が売却によって独占禁止法訴訟を解決したと数人の友人が新聞で読んだためです。彼らは、最も優れたビジネスの能力の 50 パーセントを売却しなければなりませんでした。そして誰もが、それが自分にとって最高のビジネスであることを知っていました。
-さて、たまたまそれが 10 年か 15 年後に足りなくなったのですが、私はそれを枯渇させた何人かの人々を知っていました。
-しかし、素晴らしいビジネスを行っている場合は、攻撃を受ける可能性があります。つまり、あなたにとって、昨日が素晴らしかったかどうかは問題ではありません。それは――それは――問題は、いつまで素晴らしい状態が続くのかということだ。
-ベッキー・クイック: でも、それが私が愛していることだと思うんです。人々はあなたを分類して、あなたが誰で何をしているのか知っていると言おうとするかもしれません。私には、あなたは 95 歳で、来月には 96 歳になりますが、まだ変化し、試合を追っているように見えます。
-ウォーレン・バフェット：そうですね、でも、私にとってはその方が簡単です—誰かが現れた方が—私はただ、彼らが現れて、競合他社が何百人も忍び込んで—夜の工場に—どのようにして—正確にすべてをやり遂げたのかを確認するような何かを行うよりも、より予測価値のある、より良いキャンディーが何かを考えようとしているところです。
-5. 45:48 – Appleは手強い競争相手に直面する
-ベッキー・クイック: あなたの最大の立場である Apple について話しましょう。
-あなたはティム・クックが成し遂げたことすべてに興奮していると私たちに言いました。現時点であなたが（次期CEOの）ジョン・ターナスのことをどの程度知っているのか、あるいは会社が何をしていると考えているのかはわかりません。
-あなたは今でも Apple をとても信頼していますか？
-ウォーレン・バフェット: そうですね、私は、彼らがティムに取って代わるような動きはありませんでした。私が望むような動きはありませんでした。 (笑)
-つまり、もし誰かがあなたのためにヴァイオリンを弾いてくれるストラディバリウスを手に入れたとしたら、それはやめてください。次の 300 年を次のヴァイオリンを探すのに費やさないでください。つまり、あなたはすでに持っています。
-そして、そしてもちろん、ウォール街は、彼らの話を聞けば、彼らは他の誰も持っていない何かを持っているということをあなたに納得させるという考えで繁栄しています。まあ、それは真実ではありません。つまり、それはばかげています。
-しかし、それがうまくいくのは、一般的に、アメリカが資金を投資するのに素晴らしい場所だからです。そして、ダウ工業株30種は、私が初めて株を買ったとき、ちょうど100ドルを超えたばかりでした――100ドル――今では5万2000ドルかそこらです――そしてその間のあらゆる種類の配当金がもらえます。
-まあ、つまり、村の愚か者は（笑）、その時点からうまくやっていくことができたでしょう。そして、私は正しいゲームに参加できました。
-もし私が小麦の投機に関わっていたら、つまり小麦はもうなくなってしまったのです。200年の間に小麦は3ドルから5ドルになったのか、それとも何かになったのかわかりません。そして、それは、とても美しいもので、非常に単純なビジネスです。それが単純であること、そしてそれを複雑にすると、可能性があり、可能性があることを覚えていれば、それはただクレイジーです。その時点であなたはギャンブルをしています。
-ベッキー・クイック: でも、あなたは今でも Apple が好きですか?
-ウォーレン・バフェット: そして人々、ギャンブルに対する人々の熱意は非常に大きいです。
-ベッキー・クイック: それについて話しましたね —
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: — ここ何年も、おそらくコロナ以来。
-でも、あなたはまだ Apple が好きですか?要点に戻ります。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: そうですね。
-そして、私は何年も前よりも Apple についてよく知っています。しかしその一方で、もしあなたが、もしあなたが Apple なら、世界中の非常に賢い人々が、Apple の将来を確実にする方法を模索し、模索しているとしたら、未来は過去ほど明るくないのです。
-そして、自動車会社を見てください。つまり、ヘンリー・フォードは 30 年間、つまり 20 年か 25 年間にわたって自動車ビジネスを所有していました。そして彼は、信じられないほど残酷に統合しました。彼はコストを削減しました。彼はモデル T の価格を 285 ドルまで下げたと思います。そして彼は常に賃金を上げながら価格を下げていました。
-ベッキー・クイック：そうですね。
-ウォーレン・バフェット: それで、彼はそうだった - 彼はそうだった - しかし、彼はある意味で少し頭がおかしい人でもあり、そして - そしてそれがついに彼を受け入れた - 彼がモデル A に乗り換えたとき、ちょうどゼネラルモーターズがレースでやって来たとき。
-そして、私の友人のチャーリー・マンガーは、ゼネラル・モーターズこそが支配的な会社になるだろうと考えていました。彼らのディーラー艦隊と彼らが彼らのために行っているすべてのものを攻撃することを誰が想像できたでしょうか？そして — そして — ご存知の通り。
-あなたはいつも誰かに撃たれています。
-ベッキー・クイック: その時点で、Apple はちょうど先週の金曜日の夜、つまりつい先週のことですが、OpenAI に対して訴訟を起こし、基本的に OpenAI が企業秘密を盗もうとしていると非難しました。
-ウォーレン・バフェット: ほとんどだと思いますが、ほとんどの企業は企業秘密を盗もうとするでしょう。彼らは捕まるのが嫌いでしょう。
-しかし、本当にマネージャーの心を深く掘り下げることができれば、彼らは秘密を盗みたいと思っています。 （笑）
-そうじゃないですか？つまり、あなたがビジネスをしていて、自分が苦労していて、隣の男が金を稼いでいるとしたら？
-私は 20 代前半の頃、オマハの 30 番地にあるシンクレア給油所とレディックに半分興味を持っていました。ビジネス スクールに通っていたので、これらすべてのことは知っていました。隣の男はフィリップスステーションを持っていて、彼は月に30,000バレル、つまり30,000ガロンを汲み上げていました、そして私たちは月に15,000ガロンを汲み上げていました。
-それで私は、この男を地球上から一掃するつもりだと言いました。そして数年後、私たちは 15,000 個、彼は 30,000 個を販売していましたが、私たちは諦めて閉店しました。そして彼はまだ活動していると思います。
-それは、人々がビジネスを続けるために遊んでいるということです。
-6. 50:40 - IRS、税金をめぐってコカ・コーラを訴訟
-ベッキー・クイック: そうだね。
-私たちは、あなたが 45 年以上にわたって務めてきたコカ・コーラについて簡単に話しました。
-大規模な訴訟が起きている —
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: — 政府が行動を検討できたのは、1996 年のコカ・コーラまで遡ると思います。政府、つまり IRS は、彼らに義務があると述べています
-ウォーレン・バフェット: はい、20歳です —
-ベッキー・クイック: ざっと200億ドルですね。
-ウォーレン・バフェット: ええ、彼らはその代金を支払いました —
-ベッキー・クイック: 彼らは100億ドル相当をつぎ込んだと思います —
-ウォーレン・バフェット: 彼らは100億近くの預金をしました。
-ベッキー・クイック: しかし、私たちは――この活動が海外に関連しているかどうか、つまり彼らの海外事業に関連しているかどうかについて聞くつもりです――行きつ戻りつする会計処理のほんの一部にすぎません。
-コカ・コーラは、どのように行動すべきかについて、1996年に有効な合意があったと考えていたと述べている。政府は今、さらなる資金を求めているが、そうではないと言っている。
-ただし、これに乗っているのはコカ・コーラだけではありません。同じようなことをやっているアメリカの企業は他にもたくさんあります。
-ウォーレン・バフェット: そうですね、膨大な数です。だからこそ、この訴訟の派生的影響はアメリカ史上最大になる可能性があります。
-ベッキー・クイック: これについてどう思いますか?そして、あなたがコカ・コーラの株主、コカ・コーラの大株主であることを理解した上で、より多くの資金を調達する方法を探していたあまりにも熱心な政府だったのでしょうか？この会社は業績が悪かったのでしょうか、それとも態度が悪かったのでしょうか?
-ウォーレン・バフェット: 私は — ご存知のように — 私はその戦いに犬を連れているので、 — (笑)。
-ベッキー・クイック: つまり、そうしたくないのですね —
-ウォーレン・バフェット: いや、だから裁判所があるのです。
-ベッキー・クイック: そうだね。それで、何が起こるかを待ってください。
-ウォーレン・バフェット: そうですね。いいえ —
-ベッキー・クイック: 注意深く観察していると思いますか?
-ウォーレン・バフェット: そうですね。
-追加のお金を払っても、バークシャーが潰れる可能性があるのと同じように、コカ・コーラも潰れません。つまり、私は、マイナス面についてだけ考えています。上昇面は自然に解決します。
-ベッキー・クイック：そうですね。
-7. 52:25 – ケビン・ウォーシュ新FRB議長は「最善を尽くす」
-ベッキー・クイック: また、ケビン・ウォーシュという新しいFOMC議長が就任し、今週は経済情勢を視察する予定です。彼は議会の前で、あるいは議会の前で演説する予定だ。
-同氏が市場をどうするのか、金利をどうするのか、そしてそれが市場にとって何を意味するのか、多くの疑問がある。
-あなたは過去に、金利がいかに重力であり、金利が株価の方向性を決定するかについて話しました。
-ウォーレン・バフェット: そうですね。
-ベッキー・クイック: それで、何が起こると思いますか?何を賭けていますか？
-ウォーレン・バフェット: 彼が何をするか分かりませんが、私はそう言いたいです - その仕事はとても複雑です。先日、彼は、エコノミストが 950 人いるのに、10 人程度しか使えないと発言したと思います。
-私は彼がその仕事を引き受けたことを尊敬している。彼は自分に割り当てられた仕事、つまり最大雇用を維持しながら2％のインフレを達成するために最善を尽くすだろうと思います。
-そして、私の推測では、それは、すべてではありませんが、彼の以前の他の作家の一部と同じように、しかし彼は毎朝それを読んでいたということです。つまり—
-ベッキー・クイック: FRBの二重の使命。
-ウォーレン・バフェット: 二重の使命です。
-そして彼は、それを完璧にこなすことはできないことを知っています。そして、私が知っているように、私は人々のお金を受け取り、それから大きな利益を得るのを完璧にすることはできませんでした。
-しかし、私の推測では、私が自分たちのお金がどうなるかを心配しているという人々の認識は正しかったのです。そして私は――ウォーシュはそう言いたい――彼はこの国のことを気にかけている。
-ベッキー・クイック: わかりました。
-ウォーレン・バフェット: そして、それはかなり多くの人に当てはまったと思います。彼らの決断が常に素晴らしいというわけではありませんが、その決断が非常に難しい場合があるからです。つまり、ポール・ボルカーが常にあなたに殺害の脅迫を知らせていることを想像してみてください。
-そして、自分たちが実際よりも多くのことを知っていると思っている人もいます。
-ベッキー・クイック: でも、あなたはケビンが多くのことを知っていると思っていますし、実際には—
-ウォーレン・バフェット: 彼は非常に――そうですね――良い選択だったと思います。
-ベッキー・クイック: わかりました。
-ウォーレン・バフェット: それはおそらく大統領が激怒することを意味します。 (笑)
-将来の大統領は次の選挙を見据えているのに、彼は次の選挙を見据えるべきではないので、将来の大統領は彼に怒るだろう。
-ベッキー・クイック：そうですね。
-8. 54:42 - 「誰もがギャンブルを好む中、価値観を見つけるのは難しい」
-ベッキー・クイック: もちろん、あなたは、市場がどのような方向に向かうかについて、いかなる時点においても積極的に発言することはありません。
-ウォーレン・バフェット: いいえ。
-ベッキー・クイック: でも、あなたは市場の動向や、自分にとって何が意味があり何が意味が無いかについて意見を述べていますね。
-AI の活用がこれほど進んでいる今、市場は意味があると思いますか?
-収益は非常に好調です。消費者はこの点にこだわっているようです。しかし、それをどう見ますか？
-ウォーレン・バフェット: そうですね、あると思います — チャンスがあまりにも早く自分に投げ込まれ、どうすることもできないときがあります — ご存知のように — それは信じられないほどです。
-また、数年のうちに何かを見つけたら、とてもとても幸運なときもあります。
-そして、そして、常にそうであるべきです。後者が優先されます。
-しかし、人間はギャンブルが大好きなので、実際には投資家を育成するよりもギャンブラーを育成するほうがより多くの資金が投入されます。
-もし、誰かがバークシャーを40年前に買っていたら、ご存知のように、50年前なら、一人の人が1回の手数料を稼いだでしょう。 (笑)
-そして、彼は残りの時間をクライアントに「何もしないでください」と言うことに費やす必要があります。
-そして、それは決して方法ではありません。私たちは人間にそれを期待することはできません。
-しかし、時々、他の人よりもはるかに優れた行動をする人を見つけることがあります。
-ベッキー・クイック: とはいえ、価値観を見つけたり、安価な機会を見つけたりすることの方が難しいのは当然です —
-ウォーレン・バフェット: それは、誰もがギャンブルを好む中、価値観を見つけるのは難しいことです。
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: そして、州の立場からすると — 私たちはこれについて議論したかもしれません — しかし、州の立場からすると、それは—道路や学校など、あらゆる種類のものにお金が必要なので、ある種うんざりします、そして彼らは希望だけを購入している人々を切り取ることができ、彼らに配当金、60パーセントなどの配当性向の何かを販売することができることがわかりました、そして—そして彼らがそれをしていないなら、彼らは所得税が高くなります。
-ベッキー・クイック：そうですね。
-ウォーレン・バフェット: それは皮肉な種類の活動です。そして、統治機関と、そして国民の間で、政府との間で冷笑的になることが少なくなればなるほど、あなた方はそれを望んでいませんが、人々が自分たちのシステムについて冷笑的になることを望まないのです。
-でも、システムが「これが私がやろうとしていることだから、好きなだけ皮肉っぽくなってください」と言うときもあります。 （笑）
-9. 57:06 – バフェットはグレッグ・アベルを大いに信頼しています
-ベッキー・クイック: 早速話を戻しますが、あなたはこれについて触れましたが、あなたが今後 8 年間にわたって株式の譲渡を望む理由の 1 つは、子供たちにこれらの決定を下してもらいたいからです。
-しかし、もう 1 つの部分は、グレッグを信頼しているため、バークシャーのこれらの議決権株を必ずしも長期間保持する必要があるとは感じていないということです。
-ウォーレン・バフェット: ええ、その通りです。
-そして、もし私たちがそうでなかったとしたら、もし私たちが信仰を持っていなかったとしたら、私がここにいる理由の一部は、私たちが誰もに対して十分な信仰を持っていなかったからです。そして、私たちはあらゆる種類の人々を知っていました。でも、もしあなたがトム・マーフィーについて話しているなら、私がトム・マーフィーを雇うことができたら――
-しかし問題は、彼らが全員年上で、私の友達も皆かなり年上だったということです。だから私は、私は、しませんでした。
-私が大学生だったわけではなく、誰が本当にそれを持っているかがわかりました、誰がベビーベッドシートに—(笑)—肩に—靴の袖口に—答えを書いていました。
-ベッキー・クイック: でも、あなたはグレッグに対してそう感じているんですね。
-ウォーレン・バフェット: 私は、100パーセントそう感じています。
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: そうですね。私は彼を多くの状況、つまり多くの状況で見てきました。
-チャーリーに対してもそう感じました。トム・マーフィーに対してもそう感じました。つまり—
-しかし、ご存知のように、誰も、あなたが 25 人の夫を選んで全員がうまくいくようにすることを期待していません。 (笑)
-そして、それを見つけるだけでもかなり難しい、つまり、それが正しい種類です。
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: そして、間違いを犯します。
-10. 58:44 - バフェットが足を骨折
-ベッキー・クイック: ウォーレン、今日の気分はどうですか?
-ウォーレン・バフェット: そうですね、私は — ご存知のように — 足を骨折しました — (笑) —
-ベッキー・クイック: 何が起こったのですか?
-ウォーレン・バフェット: — 数週間前。つまり、実際のところ、ご存知のように、私はそのような点では非常に幸運でした。
-私はこれまでの人生で足を骨折したことがありません。 (笑)
-でも、でも、私は、気分がいいです。生まれてよかったです。
-ベッキー・クイック: そうだね。
-ウォーレン・バフェット: そして、私は他の国に生まれなくてよかったと思います。そして最初は、自分が女性に生まれなくてよかったと思いました。そして、つまり、あらゆる種類のことです。
-つまり、私は、カミングアウトしたときに本当に宝くじに当たりました。
-また、生涯、そしてその後 5 世代にわたって面倒を見てくれる信託基金が設定されていれば、宝くじに当たったと考える人もいます。
-しかし、でも、私はそのように育てられなかっただけで、そうでなくて良かったと思いますし、私が子供たちをそのように育てていないのですが、もっと重要なのは、スージーが子供たちをそのように育てなかったことです。
-ベッキー・クイック：素晴らしいですね。さて、今日はお時間をいただきありがとうございました。
-ウォーレン・バフェット: そうですね、ありがとうございます。
-ベッキー・クイック: ありがとうございます。
-ウォーレン・バフェット: そして、私たちはビジネスに興味があります。 （笑）
-ベッキー・クイック: ありがとう。
-インターネット上のバフェットとバークシャー
-一部のリンクには購読が必要な場合があります。
-- Yahoo Finance ビデオ: 誰もがすぐにお金が欲しいと思っています。ウォーレン・バフェット氏は、それが問題だと述べています。
-バークシャー株式時計
-4週間
-12ヶ月
-BRK.A 株価: $736,000.00
-BRK.B株価：490.91ドル
-BRK.B PER (TTM): 14.61
-バークシャーの時価総額: 1,058,643,311,348ドル
-3月31日時点のバークシャーキャッシュ：3,974億ドル（12月31日比6.5％増）
-鉄道現金と未払国庫短期証券を除く：3,802億ドル（12月31日から3.0％増加）
-バークシャーは2026年第1四半期に2億3400万ドルの自社株を買い戻した。
-バークシャーのトップ株式保有 - 2026 年 7 月 17 日
-最新の終値に基づいた、米国および日本の公開株式の時価ベースでのバークシャーの保有高上位。
-保有資産は、2026年5月15日のバークシャー・ハサウェイの13階提出書類で報告されているように、2026年3月31日現在である。ただし、以下の場合を除く。
-- アルファベットには、2026年6月1日に発表されたように、バークシャーが同社から直接購入することに同意した100億ドルの株式が含まれる。バークシャーは、取引が完了したかどうかをまだ正式に明らかにしていない。エントリーはクラス A とクラス C のアルファベット株式の組み合わせです。市場価格は、2 つのクラスの価格の加重平均です。
-- 三菱、2026 年 4 月 30 日現在
-保有銘柄と現在の市場価値の完全なリストは、CNBC.com のバークシャー・ハサウェイ ポートフォリオ トラッカーから入手できます。
-質問またはコメント
-ニュースレターに関するご質問やご意見は、alex.crippen@nbcuni.com までお送りください。 （申し訳ありませんが、バフェット氏自身に質問やコメントを転送することはありません。）
-このニュースレターをまだ購読していない場合は、ここから登録できます。
-また、バフェット氏が株主に宛てた年次書簡も強くお勧めします。ここバークシャーのウェブサイトに集められています。
--- アレックス・クリッペン、ウォーレン・バフェット・ウォッチ編集者`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/18/two-unexpected-revelations-in-warren-buffetts-cnbc-interview.html",
-    publishedAt: "2026-07-18T14:53:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "why-dana-white-thinks-much-more-of-ufc-s-2a959a6e",
-    title: "Why Dana White thinks much more of UFC's future will be Power Slap and boxing",
-    titleJa: "デイナ・ホワイトがUFCの将来はパワースラップとボクシングだと考えている理由",
-    summaryJa: "UFCの社長兼最高経営責任者（CEO）のダナ・ホワイトは、ニューヨークで開催されたゲームプランカンファレンスで、パワースラップが主力格闘技と同じくらい大きなものになるかもしれないと予測した。",
-    bodyOriginal: `Mixed martial arts has seen an unprecedented rise in popularity in recent years as the UFC has taken off. And, according to UFC President and CEO Dana White, it might not be the last fighting sport to do so.
-"[Power Slap] could be just as big as the UFC," White told Andrew Ross Sorkin at the CNBC Sport x Boardroom Game Plan Summit on Thursday in New York City.
-"When you look at the numbers, we have like the most viewed YouTube short ever in sports on Power Slap, the most viewed ever in sports on TikTok, and the numbers are just astronomical on what we pull on this thing," he said. "And it's global. It's already a global business."
-Power Slap, for those who may have missed the infamously-brutal viral clips, consists of two competitors standing over a table in the middle of a padded stage, dishing out full-force, open-palmed slaps to one another until one person cannot physically recover. The mix of fighting and shock entertainment has captivated viewer attention, and White's bullishness surrounding its rising popularity isn't just talk.
-According to the social media analytics platform Socialpruf, Power Slap has racked up 1.88 billion impressions over the past year, with its posts garnering nearly 40 million likes and $48 million in earned media value.
-Many high-profile sponsors have capitalized on this wave of popularity, jumping at the chance to throw their names into the mix of flying flat-palms. Anheuser-Busch, Monster Energy, VeChain, Circa Sports, and 500 Casino are among the many brands that have bought into White's vision for the sport to this point.
-"I thought sponsorship was going to be tough," White noted. "[Power Slap] has more sponsors [in its first two years] than the UFC had in 10 years."
-Finding participants willing to take the beatdowns seen on a regular basis in the Power Slap world might seem harder than finding advertisers. In going about this odd sort of talent acquisition, White emphasized toughness, grit, and a high pain tolerance as weighty considerations.
-"There are tens to hundreds of thousands of people who wrestle all over the world every weekend. They'll jump off a step ladder onto a table full of tacks for $50 a night," he said. "These are the guys that I'm going after."
-What makes slap-boxing so successful? Two things, White says, that can be applied across any successful sport: "You need to have a great live event, and it needs to be good on television."
-But as Power Slap's main viewership growth comes in the form of short-form videos posted onto social media rather than conventional live televised broadcasting, White gave particular emphasis to the latter factor.
-That is also how White intially caught a glimpse of the sport.
-"In 2017 and 2018, this stuff starts popping up on my social media," he said. "Everything that I do in the fight business is done by gut, and the fact that I would watch it and want to see who won, I said this is interesting."
-White said as he dove deeper into it, he saw how many views slap-boxing was getting, which he said were "equivalent to like a Justin Bieber video at that time" on YouTube.
-That led him to pitch the Fertitta brothers, who had exited their stake in the UFC, on investing in the business, which was launched in 2022.
-White is also leading an investment into the boxing business called Zuffa Boxing, which aims to apply the same centralized model that UFC has followed.
-Holding its first event in January, White said that Zuffa Boxing is a better short term bet than Power Slap, due to the fact, White said, that "boxing has been broken for a long time."
-"We've been at it six months now, and it makes sense why it's broken," he said. "All these promoters that I'm competing with, they're really bad at what they do ... it's a lot more unsophisticated than I expected."
-White said that the "boxing business has always been economically incredible," with fights and cards can generate large sums of money. But he added, "Every time they put on a fight, it's like a going-out-of-business sale," he said.
-Zuffa Boxing — as well as the other fighting properties White is leading — aims to put that money back in the hands of fighters.
-"It just gets better and better," White said of the economics for fighters. "First of all, these guys in Power Slap were slapping for free when I bought the companies. Now they get paid very well. As far as UFC fighters, the pay has gone up literally like this since we bought the business," making a straight upwards movement with his hands.`,
-    bodyJa: `UFCの隆盛に伴い、近年総合格闘技の人気は前例のないほど高まっています。そして、UFCの社長兼最高経営責任者（CEO）のデイナ・ホワイト氏によると、これが最後の格闘技ではないかもしれないという。
-「（パワースラップは）UFCと同じくらい大きな規模になる可能性がある」とホワイトは木曜日にニューヨーク市で開催されたCNBCスポーツ×ボードルームゲームプランサミットでアンドリュー・ロス・ソーキンに語った。
-「数字を見ると、パワースラップのスポーツで史上最も視聴されたYouTubeショート動画や、TikTokのスポーツで史上最も視聴された数など、この数字は私たちがこのことに何をもたらしているかを考えると天文学的だ」と彼は語った。 「そしてそれは世界的です。すでに世界的なビジネスです。」
-パワー スラップは、悪名高い残忍なバイラル クリップを見逃したかもしれない人のために説明します。この競技では、2 人の競技者がパッド入りのステージの中央にあるテーブルの上に立って、1 人が体力的に回復できなくなるまで、手のひらを広げて全力の平手打ちを互いに繰り出します。戦闘と衝撃的なエンターテイメントの組み合わせは視聴者の注目を集めており、人気の上昇に対するホワイトの強気さは単なる話ではありません。
-ソーシャルメディア分析プラットフォームの Socialpruf によると、Power Slap は過去 1 年間で 18 億 8,000 万のインプレッションを記録し、その投稿は約 4,000 万の「いいね！」を獲得し、獲得メディア価値は 4,800 万ドルに達しました。
-多くの著名なスポンサーがこの人気の波に乗じて、フライング・パーム・パームの中に自分の名前を投じるチャンスに飛びついています。アンハイザー・ブッシュ、モンスター・エナジー、VeChain、Circa Sports、500 Casino は、これまでにホワイト氏のスポーツに対するビジョンを賛同した多くのブランドの 1 つです。
-ホワイト氏は「スポンサーシップは厳しいだろうと思っていた」と述べた。 「（パワースラップには）（最初の2年間で）UFCが10年間で獲得したよりも多くのスポンサーがいる。」
-パワースラップの世界で定期的に見られるビートダウンに喜んで参加する参加者を見つけるのは、広告主を見つけるよりも難しいように思えるかもしれません。この奇妙な種類の人材獲得を進めるにあたり、ホワイトは重要な考慮事項としてタフネス、根性、そして高い痛みへの耐性を強調した。
-「毎週末、世界中で数万人から数十万人がレスリングをしている。彼らは一晩50ドルで、脚立からタックルがいっぱいのテーブルに飛び乗るのだ」と彼は語った。 「私が追いかけているのはこの人たちです。」
-スラップボクシングが成功する理由は何ですか?ホワイト氏は、成功するスポーツ全般に当てはまる 2 つのこと、それは「素晴らしいライブ イベントを開催する必要があること、そしてテレビでも優れたイベントを開催する必要があること」だと述べています。
-しかし、パワー・スラップの主な視聴者数の増加は、従来のテレビ生放送ではなく、ソーシャルメディアに投稿された短編ビデオの形で行われるため、ホワイト氏は後者の要素を特に重視した。
-それは、ホワイトが最初にこのスポーツを垣間見た方法でもあります。
-「2017年と2018年に、このようなことが私のソーシャルメディアに現れ始めました」と彼は言いました。 「私が格闘技業界でやることはすべて直感でやっているんですが、それを観て誰が勝つか知りたいという事実から、これは面白いと言いました。」
-ホワイト氏は、さらに詳しく調べていくうちに、スラップボクシングの再生回数がどれだけ増えたかを確認したと述べ、その再生回数はYouTubeで「当時のジャスティン・ビーバーのビデオに匹敵する」と述べた。
-それが彼を、UFCへの出資を手放したフェルティッタ兄弟に、2022年に立ち上げられる同事業への投資を持ちかけるきっかけとなった。
-ホワイトはまた、UFCが採用したのと同じ集中モデルを適用することを目的としたズッファ・ボクシングと呼ばれるボクシング・ビジネスへの投資も主導している。
-1月に最初のイベントを開催したホワイト氏は、「ボクシングは長い間壊れてきた」という事実から、ズッファ・ボクシングはパワー・スラップよりも短期的な賭けに適していると語った。
-「私たちはこれに6か月取り組んできましたが、なぜ壊れたのかは理解できます」と彼は言いました。 「私が競争しているプロモーターたちは皆、自分たちのやっていることは本当に下手です...私が予想していたよりもはるかに洗練されていません。」
-ホワイト氏は、「ボクシングビジネスは常に経済的に信じられないほど素晴らしい」と述べ、試合やカードは多額のお金を生み出す可能性があると語った。しかし、「彼らが喧嘩をするたびに、それは廃業セールのようなものだ」と彼は付け加えた。
-ズッファ・ボクシングは、ホワイトが率いる他の格闘技施設と同様に、その資金を格闘家たちの手に取り戻すことを目指している。
-「状況はますます良くなっている」とホワイトは戦闘機の経済面について語った。 「まず第一に、パワー・スラップの連中は、私が会社を買収したときは無料でビンタをしていた。今では彼らはとてもいい給料をもらっている。UFCファイターに関して言えば、我々がビジネスを買収して以来、給料は文字通りこのように上がった」と手をまっすぐ上に向けて動かしていた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/18/ufc-dana-white-power-slap-boxing.html",
-    publishedAt: "2026-07-18T14:41:49+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "u-s-military-says-it-has-completed-the-l-415a3d35",
-    title: "U.S. military says it has completed the latest round of strikes against Iran, amid more disruptions to shipping",
-    titleJa: "米軍、輸送の混乱が拡大する中、イランに対する最新の攻撃を完了したと発表",
-    summaryJa: "クウェートとバーレーンがイランの飛翔体による攻撃を報告し、商業船舶が引き続き混乱に直面していると報告する中、米軍は土曜早朝、イランに対する7夜連続の攻撃を終了したと発表した。米国とイランが先月署名した脆弱な停戦協定は、最新の戦闘が続く中、さらに崩れる兆しを見せている。暫定合意は、戦略的に重要なホルムズ海峡を再開し、２月２８日の米国とイスラエルのイラン攻撃から始まった紛争を終結させることを目的としていた。",
-    bodyOriginal: `The U.S. military said early Saturday it ended a seventh straight night of strikes against Iran, as Kuwait and Bahrain reported attacks by Iranian projectiles and commercial shipping continued to face disruptions.
-The fragile truce signed by the U.S. and Iran last month showed further signs of unravelling as the latest round of fighting continued. The interim agreement was intended to reopen the strategically vital Strait of Hormuz and end the conflict which began with U.S. and Israeli strikes on Iran on Feb. 28.
-U.S. Central Command said the attacks, which ended at 9:30 p.m. U.S. Eastern Time on Friday, struck "military logistics infrastructure, underground weapons storage, and maritime capabilities".
-"CENTCOM continues to hold Iran accountable at the Commander in Chief's direction while fully enforcing a naval blockade against Iranian ports," it said in a post on X.
-The military also said its forces intercepted several shipping vessels in recent days.
-"During the first three days of renewed implementation, U.S. forces have redirected 4 commercial vessels, disabled 1, and boarded 1 to ensure full compliance," Central Command said in a separate statement.
-Meanwhile, Iran's Revolutionary Guard Corps said it blocked four vessels early Saturday as they attempted to move under U.S. protection through the Strait of Hormuz.
-"In a coordinated missile and drone operation, all four were halted and immobilized at sea," Iran's IRNA News Agency quoted the IRGC Navy Command as saying in a post on X.
-Iran also appeared to continue its attacks on regional targets.
-Kuwait said its air defenses were "responding to hostile drone threats."
-It also said an Iranian attack on its power and water distillation station caused a fire but no casualties, according to an X post by the Kuwait News Agency. It was the second attack on Kuwait's water facilities in two days.
-Kuwait is known to be overwhelmingly dependent on desalination for drinking water, with almost 90% of the arid nation's water demand satisfied through seawater desalination plants.
-Kuwait Airways said it rescheduled most of its flights, blaming "hostile missile and drone attacks following the Iranian aggression."
-Neighboring Bahrain's government said early Saturday that its air defense systems intercepted several Iranian projectiles and sounded sirens to warn residents.
-On Friday, Iran claimed it had targeted U.S. military forces in Syria and Bahrain.
-'Winning big in Iran'
-U.S. President Donald Trump has insisted the war with Iran is going well, saying Thursday in a primetime address to the American public: "We are likewise winning big in Iran, and you will see the fruits of that labor very, very shortly."
-The U.S. president had threatened to strike Iran's bridges and power plants next week if the country refused to return to the negotiating table.
-Ian Lesser, distinguished fellow at GMF, a Washington-based think tank, said there appears to be a risk of the U.S. and Iran becoming mired in a so-called forever war.
-"There's a risk of this, but of course we were in essentially a cold and occasionally hot war with Iran for decades," Lesser told CNBC by video call.
-"I think in some sense this is misjudgment by the current administration. But it is also part of a pattern in the American approach to the use of force, that we have enormous capability and enormous operational prowess and we are hobbled by strategic mistakes," he added.
-Oil prices were sharply higher on Friday due to the ongoing unrest in the Middle East.
-International benchmark Brent crude futures with September delivery advanced 4.6% to $88.10 a barrel on Friday, while U.S. West Texas Intermediate futures with August delivery gained 4.5% to settle at $82.49. Both were at their highest since mid-June.
-For the week, both benchmarks gained about 16%, with Brent on track for a third consecutive weekly gain and WTI set for its second.
-– Reuters contributed to this report.`,
-    bodyJa: `クウェートとバーレーンがイランの飛翔体による攻撃を報告し、商業船舶が引き続き混乱に直面していると報告する中、米軍は土曜早朝、イランに対する7夜連続の攻撃を終了したと発表した。
-米国とイランが先月署名した脆弱な停戦協定は、最新の戦闘が続く中、さらに崩れる兆しを見せている。暫定合意は、戦略的に重要なホルムズ海峡を再開し、２月２８日の米国とイスラエルのイラン攻撃から始まった紛争を終結させることを目的としていた。
-米中央軍は、攻撃は午後９時半に終了したと発表した。米国東部時間金曜日、「軍の兵站インフラ、地下兵器貯蔵庫、海洋能力」を攻撃した。
-「CENTCOMはイランの港に対する海上封鎖を完全に実施しながら、最高司令官の指示に従ってイランの責任を追及し続ける」とXへの投稿で述べた。
-軍はまた、ここ数日で軍が数隻の輸送船を拿捕したと述べた。
-中央軍は別の声明で、「新たな実施の最初の３日間で、米軍は完全な遵守を徹底するため、商船４隻を方向転換し、１隻を無効化し、１隻に乗船させた」と述べた。
-一方、イラン革命防衛隊は土曜日早朝、米国の保護下でホルムズ海峡を通過しようとした船舶４隻を阻止したと発表した。
-イランのIRNA通信は、Xへの投稿で革命防衛隊海軍司令部の発言を引用し、「ミサイルと無人機の協調作戦により、4機すべてが海上で停止され動けなくなった」と伝えた。
-イランも地域目標への攻撃を継続しているようだ。
-クウェートは、防空体制が「敵対的なドローンの脅威に対応している」と述べた。
-また、クウェート通信社のXポストによると、同国は発電所と水の蒸留所に対するイランの攻撃により火災が発生したが死傷者は出なかったと述べた。クウェートの水道施設への攻撃はここ２日間で２度目となった。
-クウェートは飲料水の淡水化に圧倒的に依存していることで知られており、乾燥国の水需要のほぼ90％が海水淡水化プラントによって満たされている。
-クウェート航空は、「イランの侵略に続く敵対的なミサイルとドローン攻撃」を理由に、ほとんどの便のスケジュールを変更したと発表した。
-隣国のバーレーン政府は土曜早朝、同国の防空システムがイランの飛翔体数発を迎撃し、サイレンを鳴らして住民に警告したと発表した。
-金曜日、イランはシリアとバーレーンの米軍を標的にしたと主張した。
-「イランで大勝利」
-ドナルド・トランプ米大統領は、イランとの戦争は順調に進んでいると主張し、木曜、米国民に向けたゴールデンタイムの演説で「我々も同様にイランで大きな勝利を収めており、その努力の成果が間もなく現れるだろう」と述べた。
-米国大統領は、イランが交渉のテーブルに戻ることを拒否した場合、来週イランの橋と発電所を攻撃すると脅していた。
-ワシントンに本拠を置くシンクタンクGMFの著名研究員イアン・レッサー氏は、米国とイランがいわゆる永遠の戦争に陥るリスクがあるようだと述べた。
-レッサー氏はビデオ通話でＣＮＢＣに対し、「リスクはあるが、もちろん我々は数十年にわたりイランと本質的に冷戦、時には熱戦を繰り広げていた」と語った。
-「これはある意味、現政権の誤った判断だと思う。しかし、これは米国の武力行使アプローチのパターンの一部でもある。われわれは膨大な能力と膨大な作戦能力を持っているのに、戦略上の誤りによって足かせを食われているということだ」と同氏は付け加えた。
-中東での不安が続いているため、金曜日の原油価格は大幅に上昇した。
-国際ベンチマークであるブレント原油先物（9月渡し）は金曜、4.6％上昇して1バレル＝88.10ドルとなった一方、8月渡しの米国ウェスト・テキサス・インターミディエイト先物は4.5％上昇して82.49ドルで落ち着いた。いずれも６月中旬以来の高値となった。
-この週では、両ベンチマークは約16％上昇し、ブレントは3週連続の上昇傾向にあり、WTIは2週間連続の上昇を記録した。
-– ロイターがこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
-    publishedAt: "2026-07-18T13:18:56+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "i-racked-up-35-000-in-credit-card-debt-s-ba0d21b4",
-    title: "I racked up $35,000 in credit-card debt. Should I file for bankruptcy?",
-    titleJa: "私はクレジットカードで35,000ドルの借金を抱えてしまいました。自己破産を申請すべきでしょうか？",
-    summaryJa: "「信用カウンセリング機関と協力したり、困難なプログラムに登録したりすることも考えています。」",
-    bodyOriginal: `“I’m also considering working with a credit-counseling agency or enrolling in a hardship program.”`,
-    bodyJa: `「信用カウンセリング機関と協力したり、困難なプログラムに登録したりすることも考えています。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-have-racked-up-35-000-in-credit-card-debt-should-i-file-for-bankruptcy-4c92d9e5?mod=mw_rss_topstories",
-    publishedAt: "2026-07-18T13:15:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-90674611",
-    readTime: 2,
   },
 ];
 
