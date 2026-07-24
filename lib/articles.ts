@@ -15,6 +15,232 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "the-30-year-treasury-yield-is-closing-in-de87adfc",
+    title: "The 30-year Treasury yield is closing in on 5.2%. A surge to 6% could slam stocks.",
+    titleJa: "30年米国債利回りは5.2％に近づいている。 6％まで上昇すれば株価は暴落する可能性がある。",
+    summaryJa: "長期債の利回りが急上昇する可能性が高まっており、人気の長期国債ETFやTIPS ETFの損失がさらに拡大する恐れがある。",
+    bodyOriginal: `Long-bond yield spike is increasingly possible — threatening to deepen losses for popular long-term Treasury and TIPS ETFs.`,
+    bodyJa: `長期債の利回りが急上昇する可能性が高まっており、人気の長期国債ETFやTIPS ETFの損失がさらに拡大する恐れがある。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
+    publishedAt: "2026-07-24T13:44:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-04475414",
+    readTime: 2,
+  },
+  {
+    id: "sap-s-stock-rises-on-strong-revenue-but-698d9125",
+    title: "SAP’s stock rises on strong revenue, but analysts warn of guidance risks",
+    titleJa: "SAPの株価は好調な収益で上昇するが、アナリストはガイダンスのリスクを警告",
+    summaryJa: "人工知能がソフトウェア会社のビジネスモデルを完全に破壊する可能性があるとの懸念から、株価は年初から40％下落した。",
+    bodyOriginal: `The stock has dropped 40% since the start of the year on concerns that artificial intelligence may entirely disrupt the software company’s business model.`,
+    bodyJa: `人工知能がソフトウェア会社のビジネスモデルを完全に破壊する可能性があるとの懸念から、株価は年初から40％下落した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/saps-stock-rises-on-strong-revenue-but-analysts-warn-of-guidance-risks-654babc9?mod=mw_rss_topstories",
+    publishedAt: "2026-07-24T13:43:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-36793039",
+    readTime: 2,
+  },
+  {
+    id: "trump-slaps-sweeping-new-tariffs-on-60-t-4b66b046",
+    title: "Trump slaps 'sweeping' new tariffs on 60 trade partners as global duties expire",
+    titleJa: "トランプ大統領、国際関税の期限切れに伴い60の貿易相手国に「徹底的な」新たな関税を課す",
+    summaryJa: "連邦公報の通知によると、トランプ政権は金曜日、強制労働違反の疑いで数十カ国に新たな関税を課した。この関税は10％から12.5％の間に設定され、事実上、ドナルド・トランプ大統領による一時的な10％の世界共通関税に代わるもので、この関税は新しい関税の発効と同じ東部時間午前12時01分に期限切れとなった。",
+    bodyOriginal: `The Trump administration imposed new tariffs Friday on dozens of countries over alleged forced-labor violations, according to a notice in the Federal Register.
+The duties, set between 10% and 12.5%, effectively replace President Donald Trump's temporary 10% global tariffs, which expired at 12:01 a.m. ET — the same time as the new ones took effect.
+The tariffs apply to 60 trade partners and cover 99.4% of U.S. trade, the Office of the U.S. Trade Representative said in a fact sheet Thursday afternoon. The office separately told CNBC that it could not provide an estimate of how much revenue the new tariffs will generate.
+The move "is the most sweeping international labor rights action the United States has ever taken — that any country has ever taken," a senior Trump administration official told reporters in a call earlier Thursday.
+The official noted that the new tariffs would not "stack" on top of existing import taxes on steel and aluminum, known as "Section 232" duties, that Trump imposed last year on national-security grounds.
+The latest trade action underscores how the Trump administration is ramping its aggressive use of tariffs back up, after the president's protectionist agenda suffered major legal setbacks earlier this year. Trump has long touted tariffs as key tools for generating revenue and gaining leverage over foreign trade partners, while brushing aside criticisms that they tax U.S. importers and raise prices for U.S. consumers.
+The White House recently imposed 25% tariffs on most U.S. imports from Brazil, which took effect Wednesday, and 50% tariffs on a wide range of goods from Canada, which are set to begin next month.
+The Trump administration had proposed the upcoming tariffs in early June, after concluding that the targeted countries failed to effectively ban the use of forced-labor practices in trade with the U.S.
+The new tariffs are being brought under Section 301 of the Trade Act of 1974, one of trade tools Trump has wielded since the Supreme Court struck down his global "liberation day" duties on Feb. 20.
+Hours after that court loss, a furious Trump said he would impose a worldwide 10% tariff under Section 122 of the 1974 trade law. But that tariff came with a 150-day timer that was set to lapse at 12:01 a.m. ET on Friday.
+In March, the Trump administration announced two separate Section 301 investigations: the forced-labor probe, and another one centered on concerns about excess manufacturing capacity by 16 economies. The latter probe has yet to be finalized.
+"We commit to continuing to use tariffs and to negotiate deals to support the reindustrialization of our economy, protect American workers, and increase their wages and shrink our trade deficit," U.S. Trade Representative Jamieson Greer said in Senate testimony Wednesday.`,
+    bodyJa: `連邦公報の通知によると、トランプ政権は金曜日、強制労働違反の疑いで数十カ国に新たな関税を課した。
+この関税は10％から12.5％の間に設定され、事実上、ドナルド・トランプ大統領による一時的な10％の世界共通関税に代わるもので、この関税は新しい関税の発効と同じ東部時間午前12時01分に期限切れとなった。
+米通商代表部は木曜午後のファクトシートで、この関税は貿易相手国60カ国に適用され、米国貿易の99.4％をカバーすると発表した。同局は別途CNBCに対し、新たな関税がどれだけの収入を生み出すかについての見積もりは提示できないと語った。
+トランプ政権高官は木曜初めの電話で記者団に対し、今回の措置は「米国がこれまでに取った中で、どの国も取った中で最も広範な国際的な労働者の権利措置だ」と語った。
+同当局者は、新たな関税は、トランプ大統領が昨年国家安全保障を理由に課した「セクション232」関税として知られる鉄鋼とアルミニウムに対する既存の輸入税に「重ねて」適用されるものではないと指摘した。
+今回の通商措置は、今年初めに大統領の保護主義的政策が法的に大きな後退を経験した後、トランプ政権がいかに積極的な関税行使を再び強化しているかを浮き彫りにしている。トランプ大統領は長年、関税が歳入を生み出し、外国貿易相手国に対する影響力を得る重要な手段であると宣伝してきたが、関税が米国の輸入業者に課税し、米国の消費者向けの価格を引き上げているという批判を無視してきた。
+ホワイトハウスは最近、米国からのブラジルからのほとんどの輸入品に25％の関税を課し、水曜日に発効し、カナダからの幅広い品物に50％の関税を課し、来月から開始する予定だ。
+トランプ政権は、対象国が米国との貿易における強制労働行為の利用を効果的に禁止していないとの結論に達した後、6月初旬に次の関税を提案していた。
+新たな関税は1974年通商法第301条に基づいて発動されるもので、最高裁判所が2月20日にトランプ大統領の世界的な「解放デー」の義務を打ち消して以来、トランプ大統領が利用してきた貿易手段の1つである。
+この裁判での敗訴から数時間後、激怒したトランプ大統領は、1974年の通商法第122条に基づき全世界に10％の関税を課すと述べた。しかし、この関税には150日間のタイマーが付いており、金曜日の東部時間午前0時1分に期限が切れるように設定されていた。
+3月、トランプ政権は301条に基づく2つの個別の調査を発表した。強制労働調査と、16カ国による過剰製造能力への懸念を中心とした調査だ。後者の調査はまだ最終決定されていません。
+ジェイミーソン・グリア米通商代表部代表は水曜日の上院証言で、「われわれは経済の再産業化を支援し、米国労働者を保護し、賃金を引き上げ、貿易赤字を縮小するため、引き続き関税を発動し、取引交渉を行うことにコミットする」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html",
+    publishedAt: "2026-07-24T13:31:53+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "charter-sees-further-erosion-of-its-inte-66d23df9",
+    title: "Charter sees further ‘erosion’ of its internet business, sending the stock sharply lower",
+    titleJa: "チャーターはインターネット事業のさらなる「侵食」を予見し、株価は大幅に下落",
+    summaryJa: "同社は40万以上の新しいモバイル回線を引き込んだにもかかわらず、予想よりも多くのブロードバンド加入者を失った。",
+    bodyOriginal: `The company lost more broadband subscribers than expected, although it hauled in more than 400,000 new mobile lines.`,
+    bodyJa: `同社は40万以上の新しいモバイル回線を引き込んだにもかかわらず、予想よりも多くのブロードバンド加入者を失った。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/charter-sees-further-erosion-of-its-internet-business-sending-the-stock-sharply-lower-13ccadfe?mod=mw_rss_topstories",
+    publishedAt: "2026-07-24T13:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-593086",
+    readTime: 2,
+  },
+  {
+    id: "the-club-s-top-10-things-to-watch-in-the-465e7851",
+    title: "The Club's top 10 things to watch in the stock market Friday",
+    titleJa: "金曜日の株式市場でクラブが注目すべきトップ10の事柄",
+    summaryJa: "クラブの注目すべきトップ 10 7 月 24 日金曜日 — 今日のニュースレターは、クラブのポートフォリオ分析ディレクターである Jeff Marks によって書かれました。 1. 昨日の原油価格と債券利回りの上昇、およびハイパースケーラーの積極的な AI 投資に対する懸念から株価は下落し、株価は穏やかな寄り付きに向かっています。この強力な横流の組み合わせにより、押し目買いを控えることができました。 2. 昨夜、Club チップメーカーが四半期の暴落を報告した後、Intel 株はわずかに上昇しただけです。エージェントのワークロードにより、AI アクセラレータ (Nvidia の GPU や Google の社内 TPU など) に比べて必要な CPU の数が増加するため、データセンターの CPU の供給が需要に追いつかない。 Intelのサードパーティファウンドリ事業は進展しているが、新規顧客の発表はない。需要に応えるために設備投資は大幅に増加する。 3. クラブ名 Nvidia と Amkor は、次世代 AI およびアクセラレーション コンピューティング向けの高度な半導体パッケージ",
+    bodyOriginal: `The Club's top 10 things to watch Friday, July 24 — Today's newsletter was written by Jeff Marks, the Club's director of portfolio analysis. 1. Stocks are headed for a muted open following yesterday's sell-off on rising oil prices and bond yields, and on concerns about hyperscalers' aggressive AI spending. That potent mix of crosscurrents held us back from buying the dip. 2. Intel shares are only modestly higher after the Club chipmaker reported a blowout quarter last night . Supply of data center CPUs can't keep up with demand as agentic workloads increase the number of CPUs needed relative to AI accelerators (like Nvidia's GPUs and Google's in-house TPUs). Intel's third-party foundry business is making progress, but no new customer announcements. Capex to increase significantly to meet demand. 3. Club name Nvidia and Amkor announced a $1.5 billion multiyear strategic partnership to develop advanced semiconductor packaging and testing technologies for next-generation AI and accelerated computing. Shares of Amkor are up over 11% this morning. UBS upgraded Amkor to buy from hold. Price target went to $90 from $80. 4. American Express reported a better-than-expected quarter. But like we heard with Club stock Capital One earlier this week, AXP is reinvesting its profits to fund growth opportunities. Shares fell after the company left its outlook for full-year earnings per share unchanged. 5. SLB shares moved higher after the oilfield services company beat analyst estimates on both revenue and adjusted EPS. Offshore activity in Latin America, Asia, Europe and Africa more than offset disruptions in the Middle East. The company's data center solutions business is on track to exceed $1 billion annualized revenue run rate by the end of the year. 6. Deckers Outdoor shares are lower after reporting in-line sales, a penny beat on EPS, and a small bump to the company's full-year outlook. CEO Stefano Carot said that despite pressure on consumers, he believes Hoka and Uggs will continue taking market share thanks to a "compelling product pipeline." 7. GE Healthcare said CFO Jay Saccaro is stepping down to pursue a role outside the med-tech space. The maker of MRI machines also reported preliminary second-quarter revenue slightly above analyst estimates. The General Electric breakup has created tremendous shareholder value, but GEHC is the laggard of the three entities. GE Aerospace and Club name GE Vernova have been the real winners. 8. Citi placed an "upside 90-day catalyst watch" on Dell , citing great conviction in earnings momentum. Earlier this week, fellow AI server maker Super Micro issued strong preliminary numbers . Jim Cramer said in response that if Super Micro is doing well, then Dell must be doing amazing. 9. Verizon reported a mixed quarter, with a miss on revenue but a small EPS beat. The company raised its full-year adjusted earnings outlook slightly. Postpaid phone net additions of 184,000 was ahead of the 111,000 consensus, per FactSet. Shares aren't doing much premarket. Rival AT & T delivered a strong print Wednesday morning, gaining 3.5% that day. 10. Oracle was awarded a 10-year, $7 billion software contract with the Department of Defense. The stock is up almost 2% this morning. If the gains hold, it would only be Oracle's 10th positive session since June 1. Shares are down over 50% in that stretch. Sign up for my Top 10 Morning Thoughts on the Market email newsletter for free (See here for a full list of the stocks at Jim Cramer's Charitable Trust.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.`,
+    bodyJa: `クラブの注目すべきトップ 10 7 月 24 日金曜日 — 今日のニュースレターは、クラブのポートフォリオ分析ディレクターである Jeff Marks によって書かれました。 1. 昨日の原油価格と債券利回りの上昇、およびハイパースケーラーの積極的な AI 投資に対する懸念から株価は下落し、株価は穏やかな寄り付きに向かっています。この強力な横流の組み合わせにより、押し目買いを控えることができました。 2. 昨夜、Club チップメーカーが四半期の暴落を報告した後、Intel 株はわずかに上昇しただけです。エージェントのワークロードにより、AI アクセラレータ (Nvidia の GPU や Google の社内 TPU など) に比べて必要な CPU の数が増加するため、データセンターの CPU の供給が需要に追いつかない。 Intelのサードパーティファウンドリ事業は進展しているが、新規顧客の発表はない。需要に応えるために設備投資は大幅に増加する。 3. クラブ名 Nvidia と Amkor は、次世代 AI およびアクセラレーション コンピューティング向けの高度な半導体パッケージングおよびテスト技術を開発するための、15 億ドルの複数年にわたる戦略的提携を発表しました。今朝、Amkorの株価は11％以上上昇した。 UBSはAmkorをホールドから購入するよう格上げした。目標株価は80ドルから90ドルに引き上げられた。 4. アメリカン・エキスプレスは予想を上回る四半期を報告しました。しかし、今週初めにクラブ株キャピタルワンで聞いたように、AXPは成長機会に資金を提供するために利益を再投資しています。同社が通期の１株利益見通しを据え置いたことで株価は下落した。 5. 油田サービス会社が売上高と調整後EPSの両方でアナリスト予想を上回ったことを受け、SLB株は上昇した。ラテンアメリカ、アジア、ヨーロッパ、アフリカにおけるオフショア活動は、中東における混乱を補って余りあるものです。同社のデータセンター ソリューション ビジネスは、年末までに年間売上高が 10 億ドルを超える見込みです。 6. デッカーズ アウトドアの株価は、インライン売上高、EPS のわずかな上昇、および同社の通期見通しへのわずかな上昇を報告した後、下落しています。 CEOのステファノ・カロト氏は、消費者へのプレッシャーにもかかわらず、「魅力的な製品パイプライン」のおかげでホカとアグスが引き続き市場シェアを獲得すると信じていると述べた。 7. GEヘルスケアは、最高財務責任者ジェイ・サッカロ氏が医療技術分野以外での役割を追求するために辞任すると述べた。 MRI装置メーカーである同社はまた、第2四半期の売上高がアナリスト予想をわずかに上回る暫定値を報告した。ゼネラル・エレクトリック社の分割は莫大な株主価値を生み出したが、GEHCは3社の中で出遅れている。 GEエアロスペースとクラブ名GE Vernovaが真の勝者となった。 8. シティは、収益の勢いに大きな確信を持っているとして、デルに対して「90日間の上昇要因ウォッチ」を設定した。今週初め、同じ AI サーバー メーカーである Super Micro が強力な暫定数字を発表しました。 Jim Cramer 氏は、Super Micro の業績が好調なら、Dell の業績も素晴らしいに違いないと答えました。 9. Verizon は、売上高は伸びなかったものの、EPS はわずかに上回ったものの、まちまちの四半期となったと報告しました。同社は通年の調整後利益見通しを若干引き上げた。ファクトセットによると、ポストペイド電話の純増数は 184,000 件で、コンセンサスである 111,000 件を上回りました。株価は市場前にはあまり伸びていない。ライバルのAT&Tは水曜朝に好調な業績を発表し、その日は3.5％上昇した。 10. Oracle は国防総省と 10 年間、70 億ドルのソフトウェア契約を締結しました。今朝の株価は約２％上昇した。このまま上昇が続けば、オラクルにとって6月1日以来10回目のプラス取引となる。その間、株価は50％以上下落した。マーケットに関する私のトップ 10 の朝の考え電子メール ニュースレターに無料でサインアップしてください (ジム クレイマー慈善信託の株式の完全なリストについては、ここを参照してください。) ジム クレイマーの CNBC 投資クラブの購読者として、ジムが取引を行う前に取引アラートを受け取ります。ジムは、取引アラートを送信してから 45 分間待ってから、慈善信託のポートフォリオの株式を売買します。ジムが CNBC テレビで株について話した場合、取引アラートを発行してから 72 時間待ってから取引を実行します。上記の投資クラブ情報は、当社の免責事項とともに、当社の利用規約およびプライバシー ポリシーの対象となります。投資クラブに関連して提供された情報をお客様が受領したことによって、受託者としての義務や義務が存在したり、発生したりすることはありません。特定の結果や利益は保証されません。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/24/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+    publishedAt: "2026-07-24T13:06:26+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "my-second-husband-and-i-have-kids-from-p-447e8494",
+    title: "My second husband and I have kids from previous relationships. Should my house go to him or my children if I die first?",
+    titleJa: "2番目の夫と私には、以前の交際相手との間にできた子供たちがいます。私が先に死んだ場合、私の家は彼か子供たちのところに行くべきでしょうか？",
+    summaryJa: "「私たちは結婚前に持っていたお金で購入した家に住んでいます。」",
+    bodyOriginal: `“We live in a house that I purchased entirely with money I had before we were married.”`,
+    bodyJa: `「私たちは結婚前に持っていたお金で購入した家に住んでいます。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-have-children-from-my-first-marriage-should-my-second-husband-inherit-my-house-if-i-die-d9bd8687?mod=mw_rss_topstories",
+    publishedAt: "2026-07-24T13:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-91798426",
+    readTime: 2,
+  },
+  {
+    id: "why-are-uk-fuel-prices-rising-again-8fc7b7c0",
+    title: "Why are UK fuel prices rising again?",
+    titleJa: "英国の燃料価格が再び上昇しているのはなぜですか?",
+    summaryJa: "英国の燃料価格が再び上昇しているのはなぜですか?- 公開されました",
+    bodyOriginal: `Why are UK fuel prices rising again?
+- Published
+UK petrol prices have risen their highest level since mid-June, according to data from motoring organisation RAC, as the US-Israel war with Iran continues to affect drivers' finances.
+The price of fuel tends to track the wholesale price of oil and both have been rising for weeks since the collapse of peace talks to end the conflict.
+When the conflict began on 28 February, prices surged as the fighting severely disrupted the production and transportation of energy across the Middle East.
+Prices then nosedived when US and Iran agreed to a framework deal to end the fighting in June, but wholesale oil has risen above $100 (£75) a barrel again as tensions resurface.
+Simon Williams, head of policy at the RAC, said: "Unless the hostilities end soon, it's hard not to see the price of petrol reaching a new Iran war high."
+How do wholesale oil prices affect the cost of petrol and diesel at the pump?
+Crude oil is a key ingredient in petrol and diesel, which means that higher wholesale costs make filling up a car more expensive.
+Analysts say every $10 (£7.53) increase in the oil price pushes up pump prices by roughly 7p a litre.
+Since the war began, the price of a barrel of Brent crude – the global benchmark for wholesale oil prices – has been very volatile.
+Before the conflict, Brent was about $70 a barrel, but the conflict saw it peak at above $120.
+In early July, after the framework deal was signed, prices fell back to near the $70 a barrel mark, but have climbed back up again to above $100 a barrel.
+What has happened to petrol prices in the UK?
+According to the RAC, the average price of petrol reached an Iran war peak of 159.53p a litre on 28 May, while diesel's highest average price during the conflict was 191.54p a litre on 15 April.
+In early July, the RAC said the average price of diesel sank to a low of 150.59p per litre for petrol and 164.52p per litre for diesel.
+Since then the prices have been rising and according to its latest data, petrol now costs 156.19p a litre while diesel costs 173.15p a litre.
+Despite the conflict, petrol and diesel prices remain below the levels reached in the summer of 2022 following Russia's invasion of Ukraine, when petrol reached 191.5p a litre and diesel hit 199p.
+Because transporting oil is a slow process, price movements in the wholesale markets take about a fortnight to show at the pump.
+Fuel retailers have denied accusations of price gouging during the conflict. The official markets regulator said it had "not seen evidence of retailers actively changing their pricing strategies to take advantage of the crisis".
+A government scheme called Fuel Finder, external lets drivers compare the cost of fuel offered by petrol stations across the UK.
+Luke Bosdet, the head of policy at the AA, said the group had been surprised at the speed that prices had fallen and put it down to the scheme.
+On 20 May, then Prime Minister Sir Keir Starmer said a planned 5p increase in fuel duty due in September would be postponed until 31 December because of the conflict.
+Why has the Iran war had a big impact on oil prices?
+The Middle East conflict sent global oil prices soaring as it effectively closed the Strait of Hormuz - one of the world's key water transport routes for oil, liquid natural gas and other essential commodities - limiting global supplies.
+About 20% of the world's oil and liquefied natural gas normally passes through the waterway.
+Despite the deal between the US and Iran, experts warn a return to normal levels of shipping through the Strait of Hormuz will take time, and the impact of the war will continue to affect the global economy for potentially months to come.
+Why and how is US blockading Iranian ports in Strait of Hormuz?
+- Published30 April
+Oil price predicted to remain above $100 for rest of year
+- Published11 May
+Where does the UK get its oil and gas?
+The UK is heavily reliant on oil and gas imports, with the majority coming from the US and Norway.
+The price of oil on the global market determines how much the UK pays for it.
+Although the UK does get some oil from the North Sea, most of that is exported for refining elsewhere.
+You can also send us your questions by following this link
+Reporting by Faarea Masud, Jemma Crew, Alex Daniel, Michael Race, and Mitchell Labiak
+Get in touch
+How have you been affected by the price rises? Share your experiences
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    bodyJa: `英国の燃料価格が再び上昇しているのはなぜですか?
+- 公開されました
+自動車業界団体ＲＡＣのデータによると、米国・イスラエルとイランの戦争がドライバーの財政に影響を及ぼし続けているため、英国のガソリン価格は６月中旬以来の最高水準に上昇した。
+燃料価格は石油卸売価格に追随する傾向があり、紛争終結に向けた和平交渉の決裂以来、数週間にわたり両者とも上昇している。
+2月28日に紛争が始まると、戦闘により中東全域でエネルギーの生産と輸送が著しく混乱したため、価格が急騰した。
+その後、米国とイランが6月に戦闘終結に向けた枠組み協定に合意すると価格は急落したが、緊張が再燃するにつれ原油卸売価格は再び1バレル＝100ドル（75ポンド）を超えた。
+ＲＡＣの政策責任者サイモン・ウィリアムズ氏は、「敵対行為がすぐに終わらない限り、ガソリン価格が新たなイラン戦争の最高値に達することは避けられない」と語った。
+卸売石油価格はポンプのガソリンとディーゼルのコストにどのような影響を及ぼしますか?
+原油はガソリンとディーゼルの重要な成分であるため、卸売コストが高くなると車のガソリン満油の費用も高くなります。
+アナリストらによると、原油価格が10ドル（7.53ポンド）上昇するたびに、ポンプの価格は1リットル当たり約7ペンス上昇するという。
+戦争が始まって以来、原油卸売価格の世界的な基準であるブレント原油1バレルの価格は非常に不安定だった。
+紛争前、ブレント原油は1バレルあたり約70ドルだったが、紛争により最高値は120ドルを超えた。
+枠組み合意署名後の7月初旬、価格は1バレル当たり70ドル近くまで下落したが、再び1バレル当たり100ドルを超える水準まで上昇した。
+イギリスのガソリン価格はどうなったのでしょうか?
+RACによると、ガソリンの平均価格は5月28日、イラン戦争時の最高値である1リットル当たり159.53ペンスに達したが、紛争中のディーゼルの平均価格の最高値は4月15日の1リットル当たり191.54ペンスだった。
+RACは7月初旬、ディーゼルの平均価格がガソリンで1リットル当たり150.59ペンス、ディーゼルで1リットル当たり164.52ペンスの安値まで下落したと発表した。
+それ以来、価格は上昇しており、最新のデータによると、ガソリンは1リットルあたり156.19ペンス、ディーゼルは1リットルあたり173.15ペンスとなっている。
+紛争にもかかわらず、ガソリンとディーゼルの価格は、ロシアのウクライナ侵攻後の2022年夏に達した水準（ガソリンは1リットル当たり191.5ペンス、ディーゼルは199ペンスに達した）を下回ったままである。
+石油の輸送には時間がかかるため、卸売市場の価格変動が反映されるまでに約 2 週間かかります。
+燃料小売業者は紛争中の価格つり上げの告発を否定している。当局の市場規制当局は「小売業者が危機に乗じて価格戦略を積極的に変更している形跡は見られない」と述べた。
+Fuel Finder と呼ばれる政府の制度により、ドライバーは英国全土のガソリン スタンドが提供する燃料のコストを比較できます。
+AAの政策責任者であるルーク・ボスデット氏は、同団体は価格下落のスピードに驚き、原因はこの計画にあると述べた。
+5月20日、当時のキア・スターマー首相は、9月に予定されていた燃料税の5ペンス引き上げが紛争のため12月31日まで延期されると発表した。
+なぜイラン戦争は原油価格に大きな影響を与えたのでしょうか?
+中東紛争により、石油、液化天然ガス、その他の必需品の世界の重要な水輸送ルートの一つであるホルムズ海峡が事実上閉鎖され、世界の石油価格が高騰し、世界の供給が制限された。
+通常、世界の石油と液化天然ガスの約 20% が水路を通過します。
+米国とイラン間の合意にもかかわらず、専門家らは、ホルムズ海峡を通る海運が通常レベルに戻るには時間がかかり、戦争の影響は今後数カ月にわたって世界経済に影響を及ぼし続けると警告している。
+米国はなぜ、どのようにホルムズ海峡でイランの港を封鎖しているのか?
+- 4 月 30 日発行
+原油価格は残りの期間も100ドルを超えると予想
+- 5 月 11 日公開
+英国はどこから石油とガスを入手しますか?
+英国は石油とガスの輸入に大きく依存しており、その大部分は米国とノルウェーからのものです。
+世界市場の石油価格によって、英国が石油に支払う金額が決まります。
+英国は北海から石油を一部入手していますが、そのほとんどは他の場所で精製するために輸出されています。
+このリンクから質問を送信することもできます
+ファエリア・マスッド、ジェマ・クルー、アレックス・ダニエル、マイケル・レース、ミッチェル・ラビアクによるレポート
+連絡する
+価格上昇によりどのような影響を受けましたか?あなたの経験を共有してください
+一日の始まりに必要な見出しをすべて掲載した、当社の主力ニュースレターを入手してください。ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-24T10:45:41+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 5,
+  },
+  {
+    id: "watch-another-day-more-trump-tariffs-but-26d3478a",
+    title: "Watch: Another day, more Trump tariffs - but are they working?",
+    titleJa: "動画: 別の日、トランプ大統領への追加関税 - しかし効果はあるのか?",
+    summaryJa: "動画: 別の日、トランプ大統領への追加関税 - しかし効果はあるのか?トランプ大統領の2期目の任期中、関税が大きくニュースになることはなかったが、さらに大量の輸入税が施行されたばかりだ。",
+    bodyOriginal: `Watch: Another day, more Trump tariffs - but are they working?
+Tariffs have never been far from the headlines during President Trump's second term in office and another raft of these import taxes has just come into force.
+So are US households really paying 1.5% more because of them?
+The BBC's Samira Hussain explains how tariffs are affecting the US economy, who pays the price, and whether they're meeting their objectives.
+Related topics
+- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Trump tariffsUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
+    bodyJa: `動画: 別の日、トランプ大統領への追加関税 - しかし効果はあるのか?
+トランプ大統領の2期目の任期中、関税が大きくニュースになることはなかったが、さらに大量の輸入税が施行されたばかりだ。
+では、米国の世帯は本当にそれらのせいで 1.5% 多く支払っているのでしょうか?
+BBCのサミラ・フセインは、関税が米国経済にどのような影響を与えているのか、その代償を誰が支払っているのか、そして関税がその目標を達成しているのかについて説明します。
+関連トピック
+- ドナルド トランプニュース トピックの最新情報は、マイ ニュースとニュース ホームページのコレクションに表示されます。
+- 米国ニュース トピックの更新は、マイ ニュースおよびニュース ホームページのコレクションに表示されます。
+- トランプ関税ニュース トピックの更新は、マイ ニュースとニュース ホームページのコレクションに表示されます。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-24T10:21:31+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e698/live/f875fc40-873e-11f1-926f-c90d1bcfbc84.jpg",
+    readTime: 2,
+  },
+  {
     id: "wise-group-shares-tank-after-u-s-bank-ch-b4d086c0",
     title: "Wise Group shares tank after U.S. bank charter rejected. What’s next for the fintech.",
     titleJa: "米国の銀行認可が拒否された後、ワイズグループはタンク株を保有。フィンテックの次は何だろう。",
@@ -1539,402 +1765,6 @@ Related topics
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg",
     readTime: 4,
-  },
-  {
-    id: "texas-instruments-shares-are-sliding-and-370a52ae",
-    title: "Texas Instruments shares are sliding, and its rival is doing even worse. What’s going on in the world of analog semiconductors.",
-    titleJa: "テキサス・インスツルメンツの株価は下落しており、ライバル企業の業績はさらに悪化している。アナログ半導体の世界で何が起きているのか。",
-    summaryJa: "アナログ半導体メーカーの両社が第2四半期に強い需要を報告したことを受けて高まる期待に応えようと苦戦したため、木曜日にはテキサス・インスツルメンツの株価が下落する一方、STマイクロエレクトロニクスの株価は急落した。",
-    bodyOriginal: `Texas Instruments shares were falling while STMicroelectronics stock was diving on Thursday, after both makers of analog semiconductors struggled to meet heightened expectations after reporting strong demand in the second quarter.`,
-    bodyJa: `アナログ半導体メーカーの両社が第2四半期に強い需要を報告したことを受けて高まる期待に応えようと苦戦したため、木曜日にはテキサス・インスツルメンツの株価が下落する一方、STマイクロエレクトロニクスの株価は急落した。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/texas-instruments-shares-are-sliding-and-its-rival-is-doing-even-worse-whats-going-on-in-the-world-of-analog-semiconductors-e999a8ac?mod=mw_rss_topstories",
-    publishedAt: "2026-07-23T08:36:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-89037579",
-    readTime: 2,
-  },
-  {
-    id: "unicredit-ceo-tells-cnbc-acquisition-of-ab8f2cec",
-    title: "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter",
-    titleJa: "ウニクレディトのCEO、CNBCによるコメルツ銀行の買収は第4四半期に起こる可能性があると語る",
-    summaryJa: "ウニクレディトのアンドレア・オーセル最高経営責任者（ＣＥＯ）は木曜日、ＣＮＢＣに対し、イタリアの銀行が第４・四半期にコメルツ銀行を買収する「可能性がある」と語った。",
-    bodyOriginal: `UniCredit is aiming to exercise control of Commerzbank in the fourth quarter, the CEO of the Italian bank told CNBC in an exclusive interview.
-Speaking with CNBC's "Europe Early Edition," UniCredit CEO Andrea Orcel said the bank is happy with its position in Commerzbank, with the bank now closing in on full control of the German lender, having upped its stake to 48%.
-Orcel said the Italian bank is firing on all cylinders, having raised its full-year guidance after posting its best-ever second-quarter and first-half results Thursday.
-Asked when a full acquisition could take place, Orcel told CNBC's Carolin Roth that certain steps still need to happen.
-"With respect to the normal regulatory environment and antitrust, and what would allow us to take ownership of tendered shares and therefore exercise control, we think now potentially in Q4, maybe later, and that would mark the moment when we go in."
-"That would mark the moment when we go in," the CEO said, adding that they would not wait for the AGM in May.
-He said that the two banks remain "very different," adding that a number of alignments need to occur before any full merger takes place.
-CNBC has contacted Commerzbank for comment.
-Takeover battle
-UniCredit's swoop for Commerzbank has been one of Europe's most closely-watched takeover tussles in recent years.
-The Italian bank took an initial 9% stake in 2024, before ramping it up to about 30% in March, fueling expectations of a full takeover. That prospect has been fiercely resisted by both Commerzbank management and the German government, which holds a 12% stake in the lender.
-In its second-quarter results statement, UniCredit said the Commerzbank deal has evolved from "an attractive financial investment" to a "strategic transaction of substantial industrial value creation."
-The Italian bank's net profit fell 13% to 2.9 billion euros ($3.3 billion) in the second quarter, or 3.1 billion euros when excluding one-off hedging and certain other funding costs relating to the increased stake in Commerzbank.
-Its full-year net profit target has been upgraded to more than 11 billion euros.`,
-    bodyJa: `ウニクレディトは第４・四半期にコメルツ銀行の支配権を行使することを目指しているとイタリアの銀行の最高経営責任者（ＣＥＯ）が独占インタビューでＣＮＢＣに語った。
-ウニクレディトのアンドレア・オーセル最高経営責任者（ＣＥＯ）はＣＮＢＣの「ヨーロッパ・アーリー・エディション」とのインタビューで、同銀行がコメルツ銀行での立場に満足しており、同銀行は現在出資比率を４８％に引き上げ、ドイツの金融業者の完全な支配権に近づいていると述べた。
-オルセル氏は、イタリアの銀行は木曜日に過去最高となる第2四半期と上半期の業績を発表したことを受けて通期見通しを引き上げ、すべてのシリンダーに注力していると述べた。
-完全な買収がいつ行われるのかとの質問に対し、オーセル氏はCNBCのキャロリン・ロスに対し、まだ一定の措置を講じる必要があると語った。
-「通常の規制環境と独占禁止法、そして当社が公開株の所有権を取得してコントロールを行使できるようになるものに関しては、現時点では潜在的に第4四半期かそれ以降になる可能性があると考えており、それが当社が参入する瞬間となるだろう。」
-同最高経営責任者（ＣＥＯ）は「それがわれわれの入社の瞬間となるだろう」と述べ、５月の株主総会を待つつもりはないと付け加えた。
-同氏は、両銀行は依然として「大きく異なっている」と述べ、完全な合併が行われる前に多くの調整を行う必要があると付け加えた。
-CNBCはコメルツ銀行にコメントを求めた。
-乗っ取り合戦
-ウニクレディトによるコメルツ銀行への買収は、近年ヨーロッパで最も注目されている買収争いの一つとなっている。
-イタリアの銀行は2024年に当初9％の株式を取得し、その後3月に約30％に引き上げ、完全買収への期待が高まった。この見通しには、コメルツ銀行の経営陣と、同銀行の株式の12％を保有するドイツ政府の両方が激しく抵抗している。
-ウニクレディトは第２・四半期決算報告書で、コメルツ銀行との取引が「魅力的な金融投資」から「実質的な産業価値創造の戦略的取引」に進化したと述べた。
-イタリア銀行の第２・四半期の純利益は１３％減の２９億ユーロ（３３億ドル）となった。これは、コメルツ銀行の株式増加に関連する一時的なヘッジやその他の特定の資金調達コストを除くと３１億ユーロとなる。
-通期の純利益目標は１１０億ユーロ以上に引き上げられた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/unicredit-commerzbank-takeover-acquisition-2q-earnings.html",
-    publishedAt: "2026-07-23T08:23:04+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "houthis-claim-strikes-on-saudi-arabian-o-c88777d8",
-    title: "Houthis claim strikes on Saudi Arabian oil tankers as Rubio says Iran not ready to make a deal",
-    titleJa: "ルビオ氏がイランには合意の準備ができていないと発言、フーシ派がサウジアラビアのタンカー攻撃を主張",
-    summaryJa: "テヘランが支援するフーシ派は、紅海でサウジアラビアの石油タンカー２隻を攻撃したと主張し、米国が１２夜連続の対イラン攻撃を完了する中、中東紛争に新たな前線を開く恐れがある。イエメンのフーシ派は水曜日、海上封鎖に違反した疑いで、サウジアラビアの石油タンカー「エンセリア」と「ライラ」２隻を無人機とミサイルで標的にしたと発表した。",
-    bodyOriginal: `The Tehran-backed Houthis have claimed attacks on two Saudi Arabian oil tankers in the Red Sea, threatening to open up a new front in the Middle East conflict as the U.S. completed its 12th consecutive night of strikes on Iran.
-Yemen's Houthis said Wednesday that they had targeted two Saudi Arabian oil tankers, named Encelia and Layla, with drones and missiles for allegedly violating their maritime blockade.
-The attack, if confirmed, would mark the first since the militant group announced a naval blockade against Saudi Arabia.
-The state-run Saudi Press Agency (SPA) confirmed the Encelia was targeted while transiting the Red Sea, resulting in a fire at the bow of the vessel. Citing an unnamed official from the Transport General Authority, the agency reported all crew were safe and described the attack as a violation of international law.
-The SPA did not provide an update on the Layla tanker.
-Separately, the United Kingdom Maritime Trade Operations (UKMTO) reported Wednesday that an "unknown projectile" struck a Saudi Arabian oil tanker about 130 kilometers from the coastal town of Al Shuqaiq in Saudi Arabia. UKMTO said the incident resulted in a fire onboard and reported no casualties.
-The U.S. Central Command said overnight that American forces completed another round of strikes against Iran, hitting military targets including maritime capabilities, missile and drone storage facilities, and air defense assets.
-"The strikes further degrade Iran's ability to attack civilian mariners and commercial vessels," Centcom said in a statement.
-It added that U.S. forces have targeted dozens of Iranian military sites on land this month while resuming a blockade against the Islamic Republic at sea. As of Thursday evening, Centcom said it had redirected nine commercial vessels and disabled one to prevent ships from entering or departing Iranian ports.
-U.S. Secretary of State Marco Rubio told reporters on Thursday that Iran is still not ready to make a deal — "at least not one they are willing to live by."
-"They are going to continue to pay a price and every night the price gets higher and higher and higher," Rubio said.
-Asked for his reaction to Houthi-claimed attacks on two Saudi Arabian oil tankers in the Red Sea, Rubio said: "I hope that they will stop. They shouldn't really do that. They got suckered into this by the Iranians."
-Oil prices were higher on Thursday morning, extending recent gains, as the U.S. and Iran ratcheted up hostilities.
-International benchmark Brent crude futures with September delivery were last seen trading up 3.6% at $97.46 per barrel. U.S. West Texas Intermediate futures with September delivery, meanwhile, stood 2.7% higher at $89.14.
-Trump threatens Iran bridges and power plants
-The Institute for the Study of War, a Washington-based think tank, said in its latest update that at least seven vessels had changed course to avoid transiting through the Bab el-Mandeb Strait in light of the Houthis blockade on Saudi Arabian ports. The Bab el-Mandeb Strait is a choke point for commercial ship traffic that connects the Red Sea to the Gulf of Aden and global markets.
-The U.S. has also increasingly struck Iranian targets outside of southern Iran, including western and northwestern Iran, the ISW said.
-President Donald Trump had warned the U.S. would destroy an Iranian bridge or power plant each time Iran attacks a ship in the strategically vital Strait of Hormuz, signaling a further fracturing of the interim peace agreement signed by both sides last month.
-"From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, whether it be by Missile, Rocket, Drone, or any other device or weapon, the United States will bomb and destroy ONE BRIDGE OR POWER PLANT," Trump said Wednesday in a Truth Social post.
-In response, Iran said it would retaliate to those strikes with attacks against U.S.-linked infrastructure and energy assets in the region.`,
-    bodyJa: `テヘランが支援するフーシ派は、紅海でサウジアラビアの石油タンカー２隻を攻撃したと主張し、米国が１２夜連続の対イラン攻撃を完了する中、中東紛争に新たな前線を開く恐れがある。
-イエメンのフーシ派は水曜日、海上封鎖に違反した疑いで、サウジアラビアの石油タンカー「エンセリア」と「ライラ」２隻を無人機とミサイルで標的にしたと発表した。
-この攻撃が確認されれば、武装勢力がサウジアラビアに対する海上封鎖を発表して以来初めてとなる。
-国営サウジ通信社（SPA）は、エンセリア号が紅海を航行中に標的にされ、船首部で火災が発生したことを確認した。運輸総局の匿名当局者の話として、同局は乗組員全員が無事であると報告し、この攻撃は国際法違反であると述べた。
-SPAはタンカーLaylaに関する最新情報を提供しなかった。
-これとは別に、英国海事貿易業務局（UKMTO）は水曜日、サウジアラビアの沿岸都市アル・シュカイクから約130キロメートル離れた場所で「未知の飛翔体」がサウジアラビアの石油タンカーに衝突したと報告した。 UKMTOは、この事故により船内で火災が発生したが、死傷者は出なかったと発表した。
-米中央軍は夜通し、米軍が海上能力、ミサイルや無人機の保管施設、防空資産などの軍事目標を攻撃し、イランに対する追加攻撃を完了したと発表した。
-セントコムは声明で「今回の攻撃により、民間船員や商船を攻撃するイランの能力がさらに低下する」と述べた。
-さらに、米軍は今月、海上ではイランに対する封鎖を再開する一方、陸上では数十のイラン軍事拠点を標的にしていると付け加えた。セントコムは、木曜夕方の時点で、イラン港への船舶の出入りを阻止するため、9隻の商船の航路を変更し、1隻を航行不能にしたと発表した。
-マルコ・ルビオ米国務長官は木曜日、記者団に対し、イランはまだ合意を結ぶ準備ができていないと述べ、「少なくともイランが従うつもりのある合意には至っていない」と述べた。
-「彼らは今後も代償を払い続けることになるが、その代償は毎晩どんどん高くなっていく」とルビオ氏は語った。
-フーシ派が主張する紅海でのサウジアラビア石油タンカー２隻への攻撃に対する反応を問われたルビオ氏は、「彼らがやめることを願っている。彼らは本当にそんなことをすべきではない。彼らはイラン人に騙されてこの事件に巻き込まれたのだ」と述べた。
-米国とイランの対立が激化する中、木曜朝の原油価格は上昇し、最近の上昇幅を拡大した。
-国際ベンチマークであるブレント原油先物（９月渡し）は直近で３．６％上昇し、１バレル＝９７．４６ドルで取引された。一方、米国ウエスト・テキサス・インターミディエイト先物（９月渡し）は２．７％高の８９．１４ドルとなった。
-トランプ大統領、イランの橋と発電所を脅す
-ワシントンに本拠を置くシンクタンク、戦争研究研究所は最新の更新情報で、フーシ派によるサウジアラビアの港湾封鎖を踏まえ、少なくとも７隻の船舶がバブ・エル・マンデブ海峡の通過を避けるために針路を変更したと発表した。バブ・エル・マンデブ海峡は、紅海とアデン湾および世界市場を結ぶ商船交通の要所です。
-ＩＳＷによると、米国はイラン西部や北西部など、イラン南部以外のイラン目標への攻撃も増えている。
-ドナルド・トランプ大統領は、イランが戦略上重要なホルムズ海峡で船舶を攻撃するたびに、米国はイランの橋や発電所を破壊すると警告し、先月両国が署名した暫定和平合意がさらに破棄される可能性を示唆していた。
-トランプ大統領は水曜、トゥルース・ソーシャルへの投稿で、「今後、イラン・イスラム共和国がホルムズ海峡で船舶を銃撃するたび、それがミサイル、ロケット、ドローン、その他の装置や兵器によるものであれ、米国は橋か発電所の一つを爆撃し、破壊するだろう」と述べた。
-これに対しイランは、地域内の米国関連のインフラやエネルギー資産に対する攻撃で報復すると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
-    publishedAt: "2026-07-23T08:15:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "google-burning-through-cash-with-spirall-3af5f660",
-    title: "Google burning through cash with spiralling AI costs",
-    titleJa: "Google は AI コストの高騰で資金を使い果たしている",
-    summaryJa: "Google は AI コストの高騰で資金を使い果たしている- 公開されました",
-    bodyOriginal: `Google burning through cash with spiralling AI costs
-- Published
-Google parent Alphabet saw its business continue to grow in recent months, yet growing spending on artificial intelligence (AI) infrastructure put its leftover cash into negative territory.
-The company's free cash flow, the cash it maintained after paying for operations and investments, came in at negative $5.9bn (£4.3bn) for the first time in at least a decade, according to its past financial records.
-Alphabet's spending on AI is now expected to hit as much as $205bn this year, an increase from $190bn, as major tech companies race to build around a new wave of the technology.
-Meanwhile, Alphabet's combined quarterly revenue hit $119.8bn, up 23% compared with the same time last year.
-But the company's stock fell 4% in after-hours trading.
-Anat Ashkanazi, Google's chief financial officer, noted on a call with financial analysts that the company had shown negative free cash flow due to growing capital expenditures, essentially all of which was related to AI spending.
-She said the company spent $45bn in the second quarter, with 60% of the cost going towards servers and the remaining 40% going towards data centres.
-Alphabet's capital spending was $36bn in the first quarter of this year.
-Ashkanazi said on the call that when it comes to AI, "the demand still outpaces that investment".
-"As long as we see these attractive opportunities to invest, we will continue to invest."
-Sundar Pichai, Google's chief executive, said that the technological shift to AI tools and capabilities still "feels like early innings in a shift across multiple areas" and that the company's plans around generating financial returns on its spending were "disciplined".
-"What I see with what you can do with frontier capabilities, there is still a lot of work left to do to translate that into experiences for our users. So that looks like extraordinary opportunities with extraordinary returns."
-Rachel Winter, a partner at the wealth management firm Killik & Co, said there was a bit of surprise among investors about how much Google was spending.
-"They said that this year the total they will spend will be between $195bn and $205bn. So these are huge numbers. And I think the fact that the shares dropped about 3.5% in after-hours trading when the results came out, that suggests there is a little bit of concern about those levels."
-Tesla, the electric vehicle company controlled by Elon Musk, also reported negative free cash flow on Wednesday of $1.1bn for the second quarter due to its own increasing investment costs.
-It was the company's first negative showing of leftover cash in two years, according to its financial records.
-Vaibhav Taneja, Tesla's chief financial officer, said during a call with analysts that the company will spend as much as $25bn this year, more than double its capital spending in 2025.
-He added that Tesla was in "a big investment cycle" and that its spending would probably increase further over the next three years.
-Tesla's stock also dropped by 4% in after-hours trading.
-Related topics
-- Published6 February`,
-    bodyJa: `Google は AI コストの高騰で資金を使い果たしている
-- 公開されました
-グーグルの親会社アルファベットはここ数カ月間、事業が成長を続けているものの、人工知能（AI）インフラへの支出が拡大し、手元資金がマイナス領域に陥っている。
-過去の財務記録によると、同社のフリーキャッシュフロー、つまり営業や投資の支払い後に維持していた現金は、少なくとも10年ぶりにマイナス59億ドル（43億ポンド）となった。
-大手ハイテク企業がテクノロジーの新たな波を中心に構築を競う中、アルファベットのAIへの支出は今年、1900億ドルから増加し、2050億ドルに達すると予想されている。
-一方、アルファベットの四半期売上高は合わせて1198億ドルに達し、前年同時期と比べて23％増加した。
-しかし同社株は時間外取引で４％下落した。
-Googleの最高財務責任者であるアナト・アシュカナジ氏は、財務アナリストとの電話会議で、設備投資の増加により同社のフリーキャッシュフローがマイナスになっており、その実質的にすべてがAI支出に関連していると指摘した。
-同氏によると、同社は第2四半期に450億ドルを費やし、コストの60％がサーバーに、残りの40％がデータセンターに充てられたという。
-今年第1四半期のアルファベットの設備投資は360億ドルだった。
-アシュカナジ氏は電話会議で、AIに関しては「需要が依然として投資を上回っている」と語った。
-「こうした魅力的な投資機会がある限り、我々は投資を続けるだろう。」
-グーグルのサンダー・ピチャイ最高経営責任者（ＣＥＯ）は、ＡＩツールや機能への技術的移行は依然として「複数の分野にわたる移行の初期段階のような気がする」とし、支出から財務的利益を生み出すという同社の計画は「規律正しい」と述べた。
-「フロンティアの機能を使って何ができるかを見ると、それをユーザーのエクスペリエンスに変えるためには、やるべきことがまだたくさん残っています。したがって、それは並外れた利益をもたらす並外れた機会のように見えます。」
-資産管理会社キリック・アンド・カンパニーのパートナー、レイチェル・ウィンター氏は、グーグルが投じた額について投資家の間で多少の驚きがあったと語った。
-「彼らは、今年の支出総額は1950億ドルから2050億ドルになるだろうと述べた。つまり、これは膨大な数字だ。そして、決算発表時に株価が時間外取引で約3.5％下落したという事実は、その水準について若干の懸念があることを示唆していると思う。」
-イーロン・マスク氏が経営する電気自動車会社テスラも水曜日、自社の投資コストの増加により、第2四半期のフリーキャッシュフローが11億ドルのマイナスになったと報告した。
-財務記録によると、同社の現金残高がマイナスとなるのは過去２年間で初めてだった。
-テスラのヴァイバブ・タネジャ最高財務責任者（ＣＦＯ）はアナリストとの電話会議で、同社は今年、２０２５年の設備投資の２倍以上となる２５０億ドルを支出すると述べた。
-同氏は、テスラは「大きな投資サイクル」に入っており、おそらく今後３年間で支出はさらに増えるだろうと付け加えた。
-テスラ株も時間外取引で４％下落した。
-関連トピック
-- 2 月 6 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-23T07:15:59+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg",
-    readTime: 3,
-  },
-  {
-    id: "firm-hacked-by-rogue-openai-models-says-6fe47454",
-    title: "Firm hacked by rogue OpenAI models says it is 'a wake-up call'",
-    titleJa: "不正なOpenAIモデルによってハッキングされた企業、これは「警鐘」だと語る",
-    summaryJa: "不正なOpenAIモデルによってハッキングされた企業、これは「警鐘」だと語る- 公開されました",
-    bodyOriginal: `Firm hacked by rogue OpenAI models says it is 'a wake-up call'
-- Published
-The co-founder of Hugging Face, a technology start-up that was hacked after some of OpenAI's most advanced artificial intelligence (AI) models went rogue, said on Thursday that the incident is "a wake-up call" for the industry.
-Thomas Wolf told BBC's Newsday radio programme that "this will be one of the most common types of cyber attacks we see", but that most firms are not aware that the "game has changed".
-The BBC has contacted OpenAI for comment.
-The ChatGPT-maker said on Tuesday that its AI models broke out of a secure test environment during a trial and launched a cyber attack. The firm said the incident was "unprecedented" and that it was conducting an investigation with Hugging Face.
-AI agents are able to operate alone to accomplish tasks after human instruction.
-Wolf said that Hugging Face initially had no idea where the attack originated when signs of it surfaced in mid-July but that the company was able to contain the breach.
-Hugging Face is one of the world's largest open-source hubs for sharing AI models and is often used by tech developers and researchers.
-Wolf said the breach was "very different" from the usual cyber attacks that Hugging Face often faces and that OpenAI quickly informed the company that its models were behind the hack.
-In a "very short time" there were 17,000 attacks on Hugging Face's network from various IP (Internet Protocol) addresses, said Wolf, who is also the firm's chief science officer.
-Wolf said it was a warning to other companies that they must strengthen their cybersecurity defences to counter such attacks.
-The hack is "worrying" because it suggests OpenAI's models ignored the typical safeguards that would prevent an AI program from committing a cyber attack, said Nate Soares from the Machine Intelligence Research Institute.
-"In some sense, it knew that this was not what the creators intended. It just didn't care," he added.
-What is AI, how does it work and why are some people concerned about it?
-- Published29 July 2025
-Will your job be replaced by AI? Here are the roles most affected
-- Published1 day ago
-Other organisations have also taken note of the incident.
-A UK government spokesperson said the country's AI Security Institute was studying how the AI system behaved in the incident and that it was continuing to work with OpenAI and other labs to strengthen safeguards.
-They urged organisations to ramp up their cyber security measures by taking steps such as enrolling in the government-backed Cyber Essentials certification scheme.
-The incident has come at a crucial time for the industry after the US government last month ordered American tech firm Anthropic to restrict access to its AI models over national security concerns. The Department of Commerce lifted the restrictions several weeks later.
-People in the industry have also raised security concerns over the widespread use of open-source models in China, allowing anyone to install and customise AI tools released by major developers.
-Chinese start-up Moonshot AI will release its Kimi K3 open-source model on 27 July. Since debuting last week, it has drawn industry attention, with many viewing it as a strong competitor to leading Western AI systems.
-But on Wednesday a White House adviser accused Moonshot of a "large scale" effort to steal the capabilities of top US AI models.
-- Published1 hour ago
-- Published17 April`,
-    bodyJa: `不正なOpenAIモデルによってハッキングされた企業、これは「警鐘」だと語る
-- 公開されました
-OpenAIの最先端の人工知能（AI）モデルの一部が不正行為を受けてハッキングされたテクノロジー新興企業ハギング・フェイスの共同創設者は木曜日、この事件は業界への「警鐘」だと述べた。
-トーマス・ウルフ氏はBBCのニューズデイラジオ番組で、「これは我々が目にする最も一般的なタイプのサイバー攻撃の1つになるだろう」としながらも、ほとんどの企業は「状況が変わった」ことに気づいていない、と語った。
-BBCはOpenAIにコメントを求めた。
-ChatGPTメーカーは火曜日、同社のAIモデルが試験中に安全なテスト環境を突破し、サイバー攻撃を開始したと発表した。同社は今回の事件は「前例のない」もので、ハギングフェイス社とともに調査を進めていると述べた。
-AI エージェントは、人間の指示に従って単独で動作してタスクを実行できます。
-ウルフ氏は、7月中旬に攻撃の兆候が表面化したとき、ハギングフェイス社は当初、攻撃がどこから来たのか全く分からなかったが、同社は侵害を阻止することができたと述べた。
-Hugging Face は、AI モデルを共有するための世界最大のオープンソース ハブの 1 つであり、技術開発者や研究者によってよく使用されています。
-ウルフ氏は、この侵害はハギング・フェイスが頻繁に直面する通常のサイバー攻撃とは「非常に異なる」ものであり、OpenAIは同社のモデルがハッキングの背後にあることをすぐに同社に通知したと述べた。
-同社の最高科学責任者でもあるウルフ氏によると、「非常に短期間に」ハギングフェイスのネットワークに対し、さまざまなIP（インターネットプロトコル）アドレスから1万7000件の攻撃があったという。
-ウルフ氏は、このような攻撃に対抗するためにサイバーセキュリティ防御を強化する必要があるという他の企業への警告であると述べた。
-マシンインテリジェンス研究所のネイト・ソアレス氏は、このハッキングは「憂慮すべき」もので、OpenAIのモデルがAIプログラムによるサイバー攻撃を防ぐ典型的な安全策を無視していたことを示唆していると述べた。
-「ある意味、これが制作者が意図したものではないことは分かっていた。ただ気にしなかっただけだ」と同氏は付け加えた。
-AI とは何ですか? AI はどのように機能しますか? なぜ一部の人々は AI について懸念しているのでしょうか?
-- 2025 年 7 月 29 日公開
-あなたの仕事はAIに取って代わられるでしょうか？最も影響を受ける役割は次のとおりです
-- 1 日前に公開
-他の組織もこの事件に注目しています。
-英国政府報道官は、同国のAIセキュリティ研究所が今回の事件でAIシステムがどのように動作したかを研究しており、安全策を強化するためにOpenAIや他の研究所と協力し続けていると述べた。
-彼らは組織に対し、政府支援のCyber​​ Essentials認定制度に登録するなどの措置を講じてサイバーセキュリティ対策を強化するよう求めた。
-米国政府が先月、国家安全保障上の懸念を理由に米国ハイテク企業アンスロピックに対し、同社のAIモデルへのアクセスを制限するよう命令したことを受け、この事件は業界にとって極めて重要な時期に起きた。商務省は数週間後に制限を解除した。
-業界関係者はまた、大手開発者がリリースした AI ツールを誰でもインストールしてカスタマイズできるオープンソース モデルが中国で広く使用されていることに対して、セキュリティ上の懸念を提起しています。
-中国の新興企業Moonshot AIは、オープンソースモデルのKimi K3を7月27日にリリースする。先週のデビュー以来、業界の注目を集めており、多くの人が主要な西側 AI システムに対する強力な競争相手とみなしています。
-しかし水曜日、ホワイトハウス顧問はムーンショットが米国のトップAIモデルの機能を盗む「大規模な」取り組みを行っていると非難した。
-- 1 時間前に公開
-- 4 月 17 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-23T06:18:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57c/live/927f2eb0-8645-11f1-bb06-cd4aa2d50a91.jpg",
-    readTime: 4,
-  },
-  {
-    id: "big-bosses-reveal-the-secret-to-getting-95b7a520",
-    title: "Big bosses reveal the secret to getting hired",
-    titleJa: "偉い人たちが雇用の秘訣を明かす",
-    summaryJa: "偉い人たちが雇用の秘訣を明かす関連トピック",
-    bodyOriginal: `Big bosses reveal the secret to getting hired
-Related topics
-- EmploymentUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- CareersUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
-    bodyJa: `偉い人たちが雇用の秘訣を明かす
-関連トピック
-- ニュース トピックからの雇用最新情報は、マイ ニュースおよびニュース ホームページのコレクションに表示されます。
-- ニュース トピックからのキャリア更新は、マイ ニュースおよびニュース ホームページのコレクションに表示されます。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/videos/cvgxelx3y78o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-23T05:22:34+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa14/live/ecd31450-85e4-11f1-b976-0b9c15b0ccfc.jpg",
-    readTime: 2,
-  },
-  {
-    id: "hedge-funds-circle-uk-stocks-as-new-pm-a-aab9a4b1",
-    title: "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model'",
-    titleJa: "アンディ・バーナム新首相が「新たな経済モデル」を誓約、ヘッジファンドが英国株に注目",
-    summaryJa: "ヘッジファンドの空売り派は今年、英国上場株への賭けを強化しており、公開ポジションは２０２６年上半期に５倍に急増している。現在、投資家は、アンディ・バーナム新首相の下での政策の電撃により、英国株全体のポートフォリオのロングサイドとショートサイドの両方でチャンスが広がる可能性があると考えている。",
-    bodyOriginal: `Hedge fund short-sellers have ramped up bets against U.K.-listed stocks this year, with disclosed positions surging fivefold in the first half of 2026.
-Now, investors believe a policy blitz under new Prime Minister Andy Burnham could widen the opportunity set across U.K. equities on both the long and short sides of their portfolios.
-Burnham took office this week, promising to lead a "cost-of-living government" focused on tackling rising living expenses. In his inaugural speech on Monday, he pledged a "new economic model" for Britain, including a 10-year plan to reindustrialize the country, with housing costs and utilities affordability emerging as early key pillars of his agenda.
-Hedge funds say a domestic policy shake-up could fuel a raft of long and short ideas across U.K. sectors. That includes conviction bets against squeezed sectors and companies, and relative value trades that involve buying companies expected to benefit from Burnham's policies while shorting weaker businesses in the same industry.
-"Where we are today is that there are lots of winners and losers, which is good because we want that dispersion," said Alyx Wood, chief investment officer of Kernow Asset Management. "There's an explosive cocktail of really interesting things going on right now. It's pretty fast moving."
-Utilities under pressure
-Short-selling — a core component of many hedge fund strategies, in which investors bet against a stock or other security intending to profit from its drop in value — has returned with a vengeance to the U.K. market this year.
-The number of U.K. companies with aggregate disclosed short positions of at least 5% of their shares surged to 27 in the first half of 2026, according to an analysis by law firm White & Case.
-That's a sharp rise from just five in the same period last year.
-"The U.K.'s leadership change is creating a degree of continued uncertainty and volatility about policy across key sectors including energy, utilities, transport and housebuilding," said Patrick Sarch, White & Case's head of U.K. public M&A.
-"As a new policy platform coalesces following new governmental appointments, policies will be proposed, markets will react, and there will be a moderation and prioritization process to determine what is feasible and in what timeframe. We expect to see a relatively protracted period of increased uncertainty for price discovery, creating additional opportunities for short-selling."
-Burnham on Tuesday announced plans to remove sales tax from household electricity to provide "breathing space" for customers facing cost-of-living pressures, putting energy costs and utility affordability into sharper political focus, investors say.
-Wood said Kernow is bearish on U.K. utilities, highlighting high leverage at individual companies, regulatory, operational and licensing pressures, and the vast investment required in Britain's water and power infrastructure.
-"Normally utilities, in dangerous times, are your safe bets. Utilities are probably where we are most negative," Wood told CNBC, citing substandard U.K. water infrastructure, unmet consumer expectations, and regulatory uncertainty that has intensified political scrutiny.
-Housing policy creates winners and losers
-Burnham also wants to build more public housing and pledged Monday to end "rough sleeping" — or unhoused people living on the street — in the U.K. Investors say a policy overhaul aimed at tackling Britain's housing affordability crisis could create winners and losers in the homebuilding sector.
-Homebuilder Vistry Group and construction materials company Ibstock were among the most heavily shorted U.K. companies in the first half, White & Case research shows, with aggregate short positions of almost 16% and 13%, respectively.
-Wood said Kernow is short Vistry, noting its debt accumulation, and long Berkeley Group, which he described as a winner because of its stronger balance sheet and better management of planning applications. Others, such as Galliford Try, could benefit from a pick-up in affordable housing construction, he added.
-"Most U.K. housebuilders trade at absurd discounts to economic reality. Quite often, near-term profits comfortably exceed the market capitalization," Wood said in a recent note.
-Investors have followed Burnham's path to 10 Downing Street with some consternation, amid fears of a leftward lurch by Labour and a more fiscally loose approach to public spending. But his surprise pick for finance minister, John Healey, has gone some way to calming markets, with the former defense secretary broadly regarded as a "safe pair of hands."
-White & Case's Sarch said the evolving policy backdrop could sustain relative value opportunities across sectors.
-"We expect investors to look beyond company-specific short positions and for there to be considerable portfolio-based long-short strategies, taking both long and short positions across sectors according to which they believe stand to benefit from, and be challenged by, the new policy agenda," he added.
-Edgar Allen, founder and chief investment officer of High Ground Investment Management, said housebuilders — along with certain other sectors, such as banks — could face further taxes, although he added that this prospect was already reflected in lower valuations across those sectors.
-Allen said Burnham — who replaces Labour Party leader Keir Starmer, who resigned last month — inherits record government spending, high debts, an "unsustainable" deficit and gilt yields "far above anything Liz Truss managed."
-"It's easy to see why investor, consumer and business confidence are all at multi-year lows," Allen told CNBC via email.
-Still, Allen pointed to signs of improvement, including economic growth and rising productivity, which underpin what he called "real value" in the U.K.
-"We expect to see further takeover activity as foreign companies pay record premia for U.K. stocks while still getting bargains," he added.`,
-    bodyJa: `ヘッジファンドの空売り派は今年、英国上場株への賭けを強化しており、公開ポジションは２０２６年上半期に５倍に急増している。
-現在、投資家は、アンディ・バーナム新首相の下での政策の電撃により、英国株全体のポートフォリオのロングサイドとショートサイドの両方でチャンスが広がる可能性があると考えている。
-バーナム氏は今週就任し、生活費の高騰への取り組みに重点を置いた「生活費政府」を率いることを約束した。同氏は月曜日の就任演説で、英国の再産業化に向けた10か年計画を含む英国の「新たな経済モデル」を約束し、住居費と光熱費の手頃な価格が初期の議題の主要な柱として浮上した。
-ヘッジファンドらは、国内政策の再編が英国のセクター全体にわたって長短の数多くのアイデアを刺激する可能性があると述べている。これには、圧迫されたセクターや企業に対する確信を持った賭けや、同じ業界の弱い企業を空売りしながら、バーナムの政策から恩恵を受けると予想される企業を買うことを伴う相対価値取引が含まれる。
-カーナウ・アセット・マネジメントの最高投資責任者、アリックス・ウッド氏は「われわれが今いるのは、勝者と敗者がたくさんいるということだ。われわれはその分散を望んでいるから、これは良いことだ」と語った。 「現在、非常に興味深いことが爆発的に起こっています。非常に速いスピードで進んでいます。」
-プレッシャーにさらされている公益事業
-多くのヘッジファンド戦略の中核を成す空売り（投資家が株やその他の証券の価値下落から利益を得るために賭ける）が、今年英国市場に猛威を振るって戻ってきた。
-法律事務所ホワイト＆ケースの分析によると、自社株の少なくとも5％の空売りポジションを公表した英国企業の数は、2026年上半期に27社に急増した。
-前年同期のわずか5件から大幅に増加した。
-ホワイト・アンド・ケースの英国公開M&A責任者パトリック・サーチ氏は、「英国の指導部交代により、エネルギー、公益事業、運輸、住宅建設などの主要セクターにわたる政策について、ある程度の不確実性と不安定性が続いている」と述べた。
-「新たな政府の任命を受けて新たな政策基盤が統合されるにつれ、政策が提案され、市場が反応し、何が実現可能でどのような期間で実現可能かを判断するための調整と優先順位付けのプロセスが行われることになる。価格発見の不確実性が高まり、空売りのさらなる機会が生まれる期間が比較的長期化すると予想される。」
-バーナムは火曜日、生活費のプレッシャーに直面している顧客に「息抜きのスペース」を提供するため、家庭用電力から消費税を撤廃する計画を発表し、エネルギーコストと光熱費の手頃な価格をより政治的な焦点にする、と投資家らは言う。
-ウッド氏は、カーナウ氏が英国の公益事業に対して弱気であり、個別企業の高いレバレッジ、規制、運営、ライセンスの圧力、英国の水道・電力インフラに必要な巨額投資を強調した。
-ウッド氏はCNBCに対し、英国の水道インフラの水準以下、消費者の期待が満たされていないこと、政治的監視が強まった規制の不確実性を挙げ、「通常、危険な時には公益事業が安全策だ。公益事業はおそらく我々が最も消極的なところだ」と語った。
-住宅政策は勝者と敗者を生み出す
-バーナム首相はまた、より多くの公営住宅の建設を望んでおり、月曜日には英国における「粗眠」、つまり住宅のない路上生活者をなくすことを約束した。投資家らは、英国の住宅価格危機への対処を目的とした政策の見直しが住宅建設分野で勝者と敗者を生み出す可能性があると述べている。
-ホワイト＆ケースの調査によると、住宅建設会社ヴィストリー・グループと建設資材会社イブストックは、上半期に最も多額の空売りを抱えた英国企業の一つで、合計空売りポジションはそれぞれ約16％と13％となっている。
-ウッド氏は、カーナウは負債の累積を指摘してヴィストリーをショートし、より強固なバランスシートと計画申請の管理が優れているため勝者だと述べたバークレー・グループをロングだと述べた。ガリフォード・トライなど他の企業も、手頃な価格の住宅建設の増加から恩恵を受ける可能性があると同氏は付け加えた。
-ウッド氏は最近のメモで、「英国の住宅建設業者の多くは、経済現実に比べて法外な割引価格で取引している。短期的な利益が時価総額を優に上回ることが非常に多い」と述べた。
-投資家は、労働党の左傾化や公共支出に対する財政の緩和姿勢への懸念のなか、多少の驚きを持ちながらもバーナム氏のダウニング街10番地への道をたどってきた。しかし、財務大臣にジョン・ヒーリー氏を予想外に指名したことは、元国防長官が「安全なコンビ」と広くみなされており、市場の沈静化に一定の効果をもたらした。
-ホワイト・アンド・ケースのサーチ氏は、進化する政策背景により、セクター全体で相対的な価値の機会が維持される可能性があると述べた。
-同氏は「投資家は企業固有のショートポジションを超えて、ポートフォリオに基づいたロング・ショート戦略がかなり存在することを期待しており、新たな政策課題から利益を得られる、あるいは課題となると思われるセクターに応じてロングポジションとショートポジションの両方を取ることになるだろう」と付け加えた。
-ハイ・グラウンド・インベストメント・マネジメントの創設者兼最高投資責任者であるエドガー・アレン氏は、住宅建設業者は銀行など他の特定セクターとともにさらなる課税に直面する可能性があると述べたが、この見通しはすでにこれらのセクター全体のバリュエーションの低下に反映されていると付け加えた。
-アレン氏は、先月辞任したキア・スターマー労働党党首の後任であるバーナム氏は、記録的な政府支出、多額の債務、「持続不可能な」赤字、そして金利回りを「リズ・トラス氏が管理したものをはるかに上回る」ものを受け継いでいると述べた。
-「投資家、消費者、企業の信頼感がここ数年で最低水準にある理由は簡単に理解できる」とアレン氏は電子メールでCNBCに語った。
-それでもアレン氏は、英国の「本当の価値」を支える経済成長や生産性の向上など、改善の兆しを指摘した。
-同氏はさらに「外国企業が英国株に史上最高額を払いながらもバーゲン品を手に入れているため、さらなる買収活動が見込まれる」と付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
-    publishedAt: "2026-07-23T05:06:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "inside-india-newsletter-skyroot-rocket-p-bcd5918c",
-    title: "Inside India newsletter: Skyroot rocket puts India alongside U.S., China in private orbital launch",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "こんにちは、シンガポールからメッセージを書いているプリヤンカ・サルベです。「インサイド・インディア」の最新版へようこそ。世界で最も急速に成長している大経済国のストーリーや展開をワンストップでご覧いただけます。",
-    bodyOriginal: `Hello, this is Priyanka Salve, writing to you from Singapore.
-Welcome to the latest edition of "Inside India" — your one-stop destination for stories and developments from the world's fastest-growing large economy.
-On Saturday, Indian space-tech startup Skyroot successfully test-launched a low-orbit rocket carrying a payload of 350 kilograms, marking its entry into the global satellite launch market dominated by American and Chinese companies. I caught up with the co-founder of Skyroot to unpack what's next for the country's first space tech unicorn.
-Any thoughts on today's newsletter? Share them with the team.
-The big story
-The demand for satellite launches is rising globally, as there are just a handful of rocket companies with the capability to make space deliveries. Naga Bharath Daka, co-founder of Indian space tech startup Skyroot that recently joined the elite space club, is determined to capitalize on the opportunity.
-Skyroot will start its commercial operations in 2027 and plans to launch "one flight every month," he told CNBC, adding that after one more test flight later this year, the launches will be commercialized.
-"We will be the most cost-competitive launch vehicle in this space [small payload], even before the economies of scale come into play," Daka said.
-Cost competitiveness has been a hallmark of India's space tech. In the past, state-agency Indian Space Research Organization has executed Mars and Moon missions at a fraction of the cost spent by countries in the West. Both founders of Sykroot, Daka and Pawan Kumar Chandana, are former employees of ISRO.
-Referring to Elon Musk's SpaceX, Daka said the company follows a "fail smarter and grow faster" strategy, which leads to rapid technological progress but it "burns a lot of cash." "We had to be ultra cautious with money," and the focus was on getting "the first time right."
-Entering the global space
-On Saturday at 11:30 a.m. Indian Standard Time, Skyroot successfully launched a test rocket carrying a 350-kilogram payload into low orbit, making it the first Indian private company with orbital space launch capability, and joining the league of China and the U.S.
-Skyroot will compete in the sub-1,000 kg market with U.S. based startups such as Rocket Lab, Firefly Aerospace, Astra Space, and Chinese private firms i-Space, Galactic Energy, CAS Space, as per data shared by market intelligence firm Analysys Mason.
-Small launchers solve critical operational, strategic, and financial bottlenecks that large "bus lines" to space — think bigger payload carriers like SpaceX — cannot handle.
-"A small rocket acts like an orbit-on-demand taxi," explains Ujjwal Chaudhry, a partner at Analysys Mason.
-They deliver a single customer's payload directly to its precise location in space, unlike with big launchers that drop payloads in approximate positions from where satellite operators maneuver them into the exact position using internal fuel and time, he said.
-These rockets offer a dedicated launch window, so small satellites do not have to wait for "ridesharing" with larger satellite launches.
-Though the market size was just $5 billion in 2025, according to Analysys Mason, fewer companies operating in this space are leading to launch schedules being booked for a year or two ahead. In May, California-based Rocket Labs said its order backlog more than doubled from a year ago to $2.2 billion with launches booked through to 2029.
-The company has a market cap of over $43 billion, as compared to Skyroot's $1.1 billion valuation during its $60 million fundraise in May.
-Since its founding in 2018, the Indian space tech startup has raised just $150 million, and Daka told CNBC the company is "well-funded" to carry out commercial launches next year. The company will raise funds when it intensifies efforts to develop a reusable rocket, he said, adding that it is not an immediate plan.
-While firms in the U.S. have a robust private market funding stream for space tech startups, Chinese companies are backed by the government, experts pointed out. Meanwhile, Indian companies in this sector struggle to raise funds.
-"The patient capital pool for space tech in India is still shallow relative to the opportunity," said Natasha Malpani Oswal, founder and general partner, at venture capital firm Boundless Ventures.
-Sovereign wealth funds and institutional investors such as BlackRock and GIC backing Skyroot is a signal that capital is finding its way in at scale at the later stages, she said, adding that it "is recent, and it is not yet a pattern."
-Investors will likely be more open to putting their money in the space sector, if Skyroot's low-cost structure helps it deliver high profits, even as its global peers burn cash.
-Need to know
-India's largest asset management firm makes a muted market debut after a $1 billion IPO
-Shares of India's largest asset manager, SBI Funds Management, listed at a premium of 7% to their IPO price on Tuesday, dashing hopes of a strong debut. Investors were keeping a close watch on this listing and a strong debut would have indicated appetite for new large-scale public issues such as Jio Platforms and the National Stock Exchange.
-Foreign investors sweeten on Indian government bonds as equities see a sell-off
-Foreign investors appear to have soured on Indian stocks, but they are turning increasingly positive on the country's bonds, ahead of a possible inclusion in the Bloomberg Global Aggregate Bond Index. India could get a weightage of about 0.7% in the index, and this is estimated to lead to flows of $25 to $27 billion.
-India gets its second AI unicorn in a month
-Vibe-coding startup Emergent on Wednesday became the second Indian artificial intelligence company, within a month, to be valued at more than a billion dollars, signaling that the South Asian country was finally entering the AI race.
-Coming up
-July 24: HSBC composite flash PMI for July.
-July 28: Industrial output for June.`,
-    bodyJa: `こんにちは、シンガポールからメッセージを書いているプリヤンカ・サルベです。
-「インサイド・インディア」の最新版へようこそ。世界で最も急速に成長している大経済国のストーリーや展開をワンストップでご覧いただけます。
-土曜日、インドの宇宙技術新興企業スカイルートはペイロード350キログラムを搭載した低軌道ロケットの打ち上げ試験に成功し、米国と中国の企業が独占する世界の衛星打ち上げ市場への参入を果たした。私は Skyroot の共同創設者に話を聞き、この国初の宇宙技術ユニコーンの次に何が起こるのかを明らかにしました。
-今日のニュースレターについて何かご意見はありますか?それらをチームと共有します。
-大きな話
-宇宙への配達を行う能力を持つロケット会社はほんの一握りであるため、衛星打ち上げの需要は世界的に高まっています。最近エリート宇宙クラブに加わったインドの宇宙技術スタートアップ、スカイルートの共同創設者であるナガ・バラス・ダカ氏は、この機会を活用しようと決意している。
-スカイルートは2027年に商業運航を開始し、「毎月1便」の打ち上げを計画していると同氏はCNBCに語り、今年後半にもう1回試験飛行を行った後、打ち上げは商業化されると付け加えた。
-ダカ氏は「スケールメリットが発揮される前であっても、われわれはこの分野（ペイロードが小さい）において最もコスト競争力のある打ち上げロケットになるだろう」と述べた。
-コスト競争力はインドの宇宙技術の特徴である。過去には、国家機関であるインド宇宙研究機関が、西側諸国が費やした費用の数分の一で火星と月のミッションを実行してきた。 Sykroot の創設者、Daka 氏と Pawan Kumar Chandana 氏は、ともに ISRO の元従業員です。
-ダカ氏は、イーロン・マスク氏のスペースXに言及し、同社は「より賢く失敗し、より速く成長する」戦略に従っており、それが技術の急速な進歩につながるが、「多額の現金を消費する」と述べた。 「お金に関しては細心の注意を払う必要があり」、「初めてのことをうまくやる」ことに重点が置かれた。
-グローバル空間への参入
-インド標準時間の土曜午前11時30分、スカイルートは350キログラムのペイロードを搭載した試験ロケットの低軌道への打ち上げに成功し、軌道上宇宙打ち上げ能力を持つ初のインドの民間企業となり、中国と米国のリーグに加わった。
-市場情報会社アナリシス・メイソンが共有したデータによると、スカイルートは、ロケット・ラボ、ファイアフライ・エアロスペース、アストラ・スペースなどの米国拠点の新興企業や、中国の民間企業であるi-Space、ギャラクティック・エナジー、CASスペースなどと1,000kg未満の市場で競合することになる。
-小型打ち上げ機は、宇宙へ向かう大規模な「バスライン」（SpaceXのような大型ペイロードキャリアだと考えてください）では対処できない、運営上、戦略上、財務上の重要なボトルネックを解決します。
-「小型ロケットは軌道上のオンデマンドタクシーのように機能します」とアナリシス・メイソン社のパートナー、ウジワル・チョードリー氏は説明する。
-同氏によると、衛星オペレーターが内部の燃料と時間を使ってペイロードを正確な位置に操作し、そこからおよその位置にペイロードを投下する大型打ち上げ機とは異なり、単一の顧客のペイロードを宇宙の正確な位置に直接届けるという。
-これらのロケットには専用の打ち上げウィンドウが用意されているため、小型衛星は大型衛星の打ち上げとの「相乗り」を待つ必要がありません。
-アナリシス・メイソンによると、2025年の市場規模はわずか50億ドルだったが、この分野で事業を展開する企業が減少しているため、発売スケジュールは1～2年先まで埋まっているという。カリフォルニアに拠点を置くロケットラボは5月、受注残高が1年前の2倍以上の22億ドルに増加し、2029年までの打ち上げが予約されていると発表した。
-5月の6000万ドルの資金調達時のスカイルートの評価額は11億ドルだったのに対し、同社の時価総額は430億ドルを超えている。
-インドの宇宙技術スタートアップ企業は2018年の設立以来、わずか1億5000万ドルしか調達していないが、ダカ氏は同社が来年商業打ち上げを行うための「資金が豊富」であるとCNBCに語った。同氏は、同社は再利用可能なロケットの開発に向けた取り組みを強化する際に資金を調達すると述べ、それが当面の計画ではないと付け加えた。
-米国の企業には宇宙技術スタートアップに対する民間市場からの強力な資金供給源がある一方、中国企業は政府の支援を受けていると専門家は指摘する。一方、この分野のインド企業は資金調達に苦戦している。
-ベンチャーキャピタル会社バウンドレス・ベンチャーズの創設者兼ゼネラル・パートナーのナターシャ・マルパニ・オズワル氏は、「インドの宇宙技術に対する患者の資金プールは、機会に比べてまだ浅い」と述べた。
-同氏は、政府系ファンドやブラックロックやGICなどの機関投資家がスカイルートを支援していることは、資本が後の段階で大規模に流入しつつあることを示していると述べ、「それは最近のことであり、まだパターン化したものではない」と付け加えた。
-スカイルートの低コスト構造が世界的な同業他社が現金を浪費する中でも高い利益を実現できるのであれば、投資家は宇宙分野への資金投入にもっと前向きになるだろう。
-知っておく必要がある
-インド最大の資産管理会社、10億ドルのIPOの後、静かな市場デビューを果たした
-インド最大の資産運用会社SBIファンズ・マネジメントの株式は火曜日、IPO価格に7％のプレミアムを付けて上場され、好調なデビューへの期待は打ち砕かれた。投資家はこの上場を注視しており、好調なデビューはJioプラットフォームやナショナル証券取引所などの新たな大規模上場銘柄への意欲を示していただろう。
-株式相場が急落する中、外国人投資家はインド国債に甘くなっている
-外国人投資家はインド株への好感度が下がっているようだが、ブルームバーグ世界総合債券指数への採用の可能性を前に、同国の債券にはますますポジティブな見方を示している。インドは同指数で約0.7％の比重を占める可能性があり、これにより250億～270億ドルの資金流入が生じると推定される。
-インド、この 1 か月で 2 番目の AI ユニコーンを獲得
-バイブコーディングの新興企業エマージェントは水曜日、インドの人工知能企業としては1カ月以内に2社目となり、評価額が10億ドルを超え、南アジアの国がついにAI競争に参入することを示した。
-もうすぐ
-7月24日：7月のHSBCコンポジットフラッシュPMI。
-7月28日: 6月の鉱工業生産。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/india-skyroot-rocket-us-china-spacex.html",
-    publishedAt: "2026-07-23T02:37:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
   },
 ];
 
