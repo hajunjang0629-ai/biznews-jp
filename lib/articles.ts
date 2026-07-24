@@ -15,6 +15,374 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-threatens-eu-with-substantial-tari-0825ddd6",
+    title: "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
+    titleJa: "トランプ大統領、米国の巨大テクノロジー企業を「強奪」するための「大幅な関税」でEUを脅す",
+    summaryJa: "トランプ大統領は「Truth Social」で、Googleに対する欧州連合の新たな罰金と、米国のハイテク大手アップル、メタ、アマゾンに対する以前の罰金を激しく非難した。",
+    bodyOriginal: `President Donald Trump on Friday said his administration will launch a trade probe into the European Union that will cancel hefty fines levied against U.S. tech giants and likely result in a "substantial" tariff on the 27-member bloc.
+Trump, in a lengthy Truth Social post, accused the EU of "'ROBBING' American Companies and, in turn, the American Taxpayer" as he raged over its recent $1 billion fine on Google for allegedly giving search priority to its own services.
+"The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!" Trump wrote in the post, which also railed against prior European fines against Apple, Meta and Amazon.
+Trump claimed the latest penalty against Google was issued "without explanation." But the European Commission, the EU's executive branch, said in a press release Wednesday that the fines totaling 890 million euros were due to Google's alleged noncompliance with the bloc's Digital Markets Act, which aims to scrutinize Big Tech's practices.
+Trump claimed the EU's behavior is "not going to continue during the Trump Administration."
+"The United States of America is not a 'PIGGYBANK' for Europe, nor will we allow it to be!" he wrote.
+Trump said the U.S. will "immediately" start an investigation under Section 301 of the Trade Act of 1974, which permits the imposition of tariffs in response to practices that are found to unfairly burden U.S. commerce.
+The Trump administration has launched multiple probes using that tariff authority. Hours earlier, it imposed new duties between 10% and 12.5% on goods from more than 80 countries, including those in the EU, over alleged forced labor issues.
+By Friday afternoon, a lawsuit challenging those tariffs had been filed in the U.S. Court of International Trade.
+The suit, brought by the Liberty Justice Center on behalf of two small businesses, argues the federal government is improperly using Section 301 to effectively reinstate Trump's 2025 "liberation day" tariffs, which were the Supreme Court struck down earlier this year.
+"The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about," Trump said in Friday's post, referring to its posture toward U.S. tech companies.
+"The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment," he wrote, adding, "Stay tuned!"`,
+    bodyJa: `ドナルド・トランプ大統領は金曜日、政権が欧州連合（EU）に対する通商調査を開始し、米国のハイテク大手に課せられた高額の罰金を取り消し、加盟27カ国に対して「大幅な」関税を課す可能性が高いと述べた。
+トランプ大統領は、Truth Socialへの長い投稿で、検索を自社サービスに優先させたとしてGoogleに最近課せられた10億ドルの罰金に激怒し、EUが「米国企業を『強奪』し、ひいては米国納税者を『強奪』している」と非難した。
+「欧州連合はまたもや、いつものように偉大なアメリカ企業を直接狙っている！」トランプ大統領はその投稿で、アップル、メタ、アマゾンに対する欧州の過去の罰金も激しく非難した。
+トランプ大統領は、グーグルに対する最新の罰金は「説明なしに」与えられたと主張した。しかし、EUの行政府である欧州委員会は水曜日のプレスリリースで、総額8億9,000万ユーロの罰金は、ビッグテック企業の慣行を精査することを目的としたEUのデジタル市場法にGoogleが違反した疑いによるものであると述べた。
+トランプ大統領は、EUの行動は「トランプ政権の間は継続しない」と主張した。
+「アメリカ合衆国はヨーロッパにとっての『貯金箱』ではないし、我々もそんなことを許さない！」彼は書いた。
+トランプ大統領は、米国の通商に不当な負担を与えていると認められる慣行に応じて関税を課すことを認めた1974年通商法第301条に基づき、米国は「直ちに」調査を開始すると述べた。
+トランプ政権はその関税権限を利用して複数の調査を開始した。その数時間前、強制労働問題の疑いを理由にEU加盟国を含む80カ国以上の商品に10～12.5％の新たな関税を課した。
+金曜午後までに、これらの関税に異議を唱える訴訟が米国国際貿易裁判所に起こされた。
+中小企業2社を代表してリバティ・ジャスティス・センターが起こしたこの訴訟は、連邦政府が第301条を不当に利用して、今年初めに最高裁判所が無効としたトランプ大統領の2025年の「解放の日」関税を事実上復活させていると主張している。
+トランプ大統領は金曜の投稿で、米国のハイテク企業に対する欧州連合の姿勢に言及し、「欧州連合はこの違法かつ非常に非倫理的な行為に対して非常に大きな代償を払うことになるだろう。私はこれについて一貫して警告してきた」と述べた。
+同氏は「罰則は完全に撤回され、可能な限り早い時期に大幅な関税が課されると予想される」と書き、「期待してください！」と付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
+    publishedAt: "2026-07-24T19:39:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "the-world-is-facing-its-largest-oil-shoc-435c6f15",
+    title: "The world is facing its largest oil shock ever. Here is why prices are not higher.",
+    titleJa: "世界は史上最大のオイルショックに直面している。価格が上がらない理由はここにあります。",
+    summaryJa: "原油価格は、エコノミストらが世界経済を景気後退の危機にさらすと指摘していた水準にはまだ近づいていない。",
+    bodyOriginal: `Oil prices aren’t yet near the level economists had said would put the global economy in jeopardy of a recession.`,
+    bodyJa: `原油価格は、エコノミストらが世界経済を景気後退の危機にさらすと指摘していた水準にはまだ近づいていない。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-world-is-facing-its-largest-oil-shock-ever-here-is-why-prices-are-not-higher-0bb943c7?mod=mw_rss_topstories",
+    publishedAt: "2026-07-24T19:31:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-34645200",
+    readTime: 2,
+  },
+  {
+    id: "oil-falls-on-report-pakistan-is-pushing-ec84ebe8",
+    title: "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
+    titleJa: "パキスタンが中国の支援を受けて新たな米イラン協議を推進しているとの報道で原油下落",
+    summaryJa: "金曜日、パキスタンが米国とイランの交渉再開方法を模索しているとの報道を受け、原油価格が下落した。国際指標であるブレント原油先物は４％近く下落し、１バレル＝９６．７８ドルで取引を終えた。米国ウェスト・テキサス・インターミディエイト原油先物は３％下落し、１バレル＝８９．３１ドルで落ち着いた。",
+    bodyOriginal: `Oil prices dropped Friday on a report that Pakistan is looking for a way to restart talks between the U.S. and Iran.
+Brent crude futures, the international benchmark, fell nearly 4% to close at $96.78 a barrel. U.S. West Texas Intermediate crude futures lost 3% to settle at $89.31 per barrel.
+Three sources told Reuters that Pakistan's effort to renew U.S.-Iran talks was backed by China.
+"The Chinese are unhappy because Iran's attacks on other Gulf states and the closure of the Strait of Hormuz are hitting their interests," a Pakistani government official told Reuters.
+U.S. crude oil gained about 8% this week and Brent advanced nearly 10% as fighting in the Middle East has sharply escalated.
+Overnight, the U.S. Central Command completed its 13th consecutive night of strikes on Iran, targeting military command centers, drone storage facilities, communication networks, coastal surveillance sites, and maritime capabilities.
+Centcom said the strikes were intended to "further diminish the threat Iran poses to civilian mariners and commercial vessels transiting the Strait of Hormuz."
+"The international waterway remains open for transit despite recent attacks from Iran's Islamic Revolutionary Guard Corps. Commercial vessels continue to freely navigate the strait with U.S. military support," the military unit said in a statement.
+"More than 50,000 U.S. service members are currently operating across the Middle East."
+U.S. President Donald Trump told Axios on Thursday that he was mulling a "massive attack" on Iran after the conflict in the Middle East extended to a new battleground in the Red Sea. The president said the proposed strikes would be bigger than anything seen in the war so far, and that Iran has not "received enough pain yet."
+"I am considering a massive attack. Bigger than ever before. I am close to making a decision. We are all set for it," he said in the interview.
+It came after Trump said he would hold Iran responsible for further attacks by Yemen's Tehran-backed Houthis, after the militant group claimed to have struck two Saudi Arabian oil tankers in the Red Sea.
+"If they do this again, the U.S. will hold Iran responsible, in that the Houthis are a Surrogate and/or Proxy of Iran, and major military punishment will be inflicted upon Iran and, of course, the Houthis, themselves," he said in a Truth Social post.
+Iran's Revolutionary Guard said Thursday that it had attacked U.S. military facilities at an American base in Jordan, according to state media.
+Speaking to reporters on Thursday, U.S. Secretary of State Marco Rubio labeled Trump's approach to the Iran war as "a head for an eye."
+In a Friday morning note, Daniela Hathorn, senior market analyst at capital.com, said growing instability around key shipping routes had rebuilt a "sizeable geopolitical risk premium" into oil markets.
+"Investor sentiment has been dampened by continued disruption in the Red Sea, where attacks on commercial vessels have compounded concerns over global trade and energy security," she said. "Combined with tensions around the Strait of Hormuz, the developments have reinforced the view that geopolitical risks are unlikely to fade anytime soon, keeping energy markets tight and inflation risks elevated."
+Meanwhile, Giovanni Staunovo, a strategist at UBS Global Wealth Management, said in a Thursday note that markets may be overestimating the oil market's recovery from the conflict.
+"We continue to expect the production recovery process in the Middle East to be slower than the market anticipates, as it requires an increase in inbound vessels," he said. "With the conflict resuming, those flows remain depressed. This should keep the oil market tight and prices supported."
+UBS sees Brent crude falling to $85 a barrel by the end of the year.`,
+    bodyJa: `金曜日、パキスタンが米国とイランの交渉再開方法を模索しているとの報道を受け、原油価格が下落した。
+国際指標であるブレント原油先物は４％近く下落し、１バレル＝９６．７８ドルで取引を終えた。米国ウェスト・テキサス・インターミディエイト原油先物は３％下落し、１バレル＝８９．３１ドルで落ち着いた。
+関係筋３人はロイターに対し、米国・イラン協議再開に向けたパキスタンの取り組みは中国の支援を受けていると語った。
+パキスタン政府当局者はロイターに対し、「イランによる他の湾岸諸国への攻撃やホルムズ海峡閉鎖が中国の利益に打撃を与えているため、中国人は不満を抱いている」と語った。
+中東での戦闘が急激に激化する中、米国産原油は今週約８％上昇し、ブレント原油は１０％近く上昇した。
+米中央軍は一夜にして、軍司令部、ドローン保管施設、通信ネットワーク、沿岸監視拠点、海洋能力を標的とした13夜連続のイラン攻撃を完了した。
+セントコムは、今回の攻撃は「ホルムズ海峡を通過する民間船員や商船に対するイランの脅威をさらに軽減する」ことを目的としていると述べた。
+同軍部隊は声明で「イラン・イスラム革命防衛隊による最近の攻撃にも関わらず、国際水路は依然として通航可能である。商船は米軍の支援を受けて海峡を自由に航行し続けている」と述べた。
+「現在、5万人以上の米軍人が中東全域で活動している。」
+ドナルド・トランプ米大統領は木曜日、アクシオスに対し、中東の紛争が紅海の新たな戦場にまで拡大したことを受け、イランへの「大規模攻撃」を検討していると語った。大統領は、提案されている攻撃はこれまでの戦争で見られたものよりも大規模なものになるとし、イランは「まだ十分な苦痛を受けていない」と述べた。
+同氏はインタビューで「大規模な攻撃を検討している。これまでよりも大規模だ。決断に近づいている。準備は整っている」と語った。
+これは、イエメンのテヘランが支援するフーシ派が紅海でサウジアラビアの石油タンカー２隻を攻撃したと主張したことを受け、トランプ大統領がイエメンのテヘラン支援のフーシ派によるさらなる攻撃の責任をイランに問うと述べた後の出来事だった。
+同氏はトゥルース・ソーシャルへの投稿で、「もし彼らが再び同じことをすれば、米国はイランの責任を問うだろう。フーシ派はイランの代理および／または代理人であるという点で、イランと、もちろんフーシ派自身に重大な軍事的懲罰が科されることになるだろう」と述べた。
+国営メディアによると、イラン革命防衛隊は木曜日、ヨルダンの米軍基地にある米軍施設を攻撃したと発表した。
+マルコ・ルビオ米国務長官は木曜日、記者団に対し、イラン戦争に対するトランプ大統領のアプローチを「目には頭を」と非難した。
+キャピタル・ドット・コムのシニア市場アナリスト、ダニエラ・ハソーン氏は金曜朝のメモで、主要輸送ルートを巡る不安定性の高まりにより、石油市場に「相当な地政学的リスクプレミアム」が再構築されていると述べた。
+同氏は「紅海での混乱が続いていることで投資家心理が冷え込んでおり、商業船への攻撃で世界貿易とエネルギー安全保障への懸念がさらに高まっている」と述べた。 「ホルムズ海峡周辺の緊張と相まって、この展開は地政学的リスクがすぐに薄れる可能性は低く、エネルギー市場は逼迫し、インフレリスクは高止まりするとの見方を強めている。」
+一方、ＵＢＳグローバル・ウェルス・マネジメントのストラテジスト、ジョバンニ・スタウノヴォ氏は木曜日のメモで、市場は紛争からの原油市場の回復を過大評価している可能性があると述べた。
+同氏は「中東での生産回復プロセスは市場の予想よりも遅いと引き続き予想している。輸入船の増加が必要だからだ」と述べた。 「紛争の再開により、これらの原油の流れは依然として低迷している。これにより原油市場は引き締まり、価格は下支えされるだろう。」
+ＵＢＳはブレント原油が年末までに１バレル＝８５ドルまで下落すると予想している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
+    publishedAt: "2026-07-24T19:12:09+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "trump-vows-to-investigate-eu-over-fining-23bb56a2",
+    title: "Trump vows to investigate EU over fining of US tech companies",
+    titleJa: "トランプ大統領、米国ハイテク企業への罰金を巡りEUを調査すると誓う",
+    summaryJa: "トランプ大統領、米国ハイテク企業への罰金を巡りEUを調査すると誓う- 公開されました",
+    bodyOriginal: `Trump vows to investigate EU over fining of US tech companies
+- Published
+Donald Trump says the US will launch an investigation into the European Union and threatened a fresh tariff over fines handed to some of the biggest American tech companies.
+It comes days after the European Commission fined Google €890m ($1bn) for operating in a way that squeezed out competitors to its services.
+In a post to Truth Social, which Trump owns, the US president said the EU would pay a "very big price" over how it had treated Google, along with other major US tech companies Apple, Meta, and Amazon, which have also been investigated.
+"The United States of America is not a "PIGGYBANK" for Europe, nor will we allow it to be!" he wrote.
+Trump said any fines should be "entirely reversed" and that he was initiating a trade investigation of the EU while considering "a substantial TARIFF".
+He added that the US would "immediately initiate a 301 investigation" over European regulators' alleged practice of "robbing American companies and, in turn, the American taxpayer".
+Section 301 of the Trade Act of 1974, external gives The Office of the United States Trade Representative the power to react and investigate trade practices believed to be unfair. The second Trump Administration has launched several such investigations, external since last year.
+The tariff threat comes just one day after Trump announced new tariffs on 60 trading partners, including the EU, UK and China, of between 10% and 12.5%.
+José Castañeda, a spokesman for Google, told the BBC the company had "worked hard to comply" with Europe's Digital Markets Act but had "expressed our concerns about the impact of recent EC decisions".
+"We appreciate the engagement by the administration and US government," Castañeda added.
+In addition to the recent fine against Google, Trump claimed in his post that Apple had received EU fines of $15bn, Meta fines of $3bn, and Amazon fines of $2.5bn.
+Representatives of Meta, Apple and Amazon, as well as the European Commission, have been contacted for comment.
+Shortly before Trump was elected president in 2024, he said Tim Cook, Apple's chief executive, had called him directly to complain about fines the company had received from European regulators.
+The call came not long after Apple lost a long-running dispute over unpaid taxes.
+Related topics
+- Published20 hours ago`,
+    bodyJa: `トランプ大統領、米国ハイテク企業への罰金を巡りEUを調査すると誓う
+- 公開されました
+ドナルド・トランプ大統領は、米国が欧州連合（EU）に対する調査を開始すると述べ、米国最大手のテクノロジー企業の一部に科せられた罰金を巡り新たな関税を課すと脅した。
+これは、サービスの競合他社を締め出すような運営を行ったとして、欧州委員会がグーグルに8億9000万ユーロ（10億ドル）の罰金を科した数日後のことだった。
+トランプ大統領は、トランプ氏が経営するトゥルース・ソーシャルへの投稿で、グーグルのほか、同様に捜査を受けている他の米大手ハイテク企業アップル、メタ、アマゾンに対する扱いをめぐって、ＥＵは「非常に大きな代償」を支払うことになるだろうと述べた。
+「アメリカ合衆国はヨーロッパにとっての『貯金箱』ではないし、我々もそんなことを許さない！」彼は書いた。
+トランプ大統領は、いかなる罰金も「完全に撤回」されるべきであり、「大幅な関税」を検討しながらEUの通商調査を開始していると述べた。
+同氏は、欧州規制当局が「米国企業、そしてひいては米国納税者を強奪する」行為を行ったとされる行為について、米国は「直ちに301調査を開始する」と付け加えた。
+1974 年の通商法第 301 条は、米国通商代表部に、不公平と思われる貿易慣行に対応し、調査する権限を外部に与えています。第2次トランプ政権は昨年以来、こうした調査を対外的に複数開始している。
+この関税の脅威は、トランプ大統領がEU、英国、中国を含む60の貿易相手国に対して10％から12.5％の新たな関税を課すと発表したわずか1日後に起きた。
+Googleの広報担当ホセ・カスタニェダ氏はBBCに対し、同社は欧州のデジタル市場法を「順守するために懸命に取り組んできた」ものの、「最近のECの決定が及ぼす影響について懸念を表明した」と語った。
+カスタニェダ氏は「政府と米国政府の関与に感謝する」と付け加えた。
+Googleに対する最近の罰金に加え、トランプ大統領は投稿の中で、AppleがEUから150億ドル、メタから30億ドル、アマゾンから25億ドルの罰金を受け取ったと主張した。
+Meta、Apple、Amazonの代表者と欧州委員会はコメントを求められている。
+トランプ氏が2024年に大統領に選出される直前、アップルのティム・クック最高経営責任者（CEO）からトランプ氏に直接電話があり、同社が欧州規制当局から受け取った罰金について苦情を申し立てられたと述べた。
+この電話は、税金未払いをめぐる長期にわたる紛争でアップルが敗訴してから間もなくかかってきた。
+関連トピック
+- 20 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-24T18:57:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
+    readTime: 3,
+  },
+  {
+    id: "oil-shipments-are-under-attack-on-multip-4e033e4e",
+    title: "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
+    titleJa: "紅海、ホルムズ、黒海で戦闘が激化する中、石油輸送は複数の前線で攻撃にさらされている",
+    summaryJa: "中東やヨーロッパで激化する紛争において経済戦争が武器として展開される中、石油タンカーはさまざまな面でますます攻撃にさらされるようになっている。イランは今月、重要な石油回廊の支配を強めようとして、ホルムズ海峡とその周辺でタンカーへの攻撃を強化している。イエメンにおけるイラン政府の同盟国フーシ派は今週、リヤドに対する海上禁輸を宣言した後、紅海でサウジアラビアのタンカー２隻を砲撃し、第２戦線を開設した。",
+    bodyOriginal: `Oil tankers are increasingly coming under fire on several fronts as economic warfare is deployed as a weapon in the escalating conflicts in the Middle East and Europe.
+Iran has stepped up its attacks on tankers in and around the Strait of Hormuz this month as it tries to impose its control over the crucial oil corridor. Tehran's Houthi allies in Yemen opened a second front this week, firing on two Saudi tankers in the Red Sea after declaring a maritime embargo against Riyadh.
+Ukraine, meanwhile, says it has attacked more than 150 tankers, cargo ships, and other vessels associated with Russia's shadow fleet in the Sea of Azov and Black Sea, according to the Kyiv Post.
+The oil market is now dealing with wars on multiple fronts, Helima Croft, head of global commodity strategy, told CNBC's "Power Lunch" on Thursday. Oil prices have surged more than 30% in July with Brent crude breaking $100 per barrel on Thursday for the first time since May, as the security situation has rapidly deteriorated in the southern Red Sea and Hormuz.
+Ship traffic through Hormuz has plunged after rebounding in the weeks following the memorandum of understanding signed by the U.S. and Iran on June 17 to reopen the strait.
+"After the collapse of the MOU, we have entered the worst phase of this conflict for merchant shipping," said Dimitris Maniatis, CEO of the maritime risk service Marisks, headquartered in Athens, Greece.
+"The primary reason is the fact that the Iranians want to assert more authority and control over what is happening in the Strait of Hormuz," Maniatis said.
+Some 61 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz, and Gulf of Oman since March 1, resulting in the deaths of at least 17 seafarers and dozens of injuries, according to the International Maritime Organization, a United Nations agency.
+At least a dozen tankers have been struck this month in and around Hormuz, killing at least two seafarers, as fighting sharply escalates between the U.S. and Iran, according to the IMO data.
+The Red Sea attacks now threaten millions of barrels per day of oil that the Saudis redirected through a pipeline to its western coast amid to the security situation in Hormuz. The Saudi exports transit through the Bab el-Mandeb Strait, a chokepoint that links the Red Sea to the Gulf of Aden.
+"The Iranians and the Houthis together now are implementing a very significant blow to American national interests, the American oil companies and of course Saudi Arabia," Maniatis said. "But they're not managing to entirely choke exports."
+Houthi attacks on ships in the Red Sea from 2023 to 2025 in response to Israel's war in Gaza dramatically reduced traffic through the Bab el-Mandeb. Shipping through the strait had still not fully recovered.
+The Saudis can redirect some oil through a pipeline that stretches from a port on the Red Sea across Egypt to the Mediterranean but the logistics are complex, said Matt Smith, director of commodity research at Kpler.
+Supertankers cannot transit the Suez Canal fully loaded because the channel is too shallow, Smith said. The Saudis would have to unload half the cargo at the port of Ain Sokhna, pipe it through to the port of Sidi Kerir, send the supertanker through Suez and retrieve the oil on the other side, he said.
+The supertanker would then face a much longer journey around Africa to destinations in Asia, and would have to return on the same route through the Suez due to Houthi threats at the Bab el-Mandeb, Smith said. The roundtrip journey would take around eight weeks, he said.
+Oil shipments by sea from the Middle East are increasingly facing a "no-way out" scenario due to the disruptions in the Red Sea, Croft said.
+In the Black Sea, meanwhile, the Caspian Pipeline Consortium has stopped loading tankers at the Russian port of Novorossiysk due to attacks on vessels. Kazakhstan exports about 80% of its crude oil through that pipeline, Croft said in a note to clients this week.
+The Kazakhs have limited alternatives to the pipeline, which means their production of around 1.7 million bpd in June, could face shut-ins, Croft said. The Ukrainians have also pounded Russian refineries, resulting in more than 50% of the country's capacity coming offline, the analyst said.
+"Russia has now put a export ban on products and their refineries have been hit so massively by Ukraine," Croft told CNBC. "Russia is one of the largest product exporters, one the largest diesel exporters. It's really tightening the products market as well as the crude market."
+The dangerous escalation in the Middle East could potentially spike Brent oil prices beyond the 2022 high of $128 per barrel after Russia invaded Ukraine, Croft said in the note. In a worst-case scenario, where the region descends into full-scale war, Brent could surpass the 2008 peak of $148 per barrel, she said.`,
+    bodyJa: `中東やヨーロッパで激化する紛争において経済戦争が武器として展開される中、石油タンカーはさまざまな面でますます攻撃にさらされるようになっている。
+イランは今月、重要な石油回廊の支配を強めようとして、ホルムズ海峡とその周辺でタンカーへの攻撃を強化している。イエメンにおけるイラン政府の同盟国フーシ派は今週、リヤドに対する海上禁輸を宣言した後、紅海でサウジアラビアのタンカー２隻を砲撃し、第２戦線を開設した。
+一方、キエフ・ポスト紙によると、ウクライナは、アゾフ海と黒海でロシアの影の艦隊に関連するタンカー、貨物船、その他の船舶150隻以上を攻撃したと発表した。
+世界商品戦略責任者のヘリマ・クロフト氏は木曜日、CNBCの「パワーランチ」で、石油市場は現在、複数の戦線で戦争に対処していると語った。紅海南部とホルムズ地域の治安状況が急速に悪化しているため、原油価格は7月に30％以上急騰し、木曜日にはブレント原油が5月以来初めて1バレル＝100ドルを突破した。
+ホルムズを通過する船舶の交通量は、6月17日に米国とイランが海峡再開に向けた覚書に署名してから数週間で回復した後、激減した。
+ギリシャのアテネに本社を置く海事リスクサービス会社マリリスクスのディミトリス・マニアティス最高経営責任者（CEO）は、「覚書崩壊後、商船業界にとってこの紛争は最悪の段階に入った」と述べた。
+マニアティス氏は、「主な理由は、イラン人がホルムズ海峡で起きていることに対して、より大きな権限と統制を主張したいと考えているという事実だ」と述べた。
+国連機関の国際海事機関によると、3月1日以降、ペルシャ湾、ホルムズ海峡、オマーン湾で約61隻の商船が攻撃され、少なくとも船員17人が死亡、数十人が負傷した。
+ＩＭＯのデータによると、米国とイランの間で戦闘が激化する中、今月、ホルムズとその周辺で少なくとも十数隻のタンカーが衝突され、少なくとも船員２人が死亡した。
+紅海の攻撃は現在、ホルムズの治安状況のさなか、サウジがパイプラインを通じて西海岸に送り先を変えた日量数百万バレルの石油を脅かしている。サウジアラビアの輸出品は、紅海とアデン湾を結ぶ難関であるバブ・エル・マンデブ海峡を通過する。
+「イランとフーシ派は現在、共同してアメリカの国益、アメリカの石油会社、そしてもちろんサウジアラビアに対して非常に重大な打撃を与えている」とマニアティス氏は述べた。 「しかし、輸出を完全に阻止することはできていない。」
+ガザでのイスラエルの戦争に対抗して、2023年から2025年にかけてフーシ派が紅海の船舶を攻撃し、バブ・エル・マンデブ川の交通量が劇的に減少した。海峡を通る輸送はまだ完全に回復していなかった。
+サウジは紅海の港からエジプトを越えて地中海に伸びるパイプラインを通じて石油の一部を輸送することができるが、物流は複雑だとクプラーの商品調査ディレクター、マット・スミス氏は述べた。
+スミス氏によると、スーパータンカーはスエズ運河が浅すぎるため、満載の荷物を積んで通過することはできないという。同氏によると、サウジはアインスクナ港で貨物の半分を降ろし、パイプでシディ・ケリル港に運び、スーパータンカーをスエズ経由で送り、反対側で石油を回収する必要があるという。
+スミス氏によると、超タンカーはアフリカを周回してアジアの目的地まではるかに長い旅をすることになり、バブ・エル・マンデブでのフーシ派の脅威のため、スエズを通って同じルートで戻らなければならないだろうという。同氏によると、往復の旅には約8週間かかるという。
+クロフト氏は、中東からの海上石油輸送は、紅海の混乱によりますます「出口のない」シナリオに直面していると述べた。
+一方、黒海では、カスピ海パイプライン・コンソーシアムが船舶への攻撃のため、ロシアのノヴォロシースク港でタンカーへの積み込みを停止した。クロフト氏は今週顧客に宛てたメモの中で、カザフスタンは原油の約80％をそのパイプラインを通じて輸出していると述べた。
+クロフト氏は、カザフスタンにはパイプラインの代替手段が限られているため、6月の日量約170万バレルの生産が停止に直面する可能性があると述べた。アナリストによると、ウクライナはロシアの製油所も攻撃しており、その結果、同国の生産能力の50％以上が停止しているという。
+「ロシアは現在、製品の輸出を禁止しており、ロシアの製油所はウクライナによって大規模な打撃を受けている」とクロフト氏はCNBCに語った。 「ロシアは最大の製品輸出国の一つであり、最大のディーゼル輸出国の一つだ。原油市場だけでなく製品市場も本当に逼迫している。」
+クロフト氏はメモの中で、ロシアのウクライナ侵攻後、中東の危険なエスカレーションにより、ブレント原油価格が2022年の最高値である1バレル当たり128ドルを超えて高騰する可能性があると述べた。同地域が本格的な戦争に突入するという最悪のシナリオでは、ブレント原油は2008年のピークである1バレル当たり148ドルを超える可能性があると述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
+    publishedAt: "2026-07-24T18:47:41+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "moody-s-says-unprecedented-ai-spending-t-b058d4cc",
+    title: "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+    titleJa: "ムーディーズ、「前例のない」AI支出がアマゾン、メタ、アルファベットなどの信用の質を脅かしていると発表",
+    summaryJa: "年間数兆ドル規模の人工知能インフラ構築競争がフリーキャッシュフローを侵食し、いわゆるハイパースケーラーのバランスシートリスクを増大させているとムーディーズ・レーティングスは警告した。ムーディーズは今週発表したリサーチノートの中で、支出の急増により、アルファベットやマイクロソフトのような世界で最も現金が豊富な企業ですら、AIへの野望に資金を提供するために借金や株式売却、オフバランスシートへの投資に大きく依存せざるを得なくなっていると述べた。",
+    bodyOriginal: `The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers, warned Moody's Ratings.
+In a research note released this week, Moody's said that the spending surge is forcing even the world's most cash-rich corporations like Alphabet and Microsoft to lean heavily on debt, stock sales and off-balance-sheet moves to fund their AI ambitions.
+"Previously, these companies relied on asset-light structures centered on software, intellectual property, and scalable cloud services that required modest capital investment," Moody's said in the Wednesday note. "The transition from asset-light to asset-heavy models requires unprecedented levels of investment and capital raising."
+The moves "threaten credit quality" for the six companies tracked by Moody's, which include Microsoft, Amazon, Alphabet, Meta, Oracle and CoreWeave, according to the report.
+The ratings firm projects that capital expenditures — or capex, which are investment for physical assets like data centers — will hit $785 billion in 2026 before reaching about $1 trillion next year.
+The shift breaks a decades-long Silicon Valley formula that created the world's most valuable companies. Software costs little to replicate, yielding fat profit margins and fortress balance sheets. Generative AI, by contrast, demands a vast physical footprint: warehouses crammed with expensive and energy-hungry servers and chips.
+To finance the expansion, tech giants are increasingly turning to Wall Street, resulting in booming profits for the financial industry.
+Direct debt across the six hyperscalers has reached approximately $460 billion, according to Moody's. Tech companies are also tapping public markets for cash, including Google-parent Alphabet, which last month announced an $85 billion equity sale.
+Leasing data centers
+The ratings firm noted that because AI hardware and infrastructure require massive upfront investment while revenue materializes over a longer time horizon, free cash flow across the sector is coming under pressure.
+To keep direct debt off their balance sheets, hyperscalers are leaning on off-balance-sheet financing, mostly through long-term data center leases, the report explained.
+Moody's said that lease commitments across the group have ballooned to $1.2 trillion. More than $820 billion of that total is from leases that haven't started yet, meaning the data centers are still being built.
+While these obligations don't show up as traditional debt, Moody's says it considers them as debt-equivalent liabilities that will bind companies to significant rent payments down the line.
+Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.
+The immediate pressure is concentrated on lower-rated entities like Oracle and specialized AI cloud provider CoreWeave. Oracle carries a rating of Baa2 with a negative outlook, placing it just two notches above junk status.
+Meanwhile, CoreWeave operates within the high-yield market with a Ba3 rating, relying on complex private debt structures to finance its GPU hardware fleets.
+Circular ecosystem
+Moody's also pointed to structural circularity within the AI boom. Some of the multibillion-dollar backlogs reported by hyperscalers stem from strategic deals with pre-IPO artificial intelligence labs including OpenAI and Anthropic, Moody's noted.
+The firms have invested billions into AI labs that, in turn, spend heavily on cloud computing from those same companies, creating what Moody's described as a circular AI ecosystem.
+The overlapping relationships heighten risks because many of the industry's biggest companies are increasingly dependent on the same AI customers and the same assumptions about future demand, Moody's said.
+Even so, the tech giants have significant strengths that help offset those risks.
+Demand for AI computing remains robust, cloud businesses continue to grow and hyperscalers have signed hundreds of billions of dollars in long-term customer contracts that should provide predictable revenue. Those deals support the industry's largely-strong credit profiles, even amid the spending boom.
+Still, investors should recognize that the tech industry's financial profile is undergoing a structural change unlike anything seen in the cloud era, according to Moody's.
+"Investors will increasingly focus on these companies' ability to realize an adequate return on investment," the ratings firm said.`,
+    bodyJa: `年間数兆ドル規模の人工知能インフラ構築競争がフリーキャッシュフローを侵食し、いわゆるハイパースケーラーのバランスシートリスクを増大させているとムーディーズ・レーティングスは警告した。
+ムーディーズは今週発表したリサーチノートの中で、支出の急増により、アルファベットやマイクロソフトのような世界で最も現金が豊富な企業ですら、AIへの野望に資金を提供するために借金や株式売却、オフバランスシートへの投資に大きく依存せざるを得なくなっていると述べた。
+ムーディーズは水曜日のメモで、「これらの企業はこれまで、ソフトウェア、知的財産、スケーラブルなクラウドサービスを中心としたアセットライト構造に依存しており、少額の資本投資を必要としていた」と述べた。 「資産軽めのモデルから資産重めのモデルへの移行には、前例のないレベルの投資と資本調達が必要です。」
+報告書によると、この動きはムーディーズが追跡しているマイクロソフト、アマゾン、アルファベット、メタ、オラクル、コアウィーブを含む6社の「信用の質を脅かしている」という。
+格付け会社は、設備投資、つまりデータセンターなどの物理的資産への投資であるCapexが2026年に7,850億ドルに達し、来年には約1兆ドルに達すると予測している。
+この変化は、世界で最も価値のある企業を生み出してきた数十年にわたるシリコンバレーの方式を打ち破る。ソフトウェアの複製コストはほとんどかからないため、大きな利益率と強固なバランスシートが得られます。対照的に、生成 AI は、膨大な物理的設置面積を必要とします。倉庫には、高価でエネルギーを大量に消費するサーバーとチップが詰め込まれています。
+事業拡大に資金を提供するために、ハイテク大手企業はますますウォール街に目を向けており、その結果、金融業界の利益は急増しています。
+ムーディーズによると、ハイパースケーラー６社全体の直接負債は約４６００億ドルに達している。先月850億ドルの株式売却を発表したグーグルの親会社アルファベットなど、ハイテク企業も公開市場を利用して現金を獲得している。
+データセンターのリース
+同格付け会社は、AIのハードウェアとインフラストラクチャには巨額の先行投資が必要だが、収益は長期にわたって実現するため、セクター全体のフリーキャッシュフローが圧迫されていると指摘した。
+直接負債をバランスシートから切り離すため、ハイパースケーラーは主に長期のデータセンターリースを通じてオフバランスシートの資金調達に頼っていると報告書は説明している。
+ムーディーズによると、グループ全体のリース契約は１兆２０００億ドルに膨れ上がった。このうち 8,200 億ドル以上はまだ開始されていないリースによるもので、データセンターがまだ建設中であることを意味します。
+これらの債務は従来の債務としては現れないが、ムーディーズはこれらの債務を、企業が将来的に多額の賃料支払いに拘束される債務に相当する負債とみなしていると述べている。
+警告にもかかわらず、ムーディーズは、マイクロソフト、アルファベット、アマゾン、メタは世界で最も強固な企業バランスシートを維持しており、これらの企業の投資適格格付けが差し迫った脅威にさらされる可能性は低いと指摘した。
+差し迫った圧力は、Oracleや専門のAIクラウドプロバイダーであるCoreWeaveなどの格付けの低い企業に集中している。オラクルの格付けは「Baa2」で、見通しはネガティブで、ジャンクステータスよりわずか 2 ノッチ上にあります。
+一方、CoreWeave は Ba3 格付けの高利回り市場で事業を展開しており、GPU ハードウェア フリートの資金調達を複雑な民間債務構造に依存しています。
+循環型エコシステム
+ムーディーズはAIブームにおける構造的な循環性も指摘した。ハイパースケーラーが報告している数十億ドル規模の未払い金の一部は、OpenAIやAnthropicなどIPO前の人工知能研究所との戦略的取引に起因しているとムーディーズは指摘した。
+両社はAIラボに数十億ドルを投資し、その結果、同じ企業のクラウドコンピューティングに多額の費用を費やし、ムーディーズが表現する循環型AIエコシステムを構築した。
+ムーディーズは、業界最大手企業の多くが同じAI顧客と将来の需要についての同じ想定にますます依存しているため、関係が重複することでリスクが高まると述べた。
+それでも、ハイテク大手にはそれらのリスクを相殺するのに役立つ大きな強みがある。
+AI コンピューティングの需要は依然として堅調で、クラウド ビジネスは成長を続けており、ハイパースケーラーは予測可能な収益をもたらすはずの数千億ドルの長期顧客契約を締結しています。これらの取引は、消費ブームのさなかにも関わらず、業界の概ね好調な信用プロフィールを支えている。
+それでもムーディーズによると、投資家はハイテク業界の財務状況がクラウド時代には見られなかった構造変化を遂げていることを認識すべきだという。
+格付け会社は「投資家はこれらの企業が適切な投資収益率を実現できるかどうかにますます注目するだろう」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    publishedAt: "2026-07-24T18:20:17+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "cdc-says-massive-cyclospora-outbreak-is-5149adc4",
+    title: "CDC says massive cyclospora outbreak is now in nine states",
+    titleJa: "CDCは、シクロスポラの大規模発生が現在9つの州で発生していると発表",
+    summaryJa: "新たに連携したイリノイ、カンザス、オクラホマ、ペンシルベニアの4州が、インディアナ、ケンタッキー、オハイオ、ウェストバージニア、そして大打撃を受けたミシガンに加わる。",
+    bodyOriginal: `The nation's largest multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, the Centers for Disease Control and Prevention said Friday.
+The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan. Cyclospora is a microscopic parasite that typically infects people through contaminated food or water and causes cyclosporiasis, a gastrointestinal illness that can result in symptoms including severe diarrhea. Patients can require hospitalization, but no deaths have been recorded related to the parasite this year.
+The outbreak is already the largest of cyclosporiasis reported in the U.S. this year, with thousands of illnesses recorded nationwide. That is well above the roughly 200 to 1,000 cases typically reported annually.
+Meanwhile, the Food and Drug Administration is investigating a separate cyclosporiasis outbreak linked to an unidentified food product or products. The U.S. is trying to investigate the sources of the parasite and contain its spread amid confusion over its response to the outbreak and staffing cuts that some experts say made it harder to curb it.
+U.S. health and food regulators have zeroed in on shredded iceberg lettuce supplied by Taylor Farms.
+Mexican health authorities on Thursday said that samples of lettuce and water from Taylor Farms' plant in central Mexico tested negative for cyclospora. However, that result does not disprove the Food and Drug Administration's earlier identification as Taylor Farms de Mexico as the likely source of the outbreak.
+The earliest cases began showing symptoms in mid-May. Moreover, the long incubation period for infection means that the crop responsible would have been distributed weeks ago.
+Last week, the FDA said that the produce giant supplied the shredded iceberg lettuce to the Taco Bell restaurants where people ate before becoming ill. Taylor Farms issued a voluntary recall for all iceberg lettuce sourced from its Guanajuato, Mexico, facility, and Taco Bell pulled the affected lettuce from its restaurants.
+The CDC has so far tallied 1,947 people infected with cyclospora who also reported eating at Taco Bell in the nine states. Illnesses in the outbreak tied to iceberg lettuce began on June 22 and have continued through July 20, the CDC said. The federal count has lagged behind state tallies, so some of the states hit by the outbreak have reported much higher numbers of infections.
+But Taylor Farms has drawn criticism for its response to the outbreak. Some health experts blasted its recall notice, which included abbreviations and did not allow consumers to understand easily if they had bought or eaten any product that was at risk.
+After the FDA reported a false positive of lettuce samples from Taylor Farms on Sunday, the company issued a statement saying that the health agency had apologized. The FDA later clarified that it had not apologized to Taylor Farms, and the company deleted the statement on X, although it is still available on its website. The agency also said it still considered the company's iceberg lettuce the likely source of the outbreak.
+Taylor Farms supplies lettuce and other produce to major retailers such as Walmart, Target and Whole Foods, as well as restaurant chains including Taco Bell.`,
+    bodyJa: `アメリカ疾病予防管理センターは金曜日、細切りアイスバーグレタスに関連する複数の州で発生したシクロスポラ症の国内最大規模の発生が9つの州に拡大したと発表した。
+新たに連携したイリノイ、カンザス、オクラホマ、ペンシルベニアの4州が、インディアナ、ケンタッキー、オハイオ、ウェストバージニア、そして大打撃を受けたミシガンに加わる。シクロスポラは、通常、汚染された食品や水を介して人々に感染し、重度の下痢などの症状を引き起こす胃腸疾患であるシクロスポラ症を引き起こす微細な寄生虫です。患者は入院を必要とする可能性があるが、今年はこの寄生虫に関連した死亡は記録されていない。
+この流行はすでに米国で今年報告されたシクロスポリア症としては最大規模であり、全米で数千件の発生が記録されている。これは、通常年間報告されるおよそ200～1,000件の症例をはるかに上回っている。
+一方、食品医薬品局は、未確認の食品に関連した別のシクロスポリア症の発生を調査している。米国は、感染拡大への対応を巡る混乱と人員削減により感染を抑えることが困難になったと一部の専門家が指摘する中、寄生虫の発生源を調査し、感染拡大を阻止しようとしている。
+米国の保健・食品規制当局は、テイラー・ファームズが供給する細切りアイスバーグ・レタスに焦点を当てた。
+メキシコ保健当局は木曜日、メキシコ中部にあるテイラー・ファームズの工場から採取したレタスと水のサンプルはシクロスポラ検査で陰性だったと発表した。しかし、この結果は、メキシコのテイラー農場が発生源である可能性が高いと食品医薬品局が以前に特定したことを反証するものではない。
+最も初期の症例では5月中旬に症状が現れ始めた。さらに、感染の潜伏期間が長いということは、原因作物が数週間前に流通していたであろうことを意味する。
+FDAは先週、食品大手がタコベル・レストランに細切りアイスバーグレタスを供給し、人々が発症する前にそこで食事をしていたと発表した。テイラー・ファームズは、メキシコのグアナファトにある自社施設から供給されるすべてのアイスバーグ・レタスの自主回収を発表し、タコベルは該当のレタスをレストランから撤去した。
+CDCはこれまでに9州でタコベルで食事をしたと報告したシクロスポラ感染者1,947人を集計している。 CDCによると、アイスバーグレタスに関連した病気の発生は6月22日に始まり、7月20日まで続いたという。連邦政府の集計は州の集計に遅れをとっているため、感染拡大に見舞われた州の一部ではさらに多くの感染者数が報告されている。
+しかし、テイラー・ファームズは感染拡大への対応で批判を呼んでいる。一部の健康専門家は、そのリコール通知には略語が含まれており、リスクのある製品を購入または食べたかどうかを消費者が簡単に理解できないと非難した。
+日曜日にFDAがテイラー・ファームズからのレタスサンプルの誤検知を報告したことを受け、同社は保健当局が謝罪したとの声明を発表した。 FDAはその後、テイラー・ファームズに対して謝罪していないと明らかにし、同社はXに関する声明を削除したが、ウェブサイトには今でも閲覧できる。同庁はまた、同社のアイスバーグレタスが感染源の可能性が依然として高いと考えていると述べた。
+Taylor Farms は、ウォルマート、ターゲット、ホールフーズなどの大手小売店や、タコベルなどのレストラン チェーンにレタスやその他の農産物を供給しています。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
+    publishedAt: "2026-07-24T17:32:22+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "faisal-islam-the-uk-s-trump-trade-deal-n-1e49e3fe",
+    title: "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+    titleJa: "ファイサル・イスラム氏：英国のトランプ貿易協定はもはや世界に勝るものとは思えない",
+    summaryJa: "ファイサル・イスラム氏：英国のトランプ貿易協定はもはや世界に勝るものとは思えない- 公開されました",
+    bodyOriginal: `Faisal Islam: The UK's Trump trade deal no longer looks world-beating
+- Published
+It has been a long road for President Donald Trump as he looks for a justification to erect a tariff wall around the US, including against key allies.
+From the opioid crisis to illegal migration, then the need to bring manufacturing back to America's shores, the list goes on.
+Through Trump's second term, there has been a new justification almost every month for the trade levies he is seeking to place on allies.
+Some have been overturned by the courts, others by economics and some even by their own logic. And so, Trump has now turned to effectively accusing dozens of trade partners of trading in goods that have been produced using forced labour.
+These are "tariffs in search of an authority", as one industry figure put it. The forced labour line shores up President Trump's tariffs against a challenge from Congress or the courts.
+In practice, the levies are curiously similar by country to a previous round of tariffs imposed supposedly for completely different reasons.
+The good news for the UK is that the regime effectively remains the same as before.
+What has changed is that our nearest neighbours in the European Union now have a much better deal than before, and in turn are in a better situation than the UK.
+While the UK and the EU each appear to have a 10% rate, the EU's is a flat rate, while the UK's will apply alongside other tariffs, in a range of goods including footwear and textiles.
+The government has struck effective side deals on medicines, steel, aluminium, cars and, with the help of King Charles, whisky.
+At the end of this process however the overall trade-weighted effective tariff rate for the EU (8.5%) could end up a bit lower than the UK's (6.8%).
+It should not matter that much, but the help given by doing the first deal, and by post-Brexit trade freedoms, looks to have been short-lived.
+The British Chambers of Commerce trade expert William Bain points to the competitive advantage for EU exporters into the US in some sectors.
+The EU has secured better treatment because it has passed a ban on forced labour goods, which the UK has not.
+This is not an accusation on the use of forced labour in supply chains. It is about the passing of specific legislation, mirroring the US ban on products that have used forced labour in supply chains.
+US hits dozens of countries with new wave of tariffs
+- Published6 hours ago
+What tariffs has Trump introduced and why?
+- Published11 hours ago
+There should be scope for a better deal for the UK, but it raises an interesting question about whether the government will pursue an EU-style ban. This is widely seen as a backdoor way to target China, in particular for conditions in its Xinjiang province.
+Last October, external the government said it "remained firmly opposed to the use of state-imposed forced labour", but that it was "considering how best to reflect this position," citing "operational and legal complexities".
+Since then, the UK has welcomed imports of Chinese cars, and is exploring a services trade deal with the country. The relationship with China has been a balancing act for the government.
+This is also one of the global stories of the tariff wars. As the US repeatedly changes its rationale for tariffs, the rest of the world is focused on trading with each other. For example, Canada increased its trade with the rest of the world by more than it lost from the US.
+China's total dollar trade with the US is flat in the first half of this year versus last year. Across the world it is up 21%, including 14% with the EU, 11% with the UK, and 24% with Africa.
+There could be pressure now to legislate for a formal ban on forced labour products. Successive governments have opted for a lighter voluntary due diligence regime.
+Will the US force a change in the UK and elsewhere, and what might it offer in return?
+Or the UK may opt to keep its precarious geopolitical position by sticking to its existing deals in medicines, metals and cars.`,
+    bodyJa: `ファイサル・イスラム氏：英国のトランプ貿易協定はもはや世界に勝るものとは思えない
+- 公開されました
+主要同盟国に対するものも含め、米国の周囲に関税の壁を築く正当性を模索するドナルド・トランプ大統領にとって、これは長い道のりだった。
+オピオイド危機から不法移民、そして製造業をアメリカ本土に戻す必要性まで、リストは続きます。
+トランプ大統領の2期目を通して、同氏が同盟国に課そうとしている貿易税の新たな正当化がほぼ毎月出てきた。
+裁判所によって覆されたものもあれば、経済学によって覆されたもの、さらには独自の論理によって覆されたものもあります。そこでトランプ大統領は現在、数十の貿易相手国を強制労働を使って生産された商品を取引していると事実上非難する方向に舵を切った。
+ある業界関係者が言うように、これらは「権威を求めた関税」だ。強制労働の規定は、議会や裁判所からの異議に対抗してトランプ大統領の関税を強化するものである。
+実際には、この課徴金は、まったく異なる理由で課せられたとされる前回の関税と、不思議なことに国ごとに似ている。
+英国にとって良いニュースは、体制が事実上以前と同じままであることだ。
+何が変わったかというと、欧州連合の最も近い隣国が以前よりもはるかに良い協定を結んでおり、ひいては英国よりも良い状況にあるということです。
+英国とEUはそれぞれ10%の税率を課しているようだが、EUは一律税率であるのに対し、英国は履物や繊維製品を含む幅広い品目に他の関税と並行して適用される。
+政府は医薬品、鉄鋼、アルミニウム、自動車、そしてチャールズ国王の援助を受けてウイスキーに関して効果的なサイド取引を締結した。
+ただし、このプロセスの終了時点では、EU の全体的な貿易加重実効関税率 (8.5%) は英国 (6.8%) よりも若干低くなる可能性があります。
+それはそれほど重要ではないはずだが、最初の合意の締結とEU離脱後の貿易の自由による助けは長続きしなかったようだ。
+英国商工会議所の貿易専門家ウィリアム・ベイン氏は、一部の分野では米国へのEU輸出業者の競争上の優位性を指摘する。
+EUは強制労働用品の禁止を可決したが、英国は可決しなかったため、より良い待遇を確保した。
+これはサプライチェーンにおける強制労働の使用を告発するものではありません。これはサプライチェーンで強制労働を使用した製品に対する米国の禁止を反映した特定の法案の可決に関するものである。
+米国、新たな関税の波で数十カ国を打撃
+- 6 時間前に公開
+トランプ大統領はどのような関税を導入しましたか?またその理由は何ですか?
+- 11 時間前に公開
+英国にとってより良い合意の余地はあるはずだが、政府がEUスタイルの禁止を追求するかどうかについて興味深い疑問が生じる。これは中国、特に新疆ウイグル自治区の状況を標的にする裏口的な手段として広く見られている。
+昨年10月、政府は対外的に「国家が強制する強制労働の利用には断固として反対し続ける」ものの、「運営上および法的な複雑さ」を理由に「この立場をどのように反映するのが最善かを検討している」と述べた。
+それ以来、英国は中国車の輸入を歓迎しており、同国とのサービス貿易協定の締結を模索している。中国との関係は政府にとってバランスを取る役割を果たしてきた。
+これは関税戦争の世界的な物語の一つでもあります。米国が関税の根拠を繰り返し変更する中、世界の他の国々は相互の貿易に焦点を当てている。たとえば、カナダは米国から失った貿易額以上に、世界の他の国々との貿易を増やしました。
+中国の対米国ドル貿易総額は、今年上半期は昨年と比べて横ばいであった。世界中で 21% 増加しており、その中には EU で 14%、英国で 11%、アフリカで 24% が含まれています。
+強制労働製品の正式な禁止を法制化するよう圧力がかかる可能性がある。歴代政府は、より軽い自主的デューデリジェンス制度を選択してきました。
+米国は英国や他の国に変化を強制するだろうか、そしてその見返りに何を提供する可能性があるだろうか？
+あるいは、英国は医薬品、金属、自動車に関する既存の取引に固執することで、不安定な地政学的立場を維持することを選択するかもしれない。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-24T14:02:26+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg",
+    readTime: 4,
+  },
+  {
     id: "the-30-year-treasury-yield-is-closing-in-de87adfc",
     title: "The 30-year Treasury yield is closing in on 5.2%. A surge to 6% could slam stocks.",
     titleJa: "30年米国債利回りは5.2％に近づいている。 6％まで上昇すれば株価は暴落する可能性がある。",
@@ -1301,470 +1669,6 @@ How will this cut affect you?`,
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f4/live/dbb6a5c0-8697-11f1-9e03-bdd14c1ce63a.jpg",
     readTime: 6,
-  },
-  {
-    id: "oil-prices-hit-100-for-the-first-time-si-8f5c5a67",
-    title: "Oil prices hit $100 for the first time since May",
-    titleJa: "原油価格、5月以来初めて100ドルに到達",
-    summaryJa: "原油価格、5月以来初めて100ドルに到達- 公開されました",
-    bodyOriginal: `Oil prices hit $100 for the first time since May
-- Published
-Oil prices hit $100 a barrel for the first time since May as the escalating conflict in the Middle East reignited fears over global energy supplies.
-Brent crude - the global benchmark for oil prices - rose more than 5% on Thursday after several days of increases as the US stepped up military strikes against Iran.
-Prices spiked after Houthi militia attacked oil tankers in the Red Sea, threatening a key export route that Saudi Arabia has used to bypass the Strait of Hormuz.
-Gas prices have also risen steadily over the past month, with the benchmark UK gas price currently at around 150 per therm, up from around 98p per therm on 26 June.
-On Thursday, Iran's Islamic Revolutionary Guards Corps said three tankers had abandoned an attempt to pass through Hormuz after an explosion aboard one of them caused it to catch fire.
-A temporary ceasefire between the US and Iran has failed and this week US Secretary of State Marco Rubio said the people in charge in Iran were "not ready to make a deal".`,
-    bodyJa: `原油価格、5月以来初めて100ドルに到達
-- 公開されました
-中東紛争激化で世界のエネルギー供給に対する懸念が再燃し、原油価格は５月以来初めて１バレル＝１００ドルを記録した。
-原油価格の世界的な指標であるブレント原油は、米国がイランに対する軍事攻撃を強化する中で数日間上昇した後、木曜日には５％以上上昇した。
-フーシ派民兵組織が紅海で石油タンカーを攻撃し、サウジアラビアがホルムズ海峡を迂回するために利用してきた重要な輸出ルートを脅かした後、価格が急騰した。
-ガス価格も過去 1 か月間着実に上昇しており、英国の基準となるガス価格は現在 1 サームあたり約 150 ペンスで、6 月 26 日のサームあたり約 98 ペンスから上昇しています。
-イランイスラム革命防衛隊は木曜日、タンカー３隻がそのうち１隻の爆発で火災を引き起こし、ホルムズ通過を断念したと発表した。
-米国とイラン間の一時停戦は失敗に終わり、マルコ・ルビオ米国務長官は今週、イラン担当者らは「合意を結ぶ準備ができていない」と述べた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-23T13:55:56+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
-    readTime: 2,
-  },
-  {
-    id: "american-airlines-stock-tumbles-8-as-fue-16e7a014",
-    title: "American Airlines stock tumbles 8% as fuel spike further postpones turnaround",
-    titleJa: "アメリカン航空の株価、燃料高騰で立て直しがさらに遅れ、8％下落",
-    summaryJa: "アメリカン航空は木曜日、燃料費の高騰を理由に2026年の収益見通しをさらに下方修正したが、これは最も多くの便を運航している米国の航空会社にとって、運賃の値上げだけでは今年の燃料価格の高騰を完全に相殺するのに十分ではないことを示している。同社株は木曜序盤の取引で約８％下落した。同社の経営陣は、同社が競合他社との数十億ドル規模の利益差を改善できると投資家を説得しようと取り組んできた。",
-    bodyOriginal: `American Airlines further cut its 2026 earnings outlook Thursday, citing higher fuel costs, a sign that a jump in fares isn't enough for the U.S. airline that flies the most to fully offset this year's spike in fuel prices.
-Its shares were off roughly 8% in early trading Thursday. The carrier's executive team has been working to convince investors that the airline could improve its multibillion-dollar profit gap with rivals.
-American said it could post an adjusted loss per share of as much as 65 cents up to earnings per share of 65 cents this year, below the range it estimated in April between a loss of 40 cents per share up to earnings of $1.10 a share, which was already reduced from the start of the year when it forecast $1.70 and $2.70 a share.
-On a call after reporting results, American executives defended their decision to continue expanding flying, which would be up much as 5% in the current quarter.
-Fuel prices have been volatile even in the few short weeks of the U.S. airline earnings season that kicked off in July, which has clouded the outlook for airlines this year. Carriers say strong demand and higher fares are helping offset some of the spike. Fuel is airlines' biggest expense after labor.
-For the current quarter, American said it could report an adjusted loss of between 70 cents a share and 10 cents a share, below the 28 cents a share in earnings Wall Street expected, but it forecast revenue to rise between 16% to 19%, above the the 16.6% analysts project.
-American CEO Robert Isom told CNBC in an interview last month that the carrier's "long-range" plan is to close the margin gap that has widened with profit leaders Delta Air Lines and United Airlines but he didn't give a timeframe for that goal. American is planning to order new wide-body aircraft this year and will add more high-yielding premium seats to older jets, Isom said.
-"While there's still work ahead, the progress we're making is real," Isom said in a staff note on Thursday.
-Here is what American reported in the second quarter compared with Wall Street estimates compiled by LSEG:
-- Earnings per share: 15 cents adjusted vs. 3 cents expected
-- Revenue: $16.74 billion vs. $16.71 billion expected
-American's profit in the three months ended June 30 fell 88% from a year earlier, to $71 million, or 11 cents a share, down from $599 million, or 91 cents a share, a year earlier. Revenue rose 16.3% to $16.74 billion. Passenger revenue per available seat mile, a measure of airlines' pricing power, rose 10% from last year.
-Adjusting for one-time items, American posted earnings of 15 cents a share.`,
-    bodyJa: `アメリカン航空は木曜日、燃料費の高騰を理由に2026年の収益見通しをさらに下方修正したが、これは最も多くの便を運航している米国の航空会社にとって、運賃の値上げだけでは今年の燃料価格の高騰を完全に相殺するのに十分ではないことを示している。
-同社株は木曜序盤の取引で約８％下落した。同社の経営陣は、同社が競合他社との数十億ドル規模の利益差を改善できると投資家を説得しようと取り組んできた。
-アメリカン航空は、今年の調整後1株当たり利益が65セントになるまで最大65セントの損失を計上する可能性があると述べ、4月に予想した1株当たり損失40セントから1株当たり利益1.10ドルまでの範囲を下回ったが、この範囲は年初に1株当たり1.70ドルから2.70ドルと予想していたことからすでに縮小している。
-米国の幹部らは決算報告後の電話会談で、航空便の拡大を継続するという決定を擁護し、今四半期には最大５％増加する見通しだと述べた。
-7月に始まった米航空会社の決算シーズンの短い数週間でも燃料価格は不安定で、これが今年の航空会社の見通しを曇らせている。航空会社は、旺盛な需要と運賃の高騰が高騰の一部を相殺するのに役立っていると述べている。航空会社にとって人件費に次ぐ最大の出費は燃料だ。
-アメリカン航空は、今四半期について、調整後1株あたり70セントから10セントの損失を報告する可能性があると述べ、ウォール街が予想する1株利益28セントを下回るものの、売上高は16％から19％増加すると予想しており、アナリスト予想の16.6％を上回っている。
-アメリカン航空のロバート・アイソム最高経営責任者（ＣＥＯ）は先月ＣＮＢＣのインタビューで、同社の「長期的な」計画は収益リーダーであるデルタ航空やユナイテッド航空との拡大した利益差を埋めることだと語ったが、その目標の期限については明らかにしなかった。アイソム氏によると、アメリカン航空は今年、新しいワイドボディ機を発注する予定で、古いジェット機に高利回りのプレミアムシートを追加する予定だという。
-「まだやるべきことはあるが、我々の進歩は本物だ」とイソム氏は木曜日のスタッフノートで述べた。
-以下は、アメリカン紙が第2四半期に報告した内容と、LSEGがまとめたウォール街の推計値を比較したものである。
-- 1 株当たり利益: 調整後 15 セント、予想 3 セント
-- 収益: 167 億 4000 万ドル対予想 167 億 1000 万ドル
-アメリカン航空の6月30日までの3カ月間の利益は前年同期比88％減の7100万ドル（1株当たり11セント）となり、前年同期の5億9900万ドル（1株当たり91セント）から減少した。売上高は16.3％増の167億4000万ドルとなった。航空会社の価格決定力の尺度である空席マイルあたりの旅客収入は、昨年より10％増加した。
-一時項目を調整すると、アメリカン航空は 1 株あたり 15 セントの利益を計上しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/american-airlines-aal-2q-2026-earnings.html",
-    publishedAt: "2026-07-23T13:45:27+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "albertsons-stock-plunges-as-it-says-weak-f44e4e84",
-    title: "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-    titleJa: "アルバートソンズの株価は、食料品支出の低迷で売上高と利益が減少すると発表し急落",
-    summaryJa: "食料品店アルバートソンズの株価は木曜日、同社が需要の低迷と消費者の慎重化を理由に2026年度の見通しを引き下げたことを受けて15％近く下落した。同社は、それが成長軌道を改善すると信じているため、顧客体験への投資に「断固として取り組んでいる」と述べた。",
-    bodyOriginal: `Shares of grocer Albertsons sank nearly 15% on Thursday after the company lowered its fiscal 2026 outlook, citing softer demand and a more cautious consumer.
-The company said it is now "moving decisively" to invest in the customer experience because it believes that will improve its growth trajectory.
-"In the first quarter, our digital and pharmacy businesses continued to deliver strong growth, while core grocery faced increasing pressure from softer industry unit trends and a more cautious consumer," CEO Susan Morris said in a statement.
-The company's outlook cut comes amid broader signs that U.S. consumers have scaled back their grocery trips. Food inflation and tighter budgets due to high gas prices, among other factors, appear to be hurting spending.
-For the full year, Albertsons said it now expects net income between $1.75 and $1.85 per share, down significantly from its previous expectation of between $2.22 and $2.32 per share.
-It also lowered its adjusted EBITDA guidance to a range of between $3.55 billion and $3.625 billion, compared to a previous projection of between $3.85 billion and $3.925 billion. It also now expects identical sales, a metric similar to comparable sales, to be in a range of down 0.5% to 1.5%, compared to a previous expectation of flat to up 1%.
-For the first fiscal quarter of the year, the company reported that identical sales fell 0.8%. Albertsons reported net income of $84.7 million, or 17 cents per share, compared to $236.4 million, or 41 cents per share, in the year-ago period.
-Still, Morris said on a call with analysts that while the pressure on consumers is weighing on near-term earnings, the company aims to "improve traffic, units, loyalty and the overall trajectory of the business over time."`,
-    bodyJa: `食料品店アルバートソンズの株価は木曜日、同社が需要の低迷と消費者の慎重化を理由に2026年度の見通しを引き下げたことを受けて15％近く下落した。
-同社は、それが成長軌道を改善すると信じているため、顧客体験への投資に「断固として取り組んでいる」と述べた。
-スーザン・モリス最高経営責任者（CEO）は声明で、「第1四半期、当社のデジタル事業と薬局事業は力強い成長を続けたが、中核となる食料品は業界部門の動向の鈍化と消費者の慎重化によるプレッシャーの増大に直面した」と述べた。
-同社の見通し引き下げは、米国の消費者が食料品の買い物を控えているという幅広い兆候の中で行われた。食料のインフレやガソリン価格の高騰による予算の逼迫などが、支出に悪影響を及ぼしているようだ。
-アルバートソンズは、通期については純利益が1株当たり1.75ドルから1.85ドルになると予想していると述べ、これは従来予想の1株当たり2.22ドルから2.32ドルを大幅に下回った。
-また、調整後EBITDA見通しも38億5000万ドル～39億2500万ドルという従来予想から35億5000万ドル～36億2500万ドルの範囲に引き下げた。また、従来の予想では横ばいから1％増だったのに対し、同一売上高（比較可能な売上高と同様の指標）は0.5％から1.5％減の範囲になると予想している。
-今年の第 1 会計四半期について、同社は同一売上高が 0.8% 減少したと報告しました。アルバートソンズの純利益は8,470万ドル（1株あたり17セント）で、前年同期は2億3,640万ドル（1株あたり41セント）でした。
-それでもモリス氏はアナリストとの電話会議で、消費者へのプレッシャーが短期的な収益を圧迫しているものの、同社は「トラフィック、販売台数、ロイヤルティ、そして事業の全体的な軌道を長期的に改善する」ことを目指していると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-    publishedAt: "2026-07-23T13:41:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "brent-crude-tops-100-a-barrel-how-the-ne-9eb11057",
-    title: "Brent crude tops $100 a barrel. How the next stop could be $120",
-    titleJa: "ブレント原油は1バレルあたり100ドルを突破。次の停留所がどうして 120 ドルになるのか",
-    summaryJa: "パワーポイントエネルギー関係者から聞いたこと",
-    bodyOriginal: `POWER POINT
-What I'm hearing from energy insiders
-U.S. oil just topped $90 a barrel and Brent crude is passed $100 a barrel.
-A number of new factors could mean this crude comeback has legs.
-For example, what happens if all Iranian oil suddenly went offline?
-It's an outlier thought. Maybe it's crazy. While we can't all agree on much, can we at least agree that maybe now is the exact right time for crazy, outlier thoughts?
-Before I get to that, here's a quick synopsis of where we stand right now with the nearly hour-by-hour headlines around Hormuz and energy.
-Angry militants in Iran continue to risk a wider war with the U.S., killing American servicemen in an attack on our ally Jordan. Trump again has warned the country, saying those responsible will "pay" for the attacks.
-At the same time, one of Iran's proxy terror groups, called the Houthis, is trying to ratchet things up by imposing a Red Sea blockade.
-As I've written often lately, it's an incredibly fluid, scary time where the news can change by the time you read this.
-As I've been thinking about what's going on, the one thought that hasn't really played out is: what happens if all Iranian oil went offline? Right now Iran is still selling some oil on the global markets, either by avoiding the Strait blockade or by using the time under the peace MOU to increase sales and raise money. So what would happen if something were to happen to Iran's oil hub, Kharg Island? Or the employees of the National Iran Oil Co (NIOC) just walked off the job and crushed Iranian production?
-Oil expert Eric Nuttall of Canada's Ninepoint Partners, a Toronto-based alternative asset management firm, said the risk to prices is higher, and he lays out the Iran scenario like this:
-"With Middle Eastern production still down 7-8MM Bbl/d, global onshore inventories at near record low seasonal levels, an increasingly depleted US SPR, and significant tightness in refined product stocks, the world simply cannot afford to lose a further 2.6MM Bbl/d of Iranian production. The market up until now has been looking through or flat out ignoring the inevitable supply shock if the status quo persists, our base case expectation. Perhaps Iranian oil production going offline would be enough to finally act as a reality check. We think record high crack spreads are a leading indicator for what price action will look like for oil in the near future."
-Kevin Book of Clearview Energy Partners, an independent energy policy research firm that produces must-read research and is interviewed in our Inside Line below, says the key is how long Iranian oil were to be offline, but the market would be looking at a $5 per barrel increase at the minimum.
-And Rapidan Energy Group's Bob McNally is direct in his message, telling me that "all [Iran's] exports are offline pretty much," but if all their actual oil production closed, then "their refineries would shut down, and they'd have no more refined products after they drained storage. Transportation would grind to a halt. It would crush their economy."
-So while it's a potentially crazy question about Iran and Hormuz, don't write off the "no Iran oil" as pure fantasy.
-Speaking of Hormuz, these days you need to keep your Straits straight. The next geographic area to study up on is the Bab el-Mandeb Strait (BAM). The BAM is the narrow strait that runs between Yemen and Africa and is about as wide as Hormuz. The Strait is the only southern entry to the Red Sea, another waterway critical for oil and product flows.
-RBI →"'Bab el-Mandeb" roughly translates to "gate of grief"
-RBI #2→ Some believe that thousands of years ago the BAM was shallow enough that humans could walk across it, leading to increased migration.
-The risk to BAM is real. And it may be a reason why brent crude is nearing $100 a barrel.
-Tobin Marcus of Wolfe Research writes that the market continues to believe things will get better from here and both the U.S. and Iran will be forced to de-escalate. But Marcus also thinks we shouldn't automatically underestimate the risk of some kind of supply disruption around the Red Sea. With Saudi Arabia pumping more oil through its East-West pipeline into the port of Yanbu, any Houthi attacks risk about 4½ million barrels of oil per day.
-Iranian strongmen may believe they have the upper hand right now, as the new attacks have led to a new drop in crude oil tanker traffic out of the SOH. An insurance industry source tells me that while a shipowner "can get cover" - the industry term for insurance - there isn't much demand because ship traffic has again slowed considerably.
-Bottom line, here's my Power Point takeaway on oil, energy and the macro markets. This spring, we learned that stocks can keep going higher even if oil and gasoline go up. That's certainly surprised many, myself included. It's likely for a cornucopia of reasons, and the energy-specific would be that gasoline was more expensive in the summer of 2022 than it is now (we got used to it), cars get better fuel mileage than they used to, and many of you now have the ability to work from home. The bigger reason, however, is that the trillions in A.I.-related spending is helping power incomes and the economy more than gasoline can cut it down.
-I'm actually writing some of these words from the Milwaukee, Wisconsin airport where I was stranded by a canceled flight. A flight, I might add, that was oversold both ways, despite air fares that few would call cheap. I fly more than most, and I can tell you that across America, people are spending money on travel this summer. Gasoline prices be darned ... at least for now.
-Safe travels,
-WALL STREET'S TAKE
-The team at Goldman Sachs is back on the tape with a new oil note. Daan Struyven writes that Brent crude oil might rise back above $120 per barrel in the 4th quarter if Hormuz remains disrupted.
-Struyven also warns that "recent inventory draws have left the market more vulnerable than in February" but that his "simulated price upside is less high than comparable estimates from that period, partly because we now assume greater demand elasticity - -especially in China -- where crude imports remain weak." In other words, China's falling oil demand may keep a lid on prices, at least relative to a few months ago.
-Speaking of inventories, the U.S. continues to sell oil from our strategic reserve, and there are growing concerns that we're getting closer to what some call "tank bottoms," or the levels at which it's difficult to retrieve as much oil as wanted.
-A story that really didn't get the attention it deserved was that American companies are going to invest $60 billion or more in Iraq. The list of companies investing not only comes from the energy world — Chevron, ConocoPhillips, Shell, BP, Halliburton and more — but also from finance (JPMorgan Chase), consumer products (PepsiCo), health care (Abbott and Thermo Fisher Scientific) and more. President Donald Trump and Iraq's Prime Minister spoke about the deal from the White House.
-Chevron is involved in talks to rebuild a massive pipeline from Kirkuk in northern Iraq to the Syrian coast. The pipeline isn't new, but has been damaged since 2003. The company is also reportedly talking about investments in two big Iraqi oil fields. UBS is bullish on Chevron (CVX), with a $220 12-month price target. That's another 15% gain on a stock already up 25% this year. That UBS target is actually just about middle of the pack on Chevron, sandwiched between Melius Research's high of $243 per Chevron share, and TD Cowen's $197.
-Another part of the Iraq news is that ConocoPhillips (COP) will invest alongside BP, buying a 42% stake in an oilfield. Evercore ISI likes the stock - it has a $145 price target - but says this Iraq move is "likely to raise some questions about how coherent the move is within a well-defined resource & [free cash flow] trajectory." Part of Evercore's bullish thesis is that COP's free cash flow is "de-risked" and "uniquely attractive" right now, and they are concerned some investors may want more clarity on the Iraq story before "crediting the addition."
-It's not all about oil. Natural gas-focused Excelerate Energy (EE) is also involved in the Iraq investments. While that's not a key focus for Goldman Sachs, the firm still loves the stock. It just started coverage of EE with a buy rating and $49 target, a meaty 25% upside.
-Excelerate's main business is regasification and storage. Simply put, the company has 12 giant ships that hold natural gas. Goldman notes that Excelerate Energy has about a 25% market share in global floating 're-gas' services and should benefit from lower LNG prices later this decade. Goldman also likes what it calls EE's "underappreciated vertical integration opportunities."
-On a macro level, higher oil prices have meant higher oil and gas stock prices too. This month, seven large-cap names are up double digits, led by Marathon Petroleum (MPC). Marathon — helmed by New Jersey native CEO Maryann Mannen — is quietly hitting record highs and has popped 25% in July. Investors have realized energy investing isn't a sprint; it's a … well, you know.
-TAKE A LOOK
-Kpler's Matt Smith says there are still many risks with shipping and oil.
-INSIDE LINE
-This weeks Inside Line is with Kevin Book, Co-Founder and Head of Research at ClearView Energy Partners. Kevin is one of just a handful of go-to energy experts who is also a D.C. insider.
-RANDOM, BUT INTERESTING
-Don't lose sight of the Russia story. Ukraine continues to pound Putin's energy assets, taking some Russian oil refining offline. API and the Energy Institute highlight how about 2.7 million barrels per day of Russian refining aren't running, which means the country has to sell some of that oil on the open market as it can't process it. That excess oil hitting the export market may be keeping crude prices from rising even more than they already have.
-THE GRID
-Kpler's regular Market Insights are always a must-read for me.
-The national average for gasoline is back above $4, according to AAA.
-But that's unlikely to drive buyers to EVs: Why Isn't $4-Plus Gasoline Enough To Make Americans Switch To EVs?
-Except in Germany, where nearly $9 per gallon gas has buyers going full electric: EVs Just Beat Gas And Diesel In Europe's Biggest Car Market For The First Time
-Meantime in Russia, Ukraine keeps pounding Putin: Overnight Ukrainian Attacks Across Russia Kill At Least 4
-I know we keep talking about the group... but they just keep signing multibillion dollar deals. Hut 8 is the latest.
-And my song of the week … The Red Clay Strays' Demons In Your Choir
-LOOKING FOR MORE?
-Catch up with more on energy including interviews and video content from CNBC and Power Insider.
-Read the last issue of Power Insider here: The best energy stocks right now as two major conflicts keep oil prices elevated`,
-    bodyJa: `パワーポイント
-エネルギー関係者から聞いたこと
-米国産原油は1バレルあたり90ドルを突破したばかりで、ブレント原油は1バレルあたり100ドルを超えている。
-多くの新たな要因が、この粗削りなカムバックに脚力があることを意味する可能性がある。
-たとえば、イランの石油がすべて突然停止したらどうなるでしょうか?
-それは異常な考えです。もしかしたら狂っているのかもしれない。私たち全員が多くのことに同意することはできませんが、おそらく今がクレイジーで異常な考えを抱くのに最適な時期であるということには少なくとも同意できますか?
-本題に入る前に、ホルムズとエネルギーに関するほぼ時間ごとのヘッドラインについて、私たちが現在どのような状況にあるのかを簡単にまとめておきます。
-イランの怒っている過激派は米国とのより広範な戦争の危険を冒し続けており、同盟国ヨルダンへの攻撃で米軍人を殺害している。トランプ大統領は再び同国に警告し、責任者は攻撃の「代償を払う」だろうと述べた。
-同時に、イランの代理テロ組織の一つであるフーシ派は、紅海封鎖を課して事態をさらに加速させようとしている。
-最近よく書いているように、今は信じられないほど流動的で、あなたがこれを読んでいる頃にはニュースが変わっているかもしれない恐ろしい時代です。
-何が起こっているのかを考えてきましたが、実際には実現していない考えが 1 つあります。それは、イランの石油がすべて停止したらどうなるのかということです。イランは現在も、海峡封鎖を回避するか、和平覚書に基づく時間を利用して販売を増やし、資金を調達することで、世界市場で石油を販売している。では、イランの石油拠点であるカールグ島に何かが起こったらどうなるでしょうか？それともイラン国営石油会社（NIOC）の従業員が仕事を辞めてイランの生産を潰したのか？
-トロントに本拠を置くオルタナティブ資産管理会社、カナダのナインポイント・パートナーズの石油専門家エリック・ナトール氏は、価格へのリスクはより高いと述べ、イランのシナリオを次のように説明する。
-「中東の生産量は依然日量7～8百万バレル減少しており、世界の陸上在庫は記録的な低水準に近い季節水準にあり、米国のSPRはますます枯渇しており、精製品在庫は大幅に逼迫しているため、世界はイランの生産量をさらに日量260万バレル失うわけにはいかない。これまでの市場は、現状が続けば避けられない供給ショックをスルーするか、完全に無視してきた。我々の基本的な予想である。おそらく、イランの石油生産が停止するだけで十分だろう」最終的には、記録的なクラックスプレッドが近い将来の原油の価格動向を示す先行指標となると考えています。」
-独立系エネルギー政策調査会社で、必読の調査結果を発表し、以下のインサイドラインでインタビューを受けているクリアビュー・エナジー・パートナーズのケビン・ブック氏は、鍵となるのはイラン産原油がどれだけの期間オフラインになるかだが、市場は最低でも1バレル当たり5ドルの値上がりを見ているだろうと述べている。
-また、ラピダン・エナジー・グループのボブ・マクナリー氏は率直なメッセージで、「（イランの）すべての輸出品はほぼオフラインになっている」が、実際の石油生産がすべて閉鎖されれば、「製油所は閉鎖され、貯蔵庫が空になった後は精製製品がなくなるだろう。交通機関は停止し、経済は壊滅するだろう」と語った。
-したがって、これはイランとホルムズに関する潜在的におかしな質問ではありますが、「イラン石油ゼロ」を単なる空想として片付けないでください。
-ホルムズといえば、最近では海峡をまっすぐに保つ必要があります。次に研究すべき地理的領域は、バブ エル マンデブ海峡 (BAM) です。 BAMはイエメンとアフリカの間を走る狭い海峡で、幅はホルムズとほぼ同じです。この海峡は紅海への唯一の南入口であり、石油と製品の流れに重要なもう一つの水路です。
-打点→「バブ・エル・マンデブ」とは、ざっくり訳すと「悲しみの門」
-RBI #2→ 数千年前、BAM は人間が歩いて渡れるほど浅かったため、移住が増加したと考える人もいます。
-BAM に対するリスクは現実のものです。そしてそれがブレント原油が1バレルあたり100ドルに近づいている理由かもしれない。
-ウルフ・リサーチのトービン・マーカス氏は、市場は今後事態が好転し、米国とイラン双方が緊張緩和を余儀なくされると信じ続けていると書いている。しかしマーカス氏はまた、紅海周辺で何らかの供給混乱が起きるリスクを自動的に過小評価すべきではないとも考えている。サウジアラビアはヤンブー港への東西パイプラインを通じてさらに多くの石油を注入しているため、フーシ派の攻撃により、日量約450万バレルの石油が流出する危険がある。
-新たな攻撃によりSOHからの原油タンカーの輸送量が新たに減少したため、イランの有力者らは現時点では自分たちが優位にあると信じているのかもしれない。保険業界関係者によると、船主は「保険」（保険の業界用語）を受けることができるが、船舶の交通量が再び大幅に減速しているため、需要はそれほど多くないという。
-結論として、これが石油、エネルギー、マクロ市場に関する私のパワーポイントの要点です。私たちはこの春、石油やガソリンが上昇しても株価は上昇し続ける可能性があることを学びました。それは確かに、私も含めて多くの人を驚かせました。おそらく理由は山ほどありますが、エネルギーに特化したものとしては、2022 年の夏はガソリンが現在よりも高かったこと (私たちはそれに慣れてきました)、車の燃費が以前よりも良くなったこと、そして多くの人が在宅勤務できるようになったことが挙げられます。しかし、より大きな理由は、AI関連の何兆ドルもの支出が、ガソリンによる電力収入の削減以上に電力収入と経済を助けているということだ。
-実は、私は欠航便で立ち往生したウィスコンシン州ミルウォーキーの空港からこの言葉の一部を書いています。付け加えれば、その航空券は、安いと言う人はほとんどいないにもかかわらず、往復とも売られ過ぎていた。私は他の人よりも飛行機に乗ることが多く、この夏、アメリカ全土で人々が旅行にお金を費やしていると言えます。ガソリン価格は恐ろしい…少なくとも今のところは。
-安全な旅行、
-ウォール街の見解
-ゴールドマン・サックスのチームは、新たなオイルノートを携えてテープに戻ってきた。ダーン・ストルイベン氏は、ホルムズの混乱が続けば、ブレント原油価格は第4四半期に1バレル当たり120ドルを超える可能性があると書いている。
-ストルイベン氏はまた、「最近の在庫の引き抜きにより、市場は2月よりも脆弱になっている」としながらも、「価格の上昇幅のシミュレーション値は、同時期の比較可能な推定値よりも低くなっている。その理由の一部は、現在、特に原油輸入が依然として低迷している中国において、より大きな需要弾力性を想定していることによる」と警告した。言い換えれば、中国の石油需要の減少により、少なくとも数カ月前と比べて価格は抑制され続ける可能性がある。
-在庫といえば、米国は戦略備蓄からの石油の売却を続けており、いわゆる「タンク底」、つまり望むだけの量の石油を回収することが困難な水準に近づいているのではないかという懸念が高まっている。
-本当に注目を集めなかったのは、アメリカ企業がイラクに600億ドル以上を投資する予定だという話だ。投資企業のリストには、シェブロン、コノコフィリップス、シェル、BP、ハリバートンなどのエネルギー業界だけでなく、金融 (JPモルガン・チェース)、消費者製品 (ペプシコ)、ヘルスケア (アボットおよびサーモ・フィッシャー・サイエンティフィック) などの企業も含まれています。ドナルド・トランプ大統領とイラク首相はホワイトハウスからの合意について語った。
-シェブロンは、イラク北部のキルクークからシリア沿岸までの大規模なパイプラインを再建する交渉に参加している。このパイプラインは新しいものではないが、2003年以来損傷している。同社はまた、イラクの2つの大きな油田への投資についても話し合っていると伝えられている。 UBSはシェブロン（CVX）に対して強気で、12カ月の目標株価は220ドルとなっている。これは、今年すでに25％上昇している株価にさらに15％上昇したことになる。 UBSのその目標は実際にはシェブロン株のほぼ中間で、メリウス・リサーチのシェブロン株1株当たりの高値243ドルとTDコーウェンの197ドルの間に挟まれている。
-イラクのニュースのもう一つの部分は、コノコフィリップス（COP）がBPと並んで投資し、油田の株式42％を購入するというものだ。エバーコアISIは同株を気に入っており、目標株価は145ドルとしているが、今回のイラクの動きは「明確に定義された資源と（フリーキャッシュフロー）軌道の中での動きの一貫性について疑問が生じる可能性が高い」と述べている。エバーコア社の強気の主張の一部は、現時点でCOPのフリーキャッシュフローは「リスクが軽減され」、「独特の魅力がある」ということであり、一部の投資家が「追加を評価する」前にイラクの話についてもっと明確にしたいと考えているのではないかと懸念している。
-石油だけがすべてではありません。天然ガスに焦点を当てた Excelerate Energy (EE) もイラクへの投資に関与している。ゴールドマン・サックスにとってそれは重要な焦点ではないが、同社は依然としてこの株を愛している。 EEのカバレッジを買いのレーティングと49ドルの目標で開始したばかりで、25％の大幅な上値がある。
-Excelerate の主な事業は再ガス化と貯蔵です。簡単に言うと、同社は天然ガスを積んだ巨大な船を 12 隻保有しています。ゴールドマンは、Excelerate Energy は世界の浮遊「再ガス」サービスで約 25% の市場シェアを持っており、この 10 年後半には LNG 価格の低下から恩恵を受けるはずだと指摘しています。ゴールドマンはまた、同社がEEの「過小評価されている垂直統合の機会」と呼ぶものを気に入っている。
-マクロレベルで見ると、原油価格の上昇は石油とガスの株価の上昇も意味します。今月はマラソン・ペトロリアム（MPC）を筆頭に、大型株7銘柄が2桁上昇している。ニュージャージー州出身の最高経営責任者（CEO）マリアン・マネン氏が率いるマラソンは、静かに過去最高値を更新しており、7月には25％上昇した。投資家は、エネルギー投資はスプリントではないことに気づいています。それは…そうですね。
-見てみましょう
-Kpler社のマット・スミス氏は、海運と石油には依然として多くのリスクがあると語る。
-インサイドライン
-今週の Inside Line は、ClearView Energy Partners の共同創設者兼研究責任者である Kevin Book と対談します。ケビンは、DC の内部関係者でもある数少ない頼りになるエネルギー専門家の 1 人です。
-ランダムだが興味深い
-ロシアの物語を見失わないでください。ウクライナはプーチン大統領のエネルギー資産を圧迫し続け、ロシアの石油精製の一部を停止させている。 APIとエネルギー研究所は、ロシアの日量約270万バレルの精製がどのように稼働していないのかを強調している。つまり、同国はその石油の一部を処理できないため公開市場で売らなければならないことを意味する。過剰な石油が輸出市場に打撃を与えていることが、原油価格のさらなる上昇を妨げている可能性がある。
-グリッド
-Kpler の定期的な Market Insights は、私にとって常に必読です。
-AAAによると、ガソリンの全国平均は4ドルを超えている。
-しかし、それが購入者をEVに駆り立てる可能性は低い。なぜ米国人をEVに切り替えるのに4ドル以上のガソリンでは十分ではないのか?
-ドイツを除くと、ガソリン1ガロン当たり9ドル近くのバイヤーが完全電気自動車に移行している：欧州最大の自動車市場で初めてEVがガソリンとディーゼルを上回る
-一方、ロシアでは、ウクライナがプーチン大統領を攻撃し続けている：ロシア全土で一晩のウクライナ攻撃で少なくとも4人が死亡
-私たちがグループについて話し続けていることはわかっています...しかし彼らは数十億ドルの契約に署名し続けています。 Hut 8 が最新です。
-そして今週の私の曲…レッド・クレイ・ストレイズの『Demons In Your Choir』
-さらにお探しですか?
-CNBC や Power Insider のインタビューやビデオ コンテンツなど、エネルギーに関する詳細をご覧ください。
-Power Insider の最終号はこちらからお読みください: 2 つの主要な紛争により原油価格が上昇する中、現時点で最も優れたエネルギー株`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/brent-crude-tops-100-a-barrel-how-the-next-stop-could-be-120.html",
-    publishedAt: "2026-07-23T13:36:29+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "government-to-cut-business-rates-for-pub-d0c4c9fb",
-    title: "Government to cut business rates for pubs, clubs and music venues",
-    titleJa: "政府、パブ、クラブ、音楽会場の営業料金を引き下げへ",
-    summaryJa: "政府、パブ、クラブ、音楽会場の営業料金を引き下げへ- 公開されました",
-    bodyOriginal: `Government to cut business rates for pubs, clubs and music venues
-- Published
-Pubs, clubs and live music venues in England will be given a 20% cut to business rates from April, which the government estimates will save firms around £1,100 next year.
-In his third policy announcement since becoming prime minister, Andy Burnham said: "For too long, governments have stood by while cherished venues have disappeared from our local high streets."
-The cut will cost £100m and will be funded by a review of tax relief on firms such as vape shops which "do not make a positive contribution to local communities", the government said.
-Hospitality bosses welcomed the support, but some pub owners said the package would not go far enough to offset the impact of cost increases elsewhere.
-The 20% business rates discount will not apply to the "very largest" live music venues. Details about which businesses are eligible will be announced at Chancellor John Healey's first Budget in the autumn.
-The cut is expected to benefit almost 32,000 venues, the government said.
-Iain Hoskins, who owns Ma Pub Group in Liverpool, told the BBC the relief would help "chip away" at rising costs but questioned how many venues would benefit.
-It could be "very meaningful", he said, but "as always, the devil is in the detail".
-His pubs have previously missed out on government business rates support, and "the increases were so huge last year that now we're sort of chipping away at some of those increases".
-Under previous chancellor Rachel Reeves, the government said last year it would scale back business rate discounts that had been in force since the pandemic and announced that there would be no discount at all from April this year.
-That, combined with big upward adjustments to rateable values of pub premises, left landlords with the prospect of much higher rates bills.
-Following criticism from the hospitality industry, the government cut business rates for pubs and music venues by 15% earlier in 2026.
-The 20% discount will apply on top of the existing support.
-Commenting on the cut which comes into effect next year, Steve Perez, founder of soft drinks company Global Brands and an owner of two hotels, said the announcement is "welcome… but this won't make any material difference to any pub".
-UK Hospitality's chief executive, Allen Simpson, said Burham's plans are "a good start" which he said "suggests that his affection for hospitality has survived the trip down the M1".
-But he added that it is "not for everybody in hospitality".
-The change to business rates for some hospitality firms is the latest move in what Burnham hopes will provide "breathing space" for people and businesses.
-Earlier this week, the new prime minister announced that the government would cut the 5% VAT charge on electricity bills and would cap bus fares at £2 in England outside London.
-But on Thursday, Conservative leader Kemi Badenoch, said: "When I look at the plans that he has announced for the country I find myself asking 'is that it'?"
-She said: "Andy Burnham's ambitions for Britain are too small."
-As well as reviewing tax relief on firms such as vape shops in order to fund the rate cut, the government also said it will "crack down" on businesses selling through online marketplaces which "do not comply with their tax obligations".
-The Night Time Industries Association's chief executive, Michael Kill, said the tax break could provide "meaningful relief to businesses facing sustained cost pressures".
-But he said the sector is waiting for more details while questions remain about the exclusion of the largest live music venues.
-The Federation of Small Businesses (FSB) said Thursday's announcement must be "a downpayment on action that reaches across the small business community".
-FSB policy chief Tina McKenzie, said the plans were encouraging and fix the damage caused by past business rates decisions which are "holding back small business growth and jobs in every postcode".
-Get in touch
-How will this cut affect you?`,
-    bodyJa: `政府、パブ、クラブ、音楽会場の営業料金を引き下げへ
-- 公開されました
-英国のパブ、クラブ、ライブ音楽会場には4月から営業料金が20％引き下げられ、政府はこれにより企業は来年約1100ポンド節約できると試算している。
-アンディ・バーナム氏は首相就任後３度目の政策発表で、「地元の目抜き通りから大切な会場が消えていくのを、あまりにも長い間、各国政府が傍観してきた」と述べた。
-政府によると、削減には１億ポンドの費用がかかり、その資金は電子タバコ店など「地域社会に積極的な貢献をしていない」企業に対する減税の見直しによって賄われる予定だという。
-ホスピタリティ業界の責任者らはこの支援を歓迎したが、一部のパブオーナーらは、この支援策は他の地域でのコスト上昇の影響を相殺するには十分ではないと述べた。
-ビジネス料金の 20% 割引は、「非常に大きな」ライブ ミュージック会場には適用されません。どの企業が対象となるかについての詳細は、秋のジョン・ヒーリー首相の最初の予算案で発表される予定だ。
-政府によると、今回の削減は約３万２０００の会場に恩恵をもたらす見込みだという。
-リバプールのマ・パブ・グループを所有するイアン・ホスキンス氏はBBCに対し、今回の救済はコスト上昇を「少しずつ削減」するのに役立つと述べたが、どれだけ多くの会場が恩恵を受けるか疑問を抱いた。
-それは「非常に意味のあること」かもしれないが、「いつものように、悪魔は細部に宿る」と同氏は語った。
-同氏のパブはこれまで政府のビジネス料金補助を逃しており、「昨年の値上げが非常に大きかったので、今はその値上げの一部を少しずつ削り取っているような状態だ」。
-レイチェル・リーブス前首相の下で政府は昨年、パンデミック以来実施してきた企業向け料金割引を縮小すると発表し、今年4月からは割引を一切行わないと発表した。
-これにパブ施設の評価額が大幅に上方修正されることと相まって、地主はさらに高額な料金請求が発生する見通しとなった。
-ホスピタリティ業界からの批判を受け、政府は2026年初めにパブや音楽会場の営業料金を15％引き下げた。
-20% 割引は既存のサポートに加えて適用されます。
-清涼飲料会社グローバル・ブランズの創設者で2軒のホテルのオーナーでもあるスティーブ・ペレス氏は、来年発効するこの削減についてコメントし、この発表は「歓迎だ…しかし、これはどのパブにとっても重大な変化にはならないだろう」と述べた。
-UKホスピタリティ社のアレン・シンプソン最高経営責任者（CEO）は、バーハム氏の計画は「良いスタート」だとし、「彼のおもてなしに対する愛情がM1を下る旅でも生き残ったことを示唆している」と述べた。
-しかし、それは「接客業に携わるすべての人に当てはまるわけではない」とも付け加えた。
-一部のホスピタリティ企業のビジネス料金の変更は、バーナムが人々と企業に「息抜きのスペース」を提供することを期待している最新の動きである。
-今週初め、新首相は政府が電気料金の5％の付加価値税を引き下げ、ロンドン以外のイングランドではバス料金の上限を2ポンドにすると発表した。
-しかし木曜日、保守党党首ケミ・バデノック氏は、「同氏が発表したこの国への計画を見ると、『本当にそうなのか』と疑問に思う」と述べた。
-彼女は「アンディ・バーナムのイギリスに対する野心は小さすぎる」と語った。
-政府は、利下げ資金を賄うために電子タバコ店などの企業に対する減税を検討するだけでなく、「納税義務を遵守しない」オンライン市場を通じて販売する企業を「取り締まる」とも述べた。
-夜間産業協会のマイケル・キル最高経営責任者（CEO）は、減税は「持続的なコスト圧力に直面している企業に意味のある救済」をもたらす可能性があると述べた。
-しかし同氏は、最大規模のライブ音楽会場の除外については疑問が残るものの、業界はさらなる詳細を待っていると述べた。
-中小企業連盟（FSB）は、木曜日の発表は「中小企業コミュニティ全体に及ぶ行動に対する頭金」に違いないと述べた。
-FSB政策責任者のティナ・マッケンジー氏は、この計画は「あらゆる郵便番号で中小企業の成長と雇用を妨げている」過去のビジネス金利決定によって引き起こされた損害を修正するものであり、励みになると述べた。
-連絡する
-このカットはあなたにどのような影響を与えますか？`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-23T13:10:43+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b99f/live/7df3be10-8669-11f1-93cb-95d7eb12ec49.jpg",
-    readTime: 5,
-  },
-  {
-    id: "trump-says-saudi-nuclear-deal-contingent-60d00197",
-    title: "Trump says Saudi nuclear deal contingent on relations with Israel, does not include enrichment",
-    titleJa: "トランプ大統領、サウジの核合意はイスラエルとの関係を条件とし濃縮は含まれていないと発言",
-    summaryJa: "ドナルド・トランプ大統領は木曜日、米国と今週署名された画期的な核合意に基づき、サウジアラビアはウラン濃縮を行わないと述べた。トランプ大統領は、核合意はリヤドがアブラハム合意を通じてイスラエルと国交を樹立することを条件としていると述べた。",
-    bodyOriginal: `President Donald Trump said Thursday that Saudi Arabia will not enrich uranium under the landmark nuclear deal signed with the U.S. this week.
-Trump said the nuclear agreement is subject to Riyadh establishing diplomatic relations with Israel through the Abraham Accords.
-"There will be no enrichment of material!" the president said in a Truth Social post. The deal "is totally subject to Saudi Arabia joining the very respected and successful Abraham Accords," he said.
-U.S. Energy Secretary Chris Wright and Saudi Energy Minister Prince Abdulaziz bin Salman signed an agreement Wednesday on civilian nuclear cooperation. They also signed a bilateral agreement on nuclear safeguards. The White House has not released the text of the deal.
-The Department of Energy said the deal would lay the foundation for a decades-long, multibillion nuclear partnership between the two countries.
-The agreement will be sent to Congress for review, the department said. U.S. cooperation with foreign nations on civilian nuclear power requires such review under the Atomic Energy Act.
-Democratic lawmakers have expressed concern about the impact of the deal on the Middle East. The U.S. and Israel have justified the current war against Iran in part as an effort to force Tehran to renounce its nuclear ambitions. They previously bombed Iranian nuclear sites in June 2025.
-"This agreement will set off a nuclear race in the region, further disincentivizing Iran from limiting its own program," Senator Chris Murphy of Connecticut said in a social media post.`,
-    bodyJa: `ドナルド・トランプ大統領は木曜日、米国と今週署名された画期的な核合意に基づき、サウジアラビアはウラン濃縮を行わないと述べた。
-トランプ大統領は、核合意はリヤドがアブラハム合意を通じてイスラエルと国交を樹立することを条件としていると述べた。
-素材の充実はありません！大統領は真実ソーシャルの投稿でこう語った。同氏は、この合意は「サウジアラビアが非常に尊敬され、成功を収めているアブラハム合意に参加することを完全に条件としている」と述べた。
-米国のクリス・ライト・エネルギー長官とサウジのアブドゥルアズィズ・ビン・サルマン王子は水曜日、民生用原子力協力に関する協定に署名した。両国は核保障措置に関する二国間協定にも署名した。ホワイトハウスは合意内容を公表していない。
-エネルギー省は、この協定は両国間の数十年にわたる数十億ドル規模の原子力パートナーシップの基礎を築くことになると述べた。
-同省によると、合意内容は審査のため議会に送付される予定だという。民生用原子力発電に関する米国の諸外国との協力には、原子力法に基づくそのような見直しが必要である。
-民主党議員らは合意が中東に与える影響について懸念を表明している。米国とイスラエルは、イランに対する現在の戦争を、イラン政府に核開発の野望を放棄させるための一環として正当化している。彼らは以前、2025年6月にイランの核施設を爆撃した。
-コネチカット州のクリス・マーフィー上院議員はソーシャルメディアへの投稿で、「この合意はこの地域での核開発競争を引き起こし、イランが自らの計画を制限する意欲をさらに失わせるだろう」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/trump-saudi-arabia-nuclear-power.html",
-    publishedAt: "2026-07-23T13:00:08+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "cyclospora-outbreak-tests-rfk-jr-s-promi-0eb9bea7",
-    title: "Cyclospora outbreak tests RFK Jr.'s promise to overhaul food system, rebuild trust in CDC",
-    titleJa: "シクロスポラの発生により、食料システムを徹底的に見直し、CDCへの信頼を再構築するというRFKジュニアの約束が試される",
-    summaryJa: "シクロスポラは、食料システムを徹底的に見直し、それを監督する機関への信頼を回復するというロバート・F・ケネディ・ジュニア厚生労働省長官の公約にとって試練となる。",
-    bodyOriginal: `Robert F. Kennedy Jr. took the helm of the U.S. Department of Health and Human Services last year promising to overhaul the U.S. food system and restore confidence in the agencies that oversee it.
-The secretary of the Department of Health and Human Services now faces one of his biggest tests yet, as the country tries to contain an outbreak – or potentially multiple outbreaks – of foodborne illness. Two months and thousands of cases of cyclosporiasis later, it looks like the nation's already fragile system is faltering.
-Experts have long said the U.S. is underprepared to rein in foodborne outbreaks. But after the Trump administration slashed key officials — from federal employees who investigate the source of illnesses to those who share information with the public — Kennedy appears to face an even more daunting task to contain the parasite and build trust in the administration's response.
-"It is difficult to quantify precisely, but it is clear that the cuts to federal funding over the past year or so have reduced our capacity to respond to outbreaks like this," said Craig Hedberg, co-director of the Minnesota Integrated Food Safety Center of Excellence.
-Kennedy earlier this week defended the handling of an outbreak of cyclosporiasis that has sickened at least 7,000 people in Michigan alone. (The official count from the Centers for Disease Control and Prevention, which has lagged behind state tallies, sits at nearly 4,200 cases). Kennedy said the ongoing outbreak of cyclosporiasis is "under control," contending criticisms that agency cuts have hampered the investigation are "invalid."
-The U.S. Food and Drug Administration and the Centers for Disease Control and Prevention have narrowed their focus to shredded iceberg lettuce from Taylor Farms, a produce supplier for a range of restaurants and grocers. The FDA over the weekend said lettuce from the company tested positive for cyclospora, the parasite that causes the explosive diarrhea. The agency later walked that back, saying it was a false positive.
-Donald Schaffner, chair of food science at Rutgers University, said he's never seen such a reversal before and called it a "pretty big screw up." Still, one former senior FDA food official said the agency was right to publicize the positive test because if it turned out to be a true positive, delaying the announcement could have caused more people to fall ill. And regardless of the test result, the agencies still see the lettuce as a likely culprit.
-The about face, and the confusion it created over whether regulators still suspected the Taylor Farms lettuce was tied to the outbreak, underscored the difficulty Kennedy faces in trying to restore public confidence.
-HHS spokesperson Emily Hilliard in a statement to CNBC said the FDA has been transparent with Taylor Farms throughout the investigation and the corrected lab result doesn't change the agency's findings.
-Former federal health officials and independent food safety experts say they see the cyclospora response as a prime example of a system that's long been underfunded and overstrained, leaving the U.S. vulnerable to these kinds of outbreaks. And they fear budget cuts, policy delays and personnel turnover are exacerbating an already delicate situation.
-In response, Hilliard said regulators have "mounted a robust, science-based response to this outbreak, working closely with health departments in all 50 states, rapidly identifying known sources, and ensuring Americans have the information they need to protect themselves."
-She added, "FDA and CDC continue working together to use every available public health tool to identify additional sources of the outbreak and inform swift public health action."
-The cyclospora challenge
-Cyclospora is a parasite that's trickier to track than some other pathogens. Parasites don't grow outside the human body, making it harder to test for them and link cases to each other. Cyclospora tests are prone to false positives because the process for conducting them can sometimes make it look like there's a parasite in the sample when there's not, Schaffner said.
-Some experts said the Trump administration funding cuts make that tall task even tougher.
-Dr. Daniel Jernigan, former director of the CDC's National Center for Emerging and Zoonotic Infectious Diseases, pointed to the CDC's Division of Parasitic Diseases and Malaria losing $40 million in funds from the U.S. Agency for International Development after the Trump administration dismantled the organization. The agency anticipates recovering some funds, though it would represent one-quarter of the money it used to receive from USAID, according to Jernigan.
-Jernigan estimates the group has lost about one-quarter of its staff because of the budget cuts. Some of those employees worked on other parasitic diseases like malaria, but would typically be tapped to help respond in an emergency situation like this one, he said. As a result of the cuts, CDC is trying to move the parasitic diseases groups to the Division of Foodborne, Water and Environmental Diseases, which Jernigan says is a good thing for optimizing foodborne disease investigation and control.
-"At the beginning of this response, the cuts because of the USAID [funding] made that division less capable of responding fast, and that's not rocket science," Jernigan said. "Just fewer people, you don't have the reserve."
-HHS' Hilliard said the funds were dedicated to international activities and were not used to support the CDC's domestic foodborne disease response. She added that Trump's proposed fiscal year 2027 budget proposes a $33 million increase for food safety activities.
-Jernigan suggests increasing that budget would help improve the agency's ability to respond to such outbreaks. CDC funding for food safety hasn't seen a meaningful increase since 2014, according to an analysis from George Washington University's Institute for Food Safety and Nutrition Security.
-This fiscal year, the CDC's budget for food safety is $74 million, up $2 million from last year, according to the agency's operating plan. That food safety sum represents about 10% of funds for the CDC's emerging and zoonotic infectious diseases work.
-CDC's FoodNet, or the Foodborne Diseases Active Surveillance Network, stopped mandatory reporting for six of eight pathogens it previously monitored, including cyclospora, because there hasn't been enough money forthe work, something experts say is a result of chronic underfunding of food safety. That program tracks foodborne illness outbreaks over time rather than identifying new outbreaks.
-Kennedy earlier this week said cuts in the FoodNet program were for "redundant surveillance."
-At the FDA, the agency's budget for food has long been a fraction of centers that oversee regulation of drugs and devices. This year, the food center's $1.17 billion budget represents about 17% of the agency's roughly $7 billion in total program level spending.
-Food funding has lagged other areas in part because it disproportionately comes from congressional appropriations, whereas money for other centers, including those that oversee prescription drugs and tobacco products, largely comes from fees the industry pays for reviews of applications.
-The so-called Department of Government Efficiency, which oversaw massive federal layoffs last year, spared the FDA's foodborne illness outbreak personnel from sweeping cuts, according to the former senior FDA official. The FDA's main press office was gutted, stripping the agency of outbreak communications expertise.
-Some contend the FDA's messaging around the false positive sowed confusion about the investigation and how consumers should respond.
-Ellen Shumaker, director of outreach for Safe Plates at North Carolina State University, said the FDA's recall communications have needed modernization for some time. She said the agency needs to give clear communications to consumers, telling them in plain language what concrete steps they can take. She added that the agency needs to more quickly classify how severe a recall is.
-In this case, the FDA said illnesses started on May 17, yet it didn't issue a public notice until July 16, a timeline that suggests the response was slower than expected, said Frank Yiannas, former deputy commissioner of food policy and response at the FDA. One measure that he and other food safety experts say could have helped accelerate the response was the FDA's Food Traceability Rule, which was supposed to go into effect this year but was delayed by two-and-a-half years. The policy was designed to help the FDA quickly see where a food came from to respond to foodborne illness outbreaks.
-Kennedy has repeatedly promised to rebuild trust in the CDC following the Covid-19 pandemic and restore its focus on infectious disease, and the cyclospora response gives him a chance to display any improvements to the agency's handling of a crisis. So far, experts said they have not seen the response get much better.
-The state ripple effects
-State and local health departments are also feeling the effects of the Trump administration's cuts. A May analysis from the Congressional Research Service found the administration terminated $5.78 billion in CDC grants to states.
-Sarah Sorscher, director of regulatory affairs at the Center for Science in the Public Interest, said states use the block grants to fund epidemiologists and other specialists involved in investigating outbreaks.
-In Kentucky, the group that's primarily responsible for conducting case interviews for foodborne illnesses has experienced a 30% to 50% decrease in staffing due to a reduction in federal grant funds, according to a spokesperson for the state's department of public health. The state anticipates more staff reductions next year due to additional cuts to federal grants next year.
-Even so, one state hit hard by the outbreak said it has received federal help. The Ohio Department of Health requested federal help for the cyclospora investigation and will host several of the CDC's Epidemic Intelligence Service officers this week to assist, a spokesman told CNBC. The state agency has requested help from the CDC in prior responses, including a measles outbreak in 2022 and the East Palestine train derailment in 2023.
-In the meantime, more people are falling ill. The CDC has received reports of more than 4,000 laboratory confirmed cases and is aware of more than 7,400 additional cases, many of them in Michigan and Ohio, that haven't been confirmed by a lab test yet.
-And on Wednesday, the FDA reported a new outbreak among dozens of people linked to a product that hasn't been identified yet, meaning the health agencies have even more leads to investigate.`,
-    bodyJa: `ロバート・F・ケネディ・ジュニアは昨年、米国保健社会福祉省の指揮官に就任し、米国の食料システムを徹底的に見直し、それを監督する機関への信頼を回復すると約束した。
-同国が食中毒の発生、あるいは複数の発生の可能性を封じ込めようとしている中、保健社会福祉省の長官は現在、これまでで最大の試練の一つに直面している。 2か月が経過し、数千件の嚢胞子症患者が発生した現在、この国のすでに脆弱なシステムは揺らぎつつあるようだ。
-専門家らは長年、米国では食中毒の発生を抑制する準備が不十分だと指摘してきた。しかし、トランプ政権が病気の原因を調査する連邦職員から国民と情報を共有する職員に至るまで主要な役人を削減したことを受け、ケネディ大統領は寄生虫を封じ込め、政権の対応に対する信頼を築くというさらに困難な任務に直面しているようだ。
-ミネソタ州統合食品安全センター・オブ・エクセレンスの共同所長、クレイグ・ヘドバーグ氏は、「正確に数値化するのは難しいが、過去1年ほどの連邦政府の資金削減により、このような大流行に対応する能力が低下したことは明らかだ」と述べた。
-ケネディ大統領は今週初め、ミシガン州だけで少なくとも7000人が罹患している嚢胞子症の発生への対応を擁護した。 （疾病管理予防センターの公式集計では州の集計より遅れており、感染者数は約4,200人に達している）。ケネディ大統領は、進行中の嚢胞子症の発生は「制御下にある」と述べ、政府機関の人員削減が捜査を妨げているという批判は「無効」であると主張した。
-米国食品医薬品局と疾病管理予防センターは、さまざまなレストランや食料品店に農産物を供給するテイラー・ファームズ社の細切りアイスバーグレタスに焦点を絞っている。 FDAは週末、同社のレタスが爆発性下痢を引き起こす寄生虫シクロスポラの検査で陽性反応を示したと発表した。その後、政府機関はそれを撤回して、それは誤検知だったと述べた。
-ラトガース大学食品科学部長のドナルド・シャフナー氏は、これほどの逆転はこれまで見たことがないと述べ、「かなりの大失敗」だと述べた。それでも、ある元FDA食品高官は、FDAが陽性反応を公表したのは正しかったと述べた。なぜなら、もしそれが真の陽性であることが判明した場合、発表が遅れればさらに多くの人が発病する可能性があったからである。そして、検査結果に関係なく、当局は依然としてレタスが犯人である可能性が高いと見ている。
-テイラー・ファームのレタスが感染拡大に関連していると規制当局が依然として疑っているかどうかを巡って生じた混乱と、この不機嫌な顔は、ケネディ大統領が国民の信頼を回復しようとする際に直面する困難を浮き彫りにした。
-HHSのスポークスマン、エミリー・ヒリアード氏はCNBCへの声明で、FDAは調査を通じてテイラー・ファームズに対して透明性を保っており、修正された検査結果は当局の調査結果を変えるものではないと述べた。
-元連邦保健当局者や独立した食品安全専門家らは、シクロスポラへの対応は、長年にわたり資金不足と過大な負担を抱えてきたシステムの典型的な例であり、米国がこの種のアウトブレイクに対して脆弱なままになっていると見ていると述べている。そして、予算削減、政策の遅れ、人事異動が、ただでさえデリケートな状況をさらに悪化させているのではないかと懸念している。
-これに対しヒリアード氏は、規制当局は「この流行に対して科学に基づいた強力な対応を開始し、全50州の保健当局と緊密に連携し、既知の感染源を迅速に特定し、米国民が身を守るために必要な情報を確実に得られるようにしている」と述べた。
-さらに、「FDAとCDCは、利用可能なあらゆる公衆衛生ツールを活用してさらなる発生源を特定し、迅速な公衆衛生対策を知らせるために協力し続けている」と付け加えた。
-シクロスポラの挑戦
-シクロスポラは、他の病原体よりも追跡が難しい寄生虫です。寄生虫は人体の外では増殖しないため、寄生虫の検査や症例間の関連付けが困難になります。シャフナー氏によると、シクロスポラ検査では偽陽性が発生しやすい。その理由は、検査を実施するプロセスによって、サンプル中に寄生虫が存在しないのに寄生虫が存在しているかのように見える場合があるためである。
-一部の専門家は、トランプ政権の資金削減により、この困難な任務がさらに困難になっていると述べた。
-CDCの国立新興・人獣共通感染症センターの元所長であるダニエル・ジャーニガン博士は、トランプ政権が同組織を解体した後、CDCの寄生虫病・マラリア部門が米国国際開発庁からの資金4,000万ドルを失ったと指摘した。ジャーニガン氏によると、同庁は一部の資金を回収できると予想しているが、その額はUSAIDから受け取っていた資金の4分の1に相当するという。
-ジャーニガン氏は、予算削減により同グループはスタッフの約4分の1を失ったと推定している。これらの従業員の中にはマラリアなど他の寄生虫病の治療に従事する人もいたが、通常は今回のような緊急事態への対応を支援するために抜擢されるだろうと同氏は述べた。人員削減の結果、CDCは寄生虫病グループを食中毒・水・環境病部門に移そうとしているが、ジャーニガン氏は、食中毒の調査と制御を最適化するためにはこれが良いことだと述べている。
-「この対応が始まった当初、USAID（資金）による人員削減により、同部門の迅速な対応能力が低下した。それはロケット科学ではない」とジャーニガン氏は語った。 「人が少ないだけで、余裕がないんです。」
-HHSのヒリアード氏は、この資金は国際的な活動に充てられており、CDCの国内の食中毒への対応を支援するためには使用されていないと述べた。同氏は、トランプ大統領の2027会計年度予算案では、食品安全活動に3,300万ドルの増額が提案されていると付け加えた。
-ジャーニガン氏は、予算を増額すれば、このような感染拡大に対する政府機関の対応能力を向上させることができると示唆している。ジョージ・ワシントン大学食品安全・栄養安全保障研究所の分析によると、食品安全に対するCDCの資金は2014年以来大幅な増加が見られないという。
-CDCの運営計画によると、今年度の食品安全に関するCDCの予算は7,400万ドルで、昨年より200万ドル増加している。この食品安全性の総額は、CDC の新興感染症および人獣共通感染症対策の資金の約 10% に相当します。
-CDCのフードネット（食中毒積極的監視ネットワーク）は、これまで監視していた8つの病原体のうち、シクロスポラを含む6つの報告義務を中止した。その理由は、その作業に十分な資金がなかったためであり、専門家らは、これは食品の安全に対する慢性的な資金不足の結果だと主張している。このプログラムは、新たな発生を特定するのではなく、食中毒の発生を長期にわたって追跡します。
-ケネディ大統領は今週初め、フードネット計画の削減は「過剰な監視」のためだと述べた。
-FDAでは長い間、同庁の食品予算は医薬品や医療機器の規制を監督するセンターのほんの一部にすぎなかった。今年、食品センターの予算 11 億 7,000 万ドルは、同庁のプログラムレベルの総支出約 70 億ドルの約 17% に相当します。
-食糧資金が他の分野に遅れをとっているのは、その資金が議会の支出からのものであることが部分的に不均衡である一方、処方薬やタバコ製品を監督するセンターを含む他のセンターへの資金は主に、申請の審査のために業界が支払う手数料から来ている。
-元FDA高官によると、昨年の大規模な連邦政府の人員削減を監督したいわゆる政府効率省は、FDAの食中毒発生担当職員の大幅削減を免れたという。 FDA の主要報道室は破壊され、FDA からアウトブレイクに関するコミュニケーションの専門知識が剥奪された。
-調査と消費者がどのように対応すべきかについて、誤検知を引き起こした混乱をめぐるFDAのメッセージを主張する人もいる。
-ノースカロライナ州立大学の安全プレートのアウトリーチ担当ディレクター、エレン・シューメーカー氏は、FDAのリコールに関するコミュニケーションはしばらくの間近代化が必要だったと述べた。彼女は、政府機関は消費者に明確なコミュニケーションを提供し、どのような具体的な措置を講じることができるかを平易な言葉で伝える必要があると述べた。同氏は、当局はリコールの深刻度をより迅速に分類する必要があると付け加えた。
-この場合、FDAは病気が5月17日に始まったと述べたが、公告を出したのは7月16日であり、これは対応が予想よりも遅かったことを示唆しているとFDAの食品政策・対応担当副局長フランク・イアナス氏は述べた。同氏や他の食品安全専門家らは、対応を加速するのに役立った可能性があるとしている措置の1つがFDAの食品トレーサビリティ規則で、今年施行される予定だったが2年半延期された。このポリシーは、FDA が食中毒の発生に対応するために、食品がどこから来たのかを迅速に確認できるように設計されました。
-ケネディ大統領は、新型コロナウイルス感染症のパンデミック後、CDCへの信頼を再構築し、感染症への重点を回復すると繰り返し約束しており、シクロスポラへの対応は同局の危機対応の改善を示す機会となっている。専門家らはこれまでのところ、反応が大幅に改善した例は見られないと述べた。
-州の波及効果
-州や地方の保健当局もトランプ政権の削減の影響を感じている。議会調査局の5月の分析では、政権が州に対するCDC補助金57億8000万ドルを打ち切ったことが判明した。
-公益科学センターの規制担当ディレクター、サラ・ソーシャー氏は、各州は疫学者や流行調査に携わる他の専門家に資金を提供するために一括交付金を利用していると述べた。
-ケンタッキー州公衆衛生局の広報担当者によると、ケンタッキー州では食中毒の症例面接の実施を主に担当している団体で、連邦補助金の削減により人員が30～50％減少したという。州は来年の連邦補助金の追加削減により、来年はさらに職員が削減されると予想している。
-それでも、感染拡大で大きな打撃を受けたある州は連邦政府の支援を受けていると述べた。オハイオ州保健省はシクロスポラ調査への連邦支援を要請し、今週CDCの疫病情報局職員数名を派遣して支援する予定だと広報担当者がCNBCに語った。同州政府機関は、2022年の麻疹流行や2023年の東パレスチナ列車脱線事故など、これまでの対応でCDCに支援を要請してきた。
-その一方で、病気になる人も増えています。 CDCはこれまでに4,000人以上の検査で確認された症例の報告を受けており、さらに7,400人以上の症例を把握しており、その多くはミシガン州とオハイオ州でまだ検査で確認されていない。
-そして水曜日、FDAは、まだ特定されていない製品に関連して数十人の間で新たな感染が発生したと報告した。これは、保健当局が調査すべきさらに多くの手がかりがあることを意味する。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/23/cyclospora-outbreak-tests-rfk-jr-response-funding-cuts.html",
-    publishedAt: "2026-07-23T12:32:10+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "gary-lineker-among-millionaires-asking-a-77284579",
-    title: "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-    titleJa: "大富豪のゲイリー・リネカー氏、アンディ・バーナムに増税を求める",
-    summaryJa: "大富豪のゲイリー・リネカー氏、アンディ・バーナムに増税を求める- 公開されました",
-    bodyOriginal: `Gary Lineker among millionaires asking Andy Burnham to tax them more
-- Published
-Millionaires including former footballer Gary Lineker and music producer Brian Eno have written to new prime minister Andy Burnham asking to be taxed more.
-In an open letter, 120 well-off Britons told Burnham: "We can afford it. We're not talking about higher taxes on those who get up and go to work for their income every day, but on the very richest whose income is derived from the wealth they hold."
-Organised by Patriotic Millionaires, the letter said it would lead to a more equal society, and urged a "devolution of wealth and power from the very richest".
-People can already give money or stocks voluntarily to the Treasury using a donation facility.
-Conservative leader Kemi Badenoch said Lineker is "very welcome to pay more tax he can write a cheque to the Treasury, no one is stopping him."
-Patriotic Millionaires support a 2% tax on wealth over £10m.
-"Millionaires are a patriotic bunch," the letter states. "We love this country and we want it to succeed.
-"But success requires investment and a primary source of untouched capital investment is sitting with us, in untaxed potential."
-Other signatories include Richard Curtis, director of Notting Hill, and Ian Gregg, the former managing director of Greggs and son of the bakery chain's founder. Scottish crime writer Val McDermid and former financial trader-turned-equality campaigner Gary Stevenson also signed the letter.
-Chief Secretary to the Treasury Emma Reynolds said she would welcome UK millionaires increasing the amount of tax they pay but said any major changes would be announced during a Budget.
-"I welcome the fact that people of good means are saying that they want to pay more. They can pay more," she said and pointed to the Treasury's donation link.
-The renewed call for higher tax on the wealthy follows a similar campaign in previous years.
-Burnham did not rule out a wealth tax when asked about it by Lineker - formerly the BBC's highest paid presenter - a few days before he became prime minister.
-He suggested he may have "to ask for a little more" tax at some point.
-Lineker was paid around £1.3m a year before he left the BBC. He is worth a reported £30m.
-The latest call from Patriotic Millionaires said there is a "need to embrace a new kind of devolution of wealth and power, from the very richest in order to reinvest back into our greatest asset in every region".
-It added that in its own poll, the majority of millionaires wanted a higher tax on themselves.
-"There are a few people left with outdated economic thinking and few others desperate to hold onto every penny they can... Those that can't see past the end of their own self interest have no place in designing a Britain for the future," the letter said.
-Musician Brian Eno told BBC Radio Lincolnshire the tax system was "very generous to rich people".
-"If you're wealthy you don't pay very much tax but hire a clever bunch of accountants who somehow get you off that," he said.
-He also dismissed the idea that lots of millionaires would leave the UK if they were taxed too much.
-"That is the story that has always been told by the rich to avoid this but in fact people don't leave that much.
-"Of course a few people will," he said, but added that people don't necessarily leave other high-tax countries, such as those in Scandinavia.
-He insisted most of his financial peers do want to see better roads and schools and that they don't like seeing people living in extreme poverty, and that many financially support community groups.
-Related topics
-- Published15 July
-- Published21 May`,
-    bodyJa: `大富豪のゲイリー・リネカー氏、アンディ・バーナムに増税を求める
-- 公開されました
-元サッカー選手のゲーリー・リネカー氏や音楽プロデューサーのブライアン・イーノ氏を含む大富豪らがアンディ・バーナム新首相に書簡を送り、増税を求める要望を出した。
-裕福な英国人120人は公開書簡でバーナムに対し、「私たちには余裕がある。私たちが話しているのは、毎日収入のために起きて働きに行く人たちへの増税についてではなく、自分たちが保有する富から収入を得ている最も裕福な人たちへの増税についてだ」と語った。
-愛国億万長者団体が主催したこの書簡は、より平等な社会につながると述べ、「最も裕福な者からの富と権力の分権」を促した。
-人々はすでに寄付制度を利用して自発的に財務省に金銭や株式を寄付することができる。
-保守党党首のケミ・バデノック氏は、リネカー氏が「財務省に小切手を書いて納税できるのは大歓迎だ。誰も彼を止める者はいない」と述べた。
-愛国的な億万長者は、1,000万ポンドを超える富に対する2％の税金を支持しています。
-「大富豪は愛国心の塊だ」と手紙には書かれている。 「私たちはこの国を愛しており、この国が成功することを望んでいます。
-「しかし、成功には投資が必要であり、手付かずの資本投資の主要な源泉は、課税されない可能性の中に私たちの側にあります。」
-他の署名者には、ノッティングヒル取締役のリチャード・カーティス氏や、グレッグスの元常務取締役でベーカリーチェーンの創設者の息子であるイアン・グレッグ氏も含まれる。スコットランドの犯罪作家ヴァル・マクダーミッド氏と元金融トレーダーから平等運動家に転身したゲイリー・スティーブンソン氏も書簡に署名した。
-エマ・レイノルズ財務長官は、英国の大富豪が納税額を増やすことは歓迎すると述べたが、大きな変更は予算案中に発表されるだろうと述べた。
-「裕福な人々がもっとお金を払いたいと言っているという事実を歓迎します。彼らはもっと支払うことができる」と彼女は言い、財務省の寄付とのつながりを指摘した。
-富裕層への増税を求める新たな要求は、前年の同様のキャンペーンに続いて行われた。
-バーナム氏は、首相就任の数日前に、かつてBBCで最も高額な報酬をもらっていた司会者だったリネカー氏から富裕税について質問された際、富裕税の可能性を排除しなかった。
-同氏は、いつか税金を「もう少し要求する」必要があるかもしれないと示唆した。
-リネカー氏はBBCを退社するまでに年間約130万ポンドを支払われていた。彼の価値は3000万ポンドと伝えられている。
-愛国億万長者の最新の呼びかけでは、「あらゆる地域の最大の資産に再投資するために、最富裕層からの新たな種類の富と権力の委譲を受け入れる必要がある」と述べられている。
-独自の世論調査では大多数の億万長者が自分自身への増税を望んでいると付け加えた。
-「時代遅れの経済的考え方を持った人々が少数残っており、一銭も残そうと必死になっている人々もいる。私利私欲の終わりを見通せない人々には、英国の将来を設計する立場はない」と書簡は述べている。
-ミュージシャンのブライアン・イーノはBBCラジオ・リンカンシャーに対し、税制は「富裕層に対して非常に寛大だ」と語った。
-「裕福であれば、あまり税金を払わないが、賢い会計士を雇って、何とか税金を免れることができる」と彼は言う。
-同氏はまた、税金が多すぎると多くの億万長者が英国を離れるだろうという考えを否定した。
-「これは金持ちがこれを避けるために常に教えてきた話ですが、実際には人々はそれほど離れません。
-「もちろんそうする人は少数だ」と同氏は述べたが、人々は必ずしもスカンジナビア諸国など他の高税率国から離れるわけではないと付け加えた。
-同氏は、経済界の同業者のほとんどが道路や学校の改善を望んでおり、人々が極度の貧困の中で暮らしているのを見るのは好まないと主張し、多くが地域団体を経済的に支援していると主張した。
-関連トピック
-- 7 月 15 日発行
-- 5 月 21 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-23T12:18:36+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg",
-    readTime: 4,
   },
 ];
 
