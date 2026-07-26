@@ -15,6 +15,110 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "rental-searches-for-pet-friendly-propert-a3a4f7bb",
+    title: "Rental searches for pet friendly properties drop after law change",
+    titleJa: "法改正後、ペット可物件の賃貸検索が減少",
+    summaryJa: "法改正後、ペット可物件の賃貸検索が減少- 公開されました",
+    bodyOriginal: `Rental searches for pet friendly properties drop after law change
+- Published
+Rightmove searches for rental properties that allow pets have plummeted since law changes gave renters more rights.
+Following the introduction of the new rules, pet searches dropped by more than 50% in May and June compared with a year earlier.
+Landlords in England cannot unreasonably refuse pets in their properties under changes made in May in the Renters' Rights Act.
+But agents say some renters wrongly believe permission to have a pet is guaranteed, and landlords say some homes remain unsuitable for multiple pets or large dogs.
+"Landlords must consider requests fairly and cannot unreasonably refuse them, but they can still decline where there is a valid reason," said Megan Eighteen, immediate past president of lettings agents trade body ARLA Propertymark.
+She said there was plenty of "potential for misunderstanding", among tenants about pet-friendly properties.
+Power shift over pets
+The Rightmove data suggests that fewer tenants are proactively filtering for pet-friendly properties when searching for a home. While pets remain the most common searched-for term overall - ahead of gardens, garages and furnishings, the lead at the top is shrinking.
+Renter searches for properties that allow pets fell by 54% in May and 52% in June compared with the same months a year earlier, according to the figures shared with the BBC. Falls had accelerated through this year, as the changes got closer and were then introduced.
+Marc von Grundherr, director of agency Benham and Reeves, said some tenants have only disclosed a pet after signing their tenancy agreement, while others have been discovered during property inspections.
+"The reality is that tenants now understand the balance of power has shifted. Landlords can no longer rely on a blanket 'no pets' policy to deter applications and should instead expect conversations around pet ownership to arise much later in the letting process," he said.
+Now, in England, landlords may still be able to refuse a pet if another tenant has an allergy, the property is too small for a large pet or several pets, the pet is illegal, or the landlord is a leaseholder and the freeholder does not allow pets.
+Before the rules changed, Eve Williamson had to give up her American Bulldog, Khan, or face eviction from her home - despite having previously had a dog in the property.
+The 41-year-old former hairdresser, from London, described the experience as awful, especially as Khan had brought comfort while she gave full-time care to her mum.
+"Life can get tough, but pets bring unconditional love," she said. "They're family."
+Khan has since been happily re-homed, and Eve said she was delighted with the law change.
+Katie Smith, 29, from Swindon, has two cats - Pumpkin and Pippin - in her rental home.
+The new mum said the family had shared "wonderful moments" with pets, which would also teach children about life and death.
+But she said the choice of places to rent still dropped sharply on property portals when pets were part of the equation.
+"Landlords should give them a chance," she said.
+Yet, even under the new rules, landlords were finding excuses to refuse potential tenants with pets, according to Russell Hunt, founder of Pets Lets, which matches clients with pet-friendly rentals.
+He lives with a Basset Beagle cross, called Biscuit, and his three teenagers, who he jokes are more disruptive than the dog.
+He said pet CVs should be used and landlords should consider the circumstances more carefully, such as older dogs being calmer and sleeping more, rather than simply ruling out tenants with large or multiple pets.
+Cost to landlords
+Representatives for landlords say they understand the importance of companionship that pets offer to tenants, but they can still face costly damage.
+"Many landlords have legitimate concerns about the risk that some irresponsible pet owners pose to rental properties, or that some owners may try to keep pets in properties that are not appropriate for animals," said Chris Norris, chief policy officer at the National Residential Landlords Association.
+He said that landlords faced issues including:
+No power to compel tenants to take out insurance
+No legal right to request an additional deposit
+A burden of costs should a pet cause damage to a property
+Lesley Horton, the UK's chief property ombudsman said that landlords should not be levying pet surcharges as this fell outside permitted fees for issues such as late payments or lost key replacements.
+However, a landlord could make deductions from the tenancy deposit at the end of the tenancy for proven pet-related damage.
+Additional reporting by Kris Bramwell.
+Get in touch
+Are you affected by the issues raised in this story?
+Related topics
+- Published30 April`,
+    bodyJa: `法改正後、ペット可物件の賃貸検索が減少
+- 公開されました
+法改正により賃貸人にさらなる権利が与えられて以来、ライトムーブによるペット可賃貸物件の検索は激減している。
+新しい規則の導入後、5月と6月のペットの検索数は前年比で50％以上減少した。
+英国の家主は、5月に改正された借家人権利法に基づき、自分の敷地内でペットを不当に拒否することはできない。
+しかし代理店らは、賃貸人の中にはペットの飼育許可が保証されていると誤って信じている人もいると述べ、家主らは、依然として複数のペットや大型犬の飼育に適さない家もあると言っている。
+「家主は要請を公平に考慮しなければならず、不当に拒否することはできないが、正当な理由があれば拒否することはできる」と賃貸仲介業者取引団体ARLAプロパティマークの直前会長ミーガン・エイティーン氏は述べた。
+同氏は、ペット可物件についてはテナントの間で「誤解が生じる可能性」が十分にあると述べた。
+ペットをめぐる権力シフト
+Rightmove のデータによると、家を探すときにペット可の物件を積極的にフィルタリングしているテナントが減っていることがわかります。ペットは依然として全体的に最もよく検索される用語であり、庭園、ガレージ、家具を上回っていますが、上位のリードは縮まりつつあります。
+BBCと共有された数字によると、ペット可の物件の賃貸人の検索数は、前年同月と比べて5月に54％、6月に52％減少した。変化が近づき、その後導入されるにつれて、今年を通じて秋は加速しました。
+代理店ベンハム・アンド・リーブスのディレクター、マーク・フォン・グランダー氏は、一部のテナントは賃貸契約書に署名した後にペットを明らかにしたが、他のテナントは物件検査中に発見されたと述べた。
+「現実には、テナントは力のバランスが変化したことを理解している。家主はもはや申請を阻止するために一律の『ペット禁止』政策に依存することはできず、代わりにペットの所有権に関する会話が賃貸プロセスのずっと後半で起こることを期待すべきだ」と同氏は述べた。
+現在、イギリスでは、別の入居者にアレルギーがある場合、物件が大型ペットや複数のペットを飼うには狭すぎる場合、ペットが違法である場合、または家主が借地権者で自由所有者がペットを許可していない場合、家主は依然としてペットの飼育を拒否できる可能性があります。
+規則が変わる前、イブ・ウィリアムソンさんは、以前敷地内で犬を飼っていたにも関わらず、アメリカン・ブルドッグのカーンを手放さなければ、自宅から立ち退きを迫られることになった。
+ロンドン在住の元美容師の41歳は、特にカーンが母親のフルタイムの介護をしている間、慰めを与えてくれたので、その経験はひどいものだった、と語った。
+「人生は大変なこともありますが、ペットは無条件の愛をもたらしてくれます」と彼女は言いました。 「彼らは家族です。」
+カーンさんはその後、喜んで故郷に戻り、イブさんは法改正を喜んでいると語った。
+スウィンドン在住のケイティ・スミスさん（29）は、賃貸住宅でパンプキンとピピンという2匹の猫を飼っている。
+新しい母親になった彼女は、家族がペットと「素晴らしい瞬間」を共有し、それが子供たちに生と死について教えることにもなると語った。
+しかし彼女は、ペットが方程式の一部に含まれているにもかかわらず、不動産ポータルでは賃貸場所の選択肢が大幅に減少したと語った。
+「家主は彼らにチャンスを与えるべきだ」と彼女は言う。
+しかし、ペット可の賃貸物件と顧客をマッチングするペッツ・レッツの創設者ラッセル・ハント氏によると、新しい規則のもとでも、家主はペットを連れた入居希望者を拒否する口実を見つけていたという。
+彼はビスケットという名前のバセットビーグルの雑種犬と、3人のティーンエイジャーたちと暮らしているが、彼らのほうが犬よりも破壊力があると彼は冗談を言う。
+同氏は、ペットの履歴書を活用すべきであり、家主は大型のペットや複数のペットを飼っている入居者を単純に排除するのではなく、年老いた犬のほうが落ち着いていてよく眠るなどの状況をより慎重に考慮すべきだと述べた。
+家主の負担
+家主の代理人らは、ペットが入居者に提供する仲間としての重要性は理解しているが、依然として高額な損害に直面する可能性があると述べた。
+全米住宅家主協会の最高政策責任者であるクリス・ノリス氏は、「多くの家主は、一部の無責任なペット飼い主が賃貸物件にもたらすリスクや、一部の飼い主が動物にふさわしくない物件でペットを飼おうとするのではないかという当然の懸念を抱いている」と述べた。
+同氏は、家主は次のような問題に直面していると述べた。
+テナントに保険への加入を強制する権限はない
+追加のデポジットを要求する法的権利はない
+ペットが物的損害を与えた場合の費用負担
+英国の主任不動産オンブズマン、レスリー・ホートン氏は、家主はペットの追加料金を課すべきではないと述べ、これは支払い遅延や鍵の交換などの問題に対して認められた手数料の範囲外であるためと述べた。
+ただし、家主は、証明されたペット関連の損害について、テナント契約終了時にテナント保証金から差し引くことができます。
+Kris Bramwell による追加レポート。
+連絡する
+この話で提起されている問題の影響を受けていますか?
+関連トピック
+- 4 月 30 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-26T00:00:49+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2116/live/a455cfa0-7c49-11f1-8ccc-df652c9169a7.jpg",
+    readTime: 6,
+  },
+  {
+    id: "time-will-tell-whether-that-was-a-good-e7619560",
+    title: "‘Time will tell whether that was a good bet’: My adviser got me a full SpaceX IPO allocation. Was I lucky?",
+    titleJa: "「それが良い賭けだったかどうかは時間が経てば分かるだろう」：私のアドバイザーは私にSpaceXのIPO割り当てを全額与えてくれました。私は幸運でしたか？",
+    summaryJa: "「投資家は、たとえ受け取ったとしても、要求した株式のほんの一部しか受け取らないことがよくあります。」",
+    bodyOriginal: `“Investors frequently receive only a small fraction of the shares they request — if they receive any at all.”`,
+    bodyJa: `「投資家は、たとえ受け取ったとしても、要求した株式のほんの一部しか受け取らないことがよくあります。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-7f319645?mod=mw_rss_topstories",
+    publishedAt: "2026-07-25T22:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-88578279",
+    readTime: 2,
+  },
+  {
     id: "yes-the-ai-stock-selloff-looks-terrifyin-26b8ae27",
     title: "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
     titleJa: "はい、AI株の下落は恐ろしいようです。しかし、実際には強気相場を救うかもしれない。",
@@ -83,6 +187,102 @@ export const articles: Article[] = [
     category: "マクロ経済",
     imageUrl: "https://images.mktw.net/im-97683684",
     readTime: 2,
+  },
+  {
+    id: "india-s-cockroach-protest-called-off-aft-0be6f206",
+    title: "India's 'cockroach' protest called off after education minister quits",
+    titleJa: "インドの「ゴキブリ」抗議活動、教育大臣辞任で中止",
+    summaryJa: "インドの「ゴキブリ」抗議活動、教育大臣辞任で中止- 公開されました",
+    bodyOriginal: `India's 'cockroach' protest called off after education minister quits
+- Published
+India's Cockroach Janta Party (CJP) has called off its five-week-long protest, hours after Education Minister Dharmendra Pradhan resigned.
+The CJP has called it a win for democracy and thousands of jubilant supporters continue to celebrate at Jantar Mantar, the main protest venue in Delhi.
+An online satirical campaign with an AI-generated cockroach as its mascot, the CJP is not a real party but has evolved into a powerful platform for young people's anxieties and dissent.
+The protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years and gained momentum after Monday's police crackdown on people marching to parliament left dozens injured.
+Pradhan announced his resignation on X in a post in Hindi saying he "respected the aspirations, dreams, and expectations of the youth" and was "pained by the events" of the past few days.
+"Considering the situation at Jantar Mantar and across the country - with the aim of preventing anti-national forces from exploiting it, preserving national unity, ensuring that not a single Indian student's future gets entangled in legal complexities, and allowing our children to devote their time to studies and focus on building their careers - I have submitted my resignation to the prime minister," he wrote.
+As news of Pradhan's resignation broke, a visibly emotional Abhijeet Dipke, CJP's founder, screamed from the makeshift stage at Jantar Mantar: "We have done it."
+A loud cheer went up and huge celebrations erupted with the protesters singing, dancing, shouting slogans and handing out sweets.
+Several hours since the CJP announced the end of their protest and its leaders left the site, crowds were still gathered at the venue into the night.
+Many told the BBC they had waited for this day for weeks, and were not in the mood to leave without celebrating.
+The site is increasingly looking like the centre of a party, with volunteers doing their best to manage the crowds. A large number of police are deployed around the area, but they say they will intervene only if they see breaches of the law.
+The CJP was formed after the chief justice of India described some unemployed young people turning to journalism and activism as "cockroaches". He later said he was referring specifically to people with "fake and bogus degrees", but by then, the term had taken a life on its own.
+The movement is led by Abhijeet Dipke, a 30-year-old political communications strategist and former student at Boston University.
+The CJP quickly gained a huge following online, turning one of the most reviled insects into a symbol of defiance and resilience with 26 million followers on Instagram.
+It called for reforms to India's education system, greater accountability over exam paper leaks and the resignation of Pradhan.
+The protests gained global attention after activist and educationist Sonam Wangchuk joined them on 28 June and began an indefinite hunger strike in support of their demands.
+As his health deteriorated, the crowds began to swell and Wangchuk was forcibly removed from the protest site by the police last Saturday and taken to hospital where he continued to fast. He finally called it off early Friday morning following assurances from the government that his demands would be looked into.
+Over the course of the protest, most of India's major opposition political parties, activists and many celebrities turned up to show solidarity.
+On the ground at the protest sites, many of the posters and slogans were directed at Modi.
+The BBC met several people who said they had once supported the prime minister but had now turned against him.
+"I used to support him when he used to do good things, but slowly I am realised that he is only dividing people on the basis of religion, and he's not doing anything else," said Radhika.
+On Saturday, opposition leaders welcomed Pradhan's resignation, with many calling it a victory for the youth-led movement.
+While the demand was for the resignation of the education minister, it is clear that the protests have dealt a severe blow to the prime minister's personal brand, and his aura of invincibility.
+Since coming to power in 2014, Modi's government has rarely tolerated dissent and cracked down heavily on protests, which is why Pradhan's resignation is being seen as a big deal in India.
+But this isn't the first time they have faced big protests - and it's not the first time they been forced into a climbdown either. Back in 2021, the government repealed agriculture laws after a year-long protest by farmers.
+The students' protest has resonated with a large section of middle-class India, cutting across identities of religion, caste or sectors, with people voicing anger about the lack of educational opportunities and jobs in India.
+Pressure grew on the government after Monday's violent crackdown when police and paramilitary forces used batons and wooden sticks to beat up young men and women, firing tear gas cans at them.
+About 300 people were taken to hospital. Police said at least half of the injured were security personnel and also arrested about 70 protesters - most of them have since been released on bail.
+After ignoring the protesters for nearly five weeks, Modi finally broke his silence on Thursday to say they had "decided to set up fast-track courts to ensure swift and stringent punishment for those involved in paper leaks".
+And later that night, Modi posted a video message saying that a tough new law on examination paper leaks was being prepared. He said he had received a draft of the law, which they wanted to introduce soon in parliament.
+Thousands of posts mocking Modi have flooded social media. The prime minister's videos, intended to quell anger, have been turned into jokes and memes.
+Following Pradhan's resignation, the CJP founder Dipke said in a statement on X that the fight was not over yet.
+He said they would continue to fight for the families of students who died by suicide after a key medical exam was cancelled to ensure they received compensation.
+He also renewed his calls for action against police officers he accused of using excessive force against protesters on 20 July on CJP supporters who tried to march to Parliament.
+"Remember, do not mess with [the] cockroach," he added.
+Follow BBC News India on Instagram, external, YouTube,, external Twitter, external and Facebook, external.
+Related topics
+- Published2 days ago
+- Published5 days ago
+- Published14 hours ago`,
+    bodyJa: `インドの「ゴキブリ」抗議活動、教育大臣辞任で中止
+- 公開されました
+インドのゴキブリ・ジャンタ党（CJP）は、ダルメンドラ・プラダン教育大臣が辞任した数時間後、5週間にわたる抗議活動を中止した。
+CJPはこれを民主主義の勝利と称し、デリーの主要抗議会場であるジャンタル・マン​​タルでは数千人の歓喜の支持者が祝賀活動を続けている。
+AI が生成したゴキブリをマスコットとするオンライン風刺キャンペーンである CJP は本物の政党ではありませんが、若者の不安や反対意見を訴える強力なプラットフォームに進化しました。
+この抗議活動はナレンドラ・モディ首相の政府に対する国民の怒りをここ数年で最も目に見えて表現したもので、月曜日の議会に行進する人々に対する警察の弾圧で数十人が負傷したことを受けて勢いを増した。
+プラダン氏はヒンディー語での投稿でＸ氏の辞任を表明し、「若者の願望、夢、期待を尊重」し、ここ数日間の「出来事に心を痛めている」と述べた。
+「ジャンタル・マン​​タルと全国各地の状況を考慮し、反国家勢力によるジャンタル・マン​​タルの悪用を防ぎ、国家統一を維持し、一人のインド人学生の将来も複雑な法律に巻き込まれないようにし、子供たちが勉強に時間を費やし、キャリア構築に集中できるようにすることを目的として、私は首相に辞表を提出した」と述べた。
+プラダン氏辞任のニュースが流れると、CJP創設者アビジート・ディプケ氏は目に見えて感情的になり、ジャンタル・マン​​タルの仮舞台から「我々はやり遂げた」と叫んだ。
+大歓声が上がり、デモ参加者たちが歌ったり、踊ったり、スローガンを叫んだり、お菓子を配ったりして盛大な祝賀会が勃発した。
+CJPが抗議活動の終了を発表し、指導者らが会場を去ってから数時間後も、会場には夜遅くまで群衆が集まっていた。
+多くの人がBBCに対し、この日を何週間も待っていたが、祝わずに帰る気分ではなかったと語った。
+ボランティアたちが群衆の整理に最善を尽くしており、この場所はますますパーティーの中心のように見えてきました。周辺には多数の警察が配備されているが、警察は法律違反を発見した場合にのみ介入するとしている。
+CJPは、インドの首席判事がジャーナリズムや活動家に転向する一部の失業した若者を「ゴキブリ」と呼んだことを受けて設立された。同氏は後に、特に「偽の偽の学位」を持つ人々のことを指していると述べたが、その時までにこの言葉は独り歩きしていた。
+この運動を主導しているのは、政治コミュニケーション戦略家でボストン大学の元学生であるアビジート・ディプケ氏（30）だ。
+CJP はすぐにオンラインで巨大な支持者を獲得し、インスタグラムで 2,600 万人のフォロワーを持つ、最も非難されている昆虫の 1 つを反抗と回復力の象徴に変えました。
+インドの教育制度の改革、試験問題の漏洩に対する説明責任の強化、プラダン氏の辞任を求めた。
+活動家で教育家のソナム・ワンチュク氏が6月28日に参加し、要求を支持するために無期限のハンガーストライキを開始したことで、この抗議活動は世界的な注目を集めた。
+健康状態が悪化し、群衆が増え始め、ワンチュクさんは先週土曜日、警察によって抗議会場から強制的に連れ出され、病院に運ばれ、そこで断食を続けた。彼の要求が検討されるとの政府の保証を受けて、彼は金曜日の早朝に最終的にそれを中止した。
+抗議活動の過程で、インドの主要野党のほとんど、活動家、そして多くの著名人が団結を示すために現れた。
+抗議活動の現場では、ポスターやスローガンの多くがモディ氏に向けられたものだった。
+BBCは、かつては首相を支持していたが、今では反対に転じたという数人の関係者に会った。
+「彼が良いことをしていたときは私も応援していましたが、徐々に彼が宗教に基づいて人々を分断しているだけで、それ以外のことは何もしていないことに気づきました」とラディカさんは語った。
+土曜日、野党指導者らはプラダン氏の辞任を歓迎し、多くの人が若者主導の運動の勝利だと主張した。
+要求は文科大臣の辞任であったが、抗議活動が首相の個人ブランドと無敵のオーラに深刻な打撃を与えたことは明らかである。
+2014年に政権を握って以来、モディ政権は反対意見をほとんど容認せず、抗議活動を厳しく取り締まってきたため、インドではプラダン氏の辞任が大問題とみなされている。
+しかし、彼らが大規模な抗議活動に直面したのはこれが初めてではなく、強制排除に追い込まれたのもこれが初めてではない。 2021年に遡ると、農民による1年間にわたる抗議の後、政府は農業法を廃止した。
+学生らの抗議活動はインド中産階級の大部分の共感を呼び、宗教、カースト、部門のアイデンティティーを超え、人々はインドにおける教育の機会や雇用の欠如に対して怒りの声を上げている。
+月曜日の警察と民兵組織が警棒や木の棒を使って若い男女を殴り、催涙ガス缶を発砲した月曜日の暴力的な弾圧を受けて、政府への圧力が高まった。
+約300人が病院に搬送された。警察は、負傷者の少なくとも半数は治安関係者で、約70人の抗議参加者も逮捕したと発表したが、そのほとんどはその後保釈された。
+5週間近く抗議活動参加者を無視した後、モディ首相は木曜日についに沈黙を破り、「紙の漏洩に関与した人々に対する迅速かつ厳しい処罰を確実にするため、迅速法廷を設置することを決定した」と述べた。
+そしてその夜遅く、モディ首相はビデオメッセージを投稿し、試験用紙の漏洩に関する厳しい新法が準備されていると述べた。同氏は法案を受け取ったと述べ、近く議会に提出したいと考えていると述べた。
+モディ氏を嘲笑する数千件の投稿がソーシャルメディアに溢れている。怒りを鎮めることを目的とした首相の動画は、ジョークやミームと化している。
+プラダン氏の辞任を受け、CJP創設者のディプケ氏はXに関する声明で、戦いはまだ終わっていないと述べた。
+同氏は、重要な健康診断が中止されたことを受けて自殺で死亡した学生の遺族のために、補償金を確実に受け取るために闘い続けると述べた。
+同氏はまた、7月20日に議会に行進しようとしたCJP支持者らに対して過剰な武力行使を行ったとして警察官を非難したことに対し、行動を起こすよう改めて呼びかけた。
+「覚えておいてください、ゴキブリに手を出さないでください」と彼は付け加えた。
+Instagram (外部)、YouTube、外部 Twitter、外部 Facebook で BBC News India をフォローしてください。
+関連トピック
+- 2 日前に公開
+- 5 日前に公開
+- 14 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-25T17:44:46+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 7,
   },
   {
     id: "more-than-250-000-flee-wildfires-in-fran-96300ea9",
@@ -819,6 +1019,40 @@ DHL は、専用航空機と接続されたネットワークを備えた医薬�
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-18956822",
     readTime: 2,
+  },
+  {
+    id: "nvidia-locks-down-memory-supply-from-sk-8aa316ee",
+    title: "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
+    titleJa: "Nvidia、5,000億ドルのAI取引の一環としてSK Hynixからのメモリ供給を制限",
+    summaryJa: "Nvidiaは、韓国のSK Hynixが自社の先進的なプロセッサとシステムの主要コンポーネントを確保しようとしているため、同社からAIメモリの供給を確保したと述べた。Nvidiaによると、金曜遅くにサンフランシスコで発表されたこの協定は、数年間で5,000億ドル相当になる可能性があり、2027年に稼働予定の大規模データセンターの建設も含まれているという。",
+    bodyOriginal: `Nvidia said it's secured AI memory supply from South Korea's SK Hynix, as the chipmaker tries to lock in a key component for its advanced processors and systems.
+The agreement, announced late Friday in San Francisco, could be worth $500 billion over a number of years, and includes the construction of large-scale data centers expected to come online in 2027, Nvidia said.
+SK Hynix affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. Nvidia said it's targeting enough capacity to require 2 gigawatts of power, which indicates a massive buildout with hundreds of thousands of graphics processing units.
+In a separate deal, South Korean giant Samsung Electronics said it signed a memorandum of understanding with chip designer Broadcom to expand their collaboration across memory and foundry technologies. The deal, worth an estimated $200 billion, would help support the next generation of AI infrastructure, Samsung said in a statement.
+Nvidia is aggressively securing supply of high-bandwidth memory, which is essential for its GPUs and systems, as the AI boom has created a global memory shortage. SK Hynix is the leader in HBM production, according to analysts.
+"The expansion will include a co-develop opportunity for us on the next-generation SK Hynix AI memory, and this will help us secure a stable supply of HBM memory," Raj Mirpuri, Nvidia enterprise vice president, said on a call with reporters.
+The agreement is also a sign that massive AI infrastructure buildouts are moving beyond a handful of hyperscalers, with foreign governments and massive conglomerates starting to get involved.
+The deal was announced at an AI summit in San Francisco with South Korean officials including President Lee Jae Myung.
+Nvidia also said Friday that it would invest $1 billion into Naver, a Korean cloud company building data centers around its GPUs. Nvidia said the project would provide an opportunity for potential customers in South Korea and around the world to secure AI computing capacity before the 200 megawatts of capacity is completed.
+SK Hynix, South Korea's second most valuable company, listed on the Nasdaq earlier this month as part of an effort to finance infrastructure developments.
+– CNBC's Azhar Sukri contributed to this story.`,
+    bodyJa: `Nvidiaは、韓国のSK Hynixが自社の先進的なプロセッサとシステムの主要コンポーネントを確保しようとしているため、同社からAIメモリの供給を確保したと述べた。
+Nvidiaによると、金曜遅くにサンフランシスコで発表されたこの協定は、数年間で5,000億ドル相当になる可能性があり、2027年に稼働予定の大規模データセンターの建設も含まれているという。
+SKハイニックス傘下のSKテレコムは、NvidiaのVera Rubinシステムを活用したクラウドビジネスを構築する。 Nvidiaは、2ギガワットの電力を必要とするのに十分な容量を目標にしていると述べ、これは数十万のグラフィックス処理ユニットによる大規模な増強を示していると述べた。
+これとは別の契約で、韓国の大手サムスン電子は、チップ設計会社ブロードコムとメモリおよびファウンドリ技術全体での協力を拡大する覚書を結んだと発表した。サムスンは声明で、この契約は推定2000億ドル相当で、次世代のAIインフラのサポートに役立つと述べた。
+AI ブームにより世界的なメモリ不足が生じているため、NVIDIA は自社の GPU やシステムに不可欠な高帯域幅メモリの供給を積極的に確保しています。アナリストによると、SK HynixはHBM生産のリーダーだという。
+Nvidia エンタープライズ副社長の Raj Mirpuri 氏は記者団との電話会談で、「この拡張には、次世代 SK Hynix AI メモリの共同開発の機会が含まれており、これにより HBM メモリの安定供給を確保することができます」と述べました。
+この合意は、外国政府や巨大複合企業が関与し始めており、大規模なAIインフラの構築が少数のハイパースケーラーを超えて進んでいることの表れでもある。
+この契約は、イ・ジェミョン大統領を含む韓国当局者らとサンフランシスコで開催されたAIサミットで発表された。
+Nvidiaは金曜日、GPUを中心にデータセンターを構築する韓国のクラウド企業Naverに10億ドルを投資するとも発表した。 Nvidiaは、このプロジェクトは、韓国および世界中の潜在的な顧客に、200メガワットの容量が完了する前にAIコンピューティング容量を確保する機会を提供すると述べた。
+韓国で2番目に時価総額の高い企業であるSKハイニックスは、インフラ開発への資金提供の一環として今月初めにナスダックに上場した。
+– CNBC の Azhar Sukri がこの記事に寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
+    publishedAt: "2026-07-25T08:49:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
   },
   {
     id: "iran-backed-houthis-claim-missile-attack-743eae29",
@@ -2151,186 +2385,6 @@ The dangerous escalation in the Middle East could potentially spike Brent oil pr
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "moody-s-says-unprecedented-ai-spending-t-b058d4cc",
-    title: "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
-    titleJa: "ムーディーズ、「前例のない」AI支出がアマゾン、メタ、アルファベットなどの信用の質を脅かしていると発表",
-    summaryJa: "年間数兆ドル規模の人工知能インフラ構築競争がフリーキャッシュフローを侵食し、いわゆるハイパースケーラーのバランスシートリスクを増大させているとムーディーズ・レーティングスは警告した。ムーディーズは今週発表したリサーチノートの中で、支出の急増により、アルファベットやマイクロソフトのような世界で最も現金が豊富な企業ですら、AIへの野望に資金を提供するために借金や株式売却、オフバランスシートへの投資に大きく依存せざるを得なくなっていると述べた。",
-    bodyOriginal: `The race to build artificial intelligence infrastructure at a trillion-dollar annual clip is eroding the free cash flow and increasing balance-sheet risk at so-called hyperscalers, warned Moody's Ratings.
-In a research note released this week, Moody's said that the spending surge is forcing even the world's most cash-rich corporations like Alphabet and Microsoft to lean heavily on debt, stock sales and off-balance-sheet moves to fund their AI ambitions.
-"Previously, these companies relied on asset-light structures centered on software, intellectual property, and scalable cloud services that required modest capital investment," Moody's said in the Wednesday note. "The transition from asset-light to asset-heavy models requires unprecedented levels of investment and capital raising."
-The moves "threaten credit quality" for the six companies tracked by Moody's, which include Microsoft, Amazon, Alphabet, Meta, Oracle and CoreWeave, according to the report.
-The ratings firm projects that capital expenditures — or capex, which are investment for physical assets like data centers — will hit $785 billion in 2026 before reaching about $1 trillion next year.
-The shift breaks a decades-long Silicon Valley formula that created the world's most valuable companies. Software costs little to replicate, yielding fat profit margins and fortress balance sheets. Generative AI, by contrast, demands a vast physical footprint: warehouses crammed with expensive and energy-hungry servers and chips.
-To finance the expansion, tech giants are increasingly turning to Wall Street, resulting in booming profits for the financial industry.
-Direct debt across the six hyperscalers has reached approximately $460 billion, according to Moody's. Tech companies are also tapping public markets for cash, including Google-parent Alphabet, which last month announced an $85 billion equity sale.
-Leasing data centers
-The ratings firm noted that because AI hardware and infrastructure require massive upfront investment while revenue materializes over a longer time horizon, free cash flow across the sector is coming under pressure.
-To keep direct debt off their balance sheets, hyperscalers are leaning on off-balance-sheet financing, mostly through long-term data center leases, the report explained.
-Moody's said that lease commitments across the group have ballooned to $1.2 trillion. More than $820 billion of that total is from leases that haven't started yet, meaning the data centers are still being built.
-While these obligations don't show up as traditional debt, Moody's says it considers them as debt-equivalent liabilities that will bind companies to significant rent payments down the line.
-Despite the warning, Moody's noted that Microsoft, Alphabet, Amazon and Meta retain among the strongest corporate balance sheets in the world, making it unlikely that their investment grade ratings are under imminent threat.
-The immediate pressure is concentrated on lower-rated entities like Oracle and specialized AI cloud provider CoreWeave. Oracle carries a rating of Baa2 with a negative outlook, placing it just two notches above junk status.
-Meanwhile, CoreWeave operates within the high-yield market with a Ba3 rating, relying on complex private debt structures to finance its GPU hardware fleets.
-Circular ecosystem
-Moody's also pointed to structural circularity within the AI boom. Some of the multibillion-dollar backlogs reported by hyperscalers stem from strategic deals with pre-IPO artificial intelligence labs including OpenAI and Anthropic, Moody's noted.
-The firms have invested billions into AI labs that, in turn, spend heavily on cloud computing from those same companies, creating what Moody's described as a circular AI ecosystem.
-The overlapping relationships heighten risks because many of the industry's biggest companies are increasingly dependent on the same AI customers and the same assumptions about future demand, Moody's said.
-Even so, the tech giants have significant strengths that help offset those risks.
-Demand for AI computing remains robust, cloud businesses continue to grow and hyperscalers have signed hundreds of billions of dollars in long-term customer contracts that should provide predictable revenue. Those deals support the industry's largely-strong credit profiles, even amid the spending boom.
-Still, investors should recognize that the tech industry's financial profile is undergoing a structural change unlike anything seen in the cloud era, according to Moody's.
-"Investors will increasingly focus on these companies' ability to realize an adequate return on investment," the ratings firm said.`,
-    bodyJa: `年間数兆ドル規模の人工知能インフラ構築競争がフリーキャッシュフローを侵食し、いわゆるハイパースケーラーのバランスシートリスクを増大させているとムーディーズ・レーティングスは警告した。
-ムーディーズは今週発表したリサーチノートの中で、支出の急増により、アルファベットやマイクロソフトのような世界で最も現金が豊富な企業ですら、AIへの野望に資金を提供するために借金や株式売却、オフバランスシートへの投資に大きく依存せざるを得なくなっていると述べた。
-ムーディーズは水曜日のメモで、「これらの企業はこれまで、ソフトウェア、知的財産、スケーラブルなクラウドサービスを中心としたアセットライト構造に依存しており、少額の資本投資を必要としていた」と述べた。 「資産軽めのモデルから資産重めのモデルへの移行には、前例のないレベルの投資と資本調達が必要です。」
-報告書によると、この動きはムーディーズが追跡しているマイクロソフト、アマゾン、アルファベット、メタ、オラクル、コアウィーブを含む6社の「信用の質を脅かしている」という。
-格付け会社は、設備投資、つまりデータセンターなどの物理的資産への投資であるCapexが2026年に7,850億ドルに達し、来年には約1兆ドルに達すると予測している。
-この変化は、世界で最も価値のある企業を生み出してきた数十年にわたるシリコンバレーの方式を打ち破る。ソフトウェアの複製コストはほとんどかからないため、大きな利益率と強固なバランスシートが得られます。対照的に、生成 AI は、膨大な物理的設置面積を必要とします。倉庫には、高価でエネルギーを大量に消費するサーバーとチップが詰め込まれています。
-事業拡大に資金を提供するために、ハイテク大手企業はますますウォール街に目を向けており、その結果、金融業界の利益は急増しています。
-ムーディーズによると、ハイパースケーラー６社全体の直接負債は約４６００億ドルに達している。先月850億ドルの株式売却を発表したグーグルの親会社アルファベットなど、ハイテク企業も公開市場を利用して現金を獲得している。
-データセンターのリース
-同格付け会社は、AIのハードウェアとインフラストラクチャには巨額の先行投資が必要だが、収益は長期にわたって実現するため、セクター全体のフリーキャッシュフローが圧迫されていると指摘した。
-直接負債をバランスシートから切り離すため、ハイパースケーラーは主に長期のデータセンターリースを通じてオフバランスシートの資金調達に頼っていると報告書は説明している。
-ムーディーズによると、グループ全体のリース契約は１兆２０００億ドルに膨れ上がった。このうち 8,200 億ドル以上はまだ開始されていないリースによるもので、データセンターがまだ建設中であることを意味します。
-これらの債務は従来の債務としては現れないが、ムーディーズはこれらの債務を、企業が将来的に多額の賃料支払いに拘束される債務に相当する負債とみなしていると述べている。
-警告にもかかわらず、ムーディーズは、マイクロソフト、アルファベット、アマゾン、メタは世界で最も強固な企業バランスシートを維持しており、これらの企業の投資適格格付けが差し迫った脅威にさらされる可能性は低いと指摘した。
-差し迫った圧力は、Oracleや専門のAIクラウドプロバイダーであるCoreWeaveなどの格付けの低い企業に集中している。オラクルの格付けは「Baa2」で、見通しはネガティブで、ジャンクステータスよりわずか 2 ノッチ上にあります。
-一方、CoreWeave は Ba3 格付けの高利回り市場で事業を展開しており、GPU ハードウェア フリートの資金調達を複雑な民間債務構造に依存しています。
-循環型エコシステム
-ムーディーズはAIブームにおける構造的な循環性も指摘した。ハイパースケーラーが報告している数十億ドル規模の未払い金の一部は、OpenAIやAnthropicなどIPO前の人工知能研究所との戦略的取引に起因しているとムーディーズは指摘した。
-両社はAIラボに数十億ドルを投資し、その結果、同じ企業のクラウドコンピューティングに多額の費用を費やし、ムーディーズが表現する循環型AIエコシステムを構築した。
-ムーディーズは、業界最大手企業の多くが同じAI顧客と将来の需要についての同じ想定にますます依存しているため、関係が重複することでリスクが高まると述べた。
-それでも、ハイテク大手にはそれらのリスクを相殺するのに役立つ大きな強みがある。
-AI コンピューティングの需要は依然として堅調で、クラウド ビジネスは成長を続けており、ハイパースケーラーは予測可能な収益をもたらすはずの数千億ドルの長期顧客契約を締結しています。これらの取引は、消費ブームのさなかにも関わらず、業界の概ね好調な信用プロフィールを支えている。
-それでもムーディーズによると、投資家はハイテク業界の財務状況がクラウド時代には見られなかった構造変化を遂げていることを認識すべきだという。
-格付け会社は「投資家はこれらの企業が適切な投資収益率を実現できるかどうかにますます注目するだろう」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
-    publishedAt: "2026-07-24T18:20:17+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "cdc-says-massive-cyclospora-outbreak-is-5149adc4",
-    title: "CDC says massive cyclospora outbreak is now in nine states",
-    titleJa: "CDCは、シクロスポラの大規模発生が現在9つの州で発生していると発表",
-    summaryJa: "新たに連携したイリノイ、カンザス、オクラホマ、ペンシルベニアの4州が、インディアナ、ケンタッキー、オハイオ、ウェストバージニア、そして大打撃を受けたミシガンに加わる。",
-    bodyOriginal: `The nation's largest multistate outbreak of cyclosporiasis linked to shredded iceberg lettuce has expanded to nine states, the Centers for Disease Control and Prevention said Friday.
-The four newly linked states — Illinois, Kansas, Oklahoma and Pennsylvania – join Indiana, Kentucky, Ohio, West Virginia and hard-hit Michigan. Cyclospora is a microscopic parasite that typically infects people through contaminated food or water and causes cyclosporiasis, a gastrointestinal illness that can result in symptoms including severe diarrhea. Patients can require hospitalization, but no deaths have been recorded related to the parasite this year.
-The outbreak is already the largest of cyclosporiasis reported in the U.S. this year, with thousands of illnesses recorded nationwide. That is well above the roughly 200 to 1,000 cases typically reported annually.
-Meanwhile, the Food and Drug Administration is investigating a separate cyclosporiasis outbreak linked to an unidentified food product or products. The U.S. is trying to investigate the sources of the parasite and contain its spread amid confusion over its response to the outbreak and staffing cuts that some experts say made it harder to curb it.
-U.S. health and food regulators have zeroed in on shredded iceberg lettuce supplied by Taylor Farms.
-Mexican health authorities on Thursday said that samples of lettuce and water from Taylor Farms' plant in central Mexico tested negative for cyclospora. However, that result does not disprove the Food and Drug Administration's earlier identification as Taylor Farms de Mexico as the likely source of the outbreak.
-The earliest cases began showing symptoms in mid-May. Moreover, the long incubation period for infection means that the crop responsible would have been distributed weeks ago.
-Last week, the FDA said that the produce giant supplied the shredded iceberg lettuce to the Taco Bell restaurants where people ate before becoming ill. Taylor Farms issued a voluntary recall for all iceberg lettuce sourced from its Guanajuato, Mexico, facility, and Taco Bell pulled the affected lettuce from its restaurants.
-The CDC has so far tallied 1,947 people infected with cyclospora who also reported eating at Taco Bell in the nine states. Illnesses in the outbreak tied to iceberg lettuce began on June 22 and have continued through July 20, the CDC said. The federal count has lagged behind state tallies, so some of the states hit by the outbreak have reported much higher numbers of infections.
-But Taylor Farms has drawn criticism for its response to the outbreak. Some health experts blasted its recall notice, which included abbreviations and did not allow consumers to understand easily if they had bought or eaten any product that was at risk.
-After the FDA reported a false positive of lettuce samples from Taylor Farms on Sunday, the company issued a statement saying that the health agency had apologized. The FDA later clarified that it had not apologized to Taylor Farms, and the company deleted the statement on X, although it is still available on its website. The agency also said it still considered the company's iceberg lettuce the likely source of the outbreak.
-Taylor Farms supplies lettuce and other produce to major retailers such as Walmart, Target and Whole Foods, as well as restaurant chains including Taco Bell.`,
-    bodyJa: `アメリカ疾病予防管理センターは金曜日、細切りアイスバーグレタスに関連する複数の州で発生したシクロスポラ症の国内最大規模の発生が9つの州に拡大したと発表した。
-新たに連携したイリノイ、カンザス、オクラホマ、ペンシルベニアの4州が、インディアナ、ケンタッキー、オハイオ、ウェストバージニア、そして大打撃を受けたミシガンに加わる。シクロスポラは、通常、汚染された食品や水を介して人々に感染し、重度の下痢などの症状を引き起こす胃腸疾患であるシクロスポラ症を引き起こす微細な寄生虫です。患者は入院を必要とする可能性があるが、今年はこの寄生虫に関連した死亡は記録されていない。
-この流行はすでに米国で今年報告されたシクロスポリア症としては最大規模であり、全米で数千件の発生が記録されている。これは、通常年間報告されるおよそ200～1,000件の症例をはるかに上回っている。
-一方、食品医薬品局は、未確認の食品に関連した別のシクロスポリア症の発生を調査している。米国は、感染拡大への対応を巡る混乱と人員削減により感染を抑えることが困難になったと一部の専門家が指摘する中、寄生虫の発生源を調査し、感染拡大を阻止しようとしている。
-米国の保健・食品規制当局は、テイラー・ファームズが供給する細切りアイスバーグ・レタスに焦点を当てた。
-メキシコ保健当局は木曜日、メキシコ中部にあるテイラー・ファームズの工場から採取したレタスと水のサンプルはシクロスポラ検査で陰性だったと発表した。しかし、この結果は、メキシコのテイラー農場が発生源である可能性が高いと食品医薬品局が以前に特定したことを反証するものではない。
-最も初期の症例では5月中旬に症状が現れ始めた。さらに、感染の潜伏期間が長いということは、原因作物が数週間前に流通していたであろうことを意味する。
-FDAは先週、食品大手がタコベル・レストランに細切りアイスバーグレタスを供給し、人々が発症する前にそこで食事をしていたと発表した。テイラー・ファームズは、メキシコのグアナファトにある自社施設から供給されるすべてのアイスバーグ・レタスの自主回収を発表し、タコベルは該当のレタスをレストランから撤去した。
-CDCはこれまでに9州でタコベルで食事をしたと報告したシクロスポラ感染者1,947人を集計している。 CDCによると、アイスバーグレタスに関連した病気の発生は6月22日に始まり、7月20日まで続いたという。連邦政府の集計は州の集計に遅れをとっているため、感染拡大に見舞われた州の一部ではさらに多くの感染者数が報告されている。
-しかし、テイラー・ファームズは感染拡大への対応で批判を呼んでいる。一部の健康専門家は、そのリコール通知には略語が含まれており、リスクのある製品を購入または食べたかどうかを消費者が簡単に理解できないと非難した。
-日曜日にFDAがテイラー・ファームズからのレタスサンプルの誤検知を報告したことを受け、同社は保健当局が謝罪したとの声明を発表した。 FDAはその後、テイラー・ファームズに対して謝罪していないと明らかにし、同社はXに関する声明を削除したが、ウェブサイトには今でも閲覧できる。同庁はまた、同社のアイスバーグレタスが感染源の可能性が依然として高いと考えていると述べた。
-Taylor Farms は、ウォルマート、ターゲット、ホールフーズなどの大手小売店や、タコベルなどのレストラン チェーンにレタスやその他の農産物を供給しています。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/24/cyclospora-cdc-says-outbreak-is-in-nine-states.html",
-    publishedAt: "2026-07-24T17:32:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "faisal-islam-the-uk-s-trump-trade-deal-n-1e49e3fe",
-    title: "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
-    titleJa: "ファイサル・イスラム氏：英国のトランプ貿易協定はもはや世界に勝るものとは思えない",
-    summaryJa: "ファイサル・イスラム氏：英国のトランプ貿易協定はもはや世界に勝るものとは思えない- 公開されました",
-    bodyOriginal: `Faisal Islam: The UK's Trump trade deal no longer looks world-beating
-- Published
-It has been a long road for President Donald Trump as he looks for a justification to erect a tariff wall around the US, including against key allies.
-From the opioid crisis to illegal migration, then the need to bring manufacturing back to America's shores, the list goes on.
-Through Trump's second term, there has been a new justification almost every month for the trade levies he is seeking to place on allies.
-Some have been overturned by the courts, others by economics and some even by their own logic. And so, Trump has now turned to effectively accusing dozens of trade partners of trading in goods that have been produced using forced labour.
-These are "tariffs in search of an authority", as one industry figure put it. The forced labour line shores up President Trump's tariffs against a challenge from Congress or the courts.
-In practice, the levies are curiously similar by country to a previous round of tariffs imposed supposedly for completely different reasons.
-The good news for the UK is that the regime effectively remains the same as before.
-What has changed is that our nearest neighbours in the European Union now have a much better deal than before, and in turn are in a better situation than the UK.
-While the UK and the EU each appear to have a 10% rate, the EU's is a flat rate, while the UK's will apply alongside other tariffs, in a range of goods including footwear and textiles.
-The government has struck effective side deals on medicines, steel, aluminium, cars and, with the help of King Charles, whisky.
-At the end of this process however the overall trade-weighted effective tariff rate for the EU (8.5%) could end up a bit lower than the UK's (6.8%).
-It should not matter that much, but the help given by doing the first deal, and by post-Brexit trade freedoms, looks to have been short-lived.
-The British Chambers of Commerce trade expert William Bain points to the competitive advantage for EU exporters into the US in some sectors.
-The EU has secured better treatment because it has passed a ban on forced labour goods, which the UK has not.
-This is not an accusation on the use of forced labour in supply chains. It is about the passing of specific legislation, mirroring the US ban on products that have used forced labour in supply chains.
-US hits dozens of countries with new wave of tariffs
-- Published6 hours ago
-What tariffs has Trump introduced and why?
-- Published11 hours ago
-There should be scope for a better deal for the UK, but it raises an interesting question about whether the government will pursue an EU-style ban. This is widely seen as a backdoor way to target China, in particular for conditions in its Xinjiang province.
-Last October, external the government said it "remained firmly opposed to the use of state-imposed forced labour", but that it was "considering how best to reflect this position," citing "operational and legal complexities".
-Since then, the UK has welcomed imports of Chinese cars, and is exploring a services trade deal with the country. The relationship with China has been a balancing act for the government.
-This is also one of the global stories of the tariff wars. As the US repeatedly changes its rationale for tariffs, the rest of the world is focused on trading with each other. For example, Canada increased its trade with the rest of the world by more than it lost from the US.
-China's total dollar trade with the US is flat in the first half of this year versus last year. Across the world it is up 21%, including 14% with the EU, 11% with the UK, and 24% with Africa.
-There could be pressure now to legislate for a formal ban on forced labour products. Successive governments have opted for a lighter voluntary due diligence regime.
-Will the US force a change in the UK and elsewhere, and what might it offer in return?
-Or the UK may opt to keep its precarious geopolitical position by sticking to its existing deals in medicines, metals and cars.`,
-    bodyJa: `ファイサル・イスラム氏：英国のトランプ貿易協定はもはや世界に勝るものとは思えない
-- 公開されました
-主要同盟国に対するものも含め、米国の周囲に関税の壁を築く正当性を模索するドナルド・トランプ大統領にとって、これは長い道のりだった。
-オピオイド危機から不法移民、そして製造業をアメリカ本土に戻す必要性まで、リストは続きます。
-トランプ大統領の2期目を通して、同氏が同盟国に課そうとしている貿易税の新たな正当化がほぼ毎月出てきた。
-裁判所によって覆されたものもあれば、経済学によって覆されたもの、さらには独自の論理によって覆されたものもあります。そこでトランプ大統領は現在、数十の貿易相手国を強制労働を使って生産された商品を取引していると事実上非難する方向に舵を切った。
-ある業界関係者が言うように、これらは「権威を求めた関税」だ。強制労働の規定は、議会や裁判所からの異議に対抗してトランプ大統領の関税を強化するものである。
-実際には、この課徴金は、まったく異なる理由で課せられたとされる前回の関税と、不思議なことに国ごとに似ている。
-英国にとって良いニュースは、体制が事実上以前と同じままであることだ。
-何が変わったかというと、欧州連合の最も近い隣国が以前よりもはるかに良い協定を結んでおり、ひいては英国よりも良い状況にあるということです。
-英国とEUはそれぞれ10%の税率を課しているようだが、EUは一律税率であるのに対し、英国は履物や繊維製品を含む幅広い品目に他の関税と並行して適用される。
-政府は医薬品、鉄鋼、アルミニウム、自動車、そしてチャールズ国王の援助を受けてウイスキーに関して効果的なサイド取引を締結した。
-ただし、このプロセスの終了時点では、EU の全体的な貿易加重実効関税率 (8.5%) は英国 (6.8%) よりも若干低くなる可能性があります。
-それはそれほど重要ではないはずだが、最初の合意の締結とEU離脱後の貿易の自由による助けは長続きしなかったようだ。
-英国商工会議所の貿易専門家ウィリアム・ベイン氏は、一部の分野では米国へのEU輸出業者の競争上の優位性を指摘する。
-EUは強制労働用品の禁止を可決したが、英国は可決しなかったため、より良い待遇を確保した。
-これはサプライチェーンにおける強制労働の使用を告発するものではありません。これはサプライチェーンで強制労働を使用した製品に対する米国の禁止を反映した特定の法案の可決に関するものである。
-米国、新たな関税の波で数十カ国を打撃
-- 6 時間前に公開
-トランプ大統領はどのような関税を導入しましたか?またその理由は何ですか?
-- 11 時間前に公開
-英国にとってより良い合意の余地はあるはずだが、政府がEUスタイルの禁止を追求するかどうかについて興味深い疑問が生じる。これは中国、特に新疆ウイグル自治区の状況を標的にする裏口的な手段として広く見られている。
-昨年10月、政府は対外的に「国家が強制する強制労働の利用には断固として反対し続ける」ものの、「運営上および法的な複雑さ」を理由に「この立場をどのように反映するのが最善かを検討している」と述べた。
-それ以来、英国は中国車の輸入を歓迎しており、同国とのサービス貿易協定の締結を模索している。中国との関係は政府にとってバランスを取る役割を果たしてきた。
-これは関税戦争の世界的な物語の一つでもあります。米国が関税の根拠を繰り返し変更する中、世界の他の国々は相互の貿易に焦点を当てている。たとえば、カナダは米国から失った貿易額以上に、世界の他の国々との貿易を増やしました。
-中国の対米国ドル貿易総額は、今年上半期は昨年と比べて横ばいであった。世界中で 21% 増加しており、その中には EU で 14%、英国で 11%、アフリカで 24% が含まれています。
-強制労働製品の正式な禁止を法制化するよう圧力がかかる可能性がある。歴代政府は、より軽い自主的デューデリジェンス制度を選択してきました。
-米国は英国や他の国に変化を強制するだろうか、そしてその見返りに何を提供する可能性があるだろうか？
-あるいは、英国は医薬品、金属、自動車に関する既存の取引に固執することで、不安定な地政学的立場を維持することを選択するかもしれない。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-24T14:02:26+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d6/live/046766f0-8768-11f1-aec4-5d4d96e3f4ec.jpg",
-    readTime: 4,
-  },
-  {
-    id: "the-30-year-treasury-yield-is-closing-in-de87adfc",
-    title: "The 30-year Treasury yield is closing in on 5.2%. A surge to 6% could slam stocks.",
-    titleJa: "30年米国債利回りは5.2％に近づいている。 6％まで上昇すれば株価は暴落する可能性がある。",
-    summaryJa: "長期債の利回りが急上昇する可能性が高まっており、人気の長期国債ETFやTIPS ETFの損失がさらに拡大する恐れがある。",
-    bodyOriginal: `Long-bond yield spike is increasingly possible — threatening to deepen losses for popular long-term Treasury and TIPS ETFs.`,
-    bodyJa: `長期債の利回りが急上昇する可能性が高まっており、人気の長期国債ETFやTIPS ETFの損失がさらに拡大する恐れがある。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-30-year-treasury-yield-is-closing-in-on-5-2-a-surge-to-6-could-slam-stocks-fa9631fb?mod=mw_rss_topstories",
-    publishedAt: "2026-07-24T13:44:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-04475414",
-    readTime: 2,
   },
 ];
 
