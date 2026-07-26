@@ -15,6 +15,282 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "gatwick-airport-left-without-running-wat-c7f60023",
+    title: "Gatwick Airport left without running water after major outage",
+    titleJa: "ガトウィック空港は大規模停電で断水状態に",
+    summaryJa: "ガトウィック空港は大規模停電で断水状態に- 公開されました",
+    bodyOriginal: `Gatwick Airport left without running water after major outage
+- Published
+Passengers at both terminals of Gatwick Airport are being affected by a water supply issue, with toilets reported to be out of order and restaurants closed.
+In a statement on X, the airport in West Sussex apologised for the disruption, external and said a problem in the Horley area was affecting supplies and was under investigation.
+Bottled water is being made available to passengers and staff and contingency measures have also been put in place, it said.
+SES Water, which covers the airport, has said its Bough Beech water treatment works was back up and running after an earlier power outage, but it still needs to treat the water before returning supplies.
+The company, which also supplies parts of Kent, Surrey and south London, said complications caused by a power outage at the treatment works meant some customers had experienced low water pressure or a temporary loss of supply.
+A spokesperson had earlier confirmed that Gatwick Airport was affected.
+In an update just before 13:45 BST, they said: "Our Bough Beech water treatment works are back up and running.
+"We now need to treat the water before returning services to normal as quickly as we possibly can."
+Gatwick said the supply issue was continuing to cause disruption on Sunday afternoon.
+In a statement, it said: "There is currently no water supply in either terminal.
+"Our staff are on hand to support passengers and provide assistance where needed, some restaurant partners have opened to provide additional seating."
+The airport said it was working closely with the water company to restore supplies as quickly as possible.
+'At least provide chairs'
+Earlier, passenger Paul Lee told the BBC he had not heard any announcements about the issue or seen bottled water being handed out.
+He said: "For people who need to go to the toilet, this isn't good, and still no announcement or official information - and the water they mentioned isn't being distributed.
+"I'm taking off soon, so that's fine, but for passengers in a few hours, this will be bad."
+Lee added that restaurants and lounges were shut but shops were open.
+Former MP and ex-CEO of UK Music Michael Dugher urged the airport on social media to "at least allow people to use the chairs in all the closed restaurants and bars".
+He said: "No water is one thing but depriving people of somewhere to sit is another... families are having to sit on the floor."
+BBC reporter Adam Dowling, who was flying from Valencia to Gatwick, said his flight had been delayed because of the water supply disruption and passengers had been informed that landing slots were being moved around "to reduce the number of flights" coming in to Gatwick.
+The BBC has contacted Gatwick Airport to confirm if there has been any flight disruption.
+Roger Wood, from Tunbridge Wells in Kent, said he thought his friends were joking when they told him there were no restaurants or bars open in Gatwick's south terminal.
+When he arrived to meet them ahead of his flight on Sunday, he found "there was no water at all - no Nando's, no Wetherspoon, all of those places were completely shut and stopping people coming in as there was no fresh water or ability to wash hands".
+He told the BBC: "Normally Wetherspoon is absolutely packed but there were staff on every door turning people away, including people asking for some hot food.
+"The only place you could buy something was places like Pret and Itsu where it was packaged food, or shops."
+Wood said people could go in the toilets but there was no way to wash hands and conditions had grown worse in the hour or two they were there.
+People heading to the airport for flights have been advised not to arrive early.
+A statement from Easyjet said: "Due to a water supply issue affecting London Gatwick Airport, bag drop desks are temporarily opening two hours before departure instead of three hours."
+The airline said: "Please do not arrive earlier, as you will not be able to drop off your bags or enter the departure lounge until bag drop opens."
+SES Water confirmed the Kent postcodes TN8 and TN11 and parts of Surrey postcodes RH1, RH6 and RH10 had no water supply or low pressure. The company said it was delivering bottled water to vulnerable customers.
+Gatwick Airport and the local area also suffered water issues in July 2022, when low pressure caused by a burst water main affected 1,200 houses and closed toilet facilities at the airport.
+Get in touch
+Are you at Gatwick airport and been affected? Get in touch
+Follow BBC Sussex on Facebook, external, X, external, and Instagram, external and listen to BBC Radio Sussex on Sounds. Send your story ideas to southeasttoday@bbc.co.uk, external or WhatsApp us on 08081 002250.`,
+    bodyJa: `ガトウィック空港は大規模停電で断水状態に
+- 公開されました
+ガトウィック空港の両ターミナルの乗客は給水トラブルの影響を受けており、トイレは故障し、レストランは休業していると伝えられている。
+ウェストサセックス州の空港はＸに関する声明で、外部の混乱について謝罪し、ホーリー地域での問題が供給に影響を与えており、調査中であると述べた。
+ボトル入り飲料水は乗客と従業員に提供されており、緊急事態対策も講じられているという。
+空港を管轄するSESウォーターは、以前の停電の後、ボー・ブナの水処理施設は復旧して稼働しているが、供給を戻す前に水を処理する必要があると述べた。
+ケント州、サリー州、ロンドン南部の一部にも供給している同社は、処理施設での停電によって引き起こされた合併症により、一部の顧客が水圧低下や一時的な供給喪失に見舞われたと述べた。
+広報担当者はこれに先立ち、ガトウィック空港が影響を受けたことを認めていた。
+BST 13:45 直前の更新で、彼らは次のように述べました。「当社のブナ水処理施設は復旧し、稼働しています。
+「できる限り早くサービスを正常に戻す前に、水を処理する必要があります。」
+ガトウィック紙は、日曜午後も供給問題により混乱が続いていると述べた。
+同社は声明で「現在、どちらのターミナルにも水道は供給されていない。
+「当社のスタッフは乗客をサポートし、必要に応じてサポートを提供します。一部のレストランパートナーは追加の座席を提供するためにオープンしています。」
+空港は水道会社と緊密に連携し、供給をできるだけ早く復旧させるとしている。
+「せめて椅子を用意して」
+これに先立ち、乗客のポール・リーさんはBBCに対し、この問題に関するアナウンスは聞いていないし、ボトル入りの水が配られているのを見たこともないと語った。
+同氏は、「トイレに行きたい人にとって、これは良くないことだが、未だに発表や公式情報はなく、彼らが言及した水は配布されていない。
+「私はもうすぐ離陸するので大丈夫ですが、数時間後の乗客にとっては大変なことになります。」
+リー氏は、レストランやラウンジは閉まっていたが、店は開いていたと付け加えた。
+元国会議員でUKミュージックの元最高経営責任者（CEO）マイケル・ダガー氏はソーシャルメディアで空港に対し、「少なくとも閉鎖されているすべてのレストランやバーの椅子の使用を許可する」よう求めた。
+同氏は、「水がないことは問題だが、人々が座る場所を奪われることは別問題だ…家族は床に座らなければならない」と語った。
+バレンシアからガトウィックに飛んでいたBBCのアダム・ダウリング記者は、断水のため飛行機が遅れ、ガトウィックに到着する「便数を減らすために」着陸枠が変更されていると乗客に知らされたと述べた。
+BBCはガトウィック空港に連絡し、運航に乱れがあったかどうかを確認した。
+ケント州タンブリッジ・ウェルズ在住のロジャー・ウッドさんは、ガトウィック空港の南ターミナルには開いているレストランやバーがないと言われた友人たちが冗談を言っているのだと思ったと語った。
+日曜日の飛行機に先立って彼らに会うために到着したとき、彼は「水が全くなかった。ナンドスもウェザースプーンもなかった。それらの場所はすべて完全に閉鎖され、真水や手を洗う能力がなかったため、人々が来るのを妨げた」ことに気づいた。
+同氏はBBCに対し、「通常、ウェザースプーンは満員だが、どのドアにもスタッフがいて、温かい食べ物を求める人も含めて人々を追い返していた」と語った。
+「何かを買える場所は、プレットやイツのような包装食品かショップだけでした。」
+ウッド氏は、人々はトイレに行くことはできたが、手を洗う方法がなく、トイレにいた1～2時間で状況は悪化したと語った。
+飛行機に乗るために空港に向かう人は、早めに到着しないよう勧告されている。
+イージージェットは声明で「ロンドン・ガトウィック空港に影響を及ぼしている水道問題のため、手荷物預けデスクは一時的に出発の３時間前ではなく２時間前に営業している」と述べた。
+航空会社は「手荷物預かり所が開くまでは手荷物を降ろしたり、出発ラウンジに入ることができないため、早めに到着しないようにしてください」と述べた。
+SESウォーターは、ケント州の郵便番号TN8とTN11、およびサリー州の郵便番号RH1、RH6、RH10の一部で水道が供給されていないか、圧力が低いことを確認した。同社は、弱い立場にある顧客にボトル入りの水を配達していると述べた。
+ガトウィック空港と地元地域は、2022年7月にも水道本管の破裂による低圧で1,200戸の住宅が被害を受け、空港のトイレ施設が閉鎖された際に水問題に見舞われた。
+連絡する
+ガトウィック空港にいて影響を受けましたか?連絡する
+Facebook (外部)、X (外部)、および Instagram (外部) で BBC サセックスをフォローし、BBC ラジオ サセックス オン サウンドを聞いてください。ストーリーのアイデアを、southeasttoday@bbc.co.uk、社外、または WhatsApp (08081 002250) に送信してください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-26T13:44:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409a/live/99bb0920-88f6-11f1-8824-a9ae603ecd1c.jpg",
+    readTime: 5,
+  },
+  {
+    id: "ukraine-strikes-iranian-vessels-in-caspi-585e8921",
+    title: "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of 'hostile and criminal act'",
+    titleJa: "ウクライナ、カスピ海でイラン船舶を攻撃、テヘランはキエフを「敵対的かつ犯罪的行為」で非難",
+    summaryJa: "中東での戦争がウクライナ紛争と重なる恐れがあるため、イランは日曜日、テヘランにあるウクライナ外交官を呼び出し、カスピ海でのイラン商船への攻撃に抗議した。イランは、この攻撃により船員１名が死亡、数名が負傷したと発表した。イラン外務省は日曜早朝、テヘランのウクライナ臨時代理大使に苦情を申し立て、「『敵対的かつ犯罪的行為』に対するイランの強い抗議を伝えた」とイラン・イスラム共和国通信が報じた。",
+    bodyOriginal: `Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict.
+Iran said the attack left one sailor dead and injured several others. The country's foreign ministry complained to Ukraine's chargé d'affaires in Tehran early on Sunday and "conveyed Iran's strong protest over the 'hostile and criminal act.'" Iran's Islamic Republic News Agency reported.
+In a post on X highlighting Ukraine's attacks on distant Russian targets, Ukrainian President Volodymyr Zelenskyy said Saturday that his country's forces "also achieved very strong results with long‑range strikes in the Caspian Sea – including vessels used in military cargo shipments involving Iran, as well as a warship."
+Russia has long used Iranian-designed Shahed drones in its war on Ukraine, a weapon that analysts sometimes refer to as "the poor man's cruise missile."
+But the latest attacks by Ukraine, combined with Saudi military strikes on Iran-backed Houthi targets in Yemen following the rebel group's attacks on Red Sea shipping in recent days, represent a widening of the Middle East conflict.
+Air defenses in Saudi Arabia reportedly intercepted two ballistic missiles from Yemen on Saturday.
+The fighting in the Red Sea and Caspian Sea took place during a pause in U.S. strikes on Iran after 13 straight nights of attacks.
+U.S. President Donald Trump has halted attacks on Iran for now to allow more room for diplomacy, U.S. ambassador to the United Nations Mike Waltz told Fox News on Sunday.
+"He's giving talks some space, he's giving it a little bit of room," Waltz said.
+The New York Times cited administration officials as saying that Trump has set aside, at least for now, plans to sharply escalate U.S. military assaults against Iran, amid concerns over falling stockpiles of Patriot anti-missile interceptors and other air defense munitions.
+The U.S. military said on Saturday that its naval blockade against Iran "remains in full effect" but did not explain why it halted its attacks. There were also no reports of attacks from Iran on neighboring countries.
+Naval blockade
+U.S. Central Command said late Saturday its naval blockade against Iran remains in full effect.
+"As of July 25, CENTCOM has redirected 12 commercial vessels trying to run the blockade, disabled 2 that didn't comply, and boarded 2 to ensure total compliance," it said in a post on X late Saturday.
+Meanwhile, Iran's Islamic Revolutionary Guard Corps Navy said it has "established complete authority over the Strait of Hormuz." In a post early Sunday on the Telegram social media platform, it said it forced six ships to anchor following warnings over the last 24 hours.
+While formal high-level negotiations between the U.S. and Iran have stalled, Iranian Foreign Ministry spokesman Esmail Baghaei said technical talks with Oman on the Strait of Hormuz continued over the weekend.
+Oil prices dropped Friday on a report that Pakistan is looking for a way to restart talks between the U.S. and Iran.
+Brent crude futures, the international benchmark, fell nearly 4% to close at $96.78 a barrel. U.S. West Texas Intermediate crude futures lost 3% to settle at $89.31 per barrel.
+Three sources told Reuters that Pakistan's effort to renew U.S.-Iran talks was backed by China.`,
+    bodyJa: `中東での戦争がウクライナ紛争と重なる恐れがあるため、イランは日曜日、テヘランにあるウクライナ外交官を呼び出し、カスピ海でのイラン商船への攻撃に抗議した。
+イランは、この攻撃により船員１名が死亡、数名が負傷したと発表した。イラン外務省は日曜早朝、テヘランのウクライナ臨時代理大使に苦情を申し立て、「『敵対的かつ犯罪的行為』に対するイランの強い抗議を伝えた」とイラン・イスラム共和国通信が報じた。
+ウクライナのヴォロディミル・ゼレンシキー大統領は土曜日、遠く離れたロシアの目標に対するウクライナの攻撃を強調するXへの投稿の中で、同国軍が「軍艦だけでなくイランとの軍事貨物輸送に使用された船舶も含め、カスピ海での長距離攻撃でも非常に強力な成果を上げた」と述べた。
+ロシアは長年、イランが設計したシャヒド無人機を対ウクライナ戦争で使用しており、アナリストはこの兵器を「貧乏人の巡航ミサイル」と呼ぶこともある。
+しかし、最近のウクライナによる最近の攻撃は、ここ数日の紅海の船舶に対する反政府勢力による攻撃に続き、イエメンにあるイランが支援するフーシ派の標的に対するサウジアラビアの軍事攻撃と相まって、中東紛争の拡大を表している。
+サウジアラビアの防空部隊は土曜日、イエメンからの弾道ミサイル２発を迎撃したと伝えられている。
+紅海とカスピ海での戦闘は、13夜連続の米国によるイラン攻撃の一時停止中に起こった。
+マイク・ウォルツ国連大使は日曜、フォックスニュースに対し、ドナルド・トランプ米大統領は外交の余地を増やすため、当面はイランへの攻撃を停止したと語った。
+「彼は交渉にある程度のスペースを与えている、少しだけ余地を与えている」とウォルツ氏は語った。
+ニューヨーク・タイムズは、対ミサイル迎撃機パトリオットやその他の防空兵器の備蓄が減少する懸念がある中、トランプ大統領がイランに対する米軍攻撃を急激にエスカレートさせる計画を少なくとも当面は棚上げしたと政権当局者の発言を引用した。
+米軍は土曜日、イランに対する海上封鎖は「引き続き完全な効力を持っている」と述べたが、攻撃を中止した理由については説明しなかった。イランによる近隣諸国への攻撃の報告もなかった。
+海上封鎖
+米中央軍は土曜日遅く、対イラン海上封鎖は引き続き完全に有効であると発表した。
+「7月25日の時点で、CENTCOMは封鎖を実行しようとしていた12隻の商船を方向転換し、従わなかった2隻を無効にし、完全な遵守を確実にするために2隻に乗船した」と土曜日遅くのXへの投稿で述べた。
+一方、イランイスラム革命防衛隊海軍は「ホルムズ海峡に対する完全な権限を確立した」と述べた。ソーシャルメディアプラットフォームのテレグラムへの日曜早朝の投稿で、過去２４時間の警告を受けて６隻の船が停泊を余儀なくされたと述べた。
+米国とイラン間の正式なハイレベル交渉は行き詰まっているが、イラン外務省報道官エスマイル・バガエイ氏は、ホルムズ海峡におけるオマーンとの技術協議は週末も続いたと述べた。
+金曜日、パキスタンが米国とイランの交渉再開方法を模索しているとの報道を受け、原油価格が下落した。
+国際指標であるブレント原油先物は４％近く下落し、１バレル＝９６．７８ドルで取引を終えた。米国ウェスト・テキサス・インターミディエイト原油先物は３％下落し、１バレル＝８９．３１ドルで落ち着いた。
+関係筋３人はロイターに対し、米国・イラン協議再開に向けたパキスタンの取り組みは中国の支援を受けていると語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html",
+    publishedAt: "2026-07-26T13:34:14+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "there-s-a-technical-triple-threat-for-st-9cc87835",
+    title: "There’s a technical ‘triple threat’ for stocks, but also places investors can hide",
+    titleJa: "株式には技術的な「三重の脅威」があるが、投資家が隠れられる場所もある",
+    summaryJa: "米国債利回りと原油価格が急上昇し、ドルが長期上昇トレンドに向けての突破を確認したことで、S&P 500は主要チャートの支持線を下回った。",
+    bodyOriginal: `Treasury yields and oil prices surged, and the dollar confirmed the breakout toward a longer-term uptrend, to push the S&amp;P 500 below key chart support.`,
+    bodyJa: `米国債利回りと原油価格が急上昇し、ドルが長期上昇トレンドに向けての突破を確認したことで、S&P 500は主要チャートの支持線を下回った。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories",
+    publishedAt: "2026-07-26T13:00:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-84992812",
+    readTime: 2,
+  },
+  {
+    id: "the-treasury-market-is-sending-fed-chair-1f0deaa0",
+    title: "The Treasury market is sending Fed Chair Kevin Warsh a clear warning about rates",
+    titleJa: "国債市場はFRB議長のケビン・ウォーシュに金利について明確な警告を発している",
+    summaryJa: "米国債利回りの上昇は、市場がインフレについていかに「非常に懸念している」か、そしてFRBが強硬な対話を行動で裏付けるかどうかを示している",
+    bodyOriginal: `Rising Treasury yields show how “enormously worried” the market is about inflation — and whether the Fed will back up its tough talk with action`,
+    bodyJa: `米国債利回りの上昇は、市場がインフレについていかに「非常に懸念している」か、そしてFRBが強硬な対話を行動で裏付けるかどうかを示している`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-treasury-market-is-sending-fed-chair-kevin-warsh-a-clear-warning-about-rates-d0026da9?mod=mw_rss_topstories",
+    publishedAt: "2026-07-26T12:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-92198502",
+    readTime: 2,
+  },
+  {
+    id: "100-days-until-midterm-election-dccc-cha-091a50ad",
+    title: "100 days until midterm election: DCCC Chair DelBene says Democrats have the momentum",
+    titleJa: "中間選挙まであと100日：DCCCのデルベーネ議長、民主党には勢いがあると発言",
+    summaryJa: "ドナルド・トランプ大統領の支持率は依然として低く、インフレは上昇しており、イラン戦争は長引いており、ガソリン価格は1ガロン当たり4ドルを超えて再び上昇しており、即時の緩和は見込めない。この中には国にとって悪いニュースもあるかもしれないが、上下両院で過半数を取り戻したい民主党にとっては、2026年の中間選挙に向けた一連の出来事がチャンスを生む可能性がある。そして、民主党議会選挙委員会のスーザン・デルベネ委員長（ワシントン州民主党）によると、投票日まであと100日となっているが、党は順調に進んでいるという。",
+    bodyOriginal: `President Donald Trump's approval ratings remain low, inflation has been elevated, and the Iran war is dragging on, sending gas prices back up over $4 per gallon with no immediate relief in sight.
+Some of this may be bad news for the country, but for Democrats, eager to win back majorities in the House and the Senate, the sequence of events leading up to the 2026 midterm election could create opportunities. And according to Democratic Congressional Campaign Committee Chair Suzan DelBene, D-Wash., the party is sitting pretty with 100 days to go until Election Day.
+"We have great candidates. We have the momentum. We have the message," DelBene said in an interview with CNBC. "And I think the thing that's been really critical too is that the American people are with us. They want folks who are going to stand up for the issues they're facing and support them. And Republicans don't care. They are a rubber stamp for Donald Trump."
+Democrats have been laser-focused on cost-of-living concerns this election cycle, and DelBene said they'll continue to hammer Trump and Republicans on his handling of the economy to win back the House, which Republicans have narrowly controlled for the last two years. Democrats' chances of winning a Senate majority are slimmer.
+A recent Fox News poll found Democrats up seven percentage points over Republicans on a generic ballot, while a survey from Emerson College Polling gave them an 11-percentage-point edge. CNBC's All America Economic Survey, conducted earlier this month, found voters would slightly prefer Democrats to take win control of Congress this November.
+"Absolutely the number one issue across the country is affordability. Families are struggling with housing, food, healthcare, childcare, energy costs, gas prices," DelBene said. "It's hard when you're just trying to get by day-to-day to think about anything else."
+The National Republican Campaign Committee did not make its chair, Rep. Richard Hudson, R-N.C., available for an interview. Mike Marinella, an NRCC spokesperson, pushed back on Democratic midterm narratives.
+"Republicans have a more favorable map, stronger candidates, a deep fundraising advantage, and a winning message that serves as a stark contrast to Democrats' radical turn to socialism and messy infighting," Marinella said.
+While Democrats do appear to have a slight advantage to win the House this year, it hasn't been all good news for the DCCC of late.
+The party's campaign arm has taken fire from within its ranks over its choice to get involved in contested primary elections in some parts of the country, where in some cases DCCC-backed candidates lost to more liberal challengers.
+Last week, Amish Shah, a doctor and former Arizona state representative, bested the DCCC-backed Marlene Galán-Wood in the Democratic primary in the state's 1st congressional district, one of the most competitive seats this year and a potential key to either party winning a majority.
+Some Democrats in response have called for the DCCC to stay out of primaries, or to change its internal processes for endorsing candidates.
+DelBene shrugged off the criticisms.
+"We have folks who think we should, folks who think we shouldn't," DelBene said, of the debate around the DCCC's intraparty interventions. "I think the key is the stakes are incredibly high this election, and our job is to make sure we win all across the country. And we're going to win in these districts across the country too."
+Democrats must also contend with their surging progressive wing, propelled by the Democratic Socialists of America. DSA-backed candidates have toppled incumbent Democrats in states like New York and California, and many have an anti-establishment ethos that could cause headaches for party leaders if they do win back a House majority.
+DelBene, however, said the ideological diversity of the party's candidates is a strength.
+"I think if you look across the candidates that we have running in these swing districts across the country, they are all unique fits for their districts. We've got folks who've been supported by Bernie [Sanders], to the Blue Dogs," she said, referencing a congressional caucus of moderate Democrats. "But the key is having the candidate who is authentic, independent minded and focused on the needs of their community."
+Democrats also lag the NRCC in fundraising and are battling persistently low approval ratings. According to the poll aggregator RealClearPolling, Democrats were viewed equally as unfavorably as their Republican colleagues through June of this year.
+And they must contend with newly drawn congressional districts throughout the country where Republicans look to net more than a handful of seats.
+But with Trump's approval on the rocks and Republicans seeking to retain control amid economic uncertainty for many voters, Democrats are bullish that some of the GOP-drawn seats in states like Florida and Texas actually provide more pickup opportunities.
+"They've decided that the only way they're going to stay in power is to rig the system," DelBene said of Republican mid-decade redistricting efforts.
+"People hate it. it's actually motivating a lot of voters in places like Texas and Florida and across the country because it has nothing to do with the challenges that they're facing," she said. "They see that Republicans are trying to pick their voters versus letting voters pick their representatives."`,
+    bodyJa: `ドナルド・トランプ大統領の支持率は依然として低く、インフレは上昇しており、イラン戦争は長引いており、ガソリン価格は1ガロン当たり4ドルを超えて再び上昇しており、即時の緩和は見込めない。
+この中には国にとって悪いニュースもあるかもしれないが、上下両院で過半数を取り戻したい民主党にとっては、2026年の中間選挙に向けた一連の出来事がチャンスを生む可能性がある。そして、民主党議会選挙委員会のスーザン・デルベネ委員長（ワシントン州民主党）によると、投票日まであと100日となっているが、党は順調に進んでいるという。
+デルベーネ氏はCNBCとのインタビューで、「我々には素晴らしい候補者がいる。我々には勢いがある。我々にはメッセージがある」と語った。 「そして、本当に重要なことは、アメリカ国民が私たちとともにいることだと思います。彼らは、自分たちが直面している問題のために立ち上がって自分たちをサポートしてくれる人々を望んでいます。そして共和党は気にしません。彼らはドナルド・トランプのゴム印なのです。」
+民主党は今回の選挙サイクルで生活費への懸念に焦点を絞っており、デルベネ氏は、過去２年間共和党が僅差で支配してきた下院を取り戻すために、引き続きトランプ大統領と共和党の経済政策への対応を厳しく非難するつもりだと述べた。民主党が上院過半数を獲得する可能性は低い。
+最近のFOXニュース世論調査では、一般投票で民主党が共和党を7ポイント上回ったが、エマーソン大学世論調査の調査では民主党が11ポイントの差をつけていた。 CNBCが今月初めに実施した全米経済調査では、有権者は今年11月に民主党が議会を掌握することをわずかに望んでいると判明した。
+「国全体で一番の問題は間違いなく、手頃な価格だ。家族は住宅、食料、医療、保育、光熱費、ガソリン価格で苦労している」とデルベーネ氏は語った。 「何か他のことを考えて日々を過ごしていくのは難しいです。」
+全国共和党選挙委員会は、委員長のリチャード・ハドソン下院議員（共和党、ノースカロライナ州）のインタビューに応じなかった。 NRCCの広報担当者マイク・マリネラ氏は、民主党の中間期の見解を否定した。
+マリネラ氏は、「共和党はより有利な地図、より強力な候補者、資金調達面での大きな優位性、そして民主党の社会主義への急進的な方向転換や混乱した内紛とは全く対照的な勝利のメッセージを持っている」と述べた。
+今年は民主党が下院での勝利に若干有利に見えるが、最近のDCCCにとって良いニュースばかりではない。
+同党の選挙運動部門は、国内の一部地域で争われている予備選挙に参加するという選択をめぐって党内から激しい非難を浴びており、DCCCが支援する候補者がよりリベラルな挑戦者に敗れたケースもあった。
+先週、医師で元アリゾナ州下院議員のアーミッシュ・シャー氏が、今年最も競争が激しい議席の一つであり、両党が過半数を獲得する鍵となる可能性がある同州第1下院選挙区の民主党予備選で、DCCCが支援するマレーネ・ガラン＝ウッド氏を破った。
+これに対し一部の民主党議員は、DCCCが予備選に参加しないこと、あるいは候補者を支持するための内部プロセスを変更することを求めている。
+デルベネ氏は批判を無視した。
+デルベーネ氏は、DCCCの党内介入を巡る議論について、「すべきだと考える人もいれば、すべきではないと考える人もいる」と語った。 「重要なのは、今回の選挙の賭け金が信じられないほど高いということだと思います。私たちの仕事は、全国各地で確実に勝利することです。そして、全国のこれらの選挙区でも勝つつもりです。」
+民主党はまた、アメリカ民主社会主義者が推進する、急増する進歩派とも戦わなければならない。 DSAが支援する候補者はニューヨーク州やカリフォルニア州などの州で現職民主党を打倒しているが、その多くは反体制的な精神を持っており、もし下院過半数を取り戻した場合には党指導者にとって頭痛の種となる可能性がある。
+しかしデルベーネ氏は、党候補者のイデオロギーの多様性が強みだと述べた。
+「全国の激戦区で私たちが立てている候補者を見てみると、みんなそれぞれの選挙区にぴったりのユニークな候補者だと思います。バーニー（サンダース）氏からブルードッグスまで支持されてきた人たちがいます」と、民主党穏健派の議会議員団に言及しながら彼女は語った。 「しかし重要なのは、真正で独立心を持ち、コミュニティのニーズに焦点を当てた候補者を擁することです。」
+民主党は資金調達でもNRCCに遅れをとっており、支持率の低迷が続いている。世論調査集計会社RealClearPollingによると、今年6月までは民主党も共和党の同僚と同様に不利に見られていたという。
+そして、共和党が数議席以上の獲得を目指している全米で新たに定められた下院選挙区と争わなければならない。
+しかし、トランプ大統領の承認が暗礁に乗り上げ、多くの有権者の経済不安の中で共和党が主導権を維持しようとしていることから、民主党はフロリダやテキサスなどの州で共和党が獲得した議席の一部が実際にはより多くの獲得機会を提供すると強気だ。
+「彼らは権力の座を維持する唯一の方法は制度を不正操作することだと判断した」とデルベーネ氏は共和党が10年半ばに行った選挙区再編の取り組みについて語った。
+「人々はそれを嫌っています。実際、テキサスやフロリダのような場所や全米各地で、多くの有権者を動機付けています。なぜなら、それは彼らが直面している課題とは何の関係もないからです」と彼女は語った。 「彼らは、共和党が有権者に代表者を選ばせるのではなく、有権者を選ぼうとしていると認識している。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/26/election-midterms-dccc-chair-delbene-democrats.html",
+    publishedAt: "2026-07-26T12:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "top-wall-street-analysts-back-these-3-st-5f25234a",
+    title: "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+    titleJa: "ウォール街のトップアナリストが長期的な成長の可能性を理由にこれら3銘柄を支持",
+    summaryJa: "投資家が主要な決算発表や中東の地政学的緊張を評価する中、主要指数は依然として不安定な状況が続いている。長期的な視野を持つ投資家は、現在進行中の雑音を超えて、高い利益を生み出す有利な立場にある銘柄に焦点を当てる必要があります。この点で、ウォール街のトップアナリストの推奨は、堅調な成長の機会を持つ銘柄を最終候補に挙げるのに役立ちます。これらの専門家は、長期的な成長の可能性に焦点を当て、企業に影響を与えるすべてのマクロおよびミクロ要因の詳細な分析を実施します。",
+    bodyOriginal: `Major indexes remain volatile as investors assess key earnings releases and geopolitical tensions in the Middle East. Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.
+In this regard, recommendations of top Wall Street analysts can help shortlist stocks with robust growth opportunities. These experts conduct an in-depth analysis of all the macro and micro factors affecting a company, focusing on its long-term growth potential.
+Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance.
+CrowdStrike
+CrowdStrike Holdings is a cloud-native cybersecurity provider. The company recently announced an expanded partnership with Schwarz Digits to bring its Falcon platform to European enterprises.
+After hosting several European investor meetings with the CrowdStrike CFO, Stifel analyst Adam Borg reiterated a buy rating on CRWD stock and increased his price target to $230 from $220.
+The five-star analyst said that the meetings increased his confidence about CrowdStrike being an "important, well-positioned cybersecurity platform vendor that is an AI beneficiary given its expansive portfolio, unique data set, and ability to both secure AI and use AI to improve security."
+Among the key takeaways, Borg noted that AI is driving a major shift in cybersecurity demand as it presents software vulnerabilities that can be exploited by less sophisticated hackers with capabilities that were once limited to government-backed hacking groups. This has led to companies making cybersecurity a top priority, driving customer interest in CrowdStrike's new AI Detection & Response solution and its broader security platform.
+Borg added that AI-driven demand is expanding CrowdStrike's pipeline and supporting confidence in the company's higher fiscal 2027 net new annual recurring revenue guidance issued last quarter. Overall, Borg believes that CrowdStrike has multiple growth drivers that can help maintain revenue growth in at least the high-teens and drive improved profitability in the years ahead.
+Borg ranks No. 651 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 65% of the time, delivering an average return of 15%. See CrowdStrike Ownership Structure on TipRanks.
+AST SpaceMobile
+Moving on to AST SpaceMobile, a company building a global cellular broadband network in space. Recently, Piper Sandler analyst Alexander Potter initiated coverage of space-related stocks. While the analyst assigned AST SpaceMobile a buy rating with a price target of $100, he has a neutral stance on rocket builders SpaceX and Rocket Lab due to valuation concerns.
+"We prefer ASTS, due to a more palatable valuation, and a clearer path to EBITDA upside," said Potter.
+The five-star analyst highlighted that AST SpaceMobile builds satellites that connect directly to smartphones, ensuring network connectivity for users everywhere and enabling applications like video calls, streaming, and gaming. Potter added that ASTS' technology helps Mobile Network Operators, or MNOs, expand coverage and offer add-on services to travelers and users in remote locations.
+Additionally, Potter noted that ASTS has collaborated with and received equity investments from some of the largest MNOs, including AT&T, Vodafone, Verizon and Rakuten. He explained that by working with these carriers instead of competing against them, ASTS gains access to more than 3 billion subscribers.
+Potter ranks No. 708 among more than 12,300 analysts tracked by TipRanks. His ratings have been profitable 48% of the time, delivering an average return of 17.2%. See AST SpaceMobile Technical Analysis on TipRanks.
+Broadcom
+Finally, let's look at Broadcom, a provider of custom AI chips and networking solutions. Recently, Morgan Stanley analyst Joseph Moore reiterated a buy rating on Broadcom stock with a price target of $502.
+The five-star analyst is surprised by the underperformance of AVGO stock so far this year compared to its peers, especially given continued momentum in AI-driven demand. Moore cited concerns that competitor MediaTek could gain market share from Broadcom in Google's tensor processing unit chip business and investor preference for faster-growing AI chip names as reasons for the underperformance.
+While Moore acknowledged that MediaTek's role in Google's TPU business is growing, he contends that it is unlikely to disrupt Broadcom's position significantly. He expects Broadcom to continue to be the major TPU supplier, with about 80% market share. Overall, Moore believes that concerns about a decline in AVGO's market share to 50% or its eventual replacement seem premature.
+"AVGO should retain majority share, sustain strong AI growth, and remain a core compute winner, close behind NVDA," said Moore.
+The analyst explained that his bullish outlook on Broadcom is based on the company's solid advantage in high-bandwidth memory supply, chip packaging capabilities, and large-scale production. Moore also highlighted AVGO's dominance in AI ASIC chips, strong networking business, and new customer wins.
+Moore ranks No. 148 among more than 12,300 analysts tracked by TipRanks. His ratings have been successful 60% of the time, delivering an average return of 25.5%. See Broadcom Insider Trading Activity on TipRanks.`,
+    bodyJa: `投資家が主要な決算発表や中東の地政学的緊張を評価する中、主要指数は依然として不安定な状況が続いている。長期的な視野を持つ投資家は、現在進行中の雑音を超えて、高い利益を生み出す有利な立場にある銘柄に焦点を当てる必要があります。
+この点で、ウォール街のトップアナリストの推奨は、堅調な成長の機会を持つ銘柄を最終候補に挙げるのに役立ちます。これらの専門家は、長期的な成長の可能性に焦点を当て、企業に影響を与えるすべてのマクロおよびミクロ要因の詳細な分析を実施します。
+過去の業績に基づいてアナリストをランク付けするプラットフォーム、TipRanksによると、ウォール街のトッププロが好む3銘柄を紹介する。
+クラウドストライク
+CrowdStrike Holdings は、クラウドネイティブのサイバーセキュリティ プロバイダーです。同社は最近、Falcon プラットフォームを欧州企業に提供するため、Schwarz Digits との提携拡大を発表しました。
+クラウドストライク最高財務責任者（ＣＦＯ）と複数の欧州投資家会議を主催した後、スティフェルのアナリスト、アダム・ボルグ氏はＣＲＷＤ株の買い評価を繰り返し、目標株価を２２０ドルから２３０ドルに引き上げた。
+5つ星のアナリストは、今回の会合を通じて、CrowdStrikeが「その広範なポートフォリオ、独自のデータセット、AIを保護しAIを利用してセキュリティを向上させる能力を考慮すると、AIの恩恵を受ける重要で有利な立場にあるサイバーセキュリティプラットフォームベンダー」であるという確信が高まったと述べた。
+ボルグ氏は、重要なポイントの中で、AI がソフトウェアの脆弱性をもたらし、かつては政府支援のハッカーグループに限定されていた機能を備えた、より洗練されていないハッカーによって悪用される可能性があるため、AI がサイバーセキュリティの需要に大きな変化をもたらしていると指摘しました。これにより、企業はサイバーセキュリティを最優先事項とし、CrowdStrike の新しい AI Detection & Response ソリューションとその広範なセキュリティ プラットフォームに対する顧客の関心を高めています。
+ボルグ氏は、AI主導の需要がクラウドストライクのパイプラインを拡大しており、前四半期に発表された同社の2027年度純新規年間経常収益見通しの増加に対する自信を裏付けていると付け加えた。全体として、Borg は、CrowdStrike には少なくとも 10 代後半の収益成長を維持し、今後数年間の収益性の向上を促進できる複数の成長原動力があると考えています。
+Borg は、TipRanks で追跡されている 12,300 人以上のアナリストの中で 651 位にランクされています。彼の評価は 65% の確率で利益を上げており、平均リターンは 15% です。 TipRanks の CrowdStrike 所有権構造を参照してください。
+ASTスペースモバイル
+次に、宇宙にグローバルなセルラー ブロードバンド ネットワークを構築する企業である AST SpaceMobile に移ります。最近、パイパー・サンドラーのアナリスト、アレクサンダー・ポッター氏が宇宙関連株の取材を始めた。同アナリストはASTスペースモバイルに目標株価100ドルで買いの評価を与えたが、バリュエーションへの懸念からロケット製造会社スペースXとロケットラボに対しては中立の立場をとっている。
+ポッター氏は「評価額がより好ましいことと、EBITDAの上振れへの道筋が明確であることから、我々はASTSを好む」と述べた。
+5つ星のアナリストは、AST SpaceMobileがスマートフォンに直接接続する衛星を構築し、どこにいてもユーザーのネットワーク接続を確保し、ビデオ通話、ストリーミング、ゲームなどのアプリケーションを可能にしていることを強調しました。ポッター氏は、ASTS のテクノロジーは、モバイル ネットワーク オペレーター (MNO) が通信範囲を拡大し、遠隔地の旅行者やユーザーにアドオン サービスを提供するのに役立つと付け加えました。
+さらにポッター氏は、ASTSがAT&T、ボーダフォン、ベライゾン、楽天などの大手MNOと協力し、そこから株式投資を受けていることにも言及した。同氏は、これらの通信事業者と競合するのではなく、これらの通信事業者と協力することで、ASTS は 30 億人を超える加入者へのアクセスを獲得していると説明しました。
+ポッター氏は、TipRanks が追跡する 12,300 人以上のアナリストの中で 708 位にランクされています。彼の評価は 48% の確率で利益を上げており、平均リターンは 17.2% です。 TipRanks の AST SpaceMobile テクニカル分析を参照してください。
+ブロードコム
+最後に、カスタム AI チップとネットワーキング ソリューションのプロバイダーである Broadcom について見てみましょう。最近、モルガン・スタンレーのアナリスト、ジョセフ・ムーア氏はブロードコム株の目標株価を502ドルとし、買いの評価を繰り返した。
+5つ星のアナリストは、特にAI主導の需要の勢いが続いていることを考慮すると、今年これまでのAVGO株が同業他社と比較してアンダーパフォーマンスであることに驚いている。ムーア氏は、競合のMediaTekがGoogleのテンソル処理装置チップ事業においてBroadcomから市場シェアを獲得するのではないかという懸念と、成長が速いAIチップ名に対する投資家の選好を業績不振の理由として挙げた。
+ムーア氏は、GoogleのTPU事業におけるMediaTekの役割が増大していることを認めながらも、それがBroadcomの立場を大きく揺るがす可能性は低いと主張した。同氏は、ブロードコムが今後も約80％の市場シェアを誇る主要なTPUサプライヤーであり続けると予想している。全体として、AVGO の市場シェアが 50% に低下することや、最終的には代替されることについての懸念は時期尚早であるように思われる、とムーア氏は考えています。
+「AVGO は過半数のシェアを維持し、AI の力強い成長を維持し、NVDA に迫る中核的なコンピューティング勝者であり続けるはずです」とムーア氏は述べています。
+同アナリストは、ブロードコムに対する同氏の強気な見通しは、高帯域幅メモリの供給、チップパッケージング能力、大規模生産における同社の確固たる優位性に基づいていると説明した。ムーア氏はまた、AI ASIC チップ、強力なネットワーキング ビジネス、新規顧客の獲得における AVGO の優位性を強調しました。
+ムーア氏は、TipRanks が追跡する 12,300 人以上のアナリストの中で 148 位にランクされています。彼の評価は 60% の確率で成功し、平均 25.5% のリターンをもたらしました。 TipRanks の Broadcom インサイダー取引活動を参照してください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/26/top-analysts-back-these-3-stocks-for-their-long-term-growth-potential.html",
+    publishedAt: "2026-07-26T11:33:11+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
     id: "watch-at-the-scene-of-berlin-pride-attac-7853c140",
     title: "Watch: At the scene of Berlin Pride attack as manhunt continues",
     titleJa: "見る: 捜査が続くベルリン・プライド襲撃現場",
@@ -1275,6 +1551,136 @@ DHL は、専用航空機と接続されたネットワークを備えた医薬�
     readTime: 2,
   },
   {
+    id: "warning-shot-or-publicity-stunt-how-worr-b7e4d728",
+    title: "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+    titleJa: "警告射撃や宣伝行為 - OpenAI ハッキングについてどの程度心配すべきでしょうか?",
+    summaryJa: "警告射撃や宣伝行為 - OpenAI ハッキングについてどの程度心配すべきでしょうか?- 公開されました",
+    bodyOriginal: `Warning shot or publicity stunt - how worried should we be about the OpenAI hack?
+- Published
+This week the tech world was gripped by a story that has it all - and which started like a sci-fi thriller.
+Hugging Face - a kind of app store for artificial intelligence tools - announced on 16 July it had been hacked by a cyber criminal wielding enormously powerful AI.
+The bombshell announcement was full of scary, highly technical terms: "a swarm of sandboxes", "agentic attacker", and "self-migrating command and control".
+Hugging Face said the hack was different from anything it had handled before because it was done at superhuman speed by an AI with little or no human guidance.
+The AI performed 17,000 actions in less than two days, successfully breaching the large wealthy tech company to steal secrets.
+It left the tech world in shock. But who was responsible for this attack?
+Hugging Face researchers guessed the mysterious attackers had used one of the big AI models but they had no idea who or where the criminals were.
+The perplexed company contacted the police and investigations commenced.
+Who did it?
+Commentators and analysts took to their podcasts and social media accounts to guess which cyber crime group or nation state hacker might be behind it.
+Then on Wednesday, nearly a week after Hugging Face raised the alarm, the true culprit was unmasked.
+It was ChatGPT.
+The Scooby-Doo-style reveal was made even more bizarre - and worrying - because OpenAI said its bot did the whole thing on its own, without permission.
+The firm said it all went down during a test of its tech's hacking skills.
+Two new versions of ChatGPT, designed to be master hackers, broke out of a supposedly secure test environment and gained access to the internet.
+They then attacked Hugging Face to get access to the information to help them ace their exam.
+OpenAI issued a press release explaining what had happened and said it was "partnering with Hugging Face" to address the security incident and share lessons learned.
+Conspiracy drama
+Since then, there has been fierce debate about the incident.
+Was it truly a stark warning about the future of AI? Or was it a publicity stunt by OpenAI to show off how powerful their models are?
+It's the kind of scare marketing AI companies have been accused of for years and, since the much discussed launch of Anthropic's Mythos model, cyber-security prowess has been a focal point.
+One of the top comments on OpenAI boss Sam Altman's X post about the incident summarises this scepticism: "If y'all can't understand that this was written to purely brag about the model then I don't know what to tell you."
+Cyber-security consultant Daniel Card said sarcastically on LinkedIn: "Isn't it lucky [that] out of the millions of sites that got pwn3d [hacked], OpenAI managed to pwn someone who also could benefit from the marketing exposure…"
+For some, the story is more conspiracy drama than sci-fi thriller.
+The message is: "Aren't my AI tools really powerful? Buy them so you can protect yourself from other people's AI attacks."
+We can't know the truth, but the opposing point of view posed by other commentators is just as dramatic. Is this a sign that OpenAI made a potentially dangerous error in judgement and planning?
+An OpenAI spokesperson said "we recognise there are a lot of questions and speculative details circulating" about the incident. They added that "we plan to publish a technical report of our learnings in the coming weeks".
+Comedy of errors
+I've covered lots of AI stories, including the fears around Anthropic's Mythos model.
+My inbox is now chock full of cyber-security companies and experts criticising OpenAI for not building a stronger container to test its AI, known as a sandbox.
+After all, these AI agents had been trained specifically to hack into and out of places with no restrictions at all.
+"The OpenAI and Hugging Face incident is a real-world example of a broader issue we've been highlighting for months," said Dor Sarig from Pillar Security. "Sandboxes alone are not a sufficient security boundary for agentic AI."
+Firm hacked by rogue OpenAI models says it is 'a wake-up call'
+- Published3 days ago
+Cyber security Professor Alan Woodward from Surrey University told reporters OpenAI had "egg on it's face", and Katie Moussouris from Luta Security went further, suggesting the AI industry is failing to control its dangerous inventions.
+"We are working on cutting edge technology without the knowledge to contain it," she said.
+"Just because we have the smartest people developing AI does not mean we have the ability to do so safely."
+According to these views, if the hacking incident was a publicity stunt then it appears as though it backfired.
+Whatever led to the hack, it's clear this is a major moment for the AI industry and the cyber security world, which collided this year in ways people had been fearing for a long time.
+Addressing this fierce debate, AI and cyber security advisor Francesca Bosco said: "Two simplistic narratives are equally unhelpful: that this was a Hollywood-style escape, or that it was merely a publicity exercise.
+"A more serious interpretation is that a stress test exposed weaknesses in containment and evaluation architecture."
+Disaster movie
+This event is the latest in a string of worrying and weird examples of AI agents going rogue.
+In recent research, the UK's AI Security Institute (AISI) found frontier AI models are so fixated on completing tasks they "cheated" in tests to achieve their goals.
+The research from AISI came with this worrying warning: "A model that pursues a goal through unintended or unauthorised means may cause harm, particularly in high-stakes use cases."
+Inevitably, this OpenAI hack has further fuelled fears of what could happen if AI agents are let loose. Could they go rogue on a larger scale and cause some sort of disaster?
+This is particularly concerning with AI being used increasingly in warfare as seen in Iran and Ukraine.
+Ciaran Martin, former head of the UK's National Cyber Security Centre, offered a calmer view.
+"It is a bit of a leap to go from this incident to saying that AI agents are going to take over drones and start killing people," he said.
+But for Martin, and many others, the story is undoubtedly another vivid example of something that 2026 is teaching us fast: AI agents are now very good hackers - and that is something we have to prepare for, urgently.
+OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
+- Published4 days ago
+ChatGPT medical advice brought man 'to brink of death', lawsuit alleges
+- Published2 days ago
+Lawmakers push for AI 'kill switch' after OpenAI models go rogue
+- Published2 days ago
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `警告射撃や宣伝行為 - OpenAI ハッキングについてどの程度心配すべきでしょうか?
+- 公開されました
+今週、テクノロジーの世界は、SF スリラーのように始まった、すべてを網羅した物語に魅了されました。
+人工知能ツールのアプリストアの一種であるハギングフェイスは、7月16日に非常に強力なAIを操るサイバー犯罪者によってハッキングされたと発表した。
+この爆弾発表には、「サンドボックスの群れ」、「エージェント攻撃者」、「自己移行型指揮統制」など、恐ろしく高度に専門的な用語が満載でした。
+ハグ・フェイス氏は、このハッキングは人間の指導がほとんど、またはまったくなくAIによって超人的なスピードで行われたため、これまで同社が対応したハッキン​​グとは異なっていたと述べた。
+AI は 2 日以内に 17,000 件のアクションを実行し、裕福な大手テクノロジー企業に侵入して機密を盗むことに成功しました。
+それはテクノロジー業界に衝撃を与えました。しかし、この攻撃の責任者は誰でしょうか?
+ハグフェイスの研究者らは、謎の攻撃者が大型 AI モデルの 1 つを使用したのではないかと推測しましたが、犯人が誰なのか、どこにいるのかはわかりませんでした。
+困惑した同社は警察に通報し、捜査が始まった。
+誰がやったの？
+コメンテーターやアナリストはポッドキャストやソーシャルメディアのアカウントを利用して、どのサイバー犯罪グループや国家ハッカーが背後にいるのかを推測しました。
+そしてハグ・フェイスが警鐘を鳴らしてからほぼ1週間後の水曜日、真犯人の正体が暴かれた。
+ChatGPTでした。
+OpenAIが自社のボットが許可なく勝手にすべてを行ったと発表したため、スクービードゥー風の暴露はさらに奇妙で憂慮すべきこととなった。
+同社は、自社技術のハッキングスキルのテスト中にすべてがダウンしたと述べた。
+マスターハッカー向けに設計された ChatGPT の 2 つの新しいバージョンが、安全であるはずのテスト環境を突破し、インターネットへのアクセスを獲得しました。
+その後、彼らはハギングフェイスを攻撃して、試験に合格するための情報にアクセスしようとしました。
+OpenAIは、何が起こったのかを説明するプレスリリースを発行し、セキュリティインシデントに対処し、得られた教訓を共有するために「Hugging Faceと提携」すると述べた。
+陰謀劇
+それ以来、この事件については激しい議論が巻き起こった。
+それは本当に AI の将来に対する厳しい警告だったのでしょうか?それとも、OpenAI のモデルがいかに強力かを誇示するための宣伝行為だったのでしょうか?
+これはAI企業が何年も告発されてきた一種の恐怖マーケティングであり、Anthropic社のMythosモデルの立ち上げが大いに議論されて以来、サイバーセキュリティの能力が焦点となっている。
+この事件に関する OpenAI の責任者である Sam Altman の X 投稿に対するトップのコメントの 1 つは、この懐疑論を要約しています。「これが純粋にモデルを自慢するために書かれたものであることが理解できないのなら、私には何を言えばいいのかわかりません。」
+サイバーセキュリティコンサルタントのダニエル・カード氏はLinkedInで皮肉を込めてこう述べた。「pwn3d[ハッキング]された何百万ものサイトの中から、OpenAIがマーケティング露出から利益を得ることができるサイトをなんとかpwnできたのは幸運ではないでしょうか…」
+一部の人にとって、この物語は SF スリラーというよりも陰謀劇です。
+メッセージは「私の AI ツールは本当に強力ではないですか? 他の人の AI 攻撃から身を守るために購入してください。」です。
+私たちは真実を知ることはできませんが、他のコメンテーターが提起した反対の視点も同様に劇的です。これは、OpenAI が判断と計画において潜在的に危険な誤りを犯したことを示しているのでしょうか?
+OpenAIの広報担当者は、この事件について「多くの疑問や憶測の詳細が出回っていることを認識している」と述べた。彼らは、「今後数週間以内に、我々の学んだことをまとめた技術レポートを発行する予定だ」と付け加えた。
+間違いのコメディー
+私は、Anthropic の Mythos モデルにまつわる恐怖など、AI に関する多くの話を取り上げてきました。
+現在、私の受信トレイには、サンドボックスとして知られる AI をテストするためのより強力なコンテナを構築していない OpenAI を批判するサイバーセキュリティ企業や専門家がぎっしりと詰まっています。
+結局のところ、これらの AI エージェントは、まったく制限のない場所に出入りするように特別に訓練されていたのです。
+「OpenAI と Hugging Face の事件は、私たちが何か月も焦点を当ててきたより広範な問題の実例です」と Pillar Security の Dor Sarig 氏は述べています。 「サンドボックスだけでは、エージェント AI にとって十分なセキュリティ境界ではありません。」
+不正なOpenAIモデルによってハッキングされた企業、これは「警鐘」だと語る
+- 3 日前に公開
+サリー大学のサイバーセキュリティ教授アラン・ウッドワード氏は記者団に対し、OpenAIは「卵を産んだ」と述べ、ルタ・セキュリティーのケイティ・ムスーリス氏はさらに踏み込んで、AI業界がその危険な発明を制御できていないことを示唆した。
+「私たちは、それを封じ込める知識がないまま、最先端のテクノロジーに取り組んでいます」と彼女は言う。
+「AIを開発する最も賢い人材がいるからといって、AIを安全に開発できるというわけではありません。」
+これらの見解によれば、ハッキング事件が宣伝行為だったとすれば、それが裏目に出たように見える。
+ハッキングのきっかけが何であれ、人々が長い間恐れてきた形で今年衝突したAI業界とサイバーセキュリティの世界にとって、これが重大な瞬間であることは明らかだ。
+この激しい議論に対処して、AIおよびサイバーセキュリティアドバイザーのフランチェスカ・ボスコ氏は、「これがハリウッド流の逃亡だったという、あるいは単なる宣伝活動だったという、2つの単純な物語は同様に役に立たない」と語った。
+「より深刻な解釈は、ストレステストによって封じ込めと評価のアーキテクチャの弱点が露呈したということだ。」
+災害映画
+この出来事は、AIエージェントが凶暴化する一連の憂慮すべき奇妙な例の最新のものである。
+英国の AI セキュリティ研究所 (AISI) は、最近の研究で、フロンティア AI モデルが、目標を達成するためにテストで「不正行為」をしたタスクを完了することに執着していることを発見しました。
+AISI の調査には、「意図しない、または不正な手段で目標を追求するモデルは、特に一か八かのユースケースで害を及ぼす可能性がある」という憂慮すべき警告が伴いました。
+必然的に、この OpenAI ハッキングは、AI エージェントが解放された場合に何が起こるかという不安をさらに煽りました。彼らはより大規模に暴動を起こし、何らかの災害を引き起こす可能性があるでしょうか?
+これは、イランやウクライナで見られるように、AI が戦争でますます使用されることを特に懸念しています。
+英国国家サイバーセキュリティセンターの元所長キアラン・マーティン氏は、より冷静な見解を示した。
+「今回の事件から、AIエージェントがドローンを乗っ取って人々を殺し始めると言うのは、少々飛躍がある」と同氏は述べた。
+しかし、マーティンや他の多くの人にとって、この物語は間違いなく、2026 年が私たちに急速に教えてくれることのもう一つの鮮やかな例です。AI エージェントは今や非常に優れたハッカーです - そしてそれは私たちが緊急に準備しなければならないことです。
+OpenAI、自社のAIが不正行為を行い「前例のない」サイバー攻撃を開始したと発表
+- 4 日前に公開
+ChatGPTの医療アドバイスが男性を「死の瀬戸際」に追い込んだと訴訟で主張
+- 2 日前に公開
+OpenAIモデルの不正を受けて議員らはAIの「キルスイッチ」を推進
+- 2 日前に公開
+Tech Decoded ニュースレターに登録して、世界のトップテクノロジーのストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-25T10:14:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
+    readTime: 9,
+  },
+  {
     id: "nvidia-locks-down-memory-supply-from-sk-8aa316ee",
     title: "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
     titleJa: "Nvidia、5,000億ドルのAI取引の一環としてSK Hynixからのメモリ供給を制限",
@@ -2225,254 +2631,6 @@ As a young, still relatively immature democracy, Ukraine's institutions have bee
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
     readTime: 8,
-  },
-  {
-    id: "four-palestinians-and-two-israelis-kille-844c1075",
-    title: "Four Palestinians and two Israelis killed in West Bank shooting",
-    titleJa: "ヨルダン川西岸銃乱射事件でパレスチナ人4人とイスラエル人2人が死亡",
-    summaryJa: "ヨルダン川西岸銃乱射事件でパレスチナ人4人とイスラエル人2人が死亡- 公開されました",
-    bodyOriginal: `Four Palestinians and two Israelis killed in West Bank shooting
-- Published
-At least four Palestinians and two Israelis have been killed in a shooting in the occupied West Bank - the deadliest single incident there in months.
-There are conflicting accounts of the sequence of events in the northern village of Tal. Palestinians told the BBC that residents confronted Jewish settlers who were attacking them. An eyewitness said soldiers then arrived and started shooting.
-Israel's military said it had responded to reports that hikers had been attacked. It said "terrorists stole the weapon" of a security guard and killed him, before being killed by soldiers. The other three killed were members of the same Palestinian family.
-A second Israeli, a soldier, was also killed.
-The Israel Defense Forces (IDF) later said that it was preparing for "extensive counterterrorism operational activity in the sector".
-There has been a surge in attacks by settlers on Palestinians and their property in the West Bank since the start of the Gaza war, which was triggered by the Hamas-led attack on Israel on 7 October 2023.
-Ahmed Zeidan, an eyewitness, told the BBC the latest incident began early in the morning, when locals in Tal rushed to confront about 30 settlers who were attacking Palestinian homes.
-He said hand-to-hand clashes broke out in the presence of Israeli soldiers.
-A local leader of the ruling Palestinian Authority's Fatah party, Essam Saifi, told Reuters news agency that settlers opened fire before Israeli forces arrived and also started shooting.
-Palestinian officials said several other Palestinians were wounded.
-The IDF said Palestinians began the attack.
-It said soldiers had gone to Tal following a report of an attack on Israeli civilians who were hiking in the area - part of which falls in an area of the West Bank under full control of the Palestinian Authority (PA) and the other part under PA administrative control and Israeli security control.
-The military says that the hike was not co-ordinated with them.
-A security guard from a nearby settler outpost had gone to the scene and had his gun snatched by a Palestinian who used it against the Israelis, killing him, the IDF says.
-Soldiers then "eliminated the terrorist who executed the terror attack", the IDF added.
-He was one of four members of the same family killed "in the exchange of fire", said the head of the army's central command, Maj Gen Avi Bluth.
-Palestinian officials said several other Palestinians were wounded.
-Two video clips have been widely shared by local media - but not independently verified.
-One appears to show a confrontation between Palestinians and Israeli soldiers and armed Israelis dressed in civilian clothes as gunshots are fired and a group of Israeli civilians, including children, watch and heckle. Armed Israelis in civilian clothes then push and kick back two Palestinian men.
-The second video shot from a different angle appears to show that both men tried to grab the guns - one of them successfully. There is a chaotic scene and several gunshots can be heard as he appears to fire it and troops also respond.
-The IDF has said a 27-year-old soldier "fell during operational activity in the area of the village". The circumstances of his death remain unclear.
-The Israeli ambulance service said two Israelis were also wounded.
-The Palestinian foreign ministry said it "condemns in the strongest terms the massacre" in Tal.
-It said "the escalation of settler terrorism is a direct consequence of the protection, political backing, and complete impunity granted by the Israeli government and occupation forces".
-"Official Israeli incitement continues to fuel and encourage these crimes, creating an environment in which settler violence flourishes without accountability," it added.
-An AFP reporter at the site, south-west of Nablus, said roadblocks had been set up and troops were searching for additional suspects.
-The IDF later said it raided a hospital in Nablus and "apprehended two terrorists who took part in the shooting attack" and who had gone to the hospital for treatment.
-Israel's Prime Minister Benjamin Netanyahu vowed to act "with full force against the terrorists and those who orchestrate and sponsor them".
-He called an emergency meeting with security officials, and reinforcements have been sent to the area, close to the settlement of Havat Gilad.
-Netanyahu's office issued a joint statement with Defence Minister Israel Katz saying the home of the Palestinian shooter in Tal would be demolished and that the legalisation of unauthorised settler outposts and the establishment of new ones would be speeded up.
-Outposts are wildcat settlements, often just a cluster of caravans set up on a hilltop. They are illegal under international law and also Israeli law when they are built without official approval.
-On X, Yair Golan, the leader of Israel's Democrats Party - who is a reserve major general in the IDF - described the joint statement from Netanyahu and Katz as "a clear intent to set the area ablaze".
-After the attack in Tal, there have been reports of violent confrontations between dozens of armed settlers and Palestinians in other nearby villages in the northern West Bank. A number of Palestinians have been wounded with one shot in the head in Farata, local medics say.
-Israel's far-right National Security Minister Itamar Ben-Gvir said the villages of "the murderers" must be treated in the same way as Gaza.
-"For every Jew murdered, the enemy must suffer the loss of land and homes," he said.
-While Palestinians are routinely killed and injured during confrontations with Israeli settlers, the killing of Israelis by Palestinians has tipped the West Bank into a dangerous moment.
-Since October 2023, 1,114 Palestinians have been killed there, the vast majority by the IDF, the UN says. It says at least 35 of the deaths have involved attacks by settlers.
-The UN says 41 Israelis, including civilians and security personnel, have been killed in Palestinian attacks or during Israeli military operations in the West Bank since the start of the Gaza war.
-Israel has built hundreds of settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem - land Palestinians want, along with Gaza, for a hoped-for future state - during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them. The settlements are illegal under international law.`,
-    bodyJa: `ヨルダン川西岸銃乱射事件でパレスチナ人4人とイスラエル人2人が死亡
-- 公開されました
-占領下のヨルダン川西岸での銃撃事件で、少なくともパレスチナ人４人とイスラエル人２人が死亡し、ここ数カ月で最も死者数が多い事件となった。
-北部の村タルでの一連の出来事については矛盾した記述がある。パレスチナ人はBBCに対し、住民らが自分たちを攻撃してきたユダヤ人入植者と対峙していると語った。目撃者によると、その後兵士たちが到着し、銃撃を始めたという。
-イスラエル軍は、ハイカーが襲撃されたとの報告に応じたと発表した。同紙は、「テロリストが警備員の武器を盗み」、警備員を殺害した後、兵士に殺害されたと述べた。殺害された他の3人も同じパレスチナ人の家族だった。
-2人目のイスラエル人兵士も死亡した。
-イスラエル国防軍（IDF）はその後、「この分野における広範な対テロ作戦活動」の準備を進めていると述べた。
-2023年10月7日のハマス主導のイスラエル攻撃に端を発したガザ戦争の開始以来、ヨルダン川西岸のパレスチナ人とその財産に対する入植者による攻撃が急増している。
-目撃者のアフメド・ゼイダン氏はBBCに対し、今回の事件は早朝に始まり、タルの地元住民がパレスチナ人の家を襲撃していた約30人の入植者と対峙するために急いだときから始まったと語った。
-同氏は、イスラエル兵の面前で白兵衝突が起こったと述べた。
-与党パレスチナ自治政府ファタハ党の地元指導者エッサム・サイフィ氏はロイター通信に対し、イスラエル軍が到着する前に入植者らが発砲し、銃撃も開始したと語った。
-パレスチナ当局者は、他にも数人のパレスチナ人が負傷したと述べた。
-イスラエル国防軍は、パレスチナ人が攻撃を開始したと発表した。
-同紙によると、この地域でハイキングをしていたイスラエル民間人への攻撃の報告を受けて兵士らがタルに向かったという。この地域の一部はヨルダン川西岸のパレスチナ自治政府（PA）の完全管理下にある地域で、残りの部分はPAの行政管理とイスラエルの安全管理下にある。
-軍は、今回のハイキングは軍との調整がなかったとしている。
-IDFによれば、近くの入植者前哨基地の警備員が現場に向かったところ、イスラエル人に対して使用したパレスチナ人によって銃を奪われ、死亡したという。
-その後、兵士たちは「テロ攻撃を実行したテロリストを排除した」とIDFは付け加えた。
-陸軍中央軍司令官アヴィ・ブルース少将によると、彼は「銃撃戦で」死亡した同じ家族４人のうちの１人だったという。
-パレスチナ当局者は、他にも数人のパレスチナ人が負傷したと述べた。
-2 つのビデオ クリップが地元メディアによって広く共有されましたが、独自に検証されていません。
-そのうちの1枚は、パレスチナ人とイスラエルの兵士、および銃声が発砲され、子供を含むイスラエルの民間人のグループが見守りやじを飛ばす中、私服を着た武装したイスラエル人とパレスチナ人との対立を描いているようだ。その後、私服を着て武装したイスラエル人がパレスチナ人男性２人を突き飛ばし、蹴り返した。
-別の角度から撮影された2番目のビデオは、両名が銃を奪おうとした様子を示しており、そのうちの1つは成功した。現場は混乱に陥り、彼が発砲しようとする数発の銃声が聞こえ、軍隊も応戦した。
-イスラエル国防軍は、27歳の兵士が「村の地域での作戦活動中に転落した」と発表した。彼の死の状況は依然として不明である。
-イスラエルの救急隊によると、イスラエル人２人も負傷した。
-パレスチナ外務省は、タルでの虐殺を「最も強い言葉で非難する」と述べた。
-同報告書は、「入植者テロの激化は、イスラエル政府と占領軍による保護、政治的支援、完全な免責の直接の結果である」と述べた。
-「イスラエル政府の公式扇動がこうした犯罪を煽り、助長し続けており、責任の所在なく入植者の暴力が蔓延する環境を作り出している」と付け加えた。
-ナブルスの南西にある現場にいたAFP記者は、バリケードが設置され、軍隊がさらなる容疑者の捜索を行っていると語った。
-IDFはその後、ナブルスの病院を襲撃し、「銃撃攻撃に参加し」、治療のために病院に通っていたテロリスト2人を逮捕したと発表した。
-イスラエルのベンヤミン・ネタニヤフ首相は「テロリストとテロリストを組織し後援する者たちに対して全力で」行動すると誓った。
-同氏は治安当局者との緊急会議を招集し、ハヴァト・ギラドの入植地に近い地域に援軍が派遣された。
-ネタニヤフ首相の事務所はイスラエル・カッツ国防大臣と共同声明を発表し、タルのパレスチナ人銃撃犯の自宅を取り壊し、無許可入植者の前哨基地の合法化と新たな前哨基地の設立を加速すると述べた。
-前哨基地はヤマネコの集落であり、多くの場合、丘の上にキャラバンの集団が設置されているだけです。公式の承認なしに建設された場合、国際法だけでなくイスラエル法でも違法となります。
-Xについて、イスラエル民主党党首ヤイール・ゴラン氏（イスラエル国防軍予備少将）は、ネタニヤフ首相とカッツ氏の共同声明を「地域を炎上させる明らかな意図」と述べた。
-タルでの攻撃後、ヨルダン川西岸北部の近くの他の村で数十人の武装入植者とパレスチナ人との間で暴力的な衝突があったとの報告があった。地元の医師らによると、ファラタでは多数のパレスチナ人が頭部に一発の銃弾を受け負傷している。
-イスラエルの極右国家安全保障大臣イタマール・ベン・グヴィルは、「殺人者」の村はガザと同じように扱われるべきだと述べた。
-「ユダヤ人が殺害されるたびに、敵は土地と家を失うことになるだろう」と彼は言った。
-イスラエル入植者との衝突でパレスチナ人が日常的に殺されたり負傷したりする一方、パレスチナ人によるイスラエル人の殺害はヨルダン川西岸を危険な時期に陥らせている。
-国連によれば、2023年10月以来、1,114人のパレスチナ人がそこで殺害され、その大部分はIDFによって殺害されたという。死者のうち少なくとも35人は入植者による襲撃に関係しているという。
-国連は、ガザ戦争開始以来、パレスチナ人の攻撃やヨルダン川西岸でのイスラエルの軍事作戦中に、民間人や治安要員を含むイスラエル人41人が死亡したと発表した。
-イスラエルは、1967年の中東戦争中にパレスチナ人がガザと並んで将来の国家として期待する土地であるヨルダン川西岸と東エルサレムを占領して以来、70万人のユダヤ人を収容する数百の入植地を建設してきた。推定330万人のパレスチナ人が彼らとともに暮らしている。この和解は国際法上違法である。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-24T22:49:59+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg",
-    readTime: 7,
-  },
-  {
-    id: "uber-and-waymo-to-end-exclusivity-arrang-01a22f4a",
-    title: "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin",
-    titleJa: "ウーバーとウェイモ、アトランタとオースティンでの独占契約を終了へ",
-    summaryJa: "過去 3 年間、ウーバーとアルファベット傘下のウェイモは提携して、米国の 2 つの主要市場で乗客に自動運転車を提供してきました。その関係は今、少し変化しつつあります。これまでウェイモは、アトランタとテキサス州オースティンでのみ、ウーバーアプリを通じてロボタクシーを利用できるようにしてきた。しかし、ウーバーの広報担当者は金曜日、CNBCに電子メールで「ウェイモから、ウーバーとの既存の展開と並行して、2028年1月にオースティンとアトランタでウェイモアプリを開始する予定であると通知を受けた」と語った。",
-    bodyOriginal: `For the past three years, Uber and Alphabet-owned Waymo have partnered to bring driverless rides to passengers in two major U.S. markets. That relationship is now undergoing some changes.
-To this point, Waymo has made its robotaxis available in Atlanta and Austin, Texas, exclusively through the Uber app. But an Uber spokesperson told CNBC by email on Friday that, "We have been notified by Waymo that they intend to launch the Waymo app in Austin and Atlanta in January 2028, alongside their existing deployment with Uber."
-The development reflects how Waymo has been able to attract riders in a number U.S. cities without exclusive Uber deals, as its robotaxis are now live in nine other markets, according to the company's website. More cities are engaged in various stages of testing.
-Last year, Waymo also struck a deal with Lyft to offer robotoaxi rides in Nashville, Tennessee, on a non-exclusive basis.
-In Atlanta and Austin, hundreds of Waymo robotaxis will remain available on Uber through at least May 2028, the duration of their existing contract, Uber said. The changes ahead allow the ride-hailing company to put other, non-Waymo autonomous vehicles onto its platform in both cities.
-A Waymo spokesperson said in an email that users need "choice in how they experience this technology."
-"This is essential to the industry's future and to our vision of making the Waymo app and the safety of our technology available to riders everywhere," the spokesperson wrote.
-The Financial Times reported on Friday that Waymo held internal discussions about whether it should split from Uber due to tensions between the two companies, including around conflicting policy proposals the companies are pursuing in different U.S. markets.
-Uber shares dropped more than 4% on the news.
-Independent of Waymo, Uber has been investing in AV technology, and has committed to buying vehicles from some of its partners, including startups Waabi, Wayve and Nuro, as well as electric vehicle maker Rivian, after their self-driving cars are validated as safe to operate without a human supervisor or driver on board.
-Tesla, Amazon's Zoox and other AV developers are also offering standalone apps that allow riders to hail robotaxis.
--- CNBC's Laura Batchelor contributed to this report.
-WATCH: Waymo and Uber partnership`,
-    bodyJa: `過去 3 年間、ウーバーとアルファベット傘下のウェイモは提携して、米国の 2 つの主要市場で乗客に自動運転車を提供してきました。その関係は今、少し変化しつつあります。
-これまでウェイモは、アトランタとテキサス州オースティンでのみ、ウーバーアプリを通じてロボタクシーを利用できるようにしてきた。しかし、ウーバーの広報担当者は金曜日、CNBCに電子メールで「ウェイモから、ウーバーとの既存の展開と並行して、2028年1月にオースティンとアトランタでウェイモアプリを開始する予定であると通知を受けた」と語った。
-同社のウェブサイトによると、ウェイモのロボタクシーは現在他の9つの市場で稼働しているため、この開発はウェイモがウーバーとの独占契約なしに米国の多くの都市でどのようにして乗客を引きつけることができたかを反映しているという。さまざまな段階のテストに取り組んでいる都市が増えています。
-昨年、ウェイモはテネシー州ナッシュビルでロボットタクシーの乗車を非独占的に提供する契約をリフトと結んだ。
-Uberによると、アトランタとオースティンでは、数百台のWaymoロボタクシーが少なくとも既存の契約期間である2028年5月までUberで利用できるようになるという。今後の変更により、配車会社は両都市でウェイモ以外の他の自動運転車を自社のプラットフォームに導入できるようになる。
-Waymoの広報担当者は電子メールで、ユーザーには「このテクノロジーをどのように体験するかについての選択」が必要だと述べた。
-「これは業界の将来にとって、そしてWaymoアプリと当社のテクノロジーの安全性をどこのライダーでも利用できるようにするという当社のビジョンにとって不可欠です」と広報担当者は書いている。
-フィナンシャル・タイムズ紙は金曜日、両社が米国の異なる市場で進めている政策提案の矛盾を巡る問題など、両社間の緊張を理由にウェイモがウーバーから分離すべきかどうかについて内部協議を行ったと報じた。
-このニュースを受けてウーバー株は４％以上下落した。
-Waymoとは独立して、UberはAV技術に投資しており、自動運転車が人間の監督者や運転手が同乗していなくても安全に運転できることが検証された後、スタートアップ企業のWaabi、Wayve、Nuroや電気自動車メーカーのRivianを含む一部のパートナーから車両を購入することを約束している。
-Tesla、Amazon の Zoox、その他の AV 開発者も、乗客がロボタクシーを配車できるスタンドアロン アプリを提供しています。
--- CNBC のローラ・バチェラー氏がこのレポートに寄稿しました。
-注目: Waymo と Uber のパートナーシップ`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/24/uber-and-waymo-to-end-exclusivity-arrangement-in-atlanta-and-austin.html",
-    publishedAt: "2026-07-24T21:48:45+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "would-you-take-65-000-today-or-flip-a-co-99581ea9",
-    title: "Would you take $65,000 today, or flip a coin for a chance to win $1.3 million?",
-    titleJa: "今日 65,000 ドルを受け取りますか、それともコインを投げて 130 万ドルを獲得するチャンスがありますか?",
-    summaryJa: "このウイルスに関する世論調査の質問に対するあなたの答えは、あなたの財政状態について多くを物語っているでしょう。",
-    bodyOriginal: `Your answer to this viral poll question probably says a lot about the state of your finances.`,
-    bodyJa: `このウイルスに関する世論調査の質問に対するあなたの答えは、あなたの財政状態について多くを物語っているでしょう。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/would-you-take-65-000-today-or-flip-a-coin-for-a-chance-to-win-1-3-million-d134961a?mod=mw_rss_topstories",
-    publishedAt: "2026-07-24T21:48:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-16415548",
-    readTime: 2,
-  },
-  {
-    id: "i-will-definitely-claim-social-security-2beb83de",
-    title: "I will definitely claim Social Security early. Why do so few people talk about the elephant in the room?",
-    titleJa: "私は必ず早めに社会保障を請求します。なぜ部屋の中でゾウについて話す人がこれほど少ないのでしょうか?",
-    summaryJa: "「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」",
-    bodyOriginal: `“The strongest argument for claiming benefits earlier goes beyond the traditional break-even analyses.”`,
-    bodyJa: `「早期に利益を主張するための最も強力な議論は、従来の損益分岐点分析を超えています。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-will-claim-social-security-early-why-do-so-few-people-talk-about-the-elephant-in-the-room-64820675?mod=mw_rss_topstories",
-    publishedAt: "2026-07-24T21:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-36497516",
-    readTime: 2,
-  },
-  {
-    id: "i-am-a-63-year-old-semiretired-physician-9344fe3d",
-    title: "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
-    titleJa: "私は63歳のセミリタイアした医師です。退職後に備えて 200 万ドルを貯蓄した場合、社会保障は任意になるべきですか?",
-    summaryJa: "「その時点で、彼らはおそらく政府の退職後のセーフティネットをもはや必要としません。」",
-    bodyOriginal: `“At that point, they arguably no longer need the government’s retirement safety net.”`,
-    bodyJa: `「その時点で、彼らはおそらく政府の退職後のセーフティネットをもはや必要としません。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-am-a-63-year-old-semiretired-physician-if-you-have-saved-2-million-for-retirement-should-social-security-be-optional-0de70d53?mod=mw_rss_topstories",
-    publishedAt: "2026-07-24T21:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-15655092",
-    readTime: 2,
-  },
-  {
-    id: "paramount-agrees-to-delay-wbd-acquisitio-3123a7b3",
-    title: "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge",
-    titleJa: "パラマウントは法的異議申し立てを受けてWBD買収を最長2027年6月まで延期することに同意",
-    summaryJa: "パラマウント・スカイダンスは、提携が法的な問題に直面しているため、ワーナー・ブラザース・ディスカバリーの買収計画を2027年6月まで延期することに同意した。数か月の延期となり、最終的には買収価格が上昇することになる。先週、カリフォルニア州のロブ・ボンタ氏率いる州司法長官のグループが独占禁止法上の懸念を理由にこの取引の差し止めを求めて訴訟を起こした。月曜日、この事件を審査する裁判官は一時的な差し止め命令を出し、短期的な延期が決定された。",
-    bodyOriginal: `Paramount Skydance has agreed to delay its proposed acquisition of Warner Bros. Discovery to as late as June 2027 — a multi-month delay that will ultimately raise the deal price — as the tie-up faces a legal challenge.
-Last week, a group of state attorneys general led by California's Rob Bonta sued to block the deal over antitrust concerns. On Monday, a judge reviewing the case issued a temporary restraining order, delivering a near-term delay.
-Paramount had repeatedly said it intended to complete the transaction by the end of September. The agreement announced Friday says Paramount won't complete its acquisition until the court rules on the states' claims or until June 1, 2027, whichever comes first.
-In a statement Friday, Paramount called the agreement a "significant win."
-"The result is exactly what we have sought from the outset: a direct path to a trial based on the evidence. This is the fastest and clearest way to prove that this transaction is good for competition, good for consumers, and good for creators, a conclusion dozens of competition authorities around the world have already reached," the company said. "Plaintiffs' market definitions bear no relationship to the realities of today's marketplace and cannot withstand scrutiny. We look forward to proving our case at trial."
-Shares of Paramount Skydance fell 3% in afternoon trading Friday.
-Under the terms of its agreement, Paramount will owe Warner Bros. Discovery shareholders a "ticking fee" the longer the deal is delayed, starting Sept. 30.
-The fee, an additional 25 cents per share, per quarter until closing, could amount to roughly $650 million in cash value every quarter. A delay as long as June 2027 could add roughly $1.7 billion to the deal price.
-Should the deal fall apart entirely, Paramount would owe WBD a $7 billion breakup fee.
-Paramount and WBD agreed to combine in February after the David Ellison-led company outbid Netflix. The $110 billion deal would bring together two major Hollywood studios, two popular streaming services and a host of TV networks.
-In June, the antitrust division of the U.S. Department of Justice cleared the proposed merger. Earlier this week, European antitrust regulators likewise granted their approval for the deal.
-But U.S. state officials have raised concerns that the tie-up would reduce competition and result in job losses in the film industry.
-"Our argument against this illegal merger is straightforward: When too few corporations have too much power in markets central to American life, it makes things more expensive, and it makes things worse," Bonta said in a statement Friday. "Today's agreement is great news for audiences, movie theaters, and the many people who write, build, and create the art, news, and entertainment so many of us enjoy. We are eager to continue to make our case in court and celebrate another tremendous win in our effort to ensure this unlawful merger never sees the light of day."`,
-    bodyJa: `パラマウント・スカイダンスは、提携が法的な問題に直面しているため、ワーナー・ブラザース・ディスカバリーの買収計画を2027年6月まで延期することに同意した。数か月の延期となり、最終的には買収価格が上昇することになる。
-先週、カリフォルニア州のロブ・ボンタ氏率いる州司法長官のグループが独占禁止法上の懸念を理由にこの取引の差し止めを求めて訴訟を起こした。月曜日、この事件を審査する裁判官は一時的な差し止め命令を出し、短期的な延期が決定された。
-パラマウントは9月末までに取引を完了するつもりだと繰り返し述べていた。金曜日に発表された合意書では、パラマウントは各州の主張について裁判所が判決を下すか、2027年6月1日のいずれか早い方まで買収を完了しないとしている。
-パラマウントは金曜日の声明で、この合意を「重大な勝利」と呼んだ。
-「結果はまさに我々が当初から求めていたもの、つまり証拠に基づく裁判への直接の道である。これはこの取引が競争にとって、消費者にとって、そしてクリエイターにとって有益であることを証明する最も早くて明確な方法であり、世界中の数十の競争当局がすでに結論に達している」と同社は述べた。 「原告らの市場定義は今日の市場の現実とは無関係であり、精査に耐えることはできない。我々は裁判で自分たちの主張を証明することを楽しみにしている。」
-パラマウント・スカイダンスの株価は金曜午後の取引で３％下落した。
-合意条件に基づき、パラマウントはワーナー・ブラザース・ディスカバリーの株主に対し、9月30日から取引が遅れれば遅れるほど「ティッキングフィー」を支払う義務がある。
-この手数料は、クロージングまで四半期ごとに1株あたり25セント追加され、四半期ごとに現金換算で約6億5000万ドルに達する可能性がある。 2027年6月まで延期された場合、取引価格は約17億ドル増加する可能性がある。
-契約が完全に決裂した場合、パラマウントはWBDに対し70億ドルの違約金を支払う義務がある。
-パラマウントとWBDは、デビッド・エリソン率いる会社がネットフリックスを上回ったことを受け、2月に統合することで合意した。 1100億ドルの契約により、ハリウッドの大手スタジオ2社、人気のストリーミングサービス2社、多数のテレビネットワークが結集することになる。
-6月に米国司法省の反トラスト部門は合併案を認可した。今週初め、欧州の独占禁止規制当局も同様にこの取引を承認した。
-しかし、米国の州当局者らは、提携によって競争が減少し、映画業界の雇用喪失につながるのではないかと懸念を表明している。
-ボンタ氏は金曜日の声明文で、「この違法な合併に対する我々の主張は単純明快だ。アメリカの生活の中心となる市場であまりにも多くの影響力を持つ企業が少なすぎると、物事の価格が高くなり、状況がさらに悪化する」と述べた。 「今日の合意は、観客、映画館、そして私たちの多くが楽しんでいる芸術、ニュース、エンターテインメントを書き、構築し、創造する多くの人々にとって素晴らしいニュースです。私たちは引き続き法廷で主張し、この違法な合併が決して日の目を見ないようにする取り組みでの新たな大きな勝利を祝いたいと思っています。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/24/paramount-wbd-merger-delay.html",
-    publishedAt: "2026-07-24T21:24:09+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "trump-threatens-eu-with-substantial-tari-0825ddd6",
-    title: "Trump threatens EU with 'substantial TARIFF' for 'ROBBING' U.S. tech giants",
-    titleJa: "トランプ大統領、米国の巨大テクノロジー企業を「強奪」するための「大幅な関税」でEUを脅す",
-    summaryJa: "トランプ大統領は「Truth Social」で、Googleに対する欧州連合の新たな罰金と、米国のハイテク大手アップル、メタ、アマゾンに対する以前の罰金を激しく非難した。",
-    bodyOriginal: `President Donald Trump on Friday said his administration will launch a trade probe into the European Union that will cancel hefty fines levied against U.S. tech giants and likely result in a "substantial" tariff on the 27-member bloc.
-Trump, in a lengthy Truth Social post, accused the EU of "'ROBBING' American Companies and, in turn, the American Taxpayer" as he raged over its recent $1 billion fine on Google for allegedly giving search priority to its own services.
-"The European Union is at it again and, as usual, taking direct aim at GREAT American Companies!" Trump wrote in the post, which also railed against prior European fines against Apple, Meta and Amazon.
-Trump claimed the latest penalty against Google was issued "without explanation." But the European Commission, the EU's executive branch, said in a press release Wednesday that the fines totaling 890 million euros were due to Google's alleged noncompliance with the bloc's Digital Markets Act, which aims to scrutinize Big Tech's practices.
-Trump claimed the EU's behavior is "not going to continue during the Trump Administration."
-"The United States of America is not a 'PIGGYBANK' for Europe, nor will we allow it to be!" he wrote.
-Trump said the U.S. will "immediately" start an investigation under Section 301 of the Trade Act of 1974, which permits the imposition of tariffs in response to practices that are found to unfairly burden U.S. commerce.
-The Trump administration has launched multiple probes using that tariff authority. Hours earlier, it imposed new duties between 10% and 12.5% on goods from more than 80 countries, including those in the EU, over alleged forced labor issues.
-By Friday afternoon, a lawsuit challenging those tariffs had been filed in the U.S. Court of International Trade.
-The suit, brought by the Liberty Justice Center on behalf of two small businesses, argues the federal government is improperly using Section 301 to effectively reinstate Trump's 2025 "liberation day" tariffs, which were the Supreme Court struck down earlier this year.
-"The European Union will pay a very big price for this illegal and highly unethical conduct, which I have consistently warned them about," Trump said in Friday's post, referring to its posture toward U.S. tech companies.
-"The penalties will be entirely reversed and, we anticipate, a substantial TARIFF to be placed on them at the earliest possible moment," he wrote, adding, "Stay tuned!"`,
-    bodyJa: `ドナルド・トランプ大統領は金曜日、政権が欧州連合（EU）に対する通商調査を開始し、米国のハイテク大手に課せられた高額の罰金を取り消し、加盟27カ国に対して「大幅な」関税を課す可能性が高いと述べた。
-トランプ大統領は、Truth Socialへの長い投稿で、検索を自社サービスに優先させたとしてGoogleに最近課せられた10億ドルの罰金に激怒し、EUが「米国企業を『強奪』し、ひいては米国納税者を『強奪』している」と非難した。
-「欧州連合はまたもや、いつものように偉大なアメリカ企業を直接狙っている！」トランプ大統領はその投稿で、アップル、メタ、アマゾンに対する欧州の過去の罰金も激しく非難した。
-トランプ大統領は、グーグルに対する最新の罰金は「説明なしに」与えられたと主張した。しかし、EUの行政府である欧州委員会は水曜日のプレスリリースで、総額8億9,000万ユーロの罰金は、ビッグテック企業の慣行を精査することを目的としたEUのデジタル市場法にGoogleが違反した疑いによるものであると述べた。
-トランプ大統領は、EUの行動は「トランプ政権の間は継続しない」と主張した。
-「アメリカ合衆国はヨーロッパにとっての『貯金箱』ではないし、我々もそんなことを許さない！」彼は書いた。
-トランプ大統領は、米国の通商に不当な負担を与えていると認められる慣行に応じて関税を課すことを認めた1974年通商法第301条に基づき、米国は「直ちに」調査を開始すると述べた。
-トランプ政権はその関税権限を利用して複数の調査を開始した。その数時間前、強制労働問題の疑いを理由にEU加盟国を含む80カ国以上の商品に10～12.5％の新たな関税を課した。
-金曜午後までに、これらの関税に異議を唱える訴訟が米国国際貿易裁判所に起こされた。
-中小企業2社を代表してリバティ・ジャスティス・センターが起こしたこの訴訟は、連邦政府が第301条を不当に利用して、今年初めに最高裁判所が無効としたトランプ大統領の2025年の「解放の日」関税を事実上復活させていると主張している。
-トランプ大統領は金曜の投稿で、米国のハイテク企業に対する欧州連合の姿勢に言及し、「欧州連合はこの違法かつ非常に非倫理的な行為に対して非常に大きな代償を払うことになるだろう。私はこれについて一貫して警告してきた」と述べた。
-同氏は「罰則は完全に撤回され、可能な限り早い時期に大幅な関税が課されると予想される」と書き、「期待してください！」と付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/24/trump-tariffs-eu-trade-google-apple-tech.html",
-    publishedAt: "2026-07-24T19:39:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
   },
 ];
 
