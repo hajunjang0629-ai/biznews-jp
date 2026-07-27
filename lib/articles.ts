@@ -15,6 +15,336 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "u-s-and-iran-pause-fighting-to-give-peac-30e3c306",
+    title: "U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand",
+    titleJa: "米国とイランは和平交渉に「スペース」を与えるため戦闘を一時停止。ここが交渉の場です",
+    summaryJa: "米国とイランの間の敵対行為は月曜日に一時停止するかに見えたが、イランは10日間の停戦に合意したとのメディア報道を否定した。外交官らが和平交渉に「一定のスペース」を与えようとしたため、米軍は金曜日、２週間にわたる空爆を中止した。イランもここ数日、地域目標に対する軍事作戦を控えているが、パキスタンで停滞している外交努力の再開を求める中国主導の動きを受けて、報復すると述べた。",
+    bodyOriginal: `A temporary hiatus to hostilities between the U.S. and Iran appeared to hold on Monday, but Iran denied media reports that it had agreed to a 10-day ceasefire.
+The U.S. military brought a halt to two weeks of strikes on Friday as diplomats sought to give peace talks "some space." Iran, which has also refrained from military operations against regional targets in recent days, has said it will reciprocate following a China-led push to resume stalled diplomatic efforts in Pakistan.
+Iran's foreign ministry spokesperson Esmail Baghaei on Monday said Iran "currently have no negotiations with the United States," reiterating that official ongoing talks are solely with Oman regarding the future of the Strait of Hormuz.
+While the U.S. and Iran have paused hostilities, other actors did undertake military action related to the conflict over the weekend, highlighting the risk of further escalation and the complex challenges facing negotiators.
+The Saudi military conducted strikes on Iran-backed Houthi targets in Yemen following the rebel group's attacks on Red Sea shipping in recent days.
+Meanwhile, the Ukrainian military reportedly struck an Iranian commercial vessel in the Caspian Sea, killing one sailor and injuring another. Kyiv said the vessel was being used to transport military cargo supporting Russia's invasion of the country, while Tehran decried the attack as a "hostile and criminal act."
+Nevertheless, investors were cheered by the pause in hostilities, which followed not long after the White House was said to be considering a "massive attack" on Iran. Oil prices plunged by more than 7% early on Monday as futures markets pointed to strong performance on Wall Street.
+The challenge facing negotiators
+But experts caution that prospects for a lasting peace face serious challenges. The U.S. and Iran are not currently in direct, official talks, but negotiating via intermediaries.
+When direct talks are possible, negotiators will have to agree on controversial topics, such as the future of Iran's nuclear program, sanctions relief and Tehran's support for its proxy groups in the Middle East.
+From an economic perspective, the most important negotiating point will be guarantees of maritime security and the return and normalization of toll-free, two-way traffic flows through the strategically vital Strait of Hormuz.
+The strait, through which a fifth of global oil supply flowed before the conflict, remains subject to an ongoing U.S. blockade.
+Iran's Baghaei said on Monday that the situation in the Strait of Hormuz has "not changed and it is still closed."
+Oman, which sits on the opposite side of the strait to Iran, has emerged as a key player in negotiations. An Omani delegation was reportedly in Tehran on Friday and Saturday in efforts to negotiate a provisional arrangement to manage the transit of shipping through the waterway.
+Baghaei described talks on Friday and Saturday as "useful discussions."
+Oman has also said talks have been constructive, but analysts warn that normalization of traffic is unlikely in the short-term.
+"The main market risk remains the energy and shipping front," Deutsche Bank analysts wrote in a Monday note. "Traffic through Hormuz remains severely disrupted, while the conflict has broadened into the Red Sea."
+"This raises the prospect of simultaneous disruption to both Gulf and Red Sea export routes. So a welcome pause from the main actors but a fragile one, especially with side battles still ongoing."`,
+    bodyJa: `米国とイランの間の敵対行為は月曜日に一時停止するかに見えたが、イランは10日間の停戦に合意したとのメディア報道を否定した。
+外交官らが和平交渉に「一定のスペース」を与えようとしたため、米軍は金曜日、２週間にわたる空爆を中止した。イランもここ数日、地域目標に対する軍事作戦を控えているが、パキスタンで停滞している外交努力の再開を求める中国主導の動きを受けて、報復すると述べた。
+イラン外務省のエスマイル・バガエイ報道官は月曜日、イランは「現在米国と交渉を行っていない」と述べ、ホルムズ海峡の将来に関して公式に進行中の交渉はもっぱらオマーンとの間で行われていると繰り返した。
+米国とイランが敵対行為を一時停止している一方で、他の関係者も週末に紛争に関連した軍事行動を起こしており、さらなる激化のリスクと交渉関係者が直面する複雑な課題を浮き彫りにしている。
+ここ数日の反政府勢力による紅海の船舶攻撃を受けて、サウジ軍はイエメンにあるイランが支援するフーシ派の標的への攻撃を実施した。
+一方、ウクライナ軍はカスピ海でイラン商船を衝突し、船員１人が死亡、もう１人が負傷したと伝えられている。キエフは、この船はロシアの同国侵略を支援する軍需品の輸送に使用されていたと述べ、一方テヘランはこの攻撃を「敵対的で犯罪行為」だと非難した。
+それにもかかわらず、ホワイトハウスがイランへの「大規模攻撃」を検討しているといわれてから間もなく、敵対関係が一時停止したことで投資家らは歓喜した。先物市場がウォール街の堅調な業績を示したため、原油価格は月曜早朝に7％以上下落した。
+交渉者が直面する課題
+しかし専門家らは、恒久的な平和の見通しは深刻な課題に直面していると警告している。米国とイランは現在、直接の公式協議を行っておらず、仲介者を通じて交渉している。
+直接対話が可能となった場合、交渉担当者はイランの核開発計画の将来、制裁緩和、中東の代理組織に対するイランの支援など物議を醸す議題について合意する必要がある。
+経済的な観点から見ると、最も重要な交渉ポイントは、海洋安全保障の保証と、戦略的に重要なホルムズ海峡を通る無料双方向交通の流れの復帰と正常化だろう。
+この海峡は紛争前、世界の石油供給の5分の1が流れていたが、現在も米国による封鎖が続いている。
+イランのバガイ氏は月曜日、ホルムズ海峡の状況は「変わっておらず、依然として閉鎖されている」と述べた。
+イランと海峡を挟んで反対側に位置するオマーンが交渉の主要国として浮上している。伝えられるところによると、オマーンの代表団は金曜日と土曜日にテヘランを訪れ、水路を通る船舶の輸送を管理するための暫定協定の交渉に努めた。
+バガイ氏は金曜日と土曜日の会談を「有益な議論」だったと述べた。
+オマーンも協議は建設的だったと述べているが、アナリストは短期的に交通が正常化する可能性は低いと警告している。
+ドイツ銀行のアナリストらは月曜のメモで、「主な市場リスクは依然としてエネルギーと海運の面にある」と述べた。 「ホルムズを通る交通は依然として深刻な混乱が続いており、紛争は紅海にまで拡大している。」
+「これにより、湾岸と紅海の両方の輸出ルートが同時に混乱する可能性が高まっている。したがって、主要な主体の一時停止は歓迎すべきことだが、特にサイドの戦いがまだ続いているため、脆弱なものである。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/27/us-iran-war-trump-hormuz.html",
+    publishedAt: "2026-07-27T09:55:17+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "fivefold-increase-for-chinese-chip-maker-6392078b",
+    title: "Fivefold increase for Chinese chip maker CXMT in Shanghai debut",
+    titleJa: "中国のチップメーカーCXMTが上海デビューで5倍に増加",
+    summaryJa: "CXMTは時価総額850億ドルで取引初日を終えた",
+    bodyOriginal: `CXMT  closed its first day of trading with a market capitalization of $85 billion`,
+    bodyJa: `CXMTは時価総額850億ドルで取引初日を終えた`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/fivefold-increase-for-chinese-chip-maker-cxmt-in-shanghai-debut-2861827e?mod=mw_rss_topstories",
+    publishedAt: "2026-07-27T09:51:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-55645569",
+    readTime: 2,
+  },
+  {
+    id: "spain-and-france-wildfires-force-more-th-07a88b74",
+    title: "Spain and France wildfires force more than 300,000 to flee as Macron calls crisis meeting",
+    titleJa: "スペインとフランスの山火事で30万人以上が避難を余儀なくされ、マクロン大統領が危機会合を招集",
+    summaryJa: "山火事はフランス南部を襲いスペインにも広がり、今週さらに予想される熱波を前に30万人以上が避難を余儀なくされている。フランスのエマニュエル・マクロン大統領は月曜日に危機閣議を開催する予定で、スペインのペドロ・サンチェス首相はスペイン東部バレンシアの火災被害地域を訪問する予定だ。",
+    bodyOriginal: `Wildfires are ravaging southern France and spreading into Spain, forcing more than 300,000 people to flee ahead of further expected heatwaves during the week.
+French President Emmanuel Macron is set to hold a crisis cabinet meeting on Monday, while Spain's Prime Minister Pedro Sanchez will visit areas hit by fires in Valencia, in the East of Spain.
+The fire, which began in the Southwest of France in Gironde on Wednesday, has burned 42,000 hectares (nearly 104,000 acres) and has forced one of the largest evacuations in France's history, according to French broadcaster France 24 and local news outlets. The wildfires have also affected 77,000 hectares (around 190,000 acres) of the Avila and Toledo areas in Western Madrid.
+"The situation remains highly unfavorable," France's Interior Minister Laurent Nunez said on X on Saturday, according to a Google translation. "At the start of the night, in Gironde, the fire became extremely virulent and unpredictable again, generating its own wind and spreading erratically toward the Bordeaux metropolitan area. By the end of the night, it had calmed down somewhat."
+On Saturday, France's Prime Minister Sébastien Lecornu said the wildfires are a "historic situation" for the country, with nearly 100,000 hectares (247,000 acres) burned since the beginning of the year – an "unprecedented" level.
+Meanwhile, French Finance Minister Roland Lescure said the crisis has delivered a blow to the local economy. "It's like a clap of thunder for an area which could have done without this," he told reporters.
+Since the start of the disaster, 2,500 firefighters, 1,500 military personnel, and nearly 1,200 police have been deployed to bring the fire under control, Nunez said.
+In the latest developments, the main government centre for the Bordeaux area known as the Gironde prefecture, said Monday, "the situation remained generally stable during the night from Sunday to Monday, with no major developments to report."
+The gigantic fire has been labelled an extremely dangerous and rare "pyrocumulonimbus" — a type of fire cloud which generates its own winds and whirlwinds, making it "erratic and unmanageable," Nicolas Braz, a firefighter Captain, told AFP.
+Artificial landscape exacerbates fires
+Stefan Doerr, a professor of wildland fire science at Swansea University, said climate change and poor landscape management are contributing to the increasing intensity of the fires.
+"Climate change plays a major role in this, and better management certainly means that we should manage the landscape better for not propagating fire through it," Doerr said on CNBC's "Squawk Box Europe."
+The abandonment of agricultural land in parts of southern Europe, especially in the Mediterranean and parts of Madrid, has allowed flammable grasses, shrubs and dense forests to spread, making fires harder to contain during extreme heat and drought, Doerr said.
+"And that simply means if we have these extreme weather conditions, these extreme droughts, if there is an ignition, it just becomes much more difficult to fight," Doerr said.
+Additionally, Doerr told CNBC Europe has been shaped by thousands of years of agriculture and human activity, with many forests now consisting of dense conifer plantations that are more prone to wildfires.
+"If we had a natural landscape, we would have actually, in some places, at least far less flammable forests," he said. "This is man-made. It's not that the plants are not natural, but the way the landscape looks now is entirely artificial."
+Doerr said Europe isn't necessarily unprepared for wildfires as they occur every year in the Mediterranean regions.
+"What is so unusual, really, is that we've now [had] the third consecutive heatwave that really dried out the landscape, and that means once we have an ignition, that can really escalate into a very severe fire," he said. "The overall scale of the events now is beyond the capability of dealing with it effectively."
+Doerr acknowledged that Europe has strengthened its firefighting capacity, but argued it has not made enough progress in reducing wildfire risk before blazes start.
+"This is essentially [about] better land management, better preparation for fires, better communication, and also better science compared to just better firefighting resources, which, as we see now, are just too far stretched," he said.`,
+    bodyJa: `山火事はフランス南部を襲いスペインにも広がり、今週さらに予想される熱波を前に30万人以上が避難を余儀なくされている。
+フランスのエマニュエル・マクロン大統領は月曜日に危機閣議を開催する予定で、スペインのペドロ・サンチェス首相はスペイン東部バレンシアの火災被害地域を訪問する予定だ。
+フランス放送局フランス24や地元報道機関によると、水曜日にフランス南西部ジロンド県で発生した火災は4万2000ヘクタール（約10万4000エーカー）を焼き、フランス史上最大規模の避難を余儀なくされた。山火事はマドリード西部のアビラとトレド地域の7万7000ヘクタール（約19万エーカー）にも影響を与えた。
+グーグル翻訳によると、フランスの内務大臣ローラン・ヌニェスは土曜日のX放送で「状況は依然非常に好ましくない」と述べた。 「夜の始まりに、ジロンドでは火災が再び非常に毒性が強く予測不可能になり、独自の風を発生させてボルドー都市圏に向かって不規則に広がりました。夜の終わりまでに、それはいくらか沈静化しました。」
+土曜日、フランスのセバスチャン・ルコルニュ首相は、山火事は同国にとって「歴史的な状況」であり、年初からほぼ10万ヘクタール（24万7千エーカー）が焼かれており、これは「前例のない」レベルであると述べた。
+一方、フランスのロラン・レスキュール財務大臣は、危機が地元経済に打撃を与えていると述べた。同氏は記者団に対し、「これがなければ済んだはずの地域にとっては雷が鳴ったようなものだ」と語った。
+ヌニェス氏によると、災害発生以来、火災を鎮圧するために消防士2,500人、軍人1,500人、警察1,200人近くが出動したという。
+最新の状況について、ジロンド県として知られるボルドー地域の主要政府センターは月曜日、「日曜から月曜にかけて夜間の状況は概ね安定しており、報告すべき大きな進展はなかった」と述べた。
+この巨大火災は極めて危険で稀な「輝積乱雲」と分類されているが、これは自らの風や旋風を発生させ、「不安定で手に負えない」火の雲の一種であると消防士大尉のニコラス・ブラズ氏はAFPに語った。
+人工の景観が火災を悪化させる
+スウォンジー大学の野生火災科学教授ステファン・ドーア氏は、気候変動と不適切な景観管理が火災の激甚化に寄与していると述べた。
+「これには気候変動が大きな役割を果たしており、管理を改善するということは、火災が伝播しないように景観をより適切に管理する必要があることを意味するのは確かだ」とドーア氏はCNBCの番組「Squawk Box Europe」で語った。
+南ヨーロッパの一部、特に地中海とマドリッドの一部で農地が放棄されたことで、可燃性の草、低木、密林が広がり、猛暑と干ばつの際に火災を鎮火することが困難になっている、とドーア氏は述べた。
+「それは単純に、このような異常気象や極端な干ばつが発生した場合、発火が起きた場合、戦うことがさらに困難になることを意味します」とドーア氏は語った。
+さらに、ドーア氏はCNBCに対し、ヨーロッパは数千年にわたる農業と人間の活動によって形成されており、多くの森林は現在、山火事が発生しやすい針葉樹の密集したプランテーションで構成されていると語った。
+「もし私たちに自然の景観があれば、実際には、場所によっては、少なくとも可燃性の森林がはるかに少なくなっているでしょう」と彼は言いました。 「これは人工です。植物が自然でないわけではありませんが、現在の風景の見え方は完全に人工的です。」
+ドーア氏は、地中海地域では山火事が毎年発生しているため、ヨーロッパでは必ずしも山火事への備えができていないわけではないと述べた。
+「本当に異常なのは、今、3回連続の熱波が発生し、地形が本当に乾燥しているということだ。つまり、ひとたび発火すると、非常に深刻な火災にまで発展する可能性があるということだ」と同氏は語った。 「現在の出来事の全体的な規模は、効果的に対処する能力を超えています。」
+ドーア氏は、欧州が消火能力を強化していることは認めたが、火災が始まる前に山火事のリスクを軽減する点では十分な進歩が得られていないと主張した。
+「これは本質的に、より良い土地管理、より良い火災へのより良い準備、より良いコミュニケーション、そしてより良い科学でもありますが、これは、今私たちが目にしているように、あまりにも行き過ぎている消防資源のより良いものと比較したものです」と彼が言いました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/27/wildfires-spain-france-bordeaux-heatwave.html",
+    publishedAt: "2026-07-27T09:27:09+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "i-feel-lucky-i-m-71-and-inherited-20-00-e0ec8a8e",
+    title: "‘I feel lucky’: I’m 71 and inherited $20,000. What should I do with this money?",
+    titleJa: "「幸運だと感じています」: 私は 71 歳で、2 万ドルを相続しました。このお金はどうすればいいですか？",
+    summaryJa: "「私は IRA、高利回り普通預金口座、CD 4 枚、当座預金口座と普通預金口座を持っています。」",
+    bodyOriginal: `“I have an IRA, a high-yield savings account, four CDs and checking and savings accounts.”`,
+    bodyJa: `「私は IRA、高利回り普通預金口座、CD 4 枚、当座預金口座と普通預金口座を持っています。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-feel-lucky-im-71-and-inherited-20-000-what-should-i-do-with-this-money-1ab90925?mod=mw_rss_topstories",
+    publishedAt: "2026-07-27T09:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-33239683",
+    readTime: 2,
+  },
+  {
+    id: "trump-paused-attacks-on-iran-to-make-spa-6cb527d3",
+    title: "Trump paused attacks on Iran to make space for talks, US ambassador says",
+    titleJa: "トランプ大統領は対話の余地を作るためにイランへの攻撃を一時停止したと米国大使が語る",
+    summaryJa: "トランプ大統領は対話の余地を作るためにイランへの攻撃を一時停止したと米国大使が語る- 公開されました",
+    bodyOriginal: `Trump paused attacks on Iran to make space for talks, US ambassador says
+- Published
+President Donald Trump has paused attacks on Iran for the second night in a row to give diplomacy more time, the US ambassador to the UN said.
+Speaking to Fox News on Sunday, ambassador Mike Waltz said the president was "giving talks some space, he's giving it a little bit of room".
+An Iranian army spokesperson said on Sunday that Tehran had halted "retaliatory" attacks in the region in response. The pause follows nearly two weeks of daily US strikes and tit-for-tat attacks, effectively unravelling the ceasefire struck in June.
+Oil prices have dropped sharply in the wake of the pause, opening at $91per barrel on Monday morning after hitting $100 for the first time since May last week.
+Asked whether Trump had decided against escalation for now, Waltz told NBC: "I wouldn't go that far at all. The president is keeping all options on the table."
+Waltz also rejected reports in the New York Times, external that administration officials had warned expanding hostilities could dangerously drain a diminished stockpile of air defence munitions.
+"The US military... has everything that it needs to conduct this campaign as effectively as it needs to be," he said.
+As of Sunday evening, Trump had not spoken publicly on the latest developments, but earlier posted computer-generated images on his Truth Social account that depicted US military planes bombing Iranian ships and Kharg island.
+Meanwhile, Iran and Oman held several rounds of technical talks in Tehran on Friday and Saturday to discuss management of the Strait of Hormuz, according to Iranian foreign ministry spokesman Esmail Baghaei.
+Disputes over control of the strait reignited US-Iran tensions earlier this month and it remains a major block to permanently ending the war.
+Iran and the US signed a memorandum of understanding in June to halt military operations and reopen the strait, as well as to reach an agreement to end the war over the following 60 days.
+But after Iranian forces attacked tankers in the Strait of Hormuz on 13 July, the US resumed airstrikes on the country and reinstated its naval blockade on Iranian ports.
+Iran retaliated with attacks on US military facilities and bases across the Middle East, killing four American soldiers. The US strikes have since killed dozens of people, according to Iran's health ministry.
+In the UK, new Defence Secretary Wes Streeting said he would meet his US counterpart Pete Hegseth in the coming week to discuss the strait, which is one of the world's key transport routes for oil, liquid natural gas and other essential commodities.
+"When it comes to securing maritime freedom and free commercial shipping in the Strait of Hormuz, that's where we are absolutely aligned," Streeting told the BBC.
+Last week, oil prices hit $100 a barrel for the first time since May, as the renewed fighting stoked fears over global energy supplies.
+As the war nears its fifth month, it remains largely unpopular in the US, with a new poll from CBS/YouGov suggesting 57% of Americans are frustrated about the conflict and only 19% optimistic.
+Thousands of people have been killed across the Middle East since the US-Israeli war with Iran began in February, official figures show, with the vast majority coming from Iran and Lebanon.
+President Trump is set to meet Israeli Prime Minister Benjamin Netanyahu in the White House on Tuesday.
+- Published2 days ago
+- Published2 days ago`,
+    bodyJa: `トランプ大統領は対話の余地を作るためにイランへの攻撃を一時停止したと米国大使が語る
+- 公開されました
+米国の国連大使は、ドナルド・トランプ大統領が外交に時間を与えるため、2夜連続でイランへの攻撃を一時停止したと述べた。
+マイク・ウォルツ大使は日曜、FOXニュースのインタビューで、大統領が「対話にスペースを与えている、少しだけ余地を与えている」と語った。
+イラン軍報道官は日曜、イラン政府がこれに応じて地域での「報復」攻撃を停止したと述べた。この停止は、米国によるほぼ2週間にわたる毎日の攻撃と報復攻撃に続くもので、6月に締結された停戦は事実上解体された。
+原油価格は一時停止を受けて急落し、先週５月以来初めて１バレル＝１００ドルを付けた後、月曜朝には１バレル＝９１ドルで取引を開始した。
+ウォルツ氏はトランプ大統領が今のところエスカレーションを見送る決断を下したかどうかとの質問に対し、「私はそこまでは全く考えない。大統領はあらゆる選択肢をテーブルの上に置いている」とＮＢＣに語った。
+ワルツ氏はまた、敵対行為の拡大により防空弾薬の減少する備蓄が危険なまでに枯渇する可能性があると政権当局者が警告したというニューヨーク・タイムズの社外報道も否定した。
+「米軍は…この作戦を必要なだけ効果的に実施するために必要なものをすべて備えている」と彼は語った。
+日曜夕方の時点で、トランプ大統領は最新の動向について公には発言していないが、これに先立ち、米軍機がイランの船舶やハルグ島を爆撃する様子を描いたコンピューター生成画像を自身の真実ソーシャルアカウントに投稿していた。
+一方、イラン外務省のエスマイル・バガイ報道官によると、イランとオマーンは金曜日と土曜日にテヘランで数回の技術協議を開催し、ホルムズ海峡の管理について話し合った。
+海峡の制圧を巡る紛争で今月初めに米国とイランの緊張が再燃しており、戦争を永久に終わらせる上で依然として大きな障害となっている。
+イランと米国は６月、軍事作戦を停止して海峡を再開するとともに、その後６０日間で戦争を終わらせる合意に達する覚書に署名した。
+しかし、7月13日にイラン軍がホルムズ海峡でタンカーを攻撃した後、米国は同国への空爆を再開し、イラン港湾の海上封鎖を再開した。
+イランは中東各地の米軍施設や基地を攻撃し報復し、米兵４人が死亡した。イラン保健省によると、その後の米国の空爆により数十人が死亡した。
+英国では、ウェス・ストリーティング新国防長官が来週、米国のピート・ヘグセス国防長官と会談し、石油、液体天然ガス、その他の必需品の世界の重要な輸送ルートの一つである海峡について話し合う予定だと述べた。
+ストリーティング氏はBBCに対し、「ホルムズ海峡における海洋の自由と自由な商船の確保に関しては、我々は完全に一致している」と語った。
+先週、新たな戦闘で世界のエネルギー供給に対する不安が高まるなか、原油価格は5月以来初めて1バレル＝100ドルに達した。
+戦争が5カ月目に近づいているが、アメリカ国内では依然として大部分が不人気であり、CBS/YouGovの最新世論調査によると、アメリカ人の57％が紛争に不満を抱いており、楽観視しているのはわずか19％だという。
+公式統計によると、2月に米国・イスラエルとイランの戦争が始まって以来、中東全土で数千人が殺害され、その大部分がイランとレバノンから来ている。
+トランプ大統領は火曜日にイスラエルのベンヤミン・ネタニヤフ首相とホワイトハウスで会談する予定だ。
+- 2 日前に公開
+- 2 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-27T08:14:46+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77dd/live/1590f3b0-890c-11f1-84f3-d921f52926a2.jpg",
+    readTime: 4,
+  },
+  {
+    id: "chinese-chipmaker-shares-surge-470-in-bl-0e62b025",
+    title: "Chinese chipmaker shares surge 470% in blockbuster stock market debut",
+    titleJa: "中国の半導体メーカー株、大ヒット株式市場デビューで470％上昇",
+    summaryJa: "中国の半導体メーカー株、大ヒット株式市場デビューで470％上昇- 公開されました",
+    bodyOriginal: `Chinese chipmaker shares surge 470% in blockbuster stock market debut
+- Published
+Shares in China's biggest memory chip maker have surged by more than 470% as they made their debut on the Shanghai Stock Exchange's tech-heavy Star Market.
+The surge has pushed ChangXin Memory Technologies' (CXMT) stock market valuation to around 3.3 trillion yuan ($487.3bn; £364.9bn), making it the most valuable listed company in mainland China.
+The spectacular debut comes despite a sharp sell-off in technology stocks around the world this month.
+CXMT manufactures dynamic random-access memory (Dram) chips that power artificial intelligence (AI) data centres, mobile phones, PCs, tablets and other devices.
+The firm, which was founded in 2016 by Chairman Zhu Yiming, is headquartered in Hefei, Anhui Province in eastern China.
+The company has said it plans to use most of the proceeds from the initial public offering (IPO) to boost production of memory chips and carry out more research and developments.
+The stellar performance of its IPO will offer some comfort to Chinese financial officials, who have been rolling out measures to help curb a stock market slump that wiped out more than $1.5tn in recent weeks.
+Analysts said the jump was also being driven by demand for the shares far outstripping supply.
+"The reason for the extraordinary bounce this morning is that only 7% of the shares are available for trading," Anna Macdonald, investment strategy director at Hargreaves Lansdown told the BBC's Today programme.
+It also highlights Chinese investors' strong appetite for a homegrown chipmaker, as the government in Beijing pushes ahead with plans to make its technology industry self-reliant.
+South Korean tech giants Samsung Electronics and SK Hynix and US-based Micron dominate the Dram market, with the three companies accounting for around 90% of global production.
+Earlier this month, SK Hynix raised $26.5bn (£19.8bn) in its New York share offering, marking the largest ever listing by a foreign firm in the US.
+The company, a key supplier to AI chip giant Nvidia, said it had sold 177.9 million American depositary shares for $149 each.
+The shares surged as much as 17% on Friday in their first day of trading on the Nasdaq but have since given up some of that gain.
+SK Hynix saw its market value top $1tn in its home country in May, lifted by the boom in demand for AI chips.`,
+    bodyJa: `中国の半導体メーカー株、大ヒット株式市場デビューで470％上昇
+- 公開されました
+中国最大のメモリチップメーカーの株価は、上海証券取引所のハイテク産業が多いスター市場に初登場し、470％以上急騰した。
+この急騰により、長信記憶科技（CXMT）の株式市場評価額は約3兆3000億元（4873億ドル、3649億ポンド）にまで上昇し、中国本土で最も価値のある上場企業となった。
+今月、世界中のハイテク株が急落したにもかかわらず、この華々しいデビューが実現した。
+CXMT は、人工知能 (AI) データセンター、携帯電話、PC、タブレット、その他のデバイスに電力を供給するダイナミック ランダム アクセス メモリ (Dram) チップを製造しています。
+同社は2016年に朱一明会長によって設立され、中国東部の安徽省合肥に本社を置いている。
+同社は、新規株式公開（IPO）で得た収益のほとんどをメモリチップの生産拡大とさらなる研究開発の実施に充てる計画だと述べた。
+同社のIPOの素晴らしい業績は、ここ数週間で1兆5000億ドル以上を吹き飛ばした株式市場の低迷を抑制するための措置を展開してきた中国の金融当局者にとって、ある程度の安心感をもたらすだろう。
+アナリストらは、供給をはるかに上回った株式への需要も高騰の原動力となっていると述べた。
+ハーグリーブス・ランズダウンの投資戦略ディレクター、アンナ・マクドナルド氏はBBCのトゥデイ番組で、「今朝の異常な反発の理由は、取引に利用できる株式が7％しかないからだ」と語った。
+また、北京政府がテクノロジー産業の自立化計画を推進する中、中国の投資家が国産チップメーカーに強い意欲を持っていることも浮き彫りになった。
+韓国のハイテク大手サムスン電子とSKハイニックス、米国に本拠を置くマイクロンがドラム市場を独占しており、この3社で世界生産の約90％を占めている。
+今月初め、SKハイニックスはニューヨーク株式売り出しで265億ドル（198億ポンド）を調達し、外国企業による米国上場としては史上最大規模となった。
+AIチップ大手エヌビディアへの主要サプライヤーである同社は、米国預託株式1億7,790万株を1株あたり149ドルで売却したと発表した。
+同社株は金曜日、ナスダック市場での取引初日に最大17％上昇したが、その後はその上昇分の一部を手放した。
+SKハイニックスは、AIチップの需要急増により、5月に本国での時価総額が1兆ドルを超えた。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-27T07:34:59+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0377/live/bb1db120-896a-11f1-a3ae-0dbbd1718109.jpg",
+    readTime: 3,
+  },
+  {
+    id: "new-uk-prime-minister-burnham-says-he-wo-fa432664",
+    title: "New UK Prime Minister Burnham says he would be prepared to call out Trump",
+    titleJa: "英国のバーナム新首相、トランプ氏を呼び出す用意があると発言",
+    summaryJa: "英国の新首相アンディ・バーナムは、重要な大西洋を越えた関係の方向性を定めるドナルド・トランプ米大統領に対し、英国の国益を守るために喜んで呼び掛けると述べた。バーナム氏は日曜日に放送されたBBCのインタビューで、トランプ氏が正式に就任した月曜日に電話で会話したと述べ、それが「良いやりとり」であり、トランプ氏は「温かい」と感じたと述べた。",
+    bodyOriginal: `The U.K.'s new prime minister, Andy Burnham, said he would be willing to call out U.S. President Donald Trump to defend the U.K.'s national interest, as he set the tone for the key trans-Atlantic relationship.
+Speaking to the BBC in an interview aired Sunday, Burnham said he had a phone conversation with Trump on Monday when he officially took on the role, describing it as "a good exchange" and that he found Trump "warm".
+"We will continue to build the relationship as we go forward," Burnham added.
+Asked if Burnham would place his trust in Trump, Burnham said: "it's a changing world isn't it, and you just obviously have to call things as they develop".
+Trump has frequently criticized the U.K., among other European and NATO allies, for not pulling their weight in the U.S.-led war on Iran.
+But Trump has welcomed Burnham's plan to fast-track oil and gas exploration in already-licensed fields in the North Sea. Writing on Truth Social last week, Trump called North Sea oil "invaluable," adding it will take the U.K. from a "Poverty Stricken Disaster, to one of the Richest Countries anywhere in the World!"
+Trump had criticized Burnham's predecessor, Keir Starmer, over the U.K.'s energy policy. In an interview with The Telegraph newspaper in April, Trump said: "All Starmer wants is costly windmills that are driving your energy prices through the roof."
+Starmer announced last month that he would step down from his post. His two years in office were marked by a series of policy U-turns, scandals over staffing appointments and a dramatic loss in Britain's local elections which sparked calls for his resignation from within his own ranks.
+Asked by BBC journalist Laura Kuenssberg if he would call out Trump if it was the right thing to do, Burnham said, "of course", and added: "You have to defend your own national interest before anything else. That's what you're required to do if you're to do this job properly."
+"I can't at any point say that I won't take a different opinion from him, that I will need to voice a different idea that is right for Britain," Burnham said.
+Defense spending
+Burnham declined to be drawn on a date for raising defense spending to 3% of GDP.
+John Healey, the U.K.'s new finance minister – known as the Chancellor of the Exchequer – under Burnham, is expected to see defense spending as a priority. Healey's appointment as Burnham's second-in-command came just weeks after he resigned as Starmer's defense minister, citing his view that the government was "unwilling to commit the resources that the nation needs to defend the country."
+Burnham said: "I appointed my new chancellor very aware of what he had said about the critical importance of defense spending and the position that he had taken about that.
+"The first challenge facing us both is to ensure that the defense investment plan is fully funded and that's the thing that's right in front of us and we need to work that through as we go towards the budget later this year."
+Starmer had announced in June an extra £15 billion ($19.9 billion) in defense spending over the next four years as part of the U.K.'s Defence Investment Plan (DIP), which will lift annual spending to £79.1 billion by 2029, or 2.7% of GDP.
+The DIP is intended to bolster the U.K.'s military capability, its nuclear deterrent and industrial capacity, while making way for greater technical investment in areas like cybersecurity, drones and AI.
+But analysts warn that high levels of public debt and the highest borrowing costs among its G7 peers could constrain the new government's ability to dramatically boost spending.`,
+    bodyJa: `英国の新首相アンディ・バーナムは、重要な大西洋を越えた関係の方向性を定めるドナルド・トランプ米大統領に対し、英国の国益を守るために喜んで呼び掛けると述べた。
+バーナム氏は日曜日に放送されたBBCのインタビューで、トランプ氏が正式に就任した月曜日に電話で会話したと述べ、それが「良いやりとり」であり、トランプ氏は「温かい」と感じたと述べた。
+「我々は今後も関係を築き続けていく」とバーナム氏は付け加えた。
+バーナム氏がトランプ氏を信頼するかとの質問に対し、バーナム氏は「世界は変わりつつある。当然、事態の進展に応じて判断する必要がある」と述べた。
+トランプ大統領は、米国主導の対イラン戦争で力を発揮しなかったとして、欧州やNATOの同盟国の中でも英国を頻繁に批判してきた。
+しかしトランプ大統領は、北海のすでに認可された油田での石油・ガス探査を急ぐというバーナムの計画を歓迎している。トランプ大統領は先週、真実ソーシャルに寄稿し、北海石油は「計り知れないほど貴重」であると述べ、英国を「貧困に苦しむ惨事から世界で最も裕福な国の一つに」導いてくれるだろうと付け加えた。
+トランプ氏は英国のエネルギー政策をめぐり、バーナム氏の前任者キア・スターマー氏を批判していた。トランプ大統領は4月のテレグラフ紙とのインタビューで、「スターマーが望んでいるのは、エネルギー価格を高騰させる高価な風車だけだ」と語った。
+スターマー氏は先月、その職を辞任すると発表した。彼の在任期間の2年間は、一連の政策の方向転換、人事人事をめぐるスキャンダル、そして英国の地方選挙での劇的な敗北によって特徴づけられ、内部から辞任を求める声が高まった。
+BBCジャーナリストのローラ・クエンスバーグ氏から、もしそれが正しいことであればトランプ氏を非難するかとの質問に対し、バーナム氏は「もちろん」と答え、「何よりもまず自分自身の国益を守らなければならない。この仕事を適切に遂行するためには、それが求められることだ」と付け加えた。
+バーナム氏は「いかなる時点でも、彼と異なる意見をとらないとは言えない。英国にとって正しい別の考えを表明する必要がある」と語った。
+防衛費
+バーナム氏は国防費を国内総生産（ＧＤＰ）比３％に引き上げる日程についての指名を拒否した。
+バーナム政権下で大蔵大臣として知られる英国の新財務大臣ジョン・ヒーリー氏は、防衛支出を優先事項とみなすと予想されている。ヒーリー氏がバーナム政権の副司令官に任命されたのは、政府が「国を守るために必要な資源を投入することに消極的である」という見解を理由に、スターマー国防相を辞任したわずか数週間後のことだった。
+バーナム首相は、「私は新首相が国防費の極めて重要性について述べたことと、それについての首相の立場をよく理解して任命した。
+「我々双方が直面する最初の課題は、防衛投資計画に十分な資金が確実に投入されるようにすることであり、それが我々の目の前にあることであり、今年後半の予算編成に向けて取り組む必要がある。」
+スターマー氏は6月、英国の国防投資計画（DIP）の一環として今後4年間で追加の国防支出を150億ポンド（199億ドル）増やすと発表しており、これにより年間支出は2029年までに791億ポンド（国内総生産（GDP）の2.7％）に引き上げられる予定だ。
+DIPは英国の軍事力、核抑止力、産業能力を強化すると同時に、サイバーセキュリティ、ドローン、AIなどの分野での技術投資の拡大に道を開くことを目的としている。
+しかしアナリストらは、高水準の公的債務とG7諸国の中で最も高い借入コストが新政府の歳出を大幅に拡大する能力を制約する可能性があると警告している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/26/new-uk-prime-minister-burnham-says-he-would-be-prepared-to-call-out-trump.html",
+    publishedAt: "2026-07-27T05:06:47+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "why-trump-s-new-tariff-blitz-is-very-dif-1e6eeca5",
+    title: "Why Trump's new tariff blitz is very different this time round",
+    titleJa: "トランプ大統領の新たな関税電撃作戦が今回は大きく異なる理由",
+    summaryJa: "米国とイランの軍事紛争が6か月目に入る中、ドナルド・トランプ大統領はより身近な戦場である世界貿易に戻ってきた。トランプ大統領は金曜日、欧州連合、中国、英国、カナダを含む60の貿易相手国を対象とした新たな関税電撃作戦を開始した。最新の関税の波は東部時間午前12時1分に発効した。金曜日、7月24日に期限切れとなった一時しのぎの10％の基本関税に代わり、10％から12.5％の範囲となる。",
+    bodyOriginal: `As the U.S. military conflict with Iran enters its sixth month, President Donald Trump has returned to a more familiar battleground: global trade.
+Trump on Friday launched a fresh tariff blitz targeting 60 trading partners, including the European Union, China, the U.K. and Canada. The latest wave of tariffs — which took effect at 12:01 a.m. E.T. Friday, replacing the stopgap 10% baseline tariff that expired July 24 — range from 10% to 12.5%.
+Initial market reaction Friday was muted, with the renewed tariff push largely anticipated by investors, given the approaching expiry of the previous duties. That contrasts with the 'shock and awe' approach that underpinned the sweeping 'Liberation Day' levies announced in April 2025, which sent markets plummeting.
+However, investors and analysts say the circumstances surrounding the latest tariff push are markedly different this time round, landing amid a more challenging global economic landscape than last year and underpinned by a separate legal framework, potentially risking a lasting drag on markets.
+An emboldened White House
+"The significance this time around is twofold," said Emma Moriarty, portfolio manager at CG Asset Management.
+"Not only does it show the Trump administration's commitment to tariffs, but it shows this commitment against a backdrop of a global energy shock and increasing supply chain bottlenecks. They appear content to continue to levy new tariffs even when they exacerbate domestic markets. For markets, the implications should be clear: we have to position for a low growth and high inflation outcome," Moriarty said.
+The measures come as global stock markets continue to grapple with the impact of ongoing hostilities in the Middle East, which have seen oil prices rebound above $100 this week as hopes of a negotiated ceasefire in the war continue to recede.
+"While the outcome won't come as a complete shock to markets, it is nonetheless another unwelcome source of uncertainty as sentiment is buffeted by the renewed conflict between the U.S. and Iran and concerns about levels of expenditure in the tech sector," said Russ Mould, investment director at AJ Bell.
+The White House administration had been expected to seek an alternative route toward a new round of tariffs following the Supreme Court's ruling in February that the previous tariffs were illegal. The new onslaught is being pursued via Section 301 of the Trade Act of 1974, with officials citing alleged forced labor practices as the reason for the new tariffs.
+Specifically, countries that have adopted or committed to introducing prohibitions will face a 10% duty, while those that haven't will be subject to a 12.5% charge, with the levies affecting 99.4% of American imports.
+Alan Siow, co-head of EM corporate debt at Ninety One Asset Management, said the White House appears to be adapting to such legal constraints and may be emboldened by limited retaliation and no clear inflation spike.
+"These latest tariffs seem to be an evolution of the opening tariff salvos," Siow said, adding that he expects other countries to respond in a more measured way initially, reserving escalation until the policy's likely impact becomes clearer.
+A permanent drag on markets?
+Looking ahead, Martin Jacob, professor of accounting and control at IESE Business School in Barcelona, said the reintroduction of tariffs hints at the White House's ambition to preserve import levies as a "lasting feature" of U.S. economic policy.
+As the previous temporary measures neared their expiry deadlines, that put pressure on the White House to establish more permanent tariff regimes, Jacob explained. "The latest measures therefore represent more than another short-term negotiating salvo," he added.
+Matthew Ryan, head of market strategy at global financial services firm Ebury, said the durability of the new levies risks a more lasting structural pressure point for markets.
+"Following a brief hiatus, the dreaded T-word is back on investors' lips," Ryan said. "The move to Section 301 removes the legal vulnerability that allowed the Supreme Court to strike down the previous round of import taxes. With that legal escape hatch now closed, markets may need to start pricing tariffs as a structural drag on global growth rather than a transient risk to be negotiated away."
+Ryan added that attention now turns to next week's Federal Open Market Committee announcement, with the recent jump in oil prices raising the possibility that the Fed could hike interest rates later this year. That marks a shift from earlier expectations that it would hold steady through year-end before cutting in 2027, and Ryan expects policymakers to keep the option of a hike open.`,
+    bodyJa: `米国とイランの軍事紛争が6か月目に入る中、ドナルド・トランプ大統領はより身近な戦場である世界貿易に戻ってきた。
+トランプ大統領は金曜日、欧州連合、中国、英国、カナダを含む60の貿易相手国を対象とした新たな関税電撃作戦を開始した。最新の関税の波は東部時間午前12時1分に発効した。金曜日、7月24日に期限切れとなった一時しのぎの10％の基本関税に代わり、10％から12.5％の範囲となる。
+金曜の当初の市場の反応は鈍く、以前の関税の期限切れが近づいていることを踏まえ、投資家は再関税の発動を大方予想していた。これは、市場を急落させた2025年4月に発表された大幅な「解放記念日」賦課金を支えた「衝撃と畏怖」のアプローチとは対照的である。
+しかし、投資家やアナリストらは、今回の関税推進を取り巻く状況は今回は著しく異なっており、昨年よりも世界経済が厳しい状況にある中で上陸し、別の法的枠組みに支えられており、潜在的に市場に永続的な足かせとなるリスクがあると述べている。
+勇気あるホワイトハウス
+CGアセット・マネジメントのポートフォリオマネジャー、エマ・モリアーティ氏は「今回の重要性は2つある」と語る。
+「これはトランプ政権の関税に対するコミットメントを示すだけでなく、世界的なエネルギーショックやサプライチェーンのボトルネックの増大を背景にこのコミットメントを示している。国内市場を悪化させても新たな関税を課し続けることに満足しているようだ。市場にとって、その影響は明らかであるはずだ。我々は低成長と高インフレという結果に向けて態勢を整えなければならない」とモリアーティ氏は述べた。
+この措置は、世界の株式市場が中東で続く敵対行為の影響に引き続き対応している中で行われたもので、戦争の交渉による停戦への期待が後退し続ける中、今週原油価格は100ドルを超えて反発している。
+ＡＪベルの投資ディレクター、ラス・モールド氏は「この結果は市場にとって完全な衝撃となるわけではないが、それでも米国とイランの新たな対立やハイテク分野の支出水準への懸念によってセンチメントが弱められているため、これもまた望ましくない不確実性の源となっている」と述べた。
+最高裁判所が２月に前回の関税は違法であるとの判決を下したことを受け、ホワイトハウス政権は新たな関税発動に向けた代替ルートを模索するとみられていた。新たな猛攻は1974年通商法第301条に基づいて追及されており、当局者らは新たな関税の理由として強制労働行為の疑いを挙げている。
+具体的には、禁止措置を導入している国、または導入を約束している国には10％の関税が課される一方、そうでない国には12.5％の課徴金が課せられ、この課徴金は米国の輸入品の99.4％に影響を与えることになる。
+ナインティ・ワン・アセット・マネジメントのエマージング社債部門共同責任者、アラン・シオウ氏は、ホワイトハウスはこうした法的制約に適応しているようで、限定的な報復と明確なインフレ急騰がないことで勇気づけられる可能性があると述べた。
+シオウ氏は「これらの最新の関税は、初期関税一斉発動の進化版のようだ」と述べ、他国も当初はより慎重な対応をし、政策の影響がより明確になるまでエスカレーションは留保すると予想していると付け加えた。
+市場への永続的な足かせとなるでしょうか？
+バルセロナのIESEビジネススクールの会計・管理教授マーティン・ジェイコブ氏は、今後を見据えて、関税の再導入は輸入関税を米国の経済政策の「永続的な特徴」として維持するというホワイトハウスの野心を示唆していると述べた。
+これまでの暫定措置の期限が近づくにつれ、より恒久的な関税制度を確立するようホワイトハウスに圧力がかかった、とジェイコブ氏は説明した。 「したがって、最新の措置は、単なる短期的な交渉の一斉射撃以上の意味を持つ」と同氏は付け加えた。
+世界的な金融サービス会社イーブリーの市場戦略責任者マシュー・ライアン氏は、新たな賦課金の持続性により、市場にとって構造的な圧力がさらに永続するリスクがあると述べた。
+「短い休止期間を経て、恐ろしいTワードが再び投資家の口に上がった」とライアン氏は語った。 「第301条への移行により、最高裁判所が前回の輸入税の取り消しを可能にした法的脆弱性が取り除かれる。その法的逃げ口が閉ざされた今、市場は交渉で回避すべき一時的なリスクではなく、世界成長に対する構造的な足かせとして関税を設定し始める必要があるかもしれない。」
+ライアン氏は、最近の原油価格の高騰によりFRBが年内に利上げする可能性が高まっており、注目は来週の連邦公開市場委員会の発表に移っていると付け加えた。これは、2027年に利下げするまで年末まで安定するとのこれまでの予想からの変化を示しており、ライアン氏は政策当局者が利上げの選択肢を残しておくと予想している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/27/donald-trump-tariffs-trade-war-iran.html",
+    publishedAt: "2026-07-27T05:04:43+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
     id: "china-memory-chipmaker-cxmt-skyrockets-5-3f1d9b66",
     title: "China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut",
     titleJa: "中国のメモリチップメーカーCXMT、大ヒット上海デビューで500%急騰",
@@ -1557,572 +1887,6 @@ CBSニュースのWHCA会長、ジャン・ウェイジア氏は発言の中で�
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg",
     readTime: 6,
-  },
-  {
-    id: "pro-stock-pickers-cannot-beat-simple-mat-02d21f33",
-    title: "Pro stock pickers cannot beat simple math — war in the Middle East is proving it",
-    titleJa: "プロの株式ピッカーは単純な計算には勝てない — 中東の戦争がそれを証明している",
-    summaryJa: "積極的に株を選ぶ人は、ほぼ常に市場全体に対して負けます。単純な計算には勝てません。",
-    bodyOriginal: `Active stock pickers almost always lose against the broad market. They can’t beat simple math.`,
-    bodyJa: `積極的に株を選ぶ人は、ほぼ常に市場全体に対して負けます。単純な計算には勝てません。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/if-timing-the-stock-market-were-easy-the-iran-war-would-have-proven-it-its-done-the-opposite-ac090ad3?mod=mw_rss_topstories",
-    publishedAt: "2026-07-25T13:36:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-40325110",
-    readTime: 2,
-  },
-  {
-    id: "does-crypto-make-your-portfolio-less-ris-42877125",
-    title: "Does crypto make your portfolio less risky? Only if you do it right, experts say",
-    titleJa: "暗号通貨はポートフォリオのリスクを軽減しますか?正しく実行した場合にのみ専門家は言う",
-    summaryJa: "ファイナンシャルアドバイザーや市場アナリストらによると、ポートフォリオの多様化のためにビットコインなどの仮想通貨を使用する正しい方法と間違った方法があるという。",
-    bodyOriginal: `There have been some lofty claims made about cryptocurrency in the past, including that it will replace government-issued money, prove as groundbreaking as the smart phone and democratize the financial system. But most investors point to a fairly ordinary reason for holding the digital assets: to diversify their investment portfolio.
-The catch: There's a right way and a wrong way to use digital assets such as bitcoin for diversification, financial advisors and market analysts said.
-Diversification is an important facet of a sound portfolio, advisors said. At a high level, it helps reduce investment risk.
-Nearly half of crypto investors — 45% — say diversification is the primary reason they hold the asset, according to a report published this month by the Urban Institute, a think tank.
-In fact, diversification was investors' No. 1 motivator, according to the report.
-In other reasons, 27% of the investors said they believe crypto is the future, 11% said they would make more money in crypto than other investments, and 5% said they don't trust the U.S. dollar, according to Urban, which surveyed 3,194 U.S. adults in January. It defines crypto owners as those who report owning cryptocurrency such as bitcoin, solana, ethereum, XRP, stablecoins, memecoins and other digital coins.
-The findings suggest that investors are looking to crypto as part of a more traditional investment strategy, whereas in the earlier days of its roughly two-decade existence, investors largely held it to be countercultural and nonconformist, experts said.
-"As crypto gets more widely integrated into mainstream financial markets, and becomes just another asset, it makes sense that it'll be separated from the anti-establishment views that drove early adopters," said Dan Cassino, a professor of political science at Fairleigh Dickinson University and the author of "Bitcoin Bros: Masculinity, Cryptocurrency, and the Future of Men."
-Overall, it's a good sign that people are thinking of cryptocurrency in investment terms, said Douglas Boneparth, a certified financial planner and president and founder of Bone Fide Wealth in New York.
-"When the primary motivation moves from ideology or speculation toward portfolio construction, that's a sign of maturation," said Boneparth, who is also a member of the CNBC Financial Advisor Council.
-However, just how effective crypto can be as a diversifying asset "depends entirely on the quality of the execution," he said.
-'A good complement' to traditional investments
-There are different ways to diversify an investment portfolio.
-For example, investors can diversify between asset classes by owning a mix of stocks, bonds, cash, commodities and crypto, among others. They can also diversify within asset classes, such as by holding both U.S. stocks and international stocks.
-The basic premise is to have assets that don't move in tandem, but instead move up and down independently of each other, said Veronica Willis, a senior investment strategist on the asset allocation team at Wells Fargo Investment Institute.
-That way, when stocks drop, investors can rely on other asset classes to serve as a ballast.
-Bonds are a traditional way to diversify away from stocks. Over the past 10 years, bonds have displayed a low correlation to U.S. stocks, with a 0.02 correlation to the S&P 500 stock index, Willis said.
-Aa correlation of 1 means the assets move perfectly in tandem — meaning there isn't a diversification benefit. A correlation of zero means there is no relationship, while a negative correlation means they move in opposite directions.
-Meanwhile, digital assets have a correlation of 0.2 with the S&P 500 over the past decade, Willis said. That's higher than bonds but still "very low," she said.
-"Cryptocurrency tends to be a diversifier, so over the long-term it can be a good complement to more traditional investments," said Jim Ferraioli, director of crypto research and strategy at the Schwab Center for Financial Research.
-Boneparth said bitcoin, in particular, "earns its place in a portfolio on diversification grounds."
-It has "a return history that is genuinely distinct from stocks and bonds over long time horizons," said Boneparth. "For investors who are thinking about currency debasement, geopolitical instability or simply want an asset with different fundamental drivers, that is a meaningful addition."
-Diversification benefit is not 'unconditional'
-Investors who turn to cryptocurrency for diversification need to be prepared for volatility, experts said. During some downturns, you might see red across your portfolio, they said.
-"Correlations between bitcoin and equities tend to spike during periods of acute market stress, when investors sell whatever is liquid," Boneparth said. "So, the diversification benefit is real but not unconditional."
-Crypto tends to move with stocks during broad market sell-offs because digital assets are a "hybrid" between diversifying assets and growth assets, Willis said. Growth assets tend to have high potential for investment returns but are also high-risk, she said.
-While all types of crypto don't necessarily move in tandem with bitcoin, it's the primary driver of the asset class's returns since it has the largest market share, she said.
-"When investors start to get spooked a little bit, and get rid of their risk-on assets, crypto gets bundled in with that," Willis said.
-In short: Don't rely on crypto as your only diversifier, she said.
-Correlations can also change over time, experts said. "Assets that were once great diversifiers may no longer be so," Amy Arnott, a portfolio strategist for Morningstar, wrote in a May 2025 article.
-For example, in the 10 years through April 30, 2025, bitcoin and other "major cryptocurrencies" had a correlation of less than 0.4 relative to stocks, bonds, real estate, gold, commodities, and other asset types, Arnott wrote. However, bitcoin had a correlation of 0.55 when measured against U.S. stocks for the trailing three-year period ending in April 2025, up from correlation numbers near zero or even below zero in some previous periods, she wrote.
-What is the best crypto allocation?
-Your allocation to cryptocurrencies is an important factor, Boneparth said. Many financial advisors say that a 1% to 2% investment in the digital assets is a good allocation.
-"Above 5%, bitcoin's volatility can begin to dominate the portfolio's overall risk profile," Boneparth said. "At that point it stops functioning as a diversifier and starts functioning as the primary bet."
-Willis said she recommends a roughly 2% to 3% allocation to crypto. Even then, she said, she largely recommends it only for investors for whom growth is an investment goal, as opposed to more conservative investors who seek income, for example.
-Small allocations blunt the overall risk and impact of volatility, she said.
-"If you're a longer-term investor, we think [digital assets] can add some attractive diversification benefits," Willis said. "But that doesn't take away from it being a highly volatile asset."`,
-    bodyJa: `仮想通貨についてはこれまでにも、政府発行の通貨に取って代わる、スマートフォンと同じくらい画期的である、金融システムを民主化するなど、高尚な主張がいくつかなされてきた。しかし、ほとんどの投資家は、デジタル資産を保有するごくありふれた理由として、投資ポートフォリオを多様化するためを挙げています。
-落とし穴: ビットコインなどのデジタル資産を多様化のために使用するには、正しい方法と間違った方法があるとファイナンシャルアドバイザーや市場アナリストは述べています。
-アドバイザーらによると、分散は健全なポートフォリオの重要な側面だという。高いレベルでは、投資リスクの軽減に役立ちます。
-シンクタンクのアーバン・インスティテュートが今月発表した報告書によると、仮想通貨投資家のほぼ半数（45％）が、資産を保有する主な理由は分散であると述べている。
-実際、投資家の最大の動機は多様化だったという。
-1月に米国の成人3,194人を対象に調査を行ったアーバン調査によると、その他の理由として、投資家の27％が仮想通貨が未来であると信じていると答え、11％が他の投資よりも仮想通貨でより多くの利益を得るだろうと答え、5％が米ドルを信頼していないと述べた。これは、暗号通貨所有者を、ビットコイン、ソラナ、イーサリアム、XRP、ステーブルコイン、ミームコイン、その他のデジタルコインなどの暗号通貨を所有していると報告する人として定義します。
-この調査結果は、投資家がより伝統的な投資戦略の一環として仮想通貨に注目していることを示唆しているが、約20年にわたる仮想通貨の存在初期には、投資家は主に仮想通貨をカウンターカルチャー的で反体制的だと考えていたと専門家らは述べた。
-フェアリー・ディキンソン大学の政治学教授であり、『ビットコイン・ブラザーズ：男性性、仮想通貨、そして男性の未来』の著者であるダン・カッシーノ氏は、「仮想通貨が主流の金融市場に広く統合され、単なる資産の一つにすぎなくなるにつれ、初期導入者を駆り立てた反体制的な見方から仮想通貨が切り離されるのは当然だ」と述べた。
-全体として、人々が仮想通貨を投資の観点から考えているのは良い兆候だと、認定ファイナンシャル・プランナーであり、ニューヨークのボーン・ファイド・ウェルスの社長兼創設者であるダグラス・ボーンパース氏は述べた。
-CNBCファイナンシャルアドバイザー評議会のメンバーでもあるボーンパース氏は、「主な動機がイデオロギーや投機からポートフォリオ構築に移った場合、それは成熟の兆候だ」と述べた。
-しかし、仮想通貨が資産の多様化としてどれほど効果的であるかは、「完全に執行の質に依存する」と同氏は述べた。
-従来の投資を「補完するもの」
-投資ポートフォリオを多様化するにはさまざまな方法があります。
-たとえば、投資家は、株式、債券、現金、商品、仮想通貨などを組み合わせて所有することで、資産クラスを多様化できます。米国株と国際株の両方を保有するなど、資産クラス内で多様化することもできます。
-ウェルズ・ファーゴ投資研究所の資産配分チームのシニア投資ストラテジスト、ベロニカ・ウィリス氏は、基本的な前提は、資産が連動して動くのではなく、互いに独立して上下することだという。
-そうすることで、株価が下落した場合、投資家は他の資産クラスをバラストとして利用することができます。
-債券は株式から分散する伝統的な方法です。ウィリス氏によると、過去10年間、債券と米国株の相関性は低く、S&P500種株価指数との相関性は0.02だった。
-相関関係が 1 ということは、資産が完全に連動して移動することを意味し、分散のメリットがないことを意味します。相関関係がゼロの場合は関係がないことを意味し、負の相関関係はそれらが逆方向に動くことを意味します。
-一方、過去10年間のデジタル資産とS&P 500の相関関係は0.2であるとウィリス氏は述べた。これは債券よりも高いが、それでも「非常に低い」と同氏は語った。
-シュワブ金融研究センターの仮想通貨研究・戦略担当ディレクター、ジム・フェライオーリ氏は「仮想通貨は分散効果をもたらす傾向があるため、長期的には従来型の投資をうまく補完するものになる可能性がある」と述べた。
-ボーンパース氏は、特にビットコインは「多様化を理由にポートフォリオの中でその地位を獲得している」と述べた。
-ボーンパース氏は、同社には「長期にわたる株式や債券とは全く異なるリターン履歴がある」と述べた。 「通貨安や地政学的不安定を考えている投資家、あるいは単に異なるファンダメンタルズ要因を持つ資産を望んでいる投資家にとって、これは有意義な追加だ。」
-分散効果は「無条件」ではない
-専門家らは、多様化のために仮想通貨に目を向ける投資家はボラティリティに備える必要があると述べた。いくつかの景気低迷時には、ポートフォリオ全体に赤が表示される可能性がある、と彼らは言いました。
-「ビットコインと株式の相関関係は、投資家が流動性のあるものは何でも売却する、市場の深刻なストレスの時期に急増する傾向がある」とボーンパース氏は述べた。 「つまり、多様化による利益は現実的ですが、無条件ではありません。」
-ウィリス氏は、デジタル資産は多様化する資産と成長資産の「ハイブリッド」であるため、市場全体の下落時に仮想通貨は株式とともに動く傾向があると述べた。同氏は、成長資産は投資収益率が高い傾向にあるが、リスクも高いと述べた。
-すべての種類の暗号通貨が必ずしもビットコインと連動して動くわけではないが、ビットコインは最大の市場シェアを持っているため、ビットコインがこの資産クラスの収益の主な原動力であると彼女は述べた。
-「投資家が少し恐怖を感じ始め、リスクオン資産を手放し始めると、仮想通貨もそれに組み入れられることになる」とウィリス氏は語った。
-つまり、唯一の多様化手段として暗号通貨に依存しないでください、と彼女は言いました。
-専門家らによると、相関関係は時間の経過とともに変化する可能性もあるという。モーニングスターのポートフォリオ・ストラテジスト、エイミー・アーノット氏は2025年5月の記事で、「かつては優れた分散手段だった資産は、もはやそうではないかもしれない」と述べた。
-例えば、2025年4月30日までの10年間で、ビットコインやその他の「主要仮想通貨」は、株、債券、不動産、金、商品、その他の資産タイプとの相関関係が0.4未満であったとアーノット氏は書いている。しかし、2025年4月までのその後3年間の米国株とのビットコインの相関関係は0.55であり、以前の一部の期間では相関関係がゼロに近かったり、さらにはゼロを下回っていたりしたこともあったと同氏は書いた。
-最適な暗号資産の割り当ては何ですか?
-仮想通貨への配分は重要な要素であるとボーンパース氏は述べた。多くの金融アドバイザーは、デジタル資産への 1% ～ 2% の投資が適切な配分であると言っています。
-「5％を超えると、ビットコインのボラティリティがポートフォリオ全体のリスクプロファイルを支配し始める可能性がある」とボーンパース氏は述べた。 「その時点で、分散手段としての機能を停止し、主要な賭けとして機能し始めます。」
-ウィリス氏は、仮想通貨に約2％から3％を割り当てることを推奨していると述べた。それでも彼女は、例えば収入を求める保守的な投資家ではなく、主に成長を投資目標とする投資家にのみそれを推奨していると述べた。
-同氏は、少量の配分であれば、全体的なリスクとボラティリティの影響を和らげることができると述べた。
-「長期投資家であれば、（デジタル資産は）魅力的な分散効果を追加できると考えています」とウィリス氏は語った。 「しかし、だからといって、それが非常に不安定な資産であることが消えるわけではありません。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/crypto-diversified-investment-portfolio.html",
-    publishedAt: "2026-07-25T13:30:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "imax-70-mm-screenings-become-the-biggest-63a8b0ef",
-    title: "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
-    titleJa: "Imax 70 mm 上映でクリストファー・ノーラン監督の「オデッセイ」が最大のスターに",
-    summaryJa: "今週、マイク・ロールフィングが『オデッセイ』を劇場で鑑賞するため、39歳のマーケティング担当者は自分自身の英雄の旅に出発した。ロールフィングさんは妻と3人の子供とともに、ミズーリ州セントルイスの自宅からミシガン州グランドラピッズまでミニバンで往復約900マイルを運転した。彼らの目的地は、クリストファー・ノーラン監督による叙事詩の映画化作品を IMAX 70 ミリで上映できる厳選された映画館の 1 つです。",
-    bodyOriginal: `For Mike Rohlfing to see "The Odyssey" in theaters this week, the 39-year-old marketer set off on a hero's journey of his own.
-Rohlfing, along with his wife and three kids, drove approximately 900 miles round trip by minivan from their home in St. Louis, Missouri, to Grand Rapids, Michigan. Their destination: One of the select movie theaters offering Imax 70-millimeter screenings for director Christopher Nolan's adaptation of the epic poem.
-"It's an incredible format," Rohlfing told CNBC. "It was definitely worth it to me to travel such a long distance."
-Rohlfing isn't the only one going out of his way to experience the Universal film in this hard-to-find style.
-A-list actors like Zendaya and Anne Hathaway may line the cast list, but the breakout performance is coming from the large-scale, analog viewing experience beloved by Nolan and his fans. Exclusive data shared with CNBC shows how significantly the film revved up interest for higher-priced Imax 70 mm screenings.
-The format is part of a class of higher-end screening types known as "premium large formats," or PLFs. An adult Imax 70 mm ticket for opening weekend ran the typical attendee $27.77, according to EntTelligence. That's 81% more expensive than the average cost of admission across formats.
-"Imax 70-millimeter film has become among the hottest tickets in the world," Imax CEO Richard Gelfond said Thursday on a conference call with analysts. "Fans are flying across countries, if not continents, to experience 'The Odyssey' and Imax 70 millimeter."
-'Historic' demand
-During opening weekend, Gelfond reported that an average screen equipped for 70 mm brought in a "massive" box-office haul of $153,000. Imax 70 mm screenings of "The Odyssey" will run for months, Gelfond said.
-But Imax can't quickly multiply screening counts to meet the surge of interest. That's because only a small share of total Imax theaters are big enough and equipped with the high-cost machinery necessary to project the massive rolls of 70 mm film. Imax lists 25 theaters across the U.S. and an additional 16 internationally with its 70 mm presentations of "The Odyssey."
-"We could have more of them and we're exploring ways to do that, but in a way, it's like a Rolls-Royce," Gelfond said of Imax 70 mm auditoriums. "There are a finite number of locations that really can support the economics of it."
-Also, Nolan's film is the first feature film shot entirely with Imax 70 mm cameras. Other directors have used the format for smaller, often action-packed scenes, within more conventionally filmed features.
-Even with limited screens, Cinemark told CNBC that demand for its Imax 70 mm showings in states including Colorado and Texas is "exceptionally strong." Regal said the almost-three-hour picture became the chain's top Imax 70 mm-displayed movie.
-The Imax 70 mm theater within the Indiana State Museum — the only film house running this format in the Hoosier State — added an additional one-week run in August due to "historic" demand.
-More than half of audience members on the first days of showings traveled at least 50 miles, according to Neale Johantgen, the Indiana theater's manager. His team welcomed visitors from more than 20 states and fielded requests from moviegoers attempting to score tickets from places as far-flung as Switzerland.
-"Demand's never been higher," Johantgen said. "It's awesome."
-The 'crème de la crème'
-Given the limited availability, securing an Imax 70 mm ticket has become a battle in itself. Theaters are running screenings around the clock, but even the showtimes in the early hours of the morning are booking out. Some theaters put Imax 70 mm tickets on sale a year in advance.
-Morgan Bernados couldn't get through the queue for her local theater in the San Francisco Bay Area when a batch of seats dropped a few months ago. After the 27-year-old nonprofit worker switched focus to an Imax 70 mm screen that was roughly 90 minutes away, she was able to snag tickets for a Monday night showing.
-"It felt like buying concert tickets," said Bernados, who compared the process to the frenzy around Taylor Swift's Eras Tour. "There definitely is a 'FOMO' element."
-Ashton Jones was only able to secure seats in a 3 a.m. showtime for the sole Imax 70 mm theater in his home state of Georgia. The 26-year-old information technology administrator drank a Red Bull energy drink around the film's halfway mark to stay alert. After the closing credits rolled and Jones made the approximately hourlong drive home, it was nearly time to clock in for his workday.
-"It was fun," Jones said. "But I was hurting the next day."
-Imax's stock outperformed peers last year, with investors viewing the company's premium offerings as a key factor for getting consumers to see movies into theaters. Wall Street anticipates more upside ahead: Most analysts have a buy rating and the average price target suggests shares can add another 12% over the next year, according to LSEG.
-Imax blew past analysts' earnings expectations when reporting second-quarter earnings on Thursday, resulting in one of the stock's biggest single-session gains in recent history. The Canada-based firm also reported a year-over-year increase in signings and installations within its network.
-"They really create an experience that you can't replicate at home," said Steve Frankel, senior research analyst at Rosenblatt Securities, a Wall Street firm. "The 70-millimeter experience is really the crème de la crème."
-How Imax 70 mm became part of the buzz
-Nolan and the movie's stars have encouraged viewers to see the blockbuster in Imax 70 mm. But box-office trackers also credit social media users and young moviegoers with playing a leading role in creating buzz for this type of screening for "The Odyssey."
-Conversation volume in social and news media around the Imax 70 mm format approximately doubled in the five-day stretch beginning July 17, according to data from monitoring firm Meltwater analyzed exclusively for CNBC. Overall sentiment around the topic grew increasingly positive in that period, the firm said.
-Relative Google search volume for "Imax 70 mm" is forecasted to set fresh records this month, the company's data shows. It last hit new highs around Nolan's release of "Oppenheimer," the Oscar winner for Best Picture, in the summer of 2023.
-Imax 70 mm has "really captured the attention of more than just die-hard cinema fans," said Shawn Robbins, founder of Box Office Theory and director of analytics at Fandango, who added that it has started "to kind of spread out into the pop-culture lexicon."
-Robbins said he expects "The Odyssey" to return to Imax 70 mm theaters during slower periods in the fall release calendar. He said the excitement could drive interest for upcoming movies being presented in the same format like Warner Bros. Discovery's "Dune: Part Three," due out in December.
-Decision time
-For consumers like Alexandria Kinsey, comparing viewing formats for "The Odyssey" resulted in an education in theater jargon. The Washington-area resident said she used TikTok to research the difference between screening types with names such as "XL" and "Dolby Cinema." Viewings publicized as simply being in "Imax" or "70 mm" are different from the true Imax 70 mm experience, she discovered.
-"I was like, 'What does all of this mean?'" Kinsey said. "It's overwhelming."
-Kinsey ultimately settled on a Dolby Cinema showing but hopes to see the film again in Imax down the road. While the Kinsey said events like concerts have felt increasingly expensive amid the postpandemic "funflation" phenomenon, the 28-year-old found premium-format movies to be an affordable luxury that fits into her budget.
-Rohlfing, the St. Louis-based marketer, has become a disciple of Imax 70 mm among friends and on social media.
-When packing the car, Rohlfing made sure there was room for the special Imax collectible popcorn bucket released in conjunction with "The Odyssey." Imax said it sold more than 10,000 of the carriers, with some drops of the item selling out within minutes.
-Rohlfing has made a habit of cautioning friends to ensure Imax screenings project film. If the theaters use digital rather than analog, Rohlfing said viewers end up with an experience that he jokingly describes as "lie-max."
-"I'm somewhat notorious for being an Imax purist," Rohlfing said.
-Disclosure: Versant Media is the parent company of CNBC and Fandango.`,
-    bodyJa: `今週、マイク・ロールフィングが『オデッセイ』を劇場で鑑賞するため、39歳のマーケティング担当者は自分自身の英雄の旅に出発した。
-ロールフィングさんは妻と3人の子供とともに、ミズーリ州セントルイスの自宅からミシガン州グランドラピッズまでミニバンで往復約900マイルを運転した。彼らの目的地は、クリストファー・ノーラン監督による叙事詩の映画化作品を IMAX 70 ミリで上映できる厳選された映画館の 1 つです。
-「これは信じられないほど素晴らしいフォーマットだ」とロールフィング氏はCNBCに語った。 「これほど長い距離を旅する価値は、私にとって間違いなくありました。」
-この他では見られないスタイルでユニバーサル映画を体験しようとしているのはロールフィングだけではありません。
-ゼンデイヤやアン・ハサウェイなどのAリスト俳優がキャストリストに名を連ねるかもしれないが、その躍進のパフォーマンスは、ノーランとそのファンに愛されている大規模なアナログ視聴体験から生まれている。 CNBC と共有した独占データは、この映画がいかに高額な Imax 70 mm 上映への関心を高めたかを示しています。
-このフォーマットは、「プレミアム ラージ フォーマット」（PLF）として知られるハイエンド スクリーニング タイプのクラスの一部です。 EntTelligence によると、オープニング週末の大人用 Imax 70 mm チケットは、一般的な参加者に 27.77 ドルかかりました。これは、各フォーマットの平均入場料よりも 81% 高いです。
-アイマックスのリチャード・ゲルフォンド最高経営責任者（ＣＥＯ）は木曜日、アナリストとの電話会議で「アイマックスの７０ミリフィルムは世界で最も人気のあるチケットの一つになっている」と述べた。 「ファンは『オデッセイ』とImax 70ミリを体験するために、大陸ではないにしても国を越えて飛んでいます。」
-「歴史的な」需要
-初日の週末、ゲルフォンド氏は、70mm 対応の平均スクリーンが 15 万 3,000 ドルの「莫大な」興行収入をもたらしたと報告した。ゲルフォンド氏によると、「オデッセイ」のIMAX 70mm上映は数カ月にわたって行われる予定だという。
-しかし、Imax は関心の高まりに応えるために上映回数をすぐに増やすことはできません。それは、Imax シアター全体のうち、十分な大きさがあり、70 mm フィルムの巨大なロールを映写するのに必要な高コストの機械を備えているシアターはほんのわずかしかないからです。 Imax は、全米で 25 の劇場をリストアップしており、さらに海外では 16 の劇場で「オデッセイ」の 70 mm 上映を行っています。
-Imax 70 mm の講堂についてゲルフォンド氏は、「もっと多くのホールを設置することもでき、その方法を模索中ですが、ある意味、ロールスロイスのようなものです」と語った。 「実際に経済を支えられる場所の数は限られています。」
-また、ノーラン監督の映画は、全編が Imax 70 mm カメラで撮影された初の長編映画です。他の監督は、より従来の方法で撮影された長編の中で、アクション満載の小さなシーンにこの形式を使用しました。
-シマーク社はスクリーンが限られているにもかかわらず、コロラド州やテキサス州を含む州での Imax 70 mm 上映に対する需要が「非常に強い」と CNBC に語った。リーガルによると、この約3時間の映画は同チェーンの最高のImax 70mm上映映画となったという。
-インディアナ州立博物館内の Imax 70 mm シアター（フージャー州でこの形式を上映している唯一の映画会社）は、「歴史的な」需要により 8 月にさらに 1 週​​間の上映を追加しました。
-インディアナ劇場のマネージャー、ニール・ヨハントゲン氏によると、上映初日の観客の半数以上は少なくとも80マイルを移動したという。彼のチームは 20 州以上からの訪問者を歓迎し、スイスのような遠く離れた場所からチケットを獲得しようとする映画ファンからのリクエストにも応えました。
-「需要はかつてないほど高まっています」とヨハントゲン氏は語った。 「すごいですね。」
-「クレーム・ド・ラ・クレーム」
-空き状況が限られているため、Imax 70 mm のチケットを確保すること自体が戦いになっています。劇場は24時間上映を行っていますが、早朝の上映時間ですら予約でいっぱいです。一部の劇場では Imax 70 mm のチケットを 1 年前から発売しています。
-モーガン・ベルナドスさんは、数か月前に座席が大幅に減ったとき、サンフランシスコ・ベイエリアにある地元の劇場の列に並ぶことができなかった。 27 歳の非営利団体職員である彼女は、約 90 分離れた Imax 70 mm スクリーンに焦点を切り替えた後、月曜日の夜の上映チケットを手に入れることができました。
-「コンサートのチケットを買うような気分だった」とベルナドスは言い、そのプロセスをテイラー・スウィフトのエラス・ツアーの熱狂に例えた。 「間違いなく『FOMO』要素があります。」
-アシュトン・ジョーンズは、故郷のジョージア州にある唯一の Imax 70 mm シアターで午前 3 時の上映時間の座席しか確保できませんでした。 26歳の情報技術管理者は、映画の半分あたりでレッドブルのエナジードリンクを飲んで警戒を怠らなかった。エンドロールが流れ、ジョーンズが約1時間のドライブで帰宅した後、もうすぐ出勤する時間が近づいていた。
-「楽しかったです」とジョーンズさんは語った。 「しかし、次の日には痛みが出ました。」
-アイマックスの株価は昨年、同業他社を上回り、投資家は同社のプレミアム商品が消費者に映画館で映画を見てもらうための重要な要素とみている。ウォール街は今後さらなる上値を予想している：LSEGによると、ほとんどのアナリストは買いと評価しており、平均目標株価は株価が今後1年間でさらに12％上昇する可能性があることを示唆している。
-アイマックスは木曜日に第2四半期決算を発表し、アナリストの利益予想を上回り、同銘柄の単一セッションでの上昇幅としては最近の歴史の中で最大規模となった。カナダに拠点を置く同社は、ネットワーク内での契約と設置が前年比で増加したことも報告しました。
-ウォール街の企業ローゼンブラット・セキュリティーズのシニア・リサーチ・アナリスト、スティーブ・フランケル氏は、「自宅では再現できない体験を本当に生み出してくれる」と語った。 「70 ミリの体験はまさに最高級の体験です。」
-Imax 70 mm がどのようにして話題になったのか
-ノーラン監督と映画スターたちは、この大作を Imax 70 mm で見るよう視聴者に勧めています。しかし、興行収入追跡調査では、ソーシャルメディアユーザーと若い映画ファンが、この種の『オデッセイ』上映の話題作りに主導的な役割を果たしたと評価している。
-CNBCのために独占的に分析された監視会社メルトウォーターのデータによると、Imax 70mmフォーマットに関するソーシャルメディアやニュースメディアでの会話量は、7月17日からの5日間で約2倍に増加した。同社によれば、このテーマに関する全体的なセンチメントはこの期間にますます前向きになったという。
-同社のデータによると、今月の「Imax 70 mm」の相対的なGoogle検索量は新たな記録を樹立すると予測されている。最後に最高値を記録したのは、ノーラン監督がオスカー作品賞を受賞した『オッペンハイマー』が2023年夏に公開された頃だった。
-Box Office Theoryの創設者でFandangoの分析ディレクターであるショーン・ロビンス氏は、Imax 70mmは「熱心な映画ファンだけでなく、本当に注目を集めている」と述べ、「ポップカルチャーの辞典の中に広がり始めている」と付け加えた。
-ロビンス氏は、秋の公開カレンダーの閑散期に『オデッセイ』がImax 70mm劇場に戻ってくると予想していると述べた。同氏は、この興奮が、12月公開予定のワーナー・ブラザース・ディスカバリーの「デューン：パート3」のような同じ形式で上映される今後の映画への関心を高める可能性があると述べた。
-決定時間
-アレクサンドリア・キンゼイのような消費者にとって、「オデッセイ」の視聴形式を比較することは、演劇用語の教育につながりました。ワシントン地域に住むこの女性は、「XL」や「ドルビーシネマ」といった名前の上映タイプの違いを調査するためにTikTokを利用したと語った。単に「Imax」または「70 mm」であるとして宣伝されている視聴は、真の Imax 70 mm 体験とは異なることを彼女は発見しました。
-「『これは一体何を意味するんだろう？』と思った」とキンゼーは語った。 「圧倒的ですね。」
-キンゼイは最終的にはドルビーシネマでの上映に落ち着いたが、将来的にはImaxでもう一度映画を見たいと考えている。キンゼーさんは、パンデミック後の「ファンフレーション」現象の中で、コンサートなどのイベントはますます高価に感じられるようになったと述べたが、28歳のキンゼーさんは、プレミアムフォーマットの映画は予算内に収まる手頃な贅沢品であると感じたという。
-セントルイスを拠点とするマーケティング担当者の Rohlfing 氏は、友人の間やソーシャル メディアで Imax 70 mm の弟子になっています。
-車に荷物を詰める際、ロールフィングさんは、「オデッセイ」と合わせてリリースされた特別な Imax コレクション用ポップコーン バケツを入れるスペースがあることを確認しました。 Imax によると、キャリアの数は 10,000 個以上販売され、一部のアイテムは数分以内に完売しました。
-ロールフィングさんは、Imax でプロジェクト映画を確実に上映するよう友人に注意するのが習慣になっています。ロールフィング氏は、劇場がアナログではなくデジタルを使用すると、観客は彼が冗談めかして「嘘つきマックス」と表現するような体験をすることになると述べた。
-「私はアイマックスの純粋主義者として少し有名です」とロールフィング氏は語った。
-開示情報: Versant Media は CNBC と Fandango の親会社です。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/the-odyssey-imax-70mm-screenings.html",
-    publishedAt: "2026-07-25T12:46:34+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "buffett-favors-an-estate-tax-but-like-vi-c6e63807",
-    title: "Buffett favors an estate tax, but like virtually all billionaires, he won't be paying it",
-    titleJa: "バフェット氏は相続税を支持しているが、事実上すべての億万長者と同様、彼も相続税を支払うつもりはない",
-    summaryJa: "ウォーレン・バフェット氏は、自分や他の非常に裕福なアメリカ人は税金が不足していると信じているが、自分の財産を慈善事業に寄付することで、政府に数十億ドルに上る可能性のある税金を支払うことはなくなるだろう。",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-The special edition of this newsletter two weeks ago on Warren Buffett's decision to speed up his annual donations from his $140 billion of Berkshire Hathaway shares to four family foundations generated an unusually large number of emails from readers.
-Some praised his generosity, some questioned whether money going to foundations would really help people in need, especially elderly, impoverished Americans, and some accused Buffett of using philanthropy to avoid paying estate and capital gains taxes.
-Buffett has often said it doesn't bother him to pay taxes, and he takes pride in the billions Berkshire Hathaway has sent to Washington.
-He believes he is "under-taxed in relation to what society has delivered to me," and has often complained his secretary pays a higher tax rate than he does when payroll taxes are taken into account, and because capital gains are taxed at a lower rate than ordinary income.
-That led President Barack Obama to propose a "Buffett rule" that would have imposed a 30% minimum tax on Americans earnings more than $1 million a year. It was rejected by the Senate in 2012.
-Even though he's proud to pay taxes, Buffett joked in 1998, "I don't send along any voluntary payments to the I.R.S, I want you to understand."
-In a 2017 interview on CNBC's "Squawk Box" as Congress was considering a GOP-sponsored bill that would have eliminated the 40% estate tax over several years, Buffett and Becky Quick explored his views, touching on the tension between advocating for an estate tax while personally avoiding it:
-BECKY QUICK: You said earlier that this is not a tax reform bill. It's a tax cut.
-WARREN BUFFETT: A tax cut.
-BECKY QUICK: What do you think about it?
-WARREN BUFFETT: Well, I — I don't think I need a tax cut.
-But — for example, the current proposal eliminates the estate tax. And it's not a death tax. There are going to be 2.6 million people die this year in the United States. And there'll be 5,000 tax returns that people — estates that pay tax.
-So if you start going to a funeral every month, it's going to be 40 years on average before you go to one where there's any estate tax due. It's a very pejorative term.
-The truth is if they pass the bill that — they're talking about — I could leave $75 billion to a bunch of children, and grandchildren, and great-grandchildren— and if left it to 35 of them — they'd each have a couple billion dollars. They could put it out at 5 percent, have 100 million.
-I mean, is that a great way to allocate resources in the United States? Because that's what you're doing with — for the tax code, is you're affecting the allocation of resources.
-So if they were lucky enough to come out of the right womb, have the right name, Buffett, they could sit there and build tombs for themselves like Egyptians — pharaohs never dreamt of.
-They could — they could — they could do anything. And — and capitalism is all about intelligent allocation of resources.
-Now, some people say, "Well, you don't have to worry about that because they'll blow it all."
-But if they (LAUGH) blow it all, that means that they — you know, that they've done some done things with some important resources. And that's — that's not good for capitalism. I don't think it's good for the children. I sure as — I sure don't think it's good for society when there's a ton of un — inequality — to start with.
-And — so I — I would — I think that's a terrible mistake, for example.
-BECKY QUICK: However — let's play devil's advocate here.
-WARREN BUFFETT: Sure.
-BECKY QUICK: You have three children who have foundations that each of them are running. Do you think that they're a better allocator of that money than the federal government?
-WARREN BUFFETT: I — I do. But I — I — I don't think that setting it up so children, grandchildren — let's say I died when they were 20. I don't think they'd be the same individuals that they are. I didn't — encourage that foundation program until they were in their 40's and — and I'd seen what they'd done with their lives — and they — and they'd had a chance to live for a long time, going to public schools, living just like other people in Omaha live.
-But I — I just think that — I don't think we should have our Olympic team 20 years from now be the eldest sons of the Olympic team currently. And —
-BECKY QUICK: So it's the dynastic —
-WARREN BUFFETT: The dynastic —
-BECKY QUICK: —impact of money.
-WARREN BUFFETT: I don't think — I don't think — a dynastic system with huge sums of wealth — and bear in mind the wealthy are so much wealthier now than they were 25 years ago. We're talking about the 400 now having 2.4 trillion against 90 billion — 25 times as much money.
-So you have — sprinkled around — you have these children and grandchildren that — that just with those 400 could have two — 2.4 trillion passed down to them.
-That's a lot of resources in this country with a $20 billion G — not even quite a 20 bill — trillion-dollar G — GDP.
-I think — I think it goes totally against what's built this country, what this country stands for.
-And if those 5,000 people can't stand to spend the 20 or 25 billion, they've got lots left over. Believe me.
-And incidentally it would be bad for philanthropy. I mean — people would — a certain number of people would elect to set their kids up with — you know, billions and billions of dollars rather than — than have it go to philanthropy.
-But I don't think that's the primary reason. But I do think that'd be a byproduct.
-The bill Buffett and Becky were discussing did not pass, but the exemption has been increased over the years to its current level of $15 million per person.
-Berkshire closes Abel's first big deal as CEO
-One day after Taylor Morrison shareholders approved the deal, Berkshire Hathaway has closed its $6.8 billion acquisition of the homebuilder.
-In a news release, CEO Greg Abel is quoted as saying, "This best-in-class national homebuilder will lead our vision for a unified site-built homebuilding operation."
-In a departure from its previous practice of usually having subsidiaries operate individually, Berkshire will integrate Taylor Morrison's brands into its Clayton Properties Group to "serve renters, entry-level, move-up, and resort lifestyle segments."
-When the deal was announced in late May, Warren Buffett told CNBC's Becky Quick, "Greg did that faster than I could have done it, smoother than I could have done it, and I never talked to the CEO. He has launched."
-Analysts, including Margaret Whelan, founder and CEO of Whelan Advisory, told us Berkshire's move to buy Taylor Morrison suggested the housing market had bottomed and would be improving.
-"I assume sophisticated buyers would wait and buy later or pay less if they thought the market was still going down."
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $744,999.99
-BRK.B stock price: $494.93
-BRK.B P/E (TTM): 14.73
-Berkshire market capitalization: $1,068,830,909,412
-Berkshire Cash as of March 31: $397.4 billion (Up 6.5% from Dec. 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $380.2 billion (Up 3.0% from Dec. 31)
-Berkshire repurchased $234 million of its shares in Q1 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Jul. 24, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of March 31, 2026, as reported in Berkshire Hathaway's 13F filing on May 15, 2026, except for:
-- Alphabet, which includes the $10 billion in shares that Berkshire agreed to buy directly from the company, as announced on June 1, 2026. Berkshire has not yet formally disclosed whether the transaction has been completed. The entry is a combination of Class A and Class C Alphabet shares. The market price is a weighted average of the prices of the two classes.
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@nbcuni.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(これはウォーレン・バフェット・ウォッチのニュースレター、ウォーレン・バフェットとバークシャー・ハサウェイに関するニュースと分析です。ここからサインアップすると、毎週金曜日の夜に受信箱で受け取ることができます。)
-2週間前のこのニュースレターの特別版では、1,400億ドルのバークシャー・ハサウェイ株から4つの家族財団への年間寄付を加速するというウォーレン・バフェット氏の決定について取り上げられ、読者から異常な数の電子メールが寄せられた。
-バフェット氏の寛大さを賞賛する人もいれば、財団に寄付される資金が本当に困っている人々、特に年配の貧しいアメリカ人を助けることになるのか疑問を抱く人もいるし、相続税やキャピタルゲイン税の支払いを避けるために慈善活動を利用しているとバフェット氏を非難する人もいる。
-バフェット氏は税金を支払うのは気にしていないとよく言っていて、バークシャー・ハサウェイがワシントンに送った数十億ドルを誇りに思っている。
-彼は「社会が私に与えてくれたものに比べて、自分は税金が不足している」と信じており、給与税を考慮した場合、またキャピタルゲインは通常の所得よりも低い税率で課税されるため、秘書が自分よりも高い税率を払っていると頻繁に不満を漏らしている。
-このため、バラク・オバマ大統領は、年間100万ドルを超えるアメリカ人の収入に最低30％の税金を課す「バフェット・ルール」を提案した。 2012年に上院で否決された。
-バフェット氏は税金を支払うことに誇りを持っているが、1998年に「私は自主的にI.R.S.に送金するつもりはない。理解してほしい」と冗談を言った。
-2017年のCNBCの「スコーク・ボックス」でのインタビューで、議会が数年かけて40％の相続税を廃止する共和党主導の法案を検討していた際、バフェットとベッキー・クイックは彼の見解を探り、相続税を主張する一方で個人的に相続税を回避することの間の緊張に触れた。
-ベッキー・クイック：あなたは先ほど、これは税制改革法案ではないと言いましたね。減税ですよ。
-ウォーレン・バフェット: 減税です。
-ベッキー・クイック: それについてどう思いますか?
-ウォーレン・バフェット: そうですね、私は減税が必要だとは思いません。
-しかし、たとえば、現在の提案では相続税が廃止されます。そしてそれは死亡税ではありません。米国では今年、260万人が死亡する見込みだ。そして、税金を納めている人々、つまり財産の納税申告書が 5,000 件もあるでしょう。
-つまり、毎月葬儀に行き始めた場合、相続税が発生する葬儀に行くまでに平均40年かかることになります。とても侮蔑的な言葉です。
-真実は、もし彼らが法案を可決したら、彼らが話しているのですが、私は大勢の子供たち、孫たち、ひ孫たちに750億ドルを遺せる、そしてもし彼らのうち35人に任せれば、彼らはそれぞれ数十億ドルを手にすることになるのです。彼らはそれを5パーセントで出すことができ、1億を持っています。
-つまり、それは米国でリソースを割り当てるための優れた方法なのでしょうか?それは税法に関して、資源の配分に影響を与えていることだからです。
-したがって、もし彼らが幸運にも正しい子宮から出てきて、正しい名前、バフェットを持てたなら、エジプト人のようにそこに座って自分たちの墓を建てることができる――ファラオは夢にも思わなかった。
-彼らはできる、できる、何でもできるのです。そして、資本主義とは、資源の賢明な配分がすべてです。
-さて、「まあ、彼らがすべて吹き飛ばしてくれるから、心配する必要はありません」と言う人もいます。
-しかし、もし彼らが（笑いながら）すべてを吹き飛ばすとしたら、それは彼らが――ご存知のとおり、重要なリソースを使って何かをやったということを意味します。それは資本主義にとって良くないことだ。子どもたちにとっても良くないと思います。確かに、そもそも不平等が山ほどあるのは社会にとって良くないと思います。
-そして—だから私は—そうするでしょう—たとえば、それはひどい間違いだと思います。
-ベッキー・クイック: しかし、ここでは悪魔の代弁者を演じましょう。
-ウォーレン・バフェット: もちろんです。
-ベッキー・クイック: あなたには 3 人の子供がおり、それぞれが運営している財団があります。彼らは連邦政府よりもそのお金をうまく配分していると思いますか?
-ウォーレン・バフェット: そうですね。しかし、私は、子供たち、孫たちが、20歳のときに私が死んだとしましょう。彼らが彼らと同じ人間になるとは思えません。私は彼らが40代になるまでその財団プログラムを奨励しませんでした、そして私は彼らが人生で何をしたかを見てきました、そして彼らは-そして彼らは公立学校に通い、オマハの他の人々と同じように生きて、長生きするチャンスがありました。
-しかし私は、ただそう思っているだけですが、20年後のオリンピックチームを現在のオリンピックチームの長男にするべきではないと思います。そして -
-ベッキー・クイック: つまり、それは王朝です —
-ウォーレン・バフェット: 王朝 —
-ベッキー・クイック: —お金の影響。
-ウォーレン・バフェット: 私は、巨額の富を擁する王朝制度などは考えていません。そして、25 年前よりも今の富裕層ははるかに裕福であることを心に留めておいてください。私たちが話しているのは、400 社が現在 900 億に対して 2.4 兆、つまり 25 倍の資金を持っているということです。
-つまり、あなたには - あちこちに - これらの子供や孫がいます - それらの 400 人だけで 2 人になる可能性がある - 2 兆 4000 億が彼らに受け継がれることになります。
-これは、200億ドルG（20兆ドルにも満たないG）GDPを誇るこの国の膨大な資源に相当します。
-私は、それはこの国を築いてきたもの、この国が象徴するものに完全に反していると思います。
-そして、もしその 5,000 人が 200 億か 250 億を使うことに耐えられないとしても、彼らにはたくさんのお金が残ることになります。私を信じて。
-そしてついでに言えば、それは慈善活動にとっても悪いことだろう。つまり、一定数の人は、慈善事業に寄付するよりも、何十億ドルもの資金を自分の子供たちに提供することを選択するでしょう。
-しかし、それが主な理由ではないと思います。でも、それは副産物だと思います。
-バフェット氏とベッキー氏が話し合っていた法案は可決されなかったが、免除額は長年にわたって増額され、現在の1人当たり1500万ドルの水準となっている。
-バークシャー、アベル氏のCEOとして初の大型取引を成立
-テイラー・モリソンの株主がこの取引を承認した翌日、バークシャー・ハサウェイは68億ドルでの住宅建設会社の買収を完了した。
-ニュースリリースの中で、最高経営責任者（CEO）のグレッグ・エイベル氏は、「このクラス最高の国内住宅建設業者が、統一された現場施工の住宅建設事業という当社のビジョンを主導することになる」と述べたと伝えられている。
-通常、子会社を個別に運営させるというこれまでの慣例から脱却し、バークシャーはテイラー・モリソンのブランドをクレイトン・プロパティーズ・グループに統合し、「賃貸人、初心者レベル、ステップアップ、リゾートのライフスタイル層にサービスを提供する」ことになる。
-5月下旬にこの取引が発表されたとき、ウォーレン・バフェット氏はCNBCのベッキー・クイックに対し、「グレッグは私ができるよりも早く、私ができるよりもスムーズに取引をしてくれた。そして私はCEOと話したことは一度もなかった。彼は立ち上げた」と語った。
-ウィーラン・アドバイザリーの創設者兼最高経営責任者（CEO）のマーガレット・ウィーラン氏を含むアナリストらは、バークシャーによるテイラー・モリソン氏買収の動きは、住宅市場が底を打ち、改善に向かうことを示唆していると語った。
-「洗練された買い手は、市場がまだ下落していると考えれば、待って後で買うか、支払いを減らすだろうと思います。」
-インターネット上のバフェットとバークシャー
-一部のリンクには購読が必要な場合があります。
-バークシャー株式時計
-4週間
-12ヶ月
-BRK.A株価: $744,999.99
-BRK.Bの株価：494.93ドル
-BRK.B PER (TTM): 14.73
-バークシャーの時価総額: 1,068,830,909,412ドル
-3月31日時点のバークシャーキャッシュ：3,974億ドル（12月31日比6.5％増）
-鉄道現金と未払国庫短期証券を除く：3,802億ドル（12月31日比3.0％増）
-バークシャーは2026年第1四半期に2億3400万ドルの自社株を買い戻した。
-バークシャーのトップ株式保有 - 2026 年 7 月 24 日
-最新の終値に基づいた、米国および日本の公開株式の時価ベースでのバークシャーの保有高上位。
-保有資産は、2026年5月15日のバークシャー・ハサウェイの13階提出書類で報告されているように、2026年3月31日現在である。ただし、以下の場合を除く。
-- アルファベットには、2026年6月1日に発表されたように、バークシャーが同社から直接購入することに同意した100億ドルの株式が含まれる。バークシャーは、取引が完了したかどうかをまだ正式に明らかにしていない。エントリーはクラス A とクラス C のアルファベット株式の組み合わせです。市場価格は、2 つのクラスの価格の加重平均です。
-- 三菱、2026 年 4 月 30 日現在
-保有銘柄と現在の市場価値の完全なリストは、CNBC.com のバークシャー・ハサウェイ ポートフォリオ トラッカーから入手できます。
-質問またはコメント
-ニュースレターに関するご質問やご意見は、alex.crippen@nbcuni.com までお送りください。 (申し訳ありませんが、バフェット氏自身に質問やコメントを転送することはありません。)
-このニュースレターをまだ購読していない場合は、ここから登録できます。
-また、バフェット氏が株主に宛てた年次書簡も強くお勧めします。ここバークシャーのウェブサイトに集められています。
--- アレックス・クリッペン、ウォーレン・バフェット・ウォッチ編集者`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/buffett-favors-an-estate-tax-but-like-virtually-all-billionaires-he-wont-be-paying-it.html",
-    publishedAt: "2026-07-25T12:28:33+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "from-silicon-valley-to-dc-the-tech-world-24ddfbef",
-    title: "From Silicon Valley to DC, the tech world is suddenly obsessed with one concept in AI: Distillation",
-    titleJa: "シリコンバレーからワシントン DC まで、テクノロジー業界は突然、AI の 1 つの概念「蒸留」に夢中になっています。",
-    summaryJa: "今年の初めに、Google AI の責任者であるジェフ ディーンがポッドキャストで、当時は不安定な技術界以外ではほとんど語られていなかった概念である蒸留について議論しました。Google の AI モデルの開発について語る中で、ディーン氏は、Google が 1 つの大規模な画像認識モデルに依存せずにシステムのパフォーマンスを向上させようとしていたため、自分と同僚が人工知能の蒸留技術を発見したと述べました。",
-    bodyOriginal: `Earlier this year, Google AI lead Jeff Dean, on a podcast, discussed a concept that, at the time, was hardly spoken about outside of wonky tech circles: distillation.
-In talking about the development of Google's AI models, Dean said that he and colleagues discovered artificial intelligence distillation techniques because Google was looking to improve performance on its systems without relying on one large image recognition model.
-"Through distillation, which is a key technique for making the smaller models more capable, you have to have the frontier model in order to then distill it into your smaller model," Dean said in February.
-Five months later, distillation has suddenly become a hot-button topic from Silicon Valley to Washington, D.C., as techies and lawmakers debate whether the practice is turning into a national security threat and enabling China to catch the U.S. in the high-stakes AI race. Concern bubbled up late last week after Chinese lab Moonshot AI released Kimi K3, and users quickly found it to be competitive with the best commercially available AI from Anthropic and OpenAI.
-Unlike the leading U.S. AI companies, which sell access to proprietary models, Moonshot and other Chinese labs are offering so-called open-weight models that allow users to download the technology, tweak it and run it wherever they want.
-Some government officials attribute Moonshot's ability to catch up so quickly to distillation, describing it as theft of American intellectual property, specifically by incorporating Anthropic's frontier Fable model.
-"We have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model," White House advisor Michael Kratsios posted on X on Wednesday. "To do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection."
-At a high level, distillation refers to the use of answers from a chatbot or work product from an advanced AI model to train another model. The practice is controversial because, depending on how it's used, it can allow a model developer to create a competitive offering by simply using the output from companies that have invested many millions or billions of dollars developing the most sophisticated training technology.
-"It's almost like someone went to the lectures, read the textbook, and did all the hard work of doing the homework," said Pukar Hamal, founder of AI security firm SecurityPal. "Then some other student is like, 'Hey, I didn't do that. Can I just copy your work?'"
-Whether it was Kratsios' post or something else, the biggest tech heavyweights on the planet came together on Friday in what might be unprecedented fashion to make their position clear. After a series of social media posts throughout the week, tech giants Nvidia, Microsoft, Meta, Palantir joined with more than 20 other companies to release a letter urging policymakers to avoid "premature restrictions" on open-weight AI models that would "stifle competition or drive innovation overseas."
-"Distillation, or the practice of using one model's outputs to help train or improve another, is a widely used technique for model improvement, evolution, and validation," they wrote.
-Complicating the China problem
-The emergence of distillation presents a conundrum to U.S. policy makers, who have long been concerned about Chinese technology in terms of both IP theft and national security issues.
-Colin Shea-Blymyer, a research fellow at Georgetown's Center for Security and Emerging Technology, said the U.S. government is trying to figure out its position.
-The government could argue that Chinese and Russian companies "have used the outputs of hardworking American models to make themselves more performant, and so they have an unfair advantage there," Shea-Blymyer said.
-Box CEO Aaron Levie was one of the signatories of Friday's letter. Levie said in an interview that to stay competitive, U.S. companies need to be able to access the best technology, no matter where it's developed.
-"Generally the arc is going to be that the more innovation that there is, whether that's from the U.S. or China or otherwise, you should expect more AI progress, and generally it'll bend toward being even lower cost and more efficient over time," Levie said.
-Although much of the current discourse centers on Chinese open-weight AI models like Kimi K3, many companies have incorporated the distillation technique when creating their own models, said Shashi Bellamkonda, research director at Info-Tech Research Group. Nvidia, for instance, used distillation as part of the training process for its Llama Nemotron series of models, as detailed in an accompanying research paper.
-"It is a legitimate and a very valuable technique to train a smaller, cheaper model on outputs of a larger model, and is practiced all the time," Bellamkonda said.
-However, Anthropic has a different view, because the company sees how its models are being used and has a burgeoning business to protect. In February, the company said its Claude capabilities were being distilled on an "industrial scale" by China's DeepSeek, Moonshot, and MiniMax, which used about 24,000 fake accounts, generating 16 million exchanges.
-Anthropic, which is valued at close to $1 trillion and has aspirations of going public in the near future, said stopping illicit distillation was a matter of national security.
-"Anthropic and other US companies build systems that prevent state and non-state actors from using AI to, for example, develop bioweapons or carry out malicious cyber activities," the company said in its February post. And stopping it requires "rapid, coordinated action among industry players, policymakers, and the global AI community."
-OpenAI and Anthropic are banning distilling in their terms of service. Bellamkonda said they're essentially suggesting that using their larger models without authorization represents potential IP theft.
-But with AI costs skyrocketing, companies will do whatever it takes to drive efficiency.
-Hamal said he would have no problem using Chinese open-weight models like Kimi K3 at SecurityPal, which automates security assessments using AI. He says it could save them a lot of money.
-"We would make sure that there's no nefarious backdoors in the code," Hamal said. "But hosting it on our own infrastructure after we've done an assessment, why not?"
-One big problem for Anthropic and OpenAI as they try to make their case about IP theft is that both companies have relied on other sources of content to build their models, and have been sued for doing so.
-Max Pritt, an attorney for Boies Schiller Flexner who represents book authors in copyright litigation against AI firms, said the government is in the same boat.
-"The administration, at least publicly, has focused its efforts on the protection of technology companies' intellectual property, while remaining silent in large part about creators and individuals' intellectual property that was used without authorization," Pritt said.
-WATCH: China's AI firms are finding ways to monetize even as their models remain open`,
-    bodyJa: `今年の初めに、Google AI の責任者であるジェフ ディーンがポッドキャストで、当時は不安定な技術界以外ではほとんど語られていなかった概念である蒸留について議論しました。
-Google の AI モデルの開発について語る中で、ディーン氏は、Google が 1 つの大規模な画像認識モデルに依存せずにシステムのパフォーマンスを向上させようとしていたため、自分と同僚が人工知能の蒸留技術を発見したと述べました。
-「蒸留は、小型モデルの機能を高めるための重要な技術ですが、それを小型モデルに蒸留するには、フロンティア モデルを用意する必要があります」とディーン氏は 2 月に述べました。
-5か月後、蒸留は突然、シリコンバレーからワシントンD.C.に至るまで注目の話題となった。技術者や国会議員らは、蒸留が国家安全保障上の脅威となり、中国が一か八かのAI競争で米国に追いつくことを可能にするのではないかと議論している。中国の研究機関である Moonshot AI が Kim K3 をリリースした後、先週後半に懸念が湧き上がり、ユーザーはすぐにそれが Anthropic や OpenAI の市販の最高の AI と競合できることに気づきました。
-独自のモデルへのアクセスを販売する米国の大手 AI 企業とは異なり、ムーンショットや他の中国の研究所は、ユーザーがテクノロジーをダウンロードして調整し、好きな場所で実行できる、いわゆるオープンウェイト モデルを提供しています。
-一部の政府関係者は、ムーンショット社がこれほど急速に追いつく能力を蒸留のおかげだと考えており、特にアンスロピック社のフロンティア・ファブル・モデルを組み込むことによる米国の知的財産の窃盗であると説明している。
-ホワイトハウス顧問マイケル・クラツィオス氏は水曜日、Xに「ムーンショットAIがK3モデルの開発のためにアンスロピックの寓話を抽出したという情報がある」と投稿した。 「これを行うために、彼らは米国のモデルに対して大規模な蒸留を実行するための洗練された内部プラットフォームを開発しました。これにより、検出を回避するために複数のアクセス方法を迅速に切り替えることができます。」
-大まかに言うと、蒸留とは、チャットボットからの回答や高度な AI モデルの作業成果物を使用して、別のモデルをトレーニングすることを指します。この慣行は物議を醸しています。なぜなら、モデル開発者は、その使用方法によっては、最も洗練されたトレーニング テクノロジの開発に数百万ドルまたは数十億ドルを投資した企業の成果物を使用するだけで、競争力のある製品を作成できる可能性があるからです。
-AIセキュリティ企業セキュリティパルの創設者プカール・ハマル氏は、「誰かが講義に出席し、教科書を読み、一生懸命宿題をしたようなものだ」と語る。 「すると、他の生徒が『おい、私はそんなことしなかった。君の作品を真似してもいい？』と言うのです。」
-クラツィオス氏の投稿であれ、他のものであれ、地球上で最も大きなテクノロジー企業の重鎮が金曜日に集結し、自らの立場を明確にするために前例のないやり方で集結した。週を通じて一連のソーシャルメディア投稿を行った後、ハイテク大手のエヌビディア、マイクロソフト、メタ、パランティアは他の20社以上と協力し、「競争を阻害したり、海外でイノベーションを推進したりする」無差別AIモデルに対する「時期尚早な制限」を回避するよう政策立案者に求める書簡を発表した。
-「蒸留、つまりあるモデルの出力を別のモデルのトレーニングや改善に役立てる実践は、モデルの改善、進化、検証に広く使用されている手法です」と彼らは書いている。
-中国問題の複雑化
-蒸留の出現は、知財窃盗と国家安全保障問題の両方の観点から中国の技術を長年懸念してきた米国の政策立案者にとって難題となっている。
-ジョージタウンの安全保障・新興技術センターの研究員コリン・シア＝ブライマイヤー氏は、米国政府は自らの立場を見極めようとしていると述べた。
-シア＝ブライマイヤー氏は、政府は、中国とロシアの企業が「勤勉な米国モデルの成果を利用して自社の業績を向上させてきたため、不当な優位性を持っている」と主張する可能性があると述べた。
-Box CEOのAaron Levie氏は金曜日の書簡の署名者の1人だった。レビー氏はインタビューで、競争力を維持するためには、米国企業がどこで開発されたかに関係なく、最高のテクノロジーにアクセスできる必要があると述べた。
-「一般的に、米国や中国などからのイノベーションが増えれば増えるほど、AIのさらなる進歩が期待されるはずであり、一般的にAIは時間の経過とともにさらに低コストでより効率的な方向に向かうだろう」とリービー氏は述べた。
-現在の議論の多くは、Kimi K3のような中国のオープンウェイトAIモデルに集中しているが、多くの企業が独自のモデルを作成する際に蒸留技術を取り入れていると、Info-Tech Research Groupのリサーチディレクター、シャシ・ベラムコンダ氏は述べた。たとえば、Nvidia は、付属の研究論文で詳しく説明されているように、Llama Nemotron シリーズのモデルのトレーニング プロセスの一部として蒸留を使用しました。
-「大規模なモデルの出力に基づいて、より小規模で安価なモデルをトレーニングすることは合法的で非常に価値のある手法であり、常に実践されています」とベラムコンダ氏は述べた。
-しかし、Anthropic 社は異なる見解を持っています。なぜなら、同社は自社のモデルがどのように使用されているかを理解しており、保護すべき急成長しているビジネスがあるからです。同社は2月、同社のClaude機能が中国のDeepSeek、Moonshot、MiniMaxによって「産業規模」で蒸留されており、約2万4000の偽アカウントを使用し、1600万件の取引所を生成していると発表した。
-時価総額が1兆ドル近くに達し、近い将来上場を目指しているアンスロピックは、違法蒸留を阻止することは国家安全保障の問題だと述べた。
-同社は2月の投稿で、「アンスロピックなどの米国企業は、国家および非国家主体がAIを利用して生物兵器の開発や悪意のあるサイバー活動を行うことを防ぐシステムを構築している」と述べた。そして、それを阻止するには「業界関係者、政策立案者、世界のAIコミュニティの間での迅速かつ協調的な行動」が必要だ。
-OpenAI と Anthropic は利用規約で蒸留を禁止しています。ベラムコンダ氏は、彼らは基本的に、自社の大型モデルを許可なく使用することは知財盗難の可能性があることを示唆していると述べた。
-しかし、AIのコストが高騰する中、企業は効率を高めるためにあらゆる手段を講じるだろう。
-ハマル氏は、AIを使用してセキュリティ評価を自動化するセキュリティパルで、キミK3のような中国の無差別級モデルを問題なく使用できると述べた。そうすれば多額の費用を節約できるだろうと彼は言う。
-「コードに悪質なバックドアが存在しないことを確認します」とハマル氏は語った。 「しかし、評価を行った後、独自のインフラストラクチャでホストするのはなぜでしょうか?」
-Anthropic と OpenAI が IP 盗難について主張しようとする際の大きな問題の 1 つは、両社がモデルを構築するために他のコンテンツ ソースに依存しており、そのために訴訟を起こされているということです。
-AI企業に対する著作権訴訟で本の著者の代理人を務めるボーイズ・シラー・フレクスナーの弁護士マックス・プリット氏は、政府も同じ立場にあると述べた。
-「政権は少なくとも公にはテクノロジー企業の知的財産の保護に注力してきたが、許可なく使用されたクリエイターや個人の知的財産についてはほとんど沈黙を守ってきた」とプリット氏は述べた。
-注目: 中国の AI 企業は、モデルがオープンなままでも収益化の方法を模索している`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/hat-is-distillation-and-why-is-everyone-so-obsessed-with-it-this-week.html",
-    publishedAt: "2026-07-25T12:00:02+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "analysis-a-powerful-new-coalition-of-ai-0c72bf37",
-    title: "Analysis: A powerful new coalition of AI skeptics is coalescing right in Trump's blind spot",
-    titleJa: "分析：AI懐疑論者の強力な新連合がトランプ大統領の死角で結集中",
-    summaryJa: "人工知能とそれが予兆する広範な経済大混乱を懸念する宗教指導者、労働組合、地元活動家の新興連合は、この問題を誤った側に捉える人にとっては政治的問題を引き起こす。そして、最も危険にさらされているのはドナルド・トランプ大統領だ。AI はまさに政治上の盲点に位置しています。この業界とその急速に発展するテクノロジーは、政治的な風向きの変化を感知するトランプ氏のしばしば驚異的な能力を圧倒する恐れがあり、中間選挙での党の運命と彼が大切にしている長期的な遺産に損害を与える可能性がある。",
-    bodyOriginal: `The emerging coalition of religious leaders, labor unions and local activists that worries about artificial intelligence and the broader economic upheaval it portends poses a political problem for anyone who gets on the wrong side of that issue. And President Donald Trump is the person most at risk.
-AI is positioned right in his blind political spot. The industry and its rapidly developing technology threaten to overwhelm Trump's often-uncanny ability to sense changes in the political winds and could damage his party's fortunes in the midterm election and the longer-term legacy he values.
-Trump seems aware of the danger, yet can't help himself from hurtling toward it.
-On Thursday, he touted commitments by data center developers and utilities not to raise electricity prices, nodding to fears across the country that a surge in data center construction will spike Americans' energy bills. The pledge is a no-brainer for the likes of OpenAI and Oracle, giving them political cover as the complex economics of making changes to aging U.S. grids plays out over years and decades.
-But Trump couldn't help but align himself with the companies, even at an event at the Environmental Protection Agency on the pledge that was designed to show he's looking out for the little guy. He exhorted the assembled governors and other local officials to sell their constituents on data centers. "You can't fight it. You have to go with it," he said.
-Someone is going to get rich on data-center development, and it might as well be you, he told the audience. "If you don't take all that money, somebody else is going to take it. You might as well do it yourself."
-Here's the thing about getting rich. If Americans sniff a chance it could happen to them, they don't need to be told twice to get behind it. That's why crypto and prediction markets are ideas that can't be killed, no matter how unlikely it is that you, personally, will really get rich off them.
-When it comes to artificial intelligence, however, rank and file Americans just aren't buying the idea that Big Tech is handing them a golden lottery ticket. Trump can tout the stock market boom all he likes — the Nasdaq composite has had 20 record closes this year — but too few Americans have enough of a stake in the market for rising share prices of a select few tech companies and the indexes that contain them to overcome their worries about job instability and the continuing concentration of wealth.
-To wit, Elon Musk's SpaceX looked like a great opportunity for those who were able to invest early. For those Regular Joes fortunate enough to have a few bucks in a brokerage account during its IPO last month, shares are down 30%.
-And now add to the class-and-wealth problems of AI a heavyweight political coalition that has sway with the voters Trump would most like to persuade.
-The president may be willing to write off Pope Leo XIV, who issued an influential encyclical in May warning that AI needed guardrails to protect our humanity. But Trump can't so easily swipe away the same language when it comes from the heart of the evangelical movement here in the U.S.
-Walter Kim, president of the National Association of Evangelicals, praised the pope's warnings on AI. "There are positive benefits, but there are also extraordinary harms," Kim said on CNBC's "Squawk Box" on Wednesday.
-Kim worried that the prominence of AI in healthcare, education and warfare risks taking human beings out of the loop on our most important decisions.
-"It is, as the Pope described in his recent encyclical, the construction of a Tower of Babel, the trust in a technology that reflects human hubris, that not only disconnects us from God but disconnects us from each other," Kim said.
-Kim's evangelical group doesn't endorse candidates and isn't threatening any kind of overt political campaign against Trump. But Kim's message is a warning sign that the ground is shifting, even among a voting bloc that has backed Trump since early in his first presidential run.
-Other groups whose favor Trump and fellow GOP politicians might want to win are being even more blunt. Republicans made a play for union support under Trump to mixed success. Increasingly, if they want to win union backing, that will require taking AI concerns more seriously.
-Liz Shuler, president of the AFL-CIO, the largest U.S. labor federation, laid that out at the union's convention last month.
-"For all of those candidates who are already out there starting to run for president in 2028, if you want to hold the highest office in the land, hear these words: Working people should come before algorithms," she said.
-Shuler doesn't claim to be anti-AI, but she wants to see the new technology help more than the tech firms and their investors. So does Sean O'Brien, head of the International Brotherhood of Teamsters, who spoke at the Republican National Convention in 2024. "We've never had a seat at the table," he said in a recent event with Palantir CEO Alex Karp organized by the center-right group American Compass.
-Karp, who grew up in a union household, chimed in, "I think the biggest challenge to AI in this country is political unrest."
-The potential for that unrest is clear in the nationwide rumbling against data centers.
-It may be liberal New York state that has moved first to impose a moratorium on building data centers under Gov. Kathy Hochul. But so far, the issue isn't polarized along familiar lines. A majority — 53% — of conservative Republicans opposes building data centers locally, according to a June poll by the Yale Program on Climate Communication.
-A majority of registered voters, or 58%, shared that opposition to local data center construction, as did 74% of liberal Democrats, in the poll.
-The religious right, labor unions, and the broad coalition of local activists are all coming together to say, "slow down" on AI. The politicians who listen will find a powerful groundswell of support behind them.
-Those who don't? Well, Election Day in November is just 101 days away.`,
-    bodyJa: `人工知能とそれが予兆する広範な経済大混乱を懸念する宗教指導者、労働組合、地元活動家の新興連合は、この問題を誤った側に捉える人にとっては政治的問題を引き起こす。そして、最も危険にさらされているのはドナルド・トランプ大統領だ。
-AI はまさに政治上の盲点に位置しています。この業界とその急速に発展するテクノロジーは、政治的な風向きの変化を感知するトランプ氏のしばしば驚異的な能力を圧倒する恐れがあり、中間選挙での党の運命と彼が大切にしている長期的な遺産に損害を与える可能性がある。
-トランプ氏はその危険性を認識しているようだが、それに向かって突進せずにはいられない。
-同氏は木曜日、データセンター開発業者と電力会社による電気料金を値上げしないという約束を強調し、データセンター建設の急増によりアメリカ国民の光熱費が高騰するのではないかという全米の懸念にうなずいた。 OpenAIやOracleなどにとってこの誓約は当然のことであり、米国の老朽化した送電網に変更を加えるという複雑な経済状況が何年、何十年にもわたって展開される中、彼らに政治的隠れ蓑を与えることになる。
-しかし、トランプ大統領は、この小さな男に気を配っていることを示すための公約に関する環境保護庁のイベントでさえ、企業と歩調を合わせずにはいられなかった。同氏は集まった知事やその他の地方当局に対し、有権者をデータセンターで販売するよう強く勧めた。 「それと戦うことはできない。それと一緒に行かなければならない」と彼は言った。
-データセンター開発で誰かが金持ちになるだろう、そしてそれはあなたであるかもしれない、と彼は聴衆に語った。 「あなたがそのお金をすべて受け取らなければ、他の誰かがそれを受け取るでしょう。あなたは自分でそれをしたほうがいいでしょう。」
-お金持ちになることについてはここにあります。アメリカ人が自分たちにそれが起こる可能性を嗅ぎつけたとしても、それを回避するよう二度言われる必要はない。だからこそ、暗号通貨市場と予測市場は、たとえ個人的にそれによって実際に金持ちになる可能性がどれほど低くても、潰すことのできないアイデアなのです。
-しかし、人工知能に関して言えば、一般のアメリカ人は、ビッグテック企業が彼らに黄金の宝くじを手渡しているという考えを受け入れていない。トランプ大統領は株式市場のブームを好きなだけ宣伝できる――ナスダック総合株価指数は今年20回の記録的な終値を記録した――だが、雇用の不安定や富の集中が続くことへの懸念を克服するために、選ばれた少数のハイテク企業の株価上昇やそれらの企業が含まれる指数に市場に十分な関心を持っている米国人は少なすぎる。
-つまり、イーロン・マスク氏のスペースXは、早期に投資できた人々にとって素晴らしい機会のように見えた。先月の IPO で証券口座に数ドルを持っていた幸運なレギュラージョーにとって、株価は 30% 下落している。
-そして今、トランプ大統領が最も説得したい有権者に影響を与えている有力政治連合が、AIの階級と富の問題にさらに加わっている。
-大統領は、人類を守るためにAIにはガードレールが必要だと警告する影響力のある回勅を5月に発布した教皇レオ14世を無視するつもりかもしれない。しかし、ここ米国の福音主義運動の中心から発せられた同じ言葉を、トランプ大統領はそう簡単に払拭することはできない。
-全米福音主義者協会会長のウォルター・キム氏は、AIに対するローマ法王の警告を称賛した。金氏は水曜日、CNBCの番組「スコークボックス」で「プラスの利益もあるが、並外れた弊害もある」と語った。
-キム氏は、医療、教育、戦争におけるAIの卓越性が、最も重要な決定において人間を蚊帳の外に追いやる危険性があると懸念した。
-「教皇が最近の回勅で述べたように、バベルの塔の建設、人間の傲慢さを反映するテクノロジーへの信頼こそが、私たちを神から切り離すだけでなく、私たち相互の切り離しをもたらすのです」とキム氏は語った。
-金氏の福音派グループは候補者を支持しておらず、トランプ氏に対するいかなる公然の政治運動も脅かしていない。しかし、金氏のメッセージは、初大統領選の初期からトランプ氏を支持してきた有権者の中でも地盤が変わりつつあることを示す警告サインだ。
-トランプ大統領や他の共和党政治家を支持し、勝利を望んでいる可能性のある他のグループは、さらに率直な態度をとっている。共和党はトランプ政権下で労働組合への支援を訴えたが、成功はまちまちだった。労働組合の支持を得たいのであれば、AIへの懸念をより真剣に受け止める必要がますます高まっている。
-米国最大の労働組合であるAFL-CIOのリズ・シュラー会長は、先月の組合大会でそのことを明らかにした。
-「2028年の大統領選挙に立候補し始めている候補者の皆さん、もしこの国で最高の職に就きたければ、この言葉を聞いてください。アルゴリズムよりも労働者が優先すべきだ」と彼女は語った。
-シュラー氏は反AIであるとは主張していないが、テクノロジー企業やその投資家よりも新しいテクノロジーが役立つことを望んでいる。 2024年の共和党全国大会で講演した国際チームスターズ団体の代表ショーン・オブライエン氏も同様だ。中道右派団体アメリカン・コンパス主催のパランティアCEOアレックス・カープ氏との最近のイベントで同氏は、「我々はテーブルに着いたことがない」と語った。
-労働組合の家庭で育ったカープ氏は、「この国のAIに対する最大の課題は政情不安だと思う」と口を挟んだ。
-データセンターに対する全国的な騒ぎを見れば、そのような不安が生じる可能性は明らかだ。
-キャシー・ホチョル知事の下でデータセンター建設の一時停止に最初に動いたのはリベラルなニューヨーク州かもしれない。しかし今のところ、問題はよく知られた方向に二極化していない。イェール大学気候コミュニケーション計画による6月の世論調査によると、保守共和党員の過半数（53％）が地元にデータセンターを建設することに反対している。
-調査では、登録有権者の過半数（58％）が地元のデータセンター建設に反対していると回答し、リベラル民主党員の74％も同様だった。
-宗教右派、労働組合、地元の活動家の幅広い連合体が結集して、AIの「速度を緩めよう」と主張している。耳を傾ける政治家は、その背後に強力な支持のうねりがあることに気づくでしょう。
-そうでない人は？さて、11 月の選挙日まであと 101 日です。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/trump-ai-data-center-backlash.html",
-    publishedAt: "2026-07-25T12:00:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "logistics-giants-are-racing-to-keep-up-w-a8db9634",
-    title: "Logistics giants are racing to keep up with healthcare boom as GLP-1s highlight need for cold storage",
-    titleJa: "GLP-1が冷蔵倉庫の必要性を強調する中、物流大手はヘルスケアブームに追いつくために競っている",
-    summaryJa: "GLP-1 のような特殊な医薬品の需要が高まる中、UPS や FedEx などの物流会社は、これらの医薬品をより適切に発送および保管できるように戦略を適応させています。ノボ ノルディスクの Ozempic と Wegovy、イーライリリーの Mounjaro と Zepbound を含むほとんどの GLP-1 注射薬は、出荷時に冷蔵保管が必要です。",
-    bodyOriginal: `As demand rises for specialized medications like GLP-1s, logistics companies including UPS and FedEx are adapting their strategies to be able to better ship and store those pharmaceuticals.
-Most injectable GLP-1 medications, including Novo Nordisk's Ozempic and Wegovy and Eli Lilly's Mounjaro and Zepbound, require refrigerated storage for shipment.
-The Covid pandemic put healthcare logistics at center stage in 2020, as the shipping of temperature-controlled vaccines quickly became a crucial part of keeping the virus at bay. And as more money has been poured into new pharmaceutical innovations, the transportation of those products have come under the spotlight.
-Logistics companies are now investing millions of dollars and strengthening dozens of temperature-controlled facilities to tap into the market.
-In June, UPS announced a new $48 million investment in temperature-controlled facilities as it sees a growing demand for critical treatments. According to Growth Market Reports, the demand for temperature-sensitive biologics is projected to grow at an 8.3% compound annual growth rate through 2033 and reach a market value of roughly $39.1 billion.
-Obesity and diabetes drugs, meanwhile, have been booming in popularity. A July Gallup poll found that 11% of Americans take GLP-1 medications for weight loss purposes in 2026, up from just 3% in 2024.
-But if they're not stored and shipped at the correct temperature, they risk losing their efficacy.
-The Food and Drug Administration has warned that improper storage during shipping can affect the medicine's quality and recommends patients do not use GLP-1 drugs that arrive "warm or with insufficient refrigeration."
-Other biologics, like some vaccines, insulin and antibiotics, also require specialized shipment to maintain efficacy. For logistics companies, that means ensuring the proper storage and movement every step of the way.
-Bulking up
-Healthcare logistics have proven to be one of UPS' biggest opportunities. On an earnings call with analysts in April, CEO Carol Tomé said the company's global healthcare portfolio has gained market share every year since 2021, generating its first ever $3 billion healthcare revenue quarter in the first quarter of this year.
-UPS President of Healthcare John Bolla told CNBC that the company is seeing more healthcare companies looking for partners to keep up with the volume.
-"One of the biggest opportunities we see is supporting the shift toward more specialized therapies and more care delivered outside of traditional healthcare settings," Bolla said.
-He said UPS is experiencing "rapid growth" in biologics, cell and gene therapies, though the biggest challenge is that the margin for error is small — even a brief stray from the correct temperature can ruin the medicines, Bolla said.
-"But that's also what's creating such a significant opportunity in healthcare logistics," he said. "As treatments become more specialized and supply chains become more complex, healthcare companies need partners that can provide not just temperature-controlled storage or transportation, but end-to-end visibility, control and reliability across the entire network."
-FedEx is also tapping into the trend, launching a life sciences organization earlier this month specifically to support the movement of pharmaceuticals and other healthcare products.
-On an earnings call in June, FedEx's Chief Customer Officer Brie Carere told analysts that healthcare transportation revenue in fiscal year 2026 reached nearly $10 billion.
-"We're building end-to-end solutions focused on global pharma customers, and what's so important with global pharma is that you have to recognize that there's a patient at the end of every delivery or someone that's waiting to be treated," said Nick Gennari, FedEx's president of healthcare. "So we take this very, very seriously."
-With GLP-1s specifically, Gennari said there's an increasing complexity to delivering those medications, with forms ranging from injectables to oral pills and going direct-to-consumer. But with that complexity comes a growth opportunity for FedEx, which he said is "ideally positioned."
-Gennari said FedEx has specialized technology, including its machine learning engine that allows customers to see product movement with predictive abilities, as well as its technology that identifies healthcare products and treats each differently depending on its unique needs.
-Gennari also said he's "very comfortable" with the company's base capabilities and its plans for expansion, including cold-chain logistics.
-"Much of the infrastructure that's required to be successful in this space, we already have. We have the airline; we have an incredible schedule; we have the lift capabilities. The network is hardened and works very well," he said.
-Complex supply chains
-C.H. Robinson told CNBC the logistics company had surpassed $1 billion in revenue in healthcare logistics alone over the past year, largely due to the growth in GLP-1 drugs, as it has been investing in temperature-controlled facilities.
-"You need to really have that end-to-end connectivity, so you've got to have a really nice network and infrastructure built out in order to properly service the healthcare customers," said Ronnie Davis, the company's vice president of North American surface transportation.
-Davis said the supply chain for medications has also become more complicated. In addition to requiring refrigeration, many drugs have a short shelf life and need to be delivered in precise windows of time.
-"A lot of the innovation has been on getting the drugs to the market," Davis said. "I think what you're starting to see is that's really putting stress on the capabilities of the cold chain supply chains in the marketplace. … With the rise of GLP-1s and other specialized medicine, it's really creating a competitive nature for the same refrigerated supply resources that are there and, quite candidly, that supply is not unlimited, it's constrained."
-Davis said C.H. Robinson is working to amp up its capabilities, especially to keep up with the higher volume. At the same time, he added, pharma companies are also trying to get creative to bring their products to market with a longer shelf life.
-That innovation is also intersecting with the growth of artificial intelligence capabilities, according to Hendrik Venter, CEO of DHL Supply Chain. The logistics company uses AI to monitor critical life science products, tracking temperatures and anticipating where an issue might happen.
-"You're seeing the industry moving from conventional to biopharma," Venter told CNBC. "You need to have a supply chain that is resilient and capable of shipping in all of these various temperature zones."
-The company announced last year that it plans to invest 2 billion euros ($2.25 billion) in health logistics by 2030, with half of that allocated to the Americas.
-A lot of pharmaceutical companies are also outsourcing their warehousing activities to DHL, Venter said. The company takes over those facilities, manages them and integrates them into the rest of their network.
-DHL launched a pharmaceutical air corridor around the world, with a dedicated aircraft and connected network that ensures the drugs are not being shipped through separate regulatory environments.
-"You cannot lose a shipment. You cannot replace it. It needs to be delivered on time, every time, in the right quality and temperatures," Venter said. "So we continue to selectively look at how to strengthen that network."`,
-    bodyJa: `GLP-1 のような特殊な医薬品の需要が高まる中、UPS や FedEx などの物流会社は、これらの医薬品をより適切に発送および保管できるように戦略を適応させています。
-ノボ ノルディスクの Ozempic と Wegovy、イーライリリーの Mounjaro と Zepbound を含むほとんどの GLP-1 注射薬は、出荷時に冷蔵保管が必要です。
-2020 年は、新型コロナウイルスのパンデミックにより、温度管理されたワクチンの輸送がウイルスを防ぐための重要な部分となったため、医療物流が中心的な役割を果たしました。そして、新たな医薬品イノベーションにさらに多くの資金が注ぎ込まれるにつれ、それらの製品の輸送が注目を集めるようになりました。
-物流会社は現在、市場を開拓するために数百万ドルを投資し、温度管理された数十の施設を強化している。
-UPSは6月、重篤な治療の需要が高まるとみて、温度管理された施設に新たに4,800万ドルを投資すると発表した。 Growth Market Reports によると、温度に敏感な生物製剤の需要は、2033 年まで年間平均成長率 8.3% で成長し、市場価値は約 391 億ドルに達すると予測されています。
-一方、肥満と糖尿病の治療薬の人気は急上昇している。 7月のギャラップ世論調査によると、2026年には米国人の11％が減量目的でGLP-1薬を服用しており、2024年のわずか3％から増加している。
-しかし、適切な温度で保管および輸送されないと、その有効性が失われる危険があります。
-食品医薬品局は、輸送中の不適切な保管が医薬品の品質に影響を与える可能性があると警告し、「温かい状態、または不十分な冷蔵状態で」到着したGLP-1医薬品を使用しないよう患者に勧告している。
-一部のワクチン、インスリン、抗生物質などの他の生物製剤も、有効性を維持するために特別な輸送を必要とします。物流会社にとって、これはあらゆる段階で適切な保管と移動を確保することを意味します。
-バルクアップ
-ヘルスケア物流は UPS にとって最大のチャンスの 1 つであることが証明されています。キャロル・トメ最高経営責任者（CEO）は4月のアナリストとの決算会見で、同社の世界的なヘルスケアポートフォリオが2021年以降毎年市場シェアを拡大​​しており、今年第1四半期には史上初の30億ドルのヘルスケア収益を生み出したと述べた。
-UPSのヘルスケア担当社長ジョン・ボラ氏はCNBCに対し、この量に対応するためにパートナーを探しているヘルスケア企業が増えていると語った。
-「私たちが考える最大のチャンスの一つは、より専門的な治療法への移行と、従来の医療環境の外でより多くのケアが提供されることを支援することです」とボラ氏は述べた。
-同氏は、UPSは生物学的製剤、細胞、遺伝子治療の分野で「急速な成長」を遂げているが、最大の課題は誤差の許容範囲が小さいことだ、とボラ氏は述べ、適切な温度から少しでも逸脱すると医薬品がダメになる可能性があると述べた。
-「しかし、それが医療物流において非常に重要な機会を生み出しているものでもあります」と彼は言う。 「治療がより専門的になり、サプライチェーンがより複雑になるにつれ、ヘルスケア企業は温度管理された保管や輸送だけでなく、ネットワーク全体にわたるエンドツーエンドの可視性、制御、信頼性を提供できるパートナーを必要としています。」
-フェデックスもこの傾向を利用しており、今月初めに特に医薬品やその他のヘルスケア製品の移動をサポートするライフサイエンス組織を立ち上げた。
-フェデックスのブリー・カレレ最高顧客責任者は6月の決算会見でアナリストに対し、2026会計年度の医療輸送収入は100億ドル近くに達すると語った。
-フェデックスのヘルスケア担当社長、ニック・ジェナリ氏は「われわれは世界の製薬会社の顧客に焦点を当てたエンドツーエンドのソリューションを構築している。世界の製薬会社にとって重要なことは、配達の最後には必ず患者がいる、あるいは治療を待っている人がいることを認識しなければならないことだ」と述べた。 「ですから、私たちはこのことを非常に真剣に受け止めています。」
-特に GLP-1 については、注射剤から経口錠剤に至るまでさまざまな形態があり、直接消費者に届けられるため、これらの医薬品の提供はますます複雑になっているとゲンナリ氏は述べています。しかし、その複雑さとともにフェデックスには成長の機会が生まれ、フェデックスは「理想的な立場にある」と同氏は語った。
-ゲンナリ氏は、フェデックスには、顧客が予測能力を使って製品の動きを確認できる機械学習エンジンや、ヘルスケア製品を識別し、独自のニーズに応じてそれぞれを異なる方法で扱うテクノロジーなど、特殊なテクノロジーがあると述べた。
-ゲンナリ氏はまた、同社の基本能力とコールドチェーン物流を含む拡大計画に「非常に満足している」とも述べた。
-「この分野で成功するために必要なインフラストラクチャの多くは、私たちがすでに持っています。私たちは航空会社を持っています、私たちは信じられないほどのスケジュールを持っています、そして私たちはエレベーターの能力を持っています。ネットワークは強化されており、非常にうまく機能しています」と彼は言いました。
-複雑なサプライチェーン
-C.H.ロビンソン氏はCNBCに対し、この物流会社は温度管理された施設への投資に伴うGLP-1医薬品の成長が主な要因で、過去1年間でヘルスケア物流だけで収益が10億ドルを超えたと語った。
-同社の北米陸上輸送担当副社長のロニー・デイビス氏は、「エンドツーエンドの接続性が本当に必要なので、ヘルスケアの顧客に適切なサービスを提供するには、非常に優れたネットワークとインフラストラクチャを構築する必要がある」と述べた。
-デイビス氏は、医薬品のサプライチェーンもより複雑になっていると述べた。冷蔵が必要なだけでなく、多くの医薬品は賞味期限が短く、正確な時間内に届ける必要があります。
-「イノベーションの多くは、薬を市場に出すことにありました」とデイビス氏は語った。 「皆さんが目にし始めているのは、それが市場のコールドチェーンのサプライチェーンの能力に実際にストレスを与えているということだと思います。…GLP-1やその他の特殊な医薬品の台頭により、そこにある同じ冷蔵供給リソースに対する競争の性質が実際に生まれています。そして、非常に率直に言って、その供給は無制限ではなく、制限されています。」
-デイビスは、C.H.ロビンソンは、特により大きなボリュームに対応するために、その機能を強化するよう取り組んでいます。同時に、製薬会社もより長い保存期間を持つ製品を市場に出すために創造力を発揮しようとしている、と同氏は付け加えた。
-DHLサプライチェーンCEOのヘンドリック・ヴェンター氏によると、そのイノベーションは人工知能機能の成長とも交差しているという。この物流会社は AI を使用して重要なライフ サイエンス製品を監視し、温度を追跡し、問題が発生する可能性のある場所を予測します。
-ヴェンター氏はCNBCに対し、「業界は従来型からバイオ医薬品へと移行しつつある」と語った。 「回復力があり、さまざまな温度帯のすべてで出荷できるサプライ チェーンが必要です。」
-同社は昨年、2030年までに医療物流に20億ユーロ（22億5000万ドル）を投資し、その半分を南北アメリカ大陸に割り当てる計画を発表した。
-ベンター氏によると、多くの製薬会社も倉庫業務をDHLに委託しているという。同社はこれらの施設を引き継ぎ、管理し、ネットワークの残りの部分に統合します。
-DHL は、専用航空機と接続されたネットワークを備えた医薬品航空回廊を世界中に開設し、医薬品が個別の規制環境を介して輸送されないようにしました。
-「荷物を紛失することはできません。交換することもできません。常に、時間どおりに、適切な品質と温度で配送する必要があります」とベンター氏は述べた。 「そのため、私たちはそのネットワークを強化する方法を選択的に検討し続けます。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/ups-fedex-dhl-healthare-logistics-glp.html",
-    publishedAt: "2026-07-25T12:00:02+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "spacex-isn-t-the-wireless-threat-that-in-82987d54",
-    title: "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement",
-    titleJa: "SpaceXは、誰かがこの暗黙の合意を破らない限り、投資家が恐れている無線の脅威ではない",
-    summaryJa: "SpaceXが独自にモバイルネットワークを構築するには、おそらく費用と時間がかかりすぎるだろう。しかし、大手無線通信事業者は、ライバルの1社が売り切れにならないことを祈らなければならない。",
-    bodyOriginal: `It would likely be too expensive and time-consuming for SpaceX to build a mobile network on its own. But the major wireless carriers have to hope one of their rivals doesn’t sell out.`,
-    bodyJa: `SpaceXが独自にモバイルネットワークを構築するには、おそらく費用と時間がかかりすぎるだろう。しかし、大手無線通信事業者は、ライバルの1社が売り切れにならないことを祈らなければならない。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/spacex-isnt-the-wireless-threat-that-investors-fear-unless-someone-breaks-this-unspoken-agreement-864dab90?mod=mw_rss_topstories",
-    publishedAt: "2026-07-25T12:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-18956822",
-    readTime: 2,
   },
 ];
 
