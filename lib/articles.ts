@@ -15,6 +15,270 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "china-memory-chipmaker-cxmt-skyrockets-5-3f1d9b66",
+    title: "China memory chipmaker CXMT skyrockets 500% in blockbuster Shanghai debut",
+    titleJa: "中国のメモリチップメーカーCXMT、大ヒット上海デビューで500%急騰",
+    summaryJa: "半導体メーカー長新科技集団の株価は月曜、ハイテク産業が多い上海のSTAR市場に初登場して500％以上上昇し、CXMTは中国で最も価値のある上場企業となった。合肥に本拠を置く同社は、IPOの価格を1株当たり8.66元とした後、579億2000万元（86億ドル）を調達し、今年これまででアジア最大の規模となった。",
+    bodyOriginal: `Shares of chipmaker Changxin Technology Group rose more than 500% Monday as they debuted on Shanghai's tech-heavy STAR Market, making CXMT the most valuable China-listed company.
+The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share, making it Asia's biggest so far this year.
+CXMT shares were last trading at 52 yuan, giving the company a market cap of about 3.5 trillion yuan.
+Based on sales figures for the fourth quarter of 2025, CXMT held a 7.67% share of the global DRAM market in 2025, according to its IPO prospectus. DRAM chips are used in electronic devices ranging from smartphones to servers.
+Read more
+The global DRAM market is dominated by Samsung Electronics, SK Hynix, and Micron Technology.
+"I have no doubt the company is going to grow to be a global leader. It's maybe just a question of time that it can be not only a challenger, it can be a global champion in this particular sector," said Theodore Shou, CEO at Yiyi Capital on CNBC's "Squawk Box Asia."
+The listing comes at a time when CXMT has seen increased attention, following reports earlier this month that Apple has begun testing the Chinese chipmaker's DRAM for devices sold in China.
+CXMT swung to an operating profit of 35.43 billion yuan in the first quarter from a loss of 2.83 billion yuan a year earlier, as it saw continued growth in global computing power demand and capacity allocation by major manufacturers.
+"A 470% performance on day one isn't that rare. What's very prominent in this particular case is a company of this size performing so well," Shou said. In the past, such performance was primarily driven by smaller-cap companies, he said, adding that for CXMT, the relatively limited free float on day one, combined with the built-up market sentiment, were key factors driving the surge.
+Morningstar said in a note Friday that as AI is increasingly becoming an issue of national security for China, CXMT will likely be a key beneficiary. The research firm added that while CXMT's technology still lags global memory leaders, domestic internet giants spearheading AI development will likely drive robust adoption of its chips as Beijing pushes for semiconductor self-sufficiency.
+CXMT, founded in 2016 by Chairman Zhu Yiming, plans to boost its technological capabilities and core competitiveness, primarily memory wafer mass production and R&D projects, by employing the IPO proceeds, according to a Google translation of the information in the prospectus.
+"I think we are nearing a short-term peak in terms of sentiment around the memory cycle," Shou warned, adding that investors have already been selling into the IPO, particularly in China. "These memory chip businesses are sustainable, but the great margins and net profitability we're seeing today are not sustainable and have to normalize over a cycle," he said.
+He also added that while this may not be the peak for share prices, the market is right at the peak of a demand and supply imbalance.`,
+    bodyJa: `半導体メーカー長新科技集団の株価は月曜、ハイテク産業が多い上海のSTAR市場に初登場して500％以上上昇し、CXMTは中国で最も価値のある上場企業となった。
+合肥に本拠を置く同社は、IPOの価格を1株当たり8.66元とした後、579億2000万元（86億ドル）を調達し、今年これまででアジア最大の規模となった。
+CXMT株の最終取引価格は52元で、同社の時価総額は約3兆5000億元となった。
+IPO目論見書によると、2025年第4四半期の売上高に基づくと、CXMTは2025年に世界のDRAM市場で7.67％のシェアを獲得した。 DRAMチップは、スマートフォンからサーバーに至るまで、さまざまな電子機器に使用されています。
+続きを読む
+世界の DRAM 市場は、Samsung Electronics、SK Hynix、Micron Technology によって独占されています。
+イーイー・キャピタルの最高経営責任者（CEO）セオドア・ショウ氏はCNBCの番組「Squawk Box Asia」で、「同社が世界的リーダーに成長することに疑いはない。同社がこの分野で挑戦者であるだけでなく、世界的なチャンピオンになれるのも時間の問題かもしれない」と語った。
+この上場は、アップルが中国で販売されるデバイス向けに中国のチップメーカーのDRAMのテストを開始したとの今月初めの報道を受けて、CXMTへの注目が高まっているタイミングで行われた。
+CXMTは、世界的なコンピューティング能力の需要と大手メーカーによる容量割り当ての継続的な増加を背景に、第1四半期の営業利益は前年同期の28億3000万元の損失から354億3000万元の利益に転じた。
+「初日のパフォーマンスが 470% であることは、それほど珍しいことではありません。この特定のケースで非常に顕著なのは、この規模の企業が非常に優れたパフォーマンスを示しているということです」とショウ氏は言いました。同氏は、これまでこうした業績は主に小型株企業によってもたらされていたと述べ、CXMTの場合、初日の浮動株が比較的限られていたことと、蓄積された市場センチメントが急騰を促進する主な要因だったと付け加えた。
+モーニングスターは金曜日のメモで、AIが中国にとって国家安全保障の問題になりつつある中、CXMTが重要な恩恵を受ける可能性が高いと述べた。同調査会社は、CXMTの技術はいまだ世界のメモリリーダーに遅れをとっているものの、中国政府が半導体の自給自足を推進する中、AI開発を主導する国内のインターネット大手が同社チップの積極的な採用を推進する可能性が高いと付け加えた。
+目論見書の情報をGoogle翻訳したところによると、CXMTは2016年に朱一銘会長によって設立され、IPOの収益を活用して主にメモリウェーハの量産と研究開発プロジェクトで技術力と核となる競争力を強化する計画だという。
+ショウ氏は「記憶循環を巡るセンチメントの観点からは、短期的なピークに近づいていると思う」と警告し、特に中国では投資家がすでにIPOに売り込んでいると付け加えた。同氏は、「これらのメモリーチップ事業は持続可能だが、今日我々が見ている大きな利益率と純利益は持続可能ではなく、サイクルを経て正常化する必要がある」と述べた。
+同氏はまた、今は株価のピークではないかもしれないが、市場はまさに需要と供給の不均衡のピークにあると付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+    publishedAt: "2026-07-27T03:29:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "oil-prices-sink-stock-futures-rally-as-u-81419032",
+    title: "Oil prices sink, stock futures rally as U.S. and Iran pause attacks, Wall Street awaits busy week",
+    titleJa: "米国とイランが攻撃を一時停止する中、原油価格は下落、株価先物は上昇、ウォール街は忙しい週を待つ",
+    summaryJa: "米国とイランが戦闘を一時停止し、ウォール街がFRBの会合と大手ハイテク企業の重要な決算報告に向けて準備を整えるなか、日曜日には米国の株価指数先物が上昇し、原油価格が下落した。",
+    bodyOriginal: `U.S. stock-index futures rallied and oil prices tumbled on Sunday as the U.S. and Iran took a pause from fighting, and as Wall Street gears up for the Fed’s meeting and key earnings reports from Big Tech companies.`,
+    bodyJa: `米国とイランが戦闘を一時停止し、ウォール街がFRBの会合と大手ハイテク企業の重要な決算報告に向けて準備を整えるなか、日曜日には米国の株価指数先物が上昇し、原油価格が下落した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/oil-prices-sink-stock-futures-rally-as-u-s-and-iran-pause-attacks-wall-street-awaits-busy-week-75030e00?mod=mw_rss_topstories",
+    publishedAt: "2026-07-27T03:02:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-36741421",
+    readTime: 2,
+  },
+  {
+    id: "shein-swings-to-99m-loss-as-trump-tariff-8a63e712",
+    title: "Shein swings to $99m loss as Trump tariffs hit sales",
+    titleJa: "トランプ大統領の関税が売上に打撃を与え、シェイン氏は9,900万ドルの損失に揺れる",
+    summaryJa: "トランプ大統領の関税が売上に打撃を与え、シェイン氏は9,900万ドルの損失に揺れる- 公開されました",
+    bodyOriginal: `Shein swings to $99m loss as Trump tariffs hit sales
+- Published
+Shein says it swung to a quarterly loss as its sales slowed after US President Donald Trump removed an import duty exemption on small packages.
+It also comes as uncertainty remains over the tit-for-tat US-China tariffs wars, which is currently paused.
+The fast-fashion giant, which has its headquarters in Singapore but was founded in China, said it lost $99m (£74.1m) in the first three months of the year, compared with a net income of $395m a year earlier.
+The announcement is part of the firm's preparations ahead of its stock market debut in Hong Kong, although the filing did not give any details on the size, timetable or pricing of the planned initial public offering (IPO).
+"In response to the increased duties and taxes, we are pursuing a wide range of options, including increasing our prices in the US market to offset a portion of the increased costs," Shein said in the filing.
+The company also said the Iran war had hit demand, increased costs and caused delays of deliveries in some markets.
+The first-quarter figures also partly reflected a paper loss of $328m due to an accounting change for special investor shares. The shares can be turned into ordinary stock later, and their value can change before a listing.
+The filing showed that in the year to the end of March 2026 Shein had 281 million active customers - a rise of more than 16% on a year earlier - who placed a total of more than one billion orders.
+On 10 July, the China Securities Regulatory Commission (CSRC) gave Shein approval for a Hong Kong share sale after failed attempts to list in New York and London.
+The Hong Kong share listing is expected to take place in the coming months.
+The figures show the impact of a Trump-signed executive order to end a global tariff exemption that had been used by US shoppers of low-cost goods.
+That order, which came into effect on 29 August 2025, broadened an earlier presidential action which specifically targeted cheap products from China and Hong Kong to cover the rest of the world.
+The so-called de minimis exemption had allowed goods valued at $800 or less to enter the US without paying any tariffs. US consumers relied on the exemption to buy cheap goods from online commerce sites like Shein and Temu.
+The White House said the global exemption was being used to "evade tariffs and funnel deadly synthetic opioids" to the US.
+"The removal of the US de minimis exemption has had an adverse impact on our sales in the US and the overall growth of our net revenues," Shein said in the filing.
+Earlier in July, the European Union imposed a €3 (£2.56; $3.42) levy on low-value e-commerce imports.
+The measure is aimed to curb what the trading bloc has said is unfair competition from China.`,
+    bodyJa: `トランプ大統領の関税が売上に打撃を与え、シェイン氏は9,900万ドルの損失に揺れる
+- 公開されました
+シェイン氏は、ドナルド・トランプ米大統領が小型荷物に対する輸入関税の免除措置を撤廃したことを受けて売上が鈍化し、四半期損失に陥ったと述べた。
+また、現在中断されている米中の報復関税合戦をめぐる不確実性が依然として残っていることも背景にある。
+シンガポールに本社を置き、中国で設立されたこのファストファッション大手は、前年同期の純利益が3億9,500万ドルだったのに対し、今年最初の3か月で9,900万ドル（7,410万ポンド）の損失を出したと発表した。
+この発表は香港での株式市場デビューに先立った同社の準備の一環だが、申請書には計画されている新規株式公開（IPO）の規模、スケジュール、価格などの詳細は記載されていない。
+シェイン氏は提出書類の中で、「関税と税金の増加に対応し、コスト増加の一部を相殺するために米国市場での価格を引き上げるなど、幅広い選択肢を追求している」と述べた。
+同社はまた、イラン戦争により需要が打撃を受け、コストが増加し、一部の市場で納品に遅れが生じていると述べた。
+第 1 四半期の数値には、特別投資家株式の会計処理変更による 3 億 2,800 万ドルの紙損も部分的に反映されています。株式は後で普通株式に変えることができ、上場前に価値が変わる可能性があります。
+提出書類によると、2026年3月末までの1年間に、Sheinには2億8,100万人のアクティブ顧客（前年比16％以上増加）がおり、合計10億件以上の注文があったことが明らかになった。
+7月10日、中国証券監督管理委員会（CSRC）は、ニューヨークとロンドンでの上場計画が失敗したことを受け、シェインに対し香港株売却を承認した。
+香港株式上場は今後数カ月以内に行われる予定だ。
+この数字は、低価格商品の米国の買い物客が利用していた世界的な関税免除を廃止するトランプ大統領署名の大統領令の影響を示している。
+2025年8月29日に発効したこの命令は、特に中国と香港からの安価な製品を対象とした以前の大統領の行動を世界の他の地域にも拡大するものとなった。
+いわゆるデミニミス免除により、800ドル以下の商品は関税を支払わずに米国に入国することが認められていた。米国の消費者はこの免除を利用して、SheinやTemuなどのオンライン商取引サイトから安価な商品を購入した。
+ホワイトハウスは、世界的な免除措置は「関税を回避し、致死性の合成オピオイドを米国に供給する」ために利用されていると述べた。
+シェイン氏は提出書類の中で、「米国のde minimis 免税措置の撤廃は、米国での当社の売上高と全体的な純収益の伸びに悪影響を及ぼした」と述べた。
+7月初旬、欧州連合は低額電子商取引の輸入品に3ユーロ（2.56ポンド、3.42ドル）の課税を課した。
+この措置は、通商圏が中国との不公平な競争だと主張していることを抑制することを目的としている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-27T02:08:36+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a66/live/d66cf590-8950-11f1-aee1-9f17574ebbb3.jpg",
+    readTime: 3,
+  },
+  {
+    id: "china-industrial-profit-growth-slows-aga-3ca4c6b5",
+    title: "China industrial profit growth slows again in June as retreating oil prices sap earnings lift",
+    titleJa: "中国の工業利益の伸びは6月に再び減速、原油価格の下落で収益押し上げが阻害される",
+    summaryJa: "国家統計局が月曜日に発表したデータによると、6月の中国の工業利益は前年同月比15.1％増加したが、エネルギー価格の緩和が今年の回復を牽引してきた価格上昇を抑えたため、2か月連続で鈍化した。5月の21.1％上昇が11月以来初めての減速となった後、6月の数字は2カ月ぶりの減速となった。",
+    bodyOriginal: `China's industrial profits rose 15.1% in June from a year earlier, according to data released Monday by the National Bureau of Statistics, slowing for a second straight month as easing energy prices took the edge off the price gains that had driven this year's rebound.
+The June figure extended a two-month deceleration, after May's 21.1% gain marked the first slowdown since November.
+For the first half of this year, profits climbed 18.7%, slowing from the 18.8% pace recorded in the January-May period.
+Industrial corporate earnings have staged a notable turnaround this year, swinging from barely positive growth in 2025 to double-digit gains, as an artificial intelligence-fueled boom in chip and equipment manufacturing coincided with the end of nearly three years of factory-gate deflation.
+The recovering profit has also been helped by a favorable comparison with last year. Earnings fell 3.6% in June last year and declined 2.8% in the first half of 2025.
+Factory-gate prices also rose 3.6% year on year in the second quarter, the first positive reading since late 2022.
+That reflation boost appears wobbly, as much of the price recovery was driven by surging global energy costs, while domestic demand lags, economists say.
+Producer prices dipped 0.3% month-on-month in June, the first decline since July 2025, according to LSEG data, as normalizing tanker flows through the Strait of Hormuz pulled oil, refined-fuel, and petrochemical prices lower.
+Investors will now turn to the Communist Party's Politburo meeting, traditionally held in late July, where top leaders will review first-half performance and set policy direction for the rest of the year.
+Economists anticipate stronger easing language after the second-quarter slowdown, though expectations for a large stimulus package remain low, as Beijing refrains from more forceful action given resilient exports and its focus on curbing excess factory capacity.
+"The Politburo is likely to make policy support mildly more urgent, prioritizing faster fiscal rollout," said Robin Xing, chief China economist at Morgan Stanley, pegging their baseline as a "gradual policy ramp-up rather than a one-off stimulus push."
+"Growth should stay resilient thanks to exports, even as domestic demand lags," Xing said, citing the AI-driven investment cycle — in which China is a key hardware supplier — and a broader Asian industrial capex super-cycle that is now unfolding.`,
+    bodyJa: `国家統計局が月曜日に発表したデータによると、6月の中国の工業利益は前年同月比15.1％増加したが、エネルギー価格の緩和が今年の回復を牽引してきた価格上昇を抑えたため、2か月連続で鈍化した。
+5月の21.1％上昇が11月以来初めての減速となった後、6月の数字は2カ月ぶりの減速となった。
+今年上半期の利益は１８．７％増加し、１─５月に記録した１８．８％のペースから鈍化した。
+人工知能を原動力としたチップや機器の製造ブームが、約3年にわたるファクトリーゲートデフレの終焉と重なったため、産業企業の利益は今年、顕著な好転を見せ、2025年のわずかなプラス成長から2桁の伸びに転じた。
+前年比が好調だったことも利益の回復に寄与した。昨年６月の利益は３．６％減少し、２０２５年上半期は２．８％減少した。
+第２・四半期のファクトリーゲート価格も前年比３．６％上昇し、２０２２年後半以来初めてプラスとなった。
+エコノミストらによると、国内需要が遅れている一方で、価格回復の多くは世界的なエネルギーコストの高騰によってもたらされたため、このリフレの押し上げは不安定に見えるという。
+LSEGのデータによると、ホルムズ海峡を通過するタンカーの航行正常化により石油、精製燃料、石油化学製品の価格が下落したため、6月の生産者物価は前月比0.3％下落し、2025年7月以来の下落となった。
+投資家は今後、伝統的に7月下旬に開催される共産党政治局会議に目を向けるだろう。そこではトップリーダーが上半期の業績をレビューし、残りの政策の方向性を定めることになる。
+エコノミストらは第２・四半期の景気減速を受けて、より強力な緩和策を打ち出すと予想しているが、中国政府が輸出の回復力と過剰な工場生産能力の抑制に重点を置いていることから、より強力な行動を控えているため、大規模な景気刺激策への期待は依然として低い。
+モルガン・スタンレーの首席中国エコノミスト、ロビン・シン氏は「政治局は政策支援をやや緊急性を高め、より迅速な財政展開を優先するだろう」と述べ、基準を「一度限りの景気刺激策ではなく段階的な政策強化」と定めた。
+シン氏は、中国が主要なハードウェア供給国となっているAI主導の投資サイクルと、現在展開中のアジアの広範な産業設備投資のスーパーサイクルを挙げ、「内需が遅れているにもかかわらず、輸出のおかげで成長は底堅さを維持するはずだ」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/27/china-industrial-profit-growth-exports-oil-drops.html",
+    publishedAt: "2026-07-27T02:02:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "oil-slides-5-as-iran-reportedly-signals-ae0ff78f",
+    title: "Oil slides 5% as Iran reportedly signals halt to attacks if U.S. pause holds",
+    titleJa: "米国の一時停止が維持されればイランが攻撃停止の信号を送ったと伝えられ、原油は5%下落",
+    summaryJa: "イランが米国の戦闘停止が続く限り攻撃を停止すると発表したと伝えられたことを受けて原油価格が下落し、２週間近く続く紛争激化に対する懸念が和らぎました。国際指標となるブレント原油先物９月渡しは４．８８％下落し、１バレル＝９２ドル付近となった。米国ウェスト・テキサス・インターミディエイト原油先物９月渡しも同様に５％超下落し、１バレル＝８４．８４ドルとなった。",
+    bodyOriginal: `Oil prices fell after Iran reportedly said it would suspend attacks as long as a U.S. pause in hostilities remains in place, easing concerns over nearly two weeks of escalating conflict.
+International benchmark Brent crude futures for September delivery fell 4.88% to around $92 a barrel. U.S. West Texas Intermediate crude futures for September delivery similarly dropped over 5% to $84.84 a barrel.
+Iran has indicated it will stop carrying out attacks as long as the United States also refrains from striking, Reuters reported on Sunday, citing a senior Iranian official.
+The pause follows Washington's decision to suspend its bombing campaign after President Donald Trump's advisers reportedly warned that the military was running out of viable targets and raised concerns about depleting U.S. weapons stockpiles.
+The Iranian official reportedly said that that Tehran's stance "remains 'attack for attack': if the attacks stop, Iran will also halt its operations. That message has already been conveyed to the United States."
+U.S. ambassador to the United Nations Mike Waltz said on Fox News Sunday that Trump had chosen to pause the strikes to allow diplomatic efforts to continue.
+HSBC's U.S. rates strategist Dhiraj Narula said higher oil prices have contributed to renewed expectations that the Federal Reserve may need to keep policy tighter for longer, but noted inflation expectations have remained relatively contained despite the energy rally.
+He attributed that to stronger messaging from Fed officials on their commitment to price stability, which has prevented the oil shock from feeding into longer-term inflation expectations.`,
+    bodyJa: `イランが米国の戦闘停止が続く限り攻撃を停止すると発表したと伝えられたことを受けて原油価格が下落し、２週間近く続く紛争激化に対する懸念が和らぎました。
+国際指標となるブレント原油先物９月渡しは４．８８％下落し、１バレル＝９２ドル付近となった。米国ウェスト・テキサス・インターミディエイト原油先物９月渡しも同様に５％超下落し、１バレル＝８４．８４ドルとなった。
+ロイター通信が日曜、イラン高官の話として報じたところによると、イランは米国も攻撃を控える限り攻撃をやめる意向を示しているという。
+この一時停止は、ドナルド・トランプ大統領の顧問らが軍が実行可能な標的を使い果たしつつあると警告し、米国の武器備蓄が枯渇することへの懸念を表明したことを受けて、爆撃作戦を停止するというワシントンの決定を受けたものである。
+伝えられるところによると、イラン当局者は、イラン政府の立場は「引き続き『攻撃には攻撃』だ。攻撃が止まればイランも作戦を停止する。そのメッセージはすでに米国に伝えられている」と述べたという。
+マイク・ウォルツ米国連大使はフォックスニュース日曜番組で、トランプ大統領は外交努力を継続できるようにするために空爆の一時停止を選択したと述べた。
+ＨＳＢＣの米国金利ストラテジスト、ディラジ・ナルラ氏は、原油価格の上昇が米連邦準備理事会（ＦＲＢ）が政策引き締めを長期継続する必要があるのではないかという新たな期待に寄与していると述べたが、エネルギー上昇にもかかわらずインフレ期待は比較的抑制されたままであると指摘した。
+同氏は、物価安定への取り組みについてFRB当局者がより強力なメッセージを発信したことが原因であり、これによりオイルショックが長期的なインフレ期待に反映されるのを防いだ、と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
+    publishedAt: "2026-07-26T23:58:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "here-s-the-tech-stock-to-buy-in-a-market-e426bb43",
+    title: "Here's the tech stock to buy in a market losing patience with tech",
+    titleJa: "ハイテクに対する忍耐力を失った市場で買うべきハイテク株はこれだ",
+    summaryJa: "It's not the spend, it's the return. That's what Friday's technology stock plunge said. I think it just might be the most significant tech selloff in more than a year. We need to know — potentially — what we are facing. We need to know if the trillion-dollar spigot is drying up — or it is just a dry spell. For my Charitable Trust, the portfolio we use for the CNBC Investing Club, we have been consolidating and gradually trying to shrink traditional tech — semis, software, data center — and move ",
+    bodyOriginal: `It's not the spend, it's the return. That's what Friday's technology stock plunge said. I think it just might be the most significant tech selloff in more than a year. We need to know — potentially — what we are facing. We need to know if the trillion-dollar spigot is drying up — or it is just a dry spell. For my Charitable Trust, the portfolio we use for the CNBC Investing Club, we have been consolidating and gradually trying to shrink traditional tech — semis, software, data center — and move into other kinds of tech, namely tech-infused pharma and aerospace. We tried to make Intel — not Nvidia — the focal point of the portfolio, concerned that there are not enough new move-the-needle customers still out there for Nvidia. No, I'm not giving up Nvidia. It is still amazing, and I think it will have a bang-up quarter. But the "action" in the stock is speaking too loudly. The action in Apple is screaming that its decision, made intentionally or de facto, not to spend hundreds of billions on AI, is brilliant. It's having the best month in three years. Tons of critics second-guess Apple's decision-making. That's wrong. Apple decided a long time ago that much would flow to it if it made the best handhelds. It does. That allowed it to pick and choose which hyperscaler-chat-bot company it wanted to affiliate with, because they have quickly turned into commodities. Google had no choice but to virtually give it away — at least on a net basis — because Google Search has become suspect in its return while Gemini is no Claude from Anthropic. So, we gravitated to a new company, late for now, Intel, because we could see that the ratio of graphics processing units (GPUs) — Nvidia's giant, expensive chips — to central processing units (CPUs) — Intel and Advanced Micro Devices (AMD) — and perhaps, Arm Holdings , if it can get foundry time, even as it is partners with Intel) was quickly changing. When Lip-Bu Tan took over as CEO of Intel, the ratio was about four GPUs for every one CPU. Now, he told me last Thursday, it's about one CPU for every one GPU. Soon, data centers will have four CPUs for every one GPU. The gross margins on the GPUs are far more bountiful than on CPUs. A well-run Intel can change that. This is a well-run Intel. Plus, the CEO is perhaps the most dedicated semiconductor investor who knows how to spend the money wisely to build foundries (factories to manufacture chips) that are in short supply. Most important, he knows packaging, which is the equivalent of bundling CEOs to make them more powerful now that it is getting harder and harder to make nodes smaller and more powerful. The notion of Moore's Law — Gordon Moore, an Intel founder — that you can keep making ever-more-powerful smaller chips may have run out — Or definitely has run out, according to Jensen Huang. When in doubt, go with Jensen. So, we went with Intel, betting on an upside surprise. As usual, we buy slowly for the Trust. We had a little more than half a position on betting against ourselves that the company would report a spectacular number. We lost the bet. It was spectacular, maybe better than that, and it traded up more than 10% in last Thursday's after-hours session. High-fives all around. We looked good. Now I was out on Long Island to throw a rehearsal dinner for special nuptials, the marriage of my stepson, Will Detwiler, who has had that position for 21 years and lots of rearing, and his incredible now-wife Caroline (Win With) Willkie. It was a rather sizable prelude to the actual affair, a rehearsal dinner so large that it had a rehearsal for the rehearsal dinner. I was confident of the market's reaction to Intel even as I lacked confidence in the market. It's more than a tad difficult being long much of anything when you have a president talking about saturation bombing of a crafty opponent that seems to be a state that has more missiles than people. We're back to where the war or wars or who knows what can drive oil to where bears can confidently discuss 5% to 6% inflation. My confidence was misplaced. Entirely. I got up early Friday, not to disturb the participants, took a call from American Express , which we told you would cause selling pressure, and out of one retina saw Intel trading not at $109 but $106.30. Then, $106.28 and then $106.20, and the cadence was both sickening and relentless. Hardly a stand was made before market hours. Count the upticks on a couple of hands. After it went to $103 and change, soon before Friday's open, you could calculate how much it would be down on the day. I switched mentalities and went into thank-my-lucky-stars mode to have plenty of room to buy; if we still wanted to. Which brings me to the essence of this beautiful Sunday's piece after a picture-perfect wedding where I forced myself to be in the non-stop present, something I had only been capable of at one wedding-mine — and two Super Bowls. So, what the heck happened here? Why did Intel close down nearly 8% on Friday? I have heard lots of reasons for the tech sell-off. The most preeminent is that the market has decided to exercise its power to stop the spend. With Alphabet 's stock reeling almost forty points below what once looked like a terrifically priced secondary — at least, before we heard that Google was going to up its capex again — it looks like many sellers decided enough is enough. We won't reward spending with a higher market capitalization. That was a brutal judgment, especially given that Google Cloud had an implausibly tremendous quarter — cue the interview of Thomas Kurian, the head of Google Cloud and often called the LeBron James of tech, a statement with refreshed poignancy given my proclivity for the Philadelphia 76ers. That Alphabet call had me wishing for Ruth Porat back in the CFO role, and her 80-plus calls under her belt to explain why the spend keeps getting upped. Yes, we can say "to meet demand," as now CFO Anat Ashkenazi said multiple times while sprinkling in positives about Alphabet's balance sheet. I have found both statements painful. That's because Alphabet's balance sheet, with an income statement showing negative cash flow, is no longer the belle of the ball. It's okay, not great. If you owned Alphabet for its rock-solid balance sheet and buyback, you are thinking of a different Alphabet, one of yesteryear. The real pain, though, comes from this "meet demand" statement that we heard so much. I am not sure if Alphabet knows what it means to a market that's starting to lose a lot of money in these hyperscalers when it hears "meet demand." We are definitely not looking for companies to "meet demand." We are looking for them to "make money." We aren't hearing anything like that. The only company making money here with Alphabet is Apple. This "meeting demand" stuff is wearying. I feel like the Trust owns companies that are losing fortunes on everything they make, but they are going to make it up in volume. What's happened is, at last, we have come to accept not that these companies don't know what they are doing. I am sure that Alphabet feels that if you build it, profits will come — but there are better stories elsewhere. What do I need this spending horror show when I can get behind Club name Johnson & Johnson ? The technology behind the materials science of 3M doesn't require billions of dollars to lose, well, billions; it just makes money. Again, I am not in the camp that the emperor has no clothes. One of these emperors to be will, perhaps, Anthropic because it is business-to-business (B2B) and we love the stickiness of B2B; the fickle nature of the OpenAI business-to-consumer (B2C) paradigm is viewed to be the culprit for the leaky bucket of that shop. Oh boy, OpenAI has to come public in the worst way; thank you very little. In some ways, it doesn't matter whether you sell tech because you don't see a return or you sell tech because you think these companies lack any discipline. Either way, hundreds of billions of dollars are leaving the cohort. That's why I am wondering if this damned-the-sellers-full-speed-ahead mentality is coming to an end. Which brings me back to the all-encompassing selling of Friday. When you are watching the stock of Intel sink, you can say that it's going down because you didn't get the Wall Street analyst price target bumps you thought it would. They were disappointing. But AMD had a meeting simultaneously, and the only companies that can give Intel a run for the money right now are Nvidia, when it reports late next month, and AMD right now. Shares of AMD sank, too, but not as viciously as Intel, but at a brisk pace. The selling was ferocious. By the end of the session, as the wedding flowers abounded, the Fosforo (my wife's agave spirits company) flowed, and the toasts were readied, you could almost see the selling morph from being about the discipline of capex to a rumor of a cut in capex by a hyperscaler. That someone blinked. I don't know if someone actually did blink. I suspect we will find out Monday. But if someone, other than a supplier, doesn't come out soon and say "we are beating and raising our numbers," I suspect that a trillion dollars' worth of market cap comes right off the top of all the behemoths who still ply AI. No illusions here. We cannot have a sustained rally with tech bleeding through the eyeballs. There are too many companies that have run up to see that happen. We know that the Dow Jones Industrial Average has been able to resist, and the S & P 500 has only slightly faltered, but the Nasdaq is back in charnel house mode. I say we keep tilting away from traditional tech. We stay close to see if someone forecasts a profit, which could lift all boats, and we recognize that there are not enough companies left who still need the hardware, at least not right now. Bottom line Why, then, Intel? Because the only way to amortize all of the spend now is with AI agents, and agents are run on Intel's CPUs. That and robots. We know that robots are such a huge market that they can't be left just to Tesla. I think all of the hyperscalers are going to have to offer them. They are not a GPU product as much as a CPU market — robots are packed with them. Right now, we have lots of use cases both in and out of the data centers, but the next great demand wave, I believe, comes from robots that are B2B to business and then B2C. The current demand for all sorts of tech will sustain the CPU. But I think that robots give us the use case that will keep the stocks in some demand after the companies own up to what might be a sensible pause in spend. I sense we will know soon enough whether it's just a rumor of a pause or an actual one. Either way, keep moving toward new and different tech while backing only Intel when it comes to old tech. A pause could be so jarring that, initially, we won't buy the pausers, but let's not get ahead of ourselves. And remember, a beat and raise from just one hyperscaler changes the entire equation; and three more of them — Amazon , Meta Platforms , and Microsoft — report earnings this week. And oh yeah, fellow Club holding Apple also reports this week . (Jim Cramer's Charitable Trust is long INTC, NVDA, AAPL, AMZN, META, MSFT. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.`,
+    bodyJa: `It's not the spend, it's the return. That's what Friday's technology stock plunge said. I think it just might be the most significant tech selloff in more than a year. We need to know — potentially — what we are facing. We need to know if the trillion-dollar spigot is drying up — or it is just a dry spell. For my Charitable Trust, the portfolio we use for the CNBC Investing Club, we have been consolidating and gradually trying to shrink traditional tech — semis, software, data center — and move into other kinds of tech, namely tech-infused pharma and aerospace. We tried to make Intel — not Nvidia — the focal point of the portfolio, concerned that there are not enough new move-the-needle customers still out there for Nvidia. No, I'm not giving up Nvidia. It is still amazing, and I think it will have a bang-up quarter. But the "action" in the stock is speaking too loudly. The action in Apple is screaming that its decision, made intentionally or de facto, not to spend hundreds of billions on AI, is brilliant. It's having the best month in three years. Tons of critics second-guess Apple's decision-making. That's wrong. Apple decided a long time ago that much would flow to it if it made the best handhelds. It does. That allowed it to pick and choose which hyperscaler-chat-bot company it wanted to affiliate with, because they have quickly turned into commodities. Google had no choice but to virtually give it away — at least on a net basis — because Google Search has become suspect in its return while Gemini is no Claude from Anthropic. So, we gravitated to a new company, late for now, Intel, because we could see that the ratio of graphics processing units (GPUs) — Nvidia's giant, expensive chips — to central processing units (CPUs) — Intel and Advanced Micro Devices (AMD) — and perhaps, Arm Holdings , if it can get foundry time, even as it is partners with Intel) was quickly changing. When Lip-Bu Tan took over as CEO of Intel, the ratio was about four GPUs for every one CPU. Now, he told me last Thursday, it's about one CPU for every one GPU. Soon, data centers will have four CPUs for every one GPU. The gross margins on the GPUs are far more bountiful than on CPUs. A well-run Intel can change that. This is a well-run Intel. Plus, the CEO is perhaps the most dedicated semiconductor investor who knows how to spend the money wisely to build foundries (factories to manufacture chips) that are in short supply. Most important, he knows packaging, which is the equivalent of bundling CEOs to make them more powerful now that it is getting harder and harder to make nodes smaller and more powerful. The notion of Moore's Law — Gordon Moore, an Intel founder — that you can keep making ever-more-powerful smaller chips may have run out — Or definitely has run out, according to Jensen Huang. When in doubt, go with Jensen. So, we went with Intel, betting on an upside surprise. As usual, we buy slowly for the Trust. We had a little more than half a position on betting against ourselves that the company would report a spectacular number. We lost the bet. It was spectacular, maybe better than that, and it traded up more than 10% in last Thursday's after-hours session. High-fives all around. We looked good. Now I was out on Long Island to throw a rehearsal dinner for special nuptials, the marriage of my stepson, Will Detwiler, who has had that position for 21 years and lots of rearing, and his incredible now-wife Caroline (Win With) Willkie. It was a rather sizable prelude to the actual affair, a rehearsal dinner so large that it had a rehearsal for the rehearsal dinner. I was confident of the market's reaction to Intel even as I lacked confidence in the market. It's more than a tad difficult being long much of anything when you have a president talking about saturation bombing of a crafty opponent that seems to be a state that has more missiles than people. We're back to where the war or wars or who knows what can drive oil to where bears can confidently discuss 5% to 6% inflation. My confidence was misplaced. Entirely. I got up early Friday, not to disturb the participants, took a call from American Express , which we told you would cause selling pressure, and out of one retina saw Intel trading not at $109 but $106.30. Then, $106.28 and then $106.20, and the cadence was both sickening and relentless. Hardly a stand was made before market hours. Count the upticks on a couple of hands. After it went to $103 and change, soon before Friday's open, you could calculate how much it would be down on the day. I switched mentalities and went into thank-my-lucky-stars mode to have plenty of room to buy; if we still wanted to. Which brings me to the essence of this beautiful Sunday's piece after a picture-perfect wedding where I forced myself to be in the non-stop present, something I had only been capable of at one wedding-mine — and two Super Bowls. So, what the heck happened here? Why did Intel close down nearly 8% on Friday? I have heard lots of reasons for the tech sell-off. The most preeminent is that the market has decided to exercise its power to stop the spend. With Alphabet 's stock reeling almost forty points below what once looked like a terrifically priced secondary — at least, before we heard that Google was going to up its capex again — it looks like many sellers decided enough is enough. We won't reward spending with a higher market capitalization. That was a brutal judgment, especially given that Google Cloud had an implausibly tremendous quarter — cue the interview of Thomas Kurian, the head of Google Cloud and often called the LeBron James of tech, a statement with refreshed poignancy given my proclivity for the Philadelphia 76ers. That Alphabet call had me wishing for Ruth Porat back in the CFO role, and her 80-plus calls under her belt to explain why the spend keeps getting upped. Yes, we can say "to meet demand," as now CFO Anat Ashkenazi said multiple times while sprinkling in positives about Alphabet's balance sheet. I have found both statements painful. That's because Alphabet's balance sheet, with an income statement showing negative cash flow, is no longer the belle of the ball. It's okay, not great. If you owned Alphabet for its rock-solid balance sheet and buyback, you are thinking of a different Alphabet, one of yesteryear. The real pain, though, comes from this "meet demand" statement that we heard so much. I am not sure if Alphabet knows what it means to a market that's starting to lose a lot of money in these hyperscalers when it hears "meet demand." We are definitely not looking for companies to "meet demand." We are looking for them to "make money." We aren't hearing anything like that. The only company making money here with Alphabet is Apple. This "meeting demand" stuff is wearying. I feel like the Trust owns companies that are losing fortunes on everything they make, but they are going to make it up in volume. What's happened is, at last, we have come to accept not that these companies don't know what they are doing. I am sure that Alphabet feels that if you build it, profits will come — but there are better stories elsewhere. What do I need this spending horror show when I can get behind Club name Johnson & Johnson ? The technology behind the materials science of 3M doesn't require billions of dollars to lose, well, billions; it just makes money. Again, I am not in the camp that the emperor has no clothes. One of these emperors to be will, perhaps, Anthropic because it is business-to-business (B2B) and we love the stickiness of B2B; the fickle nature of the OpenAI business-to-consumer (B2C) paradigm is viewed to be the culprit for the leaky bucket of that shop. Oh boy, OpenAI has to come public in the worst way; thank you very little. In some ways, it doesn't matter whether you sell tech because you don't see a return or you sell tech because you think these companies lack any discipline. Either way, hundreds of billions of dollars are leaving the cohort. That's why I am wondering if this damned-the-sellers-full-speed-ahead mentality is coming to an end. Which brings me back to the all-encompassing selling of Friday. When you are watching the stock of Intel sink, you can say that it's going down because you didn't get the Wall Street analyst price target bumps you thought it would. They were disappointing. But AMD had a meeting simultaneously, and the only companies that can give Intel a run for the money right now are Nvidia, when it reports late next month, and AMD right now. Shares of AMD sank, too, but not as viciously as Intel, but at a brisk pace. The selling was ferocious. By the end of the session, as the wedding flowers abounded, the Fosforo (my wife's agave spirits company) flowed, and the toasts were readied, you could almost see the selling morph from being about the discipline of capex to a rumor of a cut in capex by a hyperscaler. That someone blinked. I don't know if someone actually did blink. I suspect we will find out Monday. But if someone, other than a supplier, doesn't come out soon and say "we are beating and raising our numbers," I suspect that a trillion dollars' worth of market cap comes right off the top of all the behemoths who still ply AI. No illusions here. We cannot have a sustained rally with tech bleeding through the eyeballs. There are too many companies that have run up to see that happen. We know that the Dow Jones Industrial Average has been able to resist, and the S & P 500 has only slightly faltered, but the Nasdaq is back in charnel house mode. I say we keep tilting away from traditional tech. We stay close to see if someone forecasts a profit, which could lift all boats, and we recognize that there are not enough companies left who still need the hardware, at least not right now. Bottom line Why, then, Intel? Because the only way to amortize all of the spend now is with AI agents, and agents are run on Intel's CPUs. That and robots. We know that robots are such a huge market that they can't be left just to Tesla. I think all of the hyperscalers are going to have to offer them. They are not a GPU product as much as a CPU market — robots are packed with them. Right now, we have lots of use cases both in and out of the data centers, but the next great demand wave, I believe, comes from robots that are B2B to business and then B2C. The current demand for all sorts of tech will sustain the CPU. But I think that robots give us the use case that will keep the stocks in some demand after the companies own up to what might be a sensible pause in spend. I sense we will know soon enough whether it's just a rumor of a pause or an actual one. Either way, keep moving toward new and different tech while backing only Intel when it comes to old tech. A pause could be so jarring that, initially, we won't buy the pausers, but let's not get ahead of ourselves. And remember, a beat and raise from just one hyperscaler changes the entire equation; and three more of them — Amazon , Meta Platforms , and Microsoft — report earnings this week. And oh yeah, fellow Club holding Apple also reports this week . (Jim Cramer's Charitable Trust is long INTC, NVDA, AAPL, AMZN, META, MSFT. See here for a full list of the stocks.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/26/jim-cramer-heres-the-tech-stock-to-buy-in-a-market-losing-patience-with-tech.html",
+    publishedAt: "2026-07-26T23:39:46+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "would-you-choose-50-000-over-the-chance-6f1a0eec",
+    title: "Would you choose £50,000 over the chance of £1m?",
+    titleJa: "100万ポンドのチャンスより5万ポンドを選びますか?",
+    summaryJa: "100万ポンドのチャンスより5万ポンドを選びますか?- 公開されました",
+    bodyOriginal: `Would you choose £50,000 over the chance of £1m?
+- Published
+You have the choice of instantly receiving £50,000 or flipping a coin for a 50/50 chance of £1m.
+Which would you choose?
+The vast majority decide on taking the £50k, according to a survey of thousands of people by YouGov. Women voted 82% in favour of the guaranteed cash.
+The poll has sparked a debate about why Brits appear more risk-averse than people in the US.
+So why are the results so clear-cut, and what are the financial and psychological factors at play?
+Sadly, there is little chance of ever having such a choice, but there are some interesting lessons for how we manage our money nonetheless.
+Do you agree with the majority?
+Nearly three-quarters (73%) of the 4,600 adults asked in the survey said they would take the £50,000 now.
+Just over a fifth (21%) went for the chance of £1m and, 6% of those asked sat on the fence and simply couldn't decide.
+The gender split in the results is striking. Some 82% of women opted for the £50,000, compared with 63% of men.
+This chimes with other research which suggests that men are twice as likely to invest in stocks and shares than women, external, and women are more likely to subscribe to cash ISAs than men, external.
+Does the choice depend on how much you earn?
+Lots of people might opt for the £50,000 guarantee, deciding that it is a life-changing amount of money in itself.
+After all, it is £10,000 more than the median average earnings for full-time workers in the UK for an entire year, according to official statistics, external.
+But younger people generally earn less and yet, according to this survey, external, those aged 18 to 24 are more willing to take the bet on £1m than any other age group.
+Some 28% go for the coin flip, compared with just 11% among the over-65s - their grandparents' generation.
+There is a different tipping point for everyone. Repeat the survey but instead guarantee £5 or offer a 50/50 chance for a £100, and most people will probably go for the £100 bet. After all, lots of people bet at least £2 a week hoping for a National Lottery win.
+As those amounts rise, so your appetite for risk becomes clear.
+Why not just invest the £50k?
+One choice is to take the guaranteed £50,000 and hope it grows over time.
+Saving the money would be helped by the magic of compound interest.
+Alternatively, you could take more of a risk, but potentially with greater reward, by investing the money.
+What has happened in the past will not necessarily happen in the future when it comes to investments.
+But you'd have had to have invested your £50,000 in a typical global fund just under 38 years ago for it to be worth £1m today, according to Sarah Coles, of investment firm AJ Bell.
+Is it all in the mind?
+We are hardwired, says Coles, to go for the guaranteed £50,000.
+That's because we feel losses more acutely than gains, she says.
+"The thrill of potentially winning £1m is felt less strongly than the fear of giving up a guaranteed £50,000 and ending up with nothing," she says.
+In other words, having £50k and knowing you might have won £1m will play on your mind.
+But it is not as bad as having a crack at £1m and knowing you've given up enough for an average deposit to buy a home in the West Midlands, external.
+Related topics
+- Published2 days ago
+- Published7 days ago`,
+    bodyJa: `100万ポンドのチャンスより5万ポンドを選びますか?
+- 公開されました
+即座に 50,000 ポンドを受け取るか、コインを投げて 50/50 の確率で 100 万ポンドを獲得するかを選択できます。
+どちらを選びますか?
+YouGovが数千人を対象に行った調査によると、大多数が5万ポンドを受け取ることを決めている。女性は現金保証に82％が賛成票を投じた。
+この世論調査は、なぜ英国人が米国人よりもリスクを回避しているように見えるのかについての議論を引き起こした。
+では、なぜ結果がこれほど明確なのか、また経済的および心理的要因は何なのでしょうか?
+悲しいことに、そのような選択肢がある可能性はほとんどありませんが、それでもお金の管理方法について興味深い教訓がいくつかあります。
+あなたは多数派に同意しますか？
+調査で尋ねた成人4,600人のうちほぼ4分の3（73％）が、今すぐ5万ポンドを受け取ると答えた。
+5 分の 1 強 (21%) が 100 万ポンドのチャンスを狙っていましたが、質問された人のうち 6% は迷っていて決断できませんでした。
+結果における男女別の割合は顕著だ。女性の約82％が5万ポンドを選択したのに対し、男性では63％だった。
+これは、男性は女性（社外）よりも株や株式に投資する可能性が2倍高く、女性は男性（社外）よりも現金ISAに加入する可能性が高いことを示唆する他の研究と一致しています。
+選択は収入によって決まりますか?
+多くの人は、それ自体が人生を変える金額であると判断して、5万ポンドの保証を選択するかもしれません。
+結局のところ、外部の公式統計によると、これは英国のフルタイム労働者の年間平均収入の中央値よりも1万ポンド高いのです。
+しかし、一般に若者の収入は低いにもかかわらず、この調査によると、外部の18歳から24歳は他のどの年齢層よりも100万ポンドの賭けに積極的に参加しているという。
+約28％がコイントスに参加するのに対し、祖父母の世代である65歳以上の人ではわずか11％だ。
+人それぞれに異なる転換点があります。調査を繰り返しますが、その代わりに 5 ポンドを保証するか、100 ポンドで 50/50 のチャンスを提供すると、ほとんどの人はおそらく 100 ポンドに賭けるでしょう。結局のところ、多くの人が全国宝くじの当選を期待して、週に少なくとも 2 ポンドを賭けています。
+それらの額が増加するにつれて、リスクに対する欲求が明確になります。
+なぜ5万ポンドを投資しないのでしょうか？
+1 つの選択肢は、保証された 50,000 ポンドを受け取り、時間の経過とともに増加することを期待することです。
+お金を節約するには、複利の魔法が役立ちます。
+あるいは、お金を投資することで、より多くのリスクを負うこともできますが、より大きな見返りが得られる可能性があります。
+投資に関しては、過去に起こったことは将来も起こるとは限りません。
+しかし、投資会社AJベルのサラ・コールズ氏によると、現在100万ポンドの価値があるためには、38年弱前に典型的なグローバルファンドに5万ポンドを投資しなければならなかったという。
+それはすべて心の中にありますか？
+コールズ氏によれば、私たちは保証された5万ポンドを獲得するように組み込まれているという。
+それは、私たちが利益よりも損失をより強く感じるからだと彼女は言います。
+「100万ポンドを獲得できるかもしれないというスリルは、保証された5万ポンドを放棄して何も手につかなくなるのではないかという恐怖ほど強く感じられません」と彼女は言う。
+言い換えれば、5 万ポンドを持っていて、100 万ポンドを獲得できたかもしれないと知っていると、気になるでしょう。
+しかし、それは100万ポンドでクラックがあり、ウェストミッドランズ（外部）で家を買うのに十分な平均頭金をあきらめたと知っていることほど悪くはありません。
+関連トピック
+- 2 日前に公開
+- 7 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-26T23:11:36+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3199/live/4c39d8c0-8757-11f1-95ec-a30de4e448c4.jpg",
+    readTime: 4,
+  },
+  {
     id: "i-am-a-63-year-old-semiretired-physician-9344fe3d",
     title: "I am a 63-year-old semiretired physician. If I saved $2 million for retirement, should my Social Security become optional?",
     titleJa: "私は63歳のセミリタイアした医師です。退職後に備えて 200 万ドルを貯蓄した場合、社会保障は任意になるべきですか?",
@@ -1859,542 +2123,6 @@ DHL は、専用航空機と接続されたネットワークを備えた医薬�
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-18956822",
     readTime: 2,
-  },
-  {
-    id: "warning-shot-or-publicity-stunt-how-worr-b7e4d728",
-    title: "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-    titleJa: "警告射撃や宣伝行為 - OpenAI ハッキングについてどの程度心配すべきでしょうか?",
-    summaryJa: "警告射撃や宣伝行為 - OpenAI ハッキングについてどの程度心配すべきでしょうか?- 公開されました",
-    bodyOriginal: `Warning shot or publicity stunt - how worried should we be about the OpenAI hack?
-- Published
-This week the tech world was gripped by a story that has it all - and which started like a sci-fi thriller.
-Hugging Face - a kind of app store for artificial intelligence tools - announced on 16 July it had been hacked by a cyber criminal wielding enormously powerful AI.
-The bombshell announcement was full of scary, highly technical terms: "a swarm of sandboxes", "agentic attacker", and "self-migrating command and control".
-Hugging Face said the hack was different from anything it had handled before because it was done at superhuman speed by an AI with little or no human guidance.
-The AI performed 17,000 actions in less than two days, successfully breaching the large wealthy tech company to steal secrets.
-It left the tech world in shock. But who was responsible for this attack?
-Hugging Face researchers guessed the mysterious attackers had used one of the big AI models but they had no idea who or where the criminals were.
-The perplexed company contacted the police and investigations commenced.
-Who did it?
-Commentators and analysts took to their podcasts and social media accounts to guess which cyber crime group or nation state hacker might be behind it.
-Then on Wednesday, nearly a week after Hugging Face raised the alarm, the true culprit was unmasked.
-It was ChatGPT.
-The Scooby-Doo-style reveal was made even more bizarre - and worrying - because OpenAI said its bot did the whole thing on its own, without permission.
-The firm said it all went down during a test of its tech's hacking skills.
-Two new versions of ChatGPT, designed to be master hackers, broke out of a supposedly secure test environment and gained access to the internet.
-They then attacked Hugging Face to get access to the information to help them ace their exam.
-OpenAI issued a press release explaining what had happened and said it was "partnering with Hugging Face" to address the security incident and share lessons learned.
-Conspiracy drama
-Since then, there has been fierce debate about the incident.
-Was it truly a stark warning about the future of AI? Or was it a publicity stunt by OpenAI to show off how powerful their models are?
-It's the kind of scare marketing AI companies have been accused of for years and, since the much discussed launch of Anthropic's Mythos model, cyber-security prowess has been a focal point.
-One of the top comments on OpenAI boss Sam Altman's X post about the incident summarises this scepticism: "If y'all can't understand that this was written to purely brag about the model then I don't know what to tell you."
-Cyber-security consultant Daniel Card said sarcastically on LinkedIn: "Isn't it lucky [that] out of the millions of sites that got pwn3d [hacked], OpenAI managed to pwn someone who also could benefit from the marketing exposure…"
-For some, the story is more conspiracy drama than sci-fi thriller.
-The message is: "Aren't my AI tools really powerful? Buy them so you can protect yourself from other people's AI attacks."
-We can't know the truth, but the opposing point of view posed by other commentators is just as dramatic. Is this a sign that OpenAI made a potentially dangerous error in judgement and planning?
-An OpenAI spokesperson said "we recognise there are a lot of questions and speculative details circulating" about the incident. They added that "we plan to publish a technical report of our learnings in the coming weeks".
-Comedy of errors
-I've covered lots of AI stories, including the fears around Anthropic's Mythos model.
-My inbox is now chock full of cyber-security companies and experts criticising OpenAI for not building a stronger container to test its AI, known as a sandbox.
-After all, these AI agents had been trained specifically to hack into and out of places with no restrictions at all.
-"The OpenAI and Hugging Face incident is a real-world example of a broader issue we've been highlighting for months," said Dor Sarig from Pillar Security. "Sandboxes alone are not a sufficient security boundary for agentic AI."
-Firm hacked by rogue OpenAI models says it is 'a wake-up call'
-- Published3 days ago
-Cyber security Professor Alan Woodward from Surrey University told reporters OpenAI had "egg on it's face", and Katie Moussouris from Luta Security went further, suggesting the AI industry is failing to control its dangerous inventions.
-"We are working on cutting edge technology without the knowledge to contain it," she said.
-"Just because we have the smartest people developing AI does not mean we have the ability to do so safely."
-According to these views, if the hacking incident was a publicity stunt then it appears as though it backfired.
-Whatever led to the hack, it's clear this is a major moment for the AI industry and the cyber security world, which collided this year in ways people had been fearing for a long time.
-Addressing this fierce debate, AI and cyber security advisor Francesca Bosco said: "Two simplistic narratives are equally unhelpful: that this was a Hollywood-style escape, or that it was merely a publicity exercise.
-"A more serious interpretation is that a stress test exposed weaknesses in containment and evaluation architecture."
-Disaster movie
-This event is the latest in a string of worrying and weird examples of AI agents going rogue.
-In recent research, the UK's AI Security Institute (AISI) found frontier AI models are so fixated on completing tasks they "cheated" in tests to achieve their goals.
-The research from AISI came with this worrying warning: "A model that pursues a goal through unintended or unauthorised means may cause harm, particularly in high-stakes use cases."
-Inevitably, this OpenAI hack has further fuelled fears of what could happen if AI agents are let loose. Could they go rogue on a larger scale and cause some sort of disaster?
-This is particularly concerning with AI being used increasingly in warfare as seen in Iran and Ukraine.
-Ciaran Martin, former head of the UK's National Cyber Security Centre, offered a calmer view.
-"It is a bit of a leap to go from this incident to saying that AI agents are going to take over drones and start killing people," he said.
-But for Martin, and many others, the story is undoubtedly another vivid example of something that 2026 is teaching us fast: AI agents are now very good hackers - and that is something we have to prepare for, urgently.
-OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack
-- Published4 days ago
-ChatGPT medical advice brought man 'to brink of death', lawsuit alleges
-- Published2 days ago
-Lawmakers push for AI 'kill switch' after OpenAI models go rogue
-- Published2 days ago
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `警告射撃や宣伝行為 - OpenAI ハッキングについてどの程度心配すべきでしょうか?
-- 公開されました
-今週、テクノロジーの世界は、SF スリラーのように始まった、すべてを網羅した物語に魅了されました。
-人工知能ツールのアプリストアの一種であるハギングフェイスは、7月16日に非常に強力なAIを操るサイバー犯罪者によってハッキングされたと発表した。
-この爆弾発表には、「サンドボックスの群れ」、「エージェント攻撃者」、「自己移行型指揮統制」など、恐ろしく高度に専門的な用語が満載でした。
-ハグ・フェイス氏は、このハッキングは人間の指導がほとんど、またはまったくなくAIによって超人的なスピードで行われたため、これまで同社が対応したハッキン​​グとは異なっていたと述べた。
-AI は 2 日以内に 17,000 件のアクションを実行し、裕福な大手テクノロジー企業に侵入して機密を盗むことに成功しました。
-それはテクノロジー業界に衝撃を与えました。しかし、この攻撃の責任者は誰でしょうか?
-ハグフェイスの研究者らは、謎の攻撃者が大型 AI モデルの 1 つを使用したのではないかと推測しましたが、犯人が誰なのか、どこにいるのかはわかりませんでした。
-困惑した同社は警察に通報し、捜査が始まった。
-誰がやったの？
-コメンテーターやアナリストはポッドキャストやソーシャルメディアのアカウントを利用して、どのサイバー犯罪グループや国家ハッカーが背後にいるのかを推測しました。
-そしてハグ・フェイスが警鐘を鳴らしてからほぼ1週間後の水曜日、真犯人の正体が暴かれた。
-ChatGPTでした。
-OpenAIが自社のボットが許可なく勝手にすべてを行ったと発表したため、スクービードゥー風の暴露はさらに奇妙で憂慮すべきこととなった。
-同社は、自社技術のハッキングスキルのテスト中にすべてがダウンしたと述べた。
-マスターハッカー向けに設計された ChatGPT の 2 つの新しいバージョンが、安全であるはずのテスト環境を突破し、インターネットへのアクセスを獲得しました。
-その後、彼らはハギングフェイスを攻撃して、試験に合格するための情報にアクセスしようとしました。
-OpenAIは、何が起こったのかを説明するプレスリリースを発行し、セキュリティインシデントに対処し、得られた教訓を共有するために「Hugging Faceと提携」すると述べた。
-陰謀劇
-それ以来、この事件については激しい議論が巻き起こった。
-それは本当に AI の将来に対する厳しい警告だったのでしょうか?それとも、OpenAI のモデルがいかに強力かを誇示するための宣伝行為だったのでしょうか?
-これはAI企業が何年も告発されてきた一種の恐怖マーケティングであり、Anthropic社のMythosモデルの立ち上げが大いに議論されて以来、サイバーセキュリティの能力が焦点となっている。
-この事件に関する OpenAI の責任者である Sam Altman の X 投稿に対するトップのコメントの 1 つは、この懐疑論を要約しています。「これが純粋にモデルを自慢するために書かれたものであることが理解できないのなら、私には何を言えばいいのかわかりません。」
-サイバーセキュリティコンサルタントのダニエル・カード氏はLinkedInで皮肉を込めてこう述べた。「pwn3d[ハッキング]された何百万ものサイトの中から、OpenAIがマーケティング露出から利益を得ることができるサイトをなんとかpwnできたのは幸運ではないでしょうか…」
-一部の人にとって、この物語は SF スリラーというよりも陰謀劇です。
-メッセージは「私の AI ツールは本当に強力ではないですか? 他の人の AI 攻撃から身を守るために購入してください。」です。
-私たちは真実を知ることはできませんが、他のコメンテーターが提起した反対の視点も同様に劇的です。これは、OpenAI が判断と計画において潜在的に危険な誤りを犯したことを示しているのでしょうか?
-OpenAIの広報担当者は、この事件について「多くの疑問や憶測の詳細が出回っていることを認識している」と述べた。彼らは、「今後数週間以内に、我々の学んだことをまとめた技術レポートを発行する予定だ」と付け加えた。
-間違いのコメディー
-私は、Anthropic の Mythos モデルにまつわる恐怖など、AI に関する多くの話を取り上げてきました。
-現在、私の受信トレイには、サンドボックスとして知られる AI をテストするためのより強力なコンテナを構築していない OpenAI を批判するサイバーセキュリティ企業や専門家がぎっしりと詰まっています。
-結局のところ、これらの AI エージェントは、まったく制限のない場所に出入りするように特別に訓練されていたのです。
-「OpenAI と Hugging Face の事件は、私たちが何か月も焦点を当ててきたより広範な問題の実例です」と Pillar Security の Dor Sarig 氏は述べています。 「サンドボックスだけでは、エージェント AI にとって十分なセキュリティ境界ではありません。」
-不正なOpenAIモデルによってハッキングされた企業、これは「警鐘」だと語る
-- 3 日前に公開
-サリー大学のサイバーセキュリティ教授アラン・ウッドワード氏は記者団に対し、OpenAIは「卵を産んだ」と述べ、ルタ・セキュリティーのケイティ・ムスーリス氏はさらに踏み込んで、AI業界がその危険な発明を制御できていないことを示唆した。
-「私たちは、それを封じ込める知識がないまま、最先端のテクノロジーに取り組んでいます」と彼女は言う。
-「AIを開発する最も賢い人材がいるからといって、AIを安全に開発できるというわけではありません。」
-これらの見解によれば、ハッキング事件が宣伝行為だったとすれば、それが裏目に出たように見える。
-ハッキングのきっかけが何であれ、人々が長い間恐れてきた形で今年衝突したAI業界とサイバーセキュリティの世界にとって、これが重大な瞬間であることは明らかだ。
-この激しい議論に対処して、AIおよびサイバーセキュリティアドバイザーのフランチェスカ・ボスコ氏は、「これがハリウッド流の逃亡だったという、あるいは単なる宣伝活動だったという、2つの単純な物語は同様に役に立たない」と語った。
-「より深刻な解釈は、ストレステストによって封じ込めと評価のアーキテクチャの弱点が露呈したということだ。」
-災害映画
-この出来事は、AIエージェントが凶暴化する一連の憂慮すべき奇妙な例の最新のものである。
-英国の AI セキュリティ研究所 (AISI) は、最近の研究で、フロンティア AI モデルが、目標を達成するためにテストで「不正行為」をしたタスクを完了することに執着していることを発見しました。
-AISI の調査には、「意図しない、または不正な手段で目標を追求するモデルは、特に一か八かのユースケースで害を及ぼす可能性がある」という憂慮すべき警告が伴いました。
-必然的に、この OpenAI ハッキングは、AI エージェントが解放された場合に何が起こるかという不安をさらに煽りました。彼らはより大規模に暴動を起こし、何らかの災害を引き起こす可能性があるでしょうか?
-これは、イランやウクライナで見られるように、AI が戦争でますます使用されることを特に懸念しています。
-英国国家サイバーセキュリティセンターの元所長キアラン・マーティン氏は、より冷静な見解を示した。
-「今回の事件から、AIエージェントがドローンを乗っ取って人々を殺し始めると言うのは、少々飛躍がある」と同氏は述べた。
-しかし、マーティンや他の多くの人にとって、この物語は間違いなく、2026 年が私たちに急速に教えてくれることのもう一つの鮮やかな例です。AI エージェントは今や非常に優れたハッカーです - そしてそれは私たちが緊急に準備しなければならないことです。
-OpenAI、自社のAIが不正行為を行い「前例のない」サイバー攻撃を開始したと発表
-- 4 日前に公開
-ChatGPTの医療アドバイスが男性を「死の瀬戸際」に追い込んだと訴訟で主張
-- 2 日前に公開
-OpenAIモデルの不正を受けて議員らはAIの「キルスイッチ」を推進
-- 2 日前に公開
-Tech Decoded ニュースレターに登録して、世界のトップテクノロジーのストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-25T10:14:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
-    readTime: 9,
-  },
-  {
-    id: "nvidia-locks-down-memory-supply-from-sk-8aa316ee",
-    title: "Nvidia locks down memory supply from SK Hynix as part of $500 billion AI deal",
-    titleJa: "Nvidia、5,000億ドルのAI取引の一環としてSK Hynixからのメモリ供給を制限",
-    summaryJa: "Nvidiaは、韓国のSK Hynixが自社の先進的なプロセッサとシステムの主要コンポーネントを確保しようとしているため、同社からAIメモリの供給を確保したと述べた。Nvidiaによると、金曜遅くにサンフランシスコで発表されたこの協定は、数年間で5,000億ドル相当になる可能性があり、2027年に稼働予定の大規模データセンターの建設も含まれているという。",
-    bodyOriginal: `Nvidia said it's secured AI memory supply from South Korea's SK Hynix, as the chipmaker tries to lock in a key component for its advanced processors and systems.
-The agreement, announced late Friday in San Francisco, could be worth $500 billion over a number of years, and includes the construction of large-scale data centers expected to come online in 2027, Nvidia said.
-SK Hynix affiliate SK Telecom will build a cloud business using Nvidia's Vera Rubin systems. Nvidia said it's targeting enough capacity to require 2 gigawatts of power, which indicates a massive buildout with hundreds of thousands of graphics processing units.
-In a separate deal, South Korean giant Samsung Electronics said it signed a memorandum of understanding with chip designer Broadcom to expand their collaboration across memory and foundry technologies. The deal, worth an estimated $200 billion, would help support the next generation of AI infrastructure, Samsung said in a statement.
-Nvidia is aggressively securing supply of high-bandwidth memory, which is essential for its GPUs and systems, as the AI boom has created a global memory shortage. SK Hynix is the leader in HBM production, according to analysts.
-"The expansion will include a co-develop opportunity for us on the next-generation SK Hynix AI memory, and this will help us secure a stable supply of HBM memory," Raj Mirpuri, Nvidia enterprise vice president, said on a call with reporters.
-The agreement is also a sign that massive AI infrastructure buildouts are moving beyond a handful of hyperscalers, with foreign governments and massive conglomerates starting to get involved.
-The deal was announced at an AI summit in San Francisco with South Korean officials including President Lee Jae Myung.
-Nvidia also said Friday that it would invest $1 billion into Naver, a Korean cloud company building data centers around its GPUs. Nvidia said the project would provide an opportunity for potential customers in South Korea and around the world to secure AI computing capacity before the 200 megawatts of capacity is completed.
-SK Hynix, South Korea's second most valuable company, listed on the Nasdaq earlier this month as part of an effort to finance infrastructure developments.
-– CNBC's Azhar Sukri contributed to this story.`,
-    bodyJa: `Nvidiaは、韓国のSK Hynixが自社の先進的なプロセッサとシステムの主要コンポーネントを確保しようとしているため、同社からAIメモリの供給を確保したと述べた。
-Nvidiaによると、金曜遅くにサンフランシスコで発表されたこの協定は、数年間で5,000億ドル相当になる可能性があり、2027年に稼働予定の大規模データセンターの建設も含まれているという。
-SKハイニックス傘下のSKテレコムは、NvidiaのVera Rubinシステムを活用したクラウドビジネスを構築する。 Nvidiaは、2ギガワットの電力を必要とするのに十分な容量を目標にしていると述べ、これは数十万のグラフィックス処理ユニットによる大規模な増強を示していると述べた。
-これとは別の契約で、韓国の大手サムスン電子は、チップ設計会社ブロードコムとメモリおよびファウンドリ技術全体での協力を拡大する覚書を結んだと発表した。サムスンは声明で、この契約は推定2000億ドル相当で、次世代のAIインフラのサポートに役立つと述べた。
-AI ブームにより世界的なメモリ不足が生じているため、NVIDIA は自社の GPU やシステムに不可欠な高帯域幅メモリの供給を積極的に確保しています。アナリストによると、SK HynixはHBM生産のリーダーだという。
-Nvidia エンタープライズ副社長の Raj Mirpuri 氏は記者団との電話会談で、「この拡張には、次世代 SK Hynix AI メモリの共同開発の機会が含まれており、これにより HBM メモリの安定供給を確保することができます」と述べました。
-この合意は、外国政府や巨大複合企業が関与し始めており、大規模なAIインフラの構築が少数のハイパースケーラーを超えて進んでいることの表れでもある。
-この契約は、イ・ジェミョン大統領を含む韓国当局者らとサンフランシスコで開催されたAIサミットで発表された。
-Nvidiaは金曜日、GPUを中心にデータセンターを構築する韓国のクラウド企業Naverに10億ドルを投資するとも発表した。 Nvidiaは、このプロジェクトは、韓国および世界中の潜在的な顧客に、200メガワットの容量が完了する前にAIコンピューティング容量を確保する機会を提供すると述べた。
-韓国で2番目に時価総額の高い企業であるSKハイニックスは、インフラ開発への資金提供の一環として今月初めにナスダックに上場した。
-– CNBC の Azhar Sukri がこの記事に寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/nvidia-locks-down-memory-from-sk-hynix-as-part-of-500-billion-ai-deal.html",
-    publishedAt: "2026-07-25T08:49:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "iran-backed-houthis-claim-missile-attack-743eae29",
-    title: "Iran-backed Houthis claim missile attack on Saudi Arabia",
-    titleJa: "イラン支援のフーシ派がサウジアラビアへのミサイル攻撃を主張",
-    summaryJa: "イラン支援のフーシ派がサウジアラビアへのミサイル攻撃を主張- 公開されました",
-    bodyOriginal: `Iran-backed Houthis claim missile attack on Saudi Arabia
-- Published
-The Iranian-backed Houthis have claimed a missile attack on Saudi Arabia, after Riyadh launched strikes on targets linked to the group on Friday.
-Early on Saturday, the Houthis' Ansarollah media said on Telegram that a "Yemeni missile strike" had caused fires in the Saudi city of Jizan. Saudi authorities had issued emergency alerts for the province.
-The group had vowed retaliation after Saudi Arabia launched air strikes on Houthi targets in the Yemeni port city of Hodeida and a nearby island on Friday.
-It came as there were no overnight reports of air strikes in the wider region by the US or Iran for the first time in two weeks.
-The US military did not announce fresh strikes on Iran on Saturday, having carried out 13 consecutive nights of attacks on the country. During this time, Iran has also launched drone strikes on US military facilities and bases across the Middle East.
-Earlier, a delegation from Oman arrived in Iran's capital Tehran for talks on the Strait of Hormuz, Iran's state-run IRNA news agency reported. Oman controls the strait's southern coastline.
-Speaking to reporters at the White House on Friday afternoon, Trump continued to threaten further attacks while saying that negotiations were continuing.
-"We are talking to them. I think they're being serious. I think ... they are being by far the most serious that we've seen them, but that doesn't mean we get there," he said.
-Asked about his exit strategy for the Iran war, Trump said: "There's a military exit where we just keep going just the way we are, and we can even make it a heavier dose, and it's knocking out everything they have. Or there's a smarter strategy that you make a deal."
-But he added: "We're locked and loaded. We're ready to go."
-In the Strait of Hormuz on Friday, the US military said it had fired on and disabled a tanker ship in the Gulf of Oman that was attempting to evade the American blockade on Iranian ports.
-The vessel attacked by the US is the second commercial ship the US has disabled since it reimposed its blockade earlier this month.
-"We disabled the tanker after the crew attempted to run the blockade at least four times prior," Navy Captain Tim Hawkins, spokesman for US Central Command, told AFP.
-"The crew was repeatedly warned, didn't comply, and US forces on scene disabled the ship after firing into its engine room," he said. "The ship is no longer transiting to Iran."
-Growing concern over new threats to shipping in the Red Sea from Yemen's Houthis helped push the price of crude oil back over $100 (£74.96) a barrel this week - the highest level since May.
-But it dropped again on Friday afternoon, with Brent futures down more than US$4 (£3.00) to a little over $96 (£72.07), according to the Reuters news agency, which reported the fall occurred after the successful passage through the Bab el-Mandeb Strait by two Chinese-chartered supertankers.
-Following the exchange of fire early on Saturday, the Houthis' Ansarollah media posted on Telegram, "The Saudi enemy's targeting of civilian facilities in Hodeida and Kamaran island constitutes a dangerous escalation," adding: "We affirm that these recent crimes will not go unanswered."
-Saudi authorities did not immediately respond.
-The US and UK are set to hold a conference in London next week to discuss the Strait of Hormuz, the BBC understands. US Defence Secretary Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine will attend the conference, which was first reported by Axios.
-It comes as Israeli Prime Minister Benjamin Netanyahu is scheduled to meet the US president at the White House on Tuesday.
-In June, the US and Iran agreed on a 14-point Memorandum of Understanding (MOU) to halt military operations and reopen the Strait of Hormuz, as well as to reach an agreement to end the war over the following 60 days.
-But three weeks after it was signed, Trump declared the ceasefire "over" after Iranian attacks on ships in the strait, and US strikes in response.`,
-    bodyJa: `イラン支援のフーシ派がサウジアラビアへのミサイル攻撃を主張
-- 公開されました
-イランが支援するフーシ派は、金曜にリヤドが同組織に関連する標的への攻撃を開始したことを受け、サウジアラビアに対するミサイル攻撃を主張した。
-土曜日早朝、フーシ派のアンサローラ・メディアはテレグラムで、「イエメンのミサイル攻撃」によりサウジアラビアのジザン市で火災が発生したと報じた。サウジ当局は同州に緊急警報を発令していた。
-同グループは、金曜日にサウジアラビアがイエメンの港湾都市ホデイダと近隣の島にあるフーシ派の標的への空爆を開始したことを受け、報復を誓っていた。
-米国やイランによる広範囲での空爆について、２週間ぶりに夜間の報道がなかったことを受けてのことだった。
-米軍は土曜日、イランへの新たな攻撃を発表せず、同国に対して13夜連続攻撃を行った。この間、イランは中東各地の米軍施設や基地への無人機攻撃も開始した。
-これに先立ち、オマーンからの代表団がホルムズ海峡に関する協議のためイランの首都テヘランに到着したとイラン国営IRNA通信が報じた。オマーンはこの海峡の南海岸線を支配している。
-金曜日午後、トランプ大統領はホワイトハウスで記者団に対し、交渉は続いているとしながらもさらなる攻撃を示唆し続けた。
-「私たちは彼らと話をしている。彼らは真剣だと思う。私が思うに…彼らは私たちが見た中で最も真剣だ。しかし、だからといって私たちがそこに到達するわけではない」と彼は語った。
-トランプ大統領は、イラン戦争の出口戦略について問われ、「軍事的出口はあり、我々は今まで通りのやり方を続けるだけで、より強力な線量を与えることもでき、それによって彼らが持っているすべてを打ち砕くことができる。あるいは、合意を結ぶというより賢明な戦略がある」と語った。
-しかし彼は、「私たちはロックされて荷物も積まれている。出発する準備はできている」とも付け加えた。
-米軍は金曜日、ホルムズ海峡で、オマーン湾でアメリカによるイラン港湾封鎖を回避しようとしていたタンカー船を砲撃し、機能不全に陥れたと発表した。
-米国によって攻撃された船舶は、米国が今月初めに海上封鎖を再開して以来、航行不能にした商船の2隻目である。
-米中央軍報道官ティム・ホーキンス海軍大佐はAFPに対し、「乗組員が少なくとも4回前に封鎖を試みたため、タンカーを無力化した」と語った。
-同氏は、「乗組員は繰り返し警告を受けたが従わなかったため、現場の米軍が機関室に発砲した後、船を無力化した」と述べた。 「この船はもうイランに向けて航行していません。」
-イエメンのフーシ派による紅海の海運への新たな脅威に対する懸念の高まりにより、今週原油価格は1バレル当たり100ドル（74.96ポンド）を超え、5月以来の高水準となった。
-しかし、ロイター通信によると、金曜午後には再び下落し、ブレント先物は4米ドル（3.00ポンド）超下落し、96ドル（72.07ポンド）強となった。下落は、中国がチャーターした超大型タンカー2隻によるバブ・エル・マンデブ海峡の通過成功後に起きたと報じた。
-土曜日早朝の銃撃戦を受けて、フーシ派のアンサローラ・メディアはテレグラムに「ホデイダとカマラン島の民間施設に対するサウジの敵の標的は危険なエスカレーションを構成する」と投稿し、「我々はこれらの最近の犯罪が放置されないことを断言する」と付け加えた。
-サウジ当局はすぐには反応しなかった。
-BBCによると、米国と英国はホルムズ海峡について話し合うため、来週ロンドンで会議を開催する予定だという。アクシオスが最初に報じたこの会議には、ピート・ヘグセス米国防長官とダン・ケイン統合参謀本部議長が出席する予定だ。
-イスラエルのベンヤミン・ネタニヤフ首相が火曜日にホワイトハウスで米国大統領と会談する予定であることから発表された。
-米国とイランは6月、軍事作戦を停止しホルムズ海峡を再開するための14項目の覚書（MOU）に合意し、さらにその後60日間で戦争を終結させる合意に達した。
-しかし署名から3週間後、イランによる海峡の船舶への攻撃と米国の報復攻撃を受けて、トランプ大統領は停戦が「終了した」と宣言した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-25T06:34:40+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg",
-    readTime: 4,
-  },
-  {
-    id: "finland-s-radical-answer-to-renewable-en-bc55d1bd",
-    title: "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-    titleJa: "再生可能エネルギーの最大の悩みに対するフィンランドの抜本的な答え：世界最大の砂電池",
-    summaryJa: "フィンランド南部の小さな町は、再生可能エネルギーが直面している最も重大な問題である断続性を解決するために、世界最大の商業用砂電池に注目しました。高さ 13 メートル、幅 15 メートルのこの目を引く施設は、2,000 トンの砕いた石鹸石を使用してクリーン エネルギーを熱の形で蓄え、100 メガワット時の熱エネルギーを供給します。",
-    bodyOriginal: `A small town in southern Finland has turned to the world's largest commercial sand battery to fix what many see as the most critical problem facing renewable energy: intermittency.
-Standing at 13 meters tall and 15 meters wide, the eye-catching facility uses 2,000 metric tons of crushed soapstone to store clean energy in the form of heat to provide 100 megawatt-hours of thermal energy.
-That's enough to provide the 5,000 residents of Pornainen with nearly one month of heat demand through the summer — and roughly one week of demand in the winter.
-Commissioned by Finnish district heating company Loviisan Lämpö and developed by Polar Night Energy, the giant sand battery launched last year as part of a push to introduce a flexible heat production technology and reduce carbon emissions generated by the local district heating network.
-Polar Night Energy said the project is estimated to have slashed greenhouse gas emissions from the heating network by almost 70% and reduced the use of wood chips by about 60%. An existing wood-chip power plant remains in operation as a backup and peak-load facility.
-Tommi Eronen, CEO of Polar Night Energy, said Pornainen had previously relied on burning oil and wood chips for its heating needs — but the town's sand battery was now able to provide combustion-free heating for the majority of the year.
-"We're changing from a world where big power plants were doing the energy production to where solar and wind are producing the energy, then we need a massive amount of storage," Eronen told CNBC on a video call.
-"Hopefully a big portion of those storages could be sand battery-type of storages where we don't need rare earth materials, like in many chemical batteries, such as lithium-ion batteries."
-The Pornainen project is about 10 times larger than an earlier version launched in the country in 2022, reinforcing the potential for sand batteries to play a more prominent role in cutting emissions both domestically and abroad.
-Battery storage is widely expected to play a pivotal role in the energy transition — and sand batteries in particular have shown promise for regional heat storage, but scaling up this technology faces significant hurdles. Some notable criticisms include their ability to efficiently convert heat back to electricity and their relatively low energy density compared to traditional batteries.
-How does it work?
-Essentially, the sand battery technology operates as something akin to a giant thermos with heat-storing material.
-The first step is to get electricity off the grid when there is plenty of wind or solar power, before then heating up the sand to very high temperatures. The heavily insulated silo keeps that heat trapped for days or weeks before being discharged via heat exchangers to warm water for the local district heating network.
-"Three steps — and the key to the whole thing is the sand enables you to have a delay between the time you use electricity, and you use the steam," Polar Night Energy's Chief Commercial Officer Annette Höglund-Dönnes told CNBC by video call.
-"That delay is your business advantage because you can heat up the sand when the electricity is cheap, and you use the steam when normally it would be very expensive to produce steam off the grid, which is the daytime when everybody else is using it," she added.
-Höglund-Dönnes compared the process to charging a cell phone overnight given that this can be less expensive than during the day.
-Asked whether the project could be replicated internationally, Höglund-Dönnes said Polar Night Energy had been contacted by teams from "every single continent," particularly by communities dependent on fossil fuels, such as coal and oil.
-Climate scientists have repeatedly warned that a substantial reduction in fossil fuel use will be necessary to curb global heating, with the burning of coal, oil, and gas identified as the chief driver of the climate crisis.
-Renewable intermittency
-Jan Rosenow, professor of energy and climate policy at the U.K.'s University of Oxford, agreed that electrothermal storage technologies, such as sand batteries, were likely to be replicated across the globe.
-"You don't need rare earths, critical raw materials and the beauty is you can also charge up the battery when the electricity is cheap and discharge whenever you need the heat," Rosenow told CNBC.
-"And you can store it for long periods, not just two hours or four hours like lithium-ion batteries, but potentially for days and maybe even weeks."
-Read more
-Critics of renewable energy, for example, often point out that technologies such as solar and wind only produce energy when the wind is blowing or the sun is shining.
-Energy storage systems such as batteries play a pivotal role in smoothing renewable intermittency by absorbing excess solar and wind generation and dispatching it when production dips.
-Mikko Paajanen, CEO of Loviisan Lämpö, said the sand battery helps to clear this energy transition hurdle.
-"The main thing is that we can separate the electricity procurement from the district heating production because now we are able to deliver this heating during the wintertime for one week, with one charge of the battery, and during the summertime, it even lasts as long as one month," Paajanen told CNBC by video call.
-"So, we can utilize the low spot prices very well."
-Loviisan Lämpö's' CEO said the company was aiming to produce between 55% to 60% of the municipality's district heating production from the sand battery through the first few months of this year, up from roughly 30% in 2025.
-Finland's Climate Minister Sari Multala described the sand battery project in Pornainen as a "very inspiring" and innovative example of how to solve the challenge of energy storage.
-"I understood when I also visited the plant when it was opened that they are now also developing solutions for maybe using electricity as well in the future, which would be, of course, groundbreaking — and this would be something that a lot of people would see value in," Multala told CNBC.`,
-    bodyJa: `フィンランド南部の小さな町は、再生可能エネルギーが直面している最も重大な問題である断続性を解決するために、世界最大の商業用砂電池に注目しました。
-高さ 13 メートル、幅 15 メートルのこの目を引く施設は、2,000 トンの砕いた石鹸石を使用してクリーン エネルギーを熱の形で蓄え、100 メガワット時の熱エネルギーを供給します。
-これは、ポルナイネンの住民 5,000 人に、夏の間はほぼ 1 か月分の熱需要、冬にはおよそ 1 週間分の熱需要を提供するのに十分です。
-フィンランドの地域暖房会社Loviisan Lämpöの委託を受け、Polar Night Energyが開発したこの巨大な砂電池は、柔軟な熱生産技術の導入と地域の地域暖房ネットワークによって発生する炭素排出量の削減の一環として昨年打ち上げられました。
-ポーラー・ナイト・エナジーは、このプロジェクトにより、暖房ネットワークからの温室効果ガス排出量がほぼ70％削減され、木材チップの使用が約60％削減されたと推定されると述べた。既存の木質チップ発電所は、バックアップおよびピーク負荷施設として引き続き稼働しています。
-ポーラー・ナイト・エナジー社の最高経営責任者（CEO）、トミ・エロネン氏は、ポルナイネンではこれまで暖房の必要性を燃焼する石油と木材チップに頼っていたが、町の砂電池は現在、一年の大半を燃焼のない暖房を提供できるようになったと語った。
-エロネン氏はビデオ通話でCNBCに対し、「大規模な発電所がエネルギー生産を行っていた世界から、太陽光と風力がエネルギーを生産する世界に変わりつつある。そのためには大量の貯蔵が必要になる」と語った。
-「それらの貯蔵庫の大部分が、リチウムイオン電池などの多くの化学電池と同様に、レアアース材料を必要としない砂電池型の貯蔵庫になることを願っています。」
-ポルナイネンプロジェクトは、2022年に国内で開始された以前のバージョンの約10倍の規模であり、砂電池が国内外の排出削減においてより顕著な役割を果たす可能性を強化している。
-蓄電池はエネルギー転換において極めて重要な役割を果たすことが広く期待されており、特に砂電池は地域の熱貯蔵に有望であることが示されていますが、この技術の規模を拡大するには大きなハードルに直面しています。注目すべき批判としては、熱を効率的に電気に戻す能力や、従来の電池に比べてエネルギー密度が比較的低いことが挙げられます。
-どのように機能するのでしょうか?
-基本的に、砂電池技術は、蓄熱材料を備えた巨大な魔法瓶に似たものとして機能します。
-最初のステップは、風力や太陽光発電が十分にあるときに送電網から電気を取り出してから、砂を非常に高温に加熱することです。厳重に断熱されたサイロは、その熱を数日から数週間閉じ込めたままにしてから、熱交換器を介して地域の地域暖房ネットワークの温水に放出します。
-「3つのステップ、そしてすべての鍵となるのは、砂を使用することで、電気を使用する時間と蒸気を使用する時間の間に遅延を持たせることができるということです」とポーラー・ナイト・エナジーの最高商務責任者、アネット・ホグルンド・ドンネス氏はビデオ通話でCNBCに語った。
-「電力が安いときに砂を加熱することができ、通常なら電力網から蒸気を生成するのに非常にコストがかかる時間帯、つまり他の人が蒸気を使用している昼間に蒸気を使用できるため、この遅延はビジネス上の利点になります。」と彼女は付け加えた。
-ヘグルンド＝デーネス氏は、日中よりもコストがかからないことを考慮して、夜間に携帯電話を充電するプロセスを比較しました。
-このプロジェクトを国際的に再現できるかどうかとの質問に対し、ホグルンド＝デーネス氏は、ポーラー・ナイト・エナジーには「あらゆる大陸」のチーム、特に石炭や石油などの化石燃料に依存する地域社会から連絡があったと述べた。
-気候科学者らは、石炭、石油、ガスの燃焼が気候危機の主な原因であると特定されており、地球温暖化を抑制するには化石燃料の使用量を大幅に削減する必要があると繰り返し警告してきた。
-再生可能断続性
-英国オックスフォード大学のエネルギー・気候政策教授、ジャン・ローズナウ氏は、砂電池などの電熱貯蔵技術が世界中で再現される可能性が高いことに同意した。
-ローズナウ氏はCNBCに対し、「レアアースや重要な原材料は必要ないし、電気代が安いときにバッテリーを充電し、熱が必要なときにいつでも放電できるのが利点だ」と語った。
-「また、リチウムイオン電池のように 2 時間や 4 時間だけでなく、場合によっては数日、場合によっては数週間という長期間保存することができます。」
-続きを読む
-たとえば、再生可能エネルギーの批判者は、太陽光や風力などの技術は、風が吹いているとき、または太陽が輝いているときにのみエネルギーを生成するとよく指摘します。
-バッテリーなどのエネルギー貯蔵システムは、過剰な太陽光発電や風力発電を吸収し、生産が低下したときにそれを供給することで、再生可能エネルギーの断続を平滑化する上で極めて重要な役割を果たします。
-Loviisan Lämpö の CEO、Mikko Paajanen 氏は、砂電池がこのエネルギー移行のハードルをクリアするのに役立つと述べました。
-「重要なことは、電力調達と地域暖房の生産を分離できるということです。なぜなら、冬季にはバッテリーを1回充電するだけで暖房を1週間提供できるようになり、夏場には1か月も持続するからです」とパーヤネン氏はビデオ通話でCNBCに語った。
-「そのため、安いスポット価格をうまく活用できます。」
-Loviisan Lämpö'sの最高経営責任者（CEO）は、同社は今年の最初の数か月間、自治体の地域暖房生産量の55％から60％を砂電池から生産することを目指しており、これは2025年の約30％から増加すると述べた。
-フィンランドのサリ・ムルタラ気候大臣は、ポルナイネンでの砂電池プロジェクトを、エネルギー貯蔵の課題を解決する方法の「非常に刺激的で革新的な例」であると述べた。
-ムルタラ氏はCNBCに対し、「私も工場が開設されたときに訪問したとき、彼らは現在、おそらく将来的に電気を使用するためのソリューションも開発していることを理解しました。これはもちろん画期的なことです。そして、これは多くの人が価値を感じるものになるでしょう」と語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-    publishedAt: "2026-07-25T05:29:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "more-than-220-000-evacuated-in-france-an-63af59a2",
-    title: "More than 220,000 evacuated in France and Spain due to wildfires",
-    titleJa: "フランスとスペインで山火事のため22万人以上が避難",
-    summaryJa: "フランスとスペインで山火事のため22万人以上が避難- 公開されました",
-    bodyOriginal: `More than 220,000 evacuated in France and Spain due to wildfires
-- Published
-French authorities have ordered the evacuation of almost 60,000 people near Bordeaux, taking the total number of people told to flee wildfires in France and Spain to more than 220,000.
-Around 200,000 people have been evacuated in south-west France in the Gironde and Landes regions. French President Emmanuel Macron has mobilised the military to assist the response.
-Meanwhile, a fire near Madrid is "beyond the capacity" of firefighters to contain, Spanish officials have warned, after three fires west of the capital merged into a single blaze.
-Spain's government has declared a national emergency, with 25,000 people told to evacuate and almost 40,000 told to stay indoors.
-Madrid's regional president Isabel Díaz Ayuso described it as the "worst fire in the history of the region", with the area facing a "perfect storm" of high temperatures, relentless wind and merging fire fronts.
-In Spain, local emergency services said wildfires were moving towards the municipalities of Robledo de Chavela and Fresnedillas de la Olivia, around 50km (31 miles) from the capital.
-"The wildfire is at its peak and is currently beyond the capacity of firefighters to contain," Carlos Novillo, the Madrid regional government's emergency management chief, told reporters.
-"It's not possible to attack the fire in that area, so defensive measures are being taken," he added.
-The Military Emergency Unit (UME) has been deployed to try to halt the advance of the flames, with its main focus protecting areas near the town of El Escorial.
-Authorities are also monitoring a separate wildfire in nearby Ávila province, where officials fear the huge Burgohondo blaze could merge with the Madrid fire.
-Spain's Interior Minister Fernando Grande-Marlaska said authorities were doing "everything we can" to prevent the two merging.
-Francisco Martín, the government delegate in Madrid, warned those numbers could rise as "embers are flying for miles and the fire is jumping great distances".
-The mayor of El Tiemblo, one of the affected areas in Ávila, said flames spread from Navaluenga to the Iruelas Valley - a distance of about 20km (12 miles) - in less than half an hour. "It was horrific," Arturo Varas González told laSexta.
-At least 6,000 hectares of land have burned in the Madrid region, while the Ávila blaze has consumed almost 9,000 hectares, according to officials.
-Eight municipalities have been evacuated, including Chapinería, Navas del Rey, Colmenar del Arroyo, Fresnedillas de la Oliva, Robledo de Chavela, Aldea del Fresno, Navalagamella and Zarzalejo.
-Several other towns, including San Martín de Valdeiglesias, Pelayos de la Presa and Villa del Prado, remain under lockdown.
-'If you try to face it, it devours you'
-Ecologio Cabrera, 86, was forced to flee his village west of Madrid. "If you don't run from it and you try to face it, it devours you," he told AFP news agency from a sports hall in the village of Vilamanta where hundreds of evacuees have sought refuge.
-His family tried to save their home by spraying it with garden hoses until firefighters arrived. "They arrived and told everybody to get out... I have never experienced anything like this."
-Madrid's regional president Ayuso said the situation was "completely unusual and catastrophic," with the priority being saving lives.
-Prime Minister Pedro Sánchez will visit the zone's emergency coordination centre early on Saturday, his administration said.
-Earlier on Friday, Sánchez said people were "living through a dramatic situation" and urged citizens to take great care.
-The Civil Guard has arrested one person and is investigating another over the Burgohondo fire, which officials said could have been caused by negligence involving heavy machinery used when a period of restrictions were in place, local media reported.
-'XXL' wildfire in France forces around 200,000 to evacuate
-In south-west France, authorities have evacuated around 200,000 people after wildfires ripped through the Gironde and Landes regions.
-In the early hours of Saturday, four towns near Bordeaux were evacuated "as a precaution".
-The towns were Saint-Médard-en-Jalles, Saint-Jean d'Illac, Martignas-sur-Jalles, and Saint-Aubin de Médoc, which together have a population of 58,400 residents.
-The Gironde blaze, described by local prefect Sophie Brocas as an "XXL fire", has burned through more than 19,000 hectares (46,000 acres) of forest and destroyed about 80 homes.
-Officials evacuated the entire Cap Ferret peninsula on the south-west coast, with hundreds escaping by boat after flames swept through the popular tourist destination.
-The area has a year-round population of just under 8,000 people, but numbers can increase 10 fold during the summer holiday season.
-Fire and rescue chief Marc Vermeulen said conditions were more severe than during the devastating fires that hit the region in 2022, with drought enabling the blaze to continue spreading through the night.
-"We have never seen a convective fire of this magnitude," France's Interior Minister Laurent Nuñez told French broadcaster TF1, adding that around 50 firefighters had been injured.
-He said the blaze was "self-sustaining" and changing direction, with the fire moving east towards Bordeaux on Friday evening.
-"We are going to reorganise our response so we can fight it from the ground and prevent it from advancing toward Bordeaux," he said.
-Further south, another wildfire near Biscarrosse in the Landes region forced more than 23,000 people to evacuate homes, campsites, a nursing home and a summer camp.
-Landes prefect Gilles Clavreul said the fire would not be extinguished by the end of Friday, with winds reaching 50km/h (31mph) and temperatures of 36-37C.
-Philippe de Gonneville, the mayor of one of the worst-affected areas, Lège-Cap Ferret, said the region had "faced extreme weather conditions for the last month and a half" with no rain and above-average temperatures.
-"It's unheard of," he said. "Neither we nor the firefighters have seen anything like it."
-President Macron described the wildfire situation in the country as "very tense", particularly in Gironde. The government will hold an emergency meeting on Saturday morning.
-In the meantime, Macron said France had activated the European Union's civil protection mechanism and will receive reinforcements, including two Black Hawk helicopters from the Czech Republic and Slovakia.
-1 of 2
-Extreme conditions across southern Europe
-The European Union has deployed aircraft and helicopters to support firefighting efforts in Spain and France, as much of southern Europe grapples with repeated heatwaves and prolonged drought.
-Italy reported wildfires this week, with Sicily one of the worst affected areas where one firefighter died tackling the outbreak.
-Europe is the fastest-warming continent, heating at more than twice the global average since the 1980s, according to the EU's Copernicus Climate Change Service.
-Hotter, drier conditions are leaving vegetation with less moisture, creating fuel that enables wildfires to ignite and spread more quickly.
-A spark is still needed - most often from human activity, whether accidental or deliberate, or from lightning - but extreme heat, dry vegetation and strong winds can make fires burn faster and become much harder to contain.
-Wildfires have burned more land in Europe already this year than the annual average for the past two decades, according to the European Forest Fire Information System.
-The European Environment Agency has said "climate change has increased forest fire risk across Europe", with the greatest danger expected in southern Europe.
-Get in touch
-Are you in an affected region? If it’s safe to do so, get in touch.
-Related topics
-- Published1 day ago
-- Published11 hours ago`,
-    bodyJa: `フランスとスペインで山火事のため22万人以上が避難
-- 公開されました
-フランス当局はボルドー近郊で約6万人に避難を命じ、フランスとスペインの山火事から避難を指示された人の総数は22万人以上となった。
-フランス南西部のジロンド州とランド州では約２０万人が避難している。フランスのエマニュエル・マクロン大統領は、対応を支援するために軍を動員した。
-一方、首都マドリード近郊の火災は消防士の「制止能力を超えている」とスペイン当局が警告した。首都の西側で３件の火災が合流して１つの火災となった。
-スペイン政府は国家非常事態を宣言し、２万５０００人に避難、約４万人に屋内待機を命じた。
-マドリードの地域会長イザベル・ディアス・アユソ氏は、この地域が高温、容赦ない風、火災前線の合流という「完璧な嵐」に直面しており、この火災を「地域史上最悪の火災」だと述べた。
-スペインでは地元の救急隊が、山火事は首都から約５０キロ離れたロブレド・デ・チャベラ市とフレスネディジャス・デ・ラ・オリビア市に向かって進んでいると発表した。
-マドリッド地方政府の危機管理責任者カルロス・ノビジョ氏は記者団に対し、「山火事はピークに達しており、現在消防士の鎮圧能力を超えている」と語った。
-「その地域の火災を攻撃することは不可能であるため、防御措置が取られている」と彼は付け加えた。
-軍緊急部隊（UME）は炎の進行を阻止するために出動し、主にエル・エスコリアルの町近くの地域の保護に重点を置いている。
-当局は近くのアビラ県でも別の山火事を監視しており、当局はブルゴオンドの大規模な火災がマドリッドの火災と合併する可能性があると懸念している。
-スペインのフェルナンド・グランデ・マルラスカ内務大臣は、当局は両者の合併を阻止するために「あらゆる手を尽くしている」と述べた。
-マドリードの政府代表フランシスコ・マルティン氏は、「残り火は何マイルも飛び、火は遠くまで飛んでいる」ため、その数はさらに増加する可能性があると警告した。
-アビラの被害地域の一つ、エル・ティエンブロ市長は、炎はナバルレンガから距離約20キロのイルエラス渓谷まで30分以内に燃え広がったと語った。 「恐ろしかったです」とアルトゥーロ・ヴァラス・ゴンサレスさんはラセクスタに語った。
-当局者らによると、マドリッド地域では少なくとも6,000ヘクタールの土地が焼け、アビラの山火事ではほぼ9,000ヘクタールが焼失した。
-チャピネリア、ナバス・デル・レイ、コルメナール・デル・アロヨ、フレズネディージャス・デ・ラ・オリバ、ロブレド・デ・チャベラ、アルデア・デル・フレズノ、ナバラガメラ、サルサレホの８つの自治体が避難している。
-サン・マルティン・デ・バルデイグレシアス、ペラヨス・デ・ラ・プレサ、ビージャ・デル・プラドなど、他のいくつかの町は依然として封鎖下にある。
-「立ち向かおうとすると、それに蝕まれてしまう」
-エコロジオ・カブレラさん（86）はマドリード西方の村からの避難を余儀なくされた。数百人の避難者が避難しているビラマンタ村の体育館から同氏は、「そこから逃げずに立ち向かおうとすると、それに飲み込まれてしまう」とAFP通信に語った。
-彼の家族は、消防士が到着するまで庭のホースで水をかけて家を救おうとしました。 「彼らは到着し、全員に外に出るように言いました...私はこのようなことを経験したことがありません。」
-マドリードのアユソ地域会長は、状況は「全く異常かつ壊滅的」であり、命を救うことが優先だと述べた。
-同政権によると、ペドロ・サンチェス首相は土曜日早朝に同地域の緊急調整センターを訪問する予定だという。
-サンチェス首相は金曜日初め、人々は「劇的な状況を生きている」と述べ、細心の注意を払うよう国民に呼び掛けた。
-地元メディアの報道によると、ブルゴホンド火災をめぐって民間警備隊は１人を逮捕し、もう１人を捜査しているが、当局はこの火災は、規制期間中に使用されていた重機の過失が原因である可能性があると発表した。
-フランスで「XXL」山火事、約20万人が避難
-フランス南西部では、ジロンド州とランド州で山火事が発生し、当局が約２０万人を避難させた。
-土曜日の早朝、ボルドー近郊の４つの町は「予防措置として」避難した。
-それらの町はサン・メダール・アン・ジャル、サン・ジャン・ディヤック、マルティニャ・シュル・ジャル、サン・トーバン・ド・メドックで、人口は合わせて58,400人です。
-地元のソフィー・ブロカス知事が「XXL火災」と表現したジロンドの山火事は、1万9000ヘクタール（4万6000エーカー）以上の森林を焼き尽くし、約80戸の住宅を焼失させた。
-人気の観光地に炎が広がった後、当局は南西海岸のキャップフェレット半島全体から避難し、数百人がボートで避難した。
-この地域の人口は年間を通じて 8,000 人弱ですが、夏休みシーズンには人口が 10 倍に増加することがあります。
-消防救助部長のマーク・ヴァーミューレン氏は、2022年にこの地域を襲った大規模な火災時よりも状況はさらに厳しく、干ばつにより火災は夜通し燃え広がり続けたと述べた。
-フランス内務大臣ローラン・ヌニェス氏はフランス放送TF1に対し、「これほど規模の対流火災は見たことがない」と述べ、消防士約50人が負傷したと付け加えた。
-同氏は、火災は「自己継続」しており方向が変化しており、金曜夜には東のボルドーに向けて燃え上がったと述べた。
-同氏は「地上から戦い、ボルドーへの進撃を阻止できるよう対応を再編するつもりだ」と述べた。
-さらに南では、ランド地方のビスカロッス近くで別の山火事が発生し、2万3,000人以上が家、キャンプ場、老人ホーム、サマーキャンプからの避難を余儀なくされた。
-ランデス県知事のジル・クラヴルール氏は、風速が時速50キロ（時速31マイル）に達し、気温が36〜37度に達しており、金曜日の終わりまでに火災は鎮火しないだろうと語った。
-最も被害が大きかった地域の一つ、レージュ・キャップ・フェレ市のフィリップ・ド・ゴンヌヴィル市長は、この地域は雨が降らず気温も平年を上回るなど「過去１カ月半にわたり異常気象に直面していた」と述べた。
-「前代未聞だ」と彼は言った。 「私たちも消防士もそのようなことは見たことがありません。」
-マクロン大統領は、国内の山火事の状況、特にジロンド州での状況が「非常に緊迫している」と述べた。政府は土曜午前に緊急会合を開く。
-一方、マクロン大統領は、フランスは欧州連合の国民保護機構を発動しており、チェコ共和国とスロバキアからブラックホークヘリコプター２機を含む増援を受け取る予定だと述べた。
-1/2
-南ヨーロッパ全域の異常気象
-南ヨーロッパの多くの地域が度重なる熱波と長期にわたる干ばつに直面しているため、欧州連合はスペインとフランスの消火活動を支援するために航空機とヘリコプターを派遣した。
-イタリアでは今週、山火事の発生が報告されており、シチリア島は最も被害が大きかった地域の一つで、発生時の対応で消防士１名が死亡した。
-EUのコペルニクス気候変動局によると、ヨーロッパは最も温暖化が進んでいる大陸であり、1980年代以降の世界平均の2倍以上の気温上昇となっている。
-より暑く乾燥した状況により、植物の水分が少なくなり、山火事の発火と延焼がより早くなる燃料が発生します。
-火花は依然として必要であり、ほとんどの場合、偶発的か意図的かに関係なく人間の活動、または落雷によるものですが、極度の暑さ、乾燥した植物、強風により火の燃え上がりが速くなり、鎮火するのがはるかに困難になります。
-欧州森林火災情報システムによると、今年すでにヨーロッパで山火事により焼失した土地の面積は、過去20年間の年間平均を上回っている。
-欧州環境庁は「気候変動によりヨーロッパ全土で森林火災のリスクが高まっている」とし、最大の危険は南ヨーロッパで予想されていると述べた。
-連絡する
-影響を受けた地域にお住まいですか?安全であれば、連絡してください。
-関連トピック
-- 1 日前に公開
-- 11 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-25T02:29:36+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
-    readTime: 8,
-  },
-  {
-    id: "spacex-launches-massive-starship-rocket-6521980c",
-    title: "SpaceX launches massive Starship rocket in first test flight since IPO",
-    titleJa: "SpaceX、IPO以来初の試験飛行で巨大なStarshipロケットを打ち上げ",
-    summaryJa: "スペースXは金曜日の夜、テキサス州スターベースの企業街と発射施設から巨大なスターシップロケットを13回目のテスト飛行で打ち上げたが、これは同社の記録的な先月のIPO以来初めてとなる。ロケットのスーパーヘビーブースターは飛行開始から約2分でスターシップ宇宙船から切り離され、制御された状態で湾岸に着水した。",
-    bodyOriginal: `SpaceX launched its massive Starship rocket Friday evening from its company town and launch facility in Starbase, Texas, in a 13th test flight and the first since the company's record IPO last month.
-The rocket's Super Heavy booster detached from the Starship spacecraft about two minutes into the flight, and made a controlled splashdown in the Gulf.
-In a statement following the flight, SpaceX said the landing was not perfect as the booster, "attempted to relight its engines for the landing burn," but only a subset successfully ignited before the "hard splashdown."
-The upper stage of the rocket made a "soft splashdown" in the Indian Ocean, SpaceX said, "coming to rest intact in the Indian Ocean and providing critical views of an intact heatshield for the first time."
-Employees called the test flight "lucky number 13," in a livestream of the event.
-Elon Musk's aerospace and defense contractor designed Starship, the largest rocket ever built or flown, to be fully reusable and to lift more cargo for less cost into orbit. Starship is considered crucial for the company's goal to vastly expand its Starlink satellite network, among other missions.
-About 18 minutes into Friday's test flight, SpaceX successfully deployed 20 of its new Starlink V3 satellites into orbit, a first chance for the company to see how they performed in flight. The satellites were intended to burn up after about 20 minutes.
-The new satellites, produced at a SpaceX facility in Redmond, Washington, are built to be larger, and more powerful than Starlink's earlier satellites. They're also equipped with solar arrays that generate twice as much power as prior generations, a SpaceX business analyst explained in a livestream.
-SpaceX is now developing Starmind satellites, which the company intends to launch and eventually use as orbital data centers.
-Besides using their largest rockets to launch the new, larger satellites, SpaceX wants to use the Starship rocket to bring U.S. astronauts back to the moon's surface, and to eventually power manned missions to Mars. The company is preparing Starship for a major NASA test flight next year.
-Friday's test flight marked the second for Starship V3, the latest version of the rocket.
-TMF Associates' Tim Farrar, a satellite services industry expert, said the test flight showed SpaceX has made some progress with Starship but "remains a long way from achieving rapid reusability of the entire ship." He pointed to problems SpaceX had relighting its Raptor engines on Friday. "Any similar failure during an attempted landing at the company's launch site could cause severe damage to the launchpad," he said.
-In a post on X, which is owned by SpaceX, the company said it delayed an earlier test flight planned for Thursday "due to weather." It also previously scrubbed a test flight on July 16, after the rocket's booster triggered a hold, which "shut down the engines right as they were starting to ignite," a SpaceX employee said during a livestream of the earlier event.
-SpaceX's stock has dropped in four of the past five weeks, slumping 43% from its peak close on June 16.`,
-    bodyJa: `スペースXは金曜日の夜、テキサス州スターベースの企業街と発射施設から巨大なスターシップロケットを13回目のテスト飛行で打ち上げたが、これは同社の記録的な先月のIPO以来初めてとなる。
-ロケットのスーパーヘビーブースターは飛行開始から約2分でスターシップ宇宙船から切り離され、制御された状態で湾岸に着水した。
-飛行後の声明でスペースXは、ブースターが「着陸燃焼のためにエンジンの再点火を試みた」ため、着陸は完璧ではなかったが、「激しい着水」の前に点火に成功したのは一部のみだったと述べた。
-スペースX社は、ロケットの上段がインド洋で「ソフトスプラッシュダウン」し、「インド洋に無傷で静止し、無傷の熱シールドの重要な視点を初めて提供した」と発表した。
-従業員らはイベントのライブストリームで、今回の試験飛行を「幸運の13番」と呼んだ。
-イーロン・マスク氏の航空宇宙・防衛請負業者は、これまでに建造または飛行された最大のロケットであるスターシップを、完全に再利用可能で、より少ないコストでより多くの貨物を軌道上に持ち上げられるように設計した。 Starshipは、数あるミッションの中でもとりわけ、Starlink衛星ネットワークを大幅に拡大するという同社の目標にとって極めて重要であると考えられている。
-金曜日の試験飛行開始から約18分で、SpaceXは20機の新しいStarlink V3衛星を軌道上に展開することに成功し、同社にとっては飛行中の性能を確認する初めての機会となった。衛星は約20分後に燃え尽きるように設計されていた。
-新しい衛星はワシントン州レドモンドのスペースX施設で製造され、スターリンクの以前の衛星よりも大型で強力になるように作られている。また、前世代の2倍の電力を生成する太陽電池アレイも装備されているとSpaceXのビジネスアナリストがライブストリームで説明した。
-SpaceX は現在 Starmind 衛星を開発しており、同社はこれを打ち上げ、最終的には軌道データセンターとして使用する予定です。
-スペースXは、自社最大のロケットを使って新しい大型衛星を打ち上げるほかに、スターシップロケットを使って米国の宇宙飛行士を月面に帰還させ、最終的には火星への有人ミッションを推進したいと考えている。同社は来年のNASAの大規模試験飛行に向けてStarshipの準備を進めている。
-金曜日の試験飛行は、ロケットの最新バージョンであるスターシップV3の2回目となる。
-衛星サービス業界の専門家であるTMFアソシエイツのティム・ファラー氏は、この試験飛行はスペースXがスターシップである程度の進歩を遂げたことを示しているが、「船全体の迅速な再利用を達成するにはまだ遠い」と述べた。同氏は、スペースX社が金曜日にラプターエンジンの再点火を行った際の問題点を指摘した。同氏は「同社の発射場に着陸を試みる際に同様の失敗があれば、発射台に重大な損傷を与える可能性がある」と述べた。
-スペースX傘下のXへの投稿で、同社は木曜日に予定されていた初期の試験飛行が「天候のため」遅れたと述べた。また、7月16日にはロケットのブースターが停止を引き起こし、「点火し始めた瞬間にエンジンが停止した」後、試験飛行を中止したとスペースXの従業員は以前のイベントのライブストリームで語った。
-スペースXの株価は過去5週間のうち4週間で下落し、6月16日の最高値終値から43％下落した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
-    publishedAt: "2026-07-25T02:17:11+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "texts-reveal-14-year-old-allegedly-murde-c3f5d04f",
-    title: "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-    titleJa: "歌手D4vdによって殺害されたとされる14歳が妊娠と中絶をしていたことがテキストで判明",
-    summaryJa: "歌手D4vdによって殺害されたとされる14歳が妊娠と中絶をしていたことがテキストで判明- 公開されました",
-    bodyOriginal: `Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion
-- Published
-WARNING: Readers may find details in this article distressing.
-Texts between singer D4vd and Celeste Rivas Hernandez, the 14-year-old he is accused of murdering, reveal she had been pregnant and had had an abortion before her death.
-The messages were shown during a hearing for a judge to determine if the singer, whose legal name is David Anthony Burke, should go on trial for the teen's death last year.
-"What [if] the first abortion didn't work?" Celeste texted Burke in June 2024, according to prosecutors. She was 13 years old at the time and he was 19.
-Prosecutors say Burke killed her after she threatened to reveal he had been abusing a minor and destroy his career. He has pleaded not guilty to charges of murdering and sexually abusing the girl.
-In an exchange from January 2024, Burke apologised to the teen for "putting her through this", according to messages shown in the Los Angeles court on Friday.
-She responded, "neither of us are capable of watching and taking care of the baby. it's for the best no?"
-Burke asked, "also my mother always told me to ask this question if I was ever in this situation … it is mine right?"
-Celeste replied "of course its yours David", according to testimony from a detective.
-The court heard that in another text to the teen, sent in June 2024, Burke wrote: "Let's let this abortion be the last one til we have the real one…"
-Prosecutors presented iCloud data recovered from the defendant's iPhone, showing texts between him and Celeste dating back to 8 August 2022, when she was 11 years old and he was 17.
-The device belonging to Burke also had photos of the teenager during the alleged sexual abuse, prosecutors and Los Angeles Police Detective Corey Farell said on Friday.
-The victim's mother, Mercedes Rivas Hernandez, became visibly emotional and left the court with her husband as details of some of the pictures were described during the proceedings.
-Burke's phone also showed conversations the two had had about moving in together, which they had dubbed "Operation Awesome".
-The pair "broke up" in November 2024, but stayed in contact, according to a memo filed by prosecutors earlier this year.
-Prosecutors allege they argued on the night before her death, allegedly over Burke's relationships with other women.
-Dr Grant Ho of the Los Angeles County Department of Medical Examiner, who conducted the post-mortem examination on Celeste, also testified on Friday.
-Ho told the court it was "extremely difficult to tell" exactly when the girl died, owing to the state of decomposition when her remains were found.
-Lawyers for the defence seized on that uncertainty, questioning whether it was possible that the teenager could have somehow harmed herself.
-Farrell, the police detective, testified that DNA taken from blood found in Burke's Hollywood Hills home and garage was a match for Celeste.
-D4vd, who rose to fame on TikTok with the viral hits Romantic Homicide and Here With Me, was on tour when police found Celeste's body in the front boot of his Tesla in September 2025 - the day after she would have turned 15.
-His worldwide tour was cancelled and he largely retreated from public life and social media.
-Police announced his arrest in April this year.
-Los Angeles County District Attorney Nathan Hochman has filed seven criminal charges against him, including murder, continuous sexual abuse of a child and the mutilation of remains.
-They said the teen was reported missing by her family and was last seen at Burke's home on 3 April 2025 - five months before her remains were discovered in the Tesla.
-Prosecutors have said he met Celeste online when she was 11, and allege he started sexually abusing her when she was 13 and he was 18.
-Friday marked the fourth day of testimony in the pre-trial hearing.
-Earlier revelations by prosecutors included that Hernandez had been brought by Burke to London and Texas to meet members of his family there.
-Testimony is expected to resume on Monday.`,
-    bodyJa: `歌手D4vdによって殺害されたとされる14歳が妊娠と中絶をしていたことがテキストで判明
-- 公開されました
-警告: 読者はこの記事の詳細を不快に感じるかもしれません。
-歌手のD4vdと、殺害容疑で起訴されている14歳のセレステ・リバス・ヘルナンデスとの間のテキストメッセージにより、彼女が生前に妊娠しており、中絶していたことが明らかになった。
-このメッセージは、昨年、本名デヴィッド・アンソニー・バークがこの歌手の死について裁判にかけられるべきかどうかを判断する裁判官の公聴会で公開された。
-「最初の中絶がうまくいかなかったらどうしますか？」検察によれば、セレステは2024年6月にバークにテキストメッセージを送った。当時彼女は13歳、彼は19歳でした。
-検察側は、バーク被告が未成年者への虐待を暴露し、彼のキャリアを台無しにすると脅迫した後、彼女を殺害したと主張している。同容疑者は少女殺害と性的虐待の罪で無罪を主張した。
-金曜日にロサンゼルスの法廷で示されたメッセージによると、バークさんは2024年1月のやりとりの中で、「彼女をこんな目に遭わせた」ことを謝罪したという。
-彼女はこう答えた。「私たち二人とも、赤ちゃんを見守ったり、世話をしたりする能力はありません。それが最善ですよね？」
-バークさんは「また、母は、もし私がこのような状況に陥ったら、この質問をするようにいつも私に言いました…それは私のものですよね?」と尋ねた。
-刑事の証言によると、セレステは「もちろん、あなたのものですデヴィッド」と答えたという。
-裁判所は、バーク被告が2024年6月にこの少年に送った別のメールで「本物の中絶ができるまで、この中絶を最後にしよう…」と書いたと聞いた。
-検察側は被告のiPhoneから回収したiCloudデータを提出し、被告とセレステの間のテキストメッセージは2022年8月8日、彼女が11歳、被告が17歳だった当時に遡ることが示された。
-検察官とロサンゼルス市警のコーリー・ファレル刑事は金曜日、バーク容疑者の端末には性的虐待容疑での十代の少年の写真も含まれていたと発表した。
-被害者の母親、メルセデス・リバス・ヘルナンデスさんは、訴訟中に写真の一部の詳細が説明されると、明らかに感情的になり、夫とともに法廷を去った。
-バークさんの携帯電話には、二人が「オーサム作戦」と名付けた同棲について交わした会話も記録されていた。
-今年初めに検察が提出したメモによると、二人は2024年11月に「破局」したが、連絡は続けていたという。
-検察側はバークさんの死の前夜、バークさんと他の女性との関係を巡って口論になったと主張している。
-セレステの死後検査を行ったロサンゼルス郡検死局のグラント・ホー博士も金曜日に証言した。
-ホー被告は法廷で、遺体発見時の腐敗状態のため、少女の死亡時期を正確に判断するのは「極めて困難」だったと述べた。
-弁護側の弁護士らはその不確実性を捉え、この少年が何らかの形で自傷行為をした可能性があるのではないかと疑問を呈した。
-刑事のファレルは、ハリウッド・ヒルズにあるバークの自宅兼ガレージで見つかった血液から採取したDNAがセレステと一致すると証言した。
-バイラルヒット「ロマンティック・ホミサイド」や「ヒア・ウィズ・ミー」でTikTokで名声を高めたD4vdは、2025年9月に警察がテスラの前部トランクでセレステさんの遺体を発見したとき、ツアー中だった――彼女が15歳になるはずだった翌日だった。
-彼の世界的なツアーはキャンセルされ、彼は公の生活やソーシャルメディアからほとんど遠ざかりました。
-警察は今年４月に逮捕を発表した。
-ロサンゼルス郡地方検事のネイサン・ホックマン氏は、殺人、児童に対する継続的な性的虐待、遺体の切断など7件の刑事告発を起こした。
-彼らによると、この少女は家族によって行方不明と報告されており、バークさんの自宅で最後に目撃されたのは2025年4月3日、つまり彼女の遺体がテスラ内で発見される5か月前だったという。
-検察側は、セレステさんが11歳のときにオンラインで知り合ったとし、セレステさんが13歳、自分が18歳のときに性的虐待を始めたと主張している。
-金曜日は公判前審理での証言４日目となった。
-検察当局によるこれまでの暴露には、ヘルナンデスがバーク氏によってロンドンとテキサス州に連れて行かれ、そこで家族と面会していたことも含まれていた。
-証言は月曜日に再開される予定だ。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-25T02:14:50+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f8b/live/a675bbc0-87b5-11f1-88ae-859397b768ed.jpg",
-    readTime: 5,
   },
 ];
 
