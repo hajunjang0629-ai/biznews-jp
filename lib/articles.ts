@@ -15,6 +15,292 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "jersey-mike-s-stock-falls-7-in-public-ma-0a17bb75",
+    title: "Jersey Mike's stock falls 7% in public market debut after pricing shares at $23",
+    titleJa: "ジャージー・マイクの株価は23ドルで株価を公開後、公開市場デビューで7％下落",
+    summaryJa: "ジャージー・マイクズの株価は、同社がティッカー「JMKE」でニューヨーク証券取引所に上場した後、木曜午後の取引で約7％下落した。株価は1株あたり21ドルと予想レンジの中間点である1株あたり23ドルを下回る21ドルで取引を開始した。",
+    bodyOriginal: `Shares of Jersey Mike's fell about 7% during trading on Thursday afternoon after the company made its public market debut on the New York Stock Exchange under the ticker "JMKE."
+The stock opened at $21 per share, below its initial public offering pricing of $23 per share, at the midpoint of the expected range of $21 to $25 per share.
+Jersey Mike's sold 43.5 million shares, raising about $1 billion and valuing the company at $7.3 billion. With those proceeds, the chain is now among the largest-ever initial fundraises for a restaurant IPO.
+Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway. It's now the largest public chain in the category.
+The company reported net income of $55 million on total revenue of $724 million last year. Its same-store sales increased 3% over the same period. The metric tracks sales growth at restaurants open at least a year.
+Broadly, diners are eating out less often or seeking deals to save money, and the restaurant industry has seen traffic and sales soften. But Jersey Mike's has largely bucked the trend, and its high average unit volumes and asset-light franchise model made the stock attractive to investors.
+CEO Charlie Morrison told CNBC that Jersey Mike's customer base typically skews "a little higher income," insulating the chain from some of the pullback in consumer spending.
+"We're seeing the consumer come back," Morrison said. "We've seen positive transition growth. In fact, most of our same-store sales growth this year to date has been driven primarily by transaction growth."
+Jersey Mike's successful IPO is a positive harbinger for other consumer companies looking to go public. Rival restaurant company Inspire Brands, which counts Dunkin' and Jimmy John's among its brands, has confidentially filed for an initial public offering and could easily snatch Jersey Mike's title for biggest-ever restaurant IPO.
+Clothing company Reformation is also expected to make its public market debut on Thursday; the retailer priced shares at $15, on the low end of its expected range of $15 to $17.
+Jersey Mike's expansion plans
+Jersey Mike's founder Peter Cancro began working at a Jersey Shore sandwich shop at age 14 in 1971. Four years later, he pulled together enough money to buy Mike's Subs. Cancro later changed the name and began franchising the chain. Today, franchisees operate 99.2% of Jersey Mike's locations.
+In late 2024, Jersey Mike's announced that Blackstone had bought a majority stake reportedly valued at around $8 billion including debt.
+After the transaction closed, Jersey Mike's tapped Morrison as its chief executive. He previously led Wingstop for more than a decade, including during the chicken wing chain's own IPO.
+Morrison said that he sees a lot of similarities with Wingstop. Like the chicken wing chain, Jersey Mike's is mostly franchised and generates free cash flow for investors.
+Jersey Mike's plans to use the proceeds from the offering to pay down debt and general corporate purposes.
+Looking ahead, the chain plans to expand its international reach.
+The vast majority of its restaurants are in the U.S., a relatively mature market for hoagies. Cancro, who has retained some equity in Jersey Mike's, signed a master franchise agreement to bring Jersey Mike's to the United Kingdom and Ireland.
+Long term, Jersey Mike's sees the potential for 15,000 restaurants worldwide — half in the U.S., half in international markets.
+"One of the benefits of being a publicly traded company on the New York Stock Exchange is that we get a lot of awareness of the brand, not only in the U.S., but also around the world," Morrison said.`,
+    bodyJa: `ジャージー・マイクズの株価は、同社がティッカー「JMKE」でニューヨーク証券取引所に上場した後、木曜午後の取引で約7％下落した。
+株価は1株あたり21ドルと予想レンジの中間点である1株あたり23ドルを下回る21ドルで取引を開始した。
+ジャージー・マイクズは4,350万株を売却し、約10億ドルを調達し、企業価値は73億ドルとなった。これらの収益により、このチェーンは現在、レストランの IPO における史上最大の初期資金調達の 1 つとなっています。
+Jersey Mike's は約 3,300 店舗を展開しており、米国では Subway に次ぐ 2 番目に大きなホーギー サンドイッチ チェーンです。現在、このカテゴリーで最大のパブリックチェーンとなっています。
+同社は昨年、総収益が7億2,400万ドルで、純利益が5,500万ドルだったと報告した。同期間の既存店売上高は３％増加した。この指標は、少なくとも 1 年間オープンしたレストランの売上の伸びを追跡します。
+概して、ダイナーは外食の頻度を減らしたり、お金を節約するための取引を求めたりしており、レストラン業界では客足と売上が減少している。しかし、ジャージー・マイクズはその傾向に大きく逆らっており、その高い平均ユニットボリュームと資産の少ないフランチャイズモデルにより、この株は投資家にとって魅力的なものとなった。
+最高経営責任者（CEO）のチャーリー・モリソン氏はCNBCに対し、ジャージー・マイクの顧客ベースは通常「少し高収入」に偏っており、消費支出の一部の反動からチェーンを守っていると語った。
+モリソン首相は「消費者が戻ってきているのを目にしている」と述べた。 「当社は移行期におけるプラスの成長を確認しています。実際、今年から現在までの当社の既存店売上高の伸びのほとんどは、主に取引の伸びによってもたらされています。」
+ジャージー・マイク氏のIPOの成功は、上場を目指す他の消費者企業にとって前向きな前兆となる。ライバルのレストラン会社インスパイア・ブランズはダンキンやジミー・ジョンズを自社ブランドに数えており、極秘に新規株式公開を申請しており、ジャージー・マイクの史上最大のレストランIPOの称号をいとも簡単に奪う可能性がある。
+衣料品会社リフォーメーションも木曜日に公開市場デビューを果たす予定だ。小売業者は株価を15ドルと予想し、15ドルから17ドルの範囲の下限に設定した。
+ジャージー・マイクの拡張計画
+Jersey Mikeの創設者であるPeter Cancroは、1971年に14歳でジャージーショアのサンドイッチ店で働き始めました。4年後、彼はMike's Subsを購入するのに十分な資金を集めました。 Cancro は後に名前を変更し、チェーンのフランチャイズ化を開始しました。現在、フランチャイズ加盟者はジャージー マイクの店舗の 99.2% を運営しています。
+2024年後半、ジャージー・マイクズは、ブラックストーンが負債を含めて約80億ドルと伝えられる過半数の株式を購入したと発表した。
+取引完了後、ジャージー・マイクズはモリソン氏を最高経営責任者に指名した。彼は以前、チキンウィング チェーン自身の IPO を含め、10 年以上にわたってウィングストップを率いていました。
+モリソン氏はウイングストップと多くの類似点があると述べた。チキンウィング チェーンと同様、Jersey Mike's もほとんどがフランチャイズ化されており、投資家にフリー キャッシュ フローを生み出しています。
+ジャージー・マイク氏は、今回の募集で得た収益を負債の返済と一般的な企業目的に使用する計画だ。
+今後を見据えて、このチェーンは国際的な展開を拡大することを計画しています。
+同社のレストランの大部分は、ホーギー市場が比較的成熟している米国にあります。カンクロはジャージー・マイクズの株式の一部を保持しており、ジャージー・マイクズを英国とアイルランドに導入するためのマスターフランチャイズ契約に署名した。
+長期的には、Jersey Mike's は世界中に 15,000 軒のレストランができる可能性があると考えています。その半分は米国内、半分は海外市場にあります。
+モリソン氏は「ニューヨーク証券取引所に上場している企業であることの利点の一つは、米国だけでなく世界中でブランドの認知度が高まっていることだ」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
+    publishedAt: "2026-07-30T19:39:14+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "trump-says-sanctions-bill-should-include-5260b6a8",
+    title: "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
+    titleJa: "トランプ大統領、米国との「些細な」貿易にもかかわらず、制裁法案には対イラン関税を盛り込むべきだと発言",
+    summaryJa: "ドナルド・トランプ大統領は議会に対し、超党派の支持を得ているロシアとイランに対する制裁法案にイランへの関税を追加するよう求めている。米国はイランからほとんど何も輸入していないため、これらの関税はほとんど影響しないだろう。しかし、これらを法案に追加すると、法案成立の可能性が台無しになる可能性がある。",
+    bodyOriginal: `President Donald Trump wants Congress to add tariffs on Iran to a sanctions bill against Russia and Tehran that has bipartisan support.
+Those duties would have little effect because the U.S. imports nearly nothing from Iran. But tacking them on to the bill may torpedo its chances of becoming law.
+While sanctions against the two countries has widespread support in Congress, Trump's well-established belief in tariffs as a one-size-fits-all tool for economic coercion is polarizing.
+The U.S. imported just $1.4 million in goods from Iran 2025, according to the Office of the U.S. Trade Representative. Works of art, collectors pieces and antiques were the largest category of those imports, making up 55% of the value, according to the firm Trading Economics.
+It's hard to imagine that figure increasing much this year — especially since late February, when the U.S. and Israel launched a war against Iran that continues with no end in sight. The U.S. has sanctioned Iran for decades, and the Treasury Department has sought to further squeeze Tehran's economy amid the war.
+"The Administration's threat to impose tariffs on imports from Iran is entirely symbolic," Jonathan Doh, professor of international business at Villanova School of Business, said in an email to CNBC. "U.S. imports from Iran are trivial."
+Trump sees it differently. Asked at the White House on Wednesday about the pending sanctions bill, he said, "I'd like them to add Iran as tariffs, not just as sanctions."
+The measure is named after former Sen. Lindsey Graham, R-S.C., who died unexpectedly in mid-July.
+"I'd like to see tariffs on Iran. It would make it much stronger," Trump said of the bill, which would impose economic sanctions on Russia and those supporting its war against Ukraine.
+The legislation would also let Trump slap targeted tariffs on goods imported from the top five countries that buy Russian energy and help it evade sanctions.
+Trump claimed Wednesday that modifying it by adding tariffs on Iran is "what Lindsey wanted."
+Graham's office, which is now occupied by his sister, Darline Graham, did not respond to CNBC's request for comment on Trump's remark.
+Doh told CNBC that U.S. sanctions on Iran — which already prohibit nearly all trade — are "far more impactful" than tariffs would be.
+"Primary sanctions target U.S. persons from trading with Iran, while secondary sanctions target non-U.S. companies and individuals for doing business with Iran," Doh said.
+He noted that Iran was eager to include sanctions relief as part of a now-defunct temporary ceasefire deal with the U.S. that was signed in June, then effectively scrapped weeks later as military action resumed.
+The sanctions bill took a key step forward Tuesday, as a bipartisan group of senators said they reached a deal combine provisions on Russia and Iran into a single legislative package. The chamber then voted 86-12 on a procedural measure to advance the bill. The vote was notable in a Congress that has been riven by partisan divisions.
+But that progress could hit a wall if Trump insists additional tariffs on Iran be added to the bill.
+Democrats have denounced Trump's heavy use of tariffs, which has ramped back up this month after being tamped down by the Supreme Court earlier this year. The Trump administration in recent weeks has imposed or announced new duties on goods from dozens of countries, including Canada, Brazil and the 27-member European Union.
+The White House and the Office of the U.S. Trade Representative did not respond to CNBC's requests for comment on Trump's call for tariffs on Iran.`,
+    bodyJa: `ドナルド・トランプ大統領は議会に対し、超党派の支持を得ているロシアとイランに対する制裁法案にイランへの関税を追加するよう求めている。
+米国はイランからほとんど何も輸入していないため、これらの関税はほとんど影響しないだろう。しかし、これらを法案に追加すると、法案成立の可能性が台無しになる可能性がある。
+両国に対する制裁は議会で幅広い支持を得ているが、関税は経済的抑圧のための万能の手段であるというトランプ大統領の確立した信念は二極化している。
+米通商代表部によると、2025年に米国がイランから輸入した商品はわずか140万ドルだった。トレーディング・エコノミクス社によると、輸入品の中で最大のカテゴリーは美術品、コレクターズ・ピース、骨董品で、金額の55％を占めた。
+今年、この数字が大幅に増加するとは考えにくい――特に米国とイスラエルが終わりの見えない対イラン戦争を開始した2月下旬以降はなおさらだ。米国は数十年にわたりイランを制裁しており、財務省は戦争の最中にイラン経済をさらに圧迫しようとしていた。
+ビラノバ・スクール・オブ・ビジネスの国際ビジネス教授、ジョナサン・ドー氏はCNBCへの電子メールで、「イランからの輸入品に関税を課すという政権の脅迫は全く象徴的だ」と述べた。 「米国のイランからの輸入は取るに足らないものだ。」
+トランプ氏は違う見方をしている。水曜日、ホワイトハウスで保留中の制裁法案について質問された同氏は、「イランを単なる制裁ではなく、関税の対象に加えてほしい」と述べた。
+この措置は、7月中旬に急死した元上院議員リンジー・グラハム氏（共和党、サウスカロライナ州）にちなんで命名された。
+トランプ大統領は、ロシアと対ウクライナ戦争を支援する国々に経済制裁を課す法案について、「イランへの関税を望んでいる。そうすればイランはさらに強化されるだろう」と語った。
+この法案により、トランプ大統領はロシアのエネルギーを購入し、制裁回避を支援する上位5カ国からの輸入品に対象を絞った関税を課すことも可能になる。
+トランプ大統領は水曜日、対イラン関税の追加による修正は「リンゼイ氏が望んでいたこと」だと主張した。
+グラハム氏の事務所は現在、妹のダーリン・グラハム氏が担当しているが、トランプ氏の発言に関するCNBCのコメント要請には応じなかった。
+ドー氏はCNBCに対し、すでにほぼすべての貿易を禁止している米国の対イラン制裁は関税よりも「はるかに影響力がある」と語った。
+ドー長官は、「一次制裁はイランとの取引を行う米国人を対象とし、二次制裁はイランと取引する米国以外の企業や個人を対象とする」と述べた。
+同氏は、イランが6月に署名され、数週間後に軍事行動が再開されたことで事実上破棄された、現在は失効している米国との一時停戦協定の一部として制裁緩和を盛り込むことを熱望していると指摘した。
+火曜日、超党派の上院議員グループが、ロシアとイランに関する条項を単一の立法パッケージにまとめる合意に達したと発表し、制裁法案は重要な一歩を踏み出した。その後、議場は法案を前進させるための手続き措置を86対12で可決した。この投票は党派の分裂によって引き裂かれた議会において注目に値した。
+しかし、トランプ大統領が対イラン追加関税を法案に追加するよう主張すれば、その進展は壁に突き当たる可能性がある。
+民主党はトランプ大統領の関税の多用を非難しており、関税は今年初めに最高裁判所によって抑制された後、今月から再び強化されている。トランプ政権はここ数週間、カナダ、ブラジル、欧州連合（２７カ国）を含む数十カ国からの商品に新たな関税を課したり、発表したりしている。
+ホワイトハウスと米通商代表部は、トランプ大統領の対イラン関税要求に関するCNBCのコメント要請に応じなかった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
+    publishedAt: "2026-07-30T19:21:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "warsh-s-wall-street-cred-takes-a-hit-as-0606b23d",
+    title: "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve",
+    titleJa: "投資家がFRB議長のインフレ対策の決意を疑う中、ウォーシュ氏のウォール街での信用は打撃を受ける",
+    summaryJa: "ケビン・ウォーシュ氏は、連邦準備理事会は米国のインフレ率を目標の2％まで下げるためにあらゆる手段を講じると主張しているが、投資家はそれを支持していない。",
+    bodyOriginal: `Kevin Warsh insists the Federal Reserve will do whatever it takes to reduce U.S. inflation to its 2% target, but investors aren’t buying it.`,
+    bodyJa: `ケビン・ウォーシュ氏は、連邦準備理事会は米国のインフレ率を目標の2％まで下げるためにあらゆる手段を講じると主張しているが、投資家はそれを支持していない。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
+    publishedAt: "2026-07-30T19:02:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-64759388",
+    readTime: 2,
+  },
+  {
+    id: "china-s-open-weight-model-lead-exposes-a-9eff0a34",
+    title: "China’s open-weight model lead exposes America’s AI blind spot",
+    titleJa: "中国の無差別級モデルのリーダーがアメリカのAIの盲点を暴露",
+    summaryJa: "中国がこの分野でリードを築き続ける中、米国最大手のテクノロジー企業の一部は、オープン人工知能を国家的優先事項にするよう米国政府に求めている。彼らのメッセージは、米国の政策のギャップを明らかにしています。米国には AI 用のチップ戦略があるということです。今、オープンモデル戦略が必要です。",
+    bodyOriginal: `Some of America's biggest technology companies are pushing Washington to make open artificial intelligence a national priority as China continues to build its lead in the space.
+Their message exposes a gap in U.S. policy: America has a chip strategy for AI. Now it needs an open-model strategy.
+Supporters say open models can lower costs, keep sensitive data inside a company's own systems and prevent businesses from becoming dependent on a handful of AI providers. The models can also give more researchers and security teams the ability to inspect powerful models and find weaknesses.
+Unlike ChatGPT or Claude, which customers access through services controlled by OpenAI and Anthropic, open-weight models can be downloaded, customized and run on a company's own computers. That can make them cheaper and give users more control over their data and technology.
+Last week, a coalition led by Nvidia published an open letter arguing that America's AI leadership will depend on building a strong open ecosystem. Microsoft, Meta and other major technology companies signed it. OpenAI and Google later added their support.
+A striking cybersecurity incident days earlier showed why the issue matters.
+During an internal test, OpenAI models found a way out of a restricted environment and compromised systems at the AI platform Hugging Face. When Hugging Face tried to investigate, safety controls on closed commercial models blocked them from analyzing the attack. The company instead used an open Chinese model that it could run on its own infrastructure.
+A closed American model caused the incident. A Chinese open model helped investigate it.
+That episode complicates the argument that closed AI is always safer.
+America has restricted China's access to advanced chips, spent billions to onshore semiconductor manufacturing and encouraged a massive buildout of data centers and power. Meanwhile, Chinese labs like Zhipu and Moonshot AI have released capable open models at a fraction of the cost of leading American systems.
+The Trump administration is now reportedly considering restrictions on Chinese models. But a ban would not stop those models from spreading around the world. It could simply leave American developers on the sidelines.
+China has a clear incentive to push open-weight AI. Every improvement makes powerful models cheaper and weakens the advantage of American companies that charge a premium for access to closed systems.
+OpenAI and Anthropic have the opposite incentive. Their businesses depend on keeping their best models proprietary. Anthropic CEO Dario Amodei has also warned that models anyone can download are harder to monitor and could be modified by bad actors.
+Those security concerns are real, but so is the risk of allowing China to become the foundation on which the rest of the world builds.
+The way to win an open-source race is by out-building, not with a ban.
+The U.S. could support open AI the way it supported chips, by giving universities and startups access to computing power, awarding government contracts to American open-model developers and funding the security tools needed to run those models safely.
+Companies are already asking for alternatives, and open models can lower costs and let businesses keep sensitive data inside their own systems.
+"The data that these companies have is really their strategic asset," said Vipul Ved Prakash, CEO of AI platform Together AI. By sending it to the maker of a powerful closed model, he said, a company risks giving away its "business' recipe."
+Adoption is moving quickly. During the last week of June, Chinese models accounted for 48% of traffic tracked by OpenRouter, up from 20% a year earlier. U.S. models fell to 32% from 74%.
+The future of AI may not be decided by who builds the smartest single model. It may be decided by who builds the models that everyone else runs on.
+Right now, that is increasingly China.`,
+    bodyJa: `中国がこの分野でリードを築き続ける中、米国最大手のテクノロジー企業の一部は、オープン人工知能を国家的優先事項にするよう米国政府に求めている。
+彼らのメッセージは、米国の政策のギャップを明らかにしています。米国には AI 用のチップ戦略があるということです。今、オープンモデル戦略が必要です。
+支持者らは、オープンモデルはコストを削減し、機密データを企業独自のシステム内に保管し、企業が少数のAIプロバイダーに依存するのを防ぐことができると主張する。このモデルにより、より多くの研究者やセキュリティ チームが強力なモデルを検査して弱点を見つけることができるようになります。
+OpenAI や Anthropic によって制御されるサービスを通じて顧客がアクセスする ChatGPT や Claude とは異なり、オープンウェイト モデルはダウンロードしてカスタマイズし、企業独自のコンピューターで実行できます。これにより、価格が安くなり、ユーザーがデータとテクノロジーをより細かく制御できるようになります。
+先週、Nvidia率いる連合は、米国のAIのリーダーシップは強力なオープンエコシステムの構築に依存すると主張する公開書簡を発表した。 Microsoft、Meta、その他の主要テクノロジー企業が署名しました。 OpenAI と Google は後にサポートを追加しました。
+数日前に起きた衝撃的なサイバーセキュリティ事件は、この問題がなぜ重要なのかを示しました。
+内部テスト中に、OpenAI モデルは AI プラットフォーム Hugging Face で制限された環境と侵害されたシステムから抜け出す方法を発見しました。ハグ・フェイス社が調査しようとしたところ、非公開の商用モデルの安全制御により攻撃を分析することができなかった。同社は代わりに、独自のインフラストラクチャで実行できるオープンな中国モデルを使用しました。
+事件を引き起こしたのはアメリカの非公開モデルだった。中国のオープンモデルがその調査に役立ちました。
+このエピソードは、クローズド AI が常に安全であるという議論を複雑にします。
+米国は中国による先端チップへのアクセスを制限し、陸上の半導体製造に数十億ドルを費やし、データセンターと電力の大規模増強を奨励してきた。一方、Zhipu や Moonshot AI などの中国の研究所は、米国の主要システムの数分の 1 のコストで有能なオープン モデルをリリースしました。
+トランプ政権は現在、中国製モデルへの規制を検討していると伝えられている。しかし、禁止されても、これらのモデルが世界中に広がるのを止めることはできません。それは単にアメリカの開発者を傍観者に置くだけかもしれない。
+中国には、オープンウェイトAIを推進する明確なインセンティブがある。改良が進むたびに強力なモデルが安くなり、クローズドシステムへのアクセスに割増料金を請求する米国企業の優位性が弱まる。
+OpenAI と Anthropic には逆のインセンティブがあります。彼らのビジネスは、最高のモデルを独占的に維持することにかかっています。 Anthropic CEOのDario Amodei氏も、誰でもダウンロードできるモデルは監視が難しく、悪意のある者によって改変される可能性があると警告した。
+こうした安全保障上の懸念は現実であるが、中国が世界の他の国々が築く基盤となることを許すリスクも同様である。
+オープンソースの競争に勝つ方法は、禁止ではなく、アウトビルドすることです。
+米国は、大学や新興企業にコンピューティング能力へのアクセスを与え、米国のオープンモデル開発者に政府契約を与え、それらのモデルを安全に実行するために必要なセキュリティツールに資金を提供することで、チップをサポートしたのと同じようにオープンAIをサポートできる可能性がある。
+企業はすでに代替案を求めており、オープン モデルによりコストが削減され、企業は機密データを自社のシステム内に保管できるようになります。
+AIプラットフォームTogetter AIのCEO、Vipul Ved Prakash氏は、「これらの企業が保有するデータはまさに戦略的資産だ」と述べた。同氏は、強力なクローズドモデルのメーカーにそれを送信することで、企業は「ビジネスのレシピ」を漏らす危険があると述べた。
+導入は急速に進んでいます。 6 月の最終週、OpenRouter が追跡したトラフィックの 48% を中国モデルが占め、前年同期の 20% から増加しました。米国モデルは74％から32％に低下した。
+AI の将来は、誰が最も賢い単一モデルを構築するかによって決まるわけではないかもしれません。それは、他の人が実行するモデルを誰が構築するかによって決まるかもしれません。
+今、それはますます中国です。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
+    publishedAt: "2026-07-30T18:51:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "apple-and-amazon-report-after-the-bell-h-8cffe7b7",
+    title: "Apple and Amazon report after the bell. Here's what the options market is saying",
+    titleJa: "AppleとAmazonは鐘の後に報告する。オプション市場の意見は次のとおりです",
+    summaryJa: "アップルとアマゾンの今日午後の業績次第で、株式市場がこれまでのところ厳しい週を堅調に終えることができるかどうかが決まるだろう。強気派にとって残念なことに、近いうちにこの決算で大手ハイテク企業2社を同時に勝ち取るのは難しい。先週はアルファベットとテスラが共に下落し、昨夜はマイクロソフトが反発する一方でメタは下落した。今年これまでのところ、株価が異なる方向に進み、オプションの流れが混在していることから、アップルとアマゾンが同じ運命をたどることは容易に想像できる。",
+    bodyOriginal: `Earnings on deck this afternoon for Apple and Amazon will likely decide if the stock market can end what's so far been a rough week on solid footing.
+Unfortunately for bulls it's been tough to get two big-tech winners at once this earnings soon — last week Alphabet and Tesla fell together, and last night Microsoft rallied while Meta fell. It's easy to see Apple and Amazon finding the same fate, with the stocks going in different directions so far this year and options flows mixed.
+Apple is up 25% year to date, making records and a seeing a 7% rally since the S&P 500 peaked on June 2. Options traders are braced for a bigger-than-usual move on earnings, with implied volatility pricing a 3.4% move after the report drops — more than double the stock's median 1.5% move after its past four reports.
+While options flows were leaning bullish to start the week, early gain in Apple share reversed while the stock market sold off Wednesday and options traders took a more bearish lean in the stock.
+While more than $470 million of the $634 million in options premium on Apple Wednesday was tied to calls, much of it was calls sold, with net trade sentiment in the options leaning slightly bearish, according to data from SpotGamma and Barchart. The most popular contract expiring Friday by volume Wednesday was the 330-strike puts, which need a more than 3% drop to pay off.
+In Amazon, exactly flat on the year, traders look a bit more optimistic. Most of the $615 million in options premium was tied to puts Wednesday, but traders looked more likely to sell that volatility than buy it. Net trade sentiment was positive by almost $3 million and 100,000 deltas, Barchart analysis shows.
+Traders expect a 6.6% move after Amazon earnings, compared to the median 7% move the past four quarters, according to Cboe LiveVol data.`,
+    bodyJa: `アップルとアマゾンの今日午後の業績次第で、株式市場がこれまでのところ厳しい週を堅調に終えることができるかどうかが決まるだろう。
+強気派にとって残念なことに、近いうちにこの決算で大手ハイテク企業2社を同時に勝ち取るのは難しい。先週はアルファベットとテスラが共に下落し、昨夜はマイクロソフトが反発する一方でメタは下落した。今年これまでのところ、株価が異なる方向に進み、オプションの流れが混在していることから、アップルとアマゾンが同じ運命をたどることは容易に想像できる。
+アップルは年初来25％上昇し、記録を更新しており、6月2日にS&P500指数が最高値を付けて以来、7％の上昇が見込まれている。オプショントレーダーらは、レポート下落後のインプライド・ボラティリティが3.4％の上昇を織り込んでおり、過去4回のレポート後の株価の中央値1.5％の2倍以上の値動きで、通常よりも大きな利益の上昇に備えている。
+オプションの流れは週初めは強気に傾いていたが、水曜日の株式市場が売られる中、アップル株の序盤の上昇は反転し、オプショントレーダーらは株価をより弱気に傾けた。
+スポットガンマとバーチャートのデータによると、水曜日のアップルのオプションプレミアム6億3,400万ドルのうち4億7,000万ドル以上はコールに関連していたものの、その多くはコールの売りであり、オプションの純取引センチメントは若干弱気に傾いていた。水曜日に金曜日に期限が切れる最も人気のある契約は、出来高ベースで330ストライクのプットで、返済するには3％以上の下落が必要である。
+アマゾンでは年間ほぼ横ばいで、トレーダーらはもう少し楽観的な見方をしている。水曜日のオプションプレミアム6億1500万ドルのほとんどはプットに結びついていたが、トレーダーらはそのボラティリティを買うよりも売る可能性が高いとみられる。 Barchart 分析によると、純取引センチメントはほぼ 300 万ドルと 100,000 デルタ分プラスでした。
+Cboe LiveVolのデータによると、トレーダーらはアマゾンの決算後は6.6％の上昇を予想しているが、これに対し過去4四半期の上昇率の中央値は7％だった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
+    publishedAt: "2026-07-30T18:17:29+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "micron-sandisk-and-other-chip-stocks-get-ea455e05",
+    title: "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
+    titleJa: "マイクロソフトの収益を受けてマイクロン、サンディスク、その他のチップ株が大幅に上昇",
+    summaryJa: "マイクロソフトはAIに多額の資金を投じているが、財務に対しても「責任ある」アプローチをとっているとアナリストは述べた。",
+    bodyOriginal: `Microsoft is spending heavily on AI but is also taking a “responsible” approach to its financials, an analyst said.`,
+    bodyJa: `マイクロソフトはAIに多額の資金を投じているが、財務に対しても「責任ある」アプローチをとっているとアナリストは述べた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
+    publishedAt: "2026-07-30T17:36:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-57413903",
+    readTime: 2,
+  },
+  {
+    id: "british-airways-flight-called-mayday-on-e5871a34",
+    title: "British Airways flight called mayday on approach to Heathrow",
+    titleJa: "ブリティッシュ・エアウェイズ便がヒースロー空港接近でメーデーと呼ばれる",
+    summaryJa: "ブリティッシュ・エアウェイズ便がヒースロー空港接近でメーデーと呼ばれる- 公開されました",
+    bodyOriginal: `British Airways flight called mayday on approach to Heathrow
+- Published
+A British Airways flight issued a "mayday" distress call on its approach to Heathrow Airport earlier this month, according to a statement from France's accident investigation authority.
+The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings on the aircraft, before it landed without further incident.
+The UK's Air Accidents Investigation Branch (AAIB) said it was "investigating a serious incident".
+A British Airways spokesperson said the airline was assisting the AAIB with its investigation and was not legally able to comment further at this stage.
+The French Air Safety Investigation Authority, the BEA, said that as the plane approached Heathrow, there was a data system failure which triggered a stall warning.
+The crew then flew the aircraft in a different mode called "alternate law", which removes some automated flight protection systems. Another stall warning then occurred at 3,000 feet - which experts say was likely to have been just miles away from the airport.
+The urgency call the crew had already made was upgraded to mayday, indicating imminent danger.
+The BEA website attributed the statement to the AAIB, but the AAIB would not confirm it was from them.
+They issued the following statement: "The AAIB is investigating a serious incident involving a commercial aircraft which occurred on 6 July on approach to Heathrow airport."
+It said the investigation would be a correspondence investigation, meaning that no team would be sent to carry out field investigations.
+Aviation safety investigator David Gleave said there are different forms of mayday calls, and to send an urgency message was "not unusual".
+"You could have sick passengers on board who need urgent medical attention… so it's up to the captains' discretion as to what they call, but its very unusual for it to be a significant failure on board the aeroplane."`,
+    bodyJa: `ブリティッシュ・エアウェイズ便がヒースロー空港接近でメーデーと呼ばれる
+- 公開されました
+フランスの事故調査当局の発表によると、ブリティッシュ・エアウェイズ機は今月初め、ヒースロー空港に接近する際に「メーデー」救難信号を発した。
+この通報は、7月6日にドイツのデュッセルドルフ空港を出発したエアバスA320型機で行われたもので、同機は2度の失速警報を受けた後、何事もなく着陸した。
+英国の航空事故調査局（AAIB）は「重大な事件を調査している」と述べた。
+ブリティッシュ・エアウェイズの広報担当者は、同社はAAIBの調査を支援しているが、現段階では法的にこれ以上コメントできないと述べた。
+フランス航空安全調査局BEAは、同機がヒースロー空港に接近した際にデータシステムに障害が発生し、失速警報が発せられたと発表した。
+その後、乗組員は一部の自動飛行保護システムを取り除いた「代替法」と呼ばれる別のモードで航空機を飛行させた。その後、別の失速警報が3,000フィートで発生したが、専門家によれば、そこは空港から数マイル離れたところだった可能性が高いという。
+乗組員がすでに行っていた緊急通報は、差し迫った危険を示すメーデーに格上げされました。
+BEAのウェブサイトはこの声明がAAIBによるものであるとしているが、AAIBはそれが彼らからのものであるとは認めていない。
+彼らは次の声明を発表した：「AAIBは、7月6日にヒースロー空港への進入時に発生した民間航空機が関与した重大な事故を調査している。」
+同調査は通信捜査であり、現地調査を実施するチームは派遣されないことを意味すると述べた。
+航空安全調査官のデービッド・グリーブ氏は、メーデーコールにはさまざまな形があり、緊急メッセージを送ることは「珍しいことではない」と述べた。
+「緊急の治療が必要な体調不良の乗客が機内に居る可能性があります…ですから、何と呼ぶか​​は機長の裁量に任されていますが、飛行機内で重大な故障となるのは非常に異例です。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-30T17:34:26+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89dd/live/c63fb180-8c3e-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 2,
+  },
+  {
+    id: "openai-cuts-prices-for-two-of-its-gpt-5-ea0aff9e",
+    title: "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
+    titleJa: "企業がコストに敏感になる中、OpenAI は GPT-5.6 AI モデルのうち 2 つを値下げしました",
+    summaryJa: "OpenAIは木曜日、最新の人工知能モデル2つ、GPT-5.6 TerraとGPT-5.6 Lunaの価格を、一般公開から約3週間後に値下げすると発表した。同社は、企業が投資収益率を明確に把握せずに高価なモデルを導入する傾向にない、よりコスト重視の顧客ベースに対応するというプレッシャーに直面している。また、費用対効果の高いモデルを宣伝してきた中国の新興企業やハイテク大手グーグルやマイクロソフトとの競争をかわす取り組みも行っている。",
+    bodyOriginal: `OpenAI on Thursday announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna, roughly three weeks after their public release.
+The company is facing pressure to cater to a more cost-sensitive customer base, where enterprises have been less inclined to deploy expensive models without a clear picture of the return on their investments. It's also working to fend off competition from Chinese startups and tech giants Google and Microsoft, which have been touting cost-effective models.
+OpenAI launched three models as part of its GPT-5.6 series, including Sol, the most powerful offering, Terra, the mid-tier model, and Luna, its fastest offering.
+The company said Thursday that it's reducing the price of Terra by 20% to $2 per million input tokens and $12 per million output tokens. It's cutting the cost of Luna by 80% to 20 cents per million input tokens and $1.20 per million output tokens. Sol's pricing remains the same.
+"Our strategy remains focused on advancing both capability and efficiency so each generation of intelligence can accomplish more work at a lower cost," OpenAI said in a release.
+OpenAI kickstarted the AI boom with the launch of ChatGPT in 2022, prompting companies across the U.S. to rush to deploy the technology and incentivize adoption within their workforces. The era of so-called tokenmaxxing was born, where employers encouraged staffers to use as much AI as possible without worrying about costs.
+But as AI bills have ballooned, sometimes to the tune of billions of dollars, many companies have been actively working to rein in their spending. It's a shift that AI developers have been watching closely, especially as Chinese open-weight models have rapidly caught up with leading, proprietary offerings.
+Open-weight AI models are available for users to download, modify and run on their own infrastructure, and can serve as a cost-effective option for companies. Moonshot AI, a Chinese startup, released an open-weight model called Kimi K3 earlier this month that outperforms cutting-edge American offerings across some industry benchmarks, prompting a swift reaction from Silicon Valley.
+Following Moonshot's announcement, OpenAI's chief rival, Anthropic, released a new model called Claude Opus 5, which it touted as its best-performing and most cost-effective offering for many use cases. It's half the price of Claude Fable 5, the advanced model that Anthropic announced in June, even though it performs comparably across coding and knowledge work tasks.
+Microsoft CEO Satya Nadella repeatedly highlighted his company's cost-effective models during its quarterly earnings call with investors on Wednesday, following the launch of what it described as a cheap-but-performant cybersecurity model earlier this week.
+Google also debuted three new models this month that aimed to undercut competitors on cost. The company said Gemini 3.6 Flash, the strongest of its new offerings, is cheaper per task than Kimi K3 and other Chinese models.
+WATCH: OpenAI CEO Sam Altman to meet with White House Chief of Staff Susie Wiles this week`,
+    bodyJa: `OpenAIは木曜日、最新の人工知能モデル2つ、GPT-5.6 TerraとGPT-5.6 Lunaの価格を、一般公開から約3週間後に値下げすると発表した。
+同社は、企業が投資収益率を明確に把握せずに高価なモデルを導入する傾向にない、よりコスト重視の顧客ベースに対応するというプレッシャーに直面している。また、費用対効果の高いモデルを宣伝してきた中国の新興企業やハイテク大手グーグルやマイクロソフトとの競争をかわす取り組みも行っている。
+OpenAI は、GPT-5.6 シリーズの一部として、最も強力な製品である Sol、中間層モデルの Terra、および最速の製品である Luna を含む 3 つのモデルを発売しました。
+同社は木曜日、Terraの価格を20％引き下げ、入力トークン100万あたり2ドル、出力トークン100万あたり12ドルにすると発表した。 Luna のコストは 80% 削減され、入力トークン 100 万あたり 20 セント、出力トークン 100 万あたり 1.20 ドルになります。 Solの価格は変わりません。
+OpenAIはリリースで「われわれの戦略は、各世代のインテリジェンスがより低コストでより多くの作業を遂行できるように、機能と効率の両方を向上させることに引き続き重点を置いている」と述べた。
+OpenAI は、2022 年の ChatGPT の発売により AI ブームを引き起こし、全米の企業がこのテクノロジーの導入を急いで、従業員内での導入を奨励するようになりました。いわゆるトークンマックスの時代が生まれ、雇用主は従業員に対し、コストを気にせずにできるだけ多くの AI を使用するよう奨励しました。
+しかし、AI関連の費用が膨れ上がり、時には数十億ドルに達することもあり、多くの企業が支出の抑制に積極的に取り組んでいる。これは、特に中国のオープンウェイト モデルが主要な独自製品に急速に追いついてきたことから、AI 開発者が注意深く注目している変化です。
+オープンウェイト AI モデルは、ユーザーがダウンロード、変更、独自のインフラストラクチャ上で実行できるため、企業にとって費用対効果の高いオプションとして機能します。中国の新興企業ムーンショットAIは今月初め、一部の業界ベンチマークにおいて最先端の米国製品を上回るパフォーマンスを発揮する「Kimi K3」と呼ばれるオープンウェイトモデルをリリースし、シリコンバレーからの素早い反応を引き起こした。
+Moonshot の発表に続いて、OpenAI の主なライバルである Anthropic は、Claude Opus 5 と呼ばれる新しいモデルをリリースし、多くのユースケースに対して最もパフォーマンスが高く、最もコスト効率の高い製品であると宣伝しました。 Anthropic が 6 月に発表した上級モデルである Claude Fable 5 の半額ですが、コーディングとナレッジ ワーク タスク全体で同等のパフォーマンスを発揮します。
+Microsoftの最高経営責任者（CEO）サティア・ナデラ氏は、今週初めに安価だがパフォーマンスの高いサイバーセキュリティモデルと称するモデルを発表したことを受け、水曜日の投資家との四半期決算会見で同社の費用対効果の高いモデルを繰り返し強調した。
+Googleは今月、競合他社をコストで削減することを目的とした3つの新モデルも発表した。同社によると、新製品の中で最も強力なGemini 3.6 Flashは、Kimi K3や他の中国製モデルよりもタスク当たりの価格が安いという。
+注目：OpenAI CEOのサム・アルトマン氏が今週、ホワイトハウス首席補佐官スージー・ワイルズ氏と会談`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
+    publishedAt: "2026-07-30T17:27:49+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
     id: "ai-investor-leopold-aschenbrenner-forced-3b011eba",
     title: "AI investor Leopold Aschenbrenner forced to unwind all public stock positions after steep losses, sources say",
     titleJa: "AI投資家レオポルド・アッシェンブレナー氏は大幅な損失を受け、すべての公開株ポジションの解消を余儀なくされたと関係者が語る",
@@ -1585,670 +1871,6 @@ Related topics
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618c/live/9a13a080-8b53-11f1-8322-5bf52455cf04.jpg",
     readTime: 2,
-  },
-  {
-    id: "procter-gamble-revenue-misses-estimates-9698e08c",
-    title: "Procter & Gamble revenue misses estimates as volume stays unchanged",
-    titleJa: "プロクター・アンド・ギャンブルの売上高は予想を下回る、売上高は変わらない",
-    summaryJa: "プロクター・アンド・ギャンブルは水曜日、同社製品に対する圧倒的な需要により売上高が予想を下回ったため、まちまちの四半期決算を報告した。同社株は午前の取引で約３％下落した。",
-    bodyOriginal: `Procter & Gamble on Wednesday reported mixed quarterly results, as underwhelming demand for its products resulted in weaker-than-expected sales.
-Shares of the company fell roughly 3% in morning trading.
-Here's what Procter & Gamble reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $1.43 adjusted vs. $1.41 expected
-- Revenue: $21.2 billion vs. $21.38 billion expected
-P&G reported fiscal fourth-quarter net income attributable to the company of $3.04 billion, or $1.26 per share, down from $3.62 billion, or $1.48 per share, a year earlier.
-Excluding restructuring costs, transaction gains and other items, the company earned $1.43 per share.
-Net sales rose 2% to $21.2 billion. The company's organic revenue, which excludes acquisitions, divestitures and currency fluctuations, was unchanged for the quarter, thanks to flat volume across P&G's portfolio.
-During P&G's full fiscal year 2026, the company has reported volume growth in just one quarter. Like many consumer companies, it has seen demand for its products weaken as shoppers have grown more value conscious, opting for value packs or stretching their products' lifespan longer.
-"For the fourth quarter, we saw improving global share trends versus prior period, but headline results were impacted by trade dynamics in the U.S. and the spike in input costs," CFO Andre Schulten said on the company's earnings conference call.
-He later said that P&G plans to return to growing its sales through a mix of both price and higher volume.
-"In a broader sense, we've had in the post-Covid period, 100% of growth driven by price," Schulten said. "We will return ... to a more balanced model."
-The company has been focusing on innovation and strengthening its core brands, like Tide, to win back shoppers.
-Schulten said that P&G plans to spend more on media, which has grown increasingly fragmented, making it more difficult to connect with consumers. The company is also navigating the changing world of digital commerce, which now includes shopping agents and artificial intelligence-powered search.
-Which segments are selling
-For the fiscal fourth quarter, P&G's beauty division was the top performer, posting 3% volume growth. The segment includes Pantene shampoo and Olay and SK-II skincare products.
-Fabric and home care was the only other reporting segment to see volume growth. The division, which includes Tide detergent and Swiffer, reported that its volume rose 1% in the quarter.
-P&G's baby, feminine and family care division as well as its grooming business both reported that volume fell 1%.
-Health care was the worst performer for P&G this quarter. The division, which houses Oral-B and Vicks, saw its volume shrink 3%, fueled by declining sales of its oral care products.
-Looking ahead to the next fiscal year, the company is not projecting a significant upswing in demand for its products.
-For fiscal 2027, P&G expects core earnings per share in a range of $6.89 to $7.11. The company is also projecting all-in sales growth in the range of 1% to 3% compared with the prior year.
-"The low end of the range protects for additional softness in underlying market growth rates," Schulten said. "The high end would require acceleration in underlying market growth rates and market shares."
-Wall Street was anticipating earnings per share of $7.04 and revenue growth of 2.7% for fiscal 2027.
-P&G is currently estimating a $1 billion headwind after taxes from higher costs for raw materials, energy and transportation. Combined with its projections for a higher net interest expense, lower non-operating income and unfavorable exchange rates, P&G anticipates an 8% — or 56 cent — drag on its earnings per share for fiscal 2027.
-P&G also announced Wednesday that CEO Shailesh Jejurikar will become chair of the board, effective Aug. 1, in addition to his current role. He replaces former chief executive Jon Moeller.`,
-    bodyJa: `プロクター・アンド・ギャンブルは水曜日、同社製品に対する圧倒的な需要により売上高が予想を下回ったため、まちまちの四半期決算を報告した。
-同社株は午前の取引で約３％下落した。
-以下は、LSEGによるアナリスト調査に基づいて、プロクター・アンド・ギャンブルが報告した内容とウォール街の予想を比較したものである。
-- 1 株当たり利益: 調整後 1.43 ドル、予想 1.41 ドル
-- 収益: 212 億ドル対予想 213 億 8,000 万ドル
-P&Gは、同社に帰属する会計年度第4四半期の純利益が30億4000万ドル（1株当たり1.26ドル）と、前年同期の36億2000万ドル（1株当たり1.48ドル）から減少したと報告した。
-リストラ費用や取引益などを除くと、同社は１株当たり１．４３ドルの利益を上げた。
-純売上高は２％増の２１２億ドルとなった。買収、売却、為替変動を除いた同社の本業収益は、P&Gのポートフォリオ全体で売上高が横ばいだったため、当四半期を通じて変化はありませんでした。
-P&G の 2026 年度通期中、同社はわずか 1 四半期で販売量の増加を報告しました。多くの消費者企業と同様に、買い物客がバリューパックを選択したり、製品の寿命を延ばしたりするなど、価値に対する意識が高まるにつれ、同社製品の需要が弱まっていくのを目の当たりにしている。
-アンドレ・シュルテン最高財務責任者（ＣＦＯ）は決算会見で、「第４・四半期については、世界シェアの傾向が前期に比べて改善したが、主要業績は米国の貿易動向と投入コストの高騰の影響を受けた」と述べた。
-同氏は後に、P&Gは価格と販売量の増加の両方を組み合わせて売上を伸ばす計画に戻るつもりだと語った。
-シュルテン氏は「広い意味で、新型コロナウイルス感染症以降の成長は100％価格主導だった」と述べた。 「私たちは…よりバランスの取れたモデルに戻ります。」
-同社は、買い物客を取り戻すためにイノベーションに注力し、Tideなどの中核ブランドを強化している。
-シュルテン氏は、P&Gはますます断片化が進み、消費者とのつながりがより困難になっているメディアへの支出を増やす計画だと述べた。同社はまた、現在ではショッピング エージェントや人工知能を利用した検索を含むデジタル コマースの変化する世界にも対応しています。
-どのセグメントが売れているのか
-会計年度第 4 四半期では、P&G の美容部門が 3% の販売量増加を記録し、最高の業績を上げました。このセグメントには、パンテーン シャンプー、オーレイおよび SK-II スキンケア製品が含まれます。
-ファブリックおよびホームケアは、他の報告セグメントで唯一販売量が増加しました。 Tide洗剤とSwifferを含む同部門は、同四半期の取扱量が1%増加したと報告した。
-Ｐ＆Ｇのベビー、フェミニン、ファミリーケア部門とグルーミング事業はいずれも販売量が１％減少したと報告した。
-P&Gにとって今四半期の業績が最も悪かったのはヘルスケアだった。オーラルBとヴィックスを擁する同部門は、オーラルケア製品の売上減少により、売上高が3％縮小した。
-来年度に向けて、同社は製品の需要が大幅に増加するとは予想していません。
-P&Gは2027年度の1株あたりの中核利益が6.89ドルから7.11ドルの範囲になると予想している。同社はまた、総売上高が前年比 1% ～ 3% の範囲で増加すると予測しています。
-シュルテン氏は「レンジの下限は基調的な市場成長率のさらなる軟化を防ぐ」と述べた。 「ハイエンドでは、基礎的な市場成長率と市場シェアの加速が必要となるだろう。」
-ウォール街は2027年度の1株利益が7.04ドル、売上高が2.7％増加すると予想していた。
-Ｐ＆Ｇは現在、原材料、エネルギー、輸送コストの上昇により税引き後１０億ドルの逆風が生じると試算している。純支払利息の増加、営業外収益の減少、不利な為替レートの予測と組み合わせると、P&G は 2027 会計年度の 1 株当たり利益を 8% (56 セント) 押し下げると予想しています。
-Ｐ＆Ｇは水曜日、シャイレシュ・ジェジュリカール最高経営責任者（ＣＥＯ）が現在の職に加え、８月１日付けで取締役会長に就任すると発表した。同氏は前最高経営責任者ジョン・モラー氏の後任となる。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html",
-    publishedAt: "2026-07-29T14:07:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "jpmorgan-schwab-and-ubs-manage-millions-3db497d6",
-    title: "JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio",
-    titleJa: "JPモルガン、シュワブ、UBSはトランプ氏の8億5,800万ドルの投資ポートフォリオの数百万ドルを管理している",
-    summaryJa: "CNBCの分析によると、トランプ氏の資産を少なくとも8億5,800万ドル相当の口座で管理している企業には、JPモルガン、シュワブ、UBS、スティーブンス社などが含まれる。",
-    bodyOriginal: `For years, the financial institutions handling President Donald Trump's sprawling investment portfolio have remained one of the most mysterious parts of his personal finances.
-A CNBC analysis of Trump's 2025 annual financial disclosure filed with the Office of Government Ethics has linked JPMorgan Chase, Charles Schwab, UBS and Stephens Inc. to at least four of his eight numbered investment accounts: Account Nos. 3, 5, 6 and 8.
-CNBC traced the connections through firm-specific investment funds, deposit programs and credit arrangements embedded in the portfolios. Separate analyses by three financial-industry experts, who asked not to be named because of the sensitivity of the president's holdings, corroborated CNBC's findings.
-The disclosure does not always specify whether or to what extent each institution served as an investment manager, broker, custodian or in another capacity. The Wall Street Journal reported that a fifth account, Account No. 7, is managed by Schwab, though CNBC has not independently verified that relationship. Schwab declined to comment on whether Trump is a client.
-Across all eight accounts, Trump disclosed at least $858 million in assets in 2025 — up from at least $237 million a year earlier — and more than 21,000 trades during the year.
-The findings offer the clearest picture yet of who is handling Trump's portfolio and shed new light on the ties between hundreds of millions of dollars of the president's personal fortune and financial institutions.
-CNBC found no evidence that the financial relationships influenced any government action or that Trump directed any specific transaction.
-The Trump Organization told CNBC that outside financial institutions, not Trump, controlled the individual investment decisions. A spokesperson said the president's assets were placed in fully discretionary accounts that rely heavily on automated strategies to reduce potential conflicts of interest.
-"There are no conflicts of interest," White House spokesperson Anna Kelly told CNBC when asked about Trump's banking.
-Nevertheless, financial experts who spoke with CNBC said the arrangements put the firms in a sensitive position because they are tied to the wealth of a sitting president who can shape banking policy and regulation and who retains extensive domestic and foreign financial interests.
-Ross Delston, a former FDIC banking regulator and lawyer who specializes in anti-money-laundering laws, said Trump's expansive global business interests, past legal and financial troubles and broad authority over the economy create "extraordinary" compliance and reputational risks for institutions — but also bring the prospect of substantial fees and potential access to the sitting president.
-"It's quite remarkable to me that banks do seem to be interested in doing business with our president, given his history," Delston told CNBC. "They get access — access to the president of the United States. And that is known in my business as priceless."
-Delston said, "The only way to view the president would be as an ultra-high-risk client from virtually every standpoint."
-JPMorgan Chase did not respond to multiple detailed requests for comment about CNBC's findings and methodology. Stephens declined to comment.
-A UBS spokesperson told CNBC in a statement that the bank had "no comment on this."
-"As you know, we can't comment on client matters, regardless of whether a relationship exist or has ever existed," the spokesperson said.
-Inside the trading
-During Trump's entire first term, he made roughly 500 trades, according to his earlier disclosures. In 2025, that figure exceeded 21,000, driven at least in part by the automated investment strategy the Trump Organization says the president uses.
-The bulk of those trades were linked to Schwab, UBS and JPMorgan, according to a CNBC analysis comparing the volume and value of transactions associated with each account in the financial disclosure.
-Of the firms identified, Schwab appears to have the most extensive involvement with Trump's money, based on value and trading volume.
-CNBC linked the firm to Account No. 6, which held at least $163 million. The Wall Street Journal reported that Schwab manages a second account, Account No. 7.
-According to the Journal, Account No. 7 held about $302 million and the disclosure shows it generated about 10,500 transactions in 2025 — nearly half of Trump's disclosed trades. It was far the busiest and included major positions in Apple, Microsoft and Nvidia.
-"We have strict policies governed by regulation regarding client privacy and do not comment on any current or former clients," Schwab spokesperson Mayura Hooper said in a statement to CNBC. She declined to comment on accounts 6 and 7. "Schwab serves 46 million client accounts, across different backgrounds, political affiliations, professions and viewpoints — and we apply the same standards to every client relationship."
-The size and activity of both accounts associated with Schwab would not necessarily be unusual for an ultrawealthy investor, said Larry Harris, a former chief economist at the Securities and Exchange Commission. Nor would Schwab be an unusual choice for such a portfolio, Harris told CNBC.
-"This is typical for people with large portfolios, and Schwab can be cheaper and provide greater control over tax timing," said Harris, now a finance professor at the University of Southern California Marshall School of Business.
-Trump's disclosure also showed that Schwab extended a pledged-asset line of credit of more than $50 million to his trust, allowing the trust to borrow against securities without selling them. The proceeds generally cannot be used to purchase additional securities.
-Unlike other major banks such as JPMorgan and Capital One, Schwab was not among the institutions the Trump family accused of cutting ties with them after the Jan. 6 insurrection.
-The JPMorgan-linked Account No. 8 was active around the same time Trump accused the bank of "debanking" him for political reasons.
-Account No. 8 disclosed 336 trades worth up to roughly $5.5 million on Aug. 4, 2025, the day before Trump's complaints. It reported another 50 trades worth up to $785,000 on Aug. 7, when Trump signed an executive order on debanking, and continued reporting transactions through December.
-CNBC calculated the totals via the reported value ranges of each transaction.
-Trump later sued JPMorgan and CEO Jamie Dimon for $5 billion, alleging the bank closed accounts belonging to him and his businesses for political reasons and placed them on a banking "blacklist." JPMorgan did not respond to requests for comment but has previously denied the allegations and said the lawsuit has no merit.
-The case remains pending, with no hearing or trial date scheduled as the court weighs whether to return it to Florida state court or transfer it to federal court in New York.
-Other firms in addition to JPMorgan, Schwab and UBS appeared in narrower roles.
-A Stephens-linked account, Account No. 5, held $1 million to $5 million in a bank-sweep program. The same account also held up to $66,001 in Stifel's FDIC-insured bank deposit program, which experts consulted by CNBC said was consistent with a residual balance left behind as the account moved from Stifel's program to the program at Stephens program.
-Stifel did not respond to requests for comment.
-Two of Trump's disclosed accounts, Nos. 4 and 8, also held Fidelity-branded mutual funds within broader portfolios that included large-cap stocks and municipal bonds.
-"Based on the publicly disclosed materials, the president's accounts appear to include two Fidelity mutual funds," said a person with knowledge of the funds who asked not to be named because they were not authorized to speak publicly on the matter.
-Who controls the trades
-Trump has said his family oversees a trust while outside financial institutions control the investment decisions. But he hasn't named the firms.
-"My kids run it," Trump said in a July 2 CNBC interview. "I've made a tremendous amount of money, more than I would have ever thought I would have made, and I let people invest it I don't even speak to."
-Eric Trump wrote on X in May that the financial firms have "sole and exclusive authority over all investment decisions, including asset allocation, trading, rebalancing, and portfolio management."
-A Trump Organization spokesperson told CNBC that, to reduce potential conflicts of interest, Trump's portfolio relies heavily on direct indexing, an automated investment strategy increasingly used by wealthy investors.
-Rather than buying an index fund, a direct-indexing account holds individual stocks selected to track a benchmark such as the S&P 500. Software continually buys, sells and rebalances the holdings to keep the portfolio aligned with the index.
-"This is computer-driven trading," said Harris, the former SEC chief economist.
-The approach can produce large bursts of transactions during volatile markets, when price swings create more opportunities to rebalance holdings or sell depreciated stocks to reduce an investor's tax bill.
-For example, Trump's disclosures show a wave of purchases around major tariff news. On April 2, 2025, Trump announced sweeping tariffs that sent stocks tumbling. He paused most of them a week later, sending markets sharply higher, though he imposed a sweeping new tariff regime last week.
-CNBC found no evidence that Trump or his family directed the individual transactions, including anything in anticipation of the tariff decision.
-"Given that you have trustworthy fiduciaries who are involved in the process," Harris said, "it's really unlikely that any game playing is in those organizations. It's almost impossible to imagine it."
-Direct indexing can also lower an investor's tax bill through tax-loss harvesting. When one stock declines, the software can sell it to capture the loss and buy another security that preserves the portfolio's broader market exposure. Those losses can then offset capital gains elsewhere in the portfolio.
-Rules and regulations
-Federal ethics rules require that if a president is using a blind trust to manage holdings while in office, it be controlled by an independent trustee and sharply restrict communications with the beneficiary about the holdings.
-By contrast, much of Trump's wealth remains in a revocable trust of which he is the sole beneficiary, according to SEC filings. Donald Trump Jr. serves as trustee and holds sole voting power over certain assets, according to an SEC filing. A revocable trust can generally be amended — such as by replacing the trustee or changing beneficiaries — or dissolved by the person who established it.
-Every president from Jimmy Carter through Joe Biden, except Trump, either established blind trusts or limited their investments to assets generally considered unlikely to create conflicts, such as diversified mutual funds, according to the Office of Government Ethics. Biden's disclosures showed no individual stock holdings.
-The public records do not show whether Trump has exercised any power to amend or revoke the trust.
-That gap between control over individual trades and ultimate ownership also creates compliance and reputational risks for the financial institutions managing Trump's money, Delston said.
-"Banks that take him on have made a calculus that all of the truckloads of baggage that he brings is still worthwhile, whether because of the fees they can collect or other benefits of the relationship," he said.
-Banks would almost always treat a sitting president as a "politically exposed person," or PEP, under their internal risk frameworks because the office can carry heightened corruption and money laundering exposure, Delston said.
-"PEPs are expected to be given enhanced scrutiny, both at the onboarding stage and periodically through monitoring of their activities," Delston said.
-Under federal anti-money-laundering rules, banks must understand the purpose of the relationship, know what activity should normally be expected, develop a risk profile and monitor for suspicious transactions.
-For a client such as Trump, Delston said, that can mean contemporaneous review of wire transfers, checks, securities trades and other transactions to determine whether they raise suspicious-activity concerns.
-"It isn't just determining whether there is suspicious activity involved," Delston said. "His accounts at any financial institution would require real-time monitoring."
-That level of scrutiny can require additional spending on compliance personnel, technology, lawyers and outside advisors. Banks serving a sitting president also face reputational and political risks, including public scrutiny over whether the relationship could affect their dealings with the administration.
-CNBC could not determine how much the firms earned from Trump's accounts.
-"Banks charge people like the president high fees in whatever they do, in order to make up for some of the risk," Delston said. "Whether the fees are ever high enough is unknowable."`,
-    bodyJa: `長年にわたり、ドナルド・トランプ大統領の広大な投資ポートフォリオを扱う金融機関は、同大統領の個人資産の中でも最も謎に包まれた部分の一つであった。
-政府倫理局に提出されたトランプ大統領の2025年の年次財務情報開示に関するCNBCの分析では、JPモルガン・チェース、チャールズ・シュワブ、UBS、スティーブンズ社が同氏の8つの番号付き投資口座のうち少なくとも4つ（口座番号3、5、6、8）に関連付けられていることが判明した。
-CNBCは、企業固有の投資ファンド、預金プログラム、ポートフォリオに組み込まれた信用協定を通じたつながりを追跡した。金融業界の専門家３人による個別の分析（大統領の保有資産は機密性が高いため匿名を希望）は、ＣＮＢＣの調査結果を裏付けた。
-この開示は、各機関が投資マネージャー、ブローカー、カストディアン、あるいはその他の立場での役割を果たしたかどうか、あるいはどの程度の役割を果たしたかを常に特定しているわけではありません。ウォール・ストリート・ジャーナルは、5番目の口座である口座番号7がシュワブによって管理されていると報じたが、CNBCはその関係を独自に検証していない。シュワブ氏はトランプ氏が顧客かどうかについてコメントを控えた。
-トランプ氏は8つの口座すべてで、2025年の資産総額が少なくとも8億5,800万ドル（前年の少なくとも2億3,700万ドルから増加）と、年間2万1,000件以上の取引を明らかにした。
-この調査結果は、トランプ大統領のポートフォリオを誰が管理しているのかについてこれまでで最も明確な実態を明らかにし、大統領の数億ドルもの個人財産と金融機関との関係に新たな光を当てている。
-CNBCは、金融関係が政府の行動に影響を与えた、あるいはトランプが特定の取引を指示したという証拠は見つからなかった。
-トランプ・オーガナイゼーションはＣＮＢＣに対し、トランプ氏ではなく外部の金融機関が個々の投資決定を管理していると語った。報道官は、大統領の資産は潜在的な利益相反を減らすための自動戦略に大きく依存する完全裁量口座に置かれていると述べた。
-ホワイトハウスのアンナ・ケリー報道官はトランプ大統領の銀行業務について問われ、「利益相反はない」とCNBCに語った。
-それにもかかわらず、CNBCの取材に応じた金融専門家らは、両社は銀行政策や規制を形成でき、国内外の広範な金融利益を保持している現職大統領の富と結びついているため、今回の取り決めはデリケートな立場にあると述べた。
-元FDIC銀行規制当局者でマネーロンダリング防止法を専門とする弁護士のロス・デルストン氏は、トランプ大統領の世界的な事業利益の拡大、過去の法的・財政的トラブル、経済に対する広範な権限が各機関に「並外れた」コンプライアンスと評判のリスクを生み出しているが、同時に多額の手数料や現職大統領へのアクセスの可能性の可能性ももたらしていると述べた。
-デルストン氏はCNBCに対し、「大統領の経歴を考慮すると、銀行が大統領との取引に関心を示しているようであることは非常に注目に値する」と語った。 「彼らはアクセス権、つまり米国大統領へのアクセス権を得るのです。そしてそれは私のビジネスでは貴重なものとして知られています。」
-デルストン氏は、「事実上あらゆる立場から大統領を超高リスクの顧客とみなす唯一の方法だろう」と語った。
-JPモルガン・チェースはCNBCの調査結果と方法論に関する複数の詳細なコメント要請に応じなかった。スティーブンス氏はコメントを控えた。
-ＵＢＳの広報担当者はＣＮＢＣに対し、同行は「この件についてコメントはない」と声明で述べた。
-広報担当者は「ご存知のとおり、関係が存在するか、過去に存在したかに関係なく、顧客の問題についてコメントすることはできない」と述べた。
-取引の内部
-以前の暴露によれば、トランプ大統領の最初の任期全体で約500件の取引を行った。 2025年には、その数字は2万1000件を超えたが、これは少なくとも一部はトランプ・オーガナイゼーションによる大統領の自動投資戦略によるものだという。
-財務開示の各口座に関連する取引量と取引額を比較したCNBCの分析によると、これらの取引の大部分はシュワブ、UBS、JPモルガンに関連していた。
-金額や取引量から判断すると、特定された企業の中でシュワブがトランプ氏の資金に最も広範囲に関与しているとみられる。
-CNBCは同社を少なくとも1億6,300万ドルを保有する口座番号6に関連付けた。ウォール・ストリート・ジャーナルは、シュワブ氏が2番目の口座である口座番号7を管理していると報じた。
-同紙によると、口座番号7には約3億200万ドルが保管されており、その開示によれば、2025年には約1万500件の取引が発生しており、これはトランプ大統領が開示した取引のほぼ半分に相当する。それは最も多忙で、Apple、Microsoft、Nvidia の主要なポジションが含まれていました。
-シュワブの広報担当マユラ・フーパー氏はCNBCへの声明で、「当社は顧客のプライバシーに関する規制に基づいた厳格なポリシーを持っており、現在または元の顧客についてはコメントしない」と述べた。彼女はアカウント6と7についてはコメントを控えた。「シュワブは、さまざまな背景、所属政党、専門職、立場を超えて4,600万の顧客アカウントにサービスを提供しており、すべての顧客との関係に同じ基準を適用している。」
-証券取引委員会の元チーフエコノミスト、ラリー・ハリス氏は、シュワブに関連する両口座の規模と活動は、超富裕層の投資家にとって必ずしも珍しいことではない、と述べた。ハリス氏はCNBCに対し、シュワブがそのようなポートフォリオにとって珍しい選択ではないと語った。
-現在、南カリフォルニア大学マーシャル・スクールで金融教授を務めるハリス氏は、「これは大規模なポートフォリオを持つ人々に典型的なことであり、シュワブの方がより安価で、納税時期をより細かく制御できる可能性がある」と述べた。
-トランプ大統領の開示はまた、シュワブ氏が自身の信託に5,000万ドルを超える質権資産の融資枠を延長し、信託が有価証券を売却せずに借り入れできるようにしたことも示した。通常、収益を追加の有価証券の購入に使用することはできません。
-JPモルガンやキャピタル・ワンなどの他の大手銀行とは異なり、シュワブは1月6日の暴動後にトランプ一家が銀行との関係を断ったとして非難した金融機関には含まれていなかった。
-JPモルガンに関連する口座番号8は、トランプ大統領が政治的理由で同銀行を「銀行から切り離した」と非難したのとほぼ同時期に活動していた。
-口座番号8は、トランプ大統領の告訴の前日である2025年8月4日に、最大約550万ドル相当の336件の取引を明らかにした。同紙は、トランプ大統領が銀行取引廃止に関する大統領令に署名した8月7日にさらに50件の最大78万5000ドル相当の取引を報告し、12月まで取引の報告を続けた。
-CNBC は、各取引の報告された値の範囲に基づいて合計を計算しました。
-トランプ氏はその後、JPモルガンとジェイミー・ダイモン最高経営責任者（CEO）に対し、同銀行が政治的理由で同氏と同氏の事業に属する口座を閉鎖し、銀行の「ブラックリスト」に載せたとして、50億ドルを求める訴訟を起こした。 ＪＰモルガンはコメントの要請に応じていないが、これまでに疑惑を否定し、訴訟にはメリットがないと述べた。
-この訴訟は係争中であり、裁判所は訴訟をフロリダ州裁判所に差し戻すか、ニューヨークの連邦裁判所に移送するかを検討しているため、公聴会や公判の日程は予定されていない。
-JPモルガン、シュワブ、UBS以外の企業も、より狭い役割を担っているようだ。
-スティーブンスに関連する口座である口座番号 5 は、銀行掃討プログラムで 100 万ドルから 500 万ドルを保有していた。同じ口座には、スティフェルのFDIC保険付き銀行預金プログラムにも最大6万6001ドルが保管されており、CNBCが相談した専門家らは、この口座がスティフェルのプログラムからスティーブンズ・プログラムのプログラムに移行した際に残された残高と一致すると述べた。
-シュティフェル氏はコメントの要請に応じなかった。
-トランプ氏が開示した口座のうち4番と8番の2つも、大型株や地方債を含む広範なポートフォリオ内でフィデリティ・ブランドの投資信託を保有していた。
-「公開された資料によると、大統領の口座には2つのフィデリティ・ミューチュアルファンドが含まれているようだ」と、この問題について公に話す権限がないため匿名を求めたファンド関係者は述べた。
-誰が取引を管理するのか
-トランプ大統領は、外部の金融機関が投資決定をコントロールする一方で、家族が信託を監督していると述べた。しかし、同氏は企業名を明らかにしていない。
-トランプ大統領は7月2日のCNBCインタビューで「私の子供たちが経営している」と語った。 「私は自分が稼ぐだろうと思っていた以上に莫大な金を稼いだのに、口もきけない人々にその金を投資させている。」
-エリック・トランプ氏は5月にXに、金融会社は「資産配分、取引、リバランス、ポートフォリオ管理を含むすべての投資決定に関して唯一かつ独占的な権限」を持っていると書いた。
-トランプ・オーガニゼーションの広報担当者はＣＮＢＣに対し、潜在的な利益相反を減らすため、トランプ氏のポートフォリオは富裕層投資家の間で利用が増えている自動投資戦略であるダイレクト・インデックスに大きく依存していると語った。
-インデックス ファンドを購入するのではなく、直接インデックス口座には、S&P 500 などのベンチマークを追跡するために選択された個別の株式が保持されます。ソフトウェアは継続的に保有株を売買し、リバランスして、ポートフォリオをインデックスと一致させます。
-元SECチーフエコノミストのハリス氏は、「これはコンピューター主導の取引だ」と述べた。
-このアプローチでは、価格変動により保有株のバランスを調整したり、投資家の税金を減らすために減価した株式を売却したりする機会が増えるため、市場が不安定なときに大量の取引が発生する可能性があります。
-例えば、トランプ大統領の情報開示は、主要な関税ニュースを中心に購入の波が起きていることを示している。 2025年4月2日、トランプ大統領は大幅な関税を発表し、株価は急落した。同氏は先週、大幅な新たな関税制度を導入したものの、1週間後にその大半を停止し、市場を急騰させた。
-CNBCは、関税決定を見越したものも含め、トランプ大統領またはその家族が個別の取引を指示したという証拠は見つからなかった。
-「プロセスに関与する信頼できる受託者がいることを考えると、そのような組織でゲームが行われる可能性は非常に低い。想像するのはほとんど不可能だ」とハリス氏は語った。
-直接インデックスは、税損失の回収を通じて投資家の税額を下げることもできます。ある銘柄が下落した場合、ソフトウェアはその銘柄を売却して損失を補い、ポートフォリオのより広範な市場エクスポージャーを維持する別の銘柄を購入することができます。これらの損失は、ポートフォリオ内の他の場所でのキャピタルゲインを相殺することができます。
-規則と規制
-連邦倫理規則は、大統領が在任中にブラインドトラストを利用して保有株を管理する場合、独立した受託者によって管理され、保有株に関する受益者とのコミュニケーションを厳しく制限することを義務付けている。
-対照的に、SECへの提出書類によると、トランプ氏の富の多くは取り消し可能な信託に残されており、その唯一の受益者がトランプ氏である。 SECへの提出書類によると、ドナルド・トランプ・ジュニアは管財人を務めており、特定の資産について単独の議決権を保有している。取消可能な信託は通常、受託者の交代や受益者の変更などにより修正したり、設立者によって解散したりすることができます。
-政府倫理局によると、トランプ氏を除くジミー・カーター氏からジョー・バイデン氏までのすべての大統領は、ブラインドトラストを設立するか、分散投資信託など一般に紛争を引き起こす可能性が低いと考えられる資産に投資を限定していた。バイデン氏の開示では個別株の保有は示されていない。
-公的記録には、トランプ大統領が信託を修正または取り消す権限を行使したかどうかは示されていない。
-デルストン氏は、個人取引の管理と最終的な所有権との間にあるギャップが、トランプ氏の資金を管理する金融機関のコンプライアンスと評判のリスクも生み出していると述べた。
-同氏は、「同氏を取引している銀行は、徴収できる手数料や関係上のその他の利点の理由から、同氏が運んでくるトラック一杯分の荷物はすべてまだ価値があると計算している」と述べた。
-デルストン氏によると、銀行はほとんどの場合、現職大統領を内部リスク枠組みの下で「政治的に暴露された人物」（PEP）として扱う。なぜなら、大統領職は汚職やマネーロンダリングの危険が高まる可能性があるからである。
-「PEP には、新人研修段階と活動の監視を通じて定期的に監視が強化されることが期待されています」とデルストン氏は述べた。
-連邦マネーロンダリング防止規則に基づき、銀行は関係の目的を理解し、通常どのような活動が予想されるべきかを理解し、リスクプロファイルを作成し、不審な取引を監視する必要がある。
-デルストン氏によると、トランプ大統領のような顧客にとって、それは電信送金、小切手、証券取引、その他の取引を同時に審査して、不審行為の懸念を引き起こすかどうかを判断することを意味する可能性があるという。
-「疑わしい活動が関与しているかどうかを判断するだけではない」とデルストン氏は語った。 「彼の口座はどの金融機関でもリアルタイムで監視する必要があるでしょう。」
-このレベルの精査には、コンプライアンス担当者、テクノロジー、弁護士、外部アドバイザーへの追加支出が必要になる可能性があります。現職大統領に仕える銀行は、その関係が政権との取引に影響を与える可能性があるかどうかをめぐる国民の監視など、評判や政治的なリスクにも直面している。
-CNBCは、企業がトランプ氏の口座からどれだけ稼いだのかを特定できなかった。
-「銀行はリスクの一部を補うために、大統領のような人物に何をするにも高額な手数料を請求する」とデルストン氏は語った。 「手数料がこれまでに十分に高いかどうかは不明です。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html",
-    publishedAt: "2026-07-29T14:03:23+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "is-ai-facing-a-big-financial-reckoning-f0f610c7",
-    title: "Is AI facing a big financial reckoning?",
-    titleJa: "AI は大きな財政的清算に直面しているでしょうか?",
-    summaryJa: "AI は大きな財政的清算に直面しているでしょうか?- 公開されました",
-    bodyOriginal: `Is AI facing a big financial reckoning?
-- Published
-Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.
-Shares in Korean chip makers SK Hynix and Samsung are down 46% and 35% respectively over the last month as investors worry the recent boom in demand for the chips that power AI is unsustainable.
-The South Korean stock market is notoriously volatile, but concerns have spilled over into the big US companies with Micron and Intel which have seen falls of 28% and 35% since last month.
-"The AI bubble hasn't burst but it's letting out air," leading tech investor Eileen Burbidge told the BBC, as a number of factors in different parts of the AI ecosystem are darkening the mood.
-China breakthrough
-One of the triggers for the recent falls was a reported breakthrough in the chip manufacturing process by a Chinese company, potentially making China more self-sufficient in chip design and production.
-That has added to lingering concerns that the big AI companies – Meta, Alphabet, Open AI, Anthropic – will find it hard to charge end users enough to justify the hundreds of billions being spent on buying the chips and building the data centres that power the technology.
-While increased spending on AI has historically been welcomed by investors in the so called hyperscalers, dialling up the spending has recently not been met with the former enthusiasm.
-Meta shares are down 15% over the last month, while SpaceX – which is predominantly an AI company - has seen its shares fall 14% from its much-hyped IPO debut and nearly 50% from its peak in June.
-Meanwhile Apple – which has largely sat out the AI arms race – has seen its shares rise 21% over the last month to reclaim its title as the world's most valuable company from chip maker Nvidia.
-London's benchmark FTSE 100 index, which does not contain any major tech companies, also briefly touched a record high on Wednesday morning - one of the few periods where it has benefited from not being tech-heavy.
-Growing concerns about AI
-Some have likened the transformative potential of AI to the introduction of electricity or the railways. While it is true that the railroads transformed economies – particularly of the US – plenty of people lost money along the way. Unlike rail tracks – which once built are good for decades – data centres are likely to need upgrading frequently to include the latest and fastest processors.
-Add to that lot, concerns that some of the big AI companies have taken big stakes or lent money to each other leading to circular funding that means that any potential failures could have a damaging impact on the fortunes of others.
-There is also increasing cultural opposition to the build out and adoption of AI.
-A growing number of national, state or local governments are pausing, banning or restricting new data centre construction on environmental grounds thanks to their vast water and energy needs.
-Meanwhile, high profile AI advocates have found themselves booed by students who fear that AI will replace many graduate level jobs.
-Despite all of that, Eileen Burbidge is still positive. "I see the glass half full - if you bought shares in chip makers a year ago you are feeling pretty good right now."
-Shares in Samsung and SK Hynix are up threefold and fivefold respectively over the last year, leading many to conclude that caution and profit taking after such massive gains was inevitable – and indeed healthy.
-But there is no doubt that investors are watching companies plans for spending and their projections for when they get paid back with post euphoric scrutiny.
-Related topics
-- Published1 day ago
-- Published2 days ago`,
-    bodyJa: `AI は大きな財政的清算に直面しているでしょうか?
-- 公開されました
-チップメーカーの株価急落で、AI関連企業をめぐる高揚感が薄れつつあるのではないかと投資家の懸念が高まっている。
-AIを駆動するチップに対する最近の需要ブームが持続不可能であると投資家が懸念しているため、韓国のチップメーカーSKハイニックスとサムスンの株価は先月でそれぞれ46％と35％下落した。
-韓国の株式市場は不安定なことで有名だが、その懸念はマイクロンやインテルなどの米国大手企業にも波及し、先月以来２８％と３５％下落した。
-AIエコシステムのさまざまな部分にある多くの要因が雰囲気を暗くしているとして、有力ハイテク投資家のアイリーン・バービッジ氏はBBCに対し、「AIバブルは崩壊していないが、空気が漏れてきている」と語った。
-中国の躍進
-最近の下落の引き金の一つは、中国企業によるチップ製造プロセスの画期的な進歩が報告されており、これにより中国のチップ設計と生産の自給自足がさらに進む可能性がある。
-このため、メタ、アルファベット、オープンAI、アンスロピックなどの大手AI企業は、チップの購入とテクノロジーを動かすデータセンターの建設に費やした数千億ドルを正当化できるほどの料金をエンドユーザーに請求するのが難しいのではないかという懸念が根強く残っている。
-AIへの支出の増加は歴史的に、いわゆるハイパースケーラーの投資家に歓迎されてきたが、最近では支出の増加は以前のような熱意を持って迎えられていない。
-メタ株は先月で15％下落し、主にAI企業であるスペースXの株価は、大々的に宣伝されたIPOデビューから14％下落し、6月のピークからは50％近く下落した。
-一方、AI軍拡競争からほぼ撤退してきたAppleは、先月株価が21%上昇し、チップメーカーのNvidiaから世界で最も価値のある企業の座を取り戻した。
-大手ハイテク企業が含まれていないロンドンのベンチマークFTSE100指数も水曜朝に一時過去最高値を更新したが、これはハイテク株に偏っていないことで恩恵を受けた数少ない期間の一つだ。
-AIに対する懸念の高まり
-AI の変革の可能性を電気や鉄道の導入に喩える人もいます。鉄道が経済、特に米国の経済を変えたのは事実ですが、その過程で多くの人がお金を失いました。一度建設されれば何十年も使用できる鉄道線路とは異なり、データセンターは最新かつ最速のプロセッサを搭載するために頻繁にアップグレードする必要がある可能性があります。
-それに加えて、一部の大手 AI 企業が多額の株式を取得したり、相互に資金を貸し付けたりして循環資金調達につながっているのではないかという懸念もある。これは、潜在的な失敗が他の企業の運命に悪影響を与える可能性があることを意味している。
-AI の構築と導入に対する文化的な反対も増えています。
-膨大な水とエネルギーの需要のため、環境上の理由から新しいデータセンターの建設を一時停止、禁止、または制限する国、州、地方自治体が増えています。
-一方、知名度の高いAI支持者らは、大学院レベルの仕事の多くがAIに取って代わられるのではないかと懸念する学生らからブーイングを受けていることに気づいた。
-それにもかかわらず、アイリーン・バービッジは依然として前向きです。 「ガラスが半分も埋まっているのがわかります。1年前にチップメーカーの株を買った人なら、今はかなり良い気分だと思います。」
-サムスンとSKハイニックスの株価は昨年、それぞれ3倍と5倍に上昇しており、このような大幅な上昇後の警戒と利益確定は避けられず、実際に健全であると多くの人が結論づけている。
-しかし、投資家が企業の支出計画と、陶酔後の精査を受けていつ返済されるかという予測に注目していることは間違いない。
-関連トピック
-- 1 日前に公開
-- 2 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-29T13:49:55+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/5f73f4d0-8b52-11f1-8139-b39d1c7486b2.jpg",
-    readTime: 4,
-  },
-  {
-    id: "humana-tops-quarterly-estimates-maintain-6d567fff",
-    title: "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
-    titleJa: "ヒューマナは四半期予想を上回り、医療費が横ばいのため利益見通しを維持",
-    summaryJa: "ヒューマナは水曜日、医療保険会社の医療サービスへの支出が予想と一致したため、予想を上回る第2四半期の結果を報告した。同社はまた、2026年の調整後利益見通しを1株当たり9ドル以上と据え置いた。",
-    bodyOriginal: `Humana on Wednesday reported second-quarter results that topped estimates, as the health insurer's spending on medical services came in line with expectations.
-The company also maintained its 2026 adjusted profit outlook of at least $9 per share.
-The earnings beat was driven by strength across Humana's insurance business and CenterWell healthcare services unit, Humana CFO Celeste Mellet said in an interview. She said medical and pharmacy cost trends tracked in line with Humana's expectations across new and existing members. The company saw "slight favorability" in medical costs in the inpatient space, particularly among members receiving care from value-based providers, she added.
-Still, in a Wednesday note, Cantor Fitzgerald analysts called the unchanged profit outlook a "disappointment" after recent earnings beats and guidance raises seen by other insurers overseeing privately run Medicare Advantage plans. Investors have been ratcheting up their expectations for the industry as some companies hike their outlooks and get a better handle on rising medical costs in those plans – an issue that has been dogging the broader sector for more than two years.
-Shares of Humana fell more than 4% in premarket trading despite the solid quarter. The company is one of the largest Medicare Advantage providers serving people aged 65 and older as well as people with disabilities.
-Here's what the company reported for the second quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $7.61 adjusted vs. $7.22 expected
-- Revenue: $40.87 billion vs. $40.61 billion expected
-The company posted second-quarter net income of $694 million, or $5.73 per share, compared with $545 million, or $4.51 per share, in the same period a year ago. Excluding items like amortization and impairment charges, Humana earned $7.61 per share.
-Revenue climbed to $40.87 billion from $32.39 billion in the prior-year quarter. The company's insurer and Centerwell unit both topped analysts' sales estimates for the quarter, according to StreetAccount.
-Insurers, particularly those that run Medicare Advantage plans, have been pinched by an influx of people seeking care they delayed post-pandemic and high-cost specialty drugs like GLP-1s, among other factors.
-But Humana's medical benefit ratio — a measure of total medical expenses paid relative to premiums collected — came in at 91.2% for the second quarter, which is in line with what analysts were expecting. Mellet said the ratio also matched the company's expectations for the quarter across both new and current members.
-"I think that it's a combination of just [medical cost] trend stabilizing and then our actions as well to help drive better health outcomes for our members and our patients," Mellet said.
-Still, the ratio is slightly higher than the 89.9% reported in the year-earlier period. A lower ratio typically indicates that the company collected more in premiums than it paid out in benefits, resulting in higher profitability.
-Mellet said medical cost expectations for next year are "fairly consistent." The company is watching to see if services such as inpatient admissions will continue to decline this year, but she said "at this point, we call medical costs more stable."
-Meanwhile, pharmacy medical cost trends remain "very elevated," driven by drug prices and the launch of new medicines, Mellet noted. She said those costs will be slightly higher next year compared to 2026, but added that it's a broader drug cost issue, not a question of member demand.
-Mellet said Humana expects changes to its 2027 Medicare Advantage plans to help improve profitability and put the company on track to reach a sustainable pretax margin of at least 3% by 2028. She said the insurer also remains confident in its ability to boost earnings by expanding membership, improving the quality ratings of its Medicare Advantage plans, maintaining pricing discipline and controlling costs.`,
-    bodyJa: `ヒューマナは水曜日、医療保険会社の医療サービスへの支出が予想と一致したため、予想を上回る第2四半期の結果を報告した。
-同社はまた、2026年の調整後利益見通しを1株当たり9ドル以上と据え置いた。
-ヒューマナの最高財務責任者セレステ・メレット氏はインタビューで、利益の伸びはヒューマナの保険事業とセンターウェル・ヘルスケア・サービス部門全体の好調によってもたらされたと述べた。同氏は、医療費と薬局費の傾向は、新規および既存の会員全体にわたってヒューマナの期待に沿って推移していると述べた。同社は、特に価値ベースの医療提供者から治療を受けている会員の間で、入院患者分野の医療費が「若干有利」であると見ていると同氏は付け加えた。
-それでも、キャンター・フィッツジェラルドのアナリストらは水曜日のメモで、最近の利益が上回ったり、民営のメディケア・アドバンテージプランを監督する他の保険会社が見込んだガイダンスの引き上げを受けて、利益見通しの据え置きは「失望」であると述べた。一部の企業が見通しを上方修正し、その計画で医療費の増加にうまく対処できるようになる中、投資家は業界に対する期待を徐々に高めているが、この問題は業界全体を2年以上悩ませている。
-ヒューマナの株価は好調な四半期にもかかわらず、市場前の取引で４％以上下落した。同社は、65 歳以上の人々や障害のある人々にサービスを提供する最大のメディケア アドバンテージ プロバイダーの 1 つです。
-LSEGによるアナリスト調査に基づく、同社の第2四半期の報告とウォール街の予想を比較したものは以下の通りだ。
-- 1 株当たり利益: 調整後 7.61 ドル、予想 7.22 ドル
-- 収益: 408.7億ドル対予想406.1億ドル
-同社の第2四半期純利益は6億9,400万ドル（1株あたり5.73ドル）で、前年同期は5億4,500万ドル（1株あたり4.51ドル）でした。償却費や減損費用などの項目を除くと、ヒューマナは1株あたり7.61ドルの利益を上げた。
-売上高は前年同期の323億9000万ドルから408億7000万ドルに増加した。ストリートアカウントによると、同社の保険会社とセンターウェル部門はいずれもアナリストの同四半期売上高予想を上回った。
-保険会社、特にメディケア・アドバンテージプランを運営する保険会社は、パンデミック後に遅れた治療を求める人々の殺到や、GLP-1などの高額な専門薬などの影響で窮地に陥っている。
-しかし、第2四半期のヒューマナの医療給付率（徴収した保険料に対して支払われた医療費の総額を示す指標）は91.2％となり、アナリストの予想と一致した。メレット氏は、この比率は新規会員と既存会員の両方について、同社の同四半期の予想と一致していると述べた。
-「これは、（医療費の）傾向の安定化と、会員と患者の健康状態の向上を促進するための私たちの行動の組み合わせだと思います」とメレット氏は語った。
-それでも、この比率は前年同期の 89.9% よりわずかに高くなります。通常、比率が低いということは、企業が給付金として支払った額よりも多くの保険料を徴収しており、その結果、収益性が高いことを示しています。
-メレット氏は、来年の医療費予想は「かなり一貫している」と述べた。同社は今年も入院などのサービスが減少し続けるかどうかに注目しているが、「現時点では医療費はより安定していると言える」と述べた。
-一方、薬局の医療費傾向は、薬価と新薬の発売によって依然として「非常に上昇している」とメレット氏は指摘した。同氏は、来年のこれらの費用は2026年と比較して若干高くなるだろうと述べたが、これはより広範な薬剤費の問題であり、会員の需要の問題ではないと付け加えた。
-メレット氏は、ヒューマナは2027年のメディケア・アドバンテージ計画の変更により収益性が向上し、2028年までに持続可能な税引き前利益率少なくとも3％に達する軌道に乗せられると期待していると述べた。同保険会社はまた、会員拡大、メディケア・アドバンテージ計画の品質評価の向上、価格設定規律の維持、コスト管理によって収益を押し上げる能力にも引き続き自信を持っていると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
-    publishedAt: "2026-07-29T13:23:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "nike-was-once-china-s-sneaker-king-here-9d61b297",
-    title: "Nike was once China's sneaker king. Here's why its sales have fallen 30%",
-    titleJa: "ナイキはかつて中国のスニーカー王でした。売上が30%減少した理由はここにある",
-    summaryJa: "どう考えても、ナイキの中国事業は全力で取り組んでいるはずだ。スポーツ関連製品は中国で最も急速に成長している消費者カテゴリーであり、スポーツや運動への参加はここ数十年で最高レベルにあります。 GlobalData によると、スポーツウェア市場全体は、健康的な生活への新たな注目により、過去 5 年間で 51% 急成長しました。",
-    bodyOriginal: `By all accounts, Nike's business in China should be firing on all cylinders.
-Sports-related products are the fastest growing consumer category in China and participation in sports and exercise is at its highest level in decades. The overall sportswear market has ballooned 51% in the past five years, fueled by a new focus on healthy living, according to GlobalData.
-But instead of thriving during China's sports renaissance, Nike's business in the region is languishing. Sales have fallen from the prior year eight quarters in a row, and the overall business has shrunk 30% since 2021, with annual revenue hitting its lowest level in eight years at the end of May.
-China was once Nike's fastest-growing region, beloved by investors for its high margins and potential for sustained growth. Now, it's the company's smallest market and has become a drain on a global turnaround that some on Wall Street believe is taking too long.
-Some U.S. analysts expect Nike's China business to recover once its North America operations stabilize, but experts on the ground told CNBC its challenges in the region are deeper, and far different, from what it faces at home. Young Chinese shoppers are increasingly choosing domestic brands over expensive foreign names as part of a larger "China Chic" movement, and consumers are hungry for a localized assortment — not the same product that's being replicated from Utah to Shanghai. Nike is also working to overhaul its distribution model in China, which critics say has become messy, overly complex and driven by discounts.
-"In a way, Nike has just become irrelevant," said Yaling Jiang, the founder of consumer research firm ApertureChina and an expert on the Chinese consumer. "I don't think young people can remember what's the last new thing they've done. But if you mention Adidas to them, they will tell you about … their pet clothes, pet jerseys, or their China jackets."
-During its most recent earnings call, Nike's outgoing finance chief Matt Friend couldn't say when the China business would return to growth, telling analysts that revenue trends in the near term "will be in line" with recent performance and "profitability will bottom before sales."
-In January, Nike CEO Elliott Hill announced Cathy Sparks, a 25-year Nike veteran, would become the next vice president and general manager of Greater China, reporting directly to him.
-In an interview with CNBC, she said Nike is taking the steps it needs to reconnect with Chinese consumers.
-"The one thing that I have certainly learned over the last six months is that the Chinese consumer has changed and they have high standards for what they want through product connections, engagement with the brand," said Sparks. "We know that if we can design footwear and apparel, lifestyle or performance, that's specifically targeted towards the unique needs of Chinese consumers, we'll drive full price revenue."
-A Nike spokesperson pushed back on the idea that the company has lost relevance in the region and said what's changed is younger shoppers are looking for "hyperlocal connections," including through events and broader cultural moments.
-"Nike has been in China for more than 40 years, and from day one, our approach has been to start with local consumer insight and turn that insight into inspiration, innovation and storytelling that can spark movement," the spokesperson said.
-How 'China Chic' changed the sneaker market
-When Nike turned to China as its next major growth market in the mid-2000s, it won by largely replicating its global strategy and betting that popular clothes and shoes in the Western world would also land with Chinese shoppers.
-For a time, the bet was right.
-"The premium brand at the time that was available was Nike. Nike was just clearly better. They had cooler designs. They were more expensive. There was more brand cache," said a retail consultant based in Shanghai who advises domestic and international brands, including Deckers and Adidas, and asked not to be named to protect client relationships.
-"If you go back to the early 2000s, if consumers had some money to spend, they were really quite image conscious. They wanted to show that they had whatever the nice thing was and at the time, Nike was it."
-By the end of fiscal 2021, Nike's annual revenue in China hit an all time high of $8.29 billion. But in the backdrop, the tide was starting to shift against Western brands.
-In March 2021, a previous statement Nike made saying it was "concerned" about reports of forced labor in the Xinjiang region resurfaced, leading some Chinese consumers to call for a nationwide boycott and post videos online of them burning their sneakers. Popular Chinese actor Wang Yibo terminated his contract as a representative for Nike as domestic competitors Anta and Li-Ning doubled down on their use of Xinjiang cotton, using the conflict as a nationalistic marketing opportunity.
-The controversy, which also impacted other Western brands that put out similar messaging, helped supercharge a political campaign that Chinese President Xi Jinping started years earlier called Guochao, or "China Chic" in English. It was designed to drum up pride in Chinese made and designed products and promote domestic brands over international ones.
-"In line with the period of 2010 to just before Covid, people did feel like maybe they were inferior if they wear Chinese brands … but the elevating cultural confidence campaign really shifted that mindset," Jiang said. "What this political campaign does is it also encouraged a lot of e-commerce platforms, including Alibaba's Taobao, Tmall and JD.com, to have a separate section just for the China Chic brands and … people started adopting this China Chic mindset and started feeling like owning something from your own culture is cooler than owning foreign brand."
-Now, many younger consumers feel more connected to domestic brands like Anta and Li-Ning over premium, foreign brands like Nike, said Tracy Dai, the director of operations at consulting firm China Skinny, which helps overseas companies enter China or expand there.
-"Years ago when you're talking to a high school boy asking which sports shoes you may want, they probably say Nike or Adidas, but right now if you ask them, they say Anta or Li-Ning," Dai said. "[Nike] probably is not that cool to them anymore."
-A Nike spokesperson said all brands in China are facing intense competition and a "more demanding consumer environment" and it believes its efforts to reset the region "put us on the right path to win back consumers."
-Beyond nationalism, Nike's decline in China is also about value.
-In the 20 years since Nike started supercharging its expansion in China, domestic brands have gotten better at production, marketing and brand building.
-At the same time, Chinese consumers have become more practical and selective, prioritizing value and innovation over branding, said Wei Kan, who spent around 15 years at Nike and Converse in China and Taiwan before starting his own brand consultancy firm Conduit Asia. As shoppers become more involved with sports and niche fitness activities, highly technical products are becoming more popular than Nike's assortment.
-"Nike is still more like a global, generalist brand at this moment. At the same time, a lot of products, the innovation pipeline is actually slower than the local brands and also the competitors," said Kan. "Chinese consumers are very sophisticated compared with like five or 10 years ago ... it all goes back to how the consumer perceives what kind of value they want to get from a shoe."
-Nanjing styles via Portland, Oregon
-While domestic brands have become major market leaders in China, some international brands are still winning, too. Lululemon's comparable sales, which exclude new store openings, grew 20% in China in fiscal 2025, while Adidas brand revenue grew 13% in the region during the same period.
-Similar to Nike, Adidas had seen its business dramatically slow in China, but it's now growing again after the company shifted its focus to local product creation, decentralized decision-making and empowered local teams.
-For example, Adidas's local team designed and released its mega-viral Chinese Track Top jacket earlier this year in celebration of the Chinese New Year. The jacket sold out within 27 minutes and became a global phenomenon, with some on social media saying they flew to China specifically to buy the item or spent hundreds to snag one through reseller sites like StockX.
-It's also nailing local marketing. Recently, Adidas botched a translation on its website in the product description for a jacket and ended up becoming a viral meme. Rather than ignoring the meme, it created a T-shirt with the mistranslation on the front, Jiang said.
-Meanwhile, experts said Nike has struggled to create the same kind of localized products and marketing. During the World Cup, its marketing campaigns came off as similar to what it was doing a decade ago, said Jiang.
-Part of the issue is that the Greater China team gets limited autonomy to release products and campaigns quickly without oversight from the corporate office in Portland, analysts said.
-"So everything, especially in terms of design, everything is actually coming from global," said Kan, who worked in marketing and branding for Nike and Converse in the region before leaving the company in November 2024. "There are very limited room for the local teams to build and also design the locally relevant products to the consumers. I think that is actually the biggest issue for the Chinese consumers here."
-When asked about Nike's decision-making being concentrated at its headquarters, Sparks said the characterization was "not unfair" but added there is "nobody checking any of this work telling us yes or no."
-"I have felt from the moment I've landed in China that our local team has full autonomy to do what we need. Of course, working within the guardrails that are brand right," said Sparks. "I'm seeing that come to action with the marketing that we've put out. We are localizing retail concepts. The product design that you're gonna see from this team is really authentically Chinese, very relevant."
-Last week, Sparks announced the company had hired its first-ever Greater China vice president of local product creation, who will be focused on building an assortment that's designed, developed and made in China for Chinese shoppers.
-The company plans to start with two lifestyle capsules — one for Nike sportswear and one for Jordan streetwear — that'll be ready in time for the holidays, followed later by performance apparel and footwear.
-"We'll be doing this over the next 18 months, bringing all these new capabilities on board so that we can complement global innovation with local innovation needs, styling needs, fit needs, even color, which can be unique in China," said Sparks.
-Why Nike is resetting China distribution
-Marketing and localization aside, Nike's China distribution model has become a complex web that Sparks is now working to unwind after the company allowed its brick-and-mortar distributors to start selling online during the Covid-19 pandemic even though their distribution agreements didn't include digital.
-"What we didn't do was reset that coming out of Covid as consumers returned to brick and mortar," said Sparks. "And because of that, it just created this incredibly fragmented marketplace where the consumer journey became really messy. Our ability to tell clear innovation stories, nearly impossible."
-Sparks said the decision to shut down those online storefronts is necessary to repair Nike's China business, but BNP Paribas equity analyst Laurent Vasilescu estimates the change could reduce the company's revenue by as much as $1 billion annually, representing about 17% of total sales in the region.
-In response, Sparks said the change means some distribution will inevitably go away but "we believe we'll be able to replace total value with full-price sales and a more premium experience."
-"We actually believe it is critical. If we don't reset is where the long-term impact will continue to slide in a direction that we don't want to see," said Sparks. "We don't actually believe that we will have a long-term negative impact. We think it'll be stronger."`,
-    bodyJa: `どう考えても、ナイキの中国事業は全力で取り組んでいるはずだ。
-スポーツ関連製品は中国で最も急速に成長している消費者カテゴリーであり、スポーツや運動への参加はここ数十年で最高レベルにあります。 GlobalData によると、スポーツウェア市場全体は、健康的な生活への新たな注目により、過去 5 年間で 51% 急成長しました。
-しかし、中国のスポーツルネッサンス期に繁栄するどころか、この地域におけるナイキのビジネスは低迷している。売上高は8四半期連続で前年比で減少し、事業全体は2021年以降30％縮小し、5月末には年間売上高が8年ぶりの最低水準に達した。
-中国はかつてナイキにとって最も急成長している地域であり、その高い利益率と持続的な成長の可能性が投資家に愛されていた。現在、それは同社にとって最小の市場であり、ウォール街の一部の人たちは、時間がかかりすぎると信じている世界的な再生の消耗品となっている。
-一部の米国アナリストは、北米事業が安定すればナイキの中国事業は回復すると予想しているが、現地の専門家らはCNBCに対し、この地域における課題はより深く、国内で直面しているものとは大きく異なると語った。より大規模な「チャイナ・シック」運動の一環として、中国の若い買い物客は高価な外国ブランドではなく国内ブランドを選ぶことが増えており、消費者はユタ州から上海まで複製されている同じ商品ではなく、地域に合わせた品揃えを求めている。ナイキはまた、中国での流通モデルの見直しにも取り組んでいるが、批評家らは、この流通モデルは乱雑で過度に複雑になり、値引きに押されていると指摘している。
-消費者調査会社アパチュアチャイナの創設者で中国消費者専門家のヤリン・ジャン氏は、「ある意味、ナイキは無関係になってしまった」と語る。 「若い人たちは、最後にやった新しいことは何だったのか思い出せないと思います。しかし、もしあなたがアディダスについて話すと、彼らはペットの服、ペットのジャージ、またはチャイナジャケットについて話すでしょう。」
-ナイキの退任財務責任者マット・フレンド氏は最近の決算会見で、中国事業がいつ成長に戻るかについては明言できず、アナリストに対し、短期的な収益傾向は最近の業績と「一致するだろう」とし、「売上高の前に収益性は底を打つだろう」と語った。
-1月、ナイキの最高経営責任者（CEO）エリオット・ヒルは、ナイキに25年間勤務したベテランのキャシー・スパークス氏が次期副社長兼中華圏ゼネラルマネージャーに就任し、自身の直属となることを発表した。
-CNBCとのインタビューで彼女は、ナイキが中国の消費者と再びつながるために必要な措置を講じていると述べた。
-「この半年で私が確かに学んだことの一つは、中国の消費者は変化しており、彼らは製品とのつながりやブランドとの関わりを通じて、求めるものに対して高い基準を持っているということです」とスパークス氏は語った。 「中国の消費者の固有のニーズを特にターゲットにした履物やアパレル、ライフスタイルやパフォーマンスをデザインできれば、フルプライスでの収益を促進できることを私たちは知っています。」
-ナイキの広報担当者は、同社がこの地域での関連性を失っているという考えを否定し、変化したのは若い買い物客がイベントやより広範な文化的瞬間を含む「超ローカルなつながり」を求めていることだと述べた。
-「ナイキは中国に40年以上進出しており、設立当初から私たちのアプローチは地元の消費者の洞察から始まり、その洞察をインスピレーション、イノベーション、そして運動を引き起こすストーリーテリングに変えることでした」と広報担当者は述べた。
-「チャイナシック」はスニーカー市場をどう変えたのか
-2000年代半ばにナイキが次の主要な成長市場として中国に目を向けたとき、ナイキはその世界戦略をほぼ再現し、西側世界で人気の衣類や靴が中国人の買い物客にも届くと賭けて勝利した。
-しばらくの間、その賭けは正しかった。
-「当時販売されていた高級ブランドはナイキだった。ナイキの方が明らかに優れていた。デザインもクールで、価格も高かった。ブランドのキャッシュが多かった」と上海を拠点にデッカーズやアディダスなど国内外のブランドにアドバイスをしている小売コンサルタントは述べ、顧客との関係を守るため匿名を求めた。
-「2000年代初頭に戻ると、消費者はお金に余裕があれば、本当にイメージに敏感でした。彼らは良いものは何でも持っているということを示したかったのですが、当時はそれがナイキでした。」
-2021年度末までに、ナイキの中国における年間収益は82億9000万ドルと過去最高を記録した。しかしその背景では、欧米ブランドに対する風向きが変わり始めていた。
-2021年3月、ナイキが新疆ウイグル自治区での強制労働に関する報道を「懸念している」と述べた以前の声明が再浮上し、一部の中国消費者が全国的なボイコットを呼びかけ、スニーカーを燃やす動画をネットに投稿する事態につながった。中国の人気俳優、王一博は、国内競合企業の安踏と李寧が紛争を民族主義的なマーケティングの機会として新疆綿の使用を倍増させる中、ナイキの代表者としての契約を解除した。
-この論争は、同様のメッセージを発信する他の西側ブランドにも影響を与え、中国の習近平国家主席が数年前に始めた「国超」（英語で「チャイナ・シック」）と呼ばれる政治キャンペーンを激化させるのに一役買った。これは、中国で製造および設計された製品に対する誇りを高め、国際ブランドではなく国内ブランドを宣伝することを目的として設計されました。
-「2010年から新型コロナウイルス感染症の直前までの時期と同様に、人々は中国のブランドを着ていると自分が劣っているのではないかと感じていました…しかし、文化的信頼の高まりにより、その考え方は大きく変わりました」とジャン氏は語った。 「この政治キャンペーンの効果は、アリババのタオバオ、天猫、京東商事（JD.com）を含む多くの電子商取引プラットフォームに、チャイナシックブランド専用の別個のセクションを設けるよう奨励したことでもある。人々はこのチャイナシックの考え方を採用し始め、外国のブランドを所有するよりも自分の文化からのものを所有する方がクールであると感じ始めた。」
-海外企業の中国進出や中国進出を支援するコンサルティング会社チャイナ・スキニーのオペレーションディレクター、トレイシー・ダイ氏によると、現在、多くの若い消費者はナイキなどのプレミアムな海外ブランドよりも、安踏や李寧などの国内ブランドに親近感を抱いているという。
-「数年前、男子高校生にどのスポーツシューズが欲しいかと尋ねると、おそらくナイキかアディダスと答えるでしょうが、今では、尋ねると安踏か李寧と答えるでしょう」とダイ氏は語った。 「彼らにとって（ナイキは）もうそれほどクールではないのでしょう。」
-ナイキの広報担当者は、中国のすべてのブランドが熾烈な競争と「より厳しい消費者環境」に直面しており、この地域をリセットする取り組みが「消費者を取り戻すための正しい道に進む」と信じていると述べた。
-ナショナリズムを超えて、中国におけるナイキの凋落は価値観にも関係している。
-ナイキが中国での拡大を強化し始めてから 20 年間で、国内ブランドは生産、マーケティング、ブランド構築においてより優れたものになりました。
-同時に、中国の消費者はより現実的かつ選択的になり、ブランディングよりも価値とイノベーションを優先するようになった、とウェイ・カン氏は語る。彼は自身のブランドコンサルティング会社コンデュイット・アジアを立ち上げるまで、中国と台湾のナイキとコンバースで約15年間勤務していた。買い物客がスポーツやニッチなフィットネス活動に関心を持つようになるにつれ、ナイキの品揃えよりも高度な技術を備えた製品の人気が高まっています。
-「現時点では、ナイキは依然としてグローバルでゼネラリストのブランドに近い。同時に、多くの製品、イノベーションのパイプラインは地元ブランドや競合他社よりも実際に遅れている」とカン氏は述べ、「中国の消費者は5年、10年前と比べて非常に洗練されている…すべては、消費者が靴からどのような価値を求めているかをどのように認識しているかに遡る。」と語った。
-オレゴン州ポートランド経由の南京スタイル
-国内ブランドが中国市場の主要なリーダーとなっている一方で、一部の国際ブランドも依然として勝利を収めています。新規出店を除いたルルレモンの比較売上高は、2025年度に中国で20％増加し、同地域のアディダスブランドの収益は同期間に13％増加した。
-ナイキと同様に、アディダスも中国での事業が劇的に減速していたが、同社が現地での製品づくり、分散型の意思決定、現地チームの権限強化に焦点を移したことで、現在は再び成長しつつある。
-たとえば、アディダスの地元チームは、今年初めに中国の旧正月を祝って、大ヒットしたチャイニーズ トラック トップ ジャケットをデザインし、発売しました。このジャケットは27分以内に完売し、世界的な現象となり、ソーシャルメディアでは、この商品を買うためにわざわざ中国に飛んだ人や、StockXなどの再販サイトで購入するのに数百ドルを費やした人もいたという。
-ローカルマーケティングにも効果を発揮します。最近、アディダスはウェブサイト上のジャケットの製品説明文の翻訳に失敗し、最終的にバイラルミームとなった。このミームを無視するのではなく、誤訳を前面に描いたTシャツを作成したとジャン氏は語った。
-一方、専門家らは、ナイキも同様のローカライズされた製品やマーケティングを生み出すのに苦労していると述べた。ワールドカップ期間中、同社のマーケティングキャンペーンは10年前と同じような結果になったとジャン氏は語った。
-アナリストらによると、問題の一部は、ポートランドにある本社の監督なしに製品やキャンペーンを迅速にリリースするための中華圏チームの自主性が限られていることだという。
-2024年11月に同社を退職するまで、この地域でナイキとコンバースのマーケティングとブランディングに携わっていたカン氏は、「つまり、すべて、特にデザインの点で、実際にはすべてが世界から来ている」と述べ、「地元のチームが地元に関連した製品を作り、消費者向けにデザインする余地は非常に限られている。それが実際、中国の消費者にとって最大の問題だと思う」と語った。
-ナイキの意思決定が本社に集中していることについて質問されたスパークス氏は、この評価は「不公平ではない」としながらも、「この取り組みをチェックしている人は誰もイエスかノーかを教えてくれない」と付け加えた。
-「中国に到着した瞬間から、私たちの現地チームには必要なことを行うための完全な自主性があると感じました。もちろん、ブランドにふさわしいガードレールの範囲内で作業します」とスパークス氏は語った。 「私たちが打ち出してきたマーケティングがそれを現実にしているのを目の当たりにしています。私たちは小売店のコンセプトをローカライズしています。このチームの製品デザインは本当に本物の中国のもので、非常に関連性があります。」
-先週、スパークスは、同社初の大中華圏地域商品創造担当副社長を雇用したと発表し、同副社長は中国人の買い物客向けに中国でデザイン、開発、製造された品揃えの構築に注力することになる。
-同社はまず、ホリデーシーズンに間に合うよう、ナイキ スポーツウェア用とジョーダン ストリートウェア用の 2 つのライフスタイル カプセルを発売し、その後、パフォーマンス アパレルとシューズを発売する予定です。
-「われわれは今後18カ月かけてこれを進め、これらすべての新機能を導入して、世界的なイノベーションを現地のイノベーションのニーズ、スタイリングのニーズ、フィット感のニーズ、さらには中国独自のカラーで補完できるようにする」とスパークス氏は語った。
-ナイキが中国での流通をリセットする理由
-マーケティングとローカリゼーションはさておき、ナイキの中国流通モデルは複雑な網の目になっており、販売契約にデジタルが含まれていなかったにもかかわらず、同社が新型コロナウイルス感染症のパンデミック中に実店舗の販売代理店にオンライン販売を開始することを許可した後、スパークス氏は現在、その緩和に取り組んでいる。
-「私たちがしなかったことは、消費者が実店舗に戻ってきたことで、コロナ禍からの影響をリセットすることだった」とスパークス氏は語った。 「そのせいで、信じられないほど細分化された市場が生み出され、消費者の行動が非常に混乱してしまいました。明確なイノベーションストーリーを伝える私たちの能力は、ほぼ不可能です。」
-スパークス氏は、これらのオンライン店舗閉鎖の決定はナイキの中国事業を立て直すために必要だと述べたが、BNPパリバの株式アナリスト、ローラン・ヴァシレスク氏は、この変更により同社の収益が年間最大10億ドル減少する可能性があり、これは同地域の総売上高の約17％に相当すると推定している。
-これに対しスパークス氏は、この変更は一部の流通が必然的になくなることを意味するが、「我々は総額を正規価格販売とよりプレミアムな体験に置き換えることができると信じている」と述べた。
-「実際、私たちはそれが重要だと信じています。リセットしなければ、長期的な影響は私たちが見たくない方向に滑り続けることになります」とスパークス氏は述べた。 「私たちは実際に長期的な悪影響があるとは考えていません。悪影響はさらに大きくなると考えています。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html",
-    publishedAt: "2026-07-29T11:46:44+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "data-centres-could-pay-hundreds-of-milli-474e766e",
-    title: "Data centres could pay hundreds of millions in deposits for power demands",
-    titleJa: "データセンターは電力需要に対して数億ドルの保証金を支払う可能性がある",
-    summaryJa: "データセンターは電力需要に対して数億ドルの保証金を支払う可能性がある- 公開されました",
-    bodyOriginal: `Data centres could pay hundreds of millions in deposits for power demands
-- Published
-Ofgem has proposed new measures which could see developers of data centres made to pay hundreds of millions of pounds up front.
-The British energy regulator said a refundable fee should be charged for projects that want to connect to the network, amid mounting demand for connections to the electricity grid.
-It is proposing developers pay a deposit between £237,500 to £712,500 per megawatt - meaning data centres seeking 1 gigawatt (GW) of power would have to pay hundreds of millions up front, paid back if the project was completed.
-The proposal follows growing opposition in parts of the country to plans for new data centres, which are needed to power the artificial intelligence boom.
-Data centres are large buildings which house computer servers used to store and process data and run the digital services which power the internet.
-Ofgem has started a consultation on its proposals, which will run until 16 September.
-It said the amount of electricity capacity being requested by projects seeking to connect to the grid had risen from 41 GW to 125 GW in the past year, reflecting a sharp increase in demand.
-This is significantly more than double 2025's peak electricity demand in Britain of around 46 GW.
-The regulator said the projects would have to hit key milestones to keep their place in the grid connection queue, which has seen a surge in demand.
-An increasing number of centres have been built around the world in recent years to provide the computing power needed to train and run AI systems.
-But they are controversial, especially for people who live near them.
-Residents have raised concerns about noise, electricity demand and the large amounts of water sometimes used to cool the high-performance chips that generate vast amounts of heat.
-There are currently 564 data centres listed in the UK, according to the data centre map, external.
-Scotland in particular is seen as a good location for future projects due to its supply of renewable energy to power the centres, with 24 currently in the planning process.
-Ofgem said the plans were aimed at tackling "speculative projects from securing scarce network capacity without any firm intention to connect".
-Eleanor Warburton, the regulator's director for energy system design and development, said: "Britain's electricity demand connections queue has more than tripled in size in less than a year, and consumers should not bear the risks created by speculative projects taking up space in the system."
-Energy minister Michael Shanks from the Department for Energy Security and Net Zero said he believed Ofgem's actions would "help ensure that viable connection-ready projects can get going and not be held up by speculative applications".
-"Britain needs a grid connections system that works for the 21st century and allows businesses to invest and grow, creating jobs across the country," he said.
-'I can't drink the water' - life next to a US data centre
-- Published10 July 2025
-Why are thousands of people opposing a new data centre?
-- Published9 July
-Data centres to be expanded across UK as concerns mount
-- Published15 August 2025
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `データセンターは電力需要に対して数億ドルの保証金を支払う可能性がある
-- 公開されました
-Ofgemは、データセンターの開発者が前払いで数億ポンドを支払わされる可能性のある新たな措置を提案している。
-英国のエネルギー規制当局は、電力網への接続需要が高まる中、ネットワークへの接続を希望するプロジェクトには返金可能な料金を請求すべきだと述べた。
-同社は開発者に対し、メガワット当たり23万7500ポンドから71万2500ポンドの保証金を支払うことを提案している。つまり、1ギガワット（GW）の電力を求めるデータセンターは数億ドルを前払いしなければならず、プロジェクトが完了すれば返済されることになる。
-この提案は、人工知能ブームを促進するために必要な新しいデータセンターの計画に対する国内の一部での反対の高まりを受けてのものである。
-データ センターは、データを保存および処理し、インターネットに電力を供給するデジタル サービスを実行するために使用されるコンピューター サーバーを収容する大規模な建物です。
-Ofgemは提案に関する協議を開始しており、協議は9月16日まで続く。
-同報告書によると、送電網への接続を目指すプロジェクトが要求する電力容量は、需要の急激な増加を反映して、過去1年間で41GWから125GWに増加したという。
-これは英国の2025年のピーク電力需要である約46GWの2倍を大幅に上回る。
-規制当局は、需要が急増している送電網接続の待機列に位置を維持するには、プロジェクトが重要なマイルストーンを達成する必要があると述べた。
-近年、AI システムのトレーニングと実行に必要なコンピューティング能力を提供するために、世界中で建設されるセンターの数が増えています。
-しかし、特に近くに住んでいる人々にとって、それらは物議を醸しています。
-住民らは、騒音、電力需要、そして大量の熱を発生する高性能チップを冷却するために時々使用される大量の水について懸念を表明している。
-外部のデータセンターマップによると、現在英国には 564 のデータセンターがリストされています。
-特にスコットランドは、センターに電力を供給するための再生可能エネルギーの供給により、将来のプロジェクトに適した場所とみなされており、現在 24 のセンターが計画中です。
-Ofgem氏は、この計画は「接続する確固たる意図のない、希少なネットワーク容量の確保による投機的プロジェクト」に取り組むことを目的としていると述べた。
-規制当局のエネルギーシステム設計・開発担当ディレクター、エレノア・ウォーバートン氏は、「英国の電力需要接続待ち行列の規模は1年足らずで3倍以上に増加しており、消費者はシステム内のスペースを占める投機的プロジェクトによって生じるリスクを負担すべきではない」と述べた。
-エネルギー安全保障・ネットゼロ省のマイケル・シャンクス・エネルギー大臣は、Ofgemの行動が「実行可能な接続対応プロジェクトを確実に開始し、投機的なアプリケーションによって妨げられないようにするのに役立つ」と信じていると述べた。
-「英国は21世紀に機能し、企業の投資と成長を可能にし、国全体で雇用を創出できる送電網システムを必要としている」と同氏は述べた。
-「水は飲めない」 - 米国のデータセンターの隣での生活
-- 2025 年 7 月 10 日公開
-なぜ何千人もの人々が新しいデータセンターに反対しているのでしょうか?
-- 7 月 9 日に公開
-懸念が高まる中、データセンターを英国全土に拡大へ
-- 2025 年 8 月 15 日公開
-Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9q90q9qnn2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-29T11:35:35+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e2f/live/8ed23800-8b42-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 4,
-  },
-  {
-    id: "andy-burnham-wants-to-fix-social-care-wh-b9996e26",
-    title: "Andy Burnham wants to fix social care - what are the options?",
-    titleJa: "アンディ・バーナムは社会的養護を改善したいと考えています - 選択肢は何ですか?",
-    summaryJa: "アンディ・バーナムは社会的養護を改善したいと考えています - 選択肢は何ですか?- 公開されました",
-    bodyOriginal: `Andy Burnham wants to fix social care - what are the options?
-- Published
-Prime Minister Andy Burnham has said he wants major reform of the social care system in England, calling the current situation "bad for everybody".
-In a speech at a care home on Wednesday he announced that cross-party talks involving the Conservatives and Liberal Democrats would start later.
-Burnham also said he had asked Baroness Casey - who is carrying out a review of social care - to bring forward her report by a year. She will now set out her recommendations in 2027.
-He confirmed that her review will also look at the question of how to pay for any reforms.
-BBC Verify has looked at four options for approaching reform and how much they could cost.
-1. Cap on lifetime care costs
-Some people face extremely high costs for care at the end of their life.
-It has been estimated that around one in seven people aged 65 and over face lifetime care costs of more than £100,000.
-One proposal is to cap these costs with the government picking up the bill above a certain cash threshold.
-In 2011 a commission headed by the economist Andrew Dilnot proposed a lifetime cap of £35,000.
-Dilnot estimated his proposed reforms would cost between £1.3bn and £2.2bn a year. The cost today would be higher due to inflation and the ageing population.
-The Conservative-Liberal Democrat coalition government, led by David Cameron, accepted Dilnot's recommendations.
-But after the 2015 general election, which delivered a Conservative majority, Cameron delayed the implementation of the cap to 2020 over what he said were pressures on the public finances.
-In 2017, when Theresa May was in No 10, the Conservatives' general election manifesto proposed a different way to reform social care.
-This would have included the value of an individual's home in the means test used to decide what state funding they could get for care in their own homes.
-It did not, initially, include any cap on lifetime care costs, with the manifesto saying this was more "equitable" than the Dilnot plan.
-The May plan was branded a "dementia tax" by opponents and eventually dropped.
-2. A more generous means test
-In England people can currently qualify for local authority financial support in a residential care home if all their assets - including their home - are worth less than £23,250.
-This is known as a means test - where the level of financial support a person gets is based on the value of their assets and savings.
-Some have suggested this threshold should be raised significantly so that many more people would qualify for means-tested support.
-Boris Johnson's Conservative government in 2021 planned to raise the means test threshold to £100,000.
-The annual cost of Johnson's reforms would have been £1.8bn a year over three years - although this was expected to rise over time as more people qualified.
-The Johnson government planned a new Health and Social Care levy to pay for the package, but this was eventually scrapped by his Conservative successors as prime minister, because they wanted to keep taxes down.
-3. Free personal care
-An alternative approach is to ensure that everyone who is eligible, based on their needs, should get state-funded personal care that is free at the point of use.
-This would be provided free regardless of an individual's means and whether it was received by an elderly person in their own house or a residential care home.
-Scotland has implemented such a system.
-However, it's important to note that personal care takes in things like helping frail elderly people wash and dress and go to the toilet.
-But it does not include accommodation, food and everyday living costs which are subject to means testing.
-The Health Foundation think tank estimates that implementing a Scottish-style system in England would cost £7.5bn a year by 2036.
-Like Scotland, Japan and Germany have systems which base entitlement to personal social care mainly on people's care needs rather than their ability to pay.
-Japan and Germany though have a mandatory long-term care insurance system which is funded through contributions from workers and employers.
-Both countries also do not usually cover the full cost of personal care so individuals are responsible for some of the expenses.
-4. National care service
-Some have suggested that the government should set up a national care service in England, similar in ambition to the NHS.
-This would mean all personal care would be free at the point of use while establishing national standards and care entitlement criteria.
-The Health Foundation has estimated the cost of creating a universal and comprehensive social care system in England would be around £19bn a year extra by 2036.
-When Andy Burnham was health secretary in Gordon Brown's Labour government in 2010 he produced a plan for a national care service.
-It was suggested this would be paid for through a compulsory contribution from people's estates after they'd died.
-But the idea was branded a "death tax" by Labour's opponents. The party lost the 2010 general election and its proposals went no further.
-In the 2024 general election Labour again proposed a "national care service" without providing details or how it would be funded.
-And after the election then-Prime Minister Keir Starmer effectively kicked the issue into the long grass by commissioning Louise Casey to investigate social care reform and report back in 2028.
-It's worth bearing in mind that these four approaches above are not mutually exclusive.
-Previous reform proposals have often combined more than one of them - such as a cap on lifetime costs and a more generous means test.`,
-    bodyJa: `アンディ・バーナムは社会的養護を改善したいと考えています - 選択肢は何ですか?
-- 公開されました
-アンディ・バーナム首相は、現在の状況は「誰にとっても悪い」とし、英国の社会保障制度の大規模な改革を望んでいると述べた。
-同氏は水曜日に介護施設で行った演説で、保守党と自由民主党が参加する超党派協議が今後開始されると発表した。
-バーナム氏はまた、社会的養護の見直しを行っているケイシー男爵夫人に対し、報告書を１年前倒しするよう要請したと述べた。彼女は今後、2027年に向けた提言を発表する予定だ。
-同氏は、彼女の検討では、改革費用の支払い方法の問題も検討することを認めた。
-BBC Verifyは、改革に取り組むための4つの選択肢と、それにどれくらいの費用がかかるかを検討した。
-1. 生涯介護費用の上限
-人生の終わりに、非常に高額な介護費用に直面する人もいます。
-65歳以上の約7人に1人が生涯で10万ポンド以上の介護費用に直面していると推定されている。
-提案の 1 つは、一定の現金基準を超える金額を政府が回収することで、これらの費用に上限を設けるというものです。
-2011年、経済学者のアンドリュー・ディルノット氏が委員長を務める委員会は、生涯の上限を3万5000ポンドにすることを提案した。
-ディルノット氏は、自身が提案する改革には年間13億ポンドから22億ポンドの費用がかかると見積もった。現在のコストはインフレと高齢化によりさらに高くなるだろう。
-デビッド・キャメロン率いる保守党と自由民主党の連立政権はディルノット氏の勧告を受け入れた。
-しかし、2015年の総選挙で保守党が過半数を獲得した後、キャメロン首相は財政への圧力を理由に上限の導入を2020年に延期した。
-テリーザ・メイが10位だった2017年、保守党の総選挙マニフェストでは社会的養護を改革する別の方法が提案されていた。
-これには、自宅でのケアに対してどのような州の資金が得られるかを決定するために使用される資力調査に、個人の家の価値が含まれていたはずです。
-当初、生涯介護費用の上限は盛り込まれておらず、マニフェストにはディルノット計画よりも「公平」であると書かれていた。
-5月の計画は反対派によって「認知症税」の烙印を押され、最終的には撤回された。
-2. より寛大な資力調査
-イングランドでは現在、住宅を含むすべての資産の価値が23,250ポンド未満であれば、住宅型介護施設で地方自治体の財政支援を受ける資格が得られる。
-これは資力調査として知られており、個人が得られる経済的支援のレベルは資産や貯蓄の価値に基づいて決まります。
-より多くの人が資力調査による支援を受ける資格を得られるよう、この基準を大幅に引き上げるべきだと主張する人もいる。
-ボリス・ジョンソン首相の保守党政権は2021年に資力調査の基準値を10万ポンドに引き上げることを計画していた。
-ジョンソン政権の改革にかかる年間費用は3年間で年間18億ポンドになるはずだが、適任者が増えれば時間の経過とともにこの費用は増加すると予想されていた。
-ジョンソン政権は、そのパッケージの費用を支払うために新たな医療・社会保障税を計画していたが、これは結局、税金を抑えたいという理由から、首相としての彼の後継者である保守党によって廃止された。
-3. 無料のパーソナルケア
-別のアプローチは、資格のあるすべての人が、ニーズに基づいて、利用時点で無料の州資金によるパーソナルケアを受けられるようにすることです。
-これは、個人の資力に関係なく、また、自宅の高齢者が受けたのか、住宅型介護施設で受けたのかに関係なく、無料で提供されることになる。
-スコットランドはそのようなシステムを導入しました。
-ただし、身体的ケアには、虚弱な高齢者の洗濯や着替え、トイレへの援助などが含まれることに注意することが重要です。
-ただし、資力調査の対象となる宿泊費、食費、日常生活費は含まれません。
-ヘルス財団シンクタンクは、イングランドでスコットランド式システムを導入するには、2036年までに年間75億ポンドの費用がかかると見積もっている。
-スコットランドと同様、日本とドイツには、個人の社会的ケアの権利を、主に人々の支払い能力ではなくケアのニーズに基づいて決定する制度があります。
-ただし、日本とドイツには、労働者と雇用主からの拠出金によって賄われる強制的な介護保険制度があります。
-また、両国とも通常、身の回りの費用を全額負担するわけではないため、費用の一部は個人が負担します。
-4. 国民介護サービス
-政府は英国にNHSと同様の国民的ケアサービスを設立すべきだと提案する人もいる。
-これは、国の基準と介護資格基準を確立しながら、すべてのパーソナルケアが使用時点で無料になることを意味します。
-保健財団は、イギリスで国民皆保険制度を構築するための費用は、2036年までに年間約190億ポンド追加されると見積もっている。
-アンディ・バーナムは2010年にゴードン・ブラウン労働党政権で保健長官を務めていたとき、国民医療サービスの計画を作成した。
-この費用は、人々の死後、財産からの強制拠出によって支払われることが示唆されていた。
-しかし、このアイデアは労働党の反対派によって「死の税金」であると非難された。同党は2010年の総選挙で敗北し、その提案は前進しなかった。
-2024年の総選挙で、労働党は詳細や資金調達方法を明らかにせずに、再び「国民介護サービス」を提案した。
-そして選挙後、当時のキア・スターマー首相は社会保障改革を調査し、2028年に報告するようルイーズ・ケイシーに依頼し、事実上この問題を闇に葬った。
-上記の 4 つのアプローチは相互に排他的ではないことに留意する価値があります。
-これまでの改革案では、生涯費用の上限やより寛大な資力調査など、複数の提案が組み合わされていることが多かった。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-29T10:47:08+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1825/live/a24448b0-89c6-11f1-b8ee-9b3c26ad07bb.png",
-    readTime: 6,
-  },
-  {
-    id: "matcha-and-protein-pivot-pays-off-for-gr-3892a2a1",
-    title: "Matcha and protein pivot pays off for Greggs as profits rise",
-    titleJa: "抹茶とプロテインのピボットが利益を上げ、グレッグス社に利益をもたらす",
-    summaryJa: "抹茶とプロテインのピボットが利益を上げ、グレッグス社に利益をもたらす- 公開されました",
-    bodyOriginal: `Matcha and protein pivot pays off for Greggs as profits rise
-- Published
-Greggs's pivot towards healthier products and trending drinks has helped it boost sales, with the bakery chain reporting a 20% rise in profit over the first half of the year.
-Greggs, the UK's largest fast-food chain, has launched a range of new products this year, many of which latch onto trends such as high-protein salads and matcha.
-Greggs's chief executive Roisin Currie previously told BBC News the rise of weight-loss drugs has led customers to to look for "smaller portions", which could affect its bottom line.
-Total sales for the bakery topped £1.1 billion for the 26 weeks to the end of June - 7.2% higher than the same period a year ago.
-Pre-tax profit for the first half of the year was £76.0m - up from £63.5m for the first six months of 2025.
-Currie said the company was "broadening and innovating our menu in line with changing tastes and trends".
-The company relaunched its salad range in May, "adding protein and increased choice for customers".
-It is also trying to appeal to "new and younger customers" through its new iced matcha lattes, and to health-conscious consumers by making nutritional information on its labels clearer.
-Greggs, which has more UK outlets than McDonald's, opened 34 stores in the first half of 2026. That brings the total to 2,773, taking into account 31 store closures.
-More than half of the new openings were in areas with no Greggs stores within a mile. A similar proportion opened away from the High Street in locations including petrol forecourts, supermarkets, retail parks, hospitals and university campuses, it said.
-Currie said Greggs is monitoring customer behaviour to ensure new stores boost visits "without cannibalising existing shop sales".
-She also said Greggs had no price rises planned after its breakfast, lunch and "big" deals went up in May, following multiple hikes last year.
-"Our prices are in a good place and we will now be working hard to protect the consumer and making sure that we can offer that value throughout the rest of the year," she said.
-Weight loss jabs affecting Greggs, boss says
-- Published8 January
-Susannah Streeter, chief investment strategist at Wealth Club, said the results showed that "there's still healthy appetite for affordable treats" even as many consumers become more health-conscious.
-"It's also proving nimble at keeping pace with the latest food trends, showing it can compete with far more premium cafes.
-"The iced matcha latte has emerged as one of the hits of its latest menu revamp, demonstrating that the bakery chain can blend social media-inspired tastes with its trademark value offering."
-She added, however, that the company is warning investment in expanding its supply chain will weigh on profits for the rest of 2026 unless customer confidence improves.
-Julie Palmer, managing partner at BTG Consulting, said Greggs has proved resilient against "weight-loss drugs, low spending and confidence, and rising employment and business costs".
-"After a summer of sport, beer gardens and heatwaves, Greggs will be banking on autumn and winter seeing demand for its hot pastries and convenient on-the-go products returning.
-"Keeping prices low and continuing to expand product ranges to meet changing food trends will be key to luring people back into its vast number of stores to achieve this."
-Last year Currie addressed questions about whether "peak Greggs" had been reached after its rapid expansion, saying "we have gone out...to demonstrate that this is not the case".
-The group is targeting around 100 to 110 net new shops in 2026 and trialling a "bitesize" format and a self-service "Greggs Express" format. Its store numbers could go as high as 3,500.
-Greggs said its expectations for the full year outcome were unchanged - 2026 underlying pre-tax profit at a similar level to 2025's £172m.
-The chain had already flagged that higher costs from investment in new stores was expected to result in second half profit reducing year-on-year.
-It added 6.9% of its sales now come from home delivery. It called this an "opportunity" for growth and noted customers tend to spend three times as much on home deliveries as they do in store.
-- Published30 August 2025
-- Published26 June
-- Published1 October 2025`,
-    bodyJa: `抹茶とプロテインのピボットが利益を上げ、グレッグス社に利益をもたらす
-- 公開されました
-グレッグス社はより健康的な製品やトレンドの飲み物に軸足を移したことで売上が伸び、このベーカリー チェーンは今年上半期で利益が 20% 増加したと報告しています。
-英国最大のファストフードチェーンであるグレッグスは今年、さまざまな新商品を発売したが、その多くは高たんぱく質のサラダや抹茶などのトレンドを取り入れたものだ。
-グレッグスの最高経営責任者ロイシン・カリー氏は以前、BBCニュースに対し、減量薬の台頭により顧客は「少量」を求めるようになり、収益に影響を与える可能性があると語った。
-このベーカリーの総売上高は、6 月末までの 26 週間で 11 億ポンドを超え、前年同期比 7.2% 増加しました。
-今年上半期の税引前利益は7,600万ポンドで、2025年上半期の6,350万ポンドから増加しました。
-カリー氏は、同社は「嗜好やトレンドの変化に合わせてメニューを拡大し、革新している」と述べた。
-同社は5月にサラダシリーズを再発売し、「タンパク質を追加し、顧客の選択肢を増やした」。
-また、新商品のアイス抹茶ラテを通じて「新規顧客」や「若年層」への訴求を図り、ラベルの栄養成分表示をわかりやすくすることで健康志向の消費者へのアピールも図っている。
-英国でマクドナルドより店舗数の多いグレッグスは、2026年上半期に34店舗をオープンした。31店舗の閉鎖を考慮すると、合計は2,773店舗となる。
-新規出店の半分以上は、1マイル以内にグレッグスの店舗が存在しない地域にあった。同報告書によると、同様の割合で、ハイストリートから離れたガソリンスタンド、スーパーマーケット、小売公園、病院、大学キャンパスなどの場所にオープンしたという。
-カリー氏によると、グレッグス氏は顧客の行動を監視し、「既存店の売上を共食いすることなく」新店舗の来店数が増加するよう努めているという。
-同氏はまた、グレッグス社では、昨年複数回の値上げに続き、5月に朝食、昼食、「大型」取引が値上げされた後、値上げの計画はないと述べた。
-「当社の価格は良好な位置にあり、今後は消費者を保護するために懸命に取り組み、年内を通じてその価値を確実に提供できるよう努める」と同氏は述べた。
-減量ジャブがグレッグスに影響を与えると監督が語る
-- 1 月 8 日に公開
-ウェルス・クラブの首席投資ストラテジスト、スザンナ・ストリーター氏は、多くの消費者が健康志向を強めているにもかかわらず、「手頃な価格のお菓子に対する健全な欲求が依然としてある」ことをこの結果が示していると述べた。
-「また、最新の食のトレンドに機敏に対応していることも証明されており、はるかに多くの高級カフェと競合できることが示されています。
-「アイス抹茶ラテは、最新のメニューリニューアルのヒット商品の1つとして浮上しており、ベーカリーチェーンがソーシャルメディアからインスピレーションを得た味とその商標価値のある商品を融合できることを示しています。」
-しかし、同社は顧客の信頼が改善しない限り、サプライチェーン拡大への投資が2026年残りの利益を圧迫することになると警告していると付け加えた。
-ＢＴＧコンサルティングのマネジングパートナー、ジュリー・パーマー氏は、グレッグス氏が「減量薬、支出と信頼の低さ、雇用と事業コストの上昇」に対して強いことが証明されたと述べた。
-「スポーツ、ビアガーデン、熱波で賑わった夏の後、グレッグスは、温かいペストリーや持ち運びに便利な商品の需要が戻ってくるのを見て、秋から冬に期待します。
-「これを達成するには、価格を低く抑え、変化する食のトレンドに合わせて製品範囲を拡大し続けることが、膨大な数の店舗に人々を呼び戻す鍵となるでしょう。」
-カリー氏は昨年、急速な拡大後に「グレッグスのピーク」に達したかどうかに関する質問に答え、「我々は、そうではないことを証明するために出かけてきた」と述べた。
-同グループは2026年に約100～110の純新規店舗を目標としており、「一口サイズ」形式とセルフサービスの「グレッグス・エクスプレス」形式を試験的に導入している。店舗数は3,500に達する可能性がある。
-グレッグス氏は、通期業績予想に変更はなく、2026年の実質的な税引き前利益は2025年の1億7,200万ポンドと同水準になると述べた。
-同チェーンは、新店舗への投資によるコスト増加により、下半期の利益が前年同期比で減少すると予想されることをすでに警告していた。
-同社は現在、売上の6.9％が宅配によるものだと付け加えた。同社はこれを成長の「機会」と呼び、顧客は店頭の3倍を宅配に費やす傾向があると指摘した。
-- 2025 年 8 月 30 日発行
-- 6 月 26 日発行
-- 2025 年 10 月 1 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2r0nyx99yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-29T10:37:33+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d65a/live/f1815bb0-8b2a-11f1-841c-ef08db9db338.jpg",
-    readTime: 5,
   },
 ];
 
