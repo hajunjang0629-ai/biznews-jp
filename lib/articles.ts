@@ -15,6 +15,298 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "my-ex-husband-s-sister-died-so-why-is-fi-d1734a56",
+    title: "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+    titleJa: "私の元夫の妹が亡くなりました。では、なぜフィデリティは私に彼女の死亡診断書を要求するのでしょうか?",
+    summaryJa: "「死亡診断書を支払うのは宝くじを買うようなものだと、私の心の一部は冗談を言っています。」",
+    bodyOriginal: `“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”`,
+    bodyJa: `「死亡診断書を支払うのは宝くじを買うようなものだと、私の心の一部は冗談を言っています。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+    publishedAt: "2026-08-01T00:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-08192839",
+    readTime: 2,
+  },
+  {
+    id: "if-social-security-s-funding-crisis-is-t-d23641b0",
+    title: "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
+    titleJa: "社会保障の資金危機が部屋の中の象だとすれば、これは誰もが見落としてきたネズミです。あなたは警告を受けました。",
+    summaryJa: "「社会保障を70歳まで遅らせると、月々の支払額が増加し、それに比例して生活費の調整も高くなります。」",
+    bodyOriginal: `“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”`,
+    bodyJa: `「社会保障を70歳まで遅らせると、月々の支払額が増加し、それに比例して生活費の調整も高くなります。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
+    publishedAt: "2026-08-01T00:25:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-91835700",
+    readTime: 2,
+  },
+  {
+    id: "pirro-moves-to-drop-case-against-olympia-2bda5269",
+    title: "Pirro moves to drop case against Olympian, says Reflecting Pool damage caused by 'flawed installation'",
+    titleJa: "ピッロ、オリンピック選手に対する訴訟を取り下げる方向に動く、リフレクティング・プールの損害は「設置の欠陥」が原因と語る",
+    summaryJa: "コロンビア特別区のジャニーン・ピロ米国検事は金曜日、リンカーン記念堂のリフレクティング・プールを破壊したとして米国のオリンピック・カヌー選手デビッド・ハーン氏を告発した起訴状を棄却する動きを見せ、プールのシーラントへの損傷は「欠陥のある設置」の結果であると裁判所への提出文書に記した。ピッロ氏はワシントンDC高等裁判所に提出した書面で、起訴後に事務所が「起訴の証拠根拠を著しく損なう」情報と証拠を受け取ったと述べた。",
+    bodyOriginal: `U.S. Attorney for the District of Columbia Jeanine Pirro on Friday moved to dismiss an indictment charging U.S. Olympic canoeist David Hearn with vandalizing the Reflecting Pool of the Lincoln Memorial, writing in a court filing that damage to the pool's sealant was the result of a "flawed installation."
+Pirro, in a court filing in D.C. Superior Court, said her office received information and evidence after the charges were filed that "significantly undermine the evidentiary basis for the indictment."
+Hearn had been charged with felony destruction of property in early July, with Pirro saying at a press conference that he "violently" ripped up part of the pool's liner with his bare hands.
+Hearn's attorneys accused the Trump administration of making the 67-year-old ex-Olympian a "scapegoat" for the expensive and troubled renovation, which President Donald Trump had frequently boasted about.
+After the pool appeared to continue leaking following its renovation, Trump repeatedly claimed, without providing evidence, that vandals had cut a gash hundreds of feet long along the bottom.
+But Pirro said in Friday's court filing that a "botched installation" was to blame.
+Prosecutors had presented a grand jury in D.C. with "evidence that damage to the Reflecting Pool was caused by vandals" after receiving initial reports to that effect from the Department of the Interior and the U.S. Park Police, Pirro wrote.
+But after that grand jury returned its indictment against Hearn, the Interior Department provided "additional documents" showing that the damage occurring in June was the "result of flawed installation by the contractor, Atlantic Industrial Coatings," Pirro said.
+She also blamed "the rush to complete the project prior to events associated with the America 250 celebration in the weeks surrounding Independence Day 2026."
+Asked for additional comment, the U.S. Attorney's Office for D.C. told CNBC, "The motion speaks for itself."
+Hearn's attorneys told CNBC in a statement, "The Trump administration's case against Davey Hearn should have never been brought."
+"Its dismissal today does not erase the abuse of government power in arresting and charging a patriotic American who did nothing wrong," read the statement from lawyers Norm Eisen, Mary Dohrmann and Steve Levin.
+"The government's approach was ready, fire, aim. The administration owes Mr. Hearn an apology," they said.
+The White House did not immediately respond to CNBC's request for comment.
+Four days earlier, Hearn's attorneys wrote in a court filing that the government's key grand-jury witness in the case "testified that the property was already damaged before Mr. Hearn allegedly touched it."
+In that same filing, the defense lawyers asked for the disclosure of the information that the government provided to the grand jury before it made the decision to charge Hearn.
+Pirro's decision to pack up her case may foreclose the possibility of that information being revealed.
+Her filing repeatedly and pointedly lays blame on the Interior Department for providing her office with shoddy information.
+"DOI provided less than fulsome information at the outset of this case," Pirro wrote at one point. "It was not until USAO-DC repeatedly reached out to DOI dozens and dozens of times that DOI slowly started trickling information to USAO-DC."
+"Had DOI been forthcoming with the information clearly in its possession, the government would not have sought a grand jury indictment," she wrote. "DOI's failure to fully and accurately provide information to USAODC undermined the government's ability to abide by these responsibilities."
+The Interior Department did not immediately respond to CNBC's request for comment.
+Pirro's motion to dismiss also provides new detail about issues that plagued the Reflecting Pool renovation and caused delays "almost immediately."
+She pointed to "a combination of very rainy and windy weather, repeated failures of testing on the sealing of the expansion joints, and delays in obtaining sealing product at the worksite."
+"The rush to complete the project led to hasty and botched work that was not remediated before the project was finished and the fencing removed," Pirro wrote.
+The Trump administration had awarded the contractor, Atlantic Industrial Coatings LLC, a no-bid contract to work on the Reflecting Pool.
+Trump, in one of numerous instances detailing the renovation project to the press, said in April that he chose a contractor that had worked on one of his swimming pools.
+CNBC has requested comment from the contractor. A website associated with the company currently features a pop-up window with two Reflecting Pool-related updates, with the most recent one dated June 21.
+"Atlantic Industrial Coatings in conjunction with the US Park Service has identified some areas in the Reflecting Pool that require repairs," the update reads. "These areas are a very small part of the massive 7 acre project, and do not indicate a failure of the liner."`,
+    bodyJa: `コロンビア特別区のジャニーン・ピロ米国検事は金曜日、リンカーン記念堂のリフレクティング・プールを破壊したとして米国のオリンピック・カヌー選手デビッド・ハーン氏を告発した起訴状を棄却する動きを見せ、プールのシーラントへの損傷は「欠陥のある設置」の結果であると裁判所への提出文書に記した。
+ピッロ氏はワシントンDC高等裁判所に提出した書面で、起訴後に事務所が「起訴の証拠根拠を著しく損なう」情報と証拠を受け取ったと述べた。
+ハーン氏は７月上旬に器物損壊の重罪で起訴されており、ピッロ氏は記者会見でプールのライナーの一部を素手で「暴力的に」引き裂いたと述べた。
+ハーン氏の弁護士らは、トランプ政権が、ドナルド・トランプ大統領が頻繁に自慢してきた、高額で問題を抱えた改修工事の「スケープゴート」に、67歳の元オリンピック選手を仕立て上げたと非難した。
+プールの改修後も水漏れが続いているように見えることを受けて、トランプ大統領は証拠を示さずに、破壊者らが底に沿って数百フィートの長さの切り込みを入れたと繰り返し主張した。
+しかし、ピッロ氏は金曜日の裁判所への提出文書で、「設備の失敗」が原因だと述べた。
+ピロ氏は、内務省と米国公園警察からその旨の最初の報告を受けた後、検察はワシントンDCの大陪審に「リフレクティング・プールへの損害が破壊者によって引き起こされたという証拠」を提出したと書いた。
+しかし、大陪審がハーンに対する起訴状を差し戻した後、内務省は6月に起きた損害が「請負業者であるアトランティック・インダストリアル・コーティングス社による施工の不備の結果」であることを示す「追加文書」を提出したとピッロ氏は述べた。
+彼女はまた、「2026年の独立記念日の前後数週間に行われるアメリカ250周年記念行事に関連するイベントの前にプロジェクトを急いで完了させたこと」を非難した。
+追加のコメントを求められたワシントンDC連邦検察局はCNBCに対し、「動議はそれ自体を物語っている」と語った。
+ハーン氏の弁護士はCNBCに対し、「トランプ政権によるデイビー・ハーン氏の訴訟は決して起こされるべきではなかった」と声明で述べた。
+ノーム・アイゼン弁護士、メアリー・ドーマン弁護士、スティーブ・レビン弁護士の声明文には、「今日の却下は、何も悪いことをしていない愛国的なアメリカ人を逮捕し起訴するという政府権力の乱用が消えるわけではない」と書かれている。
+「政府のアプローチは準備万端で、狙いを定めていた。政府はハーン氏に謝罪する義務がある」と彼らは述べた。
+ホワイトハウスはCNBCのコメント要請にすぐには応じなかった。
+4日前、ハーン氏の弁護士は法廷提出書類の中で、この事件における政府の大陪審の主要証人が「ハーン氏が触ったとされる前に、その物件はすでに損傷していたと証言した」と述べた。
+同じ申し立ての中で、弁護人はハーン氏の起訴を決定する前に政府が大陪審に提供した情報の開示を求めた。
+ピッロ氏が事件をまとめるという決断をしたことで、その情報が暴露される可能性はなくなるかもしれない。
+彼女の提出書類は、内務省が彼女の事務所に粗末な情報を提供したことを繰り返し明確に非難している。
+「DOIはこの訴訟の開始時に十分な情報を提供しなかった」とピロ氏はある時点で書いた。 「USAO-DCが何十回もDOIに連絡を繰り返して初めて、DOIはゆっくりとUSAO-DCに情報を流し始めた。」
+「もしDOIが明らかに保有している情報を持って臨んでいたら、政府は大陪審の起訴を求めなかったであろう」と彼女は書いた。 「DOIがUSAODCに完全かつ正確に情報を提供できなかったことにより、これらの責任を遵守する政府の能力が損なわれた。」
+内務省はCNBCのコメント要請にすぐには応じなかった。
+ピッロ氏の却下動議はまた、リフレクティング・プール改修工事を悩ませ、「ほぼ即座に」遅延を引き起こした問題について新たな詳細を明らかにした。
+彼女は「非常に雨と風の強い天候、伸縮継手のシールに関するテストの度重なる失敗、現場でのシール製品の入手の遅れ」を指摘した。
+「プロジェクトの完成を急ぐあまり、性急で失敗した作業が発生し、プロジェクトが完了してフェンスが撤去されるまで修正されなかった」とピッロ氏は書いた。
+トランプ政権は、請負業者であるアトランティック・インダストリアル・コーティングスLLCに、リフレクティング・プールの工事について入札なしの契約を結んでいた。
+トランプ大統領は報道陣に改修計画について詳しく説明した数多くの事例の一つで、4月にプールの1つを手がけた請負業者を選んだと述べた。
+CNBCは請負業者にコメントを求めた。同社に関連する Web サイトには現在、リフレクティング プール関連の 2 つの更新情報を表示するポップアップ ウィンドウが表示されており、最新のものは 6 月 21 日付けです。
+「Atlantic Industrial Coatingsは米国公園局と協力し、リフレクティングプールの一部のエリアで修理が必要であることを特定した」とアップデートには書かれている。 「これらの地域は7エーカーの巨大プロジェクトのごく一部であり、ライナーの故障を示すものではありません。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/31/trump-pirro-reflecting-pool-olympian-david-hearn.html",
+    publishedAt: "2026-07-31T23:19:16+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "situational-awareness-vs-long-term-capit-e24dfa59",
+    title: "Situational Awareness vs. Long-Term Capital Management: A side-by-side comparison",
+    titleJa: "状況認識と長期資本管理: 並べて比較",
+    summaryJa: "2つのヘッジファンド爆破事件には予想以上に多くの類似点がある。",
+    bodyOriginal: `There are more similarities between the two hedge-fund blowups than one might expect.`,
+    bodyJa: `2つのヘッジファンド爆破事件には予想以上に多くの類似点がある。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/situational-awareness-vs-long-term-capital-management-a-side-by-side-comparison-e3e047b7?mod=mw_rss_topstories",
+    publishedAt: "2026-07-31T22:09:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-24559601",
+    readTime: 2,
+  },
+  {
+    id: "trump-appeals-order-that-slammed-his-irs-4e2fe4f4",
+    title: "Trump appeals order that slammed his IRS lawsuit and referred his lawyer to bar",
+    titleJa: "トランプ大統領、IRS訴訟を非難し弁護士に裁判差し止めを命じた控訴命令",
+    summaryJa: "ドナルド・トランプ大統領は金曜日、有利な和解を得るために悪意を持って100億ドルの訴訟を起こしたとする連邦判事のひどい命令に対して控訴した。マイアミ連邦地方裁判所への控訴通知は、和解の一環として創設された17億7,600万ドルの「法律」基金が廃止されたことにトランプ大統領が不満をぶちまけた数時間後に公表された。",
+    bodyOriginal: `President Donald Trump on Friday appealed a federal judge's blistering order finding he filed a bad-faith $10 billion lawsuit in order to reach an advantageous settlement.
+The notice of appeal in U.S. District Court in Miami was made public hours after Trump vented frustration that the $1.776 billion "lawfare" fund created as part of that settlement had been scrapped.
+"They've agreed to not have a fund. But there are a lot of people that are very upset about it," Trump said at a Cabinet meeting at Camp David Friday afternoon.
+The president also lamented that his nominee for U.S. attorney general, Todd Blanche, is in limbo in the Senate as a handful of Republican holdouts seek written confirmation that the controversial fund is indeed defunct. The senators say they have yet to receive that assurance, raising concern that the fund could be resurrected if Blanche is confirmed.
+"The fund is dead, but, you know, I wish it weren't," Trump said at the Cabinet meeting before launching into complaints about supporters he said have been mistreated by federal law enforcement.
+Trump, two of his adult sons and the Trump Organization, along with two of their attorneys, said in a joint filing Friday afternoon that they are appealing Judge Kathleen Williams' scathing order to the U.S. Court of Appeals for the 11th Circuit.
+Williams had ruled July 13 that the lawsuit, ostensibly stemming from the leak of Trump's tax returns by an ex-IRS employee years earlier, was in fact brought to provide "judicial legitimacy for a 'settlement' that had no viable basis in law or fact."
+After Friday's appeal notice was filed, a spokesman for Trump's legal team repeated a prior statement slamming the IRS leak and declaring, "President Trump continues to hold those who wrong America and Americans accountable."
+That settlement involved Trump and his co-plaintiffs dropping the suit in exchange for the Department of Justice creating a $1.776 billion fund that would be used to pay people who claimed to be victims of government lawfare.
+Blanche, in prior Senate testimony, would not rule out that some of those funds could be given to people who were charged with assaulting police officers during the Jan. 6, 2021, Capitol riot. Trump has pardoned virtually all Capitol rioters and frequently expresses sympathy for them.
+In a Truth Social post Friday morning, he gave a full-throated defense of the fund, saying, "I will always feel that these victims of government abuse should be paid back for what they were forced to endure, their lives have been ruined!"
+Some — including Sen. Thom Tillis of North Carolina, one of the Republicans standing in the way of Blanche's nomination — interpreted Trump's post as referring to Jan. 6 participants and suggesting the fund was still alive.
+The settlement also included a provision in which the DOJ agreed that the past federal tax returns of Trump, his family members and related entities are barred from IRS enforcement actions.
+"The Court determines that Plaintiffs improperly employed this lawsuit to justify a particular award in this matter — access to taxpayer funds and exemption from audits and other investigations — which was accomplished by leveraging control over Defendants," Williams wrote in her July 13 order.
+Williams imposed several non-monetary sanctions in the order, including referring one of Trump's attorneys, Alejandro Brito, to the Florida Bar for potential disciplinary action.
+She also barred another lawyer, Daniel Epstein, from being admitted to appear in the southern Florida federal court for one year.
+And she prohibited Trump and the other parties in the lawsuit from referring to the "settlement agreement" as evidence that an actual settlement had been reached in the case.
+Her order did not explicitly void the settlement itself, noting that the question of "whether a private agreement" between both sides is valid and enforceable "is not before this court."
+A DOJ spokesperson responded to Williams' order at the time by insisting, "There was no collusion in this case, and the partisan judge who speculated otherwise has disregarded decades of precedent."`,
+    bodyJa: `ドナルド・トランプ大統領は金曜日、有利な和解を得るために悪意を持って100億ドルの訴訟を起こしたとする連邦判事のひどい命令に対して控訴した。
+マイアミ連邦地方裁判所への控訴通知は、和解の一環として創設された17億7,600万ドルの「法律」基金が廃止されたことにトランプ大統領が不満をぶちまけた数時間後に公表された。
+トランプ大統領は金曜日午後、キャンプデービッドで行われた閣議で、「彼らは基金を持たないことで合意した。しかし、このことに非常に腹を立てている人がたくさんいる」と述べた。
+大統領はまた、少数の共和党の抵抗勢力が物議をかもしている基金が実際に消滅していることの書面による確認を求めているため、自身が米国司法長官に指名したトッド・ブランシュ氏が上院で行き詰まっていることを嘆いた。上院議員らはまだその確約を受け取っていないと述べており、ブランシュ氏が承認されれば基金が復活する可能性があるとの懸念が高まっている。
+トランプ大統領は閣議で、「基金はもう終わっているが、そうならなければよかったのに」と述べ、連邦法執行機関によって虐待を受けている支持者について苦情を申し立てた。
+トランプ大統領、成人した息子2人、トランプ・オーガニゼーション、および彼らの弁護士2名は金曜日午後の共同提出文書で、キャスリーン・ウィリアムズ判事の痛烈な命令を不服として第11巡回区控訴裁判所に控訴すると発表した。
+ウィリアムズ氏は7月13日、この訴訟は表向き数年前に元IRS職員によるトランプ氏の納税申告書の漏洩に端を発しており、実際には「法律や事実において実行可能な根拠のない『和解』に司法上の正当性」を与えるために起こされたものであるとの判決を下していた。
+金曜日の上訴通知が提出された後、トランプ大統領の弁護団の報道官は、国税庁の情報漏えいを非難する以前の声明を繰り返し、「トランプ大統領は米国と米国人を不当に扱った人々の責任を問い続けている」と宣言した。
+この和解では、司法省が政府法違反の被害者であると主張する人々への支払いに使用される17億7,600万ドルの基金を創設することと引き換えに、トランプ氏と共同原告らが訴訟を取り下げることが含まれていた。
+ブランシュ氏はこれまでの上院証言で、2021年1月6日の国会議事堂暴動で警察官への暴行容疑で起訴された人々にこれらの資金の一部が与えられる可能性を排除しなかった。トランプ大統領は国会議事堂の暴徒全員を事実上恩赦しており、彼らに対して頻繁に同情を表明している。
+金曜朝のトゥルース・ソーシャルへの投稿で、同氏は基金を全力で擁護し、「政府による虐待の被害者たちは、彼らが耐え忍ばなければならなかった、彼らの人生が台無しにされたことに対する報いを受けるべきだと私は常に思う！」と述べた。
+ブランシュ氏の指名を阻む共和党の一人であるトム・ティリス上院議員（ノースカロライナ州）を含む一部の人々は、トランプ氏の投稿を1月6日の参加者に言及し、基金がまだ生きていることを示唆していると解釈した。
+この和解案には、トランプ氏とその家族、関連団体の過去の連邦税申告書が国税局の執行措置から除外されることに司法省が同意する条項も含まれていた。
+ウィリアムズ氏は7月13日の命令文で、「裁判所は、原告らが本件における特定の裁定（納税者の資金へのアクセス、監査やその他の調査の免除）を正当化するためにこの訴訟を不当に利用したと判断した。この裁定は、被告に対する支配力を利用して達成されたものである」と述べた。
+ウィリアムズ氏はこの命令の中で、トランプ氏の弁護士の一人、アレハンドロ・ブリト氏を懲戒処分の可能性があるとしてフロリダ弁護士会に付託するなど、金銭以外の制裁をいくつか課した。
+彼女はまた、別の弁護士ダニエル・エプスタインに対し、南部フロリダ連邦裁判所への出廷を1年間認められないようにした。
+そして彼女は、トランプ大統領と訴訟の他の当事者に対し、訴訟が実際に和解に達したことを示す証拠として「和解合意」に言及することを禁じた。
+彼女の命令は和解そのものを明示的に無効にするものではなく、双方間の「個人的な合意」が有効で法的強制力があるかどうかの問題は「この法廷で争われるものではない」と指摘した。
+当時司法省の報道官はウィリアムズ氏の命令に対し、「この事件には共謀はなかったし、そうでないと推測した党派判事は数十年にわたる前例を無視した」と主張した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/31/trump-appeals-irs-lawsuit-blanche-fund.html",
+    publishedAt: "2026-07-31T22:04:03+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "snapchat-joins-other-popular-platforms-i-9e7d925a",
+    title: "Snapchat joins other popular platforms in fight against 'AI slop'",
+    titleJa: "Snapchatが他の人気プラットフォームに加わり「AIのスロップ」と戦う",
+    summaryJa: "Snapchatが他の人気プラットフォームに加わり「AIのスロップ」と戦う- 公開されました",
+    bodyOriginal: `Snapchat joins other popular platforms in fight against 'AI slop'
+- Published
+Snapchat has joined the likes of YouTube, LinkedIn and Substack in a growing effort to combat fake writing, images and videos that are entirely created by artificial intelligence (AI) tools.
+Such content, commonly called "AI slop", has proliferated online as the tech industry has raced to create a greater number of easier to use generative AI tools that can create anything from essays to realistic videos.
+Snap, the parent company of Snapchat, said on Friday that the platform would stop recommending "wholly AI-generated videos" in its popular Spotlight feed in favour of "authentic, human-made content."
+Over the past two weeks, YouTube, LinkedIn and Substack have unveiled similar strategies.
+Snap did not go so far as to try and prohibit all AI-generated content from Snapchat. The platform offers its own AI tools to alter content, and so AI "enhanced or edited" content will still be part of its recommendations to users.
+However, Snap acknowledged that entirely AI-generated content is typically "low-quality", "repetitive", and generally not what Snapchat users want to see.
+Recent research into the reception of AI-generated content shows that people tend to agree, external with those descriptions.
+Moreover, the more fake AI-generated content that people see in a social media feed, the less likely, external they are to think that any of the content they're being shown online is genuine, according to a separate survey.
+Targeting 'AI slop'
+As Chris Best, the co-founder and chief executive of Substack put it last week: "It's getting harder to tell what's real on the internet."
+Announcing a new tool, external designed to let readers on the newsletter platform detect AI-generated writing, Best cited other research that has found up to 40% of writing on social media is now fake or AI-generated.
+"Platforms that reward fakeness will create a race to the bottom," Best said.
+LinkedIn, a social media platform focused on work, introduced a button on its platform this week that allows any user to report if a post or a comment appears to be AI-generated.
+"AI slop is a top priority for all of us," LinkedIn's chief product officer Hari Srinivasan wrote on the platform.
+In just the last couple of months, he said the platform had "blocked billions" of attempts to post AI-generated comments.
+"Every day we are now catching hundreds of thousands of automated comment attempts," Srinivasan said.
+Like Snap, LinkedIn said it is not rejecting the use of AI entirely and users that use AI tools to "refine" their posts should not get caught up in efforts to combat AI slop.
+Nonetheless, LinkedIn is removing an automated prompt that would show up for users writing a post offering to "enhance" it through the use of AI. It will go back to a simple proofreading tool.
+YouTube, the video platform owned by Google, also this month updated its policies, external around what kind of content can be monetised by creators.
+Research from last year found scores of channels on YouTube that were solely AI-generated content, external, many of which had millions of subscribers and some of which made millions of dollars in revenue.
+In an effort to discourage YouTube from filling up with what the platform calls "inauthentic content", earlier this month the site broke down into three categories the kind of videos that will not be allowed to make money through it: generic, repetitive, or template-based.
+Those styles of content are much easier to make, and quickly, with the use of generative AI tools.
+YouTube's trust and safety chief Matt Halprin said in an interview, external on the updated rules that, while AI tools can help people with their content, they are more frequently being used to create fake and low-quality videos.
+"The same technology really enables great stuff," Halprin said.
+"But it also enables stuff that's kind of content farming, and that's the stuff that we don't want to have."
+- Published4 February`,
+    bodyJa: `Snapchatが他の人気プラットフォームに加わり「AIのスロップ」と戦う
+- 公開されました
+Snapchat は、人工知能 (AI) ツールによって完全に作成された偽の書き込み、画像、ビデオと戦う取り組みを強化するために、YouTube、LinkedIn、Substack などに加わりました。
+一般に「AI スロップ」と呼ばれるこのようなコンテンツは、エッセイからリアルなビデオまであらゆるものを作成できる、より多くの使いやすい AI 生成ツールの開発をテクノロジー業界が競う中、オンラインで急増しました。
+Snapchatの親会社Snapは金曜日、同プラットフォームが人気のスポットライトフィードで「完全にAIで生成された動画」の推奨をやめ、「本物の人間が作成したコンテンツ」を推奨すると発表した。
+過去 2 週間にわたって、YouTube、LinkedIn、Substack も同様の戦略を発表しました。
+Snapは、AIが生成したすべてのコンテンツをSnapchatから禁止しようとまではしなかった。このプラットフォームはコンテンツを変更するための独自の AI ツールを提供しているため、AI で「強化または編集された」コンテンツは引き続きユーザーへの推奨事項の一部となります。
+しかし、完全にAIによって生成されたコンテンツは通常「低品質」で「反復的」であり、一般的にSnapchatユーザーが見たいものではないことをSnapは認めた。
+AI が生成したコンテンツの受け入れに関する最近の研究では、人々はその記述に外部から同意する傾向があることが示されています。
+さらに、別の調査によると、ソーシャル メディア フィードで AI によって生成された偽のコンテンツが増えれば増えるほど、オンラインで表示されているコンテンツが本物であると外部から考える可能性は低くなります。
+「AIスロップ」をターゲットに
+Substack の共同創設者兼最高経営責任者 Chris Best 氏が先週述べたように、「インターネット上で何が真実なのかを見分けるのはますます困難になっています。」
+ニュースレター プラットフォームの読者が AI によって生成された文章を検出できるように外部設計された新しいツールを発表したベスト氏は、ソーシャル メディア上の書き込みの最大 40% が偽物または AI によって生成されたことが判明した他の研究を引用しました。
+「偽物に報いるプラットフォームは最下位への競争を生み出すだろう」とベスト氏は語った。
+仕事に焦点を当てたソーシャルメディアプラットフォームであるLinkedInは今週、投稿やコメントがAIによって生成されたと思われる場合に誰でも報告できるボタンをプラットフォームに導入した。
+「AIの進歩は私たち全員にとって最優先事項です」とLinkedInの最高製品責任者であるハリ・スリニバサン氏はプラットフォーム上で書いた。
+過去数か月の間に、同プラットフォームはAIが生成したコメントを投稿しようとする「数十億件の」試みをブロックしたと同氏は述べた。
+「私たちは毎日、何十万もの自動コメントの試みをキャッチしています」とスリニバサン氏は語った。
+Snapと同様、LinkedInもAIの利用を完全に否定しているわけではなく、AIツールを使って投稿を「洗練」するユーザーはAIのスロップに対抗する取り組みに巻き込まれるべきではないと述べた。
+それにもかかわらず、LinkedIn は、AI の使用によって投稿を「強化」することを提案する投稿を作成するユーザーに表示される自動プロンプトを削除します。単純な校正ツールに戻ります。
+Google傘下のビデオプラットフォームであるYouTubeも今月、クリエイターがどのような種類のコンテンツを収益化できるかに関する外部ポリシーを更新した。
+昨年の調査では、YouTube 上に AI によって生成された外部コンテンツだけを含む多数のチャンネルが存在し、その多くには数百万人の登録者がおり、中には数百万ドルの収益を上げているチャンネルもありました。
+YouTubeが同プラットフォームと呼ばれる「本物でないコンテンツ」で埋め尽くされるのを阻止するため、同サイトは今月初め、収益化が認められない動画の種類を一般的なもの、反復的なもの、テンプレートベースの3つのカテゴリーに分類した。
+これらのスタイルのコンテンツは、生成 AI ツールを使用すると、はるかに簡単かつ迅速に作成できます。
+YouTubeの信頼・安全性責任者のマット・ハルプリン氏は、更新された規則について社外のインタビューで、AIツールは人々のコンテンツを助けることはできるものの、偽動画や低品質動画の作成に使用されることが多くなっていると述べた。
+「同じテクノロジーが本当に素晴らしいものを実現します」とハルプリン氏は語った。
+「しかし、それは一種のコンテンツファーミングのようなものも可能にし、それは私たちが望んでいないものです。」
+- 2 月 4 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-07-31T21:57:59+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ad/live/074af240-8d23-11f1-92b9-3b7efaf76067.jpg",
+    readTime: 5,
+  },
+  {
+    id: "the-s-p-500-is-making-a-change-by-adding-01a25893",
+    title: "The S&P 500 is making a change by adding this little-known industrial stock",
+    titleJa: "S&P 500 は、このあまり知られていない工業株を追加することで変化を起こしています",
+    summaryJa: "ファーガソン・エンタープライズの株価は、バージニア州ニューポートニューズの同社がS&P 500指数に加わり、有名企業を抑えて採用されるとのニュースを受けて8％以上上昇した。",
+    bodyOriginal: `Ferguson Enterprises’ stock was rallying more than 8% after news the Newport News, Va., company will be joining the S&amp;P 500 index, edging out better-known names for inclusion.`,
+    bodyJa: `ファーガソン・エンタープライズの株価は、バージニア州ニューポートニューズの同社がS&P 500指数に加わり、有名企業を抑えて採用されるとのニュースを受けて8％以上上昇した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+    publishedAt: "2026-07-31T21:53:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-00635933",
+    readTime: 2,
+  },
+  {
+    id: "trump-s-ai-executive-order-nears-key-dea-a5e3e763",
+    title: "Trump's AI executive order nears key deadline as regulation debate intensifies",
+    titleJa: "規制議論が激化する中、トランプ大統領のAI大統領令が重要な期限に近づく",
+    summaryJa: "ホワイトハウスがAI大統領令で定めた期限を前に、OpenAIのサム・アルトマン氏とエヌビディアのジェンセン・ファン氏がワシントンD.C.のテクノロジーリーダーの一人となった。",
+    bodyOriginal: `When President Donald Trump signed his AI executive order in early June, he gave federal agencies 60 days to develop a key framework as part of its implementation.
+On Saturday, their time is up.
+The fast-approaching deadline of Aug. 1 has been the subject of much anticipation in Silicon Valley, where the debate over artificial intelligence regulation has been raging in recent days. OpenAI CEO Sam Altman and Nvidia's Jensen Huang were among tech leaders who met with lawmakers and Trump administration officials in Washington, D.C., this week, all trying to influence upcoming decisions.
+Trump's executive order, thin on details, asks AI companies to voluntarily submit their models to the government for evaluation ahead of their public release. The president tasked Treasury Secretary Scott Bessent, Defense Secretary Pete Hegseth, White House Chief of Staff Susie Wiles, Commerce Secretary Howard Lutnick and other officials with ironing out the specifics.
+When asked for comment about the status of the framework, the White House directed CNBC to a social media post from spokesperson Kush Desai: "BREAKING: Trump White House to meet a deadline we set for ourselves."
+Representatives from OpenAI and Anthropic didn't immediately respond to a request for comment.
+Altman told CNBC on Wednesday that he's seen a draft of the framework, and that he didn't have "anything specifically in mind" as far as proposed changes. He met with Wiles during his visit, and was also expected to meet with Bessent and Lutnick, according to reports.
+The deadline lands during a tense moment for AI development in the U.S., as the tech industry's most powerful leaders weigh in on how AI should be regulated, and whether OpenAI and Anthropic, the leading model developers, should be able to exert outsized influence over the future.
+In recent weeks, the market has experienced a dramatic shake-up as so-called open-weight models, largely out of China, are showing how quickly they can advance in their capabilities. The models offer cost-efficient alternatives to the frontier models from OpenAI and Anthropic, and allow users to download the technology, modify it and run it on the infrastructure of their choice.
+Those developments have prompted a fierce debate within the tech sector over whether the Trump administration should move to restrict or outright ban Chinese open-weight models. In almost unprecedented fashion, the world's leading tech execs have unified in opposing any potential ban.
+Nvidia's Huang supercharged the discussion on Monday by releasing a letter urging policymakers to avoid "premature restrictions" on open-weight models. Huang used it as an opportunity to make his debut post on X, formerly Twitter.
+Elon Musk, who controls X through his rocket company SpaceX, responded by saying, "This has my full support. Jensen is right."
+Microsoft, Meta, Palantir and dozens of other companies signed the letter. OpenAI joined later, but Anthropic did not, opting instead to outline its position in a separate blog post.
+The Trump administration hasn't officially shared its position on the matter, though former AI czar David Sacks, who still has influence in the administration, has been among the most vocal opponents of any sort of ban.
+According to Trump's executive order, the AI framework will involve a classified benchmarking process that will assess models' cyber capabilities and determine if they should be considered a "covered frontier model." It will also encourage companies to work with the government to determine the "trusted partners" that will have access to those models.
+A finalized framework could be welcome news for both OpenAI and Anthropic, which have had to navigate a murky model deployment process since Trump first signed the order.
+Soon after the executive order, Anthropic had to disable access to its Fable 5 and Mythos 5 models to comply with an export control directive that was issued by the Commerce Department. Two weeks later OpenAI said it agreed to limit the rollout of its GPT-5.6 model series to a group of "trusted partners" at the request of the U.S. government. Both companies were eventually able to roll out their models more broadly.
+"The government and private sector have worked together in a way we have never seen before and this foundation of America First is unprecedented," Wiles wrote in a rare post on X in late June. "Our shared priority remains: get the best tech deployed as quickly and safely as possible."
+WATCH: OpenAI CEO Sam Altman to meet with White House Chief of Staff Susie Wiles this week`,
+    bodyJa: `ドナルド・トランプ大統領が6月初旬にAI大統領令に署名したとき、その実施の一環として主要な枠組みを開発するために連邦政府機関に60日間の猶予を与えた。
+土曜日には時間切れです。
+8月1日という期限が目前に迫り、ここ数日人工知能の規制をめぐる議論が激化しているシリコンバレーでは大きな期待が寄せられている。 OpenAIのサム・アルトマン最高経営責任者（CEO）とエヌビディアのジェンセン・ファン氏は今週ワシントンD.C.で議員やトランプ政権当局者らと会談したテクノロジーリーダーの一人で、いずれも今後の決定に影響を与えようとしている。
+トランプ大統領の大統領令は、詳細にはあまり触れていないが、AI企業に対し、公開に先立って評価のために自発的にモデルを政府に提出するよう求めている。大統領はスコット・ベッセント財務長官、ピート・ヘグセス国防長官、スージー・ワイルズ大統領首席補佐官、ハワード・ルトニック商務長官、その他の当局者に詳細を解明するよう命じた。
+枠組みの状況についてコメントを求められた際、ホワイトハウスはCNBCに対し、クシュ・デサイ報道官のソーシャルメディア投稿に「速報：トランプ・ホワイトハウスは自ら設定した期限を守るよう指示した」と指示した。
+OpenAIとAnthropicの代表者はコメントの要請にすぐには応じなかった。
+アルトマン氏は水曜日、CNBCに対し、枠組みの草案は見たが、提案されている変更に関しては「具体的に何も考えていない」と語った。報道によると、同氏は訪問中にワイルズ氏と会談し、ベッセント氏とラトニック氏とも会談する予定だという。
+この期限は、米国における AI 開発にとって緊迫した時期に迫っている。テクノロジー業界の最も強力なリーダーたちが、AI をどのように規制すべきか、そして主要なモデル開発会社である OpenAI と Anthropic が将来に対して大きな影響力を行使できるかどうかについて意見を交わしているからだ。
+ここ数週間、市場は劇的な激変を経験しており、主に中国から出ているいわゆるオープンウェイトモデルがその能力の急速な進歩を示している。このモデルは、OpenAI や Anthropic のフロンティア モデルに代わるコスト効率の高い代替手段を提供し、ユーザーがテクノロジーをダウンロードして変更し、選択したインフラストラクチャ上で実行できるようにします。
+こうした動向を受けて、テクノロジー業界内では、トランプ政権が中国の無差別級モデルを制限するべきか、それとも完全に禁止するべきかについて、激しい議論が巻き起こっている。ほぼ前例のないやり方で、世界の主要なテクノロジー企業幹部が団結して禁止の可能性に対して反対している。
+NvidiaのHuang氏は月曜日、無差別級モデルに対する「時期尚早な制限」を回避するよう政策立案者に促す書簡を発表し、議論を盛り上げた。 Huang はこれを X (旧 Twitter) にデビュー投稿する機会として利用しました。
+自身のロケット会社スペースXを通じてXを管理しているイーロン・マスク氏は、「これは私が全面的に支持する。ジェンセン氏は正しい」と応じた。
+Microsoft、Meta、Palantir、その他数十社がこの書簡に署名した。 OpenAI は後に参加しましたが、Anthropic は参加せず、代わりに別のブログ投稿でその立場を概説することにしました。
+トランプ政権はこの問題に関する公式の立場を明らかにしていないが、依然として政権内で影響力を持つ元AI皇帝デービッド・サックス氏は、あらゆる種類の禁止に最も声高に反対している一人である。
+トランプ大統領の大統領令によると、AIフレームワークには、モデルのサイバー能力を評価し、「カバード・フロンティア・モデル」とみなすべきかどうかを決定する機密ベンチマーク・プロセスが含まれるという。また、企業が政府と協力して、これらのモデルにアクセスできる「信頼できるパートナー」を決定することも奨励する。
+トランプ大統領が最初にこの命令に署名して以来、不透明なモデル導入プロセスを乗り越えなければならなかったOpenAIとAnthropicの両方にとって、最終的な枠組みは歓迎すべきニュースとなる可能性がある。
+大統領令の直後、Anthropic は商務省が発行した輸出管理指令に準拠するために、自社の Fable 5 および Mythos 5 モデルへのアクセスを無効にする必要がありました。 2週間後、OpenAIは、米国政府の要請に応じ、GPT-5.6モデルシリーズの展開を「信頼できるパートナー」のグループに限定することに同意したと発表した。両社は最終的に、モデルをより広範囲に展開することができました。
+「政府と民間部門はこれまで見たことのない方法で協力しており、このアメリカ第一主義の基盤は前例のないものだ」とワイルズ氏は6月下旬、Xに関する珍しい投稿で書いた。 「私たちの共通の優先事項は変わりません。最高のテクノロジーをできるだけ早く安全に導入することです。」
+注目：OpenAI CEOのサム・アルトマン氏が今週、ホワイトハウス首席補佐官スージー・ワイルズ氏と会談`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/07/31/trump-ai-executive-order-nears-key-deadline-regulation-debate-heats-up.html",
+    publishedAt: "2026-07-31T21:46:32+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
     id: "how-leopold-aschenbrenner-built-a-45-bil-fb241fda",
     title: "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
     titleJa: "レオポルド・アシェンブレナーはどのようにして450億ドルのAIヘッジファンドを構築し、その大部分を数日で失ったのか",
@@ -1903,292 +2195,6 @@ Amazonの主なクラウドライバルが堅調なクラウド業績を発表�
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 6,
-  },
-  {
-    id: "jersey-mike-s-stock-falls-7-in-public-ma-0a17bb75",
-    title: "Jersey Mike's stock falls 7% in public market debut after pricing shares at $23",
-    titleJa: "ジャージー・マイクの株価は23ドルで株価を公開後、公開市場デビューで7％下落",
-    summaryJa: "ジャージー・マイクズの株価は、同社がティッカー「JMKE」でニューヨーク証券取引所に上場した後、木曜午後の取引で約7％下落した。株価は1株あたり21ドルと予想レンジの中間点である1株あたり23ドルを下回る21ドルで取引を開始した。",
-    bodyOriginal: `Shares of Jersey Mike's fell about 7% during trading on Thursday afternoon after the company made its public market debut on the New York Stock Exchange under the ticker "JMKE."
-The stock opened at $21 per share, below its initial public offering pricing of $23 per share, at the midpoint of the expected range of $21 to $25 per share.
-Jersey Mike's sold 43.5 million shares, raising about $1 billion and valuing the company at $7.3 billion. With those proceeds, the chain is now among the largest-ever initial fundraises for a restaurant IPO.
-Jersey Mike's has nearly 3,300 locations, making it the second-largest hoagie sandwich chain in the U.S. behind Subway. It's now the largest public chain in the category.
-The company reported net income of $55 million on total revenue of $724 million last year. Its same-store sales increased 3% over the same period. The metric tracks sales growth at restaurants open at least a year.
-Broadly, diners are eating out less often or seeking deals to save money, and the restaurant industry has seen traffic and sales soften. But Jersey Mike's has largely bucked the trend, and its high average unit volumes and asset-light franchise model made the stock attractive to investors.
-CEO Charlie Morrison told CNBC that Jersey Mike's customer base typically skews "a little higher income," insulating the chain from some of the pullback in consumer spending.
-"We're seeing the consumer come back," Morrison said. "We've seen positive transition growth. In fact, most of our same-store sales growth this year to date has been driven primarily by transaction growth."
-Jersey Mike's successful IPO is a positive harbinger for other consumer companies looking to go public. Rival restaurant company Inspire Brands, which counts Dunkin' and Jimmy John's among its brands, has confidentially filed for an initial public offering and could easily snatch Jersey Mike's title for biggest-ever restaurant IPO.
-Clothing company Reformation is also expected to make its public market debut on Thursday; the retailer priced shares at $15, on the low end of its expected range of $15 to $17.
-Jersey Mike's expansion plans
-Jersey Mike's founder Peter Cancro began working at a Jersey Shore sandwich shop at age 14 in 1971. Four years later, he pulled together enough money to buy Mike's Subs. Cancro later changed the name and began franchising the chain. Today, franchisees operate 99.2% of Jersey Mike's locations.
-In late 2024, Jersey Mike's announced that Blackstone had bought a majority stake reportedly valued at around $8 billion including debt.
-After the transaction closed, Jersey Mike's tapped Morrison as its chief executive. He previously led Wingstop for more than a decade, including during the chicken wing chain's own IPO.
-Morrison said that he sees a lot of similarities with Wingstop. Like the chicken wing chain, Jersey Mike's is mostly franchised and generates free cash flow for investors.
-Jersey Mike's plans to use the proceeds from the offering to pay down debt and general corporate purposes.
-Looking ahead, the chain plans to expand its international reach.
-The vast majority of its restaurants are in the U.S., a relatively mature market for hoagies. Cancro, who has retained some equity in Jersey Mike's, signed a master franchise agreement to bring Jersey Mike's to the United Kingdom and Ireland.
-Long term, Jersey Mike's sees the potential for 15,000 restaurants worldwide — half in the U.S., half in international markets.
-"One of the benefits of being a publicly traded company on the New York Stock Exchange is that we get a lot of awareness of the brand, not only in the U.S., but also around the world," Morrison said.`,
-    bodyJa: `ジャージー・マイクズの株価は、同社がティッカー「JMKE」でニューヨーク証券取引所に上場した後、木曜午後の取引で約7％下落した。
-株価は1株あたり21ドルと予想レンジの中間点である1株あたり23ドルを下回る21ドルで取引を開始した。
-ジャージー・マイクズは4,350万株を売却し、約10億ドルを調達し、企業価値は73億ドルとなった。これらの収益により、このチェーンは現在、レストランの IPO における史上最大の初期資金調達の 1 つとなっています。
-Jersey Mike's は約 3,300 店舗を展開しており、米国では Subway に次ぐ 2 番目に大きなホーギー サンドイッチ チェーンです。現在、このカテゴリーで最大のパブリックチェーンとなっています。
-同社は昨年、総収益が7億2,400万ドルで、純利益が5,500万ドルだったと報告した。同期間の既存店売上高は３％増加した。この指標は、少なくとも 1 年間オープンしたレストランの売上の伸びを追跡します。
-概して、ダイナーは外食の頻度を減らしたり、お金を節約するための取引を求めたりしており、レストラン業界では客足と売上が減少している。しかし、ジャージー・マイクズはその傾向に大きく逆らっており、その高い平均ユニットボリュームと資産の少ないフランチャイズモデルにより、この株は投資家にとって魅力的なものとなった。
-最高経営責任者（CEO）のチャーリー・モリソン氏はCNBCに対し、ジャージー・マイクの顧客ベースは通常「少し高収入」に偏っており、消費支出の一部の反動からチェーンを守っていると語った。
-モリソン首相は「消費者が戻ってきているのを目にしている」と述べた。 「当社は移行期におけるプラスの成長を確認しています。実際、今年から現在までの当社の既存店売上高の伸びのほとんどは、主に取引の伸びによってもたらされています。」
-ジャージー・マイク氏のIPOの成功は、上場を目指す他の消費者企業にとって前向きな前兆となる。ライバルのレストラン会社インスパイア・ブランズはダンキンやジミー・ジョンズを自社ブランドに数えており、極秘に新規株式公開を申請しており、ジャージー・マイクの史上最大のレストランIPOの称号をいとも簡単に奪う可能性がある。
-衣料品会社リフォーメーションも木曜日に公開市場デビューを果たす予定だ。小売業者は株価を15ドルと予想し、15ドルから17ドルの範囲の下限に設定した。
-ジャージー・マイクの拡張計画
-Jersey Mikeの創設者であるPeter Cancroは、1971年に14歳でジャージーショアのサンドイッチ店で働き始めました。4年後、彼はMike's Subsを購入するのに十分な資金を集めました。 Cancro は後に名前を変更し、チェーンのフランチャイズ化を開始しました。現在、フランチャイズ加盟者はジャージー マイクの店舗の 99.2% を運営しています。
-2024年後半、ジャージー・マイクズは、ブラックストーンが負債を含めて約80億ドルと伝えられる過半数の株式を購入したと発表した。
-取引完了後、ジャージー・マイクズはモリソン氏を最高経営責任者に指名した。彼は以前、チキンウィング チェーン自身の IPO を含め、10 年以上にわたってウィングストップを率いていました。
-モリソン氏はウイングストップと多くの類似点があると述べた。チキンウィング チェーンと同様、Jersey Mike's もほとんどがフランチャイズ化されており、投資家にフリー キャッシュ フローを生み出しています。
-ジャージー・マイク氏は、今回の募集で得た収益を負債の返済と一般的な企業目的に使用する計画だ。
-今後を見据えて、このチェーンは国際的な展開を拡大することを計画しています。
-同社のレストランの大部分は、ホーギー市場が比較的成熟している米国にあります。カンクロはジャージー・マイクズの株式の一部を保持しており、ジャージー・マイクズを英国とアイルランドに導入するためのマスターフランチャイズ契約に署名した。
-長期的には、Jersey Mike's は世界中に 15,000 軒のレストランができる可能性があると考えています。その半分は米国内、半分は海外市場にあります。
-モリソン氏は「ニューヨーク証券取引所に上場している企業であることの利点の一つは、米国だけでなく世界中でブランドの認知度が高まっていることだ」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/30/jersey-mikes-ipo-jmke-starts-trading-on-the-new-york-stock-exchange.html",
-    publishedAt: "2026-07-30T19:39:14+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "trump-says-sanctions-bill-should-include-5260b6a8",
-    title: "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-    titleJa: "トランプ大統領、米国との「些細な」貿易にもかかわらず、制裁法案には対イラン関税を盛り込むべきだと発言",
-    summaryJa: "ドナルド・トランプ大統領は議会に対し、超党派の支持を得ているロシアとイランに対する制裁法案にイランへの関税を追加するよう求めている。米国はイランからほとんど何も輸入していないため、これらの関税はほとんど影響しないだろう。しかし、これらを法案に追加すると、法案成立の可能性が台無しになる可能性がある。",
-    bodyOriginal: `President Donald Trump wants Congress to add tariffs on Iran to a sanctions bill against Russia and Tehran that has bipartisan support.
-Those duties would have little effect because the U.S. imports nearly nothing from Iran. But tacking them on to the bill may torpedo its chances of becoming law.
-While sanctions against the two countries has widespread support in Congress, Trump's well-established belief in tariffs as a one-size-fits-all tool for economic coercion is polarizing.
-The U.S. imported just $1.4 million in goods from Iran 2025, according to the Office of the U.S. Trade Representative. Works of art, collectors pieces and antiques were the largest category of those imports, making up 55% of the value, according to the firm Trading Economics.
-It's hard to imagine that figure increasing much this year — especially since late February, when the U.S. and Israel launched a war against Iran that continues with no end in sight. The U.S. has sanctioned Iran for decades, and the Treasury Department has sought to further squeeze Tehran's economy amid the war.
-"The Administration's threat to impose tariffs on imports from Iran is entirely symbolic," Jonathan Doh, professor of international business at Villanova School of Business, said in an email to CNBC. "U.S. imports from Iran are trivial."
-Trump sees it differently. Asked at the White House on Wednesday about the pending sanctions bill, he said, "I'd like them to add Iran as tariffs, not just as sanctions."
-The measure is named after former Sen. Lindsey Graham, R-S.C., who died unexpectedly in mid-July.
-"I'd like to see tariffs on Iran. It would make it much stronger," Trump said of the bill, which would impose economic sanctions on Russia and those supporting its war against Ukraine.
-The legislation would also let Trump slap targeted tariffs on goods imported from the top five countries that buy Russian energy and help it evade sanctions.
-Trump claimed Wednesday that modifying it by adding tariffs on Iran is "what Lindsey wanted."
-Graham's office, which is now occupied by his sister, Darline Graham, did not respond to CNBC's request for comment on Trump's remark.
-Doh told CNBC that U.S. sanctions on Iran — which already prohibit nearly all trade — are "far more impactful" than tariffs would be.
-"Primary sanctions target U.S. persons from trading with Iran, while secondary sanctions target non-U.S. companies and individuals for doing business with Iran," Doh said.
-He noted that Iran was eager to include sanctions relief as part of a now-defunct temporary ceasefire deal with the U.S. that was signed in June, then effectively scrapped weeks later as military action resumed.
-The sanctions bill took a key step forward Tuesday, as a bipartisan group of senators said they reached a deal combine provisions on Russia and Iran into a single legislative package. The chamber then voted 86-12 on a procedural measure to advance the bill. The vote was notable in a Congress that has been riven by partisan divisions.
-But that progress could hit a wall if Trump insists additional tariffs on Iran be added to the bill.
-Democrats have denounced Trump's heavy use of tariffs, which has ramped back up this month after being tamped down by the Supreme Court earlier this year. The Trump administration in recent weeks has imposed or announced new duties on goods from dozens of countries, including Canada, Brazil and the 27-member European Union.
-The White House and the Office of the U.S. Trade Representative did not respond to CNBC's requests for comment on Trump's call for tariffs on Iran.`,
-    bodyJa: `ドナルド・トランプ大統領は議会に対し、超党派の支持を得ているロシアとイランに対する制裁法案にイランへの関税を追加するよう求めている。
-米国はイランからほとんど何も輸入していないため、これらの関税はほとんど影響しないだろう。しかし、これらを法案に追加すると、法案成立の可能性が台無しになる可能性がある。
-両国に対する制裁は議会で幅広い支持を得ているが、関税は経済的抑圧のための万能の手段であるというトランプ大統領の確立した信念は二極化している。
-米通商代表部によると、2025年に米国がイランから輸入した商品はわずか140万ドルだった。トレーディング・エコノミクス社によると、輸入品の中で最大のカテゴリーは美術品、コレクターズ・ピース、骨董品で、金額の55％を占めた。
-今年、この数字が大幅に増加するとは考えにくい――特に米国とイスラエルが終わりの見えない対イラン戦争を開始した2月下旬以降はなおさらだ。米国は数十年にわたりイランを制裁しており、財務省は戦争の最中にイラン経済をさらに圧迫しようとしていた。
-ビラノバ・スクール・オブ・ビジネスの国際ビジネス教授、ジョナサン・ドー氏はCNBCへの電子メールで、「イランからの輸入品に関税を課すという政権の脅迫は全く象徴的だ」と述べた。 「米国のイランからの輸入は取るに足らないものだ。」
-トランプ氏は違う見方をしている。水曜日、ホワイトハウスで保留中の制裁法案について質問された同氏は、「イランを単なる制裁ではなく、関税の対象に加えてほしい」と述べた。
-この措置は、7月中旬に急死した元上院議員リンジー・グラハム氏（共和党、サウスカロライナ州）にちなんで命名された。
-トランプ大統領は、ロシアと対ウクライナ戦争を支援する国々に経済制裁を課す法案について、「イランへの関税を望んでいる。そうすればイランはさらに強化されるだろう」と語った。
-この法案により、トランプ大統領はロシアのエネルギーを購入し、制裁回避を支援する上位5カ国からの輸入品に対象を絞った関税を課すことも可能になる。
-トランプ大統領は水曜日、対イラン関税の追加による修正は「リンゼイ氏が望んでいたこと」だと主張した。
-グラハム氏の事務所は現在、妹のダーリン・グラハム氏が担当しているが、トランプ氏の発言に関するCNBCのコメント要請には応じなかった。
-ドー氏はCNBCに対し、すでにほぼすべての貿易を禁止している米国の対イラン制裁は関税よりも「はるかに影響力がある」と語った。
-ドー長官は、「一次制裁はイランとの取引を行う米国人を対象とし、二次制裁はイランと取引する米国以外の企業や個人を対象とする」と述べた。
-同氏は、イランが6月に署名され、数週間後に軍事行動が再開されたことで事実上破棄された、現在は失効している米国との一時停戦協定の一部として制裁緩和を盛り込むことを熱望していると指摘した。
-火曜日、超党派の上院議員グループが、ロシアとイランに関する条項を単一の立法パッケージにまとめる合意に達したと発表し、制裁法案は重要な一歩を踏み出した。その後、議場は法案を前進させるための手続き措置を86対12で可決した。この投票は党派の分裂によって引き裂かれた議会において注目に値した。
-しかし、トランプ大統領が対イラン追加関税を法案に追加するよう主張すれば、その進展は壁に突き当たる可能性がある。
-民主党はトランプ大統領の関税の多用を非難しており、関税は今年初めに最高裁判所によって抑制された後、今月から再び強化されている。トランプ政権はここ数週間、カナダ、ブラジル、欧州連合（２７カ国）を含む数十カ国からの商品に新たな関税を課したり、発表したりしている。
-ホワイトハウスと米通商代表部は、トランプ大統領の対イラン関税要求に関するCNBCのコメント要請に応じなかった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/30/trump-iran-tariffs-sanctions-bill.html",
-    publishedAt: "2026-07-30T19:21:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "warsh-s-wall-street-cred-takes-a-hit-as-0606b23d",
-    title: "Warsh’s Wall Street cred takes a hit as investors doubt the Fed chair’s inflation-fighting resolve",
-    titleJa: "投資家がFRB議長のインフレ対策の決意を疑う中、ウォーシュ氏のウォール街での信用は打撃を受ける",
-    summaryJa: "ケビン・ウォーシュ氏は、連邦準備理事会は米国のインフレ率を目標の2％まで下げるためにあらゆる手段を講じると主張しているが、投資家はそれを支持していない。",
-    bodyOriginal: `Kevin Warsh insists the Federal Reserve will do whatever it takes to reduce U.S. inflation to its 2% target, but investors aren’t buying it.`,
-    bodyJa: `ケビン・ウォーシュ氏は、連邦準備理事会は米国のインフレ率を目標の2％まで下げるためにあらゆる手段を講じると主張しているが、投資家はそれを支持していない。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/warshs-wall-street-cred-takes-a-hit-as-investors-doubt-the-fed-chairs-inflation-fighting-resolve-82be4f77?mod=mw_rss_topstories",
-    publishedAt: "2026-07-30T19:02:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-64759388",
-    readTime: 2,
-  },
-  {
-    id: "china-s-open-weight-model-lead-exposes-a-9eff0a34",
-    title: "China’s open-weight model lead exposes America’s AI blind spot",
-    titleJa: "中国の無差別級モデルのリーダーがアメリカのAIの盲点を暴露",
-    summaryJa: "中国がこの分野でリードを築き続ける中、米国最大手のテクノロジー企業の一部は、オープン人工知能を国家的優先事項にするよう米国政府に求めている。彼らのメッセージは、米国の政策のギャップを明らかにしています。米国には AI 用のチップ戦略があるということです。今、オープンモデル戦略が必要です。",
-    bodyOriginal: `Some of America's biggest technology companies are pushing Washington to make open artificial intelligence a national priority as China continues to build its lead in the space.
-Their message exposes a gap in U.S. policy: America has a chip strategy for AI. Now it needs an open-model strategy.
-Supporters say open models can lower costs, keep sensitive data inside a company's own systems and prevent businesses from becoming dependent on a handful of AI providers. The models can also give more researchers and security teams the ability to inspect powerful models and find weaknesses.
-Unlike ChatGPT or Claude, which customers access through services controlled by OpenAI and Anthropic, open-weight models can be downloaded, customized and run on a company's own computers. That can make them cheaper and give users more control over their data and technology.
-Last week, a coalition led by Nvidia published an open letter arguing that America's AI leadership will depend on building a strong open ecosystem. Microsoft, Meta and other major technology companies signed it. OpenAI and Google later added their support.
-A striking cybersecurity incident days earlier showed why the issue matters.
-During an internal test, OpenAI models found a way out of a restricted environment and compromised systems at the AI platform Hugging Face. When Hugging Face tried to investigate, safety controls on closed commercial models blocked them from analyzing the attack. The company instead used an open Chinese model that it could run on its own infrastructure.
-A closed American model caused the incident. A Chinese open model helped investigate it.
-That episode complicates the argument that closed AI is always safer.
-America has restricted China's access to advanced chips, spent billions to onshore semiconductor manufacturing and encouraged a massive buildout of data centers and power. Meanwhile, Chinese labs like Zhipu and Moonshot AI have released capable open models at a fraction of the cost of leading American systems.
-The Trump administration is now reportedly considering restrictions on Chinese models. But a ban would not stop those models from spreading around the world. It could simply leave American developers on the sidelines.
-China has a clear incentive to push open-weight AI. Every improvement makes powerful models cheaper and weakens the advantage of American companies that charge a premium for access to closed systems.
-OpenAI and Anthropic have the opposite incentive. Their businesses depend on keeping their best models proprietary. Anthropic CEO Dario Amodei has also warned that models anyone can download are harder to monitor and could be modified by bad actors.
-Those security concerns are real, but so is the risk of allowing China to become the foundation on which the rest of the world builds.
-The way to win an open-source race is by out-building, not with a ban.
-The U.S. could support open AI the way it supported chips, by giving universities and startups access to computing power, awarding government contracts to American open-model developers and funding the security tools needed to run those models safely.
-Companies are already asking for alternatives, and open models can lower costs and let businesses keep sensitive data inside their own systems.
-"The data that these companies have is really their strategic asset," said Vipul Ved Prakash, CEO of AI platform Together AI. By sending it to the maker of a powerful closed model, he said, a company risks giving away its "business' recipe."
-Adoption is moving quickly. During the last week of June, Chinese models accounted for 48% of traffic tracked by OpenRouter, up from 20% a year earlier. U.S. models fell to 32% from 74%.
-The future of AI may not be decided by who builds the smartest single model. It may be decided by who builds the models that everyone else runs on.
-Right now, that is increasingly China.`,
-    bodyJa: `中国がこの分野でリードを築き続ける中、米国最大手のテクノロジー企業の一部は、オープン人工知能を国家的優先事項にするよう米国政府に求めている。
-彼らのメッセージは、米国の政策のギャップを明らかにしています。米国には AI 用のチップ戦略があるということです。今、オープンモデル戦略が必要です。
-支持者らは、オープンモデルはコストを削減し、機密データを企業独自のシステム内に保管し、企業が少数のAIプロバイダーに依存するのを防ぐことができると主張する。このモデルにより、より多くの研究者やセキュリティ チームが強力なモデルを検査して弱点を見つけることができるようになります。
-OpenAI や Anthropic によって制御されるサービスを通じて顧客がアクセスする ChatGPT や Claude とは異なり、オープンウェイト モデルはダウンロードしてカスタマイズし、企業独自のコンピューターで実行できます。これにより、価格が安くなり、ユーザーがデータとテクノロジーをより細かく制御できるようになります。
-先週、Nvidia率いる連合は、米国のAIのリーダーシップは強力なオープンエコシステムの構築に依存すると主張する公開書簡を発表した。 Microsoft、Meta、その他の主要テクノロジー企業が署名しました。 OpenAI と Google は後にサポートを追加しました。
-数日前に起きた衝撃的なサイバーセキュリティ事件は、この問題がなぜ重要なのかを示しました。
-内部テスト中に、OpenAI モデルは AI プラットフォーム Hugging Face で制限された環境と侵害されたシステムから抜け出す方法を発見しました。ハグ・フェイス社が調査しようとしたところ、非公開の商用モデルの安全制御により攻撃を分析することができなかった。同社は代わりに、独自のインフラストラクチャで実行できるオープンな中国モデルを使用しました。
-事件を引き起こしたのはアメリカの非公開モデルだった。中国のオープンモデルがその調査に役立ちました。
-このエピソードは、クローズド AI が常に安全であるという議論を複雑にします。
-米国は中国による先端チップへのアクセスを制限し、陸上の半導体製造に数十億ドルを費やし、データセンターと電力の大規模増強を奨励してきた。一方、Zhipu や Moonshot AI などの中国の研究所は、米国の主要システムの数分の 1 のコストで有能なオープン モデルをリリースしました。
-トランプ政権は現在、中国製モデルへの規制を検討していると伝えられている。しかし、禁止されても、これらのモデルが世界中に広がるのを止めることはできません。それは単にアメリカの開発者を傍観者に置くだけかもしれない。
-中国には、オープンウェイトAIを推進する明確なインセンティブがある。改良が進むたびに強力なモデルが安くなり、クローズドシステムへのアクセスに割増料金を請求する米国企業の優位性が弱まる。
-OpenAI と Anthropic には逆のインセンティブがあります。彼らのビジネスは、最高のモデルを独占的に維持することにかかっています。 Anthropic CEOのDario Amodei氏も、誰でもダウンロードできるモデルは監視が難しく、悪意のある者によって改変される可能性があると警告した。
-こうした安全保障上の懸念は現実であるが、中国が世界の他の国々が築く基盤となることを許すリスクも同様である。
-オープンソースの競争に勝つ方法は、禁止ではなく、アウトビルドすることです。
-米国は、大学や新興企業にコンピューティング能力へのアクセスを与え、米国のオープンモデル開発者に政府契約を与え、それらのモデルを安全に実行するために必要なセキュリティツールに資金を提供することで、チップをサポートしたのと同じようにオープンAIをサポートできる可能性がある。
-企業はすでに代替案を求めており、オープン モデルによりコストが削減され、企業は機密データを自社のシステム内に保管できるようになります。
-AIプラットフォームTogetter AIのCEO、Vipul Ved Prakash氏は、「これらの企業が保有するデータはまさに戦略的資産だ」と述べた。同氏は、強力なクローズドモデルのメーカーにそれを送信することで、企業は「ビジネスのレシピ」を漏らす危険があると述べた。
-導入は急速に進んでいます。 6 月の最終週、OpenRouter が追跡したトラフィックの 48% を中国モデルが占め、前年同期の 20% から増加しました。米国モデルは74％から32％に低下した。
-AI の将来は、誰が最も賢い単一モデルを構築するかによって決まるわけではないかもしれません。それは、他の人が実行するモデルを誰が構築するかによって決まるかもしれません。
-今、それはますます中国です。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html",
-    publishedAt: "2026-07-30T18:51:42+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "apple-and-amazon-report-after-the-bell-h-8cffe7b7",
-    title: "Apple and Amazon report after the bell. Here's what the options market is saying",
-    titleJa: "AppleとAmazonは鐘の後に報告する。オプション市場の意見は次のとおりです",
-    summaryJa: "アップルとアマゾンの今日午後の業績次第で、株式市場がこれまでのところ厳しい週を堅調に終えることができるかどうかが決まるだろう。強気派にとって残念なことに、近いうちにこの決算で大手ハイテク企業2社を同時に勝ち取るのは難しい。先週はアルファベットとテスラが共に下落し、昨夜はマイクロソフトが反発する一方でメタは下落した。今年これまでのところ、株価が異なる方向に進み、オプションの流れが混在していることから、アップルとアマゾンが同じ運命をたどることは容易に想像できる。",
-    bodyOriginal: `Earnings on deck this afternoon for Apple and Amazon will likely decide if the stock market can end what's so far been a rough week on solid footing.
-Unfortunately for bulls it's been tough to get two big-tech winners at once this earnings soon — last week Alphabet and Tesla fell together, and last night Microsoft rallied while Meta fell. It's easy to see Apple and Amazon finding the same fate, with the stocks going in different directions so far this year and options flows mixed.
-Apple is up 25% year to date, making records and a seeing a 7% rally since the S&P 500 peaked on June 2. Options traders are braced for a bigger-than-usual move on earnings, with implied volatility pricing a 3.4% move after the report drops — more than double the stock's median 1.5% move after its past four reports.
-While options flows were leaning bullish to start the week, early gain in Apple share reversed while the stock market sold off Wednesday and options traders took a more bearish lean in the stock.
-While more than $470 million of the $634 million in options premium on Apple Wednesday was tied to calls, much of it was calls sold, with net trade sentiment in the options leaning slightly bearish, according to data from SpotGamma and Barchart. The most popular contract expiring Friday by volume Wednesday was the 330-strike puts, which need a more than 3% drop to pay off.
-In Amazon, exactly flat on the year, traders look a bit more optimistic. Most of the $615 million in options premium was tied to puts Wednesday, but traders looked more likely to sell that volatility than buy it. Net trade sentiment was positive by almost $3 million and 100,000 deltas, Barchart analysis shows.
-Traders expect a 6.6% move after Amazon earnings, compared to the median 7% move the past four quarters, according to Cboe LiveVol data.`,
-    bodyJa: `アップルとアマゾンの今日午後の業績次第で、株式市場がこれまでのところ厳しい週を堅調に終えることができるかどうかが決まるだろう。
-強気派にとって残念なことに、近いうちにこの決算で大手ハイテク企業2社を同時に勝ち取るのは難しい。先週はアルファベットとテスラが共に下落し、昨夜はマイクロソフトが反発する一方でメタは下落した。今年これまでのところ、株価が異なる方向に進み、オプションの流れが混在していることから、アップルとアマゾンが同じ運命をたどることは容易に想像できる。
-アップルは年初来25％上昇し、記録を更新しており、6月2日にS&P500指数が最高値を付けて以来、7％の上昇が見込まれている。オプショントレーダーらは、レポート下落後のインプライド・ボラティリティが3.4％の上昇を織り込んでおり、過去4回のレポート後の株価の中央値1.5％の2倍以上の値動きで、通常よりも大きな利益の上昇に備えている。
-オプションの流れは週初めは強気に傾いていたが、水曜日の株式市場が売られる中、アップル株の序盤の上昇は反転し、オプショントレーダーらは株価をより弱気に傾けた。
-スポットガンマとバーチャートのデータによると、水曜日のアップルのオプションプレミアム6億3,400万ドルのうち4億7,000万ドル以上はコールに関連していたものの、その多くはコールの売りであり、オプションの純取引センチメントは若干弱気に傾いていた。水曜日に金曜日に期限が切れる最も人気のある契約は、出来高ベースで330ストライクのプットで、返済するには3％以上の下落が必要である。
-アマゾンでは年間ほぼ横ばいで、トレーダーらはもう少し楽観的な見方をしている。水曜日のオプションプレミアム6億1500万ドルのほとんどはプットに結びついていたが、トレーダーらはそのボラティリティを買うよりも売る可能性が高いとみられる。 Barchart 分析によると、純取引センチメントはほぼ 300 万ドルと 100,000 デルタ分プラスでした。
-Cboe LiveVolのデータによると、トレーダーらはアマゾンの決算後は6.6％の上昇を予想しているが、これに対し過去4四半期の上昇率の中央値は7％だった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/30/apple-and-amazon-report-after-the-bell-heres-what-the-options-market-is-saying.html",
-    publishedAt: "2026-07-30T18:17:29+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "micron-sandisk-and-other-chip-stocks-get-ea455e05",
-    title: "Micron, Sandisk and other chip stocks get major boosts in the wake of Microsoft’s earnings",
-    titleJa: "マイクロソフトの収益を受けてマイクロン、サンディスク、その他のチップ株が大幅に上昇",
-    summaryJa: "マイクロソフトはAIに多額の資金を投じているが、財務に対しても「責任ある」アプローチをとっているとアナリストは述べた。",
-    bodyOriginal: `Microsoft is spending heavily on AI but is also taking a “responsible” approach to its financials, an analyst said.`,
-    bodyJa: `マイクロソフトはAIに多額の資金を投じているが、財務に対しても「責任ある」アプローチをとっているとアナリストは述べた。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-get-major-boosts-in-the-wake-of-microsofts-earnings-25460e61?mod=mw_rss_topstories",
-    publishedAt: "2026-07-30T17:36:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-57413903",
-    readTime: 2,
-  },
-  {
-    id: "british-airways-flight-called-mayday-on-e5871a34",
-    title: "British Airways flight called mayday on approach to Heathrow",
-    titleJa: "ブリティッシュ・エアウェイズ便がヒースロー空港接近でメーデーと呼ばれる",
-    summaryJa: "ブリティッシュ・エアウェイズ便がヒースロー空港接近でメーデーと呼ばれる- 公開されました",
-    bodyOriginal: `British Airways flight called mayday on approach to Heathrow
-- Published
-A British Airways flight issued a "mayday" distress call on its approach to Heathrow Airport earlier this month, according to a statement from France's accident investigation authority.
-The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings on the aircraft, before it landed without further incident.
-The UK's Air Accidents Investigation Branch (AAIB) said it was "investigating a serious incident".
-A British Airways spokesperson said the airline was assisting the AAIB with its investigation and was not legally able to comment further at this stage.
-The French Air Safety Investigation Authority, the BEA, said that as the plane approached Heathrow, there was a data system failure which triggered a stall warning.
-The crew then flew the aircraft in a different mode called "alternate law", which removes some automated flight protection systems. Another stall warning then occurred at 3,000 feet - which experts say was likely to have been just miles away from the airport.
-The urgency call the crew had already made was upgraded to mayday, indicating imminent danger.
-The BEA website attributed the statement to the AAIB, but the AAIB would not confirm it was from them.
-They issued the following statement: "The AAIB is investigating a serious incident involving a commercial aircraft which occurred on 6 July on approach to Heathrow airport."
-It said the investigation would be a correspondence investigation, meaning that no team would be sent to carry out field investigations.
-Aviation safety investigator David Gleave said there are different forms of mayday calls, and to send an urgency message was "not unusual".
-"You could have sick passengers on board who need urgent medical attention… so it's up to the captains' discretion as to what they call, but its very unusual for it to be a significant failure on board the aeroplane."`,
-    bodyJa: `ブリティッシュ・エアウェイズ便がヒースロー空港接近でメーデーと呼ばれる
-- 公開されました
-フランスの事故調査当局の発表によると、ブリティッシュ・エアウェイズ機は今月初め、ヒースロー空港に接近する際に「メーデー」救難信号を発した。
-この通報は、7月6日にドイツのデュッセルドルフ空港を出発したエアバスA320型機で行われたもので、同機は2度の失速警報を受けた後、何事もなく着陸した。
-英国の航空事故調査局（AAIB）は「重大な事件を調査している」と述べた。
-ブリティッシュ・エアウェイズの広報担当者は、同社はAAIBの調査を支援しているが、現段階では法的にこれ以上コメントできないと述べた。
-フランス航空安全調査局BEAは、同機がヒースロー空港に接近した際にデータシステムに障害が発生し、失速警報が発せられたと発表した。
-その後、乗組員は一部の自動飛行保護システムを取り除いた「代替法」と呼ばれる別のモードで航空機を飛行させた。その後、別の失速警報が3,000フィートで発生したが、専門家によれば、そこは空港から数マイル離れたところだった可能性が高いという。
-乗組員がすでに行っていた緊急通報は、差し迫った危険を示すメーデーに格上げされました。
-BEAのウェブサイトはこの声明がAAIBによるものであるとしているが、AAIBはそれが彼らからのものであるとは認めていない。
-彼らは次の声明を発表した：「AAIBは、7月6日にヒースロー空港への進入時に発生した民間航空機が関与した重大な事故を調査している。」
-同調査は通信捜査であり、現地調査を実施するチームは派遣されないことを意味すると述べた。
-航空安全調査官のデービッド・グリーブ氏は、メーデーコールにはさまざまな形があり、緊急メッセージを送ることは「珍しいことではない」と述べた。
-「緊急の治療が必要な体調不良の乗客が機内に居る可能性があります…ですから、何と呼ぶか​​は機長の裁量に任されていますが、飛行機内で重大な故障となるのは非常に異例です。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cn8n1knkkz9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-07-30T17:34:26+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89dd/live/c63fb180-8c3e-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 2,
-  },
-  {
-    id: "openai-cuts-prices-for-two-of-its-gpt-5-ea0aff9e",
-    title: "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-    titleJa: "企業がコストに敏感になる中、OpenAI は GPT-5.6 AI モデルのうち 2 つを値下げしました",
-    summaryJa: "OpenAIは木曜日、最新の人工知能モデル2つ、GPT-5.6 TerraとGPT-5.6 Lunaの価格を、一般公開から約3週間後に値下げすると発表した。同社は、企業が投資収益率を明確に把握せずに高価なモデルを導入する傾向にない、よりコスト重視の顧客ベースに対応するというプレッシャーに直面している。また、費用対効果の高いモデルを宣伝してきた中国の新興企業やハイテク大手グーグルやマイクロソフトとの競争をかわす取り組みも行っている。",
-    bodyOriginal: `OpenAI on Thursday announced it is slashing the price of two of its latest artificial intelligence models, GPT-5.6 Terra and GPT-5.6 Luna, roughly three weeks after their public release.
-The company is facing pressure to cater to a more cost-sensitive customer base, where enterprises have been less inclined to deploy expensive models without a clear picture of the return on their investments. It's also working to fend off competition from Chinese startups and tech giants Google and Microsoft, which have been touting cost-effective models.
-OpenAI launched three models as part of its GPT-5.6 series, including Sol, the most powerful offering, Terra, the mid-tier model, and Luna, its fastest offering.
-The company said Thursday that it's reducing the price of Terra by 20% to $2 per million input tokens and $12 per million output tokens. It's cutting the cost of Luna by 80% to 20 cents per million input tokens and $1.20 per million output tokens. Sol's pricing remains the same.
-"Our strategy remains focused on advancing both capability and efficiency so each generation of intelligence can accomplish more work at a lower cost," OpenAI said in a release.
-OpenAI kickstarted the AI boom with the launch of ChatGPT in 2022, prompting companies across the U.S. to rush to deploy the technology and incentivize adoption within their workforces. The era of so-called tokenmaxxing was born, where employers encouraged staffers to use as much AI as possible without worrying about costs.
-But as AI bills have ballooned, sometimes to the tune of billions of dollars, many companies have been actively working to rein in their spending. It's a shift that AI developers have been watching closely, especially as Chinese open-weight models have rapidly caught up with leading, proprietary offerings.
-Open-weight AI models are available for users to download, modify and run on their own infrastructure, and can serve as a cost-effective option for companies. Moonshot AI, a Chinese startup, released an open-weight model called Kimi K3 earlier this month that outperforms cutting-edge American offerings across some industry benchmarks, prompting a swift reaction from Silicon Valley.
-Following Moonshot's announcement, OpenAI's chief rival, Anthropic, released a new model called Claude Opus 5, which it touted as its best-performing and most cost-effective offering for many use cases. It's half the price of Claude Fable 5, the advanced model that Anthropic announced in June, even though it performs comparably across coding and knowledge work tasks.
-Microsoft CEO Satya Nadella repeatedly highlighted his company's cost-effective models during its quarterly earnings call with investors on Wednesday, following the launch of what it described as a cheap-but-performant cybersecurity model earlier this week.
-Google also debuted three new models this month that aimed to undercut competitors on cost. The company said Gemini 3.6 Flash, the strongest of its new offerings, is cheaper per task than Kimi K3 and other Chinese models.
-WATCH: OpenAI CEO Sam Altman to meet with White House Chief of Staff Susie Wiles this week`,
-    bodyJa: `OpenAIは木曜日、最新の人工知能モデル2つ、GPT-5.6 TerraとGPT-5.6 Lunaの価格を、一般公開から約3週間後に値下げすると発表した。
-同社は、企業が投資収益率を明確に把握せずに高価なモデルを導入する傾向にない、よりコスト重視の顧客ベースに対応するというプレッシャーに直面している。また、費用対効果の高いモデルを宣伝してきた中国の新興企業やハイテク大手グーグルやマイクロソフトとの競争をかわす取り組みも行っている。
-OpenAI は、GPT-5.6 シリーズの一部として、最も強力な製品である Sol、中間層モデルの Terra、および最速の製品である Luna を含む 3 つのモデルを発売しました。
-同社は木曜日、Terraの価格を20％引き下げ、入力トークン100万あたり2ドル、出力トークン100万あたり12ドルにすると発表した。 Luna のコストは 80% 削減され、入力トークン 100 万あたり 20 セント、出力トークン 100 万あたり 1.20 ドルになります。 Solの価格は変わりません。
-OpenAIはリリースで「われわれの戦略は、各世代のインテリジェンスがより低コストでより多くの作業を遂行できるように、機能と効率の両方を向上させることに引き続き重点を置いている」と述べた。
-OpenAI は、2022 年の ChatGPT の発売により AI ブームを引き起こし、全米の企業がこのテクノロジーの導入を急いで、従業員内での導入を奨励するようになりました。いわゆるトークンマックスの時代が生まれ、雇用主は従業員に対し、コストを気にせずにできるだけ多くの AI を使用するよう奨励しました。
-しかし、AI関連の費用が膨れ上がり、時には数十億ドルに達することもあり、多くの企業が支出の抑制に積極的に取り組んでいる。これは、特に中国のオープンウェイト モデルが主要な独自製品に急速に追いついてきたことから、AI 開発者が注意深く注目している変化です。
-オープンウェイト AI モデルは、ユーザーがダウンロード、変更、独自のインフラストラクチャ上で実行できるため、企業にとって費用対効果の高いオプションとして機能します。中国の新興企業ムーンショットAIは今月初め、一部の業界ベンチマークにおいて最先端の米国製品を上回るパフォーマンスを発揮する「Kimi K3」と呼ばれるオープンウェイトモデルをリリースし、シリコンバレーからの素早い反応を引き起こした。
-Moonshot の発表に続いて、OpenAI の主なライバルである Anthropic は、Claude Opus 5 と呼ばれる新しいモデルをリリースし、多くのユースケースに対して最もパフォーマンスが高く、最もコスト効率の高い製品であると宣伝しました。 Anthropic が 6 月に発表した上級モデルである Claude Fable 5 の半額ですが、コーディングとナレッジ ワーク タスク全体で同等のパフォーマンスを発揮します。
-Microsoftの最高経営責任者（CEO）サティア・ナデラ氏は、今週初めに安価だがパフォーマンスの高いサイバーセキュリティモデルと称するモデルを発表したことを受け、水曜日の投資家との四半期決算会見で同社の費用対効果の高いモデルを繰り返し強調した。
-Googleは今月、競合他社をコストで削減することを目的とした3つの新モデルも発表した。同社によると、新製品の中で最も強力なGemini 3.6 Flashは、Kimi K3や他の中国製モデルよりもタスク当たりの価格が安いという。
-注目：OpenAI CEOのサム・アルトマン氏が今週、ホワイトハウス首席補佐官スージー・ワイルズ氏と会談`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-    publishedAt: "2026-07-30T17:27:49+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
   },
 ];
 
