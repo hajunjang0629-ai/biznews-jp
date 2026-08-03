@@ -15,6 +15,262 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "25-states-sue-trump-administration-over-fcb54351",
+    title: "25 states sue Trump administration over latest global tariffs",
+    titleJa: "最新の世界的な関税をめぐって25の州がトランプ政権を提訴",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `A coalition of 25 Democratic-led states sued the Trump administration Monday, arguing President Donald Trump exceeded his authority by imposing sweeping tariffs on goods from 60 U.S. trading partners.
+The states argue the new duties merely replace tariffs that were struck down by the Supreme Court and remain unlawfully broad despite being imposed under a different statute.
+The lawsuit also alleges the administration bypassed the country-specific investigations required by law before imposing the tariffs.
+The complaint, filed in the U.S. Court of International Trade, challenges the new tariffs of 10% or 12.5% on imports from those 60 trading partners that the filing says account for 99.4% of U.S. imports.
+The states argue the administration is using Section 301 of the Trade Act of 1974 to preserve a broad tariff regime after earlier tariff efforts were blocked by the courts.
+The case is at least the second legal challenge to the new duties. A group of small businesses previously sued the administration, making a similar argument that Trump cannot use a new legal authority to recreate tariffs invalidated by the Supreme Court.
+—This is breaking news. Please refresh for updates.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/trump-tariffs-25-states-lawsuit-supreme-court.html",
+    publishedAt: "2026-08-03T19:44:45+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "trump-sours-on-pirro-over-reflecting-poo-ba4aaa65",
+    title: "Trump sours on Pirro over Reflecting Pool case, won't say her job is safe",
+    titleJa: "トランプ大統領、リフレクティング・プール事件でピロ氏を非難、彼女の職が安全だとは言わない",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `President Donald Trump on Monday hurled more criticism at Jeanine Pirro as he fumed over the federal prosecutor's decision to drop her Reflecting Pool vandalism case after admitting damage to the water feature was caused by a botched installation.
+Pirro, the U.S. attorney for the District of Columbia, "made a mistake" and "choked" by moving to dismiss the indictment against former Olympic canoeist David Hearn, Trump told reporters in the Oval Office.
+Asked if he was reconsidering Pirro's role, Trump did not directly answer, saying "I don't know what" and then lashing out at the reporter who posed the question.
+The White House, asked later Monday whether Trump continues to support Pirro in her current role, referred CNBC back to the president's comments in the Oval.
+Pirro's case, filed in early July, accused the 67-year-old Hearn of damaging the pool in front of the Lincoln Memorial by ripping up part of its sealant with his hands. But in a Friday afternoon court filing in D.C. Superior Court, Pirro wrote that after filing the charges, her office received additional information indicating that a "flawed installation" by the contractor was to blame for the damage.
+Trump — who frequently touts the renovation and has repeatedly claimed the project was sabotaged by vandals with knives and box cutters — quickly lashed out at Pirro, writing on Truth Social, "I don't know what she was thinking?"
+He ratcheted up the criticism even further in the Oval Office Monday afternoon.
+"I was disappointed with Jeanine Pirro, really disappointed with Jeanine Pirro," he said. "She folded like an umbrella, and people get away with things, and it's a disgrace."
+Pirro's office did not immediately respond to CNBC's request for comment.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/trump-pirro-reflecting-pool-vandalism-case.html",
+    publishedAt: "2026-08-03T19:42:37+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "trump-says-exxon-and-chevron-made-too-mu-ee81e023",
+    title: "Trump says Exxon and Chevron made 'too much money' off high oil prices during Iran conflict: 'I don't like it'",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "ドナルド・トランプ大統領は月曜日、エクソンモービルとシェブロンはイラン戦争による原油価格の上昇で「儲けすぎた」と述べた。トランプ大統領はホワイトハウスで記者団に対し、「彼らは不足を理由に儲けすぎている」と語った。 \"私はそれが気に入りません。\"",
+    bodyOriginal: `President Donald Trump said Monday that ExxonMobil and Chevron made "too much money" on rising crude oil prices due to the Iran war.
+"They're making too much money based on a shortage," Trump told reporters at the White House. "I don't like it."
+Exxon and Chevron on Friday reported windfall profits for the second quarter. Chevron's earnings soared nearly 400% to $12 billion compared to $2.5 billion in the same period last year. Exxon's profits more than doubled to $14.5 billion compared to $7.1 billion in the year-ago period.
+"Chevron, too much money. ExxonMobil, too much money," Trump said. "They're going to give some of that back to the public and they better cut the retail price, the consumer price."
+CNBC has reached out to Exxon and Chevron for comment.
+U.S. crude oil prices have gained about 20% since the U.S. and Israel attacked Iran on Feb. 28. Tehran has retaliated by trying to choke oil exports through the Strait of Hormuz, triggering the largest supply disruption in history.
+U.S. oil futures had an average closing price of around $92 per barrel from April through June, about 27% higher than the first quarter.
+Gasoline prices, meanwhile, averaged about $4.10 per gallon nationwide on Monday, nearly 40% higher compared to the $2.98 per gallon that drivers paid on Feb. 27 before the war started, according to data from AAA.
+Chevron's shares were down more than 2% while Exxon traded about 1% lower after Trump's comments. The oil majors' stocks were already under pressure Monday as crude prices fell about 5% on hopes that U.S.-Iran talks might prevent further escalation.`,
+    bodyJa: `ドナルド・トランプ大統領は月曜日、エクソンモービルとシェブロンはイラン戦争による原油価格の上昇で「儲けすぎた」と述べた。
+トランプ大統領はホワイトハウスで記者団に対し、「彼らは不足を理由に儲けすぎている」と語った。 "私はそれが気に入りません。"
+エクソンとシェブロンは金曜日、第2四半期の棚ぼた利益を報告した。シェブロンの利益は前年同期の25億ドルと比べて400％近く急増し、120億ドルとなった。エクソンの利益は前年同期の71億ドルから2倍以上の145億ドルに増加した。
+トランプ大統領は「シェブロン、金が多すぎる。エクソンモービル、金が多すぎる」と語った。 「彼らはその一部を国民に還元するつもりで、小売価格、つまり消費者物価を引き下げたほうがよいでしょう。」
+CNBCはエクソンとシェブロンにコメントを求めた。
+米国とイスラエルが2月28日にイランを攻撃して以来、米国の原油価格は約20％上昇した。イラン政府は報復としてホルムズ海峡を通じた原油輸出を阻止しようとし、史上最大の供給混乱を引き起こした。
+4月から6月までの米原油先物の平均終値は1バレル当たり約92ドルで、第1四半期より約27％高かった。
+一方、AAAのデータによると、月曜日の全国のガソリン価格は平均1ガロン当たり約4.10ドルで、開戦前の2月27日にドライバーが支払っていた1ガロン当たり2.98ドルと比べて40％近く高かった。
+トランプ氏の発言を受け、シェブロン株は２％以上下落し、エクソン株は約１％安で取引された。米国とイランの協議によりさらなるエスカレーションが阻止されるのではないかとの期待から原油価格が約５％下落し、月曜日の石油メジャーの株価はすでに圧迫されていた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/trump-says-exxon-and-chevron-made-too-much-money-off-high-oil-prices-during-iran-conflict-i-dont-like-it.html",
+    publishedAt: "2026-08-03T19:40:32+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "microsoft-s-stock-is-on-a-run-not-seen-i-360ead40",
+    title: "Microsoft’s stock is on a run not seen in 26 years — erasing its year-to-date losses",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The rally in Microsoft shares “has legs” because its capital spending is showing a payoff.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/microsofts-stock-is-on-a-run-not-seen-in-26-years-erasing-its-year-to-date-losses-d9827b6c?mod=mw_rss_topstories",
+    publishedAt: "2026-08-03T19:40:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-06137309",
+    readTime: 2,
+  },
+  {
+    id: "faa-clears-smallest-boeing-737-max-to-fl-f7ee4957",
+    title: "FAA clears smallest Boeing 737 Max to fly after years of delays",
+    titleJa: "FAA、長年の遅延を経て最小のボーイング737 Maxの飛行を許可",
+    summaryJa: "米連邦航空局は、安全性審査が10年近く遅れていたにもかかわらず、ベストセラー航空機ファミリーの最小モデルであるボーイング737 Max 7を認証した。サウスウエスト航空を含む航空会社はパンデミック前に同機を運航する予定だったが、2018年と2019年に運航中のマックス8の死亡事故を受けて規制当局の監視が強化され、その他の安全性や製造上の危機、エンジン防氷システムの再設計により認証が遅れた。",
+    bodyOriginal: `The Federal Aviation Administration has certified the Boeing 737 Max 7, the smallest model in the bestselling family of aircraft, after nearly a decade of delays for safety reviews.
+Carriers including Southwest Airlines expected to fly the plane before the pandemic, but increased regulatory scrutiny following the fatal crashes of the in-service Max 8, in 2018 and 2019, other safety and manufacturing crises, and the redesign of an engine anti-icing system delayed certification.
+The agency on Monday said the approval "reflects years of sustained work to resolve complex technical issues and complete a thorough review of the airplane's design and supporting safety analyses."
+Boeing stock rose roughly 8% in afternoon trading Monday.
+Airlines can finally start flying passengers soon after planes are certified, but it can take them months to work them into schedules.
+The already-built Max 7 planes for Southwest, which make up the bulk of the Max 7s in inventory, will need to be outfitted with the carrier's new extra legroom seats. Southwest won't likely start flying the planes until next year.
+"This important certification validates the rigor of our airplane's design and recognizes the determination and resilience of our 737 MAX development team," Stephanie Pope, president and CEO of Boeing Commercial Airplanes, said in a statement.
+The FAA said it required other changes to the plane beyond the redesign of the engine anti-ice system, including to the flight control software and crew alerting system.
+Boeing is also awaiting certification from the FAA of another long-delayed model, the 737 Max 10, which is the largest in the family and one that some carriers expected to start flying in 2020 as well as the manufacturer's largest plane, the 777X.
+The plane maker has about 40 of the 737 Max 7s and 737 Max 10s built and in inventory already, and the FAA approval could help the manufacturer bring in much-needed cash, Jefferies analyst Sheila Kahyaoglu said in a note Sunday. Boeing and other manufacturers receive the bulk of an airplane's price when they hand it over to customers.
+The manufacturer, a top U.S. exporter, has been working to ramp up production of its 737 Maxes and 787 Dreamliners, key to its recovery after years of crisis since airlines and other customers pay the bulk of the aircraft's price upon delivery. Boeing opened a fourth production line in Everett, Washington, in July for its 737 Max airplanes.
+The company has been working to win back the trust of the FAA, and has made strides, including in mid-July, when the FAA said it could once again issue airworthiness certificates for its bestselling 737 Max aircraft and 787 Dreamliners. The agency stripped that from Boeing after the Max 8 crashes, which killed 346 people.
+— CNBC's Michele Luhn contributed to this report.`,
+    bodyJa: `米連邦航空局は、安全性審査が10年近く遅れていたにもかかわらず、ベストセラー航空機ファミリーの最小モデルであるボーイング737 Max 7を認証した。
+サウスウエスト航空を含む航空会社はパンデミック前に同機を運航する予定だったが、2018年と2019年に運航中のマックス8の死亡事故を受けて規制当局の監視が強化され、その他の安全性や製造上の危機、エンジン防氷システムの再設計により認証が遅れた。
+同庁は月曜日、この承認は「複雑な技術的問題を解決し、航空機の設計と裏付けとなる安全性分析の徹底的な見直しを完了するための長年にわたる継続的な作業を反映している」と述べた。
+ボーイング株は月曜午後の取引で約８％上昇した。
+航空会社は飛行機の認証後すぐにようやく乗客の運航を開始できるが、スケジュールを組み込むまでに何か月もかかることがある。
+在庫にあるMax 7の大部分を占めるサウスウェスト向けのすでに製造されたMax 7航空機には、航空会社の新しい追加の足元スペースシートを装備する必要があります。サウスウェスト航空が飛行機の運航を開始するのはおそらく来年になるだろう。
+ボーイング民間航空機の社長兼最高経営責任者（CEO）のステファニー・ポープ氏は声明で、「この重要な認証は、当社の航空機設計の厳密さを証明し、当社の737 MAX開発チームの決意と回復力を認めたものである」と述べた。
+FAAは、エンジンの防氷システムの再設計以外にも、飛行制御ソフトウェアや乗務員警報システムなど、同機の他の変更が必要だと述べた。
+ボーイング社はまた、長く遅れていた別のモデルである737 Max 10のFAAからの認証を待っている。737 Max 10はファミリー内で最大で、一部の航空会社が同社最大の航空機である777Xと同様に2020年に飛行を開始すると予想していたモデルである。
+ジェフリーズのアナリスト、シーラ・カヒャオグル氏は日曜日のメモで、同社はすでに737 Max 7と737 Max 10のうち約40機を製造・在庫しており、FAAの承認はメーカーが切望していた資金を生み出すのに役立つ可能性があると述べた。ボーイングやその他のメーカーは、航空機を顧客に引き渡すときに、航空機の価格の大部分を受け取ります。
+米国のトップ輸出企業である同社は、航空会社やその他の顧客が引き渡し時に航空機の価格の大部分を支払うため、長年の危機からの回復の鍵となる737 Maxと787 Dreamlinerの生産拡大に取り組んでいる。ボーイングは7月、737 Max航空機用にワシントン州エベレットに4番目の生産ラインを開設した。
+同社はFAAの信頼を取り戻すために努力しており、7月中旬にはFAAが同社のベストセラー機737 Maxと787 Dreamlinerの耐空証明書を再度発行する可能性があると発表するなど、前進を遂げている。 346人が死亡したMax 8の墜落事故を受けて、当局はボーイング社からそれを剥奪した。
+— CNBCのMichele Luhn氏がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/faa-boeing-737-max-certification.html",
+    publishedAt: "2026-08-03T19:35:26+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "can-palantir-pull-off-a-microsoft-style-a79b5e98",
+    title: "Can Palantir pull off a Microsoft-style comeback? Here's what options say",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Hopes are running high that high-profile software provider Palantir can shake off its nine-month bear market and rally after earnings Monday night.
+After all, the chart of Microsoft was looking similar going into its report, and that stock's now in the midst of a three-day, 25% bounce. The options flows around Palantir also mirror Microsoft going into its report, where traders were scooping up calls and betting on a bigger-than-usual swing.
+More than twice as many Palantir calls traded than puts by volume Monday, with traders buying 56,000 calls and fewer than 25,000 puts, according to ThinkOrSwim data. Of the $160 million in premium traded, $120 million was tied to calls, and the top five contracts traded by volume were all calls, SpotGamma data show.
+The most popular contract for bulls was the 130-strike call expiring Friday, where traders bought 8,500 contracts totaling $4.4 million, according to SpotGamma. Trading for $5.30 a contract, the 130-strike calls need an 8 percent rally before the weekend to pay off. The 150 and 140-strike calls were second and third-most popular by volume.
+Cboe LiveVol data shows options pricing implying a 10.5% move after earnings, bigger than the median 7.4% move the past year. For the past five straight quarters, Palantir options have overestimated the actual move, the data show.
+The heavy call volume doesn't mean bears aren't taking shots. In fact, seven of the eight biggest dollar-amount trades of the day were neutral or bearish, according to Cboe data.
+That includes the biggest premium trade of the day, a sale of 800 of the 145-strike calls in Palantir that expire in mid-December 2028, a bearish bet against extensive gains in the stock that brought in $3.4 million for the seller.`,
+    bodyJa: `知名度の高いソフトウェアプロバイダーのパランティアが、9か月にわたる弱気相場を脱却し、月曜夜の決算後に反発できるのではないかとの期待が高まっている。
+結局のところ、Microsoft のチャートはレポートの時点では同様に見えており、その株価は現在 3 日間で 25% の上昇の最中にあります。パランティアを巡るオプションの流れは、トレーダーらがコールをすくい上げ、通常よりも大きな値動きに賭けていたというマイクロソフトの報告書にも反映されている。
+ThinkOrSwimのデータによると、月曜の出来高ベースでは、パランティアのコールはプットの2倍以上で取引されており、トレーダーが購入したコールは5万6000件、プットは2万5000件未満だった。 SpotGamma のデータによると、取引されたプレミアム額 1 億 6,000 万ドルのうち 1 億 2,000 万ドルはコールに関連しており、取引高トップ 5 の契約はすべてコールでした。
+スポットガンマによると、強気筋で最も人気のある契約は金曜日に期限が切れる130ストライクコールで、トレーダーらは8,500枚、総額440万ドルを購入した。 1契約あたり5.30ドルで取引されており、130ストライキのコールが報われるには週末までに8％上昇する必要がある。 150 ストライクと 140 ストライクのコールは、ボリュームで 2 番目と 3 番目に人気がありました。
+Cboe LiveVolのデータによると、オプションの価格設定は収益後に10.5%の変動を示唆しており、これは過去1年間の中央値7.4%の変動よりも大きい。データによると、過去5四半期連続で、パランティアのオプションは実際の動きを過大評価してきた。
+通報件数が多いからといって、クマが射撃を行っていないわけではありません。実際、Cboeのデータによると、この日の金額の大きかった取引8件のうち7件は中立または弱気だった。
+これには、その日最大のプレミアム取引、2028年12月中旬に期限切れとなるパランティアの145ストライクコールのうち800件の売却が含まれており、売り手に340万ドルをもたらした株の大幅な上昇に対する弱気の賭けとなった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/can-palantir-pull-off-a-microsoft-style-comeback-heres-what-options-say.html",
+    publishedAt: "2026-08-03T18:34:52+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "hugging-face-ceo-says-china-is-winning-t-c3f4ed45",
+    title: "Hugging Face CEO says China is winning the AI race and dominating on open models",
+    titleJa: "ハグ・フェイスCEO、中国はAI競争に勝利し、オープンモデルで優位に立つと語る",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Hugging Face CEO Clément Delangue said China is winning the artificial intelligence race with open-weight models and could catch up to U.S. model makers as soon as this year.
+"They're clearly dominating on open models right now, and I wouldn't be surprised if they start dominating at the frontier either by the end of this year or next year at the rate of progress," he told CNBC's "Squawk on the Street" on Monday.
+Fueling this revolution is the open collaboration and sharing ecosystem in China, while model makers in the U.S. are "building in silos" and risk falling behind, he said.
+Last month, OpenAI agents broke out of a training environment and hacked open-source software developer platform Hugging Face, raising concerns over the rapid evolution of powerful AI and cybersecurity tools.
+The incident also brought months of simmering cybersecurity fears to a head, demonstrating how easily AI agents could cause immense damage, while making the case for open models in the era of skyrocketing token costs.
+Delangue, a proponent of open-source models, blamed engineering mistakes for the recent attack on Hugging Face and said his company used a Nvidia version of a Chinese open model to resolve the attack.
+In recent months, Chinese open-source models have been closing the capabilities gap with U.S. model makers, sparking debate over whether to restrict access. Last month, technology heavyweights such as Microsoft, Palantir and Nvidia signed a letter urging policymakers to avoid restricting open-weight models and suppressing competition.
+"AI cybersecurity is going to become a huge market in the U.S. and in the world," Delangue said. "In this market, probably open models will be kings."
+Delangue said the company maintains a "healthy collaboration" with OpenAI and called the frontier lab "good partners" before and after the incident.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/hugging-face-china-ai-race-open-models.html",
+    publishedAt: "2026-08-03T17:28:17+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "threat-to-oil-tankers-in-middle-east-wor-b696dc50",
+    title: "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Threat to oil tankers in Middle East worst since start of Iran war, analysts say
+- Published
+The threat to ships carrying oil in the Middle East is at its worst since the Iran war started, experts have said, after a spate of attacks on another key route in the region.
+The warning comes after a number of attacks on vessels in the Red Sea, an alternative waterway that some tankers had been using since Iran blocked the Strait of Hormuz.
+Iran has denied Donald Trump's claim that it was in talks with the US over reopening the strait, but said it was speaking to Oman about securing the shipping lane.
+"In terms of threat to the trade of crude, we're at the worst period that we've been in since this since this crisis began," said Matthew Wright, an analyst at ship-tracking firm Kpler.
+The number of ships passing through the Strait of Hormuz was just eight on Sunday and 11 on Saturday, compared with more than 100 per day before the war began, according to Kpler.
+Before the conflict, about 20% of the world's oil and gas passed through the strait.
+The temporary peace deal with the US struck in early June led to numbers rising again, but the resumption of strikes between the two countries roughly a month later have significantly reduced traffic.
+Many ships have been "going dark" when crossing the strait, meaning they turn off their transponder to avoid detection.
+For much of the war, some ships carrying oil from Saudi Arabia had instead passed through an alternative shipping lane in the Red Sea, between the kingdom and west Africa.
+But a recent spate of attacks by Yemen's Houthi fighters on Saudi tankers using the alternative waterway has further heightened the risks.
+The Iranian-backed Houthi militia announced what it called a blockade on Saudi Arabia's Red Sea ports on 20 July and the UK Maritime Trade Operations agency has reported several attacks on ships in the past week.
+"Not only is the ongoing situation in the Strait of Hormuz constraining oil flows, but now a big factor that was helping to balance the market is now also under threat. It's a problem stacked on top of a problem," Wright said.
+Tim Wilkins, the managing director of Intertanko, a trade body representing tanker owners, said the industry was "facing a broadening, deteriorating, and increasingly complex security situation".
+"We now have the high-risk area going up to Saudi Arabian waters and extending into parts of the Red Sea. So that's having another impact on the market, on freedom of navigation as well."
+The number of commodity vessels that passed through the Bab el-Mandeb strait was 28 on Saturday and six of them had their transponders turned off, according to Kpler data, indicating that they were trying to avoid detection.
+As the US pauses the war with Iran, is Trump really running out of weapons?
+- Published6 days ago
+Why Iran is risking so much over the Strait of Hormuz
+- Published21 July
+Tankers make sharp U-turns after Houthi shipping threat
+- Published22 July
+Not all vessels are deterred from passing through because the Houthi threat is only targeted at Saudi shipping, with the total number sitting at about 50% of pre-attack levels.
+But the number of ships loading crude oil for export to Asia passing through has dropped to about four per day, Kpler added, the lowest point since the start of the war.
+A spokesperson for Hapag-Lloyd, the global shipping giant, said some of its vessels were still passing through the Red Sea but that it would "monitor developments closely and will adjust the network if circumstances change".
+"If the Strait of Hormuz reopened, most ships could probably leave the region fairly quickly. However, restoring normal cargo flows would take much longer.
+"Services have been suspended and ships redeployed elsewhere, so a return to normal flows would most likely take three to four months."
+Despite the talks with Oman, Iran has said that no deal is imminent that would reopen the strait to normal traffic.
+Its foreign ministry ministry spokesman Esmaeil Baqaei said any agreement would not lift the current restrictions while US "aggression" continued.
+Kpler's Wright said that while talks with Oman could be productive, any deal would need the involvement of the US and the fear is that current negotiations could be a "false start" without concessions on at least one side.
+Nonetheless, oil prices fell sharply after Trump said he would cancel planned strikes on Iran based on the potential for upcoming talks.
+Brent crude was trading 4.4% lower at $84.05 a barrel, after it fell as much as 7.3% to $81.55 a barrel earlier in the day.
+Peter Sand, chief analyst at Xeneta, another ship-tracking company, said the fighting had taken the shipping industry "back to to square one" and that things were in "a terrible state, regardless of which shipping type you're you're looking at".
+"The alternatives for getting cargo, whether that's hydrocarbons or container shipping, are really not great… it is really still troubling times with no clarity and no change of fortunes within sight."
+Related topics
+- Published5 days ago
+- Published1 day ago
+- Published4 days ago`,
+    bodyJa: `中東の石油タンカーに対する脅威はイラン戦争開始以来最悪だとアナリストが語る
+- 公開されました
+中東の石油輸送船に対する脅威は、この地域の別の重要航路に対する相次ぐ攻撃を受けて、イラン戦争勃発以来最悪となっている、と専門家らは述べた。
+この警告は、イランがホルムズ海峡を封鎖して以来、一部のタンカーが使用していた代替水路である紅海で船舶に対する多数の攻撃を受けて発出された。
+イランは、海峡再開を巡って米国と協議しているとするドナルド・トランプ氏の主張を否定したが、航路の確保についてはオマーンと話し合っていると述べた。
+船舶追跡会社クプラーのアナリスト、マシュー・ライト氏は「原油貿易への脅威という点では、この危機が始まって以来最悪の時期にある」と述べた。
+クプラー氏によると、ホルムズ海峡を通過する船舶の数は、開戦前は１日当たり１００隻以上だったのに対し、日曜日はわずか８隻、土曜日は１１隻にとどまった。
+紛争前は、世界の石油とガスの約 20% がこの海峡を通過していました。
+6月初旬に締結された米国との一時和平合意により、感染者数は再び増加したが、約1カ月後に両国間のストライキが再開されたことで交通量は大幅に減少した。
+多くの船舶は海峡を通過する際に「暗転」しており、探知を避けるためにトランスポンダーの電源を切っている。
+戦争のほとんどの間、サウジアラビアから石油を積んだ一部の船は代わりに、サウジと西アフリカの間の紅海の代替航路を通っていました。
+しかし、イエメンのフーシ派戦闘員による最近の代替水路を利用したサウジのタンカーへの攻撃が相次ぎ、危険性はさらに高まっている。
+イランの支援を受けるフーシ派民兵組織は7月20日にサウジアラビアの紅海の港を封鎖すると発表し、英国海事貿易業務局は過去1週間に船舶に対する数件の攻撃を報告した。
+ライト氏は「ホルムズ海峡で進行中の状況が原油の流れを抑制しているだけでなく、市場のバランスを保っていた大きな要素も脅威にさらされている。問題の上に問題が重なっている」と述べた。
+タンカー船主を代表する業界団体インタータンコのマネージングディレクター、ティム・ウィルキンス氏は、業界は「拡大し、悪化し、ますます複雑化する安全保障状況に直面している」と述べた。
+「現在、高リスク地域はサウジアラビア海域にまで達し、紅海の一部にまで広がっています。そのため、市場や航行の自由にも新たな影響を及ぼしています。」
+Kplerのデータによると、土曜日にバブ・エル・マンデブ海峡を通過した物資船の数は28隻で、そのうち6隻はトランスポンダーの電源を切っていて、探知を避けようとしていたことを示している。
+米国がイランとの戦争を一時停止する中、トランプ大統領は本当に武器を使い果たしているのだろうか？
+- 6 日前に公開
+なぜイランはホルムズ海峡でこれほどの危険を冒しているのか
+- 7 月 21 日発行
+タンカー、フーシ派の船舶脅迫を受けて急Uターン
+- 7 月 22 日発行
+フーシ派の脅威はサウジの海運だけをターゲットにしており、総数は攻撃前のレベルの約50％にとどまっているため、すべての船舶の通過が阻止されるわけではない。
+しかし、アジアへの輸出用原油を積んで通過する船の数は1日あたり約4隻に減少しており、これは戦争開始以来最低であるとクプラー氏は付け加えた。
+世界的な海運大手ハパック・ロイドの広報担当者は、同社の船舶の一部が依然として紅海を通過しているが、「動向を注意深く監視し、状況が変化した場合にはネットワークを調整する」と述べた。
+「ホルムズ海峡が再開すれば、ほとんどの船舶はおそらくかなり早くこの地域を離れることができるだろう。しかし、通常の貨物の流れを回復するにはさらに時間がかかるだろう。
+「サービスは停止されており、船は別の場所に再配置されているため、通常の流れに戻るには3〜4か月かかる可能性が高いです。」
+オマーンとの協議にもかかわらず、イランは海峡を通常の航行に再開する差し迫った合意はないと述べた。
+外務省報道官エスマイル・バカエイ氏は、米国の「侵略」が続く限り、いかなる合意も現在の制限を解除することはないと述べた。
+クプラーのライト氏は、オマーンとの交渉は生産的なものになる可能性があるが、いかなる合意にも米国の関与が必要であり、少なくとも一方の譲歩がなければ現在の交渉は「誤ったスタート」になる可能性があると懸念していると述べた。
+それにもかかわらず、トランプ大統領が今後の協議の可能性を踏まえてイランへの攻撃計画を中止すると発言したことを受け、原油価格は急落した。
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-03T15:57:27+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/8eb45f90-8f4f-11f1-99e6-95543b07d23d.jpg",
+    readTime: 5,
+  },
+  {
     id: "are-americans-ready-to-embrace-tiny-cars-667826fb",
     title: "Are Americans ready to embrace tiny 'cars'? These companies think so",
     titleJa: "アメリカ人は小さな「車」を受け入れる準備ができていますか？これらの企業はそう考えています",
@@ -1559,562 +1815,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c36/live/eb797180-8e18-11f1-b916-5b9500660788.jpg",
     readTime: 3,
-  },
-  {
-    id: "how-spain-s-migrant-crisis-created-a-pol-6e3379c0",
-    title: "How Spain's migrant crisis created a political storm - whipped up by social media",
-    titleJa: "スペインの移民危機がどのようにして政治的嵐を引き起こしたのか - ソーシャルメディアによって引き起こされた",
-    summaryJa: "スペインの移民危機がどのようにして政治的嵐を引き起こしたのか - ソーシャルメディアによって引き起こされた- 公開されました",
-    bodyOriginal: `How Spain's migrant crisis created a political storm - whipped up by social media
-- Published
-Most of the tens of thousands of migrants who swam into the Spanish exclave of Ceuta on Thursday have now returned to Morocco, escorted to the border by Spanish soldiers and police.
-But the extraordinary surge of arrivals has left at least 67 people dead, their bodies pulled from the sea where they floated alongside abandoned rubber rings and flippers.
-This week's events have also shaken Europe politically, once again exposing divisions over the sensitive issue of migration.
-And they've left lingering questions about what sparked the sudden influx: whether social media posts promising an easy path to Europe just went viral or this was something more deliberate, even organised.
-The politics
-Whatever the cause, Spain's socialist prime minister is angry with the response.
-Pedro Sanchez has hit out at some in the EU for "attacking" Spain in this crisis, playing politics instead of showing support.
-He meant Italy, above all.
-Fratelli d'Italia, the hard-right party of Prime Minister Giorgia Meloni, had been quick to post images of migrants racing through the streets of Ceuta.
-"This is the Sanchez model the Italian left wing likes so much," the caption crowed.
-Meloni then announced she was suspending Italy's Schengen agreement with Spain that allows for the free movement of people, citing a security threat.
-Madrid is fuming.
-The way Spain sees it, the crisis has been contained and Ceuta is not in the Schengen zone so Moroccan migrants were never going to head for mainland Europe, unchecked.
-Meloni knows that.
-But she faces elections next year with her coalition losing ground to a new and virulently anti-immigrant party. This was a chance to sound tough herself and claw back votes and she leaped on it.
-Soft touch Spain?
-Italy is not the only country to see Spain as soft on migration, though.
-Meloni's call for an urgent meeting of interior ministers to be held on Tuesday was signed by almost two dozen EU heads of state, calling for the elimination of all policies that could be "pull factors" to Europe.
-Above all, they mean Spain's controversial move to allow hundreds of thousands of undocumented migrants apply for residence and work permits and "regularise" their status.
-The government's pragmatic: Spain is ageing and needs workers.
-But those who flocked to the beaches of Ceuta this week were not heading to sign up for a campaign that's already closed.
-Sanchez himself points instead to a recent ruling by Spain's Supreme Court: it said those who enter by sea cannot be pushed back immediately.
-The prime minister argues that was misrepresented by smugglers to promise an easy path to Europe.
-The crowd heading for Ceuta didn't need to pay smugglers, though, because most were Moroccan and the route is well known.
-The message was actually spread online.
-Migrants have shown social media posts to reporters with people shouting that "Spain is Open" and jumping into the sea.
-Multiple accounts we've checked ourselves show young people in wetsuits and flippers, or filming themselves already swimming, mixed with pictures from inside Ceuta itself.
-Some have only been active for weeks. Several have tens of thousands of likes.
-All their promises were false.
-The crowds who made it to kiss the shore in Ceuta with joy were met with nothing. Without food or shelter, and with no way on to continental Europe, most quickly turned back.
-So what was it all about?
-So have migrants been "weaponised" as happened a few years back in Belarus, for example?
-If so, who did it?
-For now we only see those enjoying the results.
-The global right wing are "hyperventilating with happiness", as journalist Andrea Rizzi wrote in Spain's El Pais newspaper.
-US President Donald Trump, angry at Spain for opposing his war on Iran, has talked of a "catastrophe" and an "invasion". Like Meloni, he has an election looming.
-Russia has been gloating, too: it loves chaos and division in Europe. Anything to weaken Ukraine's allies.
-As for Morocco, it's blaming "criminal organisations". But its border guards must have seen the crowds building.
-The last time something similar happened, albeit smaller, Spain and Morocco were at loggerheads over Western Sahara, a former colony.
-There are new tensions, right now.
-Sanchez is emphatically not blaming Morocco for what happened, calling Rabat a "good ally".
-But his critics call that appeasement and say he should be "showing teeth".
-Results
-For now, Spain is busy protecting Ceuta against further incident.
-It is extending the border fence out to sea, attaching long lines of orange buoys to the jetty which ships will then patrol to deter future swimmers.
-Next week, EU interior ministers will talk about strengthening external borders, with those on the populist right emboldened.
-Travellers from Spain to Italy face random document checks by police for a few weeks.
-So no huge change.
-Except for the dozens of young people who set out to sea, chasing a vision they'd seen online, and are now being sent back to Morocco in coffins.
-- Published7 hours ago
-- Published1 day ago`,
-    bodyJa: `スペインの移民危機がどのようにして政治的嵐を引き起こしたのか - ソーシャルメディアによって引き起こされた
-- 公開されました
-木曜日にスペインの飛び地セウタに泳いで入った数万人の移民のほとんどが現在、スペインの兵士と警察に国境まで護送されてモロッコに戻っている。
-しかし、異常な到着者数の急増により少なくとも67人が死亡し、遺体は海から引き上げられ、放置されたゴム製のリングや足ひれとともに浮かんでいた。
-今週の出来事はヨーロッパを政治的にも揺るがし、移民というデリケートな問題をめぐる分裂を再び浮き彫りにした。
-そして、何が突然の流入を引き起こしたのかについて、彼らは依然として疑問を残している。ヨーロッパへの簡単な道を約束するソーシャルメディアの投稿がただ広まったのか、それともこれはもっと意図的で組織的な何かだったのか。
-政治
-原因が何であれ、スペインの社会党首相はこの対応に怒っている。
-ペドロ・サンチェス氏は、この危機においてスペインを「攻撃」し、支持を示す代わりに政治ごっこをしているとしてEU内の一部を非難している。
-彼が言ったのは、何よりもイタリアのことだった。
-ジョルジア・メローニ首相率いる極右政党「フラテッリ・ディタリア」は、セウタの街路を駆け巡る移民の画像をいち早く投稿していた。
-「これはイタリアの左翼が大好きなサンチェスモデルだ」とキャプションが躍った。
-その後、メローニ氏は安全保障上の脅威を理由に、人の自由な移動を認めるイタリアとスペインのシェンゲン協定を停止すると発表した。
-マドリッドは大騒ぎになっている。
-スペインの見方では、危機は収束しており、セウタはシェンゲン圏内ではないため、モロッコ移民が無制限にヨーロッパ本土に向かうことは決してなかった。
-メローニはそれを知っています。
-しかし、彼女は来年の選挙に直面しており、彼女の連立政権は新しく猛烈な反移民政党に劣勢に立たされている。これは自分自身に厳しい印象を与え、投票を取り戻すチャンスであり、彼女はそれに飛びついた。
-ソフトタッチのスペイン？
-しかし、スペインが移民に対して甘いと見ているのはイタリアだけではない。
-メローニ氏は火曜日に緊急内相会議を開催するよう呼びかけ、約20人のEU諸国首脳が署名し、欧州への「引き寄せ要因」となる可能性のある政策をすべて撤廃するよう求めた。
-何よりも、それらは、何十万人もの不法移民に居住許可と労働許可の申請を許可し、彼らの地位を「正規化」することを許可するという物議を醸しているスペインの措置を意味する。
-政府の現実主義者は、スペインは高齢化が進んでおり、労働者を必要としている。
-しかし、今週セウタのビーチに集まった人々は、すでに終了したキャンペーンに登録するつもりはなかった。
-サンチェス自身は代わりに、スペイン最高裁判所による最近の判決を挙げ、海から入国した者を直ちに追い返すことはできないとした。
-首相は、これは密航業者によってヨーロッパへの容易な道を約束するために誤って伝えられたと主張している。
-しかし、セウタに向かう群衆は密航業者にお金を払う必要はなかったが、それは大半がモロッコ人であり、このルートはよく知られていたからだ。
-このメッセージは実際にオンラインで拡散されました。
-移民らは、人々が「スペインは開かれている」と叫び、海に飛び込むソーシャルメディアの投稿を記者らに見せた。
-私たちが独自に確認した複数のアカウントには、ウェットスーツと足ひれを着た若者、または既に泳いでいる自分たちを撮影している姿が、セウタ内部の写真と混じって映っていた。
-数週間しか活動していない人もいます。中には数万件の「いいね！」が付いている人もいます。
-彼らの約束はすべて嘘だった。
-喜び勇んでセウタの海岸にキスをした群衆は何の成果も得られなかった。食べ物も住む場所もなく、ヨーロッパ大陸へ行く道もなかったので、ほとんどの人はすぐに引き返しました。
-それで、それは一体何だったのでしょうか？
-では、例えば数年前にベラルーシで起きたように、移民は「武器を持たせられた」ことはあるのだろうか？
-もしそうなら、誰がやったのですか？
-今のところ、私たちは結果を楽しんでいる人たちだけを見ています。
-ジャーナリストのアンドレア・リッツィ氏がスペインのエル・パイス紙に書いたように、世界の右翼は「幸福感で過呼吸」になっている。
-ドナルド・トランプ米大統領は、対イラン戦争に反対したスペインに激怒し、「大惨事」と「侵略」について語った。メローニと同じように、彼にも選挙が迫っている。
-ロシアもまた、ヨーロッパの混乱と分裂を愛しているとほくそ笑んでいる。ウクライナの同盟国を弱体化させるためなら何でも。
-モロッコに関しては「犯罪組織」を非難している。しかし、国境警備隊は群衆が増えていくのを見ていたに違いない。
-前回同様のことが起こったとき、規模は小さかったとはいえ、スペインとモロッコは元植民地だった西サハラを巡って対立していた。
-今、新たな緊張が生じています。
-サンチェス氏は、ラバトを「良き同盟国」と呼び、今回の出来事についてモロッコを非難しないことを強調した。
-しかし、同氏を批判する人々はそれを宥和的と呼び、同氏は「歯を見せる」べきだと主張している。
-結果
-今のところスペインはさらなる事件からセウタを守ることに忙しい。
-国境フェンスを海まで延長し、桟橋にオレンジ色のブイの長い列を取り付け、将来の遊泳を阻止するために船舶が巡回する予定だ。
-来週、EU内務大臣らは対外国境の強化について話し合う予定で、ポピュリスト右派も勇気を出している。
-スペインからイタリアへの旅行者は数週間にわたって警察による抜き打ちの書類検査を受けることになる。
-したがって、大きな変化はありません。
-ネットで見たビジョンを追って海に出た数十人の若者を除いては、今は棺に入れられてモロッコに送り返されている。
-- 7 時間前に公開
-- 1 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-02T00:55:16+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-    readTime: 6,
-  },
-  {
-    id: "tourist-plane-crashes-in-peru-killing-13-07e61dee",
-    title: "Tourist plane crashes in Peru, killing 13",
-    titleJa: "ペルーで観光旅客機が墜落、13人死亡",
-    summaryJa: "ペルーで観光旅客機が墜落、13人死亡- 公開されました",
-    bodyOriginal: `Tourist plane crashes in Peru, killing 13
-- Published
-A small plane carrying tourists has crashed in Peru, killing all 13 people on board, according to local news reports and Peruvian officials.
-The aircraft, a Cessna Caravan C-208, had been flying over Nazca Lines archaeological site when it went down on Saturday. Eleven passengers and two pilots were on board.
-The passengers included two German, two Spanish and seven Italian tourists, Peru's state news agency reported. The cause of the crash is not yet clear.
-The Nazca Lines is a popular tourist attraction and Unesco World Heritage site in southern Peru that features ancient drawings of animals in desert sand. Tourists often fly in small planes to see the extent of the drawings.
-"Given the severity of the accident, there are no survivors. We have recovered four bodies so far," Police Major Jorge Andrade said, according to AFP.
-The crash happened around 13:00 local time (19:00 BST) in the Pueblo Viejo region after the plane departed from an airport in Pisco, Peru.
-Video from Reuters news agency shows firefighters spraying water at the scene as smoke rises from the wreckage.
-In a statement in Spanish posted online by the Municipalidad Provincial de Nasca, officials expressed "deep sorrow" for the accident and extended "heartfelt condolences to the families of the deceased".
-The statement said the plane belonged to local Peruvian airline Aerodiana.
-In a statement, the airline said it would "assess its flight schedule in accordance with the directives of the relevant authorities", according to Reuters.
-The BBC has contacted the airline for comment.
-This isn't the first plane to crash over the famed site in the past few decades.
-In 2022, another small tourist plane crashed during a flight over the Nazca Lines site, killing seven on board.
-And in 2010, a tourist plane went down over the site, killing six people on board.`,
-    bodyJa: `ペルーで観光旅客機が墜落、13人死亡
-- 公開されました
-地元報道やペルー当局によると、観光客を乗せた小型飛行機がペルーで墜落し、乗っていた13人全員が死亡した。
-飛行機はセスナキャラバンC-208で、土曜日に墜落したとき、ナスカの地上絵遺跡上空を飛行していた。乗客11名とパイロット2名が搭乗していた。
-ペルーの国営通信によると、乗客にはドイツ人２人、スペイン人２人、イタリア人観光客７人が含まれていた。墜落の原因はまだ明らかになっていない。
-ナスカの地上絵はペルー南部にある人気の観光名所であり、砂漠の砂に描かれた古代の動物の絵が描かれたユネスコ世界遺産です。観光客は、絵の範囲を見るために小型飛行機で飛ぶことがよくあります。
-AFP通信によると、ホルヘ・アンドラーデ警察少佐は「事故の深刻さを考えると生存者はいない。これまでに4人の遺体を回収した」と述べた。
-墜落は、飛行機がペルーのピスコの空港を出発した後、現地時間13時（BST19時）頃にプエブロ・ビエホ地域で発生した。
-ロイター通信のビデオには、残骸から煙が立ち上る中、消防士が現場で放水している様子が映っている。
-ナスカ市当局はオンラインに掲載したスペイン語の声明で、事故に対する「深い悲しみ」を表明し、「亡くなった方の家族に心からのお悔やみ」を表明した。
-声明によると、飛行機は地元ペルーの航空会社アエロディアナのものだった。
-ロイター通信によると、同社は声明で「関連当局の指示に従って運航スケジュールを検討する」と述べた。
-BBCは航空会社にコメントを求めた。
-過去数十年間でこの有名な場所上空で墜落した飛行機はこれが初めてではない。
-2022年にも別の小型観光飛行機がナスカの地上絵の上空を飛行中に墜落し、乗客乗員7名が死亡した。
-そして2010年には観光飛行機が現場上空で墜落し、乗客乗員6名が死亡した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-02T00:29:55+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/7e290c00-8e16-11f1-b8e8-d5f03f10fe6d.jpg",
-    readTime: 2,
-  },
-  {
-    id: "young-guns-for-hire-the-teenage-hitmen-r-043cea5e",
-    title: "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-    titleJa: "若い銃をレンタル - ヨーロッパ全土で殺害のために募集された 10 代の殺し屋",
-    summaryJa: "若い銃をレンタル - ヨーロッパ全土で殺害のために募集された 10 代の殺し屋- 公開されました",
-    bodyOriginal: `Young guns for hire - the teenage hitmen recruited to kill across Europe
-- Published
-In a Stockholm suburb a man dressed in black appeared out of the winter night. Carrying a handgun, he approached 20-year-old Murad Abdelkader, a student on his way back from a shift at McDonald's.
-The gunman opened fire, shooting again and again as he approached his target. He fired the last shot into his victim's head as he lay helpless on the ground.
-The killer was 18-year-old Atilla Azimov. On that February night last year, he had killed the wrong man.
-He had done it for money - hired by the Foxtrot Network, an organised crime group with links to the Iranian regime which has become notorious for its violence-as-a-service (VaaS) tactics.
-Since 2022, the Foxtrot Network is thought to have been responsible for about 35 murders as well as a number of attacks and attempted attacks on Israeli targets in Europe including two involving explosives and hand grenades.
-The gang recruits teenagers to carry out the attacks for cash, but it almost never has to pay out as they often get caught.
-Like Johannes Natland, a Norwegian teenager who was convicted of conspiracy to murder by a jury at the Old Bailey in London on Wednesday for a planned killing in West Yorkshire.
-According to Operational Taskforce (OTF) GRIMM, the Europol group set up to tackle the problem, the teenage hitmen are recruited on social media, and are given their instructions in a "gamified" way, imitating how computer games work.
-Andy Kraag, the head of Europol's European Serious and Organised Crime Centre, calls it the "calculated outsourcing of murder" to vulnerable young people.
-OTF GRIMM currently involves 11 countries affected by the VaaS phenomenon - Belgium, Denmark, Finland, France, Germany, Iceland, the Netherlands, Norway, Spain, Sweden, and the United Kingdom.
-The leader of the Foxtrot Network, Rawa Majid, has fled Sweden and his later operating base in Turkey, and is now based in the Iranian capital Tehran. Police believe some of the VaaS attacks have been carried out for the Iranian regime, including a hand grenade attack on the Israeli embassy in Copenhagen, though other attacks are part of Foxtrot's drugs turf wars.
-Diamant Salihu, an investigative journalist for the Swedish broadcaster SVT, has been researching Foxtrot and its Iranian links for three years.
-"The regime is ordering the leader of the Foxtrot Network to instigate his network to commit attacks against the Iranian regime's enemies," he said.
-"It can be dissidents, journalists that are in the opposition against the regime, and it can also be Israeli targets."
-The links to the Iranian regime started after October 2023 when Majid fled to Tehran, Salihu said.
-"He had to make a deal to be able to live freely in Iran, under condition that he and his network work for the regime."
-The Foxtrot Network and Majid were sanctioned by the UK government, external in April 2025.
-That was the month after the arrest of Natland, who was 18 at the time. He had flown in to carry out a hit on behalf of Foxtrot somewhere near Huddersfield.
-The Natland case illustrates how the VaaS system works.
-Natland is the son of two journalists in Stavanger and had a comfortable upbringing, but he drifted into drugs and developed psychosis, ending up spending time in rehab and a short period in a children's home. There he met another teenager who used the online handle UnknownHustler.
-It was UnknownHustler who first sent Natland the online request for someone to carry out a hit in the UK - "Killing in England 270k" (270,000 Norwegian kroner is about £21,000). It had come from another teenager with the handle Generalen. Generalen - who was 16 at the time and had spent the last three years living in a children's home - subsequently recruited Natland for the hit.
-Natland was then passed on to a Foxtrot member with the online username Agent 47, which is borrowed from the Hitman game franchise. Swedish police have accused Ali Shehad Ahmed, who is close to the Foxtrot leader Majid, of being Agent 47.
-Agent 47 booked Natland's one way ticket to Manchester Airport, and helped him through the process of getting an emergency passport. Using the messaging app Signal, he guided Natland at every stage of his journey before handing him on to a logistics man with the username "1".
-Treating Natland a bit like a character in a computer game, "1" sent him a map and videos showing him where to find the guns hidden in woodland in Huddersfield, and then another video showing him how to access a stash of cash hidden in the undergrowth near a foot tunnel.
-Once Natland was installed in his Huddersfield hotel with the weapons, Agent 47 messaged him again: "We have much to do tomorrow."
-Natland was arrested the next morning. He had not yet been told who he was to kill, and counterterrorism detectives are still trying to work out whether it was to be a criminal hit or a political one carried out for Iran.
-Sweden ditches plan to imprison 13-year-old serious offenders
-- Published11 June
-The teenager who recruited Natland - Generalen - was prolific. As well as hiring Natland as a hitman he had also recruited at least two people who carried out murders in Sweden. They were Azimov, who is serving a life sentence for killing the wrong man, and a 17-year-old who shot dead Ahmed Zamzam in Lund, south Sweden, three and a half weeks earlier.
-Neither of the killers got paid, because they were both caught. Salihu said this was part of how Foxtrot worked.
-"They don't care at all if the teenagers get caught. Because when they get caught, they cannot ask for money that they have been offered, and we see no examples of money being paid to these young killers," he said.
-"It has been a deliberate policy to recruit younger and younger teenagers because they don't think about the consequences of getting caught, and they are more willing to take the risks."
-Generalen was eventually stopped because he was trying to arrange the murder of the 14-year-old son of a Norwegian police officer. He recruited a 15-year-old and a 17-year-old to carry out the knife attack, but the 15-year-old told the police. When Generalen was arrested detectives found details of the Huddersfield murder plot on his phone that led to British police arresting Natland just in time.
-Generalen was convicted in May and is serving a 14-year-prison sentence.
-OTF GRIMM has had some successes in the 15 months since it was set up. Police have made more than 280 arrests including a few key suspects.
-One of the most important arrests was that of Ahmed, who is thought to be Agent 47.
-He was detained in the Kurdish city of Sulaymaniyah in Iraq, and is currently subject to an extradition request to Sweden.
-The Swedish deputy national police commissioner Stefan Hector said they were "constantly expanding our co-operation with other countries" and showing organised criminals "they cannot feel safe anywhere in the world".
-In May, Mohamed "Moewgli" Mohdhi, a former rapper described by Swedish police as a "central actor" in Foxtrot, was arrested in Tunisia.
-But Majid himself remains out of reach in Iran.
-"He's still active," Salihu said. "And as long as this network is active we will still continue, I fear, to see attacks on the enemies of the Iranian regime."
-It is not yet clear the extent to which the arrests have degraded Foxtrot's ability to operate, but other groups - including Foxtrot's rivals the Dalen Network - have already adopted the VaaS method of recruiting vulnerable teenagers for murders, so the danger is still very present.
-It spread quickly from Sweden across Scandinavia and northern Europe and, as the Natland case shows, reached the UK last year.`,
-    bodyJa: `若い銃をレンタル - ヨーロッパ全土で殺害のために募集された 10 代の殺し屋
-- 公開されました
-ストックホルム郊外で、冬の夜から黒い服を着た男が現れた。彼は拳銃を持って、マクドナルドの勤務から帰る途中の学生、ムラド・アブデルカデルさん（20）に近づいた。
-犯人は発砲し、標的に近づくと何度も発砲した。彼は地面に無力で横たわった犠牲者の頭に最後の一発を放った。
-犯人は18歳のアティラ・アジモフ。去年の2月の夜、彼は間違った男を殺してしまった。
-彼はお金のためにそれをやったのです - サービスとしての暴力（VaaS）戦術で悪名高いイラン政権とつながりのある組織犯罪グループ、フォックストロット・ネットワークに雇われていました。
-2022年以来、フォックストロット・ネットワークは約35件の殺人事件のほか、爆発物や手榴弾を使った2件を含むヨーロッパのイスラエルの標的に対する多数の攻撃や攻撃未遂に関与したと考えられている。
-ギャングは現金を求めて十代の若者たちを募集して襲撃を実行させますが、逮捕されることが多いため、金銭を支払う必要はほとんどありません。
-水曜日、ウェスト・ヨークシャーで計画された殺人事件で、ロンドンのオールド・ベイリーの陪審によって殺人共謀の罪で有罪判決を受けたノルウェー人の十代の少年、ヨハネス・ナットランドと同様だ。
-ユーロポールがこの問題に取り組むために設立したグループ、作戦特別委員会（OTF）グリムによると、10代の殺し屋たちはソーシャルメディアで募集され、コンピューターゲームの仕組みを模倣した「ゲーム化された」方法で指示を与えられるという。
-ユーロポールの欧州重大組織犯罪センター所長アンディ・クラーグ氏は、これを弱い立場の若者に対する「計算された殺人の外部委託」と呼んでいる。
-OTF GRIMM には現在、VaaS 現象の影響を受けているベルギー、デンマーク、フィンランド、フランス、ドイツ、アイスランド、オランダ、ノルウェー、スペイン、スウェーデン、英国の 11 か国が参加しています。
-フォックストロット・ネットワークのリーダー、ラワ・マジッドはスウェーデンとその後の活動拠点であるトルコから逃亡し、現在はイランの首都テヘランに拠点を置いている。警察は、コペンハーゲンのイスラエル大使館に対する手榴弾攻撃など、VaaS攻撃の一部はイラン政権のために行われたと考えているが、その他の攻撃はフォックストロットの麻薬縄張り戦争の一環である。
-スウェーデンの放送局SVTの調査ジャーナリストであるディアマント・サリフ氏は、フォックストロットとイランとのつながりを3年間にわたって調査してきた。
-同氏は、「政権はフォックストロット・ネットワークの指導者に対し、イラン政権の敵に対する攻撃を扇動するよう命令している」と述べた。
-「反体制派や反体制派のジャーナリストが標的になる可能性もあるし、イスラエルの標的になる可能性もある」
-サリフ氏によると、イラン政権とのつながりはマジド氏がテヘランに逃亡した２０２３年１０月以降に始まったという。
-「彼は、自分と彼のネットワークが政権のために働くことを条件に、イランで自由に暮らせる契約を結ばなければならなかった。」
-フォックストロット ネットワークとマジッドは、2025 年 4 月に英国政府によって対外的に認可されました。
-当時18歳だったナットランドさんが逮捕された翌月のことだった。彼はハダースフィールド近くのどこかでフォックストロットに代わってヒットを打つために飛んできた。
-Natland の事例は、VaaS システムがどのように機能するかを示しています。
-ナットランドはスタヴァンゲルで二人のジャーナリストの息子として生まれ、何不自由なく育ったが、麻薬に溺れ精神病を発症し、最終的にはリハビリ施設で過ごし、短期間児童養護施設で過ごすことになった。そこで彼は、オンライン ハンドル UnknownHustler を使用する別のティーンエイジャーに会いました。
-イギリスでヒット作「Kill​​ing in England 270k」（27万ノルウェークローネは約2万1千ポンド）を実行してくれる人を求めるオンラインリクエストを最初にナットランドに送ったのはUnknownHustlerだった。それはジェネレンというハンドル名を持つ別の十代の若者からのものだった。当時16歳で過去3年間を児童養護施設で過ごしていたジェネレンは、その後ナットランドをヒット作にスカウトした。
-その後、ナットランドは、ヒットマン ゲーム フランチャイズから借用したオンライン ユーザー名エージェント 47 を持つフォックストロット メンバーに引き継がれました。スウェーデン警察は、フォックストロットのリーダー、マジッドに近いアリ・シェハド・アーメドをエージェント47として告発した。
-エージェント 47 はナットランドさんのマンチェスター空港行きの片道航空券を予約し、緊急パスポートの取得手続きを手伝いました。彼はメッセージング アプリ Signal を使用して、ナットランドを旅のあらゆる段階でガイドし、その後、ユーザー名「1」の物流担当者に引き渡しました。
-ナットランドをコンピューター ゲームの登場人物のように扱い、「1」はナットランドにハダースフィールドの森に隠された銃の場所を示す地図とビデオを送り、次にフット トンネル近くの下草に隠された現金の隠し場所にアクセスする方法を示す別のビデオを彼に送りました。
-ナットランドがハダースフィールドのホテルに武器を設置されると、エージェント47は再び彼に「明日はやるべきことがたくさんある」とメッセージを送った。
-ナットランドさんは翌朝逮捕された。誰を殺害するのかはまだ告げられておらず、テロ対策刑事はそれが犯罪的なものだったのか、それともイランのために行われた政治的なものだったのかを解明しようとしている。
-スウェーデン、13歳の重犯罪者を投獄する計画を撤回
-- 6 月 11 日発行
-ナットランドをスカウトしたティーンエイジャー、ジェネレンは多作だった。彼はナットランドを殺し屋として雇っただけでなく、スウェーデンで殺人を実行した少なくとも2人の人物も雇っていた。彼らは、不当な殺人の罪で終身刑で服役中のアジモフと、3週間半前にスウェーデン南部ルンドでアーメド・ザムザムを射殺した17歳の少年だった。
-犯人は二人とも捕まったため、報酬は支払われなかった。サリフ氏は、これはフォックストロットの仕組みの一部だと語った。
-「彼らは十代の若者たちが捕まっても全く気にしていない。捕まった場合、提示された金銭を要求することはできないし、これらの若い殺人者に金銭が支払われた例も見当たらないからだ」と同氏は語った。
-「彼らは逮捕された場合の影響について考えておらず、より進んでリスクを冒すため、ますます若いティーンエイジャーを採用することが意図的な政策となっている。」
-ジェネレンは、ノルウェー警察官の14歳の息子の殺害を手配しようとしていたため、最終的に止められた。彼はナイフによる襲撃を実行するために15歳と17歳を雇ったが、15歳は警察に供述した。ジェネレンが逮捕されたとき、刑事は彼の携帯電話からハダースフィールド殺人計画の詳細を発見し、それが英国警察に間一髪でナットランドを逮捕するに至った。
-ジェネレン氏は5月に有罪判決を受け、懲役14年の刑で服役している。
-OTF GRIMM は設立以来 15 か月間でいくつかの成功を収めてきました。警察はこれまでに数人の重要容疑者を含む280人以上を逮捕した。
-最も重要な逮捕の 1 つは、エージェント 47 であると考えられているアーメッドの逮捕でした。
-同氏はイラクのクルド人都市スレイマニヤで拘束されており、現在スウェーデンへの引き渡し要請を受けている。
-スウェーデン国家警察副本部長ステファン・ヘクター氏は、スウェーデンは「他国との協力を絶えず拡大」しており、組織犯罪者が「世界のどこにいても安全を感じることができない」ことを示していると述べた。
-5月、スウェーデン警察によってフォックストロットの「中心人物」と評された元ラッパー、モハメド・“モーグリ”・モヒがチュニジアで逮捕された。
-しかし、マジド自身はイランでは依然として連絡が取れないままである。
-「彼はまだ現役だ」とサリフ氏は語った。 「そして、このネットワークが活動している限り、イラン政権の敵に対する攻撃はまだ続くのではないかと私は懸念しています。」
-逮捕によってフォックストロットの運営能力がどの程度低下したかはまだ明らかではないが、フォックストロットのライバルであるダレン・ネットワークを含む他のグループはすでにVaaS方式を採用し、弱い立場にある十代の若者を殺人に勧誘しているため、危険は依然として非常に存在している。
-スウェーデンからスカンジナビアや北ヨーロッパ全体に急速に広がり、ナットランドの事例が示すように、昨年英国に到達した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-01T23:03:35+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe10/live/f5b8a870-8c09-11f1-8665-e382dc49dfdb.jpg",
-    readTime: 9,
-  },
-  {
-    id: "the-sopranos-star-vincent-pastore-dies-a-404a64fd",
-    title: "The Sopranos star Vincent Pastore dies aged 80",
-    titleJa: "ソプラノ歌手ヴィンセント・パストーレさんが80歳で死去",
-    summaryJa: "ソプラノ歌手ヴィンセント・パストーレさんが80歳で死去- 公開されました",
-    bodyOriginal: `The Sopranos star Vincent Pastore dies aged 80
-- Published
-US actor Vincent Pastore, who played Salvatore "Big Pussy" Bonpensiero in the hit show The Sopranos, has died aged 80, according to several US outlets.
-Pastore was found at his home in the Bronx, New York City and there was no indication of criminality, the BBC's US partner CBS News reported.
-In The Sopranos, Pastore played Tony Soprano's best friend who ultimately became an informant for the FBI. His character's death in series two was one of the show's most memorable storylines.
-Robert Attermann, Pastore's manager, told CBS News: "To the world, he will always be remembered as the unforgettable 'Big Pussy,' but to those of us who knew him, he was so much more."
-"He loved being an actor. He was passionate about his craft and was always encouraging, respectful, and generous with young actors, taking the time to offer guidance and support whenever he could," Attermann said.
-He continued: "For me, losing Vinny is deeply personal. Over more than three decades, I had the honor of watching not only his remarkable career but also the incredible person he was. I will miss his friendship, his loyalty, his humor, and his heart."
-Pastore was born in the Bronx in 1946. He enlisted in the US Navy during the Vietnam War before embarking on a career in acting.
-His early credits included roles in movies such as Goodfellas and Carlito's Way.
-Later TV appearances included Law & Order, General Hospital and Hawaii Five-O.
-But it was his role in The Sopranos which brought Pastore widespread recognition. He appeared in all six seasons of the critically acclaimed show, despite his character being killed off in the second series.
-In 2000, Pastore and his fellow The Sopranos cast members won the Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series.`,
-    bodyJa: `ソプラノ歌手ヴィンセント・パストーレさんが80歳で死去
-- 公開されました
-複数の米国メディアによると、人気番組「ザ・ソプラノズ」でサルバトーレ・“ビッグ・プッシー”・ボンペンシエーロを演じた米俳優ヴィンセント・パストーレさんが80歳で死去した。
-パストーレ氏はニューヨーク市ブロンクスの自宅で発見され、犯罪性の兆候はなかったとBBCの米国パートナーCBSニュースが報じた。
-『ザ・ソプラノズ』でパストーレは、最終的にFBIの情報提供者となるトニー・ソプラノの親友を演じた。シリーズ 2 での彼のキャラクターの死は、ショーの最も記憶に残るストーリーラインの 1 つでした。
-パストーレのマネージャー、ロバート・アッターマン氏はCBSニュースに対し、「世界にとって彼は忘れられない『ビッグ・プッシー』としていつまでも記憶されるだろうが、彼を知る私たちにとって彼はそれ以上の存在だった」と語った。
-「彼は俳優であることが大好きでした。彼は自分の芸術に情熱を持っていて、若い俳優たちを常に励まし、敬意を払い、寛大で、可能な限り時間をかけて指導とサポートを提供してくれました」とアッターマン氏は語った。
-さらに「私にとって、ヴィニーを失うことは極めて個人的なことだ。30年以上にわたり、彼の素晴らしいキャリアだけでなく、彼の素晴らしい人間性を見守ることができて光栄だった。彼の友情、忠誠心、ユーモア、そして心を恋しく思うだろう」と語った。
-パストーレは 1946 年にブロンクスで生まれました。俳優としてのキャリアを始める前に、ベトナム戦争中にアメリカ海軍に入隊しました。
-彼の初期のクレジットには、『グッドフェローズ』や『カリートズ・ウェイ』などの映画での役割が含まれていました。
-その後、「Law & Order」、「General Hospital」、「Hawaii Five-O」などのテレビ出演が行われました。
-しかし、パストーレに広く知られるようになったのは、『ザ・ソプラノズ』での彼の役割でした。彼は、第2シリーズでキャラクターが殺されたにもかかわらず、批評家から高く評価されたこの番組の全6シーズンに出演した。
-2000年、パストーレと彼の同僚の「ザ・ソプラノズ」のキャストメンバーは、ドラマシリーズのアンサンブルの優秀な演技に対して映画俳優組合賞を受賞した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-01T22:57:55+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/c9f00e60-8df6-11f1-902e-fd8182e85c3f.jpg",
-    readTime: 2,
-  },
-  {
-    id: "a-bruising-24-hours-what-next-for-fifa-a-3e035529",
-    title: "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-    titleJa: "傷だらけの 24 時間 - FIFA とプレッシャーにさらされたインファンティーノの今後は?",
-    summaryJa: "ジャンニ・インファンティーノに対するプレッシャーが高まっている。物議を醸したワールドカップ投資計画が破綻した後、彼はFIFA会長として生き残ることができるだろうか？",
-    bodyOriginal: `A bruising 24 hours - what next for Fifa and under-pressure Infantino?
-- Published
-A week is a long time in politics. Football politics.
-On Tuesday morning, Gianni Infantino was in an impregnable position as Fifa president, the most powerful job in football.
-Now, after trying to sell stakes in Fifa competitions to private investments firms - apparently without the knowledge of anyone else - Infantino's position appears to be under threat.
-Uefa - Infantino's fiercest critic - dealt its trump card on Thursday by threatening to boycott all Fifa competitions, including the World Cup.
-Now European football's governing body senses the opportunity to remove Infantino - and this is likely to be the best chance it will ever get.
-But they're far from the only unhappy federation.
-Concacaf, the confederation Infantino worked so closely with to organise the 2026 World Cup, has called for a "full review" into the leadership of Fifa in light of Infantino's plan.
-Even more damaging, loyal countries in the Asian Football Confederation (AFC) shunned him too.
-Then he was abandoned by two of his closest allies - first senior adviser Carlos Cordeiro and then chief operating officer Kevin Lamour.
-After Infantino backtracked in the early hours of Saturday morning, Uefa delivered another devastating blow by issuing a strong statement saying it had lost confidence in him.
-The battles lines have been drawn. What could happen next?
-Uefa has 'lost confidence' in Infantino's Fifa leadership
-- Published15 hours ago
-Four reasons why Fifa's World Cup plan never stacked up
-- Published19 hours ago
-Infantino on the brink? Who might replace him if he goes?
-- Published22 hours ago
-How could Infantino be ousted?
-The quickest route for Infantino's exit would be for the Swiss to resign, like his predecessor Sepp Blatter did in 2015.
-But Infantino still retains support and he could try to hold out until March, when he is up for re-election for a fourth and final term as president.
-What other avenues are open?
-The Fifa Council could try to force Infantino's hand through an emergency meeting.
-Such a gathering would be triggered if 19 of the 37 Fifa Council members call for one.
-Uefa has nine members, AFC has seven, Concacaf five, Africa has six, Conmebol five and Oceania three. It is completed by Infantino and secretary general Mattias Grafstrom.
-BBC Sport understands there are some doubts that the 19 votes could be achieved.
-If they do get to 19, the meeting must take place within two weeks and the Fifa Council could call on Infantino to tender his resignation. But he could simply refuse to do so.
-It would, however, add further pressure.
-The next step would be an extraordinary congress of the 211 Fifa member associations, which would be held if one-fifth, or 43 associations, "make such a request in writing".
-So Uefa, which has 55 nations, can trigger the extraordinary congress whenever it wishes.
-That would take a minimum of two months from the point it is triggered, but more likely three months, and there is no guarantee of success.
-In effect, it would be a de facto election without there being another candidate as 106 votes would be needed to pass the vote of no confidence.
-Uefa has 55, Africa 54, Asia 46, Concacaf 35, Oceania 11 and Conmebol 10.
-Africa, Conmebol and Oceania have not criticised Infantino's plan.
-So could Uefa get to 106? In total, 136 countries officially rejected the investment plan, but voting to reject an idea is not the same as voting to kick Infantino out.
-Of the 136, Qatar have already publicly backed him and Mexico have distanced themselves from the joint Concacaf statement.
-Which leaves finding a suitable candidate to fight the election in March.
-Infantino stood unopposed when he was re-elected in 2019 and 2023 and if someone wants to battle him for the position, the deadline to announce their candidacy is 18 November.
-The five dramatic days that shook Infantino and world football
-- Published19 hours ago
-Who could potentially replace Infantino?
-If Uefa and Infantino's biggest critics have to go down the election route, they will need to find a unifying leader.
-As Uefa has been so strong in its opposition to Infantino, a European candidate might struggle to get global support. After all, it might seem like it is trying to take over Fifa itself.
-So there must be a candidate who can attract the support of those countries in Concacaf, Africa and Asia who could have been loyal to Infantino but could be persuaded to switch their votes.
-The most likely candidate appears to be Concacaf president Victor Montagliani.
-Like Infantino, he was elected in 2016 promising governance reform. A former president of Canada Soccer, Montagliani was heavily involved in the build up to and delivery of the 2026 World Cup. He is fluent in French, Italian and Spanish, as well as English.
-Another option would be Sheikh Salman bin Ebrahim Al Khalifa, the AFC president.
-Initially elected in 2013, he was re-elected unopposed for a fourth term to run to 2027.
-Sheikh Salman signed off the confederation's brutal takedown of how Fifa is being run by Infantino and has carried with him a 46-member confederation, many of whom are aware the figures being offered by Infantino's plan are huge in terms of their overall football expenditure.
-Less likely appears to be Paris St-Germain president Nasser Al-Khelaifi, the Qatari who is also the chair of European Football Clubs.
-Al-Khelaifi helped bring European football back together after another seismic event that threatened to pull the game apart - the ill-fated European Super League.
-In theory, the Qatari would be a serious challenger to Infantino. But it seems he doesn't want the role. Qatar's support for Infantino could be an issue, too.
-How likely is it that Infantino is ousted?
-In any other business, Infantino would be unlikely to continue in his role.
-But football, of course, is not a normal business.
-Remember, Blatter had been re-elected the week before he resigned in 2015 when he had no option left amid a corruption scandal.
-So will Infantino try to fight on?
-In his statement on Saturday, he said his intent "was to bring all interested parties back together in the coming days and weeks".
-For Infantino, contrition could make this all float away.
-Maybe it is working. Following on from Qatar, 2030 co-hosts Morocco backed him on Saturday evening. Then Egypt praised Infantino for cancelling his masterplan.
-Infantino may be thinking that if he can, day by day, get more member associations on board, the prospect of a no-confidence vote is less likely to be successful.
-After all, his support base has been so strong for so long you can understand why he might have such faith.
-As any vote of no confidence is three months away, he has the chance to repair at least some of the damage.
-It is a race to 106 - and the more time elapses, the more chance Infantino can persuade his former allies this was just an aberration.
-For Uefa, the question is whether it can create a situation whereby Infantino is left with no option but to resign.
-For that to happen, the criticism from federations across the world must continue.
-But if there is one thing that could damage Infantino further, it would be for major sponsors to distance themselves from the organisation.
-During the 2015 Fifa scandal, Sony, Emirates, Castrol, Continental Tyres and Johnson & Johnson were among the companies to discontinue their huge sponsorship deals.
-There is no sign of this just yet but this is a saga with the potential to rumble on.
-Related topics
-- Published8 June
-- Published8 June`,
-    bodyJa: `傷だらけの 24 時間 - FIFA とプレッシャーにさらされたインファンティーノの今後は?
-- 公開されました
-政治の世界では一週間は長い。サッカー政治。
-火曜日の朝、ジャンニ・インファンティーノはサッカー界で最も権力のある職であるFIFA会長という難攻不落の地位に就いた。
-現在、FIFA大会の株式を民間投資会社に売ろうとした後、どうやら誰にも知られずにインファンティーノの立場が脅かされているようだ。
-インファンティーノ氏を最も激しく批判するUEFAは木曜日、ワールドカップを含むすべてのFIFA大会をボイコットすると脅すという切り札を出した。
-現在、欧州サッカー統括団体はインファンティーノを解任する機会を察知しているが、これはこれまでで最高のチャンスとなる可能性が高い。
-しかし、不幸な連邦は彼らだけではありません。
-インファンティーノ氏が2026年ワールドカップの開催に向けて緊密に協力した連盟であるコンカカフは、インファンティーノ氏の計画を踏まえてFIFAの指導体制を「全面的に見直す」よう求めた。
-さらに有害なアジアサッカー連盟（AFC）の忠実な国々も彼を敬遠した。
-その後、彼は最も近い同盟者2人、初代上級顧問カルロス・コルデイロ氏と当時最高執行責任者ケビン・ラムール氏に見捨てられた。
-土曜日の早朝にインファンティーノ監督が撤回したことを受け、UEFAは同選手に対する信頼を失ったと強い声明を発表し、さらなる壊滅的な打撃を与えた。
-戦いの線は引かれました。次に何が起こるでしょうか?
-UEFA、インファンティーノ氏のFIFA指導力に「信頼を失った」
-- 15 時間前に公開
-FIFAのワールドカップ計画が実現しなかった4つの理由
-- 19 時間前に公開
-インファンティーノは瀬戸際？彼が去った場合、誰が彼の代わりをするでしょうか？
-- 22 時間前に公開
-インファンティーノ氏はどうして解任されるのでしょうか？
-インファンティーノ氏の退任への最も早いルートは、2015年に前任者のゼップ・ブラッター氏がしたように、スイス人が辞任することだろう。
-しかし、インファンティーノ氏は依然として支持を維持しており、大統領として最後の4期目の再選が予定されている3月までは持ちこたえる可能性がある。
-他にどんな道が開かれていますか？
-FIFA評議会は緊急会議を通じてインファンティーノ氏の手を押し出そうとする可能性がある。
-このような集会は、FIFA評議会メンバー37人中19人が呼びかければ開催されることになる。
-UEFAの加盟国は9名、AFCは7名、コンカカフは5名、アフリカは6名、コンメボルは5名、オセアニアは3名となっている。インファンティーノ氏と事務総長マティアス・グラフストロム氏によって完成される。
-BBCスポーツは、19票を達成できるかどうかには若干の疑問があることを理解している。
-19人に達した場合、会議は2週間以内に開かれなければならず、FIFA評議会はインファンティーノ氏に辞任を申し出るよう求める可能性がある。しかし、彼はそうすることを単に拒否することもできました。
-しかし、それはさらなるプレッシャーを与えることになるだろう。
-次のステップは、211のFIFA加盟協会による臨時会議で、5分の1、つまり43の協会が「書面でそのような要請をした」場合に開催されることになる。
-したがって、55か国が参加するUEFAは、望むときはいつでも臨時議会を開催することができる。
-それには、トリガーされてから最低でも 2 か月、多くの場合は 3 か月かかりますが、成功する保証はありません。
-不信任案可決には106票が必要となるため、事実上、他候補者がいない事実上の選挙となる。
-UEFAは55、アフリカは54、アジアは46、コンカカフは35、オセアニアは11、コンメボルは10となっている。
-アフリカ、コンメボル、オセアニアはインファンティーノ氏の計画を批判していない。
-では、UEFAは106位まで到達できるだろうか？合計136カ国がこの投資計画を正式に拒否したが、アイデアの拒否に投票することは、インファンティーノ氏を追い出すことに投票することと同じではない。
-136人のうち、カタールはすでに同氏を公に支持しており、メキシコはコンカカフ共同声明から距離を置いている。
-そのため、3 月の選挙を戦うのに適した候補者を見つける必要がある。
-インファンティーノ氏は2019年と2023年に再選された際に無抵抗で立候補しており、もし誰かが彼とその座を争うことを希望する場合、立候補を発表する期限は11月18日である。
-インファンティーノと世界のサッカーを震撼させた劇的な5日間
-- 19 時間前に公開
-インファンティーノの代わりを務める可能性があるのは誰でしょうか？
-UEFAとインファンティーノの最大の批判者たちが選挙の道を歩まなければならない場合、彼らは統一する指導者を見つける必要があるだろう。
-ＵＥＦＡはインファンティーノ氏に対する反対姿勢が非常に強いため、欧州の候補者は世界的な支持を得るのに苦労するかもしれない。結局のところ、FIFA自体を乗っ取ろうとしているように見えるかもしれません。
-したがって、コンカフ、アフリカ、アジアの国々の支持を集めることができ、インファンティーノに忠誠を誓いながらも投票を変えるよう説得できる候補者がいるはずだ。
-最も有力な候補はコンカカフのビクトル・モンタリアーニ会長とみられる。
-インファンティーノと同様、同氏は統治改革を約束して２０１６年に選出された。カナダサッカーの元会長であるモンタリアーニは、2026 年ワールドカップの準備と開催に深く関与しました。彼は英語だけでなく、フランス語、イタリア語、スペイン語にも堪能です。
-もう一つの選択肢は、AFC会長のシェイク・サルマン・ビン・エブラヒム・アル・ハリファだろう。
-2013年に初当選し、無投票で再選され、2027年までの4期目となる。
-サルマン首長は、インファンティーノによるFIFAの運営方法に対する連盟の残忍な非難に同意し、46人の加盟国からなる連盟を引き継いだ。その多くは、インファンティーノの計画によって提示されている数字がサッカー全体の支出の観点から巨額であることを認識している。
-パリ・サンジェルマンの会長であり、欧州サッカークラブの会長でもあるカタール人のナセル・アル・ケライフィ氏の可能性は低いようだ。
-アル・ケライフィは、不運なヨーロッパ・スーパーリーグという、試合を引き離す恐れのあるもう一つの衝撃的な出来事の後、ヨーロッパのサッカーを再び団結させるのに貢献した。
-理論的には、カタール人はインファンティーノにとって本格的な挑戦者となるだろう。しかし、どうやら彼はその役を望んでいないらしい。カタールのインファンティーノ支持も問題になる可能性がある。
-インファンティーノ監督が解任される可能性はどのくらいあるでしょうか?
-他の事業においては、インファンティーノ氏がその職を続ける可能性は低いだろう。
-しかし、もちろん、サッカーは通常のビジネスではありません。
-覚えておいてください、ブラッター氏は2015年に汚職スキャンダルの渦中で選択肢が残されていなかったときに辞任する1週間前に再選されていました。
-では、インファンティーノは戦い続けようとするだろうか？
-同氏は土曜日の声明で、「今後数日から数週間以内にすべての関係者を再び結集させること」が目的だと述べた。
-インファンティーノにとって、悔い改めがすべてを吹き飛ばしてくれるかもしれない。
-たぶんそれは機能しています。カタールに続き、土曜日の夕方、2030年の共催国であるモロッコも彼を支持した。その後、エジプトはインファンティーノ氏の基本計画を中止したことを称賛した。
-インファンティーノ氏は、日々より多くの加盟団体を参加させることができれば、不信任投票が成功する可能性は低くなる、と考えているのかもしれない。
-結局のところ、彼の支持基盤は長い間非常に強かったので、彼がなぜこれほどの信頼を持っているのか理解できるでしょう。
-不信任投票までに3か月かかるため、彼には少なくともダメージの一部を修復するチャンスがある。
-これは106歳までの競争であり、時間が経てば経つほど、インファンティーノがかつての同盟者たちにこれは単なる異常であると説得できる可能性が高まる。
-UEFAにとって問題は、インファンティーノ監督が辞任せざるを得なくなる状況を作り出せるかどうかだ。
-そのためには、世界中の連盟からの批判が続けられなければなりません。
-しかし、インファンティーノにさらなるダメージを与える可能性があるとすれば、それは大手スポンサーが組織から距離を置くことだろう。
-2015年のFIFAスキャンダルでは、ソニー、エミレーツ、カストロール、コンチネンタルタイヤ、ジョンソン・エンド・ジョンソンなどが巨額のスポンサー契約を打ち切った。
-まだその兆候はありませんが、これはゴロゴロする可能性を秘めた物語です。
-関連トピック
-- 6 月 8 日発行
-- 6 月 8 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-01T22:23:20+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg",
-    readTime: 9,
-  },
-  {
-    id: "my-girlfriend-is-62-can-she-claim-her-la-7957b3b4",
-    title: "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
-    titleJa: "私のガールフレンドは 62 歳です。彼女は亡き夫の社会保障給付金を全額請求できますか? それとも待たなければなりませんか?",
-    summaryJa: "「彼女の夫は10年前に亡くなりました。彼らは20年以上結婚していました。」",
-    bodyOriginal: `“Her husband passed away 10 years ago. They had been married for more than 20 years.”`,
-    bodyJa: `「彼女の夫は10年前に亡くなりました。彼らは20年以上結婚していました。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
-    publishedAt: "2026-08-01T22:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-93168750",
-    readTime: 2,
-  },
-  {
-    id: "eu-calls-emergency-meeting-to-discuss-ce-fa3557a0",
-    title: "EU calls emergency meeting to discuss Ceuta migrant crossings",
-    titleJa: "EU、セウタ移民の入国問題について話し合うため緊急会合を開催",
-    summaryJa: "EU、セウタ移民の入国問題について話し合うため緊急会合を開催- 公開されました",
-    bodyOriginal: `EU calls emergency meeting to discuss Ceuta migrant crossings
-- Published
-The European Union will hold emergency talks on Tuesday to discuss the migration crisis in Ceuta after tense exchanges between Spain and other member states.
-Twenty-two member states issued a joint letter calling for co-ordinated action and the strengthening of the EU's external borders, after some 60,000 migrants entered the Spanish enclave from Morocco.
-Spain condemned "selfish, polarising and unlawful" reaction to the crisis after Italy suspended the EU's border-free Schengen arrangement with Spain - a move backed by Finland and Denmark.
-Officials say almost all those who reached Ceuta on 30 July have returned, while deaths from the surge in crossings had risen to at least 67.
-The EU members' letter addresses concerns around "hybrid threats to create the perception that illegal entry into the European Union is possible," adding that the perception "would encourage further attempts, undermine confidence in our common migration policy and have repercussions for all Member States".
-Leaders of the Netherlands, Finland and Belgium are among 22 signatures on the letter, addressed to EU President Antonio Costa, president of the European Commission Ursula von der Leyen and Taoiseach Michael Martin, as Ireland currently holds the presidency of the Council of the European Union.
-In a separate letter to von der Leyen, Spanish Prime Minister Pedro Sánchez said he had "serious concerns" about some European governments.
-He said the Spanish government had fully restored control over the border and prevented any "unauthorised onward movement towards continental Europe" in less than 48 hours.
-While most had shown "support and solidarity", Sánchez said other European governments had chosen to attack Spain, "driven by prejudice, fake news, ignorance, or political interest", and pointed out that Ceuta was not part of the Schengen area.
-On Friday, Sánchez accused migrant traffickers of exploiting a decision recently made by the country's supreme court which constrained the government's right to immediately deport people who had arrived by sea.
-The country's Interior Minister, Fernando Grande-Marlaska, said in a news conference on Saturday that the situation had almost returned to normal and the country was working on inflatable barrier to prevent illegal migration via the water.
-"Almost all of [the migrants] have already left Ceuta," he said adding that businesses there had now reopened.
-Influx of migrants to Ceuta gives Spain diplomatic headache
-- Published1 day ago
-Some criticism of the situation has involved concerns over the Schengen Area - an agreement which eliminates border checks and now encompasses more than 450 million people and 29 countries in Europe.
-In addition to Italian Prime Minister Giorgia Meloni suspending Italy's Schengen agreement with Spain for a month, Finland, France and Portugal have all said they were either looking at, or considering, border checks.
-Danish Prime Minister Mette Frederiksen urged the EU to "consider all options, including a suspension of Schengen co-operation".
-Von der Leyen said the images from Ceuta were "unacceptable". Writing on social media, she said: "We cannot allow anyone to come to our Union without abiding by our rules."
-German Chancellor Friedrich Merz demanded that Morocco "take back illegal migrants immediately", while on Saturday, UK Prime Minister Andy Burnham said he had spoken to Sánchez and the UK was "providing what help we can".
-Morocco witnessed several Gen Z anti-government protests last year, with young people demanding better opportunities and improvements to public services.
-Together with Melilla, Ceuta forms the European Union's only land borders with Africa. Migrants can enter the enclave by swimming several kilometres.
-While the surge of migrants this year is extraordinary, Ceuta has long been a focal point for migrants attempting to reach Europe. During the summer months, there is often a big push to reach Ceuta, typically organised over social media.
-In 2021, about 8,000 people entered Ceuta over a matter of days, exacerbating Spain's diplomatic tensions with Morocco.
-Spain has a relatively friendly approach to immigration. In April, the government approved plans to give legal status to 500,000 undocumented migrants, allowing them to be formally integrated into the workforce.
-- Published18 May 2023
-- Published5 June 2021`,
-    bodyJa: `EU、セウタ移民の入国問題について話し合うため緊急会合を開催
-- 公開されました
-スペインと他の加盟国間の緊迫したやりとりの後、欧州連合は火曜日にセウタの移民危機について話し合う緊急協議を開催する。
-モロッコからスペイン飛び地に約6万人の移民が流入したことを受け、加盟22カ国は協調行動とEU外国境の強化を求める共同書簡を発表した。
-スペインは、イタリアがEUとスペインとの国境のないシェンゲン協定を停止したことを受けて、危機に対する「利己的で二極化した不法」な対応を非難した。この動きにはフィンランドとデンマークも支持している。
-当局者らによると、7月30日にセウタに到着した人のほぼ全員が戻ってきた一方、渡航者の急増による死者は少なくとも67人に上ったという。
-EU加盟国の書簡は「欧州連合への不法入国が可能であるという認識を生み出す複合的な脅威」に関する懸念に言及し、その認識は「更なる試みを促し、我々の共通の移民政策に対する信頼を損ない、すべての加盟国に影響を与えるだろう」と付け加えた。
-書簡にはオランダ、フィンランド、ベルギーの首脳も含まれており、アントニオ・コスタEU大統領、ウルズラ・フォン・デア・ライエン欧州委員会委員長、アイルランドが現在欧州連合理事会議長国を務めているマイケル・マーティン首相に宛てたものである。
-スペインのペドロ・サンチェス首相はフォンデアライエン宛ての別の書簡の中で、一部の欧州政府について「深刻な懸念」を抱いていると述べた。
-同氏は、スペイン政府が国境の管理を完全に回復し、48時間以内に「欧州大陸への不正な前進」を阻止したと述べた。
-サンチェス氏は、大半の政府が「支持と団結」を示していた一方で、他の欧州各国政府が「偏見、フェイクニュース、無知、政治的利益に動かされて」スペイン攻撃を選択したと述べ、セウタはシェンゲン圏に含まれていないと指摘した。
-サンチェス氏は金曜日、海路で到着した人々を即時国外追放する政府の権利を制約する同国の最高裁判所が最近下した決定を悪用したとして移民人身売買業者を非難した。
-同国のフェルナンド・グランデ・マルラスカ内務大臣は土曜日の記者会見で、状況はほぼ正常に戻り、水路を通じた不法移民を防ぐためにインフレータブルバリアの建設に取り組んでいると述べた。
-同氏は、「（移民の）ほぼ全員がすでにセウタを離れた」と述べ、セウタでの事業は現在再開されていると付け加えた。
-セウタへの移民流入がスペイン外交に頭痛の種
-- 1 日前に公開
-この状況に対する批判の中には、シェンゲン圏に対する懸念も含まれている。シェンゲン圏は国境検問を廃止し、現在ヨーロッパの29カ国、4億5千万人以上の人々が参加する協定である。
-イタリアのジョルジア・メローニ首相がスペインとのシェンゲン協定を１カ月間停止したことに加え、フィンランド、フランス、ポルトガルも国境検査を検討している、あるいは検討していると述べた。
-デンマークのメッテ・フレデリクセン首相はEUに対し「シェンゲン協定への協力停止を含むあらゆる選択肢を検討する」よう求めた。
-フォンデアライエン氏は、セウタからの画像は「容認できない」と述べた。彼女はソーシャルメディアに「私たちの規則に従わない者が私たちの組合に来ることを許すことはできない」と述べた。
-ドイツのフリードリヒ・メルツ首相はモロッコに対し「不法移民を即時奪還する」よう要求し、土曜日には英国のアンディ・バーナム首相もサンチェス氏と話しており、英国は「できる限りの支援を行っている」と述べた。
-モロッコでは昨年、Z世代による反政府抗議活動が数回発生し、若者たちはより良い機会と公共サービスの改善を求めていた。
-セウタはメリリャとともに、欧州連合でアフリカとの唯一の陸上国境を形成しています。移民は数キロ泳いで飛び地に入ることができる。
-今年の移民の急増は異常だが、セウタは長年、ヨーロッパを目指す移民の中心となってきた。夏の間、セウタに到達しようとする大きな動きがあり、通常はソーシャルメディア上で組織されます。
-2021年には数日間で約8000人がセウタに入国し、スペインとモロッコの外交的緊張が悪化した。
-スペインは移民に対して比較的友好的なアプローチを取っています。政府は4月、50万人の不法移民に法的地位を与え、正式に労働力として統合できるようにする計画を承認した。
-- 2023 年 5 月 18 日公開
-- 2021 年 6 月 5 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-01T20:09:27+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/394b/live/4f569510-8dd9-11f1-b2ab-0dd01740f9f6.jpg",
-    readTime: 5,
-  },
-  {
-    id: "let-s-elect-candidates-who-will-make-the-f5f7dd37",
-    title: "Let’s elect candidates who will make the wealthy pay taxes",
-    titleJa: "富裕層に税金を支払わせる候補者を選出しましょう",
-    summaryJa: "私たちはこれらの収入の一部を社会保障への拠出をより公平にするために使用できます。",
-    bodyOriginal: `We can use some of those revenues to make Social Security contributions more equitable.`,
-    bodyJa: `私たちはこれらの収入の一部を社会保障への拠出をより公平にするために使用できます。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
-    publishedAt: "2026-08-01T18:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-38740801",
-    readTime: 2,
   },
 ];
 
