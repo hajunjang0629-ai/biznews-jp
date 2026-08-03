@@ -15,6 +15,224 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "astrazeneca-slides-after-report-of-brist-4062939d",
+    title: "AstraZeneca slides after report of Bristol Myers merger talks leaves analysts 'perplexed'",
+    titleJa: "ブリストル・マイヤーズの合併協議報道でアストラゼネカが株価下落、アナリストは「当惑」",
+    summaryJa: "アストラゼネカがブリストル・マイヤーズ スクイブとの大型合併の可能性について協議したとの報道を受け、月曜日、アストラゼネカ株は最大7％下落したが、アナリストらは、この合併は製薬業界の最も強力な成長ストーリーの1つにとって驚くべき戦略的措置になるだろうと述べた。合意が成立すれば、両社の価値は約4000億ドルとなり、製薬提携としては史上最大規模となる可能性がある。",
+    bodyOriginal: `AstraZeneca shares dropped as much as 7% on Monday after a report that the company had discussed a potential mega-merger with Bristol Myers Squibb, a deal that analysts said would be a surprising strategic move for one of the pharmaceutical industry's strongest growth stories.
+If completed, a deal could value the companies at roughly $400 billion, and rank among the largest pharmaceutical tie-ups ever.
+Neither company confirmed the report. AstraZeneca declined to comment, while Bristol Myers Squibb did not immediately respond to CNBC's request for comment outside normal U.S. business hours.
+While details of the talks remain scarce and sources told the FT that a deal may never materialize, analysts questioned why AstraZeneca — whose market value has surged under CEO Pascal Soriot on the back of a strong drug pipeline — would pursue such a transaction.
+AstraZeneca's London-listed shares were last seen trading 6.1% lower, weighing on the U.K.'s blue-chip index FTSE 100, which was largely flat.
+Shares of Bristol Myers rose 6% in U.S. premarket trading.
+Coming into Monday trading, AstraZeneca had a market cap of $264 billion. That number has risen steadily over the past decade and since CEO Pascal Soriot took the reins in 2012 as the company has developed a solid pipeline of new drugs. It is targeting $80 billion in sales by 2030, up from $58.7 billion last year.
+Bristol Myers' market cap is roughly $133 billion, and the company is facing loss of exclusivity for multiple drugs. It's expected to see declining growth from next year as patents expire and top-selling drugs like its blood thinner Eliquis and cancer medicine Opdivo will start to face generic competition.
+Analysts were puzzled by both the news itself, as well as the timing of it.
+"Given the strength of AZ's growth and innovation profile, we are a bit perplexed," Jefferies analysts wrote Monday morning. "Of course financial accretion can look good and maybe more cash generation would allow for more R&D. But if there is one company that doesn't need financial engineering, it's AZ."
+It also comes as Bristol Myers has major trial readouts looming for its newer blood thinner medication milvexian and the expansion of the label for its schizophrenia drug Cobenfy, making pipeline synergies between the two companies uncertain, noted RBC Capital Markets analysts.
+The U.S. market
+One rationale for the reported deal talks could be AstraZeneca's strategic desire to move closer to the key U.S. market after the company completed a direct listing on the New York Stock Exchange earlier this year, replacing its earlier ADR program.
+AstraZeneca's U.S. sales accounted for 42% of total sales in the first half of 2026, and it explicitly targets the U.S. market to ensure its growth targets. Meanwhile, Princeton, New Jersey-based Bristol Myers Squibb sourced 69% of revenues from the U.S. market in the last quarter.
+The focus will likely be on the potential to establish an even bigger oncology powerhouse, with AstraZeneca's and Bristol Myers' combined portfolio of cancer drugs likely being the broadest in the industry, potentially attracting antitrust scrutiny, Jefferies said.
+While the companies overlap in oncology, cardiovascular disease and immunology, their pipelines are largely complementary, with AstraZeneca stronger in solid tumors and Bristol Myers Squibb more focused on blood cancers and cell therapies.
+Citi analysts said that if the merger talks report were true, it would be a "surprise" given AstraZeneca's "best-in-class pipeline."
+AstraZeneca did, however, report a rare setback when a late-stage clinical trial for a heart disease drug failed to meet its target earlier this month. It raised some questions around management's credibility, given the confidence they had communicated coming into the results. Even so, most analysts still considered the $80 billion sales target achievable by the end of the decade.`,
+    bodyJa: `アストラゼネカがブリストル・マイヤーズ スクイブとの大型合併の可能性について協議したとの報道を受け、月曜日、アストラゼネカ株は最大7％下落したが、アナリストらは、この合併は製薬業界の最も強力な成長ストーリーの1つにとって驚くべき戦略的措置になるだろうと述べた。
+合意が成立すれば、両社の価値は約4000億ドルとなり、製薬提携としては史上最大規模となる可能性がある。
+両社ともこの報道を確認していない。アストラゼネカはコメントを拒否したが、ブリストル・マイヤーズ スクイブは米国の通常営業時間外のCNBCのコメント要請にすぐには応じなかった。
+交渉の詳細は依然として乏しく、関係者らは合意が決して実現しない可能性があるとFTに語ったが、強力な医薬品パイプラインを背景にパスカル・ソリオ最高経営責任者（CEO）の下で市場価値が急上昇したアストラゼネカがなぜそのような取引を追求するのかアナリストらは疑問を呈している。
+アストラゼネカのロンドン上場株は直近で６．１％安で取引されており、ほぼ横ばいであった英国の優良株指数ＦＴＳＥ１００の重しとなった。
+ブリストル・マイヤーズの株価は米国市場前取引で６％上昇した。
+月曜日の取引に参加したアストラゼネカの時価総額は2640億ドルだった。この数は過去 10 年間で着実に増加しており、2012 年に CEO のパスカル・ソリオ氏が指揮を執って以来、同社は堅実な新薬パイプラインを開発してきました。 2030年までに売上高800億ドルを目指しており、昨年の587億ドルから増加している。
+ブリストル・マイヤーズの時価総額は約1,330億ドルで、同社は複数の医薬品の独占権の喪失に直面している。特許が切れるほか、抗凝血剤エリキュースやがん治療薬オプジーボなどの売れ筋医薬品がジェネリック医薬品との競争に直面し始めるため、来年からは成長が鈍化すると予想されている。
+アナリストらはニュースそのものとそのタイミングの両方に困惑した。
+ジェフリーズのアナリストらは月曜朝、「AZの成長とイノベーションの強さを考えると、われわれは少々当惑している」と書いた。 「もちろん、財務上の成長は良いように見えますし、より多くのキャッシュ生成により、より多くの研究開発が可能になるかもしれません。しかし、金融工学を必要としない企業が1社あるとすれば、それはAZ社です。」
+また、ブリストル・マイヤーズは、新しい抗凝血薬ミルベキシアンと統合失調症薬コベンフィのラベル拡大に関する大規模な治験結果の発表が迫っており、両社間のパイプラインの相乗効果が不透明になっているとRBCキャピタル・マーケッツのアナリストは指摘した。
+米国市場
+報道された取引交渉の根拠の一つは、アストラゼネカが今年初めに以前のADRプログラムに代わってニューヨーク証券取引所への直接上場を完了した後、主要な米国市場に近づきたいという同社の戦略的願望である可能性がある。
+アストラゼネカの米国売上高は、2026年上半期の総売上高の42％を占めており、成長目標を確実に達成するために米国市場を明確にターゲットにしている。一方、ニュージャージー州プリンストンに本拠を置くブリストル・マイヤーズ スクイブは、前四半期の収益の69％を米国市場から得ていた。
+ジェフリーズ氏によると、アストラゼネカとブリストル・マイヤーズの両社を合わせた抗がん剤のポートフォリオはおそらく業界で最も広範なものとなり、独禁法の監視を受ける可能性があり、さらに大きな腫瘍分野の有力企業を確立する可能性に注目が集まるだろう。
+両社は腫瘍学、心血管疾患、免疫学で重複しているが、パイプラインはほぼ補完的であり、アストラゼネカは固形腫瘍に強く、ブリストル・マイヤーズ スクイブは血液がんと細胞治療に重点を置いている。
+シティのアナリストらは、合併交渉報道が事実であれば、アストラゼネカの「クラス最高のパイプライン」を考えれば「驚き」になるだろうと述べた。
+しかし、アストラゼネカは今月初め、心臓病治療薬の後期臨床試験が目標を達成できなかったという、まれな挫折を報告した。経営陣が結果に自信を伝えていたことを考えると、経営陣の信頼性に関していくつかの疑問が生じた。それでも、ほとんどのアナリストは依然として800億ドルの売上目標は20年末までに達成可能だと考えている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/astrazeneca-bristol-myers-squibb-merger-talks.html",
+    publishedAt: "2026-08-03T09:50:18+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "warsh-tightened-more-by-pausing-than-by-b506e447",
+    title: "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here’s the math.",
+    titleJa: "債券市場のベテランであるこの氏は、ウォーシュ氏は利上げよりも利上げ停止によって引き締めを行ったと主張する。これが計算です。",
+    summaryJa: "逆説的に聞こえるかもしれないが、連邦準備制度理事会のケビン・ウォーシュ議長は、実際に金利を引き上げるよりも金利を引き上げないことで経済を引き締めた可能性がある。",
+    bodyOriginal: `It sounds paradoxical, but Federal Reserve Chair Kevin Warsh may have tightened the economy by not lifting interest rates than he would have by actually increasing them.`,
+    bodyJa: `逆説的に聞こえるかもしれないが、連邦準備制度理事会のケビン・ウォーシュ議長は、実際に金利を引き上げるよりも金利を引き上げないことで経済を引き締めた可能性がある。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
+    publishedAt: "2026-08-03T09:18:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-60338265",
+    readTime: 2,
+  },
+  {
+    id: "my-head-hit-the-driver-s-window-a-teena-71662b24",
+    title: "‘My head hit the driver’s window’: A teenager T-boned our car. Will Medicare pay my hospital bills?",
+    titleJa: "「運転席の窓に頭が当たりました」: 10 代の少年が私たちの車に T ボーンを加えました。メディケアは私の病院代を支払ってくれますか?",
+    summaryJa: "「私の車は20年近く前のもので、衝突補償ではなく、賠償責任と無保険運転者補償のみを付帯していました。」",
+    bodyOriginal: `“My car was nearly 20 years old, and I only carried liability and uninsured motorist coverage, not collision coverage.”`,
+    bodyJa: `「私の車は20年近く前のもので、衝突補償ではなく、賠償責任と無保険運転者補償のみを付帯していました。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-head-hit-the-drivers-window-a-teenager-t-boned-our-car-will-medicare-pay-my-hospital-bills-0552d90d?mod=mw_rss_topstories",
+    publishedAt: "2026-08-03T09:15:00+00:00",
+    category: "自動車",
+    imageUrl: "https://images.mktw.net/im-92089659",
+    readTime: 2,
+  },
+  {
+    id: "why-the-u-s-stepped-in-after-decades-to-3eb953cc",
+    title: "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
+    titleJa: "米国が数十年ぶりに日本の円を下支えするために介入した理由と何が問題になっているのか",
+    summaryJa: "ボロボロの円支援で日本に加わるというワシントンの決定は、異例の協調介入の動機について疑問を引き起こしており、アナリストらは米国債市場と日本の金融システムへの懸念を指摘している。日本政府は最近、対ドルで約40年ぶりの安値水準まで下落した円安に対する警戒を強めている。円は数十年ぶりの安値で推移し、先週木曜日には１ドル＝１６３．７３円まで下落したが、金曜日には１５７．５７円まで反発した。",
+    bodyOriginal: `Washington's decision to join Japan in supporting the battered yen has prompted questions over what motivated the rare coordinated intervention, with analysts pointing to concerns over U.S. Treasury markets and Japan's financial system.
+Tokyo has grown increasingly wary of the yen's decline, which recently dropped to its weakest level against the dollar in nearly four decades. The yen had been hovering at multi-decade lows, sliding to 163.73 per dollar last Thursday before rebounding to 157.57 Friday.
+The coordinated intervention was the first U.S.-Japan joint operation to buy yen since 1998, and the first coordinated intervention involving the two countries since the G7 acted to weaken the yen after the 2011 earthquake.
+Industry veterans told CNBC that one of Washington's biggest concerns was avoiding a scenario where Japan would need to dump large quantities of Treasuries to finance unilateral intervention, given how the North Asian nation is the largest foreign holder of U.S. government debt.
+Louise Loo, head of Asia economics at Oxford Economics, said that that was "possibly one of the key reasons" behind U.S. participation.
+"There is a self-preservation element here. Volatile markets driven by potentially fiscally-aggressive policies from Japan could extend to the U.S. Treasury markets, destabilizing the dollar."
+Tokyo's and Washington's emphasis on the Federal Reserve's standing FIMA repo facility — which allows foreign central banks to obtain dollar liquidity without selling Treasuries outright — "was a clue that they'd like to avoid forced-selling as much as possible," she said.
+Japan's finance ministry said Monday it plans to use the FIMA repo facility for future interventions. Masahiko Loo, senior macro strategist at State Street, said the signal "may be bigger than the intervention itself."
+Washington's concerns likely extend beyond the yen, he added. A persistently weak yen could trigger further selling in Japanese government bonds, with higher yields spilling over into global bond markets at a time when both Japan and the U.S. are grappling with rising long-term borrowing costs.
+"Highlighting access to the Fed's FIMA repo tells markets Japan can raise dollar liquidity without selling Treasuries ... addressing concerns that MOF intervention could pressure U.S. funding markets through short-end UST sales," he said. "It's an attempt to maximize the signaling effect and get the biggest bang for the buck with the tools already available."
+Yields of the U.S. 10-year Treasury have gained almost 57 points since the start of the year.
+A 'new phase' of U.S.-Japan relationship
+President Donald Trump said that the U.S. had participated in last week's coordinated intervention to support the yen as a gesture of support for Japan and in the interest of global economic stability.
+Beyond protecting U.S. bond markets, the intervention also reflected Washington's broader economic and geopolitical priorities.
+Oxford Economics' Loo noted the U.S. has repeatedly argued the yen is "substantially undervalued," providing it an incentive in correcting what it sees as an unfair trade advantage as it makes Japanese exports more competitive.
+She added that if Washington believes Japan's fiscal policies are feeding into higher JGB yields and a weaker currency, coordinated intervention could buy time for the BOJ until it is in a position to resume raising interest rates later this year. A stronger yen ultimately requires tighter Japanese monetary policy rather than repeated intervention, the economist noted.
+Jesper Koll, expert director at Monex said the operation reflected a broader shift in the U.S.-Japan relationship under U.S. President Donald Trump and Japanese Prime Minister Sanae Takaichi.
+"U.S.-Japan cooperation and partnership has entered a new phase," he said, adding that coordinated intervention showed "when Japan asks for help America will answer Japan's call." He also argued the move sends a geopolitical message to Beijing as "China's leadership cares about actions, not words."
+Vishnu Varathan, head of macro research for Asia ex-Japan at Mizuho Securities, said coordinated intervention is inherently more powerful because of U.S. participation.
+"The disproportionately heightened efficacy of FX intervention" comes from the involvement of the U.S. Treasury and Federal Reserve, giving markets greater reason to believe authorities are prepared to act again if necessary, he said. Together with both governments warning they "will not hesitate" to intervene again, it "ups the ante on deterrence" against speculative bets pressuring the yen.
+He also argued that U.S. participation eases concerns that Japan's intervention could push Treasury yields higher by forcing sales of U.S. government debt, while helping stabilize Japanese bond markets.
+Still, analysts warned that the coordinated action may prove no more durable than previous interventions unless Japan addresses the structural forces driving yen weakness.
+A 'counterproductive' move?
+Reports that the U.S. sold euros rather than dollars to buy yen surprised markets because coordinated intervention has traditionally been funded with dollar assets.
+Robin Brooks, senior fellow at the Brookings Institution, questioned the mechanics of the U.S. operation, highlighting that it is "confusing markets and will prove counterproductive."
+"On the surface, that may give the impression that this intervention will be more impactful than past efforts, but U.S. participation raises more questions than answers, especially the very odd news that the US sold Euros to buy Yen."
+"This kind of twist in my opinion undercuts the efficacy of U.S. participation, because it invariably will have markets wondering why the U.S. didn't just fund Yen buying out of Dollars."
+Brooks argued intervention ultimately cannot reverse depreciation driven by Japan's bond market.
+"As long as Japan's government bond yields are artificially capped," he said, "the yen is overvalued and needs to fall." The BOJ ended formal yield curve control in March 2024, but it has continued to buy large amounts of Japanese government bonds. Brooks argued those purchases continue to keep borrowing costs below where they would otherwise settle in a free market.
+State Street's Loo likewise highlighted that intervention can buy time, but not change the long-term trajectory. "Intervention may shape the next few months. BOJ normalization and hedging flows will shape the next few years."`,
+    bodyJa: `ボロボロの円支援で日本に加わるというワシントンの決定は、異例の協調介入の動機について疑問を引き起こしており、アナリストらは米国債市場と日本の金融システムへの懸念を指摘している。
+日本政府は最近、対ドルで約40年ぶりの安値水準まで下落した円安に対する警戒を強めている。円は数十年ぶりの安値で推移し、先週木曜日には１ドル＝１６３．７３円まで下落したが、金曜日には１５７．５７円まで反発した。
+この協調介入は、１９９８年以来初めての日米共同の円買い作戦であり、２０１１年の地震後にＧ７が円安誘導を行って以来、初めて両国が関与した協調介入となった。
+業界のベテランらはCNBCに対し、米国政府の最大の懸念の一つは、北アジアの国が米国政府債務の最大の外国保有者であることを考慮すると、日本が一方的介入の資金を調達するために大量の国債を放出する必要があるというシナリオを回避することだと語った。
+オックスフォード・エコノミクスのアジア経済部門責任者、ルイーズ・ルー氏は、それが米国の参加の背後にある「おそらく主要な理由の一つ」であると述べた。
+「ここには自己保存の要素がある。潜在的に日本の積極財政政策によって引き起こされる不安定な市場は米国債市場にも広がり、ドルを不安定化させる可能性がある。」
+東京とワシントンがFRBの常設FIMAレポファシリティ（外国中央銀行が米国債を完全に売却することなくドルの流動性を獲得できるようにするもの）を重視していることは、「強制売却を可能な限り回避したいと考えていることの表れだ」と彼女は述べた。
+日本の財務省は月曜日、将来の介入のためにFIMAレポ機能を利用する計画であると発表した。ステート・ストリートのシニアマクロストラテジスト、マサヒコ・ルー氏は、そのシグナルは「介入そのものよりも大きいかもしれない」と述べた。
+米政府の懸念は円を超えて広がる可能性が高いと同氏は付け加えた。日米両国が長期借入コストの上昇に苦しんでいる中、持続的な円安は日本国債のさらなる売りを引き起こす可能性があり、利回りの上昇が世界の債券市場に波及する可能性がある。
+同氏は、「FRBのFIMAレポへのアクセスを強調することで、日本は国債を売らずにドルの流動性を調達できることが市場に伝わり、財務省の介入がUSTのショートエンド売却を通じて米国の資金調達市場を圧迫する可能性があるという懸念に対処する」と述べた。 「これは、シグナリング効果を最大化し、すでに利用可能なツールを使って最大限の利益を得ようとする試みです。」
+米国10年国債利回りは年初からほぼ57ポイント上昇した。
+日米関係の「新たな段階」
+ドナルド・トランプ大統領は、米国は日本への支持の表明として、また世界経済の安定のために、円を支援する先週の協調介入に参加したと述べた。
+この介入は米債券市場の保護を超えて、ワシントンのより広範な経済的および地政学的な優先事項も反映していた。
+オックスフォード・エコノミクスのルー氏は、米国は円が「実質的に過小評価されている」と繰り返し主張しており、円が日本の輸出の競争力を高める不公平な貿易上の利点とみなすものを是正する動機となっていると指摘した。
+同氏は、日本の財政政策が国債利回り上昇と通貨安に影響していると米政府が考えているのであれば、協調介入によって日銀が年内に利上げを再開できる状態になるまでの時間を稼ぐ可能性があるとも付け加えた。円高には最終的には介入を繰り返すのではなく、日本の金融政策の引き締めが必要だとエコノミストは指摘した。
+マネックス証券の専門ディレクター、ジェスパー・コール氏は、この作戦はドナルド・トランプ米大統領と高市早苗首相の下での日米関係の広範な変化を反映していると述べた。
+同氏は「日米の協力とパートナーシップは新たな段階に入った」と述べ、協調介入は「日本が支援を求めれば米国は日本の呼びかけに応じる」ことを示したと付け加えた。同氏はまた、「中国指導部は言葉ではなく行動を重視している」として、この措置は中国政府に地政学的なメッセージを送るものだと主張した。
+みずほ証券の日本を除くアジアのマクロ調査責任者、ヴィシュヌ・バラサン氏は、米国の参加により協調介入は本質的により強力になると述べた。
+同氏は、「為替介入の有効性が不釣り合いに高まっている」のは米財務省と連邦準備制度理事会の関与によるものであり、当局が必要に応じて再び行動する用意があると市場が信じる大きな理由となっていると述べた。両国政府が再び介入することに「ためらわない」と警告するとともに、円を圧迫する投機的賭けに対する「抑止力を高める」ことになる。
+同氏はまた、米国の参加により、日本の介入が米国債の売却を強制することで国債利回りを押し上げる可能性があるという懸念が緩和され、同時に日本の債券市場の安定化にもつながると主張した。
+それでもアナリストらは、日本が円安を促進する構造的要因に対処しない限り、協調行動はこれまでの介入よりも持続性がなくなる可能性があると警告した。
+「逆効果」な動き？
+協調介入は伝統的にドル資産で賄われてきたため、米国が円を買うためにドルではなくユーロを売ったとの報道は市場を驚かせた。
+ブルッキングス研究所の上級研究員ロビン・ブルックス氏は、米国の作戦の仕組みに疑問を呈し、「市場を混乱させており、逆効果になるだろう」と強調した。
+「表面的には、今回の介入は過去の取り組みよりも影響力が大きいという印象を与えるかもしれないが、米国の参加は答えよりも多くの疑問を引き起こし、特に米国が円を買うためにユーロを売ったという非常に奇妙なニュースだ。」
+「私の意見では、この種のねじれは米国の参加の有効性を損なうものである。なぜなら米国はなぜドルから円を買うだけの資金を提供しなかったのかという疑問が市場に必ず出てくるからである。」
+ブルックス氏は、介入は最終的には日本の債券市場による下落を逆転させることはできないと主張した。
+同氏は「日本の国債利回りが人為的に制限されている限り、円は過大評価されており、下落する必要がある」と述べた。日銀は2024年3月に正式なイールドカーブ・コントロールを終了したが、引き続き大量の国債を買い入れている。ブルックス氏は、これらの買い入れにより、借入コストが自由市場で決済される場合よりも低く抑えられ続けていると主張した。
+ステート・ストリートのルー氏も同様に、介入は時間を稼ぐことはできるが、長期的な軌道を変えることはできないと強調した。 「介入は今後数カ月を形作る可能性がある。日銀の正常化とヘッジフローが今後数年間を形作ることになるだろう。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/japan-yen-intervention-us-treasurys-euros-.html",
+    publishedAt: "2026-08-03T07:28:46+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "winter-is-coming-ukraine-fears-its-toug-0ced7ec3",
+    title: "'Winter is coming': Ukraine fears its toughest test since Russia's full-scale invasion",
+    titleJa: "「冬が近づいている」：ウクライナはロシアの全面侵攻以来最も厳しい試練を恐れている",
+    summaryJa: "ウクライナ当局者、ドローン幹部、国家安全保障の専門家らは、エネルギーインフラに対するロシアの攻撃が戦争史上最も厳しい課題となる可能性を懸念し、再び極めて厳しい冬に備えている。ウクライナのウォロディミル・ゼレンスキー大統領は4月の初めから、国内のエネルギーとインフラ施設が完全に稼働し、次の暖房シーズンに向けて確実に保護されることを確保することの重要性を強調してきた。",
+    bodyOriginal: `Ukrainian officials, drone executives and national security experts are bracing for another extremely difficult winter, fearing that a Russian assault on energy infrastructure could pose the toughest challenge of the war yet.
+From as early as April, Ukrainian President Volodymyr Zelenskyy has emphasized the importance of ensuring that the country's energy and infrastructure facilities are fully operational and reliably protected for the next heating season.
+Just last month, in the peak of the Ukrainian summer, Zelenskyy confirmed Sergii Koretskyi as Ukraine's new prime minister and said the former CEO of state-owned gas company Naftogaz would help to protect lives "and ensure that we make it through the winter."
+His comments come as Ukraine's enhanced drone capabilities have sought to raise the cost of the war for Russia and test President Vladimir Putin's resolve after four-and-a-half years of conflict.
+Russian forces have increased the number of missile strikes on Ukrainian cities in recent weeks, likely as part of a push to exploit Kyiv's shortage of ballistic missile interceptors.
+Iryna Terekh, CEO of Ukrainian drone maker Fire Point, said Kyiv needs to be realistic about the threat it faces over the coming months, particularly given the country's acute shortage of air defense systems.
+"Winter is coming, obviously, and the last winter was very hard for Ukraine and for big cities in general. This one would be no easier — and probably even harder," Terekh told CNBC in a video call.
+Ukraine remains heavily reliant on the American Patriot PAC-3 system to intercept Russian ballistic missiles, even as domestic companies such as Fire Point scramble to procure their own antimissile technology.
+"We are trying to squeeze in the program that usually takes 20 to 30 years to develop in a few years, and this is not something that you can do within a matter of three months before the winter," Terekh said.
+U.S. President Donald Trump, who has recently appeared more willing to support Ukraine, cast fresh doubt on whether Washington would agree to support one of Kyiv's most pressing demands. In a telephone interview with the Financial Times, Trump said on July 30 that he had not yet decided whether to allow Ukraine to produce Patriot surface-to-air interceptor missiles.
+Putin will fight as long as he can without risking the Russian state, but his ability to keep doing this is becoming limited.Kurt VolkerFormer U.S. Ambassador to NATO
+Ukraine's Zelenskyy, citing Russia's alleged use of a North Korean missile in a deadly strike on the village of Radushne, said air defense missiles, including Patriots, remain a key priority.
+"I hope that all of our partners – above all our American partners, as well as our friends in Europe – will feel that real human lives depend on whether they help us," Zelenskyy said in a social media post on July 30.
+Government reshuffle
+Ahead of the next winter period, Ukraine is strengthening the defense of its energy infrastructure and building up reserves to ensure sufficient supplies of heat and electricity.
+It is also seeking to secure additional funding from its European partners, notably from the European Union's 90 billion euro ($103.7 billion) financial support package, and trying to establish a winter aid package.
+Serhii Kuzan, chairman of the Kyiv-based Ukrainian Security and Cooperation Center think tank, said some of the personnel changes in Zelenskyy's latest government reshuffle appeared to be linked to the need to prepare for a harsh winter.
+"In effect, the government has been reformed and revitalised to reset institutional processes and improve coordination between different departments," Kuzan told CNBC by email.
+"Indeed, as President Zelenskyy argued, the main task of the revamped Cabinet is to ensure that the energy and security infrastructure is fully prepared for the cold weather," he added.
+Not everyone is convinced Zelenskyy's fourth government reshuffle since Russia's full-scale invasion was linked to winter preparations, although Kuzan pointed out that Ukraine's president had stressed from as early as May that personnel changes would be necessary unless planning measures were stepped up and carried out more swiftly.
+'Putin is on a long-term path to defeat'
+There is little doubt that Putin will once again try to exploit winter in an attempt to finally break Ukraine by knocking out the country's electricity and heating capacity, according to Kurt Volker, former U.S. Ambassador to NATO.
+That being said, Volker, who serves as an advisory council member of DTEK, Ukraine's largest private energy company, said Kyiv is in a better position to handle Russian ballistic missile attacks than it was last winter.
+"Putin is on a long-term path to defeat. He cannot keep up with the battlefield losses. Ukraine is knocking out oil refining and export capacity, which is drying up the Kremlin's budget," Volker told CNBC by email.
+"Putin will fight as long as he can without risking the Russian state, but his ability to keep doing this is becoming limited. I think he will continue through the winter — believing this can advantage Russia — but by the Spring, I think Putin will begin to face hard limits on his war of aggression and will need to accede to a ceasefire," he added.
+Analysts have cited Ukraine's recent push to target key logistics hubs, such as Amazon-style retail giant Wildberries, as a strategy designed to raise the cost of the war for Russian businesses in the hope that Putin will be forced to the negotiating table.
+Fire Point's CEO said it remains clear that Ukraine still depends on the support of its Western allies to withstand another anticipated winter assault on its energy infrastructure.
+"We see that the world likes to help the winners and not out of the feeling of pity, because the feeling of pity lasts for a very short time and then somebody has to understand if the bet is worth it," Terekh said.
+"No matter how cynical this may sound, but this is what I see as a Ukrainian. We definitely are not the victim any more in a psychological way but still we need support and we cannot fight by ourselves," she added.`,
+    bodyJa: `ウクライナ当局者、ドローン幹部、国家安全保障の専門家らは、エネルギーインフラに対するロシアの攻撃が戦争史上最も厳しい課題となる可能性を懸念し、再び極めて厳しい冬に備えている。
+ウクライナのウォロディミル・ゼレンスキー大統領は4月の初めから、国内のエネルギーとインフラ施設が完全に稼働し、次の暖房シーズンに向けて確実に保護されることを確保することの重要性を強調してきた。
+ウクライナの夏の盛りがちょうど先月、ゼレンシキー大統領はセルギイ・コレツキー氏をウクライナの新首相として承認し、国有ガス会社ナフトガスの元最高経営責任者（CEO）が「命を守り、確実に冬を乗り越えられるよう」支援してくれると述べた。
+同氏のコメントは、ウクライナの無人機能力の強化がロシアの戦費を引き上げ、4年半にわたる紛争を経たウラジーミル・プーチン大統領の決意を試そうとしている中で出たものである。
+ロシア軍はここ数週間、ウクライナの都市へのミサイル攻撃の回数を増やしており、これはおそらくキエフの弾道ミサイル迎撃ミサイル不足を利用する取り組みの一環と思われる。
+ウクライナの無人機メーカー、ファイアー・ポイントのイリーナ・テレク最高経営責任者（CEO）は、特に同国の防空システムの深刻な不足を考慮すると、キエフは今後数カ月間に直面する脅威について現実的になる必要があると述べた。
+「冬が近づいているのは明らかだが、昨年の冬はウクライナにとって、そして大都市全般にとって非常に厳しいものだった。今年は決して簡単ではなく、おそらくさらに厳しいだろう」とテレフ氏はビデオ通話でCNBCに語った。
+ファイア・ポイントなどの国内企業が独自のミサイル迎撃技術の調達に躍起になっているにもかかわらず、ウクライナはロシアの弾道ミサイル迎撃に依然として米国のパトリオットPAC-3システムに大きく依存している。
+「通常開発に20～30年かかるプログラムを数年で圧縮しようとしているが、これは冬前のわずか3カ月でできるものではない」とテレク氏は語った。
+最近、ウクライナ支持に前向きな姿勢を見せているドナルド・トランプ米大統領は、キエフの最も差し迫った要求の一つを支持することに米政府が同意するかどうかについて新たな疑問を投げかけた。トランプ大統領は7月30日、フィナンシャル・タイムズ紙との電話インタビューで、ウクライナに地対空迎撃ミサイル「パトリオット」の製造を許可するかどうかはまだ決定していないと述べた。
+プーチン大統領はロシア国家を危険にさらすことなく、できる限り長く戦うつもりだが、これを続ける彼の能力には限界が生じつつある。カート・フォルカー元駐NATO米国大使
+ウクライナのゼレンシキー大統領は、ロシアがラドゥシネ村への致命的な攻撃で北朝鮮のミサイルを使用した疑いを引用し、パトリオットを含む防空ミサイルが依然として重要な優先事項であると述べた。
+ゼレンスキー大統領は7月30日、ソーシャルメディアへの投稿で、「我々のパートナー全員、とりわけ米国のパートナー、そしてヨーロッパの友人たちに、本当の人間の命は自分たちを助けてくれるかどうかにかかっていると感じてほしい」と述べた。
+政権交代
+次の冬季に向けて、ウクライナはエネルギーインフラの防御を強化し、熱と電力の十分な供給を確保するための備蓄を積み上げている。
+また、特に欧州連合（EU）の900億ユーロ（1037億ドル）の金融支援策など、欧州のパートナー国からの追加資金の確保を目指しており、冬季支援策の確立にも努めている。
+キエフに本拠を置くシンクタンク、ウクライナ安全保障協力センターのセルヒー・クザン会長は、ゼレンシキー大統領の最新の政権改造における人事異動の一部は厳しい冬に備える必要性に関連しているようだと述べた。
+クザン氏は電子メールでＣＮＢＣに対し、「事実上、政府は制度的プロセスをリセットし、異なる部門間の連携を改善するために改革され、活性化された」と語った。
+「確かに、ゼレンスキー大統領が主張したように、刷新された内閣の主な任務は、エネルギーと安全保障のインフラが寒冷気候に完全に備えられるようにすることだ」と付け加えた。
+ロシアの本格的侵攻以来、ゼレンシキー大統領の４度目の政権交代が冬季準備と関連していると誰もが確信しているわけではないが、クザン氏は、ウクライナ大統領が５月の初めから計画措置を強化し、より迅速に実行しない限り人事異動が必要になると強調していたと指摘した。
+「プーチン大統領は長期的な敗北への道を進んでいる」
+元駐NATO米国大使のクルト・フォルカー氏によると、プーチン大統領が再び冬を利用して、最終的にウクライナの電力と暖房能力を停止することでウクライナを打破しようとすることにほとんど疑いはない。
+そうは言っても、ウクライナ最大の民間エネルギー会社DTEKの諮問委員を務めるフォルカー氏は、キエフは昨冬よりもロシアの弾道ミサイル攻撃に対処する上で有利な立場にあると述べた。
+「プーチン大統領は長期的な敗北への道を進んでいる。戦場での損失を補うことができない。ウクライナは石油精製と輸出能力を破壊しており、それがクレムリンの予算を枯渇させている」とボルカー氏は電子メールでＣＮＢＣに語った。
+「プーチン大統領はロシア国家を危険にさらすことなく可能な限り戦うつもりだが、これを継続する彼の能力は限界になりつつある。私は彼が冬の間は戦い続けるだろう――これがロシアに有利になると信じている――だが、春までにプーチン大統領は侵略戦争に対する厳しい制限に直面し始め、停戦に同意する必要があるだろう」と付け加えた。
+アナリストらは、ウクライナが最近アマゾン型小売り大手ワイルドベリーなどの主要物流拠点を標的にしようとしているのは、プーチン大統領が交渉のテーブルに着くことを期待して、ロシア企業の戦費を捻出するための戦略だと指摘している。
+ファイア・ポイントの最高経営責任者（CEO）は、ウクライナが再び予想される冬のエネルギーインフラへの攻撃に耐えるために、依然として西側同盟国の支援に依存していることは明らかだと述べた。
+「世界が勝者を助けたいと思っているのは同情の感情からではないことがわかります。同情の感情は非常に短期間しか続かず、その賭けに価値があるかどうか誰かが理解する必要があるからです」とテレク氏は語った。
+「どんなに皮肉に聞こえるかもしれないが、これがウクライナ人としての私の見方だ。私たちは精神的な意味でもう被害者ではないのは間違いないが、それでも支援が必要であり、私たちだけで戦うことはできない」と彼女は付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/03/ukraine-russia-war-putin-zelenskyy-winter.html",
+    publishedAt: "2026-08-03T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
     id: "us-and-japan-jointly-intervene-to-prop-u-442d6699",
     title: "US and Japan jointly intervene to prop up yen in rare move",
     titleJa: "日米共同で円を下支えする異例の介入",
@@ -423,6 +641,46 @@ Last winter was mild and wet, encouraging vegetation growth, which has then drie
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e7/live/7df3ff90-8e95-11f1-ac80-77f267fd04da.png",
     readTime: 3,
+  },
+  {
+    id: "gop-sen-moreno-says-ex-son-in-law-max-mi-8efb6acd",
+    title: "GOP Sen. Moreno says ex-son-in-law Max Miller shouldn't serve in House, needs 'serious psychological help'",
+    titleJa: "共和党モレノ上院議員、元義理の息子マックス・ミラー氏は下院議員になるべきではなく、「深刻な心理的援助」が必要だと語る",
+    summaryJa: "オハイオ州の共和党バーニー・モレノ上院議員は、上院議員の娘が同議員を家庭内暴力で告発したことを受け、元義理の息子マックス・ミラー下院議員は下院議員を務めるべきではなく、「深刻な心理的援助が必要」だと述べた。2024年上院議員に選出されたモレノ氏は、日曜日にXに投稿した声明で、「公職に就くために必要な基本的な人格基準があるとすれば、マックス・ミラー氏はそれを満たしていない。彼は下院議員を務めるべきではない」と述べた。 「マックス・ミラー氏は、後に残した明らかな虐待パターンを終わらせるために専門家の助けを求める必要があると思います。」",
+    bodyOriginal: `Republican Sen. Bernie Moreno of Ohio said his former son-in-law, Rep. Max Miller, should not serve in the House of Representatives and "needs serious psychological help" after the senator's daughter accused the congressman of domestic abuse.
+"If there are any basic standards of character required to hold elected office, Max Miller fails them. He should not serve in the House of Representatives," Moreno, who was elected to the Senate in 2024, said in a statement posted to X on Sunday. "I believe Max Miller needs to seek professional help to end the clear pattern of abuse he has left in his wake."
+Moreno's statement comes as Miller, R-Ohio, who denies the allegations against him, runs for reelection in a solidly red district. In a video statement Sunday, Miller said he will not back out of his reelection bid as the allegations threaten to engulf his campaign and cost the GOP a seat.
+Emily Moreno has accused Miller, her ex-husband, of assault during their marriage. She has claimed he threw hot water on her, held a gun to her head and broke their daughter's collarbone. Miller has said the claims are not true and has accused his ex-wife of having mental health challenges.
+"Every one of these allegations traces back to a single source, my former wife," Miller said in the statement, where he countered her claims. "Not one of these allegations has ever been substantiated by any court or any agency."
+Miller also released a set of files that he said would exonerate him.
+Emily Moreno's spokesperson, Stefan Mychajliw, said in a statement following the video, that it is "shameful that Max Miller decided to go on a bizarre and lie-filled rant about his ex-wife to desperately try to save his political career."
+"There is a documented trove of evidence that Miller has a history of violent and dangerous behavior and no amount of victim shaming will change that," Mychajliw said. "Miller can lie and spin on X, but he cannot do so under oath in a court of law. We are confident that justice will prevail in court."
+Miller's election in Ohio is critical for the 2026 midterms, which will determine the balance of power in the House and Senate for the remainder of President Donald Trump's term. Democrats are favored in the contest, holding a 6.4% point advantage in the RealClearPolitics generic ballot average. And while Miller's seat was not seen as a likely flip for Democrats, a cascading scandal could put the seat in play.
+Brian Poindexter, the Democratic challenger in the district, said Sunday that no one "credibly accused of holding a gun to his wife's head and breaking their two-year-old daughter's collarbone belongs in the halls of power."
+Sen. Moreno's statement on Sunday was one of the first he's made since the new details about the allegations against Miller were blown into public view. Republicans face a pressing Aug. 5 deadline, the last day that Miller can withdraw in time for a replacement to be named.
+"As he has admitted privately, Max Miller needs serious psychological help," the senator said. "He is a danger to my daughter, and I hold my breath every minute he has custody of my granddaughter."
+Miller, in his video statement, made clear he has no intention of withdrawing.
+"I'm not getting out of this race, and I'm winning in November," Miller said.`,
+    bodyJa: `オハイオ州の共和党バーニー・モレノ上院議員は、上院議員の娘が同議員を家庭内暴力で告発したことを受け、元義理の息子マックス・ミラー下院議員は下院議員を務めるべきではなく、「深刻な心理的援助が必要」だと述べた。
+2024年上院議員に選出されたモレノ氏は、日曜日にXに投稿した声明で、「公職に就くために必要な基本的な人格基準があるとすれば、マックス・ミラー氏はそれを満たしていない。彼は下院議員を務めるべきではない」と述べた。 「マックス・ミラー氏は、後に残した明らかな虐待パターンを終わらせるために専門家の助けを求める必要があると思います。」
+モレノ氏の声明は、彼に対する疑惑を否認しているオハイオ州共和党ミラー氏が赤選挙区で再選を目指して立候補している中で行われた。ミラー氏は日曜のビデオ声明で、疑惑が自身の選挙運動を巻き込み、共和党の議席を失う恐れがあるため、再選への挑戦を撤回するつもりはないと述べた。
+エミリー・モレノは、元夫のミラーを結婚生活中の暴行で告発した。彼女は、男が彼女に熱湯をかけ、頭に銃を突きつけ、鎖骨を折ったと主張した。ミラーさんはその主張は真実ではないとし、元妻が精神的健康上の問題を抱えていると非難した。
+ミラー氏は声明で「これらの申し立てはいずれも、私の元妻という単一の情報筋に遡る」と述べ、彼女の主張に反論した。 「これらの主張はいずれも、裁判所や機関によって実証されたことはありません。」
+ミラー氏はまた、自身の無罪を証明する一連のファイルも公開した。
+エミリー・モレノ氏の広報担当ステファン・ミシャジリュー氏はビデオ後の声明で、「マックス・ミラー氏が政治家としてのキャリアを必死に守ろうと元妻について奇妙で嘘に満ちた暴言を吐くことを決めたのは恥ずべきことだ」と述べた。
+「ミラー氏に暴力的で危険な行為の経歴があることを示す文書化された証拠の山があり、被害者をいくら恥じてもそれは変わらない」とミシャジリュー氏は述べた。 「ミラー氏はXについて嘘をついたり、でっち上げたりすることはできるが、法廷での宣誓の下ではそうすることはできない。法廷では正義が勝つと我々は確信している。」
+オハイオ州でのミラー氏の選挙は、ドナルド・トランプ大統領の残りの任期の下院と上院の勢力均衡を決定する2026年の中間選挙にとって極めて重要である。この選挙では民主党が有利であり、RealClearPolitics の一般投票平均では 6.4% ポイントの優位性を保っています。また、ミラー氏の議席は民​​主党にとっては有力視されていなかったが、連鎖的なスキャンダルによって議席が危うくなる可能性もある。
+同選挙区の民主党の挑戦者ブライアン・ポインデクスター氏は日曜日、「権力の殿堂には妻の頭に銃を突きつけ、２歳の娘の鎖骨を折ったとして信頼できる告発者はいない」と述べた。
+モレノ上院議員の日曜日の声明は、ミラー氏に対する疑惑に関する新たな詳細が公の場にさらされて以来、同氏が行った最初の声明の一つとなった。共和党は、後任指名に間に合うようにミラー氏が辞任できる最後の日である8月5日という差し迫った期限に直面している。
+「彼が個人的に認めているように、マックス・ミラーは深刻な心理的援助を必要としている」と上院議員は述べた。 「彼は私の娘にとって危険であり、彼が孫娘の親権を握るたびに息をひそめています。」
+ミラー氏はビデオ声明の中で、撤退するつもりはないことを明らかにした。
+「私はこのレースから抜け出すつもりはない。11月には勝つつもりだ」とミラーは語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/02/bernie-moreno-max-miller-house-psychological-help-emily-moreno.html",
+    publishedAt: "2026-08-02T19:13:47+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
   },
   {
     id: "spider-man-brand-new-day-chases-avenger-ccda114c",
@@ -2127,344 +2385,6 @@ Kairos を使用すると、トレーダーはさまざまな取引所にわた�
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 9,
-  },
-  {
-    id: "disappointed-by-your-skimpy-pay-raise-bl-641643c1",
-    title: "Disappointed by your skimpy pay raise? Blame your healthcare benefits.",
-    titleJa: "あなたのわずかな昇給に失望しましたか？医療給付のせいにする。",
-    summaryJa: "企業の医療費がこれほど急速に上昇してから20年が経ちました。",
-    bodyOriginal: `It’s been two decades since companies’ health-benefit costs have climbed this fast.`,
-    bodyJa: `企業の医療費がこれほど急速に上昇してから20年が経ちました。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/disappointed-by-your-skimpy-pay-raise-blame-your-healthcare-benefits-8025491b?mod=mw_rss_topstories",
-    publishedAt: "2026-08-01T13:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-76272389",
-    readTime: 2,
-  },
-  {
-    id: "here-s-what-s-worth-streaming-in-august-cb4531d2",
-    title: "Here’s what’s worth streaming in August 2026 on Netflix, Hulu, HBO Max and more",
-    titleJa: "2026 年 8 月に Netflix、Hulu、HBO Max などでストリーミングされる価値のあるものは次のとおりです",
-    summaryJa: "頭をオフにして、Apple の「テッド ラッソ」、Amazon の「Reacher」、Netflix の「アウター バンクス」などの新シーズンをお楽しみください",
-    bodyOriginal: `Turn off your brain and enjoy new seasons of Apple’s ‘Ted Lasso,’ Amazon’s ‘Reacher,’ Netflix’s ‘Outer Banks’ and much more`,
-    bodyJa: `頭をオフにして、Apple の「テッド ラッソ」、Amazon の「Reacher」、Netflix の「アウター バンクス」などの新シーズンをお楽しみください`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-august-2026-on-netflix-hulu-hbo-max-and-more-21b78a08?mod=mw_rss_topstories",
-    publishedAt: "2026-08-01T13:01:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-83880291",
-    readTime: 2,
-  },
-  {
-    id: "faisal-islam-four-reasons-why-fifa-s-wor-e0f5bbc3",
-    title: "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-    titleJa: "ファイサル・イスラム氏：FIFAワールドカップ計画が実現しなかった4つの理由",
-    summaryJa: "ファイサル・イスラム氏：FIFAワールドカップ計画が実現しなかった4つの理由- 公開されました",
-    bodyOriginal: `Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up
-- Published
-Documents that set out Fifa's plan to part-privatise the World Cup and seen by the BBC show why the deal may have fallen apart.
-The sales pitch was circulated to Fifa members this week, setting out the case for Gianni Infantino's controversial plan featuring pictures of the Spain team lifting the trophy and Argentina's fans.
-The 25-page deck of slides painted a picture of American football-level revenue expectations, which pointed to a potential continuation and extension of the controversial 2026 US-influenced World Cup model.
-It suggested there was the potential for $1,000+ tickets, dynamic pricing, and pressure to put broadcasting of the world's biggest sports tournament behind a paywall.
-The documents make it clear that the plan and Fifa's arguments never really stacked up. Here are four reasons why.
-1. The claim that football is 'under-monetised'
-In the slides, Fifa's central argument was that football does not raise enough cash in relation to its fan base, that "Fifa has been under-monetised versus other leagues" and so "global football development gets squeezed".
-It did this with reference to a comparative chart showing annual revenue as well as revenue per fan for Fifa, the Uefa Champions League, Premier League, US baseball and NFL American football.
-On the face of it, Fifa is the poorer cousin at just $1 per global fan, compared to NFL's $52.8. But this measure is rather suspect.
-The World Cup is not an annual competition; it happens once every four years. If instead this was done on revenue per World Cup 2026 match, Fifa makes multiples of the Premier League, perhaps more than three times as much.
-As important, football is decentralised globally, so more of the revenues go to individual leagues, such as the Premier League or Champions League. Fifa was effectively arguing it wanted to keep more of that overall football pie.
-Football's fans are also spread across the globe, in rich and poor countries alike. NFL has a much smaller base concentrated in the US and is pretty much the whole of American Football.
-Finally, about half of NFL's revenues are paid out as wages. Fifa does not pay Erling Haaland or Lionel Messi or Vozinha. Profits would have yielded a rather different result than the chart’s focus on revenues.
-2. Extraordinary ticket prices
-According to the document, the new partly privatised entity, called Fifa Forward Enterprise (FFE), would have become the "organiser and operator of competitions" - i.e. the World Cup - and would be responsible for ticketing, broadcast, licensing and sponsorship.
-That would have been a clear transfer of the organising power from a non-profit answerable to all of world football to a privately-backed company, albeit one with majority of Fifa board members.
-The slides said that the FFE structure would "expand and optimise media rights monetisation" and "maximise the value of Fifa IP [Intellectual Property], which has been undermonetised, historically". This would have been a transfer of responsibility and accountability from Fifa itself.
-As Fifa highlighted the revenue per fan of the NFL in the document, it raised questions about a future of free-to-air World Cup games.
-This is protected by legislation in the UK and Europe, but digital rights will alter considerably in the coming years. It could also clearly have underpinned the continuation of the extraordinary ticket prices charged in 2026.
-Infantino on the brink? Who might replace him if he goes?
-- Published3 hours ago
-Fifa executive joins Burnham in questioning Infantino
-- Published15 hours ago
-Fifa says 'nobody selling football' as plan continues
-- Published1 day ago
-3. No stated fee for the 'annual licence payment'
-Why was Fifa trying to sell a $4.2bn stake?
-Fifa had already said that it would give FFE a 20% stake in the organisation, which would raise an initial $4.2bn.
-The document made it clear that initial cash injection would fund the $20m "extraordinary distribution" to each of the 211 member associations.
-That explained the $4.2bn funding requirement. Essentially the funding would have been used to provide a $20m one-off payment for infrastructure to every voting association that would have made the decision on Infantino's plan.
-It would have meant, for example, giving Montserrat a sum worth just under half its entire economy or $10,000 per person, and the same for, say, Bangladesh, a massive highly-populated growth market for global football development.
-Where would the extra money for investment in Fifa's future been, given the new investment would have been immediately distributed to voting members? How much would actually have been paid back to Fifa as an "annual license payment" referred to in a flow diagram in the charts, but not quantified? Would that have been fixed or proportionate to revenues?
-Did FFE have a mission to maximise revenues at all costs to provide returns for the investors?
-None of these crucial questions were answered by the document.
-4. The Kushner connection
-The private timetable shared in the document said that investors would be given access to the materials starting this month. Terms would have been confirmed by September, and bids and transfer of funds by the end of October. This showed how advanced the plans were, and the speed with which members were being asked to decide.
-The lead investors were publicly been named as Thrive Eternal, run by Joshua Kushner, the brother of President Trump's son-in law, Jared.
-Thrive was almost entirely concerned with AI investments, with OpenAI taking a stake in one of its arms.
-Thrive only began its sports investment arm in April, with an investment in the San Francisco Giants baseball team, which was the pioneer in sport-based dynamic pricing of tickets.
-Kushner said that the fund would focus on certain live sports as "these are assets with qualities that cannot be replicated by technology".
-This is an investment thesis that the value of certain forms of entertainment which can not be replaced by AI (unlike music or some films) will increase in the coming years.
-So in the end, we were left with an opaque structure designed to continue the 2026 experiment with high ticket prices, commercialisation which would put pressure on broadcast costs, and inevitably lead to more matches, and more frequent tournaments. A proposal that fell apart in a matter of days.
-- Published3 hours ago
-- Published12 June`,
-    bodyJa: `ファイサル・イスラム氏：FIFAワールドカップ計画が実現しなかった4つの理由
-- 公開されました
-BBCが入手したワールドカップの一部民営化というFIFAの計画を記した文書は、合意が破綻した理由を示している。
-このセールストークは今週、FIFA会員に回覧され、トロフィーを掲げるスペインチームとアルゼンチンのファンの写真を特集したジャンニ・インファンティーノの物議を醸す計画の正当性を明らかにした。
-25ページのスライドはアメリカンフットボールレベルの収益予想を描いており、物議を醸している2026年米国影響ワールドカップモデルの継続と延長の可能性を指摘していた。
-それは、1,000ドル以上のチケット、ダイナミックプライシング、そして世界最大のスポーツトーナメントの放送を有料の壁の中に置く圧力の可能性があることを示唆しました。
-この文書は、この計画とFIFAの主張が実際には決して矛盾していなかったことを明らかにしている。その理由を 4 つ挙げます。
-1. サッカーは「収益化が不十分」であるという主張
-スライドの中で、FIFAの中心的な主張は、サッカーはファンベースに比べて十分な資金を集めていないこと、「FIFAは他のリーグと比べて収益化が不十分」であり、そのため「世界的なサッカーの発展が圧迫されている」というものだった。
-これは、FIFA、UEFAチャンピオンズリーグ、プレミアリーグ、米国野球、NFLアメリカンフットボールの年間収益とファン1人当たりの収益を示す比較表を参照して行われた。
-一見すると、NFL の 52.8 ドルに比べ、FIFA は世界のファン 1 人あたりわずか 1 ドルで、最も貧しいと言えます。しかし、この措置はかなり疑わしい。
-ワールドカップは毎年開催される大会ではありません。それは4年に1度起こります。代わりに、これが 2026 年ワールドカップの試合ごとの収益に基づいて行われた場合、FIFA はプレミア リーグの何倍か、おそらく 3 倍以上の収益を上げます。
-重要なこととして、サッカーは世界的に分散化されているため、収益の多くはプレミア リーグやチャンピオンズ リーグなどの個々のリーグに送られます。 FIFAは事実上、サッカー全体のパイをもっと維持したいと主張していた。
-サッカーのファンは、裕福な国も貧しい国も同様に世界中に広がっています。 NFL の拠点は米国に集中しており、アメリカン フットボールのほぼ全体です。
-最後に、NFL の収益の約半分は賃金として支払われます。 FIFAはアーリング・ハーランドにもリオネル・メッシにもボジーニャにも給料を支払っていない。利益は、グラフの収益に焦点を当てたものとはかなり異なる結果をもたらしたでしょう。
-2. 破格のチケット価格
-この文書によると、FIFAフォワードエンタープライズ（FFE）と呼ばれる部分的に民営化された新しい組織は、ワールドカップなどの「大会の主催者および運営者」となり、チケット販売、放送、ライセンス供与、スポンサーシップを担当することになるという。
-それは、世界のサッカー界全体に責任を負う非営利団体から、たとえFIFA理事会メンバーの過半数を擁する民間企業に組織権力を移管することになるはずだった。
-スライドでは、FFEの構造は「メディア権利の収益化を拡大および最適化」し、「歴史的に収益化が不十分であったFIFA IP（知的財産）の価値を最大化する」と述べている。これはFIFA自体からの責任と責任の移譲だったろう。
-FIFAが文書の中でNFLのファン1人当たりの収益を強調したことで、ワールドカップの試合の無料放送の将来について疑問が生じた。
-これは英国とヨーロッパの法律によって保護されていますが、デジタル著作権は今後数年間で大幅に変化するでしょう。また、それは明らかに、2026年に課せられる異常なチケット価格の継続を裏付けていた可能性がある。
-インファンティーノは瀬戸際？彼が去った場合、誰が彼の代わりをするでしょうか？
-- 3 時間前に公開
-FIFA幹部もバーナムとともにインファンティーノ氏への尋問に参加
-- 15 時間前に公開
-FIFA、計画継続中「誰もサッカーを売らない」と発言
-- 1 日前に公開
-3. 「年間ライセンス支払い」の料金は明記されていません
-なぜFIFAは42億ドルの株式を売ろうとしたのでしょうか？
-FIFAはすでにFFEに組織の20％の株式を付与し、当初42億ドルを調達すると発表していた。
-この文書は、最初の現金注入が211の各加盟協会への2,000万ドルの「特別分配」の資金となることを明らかにした。
-これで 42 億ドルの資金要件が説明されました。本来、この資金は、インファンティーノの計画を決定するすべての投票団体にインフラ整備のための2,000万ドルの一時金を提供するために使用されるはずだった。
-それは、例えば、モントセラトに全経済の半分弱、または一人当たり1万ドルに相当する金額を与えることを意味し、また、例えば、世界的なサッカーの発展のための巨大な人口密度の高い成長市場であるバングラデシュにも同じことを意味するだろう。
-新たな投資が投票権を持つメンバーに即座に分配されることを考えると、FIFAの将来への追加投資資金はどこにあったのだろうか？図のフロー図で言及されているが、定量化されていない「年間ライセンス支払い」として、実際にはいくらが FIFA に返還されることになるでしょうか?それは固定だったのでしょうか、それとも収益に比例したのでしょうか?
-FFE には、投資家に利益を提供するために、どんな犠牲を払ってでも収益を最大化するという使命がありましたか?
-この文書では、これらの重要な質問のいずれにも回答がありませんでした。
-4. クシュナーとの関係
-文書で共有された非公開スケジュールには、投資家が今月から資料にアクセスできるようになることが記載されていた。条件は9月までに確認され、入札と資金の送金は10月末までに完了する予定だった。これは、計画がどれほど進んでいたか、そしてメンバーが決定を求められているスピードを示していました。
-主要投資家らは、トランプ大統領の義理の息子ジャレッド氏の弟、ジョシュア・クシュナー氏が経営するスライブ・エターナル社として公表された。
-Thrive はほぼ完全に AI 投資に関与しており、OpenAI はその部門の 1 つに出資していました。
-スライヴはスポーツ投資部門を4月に開始したばかりで、スポーツに基づいたチケットのダイナミックプライシングの先駆者である野球チームのサンフランシスコ・ジャイアンツに投資した。
-クシュナー氏は、「これらはテクノロジーでは再現できない性質を持つ資産」であるため、この基金は特定のライブスポーツに焦点を当てると述べた。
-これは、（音楽や一部の映画とは異なり）AI に代替できない特定の形式のエンターテイメントの価値が今後数年間で増加するだろうという投資理論です。
-そのため最終的には、高額なチケット価格、放送コストを圧迫する商業化、そして必然的に試合数とトーナメントの頻度が増加するという、2026年の実験を継続するように設計された不透明な構造が残されました。数日で決裂した提案。
-- 3 時間前に公開
-- 6 月 12 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-01T12:41:17+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f87/live/51e22a90-8d2c-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 8,
-  },
-  {
-    id: "as-americans-go-direct-with-glp-1-prescr-dc431ac7",
-    title: "As Americans go direct with GLP-1 prescriptions, Walmart, Costco, Amazon will be big weight-loss winners",
-    titleJa: "アメリカ人がGLP-1の処方を直接行うようになると、ウォルマート、コストコ、アマゾンが減量の大きな勝者となるだろう",
-    summaryJa: "ウエストラインを減らすためにGLP-1減量薬を使用するアメリカ人が増える中、小売大手は薬の価格設定や購入方法の変化に伴う収益の向上に賭けている。雇用主は、WegovyやZepboundのようなGLP-1薬の保険適用を大幅に廃止し、より多くの患者を消費者直販処方プログラムに誘導し、ウォルマート、コストコ、CVS、アマゾンに市場シェアを拡大​​する機会を提供している。小売薬局チェーンにとって、GLP-1 処方箋は単なる販売以上のものへと進化しており、何年にもわたって継続できる顧客関係を構築するための橋頭堡となり、買い物客を棚にある他のあらゆるものに引き寄せています。顧客がウォルマートから GLP-1 を入手する場合は、他のすべての処方箋を入手し、消臭剤、ペーパータオル、調味料を積み込んだほうがよいでしょう。",
-    bodyOriginal: `As more Americans use GLP-1 weight-loss drugs to shrink their waistlines, retail giants are betting on a bottom-line bump tied to a shift in the way the drugs are priced and purchased. Employers are dropping coverage for GLP-1 drugs like Wegovy and Zepbound in greater numbers, nudging more patients to direct-to-consumer prescription programs, and providing Walmart, Costco, CVS and Amazon the opportunity to gain a greater share of the market.
-For the retail pharmacy chains, a GLP-1 prescription is evolving into more than a simple sale — it's creating a beachhead to developing customer relationships that can run for years and pull shoppers toward everything else on the shelf. If a customer is going to get their GLP-1s from Walmart, they might as well get all their other prescriptions and load up on deodorant, paper towels, and condiments.
-"Retailers are betting that if they can become the front door for obesity care, they'll earn a relationship that extends far beyond a single GLP-1 prescription," said Eric Bormel, managing director specializing in digital healthcare at Solomon Partners' healthcare group.
-The DTC GLP-1 programs are customer acquisition tools, Bormel said, and retailers are increasingly valuing the entire ecosystem around the medication more than the medication itself, which is experiencing downward price pressure.
-"Everyone recognizes that obesity treatment is becoming a longitudinal consumer relationship," Bormel said, noting that retailers aren't simply fighting over the same customers, but bringing in new ones through the GLP-1 business. It's one of the business tailwinds that is in stark contrast to initial concerns that GLP-1s were a headwind for retailers as consumers cut back on impulse buys and overall grocery spending.
-New clothing needs is one way that retailers stand to benefit from GLP-1 usage. But the need for prescription refills fits into an even broader strategy for large retail pharmacy networks that have been betting the weight-loss drug boom, even at low margins, will pay off for their businesses.
-"In a retail industry that spends billions chasing foot traffic, that is the most reliable recurring customer relationship on the market," said Jackie Swanson, managing partner at Gartner Consulting.
-The prescription refill is a retail one-of-a-kind
-Walmart becoming the retail pickup point for LillyDirect matters because the patient who collects a prescription walks through the store to reach it. "Pharmacy lock-in is loyalty-program economics applied to medicine, and it works because the refill, unlike almost everything else in retail, is non-negotiable," Swanson said.
-She notes LillyDirect's cash prices, which run $299 to $449 a month, with the better pricing tied to refilling within 45 days. "Which is a loyalty program dressed as a discount schedule," Swanson said.
-Novo Nordisk's NovoCare has a $199 price for introductory months, which later steps up to $349, a "classic acquisition funnel," Swanson said.
-Meanwhile, Costco's Sesame partnership prices Wegovy at around $349 and requires a membership. "So the prescription now helps sell the $65 card," Swanson said.
-Swanson says that, for customers, the discount is real, and for chains, what is a deal for customers is a deal for them, too: a minimal acquisition cost for a long-term relationship.
-"When a discount is tied to a network, the patient's choice of pharmacy happens at sign-up, not at the counter, and that's a meaningful change for any pharmacy that has historically won business through service and proximity. The economics of these programs favor scale," Swanson said. "The retailer that fills the prescription tends to sell the groceries too, and pharmacy is quietly becoming the membership battleground of American retail," Swanson added.
-Walmart, the nation's fifth-largest prescription provider with nearly 4,600 pharmacies, has moved aggressively to capture this shift. In April, the retailer expanded its Better Care Services digital platform to bundle GLP-1 prescriptions with weight-management support like nutrition coaching, fitness apps, and AI-driven coaching tools, while positioning itself as a one-stop destination rather than just a pickup counter. According to the most recent published data from Drug Channels Institute, a pharmacy industry research firm, Walmart currently holds 4.8% of the pharmacy market, well behind CVS's 14.7% and Walgreens' 14.6%. The DTC GLP-1 gives Walmart a new tool to try to catch up.
-Amazon, which has spent years attempting to increase its healthcare footprint, is targeting the opportunity as well. In April, the company launched a GLP-1 management program through Amazon One Medical, the primary care business it acquired in 2022, and Amazon Pharmacy, offering insured patients prices as low as $25 a month and providing same-day delivery in nearly 3,000 cities, expanding to 4,500 by year's end.
-Capital from retailers is flowing into weight-management platforms, virtual obesity care, nutrition coaching, metabolic health solutions, and employer care management programs.
-Big retail has struggled to make healthcare profitable
-The focus on GLP-1s from the major retailers is not new. As far back as 2023, then-Walmart CEO Doug McMillon said the company expected weight loss drugs to help drive sales. But that didn't necessarily translate into profitability. "Sales dollars are a lot bigger than the margin dollars," said Kroger CEO Rodney McMullen at that time. "The impact on profitability is pretty narrow," he said.
-The big retailers have also struggled in the past to capture a broader slice of the healthcare pie. Walmart shuttered its Walmart Health clinics and virtual care service entirely in 2024, closing all 51 locations across six states after concluding the primary-care business wasn't sustainable amid reimbursement pressures and rising costs — five years after it first opened the clinics.
-Amazon's history of healthcare efforts includes shutting down its Amazon Care telehealth service at the end of 2022, just weeks after unveiling its $3.9 billion deal for One Medical. Years earlier, it walked away from Haven, its joint health care venture with JPMorgan Chase and Berkshire Hathaway, which dissolved in 2021 without producing the cost savings the three companies had promised.
-CVS has had to shutter many of its instore Minute Clinics and the company has had its share of other struggles over the years with trying to make healthcare as profitable as paper towels or back-to-school supplies.
-Swanson said the timing of these DTC efforts dovetails with employers leaving the space. A survey by Mercer last month showed 6% of large employers dropped GLP-1 coverage this year, with the drugs' share of claims swelling to 11.4% from the 6.9% figure it was at in 2023. More employers have balked at paying for them because so many people could be eligible for the treatments and many patients stop them after achieving a weight-loss goal. Health insurance company Cigna said earlier this month it would stop covering the medicines for its own employees.
-More employers are pointing workers to the direct-to-consumer platforms.
-"Every patient who loses coverage is choosing a new front door for care this year, and retailers are competing to be that door at the exact moment of the decision. Real affordability gets delivered; a customer relationship gets acquired; both statements are true simultaneously," Swanson said.
-As employers balk at cost, local pharmacies lose
-Seth Friedman, pharmacy & health plan services practice leader at Gallagher, says on the other side of the opportunity for the retail chains are the independent pharmacies and non-chain players, who stand to be the big losers in this shift. "Smaller pharmacies stand to lose volume for sure," Friedman said.
-Dared Price, who owns nine pharmacies located in small Kansas towns like Winfield, population 11,000, said he is already feeling the impact as customers race to the big chains for their GLP-1s. "It is frustrating to me to not be able to provide the same access to our patients that they do to CVS or Costco," Price said. "It puts independent pharmacies at a big disadvantage."
-Price said the shift creates a potentially dangerous situation for some patients. "If one of my customers wants to do a DTC program and has to go to CVS or Costco, those pharmacies don't have access to the rest of their portfolio," Price said. Price, for his part, has no way of knowing whether a customer is taking GLP-1 drugs if they are getting them from big pharmacies. "My system won't flag any drug interactions with GLP drugs and there are drug interactions that can be dangerous," he said, adding it's a serious issue given that there are known interactions with other drugs like insulin or oral contraceptives that could be problematic.
-CVS, however, says its pharmacists are ready to treat the whole patient. "Access is only part of the equation with GLP-1 medications. Patients also need support to stay on therapy and see results," said Sid Tenneti, senior vice president and interim president, pharmacy and consumer wellness, in a statement shared by a CVS spokesperson.
-"Participation in NovoCare is one way we are assisting patients, but we are also participating in Medicare Bridge and accept most third-party prescription discount cards," the CVS spokesperson added.
-That program, a new Centers for Medicare & Medicaid Services initiative launched July 1, offering eligible Medicare patients GLP-1s for weight loss at a flat $50 monthly copay, runs through a single central processor rather than through a patient's regular pharmacy of record, the kind of structural gap that worries some obesity-care specialists.
-Some experts fear the focus on the lowest possible price for GLPs obscures the larger healthcare needs of patients even if pharmacies promise to watch the whole patient.
-"My view on this is that the drugs are not the solution by themselves; they are a powerful tool. But the medication alone doesn't work that well. People do much better when cared for by expert clinicians," said Elina Onitskansky, founder & CEO of Ilant Health, an obesity-care center.
-Onitskansky said she understands why chains are interested in the GLPs, but the race for the lowest price has created a "gold rush" mentality, and she worries that patients who participate in the DTC programs are leaving valuable information about their health behind, leaving pharmacists at a disadvantage. "I don't think fragmentation helps," she said.
-Price says the pharmaceutical giants want to sign one contract and get 2,000 stores, but there are associations of smaller pharmacies with many members that could enter into similar DTC programs, but so far there's been no movement. "There are no good programs for independents. It is a travesty that there [aren't]," Price said.
-—CNBC's Angelica Peebles contributed to this report.`,
-    bodyJa: `ウエストラインを減らすためにGLP-1減量薬を使用するアメリカ人が増える中、小売大手は薬の価格設定や購入方法の変化に伴う収益の向上に賭けている。雇用主は、WegovyやZepboundのようなGLP-1薬の保険適用を大幅に廃止し、より多くの患者を消費者直販処方プログラムに誘導し、ウォルマート、コストコ、CVS、アマゾンに市場シェアを拡大​​する機会を提供している。
-小売薬局チェーンにとって、GLP-1 処方箋は単なる販売以上のものへと進化しており、何年にもわたって継続できる顧客関係を構築するための橋頭堡となり、買い物客を棚にある他のあらゆるものに引き寄せています。顧客がウォルマートから GLP-1 を入手する場合は、他のすべての処方箋を入手し、消臭剤、ペーパータオル、調味料を積み込んだほうがよいでしょう。
-ソロモン・パートナーズのヘルスケア・グループでデジタル・ヘルスケアを専門とするマネージング・ディレクターのエリック・ボーメル氏は、「小売業者は、自分たちが肥満ケアの玄関口になれれば、単一のGLP-1処方箋をはるかに超えた関係を獲得できると賭けている」と語る。
-ボーメル氏によると、DTC GLP-1 プログラムは顧客獲得ツールであり、小売業者は価格下落圧力にさらされている医薬品そのものよりも、医薬品を取り巻くエコシステム全体をますます重視するようになっているという。
-「肥満治療が長期的な消費者関係になりつつあることは誰もが認識している」とボーメル氏は述べ、小売業者は単に同じ顧客を奪い合っているだけではなく、GLP-1事業を通じて新しい顧客を取り込んでいると指摘した。これは、消費者が衝動買いや食料品支出全体を控える中、GLP-1が小売業者にとって逆風となるという当初の懸念とは全く対照的な、ビジネスへの追い風の1つだ。
-小売業者が GLP-1 の使用から恩恵を受ける方法の 1 つは、衣料品の新たなニーズです。しかし、処方箋の補充の必要性は、たとえ利益が低くても減量薬ブームがビジネスに利益をもたらすことに賭けている大手小売薬局ネットワークにとって、さらに広範な戦略に適合する。
-ガートナー・コンサルティングのマネージング・パートナー、ジャッキー・スワンソン氏は、「客足の追跡に数十億ドルを費やしている小売業界において、それは市場で最も信頼できる継続的な顧客関係である」と述べた。
-処方箋リフィルは小売店独自のものです
-処方箋を受け取る患者は店内を歩いてたどり着くため、ウォルマートがリリーダイレクトの小売店受け取り場所になることは重要だ。 「薬局のロックインはロイヤルティプログラムの経済学を医薬品に適用したもので、小売業界の他のほとんどすべてのものとは異なり、詰め替え品は交渉の余地がないため機能する」とスワンソン氏は語った。
-彼女は、LillyDirect の現金価格は月額 299 ドルから 449 ドルで、45 日以内に補充することでより有利な価格設定になっていると指摘しています。 「これは割引スケジュールのふりをしたロイヤルティプログラムだ」とスワンソン氏は語った。
-ノボ ノルディスクのノボケアの価格は導入月は 199 ドルで、その後は 349 ドルに上がるが、これは「典型的な獲得目標到達プロセス」だとスワンソン氏は語った。
-一方、コストコのセサミ提携ではウィゴビーの価格は約349ドルで、会員登録が必要となる。 「つまり、この処方箋が65ドルのカードを売るのに役立っているのです」とスワンソン氏は語った。
-スワンソン氏は、顧客にとって割引は本物であり、チェーンにとって顧客にとっての取引は彼らにとっても取引であり、長期的な関係を維持するための最小限の獲得コストであると述べています。
-「割引がネットワークに結び付けられている場合、患者の薬局の選択は窓口ではなく登録時に行われます。これは、歴史的にサービスと近接性によってビジネスを獲得してきた薬局にとって、意味のある変化です。これらのプログラムの経済性は規模を重視します」とスワンソン氏は述べた。 「処方箋を調剤する小売店は食料品も販売する傾向があり、薬局は密かにアメリカの小売業界の会員制の戦場になりつつある」とスワンソン氏は付け加えた。
-約4,600の薬局を擁する全米5位の処方箋提供会社であるウォルマートは、この変化を捉えるために積極的に動いている。同社は4月にBetter Care Servicesデジタルプラットフォームを拡張し、GLP-1処方箋に栄養コーチング、フィットネスアプリ、AI主導のコーチングツールなどの体重管理サポートをバンドルするとともに、単なる受け取りカウンターではなくワンストップの目的地としての地位を確立した。薬局業界の調査会社であるドラッグ・チャネル・インスティテュートが発表した最新のデータによると、ウォルマートは現在薬局市場の4.8％を占めており、CVSの14.7％やウォルグリーンズの14.6％を大きく下回っている。 DTC GLP-1 は、ウォルマートに追いつくための新しいツールを提供します。
-アマゾンは何年にもわたってヘルスケア事業の拡大に努めてきたが、この機会も狙っている。同社は4月に、2022年に買収したプライマリケア事業であるアマゾン・ワン・メディカルとアマゾン・ファーマシーを通じてGLP-1管理プログラムを開始し、保険患者に月額25ドルという低価格を提供し、ほぼ3,000の都市で即日配達を提供し、年末までに4,500都市に拡大した。
-小売業者からの資本は、体重管理プラットフォーム、バーチャル肥満ケア、栄養指導、代謝健康ソリューション、雇用主ケア管理プログラムに流れ込んでいます。
-大手小売業はヘルスケアの収益化に苦戦している
-大手小売業者が GLP-1 に注目するのは新しいことではありません。ウォルマートの当時の最高経営責任者（CEO）ダグ・マクミロン氏は2023年まで遡り、同社は減量薬が売上増加につながると期待していると述べた。しかし、それが必ずしも収益につながるとは限りませんでした。クローガーのロドニー・マクマレン最高経営責任者（CEO）は当時、「売上高はマージンよりもはるかに大きい」と語った。同氏は「収益性への影響はかなり狭い」と述べた。
-大手小売業者もこれまで、ヘルスケア市場のより広い部分を獲得しようと苦戦してきた。ウォルマートは、最初にクリニックを開設してから5年後、償還圧力とコスト上昇の中でプライマリ・ケア事業は持続可能ではないと結論付け、2024年にウォルマート・ヘルス・クリニックとバーチャル・ケア・サービスを完全に閉鎖し、6州の51カ所すべてを閉鎖した。
-Amazonのヘルスケアへの取り組みの歴史には、One Medicalとの39億ドルの契約を発表したわずか数週間後の2022年末にAmazon Care遠隔医療サービスを終了したことが含まれる。その数年前、同社はJPモルガン・チェースおよびバークシャー・ハサウェイとのヘルスケア合弁事業であるヘブンから撤退したが、同事業は3社が約束していたコスト削減を実現することなく2021年に解散した。
-CVSは店内にあるミニッツ・クリニックの多くを閉鎖しなければならず、同社も医療をペーパータオルや新学期用品と同じくらい収益性の高いものにしようと長年にわたって苦闘してきた。
-スワンソン氏は、こうした DTC の取り組みのタイミングは、雇用主がこの分野から撤退するタイミングと一致していると述べた。マーサーが先月行った調査によると、大規模雇用主の6％が今年GLP-1の適用を取りやめ、保険請求に占める医薬品の割合は2023年の6.9％から11.4％に膨らんだ。非常に多くの人が治療を受ける資格がある可能性があり、多くの患者が減量目標を達成した後に治療を中止するため、治療費の支払いをためらう雇用主が増えている。健康保険会社シグナは今月初め、自社従業員への医薬品の補償を中止すると発表した。
-より多くの雇用主が労働者に消費者直販プラットフォームを勧めるようになっています。
-「今年、保険を失ったすべての患者が治療のために新しい玄関口を選択しており、小売業者はまさにその決定の瞬間にその玄関口になれるよう競い合っている。真の手頃な価格が提供され、顧客との関係が獲得される。両方の言葉は同時に真実である」とスワンソン氏は語った。
-雇用主がコストに二の足を踏む中、地元の薬局は損失を被る
-ギャラガー社の薬局・医療プランサービスプラクティスリーダーであるセス・フリードマン氏は、小売チェーンにとってチャンスの裏側には独立系薬局や非チェーン企業があり、彼らはこの変化において大きな敗者となると指摘する。 「小規模な薬局は確実に販売量を失うことになる」とフリードマン氏は言う。
-人口1万1000人のウィンフィールドのようなカンザス州の小さな町に9軒の薬局を経営するデアド・プライス氏は、顧客がGLP-1を求めて大手チェーンに殺到するなか、すでにその影響を感じていると語った。 「CVSやコストコと同じアクセスを患者に提供できないのはもどかしい」とプライス氏は語った。 「これにより、独立系薬局は大きな不利な立場に置かれることになります。」
-プライス氏は、この変化により一部の患者にとって潜在的に危険な状況が生じると述べた。 「私の顧客の1人がDTCプログラムを希望し、CVSやコストコに行かなければならない場合、それらの薬局はポートフォリオの残りの部分にアクセスできません」とプライス氏は語った。プライス氏としては、顧客が大手薬局からGLP-1薬を入手している場合、その薬を服用しているかどうかを知る方法はない。 「私のシステムはGLP薬との薬物相互作用にはフラグを立てませんが、危険な可能性のある薬物相互作用は存在します」と同氏は述べ、インスリンや経口避妊薬など他の薬物との相互作用が問題となる可能性があることが知られていることから、これは深刻な問題だと付け加えた。
-しかしCVSは、薬剤師が患者全体を治療する準備ができていると述べている。 「GLP-1治療薬へのアクセスは方程式の一部にすぎません。患者は治療を継続し、結果を確認するためのサポートも必要です」と、CVSの広報担当者が共有した声明の中で、上級副社長兼薬局・消費者ウェルネス担当暫定社長のシド・テネティ氏は述べた。
-「ノボケアへの参加は私たちが患者を支援する方法の一つですが、私たちはメディケアブリッジにも参加しており、ほとんどのサードパーティの処方箋割引カードを受け入れています」とCVSの広報担当者は付け加えた。
-このプログラムは、メディケア・メディケイド・サービスセンターが7月1日に開始した新しい取り組みで、適格なメディケア患者に月額一律50ドルの自己負担で減量のためのGLP-1を提供するもので、患者の通常の薬局記録ではなく、単一の中央処理装置で運営されており、一部の肥満症ケア専門家を懸念させる構造的なギャップのようなものである。
-一部の専門家は、たとえ薬局が患者全体を観察すると約束したとしても、GLPの可能な限りの低価格に重点を置くことで、患者のより大きな医療ニーズが見えにくくなるのではないかと懸念している。
-「これについての私の見解は、薬はそれ自体では解決策ではなく、強力なツールだということです。しかし、薬だけではそれほど効果はありません。専門の臨床医によるケアを受けると、人々の状態はずっと良くなります」と、肥満治療センター、イラント・ヘルスの創設者兼最高経営責任者（CEO）のエリナ・オニツカンスキー氏は語った。
-オニツカンスキー氏は、チェーン店がGLPに興味を持っている理由は理解しているが、最安値競争が「ゴールドラッシュ」の心理を生み出しており、DTCプログラムに参加する患者が自分の健康に関する貴重な情報を置き去りにし、薬剤師が不利な立場に置かれていることを懸念していると語った。 「断片化は役に立たないと思います」と彼女は言う。
-プライス氏によると、製薬大手は一つの契約を結び、2,000店舗を獲得したいと考えているが、同様のDTCプログラムに参加できる会員数の多い小規模薬局協会も存在するが、今のところ動きはないという。 「独立系の人たちにとって良いプログラムはない。存在しないのは滑稽だ」とプライス氏は語った。
-—CNBCのアンジェリカ・ピーブルズがこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/01/glp-1-prescriptions-weight-loss-walmart-costco-amazon.html",
-    publishedAt: "2026-08-01T12:30:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "openai-s-hugging-face-hack-confirmed-mon-bcf79012",
-    title: "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open'",
-    titleJa: "OpenAIのHugging Faceハッキングにより、数ヶ月にわたるAIサイバー警告が確認された：「パンドラの箱は開いている」",
-    summaryJa: "サイバーセキュリティのリーダーたちは数か月間、人工知能が脅威の状況を再構築し、数週間、数日にわたるサイバー攻撃を数分に圧縮すると警告してきた。先週まで、こうした脅威はまだ遠いリスクのように感じられていました。",
-    bodyOriginal: `For months, cybersecurity leaders warned that artificial intelligence would reshape the threat landscape, compressing weeks- and dayslong cyberattacks into a matter of minutes.
-Until last week, those threats still felt like a distant risk.
-The OpenAI agent hack on Hugging Face illustrates that this era has not only arrived but also created a new challenge: AI agents will go to extremes to accomplish their goals, and do it in unpredictable ways.
-"The reality is Pandora's box is open," said Sam Curry, chief information security officer at Zscaler. "We need to act as if AI is just a fact of life going forward. The most those things will do is slow it. They won't stop it."
-The rollout of Anthropic's powerful Mythos model nearly four months ago raised concerns that hackers could potentially use these models to exploit vulnerabilities. Major technology companies formed coalitions to start testing this advanced AI in order to prepare.
-At the time, Palo Alto Networks' product and technology chief Lee Klarich warned that AI-driven exploits would soon become the new norm and businesses had a three-to-five-month window to outpace their foes.
-The Hugging Face incident couldn't come at a more opportune time for the cyber industry.
-This upcoming week, thousands of industry experts descend on Las Vegas for Black Hat, one of the premier cybersecurity events of the year. It's also the first major conference for the sector since the widespread release of Mythos-class models and the government's increased focus on AI security.
-In the wake of Hugging Face, businesses are not only asking how to defend themselves against adversaries but also confronting the stark reality that AI systems designed to safeguard their networks could also turn up in unexpected places.
-"We've gone from science fiction into reality," said Brad Medairy, president of Booz Allen's national cyber business.
-The significance of Hugging Face
-Last week, OpenAI disclosed that some of its AI models broke out of a sandboxed testing environment. The agents, looking for information to cheat on an internal test, breached open-source developer platform Hugging Face and accessed four other accounts to facilitate the attack.
-Hugging Face flagged the incident as the first time it dealt with an attack led by an agentic system from start to finish, signaling how advanced attack capabilities have already become without human intervention.
-Days later, Anthropic identified three instances where its Claude models "gained unauthorized access to the real systems of three different organizations."
-Experts say these aren't the first AI-agent-led attacks, but they're drawing outsized attention because of the scale and name recognition. In April, Jer Crane, the founder of software startup PocketOS, said a Cursor AI agent that the company was using in its own system wiped out its production database and backups in 9 seconds.
-Code deletion represents more extreme cases, but SailPoint tech chief Chandra Gnanasambandam said instances with AI acquiring permissions are actually more common than people realize, and it's happening daily.
-"The nature of conversations that I have had with our customers are different from even a month ago," he said. "They are a lot more aware of this problem."
-Even more worrisome is that the Hugging Face incident is one of the clearest illustrations yet of the stark reality that AI doesn't operate like the human brain and will research and adapt to outsmart systems and accomplish goals.
-Months ago, businesses fretted over adversaries using AI to attack. Customers are now questioning how to introduce AI without self-inflicting damage — and they will be looking for answers at Black Hat.
-"It's something that for AI is pretty straightforward," said Sanaz Yashar, CEO of cybersecurity startup Zafran Security. "I have one mission: solve this problem, and I will kill everything in front of me or bypass it."`,
-    bodyJa: `サイバーセキュリティのリーダーたちは数か月間、人工知能が脅威の状況を再構築し、数週間、数日にわたるサイバー攻撃を数分に圧縮すると警告してきた。
-先週まで、こうした脅威はまだ遠いリスクのように感じられていました。
-OpenAI エージェントによる Hugging Face へのハッキングは、この時代が到来しただけでなく、新たな課題も生み出したことを示しています。AI エージェントは目標を達成するために極端な行動をとり、それを予測不可能な方法で実行することになります。
-ゼットスケーラーの最高情報セキュリティ責任者サム・カリー氏は、「現実にはパンドラの箱は開いたままだ」と語った。 「私たちは今後、AI が単なる現実であるかのように行動する必要があります。それらはせいぜい AI の速度を遅らせるだけであり、AI を止めることはできません。」
-約 4 か月前に Anthropic の強力な Mythos モデルが公開されたことにより、ハッカーがこれらのモデルを使用して脆弱性を悪用する可能性があるという懸念が生じました。大手テクノロジー企業は連合を結成し、この高度な AI のテストを開始して準備を整えました。
-当時、パロアルトネットワークスの製品および技術部門責任者のリー・クラリッチ氏は、AIを活用したエクスプロイトは間もなく新たな標準となり、企業が敵を出し抜くには3～5か月の猶予があると警告した。
-ハグフェイス事件は、サイバー業界にとってこれ以上に好都合な時期に発生しました。
-今週、今年の主要なサイバーセキュリティ イベントの 1 つである Black Hat のために、数千人の業界専門家がラスベガスに集まります。また、これは、Mythos クラスのモデルが広範囲にリリースされ、政府が AI セキュリティに重点を置くようになって以来、この分野にとって初の主要なカンファレンスでもあります。
-「顔ハグ」事件を受けて、企業は敵から身を守る方法を問うだけでなく、ネットワークを保護するために設計された AI システムが予期せぬ場所に出現する可能性があるという厳しい現実にも直面しています。
-ブーズ・アレンの国営サイバー事業の社長、ブラッド・メデイリー氏は「われわれはSFから現実へ移行した」と語った。
-ハグフェイスの重要性
-OpenAIは先週、自社のAIモデルの一部がサンドボックス化されたテスト環境から抜け出したことを明らかにした。エージェントたちは、内部テストで不正行為を行うための情報を探していたため、オープンソースの開発者プラットフォーム「Hugging Face」に侵入し、他の 4 つのアカウントにアクセスして攻撃を促進しました。
-ハグ・フェイスは、このインシデントが最初から最後までエージェント・システムによって主導された攻撃に対処した初めての事件であると報告し、人間の介入なしに攻撃能力がすでにどれほど高度になっているかを示した。
-数日後、Anthropic は、自社のクロード モデルが「3 つの異なる組織の実際のシステムに不正アクセスした」3 つの事例を特定しました。
-専門家らは、AIエージェント主導の攻撃はこれが初めてではないが、その規模と知名度から非常に大きな注目を集めていると述べている。ソフトウェア新興企業PocketOSの創設者ジャー・クレーン氏は4月、同社が自社のシステムで使用していたCursor AIエージェントが本番データベースとバックアップを9秒で消去したと述べた。
-コードの削除はより極端なケースを表しているが、SailPointの技術責任者チャンドラ・グナナサンバンダム氏は、AIが権限を取得するインスタンスは実際には人々が思っているよりも一般的であり、それは毎日起こっていると述べた。
-「私と顧客との会話の性質は、1 か月前とはまったく異なります」と彼は言いました。 「彼らはこの問題をもっとよく認識しています。」
-さらに憂慮すべきは、「顔を抱きしめる」事件は、AIが人間の脳のようには機能せず、賢いシステムを研究して適応し、目標を達成するという厳然たる現実を、これまでで最も明確に示した例の1つであるということだ。
-数カ月前、企業は敵が AI を使って攻撃することに不安を感じていました。顧客は現在、自らに損害を与えずに AI を導入する方法に疑問を抱いており、Black Hat でその答えを探していることになります。
-サイバーセキュリティの新興企業ザフラン・セキュリティの最高経営責任者（CEO）サナズ・ヤシャール氏は、「AIにとってこれは非常に簡単なことだ」と語った。 「私の使命は1つです。この問題を解決することです。目の前のすべてを殺すか、回避します。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/01/open-ai-hugging-face-hack-cyber-warnings.html",
-    publishedAt: "2026-08-01T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "to-keep-growing-incoming-best-buy-ceo-sa-f121bd64",
-    title: "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
-    titleJa: "成長を続けるために、Best Buyの次期CEOはまず規模を縮小したいと語る",
-    summaryJa: "次期 CEO のジェイソン・ボンフィグ氏は、自らの手綱を引き継ぐ準備を進めており、会社のリーチを拡大し、顧客エクスペリエンスを向上させることに注力していると CNBC に語った。",
-    bodyOriginal: `Best Buy is at a critical juncture as the consumer electronics retailer aims to revitalize its performance under incoming CEO Jason Bonfig, who spoke exclusively with CNBC about his strategy for the company.
-The company has been struggling with slumping sales over the past few years, which it has attributed to lower consumer confidence, less tech innovation and a slower housing market. In an effort to refresh its products, improve the customer experience and drive more sales, the retailer announced Bonfig will succeed current CEO Corie Barry this fall.
-As he prepares to take the helm, Bonfig has said he's focused on four key pillars: advancing Best Buy as a retail and technology company, improving its reach, enhancing the customer experience and focusing on being a human-powered company. Bonfig has also said he's looking into ways to capitalize on the artificial intelligence boom and Best Buy's spot in that next chapter.
-This week, Best Buy opened two new stores, one in Jonesboro, Arkansas, and one in Cape Cod, Massachusetts, which Bonfig told CNBC illustrates his strategy as he prioritizes returning the company to long-term and sustainable growth.
-"What we're finding is that there are markets that we just can't be in with a traditional size Best Buy store, but they're markets that absolutely make sense for Best Buy from a reach perspective," Bonfig said.
-To lean into those markets, the company is opening new small-format stores, ranging from 12,000 to 15,000 square feet, compared to its medium-format stores, which range from 20,000 to 25,000 square feet. Some of its largest stores, including its flagship location in New York City, exceed 40,000 square feet.
-The new small stores tap into Bonfig's priority of expanding the company's reach, he said.
-"We also know that when we put a store close to a customer, it doesn't just change the customers' behavior in the frequency of the visits of the store … it also changes their behavior digitally as well," Bonfig said.
-When Best Buy joins a new, smaller community, he said, the company has found more customers physically go to a store for the first time, but they also use the app and digital channels as well. The Jonesboro store marks Best Buy's return to the town after a tornado destroyed its previous location.
-"It's a great example of a vibrant market, a place where customers are interested in our brand, but not a market that could support a 30,000- or 35,000-square-foot store," Bonfig said. "An 18,000-square-foot store allows us to have the best of all of our different categories and meet the needs at that particular location."
-The second opening, in Cape Cod, is slightly larger than Best Buy's normal medium-format stores, coming in at 28,000 square feet, but Bonfig said it's another example of finding "the right size store in the right location in the right node."
-He added that Best Buy Canada, which can often do things faster than its U.S. counterpart, has been after the small-format store for "an extended period of time" and has seen success with locations as small as 7,000 square feet.
-Still, Bonfig emphasized that the small stores are not a replacement for its more typical-format locations.
-"It's actually an enhancement of what we're doing today," he said. "But it actually allows us to reach more customers and more markets that we just were not in before."
-Trying to turn the page
-Over the past five years, Best Buy has seen its stock sink roughly 20% after hitting its peak in late 2021, trading at $138 per share.
-For the current fiscal year, Best Buy has said it expects comparable sales in the range of a decline of 1% to an increase of 1%. Though its most recent quarter outperformed Wall Street expectations, it came on the heels of years of declines, like the third fiscal quarter of 2026, when Best Buy reported net income of $140 million, down from $273 million the year prior.
-The retailer was also hit by tariffs and is navigating the soaring price of memory chips, which have caused the costs of some consumer electronics to rise.
-Bonfig said he attributes Best Buy's recent stagnant performance to a general pull-forward behavior from consumers during Covid that created an unprecedented demand curve that led to a lull. Like home improvement companies, Best Buy saw outsized spending as shoppers were stuck at home and looking to upgrade.
-He said Best Buy saw that behavior reset the technology life cycle for a lot of consumers while also forcing vendors to pivot from innovation to production.
-"I wouldn't say that Best Buy's lost its momentum," he told CNBC. "I think there's been a very interesting couple years, or maybe more than a couple years, in the market where there was an interesting demand curve where everything was pulled forward."
-As he prepares to take the reins of the company, Bonfig said he's focused on improving the customer experience, including upgrading TV selections and working with customers to replace their existing TVs.
-Bonfig said he'll define success during his tenure as CEO by the customer response.
-He also said the company is leaning into AI for customers and the corporate side of the business, adding that Best Buy is actively investing in new products like Meta's glasses. Best Buy also has an AI tool for customers to use, in addition to partnerships with OpenAI and Google.
-"Agentic commerce and commerce through AI platforms is happening today," Bonfig said. "We're seeing traffic there, and we want to make sure that the Best Buy experience is represented."
-Still, he added, he expects AI to be an enhancement to the human power behind Best Buy.
-And, ultimately, as he looks to step into his new role, Bonfig said he still believes in the core strength of Best Buy despite its recent stagnation.
-"Corie had an amazing strategy, and my strategy is built on top of that," Bonfig said. "There is a tremendous amount of momentum."`,
-    bodyJa: `家電量販店ベスト・バイは、次期最高経営責任者（CEO）ジェイソン・ボンフィグ氏の下で業績の立て直しを目指しており、同社の戦略についてCNBCと独占インタビューした。
-同社は過去数年間、売上高の低迷に苦しんでおり、その原因として消費者信頼感の低下、技術革新の鈍化、住宅市場の減速が挙げられている。製品を刷新し、顧客エクスペリエンスを向上させ、売上を増やす取り組みの一環として、小売業者であるボンフィグはこの秋に現CEOのコーリー・バリーの後任となることを発表した。
-ボンフィグ氏は、経営陣に就任する準備を進める中で、小売およびテクノロジー企業としてベストバイを前進させること、リーチを改善すること、顧客エクスペリエンスを向上させること、そして人力企業であることへの注力という4つの重要な柱に注力していると述べた。ボンフィグ氏はまた、人工知能ブームとベスト・バイの次の章での地位を活かす方法を検討しているとも述べた。
-今週、ベスト・バイはアーカンソー州ジョーンズボロとマサチューセッツ州ケープコッドに2店舗の新店舗をオープンした。ボンフィグ氏はCNBCに対し、これは会社を長期的かつ持続可能な成長に戻すことを優先する同氏の戦略を表していると語った。
-「私たちが発見したのは、従来型の規模のベスト・バイの店舗では参入できない市場が存在するということですが、それらはリーチの観点からベスト・バイにとって絶対に意味のある市場であるということです」とボンフィグ氏は語った。
-これらの市場に力を入れるため、同社は20,000～25,000平方フィートの中型店舗と比較して、12,000～15,000平方フィートの小型店舗を新たにオープンしている。ニューヨーク市の旗艦店を含む最大規模の店舗の一部は、面積が 40,000 平方フィートを超えています。
-新しい小規模店舗は、会社のリーチを拡大するというボンフィグの優先事項を活用している、と同氏は述べた。
-「また、店舗を顧客の近くに置くと、顧客の来店頻度が変わるだけでなく、デジタル面でも顧客の行動が変わることもわかっています」とボンフィグ氏は語った。
-Best Buy が新しい小規模コミュニティに参加すると、より多くの顧客が初めて物理的に店舗に足を運ぶだけでなく、アプリやデジタル チャネルも利用することがわかったと同氏は述べました。ジョーンズボロ店は、竜巻によって以前の店舗が破壊された後、ベスト・バイが町に戻ってきたことを記念するものである。
-「これは活気に満ちた市場の好例であり、顧客は当社のブランドに興味を持っているが、30,000平方フィートや35,000平方フィートの店舗をサポートできる市場ではない」とボンフィグ氏は語った。 「18,000平方フィートの店舗では、さまざまなカテゴリーのすべてを最大限に活用し、その特定の場所のニーズを満たすことができます。」
-ケープコッドにオープンする2号店は、ベスト・バイの通常の中型店舗よりわずかに大きく、面積は2万8000平方フィートだが、ボンフィグ氏はこれも「適切なノードの適切な場所に適切な規模の店舗」を見つける一例だと述べた。
-同氏は、ベスト・バイ・カナダはしばしば米国の同業他社よりも迅速に物事を進めることができるが、「長期間」小型店を追求しており、7,000平方フィートもの小さな店舗で成功を収めていると付け加えた。
-それでも、ボンフィグ氏は、小規模店舗は、より典型的な店舗の代わりになるものではないと強調した。
-「実際、これは私たちが現在行っていることを強化したものです」と彼は言いました。 「しかし実際には、これにより、これまで参入できなかったより多くの顧客とより多くの市場にリーチできるようになります。」
-ページをめくろうとすると
-過去5年間、ベストバイの株価は2021年後半に最高値を付けた後、約20％下落し、1株当たり138ドルで取引されている。
-ベスト・バイは今会計年度について、同等の売上高が１％減から１％増の範囲になると予想していると述べた。直近の四半期はウォール街の予想を上回ったものの、ベスト・バイが純利益を前年同期の2億7,300万ドルから1億4,000万ドルと報告した2026年第3四半期など、長年の落ち込みの直後にあった。
-同社は関税の影響も受けており、一部の家電製品の価格高騰を引き起こしたメモリーチップの価格高騰を乗り切ろうとしている。
-ボンフィグ氏は、ベスト・バイの最近の業績停滞の原因は、新型コロナウイルス感染症下での消費者の全般的な引き戻し行動が前例のない需要曲線を生み出し、小康状態に陥ったことにあると述べた。ホームセンター企業と同様に、買い物客が家に閉じこもってアップグレードを検討しているため、ベストバイでも多額の支出が見られました。
-同氏は、この行動が多くの消費者のテクノロジーのライフサイクルをリセットすると同時に、ベンダーにイノベーションから生産への方向転換を強いることをBest Buyが見ていると述べた。
-同氏はCNBCに対し、「ベスト・バイが勢いを失ったとは言えない」と語った。 「市場では、すべてが前方に引っ張られる興味深い需要曲線が見られた非常に興味深い数年間、あるいはおそらく数年以上があったと思います。」
-ボンフィグ氏は、会社の手綱を引き継ぐ準備を進める中で、テレビの品揃えをアップグレードしたり、顧客と協力して既存のテレビを置き換えたりするなど、顧客体験の向上に注力していると語った。
-ボンフィグ氏は、CEO在任中の成功を顧客の反応によって定義すると述べた。
-同氏はまた、同社は顧客やビジネスの企業側のためにAIに傾いていると述べ、ベスト・バイはメタ社の眼鏡のような新製品に積極的に投資していると付け加えた。 Best Buy は、OpenAI および Google との提携に加え、顧客が使用できる AI ツールも提供しています。
-「代理店商取引とAIプラットフォームを通じた商取引が今日行われている」とボンフィグ氏は語った。 「そこにはトラフィックが集まっているので、Best Buy のエクスペリエンスを確実に表現したいと考えています。」
-それでも同氏は、AIがBest Buyの背後にある人間の力を強化するものになると期待していると付け加えた。
-そして最終的には、新たな役割に就こうとしているボンフィグ氏は、最近の停滞にもかかわらず、ベスト・バイの中核的な強さを依然として信じていると語った。
-「コーリーは素晴らしい戦略を持っていた。私の戦略はそれに基づいて構築されている」とボンフィグ氏は語った。ものすごい勢いです。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
-    publishedAt: "2026-08-01T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
   },
 ];
 
