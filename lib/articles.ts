@@ -15,6 +15,349 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "situational-awareness-hedge-fund-meltdow-87681154",
+    title: "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+    titleJa: "状況認識ヘッジファンドのメルトダウンはレバレッジ市場への警告だった、BofA CEOが語る",
+    summaryJa: "バンク・オブ・アメリカのブライアン・モイニハン最高経営責任者（CEO）は水曜日、急成長を遂げているAIヘッジファンド、シチュエーショナル・アウェアネスの最近の破綻寸前は、バリュエーションの高騰と借り入れによって支えられている金融市場への警鐘であると述べた。レオポルド・アッシェンブレナー氏率いるシチュエーショナル・アウェアネスは、人工知能への賭けが悪化したため先週、投げ売りで公開株の大部分をシタデルに売却することを余儀なくされた。バンク・オブ・アメリカは、ゴールドマン・サックスやJPモルガン・チェースとともに、同社の主要ブローカーの1社として取引を実行し、ファンドにレバレッジを提供していた。",
+    bodyOriginal: `Bank of America CEO Brian Moynihan on Wednesday called the recent near-collapse of high-flying AI hedge fund Situational Awareness a warning shot for financial markets that are being fueled by elevated valuations and borrowed money.
+Situational Awareness, led by Leopold Aschenbrenner, was forced to offload most of its public equities to Citadel last week in a fire sale as its bets on artificial intelligence soured. Bank of America was among the firm's prime brokers, executing trades and providing leverage to the fund, along with Goldman Sachs and JPMorgan Chase.
+"These are all warning shots," Moynihan told CNBC's Andrew Ross Sorkin. "Valuations get out, leverage in the system gets there. You have to be careful."
+Moynihan's comments suggest Wall Street's largest prime brokers are reexamining exposure to highly leveraged investment firms after the AI trade has fueled surging markets over the last several years, even as they continue competing aggressively to finance hedge funds.
+"You always look and say, 'OK, what happened? Should we learn from it? Should it change?'" Moynihan said. "And so the tendency is to tighten the underwriting standards, just a hair, to adjust — especially with big run-ups in stocks."
+Still, Bank of America would've been "fine" even absent the Citadel deal, which provided capital for Situational Awareness to pay off its banks, Moynihan said.`,
+    bodyJa: `バンク・オブ・アメリカのブライアン・モイニハン最高経営責任者（CEO）は水曜日、急成長を遂げているAIヘッジファンド、シチュエーショナル・アウェアネスの最近の破綻寸前は、バリュエーションの高騰と借り入れによって支えられている金融市場への警鐘であると述べた。
+レオポルド・アッシェンブレナー氏率いるシチュエーショナル・アウェアネスは、人工知能への賭けが悪化したため先週、投げ売りで公開株の大部分をシタデルに売却することを余儀なくされた。バンク・オブ・アメリカは、ゴールドマン・サックスやJPモルガン・チェースとともに、同社の主要ブローカーの1社として取引を実行し、ファンドにレバレッジを提供していた。
+「これらはすべて警告射撃だ」とモイニハン氏はCNBCのアンドリュー・ロス・ソーキン氏に語った。 「バリュエーションが低下し、システム内のレバレッジがそこに影響を及ぼします。注意が必要です。」
+モイニハン氏のコメントは、ウォール街最大手のプライムブローカーが、ヘッジファンドへの融資を巡って激しい競争を続けているにもかかわらず、AI取引が過去数年間市場の急騰をあおったことを受けて、レバレッジの高い投資会社へのエクスポージャーを再検討していることを示唆している。
+「あなたはいつも、『何が起こったのか？ そこから学ぶべきなのか？ 変えるべきなのか？』を見て言うんだ」とモイニハン氏は語った。 「そのため、特に株価が大幅に上昇した場合には、調整のために引受基準をほんの少しだけ厳格化する傾向にある。」
+それでもモイニハン氏は、シチュエーションアウェアネスが銀行返済のための資金を提供したシタデル取引がなくても、バンク・オブ・アメリカは「大丈夫」だっただろうと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+    publishedAt: "2026-08-05T14:25:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "abdul-el-sayed-wins-michigan-democratic-25a5f186",
+    title: "Abdul El-Sayed wins Michigan Democratic Senate primary as voters pivot to the left",
+    titleJa: "有権者が左傾化する中、アブドゥル・エルサイード氏がミシガン州民主党上院予備選で勝利",
+    summaryJa: "ミシガン州上院選に立候補している進歩的で反体制派の民主党アブドゥル・エルサイード氏は、2026年中間選挙で最も注目され影響力のある予備選挙の一つでヘイリー・スティーブンス下院議員を破った。AP通信が水曜朝、開票率99%でレースを招集すると、エルサイード氏がスティーブンス氏を1ポイント差で破った。エルサイード氏の得票率は48.5％、スティーブンス氏の47.5％だった。予備選の１カ月前に選挙運動を停止していたマロリー・マクモロー氏は得票率４％だった。",
+    bodyOriginal: `Abdul El-Sayed, the progressive, anti-establishment Democrat running for Senate in Michigan, defeated Rep. Haley Stevens in one of the most closely watched and impactful primary elections of the 2026 midterms.
+El-Sayed beat Stevens by 1 percentage point as The Associated Press called the race Wednesday morning with 99% of votes counted. El-Sayed had captured 48.5% of the votes to Stevens' 47.5%. Mallory McMorrow, who had suspended her campaign a month before the primary, received 4% of the votes.
+The results set up El-Sayed to face former Republican Rep. Mike Rogers in the general election this November.
+El-Sayed, a former public health official, and Stevens, a more moderate Democrat, were vying for the seat Democratic Sen. Gary Peters will vacate at the end of this Congress. The result could help decide control of the Senate for the next Congress and influence the direction of the Democratic Party in the coming years.
+El-Sayed's win is a boon for the left flank of the Democratic Party, which has recently scored upsets in New York and Colorado. He had notched endorsements from progressive heavyweights like Sen. Bernie Sanders, I-Vt., and Rep. Alexandria Ocasio-Cortez, D-N.Y., and came into Tuesday with a polling edge, though the race was much closer than projections indicated it would be.
+Stevens' campaign told voters she had the best chance to beat Rogers in November. Michigan is seen as a must-win for Democrats if they want to retake a Senate majority. It's also a crucial seat for Republicans if they are to retain control of the chamber. Her supporters included Michigan Gov. Gretchen Whitmer and former Michigan Sen. Debbie Stabenow, both Democratic heavyweights in the state.
+Investment firm Piper Sandler in a note to clients called El-Sayed's victory "a major setback for Democratic hopes of winning back the Senate by choosing the more liberal candidate.
+"Overall, the election environment looks very challenging for Republicans, but Democratic primary voters, especially in critical Senate races in Maine and Michigan, may have saved the Republican majority in the Senate," the firm wrote. On the heels of El-Sayed's likely victory, the firm raised the odds of Republicans keeping a Senate majority from 55% to 60%.
+Michigan is a bellwether state in national elections. President Donald Trump won there by 1.4 percentage points in 2024 after losing to Joe Biden by 2.8 percentage points in 2020. In 2016, Trump won Michigan by less than a third of a percentage point. The results of Tuesday's Senate primary will provide a window into how voters are feeling nationally two years before the next presidential election.
+"When she got elected to the Congress, she flipped a seat from a Republican to a Democrat. She knows how to beat Republicans" Peters said of Stevens, who came to the House in 2019, at a campaign event on Monday. "We have to win in November. We have to keep Michigan blue. Haley Stevens is the person to do that."
+What started as a three-way race winnowed to two in July when McMorrow, a state senator who tried to stake out a middle ground between Stevens and El-Sayed, dropped out. McMorrow, in an attempt at fostering unity within the party, endorsed El-Sayed after he took a commanding lead in the results.
+"Take it from me — this was a brutal primary. But whatever differences there were between the candidates in this race, those differences are nothing compared to the contrast in November," McMorrow said in a statement. "Donald Trump and Mike Rogers are banking on all of us being too bruised, too proud, and too hurt to come back together to beat them. Let's prove them wrong."
+The contest between El-Sayed and Stevens has been tense at times, as the two candidates split over issues like AI data centers and U.S. foreign policy, especially aid to Israel.
+"If you believe like me that rather than fund the genocide perpetrated by a foreign government, we better build schools right here in Grand Rapids, then we better put ourselves in democracy," El-Sayed said at a recent campaign stop.
+Stevens, meanwhile, cast El-Sayed as an extremist and as the GOP's preferred candidate this November.
+"You see the Republicans, they're propping up my Democratic opponent. The Republican in this race, he said … my opponent is going to make it easier for him to win. Well, I don't plan on making anything easier for these guys," Stevens said on MS NOW.
+Downballot in Michigan, incumbent Democratic Rep. Shri Thanedar lost his primary to Donavan McKinney, a member of the Michigan House of Representatives. McKinney will face Republican Taras Nykoriak in the general election in the 13th congressional district in the Detroit area that is considered a safe Democratic seat.
+The Michigan primary came as Republicans, including Trump, are increasingly calling their Democratic adversaries communists and raising alarms about the extreme policies of the Democratic Socialists of America.
+Neither Stevens nor El-Sayed are members of DSA. El-Sayed, while running to the left of Stevens, rejects the socialist label. Still, Trump in the Oval Office on Monday characterized the race as a battle between far-left ideologies.
+"Well, you have a very interesting group. Who I'm really voting for is Mike Rogers, because I think he's going to be a great senator," Trump told reporters after being asked who he is voting for in Michigan, a state where he doesn't vote. "You have a communist versus a socialist. That's the way I look at it … it looks like the communist is leading. We're talking about the Democrat primary. But for the Republican you have a very good man, and he should be able to win."
+—Garrett Downs contributed to this report.`,
+    bodyJa: `ミシガン州上院選に立候補している進歩的で反体制派の民主党アブドゥル・エルサイード氏は、2026年中間選挙で最も注目され影響力のある予備選挙の一つでヘイリー・スティーブンス下院議員を破った。
+AP通信が水曜朝、開票率99%でレースを招集すると、エルサイード氏がスティーブンス氏を1ポイント差で破った。エルサイード氏の得票率は48.5％、スティーブンス氏の47.5％だった。予備選の１カ月前に選挙運動を停止していたマロリー・マクモロー氏は得票率４％だった。
+この結果により、エルサイード氏は今年11月の総選挙で元共和党議員マイク・ロジャース氏と対戦することになった。
+元公衆衛生当局者のエルサイード氏と、民主党穏健派のスティーブンス氏は、今議会の終わりに空席となる民主党上院議員ゲーリー・ピーターズの議席を争っていた。この結果は次の議会の上院の主導権を決定するのに役立ち、今後数年間の民主党の方向性に影響を与える可能性がある。
+エルサイード氏の勝利は、最近ニューヨーク州とコロラド州で番狂わせを起こしている民主党左翼にとって恩恵だ。同氏はバーニー・サンダース上院議員（バーモント州）やアレクサンドリア・オカシオコルテス下院議員（民主党）といった進歩派の重鎮からの支持も得ており、投票数で有利な状態で火曜日を迎えたが、予想よりも接戦となった。
+スティーブンス氏の陣営は有権者に対し、11月にロジャーズ氏を破る最大のチャンスがあると語った。民主党が上院過半数を奪還するにはミシガン州が必勝とみられている。共和党が議院の主導権を維持するには重要な議席でもある。彼女の支持者には、ミシガン州知事のグレッチェン・ホイットマー氏と元ミシガン州上院議員デビー・スタベナウ氏（どちらも州民主党の重鎮）が含まれていた。
+投資会社パイパー・サンドラー氏は顧客向けメモの中で、エルサイード氏の勝利は「よりリベラルな候補者を選んで上院を取り戻したいという民主党の望みにとって大きな挫折だ」と述べた。
+「全体的に選挙環境は共和党にとって非常に厳しいものに見えるが、特に重要なメイン州とミシガン州の上院選で民主党の予備選挙有権者が上院の共和党過半数を救った可能性がある」と同社は書いている。エルサイード氏の勝利が確実視されたことを受け、同社は共和党が上院過半数を維持する確率を55％から60％に引き上げた。
+ミシガン州は国政選挙の先導州である。ドナルド・トランプ大統領は、2020年にジョー・バイデンに2.8パーセントポイントの差で敗れた後、2024年に同州で1.4パーセントポイントの差で勝利した。2016年、トランプは3分の1パーセントポイント未満の差でミシガン州に勝利した。火曜日の上院予備選の結果は、次期大統領選挙の２年前に有権者が全国的にどのように感じているかを知る手がかりとなるだろう。
+「彼女は議会議員に選出されたとき、共和党から民主党に議席をひっくり返した。 「彼女は共和党に勝つ方法を知っている」とピーターズ氏は月曜日の選挙イベントで、2019年に下院に来たスティーブンス氏について語った。「我々は11月に勝たなければならない。私たちはミシガンブルーを維持しなければなりません。ヘイリー・スティーブンスはそれを実現できる人物だ。」
+当初は三つ巴の争いであったが、スティーブンス氏とエルサイード氏の間で中間を争おうとしたマクモロー州上院議員が脱落し、７月に二つに分かれた。マクモロー氏は党内の結束を促進する試みとして、エルサイード氏が結果で圧倒的なリードをとった後、同氏を支持した。
+「やめてください。これは残酷な予備選挙でした。しかし、今回の選挙戦で両候補の間にどんな違いがあったにせよ、その違いは11月の対照的なものに比べれば大したことはない」とマクモロー氏は声明で述べ、「ドナルド・トランプ氏とマイク・ロジャース氏は、私たち皆があまりにも傷つき、プライドが高く、傷つきすぎているため、彼らを倒すために再び団結することはできないと期待している」と述べた。彼らが間違っていることを証明しましょう。」
+エル・サイード氏とスティーブンス氏の争いは、AIデータセンターや米国の外交政策、特にイスラエル支援などの問題をめぐって両候補が意見が分かれ、時として緊迫した状況となっている。
+「もしあなたが私と同じように、外国政府による大量虐殺に資金を提供するよりも、ここグランドラピッズに学校を建てたほうが良いと信じるなら、民主主義の中に身を置いたほうが良い」とエルサイード氏は最近の選挙活動停止で述べた。
+一方、スティーブンス氏は今年11月、エルサイード氏を過激派として共和党の優先候補者に指名した。
+「共和党が私の民主党の敵対者を支えているのがわかります。この選挙戦の共和党員、彼はこう言った…私の対戦相手は彼が勝ちやすくするだろう。まあ、私は彼らのために何かを簡単にするつもりはありません」とスティーブンスはMS NOWで語った。
+ミシガン州では反対投票が行われ、現職の民主党下院議員シュリ・サネダー氏が予備選でミシガン州下院議員ドナバン・マッキニー氏に敗れた。マッキニー氏は民主党の安全な議席とみなされているデトロイト地区の第13下院選挙区で本選挙で共和党のタラス・ニコリアク氏と対戦する。
+ミシガン州の予備選は、トランプ氏を含む共和党が民主党の敵対者を共産主義者と呼び、アメリカ民主社会主義者の極端な政策に警鐘を鳴らしている中で行われた。
+スティーブンス氏もエルサイード氏も DSA のメンバーではありません。エルサイードはスティーブンスの左側を走りながら、社会主義者のレッテルを拒否した。それでも、月曜日に大統領執務室でトランプ大統領は、今回の選挙戦を極左イデオロギー間の争いと特徴づけた。
+トランプ大統領は、投票権のないミシガン州で誰に投票するかを問われ、記者団に対し「そうですね、非常に興味深いグループですね。私が本当に投票しているのはマイク・ロジャースです。彼は素晴らしい上院議員になると思うからです」と語った。 「共産主義者対社会主義者という構図だ。それが私の見方だ…共産主義者がリードしているように見える。我々は民主党の予備選について話している。だが共和党にとっては非常に優れた人物であり、彼は勝つことができるはずだ。」
+—ギャレット・ダウンズがこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/04/abdul-el-sayed-haley-stevens-michigan-primary.html",
+    publishedAt: "2026-08-05T14:21:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "u-s-economy-keeps-up-the-momentum-but-ri-669aa9e6",
+    title: "U.S. economy keeps up the momentum, but rising costs put a cap on new hiring",
+    titleJa: "米国経済は勢いを維持しているが、コスト上昇により新規雇用に上限が生じている",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The largest part of the economy grew in July at a robust pace, but scattered shortages of key supplies and dogged inflation raised the cost of business and companies responded by keeping a lid on hiring.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/u-s-economy-keeps-up-the-momentum-but-rising-costs-put-a-cap-on-new-hiring-028d481b?mod=mw_rss_topstories",
+    publishedAt: "2026-08-05T14:18:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-81297767",
+    readTime: 2,
+  },
+  {
+    id: "fed-s-kashkari-says-now-is-the-time-to-s-5238ea25",
+    title: "Fed's Kashkari says 'now is the time to start slowly moving' rates up",
+    titleJa: "FRBのカシュカリ氏、利上げについて「今はゆっくりと動き始める時期だ」",
+    summaryJa: "ミネアポリス地区連銀のニール・カシュカリ総裁は水曜日、インフレを抑制し、その後のさらなる大幅な利上げを避けるためには今すぐ利上げが必要だと考えていると述べた。同中銀当局者はＣＮＢＣのインタビューで、日程については明言しなかったものの、９月から開始できる段階的なアプローチを求めた。",
+    bodyOriginal: `Minneapolis Federal Reserve President Neel Kashkari said Wednesday that he thinks higher interest rates are needed now to bring down inflation and avoid more drastic increases later.
+In a CNBC interview, the central bank official called for a gradual approach that could start in September, though he did not commit to a timetable.
+Kashkari was one of three dissenters at last week's Federal Open Market Committee meeting who wanted a quarter percentage point rate hike. However, the other nine voters disagreed, voting to hold the benchmark funds rate in a range between 3.5%-3.75%.
+"Corporate earnings are through the roof. They're doing great. The consumer is hanging in there. The labor market is hanging in there. I look at this constellation and I say, what evidence do I have that monetary policy is particularly restrictive right now?" he told CNBC's Andrew Ross Sorkin in a live "Squawk Box" interview from the Aspen Ideas Festival in Colorado.
+"So, I argued now is the time to start slowly moving up as we get more data in," he said.
+The FOMC has been on hold all year as officials deliberate over the proper approach to policy with the labor market stabilizing but inflation holding well above the Fed's 2% target.
+Inflation data in June showed some improvement as tensions temporarily eased in the Middle East and oil prices pulled back.
+However, Kashkari said he remains uneasy about the situation and thinks the Fed needs to address what he called a series of supply shocks pressuring consumers. He added that he's not sure what the committee will do at its Sept. 15-16 meeting and said coming data points will be key. Markets pricing is titled slightly toward a rate hike next month, with a better chance coming in October.
+"I'm not calling for a dramatic increase in interest rates," he said. "I'm simply saying I don't see evidence of monetary policy [being] marginally restrictive right now, and I think we have more work to do to get inflation back down. And I would rather get going now in small steps than wait till later, then we have a really entrenched inflation problem and have to raise rates aggressively."
+The remarks come a day after Philadelphia Fed President Anna Paulson, who like Kashkari gets a vote this year on the FOMC, offered a differing view.
+Paulson told CNBC that she thinks there is evidence that the current interest rate level is "mildly restrictive" on economic conditions and favors holding steady as officials continue to evaluate the data. In addition, Paulson said voting to hold was "not a close call" for her at the meeting.
+The three "no" votes were the first during Chairman Kevin Warsh's tenure. Kashkari, though, said Warsh, who in the past has expressed a preference for lower rates, did not pressure him.
+"He said to me, 'Do what you think is the right thing to do for the economy.' And I said, 'I really appreciate that.'" Kashkari said.`,
+    bodyJa: `ミネアポリス地区連銀のニール・カシュカリ総裁は水曜日、インフレを抑制し、その後のさらなる大幅な利上げを避けるためには今すぐ利上げが必要だと考えていると述べた。
+同中銀当局者はＣＮＢＣのインタビューで、日程については明言しなかったものの、９月から開始できる段階的なアプローチを求めた。
+カシュカリ氏は先週の連邦公開市場委員会で４分の１ポイントの利上げを求めた反対派３人のうちの１人だった。しかし、残りの９人の有権者はこれに反対し、ベンチマークファンド金利を３．５─３．７５％の範囲に維持することに投票した。
+「企業収益は天井知らずだ。業績は好調だ。消費者は頑張っている。労働市場も頑張っている。この星座を見て、金融政策が現在特に制限的であるという証拠は何だろうか、と私は言う。」同氏はコロラド州アスペン・アイデア・フェスティバルの生中継「スコーク・ボックス」インタビューでCNBCのアンドリュー・ロス・ソーキンに語った。
+「だから、私は今こそ、より多くのデータが入ってくるにつれてゆっくりと前進を始める時期だと主張した」と同氏は語った。
+労働市場は安定しつつあるものの、インフレ率はFRBの目標である2％を大きく上回っているため、当局者らが政策への適切なアプローチを審議するため、FOMCは年間を通じて保留されている。
+中東情勢の緊張が一時的に緩和され、原油価格が下落したことを受けて、６月のインフレ統計はある程度の改善を示した。
+しかし、カシュカリ総裁は、依然として状況に不安があり、FRBは消費者に圧力をかけている一連の供給ショックと呼ばれるものに対処する必要があると考えていると述べた。同氏は、委員会が9月15、16日の会合で何をするかは分からないと付け加え、今後のデータポイントが鍵になると述べた。市場の織り込みは来月の利上げに若干向けられており、10月には利上げの可能性が高まるとみられている。
+同氏は「私は金利の劇的な引き上げを求めているわけではない」と述べた。 「私が言いたいのは、現時点で金融政策がわずかに制限的であるという証拠は見当たらないということだ。インフレ率を元に戻すためには、やるべきことがまだあると思う。そして、後になってからインフレ問題が深刻化し、積極的な利上げが必要になるよりも、今から少しずつ取り組み始めたいと思う。」
+この発言は、カシュカリ氏と同じく今年のFOMCで投票権を持っているフィラデルフィア連銀のアンナ・ポールソン総裁が異なる見解を示した翌日に行われた。
+ポールソン氏はCNBCに対し、当局がデータの評価を続ける中、現在の金利水準が経済状況を「やや制限的」であり、据え置きを支持しているという証拠があると考えていると述べた。さらにポールソン氏は、会合で投票保留は「危機一髪ではない」と述べた。
+３回の「反対」票はケビン・ウォーシュ会長の在任中で初めてだった。しかしカシュカリ氏は、ウォーシュ氏は過去に低金利を好む姿勢を示しており、圧力はかけられなかったと述べた。
+「彼は私に『経済にとって正しいと思うことをしなさい』と言った。そして私はこう言いました、『本当に感謝しています』」とカシュカリさんは語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/feds-kashkari-says-now-is-the-time-to-start-slowly-moving-rates-up.html",
+    publishedAt: "2026-08-05T13:06:35+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "saudi-wealth-fund-and-jared-kushner-s-af-7b6309f7",
+    title: "Saudi wealth fund and Jared Kushner's Affinity finalize $55 billion EA Sports deal",
+    titleJa: "サウジのウェルスファンドとジャレッド・クシュナー氏のアフィニティが550億ドルのEAスポーツ契約を締結",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `A consortium led by the Public Investment Fund of Saudi Arabia has announced the completion of the $55 billion acquisition of video games maker Electronic Arts.
+The deal was also financed by private equity firm Silver Lake and Affinity Partners, which is led by President Donald Trump's son-in-law Jared Kushner.
+EA, which confirmed the deal late on Tuesday, said its stock has ceased trading and will be delisted from the Nasdaq. Its shareholders will receive $210 in cash per share.
+The deal represents further Saudi expansion into the world of sports and gaming. PIF's head of international investments Turqi Alnowaiser said in a statement that "entertainment and sports are key areas of strategic focus" for the fund.
+Analysts have previously highlighted the high level of debt EA is taking on as part of the deal, while questioning the future of its intellectual property.
+PIF is reportedly borrowing $20 billion from the deal's advisor JPMorgan to finalize proceedings, which is thought to be the largest leveraged buyout in history.
+Analysts told CNBC last year that the debt burden will see EA consolidate around its safest franchises, such as The Sims, Battlefield, and sports titles, rather than experiment with new IPs.
+"The debt hanging over their head isn't likely to create a shift in strategy," Michael Futter, F-Squared founder, told CNBC.
+"Instead, it will likely see leadership entrench themselves in the titles they think have the largest revenue potential, even if those also carry the largest risk."
+"I don't know how EA is going to service this debt without significant layoffs, studio closures, and possibly IP sell-off," he added.
+— CNBC's Lim Hui Jie also contributed to this report.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/saudi-wealth-fund-jared-kushner-ea-sports-deal.html",
+    publishedAt: "2026-08-05T12:08:58+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "anthropic-s-mythos-created-fake-identiti-92d99ea5",
+    title: "Anthropic's Mythos created fake identities to fool humans in new cyber incident",
+    titleJa: "Anthropic の Mythos は新たなサイバー事件で人間を欺くために偽の ID を作成した",
+    summaryJa: "Anthropic の Mythos モデルは、人間にオープンソース プロジェクトへの悪意のあるコードの更新を承認するよう圧力をかけようとして、偽のオンライン ID を作成し、フロンティア AI システムによって実行された新たなサイバー インシデントをマークしました。この事件は、英国に本拠を置く研究機関である AI セキュリティ研究所 (AISI) が安全装置を削除し、一部の安全フィルターを無効にし、モデルに意図的にインターネット アクセスを与えたサイバー評価中に発生しました。",
+    bodyOriginal: `Anthropic's Mythos model created fake online identities as it looked to pressure humans into approving malicious code updates to an open source project, marking yet another cyber incident carried out by a frontier AI system.
+The incident happened during a cyber evaluation where the U.K.-based AI Security Institute (AISI), a research body, had removed safeguards, disabled some safety filters, and deliberately given the models Internet access.
+OpenAI's GPT-5.6-Sol was also involved in other cybersecurity incidents during the evaluation.
+It comes after a series of cyber breaches carried out by models developed by Anthropic and OpenAI in recent weeks.
+They've prompted a wave of fears around the sophistication of AI systems and their potential to cause harm.
+During the routine cyber evaluation, the AISI identified AI agents powered by Anthropic and OpenAI models had engaged "in sustained, potentially harmful activity directed at real people and organisations."
+"Almost all of this behaviour (17 actions) came from a single model, Anthropic's Mythos 5, with 2 actions involving OpenAI's GPT-5.6-Sol with cyber classifiers (mechanisms to prevent misuse) disabled," the AISI said in a blog.
+It added that the attempts were unsuccessful and didn't result in any real-world harm.
+The models "were tested under 'deliberately permissive conditions' that are not representative of any of our production models," Anthropic said in a post on X. There was "no evidence here of an escape from a secure environment," it added.
+OpenAI told CNBC that "these incidents occurred during cyber evaluations conducted by evaluation partners in testing environments with reduced safeguards, under conditions that do not reflect ordinary use."
+Rising cybersecurity incidents
+The AISI tested the models under deliberately permissive conditions in order to assess their capability, including whether they could be used for cyberattacks,
+An agent powered by Anthropic's Mythos "researched the project's human maintainers, created multiple fake identities, and used the fake identities to socially engineer a real maintainer into approving the code."
+"When the agent's pull request was challenged in public, it edited its earlier activity to appear harmless and considered adopting a fresh identity to continue," the AISI said.
+The research body also found that as part of the same effort, the agent tried to contact real people directly, sending messages and files to persuade them to run malicious code.
+"Some messages carried harmful payloads, and some were attempts at social engineering; targeted at real people – something we've never previously observed."
+It's the latest in a string of cyber incidents that have thrown up big questions around the safety of frontier AI systems.
+Last week, Anthropic said it had uncovered three instances of models gaining unauthorized access to the production infrastructure of three different organizations.
+That followed OpenAI admitting its AI models went rogue and initiated what it called an "unprecedented" cyber attack against the company Hugging Face.
+In OpenAI's case, the model broke out of its testing environment by exploiting a previously unknown vulnerability to complete a task it was assigned.
+Anthropic's security incidents were in part caused by operational error. In the three incidents that the AI lab detected, its models accessed the Internet while interacting with a testing environment from one of its third-party evaluation partners called Irregular.
+The company said it prompted Claude that it was in a simulation with no internet access, but due to a "misunderstanding between us and our evaluation partner, this was not the case, and internet access was available."
+Lawmakers in the U.S. are already responding. Following the OpenAI-Hugging Face incident, the "AI Kill Switch Act" bill was introduced into Congress, which would require AI companies to maintain the ability to shut down, throttle or suspend their models.`,
+    bodyJa: `Anthropic の Mythos モデルは、人間にオープンソース プロジェクトへの悪意のあるコードの更新を承認するよう圧力をかけようとして、偽のオンライン ID を作成し、フロンティア AI システムによって実行された新たなサイバー インシデントをマークしました。
+この事件は、英国に本拠を置く研究機関である AI セキュリティ研究所 (AISI) が安全装置を削除し、一部の安全フィルターを無効にし、モデルに意図的にインターネット アクセスを与えたサイバー評価中に発生しました。
+OpenAI の GPT-5.6-Sol は、評価中に他のサイバーセキュリティ インシデントにも関与しました。
+これは、ここ数週間で Anthropic と OpenAI が開発したモデルによって実行された一連のサイバー侵害を受けてのことです。
+これらは、AI システムの高度化とその危害を引き起こす可能性に関する不安の波を引き起こしました。
+AISIは定期的なサイバー評価中に、AnthropicモデルとOpenAIモデルを利用したAIエージェントが「現実の人々や組織を対象とした持続的で潜在的に有害な活動」に従事していたことを特定した。
+AISIはブログで、「この行為（17件の行為）のほぼすべては、AnthropicのMythos 5という単一モデルによるものだった。そのうち2件の行為は、サイバー分類子（悪用を防ぐメカニズム）が無効になったOpenAIのGPT-5.6-Solに関係していた」と述べた。
+その試みは失敗に終わり、現実世界に損害を与えることはなかったと付け加えた。
+Anthropic は X への投稿で、これらのモデルは「当社の量産モデルを代表するものではない『意図的に許容された条件』の下でテストされた」と述べ、「安全な環境から脱出したという証拠はここにはなかった」と付け加えた。
+OpenAIはCNBCに対し、「これらのインシデントは、通常の使用を反映しない条件下で、安全対策が削減されたテスト環境で評価パートナーによって実施されたサイバー評価中に発生した」と語った。
+増加するサイバーセキュリティインシデント
+AISI は、サイバー攻撃に使用できるかどうかなどの機能を評価するために、意図的に許容された条件下でモデルをテストしました。
+Anthropic の Mythos を利用したエージェントは、「プロジェクトの人間のメンテナーを調査し、複数の偽の ID を作成し、その偽の ID を使用して本物のメンテナーにコードを承認させるソーシャル エンジニアリングを行いました。」
+「エージェントのプルリクエストが公の場で異議を申し立てられたとき、エージェントは以前のアクティビティを無害に見えるように編集し、継続するために新しいアイデンティティを採用することを検討した」とAISIは述べた。
+調査機関は、同じ取り組みの一環として、エージェントが実際の人々に直接連絡を取り、メッセージやファイルを送信して悪意のあるコードを実行するよう説得しようとしたことも発見した。
+「一部のメッセージには有害なペイロードが含まれており、一部のメッセージはソーシャル エンジニアリングの試みであり、現実の人々を標的としており、これまで私たちが観察したことのないものでした。」
+これは、最先端の AI システムの安全性に関して大きな疑問を投げかけている一連のサイバー事件の最新のものです。
+Anthropic は先週、モデルが 3 つの異なる組織の運用インフラストラクチャに不正アクセスした 3 つの事例を発見したと発表しました。
+これに続き、OpenAIは自社のAIモデルに不正があり、Hugging Face社に対して「前例のない」サイバー攻撃を開始したことを認めた。
+OpenAI の場合、モデルは、割り当てられたタスクを完了するために、これまで知られていなかった脆弱性を悪用してテスト環境から脱出しました。
+Anthropic のセキュリティ インシデントは、部分的には操作ミスによって引き起こされました。 AI ラボが検出した 3 件のインシデントでは、そのモデルが、サードパーティの評価パートナーの 1 つである Irregular のテスト環境と通信中に、インターネットにアクセスしていました。
+同社は、クロード氏に、インターネットにアクセスできない状態でシミュレーションを行っていたと伝えたが、「当社と評価パートナーとの間の誤解により、実際にはそうではなく、インターネットにアクセスできた」と述べた。
+米国の議員らはすでに反応を示している。 OpenAI-Hugging Face 事件を受けて、AI 企業にモデルのシャットダウン、スロットル、一時停止の機能を維持することを義務付ける「AI キルスイッチ法」法案が議会に提出されました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/anthropic-mythos-openai-security-breaches.html",
+    publishedAt: "2026-08-05T10:18:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "prioritise-new-jobs-over-green-targets-t-4415203b",
+    title: "Prioritise new jobs over green targets to win public contracts, firms told",
+    titleJa: "公共契約を獲得するためには、環境に優しい目標よりも新規雇用を優先するよう企業が語った",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Prioritise new jobs over green targets to win public contracts, firms told
+- Published
+Andy Burnham will tell firms bidding for public contracts to prove they are creating jobs rather than meeting green and social targets in a bid to get more people into work.
+The prime minister will overhaul the £90bn public procurement system so bidders have to show they are supporting young people into work and addressing local skills shortages.
+It comes as the government seeks to tackle the youth unemployment crisis, with Burnham saying he wants to create "growth in every postcode".
+But green groups criticised the plans, arguing supporting young people into work should not come at the expense of the environment.
+Companies bidding for government contracts are judged on a range of measures, including value for money and the extent to which they bring benefits to the local community.
+Under the changes, the weighting given to the benefits brought by companies will be doubled, from 10% to 20% for contracts worth £5m or more, the Cabinet Office said.
+Previously, this accounted for how companies created social value through measures such as equality and diversity, net zero and the post-Covid recovery.
+The new 20% measure will instead be based on job creation. Bidders will be given extra credit for creating local jobs paying above the minimum wage, plugging local skills gaps by offering training and particularly by offering 45-day work experience placements for young people.
+Office for National Statistics (ONS) figures show more than a million people aged 16 to 24 are currently not in education, employment or training (Neet).
+Burnham used a similar initiative to oversee a rise in the latter during his time as mayor of Greater Manchester.
+First Secretary of State Louise Haigh — who is effectively Burnham's deputy prime minister — said the procurement process in its current form was a "tick-box exercise".
+"Every pound of taxpayer money should be spent in a way that benefits local communities — creating good jobs and giving young people the skills they need for the future," she said.
+The new model will apply to both British and international firms bidding for public contracts.
+Haigh said: "These new rules will ensure the £90 billion that is spent each year through government contracts supports British jobs, skills and people in every postcode."
+Cabinet Office Minister Mark Ferguson said that businesses who secure government contracts "have a responsibility to give back".
+"Businesses that benefit from the billions of taxpayer pounds spent by government, will have to create more local jobs and opportunities for young people in their area," he said.
+But Greenpeace UK's head of politics Ami McCarthy said protecting the environment and helping young people into work are "mutually beneficial and one shouldn't come at a cost to the other".
+"Companies should be held to account with environmental targets to help achieve a better future without leaving young workers behind," she added.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-05T10:10:02+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a83a/live/7e71ea20-90ae-11f1-b35a-3be58eca94a8.jpg",
+    readTime: 2,
+  },
+  {
+    id: "vegetables-to-get-smaller-and-more-expen-d259c709",
+    title: "Vegetables to get smaller and more expensive due to hot weather, farmers warn",
+    titleJa: "暑い気候のせいで野菜が小さくなり、価格が高くなる、と農家が警告",
+    summaryJa: "暑い気候のせいで野菜が小さくなり、価格が高くなる、と農家が警告- 公開されました",
+    bodyOriginal: `Vegetables to get smaller and more expensive due to hot weather, farmers warn
+- Published
+This year's harvest could be the worst on record as farmers warn the exceptionally dry spring and summer could lead to "shrinkflation" in UK supermarkets.
+England and Wales saw their driest July since records began 190 years ago, according to the Met Office, and a drought has been declared across large parts of the country.
+The Energy and Climate Intelligence Unit (ECIU) thinktank said the UK's cereals and oilseed harvest could be 2.5 million tonnes less than earlier forecasts.
+Tim O'Malley, the chairman of Nationwide produce, said it was "as bad as its ever been" and that shoppers will likely see higher prices or smaller vegetables in supermarkets.
+The harvest of barley, oats and rapeseed, which are used in beer, breakfast cereals and vegetable oil, is estimated to drop to just 19.5 million tonnes, the worst since records began in 1984.
+That is compared with a previous low of 19.8 million tonnes in 2020, and would cost farmers £390m in lost revenue, the ECIU estimated.
+The crops are also used for feeding livestock, making them crucial across most of the food chain.
+O'Malley said consumers could feel the impact in the vegetable aisle too, where grocers are likely to swap in smaller produce at the same price, which is known as shrinkflation.
+"I think we're going to see shrinkflation," he told Radio 5 Live's Wake Up to Money.
+How cow showers and fans help farmers keep cattle cool
+- Published7 days ago
+"The problem we're going to have this year is a massive reduction in yield and major quality issues," O'Malley said.
+He said that will mean smaller sizes for fresh produce.
+"We've got crop with stress or we've got quality issues. So you will see a smaller crop," O'Malley said.
+He said supermarkets will "do everything" to keep prices where they are, but added: "eventually they will probably have to come to the party and increase the price, particularly if they start importing."
+Grocers are already bringing in more products from abroad because of the poor conditions at home.
+"We're importing broccoli and iceberg [lettuce] from Spain at this time of year, which in August [is] unheard of. I think we're going to see more of that, unfortunately," O'Malley said.
+He added: "Loud and clear, it's grim out there. I think it's as bad as it's ever been … Every record is being broken.
+"The difference in this year and last year, last year we had four heat waves. But in between them we had a bit of rain."
+Could heatwaves make your food shop more expensive?
+- Published1 day ago
+Farmers and millers adapting to early harvest
+- Published6 days ago
+Farmers source additional water for their crops and livestock over summer from a combination of stored winter rainfall on site, and by extracting it from natural sources - a process called abstraction.
+This can be from groundwater or from surface water, like rivers and streams.
+This summer has seen significant low rainfall affecting the amount of water available to draw from.
+Half of England and all of Wales have been declared to be in drought conditions by the Environment Agency.
+Wales has received just 8% of its average rainfall so far this month. England has received 7% of its average, with that figure as low as 1% across southern England.
+The high temperatures and repeated heatwaves have also increased evaporation rates which have particularly hit rivers.
+Climate change is expected to bring more severe, frequent and longer-lasting heatwaves in UK summers in the coming years - which could bring more water shortages for farmers.
+Tom Lancaster, land, food and farming analyst at the ECIU said: "At the start of spring farmers were hopeful of a better year, but the dry April and July and record-breaking heat have left farmers facing down the barrel of a third awful harvest in a row.
+"Farming is now the sector most exposed to climate change and the risks and damage that it brings."
+Martin Lines, head of the Nature Friendly Farming Network and a farmer from Cambridgeshire, said this year's harvest "has been a real kick in the teeth".
+"After two terrible harvests in a row, the crops this year were looking good and full of potential coming out of spring, only for months of drought and heatwaves to destroy any prospect of a decent harvest," he said.
+"I've never known it this dry and hot on our farm.
+"Even farmers I know who were sceptical of climate change are now saying they're really worried about the future of their businesses and production, it's just been completely brutal for our industry."
+Get in touch
+Has your farm or business been affected by the extreme weather?
+Related topics
+- Published6 days ago
+- Published1 day ago`,
+    bodyJa: `暑い気候のせいで野菜が小さくなり、価格が高くなる、と農家が警告
+- 公開されました
+農家らは異常に乾燥した春と夏の影響で英国のスーパーマーケットで「シュリンクフレーション」が起きる可能性があると警告しており、今年の収穫量は過去最悪となる可能性がある。
+気象庁によると、イングランドとウェールズは190年前に記録が始まって以来最も乾燥した7月を記録し、国の大部分で干ばつが宣言された。
+シンクタンクのエネルギー・気候情報局（ECIU）は、英国の穀物と油糧種子の収穫量が以前の予測より250万トン減少する可能性があると述べた。
+ネーションワイド・プロデュース社のティム・オマリー会長は、状況は「かつてないほどひどい」とし、買い物客はスーパーマーケットでより高い価格や小さな野菜を目にする可能性が高いと述べた。
+ビール、朝食用シリアル、植物油に使用される大麦、オート麦、菜種の収穫量はわずか1,950万トンに減少すると推定されており、1984年の記録開始以来最悪となる。
+これは、過去最低だった2020年の1,980万トンと比較すると、農家は3億9,000万ポンドの収入損失を被ることになるとECIUは試算している。
+作物は家畜の餌としても使用され、食物連鎖のほとんどにおいて重要なものとなっています。
+オマリー氏は、消費者は野菜売り場でも影響を感じる可能性があり、食料品店はシュリンクフレーションとして知られる、より小さな農産物を同じ価格で交換する可能性が高いと述べた。
+同氏はラジオ５ライブのウェイク・アップ・トゥ・マネーで、「シュリンクフレーションが起こると思う」と語った。
+カウシャワーとファンが農家の牛を涼しく保つのにどのように役立つか
+- 7 日前に公開
+「今年我々が直面するであろう問題は、収量の大幅な減少と重大な品質問題だ」とオマリー氏は語った。
+それは生鮮食品のサイズが小さくなることを意味すると彼は語った。
+「作物にストレスがかかっているか、品質に問題がある。そのため、作物は少なくなるだろう」とオマリー氏は語った。
+同氏は、スーパーマーケットは価格を現状維持するために「あらゆる努力をする」と述べたが、「最終的には、特に輸入を開始した場合、おそらくパーティーに参加して価格を引き上げなければならないだろう」と付け加えた。
+国内の状況が悪いため、食料品店はすでに海外からさらに多くの商品を持ち込んでいる。
+「我々はこの時期にスペインからブロッコリーとアイスバーグ（レタス）を輸入しているが、8月にそんなことは前代未聞だ。残念ながら、今後もそのようなことは増えるだろう」とオマリー氏は語った。
+さらに、「大声ではっきりと、外は厳しい状況だ。これまでで最もひどい状況だと思う…あらゆる記録が破られつつある」と付け加えた。
+「今年と昨年の違いは、昨年は4回の熱波があったことです。でもその間に少し雨が降りました。」
+熱波により食料品店の価格が上がる可能性はありますか?
+- 1 日前に公開
+早期収穫に適応する農家と製粉業者
+- 6 日前に公開
+農家は、夏の間、敷地内に蓄えられた冬の降雨を組み合わせて、自然源から水を抽出することによって、作物や家畜に必要な追加の水を調達します。これは「抽出」と呼ばれるプロセスです。
+これは、地下水からのものである場合もあれば、川や小川などの地表水からのものである場合もあります。
+今年の夏は降水量が大幅に減少し、利用可能な水の量に影響を与えました。
+環境庁はイングランドの半分とウェールズの全土が干ばつ状態にあると宣言した。
+ウェールズでは今月これまでの平均降水量のわずか8％にとどまっている。イングランドは平均の7％を受け取っているが、イングランド南部ではその数字が1％にとどまっている。
+高温と度重なる熱波により蒸発速度も増加し、特に河川に大きな影響を与えています。
+気候変動により、英国の夏は今後数年間でより深刻で頻繁、そして長期にわたる熱波が発生すると予想されており、農家にとってはさらに水不足が生じる可能性がある。
+ECIUの土地・食料・農業アナリストのトム・ランカスター氏は、「春の初めには農家は今年がより良い年になることを期待していたが、4月と7月の乾燥と記録的な暑さにより、農家は3年連続のひどい収穫に直面している」と語った。
+「農業は現在、気候変動とそれがもたらすリスクと被害に最もさらされている部門となっている。」
+自然に優しい農業ネットワークの代表でケンブリッジシャーの農家マーティン・ラインズ氏は、今年の収穫は「本当に衝撃的だった」と語った。
+同氏は、「２年連続でひどい収穫があった後、今年の作物は順調に見え、春からの可能性に満ちていたが、数カ月間の干ばつと熱波でまともな収穫の見通しが台無しになっただけだ」と述べた。
+「私たちの農場がこれほど乾燥していて暑いとは今まで知りませんでした。
+「気候変動に懐疑的だった私の知り合いの農家でさえ、今では自分たちのビジネスと生産の将来を本当に心配していると言っています。気候変動は私たちの業界にとってまったく残酷なことなのです。」
+連絡する
+あなたの農場やビジネスは異常気象の影響を受けていますか?
+関連トピック
+- 6 日前に公開
+- 1 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-05T08:53:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b52/live/461213f0-90bb-11f1-b8ee-9b3c26ad07bb.jpg",
+    readTime: 5,
+  },
+  {
     id: "novo-nordisk-ceo-defends-economics-of-we-7f90aed6",
     title: "Novo Nordisk CEO defends economics of Wegovy pill as lower prices weigh on sales; shares fall",
     titleJa: "ノボ ノルディスクの CEO は、価格下落が売上を圧迫する中、ウィゴビー錠剤の経済性を擁護。株が下落する",
@@ -1652,405 +1995,6 @@ BPは先週、同社による北海地域での60年にわたる生産に終止�
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d288/live/6e9f5aa0-8ff6-11f1-b2ab-0dd01740f9f6.jpg",
     readTime: 4,
-  },
-  {
-    id: "takaichi-s-fiscal-push-could-lift-growth-8449f451",
-    title: "Takaichi’s fiscal push could lift growth — and Japan’s already-rising interest bill",
-    titleJa: "高市氏の財政推進は成長率を押し上げる可能性があり、すでに上昇している日本の利子請求額も押し上げる可能性がある",
-    summaryJa: "高市早苗首相は食料品の消費税引き下げ計画を推進しており、これが成功すれば1989年の施行以来初めての減税となると伝えられている。火曜日、与党自民党は主要委員会でこの法案を進め、高市氏は今月までに閣議承認され、秋には法案が国会に上程されることを望んでいると日経が報じた。",
-    bodyOriginal: `Japanese Prime Minister Sanae Takaichi has pushed forward with her plan to slash the consumption tax on food, which reportedly would be the first time the tax will be cut since its implementation in 1989 if she succeeds.
-On Tuesday, the ruling Liberal Democratic party advanced the bill through key committees, with Nikkei reporting Takaichi wants cabinet approval by this month, and for the bill to be tabled in parliament in the autumn.
-Takaichi said last Thursday that Japan would cut the tax on food to 1% from 8% for two years from April 2027, and offer cash payments to offset the impact of that 1% on select groups.
-The food-tax cut captures the central gamble behind Takaichi's economic agenda: Japan is giving up revenue now in the hope that stronger consumption and an estimated 370 trillion yen (2.35 trillion) public-private investment plan through to the 2040 fiscal year will help boost growth.
-The plan, which will cut an estimated 4.4 trillion yen in revenue from the government's coffers has already drawn criticism from her own Liberal Democratic Party, including former ministers Taro Kono and Takeshi Iwaya. Nikkei also reported that former Prime Minister Shigeru Ishiba walked out of the meeting halfway.
-In a post on X, Kono, former defense minister under the Abe administration, warned that the plan could undermine confidence in Japan's fiscal position, push interest rates higher and weaken the yen.
-Iwaya, who served as foreign affairs minister in 2024 and 2025 has also argued against the cut, reportedly saying "The risk is very high. If the market reacts negatively, the yen will weaken further and import prices will rise."
-Even the International Monetary Fund urged Tokyo to not reduce the consumption tax in its 2026 country report, saying it was "an untargeted measure that would erode fiscal space and add to fiscal risks."
-Fiscal worries — and silver linings
-Takaichi has pledged not to use deficit-financing bonds to fund her schemes, instead the government has said it will review spending, tax breaks, subsidies and public funds, but details are scarce. She has also made it clear the the cut will be just for a 2-year period, after which the consumption tax will revert to 8%.
-Still, Japan grapples with one of the highest public debt levels in the world, with the International Monetary Fund projecting government debt at roughly 204% of gross domestic product in 2026, making any additional borrowing detrimental to its fiscal health.
-Justin Heng, APAC rates strategist at HSBC Global Investment Research, said Takaichi's latest economic blueprint had "effectively cemented" an expansionary fiscal stance, while the government had loosened its guardrails by moving away from a primary-surplus target for its budget.
-"With limited clarity on funding channels, additional debt issuance remains a plausible outcome," Heng said, warning that long-end Japanese government bond yields were likely to remain elevated.
-Japan's 10-year government bond yield was around 2.85% in Tuesday trading, close to multi-decade highs.
-Yields are rising because Takaichi's program is highly inflationary and markets fear the BOJ is behind the curve on inflation, Jesper Koll, expert director at Monex Group, said.
-The BOJ's commitment to continue raising interest rates and reduce JGB purchases is also likely to push up Japan's interest costs, which will constrain fiscal room.
-Debt-servicing costs already account for about a quarter of Japan's fiscal 2026 budget, with interest payments projected to rise from 13 trillion yen in the 2026 fiscal year to 21.6 trillion yen in the 2029 fiscal year under the Finance Ministry's 3% nominal-growth scenario.
-A possible silver lining is that the government's target of more than 370 trillion yen in investment could help support its fiscal health, while higher yields might draw some investors.
-Koll said the government's role would largely be to backstop projects, with around 90% of the financing expected to come from the private sector. If it draws in investment, raises productivity and expands the tax base, stronger growth could make Japan's debt burden more manageable, he added.
-Stefan Rittner, senior portfolio manager at Allianz Global Investors, said markets were more likely to accept measures that improve productivity, labor supply and long-term growth than spending aimed mainly at supporting consumption.
-"Japan's debt story is ultimately a growth story ... If fiscal spending lifts growth and productivity, markets will be more forgiving. If it merely supports consumption, investors may become more skeptical," Rittner said. "The market is not worried about one spending package. It would worry about a pattern."
-Another ray of hope is that higher yields could start drawing investors. John Li, head of Asia fixed income credit strategy at J.P. Morgan Private Bank, said the gap between long-term yields and the BOJ's 1% overnight rate could attract domestic buyers, including Japanese life insurers.`,
-    bodyJa: `高市早苗首相は食料品の消費税引き下げ計画を推進しており、これが成功すれば1989年の施行以来初めての減税となると伝えられている。
-火曜日、与党自民党は主要委員会でこの法案を進め、高市氏は今月までに閣議承認され、秋には法案が国会に上程されることを望んでいると日経が報じた。
-高市氏は先週木曜日、日本は2027年4月から2年間、食料品税を8％から1％に引き下げ、一部のグループに対する1％の影響を相殺する現金給付を行うと述べた。
-食料税減税は、高市氏の経済政策の背後にある中心的な賭けを捉えている。日本は消費拡大と2040会計年度までの推定370兆円（2兆3500億）の官民投資計画が成長押し上げにつながることを期待して、今、歳入を放棄している。
-この計画は推定4.4兆円の国庫からの歳入を削減するもので、河野太郎元大臣や岩屋毅元大臣を含む自民党からすでに批判を集めている。日経新聞は、石破茂元首相が途中退席したことも報じた。
-安倍政権下で元防衛大臣だった河野氏はXへの投稿で、この計画は日本の財政状況に対する信頼を損ない、金利上昇と円安を招く可能性があると警告した。
-2024年と2025年に外務大臣を務めた岩屋氏も「リスクは非常に高い。市場が否定的に反応すれば、円安がさらに進み、輸入価格が上昇する」と述べ、削減に反対したと伝えられている。
-国際通貨基金でさえ、2026年の国別報告書で消費税を減税しないよう日本政府に要請し、消費税は「財政余地を侵食し、財政リスクを増大させる的を絞っていない措置」であると述べた。
-財政上の懸念と希望の兆し
-高市氏は自身の計画の資金調達に赤字国債を利用しないと約束しており、代わりに政府は歳出、減税、補助金、公的資金を見直すとしているが、詳細はほとんど分かっていない。同氏はまた、減税は2年間のみで、その後は消費税が8％に戻ることも明らかにした。
-それでも、日本は世界で最も高い公的債務水準の一つに直面しており、国際通貨基金は2026年に政府債務が国内総生産の約204％になると予測しており、追加の借り入れは財政健全性に悪影響を及ぼすことになる。
-ＨＳＢＣグローバル・インベストメント・リサーチのアジア太平洋地域金利ストラテジスト、ジャスティン・ヘン氏は、高市氏の最新の経済青写真は拡張的な財政スタンスを「効果的に固めた」一方、政府は基礎的財政黒字目標から離れてガードレールを緩めたと述べた。
-ヘン氏は「資金調達経路の明確性が限られているため、追加国債発行は依然として妥当な結果だ」と述べ、日本の長期国債利回りは高止まりする可能性が高いと警告した。
-火曜日の取引で日本の10年国債利回りは約2.85％となり、数十年ぶりの高水準に近づいた。
-マネックスグループの専門ディレクター、ジェスパー・コル氏は、高市氏のプログラムはインフレ率が高く、市場は日銀がインフレ対策に乗り遅れていると懸念しているため、利回りが上昇していると述べた。
-日銀が利上げを継続し国債購入額を削減するとのコミットメントも、日本の金利コストを押し上げる可能性が高く、財政余地が制約されることになる。
-債務返済費はすでに2026年度予算の約4分の1を占めており、財務省の名目成長率3％シナリオでは利払い費は2026年度の13兆円から2029年度には21兆6,000億円に増加すると見込まれている。
-可能性のある希望の兆しは、370兆円以上という政府の投資目標が財政健全性の支援に役立つ可能性がある一方で、より高い利回りが一部の投資家を引き寄せる可能性があることだ。
-コル氏は、政府の役割は主にプロジェクトのバックストップであり、資金の約90％は民間部門から得られると予想されると述べた。同氏は、投資を呼び込み、生産性を高め、課税ベースを拡大すれば、力強い成長によって日本の債務負担がより管理しやすくなる可能性があると付け加えた。
-アリアンツ・グローバル・インベスターズのシニア・ポートフォリオ・マネジャー、ステファン・リットナー氏は、市場は主に消費支援を目的とした支出よりも生産性、労働供給、長期成長を改善する政策を受け入れる可能性が高いと述べた。
-リトナー氏は「日本の債務物語は最終的には成長物語だ…財政支出が成長と生産性を押し上げるのであれば、市場はより寛容になるだろう。単に消費を支援するだけであれば、投資家はより懐疑的になるかもしれない」と述べた。 「市場は単一の支出パッケージについては心配していない。パターンについては心配するだろう。」
-もう一つの希望の光は、利回りの上昇により投資家が集まり始める可能性があることだ。 JPモルガン・プライベート・バンクのアジア債券信用戦略責任者のジョン・リー氏は、長期利回りと日銀の翌日物金利1％との差が日本の生命保険会社を含む国内の買い手を引き寄せる可能性があると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/04/japan-takaichi-food-tax-cut-jgb-boj.html",
-    publishedAt: "2026-08-04T08:36:34+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "bp-profit-more-than-doubles-as-trump-bla-e81a4ced",
-    title: "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
-    titleJa: "トランプ大統領が大手石油会社を「儲けすぎ」と非難、BPの利益は2倍以上に",
-    summaryJa: "米国とイランの対立を背景にエネルギー大手が化石燃料価格の高騰で巨額の利益を得ているため、英国のBPは火曜日、第2四半期の利益が大幅に増加したと報告した。石油大手は4月から6月期に純利益の代用として基礎的交換費用利益として57億ドルを計上した。 LSEGがまとめたコンセンサスによると、この額はアナリスト予想の50億ドルを余裕で上回った。",
-    bodyOriginal: `Britain's BP on Tuesday reported a sharp upswing in second-quarter profit, as energy supermajors reap massive profits from higher fossil fuel prices amid hostilities between the U.S. and Iran.
-The oil giant posted underlying replacement cost profit, used as a proxy for net profit, of $5.7 billion for the April to June period. That comfortably beat analyst expectations of $5 billion, according to an LSEG-compiled consensus.
-BP's net profit came in at $2.35 billion over the same period last year and $3.2 billion for the first three months of 2026.
-The results come as oil and gas prices have surged amid the sprawling Middle East conflict. The fighting has severely disrupted shipping through the strategically vital Strait of Hormuz, a narrow maritime choke point that typically handles around a fifth of the world's oil and natural gas.
-U.S. President Donald Trump on Monday lashed out at U.S. oil majors Exxon Mobil and Chevron for making "too much money" off higher fuel prices amid the Iran war, reiterating his demand for lower prices at the pump.
-"They're making too much money based on a shortage," Trump told reporters at the White House. "I don't like it."
-Exxon's second-quarter profits more than doubled to $14.5 billion compared to a year ago, while Chevron's earnings soared by nearly 400% to $12 billion compared to $2.5 billion in the same period last year. CNBC has reached out to Exxon and Chevron for comment.
-Key highlights from Q2:
-- BP increased its dividend by 4% to 8.66 cents per ordinary share for the second quarter.
-- Operating cash flow came in at $10.9 billion after taking into account a $1 billion adjusted working capital build.
-- Net debt came in at $22.25 billion at the end of the second quarter, down from $25.3 billion at the end of March.
-BP CEO Meg O'Neill said the second-quarter results were underpinned by a strong performance across the group and responded to Trump's criticism of Big Oil.
-"Look, I understand the pressure that the ordinary household feels when they pull into the service station to fill up and see the prices. The reality is we produce a global commodity and the prices for the product we sell hangs off that global commodity price," O'Neill told CNBC's "Squawk Box Europe" on Tuesday.
-"What BP is doing is making sure that we are focused on the things we can do to try to help address the situation. We're driving hard on reliability, both on our upstream assets where we produce those barrels and the refining assets where we refine them."
-O'Neill said the company had made adjustments to how the firm's refining runs are set up to maximize the availability of products consumers most need at any point in time, citing jet fuel and diesel as an example.
-Analysts at Citi said BP's significant quarter-on-quarter reduction in net debt means the company has now lost its unwanted place as the highest-levered of the international oil companies, with further reductions expected in the second half of the year.
-"The scrapping of share buybacks at 4Q results undoubtedly a key contributor; the decision to raise dividends by 4% a partial acknowledgement of the improved financial strength," the analysts said in a research note.
-Simplification push
-BP said Tuesday it had launched the process to market Archaea Energy for a potential sale. The company had bought the U.S. biogas business for $4.1 billion in 2022 as it sought to expand its renewables business, a strategy it scrapped in early 2025.
-BP has been pushing ahead with its simplification drive as it doubles down on its core business model of oil and gas and divests non-core assets to reduce debt.
-The company said Monday that it had completed the sale of its Gelsenkirchen refinery and related businesses to investment firm Klesch Group, in a deal expected to lower the oil giant's underlying operating expenditure by around $1 billion.
-BP is also seeking to stabilize its management team after a turbulent period of executive turnover. The London-listed firm abruptly removed its chairman Albert Manifold in May after just eight months on the job. The board cited "serious concerns" related to governance standards, oversight and conduct, while Manifold has disputed the allegations.
-Shares of BP traded 0.8% higher on Tuesday morning. The stock has climbed more than 27% year-to-date.`,
-    bodyJa: `米国とイランの対立を背景にエネルギー大手が化石燃料価格の高騰で巨額の利益を得ているため、英国のBPは火曜日、第2四半期の利益が大幅に増加したと報告した。
-石油大手は4月から6月期に純利益の代用として基礎的交換費用利益として57億ドルを計上した。 LSEGがまとめたコンセンサスによると、この額はアナリスト予想の50億ドルを余裕で上回った。
-BPの純利益は前年同期比23億5000万ドル、2026年最初の3カ月は32億ドルとなった。
-この結果は、大規模な中東紛争の中で石油とガスの価格が高騰していることを受けて生じたものである。戦闘により、通常世界の石油と天然ガスの約5分の1を扱う狭い海上のチョークポイントである戦略的に重要なホルムズ海峡を通過する輸送が大幅に混乱した。
-ドナルド・トランプ米大統領は月曜日、イラン戦争中の燃料価格高騰で「儲けすぎている」として米石油大手エクソン・モービルとシェブロンを激しく非難し、燃料価格引き下げの要求を繰り返した。
-トランプ大統領はホワイトハウスで記者団に対し、「彼らは不足を理由に儲けすぎている」と語った。 "私はそれが気に入りません。"
-エクソンの第２・四半期利益は前年同期の２５億ドルから２倍以上の１４５億ドルに増加し、シェブロンの利益は前年同期の２５億ドルから４００％近く急増し１２０億ドルとなった。 CNBCはエクソンとシェブロンにコメントを求めた。
-第 2 四半期の主なハイライト:
-- BP は第 2 四半期の配当を 4% 増額して普通株 1 株あたり 8.66 セントにしました。
-- 調整後の運転資本構築額 10 億ドルを考慮すると、営業キャッシュ フローは 109 億ドルとなりました。
-- 第 2 四半期末の純負債は 222 億 5000 万ドルとなり、3 月末の 253 億ドルから減少しました。
-ＢＰのメグ・オニール最高経営責任者（ＣＥＯ）は、第２・四半期決算はグループ全体の好調な業績に支えられており、トランプ大統領の大手石油批判に応えたと述べた。
-オニール氏は火曜日、CNBCの「スコーク・ボックス・ヨーロッパ」で、「一般家庭が給油して価格を確認するためにガソリンスタンドに入るときに感じるプレッシャーを理解している。現実には、私たちは世界的な商品を生産しており、私たちが販売する製品の価格はその世界的な商品価格に依存している」と語った。
-「BPが取り組んでいることは、この状況に対処するために私たちができることに重点を置くことです。私たちは、バレルを生産する上流の資産と精製する精製資産の両方で、信頼性を重視して取り組んでいます。」
-オニール氏は、ジェット燃料とディーゼルを例に挙げ、消費者がいつでも最も必要とする製品を最大限に入手できるよう、同社の精製工程の設定方法を調整したと述べた。
-シティのアナリストらは、ＢＰの純負債が前四半期比で大幅に減少したことは、同社が国際石油会社の中で最もレバレッジが高いという望ましくない地位を失ったことを意味しており、今年下半期にはさらなる削減が見込まれると述べた。
-アナリストらはリサーチノートで「第４四半期の自社株買い廃止が主な要因であることは間違いない。４％増配の決定は財務体質の改善を部分的に認めたものだ」と述べた。
-簡素化の推進
-BPは火曜日、アーキア・エナジーの売却の可能性を売り込むプロセスを開始したと発表した。同社は再生可能エネルギー事業の拡大を目指し、2022年に米国のバイオガス事業を41億ドルで買収していたが、この戦略は2025年初めに撤回した。
-BPは石油・ガスの中核ビジネスモデルを倍増させ、債務削減のため非中核資産を売却するなど、簡素化推進を進めている。
-同社は月曜日、ゲルゼンキルヒェン製油所と関連事業の投資会社クレシュ・グループへの売却が完了したと発表した。この取引により、石油大手の実質的な営業支出は約10億ドル削減される見込みである。
-BPはまた、役員の交代という激動の時期を経て、経営陣の安定化を目指している。ロンドン上場の同社は、5月に就任わずか8カ月で会長のアルバート・マニフォールド氏を突然解任した。取締役会はガバナンス基準、監督、行為に関する「重大な懸念」を挙げたが、マニホールド側はこの申し立てに異議を唱えている。
-ＢＰの株価は火曜日午前に０．８％高で取引された。株価は年初来で２７％以上上昇した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-    publishedAt: "2026-08-04T08:11:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "treasury-yields-are-broadly-flat-as-inve-a182927e",
-    title: "Treasury yields are broadly flat as investors mull uncertainty around peace talks",
-    titleJa: "投資家が和平交渉を巡る不確実性を懸念し、米国債利回りはほぼ横ばい",
-    summaryJa: "投資家が中東の交渉状況を巡る不透明感が続いていることを考慮する中、火曜日の米国債利回りはほぼ横ばいとなった。米政府借入の主要指標である10年米国債利回りは横ばいの4.686％となった。",
-    bodyOriginal: `U.S. Treasury yields were broadly flat on Tuesday as investors mulled the ongoing uncertainty around the state of negotiations in the Middle East.
-The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — was flat at 4.686%.
-The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, was broadly flat at 4.250%. The longer-dated 30-year Treasury bond yield was also unmoved at 5.232%.
-One basis point is equal to 0.01%, and yields and prices move in opposite directions.
-The 30-year Treasury yield is hovering just below its highest level since 2007, as investors reacted to an apparently "hawkish hold" from Federal Reserve interest rate setters last week.
-Yields are struggling for direction as conflicting reports about the progress of U.S.-Iran talks have kept investors on tenterhooks.
-President Donald Trump has warned that the latest round of negotiations with Iran is the "last chance" to bring an end to the five-month conflict.
-However, Tehran continues to deny that any direct negotiations with the U.S. are taking place — or that there are plans to hold them in the future.
-Economic data set for release on Tuesday include JOLTs job openings as well as international trade figures for the month.
-— CNBC's Mike Sheen also contributed to this report.`,
-    bodyJa: `投資家が中東の交渉状況を巡る不透明感が続いていることを考慮する中、火曜日の米国債利回りはほぼ横ばいとなった。
-米政府借入の主要指標である10年米国債利回りは横ばいの4.686％となった。
-米連邦準備理事会（FRB）の短期金利政策とより密接に連動する2年物国債利回りは4.250％でほぼ横ばいとなった。 30年長期国債利回りも5.232％で動かなかった。
-1ベーシスポイントは0.01%に相当し、利回りと価格は逆方向に動きます。
-先週、米連邦準備理事会（FRB）の金利設定決定者による明らかに「タカ派的なホールド」に投資家が反応したため、30年米国債利回りは2007年以来の最高水準をわずかに下回る水準で推移している。
-米国とイランの協議の進展に関する相反する報道により投資家が緊張状態にあるため、利回りは方向感を見極めるのに苦労している。
-ドナルド・トランプ大統領は、イランとの最新の交渉ラウンドが5カ月にわたる紛争に終止符を打つ「最後のチャンス」であると警告した。
-しかし、イラン政府は米国との直接交渉が行われていないこと、あるいは将来的に交渉を行う計画があることを否定し続けている。
-火曜日に発表予定の経済指標には、JOLTの求人数や同月の国際貿易統計などが含まれる。
-— CNBC のマイク・シーン氏もこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html",
-    publishedAt: "2026-08-04T08:08:04+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-warns-iran-talks-are-last-chance-t-5298c501",
-    title: "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
-    titleJa: "トランプ大統領、イラン協議は戦争終結への「最後のチャンス」だと警告―イラン政府が交渉を拒否する中、原油価格は上昇",
-    summaryJa: "ドナルド・トランプ大統領は、イランとの最新の交渉ラウンドが5カ月にわたる紛争に終止符を打つ「最後のチャンス」であると警告した。トランプ大統領は月曜日遅く、大統領執務室で記者団に対し、イラン、サウジアラビア、アラブ首長国連邦、カタールなどの要請に応じて協議が「現在進行中」であると語った。",
-    bodyOriginal: `President Donald Trump has warned that the latest round of negotiations with Iran is the "last chance" to bring an end to the five-month conflict.
-Trump told reporters in the Oval Office late on Monday that talks are "going on right now," at the request of Iran, Saudi Arabia, the United Arab Emirates, Qatar and others.
-However, Tehran continues to deny that any direct negotiations with the U.S. are taking place — or that there are plans to hold them in the future.
-Iran's President Masoud Pezeshkian said on Tuesday that Tehran would continue to defend its borders but insisted it does not seek an expansion of the conflict, according to state media reports.
-"This is a last chance for them to sign a good document," Trump said.
-In a Truth Social post earlier on Monday, Trump described Iran's leaders as "unbelievably duplicitous" and accused them of lying about peace talks that are underway, "whether Iran wants to admit it or not."
-Iranian foreign ministry spokesperson Esmail Baghaei had again poured cold water on the notion of direct negotiations with the United States.
-Baghaei told a press conference on Monday that there is no immediate plan for negotiations with the U.S., reiterating that Tehran is currently only engaged in talks with Oman regarding the Strait of Hormuz.
-It came after the president decided to call off "massive attacks" on Iran to allow for talks he said were starting on Monday.
-The decision lifted market sentiment, with oil prices slumping in response.
-Oil prices rebounded slightly early on Tuesday as traders became less confident that a diplomatic solution to the conflict, which has upended energy markets, is in sight.
-West Texas Intermediate futures were up 1.29% at $81.38 per barrel as of 1:35 a.m. ET. Brent crude, the international benchmark, was up 1.73% at $85.23 a barrel.
-U.S. Central Command said on Monday it had redirected 44 commercial vessels as part of its ongoing blockade of the Strait of Hormuz, having disabled two and boarded two.
-Meanwhile, Iraqi pro-militia outlet Naya late on Monday reported an explosion in Kuwait overnight that could be heard in Basrah Province.`,
-    bodyJa: `ドナルド・トランプ大統領は、イランとの最新の交渉ラウンドが5カ月にわたる紛争に終止符を打つ「最後のチャンス」であると警告した。
-トランプ大統領は月曜日遅く、大統領執務室で記者団に対し、イラン、サウジアラビア、アラブ首長国連邦、カタールなどの要請に応じて協議が「現在進行中」であると語った。
-しかし、イラン政府は米国との直接交渉が行われていないこと、あるいは将来的に交渉を行う計画があることを否定し続けている。
-国営メディアの報道によると、イランのマスード・ペゼシキアン大統領は火曜日、イランは国境の防衛を継続すると述べたが、紛争の拡大は求めていないと主張した。
-トランプ大統領は「これは彼らにとって良い文書に署名する最後のチャンスだ」と語った。
-トランプ大統領は月曜日初めのトゥルース・ソーシャルへの投稿で、イラン指導者らを「信じられないほど二枚舌」と表現し、「イランが認めたいか否かに関わらず」進行中の和平交渉について彼らが嘘をついていると非難した。
-イラン外務省のエスマイル・バガエイ報道官は、米国との直接交渉の概念に再び冷や水を浴びせた。
-バガイ氏は月曜日の記者会見で、米国との当面の交渉計画はないと述べ、イラン政府は現在ホルムズ海峡に関するオマーンとの協議のみを行っていると繰り返した。
-これは、大統領が月曜に始まると述べた協議を可能にするため、イランへの「大規模攻撃」を中止することを決定した後の出来事だった。
-この決定は市場心理を高め、これを受けて原油価格も下落した。
-エネルギー市場を一変させた紛争に対する外交的解決の見通しが立ったという確信がトレーダーらの間で弱まり、原油価格は火曜序盤に若干反発した。
-ウェスト・テキサス・インターミディエート先物は東部時間午前１時３５分現在、１．２９％高の１バレル＝８１．３８ドルとなっている。国際ベンチマークであるブレント原油は１．７３％上昇し、１バレル＝８５．２３ドルとなった。
-米中央軍は月曜日、進行中のホルムズ海峡封鎖の一環として商船44隻の進路を変更し、2隻を航行不能にし、2隻を乗船させたと発表した。
-一方、イラクの親民兵メディア「ナヤ」は月曜遅く、クウェートで夜に爆発があり、バスラ州でも音が聞こえたと報じた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-08-04T07:04:07+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "cnbc-daily-open-a-u-s-yen-intervention-d-f3386993",
-    title: "CNBC Daily Open: A U.S. yen intervention dressed in euros",
-    titleJa: "CNBCデイリーオープン：ユーロを装った米ドル介入",
-    summaryJa: "こんにちは、シンガポールからフイ・ジエと申します。 CNBC のデイリー オープンの別版へようこそ。報道によると、敏感な米国債市場への悪影響を避けるため、米政府がこの介入の資金としてユーロを売ったことが示唆されており、先週の米国の円高介入は、見かけよりも世界的に重要な意味を持つ可能性がある。",
-    bodyOriginal: `Hello, this is Hui Jie writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.
-The U.S. intervention to bolster the yen last week may have more global significance than it appears, as reports suggest that Washington sold euros to fund this intervention to avoid any negative impact on the sensitive Treasury market.
-It's also earnings galore around the globe, with Amazon, HSBC and Aramco some of the big names that have reported today.
-What you need to know today
-Instead of selling dollars to help Japan prop up the yen as it had in previous interventions, the U.S. reportedly sold euros instead to fund the currency-buying operation, thereby weakening the greenback against the euro.
-What could be the reason? One possibility is that Washington wants to avoid destabilizing the sensitive Treasury markets. Industry veterans told CNBC that one of Washington's biggest concerns was avoiding a scenario where Japan would need to dump large quantities of Treasurys to finance unilateral intervention.
-The euro had strengthened to a high of 1.1558 against the greenback on Monday, hitting its strongest level in almost two months.
-Earnings galore
-In the U.S, Amazon hit a new all-time high on Monday, putting its market cap over the $3 trillion threshold for the first time following a better-than-expected earnings report last week.
-But this may be distorted by its stake in AI companies like OpenAI and Anthropic. Microsoft, Amazon and Alphabet booked sizable investment gains in the most recent quarter thanks to stakes in Anthropic and OpenAI, and in one case, SpaceX.
-Anthropic and OpenAI have both seen soaring valuations in private markets, with each valued just south of $1 trillion amid the ongoing AI boom.
-HSBC, Europe's second-largest bank by assets, reported a results beat, with second-quarter pre-tax profit of $10.1 billion on Tuesday, exceeding analysts' estimates on the back of stronger growth in banking net interest income and other higher fees.
-Second-quarter profit before tax rose 60% year-on-year, also helped by a net favorable impact from notable items of $2.6 billion, the company said.
-Middle East oil giant Saudi Aramco on Tuesday reported a jump in second-quarter profit, beating expectations and following a period of severe disruption through the Strait of Hormuz.
-The results come as oil supermajors have reported blowout quarterly profits, benefitting from higher fossil fuel prices amid hostilities between the U.S. and Iran.
-— Lim Hui Jie
-And finally...
-Hugging Face CEO says China is winning the AI race and dominating on open models
-Hugging Face CEO Clément Delangue said China is winning the artificial intelligence race with open-weight models and could catch up to U.S. model makers as soon as this year.
-"They're clearly dominating on open models right now, and I wouldn't be surprised if they start dominating at the frontier either by the end of this year or next year at the rate of progress," he told CNBC's "Squawk on the Street" on Monday.
-Fueling this revolution is the open collaboration and sharing ecosystem in China, while model makers in the U.S. are "building in silos" and risk falling behind, he said.
-— Samantha Subin`,
-    bodyJa: `こんにちは、シンガポールからフイ・ジエと申します。 CNBC のデイリー オープンの別版へようこそ。
-報道によると、敏感な米国債市場への悪影響を避けるため、米政府がこの介入の資金としてユーロを売ったことが示唆されており、先週の米国の円高介入は、見かけよりも世界的に重要な意味を持つ可能性がある。
-また、アマゾン、HSBC、アラムコなどの大手企業が今日報告したように、世界中で利益が溢れている。
-今日知っておくべきこと
-以前の介入のように日本が円を下支えするためにドルを売るのではなく、米国は通貨買い作戦の資金調達のためにユーロを売り、それによって対ユーロでドルを下落させたと伝えられている。
-何が原因でしょうか?可能性の一つは、ワシントン政府が敏感な米国債市場の不安定化を避けたいということだ。業界のベテランらはCNBCに対し、米国政府の最大の懸念の一つは、一方的な介入の資金調達のために日本が大量の国債を放出する必要があるというシナリオを回避することだと語った。
-ユーロは月曜日に対米ドルで１．１５５８ドルの高値まで上昇し、ほぼ２カ月ぶりの高値を付けた。
-豊富な収益
-米国では、アマゾンが月曜日に史上最高値を更新し、先週の予想を上回る決算報告を受けて時価総額が初めて3兆ドルの大台を突破した。
-しかし、これはOpenAIやAnthropicといったAI企業への出資によって歪められている可能性がある。 Microsoft、Amazon、Alphabetは、AnthropicとOpenAI、そしてあるケースではSpaceXの株式のおかげで、直近の四半期にかなりの投資利益を記録した。
-Anthropic と OpenAI はどちらも民間市場での評価額が高騰しており、AI ブームが続く中、それぞれの評価額は 1 兆ドルをわずかに下回っています。
-資産で欧州第２位の銀行であるＨＳＢＣは火曜日、第２・四半期の税引き前利益が１０１億ドルとなり、銀行純利息収入の堅調な伸びやその他手数料の上昇を背景にアナリストの予想を上回る好決算を報告した。
-第２・四半期の税引前利益は前年同期比６０％増加し、これも２６億ドルの注目項目による純好影響に支えられたと同社は述べた。
-中東の石油大手サウジアラムコは火曜日、ホルムズ海峡での深刻な混乱期間を経て第２・四半期利益が予想を上回って大幅に増加したと報告した。
-この結果は、米国とイランの間の敵対関係による化石燃料価格の上昇の恩恵を受けて、石油大手が四半期利益が大幅に増加したと報告している中で明らかになった。
-— リム・フイジエ
-そして最後に...
-ハグ・フェイスCEO、中国はAI競争に勝利し、オープンモデルで優位に立つと語る
-ハギング・フェイスのクレマン・ドゥラング最高経営責任者（CEO）は、中国は無差別級モデルで人工知能の競争に勝ちつつあり、早ければ今年中に米国の模型メーカーに追いつく可能性があると述べた。
-同氏は月曜日、CNBCの番組「スコーク・オン・ザ・ストリート」で、「彼らは現在オープンモデルで明らかに優位に立っており、この進歩の速度で今年末か来年までにフロンティアで優位に立ち始めても驚かないだろう」と語った。
-この革命を促進しているのは、中国のオープンなコラボレーションと共有エコシステムである一方、米国の模型メーカーは「サイロ化」を進めており、後れをとるリスクがあると同氏は述べた。
-— サマンサ・スビン`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/04/cnbc-daily-open-yen-intervention-dollar-euro-fx.html",
-    publishedAt: "2026-08-04T07:01:46+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "could-heatwaves-make-your-food-shop-more-56369f31",
-    title: "Could heatwaves make your food shop more expensive?",
-    titleJa: "熱波により食料品店の価格が上がる可能性はありますか?",
-    summaryJa: "熱波により食料品店の価格が上がる可能性はありますか?- 公開されました",
-    bodyOriginal: `Could heatwaves make your food shop more expensive?
-- Published
-While this summer's hot and dry weather might be enjoyed by sunbathers, it is less than ideal for farmers. Could it also have an effect on the prices we pay for food at the shops?
-A chilled supermarket aisle might just be the most comfortable place to be as heatwaves continue to warm up the UK.
-Fridges are working in overdrive to keep produce cool, shutters are being pulled down to keep the hot air at bay, and some goods are being taken off the shelves on the hottest days.
-More than half of England has entered drought conditions, according to a declaration by the Environment Agency last week.
-But as temperatures continue to soar, the chillers are not the only thing that retailers might be adjusting.
-Extreme weather creates a knock-on effect on all parts of the supply chain, and the British Retail Consortium is warning that could force prices up.
-What is a supply chain?
-A supply chain involves a small number of stages, from a product being made until it gets to the shops for people to buy.
-If you take a loaf of bread as an example, first the grain is grown, harvested, milled and stored until it is ready to be taken to a factory.
-Those ingredients are used to bake and package the bread, which is taken to warehouses before eventually ending up on supermarket shelves.
-Each stage of that process will incur expenses such as transport and storage, and rising costs at any step could end up in the product you buy being more expensive.
-Last week, farmers and flour producers said they were adapting to the challenges of dealing with the earliest harvest for 50 years.
-And the National Farmers' Union has warned there could be a shortage of certain food products if current drought conditions continue.
-More from Cambridgeshire:
-"One week of hot weather will not make a loaf of bread more expensive," says Prof Manoj Dora, director of the Centre for Intelligent Supply Chains at Anglia Ruskin University, which has campuses in Cambridgeshire and Essex.
-But he says prices could rise if supplies of crops run out, largely because of how it would affect the very beginning of the supply chain.
-"We may see that meat, milk, eggs, and chicken will be impacted by [a lack of] animal feed," he says.
-"Across different food products, prices could surge if we do not manage these things immediately."
-Dora describes the UK's supply chain as "resilient" so the effects of the heatwave may not be felt immediately.
-"We need to start thinking of the long term by reconfiguring our supply chain in terms of locations and transportation, and by supporting the farmers," he adds.
-Are there enough supplies?
-Simon Willis, chief executive of Cambridge-based grain storage co-operative Camgrain, says drought conditions mean this year's crops have not been able to reach their full potential.
-Harvest usually starts in early August, he says, but after a very dry spring it has already been and gone.
-"This year's very dry harvest will mean that the quality will be good but the yield will be down," he tells BBC Radio Cambridgeshire.
-David Wheatley, an arable farmer from Wisbech St Mary in Cambridgeshire, says he thinks farmers are likely to be hit harder than consumers by heatwaves.
-"A lot of contracts with supermarkets are already agreed a year in advance, so [farmers] are not going to get paid any more money even though their yields are down this year.
-"I don't really think it's going to affect the prices in the supermarkets, because they can just bring more food in from other countries."
-But Dora says imported goods could also be affected, particularly wine from countries such as France, which has also faced severe high temperatures.
-"Wine has not just a quantity problem, but also a quality problem," the academic explains.
-Are retailers prepared?
-The British Retail Consortium says climate change is creating challenges for both retailers and their suppliers.
-"Extreme weather, including drought, can affect crop yields and place upward pressure on prices," its director of food and sustainability policy Andrew Opie says.
-"Retailers are experienced in managing supply disruptions and will take all necessary steps, including sourcing from alternative suppliers where appropriate, to minimise any impact on customers."
-Do you have a story suggestion for Cambridgeshire? Contact us below.
-Get in touch
-Your Voice
-Follow Cambridgeshire news on BBC Sounds, Facebook, external, Instagram, external and X, external.
-- Published4 days ago
-- Published4 days ago
-- Published5 days ago`,
-    bodyJa: `熱波により食料品店の価格が上がる可能性はありますか?
-- 公開されました
-今年の夏の暑くて乾燥した気候は、日光浴をする人にとっては楽しいかもしれませんが、農家にとっては理想的とは言えません。私たちが店で支払う食品の価格にも影響を与える可能性はありますか?
-英国では熱波による温暖化が続いているため、冷えたスーパーマーケットの通路が最も快適な場所かもしれない。
-冷蔵庫は農産物を冷たく保つためにフル稼働し、熱気を防ぐためにシャッターが下ろされ、最も暑い日には一部の商品が棚から撤去されています。
-先週の環境庁の宣言によると、イングランドの半分以上が干ばつ状態に陥っている。
-しかし、気温が上昇し続ける中、小売業者が調整している可能性があるのは冷却装置だけではありません。
-異常気象はサプライチェーンのあらゆる部分に波及効果をもたらし、英国小売コンソーシアムは価格上昇を強いられる可能性があると警告している。
-サプライチェーンとは何ですか?
-サプライチェーンには、製品が製造されてから人々が購入できる店舗に届くまで、いくつかの段階が含まれます。
-パンを例にとると、まず穀物が栽培され、収穫され、製粉され、工場に持ち込まれる準備が整うまで保管されます。
-これらの材料はパンを焼いて包装するために使用され、パンは倉庫に運ばれて最終的にスーパーマーケットの棚に並びます。
-そのプロセスの各段階では輸送や保管などの費用が発生し、どの段階でもコストが上昇すると、最終的に購入する製品の価格が高くなる可能性があります。
-先週、農家と小麦粉生産者は、50年ぶりの収穫に対処するという課題に適応していると述べた。
-また全国農民組合は、現在の干ばつ状況が続けば特定の食品が不足する可能性があると警告している。
-ケンブリッジシャーからの詳細:
-ケンブリッジシャーとエセックスにキャンパスを持つアングリア・ラスキン大学インテリジェント・サプライチェーン・センター所長のマノージ・ドーラ教授は、「1週間の猛暑でパンの価格が上がることはない」と話す。
-しかし同氏は、農作物の供給がなくなると価格が上昇する可能性があると述べ、その主な理由はそれがサプライチェーンの最初の部分にどのような影響を与えるかということだという。
-「肉、牛乳、卵、鶏肉が動物飼料（の不足）によって影響を受ける可能性があります」と彼は言う。
-「これらを直ちに管理しなければ、さまざまな食品の価格が高騰する可能性があります。」
-ドーラ氏は、英国のサプライチェーンは「回復力がある」ため、熱波の影響がすぐには感じられない可能性があると説明する。
-「私たちは、場所や輸送の観点からサプライチェーンを再構成し、農家を支援することで、長期的なことを考え始める必要があります。」と彼は付け加えました。
-物資は十分ですか？
-ケンブリッジに本拠を置く穀物貯蔵協同組合カムグレインの最高経営責任者サイモン・ウィリス氏は、干ばつの状況により、今年の作物はその潜在力を最大限に発揮できていないことを意味していると語る。
-収穫は通常8月上旬に始まるが、春が非常に乾燥した後はすでに収穫は終わっている、と彼は言う。
-「今年は非常に乾燥した収穫なので、品質は良いが収量は減るだろう」と彼はBBCラジオ・ケンブリッジシャーに語った。
-ケンブリッジシャー州ウィズベック・セント・メアリーの耕作農家、デビッド・ウィートリー氏は、農家は消費者よりも熱波による打撃を受ける可能性が高いと考えていると語る。
-「スーパーマーケットとの契約の多くはすでに1年前に合意されているため、たとえ今年の収穫量が下がったとしても、（農家は）それ以上のお金を受け取ることはない。
-「スーパーマーケットの価格が影響を受けるとはあまり思えません。スーパーマーケットは他国からより多くの食品を持ち込めるだけだからです。」
-しかしドーラ氏は、輸入品、特に同じく厳しい高温に見舞われているフランスなどの国からのワインも影響を受ける可能性があると述べた。
-「ワインには量の問題だけでなく、品質の問題もあります」とこの学者は説明する。
-小売業者は準備ができていますか?
-英国小売コンソーシアムは、気候変動が小売業者とそのサプライヤーの両方に課題をもたらしていると述べている。
-「干ばつなどの異常気象は農作物の収量に影響を与え、価格に上昇圧力をかける可能性がある」と食料・持続可能性政策担当ディレクターのアンドリュー・オピー氏は言う。
-「小売業者は供給中断の管理に経験があり、顧客への影響を最小限に抑えるために、必要に応じて代替サプライヤーからの調達を含め、必要なあらゆる措置を講じます。」
-ケンブリッジシャーに関するストーリーの提案はありますか?下記までお問い合わせください。
-連絡する
-あなたの声
-BBC Sounds、Facebook、外部、Instagram、外部、X でケンブリッジシャーのニュースをフォローしてください。
-- 4 日前に公開
-- 4 日前に公開
-- 5 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cp879d2n3yno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T05:46:25+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d489/live/d8a062c0-8f63-11f1-8659-31d8ca04a20f.jpg",
-    readTime: 5,
-  },
-  {
-    id: "ai-is-helping-grab-ship-products-3-times-8c46e970",
-    title: "AI is helping Grab ship products 3 times faster, CFO says, as company raises forecasts",
-    titleJa: "Grab は AI のおかげで製品の出荷が 3 倍速くなったと CFO が語る、同社の業績予想引き上げ",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Grab, Southeast Asia's leading ride-hailing and delivery firm, raised its full-year outlook on Tuesday as it reported record second-quarter results, with resilient consumer demand across the region holding up despite macroeconomic headwinds.
-Shares of the Nasdaq-listed company rose 4.86% in extended trading.
-"AI is now embedded in the Grab way of life, whether it's in our products or the way we work," Grab CFO Peter Oey told CNBC's "Squawk Box Asia", adding that the technology has helped the company ship products three times faster translating into better margins and a more efficient cost structure.
-The company saw a 28% year-on-year jump in the number of rides in the second quarter, Oey said. "It's one of the highest that we've seen."
-The company's revenue grew 22% year on year to $997 million and its operating profit came at $19 million for the quarter ended in June, up 186%.
-Grab lifted its full-year revenue outlook to $4.10 billion-$4.15 billion from $4.04 billion to $4.10 billion forecast earlier, and raised it's EBITDA estimates to $720 million-$740 million, from $700 million-$720 million.
-"We're seeing demand continue to be very strong in the business in the month of July itself, and our financial services continue to scale and are at an inflection point today," Oey said, expressing confidence in the business outlook.
-On Grab's agreement to buy Delivery Hero's foodpanda business in Taiwan, Oey said the company was working closely with regulators and has not yet closed the transaction, and hopes to complete it in the second half of this year.
-"A lot of the products that the Southeast Asian community has been seeing and using day in and day out, we want to bring to the Taiwan market as well," he said.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html",
-    publishedAt: "2026-08-04T03:03:18+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "us-states-sue-to-block-trump-tariffs-imp-0f95cdfd",
-    title: "US states sue to block Trump tariffs impacting dozens of countries",
-    titleJa: "米国各州、数十カ国に影響を与えるトランプ大統領への関税阻止を訴え",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `US states sue to block Trump tariffs impacting dozens of countries
-- Published
-Twenty five US states sued the administration of US President Donald Trump on Monday over new tariffs of 10% to 12.5% on goods from 60 trading partners.
-The tariffs came into effect in July, targeting countries including the UK and China as well as the European Union, over Washington's contention that they have failed to properly tackle forced labour.
-In a legal document seen by the BBC, the coalition of Democratic states said the decision was "arbitrary, capricious, and contrary to law."
-In response, White House spokesman Kush Desai said: "The US is using its lawful authority" to address practices that burden American businesses.
-Desai added that any foreign country's failing to deal with the importation of goods produced with forced labour was "unreasonable" and must be addressed.
-The new tariffs were imposed on major trading partners like Japan, Brazil and Taiwan under Section 301 of the 1974 US Trade Act, legislation which is designed to target nations that use forced labour.
-The duties cover 99.4% of US imports, according to the Office of the US Trade Representative (USTR).
-The lawsuit said the Trump administration "cannot use forced labour as a pretext to continue its illegal tariff scheme."
-"The tariffs the USTR imposed are so broad that they defy the USTR's own stated aims and make a mockery of the statute used to justify them," it said.
-"President Trump's illegal tariffs are nothing more than a tax on hardworking families," said New York Governor Kathy Hochul.
-"Despite losing every step of the way, Trump is trying yet again to inflict more chaos on working families and homegrown Oregon businesses," Oregon Attorney General Dan Rayfield said in a statement.
-"We're all paying the price for these unlawful tariffs, not foreign governments," he added.
-Several of the affected trading partners have expressed disappointment over the new tariffs, with Brazil and Japan's governments separately calling the measures "unjustified".
-China's foreign ministry spokesperson Mao Ning described the tariffs as an "excuse for political manipulation". Washington and Beijing have been locked in a tit-for-tat tariffs war which is currently on hold.
-Some analysts have also questioned how countries would be able to show that they had properly addressed the forced labour claims.
-It marks the latest move in a slew of trade policies unveiled by Trump since he returned to office in January 2025.
-Many of the wide-ranging duties Trump imposed on global trading partners in his so-called "Liberation Day" tariffs in April last year were struck down by the US Supreme Court.
-"The Supreme Court has made it clear that this administration cannot ignore the law to impose sweeping tariffs," Hochul said.
-The court's decision prompted tens of billions of dollars in refunds to companies that had paid the levies.
-The president has long argued that tariffs protect American workers and boost the US economy.
-The tariffs that were struck down were replaced by a temporary 10% levy on all global imports. Those tariffs expired in July.
-More tariffs could also be on the horizon as the US is currently investigating 16 countries over claims of manufacturing overcapacity.
-Related topics
-- Published24 July`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T02:53:00+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bc/live/e2d6f280-8f96-11f1-8063-579175a552d9.jpg",
-    readTime: 2,
   },
 ];
 
