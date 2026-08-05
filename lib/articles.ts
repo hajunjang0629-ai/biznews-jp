@@ -15,6 +15,272 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "novo-nordisk-ceo-defends-economics-of-we-7f90aed6",
+    title: "Novo Nordisk CEO defends economics of Wegovy pill as lower prices weigh on sales; shares fall",
+    titleJa: "ノボ ノルディスクの CEO は、価格下落が売上を圧迫する中、ウィゴビー錠剤の経済性を擁護。株が下落する",
+    summaryJa: "ノボ ノルディスクの CEO は、投資家が四半期決算を受けて同社の株価を下げる中、同社のウィゴビー薬は価格低下にもかかわらず収益性の高い成長を促進できると投資家を安心させようとした。デンマークの同社は、予想を上回る調整後売上高と営業利益を報告したことを受けて通期業績予想を引き上げたが、投資家は依然として価格圧力、収益の質、そしてオーラルWegovyがノボの運命を復活させるのに十分な成長原動力になれるかどうかに注目していた。",
+    bodyOriginal: `Novo Nordisk's CEO sought to reassure investors that its Wegovy pill can drive profitable growth despite lower prices, as investors sent the drugmaker's shares lower following quarterly results.
+The Danish company raised its full-year guidance after reporting better-than-expected adjusted sales and operating profit, but investors remained focused on pricing pressure, the quality of the earnings beat and whether oral Wegovy can become a large enough growth driver to revive Novo's fortunes.
+Novo said lower prices continued to weigh on sales, but CEO Mike Doustdar said that rising volumes and the early performance of the Wegovy pill showed the strategy was working.
+"We would not be able to... show a positive growth on the top and the bottom if items like the pill were not doing well and were not profitable," Doustdar told CNBC's Carolin Roth on Wednesday.
+Doustdar also told reporters the company was seeking a "sweet spot" between pricing and volume, arguing that lower prices were driving strong demand and that Novo would continue adjusting prices as the market evolves.
+In the second quarter, "we have a solid volume uptick, well into double-digit numbers, while, of course, we are having a headwind and a challenge because of the prices on our financials this year," he said.
+'Nothing to inspire'
+Novo Nordisk's quarterly beat and guidance increase did little to resolve Wall Street's biggest concern: whether the Ozempic maker has a convincing path back to sustainable growth as competition from Eli Lilly intensifies.
+Analysts said the better-than-expected quarter benefited from rebate adjustments and other temporary factors, obesity drug sales were broadly in line with expectations, and oral Wegovy slightly missed forecasts.
+At the same time, Novo reported another mixed clinical result for next-generation weight-loss drug CagriSema, reinforcing investor questions about the company's longer-term pipeline.
+"Overall nothing to inspire," Citi analysts wrote, while Jefferies said the guidance increase left little room for consensus sales estimates to move higher.
+The Danish drugmaker hiked its full-year guidance and said it now expects adjusted sales and operating profit to be down 6% to flat at constant exchange rates, an improvement from previous guidance of a decline of between 4% and 12% for both metrics.
+Adjusted sales rose 7% at constant exchange rates in the second quarter, while adjusted operating profit increased 11%, with volume growth partly offset by lower prices.
+Copenhagen-listed shares fell as much as 5% in morning trading before paring some losses to last trade 4.3% lower after the quarterly report was published one day earlier than expected.
+Novo is racing to restore investor confidence in its pipeline and ability to execute, especially in the challenging U.S. market, amid intense pressure from Eli Lilly's rival medicines Zepbound and Mounjaro, which have rapidly gained market share despite being launched years after Novo's.
+Coming into Wednesday trading, the company's Danish shares had fallen about 5% year-to-date and were down nearly 70% from their mid-2024 peak, even if they have recovered some ground this year following the Wegovy pill launch.
+A future pill market
+Novo said the improved outlook was driven by increased expectations for GLP-1 product sales and specifically its Wegovy product portfolio, which includes both an injectable and a pill. The pill has reached more than 5 million prescriptions since its launch, alongside encouraging early uptake in markets outside the U.S. and the rollout of a newly approved higher dose of injectable Wegovy, Novo said.
+"I could see a future where actually this market is, to a large extent, a pill market," Doustdar told CNBC, while stressing that the launch was only six months old.
+He also pushed back on concerns that momentum was slowing after oral Wegovy sales came in slightly below some analyst forecasts.
+"The fine detail is that [the] first 1 million prescriptions took us 11 weeks to do without any competitor in the market. This last 1 million prescriptions took us four weeks to do, while there's a competitor out there trying really hard to take those prescriptions away from us, and we have not allowed that," he said.
+Novo said around 80% of patients taking the pill had not previously used a GLP-1 treatment, suggesting it is expanding the obesity market rather than simply drawing users away from injectable Wegovy.
+Brian Mulberry, chief market strategist at Zacks Investment Management, told CNBC over email that Novo management is counting on patients preferring pills over injections to fuel growth, but warned success will depend on the company's ability to execute and scale.
+Eli Lilly launched its rival weight loss pill Foundayo in April, roughly four months after the Wegovy pill hit the U.S. market. It has seen slower initial uptake, and Lilly CEO David Ricks has previously told CNBC that it will take time to build the brand since it's a new drug that doctors and patients don't know.
+Eli Lilly is set to report earnings early Wednesday.`,
+    bodyJa: `ノボ ノルディスクの CEO は、投資家が四半期決算を受けて同社の株価を下げる中、同社のウィゴビー薬は価格低下にもかかわらず収益性の高い成長を促進できると投資家を安心させようとした。
+デンマークの同社は、予想を上回る調整後売上高と営業利益を報告したことを受けて通期業績予想を引き上げたが、投資家は依然として価格圧力、収益の質、そしてオーラルWegovyがノボの運命を復活させるのに十分な成長原動力になれるかどうかに注目していた。
+ノボ社は、価格下落が引き続き売上の重しとなっていると述べたが、最高経営責任者（CEO）のマイク・ドゥスダー氏は、量の増加とウィゴビー錠剤の初期の実績は戦略が機能していることを示していると述べた。
+「もし錠剤のような商品の業績が悪く、収益が上がらなかったら、我々は上値も下値もプラスの成長を示すことはできなかったでしょう」とドゥスダー氏は水曜日、CNBCのキャロリン・ロスに語った。
+ドゥスダール氏はまた記者団に対し、同社は価格と販売量の間の「スイートスポット」を模索していると述べ、低価格が強い需要を促進しており、ノボは市場の進化に応じて価格調整を続けると主張した。
+第2四半期には「当社の販売量は堅調に増加しており、2桁の数字に達しているが、もちろん、今年の財務上の価格のせいで逆風と課題に直面している」と同氏は述べた。
+「インスピレーションを与えるものが何もない」
+ノボ ノルディスクの四半期業績とガイダンスの引き上げは、イーライリリーとの競争が激化する中、オゼンピックメーカーが持続可能な成長に戻る説得力のある道筋を持っているかどうかという、ウォール街の最大の懸念を解決するにはほとんど役立たなかった。
+アナリストらは、予想を上回った四半期はリベート調整やその他の一時的要因の恩恵を受け、肥満治療薬の売上高はほぼ予想と一致したが、オーラル・ウィゴビーは予想をわずかに下回ったと述べた。
+同時に、ノボは次世代減量薬カグリセマに関する別の異なる臨床結果を報告し、同社の長期パイプラインに対する投資家の疑問を強化した。
+シティのアナリストらは「全体的には刺激となるものは何もない」と書いている一方、ジェフリーズ氏はガイダンスの引き上げによりコンセンサスとなる売上高予想が上振れる余地はほとんどないと述べた。
+デンマークの製薬会社は通期見通しを引き上げ、調整後の売上高と営業利益は為替変動の影響を除いて6％減から横ばいになると予想していると述べ、両指標とも4％から12％減という従来の見通しから改善した。
+第 2 四半期の調整後売上高は為替変動の影響を除いて 7% 増加し、調整後営業利益は 11% 増加しましたが、販売量の増加が価格下落によって部分的に相殺されました。
+コペンハーゲンの上場株式は午前の取引で最大５％下落したが、四半期報告書が予想より１日早く発表されたことを受け、最終取引では４．３％安と一部の損失を軽減した。
+ノボは、イーライリリーのライバル医薬品であるゼップバウンドとムンジャロからの強い圧力の中で、特に困難な米国市場において、自社のパイプラインと実行能力に対する投資家の信頼を回復しようと懸命に取り組んでいる。両社はノボの何年も後に発売されたにもかかわらず、急速に市場シェアを獲得している。
+水曜日の取引開始時点で、同社のデンマーク株は年初から約5％下落し、ウィゴビー錠剤の発売を受けて今年はある程度回復したとはいえ、2024年半ばの最高値からは70％近く下落した。
+将来の錠剤市場
+ノボは、見通しの改善はGLP-1製品の売上高、特に注射剤と錠剤の両方を含むWegovy製品ポートフォリオに対する期待の高まりによってもたらされたと述べた。ノボ社によると、この錠剤は発売以来500万件以上の処方箋に達し、米国外の市場での早期普及が促進され、新たに承認された高用量の注射用ウィゴビーの展開も促進されたという。
+「この市場がかなりの部分で錠剤市場になる未来が見えている」とドゥスダール氏はCNBCに語り、立ち上げはまだ半年しか経っていないと強調した。
+同氏はまた、ウィゴビーの口頭売上高が一部アナリスト予想をわずかに下回ったことで勢いが鈍化しているとの懸念を押し返した。
+「細かい点としては、最初の100万枚の処方は、市場に競合他社がいなかったため、11週間かかったということだ。最後の100万枚の処方には4週間かかったが、その処方箋を私たちから奪おうと懸命に努力している競合他社があり、私たちはそれを許さなかった」と同氏は述べた。
+ノボ社は、ピルを服用している患者の約80％がこれまでにGLP-1治療を使用したことがないと述べ、単に注射剤のWegovyからユーザーを引き離しているのではなく、GLP-1治療が肥満市場を拡大していることを示唆していると述べた。
+ザックス・インベストメント・マネジメントのチーフ市場ストラテジスト、ブライアン・マルベリー氏は電子メールでＣＮＢＣに対し、ノボの経営陣は患者が注射より錠剤を好むことで成長を促進できると期待しているが、成功は同社の実行力と規模拡大能力にかかっていると警告した。
+イーライリリーは、ウィゴビー錠剤が米国市場に登場してから約4か月後の4月に、ライバルの減量薬ファウンダヨを発売した。初期の普及は遅れており、リリーの最高経営責任者（CEO）デイビッド・リックス氏は以前CNBCに対し、医師や患者が知らない新薬であるためブランドの構築には時間がかかると語った。
+イーライリリーは水曜日初めに決算を発表する予定だ。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
+    publishedAt: "2026-08-05T08:32:08+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "spacex-dives-10-after-ai-spending-surge-f3d20f2e",
+    title: "SpaceX dives 10% after AI spending surge rattles investors",
+    titleJa: "AI支出の急増で投資家が動揺し、SpaceXが10％急落",
+    summaryJa: "CEOのイーロン・マスク氏は、スペースX社は2031年の従来予想に対し、2030年には年間売上高が1兆ドルに達すると述べ、強気の姿勢を打ち出すつもりだと語った。",
+    bodyOriginal: `SpaceX shares plunged on Wednesday after a surge in AI spending rattled investors and clouded an otherwise expectation-beating quarter.
+The stock was down over 10% in premarket trading.
+In SpaceX's first earnings report as a public company on Tuesday, Elon Musk's space firm said its capital expenditures jumped sixfold to $18.4 billion in the second quarter. This figure was ahead of analyst expectations, with the majority of the spending going towards AI.
+The company's stock closed at just over $125 on Tuesday, sitting below its $135 IPO price. It is well off its more than $200 all-time high that was hit shortly after its listing.
+Investors have been on edge this earnings season as concerns rise about whether large tech companies can prove their multibillion-dollar investments are yielding returns.
+While SpaceX's own models are seen as behind OpenAI and Anthropic, the company is positioning itself as an alternative cloud player by renting out the computing capacity that it is building with Nvidia chips.
+SpaceX's CFO Bret Johnsen looked to allay investor fears over capex spending. The company has been "efficient" with its spending, he said on an earnings call.
+"On the AI compute side, we're able to deploy capital in such a way that we're getting less than a one-year payback," Johnsen added.
+The share price fell even as SpaceX narrowed its losses and promised significant future revenue. Musk said SpaceX would hit $1 trillion in annual revenue in 2030 versus a previous forecast of 2031.
+"SpaceX wants to tell the story they're the market leader ... But people still have these questions: how quickly can they grow? How big are the costs going to be before this thing gets to profitability?" Steve Westly, founder of The Westly Group and a former Tesla board member, told CNBC's "Squawk Box Europe" on Wednesday.
+The company is contending with another potential market-moving event on Thursday — the expiration of insider lock-ups. This means that insiders can finally sell a portion of their shares.`,
+    bodyJa: `AI支出の急増が投資家を動揺させ、予想を上回る四半期に曇りをもたらしたことを受けて、スペースX株は水曜日に急落した。
+株価は市場前の取引で１０％以上下落した。
+イーロン・マスク氏率いる宇宙企業スペースXは、火曜日に公開企業として初めての決算報告を発表し、第2四半期の設備投資は6倍の184億ドルに急増したと述べた。この数字はアナリストの予想を上回っており、支出の大部分はAIに向けられていた。
+同社株は火曜日の終値が125ドル強で、IPO価格の135ドルを下回った。上場直後に付けた２００ドルを超える過去最高値を大幅に上回っている。
+大手ハイテク企業が数十億ドル規模の投資が収益を上げていることを証明できるかどうかについて懸念が高まる中、今決算シーズンは投資家が神経をとがらせている。
+SpaceX の独自モデルは OpenAI や Anthropic の背後にあるとみなされていますが、同社は Nvidia チップで構築しているコンピューティング能力を貸与することで、代替クラウドプレーヤーとしての地位を確立しています。
+スペースXのブレット・ジョンセン最高財務責任者（CFO）は、設備投資に対する投資家の不安を和らげようと努めた。同氏は決算会見で、同社は支出を「効率的に」行ってきたと述べた。
+「AI コンピューティングの面では、投資回収期間が 1 年未満になるような方法で資本を投入できています」とジョンセン氏は付け加えました。
+スペースXが損失を縮小し、将来の多額の収益を約束したにもかかわらず、株価は下落した。マスク氏は、スペースX社の年間売上高は2031年の従来予測に対し、2030年には1兆ドルに達すると述べた。
+「SpaceXは、自分たちが市場リーダーであるというストーリーを伝えたいのですが…しかし、人々は依然として次のような疑問を抱いています。どのくらいのスピードで成長できるのか？これが収益性を得るまでにどれくらいのコストがかかるのか？」ウェストリー・グループの創設者で元テスラ取締役のスティーブ・ウェストリー氏は水曜日、CNBCの「スコーク・ボックス・ヨーロッパ」で語った。
+同社は木曜日に市場を動かす可能性のある別のイベント、つまりインサイダーロックアップの期限切れと闘っている。これは、内部関係者が最終的に自社株の一部を売却できることを意味する。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+    publishedAt: "2026-08-05T08:20:46+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "spacex-shares-sink-after-first-earnings-150a5e25",
+    title: "SpaceX shares sink after first earnings report reveals huge AI spending plans",
+    titleJa: "最初の決算報告で巨額のAI支出計画が明らかになり、SpaceX株は下落",
+    summaryJa: "最初の決算報告で巨額のAI支出計画が明らかになり、SpaceX株は下落- 公開されました",
+    bodyOriginal: `SpaceX shares sink after first earnings report reveals huge AI spending plans
+- Published
+SpaceX has delivered its first-ever quarterly business report, which showed revenue nearly doubled but its spending skyrocketed.
+The company, run by Elon Musk, builds space rockets and Starlink internet satellites and owns the social media platform X. It began trading on the US stock market in June.
+SpaceX said its revenue had grown 92% to $7.8bn (£5.8bn) compared with a year ago, but its spending was up more than 550% to $18.3bn, on top of a net loss of $2bn during the first six months of the year.
+Its stock fell nearly 9% in after-hours trading. Musk said during a call with financial analysts and investors afterwards that people seemed to be "underestimating" SpaceX.
+He cited Starlink, the one part of the company that is currently making a profit, bringing in $1.6bn in the second quarter. Musk said he expects that business to grow exponentially in the coming years.
+"It's not out of the question that, at some point, Starlink will operate most of the world's internet," Musk said.
+He also spoke of an expected and rapid growth of SpaceX's emerging line of business selling compute power needed for artificial intelligence (AI) projects to other companies, which currently include Google and Anthropic.
+Although SpaceX currently has 1.4 gigawatts of such compute power ready to use, Musk said that sometime next year that capacity should hit at least 10 gigawatts through its ongoing development of data centres.
+Musk said during the call: "Data centres are a trivial problem compared to making reusable rockets."
+Making rockets is SpaceX's core business, but the company's space segment showed a $542m net loss against $962m in revenue for the second quarter.
+SpaceX's AI business also lost $1.2bn during the quarter, on revenue of $2.5bn.
+Bret Johnson, head of finance for SpaceX, said during the call that the company's capital spending would continue at a "very similar" level for the rest of the year.
+Nevertheless, Musk said that SpaceX would likely hit $1tn in revenue by 2030, a year earlier than he thought just six weeks ago.
+Despite this optimism, shares of SpaceX fell by more than 7% in after hours trading on Tuesday, wiping out gains made during the day.
+Musk going 'all in' on AI
+Matt Britzman, senior equity analyst at Hargreaves Lansdown, said that because Musk was going "all in" on data centres, the company "could soon resemble an AI infrastructure company with an extraordinary space business attached".
+"Analysts are still trying to work out what the business should look like, while Elon Musk is already describing what it might become over the next decade," he said.
+"Starship and the next generations of Starlink remain critical to the post-2030 vision, but the financial engine over the next few years will increasingly be AI."
+Responding to Musk's comment that investors were "underestimating" the firm, Brady Wang from Counterpoint Research said the subscription numbers for Starlink are "strong", but it is the only SpaceX business unit making an operating profit.
+The firm's AI business is still losing money as spending rises, so it is "a stretch" to say the whole company is being underestimated, said Fabien Yip, an analyst from investment platform IG.
+Wendy Souvannarath, the chief executive of Carré Partners, which has invested in SpaceX, told BBC News that "every tech giant is spending like this right now" on AI.
+She told the Today programme that SpaceX was treating its investment in AI as a running cost and expects it to pay for itself within a year.
+Souvannarath said that even though "Elon Musk will always be Elon Musk", she remained convinced by SpaceX.
+"There is fact, there [are] figures, there is a vision that we can see," she said.
+"Half the planet has bad internet because cables never reached them. So basically Starlink puts the network in the sky instead."
+Controversies around Musk's politics have moved the needle for some investors before and remains a "live risk" for SpaceX too, Yip added.
+SpaceX has struggled to hold on to investor enthusiasm despite making history with the largest-ever public listing and then briefly eclipsing the market valuation of established titans like Microsoft and Amazon.
+Shares of the space technology company have steadily drifted down in price since reaching an on-the-day high of $176 in June.
+It has been trading lower than its original $135 per share debut price for the last several weeks.`,
+    bodyJa: `最初の決算報告で巨額のAI支出計画が明らかになり、SpaceX株は下落
+- 公開されました
+スペースXは史上初の四半期事業報告書を発表し、その報告書では収益がほぼ2倍になったが、支出が急増したことが示された。
+イーロン・マスク氏が経営する同社は、宇宙ロケットやスターリンク・インターネット衛星を製造し、ソーシャルメディアプラットフォームXを所有している。6月に米国株式市場で取引を開始した。
+スペースXは、売上高が1年前と比べて92％増加して78億ドル（58億ポンド）となったが、支出は550％以上増加して183億ドルとなり、上半期の純損失は20億ドルだったと発表した。
+同社株価は時間外取引で９％近く下落した。マスク氏はその後、金融アナリストや投資家との電話会議で、人々はスペースXを「過小評価」しているようだと述べた。
+同氏は、現在利益を上げている企業の一部であるスターリンクを挙げ、第2四半期に16億ドルをもたらした。マスク氏は、ビジネスが今後数年間で飛躍的に成長すると予想していると語った。
+マスク氏は「ある時点でスターリンクが世界のインターネットの大部分を運営することは不可能ではない」と述べた。
+同氏はまた、人工知能（AI）プロジェクトに必要な計算能力を他の企業（現在はグーグルやアンスロピックなど）に販売するスペースXの新興事業分野の急速な成長が期待されることについても語った。
+SpaceXは現在、1.4ギガワットのそのような計算能力をすぐに使用できる状態にしているが、マスク氏は、進行中のデータセンターの開発を通じて、来年のいつかその容量は少なくとも10ギガワットに達するはずだと語った。
+マスク氏は電話会談で、「再利用可能なロケットの製造に比べれば、データセンターは些細な問題だ」と語った。
+ロケット製造はスペースXの中核事業だが、同社の宇宙部門の第2四半期の売上高は9億6,200万ドルに対し、純損失は5億4,200万ドルだった。
+SpaceXのAI事業も同四半期に12億ドルの損失を出し、売上高は25億ドルとなった。
+スペースXの財務責任者ブレット・ジョンソン氏は電話会議で、同社の設備投資は年内は「ほぼ同様の」水準で続くだろうと述べた。
+それにも関わらず、マスク氏は、スペースXはわずか6週間前に考えていたよりも1年早く、2030年までに売上高が1兆ドルに達する可能性が高いと述べた。
+こうした楽観的な見方にもかかわらず、スペースX株は火曜日の時間外取引で7％以上下落し、日中の上昇分を帳消しにした。
+マスク氏、AIに「全力」で取り組む
+ハーグリーブス・ランズダウンの上級株式アナリスト、マット・ブリッツマン氏は、マスク氏がデータセンターに「全力で」取り組んでいることから、同社はすぐに「並外れた宇宙事業を伴うAIインフラ企業に似る可能性がある」と述べた。
+同氏は、「アナリストらは依然としてビジネスがどうあるべきかを解明しようとしているところだが、イーロン・マスク氏はすでに今後10年間でビジネスがどうなるかを説明している」と述べた。
+「Starship と Starlink の次世代は、2030 年以降のビジョンにとって依然として重要ですが、今後数年間の金融エンジンはますます AI になるでしょう。」
+投資家が同社を「過小評価」しているというマスク氏のコメントに対し、カウンターポイント・リサーチのブレイディ・ワン氏は、スターリンクの加入者数は「好調」だが、スペースX事業部門の中で営業利益を上げているのは同社だけだと述べた。
+投資プラットフォームIGのアナリスト、ファビアン・イップ氏は、支出の増加により同社のAI事業は依然として損失を出しており、会社全体が過小評価されていると言うのは「言い過ぎ」だと述べた。
+スペースXに投資しているカレ・パートナーズのウェンディ・サウバンナラス最高経営責任者（CEO）はBBCニュースに対し、「ハイテク大手は現在、このような支出をしている」と語った。
+彼女はトゥデイ番組に対し、スペースXはAIへの投資をランニングコストとして扱っており、1年以内に元が取れると期待していると語った。
+サウバンナラス氏は、「イーロン・マスクはいつまでもイーロン・マスクであり続ける」にもかかわらず、スペースX社に確信を持ち続けたと語った。
+「事実があり、数字があり、私たちが見ることができるビジョンがあります」と彼女は言いました。
+「地球上の半分のインターネットは、ケーブルが届かないため、インターネット環境が悪くなります。つまり、スターリンクは、代わりにネットワークを空に設置するのです。」
+マスク氏の政治をめぐる論争は、これまでも一部の投資家の関心を動かしてきたが、スペースXにとっても依然として「生きたリスク」であるとイップ氏は付け加えた。
+スペースXは史上最大規模の上場という歴史を作り、その後一時的にマイクロソフトやアマゾンといった老舗大手の市場評価を上回ったにもかかわらず、投資家の熱意を維持するのに苦労してきた。
+宇宙技術企業の株価は、6月にその日の高値である176ドルに達して以来、着実に価格を下げている。
+過去数週間、当初の1株当たりのデビュー価格135ドルを下回る水準で取引されている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0qvpveg20vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-05T08:18:03+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a14/live/a0d16bc0-903d-11f1-a691-e5bd21941ac1.jpg",
+    readTime: 5,
+  },
+  {
+    id: "europe-is-blowing-up-riverbeds-as-an-ext-295cca66",
+    title: "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+    titleJa: "極度の干ばつが経済に大打撃を与え、ヨーロッパで川底が爆破されている",
+    summaryJa: "ヨーロッパの干ばつは非常に深刻で、各国の経済成長を脅かしており、河川敷を爆破するなどの極端な措置を余儀なくされている。夏の異常気象に見舞われたルーマニアは最近、ドナウ川で冷却された唯一稼働中の原子炉を初めて停止し、ブカレストは水の流れを改善するために水中爆発を実行するために海軍も派遣した。",
+    bodyOriginal: `The drought in Europe is so severe that it is jeopardizing countries' economic growth and forcing them to take extreme measures like blowing up riverbeds.
+Gripped by a summer of weather extremes, Romania recently shut down its sole working nuclear reactor cooled by the Danube for the first time, with Bucharest even deploying naval forces to carry out underwater detonations to improve water flow.
+Images published Monday showed the Romanian navy blasting rocks in controlled explosions in Izvoarele village as part of a push to divert a higher volume of water toward the cooling systems of the Cernavoda Nuclear Power Plant.
+Low water levels on the Danube have also threatened to close Hungary's Paks nuclear plant, which supplies around 40% of the country's electricity, and forced Serbia to cut hydropower generation.
+Why low Rhine levels threaten Germany's economy
+In Germany, the water levels on the Rhine River, a crucial waterway in Europe's economic heartland, have fallen to their lowest levels in nearly 150 years, posing a risk to the German economy and further disrupting supply chains.
+The water level at Kaub, a key choke point for vessels transiting to southern Germany and Switzerland, fell to 24 centimeters on Monday and Tuesday, reflecting its lowest level since records began in 1880, with forecasts of even lower levels toward the end of this week, according to official data compiled by ETH Zurich.
+That's far below the critical level of 78 centimeters at the Kaub gauge for navigation on the Rhine. Transport is still possible below this threshold, but cargo barges must be less heavily loaded, and freight transport costs and low-water surcharges rise sharply.
+"Major rivers like the Rhine and Danube are critical trade corridors and sources of water for industry and energy generation, so when water levels fall, the effects extend far beyond the waterways themselves," Liz Saccoccia, water security lead at the World Resources Institute, told CNBC by email.
+"We're already seeing that happen. Nuclear plants in Hungary, Romania and France, along with hydropower facilities in Serbia, have already had to reduce electricity generation because there isn't enough water for cooling or driving turbines, increasing the risk of blackouts and costly electricity imports," Saccoccia said.
+"Along the Danube, low water levels have prevented farmers from shipping their crops and stopped cruise ships from reaching ports such as Budapest. These are early examples of how increasingly unreliable water supplies can ripple through the economy, affecting trade, energy security, supply chains and local businesses," she added.
+What low water levels mean for freight and supply chains
+The issue shines a light on a critically important environmental issue: water scarcity.
+The issue is especially acute across southern Europe, where around 30% of the population is known to be situated in areas with permanent water stress: when water demand exceeds the available supply.
+In economic terms, the effects of low water levels on the Rhine could be enough to dampen German gross domestic product (GDP) by up to 0.2 percent in the third quarter, according to Stefan Kooths, professor of economics at the Kiel Institute for the World Economy (IfW).
+"Since water levels are unlikely to rise sharply back above the critical threshold in early August, transport capacity is likely to remain affected by the low water levels for some time in the coming month as well," Kooths told CNBC by email.
+"The loss in value added can be roughly estimated at 1 to 2 billion euros ($1.15 billion to $2.3 billion) in the third quarter," he added.
+How climate change is increasing Europe's drought risk
+Felix Schmidt, senior economist at the private German bank Berenberg, said companies in Europe's traditional growth engine had likely not been caught by surprise by the Rhine's low water levels because climate change means this has become a recurring challenge.
+Businesses have prepared by either stocking up on inventories or diverting the transport of some goods via rail or road, although Schmidt acknowledged that freight rates were currently going "through the roof," exacerbating inflationary worries.
+"Given that Germany is growing very little, obviously, if we grow 0.1 instead of 0.2 then this means we lose half of the growth, if you want to frame it like that," Schmidt told CNBC in a phone interview.
+The German economy expanded by 0.2% in the second quarter, compared to the previous three-month period. That followed an upwardly revised 0.4% quarter-on-quarter increase in the first quarter.
+Schmidt described drying rivers as just one expression of Germany's economic struggle amid the intensifying climate crisis.
+"Water levels are obviously one thing but we had this heat wave in Germany a couple of weeks back, impacting big parts of northern Europe, which brings down productivity. You have infrastructure which gets destroyed by the heat. You have energy supply, which is affected, like the nuclear plants being shut down in Hungary, France and Switzerland," Schmidt said.
+"You also have the catastrophic development like the fires sweeping now in southern Europe … So, it's affecting the economy in many, many ways," he added.`,
+    bodyJa: `ヨーロッパの干ばつは非常に深刻で、各国の経済成長を脅かしており、河川敷を爆破するなどの極端な措置を余儀なくされている。
+夏の異常気象に見舞われたルーマニアは最近、ドナウ川で冷却された唯一稼働中の原子炉を初めて停止し、ブカレストは水の流れを改善するために水中爆発を実行するために海軍も派遣した。
+月曜に公開された画像には、チェルナヴォーダ原子力発電所の冷却システムに大量の水を振り向ける取り組みの一環として、ルーマニア海軍がイズヴォアレレ村で制御された爆発で岩石を爆破している様子が映っていた。
+ドナウ川の水位低下により、国内電力の約40％を供給しているハンガリーのパクス原子力発電所も閉鎖の恐れがあり、セルビアは水力発電の削減を余儀なくされている。
+ライン川の水位低下がドイツ経済を脅かす理由
+ドイツでは、欧州経済の中心地の重要な水路であるライン川の水位が約１５０年ぶりの最低水準に低下し、ドイツ経済にリスクをもたらし、サプライチェーンにさらなる混乱をもたらしている。
+チューリヒ工科大学がまとめた公式データによると、ドイツ南部とスイスを通過する船舶にとって重要なチョークポイントであるカウブの水位は、月曜と火曜に24センチまで低下し、1880年の記録開始以来の最低水準を反映しており、今週末にはさらに水位が下がると予想されている。
+これはライン川の航行に必要なカウブ水位計の臨界レベルである78センチメートルをはるかに下回る。この基準値を下回っても輸送は可能ですが、貨物バージの積載量を減らす必要があり、貨物輸送コストと低水サーチャージが急激に上昇します。
+「ライン川やドナウ川などの主要な河川は、重要な貿易回廊であり、産業やエネルギー生成のための水源であるため、水位が低下すると、その影響は水路自体をはるかに超えて広がります」と世界資源研究所の水安全保障責任者、リズ・サッコッチャ氏は電子メールでCNBCに語った。
+「私たちはすでにそれが起こっているのを目の当たりにしています。ハンガリー、ルーマニア、フランスの原子力発電所は、セルビアの水力発電施設とともに、すでに発電量を削減しなければなりません。冷却やタービンの駆動に必要な水が不足しており、停電や高価な電力輸入のリスクが高まっているためです」とサッコッチャ氏は述べた。
+「ドナウ川沿いでは、水位の低下により農家は農作物を出荷できず、クルーズ船がブダペストなどの港に着くことができなくなっている。これらは、ますます不安定化する水供給が経済に波及し、貿易、エネルギー安全保障、サプライチェーン、地元企業に影響を与える可能性があることを示す初期の例だ」と彼女は付け加えた。
+水位低下が貨物チェーンとサプライチェーンに何を意味するか
+この問題は、水不足という非常に重要な環境問題に光を当てています。
+この問題は特に南ヨーロッパ全域で深刻であり、人口の約 30% が永続的な水ストレス、つまり水の需要が利用可能な供給量を超える地域に住んでいることが知られています。
+キール世界経済研究所（IfW）の経済学教授ステファン・クース氏によると、経済面では、ライン川の水位低下の影響は第3四半期にドイツの国内総生産（GDP）を最大0.2％押し下げるのに十分な可能性があるという。
+クース氏は電子メールでＣＮＢＣに対し、「水位が８月初旬の臨界基準を超えて急激に上昇する可能性は低いため、輸送能力は来月もしばらくの間、低水位の影響を受け続ける可能性が高い」と語った。
+同氏はさらに「第３・四半期の付加価値損失は１０億─２０億ユーロ（１１億５０００万─２３億ドル）と概算できる」と付け加えた。
+気候変動がヨーロッパの干ばつリスクをどのように高めているのか
+ドイツの民間銀行ベレンベルクのシニアエコノミスト、フェリックス・シュミット氏は、欧州の伝統的な成長エンジンである企業は、ライン川の水位の低下に驚かなかった可能性が高いと述べた。なぜなら、気候変動により、ライン川の水位の低下が繰り返しの課題となっているからだ。
+企業は在庫を蓄えたり、一部の商品の輸送を鉄道や道路に変更したりすることで備えているが、シュミット氏は、運賃が現在「天井知らず」に上昇しており、インフレ懸念が悪化していることを認めた。
+シュミット氏はCNBCの電話インタビューで、「ドイツの成長率が非常に低いことを考えると、明らかに、0.2ではなく0.1成長すれば、そのように組み立てたいのであれば、成長の半分を失うことになる」と語った。
+第２・四半期のドイツ経済は前３カ月比で０．２％拡大した。第１・四半期の前期比０．４％増に上方修正されたことに続く。
+シュミット氏は、川の乾燥は気候危機が激化する中でのドイツの経済闘争の一つの表現に過ぎないと述べた。
+「水位は明らかに問題ですが、数週間前にドイツで熱波が発生し、北ヨーロッパの大部分に影響を及ぼし、生産性が低下しました。熱で破壊されるインフラがあり、ハンガリー、フランス、スイスの原子力発電所が停止するなど、エネルギー供給にも影響が出ています」とシュミット氏は語った。
+「また、現在南ヨーロッパで猛威を振るっている火災のような壊滅的な事態も発生しており、非常に多くの面で経済に影響を与えている」と同氏は付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+    publishedAt: "2026-08-05T07:15:17+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "gm-chinese-automaker-extend-joint-ventur-e1a3c011",
+    title: "GM, Chinese automaker extend joint venture for 20 years despite geopolitical tensions with U.S.",
+    titleJa: "中国の自動車メーカー、GM、米国との地政学的な緊張にもかかわらず合弁事業を20年間延長",
+    summaryJa: "デトロイト — ゼネラル・モーターズと中国の上海汽車は、来年終了する予定だった数十年にわたる中国合弁事業を延長したと、米国の自動車メーカーが火曜日夜に発表した。この延長は、国内自動車メーカーの急速な台頭や伝統的な欧米ブランドや従来の合弁事業からの転換など、中国の自動車情勢が急速に変化している中で行われた。",
+    bodyOriginal: `DETROIT — General Motors and China's SAIC Motor have extended a decadeslong Chinese joint venture that was set to end next year, the U.S. automaker said Tuesday night.
+The extension comes amid a rapidly changing automotive landscape in China that has included the swift rise of domestic automakers and a shift away from traditional Western brands and legacy joint ventures.
+GM declined to provide financial details of the extension, which comes amid heightened geopolitical tensions between the U.S. and China, including a potential stateside ban of Chinese brands and vehicles.
+The largest disclosed change in the dynamic of the agreement is its length. The initial deal established in 1997 was for 30 years, and now the companies have announced a 20-year extension of the 50-50 joint venture to 2047.
+GM noted that the deal will focus on refocus domestic sales of Buick and Cadillac models in China in addition to exporting products, including Chevrolet models, built in China for non-U.S. markets.
+"We are committed to strong performance in the China market, and we see meaningful opportunities to compete in select international markets: the Middle East, Africa, South America, Mexico and Asia-Pacific," GM China President John Roth said in a release.
+The optimism about exporting comes as China quickly went from a reclusive market to the largest global exporter of vehicles in recent years.
+China's growth has been fueled by government funding for companies as well as a culture of innovation and speed the country has instilled in its workers, experts have said. But a slowing Chinese market and plant underutilization have forced companies to begin exporting to major auto markets globally.
+China was GM's top sales market from 2010 to 2023, but the shifting dynamics caused the Detroit automaker and its joint-venture partners to restructure operations.
+The automaker's earnings from China fell from around $2 billion annually in 2018 to two consecutive years of losses in 2024 and 2025. GM has reported $248 million in equity income through the first six months of this year following restructuring actions that cost the automaker $1.1 billion in special charges last year.
+GM reports the joint venture has produced and delivered more than 20 million vehicles since it was established in China.`,
+    bodyJa: `デトロイト — ゼネラル・モーターズと中国の上海汽車は、来年終了する予定だった数十年にわたる中国合弁事業を延長したと、米国の自動車メーカーが火曜日夜に発表した。
+この延長は、国内自動車メーカーの急速な台頭や伝統的な欧米ブランドや従来の合弁事業からの転換など、中国の自動車情勢が急速に変化している中で行われた。
+GMは延長の財務詳細については明らかにしなかったが、これは中国ブランドや自動車の米国政府による禁止の可能性など、米国と中国の間の地政学的な緊張が高まる中生じたものである。
+合意の動きで明らかになった最大の変化は、その期間の長さである。 1997年に結ばれた当初の契約は30年間であったが、今回両社は折半出資の合弁事業を2047年まで20年間延長すると発表した。
+GMは、今回の契約では、米国以外の市場向けに中国で生産されたシボレーモデルを含む製品の輸出に加え、ビュイックとキャデラックの中国国内販売に再び重点を置くことになると指摘した。
+GM中国のジョン・ロス社長はリリースで「われわれは中国市場での好調な業績に注力しており、中東、アフリカ、南米、メキシコ、アジア太平洋といった一部の国際市場で競争する有意義な機会があると考えている」と述べた。
+輸出に対する楽観的な見方は、中国が近年、孤立した市場から世界最大の自動車輸出国に急速に成長したことを受けて生じたものである。
+専門家らによると、中国の成長は政府による企業への資金提供と、同国が労働者に植え付けたイノベーションとスピードの文化によって促進されているという。しかし、中国市場の減速と工場の活用不足により、企業は世界の主要な自動車市場への輸出を開始せざるを得なくなった。
+中国は2010年から2023年までGMにとって最大の販売市場だったが、力関係の変化により、デトロイトの自動車メーカーとその合弁パートナーは事業再編を余儀なくされた。
+GMの中国からの収益は、2018年の年間約20億ドルから、2024年と2025年の2年連続赤字に落ち込んだ。GMは、昨年自動車メーカーに11億ドルの特別費用を負担させたリストラ活動を受けて、今年上半期までに2億4,800万ドルの資本利益を報告した。
+GMの報告によると、この合弁会社は中国で設立されて以来、2,000万台以上の車両を生産、納入したという。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/04/gm-chinese-automaker-extend-tie-up-amid-geopolitical-tensions-with-us.html",
+    publishedAt: "2026-08-05T02:30:01+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "softbank-jumps-10-as-asia-tech-stocks-tr-7bd4f083",
     title: "SoftBank jumps 10% as Asia tech stocks track Wall Street AI rally",
     titleJa: "アジアのハイテク株がウォール街のAI集会に追随し、ソフトバンクが10％急騰",
@@ -503,6 +769,20 @@ Tech Decoded ニュースレターに登録して、世界のトップテクノ�
     readTime: 8,
   },
   {
+    id: "upstart-s-ai-upgrades-pay-off-as-a-picku-4cfb22d2",
+    title: "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
+    titleJa: "Upstart の AI アップグレードが功を奏し、融資の増加が株価上昇に貢献",
+    summaryJa: "AI 融資会社は、借り手のリスクをより適切に評価するためにモデルを強化したと述べています。",
+    bodyOriginal: `The AI lending company says it’s enhanced its model to better assess the risk of borrowers.`,
+    bodyJa: `AI 融資会社は、借り手のリスクをより適切に評価するためにモデルを強化したと述べています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
+    publishedAt: "2026-08-04T22:22:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-36097024",
+    readTime: 2,
+  },
+  {
     id: "i-feel-like-i-dug-my-own-grave-the-work-705fb159",
     title: "'I feel like I dug my own grave': The workers caught in the AI transition",
     titleJa: "「自分で墓穴を掘ったような気分だ」: AI への移行に巻き込まれた労働者",
@@ -641,6 +921,34 @@ Jaltson Akkanath Chummar と Regine Cabato による追加レポート`,
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg",
     readTime: 10,
+  },
+  {
+    id: "chipotle-pulls-jalapenos-from-some-locat-82344cb1",
+    title: "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
+    titleJa: "チポトレはサルモネラ菌の調査後、いくつかの場所からハラペーニョを採取しました。ここで知っておくべきことは次のとおりです。",
+    summaryJa: "チポトレの株価は火曜日に下落したが、同社はハラペーニョを撤去した後、健康調査員らは同チェーンに対して「継続的な懸念はない」と述べた。",
+    bodyOriginal: `While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.`,
+    bodyJa: `チポトレの株価は火曜日に下落したが、同社はハラペーニョを撤去した後、健康調査員らは同チェーンに対して「継続的な懸念はない」と述べた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
+    publishedAt: "2026-08-04T21:54:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-77547915",
+    readTime: 2,
+  },
+  {
+    id: "stocks-face-their-weakest-seasonal-stret-4d5ab9c6",
+    title: "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
+    titleJa: "株価は季節的に最も弱い時期に直面している。なぜ投資家の極端な悲観主義が売りを制限する可能性があるのか​​。",
+    summaryJa: "ネッド・デービス・リサーチによると、米国株は歴史的に今年最も弱い時期に突入しているが、投資家心理が異常に弱気になっているため、反落を抑える可能性があるという。",
+    bodyOriginal: `U.S. stocks are entering what has historically been the weakest stretch of the year, but unusually bearish investor sentiment could help limit any pullback, according to Ned Davis Research.`,
+    bodyJa: `ネッド・デービス・リサーチによると、米国株は歴史的に今年最も弱い時期に突入しているが、投資家心理が異常に弱気になっているため、反落を抑える可能性があるという。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
+    publishedAt: "2026-08-04T21:25:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-17331664",
+    readTime: 2,
   },
   {
     id: "mcdonald-s-admits-its-value-meals-have-b-0f2ec7a1",
@@ -1742,402 +2050,6 @@ Related topics
     publishedAt: "2026-08-04T02:53:00+00:00",
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6bc/live/e2d6f280-8f96-11f1-8063-579175a552d9.jpg",
-    readTime: 2,
-  },
-  {
-    id: "why-is-trump-media-selling-early-access-62cd1bdd",
-    title: "Why is Trump Media selling early access to Trump's Truth Social posts?",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Why is Trump Media selling early access to Trump's Truth Social posts?
-President Donald Trump's media company has launched a paid subscription service on Truth Social that offers users access to posts from the website's most prominent accounts milliseconds before they appear to the general public. While the company's announcement does not specifically mention the US president's account, his is the most popular on the site, with more than 13 million followers.
-The service reportedly costs up to $100,000 (£74,170) per month, with a lower-priced $60,000 (£44,679) option also available.
-The BBC's Samira Hussain explains what it is and whether it's legal.
-Related topics
-- Donald TrumpUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- Social mediaUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
-    bodyJa: `なぜトランプメディアはトランプの真実のソーシャル投稿への早期アクセスを販売しているのですか?
-ドナルド・トランプ大統領のメディア会社は、Truth Social上で有料購読サービスを開始し、ユーザーがWebサイトの最も著名なアカウントの投稿を一般公開される数ミリ秒前にアクセスできるようにした。同社の発表では米国大統領のアカウントについて具体的に言及されていないが、同氏のアカウントはサイト内で最も人気があり、1300万人以上のフォロワーがいる。
-このサービスの費用は月額最大 10 万ドル (7 万 4,170 ポンド) であると伝えられていますが、より低価格の 6 万ドル (4 万 4,679 ポンド) のオプションも利用できます。
-BBC のサミラ・フセインが、それが何なのか、そして合法なのかについて説明しています。
-関連トピック
-- ドナルド トランプニュース トピックからの更新は、マイ ニュースとニュース ホームページのコレクションに表示されます。
-- 米国ニュース トピックの更新は、マイ ニュースおよびニュース ホームページのコレクションに表示されます。
-- ソーシャル メディアニュース トピックの更新は、マイ ニュースおよびニュース ホームページのコレクションに表示されます。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T00:17:48+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d80/live/478d5910-8f99-11f1-b8ee-9b3c26ad07bb.jpg",
-    readTime: 2,
-  },
-  {
-    id: "half-price-rail-travel-extended-to-18-ye-96f8cce4",
-    title: "Half price rail travel extended to 18-year-olds",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "鉄道旅行の半額を18歳まで延長- 公開されました",
-    bodyOriginal: `Half price rail travel extended to 18-year-olds
-- Published
-Eighteen-year-olds will be able to buy half price train tickets for most services when railcard rules are changed later this month, the Department for Transport (DfT) has announced.
-It's an extension of the 16-17 Saver railcard which currently expires when the holder turns 18. From 17 August, they will be valid for a full year from the date of purchase.
-It means 17-year-olds will be able to buy the railcard up until the day before they turn 18, making it valid until the day before they turn 19.
-The existing rule meant more than 70,000 students each year were an average of £175 worse off than those in the same academic year who hadn't yet had their 18th birthday, the DfT said.
-The 16-17 Saver Railcard costs £35 per year and entitles the holder to 50% off most train fares.
-Rail minister Lord Hendy claimed this "common sense change" is "exactly what passengers should expect from the railway".
-He said the change would "lower the cost of travel at a critical time for teenagers, whether they're pursuing further education, vocational pathways or getting their footing in the jobs market".
-Jacqueline Starr, chief executive of industry body the Rail Delivery Group, said the change demonstrates the sector's commitment to "offering better value fares and delivering a more joined-up railway".
-Kaynat Ahmad, vice president for further education at the National Union of Students, described the railcard as "essential for young people reliant on trains to get to college, work or training".
-Eighteen-year-olds were already entitled to a 16-25 Railcard, but that only entitles them to a third off the cost of travel.
-The announcement comes after the government said the cap on most single bus fares in England will be cut from £3 to £2 next year.
-Get in touch
-Will you use a 16-17 railcard when you're 18 and how much money will it save you?`,
-    bodyJa: `鉄道旅行の半額を18歳まで延長
-- 公開されました
-今月後半に鉄道カードの規則が変更され、18 歳はほとんどのサービスで半額の鉄道チケットを購入できるようになる、と運輸省 (DfT) が発表しました。
-これは、所有者が 18 歳になると現在有効期限が切れる 16-17 セイバー鉄道カードの延長です。8 月 17 日からは、購入日から丸 1 年間有効になります。
-つまり、17 歳は 18 歳になる前日まで鉄道カードを購入でき、有効期限は 19 歳になる前日までになります。
-DfTによると、既存の規則により、毎年7万人以上の学生が、まだ18歳の誕生日を迎えていない同学年の学生よりも平均で175ポンド劣悪な状況にあるという。
-16-17 セーバー レールカードの年間料金は 35 ポンドで、所有者はほとんどの鉄道運賃が 50% 割引になります。
-鉄道大臣ヘンディ卿は、この「常識の変化」は「まさに乗客が鉄道に期待すべきこと」であると主張した。
-同氏は、今回の変更により「進学や職業進路、あるいは雇用市場での足場を築くなど、十代の若者たちにとって重要な時期に交通費が削減される」と述べた。
-業界団体レイル・デリバリー・グループの最高経営責任者ジャクリーン・スター氏は、今回の変更は「よりお得な運賃を提供し、より連携した鉄道を提供する」という業界の取り組みを示していると述べた。
-全国学生連合の高等教育担当副会長であるケイナット・アフマド氏は、この鉄道カードは「大学に通う、仕事に行く、または訓練を受けるために電車に依存している若者にとって不可欠なものである」と述べた。
-18 歳はすでに 16-25 レールカードの権利を持っていましたが、それは旅行代金の 3 分の 1 の割引にすぎません。
-この発表は、英国政府が来年、ほとんどの片道バス運賃の上限を3ポンドから2ポンドに引き下げると発表した後に行われた。
-連絡する
-18 歳になったら 16 ～ 17 の鉄道カードを使用しますか? それによってどれくらいお金が節約されますか?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-03T23:34:13+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6b7/live/f96ea650-8f50-11f1-99e6-95543b07d23d.jpg",
-    readTime: 2,
-  },
-  {
-    id: "tokenomics-why-making-ai-pay-is-tricky-27e6f274",
-    title: "Tokenomics: Why making AI pay is tricky",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Tokenomics: Why making AI pay is tricky
-- Published
-If you have used a free version of an ChatGPT or its AI rivals, then you are obviously getting a good deal.
-Firms like Microsoft, Google and Anthropic have invested hundreds of billions of dollars in developing Large Language Models (LLMs) the tech behind those services.
-So getting, ChatGPT, Claude or Gemini to help with your speech or holiday plans is a bargain.
-But, naturally, those firms want to recoup their investment, so they offer paid-for versions of their AI, which have extra features for tasks like coding or billing.
-Meanwhile, third party firms are building and selling services based on AI agents, usually based on an LLM, which are trained to do specific tasks.
-But setting a price for those services is surprisingly difficult.
-"Trying to tie someone into a cost model for the next 12 months, two years, three years, it doesn't make any sense, honestly, because we don't know," says Simon Gooch at Saviynt, an identity management company which is incorporating agentic AI into its services.
-That's because of rapidly changing economics around tokens, the building blocks of LLMs and agentic AI.
-When a user asks an LLM, like ChatGPT or Anthropic's Claude to answer a question, generate software code, or automate a process, that prompt is broken down into mathematical chunks called tokens, which can be processed by the model.
-The LLM's response also comes in the form of tokens, which are converted back into text, software code, or a set of commands to automate a process.
-The problem is this process is not entirely predictable.
-Subtle variations in the prompt can produce different answers. The same prompt will not always produce the same answer. Different models will produce different answers.
-Meanwhile, in agentic systems, businesses use multiple AI agents together to make decisions and take actions, further increasing both token use and unpredictability.
-While the cost of individual tokens – or the credits used to pay for them - has plummeted in recent years, according to analysis by Goldman Sachs, the number of tokens consumed by businesses, and consumers, has skyrocketed.
-The bank forecasts that, external token consumption will increase 24 times between 2026 and 2030 to 120 quadrillion tokens a month, as companies shift from to use AI agents.
-But companies, and individuals, using AI systems often have a tenuous grasp on just how many tokens they are burning through – until they either run out or get their monthly bill.
-Even Microsoft has reportedly reined back, external its engineers' use of some third party coding tools, while Uber apparently tore through, external its AI coding token budget for a year in a matter of months earlier this year.
-Will Venters, Associate Professor of Digital Innovation and Information Systems at the London School of Economics, said companies can be caught out as they experiment with or implement AI internally, as staff burn through tokens.
-"People are finding it really hard to manage that cost… it's a non-deterministic output, so it's a non-deterministic value," he said.
-Companies are finding ways to work around this.
-Oliver King-Smith, founder of engineering software firm smartR AI, says smaller organizations can "can fly under the radar and use [flat fee] personal accounts which I am sure the big vendors don't like."
-But, he says, "This has to end at some point in time, because the big guys are taking a bath on those accounts."
-Once the big AI platforms start facing pressure from shareholders to show a profit, he predicts: "They will start clamping down."
-King-Smith says companies should also think more carefully about what AI models to use.
-Companies also needed to be much more precise with their prompts, says Rob Steele, CFO at UK accounting software firm iplicit.
-"You wouldn't send someone in your family out to get the weekly shop without any kind of detailed instructions as to what you expect in that shopping basket, right?"
-The situation can become difficult to control when companies build AI into a product that could be rolled out to thousands of users, Venters points out.
-AI costs could start to balloon. For example, managers may realise they need tokens not just for core software development, but for other tasks such as testing, security, or for implementing guard rails.
-"It's particularly hard when you're looking at agentic processes," Ventners says.
-Employing more AI agents can be done with the click of a button, whereas expanding the human workforce would involve careful discussions over headcount and hiring, he says.
-Venters points out, while token costs might be unpredictable, it might be that the company is ultimately getting more value from their token use with AI.
-"It's not quite the same as a calculator," he says. "The more you give it, the more expensive it is, but the better the result may be."
-But companies still need to pass those costs onto their own customers.
-"Nobody's really figured it out," says Bill Peterson, senior director of product marketing, at Sumo Logic.
-The software firm is previewing new security services based on agentic AI, he explains, but is in discussion with corporate customers about how to charge for them.
-"We're still having some fun conversations about this internally," he says drily.
-Options could include simply raising prices across the board, he says, paying by results, or charging for "bundles" of incidents.
-But whatever price structure it chooses could be upended if and when the large language model providers change their own pricing strategies.
-"You get into variable pricing, and it's changing every couple of months" he says. "Customers don't like that. That's not how anybody builds a budget."
-More Technology of Business
-- Published12 June
-- Published5 June
-- Published9 June`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-03T23:21:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
-    readTime: 2,
-  },
-  {
-    id: "what-heatwaves-mean-for-summer-weddings-d8dc9d5a",
-    title: "What heatwaves mean for summer weddings – and how to plan for one",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `What heatwaves mean for summer weddings – and how to plan for one
-- Published
-"As soon as I put my dress on, my makeup was just falling off my face."
-Aimie Seale is one of hundreds of brides whose weddings landed in the middle of a heatwave this summer.
-She had chosen a July weekend in the hope of avoiding any wet weather. Instead, she faced 30C heat with her ceremony in a sweltering West Yorkshire church, predominantly made of glass.
-"It was just unbearably hot," says Aimie. "I remember looking at my husband at one point, and he was just dripping with sweat, so everybody kept passing him tissues halfway through the service."
-Aimie and her now-husband Ryan had to book an emergency marquee to offer extra shade and an ice-cream van to keep their guests cool.
-An additional cost on an already expensive day, with the average wedding in the UK costing more than £20,000., external
-But this last-minute battle to cope with the heat is only going to get worse. Half of the years between 2015 and 2024 saw temperatures above 35C - up from one in ten - as climate change increases the risk of heatwaves.
-Zoe Burke, head of brand at wedding planning app, Bridebook, says the behavioural data - what people are talking about online - shows this is an issue couples are increasingly concerned about.
-"On platforms, like Reddit, people are discussing what they are going to do to navigate the heatwave," she says.
-Searches by brides for fans were up five times last summer compared with what they had been in 2019, she says.
-Heatwave costs run into the thousands
-Sourcing some additional fans might feel like a relatively minor cost overall, but for those hosting, catering and supplying weddings, the financial impact of coping with this summer's heatwaves has spiralled.
-"It has affected the industry massively. You are talking into the thousands [of pounds] for businesses," says Michelle Miles, board adviser to the UK Wedding Association and founder of the Sustainable Wedding Alliance.
-One of the biggest costs wedding venues are facing is the equipment and energy costs of trying to keep a space and food cool, she says.
-"[Some] venues are having to bring in air conditioning units; they are at a premium when everyone else is wanting those units to keep their houses cool and businesses."
-Guests are also drinking more water - which brings another issue for venues.
-"There has been a massive hit on alcohol sales. Venues would quite often rely on these to boost their profits, and people are...not drinking alcoholic drinks as much as they would on a temperate day," says Miles.
-It is not just the wedding party wilting in the heat but also the flowers. Peonies and roses - some of the most popular choices for a British wedding – saw their flowering window narrow from two months to two weeks.
-"It has been an extremely tough growing season with water shortages, drought, no rainfall, slow germination in the heat, flowers going over too quickly," explains Rebecca, from Lilac and Lace Floral Design.
-For a recent wedding, she had to go to three times as many growers to get enough stems.
-"For now, it's more a time cost than a direct financial one. But using more growers often [has] larger delivery costs - I would estimate it costs £200 more in delivery."
-Later weddings, cooler countries
-Sarah Haywood has been a wedding planner for more than two decades and says she's seen a shift in the calendar.
-"Over the last decade we have been advising people to avoid the heat of July and August [particularly] for destination weddings. And we're busier on what we call the 'shoulder season' which starts earlier and finishes later in the year."
-Typically, the shoulder season would be June and September, but she said this is now reaching into October.
-The 2026 UK Wedding Report from Bridebook showed that there are significant increases in October weddings in the year following a hotter than average summer.
-Couples book their weddings on average 12 to 18 months ahead and some already locked are now looking at shifting the date.
-Marie Cavanagh is due to get married in Kent at the start of July.
-"The recent heatwaves have made me think a little bit differently…we will definitely be factoring [the heat] into what we are selecting to wear," she says.
-Sophie Miller, a stylist at Dotty Bridal in West Yorkshire, said suggestions they have previously made to brides getting married in hotter, overseas locations, can also be applied to the UK.
-"We would recommend against a sleeve, lighter fabrics…and with ballgown [dresses] we would suggest putting a hoop in the dress to hold it off your skin."
-She said some designers are now innovating fabrics with zinc oxide to make the material feel cooler to the touch.
-While temperatures in the UK have peaked this summer in the mid-30s, in Europe they have repeatedly broken the 40C mark.
-Samantha Bottomley is a wedding planner in France and says Europe has previously been a popular wedding destination for UK couples looking for guaranteed sunshine - but this summer has changed things.
-"It has been a very difficult season so far heat-wise. We have changed to late afternoon ceremonies, for the first time ever this year, we have moved outdoor cocktail receptions indoors."
-Her company is looking to offer different locations altogether.
-"We are going to be offering northern European destinations in Denmark, Sweden and Norway which are beautiful with lower temperatures."
-Adapt or lose customers
-For those running wedding venues in the UK they are having to adapt their barns, orangeries and stately homes.
-James Matthews is managing director of Xenia Venues which runs two wedding sites in Essex and Suffolk.
-A couple of years ago they decided to have a French company construct their orangery because of their experience with higher European temperatures. It was built with an air-to-air heat pump that cools the building, and vents to let hot air escape.
-Matthews says if they had not invested in these cooling measures he would be "extremely confident" they would see bookings drop.
-"The weather isn't necessarily driving people out of summer weddings, but the weather will drive people out of venues that aren't equipped on an unpleasantly warm day."
-Experts' guide to a heatwave wedding
-1. Dress cool: Grooms ditch the three-piece suit and brides opt for lighter fabrics
-2. Avoid the hottest time of day: Push the start time for your wedding to early evening if you can, as peak heat typically hits between 12:00 and 16:00
-3. Provide shade: If outdoors use marquees with sides that can open, parasols (umbrellas will do), or a tree-lined spot to avoid guests standing in direct sun
-4. Offer water: Set up a water station separate from the bar so people don't have to queue. Have ushers hand out water as people arrive or put bottles under seats
-5. Beware of buttercream: This popular wedding cake ingredient is likely to melt if not kept cool.
-Sign up for our Future Earth newsletter to keep up with the latest climate and environment stories with the BBC's Justin Rowlatt. Outside the UK? Sign up to our international newsletter here.`,
-    bodyJa: `夏の結婚式にとって熱波が何を意味するのか – そしてその計画を立てる方法
-- 公開されました
-「ドレスを着るとすぐに、メイクが顔から落ちてしまいました。」
-エイミー・シールは、この夏の熱波の最中に結婚式を挙げた数百人の花嫁のうちの1人だ。
-彼女は雨天を避けたいと考えて、7 月の週末を選んだ。その代わりに、彼女は主にガラスでできたうだるようなウェストヨークシャーの教会で挙式を行い、30度の暑さに直面した。
-「耐えられないほど暑かったです」とエイミーは言う。 「ある時点で夫を見たのを覚えています。彼はただ汗を滴らせていたので、礼拝の途中で皆が彼にティッシュを渡し続けました。」
-エイミーと現在の夫ライアンは、ゲストを涼しく保つための日陰とアイスクリームバンを提供するための緊急マーキーを予約しなければなりませんでした。
-英国の平均的な結婚式には 20,000 ポンド以上の費用がかかるため、すでに高価な日に追加費用がかかります。外部
-しかし、この暑さ対策の土壇場の戦いはさらに悪化するばかりだ。気候変動により熱波のリスクが高まる中、2015年から2024年までの半年間で気温が35度を超え、10分の1から増加した。
-結婚式計画アプリ「ブライドブック」のブランド責任者、ゾーイ・バーク氏は、ネット上で人々が話題にしている行動データは、カップルがますます懸念している問題であることを示していると語る。
-「レディットのようなプラットフォームでは、人々は熱波を乗り切るために何をするかについて議論しています」と彼女は言う。
-昨年の夏、花嫁によるファンの検索数は、2019年と比べて5倍に増加したと彼女は言う。
-熱波による被害は数千ドルに上る
-追加のファンを調達するのは、全体としては比較的小さなコストのように思えるかもしれませんが、結婚式の主催、ケータリング、供給を行う業者にとって、この夏の熱波への対処による経済的影響は悪循環に陥っています。
-英国ウェディング協会の理事顧問でサステイナブル・ウェディング・アライアンスの創設者であるミシェル・マイルズ氏は、「業界に多大な影響を与えている。企業にとっては何千ポンドにも上るだろう」と話す。
-結婚式場が直面している最大のコストの 1 つは、空間と料理を涼しく保つための設備とエネルギーのコストである、と彼女は言います。
-「（一部の）会場は空調設備を導入しなければなりません。他の会場が家やビジネスを涼しく保つために空調設備を望んでいる中、非常に貴重な状況になっています。」
-ゲストが飲む水の量も増えており、会場にとっては別の問題が生じています。
-「アルコールの販売に大打撃があった。会場は利益を上げるためにアルコールに依存することが非常に多く、人々は...温暖な日ほどアルコール飲料を飲まなくなっている」とマイルズは言う。
-暑さで枯れるのは結婚式のパーティーだけではなく、花も枯れてしまいます。英国の結婚式で最も人気のある牡丹とバラは、開花期間が 2 か月から 2 週間と狭かったです。
-「水不足、干ばつ、降水量の少なさ、暑さで発芽が遅く、花があっという間に終わってしまうなど、非常に厳しい生育期でした」とライラック・アンド・レース・フローラル・デザイン社のレベッカさんは説明する。
-最近の結婚式では、十分な茎を入手するために 3 倍の生産者に行かなければなりませんでした。
-「今のところ、直接的な金銭的コストというよりは、時間的なコストがかかっています。しかし、より多くの生産者を使用すると、配送コストが高くなることがよくあります。配送にかかる費用は 200 ポンド増えると思います。」
-遅い結婚式、涼しい国
-サラ・ヘイウッドは 20 年以上ウェディング プランナーを務めており、カレンダーの変化を経験していると言います。
-「過去10年にわたり、私たちは旅行先での結婚式のために、（特に）7月と8月の暑さを避けるよう人々にアドバイスしてきました。そして、私たちは、1年のより早く始まり、後半に終わる、いわゆる『ショルダーシーズン』で忙しいのです。」
-通常、肩のシーズンは6月と9月ですが、現在は10月に達していると彼女は言いました。
-Bridebook の 2026 年の英国の結婚式レポートによると、例年より暑い夏が続いた年には 10 月の結婚式が大幅に増加しています。
-カップルは平均して12～18カ月前に結婚式を予約しており、すでに決まっているカップルの中には現在、日程の変更を検討しているところもある。
-マリー・カバナーさんは7月初めにケント州で結婚式を予定している。
-「最近の熱波のせいで、少し考え方が変わりました…私たちは着る物を選ぶときに必ず[暑さ]を考慮するつもりです」と彼女は言います。
-ウェストヨークシャーのドッティ・ブライダルでスタイリストを務めるソフィー・ミラーさんは、暑い海外で結婚式を挙げる花嫁たちにこれまで行ってきた提案は英国にも応用できると語った。
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-03T23:20:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e18d/live/f9161720-8f31-11f1-ac89-5b80aa0a0820.jpg",
-    readTime: 5,
-  },
-  {
-    id: "cnbc-s-the-china-connection-newsletter-a-507e2ae0",
-    title: "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
-    titleJa: "CNBC の The China Connection ニュースレター: AI の勝利には古い投資家のリスクが伴う",
-    summaryJa: "こんにちは、エブリンです。北京から手紙を書いています。 The China Connection の最新版へようこそ。地元企業から私が見聞きしたことのスナップショットです。中国のテクノロジーの進歩は米国政府を激怒させ、ウォール街を米国のハイテク株について心配させる可能性がある。しかし、中国の代替品に関しては、海外投資家は依然として選択的だ。中国政府の最近の動きはその理由を明らかにしている。",
-    bodyOriginal: `Hi, this is Evelyn, writing to you from Beijing. Welcome to the latest edition of The China Connection — a snapshot of what I'm seeing and hearing from local businesses.
-China's tech advances may rile Washington and worry Wall Street about U.S. tech stocks. But when it comes to Chinese alternatives, foreign investors remain selective. Beijing's recent moves reveal a reason why.
-The big story
-Emerging market risks aside, it's the state of policy communication that gives foreign investors pause.
-Just take a recently announced probe into Fang Xinghai, former vice chair of China's securities regulator. Stanford-educated Fang, whose term coincided with the sudden suspension of Ant's giant IPO, was particularly well-known among Wall Street investors in China — unlike many other targets of China's anti-corruption investigations.
-In the days since the probe into Fang was announced without much detail, discourse in China has focused on his support for algorithm-driven quantitative trading — which has frequently drawn public and regulatory ire for market losses, despite national AI champion DeepSeek emerging from quant hedge fund High-Flyer.
-"This is exactly where communication can be better," said Liqian Ren, a quantitative manager at U.S.-based fund manager WisdomTree.
-"Right now for China the number one thing is tech competition," she said, "not yet financial market competition."
-Parsing Fed statements on policy direction has been a key U.S. investment skill since the days of Alan Greenspan in the 1990s. UBS even said the Fed's forward guidance, which is now under review, has decreased market volatility over the last two decades.
-China, in contrast, only launched its stock markets just over three decades ago, and has not had a reputation for transparency. From a surprise yuan devaluation in 2015 to crackdowns in recent years on after-school tutoring and cross-border stock trading, many of Beijing's policy moves appear abrupt to outsiders.
-Market volatility isn't due to quantitative trading, but sometimes "totally unexpected" policy information disclosure, Ren said, noting China's market swings are "way higher" than in Europe or Japan — two overseas markets popular with U.S. investors.
-Shares of Trip.com, whose top investors include BlackRock, plunged nearly 20% in one day in January after China said it was investigating the online booking company for alleged monopolistic practices.
-Futu shares dropped by more than 27% on May 22 after China's renewed crackdown on services that enabled people in mainland China to trade overseas stocks. UP Fintech shares fell by more than 25% that day.
-More strikingly, just days after the SoftBank-backed Didi IPO in the U.S. in June 2021, the ride-hailing company faced a cybersecurity probe and app suspension in China, leading to a months-long stock decline and ultimately, delisting. Didi has yet to relist in Hong Kong despite announcing plans to.
-While analysts note in retrospect that warning signs were clear, investors did not necessarily grasp them until after the fact.
-Ren noted how China stocks climbed early last year after the DeepSeek R1 release, and in recent days after the Kimi K3 model launch in mid-July. "The more good headlines come out, then it will kind of neutralize some of the Chinese government regulations or abrupt regulations," she said.
-Chinese stocks overall have yet to generate returns that exceed U.S. stocks and bonds enough to attract significant amounts of capital willing to overlook the risks.
-BlackRock Investment Institute has kept a neutral view on Chinese stocks and views AI-related opportunities as stock-specific, rather than regional, plays.
-And alternative chip plays such as CXMT — a state-backed memory chip company that surged nearly 470% in its debut last week — listed in Shanghai, making it difficult for most foreign investors to access.
-Global stock index giant MSCI quickly announced, however, that CXMT would be added to the MSCI China All Shares Index on Aug. 10, paving the way for foreign funds tracking the index to buy exposure.
-As former Goldman Sachs banker Fred Hu, now chairman of Primavera Capital, told my colleague Anniek Bao in Singapore recently, finance, not AI, is Beijing's biggest challenge. And it's finance that requires the most communication and trust.
-Need to know
-China's reported chip breakthrough comes with some big caveats
-It is currently unclear whether a Chinese manufacturer using the homegrown DUV machine will deliver a chip yield close to or above that of a machine from ASML. If the yield is not close to what ASML machines can provide, that might hamper the adoption of China's machine.
-The U.S. wants Asia to use its AI — but China dominates cheaper models
-The U.S. has launched an export program and other initiatives to bolster American AI in Asia. But between the first APEC AI meeting and the second, the U.S. has grown noticeably quieter.
-China threatens retaliation against U.S. humanoid robot ban, says it 'severely damages' relations
-As the FCC escalates restrictions on Chinese goods, it "severely damages China-U.S. economic and trade stability," China's commerce ministry said via a CNBC translation of an online statement Thursday. The ministry urged the U.S. to withdraw the decision, and threatened countermeasures if it failed to do so.
-Coming up
-Aug. 5: RatingDog China Services PMI
-Aug. 7: China trade data
-Aug. 9: China CPI, PPI`,
-    bodyJa: `こんにちは、エブリンです。北京から手紙を書いています。 The China Connection の最新版へようこそ。地元企業から私が見聞きしたことのスナップショットです。
-中国のテクノロジーの進歩は米国政府を激怒させ、ウォール街を米国のハイテク株について心配させる可能性がある。しかし、中国の代替品に関しては、海外投資家は依然として選択的だ。中国政府の最近の動きはその理由を明らかにしている。
-大きな話
-新興国市場のリスクはさておき、海外投資家が立ち止まってしまうのは、政策コミュニケーションの状況だ。
-最近発表された、中国証券監督当局の元副主任の方星海氏に対する調査を見てみましょう。スタンフォード大学で教育を受けたファン氏の任期は、中国の汚職撲滅捜査の他の多くの標的とは異なり、中国のウォール街の投資家の間で特によく知られていた。
-ファン氏への捜査が詳細をあまり明らかにされずに発表されてから数日間、中国の言論はアルゴリズム主導のクオンツ取引へのファン氏の支持に焦点を当ててきた。AIの国家チャンピオンであるディープシークがクオンツヘッジファンドのハイフライヤーから台頭してきたにもかかわらず、ファン氏は市場損失をめぐって国民や規制当局の怒りを頻繁に招いていた。
-米国に本拠を置くファンドマネジャー、ウィズダムツリーのクオンツマネジャー、リクアン・レン氏は、「まさにこここそがコミュニケーションを改善できる場所だ」と語る。
-同氏は、「現在、中国にとって最も重要なことはテクノロジー競争であり、金融​​市場での競争はまだない」と述べた。
-政策の方向性に関するFRBの声明を解析することは、1990年代のアラン・グリーンスパンの時代から米国の重要な投資スキルとなっている。 ＵＢＳは、現在見直し中のＦＲＢのフォワードガイダンスが過去２０年間で市場のボラティリティを低下させたとさえ述べた。
-対照的に、中国は株式市場を開設してからわずか 30 年余りで、透明性については評判がありません。 2015年の突然の人民元切り下げから、近年の放課後の個別指導や国境を越えた株式取引の取り締まりに至るまで、中国政府の政策の動きの多くは部外者には唐突に見える。
-任氏は、市場のボラティリティは量的取引によるものではなく、時には「まったく予期せぬ」政策情報の開示によるものだと述べ、中国の市場変動は欧州や日本（米国の投資家に人気の海外市場）よりも「はるかに大きい」と指摘した。
-ブラックロックなどがトップ投資家として名を連ねるトリップ・ドットコムの株価は、中国が独占行為の疑いでオンライン予約会社を調査していると発表したことを受けて、1月に1日で20％近く急落した。
-中国本土の人々が海外株式を取引できるようにするサービスに対する中国の再弾圧を受け、Futu株は5月22日に27％以上下落した。 UPフィンテック株は同日、25％以上下落した。
-さらに驚くべきことに、2021年6月にソフトバンクが支援する滴滴出行が米国でIPOを行った数日後、この配車会社は中国でサイバーセキュリティ調査とアプリの停止に直面し、数カ月にわたる株価下落につながり、最終的には上場廃止となった。 Didi は香港で再上場する計画を発表したにもかかわらず、まだ行っていない。
-アナリストらは振り返って、警告の兆候は明らかだったと指摘しているが、投資家は必ずしもそれを事実後まで把握できなかった。
-任氏は、ディープシークR1の発売後の昨年初めと、7月中旬のキミK3モデル発売後のここ数日間で中国株がどのように上昇したかを指摘した。 「良い見出しが増えれば出るほど、中国政府の規制や突然の規制の一部が無力化されることになる」と彼女は言う。
-中国株全体は、リスクを無視しようとする多額の資金を集めるほどの米国株や債券を上回るリターンをまだ生み出していない。
-ブラックロック・インベストメント・インスティテュートは中国株に対して中立的な見方を維持しており、AI関連の機会は地域的なものではなく、銘柄固有の要因であると見ている。
-また、先週の上場で470％近く急騰した国の支援を受けたメモリーチップ会社CXMTのようなオルタナティブチップ関連企業は上海に上場しており、ほとんどの外国人投資家がアクセスするのは困難となっている。
-しかし、世界的な株価指数大手のMSCIは、CXMTが8月10日にMSCI中国全株指数に追加されるとすぐに発表し、同指数を追跡する外国ファンドがエクスポージャーを買う道を開いた。
-元ゴールドマン・サックスの銀行家で現在プリマベーラ・キャピタル会長のフレッド・フー氏が最近、シンガポールで私の同僚のアニーク・バオ氏に語ったように、中国政府の最大の課題はAIではなく金融だという。そして、最もコミュニケーションと信頼を必要とするのは金融です。
-知っておく必要がある
-中国の報告されたチップの進歩にはいくつかの大きな警告がある
-国産の DUV マシンを使用する中国のメーカーが、ASML のマシンと同等またはそれ以上のチップ歩留まりを実現するかどうかは、現時点では不明です。 ASML マシンが提供できる歩留まりに近づけない場合、中国のマシンの採用が妨げられる可能性があります。
-米国はアジアでのAIの利用を望んでいるが、中国は安価なモデルを独占している
-米国は、アジアにおける米国のAIを強化するための輸出プログラムやその他の取り組みを開始した。しかし、APEC AI会議の第1回目から第2回目までの間に、米国は目に見えて静かになった。
-中国、米国の人型ロボット禁止への報復脅迫、関係に「重大な損害を与える」と主張
-FCCが中国製品に対する規制を強化することで、「中国と米国の経済貿易の安定に深刻なダメージを与える」と中国商務省は木曜日のオンライン声明のCNBC翻訳を通じて述べた。同省は米国に対し決定の撤回を促し、撤回しない場合は対抗措置を取ると脅した。
-もうすぐ
-8 月 5 日: RatingDog 中国サービス PMI
-8月7日: 中国貿易統計
-8月9日：中国CPI、PPI`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
-    publishedAt: "2026-08-03T23:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "palantir-soars-12-on-blowout-quarter-wit-09c19c9a",
-    title: "Palantir soars 12% on blowout quarter, with U.S. commercial revenue soaring nearly 150%",
-    titleJa: "パランティアは大打撃を受けた四半期で 12% 急騰し、米国の商業収益は 150% 近く増加しました",
-    summaryJa: "パランティアは月曜日、第２・四半期利益予想を上回り、商業収入が前年同期の２倍以上になったと発表した。この数字の発表後、株価は１２％上昇した。LSEG の見積もりに対する同社の実績は次のとおりです。",
-    bodyOriginal: `Palantir topped second-quarter earnings estimates on Monday and said commercial revenue more than doubled from a year ago. The stock surged 12% after the numbers were released.
-Here's how the company did versus LSEG estimates:
-- Earnings per share: 41 cents adj. vs. 35 cents expected
-- Revenue: $1.94 billion vs. $1.80 billion expected
-Revenue climbed 93% from about $1 billion a year ago. Palantir reported net income of $1.07 billion, or 41 cents per share, compared to about $329 million, or 13 cents per share in the year-ago quarter.
-"Forget consensus," CEO Alex Karp told CNBC's Seema Mody in an exclusive interview. "To my knowledge, no businesses at our scale has even grown half this much."
-Palantir's U.S. government revenue grew 90% from a year ago to $809 million. The company is widely known for selling its software to the U.S. government and military, but its commercial revenue has accelerated.
-U.S. commercial revenue surged 149% from a year ago to $764 million and, when taking into account compounding, has jumped 380% since 2024. Palantir is now bracing for U.S. commercial revenue "in excess of" $3.42 billion in 2026, up from prior guidance of $3.22 billion.
-The company said its remaining U.S. commercial deal value more than doubled from a year ago to $6.24 billion.
-Palantir shares have lost 29% this year due to broadening concerns that the artificial intelligence software trade is running out of steam and growth could slow.
-The AI software company lifted full-year revenue guidance to between $8.15 billion and $8.16 billion from prior guidance of $7.65 billion to $7.66 billion.
-Karp told CNBC that the strong growth "looks like this is going to go on for at least another 18 months."
-The CEO has been a major proponent of open-weight models and reducing reliance on the token model from frontier labs, especially as Chinese tools have rapidly closed the gap.
-Last month, following his viral comments on CNBC that sparked a wider debate, Karp and Palantir joined tech heavyweights in a letter urging the government not to restrict open-weight models.
-"We need competition if we're going to keep model companies honest, which is the same thing as enterprise software," Karp said.
-He added that, "The way we win in America is we compete, and our open models are going to have to become as good as Chinese open models."`,
-    bodyJa: `パランティアは月曜日、第２・四半期利益予想を上回り、商業収入が前年同期の２倍以上になったと発表した。この数字の発表後、株価は１２％上昇した。
-LSEG の見積もりに対する同社の実績は次のとおりです。
-- 1 株あたり利益: 調整後 41 セントvs. 予想35セント
-- 収益: 19 億 4,000 万ドル対予想 18 億ドル
-売上高は1年前の約10億ドルから93％増加した。パランティアは純利益が10億7000万ドル（1株当たり41セント）と報告したが、前年同期は約3億2900万ドル（1株当たり13セント）だった。
-「コンセンサスは忘れてください」とCEOのアレックス・カープ氏はCNBCのシーマ・モディの独占インタビューで語った。 「私の知る限り、私たちの規模でこれほど成長したビジネスはありません。」
-パランティアの米国政府収入は前年比９０％増の８億９００万ドルとなった。同社は米国政府や軍にソフトウェアを販売していることで広く知られているが、商業収益も加速している。
-米国の商業収益は前年比149％増の7億6,400万ドルとなり、複利を考慮すると2024年以来380％増加した。パランティアは現在、2026年の米国商業収益が従来予想の32億2,000万ドルから34億2,000万ドルを「超える」ことに備えている。
-同社は、米国での残りの商取引額が前年比２倍以上の６２億４０００万ドルになったと発表した。
-人工知能ソフトウェア取引が勢いを失い、成長が鈍化する可能性があるとの懸念が広がったため、パランティア株は今年29％下落した。
-AIソフトウェア会社は、通年の収益見通しを従来の76億5000万ドルから76億6000万ドルの見通しから81億5000万ドルから81億6000万ドルに引き上げた。
-カープ氏はCNBCに対し、この力強い成長は「少なくともあと18カ月は続くようだ」と語った。
-CEOは、オープンウェイトモデルの主要な支持者であり、特に中国のツールが急速にギャップを埋めている中で、フロンティアラボのトークンモデルへの依存を減らしています。
-先月、CNBCでの彼のコメントが広範な議論を巻き起こしたことを受けて、カープ氏とパランティア氏はハイテク界の有力者らに加わり、無差別級モデルを制限しないよう政府に求める書簡を発表した。
-「モデル企業の誠実さを保つには競争が必要だが、それはエンタープライズソフトウェアと同じだ」とカープ氏は語った。
-同氏はさらに、「米国で勝つ方法は競争することであり、我々のオープンモデルは中国のオープンモデルと同じくらい優れたものになる必要がある」と付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/03/palantir-pltr-earnings-q2-2026.html",
-    publishedAt: "2026-08-03T22:47:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "i-m-easing-into-retirement-i-m-getting-795c2ed0",
-    title: "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
-    titleJa: "「私はゆっくりと退職生活を送っています」: 私は 80,000 ドルの年金を受け取っています。どこに安全に投資できますか？",
-    summaryJa: "「401(k) 口座から分配金を受け取るまでには数年かかると予想しています。」",
-    bodyOriginal: `“I expect to have several years before I take distributions from my 401(k) account.”`,
-    bodyJa: `「401(k) 口座から分配金を受け取るまでには数年かかると予想しています。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
-    publishedAt: "2026-08-03T22:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-08898714",
-    readTime: 2,
-  },
-  {
-    id: "snap-s-stock-jumps-8-on-earnings-beat-an-10655bda",
-    title: "Snap's stock jumps 8% on earnings beat and strong sales forecast",
-    titleJa: "スナップの株価は業績を上回り、売上高予想が好調で8％上昇",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Snap reported better-than-expected revenue and earnings for the second quarter and issued a forecast for the current period that topped analysts' estimates. The stock jumped about 8% in extended trading.
-Here's how the company did compared with analysts' expectations:
-- Loss per share: Loss of 10 cents. That figure is not comparable to analysts' estimates.
-- Revenue: $1.6 billion vs. $1.54 billion expected, according to LSEG
-- Global daily active users: 493 million vs. 487 million expected, according to StreetAccount
-- Global average revenue per user, or ARPU: $3.25 vs. $3.16 expected, according to StreetAccount
-Revenue in the second quarter rose 19% from $1.34 billion a year earlier, Snap said in a statement. The company's net loss narrowed to $164 million from $262.6 million, or 16 cents per share, a year ago.
-Adjusted earnings came in at $250 million, ahead of the $192 million estimate, according to StreetAccount.
-Snap said third-quarter sales should come in between $1.7 billion to $1.74 billion, topping analyst estimates of $1.7 billion. Adjusted earnings will be between $300 million and $350 million. The midpoint of $325 million trails StreetAccount's projections of $327 million.
-Snap CEO Evan Spiegel said in an investor letter that the company "saw improving momentum in our advertising business."
-"After several quarters of improving our ad products and go-to-market approach, we saw better momentum with large advertisers in North America and stronger revenue growth internationally," he said in the letter. Spiegel added the company got a boost from spending tied to the World Cup.
-During its last earnings report in May, Snap said "large advertisers in North America remained a headwind to advertising growth," but that it was "beginning to see encouraging signs that this part of the business is improving."
-While the number of global daily active users increased 5% from a year earlier, North American DAU declined 7% year over year to 92 million and was flat compared with the first quarter.
-On the earnings call, Spiegel cited "progress in strengthening the core communication experience" and newer products like its Spotlight short-video feature as helping with user growth.
-Spiegel added that Snap is "closely monitoring the regulatory environment, including age assurance, privacy, and online safety requirements," which he said "may affect the product experiences or user growth and engagement over time."
-Snap lifted its guidance for full-year infrastructure costs by $50 million to between $1.65 billion and $1.7 billion. The company said that figure accounts for "additional investment in the AI and machine learning infrastructure needed to support revenue growth."
-The company's other revenue category, which includes the Snapchat+ subscription service, rose 85% year over year to $316 million in the second quarter.
-Snap revealed in June its first augmented reality glasses tailored for the broader public instead of developers. The AR glasses, dubbed Specs, will cost $2,195 with a $200 refundable deposit and are expected to ship later this year.
-Spiegel said on the call that with Specs, Snap is "really approaching this investment with a lot of discipline," and is currently focusing on "the customer experience, the product quality and the ecosystem development." He said he sees cutting-edge AR glasses as "a natural form factor for the future," but acknowledged that it's going to take a while before they become mainstream.
-"I think it will be towards the end of the decade before we see mass-market consumer adoption," Spiegel said. "I think things, for example, like weight and cost are going to have to come down to see unit volumes really meaningfully pick up."
-Wall Street was tough on Snap's fellow online ad companies last week.
-Reddit reported second-quarter earnings on Thursday that beat on the top and bottom lines, but noted in an investor letter that search-referral traffic was "choppy," stroking Wall Street's concerns about user growth and sending shares tumbling.
-And Meta shares dropped after the social media giant issued a weaker-than-expected sales forecast and reported dwindling free cash flow due to its hefty spending on AI-related expenditures.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
-    publishedAt: "2026-08-03T22:03:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
   },
 ];
