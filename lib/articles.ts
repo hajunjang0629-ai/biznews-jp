@@ -15,6 +15,350 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "softbank-gets-8-2-billion-boost-from-int-348bb36f",
+    title: "SoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat",
+    titleJa: "OpenAIが後手に回り、ソフトバンクはインテルから82億ドルの支援を受ける",
+    summaryJa: "ソフトバンクは木曜日、インテル株の大幅な上昇により市場予想を上回る会計年度第1四半期の利益を報告したほか、バイトダンスの価値上昇が同社のビジョン・ファンド部門を支援した。日本の大手企業は、6月四半期の純利益が総額3,473億円（22億ドル）になったと発表した。 ＬＳＥＧの推計によると、アナリスト予想の１２０２億３０００万件を上回った。ただし、前年比では 18% 近く減少しました。",
+    bodyOriginal: `SoftBank on Thursday reported profit for its fiscal first quarter that beat market expectations, driven by a huge gain on its stake in Intel, while a rise in ByteDance's value helped its Vision Fund division.
+The Japanese giant said net profit for the June quarter totaled 347.3 billion Japanese yen ($2.2 billion). That beat the 120.23 billion expected by analysts, according to LSEG estimates. However, that was a nearly 18% year-on-year decline.
+SoftBank saw a 1.3 trillion yen gain on the shares it owns of U.S. chipmaker Intel. SoftBank had announced a roughly $2 billion investment in Intel last year. This helped its investment division, which is separate from the Vision Fund, book segment profit of 1.05 trillion yen. Intel shares have surged nearly 400% over the last 12 months.
+The Vision Funds, which house investments spanning OpenAI to TikTok-owner ByteDance, saw a gain of $1.7 billion in value in the first quarter. That was primarily driven by a $2.2 billion increase in the value of SoftBank's stake in Chinese firm ByteDance, which offset declines in companies like PayPay.
+SoftBank's Vision Funds segment posted a 5.4 billion yen profit compared to 451.4 billion a year ago. The company said that it saw no gain or loss from its investment in OpenAI.
+This is in contrast to the previous quarter, where the company's Vision Funds posted a nearly $20 billion gain, nearly all driven by OpenAI.
+OpenAI takes a backseat
+SoftBank has committed to invest more than $60 billion in OpenAI, which would give it around 13% ownership of the company, the company said in February. SoftBank said $55 billion of that has already been invested.
+However, the company said it did not record any investment gain or loss related to OpenAI.
+SoftBank has looked to position itself at the center of the artificial intelligence boom through investments spanning companies like OpenAI and semiconductor companies like Arm.
+But investors are heavily scrutinizing AI spending by tech companies and are looking for tangible returns on investments. SoftBank's share price has fallen around 34% from its record high in June as investors grow concerned about how it will continue to fund its bets and the company portfolio's heavy concentration in Arm and OpenAI.
+SoftBank posted a 200.8 billion yen loss at its AI computing segment, which was wider than the 32.4 billion yen loss posted in the same quarter last year. This segment includes chip companies that it owns, such as Arm, Graphcore and Ampere. SoftBank said profit deteriorated due to higher research and development costs at the companies.
+In June, SoftBank CEO Masayoshi Son told CNBC that he doesn't think the company is overexposed to OpenAI, which makes up around 20% of the Japanese giant's net asset value.
+Son also described the AI revolution as being 50 times bigger than the dot-com boom.
+"This is the biggest revolution of technology and realization that mankind ever experienced, so this is just like the beginning of the internet," Son added.`,
+    bodyJa: `ソフトバンクは木曜日、インテル株の大幅な上昇により市場予想を上回る会計年度第1四半期の利益を報告したほか、バイトダンスの価値上昇が同社のビジョン・ファンド部門を支援した。
+日本の大手企業は、6月四半期の純利益が総額3,473億円（22億ドル）になったと発表した。 ＬＳＥＧの推計によると、アナリスト予想の１２０２億３０００万件を上回った。ただし、前年比では 18% 近く減少しました。
+ソフトバンクは保有する米半導体大手インテルの株式で１兆３０００億円の利益を得た。ソフトバンクは昨年、インテルへの約20億ドルの投資を発表していた。これにより、ビジョン・ファンドとは別の投資部門のセグメント利益は１兆０５００億円となった。インテル株は過去１２カ月間で４００％近く上昇した。
+OpenAIからTikTokオーナーのバイトダンスまで投資を行っているビジョン・ファンドは、第1四半期に17億ドルの価値増加を記録した。これは主に、ソフトバンクの中国企業バイトダンス株の価値が22億ドル増加したことによるもので、ペイペイなどの企業の下落を相殺した。
+ソフトバンクのビジョン・ファンド部門は、前年同期の4,514億円に対し、54億円の利益を計上した。同社は、OpenAIへの投資から利益も損失も見られないと述べた。
+これは、同社のビジョン ファンドが 200 億ドル近くの利益を記録した前四半期とは対照的であり、そのほとんどすべてが OpenAI によるものでした。
+OpenAI は後回しにされる
+ソフトバンクはOpenAIに600億ドル以上を投資することを約束しており、これにより同社の約13％の所有権が得られることになると同社は2月に発表した。ソフトバンクは、そのうち550億ドルがすでに投資されていると述べた。
+ただし同社は、OpenAIに関連した投資損益は計上していないと述べた。
+ソフトバンクは、OpenAIなどの企業やArmなどの半導体企業にまたがる投資を通じて、人工知能ブームの中心に自らを位置づけようとしている。
+しかし投資家はハイテク企業によるAI支出を厳しく監視しており、目に見える投資利益を求めている。ソフトバンクの株価は、同社が今後も資金をどのように調達し続けるのか、また同社のポートフォリオがArmとOpenAIに集中していることに投資家が懸念を強める中、6月の過去最高値から約34％下落した。
+ソフトバンクはAIコンピューティング部門で2008億円の損失を計上したが、前年同期の324億円の損失より拡大した。このセグメントには、Arm、Graphcore、Ampere など、同社が所有するチップ企業が含まれます。ソフトバンクは、企業の研究開発費の増加により利益が悪化したと述べた。
+6月、ソフトバンクの孫正義最高経営責任者（CEO）はCNBCに対し、同社が日本の巨人の純資産価値の約20％を占めるOpenAIに過剰にエクスポージャされているとは思わないと語った。
+孫氏はまた、AI革命はドットコムブームの50倍の大きさであると述べた。
+「これは人類がこれまで経験した中で最大のテクノロジーと実現の革命であり、まさにインターネットの始まりに似ています」と孫氏は付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+    publishedAt: "2026-08-06T07:59:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "nintendo-s-fiscal-first-quarter-profit-a-c3606983",
+    title: "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
+    titleJa: "Switch 2の販売不振にもかかわらず、任天堂の会計年度第1四半期利益と売上高は予想を上回った",
+    summaryJa: "任天堂は木曜日に第1四半期決算を報告し、Switch 2コンソールの売上が大幅に減少したにもかかわらず、アナリストの売上高と利益の予想を上回った。LSEGの推定中央値と比較した任天堂の第1四半期（6月30日終了）会計年度の業績は次のとおりだ。",
+    bodyOriginal: `Nintendo reported fiscal first-quarter earnings on Thursday, beating analysts' revenue and profit estimates, even as its Switch 2 console sales saw a sharp decline.
+Here's how Nintendo did in its fiscal first quarter ended June 30, compared with LSEG median estimates:
+- Revenue: 517.8 billion Japanese yen ($3.28 billion) versus 444.96 billion yen expected.
+- Net profit: 147.4 billion yen versus 78.30 billion yen expected.
+Shares of the Japanese gaming giant closed 2.87% higher ahead of its earnings release.
+The company maintained its forecast for the year ending March 2027 announced in May, keeping its net sales outlook unchanged at 2.05 trillion yen.
+Nintendo Switch 2 hardware sales fell 34.4% from a year earlier to 3.82 million units, while sales of the original Nintendo Switch dropped 31.8% to 0.66 million units. The company said consumers continued to adopt the Switch 2 despite lower hardware sales than the year-ago period, supported by the release of new titles and other factors.
+Nintendo said it has factored nearly a 100 billion yen impact from higher component prices, particularly for memory, and tariffs into its cost of sales.
+Nintendo's flagship Switch 2, launched last June, uses memory chips whose prices have risen sharply against a backdrop of robust AI demand.
+Nintendo game sales were driven by the solid performance of Tomodachi Life: Living the Dream, which sold 7.94 million units, and Pokémon Pokopia, which sold 1.27 million units.
+The company said releasing new titles at regular intervals is crucial to expanding the Switch 2's installed base, adding that a steady pipeline of new games helps broaden the console's appeal to a wider range of consumers.
+In the Japanese market, where Nintendo raised Switch 2 prices on May 25, hardware sell-through has remained solid, the company said.
+Nintendo earlier announced a $50 price increase for the console in the United States, raising its retail price to $499.99 from $449.99 effective Sept. 1.
+Beyond games, Nintendo said "The Super Mario Galaxy Movie" has generated more than $1 billion in global box office revenue since its worldwide release on April 1, making it the second highest-grossing film ever based on a video game.`,
+    bodyJa: `任天堂は木曜日に第1四半期決算を報告し、Switch 2コンソールの売上が大幅に減少したにもかかわらず、アナリストの売上高と利益の予想を上回った。
+LSEGの推定中央値と比較した任天堂の第1四半期（6月30日終了）会計年度の業績は次のとおりだ。
+- 収益: 予想4,449億6,000万円に対し、5,178億円(32億8,000万ドル)。
+・純利益：予想783億円に対し1,474億円。
+日本のゲーム大手の同社株は決算発表を前に2.87%高で終了した。
+同社は５月に発表した２０２７年３月期業績予想を据え置き、売上高見通しは２兆０５００億円で据え置いた。
+Nintendo Switch 2 ハードウェアの販売は前年比 34.4% 減の 382 万台となり、初代 Nintendo Switch の販売は 31.8% 減の 66 万台となりました。同社は、ハードウェア売上高が前年同期を下回ったにもかかわらず、新作タイトルのリリースやその他の要因に支えられ、消費者は引き続きSwitch 2を採用したと述べた。
+任天堂は、特にメモリなどの部品価格の上昇と関税による1000億円近い影響を売上原価に織り込んでいると述べた。
+昨年6月に発売された任天堂の主力機種「Switch 2」には、旺盛なAI需要を背景に価格が急騰したメモリチップが使われている。
+任天堂のゲーム売上は、794 万本を販売した『トモダチ ライフ: Living the Dream』と 127 万本を販売した『ポケットモンスター ポコピア』の堅調な業績によって牽引されました。
+同社は、定期的に新しいタイトルをリリースすることがSwitch 2のインストールベースを拡大するために重要であると述べ、新しいゲームの安定したパイプラインがコンソールの魅力をより幅広い消費者に広げるのに役立つと付け加えた。
+任天堂が5月25日にSwitch 2の価格を引き上げた日本市場では、ハードウェアの売れ行きは堅調に推移していると同社は述べた。
+任天堂は以前、米国で同ゲーム機の50ドルの値上げを発表し、9月1日より小売価格を449.99ドルから499.99ドルに引き上げた。
+任天堂は、ゲーム以外にも、「スーパーマリオギャラクシームービー」は4月1日の全世界公開以来、全世界で10億ドル以上の興行収入を生み出し、ビデオゲームを原作とした映画としては史上2番目に高い興行収入を記録したと発表した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html",
+    publishedAt: "2026-08-06T07:43:19+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "google-is-expanding-its-ai-empire-and-lo-b86070c5",
+    title: "Google is expanding its AI empire — and losing the people who built it",
+    titleJa: "Google は AI 帝国を拡大し、それを築いた人々を失いつつある",
+    summaryJa: "どこに座るかに応じて、Google は人工知能の分野で最もうらやましい地位を占めているか、あるいはイノベーションの最前線に立つ主要な AI ラボやその他の新興企業に優秀な人材を流出させているかのどちらかです。これは過去 2 週間で顕著に表れた対照的で、同社がクラウド部門で 82% の収益増加を報告したことに始まり、水曜日には Google の AI 組織に大改革が起こり、チーフサイエンティストのジェフ・ディーン氏が 27 年間勤務した退任を発表した。",
+    bodyOriginal: `Depending on where you sit, Google either has the most enviable position in artificial intelligence or is bleeding top talent to leading AI labs and other startups on the frontline of innovation.
+It's a contrast that's been on full display over the past two weeks, beginning with the company reporting 82% revenue growth in its cloud division, followed by a shakeup on Wednesday in Google's AI organization, as chief scientist Jeff Dean announced his departure after 27 years.
+For Google, home to the famous 2017 transformer paper that paved the way for the generative AI boom, the recent events underscore a central challenge facing the $4 trillion company: where to invest. Building frontier models requires huge upfront costs for compute and research with no guarantee of future returns, while the cloud business is proving to be highly efficient and is growing much faster than rival offerings at Amazon and Microsoft.
+Alphabet CEO Sundar Pichai said on last month's earnings call that 90% of Fortune 100 companies are using Gemini Enterprise, underscoring the company's ability to sell AI services to cloud customers.
+Tomasz Tunguz, founder of Theory ventures, said it's becoming clear that top-of-the-line models aren't required when it comes to meeting most enterprise demand.
+"I think we are at that place with AI, particularly for a lot of white-collar work, where many of the models that are reasonable are good enough," Tunguz said. "The next evolution of models are likely to be helpful in domains where you have really fancy computers."
+Google's full-stack approach to AI is a big reason the stock is up 16% this year after jumping 65% in 2025, when it outpaced all of its megacap peers.
+It's been a bumpier road of late. Alphabet shares fell after the latest earnings report due to concerns about capital expenditures, and dipped further on Wednesday following the announcement that Dean is departing and Demis Hassabis is stepping down as CEO of Google DeepMind to become chairman of the unit.
+While the tone on Wall Street has been generally favorable, not everyone is celebrating inside of Google.
+Some researchers have grown frustrated over access to the computing capacity they need to pursue ambitious projects while watching Google Cloud sell TPUs to outside customers, including Anthropic, according to people familiar with the matter who asked not to be named due to confidentiality. Tensor processing units, or TPUs, are the the company's homegrown AI chips that compete with Nvidia's graphics processing units.
+Google's bureaucracy is a common source of frustration, with layers of approval required to move research into products. That can make emerging companies like OpenAI, Anthropic or even younger startups more appealing, especially for AI researchers and developers who prefer lab work to balance sheets.
+Dean is leaving along with Google stars Sanjay Ghemawat, Oriol Vinyals, and Quoc Le to start Discovery Loop. On X, Dean said the startup, backed by Google, will be a public benefit corporation "whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress."
+Their exit follows the departures of other prominent researchers, including Noam Shazeer, one of the authors of the landmark 2017 paper "Attention Is All You Need," which provided the foundation for generative AI. All eight authors have now left Google. Shazeer left for OpenAI in June, less than two years after Google paid nearly $3 billion to bring him back through an acquihire. His exit came shortly before Nobel laureate John Jumper left DeepMind for Anthropic.
+'Part of history'
+Gil Luria, an analyst at D.A. Davidson, said there's a clear trend when looking at the exodus of top talent.
+"They're not interested in commercializing AI," said Luria, who recommends holding Alphabet stock. "They're interested in being part of history, and so they look at Anthropic, OpenAI or another startup as being the place where they can pursue history."
+At Google, Dean was one of the very few high-profile voices willing to criticize the Trump administration, and earlier this year he was vocal in opposing the Pentagon's decision to designate Anthropic as a supply-chain risk, warning that the move could damage the broader U.S. AI industry.
+More importantly, from a technical perspective, he helped build the computing infrastructure and neural network systems that established the company as an early leader in modern AI.
+Hassabis, who co-founded DeepMind in 2010 and sold it to Google four years later, is becoming chairman of the division and will assume the newly created role of chief scientist at Alphabet, focusing on longer-term research and the societal implications of artificial general intelligence, or AGI. He also plans to devote more time to Isomorphic Labs, the AI drug-discovery company that grew out of DeepMind.
+Koray Kavukcuoglu, DeepMind's technology chief and Alphabet's chief AI architect, will take over daily management of the division and development of the next Gemini model. According to a person close to the DeepMind team, Kavukcuoglu had been taking on a broader set of responsibilities from Hassabis over the past year, including directing model development and presenting major Gemini releases. Hassabis, meanwhile, has been spending more time away from the lab, focusing on regulation and the longer-term implications of advanced AI.
+One of the biggest points of friction inside Google is compute.
+Google is investing more than almost any company in the world in data centers, chips and related infrastructure. But capacity remains scarce. Every TPU assigned to training a model, serving a Google product, or fulfilling a contract with a cloud customer reflects a choice among competing priorities.
+Frustrations over access to compute can be especially acute when Google announces large infrastructure commitments to competing labs like Anthropic, whose models compete directly with Gemini, sources with knowledge of the matter said.
+One of the people said Google has projections for demand in different areas, including research and model training, serving products such as search and Gemini, and working with cloud customers. Those requirements are modeled years in advance, the person said, though capacity may shift over shorter periods if a product grows faster than expected or if priorities change.
+Pichai has said on the past two earnings calls that Google continues to prioritize DeepMind's compute needs even as demand from cloud customers grows. Asked in July about TPU allocation, he said Google's "first priority" is securing the compute needed to compete at the frontier in AGI development, calling that work "the foundation for everything we do."
+Pichai went on to say that Google balances that need against the capacity required to run its consumer products and AI models, while increasingly placing TPUs directly in third-party data centers to help satisfy external demand.
+Dan Niles, founder of Niles Investment Management and a Google shareholder, said access to compute is a natural source of tension.
+"Google has all of these other businesses, and they've got to figure out who they're going to give some of these resources to," Niles said. "Somebody's always going to be unhappy in that situation."
+Bringing DeepMind closer to Cloud
+In January, at the World Economic Forum in Davos, Hassabis and Kurian appeared onstage together to discuss enterprise products and use cases.
+It was a striking sight considering how separately the two organizations have historically operated and how far removed Hassabis was from much of the company, according to a person familiar with Google Cloud's operations who asked not to be named in order to speak candidly on the matter.
+The person viewed the joint appearance as a sign that Hassabis was becoming more engaged with enterprise use cases of Google's AI, particularly in areas such as coding and customer service, and reflected a broader effort to bring the company's research and commercial operations closer together as it competes with OpenAI and Anthropic.
+In the months that followed, Google ran into a number of snags with its models, most notably delaying the launch of its newest flagship model, Gemini 3.5 Pro. At the same time, Kurian's business has seen its most explosive growth on record.
+Kurian, a former top Oracle executive, has led Google Cloud since 2019, building a bustling enterprise sales organization at a company known for its dominance in consumer internet. Google Cloud designs its own AI chips, operates a global data center network, and sells models, databases, security software, and tools for building AI agents.
+The strategy gives Google multiple ways to profit from AI demand. It can sell infrastructure to OpenAI, Anthropic, and other labs, while offering Gemini to enterprises and integrating AI across Search, YouTube, Workspace and its other products.
+The emerging question, almost four years into the generative AI craze, is whether Google needs to develop the best AI models or if it's better off letting other companies foot the bill.
+Kavukcuoglu told CNBC at the company's developer conference in May that Google aims to push the frontier while also improving efficiency. He said the company's Flash model delivers frontier-level capabilities while running four times faster and more efficiently than comparable models, allowing Google to extend advanced AI across enterprise and consumer services.
+Like Tunguz, Niles said the most powerful model is unnecessary for many commercial applications.
+"The models are good enough for 90% of what needs to get done," he said. "You don't need a Ferrari for this stuff. A Ford will work for 90% of the use cases."
+But for the scientists and researchers trying to produce the next transformer-scale breakthrough, being good enough isn't always good enough.`,
+    bodyJa: `どこに座るかに応じて、Google は人工知能の分野で最もうらやましい地位を占めているか、あるいはイノベーションの最前線に立つ主要な AI ラボやその他の新興企業に優秀な人材を流出させているかのどちらかです。
+これは過去 2 週間で顕著に表れた対照的で、同社がクラウド部門で 82% の収益増加を報告したことに始まり、水曜日には Google の AI 組織に大改革が起こり、チーフサイエンティストのジェフ・ディーン氏が 27 年間勤務した退任を発表した。
+生成型 AI ブームへの道を開いた有名な 2017 年の変圧器論文の本拠地である Google にとって、最近の出来事は、4 兆ドル規模の企業が直面する中心的な課題、つまりどこに投資するかを浮き彫りにしています。フロンティア モデルの構築には、将来の収益の保証がないコンピューティングと研究に莫大な初期費用が必要ですが、クラウド ビジネスは効率性が高いことが証明されており、Amazon や Microsoft の競合製品よりもはるかに速いスピードで成長しています。
+アルファベットのサンダー・ピチャイ最高経営責任者（CEO）は先月の決算会見で、フォーチュン100企業の90％がGemini Enterpriseを利用していると述べ、クラウド顧客にAIサービスを販売する同社の能力を強調した。
+Theory Ventures の創設者である Tomasz Tunguz 氏は、企業の需要のほとんどを満たすには最上位モデルは必要ないことが明らかになりつつあると述べました。
+「特に多くのホワイトカラーの仕事において、私たちは AI に関してその段階に達していると思います。そこでは合理的なモデルの多くが十分に適しています」とトゥングス氏は言いました。 「モデルの次の進化は、非常に高級なコンピューターを使用している分野で役立つ可能性があります。」
+GoogleのAIに対するフルスタックアプローチは、同社の株価が2025年に65％上昇し、すべてのメガキャップ同業他社を上回った後、今年16％上昇した大きな理由である。
+最近はでこぼこした道が続いています。アルファベット株は設備投資への懸念から最新の決算発表後に下落し、ディーン氏が退任し、デミス・ハサビス氏がグーグル・ディープマインドのCEOを辞任して同部門の会長に就任するという発表を受けて水曜日にはさらに下落した。
+ウォール街の論調は概して好意的だが、Google社内では誰もが祝福しているわけではない。
+機密保持のため匿名を希望した関係者によると、一部の研究者は、Google CloudがAnthropicを含む外部顧客にTPUを販売するのを見ながら、野心的なプロジェクトを推進するために必要なコンピューティング能力へのアクセスに不満を募らせているという。テンソル プロセッシング ユニット (TPU) は、Nvidia のグラフィックス プロセッシング ユニットと競合する同社の自社製 AI チップです。
+Google の官僚主義は、研究を製品に移すために何層もの承認が必要となるため、フラストレーションの一般的な原因となっています。これにより、特にバランスシートよりも実験室での作業を好む AI 研究者や開発者にとって、OpenAI、Anthropic、さらには若い新興企業のような新興企業がより魅力的なものになる可能性があります。
+ディーンは、Google スターのサンジェイ・ゲマワット、オリオル・ヴィニャルズ、クオック・リーとともに退社し、Discovery Loop を開始します。 Xについてディーン氏は、Googleの支援を受けるこのスタートアップは「機械学習、科学、エンジニアリングを自動化し、発見と進歩を加速することを使命とする」公益法人になると述べた。
+彼らの退任は、生成型 AI の基礎を提供した 2017 年の画期的な論文「Attending Is All You Need」の著者の 1 人であるノーム・シャジーアを含む他の著名な研究者の退任に続くものです。著者8人全員が現在Googleを退職している。シャジーア氏は、Googleが買収を通じて彼を呼び戻すために約30億ドルを支払ってから2年も経たないうちに、6月にOpenAIに退職した。彼の退社は、ノーベル賞受賞者のジョン・ジャンパー氏がディープマインドを離れアンスロピック社に移る直前に行われた。
+「歴史の一部」
+DAのアナリスト、ギル・ルリア氏はこう語る。デビッドソン氏は、優秀な人材の流出を見ると明らかな傾向があると述べた。
+「彼らはAIの商業化には興味がない」とアルファベット株の保有を推奨するルリア氏は言う。 「彼らは歴史の一部になることに興味があるので、歴史を追求できる場所としてAnthropic、OpenAI、またはその他のスタートアップを検討しています。」
+グーグルでは、ディーン氏はトランプ政権を積極的に批判する数少ない著名な発言者の一人であり、今年初めにはアンスロピックをサプライチェーンリスクに指定するという国防総省の決定に声高に反対し、この動きが広範な米国のAI産業に損害を与える可能性があると警告した。
+さらに重要なのは、技術的な観点から見て、彼はコンピューティング インフラストラクチャとニューラル ネットワーク システムの構築に貢献し、同社を現代 AI の初期のリーダーとして確立しました。
+2010年にディープマインドを共同設立し、4年後にグーグルに売却したハサビス氏は同部門の会長に就任し、アルファベットで新たに創設された主席研究員の役割を引き継ぎ、汎用人工知能（AGI）の長期研究と社会的影響に重点を置く。彼はまた、DeepMind から発展した AI 創薬会社である Isomorphic Labs にもっと多くの時間を費やす予定です。
+DeepMind のテクノロジー責任者であり、Alphabet のチーフ AI アーキテクトである Koray Kavukcuoglu 氏が、次期 Gemini モデルの部門と開発の日常管理を引き継ぎます。 DeepMind チームに近い関係者によると、Kavukcuoglu 氏はこの 1 年間、モデル開発の指揮や Gemini の主要リリースの発表など、より幅広い責任を Hassabis から引き受けていました。一方、ハサビス氏は研究室から離れて多くの時間を費やし、規制と高度なAIの長期的な影響に焦点を当てている。
+Google 社内での最大の摩擦点の 1 つはコンピューティングです。
+Google は、データセンター、チップ、および関連インフラストラクチャに対して、世界中のほぼどの企業よりも多くの投資を行っています。しかし、容量は依然として不足しています。モデルのトレーニング、Google 製品の提供、クラウド顧客との契約履行に割り当てられたすべての TPU は、競合する優先事項の中からの選択を反映しています。
+コンピューティングへのアクセスをめぐる不満は、GoogleがAnthropicのような競合研究所への大規模なインフラストラクチャ契約を発表したときに特に深刻になる可能性があり、そのモデルはGeminiと直接競合する、と事情に詳しい関係者らは述べた。
+関係者の1人は、Googleは研究やモデルのトレーニング、検索やGeminiなどの製品の提供、クラウド顧客との連携など、さまざまな分野での需要を予測していると語った。同関係者によると、こうした要件は何年も前からモデル化されているが、製品が予想よりも早く成長したり、優先順位が変わったりした場合には、生産能力が短期間で変化する可能性があるという。
+ピチャイ氏は過去2回の決算会見で、クラウド顧客からの需要が高まっているにもかかわらず、Googleは引き続きDeepMindのコンピューティングニーズを優先していると述べた。 7月にTPUの割り当てについて尋ねられた同氏は、Googleの「最優先事項」はAGI開発の最前線で競争するために必要なコンピューティングを確保することであり、その取り組みが「私たちが行うすべての基盤」であると述べた。
+ピチャイ氏は続けて、Googleは外部需要を満たすためにTPUをサードパーティのデータセンターに直接配置することを増やしながら、その需要と自社の消費者向け製品やAIモデルの実行に必要な容量のバランスを取っていると述べた。
+Niles Investment Management の創設者で Google の株主でもある Dan Niles 氏は、コンピューティングへのアクセスは当然の緊張の源であると述べました。
+「Googleは他にもさまざまな事業を展開しており、これらのリソースの一部を誰に提供するかを考えなければならない」とナイルズ氏は語った。 「そのような状況では、必ず誰かが不幸になります。」
+DeepMind をクラウドに近づける
+1月にダボスで開催された世界経済フォーラムで、ハサビス氏とクリアン氏は一緒にステージに登場し、エンタープライズ製品とユースケースについて議論した。
+この件について率直に話すため匿名を希望した Google Cloud の運営に詳しい関係者によると、この 2 つの組織が歴史的にどれほど別々に運営されてきたか、そして Hassabis が会社の大部分からどれほど離れていたかを考えると、これは驚くべき光景だったという。
+同関係者は、今回の共同出演を、ハサビス社が特にコーディングや顧客サービスなどの分野でグーグルのAIのエンタープライズユースケースにもっと関与しつつあることの表れであり、OpenAIやAnthropicと競合する同社の研究と商業事業を緊密に連携させる広範な取り組みを反映していると見ていた。
+その後の数か月間、Google は自社モデルで多くの障害に遭遇し、最も注目に値するのは最新の主力モデルである Gemini 3.5 Pro の発売が遅れたことです。同時に、クリアンのビジネスは記録上最も爆発的な成長を遂げました。
+Oracle の元トップ幹部であるクリアン氏は、2019 年から Google Cloud を率いており、消費者向けインターネットでの優位性で知られる同社で、活気のあるエンタープライズ販売組織を構築しています。 Google Cloud は独自の AI チップを設計し、グローバル データセンター ネットワークを運営し、AI エージェントを構築するためのモデル、データベース、セキュリティ ソフトウェア、ツールを販売しています。
+この戦略により、Google は AI 需要から利益を得る複数の方法を得ることができます。 OpenAI、Anthropic、その他の研究機関にインフラストラクチャを販売すると同時に、Gemini を企業に提供し、検索、YouTube、Workspace、その他の製品全体に AI を統合できます。
+生成型 AI のブームが始まってからほぼ 4 年が経ち、新たな問題は、Google が最高の AI モデルを開発する必要があるのか​​、それとも他の企業に費用を負担してもらう方が良いのかということです。
+カブククオグル氏は5月に開催された同社の開発者カンファレンスでCNBCに対し、Googleは効率を向上させながら新境地を開拓することを目指していると語った。同氏は、同社のFlashモデルはフロンティアレベルの機能を提供しながら、同等のモデルに比べて4倍高速かつ効率的に実行できるため、Googleは高度なAIをエンタープライズサービスとコンシューマーサービス全体に拡張できると述べた。
+ナイルズ氏もツングス氏と同様、最も強力なモデルは多くの商用アプリケーションには不要だと述べた。
+「モデルは、実行する必要のあることの 90% を達成するのに十分です」と彼は言いました。 「この用途にはフェラーリは必要ありません。ユースケースの 90% にはフォードで機能します。」
+しかし、次の変圧器規模のブレークスルーを生み出そうとしている科学者や研究者にとって、十分に優れているだけでは必ずしも十分とは限りません。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html",
+    publishedAt: "2026-08-06T06:06:18+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "winemakers-prosper-but-veg-farms-wilt-in-941b9fd0",
+    title: "Winemakers prosper but veg farms wilt in the drought",
+    titleJa: "ワインメーカーは繁栄するが、野菜農場は干ばつで衰退する",
+    summaryJa: "ワインメーカーは繁栄するが、野菜農場は干ばつで衰退する- 公開されました",
+    bodyOriginal: `Winemakers prosper but veg farms wilt in the drought
+- Published
+Until this year, Phil Collins, a Wiltshire vegetable farmer, had never had an overdraft. Six weeks without rain has scorched his cauliflowers, shrivelled his spuds, and shrunk his bank balance.
+"Six thousand cauliflowers at £1.25 each," he said ruefully. "You do the maths."
+Veg farmers across the country are warning of a shortage of produce after the driest July for 190 years. But there are winners, notably winemakers.
+"The vines love the warm, dry days," said Somerset winemaker Sandy Luck.
+So as the heatwaves and drought persist, who is thriving, who is struggling, and will farmers have to change what they grow in a warming climate?
+Walking between the vines in Sandy Luck's Aldwick Estate vineyard, just south of Bristol, you could be in Southern France, not North Somerset. The sun is out, again, and the grapes are plump and plentiful.
+"We're getting nice ''veraison' here, look at that," she says, showing me a bunch where some of the young green fruit are turning purple, tinged with grey.
+"We're ahead of the game this year."
+Winemakers love this summer. The long hot dry days have helped ripen the fruit and "keep disease at bay", as Luck puts it. There is a subtle shift too.
+More sun means more sugar in the grapes, which will mean higher alcohol content.
+This allows English winemakers to produce still red wines, where traditionally the cool climate had limited them to drier sparkling varieties.
+A hot dry summer in 2025 meant Aldwick produced some "very good looking still reds" from the Pinot Noir grapes, instead of using them for fizz.
+"It makes a more rounded wine," Luck explained. "The quality is higher, and we have more variety we can make," she explained.
+Simply put, the South and South West of England are now frequently getting the kind of summers found in central France 20 years ago. So making French style wine is now possible, and Aldwick frequently win awards for their Somerset vintages.
+Hot summers also mean more wine. In 2025, English wine production was 55% up on the previous year.
+So could French weather mean French wine prices? English wine has always been more expensive than continental competition.
+"Sadly not," Luck smiled. "We are a small team, our vineyard is just over 12 acres, and we are going for quality not quantity."
+Just 50 miles from the thriving Somerset grapevines, in a field near Devizes, Phil Collins shows me a much sadder sight.
+"Six and a half thousand cauliflowers here, which have just basically cooked," he explained.
+The leaves are brown and crispy. Inside there are tiny cauliflowers, brown and dried up. We walk on, through a field of potatoes, the plants shrivelled to nothing and lying brown on the soil.
+"This is Marfona, which is meant to be a drought resistant variety," Collins said.
+"But this year has just been so dry, it couldn't cope with it. The plants should be two foot high and green - there's nothing left there."
+He and his team sell veg through farmers' markets, but still compete with supermarket prices. If he was to irrigate all his crops to keep them alive, the costs would be so high his cauliflowers, spuds and carrots would be far pricier than supermarket alternatives.
+He picks runner beans each morning, and is getting "about a third of the normal crop".
+"I've never had an overdraft in thirty years," he said. "This year has been so bad, we've no choice. We will get over it, but it'll take a while."
+Met Office climate scientists are clear: the heatwaves of 2026 are exacerbated by climate change, and the UK will see more hot dry summers more often.
+"We are seeing the emergence of new warmer climates," explained Mike Kendon, climate scientist at the Met Office.
+Farmers like Sandy Luck and Phil Collins know this, and are trying to plan.
+For vineyards, it is mostly good news. Well-tended vines sink deep roots, and the heat stress "is actually good for them, making them go deeper, and put out more grapes," explained Luck.
+But Phil Collins is wondering what plants to grow next year. "Pumpkins are a mediterranean crop, they should do OK, but even they have struggled this year with the dry," he said.
+He looked out across his fields of brown, scorched plants.
+"I really just don't know what to grow if it carries on like this."
+Get in touch
+Tell us which stories we should cover in Somerset
+Follow BBC Somerset on Facebook, external and X, external. Send your story ideas to us on email or via WhatsApp on 0800 313 4630.
+Related topics
+- Published1 day ago
+- Published29 July
+- Published2 days ago
+- Published15 July`,
+    bodyJa: `ワインメーカーは繁栄するが、野菜農場は干ばつで衰退する
+- 公開されました
+ウィルトシャー州の野菜農家であるフィル・コリンズさんは、今年になるまで当座貸越をしたことがなかった。 6週間雨が降らなかったため、カリフラワーは焦げ、スパッドはしなび、銀行残高は減少した。
+「6,000個のカリフラワーが1本1.25ポンドだ」と彼は残念そうに言った。 「あなたは計算をします。」
+全国の野菜農家は、190年ぶりに最も乾燥した7月以降、農作物が不足すると警告している。しかし、勝者、特にワインメーカーもいます。
+「ブドウの木は暖かく乾燥した日を好みます」とサマセット州のワインメーカー、サンディ・ラック氏は言う。
+それでは、熱波と干ばつが続く中、誰が繁栄し、誰が苦境に立たされているのでしょうか?そして、農家は温暖化気候で栽培するものを変えなければならないのでしょうか?
+ブリストルのすぐ南にあるサンディ ラックのアルドウィック エステートのブドウ園のブドウ畑の間を歩いていると、そこは北サマセットではなく南フランスかもしれません。太陽が再び出て、ブドウはふっくらと豊かに実ります。
+「ここでは素敵な『ベレゾン』ができていますよ、見てください」と彼女は言い、若い緑色の果実のいくつかが紫色に変わり、灰色がかっている一房を私に見せた。
+「今年は我々が先を行っている。」
+ワインメーカーはこの夏を愛しています。長く暑くて乾燥した日が果物を成熟させ、幸運の言葉を借りれば「病気を寄せ付けない」のに役立っている。微妙なズレもあります。
+太陽の光が多ければブドウの糖分も多くなり、アルコール度数も高くなります。
+これにより、英国のワインメーカーは伝統的に冷涼な気候のせいで辛口のスパークリング品種しか生産できなかったが、スティル赤ワインの生産が可能になった。
+2025年の暑くて乾燥した夏により、アルドウィックはピノ・ノワールのブドウをフィズ用に使用する代わりに、「非常に見栄えの良いスティル・レッド」を生産しました。
+「それにより、よりまろやかなワインが生まれます」とラック氏は説明した。 「品質はより高く、より多くの種類を作ることができます」と彼女は説明しました。
+簡単に言うと、イングランド南部と南西部は現在、20年前にフランス中部で見られたような夏が頻繁に訪れるようになっている。そのため、フランススタイルのワインを作ることが可能になり、アルドウィックはサマセットのヴィンテージで頻繁に賞を受賞しています。
+暑い夏にはワインも必要になります。 2025 年のイギリスのワイン生産量は前年比 55% 増加しました。
+それでは、フランスの天気はフランスワインの価格を意味するのでしょうか？イギリスのワインは常に大陸のワインよりも高価でした。
+「残念ながらそうではありません」とラックは微笑んだ。 「私たちは小規模なチームで、ブドウ畑の面積は 12 エーカー強で、量ではなく質を重視しています。」
+生い茂るサマセットブドウ畑からわずか80マイル離れたデバイズ近くの畑で、フィル・コリンズはもっと悲しい光景を私に見せた。
+「ここには65000個のカリフラワーがあり、ほぼ調理済みです」と彼は説明した。
+葉は茶色でシャキシャキしています。中には茶色く枯れた小さなカリフラワーが入っています。私たちはジャガイモ畑の中を歩き続けましたが、ジャガイモはしなびて土の上に茶色く横たわっていました。
+「これはマルフォナです。乾燥に強い品種です」とコリンズ氏は言う。
+「しかし、今年は非常に乾燥していたので、それに対処できませんでした。植物は高さ2フィートで緑でなければなりません。そこには何も残っていないのです。」
+彼と彼のチームはファーマーズ マーケットを通じて野菜を販売していますが、依然としてスーパーマーケットの価格と競合しています。もし彼がすべての作物を生かし続けるために灌漑をしたとしたら、そのコストは非常に高くなり、彼のカリフラワー、スパッド、ニンジンはスーパーマーケットの代替品よりもはるかに高価になるでしょう。
+彼は毎朝ランナー豆を収穫し、「通常の収穫量の約3分の1」を収穫している。
+「30年間一度も当座貸越をしたことがない」と彼は言った。 「今年は本当にひどい年だったので、私たちには選択の余地がありません。必ず乗り越えますが、時間がかかります。」
+気象庁の気候科学者らは、2026年の熱波は気候変動によってさらに悪化し、英国では乾燥した暑さの夏がより頻繁に起こるだろうと明言している。
+「新たな温暖な気候の出現が見られます」と気象庁の気候科学者マイク・ケンドン氏は説明する。
+サンディ・ラック氏やフィル・コリンズ氏のような農家はこのことを知っており、計画を立てようとしている。
+ブドウ園にとって、これはほとんど良いニュースだ。よく手入れされたブドウの木は根が深く沈み、暑さのストレスが「実はブドウの木に良い影響を与え、より深く根を張り、より多くのブドウを実らせるのです」とラック氏は説明した。
+しかしフィル・コリンズさんは、来年どんな植物を育てようか迷っている。 「カボチャは地中海産の作物なので大丈夫なはずだが、それでも今年は乾燥に苦戦している」と同氏は語った。
+彼は茶色く焦げた植物の畑を見渡しました。
+「このままだと何を育てればいいのか全く分かりません。」
+連絡する
+サマセットで取り上げるべきストーリーを教えてください
+Facebook (外部) および X (外部) で BBC Somerset をフォローしてください。ストーリーのアイデアを電子メールまたは WhatsApp (0800 313 4630) でお送りください。
+関連トピック
+- 1 日前に公開
+- 7 月 29 日発行
+- 2 日前に公開
+- 7 月 15 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-06T05:19:40+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81de/live/87127c20-90d7-11f1-a5b9-331adf7bef90.jpg",
+    readTime: 6,
+  },
+  {
+    id: "cashing-in-on-spacex-every-chance-i-get-237a000b",
+    title: "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+    titleJa: "SpaceXで儲ける：「チャンスがあれば、もう少し売ろう」",
+    summaryJa: "SpaceXで儲ける：「チャンスがあれば、もう少し売ろう」- 公開されました",
+    bodyOriginal: `Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'
+- Published
+Andre Lavoie joined SpaceX in 2009 as an engineer, designing the pressure tanks that help power its rocket. He was paid partly in stock - a common trade-off at start-ups as a hiring incentive.
+Some 17 years on, those 200,000 shares he was given are worth about $23m (£17m) - and the 63-year-old says he's ready to start cashing them as soon as he can.
+"Every chance I get going forward, I'll sell a little bit more," he tells the BBC.
+"The shares have been going up so radically it keeps messing up my life plans - you really can't know the future, so it's better to sell early and in intervals."
+Lavoie is far from being the only one who has seen the value of his stake in SpaceX rocket over the years.
+The company's founder, Elon Musk, said on Fox News that SpaceX's listing on the stock market in June had likely made "several thousand" employees millionaires - including staff "who were working on the production line".
+According to reports, there are estimated to be 4,400 new millionaires created by the listing.
+Unlike most newly-listed firms, SpaceX shares are set to be released in stages: the first 20% on 6 August, with more due in batches through the rest of the year.
+Whether or not shareholders decide to sell their stake at the first opportunity is a matter for individuals. Unlike Lavoie, some may choose to hold onto their shares altogether in the hope of bigger gains later.
+SpaceX listed on the Nasdaq in June, in the biggest initial public offering (IPO) in history, valuing the rocket and satellite firm at more than $2 trillion.
+It briefly made Elon Musk the world's first trillionaire, before the stock cooled and his fortune slipped back below the milestone within weeks.
+In its first results as a public company this week, the firm's quarterly revenue was shown to have nearly doubled to $7.8bn (£5.8bn) from a year earlier, while its spending ballooned to $18.3bn - more than six times what it was a year ago.
+Overall, SpaceX made a net loss of $143m in the three months to June, and a loss of $2bn during the first six months of the year.
+Musk pushed back against sceptics on an earnings call: "I think people are really underestimating Starlink". He predicted the satellite internet service - the one part of the company that is currently making a profit - could one day deliver a majority of the world's internet.
+But shares in the company tumbled on the back of the earnings report, with investors generally spooked by the huge amounts of money being spent on AI.
+Lavoie plans to use his money from selling some of his shares to fund a hotel he is renovating in Pontebba, Italy's northeastern Friuli region, plus a small brewery.
+He says is priority for the future is raising awareness of air pollution in the area, in partnership with a local environmental group.
+Before he was hired, Lavoie was interviewed by Musk himself.
+"He's a very charming person when he wants something," Lavoie says.
+He wouldn't be drawn on Musk's politics - "that's his business" - but is unreserved about the company: "I've always been happily supportive and impressed, and would work hard with those incredible people again."
+Some analysts value SpaceX at less than half its current stock market price, warning its ties to xAI carry real financial risk - part of a broader worry on Wall Street that sky-high valuations for AI-linked firms, including SpaceX, OpenAI and Anthropic, could prove overdone.
+Sinead O'Sullivan, an economist who has previously worked for Nasa, told the BBC in June she thinks SpaceX is an "Elon Musk ego project".
+"You're buying a share of the Elon Musk brand more than any kind of space industry," she said.
+But Ron Epstein, an aerospace analyst at Bank of America Securities, says the recent share price swings say more about the market than the company.
+"A lot of it has to do with macro trends," he says. "None of it really has anything to do with what's going on fundamentally at the company."
+He says investors judging SpaceX purely as an AI bet are missing the point: "They're not just a compute provider. They're not just an AI company. It's a far more complicated picture than that."
+SpaceX, he adds, has cut the cost of reaching orbit from around $10,000-$20,000 a kilogram to about $2,000 with its Falcon 9 rocket - "they have built a railroad to space."
+Lavoie, for his part, isn't rattled. He says: "The solid business model of SpaceX will prove itself to be worth the investment,"even as he takes some of his own winnings off the table.
+- Published18 hours ago`,
+    bodyJa: `SpaceXで儲ける：「チャンスがあれば、もう少し売ろう」
+- 公開されました
+アンドレ・ラヴォワ氏は、2009 年にエンジニアとしてスペース X に入社し、ロケットに動力を供給する圧力タンクを設計しました。彼は給与の一部を株式で受け取ったが、これは雇用インセンティブとしてスタートアップ企業ではよくあるトレードオフだった。
+それから約17年が経ち、彼に与えられた20万株の価値は約2,300万ドル（約1,700万ポンド）に達し、63歳の彼はできるだけ早く現金化を始めるつもりだと語った。
+「今後機会があれば、もう少し売ろうと思います」と彼はBBCに語った。
+「株価があまりにも急激に上昇しており、私の人生計画が狂い続けています。未来は本当にわかりません。ですから、早めに、間隔をあけて売却したほうが良いのです。」
+長年にわたってスペースXロケットへの出資の価値を認識してきたのはラボワ氏だけではない。
+同社の創設者イーロン・マスク氏はFOXニュースで、スペースXが6月に株式市場に上場したことで、「生産ラインで働いていた」スタッフを含む「数千人」の従業員が億万長者になった可能性が高いと語った。
+報道によると、この上場により新たに億万長者が4,400人誕生すると推定されている。
+ほとんどの新規上場企業とは異なり、スペースX株は段階的に放出される予定で、8月6日に最初の20％が放出され、残りの期間を通じてさらに多くの放出が予定されている。
+株主が最初の機会に株式を売却するかどうかは個人の問題です。ラヴォワとは異なり、後でさらに大きな利益を期待して株式を完全に保持することを選択する人もいるかもしれません。
+スペースXは6月、史上最大の新規株式公開（IPO）でナスダックに上場し、ロケット・衛星企業の評価額​​は2兆ドルを超えた。
+これによりイーロン・マスク氏は一時的に世界初の大富豪となったが、数週間以内に株は冷え込み、彼の資産は節目を下回った。
+今週公開企業として初めて発表された決算では、同社の四半期売上高が前年同期比ほぼ2倍の78億ドル（58億ポンド）となった一方、支出は183億ドルに膨れ上がり、前年の6倍以上となった。
+全体として、SpaceX は 6 月までの 3 か月で 1 億 4,300 万ドルの純損失を出し、今年最初の 6 か月では 20 億ドルの損失を出しました。
+マスク氏は決算会見で懐疑論者に対し「人々はスターリンクを本当に過小評価していると思う」と反論した。同氏は、現在利益を上げている同社の一部である衛星インターネット サービスが、いつか世界のインターネットの大部分にサービスを提供できるようになるだろうと予測した。
+しかし、投資家はAIに巨額の資金が費やされることに一般的に恐怖を感じており、同社の株価は決算報告を受けて急落した。
+ラヴォワ氏は、保有株の一部を売却して得た資金を、イタリア北東部フリウリ地方ポンテッバにある改装中のホテルと小さな醸造所の資金に充てることを計画している。
+今後の優先事項は、地元の環境団体と協力して、その地域の大気汚染に対する意識を高めることだと彼は言う。
+雇用される前に、ラヴォワ氏はマスク氏自身から面接を受けた。
+「何かを望むとき、彼はとても魅力的な人です」とラヴォワさんは言う。
+同氏はマスク氏の政治には関心を示さないが、「それは彼の仕事だ」と述べたが、同社については遠慮がない。「私はいつも喜んでサポートし、感銘を受けてきたし、またあの素晴らしい人々と一緒に一生懸命働くつもりだ」と語った。
+アナリストの中には、スペースXの株価を現在の株価の半分以下と評価し、xAIとの関係には実質的な財務リスクがあると警告する人もいる。これは、スペースX、オープンAI、アンスロピックなどのAI関連企業の高騰する評価が行き過ぎであることが判明する可能性があるというウォール街での広範な懸念の一環だ。
+以前NASAで働いていた経済学者シニード・オサリバン氏は6月にBBCに対し、スペースXは「イーロン・マスクのエゴプロジェクト」だと考えていると語った。
+「あなたはどんな宇宙産業よりもイーロン・マスク・ブランドの株を買っているのです」と彼女は言った。
+しかし、バンク・オブ・アメリカ証券の航空宇宙アナリスト、ロン・エプスタイン氏は、最近の株価の変動は同社のことよりも市場のことを物語っていると語る。
+「その多くはマクロトレンドに関係しています」と彼は言う。 「そのどれも、会社で根本的に起こっていることとはまったく関係がありません。」
+同氏は、スペースXを純粋にAIへの投資として判断している投資家は要点を見逃していると述べ、「彼らは単なるコンピューティングプロバイダーではない。単なるAI企業でもない。事態はそれよりもはるかに複雑だ」と述べた。
+同氏は、スペースX社はファルコン9ロケットにより、軌道に到達するコストを1キログラム当たり約1万ドルから2万ドルから約2千ドルに削減したと付け加えた。「彼らは宇宙への鉄道を建設したのだ」と付け加えた。
+ラヴォワ氏は動揺していない。彼は、自分の賞金の一部を差し引いても、「スペースXの堅実なビジネスモデルは、投資に値するものであることが証明されるだろう」と述べている。
+- 18 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-06T05:00:54+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e8/live/c0b97ce0-910d-11f1-b61e-4f9456542bbf.png",
+    readTime: 5,
+  },
+  {
     id: "u-s-ready-to-return-to-commitments-iran-210ce061",
     title: "U.S. ready to return to 'commitments,' Iran says, after Trump signals deal is near",
     titleJa: "トランプ大統領が合意が近いと示唆した後、米国は「約束」に戻る用意があるとイランが表明",
@@ -213,6 +557,82 @@ BBCはホワイトハウスにコメントを求めた。
     readTime: 5,
   },
   {
+    id: "inside-india-newsletter-what-s-behind-in-c579bb72",
+    title: "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
+    titleJa: "Inside India ニュースレター: インドが国有企業の株式売却を急ぐ背後にあるもの",
+    summaryJa: "こんにちは、シンガポールからメッセージを書いているプリヤンカ・サルベです。「インサイド・インディア」の最新版へようこそ。世界で最も急速に成長している大経済国のストーリーや展開をワンストップでご覧いただけます。",
+    bodyOriginal: `Hello, this is Priyanka Salve, writing to you from Singapore.
+Welcome to the latest edition of "Inside India" — your one-stop destination for stories and developments from the world's fastest-growing large economy.
+The Indian government has been rushing to sell stakes in state-owned companies this year. So far, it has pared its stake in 10 public sector companies, raising more than 620 billion rupees ($6.5 billion) this year. This week, I unpack what's driving India to meet its often-missed disinvestment target.
+Any thoughts on today's newsletter? Share them with the team.
+The big story
+It can be difficult to be the world's fastest-growing large economy when inflationary pressures and fiscal constraints threaten to put the brakes on government spending.
+But India cannot afford to lose its growth edge as it competes for the attention of global investors who have already put the country on the back burner as they focus on artificial intelligence-driven plays — something the South Asian country's growth story has been missing.
+So, to keep its growth engine running amid a widening fiscal deficit, the country is ramping up stake sales in state-owned companies, with the government offloading shares in 10 firms since the start of the year, despite dull market conditions.
+The government has sold shares in several companies including Cochin Shipyard, Indian Railways Finance Corp, NHPC, and Coal India this year and, on Wednesday, it completed one of its biggest stake sale.
+It raked in $3.3 billion by selling a 6.5% stake in the country's top life insurer, Life Insurance Corporation of India. The share sale was priced at a 10% discount to attract buyers — unsurprisingly, it was oversubscribed.
+While the government does have an obligation to reduce its stake in these businesses to comply with listing regulations, there has been a sudden and sharp rise in transactions this year.
+The last time the Indian government met its disinvestment goal — target for stake sales in state-owned firms — was in the financial year ending March 2019.
+The disinvestment rush
+Excluding LIC, India has sold stakes in 9 state-owned firms in 2026 and raised nearly 270 billion rupees ($2.8 billion), its highest in more than 10 years, according to Indian market intelligence provider Prime Database.
+And LIC alone surpasses that number by a good margin, signaling the state's increasing proclivity toward raising funds without widening the fiscal deficit.
+The government is well on its way to achieving its annual target of raising 800 billion rupees ($8.4 billion) through stake sales in state-owned enterprises, experts said, adding that these funds will be crucial for India as it faces deepening macroeconomic headwinds. The country has now met over 65% of its annual disinvestment target.
+"Tapping into the divestment proceeds is a very good strategy," Anubhuti Sahay, head of India economic research at Standard Chartered Bank, told CNBC, adding that the government is facing a downside revenue risk and an upside expenditure risk due to a higher subsidy burden.
+India did not meet its disinvestment targets for years as it was in a "comfortable fiscal situation," she said, adding that right now the stake sale is akin to tapping into "family silver" in times of need.
+For the quarter ending June, the country's goods and services trade deficit was $37.4 billion. Its fiscal deficit at the end of June was 3.1 trillion rupees, or 18.2% of the budget estimate for the financial year ending March 2027.
+While this is not unusual for India, the country has also seen strong capital outflows from foreign investors, which limits its ability to cover the rising import expenses. The capital outflows have led to currency weakness and tighter domestic financial conditions, experts said.
+The acceleration of government stake sales reflects "greater fiscal pressure," Alexandra Hermann Prasad, lead economist at Oxford Economics, told CNBC, adding that these funds will "provide useful non-debt revenue as strong expenditure growth makes the deficit target harder to achieve."
+Non-debt revenue is the income earned by a government that does not have future repayment liabilities.
+Global brokerage Citi, in a report on Monday, called it a "favorable" trend, adding that during the quarter ended June, India's fuel, food and fertilizer subsidies had increased 37% on year but the South Asian country has not scaled back its capex spending.
+Higher-than-expected proceeds from disinvestment are likely to ease the fiscal pressures arising from GST rationalization in September 2025, as well as costs associated with the policy response to the Middle East shock, Christian de Guzman, SVP, Sovereign Risk Group at Moody's Ratings, told CNBC.
+Need to know
+An exam leak in India exposed a Gen Z jobs crisis that goes much deeper
+India's youth unemployment crisis has become one of the biggest vulnerabilities for Prime Minister Narendra Modi's government, exposing the gap between the country's economic ambitions and the reality facing millions of young graduates.
+J.P. Morgan expects India IPO activity to pick up in the second half of 2026
+India's IPO market is entering a stronger second half of 2026, supported by improving market conditions, lower volatility and a more stable macroeconomic backdrop, J.P. Morgan's Abhinav Bharti told CNBC's Inside India on Tuesday.
+Coming up
+Aug. 10: IPO of Bain Capital-backed Dhoot Transmission opens.
+Aug. 12: CPI Inflation data for July.`,
+    bodyJa: `こんにちは、シンガポールからメッセージを書いているプリヤンカ・サルベです。
+「インサイド・インディア」の最新版へようこそ。世界で最も急速に成長している大経済国のストーリーや展開をワンストップでご覧いただけます。
+インド政府は今年、国有企業株の売却を急いでいる。これまでのところ公共部門企業10社への出資を削減し、今年は6200億ルピー（65億ドル）以上を調達した。今週は、インドがしばしば達成できない投資削減目標を達成する原動力となっているものを解き明かします。
+今日のニュースレターについて何かご意見はありますか?それらをチームと共有します。
+大きな話
+インフレ圧力と財政制約により政府支出にブレーキがかかる恐れがある場合、世界で最も急成長する大経済国になることは困難になる可能性があります。
+しかし、インドは、人工知能主導の事業に注力するあまりインドを後回しにしてきた世界的な投資家の注目を集めるために競争しているため、その成長の優位性を失うわけにはいかない――この南アジアの国の成長物語には欠けているものがある。
+そのため、財政赤字が拡大する中で成長エンジンを動かし続けるため、同国は国有企業の株式売却を強化しており、市場環境が低迷しているにもかかわらず、年初から政府が10社の株式を売却している。
+政府は今年、コーチン造船所、インド鉄道金融公社、NHPC、コール・インディアなど複数の企業の株式を売却しており、水曜日には最大規模の株式売却の一つを完了した。
+同国のトップ生命保険会社であるインド生命保険公社の株式6.5％を売却し、33億ドルを集めた。株式売却は買い手を引き付けるために 10% 割引の価格で行われましたが、当然のことながら、申し込みが殺到しました。
+政府には上場規制を遵守するためにこれらの企業への出資比率を減らす義務があるが、今年になって取引が突然急増した。
+インド政府が最後に投資撤退目標（国有企業の株式売却目標）を達成したのは2019年3月終了の会計年度だった。
+投資撤退ラッシュ
+インド市場情報プロバイダーのプライム・データベースによると、LICを除くインドは2026年に国有企業9社の株式を売却し、過去10年以上で最高となる約2700億ルピー（28億ドル）を調達した。
+そしてLICだけでもこの数字を大きく上回っており、財政赤字を拡大させずに資金調達をするという州の傾向が高まっていることを示している。
+専門家らは、政府は国有企業の株式売却を通じて8000億ルピー（84億ドル）を調達するという年間目標の達成に向けて順調に進んでいると述べ、マクロ経済の逆風が深刻化するインドにとってこれらの資金は極めて重要であると付け加えた。同国は現在、年間投資削減目標の65％以上を達成している。
+スタンダードチャータード銀行のインド経済調査責任者、アヌブティ・サハイ氏はＣＮＢＣに対し、「ダイベストメントの収益を活用することは非常に良い戦略だ」と述べ、政府は補助金負担の増加による歳入の下振れリスクと支出の上振れリスクに直面していると付け加えた。
+同氏は、インドは「快適な財政状況」にあったため、何年も投資削減目標を達成できなかったと述べ、現時点での株式売却は、必要なときに「家族の銀」を利用するようなものだと付け加えた。
+６月までの四半期の同国の物品・サービス貿易赤字は３７４億ドルだった。 ６月末時点の財政赤字は３兆１０００億ルピーで、２０２７年３月終了会計年度の予算見込みの１８．２％に相当した。
+インドにとってこれは珍しいことではないが、同国では海外投資家からの資本流出も激しく、輸入費用の上昇をカバーする能力が制限されている。専門家らは、資本流出が通貨安と国内金融情勢の逼迫を招いていると指摘した。
+オックスフォード・エコノミクスの首席エコノミスト、アレクサンドラ・ヘルマン・プラサド氏は、政府株売却の加速は「財政圧力の増大」を反映しているとCNBCに語り、これらの基金は「支出の大幅な伸びで財政赤字目標の達成が困難になる中、債務以外の有用な収入をもたらす」と付け加えた。
+非債務収入とは、将来の返済義務がない政府が得る収入です。
+世界的な証券会社シティは月曜のリポートでこれを「好ましい」傾向と呼び、6月までの四半期中、インドの燃料、食料、肥料補助金は前年比37％増加したが、南アジアの国は設備投資を削減していないと付け加えた。
+ムーディーズ・レーティングスのソブリン・リスク・グループSVP、クリスチャン・デ・グスマン氏はCNBCに対し、投資回収による収益が予想を上回れば、2025年9月のGST合理化から生じる財政圧力や、中東ショックへの政策対応に関連するコストが緩和される可能性が高いと語った。
+知っておく必要がある
+インドでの試験漏洩により、Z世代の雇用危機がさらに深刻化していることが明らかになった
+インドの若者の失業危機はナレンドラ・モディ首相の政府にとって最大の脆弱性の一つとなっており、国の経済的野心と何百万もの若い卒業生が直面している現実とのギャップを浮き彫りにしている。
+JPモルガン、インドのIPO活動は2026年下半期に活発化すると予想
+JPモルガンのアビナブ・バルティ氏は火曜日、CNBCのインサイド・インディアに対し、市場環境の改善、ボラティリティの低下、より安定したマクロ経済背景に支えられ、インドのIPO市場はより好調な2026年下半期を迎えると語った。
+もうすぐ
+8月10日: Bain Capitalが支援するDhoot TransmissionのIPOが開始される。
+8月12日: 7月のCPIインフレデータ。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
+    publishedAt: "2026-08-06T00:11:08+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "what-s-causing-record-high-us-beef-price-bf5d41df",
     title: "What's causing record high US beef prices?",
     titleJa: "米国産牛肉の価格が記録的に高くなる原因は何でしょうか？",
@@ -397,6 +817,34 @@ An employee who believes a request is unreasonable or inconsistently applied sho
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3041/live/a08095f0-90e8-11f1-a7ab-8b30adf0800a.jpg",
     readTime: 7,
+  },
+  {
+    id: "sandisk-s-stock-falls-as-the-company-s-f-2010d1ab",
+    title: "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
+    titleJa: "会社の予想が高い期待に応えられず、サンディスクの株価が下落",
+    summaryJa: "同社の収益予測の中間点は、アナリストがモデル化していたものを下回っていた。",
+    bodyOriginal: `The midpoint of the company’s revenue forecast was below what analysts had been modeling.`,
+    bodyJa: `同社の収益予測の中間点は、アナリストがモデル化していたものを下回っていた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
+    publishedAt: "2026-08-05T22:25:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-57413903",
+    readTime: 2,
+  },
+  {
+    id: "block-slashed-40-of-its-workforce-for-ai-6321934f",
+    title: "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
+    titleJa: "Block は AI のために従業員の 40% を削減しました - そしてその収益は、その成果が現れていることを示唆しています",
+    summaryJa: "予想を上回る同社の収益報告を受けて、ある幹部は「高品質の製品をずっと、ずっと早く出荷できるようになった」と語った。",
+    bodyOriginal: `“We can ship higher-quality products much, much more quickly,” an executive said in the wake of the company’s better-than-expected earnings report`,
+    bodyJa: `予想を上回る同社の収益報告を受けて、ある幹部は「高品質の製品をずっと、ずっと早く出荷できるようになった」と語った。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
+    publishedAt: "2026-08-05T22:19:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-60833731",
+    readTime: 2,
   },
   {
     id: "infantino-sorry-for-errors-but-stays-fif-048fe76a",
@@ -1572,546 +2020,6 @@ GitHub は AISI からシステム侵害の試みについて通知を受けま�
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab1/live/974e85e0-905d-11f1-b2ab-0dd01740f9f6.jpg",
     readTime: 5,
-  },
-  {
-    id: "could-tech-replace-firefighters-in-the-b-31ba1cc2",
-    title: "Could tech replace firefighters in the battle against wildfires?",
-    titleJa: "テクノロジーは山火事との戦いで消防士に取って代わることができるでしょうか?",
-    summaryJa: "テクノロジーは山火事との戦いで消防士に取って代わることができるでしょうか?- 公開されました",
-    bodyOriginal: `Could tech replace firefighters in the battle against wildfires?
-- Published
-The pictures are familiar, terrifying fires being tackled by firefighters and planes dropping water.
-Hundreds of thousands of people have been forced to leave their homes across France, Spain and Portugal as wildfires tore through forests and countryside.
-In France, four men have already lost their lives fighting the wildfires and another 150 have been injured.
-But why are humans and 30-year old planes being used? Why can drones replace soldiers in Ukraine but not firefighters?
-Chief sergeant Guillaume Millet, a firefighter of 24 years experience heads the Fire and Rescue Service branch of the CFDT union in the Gironde, the region worst hit by wildfires in France this summer.
-He says that while the techniques for tackling fire have not changed much, technology in forest fire detection has.
-"The big change, especially in my département, is that now we've got cameras assisted by artificial intelligence to watch the forest and see where fires are starting," Millet says.
-"In the Gironde, cameras have replaced the human look-outs we had in watch towers in every town throughout the summer months," he says. Those lookouts were often students.
-The switch has reduced false alarms, he says. "An AI-assisted camera can distinguish with almost total certainty between smoke and dust thrown up by a tractor in a field, for example."
-They have an impressive range as well, detecting fires up to 20km (12 miles) away.
-In the Gironde, the system was installed by a company called Midgard. In other parts of France, it's another French start-up called FireTracking.
-"As soon as the system detects a fire, there's an alert on the fire fighters' telephones. They open the application and see what the camera is seeing with a x40 [40 times] zoom," explains FireTracking's CEO Jean-Simon Chaudier.
-"Next to that real-time video there's a map with the exact location of the fire, the position of any nearby houses and a simulation of how, given the weather, the level of humidity and so on, it is expected to spread from minute to minute," he adds.
-And every minute is vital. "For the past 10 days, for example, we have the feedback from a firefighter that our AI detected seven fires 15 minutes before the first phone call. If you can help a firefighter to save 15 minutes, it's the difference between a catastrophe and a fire which can be limited to two or three hectares," Chaudier says.
-"After one minute you can put out a fire with a glass of water, after two you need a tank of water, after three minutes you need to send a Canadair," Chaudier says, talking about the amphibious planes that scoop up water from rivers, lakes and the sea to dump it on the flames that are the spearhead of forest fire fighting here and around the world.
-FireTracking's cameras are currently surveying a million hectares, mainly in France.
-The cost? In the French département of Indre-et-Loire, the company has installed 11 detection sites.
-"In all €1.2m [$1.4m; £1m] was spent to cover the whole 6,000 sq km area [2,300 sq miles]," says Chaudier.
-It is mainly agricultural land. Crop fires are a huge and expensive problem with some 300 a year in this département alone, Chaudier says.
-AI fire detection is going to get better over the coming years. The French civil protection service has a programme called Condor, for example, which is testing solar-powered drones that carry out continuous patrols with electro-optical cameras and AI.
-There are also projects with sensors placed among the trees. Spain's SenForFire, for example, which measures gases released before flames become visible.
-As for drones, firefighter Guillaume Millet says they're being tested in France for sea rescue, dropping lifebuoys and survival kits, but there's no drone tech that's reached that stage yet for firefighting.
-"In fact, the usefulness of technology is very limited in this area," Millet says. "It can help us with detection but it's not technology that puts out fires; you need people to pull the hoses through the forest to attack them."
-Not even aircraft can replace that, he says.
-"When a Canadair drops 6,000 litres of water on a wildfire it reduces its intensity but then firefighters on the ground have to finish what the Canadair started."
-The French are also getting used to the sight of Dash planes that spray fire retardant (ammonium phosphate in the form of an orange powder) in front of the flames to prevent the vegetation from catching fire too quickly.
-But again, that's no substitute for the brawn and water brought by troops on the ground.
-Not yet, at least.
-A French start-up called Daidelos is trying to raise investment for a heavy-lifting, petrol-engine drone.
-If it gets off the ground, it will be able to hover over a fire, spraying it with 1.2 tonnes of water.
-Companies are also developing drones that drop grenades which explode when they come in contact with extreme heat, covering the surrounding area with a chemical powder that smothers, cools and interrupts the combustion chemistry of the fire.
-The hope here is that this could form an autonomous first response, so forest fire detection and drone activation can be so quick that fires can be extinguished as they're starting. It would not be able to do anything against a wildfire once it's really got going.
-French researchers are also working on drones that could fly close to the flames. That wouldn't be to fight the fire exactly but to seize vital information about it; to assess the risks – smoke, sudden weather changes, collapse of burning trees or buildings - before the firefighters move in.
-Technology is already helping firefighters detect fires faster and react to them more effectively. It might soon be able to make their job less dangerous. But replacing them is unlikely, according to Gironde firefighter Guillame Millet.
-"It's always the firefighters on the ground, pulling the hoses, who extinguish the fires," he says. This has been the case since the creation of the first modern fire brigade in the Netherlands in the 1670s. It is not about to change soon.
-- Published3 July
-- Published5 days ago
-- Published28 July`,
-    bodyJa: `テクノロジーは山火事との戦いで消防士に取って代わることができるでしょうか?
-- 公開されました
-写真はおなじみの、消防士が立ち向かう恐ろしい火災と水を投下する飛行機です。
-森林や田園地帯を山火事が襲い、フランス、スペイン、ポルトガル全土で数十万人が家を追われている。
-フランスではすでに山火事との闘いで男性4人が命を落とし、さらに150人が負傷している。
-しかし、なぜ人間と30年前の飛行機が使われるのでしょうか？ウクライナではドローンが兵士の代わりになれるのに、消防士の代わりにならないのはなぜですか?
-消防士として24年の経験を持つギョーム・ミレー巡査部長は、この夏フランスで最も山火事の被害が大きかったジロンド県のCFDT組合消防救助局支部を率いている。
-同氏は、火災に対処する技術はそれほど変わっていないが、森林火災探知の技術は変わったと述べている。
-「特に私の部門での大きな変化は、人工知能の支援を受けたカメラが森林を監視し、火災が発生している場所を確認できるようになったということです」とミレー氏は言う。
-「ジロンドでは、夏の間、各町の監視塔に設置されていた人間の監視員に代わって、カメラが設置されました」と彼は言います。見張りをしているのは学生であることが多かった。
-スイッチのおかげで誤報が減った、と彼は言う。 「AI 支援カメラは、たとえば畑でトラクターが巻き上げる煙と粉塵をほぼ確実に区別できます。」
-範囲も非常に広く、最大 20 km (12 マイル) 離れた場所の火災を検知します。
-ジロンドでは、システムはミズガルドという会社によって設置されました。フランスの他の地域では、FireTracking という別のフランスの新興企業が運営しています。
-「システムが火災を検知するとすぐに、消防士の電話に警報が鳴ります。消防士はアプリケーションを開き、カメラの映像を x40 (40 倍) ズームで確認します」と FireTracking の CEO、Jean-Simon Chaudier 氏は説明します。
-「そのリアルタイムビデオの隣には、火災の正確な位置、近くの住宅の位置、そして天候や湿度レベルなどを考慮して、分刻みでどのように延焼すると予想されるかを示す地図が表示されています」と彼は付け加えた。
-そして、毎分が重要です。 「たとえば、過去 10 日間、最初の電話の 15 分前に AI が 7 件の火災を検知したという消防士からのフィードバックがありました。消防士が 15 分を節約できるよう支援できれば、それが大惨事と 2 ～ 3 ヘクタールに限定できる火災の違いになります」とショーディエ氏は言います。
-「1分後にはコップ1杯の水で火を消すことができ、2分後には水のタンクが必要になり、3分後にはカナダ航空を派遣する必要がある」とショーディエ氏は、川、湖、海から水を汲み上げて炎上に投棄する水陸両用機について語り、国内外の森林火災消火活動の先鋒となっている。
-FireTracking のカメラは現在、主にフランスの 100 万ヘクタールを調査しています。
-費用は？同社はフランスのアンドル・エ・ロワール県に 11 か所の検出サイトを設置しました。
-「6,000平方キロメートル[2,300平方マイル]のエリア全体をカバーするために、合計120万ユーロ[140万ドル、100万ポンド]が費やされました」とショーディエ氏は言います。
-主に農地です。農作物火災は大規模で費用のかかる問題で、この県だけで年間約300件発生しているとショーディエ氏は言う。
-AI による火災検知は今後数年間でさらに改善されるでしょう。たとえば、フランスの国民保護局には「コンドル」と呼ばれるプログラムがあり、電気光学カメラとAIを使って継続的にパトロールを行う太陽光発電ドローンをテストしている。
-木々の間にセンサーを設置したプロジェクトもある。たとえばスペインの SenForFire は、炎が目に見えるようになる前に放出されるガスを測定します。
-ドローンに関しては、消防士ギヨーム・ミレー氏は、フランスで海難救助、救命浮輪やサバイバルキットの投下を目的としてテストされているが、消防用としてその段階に達したドローン技術はまだ存在しないと述べた。
-「実際、この分野におけるテクノロジーの有用性は非常に限られています」とミレー氏は言う。 「これは探知には役立ちますが、火を消す技術ではありません。攻撃するには森林にホースを引く人が必要です。」
-航空機ですらこれに代わることはできない、と彼は言う。
-「カナダ航空が山火事に6,000リットルの水を投下すると、火の勢いは弱まるが、その後は地上の消防士がカナダ航空が始めたことを終わらせなければならない。」
-フランス人はまた、植生への急速な引火を防ぐために炎の前に難燃剤（オレンジ色の粉末の形のリン酸アンモニウム）を噴霧するダッシュ飛行機の光景にも慣れてきている。
-しかし、繰り返しになりますが、それは地上の軍隊によってもたらされる体力と水の代わりにはなりません。
-少なくとも、まだです。
-Daidelos というフランスの新興企業は、重量物運搬用のガソリンエンジンドローンへの投資を集めようとしている。
-地面から降りた場合は火の上でホバリングし、1.2トンの水を噴霧することができる。
-企業はまた、極度の熱に接触すると爆発する手榴弾を投下し、周囲を化学粉末で覆い、火災の燃焼化学物質を窒息させ、冷却し、遮断するドローンの開発も進めている。
-ここでの期待は、これによって自律的な初期対応が形成され、森林火災の検知とドローンの起動が非常に迅速に行われ、火災が発生したときに消火できるようになることです。山火事が本格的に始まったら、それに対して何もすることはできないでしょう。
-フランスの研究者らは炎の近くを飛行できるドローンの開発にも取り組んでいる。それは正確に消火することではなく、消火に関する重要な情報を入手することだろう。消防士が到着する前に、煙、突然の天候の変化、燃えている木や建物の倒壊などのリスクを評価するため。
-テクノロジーはすでに、消防士が火災をより迅速に発見し、より効果的に対応するのに役立っています。そうすればすぐに彼らの仕事の危険性が軽減されるかもしれない。しかし、ジロンドの消防士ギョーム・ミレー氏によると、それらを置き換える可能性は低いという。
-「火災を消すのはいつも現場でホースを引っ張る消防士だ」と彼は言う。これは、1670 年代にオランダで最初の近代的な消防団が設立されて以来、当てはまっていました。それはすぐには変わりません。
-- 7 月 3 日発行
-- 5 日前に公開
-- 7 月 28 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c62enveg1dpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T23:21:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 7,
-  },
-  {
-    id: "the-cost-of-being-single-and-how-friends-0921fb04",
-    title: "The cost of being single – and how friends are teaming up to beat it",
-    titleJa: "独身であることの代償 – そしてそれを克服するために友人たちがどのように協力するか",
-    summaryJa: "独身であることの代償 – そしてそれを克服するために友人たちがどのように協力するか- 公開されました",
-    bodyOriginal: `The cost of being single – and how friends are teaming up to beat it
-- Published
-When Leanne split up with her partner in her late 20s she thought she'd have to put her dream of a buying a home in the area where she grew up on hold.
-She was earning a good salary but the properties she was hoping for - with a garden and parking space - were too expensive on her own. While she'd just started seeing someone new, it was very early days - far too early to discuss living together.
-Her friend since school, Sarah, was single and renting a room in a shared house in Brighton. She also wanted to move back home to Kent, but was worried about how she'd get on the housing ladder on her cabin crew salary.
-When Sarah suggested they buy together, Leanne admits she "totally baulked". But after chatting with a mortgage adviser they went ahead - and say it's helped them avoid the so-called singles tax.
-Not being partnered up can mean extra costs. It's tricky to quantify and varies by location - estimates suggest it could be anything from hundreds of pounds to £10,000 on average extra, external a year.
-The cost of rent or a mortgage, household bills and subscriptions can't be shared. And a single person pays 25% less council tax than a couple - not half.
-Many discounts involve pairing up - 2-for-1 cinema tickets, Two-Together railcards, couples gym memberships - plus solo travellers often pay a single person supplement.
-This affects a lot of people. Some 18.5m people had never been married or in a civil partnership in 2024 – 36.8% of the population aged 16 and over, official figures show.
-And overall 8.6m people were estimated to be living alone in the UK last year - that's nearly a third of all households.
-Is the single life more expensive?
-- Published16 March 2018
-Ahead of their house purchase, Sarah and Leanne agreed a minimum amount of time they'd live together for - two years, which they then extended to four - and discussed what would happen if one person wanted to leave.
-Their mortgage payments were split proportionally to take into account their differing salaries, and the arrangements detailed in a declaration of trust so they would be protected when they came to sell.
-They were able to split the household bills - with these coming out of a joint account and self-professed "bill keeper" Sarah keeping track of what they needed to transfer each month - but also cut costs by sharing some meals and the cooking as they had similar eating habits.
-"We called it our happy home, not our forever home," says Leanne.
-"And it was a very happy home," agrees Sarah.
-Benefits to buying a home with friends include a bigger deposit and budget, and split costs, according to the Homeowner's Alliance. But it says people should consider potential pitfalls seriously and plan ahead by being upfront about their finances, seeking separate legal advice and drawing up a formal agreement.
-Sarah and Leanne sold their house for a profit four years after moving in, and they put the equity they'd built up toward their next, separate purchases.
-"Neither of us would have been able to do what we've done without having the property that we had together," says Sarah. "It's brought us a lot of freedom."
-Leanne thinks she would have been able to afford what she wanted in time, but the financial benefits from buying with Sarah made this possible much sooner.
-"The hidden singles tax is that everything has to take so much longer for you to be able to be in a position of affordability to do what you want to do," she adds.
-Their success inspired their friend Philly to set up Cucoon - an online platform matching up singles to potentially buy together.
-She says her aim is to "level the playing field", adding the singles tax is particularly high when it comes to housing.
-How to cut costs if you're single
-Monetise your real estate: rent out rooms, car parking spaces and garages
-Shared dinners: hosts take turns to cook with larger, cheaper products
-Borrowing circles: one person buys an expensive item, such as a lawnmower, and passes it along
-Errand pooling: friends share fuel costs by taking it in turns to drive to the supermarket
-Julia Pearson, from Hampshire, set up the Just4One website about nine years ago when she wanted to go on holiday and discovered many places would charge her extra if she went alone.
-Alongside practical support for solo life, the platform lists travel providers which do not include the single supplement.
-Being single feels like a "constant review of your costs all the time", she says.
-In a list of a money-saving tips for drivers, the RAC suggests adding a named driver onto your car insurance., external
-It's something Julia has tried - and says it's saved her 8%.
-The RAC says this can bring your premium down, but warns it can also do the opposite.
-Julia also shares items with friends – she has borrowed tools to renovate her home and given people plant cuttings from her garden.
-"I think as a society, we are becoming more social in terms of our sharing and thinking.
-"Rather than thinking, 'I've got to go out and buy that', think about how else can you play that, what else can you do aside from having to buy something?
-"And it's good for the social side as well, two benefits in one."
-Get in touch
-How have you managed to cut costs in different areas of your life? Share your tips
-Related topics
-- Published24 July
-- Published17 July 2025
-- Published26 June
-- Published1 July`,
-    bodyJa: `独身であることの代償 – そしてそれを克服するために友人たちがどのように協力するか
-- 公開されました
-リアンさんは 20 代後半にパートナーと別れたとき、生まれ育った地域に家を買うという夢は保留にしなければならないと考えていました。
-彼女は良い給料を稼いでいましたが、彼女が望んでいた庭と駐車場付きの物件は、彼女自身では高すぎました。彼女は新しい人と付き合い始めたばかりでしたが、まだ初期の頃で、同棲について話し合うには早すぎました。
-学生時代からの友人サラは独身で、ブライトンのシェアハウスに部屋を借りていました。彼女はケントの故郷に戻りたいとも思っていましたが、客室乗務員の給料でどうやって住居のはしごに乗れるか心配していました。
-サラが一緒に買うことを提案したとき、リーンは「完全に躊躇した」と認めた。しかし、住宅ローンアドバイザーと話し合った後、彼らは先に進み、いわゆる独身者税を回避するのに役立ったと言っています。
-提携していない場合、追加費用が発生する可能性があります。数値化するのは難しく、場所によって異なります。推定では、年間の外部追加費用は平均して数百ポンドから 10,000 ポンドになる可能性があります。
-家賃や住宅ローン、家計の請求書やサブスクリプションの費用を共有することはできません。そして、単身者は夫婦よりも市税の支払いが半分ではなく、25%少なくなります。
-多くの割引には、2 対 1 の映画チケット、Two-Together 鉄道カード、カップル向けジムの会員権など、ペアの組み合わせが含まれます。さらに、一人旅の場合は、1 人分の追加料金を支払うことがよくあります。
-これは多くの人に影響を与えます。公式統計によれば、2024 年時点で約 1,850 万人が結婚やシビルパートナーシップを結んだことがなく、人口の 36.8% が 16 歳以上でした。
-そして昨年英国では全体で860万人が一人暮らしをしていると推定されており、これは全世帯のほぼ3分の1に相当する。
-一人暮らしのほうがお金がかかるのでしょうか？
-- 2018 年 3 月 16 日公開
-住宅購入に先立って、サラとリアンは最低同居期間を2年間とし、その後4年間に延長することに同意し、一方が家を出たい場合はどうするかについて話し合った。
-彼らの住宅ローンの支払いは、給与の違いを考慮して比例的に分割され、売却時に保護されるよう信託宣言書に詳細な取り決めが記載されていました。
-彼らは家計の請求書を分割することができた。これらの請求書は共同口座から出ており、自称「請求書管理人」のサラは毎月送金する必要がある金額を記録していた。しかし、同じような食習慣を持っていたため、食事や料理の一部を共有することでコストも削減できた。
-「私たちはここを永遠の家ではなく、幸せな家と呼んでいました」とリーンさんは言います。
-「そして、とても幸せな家でした」とサラも同意します。
-ホームオーナーズ・アライアンスによると、友人と一緒に住宅を購入するメリットとしては、頭金や予算が高額になること、費用を分割できることが挙げられるという。しかし、人々は潜在的な落とし穴を真剣に考慮し、自分の財政について率直に話し、別途法的アドバイスを求め、正式な合意を作成するなど、事前に計画を立てる必要があると同報告書は述べている。
-サラとリアンは、引っ越してから 4 年後に家を売却して利益を上げ、築き上げた資産を次の別々の購入資金に充てました。
-「私たち二人とも、一緒に持っていた財産がなければ、これまでのことを成し遂げることはできなかったでしょう」とサラは言います。 「それは私たちに多くの自由をもたらしました。」
-リアンさんは、欲しかったものを間もなく手に入れることができたと考えていますが、サラと一緒に購入することで経済的に利益が得られたため、より早くそれが可能になりました。
-「独身者に課せられる隠れた税金は、やりたいことを手頃な価格で行えるようになるまでに、すべてに非常に長い時間がかかるということです」と彼女は付け加えた。
-彼らの成功に触発されて、友人のフィラデルフィアは、一緒に購入できるシングルをマッチングするオンライン プラットフォームである Cucoon を設立しました。
-彼女は、自分の目的は「競争条件を平等にする」ことだと言い、住宅に関しては独身者の税金が特に高いと付け加えた。
-独身の場合の出費を抑える方法
-不動産を収益化: 部屋、駐車場、ガレージを貸し出す
-夕食の共有: ホストが交代で、より多くのより安価な食材を使って調理します。
-サークルを借りる: 1 人が芝刈り機などの高価なアイテムを購入し、それを渡します。
-用事の共同利用: 友達が交代でスーパーまで車で行き、燃料費を分担する
-ハンプシャー出身のジュリア・ピアソンさんは、約 9 年前に休暇に行きたいと思ったときに、一人で行くと追加料金を請求されるところが多いことに気づいて、Just4One ウェブサイトを立ち上げました。
-ソロライフの実践的なサポートとともに、シングルサプリメントを含まない旅行プロバイダーもリストアップしています。
-独身でいることは、「常に自分のコストを見直している」ように感じると彼女は言います。
-RAC は、ドライバー向けの節約のヒントのリストの中で、指定されたドライバーを自動車保険に追加することを提案しています。, external
-ジュリアさんもこれを試してみて、8% 節約できたと言っています。
-RACは、これにより保険料が引き下げられる可能性があるとしているが、その逆の可能性もあると警告している。
-ジュリアはまた、友人たちとアイテムを共有しています。彼女は家を改装するために道具を借りたり、庭で採れた挿し木を人々に贈ったりしています。
-「社会として、私たちは共有したり考えたりするという点でより社交的になってきていると思います。
-「『これを買わなければいけない』と考えるのではなく、他にどうやってそれをプレイできるか、何かを買わなければならない以外に何ができるか考えてください。
-「そしてそれは社会面でも良いことであり、1つで2つのメリットが得られます。」
-連絡する
-生活のさまざまな分野でどのようにコストを削減できましたか?ヒントを共有する
-関連トピック
-- 7 月 24 日発行
-- 2025 年 7 月 17 日公開
-- 6 月 26 日発行
-- 7 月 1 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T23:21:08+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfc3/live/a1894040-7ad7-11f1-81e2-67653cf46e84.jpg",
-    readTime: 7,
-  },
-  {
-    id: "fashion-brand-jaded-has-ad-banned-for-gl-97bca501",
-    title: "Fashion brand Jaded has ad banned for 'glamourising smoking'",
-    titleJa: "ファッションブランドのジェイデッド、「喫煙を美化」するため広告掲載を禁止",
-    summaryJa: "ファッションブランドのジェイデッド、「喫煙を美化」するため広告掲載を禁止- 公開されました",
-    bodyOriginal: `Fashion brand Jaded has ad banned for 'glamourising smoking'
-- Published
-A fashion brand has had an advert banned by the advertising watchdog which it said was "glamourising smoking".
-Jaded London, whose clothes have been worn by Beyoncé and Kylie Jenner, used a picture of a woman on holiday holding a cigarette in one of its marketing emails.
-The Advertising Standards Authority (ASA) said the advert was "heavily stylised and presented the model in a fashionable and attractive manner", which made smoking seem appealing.
-Jaded London argued that the cigarette was not the "focus of the ad" but agreed to not use pictures of models smoking in future.
-The ASA's rules on socially responsible marketing say smoking should not be presented in an appealing way, condoned or encouraged.
-The Jaded London email, which went out on 27 May, was investigated after a complaint to the watchdog.
-In its ruling, the ASA said the woman was wearing "fashionable clothing and accessories standing in front of a scooter next to a body of water, which the ASA considered evoked an aspirational holiday lifestyle".
-"She was holding a slim cigarette with visible ash at the tip, and we considered that suggested it was lit," it added.
-Smoking ban for people born after 2008 in the UK agreed
-- Published21 April
-Junk food TV and online advert ban comes into force
-- Published5 January
-The ASA told the brand to stop using the ad and "ensure that their future marketing communications were socially responsible".
-Founded by siblings Jade Camber and Grant Goulden in 2013, Jaded London has amassed 1.5 million Instagram followers and is particularly popular among young people.
-Its clothes are stocked in shops including Selfridges and Urban Outfitters and it made £51m of sales in the year to June 2025.
-Responding to the watchdog, Jaded London argued it was "not clear" the model was holding a cigarette because it was slimmer than normal and "did not appear to be lit".
-The company also argued it was "less prominent than other elements of the image, such as the model's clothing and accessories".
-However, it said it "understood why it was best to avoid images of models holding cigarettes" and would not use smoking content in future ads.
-At the time of writing, Jaded London's Instagram feed contained several other images of people smoking while wearing its clothes.
-A spokesperson for the ASA told the BBC it was unable to comment on whether the other posts broke the rules without them going through its formal process.
-"We'd always encourage anyone who has a concern about an ad they've seen to report it to us," they added.
-Jaded London was approached for comment.
-Related topics
-- Published12 February 2025`,
-    bodyJa: `ファッションブランドのジェイデッド、「喫煙を美化」するため広告掲載を禁止
-- 公開されました
-あるファッションブランドが「喫煙を美化している」として広告監視機関から広告を禁止された。
-ビヨンセやカイリー・ジェンナーもその服を着ているジェイデッド・ロンドンは、マーケティングメールの1つにタバコをくわえている休暇中の女性の写真を使用した。
-広告基準局（ASA）は、この広告は「大幅に様式化され、ファッショナブルで魅力的な方法でモデルを表現していた」ため、喫煙が魅力的に見えたと述べた。
-ジェイデッド・ロンドンは、タバコは「広告の焦点」ではないと主張したが、今後モデルが喫煙している写真を使用しないことに同意した。
-社会的責任のあるマーケティングに関する ASA の規則は、喫煙を魅力的な方法で提示したり、容認したり奨励したりすべきではないと定めています。
-5 月 27 日に送信された Jaded London の電子メールは、監視機関への苦情を受けて調査されました。
-ASAは判決の中で、女性は「ファッショナブルな服やアクセサリーを着て水域の横のスクーターの前に立っていて、それが憧れの休日のライフスタイルを呼び起こすものだとASAは考えた」と述べた。
-「彼女は先端に灰が見える細いタバコを持っており、それが火がついたことを示唆していると考えた」と付け加えた。
-英国で2008年以降に生まれた人の禁煙に合意
-- 4 月 21 日公開
-ジャンクフードテレビとオンライン広告禁止令が発効
-- 1 月 5 日発行
-ASAはブランドに対し、広告の使用を中止し、「今後のマーケティングコミュニケーションが社会的責任を負うことを保証する」よう求めた。
-2013 年にジェイド キャンバーとグラント ゴールデン兄弟によって設立されたジェイデッド ロンドンは、Instagram のフォロワー数が 150 万人を超え、特に若者の間で人気があります。
-同社の衣料品はセルフリッジやアーバン・アウトフィッターズなどの店舗に在庫されており、2025年6月までの1年間で5100万ポンドの売上を上げた。
-ジェイデッド・ロンドン氏は監視当局に対し、モデルが通常よりもスリムで「火がついているようには見えなかった」ため、モデルがタバコを持っていたことは「明らかではない」と主張した。
-同社はまた、それが「モデルの衣服やアクセサリーなど、画像の他の要素よりも目立たない」と主張した。
-しかし同社は「モデルがタバコを持っている画像を避けることが最善である理由を理解している」とし、今後の広告では喫煙コンテンツを使用しないと述べた。
-この記事の執筆時点では、ジェイデッド・ロンドンのインスタグラムフィードには、服を着て喫煙する人々の画像が他にもいくつか含まれていた。
-ASAの広報担当者はBBCに対し、他の投稿が正式な手続きを経ない限りルールに違反しているかどうかについてはコメントできないと述べた。
-「私たちは、見た広告について懸念がある人には、私たちに報告することを常に勧めています」と彼らは付け加えた。
-ジェイド・ロンドンにコメントを求めた。
-関連トピック
-- 2025 年 2 月 12 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T23:20:12+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542f/live/f6658220-905a-11f1-a14e-21a96dfbd328.jpg",
-    readTime: 3,
-  },
-  {
-    id: "saudi-led-group-completes-55bn-purchase-9c531ff9",
-    title: "Saudi-led group completes $55bn purchase of gaming giant EA",
-    titleJa: "サウジ主導のグループがゲーム大手EAの550億ドルの買収を完了",
-    summaryJa: "サウジ主導のグループがゲーム大手EAの550億ドルの買収を完了- 公開されました",
-    bodyOriginal: `Saudi-led group completes $55bn purchase of gaming giant EA
-- Published
-The sale of gaming giant Electronic Arts (EA) for $55bn (£41bn) to a group of buyers including Saudi Arabia's Public Investment Fund (PIF) has been finalised.
-The American company is known for making and publishing best-selling games such as EA FC, formerly known as Fifa, The Sims and Mass Effect.
-The investors, who include Affinity Partners - led by President Donald Trump's son-in-law, Jared Kushner - are taking EA private, meaning all of its public shares will be purchased and it will no longer be traded on a stock exchange.
-It is thought to be the largest leveraged buyout in history, meaning a significant part of it is paid for with borrowed money, which the company will have to pay back.
-This is because as well as the $36bn it has already put into the deal, PIF needs to borrow $20bn from investment bankers JPMorgan to close it, with the business taking on the debt.
-How paying back this debt will affect EA as a business has been the source of much speculation from journalists and analysts.
-Bloomberg's Jason Schreier surmised it could lead to "mass layoffs, more aggressive monetization, and other big cost-cutting measures, external", for one of the industry's biggest companies.
-Christopher Dring, editor-in-chief and co-founder of the Game Business, said the nature of the buyout, external was also likely to mean "a very hands-on approach from the investment group".
-"Private equity firms are typically aggressive in their management of companies," he said.
-The deal caused concern amongst some fans of EA's massive library of games, particularly as games like The Sims champion inclusivity and LGBT+ relationships.
-In Saudi Arabia, consensual same-sex sexual conduct can be punishable by death or flogging under interpretations of Sharia law.
-In protest at the deal to sell EA to the PIF, the advocacy group Players Alliance HQ has asked gamers to petition their local politicians, external and speak out against it.
-"Video games are a reflection of culture and people through their storylines, characters and representation," the campaign's website reads.
-"With the PIF being the majority owner in the potential buyout, there is a large concern that creative decisions could be influenced by these outside factors, leading to themes such as free speech, gender, LGBTQI+ and other aspects of Western politics being reduced or fully censored across major franchises."
-PIF is a £514bn pot of money used by the government of Saudi Arabia to invest in many different kinds of ventures - such as football club Newcastle United.
-The deal ranks as the second-biggest acquisition in gaming history, after Microsoft's $69bn purchase of Activision Blizzard, the company behind Call of Duty.
-At the initial deal announcement, EA's chief executive Andrew Wilson, who will retain his position, said the firm plans to "create transformative experiences to inspire generations to come".
-"I am more energized than ever about the future we are building," he said.
-Why does Saudi Arabia care about EA?
-The question as to why Saudi Arabia in particular has spent an astronomical amount to buy EA has been a hot topic since news of the deal broke in September 2025.
-George Osborn, journalist and author of Power Play: Video Games, Politics and the Battle for Global Influence, said it was still an "appealing" financial opportunity to PIF, external despite the enormous price tag.
-He pointed to the longevity of the 35-year-old business and its "seemingly evergreen" live-service games which are continuously updated after release.
-Despite the company facing many of the similar setbacks felt across the industry over the past few years, such as layoffs and game cancellations, it has had a strong financial performance more recently.
-Last year EA generated revenue of $7.5bn, and the October release of Battlefield 6 broke franchise records with over 7 million copies sold in its first three days. Despite this, more layoffs for the teams involved followed.
-But Osborn said EA's value to the PIF was "not purely economic" - instead, it was about "owning a soft power asset that is quietly entrenched in the sporting community".
-From the £300m takeover of Premier League club Newcastle United to its acquisition of four football clubs in the Saudi League, the money from PIF has especially been used to fund large sporting ventures and grow its influence in that world.
-In the crossover between gaming and sport, Saudi Arabia has also hosted major esports tournaments, including the Esports World Cup in 2025.
-But the huge purchases have also often drawn accusations of sportswashing - sponsoring or hosting sporting events to promote a positive public image and distract attention from human rights issues.
-While the Saudi Arabian government has spent years denying such claims, Osborn said the EA deal could present another way of allowing it to project its influence.
-"If the PIF's football strategy limited them to ownership of Newcastle United and some Saudi Pro League teams, owning EA hands them a relationship with the 20,000 players, 750 clubs and 35 leagues at the top of the professional game," he said.
-"What is clear is that a state seeking to shape perceptions now owns an asset with proven reach to billions of people.
-"How it uses it in the years to come is something we should watch closely."
-PIF is controlled by Saudi Arabia's prince Mohammed bin Salman, whose government has been accused of human rights violations.
-A 2019 UN report stated "the state of the Kingdom of Saudi Arabia is responsible" for the death of Jamal Khashoggi, a journalist who was critical of the country's government.
-Saudi Arabia has always denied this.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published27 July 2023
-- Published24 July
-- Published4 February 2025`,
-    bodyJa: `サウジ主導のグループがゲーム大手EAの550億ドルの買収を完了
-- 公開されました
-ゲーム大手エレクトロニック・アーツ（EA）をサウジアラビアの公共投資基金（PIF）を含む買い手グループに550億ドル（410億ポンド）で売却することが完了した。
-このアメリカの会社は、EA FC (以前は Fifa として知られていました)、ザ・シムズ、マス エフェクトなどのベストセラー ゲームを制作、出版していることで知られています。
-ドナルド・トランプ大統領の義理の息子、ジャレッド・クシュナー氏が率いるアフィニティ・パートナーズを含む投資家らはEAを非公開化することになり、その公開株はすべて買い取られ、証券取引所で取引されなくなることになる。
-これは史上最大のレバレッジド・バイアウトと考えられており、その大部分が借入金で支払われており、同社は返済しなければならないことになる。
-これは、PIFが取引を完了するためにすでに出資した360億ドルに加え、投資銀行JPモルガンから200億ドルを借り入れる必要があり、その負債を企業が引き受ける必要があるためだ。
-この負債の返済がビジネスとしてのEAにどのような影響を与えるかについては、ジャーナリストやアナリストから多くの憶測が飛び交っている。
-ブルームバーグのジェイソン・シュライアー氏は、業界最大手企業の一つにとって、これが「大量解雇、より積極的な収益化、その他の対外的な大規模なコスト削減策」につながる可能性があると推測した。
-Game Businessの編集長兼共同創設者であるChristopher Dring氏は、買収の性質上、外部とは「投資グループによる非常に実践的なアプローチ」を意味する可能性が高いと述べた。
-同氏は「プライベートエクイティ会社は通常、企業経営に積極的だ」と述べた。
-この契約は、特にザ・シムズのようなゲームが包括性とLGBT+の関係を支持しているため、EAの膨大なゲームライブラリの一部のファンの間で懸念を引き起こしました。
-サウジアラビアでは、シャリーア法の解釈に基づき、合意に基づく同性間の性行為は死刑または鞭打ちで処罰される可能性がある。
-EAをPIFに売却する合意に抗議して、権利擁護団体のプレイヤーズ・アライアンス本部はゲーマーに対し、地元の政治家や外部の政治家に請願し、反対の声を上げるよう求めた。
-キャンペーンのウェブサイトには「ビデオゲームは、ストーリー、キャラクター、表現を通じて文化と人々を反映している」と書かれている。
-「PIFが買収の可能性において過半数の所有者であることから、クリエイティブな決定がこうした外部要因に影響される可能性が大きく懸念されており、言論の自由、ジェンダー、LGBTQI+、その他の西側政治の側面などのテーマが主要シリーズ全体で削減されたり、完全に検閲されたりすることにつながる。」
-PIFは、サウジアラビア政府がサッカークラブのニューカッスル・ユナイテッドなど、さまざまな種類の事業に投資するために使用する5,140億ポンドの資金である。
-この取引は、Microsoftによる690億ドルでのCall of Dutyの開発会社Activision Blizzardの買収に次いで、ゲーム史上2番目に大きな買収にランクされる。
-EAのアンドリュー・ウィルソン最高経営責任者（CEOは留任）は最初の契約発表の際、同社が「次世代にインスピレーションを与える革新的な体験を生み出す」計画だと述べた。
-「私たちが築いている未来について、これまで以上にエネルギーを感じています」と彼は語った。
-なぜサウジアラビアはEAに関心があるのでしょうか?
-なぜ特にサウジアラビアがEAの買収に天文学的な金額を費やしたのかという疑問は、2025年9月に買収のニュースが発表されて以来、大きな話題となっている。
-ジャーナリストで『Power Play: Video Games, Politics and the Battle for Global Influence』の著者であるジョージ・オズボーン氏は、巨額の値札にもかかわらず、外部のPIFにとって依然として「魅力的な」経済的機会であると述べた。
-同氏は、35 年の歴史を持つこのビジネスの長寿性と、リリース後に継続的に更新される「一見常緑の」ライブサービス ゲームを指摘しました。
-同社はここ数年、人員削減やゲームの中止など、業界全体で感じられた同様の挫折に多く直面しているにもかかわらず、最近では堅調な財務実績を上げている。
-昨年、EA は 75 億ドルの収益を上げ、10 月にリリースされた『バトルフィールド 6』は、最初の 3 日間で 700 万本以上が販売され、フランチャイズ記録を破りました。それにもかかわらず、関係チームのさらなる解雇が続いた。
-しかしオズボーン氏は、PIFにとってのEAの価値は「純粋に経済的なもの」ではなく、「スポーツコミュニティに静かに根付いているソフトパワー資産を所有すること」にあると述べた。
-プレミアリーグクラブのニューカッスル・ユナイテッドの3億ポンドの買収からサウジリーグの4つのサッカークラブの買収に至るまで、PIFからの資金は特に大規模なスポーツベンチャーへの資金提供とその世界での影響力拡大に使われてきた。
-ゲームとスポーツの融合において、サウジアラビアは 2025 年の e スポーツ ワールド カップを含む主要な e スポーツ トーナメントも主催しています。
-しかし、巨額の購入はまた、スポーツウォッシュ、つまり肯定的な公共イメージを促進し、人権問題から注意をそらすことを目的としたスポーツイベントのスポンサーや主催であるという非難もしばしば引き起こしている。
-サウジアラビア政府は何年もかけてそのような主張を否定してきたが、オズボーン氏は、EAとの契約はサウジアラビアの影響力を投影する別の方法を提示する可能性があると述べた。
-「PIFのサッカー戦略が彼らをニューカッスル・ユナイテッドと一部のサウジプロリーグチームの所有権に限定していたとすれば、EAを所有することで、プロゲームの頂点に立つ2万人の選手、750のクラブ、35のリーグとの関係が彼らに与えられることになる」と同氏は語った。
-「明らかなことは、認識を形成しようとしている国家が、今や何十億もの人々に影響を及ぼしていることが証明されている資産を所有しているということだ。
-「今後数年間でそれがどのように使われるかは、私たちが注意深く観察する必要がある。」
-PIFはサウジアラビアのムハンマド・ビン・サルマン皇太子によって支配されており、同政府は人権侵害で告発されている。
-2019年の国連報告書は、サウジアラビア政府を批判していたジャーナリスト、ジャマル・カショギ氏の死に「サウジアラビア王国の責任がある」と述べた。
-サウジアラビアはこれを常に否定している。
-Tech Decoded ニュースレターに登録して、世界のトップテクノロジーのストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。
-関連トピック
-- 2023 年 7 月 27 日公開
-- 7 月 24 日発行
-- 2025 年 2 月 4 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T23:09:44+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afa/live/1dcd5c10-8f1c-11f1-9a6b-afa7ab10ffdf.jpg",
-    readTime: 8,
-  },
-  {
-    id: "upstart-s-ai-upgrades-pay-off-as-a-picku-4cfb22d2",
-    title: "Upstart’s AI upgrades pay off, as a pickup in loan growth helps send the stock higher",
-    titleJa: "Upstart の AI アップグレードが功を奏し、融資の増加が株価上昇に貢献",
-    summaryJa: "AI 融資会社は、借り手のリスクをより適切に評価するためにモデルを強化したと述べています。",
-    bodyOriginal: `The AI lending company says it’s enhanced its model to better assess the risk of borrowers.`,
-    bodyJa: `AI 融資会社は、借り手のリスクをより適切に評価するためにモデルを強化したと述べています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/upstarts-ai-upgrades-pay-off-as-a-pickup-in-loan-growth-helps-send-the-stock-higher-32e7ec9d?mod=mw_rss_topstories",
-    publishedAt: "2026-08-04T22:22:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-36097024",
-    readTime: 2,
-  },
-  {
-    id: "i-feel-like-i-dug-my-own-grave-the-work-705fb159",
-    title: "'I feel like I dug my own grave': The workers caught in the AI transition",
-    titleJa: "「自分で墓穴を掘ったような気分だ」: AI への移行に巻き込まれた労働者",
-    summaryJa: "「自分で墓穴を掘ったような気分だ」: AI への移行に巻き込まれた労働者- 公開されました",
-    bodyOriginal: `'I feel like I dug my own grave': The workers caught in the AI transition
-- Published
-For 15 years, single mother Lisa made a living from content writing.
-She began writing straight out of college, freelanced for years and eventually followed a path taken by many young Filipinos: joining a multinational in the country's booming outsourcing industry.
-Lisa says she never felt the need to use artificial intelligence (AI) in her work.
-"I can say that I am able to do my job, I meet deadlines. In my opinion, there is no need for [AI]," she told the BBC.
-Eight months into her latest role, and one month before the position was due to become permanent, she was made redundant.
-In the months before, Lisa says a public relations agency had been tasked with producing AI-generated material that she and her colleagues were asked to edit. She says her skills were used to train the AI on the company writing style.
-"I feel like I dug my own grave," she says. "We were the ones who trained the artificial intelligence that replaced us."
-Lisa, not her real name, is one of several former outsourcing employees the BBC spoke to who asked to remain anonymous. They signed confidentiality agreements in return for severance pay, and fear that speaking publicly could hurt their chances of finding work in an industry which has a small network.
-Their experiences offer an insight into a question confronting emerging economies like the Philippines: what happens when AI begins to automate the jobs that helped lift millions of people into the middle classes?
-Building an industry
-Every evening around 5pm, streams of workers wearing company lanyards spill out of high-rise offices in the district of Cubao in Manila.
-It's one of several areas of the capital where multinational companies have premises – providing all sorts of outsourcing work including call centres, accounting, software development and marketing copy services for clients thousands of miles away.
-For over two decades, these business districts have symbolised one of the Philippines' biggest economic success stories.
-Beginning in the early 2000s, the country was promoted as an English-speaking alternative to India for what's called business process outsourcing (BPO).
-Successive governments offered tax incentives, invested in infrastructure and encouraged multinational companies to set up large operations.
-Global groups like Accenture, Concentrix and Teleperformance built sprawling campuses, employing hundreds of thousands of Filipinos.
-Today, the outsourcing industry employs roughly 1.9 million people, and generates $40bn (£30.1bn) in revenues every year, accounting for about 10% of the Philippines' economy.
-But experts say the industry is disproportionately vulnerable to the impact of AI.
-The International Labour Organization estimates that 12.7 million Filipinos - more than one in four workers - are employed in occupations exposed to generative AI, the highest share in South East Asia.
-The organisation expects many roles to change rather than disappear but the types of service jobs that people do in the Philippines leaves it particularly at risk.
-Jack Madrid, president of the IT and Business Process Association of the Philippines (IBPAP), admits that AI is being adopted by the sector.
-More than two-thirds of IBPAP's members are already running AI pilots, he says.
-"Agentic AI has the potential to automate at a much more accelerated pace," Madrid says. "Obviously, there's a layer of jobs that are automatable or have been automated."
-But he adds that the vast majority of affected workers have been redeployed within the same organisations.
-Madrid says any weakness in hiring reflects more than the impact of AI.
-"We've seen a slowdown in investment decisions on whether certain job functions or processes should be offshored," he says, pointing to slower global demand and uncertainty over how companies will ultimately deploy the technology.
-Even so, he acknowledges the challenge. "We cannot do enough to be prepared," he says. "The importance of reskilling" cannot be overstated.
-The pressure to automate
-Mary, another former content writer whose name we've changed, says her employer encouraged the use of AI as a productivity tool.
-Instead of making her job easier, she says it created additional responsibilities.
-"We had to edit more, fact-check more because the data AI produced was inaccurate," she says. "Technically it was more work for us."
-Like Lisa, she was later made redundant.
-Companies are under pressure to implement AI, to reduce costs and increase productivity, experts say.
-Teleperformance, the world's largest call centre operator and one of the Philippines' biggest private employers, has said AI offers an opportunity to augment rather than replace its workforce.
-The company expects AI to handle routine interactions while human agents move into more complex roles.
-Teleperformance has also said it plans to retrain employees.
-Accenture has similarly said that generative AI will reshape almost every job rather than eliminate positions.
-The firm has promised to invest billions of dollars in AI capabilities and workforce training.
-Concentrix - which is the biggest outsourcing firm in the Philippines - says its AI systems should remain under human oversight and has committed to training employees in the new technology.
-Some Filipino managers are uneasy about AI and want to slow down adoption, according to Paul Quintos, from the University of the Philippines-Diliman.
-They are concerned about how much of the domestic workforce might be displaced.
-"But there's tremendous pressure from foreign clients to adopt AI," he says. "It's a major cost-cutting measure."
-Philippine outsourcing companies compete directly with rivals in India and elsewhere for contracts from multinational corporations.
-Increasingly, those clients expect suppliers not only to provide cheaper labour, but also to integrate AI into the services they deliver.
-Despite hundreds of billions of dollars being invested globally in AI, Quintos says there is still limited evidence about how much productivity many workplace tools actually deliver.
-"There is a term called 'AI washing'," he says.
-Some layoffs are presented as being driven by AI when companies are in fact responding to weaker demand or slowing economic conditions, Quintos says.
-Attributing redundancies to AI, he adds, can make restructuring appear like technological progress rather than a response to market conditions.
-The next transition
-Labour groups have told the BBC that existing employment laws in the Philippines govern redundancy but offer little guidance on how companies should introduce AI into workplaces or consult employees over its use.
-The Philippines' outsourcing sector is also non-unionised, leaving many workers with little formal say over how new technologies are deployed.
-The government says that it, and the private sector have a responsibility to retrain workers, and risks falling behind competitors like India and Singapore.
-"To be completely honest, I think we're slightly behind. We have to catch up," says Leandro Aguirre of the Philippines Department of Information and Communications Technology.
-"We have to double our efforts to put our people in a position where they will not be displaced but actually thrive in this growing AI race."
-The government has committed to upskilling more than 300,000 outsourcing workers, but Aguirre acknowledges that the Philippines may need to rethink the economic model that helped make it an outsourcing centre.
-"We relied heavily on foreign direct investment," he says. "But I think we also need to focus on local talent and local companies."
-The ambition, he says, is to build home-grown AI companies capable of creating higher-value jobs.
-Aguirre rejects calls for sweeping new AI legislation, arguing that existing labour, privacy and consumer protection laws can be adapted more quickly through regulatory guidance.
-"The benefits of AI have to trickle down to people," he says. "It can't just benefit employers."
-For more than 20 years, the Philippines built one of the world's most successful outsourcing industries by selling the skills of its people to multinational companies.
-AI may not end that model, but it is certainly changing it, and risks leaving some workers behind.
-Additional reporting by Jaltson Akkanath Chummar and Regine Cabato`,
-    bodyJa: `「自分で墓穴を掘ったような気分だ」: AI への移行に巻き込まれた労働者
-- 公開されました
-シングルマザーのリサは 15 年間、コンテンツの執筆で生計を立ててきました。
-彼女は大学を卒業してすぐに執筆活動を始め、何年もフリーランスとして活動し、最終的には多くのフィリピン人の若者がたどる道をたどり、国内で急成長するアウトソーシング産業の多国籍企業に加わりました。
-リサさんは、仕事で人工知能 (AI) を使用する必要性を感じたことは一度もなかったと言います。
-「私は自分の仕事をすることができ、期限も守っていると言えます。私の意見では、[AI]は必要ありません」と彼女はBBCに語った。
-彼女は最新の役職に就いてから 8 か月が経過し、その役職が恒久的になる 1 か月前に解雇されました。
-リサさんは、その数か月前に、ある広報代理店が AI で生成された素材を作成する任務を負っており、彼女とその同僚はその編集を依頼されていたと語った。彼女のスキルは、会社の文章スタイルについて AI をトレーニングするために使用されたと述べています。
-「自分で墓穴を掘ったような気分です」と彼女は言う。 「私たちに代わる人工知能を訓練したのは私たちです。」
-リサさん（本名ではない）は、BBCが匿名を希望して話を聞いた元アウトソーシング従業員数名のうちの1人である。彼らは退職金と引き換えに機密保持契約に署名しており、公の場で話すことでネットワークが小規模な業界で仕事を見つけるチャンスが損なわれる可能性を懸念している。
-彼らの経験は、フィリピンのような新興経済国が直面している問題、つまり何百万人もの人々を中産階級に引き上げるのに貢献した仕事を AI が自動化し始めたらどうなるのか、という問題への洞察を与えてくれます。
-産業の構築
-マニラのクバオ地区にある高層オフィスからは、毎晩午後5時ごろ、会社のストラップをつけた労働者が続々とあふれ出てくる。
-ここは、多国籍企業が拠点を置く首都のいくつかの地域の 1 つであり、数千マイル離れたクライアントにコールセンター、会計、ソフトウェア開発、マーケティング コピー サービスなど、あらゆる種類のアウトソーシング業務を提供しています。
-20 年以上にわたり、これらのビジネス地区はフィリピン最大の経済的成功物語の 1 つを象徴してきました。
-2000 年代初頭から、この国はいわゆるビジネス プロセス アウトソーシング (BPO) においてインドに代わる英語圏として推進されました。
-歴代政府は税制上の優遇措置を提供し、インフラに投資し、多国籍企業が大規模な事業を設立することを奨励しました。
-アクセンチュア、コンセントリックス、テレパフォーマンスなどのグローバル グループは、広大なキャンパスを建設し、数十万人のフィリピン人を雇用しています。
-現在、アウトソーシング業界は約 190 万人を雇用し、毎年 400 億ドル (301 億ポンド) の収益を生み出しており、フィリピン経済の約 10% を占めています。
-しかし専門家らは、この業界はAIの影響に対して不相応に脆弱だと指摘する。
-国際労働機関は、労働者の 4 人に 1 人以上にあたる 1,270 万人のフィリピン人が生成 AI にさらされる職業に雇用されており、これは東南アジアで最も高い割合であると推定しています。
-同組織は、多くの役割が消滅するのではなく、変化すると予想しているが、フィリピンで人々が従事している種類のサービス業は特にリスクにさらされている。
-フィリピン IT ビジネス プロセス協会 (IBPAP) の会長であるジャック マドリード氏は、この分野で AI が導入されていることを認めています。
-IBPAP のメンバーの 3 分の 2 以上がすでに AI パイロットを実行していると彼は言います。
-「Agentic AI には、さらに加速したペースで自動化できる可能性があります」とマドリッド氏は言います。 「明らかに、自動化可能な、または自動化されたジョブの層が存在します。」
-しかし、影響を受けた労働者の大多数は同じ組織内に再配置されていると付け加えた。
-マドリッドは、雇用の弱さはAIの影響以上のものを反映していると述べている。
-同氏は、「特定の職務やプロセスをオフショアすべきかどうかに関する投資判断の鈍化が見られる」と述べ、世界的な需要の鈍化と、企業が最終的にテクノロジーをどのように導入するかについての不確実性を指摘した。
-それでも、彼はその挑戦を認めています。 「私たちは十分な準備をすることができません」と彼は言います。 「再スキルの重要性」はどれだけ強調してもしすぎることはありません。
-自動化へのプレッシャー
-名前を変更した別の元コンテンツ ライターのメアリーさんは、彼女の雇用主が生産性ツールとして AI の使用を奨励したと述べています。
-仕事が楽になるどころか、さらなる責任が生じたと彼女は言う。
-「AI が生成したデータが不正確だったので、さらに編集し、事実確認をさらに行う必要がありました」と彼女は言います。 「技術的には、私たちにとってはもっと大変な作業でした。」
-リサと同様、彼女も後に解雇された。
-専門家らによると、企業はAIを導入してコストを削減し、生産性を向上させるというプレッシャーにさらされているという。
-世界最大のコールセンター運営会社であり、フィリピン最大の民間雇用主の一つであるテレパフォーマンス社は、AIは従業員を代替するのではなく、従業員を増強する機会を提供すると述べた。
-同社は、人間のエージェントがより複雑な役割に移行する一方で、AI が日常的なやり取りを処理することを期待しています。
-テレパフォーマンスは従業員の再教育も計画していると述べた。
-アクセンチュアも同様に、生成AIはポジションを排除するのではなく、ほぼすべての仕事を再構築すると述べた。
-同社はAI機能と従業員のトレーニングに数十億ドルを投資すると約束した。
-フィリピン最大のアウトソーシング会社であるコンセントリックスは、自社の AI システムは引き続き人間の監視下に置かれるべきであり、従業員に新しいテクノロジーを訓練することに取り組んでいると述べています。
-フィリピン大学ディリマン校のポール・クイントス氏によると、フィリピン人の経営者の中にはAIに不安を抱いており、導入を遅らせたいと考えている人もいるという。
-彼らは国内労働力のどれだけが職を追われる可能性があるかを懸念している。
-「しかし、外国の顧客からは AI を導入するよう大きな圧力を受けています」と彼は言います。 「これは大幅なコスト削減策です。」
-フィリピンのアウトソーシング会社は、多国籍企業からの契約をめぐってインドなどのライバルと直接競争している。
-こうした顧客は、サプライヤーに対し、より安価な労働力を提供するだけでなく、自社が提供するサービスに AI を統合することを期待することが増えています。
-世界中で AI に数千億ドルが投資されているにもかかわらず、多くの職場ツールが実際にどの程度の生産性を実現しているのかについての証拠はまだ限られている、とクイントス氏は言います。
-「『AI洗浄』という言葉があります」と彼は言う。
-クイントス氏によると、企業が実際には需要の低下や経済状況の減速に対応しているにもかかわらず、一部の人員削減はAIによって引き起こされているように見せられているという。
-冗長性がAIに起因すると、リストラが市場状況への対応ではなく技術進歩のように見える可能性があると同氏は付け加えた。
-次の移行
-労働団体はBBCに対し、フィリピンの既存の雇用法は余剰人員削減を規定しているが、企業がAIを職場に導入する方法やAIの使用について従業員に相談する方法についてはほとんど指針を提供していない、と語った。
-フィリピンのアウトソーシング部門にも労働組合はなく、多くの労働者は新技術の導入方法について正式な発言権をほとんど持たない。
-政府は、政府と民間部門には労働者を再教育する責任があり、インドやシンガポールなどの競合国に後れをとるリスクがあると述べている。
-フィリピン情報通信技術省のレアンドロ・アギーレ氏は「正直に言うと、われわれは少し遅れていると思う。追いつかなければならない」と語る。
-「私たちは、拡大するAI競争の中で人々が追放されず、実際に繁栄できるような立場に置くために、努力を倍増する必要があります。」
-政府は30万人以上のアウトソーシング労働者のスキルアップに取り組んでいるが、アギーレ氏は、フィリピンがアウトソーシングの中心地となるのに貢献した経済モデルを再考する必要がある可能性があることを認めた。
-「私たちは海外直接投資に大きく依存していました」と彼は言う。 「しかし、地元の人材や地元企業にも焦点を当てる必要があると思います。」
-同氏によると、その目標は、より価値の高い仕事を生み出すことができる国産の AI 企業を構築することだという。
-アギーレ氏は、既存の労働法、プライバシー法、消費者保護法は規制の指針を通じてより迅速に適応できると主張し、全面的な新たなAI法を求める声を拒否している。
-「AI の恩恵は人々に少しずつ伝わらなければなりません」と彼は言います。 「それは雇用主に利益をもたらすだけではありません。」
-フィリピンは 20 年以上にわたり、国民のスキルを多国籍企業に販売することで、世界で最も成功したアウトソーシング産業の 1 つを築き上げてきました。
-AI はそのモデルを終わらせるわけではないかもしれませんが、確実にそれを変えており、一部の労働者が取り残される危険性があります。
-Jaltson Akkanath Chummar と Regine Cabato による追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-04T22:10:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d916/live/b72ddec0-8648-11f1-a268-d919c0699520.jpg",
-    readTime: 10,
-  },
-  {
-    id: "chipotle-pulls-jalapenos-from-some-locat-82344cb1",
-    title: "Chipotle pulls jalapenos from some locations after salmonella investigation. Here’s what to know.",
-    titleJa: "チポトレはサルモネラ菌の調査後、いくつかの場所からハラペーニョを採取しました。ここで知っておくべきことは次のとおりです。",
-    summaryJa: "チポトレの株価は火曜日に下落したが、同社はハラペーニョを撤去した後、健康調査員らは同チェーンに対して「継続的な懸念はない」と述べた。",
-    bodyOriginal: `While Chipotle’s stock slid on Tuesday, it said health investigators had “no ongoing concerns” with the chain after it removed the jalapenos.`,
-    bodyJa: `チポトレの株価は火曜日に下落したが、同社はハラペーニョを撤去した後、健康調査員らは同チェーンに対して「継続的な懸念はない」と述べた。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/chipotle-pulls-jalapenos-from-some-locations-after-salmonella-investigation-heres-what-to-know-20d8c66f?mod=mw_rss_topstories",
-    publishedAt: "2026-08-04T21:54:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-77547915",
-    readTime: 2,
-  },
-  {
-    id: "stocks-face-their-weakest-seasonal-stret-4d5ab9c6",
-    title: "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling.",
-    titleJa: "株価は季節的に最も弱い時期に直面している。なぜ投資家の極端な悲観主義が売りを制限する可能性があるのか​​。",
-    summaryJa: "ネッド・デービス・リサーチによると、米国株は歴史的に今年最も弱い時期に突入しているが、投資家心理が異常に弱気になっているため、反落を抑える可能性があるという。",
-    bodyOriginal: `U.S. stocks are entering what has historically been the weakest stretch of the year, but unusually bearish investor sentiment could help limit any pullback, according to Ned Davis Research.`,
-    bodyJa: `ネッド・デービス・リサーチによると、米国株は歴史的に今年最も弱い時期に突入しているが、投資家心理が異常に弱気になっているため、反落を抑える可能性があるという。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/stocks-face-their-weakest-seasonal-stretch-why-extreme-investor-pessimism-could-limit-any-selling-768261e9?mod=mw_rss_topstories",
-    publishedAt: "2026-08-04T21:25:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-17331664",
-    readTime: 2,
   },
 ];
 
