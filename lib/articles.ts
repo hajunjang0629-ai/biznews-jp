@@ -15,6 +15,328 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "shares-of-this-digital-medical-platform-25d2959e",
+    title: "Shares of this digital medical platform were up more than 100% at one point. Here's what's driving it",
+    titleJa: "このデジタル医療プラットフォームの株価は一時 100% 以上上昇しました。これがその原動力です",
+    summaryJa: "医療プラットフォームのドキシミティの株価は、同社の新しいAI検索ツールのマージンに関する大胆なコメントを受けて、金曜日の市場前取引で一時2倍以上に上昇した。CEOのJeffrey Tangney氏は、この製品はランニングコストの10倍の利益をもたらすと語った。",
+    bodyOriginal: `Shares of medical platform Doximity more than doubled at one point in premarket trading Friday after some bold comments on the margin for its new AI search tool.
+CEO Jeffrey Tangney said the product brings in 10 times what it costs to run.
+"It's early days on our AI search product, but I can tell you we're earning more than 10 times per search in revenue than it costs," he said on Thursday during the company's first-quarter fiscal 2027 earnings call.
+"Over time, we probably expect the overall AI cost, if anything, [to] go down as models get more efficient, so we feel good about the unit economics there," Tangney added.
+Doximity shares were up more than 130% in premarket trading before settling down a bit. The shares were last up 78%.
+Analysts think these spectacular returns are not yet baked into the company's already solid financials. Doximity reported first-quarter revenues of $156.6 million and adjusted EBITDA of $74.8 million, both of which were above consensus estimates.
+The company also raised its full year revenue guidance range up by $6 million, or 5%, to between $671 million and $681 million -- but the huge AI profitability potential is likely not a part of that boosted forecast, analysts said.
+"The FY27 raise (which is mostly comprised of the F1Q27 beat) does not reflect a significant contribution from the expanding AI commercial pipeline described on the earning call and in callbacks," Jessica Tassan at Piper Sandler wrote to clients in a Friday note.
+Tassan said she thought that management is taking a "conservative approach" to AI search revenue in its FY27 outlook.
+Shares of Doximity, which sported a market value of $3.7 billion before Friday's surge, were down 50% for the year before the results.
+Short squeeze
+CEO Tangney suggested that the AI search is resulting in not only higher profitability but also a larger addressable market.
+"Frankly, the [total addressable market] that this unlocks for us within health, within pharma has been a real surprise and upside for us," he said.
+Longer-term margins could swell along with the increasing market size.
+"[AI search is] reinforcing confidence that [Doximity's] elevated AI investments will ultimately support attractive long-term margins," Michael Cherney at Leerink Partnerships wrote to clients on Thursday.
+While great news for Doximity, the huge upswing the in the stock on Friday morning is bad for anybody who is shorting it.
+About 17% of shares available for trading were sold short heading into the earnings results, according to FactSet. As those short sellers are forced to unwind those positions, it likely added fuel to Doximity's surge.`,
+    bodyJa: `医療プラットフォームのドキシミティの株価は、同社の新しいAI検索ツールのマージンに関する大胆なコメントを受けて、金曜日の市場前取引で一時2倍以上に上昇した。
+CEOのJeffrey Tangney氏は、この製品はランニングコストの10倍の利益をもたらすと語った。
+同氏は木曜日、同社の2027会計年度第1四半期決算会見で、「当社のAI検索製品はまだ初期段階だが、検索当たりの収益がコストの10倍以上だと言える」と語った。
+「時間の経過とともに、モデルの効率が向上するにつれて、AI 全体のコストはどちらかというと下がるとおそらく予想されるため、ユニットエコノミクスについては満足しています」と Tangney 氏は付け加えました。
+ドキシミティ株は市場前の取引で130％以上上昇したが、その後少し落ち着いた。株価は直近で78％上昇した。
+アナリストらは、こうした目覚ましい利益が同社のすでに堅調な財務内容にまだ組み込まれていないと考えている。 Doximityの第1四半期の売上高は1億5,660万ドル、調整後EBITDAは7,480万ドルで、いずれもコンセンサス予想を上回りました。
+同社はまた、通期の売上高見通しの範囲を600万ドル（5％）引き上げ、6億7,100万ドルから6億8,100万ドルの間としたが、AIによる莫大な収益性の可能性はその押し上げられた予測に含まれない可能性が高いとアナリストらは述べた。
+パイパー・サンドラーのジェシカ・タッサン氏は金曜日のメモで顧客に宛てた書簡で、「2027年度の昇給（その大部分は2027年第1四半期ビートで構成される）は、決算報告書やコールバックに記載されているAI商業パイプラインの拡大による大きな貢献を反映していない」と述べた。
+タッサン氏は、経営陣が27年度見通しでAI検索収益に対して「保守的なアプローチ」を取っていると考えていると述べた。
+金曜の急騰前には時価総額37億ドルを誇っていたドキシミティの株価は、決算発表前の1年間で50％下落していた。
+ショートスクイーズ
+CEO の Tangney 氏は、AI 検索により収益性が向上するだけでなく、より大きな市場を実現できると示唆しました。
+「率直に言って、これによって健康分野や製薬分野で私たちに開放される[対応可能な市場全体]は、私たちにとって本当に驚きであり、プラスの面でもあります。」と彼は述べた。
+市場規模の拡大に伴い、長期的な利益も拡大する可能性があります。
+「（AI検索は）（Doximityの）AI投資の増加が最終的には魅力的な長期利益を支えるだろうという確信を強めている」とリーリンク・パートナーシップのマイケル・チャーニー氏は木曜日に顧客に宛てた書簡で述べた。
+ドキシミティにとっては朗報だが、金曜朝の株価の大幅な上昇は空売りしている人にとっては悪いものだ。
+ファクトセットによると、取引可能な株式の約17％が決算発表に向けて空売りされた。これらの空売り業者はポジションの巻き戻しを余儀なくされており、ドキシミティの急騰に拍車をかけた可能性が高い。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+    publishedAt: "2026-08-07T13:18:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "u-s-economy-unexpectedly-lost-23-000-job-4ad0a120",
+    title: "U.S. economy unexpectedly lost 23,000 jobs in July",
+    titleJa: "米国経済は7月に予想外に2万3000人の雇用を失った",
+    summaryJa: "米国労働統計局は金曜、雇用情勢の減速を示すスナップショットで、米国経済は7月に雇用が予想外に減少したが、失業率は若干低下したと報告した。同月の非農業部門雇用者数は季節調整済みで2万3,000人減少し、6月の下方修正値は2万人減少した。ダウ・ジョーンズのコンセンサス予想では８万３０００ドルの上昇が見込まれていた。",
+    bodyOriginal: `The U.S. economy saw an unexpected declined in jobs during July while the unemployment rate edged lower, the Bureau of Labor Statistics reported Friday in a snapshot that showed a slowing employment picture.
+Nonfarm payrolls fell by a seasonally adjusted 23,000 for the month, compared to a downwardly revised 20,000 for June. The Dow Jones consensus forecast had been looking for a gain of 83,000.
+At the same time, the unemployment slipped to 4.1% as the labor force participation rate fell further to 61.4%, its lowest in more than five years.
+In addition to the weak numbers for June and July, the final count for May was revised down to 63,000, or 66,000 lower than the prior estimate. The revised numbers brought the 12-month average down to just 34,000.
+The drop was led by a 50,000 decline in local government education and a loss of 19,000 retail jobs. Financial activities also posted a 14,000 decline.
+Healthcare, which has been the leading sector for job creation, rose by 22,000, which was below its 12-month average of 36,000.
+While jobs held flat, worker pay also saw virtually no gain during the month. Average hourly earnings increased by just 2 cents, bringing the 12-month average down to 3.2%, below the forecast increase of 3.5%.
+The report comes with Federal Reserve policymakers split on where interest rates should head in an economy where the labor market had been improving from a moribund year in 2025 while inflation has remained well above the central bank's 2% target.
+In recent days, several Fed officials have spoken in favor of raising rates as soon as September if the pace of price increases doesn't ease. The Federal Open Market Committee last week voted 9-3 to hold its benchmark rate in place.
+Following the jobs report, traders shifted their bets on when the Fed might hike. Odds for a move in September fell to 44% and to 58.3% for October, according to the CME Group's FedWatch gauge of futures prices.
+Stock market futures, meanwhile, posted solid gains amid the expectations for a more dovish Fed. Futures tied to the Dow Jones Industrial Average were up close to 200 points and Treasury yields plummeted after being around the flatline earlier in the session.
+This is breaking news. Please refresh for updates.`,
+    bodyJa: `米国労働統計局は金曜、雇用情勢の減速を示すスナップショットで、米国経済は7月に雇用が予想外に減少したが、失業率は若干低下したと報告した。
+同月の非農業部門雇用者数は季節調整済みで2万3,000人減少し、6月の下方修正値は2万人減少した。ダウ・ジョーンズのコンセンサス予想では８万３０００ドルの上昇が見込まれていた。
+同時に、失業率は4.1%に低下し、労働参加率はさらに5年ぶりの低水準となる61.4%に低下した。
+6月と7月の数値が低調だったことに加え、5月の最終統計は6万3000人、つまり事前予想より6万6000人下方修正された。修正された数値により、12 か月の平均はわずか 34,000 件に減少しました。
+地方自治体の教育が５万人減少し、小売業で１万９０００人の雇用が失われたことが減少の要因となった。金融活動も１万４０００人の減少となった。
+雇用創出の牽引役となっているヘルスケアは２万２０００人増と、１２カ月平均の３万６０００人を下回った。
+雇用は横ばいでしたが、従業員の給与も同月を通じて実質的に上昇しませんでした。平均時給はわずか 2 セント増加し、12 か月平均は 3.2% に低下し、予想の 3.5% 増加を下回りました。
+この報告書は、労働市場が2025年の瀕死の年から改善しつつある一方、インフレ率が中銀の目標である2％を大幅に上回っている経済において、金利がどの方向に向かうべきかについて連邦準備理事会の政策担当者の間で意見が分かれていることを明らかにしている。
+ここ数日、複数のFRB当局者が、物価上昇ペースが緩和しない場合には早ければ9月にも利上げすることに賛成の立場を表明している。連邦公開市場委員会は先週、9対3で基準金利の据え置きを可決した。
+雇用統計を受けて、トレーダーらはFRBがいつ利上げするかに賭けの対象を移した。 ＣＭＥグループのフェドウォッチの先物価格ゲージによると、９月が動くオッズは４４％、１０月は５８．３％に低下した。
+一方、FRBのハト派化への期待を背景に株式市場先物は堅調な上昇を記録した。ダウ工業株30種平均に連動する先物相場は200ポイント近くまで上昇し、米国債利回りは取引序盤に横ばい近辺にあった後、急落した。
+これは速報です。更新を確認するには更新してください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
+    publishedAt: "2026-08-07T12:53:12+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "how-s-p-500-options-action-may-help-expl-92e062c3",
+    title: "How S&P 500 options action may help explain the rising volatility in memory stocks",
+    titleJa: "S&P 500 オプションの動きはメモリ株のボラティリティ上昇の説明にどのように役立つか",
+    summaryJa: "IBKRのソスニック氏によると、強気のデリバティブ賭けは押し目買いの心理と噛み合うという。",
+    bodyOriginal: `Bullish derivative bets mesh with the buy-the-dip mentality, says IBKR’s Sosnick.`,
+    bodyJa: `IBKRのソスニック氏によると、強気のデリバティブ賭けは押し目買いの心理と噛み合うという。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
+    publishedAt: "2026-08-07T12:38:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-50158835",
+    readTime: 2,
+  },
+  {
+    id: "how-a-90-second-power-outage-sparked-cha-f28663d4",
+    title: "How a 90-second power outage sparked  chaos for rail commuters",
+    titleJa: "90秒間の停電が鉄道通勤者に混乱を引き起こした経緯",
+    summaryJa: "90秒間の停電が鉄道通勤者に混乱を引き起こした経緯- 公開されました",
+    bodyOriginal: `How a 90-second power outage sparked chaos for rail commuters
+- Published
+The power failure which hit a Network Rail operations centre in Manchester was a rare incident.
+But after commuters were left facing chaos, it has raised questions about how a short outage at one operating centre could have a widespread impact.
+Network Rail will face scrutiny for how its systems coped and responded to the outage.
+That's the publicly-owned body whose job it is to operate and maintain Britain's railway infrastructure. That means the tracks, signals, embankments and major stations.
+It was at Network Rail's operating centre in Manchester that the problem started. Its operating centres are where crucial controls are housed that let trains run safely across the country, with Manchester's centre responsible for large parts of the North West.
+It was hit by a power cut in the area, which was resolved within 90 seconds. And despite having a backup supply, given the centre's importance, this failed to kick in as quickly as expected.
+Because signalling was affected - think of that as the traffic lights of the railway - trains had to stop.
+Systems had to be rebooted. But there was some damage to the systems controlling signalling, and that took time to fix because of the need to replace certain parts.
+Thinking about how busy parts of the rail network are, and how many trains and crews were left out of position across the North West of England and beyond, helps explain why the impact was so big.
+Network Rail has apologised to customers and opened an investigation.
+Bosses say engineers have been working hard to "build additional resilience into our signalling systems to ensure that this doesn't happen again".
+Network Rail has moved towards having 12 so-called Rail Operating Centres across Great Britain, replacing a previous structure of hundreds of older signal boxes. They are meant to be high tech hubs which centralise control of the network.
+Manchester's Rail Operating Centre was opened in 2014.
+Experts have warned consolidating in this way means that if one centre is badly affected, the impact is much broader.
+Rail writer Christian Wolmar said the problem they have created is that "if one thing goes wrong, it can wipe out, as we saw, quite a lot of the network".
+"So really they've got to start thinking about both resilience, but also whether the centralisation of all the signalling and communications into a very small number of places is the right thing to do," he added.
+There's nothing to specifically link this particular incident to other recent problems experienced by rail users; for example the impact of speed restrictions and infrastructure failures during the recent extreme heat.
+But it is unlikely to inspire confidence among passengers who have in the past few years suffered from issues such as poor performance among operators, strikes and rising ticket prices. Regulated fares have been frozen in England this year.
+Rail engineer and writer Gareth Dennis also drew a link between the incident and the funding pressures and job cuts Network Rail has faced. He said it raised questions including: "Are their staff suitably resourced? Are there enough staff to be ensuring that things like those checks of that supply are happening?"
+Network Rail gets five-year funding settlements, signed off by the government. The latest one started in 2024.
+The government committed £44.1bn for the 2024-29 period of the strategic business plan, a £3bn increase from the previous five years.
+Factors including rising costs due to inflation and a rise in extreme weather events have left its funding under severe pressure.
+Introducing Network Rail's new business plan, former chief executive Andrew Haines said that, given the constrained budget, funding would "need to go further than ever before".
+The government's current rail policy centres around nationalising the passenger rail operators who weren't already in public control (a number of operators had already been nationalised under past Conservative governments) - then bringing the running of train services and the infrastructure under a new organisation called Great British Railways.
+Network Rail is expected to be abolished as a separate entity. Ahead of that, some joint management teams have been formed, for example in the South West.
+The question of how much taxpayer money to spend supporting both passenger rail services, and investing in infrastructure, is a significant one - and government budgets remain squeezed.
+With additional reporting by Mark Allison
+Get in touch
+Were you affected by the train disruption? Let us know
+Related topics
+- Published19 May 2023`,
+    bodyJa: `90秒間の停電が鉄道通勤者に混乱を引き起こした経緯
+- 公開されました
+マンチェスターのネットワークレール運用センターを襲った停電は珍しい出来事だった。
+しかし、通勤客が混乱に直面したことを受けて、1つの運営センターでの短期間の停止がどのように広範囲に影響を与える可能性があるかという疑問が生じた。
+Network Rail は、システムが障害にどのように対処し、対応したかについて精査されることになる。
+それは英国の鉄道インフラの運営と維持を任務とする公営組織だ。つまり、線路、信号、堤防、主要駅です。
+問題が始まったのは、マンチェスターにある Network Rail のオペレーション センターでした。その運行センターには、全国で列車を安全に運行させるための重要な制御装置が設置されており、マンチェスターのセンターは北西部の大部分を担当している。
+付近で停電が発生したが、90秒以内に解消した。そして、センターの重要性を考えると、予備の供給があったにもかかわらず、これは予想されたほど迅速には機能しませんでした。
+信号が影響を受けたため、鉄道の信号機と考えてください。電車は停止しなければなりませんでした。
+システムを再起動する必要がありました。しかし、信号を制御するシステムに損傷があり、特定の部品を交換する必要があるため、修復に時間がかかりました。
+鉄道網の混雑した部分がどれほど混雑し、イングランド北西部やその他の地域でどれだけ多くの列車と乗務員が定位置から取り残されたかを考えると、なぜ影響がこれほど大きかったかを説明するのに役立ちます。
+Network Railは顧客に謝罪し、調査を開始した。
+上司らは、技術者らが「このようなことが二度と起こらないよう、信号システムにさらなる回復力を組み込む」ために懸命に取り組んでいると述べた。
+Network Rail は、数百の古い信号ボックスであった以前の構造を置き換え、英国全土にいわゆる鉄道運営センターを 12 か所設置する方向に移行しました。これらは、ネットワークを集中制御するハイテクハブとなることを目的としています。
+マンチェスターの鉄道運行センターは 2014 年に開設されました。
+専門家らは、このような統合は、1つのセンターが大きな影響を受けた場合、その影響はさらに広範囲に及ぶことを意味すると警告している。
+鉄道ライターのクリスチャン・ウォルマー氏は、彼らが引き起こした問題は、「何か一つでも問題が発生すると、我々が見たように、ネットワークのかなりの部分が消滅する可能性がある」ことだと述べた。
+「ですから実際には、彼らは回復力だけでなく、すべての信号と通信を非常に少数の場所に集中させることが正しいことなのかどうかという両方について考え始めなければなりません。」と彼は付け加えた。
+この特定の事件と、鉄道利用者が経験した他の最近の問題とを具体的に結び付けるものは何もありません。たとえば、最近の猛暑時の速度制限やインフラ障害の影響です。
+しかし、過去数年間、運行会社の業績不振、ストライキ、航空券価格の高騰などの問題に苦しんできた乗客の間で、このことが信頼を呼び起こす可能性は低い。英国では今年、規制運賃が凍結された。
+鉄道エンジニアで作家のギャレス・デニスも、この事件とネットワーク・レールが直面している資金調達の圧力や人員削減との関連性を指摘した。同氏は、このことが「スタッフには適切なリソースが与えられているのか？供給品のチェックなどの作業を確実に行うのに十分なスタッフがいるのか？」などの疑問を引き起こしたと述べた。
+Network Rail は、政府の承認を得て 5 年間の資金調達を完了しました。最新のものは2024年に開始されました。
+政府は戦略的事業計画の2024～29年度に441億ポンドを約束し、これまでの5年間から30億ポンド増加した。
+インフレや異常気象の増加によるコスト上昇などの要因により、資金調達が深刻なプレッシャーにさらされている。
+ネットワーク・レールの新事業計画を紹介する元最高経営責任者アンドリュー・ヘインズ氏は、限られた予算を考慮すると資金調達は「これまで以上に進む必要がある」と述べた。
+政府の現在の鉄道政策は、まだ公的管理下になかった旅客鉄道事業者を国有化し（過去の保守党政権下で多くの事業者がすでに国有化されていた）、その後鉄道サービスとインフラの運営をグレート・ブリティッシュ鉄道と呼ばれる新しい組織のもとに導入することが中心となっている。
+ネットワークレールは別組織として廃止される見通しだ。それに先立って、例えば南西部などではいくつかの共同管理チームが結成されている。
+旅客鉄道サービスの支援とインフラへの投資にどれだけの税金を費やすかという問題は重要であり、政府予算は依然として逼迫している。
+Mark Allison による追加レポートあり
+連絡する
+電車の乱れの影響はありましたか？お知らせください
+関連トピック
+- 2023 年 5 月 19 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-07T12:30:07+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce6/live/d3c457f0-925d-11f1-b9ff-37ae3aba3894.jpg",
+    readTime: 5,
+  },
+  {
+    id: "companies-scoff-at-airlines-cheapest-bus-3bbb8845",
+    title: "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
+    titleJa: "企業は航空会社の最安のビジネスクラス航空券を嘲笑している。 「本当の価値は柔軟性です」",
+    summaryJa: "シカゴ — 経営幹部のビジネスクラス航空券には、事前の座席指定、ラウンジへのアクセス、またはフライトの変更は含まれていませんか?絶対にそんなことはない、と言う企業もある。デルタ航空は先月、ユナイテッド航空に加わり、航空会社が顧客に空の特典により多くのお金を支払ってもらうため、より高価な客室にコーチクラスを割り当てるのと同じアプローチをとって、特定のフライトで必要最低限​​のビジネスクラス運賃を導入した。",
+    bodyOriginal: `CHICAGO — No advanced seat selection, lounge access or flight changes included with a C-suite executive's business-class ticket? Absolutely not, some companies say.
+Delta Air Lines joined United Airlines last month in launching stripped-down business class fares for certain flights, taking the same approach they used to carve up coach class to their more expensive cabins as carriers get customers to pay more for perks in the sky.
+That's a new headache for companies' business travel mangers.
+AerSale — which leases aircraft and engines and offers maintenance and other services — likely won't block basic premium options altogether for its hundreds of traveling employees. But those tickets would be impractical for many of its workers, said Jackie Carlon, the Doral, Florida-based company's senior vice president of marketing and communications.
+"The real value is flexibility," Carlon said. "Paying a bit more, it's not necessarily a cost to us — it's insurance."
+What's included with basic business — and what's not
+With the new fares, the cheapest option for long-haul international flights won't come with things like access to an airport lounge or the ability to pick a seat for free in advance. Perhaps most important for business travel, no changes are allowed without paying a fee on top of a difference in fare.
+Delta said change fees for basic business class could range from none at all up to $400, depending on the route, and from $99 to as much as $500 for cancellations.
+Because work trips can change on a dime, a restrictive ticket in business class can cost a company even more if travelers have to buy a whole new flight. Only a small proportion of a corporation's business travelers usually fly in top-tier cabins, but the higher fares could further drive up travel costs.
+The difference in fares, meanwhile, could be several hundred dollars to close to $1,000, if not more.
+On United, for example, the least expensive fare in the airlines' lie-flat pod Polaris cabin doesn't come with access to the Polaris business-class airport lounge, which features a bar, sit-down dining, a rest area, showers and other amenities. The traveler also can't pick a seat in advance without paying a fee and no changes are allowed. Travelers can cancel the flight with a fee. United doesn't disclose its fees for the new fares, and a spokeswoman said the amounts vary.
+For a flight going from Newark, New Jersey, to London Heathrow on Oct. 1 and returning Oct. 8, the "base" Polaris ticket was going for $4,490, while the standard fare was $4,890, and it was $5,390 for a flexible, refundable ticket.
+Airlines say it gives customers more of a choice.
+"We support our corporate travel partners by giving them full control over which fare products are available to their business travelers based on their own policies and business objectives," Delta said in a statement. "We continue to see strong demand for premium travel."
+Corporate considerations
+Dane Molter, senior vice president at Navan Group Travel Marketplace, which reported $9.1 billion in gross booking volume in the 12 months ended Jan. 31, said clients that use the platform are seeking more detailed policy controls that could determine which fare an employee books for a trip.
+"Travel managers are asking a sensible question: Does the lower upfront fare still represent good value if it lacks flexibility, seat selection, lounge access or other benefits their travelers expect?" he said in a statement.
+Two travel managers at public companies at the Global Business Travel Association's annual convention in Chicago said they would likely seek to block the fares altogether. They spoke on the condition of anonymity because they weren't authorized to talk about their employers' travel spending,
+While airlines like Germany's Lufthansa and Etihad Airways, based in the United Arab Emirates, have already offered stripped-down basic business-class fares, it's still early days for these types of tickets.
+The divisions at the front of the plane comes as airfare is on the rise across the board the year. Globally, airfare is set to rise close to 5% this year from last to an average of $756 for a roundtrip flight, with premium rising even more: 9.5% to $4,488, the Global Business Travel Association forecast this week at its annual convention.
+John Bukowski, vice president of global marketplace experience, product and engineering at corporate travel and expense giant American Express Global Business Travel, which had $36.3 billion in bookings in 2025, told CNBC earlier this week that he hasn't seen a lot of clients seeking to block the fares so far, like they have with basic economy tickets.
+Companies about a decade ago started blocking their travelers from booking basic economy fares, which have become even more restrictive, including in some cases by lowering the frequent flyer miles a traveler earns or eliminating that option altogether. Airline executives have frequently measured the success of basic economy by how many travelers paid up to avoid it.
+Scott Laurence, a partner at Oliver Wyman's transportation practice who previously worked at JetBlue Airways and American Airlines, said the cheaper, basic business or other premium fares could be attractive to a more price-sensitive small or medium-sized company, but that the options could become complicated.
+American doesn't offer the basic business, or basic premium economy fares, which could also add confusion if another carrier that does appears cheaper at first glance.
+"The travel managers are going to value some level of simplicity and making sure things work with their expense system and their policy," he said.
+Laurence added that travel managers are likely to collect a lot of feedback from their customers, especially if they're used to lounge access at the end of a long-haul flight or they're earning fewer miles.
+But "there's an interest in offering a lower price point," he said. "It also is ... frankly, about driving buy up."`,
+    bodyJa: `シカゴ — 経営幹部のビジネスクラス航空券には、事前の座席指定、ラウンジへのアクセス、またはフライトの変更は含まれていませんか?絶対にそんなことはない、と言う企業もある。
+デルタ航空は先月、ユナイテッド航空に加わり、航空会社が顧客に空の特典により多くのお金を支払ってもらうため、より高価な客室にコーチクラスを割り当てるのと同じアプローチをとって、特定のフライトで必要最低限​​のビジネスクラス運賃を導入した。
+これは企業の出張担当者にとって新たな悩みの種だ。
+航空機とエンジンをリースし、メンテナンスやその他のサービスを提供するエアセールは、数百人の出張従業員に対する基本的なプレミアムオプションを完全にブロックすることはないだろう。しかし、フロリダ州ドラルに本拠を置く同社のマーケティングおよびコミュニケーション担当上級副社長、ジャッキー・カーロン氏は、こうしたチケットは多くの従業員にとって現実的ではないと語った。
+「本当の価値は柔軟性です」とカーロン氏は言う。 「もう少しお金を払っても、それは必ずしも私たちにとってコストではありません。それは保険です。」
+基本的なビジネスに含まれるものと含まれないもの
+新しい運賃では、長距離国際線の最も安いオプションには、空港ラウンジへのアクセスや、事前に無料で座席を指定する機能などは付属しません。おそらくビジネス旅行にとって最も重要なことは、運賃の差額に加えて手数料を支払わない限り変更は認められていないということです。
+デルタ航空によると、ベーシックビジネスクラスの変更手数料は、路線に応じて無料から最大400ドル、キャンセルの場合は99ドルから最大500ドルの範囲となる可能性があるという。
+出張は刻一刻と変更される可能性があるため、旅行者がまったく新しいフライトを購入しなければならない場合、ビジネス クラスの制限付きチケットでは会社の費用がさらに高くなる可能性があります。通常、一流のキャビンを利用する企業の出張者はごく一部ですが、運賃が高くなると旅行コストがさらに上昇する可能性があります。
+一方、運賃の差は、それ以上ではないにしても、数百ドルから 1,000 ドル近くになる可能性があります。
+例えば、ユナイテッド航空のライフラットポッド「ポラリス」キャビンの最も安い運賃には、バー、着席ダイニング、休憩エリア、シャワー、その他の設備を備えたポラリス・ビジネスクラス空港ラウンジへのアクセスは付属していない。また、旅行者は料金を支払わずに事前に座席を指定することはできず、変更もできません。旅行者は手数料を払ってフライトをキャンセルできます。ユナイテッド航空は新運賃の手数料を明らかにしておらず、広報担当者は金額にはばらつきがあると述べた。
+10月1日にニュージャージー州ニューアークからロンドン・ヒースロー空港に行き、10月8日に戻る便の場合、ポラリスの「基本」航空券は4,490ドルだったが、標準運賃は4,890ドル、フレキシブルで返金可能な航空券は5,390ドルだった。
+航空会社は、顧客の選択肢が増えると主張している。
+デルタ航空は声明で、「当社は法人旅行パートナーに対し、ビジネス旅行者が自社のポリシーや事業目標に基づいてどの運賃商品を利用できるかを完全にコントロールできるようサポートしている」と述べた。 「プレミアム旅行に対する強い需要が引き続き見られます。」
+企業としての考慮事項
+1月31日までの12カ月間の総予約額が91億ドルだったと報告したナヴァン・グループ・トラベル・マーケットプレイスのシニアバイスプレジデント、デーン・モルター氏は、同プラットフォームを利用する顧客は、従業員が旅行の予約をする運賃を決定できる、より詳細なポリシー管理を求めていると述べた。
+「旅行管理者は賢明な質問をしています。柔軟性、座席の選択、ラウンジへのアクセス、または旅行者が期待するその他の特典が欠けている場合、前払い料金が低いにもかかわらず、それでも価値があるのでしょうか?」と彼は声明で述べた。
+シカゴで開催されたグローバル・ビジネス・トラベル・アソシエーションの年次大会に出席した上場企業の旅行責任者2人は、運賃の全面的な禁止を求める可能性が高いと述べた。彼らは雇用主の旅費について話す権限がなかったため、匿名を条件に語った。
+ドイツのルフトハンザドイツ航空やアラブ首長国連邦に拠点を置くエティハド航空などの航空会社はすでに、必要最低限のビジネスクラスの基本運賃を提供しているが、この種の航空券はまだ日が浅い。
+航空運賃が年間を通じて全体的に上昇しているため、飛行機の前部での分裂が生じています。世界的に、今年の航空運賃は昨年より5%近く上昇し、往復平均756ドルとなり、プレミアムはさらに上昇し、9.5%の4,488ドルになると、世界ビジネス旅行協会が今週の年次総会で予測した。
+2025年の予約額が363億ドルだった法人向け旅行・経費大手アメリカン・エキスプレス・グローバル・ビジネス・トラベルのグローバル・マーケットプレイス・エクスペリエンス、製品、エンジニアリング担当バイスプレジデントのジョン・ブコウスキー氏は今週初めにCNBCに対し、ベーシック・エコノミー航空券の場合のように運賃を阻止しようとする顧客は今のところ多くないと語った。
+企業は約10年前、旅行者がベーシックエコノミー運賃を予約できないようにし始めたが、場合によっては旅行者が獲得するマイレージマイルを引き下げたり、そのオプションを完全に廃止したりするなど、さらに制限が厳しくなった。航空会社幹部らはベーシックエコノミーの成功を、ベーシックエコノミーを避けるためにどれだけの旅行者がお金を払ったかで測ることが多い。
+オリバー・ワイマンの輸送業務のパートナーで、以前はジェットブルー航空やアメリカン航空で働いていたスコット・ローレンス氏は、価格に敏感な中小企業にとっては、より安価な基本的なビジネス運賃やその他のプレミアム運賃は魅力的かもしれないが、選択肢が複雑になる可能性があると述べた。
+アメリカン航空は、基本的なビジネス運賃や基本的なプレミアムエコノミー運賃を提供していないため、提供している他の航空会社が一見すると安く見える場合、混乱がさらに大きくなる可能性があります。
+同氏は、「旅行管理者はある程度の簡素化を重視し、経費システムやポリシーに沿って物事が確実に機能するようにするだろう」と述べた。
+ローレンス氏は、特に長距離フライトの終わりにラウンジを利用することに慣れている顧客や、獲得マイルが少ない顧客の場合、旅行管理者は顧客から多くのフィードバックを収集する可能性が高いと付け加えた。
+しかし、「より低い価格帯を提供することに関心がある」と同氏は語った。 「それはまた…率直に言って、買い占めを促進するということでもある。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
+    publishedAt: "2026-08-07T12:15:42+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "solar-stocks-shine-after-trump-extends-c-b793348d",
+    title: "Solar stocks shine after Trump extends China tariffs to polysilicon products",
+    titleJa: "トランプ大統領が対中関税をポリシリコン製品に拡大したことで太陽光発電株が好調",
+    summaryJa: "ドナルド・トランプ大統領が太陽光パネルの製造に使用される主要材料で作られた輸入品に新たな関税を課し、中国との貿易戦争に新たな戦線を開いた後、金曜日の市場前取引で米国の太陽光発電株が急騰した。大統領は木曜日、米国保護を目的とした動きとして、ポリシリコン製製品に15％の関税を課し、一部の関連輸入品に最低価格を導入した。国内の太陽光発電サプライチェーンを中国の競争相手から奪う。",
+    bodyOriginal: `U.S. solar stocks jumped in premarket trading Friday, after President Donald Trump opened a new front in his trade war with China, imposing fresh tariffs on imported products made from a key material used to manufacture solar panels.
+The president on Thursday slapped a 15% duty on products made from polysilicon, and also introduced minimum prices for some related imports, in a move aimed at protecting the U.S.' domestic solar supply chains from Chinese competition.
+The announcements sent solar-related shares higher in premarket trade Friday.
+First Solar's stock advanced more than 7% ahead of the market open, with SolarEdge Technologies rising 1%. The Invesco Solar exchange-traded fund was up 4%.
+Trump imposed the tariffs under Section 232 of the U.S. Trade Expansion Act of 1962.
+The executive order, which Trump said was taken following advice and information from Commerce Secretary Howard Lutnick, comes as the U.S. seeks to insulate its domestic chip and solar supply chains, and counter China in the artificial intelligence and energy race.
+"For decades, America has allowed foreign countries to weaken United States producers in the polysilicon sector, eroding our economic and national security. Today, I am taking action to put a stop to these practices and revitalize the United States polysilicon sector," Trump said in the executive order.`,
+    bodyJa: `ドナルド・トランプ大統領が太陽光パネルの製造に使用される主要材料で作られた輸入品に新たな関税を課し、中国との貿易戦争に新たな戦線を開いた後、金曜日の市場前取引で米国の太陽光発電株が急騰した。
+大統領は木曜日、米国保護を目的とした動きとして、ポリシリコン製製品に15％の関税を課し、一部の関連輸入品に最低価格を導入した。国内の太陽光発電サプライチェーンを中国の競争相手から奪う。
+この発表を受けて金曜日の市場前取引では太陽光発電関連株が上昇した。
+ファースト・ソーラーの株価は寄り付きに先んじて７％以上上昇し、ソーラーエッジ・テクノロジーズは１％上昇した。インベスコ・ソーラー上場投資信託は４％上昇した。
+トランプ大統領は1962年米国通商拡大法第232条に基づき関税を課した。
+トランプ大統領によると、この大統領令はハワード・ラトニック商務長官からの助言と情報を受けて発令されたもので、米国が国内のチップと太陽光発電のサプライチェーンを遮断し、人工知能とエネルギー競争で中国に対抗しようとしている中で出された。
+トランプ大統領は大統領令の中で、「米国は何十年にもわたって、外国がポリシリコン部門で米国の生産者を弱体化させ、我が国の経済と国家安全保障を損なうことを許してきた。私は本日、こうした慣行を阻止し、米国のポリシリコン部門を活性化するために行動を起こす」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+    publishedAt: "2026-08-07T12:13:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "us-strikes-1-2bn-deal-to-pay-german-firm-4742e569",
+    title: "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+    titleJa: "米国、洋上風力発電プロジェクト中止の費用としてドイツ企業に12億ドルの契約を締結",
+    summaryJa: "米国、洋上風力発電プロジェクト中止の費用としてドイツ企業に12億ドルの契約を締結- 公開されました",
+    bodyOriginal: `US strikes $1.2bn deal to pay German firm to halt offshore wind projects
+- Published
+German energy company RWE has said it will abandon its offshore wind projects in the US after reaching a $1.2bn (£892m) payout deal with President Donald Trump's Department of the Interior (DoI).
+RWE said that it will now reinvest the sum into conventional gas projects, including $900m (£669m) in a liquefied natural gas (LNG) export terminal project in Louisiana.
+"After careful consideration, it was determined there is no path forward to permit these projects in the US for the foreseeable future," the company said in a statement.
+RWE said it has agreed to relinquish its leases off the California and Louisiana coasts as well as in the New York Bight.
+Six possible effects of Trump's climate policy change
+- Published13 February
+Trump announces $700m coal investment using wartime powers
+- Published5 June
+Overall, the German firm plans to invest approximately €17bn (£14.5bn; $19.6bn) in the US over the next six years "to grow its generation capacity".
+Interior Secretary Doug Burgum said in a statement posted on X that Americans deserve an energy system built on common sense and not one dependent on "costly subsidies".
+"We welcome RWE's agreement and voluntary investment in projects that strengthen our nation's energy security," he added.
+The deal is the latest the Trump administration has reached this year as Trump, a vocal supporter of the fossil fuel industry, continues his push to halt offshore wind projects.
+Trump has sought to boost government support for fossil fuels after campaigning for the presidency under the slogan "drill, baby, drill".
+Days after his return to office, he said "we're not going to do the wind thing" and called them "big, ugly windmills" that were dangerous to wildlife.
+In March 2026, the DoI reached a deal with TotalEnergies putting an end to the French company's offshore wind projects in the US.
+Instead, the firm agreed to reroute investment to build a LNG plant in Texas and to develop "upstream conventional oil" in the Gulf of Mexico.
+The administration signed a similar $129m (£96m) agreement with Charlotte-based Duke Energy last month in exchange for the termination of the company's offshore wind lease in the Carolina Long Bay area.
+- Published29 July 2025
+- Published22 December 2025
+- Published13 February`,
+    bodyJa: `米国、洋上風力発電プロジェクト中止の費用としてドイツ企業に12億ドルの契約を締結
+- 公開されました
+ドイツのエネルギー会社RWEは、ドナルド・トランプ大統領の内務省（DoI）と12億ドル（8億9,200万ポンド）の支払い合意に達した後、米国での洋上風力発電プロジェクトを放棄すると発表した。
+ＲＷＥは、この金額をルイジアナ州の液化天然ガス（ＬＮＧ）輸出基地プロジェクトへの９億ドル（６億６９００万ポンド）を含む従来型ガスプロジェクトに再投資すると発表した。
+同社は声明で「慎重に検討した結果、当面米国でこれらのプロジェクトを許可する道筋はないと判断した」と述べた。
+ＲＷＥは、カリフォルニア湾とルイジアナ州沖、およびニューヨーク湾の賃貸権を放棄することに合意したと発表した。
+トランプ大統領の気候変動政策変更で考えられる6つの影響
+- 2 月 13 日公開
+トランプ大統領、戦時権限を利用して7億ドルの石炭投資を発表
+- 6 月 5 日発行
+全体として、ドイツの企業は「発電能力を拡大するために」今後6年間で米国に約170億ユーロ（145億ポンド、196億ドル）を投資する予定だ。
+ダグ・バーガム内務大臣は、Xに掲載された声明の中で、米国人は「高価な補助金」に依存するものではなく、常識に基づいて構築されたエネルギーシステムを受ける権利があると述べた。
+同氏はさらに、「我が国のエネルギー安全保障を強化するプロジェクトへのRWEの合意と自発的な投資を歓迎する」と付け加えた。
+化石燃料産業を声高に支持するトランプ氏が洋上風力発電プロジェクトの停止を推進し続ける中、この合意はトランプ政権が今年合意に達した最新のものとなる。
+トランプ氏は「ドリル、ベイビー、ドリル」というスローガンを掲げて大統領選挙活動を行った後、化石燃料に対する政府の支持拡大を目指してきた。
+大統領に復帰してから数日後、同氏は「風に関することはやらない」と述べ、風車を野生生物にとって危険な「大きくて醜い風車」と呼んだ。
+2026年3月、DoIはTotalEnergiesとの間で、フランス企業の米国における洋上風力発電プロジェクトを中止する合意に達した。
+その代わりに同社は、テキサス州にLNGプラントを建設し、メキシコ湾で「上流の従来型石油」を開発するために投資の経路を変更することに同意した。
+同政権は先月、カロライナ・ロング・ベイ地域における同社の洋上風力リース契約の終了と引き換えに、シャーロットに本拠を置くデューク・エナジーと同様の1億2,900万ドル（9,600万ポンド）の契約を締結した。
+- 2025 年 7 月 29 日発行
+- 2025 年 12 月 22 日発行
+- 2 月 13 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-07T09:50:54+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg",
+    readTime: 3,
+  },
+  {
     id: "china-s-exports-growth-beats-estimates-i-5a6e7954",
     title: "China's exports growth beats estimates in July, as AI-driven shipments surge",
     titleJa: "AI主導の出荷が急増し、中国の輸出の伸びは7月の予想を上回る",
@@ -578,6 +900,38 @@ Shuttleworth is more optimistic, saying with a "ruthless focus" Argos can thrive
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b55/live/2f63f710-91b3-11f1-af4d-5164294a85c7.png",
     readTime: 2,
+  },
+  {
+    id: "gao-finds-elon-musk-s-doge-inflated-clai-35899bc5",
+    title: "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
+    titleJa: "イーロン・マスク氏のDOGEが連邦政府の貯蓄額1,100億ドルを水増し請求していたことをGAOが発見",
+    summaryJa: "イーロン・マスク氏のDOGEは、連邦支出を2兆ドル削減し、連邦職員をスリムかつ効率的にすると約束した。しかし、政府会計検査院が木曜日に発表した報告書によると、オンラインの「領収書の壁」で同社が主張していた1,100億ドルという少額のコスト削減さえも検証できなかったという。GAOは、連邦契約、補助金、リースなどの削減による「領収書の壁」を使って、DOGEがウェブサイト上で主張した1,100億ドルの節約額を評価した。 GAOは、「報告されたこれらの節約額の透明性と信頼性を制限する複数の問題」を発見したと述べた。契約、補助金、リース以外の追加カテゴリーも含めると、DOGEは2150億ドルの削減を計上したとGAOは発表した。",
+    bodyOriginal: `Elon Musk's DOGE promised to slash $2 trillion in federal spending and to make the federal workforce lean and efficient. But even the cost savings it has claimed in an online "Wall of Receipts" of the smaller amount of $110 billion didn't check out, according to a report the Government Accountability Office published Thursday.
+The GAO evaluated $110 billion of savings DOGE claimed on a website with its "Wall of Receipts" from cuts including federal contracts, grants and leases. The GAO said it found multiple "issues limiting the transparency and reliability of these reported savings." Including additional categories beyond contracts, grants, and leases, DOGE tallied $215 billion in cuts, the GAO said.
+The findings further undercut claims by Musk and President Donald Trump that they have made meaningful cuts in government spending and call into question the effects of the DOGE effort that slashed federal spending with little notice to agencies and slashed hundreds of thousands of government jobs.
+The GAO found that of the 13,476 contracts DOGE claimed it terminated, "no termination action" was taken on 2,503 of them. The report also noted DOGE had claimed $113 million in savings from cuts to 264 leases, but GAO found that information overstated the savings. The leases cut and referenced on DOGE's website "actually summed to $53.5 million" in savings, the report found. Of the 264 leases, about 108 were already in the termination process before DOGE was formed after Trump began his second term as president, the GAO report also said.
+The report was requested last year by Sens. Gary Peters (D-Mich.) and Richard Blumenthal (D-Conn.) who are, respectively, ranking members of the Senate Homeland Security and Governmental Affairs Committee, and of the panel's investigations subcommittee.
+The GAO is recommending that the DOGE website should prominently caution readers that the site has data-quality problems and other limitations and is therefore not a reliable source of information.
+In their review, the GAO said it checked DOGE's Wall of Receipts claims about cut contracts, grants, and leases from Jan. 20, 2025, when Trump took office, through July 7, 2026, three days after DOGE announced on social media it had wound down. The GAO said it compared DOGE reporting to official data from publicly available federal databases.
+The GAO said DOGE did not respond to the its requests for information and interviews.
+"Everyone supports rooting out waste, fraud, and abuse in the federal government, but DOGE was a slapdash and deceptive effort that misled the American people while doing real damage to the government's ability to serve them," Peters said in a statement.
+Musk and the White House did not immediately respond to a request for comment from CNBC on the GAO report.`,
+    bodyJa: `イーロン・マスク氏のDOGEは、連邦支出を2兆ドル削減し、連邦職員をスリムかつ効率的にすると約束した。しかし、政府会計検査院が木曜日に発表した報告書によると、オンラインの「領収書の壁」で同社が主張していた1,100億ドルという少額のコスト削減さえも検証できなかったという。
+GAOは、連邦契約、補助金、リースなどの削減による「領収書の壁」を使って、DOGEがウェブサイト上で主張した1,100億ドルの節約額を評価した。 GAOは、「報告されたこれらの節約額の透明性と信頼性を制限する複数の問題」を発見したと述べた。契約、補助金、リース以外の追加カテゴリーも含めると、DOGEは2150億ドルの削減を計上したとGAOは発表した。
+この調査結果は、政府支出を大幅に削減したというマスク氏とドナルド・トランプ大統領の主張をさらに裏付けるものであり、政府機関にほとんど通知せずに連邦支出を削減し、数十万人の政府雇用を削減したDOGEの取り組みの効果に疑問を投げかけている。
+GAOは、DOGEが終了したと主張した1万3476件の契約のうち、2503件については「終了措置が講じられなかった」ことを明らかにした。報告書はまた、DOGEが264件のリース契約の削減により1億1,300万ドルの節約を主張していたと指摘したが、GAOは情報がその節約額を誇張していたことを発見した。 DOGEのウェブサイトで言及されているリース契約の削減により、「実際には合計5,350万ドル」の節約になったと報告書は述べている。 GAOの報告書によると、264件の賃貸契約のうち、約108件はトランプ氏が大統領として2期目を始めた後にDOGEが設立される前にすでに終了手続きに入っていたという。
+この報告書は昨年、上院国土安全保障・政府問題委員会と同委員会の調査小委員会の幹部であるゲイリー・ピーターズ上院議員（民主党、ミシガン州）とリチャード・ブルメンソール上院議員（民主党、コネチカット州）によって昨年要請された。
+GAOは、DOGEのウェブサイトでは、このサイトにはデータ品質の問題やその他の制限があり、信頼できる情報源ではないことを読者に目立つように警告するよう勧告している。
+GAOは審査の中で、トランプ大統領が就任した2025年1月20日から、DOGEがソーシャルメディアで契約終了を発表した3日後の2026年7月7日まで、契約、補助金、リースの削減に関するDOGEの「領収書の壁」の主張を調査したと述べた。 GAOは、DOGEの報告を公的に入手可能な連邦データベースの公式データと比較したと述べた。
+GAO は、DOGE は情報提供や取材の要請に応じなかったと述べた。
+ピーターズ氏は声明で、「連邦政府における無駄遣い、詐欺、虐待を根絶することは誰もが支持しているが、DOGEは米国民を欺き、国民に奉仕する政府の能力に真の損害を与えた、ずさんで欺瞞的な取り組みだった」と述べた。
+マスク氏とホワイトハウスは、GAOの報道に関するCNBCからのコメント要請にすぐには応じなかった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
+    publishedAt: "2026-08-06T22:19:52+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 3,
   },
   {
     id: "airbnb-stock-soars-9-on-earnings-and-rev-ca8fe3d5",
@@ -1550,544 +1904,6 @@ JPモルガンのトップは、銀行が市況の変化に応じて担保要件
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 3,
-  },
-  {
-    id: "iran-says-deal-with-oman-on-strait-of-ho-955dda53",
-    title: "Iran says deal with Oman on Strait of Hormuz is in final stages",
-    titleJa: "イラン、ホルムズ海峡をめぐるオマーンとの合意は最終段階にあると発表",
-    summaryJa: "イラン、ホルムズ海峡をめぐるオマーンとの合意は最終段階にあると発表- 公開されました",
-    bodyOriginal: `Iran says deal with Oman on Strait of Hormuz is in final stages
-- Published
-Iran says it has reached an agreement with Oman on a route for shipping through the Strait of Hormuz.
-Foreign ministry spokesman Esmaeil Baqaei did not give any further details on the agreement, which he said was "in the final stages".
-Baqaei warned, however, that a deal with Oman would not guarantee safe navigation through the strait, arguing security remained impacted by the US blockade of Iran's ports. The US and Oman have not commented on the proposal.
-Since the US and Israel attacked Iran in February, Tehran has largely blocked the Strait of Hormuz through which about a fifth of the world's oil and liquefied natural gas usually passes.
-On Tuesday, US President Donald Trump warned that Iran would be "hit very hard" if the strait did not open "very soon".
-His comments came after senior US officials said talks had progressed to allow shipments to potentially resume later this week, though Iran has maintained that it is not negotiating with the US and has no plans to do so.
-Reopening the strait has been a key point in discussions between the two countries and mediators.
-In his statement, the Iranian foreign ministry spokesman said the "geographical coordinates of the route" had been agreed with Oman.
-"The factors making the Strait of Hormuz insecure still exist on the part of the United States, particularly the naval blockade and other aggressive and threatening actions against Iran and its interests," he said, according to Iran's official Irna news agency.
-Iran's Deputy Foreign Minister Kazem Gharibabadi later told Irna the new route would be temporary and could stay open from two to four months. He did not give further details.
-Oil prices edged lower on Thursday, with global benchmark Brent crude down by 0.3% at $79.24 (£58.84) in morning Asian trade.
-Energy prices have fluctuated wildly during the conflict as shipments through the key route for around 20% of the world's oil and liquefied natural gas (LNG) have been severely disrupted.
-Since the beginning of the war, traffic through the strait has dwindled. Iran has said all passage needs to be cleared beforehand - and it has attacked vessels which have ignored the order.
-One of the main points of disagreement between Tehran and Washington has been Iran's threat to impose a fee on vessels wishing to cross the strait.
-Iran is seeking fees of between 5% and 7% of the price of cargoes from ships using the strait, according to a senior Iranian official cited by Reuters. Oman is discussing fees of around 3%, while Washington wants no fees at all.
-The proposed deal would also give Tehran control over ships entering the Gulf through the Strait of Hormuz, Reuters reported.
-The BBC has contacted the White House for comment.
-In June, Iran and the US signed a Memorandum of Understanding (MoU), aiming to stop fighting, reopen the Strait of Hormuz, and reach agreement to end the war within 60 days.
-The deal quickly fell through, as did diplomatic talks, with tit-for-tat attacks resuming just days after the MoU was signed.
-The US has maintained a naval blockade of Iranian ports in the region, while another blockade is in place on Saudi Arabia's ports in the Red Sea, imposed by Yemen's Iran-backed Houthis since 20 July.
-The US and Israel launched wide-ranging strikes on Iran on 28 February, with Iran responding by attacking Israel and US-allied states in the Gulf, and effectively closing the Strait of Hormuz.
-Iran's then Supreme Leader, Ayatollah Ali Khamenei, was killed in that first attack, after which he was succeeded by his son Mojtaba Khamenei.
-The younger Khamenei was wounded in the same strikes that launched the war and has not appeared in public since.
-Iran's President Masoud Pezeshkian said on Wednesday that communication with Khamenei was very "difficult at the moment".
-"In any case, his presence is a very great source of strength for us so that we can continue," Pezeshkian said, according to state media.
-The younger Khamenei, who did not appear at his father's funeral ceremonies last month, has communicated through written statements but his low profile has led to speculation about his relations with other top officials.
-Pezeshkian insisted he had been able to hold productive meetings with him and been met with "kindness and very sound logic".
-"Unfortunately, the current situation allows some malicious people to describe him differently and to present a different image of him," he said.`,
-    bodyJa: `イラン、ホルムズ海峡をめぐるオマーンとの合意は最終段階にあると発表
-- 公開されました
-イランは、ホルムズ海峡を通る航路についてオマーンと合意に達したと発表した。
-外務省報道官エスマイル・バカエイ氏は、合意内容については「最終段階にある」とし、詳細については明らかにしなかった。
-しかしバクアイ氏は、米国によるイラン港湾封鎖によって安全保障が依然として影響を受けていると主張し、オマーンとの合意は海峡の安全な航行を保証するものではないと警告した。米国とオマーンはこの提案についてコメントしていない。
-米国とイスラエルが2月にイランを攻撃して以来、イラン政府は通常、世界の石油と液化天然ガスの約5分の1が通過するホルムズ海峡を大部分封鎖した。
-火曜日、ドナルド・トランプ米大統領は、海峡が「すぐに」開かなければイランは「非常に大きな打撃を受ける」だろうと警告した。
-同氏のコメントは、米国高官が、今週後半に輸送を再開できる可能性を目指して協議が進んでいると述べたことを受けてのものだが、イランは米国と交渉しておらず、交渉する予定もないと主張している。
-海峡の再開は両国と調停者との間の協議の重要なポイントとなっている。
-イラン外務省報道官は声明の中で、「ルートの地理的座標」はオマーンと合意されたと述べた。
-イラン国営イルナー通信によりますと、同氏は、「ホルムズ海峡を不安定にする要因は依然として米国側に存在しており、特に海上封鎖やイランとその権益に対するその他の攻撃的かつ脅威的な行動である」と述べた。
-イランのカゼム・ガリババディ外務次官はその後イルナーに対し、新ルートは一時的なものであり、開設期間は２～４カ月かかる可能性があると語った。詳細については明らかにしなかった。
-木曜日の原油価格は小幅に下落し、アジア午前の取引では世界のベンチマークであるブレント原油が0.3％安の79.24ドル（58.84ポンド）となった。
-世界の石油と液化天然ガス（LNG）の約20％の主要ルートを通じた輸送が大幅に中断され、紛争中にエネルギー価格が大きく変動した。
-戦争が始まって以来、海峡を通る交通は減少した。イランは、すべての航行は事前に撤去する必要があると述べ、命令を無視した船舶を攻撃した。
-イランと米国の間の主な意見の相違点の一つは、海峡横断を希望する船舶に料金を課すというイランの脅迫だった。
-ロイター通信が引用したイラン高官の話によると、イランは海峡を利用する船舶に対し貨物価格の５─７％の手数料を求めている。オマーンは約３％の手数料について議論しているが、ワシントンは手数料ゼロを望んでいる。
-ロイター通信によると、提案された協定では、ホルムズ海峡を通って湾岸に入る船舶に対するイランの管理も認められることになる。
-BBCはホワイトハウスにコメントを求めた。
-イランと米国は６月、戦闘を停止しホルムズ海峡を再開し、６０日以内に戦争を終わらせる合意に達することを目指す覚書（ＭｏＵ）に署名した。
-この合意は外交交渉と同様にすぐに決裂し、覚書締結からわずか数日後にしっぺ返し攻撃が再開された。
-米国は同地域のイラン港の海上封鎖を維持しているが、7月20日以来、イエメンのイランが支援するフーシ派によって、紅海にあるサウジアラビアの港でも封鎖が実施されている。
-米国とイスラエルは2月28日にイランに対する広範な攻撃を開始し、イランは湾岸のイスラエルと米国の同盟国を攻撃し、ホルムズ海峡を事実上封鎖することで応じた。
-当時のイラン最高指導者アヤトラ・アリ・ハメネイ師は最初の攻撃で殺害され、その後息子のモジタバ・ハメネイ師が後継者となった。
-若きハメネイ師は戦争開始と同じ空爆で負傷し、それ以来公の場に姿を現していない。
-イランのマスード・ペゼシキアン大統領は水曜日、ハメネイ師との意思疎通は「現時点では非常に困難」であると述べた。
-国営メディアによると、ペゼシキアン氏は「いずれにしても、彼の存在はわれわれにとって非常に大きな力の源であり、われわれが継続していくことができる」と語った。
-先月の父親の葬儀には姿を現さなかった若きハメネイ師は書面で意思疎通を図ってきたが、彼の知名度の低さから他の政府高官との関係について憶測が広がっている。
-ペゼシキアン氏は、彼と生産的な会談を行うことができ、「親切で非常に健全な論理」で対応してもらったと主張した。
-「残念なことに、現在の状況では、一部の悪意のある人々が彼を別の言い方をし、別のイメージを与えることを許してしまっている」と彼は述べた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-06T01:19:59+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b45d/live/e272ff40-9104-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 5,
-  },
-  {
-    id: "inside-india-newsletter-what-s-behind-in-c579bb72",
-    title: "Inside India newsletter: What's behind India’s rush to sell shares in state-owned firms",
-    titleJa: "Inside India ニュースレター: インドが国有企業の株式売却を急ぐ背後にあるもの",
-    summaryJa: "こんにちは、シンガポールからメッセージを書いているプリヤンカ・サルベです。「インサイド・インディア」の最新版へようこそ。世界で最も急速に成長している大経済国のストーリーや展開をワンストップでご覧いただけます。",
-    bodyOriginal: `Hello, this is Priyanka Salve, writing to you from Singapore.
-Welcome to the latest edition of "Inside India" — your one-stop destination for stories and developments from the world's fastest-growing large economy.
-The Indian government has been rushing to sell stakes in state-owned companies this year. So far, it has pared its stake in 10 public sector companies, raising more than 620 billion rupees ($6.5 billion) this year. This week, I unpack what's driving India to meet its often-missed disinvestment target.
-Any thoughts on today's newsletter? Share them with the team.
-The big story
-It can be difficult to be the world's fastest-growing large economy when inflationary pressures and fiscal constraints threaten to put the brakes on government spending.
-But India cannot afford to lose its growth edge as it competes for the attention of global investors who have already put the country on the back burner as they focus on artificial intelligence-driven plays — something the South Asian country's growth story has been missing.
-So, to keep its growth engine running amid a widening fiscal deficit, the country is ramping up stake sales in state-owned companies, with the government offloading shares in 10 firms since the start of the year, despite dull market conditions.
-The government has sold shares in several companies including Cochin Shipyard, Indian Railways Finance Corp, NHPC, and Coal India this year and, on Wednesday, it completed one of its biggest stake sale.
-It raked in $3.3 billion by selling a 6.5% stake in the country's top life insurer, Life Insurance Corporation of India. The share sale was priced at a 10% discount to attract buyers — unsurprisingly, it was oversubscribed.
-While the government does have an obligation to reduce its stake in these businesses to comply with listing regulations, there has been a sudden and sharp rise in transactions this year.
-The last time the Indian government met its disinvestment goal — target for stake sales in state-owned firms — was in the financial year ending March 2019.
-The disinvestment rush
-Excluding LIC, India has sold stakes in 9 state-owned firms in 2026 and raised nearly 270 billion rupees ($2.8 billion), its highest in more than 10 years, according to Indian market intelligence provider Prime Database.
-And LIC alone surpasses that number by a good margin, signaling the state's increasing proclivity toward raising funds without widening the fiscal deficit.
-The government is well on its way to achieving its annual target of raising 800 billion rupees ($8.4 billion) through stake sales in state-owned enterprises, experts said, adding that these funds will be crucial for India as it faces deepening macroeconomic headwinds. The country has now met over 65% of its annual disinvestment target.
-"Tapping into the divestment proceeds is a very good strategy," Anubhuti Sahay, head of India economic research at Standard Chartered Bank, told CNBC, adding that the government is facing a downside revenue risk and an upside expenditure risk due to a higher subsidy burden.
-India did not meet its disinvestment targets for years as it was in a "comfortable fiscal situation," she said, adding that right now the stake sale is akin to tapping into "family silver" in times of need.
-For the quarter ending June, the country's goods and services trade deficit was $37.4 billion. Its fiscal deficit at the end of June was 3.1 trillion rupees, or 18.2% of the budget estimate for the financial year ending March 2027.
-While this is not unusual for India, the country has also seen strong capital outflows from foreign investors, which limits its ability to cover the rising import expenses. The capital outflows have led to currency weakness and tighter domestic financial conditions, experts said.
-The acceleration of government stake sales reflects "greater fiscal pressure," Alexandra Hermann Prasad, lead economist at Oxford Economics, told CNBC, adding that these funds will "provide useful non-debt revenue as strong expenditure growth makes the deficit target harder to achieve."
-Non-debt revenue is the income earned by a government that does not have future repayment liabilities.
-Global brokerage Citi, in a report on Monday, called it a "favorable" trend, adding that during the quarter ended June, India's fuel, food and fertilizer subsidies had increased 37% on year but the South Asian country has not scaled back its capex spending.
-Higher-than-expected proceeds from disinvestment are likely to ease the fiscal pressures arising from GST rationalization in September 2025, as well as costs associated with the policy response to the Middle East shock, Christian de Guzman, SVP, Sovereign Risk Group at Moody's Ratings, told CNBC.
-Need to know
-An exam leak in India exposed a Gen Z jobs crisis that goes much deeper
-India's youth unemployment crisis has become one of the biggest vulnerabilities for Prime Minister Narendra Modi's government, exposing the gap between the country's economic ambitions and the reality facing millions of young graduates.
-J.P. Morgan expects India IPO activity to pick up in the second half of 2026
-India's IPO market is entering a stronger second half of 2026, supported by improving market conditions, lower volatility and a more stable macroeconomic backdrop, J.P. Morgan's Abhinav Bharti told CNBC's Inside India on Tuesday.
-Coming up
-Aug. 10: IPO of Bain Capital-backed Dhoot Transmission opens.
-Aug. 12: CPI Inflation data for July.`,
-    bodyJa: `こんにちは、シンガポールからメッセージを書いているプリヤンカ・サルベです。
-「インサイド・インディア」の最新版へようこそ。世界で最も急速に成長している大経済国のストーリーや展開をワンストップでご覧いただけます。
-インド政府は今年、国有企業株の売却を急いでいる。これまでのところ公共部門企業10社への出資を削減し、今年は6200億ルピー（65億ドル）以上を調達した。今週は、インドがしばしば達成できない投資削減目標を達成する原動力となっているものを解き明かします。
-今日のニュースレターについて何かご意見はありますか?それらをチームと共有します。
-大きな話
-インフレ圧力と財政制約により政府支出にブレーキがかかる恐れがある場合、世界で最も急成長する大経済国になることは困難になる可能性があります。
-しかし、インドは、人工知能主導の事業に注力するあまりインドを後回しにしてきた世界的な投資家の注目を集めるために競争しているため、その成長の優位性を失うわけにはいかない――この南アジアの国の成長物語には欠けているものがある。
-そのため、財政赤字が拡大する中で成長エンジンを動かし続けるため、同国は国有企業の株式売却を強化しており、市場環境が低迷しているにもかかわらず、年初から政府が10社の株式を売却している。
-政府は今年、コーチン造船所、インド鉄道金融公社、NHPC、コール・インディアなど複数の企業の株式を売却しており、水曜日には最大規模の株式売却の一つを完了した。
-同国のトップ生命保険会社であるインド生命保険公社の株式6.5％を売却し、33億ドルを集めた。株式売却は買い手を引き付けるために 10% 割引の価格で行われましたが、当然のことながら、申し込みが殺到しました。
-政府には上場規制を遵守するためにこれらの企業への出資比率を減らす義務があるが、今年になって取引が突然急増した。
-インド政府が最後に投資撤退目標（国有企業の株式売却目標）を達成したのは2019年3月終了の会計年度だった。
-投資撤退ラッシュ
-インド市場情報プロバイダーのプライム・データベースによると、LICを除くインドは2026年に国有企業9社の株式を売却し、過去10年以上で最高となる約2700億ルピー（28億ドル）を調達した。
-そしてLICだけでもこの数字を大きく上回っており、財政赤字を拡大させずに資金調達をするという州の傾向が高まっていることを示している。
-専門家らは、政府は国有企業の株式売却を通じて8000億ルピー（84億ドル）を調達するという年間目標の達成に向けて順調に進んでいると述べ、マクロ経済の逆風が深刻化するインドにとってこれらの資金は極めて重要であると付け加えた。同国は現在、年間投資削減目標の65％以上を達成している。
-スタンダードチャータード銀行のインド経済調査責任者、アヌブティ・サハイ氏はＣＮＢＣに対し、「ダイベストメントの収益を活用することは非常に良い戦略だ」と述べ、政府は補助金負担の増加による歳入の下振れリスクと支出の上振れリスクに直面していると付け加えた。
-同氏は、インドは「快適な財政状況」にあったため、何年も投資削減目標を達成できなかったと述べ、現時点での株式売却は、必要なときに「家族の銀」を利用するようなものだと付け加えた。
-６月までの四半期の同国の物品・サービス貿易赤字は３７４億ドルだった。 ６月末時点の財政赤字は３兆１０００億ルピーで、２０２７年３月終了会計年度の予算見込みの１８．２％に相当した。
-インドにとってこれは珍しいことではないが、同国では海外投資家からの資本流出も激しく、輸入費用の上昇をカバーする能力が制限されている。専門家らは、資本流出が通貨安と国内金融情勢の逼迫を招いていると指摘した。
-オックスフォード・エコノミクスの首席エコノミスト、アレクサンドラ・ヘルマン・プラサド氏は、政府株売却の加速は「財政圧力の増大」を反映しているとCNBCに語り、これらの基金は「支出の大幅な伸びで財政赤字目標の達成が困難になる中、債務以外の有用な収入をもたらす」と付け加えた。
-非債務収入とは、将来の返済義務がない政府が得る収入です。
-世界的な証券会社シティは月曜のリポートでこれを「好ましい」傾向と呼び、6月までの四半期中、インドの燃料、食料、肥料補助金は前年比37％増加したが、南アジアの国は設備投資を削減していないと付け加えた。
-ムーディーズ・レーティングスのソブリン・リスク・グループSVP、クリスチャン・デ・グスマン氏はCNBCに対し、投資回収による収益が予想を上回れば、2025年9月のGST合理化から生じる財政圧力や、中東ショックへの政策対応に関連するコストが緩和される可能性が高いと語った。
-知っておく必要がある
-インドでの試験漏洩により、Z世代の雇用危機がさらに深刻化していることが明らかになった
-インドの若者の失業危機はナレンドラ・モディ首相の政府にとって最大の脆弱性の一つとなっており、国の経済的野心と何百万もの若い卒業生が直面している現実とのギャップを浮き彫りにしている。
-JPモルガン、インドのIPO活動は2026年下半期に活発化すると予想
-JPモルガンのアビナブ・バルティ氏は火曜日、CNBCのインサイド・インディアに対し、市場環境の改善、ボラティリティの低下、より安定したマクロ経済背景に支えられ、インドのIPO市場はより好調な2026年下半期を迎えると語った。
-もうすぐ
-8月10日: Bain Capitalが支援するDhoot TransmissionのIPOが開始される。
-8月12日: 7月のCPIインフレデータ。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/india-lic-shares-economy-disinvestment-.html",
-    publishedAt: "2026-08-06T00:11:08+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "what-s-causing-record-high-us-beef-price-bf5d41df",
-    title: "What's causing record high US beef prices?",
-    titleJa: "米国産牛肉の価格が記録的に高くなる原因は何でしょうか？",
-    summaryJa: "米国産牛肉の価格が記録的に高くなる原因は何でしょうか？- 公開されました",
-    bodyOriginal: `What's causing record high US beef prices?
-- Published
-With US beef prices soaring to record highs, you might think that South Dakota cattle rancher Eric Gropper would be celebrating.
-Yet while the cost of the meat in US supermarkets is now 12% higher, external than it was a year ago, a rise more than three times the rate of general inflation, Gropper says that he and all the other beef farmers aren't making any more profit than usual.
-The BBC World Service's Follow the Money series spent a week tracing the American beef supply chain to find out what has caused the price jump and discover where all the cash is going.
-The rancher
-Eric Gropper has about 350 breeding cows on around 8,000 acres of grassland in south-west South Dakota. Most of it he leases from the Pine Ridge Indian Reservation.
-He is seven miles from the nearest paved road, and two and a half hours' drive from the closest town of any size.
-Gropper doesn't set the price for his calves. Instead once a year he takes them to a livestock auction where buyers place bids and the hammer decides.
-Right now the bids are the highest he has ever seen - around $2,500 (£1,883) for a 600lb (272kg) calf, up from $2,000 two years ago.
-These record prices are driven by a simple fact – there are not enough cattle. Due to a combination of drought in many states, and disease pressure, at the start of this year the US had fewer cattle than at any point since 1951., external
-Gropper is experiencing drought first hand, as the 13 natural wells across his land that provide ground water for his cattle have run dry. He has to use a water tanker instead.
-Due to the national shortage of cattle, Gropper is getting record prices for his. But unfortunately his costs have equally climbed to new highs.
-A new pick-up truck that once cost $40,000 now runs to $100,000. A wooden fence post has gone from about $6 to as much as $19. A quarter-mile roll of barbed wire has doubled, from $60 to $130. Everything he uses day to day, he says, has jumped in price since the Covid pandemic.
-And with little grass on parched fields – well over 60% of US cattle are now grazing on drought-hit land - farms like his are having to buy in hay, silage and other fodder for their cattle.
-"I'm able to pay my bills, but my input costs are so drastically high that if we didn't have these record prices we'd all be broke. I sit down to do my taxes, and it feels like I made a lot of money. But in the end I really didn't make any more."
-The feedlot
-Gropper's calves don't go straight to slaughter. At around six-months-old they are bought by companies that run feedlots – large yards where the animals are fattened on corn and other grains for the final three to six months of their lives.
-The biggest yards hold well over 100,000 cattle at a time. Around 95% of US cattle are finished this way.
-Brenda Boetel, professor of agricultural economics at the University of Wisconsin–River Falls, watches this part of the chain closely.
-She says that while the feedlot companies are currently selling cattle at record prices, they are having to buy them at all-time highs in the first place. So they are not making bigger profits.
-The meatpacker
-A meatpacker is the plant that slaughters the animal and breaks the carcass down into the cuts that reach shops or restaurants.
-Four companies - Tyson, JBS, Cargill and National Beef - control around 85% of American beef processing.
-That high level of market concentration has drawn accusations of price-fixing, even from President Trump.
-So you might expect that those four firms are currently making huge profits from high beef prices. Yet the opposite is happening.
-Tyson, the biggest of the four, reported in May that it had lost more than $500m, external on beef in the first half of its financial year.
-Again, it might be selling its beef for record highs, but it is also buying the cattle at all-time peaks.
-Jamie Crumley owns one of the remaining smaller meatpackers - Harpley's Meatpacking in central North Carolina. She says the price companies like hers have to pay for the live animals has gone up by as much as 60% over the past three years.
-And while meatpacking companies have increased the prices they charge for their beef, there is a limit. This is because supermarkets, restaurants – and US consumers – can, and will, simply switch to buying chicken or cheaper imported beef instead.
-Then there is the inefficiency of running the meatpacking plants at much less than full capacity. For example, Harpley's is built to handle 425 to 450 cattle a day. But it is currently running at just 350 because it cannot get the additional animals.
-The building, the line and the staff cost the same either way, so those fixed costs now spread across fewer animals. On any given day Crumley says she can lose anywhere from $100 to $400 on a single head of cattle. This helps to explain Tyson's giant losses.
-The restaurant
-At the end of one beef supply chain is Paul and Jessica Urban, who own Block 16, a burger restaurant in Omaha, Nebraska. They go through about 300lb (136kg) of ground beef a week, making 2,800 burgers a month.
-When Block 16 opened back in 2010, a burger cost $8.95. Today it's $11.95, but profits are limited due to the much higher price of mince.
-"To maximise our profit, maybe we'd have to charge $13 for a burger," says Paul. "Well, we don't feel comfortable doing that. I wouldn't want to walk in here and have to pay $13 for a cheeseburger.
-"So we don't make the profit that we'd like — but you're still getting people through the door, and it's not always about the money."
-So where did the money go?
-The rancher is selling calves for record sums, but is not better off because he has higher costs. The feedlot company is selling for all-time high prices, but it also has to pay them in the first place.
-Then the packers are losing money because there is a limit to what they can charge. Restaurants and supermarkets also can only increase prices by so much.
-Everyone is turning over more money than they used to, but not keeping any of the extra. It's a situation that won't change until significantly more US cattle come to market.
-Yet as Eric Gropper puts it, you can't conjure a cow overnight. Instead a heifer, a young female cow, needs two years before she is able to produce a calf. And that calf needs another year to reach slaughter weight, so the extra beef takes three years to arrive.`,
-    bodyJa: `米国産牛肉の価格が記録的に高くなる原因は何でしょうか？
-- 公開されました
-米国産牛肉の価格が記録的な高値まで高騰しているため、サウスダコタ州の牧場経営者エリック・グロッパー氏も祝っているのではないかと思うかもしれない。
-しかし、米国のスーパーマーケットでの肉の価格は現在、外部では1年前に比べて12％上昇しており、一般的なインフレ率の3倍以上の上昇であるにもかかわらず、グロッパー氏と他のすべての肉農家は通常よりも利益を上げているわけではないと言う。
-BBC ワールド サービスのフォロー ザ マネー シリーズは、価格高騰の原因を突き止め、すべての現金がどこに流れているのかを明らかにするために、1 週間かけてアメリカ産牛肉のサプライチェーンを追跡しました。
-牧場主
-エリック・グロッパーさんは、サウスダコタ州南西部の約8,000エーカーの草原で約350頭の繁殖牛を飼っている。彼はその大部分をパインリッジ・インディアン居留地から借りている。
-彼は最寄りの舗装道路からは 11 マイル離れており、規模を問わず最も近い町からは車で 2 時間半かかります。
-グロッパー氏は自分の子牛の値段を決めません。その代わりに、年に一度、家畜オークションに家畜を連れて行き、そこで買い手が入札し、ハンマーが決定する。
-現在の入札価格は、彼がこれまで見た中で最高額となっており、600ポンド（272kg）の子牛に約2,500ドル（1,883ポンド）と、2年前の2,000ドルから値上がりしている。
-これらの記録的な価格は、牛の数が足りないという単純な事実によって引き起こされています。多くの州での干ばつと病気の圧力が重なったため、今年初めの米国の牛の頭数は、1951 年以降のどの時点よりも減少しました。
-グロッパーさんは、牛に地下水を供給する土地全体の 13 か所の天然井戸が枯渇し、干ばつを直接経験しています。代わりに給水車を使わなければなりません。
-全国的な牛不足のため、グロッパーの牛には記録的な価格が付けられている。しかし残念なことに、彼の費用も同様に新たな高値に上昇しました。
-かつては4万ドルだった新しいピックアップトラックの価格は、今では10万ドルになっています。木製フェンスの支柱は約6ドルから最大19ドルまで値上がりした。有刺鉄線の1/4マイルロールは60ドルから130ドルへと倍増した。新型コロナウイルスのパンデミック以降、日常的に使うものはすべて価格が高騰したと彼は言う。
-そして、乾いた野原にはほとんど草が生えておらず、米国の牛の60％を優に超える現在、干ばつに見舞われた土地で放牧されているため、彼のような農場は牛のために干し草、サイレージ、その他の飼料を購入しなければならない。
-「私は請求書を支払うことができますが、投入コストが非常に高額なので、この記録的な価格がなかったら、私たちは皆一文無しになっていたでしょう。私は座って納税をしており、たくさんのお金を稼いだように感じます。しかし、結局はそれ以上は稼げませんでした。」
-肥育場
-グロッパーの子牛は、すぐに屠殺されるわけではありません。生後約6か月のときに、動物は飼養場（動物が人生の最後の3〜6か月間トウモロコシやその他の穀物で肥育される大きな庭）を運営する会社に購入されます。
-最大のヤードには一度に 10 万頭以上の牛が飼育されています。米国の牛の約 95% がこの方法で仕上げられています。
-ウィスコンシン大学リバーフォールズ校の農業経済学教授ブレンダ・ボーテル氏は、この連鎖のこの部分を注意深く観察している。
-彼女は、肥育場会社は現在記録的な価格で牛を販売しているが、そもそも牛を史上最高値で買わなければならないと言う。したがって、彼らは大きな利益を上げていません。
-肉詰め業者
-ミートパッカーは、動物を屠殺し、その死骸を店やレストランに届けるための切り口に分解する工場です。
-タイソン、JBS、カーギル、ナショナル・ビーフの 4 社が、米国産牛肉加工の約 85% を管理しています。
-この高いレベルの市場集中は、トランプ大統領からも価格操作の非難を招いています。
-したがって、これら 4 社は現在、牛肉価格の高騰によって莫大な利益を得ていると予想されるかもしれません。しかし、その逆のことが起こっています。
-4社のうち最大手のタイソンは5月、会計年度上半期に牛肉関連で外部損失が5億ドル以上あったと報告した。
-繰り返しになりますが、同社は牛肉を過去最高値で販売しているかもしれませんが、同時に牛を史上最高値で購入しているのです。
-ジェイミー・クラムリーは、ノースカロライナ州中央部に残る小規模な食肉包装業者の​​ 1 つ、ハープリーズ・ミートパッキングを所有しています。彼女のような会社が生きた動物に対して支払わなければならない価格は、過去 3 年間で 60% も上昇したと彼女は言います。
-食肉包装会社は牛肉の価格を値上げしているが、限界がある。なぜなら、スーパーマーケット、レストラン、そして米国の消費者は、代わりに鶏肉やより安価な輸入牛肉の購入に簡単に切り替えることができるし、今後もそうするからです。
-さらに、食肉包装工場をフル稼働よりもはるかに少ない稼働率で稼働させるという非効率性もあります。たとえば、Harpley's は 1 日に 425 ～ 450 頭の牛を処理できるように作られています。しかし、追加の動物を入手できないため、現在はわずか 350 頭で実行されています。
-どちらの方法でも、建物、ライン、スタッフにかかる費用は同じなので、これらの固定費がより少ない動物に分散されるようになりました。クラムリーさんは、どの日でも牛 1 頭で 100 ドルから 400 ドルの損失を被る可能性があると述べています。これはタイソンの巨大な損失を説明するのに役立ちます。
-レストラン
-牛肉のサプライチェーンの末端に位置するのは、ネブラスカ州オマハのハンバーガーレストラン、ブロック16を所有するポールとジェシカのアーバン夫妻だ。彼らは週に約 300 ポンド (136 kg) の牛ひき肉を使い、月に 2,800 個のハンバーガーを作ります。
-2010 年にブロック 16 がオープンしたとき、ハンバーガーの価格は 8.95 ドルでした。現在の価格は 11.95 ドルですが、ミンチの価格がはるかに高いため、利益は限られています。
-「利益を最大化するには、ハンバーガー 1 個に 13 ドルを請求する必要があるかもしれません」と Paul 氏は言います。 「そうですね、そんなことをするのは気が進みません。チーズバーガーに 13 ドルも支払わなければならないのに、ここに入りたくないです。
-「そのため、私たちは望むような利益を上げていません。しかし、それでも人々をドアから招き入れています。それは必ずしもお金のためではありません。」
-それで、お金はどこに消えたのでしょうか？
-牧場主は子牛を記録的な金額で販売しているが、コストが高いため、より良いとは言えない。フィードロット会社は史上最高価格で販売しているが、そもそもその代金を支払わなければならない。
-そうなると、請求できる金額には制限があるため、梱包業者は損失を被ることになります。レストランやスーパーマーケットも大幅な値上げしかできない。
-誰もが以前よりも多くのお金を回すようになりましたが、余分なものはまったく手元に残していません。この状況は、大幅に多くの米国牛が市場に出回るまで変わらないだろう。
-しかし、エリック・グロッパーが言うように、一夜にして牛を生み出すことはできません。その代わり、未経産牛、つまり若い雌牛が子牛を産むことができるようになるまでに 2 年かかります。そして、その子牛が屠殺体重に達するまでにさらに1年かかるため、追加の牛肉が到着するまでに3年かかります。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cdrv0k0j662o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-05T23:23:05+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56e1/live/48c00f90-8c1e-11f1-94b2-05bc97107049.jpg",
-    readTime: 8,
-  },
-  {
-    id: "shorts-strappy-tops-and-sandals-can-my-b-79892747",
-    title: "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-    titleJa: "ショートパンツ、ストラップ付きトップス、サンダル: 夏に何を着るべきか上司に教えてもらえますか?",
-    summaryJa: "ショートパンツ、ストラップ付きトップス、サンダル: 夏に何を着るべきか上司に教えてもらえますか?- 公開されました",
-    bodyOriginal: `Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?
-- Published
-Yet another summer heatwave could be on the way to make your commute sweaty and your workplace stuffy.
-What to wear to work in the summer can be a surprisingly difficult decision. Shorts, strappy tops and sandals may keep you cool - but will they be judged too casual, revealing or unprofessional?
-There's a bare-legged backlash in Tokyo where officials encouraged men to swap suits for shorts at work, prompting complaints about hairy legs in the office.
-So what is acceptable to wear to work, how can you successfully style your summer wardrobe and can your boss tell you what you can and can't wear?
-Shorts
-Conor, who works in media, has regularly worn shorts to the office during the recent hot weather. "Who gives a monkey's what you wear?" he says.
-"If you're able to do your job safely, professionally and appropriately, there's a lot to be said for letting people be comfortable."
-And many seem to agree - a recent poll by market research firm Ipsos found 62% of adults thought it was acceptable for men to wear shorts to work in hot weather, while 63% said the same for women.
-But we aren't talking short-shorts or denim hot pants fashion designer Amanda Wakeley points out: "If you're asking yourself whether they're too short, they probably are".
-She says shorts are "the trickiest item to get right in a professional environment" and recommends tailored, longer shorts paired with a crisp shirt or lightweight blazer for both men and women.
-Stylist Clare Chambers agrees shorts should sit around the kneecap for both men and women. For men, she recommends tailored chino-style shorts with an untucked T-shirt or shirt.
-Sandals
-Wakeley describes flip-flops as one of the few definite "no" items in most offices. "They instantly signal leisure rather than professionalism and can make even the most polished outfit feel underdressed," she says.
-Chambers agrees, and says even during the hottest weather, woven flats are a better option because they are breathable while still covering the foot.
-Almost two-thirds of people questioned by Ipsos said they were unacceptable for men in the workplace, while 58% said the same for women.
-Sandals, however, are a slightly different matter as Wakeley says refined leather sandals can be entirely acceptable in many offices, provided they are clean and well maintained.
-The difference, she says, is whether they look like part of a considered outfit or something that would normally be worn around a swimming pool.
-She adds that while socks and sandals have become a viral fashion trend "it's important to consider whether a trend aligns with the image you want to communicate professionally".
-"This combination can read as highly casual and youthful, which may unintentionally detract from giving you a credible and authoritative presence."
-Strappy tops
-Some 40% of adults considered tank tops or vest tops acceptable for women at work, compared with only 24% who said the same for men, according to Ipsos.
-Natasia, a teacher in London, says at a previous school she and other staff had been summoned "regularly in the summer months to tell us off about our outfits."
-She says she was also told to cover up her tattoos. "It should be OK to have your arms out at work especially when it's hot," she says.
-Wakeley says a well-cut camisole or strappy top can work when worn beneath a linen overshirt, lightweight jacket or tailored co-ord. On its own, however, it may feel too informal.
-Chambers says if you're wearing a strappy top "you must wear a strapless bra as it utterly kills an outfit when you can see bra straps".
-She explains that thicker straps are a safer option where the dress code is unclear and recommends satin camisoles as a more polished alternative to basic cotton vests.
-She adds that while bandeau tops are "such an on-trend look this summer, they are a no-go for work".
-"The constant need to keep fiddling to pull them up displays an uncomfortable and unconfident demeanour," she says.
-How to style summer clothes at work
-Wakeley and Chambers both say that you don't need to lose your personal style when dressing for the office and you can still inject plenty of personality while following a dress code. Here are their top tips on how to style summer clothes for the office.
-Can your employer tell you what to wear?
-Climate change is expected to bring more severe, frequent and longer-lasting heatwaves in UK summers in the coming years.
-Employers are allowed to set standards around clothing and appearance, particularly where there are legitimate reasons such as safety, branding or maintaining a professional image.
-But employment lawyer Sarah Tahamtani says dress codes should be "reasonable, proportionate and capable of justification".
-"During extreme heat, employers should consider whether existing requirements remain practical and whether greater flexibility can be introduced."
-They must also consider employees with disabilities, medical conditions or other vulnerabilities that may be worsened by high temperatures.
-An employee who believes a request is unreasonable or inconsistently applied should first raise the issue with a manager or HR and explain how the rule is affecting their comfort or ability to work safely.`,
-    bodyJa: `ショートパンツ、ストラップ付きトップス、サンダル: 夏に何を着るべきか上司に教えてもらえますか?
-- 公開されました
-さらに夏の熱波が到来し、通勤で汗ばみ、職場が蒸れる可能性があります。
-夏に何を着て仕事に行くかは、驚くほど難しい決断です。ショートパンツ、ストラップ付きのトップス、サンダルは涼しさを保つかもしれませんが、カジュアルすぎる、露出が多い、またはプロフェッショナルではないと判断されるでしょうか?
-東京では、当局が男性に職場でスーツをショートパンツに交換するよう奨励し、オフィスでの毛むくじゃらの脚に対する苦情を引き起こしたことに対して、東京で裸足に対する反発が起きている。
-では、何を着て仕事に行くのが許容されるのでしょうか。どうすれば夏のワードローブをうまくスタイリングできますか。また、上司は何を着てよいのか、何を着てはいけないのか教えてくれるでしょうか?
-ショーツ
-メディア関係で働くコナーさんは、最近の暑い季節には定期的にショートパンツを履いてオフィスに通っている。 「誰があなたの着ているものを猿にあげるのですか？」彼は言い​​ます。
-「仕事を安全に、専門的に、適切に行うことができれば、人々を快適にさせるために言うべきことはたくさんあります。」
-市場調査会社イプソスによる最近の世論調査では、成人の 62% が、男性が暑い日にショートパンツを履いて仕事をするのは容認できると考えており、女性も 63% が同様であると考えていることがわかりました。
-しかし、私たちはショートパンツやデニムのホットパンツのことを話しているのではありません。ファッションデザイナーのアマンダ・ウェイクリー氏は、「短すぎるかどうか自問するなら、おそらく短すぎるでしょう」と指摘します。
-彼女は、ショートパンツは「プロの環境で正しく着こなすのが最も難しいアイテム」だと言い、男女ともに、テーラードの丈の長いショートパンツと、シャリシャリとしたシャツや軽量のブレザーとの組み合わせを推奨している。
-スタイリストのクレア・チェンバース氏は、男性も女性もショーツは膝蓋骨のあたりに位置するべきであることに同意しています。男性の場合は、タックを入れていない T シャツやシャツと合わせたテーラード チノ スタイルのショートパンツをおすすめします。
-サンダル
-ウェイクリー氏は、ビーチサンダルは、ほとんどのオフィスで数少ない明確な「禁止」アイテムの 1 つであると説明します。 「プロフェッショナリズムではなく、レジャーであることを即座に示し、最も洗練された服装でも着飾っていないように感じさせます」と彼女は言います。
-チェンバース氏もこれに同意し、たとえ最も暑い天候であっても、足をカバーしながら通気性があるため、ウーブンフラットシューズの方が良い選択肢であると述べています。
-イプソスが質問した人のほぼ3分の2は、男性は職場で受け入れられないと回答し、58％は女性についても同様と回答した。
-しかし、サンダルとなると少し話が異なり、ウェイクリー氏によれば、洗練されたレザーのサンダルは、清潔で手入れが行き届いていれば、多くのオフィスで全く問題なく受け入れられるという。
-違いは、それが考えられた衣装の一部のように見えるか、それとも通常プールの周りで着られる何かのように見えるかどうかである、と彼女は言います。
-彼女は、靴下とサンダルが急速なファッショントレンドになっている一方で、「そのトレンドが専門的に伝えたいイメージと一致するかどうかを考慮することが重要です」と付け加えました。
-「この組み合わせは非常にカジュアルで若々しいと思われる可能性があり、信頼できる権威ある存在感を意図せず損なう可能性があります。」
-ストラップトップス
-イプソスによると、成人の約40％が職場の女性にタンクトップやベストトップを着用してもよいと考えているのに対し、男性でも同じだと答えたのはわずか24％だった。
-ロンドンで教師をしているナターシアさんは、以前の学校で彼女と他のスタッフが「夏になると定期的に呼び出されて、服装について教えてもらっていた」と話す。
-彼女はタトゥーを隠すように言われたとも言う。 「特に暑いときは、仕事中に腕を伸ばしても大丈夫です」と彼女は言います。
-ウェイクリー氏によると、カットの良いキャミソールやストラップ付きのトップスは、リネンのオーバーシャ​​ツや薄手のジャケット、テーラードコーデの下に着ると効果的だという。ただし、それだけではカジュアルすぎると感じるかもしれません。
-チェンバース氏は、ストラップ付きのトップを着ている場合は、「ブラジャーのストラップが見えると服装が完全に台無しになるため、ストラップレスのブラジャーを着用する必要があります」と述べています。
-彼女は、ドレスコードが明確でない場合には、より太いストラップの方が安全な選択肢であると説明し、基本的な綿のベストのより洗練された代替品としてサテンのキャミソールを推奨しています。
-彼女は、バンドゥトップは「この夏とてもトレンドのルックだが、仕事には使えない」とも付け加えた。
-「引き上げるために常にいじり続ける必要があるため、不快で自信のない態度が表れます」と彼女は言います。
-職場での夏服のスタイリング方法
-ウェイクリー氏とチェンバース氏は、オフィスでの服装の際に自分のスタイルを失う必要はなく、ドレスコードを守りながらも個性をたっぷり取り入れることができると述べています。ここでは、オフィス向けの夏服のスタイリング方法についてのヒントをご紹介します。
-雇用主は何を着るべきか教えてくれますか?
-気候変動により、今後数年間で英国の夏には、より深刻で頻繁かつ長期にわたる熱波が発生すると予想されています。
-雇用主は、特に安全性、ブランディング、プロとしてのイメージの維持などの正当な理由がある場合、服装や外見に関する基準を設定することが認められています。
-しかし、雇用弁護士のサラ・タハムタニ氏は、服装規定は「合理的で、相応で、正当化できるもの」であるべきだと述べている。
-「猛暑の中、雇用主は既存の要件が現実的であり続けるかどうか、より大きな柔軟性を導入できるかどうかを検討する必要がある。」
-また、障害、病状、または高温によって悪化する可能性のあるその他の脆弱性を抱えた従業員についても考慮する必要があります。
-要求が不合理である、または適用に一貫性がないと考える従業員は、まずマネージャーまたは人事部に問題を提起し、その規則が従業員の快適さや安全に働く能力にどのような影響を与えているかを説明する必要があります。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-05T23:22:17+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3041/live/a08095f0-90e8-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 7,
-  },
-  {
-    id: "sandisk-s-stock-falls-as-the-company-s-f-2010d1ab",
-    title: "Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations",
-    titleJa: "会社の予想が高い期待に応えられず、サンディスクの株価が下落",
-    summaryJa: "同社の収益予測の中間点は、アナリストがモデル化していたものを下回っていた。",
-    bodyOriginal: `The midpoint of the company’s revenue forecast was below what analysts had been modeling.`,
-    bodyJa: `同社の収益予測の中間点は、アナリストがモデル化していたものを下回っていた。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/sandisks-stock-falls-as-the-companys-forecast-doesnt-live-up-to-high-expectations-8fd13d9b?mod=mw_rss_topstories",
-    publishedAt: "2026-08-05T22:25:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-57413903",
-    readTime: 2,
-  },
-  {
-    id: "block-slashed-40-of-its-workforce-for-ai-6321934f",
-    title: "Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off",
-    titleJa: "Block は AI のために従業員の 40% を削減しました - そしてその収益は、その成果が現れていることを示唆しています",
-    summaryJa: "予想を上回る同社の収益報告を受けて、ある幹部は「高品質の製品をずっと、ずっと早く出荷できるようになった」と語った。",
-    bodyOriginal: `“We can ship higher-quality products much, much more quickly,” an executive said in the wake of the company’s better-than-expected earnings report`,
-    bodyJa: `予想を上回る同社の収益報告を受けて、ある幹部は「高品質の製品をずっと、ずっと早く出荷できるようになった」と語った。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/block-slashed-40-of-its-workforce-for-ai-and-earnings-suggest-thats-paying-off-852b7c54?mod=mw_rss_topstories",
-    publishedAt: "2026-08-05T22:19:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-60833731",
-    readTime: 2,
-  },
-  {
-    id: "infantino-sorry-for-errors-but-stays-fif-048fe76a",
-    title: "Infantino sorry for errors but stays Fifa president",
-    titleJa: "インファンティーノ、間違いは申し訳ないがFIFA会長に留まる",
-    summaryJa: "インファンティーノ、間違いは申し訳ないがFIFA会長に留まる- 公開されました",
-    bodyOriginal: `Infantino sorry for errors but stays Fifa president
-- Published
-Gianni Infantino has apologised for "errors" he made in controversial plans to sell off stakes in competitions to private investors, but will remain Fifa president after receiving the backing of senior executives in a meeting in Morocco.
-Infantino summoned members of the management board to Fifa's Africa office in Rabat on Wednesday following mounting criticism of his aborted proposals, with world football's governing body releasing a statement of support four hours after the meeting ended.
-European football's governing body Uefa said at the weekend that it has lost confidence in Infantino, calling the Fifa Forward Enterprise (FFE) proposal a "shabby, back room, opaque deal".
-Much criticism has come from within Fifa, including secretary general Mattias Grafstrom, who was at Wednesday's meeting. In an internal memo sent to Fifa staff on Tuesday, he wrote that the situation is "a sad and reproachable series of events".
-However, in a statement following the meeting, Grafstrom and the managament board "reaffirmed their full support" for Infantino as president.
-Infantino and Grafstrom also sent a signed letter - seen by the BBC - to Fifa's vice-presidents, council and 211 member associations saying they "sincerely apologise" for their errors and "commit to them not happening again".
-The two were pictured attending a Women's Africa Cup of Nations match together in Rabat after the meeting.
-Infantino had offered all associations $40m (£30m) if they backed a proposal for private investment in its tournaments, including the men's and women's World Cups, through a new subsidiary, FFE.
-Fifa said that during Wednesday's meeting "mistakes" regarding FFE were "acknowledged", saying it was "not the intention" for the Fifa council and members association to "feel excluded from the process and that the process should have been handled differently".
-The governing body added it "acknowledged that errors were also made after the proposal was leaked to media" - with the Times breaking the story of Infantino's plan on 28 July.
-However, the statement also said the organisation "will no longer tolerate any attacks on its integrity, good governance and due process and will take all necessary measures to protect and safeguard its name and reputation".
-Earlier, Fifa denied a story in the Times that Infantino had promised Morocco it will host the 2030 World Cup final in exchange for its support.
-Fifa said it was a "false and misleading" claim and that a decision on where to hold the final, with the tournament also hosted by Spain and Portugal, will be made "in due course".
-Infantino calls executive meeting as criticism mounts
-- Published1 day ago
-Infantino opponents threaten 'non co-operation' with Fifa
-- Published2 days ago
-Internal support after more criticism
-Infantino will hope that this begins to draw a line under the latest, and perhaps biggest, controversy that has beset his 10-year tenure.
-However, this show of support from Fifa executives followed yet more stinging criticism of the Swiss.
-Canadian Prime Minister Mark Carney, whose country hosted the recent World Cup with the United States and Mexico, said he no longer had confidence in Infantino.
-Former Barcelona, Real Madrid and Portugal winger Luis Figo, who ran for the Fifa presidency against Infantino's predecessor Sepp Blatter in 2015 before withdrawing, called on him to immediately resign.
-Figo said: "Infantino has debased the office that he promised to elevate.
-"It is too late to save his dignity but it is not too late to save football."
-But Infantino, 56, looks set to fight for re-election for a fourth term.
-Rivals have until 18 November to put their names forward to stand against him, with the election to be held at the Fifa Congress in Morocco in March 2027.
-A candidate requires 106 votes from Fifa's 211 members to win.
-Uefa, however, may well have other ideas.
-At the weekend, European football's governing body said it had lost confidence in Infantino's leadership and threatened legal action against Fifa.
-Earlier this week several member associations - including Wales, with England set to follow suit - withdrew support for his re-election.
-Fifa also said that although "mistakes were made, everything that was done was done in full compliance with the Fifa regulatory framework". It added it felt the outcomes of the meeting will "strengthen Fifa's governance" and "restore confidence in the organisation".
-It is unlikely that such statements and the approval of a group of executives will dampen Uefa's anger.
-How could Uefa react?
-Uefa has been quick to react to every twist and turn ever since Infantino's FFE plan emerged.
-From the initial rejection of FFE, to the seismic moment when all 55 member associations threatened to boycott Fifa's competitions, through to the effective vote of no confidence.
-But Uefa has a problem, and it is not an insignificant hurdle to overcome.
-Since Infantino performed his U-turn, only Concacaf as a confederation has criticised the Fifa president. But, unlike Uefa, it did not go as far as to say it had lost confidence in him.
-While the Asian confederation did reject the plan, there has been no blanket statement since Infantino aborted it.
-Uefa has a great deal of power, but it cannot realistically overthrow Infantino on its own. It needs more global support.
-Outside of Europe, so far only Jordan - one of a handful of the 211 member associations not to have signed a letter of support for Infantino's re-election before this controversy - have publicly called for him to go.
-The list of countries who have underscored their support is much longer - admittedly from within Infantino's firm power base in Asia and Africa.
-In recent days Egypt, Morocco, Niger, Mauritania, DR Congo and the Philippines have all backed Infantino.
-Such countries have benefited from funding via Infantino's Fifa Forward programme, the forerunner to FFE, to the tune of $8m (£5.94m) in each three-year cycle.
-Uefa has to find a way to persuade such countries that another presidential candidate can offer the same financial programmes, but with greater transparency and reform.
-Infantino, however, already has their loyalty.
-How can Infantino turn things around?
-All the other recent controversies could not touch Infantino - from the way Saudi Arabia won the hosting rights to the 2034 World Cup, to US President Donald Trump's Fifa Peace Prize, to Folarin Balogun's escape from suspension at the World Cup.
-This time, an attempt to sell off a slice of the commercial and ticketing rights of Fifa's competitions was a step too far for many.
-Not simply because of the optics of such a move, but also that it was kept secret from other senior members of the Fifa hierarchy and that the beneficiary of the deal would have been Joshua Kushner - the brother of Jared Kushner, Trump's son-in-law.
-So Infantino had bridges to build with those closest to him, not just with the 211 national associations.
-Carlos Cordeiro, Infantino's senior adviser on global strategy and governance, quit over the plan.
-Others who were critical opted not to tender their resignations, such as Grafstrom, chief of global football development Arsene Wenger and chief operating officer Kevin Lamour.
-It is likely there will be others within the corridors of power at Fifa who kept their counsel.
-On top of this, Infantino may also have to map out - or could offer - a route for reform.
-This may involve putting additional checks and balances in place that would make it impossible for such a plan to be devised and presented in this way again.
-Perhaps he could shelve his plans for a 64-team World Cup? Or offer to open up Fifa's cash reserves?
-Related topics
-- Published7 hours ago
-- Published8 June`,
-    bodyJa: `インファンティーノ、間違いは申し訳ないがFIFA会長に留まる
-- 公開されました
-ジャンニ・インファンティーノ氏は、競技会の株式を個人投資家に売却するという物議を醸した計画で犯した「誤り」について謝罪したが、モロッコでの会議で上級幹部らの支持を得た後はFIFA会長に留任する。
-インファンティーノ氏は、中止された提案への批判の高まりを受けて水曜日、経営委員会のメンバーをラバトのFIFAアフリカ事務所に召喚し、世界サッカー統括団体は会議終了の4時間後に支持声明を発表した。
-欧州サッカー統括団体のUEFAは週末、FIFAフォワードエンタープライズ（FFE）の提案を「粗末で密室で不透明な取引」と呼び、インファンティーノ監督の信頼を失ったと発表した。
-水曜日の会議に出席したマティアス・グラフストロム事務総長を含め、FIFA内部からも多くの批判が上がっている。同氏は火曜日にFIFAスタッフに送った内部メモの中で、今回の状況は「悲しくて非難すべき一連の出来事」だと記した。
-しかし、会議後の声明でグラフストロム氏と経営委員会は、インファンティーノ氏を会長として「全面的に支持することを再確認した」と述べた。
-インファンティーノ氏とグラフストロム氏はまた、FIFAの副会長、評議会、211の加盟協会に署名入りの書簡を送り、自らの誤りを「心から謝罪」し、「二度と同じことが起こらないよう約束する」と述べた。
-会談後、二人はラバトで行われた女子アフリカネイションズカップの試合を一緒に観戦しているところを写真に撮られた。
-インファンティーノ氏は、新子会社FFEを通じて男女ワールドカップを含む同大会への民間投資の提案を支持する場合、全協会に対し4000万ドル（3000万ポンド）を提供すると提案していた。
-FIFAは水曜日の会議でFFEに関する「間違い」が「認められた」と述べ、FIFA評議会と加盟協会が「プロセスから排除されていると感じ、プロセスは別の方法で処理されるべきだった」と感じるのは「意図したものではない」と述べた。
-管理団体は、タイムズ紙が7月28日にインファンティーノ氏の計画の記事を報道し、「提案がメディアにリークされた後にも誤りがあったことを認めた」と付け加えた。
-しかし声明では、同団体が「その誠実さ、優れた統治、適正手続きに対するいかなる攻撃ももはや容認せず、その名前と評判を守り守るために必要なあらゆる措置を講じる」とも述べた。
-これに先立ち、FIFAはインファンティーノ氏が支援と引き換えに2030年ワールドカップ決勝の開催地をモロッコに約束したとするタイムズ紙の記事を否定した。
-FIFAは、この主張は「虚偽で誤解を招く」ものであり、スペインとポルトガルも主催する決勝戦の開催地については「やがて」決定されると述べた。
-批判が高まる中、インファンティーノ監督が幹部会議を招集
-- 1 日前に公開
-インファンティーノ反対派、FIFAと「非協力」を脅す
-- 2 日前に公開
-さらなる批判を受けた後の内部支持
-インファンティーノ氏は、これが彼の任期10年間を悩ませてきた最新、そしておそらく最大の論争に一線を画し始めることを期待しているだろう。
-しかし、FIFA幹部によるこの支持表明は、スイスに対するさらに痛烈な批判に続いた。
-最近のワールドカップで米国、メキシコとともに開催されたカナダのマーク・カーニー首相は、インファンティーノ氏にはもはや信頼を置いていないと語った。
-2015年にインファンティーノ氏の前任者ゼップ・ブラッター氏とのFIFA会長選に立候補し、辞退した元バルセロナ、レアル・マドリード、ポルトガル代表ウィンガーのルイス・フィーゴ氏は、インファンティーノ氏に即時辞任するよう求めた。
-フィーゴ氏は「インファンティーノ氏は昇格すると約束していた職位を貶めた。
-「彼の尊厳を守るには遅すぎるが、サッカーを救うには遅すぎることはない。」
-しかし、56歳のインファンティーノ氏は4期目の再選を目指して戦うことになりそうだ。
-ライバルたちは11月18日までに彼に対抗する名乗りを上げなければならず、選挙は2027年3月にモロッコで開催されるFIFA総会で行われる予定だ。
-候補者が当選するには、FIFA会員211人から106票が必要となる。
-しかし、UEFAには別の考えがあるかもしれない。
-欧州サッカー統括団体は週末、インファンティーノ氏の指導力に対する信頼を失ったと発表し、ＦＩＦＡに対して訴訟を起こすと脅した。
-今週初め、ウェールズを含むいくつかの加盟団体が同氏の再選への支持を撤回し、イングランドもこれに追随する予定だ。
-FIFAはまた、「ミスはあったものの、行われたことはすべてFIFAの規制枠組みに完全に従って行われた」と述べた。さらに、会議の成果は「FIFAのガバナンスを強化」し、「組織への信頼を回復」すると感じていると付け加えた。
-このような発言や幹部らの承認がUEFAの怒りを静める可能性は低い。
-ウエファはどう反応するでしょうか？
-インファンティーノ氏のFFE計画が浮上して以来、UEFAはあらゆる紆余曲折に迅速に対応してきた。
-最初のFFEの拒否から、55の加盟協会すべてがFIFAの大会をボイコットすると脅した激震の瞬間、そして事実上の不信任投票に至るまで。
-しかし、UEFA には問題があり、それは克服すべき小さなハードルではありません。
-インファンティーノ氏がＵターンして以来、連盟としてＦＩＦＡ会長を批判したのはコンカフ氏だけとなった。しかし、UEFAとは異なり、信頼を失ったとまでは言えなかった。
-アジア連盟はこの計画を拒否したが、インファンティーノ監督が計画を中止して以来、包括的な声明は出ていない。
-UEFAは大きな力を持っているが、現実的に単独でインファンティーノを倒すことはできない。もっと世界的なサポートが必要です。
-ヨーロッパ以外では、これまでのところ、ヨルダンだけが、この論争の前にインファンティーノの再選を支持する書簡に署名していない211の加盟団体のうちの一つであるが、公に同氏の辞任を求めている。
-彼らの支持を強調した国のリストは、明らかに、アジアとアフリカにおけるインファンティーノの強固な権力基盤の中からのものであり、はるかに長い。
-ここ数日、エジプト、モロッコ、ニジェール、モーリタニア、コンゴ民主共和国、フィリピンがすべてインファンティーノを支持している。
-そうした国々は、FFEの前身であるインファンティーノのFIFAフォワードプログラムを通じた資金提供の恩恵を受けており、3年サイクルごとに800万ドル（594万ポンド）に上る。
-ＵＥＦＡは、こうした国々に対し、別の大統領候補が同じ財政プログラムをより透明性と改革を提供できるよう説得する方法を見つけなければならない。
-しかし、インファンティーノにはすでに彼らの忠誠心があります。
-インファンティーノはどうすれば状況を好転させることができるでしょうか？
-サウジアラビアが2034年ワールドカップの開催権を獲得した経緯から、ドナルド・トランプ米大統領のFIFA平和賞受賞、ワールドカップでのフォラリン・バログンの出場停止からの脱出まで、その他の最近の論争はすべてインファンティーノに触れることはできなかった。
-今回、FIFAの大会の商業権とチケット販売権の一部を売却するという試みは、多くの人にとって行き過ぎた措置だった。
-その理由は単にそのような動きの見た目のためだけではなく、それがFIFA幹部の他の幹部には秘密にされていたこと、そしてこの取引の受益者はトランプ氏の義理の息子ジャレッド・クシュナー氏の弟であるジョシュア・クシュナー氏だったことも理由である。
-そのため、インファンティーノには 211 の国内協会だけでなく、彼に最も近い人々との間に橋を築く必要がありました。
-インファンティーノの世界戦略とガバナンス担当シニアアドバイザー、カルロス・コルデイロ氏はこの計画を理由に辞任した。
-世界サッカー開発責任者のグラフストロム氏やアーセン・ベンゲル氏、最高執行責任者のケビン・ラムール氏など、批判的な人々は辞表を提出しないことを選択した。
-おそらく、FIFAの権力内部には、彼らの助言を守った人物が他にもいるだろう。
-これに加えて、インファンティーノ氏は改革への道筋を描く必要があるか、あるいは提示する可能性もある。
-これには、そのような計画が再びこのように考案され提示されることを不可能にする追加の抑制と均衡の導入が含まれる場合があります。
-おそらく彼は、64チームによるワールドカップの計画を棚上げすることができるだろうか？それともFIFAの資金を開放することを提案しますか？
-関連トピック
-- 7 時間前に公開
-- 6 月 8 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-05T21:37:08+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
-    readTime: 9,
-  },
-  {
-    id: "trump-s-liberation-day-tariff-refunds-hi-0bcab0dc",
-    title: "Trump's 'Liberation Day' tariff refunds hit $100bn",
-    titleJa: "トランプ大統領の「解放記念日」関税還付額は1000億ドルに達する",
-    summaryJa: "トランプ大統領の「解放記念日」関税還付額は1000億ドルに達する- 公開されました",
-    bodyOriginal: `Trump's 'Liberation Day' tariff refunds hit $100bn
-- Published
-Donald Trump's administration has paid back $100bn (£78bn) in "Liberation Day" tariff refunds to businesses through US customs officials.
-This represents roughly 60% of all tariff revenue collected by the government under the policy, according to a recent court filing, external from US Customs and Border Protection.
-However, a significant chunk of money remains unpaid. Nearly $29bn in potential refunds is undergoing review by trade authorities, while another $1.6bn remains stuck because importers have not yet supplied their banking details.
-The repayments follow a major Supreme Court decision in February, in which judges ruled that broad import tariffs introduced under economic powers were unlawful.
-The White House had cited a 1977 law, the International Emergency Economic Powers Act (IEEPA), which gives the president power to "regulate" trade in response to an emergency.
-But the measures sparked outcry at home and abroad from firms facing an abrupt rise in taxes on shipments entering the US, and fuelled worries that the levies would lead to higher prices.
-Since the Supreme Court decision, several major American corporations have already claimed large sums back.
-Amazon received approximately $600m in refunds during the second quarter, according to finance chief Brian Olsavsky.
-Olsavsky said on the company's second quarter earnings call that Amazon would pass some money back to customers where specific charges were applied, and the remaining funds would be used to support lower store prices.
-The overall tariffs payout is expected to rise further as US Customs continue to review pending claims and importers update their banking details.
-Related topics
-- Published21 February
-- Published1 day ago`,
-    bodyJa: `トランプ大統領の「解放記念日」関税還付額は1000億ドルに達する
-- 公開されました
-ドナルド・トランプ政権は、「解放記念日」の関税還付金1,000億ドル（780億ポンド）を米国税関当局を通じて企業に返済した。
-米国税関国境警備局以外の最近の裁判所提出書類によると、これはこの政策に基づいて政府が徴収した全関税収入の約60％に相当する。
-しかし、かなりの金額が未払いのままです。還付の可能性のある290億ドル近くが通商当局による審査を受けている一方、輸入業者が銀行口座の詳細をまだ提供していないため、さらに16億ドルが滞ったままとなっている。
-この返済は、経済権力のもとで導入された広範な輸入関税は違法であるとの判事らの判決を下した2月の重要な最高裁判所判決に続くものである。
-ホワイトハウスは、緊急事態に対応して大統領に貿易を「規制」する権限を与える国際緊急経済権限法（IEEPA）という1977年の法律を引用していた。
-しかしこの措置は、米国に入国する貨物に対する税金の突然の引き上げに直面している企業から国内外で反発を引き起こし、課税が価格上昇につながるのではないかとの懸念を煽った。
-最高裁判所の判決以来、いくつかのアメリカの大手企業はすでに多額の返還を請求している。
-財務責任者のブライアン・オルサブスキー氏によると、アマゾンは第２・四半期に約６億ドルの返金を受けた。
-オルサブスキー氏は同社の第2四半期決算会見で、アマゾンは特定の料金が適用された顧客に一部の資金を還元し、残りの資金は店舗価格の引き下げをサポートするために使用すると述べた。
-米国税関が保留中の請求の審査を続け、輸入業者が銀行取引の詳細を更新するため、関税支払い全体はさらに増加すると予想されます。
-関連トピック
-- 2 月 21 日発行
-- 1 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyewn5wexvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-05T19:39:48+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15b1/live/c8099ce0-90f0-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 2,
   },
 ];
 
