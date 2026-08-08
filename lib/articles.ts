@@ -15,6 +15,276 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "spain-imposes-border-controls-against-it-fc75e66e",
+    title: "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+    titleJa: "セウタの移民流入をめぐる争い激化、スペインがイタリアに対して国境管理を課す",
+    summaryJa: "セウタの移民流入をめぐる争い激化、スペインがイタリアに対して国境管理を課す- 公開されました",
+    bodyOriginal: `Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies
+- Published
+Spain has imposed border controls on all air and sea travel from Italy as a row between the two EU countries intensifies.
+The measures - which started at midnight (22:00 GMT) and will last for a month - come a week after Italy introduced similar restrictions following an influx of about 78,000 migrants from Morocco into the Spanish exclave of Ceuta.
+On Friday, Spain demanded Italy reverse its checks by Sunday. Rome said they would stay until at least 15 August - when, it said, Spain "expects a new wave of migration" to hit Ceuta.
+The crisis has pitted Spain's socialist leader Pedro Sanchez against Italy's conservative leader Giorgia Meloni - who has long called for stricter EU migration rules.
+Italy does not share a land border with Spain. Its government said last week that decision to temporarily suspend the border-free Schengen arrangement was to prevent any of the migrants who had entered Ceuta from travelling on to Italy.
+Madrid dismissed this position, saying it was based on "spurious arguments" that lacked any basis in fact because the migrants who entered Ceuta had no way of entering the Schengen area.
+In its response to the Spanish threat earlier on Friday, Italy's government said it would not accept "ultimatums". It added that it did not intend "under any circumstances to reconsider the decision to suspend the application of the Schengen Agreement for third-country nationals arriving from Spain, at least until August 15th and in any case until security and terrorist risks for Italy have been completely eliminated".
+Italian officials have said local authorities carrying out checks do "everything possible" to ensure maximum comfort for both Spanish and other European citizens arriving in Italy from Spain.
+Rome has also reiterated that Spanish citizens are exempt from additional checks when arriving in Italy, with these extra steps only for non-EU residents.
+However, El Pais reported that several airport terminals have seen long queues and waiting times in recent days, with passengers arriving from Spain directed to a specific line for checks.
+The counter-measures Madrid decided to impose on Friday would include passport, nationality and visa checks for Italian passengers and visitors from other countries arriving from Italy "amid the persistent irregular migratory pressure" the country was experiencing, a statement from Spain's government said.
+Checks would stay in place until 7 September "unless a change in the circumstances that led to its adoption warrants modifying that period".
+Temporary suspensions of the Schengen agreement are not unprecedented. Italy also maintains controls on its border with Slovenia.
+Italy's decision to suspend Schengen for a month was backed by Finland and Denmark, while the Czech Republic called for Spain's membership to be temporarily suspended.
+Most of the migrants who arrived in Ceuta last week were returned within days.
+Nearly 1,400 minors, some of them "very young boys and girls", still remain there.
+Spain has not announced an anticipated second wave of crossings from Morocco. Reports have been fuelled by social media activity by Moroccan users planning another attempt, El Pais reports.
+The Spanish prime minister's office told the newspaper they were monitoring the situation but did not expect a repeat of scenes from last week.
+It remains unclear exactly why tens of thousands of migrants attempted to cross into Ceuta, but the EU's Migration Commissioner Magnus Brunner has suggested criminal networks spreading disinformation were to blame - an assertion the Spanish government has agreed with.
+The crossings came after Spain's Supreme Court ruled that migrants stopped at sea while trying to reach Ceuta or Melilla cannot be summarily returned to Morocco.
+Morocco, for its part, has laid blame for the crisis on the court, with an unnamed government source briefing local outlets that "the deterrent element of the system collapsed and the dam gave way, not under the weight of the criminals, but of a judge's decision".
+The number of people swimming to Ceuta at once has raised questions about why Morocco's border guards did not attempt to stop them.
+The two exclaves have long been a bone of diplomatic contention between Spain and Morocco, which does not recognise Spanish sovereignty over them.
+- Published4 days ago`,
+    bodyJa: `セウタの移民流入をめぐる争い激化、スペインがイタリアに対して国境管理を課す
+- 公開されました
+EU加盟国間の対立が激化する中、スペインはイタリアからのすべての空路と海路の渡航に国境管理を課した。
+この措置は深夜（グリニッジ標準時22時）に始まり、1カ月続く予定で、モロッコからスペインの飛び地セウタへの約7万8000人の移民流入を受けてイタリアが同様の制限を導入してから1週間後に行われた。
+スペインは金曜日、イタリアに対し日曜日までに小切手を取り消すよう要求した。ローマは少なくとも8月15日までは滞在すると述べ、スペインはその時点で「新たな移民の波がセウタを襲うと予想している」とした。
+この危機により、スペインの社会主義者指導者ペドロ・サンチェス氏と、EUの移民規制の厳格化を長年求めてきたイタリアの保守主義者指導者ジョルジア・メローニ氏が対立した。
+イタリアはスペインと陸の国境を共有していません。同政府は先週、国境のないシェンゲン協定を一時停止する決定は、セウタに入国した移民のイタリアへの渡航を阻止するためだと述べた。
+マドリードは、セウタに入国した移民にはシェンゲン圏内に入る方法がないため、事実に何の根拠もない「偽りの議論」に基づいているとして、この見解を却下した。
+イタリア政府は金曜日初め、スペインの脅威への対応として「最後通牒」は受け入れないと述べた。さらに、「いかなる状況においても、スペインから到着する第三国国民に対するシェンゲン協定の適用を少なくとも8月15日まで、そしていかなる場合でもイタリアの安全とテロリスクが完全に排除されるまで一時停止する決定を再考するつもりはない」と付け加えた。
+イタリア当局者らは、検査を行っている地方当局はスペイン人およびスペインからイタリアに到着する他の欧州国民の双方に最大限の快適さを確保するために「可能な限りのあらゆる措置を講じている」と述べた。
+ローマはまた、スペイン国民はイタリア到着時の追加検査を免除され、これらの追加検査は非EU居住者にのみ適用されると繰り返した。
+しかし、エル・パイス紙は、ここ数日、いくつかの空港ターミナルで長い列と待ち時間が発生しており、スペインから到着した乗客は検査のため特定の列に誘導されていると報じた。
+スペイン政府の声明によると、マドリードが金曜日に課すことを決定した対抗措置には、同国が経験している「不規則な移民圧力が続く中」イタリア人乗客とイタリアから到着する他国からの訪問者に対するパスポート、国籍、ビザの確認が含まれるという。
+小切手は「その採用に至った状況の変化によりその期間が変更されない限り」9月7日まで継続される。
+シェンゲン協定の一時停止は前例のないことではない。イタリアはスロベニアとの国境でも統制を維持している。
+シェンゲン協定を1カ月停止するというイタリアの決定をフィンランドとデンマークが支持する一方、チェコ共和国はスペインの加盟を一時的に停止するよう求めた。
+先週セウタに到着した移民のほとんどは数日以内に帰国した。
+1,400人近くの未成年者が今もそこに残っており、その中には「非常に若い少年少女」も含まれている。
+スペインは予想されるモロッコからの入国者の第二波を発表していない。エル・パイス紙の報道によると、別の試みを計画しているモロッコ人ユーザーによるソーシャルメディア活動によって報道が加速したという。
+スペイン首相府は同紙に対し、状況を監視しているが、先週のような場面が繰り返されるとは予想していないと語った。
+数万人の移民がセウタへの入国を試みた正確な理由は依然として不明だが、EUの移民委員長マグヌス・ブルナー氏は、偽情報を広める犯罪ネットワークが原因であると示唆しており、スペイン政府もこの主張に同意している。
+この横断は、スペイン最高裁判所が、セウタまたはメリリャに到達しようとして海上で停止した移民を即時にモロッコに送還することはできないとの判決を下した後に行われた。
+一方、モロッコはこの危機の責任を裁判所に負わせており、匿名の政府関係者は地元メディアに対し「犯罪者の重みではなく、裁判官の判断のせいでシステムの抑止要素が崩壊し、ダムが決壊した」と説明した。
+一度にセウタへ泳ぐ人々の数は、なぜモロッコの国境警備隊が彼らを止めようとしなかったのかという疑問を引き起こしている。
+この2つの飛び地は長い間、スペインとモロッコの間の外交上の争いの種となってきたが、モロッコはそれらに対するスペインの主権を認めていない。
+- Published4 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-07T22:13:55+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be73/live/f8fae290-9024-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 5,
+  },
+  {
+    id: "trump-is-trying-to-fire-lisa-cook-again-68567427",
+    title: "Trump is trying to fire Lisa Cook again. He still wants to stack the Fed with his allies.",
+    titleJa: "トランプ大統領は再びリサ・クックを解任しようとしている。同氏は依然としてFRBを同盟国と連携させたいと考えている。",
+    summaryJa: "最高裁判所による阻止から2か月後、ドナルド・トランプ大統領は、中央銀行理事会をより多くの同盟国と強化する取り組みの一環として、連邦準備制度理事会のリサ・クック総裁を追放する取り組みを再開した。",
+    bodyOriginal: `Two months after he was blocked by the Supreme Court, President Donald Trump has resumed his effort to oust Federal Reserve governor Lisa Cook as part of an effort to stack the central bank’s board with more allies.`,
+    bodyJa: `最高裁判所による阻止から2か月後、ドナルド・トランプ大統領は、中央銀行理事会をより多くの同盟国と強化する取り組みの一環として、連邦準備制度理事会のリサ・クック総裁を追放する取り組みを再開した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/trump-is-trying-to-fire-lisa-cook-again-he-still-wants-to-stack-the-fed-with-allies-e6f40aa5?mod=mw_rss_topstories",
+    publishedAt: "2026-08-07T22:05:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-69754649",
+    readTime: 2,
+  },
+  {
+    id: "the-smart-way-to-invest-in-gold-right-no-21036c12",
+    title: "The smart way to invest in gold right now as the dollar slips",
+    titleJa: "ドル安の今、金に投資する賢い方法",
+    summaryJa: "また、週末の読書: ケビン・オリアリーの投資戦略、株式市場リスクの低下と組み合わされた9%の配当、およびマネタリストからのアドバイス。",
+    bodyOriginal: `Also in Weekend Reads: Kevin O’Leary’s investing strategy, a 9% dividend paired with lower stock-market risk and advice from the Moneyist.`,
+    bodyJa: `また、週末の読書: ケビン・オリアリーの投資戦略、株式市場リスクの低下と組み合わされた9%の配当、およびマネタリストからのアドバイス。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-smart-way-to-invest-in-gold-right-now-as-the-dollar-slips-22fdf3b2?mod=mw_rss_topstories",
+    publishedAt: "2026-08-07T21:58:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-53372054",
+    readTime: 2,
+  },
+  {
+    id: "thai-pm-vows-to-introduce-stricter-gun-l-15273bab",
+    title: "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+    titleJa: "タイ首相、銃撃で8人死亡を受け、より厳格な銃規制の導入を誓う",
+    summaryJa: "タイ首相、銃撃で8人死亡を受け、より厳格な銃規制の導入を誓う- 公開されました",
+    bodyOriginal: `Thai PM vows to introduce stricter gun laws after eight killed in shooting
+- Published
+Thailand's prime minister has vowed to introduce new gun control laws in the wake of a shooting by a teenager on the outskirts of Bangkok that left eight people dead and 22 injured.
+The 14-year-old killed his grandparents at the home they shared, before travelling to Debsirin School in Nonthaburi, where he was a student. There, he killed five teachers before taking his own life. Later, Thai media reported that a student had also died from their injuries.
+Speaking after the attack, Prime Minister Anutin Charnvirakul said he plans to introduce laws that restrict the carrying of firearms in public, with the new legislation only allowing government officials on duty to carry guns.
+I was standing in front of my teacher when she was shot, Thai pupil says
+- Published11 hours ago
+Police Colonel Thadsakorn Konthong said that the gun and bullets used in the attack belonged to the teen's grandfather, with an initial inspection finding signs that the firearm had been searched for inside the grandfather's bedroom.
+International and local media have reported that the gun was legally registered and had a permit.
+Thailand has one of the highest rates of civilian gun ownership in South East Asia, with around 10.3 million firearms in civilian possession, around four million of which are believed to be owned illegally.
+The country has strict gun laws, which punish the illegal possession of arms with up to 10 years in jail, but enforcement of these laws has been an issue.
+During his time as interior minister, Anutin introduced a number of gun control laws, including a short-term ban on new gun licenses and import restrictions.
+Speaking on Friday, the prime minister said the tragedy "shouldn't have happened".
+"I don't just feel sorry for the victims but I feel sorry that this happened. How can this happen in our country," Anutin added.
+The teenager is believed to have shot his 73-year-old grandfather and 74-year-old grandmother at their two-storey flat at around 05:00 local time on Friday (22:00 GMT on Thursday).
+Each was killed by a single shot to the head, a Thai police official said.
+After killing his grandparents, the teenager boarded a school bus carrying the firearm and dozens of bullets, Reuters news agency reported.
+He then attended his first class at 08:30 and his second at 09:20.
+Around half an hour into his second class of the day, he drew the gun and began shooting.
+The teenager is believed to have first shot teachers on the school's sixth floor, killing three of them.
+"He then walked down the stairs and encountered the school's deputy director and the director's secretary, who were going up the stairs to check on the situation," Police Major General Dejrapee Kongdee told Reuters.
+"The attacker shot and killed both of them on the staircase."
+Police were deployed to the scene while the shooting was ongoing. They found the attacker, who by then had shot himself, around 10:40, Dejrapee said.
+Five people were immediately killed and at least 23 were wounded. Later, Thailand's public broadcaster and the Bangkok Post reported that an eighth victim had died.
+National police chief Gen Kittiratt Phanphet told reporters that forensic officers had found the attacker's shots were quite accurate, with several hitting vital spots on the body.
+The prime minister said the attack was "well prepared" with "clear steps and clear goals".
+According to local media, police have searched devices belonging to the teenager and found several videos relating to school shootings in the US.
+The teenager has been described as quiet and well behaved by family members in local media.
+His uncle told Thai media the teen spent much of his time indoors playing violent video games and rarely went outside. He added there was no indication the teenager was planning the attack.
+The attacker had lived with his grandparents, as his parents were divorced.
+The Debsirin School, founded in Bangkok in 1885, is one of Thailand's top secondary schools with branches across the country. It counts many prominent Thai figures among its alumni, from diplomats and athletes to several prime ministers.`,
+    bodyJa: `タイ首相、銃撃で8人死亡を受け、より厳格な銃規制の導入を誓う
+- 公開されました
+タイの首相は、バンコク郊外で８人が死亡、２２人が負傷した十代の少年による銃撃事件を受け、新たな銃規制法の導入を明言した。
+14歳の少年は、学生だったノンタブリーのデブシリン学校に行く前に、同居していた家で祖父母を殺害した。そこで彼は5人の教師を殺害し、自ら命を絶った。その後、タイのメディアは、学生も負傷がもとで死亡したと報じた。
+襲撃後の講演で、アヌティン・チャーンヴィラクル首相は、公の場での銃器の携行を制限する法律を導入する予定であり、新法では公務中の政府職員のみが銃器の携行を許可されると述べた。
+タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた
+- 11 時間前に公開
+タダサコーン・コントーン警察大佐は、襲撃に使用された銃と弾丸は少年の祖父のもので、最初の検査で祖父の寝室内で銃器が捜索された形跡が見つかったと述べた。
+国際メディアや地元メディアは、この銃は合法的に登録され、許可を得ていたと報じた。
+タイは東南アジアの中でも民間の銃所有率が最も高い国の一つで、民間で約1,030万丁の銃が所持されており、そのうち約400万丁が違法に所有されていると考えられている。
+同国には厳格な銃規制があり、武器の不法所持には最高10年の懲役が科せられるが、これらの法律の執行が課題となっている。
+アヌティン氏は内務大臣時代に、新規銃のライセンスの短期禁止や輸入制限など、数多くの銃規制法を導入した。
+首相は金曜日の演説で、悲劇は「起こるべきではなかった」と述べた。
+アヌティンさんは「犠牲者に同情するだけでなく、このようなことが起こったことを残念に思う。我が国でどうしてこのようなことが起こり得るのか」と付け加えた。
+この少年は金曜日の現地時間午前5時（日本時間木曜午後22時）頃、2階建てアパートで73歳の祖父と74歳の祖母を射殺したとみられている。
+タイの警察当局者によると、全員が頭部への一発の銃撃で死亡した。
+ロイター通信によると、少年は祖父母を殺害した後、銃器と数十発の弾丸を積んでスクールバスに乗り込んだ。
+その後、彼は 8 時 30 分に最初の授業に出席し、09 時 20 分に 2 番目の授業に出席しました。
+その日2回目の授業が始まって30分ほど経った頃、彼は銃を抜いて撃ち始めた。
+この少年はまず学校の6階で教師らを銃撃し、そのうち3人を殺害したと考えられている。
+「その後、彼は階段を下り、状況を確認するために階段を上っていた学校の副校長と校長秘書に遭遇した」と警察のデジラピー・コンディー少将はロイターに語った。
+「犯人は階段で二人を射殺した。」
+銃撃が続いている間、警察が現場に出動した。デジラピー氏によると、彼らは10時40分頃に襲撃犯を発見したが、その時までに自殺していたという。
+5人が即死し、少なくとも23人が負傷した。その後、タイの公共放送とバンコク・ポストは、8人目の犠牲者が死亡したと報じた。
+国家警察署長キティラット・ファンペット将軍は記者団に対し、法医当局は犯人の発砲は非常に正確で、数箇所が体の急所に命中したことを発見したと語った。
+首相は、今回の攻撃は「明確な段階と明確な目標」を持って「十分に準備されていた」と述べた。
+地元メディアによると、警察はこの少年が所有していたデバイスを捜索し、米国の学校での銃乱射事件に関連したビデオをいくつか発見した。
+地元メディアによると、家族らはこの少年は物静かで行儀が良かったと伝えている。
+彼の叔父はタイのメディアに対し、少年はほとんどの時間を屋内で暴力的なビデオゲームをして過ごし、外に出ることはほとんどなかったと語った。同氏は、この少年が襲撃を計画していた兆候はないと付け加えた。
+襲撃犯は両親が離婚していたため、祖父母と同居していた。
+デブシリン学校は 1885 年にバンコクに設立され、全国に支部を持つタイのトップ中等学校の 1 つです。卒業生には外交官やスポーツ選手から数人の首相に至るまで、タイの著名な人物が数多く名を連ねています。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-07T21:19:27+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3955/live/79cf1aa0-929e-11f1-b6aa-e1ff997f01b8.jpg",
+    readTime: 4,
+  },
+  {
+    id: "palantir-s-stock-stages-best-week-since-c4bbf67e",
+    title: "Palantir’s stock stages best week since 2024 — showing it’s no longer an ‘AI loser’",
+    titleJa: "パランティアの株価は2024年以来最高の週を記録 - もはや「AI敗者」ではないことを示す",
+    summaryJa: "Palantir の AI ソリューションに対する需要が急増し、同社への信頼が回復しています。",
+    bodyOriginal: `Booming demand for Palantir’s AI solutions is restoring confidence in the company.`,
+    bodyJa: `Palantir の AI ソリューションに対する需要が急増し、同社への信頼が回復しています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/palantirs-stock-stages-best-week-since-2024-showing-its-no-longer-an-ai-loser-2fc6c32b?mod=mw_rss_topstories",
+    publishedAt: "2026-08-07T20:54:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-72565891",
+    readTime: 2,
+  },
+  {
+    id: "two-reasons-why-nvidia-s-stock-saw-its-b-8b871f78",
+    title: "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+    titleJa: "Nvidia 株が週間で 1 年以上で最大の上昇を記録した 2 つの理由",
+    summaryJa: "このチップメーカーは、週間時価総額の過去最大の増加を記録しました。",
+    bodyOriginal: `The chip maker recorded its largest-ever weekly increase in market capitalization.`,
+    bodyJa: `このチップメーカーは、週間時価総額の過去最大の増加を記録しました。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+    publishedAt: "2026-08-07T20:41:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-62509713",
+    readTime: 2,
+  },
+  {
+    id: "spacex-s-stock-just-had-one-of-its-best-e65533cb",
+    title: "SpaceX’s stock just had one of its best days ever — with the first lockup expiration now behind it",
+    titleJa: "最初のロックアップ期限が過ぎ、SpaceX の株価は史上最高の日を迎えたばかり",
+    summaryJa: "内部関係者が株式を売却できるようになると、株価はしばしば圧力にさらされるが、スペースXの場合、そのリスクはすでに織り込まれている可能性がある。",
+    bodyOriginal: `Stocks often come under pressure once insiders are able to unload shares — but in the case of SpaceX, that risk may have been already priced in.`,
+    bodyJa: `内部関係者が株式を売却できるようになると、株価はしばしば圧力にさらされるが、スペースXの場合、そのリスクはすでに織り込まれている可能性がある。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+    publishedAt: "2026-08-07T20:38:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-00481430",
+    readTime: 2,
+  },
+  {
+    id: "saaspocalypse-debate-intensifies-as-sof-2cd3582a",
+    title: "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+    titleJa: "ソフトウェア株の乱高下で「SaaSpocalypse」議論が激化",
+    summaryJa: "今週は「サースポカリプス」が猛威を振るっていた。その後、猶予が与えられました。かつてのハイフライヤーであるエアテーブルを数ペニーで買収し、その後、収益報告でハブスポット、データドッグ、フィグマが急落したことはすべて、人工知能モデルが高価なソフトウェア製品の価値を食いつぶしているのではないかという投資家の懸念を強調する結果となった。",
+    bodyOriginal: `The "SaaSpocalypse" was raging this week. Then it got a reprieve.
+The pennies-on-the-dollar acquisition of one-time highflyer Airtable, followed by plunges in HubSpot, Datadog and Figma on earnings reports, all served to underscore investor concerns that artificial intelligence models are eating away at the value of costly software products.
+"I do think that companies are going to continue to use these coding agents to build functionality to maybe act as a little bit of pressure on renewals," said Matt Hedberg, a software analyst at RBC Capital Markets.
+But by the end of the week, Wall Street was reminded that there's still juice left in an industry that, not long ago, was viewed as driving innovation and was trading at hefty market multiples.
+Twilio, a provider of cloud-based communications software, and Atlassian, which sells collaboration tools, each saw pops of well over 20% on Friday after reporting quarterly results. Cloudflare, which helps protect websites from cyber attacks, gained 5.6%.
+Box CEO Aaron Levie, who's been evangelizing cloud software since he started his file-sharing company more than two decades ago, was particularly impressed with Atlassian, which reported its most profitable quarter since 2021.
+"Huge Atlassian quarterly beat," Levie wrote on X. "There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There's definitely truth in this in some areas, but many were parsing this poorly."
+Levie's reaction reflects a level of nuance that's not always apparent in the sell-it-all trade. Salesforce CEO Marc Benioff has spent months trying to convince investors that his company's longstanding software for sales, marketing and customer service won't be vibe-coded away. Salesforce has lost more than 40% of its value since the end of 2024 despite accelerating revenue growth and consistent margins.
+Salesforce and its software peers have been under pressure, less because of their current growth rates and more because of the increasingly popular view that tools like OpenAI's Codex and Anthropic's Claude Code will slowly — and then rapidly — hollow out their economics.
+The iShares Expanded Tech-Software Sector ETF plummeted 24% in the first quarter, its worst performance since 2008. However, it's since rebounded sharply and is now down just 3% for the year, while the Nasdaq is up 15%.
+'Pencils down'
+RBC's Hedberg said sentiment was so bad in the first quarter that clients didn't even want to discuss software.
+"People were pencils down in the space," he said. "They just didn't feel like it was worth their time to meet with software companies back then, and that was even high-quality companies."
+That attitude has become a big problem for venture-backed software companies that raised money at hefty valuations in the pre-AI era and are now trying to figure out what's next for them. There haven't been any notable SaaS IPOs this year, and 86% of private deal value in the first half of 2026 went to AI companies, according to PitchBook data.
+Concerns were amplified on Tuesday, when Italian software buyout firm Bending Spoons said it had agreed to buy workflow management startup Airtable for less than $1.3 billion. At its peak in 2021, Airtable was valued at nearly $12 billion.
+Bending Spoons, which held its own IPO in July, owns brands including AOL, Evernote and Vimeo, and now has a market cap of $28 billion.
+Two days after the Airtable deal, HubSpot had its worst day on the market in a decade, sliding 19% and bringing its loss for the past year to over 50%. Datadog, which sells monitoring software, also sank 19% on Thursday, the steepest slump since its IPO in 2019. Still, the stock has been an outperformer, climbing 72% this year.
+Datadog said its biggest AI client, which analysts suspect is OpenAI, has cut usage since June.
+"There's these reminders that we're not out of it," Hedberg said. "Everything's not smooth sailing."
+The mood improved after the close on Thursday, thanks to stronger reports from Atlassian, Twilio and Cloudflare. Atlassian CEO Mike Cannon-Brookes credited his company's research and development teams for working hard to give customers "the best quality at the best price and the best speed."
+The report came five months after Atlassian slashed 10% of its workforce, or 1,600 jobs, which Cannon-Brookes said at the time was necessary to "self-fund further investment in AI and enterprise sales, while strengthening our financial profile."
+Atlassian's 35% surge on Friday marked its best day since the company went public in 2015. It's still down 8% this year after losing one-third of its value in 2025.
+Rishi Jaluria, another RBC analyst, said some of the pop for Atlassian is likely attributable to short covering, meaning that investors who bet against the stock by borrowing shares and selling them are now buying them back.
+"Everyone says Atlassian is going to get crushed by Claude Code and OpenAI Codex, and so they're done," said Jaluria, who doesn't cover the company. "Any proof point that says, oh wait, this company isn't dead, is going to result in a short squeeze."
+WATCH: We do not think AI will kill 'SaaS' but slow decay is bad enough: CLSA`,
+    bodyJa: `今週は「サースポカリプス」が猛威を振るっていた。その後、猶予が与えられました。
+かつてのハイフライヤーであるエアテーブルを数ペニーで買収し、その後、収益報告でハブスポット、データドッグ、フィグマが急落したことはすべて、人工知能モデルが高価なソフトウェア製品の価値を食いつぶしているのではないかという投資家の懸念を強調する結果となった。
+ＲＢＣキャピタル・マーケッツのソフトウェアアナリスト、マット・ヘドバーグ氏は「企業は今後もこうしたコーディングエージェントを利用して機能を構築し、更新の際に多少のプレッシャーとなるのではないかと思う」と述べた。
+しかし、週末までにウォール街は、つい最近までイノベーションを推進すると見なされ、高額な市場倍率で取引されていた業界にまだ力が残っていることを思い知らされた。
+クラウドベースの通信ソフトウェアを提供するトゥイリオとコラボレーションツールを販売するアトラシアンは、四半期決算を発表した金曜日にそれぞれ20％を大きく超える上昇率を記録した。サイバー攻撃からウェブサイトを保護するサービスを提供するクラウドフレアは5.6％上昇した。
+20年以上前にファイル共有会社を立ち上げて以来、クラウドソフトウェアの普及を推進してきたBoxのCEO、アーロン・リービー氏は、2021年以来最も収益性の高い四半期を報告したアトラシアンに特に感銘を受けたという。
+Levie 氏は X について「アトラシアンの四半期ごとの大きなビートです。過去 6 か月間、エージェントが特定のソフトウェア カテゴリに悪影響を与えるという見当違いの理論がありました。これには一部の分野では間違いなく真実がありますが、多くはこれを適切に解析していませんでした。」と書いています。
+リービー氏の反応は、売り切り取引では必ずしも明らかではないレベルのニュアンスを反映している。セールスフォースの最高経営責任者（CEO）マーク・ベニオフ氏は、同社の販売、マーケティング、顧客サービス向けの長年のソフトウェアが雰囲気コード化されずに済むことを投資家に説得するのに数カ月を費やした。 Salesforce は、加速する収益成長と安定した利益率にもかかわらず、2024 年末以降、その価値の 40% 以上を失っています。
+Salesforce とそのソフトウェア製品は、現在の成長率よりもむしろ、OpenAI の Codex や Anthropic の Claude Code のようなツールが徐々に、そして急速に経済を空洞化させるという見方が広まっているため、プレッシャーにさらされています。
+iシェアーズ・エキスパンド・ハイテク・ソフトウェア・セクターETFは第1四半期に24％急落し、2008年以来最悪のパフォーマンスとなった。しかし、その後急反発し、現在では年間でわずか3％下落しているのに対し、ナスダックは15％上昇している。
+「鉛筆を下げてください」
+RBCのヘドバーグ氏は、第1四半期のセンチメントは非常に悪かったため、顧客はソフトウェアについて話し合うことすら望まなかったと述べた。
+「空間では人々は鉛筆のような状態だった」と彼は言う。 「彼らは当時、たとえそれが高品質な企業であっても、ソフトウェア会社と会うことに時間を費やす価値があるとは感じていませんでした。」
+こうした姿勢は、AI以前の時代に高額の評価額で資金を調達し、現在は次の展開を模索しているベンチャー支援のソフトウェア企業にとって大きな問題となっている。今年は目立ったSaaS IPOはなく、PitchBookのデータによると、2026年上半期の非公開取引額の86％がAI企業に向けられた。
+イタリアのソフトウェア買収会社ベンディング・スプーンズが火曜日、ワークフロー管理スタートアップのエアテーブルを13億ドル未満で買収することで合意したと発表し、懸念はさらに増幅した。 2021年のピーク時には、Airtableの評価額は120億ドル近くに達した。
+7月に独自のIPOを行ったBending Spoonsは、AOL、Evernote、Vimeoなどのブランドを所有しており、現在時価総額は280億ドルとなっている。
+Airtable との取引から 2 日後、HubSpot は市場で 10 年間で最悪の日を迎え、19% 下落し、過去 1 年間の損失は 50% 以上に達しました。監視ソフトウェアを販売するデータドッグも木曜日に19％下落し、2019年のIPO以来最大の下落となった。それでも株価はアウトパフォームしており、今年は72％上昇している。
+Datadogは、アナリストがOpenAIではないかと疑う最大のAIクライアントが6月以降、使用量を削減していると述べた。
+「私たちがまだ危機を脱していないことを思い出させてくれます」とヘドバーグ氏は語った。 「すべてが順風満帆というわけではない。」
+Atlassian、Twilio、Cloudflareからの堅調なレポートのおかげで、木曜日の取引終了後に雰囲気は改善しました。アトラシアンの CEO、マイク・キャノン・ブルックス氏は、顧客に「最高の品質を最高の価格で、最高のスピードで」提供するために同社の研究開発チームが懸命に取り組んでいることを称賛した。
+この報告書は、アトラシアンが従業員の10％、つまり1,600人を削減した5か月後に発表されたが、キャノンブルックス氏は当時、「当社の財務プロフィールを強化しながら、AIとエンタープライズ販売へのさらなる投資を自己資金で賄う」ために必要だったと述べていた。
+アトラシアンの金曜日の35％上昇は、同社が2015年に上場して以来最高の日となった。2025年には価値の3分の1を失った後、今年はまだ8％下落している。
+別のRBCアナリスト、リシ・ジャルリア氏は、アトラシアンの株価上昇の一部はショートカバーによる可能性が高く、株を借りて売却することで株に賭けていた投資家が現在株を買い戻していることを意味すると述べた。
+「アトラシアンはクロード・コードとオープンAI・コーデックスに潰されるだろうと誰もが言うが、もう終わりだ」と同社を取材していないジャルリア氏は語った。 「待てよ、この会社は死んでいないという証拠があれば、ショートスクイーズが起こるだろう。」
+注目: AI が「SaaS」を消滅させるとは思わないが、ゆっくりとした衰退は十分に悪いことです: CLSA`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+    publishedAt: "2026-08-07T20:22:17+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
     id: "trump-revives-effort-to-fire-fed-s-lisa-1b7e7f54",
     title: "Trump revives effort to fire Fed's Lisa Cook",
     titleJa: "トランプ大統領、FRBのリサ・クック解任に向けた取り組みを再開",
@@ -1538,332 +1808,6 @@ Tech Decoded ニュースレターに登録して、世界のトップテクノ�
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg",
     readTime: 9,
-  },
-  {
-    id: "easyjet-agrees-to-5-7bn-takeover-by-us-f-8a9f6739",
-    title: "EasyJet agrees to £5.7bn takeover by US firm",
-    titleJa: "イージージェット、米国企業による57億ポンドの買収に合意",
-    summaryJa: "イージージェット、米国企業による57億ポンドの買収に合意- 公開されました",
-    bodyOriginal: `EasyJet agrees to £5.7bn takeover by US firm
-- Published
-EasyJet has agreed to be taken over in a £5.7bn deal by US firm Apollo.
-The deal was announced after rival suitor Castlelake said it was dropping out of the bid battle for the no-frills airline.
-EasyJet is one of Europe's largest airlines. It employs more than 19,000 people, and flies around 1,200 routes across 35 European countries.
-It was founded by Sir Stelios Haji-Ioannou in 1995 to offer cheap air fares to Europe from the UK.`,
-    bodyJa: `イージージェット、米国企業による57億ポンドの買収に合意
-- 公開されました
-イージージェットは、米国企業アポロに57億ポンドの契約で買収されることに合意した。
-この買収は、ライバルの求婚者であるキャッスルレイクが、この飾り気のない航空会社の入札合戦から撤退すると発表した後に発表された。
-EasyJet はヨーロッパ最大の航空会社の 1 つです。従業員は 19,000 名を超え、ヨーロッパ 35 か国の約 1,200 路線を運航しています。
-英国からヨーロッパへの格安航空運賃を提供するために、ステリオス・ハジ・イオアノウ卿によって 1995 年に設立されました。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-06T14:21:07+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e13/live/dcb0ea20-91a1-11f1-964d-6f76397ea067.jpg",
-    readTime: 2,
-  },
-  {
-    id: "missouri-voters-just-rejected-a-bid-to-d-04731925",
-    title: "Missouri voters just rejected a bid to ditch income tax, while other tax votes loom in Florida and California this fall",
-    titleJa: "ミズーリ州の有権者は所得税廃止の提案を拒否したばかりだが、フロリダ州とカリフォルニア州では今秋、他の税に関する投票が迫っている",
-    summaryJa: "ミズーリ州の有権者は火曜日、州の所得税を廃止する提案を拒否したが、フロリダ州とカリフォルニア州では今秋の大票田が迫っている。",
-    bodyOriginal: `Missouri voters rejected a bid to ditch the state’s income tax Tuesday, while big votes loom in Florida and California this fall.`,
-    bodyJa: `ミズーリ州の有権者は火曜日、州の所得税を廃止する提案を拒否したが、フロリダ州とカリフォルニア州では今秋の大票田が迫っている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/taxes-are-on-the-ballot-this-fall-as-republicans-and-democrats-grow-further-apart-on-whether-to-raise-them-c7990380?mod=mw_rss_topstories",
-    publishedAt: "2026-08-06T14:07:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-27008048",
-    readTime: 2,
-  },
-  {
-    id: "fox-won-t-renegotiate-nfl-media-rights-b-b47ae2cd",
-    title: "Fox won't renegotiate NFL media rights before current deal expires, CEO Lachlan Murdoch says",
-    titleJa: "フォックスは現在の契約が期限切れになるまでNFLメディアの権利について再交渉しないとCEOのラクラン・マードック氏が語る",
-    summaryJa: "ラクラン・マードック最高経営責任者（CEO）は木曜日の決算会見で、フォックスはリーグとの現行契約がオプトアウト条項により期限切れとなる2030年までに新たなNFLメディア権契約について交渉するつもりはないと語った。NFLは、リーグのオプトアウト条項を撤廃し、ライブ権の費用を引き上げるための契約の見直しについて、フォックスとCBSの親会社パラマウント・スカイダンスの両社と予備協議を行ったとCNBCが以前報じた。 Fox と CBS は、NFL の日曜午後のライブ試合放映権のパッケージを所有しています。",
-    bodyOriginal: `Fox won't negotiate a new NFL media rights deal before 2030, when its current contract with the league expires via an opt-out clause, Chief Executive Officer Lachlan Murdoch said during a Thursday earnings conference call.
-The NFL has held preliminary discussions with both Fox and CBS-parent Paramount Skydance about reworking the deals to eliminate the league's opt-out clause and raise the cost of the live rights, CNBC previously reported. Fox and CBS own the NFL's Sunday afternoon packages of live game rights.
-Without the opt out, Fox and Paramount's deals with the league extend until the end of the 2033-34 season.
-Murdoch said Thursday that those preliminary discussions led Fox to decide it won't strike a new deal.
-"In advance of the season, we've had a recent thorough and productive discussions with the league, and as a result, we will not be making any amendments to our existing contractual relationship, which extends to the completion of the 2029 season," Murdoch said. "We'll be ready to engage with the NFL on the opt-out seasons and beyond at a date closer to the 2030 season, which has been the customary timetable."
-The NFL maintains flexibility to renew deals early with its other media partners, including adding new partners as it has in recent years with YouTube and Netflix. An NFL spokesperson declined to comment on Murdoch's remarks.
-NFL Commissioner Roger Goodell told CNBC last year he felt the league's rights were relatively undervalued compared to other sports. The NBA nearly tripled its media rights revenue with an 11-year, $77 billion deal struck in 2024.
-The NFL signed its most recent media rights deal, worth more than $100 billion, in 2021.
-"I think our partners would want to sit down and talk to us at any time, and we continue to dialogue with them. I like that opportunity," Goodell said in September. "Obviously it's not going to happen this year. But it could happen as early as next year. That could happen."
-NFL programming is consistently the most watched on television. Murdoch said Fox's relationship with the NFL "is an incredibly positive one."
-The NFL had discussed an increase of nearly $1 billion per year in rights costs in early talks with Paramount, CNBC reported earlier this year. In return, the league would guarantee carriage on CBS until 2034. Under the terms of the current contract, the NFL can walk away from the deal with all of its partners except Disney at the end of the 2029-30 season. Disney has one extra year.
-Disney Chief Financial Officer Hugh Johnston told CNBC earlier this week that the NFL hasn't yet engaged Disney on a new deal.
-"We really have pretty much all the sports rights that we need locked up into the 2030s. The NFL, you've seen they have commented a few times on reopening that, but they have not talked to us about that. So we'll see how that plays out," Johnston said in an interview.`,
-    bodyJa: `ラクラン・マードック最高経営責任者（CEO）は木曜日の決算会見で、フォックスはリーグとの現行契約がオプトアウト条項により期限切れとなる2030年までに新たなNFLメディア権契約について交渉するつもりはないと語った。
-NFLは、リーグのオプトアウト条項を撤廃し、ライブ権の費用を引き上げるための契約の見直しについて、フォックスとCBSの親会社パラマウント・スカイダンスの両社と予備協議を行ったとCNBCが以前報じた。 Fox と CBS は、NFL の日曜午後のライブ試合放映権のパッケージを所有しています。
-オプトアウトがなければ、フォックスとパラマウントのリーグとの契約は2033－34シーズン終了まで延長される。
-マードック氏は木曜日、こうした事前協議によりフォックスは新たな契約を結ばないことを決定したと述べた。
-マードック氏は「シーズンに先立ち、最近リーグと綿密かつ生産的な話し合いを行ってきた。その結果、2029年シーズン終了までの既存の契約関係に修正は加えない」と述べた。 「我々はオプトアウトシーズン以降についても、慣習的なスケジュールとなっている2030年シーズンに近い日程でNFLと連携する準備を整えるつもりだ」
-NFL は、近年の YouTube や Netflix と同様に、新しいパートナーを追加するなど、他のメディア パートナーとの契約を早期に更新する柔軟性を維持しています。 ＮＦＬの広報担当者はマードック氏の発言についてコメントを控えた。
-NFLコミッショナーのロジャー・グッデル氏は昨年CNBCに対し、リーグの権利が他のスポーツに比べて相対的に過小評価されていると感じていると語った。 NBAは2024年に11年間、770億ドルの契約を締結し、メディア権利収入をほぼ3倍に増やした。
-NFLは2021年に1000億ドル以上相当の最新のメディア権契約に署名した。
-グッデル氏は9月、「われわれのパートナーはいつでも座って話をしたいと思っているだろうし、われわれは彼らとの対話を続けている。その機会が気に入っている」と述べた。 「もちろん今年は起こらない。だが、早ければ来年には起こるかもしれない。それは起こるかもしれない。」
-NFL 番組は常にテレビで最も視聴されています。マードック氏は、フォックスとNFLの関係は「信じられないほど前向きなものだ」と述べた。
-CNBCが今年初めに報じたところによると、NFLはパラマウントとの初期の交渉で、放映権料を年間10億ドル近く増やすことについて話し合っていたという。その見返りとして、リーグはCBSでの放送を2034年まで保証することになっている。現在の契約条件に基づき、NFLは2029-30シーズン終了後にディズニーを除くすべてのパートナーとの契約を解消することができる。ディズニーにはあと1年あります。
-ディズニーの最高財務責任者ヒュー・ジョンストン氏は今週初め、CNBCに対し、NFLはまだディズニーと新たな契約を締結していないと語った。
-「我々は実際、2030年代までロックしておく必要があるほぼすべてのスポーツの権利を持っている。NFLは、それを再開することについて何度かコメントしているのを見たことがあるだろうが、彼らはそれについて我々に話していない。だから、それがどうなるか見てみるつもりだ」とジョンストン氏はインタビューで語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/fox-nfl-media-rights-renegotiations-opt-out.html",
-    publishedAt: "2026-08-06T13:57:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "the-divide-between-eli-lilly-and-novo-no-c9640f85",
-    title: "The divide between Eli Lilly and Novo Nordisk is widening after their latest earnings",
-    titleJa: "イーライリリーとノボ ノルディスクの最新決算を受けて格差が拡大",
-    summaryJa: "今週は、GLP-1製薬会社2社の分岐点が全面的に明らかになった。イーライリリーとノボ ノルディスクは両社とも第2四半期の予想を上回り、通年の見通しを引き上げた。しかし、投資家はリリーの決算を歓迎し水曜日の株価を上昇させたが、その前日にはノボを懲罰しており、肥満治療薬のリーダー2社に対するウォール街の信頼の溝が広がっていることを浮き彫りにした。",
-    bodyOriginal: `The diverging paths of two GLP-1 drugmakers were on full display this week.
-Both Eli Lilly and Novo Nordisk beat second-quarter estimates and raised their full-year outlooks. But while investors cheered Lilly's results, sending shares higher on Wednesday, they punished Novo a day earlier – underscoring a growing divide in Wall Street's confidence in the two obesity drug leaders.
-As Lilly continues to exceed expectations and widen its edge in the obesity drug space, Novo is still racing to win back market share, restore investor confidence in its pipeline and chart a clear path toward long-term growth.
-"While Novo raised guidance (as expected), the pipeline and path to sustainable growth remain less clear," BMO Capital Markets analyst Evan Seigerman said in a research note on Wednesday.
-At stake is a global market that some analysts expect to be worth more than $100 billion by the 2030s. In the U.S., Lilly held a 60.9% share of the obesity and diabetes drug market in the second quarter, compared with Novo's 38.8%, according to Lilly's earnings presentation Wednesday.
-Lilly reported another quarter of blistering growth, with resilient demand for its blockbuster diabetes treatment Mounjaro and obesity drug Zepbound pushing revenue up 48% from a year ago. The company also hiked its full-year revenue guidance, reinforcing investor confidence that its treatments can sustain their sales momentum despite lower prices in the U.S. – an issue that Novo is also facing.
-"The print reinforces our view that Lilly remains best positioned to capture the majority of global incretin market growth," Bernstein analyst Courtney Breen said in a note on Wednesday, referring to the obesity and diabetes drug space.
-Novo also topped Wall Street's expectations and lifted its full-year outlook Tuesday, citing "increased expectations" for GLP-1 product sales.
-Analysts said Novo benefited from rebate adjustments and other temporary factors during the quarter. Sales of the company's diabetes drug Ozempic and overall obesity portfolio exceeded analyst estimates for the quarter, according to StreetAccount.
-But investors appeared less focused on what Novo delivered this quarter and more on concerns about what comes next.
-"All in all this leaves many questions open for 2027," said Jefferies analyst Michael Leuchten in a research note on Tuesday.
-Revenue of Novo's closely watched Wegovy pill came in slightly below analyst expectations. That disappointed some investors and raised questions about whether it can become a big enough growth driver for the company.
-"Wegovy Pill launch has shown promise, but 2Q results in the US highlight that more needs to be done to satisfy investors and truly beat expectations," Seigerman said.
-He acknowledged that part of the miss was due to the company reducing inventory of the pill, but said "a massive beat would have sated many" investors. The pill's miss and share reaction "highlight a broader need for further pipeline diversification," Seigerman added.
-Despite that, Novo said the pill has reached more than 5 million patients since its U.S. launch in January, and the industry still bills it as one of the most successful drug launches in history. The drug has also shown higher efficacy than a rival obesity pill from Lilly, which launched a few months later than Novo's treatment. That early entry to the market gave the Danish drugmaker an edge in the oral drug space.
-Novo CEO Mike Doustdar also defended the pill's strategy and launch following the company's results. Regional expansions of the drug in the United Arab Emirates and the UK, among others, this year could offer momentum, he said.
-"We would not be able to ... show a positive growth on the top and the bottom if items like the pill were not doing well and were not profitable," Doustdar told CNBC's Carolin Roth on Wednesday.
-The company also gave more good news for its global prospects on Wednesday, when it said the Wegovy pill would launch in Germany in September, the product's first entry into a European Union country.
-Still, Novo's updated outlook implies the company could post a sales decline this year, a contrast to Lilly's expectation of ballooning revenue.
-Novo on Tuesday also reported mixed trial results on a key experimental obesity drug, CagriSema, reigniting investor questions about whether the company's drug pipeline can generate long-term growth. CagriSema couldn't deliver as much blood sugar control as Zepbound in a large trial – the second time this year the new drug has failed to match Lilly's blockbuster weight loss treatment.
-That comes just days after Novo said a late-stage heart drug failed to reduce major cardiovascular events compared to placebo in a trial. Analysts viewed that experimental medicine, ziltivekimab, as a key opportunity for Novo to expand its cardiovascular portfolio and reduce reliance on its obesity and diabetes medicines.
-"As pricing in the obesity market faces continuous headwinds, a clear strategy underpinned by franchise diversity is critical" for the company, Seigerman said.
-For investors, the contrast is increasingly clear: Lilly is being viewed as the market's momentum story, while Novo remains in a show-me phase as Wall Street waits for evidence that its turnaround efforts are taking hold.
-"Overall nothing to inspire," Citi research analysts said in a note on Tuesday about Novo.`,
-    bodyJa: `今週は、GLP-1製薬会社2社の分岐点が全面的に明らかになった。
-イーライリリーとノボ ノルディスクは両社とも第2四半期の予想を上回り、通年の見通しを引き上げた。しかし、投資家はリリーの決算を歓迎し水曜日の株価を上昇させたが、その前日にはノボを懲罰しており、肥満治療薬のリーダー2社に対するウォール街の信頼の溝が広がっていることを浮き彫りにした。
-リリー社が期待を上回り、肥満治療薬分野での優位性を広げ続ける中、ノボ社は市場シェアを取り戻し、自社パイプラインに対する投資家の信頼を回復し、長期的な成長に向けた明確な道筋を描こうと今も競争している。
-BMOキャピタル・マーケッツのアナリスト、エヴァン・セイガーマン氏は水曜日のリサーチノートで、「ノボは（予想通り）ガイダンスを引き上げたが、持続可能な成長に向けたパイプラインと道筋は依然として不透明だ」と述べた。
-危機に瀕しているのは世界市場であり、一部のアナリストは2030年代までに1000億ドル以上の価値があると予想している。リリーの水曜日の決算発表によると、第2四半期の米国の肥満・糖尿病治療薬市場でリリーは60.9％のシェアを占め、ノボは38.8％だった。
-リリーは、大ヒット糖尿病治療薬「ムンジャロ」と肥満治療薬「ゼップバウンド」の需要が堅調で、売上高が前年同期比48％増加し、四半期も大幅な成長を記録したと報告した。同社はまた、通年の収益見通しを引き上げ、米国での価格低下にもかかわらず、同社の治療薬が売上の勢いを維持できるという投資家の信頼を強化した。これはノボも直面している問題である。
-バーンスタインのアナリスト、コートニー・ブリーン氏は水曜日のメモで、肥満と糖尿病の治療薬分野に言及し、「この印刷物は、リリーが依然として世界のインクレチン市場の成長の大部分を獲得するのに最適な立場にあるというわれわれの見解を裏付けるものである」と述べた。
-ノボはまた、火曜日にウォール街の予想を上回り、GLP-1製品の売上に対する「期待の高まり」を理由に通年の見通しを引き上げた。
-アナリストらは、ノボはリベート調整やその他の一時的な要因から同四半期に恩恵を受けたと述べた。ストリートアカウントによると、同社の糖尿病薬オゼンピックの売上高と肥満ポートフォリオ全体が同四半期のアナリスト予想を上回った。
-しかし、投資家はNovoが今四半期に何を提供したかよりも、次に何が起こるかについての懸念に焦点を当てているようだ。
-ジェフリーズのアナリスト、マイケル・ロイヒテン氏は火曜日のリサーチノートで、「全体的に見て、2027年には多くの疑問が残されている」と述べた。
-注目されていたノボの錠剤「ウィゴビー」の売上高はアナリストの予想をわずかに下回った。このことは一部の投資家を失望させ、それが同社にとって十分大きな成長原動力となり得るかどうかについて疑問を生じさせた。
-「Wegovy Pillの発売は期待を示しているが、米国の第2四半期決算は、投資家を満足させ、真に期待を上回るためにはさらなる取り組みが必要であることを浮き彫りにしている」とセイガーマン氏は述べた。
-同氏は、失敗の一部が同社が錠剤の在庫を減らしたことによるものであることを認めたが、「大規模なビートは多くの投資家を満足させただろう」と述べた。セイガーマン氏は、錠剤のミスとシェアの反応は「パイプラインのさらなる多様化に対する広範なニーズを浮き彫りにしている」と付け加えた。
-それにもかかわらず、ノボ社は、この薬は1月に米国で発売されて以来、500万人以上の患者に投与されており、業界は依然としてこの薬を史上最も成功した新薬の1つであると主張していると述べた。この薬は、ノボ社の治療薬より数カ月遅れて発売されたリリー社のライバルの肥満治療薬よりも高い有効性も示している。この市場への早期参入により、デンマークの製薬会社は経口薬分野で優位性を得ることができました。
-Novo CEOのMike Doustdar氏も、同社の業績を受けて、この錠剤の戦略と発売を擁護した。今年はとりわけアラブ首長国連邦と英国でのこの薬の地域拡大が勢いをもたらす可能性があると同氏は述べた。
-「もし錠剤のような商品の業績が悪く、利益が出なかったら、我々は…上向きも下向きもプラスの成長を示すことはできなかったでしょう」とドゥスダール氏は水曜日、CNBCのキャロリン・ロスに語った。
-同社は水曜日、Wegovy 錠剤がドイツで 9 月に発売され、同製品が欧州連合加盟国に初めて導入されると発表し、世界的な見通しにとってさらに良いニュースを提供した。
-それでも、ノボの最新の見通しは、同社が今年売上高の減少を記録する可能性があることを示唆しており、収益が膨らむというリリーの予想とは対照的である。
-ノボは火曜日に、主要な肥満治療薬の実験薬であるカグリセマに関するさまざまな試験結果も報告しており、同社の医薬品パイプラインが長期的な成長を生み出すことができるかどうかについて投資家の疑問が再燃している。カグリセマは、大規模試験ではゼップバウンドほどの血糖コントロールを実現できなかった。新薬がリリーの大ヒット減量治療薬に匹敵しなかったのは今年二回目だ。
-これは、ノボ社が試験で後期心臓治療薬がプラセボと比較して重大な心血管イベントを軽減できなかったと発表した数日後のことだった。アナリストらは、その実験薬であるジルチベキマブが、ノボにとって循環器ポートフォリオを拡大し、肥満や糖尿病の治療薬への依存を減らすための重要な機会となるとみなした。
-「肥満市場の価格設定は継続的な逆風に直面しているため、フランチャイズの多様性に裏付けられた明確な戦略が同社にとって重要である」とセイガーマン氏は述べた。
-投資家にとって、そのコントラストはますます明確になっている。リリーは市場の勢いを左右するストーリーとして見られている一方、ウォール街は再生努力が定着している証拠を待っているため、ノボは依然としてショーミーの段階にある。
-シティのリサーチアナリストらは火曜日のノートでノボについて「全体的には刺激となるものは何もない」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/eli-lilly-novo-nordisk-earnings-glp1-market.html",
-    publishedAt: "2026-08-06T13:45:29+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "versant-shares-surge-13-after-company-ra-064bdead",
-    title: "Versant shares surge 13% after company raises 2026 outlook on platforms, advertising momentum",
-    titleJa: "同社がプラットフォームと広告の勢いに関する2026年の見通しを引き上げたことを受け、Versant株は13%上昇",
-    summaryJa: "Versant は、Fandango や GolfNow を含むプラットフォーム ビジネス、そして最近の Full Swing の買収による収益の増加を指摘しました。",
-    bodyOriginal: `Versant Media Group raised its full-year guidance on Thursday, boosted by momentum in its digital brands like Fandango and GolfNow, as well as what executives referred to as "strength" in its overall business model.
-The company now expects total revenue for 2026 of $6.2 billion to $6.45 billion and adjusted earnings before interest, taxes, depreciation and amortization of $1.9 billion to $2.05 billion.
-This marks Versant's third earnings report since it was spun out from Comcast's NBCUniversal at the start of the year. The company, which includes a portfolio of pay TV networks including CNBC, MS Now and The Golf Channel began trading as a public company in January.
-Versant's earnings once again showcased that live sports and news grab the most viewers and advertising dollars for traditional TV, despite ongoing pressure on the bundle as it loses customers to streaming alternatives.
-The company beat Wall Street expectations on the top and bottom lines. Versant shares gained more than 13% in early trading Thursday.
-Here's how Versant performed for its second quarter, ended June 30, compared to Wall Street's estimates, according to LSEG:
-- Earnings per share: $1.49 vs. $1.35 expected
-- Revenue: $1.64 billion vs. $1.62 billion expected
-Revenue for linear TV, which also includes channels USA Network, Syfy, Oxygen and E!, was down 6.3% during the quarter to $954 million, due to subscriber declines.
-CEO Mark Lazarus said in a release on Thursday the company completed carriage agreements "with two large distribution partners, one in the U.S. and one in Canada." Many of Versant's distribution deals were locked up when it was still under NBCUniversal's ownership.
-Versant executives have said they aim to diversify the company's revenue base — with an eye toward achieving a revenue mix of 50% from its digital, platform, subscription, ad supported and transactional businesses. The aim is to be less reliant on the linear TV model. Currently more than 80% of Versant's revenue stems from the pay TV business.
-Versant leadership has also said it would explore acquisitions of nontraditional media businesses to broaden its revenue streams and add growth.
-This week the company closed its acquisition of golf simulation company Full Swing. Versant already owns digital media platform GolfPass and tee-time reservation company GolfNow. Earlier this year Versant bought StockStory, an AI-powered tech platform that provides financial analysis, market insights and stock recommendations for CNBC.
-Advertising revenue for the quarter was down 0.6% to $423 million, an improvement compared to the rate of decline during the same period last year due to higher ratings for its networks, which are heavily centered on news and sports.
-Revenue for the platforms segment — which includes Fandango and GolfNow — was up 0.8% to $225 million for the quarter. Excluding the company's divestiture of SportsEngine, platforms revenue was up 9.3%.
-The company attributed that increase in part to higher revenue at Fandango from movie ticket purchases and video on demand transactions, as well as higher bookings, payments and subscription revenue for GolfNow.
-Versant has launched a free, ad-supported Fandango streaming platform in a bid to increase its advertising and users for the platform. Versant's USA Sports also recently announced a media rights deal with German soccer league Bundesliga, which brings live matches to USA Network and Fandango beginning in August.
-Overall, Versant revenue declined 3.8% year over year to $1.64 billion.
-Net income attributable to Versant declined 30% to $211 million, or $1.49 per share, from $302 million, or $2.09 per share a year earlier. The company attributed that decline to lower revenue, public company costs, interest expense related to the Comcast separation and an increased tax expense largely due to the divestiture of SportsEngine.
-Adjusted EBITDA decreased 8.9% to $624 million. However, when compared with stand-alone adjusted EBITDA, a metric to more directly compare performance of the pre-spin portfolio companies to current results, adjusted EBITDA was up 3% year over year. Versant said the increase reflected lower programming expenses and reduced costs that offset revenue declines.
-The company also declared a quarterly cash dividend for the third quarter in a row, again at 37.5 cents a share. The latest dividend is payable on Oct. 22 to shareholders of record as of the close of business on Oct. 1.
-Versant said it completed a previously announced $100 million accelerated share repurchase agreement. The company repurchased nearly 2.4 million shares of class A common stock with a remaining authorization of roughly $800 million as of June 30.
-The company said it plans to enter into a similar stock repurchase agreement on Aug. 7 to repurchase $100 million of class A stock, which it anticipates will close during the third quarter.
-Disclosure: Versant Media Group is the parent company of CNBC.`,
-    bodyJa: `バーサント・メディア・グループは木曜日、ファンダンゴやゴルフナウなどのデジタルブランドの勢いと、経営陣がビジネスモデル全体の「強さ」と呼んだものに後押しされて、通期業績見通しを引き上げた。
-同社は現在、2026年の総売上高が62億ドルから64億5000万ドル、利息、税金、減価償却費前の調整後利益が19億ドルから20億5000万ドルになると予想している。
-これは、Versant が今年初めに Comcast の NBCUniversal からスピンアウトして以来、3 回目の収益報告となります。 CNBC、MS Now、The Golf Channelなどの有料テレビネットワークのポートフォリオを含む同社は、1月に上場企業として取引を開始した。
-Versant の収益は、ストリーミングの代替手段に顧客を奪われ、バンドルに対する圧力が続いているにもかかわらず、生のスポーツとニュースが従来のテレビの最も多くの視聴者と広告費を獲得していることを改めて示しました。
-同社は売上高と最終利益においてウォール街の期待を上回った。バーサント株は木曜序盤の取引で１３％以上上昇した。
-LSEG によると、Versant の第 2 四半期 (6 月 30 日終了) の業績をウォール街の推定と比較して以下に示します。
-- 1 株当たり利益: 予想 1.35 ドルに対し 1.49 ドル
-- 収益: 16 億 4,000 万ドル対予想 16 億 2,000 万ドル
-USA Network、Syfy、Oxygen、E! チャンネルも含むリニア TV の収益は、加入者の減少により、同四半期に 6.3% 減の 9 億 5,400 万ドルとなりました。
-CEOのマーク・ラザラス氏は木曜日のリリースで、同社が「米国とカナダの2社の大手流通パートナー」との運送契約を完了したと述べた。 Versant の配給契約の多くは、Versant がまだ NBCUniversal の所有下にあったときに凍結されていました。
-Versant の幹部らは、デジタル、プラットフォーム、サブスクリプション、広告サポート、トランザクション ビジネスからの収益構成 50% を達成することを目指して、同社の収益基盤を多様化することを目指していると述べた。目的は、リニア TV モデルへの依存度を下げることです。現在、Versant の収益の 80% 以上は有料テレビ事業によるものです。
-バーサントの経営陣は、収益源を拡大し、さらなる成長を図るために、非伝統的なメディア事業の買収を検討するとも述べた。
-同社は今週、ゴルフシミュレーション会社フルスイングの買収を完了した。 Versant はすでにデジタル メディア プラットフォーム GolfPass とティータイム予約会社 GolfNow を所有しています。今年初め、Versant は CNBC に財務分析、市場洞察、銘柄推奨を提供する AI を活用した技術プラットフォームである StockStory を買収しました。
-同四半期の広告収入は0.6%減の4億2,300万ドルで、ニュースとスポーツを中心としたネットワークの視聴率が高かったため、前年同期の減少率と比べて改善した。
-Fandango と GolfNow を含むプラットフォーム部門の同四半期の収益は 0.8% 増の 2 億 2,500 万ドルでした。スポーツエンジンの売却を除くと、プラットフォームの収益は 9.3% 増加しました。
-同社は、この増加の一因として、映画チケットの購入やビデオ・オン・デマンド取引によるファンダンゴでの収益の増加、およびゴルフナウの予約、支払い、サブスクリプション収益の増加を挙げています。
-Versant は、広告とプラットフォームのユーザーを増やすために、無料の広告付き Fandango ストリーミング プラットフォームを立ち上げました。 Versant の USA Sports も最近、ドイツのサッカー リーグ ブンデスリーガとのメディア権契約を発表し、8 月から USA Network と Fandango にライブ試合が提供されるようになります。
-全体として、Versant の収益は前年比 3.8% 減の 16 億 4000 万ドルとなりました。
-Versant に帰属する純利益は、前年同期の 3 億 200 万ドル (1 株あたり 2.09 ドル) から 2 億 1,100 万ドル (1 株あたり 1.49 ドル) と 30% 減少しました。同社は、この減少の原因として、収入の減少、公開会社のコスト、コムキャストの分離に関連する支払利息、および主にスポーツエンジンの売却による税金費用の増加が挙げられています。
-調整後EBITDAは8.9%減の6億2,400万ドルとなりました。しかし、スピン前のポートフォリオ企業の業績と現在の業績をより直接的に比較するための指標である単独の調整後EBITDAと比較すると、調整後EBITDAは前年同期比3%増加しました。バーサント氏は、この増加は番組制作費の減少と、収益の減少を相殺するコストの削減を反映していると述べた。
-同社はまた、3四半期連続の四半期現金配当を発表し、これも1株当たり37.5セントとした。最新の配当は、10月1日の営業終了時点で記録上の株主に10月22日に支払われる。
-ヴァーサントは、以前に発表した1億ドルの早期自社株買い契約を完了したと発表した。同社はクラスA普通株式約240万株を買い戻し、6月30日時点で約8億ドルの権限が残っている。
-同社は、クラスA株を1億ドル買い戻すため、8月7日に同様の株式買い戻し契約を結ぶ予定で、第3四半期中に取引が完了すると予想していると述べた。
-開示情報: Versant Media Group は CNBC の親会社です。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/versant-vsnt-earnings-q2-2026.html",
-    publishedAt: "2026-08-06T13:36:33+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "ford-s-new-fathom-electric-pickup-truck-d077e4da",
-    title: "Ford's new 'Fathom' electric pickup truck will start at $28,000",
-    titleJa: "フォードの新型電気ピックアップトラック「ファゾム」の価格は2万8000ドルから",
-    summaryJa: "フォードモーターは木曜日、同社の新しい中型電気トラックの開始価格が2万8350ドルで「ファゾム」と呼ばれると発表し、自動車メーカーは高価なEVトラック市場に手頃な価格の選択肢を提供したいと考えている。目的地および配送料1,595ドルを加えると価格は29,945ドルとなり、自動車メーカーが今後の電気自動車の宣伝で長年約束していた3万ドルの水準に達する。",
-    bodyOriginal: `Ford Motor announced Thursday that its new midsize electric truck will have a starting price of $28,350 and be called the "Fathom," as the automaker looks to offer an affordable option in the pricey EV truck market.
-Destination and delivery charges of $1,595 will bring the price to $29,945, coming in at the $30,000 mark the automaker had long promised in touting its upcoming electric vehicles.
-Ford said preorders for the five-passenger truck will begin in early 2027. Customer deliveries are expected to begin later in 2027. Ford has yet to reveal what the new truck will look like.
-The Fathom is the first vehicle to be built on Ford's new "Universal Electric Vehicle," or UEV, platform, which the company has said is key to bring its Model e business unit from billions of dollars in annual losses to breakeven by 2029.
-"We are confident that we have the best cost platform and are focused on the right market," a Ford spokesperson said in an email. "We believe the UEV platform will be a strategic advantage -- and we have the best chance to make it work."
-Ford has said the goal for the UEV platform is for each vehicle built on the system to be profitable within a year of launching and cost-competitive with global EV leaders from China and Tesla. Ford has had a secret unit working on the platform to make the vehicles comparable in price to gas-powered vehicles through new technologies and efficiencies.
-Ford's push with the UEV platform comes despite a massive slowdown in EV adoption and the elimination of U.S. consumer incentives to buy EVs. The company last year reported $19.5 billion in restructuring charges related to its electric vehicles.
-The Ford Fathom will be built using the company's new assembly tree manufacturing process at its Louisville Assembly Plant.`,
-    bodyJa: `フォードモーターは木曜日、同社の新しい中型電気トラックの開始価格が2万8350ドルで「ファゾム」と呼ばれると発表し、自動車メーカーは高価なEVトラック市場に手頃な価格の選択肢を提供したいと考えている。
-目的地および配送料1,595ドルを加えると価格は29,945ドルとなり、自動車メーカーが今後の電気自動車の宣伝で長年約束していた3万ドルの水準に達する。
-フォードは、5人乗りトラックの予約注文は2027年初めに開始されると述べた。顧客への納車は2027年後半に開始される予定である。フォードは、新しいトラックがどのようなものであるかをまだ明らかにしていない。
-ファゾムは、フォードの新しい「ユニバーサル電気自動車」（UEV）プラットフォームに基づいて製造された最初の車両で、同社はモデルe事業部門を年間数十億ドルの赤字から2029年までに損益分岐点に引き上げる鍵となると述べている。
-フォードの広報担当者は電子メールで、「当社は最高のコストプラットフォームを有し、適切な市場に注力していると自信を持っている」と述べた。 「私たちはUEVプラットフォームが戦略的利点になると信じています。そして私たちはそれを機能させる最高のチャンスを持っています。」
-フォードは、UEVプラットフォームの目標は、このシステムで構築された各車両が発売から1年以内に利益を上げ、中国やテスラなどの世界的なEVリーダーとコスト競争力を発揮できるようにすることだと述べた。フォードは、新技術と効率によって車両の価格をガソリン車と同等にするために、プラットフォームの開発に取り組む秘密部隊を置いた。
-フォードは、EV導入が大幅に減速し、米国の消費者がEVを購入するインセンティブがなくなっているにもかかわらず、UEVプラットフォームを推進している。同社は昨年、電気自動車関連のリストラ費用として195億ドルを報告した。
-フォード ファゾムは、ルイビル組立工場で同社の新しい組立ツリー製造プロセスを使用して製造されます。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/ford-fathom-pickup-truck-price.html",
-    publishedAt: "2026-08-06T13:29:39+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "spacex-stock-could-face-further-pressure-3a3cf98b",
-    title: "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-    titleJa: "IPO以来、最初の株式がロック解除されるため、SpaceX株はさらなる圧力に直面する可能性がある",
-    summaryJa: "初期のスペースX投資家は、初期ロックアップ制限が期限切れとなる木曜日に保有株の一部を現金化する最初のチャンスを迎えることになり、すでに6月中旬からの高値から50％以上下落している株価に圧力がかかる可能性がある。9億1,100万株強のSpaceX株が取引可能となり、これは発行済み株式の約7％に相当する。これは同社の記録的なIPOで販売された6億3900万株を上回る。",
-    bodyOriginal: `Early SpaceX investors will have their first chance to cash out a portion of their holdings on Thursday as initial lockup restrictions expire, potentially putting pressure on a stock that's already more than 50% off its high from mid-June.
-Just over 911 million SpaceX shares will be available for trading, representing about 7% of shares outstanding. It's more than the 639 million shares that were sold in the company's record IPO.
-Elon Musk's reusable rocket maker initially saw its stock price shoot up to $150 as it hit the Nasdaq in June before surpassing $225 days later. But it's been a rocky eight weeks since then, with the shares closing on Wednesday at a low of $108.27. The stock plunged after SpaceX said in its first earnings report late Tuesday that capital expenditures were more than twice as high as revenue.
-Greg Martin, co-founder of Rainmaker Securities, told CNBC in an email that the stock's "near-term path" may be more affected by the lockup lifting than any fundamentals or strategy.
-And more float is coming. On Aug. 20, another 319 million shares could unlock, according to the prospectus, followed by roughly 700 million in September and close to that number in October.
-Musk, the world's richest person, is by far the biggest holder of SpaceX stock with more than 6 billion shares. His holdings are locked up until June 2027.
-Regarding the first batch of unlocked shares, analysts at Mizuho noted in a report on Wednesday that, "While the step-up in potential supply is meaningful, we think investors should understand that shares becoming eligible for sale does not mean the full tranche will be offered into the market."
-One investor looking to sell is Jessie Bates III, a safety for the Atlanta Falcons.
-Bates, 29, said he paid about $150,000 in 2022 for shares at a valuation of $127 billion. SpaceX is currently valued at $1.43 trillion, potentially making Bates' stake worth over $1.5 million. In an emailed statement sent by his publicist, Bates said he plans to sell all of his shares to "lock in gains."
-Michael Ledo manages Bates' investments as CEO of the RISE Family Office. Ledo said Bates' portfolio has also included stakes in pre-IPO companies OpenAI, Anthropic, Databricks, Cart.com and Turo. RISE says it focuses on "helping athletes build lasting wealth, become business leaders and build strong families."
-Bates said via his publicist that if anything could convince him to buy again, it may be more strategic acquisitions that could open up growth opportunities. In February, SpaceX merged with Musk's xAI in a deal that valued the combined entity at $1.25 trillion. And prior to the IPO, SpaceX agreed to buy Cursor for $60 billion in a transaction expected to close this quarter.`,
-    bodyJa: `初期のスペースX投資家は、初期ロックアップ制限が期限切れとなる木曜日に保有株の一部を現金化する最初のチャンスを迎えることになり、すでに6月中旬からの高値から50％以上下落している株価に圧力がかかる可能性がある。
-9億1,100万株強のSpaceX株が取引可能となり、これは発行済み株式の約7％に相当する。これは同社の記録的なIPOで販売された6億3900万株を上回る。
-イーロン・マスク氏の再利用ロケットメーカーである同社の株価は、6月にナスダックに上場した際に当初150ドルまで急騰し、その後数日後には225ドルを超えた。しかしそれ以来8週間は波乱万丈で、水曜日の株価は108.27ドルの安値で取引を終えた。スペースXが火曜遅くの最初の決算報告で、設備投資が収益の2倍以上だったと発表したことを受け、株価は急落した。
-レインメーカー・セキュリティーズの共同創設者グレッグ・マーティン氏は電子メールでＣＮＢＣに対し、株価の「短期的な進路」はいかなるファンダメンタルズや戦略よりもロックアップ解除の影響を受ける可能性があると語った。
-そしてさらに浮きが来ます。目論見書によれば、8月20日にさらに3億1,900万株がロック解除される可能性があり、9月には約7億株がロック解除され、10月にはその数に近づく可能性がある。
-世界で最も裕福なマスク氏は、60億株以上を保有するスペースX株の群を抜いて最大の保有者である。彼の保有資産は2027年6月までロックアップされている。
-みずほのアナリストらは水曜のリポートで、ロック解除株式の第１弾について、「潜在的な供給量の増加は意味があるが、株式が売却適格になったからといって全トランシェが市場に売り出されることを意味するものではないことを投資家は理解すべきだと考えている」と水曜日のリポートで指摘した。
-売却を検討している投資家の一人は、アトランタ・ファルコンズのセーフティであるジェシー・ベイツ三世だ。
-29歳のベイツ氏は、評価額1,270億ドルの株式に2022年に約15万ドルを支払ったと語った。スペースXの現在価値は1兆4300億ドルで、ベイツ氏の株式の価値は150万ドルを超える可能性がある。広報担当者が電子メールで送った声明の中で、ベイツ氏は「利益を確定させる」ために全株を売却するつもりだと述べた。
-Michael Ledo は、RISE Family Office の CEO として Bates の投資を管理しています。レド氏によると、ベイツ氏のポートフォリオにはIPO前の企業であるOpenAI、Anthropic、Databricks、Cart.com、Turoの株式も含まれているという。 RISEは、「アスリートが永続的な富を築き、ビジネスリーダーになり、強い家族を築くのを支援する」ことに焦点を当てていると述べている。
-ベイツ氏は広報担当者を通じて、もし何か再購入を説得できるとしたら、それは成長の機会を開く可能性のある、より戦略的な買収かもしれないと述べた。 2月、スペースXはマスク氏のxAIと合併し、合併後の企業価値は1兆2500億ドルとなった。そしてIPOに先立って、SpaceXは今四半期に完了すると予想される取引でCursorを600億ドルで買収することに同意した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-    publishedAt: "2026-08-06T13:20:54+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "car-washes-and-vape-shops-can-still-spon-8a4fbd63",
-    title: "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-    titleJa: "洗車店や電子タバコ店はビザ変更後も熟練外国人労働者のスポンサーになれる",
-    summaryJa: "洗車店や電子タバコ店はビザ変更後も熟練外国人労働者のスポンサーになれる- 公開されました",
-    bodyOriginal: `Car washes and vape shops can still sponsor skilled foreign workers despite visa changes
-- Published
-More than 1,900 small high street businesses including mini-marts, vape shops and car washes are licensed to sponsor foreign workers under a specialist scheme intended for high-earning individuals despite visa rules being tightened, BBC Verify has found.
-The Home Office scheme allows registered employers to recruit workers from overseas who meet a certain skill level. The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700.
-But a year on from the rule change, BBC Verify has found more than 1,500 grocery and convenience stores, 150 taxi operators, 100 barber shops, and dozens of car washes and vape shops are still on the register and able to sponsor people to apply for visas.
-More than 100 of those businesses were added to the skilled worker sponsorship list after the rules were tightened. Being on the register does not mean applications for individual visas would be approved.
-Health Secretary Yvette Cooper said on Thursday the government will "make sure that the rules are being properly enforced because we cannot have employers getting round the rules or finding different ways to deviate".
-Home Secretary Shabana Mahmood ordered an urgent review into the presence of vape shops, barbers and car washes on the skilled worker sponsor register two months ago, following concerns over the "potential misuse of the system". The Home Office said at the time that any businesses seeking to abuse the system would have their licences revoked.
-A Home Office spokesperson said: "We have raised the skilled worker threshold and over 100 occupations are now ineligible for new skilled worker visas."
-It is understood some of the companies that joined the register after the rules changed may have applied before they took effect. Some companies may have also remained on the register because they were approved before July 2025 or are sponsoring workers who were already in the UK.
-There are more than 120,000 businesses with licences to sponsor skilled workers. The skilled worker scheme was introduced after Brexit for employers to recruit workers after EU free movement ended. Smaller firms must pay a £611 fee to apply to join the register while larger businesses, such as those with more than 50 staff, pay a fee of £1,682. Anyone can be visited by the UK Visas and Immigration service during the application process.
-Until July last year, someone being hired from abroad could qualify for sponsorship if their qualifications met an A-Level or equivalent standard, as long as they were paid at least £38,700 in most cases. Since the rule change, non-graduate professions, such as shop managers, are no longer eligible to apply. There are also higher English-language skill requirements that were introduced in January this year.
-The Home Office said there were 68,067 skilled worker visas granted in the 12 months to March this year - 29,745 to main applicants and 38,322 to their dependants - which is 30% lower than the year before. IT professionals were the most common type of people to be granted the visas, followed by those people working in finance, while the fall in approvals was mostly attributed to those in food preparation and hospitality trades no longer qualifying for the scheme.
-Jobs including sales and retail assistants, taxi drivers and chauffeurs are currently listed by the government as ineligible for skilled worker visas, but there are some exemptions, such as bricklayers, carpenters or nursing assistants and other occupations where there is a shortage in the UK.
-The Home Office revoked 3,299 licences in 2025 compared with 347 in 2023. Its register does not state how many certificates of sponsorship or visas have been issued for each business or what type of role it has hired for, but Home Office guidance states firms must offer genuine jobs that meet skill and salary rules, and only sponsor workers for eligible roles.
-As businesses are only listed by name, it is not always clear what industry a company operates within. BBC Verify identified the more than 1,900 small high-street businesses that had retained a sponsorship licence by matching their names and locations to Companies House records and Google business listings to identify whether the mini marts, car washes and other small operations were on the list, and by analysing company names.
-Around 1,700 of those were in England, more than 140 were in Scotland, over 80 were in Wales and just two were in Northern Ireland.
-Separately, BBC Verify found 60 businesses on the register that had been fined for employing illegal workers between April 2024 and December 2025. They had been fined a combined £2.5m.
-A Home Office spokesperson said: "Illegal working will not be accepted, and businesses who face two or more illegal working penalties of up to £60,000, or fail to pay a penalty the first time, will have their license to hire workers revoked."
-Speaking about the visa rule change, Dr Madeleine Sumption, director of the University of Oxford's Migration Observatory, said that if businesses were on the register before the rules changed, they can continue to employ people they had already sponsored. "But they can't now bring in a new person to do those jobs."
-Toby Way, a lawyer at WestBridge Business Immigration which helps businesses apply to be sponsors, told BBC Verify that while most sponsorship approvals are legitimate, "We come across a lot of exaggeration and some downright lying about sponsored roles".
-"Hotels and restaurants have been hit massively by the rule changes. They're now unable to sponsor a chef or a manager, but they might claim they need someone for marketing or book-keeping, because those roles are on the temporary shortage list," he said.
-"We know the Home Office looks at the finances of the businesses now and whether their revenue or profit means they can pay the required salary."
-Immigration lawyer Joanna Hunt of DAC Beachcroft said that it would be difficult for a high street shop to justify sponsorship at the degree level.
-"Subject to a few exceptions, a job needs to be skilled to 'degree level' to allow a business to sponsor a worker to fill it and the Home Office will consider if the role fits with the type of business the sponsor operates. A high street shop may find this requirement difficult to demonstrate."
-Additional reporting by Rob England and Libby Rogers
-Get in touch
-Do you have any views, comments or questions about this story?`,
-    bodyJa: `洗車店や電子タバコ店はビザ変更後も熟練外国人労働者のスポンサーになれる
-- 公開されました
-BBCベリファイの調査によると、ビザ規則が厳格化されているにもかかわらず、ミニマート、電子タバコ店、洗車場などの小規模な大通り店1,900社以上が、高所得者向けの専門制度に基づいて外国人労働者のスポンサーとして認可されている。
-内務省制度により、登録された雇用主は一定のスキルレベルを満たす海外からの労働者を採用することができます。 2025年7月に規則が強化され、この制度の対象者は主に少なくとも4万1700ポンド以上を稼ぐ大学院レベルの従業員に限定された。
-しかし、規則変更から1年が経ち、BBCベリファイは、1,500以上の食料品店とコンビニエンスストア、150のタクシー会社、100の理髪店、数十の洗車店と電子タバコ店が依然として登録されており、人々のビザ申請を後援できることを発見した。
-規則が強化された後、これらの企業のうち100社以上が熟練労働者スポンサーリストに追加された。登録されているからといって、個人のビザ申請が承認されるわけではありません。
-イベット・クーパー保健長官は木曜日、「雇用主が規則を回避したり、別の逸脱方法を見つけたりすることは許されないため、政府は規則が適切に執行されていることを確認する」と述べた。
-シャバナ・マフムード内務大臣は、「システムの悪用の可能性」に対する懸念を受け、2か月前に熟練労働者のスポンサー登録に登録されている電子タバコ店、理髪店、洗車店の存在を緊急に調査するよう命じた。内務省は当時、このシステムを悪用しようとする企業はライセンスを取り消されるだろうと述べていた。
-内務省の報道官は「熟練労働者の基準を引き上げたため、現在100以上の職業が新たな熟練労働者ビザの資格を失っている」と述べた。
-規則変更後に登録した企業の中には、規則が発効する前に申請していた可能性があると考えられている。一部の企業は、2025 年 7 月より前に承認されていたため、またはすでに英国に滞在していた労働者のスポンサーとなっているため、登録を続けている可能性があります。
-熟練労働者をスポンサーするライセンスを持つ企業は 120,000 社以上あります。熟練労働者制度は、EUの自由な移動が終了した後に雇用主が労働者を採用するために、Brexit後に導入された。小規模企業は登録申請に £611 の手数料を支払わなければなりませんが、50 人以上のスタッフを抱える企業などの大規模企業は £1,682 の手数料を支払わなければなりません。申請手続き中に誰でも英国ビザ・移民局を訪問することができます。
-昨年7月までは、海外から雇用された人でも、資格がAレベルまたは同等の基準を満たしていれば、ほとんどの場合少なくとも3万8700ポンド以上の報酬が支払われていれば、スポンサーシップを受ける資格を得ることができた。ルール変更以降、ショップマネージャーなどの新卒以外の職種は応募資格がなくなった。今年1月に導入された、より高度な英語スキル要件もあります。
-内務省は、今年3月までの12か月間で6万8,067件の熟練労働者ビザが発給され、その内訳は主な申請者に2万9,745件、その扶養家族に3万8,322件で、前年より30％減少したと発表した。ビザを取得する最も一般的なタイプの人々はIT専門家で、次に金融関係の人々が続いたが、承認の減少は主に、この制度の資格を失った食品調理や接客業に従事する人々に起因していた。
-政府は現在、販売員や小売店アシスタント、タクシー運転手、運転手などの職種を熟練労働者ビザの対象外としているが、レンガ職人、大工や看護助手、その他英国で人材が不足している職種などは例外とする。
-内務省は、2023年には347件だったのに対し、2025年には3,299件のライセンスを取り消した。登録簿には、企業ごとにスポンサーシップやビザの証明書が何枚発行されたか、またどのような職種に雇用したかは記載されていないが、内務省のガイダンスでは、企業はスキルと給与の規定を満たす本物の仕事を提供し、適格な職種の労働者のみをスポンサーしなければならないと規定されている。
-企業は名前のみでリストされているため、企業がどのような業界で事業を展開しているかは必ずしも明らかではありません。 BBC Verifyは、スポンサーライセンスを保持していた1,900社以上の小規模大規模ビジネスを特定した。その名前と所在地を企業庁の記録やGoogleのビジネスリストと照合し、ミニマート、洗車場、その他の小規模事業がリストに載っているかどうかを特定し、企業名を分析した。
-そのうち約1,700人がイングランド、140人以上がスコットランド、80人以上がウェールズ、北アイルランドはわずか2人だった。
-これとは別に、BBC Verifyは、2024年4月から2025年12月までの間に不法労働者を雇用したとして罰金を科された企業60社を登録簿上で発見し、合わせて250万ポンドの罰金を科せられた。
-内務省の報道官は、「不法労働は認められず、最大6万ポンドの不法労働の罰金を2回以上課せられる企業、または最初の罰金を支払わなかった企業は労働者雇用許可を取り消される」と述べた。
-オックスフォード大学移民観測所所長のマデリーン・サンプション博士は、ビザ規則変更について、規則変更前に企業が登録されていた場合、すでにスポンサーとなっていた人材を雇用し続けることができると述べた。 「しかし、彼らは今、それらの仕事をするために新しい人を雇うことはできません。」
-企業のスポンサー申請を支援するウェストブリッジ・ビジネス・イミグレーションの弁護士、トビー・ウェイ氏はBBCベリファイに対し、スポンサーシップの承認のほとんどは正当なものだが、「スポンサーの役割については誇張が多く、中には全くの嘘をついているものに遭遇する」と語った。
-「ホテルやレストランは規則変更で大打撃を受けている。現在、シェフやマネージャーのスポンサーとなることはできないが、マーケティングや簿記の人材が必要だと主張するかもしれない。なぜなら、それらの役割は一時的な不足リストに載っているからだ」と同氏は語った。
-「内務省が現在企業の財務状況を調査し、その収益や利益が必要な給与を支払うことができるかどうかを調べていることは承知しています。」
-DACビーチクロフトの移民弁護士ジョアンナ・ハント氏は、大通りの店が学位レベルでスポンサーシップを正当化するのは難しいだろうと述べた。
-「いくつかの例外はあるものの、企業がスポンサーとなる労働者をその職に就かせるためには、その仕事が『学位レベル』まで熟練している必要があり、内務省はその役割がスポンサーが運営するビジネスの種類に適合するかどうかを検討することになる。大通りの店では、この要件を証明するのが難しいと感じるかもしれない。」
-ロブ・イングランドとリビー・ロジャースによる追加レポート
-連絡する
-この話に関して何かご意見、ご意見、ご質問はありますか？`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-06T11:06:26+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dba/live/96af7fb0-916e-11f1-b8ee-9b3c26ad07bb.jpg",
-    readTime: 7,
   },
 ];
 
