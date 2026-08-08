@@ -15,6 +15,210 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "child-among-three-killed-in-russian-miss-dc4e8ebc",
+    title: "Child among three killed in Russian missile attacks near Kyiv",
+    titleJa: "キエフ近くのロシアのミサイル攻撃で死亡した3人のうちの子供",
+    summaryJa: "キエフ近くのロシアのミサイル攻撃で死亡した3人のうちの子供- 公開されました",
+    bodyOriginal: `Child among three killed in Russian missile attacks near Kyiv
+- Published
+At least three people, including a child, have been killed in overnight Russian attacks near the Ukrainian capital Kyiv, a local official said.
+In the early hours of Saturday missiles hit east of the capital and witnesses reported hearing powerful explosions just days after strikes across Ukraine killed 21 people.
+The ballistic missile strikes killed three and wounded another three, the head of the regional military administration Timur Tkachenko said, adding that falling debris damaged apartment buildings and cars, while a fire broke out at a separate building.
+Emergency crews were also fighting fires at a building and fuel tank in Kyiv, Mayor Vitaly Klitchko wrote on Telegram.
+Ukraine's state emergency service DSNS shared photos showing garages, a business and a building on fire in Kyiv, adding: "The number of victims is being clarified."
+President Volodymyr Zelensky has arrived in the Serbian capital Belgrade for his first visit. He is due to meet with Serbian President Aleksandar Vučić to discuss economic ties, security issues and relations with the European Union.
+Zelensky is trying to build wider support for Ukraine, but Vučić has refused to apply sanctions to Russia.
+Serbia is trying to join the EU and has provided aid to Ukraine and promised to help it rebuild after the war.
+Earlier in the week, Zelensky said delays in receiving anti-ballistic systems from partners leads to "horrific casualties and destruction", saying that having a stronger interceptor capability "could have saved lives" in recent deadly assaults.
+The president later said the supply of interceptors from allies had been "significantly reduced" this year.
+It came after Ukraine hit two oil refineries deep inside Russia along with Moscow-linked vessels in the Black Sea, which Zelensky said was intended to limit oil revenues used by Russia to "finance" its war in Ukraine.
+Recent mediation talks have faltered, leading to an escalation of attacks between both sides.
+Related topics
+- Published1 day ago
+- Published1 day ago`,
+    bodyJa: `キエフ近くのロシアのミサイル攻撃で死亡した3人のうちの子供
+- 公開されました
+地元当局者によると、ウクライナの首都キエフ近郊で夜間ロシアによる攻撃があり、子供を含む少なくとも３人が死亡した。
+土曜日の早朝、ミサイルが首都の東に着弾し、ウクライナ全土での攻撃で21人が死亡した数日後に、目撃者らは強力な爆発音を聞いたと報告した。
+弾道ミサイルの攻撃により3人が死亡、さらに3人が負傷したと地域軍事政権のティムール・トカチェンコ長官は述べ、落下した破片によりアパートや車が損傷し、別の建物で火災が発生したと付け加えた。
+ビタリー・クリチコ市長はテレグラムに、キエフの建物と燃料タンクでも救急隊が消火活動を行っていると書いた。
+ウクライナの国家緊急サービスDSNSは、キエフで火災が起きているガレージ、店舗、建物を写した写真を共有し、「犠牲者の数は明らかにされている」と付け加えた。
+ヴォロディミル・ゼレンスキー大統領がセルビアの首都ベオグラードに初訪問した。同氏はセルビアのアレクサンダル・ブチッチ大統領と会談し、経済関係、安全保障問題、欧州連合との関係について話し合う予定だ。
+ゼレンスキー氏はウクライナへの幅広い支持を集めようとしているが、ブチッチ氏はロシアへの制裁を拒否している。
+セルビアはEUへの加盟を目指しており、ウクライナに援助を提供し、戦後の復興を支援すると約束している。
+ゼレンスキー大統領は今週初め、パートナーからの対弾道システムの受け取りの遅れが「恐ろしい死傷者と破壊」につながると述べ、より強力な迎撃能力があれば最近の致命的な攻撃で「命を救えた可能性がある」と述べた。
+大統領はその後、同盟国からの迎撃ミサイルの供給が今年「大幅に減少した」と述べた。
+これは、ウクライナが黒海でロシア深部の2つの製油所とロシアと関係のある船舶を攻撃した後に起きたもので、ゼレンスキー大統領は、これはロシアがウクライナ戦争の「資金調達」に使用する石油収入を制限することが目的だと述べた。
+最近の調停交渉は行き詰まり、双方の攻撃が激化している。
+関連トピック
+- 1 日前に公開
+- 1 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-08T06:12:56+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f243/live/91487a70-92dd-11f1-87f4-4f87722fb492.jpg",
+    readTime: 2,
+  },
+  {
+    id: "inside-the-startup-drone-maker-powering-e0d9a038",
+    title: "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+    titleJa: "ウクライナの集中攻撃キャンペーンを支援する新興ドローンメーカーの内部",
+    summaryJa: "ファイア・ポイントのイリーナ・テレク最高経営責任者（CEO）は、ウクライナは外交を手の届く範囲に持っていくためには軍事力が不可欠であることを「苦労して学んだ」と述べた。",
+    bodyOriginal: `The chief executive of Ukraine's leading arms company says Kyiv has "learned the hard way" that military strength is an essential precursor to diplomacy, describing deep strikes into Russian territory as a core tenet of the country's pressure campaign.
+Missile and drone maker Fire Point, which says it currently facilitates more than 60% of Ukraine's so-called "long-range sanctions," has scaled exponentially since being founded in response to Russia's full-scale invasion in 2022.
+The defense-tech startup produced around 200 drones that year, a feat CEO Iryna Terekh described as a "huge achievement."
+Since then, the Kyiv-headquartered startup has swelled from three founding members to more than 7,000 employees and Terekh says it "looks realistic" to expect the team to produce more than 100,000 drones by year-end.
+"We have to understand that we live, unfortunately, in the same timeline with a completely barbarous, imperialistic neighbor and we can expect whatever," Fire Point CEO Iryna Terekh told CNBC by video call.
+"Unfortunately, I was in that naïve state of mind before the full-scale invasion that we will find a way to de-escalate the situation and find a diplomatic way to deal with this, but from what we can observe, this is not something that is possible."
+Russia's Foreign Ministry did not respond to CNBC's request for comment. Russian President Vladimir Putin has previously framed the conflict as a pursuit to reverse Russia's post-Soviet retreat and revive Moscow's superpower status.
+From Siberia to occupied Crimea, Ukraine's drone campaign appears to have revived hopes that the war could be shifting in Kyiv's favor, although commentators have warned that efforts to raise the cost of the conflict for Russia risk further escalation.
+Some analysts have also questioned whether Ukrainian drones alone can force Putin to the negotiating table, with the Atlantic Council's Christopher Isajiw suggesting that progress toward peace may only become possible when continuing the war becomes more costly for the Russian president than ending it.
+Ukraine calls for ballistic missile interceptors
+Ukraine has stepped up attacks on Russia's Amazon-style retail giant Wildberries in recent weeks, seeking to squeeze a critical piece of Russia's consumer economy and create a new pressure point for Putin.
+Russian forces, meanwhile, have increased the number of missile strikes on Ukrainian cities, likely seeking to exploit Kyiv's shortage of ballistic missile interceptors.
+Known for flagship products such as the FP-1 series of deep-strike drones and the FP-5 Flamingo cruise missile, Fire Point's CEO said the company is doing whatever it can to support Ukraine's deep-strike ambitions.
+"I'm very proud and I feel a huge responsibility to be a big part of this. We have to understand that the whole war doctrines are changing live in the moment," Terekh said.
+President Volodymyr Zelenskyy singled out Fire Point as putting Siberia "within reach of Ukrainian precision" following an attack on a major oil refinery in the Russian city of Omsk last month.
+The attack was seen as further evidence of Kyiv's long-range drone capabilities in the run-up to a crunch NATO summit in Turkey, where U.S. President Donald Trump told Zelenskyy that the U.S. would allow Ukraine to produce ballistic missile interceptors.
+The U.S. president has since cast doubt on plans to allow Kyiv to manufacture Patriots domestically and in Europe, however, raising alarm among Ukrainian officials who fear a winter assault could pose the country's toughest challenge of the war yet.
+Zelenskyy has repeatedly called on international partners to expedite the supply of ballistic missile interceptors to Ukraine, saying that the technology could have saved the lives of those killed in Kyiv on Aug. 5.
+Fire Point aims to produce a ballistic missile interceptor for a fraction of the cost of a U.S.-made Patriot. However, Terekh said these efforts require the company to achieve in a few years a program that usually takes two to three decades.
+Read more
+A hold-up in European funding has also prevented the company from maximizing production of its Flamingo cruise missile, Terekh said.
+"The production of Flamingo is not running at full power [at] the moment because we were waiting for the funds for a European loan to come in but we expect to ramp it up to expected maximum capabilities that we named when we started the Flamingo production."
+Fire Point: Europe's red tape is a strategic threat
+Terekh has previously compared European bureaucracy to the security threat posed by Russian forces.
+"Probably I put a little bit too much drama in this phrase, but I really wanted it to be heard because we need to understand that whatever Fire Point achieved, and as well as other Ukrainian manufacturers, would be never possible in any [other] European country, simply because of bureaucracy," Terekh said.
+"You take the same people, the same money, the same factories, they would simply not be working in Europe for one simple reason, because of the hold of regulations and I would love to inspire European politicians to review how the bureaucracy should work under such a huge threat that we are all facing now," she continued.
+"When we compare these two threats, so the Russians and the bureaucracy, with the Russians you can fight with drones and missiles but how do you fight with bureaucracy when you cannot receive a paper that you need very much to do some job?"
+A spokesperson for the European Commission, the EU's executive arm, declined to comment.
+Alongside diplomatic, financial, military and humanitarian support for Ukraine, the EU recently introduced its largest sanctions package against Russia in four years, targeting almost 220 individuals and entities as it seeks to squeeze the country's economy and its capacity to prolong its full-scale invasion.
+"Ukrainians were pretty imaginative in trying an alternative strategy," Alex Kolyandr, director for Europe at the Eurasia Group, a consulting firm, told CNBC.
+"I'm not entirely sure it was the right decision to strike Russian oil facilities in March and April … but then I think it was extremely smart to target refining facilities and the main retail company," Kolyandr said, referring to Kyiv's attacks on Wildberries warehouses.
+"I understand there was a twofold aim in all that. First of all, to force some economic damage and then to broadcast the message that this is not some kind of faraway colonial war, but it is something much closer to home. And honestly, they are quite successful in that," he added.`,
+    bodyJa: `ウクライナの大手兵器会社の最高経営責任者は、キエフは軍事力が外交の不可欠な先駆けであることを「苦労して学んできた」と述べ、ロシア領土への深部攻撃が同国の圧力キャンペーンの中核的理念であると説明した。
+ミサイル・無人機メーカーのファイア・ポイントは、現在ウクライナのいわゆる「長距離制裁」の60％以上を促進しているとしているが、2022年のロシアの全面侵攻に対応して設立されて以来、飛躍的に規模を拡大した。
+防衛技術の新興企業である同社は同年、約200機のドローンを生産しており、CEOのイリーナ・テレク氏はこれを「大きな成果」と評した。
+それ以来、キエフに本社を置くこのスタートアップは、創業メンバー 3 名から従業員 7,000 名以上にまで拡大し、チームが年末までに 100,000 機以上のドローンを生産すると予想するのが「現実的に見える」とテレク氏は言う。
+「残念なことに、私たちは完全に野蛮で帝国主義的な隣国と同じ時間軸の中で生きており、何が起こるかは予想できるということを理解しなければなりません」とファイア・ポイントの最高経営責任者（CEO）イリーナ・テレク氏はビデオ電話でCNBCに語った。
+「残念ながら、本格的な侵攻が始まる前、私は状況を沈静化させる方法を見つけ、これに外交的に対処する方法を見つけるだろうという素朴な心の状態にありました。しかし、私たちが観察できる限り、これは不可能なことではありません。」
+ロシア外務省はCNBCのコメント要請に応じなかった。ロシアのウラジーミル・プーチン大統領は以前、この紛争をソ連崩壊後のロシアの後退を逆転させ、モスクワの超大国の地位を復活させるための目的であると位置づけていた。
+シベリアから占領下のクリミアに至るまで、ウクライナの無人機作戦により、戦争がキエフに有利に推移する可能性があるという期待が再び高まっているようだが、解説者らは、ロシアにとっての紛争費用を捻出する取り組みはさらなる激化の危険があると警告している。
+一部のアナリストはまた、ウクライナの無人機だけでプーチン大統領を交渉のテーブルにつかせることができるか疑問を呈しており、大西洋評議会のクリストファー・イサジウ氏は、ロシア大統領にとって戦争を終わらせるよりも戦争継続の方が高くつく場合にのみ和平への進展が可能になる可能性があると示唆している。
+ウクライナ、弾道ミサイル迎撃ミサイルの配備を呼びかけ
+ウクライナはここ数週間、ロシアのアマゾン型小売大手ワイルドベリーズへの攻撃を強化し、ロシアの消費経済の重要な部分を圧迫し、プーチン大統領にとって新たな圧力点を生み出そうとしている。
+一方、ロシア軍はウクライナの都市に対するミサイル攻撃の数を増やしており、おそらくキエフの弾道ミサイル迎撃ミサイルの不足を利用しようとしている。
+FP-1シリーズのディープストライク無人機やFP-5フラミンゴ巡航ミサイルなどの主力製品で知られるファイアポイントのCEOは、同社がウクライナのディープストライクの野望を支援するためにできる限りのことをしていると述べた。
+「私はこのことに大きな役割を果たせることを非常に誇りに思っており、また大きな責任を感じています。私たちは戦争の原則全体がこの瞬間に変化していることを理解する必要があります」とテレク氏は語った。
+ヴォロディミル・ゼレンスキー大統領は、先月ロシアの都市オムスクにある大手製油所が攻撃されたことを受け、シベリアが「ウクライナの精密射程圏内」にあるとしてファイアーポイントを名指しした。
+この攻撃は、トルコでの緊迫した北大西洋条約機構（NATO）首脳会議に向けて、キエフの長距離無人機能力を示す新たな証拠とみなされ、そこでドナルド・トランプ米大統領はゼレンシキーに対し、米国はウクライナが弾道ミサイル迎撃ミサイルの製造を許可するだろうと語った。
+その後、米国大統領はキエフの国内および欧州でのペイトリオットの製造を許可する計画に疑問を投げかけているが、冬の襲撃が同国にとってこれまでの戦争で最も厳しい挑戦となる可能性を懸念するウクライナ当局者の間で警戒感が高まっている。
+ゼレンシキー大統領は、この技術があれば8月5日にキエフで殺害された人々の命を救えた可能性があると述べ、ウクライナへの弾道ミサイル迎撃ミサイルの供給を迅速化するよう国際パートナーに繰り返し要請してきた。
+ファイア・ポイントは、米国製パトリオットの数分の１のコストで弾道ミサイル迎撃ミサイルを製造することを目指している。しかしテレク氏は、これらの取り組みでは通常20～30年かかるプログラムを数年で達成する必要があると述べた。
+続きを読む
+テレク氏は、欧州資金の滞りも同社のフラミンゴ巡航ミサイルの生産を最大化することを妨げていると述べた。
+「ヨーロッパからの融資のための資金が入るのを待っていたため、現時点ではフラミンゴの生産はフルパワーで稼働していませんが、フラミンゴの生産を開始したときに指定した予想最大能力まで増強する予定です。」
+ファイヤーポイント: ヨーロッパのお役所仕事は戦略的脅威である
+テレフ氏は以前、欧州の官僚制をロシア軍がもたらす安全保障の脅威に例えたことがある。
+「おそらく私はこの言葉に少しドラマを盛り込みすぎたかもしれないが、私はこの言葉を聞いてもらいたかった。ファイア・ポイントや他のウクライナのメーカーが達成したものは何であれ、単に官僚主義のせいで、他のヨーロッパの国では決して不可能だということを我々は理解する必要があるからだ」とテレク氏は語った。
+「同じ人材、同じお金、同じ工場を使うのであれば、彼らは単純な理由でヨーロッパでは働かないでしょう。規制が続いているからです。私はヨーロッパの政治家たちに、私たち全員が現在直面しているこのような巨大な脅威の下で官僚制度がどのように機能するべきかを見直すよう促したいと思っています。」と彼女は続けた。
+「この 2 つの脅威を比較すると、ロシア人と官僚制、ロシア人とは無人機やミサイルで戦うことができますが、仕事をするために非常に必要な書類を受け取れない場合、どうやって官僚制と戦うのでしょうか?」
+EUの執行機関である欧州委員会の報道官はコメントを控えた。
+ウクライナへの外交、財政、軍事、人道支援と並んで、EUは最近、同国の経済を圧迫し、本格的な侵略を延長する能力を圧迫しようとしているため、約220の個人や団体を対象とした、ここ4年間で最大規模のロシアに対する制裁措置を導入した。
+コンサルティング会社ユーラシア・グループの欧州担当ディレクター、アレックス・コリャンドル氏はＣＮＢＣに対し、「ウクライナ人は代替戦略を試す上でかなり想像力があった」と語った。
+「3月と4月にロシアの石油施設を攻撃したことが正しい決断だったのか完全には確信が持てない…しかし、精製施設と大手小売会社を標的にしたのは極めて賢明だったと思う」とコリャンドル氏はキエフによるワイルドベリー倉庫攻撃について言及した。
+「そのすべてには二重の目的があったことは理解している。まず第一に、ある程度の経済的損害を強いること、そして、これはある種の遠い植民地戦争ではなく、はるかに近いものであるというメッセージを放送することだ。そして正直に言って、彼らはその点で非常に成功している」と彼は付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+    publishedAt: "2026-08-08T05:21:12+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "i-ran-because-i-knew-i-would-die-russia-e094686f",
+    title: "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+    titleJa: "「死ぬと思って逃げた」：ロシアの無人機がウクライナの医療従事者を狙う",
+    summaryJa: "「死ぬと思って逃げた」：ロシアの無人機がウクライナの医療従事者を狙う- 公開されました",
+    bodyOriginal: `'I ran because I knew I would die': Russian drones target medics in Ukraine
+- Published
+Inna Lytvynenko always puts on her bright orange body armour when she's out on an emergency call.
+Last June, the paramedic was sent out in Kherson to treat a woman injured in a Russian drone attack, when an FPV drone smashed into her ambulance.
+Seconds later, she heard a buzzing sound in the sky. Another drone was flying straight towards her, fast.
+"I panicked. I grabbed my trauma bag and started running," she recalls. "I shouted and screamed. I knew that if I stopped, I would die."
+After chasing her for about 10 minutes, the drone flew away. Lytvynenko was quickly picked up by police.
+But what she called the "safari hunting" continued. Drones hit two more vehicles that arrived to take the injured woman to hospital. Hours later, a third police car finally managed to get her out.
+After another "safari" attack earlier this week, Ukraine's President Volodymyr Zelensky called to put greater pressure on Russia in order to stop deliberate "hunting attacks" on civilians.
+Hospitals and ambulances in Ukraine are increasingly coming under Russian drone and missile attack, even though, according to the international rules of war known as the Geneva Conventions, they must be protected by all parties to the conflict.
+"This is a new normality, which should not be the normality," says Dr Jarno Habicht, the World Health Organization's (WHO) representative in Ukraine.
+The WHO has registered 3,118 attacks on healthcare since the start of the Russian invasion in February 2022. "That's two cases per day," Habicht says.
+Since 2023 the number of attacks on healthcare has steadily grown. In 2024 it went up by 30%. Last year there was another 20% increase. This trend is expected to continue this year.
+A recent Doctors Without Borders (MSF) report, external says that Russia systematically and often deliberately targets Ukrainian medical facilities. The frequency of attacks on healthcare suggests that they are "a sustained feature of the war rather than an episodic consequence of large scale offensives," the report said.
+Last month Russian missiles hit a hospital in Kherson, badly damaging the building and killing one doctor.
+Hospital director Olena Tymoshenko believes it was a targeted attack. "It wasn't just one missile, there were three missiles that hit the hospital within a few minutes from each other. It cannot be an accident," she told the BBC.
+Moscow also often uses a "double-tap" tactic, when they target the same location twice within a short period of time. Many believe that the second attack is deliberately aimed at first responders who arrive at the scene of the initial strike to rescue survivors.
+During a recent massive Russian air attack on Kyiv, seven people were killed, including a police officer and a volunteer, after a second strike on the same location.
+And lately Russian forces have been also targeting warehouses of humanitarian organisations. Last month alone, warehouses of three UN agencies, including the WHO, were damaged during air strikes. According to Habicht, the organisation shares coordinates of its facilities with both Moscow and Kyiv specifically in order to protect them from strikes.
+While missile and drone strikes can be indiscriminate, first-person view (FPV) drone strikes are almost always intentional. A drone pilot can see the target in a live feed from the drone's camera. So when it hits an ambulance, it has to be on purpose, says Robin Meldrum, MSF country coordinator in Ukraine.
+Dr Inna Lytvynenko says that she was wearing a uniform identifying her as a medical worker. The ambulance was also clearly marked. So, she believes the drone operator consciously chose to target them.
+According to the WHO, strikes on ambulances make up 20% of all attacks on Ukraine's healthcare system, which suggests these are part of a calculated strategy.
+The result of such sustained attacks is that the civilian population close to the frontline are getting increasingly cut off from health services.
+The majority of people left in these areas are elderly people who often chronic diseases. Even if they survive air strikes and shelling, without medication and occasional check-ups they face a slow death.
+And ambulances may not be able to reach them if the risks are high.
+Lytvynenko and her colleagues constantly monitor social media to learn about threats.
+"It's really scary," she says. "Every time when we take a patient to hospital, we just pray. These drones can appear from anywhere, they can even get through anti-drone nets."
+In some cases, police are dispatched instead of ambulances.
+Since the danger zone where FPV drones operate is growing – as both Ukraine and Russia develop drones with greater and greater ranges – mobile clinics run by various health organisations have had to shift their operations further and further away from the frontline.
+"Two years ago, we could go up to 5-8km (3.1-5 miles) from the frontline," says Meldrum. "Now we won't go anywhere within 30km and this distance keeps growing."
+Over the past 18 months, MSF stopped regular visits to about 80 villages near the front where they had provided health services, says Meldrum. And recently it has paused ambulance services in Sloviansk, a major city in eastern Ukraine.
+"It doesn't feel like we're protected in this environment, and in the way that Russia is conducting the war," Meldrum says.
+"We don't feel that the rules of war are being respected."
+Related topics
+- Published2 days ago`,
+    bodyJa: `「死ぬと思って逃げた」：ロシアの無人機がウクライナの医療従事者を狙う
+- 公開されました
+インナ・リトビネンコさんは、緊急通報に出かけるときは常に明るいオレンジ色の防弾チョッキを着ています。
+昨年6月、ヘルソンではFPVドローンが救急車に衝突し、ロシアのドローン攻撃で負傷した女性を治療するために救急隊員が出動した。
+数秒後、空でブンブンという音が聞こえました。別のドローンが彼女に向かってまっすぐに高速で飛行していました。
+「私はパニックになりました。トラウマバッグをつかんで走り始めました」と彼女は思い出す。 「私は叫び、叫んだ。立ち止まれば死ぬだろうとわかっていた。」
+10分ほど追いかけた後、ドローンは飛び去った。リトビネンコさんはすぐに警察に連行された。
+しかし、彼女が「サファリ狩り」と呼んだものは続いた。ドローンは、負傷した女性を病院に搬送するために到着したさらに2台の車両を攻撃した。数時間後、3台目のパトカーがようやく彼女を救出した。
+今週初めに新たな「サファリ」攻撃があったことを受け、ウクライナのウォロディミル・ゼレンスキー大統領は、民間人に対する意図的な「狩猟攻撃」を阻止するため、ロシアへの圧力を強めるよう呼びかけた。
+ジュネーブ条約として知られる国際戦争規則によれば、紛争当事者全員が病院や救急車を保護しなければならないにもかかわらず、ウクライナの病院や救急車はロシアの無人機やミサイル攻撃にさらされることが増えている。
+「これは新たな常態であり、常態であるべきではない」と世界保健機関（WHO）のウクライナ代表であるヤルノ・ハビヒト博士は言う。
+2022年2月にロシア侵攻が始まって以来、WHOは医療機関への攻撃を3,118件記録している。「これは1日当たり2件だ」とハビヒト氏は言う。
+2023 年以降、医療に対する攻撃の数は着実に増加しています。 2024年には30％上昇した。昨年はさらに 20% 増加しました。この傾向は今年も続くと予想されます。
+国境なき医師団（MSF）の最近の報告書によれば、ロシアは組織的かつ頻繁に意図的にウクライナの医療施設を標的にしているという。医療に対する攻撃の頻度は、それが「大規模な攻撃の一時的な結果ではなく、戦争の持続的な特徴」であることを示唆していると報告書は述べた。
+先月、ロシアのミサイルがヘルソンの病院を攻撃し、建物に大きな損傷を与え、医師１人が死亡した。
+病院長のオレナ・ティモシェンコ氏は、これは標的型攻撃だったと考えている。 「ミサイルは1発だけではなく、数分以内に3発のミサイルが互いに距離を置いて病院を襲った。事故ではありえない」と彼女はBBCに語った。
+モスクワはまた、短期間に同じ場所を2回狙う「ダブルタップ」戦術もよく使う。多くの人は、二度目の攻撃は生存者を救出するために最初の攻撃現場に到着した初期対応者を意図的に狙っていると信じている。
+キエフに対する最近のロシアの大規模空襲では、同じ場所への二度目の空爆で警察官とボランティアを含む７人が死亡した。
+そして最近、ロシア軍は人道団体の倉庫も標的にしている。先月だけでも、WHOを含む3つの国連機関の倉庫が空爆で被害を受けた。ハビヒト氏によると、この組織は特にストライキからモスクワとキエフを守るために、その施設の座標を両国と共有しているという。
+ミサイルやドローンによる攻撃は無差別に行われる可能性がありますが、一人称視点 (FPV) によるドローンによる攻撃は、ほとんどの場合、意図的なものです。ドローンのパイロットは、ドローンのカメラからのライブフィードでターゲットを見ることができます。したがって、救急車に衝突するときは、故意に行わなければならない、とMSFのウクライナ国内調整員ロビン・メルドラム氏は言う。
+インナ・リトビネンコ医師は、自分が医療従事者であることを示す制服を着ていたと語った。救急車もしっかりマークされていました。そのため、彼女はドローン操縦者が意図的に彼らを標的にすることを選択したと信じている。
+WHOによると、ウクライナの医療システムに対する攻撃全体の20％は救急車への攻撃であり、これらが計算された戦略の一部であることを示唆している。
+このような持続的な攻撃の結果、前線に近い民間人は医療サービスからますます切り離されています。
+これらの地域に残された人々の大部分は、慢性疾患を抱えた高齢者です。たとえ空爆や砲撃を生き延びたとしても、投薬と時折の検査がなければ、彼らは緩やかな死を迎えることになる。
+また、リスクが高い場合には救急車が到着できない可能性もあります。
+リトビネンコ氏と同僚は、脅威について知るためにソーシャルメディアを常に監視しています。
+「本当に怖いんです」と彼女は言う。 「患者を病院に連れて行くときはいつも、ただ祈るだけです。ドローンはどこからでも現れる可能性があり、ドローン対策ネットをすり抜けることもあります。」
+場合によっては、救急車の代わりに警察が出動することもあります。
+ウクライナとロシア両国がより広範囲のドローンを開発する中、FPV ドローンが運用される危険地帯が拡大しているため、さまざまな保健機関が運営する移動診療所は、その運用を最前線からますます遠ざけなければなりません。
+「2年前には、最前線から最大5〜8km（3.1〜5マイル）まで行くことができました」とメルドラム氏は言います。 「今では30km以内はどこにも行けなくなり、距離は伸び続けています。」
+メルドラム氏によると、MSFは過去1年半にわたり、医療サービスを提供していた前線近くの約80の村への定期的な訪問を中止したという。そして最近では、ウクライナ東部の主要都市スロビアスクでの救急車サービスを一時停止した。
+「この環境、そしてロシアの戦争遂行方法において、私たちが守られているようには感じられません」とメルドラム氏は言う。
+「戦争のルールが尊重されているとは思えません。」
+関連トピック
+- 2 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-08T00:02:49+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db46/live/2ce17130-927f-11f1-b2ab-0dd01740f9f6.jpg",
+    readTime: 6,
+  },
+  {
     id: "spain-imposes-border-controls-against-it-fc75e66e",
     title: "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
     titleJa: "セウタの移民流入をめぐる争い激化、スペインがイタリアに対して国境管理を課す",
@@ -479,6 +683,78 @@ RBCは7月28日の戦略ノートで、「ヘッドライン主導の価格下�
     readTime: 8,
   },
   {
+    id: "saudi-arabia-turkey-and-pakistan-sign-de-bbc4da85",
+    title: "Saudi Arabia, Turkey and Pakistan sign defence pact",
+    titleJa: "サウジアラビア、トルコ、パキスタンが防衛協定に署名",
+    summaryJa: "サウジアラビア、トルコ、パキスタンが防衛協定に署名- 公開されました",
+    bodyOriginal: `Saudi Arabia, Turkey and Pakistan sign defence pact
+- Published
+Saudi Arabia, Turkey and Pakistan have signed a joint defence agreement, saying an attack on one of them would be seen as an attack on all three.
+The pact was announced at a meeting between Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz Sharif in the Saudi city of Mecca.
+After the US and Israel attacked Iran on 28 February, Tehran and its allies struck targets in Saudi Arabia and other Gulf states and disrupted traffic through the Strait of Hormuz, a major oil shipping channel, and the Red Sea.
+The Mecca agreement has drawn a sharp reaction from Tehran, where an senior member of parliament said it would not help Saudi Arabia.
+"The Saudis should know that a paper agreement with Turkey and Pakistan does not bring them security, just as years of unilateral milking of the Americans did not bring them security," Ebrahim Rezaei, a member of National Security commission, wrote on his X.
+Saudi Arabia and Pakistan had already announced a joint defence pact last year.
+The new Mecca Joint Defence Agreement sees three of the world's most powerful Muslim nations come together to offer mutual defence guarantees.
+It aims "to strengthen collective deterrence against any act of aggression, and stipulates that any armed attack against any one of the three States shall be regarded as an attack against them all", a joint statement reads.
+"It further provides for the enhancement of all aspects of defence co-operation among the three States."
+Although the pact pledges mutual support, it provides no specifics on the obligations of each party. A Turkish official quoted by Reuters news agency said the pact was "purely defensive in nature".
+Pakistan, Saudi Arabia and Turkey each bring different qualities to the table, with each wanting something different out of it.
+For the Saudis, this gives an extra level of security in a region whose security architecture has been upended by the US and Israel's war with Iran.
+Last month, Yemen's Iran-backed Houthi rebels – who control much of the north-west of the country - announced a "maritime embargo" against Saudi Arabia and targeted Saudi airports, oil facilities and tankers in the Red Sea.
+Furthermore, the Saudis will be keenly aware of last year's Israeli strikes on Doha, targeting senior Hamas officials. According to a report last year by the Centre for Strategic and International Studies, external, "across the Gulf, states recalibrated their defence strategies". This pact is one of Saudi Arabia's responses.
+For Pakistan, the pact offers different but complementary benefits. In May 2025 its long-standing tensions with India boiled over into open conflict.
+While an all-out war was avoided, having the economic muscle of Saudi Arabia and the military and industrial might of Turkey in their corner will be seen as increasingly valuable.
+It also comes at a time when Pakistan has been taking on a far more significant role in global diplomacy.
+It has acted as an intermediary between Iran and the US and hosted ceasefire negotiations, significantly increasing its status in the region - something this pact further cements.
+As for Turkey, the benefits are different. According to Burcu Ozcelik from the London-based Royal United Services Institute (Rusi), the deal offers opportunities for the country's significant defence industries through "joint production, technology partnerships, procurement and greater military interoperability".
+While, on the surface, the concept of a mutual defence agreement seems straightforward, in practice the circumstances in which they would come into play are both complex and uncertain.
+Would, for example, Turkey be obliged to join in strikes on Yemen if Saudi Arabia's full-scale war with the Houthis were to restart?
+Would Saudi Arabia have to declare war on India were there to be a re-emergence of conflict with Pakistan?
+Each instance would require complex calculations and careful diplomacy, often in an attempt to avoid escalation. It is, in short, uncertain.
+The one consequence of a mutual defence agreement that sides involved will be banking on, however, is deterrence.
+The very fact that they each now have two other regional powers standing behind them may not make aggression impossible, but it will make its potential cost significantly higher.
+Related topics
+- Published29 July
+- Published29 July`,
+    bodyJa: `サウジアラビア、トルコ、パキスタンが防衛協定に署名
+- 公開されました
+サウジアラビア、トルコ、パキスタンは共同防衛協定に署名し、そのうちの１国への攻撃は３国全てへの攻撃とみなされると述べた。
+この協定は、サウジアラビアの都市メッカで行われたサウジアラビアのムハンマド・ビン・サルマン皇太子、トルコのレジェップ・タイップ・エルドアン大統領、パキスタンのシェバズ・シャリフ首相の会談で発表された。
+2月28日に米国とイスラエルがイランを攻撃した後、イランとその同盟国はサウジアラビアや他の湾岸諸国の目標を攻撃し、主要な石油輸送路であるホルムズ海峡と紅海の交通を混乱させた。
+メッカ合意はイラン政府の激しい反応を引き起こしており、ある国会議員はサウジアラビアの助けにはならないと述べた。
+国家安全保障委員会のメンバーであるエブラヒム・レザエイ氏は、「サウジは、何年にもわたるアメリカ人の一方的な搾乳が彼らに安全をもたらさなかったのと同じように、トルコやパキスタンとの紙面合意が彼らに安全をもたらさないことを知るべきだ」と、国家安全保障委員会のメンバーであるエブラヒム・レザエイはXに書いた。
+サウジアラビアとパキスタンは昨年すでに共同防衛協定を発表していた。
+新しいメッカ共同防衛協定では、世界で最も強力なイスラム教国家の3つが協力し、相互防衛の保証を提供することになる。
+共同声明には「あらゆる侵略行為に対する集団的抑止力を強化することを目的としており、三国のいずれかに対する武力攻撃は三国すべてに対する攻撃とみなすと規定している」と書かれている。
+「さらに、この協定は三国間の防衛協力のあらゆる側面の強化を規定するものである。」
+この協定は相互支援を約束しているが、各当事者の義務については詳細を定めていない。ロイター通信が伝えたトルコ当局者の話として、この協定は「本質的に純粋に防衛的なもの」であると述べた。
+パキスタン、サウジアラビア、トルコはそれぞれ異なる特質をテーブルにもたらし、それぞれが異なるものを求めています。
+サウジにとって、これは、米国とイスラエルの対イラン戦争によって安全保障構造がひっくり返された地域において、さらなる安全保障レベルを与えることになる。
+先月、イエメンのイランが支援する反政府勢力フーシ派（同国北西部の大部分を支配）は、サウジアラビアに対する「海上禁輸」を発表し、サウジの空港、石油施設、紅海のタンカーを標的にした。
+さらに、サウジアラビアは、ハマス高官を標的とした昨年のイスラエルによるドーハ攻撃を鋭く認識しているだろう。戦略国際​​問題研究所が昨年発表した報告書によると、対外的には「湾岸を挟んで各国が防衛戦略を再調整した」という。この協定はサウジアラビアの対応の一つである。
+パキスタンにとって、この協定は異なるが補完的な利益を提供する。 2025 年 5 月、インドとの長年にわたる緊張が沸騰し、公然の紛争に発展しました。
+全面戦争は回避されたが、サウジアラビアの経済力とトルコの軍事力と産業力を自国の一角に置くことは、ますます価値があるとみなされるだろう。
+それはまた、パキスタンが世界外交においてはるかに重要な役割を果たしている時期でもある。
+イランと米国の間の仲介者として機能し、停戦交渉を主催し、この地域での地位を大幅に高めてきたが、この協定はその地位をさらに強固なものにした。
+トルコに関しては、メリットは異なります。ロンドンに本拠を置く王立ユナイテッドサービス研究所（Rusi）のブルク・オズチェリク氏によると、この協定は「共同生産、技術提携、調達、軍事相互運用性の向上」を通じて、国の重要な防衛産業に機会を提供するという。
+表面上、相互防衛協定の概念は単純に見えますが、実際には、相互防衛協定が適用される状況は複雑かつ不確実です。
+例えば、サウジアラビアとフーシ派との全面戦争が再開された場合、トルコはイエメンへの攻撃に参加せざるを得なくなるだろうか？
+パキスタンとの紛争が再発した場合、サウジアラビアはインドに宣戦布告しなければならないだろうか？
+それぞれの事例では複雑な計算と慎重な外交が必要となり、多くの場合エスカレーションを回避しようとします。要するに不確実だということだ。
+しかし、相互防衛協定の結果として関係者が期待するのは抑止力だ。
+両国の背後に他の2つの地域大国が控えているという事実自体が侵略を不可能にするわけではないかもしれないが、潜在的なコストは大幅に高くなるだろう。
+関連トピック
+- 7 月 29 日発行
+- 7 月 29 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-07T17:42:54+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png",
+    readTime: 5,
+  },
+  {
     id: "cassidy-supports-todd-blanche-rescuing-t-52d5494e",
     title: "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
     titleJa: "キャシディ、トッド・ブランシュを支持、トランプ大統領の司法長官選出で窮地を救う",
@@ -659,6 +935,90 @@ BBC Sounds、Facebook（外部）、X（外部）、Instagram（外部）で BBC
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1769/live/f8457c70-926d-11f1-9f0c-8d4ddef91df6.jpg",
     readTime: 3,
+  },
+  {
+    id: "i-was-standing-in-front-of-my-teacher-wh-cd2689ca",
+    title: "I was standing in front of my teacher when she was shot, Thai pupil says",
+    titleJa: "タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた",
+    summaryJa: "タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた- 公開されました",
+    bodyOriginal: `I was standing in front of my teacher when she was shot, Thai pupil says
+- Published
+On Friday morning, as the final classes of the week were under way, panicked students began streaming out of a prestigious school just outside Bangkok.
+Inside, police say, a 14-year-old boy had opened fire.
+"I was standing in front of the teacher when she was shot," a shaken seventh grader tells the BBC, near the gates of Debsirin School in Nonthaburi. "She was talking to me when [the gunman] showed up."
+Still in her uniform, with her mother by her side, she explains how the shooter stalked from room to room.
+Authorities say he killed five teachers and injured 23 people - including fellow pupils - before turning the weapon on himself. Earlier, he had gunned down his grandparents.
+"I had to climb over the school fence to escape with other friends," the girl, who the BBC is not naming, continues.
+Her mother says the girl thought she might die. "[She said] 'I thought I'd never see you again'."
+One 18-year-old student told Reuters he initially thought firecrackers were going off.
+"I didn't think it was a gun at first," he said. "There were many shots: bang bang bang. Then it went quiet. Then it started again."
+Metres from the school gates, paramedics loaded the wounded into ambulances and rushed them to hospital, as milling crowds hugged and cried.
+Rescue worker Kiatikhun Verapongpradith rushed to the scene after hearing children as young as 12 had been hurt.
+"I saw students who had been shot, some in the arm, some in the back, some in the chest. So I rushed to help get them to the hospital first," the 47-year-old rescue worker told Reuters news agency.
+One grieving teacher told the BBC his friend was among the dead.
+"She was my age. We went to this school together as students. Then we both became teachers at this school," the 31-year-old, who declined to give his name, said.
+It is early days in the investigation and police haven't said anything about a motive.
+They believe the 9mm handgun the shooter used belonged to his grandfather. Forensic officers found the gunman's shots to be "quite accurate", with several hitting "vital spots" on victims' bodies.
+Others are filling some of the gaps. A teacher at the school has said the shooter was a good student - not aggressive and with good grades - and education authorities have described him as an avid gamer.
+Prime Minister Anutin Charnvirakul said study pressures may have played a role.
+"We learned that his grandmother was a teacher and she might have been strict with him. From what the police gathered from his close friend, they knew he was quite stressed about it."
+It is clear authorities will have many questions to answer in the coming days - many of them about what change this crime must trigger.
+Renewed calls for gun control reform
+This is Thailand's deadliest mass shooting in years - and the second at a school this year.
+In February, a head teacher and a female student were shot by an 18-year-old gunman during a school siege in southern Thailand.
+Four years ago, a 34-year-old in the eastern Nong Bua Lamphu province killed 37 people, most of them preschoolers, in a shooting and stabbing at a nursery.
+These crimes have resurfaced questions about gun control in the country.
+"This shouldn't have happened," the boyfriend of one of the killed teachers told reporters, clearly distressed and trying to hold back tears.
+More than seven million people are believed to own guns in the country, one of the highest rates of ownership in the world. Of those, more than one million are unlicensed owners.
+While there are restrictions on gun licences in Thailand, people can still acquire the weapons - legally or illegally - with relative ease.
+There is a thriving black market, aided by Thailand's porous land borders with four other nations. Problems with corruption and loose regulation in the police and military have seen weapons end up in the wrong hands.
+Prime Minister Anutin said he had tightened regulations when he was interior minister three years ago - suspending new gun permits.
+But gun crime remains rife, with deaths from gunshots among the highest in the region. And some in the community are calling for greater action.
+"An act of violence in an educational institution, which should be one of the safest places in our society, serves as a stark reminder for Thai society to seriously and systematically review gun control measures," Natthaphong Ruengpanyawut, leader of the People's Party - an opposition party - wrote in a Facebook post.
+Related topics
+- Published15 hours ago`,
+    bodyJa: `タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた
+- 公開されました
+金曜日の朝、週の最後の授業が始まっていたとき、パニックに陥った学生たちがバンコク郊外の名門学校から飛び出し始めた。
+警察によると、内部では14歳の少年が発砲したという。
+「彼女が撃たれたとき、私は先生の前に立っていました」とノンタブリーのデブシリン学校の門近くで動揺する7年生がBBCに語った。 「[銃撃犯が]現れたとき、彼女は私に話しかけていました。」
+まだ制服を着たまま、母親がそばにいて、彼女は銃撃犯がどのようにして部屋から部屋へと忍び寄ったのかを説明した。
+当局によると、彼は自らに凶器を向ける前に、教師５人を殺害し、仲間の生徒を含む２３人を負傷させた。以前、彼は祖父母を銃で射殺した。
+「他の友達と一緒に逃げるために学校の柵を乗り越えなければなりませんでした」とBBCは名前を明かしていない少女は続けた。
+母親は、少女は自分が死ぬかもしれないと思ったと語った。 「[彼女は言った]『もう会えないと思ってた』」
+ある１８歳の学生はロイターに対し、最初は爆竹が鳴っているのではないかと思ったと語った。
+「最初は銃だとは思わなかった」と彼は語った。 「銃声が何発もあった。バンバンバン。それから静かになった。そしてまた始まった。」
+校門から数メートルのところで、群衆が抱き合って泣き叫ぶ中、救急隊員が負傷者を救急車に乗せて病院へ急いだ。
+救助隊員のキアティクン・ベラポンプラディットさんは、12歳の子供たちが負傷したと聞いて現場に駆けつけた。
+47歳の救助隊員はロイター通信に対し、「腕を撃たれた学生、背中を撃たれた学生、胸を撃たれた学生を見た。そこで私は急いで彼らを先に病院に連れて行こうとした」とロイター通信に語った。
+悲しみに暮れるある教師はBBCに対し、死者の中には友人も含まれていたと語った。
+「彼女は私と同い年でした。私たちは生徒としてこの学校に一緒に通いました。その後、二人ともこの学校の教師になりました」と、名前を明かすことを拒否した31歳の男性は語った。
+まだ捜査は始まって日が浅いが、警察は動機について何も語っていない。
+彼らは、銃撃犯が使用した9mm拳銃は祖父のものだと信じている。法医学官らは、銃撃犯の発砲は「非常に正確」で、被害者の体の「急所」に数発命中したことを発見した。
+他の人がいくつかのギャップを埋めています。同校の教師は銃撃犯は攻撃的ではなく成績も良い優秀な生徒だったと述べ、教育当局は犯人が熱心なゲーマーだったと説明している。
+アヌティン・チャーンヴィラクル首相は、研究への圧力が一因となった可能性があると述べた。
+「私たちは彼の祖母が教師であり、彼女が彼に厳しかった可能性があることを知りました。警察が彼の親しい友人から集めた情報から、彼らは彼がそのことでかなりストレスを感じていたことを知っていました。」
+当局が今後数日以内に多くの質問に答えなければならないことは明らかで、その多くはこの犯罪がどのような変化を引き起こすかについてのものだ。
+銃規制改革を改めて求める声
+これはタイでここ数年で最も死者数が多い銃乱射事件であり、学校で発生した銃乱射事件は今年2件目となる。
+2月、タイ南部の学校包囲で校長と女子生徒が18歳の銃撃犯に射殺された。
+4年前、東部ノンブアランプー県の34歳の男が保育園で銃撃と刺殺事件を起こし、そのほとんどが未就学児だった37人を殺害した。
+これらの犯罪により、国内の銃規制に対する疑問が再浮上している。
+「こんなことは起こるべきではなかった」と、殺害された教師の一人のボーイフレンドは明らかに苦痛を感じながら涙をこらえながら記者団に語った。
+この国では700万人以上が銃を所有しているとみられており、世界で最も高い所有率の一つとなっている。そのうち 100 万人以上が無許可の所有者です。
+タイでは銃の免許には制限があるものの、人々は合法・非合法に関わらず比較的簡単に武器を入手することができます。
+タイには他の 4 か国との穴だらけの陸地国境があり、闇市場が繁栄しています。警察や軍における汚職や規制の緩みなどの問題により、武器が悪者の手に渡ってしまっている。
+アヌティン首相は、3年前に内務大臣だったときに規制を強化し、新たな銃の許可を停止したと述べた。
+しかし銃犯罪は依然として蔓延しており、銃による死亡者数はこの地域で最も多い。そしてコミュニティの中には、より大きな行動を求める人もいます。
+「私たちの社会で最も安全な場所の一つであるはずの教育機関での暴力行為は、タイ社会に銃規制対策を真剣かつ体系的に見直すべきだということを痛感させられる」と野党人民党のナタポン・ルエンパニャウット党首はフェイスブックへの投稿で述べた。
+関連トピック
+- 15 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-07T14:20:27+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
+    readTime: 5,
   },
   {
     id: "surprise-fall-in-us-jobs-last-month-as-s-14d3a802",
@@ -1550,264 +1910,6 @@ CAAのニコルソン氏は「最も重要なことは水に放り込んで冷�
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
     readTime: 6,
-  },
-  {
-    id: "argos-is-getting-a-makeover-but-can-it-a-701ce613",
-    title: "Argos is getting a makeover - but can it attract new shoppers?",
-    titleJa: "アルゴスは大変身しているが、新たな買い物客を惹きつけることができるだろうか？",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.「アルゴスは、登場したとき私たちの買い物の仕方に完全に革命をもたらしましたが、アルゴスには他とは違う歴史があります」と彼女は言います。 「私がマーケティングディレクターだったら、2027 年に向けてそれをどのように詰め込むかを考えるでしょう。」",
-    bodyOriginal: `Argos is getting a makeover - but can it attract new shoppers?
-- Published
-Do you still shop at Argos? And if so, what do you think of it?
-The chain has been a fixture of the British High Street for more than 50 years and is still used by around half of all UK households.
-But it has struggled to thrive in recent years amid fierce competition from online giants like Amazon, with sales stagnating.
-Its owner Sainsbury's recently announced it was selling the chain for a lot less than it paid for it just 10 years ago.
-But the new owners say they see "real opportunities" for growth, including opening new standalone shops. Can they succeed where Sainsbury's did not?
-When the BBC spoke to shoppers in central London this week, the retailer seemed to divide opinion.
-Some, like Enrico, 28, said they loved the convenience of same-day collection, and felt nostalgic towards a brand which unlocked fond childhood memories.
-"It was a great way of doing your Christmas shopping," he told the BBC. "We'd go into our local Argos and we'd get the massive print catalogue."
-For others, though, Argos has not moved with the times and is at odds with the seemingly endless online choice.
-"I feel Amazon is a lot easier because it gets delivered straight to your door with Prime," said Emily, 22, adding that she only used Argos to buy appliances, not "day to day" items.
-Jack Cunningham, 26, from Kent often uses Argos to pick up things when he's at work in London.
-The scientist said the big draw was convenience: "If I need something in the moment and can't wait for delivery, normally I'll get it in Argos.
-"You can order something really cheap on Amazon, and it might come and be the wrong size," he added.
-For years, commentators have asked whether Argos could build a business to take on Amazon, the biggest online seller in the UK.
-But while Argos has invested a lot in digital, it never quite happened. It made £4.1bn of sales last year, compared with £32bn for Amazon in the UK.
-'Remind people it exists'
-Argos does, however, offer something its online rivals don't - a large network of stores, concessions in Sainsbury's shops, and collection points that mean customers can click and collect on the same day, free of charge.
-Retail analyst Catherine Shuttleworth thinks Argos could capitalise on this, along with its reputation as a trusted British brand.
-However, she thinks it needs to update its app so it can compete with "digital-first" players like Amazon, Shein and Temu.
-"I think if you asked people to name five High Street retailers, they wouldn't name Argos," she added. "It's almost about reminding people it exists."
-Argos hasn't been front of mind for Georgia, 27, for ages. She thinks it is outdated and not for her. "It's very old school isn't it? I'm more of an Amazon shopper."
-It also appears Argos could do better on customer service, with it currently scoring just 1.4 out of five on Trustpilot, external, below High Street rivals like Curry's and Tesco.
-"It's not an exciting place to shop, or what it used to be for kids around Christmas," says Hugh Radojev, editor of Retail Week.
-"Under a new ownership you'd hope they could get it back into the zeitgeist."
-Since 2012, Argos has gone from having 845 standalone shops to around 200 - although it also has opened about 450 shop-within-shops in Sainsbury's stores.
-This was seen as a smart move, allowing Argos to tap into Sainsbury's large customer base. Argos will keep all of those concessions after the takeover, and customers will continue to get Nectar loyalty card points for all their purchases.
-But Nicole, 40, an Argos fan from South London, says she wants the chain to expand further.
-"It would be nice if they could go in other supermarkets like Tesco," she adds.
-'Argos has a history of being different'
-Argos's new owners have ruled out deals with rival supermarkets, but they do plan to forge other "partnerships" and open new standalone stores.
-The group, called Swift Partners, includes several seasoned retail veterans, one of them a former boss of Co-operative Group. Retail analyst Richard Hyman thinks this ownership will be a better fit than Sainsbury's, which was focused on selling food.
-But he is sceptical about how much Argos can grow in such a "tough retail market".
-Shuttleworth is more optimistic, saying with a "ruthless focus" Argos can thrive and even put Amazon under pressure.
-"Argos completely revolutionised the way we shop when they came out and they have a history of being different," she says. "If I was marketing director I would be thinking about how to bottle that for 2027."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-「アルゴスは、登場したとき私たちの買い物の仕方に完全に革命をもたらしましたが、アルゴスには他とは違う歴史があります」と彼女は言います。 「私がマーケティングディレクターだったら、2027 年に向けてそれをどのように詰め込むかを考えるでしょう。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-06T23:03:48+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b55/live/2f63f710-91b3-11f1-af4d-5164294a85c7.png",
-    readTime: 2,
-  },
-  {
-    id: "gao-finds-elon-musk-s-doge-inflated-clai-35899bc5",
-    title: "GAO finds Elon Musk's DOGE inflated claims of $110 billion in savings for federal government",
-    titleJa: "イーロン・マスク氏のDOGEが連邦政府の貯蓄額1,100億ドルを水増し請求していたことをGAOが発見",
-    summaryJa: "イーロン・マスク氏のDOGEは、連邦支出を2兆ドル削減し、連邦職員をスリムかつ効率的にすると約束した。しかし、政府会計検査院が木曜日に発表した報告書によると、オンラインの「領収書の壁」で同社が主張していた1,100億ドルという少額のコスト削減さえも検証できなかったという。GAOは、連邦契約、補助金、リースなどの削減による「領収書の壁」を使って、DOGEがウェブサイト上で主張した1,100億ドルの節約額を評価した。 GAOは、「報告されたこれらの節約額の透明性と信頼性を制限する複数の問題」を発見したと述べた。契約、補助金、リース以外の追加カテゴリーも含めると、DOGEは2150億ドルの削減を計上したとGAOは発表した。",
-    bodyOriginal: `Elon Musk's DOGE promised to slash $2 trillion in federal spending and to make the federal workforce lean and efficient. But even the cost savings it has claimed in an online "Wall of Receipts" of the smaller amount of $110 billion didn't check out, according to a report the Government Accountability Office published Thursday.
-The GAO evaluated $110 billion of savings DOGE claimed on a website with its "Wall of Receipts" from cuts including federal contracts, grants and leases. The GAO said it found multiple "issues limiting the transparency and reliability of these reported savings." Including additional categories beyond contracts, grants, and leases, DOGE tallied $215 billion in cuts, the GAO said.
-The findings further undercut claims by Musk and President Donald Trump that they have made meaningful cuts in government spending and call into question the effects of the DOGE effort that slashed federal spending with little notice to agencies and slashed hundreds of thousands of government jobs.
-The GAO found that of the 13,476 contracts DOGE claimed it terminated, "no termination action" was taken on 2,503 of them. The report also noted DOGE had claimed $113 million in savings from cuts to 264 leases, but GAO found that information overstated the savings. The leases cut and referenced on DOGE's website "actually summed to $53.5 million" in savings, the report found. Of the 264 leases, about 108 were already in the termination process before DOGE was formed after Trump began his second term as president, the GAO report also said.
-The report was requested last year by Sens. Gary Peters (D-Mich.) and Richard Blumenthal (D-Conn.) who are, respectively, ranking members of the Senate Homeland Security and Governmental Affairs Committee, and of the panel's investigations subcommittee.
-The GAO is recommending that the DOGE website should prominently caution readers that the site has data-quality problems and other limitations and is therefore not a reliable source of information.
-In their review, the GAO said it checked DOGE's Wall of Receipts claims about cut contracts, grants, and leases from Jan. 20, 2025, when Trump took office, through July 7, 2026, three days after DOGE announced on social media it had wound down. The GAO said it compared DOGE reporting to official data from publicly available federal databases.
-The GAO said DOGE did not respond to the its requests for information and interviews.
-"Everyone supports rooting out waste, fraud, and abuse in the federal government, but DOGE was a slapdash and deceptive effort that misled the American people while doing real damage to the government's ability to serve them," Peters said in a statement.
-Musk and the White House did not immediately respond to a request for comment from CNBC on the GAO report.`,
-    bodyJa: `イーロン・マスク氏のDOGEは、連邦支出を2兆ドル削減し、連邦職員をスリムかつ効率的にすると約束した。しかし、政府会計検査院が木曜日に発表した報告書によると、オンラインの「領収書の壁」で同社が主張していた1,100億ドルという少額のコスト削減さえも検証できなかったという。
-GAOは、連邦契約、補助金、リースなどの削減による「領収書の壁」を使って、DOGEがウェブサイト上で主張した1,100億ドルの節約額を評価した。 GAOは、「報告されたこれらの節約額の透明性と信頼性を制限する複数の問題」を発見したと述べた。契約、補助金、リース以外の追加カテゴリーも含めると、DOGEは2150億ドルの削減を計上したとGAOは発表した。
-この調査結果は、政府支出を大幅に削減したというマスク氏とドナルド・トランプ大統領の主張をさらに裏付けるものであり、政府機関にほとんど通知せずに連邦支出を削減し、数十万人の政府雇用を削減したDOGEの取り組みの効果に疑問を投げかけている。
-GAOは、DOGEが終了したと主張した1万3476件の契約のうち、2503件については「終了措置が講じられなかった」ことを明らかにした。報告書はまた、DOGEが264件のリース契約の削減により1億1,300万ドルの節約を主張していたと指摘したが、GAOは情報がその節約額を誇張していたことを発見した。 DOGEのウェブサイトで言及されているリース契約の削減により、「実際には合計5,350万ドル」の節約になったと報告書は述べている。 GAOの報告書によると、264件の賃貸契約のうち、約108件はトランプ氏が大統領として2期目を始めた後にDOGEが設立される前にすでに終了手続きに入っていたという。
-この報告書は昨年、上院国土安全保障・政府問題委員会と同委員会の調査小委員会の幹部であるゲイリー・ピーターズ上院議員（民主党、ミシガン州）とリチャード・ブルメンソール上院議員（民主党、コネチカット州）によって昨年要請された。
-GAOは、DOGEのウェブサイトでは、このサイトにはデータ品質の問題やその他の制限があり、信頼できる情報源ではないことを読者に目立つように警告するよう勧告している。
-GAOは審査の中で、トランプ大統領が就任した2025年1月20日から、DOGEがソーシャルメディアで契約終了を発表した3日後の2026年7月7日まで、契約、補助金、リースの削減に関するDOGEの「領収書の壁」の主張を調査したと述べた。 GAOは、DOGEの報告を公的に入手可能な連邦データベースの公式データと比較したと述べた。
-GAO は、DOGE は情報提供や取材の要請に応じなかったと述べた。
-ピーターズ氏は声明で、「連邦政府における無駄遣い、詐欺、虐待を根絶することは誰もが支持しているが、DOGEは米国民を欺き、国民に奉仕する政府の能力に真の損害を与えた、ずさんで欺瞞的な取り組みだった」と述べた。
-マスク氏とホワイトハウスは、GAOの報道に関するCNBCからのコメント要請にすぐには応じなかった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/doge-elon-musk-gao-government-cost-cuts.html",
-    publishedAt: "2026-08-06T22:19:52+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "airbnb-stock-soars-9-on-earnings-and-rev-ca8fe3d5",
-    title: "Airbnb stock soars 9% on earnings and revenue beat, strong guidance for third quarter",
-    titleJa: "Airbnbの株価は利益と売上高を上回って9%急騰、第3四半期の強力な見通し",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Airbnb reported second-quarter results that topped analysts' estimates and issued a better-than-expected forecast for the current period, citing strong demand "across all regions." The stock jumped 9% in extended trading on Thursday.
-Here's how the company did compared with LSEG's consensus of analyst estimates:
-- Earnings per share: $1.37 vs. $1.25 expected
-- Revenue: $3.61 billion vs. $3.58 billion expected
-Revenue climbed 17% from $3.1 billion a year earlier, Airbnb said in a statement. Net income increased to $816 million from $642 million, or $1.03 per share, a year ago.
-For the current period, Airbnb said it expects revenue of between $4.69 billion and $4.77 billion, while analysts had been projecting sales of $4.61 billion, according to LSEG. At the midpoint of the range, year-over-year revenue growth would be about 14%.
-Airbnb said that in the U.S. and Canada region and in the area that includes Europe and the Middle East, bookings growth was in the high single digits. For Asia-Pacific, growth was in the high teens, while the Latin America business saw bookings growth of about 20%.
-The company highlighted particular strength in Brazil and Mexico, but said, "Overall, we continue to observe market share gains broadly across Latin America, demonstrating the success of our expansion strategy within this region."
-Free cash flow jumped 30% to $1.25 billion from $962 million a year earlier, Airbnb said.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/airbnb-abnb-q2-earningsreport.html",
-    publishedAt: "2026-08-06T22:01:34+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "copper-jumps-to-its-highest-level-ever-w-7dd3ca96",
-    title: "Copper jumps to its highest level ever. What the metal is telling us",
-    titleJa: "銅は過去最高値に急上昇。金属が私たちに伝えてくれること",
-    summaryJa: "銅は木曜日に過去最高値に急騰したが、最近の上昇はより複雑な成長背景にあり、かつては信頼できる経済健全性の指標「ドクター・カッパー」を読みにくくなっている。米国の銅先物は木曜、１ポンド＝６．９０ドル付近まで上昇し、建設、エレクトロニクス、輸送、さらにはＡＩ用途に使用される金属の上昇を拡大した。その後、新高値を更新した後、反落してセッションを終了した。",
-    bodyOriginal: `Copper surged to a record high Thursday, but the latest rally comes against a more mixed growth backdrop, making the once-reliable gauge of economic health, "Dr. Copper," harder to read.
-U.S. copper futures climbed to around $6.90 a pound Thursday, extending a rally in a metal used for construction, electronics, transportation and even AI applications. It then retreated to end the session after touching the new high.
-But instead of simply indicating stronger global growth, today's record price could be reflecting a combination of constrained supply, heavy grid investment, uncertainty around U.S. tariffs and rising demand for electrification.
-In the past, the metal was seen as a gauge on whether global economic activity was ramping up.
-"The underpinning story of elevated copper prices has been data center and power grid demand to support the rapid AI industry expansion," William Osnato, Barchart director of commodity data research and analysis, told CNBC in an email, adding that surge in copper demand is "more acute and not the traditional broad economic growth that supports copper."
-Copper's price surge is also due to its limited supply and mining it is an expensive business and setting up new mines can take about 10 years, which can also slow down supply of the red metal.
-Michael Widmer, Bank of America's head of metals research told CNBC that the move wasn't really driven by copper demand but really driven by copper supply.
-Widmer said there is not a lot of mine supply growth and supply disruptions have been creating additional constraints. Mine growth has been weak, with disruptions in Chile, the world's biggest single copper producer. Heavy snow, rainfall and high winds have disrupted mining operations in the region.
-Potential U.S. Section 232 tariffs and China's crackdown on the availability of scrap copper have also tightened global supplies in 2026. Last year in June, President Donald Trump signed a proclamation to impose 50% tariffs on imports of semi-finished copper products and copper-intensive derivative products.
-Demand for copper has remained firm and is also closely tied to increased electrification rather than an economic boom.
-In the first half of this year, China's grid investment was up 13% year over year and the country recently announced an ambitious plan to invest approximately $574 billion in power grid upgrades.
-Thursday's move, however, came only after the news that Democratic Republic of Congo was officially banning copper and cobalt concentrates exports to encourage more domestic processing.
-Osnato said supply disruptions have been pushing consumers to pull metal out of London Metal Exchange warehouses and this is driving up refining costs.
-"It is definitely a new situation for Dr. Copper," he said.`,
-    bodyJa: `銅は木曜日に過去最高値に急騰したが、最近の上昇はより複雑な成長背景にあり、かつては信頼できる経済健全性の指標「ドクター・カッパー」を読みにくくなっている。
-米国の銅先物は木曜、１ポンド＝６．９０ドル付近まで上昇し、建設、エレクトロニクス、輸送、さらにはＡＩ用途に使用される金属の上昇を拡大した。その後、新高値を更新した後、反落してセッションを終了した。
-しかし、今日の記録的な価格は単に世界経済の成長力の強さを示すものではなく、供給の制約、送電網への多額の投資、米国の関税を巡る不確実性、電化需要の高まりの組み合わせを反映している可能性がある。
-かつて、この金属は世界の経済活動が活発化しているかどうかを測る指標とみなされていた。
-バーチャートの商品データ調査分析担当ディレクター、ウィリアム・オスナト氏はCNBCに対し、「銅価格高騰の根底にあるのは、急速なAI産業の拡大を支えるデータセンターと電力網の需要だ」と電子メールで述べ、銅需要の急増は「より深刻であり、銅を支える従来の広範な経済成長ではない」と付け加えた。
-銅の価格高騰の原因は、供給が限られているためであり、採掘は高価な事業であり、新しい鉱山の設立には約10年かかる場合があり、それが赤い金属の供給を遅らせる可能性もあります。
-バンク・オブ・アメリカの金属調査責任者マイケル・ウィドマー氏はCNBCに対し、この動きは実際には銅の需要によって引き起こされたものではなく、実際には銅の供給によって引き起こされたと語った。
-ウィドマ​​ー氏は、鉱山の供給量の増加はそれほど大きくなく、供給の混乱がさらなる制約を生み出していると述べた。世界最大の単一銅生産国であるチリでの混乱により、鉱山の成長は低迷している。大雪、降雨、強風により、この地域の鉱山操業は中断されました。
-米国の第232条に基づく関税の可能性とスクラップ銅の入手に対する中国の取り締まりも、2026年の世界の供給を逼迫させることになる。昨年6月、ドナルド・トランプ大統領は銅半製品と銅を多用する派生製品の輸入に50％の関税を課す宣言に署名した。
-銅の需要は堅調を維持しており、景気の好況よりもむしろ電化の増加と密接に関係しています。
-今年上半期の中国の送電網への投資は前年同期比13％増加し、同国は最近送電網の改修に約5740億ドルを投資するという野心的な計画を発表した。
-しかし、木曜日の動きは、コンゴ民主共和国が国内での加工を促進するために銅とコバルト精鉱の輸出を正式に禁止したというニュースを受けて初めて行われた。
-オスナト氏は、供給途絶により消費者がロンドン金属取引所の倉庫から金属を引き揚げるようになっており、これが精製コストを押し上げていると述べた。
-「ドクター・カッパーにとって、これは間違いなく新たな状況だ」と彼は言う。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
-    publishedAt: "2026-08-06T20:07:51+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "first-openai-now-meta-why-do-ai-hacks-ke-ccde267b",
-    title: "First OpenAI, now Meta - why do AI hacks keep happening?",
-    titleJa: "最初は OpenAI、今は Meta - なぜ AI ハッキングが起こり続けるのでしょうか?",
-    summaryJa: "最初は OpenAI、今は Meta - なぜ AI ハッキングが起こり続けるのでしょうか?- 公開されました",
-    bodyOriginal: `First OpenAI, now Meta - why do AI hacks keep happening?
-- Published
-Over the last fortnight, reports of AI models going beyond their expected bounds - be that technically or morally - have been seemingly unavoidable.
-What started with a trickle - ChatGPT-maker OpenAI admitting their AI had hacked the site Hugging Face - has turned into a flood of groups revealing they had discovered instances of AI going out of control.
-Claude-maker Anthropic, Meta and the UK's AI Security Institute (AISI) have now each reported incidents which seem to paint a worrying picture of a world in which tech going rogue is the norm.
-In reality, each case offers a window into the risks posed by increasingly capable AI agents - and the importance of testing their limits before they are released to the world.
-The OpenAI incident has, as Hugging Face's co-founder Thomas Wolf described it, come as a "wake-up call" for the tech industry since it happened at the end of July.
-It was a big moment which caused big companies to reflect on their own systems - and, in some cases, check they hadn't missed something similarly shocking.
-Anthropic was the first to act. On Friday, the company found three instances out of thousands where its model Claude had managed to gain access to the internet.
-Then on Tuesday, the AISI, the UK government agency which evaluates cutting-edge models, then said it had detected a "security incident" during a routine evaluation.
-It had been testing models by both OpenAI and Anthropic, and found they too tried to carry out cyber-attacks - calling for "scrutiny, transparency, and action".
-Finally followed Meta, which revealed one of its AI models had inadvertently been allowed to access the internet due to a "misconfiguration" during a third-party test.
-In disclosing the incident, it is following in the footsteps of those before it.
-Testing questions
-Before AI models are released to the public, they are put to the test in a series of internal and external evaluations.
-The aim is to figure out their potential to do good or bad, as well has how they perform in benchmarks measuring their skills.
-These typically take place in what are known as "sandboxes". These are protected spaces designed to mirror real systems - but with strict guardrails in place.
-In the OpenAI-Hugging Face incident, the AI attacked the sandbox itself, finding a vulnerability which let it access the internet and "go rogue".
-Meanwhile the AISI said its own incident, which saw two powerful AI tools create fake human profiles to try and trick people in attempted cyber-attacks, was not down to an issue with the sandbox.
-Instead, it was due to how it went about its tests.
-The models it tested were granted access to the internet, and the AISI also disabled in-built filters that would usually block dangerous cyber-attacks.
-"To some degree, our evaluation design choices and specific configurations enabled the behaviour," it said, while noting its unexpected "signs of novel, potentially deceptive behaviours".
-Prof Alan Woodward, professor of cyber-security at the University of Surrey, said these cases - while distinct in what happened and why - tell an important story.
-"For 30 years, one rule of software testing held firm: whatever happens in the test environment stays in the test environment," he said.
-"In the past month, that rule has been broken three times."
-"One model broke out. One walked through a door left open by mistake. One was deliberately given the keys so testers could measure what it would do."
-He said these were different causes, but they had the same lesson - "the testing lab is now where the risk lives".
-He told the BBC that as models become more capable, more must be done to secure the environments where they are tested.
-"Testing an AI agent is less like checking code and more like handling a hazardous material: sealed rooms, constant monitoring of what leaves the building, a rehearsed containment plan," he said.
-"AISI contained its incident within an hour. The next organisation may not."
-Growing capabilities
-For those developing AI tools which are designed to take actions on a person's behalf, there is a careful balance to be struck between harnessing their benefits and exposing their risks.
-The benefit is significant. In theory, we could be able to liberate ourselves of dull, menial tasks, such as replying to emails, going to meetings or managing calendars and diaries, by delegating these to capable bots.
-The downside is that with great power comes great responsibility, and risk.
-It's something particularly realised when handing power to tools which are not, like us, able to bring a range of values, context and understanding to decisions we made.
-"Recent incidents of frontier AI models carrying out unsanctioned actions and, in some cases, human-like deceptive behaviour on the open internet are a serious reminder of the risks AI capabilities pose," said Ollie Whitehouse, the National Cyber Security Centre's chief technology officer on Tuesday.
-Some believe the sheer volume of tasks that will be handled by these tools will mean human oversight might not be enough to contain the problem of models going rogue.
-But in the meantime, many feel strengthening oversight overall is vital if development continues at its same, frenzied pace.
-What next?
-It is unlikely Meta will be the last to emerge with findings of models showing they have, as Prof Woodward puts it, "gone to school" - and learnt our own ways of finding and exploiting gaps in systems.
-For some, these episodes point to clear security failures on the part of AI companies leading the charge on this game-changing, era-defining tech.
-For others, they are merely another vehicle for tech firms to hype up their powerful models and compete with rivals.
-For me, both theories hold some grain of truth.
-But in rearing their head one after another, these events have nonetheless spurred fears about AI's capabilities and where these are headed as developers forge ahead.
-And the question inevitably moves to what regulators can and should do next.
-Michael Birtwistle, associate director at the Ada Lovelace Institute, makes the point that the UK lacks legal incentives for AI firms to prevent systems from developing capabilities which could pose dangers, and that there are no repercussions if testing protocols fail.
-More broadly, Dr Imogen Stead, AI policy manager at the Centre for Long-Term Resilience, told the BBC that with opportunities to test frontier AI systems narrowing for many, governments should follow the UK in setting up dedicated institutes for testing.
-Improving third-party evaluations with initiatives such as a "trusted tester scheme" for the most risky types of challenges could also be used to limit adverse impacts, she said.
-Rather than fear an AI-cyber apocalypse in the meantime, Prof Woodward says, "it's a case of 'keep calm and fix stuff'".
-Additional reporting by Philippa Wain and Imran Rahman-Jones
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `最初は OpenAI、今は Meta - なぜ AI ハッキングが起こり続けるのでしょうか?
-- 公開されました
-過去 2 週間にわたって、AI モデルが技術的または道徳的に予想の限界を超えているという報告は、避けられないように見えました。
-ChatGPT作成者のOpenAIが自社のAIがサイト「Hugging Face」をハッキングしたことを認めたというちょっとした出来事から始まった出来事は、AIが制御不能になった例を発見したことを明らかにするグループが殺到する事態に変わった。
-Claude-maker Anthropic、Meta、および英国の AI セキュリティ研究所 (AISI) はそれぞれ、テクノロジーの不正行為が常態化する世界の憂慮すべき状況を描いていると思われる事件を報告しました。
-実際には、それぞれのケースは、ますます有能になる AI エージェントによってもたらされるリスクと、AI エージェントが世界に公開される前にその限界をテストすることの重要性について知る機会を提供します。
-Hugging Face の共同創設者である Thomas Wolf 氏が表現したように、OpenAI 事件は 7 月末に発生して以来、テクノロジー業界への「警鐘」となっています。
-これは、大企業が自社のシステムを振り返り、同様に衝撃的なことを見逃していないか確認するきっかけとなった大きな瞬間でした。
-最初に行動したのはアントロピックだった。金曜日、同社はモデルのクロードがインターネットにアクセスできた数千件のうち3件を発見した。
-そして火曜日、最先端モデルを評価する英国政府機関AISIは、定期評価中に「セキュリティインシデント」を検出したと発表した。
-OpenAIとAnthropicの両方のモデルをテストしていたところ、彼らもサイバー攻撃を実行しようとしていたことが判明し、「精査、透明性、行動」が求められていた。
-最後に Meta が続き、同社の AI モデルの 1 つが、サードパーティのテスト中の「構成ミス」により、誤ってインターネットへのアクセスを許可されていたことが明らかになりました。
-事件を公表するにあたって、同社は以前の事件の足跡をたどっている。
-テストの質問
-AI モデルは一般に公開される前に、一連の内部および外部評価でテストされます。
-目的は、彼らが良いことをするか悪いことをする可能性があるかを把握することと、スキルを測定するベンチマークで彼らがどのようにパフォーマンスを発揮するかを把握することです。
-これらは通常、「サンドボックス」として知られる場所で行われます。これらは実際のシステムを反映するように設計された保護されたスペースですが、厳格なガードレールが設置されています。
-OpenAI-Hugging Face インシデントでは、AI がサンドボックス自体を攻撃し、インターネットにアクセスして「不正行為」を可能にする脆弱性を発見しました。
-一方、AISIは、2つの強力なAIツールが偽の人間のプロフィールを作成し、サイバー攻撃を試みて人々を騙そうとするという独自の事件は、サンドボックスの問題によるものではないと述べた。
-むしろ、それはテストの進め方によるものでした。
-AISIは、テストしたモデルにはインターネットへのアクセスが許可され、通常は危険なサイバー攻撃をブロックする内蔵フィルターも無効にした。
-「我々の評価設計の選択と特定の構成により、ある程度、この動作が可能になった」と述べ、予期せぬ「斬新で潜在的に欺瞞的な動作の兆候」にも言及した。
-サリー大学のサイバーセキュリティ教授であるアラン・ウッドワード教授は、これらの事件は、何が起こったのか、なぜ起こったのかは異なるものの、重要な物語を語っていると述べた。
-「30 年間、ソフトウェア テストの 1 つのルールが堅固でした。テスト環境で起こったことはすべてテスト環境に残るということです」と彼は言いました。
-「先月、そのルールは3回破られました。」
-「あるモデルが発生しました。あるモデルは誤って開いたままのドアを通り抜けました。あるモデルはテスターがそれが何をするかを測定できるように意図的に鍵を与えられました。」
-同氏は、これらは原因が異なるものの、教訓は同じである、「現在、リスクが存在するのは検査機関である」と述べた。
-同氏はBBCに対し、モデルの機能が向上するにつれて、モデルがテストされる環境を保護するためにさらに多くのことを行う必要があると語った。
-「AIエージェントのテストは、コードをチェックするというよりも、密封された部屋、建物から出るものの継続的な監視、リハーサルされた封じ込め計画など、危険物を扱うことに似ている」と同氏は述べた。
-「AISIは事件を1時間以内に封じ込めた。次の組織はそうしないかもしれない。」
-成長する能力
-人間に代わってアクションを実行するように設計された AI ツールを開発している場合、その利点を活用することとリスクを明らかにすることとの間に慎重なバランスを取る必要があります。
-そのメリットは非常に大きいです。理論的には、電子メールに返信したり、会議に参加したり、カレンダーや日記を管理したりするなど、退屈で単純なタスクを有能なボットに委任することで、それらのタスクから解放される可能性があります。
-欠点は、大きな力には大きな責任とリスクが伴うことです。
-それは、私たちのように、私たちが下した意思決定にさまざまな価値観、背景、理解をもたらすことができないツールに権限を渡すときに特に実感されます。
-国家サイバーセキュリティセンターの最高技術責任者であるオリー・ホワイトハウス氏は火曜日、「オープンなインターネット上でフロンティアAIモデルが許可されていない行動や、場合によっては人間のような欺瞞的な行動を実行する最近の事件は、AIの能力がもたらすリスクを深刻に思い知らせている」と述べた。
-これらのツールによって処理されるタスクの量が膨大であるため、人間の監視だけではモデルが不正になる問題を抑えるのに十分ではない可能性があると考える人もいます。
-しかしそれまでの間、開発が同じような猛烈なペースで続くのであれば、全体的な監視を強化することが不可欠であると多くの人が感じている。
-次は何でしょうか？
-ウッドワード教授が言うように、メタが「学校に通い」、システムのギャップを見つけてそれを利用する独自の方法を学んだことを示すモデルの発見を伴って、メタが最後に登場する可能性は低い。
-一部の人にとって、これらのエピソードは、この革新的で時代を定義するテクノロジーの先頭に立っている AI 企業側の明らかなセキュリティ上の欠陥を示しています。
-他の企業にとって、これらはハイテク企業が自社の強力なモデルを宣伝し、ライバルと競争するための単なる手段にすぎません。
-私にとって、どちらの理論もある程度の真実を持っています。
-しかし、これらの出来事は次々と頭をもたげながらも、AI の能力と、開発者が前進する中で AI がどこへ向かうのかについての不安に拍車をかけています。
-そして必然的に問題は、規制当局が次に何ができるか、また何をすべきかということに移る。
-エイダ・ラブレス研究所のアソシエート・ディレクター、マイケル・バートウィッスル氏は、英国にはAI企業がシステムによる危険をもたらす可能性のある機能の開発を阻止する法的インセンティブが欠如しており、テストプロトコルが失敗しても何の影響もない、と主張する。
-より広く言えば、Center for Long-Term ResilienceのAI政策マネージャーであるイモージェン・ステッド博士はBBCに対し、多くの人にとって最先端のAIシステムをテストする機会が狭まっており、各国政府は英国に倣ってテスト専用の機関を設立すべきであると語った。
-最もリスクの高い種類の課題に対する「信頼できるテスター制度」などの取り組みで第三者評価を改善することも、悪影響を制限するために利用できる可能性があると同氏は述べた。
-ウッドワード教授は、当面はAIとサイバーの黙示録を恐れるのではなく、「それは『落ち着いて物事を解決する』ことだ」と言う。
-Philippa Wain と Imran Rahman-Jones による追加レポート
-Tech Decoded ニュースレターに登録して、世界のトップテクノロジーのストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-06T15:59:34+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c4/live/1e741d30-91aa-11f1-9c12-47c0acd34ba6.jpg",
-    readTime: 9,
   },
 ];
 
