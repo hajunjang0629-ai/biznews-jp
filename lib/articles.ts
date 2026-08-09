@@ -15,6 +15,132 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "myspace-eyes-comeback-as-an-an-antidote-ac6d67ab",
+    title: "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
+    titleJa: "Myspaceはソーシャルメディア疲れへの「解毒剤」としての復活を目指しているが、それは遠い道のりかもしれない",
+    summaryJa: "「Myspaceの再開に対する興奮は、私たちの生活においてアルゴリズムがそれほど支配的ではなかった、よりアナログな時代への郷愁を反映している」とアナリストはCNBCに語った。",
+    bodyOriginal: `Millennials may feel a pang of nostalgia at the news of Myspace's planned revival, but analysts caution that the once-dominant social media platform faces long odds in an overcrowded market dominated by algorithm-driven feeds and short attention spans.
+Its owners, Tim and Chris Vanderhook, co-founders of Viant Technology, recently appeared in a documentary, "Myspace," directed by Tommy Avalone, where they teased another "relaunch" after a previous failed attempt in 2013.
+"We still own Myspace. We are stewards of the Myspace brand at this point, and we are going to relaunch Myspace. We're just waiting for the right time to do it," They said in the documentary. "And if that one doesn't work, we'll do it again."
+Myspace, co-founded in 2003 by Tom Anderson and Chris DeWolfe, was acquired by the Vanderhook brothers in 2011. The platform is remembered for its quirky interface, customizable profiles, glittering layout, and everyone's first friend "Tom."
+Once the most popular social media website in the world, with 115 million visitors per month in 2008, it was quickly overtaken by Facebook and became a relic of the Y2K era.
+The Vanderhook brothers attempted to "modernize" the platform by building an "entirely new Myspace." Still, with a revolving door of owners and the loss of advertisers to Facebook, the platform struggled. "It just became an onslaught of losses," Tim Vanderhook said in the documentary. "We lost a little over $150 million," Chris Vanderhook added. They didn't outline a clear timeline for rollout.
+If Myspace were to relaunch, it would be entering a complicated new era of social media, one in which the dominant players such as Meta's Instagram, TikTok, Snapchat, YouTube, and Reddit, among others, are grappling with a wave of legal backlash as well as growing digital fatigue.
+"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," Kate Winick, a principal analyst at Forrester, told CNBC.
+"We're seeing this in recent moves by both brands and users towards smaller, more private social experiences that feel less built for the algorithm and more personal to the individual user, like the explosion of growth on Substack and private communities on Discord." Winick said.
+It also comes as millennials and Gen Zers are increasingly opting out of social media use, due to declining mental health and addiction driven by dominant platforms. Instead, they're looking to go offline, embrace analog technology, and yearn for the 90s and early 2000s.
+With these headwinds in sight, the success of Myspace hinges on some key factors, including attracting advertisers, sustaining user interest, and dodging a thorny regulatory environment.
+'The smallest game in town'
+Myspace has to balance users' appetite for nostalgia with the clean interfaces, seamless discovery, and short-form content that have come to define modern social media.
+"If Myspace follows the traditional playbook, they're simply the smallest game in town; if they lean too hard into old Myspace, they'll struggle to meet the expectations of a generation who are used to a much cleaner and simpler user experience," Winick said.
+She explained that the interface of the 2000s is comparably "labour-intensive," especially for younger users who have grown up on TikTok and Instagram. "It's unlikely that anyone who actually wants to spend less time online is going to decide to spend more time online to achieve an 'offline' aesthetic. They'd have to carefully thread that needle."
+However, with massive brand recognition, Myspace is ahead of many of the smaller players and has a decent chance of success.
+Read more
+First is nailing the demographic, as the generation who remember the platform fondly are "busy midlife adults with careers and families," who are unlikely to take up posting on another channel. Instead, they'll have to build a "meaningfully different product," and focus heavily on attracting Gen Z and Gen Alpha, Winick said.
+"One of the reasons Myspace lost out to Facebook years ago was the failure to appeal to older users, and one of the things that cemented TikTok's success on the business side was the fast growth it saw in millennial and older demographics," she said.
+With regulations to ban teens from social media underway, Myspace will have to pursue a strategy that is inclusive of older users, who are also the primary spenders.
+"One of the reasons MySpace lost out to Facebook years ago was the failure to appeal to older users, and one of the things that cemented TikTok's success on the business side was the fast growth it saw in millennial and older demographics."
+Can Myspace succeed with commercialization and advertising?
+Enders Senior Research Analyst Jamie MacEwan said Myspace will have to work harder to attract advertisers than big platforms, which have proven metrics.
+"The question for Myspace isn't will it eat Facebook's lunch twenty years later, but can it relaunch as a small ads platform and still be profitable," MacEwan said.
+He added that it will have to balance investing in growth with remaining lean as revenues are lower at mid-sized platforms, which are easier for advertisers to ignore. "SMEs are more likely to spend on platforms they already have a presence on."
+While it doesn't need to be the biggest platform to make money, it has to incentivize users to create content that people actually spend time looking at, because that's how you make advertising money.
+Additionally, Winick added that most businesses will wait to see if their customers are actually active on a social media platform before they start allocating budget towards advertisements there.
+"New platform adoption frequently falls off after the initial surge in interest—think of Noplace, a Gen Z-focused text-based platform with Myspace-style design, which hit number one in the app store the day of its launch, only to disappear from the 'most downloaded' list by the end of the following day."
+Bluesky, an open-source social platform launched as a Twitter rival in 2024, exploded in popularity as users sought an alternative to the Elon Musk-owned platform.
+It raised $100 million in Series B funding in April 2025, but reportedly saw a 40% drop in daily mobile active users by the end of October over the prior 12 months.
+Meanwhile, a former engineering lead at Bluesky said it had declined from a peak of 1.4 million active daily posters in late 2024 to around 600,000 in June.
+Another example was the briefly popular photosharing app BeReal, which gained steam off the back of the pandemic, but its monthly active users declined from 20 million at its height in 2022 to around 16 million, according to data from SimilarWeb shared with TechCrunch.
+Selling an 'antidote'
+MacEwan noted that Myspace's success came from differentiating itself from the big platforms, including leaning into growing fatigue around algorithm-oriented feeds and addictive design features.
+"I wouldn't necessarily see the smaller launches as a direct challenge to incumbent networks," MacEwan said. "It's more about counter-programming, identifying where the big platforms have gone too far and trying to sell something as an antidote to user fatigue."
+While that's rarely going to make "the next big thing," Myspace shouldn't necessarily be competing with the big platforms, but instead prioritize sustaining user growth and engagement.`,
+    bodyJa: `ミレニアル世代はMyspaceの復活計画のニュースに郷愁を覚えるかもしれないが、アナリストらは、かつて支配的だったソーシャルメディアプラットフォームは、アルゴリズム主導のフィードと短い注意力が支配する過密市場では長い勝ち目があると警告している。
+その所有者であるヴァイアント・テクノロジーの共同創設者であるティム・ヴァンダーフックとクリス・ヴァンダーフック夫妻は最近、トミー・アヴァロン監督のドキュメンタリー「マイスペース」に出演し、そこで2013年に失敗した試みの後の新たな「再起動」をほのめかした。
+「我々はまだMyspaceを所有している。現時点では我々はMyspaceブランドの管理者であり、Myspaceを再起動するつもりだ。我々はただその適切な時期を待っているだけだ」と彼らはドキュメンタリーの中で述べた。 「それでうまくいかなかったら、もう一度やります。」
+Myspace は、2003 年に Tom Anderson と Chris DeWolfe によって共同設立され、2011 年に Vanderhook 兄弟に買収されました。このプラットフォームは、その風変わりなインターフェイス、カスタマイズ可能なプロファイル、きらびやかなレイアウト、そしてみんなの最初の友達「Tom」で記憶されています。
+かつては世界で最も人気のあるソーシャル メディア Web サイトで、2008 年には月間 1 億 1,500 万人が訪問しましたが、すぐに Facebook に追い抜かれ、Y2K 時代の遺物となりました。
+ヴァンダーフック兄弟は、「まったく新しい Myspace」を構築することでプラットフォームを「近代化」しようとしました。それでも、所有者が回転ドアになり、広告主が Facebook に奪われたことで、プラットフォームは苦戦した。 「損失の猛攻撃になった」とティム・ヴァンダーフック氏はドキュメンタリーの中で語った。 「私たちは1億5000万ドル強を失いました」とクリス・ヴァンダーフック氏は付け加えた。彼らは展開の明確なスケジュールを概説しなかった。
+もしMyspaceが再始動するとしたら、ソーシャルメディアは複雑な新時代に突入することになるだろう。その中で、MetaのInstagram、TikTok、Snapchat、YouTube、Redditなどの有力企業は、増大するデジタル疲労とともに法的反発の波に直面している。
+フォレスター社の主席アナリスト、ケイト・ウィニック氏はCNBCに対し、「Myspaceの再開に対する興奮は、アルゴリズムが私たちの生活にそれほど支配的ではなかった、よりアナログな時代への郷愁を反映している」と語った。
+「Substack や Discord のプライベート コミュニティの爆発的な成長など、ブランドとユーザーの両方が、アルゴリズム向けに構築されたものではなく、より個人的なユーザーに合わせて構築されていると感じられる、より小規模でプライベートなソーシャル エクスペリエンスを目指す最近の動きでこの傾向が見られます。」ウィニックは言った。
+また、支配的なプラットフォームによるメンタルヘルスの悪化と依存症を理由に、ミレニアル世代やZ世代がソーシャルメディアの利用を控えるようになっていることも影響している。代わりに、彼らはオフラインに移行し、アナログ技術を採用し、90 年代から 2000 年代初頭への憧れを抱いています。
+こうした逆風が予想される中、Myspace の成功は、広告主の誘致、ユーザーの関心の維持、厄介な規制環境の回避など、いくつかの重要な要素にかかっています。
+「街で一番小さなゲーム」
+Myspace は、現代のソーシャル メディアを定義するようになったクリーンなインターフェイス、シームレスな発見、短い形式のコンテンツと、ユーザーのノスタルジーへの欲求のバランスを取る必要があります。
+「もし Myspace が伝統的な戦略に従っているなら、それは単に街で一番小さなゲームに過ぎない。もし古い Myspace にあまりにも強く傾いてしまうと、よりクリーンでシンプルなユーザー エクスペリエンスに慣れている世代の期待に応えるのに苦労するだろう」と Winick 氏は語った。
+彼女は、2000年代のインターフェースは、特にTikTokやInstagramで育った若いユーザーにとって、比較的「労働集約的」であると説明した。 「実際にオンラインに費やす時間を減らしたいと考えている人が、『オフライン』の美しさを実現するためにオンラインにもっと多くの時間を費やすことを決定する可能性は低いです。慎重に針に糸を通す必要があるでしょう。」
+しかし、Myspace はブランド認知度が非常に高いため、多くの小規模企業よりも先を行っており、成功の可能性は十分にあります。
+続きを読む
+1 つ目は、このプラットフォームを懐かしく覚えている世代は「キャリアと家族を持つ多忙な中年大人」であり、別のチャンネルに投稿する可能性は低いため、人口統計を釘付けにすることです。その代わりに、「意味のある異なる製品」を開発し、Z世代とアルファ世代を引き付けることに重点を置く必要があるとウィニック氏は述べた。
+「何年も前にMyspaceがFacebookに負けた理由の1つは、年配のユーザーにアピールできなかったことであり、ビジネス面でTikTokの成功を確固たるものにしたものの1つは、ミレニアル世代とそれ以上の年齢層の急速な成長だった」と彼女は述べた。
+青少年のソーシャルメディア利用を禁止する規制が進行中であるため、Myspace は主要な支出者でもある高齢ユーザーを取り込んだ戦略を追求する必要があるだろう。
+「何年も前にMySpaceがFacebookに負けた理由の1つは、年配のユーザーにアピールできなかったことであり、ビジネス面でTikTokの成功を確固たるものにしたものの1つは、ミレニアル世代とそれ以上の年齢層の急速な成長であった。」
+Myspace は商品化と広告で成功できるでしょうか?
+エンダーズのシニアリサーチアナリスト、ジェイミー・マキューアン氏は、マイスペースは実証済みの指標を持っている大手プラットフォームよりも、広告主を引きつけるためにもっと努力する必要があるだろうと述べた。
+「Myspaceにとっての問題は、20年後にFacebookのランチを食べられるかということではなく、小規模な広告プラットフォームとして再出発し、それでも収益を上げられるかということだ」とマキューアン氏は語った。
+同氏は、中規模のプラットフォームでは収益が低く、広告主にとって無視されやすいため、成長への投資と無駄のない維持のバランスをとる必要があると付け加えた。 「中小企業は、すでに存在感を示しているプラ​​ットフォームに支出する可能性が高くなります。」
+お金を稼ぐために最大のプラットフォームである必要はありませんが、ユーザーが実際に時間をかけて見るコンテンツを作成するようユーザーを動機付ける必要があります。そうすることで広告収入が得られるからです。
+さらに、ウィニック氏は、ほとんどの企業は、広告に予算を割り当て始める前に、顧客が実際にソーシャルメディアプラットフォーム上でアクティブであるかどうかを確認するのを待つだろうと付け加えた。
+「新しいプラットフォームの採用は、最初に関心が高まった後に低迷することがよくあります。Noplace のことを考えてください。Myspace スタイルのデザインを備えた、Z 世代に焦点を当てたテキストベースのプラットフォームです。このプラットフォームは、リリース当日にアプリ ストアで 1 位を記録しましたが、翌日の終わりまでに「最もダウンロードされた」リストから消えました。」
+Blueskyは、2024年にTwitterのライバルとして立ち上げられたオープンソースのソーシャルプラットフォームで、ユーザーがイーロン・マスク所有のプラットフォームに代わるものを求めたため、人気が爆発した。
+同社は2025年4月にシリーズB資金で1億ドルを調達したが、10月末までに1日あたりのモバイルアクティブユーザー数が過去12カ月間で40％減少したと報じられている。
+一方、ブルースカイ社の元エンジニアリング責任者は、アクティブポスター数が2024年末の1日あたり140万件のピークから、6月には約60万件まで減少したと述べた。
+もう1つの例は、一時的に人気を博した写真共有アプリBeRealで、パンデミックの影響で勢いを増したが、TechCrunchと共有したSimilarWebのデータによると、月間アクティブユーザー数は2022年の最盛期の2,000万人から約1,600万人まで減少した。
+「解毒剤」を販売する
+マキューアン氏は、Myspace の成功は、アルゴリズム指向のフィードや中毒性のあるデザイン機能に関する疲労の増大に傾倒するなど、大手プラットフォームとの差別化によってもたらされたと指摘した。
+「私は、小規模な立ち上げが既存のネットワークに対する直接的な挑戦であるとは必ずしも考えません」とマキューアン氏は述べた。 「それはどちらかというと対抗プログラミングであり、大手プラットフォームが行き過ぎた箇所を特定し、ユーザーの疲労に対する解毒剤として何かを売ろうとしているのです。」
+それが「次の大きなこと」になることはめったにありませんが、Myspace は必ずしも大手プラットフォームと競合する必要はなく、代わりにユーザーの成長とエンゲージメントを維持することを優先すべきです。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
+    publishedAt: "2026-08-09T05:00:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "perez-hilton-faces-long-recovery-after-r-086f912c",
+    title: "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+    titleJa: "ペレス・ヒルトン、ライブ配信中に自傷行為をしたと報道され、長い回復に直面",
+    summaryJa: "ペレス・ヒルトン、ライブ配信中に自傷行為をしたと報道され、長い回復に直面- 公開されました",
+    bodyOriginal: `Perez Hilton faces long recovery after reports he self-harmed during livestream
+- Published
+The US blogger Perez Hilton is in a "serious but stable" condition after being admitted to hospital, according to his family.
+Emergency services were called to his Miami home on Tuesday after members of the public reported concerns while watching a TikTok livestream.
+The Miami sheriff's office confirmed they attended a scene of a man "livestreaming acts of self-harm" on Tuesday. They did not confirm his name but said the man was alone in the house at the time.
+A statement released on the 48-year-old's website said he "experienced significant blood loss" and his treatment and recovery would be a "long process".
+If you are affected by any of the issues in this story, help and support is available at BBC Action Line.
+The statement, external said Hilton was being held in hospital under Florida's Baker Act, which focuses on providing services for people experiencing a mental health crisis.
+The father-of-three, whose real name is Mario Lavandeira, is expected to have surgery in the coming days.
+A TikTok spokesman said its automated moderation systems flagged the livestream within minutes to the company's US moderation team for review.
+A moderator error caused a delay in the removal, TikTok said, but the company alerted law enforcement to the situation, closed several subsequent streams within 90 seconds, and banned the account.
+The pseudonym Perez Hilton is a reference to Paris Hilton who was at the height of her fame when the celebrity gossip blog was launched in 2005.
+The website would go on to attract 8 million hits a day at a time when the internet was still in its relative infancy. It was criticised for vicious commentary of stars including Miley Cyrus and Lady Gaga.
+In later years, Hilton admitted having regrets about being "mean or cruel".
+He has also appeared on reality TV shows including Celebrity Rap Superstar and Celebrity Big Brother.`,
+    bodyJa: `ペレス・ヒルトン、ライブ配信中に自傷行為をしたと報道され、長い回復に直面
+- 公開されました
+家族によると、米国のブロガー、ペレス・ヒルトンさんは入院後、「重篤だが安定した」状態にあるという。
+火曜日、TikTokのライブストリームを視聴中に一般の人々が懸念を報告したため、マイアミの自宅に救急隊が呼ばれた。
+マイアミ保安官事務所は火曜日、男性が「自傷行為をライブストリーミング」している現場に立ち会ったことを認めた。当局は男性の名前を確認しなかったが、当時男性は家に一人でいたと述べた。
+48歳の男性のウェブサイトに発表された声明では、「大量の失血を経験」し、治療と回復には「長い過程」がかかるだろうと述べた。
+この記事の問題のいずれかによって影響を受けた場合は、BBC Action Line でヘルプとサポートを利用できます。
+外部の声明によると、ヒルトン氏は精神的健康上の危機に直面している人々へのサービス提供に焦点を当てたフロリダ州ベーカー法に基づいて病院に拘束されているという。
+本名マリオ・ラヴァンデイラという３児の父親である彼は、数日中に手術を受ける予定だ。
+TikTokの広報担当者は、同社の自動モデレーションシステムが数分以内にライブストリームにフラグを立て、同社の米国モデレーションチームに審査を依頼したと述べた。
+TikTokによると、モデレーターのミスにより削除が遅れたが、同社は法執行機関に状況を警告し、その後のいくつかのストリームを90秒以内に閉鎖し、アカウントを禁止した。
+ペンネームのペレス・ヒルトンは、2005 年にセレブのゴシップ ブログが開始されたときに名声の絶頂にあったパリス・ヒルトンにちなんでいます。
+インターネットがまだ比較的初期段階にあったとき、この Web サイトは 1 日あたり 800 万件のアクセスを集め続けました。マイリー・サイラスやレディー・ガガなどのスターに対する悪質なコメントで批判された。
+後年、ヒルトンは自分が「意地悪で残酷だった」ことを後悔していると認めた。
+彼は、『セレブリティ ラップ スーパースター』や『セレブリティ ビッグ ブラザー』などのリアリティ番組にも出演しています。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-09T04:32:06+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
+    readTime: 2,
+  },
+  {
     id: "verizon-mobile-service-restored-after-ou-574696d0",
     title: "Verizon mobile service restored after outage for thousands of customers in the U.S.",
     titleJa: "Verizon モバイル サービスは、米国の数千の顧客の障害後に復旧しました。",
@@ -31,6 +157,158 @@ The Verizon outage impacted hundreds of customers from other major wireless carr
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
+  },
+  {
+    id: "hundreds-arrested-over-french-wildfires-ff529b09",
+    title: "Hundreds arrested over French wildfires, but who is to blame?",
+    titleJa: "フランスの山火事で数百人が逮捕、責任は誰にあるのか？",
+    summaryJa: "フランスの山火事で数百人が逮捕、責任は誰にあるのか？- 公開されました",
+    bodyOriginal: `Hundreds arrested over French wildfires, but who is to blame?
+- Published
+After wildfires caused more damage in France this year than at any time since World War Two, many are left asking a single question: Why?
+A major driver is that climate is changing as a result of the well-documented way humanity is burning fossil fuels. Temperatures are only rising.
+But with records showing that nine out of 10 French wildfires are started by humans, the government in Paris is trying to attribute blame - although it is itself accused of being underprepared for the infernos that have now scorched more than 300,000 acres this summer.
+The interior ministry has announced 420 arrests of people alleged to have either started the fires deliberately or by accident. Among them are 166 minors.
+In one case, a 23-year-old man has been accused of deliberately starting 10 fires in the space of five days in the south-eastern Var area last month. He faces 15 years in prison and a €150,000 (£128,000) fine, if convicted.
+Many others have been tried and immediately sentenced, such as a man who received a three-year jail sentence for starting three recent fires in the Raon-L'Étape forest in the Vosges region.
+"Only a few square metres of vegetation went up in smoke," noted L'Est Républicain, the newspaper that reported the story.
+Other prosecutions have been perceived as heavy-handed and unjust. A homeless man and someone with severe autism have reportedly been handed jail terms for throwing cigarette butts.
+"I was amazed at the number of arrests, it feels excessive," admits Muriel Gestas, a lawyer who has represented several people accused of arson, including two firefighters. She doubts many will lead to a conviction.
+The newspaper Le Monde is also unconvinced. It questions to what extent police have examined these cases, given the short time frame.
+The authorities' silence on the details - the specific charges, notably whether they involve intent and how the numbers compare with past seasons - rules out any meaningful comparison with previous years, it argues.
+But Bordeaux prosecutor Renaud Gaudeul told Le Monde that a tough approach was justified by current circumstances.
+"The conditions for a charge of endangering lives are met for those who throw a cigarette butt or light a barbecue in wooded areas. It only takes a tiny spark for it to start," the newspaper quoted him as saying.
+Working out how a fire started is, unsurprisingly, not easy.
+"In periods of drought such as this one, all you need is a simple lighter," explains Eric Dufayet, an officer who investigates fires.
+Once a fire is out, Eric's first task is to map its outline along the edge of the burnt vegetation, then trace it back to its point of origin. If the wind has been steady, that outline often forms a "V" shape. From there, his team works backwards along the path the flames took.
+"If someone deliberately starts a fire, they may not have used only one device," he says. It improves the chances of a DNA or fingerprint sample being found.
+Experts believe arson accounts for only a small fraction of fires. Most are believed to be accidental, with sparks potentially coming from construction work, faulty electrical equipment, cigarette butts and barbecues.
+"With cigarettes, it's called the '30' rule," says Eric Dufayet. To start a fire, he explains, there must be "a temperature of at least 30C (86F), a maximum of 30% humidity, wind of less than 30km/h (19mph), and at least 30% of the cigarette unburnt."
+In the current drought, he says it is even easier. If those conditions are met, a fire can easily spread, and fast.
+According to Michel Lejoyeux, a professor of psychiatry and addictive behaviour at Paris 7 University, people who start fires fall into three categories: those who are careless, those who benefit - with an insurance payout, for example - and pyromaniacs.
+"The pyromaniac doesn't get money, has no spirit of revenge, has no utility of the fire, but he likes the fire," he says.
+However, pyromania is a rare psychiatric disorder that Lejoyeux says is very difficult to diagnose, and accounts for few arson convictions.
+Lawyer Muriel Gestas, who has handled several such cases, says some firefighters alleged to have started fires may have wanted to be seen as saviours. For others - notably volunteers earning tax-free overtime - the motive may be financial.
+Amid concerns over how officials are pursuing suspects, broader worries about wildfires are far from abating. Forecasts suggest France's next heatwave is only days away.
+President Emmanuel Macron says criticism should not be the priority right now. "We will have to replant and rebuild a different kind of forest because we must adapt to the structural conditions of climate change," he said this week.
+"The time for reviewing lessons learned will come," he insisted. "In the meantime, the country must remain united."
+Even so, the damage these fires have inflicted on the environment, hundreds of homes, tourism, local businesses and air quality has left the French public with a lot of questions.`,
+    bodyJa: `フランスの山火事で数百人が逮捕、責任は誰にあるのか？
+- 公開されました
+今年、フランスで山火事が第二次世界大戦以降のどの時期よりも多くの被害をもたらしたことを受けて、多くの人がただ一つの疑問を残している。「なぜ？」
+主な要因は、人類が化石燃料を燃やしていることが十分に文書化されている結果として、気候が変化していることです。気温は上昇するばかりです。
+しかし、フランスの山火事の10件中9件が人間によって引き起こされたことを示す記録があることから、パリ政府はその責任を帰そうとしているが、この夏30万エーカー以上を焼き尽くした地獄への備えが不十分だったとパリ政府自体が非難されている。
+内務省は、故意または偶発的に火災を起こした疑いで420人を逮捕したと発表した。この中には未成年者も166人いる。
+ある事件では、先月ヴァール南東部で5日間に10件の火災を意図的に起こしたとして23歳の男が告訴されている。有罪となった場合、懲役15年と罰金15万ユーロ（約12万8000ポンド）が科せられる可能性がある。
+ヴォージュ地域圏のラオン・レテープの森で最近3回火災を起こした罪で懲役3年の判決を受けた男性など、他にも多くの人が裁判にかけられ、即時判決を受けた。
+この話を報じた新聞「レスト・レピュブリカン」は、「わずか数平方メートルの植生が煙に巻かれただけだ」と述べた。
+他の訴追は高圧的かつ不当であると認識されている。ホームレスの男性と重度の自閉症の人が、タバコの吸い殻を投げ捨てた罪で懲役刑を言い渡されたと伝えられている。
+「逮捕者の数には驚きました。多すぎると感じます」と、消防士2名を含む放火容疑で告訴された数人の弁護人を務めてきた弁護士ムリエル・ゲスタスは認める。彼女は、多くの人が有罪判決に至るのではないかと疑っている。
+ルモンド紙も納得していない。短期間であることを考えると、警察がこれらの事件をどの程度捜査したか疑問である。
+当局が詳細、具体的な容疑、特に意図が関与しているかどうか、過去のシーズンとの数字の比較などについて沈黙しているため、前年との意味のある比較は排除されている、と同誌は主張している。
+しかし、ボルドーの検察官ルノー・ゴードゥル氏はルモンド紙に対し、現在の状況では強硬なアプローチは正当化されると述べた。
+同紙は同氏の発言として、「タバコの吸い殻を投げたり、森林地帯でバーベキューに火をつけたりする者は、生命を危険にさらす罪の条件を満たしている。ほんの小さな火花が発火するだけだ」と述べたと伝えた。
+火災がどのように発生したのかを解明するのは、当然のことながら簡単ではありません。
+「今回のような干ばつの時期には、必要なのはシンプルなライターだけです」と火災調査の警察官エリック・デュファイエ氏は説明する。
+火が消えたら、エリックの最初の仕事は、焼けた植生の端に沿ってその輪郭をマッピングし、それを元の場所まで追跡することです。風が安定している場合、その輪郭は多くの場合「V」字形を形成します。そこから、彼のチームは炎がたどった経路に沿って逆方向に作業を進めます。
+「誰かが意図的に火を起こした場合、使用したデバイスは 1 つだけではない可能性があります」と彼は言います。 DNA または指紋サンプルが見つかる可能性が高まります。
+専門家は、放火は火災のほんの一部に過ぎないと考えています。ほとんどは偶発的なものであると考えられており、火花は建設作業、電気機器の故障、タバコの吸い殻、バーベキューなどから発生する可能性があります。
+「タバコの場合は『30』ルールと呼ばれています」とエリック・デュファイエ氏は言う。同氏によると、火災を起こすには「温度が少なくとも30度（86度）、湿度が最大30％、風が時速30キロ（19マイル）未満、そしてタバコの少なくとも30％が燃え残っていない」必要があるという。
+現在の干ばつでは、それはさらに容易だと彼は言う。これらの条件が満たされると、火災は容易に、そして急速に広がります。
+パリ第7大学の精神医学と依存行為の教授、ミシェル・ルジョユーによると、火を起こす人は3つのカテゴリーに分類される：不注意な人、保険金などの恩恵を受けている人、そして放火魔だ。
+「放火魔は金もうけないし、復讐心もないし、火の利用価値もないが、火が好きだ」と彼は言う。
+しかし、放火魔は稀な精神疾患であり、診断が非常に難しく、放火有罪判決の原因となるのはほとんどないとルジョユー氏は言う。
+そうした事件をいくつか扱ってきたムリエル・ゲスタス弁護士は、火災を起こしたとされる消防士の中には救世主と思われたかったのかもしれないと語る。他の人たち、特に非課税の残業代を稼ぐボランティアたちにとって、動機は金銭的なものかもしれない。
+当局が容疑者をどのように追及しているかが懸念される中、山火事に対する広範な懸念は収まるには程遠い。予報によると、フランスの次の熱波は数日先だという。
+エマニュエル・マクロン大統領は、現時点では批判を優先すべきではないと述べた。同氏は今週、「気候変動の構造的条件に適応しなければならないため、植林を再開し、異なる種類の森林を再建する必要がある」と語った。
+「教訓を見直す時期が来るだろう」と彼は主張した。 「それまでの間、国は団結し続けなければならない。」
+それでもなお、これらの火災が環境、数百戸の住宅、観光業、地元企業、大気質に与えた被害は、フランス国民に多くの疑問を残している。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-08T23:59:23+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 6,
+  },
+  {
+    id: "israel-accused-of-weaponising-archaeolog-3deba519",
+    title: "Israel accused of weaponising archaeology at ancient West Bank sites",
+    titleJa: "イスラエル、ヨルダン川西岸の古代遺跡で考古学を武器化したとして非難される",
+    summaryJa: "イスラエル、ヨルダン川西岸の古代遺跡で考古学を武器化したとして非難される- 公開されました",
+    bodyOriginal: `Israel accused of weaponising archaeology at ancient West Bank sites
+- Published
+Up in the hills above the Roman columns of the ancient site of Sebastia, in the occupied West Bank, are olive fields that have been cultivated for generations by Palestinian families.
+One of the landowners, Abu Mudif, says he has received notification that his land is part of a tranche of about 450 acres that the Israeli authorities are taking possession of in order, they say, to protect and develop the site for a major new national park.
+Typically, Palestinian landowners receive little or no payment for such land expropriation. And even when it is offered, most refuse it as they see accepting it as giving recognition and legitimacy to the loss of what they see as their patrimony.
+It's a vital income for Abu Mudif to lose of course, but it goes deeper than that for him.
+"If I wanted to describe it, the closest description I can give is that it is like having your soul ripped away. I cannot imagine myself without my land."
+Nahed Sakha owns a local restaurant that is under threat of demolition.
+He says the Israeli plan seems to be to cut Palestinian residents off from the archaeological site, which dates back thousands of years and has significant remains from the ancient Jewish past, as well as many other eras including the Romans, the Crusaders and the Ottomans.
+"Restoration work has now begun along with excavations," he says. "Landowners were told that no-one would be allowed to use or plough their land."
+The concerns of the village that surrounds Sebastia have been echoed by the United Nations culture and education agency, Unesco, which has now declared it not just a World Heritage Site but also added it to the List of World Heritage in Danger.
+Unesco says that the main threat facing the site concerns what it calls the "planned expropriation and creation of the 'Samaria' (Shomron) national park, which could divide the property".
+Standing on a path between the entrance car park in Sebastia on one side - where the Roman-era forum once stood - and the columns of the basilica on the other, the village mayor, Mohammed Azem, looks down to his right at some rubbish left in the ruins.
+He says locals are now worried about reaching down to clean the area as it might cause problems with Israeli security forces and settlers.
+The path on which he stands divides the site between Area B of the West Bank - which is under Palestinian civil and Israeli security control - and Area C, which is under full Israeli civil and security control.
+Last week, Israel allocated roughly 113 million shekels (£27.8m), external to expanding its control over archaeological sites in the West Bank. Some projects involve sites in areas administered by the Palestinian Authority.
+In the remains of the Roman theatre, Israeli activist Alon Arad - who heads Emek Shaveh, an Israeli group that aims to ensure that the ancient heritage of the region belongs to all communities - says that the Israeli authorities have bypassed consultation with the local administration and residents of Sebastia.
+"The thing is that Israel is not the owner of this place. This is a Palestinian heritage site. And in order to develop it in a positive way, it has to be done with the local community, with the municipality, so they can benefit."
+The Israeli plans would see Sebastia's entrance moved to the other side of the vast site, away from the village and current car park and shops.
+The Palestinian tourism and foreign ministries have expressed their hope that recognition by Unesco may buttress international support for their opposition to Israeli land seizures in Sebastia.
+But the Israeli Foreign Minister, Gideon Saar, has portrayed Unesco's move as enabling Palestinian efforts to diminish historic Jewish ties to the West Bank.
+"No vote in an international organisation can change history," he asserted.
+Further to the south in the West Bank and just in sight of Jerusalem is Herodium, a manmade hill with an extraordinary palace built on its summit by King Herod, who ruled the Kingdom of Judea just before the Christian era.
+Recently here, too, Israel has begun to expropriate land - this time about 80 acres - for what it says is the "preservation and development" of the site.
+Peace Now - an Israeli organisation that monitors settlements - says: "Under international law, as well as according to rulings of the Israeli Supreme Court, Israel is prohibited from expropriating land for settlement purposes or exclusively for the benefit of Israeli citizens".
+"Consequently, in order for the expropriation to be considered lawful, the state will likely argue that the site is intended to serve both Palestinian and Israeli populations, despite the apparent fact that its primary rationale and purpose are linked to settlement expansion and Israeli control."
+For Shmuel Browns, who has worked on excavations in Herodium and leads deeply enthused guided tours, it's vital for Israeli archaeologists and officials to be able to oversee and protect places that are so freighted with historical and religious significance.
+"Israel feels responsible to look after the archaeology, the artifacts, the history of this land," he says.
+But there has also been a drive to go further than this among far-right members of Israel's current government.
+A new law was proposed earlier this year that would have transferred control of archaeological sites to the Israeli heritage ministry from the Civil Administration, which operates under military authority, and given it sweeping powers to seize land for archaeological preservation across the West Bank.
+That bill passed its first reading in parliament in May but is now on hold as elections are coming up. It may never re-emerge.
+Back in Sebastia, the Israeli activist Alon Arad says the very fact that the bill was put forward shows how archaeology itself has been weaponised in the West Bank.
+"This is exactly how the mechanism works. You use archaeology, you use it in order to do excavations and to the narrative, to rewrite history, but you also use it in order to allocate lands or reallocate lands from Palestinian to Israeli," he warns.
+Increasingly, Palestinian residents of Sebastia fear that their close connection with the ruins is in danger of being lost.`,
+    bodyJa: `イスラエル、ヨルダン川西岸の古代遺跡で考古学を武器化したとして非難される
+- 公開されました
+占領下のヨルダン川西岸にあるセバスティアの古代遺跡のローマ時代の円柱の上の丘の上には、パレスチナ人の家族によって何世代にもわたって栽培されてきたオリーブ畑があります。
+地主の一人、アブ・ムディフ氏は、彼の土地が、イスラエル当局が主要な新しい国立公園用地を保護し開発するために占有している約450エーカーの区画の一部であるという通知を受けたと述べた。
+通常、パレスチナ人の地主は、そのような土地収用に対する支払いをほとんど、またはまったく受け取っていません。そして、たとえそれが提案されたとしても、ほとんどの人は、それを受け入れることは、自分たちの財産と見なすものの喪失に認識と正当性を与えるものであると考えて、それを拒否します。
+もちろん、アブ・ムディフにとって失うことは極めて重要な収入だが、彼にとってはそれ以上に深刻な問題だ。
+「それを説明したいなら、私ができる最も近い説明は、魂をもぎ取られるようなものです。土地のない自分を想像することはできません。」
+ナヘド・サカさんは地元のレストランを経営していますが、取り壊しの危機にさらされています。
+同氏によると、イスラエルの計画は、数千年前に遡り、古代ユダヤ人の過去だけでなく、ローマ人、十字軍、オスマン帝国など多くの時代の重要な遺跡が残っているこの遺跡からパレスチナ住民を切り離すことのようだという。
+「現在、発掘調査と並行して修復作業が始まっています」と彼は言います。 「地主たちは、誰も自分たちの土地を使用したり耕したりすることは許されないと言われました。」
+セバスティアを囲む村の懸念は、国連の文化教育機関であるユネスコによっても同様であり、ユネスコはこの村を世界遺産に登録するだけでなく、危険にさらされている世界遺産のリストにも追加したと発表した。
+ユネスコは、この場所が直面している主な脅威は、「財産を分割する可能性がある『サマリア』（ショムロン）国立公園の計画的な収用と創設」と呼ぶものに関係していると述べている。
+セバスティアの入り口駐車場（かつてローマ時代のフォーラムがあった場所）と大聖堂の柱の間の小道に立ち、村長のモハメッド・アゼムは遺跡に残されたゴミを右に見下ろしている。
+同氏によると、地元住民は現在、イスラエル治安部隊や入植者と​​の問題を引き起こす可能性があるため、地域を清掃するために手を伸ばすことを懸念しているという。
+彼が立っている道は、パレスチナの民間およびイスラエルの治安管理下にあるヨルダン川西岸のエリアBと、イスラエルの完全な民間および治安管理下にあるエリアCとの間で敷地を分断している。
+イスラエルは先週、ヨルダン川西岸の遺跡への支配拡大の枠外として約１億１３００万シェケル（２７８０万ポンド）を割り当てた。一部のプロジェクトには、パレスチナ自治政府が管理する地域のサイトが含まれます。
+ローマ劇場跡で、この地域の古代遺産がすべてのコミュニティに属することを保証することを目的とするイスラエルの団体エメク・シャベを率いるイスラエル人活動家アロン・アラド氏は、イスラエル当局が地元行政やセバスティア住民との協議を無視したと述べた。
+「問題は、イスラエルがこの場所の所有者ではないということです。これはパレスチナの遺産です。そして、それを前向きな方法で発展させるためには、彼らが利益を得られるように、地元のコミュニティ、自治体と協力しなければなりません。」
+イスラエルの計画では、セバスティアさんの入り口は、村や現在の駐車場や店舗から離れた広大な敷地の反対側に移されることになる。
+パレスチナ観光省と外務省は、ユネスコによる承認がセバスティアでのイスラエルによる土地接収に反対する国際的な支援を強化する可能性があるとの期待を表明している。
+しかし、イスラエルのギデオン・サール外務大臣は、ユネスコの動きにより、ヨルダン川西岸とユダヤ人の歴史的なつながりを弱めるパレスチナ側の努力が可能になったと表現している。
+「国際機関でのいかなる投票も歴史を変えることはできない」と彼は主張した。
+ヨルダン川西岸のさらに南、エルサレムのすぐ近くにヘロディウムがあります。ヘロディウムは、キリスト教時代の直前にユダヤ王国を統治していたヘロデ王によって頂上に建てられた特別な宮殿のある人工の丘です。
+最近ここでも、イスラエルは敷地の「保存と開発」を目的として、今回は約80エーカーの土地を収用し始めた。
+入植地を監視するイスラエルの組織ピース・ナウは、「国際法およびイスラエル最高裁判所の判決に従い、イスラエルは入植目的またはもっぱらイスラエル国民の利益のために土地を収用することを禁じられている」と述べている。
+「したがって、収用が合法であるとみなされるためには、その主な根拠と目的が入植地の拡大とイスラエルの支配に関連しているという明白な事実にもかかわらず、国はおそらくこの場所がパレスチナ人とイスラエル人の両方の住民にサービスを提供することを目的としていると主張するだろう。」
+ヘロディウムで発掘調査に取り組み、熱心にガイド付きツアーを主催しているシュムエル・ブラウンズ氏にとって、イスラエルの考古学者や当局者が歴史的、宗教的重要性を秘めた場所を監督し、保護できることは極めて重要だ。
+「イスラエルは、この土地の考古学、遺物、歴史を守る責任があると感じています」と彼は言う。
+しかし、イスラエル現政権の極右メンバーの間では、これをさらに推し進めようとする動きもある。
+今年初めに、軍事権限の下で運営されている民政局からイスラエル文化遺産省に考古学遺跡の管理を移管し、ヨルダン川西岸全域の考古学的保存のための土地を接収する広範な権限を同省に与える新法が提案された。
+同法案は5月に議会で第一読会を通過したが、選挙が近づいているため現在は保留されている。二度と現れないかもしれない。
+セバスティアに戻ったイスラエルの活動家アロン・アラドは、この法案が提出されたという事実そのものが、ヨルダン川西岸で考古学そのものがいかに武器化されてきたかを示していると語る。
+「これがまさにこのメカニズムの仕組みだ。考古学は発掘調査や物語の改変、歴史の書き換えを行うために利用されるだけでなく、土地を割り当てたり、パレスチナ人からイスラエル人に土地を再配分したりするためにも利用する」と彼は警告する。
+セバスティアのパレスチナ住民は、遺跡との密接なつながりが失われる危険があると懸念するようになっている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-08T23:43:44+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
+    readTime: 7,
   },
   {
     id: "hormuz-talks-positive-oman-says-as-iran-0d8d4335",
@@ -1729,280 +2007,6 @@ MS NOWの報道によると、生存者らによると、キャシディ氏も�
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "chesky-says-airbnb-will-spend-a-lot-more-4e0ca5be",
-    title: "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
-    titleJa: "チェスキー氏、収益が上回り、株価が15％上昇する中、AirbnbはAIに「さらに多く」を投じると語る",
-    summaryJa: "Airbnb CEO のブライアン・チェスキー氏は、AI が会社に役立つかどうか確信が持てませんでしたが、1 年後、AI が成長を取り戻した理由だと述べています。",
-    bodyOriginal: `Airbnb shares surged 15% Friday after the company delivered one of its strongest growth quarters in years and raised its full-year outlook — a turnaround CEO Brian Chesky is directly crediting to artificial intelligence.
-In an exclusive interview with CNBC after the earnings report, Chesky said Airbnb will spend "a lot more" on AI tokens this year than it originally forecast because the cost of inference "pales in comparison" to the revenue and productivity the company is getting back.
-Airbnb is cutting product-development time by roughly 60%, shipping about 80% more features year over year and keeping headcount roughly flat even as AI spending rises sharply, Chesky said.
-"I think now it's safe to say AI is the best thing to have happened to Airbnb," he said. "I think we're becoming an AI-native company, and I think that is probably the number one explanation for our results."
-That conviction marks a sharp turn for Chesky. A year ago, Chesky said the question inside the company was essentially, "Is AI good for Airbnb or is AI bad for Airbnb?"
-The shift is notable for a CEO who has long approached technology more like a designer than a traditional engineer.
-Chesky went to the Rhode Island School of Design and studied industrial design before co-founding Airbnb. Years later, he would become close with former Apple design chief Jony Ive and OpenAI CEO Sam Altman — and eventually introduce the two men, helping spark the relationship that led to their work together on AI hardware.
-Now, Chesky is trying to bring that same design-first sensibility to Airbnb's own AI overhaul.
-The company hired Ahmad Al-Dahle, Meta's former head of generative AI and a leader of its Llama work, as chief technology officer in January. Chesky said Airbnb had been "maybe middle of the pack in AI" before Al-Dahle arrived with a mandate to help make the company "AI-native."
-There are already measurable signs of that shift. Chesky said AI is helping Airbnb attract more bookings, make it easier for hosts to list and price homes, and lower customer-service costs.
-The company is piloting AI-powered search, using AI to generate personalized listing highlights and answers for guests, and helping hosts create and price listings. In customer service, 45% of guests who interact with Airbnb's AI agent never need to speak with a human agent.
-"It's really across the board: More demand, more supply, cheaper customer service," Chesky said.
-Internally, Airbnb is also closely tracking how employees use AI. Chesky said the company looks at individual token usage as one measure of adoption, but considers that a relatively crude metric and focuses more heavily on the output of teams.
-"What we're seeing is that across the board, teams are significantly more productive," Chesky said. He said those gains began with engineers and have since spread to product management, design, marketing, and creative services. "I have so underestimated the impact of AI."
-That productivity is showing up in Airbnb's hiring plans as well. Headcount is roughly flat year to date, even as spending on AI rises sharply, and Chesky said investors should expect revenue to grow "a lot faster" than staffing for the foreseeable future.
-"Our philosophy has been not necessarily to use AI to have fewer people, but to use AI to get more out of the people," Chesky said. He added that revenue per employee should continue to rise.
-The economics are central to Chesky's increasingly bullish view of AI. While many consumer companies are still trying to figure out how to generate enough revenue to justify inference costs, he argues Airbnb has an unusually favorable model.
-"One of the problems is a lot of people feel like they don't know how to make money on consumer with AI," Chesky said.
-At Airbnb, he said, inference costs pale in comparison with "the amount of money we make on every booking" and the additional revenue generated by faster product development.
-"We are going to spend a lot more on AI tokens this year than we forecasted," he said. "But that's great because the ROI is there, and therefore our revenue is much higher."
-Airbnb is still trying to be selective about where it spends those tokens and the company is using more than a dozen AI models internally, Chesky said. Those include models like Anthropic's Claude Code and OpenAI's Codex. But it limits access to some slower and more expensive models when their additional capability is not necessary for the task.
-Chesky is particularly bullish on open-source models for consumer-facing products and said frontier models remain important for the hardest problems, but most consumer tasks do not require the most expensive systems.
-"Consumers mostly do not need frontier models for most things," Chesky said. "It's a matter of throttling the right job for the right tool."
-He declined to name the open-source models Airbnb is deploying in consumer products, saying the makeup of the company's technology stack is becoming competitively sensitive.
-The bigger question is whether AI ultimately becomes more than a tool inside Airbnb — and instead changes how travelers reach the platform in the first place. As AI agents become better at assembling itineraries and acting on behalf of users, companies like OpenAI and Alphabet could theoretically become the interface through which travelers discover and book accommodations.
-But Chesky is skeptical that chatbots will replace Airbnb as the transaction layer.
-Travel is visual, difficult to compare through text alone and often planned collaboratively, he said, all areas where the traditional chatbot interface remains weak.
-"I do not believe the chat interface is the right interface for travel," Chesky said.
-He expects chatbots to become important for inspiration and itinerary building, but said he does not see them becoming major booking platforms "in the coming future."
-For now, Chesky said he is focused on using AI to extend Airbnb's own growth runway. He told CNBC that first-time bookers are growing at the fastest pace in four years and said the U.S. business accelerated from the first quarter. Hotels, meanwhile, are growing three times faster than the company's traditional home listings as Airbnb expands beyond the home-rental marketplace it built its name on.
-"We are not a company whose best days were in the 2010s," Chesky said. "We are a company where the best days are in front of us."`,
-    bodyJa: `Airbnbの株価は金曜日、同社がここ数年で最も強力な成長四半期の一つを達成し、通年の見通しを引き上げたことを受けて15％上昇した。CEOのブライアン・チェスキー氏はこの好転は人工知能のおかげであると直接認めている。
-収益報告後のCNBCとの独占インタビューでチェスキー氏は、Airbnbは推論コストが同社から得られる収益や生産性に「比べれば見劣りする」ため、今年は当初の予測よりもAIトークンに「はるかに多く」支出すると述べた。
-チェスキー氏によると、Airbnbは製品開発時間を約60％削減し、前年比で約80％多い機能を出荷し、AI支出が急増しているにもかかわらず従業員数はほぼ横ばいを保っているという。
-「今では、AI が Airbnb に起こった最良の出来事であると言っても過言ではないと思います」と彼は言いました。 「当社は AI ネイティブの企業になりつつあると思います。おそらくそれが当社の業績の最大の説明だと思います。」
-この確信はチェスキーにとって大きな転機となる。 1年前、チェスキー氏は、社内の疑問は本質的に「AIはAirbnbにとって良いのか、それともAIは悪いのか？」だったと語った。
-長い間、従来のエンジニアよりもデザイナーのようにテクノロジーに取り組んできたCEOにとって、この変化は注目に値する。
-チェスキーはロードアイランド・スクール・オブ・デザインに通い、工業デザインを学んだ後、Airbnbを共同設立しました。数年後、彼は元 Apple デザイン責任者のジョニー・アイブ氏や OpenAI CEO のサム・アルトマン氏と親しくなり、最終的には 2 人を紹介し、AI ハードウェアでの共同作業につながる関係に火をつけることになりました。
-現在、チェスキー氏は、同じデザイン第一の感性をAirbnb自身のAIの全面見直しに導入しようとしている。
-同社は1月、メタ社の元生成AI責任者でラマ事業のリーダーでもあるアフマド・アルダール氏を最高技術責任者として雇用した。チェスキー氏は、アル・ダール氏が同社の「AIネイティブ」化を支援する任務を持って到着するまで、Airbnbは「おそらくAI分野では中堅」だったと述べた。
-その変化の目に見える兆候はすでに現れています。チェスキー氏は、AIはAirbnbがより多くの予約を獲得し、ホストが住宅のリストと価格設定を容易にし、顧客サービスコストを削減するのに役立っていると述べた。
-同社は AI を活用した検索を試験的に導入しており、AI を使用してゲスト向けにパーソナライズされたリストのハイライトと回答を生成し、ホストによるリストの作成と価格設定を支援しています。顧客サービスでは、Airbnb の AI エージェントとやり取りするゲストの 45% は、人間のエージェントと話す必要はありません。
-「需要が増え、供給が増え、顧客サービスが安くなるということは、本当に全体的なことだ」とチェスキー氏は語った。
-Airbnb は社内でも、従業員が AI をどのように利用しているかを綿密に追跡しています。チェスキー氏は、同社は個々のトークンの使用状況を採用の指標の1つとして検討しているが、それは比較的大まかな指標であると考えており、チームの成果により重点を置いていると述べた。
-「私たちが目にしているのは、全体的にチームの生産性が大幅に向上しているということです」とチェスキー氏は語った。同氏は、こうした利益はエンジニアから始まり、その後、製品管理、デザイン、マーケティング、クリエイティブ サービスにまで広がったと述べた。 「私はAIの影響を過小評価してきました。」
-その生産性はAirbnbの採用計画にも現れている。 AIへの支出が急増しているにもかかわらず、従業員数は年初からほぼ横ばいとなっており、チェスキー氏は、投資家は当面、人員配置よりも「はるかに速い」収益の伸びを期待すべきだと述べた。
-「私たちの哲学は、必ずしも AI を使用して人口を減らすことではなく、AI を使用して人々からより多くを引き出すことでした」とチェスキー氏は述べた。同氏は、従業員一人当たりの収益は今後も増加するはずだと付け加えた。
-経済学は、チェスキー氏の AI に対するますます強気な見方の中心となっている。多くの消費者企業が依然として推論コストを正当化するのに十分な収益を生み出す方法を模索している中、Airbnb には異常に有利なモデルがあると同氏は主張します。
-「問題の1つは、多くの人がAIを使って消費者にお金を稼ぐ方法がわからないと感じていることだ」とチェスキー氏は語った。
-同氏によると、Airbnbでは推論コストは「予約ごとに得られる金額」や、より迅速な製品開発によって生み出される追加収益に比べれば微々たるものだという。
-同氏は、「今年は予測よりもはるかに多くの金額をAIトークンに費やすことになるだろう」と述べた。 「しかし、ROI があり、収益がはるかに高くなるので、これは素晴らしいことです。」
-チェスキー氏によると、Airbnbは依然としてこれらのトークンをどこに使うかを厳選しようとしており、社内で十数種類のAIモデルを使用しているという。これらには、Anthropic の Claude Code や OpenAI の Codex などのモデルが含まれます。ただし、タスクに追加機能が必要ない場合、一部の低速で高価なモデルへのアクセスが制限されます。
-チェスキー氏は消費者向け製品のオープンソースモデルに特に強気で、フロンティアモデルは最も困難な問題に対して依然として重要であるが、消費者のタスクのほとんどは最も高価なシステムを必要としないと述べた。
-「消費者はほとんどの場合、フロンティアモデルを必要としていない」とチェスキー氏は語った。 「適切なツールに対して適切なジョブを制限することが重要です。」
-同氏は、Airbnbが消費者向け製品に展開しているオープンソースモデルの名前は明らかにしなかったが、同社のテクノロジースタックの構成は競争上敏感になりつつあると述べた。
-より大きな問題は、AI が最終的に Airbnb 内のツール以上のものになるのか、むしろ旅行者がそもそもプラットフォームにアクセスする方法を変えるのかということです。 AI エージェントが旅程を組み立て、ユーザーに代わって行動する能力が向上すると、理論的には OpenAI や Alphabet のような企業が、旅行者が宿泊施設を見つけて予約するためのインターフェースになる可能性があります。
-しかしチェスキー氏は、トランザクション層としてチャットボットがAirbnbに取って代わることには懐疑的だ。
-旅行は視覚的であり、テキストだけで比較するのは難しく、多くの場合、共同で計画されるが、これらすべての分野において、従来のチャットボットインターフェースが依然として弱いと同氏は述べた。
-「チャットインターフェースが旅行に適したインターフェースであるとは思わない」とチェスキー氏は語った。
-同氏は、チャットボットがインスピレーションや旅程の作成にとって重要になると予想しているが、「近い将来」にはチャットボットが主要な予約プラットフォームになるとは考えていないと述べた。
-チェスキー氏は今のところ、AIを活用してAirbnb自身の成長滑走路を伸ばすことに注力していると述べた。同氏はCNBCに対し、初めて予約する人が過去4年間で最も速いペースで増加していると述べ、米国のビジネスは第1四半期から加速したと述べた。一方、Airbnbがその名を築いた住宅レンタル市場を超えて拡大する中、ホテルは同社の従来の住宅掲載件数の3倍のスピードで成長している。
-「当社は2010年代が最良の時代だったような企業ではない」とチェスキー氏は語った。 「私たちは最高の日が目の前にある会社です。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-    publishedAt: "2026-08-07T16:28:54+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "goodwin-considers-selling-part-of-defenc-8b1f08c6",
-    title: "Goodwin considers selling part of defence business",
-    titleJa: "グッドウィン、防衛事業の一部売却を検討",
-    summaryJa: "グッドウィン、防衛事業の一部売却を検討- 公開されました",
-    bodyOriginal: `Goodwin considers selling part of defence business
-- Published
-British engineering company Goodwin has said it is considering selling off parts of its business, which supplies components to major defence and nuclear programmes.
-The Stoke-on-Trent-based group said it was exploring a possible sale of a "substantial part" of its mechanical engineering division, which includes Goodwin Steel Castings (GSC), Goodwin International (GI), Noreva, Easat and Pumps.
-In a statement on Friday, the firm's board confirmed it had commenced a strategic review to "consider a range of potential options to maximise value for shareholders".
-Goodwin said discussions were ongoing and that there was no certainty of a sale taking place.
-"The board of Goodwin confirms that it has commenced a strategic review to consider a range of potential options to maximise value for shareholders whilst ensuring continuity for all stakeholders, including customers, and the long-term prosperity of its businesses," the company said.
-"Discussions are ongoing and there can be no certainty that a transaction will be entered into. Rothschild & Co is advising the board of Goodwin on the strategic review."
-Goodwin's mechanical engineering division is a key supplier of components to UK and US frigate and submarine programmes.
-This includes Britain's Dreadnought programme, which is building the Royal Navy's next-generation nuclear deterrent submarines, and the Type 26 frigate programme, which is developing a fleet of advanced anti-submarine warships.
-According to its latest annual report, Goodwin Steel Castings and Goodwin International have delivered a boost to the company's profits, having benefited from economies increasing their defence spending.
-A report in the Financial Times said several potential buyers that have records in defence had expressed interest in Goodwin in recent weeks.
-The company, which was founded in 1883, is majority owned and managed by the Goodwin family, while it has shares listed on the London Stock Exchange.
-Its shares were up by about 10% on Friday morning.
-Russ Mould, investment director for AJ Bell, said: "The company is a major supplier to UK and US submarine programmes and has also benefited from bumper defence spending across other parts of its business.
-"The company took a big hit in March when it lost two significant contracts and faced order delays in the Middle East."
-He added: "Yet the interest in Goodwin's defence arm is a reminder that the UK has a collection of engineering businesses which are global leaders in their respective niches.
-"What any sale would mean for the future of Goodwin as a standalone business remains an open question but it is likely to still derive a significant chunk of its revenue from military spending regardless."
-Get in touch
-Tell us which stories we should cover in Staffordshire
-Follow BBC Stoke & Staffordshire on BBC Sounds, Facebook, external, X, external and Instagram, external.
-Related topics
-- Published15 July
-- Published2 June 2025
-- Published20 March 2025`,
-    bodyJa: `グッドウィン、防衛事業の一部売却を検討
-- 公開されました
-英国のエンジニアリング会社グッドウィンは、主要な防衛および核計画に部品を供給する事業の一部売却を検討していると発表した。
-ストーク・オン・トレントに本拠を置く同グループは、グッドウィン・スチール・キャスティングス（GSC）、グッドウィン・インターナショナル（GI）、ノレバ、イーサット、ポンプスを含む機械エンジニアリング部門の「相当部分」の売却の可能性を検討していると述べた。
-同社取締役会は金曜日の声明で、「株主にとっての価値を最大化するための幅広い選択肢を検討する」ための戦略的見直しを開始したことを確認した。
-グッドウィン氏は、交渉は進行中であり、売却が行われる確実性はないと述べた。
-「グッドウィンの取締役会は、顧客を含むすべての利害関係者の継続性と事業の長期的な繁栄を確保しながら、株主の価値を最大化するための幅広い選択肢を検討するための戦略的見直しを開始したことを確認した」と同社は述べた。
-「議論は進行中であり、取引が締結されるかどうかは確信が持てない。ロスチャイルド＆カンパニーは戦略的見直しについてグッドウィンの取締役会に助言している。」
-グッドウィンの機械エンジニアリング部門は、英国と米国のフリゲート艦および潜水艦計画への部品の主要サプライヤーです。
-これには、イギリス海軍の次世代核抑止力潜水艦を建造する英国のドレッドノート計画と、先進的な対潜艦艇の艦隊を開発するタイプ26フリゲート計画が含まれる。
-最新の年次報告書によると、グッドウィン・スチール・キャスティングスとグッドウィン・インターナショナルは、国防支出の増加による経済の恩恵を受け、同社の利益を押し上げた。
-フィナンシャル・タイムズの報道によると、ここ数週間で弁護活動の実績を持つ複数の買い手候補がグッドウィンに関心を示しているという。
-同社は 1883 年に設立され、グッドウィン家が過半数を所有および経営しており、ロンドン証券取引所に株式を上場しています。
-同社株は金曜日午前中に約10％上昇した。
-AJベルの投資ディレクター、ラス・モールド氏は「同社は英国と米国の潜水艦計画への主要サプライヤーであり、事業の他の部分でも多額の防衛支出から恩恵を受けている」と述べた。
-「同社は3月に2つの重要な契約を失い、中東での注文の遅れに直面し、大きな打撃を受けた。」
-同氏はさらに、「しかし、グッドウィンの防衛部門への関心は、英国がそれぞれの分野で世界的リーダーであるエンジニアリング企業の集合体を持っていることを思い出させるものだ」と付け加えた。
-「売却が独立事業としてのグッドウィンの将来にどのような影響を与えるかは未解決の問題のままだが、それでもなお、収益のかなりの部分を軍事支出から得ている可能性が高い。」
-連絡する
-スタッフォードシャーで取り上げるべきストーリーを教えてください
-BBC Sounds、Facebook（外部）、X（外部）、Instagram（外部）で BBC Stoke & Staffordshire をフォローしてください。
-関連トピック
-- 7 月 15 日発行
-- 2025 年 6 月 2 日発行
-- 2025 年 3 月 20 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-07T15:22:51+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1769/live/f8457c70-926d-11f1-9f0c-8d4ddef91df6.jpg",
-    readTime: 3,
-  },
-  {
-    id: "i-was-standing-in-front-of-my-teacher-wh-cd2689ca",
-    title: "I was standing in front of my teacher when she was shot, Thai pupil says",
-    titleJa: "タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた",
-    summaryJa: "タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた- 公開されました",
-    bodyOriginal: `I was standing in front of my teacher when she was shot, Thai pupil says
-- Published
-On Friday morning, as the final classes of the week were under way, panicked students began streaming out of a prestigious school just outside Bangkok.
-Inside, police say, a 14-year-old boy had opened fire.
-"I was standing in front of the teacher when she was shot," a shaken seventh grader tells the BBC, near the gates of Debsirin School in Nonthaburi. "She was talking to me when [the gunman] showed up."
-Still in her uniform, with her mother by her side, she explains how the shooter stalked from room to room.
-Authorities say he killed five teachers and injured 23 people - including fellow pupils - before turning the weapon on himself. Earlier, he had gunned down his grandparents.
-"I had to climb over the school fence to escape with other friends," the girl, who the BBC is not naming, continues.
-Her mother says the girl thought she might die. "[She said] 'I thought I'd never see you again'."
-One 18-year-old student told Reuters he initially thought firecrackers were going off.
-"I didn't think it was a gun at first," he said. "There were many shots: bang bang bang. Then it went quiet. Then it started again."
-Metres from the school gates, paramedics loaded the wounded into ambulances and rushed them to hospital, as milling crowds hugged and cried.
-Rescue worker Kiatikhun Verapongpradith rushed to the scene after hearing children as young as 12 had been hurt.
-"I saw students who had been shot, some in the arm, some in the back, some in the chest. So I rushed to help get them to the hospital first," the 47-year-old rescue worker told Reuters news agency.
-One grieving teacher told the BBC his friend was among the dead.
-"She was my age. We went to this school together as students. Then we both became teachers at this school," the 31-year-old, who declined to give his name, said.
-It is early days in the investigation and police haven't said anything about a motive.
-They believe the 9mm handgun the shooter used belonged to his grandfather. Forensic officers found the gunman's shots to be "quite accurate", with several hitting "vital spots" on victims' bodies.
-Others are filling some of the gaps. A teacher at the school has said the shooter was a good student - not aggressive and with good grades - and education authorities have described him as an avid gamer.
-Prime Minister Anutin Charnvirakul said study pressures may have played a role.
-"We learned that his grandmother was a teacher and she might have been strict with him. From what the police gathered from his close friend, they knew he was quite stressed about it."
-It is clear authorities will have many questions to answer in the coming days - many of them about what change this crime must trigger.
-Renewed calls for gun control reform
-This is Thailand's deadliest mass shooting in years - and the second at a school this year.
-In February, a head teacher and a female student were shot by an 18-year-old gunman during a school siege in southern Thailand.
-Four years ago, a 34-year-old in the eastern Nong Bua Lamphu province killed 37 people, most of them preschoolers, in a shooting and stabbing at a nursery.
-These crimes have resurfaced questions about gun control in the country.
-"This shouldn't have happened," the boyfriend of one of the killed teachers told reporters, clearly distressed and trying to hold back tears.
-More than seven million people are believed to own guns in the country, one of the highest rates of ownership in the world. Of those, more than one million are unlicensed owners.
-While there are restrictions on gun licences in Thailand, people can still acquire the weapons - legally or illegally - with relative ease.
-There is a thriving black market, aided by Thailand's porous land borders with four other nations. Problems with corruption and loose regulation in the police and military have seen weapons end up in the wrong hands.
-Prime Minister Anutin said he had tightened regulations when he was interior minister three years ago - suspending new gun permits.
-But gun crime remains rife, with deaths from gunshots among the highest in the region. And some in the community are calling for greater action.
-"An act of violence in an educational institution, which should be one of the safest places in our society, serves as a stark reminder for Thai society to seriously and systematically review gun control measures," Natthaphong Ruengpanyawut, leader of the People's Party - an opposition party - wrote in a Facebook post.
-Related topics
-- Published15 hours ago`,
-    bodyJa: `タイの生徒によると、彼女が撃たれたとき、私は先生の前に立っていた
-- 公開されました
-金曜日の朝、週の最後の授業が始まっていたとき、パニックに陥った学生たちがバンコク郊外の名門学校から飛び出し始めた。
-警察によると、内部では14歳の少年が発砲したという。
-「彼女が撃たれたとき、私は先生の前に立っていました」とノンタブリーのデブシリン学校の門近くで動揺する7年生がBBCに語った。 「[銃撃犯が]現れたとき、彼女は私に話しかけていました。」
-まだ制服を着たまま、母親がそばにいて、彼女は銃撃犯がどのようにして部屋から部屋へと忍び寄ったのかを説明した。
-当局によると、彼は自らに凶器を向ける前に、教師５人を殺害し、仲間の生徒を含む２３人を負傷させた。以前、彼は祖父母を銃で射殺した。
-「他の友達と一緒に逃げるために学校の柵を乗り越えなければなりませんでした」とBBCは名前を明かしていない少女は続けた。
-母親は、少女は自分が死ぬかもしれないと思ったと語った。 「[彼女は言った]『もう会えないと思ってた』」
-ある１８歳の学生はロイターに対し、最初は爆竹が鳴っているのではないかと思ったと語った。
-「最初は銃だとは思わなかった」と彼は語った。 「銃声が何発もあった。バンバンバン。それから静かになった。そしてまた始まった。」
-校門から数メートルのところで、群衆が抱き合って泣き叫ぶ中、救急隊員が負傷者を救急車に乗せて病院へ急いだ。
-救助隊員のキアティクン・ベラポンプラディットさんは、12歳の子供たちが負傷したと聞いて現場に駆けつけた。
-47歳の救助隊員はロイター通信に対し、「腕を撃たれた学生、背中を撃たれた学生、胸を撃たれた学生を見た。そこで私は急いで彼らを先に病院に連れて行こうとした」とロイター通信に語った。
-悲しみに暮れるある教師はBBCに対し、死者の中には友人も含まれていたと語った。
-「彼女は私と同い年でした。私たちは生徒としてこの学校に一緒に通いました。その後、二人ともこの学校の教師になりました」と、名前を明かすことを拒否した31歳の男性は語った。
-まだ捜査は始まって日が浅いが、警察は動機について何も語っていない。
-彼らは、銃撃犯が使用した9mm拳銃は祖父のものだと信じている。法医学官らは、銃撃犯の発砲は「非常に正確」で、被害者の体の「急所」に数発命中したことを発見した。
-他の人がいくつかのギャップを埋めています。同校の教師は銃撃犯は攻撃的ではなく成績も良い優秀な生徒だったと述べ、教育当局は犯人が熱心なゲーマーだったと説明している。
-アヌティン・チャーンヴィラクル首相は、研究への圧力が一因となった可能性があると述べた。
-「私たちは彼の祖母が教師であり、彼女が彼に厳しかった可能性があることを知りました。警察が彼の親しい友人から集めた情報から、彼らは彼がそのことでかなりストレスを感じていたことを知っていました。」
-当局が今後数日以内に多くの質問に答えなければならないことは明らかで、その多くはこの犯罪がどのような変化を引き起こすかについてのものだ。
-銃規制改革を改めて求める声
-これはタイでここ数年で最も死者数が多い銃乱射事件であり、学校で発生した銃乱射事件は今年2件目となる。
-2月、タイ南部の学校包囲で校長と女子生徒が18歳の銃撃犯に射殺された。
-4年前、東部ノンブアランプー県の34歳の男が保育園で銃撃と刺殺事件を起こし、そのほとんどが未就学児だった37人を殺害した。
-これらの犯罪により、国内の銃規制に対する疑問が再浮上している。
-「こんなことは起こるべきではなかった」と、殺害された教師の一人のボーイフレンドは明らかに苦痛を感じながら涙をこらえながら記者団に語った。
-この国では700万人以上が銃を所有しているとみられており、世界で最も高い所有率の一つとなっている。そのうち 100 万人以上が無許可の所有者です。
-タイでは銃の免許には制限があるものの、人々は合法・非合法に関わらず比較的簡単に武器を入手することができます。
-タイには他の 4 か国との穴だらけの陸地国境があり、闇市場が繁栄しています。警察や軍における汚職や規制の緩みなどの問題により、武器が悪者の手に渡ってしまっている。
-アヌティン首相は、3年前に内務大臣だったときに規制を強化し、新たな銃の許可を停止したと述べた。
-しかし銃犯罪は依然として蔓延しており、銃による死亡者数はこの地域で最も多い。そしてコミュニティの中には、より大きな行動を求める人もいます。
-「私たちの社会で最も安全な場所の一つであるはずの教育機関での暴力行為は、タイ社会に銃規制対策を真剣かつ体系的に見直すべきだということを痛感させられる」と野党人民党のナタポン・ルエンパニャウット党首はフェイスブックへの投稿で述べた。
-関連トピック
-- 15 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-07T14:20:27+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a75/live/25959060-926f-11f1-be40-e93959facbbc.jpg",
-    readTime: 5,
-  },
-  {
-    id: "surprise-fall-in-us-jobs-last-month-as-s-14d3a802",
-    title: "Surprise fall in US jobs last month as slow summer continues",
-    titleJa: "緩やかな夏が続く中、先月の米国雇用は予想外の減少",
-    summaryJa: "緩やかな夏が続く中、先月の米国雇用は予想外の減少- 公開されました",
-    bodyOriginal: `Surprise fall in US jobs last month as slow summer continues
-- Published
-The US economy is creating fewer jobs than expected with the employment market performing weaker during the summer than previously thought, official figures show.
-There was a surprise shedding of 23,000 jobs last month, with declines driven by cuts in local government education and retail roles, despite analysts predicting growth.
-The Bureau of Labor Statistics also revised down the number of jobs added in May and June by 103,000, signalling a slow summer of job creation.
-Analysts said the latest figures could reduce pressure on the US central bank, the Federal Reserve, to raise interest rates next month, despite high inflation.
-Nancy Vanden Houten, lead economist at Oxford Economics, said expectations of interest rates being raised had been "scaled back", since the decision last month.
-US stock markets opened higher on Friday following the release of the latest jobs figures on the prospect that the weaker data might prevent any rate hikes.
-Analysts had expected an uptick in the number of jobs being added to the economy last month of 80,000, as opposed to a loss of 23,000.
-As well as falls in local government education there were also declines in retail roles, including in wholesale stores, hypermarkets, gas stations and general mechanise shops.
-Despite fewer jobs being created, the Bureau of Labor Statistics said the unemployment rate actually dipped to 4.1% from 4.2%, as the number of people in work or looking for work declined slightly.
-Average hourly earnings rose by 3.2% in the year to July, compared with the 3.5% economists expected, with average hourly earnings for all employees on private non-farm payrolls at $37.62.
-Payrolls do have a tendency to be softer in July, but chief investment officer of Premier Miton Neil Birrell said the US jobs market was weaker "by some distance".
-"Labour force participation is back at levels not seen since the days of Covid, meaning jobs just aren't being created," he said.
-"This does leave the Fed with the problem of a weak jobs market providing a read across to growth, all at a time when inflation is a problem, but this data will ease the pressure to hike rates. It's a big call in September."
-As well as keeping inflation stable, the Fed has a mandate to maintain a high level of employment, meaning the jobs figures are also watched closely when deciding interest rates.
-Kevin Warsh, the newly-appointed chair of the Federal Reserve, has offered little forward guidance on future path of interest rates, in a policy shift from the US central bank.
-Rates were left unchanged, as broadly expected, between 3.5% and 3.75% last month. However, consumer prices remain elevated, with inflation running at an annual rate of 3.5%.
-Interest rate hikes are a tool used by central banks aiming to slow the pace at which prices are rising in the shops. By pushing up the cost of borrowing for things such as mortgages, loans and credit cards, central bankers hope consumers will spend less and the rate of price increases will slow.
-Warsh has repeatedly said he wants to bring inflation down, but prices have been rising in the wake of the Middle East conflict impacting global oil prices.
-Gasoline prices have gone back above $4 on average following recent escalations, according to the AAA. Diesel is almost $5.40 a gallon.`,
-    bodyJa: `緩やかな夏が続く中、先月の米国雇用は予想外の減少
-- 公開されました
-公式統計によると、夏の雇用市場はこれまで考えられていたよりも低迷しており、米国経済が創出する雇用は予想よりも少ないことが示されている。
-アナリストの成長予測にもかかわらず、先月は予想外の2万3000人の雇用削減があり、その減少は地方自治体の教育と小売業の役割の削減が原因だった。
-労働統計局も５月と６月の追加雇用数を１０万３０００人下方修正し、夏の雇用創出の鈍化を示唆した。
-アナリストらは、最新の統計により、インフレ率が高いにもかかわらず、米国の中央銀行である連邦準備理事会（FRB）に対する来月の利上げ圧力が軽減される可能性があると述べた。
-オックスフォード・エコノミクスの主任エコノミスト、ナンシー・バンデン・ハウテン氏は、先月の決定以降、利上げ期待は「縮小」したと述べた。
-金曜日の米国株式市場は、最新の雇用統計の発表を受け、弱い指標により利上げが阻止される可能性があるとの見方から上昇して始まった。
-アナリストらは、先月経済に追加される雇用数が２万３０００人減少するのに対し、８万人増加すると予想していた。
-地方自治体の教育の低下に加えて、卸売店、大型スーパーマーケット、ガソリンスタンド、総合機械店などの小売業の役割も低下した。
-雇用創出は減少しているにもかかわらず、就労または仕事を探している人の数がわずかに減少したため、実際の失業率は4.2％から4.1％に低下したと労働統計局は述べた。
-７月までの１年間の平均時給はエコノミスト予想の３．５％に対し３．２％増加し、非農業部門の民間給与を支払っている全従業員の平均時給は３７．６２ドルとなった。
-７月の雇用統計は確かに軟化する傾向にあるが、ミトン首相のニール・ビレル最高投資責任者（ＣＩＯ）は、米国の雇用市場は「ある程度」弱くなっていると述べた。
-同氏は「労働参加率は新型コロナウイルス感染症の時代以来見られなかった水準に戻っており、雇用が創出されていないだけだ」と述べた。
-「このことにより、インフレが問題となっているこの時期に、成長の先行きを占う雇用市場の弱さという問題がFRBに残されているが、今回のデータは利上げ圧力を和らげるだろう。これは9月の重要な判断だ。」
-FRBにはインフレの安定を維持するだけでなく、高水準の雇用を維持するという使命があるため、金利を決定する際には雇用統計も注意深く監視されることになる。
-FRBの新たな議長に任命されたケビン・ウォーシュ氏は、米国中央銀行からの政策転換の一環として、金利の将来の進路についてほとんどフォワードガイダンスを提供していない。
-金利は大方の予想通り、先月は３．５─３．７５％の間で据え置かれた。しかし、消費者物価は依然として上昇しており、インフレ率は年率 3.5% です。
-金利引き上げは、店頭価格の上昇ペースを遅らせることを目的とした中央銀行の手段だ。中央銀行当局は、住宅ローン、ローン、クレジットカードなどの借入コストを引き上げることで、消費者の支出が減り、物価上昇率が鈍化することを期待している。
-ウォーシュ氏はインフレを抑制したいと繰り返し述べてきたが、世界の原油価格に影響を与えている中東紛争を受けて価格は上昇している。
-AAAによると、最近の高騰を受けてガソリン価格は平均4ドルを超えて再び上昇している。ディーゼルは1ガロンあたり約5.40ドルです。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-07T14:03:55+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb4/live/44eb8470-925f-11f1-b9ff-37ae3aba3894.jpg",
-    readTime: 4,
   },
 ];
 
