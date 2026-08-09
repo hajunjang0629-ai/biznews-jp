@@ -15,6 +15,74 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "max-miller-stays-in-ohio-house-race-as-g-a108371a",
+    title: "Max Miller stays in Ohio House race as GOP ballot deadline passes",
+    titleJa: "マックス・ミラー氏、共和党の投票締め切りが過ぎてもオハイオ州下院選挙に残留",
+    summaryJa: "オハイオ州の共和党マックス・ミラー下院議員は、共和党議員らから再選を取り下げるよう求める声が高まっているにもかかわらず、共和党が彼に代わる候補者とする重要な期限を過ぎた後、再選レースに残ることになった。オハイオ州の法律では、共和党は月曜午後４時までの期限を設けている。後任の候補者を指名します。しかし、どちらを選ぶかを担当する地元の共和党幹部は会合の少なくとも2日前までに通知を受ける必要があり、党が時間内に手続きを完了するにはミラー氏が土曜日までに撤退する必要があることを意味する。彼はそうしませんでした。",
+    bodyOriginal: `Republican Rep. Max Miller of Ohio will remain in his reelection race, after a key deadline passed for the GOP to replace him as its nominee, despite mounting calls from fellow Republicans for him to drop his reelection bid.
+Under Ohio law, Republicans have until Monday at 4 p.m. to name a replacement nominee. But the local Republican officials responsible for choosing one must receive at least two days' notice before meeting, meaning Miller would have needed to withdraw by Saturday for the party to complete the process in time. He did not.
+Miller has now effectively missed the deadline, but could still withdraw and have his name removed from the ballot. Republicans would then be left without a nominee in Ohio's 7th Congressional District.
+Miller's spokesperson did not immediately respond to a request for comment.
+The deadline passed after a week of escalating Republican pressure on Miller to step aside over claims from his ex-wife, Emily Moreno, that he physically abused her and their young daughter. Miller has denied the allegations.
+Miller's father-in-law, Republican Sen. Bernie Moreno of Ohio, called the incumbent "a danger" last weekend and urged him to resign. Republican Sen. Jon Husted of Ohio later joined calls for Miller to leave office and end his campaign.
+President Donald Trump and House Speaker Mike Johnson, R-La., have stood by Miller.
+The House Ethics Committee opened an investigation last week into whether Miller may have engaged in domestic violence and abuse or illegal drug use after Miller asked the panel to investigate him.
+Miller is now positioned to face Democrat Brian Poindexter in November in a district that had been considered reliably Republican, as the GOP fights to preserve its narrow House majority.`,
+    bodyJa: `オハイオ州の共和党マックス・ミラー下院議員は、共和党議員らから再選を取り下げるよう求める声が高まっているにもかかわらず、共和党が彼に代わる候補者とする重要な期限を過ぎた後、再選レースに残ることになった。
+オハイオ州の法律では、共和党は月曜午後４時までの期限を設けている。後任の候補者を指名します。しかし、どちらを選ぶかを担当する地元の共和党幹部は会合の少なくとも2日前までに通知を受ける必要があり、党が時間内に手続きを完了するにはミラー氏が土曜日までに撤退する必要があることを意味する。彼はそうしませんでした。
+ミラー氏は事実上期限を過ぎてしまったが、それでも撤退して投票用紙から名前が削除される可能性はある。そうなると、共和党はオハイオ州第7選挙区で候補者がいなくなることになる。
+ミラー氏の広報担当者はコメントの要請に応じなかった。
+元妻エミリー・モレノさんからミラーさんと幼い娘への身体的虐待の主張をめぐって、共和党がミラー氏への辞任を求める圧力を強める１週間を経て、期限は過ぎた。ミラー氏は容疑を否認している。
+ミラー氏の義父である共和党バーニー・モレノ上院議員（オハイオ州）は先週末、現職を「危険」と呼び、辞任を促した。オハイオ州の共和党上院議員ジョン・ハステッドもその後、ミラー氏の退陣と選挙運動の終了を求める要求に加わった。
+ドナルド・トランプ大統領とマイク・ジョンソン下院議長（共和党、ルイジアナ州）はミラー氏を支持した。
+下院倫理委員会は先週、ミラー氏が委員会に調査を依頼したことを受け、ミラー氏が家庭内暴力や虐待、違法薬物使用に関与した可能性があるかどうか調査を開始した。
+共和党が僅差の下院過半数を維持しようと奮闘する中、ミラー氏は現在、共和党が確実視されていた選挙区で11月に民主党のブライアン・ポインデクスター氏と対戦する立場にある。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/09/max-miller-ohio-house-race-gop-replacement-deadline.html",
+    publishedAt: "2026-08-09T18:38:23+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ocasio-cortez-hasn-t-ruled-out-running-f-d5715c0a",
+    title: "Ocasio-Cortez hasn't 'ruled out' running for president or Senate in 2028",
+    titleJa: "オカシオコルテス氏は2028年の大統領または上院選に立候補する可能性を「排除していない」",
+    summaryJa: "アレクサンドリア・オカシオコルテス下院議員は日曜日、全米の中間予備選で民主党左派の勢力が急上昇する中、2028年の大統領選への出馬を「排除していない」と述べた。オカシオ＝コルテス氏はABC番組「ディス・ウィーク」への出演の可能性について問われ、「可能性を排除したわけではないが、膨大な量の支援に非常に恐縮している」と語った。 「私たちには、個人の願望ではなく、中間選挙に焦点を当て続ける責任があると思います。」",
+    bodyOriginal: `Rep. Alexandria Ocasio-Cortez said Sunday she has not "ruled out" a run for president in 2028 as the Democratic Party's left flank surges in midterm primaries across the country.
+"I haven't ruled out the possibility, and I'm very humbled [by] the tremendous amount of support out there," Ocasio-Cortez said when asked about a potential run on ABC's "This Week." "I think that we have a responsibility to remain focused on the midterms and not on our individual aspirations."
+The New York Democrat, who has represented parts of the Bronx and Queens since 2019, has emerged as a polling favorite in key states ahead of the 2026 midterms. She has also become a power broker on the left, criss-crossing the country with Sen. Bernie Sanders, I-Vt., who came up short in the last two presidential primaries.
+A recent poll from the University of New Hampshire found Ocasio-Cortez leading the field in the Granite State, ahead of former Transportation Secretary Pete Buttigieg and Sen. Mark Kelly, D-Ariz.
+Ocasio-Cortez also did not rule out a potential run for Senate in 2028, when Senate Minority Leader Chuck Schumer, D-N.Y., is up for reelection.
+"I think that anything is possible at this juncture," she said.`,
+    bodyJa: `アレクサンドリア・オカシオコルテス下院議員は日曜日、全米の中間予備選で民主党左派の勢力が急上昇する中、2028年の大統領選への出馬を「排除していない」と述べた。
+オカシオ＝コルテス氏はABC番組「ディス・ウィーク」への出演の可能性について問われ、「可能性を排除したわけではないが、膨大な量の支援に非常に恐縮している」と語った。 「私たちには、個人の願望ではなく、中間選挙に焦点を当て続ける責任があると思います。」
+2019年からブロンクス区とクイーンズの一部を代表してきたニューヨーク州民主党は、2026年の中間選挙を前に主要州で人気の支持者として浮上している。彼女はまた、過去2回の大統領予備選で惜しくも及ばなかったバーニー・サンダース上院議員（バーニー州、バーモント州）とともに国中を駆け巡る左派の権力仲介者となった。
+ニューハンプシャー大学の最近の世論調査では、花崗岩州ではオカシオコルテス氏がピート・ブティジェッジ元運輸長官やマーク・ケリー上院議員（民主党、アリゾナ州）を抑えてリードしていることが判明した。
+オカシオコルテス氏はまた、上院少数党院内総務チャック・シューマー氏（民主党、ニューヨーク州）が再選される2028年の上院選に立候補する可能性も排除しなかった。
+「現時点ではあらゆることが可能だと思います」と彼女は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/09/ocasio-cortez-hasnt-ruled-out-running-for-president-or-senate-in-2028.html",
+    publishedAt: "2026-08-09T14:45:17+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "s-p-500-sales-growth-is-at-a-nearly-5-ye-45c0b0a2",
+    title: "S&P 500 sales growth is at a nearly 5-year high. Here’s what’s behind the surge.",
+    titleJa: "S&P500種の売上高の伸びはここ5年近くで最高となっている。急増の背後にあるものは次のとおりです。",
+    summaryJa: "S&P 500 指数に含まれるエネルギー企業は第 2 四半期に 42.5% の収益増加を記録し、同指数の売上高を押し上げています。",
+    bodyOriginal: `Energy companies in the S&amp;P 500 have put up a 42.5% revenue gain in the second quarter, powering the index’s sales performance.`,
+    bodyJa: `S&P 500 指数に含まれるエネルギー企業は第 2 四半期に 42.5% の収益増加を記録し、同指数の売上高を押し上げています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/s-p-500-sales-growth-is-at-a-nearly-5-year-high-heres-whats-behind-the-surge-a4ccf06d?mod=mw_rss_topstories",
+    publishedAt: "2026-08-09T14:00:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-77846389",
+    readTime: 2,
+  },
+  {
     id: "abel-puts-a-big-chunk-of-berkshire-s-cas-64f83725",
     title: "Abel puts a big chunk of Berkshire's cash to work",
     titleJa: "アベルはバークシャーの多額の資金を投入している",
@@ -431,6 +499,88 @@ The Verizon outage impacted hundreds of customers from other major wireless carr
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
+  },
+  {
+    id: "raw-images-no-filters-why-myspace-fans-w-d2454d25",
+    title: "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
+    titleJa: "生の画像、フィルターなし: 再起動がほのめかされているため、MySpace ファンが復活を望む理由",
+    summaryJa: "生の画像、フィルターなし: 再起動がほのめかされているため、MySpace ファンが復活を望む理由- 公開されました",
+    bodyOriginal: `Raw images, no filters: Why MySpace fans want it back as relaunch hinted
+- Published
+For Monticah Hawkins, a 31-year-old real-estate agent in Atlanta, MySpace wasn't just a website – it was a ritual.
+"You could be authentic on MySpace," she says. "Upload raw images, no filters. You could have snot coming out your nose and nobody would judge."
+MySpace, once the world's biggest social network, is flirting with a comeback. Its owners, brothers Tim and Chris Vanderhook, say they plan to relaunch the platform, though no date or product details have been announced.
+A spokesperson for Viant, which owns MySpace, says the company does not have any updates to share "at this time."
+But just the idea of a comeback has stirred nostalgia among people who remember the MySpace days of more than 20 years ago as a place where personal pages were messy, loud, and deeply individual.
+It has also caught the attention of creators like Melissa Kristin, a TikTok star with more than 900,000 followers, who grew up on MySpace and remembers it as a more personal digital space.
+"It was all very much your own little world, your own corner of the internet," Kristin says.
+That sense of autonomy shaped how she expresses herself online today, and she believes that a revived MySpace should avoid the algorithmic, pay-to-play dynamics that dominate modern platforms.
+"It would be best served for personal connection rather than performance," she says.
+"Just to recapture that high we felt as millennials when we got all the friend requests and comments. It helped us feel connected."
+MySpace launched in 2003 and quickly became a cultural hub, helping artists like Arctic Monkeys, Adele, and Nicki Minaj find early audiences.
+But its highly customised pages, auto-playing music, and busy layouts eventually became a liability.
+Facebook's cleaner, simpler design pulled users away, and MySpace struggled through redesigns and ownership changes before fading from mainstream use.
+Marketing experts say any comeback will depend on learning from that history.
+Dr Alexa Fox, a marketing professor at the University of Akron, says the platform was a "first mover" in social media, but one that became too complex for many users.
+She believes MySpace's original strengths – music, creativity, and personal expression – could still resonate, but only with more accessible design.
+"It could be more user-friendly, with less coding involved," she says.
+Alex Mills, a social media strategist who has led campaigns for Spotify and Adobe, says the very thing people are nostalgic for, a feed without algorithms, was also "the thing that killed it."
+"People still want a feed," Mills says. "They just want a better one than the ones optimising for rage bait."
+Kevin McClary, head of performance marketing at Gorilla 76, believes MySpace should not try to compete directly with Meta, TikTok, or X.
+"They can be successful and sustainable even as a niche platform," he says, arguing it should be rooted in 2000s culture.
+McClary says leaning into MySpace's music identity could be a smart move, from profile songs to 2000s-themed festivals and merchandise.
+He believes the audience could be broader than former users, with younger generations embracing the early-2000s aesthetics they never experienced firsthand.
+"You see younger generations now buying old point-and-shoot digital cameras, MP3 players, even film cameras," McClary says. "They clearly have an interest in the past."
+MySpace could meet users where that trend is growing by becoming a place rooted in a "specific time," he says. He noted that creators making 2000s-style content on other platforms are often at the "mercy" of algorithms.
+Fox agrees that differentiation is essential.
+"MySpace shouldn't hang their hat on features other platforms already dominate," Fox says, pointing to Reels and short-form videos.
+Popular formats can be added, she says, but they should not define the platform.
+She also sees an opportunity to offer a calmer experience. Today's feeds, she notes, are "algorithmic-driven AI, constantly in your face."
+A platform where users have more control, or simply feel less overwhelmed, could stand out in a crowded market.
+For fans like Hawkins and Kristin, the appeal is emotional as much as practical. Both say they would return if MySpace kept its original spirit.
+For now, its comeback exists mostly as a promise – a reminder of a time when social media felt a little less polished and a lot more personal.
+"Are you still gonna have that same feeling?" Hawkins says. "Are you still gonna feel like, 'oh my god, somebody loves me?'"`,
+    bodyJa: `生の画像、フィルターなし: 再起動がほのめかされているため、MySpace ファンが復活を望む理由
+- 公開されました
+アトランタで不動産業者を営むモンティカ・ホーキンスさん（31）にとって、MySpaceは単なるウェブサイトではなく、儀式だった。
+「MySpace では本物になれるかもしれません」と彼女は言います。 「フィルタをかけずに生の画像をアップロードしてください。鼻から鼻水が出ても誰も判断しません。」
+かつては世界最大のソーシャル ネットワークだった MySpace が復活を目指しています。そのオーナーであるティム・ヴァンダーフック兄弟とクリス・ヴァンダーフック兄弟は、プラットフォームを再起動する計画だと述べているが、日付や製品の詳細は発表されていない。
+MySpaceを所有するViantの広報担当者は、同社には「現時点では」共有できる最新情報はないと述べた。
+しかし、復活という考えだけで、20年以上前のMySpace時代を、個人ページが乱雑でうるさく、そして非常に個人的な場所として覚えている人々の間で懐かしさを呼び起こした。
+また、MySpace で育ち、MySpace をより個人的なデジタル スペースとして覚えている、90 万人以上のフォロワーを持つ TikTok スター、メリッサ クリスティンのようなクリエイターの注目も集めています。
+「それはまさにあなた自身の小さな世界、インターネットのあなた自身の片隅でした」とクリスティンは言います。
+その自主性の感覚が、今日のオンラインでの彼女の表現方法を形作りました。彼女は、復活した MySpace では、現代のプラットフォームを支配するアルゴリズムによる課金制のダイナミクスを避けるべきだと信じています。
+「パフォーマンスよりも個人的なつながりに最適です」と彼女は言います。
+「すべての友達リクエストやコメントを受け取ったときに、ミレニアル世代として感じた高揚感を取り戻すためです。それは私たちがつながっていると感じるのに役立ちました。」
+MySpace は 2003 年に設立され、すぐに文化のハブとなり、アークティック モンキーズ、アデル、ニッキー ミナージュなどのアーティストが初期の視聴者を見つけるのに役立ちました。
+しかし、高度にカスタマイズされたページ、自動再生される音楽、煩雑なレイアウトが最終的には欠点となりました。
+Facebook のクリーンでシンプルなデザインはユーザーを遠ざけ、MySpace は主流の使用から消え去るまで再設計と所有権の変更に苦労しました。
+マーケティングの専門家らは、復活できるかどうかはその歴史から学ぶかどうかにかかっていると語る。
+アクロン大学のマーケティング教授アレクサ・フォックス博士は、このプラットフォームはソーシャルメディアの「先駆者」だったが、多くのユーザーにとっては複雑になりすぎたと述べた。
+彼女は、MySpace の本来の強みである音楽、創造性、個人の表現が依然として共感を呼ぶ可能性があると信じていますが、それはよりアクセスしやすいデザインが必要です。
+「コーディングの手間が減り、よりユーザーフレンドリーになる可能性があります」と彼女は言います。
+SpotifyやAdobeのキャンペーンを率いてきたソーシャルメディア戦略家のアレックス・ミルズ氏は、人々が懐かしんでいるもの、つまりアルゴリズムのないフィードそのものが「それを台無しにしたもの」でもあったと語る。
+「人々は依然として餌を求めています」とミルズ氏は言う。 「彼らは怒りの餌に最適化したものよりも優れたものを求めているだけです。」
+Gorilla 76 のパフォーマンス マーケティング責任者である Kevin McClary 氏は、MySpace は Meta、TikTok、または X と直接競合しようとするべきではないと考えています。
+同氏は「ニッチなプラットフォームとしても成功し持続可能だ」と述べ、2000年代の文化に根ざしたものであるべきだと主張した。
+マクラリー氏は、プロフィールソングから 2000 年代をテーマにしたフェスティバルや商品に至るまで、MySpace の音楽アイデンティティを活用することは賢明な動きになる可能性があると述べています。
+彼は、若い世代が直接経験したことのない 2000 年代初頭の美学を受け入れており、視聴者は以前のユーザーよりも幅広い可能性があると考えています。
+「今では若い世代が古いコンパクトデジタルカメラやMP3プレーヤー、さらにはフィルムカメラを購入しているのがわかります」とマクラリー氏は言う。 「彼らは明らかに過去に興味を持っています。」
+MySpace は「特定の時代」に根ざした場所になることで、その傾向が高まっているユーザーに出会うことができる、と彼は言う。同氏は、他のプラットフォームで2000年代スタイルのコンテンツを制作しているクリエイターはアルゴリズムの「なすがまま」になることが多いと指摘した。
+フォックス氏も差別化が不可欠であることに同意する。
+「MySpaceは、他のプラットフォームがすでに独占している機能に脱帽すべきではない」とフォックス氏はリールと短編ビデオを挙げて言う。
+人気のあるフォーマットを追加することはできますが、プラットフォームを定義するべきではないと彼女は言います。
+彼女は、より穏やかな体験を提供する機会も考えています。現在のフィードは「アルゴリズム駆動の AI が常に目の前にある」と彼女は指摘します。
+ユーザーがより自由に制御できるプラットフォーム、または単純に圧倒されにくいプラットフォームは、混雑した市場で目立つ可能性があります。
+ホーキンスやクリスティンのようなファンにとって、その魅力は実際的なものであると同時に感情的なものでもあります。両氏とも、MySpace が当初の精神を維持していれば戻ってくるだろうと述べている。
+今のところ、その復活は主に約束として存在しています。これは、ソーシャルメディアが少し洗練されておらず、より個人的なものに感じられていた時代を思い出させます。
+「あなたはまだ同じ気持ちを持ち続けるつもりですか？」ホーキンス氏は言う。 「まだ、『なんてことだ、誰かが私を愛してくれている』と感じるつもりですか？」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-09T00:04:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b8/live/75e1db80-9249-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 7,
   },
   {
     id: "hundreds-arrested-over-french-wildfires-ff529b09",
@@ -1907,174 +2057,6 @@ The Debsirin School, founded in Bangkok in 1885, is one of Thailand's top second
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-00481430",
     readTime: 2,
-  },
-  {
-    id: "saaspocalypse-debate-intensifies-as-sof-2cd3582a",
-    title: "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
-    titleJa: "ソフトウェア株の乱高下で「SaaSpocalypse」議論が激化",
-    summaryJa: "今週は「サースポカリプス」が猛威を振るっていた。その後、猶予が与えられました。かつてのハイフライヤーであるエアテーブルを数ペニーで買収し、その後、収益報告でハブスポット、データドッグ、フィグマが急落したことはすべて、人工知能モデルが高価なソフトウェア製品の価値を食いつぶしているのではないかという投資家の懸念を強調する結果となった。",
-    bodyOriginal: `The "SaaSpocalypse" was raging this week. Then it got a reprieve.
-The pennies-on-the-dollar acquisition of one-time highflyer Airtable, followed by plunges in HubSpot, Datadog and Figma on earnings reports, all served to underscore investor concerns that artificial intelligence models are eating away at the value of costly software products.
-"I do think that companies are going to continue to use these coding agents to build functionality to maybe act as a little bit of pressure on renewals," said Matt Hedberg, a software analyst at RBC Capital Markets.
-But by the end of the week, Wall Street was reminded that there's still juice left in an industry that, not long ago, was viewed as driving innovation and was trading at hefty market multiples.
-Twilio, a provider of cloud-based communications software, and Atlassian, which sells collaboration tools, each saw pops of well over 20% on Friday after reporting quarterly results. Cloudflare, which helps protect websites from cyber attacks, gained 5.6%.
-Box CEO Aaron Levie, who's been evangelizing cloud software since he started his file-sharing company more than two decades ago, was particularly impressed with Atlassian, which reported its most profitable quarter since 2021.
-"Huge Atlassian quarterly beat," Levie wrote on X. "There was a misplaced thesis over the past 6 months that somehow agents would be bad for certain software categories. There's definitely truth in this in some areas, but many were parsing this poorly."
-Levie's reaction reflects a level of nuance that's not always apparent in the sell-it-all trade. Salesforce CEO Marc Benioff has spent months trying to convince investors that his company's longstanding software for sales, marketing and customer service won't be vibe-coded away. Salesforce has lost more than 40% of its value since the end of 2024 despite accelerating revenue growth and consistent margins.
-Salesforce and its software peers have been under pressure, less because of their current growth rates and more because of the increasingly popular view that tools like OpenAI's Codex and Anthropic's Claude Code will slowly — and then rapidly — hollow out their economics.
-The iShares Expanded Tech-Software Sector ETF plummeted 24% in the first quarter, its worst performance since 2008. However, it's since rebounded sharply and is now down just 3% for the year, while the Nasdaq is up 15%.
-'Pencils down'
-RBC's Hedberg said sentiment was so bad in the first quarter that clients didn't even want to discuss software.
-"People were pencils down in the space," he said. "They just didn't feel like it was worth their time to meet with software companies back then, and that was even high-quality companies."
-That attitude has become a big problem for venture-backed software companies that raised money at hefty valuations in the pre-AI era and are now trying to figure out what's next for them. There haven't been any notable SaaS IPOs this year, and 86% of private deal value in the first half of 2026 went to AI companies, according to PitchBook data.
-Concerns were amplified on Tuesday, when Italian software buyout firm Bending Spoons said it had agreed to buy workflow management startup Airtable for less than $1.3 billion. At its peak in 2021, Airtable was valued at nearly $12 billion.
-Bending Spoons, which held its own IPO in July, owns brands including AOL, Evernote and Vimeo, and now has a market cap of $28 billion.
-Two days after the Airtable deal, HubSpot had its worst day on the market in a decade, sliding 19% and bringing its loss for the past year to over 50%. Datadog, which sells monitoring software, also sank 19% on Thursday, the steepest slump since its IPO in 2019. Still, the stock has been an outperformer, climbing 72% this year.
-Datadog said its biggest AI client, which analysts suspect is OpenAI, has cut usage since June.
-"There's these reminders that we're not out of it," Hedberg said. "Everything's not smooth sailing."
-The mood improved after the close on Thursday, thanks to stronger reports from Atlassian, Twilio and Cloudflare. Atlassian CEO Mike Cannon-Brookes credited his company's research and development teams for working hard to give customers "the best quality at the best price and the best speed."
-The report came five months after Atlassian slashed 10% of its workforce, or 1,600 jobs, which Cannon-Brookes said at the time was necessary to "self-fund further investment in AI and enterprise sales, while strengthening our financial profile."
-Atlassian's 35% surge on Friday marked its best day since the company went public in 2015. It's still down 8% this year after losing one-third of its value in 2025.
-Rishi Jaluria, another RBC analyst, said some of the pop for Atlassian is likely attributable to short covering, meaning that investors who bet against the stock by borrowing shares and selling them are now buying them back.
-"Everyone says Atlassian is going to get crushed by Claude Code and OpenAI Codex, and so they're done," said Jaluria, who doesn't cover the company. "Any proof point that says, oh wait, this company isn't dead, is going to result in a short squeeze."
-WATCH: We do not think AI will kill 'SaaS' but slow decay is bad enough: CLSA`,
-    bodyJa: `今週は「サースポカリプス」が猛威を振るっていた。その後、猶予が与えられました。
-かつてのハイフライヤーであるエアテーブルを数ペニーで買収し、その後、収益報告でハブスポット、データドッグ、フィグマが急落したことはすべて、人工知能モデルが高価なソフトウェア製品の価値を食いつぶしているのではないかという投資家の懸念を強調する結果となった。
-ＲＢＣキャピタル・マーケッツのソフトウェアアナリスト、マット・ヘドバーグ氏は「企業は今後もこうしたコーディングエージェントを利用して機能を構築し、更新の際に多少のプレッシャーとなるのではないかと思う」と述べた。
-しかし、週末までにウォール街は、つい最近までイノベーションを推進すると見なされ、高額な市場倍率で取引されていた業界にまだ力が残っていることを思い知らされた。
-クラウドベースの通信ソフトウェアを提供するトゥイリオとコラボレーションツールを販売するアトラシアンは、四半期決算を発表した金曜日にそれぞれ20％を大きく超える上昇率を記録した。サイバー攻撃からウェブサイトを保護するサービスを提供するクラウドフレアは5.6％上昇した。
-20年以上前にファイル共有会社を立ち上げて以来、クラウドソフトウェアの普及を推進してきたBoxのCEO、アーロン・リービー氏は、2021年以来最も収益性の高い四半期を報告したアトラシアンに特に感銘を受けたという。
-Levie 氏は X について「アトラシアンの四半期ごとの大きなビートです。過去 6 か月間、エージェントが特定のソフトウェア カテゴリに悪影響を与えるという見当違いの理論がありました。これには一部の分野では間違いなく真実がありますが、多くはこれを適切に解析していませんでした。」と書いています。
-リービー氏の反応は、売り切り取引では必ずしも明らかではないレベルのニュアンスを反映している。セールスフォースの最高経営責任者（CEO）マーク・ベニオフ氏は、同社の販売、マーケティング、顧客サービス向けの長年のソフトウェアが雰囲気コード化されずに済むことを投資家に説得するのに数カ月を費やした。 Salesforce は、加速する収益成長と安定した利益率にもかかわらず、2024 年末以降、その価値の 40% 以上を失っています。
-Salesforce とそのソフトウェア製品は、現在の成長率よりもむしろ、OpenAI の Codex や Anthropic の Claude Code のようなツールが徐々に、そして急速に経済を空洞化させるという見方が広まっているため、プレッシャーにさらされています。
-iシェアーズ・エキスパンド・ハイテク・ソフトウェア・セクターETFは第1四半期に24％急落し、2008年以来最悪のパフォーマンスとなった。しかし、その後急反発し、現在では年間でわずか3％下落しているのに対し、ナスダックは15％上昇している。
-「鉛筆を下げてください」
-RBCのヘドバーグ氏は、第1四半期のセンチメントは非常に悪かったため、顧客はソフトウェアについて話し合うことすら望まなかったと述べた。
-「空間では人々は鉛筆のような状態だった」と彼は言う。 「彼らは当時、たとえそれが高品質な企業であっても、ソフトウェア会社と会うことに時間を費やす価値があるとは感じていませんでした。」
-こうした姿勢は、AI以前の時代に高額の評価額で資金を調達し、現在は次の展開を模索しているベンチャー支援のソフトウェア企業にとって大きな問題となっている。今年は目立ったSaaS IPOはなく、PitchBookのデータによると、2026年上半期の非公開取引額の86％がAI企業に向けられた。
-イタリアのソフトウェア買収会社ベンディング・スプーンズが火曜日、ワークフロー管理スタートアップのエアテーブルを13億ドル未満で買収することで合意したと発表し、懸念はさらに増幅した。 2021年のピーク時には、Airtableの評価額は120億ドル近くに達した。
-7月に独自のIPOを行ったBending Spoonsは、AOL、Evernote、Vimeoなどのブランドを所有しており、現在時価総額は280億ドルとなっている。
-Airtable との取引から 2 日後、HubSpot は市場で 10 年間で最悪の日を迎え、19% 下落し、過去 1 年間の損失は 50% 以上に達しました。監視ソフトウェアを販売するデータドッグも木曜日に19％下落し、2019年のIPO以来最大の下落となった。それでも株価はアウトパフォームしており、今年は72％上昇している。
-Datadogは、アナリストがOpenAIではないかと疑う最大のAIクライアントが6月以降、使用量を削減していると述べた。
-「私たちがまだ危機を脱していないことを思い出させてくれます」とヘドバーグ氏は語った。 「すべてが順風満帆というわけではない。」
-Atlassian、Twilio、Cloudflareからの堅調なレポートのおかげで、木曜日の取引終了後に雰囲気は改善しました。アトラシアンの CEO、マイク・キャノン・ブルックス氏は、顧客に「最高の品質を最高の価格で、最高のスピードで」提供するために同社の研究開発チームが懸命に取り組んでいることを称賛した。
-この報告書は、アトラシアンが従業員の10％、つまり1,600人を削減した5か月後に発表されたが、キャノンブルックス氏は当時、「当社の財務プロフィールを強化しながら、AIとエンタープライズ販売へのさらなる投資を自己資金で賄う」ために必要だったと述べていた。
-アトラシアンの金曜日の35％上昇は、同社が2015年に上場して以来最高の日となった。2025年には価値の3分の1を失った後、今年はまだ8％下落している。
-別のRBCアナリスト、リシ・ジャルリア氏は、アトラシアンの株価上昇の一部はショートカバーによる可能性が高く、株を借りて売却することで株に賭けていた投資家が現在株を買い戻していることを意味すると述べた。
-「アトラシアンはクロード・コードとオープンAI・コーデックスに潰されるだろうと誰もが言うが、もう終わりだ」と同社を取材していないジャルリア氏は語った。 「待てよ、この会社は死んでいないという証拠があれば、ショートスクイーズが起こるだろう。」
-注目: AI が「SaaS」を消滅させるとは思わないが、ゆっくりとした衰退は十分に悪いことです: CLSA`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
-    publishedAt: "2026-08-07T20:22:17+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "trump-revives-effort-to-fire-fed-s-lisa-1b7e7f54",
-    title: "Trump revives effort to fire Fed's Lisa Cook",
-    titleJa: "トランプ大統領、FRBのリサ・クック解任に向けた取り組みを再開",
-    summaryJa: "ホワイトハウスは今週、ドナルド・トランプ大統領が連邦準備制度理事会のリサ・クック総裁を解任することを「検討している」と発表し、6月に最高裁判所によって阻止されていた取り組みを復活させた。ホワイトハウスの大統領補佐官ダン・スカビーノ氏は水曜日付けのクック氏への書簡の中で、「1つ以上の住宅ローン契約に関して虚偽の発言をしたと信じる十分な理由がある」と述べた。",
-    bodyOriginal: `President Donald Trump is "considering" firing Federal Reserve Board Governor Lisa Cook, the White House said this week, reviving an effort that had been stymied by the Supreme Court in June.
-White House presidential aide Dan Scavino, in a letter to Cook dated Wednesday, said there is "sufficient reason to believe that you made false statements on one or more mortgage agreements."
-Those are the same allegations Trump and his allies floated when he first moved to fire Cook from the central bank last year. Cook denied the charges and filed a lawsuit challenging her dismissal.
-A federal court blocked Trump from firing Cook while her suit was pending. The Supreme Court, in a 5-4 ruling in late June, upheld that decision against a challenge the president.
-But Chief Justice John Roberts noted that the court's decision did not stop Trump from trying again to remove Cook over the mortgage fraud allegations. Any new attempt to fire her would require additional steps in order to protect Cook's Constitutional due process rights, Roberts wrote.
-Scavino, Trump's deputy chief of staff and director of the Office of Presidential Personnel, wrote that he was sending Wednesday's letter "pursuant to the Supreme Court's opinion."
-He instructed Cook to provide an "explanation for your false statements and accompanying evidence" within three weeks.
-Abbe Lowell, a lawyer for Cook, told CNBC in a statement that the allegations "are as baseless now as they were a year ago when President Trump tried to remove Governor Cook and interfere with the independence of the Federal Reserve."
-"No matter what President Trump tries to do next, this much is clear under the facts and Supreme Court precedent — there is no valid cause for removing Governor Cook," Lowell's statement said. "As we did before, we will challenge this latest pretext and preserve her position and the historic role of the Fed."
-The Federal Reserve declined to comment on the White House's letter.
-Trump's initial move to fire Cook, who was appointed by former President Joe Biden, came as he ramped up his efforts to pressure the Fed to slash interest rates.
-The mortgage-related allegations were surfaced by Federal Housing Finance Agency Director Bill Pulte, who has been criticized as an "attack dog" for Trump.
-Pulte has also targeted other of Trump's perceived political foes, including New York Attorney General Letitia James, who also faced allegations of mortgage-related wrongdoing.
-— CNBC's Dan Mangan and Jeff Cox contributed to this report.`,
-    bodyJa: `ホワイトハウスは今週、ドナルド・トランプ大統領が連邦準備制度理事会のリサ・クック総裁を解任することを「検討している」と発表し、6月に最高裁判所によって阻止されていた取り組みを復活させた。
-ホワイトハウスの大統領補佐官ダン・スカビーノ氏は水曜日付けのクック氏への書簡の中で、「1つ以上の住宅ローン契約に関して虚偽の発言をしたと信じる十分な理由がある」と述べた。
-これらは、トランプ氏が昨年クック氏を中央銀行から解任しようと初めて動いた際にトランプ氏とその同盟者らが提起したのと同じ主張だ。クック氏は容疑を否認し、解雇を求めて訴訟を起こした。
-連邦裁判所は、訴訟が係争中である間、トランプ氏がクック氏を解任することを差し止めた。最高裁判所は6月下旬、5対4の判決で、大統領への異議申し立てに対してこの決定を支持した。
-しかし、ジョン・ロバーツ首席判事は、裁判所の決定はトランプ大統領が住宅ローン詐欺疑惑をめぐってクック氏を再び解任しようとするのを阻止するものではないと指摘した。ロバーツ氏は、彼女を解雇しようとする新たな試みには、クック氏の憲法上の適正手続きの権利を守るために追加の措置が必要になると書いた。
-トランプ大統領首席補佐官兼大統領人事局長のスカビーノ氏は、水曜日の書簡は「最高裁判所の意見に従って」送ったと書いた。
-同氏はクック氏に対し、３週間以内に「虚偽の陳述と付随する証拠についての説明」を行うよう指示した。
-クック氏の弁護士アビー・ローウェル氏はＣＮＢＣに対し、この疑惑は「トランプ大統領がクック総裁を解任し、連邦準備理事会の独立性を妨害しようとした１年前と同様、今も根拠がない」との声明で述べた。
-ローウェル氏は声明で「トランプ大統領が次に何をしようとしても、これだけは事実と最高裁判例から明らかだ。クック知事を解任する正当な理由はない」と述べた。 「以前と同様に、私たちはこの最新の口実に異議を唱え、彼女の立場とFRBの歴史的な役割を維持するだろう。」
-FRBはホワイトハウスの書簡についてコメントを控えた。
-トランプ大統領が最初に行動したのは、ジョー・バイデン前大統領によって任命されたクック氏の解任であり、FRBに利下げを求める圧力を強める中でのことだった。
-住宅ローン関連の疑惑は、トランプ大統領の「攻撃犬」と批判されている連邦住宅金融庁のビル・プルト長官によって表面化された。
-プルト氏はまた、同じく住宅ローン関連の不正行為の疑惑に直面しているニューヨーク州司法長官レティシア・ジェームズを含む、トランプ大統領の政敵とみなされる他の人物も標的にしている。
-— CNBCのダン・マンガン氏とジェフ・コックス氏がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
-    publishedAt: "2026-08-07T18:38:17+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "burger-king-overtakes-wendy-s-as-the-nat-2d41d55b",
-    title: "Burger King overtakes Wendy's as the nation's second-largest burger chain",
-    titleJa: "バーガーキングがウェンディーズを追い抜き、全米第2位のハンバーガーチェーンに",
-    summaryJa: "バーガーキングは全店売上高でウェンディーズを追い抜き、米国第2位のハンバーガーチェーンとなり、ライバルチェーンに王位を奪われてから6年ぶりにその王座を奪回した。この立場の変更は、過去 2 年間の両社の業績の相違に伴うものです。",
-    bodyOriginal: `Burger King has overtaken Wendy's as the second-largest burger chain in the U.S. by systemwide sales, retaking its crown six years after losing it to the rival chain.
-The change in positions follows the two companies' diverging results over the past two years.
-Wendy's has reported shrinking U.S. same-store sales for six straight quarters. Its domestic same-store sales slipped 7% in its latest quarter, the company reported on Friday.
-Meanwhile, Burger King has been embarking on a turnaround and has seen its domestic same-store sales rise over the past five quarters; the Restaurant Brands International chain on Thursday reported U.S. same-store sales growth of 8.5% for its second quarter.
-McDonald's holds onto its spot as the number one burger chain, with a significant lead. Although the company only reports its systemwide sales on a global basis, it held about 48% of the U.S. burger market share in 2024, according to Barclays. For comparison, at that time, Wendy's had an 11.4% share of the market, while Burger King had a 10% hold.
-Wendy's initially overtook Burger King through the success of its nationwide breakfast launch. But staying number two has been a rocky road.
-Both Wendy's and Burger King had to navigate the Covid-19 pandemic and the subsequent supply chain issues that led to soaring food costs. Then came the consumer pushback against rising menu prices and a pullback in restaurant spending.
-In late 2022, Restaurant Brands announced a turnaround plan for Burger King's U.S. business after a year of lackluster sales. The strategy has focused on improving its food quality, investing in marketing and remodeling restaurants.
-While Burger King tried to find its footing, Wendy's was dealing with a revolving door of chief executives at a time when consumers were growing even more value conscious and beef costs were soaring.
-In 2024, Wendy's longtime CEO Todd Penegor retired after eight years in the role. PepsiCo executive Kirk Tanner succeeded him but left after a little more than a year to lead Hershey's. CFO Ken Cook took over as interim CEO until Wendy's tapped former Potbelly CEO Bob Wright as his permanent replacement in May.
-"Our quality differentiation has eroded, our value proposition has weakened, and we have not consistently delivered the experience customers expect from Wendy's," Wright said on the company's earnings conference call on Friday. "These issues have weighed on traffic and created pressure on the restaurant economic model, which is the heartbeat of this business, and this is reflected in our latest results."
-Now Wendy's is planning to embark on its own turnaround to revive sales, meaning that Burger King can't rest on its laurels.`,
-    bodyJa: `バーガーキングは全店売上高でウェンディーズを追い抜き、米国第2位のハンバーガーチェーンとなり、ライバルチェーンに王位を奪われてから6年ぶりにその王座を奪回した。
-この立場の変更は、過去 2 年間の両社の業績の相違に伴うものです。
-ウェンディーズは、米国の既存店売上高が6四半期連続で減少していると報告した。同社が金曜日に発表したところによると、最新四半期の国内既存店売上高は7%減少した。
-一方、バーガーキングは再建に乗り出しており、過去5四半期にわたって国内既存店売上高は増加している。レストラン ブランズ インターナショナル チェーンは木曜日、第 2 四半期の米国の既存店売上高が 8.5% 増加したと報告しました。
-マクドナルドは大幅なリードを保ってナンバーワンのハンバーガーチェーンの座を堅持している。同社は世界ベースでシステム全体の売上高のみを報告しているが、バークレイズによると、2024年の米国ハンバーガー市場シェアは約48％を占めていた。ちなみに、当時ウェンディーズは市場シェア11.4％、バーガーキングは10％だった。
-ウェンディーズは当初、朝食の全国展開の成功によりバーガーキングを追い越しました。しかし、2位であり続けることは険しい道だった。
-ウェンディーズとバーガーキングはどちらも、新型コロナウイルス感染症（Covid-19）のパンデミックと、その後の食料価格の高騰につながったサプライチェーンの問題を乗り越えなければならなかった。その後、メニュー価格の値上げに対する消費者の反発とレストランへの支出の減少が起きた。
-2022年後半、レストラン・ブランズは、1年間の売上不振を受けてバーガーキングの米国事業の立て直し計画を発表した。この戦略は、マーケティングとレストランの改装への投資、食品の品質の向上に焦点を当てています。
-バーガーキングが足場を見つけようと努める一方、消費者の価値意識がさらに高まり牛肉の価格が高騰していた時期に、ウェンディーズは最高経営責任者の回転ドアに対処していた。
-2024年、ウェンディーズの最高経営責任者（CEO）を長年務めたトッド・ペネゴール氏が8年間の任期を終えて退任した。ペプシコ幹部のカーク・タナー氏が後任となったが、１年余りで退社し、ハーシーズを率いることになった。 CFOのケン・クック氏が暫定CEOに就任したが、ウェンディーズは5月にポットベリーの前CEOボブ・ライト氏を恒久的な後任に指名した。
-ライト氏は金曜日の決算会見で、「当社の品質差別化は失われ、当社の価値提案は弱まり、顧客がウェンディーズに期待する体験を一貫して提供できていない」と述べた。 「これらの問題は交通量に重くのしかかり、このビジネスの心臓部であるレストランの経済モデルに圧力をもたらしており、これが当社の最新の業績に反映されています。」
-現在、ウェンディーズは売上を回復するために独自の再建に乗り出す計画を立てており、バーガーキングはその栄光に安住するわけにはいかないことを意味している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/07/burger-king-wendys-hamburger-restaurants.html",
-    publishedAt: "2026-08-07T18:19:39+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "here-are-three-key-takeaways-from-the-di-0dbb71f1",
-    title: "Here are three key takeaways from the disappointing July jobs report",
-    titleJa: "期待外れだった7月の雇用統計から3つの重要なポイントをご紹介します",
-    summaryJa: "7月の米国の非農業部門雇用者数は予想外に減少したが、失業率も同様に減少したため、投資家は最新の雇用統計をどのように処理するかについて複雑なシグナルを残している。以下に 3 つの重要なポイントを示します。",
-    bodyOriginal: `Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals on how to process the latest jobs report.
-Here are three key takeaways:
-- Misleading numbers: The payroll decline of 23,000 wasn't quite as bad as it looked and the drop in the unemployment rate to 4.1% wasn't nearly as good as it looked. The main reason for the red headline number was a loss of 53,000 government workers, a development economists say was largely owing to seasonal factors that could get revised away. Private payrolls actually rose by 30,000. At the same time, the unemployment rate fell due to yet another decline in workers employed or actively looking for a job.
-- The vanishing labor force: On that labor force theme, the participation rate edged down to 61.4%, now off 0.7 percentage point this year alone due to the exodus of nearly 1.4 million people. There's a strong degree of immigration noise in that number, but it still changes the dynamics by which policymakers will evaluate the labor market. A 4.1% unemployment rate suddenly doesn't seem as impressive with participation at its lowest in 50 years outside of the Covid era.
-- Whither the Fed? Markets reacted to the report by taking a September rate hike off the table. Not so fast: Central bank policymakers may take more signal from the lower unemployment rate as they could view it as an indicator of a relatively stable labor market. A common theme in post-report commentary from Wall Street on Friday was that Fed officials likely will set this report aside and quickly turn their focus to next Wednesday's consumer price index inflation reading — while acknowledging that weak payrolls growth at least takes the urgency out of a September increase.
-They said it:
-"This report is like a hall of mirrors, tricking investors with different signals about whether labor's recovery is stalling." — Kevin Gordon, head of macro research and strategy at the Schwab Center for Financial Research.
-"We agree that the [July] jobs report was a bit dovish on net. But we are sticking with our call that the Fed will hike by 75 [basis points] this year, starting in [September]. The Fed is likely to remain more focused on inflation than labor. The [July] CPI report is a bigger event than today's jobs numbers." — Aditya Bhave, U.S. economist, Bank of America.
-"Although the stock market is likely to welcome the dovish implications of the report, investors should be wary of the future growth potential of an economy where fewer people are working." — Peter Graf, chief Investment officer at Amova Asset Management Americas.`,
-    bodyJa: `7月の米国の非農業部門雇用者数は予想外に減少したが、失業率も同様に減少したため、投資家は最新の雇用統計をどのように処理するかについて複雑なシグナルを残している。
-以下に 3 つの重要なポイントを示します。
-- 誤解を招く数字: 23,000人の雇用者数の減少は見た目ほどひどくはなく、失業率の4.1%への低下も見た目ほど良くはなかった。赤い見出しの数字の主な理由は5万3000人の政府職員の損失であり、開発経済学者らは主に季節的要因によるもので、修正される可能性があると述べている。民間給与は実際に3万人増加した。同時に、雇用されている労働者または積極的に仕事を探している労働者のさらなる減少により、失業率は低下しました。
-- 消滅する労働力: 労働力というテーマでは、参加率は61.4%までわずかに低下したが、140万人近い人々の流出により、今年だけで0.7ポイント低下した。この数字には移民に関するノイズがかなり含まれているが、それでも政策立案者が労働市場を評価する力学に変化をもたらしている。参加者数がコロナ禍以外の過去50年間で最低だったことから、4.1％の失業率は突然それほど印象的ではなくなった。
-- FRBはどこへ？市場はこの報道に反応し、9月利上げは検討の対象から外した。それほど急速ではない：中央銀行の政策立案者は、失業率の低下を比較的安定した労働市場の指標とみなす可能性があるため、失業率の低下からより多くのシグナルを受け取る可能性がある。金曜のウォール街の報告書後の解説で共通したテーマは、FRB当局者らはおそらくこの報告書を脇に置き、すぐに来週水曜日の消費者物価指数のインフレ率の測定値に焦点を移す可能性が高いということであった――その一方で、雇用者数の伸びの鈍さによって少なくとも9月の利上げの緊急性は薄れていることは認めている。
-彼らはこう言いました。
-「この報告書は鏡の間のようなもので、労働力の回復が停滞しているかどうかについてさまざまなシグナルで投資家を騙している。」 — シュワブ金融研究センターのマクロ調査および戦略責任者、ケビン・ゴードン氏。
-「（７月の）雇用統計がネット上ではややハト派的だったことにはわれわれも同意する。しかし、われわれはＦＲＢが今年（９月）から７５（ベーシスポイント）利上げするというわれわれの主張に固執する。ＦＲＢは今後も労働よりもインフレに注目するだろう。（７月の）ＣＰＩ統計は今日の雇用統計よりも大きな出来事だ。」 — アディティア・バーベ氏、米国バンク・オブ・アメリカのエコノミスト。
-「株式市場はこの報告書のハト派的な意味合いを歓迎する可能性が高いが、投資家は働く人が減った経済の将来の成長可能性に警戒すべきだ。」 — ピーター・グラフ氏、Amova Asset Management Americas 最高投資責任者。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
-    publishedAt: "2026-08-07T18:09:18+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
   },
 ];
 
