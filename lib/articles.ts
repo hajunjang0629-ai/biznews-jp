@@ -15,6 +15,394 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "intel-plans-15-billion-stock-offering-as-cc61115d",
+    title: "Intel plans $15 billion stock offering as AI demand accelerates",
+    titleJa: "AI需要の加速に伴い、インテルは150億ドルの株式発行を計画",
+    summaryJa: "Intelは月曜日、人工知能コンピューティングに対する顧客の需要の急増をサポートするために、150億ドルの普通株式を発行すると発表した。鐘の前に株価は4％下落した。",
+    bodyOriginal: `Intel announced a $15 billion common stock offering on Monday to support skyrocketing customer demand for artificial intelligence compute.
+Shares fell 4% before the bell.
+The chipmaker highlighted physical AI, purpose-built silicon and advance packaging among the major growth opportunities and said it will use the funding to support corporate needs, including capital expenditures and working capital,
+Technology giants have shelled out trillions in recent years to meet insatiable AI demand and the unrelenting infrastructure buildout to support new compute capacity.
+Several megacap tech companies boosted their capital expenditures on AI demand this earnings season, with spending on track to hit $765 billion this year and $1.2 trillion in 2027, according to estimates from Goldman Sachs. Amazon gave the highest guidance among the group this reporting period, citing the memory crunch.
+Last month, Intel posted its fastest revenue growth in nearly 15 years and hiked capital expenditures guidance to $20 billion, citing strong customer demand.
+At the time, finance chief David Zinsner said most of the spending would support factory tooling. He told CNBC that the company is bracing for a "meaningful increase" in 2027.
+Intel shares have benefitted over the last year from the AI infrastructure buildout and the U.S. government's 10% equity stake aimed at bolstering domestic chip manufacturing. The stock has surged 175% in 2026 and quintupled in value over the last year.
+The Intel announcement includes a 30-day option that would allow underwriters to buy an additional $2.25 billion in common stock.`,
+    bodyJa: `Intelは月曜日、人工知能コンピューティングに対する顧客の需要の急増をサポートするために、150億ドルの普通株式を発行すると発表した。
+鐘の前に株価は4％下落した。
+チップメーカーは、主要な成長機会の中で物理AI、専用シリコン、先進的なパッケージングを強調し、その資金を設備投資や運転資金などの企業ニーズをサポートするために使用すると述べた。
+テクノロジー大手は近年、飽くなき AI 需要と、新しいコンピューティング能力をサポートするための絶え間ないインフラストラクチャの構築に応えるために数兆ドルを投じてきました。
+ゴールドマン・サックスの推計によると、いくつかの超大型ハイテク企業は今決算期にAI需要への設備投資を増やしており、その支出は今年7650億ドル、2027年には1兆2000億ドルに達する見込みだという。 Amazon は、記憶不足を理由に、この報告期間中にグループの中で最も厳しい指導を行いました。
+インテルは先月、顧客の強い需要を理由に、約15年ぶりの急速な収益成長を記録し、設備投資の見通しを200億ドルに引き上げた。
+当時、財務責任者のデービッド・ジンズナー氏は、支出のほとんどは工場の工具を支援するものになるだろうと述べていた。同氏はCNBCに対し、同社は2027年の「大幅な増加」に備えていると語った。
+インテル株は昨年、AIインフラ整備と国内チップ製造の強化を目的とした米政府の株式10％取得の恩恵を受けてきた。株価は2026年に175％急騰し、昨年の価値は5倍になった。
+インテルの発表には、引受会社が普通株をさらに２２億５０００万ドル購入できる３０日間のオプションが含まれている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html",
+    publishedAt: "2026-08-10T13:15:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "archer-shares-surge-after-boeing-stake-e-f33b4fb5",
+    title: "Archer shares surge after Boeing stake, electric aircraft subsidiary deal",
+    titleJa: "ボーイング株と電気航空機子会社の取引を受けてアーチャー株が急騰",
+    summaryJa: "中核事業への注力を強化する動きとして、ボーイングは電動垂直離着陸機（略してeVTOLとして知られる）に注力する新興企業の株式と引き換えに子会社3社をアーチャー・アビエーションに売却する。規制当局への提出書類によると、ボーイングのアーチャー株は同社のクラスA株の19.75％に相当し、今後4年間でさらに株を購入するオプションが付いている。",
+    bodyOriginal: `In a move to increase its focus on core operations, Boeing is selling three of its subsidiaries to Archer Aviation in exchange for a stake in the startup that focuses on electric vertical take-off and landing aircraft, known as eVTOLs for short.
+Boeing's stake in Archer will amount to 19.75% of Class A shares of the company and comes with options to purchase more shares over the next four years, according a regulatory filing.
+Shares of Archer surged 16% in premarket trading, while Boeing slipped 0.2%.
+The subsidiaries include Wisk Aero, which has been developing an autonomous eVTOL, and SkyGrid, which is developing air traffic management systems for air taxis as urban air mobility moves from test flights to commercial operations. The third Boeing subsidiary being sold, Insitu, develops and manufactures high-altitude drones that have been used worldwide, including by the U.S. Navy.
+Brian Yutko, Boeing vice president of commercial airplanes product development, said the deal "allows Wisk, SkyGrid and Insitu to accelerate capability development and time to market while ensuring Boeing capitalizes on its investments in these technologies over the past two decades through continued development in our core businesses."
+For Archer, the transaction strengthens its position developing eVTOLs and the networks to support them. Insitu also helps Archer extend its military portfolio.
+In announcing the acquisitions, Archer CEO Adam Goldstein said, "This is the next big step forward in becoming a diversified platform, rapidly growing our revenue base and bringing scale to our business."
+Both companies stand to benefit from the deal. Archer is targeting commercial eVTOL flights by the end of this year or early next year and is eager to establish itself as urban air taxis take off around the U.S.
+By acquiring Wisk and SkyGrid, Archer solidifies its portfolio, especially with the autonomous eVTOL technology Wisk has been developing.
+Boeing also benefits by shedding subsidiaries that are not central to its commercial airplanes, defense and space operations. Since taking over as CEO in August 2024, Kelly Ortberg has repeatedly said Boeing needs to focus on improving its three primary businesses.
+Just a few months after becoming CEO, Ortberg made it clear Boeing's path to profitability would mean streamlining the aerospace giant.
+"We need to reset priorities and create a leaner, more focused organization," he said in October 2024.`,
+    bodyJa: `中核事業への注力を強化する動きとして、ボーイングは電動垂直離着陸機（略してeVTOLとして知られる）に注力する新興企業の株式と引き換えに子会社3社をアーチャー・アビエーションに売却する。
+規制当局への提出書類によると、ボーイングのアーチャー株は同社のクラスA株の19.75％に相当し、今後4年間でさらに株を購入するオプションが付いている。
+アーチャーの株価は市場前取引で１６％上昇したが、ボーイングは０．２％下落した。
+子会社には、自律型eVTOLを開発しているWisk Aeroや、都市型エアモビリティが試験飛行から商業運用に移行する中、エアタクシー用の航空交通管理システムを開発しているSkyGridが含まれる。売却されるボーイングの子会社の3番目であるインシチュは、米海軍を含む世界中で使用されている高高度ドローンを開発、製造している。
+ボーイングの民間航空機製品開発担当バイスプレジデント、ブライアン・ユットコ氏は、今回の提携により「ウィスク、スカイグリッド、インシトゥは能力開発と市場投入までの時間を加速できるとともに、ボーイングは当社の中核事業の継続的な開発を通じて過去20年間にわたるこれらの技術への投資を確実に活用することができる」と述べた。
+Archerにとって、この取引はeVTOLとそれをサポートするネットワークを開発する立場を強化することになる。 Insitu はアーチャーの軍事ポートフォリオの拡大にも貢献しています。
+アーチャーの最高経営責任者（CEO）アダム・ゴールドスタイン氏は買収発表の際、「これは多様なプラットフォームへの次の大きな前進であり、当社の収益基盤を急速に成長させ、事業規模を拡大するものである」と述べた。
+両社はこの取引から恩恵を受ける立場にある。アーチャーは今年末か来年初めまでに商業用eVTOL飛行を目標としており、米国各地で都市型エアタクシーが普及する中での地位を確立したいと考えている。
+Wisk と SkyGrid を買収することで、Archer は、特に Wisk が開発してきた自律型 eVTOL 技術を活用したポートフォリオを強化します。
+ボーイングはまた、民間航空機、防衛、宇宙事業の中心ではない子会社を整理することで利益を得ている。ケリー・オルトバーグ氏は2024年8月にCEOに就任して以来、ボーイングは3つの主要事業の改善に注力する必要があると繰り返し述べてきた。
+CEOに就任してからわずか数カ月後、オルトバーグ氏はボーイングが収益性を獲得するためには、航空宇宙大手の合理化を意味すると明言した。
+同氏は2024年10月に「優先順位を再設定し、よりスリムで集中力のある組織を構築する必要がある」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+    publishedAt: "2026-08-10T13:13:31+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "berkshire-hathaway-finally-started-spend-c780a3a9",
+    title: "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+    titleJa: "バークシャー・ハサウェイはついに4,000億ドル近い現金を、よく知っているある銘柄に使い始めた",
+    summaryJa: "バークシャーは何年にもわたって現金を積み上げてきた後、自社株を購入している。誰もが興奮しているわけではありません。",
+    bodyOriginal: `Berkshire is buying its own stock after years of building up a cash pile. Not everyone is excited.`,
+    bodyJa: `バークシャーは何年にもわたって現金を積み上げてきた後、自社株を購入している。誰もが興奮しているわけではありません。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+    publishedAt: "2026-08-10T12:53:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-04154678",
+    readTime: 2,
+  },
+  {
+    id: "meta-to-open-source-its-most-powerful-ai-d10fe8b6",
+    title: "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+    titleJa: "Meta、OpenAI、Anthropic でスワイプを行い、最も強力な AI モデルをオープンソース化",
+    summaryJa: "ザッカーバーグ氏がオープン AI における米国のリーダーシップを推進する中、Meta は Muse Glimmer を立ち上げ、Muse Spark 1.2 ウェイトをリリースする予定です。",
+    bodyOriginal: `Meta said it would open source its most powerful AI models and launch new ones designed for consumer devices, as it looks to rival leading labs like OpenAI and Anthropic.
+In an Instagram video posted Monday, CEO Mark Zuckerberg said that the company would open the weights for its latest AI model Muse Spark 1.2, meaning it can be downloaded and used by the public. Weights refer to the calculations and rules that determine how the AI works and behaves.
+Zuckerberg also said the company will release a new family of open-source models called Muse Glimmer, designed to run on a laptop.
+Shares of Meta were up 2.1% in premarket trade on Monday. They are down around 10% so far this year, as investors scrutinize Meta's spending plans and whether it can compete with major AI leaders. Zuckerberg is looking to reassure investors that the Meta Superintelligence Labs, formed last year, is making progress and the capital expenditure, forecast to be up to $145 billion this year, will pay off.
+Why Meta is betting on open-weight AI
+While companies like Anthropic and OpenAI have mainly focused on closed AI models, rivals in China from Alibaba to DeepSeek and Moonshot have aggressively released open-weight models that have competed in some areas with the leading technology out of U.S. companies.
+In a 6,500-word essay on AI, published Monday, Zuckerberg positioned Meta's move as a challenge to Chinese open-source technology and urged Washington to support American efforts.
+"Foreign labs currently hold several advantages here since American labs have to comply with many additional restrictions on training data. US policy must reduce this additional friction if we want American open source models to lead over time," Zuckerberg wrote.
+"I do not believe restricting access to foreign open source models is an effective solution. Our goal should be for American open source models to be the best globally. This requires removing the hurdles that make it harder for American open source models to compete."
+"If Western tech giants only build walled gardens, developers and enterprise builders will naturally pivot to Chinese open-weight models," Neil Shah, co-founder at Counterpoint Research, told CNBC. "Most of its competitors in USA are proprietary and there is an insatiable demand for non-Chinese open models and weights and Meta can fill in this void well."
+Muse Glimmer, which is designed for laptops, also offers a point of differentiation from rivals. Much of the AI used today is processed in the cloud in expensive data centers. This so-called on-device AI could reduce cost and improve speed of AI on consumer electronics.
+"Bringing small, agentic models like Muse Glimmer directly onto PC and mobile hardware bypasses cloud compute costs to outcompete Google, Microsoft and others on the end-user's device," Shah said.
+Zuckerberg pushes for U.S. policy changes on AI
+Zuckerberg said that the U.S. will need to "rethink" its policies in several areas, including distillation and data use in training, if it is to lead in open source AI. Broadly, distillation refers to the use of output from an advanced AI model to train another model. Distillation has attracted some controversy, with some U.S. lawmakers viewing the practice as effectively theft of intellectual property.
+In touting his open-source push, Zuckerberg warned against the concentration of power in AI around a few companies, in what appeared to be a thinly veiled swipe at OpenAI and Anthropic.
+"Still, it is surprising that the discourse from many developing AI is so filled with doom. I do not understand why anyone who believes that AI will eliminate most jobs and much of humanity's relevance would rush to build that future," Zuckerberg wrote.
+"The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems inherently problematic."
+Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have both warned of AI's impact on jobs. Altman recently softened some of his comments on jobs.
+Zuckerberg used his essay to lay out his vision of AI.
+"Rather than centralizing superintelligence, we should distribute it widely and give every person the ability to direct it," Zuckerberg said. "This has the potential to begin a new era of personal empowerment where individuals can use this powerful new capability to reach their full potential, pursue their interests, and improve their lives and the world more than ever before."
+The Meta CEO said: "Everyone will have an exceptionally capable personal agent that understands you, your goals, and everything you care about."`,
+    bodyJa: `Meta は、OpenAI や Anthropic などの大手研究所と競合することを目指し、最も強力な AI モデルをオープンソース化し、消費者向けデバイス向けに設計された新しいモデルを発売すると述べた。
+月曜日に投稿されたインスタグラムのビデオの中で、最高経営責任者（CEO）のマーク・ザッカーバーグ氏は、同社が最新のAIモデル「Muse Spark 1.2」のウェイトをオープンにする、つまり一般の人がダウンロードして使用できると述べた。重みとは、AI の動作と動作を決定する計算とルールを指します。
+ザッカーバーグ氏はまた、同社はラップトップ上で動作するように設計された「Muse Glimmer」と呼ばれるオープンソースモデルの新しいファミリーをリリースすると述べた。
+メタの株価は月曜の市場前取引で２．１％上昇した。投資家がメタの支出計画と大手AIリーダーと競合できるかどうかを精査しているため、今年これまでのところ約10％下落している。ザッカーバーグ氏は、昨年設立されたメタ・スーパーインテリジェンス研究所が進展しており、今年最大1450億ドルと予想される設備投資が報われると投資家を安心させようとしている。
+メタが無差別級 AI に賭ける理由
+Anthropic や OpenAI などの企業は主にクローズド AI モデルに注力してきましたが、アリババから DeepSeek、Moonshot に至る中国のライバル各社は、一部の分野で米国企業の最先端技術と競合するオープンウェイト モデルを積極的にリリースしています。
+月曜日に出版されたAIに関する6,500ワードのエッセイの中で、ザッカーバーグ氏はメタの動きを中国のオープンソース技術への挑戦と位置づけ、米国の取り組みを支援するようワシントンに促した。
+「米国の研究所はトレーニングデータに対する多くの追加制限に従わなければならないため、現在、外国の研究所はここでいくつかの利点を持っている。米国のオープンソースモデルが長期にわたってリードしていきたいのであれば、米国の政策はこの追加の摩擦を軽減する必要がある」とザッカーバーグ氏は書いた。
+「外国のオープンソース モデルへのアクセスを制限することが効果的な解決策だとは思えません。私たちの目標は、米国のオープンソース モデルが世界最高であることであるべきです。そのためには、米国のオープンソース モデルの競争を難しくしているハードルを取り除く必要があります。」
+カウンターポイント・リサーチの共同創設者ニール・シャー氏はCNBCに対し、「もし西側の​​巨大テクノロジー企業がウォールド・ガーデンのみを建設するのであれば、開発者や企業建設業者は自然と中国のオープンウェイト・モデルに軸足を移すだろう」と語った。 「米国の競合他社のほとんどは独自製品であり、中国以外のオープンモデルとウェイトに対する飽くなき需要があり、メタはこの隙間をうまく埋めることができます。」
+ノートPC向けに設計されたMuse Glimmerも、ライバルとの差別化ポイントとなる。現在使用されている AI の多くは、高価なデータセンターのクラウドで処理されています。このいわゆるオンデバイス AI は、家庭用電化製品のコストを削減し、AI の速度を向上させる可能性があります。
+「Muse Glimmer のような小型のエージェント モデルを PC やモバイル ハードウェアに直接導入することで、クラウド コンピューティング コストを回避し、エンドユーザーのデバイス上で Google、Microsoft などと競合することができます」と Shah 氏は述べています。
+ザッカーバーグ氏、AIに関する米国の政策変更を求める
+ザッカーバーグ氏は、米国がオープンソースAIで主導権を握るには、蒸留や訓練でのデータ利用など、いくつかの分野で政策を「再考」する必要があると述べた。一般に、蒸留とは、高度な AI モデルからの出力を使用して別のモデルをトレーニングすることを指します。蒸留はいくつかの論争を引き起こしており、一部の米国議員はこの行為を事実上の知的財産の窃盗とみなしている。
+ザッカーバーグ氏はオープンソース推進を宣伝する中で、OpenAIとAnthropicに対する薄いベールに包まれたように見える行為で、AIにおける権力が数社に集中することに対して警告した。
+「それでも、多くのAI開発者の言説が破滅に満ちているのは驚くべきことだ。AIによってほとんどの仕事と人類の関連性の多くがなくなると信じている人が、なぜその未来の構築を急ぐのか理解できない」とザッカーバーグ氏は書いた。
+「AIは非常に危険なので、唯一の安全な道は極端な権力の集中であるという考えには、本質的に問題があるように思えます。」
+Anthropic CEOのDario Amodei氏とOpenAI CEOのSam Altman氏はともにAIが雇用に与える影響について警告している。アルトマン氏は最近、仕事についてのコメントを一部和らげた。
+ザッカーバーグ氏はエッセイを使って AI のビジョンを説明しました。
+「スーパーインテリジェンスを一元化するのではなく、それを広く分散させ、すべての人がそれを指揮できる能力を与えるべきだ」とザッカーバーグ氏は語った。 「これは、個人がこの強力な新しい能力を活用して自分の潜在能力を最大限に発揮し、興味を追求し、自分の生活と世界をこれまで以上に改善できる、個人のエンパワーメントの新時代を始める可能性を秘めています。」
+メタのCEOは、「誰もが、あなた、あなたの目標、そしてあなたが気にかけていることすべてを理解してくれる、非常に有能な個人エージェントを持つことになるでしょう。」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+    publishedAt: "2026-08-10T12:40:36+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "thames-water-gave-finance-boss-a-1m-sign-b5b021f9",
+    title: "Thames Water gave finance boss a £1m signing-on fee",
+    titleJa: "テムズウォーターは財務責任者に100万ポンドの契約金を支払った",
+    summaryJa: "テムズウォーターは財務責任者に100万ポンドの契約金を支払った- 公開されました",
+    bodyOriginal: `Thames Water gave finance boss a £1m signing-on fee
+- Published
+Thames Water paid its finance chief a £1m signing-on fee in July as the company struggles with a mountain of debt and faces temporary nationalisation.
+Steve Buck joined the company in April 2025 but it is understood the seven-figure payment was not made until last month after the company had taken legal advice over its contractual obligations.
+The existence of the payment, first reported by Sky News,, external was revealed in a letter from the Thames Water chairman to MPs on the Commons Environment, Food and Rural Affairs Committee.
+In the letter,, external Sir Adrian Montague said he understood customers would see large payments to senior leaders as "unjust" but argued they were necessary to stop staff leaving.
+The letter said: "The majority of the team were brought in recently to fix the problems the company faces and are not responsible for causing those problems.
+"These talented and experienced individuals have opportunities for roles outside Thames Water and, in many cases, have been actively approached by other companies.
+"These roles would be less in the public gaze, less difficult and more remunerative."
+Sir Adrian described the payment to Buck as a "necessary incentive" and said the money had come from emergency funding provided by Thames Water's lenders.
+He said the company is facing recruitment and retention difficulties and warned the problem would "persist" if it was nationalised or put into special administration.
+The prime minister's official spokesman said: "It's unacceptable that one of the worst-performing water companies is handing out huge payments to its executives when it should be focusing on improving performance and rebuilding public trust.
+"We've banned bonuses for polluting water bosses. We expect companies to follow both the letter and the spirit of the rules."
+Under new rules, introduced last year, water companies failing to meet key standards would automatically lose their right to award certain bonuses.
+Alistair Carmichael, Lib Dem MP and chair of the Environment Committee, said: "Money should be going into improving services, not remunerating already well-paid senior executives.
+"The government were clear in the early days that they wanted this to stop. It is obvious that they have not succeeded in this. We need to hear now from them about what they intend to do about it."
+The utility company owes roughly £20bn and has been working with creditors and government officials to find a way forward.
+Failure to reach a deal could lead to Thames Water being forced into a "special administration regime", a form of temporary nationalisation intended to keep the business operating until a viable solution can be found.
+This would see government-appointed officials temporarily running the company – including funding its operations and upgrading infrastructure as well as dealing with any outstanding debts following a restructuring of the business.
+If the company was subsequently sold to a private buyer, the government would be able to recoup some taxpayer cash.
+Prime Minister Andy Burnham has previously said he would like to see "greater public control" of key water and energy utilities.
+In the past year, Thames Water boss Chris Weston saw his pay increase 14% to £1.63m while other directors received bonuses totalling £4.1m.
+Speaking on the BBC Big Boss interview late last month, Weston acknowledged there was anger about Thames Water pay, but argued that the company needed to be able attract "capable people to help turn this company around".
+"If we're not prepared to pay market rates, then they won't come to us and they won't stay with us," he said.
+Big Boss Interview: Thames Water Chris Weston
+The CEO of the UK's largest water company speaks to the BBC about water security, pollution targets and Thames' future.
+Weston also warned special administration could see taxpayers left bearing the cost.
+Instead, he threw his weight behind a rescue deal that has been put forward by the firm's lenders.
+Thames Water has faced intense criticism for several years over failures to prevent sewage discharges and leaks.
+Last year it was handed a record fine of £122.7m from the regulator Ofwat, who said the company had "let down its customers and failed to protect the environment".
+Weston said he wanted the company to "do better" but some of the targets it had been set were "not realistic".
+Thames Water has warned it only has enough cash to last until the end of the year, putting pressure on the new government to decide what to do with the company, which provides water to 16 million people across London and the Thames Valley.
+Ministers could give the green light to the rescue deal, proposed by Thames Water's lenders, which would see some debts written off and new money invested in exchange for leniency on environmental targets.
+The previous Environment Secretary Emma Reynolds dismissed the plan as weak, arguing it did not do enough for consumers. She has since been replaced by Angela Eagle.
+Related topics
+- Published15 July
+- Published31 July`,
+    bodyJa: `テムズウォーターは財務責任者に100万ポンドの契約金を支払った
+- 公開されました
+テムズ・ウォーターは多額の負債に苦しみ、一時的な国有化に直面しているため、7月に財務責任者に契約金100万ポンドを支払った。
+スティーブ・バック氏は2025年4月に同社に入社したが、7桁の支払いは同社が契約上の義務について法的助言を受けた先月まで行われなかったとされている。
+スカイニュースが最初に報じた外部の支払いの存在は、テムズ水道委員長からコモンズ環境・食料・農村問題委員会の議員に宛てた書簡の中で明らかになった。
+社外のエイドリアン・モンタギュー卿は書簡の中で、顧客が上級幹部への多額の支払いを「不当」とみなすことは理解しているが、従業員の退職を阻止するためには必要だと主張した。
+書簡には「チームの大部分は会社が直面している問題を解決するために最近招集されたものであり、それらの問題を引き起こす責任はない」と書かれていた。
+「これらの才能と経験を積んだ人材には、テムズウォーター社外での役割を果たす機会があり、多くの場合、他の企業から積極的にアプローチを受けています。
+「こうした役割は世間の注目を集めにくくなり、難易度も低くなり、報酬も高くなるだろう。」
+エイドリアン卿は、バック氏への支払いは「必要なインセンティブ」だと述べ、その資金はテムズ・ウォーターの貸し手から提供された緊急資金から出たものだと述べた。
+同氏は、同社は人材採用と人材確保の困難に直面していると述べ、国有化または特別管理下に置かれた場合、問題は「続く」と警告した。
+首相の公式報道官は、「最も業績の悪い水道会社の一つが、業績の向上と国民の信頼の回復に注力すべきときに、経営陣に巨額の報酬を支払っているのは容認できない」と述べた。
+「私たちは汚染水のボスに対するボーナスを禁止しました。私たちは企業が規則の文言と精神の両方に従うことを期待しています。」
+昨年導入された新規則の下では、主要な基準を満たさない水道会社は自動的に一定のボーナスを授与する権利を失うことになる。
+自由民主党議員で環境委員会委員長のアリスター・カーマイケル氏は、「すでに高給取りの上級幹部の報酬ではなく、サービスの向上に資金を投入すべきだ。
+「政府は当初、これをやめさせたいと明言していた。政府がこれに成功していないのは明らかだ。我々は今、政府がこれについてどうするつもりなのかを政府から聞く必要がある。」
+同社は約200億ポンドの負債を抱えており、債権者や政府当局者らと協力して解決策を模索している。
+合意に達しなければ、テムズ水道は「特別管理体制」に追い込まれる可能性がある。これは、実行可能な解決策が見つかるまで事業を継続することを目的とした一時的な国有化の一種である。
+これにより、政府が任命した役人が一時的に同社を運営することになるが、これには事業への資金提供やインフラ整備のほか、事業再編後の未払い債務への対応も含まれる。
+その後、企業が民間の買い手に売却されれば、政府は納税者の現金の一部を取り戻すことができるだろう。
+アンディ・バーナム首相は以前、主要な水道事業とエネルギー事業に対する「公的管理の強化」を望んでいると述べていた。
+昨年、テムズウォーターのボス、クリス・ウェストン氏の給与は14％増の163万ポンドとなり、他の役員は総額410万ポンドのボーナスを受け取った。
+ウェストン氏は先月末、BBCビッグボスのインタビューに応じ、テムズ水道の賃金について怒りがあることを認めたが、同社は「会社の立て直しを支援してくれる有能な人材」を引き付ける必要があると主張した。
+「市場金利を支払う用意がなければ、彼らは私たちのところに来ないし、私たちのところに留まらないだろう」と同氏は語った。
+ビッグボスインタビュー: テムズウォーター クリス・ウェストン
+英国最大の水道会社の CEO が BBC に水の安全保障、汚染目標、テムズ川の将来について語ります。
+ウェストン氏はまた、特別行政により納税者がコストを負担し続ける可能性があると警告した。
+その代わりに、同氏は同社の貸し手たちが提示した救済協定を支持した。
+テムズ・ウォーターは数年にわたり、下水の排出や漏洩を防止できなかったとして激しい批判にさらされてきた。
+昨年、同社は「顧客を失望させ、環境保護に失敗した」として規制当局オフワットから1億2,270万ポンドという過去最高の罰金を言い渡された。
+ウェストン氏は、同社に「改善」してもらいたいが、設定された目標の一部は「現実的ではない」と述べた。
+テムズ・ウォーター社は、同社の現金は年末まで持つのに十分な資金しかないと警告しており、ロンドンとテムズバレー全域で1600万人に水を供給している同社をどうするかを決定するよう新政府に圧力をかけている。
+テムズ・ウォーターの貸し手が提案した救済協定に閣僚らはゴーサインを出す可能性があり、環境目標への寛大さと引き換えに債務の一部を帳消しにし、新たな資金を投資する内容となっている。
+エマ・レイノルズ前環境長官は、消費者にとって十分な効果がなかったとして、この計画は弱いと一蹴した。その後、彼女の後任にはアンジェラ・イーグルが就任した。
+関連トピック
+- 7 月 15 日発行
+- 7 月 31 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-10T11:48:54+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be7c/live/8dac15b0-9491-11f1-9ade-bb7c8a2b6bc0.jpg",
+    readTime: 6,
+  },
+  {
+    id: "trump-s-foreign-licensing-business-booms-c587bfc6",
+    title: "Trump’s foreign licensing business booms to $59.5 million as Gulf developers pay",
+    titleJa: "トランプ大統領の海外ライセンス事業、湾岸開発業者の支払いで5950万ドルに急成長",
+    summaryJa: "ドナルド・トランプ大統領の海外不動産ライセンス事業は就任1年目に急成長し、国際開発業者がトランプの名前を冠した高級タワー、ゴルフコース、沿岸リゾートのブランド化にプレミアムを支払ったため、2025年には5,950万ドルを生み出した。世界中の不動産でのトランプ名の使用を含む外国ライセンス収入は、2024年から71％増加した。トランプ大統領の年次財務情報開示をCNBCが分析したところ、その総額は2023年のほぼ10倍に達しており、トランプ・オーガニゼーションが「新たな対外取引は一切行わない」という同社の第一期目の公約を撤回したことが追い風となった。",
+    bodyOriginal: `President Donald Trump's foreign real-estate licensing business boomed during his first year back in office, generating $59.5 million in 2025 as international developers paid a premium to brand luxury towers, golf courses and coastal resorts with the Trump name.
+Foreign licensing revenue, including for the use of the Trump name on properties around the world, rose 71% from 2024. The sum was nearly 10 times higher than in 2023, according to a CNBC analysis of Trump's annual financial disclosure — fueled by the Trump Organization's reversal of the company's first-term pledge to pursue "no new foreign deals whatsoever."
+The Trump Organization's second-term ethics policy bars new material transactions with foreign governments but allows deals with private foreign companies
+Four Trump-affiliated licensing LLCs not listed in his 2024 disclosure generated $20.25 million in 2025, accounting for 82% of the increase. Five other licensing LLCs that had previously been listed as inactive generated another $9.64 million.
+More than 60% of the licensing income came from projects in Gulf countries.
+Some of those developers licensing the Trump name were pursuing major U.S. investments, seeking government permits or pressing for favorable economic and diplomatic relations. Other Trump-branded projects relied on state-owned land, sovereign investment or partnerships with government-controlled companies.
+The result, ethics watchdogs told CNBC, is an unprecedented collision between the president's public power and private wealth. The deals also raise unresolved questions, legal experts told CNBC, about the Constitution's Foreign Emoluments Clause.
+CNBC found no evidence that any licensing payment influenced an administration decision, that a developer received special treatment or that Trump intervened on a company's behalf.
+The Trump Organization told CNBC it operates "completely separate from the presidency," complies with ethics and conflict-of-interest laws and uses an outside ethics adviser to avoid conflicts. The Trump Organization did not respond to questions about specific projects involving foreign licensing.
+Asked about Trump’s foreign dealmaking, a White House spokesperson did not address the arrangements directly. The spokesperson said “the only special interest guiding” Trump’s decisions is “the best interest of the American people” and pointed to more than $2 trillion in investment commitments and commercial, defense, aviation and technology deals announced during the president's May 2025 Gulf trip.
+"Foreign governments and politically connected businesses now have a direct, incredibly visible way to put money into the sitting president's pocket," said Scott Greytak, deputy executive director of Transparency International U.S., an anti-corruption nonprofit.
+"The conflict is already in plain sight right now," Greytak told CNBC. "We don't need to wait for some kind of smoking gun to see a quid pro quo."
+Eric Trump told The New York Times in 2024 that the family "did everything imaginable to avoid any appearance of impropriety" and "got crushed anyway." He continued, saying, "We can't just sit out in perpetuity, and I won't."
+Donald Trump was blunter about the foreign deals, telling The Times in January, "I found out that nobody cared. I'm allowed to."
+Gulf developers expand in the U.S.
+Projects linked to the United Arab Emirates generated roughly $22 million in licensing income for Trump in 2025, followed by Saudi Arabia with $9 million and Qatar with $5 million.
+Much of that revenue flowed through two Gulf real-estate developers: Saudi-linked Dar Al Arkan and UAE-based Damac.
+Trump reported $25.8 million tied to projects involving Dar Al Arkan and its Dubai-based international arm, Dar Global. Damac-linked projects generated another $11.3 million.
+Under the licensing model, local developers generally finance and build the properties, while the Trump Organization collects fees for use of its name and, in some cases, for managing them.
+The deals come amid a Gulf-region boom in branded residences, which use luxury and celebrity names to command premium prices. In Dubai, for instance, branded-home transaction volume rose 26% year over year during the first nine months of 2025, while sales value climbed 51%, according to commercial real estate services and investment company CBRE, using its most recent available information.
+The Trump name offers something other luxury and celebrity brands cannot: the suggestion of access to the power of the presidency.
+Critics like Ben Freeman, director of the Democratizing Foreign Policy program at the Quincy Institute for Responsible Statecraft, said being associated with Trump's brand can signal political access when a developer — or its government — has interests before Washington. The think tank advocates for diplomacy rather than military intervention.
+"Is this an America First foreign policy, or is this a Trump First foreign policy?" Freeman told CNBC.
+Damac offers an example of that overlap, ethics experts said.
+Its $11.3 million in licensing payments included two newly disclosed $5 million fees tied to Damac's Abu Dhabi projects, even though the Trump Organization has no active developments there. That is possible because developers can pay for the contractual right to use the Trump brand before a project is built — including through up-front or milestone-based fees.
+The payments came as Damac, founded by billionaire Hussain Sajwani, pursued a major U.S. expansion.
+In January 2025, Sajwani joined then president-elect Trump at Mar-a-Lago to announce plans to invest at least $20 billion in U.S. data centers. Trump praised the commitment and said companies investing at least $1 billion would receive expedited environmental and regulatory reviews.
+Sajwani, a longtime friend of Trump, told CNBC at the time that "the sky is the limit" when it came to U.S. investment.
+Six months later, Trump signed an executive order directing federal agencies to accelerate permitting for qualifying data centers and the energy infrastructure supporting them.
+The policy applied broadly, and Damac soon advanced a major data-center project that could qualify for expedited federal permitting and other support under the order.
+By December, a Damac subsidiary had paid another $36.5 million for land near Canton, Ohio, for a proposed data center, county property records show. The same eight-parcel property had changed hands for $8.55 million just two days earlier, according to the records. The project will require coordination with local officials on power, water and other infrastructure.
+"A developer whose project depends on federal permitting and energy policy has a direct financial interest in the administration's decisions," Greytak said.
+Canton city spokesperson Christian Turner told CNBC in a statement that Damac Digital is "subject to the same requirements as any other developer." The project remains under review, and no incentives have been approved, Turner said.
+Dar Al Akan and Damac did not respond to multiple requests for comment.
+CNBC found no evidence that any of Damac's payments influenced the executive order or that Trump intervened on the company's behalf. Still, ethics experts said the overlapping financial and policy interests create at least the appearance of a conflict.
+"It seems as though this Damac project was padding the president's private business to help grease the wheels for data centers affected by Trump policies," said Kedric Payne, ethics director at the Campaign Legal Center, which promotes government ethics and adhering to anti-corruption laws.
+"When presidential decisions appear directly connected to his financial interests, you have, at the very least, the appearance of an ethics problem," Payne said.
+Private deals, public backing
+Other Persian Gulf projects raise a different set of conflict questions.
+In Qatar and Oman, the Trump Organization signed licensing agreements with private developers rather than directly with foreign governments. Both projects, however, involve state-controlled entities. The Trump Organization's ethics policy bars only direct agreements with foreign governments. In practice, both projects rely on state-controlled land, investment or partners.
+The Quincy Institute's Freeman said the line between a private developer and a foreign government can be "meaningless in many cases" in the Gulf.
+"The largest stakeholders can be the royal families, or they might be sitting on the board," he said. "There are almost always enormous entanglements between the governments and corporations cutting these deals, even if they're ostensibly private."
+Trump disclosed $5.25 million in licensing income tied to Dar Global's plans for a Trump-branded golf club and luxury villas in Qatar. The project, however, is part of the Simaisma coastal development led by Qatari Diar, a real estate investment company established by Qatar's sovereign wealth fund and chaired by the country's municipality minister.
+The disclosed payments also coincided with a major expansion in U.S.-Qatar ties. Dar Global and Qatari Diar announced the Trump-licensed project April 30, 2025, two weeks before Trump visited Doha, during the first major foreign-policy trip of his second term, and announced major aviation, defense and economic agreements with Qatar.
+"The concern is not that these deals prove a quid pro quo," Greytak said. "It is that Qatar was putting money into the president's business while seeking major agreements from his administration, raising unavoidable questions about whose interests shaped the relationship."
+CNBC found no evidence that the Trump project influenced any of those agreements.
+The Qatari government and Qatari Diar did not respond to questions about whether the Trump project was discussed alongside the new U.S. agreements.
+The Oman project has a similar structure, pairing a private developer with a state-owned partner.
+Trump reported nearly $1 million in licensing income tied to Aida, a development being built through a joint venture between Dar Global and Omran Group, the Omani government's tourism-development arm.
+The Omani government and Omran Group did not respond to detailed questions about its state-owned company's role in the project or its involvement in the Trump licensing agreement.
+Reported foreign licensing revenue also extended beyond the Gulf.
+In Vietnam, Trump reported $5 million tied to a planned golf development outside Hanoi valued at $1.5 billion that advanced while Vietnamese officials were negotiating with the Trump administration to avoid a threatened 46% tariff.
+Then-Prime Minister Pham Minh Chinh joined Eric Trump at the project's May 2025 groundbreaking and said Eric Trump's visit had "motivated us to expedite this project."
+"It's hard to say that there's a coincidence when official decisions happen so close in time to the family business receiving financial benefits," Payne said.
+CNBC found no evidence that the Trump project influenced the tariff negotiations or the rate imposed on Vietnamese goods.
+The Vietnamese government did not respond to questions about whether the project was discussed during the negotiations or why officials expedited its approval.
+Emoluments concerns
+Together, the Qatar and Oman projects raise unresolved questions, legal experts tell CNBC, under the Constitution's Foreign Emoluments Clause, which bars federal officeholders from accepting certain benefits from foreign states without congressional consent.
+"The central issue is whether payments routed through a private developer can still be attributed to a foreign state when a government-controlled company owns the land, finances the project or participates in its development," said Scott Anderson, a Brookings Institution senior fellow and Lawfare blog general counsel and senior editor.
+Courts have never definitively resolved that question. The Supreme Court dismissed several first-term lawsuits accusing Trump of violating the clause as moot after Trump left office in 2021, without ruling on the merits.
+"Obviously, the framers didn't anticipate licensing fees," Anderson, a former legal adviser at the U.S. Embassy in Baghdad, told CNBC. But its "pretty broad scope" suggests officials should not benefit from foreign governments without congressional approval, he said.`,
+    bodyJa: `ドナルド・トランプ大統領の海外不動産ライセンス事業は就任1年目に急成長し、国際開発業者がトランプの名前を冠した高級タワー、ゴルフコース、沿岸リゾートのブランド化にプレミアムを支払ったため、2025年には5,950万ドルを生み出した。
+世界中の不動産でのトランプ名の使用を含む外国ライセンス収入は、2024年から71％増加した。トランプ大統領の年次財務情報開示をCNBCが分析したところ、その総額は2023年のほぼ10倍に達しており、トランプ・オーガニゼーションが「新たな対外取引は一切行わない」という同社の第一期目の公約を撤回したことが追い風となった。
+トランプ・オーガニゼーションの第2期倫理方針は、外国政府との新たな重要な取引を禁止するが、民間の外国企業との取引は許可する
+2024年の開示に記載されていないトランプ系ライセンスLLC4社は2025年に2025万ドルを生み出し、増加額の82％を占めた。以前に非アクティブとしてリストされていた他の 5 つのライセンス LLC は、さらに 964 万ドルを生み出しました。
+ライセンス収入の60％以上は湾岸諸国のプロジェクトから得られた。
+トランプの名前をライセンスしている開発者の中には、政府の許可を求めたり、有利な経済・外交関係を求めたりして、米国からの大規模な投資を追求していた者もいた。他のトランプブランドのプロジェクトは、国有地、政府投資、または政府傘下の企業との提携に依存していた。
+その結果、大統領の公権力と私有財産との間で前例のない衝突が生じた、と倫理監視団体がCNBCに語った。法律専門家らはCNBCに対し、この協定は憲法の外国人報酬条項について未解決の問題も提起していると語った。
+CNBCは、ライセンスの支払いが政権の決定に影響を与えたという証拠や、開発者が特別な扱いを受けたという証拠、あるいはトランプ大統領が企業に代わって介入したという証拠は見つからなかった。
+トランプ・オーガニゼーションはCNBCに対し、同組織は「大統領職とは完全に独立して」運営しており、倫理と利益相反に関する法律を遵守し、紛争を避けるために外部の倫理アドバイザーを起用していると語った。トランプ・オーガニゼーションは、外国ライセンスを伴う特定のプロジェクトに関する質問には回答しなかった。
+トランプ大統領の対外取引に関する質問に対し、ホワイトハウス報道官は取り決めについて直接言及しなかった。同報道官は、トランプ大統領の決定を「導く唯一の特別な利益」は「米国民の最善の利益」であると述べ、2025年5月の大統領の湾岸訪問中に発表された2兆ドルを超える投資約束や商業、防衛、航空、テクノロジー関連の取引を指摘した。
+「外国政府や政治的に結びついた企業は今や、現職大統領の懐に直接、信じられないほど目に見える方法で資金を投入できるようになった」と汚職撲滅非営利団体トランスペアレンシー・インターナショナル米国副事務局長のスコット・グレイタック氏は語る。
+「紛争は現在すでに明らかな状況にある」とグレイタク氏はCNBCに語った。 「見返りを得るために、ある種の決定打を待つ必要はありません。」
+エリック・トランプ氏は2024年にニューヨーク・タイムズに対し、一家は「不正と思われないよう考えられるすべてのことをした」が、「とにかく潰された」と語った。同氏は続けて、「我々は永久に座って過ごすことはできないし、私もそうはしない」と述べた。
+ドナルド・トランプ氏は対外協定については率直で、1月にタイムズ紙に「誰も気にしていないことがわかった。私には許されている」と語った。
+ガルフの開発業者が米国に進出
+アラブ首長国連邦に関連したプロジェクトは、2025年にトランプ大統領に約2200万ドルのライセンス収入をもたらし、サウジアラビアが900万ドル、カタールが500万ドルと続いた。
+その収益の多くは、サウジアラビアとつながりのあるダル・アル・アルカンとアラブ首長国連邦に拠点を置くダマックという湾岸の不動産開発業者2社を通じて流れた。
+トランプ大統領は、ダル・アル・アルカンとそのドバイに拠点を置く国際部門ダール・グローバルが関与するプロジェクトに2580万ドルが関係していると報告した。 Damac 関連のプロジェクトはさらに 1,130 万ドルを生み出しました。
+ライセンスモデルでは、一般に地元の開発業者が資金を提供して不動産を建設する一方、トランプ・オーガナイゼーションはその名前の使用料、場合によっては管理料を徴収する。
+この取引は、湾岸地域で高級住宅や有名人の名前を使ってプレミア価格を付けるブランド住宅ブームのさなかに行われた。例えば、商業用不動産サービス・投資会社CBREが入手可能な最新情報を基に調べたところによると、ドバイでは、2025年最初の9か月間でブランド住宅の取引量が前年同期比26％増加し、販売額も51％増加した。
+トランプの名前は、他の高級ブランドや有名ブランドにはできないものを提供しています。それは、大統領の権力へのアクセスを示唆していることです。
+クインシー責任国家戦略研究所の民主化外交政策プログラムのディレクターであるベン・フリーマン氏のような評論家は、開発業者、あるいはその政府がワシントンよりも先に利権を持っている場合、トランプ氏のブランドと関連付けられることは政治的アクセスを示唆する可能性があると述べた。このシンクタンクは軍事介入ではなく外交を主張している。
+「これはアメリカファーストの外交政策なのか、それともトランプファーストの外交政策なのか？」フリーマン氏はCNBCに語った。
+倫理専門家らによると、ダマック氏はその重複の一例を示しているという。
+トランプ・オーガニゼーションはアブダビで積極的な開発を行っていないにもかかわらず、同社のライセンス料支払い額1130万ドルには、ダマックのアブダビプロジェクトに関連した新たに開示された2件の500万ドルの手数料が含まれている。これが可能なのは、開発者が前払い料金やマイルストーンベースの料金などを通じて、プロジェクトの構築前にトランプ ブランドを使用する契約上の権利を支払うことができるからです。
+この支払いは、億万長者のフセイン・サジワニ氏が設立したダマック社が米国で大規模な事業拡大を進める中で行われた。
+2025年1月、サジワニ氏はマール・ア・ラーゴで当時のトランプ次期大統領と合流し、米国のデータセンターに少なくとも200億ドルを投資する計画を発表した。トランプ大統領はこの取り組みを称賛し、少なくとも10億ドルを投資する企業は環境や規制の迅速な審査を受けることになると述べた。
+トランプ氏の長年の友人であるサジワニ氏は当時CNBCに対し、米国の投資に関しては「限界はない」と語った。
+6か月後、トランプ大統領は連邦政府機関に対し、適格なデータセンターとそれをサポートするエネルギーインフラの許可を加速するよう指示する大統領令に署名した。
+この政策は広範囲に適用され、ダマックはすぐに、この命令に基づく連邦政府の迅速な許可やその他の支援の対象となる可能性のある大規模なデータセンター プロジェクトを推進しました。
+郡の不動産記録によると、ダマックの子会社は12月までに、オハイオ州カントン近郊のデータセンター建設計画用の土地にさらに3,650万ドルを支払った。記録によると、同じ8区画の不動産が、わずか2日前に855万ドルで譲渡されていた。このプロジェクトでは、電力、水道、その他のインフラに関して地元当局との調整が必要となる。
+「プロジェクトが連邦政府の許可とエネルギー政策に依存している開発業者は、政府の決定に直接的な経済的利益を持っている」とグレイタック氏は述べた。
+カントン市の広報担当者クリスチャン・ターナー氏はCNBCに対し、ダマック・デジタルには「他の開発者と同じ要件が課せられる」との声明を発表した。ターナー氏によると、このプロジェクトはまだ審査中であり、いかなるインセンティブも承認されていないという。
+ダル・アル・アカン氏とダマック氏は複数のコメント要請に応じなかった。
+CNBCは、ダマック氏の支払いが大統領令に影響を与えた、あるいはトランプ氏が会社に代わって介入したという証拠は見つからなかった。それでも倫理専門家らは、財政上の利害と政策上の利害が重なり合うことで、少なくとも対立の様相を生み出していると述べた。
+政府の倫理と汚職防止法の順守を推進するキャンペーン・リーガル・センターの倫理ディレクター、ケドリック・ペイン氏は、「このダマック・プロジェクトは、トランプ政策の影響を受けるデータセンターの潤滑油として大統領の私的な事業を水増ししていたようだ」と述べた。
+「大統領の決定が彼の経済的利益に直接関係しているように見える場合、少なくとも倫理上の問題があるように見えます」とペイン氏は述べた。
+プライベートな取引、公的支援
+他のペルシャ湾プロジェクトは、別の一連の紛争問題を提起しています。
+カタールとオマーンでは、トランプ・オーガニゼーションは外国政府と直接ではなく、民間開発業者とライセンス契約を結んだ。ただし、どちらのプロジェクトにも国営の組織が関与しています。トランプ・オーガナイゼーションの倫理方針は、外国政府との直接協定のみを禁止している。実際には、どちらのプロジェクトも国が管理する土地、投資、またはパートナーに依存しています。
+クインシー研究所のフリーマン氏は、湾岸地域では民間開発業者と外国政府との間の境界線は「多くの場合、無意味」になる可能性があると述べた。
+「最大の利害関係者は王室である可能性もあるし、あるいは彼らが取締役会のメンバーである可能性もある」と同氏は述べた。 「表向きは非公開であっても、これらの取引を締結する政府と企業との間には、ほとんどの場合、大きな葛藤が存在する。」
+トランプ大統領は、ダール・グローバルによるトランプ・ブランドのゴルフクラブと高級ヴィラをカタールに建設する計画に関連したライセンス収入525万ドルを明らかにした。しかし、このプロジェクトは、カタールの政府系ファンドによって設立され、同国の自治体大臣が会長を務める不動産投資会社カタール・ディアル社が主導するシマイスマ沿岸開発の一環である。
+明らかにされた支払いは、米国とカタールの関係の大幅な拡大と同時に行われた。ダール・グローバルとカタール・ディアールは、トランプ大統領が2期目最初の主要な外交政策訪問中にドーハを訪問する2週間前の2025年4月30日に、トランプ大統領のライセンスを受けたプロジェクトを発表し、カタールとの主要な航空、防衛、経済協定を発表した。
+「懸念されるのは、これらの取引が見返りとなるかどうかではない」とグレイタク氏は語った。 「カタールは政権からの大きな合意を求めながら大統領の事業に資金をつぎ込んでいたということであり、誰の利益が関係を形作っているのかという避けられない疑問が生じている。」
+CNBCは、トランプのプロジェクトがこれらの合意のいずれかに影響を与えたという証拠は見つけられなかった。
+カタール政府とカタール・ディアールは、トランプ大統領のプロジェクトが米国の新たな合意と並行して議論されたかどうかに関する質問には回答しなかった。
+オマーンのプロジェクトも同様の構造をしており、民間開発者と国営パートナーが連携している。
+トランプ大統領は、ダール・グローバルとオマーン政府の観光開発部門オムラン・グループの合弁事業を通じて建設中の開発であるアイーダに関連したライセンス収入が100万ドル近くあると報告した。
+オマーン政府とオムラン・グループは、プロジェクトにおける国有会社の役割やトランプライセンス契約への関与に関する詳細な質問には回答しなかった。
+報告された外国ライセンス収入は湾岸を越えて広がっている。
+ベトナムでは、トランプ大統領は、ベトナム当局が46％の関税を回避するためにトランプ政権と交渉している間に進められた、ハノイ郊外で計画されている15億ドル相当のゴルフ開発に500万ドルが関係していると報告した。
+当時のファム・ミン・チン首相は、2025年5月のこのプロジェクトの起工式にエリック・トランプ氏に加わり、エリック・トランプ氏の訪問が「このプロジェクトを促進する動機になった」と述べた。
+「家業が経済的恩恵を受けるのと非常に近いタイミングで正式な決定がなされるのは、偶然であるとは言い難い」とペイン氏は語った。
+CNBCは、トランプ大統領のプロジェクトが関税交渉やベトナム製品に課せられる税率に影響を与えたという証拠は見つからなかった。
+ベトナム政府は、このプロジェクトが交渉中に議論されたかどうか、また当局が承認を急いだ理由についての質問には回答しなかった。
+報酬に関する懸念
+カタールとオマーンのプロジェクトは共に未解決の問題を引き起こしていると法律専門家がCNBCに語ったところによると、憲法の外国報酬条項に基づき、連邦政府の役人が議会の同意なしに外国から一定の利益を受け取ることを禁じている。
+ブルッキングス研究所上級研究員でローフェア・ブログ法務顧問兼上級編集者のスコット・アンダーソン氏は、「中心的な問題は、政府管理の企業が土地を所有し、プロジェクトに資金を提供し、開発に参加している場合に、民間開発業者を通じて送られた支払いが依然として外国に帰属するかどうかだ」と述べた。
+裁判所はこの問題を明確に解決したことはありません。最高裁判所は、トランプ氏が2021年に大統領を退任した後、同条項に違反したとしてトランプ氏を告発した複数の第一次訴訟を争点として棄却し、本案について判決を下さなかった。
+「明らかに、立案者らはライセンス料を予期していなかった」とバグダッドの米国大使館の元法律顧問アンダーソン氏はCNBCに語った。しかし、その「範囲はかなり広い」ということは、当局者が議会の承認なしに外国政府から利益を得るべきではないことを示唆していると同氏は述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/trump-foreign-real-estate-licensing-income-gulf-deals.html",
+    publishedAt: "2026-08-10T10:30:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "world-s-biggest-chipmaker-tsmc-s-sales-s-2537ac85",
+    title: "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
+    titleJa: "世界最大のチップメーカー TSMC の売上高は、AI 需要の高まりを受けて 45% 増加",
+    summaryJa: "台湾積体電路製造（TSMC）は月曜日、同社のAI関連チップの需要が引き続き強化され、7月の売上高が大幅に増加したと発表した。世界最大のチップメーカーであるTSMCは、7月の売上高が前年比44.7％増の4,675億8,000万新台湾ドル（145億ドル）だったと報告した。",
+    bodyOriginal: `Taiwan Semiconductor Manufacturing Co. (TSMC) on Monday reported a big sales jump for July, as demand for its AI-related chips continued to strengthen.
+TSMC, the world's biggest chip manufacturer, reported revenue for July of 467.58 billion new Taiwan dollars ($14.5 billion), up 44.7% year-on-year.
+Investors are closely scrutinizing Big Tech spending and return on investment, as the sector continues to funnel unprecedented amounts of capital into building out AI infrastructure, including designing and buying semiconductors.
+TSMC manufactures chips for a variety of customers, including Nvidia and Google's own custom semiconductors, so the Taiwanese firm's sales are a closely watched metric of tech sector demand.
+"TSMC is now guiding for 40% growth in revenues for this year, so July's numbers put it ahead of that figure. This is no mean feat and highlights that for now demand is still there and takes the pressure off August and September somewhat in that these two months don't have to be as aggressive," Ben Barringer, head of technology research at Quilter Cheviot, told CNBC.
+"Demand in the semiconductor industry, however, can shift quickly so it is important that people do not read too much into the monthly numbers as they can jump around. The company is, however, continuing to expand with various additional investments, so you would hope this level of chip production can continue."
+TSMC does not provide commentary on its monthly revenue figures. But the company's second-quarter earnings reported last month showed that high-performance computing, which is where TSMC books AI chip sales, accounted for 66% of revenues.
+The company struck a bullish tone during its earnings report and said it expects 2026 revenue to increase by slightly above 40% in U.S. dollar terms. TSMC also raised its capex projection to between $60 billion and $64 billion for this year.
+"AI-related demand continues to be extremely robust," said TSMC Chairman C.C. Wei.
+European semiconductor stocks rose on Monday with ASML up more than 2%, and Infineon and STMicro also trading higher.
+Amid some of the market jitters around AI capex, semiconductor stocks have seen a recent sell-off. The PHLX Semiconductor index, which tracks a basket of chip stocks, is down around 15% from its June high. However, it is still around 72% higher for the year. TSMC's shares are up 50% for the year.`,
+    bodyJa: `台湾積体電路製造（TSMC）は月曜日、同社のAI関連チップの需要が引き続き強化され、7月の売上高が大幅に増加したと発表した。
+世界最大のチップメーカーであるTSMCは、7月の売上高が前年比44.7％増の4,675億8,000万新台湾ドル（145億ドル）だったと報告した。
+ビッグテック業界は半導体の設計や購入などAIインフラの構築に前例のない資金を注ぎ続けており、投資家はビッグテックへの支出と投資収益率を厳しく精査している。
+TSMCは、NvidiaやGoogle独自のカスタム半導体を含むさまざまな顧客向けにチップを製造しているため、台湾企業の売上高はテクノロジー分野の需要を示す指標として注目されている。
+「TSMCは現在、今年の売上高40％増を目標としているため、7月の数字はその数字を上回っている。これは並大抵のことではなく、今のところ需要がまだあることを強調しており、この2か月間はそれほど積極的にする必要がないという点で8月と9月のプレッシャーをいくらか和らげる」とキルター・チェビオットの技術研究責任者ベン・バリンジャー氏はCNBCに語った。
+「ただし、半導体業界の需要は急速に変化する可能性があるため、月ごとの数字をあまり深読みしないことが重要です。飛​​びつく可能性があるためです。しかし、同社はさまざまな追加投資で拡大を続けているため、このレベルのチップ生産が継続できることを期待するでしょう。」
+TSMCは月次売上高に関するコメントを提供していない。しかし、先月報告された同社の第2四半期決算では、TSMCがAIチップの売上高を計上するハイパフォーマンス・コンピューティングが売上高の66％を占めていたことが示された。
+同社は決算報告の中で強気の姿勢を打ち出し、2026年の売上高は米ドル換算で40％をわずかに上回る増加が見込まれると述べた。 TSMCはまた、今年の設備投資見通しを600億ドルから640億ドルに引き上げた。
+TSMCのC.C.会長は「AI関連の需要は引き続き非常に堅調だ」と述べた。魏。
+月曜日の欧州の半導体株は上昇し、ASMLが2％以上上昇し、インフィニオンとSTマイクロも上昇した。
+AI設備投資を巡る市場の一部に動揺が見られる中、半導体株は最近急落している。半導体株バスケットに連動するＰＨＬＸセミコンダクター指数は６月の高値から約１５％下落している。ただし、年間では依然として約72％高い。 TSMCの株価は年初から50％上昇した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
+    publishedAt: "2026-08-10T10:29:27+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
     id: "burnham-brings-forward-ban-on-subscripti-6ad4044c",
     title: "Burnham brings forward ban on 'subscription traps' to ease cost of living",
     titleJa: "バーナム、生活費軽減のため「定期購読の罠」禁止を前倒し",
@@ -135,6 +523,132 @@ The statement came shortly after a meeting between Trump and mining executives l
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 3,
+  },
+  {
+    id: "you-could-smell-someone-who-worked-at-r-1a8604fb",
+    title: "'You could smell someone' who worked at Raleigh",
+    titleJa: "ローリーで働いていた「誰かの匂いがするかもしれない」",
+    summaryJa: "ローリーで働いていた「誰かの匂いがするかもしれない」- 公開されました",
+    bodyOriginal: `'You could smell someone' who worked at Raleigh
+- Published
+The news the company that owns Raleigh has begun insolvency proceedings means one of Nottingham's most prestigious manufacturing names may have reached the end of its journey.
+From being one of the city's big three employers - along with Boots and Players cigarettes - with 8,000 staff, it may have finished its days being little more than a logo.
+But during the decades of its existence, it touched the lives of countless people, both those who worked there and those who enjoyed its bicycles.
+Some of those tell their stories about what Raleigh meant to them.
+Mark Hallam grew up being able to see the Raleigh factory from his backyard.
+He said: "Raleigh - Players and Boots too - came to the school offering careers and since it was so close I went for Raleigh.
+"I started in 1978, starting with how to build brakes and put spokes in wheels.
+"It had such a great atmosphere, though you had to be able to take having the mickey taken out of you!
+"It was diverse and so friendly, so full of characters, the social club was a great place."
+"One weird thing was you could smell if someone worked for Raleigh. I think it was the metal mixed with grease and oil.
+"And the factory dominating the area. I once walked past the gate just before four o'clock and everyone was pressed up against it, ready to run.
+"People would say, 'get the bus before Raleigh chucks out'.
+"But here's the thing, I never rode a Raleigh as I couldn't afford one," he said.
+David Marsland reluctantly followed his father into the company.
+He said: "I wanted to be a surveyor but couldn't get a job.
+"I had grown up with Raleigh and joined in 1973, and I gained new friends at every stage of my 47 years and met my wife there, so it was very much the background to my life.
+"There used to be so many people working there we not only had a football team, we had our own league.
+"But then the redundancies started coming - I don't know how many times I walked into an office not knowing whether I would have a job when I came out.
+"One time we had all these plans for a new factory in Bulwell but when it became clear that our steel bicycles couldn't match the prices of aluminium bicycles from the Far East, it all got binned.
+"I think that was the moment Raleigh changed."
+Sarah Nixon, from Daybrook in Nottinghamshire, said her parents met at the company.
+She said: "My mum worked in the offices and my dad was a work study engineer, this was in the 1950s.
+"They described it as a really great place to work, it was very social, more of a community than a workplace.
+"The other thing they would talk about was the size of the place, which is something I don't think we appreciate these days.
+"My dad told me they used to ride bikes between the departments because it was just that huge."
+For Maureen Vines, Raleigh was also a family affair.
+"We lived near Faraday Road, opposite the White Horse pub," she said.
+"Most of my uncles worked at Raleigh, my aunts worked at Players, but I remember the road being full of people on bikes.
+"When they filmed Saturday Night and Sunday Morning - the main chap in that works at Raleigh - they filmed it in the road outside.
+"One of my uncles, Charlie, he rode his bike for that and you can still see him in the background, in the film, riding down the street.
+"It's one of the firms which built Nottingham."
+Helen Crowder's family is linked with Raleigh in a slightly different way.
+"We lived in Grantham in the 50s and I was promised a Raleigh bicycle if I passed my 11+ [the exam to get into grammar school]," she said.
+"Luckily I did that and my parents said, 'right, we'll have to go to Nottingham' which was quite an adventure because we had to get the train.
+"But I had that bike for a long, long time.
+"I was tall, so I got a full-sized bike and I used it through school and my teens and used it when I started work.
+"I moved away when I married and I left it with my mother, but when we came back I got it again and rode with each of my three children in turn on the back.
+"It was a super-strong, well-made bike, really excellent and I only had to give it up when it was really worn out.
+"I must have ridden it for the best part of 50 years."
+Andrew Dutton, from Silverdale, was loyal to the brand, even if he could not keep the same bike.
+"I got my first one aged about six and I had a Grifter, then a Sprinter Racing bike and a Raleigh Super Burner BMX," he said.
+"It would be a Christmas thing. You'd give your parents a decent idea of what you wanted but it would still be a nice surprise on the day.
+"Then you would take it out no matter what the weather, rain or snow.
+"We were in West Bridgford then and I'd ride down the road, with my brother on his new bike, we'd ride to the car park and there would be all the other kids doing the same.
+"They were great bikes, really well made.
+"I have to say it - it's the end of an era."
+Get in touch
+Tell us which stories we should cover in Nottingham
+Listen to BBC Radio Nottingham on Sounds and follow BBC Nottingham on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.
+Related topics
+- Published4 days ago
+- Published2 March 2025
+- Published9 January 2025
+- Published13 August 2024
+- Published9 July`,
+    bodyJa: `ローリーで働いていた「誰かの匂いがするかもしれない」
+- 公開されました
+ローリーを所有する会社が破産手続きを開始したというニュースは、ノッティンガムで最も有名な製造業の一つがその旅の終わりに達したかもしれないことを意味する。
+ブーツ・アンド・プレーヤーズ・シガレットと並ぶ、市内の三大雇用主の一つであり、8,000人のスタッフを抱える同社は、単なるロゴにすぎない時代を終えたのかもしれない。
+しかし、その存在の数十年の間に、そこで働く人も自転車を楽しむ人も含め、数え切れないほどの人々の生活に影響を与えてきました。
+中には、ローリーが自分たちにとって何を意味したのかを語る人もいます。
+マーク・ハラムは、裏庭からローリー工場を眺めながら育ちました。
+彼は、「ローリー、選手もブーツも、キャリアを提供するために学校に来ました。そして、それがとても近かったので、私はローリーを選んだのです。」
+「私は 1978 年にブレーキを組み立て、ホイールにスポークを取り付ける方法から始めました。
+「すごくいい雰囲気だったけど、ミッキーを取られるのは我慢できなきゃいけなかったね！
+「多様性があり、とてもフレンドリーで、キャラクターがたくさんいて、社交クラブは素晴らしい場所でした。」
+「奇妙なのは、誰かがローリーで働いているかどうかを嗅ぐことができるということです。金属にグリスやオイルが混ざったものだったと思います。
+「そして工場がその地域を支配していた。私はかつて4時前に門を通り過ぎたことがあったが、全員が門に押しつけられ、今にも逃げようとしていた。
+「人々は『ローリーが降りる前にバスに乗れ』と言うでしょう。
+「でも問題は、ローリーを買う余裕がなかったので、一度も乗ったことがなかったということだ」と彼は語った。
+デビッド・マースランドはしぶしぶ父親の後を追って会社に入社しました。
+彼は「測量士になりたかったが、就職できなかった。
+「私はローリーとともに育ち、1973 年に入社しました。47 年間のあらゆる段階で新しい友人を得て、そこで妻と出会い、それが私の人生の大きな背景でした。
+「かつてそこでは非常に多くの人が働いていて、フットボールチームだけでなく、独自のリーグもありました。
+「しかし、その後、人員削減が始まりました。出社したときに仕事があるかどうかもわからないまま、何度オフィスに入ったかわかりません。
+「かつてブルウェルに新しい工場を建てる計画があったのですが、当社のスチール製自転車が極東のアルミ製自転車の価格に匹敵しないことが明らかになり、すべてが箱に詰められました。
+「あれがローリーが変わった瞬間だったと思います。」
+ノッティンガムシャー州デイブルック在住のサラ・ニクソンさんは、両親が会社で出会ったと語った。
+彼女はこう言った：「私の母はオフィスで働いていて、私の父は労働研究エンジニアでした。これは1950年代のことでした。
+「彼らは、ここは働くのに本当に素晴らしい場所で、とても社交的で、職場というよりもコミュニティのようなものだと言いました。
+「もう一つ彼らが話していたのは、その場所の広さについてでしたが、最近では私たちがそのことを評価していないと思います。
+「父が言うには、部署間はとても広かったので、よく自転車に乗って移動していたそうです。」
+モーリン・ヴァインズにとって、ローリーは家族の思い出でもありました。
+「私たちはファラデー・ロードの近く、ホワイト・ホース・パブの向かいに住んでいました」と彼女は語った。
+「私の叔父のほとんどはローリーで働き、叔母はプレーヤーズで働いていましたが、道路は自転車に乗った人々でいっぱいだったのを覚えています。
+「彼らがローリーで働いているメインの『土曜の夜と日曜の朝』を撮影したとき、彼らは外の道路で撮影したんだ。
+「私の叔父の一人、チャーリーはそのために自転車に乗っていて、映画の中で彼が背景で通りを走っている姿が今でも見ることができます。
+「それはノッティンガムを築いた企業の一つです。」
+ヘレン・クラウダーの家族は、少し異なる方法でローリーと結びついています。
+「私たちは1950年代にグランサムに住んでいて、11歳以上（グラマースクールに入学するための試験）に合格したら、ローリーの自転車をくれると約束されました」と彼女は語った。
+「幸運なことに、私はそうすることができ、両親は『そうだ、ノッティンガムに行かなければならない』と言った。電車に乗らなければならなかったので、それはかなりの冒険だった。
+「しかし、私はそのバイクを長い間所有していました。
+「私は背が高かったので、フルサイズの自転車を購入し、学生時代から十代の頃までそれを使い、仕事を始めたときも使いました。
+「結婚して引っ越しをして母に預けたのですが、戻ってきたらまた受け取って、3人の子供を順番に背中に乗せて乗りました。
+「それは非常に強力でよく作られたバイクで、本当に素晴らしかったので、本当に使い古されたときだけ手放す必要がありました。
+「50年間のうち最も長い期間、この車に乗っていたはずです。」
+シルバーデール出身のアンドリュー・ダットンさんは、たとえ同じバイクを使い続けることができなかったとしても、このブランドに忠実でした。
+「初めてのバイクを手に入れたのは6歳くらいで、グリフター、次にスプリンターレーシングバイク、そしてローリースーパーバーナーBMXを持っていました」と彼は語った。
+「それはクリスマスのものでしょう。両親に自分が欲しいものについてきちんとした考えを伝えるでしょうが、それでも当日には素敵なサプライズになるでしょう。」
+「そうすれば、雨でも雪でも、どんな天候であっても持ち出すことができます。
+「当時、私たちはウェスト・ブリッジフォードにいて、兄と一緒に新しい自転車に乗って駐車場まで車で向かいました。すると、他の子供たちもみんな同じことをしていました。
+「それらは本当に良く作られた素晴らしいバイクでした。
+「言わなければならないのは、時代の終わりだということだ。」
+連絡する
+ノッティンガムで取り上げるべきストーリーを教えてください
+サウンドで BBC ラジオ ノッティンガムを聴き、Facebook (外部)、X (外部)、または Instagram (外部) で BBC ノッティンガムをフォローしてください。ストーリーのアイデアを eastmidsnews@bbc.co.uk (外部) または WhatsApp (外部 (0808 100 2210) 経由) に送信してください。
+関連トピック
+- 4 日前に公開
+- 2025 年 3 月 2 日発行
+- 2025 年 1 月 9 日公開
+- 2024 年 8 月 13 日公開
+- 7 月 9 日に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-10T05:10:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a219/live/bec205e0-947f-11f1-9918-857a225fb14e.jpg",
+    readTime: 7,
   },
   {
     id: "tech-leaders-say-ai-means-less-work-thei-2df66619",
@@ -1729,480 +2243,6 @@ The presenter later resigned, while the family expressed their "deep discomfort 
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcf2/live/be4e3d50-933e-11f1-a35f-039358cea467.jpg",
     readTime: 3,
-  },
-  {
-    id: "next-big-push-in-etf-industry-why-these-a060e5c1",
-    title: "Next big push in ETF industry? Why these risk assets are gaining traction as interest rate uncertainty persists",
-    titleJa: "ETF業界の次なる大きな動きは？金利の不確実性が続く中、なぜこれらのリスク資産が注目を集めているのか",
-    summaryJa: "担保付きローン義務は、上場投資信託業界における次の大きな推進要因となる可能性があります。VettaFiのトッド・ローゼンブルース氏は、金利の不確実性が続いているため、代替資産に対する投資家の需要があることを示唆している。",
-    bodyOriginal: `Collateralized loan obligations may become the next big push in the exchange-traded fund industry.
-VettaFi's Todd Rosenbluth suggests there's investor demand for the alternative assets due to ongoing interest rate uncertainty.
-"[CLOs have] been popular within the marketplace," the firm's head of research told CNBC's "ETF Edge" this week.
-CLOs are short-term fixed income strategies that consist of pools of floating-rate secured loans. They're designed to deliver relative stability and attractive yields across market cycles.
-"We've seen fixed income ETF demand be quite strong," Rosenbluth said. "I think that's going to continue as we're still waiting for some clarity from the next move of the Fed."
-Last month's Fed's decision to keep rates unchanged is a catalyst for short-term product demand, according to Rosenbluth.
-'That's caught our attention'
-The industry appears to be acknowledging investor interest. Rosenbluth listed Reckoner Capital Management, an ETF provider specializing in CLOs, as a firm actively creating new CLO ETFs this year.
-"That's caught our attention," he said. "It's just great to see the innovation that's happening within the fixed income ETF marketplace."
-Jennifer Grancio, global head of distribution at TCW Group, is also seeing a preference to fixed income from an asset manager perspective.
-"I think a lot of advisors are holding a core income-oriented portfolio and then dabbling a little bit with short duration or CLO products," she said.
-CLO risks
-However, Rosenbluth acknowledges risks associated with CLO ETFs.
-"While AAA-rated CLO tranches boast near-zero default rates, lower-tier tranches (BBB-B) face heightened default risk and market volatility during economic stress," he wrote in a special note to CNBC. "In addition, because corporate loans in CLO pools carry significant exposure to tech and software sectors, private credit jitters or tech selloffs can spill over and trigger spread widening."
-He added that investors are therefore seeking AAA-rated and senior-secured assets to capture attractive yields without that long-term maturity risk.`,
-    bodyJa: `担保付きローン義務は、上場投資信託業界における次の大きな推進要因となる可能性があります。
-VettaFiのトッド・ローゼンブルース氏は、金利の不確実性が続いているため、代替資産に対する投資家の需要があることを示唆している。
-「（CLOは）市場内で人気がある」と同社の調査責任者は今週CNBCの「ETFエッジ」に語った。
-CLO は、変動金利の有担保ローンのプールで構成される短期債券戦略です。これらは、市場サイクル全体にわたって相対的な安定性と魅力的な利回りを提供するように設計されています。
-ローゼンブルース氏は「債券ETFの需要が非常に強いことがわかった」と述べた。 「FRBの次の行動が明確になるのをまだ待っているので、この状況は続くと思う。」
-ローゼンブルース氏によると、金利据え置きという先月のFRBの決定は、短期的な製品需要の促進要因となっている。
-「それが私たちの注意を引きました」
-業界は投資家の関心を認めているようだ。ローゼンブルース氏は、今年新たなCLO ETFを積極的に創出する企業として、CLOに特化したETFプロバイダーであるレコナー・キャピタル・マネジメント社を挙げた。
-「それが私たちの注意を引いた」と彼は言った。 「債券ETF市場で起こっているイノベーションを見るのは本当に素晴らしいことだ。」
-TCWグループの流通部門グローバル責任者であるジェニファー・グランシオ氏も、資産運用会社の観点から債券が好まれていると見ている。
-「多くのアドバイザーは中核となる収入指向のポートフォリオを保有しており、その後、短期商品やCLO商品に少し手を出していると思います」と同氏は語った。
-CLOのリスク
-ただし、ローゼンブルース氏は CLO ETF に関連するリスクを認識しています。
-同氏はCNBCへの特別メモで「AAA格付けのCLOトランシェはほぼゼロのデフォルト率を誇るが、下位ティアのトランシェ（BBB-B）は経済ストレス下でデフォルトリスクの高まりと市場のボラティリティの高まりに直面している」と述べた。 「さらに、CLOプールの企業融資はハイテクおよびソフトウェアセクターへの多額のエクスポージャーを抱えているため、民間信用不安やハイテク株の下落が波及し、スプレッド拡大を引き起こす可能性がある。」
-そのため、投資家は長期満期リスクなしで魅力的な利回りを獲得するために、AAA格付けのシニア担保資産を求めていると同氏は付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html",
-    publishedAt: "2026-08-08T15:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "berkshire-earnings-rose-last-quarter-and-38309e2a",
-    title: "Berkshire earnings rose last quarter and CEO Greg Abel is starting to deploy Buffett's massive cash hoard",
-    titleJa: "バークシャーの利益は前四半期に増加し、CEOのグレッグ・アベルはバフェット氏の膨大な現金を活用し始めている",
-    summaryJa: "バークシャー・ハサウェイの第２・四半期の営業利益は、エネルギー、鉄道、製造事業全体の好調が保険業績の低迷を十分に補い、１６％増加した。しかし、この結果から得られるより大きな点は、最高経営責任者（CEO）のグレッグ・アベル氏（64歳）が、ウォーレン・バフェット氏が蓄えた記録的な現金を自社株買いや自社株買いに注ぎ始めているということだ。",
-    bodyOriginal: `Berkshire Hathaway's operating earnings climbed 16% in the second quarter as strength across its energy, railroad and manufacturing businesses more than offset weaker insurance results.
-But the bigger takeaway from the results is that CEO Greg Abel, 64, is starting to put the record cash hoard amassed by Warren Buffett to work on buybacks and stock purchases.
-Operating earnings rose to $12.98 billion from $11.16 billion a year earlier. Manufacturing, service and retailing earnings jumped 24% to $4.47 billion, while Berkshire Hathaway Energy's profit surged 27% to $891 million. BNSF, the company's railroad, posted a 6% increase to $1.56 billion.
-Insurance was a weak spot. Underwriting earnings fell 13% to $1.73 billion from $1.99 billion a year earlier, while insurance investment income declined 9% to $3.06 billion.
-Berkshire repurchased approximately $4.5 billion of its own shares during the quarter, the second fiscal period under Abel, who took over from Buffett at the start of the year. The second quarter purchases marked a sharp acceleration from the $235 million spent on buybacks in the first three months of 2026, though it might be less than some expectations heading into the report.
-Putting money to work
-Berkshire's cash pile declined to $365.5 billion at the end of June from a record $397.4 billion three months earlier, as the conglomerate deployed capital through other investments along with the buybacks. The quarter included the closing of Berkshire's acquisition of Taylor Morrison.
-Berkshire reversed a pattern of selling stocks, becoming a net buyer of equities in the second quarter with nearly $20 billion in net purchases. The conglomerate had been a net seller of stocks for 14 consecutive quarters before the latest period.
-Buffett, now chairman, handed Abel a cash fortress unprecedented in corporate America, but in accordance with the 95-year-old legendary investor's patient and risk averse approach. Buffett had indicated for a while that he was having trouble finding any values in the equity market. Shareholders have been clamoring for Abel to put some of that cash to work outside of Treasuries.
-Shares of Berkshire are up just 3% on the year, underperforming the S&P 500′s 13% gain. Though the stock has on the move lately, rising 9% the last three months.
-The filing indicated Alphabet is now among Berkshire's five largest equity holdings by market value at the end of June, alongside its longtime holdings American Express, Apple, Bank of America and Coca-Cola. Berkshire disclosed a $10 billion investment in the Google parent earlier this year to help fund AI development. Buffett told CNBC that he initiated the Alphabet investment after consulting with Abel.`,
-    bodyJa: `バークシャー・ハサウェイの第２・四半期の営業利益は、エネルギー、鉄道、製造事業全体の好調が保険業績の低迷を十分に補い、１６％増加した。
-しかし、この結果から得られるより大きな点は、最高経営責任者（CEO）のグレッグ・アベル氏（64歳）が、ウォーレン・バフェット氏が蓄えた記録的な現金を自社株買いや自社株買いに注ぎ始めているということだ。
-営業利益は前年同期の111億6000万ドルから129億8000万ドルに増加した。製造、サービス、小売業の利益は２４％増の４４億７０００万ドル、バークシャー・ハサウェイ・エナジーの利益は２７％増の８億９１００万ドルとなった。同社の鉄道会社BNSFは6％増の15億6000万ドルとなった。
-保険は弱点でした。保険引受収入は前年同期の19億9000万ドルから13％減の17億3000万ドルとなり、保険投資収入は9％減の30億6000万ドルとなった。
-バークシャーは、年初めにバフェット氏から引き継いだアーベル氏の下での第2会計期となる同四半期中に、約45億ドルの自社株を買い戻した。第２・四半期の買い入れ額は、２０２６年最初の３カ月間に自社株買いに費やした２億３５００万ドルから大幅に加速したが、報告書発表に向けて一部の予想を下回る可能性がある。
-お金を働かせる
-バークシャーの現預金は、複合企業が自社株買いに加えて他の投資を通じて資本を配分したため、3か月前の過去最高だった3,974億ドルから6月末には3,655億ドルまで減少した。同四半期には、バークシャーによるテイラー・モリソン氏の買収完了も含まれていた。
-バークシャーは株式売却のパターンを逆転させ、第２・四半期には２００億ドル近い株式の買い越し国となった。同社は最新期まで14四半期連続で株式を売り越していた。
-現在会長となったバフェット氏は、95歳の伝説的な投資家の辛抱強くリスク回避的なアプローチに従って、アメリカ企業では前例のない現金要塞をエイベル氏に手渡した。バフェット氏はしばらくの間、株式市場で価値を見出すのに苦労していると示唆していた。株主らは、エイベル氏がその現金の一部を財務省以外で活用するよう求めている。
-バークシャーの株価は年初からわずか3％上昇しており、S&P500の13％上昇を下回っている。とはいえ、株価は最近上昇しており、過去3カ月間で9％上昇した。
-提出書類によると、アルファベットは現在、長年保有しているアメリカン・エキスプレス、アップル、バンク・オブ・アメリカ、コカ・コーラと並んで、6月末時点の時価総額でバークシャーの5大株式保有銘柄に入っている。バークシャーは今年初め、AI開発資金を支援するためにグーグル親会社に100億ドルを投資したことを明らかにした。バフェット氏はCNBCに対し、エイベル氏と相談した後にアルファベットへの投資を開始したと語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html",
-    publishedAt: "2026-08-08T13:28:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "is-football-ai-proof-why-tech-investors-e7f2b214",
-    title: "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-    titleJa: "サッカーはAIに耐えられるのか？ハイテク投資家がワールドカップの一部を望んだ理由",
-    summaryJa: "サッカーはAIに耐えられるのか？ハイテク投資家がワールドカップの一部を望んだ理由- 公開されました",
-    bodyOriginal: `Is football AI-proof? Why tech investors wanted a slice of the World Cup
-- Published
-Fifa has been forced to U-turn on plans to sell off a slice of the World Cup after fierce opposition, with threats of future boycotts and calls for the governing body's president, Gianni Infantino, to quit.
-But why were a group of tech investors interested in the World Cup in the first place, and are similar proposals in the future inevitable?
-In a world in which AI could upend human recreation and pastimes, executives at Thrive Eternal, a spin-off of venture capital firm Thrive Capital, saw an opportunity to lead a group of investors to place cash in the biggest sporting competition on the planet.
-The football World Cup was seen as the latest in a new strategy from firm, which believes that sport will not only survive the AI revolution, but grow in value.
-Run by Joshua Kushner, the brother of US Donald Trump's son-in-law and adviser Jared, Thrive mainly invests in technology companies developing artificial intelligence (AI) and it has been a major financial backer of Open AI.
-But in April this year, the New York City-based entity created the new investment arm Thrive Eternal in order to invest in areas that have "qualities that cannot be replicated by technology".
-Sport is central to that strategy, and that is where football - and securing a minority stake in the World Cup under Fifa's proposed Forward Enterprise (FFE), - became an opportunity.
-The view is that the tradition, cultural and identity aspects of football will protect the sport from being upended by AI compared with other forms of entertainment such as movies and music, which are already seeing the technology start to replace humans.
-Professor Simon Chadwick has worked in the global sports industry for 30 years, including working with both fan groups, football clubs and governing bodies Fifa and Uefa.
-He said investment interests and commercialisation in general meant a lot of decisions were being made on behalf of football and fans "in Wall Street and Silicon Valley".
-"It is almost as though it's crept up on us and a lot of people haven't really thought about what's happening," he told the BBC.
-While it raised governance questions for Fifa, he added: "Whether people like it or not, private equity investment in sport is happening."
-Uefa says boycott may still go ahead as FA withdraws Infantino support
-- Published1 day ago
-Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up
-- Published7 days ago
-Despite this summer's World Cup, hosted by the US, Canada and Mexico, providing an clear picture of World Cup commercialisation, the BBC understands talks over the FFE proposal involving Thrive started last year, with former Disney chief executive Bob Iger hired as an adviser.
-Thrive Eternal already invests in other sports. As part of its launch, it announced it had agreed to buy a chunk of the San Francisco Giants baseball team There are also reports the firm is eyeing up a bid for new NBA franchise in Las Vegas.
-It believes that such "iconic franchises and cultural institutions rooted in tradition, identity, and shared experience" will not just survive the AI revolution, but "will matter even more", according to its website.
-Kushner and Thrive Eternal have remained silent on the Fifa investment plan and the subsequent fallout.
-But a source close to the firm told the BBC the strategy behind the plan, which would have required the backing of Fifa's member associations, was that it would not be like a "typical investment fund looking for a speedy return on investment".
-The source said investors preparing to stump up the $4.2bn (£3.1bn) initial investment were doing so with the view of not seeing any return for a "long period of time - decades", due to Thrive Eternal being structured as a holding company.
-They higlighted had the FFE proposal been activated, it would have given each member association a stake worth as much as $91m each based on its $20bn valuation - stressing that the equity would be controlled by Fifa, not investors, and that the decision would have been down to individual member associations.
-"The idea of outside investment...was to channel more resources upfront to countries that wouldn't typically get access to outside funding - so they could invest in things like stadiums and training to be able to develop their game domestically," the source said.
-According to Fifa, the aim of FFE was "to separate the business of football from the governance of the sport".
-In England, the business of football has exploded, especially since the establishment of the Premier League, so much so that the financial rules, transfer deals and boardroom gossip have become just as popular conversation topics between fans as the action on the pitch.
-US investment in football is not new, and the amount of American dollars being poured into English and other European clubs has been growing broadly since the Glazer family bought Manchester United more than two decades ago.
-But some question where Fifa - and the World Cup - needed this cash injection.
-Fifa has claimed the World Cup is "under-monetised", but hydration break adverts, dynamic ticket pricing and record broadcast and sponsorship rights have put the 2026 edition on track to generate record revenues.
-The 48-team tournament and potential for an even bigger 64-team competition gives a view of further commercial opportunities. More countries equal more viewers, which equals more money.
-Christina Philippou, an associate professor in accounting and sport finance at the University of Portsmouth, said the approach by Fifa to seek outward investment had been seen in other sports and by individual football clubs when cash flow had been a problem.
-"Fifa are not in a position where they are desperate for money. In fact, they could very easily, with the money they already have, increase those payouts to the member associations. So there is no need to go external."
-Thrive Eternal is understood to respect the decision to take the plan off the table, but it is clear that interest, with or not this specific investment group, remains focused on football.`,
-    bodyJa: `サッカーはAIに耐えられるのか？ハイテク投資家がワールドカップの一部を望んだ理由
-- 公開されました
-FIFAは、将来的なボイコットの脅威や、運営団体のジャンニ・インファンティーノ会長の辞任を求める激しい反対を受け、ワールドカップの一部を売却する計画の方向転換を余儀なくされている。
-しかし、そもそもなぜハイテク投資家のグループはワールドカップに興味を持ったのでしょうか?また、将来的に同様の提案が避けられないのでしょうか?
-AI が人間のレクリエーションや娯楽を一変させる可能性がある世界において、ベンチャー キャピタル会社 Thrive Capital からスピンオフした Thrive Eternal の幹部らは、投資家グループを率いて地球上最大のスポーツ競技会に資金を投入する機会があると考えました。
-サッカーワールドカップは、スポーツがAI革命を乗り越えるだけでなく価値も高まると信じている同社の新たな戦略の最新作とみなされた。
-米国ドナルド・トランプ氏の義理の息子で顧問ジャレッド氏の弟であるジョシュア・クシュナー氏が経営するスライブは、主に人工知能（AI）を開発するテクノロジー企業に投資しており、オープンAIの主要な資金援助者となっている。
-しかし今年4月、ニューヨーク市に本拠を置くこの企業は、「テクノロジーでは再現できない性質」を持つ分野に投資するため、新しい投資部門スライブ・エターナルを設立した。
-スポーツはその戦略の中心であり、そこにサッカー、そしてFIFAが提案するフォワード・エンタープライズ（FFE）の下でワールドカップへの少数株主権を確保することが機会となった。
-すでにテクノロジーが人間に取って代わり始めている映画や音楽などの他の形式のエンターテイメントと比較して、フットボールの伝統、文化、アイデンティティの側面が、AIによるスポーツの破壊を防いでくれるだろうというのが見解だ。
-サイモン・チャドウィック教授は、ファン グループ、サッカー クラブ、運営団体 FIFA とUEFA の両方と協力するなど、世界のスポーツ業界で 30 年間働いてきました。
-同氏は、一般的に投資利益と商業化は、「ウォール街とシリコンバレー」でフットボールとファンに代わって多くの決定が下されることを意味すると述べた。
-「まるでそれが私たちに忍び寄っているようだが、多くの人は何が起こっているのかよく考えていない」と彼はBBCに語った。
-これはFIFAのガバナンスに疑問を投げかける一方で、「人々が好むと好まざるにかかわらず、スポーツへのプライベートエクイティ投資は行われている」と付け加えた。
-UEFA、FAがインファンティーノの支持を撤回する中、ボイコットはまだ続く可能性があると発言
-- 1 日前に公開
-ファイサル・イスラム氏：FIFAワールドカップ計画が実現しなかった4つの理由
-- 7 日前に公開
-米国、カナダ、メキシコが主催する今夏のワールドカップは、ワールドカップの商業化の明確な全体像を提供したにもかかわらず、BBCは、ディズニーの元最高経営責任者ボブ・アイガー氏を顧問として雇い、スライブを含むFFE提案をめぐる交渉が昨年始まったことを理解している。
-Thrive Eternal はすでに他のスポーツにも投資しています。立ち上げの一環として、同社はサンフランシスコ・ジャイアンツ野球チームの一部を買収することに合意したと発表した。また、同社がラスベガスでの新たなNBAフランチャイズの入札を検討しているとの報道もある。
-同団体のウェブサイトによると、このような「伝統、アイデンティティ、共有体験に根ざした象徴的なフランチャイズと文化施設」はAI革命を乗り切るだけでなく、「さらに重要になる」と信じているという。
-クシュナー氏とスライヴ・エターナル氏は、FIFAの投資計画とその後の影響について沈黙を守っている。
-しかし、同社に近い関係者はBBCに対し、FIFA加盟団体の支援が必要となるこの計画の背後にある戦略について、「迅速な投資収益率を求める典型的な投資ファンド」とは異なると語った。
-同関係者によると、初期投資42億ドル（約31億ポンド）を積み増そうと準備している投資家らは、スライヴ・エターナルが持株会社として組織されているため、「数十年という長期間」利益が見込めないとの見方でそうしているという。
-彼らは、もしFFE提案が発動されれば、200億ドルの評価額に基づいて各加盟協会にそれぞれ最大9,100万ドル相当の株式を付与することになると強調し、株式は投資家ではなくFIFAによって管理され、決定は個々の加盟協会に委ねられることになると強調した。
-「外部投資のアイデアは…通常は外部資金にアクセスできない国に、より多くのリソースを事前に振り向けることでした。そうすれば、国内でゲームを開発できるようにスタジアムやトレーニングなどに投資できるようになります」と関係者は語った。
-FIFAによると、FFEの目的は「サッカーのビジネスをスポーツのガバナンスから分離すること」だという。
-イングランドでは、特にプレミアリーグの創設以来、フットボールビジネスが爆発的に成長し、財務ルール、移籍交渉、役員室での噂話などが、ピッチ上の動きと同じくらいファンの間で人気の会話の話題になっている。
-米国のサッカーへの投資は新しいものではなく、グレイザー家が20年以上前にマンチェスター・ユナイテッドを買収して以来、イングランドや他の欧州のクラブに注ぎ込まれる米ドルの額は広範囲に増加している。
-しかし、FIFA、そしてワールドカップがこの資金注入をどこに必要としたのか疑問を持つ人もいる。
-FIFAはワールドカップは「収益化が不十分」だと主張しているが、水分補給休憩の広告、ダイナミックなチケット価格設定、記録的な放映権とスポンサーシップの権利により、2026年大会は記録的な収益を生み出す軌道に乗っている。
-48 チームによるトーナメントとさらに大規模な 64 チームによるトーナメントの可能性により、さらなる商業チャンスが見えてきます。国が増えれば視聴者も増え、お金も増えます。
-ポーツマス大学の会計とスポーツファイナンスの准教授、クリスティーナ・フィリポウ氏は、FIFAによる対外投資を求めるアプローチは、キャ​​ッシュフローが問題になっていた他のスポーツや個々のサッカークラブでも見られたと述べた。
-「FIFAは、お金に困っているような状況ではない。実際、すでに持っているお金を使えば、加盟協会への支払いを簡単に増やすことができる。したがって、外部に出る必要はない。」
-スライブ・エターナルは計画を検討から外す決定を尊重すると理解されているが、この特定の投資グループの有無に関わらず、依然としてサッカーに関心が集まっていることは明らかだ。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-08T12:36:29+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/b51ae4b0-91b6-11f1-bab9-173de0e7d358.jpg",
-    readTime: 7,
-  },
-  {
-    id: "how-cleaning-up-space-debris-could-grow-ae59f7d4",
-    title: "How cleaning up space debris could grow to become a big business",
-    titleJa: "スペースデブリの除去はどのようにして大きなビジネスに成長するのか",
-    summaryJa: "何千もの衛星が地球の周りを回っていますが、衛星が死んでも、ただ消えるわけではありません。彼らをそこに運ぶロケットも同様です。今週、使用済みのSpaceXファルコン9上段が月面ミッション後に制御不能な軌道上に放置されてから1年以上が経過し、月面に衝突した。",
-    bodyOriginal: `Thousands of satellites are circling the Earth, and when they die, they don't just disappear. Neither do the rockets that put them there.
-This week, a spent SpaceX Falcon 9 upper stage crashed into the moon, more than a year after it was left on an uncontrolled trajectory following a lunar mission.
-Closer to Earth, defunct satellites, spent rocket parts and other debris can remain in orbit for years, adding to an increasingly congested environment and an elevated risk of collisions.
-Now, a growing group of companies is betting that cleaning up this orbital junk, and servicing satellites before they become it, could become a business in its own right.
-Space infrastructure has become foundational for the global economy, crucial in everything from financial transactions and GPS navigation to weather forecasting and missile tracking.
-"Space is a global commons, and we're mucking it up," Andrew Faiola, commercial vice president at Tokyo-listed orbital services firm Astroscale, told CNBC. "We do need to clean it up. There are consequences to just sort of having a throwaway culture in space."
-An exponential problem
-An interactive map developed by researchers at the University of Texas at Austin shows the congestion in real time in low-Earth orbit, where satellites operate alongside debris from decades of space activity, including U.S. and former Soviet rockets and satellites.
-Meanwhile, OrbitRadar tracks nearly 30,000 objects in space, of which about 18,500 are active satellites, and the rest are debris fragments or spent rocket bodies.
-Faiola compared a collision in space to a grenade hitting a car, creating a cloud of debris with small pieces falling into unpredictable orbits – sometimes too small to track from Earth – making them difficult to avoid.
-Even tiny fragments traveling at thousands of miles an hour can severely damage satellites, or worse, pierce the space suits of astronauts carrying out work outside their vehicles.
-Even if no additional satellites were launched, the amount of debris in orbit would continue to grow because objects are fragmenting faster than debris naturally re-enters the atmosphere, Tim Flohrer, the European Space Agency's Head of Space Debris, told CNBC, warning that it could make "certain orbits unusable."
-"Active satellites must perform an increasing number of collision-avoidance maneuvers to dodge out of the way of other satellites and fragments of space debris," he said, highlighting several debris removal and in-orbit servicing missions it is supporting.
-The business case
-Astroscale develops spacecraft for debris removal and other in-orbit services.
-"That means that we're building spacecraft that are designed to be very agile, designed to safely operate in and around other spacecraft in orbit," Faiola said.
-It is one of the few commercial companies that has demonstrated the ability to dock with another spacecraft in orbit through a magnetic capture system. That's a difficult task given objects in lower Earth orbit move at the speed of 7 or 8 kilometers per second – faster than the speed of a bullet – and can tumble uncontrollably.
-Astroscale is also seeing growing demand from the defense sector, where its technology has potential military applications, Faiola said.
-While the company reported a 142% revenue surge in the fiscal year ended April and is building a sizable order book, it is still burning cash and posting large operating losses. It continues to derive a big share of project income from government grants.
-This is still a nascent, deep-tech market, so initial contracts are coming largely from space agencies and governments, which will demonstrate to the private sector that this is a viable business, Faiola said. "In the future, we would expect that this would be paid for by operators of constellations of spacecraft."
-Luxembourg-based startup ClearSpace, meanwhile, sees debris removal as part of a potentially much larger market for inspecting, repairing and maintaining spacecraft in orbit.
-"Essentially, we build the servicing layer for the space infrastructure," ClearSpace's co-founder and CEO Luc Piguet told CNBC.
-He compared the opportunities in the broader space services market to the maintenance industries that have developed around roads, shipping and aviation. Without servicing, Piguet said, motorways "would be littered with cars." Space, he argued, will increasingly need similar infrastructure.
-Supported by European and national space agencies, it has developed a satellite with a "claw" that can capture debris and bring it back to Earth, or push it out further into space to what is known as the "space graveyard," where it is less likely to collide with objects.
-ClearSpace raised 26 million euros ($30 million) in 2023 and plans another funding round later this year.
-While funding remains a challenge, investors have become much more knowledgeable about the space industry in recent years, moving beyond basic questions about how satellites work to scrutinizing supply chains and lead times, Piguet said.
-"Three years ago, talking with investors about space, the first question [was], 'How do you get to orbit? How does it work?'" he said. Today, many investors have already backed companies such as SpaceX and Rocket Lab and "will ask the right questions," he added.
-At the same time, defense investment, including space defense, in Europe has accelerated dramatically as a result of the current geopolitical situation, making the timing "phenomenal," Piguet added.
-Space politics
-The question of who is responsible for removing abandoned space hardware remains a legal grey area.
-The ESA has emphasized it is not a regulator and can only enforce debris mitigation for its own missions.
-"Space debris is a classic 'tragedy of the commons' dilemma and therefore should be tackled by global cooperation," the agency says on its website.
-Flohrer said that compliance with space debris standards is slowly improving, particularly among commercial operators, but not fast enough to stop the amount of junk in orbit from growing.
-Faiola suggested that regulation by itself can help create the market for space debris removal.
-"Nobody debates that we need to decommission nuclear power plants at the end of their lives," he said. "The companies that do that do that because regulations are in place that say they need to do that."
-"We need the regulations to catch up, and then this is all going to make sense."`,
-    bodyJa: `何千もの衛星が地球の周りを回っていますが、衛星が死んでも、ただ消えるわけではありません。彼らをそこに運ぶロケットも同様です。
-今週、使用済みのSpaceXファルコン9上段が月面ミッション後に制御不能な軌道上に放置されてから1年以上が経過し、月面に衝突した。
-地球に近づくと、機能不全に陥った衛星、使用済みロケットの部品、その他の破片が何年も軌道上に残る可能性があり、環境はますます混雑し、衝突の危険性が高まります。
-現在、この軌道上のゴミを除去し、衛星がそうなる前に整備することが、それ自体がビジネスになる可能性に賭ける企業グループが増えている。
-宇宙インフラは世界経済の基盤となっており、金融取引や GPS ナビゲーションから天気予報やミサイル追跡に至るまで、あらゆる分野で重要です。
-「宇宙は世界的な共有物だが、私たちはそれを台無しにしている」と東京に上場している軌道サービス会社アストロスケールの商業副社長アンドリュー・ファイオラ氏はCNBCに語った。 「私たちはそれを一掃する必要があります。宇宙に使い捨て文化があるだけでは、結果が生じます。」
-指数関数的な問題
-テキサス大学オースティン校の研究者らが開発したインタラクティブな地図は、米国や旧ソ連のロケットや人工衛星など、数十年にわたる宇宙活動で出た残骸と並んで衛星が運用されている低軌道の混雑状況をリアルタイムで示している。
-一方、OrbitRadar は宇宙にある約 30,000 個の物体を追跡しており、そのうち約 18,500 個が稼働中の衛星で、残りはデブリの破片または使用済みロケット本体です。
-ファイオラ氏は、宇宙での衝突を車に当たる手榴弾に例え、小さな破片を含む破片の雲が予測不可能な軌道に落ち、時には地球から追跡できないほど小さすぎるため、回避が困難になります。
-時速数千マイルで移動する小さな破片であっても、衛星に重大な損傷を与える可能性があり、さらに悪いことには、車外で作業を行っている宇宙飛行士の宇宙服を突き破る可能性があります。
-欧州宇宙機関の宇宙デブリ担当責任者ティム・フローラー氏はCNBCに対し、デブリが自然に大気圏に再突入するよりも早く物体が破片化しているため、たとえ追加の衛星が打ち上げられなかったとしても、軌道上のデブリの量は増え続けると述べ、「特定の軌道が使用できなくなる可能性がある」と警告した。
-同氏は、「稼働中の衛星は、他の衛星やスペースデブリの破片の邪魔をしないように、ますます多くの衝突回避操作を実行する必要がある」と述べ、衛星が支援しているいくつかのデブリ除去や軌道上整備ミッションを強調した。
-ビジネスケース
-アストロスケールは、デブリ除去やその他の軌道上サービスのための宇宙船を開発しています。
-「つまり、私たちは非常に機敏に設計され、軌道上の他の宇宙船の中や周囲で安全に運用できるように設計された宇宙船を構築しているということです」とファイオラ氏は語った。
-同社は、磁気捕捉システムを介して軌道上の別の宇宙船とドッキングする能力を実証した数少ない営利企業の 1 つです。地球低軌道にある物体が秒速 7 ～ 8 キロメートル (弾丸の速度よりも速い) で移動し、制御不能に転落する可能性があることを考えると、これは困難な作業です。
-アストロスケール社はまた、その技術が軍事応用される可能性がある防衛分野からの需要も高まっているとファイオラ氏は述べた。
-同社は4月終了会計年度に142％の増収を報告し、かなりの受注高を築いているものの、依然として現金を使い果たし、多額の営業損失を計上している。プロジェクト収入の大部分を政府の補助金から得続けています。
-これはまだ初期のディープテクノロジー市場であるため、初期契約は主に宇宙機関や政府から来ており、これが実行可能なビジネスであることを民間部門に証明するだろうとファイオラ氏は述べた。 「将来的には、この費用は宇宙船群の運用者によって支払われることが期待されます。」
-一方、ルクセンブルクに本拠を置く新興企業ClearSpaceは、デブリの除去を、軌道上の宇宙船の検査、修理、メンテナンスという潜在的にさらに大きな市場の一部として見ている。
-「基本的に、私たちは宇宙インフラのサービス層を構築します」とClearSpaceの共同創設者兼最高経営責任者（CEO）のリュック・ピゲ氏はCNBCに語った。
-同氏は、より広範な宇宙サービス市場における機会を、道路、海運、航空を中心に発展してきたメンテナンス業界と比較した。ピゲ氏は、整備がなければ高速道路は「車で埋め尽くされるだろう」と語った。宇宙でも同様のインフラがますます必要になるだろうと同氏は主張した。
-欧州および各国の宇宙機関の支援を受けて、デブリを捕らえて地球に持ち帰ることができる「かぎ爪」を備えた衛星を開発したほか、物体と衝突する可能性が低い「宇宙墓場」として知られる場所までさらに宇宙に押し出すことができる。
-ClearSpaceは2023年に2600万ユーロ（3000万ドル）を調達しており、今年後半に別の資金調達ラウンドを計画している。
-資金調達は依然として課題だが、投資家は近年、宇宙産業についての知識がはるかに深まり、衛星がどのように機能するかという基本的な質問を超えて、サプライチェーンやリードタイムを精査するようになっている、とピゲ氏は語った。
-「3年前、投資家たちと宇宙について話していたとき、最初の質問は『どうやって軌道に乗るのか？それはどのように機能するのか？』というものだった」と同氏は語った。現在、多くの投資家がすでにスペースXやロケットラボなどの企業を支援しており、「適切な質問をするだろう」と同氏は付け加えた。
-同時に、欧州における宇宙防衛を含む防衛投資は、現在の地政学的状況の結果として劇的に加速しており、このタイミングは「驚異的」であるとピゲ氏は付け加えた。
-宇宙政治
-放棄された宇宙ハードウェアの撤去責任が誰にあるのかという問題は、依然として法的なグレーゾーンのままです。
-ESAは規制当局ではなく、自らの任務のためにデブリ軽減を強制することしかできないと強調した。
-「スペースデブリは典型的な『共有地の悲劇』のジレンマであり、したがって世界的な協力によって取り組むべきである」と同庁はウェブサイトで述べている。
-フローラー氏は、スペースデブリ基準への準拠は、特に民間事業者の間で徐々に改善されているが、軌道上のジャンクの量の増加を止めるほどの速さではないと述べた。
-ファイオラ氏は、規制自体がスペースデブリ除去市場の創出に役立つ可能性があると示唆した。
-「寿命が来た原子力発電所を廃炉にする必要があるということについては、誰も議論していません」と彼は語った。 「そうした企業がそうするのは、そうしなければならないという規制が整備されているからだ。」
-「それに追いつくためには規制が必要だ。そうすればすべてが意味をなすことになるだろう。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/space-debris-junk-spacex-rocket-moon-crash.html",
-    publishedAt: "2026-08-08T12:04:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "hugging-face-hack-marks-start-of-dangero-cd254bfe",
-    title: "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-    titleJa: "ハグフェイスハッキングは危険なAIサイバー時代の始まりを示すが、多くの企業は「それに気づいていない」",
-    summaryJa: "ラスベガスで開催された Black Hat サイバーセキュリティ カンファレンスは、Anthropic、Meta、OpenAI による AI エージェントのハッキングが相次ぎ、これ以上ないタイミングで開催されました。",
-    bodyOriginal: `Cybersecurity executives are ready to close the book on the now-infamous Hugging Face artificial intelligence hacking incident and start talking solutions.
-"We need to chill the hype a little bit," said Lior Div, CEO and cofounder of agentic security startup 7AI. "Can AI find vulnerabilities fast? The answer is yes. We've already proven it."
-Last month, AI agents operating with OpenAI cyber models broke out of a training environment to hack Hugging Face, an open-source AI platform developers use to collaborate, test and share tools.
-The breach sent shockwaves across tech and signaled that the moment cybersecurity experts had warned about since Anthropic's Mythos debut had finally arrived.
-Over the last four months, cybersecurity vendors have faced mounting pressure to deliver security stacks that can outpace adversaries as hackers leverage agentic AI to expose vulnerabilities and condense attacks into seconds and minutes.
-While the Hugging Face hack sparked widespread debate over AI accountability, it also challenged previous notions about the limits of AI for defenders. For instance, AI agents took matters into their own hands and went to extreme lengths to accomplish their goal.
-As the industry grapples with the new agentic cyber reality, leaders agree that Hugging Face deserves the attention, but these incidents are unavoidable and it's time to act.
-"What we're talking about is whether we can govern and secure the capability, and that's the reality that everybody's waking up to today," said CrowdStrike president Mike Sentonas.
-More agent escapades
-At the annual Black Hat cybersecurity conference this week, OpenAI revealed that agents created an internal message board to share vulnerabilities and exploits in the weeks leading up to the Hugging Face attack.
-The autonomous agents then delegated tasks for the attack to reach the Internet and complete an evaluation. Even after OpenAI discovered and stopped the planned attack, the agents were able to recreate their work and succeed.
-The findings highlight not only the growing power of AI but also the major challenges faced by safety testing in this new technological revolution.
-In front of a live audience at Black Hat, OpenAI technical researcher Michael Dalton called it an "unintended side effect" of evaluating frontier models and a "watershed moment" for both OpenAI and the industry.
-"In the near future, we should expect that threat actors will intentionally deploy, optimize, weaponize, and use offensive agent collectives in the manner that we have just described here," he said.
-The list of AI agent hacks has only grown since Hugging Face. Days after OpenAI's disclosure, Anthropic said its Claude models "gained unauthorized access" to the internal systems of three different organizations.
-As the cyber community gathered in the "Entertainment Capital of the World," Meta said its AI models hacked another company in a third-party test, and the U.K.'s AI Security Institute said Anthropic's Mythos created fake identities in another incident. On Friday, news came that China startup Moonshot AI's open-weight model escaped a testing sandbox.
-"They're all learning hard lessons right now, and let's face it, they're way more concerned about the next million users on their product than they are in cyber," said Mike Fey, CEO and cofounder of Dallas-based Island, which ranked No. 28 on CNBC's recent Disruptor 50 list.
-The quest for solutions
-Cybersecurity leaders who spoke with CNBC at Black Hat this week made one point clear: Mishaps like Hugging Face are a known consequence of any new technological revolution, and it's no surprise.
-"Hugging Face was very interesting and unique, but I do think if you look at the arc of an incident like that, it takes place over multiple days, there's a lot of noise," said Ryan Kazanciyan, chief information security officer and chief information officer at Wiz, which is owned by Google.
-Since the introduction of cybersecurity more than five decades ago, defenders have undertaken a relentless cat-and-mouse game with adversaries. Only this time, it involves swarms of autonomous agents.
-No matter what tools a company implements, incidents slip through the cracks, especially as companies apply new techniques to a whole new challenge of AI agents.
-"Assume your company is vulnerable," said Netskope CEO Sanjay Beri. "Just assume it because you're not going to win the rat race."
-Netskope is addressing the issue with a tool it calls the AI command center, which allows businesses to monitor infrastructure, servers, data and AI agents in one place. He said companies should supplement that with ongoing vulnerability testing using a combo of frontier and open-weight models.
-The company was one of hundreds of vendors gathered at the sprawling Mandalay Bay Convention Center, looking to lure potential customers with caffeinated drinks, branded swag and decked out booths resembling nostalgic surf shops, science labs and even an old-school diner.
-Among the startups showcasing at the event was Vega, a New York and Tel Aviv startup working with global banks and Fortune 200 companies.
-The two-year-old company is vying to answer the massive cybersecurity predicament with faster and cheaper detection tools. Vega said its approach helps businesses cut costs by analyzing data in existing environments.
-Cofounder and CEO Shay Sandler said one major issue is that businesses acknowledge the agentic AI threat, but there's a disconnect between adopting new tools and relying on old habits.
-Many organizations are in a "very dangerous situation, and they don't even know it," he said, reflecting on his Black Hat meetings with current and prospective customers.
-"A year ago, it was a very science fiction conversation," he said. "Even the 20% that understand, I'm not sure they understand how severe and urgent it is right now."
-One of those hurdles is the proliferation of cybersecurity tools, which is overburdening professionals who are at the start of the lengthy AI security infrastructure buildout, said Yotam Segev, CEO and cofounder of enterprise data security startup Cyera.
-Cyera's answer is to help companies identify and secure sensitive network data. The startup recently hit a $12 billion valuation and ranked ninth on CNBC's Disruptor 50 list. Last month, Cyera announced plans to buy Oasis Security for $1 billion to identify and control nonhuman identities.
-"Customers are coming to us quite open-minded, looking for guidance more than they're looking for solutions," he said.
-Open-weight models, which technology giants have touted as a major cost-saving and competitive tool for U.S. companies in recent weeks, are another major resource. That's because cybersecurity companies can customize these models to their environment and security needs.
-Hugging Face had to turn to an open-weight model to suss out the OpenAI agent attack.
-When coupled with human intervention, CrowdStrike's Sentonas said open models and new AI monitoring tools can help businesses isolate and shut down thousands of threats. The company is a member of Nvidia's recent AI safety alliance aimed at building and promoting safe open cyber tools.
-It also comes down to the harness, the control layer companies create around a large language model or agent to set security guardrails.
-"I think five years from now we'll be in a situation more secure than we've ever been," said Yair Grindlinger, CEO and cofounder of AI security startup Surf AI. But "we have five tough years to go through and figure out how we do it."`,
-    bodyJa: `サイバーセキュリティ幹部らは、今や悪名高い「ハギングフェイス」人工知能ハッキング事件を終わらせ、解決策を話し始める用意ができている。
-「誇大宣伝を少し冷静にする必要がある」と、エージェントセキュリティの新興企業 7AI の CEO 兼共同創設者である Lior Div 氏は述べています。 「AI は脆弱性を迅速に発見できるでしょうか? 答えはイエスです。私たちはすでにそれを証明しています。」
-先月、OpenAI サイバー モデルで動作する AI エージェントがトレーニング環境から侵入し、開発者がツールの共同作業、テスト、共有に使用するオープンソース AI プラットフォームである Hugging Face をハッキングしました。
-この侵害はテクノロジー業界に衝撃を与え、Anthropic の Mythos デビュー以来、サイバーセキュリティの専門家が警告してきた瞬間がついに到来したことを示しました。
-過去 4 か月間、ハッカーがエージェント AI を活用して脆弱性を暴露し、攻撃を数秒、数分に凝縮する中、サイバーセキュリティ ベンダーは、敵対者を上回るセキュリティ スタックを提供するという高まるプレッシャーに直面してきました。
-「ハグフェイス」のハッキングは、AI の責任をめぐる広範な議論を引き起こしましたが、防御者にとっての AI の限界についてのこれまでの概念にも疑問を投げかけました。たとえば、AI エージェントは自ら問題を解決し、目標を達成するためにあらゆる手段を講じました。
-業界が新たなエージェントのサイバー現実に取り組む中、リーダーたちは「ハグ・フェイス」が注目に値することに同意しているが、これらの事件は避けられず、今こそ行動を起こす時が来ている。
-クラウドストライクの社長マイク・セントナス氏は、「我々が話しているのは、能力を管理して確保できるかどうかということだ。それが今日、誰もが目覚めている現実だ」と語った。
-さらなるエージェントの逃走
-今週開催された年次Black Hatサイバーセキュリティカンファレンスで、OpenAIは、Hugging Face攻撃に至るまでの数週間に、エージェントが脆弱性やエクスプロイトを共有するための内部掲示板を作成したことを明らかにした。
-次に、自律エージェントは、攻撃がインターネットに到達して評価を完了するためのタスクを委任しました。 OpenAI が計画された攻撃を発見して停止した後でも、エージェントは作業を再現し、成功することができました。
-この調査結果は、AI の能力の増大だけでなく、この新しい技術革命における安全性テストが直面する大きな課題も浮き彫りにしています。
-OpenAIの技術研究者であるマイケル・ダルトン氏は、Black Hatのライブ聴衆を前に、これをフロンティアモデルの評価による「意図せぬ副作用」であり、OpenAIと業界の両方にとって「分岐点」であると述べた。
-同氏は、「近い将来、攻撃者がここで説明したような方法で、攻撃的なエージェント集団を意図的に展開、最適化、武器化、使用するようになることが予想される」と述べた。
-AI エージェントによるハッキングのリストは、Hugging Face 以来増加するばかりです。 OpenAIの暴露から数日後、Anthropicは、同社のClaudeモデルが3つの異なる組織の内部システムに「不正アクセスを取得した」と発表した。
-サイバーコミュニティが「世界のエンターテイメントの中心地」に集まる中、メタ社は自社のAIモデルが第三者によるテストで別の企業をハッキングしたと発表し、英国のAIセキュリティ研究所はアンスロピック社のミトスが別の事件で偽の身元を作成したと発表した。金曜日、中国の新興企業ムーンショットAIの無差別モデルがテストサンドボックスから逃れたというニュースが入った。
-「彼らは皆、今厳しい教訓を学んでいる。正直に言うと、彼らはサイバー分野よりも自社製品の次の100万人のユーザーのことをずっと心配している」と、CNBCの最近のディスラプター50リストで28位にランクされたダラスに本拠を置くアイランド社のCEO兼共同創設者であるマイク・フェイ氏は語った。
-解決策の探求
-今週、Black Hat で CNBC と対談したサイバーセキュリティのリーダーたちは、ある点を明確にしました。「顔に抱きつくような事故は、新たな技術革命の結果として知られており、それは驚くべきことではない」ということです。
-Google傘下のウィズの最高情報セキュリティ責任者兼最高情報責任者であるライアン・カザンシヤン氏は、「『ハグ・フェイス』は非常に興味深くユニークだった。ただ、このような事件の経緯を見ると、数日にわたって発生し、多くの騒音が発生していると思う」と語った。
-50 年以上前にサイバーセキュリティが導入されて以来、防御側は敵対者との容赦ないいたちごっこを続けてきました。今回のみ、自律エージェントの群れが関与しています。
-企業がどのようなツールを導入していても、特に企業が AI エージェントのまったく新しい課題に新しい技術を適用している場合、インシデントはすり抜けます。
-Netskope CEOのSanjay Beri氏は、「あなたの会社は脆弱だと仮定してください」と述べた。 「ラットレースに勝つつもりはないから、それを想定してください。」
-Netskope は、企業がインフラストラクチャ、サーバー、データ、AI エージェントを 1 か所で監視できるようにする AI コマンド センターと呼ぶツールでこの問題に取り組んでいます。同氏は、企業はフロンティアモデルとオープンウェイトモデルを組み合わせた継続的な脆弱性テストでそれを補う必要があると述べた。
-同社は、広大なマンダレイ ベイ コンベンション センターに集まった何百ものベンダーのうちの 1 つで、カフェイン入りの飲み物、ブランドのグッズ、懐かしいサーフ ショップ、科学研究所、さらには昔ながらのダイナーに似た装飾されたブースで潜在顧客を誘惑しようとしていました。
-このイベントで展示されたスタートアップの中には、世界的な銀行やフォーチュン 200 企業と協力するニューヨークとテルアビブのスタートアップである Vega がありました。
-創業 2 年の同社は、より高速かつ安価な検出ツールでサイバーセキュリティの大規模な苦境に対処しようと懸命に取り組んでいます。 Vega は、そのアプローチが既存環境のデータを分析することで企業のコスト削減に役立つと述べました。
-共同創設者兼最高経営責任者（CEO）のシェイ・サンドラー氏は、大きな問題の1つは、企業がエージェントAIの脅威を認識しているものの、新しいツールの採用と古い習慣への依存の間には断絶があることだと述べた。
-同氏は、多くの組織が「非常に危険な状況にあるが、そのことに気づいていない」と述べ、現在および将来の顧客とのBlack Hatミーティングを振り返った。
-「1年前、それはまさにSFのような会話だった」と彼は語った。 「理解している20％の人でも、今がどれほど深刻で緊急であるかを理解しているかどうかはわかりません。」
-エンタープライズ データ セキュリティの新興企業 Cyera の CEO 兼共同創設者である Yotam Segev 氏は、そのハードルの 1 つはサイバーセキュリティ ツールの普及であり、長期にわたる AI セキュリティ インフラストラクチャの構築を開始しようとしている専門家に過大な負担を与えていると述べています。
-Cyera の答えは、企業が機密ネットワーク データを特定して保護できるようにすることです。このスタートアップは最近、評価額が 120 億ドルに達し、CNBC の Disruptor 50 リストで 9 位にランクされました。先月、Cyeraは人間以外の身元を特定し管理するためにOasis Securityを10億ドルで買収する計画を発表した。
-「顧客は非常にオープンマインドで私たちに来ており、解決策を探しているというよりもガイダンスを求めています」と彼は言いました。
-テクノロジー大手がここ数週間、米国企業にとって主要なコスト削減と競争力のツールとして宣伝してきたオープンウェイトモデルも、もう一つの主要なリソースだ。それは、サイバーセキュリティ企業が環境やセキュリティのニーズに合わせてこれらのモデルをカスタマイズできるためです。
-ハギング フェイスは、OpenAI エージェントの攻撃を探るために、オープンウェイト モデルに切り替える必要がありました。
-クラウドストライクのセントナス氏は、オープンモデルと新しいAI監視ツールを人間の介入と組み合わせることで、企業が何千もの脅威を隔離しシャットダウンするのに役立つ可能性があると述べた。同社は、安全なオープン サイバー ツールの構築と促進を目的とした、Nvidia の最近の AI 安全アライアンスのメンバーです。
-これは、企業がセキュリティ ガードレールを設定するために大規模な言語モデルまたはエージェントを中心に作成する制御層であるハーネスにも当てはまります。
-「5年後には、これまでよりも安全な状況になると思います」とAIセキュリティスタートアップのSurf AIの共同創設者兼最高経営責任者（CEO）のヤイル・グリンドリンガー氏は語った。しかし、「私たちは5年間の困難な年月を経験し、どうやってそれを実現するかを見つけなければなりません。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-    publishedAt: "2026-08-08T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "cyclospora-fears-lead-consumers-to-lose-5077a69d",
-    title: "Cyclospora fears lead consumers to lose their appetite for salads",
-    titleJa: "シクロスポラの恐怖により消費者はサラダへの食欲を失う",
-    summaryJa: "通常、温暖な気候がサラダの売り上げを伸ばすが、現在進行中のシクロスポラの発生に怯えている消費者は、この夏はレタスを避けている。Placer.aiのデータによると、食品医薬品局が流行を発表した直後の7月18日、チョプト・クリエイティブ・サラダ・カンパニーの店舗へのトラフィックは24％減少した。スイートグリーンは木曜日、感染拡大に対する消費者の懸念が７月の既存店売上高に約６％ポイントの影響を及ぼし、同社は通年の見通しを下方修正したと述べた。そして今週初め、新興チェーンのサラダ・アンド・ゴーは、サイクロスポラの発生により既存の経営課題が悪化したとして、連邦破産法第11条の適用を申請し、全店舗を閉鎖した。",
-    bodyOriginal: `Warm weather usually drives salad sales, but consumers spooked by the ongoing cyclospora outbreaks are avoiding lettuce this summer.
-Traffic to Chopt Creative Salad Co. locations fell 24% on July 18, right after the Food and Drug Administration announced the outbreak, according to Placer.ai data. Sweetgreen on Thursday said consumer concerns about the outbreak had about a 6 percentage point impact on same-store sales in July, and the company cut its full-year outlook. And earlier this week, upstart chain Salad and Go filed for Chapter 11 bankruptcy and closed all of its locations, saying the cyclospora outbreak had exacerbated its existing business challenges.
-Grocery stores aren't immune either. Dollar sales of prepackaged salads plunged 14% during the four weeks ended July 25 compared with the year-ago period, according to NielsenIQ data.
-The FDA has pointed to iceberg lettuce processed in Taylor Farms' central Mexico facility as the likely culprit for the outbreak that has sickened at least 10,000 people. Taylor Farms has voluntarily recalled products supplied from that facility.
-Yum Brands' Taco Bell is the only national restaurant chain that has been linked to the multistate outbreak. It uses iceberg lettuce frequently across its menu, from its Crunchwrap Supreme to its Cheesy Gordita Crunches, but the chain isn't known for its salads. Taco Bell's sales and traffic to its restaurants initially tumbled after the FDA announcement, but Yum executives said in late July that business was already recovering.
-But the FDA is also tracking at least six other active outbreaks without a clear culprit; those outbreaks have significantly smaller number of reported cases. The long incubation period for cyclosporiasis makes it difficult to identify the contaminated ingredients.
-Cyclospora is a water-borne parasite. It typically spreads through contaminated produce, like lettuce, green onions, raspberries and fresh herbs. Although public health authorities seem to have pinpointed the source of the current outbreak, the FDA is advising consumers to take extra steps, like discarding outer layers of fruits and vegetables, to reduce risk of exposure.
-But many diners have gone further and chosen to avoid salads and greens altogether during the outbreak.
-Even Chipotle Mexican Grill has seen its sales dip. The burrito chain offers romaine lettuce as a topping and uses fresh cilantro across much of its menu, including its guacamole and salsas.
-"In the second half of July, we did see a softening, call it about 200 basis points or so, right around the issue that's affecting the industry around cyclospora," Chipotle CFO Adam Rymer said on the company's earnings call in late July.
-Chipotle has separately been in the news for recalling jalapeno peppers that were potentially contaminated with salmonella as part of a broader outbreak that has sickened at least 300 people.
-Damage control
-Sweetgreen and other restaurant chains swept up in the panic have had to implement strategies to reassure their customers.
-For example, Sweetgreen has chosen to emphasize that iceberg lettuce isn't even on its menu. On the chain's 19th birthday, CEO Jonathan Neman posted on X that its restaurants have never served iceberg lettuce and only source lettuce grown in the U.S.
-Likewise, Just Salad founder and CEO Nick Kenner posted on LinkedIn detailing the chain's food safety measures, like peeling and discarding the outer leaves of romaine and kale and double washing the leaves.
-And Chopt posted on its Instagram about food safety.
-"Food safety has always been at the heart of how we operate. ... We promise to continue monitoring guidance from public health officials and remain committed to earning your trust every time you choose Chopt," the company wrote.
-Cava, another fast-casual chain known for its bowls and salads, has yet to report its earnings and any impact from the cyclospora scare. It is expected to share its quarterly results after the bell on Tuesday.
-But in a promising sign for many restaurant chains — and diners — the danger may be passing.
-The Michigan Health Department on Thursday said residents can eat lettuce and salad greens again as new infections slowed.
-"The broad, precautionary recommendation to avoid bagged salad mixes during the Cyclospora outbreak is no longer in effect," the agency said in a statement. "Residents may resume their usual food handling practices and make choices based on their individual risk tolerance."
-The state appears to be hardest hit by the outbreak, with two deaths and more than 12,400 cases reported in Michigan alone.
-Of course, not all consumers have lost their appetite for greens. A Sweetgreen location in downtown Manhattan was bustling with diners and delivery drivers around noon on Friday.
-Sherine Naveed, a 35-year-old laser technician who lives on Long Island, picked up her usual Sweetgreen salad order. Despite hearing about the outbreak, she hasn't changed her dining habits and is also still buying prepackaged salads at the grocery store.
-"I have two kids," she said. "They're already pretty germ-y."`,
-    bodyJa: `通常、温暖な気候がサラダの売り上げを伸ばすが、現在進行中のシクロスポラの発生に怯えている消費者は、この夏はレタスを避けている。
-Placer.aiのデータによると、食品医薬品局が流行を発表した直後の7月18日、チョプト・クリエイティブ・サラダ・カンパニーの店舗へのトラフィックは24％減少した。スイートグリーンは木曜日、感染拡大に対する消費者の懸念が７月の既存店売上高に約６％ポイントの影響を及ぼし、同社は通年の見通しを下方修正したと述べた。そして今週初め、新興チェーンのサラダ・アンド・ゴーは、サイクロスポラの発生により既存の経営課題が悪化したとして、連邦破産法第11条の適用を申請し、全店舗を閉鎖した。
-食料品店も例外ではありません。ニールセンIQのデータによると、7月25日までの4週間の包装済みサラダのドル建て売上高は、前年同期比で14％減少した。
-FDAは、テイラー・ファームズのメキシコ中部施設で加工されたアイスバーグ・レタスが、少なくとも1万人を罹患させた感染症流行の原因である可能性が高いと指摘した。テイラー・ファームズは同施設から供給された製品を自主回収した。
-ヤム・ブランズのタコベルは、複数の州での感染拡大に関与している唯一の全国規模のレストランチェーンだ。クランチラップ シュプリームからチーズ ゴルディータ クランチまで、メニュー全体でアイスバーグ レタスを頻繁に使用していますが、このチェーンはサラダでは知られていません。タコベルの売上高とレストランへの客足は当初、FDAの発表後に落ち込んだが、ヤム幹部らは7月下旬、業績はすでに回復していると述べた。
-しかし、FDAは、明確な犯人が判明していない他の少なくとも6件の進行中のアウトブレイクも追跡している。これらのアウトブレイクでは報告される症例数が大幅に少ない。シクロスポラ症は潜伏期間が長いため、汚染された成分を特定することが困難です。
-シクロスポラは水系寄生虫です。通常、レタス、ネギ、ラズベリー、新鮮なハーブなどの汚染された農産物を介して広がります。公衆衛生当局は現在の発生源を特定したようだが、FDAは暴露のリスクを減らすために、果物や野菜の外層を廃棄するなどの追加の措置を講じるよう消費者に勧告している。
-しかし、多くのダイナーはさらに進んで、感染拡大中はサラダや野菜を完全に避けることを選択した。
-チポトレ・メキシカン・グリルでさえ売上が落ち込んでいる。このブリトー チェーンではロメイン レタスをトッピングとして提供し、ワカモレやサルサを含むほとんどのメニューで新鮮なコリアンダーを使用しています。
-チポトレの最高財務責任者（CFO）アダム・ライマー氏は7月下旬の決算会見で、「7月後半には、ちょうどシクロスポラを中心に業界に影響を与えている問題の周囲で、約200ベーシスポイント程度と呼ばれる軟化が見られた」と述べた。
-チポトレはこれとは別に、少なくとも300人を発症させた広範な感染症流行の一環として、サルモネラ菌に汚染された可能性のあるハラペーニョ唐辛子をリコールしたことでニュースになった。
-ダメージコントロール
-パニックに陥ったスイートグリーンや他のレストランチェーンは、顧客を安心させる戦略を講じなければならなかった。
-たとえば、Sweetgreen はアイスバーグレタスがメニューにすらないことを強調することにしました。同チェーンの19歳の誕生日に、最高経営責任者（CEO）のジョナサン・ネーマン氏は、同社のレストランではアイスバーグレタスを一度も提供しておらず、米国産レタスのみを使用しているとXに投稿した。
-同様に、ジャストサラダの創設者兼最高経営責任者（CEO）のニック・ケナー氏は、ロメインとケールの外側の葉を剥がして廃棄すること、葉を二度洗うことなど、同チェーンの食品安全対策の詳細をLinkedInに投稿した。
-そしてチョプトはインスタグラムに食品の安全性について投稿した。
-「食品の安全は常に当社の事業運営の中心でした。...当社は公衆衛生当局からの指導を監視し続けることを約束し、チョプトを選択していただくたびに信頼を獲得できるよう引き続き尽力することを約束します」と同社は書いている。
-ボウルやサラダで知られる別のファストカジュアルチェーンであるカバは、収益やシクロスポラ恐怖による影響をまだ報告していない。火曜日の鐘の後に四半期決算を発表する予定だ。
-しかし、多くのレストランチェーン、そしてダイナーにとって、危険は去りつつあるという明るい兆しがあるかもしれない。
-ミシガン州保健局は木曜日、新規感染者の減少を受けて住民はレタスやサラダ菜を再び食べることができると発表した。
-同庁は声明で、「シクロスポラ流行中に袋詰めのサラダミックスを避けるという広範な予防勧告はもはや効力を持たない」と述べた。 「住民は通常の食品の取り扱いを再開し、個人のリスク許容度に基づいて選択を行うことができます。」
-ミシガン州だけで2人の死亡と1万2400人以上の感染者が報告されており、同州が感染拡大の最も大きな打撃を受けているようだ。
-もちろん、すべての消費者が野菜に対する食欲を失ったわけではありません。マンハッタンのダウンタウンにあるスイートグリーンの店舗は金曜日正午頃、客や配達員らで賑わった。
-ロングアイランドに住む 35 歳のレーザー技術者、シェリーン・ナヴィードさんは、いつものスイートグリーンサラダの注文を受け取りました。流行について聞いたにもかかわらず、彼女は食生活を変えておらず、今でも食料品店で包装済みのサラダを購入しています。
-「私には2人の子供がいます」と彼女は言いました。 「彼らはすでにかなり細菌だらけです。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-    publishedAt: "2026-08-08T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "elevator-giant-otis-wants-to-be-a-defens-c6b1b66f",
-    title: "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first",
-    titleJa: "エレベーター大手のオーティスは、不安定な市場で守備的な役割を果たしたいと考えている。まずは自分自身を証明する必要がある",
-    summaryJa: "コネチカット州ブリストルの郊外の町の真ん中に建てられた 28 階建てのテストタワーの中で、オーティスのエンジニアはエレベーターの部品をダストチャンバー、湿度セル、塩水噴霧装置に通して稼働させています。オーティスのエンジニアリング担当上級副社長、ハラン・ヴェラ氏は「（エレベーターは）世界の極限状態で動作することが想定されている。それが砂漠であろうと北極であろうと」と述べた。 「私たちは、私たちの設計が実際の環境で機能することを確認するために、この施設でこれらすべての条件をシミュレートしようとしています。」",
-    bodyOriginal: `Inside a 28-story testing tower erected in the middle of the suburban town of Bristol, Connecticut, Otis engineers run elevator parts through dust chambers, humidity cells and saltwater fog machines.
-"[Elevators] are supposed to work in the extreme conditions of the world. Whether it's the desert or the Arctic," said Haran Vela, senior vice president of engineering for Otis. "We try to simulate all of those conditions in this facility so that we know that our designs will work in the real environment."
-Otis is the largest elevator company in the world, operating in 200-plus countries. In 2025, the company generated more than $14 billion in revenue — up roughly 13% since it spun off from United Technologies in 2020.
-Otis' investment case hinges on the premise of long-term, stable growth, especially in an increasingly volatile market.
-But the company's stock is down about 15% year-to-date, underperforming both the industrial sector and the broader market.
-"There's definitely a wave of money that's been following along or chasing … the [artificial intelligence] plays," said Melius Research global machinery analyst Robert Wertheimer.
-At the same time, Otis' own business has been faltering.
-"Otis, as a service-led business, had a setback in service," Wertheimer said. "And they're fixing it. It'll get fixed. But that was kind of a stumble at the right time for flow of funds to go in the other direction."
-The service engine
-Building new elevators isn't an inherently lucrative venture. In 2025, Otis' operating profit margin on new equipment was just 4.8%.
-The real profit driver of the business comes in servicing these elevators once they are installed. Initially, that involves things like maintenance and repairs. Then after about 20 years, the elevator needs to be modernized, which involves partially or fully replacing its parts.
-"That's the engine that allows us to generate over 90% of our profits," said Otis CEO and Chair Judy Marks.
-Otis currently services about 2.5 million elevators worldwide, up from over 2 million units in 2020.
-The company has incrementally grown its profit margins on service over the past couple of years, reaching 25.5% by the end of 2025. But service margins fell by 250 basis points in the first quarter of 2026.
-That margin decline is a result of a broader issue the company has been working through since the start of last year. Otis saw its retention rate, meaning the customers that renew their service contracts, dropping as it entered 2025.
-"They started calling out cost actions they were going to do to fix it, which is simply hiring more people, focusing more on maintenance; less revenue-producing but more customer-pleasing" said Wertheimer. "It's been an issue that has coincided with a lot of noise around tariffs and some China programs to stimulate growth. … There's just been a little bit more uncertainty around what is normally a very stable earnings stream."
-Getting back on track
-The company said it is making $50 million in incremental investments to its service business throughout 2026.
-In Otis' most recent quarter, service sales were up 11% year over year, but in its earnings call, Marks said the company had not yet seen a significant improvement in retention. The company cut its profit guidance for the year.
-Wertheimer wrote in a July analyst note that these investments in the service business should lead to fewer outages for customers, which would, in turn, improve retention. As he puts it: "Renewals are somewhat automatic if no one is unhappy."
-But Otis needs to prove its tens of million of dollars in investments can pay off. It's banking on long-term predictability to get Wall Street back on board.
-"Urbanization, digitalization, aging people who need mobility and infrastructure modernization is not only going to be attractive in the near term, the next few years, versus all the data center expansion that's happening," Marks said, "but this has decadelong runs in it."
-Competitive landscape
-News of an industry shake-up could also soon impact the elevator market.
-Finland's Kone agreed to buy Germany's TK Elevator in a nearly $35 billion deal announced in April.
-Wolfe Research senior analyst Nigel Coe noted that merger could potentially benefit Otis, as there would be just three instead of four major players bidding for elevator contracts.
-But the merger could face regulatory hurdles. The second-largest elevator company, Schindler, has said it would challenge the deal over antitrust considerations.
-When asked about how she views the current competitive landscape, Marks said Otis is going to leave the matter to regulators and let customers make their decisions.`,
-    bodyJa: `コネチカット州ブリストルの郊外の町の真ん中に建てられた 28 階建てのテストタワーの中で、オーティスのエンジニアはエレベーターの部品をダストチャンバー、湿度セル、塩水噴霧装置に通して稼働させています。
-オーティスのエンジニアリング担当上級副社長、ハラン・ヴェラ氏は「（エレベーターは）世界の極限状態で動作することが想定されている。それが砂漠であろうと北極であろうと」と述べた。 「私たちは、私たちの設計が実際の環境で機能することを確認するために、この施設でこれらすべての条件をシミュレートしようとしています。」
-オーチスは、200 か国以上で事業を展開する世界最大のエレベーター会社です。 2025 年、同社は 140 億ドル以上の収益を上げました。これは、2020 年にユナイテッド テクノロジーズから分離されて以来、約 13% 増加しました。
-オーティスの投資案件は、特にますます不安定になる市場において、長期的で安定した成長を前提としている。
-しかし、同社の株価は年初から約15％下落しており、産業部門とより広範な市場の両方を下回っている。
-メリウス・リサーチのグローバル機械アナリスト、ロバート・ヴェルトハイマー氏は、「（人工知能の）役割に追随したり追いかけたりする資金の波が確実に存在している」と述べた。
-同時に、オーティス自身のビジネスも低迷している。
-「オーティスはサービス主導の企業として、サービス面でのつまずきを抱えていた」とウェルトハイマー氏は語った。 「そして、彼らはそれを修正しつつあります。それは修正されるでしょう。しかし、資金の流れが別の方向に向かう適切なタイミングでのつまずきのようなものでした。」
-サービスエンジン
-新しいエレベーターの建設は、本質的に儲かる事業ではありません。 2025年時点で、オーチスの新品装置の営業利益率はわずか4.8％だった。
-ビジネスの本当の利益の原動力は、エレベーターが設置された後のメンテナンスにあります。最初は、メンテナンスや修理などが含まれます。その後、約 20 年が経過すると、エレベータの部品を部分的または完全に交換するなどの近代化が必要になります。
-オーティスの最高経営責任者（CEO）兼会長のジュディ・マークス氏は、「これが当社の利益の90％以上を生み出す原動力となっている」と述べた。
-オーチスは現在、世界中で約 250 万台のエレベーターにサービスを提供していますが、これは 2020 年の 200 万台以上から増加しています。
-同社は過去数年間でサービス利益率を徐々に拡大し、2025年末までに25.5%に達しました。しかし、サービス利益率は2026年第1四半期に250ベーシスポイント低下しました。
-この利益率の低下は、同社が昨年初めから取り組んできた広範な問題の結果である。オーティスは、2025 年に入ると、サービス契約を更新する顧客の維持率が低下することに気づきました。
-「彼らは問題を解決するために行うコスト対策を呼び掛け始めました。それは単純に、より多くの人を雇い、メンテナンスに重点を置くことです。収益は減りますが、顧客満足度は高まります」とヴェルトハイマー氏は語った。 「この問題は、関税や中国の成長促進プログラムを巡る多くの騒ぎと重なった問題だった。…通常は非常に安定した収益源となるものについて、少し不確実性が高まっただけだ。」
-軌道に戻る
-同社は、2026年を通じてサービス事業に5,000万ドルの追加投資を行うと述べた。
-オーティスの直近四半期のサービス売上高は前年同期比11％増だったが、マークス氏は決算発表の中で、同社の定着率にはまだ大幅な改善が見られていないと述べた。同社は今年の利益見通しを下方修正した。
-ヴェルトハイマー氏は7月のアナリストノートで、サービス事業へのこうした投資は顧客のサービス停止の減少につながり、ひいては顧客維持率の向上につながるはずだと書いている。彼が言うように、「誰も不満を持たなければ、更新はある程度自動的に行われます。」
-しかし、オーティスは数千万ドルの投資が報われることを証明する必要がある。ウォール街を再び軌道に乗せるため、長期的な予測可能性を頼りにしている。
-マークス氏は、「都市化、デジタル化、モビリティやインフラの最新化を必要とする人々の高齢化は、現在起こっているあらゆるデータセンター拡張と比べて、短期的、今後数年間で魅力的であるだけではない。しかし、これには10年も続く」と述べた。
-競争環境
-業界再編のニュースも、間もなくエレベーター市場に影響を与える可能性があります。
-フィンランドのコーンは、4月に発表された約350億ドルの取引でドイツのTKエレベーターを買収することに同意した。
-ウルフ・リサーチのシニアアナリスト、ナイジェル・コー氏は、エレベーター契約に入札する大手企業は4社ではなく3社だけになるため、合併は潜在的にオーティスに利益をもたらす可能性があると指摘した。
-しかし合併には規制上の障害が生じる可能性がある。第2位のエレベーター会社シンドラーは、独占禁止法を理由にこの取引に異議を唱えるつもりだと述べた。
-現在の競争環境をどう見ているか尋ねられたマークス氏は、オーティスはこの問題を規制当局に任せ、顧客の判断に委ねるつもりだと述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/elevator-giant-otis-stock-wall-street.html",
-    publishedAt: "2026-08-08T12:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "this-has-been-an-emotionally-difficult-6591b8f7",
-    title: "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
-    titleJa: "「これは精神的に難しい時期です」: 私の兄はガンを患っており、父は94歳です。私はこの責任をどのように負えばよいでしょうか?",
-    summaryJa: "「父はウィスコンシン州にある60万ドルの自宅を取消可能な信託に設定し、受益者として兄を指名しました。」",
-    bodyOriginal: `“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”`,
-    bodyJa: `「父はウィスコンシン州にある60万ドルの自宅を取消可能な信託に設定し、受益者として兄を指名しました。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
-    publishedAt: "2026-08-08T12:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-64488863",
-    readTime: 2,
   },
 ];
 
