@@ -15,6 +15,418 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "nvidia-teams-with-wall-street-firms-to-h-804c9e9f",
+    title: "Nvidia teams with Wall Street firms to help finance $500 billion for AI infrastructure",
+    titleJa: "Nvidia、ウォール街企業と提携して AI インフラストラクチャに 5,000 億ドルの資金調達を支援",
+    summaryJa: "Nvidia は月曜日遅く、AI インフラストラクチャの構築に資金を提供するために 5,000 億ドルを超える第三者資本を調達することを目的とした 7 つのウォール街金融機関との提携を発表しました。",
+    bodyOriginal: `Nvidia late Monday announced a partnership with seven Wall Street financial institutions designed to raise more than $500 billion of third-party capital to fund the buildout of AI infrastructure.`,
+    bodyJa: `Nvidia は月曜日遅く、AI インフラストラクチャの構築に資金を提供するために 5,000 億ドルを超える第三者資本を調達することを目的とした 7 つのウォール街金融機関との提携を発表しました。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure-2c4805a5?mod=mw_rss_topstories",
+    publishedAt: "2026-08-11T02:03:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-18756096",
+    readTime: 2,
+  },
+  {
+    id: "trump-claims-total-control-of-hormuz-dem-1df90fde",
+    title: "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
+    titleJa: "トランプ大統領、ホルムズの完全支配を主張、対立が深まる中イランに賠償金支払いを要求",
+    summaryJa: "米政府とイラン政府が張り巡らした決闘の陣地は、地域的な敵対関係の緩和について双方が話し合っているにもかかわらず、両国の隔たりが依然としていかに大きいかを示していた。",
+    bodyOriginal: `President Donald Trump said Monday the U.S. Navy had swept the Strait of Hormuz clear of mines and now holds "100%" control of the waterway, with reparations emerging as the latest flashpoint between Washington and Tehran.
+Speaking to reporters in the Oval Office, Trump said the U.S. Navy now has full control of the waterway. "It's open now," he said, adding that the U.S. was "the only one that has control of the Strait of Hormuz right now."
+He described the U.S. posture as a "steel wall" and said sporadic Iranian mine-laying hasn't changed that. "They will, on occasion, drop a mine, and we find the mine," he said. The U.S. has maintained a naval blockade of Iranian ports since mid-April.
+Iranian officials have insisted that the Strait of Hormuz would remain closed until the U.S. agrees to its demands including lifting their naval blockade, while its discussions with Oman over a shipping arrangement would not lead to the waterway being fully reopened.
+In an attempt at turning the tables on Iran, Trump in a Truth Social post early Tuesday stateside said Tehran's demand for war-damage reimbursements gave him "an interesting idea" — that Iran should instead compensate the U.S. for the people killed or wounded in roadside bombings and other attacks linked to Iran, as well as Iranian protestors that he said have been killed over the past 50 years by the country's regime.
+Trump's reparations demand has introduced a new sticking point after Iran laid out its own conditions for reopening the strait on Saturday, a vital waterway that carried roughly a fifth of the world's oil before the war.
+Mohammad Bagher Zolghadr, secretary of Iran's Supreme National Security Council, said Saturday the strait won't reopen until Washington lifts its naval blockade and sanctions, withdraws American forces from the region, pays war reparations and releases frozen Iranian assets. The council also called for an end to U.S. attacks on Iran's regional allies.
+Trump has signaled that he was prepared to let the mounting economic distress take its toll on Iran rather than launch further military strikes.
+Iran's foreign ministry on Tuesday pushed back on the economic front. The spokesman Esmaeil Baqaei responded to the U.S. Treasury Secretary Scott Bessent's claims that U.S. sanctions were "suffocating" Iran.
+He said that Washington opts for sanctions whenever diplomacy fails and escalates them when they don't work — a pattern he said has become less a "policy" than a "compulsive addiction."
+The impasse leaves Washington treating its naval presence as a permanent fixture guaranteeing access, while Tehran treats that same presence as the primary obstacle to normalizing traffic. Iran has insisted that it would not reopen the Strait of Hormuz as long as the U.S. continues to blockade its ports.
+Energy supply disruptions remain a key market concern, with tanker traffic through the strait still subdued, said Lloyd Chan, senior currency analyst at MUFG Bank in Singapore, noting that Brent prices remain way above above pre-conflict levels.
+While periodic flare-ups remain possible, a full-blown regional war is still not the base case, Chan added.
+Oil prices rallied on Monday on the hardening rhetoric, reversing a brief retreat last week. West Texas Intermediate crude for September climbed about 5% to settle near $82.13 a barrel, while Brent crude rose by a similar margin to around $87.72. Oil was slightly higher Tuesday in Asia trading.`,
+    bodyJa: `ドナルド・トランプ大統領は月曜日、米海軍がホルムズ海峡から機雷を一掃し、現在は同水路の「100％」支配権を握っており、賠償問題がワシントンとテヘランの間の最新の火種となっていると述べた。
+トランプ大統領は大統領執務室で記者団に対し、米海軍が現在この水路を完全に管理していると述べた。同氏は「現在は開いている」と述べ、「現在ホルムズ海峡を制圧しているのは米国だけだ」と付け加えた。
+同氏は米国の姿勢を「鋼鉄の壁」と表現し、イランによる散発的な機雷敷設によっても状況は変わっていないと述べた。 「彼らは時折地雷を投下するが、我々はその地雷を見つける」と彼は語った。米国は4月中旬以来、イランの港湾に対する海上封鎖を継続している。
+イラン当局者らは、米国が海上封鎖解除を含むイランの要求に同意するまでホルムズ海峡は閉鎖されたままである一方、船舶協定を巡るオマーンとの協議では同水路の完全な再開には繋がらないと主張している。
+トランプ大統領は、イランに対する形勢を逆転させる試みとして、火曜日早朝、米国側のトゥルース・ソーシャルへの投稿で、戦争被害の賠償を求めるイランの要求は「興味深い考え」を与えたと述べ、イランはその代わりに、イランに関連した沿道爆破やその他の攻撃で死傷した人々、そして過去50年間に同国政権によって殺害されたと主張するイランの抗議活動参加者に対して米国に補償すべきだというものだった。
+イランが土曜日、戦前世界の石油のおよそ5分の1を運んでいた重要な海峡である海峡の再開に向けた独自の条件を提示したことを受けて、トランプ大統領の賠償要求は新たな難題を引き起こした。
+イラン国家安全保障最高会議書記のモハマド・バガー・ゾルガドル氏は土曜日、ワシントンが海上封鎖と制裁を解除し、この地域から米軍を撤退させ、戦争賠償金を支払い、凍結されたイラン資産を解放するまで海峡は再開しないと述べた。同理事会はまた、イランの地域同盟国に対する米国の攻撃の停止も求めた。
+トランプ大統領は、さらなる軍事攻撃を開始するのではなく、増大する経済的苦境がイランに打撃を与えることを容認する用意があると示唆した。
+イラン外務省は火曜日、経済面での対応を後押しした。エスマイル・バカエイ報道官は、米国の制裁がイランを「窒息させている」とするスコット・ベッセント米国財務長官の主張に反応した。
+同氏は、米国政府は外交が失敗するたびに制裁を選択し、それが機能しない場合には制裁をエスカレートさせると述べ、このパターンは「政策」というよりも「強迫観念」になっていると述べた。
+この行き詰まりにより、ワシントンは海軍のプレゼンスをアクセスを保証する恒久的な設備として扱っているが、イラン政府はその同じプレゼンスを交通の正常化に対する主要な障害として扱っている。イランは、米国が港湾封鎖を続ける限りホルムズ海峡を再開しないと主張している。
+三菱ＵＦＪ銀行（シンガポール）のシニア通貨アナリスト、ロイド・チャン氏は、海峡を通過するタンカーの往来は依然低迷しており、エネルギー供給の混乱が依然として市場の主要な懸念事項であり、ブレント価格は依然として紛争前の水準を大きく上回っていると指摘した。
+周期的な再燃の可能性は依然としてあるものの、本格的な地域戦争は依然として基本的な状況ではないとチャン氏は付け加えた。
+原油価格は月曜日、強硬姿勢を受けて反発し、先週の一時的な下落を反転させた。 9月のウェスト・テキサス・インターミディエイト原油は約5％上昇して1バレルあたり82.13ドル付近で落ち着いたが、ブレント原油も同様の上昇幅で87.72ドル付近となった。火曜日のアジア取引では原油が若干上昇した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
+    publishedAt: "2026-08-11T01:52:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "trump-media-reports-238m-loss-as-crypto-dfc6e1eb",
+    title: "Trump Media reports $238m loss as crypto falls",
+    titleJa: "トランプメディア、仮想通貨下落で2億3,800万ドルの損失を報告",
+    summaryJa: "トランプメディア、仮想通貨下落で2億3,800万ドルの損失を報告- 公開されました",
+    bodyOriginal: `Trump Media reports $238m loss as crypto falls
+- Published
+President Donald Trump's social media company reported a loss of $238m (£176m) between April and June as it branched into ventures unrelated to media, including cryptocurrencies.
+The quarterly loss is more than 10 times the amount reported during the same period a year earlier, according to the Trump Media and Technology Group, which runs the President's Truth Social platform.
+The firm says it will refocus on its social media mission, which includes a controversial service that offers faster access to Trump's market-moving posts to paying customers.
+The group's interim chief executive officer Kevin McGurn said on Monday that more than 10 customers have signed up for the new service.
+The BBC has contacted Trump Media and Technology Group and the White House for further comment.
+The company posted $1.7m in revenue, which it said is up 89% from the same period a year before, but suffered overall loss dure to the drop in cryptocurrencies.
+It added that it closed the second quarter with total assets of $2bn and financial assets of around $1.9bn, which includes cash, short-term investments and digital currencies.
+The group has yet to turn a profit, even as it expands into areas including cryptocurrency holdings and clean-energy investments.
+In July, it announced a plan to give Wall Street traders faster access to Trump's posts on Truth Social, widely viewed as a way to give subscribers an edge in trading stocks and other heavily traded assets.
+The move has prompted a series of legal questions and ethical musings, including whether it is right that a company - of which the president's family remains the majority shareholder - stands to profit from his own public statements.
+The new service is "expected to provide the company with a new revenue stream," Trump Media said in its earnings statement on Monday.
+McGurn said: "I'm encouraged by this momentum, and shareholders should expect more frequent communication from us on our progress each quarter as we enter this next chapter."`,
+    bodyJa: `トランプメディア、仮想通貨下落で2億3,800万ドルの損失を報告
+- 公開されました
+ドナルド・トランプ大統領のソーシャルメディア会社は、仮想通貨などメディアとは関係のない事業に進出したため、4月から6月の間に2億3800万ドル（1億7600万ポンド）の損失を報告した。
+大統領の真実ソーシャルプラットフォームを運営するトランプ・メディア・アンド・テクノロジー・グループによると、四半期の損失は前年同期の報告額の10倍以上だという。
+同社は、市場を動かすトランプ氏の投稿へのより迅速なアクセスを有料顧客に提供する、物議を醸しているサービスを含むソーシャルメディアの使命に再び注力すると述べている。
+同グループの暫定最高経営責任者ケビン・マクガーン氏は月曜日、10人以上の顧客が新サービスに登録したと述べた。
+BBCはさらなるコメントを求めてトランプ・メディア・アンド・テクノロジー・グループとホワイトハウスに連絡を取った。
+同社は売上高170万ドルを記録し、前年同期比89％増だったが、仮想通貨の下落により全体的に損失を被ったという。
+また、第2四半期を総資産20億ドル、現金、短期投資、デジタル通貨を含む金融資産約19億ドルで終えたと付け加えた。
+同グループは、仮想通貨の保有やクリーンエネルギーへの投資などの分野に事業を拡大しているにもかかわらず、まだ利益を上げていない。
+7月には、ウォール街のトレーダーがTruth Social上のトランプ氏の投稿に迅速にアクセスできるようにする計画を発表した。これは購読者に株やその他の取引の多い資産の取引で優位性を与える方法として広く見られている。
+この動きは、大統領の家族が引き続き大株主である企業が大統領自身の公式声明から利益を得ることは正しいのかどうかなど、一連の法的問題や倫理的思索を引き起こした。
+トランプ・メディアは月曜日の決算報告で、新サービスは「同社に新たな収益源をもたらすことが期待される」と述べた。
+マクガーン氏は、「この勢いに勇気づけられており、株主の皆様は、次の章に入るにあたって、四半期ごとの進捗状況について、より頻繁にお知らせすることを期待していただければと思います。」と述べた。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-11T01:12:11+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg",
+    readTime: 2,
+  },
+  {
+    id: "cnbc-s-the-china-connection-newsletter-s-bc321496",
+    title: "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "こんにちは、エブリンです。北京から手紙を書いています。 The China Connection の最新版へようこそ。これは私が地元企業から見聞きしたことのスナップショットです。中国には「オデッセイ」用の 70mm Imax スクリーンはないが、それでもファンがプレミアム上映のチケットを手に入れるのは止められなかった。今週末はいくつかの上映作品がほぼ満席となり、日曜日に訪れた北京の劇場では珍しく行列ができていた。しかし、ハリウッドは十分な対応をしているのだろうか？",
+    bodyOriginal: `Hi, this is Evelyn, writing to you from Beijing. Welcome to the latest edition of The China Connection — a snapshot of what I'm seeing and hearing from local businesses.
+China doesn't have any 70mm Imax screens for "The Odyssey," but that hasn't stopped fans from snapping up tickets for premium screenings. Several showings were nearly sold out this weekend, and at the Beijing theater I visited Sunday, there was a rare line to get in. But is Hollywood doing enough?
+The big story
+America's movie stars are back in China.
+From Timothee Chalamet selling tofu in Chengdu to Tom Holland and Zendaya enjoying sheep-themed matcha in Shanghai, Hollywood is actively courting a massive market that's tightly controlled by Beijing.
+Some of it's paying off. "Spider-Man: Brand New Day" has already broken into the 10 highest-grossing movies in China this year, according to ticketing site Maoyan. As for "The Odyssey," it has already made more than $7 million in China, in just two weekends of limited screenings ahead of its official Aug. 14 release.
+Adding attention was an unconventional interview that went viral. Among a few local media appearances, director Christopher Nolan spoke with Yiyang Zhuge, a Boston College doctoral candidate who also hosts her own podcast. Their philosophical conversation has racked up more than 1 million views on streaming site Bilibili, and millions more on X.
+Zhuge claims someone from Universal reached out several weeks earlier to set up the post-premiere interview in Beijing. It contrasts with the studio's reported focus on traditional media in the U.S. A representative for Universal did not respond to a request for comment.
+The increased engagement comes as U.S.-China tensions have thawed this year.
+In the first six months, Imax screened 14 Hollywood films in mainland China, up from just two during the same period last year, filing data indicated.
+Not all the movies have done well. "Marty Supreme" and "Devil Wears Prada 2" both sent their leads to China but their box office struggled. "Toy Story 5" had only modest success.
+"The box office has picked up dramatically in China in recent weeks," Imax CEO Richard Gelfond said on an earnings call in late July, according to a FactSet transcript. He anticipates further improvement with upcoming films "Dune: Part Three" and "Avengers: Doomsday."
+The company also expects to benefit from popular Chinese series due to see new films released early next year, such as sci-fi title "The Wandering Earth."
+But it's hard to shake off bigger changes in how consumers spend. Industry figures show China's box office plunged 40% in the first half of the year.
+The content flow is also no longer one-way. Two of China's three highest-grossing films domestically this year have rolled out to other parts of Asia and abroad, helped by Alibaba's Damai Entertainment.
+Their overseas box office results are modest so far. But in a reminder of the Chinese studios' potential, it was just last year that Chinese animated movie "Ne Zha 2" beat Pixar's "Inside Out 2" as the top-grossing animated film worldwide, albeit largely at home.
+New formats and models
+Some companies in China are going further to upend entertainment.
+There's the Chinese-led micro-drama trend that's overtaken Netflix in the U.S. on mobile, according to Omdia. Then there's the rise of immersive virtual reality.
+As artificial intelligence enables studios to create VR content more cheaply and quickly, consumers can experience new productions more frequently, creating "the next generation of cinema," Ethan Tang, CEO of Metavision International, told me in Chengdu last month.
+Working with studios in France, Spain and Canada, the VR experience operator uses Pico or HTC headsets at designated venues in China and other countries to immerse people in 40-minute stories, set in ancient Egypt or the time of the dinosaurs.
+There's still a ways to go before replacing movie theaters. Tang said that across four venues, the company made $14.82 million in ticket sales in three years. But he said Metavision is already profitable.
+It reflects how VR may not be for the mass home market — and how cinematic experience may evolve.
+"Immersive entertainment commercializes fastest when one operator controls the hardware, the environment, and the narrative all together as a single integrated experience," said Jialu Shan, an associate research director at the Center for Future Readiness at IMD Business School.
+"One thing genuinely unique to China is the sheer scale of the large-format, location-based VR venues," she said, noting state policy support for such experiences. In combination with tourism, it's a trend she expects is more investable.
+But Hollywood hasn't made the leap yet.
+When I asked Tang about American content partners, he said it was "just a matter of time" before Hollywood studios license their characters to VR producers. He claimed Apple Vision Pro product engineers already tried Metavision's VR experience in Shanghai last year. Apple did not respond to a request for comment.
+Even as U.S. giants eye China's entertainment market, it may be changing faster than they can adapt.
+Need to know
+China's crude oil imports hit a three-month high in July
+A thaw in Strait of Hormuz tensions lifted China's crude imports last month, narrowing the year-on-year decline to just 24%, versus a 41% drop in June. AI-related demand drove China's overall export growth of nearly 24% year-on-year in July.
+U.S.-China tensions ramp up ahead of Trump-Xi meeting
+China retaliated against recent U.S. actions — such as restrictions on foreign-made humanoid robots — with export controls on drone sales to the U.S. Beijing also banned Chinese companies from working with U.S. entities for completing factory inspections required for selling electronics and other goods in China.
+Wealthy Chinese scramble for tax advice as Beijing targets offshore trusts
+Offshore trusts, long used by China's ultra-rich to store wealth, now face multiple tax events — at a 20% rate each. The new rules cover assets transferred to the trusts since the start of 2023, on which back taxes must be paid by Oct. 22 this year.
+Coming up
+Aug. 17: Retail sales, industrial production and fixed-asset investment data
+Aug. 19 - 23: World Robot Conference in Beijing
+Aug. 22 - 26: World Humanoid Robot Games in Beijing`,
+    bodyJa: `こんにちは、エブリンです。北京から手紙を書いています。 The China Connection の最新版へようこそ。これは私が地元企業から見聞きしたことのスナップショットです。
+中国には「オデッセイ」用の 70mm Imax スクリーンはないが、それでもファンがプレミアム上映のチケットを手に入れるのは止められなかった。今週末はいくつかの上映作品がほぼ満席となり、日曜日に訪れた北京の劇場では珍しく行列ができていた。しかし、ハリウッドは十分な対応をしているのだろうか？
+大きな話
+アメリカの映画スターが中国に戻ってきた。
+成都で豆腐を販売するティモシー・シャラメから、上海で羊をテーマにした抹茶を楽しむトム・ホランドとゼンデイヤに至るまで、ハリウッドは中国政府が厳しく管理する巨大市場を積極的に開拓している。
+一部は成果が出ています。チケット販売サイトMaoyanによると、『スパイダーマン：ブランニュー・デイ』はすでに今年中国で最も興行収入を上げた映画トップ10に入っている。 「オデッセイ」に関しては、8月14日の正式公開に先立って行われたわずか2週間の限定上映で、中国ではすでに700万ドル以上の興行収入を上げている。
+さらに注目を集めたのは、ネット上で広まった型破りなインタビューだった。クリストファー・ノーラン監督は地元メディアに数​​回出演し、自身のポッドキャストの司会者でもあるボストン大学の博士課程候補者イーヤン・ジューゲ氏と対談した。彼らの哲学的な会話は、ストリーミング サイト Bilibili で 100 万回以上、X ではさらに数百万回の再生回数を記録しました。
+諸葛氏は、北京でのプレミア上映後のインタビューを設定するためにユニバーサルの誰かが数週間前に連絡を取ったと主張している。これは、同スタジオが米国の伝統的なメディアに重点を置いていると報じられているのとは対照的である。ユニバーサルの代表者はコメントの要請に応じなかった。
+今年に入って米中の緊張が解けたことを受けて、関与が高まっている。
+申請データによると、最初の6か月間でアイマックスは中国本土で14本のハリウッド映画を上映したが、前年同期のわずか2本から増加した。
+すべての映画がうまくいったわけではありません。 「マーティ・シュプリーム」と「プラダを着た悪魔2」はどちらも中国に主演作を送りましたが、興行収入は苦戦しました。 「トイ・ストーリー５」はささやかな成功しか収められなかった。
+ファクトセットの記録によると、アイマックスのリチャード・ゲルフォンド最高経営責任者（CEO）は7月下旬の決算会見で「ここ数週間で中国の興行収入は劇的に回復した」と語った。彼は今後の映画『デューン: パート 3』と『アベンジャーズ: ドゥームズデイ』でさらなる改善を期待しています。
+同社はまた、来年初めにSFタイトル「The Wandering Earth」などの新作映画が公開される予定で、中国の人気シリーズからも恩恵を受けると予想している。
+しかし、消費者の支出方法における大きな変化を振り払うのは難しい。業界統計によると、今年上半期の中国の興行収入は40％減少した。
+コンテンツの流れも一方通行ではなくなりました。今年国内で最も興行収入を上げた中国映画３本のうち２本が、アリババ傘下のダマイ・エンターテインメントの支援を受けて、アジアのほかの地域や海外にも公開された。
+海外での興行成績は今のところ控えめだ。しかし、中国のスタジオの可能性を思い出させるのは、中国のアニメーション映画「Ne Zha 2」がピクサーの「インサイド・ヘッド 2」を上回り、主に国内向けではあったものの、世界で最も興行収入の高いアニメーション映画となったのはつい昨年のことだった。
+新しいフォーマットとモデル
+中国の一部の企業は、エンターテインメントの変革をさらに進めようとしている。
+Omdiaによると、米国では中国主導のマイクロドラマのトレンドがモバイルでNetflixを追い越しているという。次に、没入型仮想現実の台頭です。
+人工知能によりスタジオはより安価かつ迅速に VR コンテンツを作成できるようになり、消費者はより頻繁に新しい作品を体験できるようになり、「次世代の映画」が生まれると、メタビジョン インターナショナル CEO のイーサン タン氏が先月成都で私に語った。
+フランス、スペイン、カナダのスタジオと協力し、VR エクスペリエンス オペレーターは中国やその他の国の指定された会場で Pico または HTC ヘッドセットを使用して、古代エジプトや恐竜の時代を舞台にした 40 分間の物語に人々を浸らせます。
+映画館を置き換えるまでにはまだ道はある。タン氏によると、同社は4つの会場で3年間で1,482万ドルのチケット売上を上げたという。しかし同氏は、メタビジョンはすでに利益を上げていると述べた。
+これは、VR が家庭向け大衆市場向けではない可能性と、映画体験がどのように進化するかを反映しています。
+「没入型エンターテインメントは、1人のオペレーターがハードウェア、環境、物語をすべて単一の統合エクスペリエンスとして制御する場合に最も早く商品化されます」とIMDビジネススクール未来対応センターのアソシエート・リサーチ・ディレクター、ジアル・シャン氏は述べた。
+「中国に本当にユニークなことの1つは、大規模なロケーションベースのVR会場の規模が非常に大きいことです」と彼女は述べ、そのような体験に対する国家政策の支援について言及した。観光と組み合わせることで、より投資可能になる傾向だと彼女は予想している。
+しかし、ハリウッドはまだ飛躍していない。
+私がアメリカのコンテンツパートナーについてタン氏に尋ねたところ、ハリウッドのスタジオが自社のキャラクターをVRプロデューサーにライセンス供与するのは「時間の問題」だと答えた。同氏は、Apple Vision Proの製品エンジニアがすでに昨年上海でメタビジョンのVR体験を試したと主張した。アップルはコメントの要請に応じなかった。
+米国の大手企業が中国のエンターテインメント市場に注目しているにもかかわらず、適応できないほどの速さで変化している可能性がある。
+知っておく必要がある
+中国の原油輸入量が7月に3カ月ぶりの高水準に達した
+ホルムズ海峡の緊張が解けたことで先月の中国の原油輸入は増加し、前年同月比の減少幅は6月の41％減からわずか24％に縮小した。 AI関連の需要が7月の中国全体の輸出の伸びを前年比で24％近く押し上げた。
+トランプ大統領と習氏の会談を前に米中の緊張が高まる
+中国は、外国製の人型ロボットに対する規制など、最近の米国の行動に対して米国へのドローン販売の輸出規制で報復し、中国企業が電子機器やその他の商品を中国で販売するために必要な工場検査を完了するために米国企業と協力することも禁止した。
+中国政府がオフショア信託を標的にする中、裕福な中国人が税務アドバイスを求めて争う
+中国の超富裕層が資産を保管するために長年利用してきたオフショア信託は現在、それぞれ20％の税率で複数の課税事象に直面している。新しい規則は、2023年初め以降に信託に譲渡された資産を対象とし、今年10月22日までに未払い税を支払う必要がある。
+もうすぐ
+8月17日：小売売上高、鉱工業生産、固定資産投資データ
+8月19日から23日: 北京での世界ロボット会議
+8月22日から26日: 北京でのワールドヒューマノイドロボットゲームズ`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
+    publishedAt: "2026-08-10T23:00:14+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "trump-media-posts-238-million-second-qua-2c30a1d7",
+    title: "Trump Media posts $238 million second-quarter loss as crypto declines",
+    titleJa: "トランプ・メディア、仮想通貨下落で第2四半期に2億3,800万ドルの損失を計上",
+    summaryJa: "トランプ・メディア＆テクノロジー・グループは月曜日、第2四半期の売上高が200万ドル未満で純損失が2億3,800万ドル以上だったと報告した。この損失は、前年同期の約2,000万ドルの損失に比べれば小さく見えたが、主に非現金資産の減少によるもので、これには「デジタル資産、担保に供されたデジタル資産、および株式」による1億9,000万ドル以上の損失が含まれると同社はプレスリリースで述べた。",
+    bodyOriginal: `Trump Media & Technology Group on Monday reported a net loss of more than $238 million for its fiscal second quarter on revenue of less than $2 million.
+That loss, which dwarfed the almost $20 million it lost in the same period last year, was primarily due to declines in non-cash assets, including more than $190 million in losses from "digital assets, digital assets pledged, and equity securities," the company said in a press release.
+The company's $1.7 million in quarterly revenue mostly came through ad services on Truth Social, TMTG's flagship social media product, which is used by President Donald Trump. That revenue marked an 89% increase from the year-ago quarter.
+The New York Times reported earlier Monday that Truth Social's traffic — which already paled in comparison to similar platforms, such as Elon Musk's X — fell sharply this summer.
+TMTG's quarterly operating expenses of more than $165 million were roughly 275% higher year over year.
+"Our operating expenses are largely impacted by the price volatility of digital assets," Chief Financial Officer Phillip Juhan said during the company's first-ever earnings call.
+The company also provided new details about Truth API, its controversial new service offering faster access to Trump's Truth Social posts.
+TMTG said it has signed "more than 10 customer agreements to date," adding that those clients are "primarily high-frequency trading firms" and are paying rates of $60,000 to $100,000 a month, the company confirmed.
+Trump Media & Technology was created after Trump was temporarily suspended from social media platforms in the wake of the Jan. 6, 2021, Capitol riot. It went public through a merger with a special purpose acquisition company and started trading on the Nasdaq in 2024 under the ticker DJT, which match the president's initials.
+Truth Social was the company's first product, but it later expanded into a variety of other industries, including crypto, financial services and fusion power.
+TMTG interim CEO Kevin McGurn told Axios on Friday that the company is pulling back from two agreements it struck with Crypto.com as it focuses on its media business and a pending merger with TAE, the fusion energy firm.
+McGurn said in Monday's earnings call that the combination with TAE is "the single most important driver of long-term value for this company."
+There are currently no commercial plants producing electricity using fusion tech.
+TMTG stock, which is now worth a fraction of what it fetched when it first started trading, closed down 8% Monday.`,
+    bodyJa: `トランプ・メディア＆テクノロジー・グループは月曜日、第2四半期の売上高が200万ドル未満で純損失が2億3,800万ドル以上だったと報告した。
+この損失は、前年同期の約2,000万ドルの損失に比べれば小さく見えたが、主に非現金資産の減少によるもので、これには「デジタル資産、担保に供されたデジタル資産、および株式」による1億9,000万ドル以上の損失が含まれると同社はプレスリリースで述べた。
+同社の四半期収益170万ドルは、そのほとんどがTMTGの主力ソーシャルメディア製品であるTruth Socialの広告サービスによるもので、ドナルド・トランプ大統領も利用している。この収益は前年同期比 89% の増加を記録しました。
+ニューヨーク・タイムズ紙は月曜初め、トゥルース・ソーシャルのトラフィック（イーロン・マスク氏のXなど同様のプラットフォームと比較すると既に見劣りしていた）がこの夏に急激に減少したと報じた。
+TMTG の四半期営業費用は 1 億 6,500 万ドルを超え、前年同期比で約 275% 増加しました。
+「当社の営業費用はデジタル資産の価格変動に大きく影響される」と最高財務責任者のフィリップ・ジュアン氏は同社初の決算会見で述べた。
+同社はまた、トランプ大統領の「Truth Social」投稿への迅速なアクセスを提供する物議を醸している新サービス「Truth API」に関する新たな詳細も明らかにした。
+TMTGは、「これまでに10件以上の顧客契約」を締結していると述べ、それらの顧客は「主に高頻度取引会社」であり、月額6万ドルから10万ドルの料金を支払っていると同社は認めた。
+トランプ・メディア＆テクノロジーは、2021年1月6日の国会議事堂暴動を受けてトランプ大統領がソーシャルメディア・プラットフォームから一時的に活動停止になったことを受けて設立された。特別買収目的会社との合併を通じて上場し、2024年に社長のイニシャルと一致するティッカーDJTでナスダックでの取引を開始した。
+Truth Social は同社の最初の製品でしたが、その後、暗号通貨、金融サービス、核融合発電など、他のさまざまな業界に拡大されました。
+TMTGの暫定最高経営責任者（CEO）ケビン・マクガーン氏は金曜日、同社がメディア事業と核融合エネルギー会社TAEとの保留中の合併に注力するため、Crypto.comと結んだ2つの契約を撤回するとAxiosに語った。
+マクガーン氏は月曜の決算会見で、TAEとの組み合わせが「この会社の長期的価値を生み出す唯一の最も重要な推進力」であると述べた。
+現在、核融合技術を使用して発電している商用発電所はありません。
+TMTG株は現在、取引開始時の価格の数分の一の価値となっているが、月曜日には8％下落して取引を終えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
+    publishedAt: "2026-08-10T22:33:55+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "nvidia-gets-500bn-from-major-investors-t-cfcbfc03",
+    title: "Nvidia gets $500bn from major investors to develop AI infrastructure",
+    titleJa: "Nvidia、AIインフラ開発のために大手投資家から5,000億ドルを調達",
+    summaryJa: "この資金は、AIのデータとアクションを処理する何マイルにもわたる積み重ねられたコンピューターチップを収容、運用、冷却するための新しいデータセンターの開発に使用されます。",
+    bodyOriginal: `Nvidia gets $500bn from major investors to develop AI infrastructure
+- Published
+Nvidia has teamed up with some of Wall Street's largest banks and investors to raise $500bn (£370bn) in capital for artificial intelligence (AI) infrastructure.
+The chipmaker said it had struck deals with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR, and that the investors were for the first time treating AI hardware and infrastructure, often referred to as "compute", as an asset class.
+"In AI, compute is revenue", Jensen Huang, chief executive of Nvidia, said. "We are bringing the world's leading long-term capital providers together to independently underwrite AI infrastructure."
+The financing will go towards Nvidia's own projects and those being built by its partners.
+Infrastructure projects backed by this fund will likely include the construction of new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.
+It will also back new factories to manufacture the AI chips needed to power these systems and increase their availability to buyers.
+"Compute has become a critical infrastructure asset", Joe Bae and Scott Nuttall, co-chief executives of KKR, said in a joint statement. "As we've scaled our approach to digital infrastructure, we've learned that delivery, not ambition, is the hard part."
+Essentially every major technology and AI company uses Nvidia's computer chips, or graphics processing units (GPUs), to power their services, AI platforms and AI chatbots.
+Companies using Nvidia's popular chips or GPUs include Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic.
+Such companies have collectively spent over $1tn, external in just three years on AI projects and infrastructure, with much more spending expected. And their demand for Nvidia's chips and services has driven the stock market value of the company up five fold in three years.
+In a statement on Monday, Huang referred to Nvidia's role as a chip-maker as the company's beginning.
+"Today, we are helping create a new class of productive, investable infrastructure: AI factories," he said.
+With a new ability to tap some funding from the banks and investors partnering with Nvidia, they will be able to finance more of the AI boom.
+Jim Zelter, president of Apollo, a lender which manages more than $1tn in assets, said: "Modern compute has emerged as a scarce, mission-critical asset class."
+It is also "positioned to drive significant long-term economic growth and productivity gains", Zelter added.
+BlackRock last month entered into an individual deal with Meta, external to finance and take a majority ownership stake in one data centre in Texas.
+Anthropic also recently entered into a deal with Macquarie Asset Management and GIC, an investment bank in Singapore, for its own investment in AI infrastructure.
+The company did not specify the size of the deal, but said more financing was needed as its popular chatbot Claude had become so popular that the "demand requires significant new compute".`,
+    bodyJa: `Nvidia、AIインフラ開発のために大手投資家から5,000億ドルを調達
+- 公開されました
+Nvidiaはウォール街の大手銀行や投資家の一部と提携し、人工知能（AI）インフラストラクチャ向けに5000億ドル（3700億ポンド）の資金を調達した。
+同社は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKRと契約を締結しており、投資家たちは、しばしば「コンピューティング」と呼ばれることが多いAIハードウェアとインフラストラクチャを初めて資産クラスとして扱ったと述べた。
+Nvidia の最高経営責任者、ジェンセン フアン氏は、「AI ではコンピューティングが収益です」と述べています。 「私たちは世界有数の長期資本プロバイダーを結集して、AIインフラストラクチャを独立して引き受けます。」
+この資金は、Nvidia 自身のプロジェクトとそのパートナーによって構築されているプロジェクトに充てられます。
+この基金が支援するインフラプロジェクトには、AIのデータや動作を処理する何マイルにもわたる積み重ねられたコンピューターチップを収容、運用、冷却するための新しいデータセンターの建設が含まれる可能性が高い。
+また、これらのシステムに電力を供給し、購入者への可用性を高めるために必要な AI チップを製造する新しい工場も支援します。
+KKRの共同最高経営責任者であるジョー・ベイ氏とスコット・ナトール氏は共同声明で「コンピューティングは重要なインフラ資産となっている」と述べた。 「デジタル インフラストラクチャへのアプローチを拡大するにつれて、難しいのは野心ではなく実現であることが分かりました。」
+基本的に、すべての主要なテクノロジー企業と AI 企業は、自社のサービス、AI プラットフォーム、AI チャットボットを強化するために Nvidia のコンピューター チップ、つまりグラフィックス プロセッシング ユニット (GPU) を使用しています。
+Nvidia の人気チップや GPU を使用している企業には、Google、Meta、Amazon、Microsoft、SpaceX、Tesla、OpenAI、Anthropic などがあります。
+このような企業は、わずか 3 年間で AI プロジェクトとインフラストラクチャに合計 1 兆ドルを超える外部支出を行っており、さらに多くの支出が見込まれています。そして、Nvidia のチップとサービスに対する彼らの需要により、同社の株式市場価値は 3 年間で 5 倍に上昇しました。
+フアン氏は月曜日の声明で、チップメーカーとしてのエヌビディアの役割が会社の始まりであると言及した。
+「現在、私たちは生産的で投資可能な新しい種類のインフラストラクチャ、つまり AI ファクトリーの構築を支援しています」と同氏は述べた。
+Nvidia と提携している銀行や投資家から資金を調達できる新たな機能により、AI ブームにより多くの資金を提供できるようになります。
+1兆ドル以上の資産を管理する金融会社アポロのジム・ゼルター社長は、「最新のコンピューティングは、希少でミッションクリティカルな資産クラスとして浮上している」と述べた。
+また、「長期的な経済成長と生産性の大幅な向上を推進する立場にある」とゼルター氏は付け加えた。
+ブラックロックは先月、メタ社と外部金融契約を締結し、テキサス州のデータセンター1カ所の過半数の所有権を取得した。
+アンスロピックは最近、AIインフラへの自社投資について、マッコーリー・アセット・マネジメントおよびシンガポールの投資銀行GICとも契約を結んだ。
+同社は取引規模については明らかにしなかったが、同社の人気チャットボット「Claude」の人気が非常に高まったため「需要には大幅な新しいコンピューティングが必要」なため、さらなる資金調達が必要だと述べた。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-10T22:31:42+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
+    readTime: 4,
+  },
+  {
+    id: "councils-to-get-more-powers-to-stop-vape-8592481a",
+    title: "Councils to get more powers to stop vape and betting shops, PM announces",
+    titleJa: "電子タバコと賭博店を阻止する権限を議会に与えると首相が発表",
+    summaryJa: "電子タバコと賭博店を阻止する権限を議会に与えると首相が発表- 公開されました",
+    bodyOriginal: `Councils to get more powers to stop vape and betting shops, PM announces
+- Published
+New vape shops will require planning permission and councils will get more powers to stop betting shops, under government plans aimed at improving high streets.
+Prime Minister Andy Burnham said town centres had been "hollowed out" by decades of decline and "for many people, the high streets they grew up with have become unrecognisable".
+BBC News has exposed organised crime on high streets across the country, revealing shops selling illegal cigarettes and vapes, selling cannabis and cocaine, enabling illegal working and suspected money-laundering.
+The Conservatives and Reform said the proposals would lead to "more empty" shops, without tax relief for other small businesses.
+Burnham said the measures will give councils more power to control what businesses open in town centres.
+The proposals come as the prime minister embarks on a tour of the UK, with Downing Street saying he will be in "listening mode" during his visits as he works on a "10-year plan to bring back hope".
+The plans announced by the government include:
+Changes to planning law which would mean every new shop selling e-cigarettes, or vapes, would need to apply to their local council for permission to open (England only)
+Tightening the definition of a vape shop to prevent businesses avoiding the rules by describing themselves as a general convenience store or retailer (England only)
+Scrapping a rule known as "aim to permit", which currently restricts councils' ability to refuse new betting shops and 24-hour slot machine shops (Great Britain-wide)
+Requiring planning permission for new adult gaming centres, which offer 24-hour access to gambling machines (England only)
+New powers to extend closure orders for mini-marts and vape shops found to be selling illegal tobacco or up to twelve months, something previously proposed by former Prime Minister Sir Keir Starmer (England and Wales)
+The National Crime Agency (NCA) estimates that at least £1bn of criminal cash is laundered through high street stores in the UK each year through businesses connected to the sale of fake goods, tax evasion, illegal working and illegal drug supply.
+Burnham said "the rise of vape shops, betting shops and rogue operators have replaced the shops, services, and community spaces that people are crying out for".
+He added: "That's not on. I said we would improve Britain's high streets, and that's exactly what we are starting to do.
+"We're putting communities back in control and giving local people a real say over what opens on their high street."
+In response to the announcement, Conservative shadow communities secretary Sir James Cleverly said "once-treasured shops" have been replaced by a "smattering of rogue operators".
+But Sir James said increases to business rates by Labour had left "empty units for whoever is left standing to fill".
+He said: "Unless the government takes steps to support the high streets and hard-working businesses, Labour's increases in planning regulation will just mean more empty and boarded up shops."
+For the Liberal Democrats, home affairs spokesman Max Wilkinson said Burnham's plan "could go up in a puff of smoke" unless he toughens up powers to "properly crack down on cowboy vape shops and dodgy operators".
+His calls included asking the prime minister to scrap the business rates system.
+Reform UK economy spokesman Robert Jenrick said: "Until this government scraps the jobs tax, addresses sky-high business rates and provides real, fundamental support for high street businesses, this policy will only create even more empty shops on our high streets."
+A Green Party spokesperson said the government's proposals "look like more inadequate tinkering and reannouncements".
+They called on the prime minister to "go further and allow councils to introduce rent controls for small businesses".
+The Betting and Gaming Council said it supports "tough action against criminal operator" and agrees "local people should have a proper say over their high streets".
+A spokesperson for the industry body added it was "simply wrong" to suggest that betting shops are spreading "unchecked", adding around 3,000 shops have closed since 2019.
+Councillor Eamonn O'Brien, who chairs the Local Government Association, said it was "positive" that councils and communities "will get a greater say on what shops and services are found on their high streets".
+For 18 months, BBC News has reported on high street organised crime, including drug gangs, money laundering, child sexual exploitation reports, immigration crime and ghost directors linked to shop fronts selling illegal cigarettes and illegal vapes.
+In April 2025, the BBC joined the NCA as it raided barbers, mini-marts and vape shops in response to growing intelligence reports that some of these shops were being used for money laundering and illegal working.
+In May and June of last year, the team found secret underground tunnels supplying sacks of illegal cigarettes to high street mini-marts in Hull.
+In July last year, mass Freedom of Information requests revealed for the first time that 3,700 illegal shops had operated across the UK.
+In November, the BBC exposed asylum seekers buying and selling high street mini-marts for cash and criminal kingpins erasing £60,000 illegal working fines, and revealed a Kurdish organised crime gang operating on high streets the length of Britain.
+In response, Home Secretary Shabana Mahmood launched an "urgent" investigation led by the NCA, Immigration Enforcement, HMRC and police forces from across the country.
+She said the BBC's evidence proved that "the system was broken" and demonstrated a pull factor in the small boat crisis.
+In March the BBC revealed a senior council worker had repeatedly shared with West Midlands authorities reports of children as young as 11 being sexually abused in high street mini-marts, and last month undercover reports exposed how cocaine, cannabis, laughing gas and prescription pills were being offered for sale.
+One street visited in the West Midlands was described as "lawless" by an anonymous law enforcement source.
+After the report, six mini-marts and vape shops on one high street in Cradely Heath, Sandwell were forced to close following an investigation by police and Trading Standards.
+Earlier this year, ministers announced a £30m enforcement operation targeting high street businesses suspected of money laundering, tax evasion and illegal working.
+Raids involving police, HMRC, Trading Standards and Immigration Enforcement have since taken place across the country.
+Additional reporting by Phill Edwards and Richard Wheeler`,
+    bodyJa: `電子タバコと賭博店を阻止する権限を議会に与えると首相が発表
+- 公開されました
+大通りの改善を目的とした政府の計画に基づき、新しい電子タバコ店には計画許可が必要となり、議会には賭博店を阻止する権限が強化される。
+アンディ・バーナム首相は、数十年にわたる衰退により町の中心部は「空洞化」しており、「多くの人にとって、自分たちが育った目抜き通りは認識できなくなっている」と述べた。
+BBCニュースは、全国の目抜き通りでの組織犯罪を暴露し、違法なタバコや電子タバコを販売したり、大麻やコカインを販売したりする店舗を明らかにし、違法労働やマネーロンダリングの疑いのある店舗を明らかにした。
+保守党と改革党は、この提案は他の中小企業への減税がなければ「空き店舗の増加」につながると主張した。
+バーナム氏は、この措置により市の中心部でどのようなビジネスを開くかを管理する権限が市議会に与えられると述べた。
+この提案は首相が英国歴訪に乗り出すタイミングで出されたもので、ダウニング街は首相が「希望を取り戻すための10年計画」に取り組む中で、訪問中は「話を聞くモード」になると述べた。
+政府が発表した計画には以下が含まれます。
+計画法の変更により、電子タバコまたはベイプを販売するすべての新しい店は、開店許可を地元の議会に申請する必要があることになる（イングランドのみ）
+企業が自らを一般的なコンビニエンスストアまたは小売業者と称して規則を回避することを防ぐために、VAPE ショップの定義を厳格化 (イングランドのみ)
+現在、新たな賭博店や24時間営業のスロットマシン店を拒否する評議会の権限を制限している「許可の目標」として知られる規則を撤廃する（英国全土）
+ギャンブルマシンへの 24 時間アクセスを提供する新しいアダルト ゲーム センターの計画許可を必要とする (イングランドのみ)
+違法タバコを販売していることが判明したミニマートや電子タバコ店への閉鎖命令を最長12か月延長する新たな権限、以前キア・スターマー元首相（イングランド・ウェールズ）が提案していたもの
+国家犯罪庁（NCA）は、偽商品の販売、脱税、違法労働、違法薬物供給に関連するビジネスを通じて、英国の繁華街の店舗で毎年少なくとも10億ポンドの犯罪現金が洗浄されていると推定している。
+バーナム氏は、「電子タバコ店、賭博店、不正業者の台頭により、人々が切望していた店舗、サービス、コミュニティスペースに取って代わられた」と述べた。
+同氏はさらに、「それは違う。英国の目抜き通りを改善すると私は言ったが、まさにそれが我々がやり始めていることだ」と付け加えた。
+「私たちはコミュニティを管理下に戻し、大通りに何がオープンするかについて地元住民に真の発言権を与えています。」
+この発表を受けて、保守党影のコミュニティ書記サー・ジェームス・クレバリー氏は、「かつては大切にされていた店」が「少数の不正業者」に取って代わられたと述べた。
+しかし、ジェームズ卿は、労働党によるビジネス料金の引き上げにより、「残った人が補充できる空きユニット」が残ったと述べた。
+同氏は、「政府が大通りや勤勉な企業を支援する措置を講じない限り、労働党が計画規制を強化しても、空き店舗や板で覆われた店舗が増えるだけだ」と語った。
+自由民主党に対し、内務報道官マックス・ウィルキンソン氏は、バーナム氏が「カウボーイ電子タバコ店や危険な経営者を適切に取り締まる」権限を強化しない限り、バーナム氏の計画は「煙に巻かれて消えてしまう可能性がある」と述べた。
+彼の電話には、首相にビジネス料金制度を廃止するよう求める内容が含まれていた。
+改革英国経済報道官のロバート・ジェンリック氏は、「政府が雇用税を廃止し、法外なビジネスレートに対処し、大通りのビジネスに実質的かつ根本的な支援を提供しない限り、この政策は大通りにさらに空き店舗を生み出すだけだ」と述べた。
+緑の党の報道官は、政府の提案は「さらに不十分な手直しと再発表のように見える」と述べた。
+彼らは首相に対し「さらに踏み込んで、議会が中小企業向けの家賃規制を導入できるようにする」よう求めた。
+賭博賭博評議会は「犯罪運営者に対する厳しい行動」を支持し、「地元住民が大通りに対して適切な発言権を持つべきである」ことに同意すると述べた。
+業界団体の広報担当者は、賭博店が「野放し」に蔓延していると示唆するのは「まったくの間違い」だと付け加え、2019年以来約3000店が閉店したと付け加えた。
+地方自治体協会会長のイーモン・オブライエン市議会議員は、議会や地域社会が「大通りにどのような店舗やサービスがあるかについて、より大きな発言権を得る」ことが「前向き」であると述べた。
+BBCニュースは18か月間、麻薬組織、マネーロンダリング、児童の性的搾取報告、移民犯罪、違法タバコや違法電子タバコを販売する店頭に関係するゴーストディレクターなど、大通りの組織犯罪を報道してきた。
+2025年4月、BBCはNCAに加わり、理髪店、ミニマート、電子タバコ店の一部がマネーロンダリングや不法労働に利用されているとする諜報報告の増加に応じて、これらの店を強制捜査した。
+昨年の5月と6月、チームはハルの目抜き通りのミニマートに違法タバコの袋を供給する秘密の地下トンネルを発見した。
+昨年7月、大規模な情報公開請求により、英国全土で3,700の違法店舗が営業していたことが初めて明らかになった。
+11月、BBCは、亡命希望者が大通りのミニマートで現金を売り買いし、犯罪の中心人物が6万ポンドの不法労働罰金を取り消していることを暴露し、英国全土にわたる大通りで活動しているクルド人組織犯罪集団を暴露した。
+これに応じて、シャバナ・マフムード内務大臣は、NCA、移民執行局、HMRC、全国の警察が主導する「緊急」捜査を開始した。
+彼女は、BBCの証拠は「システムが壊れていた」ことを証明し、小型ボートの危機におけるプル要因を示したと述べた。
+3月にBBCは、議会の上級職員が目抜き通りのミニマートで11歳の子供が性的虐待を受けているという報告を繰り返しウエスト・ミッドランド当局に共有していたことを明らかにし、先月の潜入報道でコカイン、大麻、笑気ガス、処方薬がどのように売りに出されていたかを暴露した。
+ウェスト・ミッドランズで訪れたある通りは、匿名の法執行機関関係者によって「無法地帯」であると評された。
+この報告の後、サンドウェルのクレイドリー・ヒースにある大通りにある6つのミニマートと電子タバコ店は、警察と取引基準局の捜査を受けて閉店を余儀なくされた。
+今年初めに閣僚らは、マネーロンダリング、脱税、不法就労の疑いのある大通りのビジネスを対象とした3,000万ポンドの取締り作戦を発表した。
+その後、警察、HMRC、貿易基準局、入国管理局が関与する強制捜査が全国各地で行われた。
+Phill Edwards と Richard Wheeler による追加レポート`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-10T21:33:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43eb/live/ed0a0df0-94fa-11f1-9181-85140b8ce01b.jpg",
+    readTime: 7,
+  },
+  {
+    id: "trump-signs-executive-order-calling-for-18aa67b8",
+    title: "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
+    titleJa: "トランプ大統領、小児ワクチンの接種を自閉症と誤って結びつけ、ワクチン接種の削減を求める大統領令に署名",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `President Donald Trump on Monday signed an executive order backing fewer routine vaccines for kids, calling to whittle down the number of recommended childhood shots to 11 while falsely tying immunizations to autism.
+The order builds on the Trump administration's efforts to reshape the childhood shot schedule under Health and Human Services Secretary Robert F. Kennedy Jr., a longtime vaccine skeptic.
+"This updated recommendation finally aligns the United States with other advanced and developed nations around the world," Trump said during a briefing on Monday. "More importantly, it aligns us with common sense and knowledge."
+He also falsely tied vaccines to autism, suggesting multiple times that rising rates of childhood shots have led to an increase in autism diagnoses. Decades of scientific evidence has shown no link between autism and childhood vaccines.
+He also called for splitting the combination measles, mumps and rubella, or MMR, vaccine into three separate single-disease shots.
+"The MMR we want to have separate visits, separate times. The vaccine being broken into three separate single doses and vaccines being administered in separate visits," Trump said.
+The order also directs the Department of Justice to investigate where states are in violation of exemptions for childhood vaccine mandates, including parental authority and disability accommodations as well as religious and medical reasons.
+It's not the first time the administration has taken aim at the MMR vaccine and the related MMRV shot, which adds the varicella vaccine to inoculate against chickenpox. Last year, a key vaccine advisory panel to the Centers for Disease Control and Prevention also weakened recommendations for the MMRV shot for children under age 4.
+But some health experts say that splitting up the shot raises the chance of missed appointments and skipped immunizations because it requires more doctor visits. Speaking to reporters after signing the order, Trump acknowledged it may be hard for some parents to take a child to the doctor multiple times, but argued it would be worth it.
+"It's inconvenient, it's five stops, but it's something that I think will have a huge impact on autism," he said.
+There is no scientific evidence that combining the shots leads to higher autism risk.
+Asked if he has any concerns about parents being able to afford multiple co-pays for doctor's visits, Trump said "we're going to work with the families" to help them afford the costs, without saying specifically how.
+The White House also confirmed that changes in vaccine recommendations would not change insurance coverage for the shots.
+Trump's executive order comes as the U.S. logs its worst year for measles infections in decades. Vaccination rates for children have fallen since the Covid-19 pandemic.`,
+    bodyJa: `ドナルド・トランプ大統領は月曜日、子供向けの定期ワクチン接種の削減を支持する大統領令に署名し、予防接種と自閉症を誤って結びつけながら、推奨される小児期ワクチン接種の回数を11回に減らすよう求めた。
+この命令は、長年ワクチンに懐疑的だったロバート・F・ケネディ・ジュニア保健福祉長官の下で小児期の予防接種スケジュールを再編するトランプ政権の取り組みを踏まえたものである。
+トランプ大統領は月曜日の会見で、「この最新の勧告により、最終的に米国は世界中の先進国や先進国と足並みを揃えることになる」と述べた。 「さらに重要なことは、それは私たちを常識と知識と一致させることです。」
+同氏はまた、ワクチンと自閉症を誤って結びつけ、小児期のワクチン接種率の上昇が自閉症診断の増加につながっていると何度も示唆した。何十年にもわたる科学的証拠は、自閉症と小児用ワクチンとの間に関連性がないことを示しています。
+同氏はまた、麻疹、おたふく風邪、風疹の混合ワクチン（MMR）を単一疾患ごとに3回に分けて接種するよう求めた。
+トランプ大統領は「われわれはMMRを別々の訪問、別々の時間で実施したいと考えている。ワクチンは3回の別々の単回接種に分けられ、別々の訪問でワクチンが投与される」と述べた。
+この命令はまた、司法省に対し、親権や障害への配慮、宗教的および医学的理由を含む小児ワクチン接種義務の免除に違反している州を調査するよう指示している。
+政権がMMRワクチンと、水痘の予防接種に水痘ワクチンを加えた関連するMMRV予防接種に狙いを定めたのはこれが初めてではない。昨年、疾病管理予防センターの主要なワクチン諮問委員会も、4歳未満の子供に対するMMRVワクチン接種の推奨を弱めました。
+しかし一部の医療専門家は、接種を分割するとより多くの医師の診察が必要となるため、予約を逃したり予防接種をスキップしたりする可能性が高まると述べている。大統領令に署名した後、トランプ大統領は記者団に対し、一部の親にとって子供を何度も医者に連れて行くのは難しいかもしれないと認めたが、それだけの価値はあると主張した。
+「5駅かかるので不便ですが、自閉症に大きな影響を与えると思います」と彼は言う。
+ショットを組み合わせると自閉症のリスクが高まるという科学的証拠はありません。
+両親が医師の診察にかかる複数の自己負担金を支払う余裕があることに懸念があるかとの質問に対し、トランプ大統領は、費用を負担できるよう「家族と協力するつもりだ」と述べたが、具体的な方法については言及しなかった。
+ホワイトハウスはまた、ワクチンの推奨事項が変更されても、予防接種に対する保険適用は変更されないことを確認した。
+トランプ大統領の大統領令は、米国が麻疹感染者数が数十年で最悪の年を記録している中で発令された。新型コロナウイルス感染症のパンデミック以来、子どものワクチン接種率は低下している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+    publishedAt: "2026-08-10T20:51:17+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
     id: "i-want-her-to-choose-the-best-strategy-e94279ba",
     title: "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
     titleJa: "「妻に最善の戦略を選んでほしい」: 妻の社会保障はわずか 900 ドルです。彼女は62歳になったら配偶者手当を請求すべきでしょうか？",
@@ -1661,512 +2073,6 @@ AnthropicとOpenAIは公式声明の中で、イレギュラーとの協力を�
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 8,
-  },
-  {
-    id: "saudi-aramco-extinguishes-fire-at-refine-0daef492",
-    title: "Saudi Aramco extinguishes fire at refinery as Houthis claim responsibility",
-    titleJa: "フーシ派が犯行声明、サウジアラムコが製油所の火災を消火",
-    summaryJa: "サウジアラビアの石油大手アラムコの製油所で発生した火災は日曜早朝、消防団が消火したと同国政府が発表した。イエメンのイランが支援するフーシ派反政府勢力が施設攻撃の犯行声明を出したと伝えられている。サウジアラビア・エネルギー省はXに関する声明で、ジーザーンにあるサウジアラムコ製油所での「管轄当局は事故に対処するために必要な手続きを完了している」と述べ、負傷者は出ていないと付け加えた。声明では火災の原因については言及していない。",
-    bodyOriginal: `Firefighters extinguished a blaze at a refinery belonging to Saudi Arabian oil giant Aramco early Sunday, the country's government said. Iran-backed Houthi rebels in Yemen reportedly claimed responsibility for attacking the facility.
-"The competent authorities are completing the necessary procedures to deal with the incident" at the Saudi Aramco refinery in Jazan, Saudi Arabia's Ministry of Energy said in a statement on X, adding that no one was injured. The statement did not say what caused the fire.
-Iran-backed Houthis reportedly said they carried out a drone strike on the facility.
-"Yemen's Armed Forces said they hit Saudi Arabia's Aramco refinery in Jizan on Sunday, describing the drone strike as precise and carried out in response to Saudi drone violations of Yemeni airspace," Iranian state-backed news agency Mehr said in a post on X.
-CNBC has not independently verified the claim. The Houthis have claimed responsibility for a number of attacks on the Saudi Aramco facility since the start of the war.
-In Tehran, Iranian Foreign Minister Abbas Araghchi said it is not currently in direct talks with the U.S.
-A brief hiatus in fighting between the U.S. and Iran after a June 17 memorandum of understanding was followed by weeks of Iranian drone and missile attacks on shipping in the Strait of Hormuz and neighboring Gulf countries, and counterstrikes by the U.S. on Iranian targets.
-Araghchi said Sunday that his country is not engaging in talks with the U.S., but added that "messages are being exchanged through intermediaries," according to news agency Mehr.
-Oman has been a key interlocutor, especially on the thorny issue of the Strait of Hormuz, a crucial gateway for about a fifth of the world's energy supplies before the U.S. and Israel began attacking Iran on Feb. 28.
-"Talks with Oman do not mean the Strait of Hormuz will be reopened. An agreement may be reached, but reopening the strait depends on other conditions conveyed through intermediaries," Araghchi was quoted as saying.
-The foreign minister said a day earlier that Iran and Oman, which border the waterway, were close to reaching an agreement on navigation, "specifically the determination of a transit route."
-U.S. Treasury Secretary Scott Bessent told CNBC on Tuesday that an agreement to open Hormuz with freedom of movement could come as soon as Wednesday. President Donald Trump and Secretary of State Marco Rubio had also indicated that an agreement was imminent.
-Sweeping demands
-On Saturday, Iran laid out sweeping demands to the U.S. for reopening the Strait of Hormuz, according to media reports.
-The Secretary of Iran's Supreme National Security Council, Mohammad Bagher Zolghadr, said Saturday that reopening the strait would require Washington to lift its naval blockade and sanctions, withdraw U.S. military forces from the region, pay war reparations, and release frozen Iranian assets.
-The council also called for an end to U.S. attacks on Iran's regional allies and to threats against Iran, according to the reports.
-CNBC has not independently verified the demands. The White House did not immediately respond to a request for comment.
-According to the interim deal signed in June between the U.S and Iran, a schedule to end sanctions and a compensation plan would be part of the final deal, as would negotiations to address frozen assets. The end of a 60-day period agreed to negotiate a final deal will come in just over a week.
-Iran and Oman are working on an agreement to define transit routes through the strait, according to media reports. Inbound traffic would transit Iranian waters while outbound traffic would go through Omani waters.
-But Iranian state media published a draft plan Thursday that would restrict traffic through Hormuz. The plan is under review by Iran's parliament, according to the state outlet Fars.
-Under the draft plan, Iran would ban U.S. and Israeli ships from transiting the Strait. Other nations that have harmed Iran would not be allowed to transit until compensation is paid, according to the draft.
-Oil prices rose Friday as investors waited for an agreement. Ship traffic through Hormuz was down 33% on Friday compared to the day prior, with most vessels using the Iranian route, according to the trade intelligence firm Kpler.
-Brent crude futures, the international benchmark, gained more than 1% to close at $83.55 a barrel. U.S. West Texas Intermediate advanced about 1% to settle at $78.18 per barrel. Prices fell more than 7% for the week.
-— CNBC's Tanaya Macheel contributed to this story.`,
-    bodyJa: `サウジアラビアの石油大手アラムコの製油所で発生した火災は日曜早朝、消防団が消火したと同国政府が発表した。イエメンのイランが支援するフーシ派反政府勢力が施設攻撃の犯行声明を出したと伝えられている。
-サウジアラビア・エネルギー省はXに関する声明で、ジーザーンにあるサウジアラムコ製油所での「管轄当局は事故に対処するために必要な手続きを完了している」と述べ、負傷者は出ていないと付け加えた。声明では火災の原因については言及していない。
-伝えられるところによると、イランが支援するフーシ派は施設に対してドローン攻撃を行ったと述べた。
-「イエメン国軍は日曜、ジザーンにあるサウジアラビアのアラムコ製油所を攻撃したと発表し、無人機攻撃は正確であり、サウジの無人機によるイエメン領空侵犯に対抗して行われたものであると述べた」とイラン国営通信社メフル通信はＸへの投稿で述べた。
-CNBCはこの主張を独自に検証していない。フーシ派は戦争開始以来、サウジアラムコの施設に対する数々の攻撃に対する犯行声明を出してきた。
-イランのアッバス・アラグチ外相はテヘランで、現在米国と直接交渉を行っていないと述べた。
-6月17日の覚書締結後、米国とイランの間の戦闘は短期間休止したが、その後、ホルムズ海峡や近隣湾岸諸国の船舶に対するイランによる数週間にわたる無人機やミサイル攻撃、そしてイラン目標に対する米国による反撃が続いた。
-メフル通信によりますと、アラグチ氏は日曜、自国は米国との協議に参加していないと述べたが、「仲介者を通じてメッセージが交換されている」とも付け加えた。
-オマーンは、特に米国とイスラエルが2月28日にイラン攻撃を開始する前から、世界のエネルギー供給の約5分の1への重要な玄関口であるホルムズ海峡の厄介な問題に関して、重要な対話者となってきた。
-アラグチ氏は「オマーンとの協議はホルムズ海峡の再開を意味するものではない。合意に達する可能性はあるが、海峡の再開は仲介者を通じて伝えられる他の条件次第だ」と述べたという。
-同外相は前日、この水路に隣接するイランとオマーンが航行、特に「通過ルートの決定」に関する合意に近づいていると述べた。
-スコット・ベッセント米財務長官は火曜日、CNBCに対し、ホルムズ島の移動の自由を開放する合意が水曜日にも成立する可能性があると語った。ドナルド・トランプ大統領とマルコ・ルビオ国務長官も、合意が目前に迫っていることを示唆していた。
-徹底的な要求
-メディア報道によると、土曜日、イランは米国に対し、ホルムズ海峡の再開を求める包括的な要求を提示した。
-イラン国家安全保障最高会議書記のモハマド・バガー・ゾルガドル氏は土曜日、海峡の再開には米国が海上封鎖と制裁を解除し、この地域から米軍を撤退させ、戦争賠償金を支払い、凍結されたイラン資産を解放する必要があると述べた。
-報道によると、同理事会はまた、イランの地域同盟国に対する米国の攻撃とイランに対する脅迫の停止も求めた。
-CNBCは要求を独自に検証していない。ホワイトハウスはコメント要請に応じなかった。
-米国とイランの間で6月に署名された暫定合意によると、制裁終了のスケジュールと補償計画は、凍結資産に対処する交渉と同様に最終合意の一部となる。最終合意交渉に合意した60日間の期間終了は1週間余りで訪れる。
-メディア報道によると、イランとオマーンは海峡を通る通過ルートを定める協定に取り組んでいる。インバウンド交通はイラン海域を通過し、アウトバウンド交通はオマーン海域を通過することになる。
-しかし、イラン国営メディアは木曜、ホルムズ経由の交通を制限する計画草案を公表した。国営放送ファルス紙によると、この計画はイラン議会で検討中である。
-計画草案では、イランは米国とイスラエルの船舶の海峡通過を禁止することになる。草案によると、イランに損害を与えた他の国々は、補償が支払われるまで通過を許可されない。
-投資家が合意を待つ中、金曜日の原油価格は上昇した。貿易情報会社クプラーによると、金曜日のホルムズを通過する船舶の交通量は前日に比べて33％減少し、ほとんどの船舶がイラン航路を利用していた。
-国際指標であるブレント原油先物は１％以上上昇し、１バレル＝８３．５５ドルで取引を終えた。米国ウエスト・テキサス・インターミディエイトは約１％上昇し、１バレル＝７８．１８ドルで落ち着いた。価格は週間で７％以上下落した。
-— CNBC の Tanaya Macheel がこの記事に寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/09/saudi-aramco-extinguishes-refinery-fire-houthis-claim-attack.html",
-    publishedAt: "2026-08-09T11:23:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "myspace-eyes-comeback-as-an-an-antidote-ac6d67ab",
-    title: "Myspace eyes comeback as an an 'antidote' to social media fatigue — but it may be a long shot",
-    titleJa: "Myspaceはソーシャルメディア疲れへの「解毒剤」としての復活を目指しているが、それは遠い道のりかもしれない",
-    summaryJa: "「Myspaceの再開に対する興奮は、私たちの生活においてアルゴリズムがそれほど支配的ではなかった、よりアナログな時代への郷愁を反映している」とアナリストはCNBCに語った。",
-    bodyOriginal: `Millennials may feel a pang of nostalgia at the news of Myspace's planned revival, but analysts caution that the once-dominant social media platform faces long odds in an overcrowded market dominated by algorithm-driven feeds and short attention spans.
-Its owners, Tim and Chris Vanderhook, co-founders of Viant Technology, recently appeared in a documentary, "Myspace," directed by Tommy Avalone, where they teased another "relaunch" after a previous failed attempt in 2013.
-"We still own Myspace. We are stewards of the Myspace brand at this point, and we are going to relaunch Myspace. We're just waiting for the right time to do it," They said in the documentary. "And if that one doesn't work, we'll do it again."
-Myspace, co-founded in 2003 by Tom Anderson and Chris DeWolfe, was acquired by the Vanderhook brothers in 2011. The platform is remembered for its quirky interface, customizable profiles, glittering layout, and everyone's first friend "Tom."
-Once the most popular social media website in the world, with 115 million visitors per month in 2008, it was quickly overtaken by Facebook and became a relic of the Y2K era.
-The Vanderhook brothers attempted to "modernize" the platform by building an "entirely new Myspace." Still, with a revolving door of owners and the loss of advertisers to Facebook, the platform struggled. "It just became an onslaught of losses," Tim Vanderhook said in the documentary. "We lost a little over $150 million," Chris Vanderhook added. They didn't outline a clear timeline for rollout.
-If Myspace were to relaunch, it would be entering a complicated new era of social media, one in which the dominant players such as Meta's Instagram, TikTok, Snapchat, YouTube, and Reddit, among others, are grappling with a wave of legal backlash as well as growing digital fatigue.
-"Excitement about Myspace's relaunch reflects nostalgia for a more analog time, when algorithms were less dominant in our lives," Kate Winick, a principal analyst at Forrester, told CNBC.
-"We're seeing this in recent moves by both brands and users towards smaller, more private social experiences that feel less built for the algorithm and more personal to the individual user, like the explosion of growth on Substack and private communities on Discord." Winick said.
-It also comes as millennials and Gen Zers are increasingly opting out of social media use, due to declining mental health and addiction driven by dominant platforms. Instead, they're looking to go offline, embrace analog technology, and yearn for the 90s and early 2000s.
-With these headwinds in sight, the success of Myspace hinges on some key factors, including attracting advertisers, sustaining user interest, and dodging a thorny regulatory environment.
-'The smallest game in town'
-Myspace has to balance users' appetite for nostalgia with the clean interfaces, seamless discovery, and short-form content that have come to define modern social media.
-"If Myspace follows the traditional playbook, they're simply the smallest game in town; if they lean too hard into old Myspace, they'll struggle to meet the expectations of a generation who are used to a much cleaner and simpler user experience," Winick said.
-She explained that the interface of the 2000s is comparably "labour-intensive," especially for younger users who have grown up on TikTok and Instagram. "It's unlikely that anyone who actually wants to spend less time online is going to decide to spend more time online to achieve an 'offline' aesthetic. They'd have to carefully thread that needle."
-However, with massive brand recognition, Myspace is ahead of many of the smaller players and has a decent chance of success.
-Read more
-First is nailing the demographic, as the generation who remember the platform fondly are "busy midlife adults with careers and families," who are unlikely to take up posting on another channel. Instead, they'll have to build a "meaningfully different product," and focus heavily on attracting Gen Z and Gen Alpha, Winick said.
-"One of the reasons Myspace lost out to Facebook years ago was the failure to appeal to older users, and one of the things that cemented TikTok's success on the business side was the fast growth it saw in millennial and older demographics," she said.
-With regulations to ban teens from social media underway, Myspace will have to pursue a strategy that is inclusive of older users, who are also the primary spenders.
-"One of the reasons MySpace lost out to Facebook years ago was the failure to appeal to older users, and one of the things that cemented TikTok's success on the business side was the fast growth it saw in millennial and older demographics."
-Can Myspace succeed with commercialization and advertising?
-Enders Senior Research Analyst Jamie MacEwan said Myspace will have to work harder to attract advertisers than big platforms, which have proven metrics.
-"The question for Myspace isn't will it eat Facebook's lunch twenty years later, but can it relaunch as a small ads platform and still be profitable," MacEwan said.
-He added that it will have to balance investing in growth with remaining lean as revenues are lower at mid-sized platforms, which are easier for advertisers to ignore. "SMEs are more likely to spend on platforms they already have a presence on."
-While it doesn't need to be the biggest platform to make money, it has to incentivize users to create content that people actually spend time looking at, because that's how you make advertising money.
-Additionally, Winick added that most businesses will wait to see if their customers are actually active on a social media platform before they start allocating budget towards advertisements there.
-"New platform adoption frequently falls off after the initial surge in interest—think of Noplace, a Gen Z-focused text-based platform with Myspace-style design, which hit number one in the app store the day of its launch, only to disappear from the 'most downloaded' list by the end of the following day."
-Bluesky, an open-source social platform launched as a Twitter rival in 2024, exploded in popularity as users sought an alternative to the Elon Musk-owned platform.
-It raised $100 million in Series B funding in April 2025, but reportedly saw a 40% drop in daily mobile active users by the end of October over the prior 12 months.
-Meanwhile, a former engineering lead at Bluesky said it had declined from a peak of 1.4 million active daily posters in late 2024 to around 600,000 in June.
-Another example was the briefly popular photosharing app BeReal, which gained steam off the back of the pandemic, but its monthly active users declined from 20 million at its height in 2022 to around 16 million, according to data from SimilarWeb shared with TechCrunch.
-Selling an 'antidote'
-MacEwan noted that Myspace's success came from differentiating itself from the big platforms, including leaning into growing fatigue around algorithm-oriented feeds and addictive design features.
-"I wouldn't necessarily see the smaller launches as a direct challenge to incumbent networks," MacEwan said. "It's more about counter-programming, identifying where the big platforms have gone too far and trying to sell something as an antidote to user fatigue."
-While that's rarely going to make "the next big thing," Myspace shouldn't necessarily be competing with the big platforms, but instead prioritize sustaining user growth and engagement.`,
-    bodyJa: `ミレニアル世代はMyspaceの復活計画のニュースに郷愁を覚えるかもしれないが、アナリストらは、かつて支配的だったソーシャルメディアプラットフォームは、アルゴリズム主導のフィードと短い注意力が支配する過密市場では長い勝ち目があると警告している。
-その所有者であるヴァイアント・テクノロジーの共同創設者であるティム・ヴァンダーフックとクリス・ヴァンダーフック夫妻は最近、トミー・アヴァロン監督のドキュメンタリー「マイスペース」に出演し、そこで2013年に失敗した試みの後の新たな「再起動」をほのめかした。
-「我々はまだMyspaceを所有している。現時点では我々はMyspaceブランドの管理者であり、Myspaceを再起動するつもりだ。我々はただその適切な時期を待っているだけだ」と彼らはドキュメンタリーの中で述べた。 「それでうまくいかなかったら、もう一度やります。」
-Myspace は、2003 年に Tom Anderson と Chris DeWolfe によって共同設立され、2011 年に Vanderhook 兄弟に買収されました。このプラットフォームは、その風変わりなインターフェイス、カスタマイズ可能なプロファイル、きらびやかなレイアウト、そしてみんなの最初の友達「Tom」で記憶されています。
-かつては世界で最も人気のあるソーシャル メディア Web サイトで、2008 年には月間 1 億 1,500 万人が訪問しましたが、すぐに Facebook に追い抜かれ、Y2K 時代の遺物となりました。
-ヴァンダーフック兄弟は、「まったく新しい Myspace」を構築することでプラットフォームを「近代化」しようとしました。それでも、所有者が回転ドアになり、広告主が Facebook に奪われたことで、プラットフォームは苦戦した。 「損失の猛攻撃になった」とティム・ヴァンダーフック氏はドキュメンタリーの中で語った。 「私たちは1億5000万ドル強を失いました」とクリス・ヴァンダーフック氏は付け加えた。彼らは展開の明確なスケジュールを概説しなかった。
-もしMyspaceが再始動するとしたら、ソーシャルメディアは複雑な新時代に突入することになるだろう。その中で、MetaのInstagram、TikTok、Snapchat、YouTube、Redditなどの有力企業は、増大するデジタル疲労とともに法的反発の波に直面している。
-フォレスター社の主席アナリスト、ケイト・ウィニック氏はCNBCに対し、「Myspaceの再開に対する興奮は、アルゴリズムが私たちの生活にそれほど支配的ではなかった、よりアナログな時代への郷愁を反映している」と語った。
-「Substack や Discord のプライベート コミュニティの爆発的な成長など、ブランドとユーザーの両方が、アルゴリズム向けに構築されたものではなく、より個人的なユーザーに合わせて構築されていると感じられる、より小規模でプライベートなソーシャル エクスペリエンスを目指す最近の動きでこの傾向が見られます。」ウィニックは言った。
-また、支配的なプラットフォームによるメンタルヘルスの悪化と依存症を理由に、ミレニアル世代やZ世代がソーシャルメディアの利用を控えるようになっていることも影響している。代わりに、彼らはオフラインに移行し、アナログ技術を採用し、90 年代から 2000 年代初頭への憧れを抱いています。
-こうした逆風が予想される中、Myspace の成功は、広告主の誘致、ユーザーの関心の維持、厄介な規制環境の回避など、いくつかの重要な要素にかかっています。
-「街で一番小さなゲーム」
-Myspace は、現代のソーシャル メディアを定義するようになったクリーンなインターフェイス、シームレスな発見、短い形式のコンテンツと、ユーザーのノスタルジーへの欲求のバランスを取る必要があります。
-「もし Myspace が伝統的な戦略に従っているなら、それは単に街で一番小さなゲームに過ぎない。もし古い Myspace にあまりにも強く傾いてしまうと、よりクリーンでシンプルなユーザー エクスペリエンスに慣れている世代の期待に応えるのに苦労するだろう」と Winick 氏は語った。
-彼女は、2000年代のインターフェースは、特にTikTokやInstagramで育った若いユーザーにとって、比較的「労働集約的」であると説明した。 「実際にオンラインに費やす時間を減らしたいと考えている人が、『オフライン』の美しさを実現するためにオンラインにもっと多くの時間を費やすことを決定する可能性は低いです。慎重に針に糸を通す必要があるでしょう。」
-しかし、Myspace はブランド認知度が非常に高いため、多くの小規模企業よりも先を行っており、成功の可能性は十分にあります。
-続きを読む
-1 つ目は、このプラットフォームを懐かしく覚えている世代は「キャリアと家族を持つ多忙な中年大人」であり、別のチャンネルに投稿する可能性は低いため、人口統計を釘付けにすることです。その代わりに、「意味のある異なる製品」を開発し、Z世代とアルファ世代を引き付けることに重点を置く必要があるとウィニック氏は述べた。
-「何年も前にMyspaceがFacebookに負けた理由の1つは、年配のユーザーにアピールできなかったことであり、ビジネス面でTikTokの成功を確固たるものにしたものの1つは、ミレニアル世代とそれ以上の年齢層の急速な成長だった」と彼女は述べた。
-青少年のソーシャルメディア利用を禁止する規制が進行中であるため、Myspace は主要な支出者でもある高齢ユーザーを取り込んだ戦略を追求する必要があるだろう。
-「何年も前にMySpaceがFacebookに負けた理由の1つは、年配のユーザーにアピールできなかったことであり、ビジネス面でTikTokの成功を確固たるものにしたものの1つは、ミレニアル世代とそれ以上の年齢層の急速な成長であった。」
-Myspace は商品化と広告で成功できるでしょうか?
-エンダーズのシニアリサーチアナリスト、ジェイミー・マキューアン氏は、マイスペースは実証済みの指標を持っている大手プラットフォームよりも、広告主を引きつけるためにもっと努力する必要があるだろうと述べた。
-「Myspaceにとっての問題は、20年後にFacebookのランチを食べられるかということではなく、小規模な広告プラットフォームとして再出発し、それでも収益を上げられるかということだ」とマキューアン氏は語った。
-同氏は、中規模のプラットフォームでは収益が低く、広告主にとって無視されやすいため、成長への投資と無駄のない維持のバランスをとる必要があると付け加えた。 「中小企業は、すでに存在感を示しているプラ​​ットフォームに支出する可能性が高くなります。」
-お金を稼ぐために最大のプラットフォームである必要はありませんが、ユーザーが実際に時間をかけて見るコンテンツを作成するようユーザーを動機付ける必要があります。そうすることで広告収入が得られるからです。
-さらに、ウィニック氏は、ほとんどの企業は、広告に予算を割り当て始める前に、顧客が実際にソーシャルメディアプラットフォーム上でアクティブであるかどうかを確認するのを待つだろうと付け加えた。
-「新しいプラットフォームの採用は、最初に関心が高まった後に低迷することがよくあります。Noplace のことを考えてください。Myspace スタイルのデザインを備えた、Z 世代に焦点を当てたテキストベースのプラットフォームです。このプラットフォームは、リリース当日にアプリ ストアで 1 位を記録しましたが、翌日の終わりまでに「最もダウンロードされた」リストから消えました。」
-Blueskyは、2024年にTwitterのライバルとして立ち上げられたオープンソースのソーシャルプラットフォームで、ユーザーがイーロン・マスク所有のプラットフォームに代わるものを求めたため、人気が爆発した。
-同社は2025年4月にシリーズB資金で1億ドルを調達したが、10月末までに1日あたりのモバイルアクティブユーザー数が過去12カ月間で40％減少したと報じられている。
-一方、ブルースカイ社の元エンジニアリング責任者は、アクティブポスター数が2024年末の1日あたり140万件のピークから、6月には約60万件まで減少したと述べた。
-もう1つの例は、一時的に人気を博した写真共有アプリBeRealで、パンデミックの影響で勢いを増したが、TechCrunchと共有したSimilarWebのデータによると、月間アクティブユーザー数は2022年の最盛期の2,000万人から約1,600万人まで減少した。
-「解毒剤」を販売する
-マキューアン氏は、Myspace の成功は、アルゴリズム指向のフィードや中毒性のあるデザイン機能に関する疲労の増大に傾倒するなど、大手プラットフォームとの差別化によってもたらされたと指摘した。
-「私は、小規模な立ち上げが既存のネットワークに対する直接的な挑戦であるとは必ずしも考えません」とマキューアン氏は述べた。 「それはどちらかというと対抗プログラミングであり、大手プラットフォームが行き過ぎた箇所を特定し、ユーザーの疲労に対する解毒剤として何かを売ろうとしているのです。」
-それが「次の大きなこと」になることはめったにありませんが、Myspace は必ずしも大手プラットフォームと競合する必要はなく、代わりにユーザーの成長とエンゲージメントを維持することを優先すべきです。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/09/myspace-comeback-rival-social-media-giants.html",
-    publishedAt: "2026-08-09T05:00:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "perez-hilton-faces-long-recovery-after-r-086f912c",
-    title: "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-    titleJa: "ペレス・ヒルトン、ライブ配信中に自傷行為をしたと報道され、長い回復に直面",
-    summaryJa: "ペレス・ヒルトン、ライブ配信中に自傷行為をしたと報道され、長い回復に直面- 公開されました",
-    bodyOriginal: `Perez Hilton faces long recovery after reports he self-harmed during livestream
-- Published
-The US blogger Perez Hilton is in a "serious but stable" condition after being admitted to hospital, according to his family.
-Emergency services were called to his Miami home on Tuesday after members of the public reported concerns while watching a TikTok livestream.
-The Miami sheriff's office confirmed they attended a scene of a man "livestreaming acts of self-harm" on Tuesday. They did not confirm his name but said the man was alone in the house at the time.
-A statement released on the 48-year-old's website said he "experienced significant blood loss" and his treatment and recovery would be a "long process".
-If you are affected by any of the issues in this story, help and support is available at BBC Action Line.
-The statement, external said Hilton was being held in hospital under Florida's Baker Act, which focuses on providing services for people experiencing a mental health crisis.
-The father-of-three, whose real name is Mario Lavandeira, is expected to have surgery in the coming days.
-A TikTok spokesman said its automated moderation systems flagged the livestream within minutes to the company's US moderation team for review.
-A moderator error caused a delay in the removal, TikTok said, but the company alerted law enforcement to the situation, closed several subsequent streams within 90 seconds, and banned the account.
-The pseudonym Perez Hilton is a reference to Paris Hilton who was at the height of her fame when the celebrity gossip blog was launched in 2005.
-The website would go on to attract 8 million hits a day at a time when the internet was still in its relative infancy. It was criticised for vicious commentary of stars including Miley Cyrus and Lady Gaga.
-In later years, Hilton admitted having regrets about being "mean or cruel".
-He has also appeared on reality TV shows including Celebrity Rap Superstar and Celebrity Big Brother.`,
-    bodyJa: `ペレス・ヒルトン、ライブ配信中に自傷行為をしたと報道され、長い回復に直面
-- 公開されました
-家族によると、米国のブロガー、ペレス・ヒルトンさんは入院後、「重篤だが安定した」状態にあるという。
-火曜日、TikTokのライブストリームを視聴中に一般の人々が懸念を報告したため、マイアミの自宅に救急隊が呼ばれた。
-マイアミ保安官事務所は火曜日、男性が「自傷行為をライブストリーミング」している現場に立ち会ったことを認めた。当局は男性の名前を確認しなかったが、当時男性は家に一人でいたと述べた。
-48歳の男性のウェブサイトに発表された声明では、「大量の失血を経験」し、治療と回復には「長い過程」がかかるだろうと述べた。
-この記事の問題のいずれかによって影響を受けた場合は、BBC Action Line でヘルプとサポートを利用できます。
-外部の声明によると、ヒルトン氏は精神的健康上の危機に直面している人々へのサービス提供に焦点を当てたフロリダ州ベーカー法に基づいて病院に拘束されているという。
-本名マリオ・ラヴァンデイラという３児の父親である彼は、数日中に手術を受ける予定だ。
-TikTokの広報担当者は、同社の自動モデレーションシステムが数分以内にライブストリームにフラグを立て、同社の米国モデレーションチームに審査を依頼したと述べた。
-TikTokによると、モデレーターのミスにより削除が遅れたが、同社は法執行機関に状況を警告し、その後のいくつかのストリームを90秒以内に閉鎖し、アカウントを禁止した。
-ペンネームのペレス・ヒルトンは、2005 年にセレブのゴシップ ブログが開始されたときに名声の絶頂にあったパリス・ヒルトンにちなんでいます。
-インターネットがまだ比較的初期段階にあったとき、この Web サイトは 1 日あたり 800 万件のアクセスを集め続けました。マイリー・サイラスやレディー・ガガなどのスターに対する悪質なコメントで批判された。
-後年、ヒルトンは自分が「意地悪で残酷だった」ことを後悔していると認めた。
-彼は、『セレブリティ ラップ スーパースター』や『セレブリティ ビッグ ブラザー』などのリアリティ番組にも出演しています。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-09T04:32:06+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f1e/live/c8723c60-93a6-11f1-a1bc-cf78445a8520.jpg",
-    readTime: 2,
-  },
-  {
-    id: "verizon-mobile-service-restored-after-ou-574696d0",
-    title: "Verizon mobile service restored after outage for thousands of customers in the U.S.",
-    titleJa: "Verizon モバイル サービスは、米国の数千の顧客の障害後に復旧しました。",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Service was down for several hours Saturday afternoon for thousands of Verizon customers in the U.S.
-The outages began around 3:30 p.m. ET, with Verizon receiving the highest number of complaints at more than 13,000 at its peak, according to data tracking site Downdetector. The largest number of affected customers were located in major metropolitan areas, including New York, Los Angeles and Boston.
-"Our engineers have resolved the issue that affected voice services for some wireless customers this afternoon," the company told CNBC in a statement.
-Verizon recommended that customers still having trouble with their service should restart their devices. The company did not provide a reason for the outage.
-The Verizon outage impacted hundreds of customers from other major wireless carriers, including AT&T and T-Mobile US, whose calls couldn't get through, Downdetector showed.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/08/verizon-mobile-outage-downdetector.html",
-    publishedAt: "2026-08-09T00:36:19+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "raw-images-no-filters-why-myspace-fans-w-d2454d25",
-    title: "Raw images, no filters: Why MySpace fans want it back as relaunch hinted",
-    titleJa: "生の画像、フィルターなし: 再起動がほのめかされているため、MySpace ファンが復活を望む理由",
-    summaryJa: "生の画像、フィルターなし: 再起動がほのめかされているため、MySpace ファンが復活を望む理由- 公開されました",
-    bodyOriginal: `Raw images, no filters: Why MySpace fans want it back as relaunch hinted
-- Published
-For Monticah Hawkins, a 31-year-old real-estate agent in Atlanta, MySpace wasn't just a website – it was a ritual.
-"You could be authentic on MySpace," she says. "Upload raw images, no filters. You could have snot coming out your nose and nobody would judge."
-MySpace, once the world's biggest social network, is flirting with a comeback. Its owners, brothers Tim and Chris Vanderhook, say they plan to relaunch the platform, though no date or product details have been announced.
-A spokesperson for Viant, which owns MySpace, says the company does not have any updates to share "at this time."
-But just the idea of a comeback has stirred nostalgia among people who remember the MySpace days of more than 20 years ago as a place where personal pages were messy, loud, and deeply individual.
-It has also caught the attention of creators like Melissa Kristin, a TikTok star with more than 900,000 followers, who grew up on MySpace and remembers it as a more personal digital space.
-"It was all very much your own little world, your own corner of the internet," Kristin says.
-That sense of autonomy shaped how she expresses herself online today, and she believes that a revived MySpace should avoid the algorithmic, pay-to-play dynamics that dominate modern platforms.
-"It would be best served for personal connection rather than performance," she says.
-"Just to recapture that high we felt as millennials when we got all the friend requests and comments. It helped us feel connected."
-MySpace launched in 2003 and quickly became a cultural hub, helping artists like Arctic Monkeys, Adele, and Nicki Minaj find early audiences.
-But its highly customised pages, auto-playing music, and busy layouts eventually became a liability.
-Facebook's cleaner, simpler design pulled users away, and MySpace struggled through redesigns and ownership changes before fading from mainstream use.
-Marketing experts say any comeback will depend on learning from that history.
-Dr Alexa Fox, a marketing professor at the University of Akron, says the platform was a "first mover" in social media, but one that became too complex for many users.
-She believes MySpace's original strengths – music, creativity, and personal expression – could still resonate, but only with more accessible design.
-"It could be more user-friendly, with less coding involved," she says.
-Alex Mills, a social media strategist who has led campaigns for Spotify and Adobe, says the very thing people are nostalgic for, a feed without algorithms, was also "the thing that killed it."
-"People still want a feed," Mills says. "They just want a better one than the ones optimising for rage bait."
-Kevin McClary, head of performance marketing at Gorilla 76, believes MySpace should not try to compete directly with Meta, TikTok, or X.
-"They can be successful and sustainable even as a niche platform," he says, arguing it should be rooted in 2000s culture.
-McClary says leaning into MySpace's music identity could be a smart move, from profile songs to 2000s-themed festivals and merchandise.
-He believes the audience could be broader than former users, with younger generations embracing the early-2000s aesthetics they never experienced firsthand.
-"You see younger generations now buying old point-and-shoot digital cameras, MP3 players, even film cameras," McClary says. "They clearly have an interest in the past."
-MySpace could meet users where that trend is growing by becoming a place rooted in a "specific time," he says. He noted that creators making 2000s-style content on other platforms are often at the "mercy" of algorithms.
-Fox agrees that differentiation is essential.
-"MySpace shouldn't hang their hat on features other platforms already dominate," Fox says, pointing to Reels and short-form videos.
-Popular formats can be added, she says, but they should not define the platform.
-She also sees an opportunity to offer a calmer experience. Today's feeds, she notes, are "algorithmic-driven AI, constantly in your face."
-A platform where users have more control, or simply feel less overwhelmed, could stand out in a crowded market.
-For fans like Hawkins and Kristin, the appeal is emotional as much as practical. Both say they would return if MySpace kept its original spirit.
-For now, its comeback exists mostly as a promise – a reminder of a time when social media felt a little less polished and a lot more personal.
-"Are you still gonna have that same feeling?" Hawkins says. "Are you still gonna feel like, 'oh my god, somebody loves me?'"`,
-    bodyJa: `生の画像、フィルターなし: 再起動がほのめかされているため、MySpace ファンが復活を望む理由
-- 公開されました
-アトランタで不動産業者を営むモンティカ・ホーキンスさん（31）にとって、MySpaceは単なるウェブサイトではなく、儀式だった。
-「MySpace では本物になれるかもしれません」と彼女は言います。 「フィルタをかけずに生の画像をアップロードしてください。鼻から鼻水が出ても誰も判断しません。」
-かつては世界最大のソーシャル ネットワークだった MySpace が復活を目指しています。そのオーナーであるティム・ヴァンダーフック兄弟とクリス・ヴァンダーフック兄弟は、プラットフォームを再起動する計画だと述べているが、日付や製品の詳細は発表されていない。
-MySpaceを所有するViantの広報担当者は、同社には「現時点では」共有できる最新情報はないと述べた。
-しかし、復活という考えだけで、20年以上前のMySpace時代を、個人ページが乱雑でうるさく、そして非常に個人的な場所として覚えている人々の間で懐かしさを呼び起こした。
-また、MySpace で育ち、MySpace をより個人的なデジタル スペースとして覚えている、90 万人以上のフォロワーを持つ TikTok スター、メリッサ クリスティンのようなクリエイターの注目も集めています。
-「それはまさにあなた自身の小さな世界、インターネットのあなた自身の片隅でした」とクリスティンは言います。
-その自主性の感覚が、今日のオンラインでの彼女の表現方法を形作りました。彼女は、復活した MySpace では、現代のプラットフォームを支配するアルゴリズムによる課金制のダイナミクスを避けるべきだと信じています。
-「パフォーマンスよりも個人的なつながりに最適です」と彼女は言います。
-「すべての友達リクエストやコメントを受け取ったときに、ミレニアル世代として感じた高揚感を取り戻すためです。それは私たちがつながっていると感じるのに役立ちました。」
-MySpace は 2003 年に設立され、すぐに文化のハブとなり、アークティック モンキーズ、アデル、ニッキー ミナージュなどのアーティストが初期の視聴者を見つけるのに役立ちました。
-しかし、高度にカスタマイズされたページ、自動再生される音楽、煩雑なレイアウトが最終的には欠点となりました。
-Facebook のクリーンでシンプルなデザインはユーザーを遠ざけ、MySpace は主流の使用から消え去るまで再設計と所有権の変更に苦労しました。
-マーケティングの専門家らは、復活できるかどうかはその歴史から学ぶかどうかにかかっていると語る。
-アクロン大学のマーケティング教授アレクサ・フォックス博士は、このプラットフォームはソーシャルメディアの「先駆者」だったが、多くのユーザーにとっては複雑になりすぎたと述べた。
-彼女は、MySpace の本来の強みである音楽、創造性、個人の表現が依然として共感を呼ぶ可能性があると信じていますが、それはよりアクセスしやすいデザインが必要です。
-「コーディングの手間が減り、よりユーザーフレンドリーになる可能性があります」と彼女は言います。
-SpotifyやAdobeのキャンペーンを率いてきたソーシャルメディア戦略家のアレックス・ミルズ氏は、人々が懐かしんでいるもの、つまりアルゴリズムのないフィードそのものが「それを台無しにしたもの」でもあったと語る。
-「人々は依然として餌を求めています」とミルズ氏は言う。 「彼らは怒りの餌に最適化したものよりも優れたものを求めているだけです。」
-Gorilla 76 のパフォーマンス マーケティング責任者である Kevin McClary 氏は、MySpace は Meta、TikTok、または X と直接競合しようとするべきではないと考えています。
-同氏は「ニッチなプラットフォームとしても成功し持続可能だ」と述べ、2000年代の文化に根ざしたものであるべきだと主張した。
-マクラリー氏は、プロフィールソングから 2000 年代をテーマにしたフェスティバルや商品に至るまで、MySpace の音楽アイデンティティを活用することは賢明な動きになる可能性があると述べています。
-彼は、若い世代が直接経験したことのない 2000 年代初頭の美学を受け入れており、視聴者は以前のユーザーよりも幅広い可能性があると考えています。
-「今では若い世代が古いコンパクトデジタルカメラやMP3プレーヤー、さらにはフィルムカメラを購入しているのがわかります」とマクラリー氏は言う。 「彼らは明らかに過去に興味を持っています。」
-MySpace は「特定の時代」に根ざした場所になることで、その傾向が高まっているユーザーに出会うことができる、と彼は言う。同氏は、他のプラットフォームで2000年代スタイルのコンテンツを制作しているクリエイターはアルゴリズムの「なすがまま」になることが多いと指摘した。
-フォックス氏も差別化が不可欠であることに同意する。
-「MySpaceは、他のプラットフォームがすでに独占している機能に脱帽すべきではない」とフォックス氏はリールと短編ビデオを挙げて言う。
-人気のあるフォーマットを追加することはできますが、プラットフォームを定義するべきではないと彼女は言います。
-彼女は、より穏やかな体験を提供する機会も考えています。現在のフィードは「アルゴリズム駆動の AI が常に目の前にある」と彼女は指摘します。
-ユーザーがより自由に制御できるプラットフォーム、または単純に圧倒されにくいプラットフォームは、混雑した市場で目立つ可能性があります。
-ホーキンスやクリスティンのようなファンにとって、その魅力は実際的なものであると同時に感情的なものでもあります。両氏とも、MySpace が当初の精神を維持していれば戻ってくるだろうと述べている。
-今のところ、その復活は主に約束として存在しています。これは、ソーシャルメディアが少し洗練されておらず、より個人的なものに感じられていた時代を思い出させます。
-「あなたはまだ同じ気持ちを持ち続けるつもりですか？」ホーキンス氏は言う。 「まだ、『なんてことだ、誰かが私を愛してくれている』と感じるつもりですか？」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g64152v71o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-09T00:04:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70b8/live/75e1db80-9249-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 7,
-  },
-  {
-    id: "hundreds-arrested-over-french-wildfires-ff529b09",
-    title: "Hundreds arrested over French wildfires, but who is to blame?",
-    titleJa: "フランスの山火事で数百人が逮捕、責任は誰にあるのか？",
-    summaryJa: "フランスの山火事で数百人が逮捕、責任は誰にあるのか？- 公開されました",
-    bodyOriginal: `Hundreds arrested over French wildfires, but who is to blame?
-- Published
-After wildfires caused more damage in France this year than at any time since World War Two, many are left asking a single question: Why?
-A major driver is that climate is changing as a result of the well-documented way humanity is burning fossil fuels. Temperatures are only rising.
-But with records showing that nine out of 10 French wildfires are started by humans, the government in Paris is trying to attribute blame - although it is itself accused of being underprepared for the infernos that have now scorched more than 300,000 acres this summer.
-The interior ministry has announced 420 arrests of people alleged to have either started the fires deliberately or by accident. Among them are 166 minors.
-In one case, a 23-year-old man has been accused of deliberately starting 10 fires in the space of five days in the south-eastern Var area last month. He faces 15 years in prison and a €150,000 (£128,000) fine, if convicted.
-Many others have been tried and immediately sentenced, such as a man who received a three-year jail sentence for starting three recent fires in the Raon-L'Étape forest in the Vosges region.
-"Only a few square metres of vegetation went up in smoke," noted L'Est Républicain, the newspaper that reported the story.
-Other prosecutions have been perceived as heavy-handed and unjust. A homeless man and someone with severe autism have reportedly been handed jail terms for throwing cigarette butts.
-"I was amazed at the number of arrests, it feels excessive," admits Muriel Gestas, a lawyer who has represented several people accused of arson, including two firefighters. She doubts many will lead to a conviction.
-The newspaper Le Monde is also unconvinced. It questions to what extent police have examined these cases, given the short time frame.
-The authorities' silence on the details - the specific charges, notably whether they involve intent and how the numbers compare with past seasons - rules out any meaningful comparison with previous years, it argues.
-But Bordeaux prosecutor Renaud Gaudeul told Le Monde that a tough approach was justified by current circumstances.
-"The conditions for a charge of endangering lives are met for those who throw a cigarette butt or light a barbecue in wooded areas. It only takes a tiny spark for it to start," the newspaper quoted him as saying.
-Working out how a fire started is, unsurprisingly, not easy.
-"In periods of drought such as this one, all you need is a simple lighter," explains Eric Dufayet, an officer who investigates fires.
-Once a fire is out, Eric's first task is to map its outline along the edge of the burnt vegetation, then trace it back to its point of origin. If the wind has been steady, that outline often forms a "V" shape. From there, his team works backwards along the path the flames took.
-"If someone deliberately starts a fire, they may not have used only one device," he says. It improves the chances of a DNA or fingerprint sample being found.
-Experts believe arson accounts for only a small fraction of fires. Most are believed to be accidental, with sparks potentially coming from construction work, faulty electrical equipment, cigarette butts and barbecues.
-"With cigarettes, it's called the '30' rule," says Eric Dufayet. To start a fire, he explains, there must be "a temperature of at least 30C (86F), a maximum of 30% humidity, wind of less than 30km/h (19mph), and at least 30% of the cigarette unburnt."
-In the current drought, he says it is even easier. If those conditions are met, a fire can easily spread, and fast.
-According to Michel Lejoyeux, a professor of psychiatry and addictive behaviour at Paris 7 University, people who start fires fall into three categories: those who are careless, those who benefit - with an insurance payout, for example - and pyromaniacs.
-"The pyromaniac doesn't get money, has no spirit of revenge, has no utility of the fire, but he likes the fire," he says.
-However, pyromania is a rare psychiatric disorder that Lejoyeux says is very difficult to diagnose, and accounts for few arson convictions.
-Lawyer Muriel Gestas, who has handled several such cases, says some firefighters alleged to have started fires may have wanted to be seen as saviours. For others - notably volunteers earning tax-free overtime - the motive may be financial.
-Amid concerns over how officials are pursuing suspects, broader worries about wildfires are far from abating. Forecasts suggest France's next heatwave is only days away.
-President Emmanuel Macron says criticism should not be the priority right now. "We will have to replant and rebuild a different kind of forest because we must adapt to the structural conditions of climate change," he said this week.
-"The time for reviewing lessons learned will come," he insisted. "In the meantime, the country must remain united."
-Even so, the damage these fires have inflicted on the environment, hundreds of homes, tourism, local businesses and air quality has left the French public with a lot of questions.`,
-    bodyJa: `フランスの山火事で数百人が逮捕、責任は誰にあるのか？
-- 公開されました
-今年、フランスで山火事が第二次世界大戦以降のどの時期よりも多くの被害をもたらしたことを受けて、多くの人がただ一つの疑問を残している。「なぜ？」
-主な要因は、人類が化石燃料を燃やしていることが十分に文書化されている結果として、気候が変化していることです。気温は上昇するばかりです。
-しかし、フランスの山火事の10件中9件が人間によって引き起こされたことを示す記録があることから、パリ政府はその責任を帰そうとしているが、この夏30万エーカー以上を焼き尽くした地獄への備えが不十分だったとパリ政府自体が非難されている。
-内務省は、故意または偶発的に火災を起こした疑いで420人を逮捕したと発表した。この中には未成年者も166人いる。
-ある事件では、先月ヴァール南東部で5日間に10件の火災を意図的に起こしたとして23歳の男が告訴されている。有罪となった場合、懲役15年と罰金15万ユーロ（約12万8000ポンド）が科せられる可能性がある。
-ヴォージュ地域圏のラオン・レテープの森で最近3回火災を起こした罪で懲役3年の判決を受けた男性など、他にも多くの人が裁判にかけられ、即時判決を受けた。
-この話を報じた新聞「レスト・レピュブリカン」は、「わずか数平方メートルの植生が煙に巻かれただけだ」と述べた。
-他の訴追は高圧的かつ不当であると認識されている。ホームレスの男性と重度の自閉症の人が、タバコの吸い殻を投げ捨てた罪で懲役刑を言い渡されたと伝えられている。
-「逮捕者の数には驚きました。多すぎると感じます」と、消防士2名を含む放火容疑で告訴された数人の弁護人を務めてきた弁護士ムリエル・ゲスタスは認める。彼女は、多くの人が有罪判決に至るのではないかと疑っている。
-ルモンド紙も納得していない。短期間であることを考えると、警察がこれらの事件をどの程度捜査したか疑問である。
-当局が詳細、具体的な容疑、特に意図が関与しているかどうか、過去のシーズンとの数字の比較などについて沈黙しているため、前年との意味のある比較は排除されている、と同誌は主張している。
-しかし、ボルドーの検察官ルノー・ゴードゥル氏はルモンド紙に対し、現在の状況では強硬なアプローチは正当化されると述べた。
-同紙は同氏の発言として、「タバコの吸い殻を投げたり、森林地帯でバーベキューに火をつけたりする者は、生命を危険にさらす罪の条件を満たしている。ほんの小さな火花が発火するだけだ」と述べたと伝えた。
-火災がどのように発生したのかを解明するのは、当然のことながら簡単ではありません。
-「今回のような干ばつの時期には、必要なのはシンプルなライターだけです」と火災調査の警察官エリック・デュファイエ氏は説明する。
-火が消えたら、エリックの最初の仕事は、焼けた植生の端に沿ってその輪郭をマッピングし、それを元の場所まで追跡することです。風が安定している場合、その輪郭は多くの場合「V」字形を形成します。そこから、彼のチームは炎がたどった経路に沿って逆方向に作業を進めます。
-「誰かが意図的に火を起こした場合、使用したデバイスは 1 つだけではない可能性があります」と彼は言います。 DNA または指紋サンプルが見つかる可能性が高まります。
-専門家は、放火は火災のほんの一部に過ぎないと考えています。ほとんどは偶発的なものであると考えられており、火花は建設作業、電気機器の故障、タバコの吸い殻、バーベキューなどから発生する可能性があります。
-「タバコの場合は『30』ルールと呼ばれています」とエリック・デュファイエ氏は言う。同氏によると、火災を起こすには「温度が少なくとも30度（86度）、湿度が最大30％、風が時速30キロ（19マイル）未満、そしてタバコの少なくとも30％が燃え残っていない」必要があるという。
-現在の干ばつでは、それはさらに容易だと彼は言う。これらの条件が満たされると、火災は容易に、そして急速に広がります。
-パリ第7大学の精神医学と依存行為の教授、ミシェル・ルジョユーによると、火を起こす人は3つのカテゴリーに分類される：不注意な人、保険金などの恩恵を受けている人、そして放火魔だ。
-「放火魔は金もうけないし、復讐心もないし、火の利用価値もないが、火が好きだ」と彼は言う。
-しかし、放火魔は稀な精神疾患であり、診断が非常に難しく、放火有罪判決の原因となるのはほとんどないとルジョユー氏は言う。
-そうした事件をいくつか扱ってきたムリエル・ゲスタス弁護士は、火災を起こしたとされる消防士の中には救世主と思われたかったのかもしれないと語る。他の人たち、特に非課税の残業代を稼ぐボランティアたちにとって、動機は金銭的なものかもしれない。
-当局が容疑者をどのように追及しているかが懸念される中、山火事に対する広範な懸念は収まるには程遠い。予報によると、フランスの次の熱波は数日先だという。
-エマニュエル・マクロン大統領は、現時点では批判を優先すべきではないと述べた。同氏は今週、「気候変動の構造的条件に適応しなければならないため、植林を再開し、異なる種類の森林を再建する必要がある」と語った。
-「教訓を見直す時期が来るだろう」と彼は主張した。 「それまでの間、国は団結し続けなければならない。」
-それでもなお、これらの火災が環境、数百戸の住宅、観光業、地元企業、大気質に与えた被害は、フランス国民に多くの疑問を残している。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-08T23:59:23+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/009e/live/2a0eb510-9272-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 6,
-  },
-  {
-    id: "israel-accused-of-weaponising-archaeolog-3deba519",
-    title: "Israel accused of weaponising archaeology at ancient West Bank sites",
-    titleJa: "イスラエル、ヨルダン川西岸の古代遺跡で考古学を武器化したとして非難される",
-    summaryJa: "イスラエル、ヨルダン川西岸の古代遺跡で考古学を武器化したとして非難される- 公開されました",
-    bodyOriginal: `Israel accused of weaponising archaeology at ancient West Bank sites
-- Published
-Up in the hills above the Roman columns of the ancient site of Sebastia, in the occupied West Bank, are olive fields that have been cultivated for generations by Palestinian families.
-One of the landowners, Abu Mudif, says he has received notification that his land is part of a tranche of about 450 acres that the Israeli authorities are taking possession of in order, they say, to protect and develop the site for a major new national park.
-Typically, Palestinian landowners receive little or no payment for such land expropriation. And even when it is offered, most refuse it as they see accepting it as giving recognition and legitimacy to the loss of what they see as their patrimony.
-It's a vital income for Abu Mudif to lose of course, but it goes deeper than that for him.
-"If I wanted to describe it, the closest description I can give is that it is like having your soul ripped away. I cannot imagine myself without my land."
-Nahed Sakha owns a local restaurant that is under threat of demolition.
-He says the Israeli plan seems to be to cut Palestinian residents off from the archaeological site, which dates back thousands of years and has significant remains from the ancient Jewish past, as well as many other eras including the Romans, the Crusaders and the Ottomans.
-"Restoration work has now begun along with excavations," he says. "Landowners were told that no-one would be allowed to use or plough their land."
-The concerns of the village that surrounds Sebastia have been echoed by the United Nations culture and education agency, Unesco, which has now declared it not just a World Heritage Site but also added it to the List of World Heritage in Danger.
-Unesco says that the main threat facing the site concerns what it calls the "planned expropriation and creation of the 'Samaria' (Shomron) national park, which could divide the property".
-Standing on a path between the entrance car park in Sebastia on one side - where the Roman-era forum once stood - and the columns of the basilica on the other, the village mayor, Mohammed Azem, looks down to his right at some rubbish left in the ruins.
-He says locals are now worried about reaching down to clean the area as it might cause problems with Israeli security forces and settlers.
-The path on which he stands divides the site between Area B of the West Bank - which is under Palestinian civil and Israeli security control - and Area C, which is under full Israeli civil and security control.
-Last week, Israel allocated roughly 113 million shekels (£27.8m), external to expanding its control over archaeological sites in the West Bank. Some projects involve sites in areas administered by the Palestinian Authority.
-In the remains of the Roman theatre, Israeli activist Alon Arad - who heads Emek Shaveh, an Israeli group that aims to ensure that the ancient heritage of the region belongs to all communities - says that the Israeli authorities have bypassed consultation with the local administration and residents of Sebastia.
-"The thing is that Israel is not the owner of this place. This is a Palestinian heritage site. And in order to develop it in a positive way, it has to be done with the local community, with the municipality, so they can benefit."
-The Israeli plans would see Sebastia's entrance moved to the other side of the vast site, away from the village and current car park and shops.
-The Palestinian tourism and foreign ministries have expressed their hope that recognition by Unesco may buttress international support for their opposition to Israeli land seizures in Sebastia.
-But the Israeli Foreign Minister, Gideon Saar, has portrayed Unesco's move as enabling Palestinian efforts to diminish historic Jewish ties to the West Bank.
-"No vote in an international organisation can change history," he asserted.
-Further to the south in the West Bank and just in sight of Jerusalem is Herodium, a manmade hill with an extraordinary palace built on its summit by King Herod, who ruled the Kingdom of Judea just before the Christian era.
-Recently here, too, Israel has begun to expropriate land - this time about 80 acres - for what it says is the "preservation and development" of the site.
-Peace Now - an Israeli organisation that monitors settlements - says: "Under international law, as well as according to rulings of the Israeli Supreme Court, Israel is prohibited from expropriating land for settlement purposes or exclusively for the benefit of Israeli citizens".
-"Consequently, in order for the expropriation to be considered lawful, the state will likely argue that the site is intended to serve both Palestinian and Israeli populations, despite the apparent fact that its primary rationale and purpose are linked to settlement expansion and Israeli control."
-For Shmuel Browns, who has worked on excavations in Herodium and leads deeply enthused guided tours, it's vital for Israeli archaeologists and officials to be able to oversee and protect places that are so freighted with historical and religious significance.
-"Israel feels responsible to look after the archaeology, the artifacts, the history of this land," he says.
-But there has also been a drive to go further than this among far-right members of Israel's current government.
-A new law was proposed earlier this year that would have transferred control of archaeological sites to the Israeli heritage ministry from the Civil Administration, which operates under military authority, and given it sweeping powers to seize land for archaeological preservation across the West Bank.
-That bill passed its first reading in parliament in May but is now on hold as elections are coming up. It may never re-emerge.
-Back in Sebastia, the Israeli activist Alon Arad says the very fact that the bill was put forward shows how archaeology itself has been weaponised in the West Bank.
-"This is exactly how the mechanism works. You use archaeology, you use it in order to do excavations and to the narrative, to rewrite history, but you also use it in order to allocate lands or reallocate lands from Palestinian to Israeli," he warns.
-Increasingly, Palestinian residents of Sebastia fear that their close connection with the ruins is in danger of being lost.`,
-    bodyJa: `イスラエル、ヨルダン川西岸の古代遺跡で考古学を武器化したとして非難される
-- 公開されました
-占領下のヨルダン川西岸にあるセバスティアの古代遺跡のローマ時代の円柱の上の丘の上には、パレスチナ人の家族によって何世代にもわたって栽培されてきたオリーブ畑があります。
-地主の一人、アブ・ムディフ氏は、彼の土地が、イスラエル当局が主要な新しい国立公園用地を保護し開発するために占有している約450エーカーの区画の一部であるという通知を受けたと述べた。
-通常、パレスチナ人の地主は、そのような土地収用に対する支払いをほとんど、またはまったく受け取っていません。そして、たとえそれが提案されたとしても、ほとんどの人は、それを受け入れることは、自分たちの財産と見なすものの喪失に認識と正当性を与えるものであると考えて、それを拒否します。
-もちろん、アブ・ムディフにとって失うことは極めて重要な収入だが、彼にとってはそれ以上に深刻な問題だ。
-「それを説明したいなら、私ができる最も近い説明は、魂をもぎ取られるようなものです。土地のない自分を想像することはできません。」
-ナヘド・サカさんは地元のレストランを経営していますが、取り壊しの危機にさらされています。
-同氏によると、イスラエルの計画は、数千年前に遡り、古代ユダヤ人の過去だけでなく、ローマ人、十字軍、オスマン帝国など多くの時代の重要な遺跡が残っているこの遺跡からパレスチナ住民を切り離すことのようだという。
-「現在、発掘調査と並行して修復作業が始まっています」と彼は言います。 「地主たちは、誰も自分たちの土地を使用したり耕したりすることは許されないと言われました。」
-セバスティアを囲む村の懸念は、国連の文化教育機関であるユネスコによっても同様であり、ユネスコはこの村を世界遺産に登録するだけでなく、危険にさらされている世界遺産のリストにも追加したと発表した。
-ユネスコは、この場所が直面している主な脅威は、「財産を分割する可能性がある『サマリア』（ショムロン）国立公園の計画的な収用と創設」と呼ぶものに関係していると述べている。
-セバスティアの入り口駐車場（かつてローマ時代のフォーラムがあった場所）と大聖堂の柱の間の小道に立ち、村長のモハメッド・アゼムは遺跡に残されたゴミを右に見下ろしている。
-同氏によると、地元住民は現在、イスラエル治安部隊や入植者と​​の問題を引き起こす可能性があるため、地域を清掃するために手を伸ばすことを懸念しているという。
-彼が立っている道は、パレスチナの民間およびイスラエルの治安管理下にあるヨルダン川西岸のエリアBと、イスラエルの完全な民間および治安管理下にあるエリアCとの間で敷地を分断している。
-イスラエルは先週、ヨルダン川西岸の遺跡への支配拡大の枠外として約１億１３００万シェケル（２７８０万ポンド）を割り当てた。一部のプロジェクトには、パレスチナ自治政府が管理する地域のサイトが含まれます。
-ローマ劇場跡で、この地域の古代遺産がすべてのコミュニティに属することを保証することを目的とするイスラエルの団体エメク・シャベを率いるイスラエル人活動家アロン・アラド氏は、イスラエル当局が地元行政やセバスティア住民との協議を無視したと述べた。
-「問題は、イスラエルがこの場所の所有者ではないということです。これはパレスチナの遺産です。そして、それを前向きな方法で発展させるためには、彼らが利益を得られるように、地元のコミュニティ、自治体と協力しなければなりません。」
-イスラエルの計画では、セバスティアさんの入り口は、村や現在の駐車場や店舗から離れた広大な敷地の反対側に移されることになる。
-パレスチナ観光省と外務省は、ユネスコによる承認がセバスティアでのイスラエルによる土地接収に反対する国際的な支援を強化する可能性があるとの期待を表明している。
-しかし、イスラエルのギデオン・サール外務大臣は、ユネスコの動きにより、ヨルダン川西岸とユダヤ人の歴史的なつながりを弱めるパレスチナ側の努力が可能になったと表現している。
-「国際機関でのいかなる投票も歴史を変えることはできない」と彼は主張した。
-ヨルダン川西岸のさらに南、エルサレムのすぐ近くにヘロディウムがあります。ヘロディウムは、キリスト教時代の直前にユダヤ王国を統治していたヘロデ王によって頂上に建てられた特別な宮殿のある人工の丘です。
-最近ここでも、イスラエルは敷地の「保存と開発」を目的として、今回は約80エーカーの土地を収用し始めた。
-入植地を監視するイスラエルの組織ピース・ナウは、「国際法およびイスラエル最高裁判所の判決に従い、イスラエルは入植目的またはもっぱらイスラエル国民の利益のために土地を収用することを禁じられている」と述べている。
-「したがって、収用が合法であるとみなされるためには、その主な根拠と目的が入植地の拡大とイスラエルの支配に関連しているという明白な事実にもかかわらず、国はおそらくこの場所がパレスチナ人とイスラエル人の両方の住民にサービスを提供することを目的としていると主張するだろう。」
-ヘロディウムで発掘調査に取り組み、熱心にガイド付きツアーを主催しているシュムエル・ブラウンズ氏にとって、イスラエルの考古学者や当局者が歴史的、宗教的重要性を秘めた場所を監督し、保護できることは極めて重要だ。
-「イスラエルは、この土地の考古学、遺物、歴史を守る責任があると感じています」と彼は言う。
-しかし、イスラエル現政権の極右メンバーの間では、これをさらに推し進めようとする動きもある。
-今年初めに、軍事権限の下で運営されている民政局からイスラエル文化遺産省に考古学遺跡の管理を移管し、ヨルダン川西岸全域の考古学的保存のための土地を接収する広範な権限を同省に与える新法が提案された。
-同法案は5月に議会で第一読会を通過したが、選挙が近づいているため現在は保留されている。二度と現れないかもしれない。
-セバスティアに戻ったイスラエルの活動家アロン・アラドは、この法案が提出されたという事実そのものが、ヨルダン川西岸で考古学そのものがいかに武器化されてきたかを示していると語る。
-「これがまさにこのメカニズムの仕組みだ。考古学は発掘調査や物語の改変、歴史の書き換えを行うために利用されるだけでなく、土地を割り当てたり、パレスチナ人からイスラエル人に土地を再配分したりするためにも利用する」と彼は警告する。
-セバスティアのパレスチナ住民は、遺跡との密接なつながりが失われる危険があると懸念するようになっている。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-08T23:43:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b5/live/810aa740-917b-11f1-b8ee-9b3c26ad07bb.jpg",
-    readTime: 7,
-  },
-  {
-    id: "hormuz-talks-positive-oman-says-as-iran-0d8d4335",
-    title: "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-    titleJa: "イランが合意は海峡開放にはならないと警告、ホルムズは前向きに語るとオマーンが表明",
-    summaryJa: "イランが合意は海峡開放にはならないと警告、ホルムズは前向きに語るとオマーンが表明- 公開されました",
-    bodyOriginal: `Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- Published
-Oman has said positive talks have been taking place with Iran over an agreement to secure a shipping route through the Strait of Hormuz, as Tehran warned that any deal would not see an immediate reopening of the vital waterway.
-Both sides suggested on Saturday that discussions were progressing, but a timeline on any deal being finalised remained unclear. Oman's foreign ministry warned against attacks on shipping that could hamper that.
-Iranian Foreign Minister Abbas Araghchi said talks were in their final stages but the reopening of the strait remained "subject to other conditions".
-Tehran has effectively blockaded the waterway, through which around a fifth of the world's oil and natural gas usually flows, since the US and Israel began attacking it in February.
-Talks in recent days have focused on the possibility of a deal between Iran and Oman on a new route through the strait, which they would both have responsibility for and is hoped would lead to progress in resuming shipping traffic.
-But Araghchi said a full reopening of the typically busy maritime route depended on other conditions being met, of which he provided a cursory appraisal.
-He said the conditions included Iran receiving compensation from the US for what Tehran described as violations of the deal both sides signed in June to cease fighting and advance talks to end the war.
-That deal - called a Memorandum of Understanding (MoU) - quickly fell through, as did diplomatic talks, with tit-for-tat attacks resuming just days after it was signed.
-Separately, Mohammad Baqer Zolqadr, Iran's security chief, told the semi-official news agency Tasnim that the Strait of Hormuz would not reopen until the US "corrects" its behaviour.
-He said the US needed to meet six Iranian demands, including a halt to threats against Iran, removal of its naval blockade of Iranian ports and release of Iran's frozen assets.
-Another blockade, on Saudi Arabia's ports in the Red Sea, had been imposed by Yemen's Iran-backed Houthis since 20 July.
-Earlier this week, US President Donald Trump said a deal with Iran "could be soon", but Vice-President JD Vance appeared to be more sceptical on Saturday, telling Fox News that work remained to be done even if progress was being made.
-"We're really in the middle of the game here," he said. "This thing is not over."
-Vance added that "we're applying a whole host of tools - diplomatic, economic [and] military tools - to ensure that we get the best outcome for the American people".
-Additionally, he claimed that the "same amount of oil" will emerge from the Gulf as did before the US military operation began on 28 February, although he offered no details.
-"What we're really working through now is how you can actually set up a traffic scheme so that the ships can pass through safely," he added.
-One of the main points of disagreement between Tehran and Washington has been Iran's reported threat to impose a fee on vessels wishing to cross the strait.
-Reuters - citing an Iranian official - previously reported that Tehran was seeking fees of between 5% and 7% of the price of cargoes from vessels who travel through it.
-Vance downplayed those reports, saying: "The Iranians have told us they have no plans to toll the Strait of Hormuz."
-Oman's warning against attacks on ships in the strait came as the United Arab Emirates (UAE) said on Saturday that Iran had targeted a tanker affiliated with Adnoc, its state-owned oil company, as it passed through.
-The UAE's foreign ministry said in a statement that a "hostile Iranian attack" had hit an Adnoc tanker "with a missile". It added that there were no casualties.
-Later on Saturday, the UK Maritime Trade Operations (UKMTO) agency also reported a ship being struck by "an unknown projectile" off the coast of Oman, causing "a fire that has been extinguished" but no casualties.
-It is unclear whether UKMTO was referring to the same ship as the UAE.
-Related topics
-- Published3 days ago
-- Published4 days ago`,
-    bodyJa: `イランが合意は海峡開放にはならないと警告、ホルムズは前向きに語るとオマーンが表明
-- 公開されました
-オマーンは、ホルムズ海峡を通る航路を確保する合意をめぐってイランと前向きな協議が行われていると述べたが、イラン政府は、いかなる合意によっても重要な水路の即時再開は見込めないと警告した。
-双方は土曜日、協議が進展していることを示唆したが、合意がまとまるまでのスケジュールは依然として不透明なままだった。オマーン外務省は、それを妨げる可能性のある船舶への攻撃に対して警告した。
-イランのアッバス・アラグチ外相は、交渉は最終段階にあるが、海峡の再開は依然として「他の条件次第」であると述べた。
-米国とイスラエルが２月に攻撃を開始して以来、イラン政府は通常、世界の石油と天然ガスの約５分の１が流れる水路を事実上封鎖している。
-ここ数日の協議では、イランとオマーンが海峡を通る新たな航路に関する合意の可能性に焦点が当てられており、両国が責任を負い、船舶航行再開の進展につながることが期待されている。
-しかし、アラグチ氏は、通常混雑する海路の完全な再開は他の条件が満たされるかどうかにかかっていると述べ、その条件について大まかな評価を示した。
-同氏は、その条件には、両国が6月に戦闘を停止し、戦争終結に向けた交渉を進めるために署名した合意に違反したとテヘランが表現したことについて、イランが米国から補償金を受け取ることが含まれていると述べた。
-覚書（MoU）と呼ばれるその協定は、外交交渉と同様にすぐに頓挫し、署名からわずか数日後に報復攻撃が再開された。
-これとは別に、イラン治安長官モハマド・バケル・ゾルカドル氏は、半国営通信社タスニムに対し、米国が行動を「正す」までホルムズ海峡は再開しないと語った。
-同氏は、米国はイランに対する威嚇の停止、イラン港湾の海上封鎖の解除、イランの凍結資産の解放などイランの６項目の要求に応える必要があると述べた。
-紅海にあるサウジアラビアの港では、7月20日以来、イエメンのイランが支援するフーシ派によって別の封鎖が課されていた。
-今週初め、ドナルド・トランプ米大統領はイランとの合意が「近いうちに実現する可能性がある」と述べたが、JD・バンス副大統領は土曜日、より懐疑的なようで、進展はあったとしても作業はまだ残されているとFOXニュースに語った。
-「我々はここで本当に試合の真っ最中だ」と彼は言った。 「この事はまだ終わっていない。」
-ヴァンス氏は、「アメリカ国民にとって最善の結果が得られるよう、外交、経済、軍事などあらゆる手段を駆使している」と付け加えた。
-さらに同氏は、2月28日に米軍作戦が開始される前と「同量の石油」が湾岸から出てくるだろうと主張したが、詳細は明らかにしなかった。
-「私たちが現在取り組んでいるのは、船舶が安全に通過できるように実際に交通計画をどのように設定できるかということです」と彼は付け加えた。
-イランと米国の間の主な意見の相違点の一つは、イランが海峡横断を希望する船舶に料金を課すという脅迫であると報じられている。
-ロイター通信はイラン当局者の話として、イラン政府が同国を航行する船舶に対し貨物価格の５％から７％の手数料を求めていると以前報じた。
-バンス氏はこれらの報道を軽視し、「イラン側はホルムズ海峡に通行料を投入する計画はないと我々に伝えている」と述べた。
-オマーンが海峡の船舶への攻撃に対する警告を発したのは、アラブ首長国連邦（UAE）が土曜日、イランが同国国営石油会社アドノック傘下のタンカーを通過中に標的にしたと発表したことを受けてのことだった。
-UAE外務省は声明で、「イランの敵対攻撃」によりアドノックタンカーが「ミサイル」で命中したと発表した。死傷者はいなかったと付け加えた。
-土曜日遅く、英国海事貿易業務局（UKMTO）もまた、オマーン沖で船舶が「未知の飛翔体」に衝突し、「火災は消火された」が死傷者は出なかったと報告した。
-UKMTOがUAEと同じ船について言及したかどうかは不明である。
-関連トピック
-- 3 日前に公開
-- 4 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-08T19:18:57+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92dc/live/fa229770-934a-11f1-a35f-039358cea467.jpg",
-    readTime: 4,
   },
 ];
 
