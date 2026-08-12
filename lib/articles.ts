@@ -15,6 +15,457 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "sen-darline-graham-advances-to-republica-1663ef2e",
+    title: "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
+    titleJa: "ダーリン・グラハム上院議員、サウスカロライナ州の共和党特別予備選決選投票に進出",
+    summaryJa: "ウィスコンシン、ミネソタ、サウスカロライナなどの州の有権者が2026年の中間選挙に先立って党の候補者を選ぶ中、全国各地で予備選挙の投票が締め切られ始めている。サウスカロライナ州では午後7時に投票が終了した。 ETは、共和党有権者が故リンジー・グラハム上院議員の後任の共和党候補者となる選択肢を狭めている。",
+    bodyOriginal: `Polls have begun closing in primary elections across the country, as voters in states such as Wisconsin, Minnesota and South Carolina pick their party's candidates ahead of the 2026 midterms.
+In South Carolina, polls closed at 7 p.m. ET as Republican voters narrow their choices to be the GOP nominee to succeed the late Sen. Lindsey Graham.
+Sen. Darline Graham, R-S.C., will advance to a runoff election for the nomination, according to the Associated Press. Graham was appointed to the Senate to fill her brother's seat for the remainder of his term, which ends in January, and was endorsed by President Donald Trump for a full term.
+Rep. Ralph Norman, R-S.C., will also advance to the runoff, setting up a showdown with Graham for the nomination later this year.
+In Minnesota and Wisconsin, polls are set to close at 9 p.m. ET. In both states, progressive Democrats are facing off with more moderate Democratic candidates — a crucial test as the party's left flank surges across the country.
+Progressive Lt. Gov. Peggy Flanagan is facing centrist Rep. Angie Craig, D-Minn., for the Democratic nomination for an open Senate seat in Minnesota. In Wisconsin, Democratic socialist Francesca Hong is the frontrunner to be the Democrats' gubernatorial nominee. Incumbent Wisconsin Gov. Tony Evers, who is retiring, has endorsed Milwaukee County Executive David Crowley to succeed him.
+This story is developing. Please check back for updates.`,
+    bodyJa: `ウィスコンシン、ミネソタ、サウスカロライナなどの州の有権者が2026年の中間選挙に先立って党の候補者を選ぶ中、全国各地で予備選挙の投票が締め切られ始めている。
+サウスカロライナ州では午後7時に投票が終了した。 ETは、共和党有権者が故リンジー・グラハム上院議員の後任の共和党候補者となる選択肢を狭めている。
+AP通信によると、ダーリン・グラハム上院議員（共和党、サウスカロライナ州）が指名争いの決選投票に進む予定だという。グラハム氏は、1月に終了する残りの任期を弟の議席を埋めるために上院議員に任命され、ドナルド・トランプ大統領から全任期の支持を得た。
+ラルフ・ノーマン下院議員（共和党、サウスカロライナ州）も決選投票に進み、今年後半の指名争いでグラハム氏との対決が予定されている。
+ミネソタ州とウィスコンシン州では午後９時に投票が終了する予定だ。 ET。両州では、進歩的な民主党員がより穏健派の民主党候補者と対峙しているが、党の左派勢力が全国的に拡大する中、重要な試練となっている。
+進歩派のペギー・フラナガン副知事は、ミネソタ州の上院空席の民主党候補指名を巡り、中道派のアンジー・クレイグ下院議員（民主党、ミネソタ州）と対戦している。ウィスコンシン州では、民主社会主義者のフランチェスカ・ホン氏が民主党の知事候補の最有力候補となっている。退任する現職のウィスコンシン州知事トニー・エヴァーズ氏は、後任としてミルウォーキー郡行政執行官デイビッド・クロウリー氏を支持した。
+この物語は発展中です。最新情報を再度ご確認ください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
+    publishedAt: "2026-08-12T01:26:46+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "evs-dominate-china-s-car-market-5-takeaw-9bcbf193",
+    title: "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
+    titleJa: "EV が中国の自動車市場を独占: 中国の最新の自動車販売データから得られる 5 つのポイント",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `BEIJING — Survivors have emerged in China's fiercely competitive car market, which is increasingly dominated by electric-powered vehicles.
+Here are brands that have emerged as Chinese consumers' favorite, according to industry data from Autohome:
+1. Geely ranks first
+Among the 10 most popular car models sold in China in the six months through July, Geely's Xingyuan electric hatchback was the bestseller with nearly 197,500 units sold.
+The price? Just under 100,000 yuan ($14,820).
+Geely has emerged as a close rival to BYD, ranking second by overall China sales volume in 2025. The Hangzhou-based company still sells gasoline-powered cars in addition to electric vehicles, such as those sold under its premium brand Zeekr.
+2. Tesla keeps selling
+The company's Model Y ranked second in popularity with more than 180,000 of the electric SUVs sold. The Tesla car comes at a steeper price tag of 263,500 yuan to 313,500 yuan, but that didn't stop it from topping sales of Li Auto's i6 SUV and Xiaomi's SU7 sedan.
+3. BYD barely makes top 5
+Three of the 10 best-selling cars, as per Autohome data from February through July, were from BYD. But the most popular one — a modestly priced Yuan UP SUV — just managed fifth place with nearly 97,700 units sold. In sixth place was the Ti 7 under BYD's off-road brand, followed by its Sealion 06 SUV.
+The Chinese car giant reported its passenger car sales dropped by more than 10% in the first half of the year.
+4. VW holds on
+The German automaker was the only traditional foreign car company to make the top 10 — with its compact gasoline-powered Lavida in ninth place, squeezed between Leapmotor's A10 electric SUV and Geely's gasoline-powered Boyue L SUV.
+5. Electric dominates
+New energy vehicles, which include battery and hybrid-powered cars, accounted for 65.1% of new passenger cars sold in July — up from 54% a year ago, according to China Passenger Car Association data released Tuesday.
+But the category still saw sales for the year through July drop by 12.5%, as passenger car sales overall tumbled by 20.3%, industry data showed.`,
+    bodyJa: `北京 — 電気自動車の優位性がますます高まる中国の熾烈な競争が続く自動車市場で、生き残りの勢力が現れている。
+Autohome の業界データによると、中国の消費者のお気に入りとして浮上したブランドは次のとおりです。
+1. 吉利汽車が1位
+7月までの6か月間で中国で販売された最も人気のある10車種の中で、吉利汽車の電気ハッチバック「星源」が約19万7500台を販売しベストセラーとなった。
+価格は？ 10万元（1万4820ドル）弱。
+吉利はBYDに迫るライバルとして浮上しており、2025年の中国全体の販売台数で第2位となっている。杭州に本拠を置く同社は、プレミアムブランド「Zeekr」などの電気自動車に加えて、依然としてガソリン車も販売している。
+2. テスラは売れ続ける
+同社のモデルYは、18万台以上の電動SUVが販売され、人気2位にランクされた。テスラ車の価格は26万3500元から31万3500元と高額だが、それでも李汽車のi6 SUVや小米科技のSU7セダンの売り上げを上回ることは止められなかった。
+3. BYDはかろうじてトップ5に入る
+Autohome の 2 月から 7 月のデータによると、最も売れた車 10 台のうち 3 台が BYD 製でした。しかし、最も人気のある車種、つまり手頃な価格の Yuan UP SUV は、約 97,700 台を販売し、5 位にとどまりました。 6位はBYDのオフロードブランドのTi 7、続いて同社のSUV「Sealion 06」だった。
+中国の自動車大手は、今年上半期の乗用車販売が10％以上減少したと報告した。
+4. VWは堅持
+ドイツの自動車メーカーは、トップ10に入った唯一の伝統的な外国自動車会社だった。コンパクトなガソリンエンジンのラヴィダは9位で、リープモーターの電気SUV「A10」と吉利のガソリンエンジンのボユエL SUVに挟まれた。
+5. 電気が支配する
+火曜日に発表された中国乗用車協会のデータによると、バッテリー車やハイブリッド車を含む新エネルギー車は、7月に販売された新車乗用車の65.1％を占め、前年同期の54％から増加した。
+しかし、業界データによると、乗用車販売全体が20.3％減少したため、このカテゴリーの7月までの年間売上高は依然として12.5％減少した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
+    publishedAt: "2026-08-12T01:20:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "tokenomics-why-making-ai-pay-is-tricky-27e6f274",
+    title: "Tokenomics: Why making AI pay is tricky",
+    titleJa: "トケノミクス: AI に支払いをさせるのが難しい理由",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.AIエージェントの雇用を増やすことはボタンをクリックするだけでできるが、人間の労働力を拡大するには人員数や採用について慎重な議論が必要になる、と同氏は言う。",
+    bodyOriginal: `Tokenomics: Why making AI pay is tricky
+- Published
+If you have used a free version of ChatGPT or any of its AI rivals, then you are obviously getting a good deal.
+Firms like Microsoft, Google and Anthropic have invested hundreds of billions of dollars in developing Large Language Models (LLMs) the tech behind those services.
+So getting ChatGPT, Claude or Gemini to help with your speech or holiday plans is a bargain.
+But, naturally, those firms want to recoup their investment, so they offer paid-for versions of their AI, which have extra features for tasks like coding or billing.
+Meanwhile, third party firms are building and selling services based on AI agents, usually based on an LLM, which are trained to do specific tasks.
+But setting a price for those services is surprisingly difficult.
+"Trying to tie someone into a cost model for the next 12 months, two years, three years, it doesn't make any sense, honestly, because we don't know," says Simon Gooch at Saviynt, an identity management company which is incorporating agentic AI into its services.
+That's because of rapidly changing economics around tokens, the building blocks of LLMs and agentic AI.
+When a user asks an LLM, like ChatGPT or Anthropic's Claude to answer a question, generate software code, or automate a process, that prompt is broken down into mathematical chunks called tokens, which can be processed by the model.
+The LLM's response also comes in the form of tokens, which are converted back into text, software code, or a set of commands to automate a process.
+The problem is this process is not entirely predictable.
+Subtle variations in the prompt can produce different answers. The same prompt will not always produce the same answer. Different models will produce different answers.
+Meanwhile, in agentic systems, businesses use multiple AI agents together to make decisions and take actions, further increasing both token use and unpredictability.
+While the cost of individual tokens – or the credits used to pay for them - has plummeted in recent years, according to analysis by Goldman Sachs, the number of tokens consumed by businesses, and consumers, has skyrocketed.
+The bank forecasts that, external token consumption will increase 24 times between 2026 and 2030 to 120 quadrillion tokens a month, as companies shift to use AI agents.
+But companies, and individuals, using AI systems often have a tenuous grasp on just how many tokens they are burning through – until they either run out or get their monthly bill.
+Even Microsoft has reportedly reined back, external its engineers' use of some third party coding tools, while Uber apparently tore through, external its AI coding token budget for a year in a matter of months earlier this year.
+Will Venters, associate professor of Digital Innovation and Information Systems at the London School of Economics, said companies can be caught out as they experiment with or implement AI internally, as staff burn through tokens.
+"People are finding it really hard to manage that cost… it's a non-deterministic output, so it's a non-deterministic value," he said.
+Companies are finding ways to work around this.
+Oliver King-Smith, founder of engineering software firm smartR AI, says smaller organisations "can fly under the radar and use [flat fee] personal accounts which I am sure the big vendors don't like".
+But, he says: "This has to end at some point in time, because the big guys are taking a bath on those accounts."
+Once the big AI platforms start facing pressure from shareholders to show a profit, he predicts: "They will start clamping down."
+King-Smith says companies should also think more carefully about what AI models to use.
+Companies also needed to be much more precise with their prompts, says Rob Steele, CFO at UK accounting software firm iplicit.
+"You wouldn't send someone in your family out to get the weekly shop without any kind of detailed instructions as to what you expect in that shopping basket, right?"
+The situation can become difficult to control when companies build AI into a product that could be rolled out to thousands of users, Venters points out.
+AI costs could start to balloon. For example, managers may realise they need tokens not just for core software development, but for other tasks such as testing, security, or for implementing guard rails.
+"It's particularly hard when you're looking at agentic processes," Ventners says.
+Employing more AI agents can be done with the click of a button, whereas expanding the human workforce would involve careful discussions over headcount and hiring, he says.
+Venters points out, while token costs might be unpredictable, it might be that the company is ultimately getting more value from their token use with AI.
+"It's not quite the same as a calculator," he says. "The more you give it, the more expensive it is, but the better the result may be."
+But companies still need to pass those costs onto their own customers.
+"Nobody's really figured it out," says Bill Peterson, senior director of product marketing, at Sumo Logic.
+The software firm is previewing new security services based on agentic AI, he explains, but is in discussion with corporate customers about how to charge for them.
+"We're still having some fun conversations about this internally," he says drily.
+Options could include simply raising prices across the board, he says, paying by results, or charging for "bundles" of incidents.
+But whatever price structure it chooses could be upended if and when the large language model providers change their own pricing strategies.
+"You get into variable pricing, and it's changing every couple of months" he says. "Customers don't like that. That's not how anybody builds a budget."
+More Technology of Business
+- Published12 June
+- Published5 June
+- Published9 June`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+AIエージェントの雇用を増やすことはボタンをクリックするだけでできるが、人間の労働力を拡大するには人員数や採用について慎重な議論が必要になる、と同氏は言う。
+ヴェンターズ氏は、トークンのコストは予測できないかもしれないが、最終的には同社がAIを使ったトークンの利用からより多くの価値を得ている可能性があると指摘する。
+「それは電卓とまったく同じではありません」と彼は言います。 「多く与えれば与えるほど高価になりますが、より良い結果が得られる可能性があります。」
+しかし、企業は依然としてそれらのコストを自社の顧客に転嫁する必要があります。
+「誰もそれを本当に理解していませんでした」と Sumo Logic の製品マーケティング担当シニア ディレクターである Bill Peterson 氏は言います。
+同氏の説明によると、このソフトウェア会社はエージェントAIをベースにした新しいセキュリティサービスをプレビューしているが、その料金をどのように請求するかについて法人顧客と話し合っているところだという。
+「これについては社内でまだ楽しい会話をしています」と彼は辛辣に言う。
+同氏によると、オプションとしては、単純に一律に価格を引き上げたり、結果に応じて支払うことや、インシデントの「バンドル」に対して課金することなどが考えられるという。
+しかし、大規模な言語モデルプロバイダーが独自の価格戦略を変更した場合、どのような価格構造を選択しても、その価格構造が覆される可能性があります。
+「変動価格制になり、数か月ごとに価格が変わります」と彼は言います。 「顧客はそれを好まないのです。誰でもそうやって予算を立てるわけではありません。」
+ビジネスのさらなるテクノロジー
+- 6 月 12 日発行
+- 6 月 5 日発行
+- 6 月 9 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-11T23:03:52+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae1d/live/13ce3de0-79de-11f1-a627-714adb4eed6e.jpg",
+    readTime: 2,
+  },
+  {
+    id: "first-pounds-for-pylons-energy-bill-disc-ea7a44af",
+    title: "First 'pounds for pylons' energy bill discount sites revealed",
+    titleJa: "「パイロンにポンド」の光熱費割引サイトが初公開",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `First 'pounds for pylons' energy bill discount sites revealed
+- Published
+The first locations where households living close to new upgraded electricity pylons and substations will receive a £250 year discount on their bills have been revealed.
+Customers living within 1600ft (500m) of 43 transmission projects across Britain will be eligible for the payments for up to 10 years under the bill discount scheme, sometimes dubbed "pounds for pylons".
+UK ministers say replacing and upgrading decades-old infrastructure is vital for distributing renewable power and improving energy security.
+Critics, however, argue the discounts are meagre compensation for the impact on their homes, neighbourhoods, and the environment.
+About two-thirds of the projects are in Scotland, to support the fast-growing wind energy sector.
+But major upgrades are also planned across Britain, including areas north of London, as well as East Anglia, the Midlands, and North Wales.
+UK Energy Minister Michael Shanks said upgrading the grid is "a vital part of how we deliver secure, homegrown energy and unlock economic growth across the country."
+He added: "It is a moment of national renewal – upgrading what was built largely in the 1960s for the modern age and is our route to bringing down electricity bills for households across the country.
+"It's vital we build again as a country and we are determined those communities which host pylons should benefit, which is why we're bringing down the energy bills of those hosting this vital national infrastructure."
+The Department for Energy Security and Net Zero says Britain's electricity grid was largely designed for an era when power came from coal and gas-fired power stations, and now needs major upgrades to cope with growing amounts of renewable energy.
+Ministers say the lack of capacity means some wind farms are sometimes paid to switch off because there is not enough network infrastructure available to carry the electricity to homes and businesses that need it.
+Approximately 80p a year will be added to all energy bills to fund the discount scheme.
+Most households that qualify will receive the discount automatically on their electricity bill every six months although some, such as those on commercial meters, may need to apply.
+The first payments will start early next year, when eligible customers will receive more information from their supplier or the energy regulator Ofgem.
+An assessment earlier this year estimated that between 120,000 and 160,000 households could eventually receive the discounts as more projects are rolled out.
+Rural campaign groups argue it is impossible to put a price on the loss of landscapes, and some residents living close to proposed projects say the money being offered is an insult.
+Kate Matthews of the Save Our Mearns campaign group, fighting plans for upgraded pylons in north-east Scotland including the Kintore to Tealing project, said the discount scheme was an insult.
+She said: "£2,500 off electricity bills over 10 years is a slap in the face for residents facing ruined businesses and unsellable homes.
+"This government is either massively out of touch or is showing their contempt for affected residents and energy consumers."
+Matthews said the plans had already caused "mental anguish" for residents who now faced a decade of development that would lead to noise, road closures, and heavy traffic.
+"Then a lifetime of pylons impacting on their environment, agriculture, tourism, property values, physical and visual amenity to name a few," she added.
+The size of the pylons will vary depending on location and purpose, but in north east Scotland some the proposed latticed structures are about 187ft (57m) tall.
+They would be similar in appearance to the already upgraded line running from Beauly to Denny where the pylons range from 138ft (42m) to 213ft (65m).
+Many of projects involve a mix of underground and pylon supported cables, as well as sub-stations, converter stations, and equipment used in electricity transmission.
+Campaigners have called for greater sections of the network to be "undergrounded".
+But National Grid and transmission companies argue this would be significantly more expensive and make it harder to carry out repairs.
+Related topics
+- Published20 January 2025
+- Published3 February 2025
+- Published10 March 2025`,
+    bodyJa: `「パイロンにポンド」の光熱費割引サイトが初公開
+- 公開されました
+新しく改良された送電塔や変電所の近くに住む世帯が、年間250ポンドの請求書割引を受ける最初の場所が明らかになった。
+英国全土の43の送電プロジェクトから1600フィート（500メートル）以内に住む顧客は、「鉄塔のポンド」とも呼ばれる料金割引制度に基づいて最長10年間の支払いを受ける資格がある。
+英国の閣僚らは、再生可能電力の供給とエネルギー安全保障の向上には、数十年前のインフラの交換と更新が不可欠だと述べている。
+しかし、批評家は、割引は自宅、近隣地域、環境への影響に対するわずかな補償であると主張している。
+プロジェクトの約 3 分の 2 はスコットランドで行われ、急成長する風力エネルギー部門をサポートしています。
+しかし、ロンドン北部の地域やイースト・アングリア、ミッドランド、ノースウェールズなど英国全土でも大規模な改修が計画されている。
+英国のマイケル・シャンクス・エネルギー大臣は、送電網のアップグレードは「安全な国産エネルギーを供給し、国全体の経済成長を引き出す上で極めて重要な部分」であると述べた。
+同氏はさらに、「これは国家再生の瞬間であり、主に1960年代に建設されたものを現代に合わせてアップグレードすることであり、全国の家庭の電気料金を下げるための私たちのルートである」と付け加えた。
+「国として再建することが極めて重要であり、鉄塔が設置されている地域社会が恩恵を受けると私たちは決意している。そのため、この重要な国家インフラを設置している地域のエネルギー料金を削減しているのである。」
+エネルギー安全保障・ネットゼロ省は、英国の電力網は主に石炭火力発電所やガス火力発電所から電力が供給されていた時代に向けて設計されており、現在は再生可能エネルギーの増加に対応するために大幅な改修が必要であると述べている。
+大臣らは、電力を必要とする家庭や企業に電力を供給するのに十分なネットワークインフラがないため、容量不足により、一部の風力発電所が電気を停止するためにお金を支払われることがあるということを意味していると述べている。
+割引制度の資金として、年間約 80 ペンスがすべての光熱費に加算されます。
+対象となるほとんどの世帯では、6 か月ごとに電気料金の割引が自動的に適用されますが、商用メーターなど一部の世帯では適用が必要な場合があります。
+最初の支払いは来年初めに開始され、対象となる顧客はサプライヤーまたはエネルギー規制当局のOfgemから詳細情報を受け取ることになる。
+今年初めの評価では、より多くのプロジェクトが展開されるにつれて、最終的には12万から16万世帯が割引を受けられる可能性があると推定されている。
+地方の運動団体は、景観の損失に代償を払うことは不可能だと主張しており、提案されたプロジェクトの近くに住む一部の住民は、提供される金銭は侮辱であると主張している。
+キントレからティーリングへのプロジェクトを含むスコットランド北東部の鉄塔更新計画と闘っている「セーブ・アワー・ミアーンズ」キャンペーングループのケイト・マシューズ氏は、割引制度は侮辱だと述べた。
+彼女は、「10年間で2,500ポンドの電気代割引は、廃墟になった事業や売れない家に直面している住民にとっては痛手だ。
+「この政府はまったく連絡が取れていないか、影響を受けた住民やエネルギー消費者を軽蔑しているかのどちらかです。」
+マシューズ氏は、この計画はすでに住民に「精神的苦痛」を引き起こしており、住民は10年に渡る開発に直面しており、騒音や道路閉鎖、交通渋滞を引き起こすと述べた。
+「その後、パイロンが一生にわたって環境、農業、観光、資産価値、物理的および視覚的な快適さなどに影響を及ぼします」と彼女は付け加えた。
+パイロンのサイズは場所や目的によって異なりますが、スコットランド北東部では提案されている格子状の構造物の高さは約 187 フィート (57 m) のものもあります。
+これらは、パイロンの高さが 138 フィート (42 メートル) から 213 フィート (65 メートル) の範囲にあるビューリーからデニーまでの既にアップグレードされた路線と外観が似ています。
+プロジェクトの多くには、地下ケーブルと鉄塔で支えられたケーブル、変電所、変電所、送電に使用される機器が混在しています。
+活動家らは、ネットワークのより多くのセクションを「地下化」するよう求めている。
+しかし、ナショナルグリッドと送電会社は、これにより費用が大幅に高くなり、修理の実施が困難になると主張している。
+関連トピック
+- 2025 年 1 月 20 日発行
+- 2025 年 2 月 3 日発行
+- 2025 年 3 月 10 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-11T23:03:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc1/live/a81a4a70-959f-11f1-870d-5d08c49babb2.jpg",
+    readTime: 5,
+  },
+  {
+    id: "sun-tanned-cauliflowers-and-knobbly-spud-c72cc0ac",
+    title: "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+    titleJa: "日に焼けたカリフラワーとこぶのあるスパッド - 熱波にぴったりの野菜",
+    summaryJa: "日に焼けたカリフラワーとこぶのあるスパッド - 熱波にぴったりの野菜- 公開されました",
+    bodyOriginal: `Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat
+- Published
+Would you buy a cauliflower that looks like it's been sunburnt or a cucumber that's curled back on itself?
+Farmers across the UK are grappling with one of the driest, hottest growing seasons in decades. Repeated heatwaves after a warmer than usual spring have led to predictions of the worst harvest since records began.
+The heat is not only affecting how much produce is grown, but also how it looks.
+Retailers usually reject fruit and vegetables that don't meet strict guidelines on size, shape and colour. But with supplies under pressure, many are now expected to loosen those rules rather than risk empty shelves.
+That means shoppers could start seeing smaller, wonkier or oddly coloured veg on the shelves in the coming weeks - and sellers and growers say it's still good to eat.
+'Sun-tanned' cauliflowers
+Cauliflower is one of the most affected vegetables in hot weather because it needs lots of water.
+Its heads are usually shielded from sunlight by the leaves, but in this year more light is reaching them and turning them yellow.
+Emilie Vanpoperingh, co-founder of Oddbox, a subscription company that sells surplus produce that supermarkets reject, said it is "purely a cosmetic defect" and the plants taste exactly the same.
+She said Oddbox acquired 6,000 cauliflower heads last week that were too dark for supermarkets to sell.
+Growers are reporting that their water reserves are depleted, Vanpoperingh said, which means the cauliflower and broccoli family of brassicas will experience slower growth, leading to shorter supplies.
+That short supply means retailers may soon start stocking "sun-tanned" cauliflower because "their biggest nightmare is empty shelves", she said. "They want to make sure that they've got availability of produce all the time."
+Curly cucumbers
+Growers are also reporting cucumbers that are coming out misshapen, with some bending back into a spiral.
+That is because the plants are grown in greenhouses which overheat in the high outdoor temperatures, causing the plants to become stressed, Vanpoperingh said.
+"Even if they get the irrigation then it's just extreme heat, which means the plant is not able to grow anymore."
+Holey pak choi
+John Harper, a farmer in Worcestershire, grows pak choi for Sainsbury's, Aldi and Co-op, and has discarded more produce than usual this year because of tiny holes made by pests.
+Flea beetles thrive in hot, dry conditions, and farmers are no longer allowed to use as many pesticides as before, meaning net covers are Harper's only defence.
+Supermarkets' strict cosmetic rules mean "one tiny little hole can render the plant useless", he said, but some have temporarily loosened the rules.
+"We've been working with them through this hot period and in general they sort of get it," he added.
+Harper said the vast majority of affected pak choi is still edible - even if "it seems to be quite tasty" for the beetles too.
+Knobbly potatoes
+Lucy Munns, a potato farmer in Cambridgeshire, said the hot weather will stunt the root vegetable's growth, leading to oddly shaped tubers that supermarkets and chip shops, which she supplies, wouldn't normally buy.
+When the weather gets cooler after a hot period, instead of the main potato tuber growing "it tends to grow a little knobble on the end".
+"Trying to find people that will accept potatoes like that is very difficult. So that ultimately means a lot of wastage for us," Munns added.
+"It's criminal, to be honest, to be chucking that much food away."
+Those "knobbly and misshapen potatoes" however are absolutely fine to eat, she said.
+"The only difficulty is peeling them, but just cut the knobbly bit off and peel it separately."
+'A challenging period'
+Supermarkets including Sainsbury's, Tesco, Morrisons and Waitrose already have dedicated lines for wonky vegetables.
+Calum Kelly, Waitrose's produce technical manager, said in demanding weather conditions "we relax size and shape guidelines for key veg to avoid waste and provide more income to our growers and farmers".
+"Baking potatoes might be a little smaller than usual this harvest if the drought continues. All these veg still taste great, but like many of us in a heatwave, they might just look a little less than perfect."
+Not every gap can be filled this way though. Andrew Opie, the director of food and sustainability at the British Retail Consortium, said supermarkets are also importing more food from abroad as UK supplies run short.
+"Retailers face the dilemma of supporting British farmers, but also making sure that we, as customers, have what we expect to buy when we go in the shop," he said.
+"It's going to be a challenging period right through into the autumn. We're hearing potentially it could affect things like cherries as well."
+British summers are getting hotter and drier as the climate changes and heatwaves like this one are becoming more frequent.
+That means a season like this one may become less of a one-off, and more of a preview of what British farming has to deal with regularly.
+Many farmers will either have to accept more waste, invest in better irrigation and water storage systems, or find a way to sell more wonky produce to consumers.
+Munns, the potato farmer, said more people should try buying imperfect veg if they see it in the supermarket aisle this year.
+People should "be a bit less picky" about fresh produce, she said. "We've been too spoilt in the UK … In other less fortunate countries we wouldn't have a choice."
+Related topics
+- Published5 days ago
+- Published4 August`,
+    bodyJa: `日に焼けたカリフラワーとこぶのあるスパッド - 熱波にぴったりの野菜
+- 公開されました
+日焼けしたようなカリフラワーと反り返ったキュウリを買いますか?
+英国中の農家は、ここ数十年で最も乾燥し、最も暑い生育期の一つに直面している。例年より暖かい春の後に繰り返される熱波により、記録が始まって以来最悪の収穫が予測されている。
+暑さは農作物の生育量だけでなく、見た目にも影響を及ぼします。
+小売業者は通常、サイズ、形、色に関する厳格なガイドラインを満たさない果物や野菜を拒否します。しかし、供給が逼迫しているため、多くの企業は現在、棚が空になる危険を冒すよりも、こうした規則を緩和することが期待されている。
+つまり、買い物客は今後数週間のうちに、より小さく、奇抜で、奇妙な色の野菜が棚に並び始める可能性があるが、販売者や生産者はまだ食べられると主張している。
+「日焼けした」カリフラワー
+カリフラワーは大量の水を必要とするため、暑い季節に最も影響を受ける野菜の1つです。
+通常、頭は葉によって日光から守られていますが、今年はより多くの光が届き、頭が黄色に変わります。
+スーパーマーケットが拒否した余剰農産物を販売するサブスクリプション会社オッドボックスの共同創設者、エミリー・ヴァンポペリング氏は、これは「純粋に表面上の欠陥」であり、植物の味は全く同じだと述べた。
+彼女は、オッドボックスが先週、スーパーマーケットで販売するには暗すぎるカリフラワーの穂6,000個を入手したと述べた。
+ヴァンポペリング氏は、生産者らは水資源が枯渇していると報告しており、これはアブラナ科のカリフラワーやブロッコリーの成長が遅くなり、供給不足につながることを意味すると述べた。
+この供給不足は、小売業者が近いうちに「日焼けした」カリフラワーを在庫し始める可能性があることを意味している、なぜなら「小売業者にとって最大の悪夢は空の棚だから」と彼女は言う。 「彼らは農産物を常に入手できるようにしたいのです。」
+縮れたキュウリ
+生産者らはまた、キュウリの形が崩れており、中にはらせん状に曲がっているものも報告している。
+ヴァンポペリング氏によると、植物は温室で栽培されているため、高い屋外温度で過熱し、植物にストレスを与えているからだという。
+「たとえ灌漑ができたとしても、それはただの猛暑であり、植物はもう成長できないことを意味します。」
+穴あきチンゲン菜
+ウスターシャー州の農家、ジョン・ハーパーさんはセインズベリーズ、アルディ、生協向けにチンゲン菜を栽培しているが、今年は害虫によって開けられた小さな穴のため、例年よりも多くの農作物を廃棄した。
+ノミハムシは高温で乾燥した条件で繁殖し、農家は以前ほど多くの殺虫剤を使用することができなくなりました。つまり、ネットカバーがハーパーの唯一の防御策であることを意味します。
+同氏によると、スーパーマーケットの厳格な化粧品規制は「小さな穴が一つでも植物が役に立たなくなる可能性がある」ことを意味しているが、一部のスーパーマーケットでは一時的に規制を緩和しているところもあるという。
+「私たちはこの暑い時期を通じて彼らと協力してきましたが、彼らは概してそれをある程度理解しています」と彼は付け加えた。
+ハーパー氏は、たとえカブトムシにとっても「かなりおいしいようだ」としても、影響を受けたチンゲン菜の大部分はまだ食用であると述べた。
+こぶ状のジャガイモ
+ケンブリッジシャーのジャガイモ農家ルーシー・マンズさんは、暑い気候が根菜の成長を妨げ、彼女が供給しているスーパーマーケットやポテトチップス店が通常は購入しないような奇妙な形の塊茎を生むだろうと語った。
+暑い時期が終わり涼しくなると、ジャガイモ塊茎が成長するのではなく、「端の小さなコブが成長する傾向があります」。
+「そのようなジャガイモを受け入れてくれる人を見つけるのは非常に難しい。したがって、それは最終的には私たちにとって多くの無駄を意味する」とマンズ氏は付け加えた。
+「正直に言うと、あれだけの食べ物を捨てるのは犯罪です。」
+しかし、それらの「こぶで変形したジャガイモ」は食べてもまったく問題ない、と彼女は言う。
+「皮をむくのが唯一の難点ですが、こぶ状の部分を切り落として、別々に剥いてください。」
+「挑戦的な時代」
+セインズベリーズ、テスコ、モリソンズ、ウェイトローズなどのスーパーマーケットには、すでに変な野菜の専用ラインが設けられている。
+ウェイトローズの農産物技術マネージャーのカラム・ケリー氏は、厳しい気象条件の中、「無駄を避け、生産者と農家により多くの収入を提供するために、主要な野菜のサイズと形状のガイドラインを緩和する」と述べた。
+「干ばつが続けば、今回のジャガイモの収穫量は例年より少し小さくなるかもしれません。これらの野菜はどれも美味しいですが、熱波に見舞われている私たちの多くと同じように、見た目が完璧とは少し違うかもしれません。」
+ただし、すべてのギャップをこの方法で埋めることができるわけではありません。英国小売コンソーシアムの食品・持続可能性担当ディレクター、アンドリュー・オピー氏は、英国の供給が不足する中、スーパーマーケットも海外からの食品の輸入を増やしていると述べた。
+「小売業者は、英国の農家を支援すると同時に、顧客である私たちが店に行ったときに買うと期待しているものが必ず揃っていることを確認するというジレンマに直面している」と同氏は語った。
+「秋まで厳しい時期が続くだろう。サクランボなどにも影響が出る可能性があると聞いている。」
+気候の変化に伴いイギリスの夏はますます暑く乾燥しており、今回のような熱波が頻繁に発生するようになっている。
+それは、今シーズンのようなシーズンが一時的なものではなく、英国の農業が定期的に直面しなければならないことの前兆となる可能性があることを意味する。
+多くの農家は、より多くの廃棄物を受け入れるか、より優れた灌漑と貯水システムに投資するか、より不安定な農作物を消費者に販売する方法を見つける必要があるだろう。
+ジャガイモ農家のマンズさんは、今年スーパーマーケットの通路で不完全な野菜を見つけたら、より多くの人がそれを買ってみるべきだと語った。
+人々は生鮮食品について「もう少し好き嫌いを減らす」べきだと彼女は言う。 「英国では甘やかされすぎた…他の恵まれない国では選択肢がなかっただろう。」
+関連トピック
+- 5 日前に公開
+- 8 月 4 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-11T23:00:26+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e9/live/85ef6870-9583-11f1-870d-5d08c49babb2.jpg",
+    readTime: 7,
+  },
+  {
+    id: "coreweave-stock-pops-14-as-revenue-doubl-40c1aa6b",
+    title: "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand",
+    titleJa: "AIインフラ需要の加速で収益が倍増、CoreWeaveの株価は14%急上昇",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `CoreWeave shares jumped 14% in extended trading on Tuesday after the AI infrastructure provider reported results than topped Wall Street expectations.
+Here's how the company did relative to LSEG consensus:
+- Earnings per share: Loss of $1.03 adjusted vs. loss of $1.20 expected
+- Revenue: $2.58 billion vs. $2.56 billion expected
+Revenue climbed 112% during the quarter from a year earlier, CoreWeave said in a statement. Net loss of $626 million increased from $290 million, or 60 cents per share, a year ago.
+The company's revenue backlog now stands at $104 billion, a figure that excludes over $25 billion in new commitments from the third quarter, and it boasted 1.5 gigawatts of active power.
+With respect to guidance, management called for $3.4 billion to $3.6 billion in third-quarter revenue, which would imply 158% growth at the middle of the range. Analysts polled by LSEG were looking for $3.43 billion.
+For 2026, CoreWeave now sees $960 million to $1.15 billion in adjusted operating income on $12.4 billion to $13.2 billion in revenue. Analysts surveyed by LSEG had expected $12.63 billion in full-year revenue. In May it was projecting $900 million to $1.1 billion in adjusted operating income on $12 billion to $13 billion in revenue.
+The company called for over 1.85 gigawatts in active power by year end, with $35 billion to $39 billion in annual capital expenditures. The forecast as of May included capital spending between $31 billion and $35 billion.
+The 8-year-old company has been racing cloud market leaders Amazon, Google and Microsoft to open data centers filled with chips that can run generative artificial intelligence models. Unlike them, CoreWeave isn't profitable. As of quarter end, CoreWeave had $35 billion in debt on its balance sheet to cover the cost of Nvidia graphics processing units and other equipment.
+Across the U.S., people have become more critical of data center construction. In July New York's governor, Kathy Hochul, signed an executive order establishing a moratorium on new large-scale data centers.
+"When we talk through the numbers with you guys, we're basing our progress on where we are today and what we have guided here," CEO Mike Intrator said on a conference call with analysts. "None of those numbers will be impacted by the regulatory pushback as of today."
+Still, the opposition isn't helping.
+"There is no question that when when parts of the U.S. become unwilling to even engage in those conversations, that it becomes more challenging," Intrator said in an interview with CNBC.
+CoreWeave it seeing favorable trends on renting Nvidia chips, Intrator said. "Pricing and margins for our Blackwell and Vera Rubin SKUs are setting new highs, while pricing for prior generation SKUs is at or above where it was years ago," he said.
+The company is passing component price hikes down to customers, said Nitin Agrawal, its finance chief.
+During the quarter, Meta said it would spend an additional $21 billion with CoreWeave, which also announced a multi-year agreement with Anthropic and a $6 billion commitment from quantitative trading firm Jane Street.
+Meanwhile, competition is ramping. SpaceX has begun selling excess computing capacity, and Meta has considered launching a cloud business. Rival Nebius gained 5% in extended trading.
+"Even with this increased competition, we're seeing demand, pricing and margin all expanding, which is a signal for the growth in the CoreWeave ... product, as well as our growth overall in an already massive TAM that exists," Agrawal said.
+As of Tuesday's close, CoreWeave shares had gained 26% year to date, while the S&P 500 was up almost 13%. The stock debuted on Nasdaq in March 2025.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+    publishedAt: "2026-08-11T22:51:06+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "tributes-to-co-founder-of-john-pye-aucti-4afbe908",
+    title: "Tributes to co-founder of John Pye auction house",
+    titleJa: "ジョン・パイ・オークションハウスの共同創設者に敬意を表して",
+    summaryJa: "ジョン・パイ・オークションハウスの共同創設者に敬意を表して- 公開されました",
+    bodyOriginal: `Tributes to co-founder of John Pye auction house
+- Published
+Tributes have been paid to the co-founder of an auction business which grew into an "industry leading company".
+John Pye Auctions said on Tuesday it was with "great sadness" it announced the death of co-founder John Pye at the age of 95.
+The company was founded by John and Ann Pye in 1968 as a partnership named 'Furniture & General Auctions' at Nottingham's old Cattle Market site.
+A statement issued by the firm said "John lived a fantastic life full of laughter and hard work", adding he had a legacy "which will live on forever".
+'Local legend'
+"He was immensely proud of what John Pye & Sons has become, which is thanks to his determination, vision and every single one of the extended John Pye family - his colleagues over all the years," the statement added.
+"He founded John Pye & Sons in 1968 with just a horse and cart, and lived to see a small business grow into a British industry leading company.
+"Those of you who knew him or met him will know of his larger than life character, and the positive and playful impact he had on those around him.
+"A true local legend."
+For the first two decades, the firm specialised in managing probate house clearances, cessation of business asset disposals and private chattels.
+In 1990, the company was incorporated as 'John Pye & Sons Limited' and relocated to larger premises at Banton House in Meadow Lane, near Notts County's stadium, to expand its client base in the East Midlands.
+It later acquired the former Shipstone's 'Star' Brewery site in New Basford in 1995 as the business grew in the 1990s, the company said.
+The company added it first moved from live traditional auctions to 24-hour timed auctions in 2007.
+In addition to the company's head office in Nottingham, it now has auction hubs across the country, including in Derby, Birmingham, Bo'ness and Margam, with a further site in Zaragoza, Spain.
+"On behalf of the Pye family, we would like to thank everyone for their kind words and support at this incredibly sad time.
+"He will be greatly missed by all of us," the statement from the firm added.
+Auctioneers see surge in Covid-19 bankruptcy sales
+- Published18 August 2020
+Related internet links
+Get in touch
+Tell us which stories we should cover in Nottingham
+Listen to BBC Radio Nottingham on Sounds and follow BBC Nottingham on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.`,
+    bodyJa: `ジョン・パイ・オークションハウスの共同創設者に敬意を表して
+- 公開されました
+「業界をリードする企業」に成長したオークション事業の共同創設者に敬意を表した。
+ジョン・パイ・オークションズは火曜日、共同創設者のジョン・パイ氏が95歳で死去したことを「大きな悲しみ」とともに発表したと述べた。
+同社は 1968 年にジョン パイとアン パイによって、ノッティンガムの古いキャトル マーケットの敷地で「家具 & 一般オークション」という名前のパートナーシップとして設立されました。
+同事務所が発表した声明では「ジョンは笑いと勤勉に満ちた素晴らしい人生を送った」とし、「永遠に残る」遺産があると付け加えた。
+「地元の伝説」
+「彼はジョン・パイ・アンド・サンズが今の姿になったことを非常に誇りに思っていた。それは彼の決意、ビジョン、そして長年にわたる彼の同僚であるジョン・パイ家族全員のおかげだ」と声明は付け加えた。
+「彼は 1968 年に馬車だけでジョン パイ & サンズを設立し、中小企業が英国の業界をリードする企業に成長するのを生きて見届けました。
+「彼を知っている人、あるいは彼に会ったことがある人は、彼の実物よりも大きな性格と、彼が周囲の人々に与えたポジティブで陽気な影響を知っているでしょう。
+「まさに地元の伝説です。」
+最初の 20 年間、当事務所は検認所の認可、事業資産の処分停止および私有財産の管理に特化していました。
+1990年、同社は「ジョン・パイ・アンド・サンズ・リミテッド」として法人化され、イースト・ミッドランズの顧客ベースを拡大するために、ノッツ郡のスタジアム近くのメドー・レーンのバントン・ハウスのより広い敷地に移転した。
+その後、1990年代に事業が成長するにつれて、1995年にニュー・バスフォードにあるシップストーンの「スター」醸造所の跡地を買収したと同社は述べた。
+同社は、2007年に従来のライブオークションから24時間時限オークションに初めて移行したと付け加えた。
+ノッティンガムの本社に加えて、現在ではダービー、バーミンガム、ボーネス、マーガムなど全国にオークションハブがあり、さらにスペインのサラゴサにもオークションハブがあります。
+「パイ家を代表して、この信じられないほど悲しい時期に優しい言葉と支援をくれた皆さんに感謝したいと思います。
+同社は声明で「私たち全員にとって彼がとても惜しまれることになるだろう」と付け加えた。
+競売人は新型コロナウイルス感染症による破産販売が急増していると見ている
+- 2020 年 8 月 18 日公開
+関連するインターネットリンク
+連絡する
+ノッティンガムで取り上げるべき記事を教えてください
+サウンドで BBC ラジオ ノッティンガムを聴き、Facebook (外部)、X (外部)、または Instagram (外部) で BBC ノッティンガムをフォローしてください。ストーリーのアイデアを eastmidsnews@bbc.co.uk (外部) または WhatsApp (外部 (0808 100 2210) 経由) に送信してください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-11T20:22:40+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18d0/live/ea163430-95bc-11f1-a556-013790f38050.jpg",
+    readTime: 3,
+  },
+  {
+    id: "longtime-openai-executive-brad-lightcap-4a9416b5",
+    title: "Longtime OpenAI executive Brad Lightcap leaves as shake-up at AI lab continues",
+    titleJa: "AI研究所の再編が続く中、長年OpenAI幹部を務めたブラッド・ライトキャップ氏が退社",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Longtime OpenAI executive Brad Lightcap announced his departure on Tuesday, the latest in a series of recent leadership shake-ups at the artificial intelligence company.
+Lightcap joined OpenAI in 2018 and held a number of senior leadership roles during his tenure, including a four-year stint as the company's operating chief. He served in that role until April, when he moved into a new position focused on "special projects." The company said at the time that Denise Dresser, OpenAI's chief revenue officer, would take over most of Lightcap's responsibilities.
+In a post on X on Tuesday, Lightcap said he is moving on from OpenAI to "start something new."
+"I feel incredibly fortunate to have spent most of the last decade pursuing our mission and building this company," Lightcap wrote. "Sitting here today, mission success feels within sight. It has been the honor of my life to help bring us to this point, and to do it alongside all of you."
+Lightcap's departure marks another key loss for OpenAI at a time when the company is trying to justify its $852 billion valuation and gear up for what's expected to be a monster initial public offering. Fidji Simo, who had been OpenAI's product and business chief, announced last month she was stepping down from her role at the company to focus on recovery after a "severe exacerbation of a chronic illness."
+Three other OpenAI execs announced their departures in April. They were Bill Peebles, who led OpenAI's defunct short-form video app Sora, Kevin Weil, the vice president of OpenAI for Science, and Srinivas Narayanan, tech chief of B2B Applications.
+Lightcap has been one of OpenAI CEO Sam Altman's closest confidantes since the early days of the company. The two worked together at the startup incubator Y Combinator, which Altman led prior to OpenAI.
+"i very fondly remember our earliest conversations about openai, when it sounded totally crazy and you were one of the few people that got it," Altman wrote in a post on X on Tuesday in response to Lightcap's announcement. "since then, you have taken on any function and challenge openai has needed; we would not be where we are without you."
+Over an 18-month stretch through mid-2025, Lightcap built OpenAI's go-to-market team from around 50 people to more than 700, which included sales reps and staffers focused on customer success, developer relations and strategic partnerships.
+That push started in 2023, with GPT-4 and the launch of ChatGPT Enterprise, as OpenAI tried to take its consumer success into the enterprise world to take on its rival Anthropic. Clients started coming in from every direction, Lightcap told CNBC in an interview about a year ago.
+"Among the most rewarding parts of this journey for me has been watching each of these teams mature under brilliant leaders," Lightcap wrote on Tuesday. "I am excited for the next decade in the hands of this incredibly capable team."
+WATCH: OpenAI, Anthropic agents participate in new ‘unsanctioned’ AI behavior`,
+    bodyJa: `OpenAIの長年の幹部であるブラッド・ライトキャップ氏は火曜日に辞任を発表したが、これは人工知能企業における最近の一連の経営陣刷新の最新のものである。
+ライトキャップ氏は 2018 年に OpenAI に入社し、在任中に同社の執行責任者としての 4 年間の任期を含む、数々の上級指導的役割を歴任しました。彼は4月までその役職を務め、その後「特別プロジェクト」に焦点を当てた新しい役職に移った。同社は当時、OpenAIの最高収益責任者であるデニス・ドレッサー氏がLightcapの責任の大部分を引き継ぐと発表していた。
+ライトキャップ氏は火曜日のXへの投稿で、「何か新しいことを始める」ためにOpenAIから移行すると述べた。
+ライトキャップ氏は、「過去10年間の大半を当社の使命の追求とこの会社の構築に費やできたことは、信じられないほど幸運だと感じている」と書いた。 「今日ここに座って、ミッションの成功が目前に迫っていると感じています。私たちをこの地点に導く手助けをし、皆さんと一緒にそれを達成できたことは私の人生の名誉でした。」
+OpenAIが8,520億ドルの評価額を正当化し、モンスター級の新規株式公開に向けて準備を進めている最中に、Lightcapの退任はOpenAIにとって新たな重大な損失となる。 OpenAIの製品およびビジネス責任者だったフィジー・シモ氏は先月、「慢性疾患の重度の悪化」からの回復に専念するため、同社での役職を辞任すると発表した。
+OpenAIの他の幹部3人も4月に退職を発表した。彼らは、OpenAIの消滅した短編ビデオアプリSoraを率いていたBill Peebles氏、OpenAI for Scienceの副社長であるKevin Weil氏、そしてB2B Applicationsの技術責任者であるSrinivas Narayanan氏である。
+Lightcap は、OpenAI CEO の Sam Altman の初期の頃からの最も親しい友人の 1 人です。 2人は、OpenAIの前にAltman氏が率いていたスタートアップインキュベーターY Combinatorで一緒に働いていた。
+「私たちがopenaiについて最初に交わした会話をとても懐かしく思い出します。そのとき、それは完全にクレイジーに聞こえましたが、あなたはそれを理解した数少ない人の一人でした」と、ライトキャップの発表に応えてアルトマン氏は火曜日のXへの投稿で書いた。 「それ以来、あなたはopenaiが必要とするあらゆる役割と挑戦を引き受けてきました。あなたなしでは私たちの今はありません。」
+Lightcap は、2025 年半ばまでの 18 か月をかけて、OpenAI の市場開拓チームを約 50 名から 700 名以上に増員しました。そのチームには、顧客の成功、開発者との関係、戦略的パートナーシップに重点を置いた営業担当者やスタッフが含まれていました。
+その推進は 2023 年に GPT-4 と ChatGPT Enterprise の立ち上げによって始まり、OpenAI は消費者の成功を企業の世界に持ち込んでライバルの Anthropic に対抗しようとしました。ライトキャップ氏は約1年前、CNBCのインタビューで、あらゆる方向から顧客が訪れるようになったと語った。
+ライトキャップ氏は火曜日、「私にとってこの旅の中で最もやりがいのあることは、各チームが優秀なリーダーの下で成長するのを見られたことだ」と書いた。 「この信じられないほど有能なチームの手で次の10年が始まることに興奮しています。」
+注目: OpenAI、Anthropic エージェントが新たな「認可されていない」AI の動作に参加`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/11/longtime-openai-executive-brad-lightcap-leaves-as-shakeup-at-ai-lab-continues.html",
+    publishedAt: "2026-08-11T19:41:17+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
     id: "u-s-oil-rises-above-83-a-barrel-as-iran-36906cfa",
     title: "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
     titleJa: "イランが条件が整うまでホルムズ海峡は開通しないと発言、米国産原油は1バレル＝83ドル超に上昇",
@@ -1420,286 +1871,6 @@ Trump's executive order comes as the U.S. logs its worst year for measles infect
     publishedAt: "2026-08-10T20:51:17+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "i-want-her-to-choose-the-best-strategy-e94279ba",
-    title: "‘I want her to choose the best strategy’: My wife’s Social Security is just $900. Should she claim spousal benefit at 62?",
-    titleJa: "「妻に最善の戦略を選んでほしい」: 妻の社会保障はわずか 900 ドルです。彼女は62歳になったら配偶者手当を請求すべきでしょうか？",
-    summaryJa: "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
-    bodyOriginal: `“She was a teacher at a school district, so didn’t put much into Social Security.”`,
-    bodyJa: `「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-    publishedAt: "2026-08-10T19:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-58838193",
-    readTime: 2,
-  },
-  {
-    id: "nvidia-teams-up-with-wall-street-asset-m-45f19a97",
-    title: "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push",
-    titleJa: "Nvidia、5,000億ドルのAIインフラ推進でウォール街の資産運用会社と提携",
-    summaryJa: "Nvidiaは人工知能インフラストラクチャに資金を提供するために5,000億ドルの取り組みでウォール街の最大手の資産管理会社のいくつかと協力していると、この件に詳しい関係者が月曜日にCNBCに語った。公に話す権限がないため匿名を条件に語った関係者によると、同社はアポロ・グローバル・マネジメント、ブラックストーン、ブラックロックのグローバル・インフラストラクチャー・パートナーズ部門、ブルックフィールド・アセット・マネジメント、ゴールドマン・サックス、KKRに資本パッケージの組み立てを依頼したという。",
-    bodyOriginal: `Nvidia is working with some of Wall Street's largest asset management firms on a $500 billion effort to finance artificial intelligence infrastructure, a person familiar with the matter told CNBC Monday.
-The chipmaker has enlisted Apollo Global Management, Blackstone, BlackRock's Global Infrastructure Partners unit, Brookfield Asset Management, Goldman Sachs and KKR to assemble the capital package, according to the person, who spoke on the condition of anonymity because they were not authorized to speak publicly.
-An announcement could be made as soon as Monday, the person said. The Financial Times first reported the deal.
-The move highlights the growing role of private capital in financing the costs of the artificial intelligence boom. For Nvidia, the effort could help its biggest customers secure the financing needed to buy its high-end GPUs, build power-hungry data centers and lock in long-term electricity capacity.
-Alternative asset managers have been eager to deploy capital into digital infrastructure, tapping institutional and insurance capital to finance projects. Apollo and Blackstone, among others, have already structured debt and equity financing for companies including Anthropic as AI companies deal with large capital expenditure requirements.
-Representatives for Nvidia, Apollo, Blackstone, Brookfield, BlackRock, Goldman Sachs and KKR did not immediately respond to requests for comment.
-This story is developing. Please check back for updates.`,
-    bodyJa: `Nvidiaは人工知能インフラストラクチャに資金を提供するために5,000億ドルの取り組みでウォール街の最大手の資産管理会社のいくつかと協力していると、この件に詳しい関係者が月曜日にCNBCに語った。
-公に話す権限がないため匿名を条件に語った関係者によると、同社はアポロ・グローバル・マネジメント、ブラックストーン、ブラックロックのグローバル・インフラストラクチャー・パートナーズ部門、ブルックフィールド・アセット・マネジメント、ゴールドマン・サックス、KKRに資本パッケージの組み立てを依頼したという。
-同関係者によると、早ければ月曜日にも発表される可能性があるという。この取引を最初に報じたのはフィナンシャル・タイムズ紙だった。
-この動きは、人工知能ブームの費用を賄う上で民間資本の役割が増大していることを浮き彫りにしている。 Nvidiaにとって、この取り組みは、最大の顧客がハイエンドGPUを購入し、電力を大量に消費するデータセンターを建設し、長期的な電力容量を確保するために必要な資金を確保するのに役立つ可能性がある。
-オルタナティブ資産運用会社はデジタルインフラに資金を投入することに熱心で、機関投資家や保険資本をプロジェクトの資金調達に活用している。 AI企業が多額の資本支出の必要性に対処する中、アポロ社やブラックストーン社などは、すでにアンスロピック社を含む企業向けに負債と株式による資金調達を組成している。
-Nvidia、Apollo、Blackstone、Brookfield、BlackRock、Goldman Sachs、KKRの代表者はコメント要請にすぐには応じていない。
-この物語は発展中です。最新情報を再度ご確認ください。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-    publishedAt: "2026-08-10T18:58:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "openai-expands-daybreak-cybersecurity-in-1782a671",
-    title: "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve",
-    titleJa: "AI エージェントの脅威が進化する中、OpenAI が Daybreak サイバーセキュリティ イニシアチブを拡大",
-    summaryJa: "OpenAIは月曜日、参加者が攻撃者から身を守るために必要な「適切な機能」にアクセスできるようにするため、同社独自のサイバーセキュリティイニシアチブであるDaybreakを拡大すると発表した。同社が初めて Daybreak を導入したのは 5 月で、主なライバルである Anthropic が Project Glasswing と呼ばれる独自のサイバーセキュリティ連合を立ち上げてウォール街と米国政府を魅了した直後でした。 OpenAI は、エコシステム パートナーが自社の最先端の人工知能モデルを使用して、急速に変化する脅威の状況に適応する方法として Daybreak を位置づけました。",
-    bodyOriginal: `OpenAI on Monday said it is expanding Daybreak, its exclusive cybersecurity initiative, to help give its participants access to the "right capabilities" that they need to help defend themselves from attackers.
-The company first introduced Daybreak in May, shortly after its chief rival Anthropic captivated Wall Street and the U.S. government by launching its own cybersecurity coalition called Project Glasswing. OpenAI positioned Daybreak as a way for its ecosystem partners to use its most advanced artificial intelligence models to adapt to a rapidly changing threat landscape.
-OpenAI said Monday that it is expanding the program to include two different access tiers: Daybreak Blue and Daybreak Red. The expansion follows a number of cybersecurity incidents that AI developers —including OpenAI, Anthropic and Meta — have disclosed in recent weeks. In each case, an AI model accessed systems that should have been off limits as part of cybersecurity testing, prompting industry researchers and government officials to call for stronger protections.
-"As the threat landscape evolves, we're putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensive AI at scale," OpenAI said in a post on X on Monday.
-Daybreak Blue will give users unique access to OpenAI's advanced general-purpose models, as the safeguards will be altered to allow for defensive security work, the company said in a blog post. Daybreak Red participants will be able to go a step further, leveraging OpenAI's "purpose-trained cybersecurity models" for security testing, vulnerability research and exploit validation.
-OpenAI is also launching a new AI model, GPT‑5.6‑Cyber, which will be available to Daybreak Red users. The company said the model is built on its most powerful publicly available offering, GPT-5.6 Sol, but it's designed to improve capabilities and reduce refusals on certain specialized cybersecurity tasks.
-The company said it recommends Daybreak Blue as the starting point for most organizations.
-OpenAI has repeatedly warned about AI models' advancing cyber capabilities in recent months. The company said last week that it is pausing some internal activities involving an upcoming model called Astra, which has demonstrated "significant advancements in agentic coding and cybersecurity" during testing.
-It said it is working to assess these capabilities and implement more robust safeguards and security controls.
-"We're committed to working alongside governments, safety institutes, and civil society to ensure that the frontier capabilities of models like Astra, and those that follow, are deployed responsibly and broadly for the benefit of all humanity," OpenAI said.
-WATCH: OpenAI, Anthropic agents participate in new ‘unsanctioned’ AI behavior`,
-    bodyJa: `OpenAIは月曜日、参加者が攻撃者から身を守るために必要な「適切な機能」にアクセスできるようにするため、同社独自のサイバーセキュリティイニシアチブであるDaybreakを拡大すると発表した。
-同社が初めて Daybreak を導入したのは 5 月で、主なライバルである Anthropic が Project Glasswing と呼ばれる独自のサイバーセキュリティ連合を立ち上げてウォール街と米国政府を魅了した直後でした。 OpenAI は、エコシステム パートナーが自社の最先端の人工知能モデルを使用して、急速に変化する脅威の状況に適応する方法として Daybreak を位置づけました。
-OpenAIは月曜日、プログラムを拡張してDaybreak BlueとDaybreak Redという2つの異なるアクセス層を含めると発表した。この拡張は、OpenAI、Anthropic、Meta などの AI 開発者がここ数週間で明らかにした多数のサイバーセキュリティ インシデントに続くものです。いずれの場合も、AIモデルがサイバーセキュリティテストの一環として立ち入り禁止であるはずのシステムにアクセスしており、業界研究者や政府関係者は保護の強化を求めている。
-「脅威の状況が進化する中、攻撃者が攻撃的なAIを大規模に導入する前に、私たちは最先端のインテリジェンスを信頼できる防御者の手に委ねている」とOpenAIは月曜日のXへの投稿で述べた。
-Daybreak Blue では、防御的なセキュリティ作業を可能にするために保護機能が変更されるため、ユーザーは OpenAI の高度な汎用モデルへの独自のアクセスが可能になる、と同社はブログ投稿で述べた。 Daybreak Red の参加者は、OpenAI の「目的に合わせてトレーニングされたサイバーセキュリティ モデル」をセキュリティ テスト、脆弱性調査、エクスプロイト検証に活用して、さらに一歩進めることができます。
-OpenAI は、Daybreak Red ユーザーが利用できる新しい AI モデル GPT‑5.6‑Cyber​​ もリリースします。同社によると、このモデルは最も強力な公開製品であるGPT-5.6 Solをベースに構築されているが、機能を向上させ、特定の特殊なサイバーセキュリティタスクの拒否を減らすように設計されているという。
-同社は、ほとんどの組織の出発点として Daybreak Blue を推奨していると述べた。
-OpenAIはここ数カ月間、AIモデルの進化するサイバー能力について繰り返し警告してきた。同社は先週、テスト中に「エージェントコーディングとサイバーセキュリティの大幅な進歩」が実証されたアストラと呼ばれる次期モデルに関わる一部の社内活動を一時停止すると発表した。
-これらの能力を評価し、より堅牢な安全対策とセキュリティ管理の導入に取り組んでいると述べた。
-OpenAIは「私たちは政府、安全機関、市民社会と協力して、アストラのようなモデルやそれに続くモデルの最先端の機能が全人類の利益のために責任を持って広く展開されるよう尽力する」と述べた。
-注目: OpenAI、Anthropic エージェントが新たな「認可されていない」AI の動作に参加`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/open-ai-daybreak-cybersecurity.html",
-    publishedAt: "2026-08-10T18:43:17+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "oil-in-u-s-strategic-petroleum-reserve-f-4c070962",
-    title: "Oil in U.S. Strategic Petroleum Reserve falls below 300 million barrels, lowest since 1983",
-    titleJa: "米国の戦略石油備蓄の原油が3億バレルを下回り、1983年以来最低となる",
-    summaryJa: "イラン戦争により世界の在庫が依然として圧迫されているため、米国の戦略石油備蓄の原油備蓄は3億バレルを下回り、40年以上で最低水準となった。エネルギー省が月曜日に発表したデータによると、SPRは先週610万バレル減の2億9,870万バレルとなった。 1975年に創設されたこの準備金は、1983年1月以来の最低水準にある。",
-    bodyOriginal: `Crude oil stockpiles in the U.S. Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level in more than four decades, as global inventories stay under pressure due to the Iran war.
-The SPR fell by 6.1 million barrels to 298.7 million barrels last week, according to data released by the Department of Energy on Monday. The reserve, created in 1975, is at its lowest level since January 1983.
-President Donald Trump ordered the release of 172 million barrels in March after Iran choked off oil exports through the Strait of Hormuz, triggering the largest disruption of crude oil supplies in history.
-The drawdown in the SPR, whose authorized storage capacity is 714 million barrels, has raised questions about whether U.S. government stockpiles are on the verge of depletion. The minimum amount of oil needed to safely operate the SPR is about 70 million barrels, an Energy Department spokesperson told CNBC in July.
-There is enough oil left in the SPR to do another release if needed, said David Goldwyn, who served as a State Department special envoy for international energy affairs under President Barack Obama.
-"I'm not worried about the stability of the reserve or our ability to do another drawdown, if we needed to," Goldwyn told CNBC.
-The SPR stood at around 415 million barrels before the U.S and Israel attacked Iran on Feb. 28. U.S. government stocks will fall to around 243 million barrels when the release Trump ordered is completed.
-The SPR's operational capability is at risk due to aging infrastructure, according to a May report from the Government Accountability Office. More than a quarter of its inventory was "not available for drawdown due to a combination of construction outages and cavern outages" as of December 2025, GAO investigators found.
-That implied that a minimum of 103 million barrels in the SPR today are not available for use, according to a July analysis by Rapidan Energy.
-"The SPR's drawdown, distribution and fill capabilities are currently limited and are at risk going forward due to longstanding issues with aging infrastructure compounded with ongoing major construction intended to address them," the GAO warned in the report.
-U.S. presidents have ordered massive releases from the SPR with growing frequency in recent years. President Joe Biden deployed 180 million barrels to address energy market volatility after Russia invaded Ukraine in early 2022. That was the largest release in the history of the SPR.
-The GAO described the release in response to the Ukraine war as an "unplanned stress test" for the SPR.
-"When you do a drawdown, then you accelerate kind of the degradation of the wells themselves and some of the equipment," Goldwyn said. "It's like anything else — you use it a lot, you have to maintain it."`,
-    bodyJa: `イラン戦争により世界の在庫が依然として圧迫されているため、米国の戦略石油備蓄の原油備蓄は3億バレルを下回り、40年以上で最低水準となった。
-エネルギー省が月曜日に発表したデータによると、SPRは先週610万バレル減の2億9,870万バレルとなった。 1975年に創設されたこの準備金は、1983年1月以来の最低水準にある。
-イランがホルムズ海峡を通じた石油輸出を停止し、史上最大の原油供給混乱を引き起こしたことを受け、ドナルド・トランプ大統領は3月に1億7,200万バレルの放出を命令した。
-認可された貯蔵能力は7億1,400万バレルであるSPRの枯渇により、米国政府の備蓄が枯渇の危機に瀕しているのではないかという疑問が生じている。エネルギー省報道官は7月にCNBCに対し、SPRを安全に運用するために必要な最低石油量は約7,000万バレルであると語った。
-バラク・オバマ大統領の下で国務省の国際エネルギー問題担当特使を務めたデービッド・ゴールドウィン氏は、SPRには必要に応じて再度放出できる十分な石油が残っていると述べた。
-ゴールドウィン氏はCNBCに対し、「準備金の安定性や、必要に応じてさらなる取り崩しを行う能力については心配していない」と語った。
-米国とイスラエルが2月28日にイランを攻撃する前、SPRは約4億1,500万バレルに達していた。トランプ大統領が命じた放出が完了すると、米国政府の在庫は約2億4,300万バレルまで減少するだろう。
-政府監査局の5月の報告書によると、SPRの運営能力はインフラの老朽化により危険にさらされているという。 GAOの調査員らは、2025年12月の時点で在庫の4分の1以上が「建設の停止と洞窟の停止の組み合わせにより取り崩しが不可能」であることを発見した。
-これは、ラピダン・エナジー社の7月の分析によると、現在SPRにある少なくとも1億300万バレルが利用できないことを意味している。
-GAOは報告書の中で、「SPRのドローダウン、分配、充填能力は現在限られており、老朽化し​​たインフラに関する長年の問題と、それに対処するための進行中の大規模な建設が複雑化しているため、将来的にはリスクにさらされる」と警告した。
-米国大統領は近年、SPRに大規模な釈放を命令する頻度が高まっている。ジョー・バイデン大統領は、2022年初めにロシアがウクライナに侵攻した後のエネルギー市場の不安定性に対処するために1億8000万バレルを配備した。これはSPR史上最大の放出量であった。
-GAOは、ウクライナ戦争への対応としての釈放はSPRにとって「計画外のストレステスト」だったと説明した。
-「ドローダウンを行うと、井戸自体や一部の設備の劣化が加速します」とゴールドウィン氏は語った。 「それは他のものと同じです。頻繁に使用するものは維持する必要があります。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
-    publishedAt: "2026-08-10T18:43:06+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "three-reasons-goldman-s-co-head-of-globa-ac2e5fe5",
-    title: "Three reasons Goldman's co-head of global banking and markets says to stay invested",
-    titleJa: "ゴールドマンのグローバル銀行・市場共同責任者が投資を続けるべきと語る3つの理由",
-    summaryJa: "ゴールドマン・サックスのアショク・バラダン氏は、金利上昇や原油価格の高騰、経済の耐久性を心配する投資家に向けて、「投資を続けなさい」というシンプルなメッセージを送っている。同社のグローバル銀行および市場部門の共同責任者であるバラダン氏は、自身の建設的な見通しの理由を3つ挙げた。1つは連邦準備理事会が今年利上げをしないと予想していること、2026年後半には原油価格が1バレルあたり70ドルを大幅に下回ると予想していること、そして回復力のある経済は人工知能に関連した生産性の向上からますます恩恵を受けると考えていることだ。",
-    bodyOriginal: `Goldman Sachs' Ashok Varadhan has a simple message for investors worried about higher interest rates, elevated oil prices and the durability of the economy: stay invested.
-Varadhan, the firm's co-head of global banking and markets, pointed to three reasons for his constructive outlook: He doesn't expect the Federal Reserve to raise interest rates this year, sees oil falling well below $70 a barrel later in 2026, and believes a resilient economy will increasingly benefit from productivity gains tied to artificial intelligence.
-"Stay invested would be my advice," Varadhan said in an episode of Goldman's "The Markets" podcast last week.
-His view on rates runs against market pricing that has reflected some risk the Fed could resume tightening amid lingering inflation concerns.
-"I don't think we will see hikes in the latter part of this year," Varadhan said. "I think rates are going to stay on hold."
-Following a disappointing jobs report Friday, traders shifted their bets on when the Fed might hike. Odds for a move in September fell to around 50% on Monday and to 63% for October, according to the CME Group's FedWatch gauge of futures prices.
-Disinflationary force
-Some of the forces that pushed inflation higher are beginning to recede, including the impact of tariffs, he said. An easing of geopolitical tensions around the Strait of Hormuz could further alleviate price pressures.
-Varadhan also sees AI eventually becoming a disinflationary force. While the enormous infrastructure build-out needed to support artificial intelligence can strain resources and contribute to inflation in the near term, the productivity benefits should have the opposite effect once that capacity is in place, he said.
-Oil is another reason for his optimism. Varadhan expects crude prices to retreat significantly as the year progresses, providing another potential source of relief on inflation.
-"I think energy is going to go back down," he said. "I think oil settles back down well below $70 a barrel, maybe even lower once we get towards the latter part of the year."
-West Texas Intermediate futures climbed back above $80 per barrel Monday as doubt grew that the U.S. and Iran will reach a deal to increase ship traffic through the Strait of Hormuz.
-Resilient economy
-The third pillar of Varadhan's view is the resilience of the economy. Despite a series of external shocks, underlying nominal growth has remained remarkably durable, he said. If some of those pressures fade, the economy could continue to expand while benefiting from AI-driven productivity improvements.
-That resilience is also keeping Varadhan constructive on credit. Heavy issuance means investors should demand somewhat more compensation for taking risk, he said, but the strength of the economy has helped prevent spreads from widening dramatically.
-"If you think the exogenous shocks are going away and you still have the resilience of the economy," Varadhan said, expectations for realized defaults can remain "fairly low."
-The S&P 500 has rallied back to a record high recently, bringing 2026 gains to more than 13%.`,
-    bodyJa: `ゴールドマン・サックスのアショク・バラダン氏は、金利上昇や原油価格の高騰、経済の耐久性を心配する投資家に向けて、「投資を続けなさい」というシンプルなメッセージを送っている。
-同社のグローバル銀行および市場部門の共同責任者であるバラダン氏は、自身の建設的な見通しの理由を3つ挙げた。1つは連邦準備理事会が今年利上げをしないと予想していること、2026年後半には原油価格が1バレルあたり70ドルを大幅に下回ると予想していること、そして回復力のある経済は人工知能に関連した生産性の向上からますます恩恵を受けると考えていることだ。
-「投資を続けることが私のアドバイスだ」とバラダン氏は先週、ゴールドマンのポッドキャスト「ザ・マーケッツ」のエピソードで語った。
-同氏の金利に対する見方は、インフレ懸念が長引く中、FRBが引き締めを再開する可能性があるリスクを反映した市場価格設定に反している。
-バラダン氏は「今年後半には利上げはないと思う」と述べた。 「金利は据え置きになると思う。」
-金曜の期待外れの雇用統計を受けて、トレーダーらはFRBがいつ利上げするかに賭けの対象を移した。 ＣＭＥグループのフェドウォッチの先物価格ゲージによると、９月に動くオッズは月曜日には約５０％に低下し、１０月には６３％に低下した。
-ディスインフレ力
-同氏は、関税の影響など、インフレを押し上げた要因の一部が後退し始めていると述べた。ホルムズ海峡周辺の地政学的緊張が緩和されれば、価格圧力はさらに緩和される可能性がある。
-ヴァラダン氏はまた、AIが最終的にはインフレを解消する力になると見ている。人工知能をサポートするために必要な膨大なインフラ整備は資源に負担をかけ、短期的にはインフレにつながる可能性があるが、その能力が整備されれば生産性のメリットは逆効果となるはずだと同氏は述べた。
-同氏が楽観視できるもう一つの理由は石油だ。バラダン氏は、原油価格は年が進むにつれて大幅に下落し、インフレを緩和する新たな可能性があると予想している。
-「エネルギーは再び低下すると思う」と彼は語った。 「原油価格は1バレル当たり70ドルを大きく下回って落ち着き、今年の後半に近づくとさらに下がるのではないかと思います。」
-米国とイランがホルムズ海峡を通過する船舶の交通量を増やす合意に達するかどうかの疑念が強まり、月曜日のウェスト・テキサス・インターミディエイト先物は1バレルあたり80ドルを超えて再び上昇した。
-回復力のある経済
-バラダン氏の見解の 3 番目の柱は、経済の回復力です。同氏は、一連の外部ショックにもかかわらず、基調的な名目成長は引き続き著しく持続していると述べた。こうした圧力の一部が薄れれば、AIによる生産性向上の恩恵を受けながら、経済は拡大し続ける可能性がある。
-その回復力もまた、バラダン氏の信用を建設的に保つことにつながっている。同氏は、発行額が多いということは、投資家がリスクを取ることに対して多少多めの補償を要求する必要があることを意味しているが、経済の力強さがスプレッドの劇的な拡大を阻止するのに役立っていると述べた。
-バラダン氏は、「外生ショックが去りつつあり、経済の回復力がまだあると考えれば、デフォルトが実現するという期待は「かなり低い」ままになる可能性があると述べた。
-S&P 500指数は最近過去最高値に戻り、2026年の上昇率は13％を超えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html",
-    publishedAt: "2026-08-10T18:36:26+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "i-unexpectedly-came-into-some-money-is-6c24666f",
-    title: "‘I unexpectedly came into some money’: Is putting $20,000 into CDs a smart move?",
-    titleJa: "「思いがけずお金が入ってきました」: CD に 20,000 ドルをつぎ込むのは賢い選択でしょうか?",
-    summaryJa: "「受益者が資金にアクセスできるよう、プロセスをできるだけ簡単にしたいと考えています。」",
-    bodyOriginal: `“I want to make the process as straightforward as possible for my beneficiaries to access the funds.”`,
-    bodyJa: `「受益者が資金にアクセスできるよう、プロセスをできるだけ簡単にしたいと考えています。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories",
-    publishedAt: "2026-08-10T18:31:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-07222794",
-    readTime: 2,
-  },
-  {
-    id: "taylor-farms-recalls-jalapeno-products-a-5cd1fd5e",
-    title: "Taylor Farms recalls jalapeno products after salmonella outbreak",
-    titleJa: "テイラーファーム、サルモネラ菌発生を受けハラペーニョ製品をリコール",
-    summaryJa: "テイラーファーム、サルモネラ菌発生を受けハラペーニョ製品をリコール- 公開されました",
-    bodyOriginal: `Taylor Farms recalls jalapeno products after salmonella outbreak
-- Published
-Food producer Taylor Farms is recalling a swathe of its fresh products containing jalapeno peppers after a salmonella outbreak.
-The agricultural giant, which said it made 40% of all salad kits sold in the US last year, said it would recall around 20 products such as dips and sandwiches from retailers including Walmart, Target and Whole Foods.
-The company said it was not aware of any illnesses linked to the products but that it was withdrawing them across 26 US states.
-It comes after some Taylor Farms' lettuce was recently linked to an outbreak of cyclospora, a parasite that causes explosive diarrhoea, that has affected thousands of people.
-The jalapeno recall came after Coast Citrus Distributors, which supplied the company with its peppers, recalled its own fresh jalapeno because of the salmonella concerns.
-Taylor Farms said a grower in Sinaloa, Mexico, had been identified as the source of the outbreak and that it "is no longer sourcing products from this farmer and will be filling orders from alternative suppliers".
-"Consumers who have any recalled product should discard it immediately and not consume it. Refunds are available at the location of purchase," it added.
-Eating food contaminated with salmonella usually leads to illness within 12 to 72 hours, external. Symptoms include diarrhoea, fever and stomach pain, according to the US Food and Drug Administration.
-The recall includes products such as pico de gallo salsa, several types of guacamole, burritos, spicy sandwiches and fresh sliced jalapenos.
-Taylor Farms was already under scrutiny after it recently recalled its iceberg lettuce sourced from central Mexico because of the unusually large cyclosporiasis outbreak.
-That had made more than 22,000 people ill since 1 May, as of a 4 August update from the US Centers for Disease Control and Prevention.
-The food-borne illness has spread to 45 states and Michigan health officials confirmed the first two deaths linked to the outbreak last week.
-Taylor Farms is one of the largest produce companies in the US and is an important supplier to retail giants Walmart, Costco and Target.
-It also supplies restaurant chains including Taco Bell and McDonald's and employs more than 25,000 people.
-UK health officials have also warned about the cyclosporiasis outbreak following recent cases contracted by returning travellers.
-Related topics
-- Published6 days ago`,
-    bodyJa: `テイラーファーム、サルモネラ菌発生を受けハラペーニョ製品をリコール
-- 公開されました
-食品メーカーのテイラー・ファームズは、サルモネラ菌の発生を受け、ハラペーニョを含む一連の生鮮食品をリコールしている。
-昨年米国で販売されたサラダキットの40％を自社で製造したと発表したこの農業大手は、ウォルマート、ターゲット、ホールフーズなどの小売店からディップやサンドイッチなど約20製品をリコールすると発表した。
-同社は、製品に関連する病気については把握していないが、米国の26州で製品の販売を中止していると述べた。
-これは、テイラー・ファームズの一部のレタスが最近、爆発性下痢を引き起こす寄生虫であるシクロスポラの発生に関連しており、数千人が影響を受けていることを受けたものである。
-ハラペーニョのリコールは、同社に唐辛子を供給していたコースト・シトラス・ディストリビューターズがサルモネラ菌の懸念を理由に自社の生ハラペーニョをリコールした後に起きた。
-テイラー・ファームズは、メキシコ・シナロア州の生産者が感染源として特定されたとし、「今後この農家からの製品の調達を中止し、代替供給業者からの注文に対応する」と述べた。
-「リコール対象製品をお持ちの消費者は、消費せずに直ちに廃棄する必要があります。返金は購入場所で可能です」と付け加えた。
-サルモネラ菌に汚染された食品を食べると、通常、外部からは 12 ～ 72 時間以内に病気につながります。米国食品医薬品局によると、症状には下痢、発熱、腹痛などがあるという。
-リコールには、ピコ・デ・ガロ・サルサ、数種類のワカモレ、ブリトー、スパイシーなサンドイッチ、スライスした新鮮なハラペーニョなどの製品が含まれます。
-テイラー・ファームズは、異例の大規模なシクロスポリア症の発生を理由に、最近メキシコ中部産のアイスバーグ・レタスをリコールした後、すでに厳しい監視下に置かれていた。
-米国疾病予防管理センターの8月4日の最新情報によると、5月1日以降、これにより2万2000人以上が病気になった。
-食中毒は45の州に広がり、ミシガン州保健当局は先週、この流行に関連した最初の2人の死亡を確認した。
-Taylor Farms は米国最大の農産物会社の 1 つであり、小売大手ウォルマート、コストコ、ターゲットへの重要なサプライヤーです。
-タコベルやマクドナルドなどのレストランチェーンにも商品を供給しており、2万5000人以上を雇用している。
-英国の保健当局も、最近の帰国者による感染例を受けて、シクロスポラ症の発生について警告している。
-関連トピック
-- 6 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-10T15:10:33+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3fb/live/f2b13e10-94cb-11f1-8dc4-8907761852f3.jpg",
-    readTime: 3,
-  },
-  {
-    id: "consortium-advances-talks-for-stake-in-l-b580108b",
-    title: "Consortium advances talks for stake in Liverpool",
-    titleJa: "コンソーシアムがリバプール株式取得交渉を進める",
-    summaryJa: "コンソーシアムがリバプール株式取得交渉を進める- 公開されました",
-    bodyOriginal: `Consortium advances talks for stake in Liverpool
-- Published
-A consortium including billionaire Amazon founder Jeff Bezos has advanced its talks to buy about a 30% stake in Liverpool, BBC Sport has been told.
-The group is led by British-Indian millionaire businessman Amit Bhatia and also includes Facebook co-founder Eduardo Saverin.
-Owners Fenway Sports Group (FSG) confirmed last month that the group had "expressed interest in making a strategic minority investment in Liverpool Football Club".
-Bhatia is the son-in-law of Indian billionaire businessman Lakshmi Mittal and had been a director and co-owner of Queens Park Rangers for 18 years before relinquishing his stake in the club last month.
-American businessman Bezos, founder of e-commerce giant Amazon, is the fourth-richest person in the world.
-According to Forbes, the 62-year-old has an estimated net worth of $256bn (£192bn).
-FSG, who bought Liverpool in a £300m deal in 2010, previously sold a minority stake in the Anfield side to global sports investment firm Dynasty Equity.
-BBC Sport contacted FSG about the latest developments, but they had no further comment.
-In January, Liverpool became the top-earning Premier League club for the first time, according to analysis from financial firm Deloitte.
-The following month the club announced record revenues of £703m for 2024-25 financial year.
-FSG agrees to sell minority stake in Liverpool
-- Published29 September 2023
-Bezos set to expand into sport
-Bezos stepped down as Amazon's chief executive in 2021 to become executive chairman, although he still owns 8% of the company.
-The businessman also owns The Washington Post and aerospace company Blue Origin and was ranked as the world's richest person in 2021.
-In 2023, the billionaire was linked with a takeover of NFL franchise the Washington Commanders after owner Daniel Snyder put the team up for sale.
-He has also previously explored the possibility of buying Super Bowl winners the Seattle Seahawks.
-Bezos ultimately decided against submitting an offer for either franchise but now looks set to enter the sporting arena with Liverpool.
-Follow Liverpool on BBC Sounds
-Pre-match, post-match and topical Reds content
-Subscribe and listen for everything you love about Liverpool`,
-    bodyJa: `コンソーシアムがリバプール株式取得交渉を進める
-- 公開されました
-億万長者のアマゾン創業者ジェフ・ベゾス氏を含む企業連合が、リバプール株の約30％を取得する方向で交渉を進めているとBBCスポーツが伝えた。
-このグループは英国系インド人の億万長者実業家アミット・バティア氏が率いており、フェイスブックの共同創設者エドゥアルド・サベリン氏も含まれている。
-オーナーのフェンウェイ・スポーツ・グループ（FSG）は先月、同グループが「リバプール・フットボール・クラブへの戦略的少数投資に関心を表明した」ことを認めた。
-バティア氏はインドの億万長者実業家ラクシュミ・ミタル氏の義理の息子で、先月クラブの株式を手放すまで18年間クイーンズ・パーク・レンジャーズの取締役兼共同オーナーを務めていた。
-電子商取引大手アマゾンの創設者で米国の実業家ベゾス氏は、世界で４番目に裕福な人物である。
-フォーブスによると、62歳の彼の純資産は推定2,560億ドル（1,920億ポンド）だという。
-2010年に3億ポンドの契約でリバプールを買収したFSGは、以前アンフィールド側の少数株を世界的なスポーツ投資会社ダイナスティ・エクイティに売却していた。
-BBCスポーツは最新の動向についてFSGに問い合わせたが、それ以上のコメントはなかった。
-金融会社デロイトの分析によると、1月、リバプールは初めてプレミアリーグで最も収益の高いクラブとなった。
-翌月、クラブは2024-25会計年度の7億300万ポンドという記録的な収益を発表した。
-FSG、リバプールの少数株式売却に合意
-- 2023 年 9 月 29 日公開
-ベゾス氏はスポーツへの進出を目指す
-ベゾス氏は2021年にアマゾンの最高経営責任者（CEO）を辞任し、会長に就任したが、同社株式の8％は依然として保有している。
-この実業家はワシントン・ポスト紙と航空宇宙会社ブルー・オリジンの所有者でもあり、2021年には世界で最も裕福な人物にランクされた。
-2023年、オーナーのダニエル・スナイダーがチームを売りに出した後、億万長者はNFLフランチャイズワシントン・コマンダーズの買収に関与したとされる。
-同氏は以前にもスーパーボウル優勝チームのシアトル・シーホークスを買収する可能性を模索していた。
-ベゾスは最終的にどちらのフランチャイズにもオファーを提出しないことを決定したが、現在はリバプールからスポーツの舞台に参入するつもりのようだ。
-BBC Sounds でリバプールをフォローしてください
-試合前、試合後、話題のレッズ コンテンツ
-購読してリバプールに関するお気に入りのすべてを聞いてください`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-10T13:16:51+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf9e/live/650f8d00-94b7-11f1-a7ab-8b30adf0800a.png",
     readTime: 3,
   },
 ];
