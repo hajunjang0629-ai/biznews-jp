@@ -15,6 +15,334 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "why-the-historic-u-s-japan-intervention-de308b12",
+    title: "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
+    titleJa: "なぜ歴史的な日米介入が円安を止められなかったのか",
+    summaryJa: "日本円は、数十年ぶりの安値に圧力をかけてきたファンダメンタルズの力が短期的な措置に対してますます回復力を示していることが判明しており、歴史的な日米介入による上昇分の約半分を２週間も経たないうちに消し去った。日本の通貨は1ドル＝163ドルを超えた後、介入後の数日間で155ドルまで上昇したが、現在は1ドル＝159ドルを超えて取引されている。",
+    bodyOriginal: `The Japanese yen has erased about half the gains from a historic U.S.-Japan intervention less than two weeks ago, as the fundamental forces that have pressured the currency to multi-decade lows prove increasingly resilient against short-term measures.
+Japan's currency is currently trading at over 159 per dollar, after having strengthened to 155 in the days following the intervention after it crossed 163.
+"Intervention has scared markets, but has not stopped the laws of finance which say money flows in the direction of maximum returns … as long as the cost of money in Japan is lower than the return overseas, carry trades will re-assert," said Jesper Koll, expert director at Monex Group.
+At the heart of the problem is the gap in returns between Japan and the U.S. With Japanese borrowing costs still far below those in the U.S. and other markets, prompting investors to borrow cheaply in yen and invest in higher-yielding assets, also known as the classic carry trade.
+The backdrop has become even tougher as higher Treasury yields and elevated oil prices, which pose a particular problem for energy-importing Japan, restore some of the macro forces favoring the dollar.
+He argues that intervention has succeeded in reducing speculative excess and raising the risks for traders betting against the yen, even if it has not eliminated the underlying yield advantage supporting the dollar.
+Scaring markets is easy, getting markets to follow needs changed incentives and trust.Jesper KollMonex
+"The intervention successfully reset market psychology and demonstrated an unusually strong degree of U.S.-Japan policy coordination. What it has not yet done is eliminate the yield advantage supporting the dollar," said Masahiko Loo, senior fixed income and currency strategist at State Street Global Advisors.
+The yield gap remains wide: benchmark 10-year U.S. Treasury yield is at 4.686%, compared with 2.846% for 10-year Japanese government bonds, leaving investors with a substantial incentive for holding U.S. debt.
+"It's better understood as a success in slowing speculation but not yet a success in changing fundamentals," Loo said.
+That leaves attention squarely on the Bank of Japan, whose next monetary policy meeting is scheduled for September.
+Monex's Koll said the bigger shock for investors was not intervention itself but the BOJ's reluctance to tighten policy more aggressively, which raises questions over whether concerns about the banking system or Japan's enormous public debt burden are constraining policymakers.
+In the absence of higher Japanese rates or falling U.S. yields, investors still have an incentive to send money overseas.
+John Wood, chief investment officer for Asia at Lombard Odier, said the latest intervention would probably have "a limited time effect," arguing the BOJ might need at least two more rate increases to draw a line under the currency's weakness.
+Yen headwinds
+Yet interest rates may only be part of the explanation.
+Crédit Agricole CIB says that the deeper problem is an "asymmetry of investment power" between the two economies. Massive U.S. investment in artificial intelligence and other projects continues to attract capital, while Prime Minister Sanae Takaichi's planned public-private investment push has yet to fully materialize.
+"What is needed to correct the weak yen is not interest rate hikes, but to expand investment," it said.
+That suggests a sustainable yen recovery ultimately requires Japanese assets themselves to become more attractive, encouraging domestic savings to remain at home rather than chase returns abroad.
+For now, intervention might function less as a mechanism for reversing the yen's decline than as a guardrail against its acceleration.
+State Street's Loo said the 160 level has become "a political line in the sand," meaning another rapid move through that threshold could draw officials back into the market.
+"I would not rule out another intervention, particularly if the move becomes rapid or disorderly," he said. "Ultimately, though, intervention can buy time, but the heavy lifting will fall on BOJ normalization as early as September."
+Washington and Tokyo have also sought to strengthen that deterrent by highlighting the Federal Reserve's foreign and international monetary authorities' repo facility, which can provide dollar liquidity against Treasury securities and reduce the need for Japan to sell its U.S. bond holdings to finance intervention. Treasury Secretary Scott Bessent has signaled support for expanding the backstop.
+That makes it potentially more expensive to keep betting against the yen, but it doesn't make the underlying trade disappear.
+"Scaring markets is easy, getting markets to follow needs changed incentives and trust," said Koll.`,
+    bodyJa: `日本円は、数十年ぶりの安値に圧力をかけてきたファンダメンタルズの力が短期的な措置に対してますます回復力を示していることが判明しており、歴史的な日米介入による上昇分の約半分を２週間も経たないうちに消し去った。
+日本の通貨は1ドル＝163ドルを超えた後、介入後の数日間で155ドルまで上昇したが、現在は1ドル＝159ドルを超えて取引されている。
+マネックスグループの専門ディレクター、ジェスパー・コール氏は「介入は市場を怖がらせたが、資金は最大の収益をもたらす方向に流れるという金融法則を止めたわけではない…日本のお金のコストが海外の収益よりも低い限り、キャリートレードは再び活発化するだろう」と述べた。
+問題の核心は日米間の収益格差にある。日本の借入コストは依然として米国やその他の市場に比べてはるかに低いため、投資家は円で安く借りて高利回りの資産に投資するようになっている（古典的なキャリートレードとも呼ばれる）。
+エネルギー輸入国である日本にとって特に問題となる米国債利回りの上昇と原油価格の高騰により、ドルを支持するマクロ勢力の一部が回復し、背景はさらに厳しくなっている。
+同氏は、たとえドルを支える根本的な利回りの優位性が解消されなかったとしても、介入は投機過剰を削減し、対円に賭けるトレーダーのリスクを高めることに成功したと主張する。
+市場を怖がらせるのは簡単で、市場を従わせるには、インセンティブと信頼を変える必要がある。Jesper KollMonex
+ステート・ストリート・グローバル・アドバイザーズのシニア債券・通貨ストラテジスト、マサヒコ・ルー氏は「介入は市場心理をリセットすることに成功し、日米の政策協調が異常に強力であることを示した。まだできていないのは、ドルを支える利回りの優位性を解消することだ」と述べた。
+利回り格差は依然として大きく、基準となる10年米国債利回りは4.686％であるのに対し、10年日本国債は2.846％であり、投資家には米国債を保有する大きなインセンティブが残されている。
+ルー氏は「投機の抑制には成功したが、ファンダメンタルズの変化にはまだ成功していないと理解されている」と述べた。
+このため、次回の金融政策決定会合が9月に予定されている日銀に注目が集まる。
+マネックス証券のコル氏は、投資家にとってより大きなショックは介入そのものではなく、日銀がより積極的な政策引き締めに消極的であることであり、銀行システムや日本の巨額の公的債務負担に対する懸念が政策立案者の制約になっているのかという疑問が生じていると述べた。
+日本の金利上昇や米国の利回り低下がなければ、投資家は依然として海外に送金するインセンティブを持っている。
+ロンバール・オディエのアジア最高投資責任者、ジョン・ウッド氏は、今回の介入はおそらく「期間限定の効果」をもたらすだろうと述べ、通貨安にけじめをつけるには日銀は少なくともあと２回の利上げが必要になるかもしれないと主張した。
+円の逆風
+しかし、金利は説明の一部にすぎない可能性があります。
+クレディ・アグリコルCIBは、より深刻な問題は両国経済間の「投資力の非対称性」であると述べている。人工知能やその他のプロジェクトへの米国の巨額投資は資本を引き付け続けているが、高市早苗首相が計画している官民投資推進はまだ完全には実現していない。
+「円安是正に必要なのは金利引き上げではなく、投資拡大だ」と述べた。
+このことは、持続的な円回復には最終的には日本の資産そのものがより魅力的になる必要があり、国内貯蓄が海外での利益を追うのではなく国内にとどまることを促す必要があることを示唆している。
+今のところ、介入は円安を反転させるメカニズムとしてよりも、円安加速に対するガードレールとして機能する可能性がある。
+ステート・ストリートのルー氏は、160の水準は「砂上の政治的境界線」となっており、この水準を再び急速に突破する動きが当局を市場に引き戻す可能性があることを意味していると述べた。
+同氏は「特に動きが急速または無秩序になった場合、別の介入の可能性は排除しない」と述べた。 「最終的には介入で時間を稼ぐことはできるが、早ければ９月にも日銀正常化に重労働がかかることになるだろう。」
+米政府と日本政府はまた、米連邦準備制度理事会（FRB）の外国および国際通貨当局のレポ制度を強調することで、その抑止力を強化しようとしている。レポ制度は、財務省証券に対するドルの流動性を提供し、日本が介入資金のために保有する米国債を売却する必要性を減らすことができる。スコット・ベッセント財務長官はバックストップ拡大への支持を示唆した。
+そのため、対円で賭け続けることは潜在的により高価になりますが、基礎となる取引が消滅するわけではありません。
+「市場を怖がらせるのは簡単で、市場のニーズに従うようにさせることで、インセンティブや信頼が変化する」とコル氏は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+    publishedAt: "2026-08-12T07:20:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "world-s-largest-sovereign-wealth-fund-po-2773151d",
+    title: "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+    titleJa: "世界最大の政府系ファンドがスペースX株を初めて明らかにし、記録的な1,840億ドルの利益を計上",
+    summaryJa: "ノルウェーの総額2兆3000億ドルのソブリン・ウェルス・ファンドは水曜日、アジアのテクノロジー株の上昇が同ファンドのリターン9.4％に貢献し、1820億ドルを超える過去最高の上半期利益を報告した。同ファンドの上半期報告書は、ファンドのマネージャーらがイーロン・マスク氏率いる宇宙技術大手へのエクスポージャーに関する初の開示で、スペースX株の0.05％（価値12億ドル強）を明らかにした中で発表された。",
+    bodyOriginal: `Norway's $2.3 trillion sovereign wealth fund reported a record half-year profit of more than $182 billion on Wednesday, as a rally in Asian technology stocks helped the fund return 9.4%.
+The fund's first-half report came as its managers revealed a 0.05% stake in SpaceX, valued at just over $1.2 billion, in its first such disclosure of its exposure to Elon Musk's space tech giant.
+The SpaceX stake is dwarfed by some of its other holdings, including a 1.3% stake in Nvidia worth $61.8 billion and a 1.2% ownership of Apple valued at $52.7 as of June 30.
+Norges Bank Investment Management (NBIM) manages the fund, which was set up in the 1990s to invest revenues from the country's oil and gas industry. The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across more than 50 countries and has stakes in around 1.5% of the world's publicly listed stocks.
+"The result is driven by good returns in the equity market, particularly from Asian technology stocks," Nicolai Tangen, CEO of NBIM, said in a statement on Wednesday.
+Equities make up more than two-thirds of the wider portfolio, with NBIM also investing in fixed income, real estate and renewable energy infrastructure.
+Around 40% of NBIM's portfolio is comprised of U.S. equities, with its most valuable holdings being shares of Nvidia, Apple and Microsoft.`,
+    bodyJa: `ノルウェーの総額2兆3000億ドルのソブリン・ウェルス・ファンドは水曜日、アジアのテクノロジー株の上昇が同ファンドのリターン9.4％に貢献し、1820億ドルを超える過去最高の上半期利益を報告した。
+同ファンドの上半期報告書は、ファンドのマネージャーらがイーロン・マスク氏率いる宇宙技術大手へのエクスポージャーに関する初の開示で、スペースX株の0.05％（価値12億ドル強）を明らかにした中で発表された。
+スペースX株は、618億ドル相当のエヌビディア株1.3％や、6月30日時点で52.7ドル相当のアップル株1.2％など、他の保有株に比べれば小さく見えない。
+ノルジェス銀行投資管理（NBIM）がこの基金を管理している。この基金は、国の石油・ガス産業からの収益を投資するために1990年代に設立された。現在約2兆3,400億ドルと評価されているこのファンドは、50カ国以上の7,000社以上の企業に投資しており、世界の上場株式の約1.5％に出資している。
+NBIMのニコライ・タンゲン最高経営責任者（CEO）は水曜日の声明で、「この結果は株式市場、特にアジアのハイテク株の好リターンによってもたらされた」と述べた。
+株式は広範なポートフォリオの3分の2以上を占めており、NBIMは債券、不動産、再生可能エネルギーインフラにも投資している。
+NBIM のポートフォリオの約 40% は米国株で構成されており、最も価値のある保有株は Nvidia、Apple、Microsoft の株式です。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+    publishedAt: "2026-08-12T07:01:56+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "houthi-attack-kills-six-in-first-fatalit-ab74175f",
+    title: "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
+    titleJa: "フーシ派の攻撃により、紅海では1年以上ぶりの死者6人が死亡。米国がコンテナ船を攻撃",
+    summaryJa: "イランが支援するフーシ派反政府勢力は火曜日、バブ・エル・マンデブ海峡の貨物船で6人を殺害し、紅海の船舶を標的とした攻撃による死者数は1年以上ぶりに報告された。数時間以内に、米軍は、オマーン湾におけるワシントンによるイラン港封鎖を突破しようとしたとされるコンテナ船にミサイルを発射したと発表した。",
+    bodyOriginal: `Iran-backed Houthi rebels killed six people aboard a cargo ship in the Bab el-Mandeb Strait on Tuesday, the first reported fatalities from attacks targeting Red Sea shipping in more than a year.
+Within hours, U.S. forces said they had fired missiles at a container ship that allegedly attempted to breach Washington's blockade of Iranian ports in the Gulf of Oman.
+The twin incidents illustrate how the war, stretching into its sixth month, is inflicting a widening toll on two of the world's most critical shipping lanes, even as diplomats signal progress towards reopening the Strait of Hormuz.
+Yemen's transport ministry said the casualties included four crew members aboard the vessel — identified as the Egyptian-owned, Tanzania-flagged Tihamah — three of them Pakistani nationals and one Indonesian. Separately, Yemen's coastguard reportedly said two members of the Yemeni government-allied National Resistance Forces were also killed in a follow-up strike as they carried out a rescue.
+Yemen's transport ministry said in its statement that it holds "the Houthi terrorist militias fully responsible for the deaths, injuries and damage inflicted on the commercial vessel "Tihamah" as well as for the serious consequences resulting from these attacks," according to a Google translation of Arabic.
+A Houthi-aligned media outlet later said the group's forces had targeted a ship carrying Saudi military equipment, though the Houthis haven't addressed the casualty figures officially.
+The Iran-aligned group declared a naval blockade against Saudi Arabia in the Red Sea on July 20, breaking a years-long Yemeni civil-war truce, calling it retaliation for a Saudi "siege" on Yemen, an allegation Riyadh has denied.
+Separately, the U.S. Central Command said late Tuesday that a Navy helicopter fired two missiles at the Panama-flagged Vela Nova, disabling its steering and propulsion, after the crew ignored warnings while transiting the Gulf of Oman.
+Centcom said the ship had tried to run past the naval blockade Washington reimposed on Iranian ports in mid-April. There were no immediate reports of casualties. U.S forces have redirected 55 commercial vessels attempting to breach the blockade since it took effect, disabled three non-compliant ships and boarded two, according to Centcom.
+The hostilities at sea come as U.S.-Iran diplomacy has stalled. Iran's Supreme National Security Council laid out sweeping demands over the weekend for reopening the Strait of Hormuz, including an end to the U.S. naval blockade, sanctions relief, American troop withdrawals and war reparations.
+President Donald Trump has countered by demanding Iran pay compensation of its own. The impasse has pushed a return to normal shipping further out of reach, even as Iran and Oman edge toward an agreement on a new transit corridor through the Hormuz Strait.
+Traffic through the strait, which saw 20% of the world's oil trade before the conflict began in late February, has been barely trickling. The war-induced tumult in the waterway has caused a global energy supply shock, sharply raising oil prices and causing broader economic consequences.
+Oil prices have been rising on the back of renewed tensions. Brent crude futures for October delivery added 0.6% to $89.44 a barrel on Wednesday, extending a rally that has added more than 7% this week, according to LSEG data. U.S. West Texas Intermediate for September added 0.7% to $83.8.
+"Current rhetoric suggests any potential deal is still some way off, meaning risks remain skewed to the upside for oil prices," said Warren Patterson, ING's head of commodities strategy.
+There have, however, been some signs of ongoing diplomatic efforts. A senior Pakistani minister said Tuesday that the U.S. and Iran are close to "some sort of arrangement" over the Strait of Hormuz, offering a glimmer of hope for a deal even as the warring powers appear to be hardening their negotiating stances.
+Pakistan's defense minister, Khawaja Asif, told reporters that "things are shaping up again in favor of a peace arrangement or a deal," according to Bloomberg.
+The Pakistani official's comments came after a Qatari Foreign Ministry spokesperson told Al Jazeera that talks between Iran and Oman about opening a shipping channel through the Strait of Hormuz were at a "critical juncture."`,
+    bodyJa: `イランが支援するフーシ派反政府勢力は火曜日、バブ・エル・マンデブ海峡の貨物船で6人を殺害し、紅海の船舶を標的とした攻撃による死者数は1年以上ぶりに報告された。
+数時間以内に、米軍は、オマーン湾におけるワシントンによるイラン港封鎖を突破しようとしたとされるコンテナ船にミサイルを発射したと発表した。
+外交官らがホルムズ海峡の再開に向けた進展を示唆しているにもかかわらず、6か月に及んだ戦争が世界で最も重要な航路の2つに被害を拡大させていることを、この二つの事件は物語っている。
+イエメン運輸省は、死傷者にはエジプト所有、タンザニア船籍のティハマ号と特定された船の乗組員4人が含まれており、このうち3人はパキスタン人、1人はインドネシア人であると発表した。これとは別に、イエメン沿岸警備隊は、イエメン政府と同盟を結んでいる国家抵抗軍の隊員２人も救助活動中に追加攻撃で死亡したと発表した。
+アラビア語のグーグル翻訳によると、イエメン運輸省は声明の中で、「フーシ派テロ民兵組織が商船『ティハマ』に生じた死亡、負傷、損害、およびこれらの攻撃による深刻な結果に対する全責任を負っている」と述べた。
+その後、フーシ派系メディアは、フーシ派部隊がサウジの軍事装備を積んだ船を標的にしたと報じたが、フーシ派は死傷者数について公式には言及していない。
+イランと連携するグループは7月20日、紅海でのサウジアラビアに対する海上封鎖を宣言し、イエメンに対するサウジの「包囲」に対する報復として、長年にわたるイエメンの内戦停戦を破ったが、リヤドはこの主張を否定している。
+これとは別に、米中央軍は火曜日遅く、乗組員がオマーン湾を航行中に警告を無視した後、海軍ヘリコプターがパナマ船籍のベラノバ号に向けてミサイル２発を発射し、操縦と推進を不能にしたと発表した。
+セントコムは、同船は4月中旬に米国政府がイランの港に再び課した海上封鎖を突破しようとしたと発表した。死傷者の報告は直ちになかった。セントコムによると、米軍は封鎖発効以来、封鎖を突破しようとした商船55隻を進路変更し、不遵守の船舶3隻を航行不能にし、2隻に乗船した。
+海上での敵対行為は、米国とイランの外交が行き詰まっている中で起こっている。イラン国家安全保障最高会議は先週末、米国の海上封鎖の解除、制裁緩和、米軍撤退、戦争賠償を含むホルムズ海峡再開に向けた包括的な要求を打ち出した。
+ドナルド・トランプ大統領はイランに独自の賠償金の支払いを要求してこれに対抗した。イランとオマーンがホルムズ海峡を通る新たな通過回廊の合意に向けて前進しているにもかかわらず、この行き詰まりにより、通常の海運への復帰はさらに困難になっている。
+2月下旬に紛争が始まる前には、この海峡を通る交通量は世界の石油貿易の20％を占めていたが、今ではほとんど流れていない。戦争によって引き起こされた水路の混乱は、世界的なエネルギー供給ショックを引き起こし、原油価格を急激に上昇させ、より広範な経済的影響を引き起こしました。
+新たな緊張を背景に原油価格が上昇している。 ＬＳＥＧのデータによると、１０月渡しの北海ブレント原油先物は水曜日、０．６％上昇して１バレル＝８９．４４ドルとなり、今週７％以上上昇した上昇幅が拡大した。 ９月の米国ウエスト・テキサス・インターミディエイトは０．７％高の８３．８ドル。
+ＩＮＧのコモディティ戦略部門責任者ウォーレン・パターソン氏は「現在のレトリックは、潜在的な合意がまだ先のことを示唆している。つまり、リスクは依然として原油価格の上値に偏っていることを意味する」と述べた。
+しかし、外交努力が継続している兆候もいくつかある。パキスタンの高官は火曜日、米国とイランがホルムズ海峡を巡る「何らかの合意」に近づいていると述べ、交戦大国が交渉の姿勢を強めているように見える中でも、合意へのかすかな希望を与えている。
+ブルームバーグによると、パキスタンのカワジャ・アシフ国防相は記者団に対し、「和平協定や合意に向けて事態は再び形になりつつある」と述べた。
+パキスタン当局者のこのコメントは、カタール外務省報道官がアルジャジーラに対し、ホルムズ海峡を通る航路開設に関するイランとオマーンの交渉が「重大な岐路」にあると語った後に発表された。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
+    publishedAt: "2026-08-12T06:30:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "google-s-new-ai-boss-inherits-a-race-to-553def14",
+    title: "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
+    titleJa: "Google の新しい AI ボスが OpenAI と Anthropic をめぐる競争を引き継ぐ",
+    summaryJa: "Koray Kavukcuoglu 氏は、Gemini を OpenAI や Anthropic との競争力を維持するために Google DeepMind を担当しています。",
+    bodyOriginal: `DeepMind's new boss is set to face intense pressure to close the AI performance gap with OpenAI and Anthropic.
+OpenAI and Anthropic have released new systems in recent months that have been both hailed for and prompted concern over their advanced capabilities. On the other hand, Google, which acquired DeepMind in 2014, hasn't unveiled a frontier model since early 2026.
+Koray Kavukcuoglu, who was previously the AI unit's CTO and parent company Google's chief AI architect, is inheriting a race to catch up to OpenAI and Anthropic at the frontier — building the industry's most advanced models. He's stepping up to become SVP, replacing DeepMind cofounder and CEO Demis Hassabis, who becomes the organization's chair.
+"The goal will undoubtedly be to close the gaps with Anthropic and OpenAI in some areas," Ben Wood, chief analyst at CCS Insight, told CNBC.
+Kavukcuoglu's promotion "feels like a move that is designed to adjust the focus of Google's efforts away from academic projects and more toward a stronger focus on improving frontier performance and improving the toolset for developers," Wood added.
+Competing at the frontier
+Google has lagged behind OpenAI, which set the pace after releasing ChatGPT to the public in 2022. That shifted in November 2025 when Google released Gemini 3.
+Analysts said the model "moved the frontier forward", with capabilities that "far exceed[ed] what we've typically come to expect from this generation of frontier models."
+But 2026 has seen OpenAI and Claude maker Anthropic pull ahead with new releases. Anthropic's Mythos model broke new ground, and OpenAI's GPT-5.6 was similarly lauded.
+Following Gemini 3.1 Pro in February, Google's releases this year haven't challenged at the frontier. It assembled an internal team called "Code Strike" to bolster coding capabilities, crucial to the drive to develop artificial general intelligence (AGI).
+Google fell behind Anthropic and OpenAI "because its focus was much more on monetizable areas such as Search, and multi-modal and it lost out on the first clear killer use case, which is coding," Malik Ahmed Khan, senior equity analyst at Morningstar, told CNBC. Coding is an area where those two companies are "miles ahead" of Google, he added.
+A Google spokesperson told CNBC it would be inaccurate to say the company was distracted from its mission of solving "intelligence" before solving "everything else." They said the path to AGI will involve pushing on fronts including agents, coding, robotics and world models, and pointed to DeepMind releases across robotics, video and computer use, as well as public policy work and research.
+DeepMind under Kavukcuoglu
+Kavukcuoglu is part of DeepMind's old guard, having joined in 2012 before the Google acquisition, and will look to bring renewed focus on challenging Anthropic and OpenAI at the frontier, amid several high-profile departures.
+Reporting directly to Google CEO Sundar Pichai, Kavukcuoglu will oversee Gemini model development, Frontier AI research, and the Gemini app and developer teams, Pichai said in a statement.
+Kavukcuoglu's appointment will bring "more focus to GDM, with LLM [large language model] improvements being the clear route forward," Morningstar's Khan said. "We think Google is likely better positioned in the LLM race with these changes than it was without them," he added.
+"Demis has been much more interested in building AGI that was beyond LLMs," Khan said.
+Hassabis' tenure leading DeepMind "saw a clear focus on other areas such as multi-modal, such as world models, as well as his work in health, for example with Isomorphic Labs," he added.
+Kavukcuoglu had been taking on broader responsibilities from Hassabis over the past year, including directing model development and presenting major Gemini releases, a person close to the DeepMind team told CNBC last week.
+Kavukcuoglu's promotion "shows that Google is prioritizing execution over deep research," Ray Wang, principal analyst at Constellation Research, told CNBC. "Expect faster releases, more experimentation and an emphasis on developing to a product roadmap."
+Alphabet shares sank in July after Bloomberg reported that the company had delayed the release of Gemini 3.5 Pro to try and improve performance in areas like coding.
+"The first step [for Kavukcuoglu] would be to ship Gemini 3.5 Pro if possible, and then prove it wasn't a one-off by maintaining a predictable release cadence," said Nick Patience, AI lead at the Futurum Group. Beyond shipping a model that competes at the frontier, Kavukcuoglu "needs to rebuild the coding and pretraining expertise that walked out the door," he told CNBC.
+DeepMind was based in London before its acquisition and Hassabis remained in the city as CEO when it became a division within Google. DeepMind's continued presence there spurred the U.K. AI ecosystem.
+Under his previous role, Kavukcuoglu moved from London to Google's headquarters in Mountain View, California.
+"Google is quietly consolidating its AI leadership out of London," Patience said. A Google spokesperson told CNBC it remained committed to its presence in the UK capital.
+Google's AI play
+Alphabet shares dropped on Thursday when the AI reshuffle was announced, though the stock has risen around 76% in the last 12 months.
+Alphabet CEO Pichai said on last month's earnings call that nearly 90% of Fortune 100 companies are using Gemini Enterprise, stressing the company's ability to sell AI services to cloud customers.
+"Although the model is behind and they want to catch up and they take that seriously, the monetization of the model is doing extremely well," Sebastian Mallaby, author of "The Infinity Machine," a biography of Hassabis, told CNBC's "Squawk Box" on Monday. He pointed to Google's AI being deployed across Android phones and Siri and Apple Intelligence on iPhones.
+It was wrong to "paint a picture of a general crisis" at the company because of big-name departures, Mallaby added. "It's a big team. It's several thousand people on the Gemini team, if you count everybody. And so we shouldn't over-index on a few famous names."
+The breadth of Kavukcuoglu's remit — Gemini model development, the Gemini app and developer teams, and reporting directly to Sundar Pichai — could also boost Google's AI advantage, said Brian Hopkins, VP, emerging tech and principal analyst at Forrester.
+"Models, the app, and the developer teams under one executive is how a company organizes a product group rather than a lab," he told CNBC. "This is something that Google knows how to do much better than OpenAI or Anthropic."
+— CNBC's MacKenzie Sigalos contributed to this report.`,
+    bodyJa: `DeepMind の新しい上司は、OpenAI や Anthropic との AI パフォーマンスの差を縮めなければならないという激しいプレッシャーに直面することになる。
+OpenAI と Anthropic はここ数カ月間、新しいシステムをリリースしましたが、その高度な機能が称賛されると同時に懸念も引き起こされました。一方、2014年にDeepMindを買収したGoogleは、2026年初め以降フロンティアモデルを発表していない。
+以前は AI 部門の CTO で親会社 Google のチーフ AI アーキテクトを務めていた Koray Kavukcuoglu 氏は、業界の最先端モデルを構築しながら、最前線で OpenAI と Anthropic に追いつく競争を引き継いでいます。同氏はディープマインドの共同創設者兼最高経営責任者（CEO）のデミス・ハサビス氏の後任として上級副社長に就任し、同組織の会長に就任する。
+CCS Insightの主任アナリスト、ベン・ウッド氏はCNBCに対し、「目標は間違いなく、一部の分野でAnthropicやOpenAIとの差を埋めることだろう」と語った。
+Kavukcuoglu氏の昇進は、「Googleの取り組みの焦点を学術プロジェクトから離れ、フロンティアパフォーマンスの向上と開発者向けのツールセットの改善にさらに重点を置く方向に調整することを目的とした動きのように感じられる」とWood氏は付け加えた。
+フロンティアでの競争
+Google は、2022 年に ChatGPT を一般公開した後、ペースを決めた OpenAI に後れを取りました。Google が Gemini 3 をリリースした 2025 年 11 月に状況は変わりました。
+アナリストらは、このモデルは「フロンティアを前進させた」もので、「この世代のフロンティアモデルに通常期待されるものをはるかに超えた」機能を備えていると述べた。
+しかし2026年には、OpenAIとClaudeメーカーのAnthropicが新たなリリースを進めている。 Anthropic の Mythos モデルは新境地を開拓し、OpenAI の GPT-5.6 も同様に賞賛されました。
+2 月の Gemini 3.1 Pro に続き、今年の Google のリリースは最前線に挑戦していません。汎用人工知能 (AGI) の開発推進に不可欠なコーディング機能を強化するために、「コード ストライク」と呼ばれる社内チームを編成しました。
+GoogleはAnthropicやOpenAIに遅れをとった。「同社は検索やマルチモーダルなどの収益化可能な分野に重点を置き、最初の明確なキラーユースケースであるコーディングを逃したためだ」とモーニングスターのシニア株式アナリスト、マリク・アーメド・カーン氏はCNBCに語った。コーディングはこの2社がGoogleよりも「数マイル先を行っている」分野だと同氏は付け加えた。
+Googleの広報担当者はCNBCに対し、同社が「他のすべて」を解決する前に「インテリジェンス」を解決するという使命から逸れていたと言うのは不正確だと語った。彼らは、AGIへの道には、エージェント、コーディング、ロボット工学、ワールドモデルなどの分野を推進することが含まれると述べ、ロボット工学、ビデオ、コンピュータの利用、さらには公共政策の取り組みや研究にわたるDeepMindのリリースを指摘した。
+カヴククオグル氏率いるディープマインド
+Kavukcuoglu 氏は、Google 買収前の 2012 年に入社した DeepMind の古参の一員であり、いくつかの注目を集める退社の中、最前線で Anthropic と OpenAI に挑戦することに新たな焦点を当てようとしています。
+カブククオグル氏は、Google CEOのサンダー・ピチャイ氏に直属し、Geminiモデル開発、フロンティアAI研究、Geminiアプリと開発者チームを監督するとピチャイ氏は声明で述べた。
+カブククオグル氏の任命により「LLM（大規模言語モデル）の改善が今後の明確な道筋となり、GDMへの注目がさらに高まる」とモーニングスターのカーン氏は述べた。 「Googleは、これらの変更がなかった場合よりも、これらの変更があったほうがLLM競争で有利な立場にある可能性が高いと考えている」と同氏は付け加えた。
+「デミス氏は、LLM を超えた AGI の構築にずっと興味を持っていました」とカーン氏は言います。
+ハサビス氏の在任期間中、DeepMindを率いてきたことは、「Isomorphic Labsなどの健康分野の研究だけでなく、世界モデルなどのマルチモーダルなどの他の分野にも明確に焦点を当てていた」と付け加えた。
+DeepMindチームに近い関係者が先週CNBCに語ったところによると、Kavukcuoglu氏は過去1年間、Hassabis社からモデル開発の指揮やGeminiの主要リリースの発表など、より幅広い責任を引き受けていたという。
+コンステレーション・リサーチの主席アナリスト、レイ・ワン氏は、カブククオグル氏の昇進は「グーグルが綿密な調査よりも実行を優先していることを示している」とCNBCに語った。 「より迅速なリリース、より多くの実験、そして製品ロードマップに沿った開発に重点が置かれることを期待しています。」
+アルファベットの株価は、同社がコーディングなどの分野でのパフォーマンス向上を図るためにGemini 3.5 Proのリリースを延期したとブルームバーグが報じた後、7月に下落した。
+「（Kavukcuoglu の）最初のステップは、可能であれば Gemini 3.5 Pro を出荷し、その後、予測可能なリリース リズムを維持することで、それが 1 回限りのものではないことを証明することです」と Futurum Group の AI リードである Nick Patience 氏は述べています。カヴククオグル氏は、最前線で競争できるモデルを出荷するだけでなく、「すでに開発されているコーディングと事前トレーニングの専門知識を再構築する必要がある」と CNBC に語った。
+DeepMindは買収前はロンドンに拠点を置いていたが、Google内の部門となった後もハサビス氏はCEOとしてロンドンに留まった。 DeepMind が英国で存在し続けることで、英国の AI エコシステムが活性化されました。
+カブククオグル氏は前職の下、ロンドンからカリフォルニア州マウンテンビューのグーグル本社に異動した。
+「グーグルはロンドンから静かにAIのリーダーシップを強化している」とペイエンス氏は語った。グーグルの広報担当者はＣＮＢＣに対し、英国の首都での存在感を維持し続けると語った。
+GoogleのAIプレイ
+AIの人事異動が発表された木曜日にアルファベット株は下落したが、株価は過去12カ月で約76％上昇した。
+アルファベットのピチャイ最高経営責任者（CEO）は先月の決算会見で、フォーチュン100企業の90％近くがGemini Enterpriseを利用していると述べ、クラウド顧客にAIサービスを販売する同社の能力を強調した。
+ハサビスの伝記「The Infinity Machine」の著者セバスチャン・マラビー氏は月曜日、CNBCの番組「Squawk Box」で、「モデルは遅れをとっており、彼らは追いつきたいと考えており、それを真剣に受け止めているが、モデルの収益化は非常にうまくいっている」と語った。同氏は、GoogleのAIがAndroidスマートフォンやiPhoneのSiriとApple Intelligenceに導入されていると指摘した。
+マラビー氏は、大物の退職を理由に会社の「全体的な危機を描く」のは間違いだと付け加えた。 「これは大きなチームです。全員を数えると、ジェミニのチームには数千人がいます。ですから、少数の有名人を過剰にインデックスすべきではありません。」
+Forrester社の副社長兼新興技術担当兼主席アナリストのブライアン・ホプキンス氏は、Geminiモデルの開発、Geminiアプリと開発者チーム、サンダー・ピチャイへの直接報告など、カブククオグル氏の権限の広さによってもGoogleのAI優位性はさらに高まる可能性があると述べた。
+同氏はCNBCに対し、「1人の幹部の下にあるモデル、アプリ、開発者チームは、企業がラボではなく製品グループを組織する方法である」と語った。 「これは、Google が OpenAI や Anthropic よりもはるかに優れた方法を知っていることです。」
+— CNBC の MacKenzie Sigalos がこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+    publishedAt: "2026-08-12T05:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "pm-admits-cost-of-living-help-is-not-eno-4967321d",
+    title: "PM admits cost of living help is not enough and hints at further support",
+    titleJa: "首相、生活費援助だけでは十分ではないと認め、さらなる支援を示唆",
+    summaryJa: "首相、生活費援助だけでは十分ではないと認め、さらなる支援を示唆- 公開されました",
+    bodyOriginal: `PM admits cost of living help is not enough and hints at further support
+- Published
+Prime Minister Andy Burnham has said he accepts his announcements aimed at tackling the cost of living are not enough on their own and hinted at further support.
+Burnham told BBC's Wake up to Money he will deliver an "accumulation of smaller things" that "combine to take the pressure down" on household budgets.
+He spoke of an overhaul of train fares and "more public control" of energy, water and housing but did not give details on how he would bring this about.
+Burnham has made a number of announcements to help people with the cost of living since taking office, including the removal of VAT from domestic electricity bills and bringing forward an already planned end to 'subscription traps'.
+Asked whether the changes he had announced were not significant to people struggling, he said: "I can accept criticism that this isn't enough, because I wouldn't say it's enough.
+"But I take an approach to politics where I do what I can, when I can. Just take that little bit of pressure off and address an issue that you know needs addressing.
+"It's not the end of the story," he added.
+The prime minister, who is embarking on a tour of the UK while Parliament is in recess, said he believed "more public control of essential services" such as water, energy and housing, "would mean we could get to a more substantial answer to the cost of living crisis".
+On water, he said it would not be easy to reverse the privatisation of water companies in England and Wales that took place in the 1980s.
+"But very much, I'm looking at what can be done. Same with energy."
+He also said that, following the return of rail operators to public ownership, he wanted to "remodel the rail fares so that we can get more public benefit for people".
+It comes as the government said on Wednesday that people living within 1,600ft (500m) of new upgraded electricity pylons and substations across Britain will receive a £250 annual discount on their bills for a decade.
+Andy Burnham: Wake Up to Money
+The prime minister tells Wake Up to Money that the increase to national insurance has "added pressure" to businesses.
+Burnham told the BBC he has asked Chancellor John Healey to look at what the government can do further on the cost of living in the upcoming Budget, on 28 October, and that Healey has said it will be his "main focus".
+Healey has made it clear he will oversee "strong fiscal discipline" – which will limit how much the government has to spend.
+One major think tank recently warned that he will have to raise taxes or cut spending to meet Burnham's pledges on defence and the cost of living.
+Labour's manifesto pledge was to not increase taxes for working people — including income tax, VAT and National Insurance Contributions (NICs) - which Burnham has said he will uphold.
+He will likely face pressure to address rising costs for businesses, after previous budgets under Rachel Reeves saw employer's national insurance and minimum wages go up.
+Last month Burnham said pubs, social clubs and live music venues in England would be given a 20% cut to business rates from April, calling it a "first step" to help the industry.
+He told the BBC he accepted the national insurance hike had added pressure on businesses, and that the government would look at business rates "more broadly".
+Burnham said: "I would like to bring down the cost of doing businesses. I want to make high streets more vibrant across the country. I know that cannot be done by simply wishing it."
+But he said he did not want to "at this point, start making commitments".
+"Those are for the Budget."
+Get in touch
+Have you been affected by the issues discussed in this story?
+Related topics
+- Published3 days ago
+- Published12 minutes ago
+- Published1 day ago`,
+    bodyJa: `首相、生活費援助だけでは十分ではないと認め、さらなる支援を示唆
+- 公開されました
+アンディ・バーナム首相は、生活費対策だけでは不十分であるという自身の発表を受け入れると述べ、さらなる支援を示唆した。
+バーナム氏はBBCの『ウェイク・アップ・トゥ・マネー』で、家計への「プレッシャーを軽減するために組み合わせる」「小さなことの積み重ね」を提供すると語った。
+同氏は鉄道運賃の見直しや、エネルギー、水、住宅の「さらなる公的管理」について語ったが、これをどのように実現するかについては詳細には触れなかった。
+バーナム氏は就任以来、国内の電気料金から付加価値税を撤廃したり、すでに計画されていた「サブスクリプションの罠」の廃止を前倒ししたりするなど、国民の生活費を支援するための数々の発表を行ってきた。
+自身が発表した変更は、苦境にある人々にとって重要ではないかとの質問に対し、同氏は「十分ではないという批判は受け入れることができる。なぜなら、十分とは言えないからだ」と述べた。
+「しかし、私は政治に対して、できるときにできることをするというアプローチをとっています。少しだけプレッシャーを軽減し、対処する必要があるとわかっている問題に取り組んでください。
+「これで話が終わったわけではない」と彼は付け加えた。
+議会の休会中に英国歴訪中の首相は、水、エネルギー、住宅などの「必要不可欠なサービスの公的管理を強化する」ことで、「生活費危機に対するより本質的な解決策が得られることを意味する」と信じていると述べた。
+水に関しては、1980年代にイングランドとウェールズで行われた水道会社の民営化を逆転させるのは簡単ではないと述べた。
+「しかし、私は何ができるかを考えています。エネルギーについても同様です。」
+また、鉄道事業者の公有化に伴い、「国民により多くの公益が得られるよう鉄道運賃を改革したい」と述べた。
+これは水曜日、英国全土で新しく改良された送電塔と変電所から1,600フィート（500メートル）以内に住む人々は10年間、年間250ポンドの料金割引を受けると政府が発表したことを受けてのことだ。
+アンディ・バーナム: お金への目覚め
+首相は「Wake Up to Money」に対し、国民保険の引き上げが企業に「圧力を加えている」と語った。
+バーナム首相はBBCに対し、10月28日の次期予算案で生計費に関して政府がさらに何ができるかを検討するようジョン・ヒーリー首相に要請し、ヒーリー首相はそれが「主な焦点」になるだろうと述べたと語った。
+ヒーリー氏は、政府の支出額を制限する「強力な財政規律」を監督することを明らかにした。
+ある大手シンクタンクは最近、バーナム氏の国防と生活費に関する公約を達成するには増税か歳出削減が必要になると警告した。
+労働党のマニフェスト公約は、所得税、付加価値税、国民保険料（NIC）を含む勤労者の増税を行わないことであり、バーナム氏はこれを守ると表明した。
+レイチェル・リーブス政権下のこれまでの予算では雇用主の国民保険と最低賃金が引き上げられていたため、同氏は企業のコスト上昇に対処するプレッシャーに直面する可能性が高い。
+バーナム氏は先月、英国のパブ、社交クラブ、ライブ音楽会場は4月から営業料金を20％引き下げると発表し、これが業界を支援する「第一歩」だとした。
+同氏はBBCに対し、国民保険の引き上げが企業への圧力を高めていることを認め、政府は企業向け料金を「より広範囲に」検討すると述べた。
+バーナム氏は、「事業コストを下げたい。全国の目抜き通りをもっと活気のあるものにしたい。それがただ願うだけでは実現できないことは分かっている」と語った。
+しかし同氏は、「現時点でコミットメントを開始する」つもりはないと述べた。
+「それは予算のためです。」
+連絡する
+この話で議論されている問題の影響を受けましたか?
+関連トピック
+- 3 日前に公開
+- 12 分前に公開
+- 1 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-12T04:13:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e306/live/9bc93290-9581-11f1-8636-978a48bd79b6.jpg",
+    readTime: 4,
+  },
+  {
+    id: "ai-agents-alarming-hacking-skills-create-e6661748",
+    title: "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
+    titleJa: "AI エージェントの「驚くべき」ハッキング スキルがサイバーセキュリティへの支出ラッシュを生み出す",
+    summaryJa: "最近の一連の AI ハッキング事件により、各研究所がフロンティア モデルからエージェント AI の開発を競う中、サイバーセキュリティが話題の最前線に押し上げられています。OpenAIとAnthropicは先週、モデルが自社のテスト環境を突破し、他の企業にハッキングされたと発表した。その後、Meta は、自社の AI モデルの 1 つがサイバーセキュリティ評価中に他社にハッキングされたと発表しました。米国の複数のヘッジファンドもサイバーフィッシング攻撃の標的となったが、誰が犯人だったのかは依然として不明だ。",
+    bodyOriginal: `A string of recent AI hacking incidents has pushed cybersecurity to the forefront of the conversation, as labs race to develop agentic AI from their frontier models.
+Last week, OpenAI and Anthropic said models broke out of their testing environments and hacked into other companies. Following that, Meta announced that one of its AI models had hacked into another company during a cybersecurity evaluation. Several U.S. hedge funds were also targeted by cyber phishing attacks, though it is still unclear who was responsible.
+These episodes are unfolding against a broader cyber arms race being accelerated by frontier AI models and the inherent risks brought by fast-moving technological capabilities. For example, AI-enabled phishing has been found to be around five times more effective than human attempts. So while chips and data centers have dominated the first phase of AI capex, cybersecurity could become the next spending boom.
+The capabilities that enable AI to identify hacks are the same ones that allow it to exploit "vulnerabilities and gaps," according to Gene Yu from Blackpanda, a cyber emergency response firm that saw its incident response for cases across Asia Pacific double year-on-year in the first half of 2026.
+AI has not changed the volume of vulnerabilities in a system, but rather is a "force multiplier" to how quickly these vulnerabilities are found, Yu said. Its effectiveness making it "alarming" when "AI is not held back."
+That problem is likely to come with a growing price tag. Gartner estimates that spending on information security is expected to increase by 12.5% in 2026 to $240 billion.
+Companies are going to have to spend more on cybersecurity, according to Paul Meeks, head of technology research at Freedom Capital Markets. He predicts the outlays will be "in addition to" the current AI buildout spending, instead of an allocation away from it. Finance and healthcare are two sectors likely to need major increases in spending, he said, given their importance to global economies which also makes them tempting targets for cyberattacks.
+One question is whether demand flows toward pure-play cybersecurity vendors or hyperscalers with their own tech stack.
+Meeks thinks cybersecurity pure-plays like Palo Alto and Crowdstrike will benefit the most from this spending cycle, as hyperscalers will "take a while to develop something advanced enough." Plus, third-party vendors tend to be more sophisticated with preventing breaches, he said.
+Gene Yu concurs.
+"Major cybersecurity players will be the first to capture the upside," and "cybersecurity services are one of the most resilient sectors in the AI revolution." However, he thinks hyperscalers can also capture this spending boom as they "already have the structural edge" to either build internally or "acquire at great speed."
+Potential solutions going forward include regulation and changes to AI system design.
+If governments do not have "some rules of the game, we're going to be in trouble," Meeks said.
+Gary Marcus, an emeritus professor at NYU, says that while a lot of money has been "poured into LLMs," new research has to be done to build AI systems "that are more controllable." Rogue AI has arrived, he said, and there is "no good way to control it."`,
+    bodyJa: `最近の一連の AI ハッキング事件により、各研究所がフロンティア モデルからエージェント AI の開発を競う中、サイバーセキュリティが話題の最前線に押し上げられています。
+OpenAIとAnthropicは先週、モデルが自社のテスト環境を突破し、他の企業にハッキングされたと発表した。その後、Meta は、自社の AI モデルの 1 つがサイバーセキュリティ評価中に他社にハッキングされたと発表しました。米国の複数のヘッジファンドもサイバーフィッシング攻撃の標的となったが、誰が犯人だったのかは依然として不明だ。
+これらのエピソードは、フロンティア AI モデルによって加速されている広範なサイバー軍拡競争と、急速に変化する技術力によってもたらされる固有のリスクに対して展開されています。たとえば、AI を利用したフィッシングは、人間によるフィッシングよりも約 5 倍効果的であることがわかっています。そのため、AI 設備投資の第 1 段階ではチップとデータセンターが大半を占めてきましたが、サイバーセキュリティが次の支出ブームになる可能性があります。
+AI がハッキングを識別できるようにする機能は、AI が「脆弱性とギャップ」を悪用できるようにする機能と同じであると、サイバー緊急対応会社 Blackpanda の Gene Yu 氏は述べています。Blackpanda は、2026 年上半期にアジア太平洋地域全体でのインシデント対応が前年比で 2 倍になったそうです。
+AIはシステム内の脆弱性の量を変えたわけではなく、むしろこれらの脆弱性をいかに早く発見するかを「力を倍増させる」ものである、とYu氏は述べた。その有効性は、「AI が抑制されていない」場合に「憂慮すべき」ことになります。
+この問題には、価格の高騰が伴う可能性が高い。 Gartner は、情報セキュリティへの支出は 2026 年に 12.5% 増加して 2,400 億ドルになると予想しています。
+フリーダム・キャピタル・マーケッツの技術調査責任者、ポール・ミークス氏によると、企業はサイバーセキュリティーにさらに支出する必要があるという。同氏は、この支出は現在のAI構築支出から切り離して配分するのではなく、「それに加えて」行われるだろうと予測している。同氏は、金融とヘルスケアは世界経済にとっての重要性を考慮すると、サイバー攻撃の標的となりやすいことから、支出の大幅な増加が必要となる可能性が高い2分野であると述べた。
+疑問の 1 つは、需要が純粋なサイバーセキュリティ ベンダーに流れるのか、それとも独自の技術スタックを備えたハイパースケーラーに流れるのかということです。
+ミークス氏は、ハイパースケーラーは「十分に高度なものを開発するには時間がかかる」ため、パロアルトやクラウドストライクなどのサイバーセキュリティ専業企業がこの支出サイクルから最も恩恵を受けると考えている。さらに、サードパーティベンダーは侵害の防止に関してより洗練されている傾向があると同氏は述べた。
+ジーン・ユーも同意する。
+「サイバーセキュリティの大手企業が最初に利益を得るだろう」、「サイバーセキュリティサービスはAI革命において最も回復力のある分野の1つだ」。しかし同氏は、ハイパースケーラーも、社内で構築するか「急速に買収」するための「構造的優位性をすでに持っている」ため、この支出ブームを捉えることもできると考えている。
+今後考えられる解決策には、AI システム設計の規制や変更が含まれます。
+政府が「ゲームのいくつかのルール」を持たなければ、我々は問題に直面するだろうとミークス氏は語った。
+ニューヨーク大学の名誉教授であるゲイリー・マーカス氏は、多額の資金が「LLMに注ぎ込まれている」一方で、「より制御可能な」AIシステムを構築するには新たな研究を行う必要があると述べている。同氏は、不正AIが登場したが、「それを制御する良い方法はない」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+    publishedAt: "2026-08-12T02:58:04+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
     id: "sen-darline-graham-advances-to-republica-1663ef2e",
     title: "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
     titleJa: "ダーリン・グラハム上院議員、サウスカロライナ州の共和党特別予備選決選投票に進出",
@@ -82,6 +410,34 @@ Autohome の 2 月から 7 月のデータによると、最も売れた車 10 �
     publishedAt: "2026-08-12T01:20:13+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "coreweave-s-stock-soars-as-earnings-show-45511110",
+    title: "CoreWeave’s stock soars as earnings show major AI momentum",
+    titleJa: "AIの大きな勢いを示す収益でCoreWeaveの株価が急上昇",
+    summaryJa: "AI クラウド プロバイダーは売上高と利益の予想を上回り、CEO は「重要な転換点」を歓迎しました。",
+    bodyOriginal: `The AI cloud provider topped revenue and earnings expectations, with its CEO cheering “an important inflection point.”`,
+    bodyJa: `AI クラウド プロバイダーは売上高と利益の予想を上回り、CEO は「重要な転換点」を歓迎しました。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/coreweaves-stock-soars-as-earnings-show-major-ai-momentum-d3a5bede?mod=mw_rss_topstories",
+    publishedAt: "2026-08-12T00:17:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-36916244",
+    readTime: 2,
+  },
+  {
+    id: "super-micro-s-earnings-report-brings-mor-810fd7fd",
+    title: "Super Micro’s earnings report brings more good news, and the stock is climbing",
+    titleJa: "スーパーマイクロの決算報告は更なる朗報をもたらし、株価は上昇中",
+    summaryJa: "同社は数週間前、収益性の向上軌道をほのめかしてウォール街に感銘を与えた。 Super Micro の最新の予測も予想を上回りました。",
+    bodyOriginal: `The company impressed Wall Street several weeks ago by teasing an improved profitability trajectory. Super Micro’s latest forecast has exceeded expectations as well.`,
+    bodyJa: `同社は数週間前、収益性の向上軌道をほのめかしてウォール街に感銘を与えた。 Super Micro の最新の予測も予想を上回りました。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/super-micros-earnings-report-brings-more-good-news-and-the-stock-is-climbing-30e5ca89?mod=mw_rss_topstories",
+    publishedAt: "2026-08-12T00:16:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-01120314",
     readTime: 2,
   },
   {
@@ -1440,438 +1796,6 @@ BBCはさらなるコメントを求めてトランプ・メディア・アン�
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-18644660",
     readTime: 2,
-  },
-  {
-    id: "i-started-in-my-20s-and-made-8-000-why-2d1beaa4",
-    title: "'I started in my 20s and made £8,000': Why women are often better investors than men",
-    titleJa: "「20代で始めて8000ポンド稼いだ」：なぜ女性は男性よりも優れた投資家であることが多いのか",
-    summaryJa: "「20代で始めて8000ポンド稼いだ」：なぜ女性は男性よりも優れた投資家であることが多いのか- 公開されました",
-    bodyOriginal: `'I started in my 20s and made £8,000': Why women are often better investors than men
-- Published
-Women who invest their money get slightly higher long-term returns than men, new analysis suggests.
-But only about a quarter of UK women have investments, compared with about 40% of men, a separate report shows.
-We've looked at the data behind these trends, which reveal some surprising differences in how men and women approach investing.
-Teleri Evans was 25 when she began saving into a Help To Buy ISA then a couple of years later she took out a stocks and shares Lifetime ISA. By 33, she had £40,000 saved - with £8,000 of it returns on her investments.
-"I saved aggressively, and lived at my mum's for half of that time, so I could save as close as possible to the maximum £4,000 per year into Lifetime ISA," she says.
-The civil servant from Cardiff used the money towards a house deposit earlier this year with her partner.
-Only 26% of UK women invest, but that this falls to 23% for those under 45, according to a study by consumer finance website Boring Money.
-In contrast, 41% of all men invest, which holds steady at 40% of those under 45.
-So why are fewer women investing than men?
-It can be "largely attributed to culture", according to Gillian Fleming, co-founder and managing director of UK-based Mint Ventures, a women-led angel investment firm.
-"Men historically have been more likely to make family investment decisions, and women have also historically not owned the balance of wealth, but that is changing now," she says.
-"Also, money and wealth creation is not a topic that women often discuss, and we would like to change that."
-Teleri says she has noticed a shift of late. "Investing is definitely something that women are talking about more, which is always a good thing," she says. "That's the case with my friendship group."
-When women do invest in stocks and shares, analysis by Fidelity International found that over three years its female personal investing customers recorded cumulative returns of 50%, compared with 47% for men. The analysis does not identify the reason for the difference, but why may it be the case?
-One possible clue to women's slightly higher long-term returns lies in how often they buy and sell their investments, with Barclays data showing that women trade around half as frequently as men.
-This could be because women are more patient and risk averse, says Joanna Floyd, business psychologist at London-based The Work Psychologists.
-"Studies show that male investors trade more than women, chasing higher returns, but women actually get higher returns," she says.
-"The restraint that keeps women out of the market in the first place is the very same thing that rewards them once they are in it."
-That more cautious approach to risk can be seen beyond investing, with women more likely to choose certainty when faced with a financial gamble.
-When it comes to how women invest, Fleming says they are deliberately more cautious.
-"Women are often accused of being more risk adverse, we call it more risk aware," she says. "Certainly from speaking to male investors their main focus is on the rate of return."
-Fleming also says women appear to invest more broadly. "Men are more likely to invest in technology companies for their higher potential returns, whereas women want to invest in a broader range, from retail to food and drink, health and beauty, fem tech and creative industries."
-Anna Macdonald, investment strategy director at financial services company Hargreaves Lansdown, agrees that women choose the companies they invest in carefully.
-"Women appear to place relatively greater weight on where their money is going and what impact it might have, as well as the reassurance that an investment is right for them," she says.
-"Our research suggests men are...more readily attracted by the potential financial return."
-Jemma Slingo, pensions and investment specialist at investment firm Fidelity International, says female investors "appear more likely to connect investing with real-life goals, from building emergency savings to looking after children."
-It's important to remember women in the UK generally have less money to invest than men because the continuing gender pay gap means they earn less on average.
-Macdonald says that the investment sector "needs to do a better job of making investing feel accessible, relevant and connected to people's own goals and values".
-"Addressing this would be good for women's long-term financial resilience and for the UK economy."`,
-    bodyJa: `「20代で始めて8000ポンド稼いだ」：なぜ女性は男性よりも優れた投資家であることが多いのか
-- 公開されました
-新しい分析によると、自分のお金を投資する女性は男性よりも長期的な利益がわずかに高くなります。
-しかし別の報告書によると、男性の約40％に比べ、投資を行っている英国の女性は約4分の1にすぎない。
-私たちはこれらの傾向の背後にあるデータを調べましたが、男性と女性の投資への取り組み方には驚くべき違いがあることが明らかになりました。
-Teleri Evans が Help To Buy ISA に貯蓄し始めたのは 25 歳のときで、数年後に株と株式の Lifetime ISA を利用しました。 33 歳までに、彼女は 40,000 ポンドの貯蓄をしており、そのうち 8,000 ポンドが投資から回収されました。
-「私は積極的に貯蓄し、その期間の半分は母親の家で暮らしていたので、生涯ISAに向けて年間最大4,000ポンドにできるだけ近い金額を貯蓄することができました」と彼女は言います。
-カーディフの公務員は今年初めにそのお金をパートナーとの住宅の頭金に充てた。
-消費者金融ウェブサイト「Boring Money」の調査によると、英国女性のうち投資をしている人はわずか26％だが、45歳未満では23％に減るという。
-対照的に、男性全体の 41% が投資を行っており、45 歳未満では 40% で安定しています。
-では、なぜ男性に比べて女性の投資が少ないのでしょうか？
-英国に本拠を置く女性主導のエンジェル投資会社ミント・ベンチャーズの共同創設者兼マネージングディレクター、ジリアン・フレミング氏は、それは「主に文化に起因する」可能性があると語る。
-「歴史的に男性は家族で投資を決定する傾向が高く、また女性は歴史的に富の残高を所有していませんでしたが、今ではそれが変わりつつあります」と彼女は言う。
-「また、お金や富の創造は女性があまり議論しないテーマですが、私たちはそれを変えたいと思っています。」
-テレリさんは、最近変化に気づいたと言います。 「投資について女性の話題が増えているのは間違いなく、それは常に良いことです」と彼女は言う。 「私の友人グループもそうです。」
-フィデリティ・インターナショナルの分析によると、女性が株式に投資する場合、女性の個人投資顧客は3年間で累積リターンが50％を記録したのに対し、男性は47％だった。分析では違いの理由は特定されませんでしたが、なぜそうなるのでしょうか?
-女性の長期リターンが若干高いことを示す手がかりの一つは、投資を売買する頻度にあり、バークレイズのデータ​​によると、女性は男性の約半分の頻度で取引を行っていることが示されている。
-ロンドンに本拠を置くザ・ワーク・サイコロジストのビジネス心理学者、ジョアンナ・フロイド氏は、これは女性がより忍耐強く、リスクを回避するためである可能性があると指摘する。
-「研究によると、男性投資家は女性よりも取引量が多く、より高いリターンを追い求めていますが、実際には女性の方がより高いリターンを得ています」と彼女は言う。
-「そもそも女性を市場から遠ざけている制約は、一度女性が市場に参加すると報われるのと全く同じことなのです。」
-リスクに対するより慎重なアプローチは投資以外にも見られ、女性は金銭的なギャンブルに直面した場合に確実性を選択する傾向が高い。
-女性の投資方法に関しては、意図的に慎重になっているとフレミング氏は言う。
-「女性はリスクに敏感であると非難されることがよくあります。私たちはそれをリスク認識力と呼んでいます」と彼女は言う。 「男性投資家と話をすると、彼らの主な焦点は収益率であることは確かです。」
-フレミング氏はまた、女性はより広範囲に投資しているようだとも言う。 「男性は、より高い潜在利益を求めてテクノロジー企業に投資する傾向が高いのに対し、女性は小売りから飲食、健康と美容、フェムテック、クリエイティブ産業まで、より幅広い分野に投資したいと考えています。」
-金融サービス会社ハーグリーブス・ランズダウンの投資戦略ディレクター、アンナ・マクドナルド氏も、女性は投資する企業を慎重に選んでいることに同意する。
-「女性は、自分のお金がどこに使われるのか、それがどのような影響を与えるのか、そして投資が自分に適しているという安心感を比較的重視しているようです」と彼女は言う。
-「私たちの調査によると、男性は潜在的な金銭的利益に惹かれやすいようです。」
-投資会社フィデリティ・インターナショナルの年金・投資専門家ジェマ・スリンゴ氏は、女性投資家は「緊急貯蓄の構築から子供の世話まで、投資を現実の目標と結びつけている傾向が強いようだ」と語る。
-男女間の賃金格差が続いているため、女性の平均収入が少ないことを意味するため、英国では一般に女性の投資資金が男性より少ないことを覚えておくことが重要です。
-マクドナルド氏は、投資セクターは「投資がアクセスしやすく、関連性があり、人々自身の目標や価値観とつながっていると感じられるようにするために、より良い仕事をする必要がある」と述べている。
-「この問題に対処することは、女性の長期的な経済的回復力と英国経済にとって良いことになるでしょう。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-10T23:32:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c7/live/957b4470-93ea-11f1-8231-7d4e2048054e.jpg",
-    readTime: 5,
-  },
-  {
-    id: "cnbc-s-the-china-connection-newsletter-s-bc321496",
-    title: "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "こんにちは、エブリンです。北京から手紙を書いています。 The China Connection の最新版へようこそ。これは私が地元企業から見聞きしたことのスナップショットです。中国には「オデッセイ」用の 70mm Imax スクリーンはないが、それでもファンがプレミアム上映のチケットを手に入れるのは止められなかった。今週末はいくつかの上映作品がほぼ満席となり、日曜日に訪れた北京の劇場では珍しく行列ができていた。しかし、ハリウッドは十分な対応をしているのだろうか？",
-    bodyOriginal: `Hi, this is Evelyn, writing to you from Beijing. Welcome to the latest edition of The China Connection — a snapshot of what I'm seeing and hearing from local businesses.
-China doesn't have any 70mm Imax screens for "The Odyssey," but that hasn't stopped fans from snapping up tickets for premium screenings. Several showings were nearly sold out this weekend, and at the Beijing theater I visited Sunday, there was a rare line to get in. But is Hollywood doing enough?
-The big story
-America's movie stars are back in China.
-From Timothee Chalamet selling tofu in Chengdu to Tom Holland and Zendaya enjoying sheep-themed matcha in Shanghai, Hollywood is actively courting a massive market that's tightly controlled by Beijing.
-Some of it's paying off. "Spider-Man: Brand New Day" has already broken into the 10 highest-grossing movies in China this year, according to ticketing site Maoyan. As for "The Odyssey," it has already made more than $7 million in China, in just two weekends of limited screenings ahead of its official Aug. 14 release.
-Adding attention was an unconventional interview that went viral. Among a few local media appearances, director Christopher Nolan spoke with Yiyang Zhuge, a Boston College doctoral candidate who also hosts her own podcast. Their philosophical conversation has racked up more than 1 million views on streaming site Bilibili, and millions more on X.
-Zhuge claims someone from Universal reached out several weeks earlier to set up the post-premiere interview in Beijing. It contrasts with the studio's reported focus on traditional media in the U.S. A representative for Universal did not respond to a request for comment.
-The increased engagement comes as U.S.-China tensions have thawed this year.
-In the first six months, Imax screened 14 Hollywood films in mainland China, up from just two during the same period last year, filing data indicated.
-Not all the movies have done well. "Marty Supreme" and "Devil Wears Prada 2" both sent their leads to China but their box office struggled. "Toy Story 5" had only modest success.
-"The box office has picked up dramatically in China in recent weeks," Imax CEO Richard Gelfond said on an earnings call in late July, according to a FactSet transcript. He anticipates further improvement with upcoming films "Dune: Part Three" and "Avengers: Doomsday."
-The company also expects to benefit from popular Chinese series due to see new films released early next year, such as sci-fi title "The Wandering Earth."
-But it's hard to shake off bigger changes in how consumers spend. Industry figures show China's box office plunged 40% in the first half of the year.
-The content flow is also no longer one-way. Two of China's three highest-grossing films domestically this year have rolled out to other parts of Asia and abroad, helped by Alibaba's Damai Entertainment.
-Their overseas box office results are modest so far. But in a reminder of the Chinese studios' potential, it was just last year that Chinese animated movie "Ne Zha 2" beat Pixar's "Inside Out 2" as the top-grossing animated film worldwide, albeit largely at home.
-New formats and models
-Some companies in China are going further to upend entertainment.
-There's the Chinese-led micro-drama trend that's overtaken Netflix in the U.S. on mobile, according to Omdia. Then there's the rise of immersive virtual reality.
-As artificial intelligence enables studios to create VR content more cheaply and quickly, consumers can experience new productions more frequently, creating "the next generation of cinema," Ethan Tang, CEO of Metavision International, told me in Chengdu last month.
-Working with studios in France, Spain and Canada, the VR experience operator uses Pico or HTC headsets at designated venues in China and other countries to immerse people in 40-minute stories, set in ancient Egypt or the time of the dinosaurs.
-There's still a ways to go before replacing movie theaters. Tang said that across four venues, the company made $14.82 million in ticket sales in three years. But he said Metavision is already profitable.
-It reflects how VR may not be for the mass home market — and how cinematic experience may evolve.
-"Immersive entertainment commercializes fastest when one operator controls the hardware, the environment, and the narrative all together as a single integrated experience," said Jialu Shan, an associate research director at the Center for Future Readiness at IMD Business School.
-"One thing genuinely unique to China is the sheer scale of the large-format, location-based VR venues," she said, noting state policy support for such experiences. In combination with tourism, it's a trend she expects is more investable.
-But Hollywood hasn't made the leap yet.
-When I asked Tang about American content partners, he said it was "just a matter of time" before Hollywood studios license their characters to VR producers. He claimed Apple Vision Pro product engineers already tried Metavision's VR experience in Shanghai last year. Apple did not respond to a request for comment.
-Even as U.S. giants eye China's entertainment market, it may be changing faster than they can adapt.
-Need to know
-China's crude oil imports hit a three-month high in July
-A thaw in Strait of Hormuz tensions lifted China's crude imports last month, narrowing the year-on-year decline to just 24%, versus a 41% drop in June. AI-related demand drove China's overall export growth of nearly 24% year-on-year in July.
-U.S.-China tensions ramp up ahead of Trump-Xi meeting
-China retaliated against recent U.S. actions — such as restrictions on foreign-made humanoid robots — with export controls on drone sales to the U.S. Beijing also banned Chinese companies from working with U.S. entities for completing factory inspections required for selling electronics and other goods in China.
-Wealthy Chinese scramble for tax advice as Beijing targets offshore trusts
-Offshore trusts, long used by China's ultra-rich to store wealth, now face multiple tax events — at a 20% rate each. The new rules cover assets transferred to the trusts since the start of 2023, on which back taxes must be paid by Oct. 22 this year.
-Coming up
-Aug. 17: Retail sales, industrial production and fixed-asset investment data
-Aug. 19 - 23: World Robot Conference in Beijing
-Aug. 22 - 26: World Humanoid Robot Games in Beijing`,
-    bodyJa: `こんにちは、エブリンです。北京から手紙を書いています。 The China Connection の最新版へようこそ。これは私が地元企業から見聞きしたことのスナップショットです。
-中国には「オデッセイ」用の 70mm Imax スクリーンはないが、それでもファンがプレミアム上映のチケットを手に入れるのは止められなかった。今週末はいくつかの上映作品がほぼ満席となり、日曜日に訪れた北京の劇場では珍しく行列ができていた。しかし、ハリウッドは十分な対応をしているのだろうか？
-大きな話
-アメリカの映画スターが中国に戻ってきた。
-成都で豆腐を販売するティモシー・シャラメから、上海で羊をテーマにした抹茶を楽しむトム・ホランドとゼンデイヤに至るまで、ハリウッドは中国政府が厳しく管理する巨大市場を積極的に開拓している。
-一部は成果が出ています。チケット販売サイトMaoyanによると、『スパイダーマン：ブランニュー・デイ』はすでに今年中国で最も興行収入を上げた映画トップ10に入っている。 「オデッセイ」に関しては、8月14日の正式公開に先立って行われたわずか2週間の限定上映で、中国ではすでに700万ドル以上の興行収入を上げている。
-さらに注目を集めたのは、ネット上で広まった型破りなインタビューだった。クリストファー・ノーラン監督は地元メディアに数​​回出演し、自身のポッドキャストの司会者でもあるボストン大学の博士課程候補者イーヤン・ジューゲ氏と対談した。彼らの哲学的な会話は、ストリーミング サイト Bilibili で 100 万回以上、X ではさらに数百万回の再生回数を記録しました。
-諸葛氏は、北京でのプレミア上映後のインタビューを設定するためにユニバーサルの誰かが数週間前に連絡を取ったと主張している。これは、同スタジオが米国の伝統的なメディアに重点を置いていると報じられているのとは対照的である。ユニバーサルの代表者はコメントの要請に応じなかった。
-今年に入って米中の緊張が解けたことを受けて、関与が高まっている。
-申請データによると、最初の6か月間でアイマックスは中国本土で14本のハリウッド映画を上映したが、前年同期のわずか2本から増加した。
-すべての映画がうまくいったわけではありません。 「マーティ・シュプリーム」と「プラダを着た悪魔2」はどちらも中国に主演作を送りましたが、興行収入は苦戦しました。 「トイ・ストーリー５」はささやかな成功しか収められなかった。
-ファクトセットの記録によると、アイマックスのリチャード・ゲルフォンド最高経営責任者（CEO）は7月下旬の決算会見で「ここ数週間で中国の興行収入は劇的に回復した」と語った。彼は今後の映画『デューン: パート 3』と『アベンジャーズ: ドゥームズデイ』でさらなる改善を期待しています。
-同社はまた、来年初めにSFタイトル「The Wandering Earth」などの新作映画が公開される予定で、中国の人気シリーズからも恩恵を受けると予想している。
-しかし、消費者の支出方法における大きな変化を振り払うのは難しい。業界統計によると、今年上半期の中国の興行収入は40％減少した。
-コンテンツの流れも一方通行ではなくなりました。今年国内で最も興行収入を上げた中国映画３本のうち２本が、アリババ傘下のダマイ・エンターテインメントの支援を受けて、アジアのほかの地域や海外にも公開された。
-海外での興行成績は今のところ控えめだ。しかし、中国のスタジオの可能性を思い出させるのは、中国のアニメーション映画「Ne Zha 2」がピクサーの「インサイド・ヘッド 2」を上回り、主に国内向けではあったものの、世界で最も興行収入の高いアニメーション映画となったのはつい昨年のことだった。
-新しいフォーマットとモデル
-中国の一部の企業は、エンターテインメントの変革をさらに進めようとしている。
-Omdiaによると、米国では中国主導のマイクロドラマのトレンドがモバイルでNetflixを追い越しているという。次に、没入型仮想現実の台頭です。
-人工知能によりスタジオはより安価かつ迅速に VR コンテンツを作成できるようになり、消費者はより頻繁に新しい作品を体験できるようになり、「次世代の映画」が生まれると、メタビジョン インターナショナル CEO のイーサン タン氏が先月成都で私に語った。
-フランス、スペイン、カナダのスタジオと協力し、VR エクスペリエンス オペレーターは中国やその他の国の指定された会場で Pico または HTC ヘッドセットを使用して、古代エジプトや恐竜の時代を舞台にした 40 分間の物語に人々を浸らせます。
-映画館を置き換えるまでにはまだ道はある。タン氏によると、同社は4つの会場で3年間で1,482万ドルのチケット売上を上げたという。しかし同氏は、メタビジョンはすでに利益を上げていると述べた。
-これは、VR が家庭向け大衆市場向けではない可能性と、映画体験がどのように進化するかを反映しています。
-「没入型エンターテインメントは、1人のオペレーターがハードウェア、環境、物語をすべて単一の統合エクスペリエンスとして制御する場合に最も早く商品化されます」とIMDビジネススクール未来対応センターのアソシエート・リサーチ・ディレクター、ジアル・シャン氏は述べた。
-「中国に本当にユニークなことの1つは、大規模なロケーションベースのVR会場の規模が非常に大きいことです」と彼女は述べ、そのような体験に対する国家政策の支援について言及した。観光と組み合わせることで、より投資可能になる傾向だと彼女は予想している。
-しかし、ハリウッドはまだ飛躍していない。
-私がアメリカのコンテンツパートナーについてタン氏に尋ねたところ、ハリウッドのスタジオが自社のキャラクターをVRプロデューサーにライセンス供与するのは「時間の問題」だと答えた。同氏は、Apple Vision Proの製品エンジニアがすでに昨年上海でメタビジョンのVR体験を試したと主張した。アップルはコメントの要請に応じなかった。
-米国の大手企業が中国のエンターテインメント市場に注目しているにもかかわらず、適応できないほどの速さで変化している可能性がある。
-知っておく必要がある
-中国の原油輸入量が7月に3カ月ぶりの高水準に達した
-ホルムズ海峡の緊張が解けたことで先月の中国の原油輸入は増加し、前年同月比の減少幅は6月の41％減からわずか24％に縮小した。 AI関連の需要が7月の中国全体の輸出の伸びを前年比で24％近く押し上げた。
-トランプ大統領と習氏の会談を前に米中の緊張が高まる
-中国は、外国製の人型ロボットに対する規制など、最近の米国の行動に対して米国へのドローン販売の輸出規制で報復し、中国企業が電子機器やその他の商品を中国で販売するために必要な工場検査を完了するために米国企業と協力することも禁止した。
-中国政府がオフショア信託を標的にする中、裕福な中国人が税務アドバイスを求めて争う
-中国の超富裕層が資産を保管するために長年利用してきたオフショア信託は現在、それぞれ20％の税率で複数の課税事象に直面している。新しい規則は、2023年初め以降に信託に譲渡された資産を対象とし、今年10月22日までに未払い税を支払う必要がある。
-もうすぐ
-8月17日：小売売上高、鉱工業生産、固定資産投資データ
-8月19日から23日: 北京での世界ロボット会議
-8月22日から26日: 北京でのワールドヒューマノイドロボットゲームズ`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
-    publishedAt: "2026-08-10T23:00:14+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "ebay-may-dodge-a-gamestop-takeover-but-t-6fd7da74",
-    title: "EBay may dodge a GameStop takeover — but there’s a new twist in the Ryan Cohen saga",
-    titleJa: "EBayはGameStopの買収を回避するかもしれない – しかし、ライアン・コーエンの物語には新たな展開がある",
-    summaryJa: "ブルームバーグによれば、ゲームストップは合併以外の何らかの形でイーベイとの協力を提案する可能性があるという。アナリストの中には、eBayがその種の取引から大きな利益を得られるかどうかを疑う人もいる。",
-    bodyOriginal: `Bloomberg says GameStop could propose collaborating with eBay in some way other than a merger. Some analysts doubt whether eBay would benefit much from that sort of deal.`,
-    bodyJa: `ブルームバーグによれば、ゲームストップは合併以外の何らかの形でイーベイとの協力を提案する可能性があるという。アナリストの中には、eBayがその種の取引から大きな利益を得られるかどうかを疑う人もいる。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/ebay-may-dodge-a-gamestop-takeover-but-theres-a-new-twist-in-the-ryan-cohen-saga-d779b753?mod=mw_rss_topstories",
-    publishedAt: "2026-08-10T22:54:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-60456696",
-    readTime: 2,
-  },
-  {
-    id: "trump-media-posts-238-million-second-qua-2c30a1d7",
-    title: "Trump Media posts $238 million second-quarter loss as crypto declines",
-    titleJa: "トランプ・メディア、仮想通貨下落で第2四半期に2億3,800万ドルの損失を計上",
-    summaryJa: "トランプ・メディア＆テクノロジー・グループは月曜日、第2四半期の売上高が200万ドル未満で純損失が2億3,800万ドル以上だったと報告した。この損失は、前年同期の約2,000万ドルの損失に比べれば小さく見えたが、主に非現金資産の減少によるもので、これには「デジタル資産、担保に供されたデジタル資産、および株式」による1億9,000万ドル以上の損失が含まれると同社はプレスリリースで述べた。",
-    bodyOriginal: `Trump Media & Technology Group on Monday reported a net loss of more than $238 million for its fiscal second quarter on revenue of less than $2 million.
-That loss, which dwarfed the almost $20 million it lost in the same period last year, was primarily due to declines in non-cash assets, including more than $190 million in losses from "digital assets, digital assets pledged, and equity securities," the company said in a press release.
-The company's $1.7 million in quarterly revenue mostly came through ad services on Truth Social, TMTG's flagship social media product, which is used by President Donald Trump. That revenue marked an 89% increase from the year-ago quarter.
-The New York Times reported earlier Monday that Truth Social's traffic — which already paled in comparison to similar platforms, such as Elon Musk's X — fell sharply this summer.
-TMTG's quarterly operating expenses of more than $165 million were roughly 275% higher year over year.
-"Our operating expenses are largely impacted by the price volatility of digital assets," Chief Financial Officer Phillip Juhan said during the company's first-ever earnings call.
-The company also provided new details about Truth API, its controversial new service offering faster access to Trump's Truth Social posts.
-TMTG said it has signed "more than 10 customer agreements to date," adding that those clients are "primarily high-frequency trading firms" and are paying rates of $60,000 to $100,000 a month, the company confirmed.
-Trump Media & Technology was created after Trump was temporarily suspended from social media platforms in the wake of the Jan. 6, 2021, Capitol riot. It went public through a merger with a special purpose acquisition company and started trading on the Nasdaq in 2024 under the ticker DJT, which match the president's initials.
-Truth Social was the company's first product, but it later expanded into a variety of other industries, including crypto, financial services and fusion power.
-TMTG interim CEO Kevin McGurn told Axios on Friday that the company is pulling back from two agreements it struck with Crypto.com as it focuses on its media business and a pending merger with TAE, the fusion energy firm.
-McGurn said in Monday's earnings call that the combination with TAE is "the single most important driver of long-term value for this company."
-There are currently no commercial plants producing electricity using fusion tech.
-TMTG stock, which is now worth a fraction of what it fetched when it first started trading, closed down 8% Monday.`,
-    bodyJa: `トランプ・メディア＆テクノロジー・グループは月曜日、第2四半期の売上高が200万ドル未満で純損失が2億3,800万ドル以上だったと報告した。
-この損失は、前年同期の約2,000万ドルの損失に比べれば小さく見えたが、主に非現金資産の減少によるもので、これには「デジタル資産、担保に供されたデジタル資産、および株式」による1億9,000万ドル以上の損失が含まれると同社はプレスリリースで述べた。
-同社の四半期収益170万ドルは、そのほとんどがTMTGの主力ソーシャルメディア製品であるTruth Socialの広告サービスによるもので、ドナルド・トランプ大統領も利用している。この収益は前年同期比 89% の増加を記録しました。
-ニューヨーク・タイムズ紙は月曜初め、トゥルース・ソーシャルのトラフィック（イーロン・マスク氏のXなど同様のプラットフォームと比較すると既に見劣りしていた）がこの夏に急激に減少したと報じた。
-TMTG の四半期営業費用は 1 億 6,500 万ドルを超え、前年同期比で約 275% 増加しました。
-「当社の営業費用はデジタル資産の価格変動に大きく影響される」と最高財務責任者のフィリップ・ジュアン氏は同社初の決算会見で述べた。
-同社はまた、トランプ大統領の「Truth Social」投稿への迅速なアクセスを提供する物議を醸している新サービス「Truth API」に関する新たな詳細も明らかにした。
-TMTGは、「これまでに10件以上の顧客契約」を締結していると述べ、それらの顧客は「主に高頻度取引会社」であり、月額6万ドルから10万ドルの料金を支払っていると同社は認めた。
-トランプ・メディア＆テクノロジーは、2021年1月6日の国会議事堂暴動を受けてトランプ大統領がソーシャルメディア・プラットフォームから一時的に活動停止になったことを受けて設立された。特別買収目的会社との合併を通じて上場し、2024年に社長のイニシャルと一致するティッカーDJTでナスダックでの取引を開始した。
-Truth Social は同社の最初の製品でしたが、その後、暗号通貨、金融サービス、核融合発電など、他のさまざまな業界に拡大されました。
-TMTGの暫定最高経営責任者（CEO）ケビン・マクガーン氏は金曜日、同社がメディア事業と核融合エネルギー会社TAEとの保留中の合併に注力するため、Crypto.comと結んだ2つの契約を撤回するとAxiosに語った。
-マクガーン氏は月曜の決算会見で、TAEとの組み合わせが「この会社の長期的価値を生み出す唯一の最も重要な推進力」であると述べた。
-現在、核融合技術を使用して発電している商用発電所はありません。
-TMTG株は現在、取引開始時の価格の数分の一の価値となっているが、月曜日には8％下落して取引を終えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
-    publishedAt: "2026-08-10T22:33:55+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "nvidia-gets-500bn-from-major-investors-t-cfcbfc03",
-    title: "Nvidia gets $500bn from major investors to develop AI infrastructure",
-    titleJa: "Nvidia、AIインフラ開発のために大手投資家から5,000億ドルを調達",
-    summaryJa: "この資金は、AIのデータとアクションを処理する何マイルにもわたる積み重ねられたコンピューターチップを収容、運用、冷却するための新しいデータセンターの開発に使用されます。",
-    bodyOriginal: `Nvidia gets $500bn from major investors to develop AI infrastructure
-- Published
-Nvidia has teamed up with some of Wall Street's largest banks and investors to raise $500bn (£370bn) in capital for artificial intelligence (AI) infrastructure.
-The chipmaker said it had struck deals with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR, and that the investors were for the first time treating AI hardware and infrastructure, often referred to as "compute", as an asset class.
-"In AI, compute is revenue", Jensen Huang, chief executive of Nvidia, said. "We are bringing the world's leading long-term capital providers together to independently underwrite AI infrastructure."
-The financing will go towards Nvidia's own projects and those being built by its partners.
-Infrastructure projects backed by this fund will likely include the construction of new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.
-It will also back new factories to manufacture the AI chips needed to power these systems and increase their availability to buyers.
-"Compute has become a critical infrastructure asset", Joe Bae and Scott Nuttall, co-chief executives of KKR, said in a joint statement. "As we've scaled our approach to digital infrastructure, we've learned that delivery, not ambition, is the hard part."
-Essentially every major technology and AI company uses Nvidia's computer chips, or graphics processing units (GPUs), to power their services, AI platforms and AI chatbots.
-Companies using Nvidia's popular chips or GPUs include Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic.
-Such companies have collectively spent over $1tn, external in just three years on AI projects and infrastructure, with much more spending expected. And their demand for Nvidia's chips and services has driven the stock market value of the company up five fold in three years.
-In a statement on Monday, Huang referred to Nvidia's role as a chip-maker as the company's beginning.
-"Today, we are helping create a new class of productive, investable infrastructure: AI factories," he said.
-With a new ability to tap some funding from the banks and investors partnering with Nvidia, they will be able to finance more of the AI boom.
-Jim Zelter, president of Apollo, a lender which manages more than $1tn in assets, said: "Modern compute has emerged as a scarce, mission-critical asset class."
-It is also "positioned to drive significant long-term economic growth and productivity gains", Zelter added.
-BlackRock last month entered into an individual deal with Meta, external to finance and take a majority ownership stake in one data centre in Texas.
-Anthropic also recently entered into a deal with Macquarie Asset Management and GIC, an investment bank in Singapore, for its own investment in AI infrastructure.
-The company did not specify the size of the deal, but said more financing was needed as its popular chatbot Claude had become so popular that the "demand requires significant new compute".`,
-    bodyJa: `Nvidia、AIインフラ開発のために大手投資家から5,000億ドルを調達
-- 公開されました
-Nvidiaはウォール街の大手銀行や投資家の一部と提携し、人工知能（AI）インフラストラクチャ向けに5000億ドル（3700億ポンド）の資金を調達した。
-同社は、Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKRと契約を締結しており、投資家たちは、しばしば「コンピューティング」と呼ばれることが多いAIハードウェアとインフラストラクチャを初めて資産クラスとして扱ったと述べた。
-Nvidia の最高経営責任者、ジェンセン フアン氏は、「AI ではコンピューティングが収益です」と述べています。 「私たちは世界有数の長期資本プロバイダーを結集して、AIインフラストラクチャを独立して引き受けます。」
-この資金は、Nvidia 自身のプロジェクトとそのパートナーによって構築されているプロジェクトに充てられます。
-この基金が支援するインフラプロジェクトには、AIのデータや動作を処理する何マイルにもわたる積み重ねられたコンピューターチップを収容、運用、冷却するための新しいデータセンターの建設が含まれる可能性が高い。
-また、これらのシステムに電力を供給し、購入者への可用性を高めるために必要な AI チップを製造する新しい工場も支援します。
-KKRの共同最高経営責任者であるジョー・ベイ氏とスコット・ナトール氏は共同声明で「コンピューティングは重要なインフラ資産となっている」と述べた。 「デジタル インフラストラクチャへのアプローチを拡大するにつれて、難しいのは野心ではなく実現であることが分かりました。」
-基本的に、すべての主要なテクノロジー企業と AI 企業は、自社のサービス、AI プラットフォーム、AI チャットボットを強化するために Nvidia のコンピューター チップ、つまりグラフィックス プロセッシング ユニット (GPU) を使用しています。
-Nvidia の人気チップや GPU を使用している企業には、Google、Meta、Amazon、Microsoft、SpaceX、Tesla、OpenAI、Anthropic などがあります。
-このような企業は、わずか 3 年間で AI プロジェクトとインフラストラクチャに合計 1 兆ドルを超える外部支出を行っており、さらに多くの支出が見込まれています。そして、Nvidia のチップとサービスに対する彼らの需要により、同社の株式市場価値は 3 年間で 5 倍に上昇しました。
-フアン氏は月曜日の声明で、チップメーカーとしてのエヌビディアの役割が会社の始まりであると言及した。
-「現在、私たちは生産的で投資可能な新しい種類のインフラストラクチャ、つまり AI ファクトリーの構築を支援しています」と同氏は述べた。
-Nvidia と提携している銀行や投資家から資金を調達できる新たな機能により、AI ブームにより多くの資金を提供できるようになります。
-1兆ドル以上の資産を管理する金融会社アポロのジム・ゼルター社長は、「最新のコンピューティングは、希少でミッションクリティカルな資産クラスとして浮上している」と述べた。
-また、「長期的な経済成長と生産性の大幅な向上を推進する立場にある」とゼルター氏は付け加えた。
-ブラックロックは先月、メタ社と外部金融契約を締結し、テキサス州のデータセンター1カ所の過半数の所有権を取得した。
-アンスロピックは最近、AIインフラへの自社投資について、マッコーリー・アセット・マネジメントおよびシンガポールの投資銀行GICとも契約を結んだ。
-同社は取引規模については明らかにしなかったが、同社の人気チャットボット「Claude」の人気が非常に高まったため「需要には大幅な新しいコンピューティングが必要」なため、さらなる資金調達が必要だと述べた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-10T22:31:42+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ae/live/d1192590-9504-11f1-bf69-07da70b136c8.jpg",
-    readTime: 4,
-  },
-  {
-    id: "openai-wraps-7-billion-share-sale-ahead-6a224fd9",
-    title: "OpenAI wraps $7 billion share sale ahead of potential IPO",
-    titleJa: "OpenAI、IPOの可能性を前に70億ドルの株式売却を完了",
-    summaryJa: "OpenAIは総額約70億ドルの二次株式売却を完了し、現従業員と元従業員が同社の評価額8,520億ドルで株式を売却できるようになったとCNBCが月曜日に認めた。OpenAIが3月に記録的な1,220億ドルの資金調達ラウンドを完了して以来、公開買い付けの準備が進められてきた。この取引は短期的な流動性への圧力を軽減するのに役立ち、従業員は潜在的に大規模になる可能性のある同社のIPOに先立って保有株の一部を現金化できるようになる。",
-    bodyOriginal: `OpenAI completed a secondary share sale totaling roughly $7 billion, allowing current and former employees to sell stock at the company's $852 billion valuation, CNBC confirmed on Monday.
-The tender offer has been in the works since OpenAI closed its record-breaking $122 billion funding round in March. The deal will help alleviate some near-term pressure for liquidity, allowing employees to cash in a portion of their holdings ahead the company's potentially massive IPO.
-Bloomberg was first to report the $7 billion figure.
-OpenAI rocketed into the mainstream following the launch of its ChatGPT chatbot in 2022, and it's ballooned into one of the fastest-growing private companies on the planet in the years since. The company confidentially filed its prospectus with the Securities and Exchange Commission in June, but hasn't disclosed an official timeline for its debut. Rival Anthropic is in a similar position.
-Secondary sales have become part of OpenAI's pre-IPO strategy. The company completed a $6.6 billion tender offer at a $500 billion valuation in October, and a $1.5 billion tender offer in 2024.
-—CNBC's Kate Rooney contributed to this report
-WATCH: Big Tech’s Anthropic, OpenAI stakes distort S&P earnings picture`,
-    bodyJa: `OpenAIは総額約70億ドルの二次株式売却を完了し、現従業員と元従業員が同社の評価額8,520億ドルで株式を売却できるようになったとCNBCが月曜日に認めた。
-OpenAIが3月に記録的な1,220億ドルの資金調達ラウンドを完了して以来、公開買い付けの準備が進められてきた。この取引は短期的な流動性への圧力を軽減するのに役立ち、従業員は潜在的に大規模になる可能性のある同社のIPOに先立って保有株の一部を現金化できるようになる。
-70億ドルという数字を最初に報じたのはブルームバーグだった。
-OpenAI は、2022 年の ChatGPT チャットボットの発売後、主流に急成長し、以来数年で地球上で最も急速に成長している民間企業の 1 つに成長しました。同社は6月に証券取引委員会に目論見書を極秘に提出したが、デビューの正式なスケジュールは明らかにしていない。ライバルのAnthropicも同様の立場にある。
-二次販売は OpenAI の IPO 前戦略の一部となっています。同社は10月に評価額5000億ドルで66億ドルの株式公開買い付けを完了し、2024年には15億ドルの株式公開買い付けを完了した。
-—CNBCのケイト・ルーニーがこのレポートに寄稿しました
-注目：ビッグテックの人類的OpenAI株がS&Pの収益状況を歪める`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
-    publishedAt: "2026-08-10T22:15:31+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "councils-to-get-more-powers-to-stop-vape-8592481a",
-    title: "Councils to get more powers to stop vape and betting shops, PM announces",
-    titleJa: "電子タバコと賭博店を阻止する権限を議会に与えると首相が発表",
-    summaryJa: "電子タバコと賭博店を阻止する権限を議会に与えると首相が発表- 公開されました",
-    bodyOriginal: `Councils to get more powers to stop vape and betting shops, PM announces
-- Published
-New vape shops will require planning permission and councils will get more powers to stop betting shops, under government plans aimed at improving high streets.
-Prime Minister Andy Burnham said town centres had been "hollowed out" by decades of decline and "for many people, the high streets they grew up with have become unrecognisable".
-BBC News has exposed organised crime on high streets across the country, revealing shops selling illegal cigarettes and vapes, selling cannabis and cocaine, enabling illegal working and suspected money-laundering.
-The Conservatives and Reform said the proposals would lead to "more empty" shops, without tax relief for other small businesses.
-Burnham said the measures will give councils more power to control what businesses open in town centres.
-The proposals come as the prime minister embarks on a tour of the UK, with Downing Street saying he will be in "listening mode" during his visits as he works on a "10-year plan to bring back hope".
-The plans announced by the government include:
-Changes to planning law which would mean every new shop selling e-cigarettes, or vapes, would need to apply to their local council for permission to open (England only)
-Tightening the definition of a vape shop to prevent businesses avoiding the rules by describing themselves as a general convenience store or retailer (England only)
-Scrapping a rule known as "aim to permit", which currently restricts councils' ability to refuse new betting shops and 24-hour slot machine shops (Great Britain-wide)
-Requiring planning permission for new adult gaming centres, which offer 24-hour access to gambling machines (England only)
-New powers to extend closure orders for mini-marts and vape shops found to be selling illegal tobacco or up to twelve months, something previously proposed by former Prime Minister Sir Keir Starmer (England and Wales)
-The National Crime Agency (NCA) estimates that at least £1bn of criminal cash is laundered through high street stores in the UK each year through businesses connected to the sale of fake goods, tax evasion, illegal working and illegal drug supply.
-Burnham said "the rise of vape shops, betting shops and rogue operators have replaced the shops, services, and community spaces that people are crying out for".
-He added: "That's not on. I said we would improve Britain's high streets, and that's exactly what we are starting to do.
-"We're putting communities back in control and giving local people a real say over what opens on their high street."
-In response to the announcement, Conservative shadow communities secretary Sir James Cleverly said "once-treasured shops" have been replaced by a "smattering of rogue operators".
-But Sir James said increases to business rates by Labour had left "empty units for whoever is left standing to fill".
-He said: "Unless the government takes steps to support the high streets and hard-working businesses, Labour's increases in planning regulation will just mean more empty and boarded up shops."
-For the Liberal Democrats, home affairs spokesman Max Wilkinson said Burnham's plan "could go up in a puff of smoke" unless he toughens up powers to "properly crack down on cowboy vape shops and dodgy operators".
-His calls included asking the prime minister to scrap the business rates system.
-Reform UK economy spokesman Robert Jenrick said: "Until this government scraps the jobs tax, addresses sky-high business rates and provides real, fundamental support for high street businesses, this policy will only create even more empty shops on our high streets."
-A Green Party spokesperson said the government's proposals "look like more inadequate tinkering and reannouncements".
-They called on the prime minister to "go further and allow councils to introduce rent controls for small businesses".
-The Betting and Gaming Council said it supports "tough action against criminal operator" and agrees "local people should have a proper say over their high streets".
-A spokesperson for the industry body added it was "simply wrong" to suggest that betting shops are spreading "unchecked", adding around 3,000 shops have closed since 2019.
-Councillor Eamonn O'Brien, who chairs the Local Government Association, said it was "positive" that councils and communities "will get a greater say on what shops and services are found on their high streets".
-For 18 months, BBC News has reported on high street organised crime, including drug gangs, money laundering, child sexual exploitation reports, immigration crime and ghost directors linked to shop fronts selling illegal cigarettes and illegal vapes.
-In April 2025, the BBC joined the NCA as it raided barbers, mini-marts and vape shops in response to growing intelligence reports that some of these shops were being used for money laundering and illegal working.
-In May and June of last year, the team found secret underground tunnels supplying sacks of illegal cigarettes to high street mini-marts in Hull.
-In July last year, mass Freedom of Information requests revealed for the first time that 3,700 illegal shops had operated across the UK.
-In November, the BBC exposed asylum seekers buying and selling high street mini-marts for cash and criminal kingpins erasing £60,000 illegal working fines, and revealed a Kurdish organised crime gang operating on high streets the length of Britain.
-In response, Home Secretary Shabana Mahmood launched an "urgent" investigation led by the NCA, Immigration Enforcement, HMRC and police forces from across the country.
-She said the BBC's evidence proved that "the system was broken" and demonstrated a pull factor in the small boat crisis.
-In March the BBC revealed a senior council worker had repeatedly shared with West Midlands authorities reports of children as young as 11 being sexually abused in high street mini-marts, and last month undercover reports exposed how cocaine, cannabis, laughing gas and prescription pills were being offered for sale.
-One street visited in the West Midlands was described as "lawless" by an anonymous law enforcement source.
-After the report, six mini-marts and vape shops on one high street in Cradely Heath, Sandwell were forced to close following an investigation by police and Trading Standards.
-Earlier this year, ministers announced a £30m enforcement operation targeting high street businesses suspected of money laundering, tax evasion and illegal working.
-Raids involving police, HMRC, Trading Standards and Immigration Enforcement have since taken place across the country.
-Additional reporting by Phill Edwards and Richard Wheeler`,
-    bodyJa: `電子タバコと賭博店を阻止する権限を議会に与えると首相が発表
-- 公開されました
-大通りの改善を目的とした政府の計画に基づき、新しい電子タバコ店には計画許可が必要となり、議会には賭博店を阻止する権限が強化される。
-アンディ・バーナム首相は、数十年にわたる衰退により町の中心部は「空洞化」しており、「多くの人にとって、自分たちが育った目抜き通りは認識できなくなっている」と述べた。
-BBCニュースは、全国の目抜き通りでの組織犯罪を暴露し、違法なタバコや電子タバコを販売したり、大麻やコカインを販売したりする店舗を明らかにし、違法労働やマネーロンダリングの疑いのある店舗を明らかにした。
-保守党と改革党は、この提案は他の中小企業への減税がなければ「空き店舗の増加」につながると主張した。
-バーナム氏は、この措置により市の中心部でどのようなビジネスを開くかを管理する権限が市議会に与えられると述べた。
-この提案は首相が英国歴訪に乗り出すタイミングで出されたもので、ダウニング街は首相が「希望を取り戻すための10年計画」に取り組む中で、訪問中は「話を聞くモード」になると述べた。
-政府が発表した計画には以下が含まれます。
-計画法の変更により、電子タバコまたはベイプを販売するすべての新しい店は、開店許可を地元の議会に申請する必要があることになる（イングランドのみ）
-企業が自らを一般的なコンビニエンスストアまたは小売業者と称して規則を回避することを防ぐために、VAPE ショップの定義を厳格化 (イングランドのみ)
-現在、新たな賭博店や24時間営業のスロットマシン店を拒否する評議会の権限を制限している「許可の目標」として知られる規則を撤廃する（英国全土）
-ギャンブルマシンへの 24 時間アクセスを提供する新しいアダルト ゲーム センターの計画許可を必要とする (イングランドのみ)
-違法タバコを販売していることが判明したミニマートや電子タバコ店への閉鎖命令を最長12か月延長する新たな権限、以前キア・スターマー元首相（イングランド・ウェールズ）が提案していたもの
-国家犯罪庁（NCA）は、偽商品の販売、脱税、違法労働、違法薬物供給に関連するビジネスを通じて、英国の繁華街の店舗で毎年少なくとも10億ポンドの犯罪現金が洗浄されていると推定している。
-バーナム氏は、「電子タバコ店、賭博店、不正業者の台頭により、人々が切望していた店舗、サービス、コミュニティスペースに取って代わられた」と述べた。
-同氏はさらに、「それは違う。英国の目抜き通りを改善すると私は言ったが、まさにそれが我々がやり始めていることだ」と付け加えた。
-「私たちはコミュニティを管理下に戻し、大通りに何がオープンするかについて地元住民に真の発言権を与えています。」
-この発表を受けて、保守党影のコミュニティ書記サー・ジェームス・クレバリー氏は、「かつては大切にされていた店」が「少数の不正業者」に取って代わられたと述べた。
-しかし、ジェームズ卿は、労働党によるビジネス料金の引き上げにより、「残った人が補充できる空きユニット」が残ったと述べた。
-同氏は、「政府が大通りや勤勉な企業を支援する措置を講じない限り、労働党が計画規制を強化しても、空き店舗や板で覆われた店舗が増えるだけだ」と語った。
-自由民主党に対し、内務報道官マックス・ウィルキンソン氏は、バーナム氏が「カウボーイ電子タバコ店や危険な経営者を適切に取り締まる」権限を強化しない限り、バーナム氏の計画は「煙に巻かれて消えてしまう可能性がある」と述べた。
-彼の電話には、首相にビジネス料金制度を廃止するよう求める内容が含まれていた。
-改革英国経済報道官のロバート・ジェンリック氏は、「政府が雇用税を廃止し、法外なビジネスレートに対処し、大通りのビジネスに実質的かつ根本的な支援を提供しない限り、この政策は大通りにさらに空き店舗を生み出すだけだ」と述べた。
-緑の党の報道官は、政府の提案は「さらに不十分な手直しと再発表のように見える」と述べた。
-彼らは首相に対し「さらに踏み込んで、議会が中小企業向けの家賃規制を導入できるようにする」よう求めた。
-賭博賭博評議会は「犯罪運営者に対する厳しい行動」を支持し、「地元住民が大通りに対して適切な発言権を持つべきである」ことに同意すると述べた。
-業界団体の広報担当者は、賭博店が「野放し」に蔓延していると示唆するのは「まったくの間違い」だと付け加え、2019年以来約3000店が閉店したと付け加えた。
-地方自治体協会会長のイーモン・オブライエン市議会議員は、議会や地域社会が「大通りにどのような店舗やサービスがあるかについて、より大きな発言権を得る」ことが「前向き」であると述べた。
-BBCニュースは18か月間、麻薬組織、マネーロンダリング、児童の性的搾取報告、移民犯罪、違法タバコや違法電子タバコを販売する店頭に関係するゴーストディレクターなど、大通りの組織犯罪を報道してきた。
-2025年4月、BBCはNCAに加わり、理髪店、ミニマート、電子タバコ店の一部がマネーロンダリングや不法労働に利用されているとする諜報報告の増加に応じて、これらの店を強制捜査した。
-昨年の5月と6月、チームはハルの目抜き通りのミニマートに違法タバコの袋を供給する秘密の地下トンネルを発見した。
-昨年7月、大規模な情報公開請求により、英国全土で3,700の違法店舗が営業していたことが初めて明らかになった。
-11月、BBCは、亡命希望者が大通りのミニマートで現金を売り買いし、犯罪の中心人物が6万ポンドの不法労働罰金を取り消していることを暴露し、英国全土にわたる大通りで活動しているクルド人組織犯罪集団を暴露した。
-これに応じて、シャバナ・マフムード内務大臣は、NCA、移民執行局、HMRC、全国の警察が主導する「緊急」捜査を開始した。
-彼女は、BBCの証拠は「システムが壊れていた」ことを証明し、小型ボートの危機におけるプル要因を示したと述べた。
-3月にBBCは、議会の上級職員が目抜き通りのミニマートで11歳の子供が性的虐待を受けているという報告を繰り返しウエスト・ミッドランド当局に共有していたことを明らかにし、先月の潜入報道でコカイン、大麻、笑気ガス、処方薬がどのように売りに出されていたかを暴露した。
-ウェスト・ミッドランズで訪れたある通りは、匿名の法執行機関関係者によって「無法地帯」であると評された。
-この報告の後、サンドウェルのクレイドリー・ヒースにある大通りにある6つのミニマートと電子タバコ店は、警察と取引基準局の捜査を受けて閉店を余儀なくされた。
-今年初めに閣僚らは、マネーロンダリング、脱税、不法就労の疑いのある大通りのビジネスを対象とした3,000万ポンドの取締り作戦を発表した。
-その後、警察、HMRC、貿易基準局、入国管理局が関与する強制捜査が全国各地で行われた。
-Phill Edwards と Richard Wheeler による追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-10T21:33:51+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43eb/live/ed0a0df0-94fa-11f1-9181-85140b8ce01b.jpg",
-    readTime: 7,
-  },
-  {
-    id: "trump-signs-executive-order-calling-for-18aa67b8",
-    title: "Trump signs executive order calling for fewer childhood vaccines, falsely linking shots to autism",
-    titleJa: "トランプ大統領、小児ワクチンの接種を自閉症と誤って結びつけ、ワクチン接種の削減を求める大統領令に署名",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `President Donald Trump on Monday signed an executive order backing fewer routine vaccines for kids, calling to whittle down the number of recommended childhood shots to 11 while falsely tying immunizations to autism.
-The order builds on the Trump administration's efforts to reshape the childhood shot schedule under Health and Human Services Secretary Robert F. Kennedy Jr., a longtime vaccine skeptic.
-"This updated recommendation finally aligns the United States with other advanced and developed nations around the world," Trump said during a briefing on Monday. "More importantly, it aligns us with common sense and knowledge."
-He also falsely tied vaccines to autism, suggesting multiple times that rising rates of childhood shots have led to an increase in autism diagnoses. Decades of scientific evidence has shown no link between autism and childhood vaccines.
-He also called for splitting the combination measles, mumps and rubella, or MMR, vaccine into three separate single-disease shots.
-"The MMR we want to have separate visits, separate times. The vaccine being broken into three separate single doses and vaccines being administered in separate visits," Trump said.
-The order also directs the Department of Justice to investigate where states are in violation of exemptions for childhood vaccine mandates, including parental authority and disability accommodations as well as religious and medical reasons.
-It's not the first time the administration has taken aim at the MMR vaccine and the related MMRV shot, which adds the varicella vaccine to inoculate against chickenpox. Last year, a key vaccine advisory panel to the Centers for Disease Control and Prevention also weakened recommendations for the MMRV shot for children under age 4.
-But some health experts say that splitting up the shot raises the chance of missed appointments and skipped immunizations because it requires more doctor visits. Speaking to reporters after signing the order, Trump acknowledged it may be hard for some parents to take a child to the doctor multiple times, but argued it would be worth it.
-"It's inconvenient, it's five stops, but it's something that I think will have a huge impact on autism," he said.
-There is no scientific evidence that combining the shots leads to higher autism risk.
-Asked if he has any concerns about parents being able to afford multiple co-pays for doctor's visits, Trump said "we're going to work with the families" to help them afford the costs, without saying specifically how.
-The White House also confirmed that changes in vaccine recommendations would not change insurance coverage for the shots.
-Trump's executive order comes as the U.S. logs its worst year for measles infections in decades. Vaccination rates for children have fallen since the Covid-19 pandemic.`,
-    bodyJa: `ドナルド・トランプ大統領は月曜日、子供向けの定期ワクチン接種の削減を支持する大統領令に署名し、予防接種と自閉症を誤って結びつけながら、推奨される小児期ワクチン接種の回数を11回に減らすよう求めた。
-この命令は、長年ワクチンに懐疑的だったロバート・F・ケネディ・ジュニア保健福祉長官の下で小児期の予防接種スケジュールを再編するトランプ政権の取り組みを踏まえたものである。
-トランプ大統領は月曜日の会見で、「この最新の勧告により、最終的に米国は世界中の先進国や先進国と足並みを揃えることになる」と述べた。 「さらに重要なことは、それは私たちを常識と知識と一致させることです。」
-同氏はまた、ワクチンと自閉症を誤って結びつけ、小児期のワクチン接種率の上昇が自閉症診断の増加につながっていると何度も示唆した。何十年にもわたる科学的証拠は、自閉症と小児用ワクチンとの間に関連性がないことを示しています。
-同氏はまた、麻疹、おたふく風邪、風疹の混合ワクチン（MMR）を単一疾患ごとに3回に分けて接種するよう求めた。
-トランプ大統領は「われわれはMMRを別々の訪問、別々の時間で実施したいと考えている。ワクチンは3回の別々の単回接種に分けられ、別々の訪問でワクチンが投与される」と述べた。
-この命令はまた、司法省に対し、親権や障害への配慮、宗教的および医学的理由を含む小児ワクチン接種義務の免除に違反している州を調査するよう指示している。
-政権がMMRワクチンと、水痘の予防接種に水痘ワクチンを加えた関連するMMRV予防接種に狙いを定めたのはこれが初めてではない。昨年、疾病管理予防センターの主要なワクチン諮問委員会も、4歳未満の子供に対するMMRVワクチン接種の推奨を弱めました。
-しかし一部の医療専門家は、接種を分割するとより多くの医師の診察が必要となるため、予約を逃したり予防接種をスキップしたりする可能性が高まると述べている。大統領令に署名した後、トランプ大統領は記者団に対し、一部の親にとって子供を何度も医者に連れて行くのは難しいかもしれないと認めたが、それだけの価値はあると主張した。
-「5駅かかるので不便ですが、自閉症に大きな影響を与えると思います」と彼は言う。
-ショットを組み合わせると自閉症のリスクが高まるという科学的証拠はありません。
-両親が医師の診察にかかる複数の自己負担金を支払う余裕があることに懸念があるかとの質問に対し、トランプ大統領は、費用を負担できるよう「家族と協力するつもりだ」と述べたが、具体的な方法については言及しなかった。
-ホワイトハウスはまた、ワクチンの推奨事項が変更されても、予防接種に対する保険適用は変更されないことを確認した。
-トランプ大統領の大統領令は、米国が麻疹感染者数が数十年で最悪の年を記録している中で発令された。新型コロナウイルス感染症のパンデミック以来、子どものワクチン接種率は低下している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
-    publishedAt: "2026-08-10T20:51:17+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
   },
 ];
 
