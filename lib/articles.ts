@@ -15,6 +15,514 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "harvey-nichols-bought-by-sports-direct-o-e1d6cbad",
+    title: "Harvey Nichols bought by Sports Direct owner",
+    titleJa: "ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される",
+    summaryJa: "ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される- 公開されました",
+    bodyOriginal: `Harvey Nichols bought by Sports Direct owner
+- Published
+Luxury department store Harvey Nichols has been bought by the owners of Sports Direct, which warned a "significant restructuring" will be needed to ensure the 200-year-old business remains sustainable.
+Mike Ashley's Frasers Group will take control of the Harvey Nichols stores, including its flagship in Knightsbridge, as well as the international franchise.
+The department store was immortalised in BBC sitcom Absolutely Fabulous, but had faced challenges in recent years. The firm had appointed administrators in June.
+Michael Murray, Frasers' chief executive and Ashley's son-in-law, called the store a "British institution with significant potential" but added "clear meaningful change is needed".
+"The turnaround will require tough choices and we are prepared to make those decisions, even if that means a smaller business in the near term, to create a stronger and more sustainable Harvey Nichols for the long-term," he said.
+Harvey Nichols carries more than 800 premium and luxury brands and has over 1,000 employees. Its other stores are located in Manchester, Birmingham, Bristol, Leeds and Edinburgh.
+Frasers Group will also acquire the online business, and stores will continue to operate under their existing licensing.
+Earlier this week, Harvey Nichols warned in its latest accounts that it would need to "cease trading" within a year if it failed to secure new investment.
+It had faced "sustained trading and operational challenges" recently and Frasers Group said it will need to conduct a review of the store's portfolio, structure and cost base.
+A recent auction for the store saw Frasers battle retail rival Next to take control of the firm.
+Dubbed "Harvey Nicks" by Edina and Patsy from Absolutely Fabulous, the two often found an excuse to nip into the department store for a spot of shopping and a long liquid lunch in the heyday of the 1990s.
+Harvey Nichols chief executive Julia Goddard said the deal marked "an important milestone" for the company and "provides a strong platform for the next phase of the business's evolution".
+"Over the past year, we have made significant progress in repositioning this iconic business, investing in our flagship store, broadening our customer proposition, and strengthening the brand DNA," she added.
+'Secures jobs'
+Lindsay Hallam, senior managing director of administrator FTI Consulting, who advised Frasers Group on the sale, said she was "pleased to have secured a buyer, providing continuity for Harvey Nichols and enabling it to move forward under new ownership".
+"We are particularly pleased the transaction secures more than 1,000 jobs and provides a strong platform for its next chapter.
+"Our focus was to find a solution that protected the underlying value of the business, securing a future for a 200-year-old retailer, and delivering the best possible outcome for stakeholders".
+Harvey Nichols's restaurant in the Oxo Tower, London is being sold off separately and is not included in the deal.
+Frasers Group owns several high street retail chains and luxury fashion brands including Sports Direct, Flannels, Jack Wills and House of Fraser.`,
+    bodyJa: `ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される
+- 公開されました
+高級デパートのハーベイ・ニコルズはスポーツ・ダイレクトのオーナーらに買収され、スポーツ・ダイレクトは200年の歴史を持つビジネスを持続可能にするには「大規模なリストラ」が必要になると警告した。
+マイク・アシュリー氏率いるフレイザーズ・グループは、ナイツブリッジの旗艦店を含むハーベイ・ニコルズの店舗と国際フランチャイズの経営権を握ることになる。
+このデパートは BBC のコメディ番組「Absolutely Fabulous」で不滅の名声を博しましたが、近年は課題に直面していました。同社は6月に管理者を任命していた。
+フレイザーズの最高経営責任者でアシュリーさんの義理の息子であるマイケル・マレー氏は、同店を「大きな可能性を秘めた英国の施設」と呼びながらも、「明らかに有意義な変化が必要だ」と付け加えた。
+同氏は、「再建には厳しい選択が必要であり、長期的により強力で持続可能なハーベイ・ニコルズを構築するために、たとえそれが短期的には事業の縮小を意味するとしても、そうした決断を下す用意がある」と述べた。
+ハーベイ ニコルズは 800 以上の高級ブランドを取り扱い、1,000 人以上の従業員を抱えています。他の店舗はマンチェスター、バーミンガム、ブリストル、リーズ、エディンバラにあります。
+フレイザーズ・グループはオンライン事業も買収し、店舗は既存のライセンスに基づいて営業を継続する。
+ハーベイ・ニコルズ氏は今週初め、最新の決算で、新たな投資を確保できなければ1年以内に「取引を停止」する必要があると警告した。
+同社は最近「取引と運営の継続的な課題」に直面しており、フレイザーズ・グループは同店のポートフォリオ、構造、コストベースの見直しを行う必要があると述べた。
+同店の最近のオークションでは、フレイザーズが小売業のライバルであるネクストと経営権を争う形となった。
+『Absolutely Fabulous』のエディナとパッツィーから「ハーベイ・ニックス」と呼ばれた2人は、1990年代の全盛期にはショッピングスポットや長い液体ランチを求めてデパートに立ち寄る口実をよく見つけていた。
+ハーベイ・ニコルズの最高経営責任者ジュリア・ゴダード氏は、今回の契約は同社にとって「重要なマイルストーン」であり、「ビジネスの進化の次の段階に向けた強力な基盤を提供する」と述べた。
+「この1年間、私たちはこの象徴的なビジネスの位置付けを変更し、旗艦店に投資し、顧客への提案を拡大し、ブランドDNAを強化するという点で大きな進歩を遂げました」と彼女は付け加えた。
+「雇用を確保する」
+フレイザーズ・グループに売却について助言した管理会社FTIコンサルティングのシニア・マネージング・ディレクター、リンジー・ハラム氏は、「ハーベイ・ニコルズに継続性をもたらし、新たな所有権のもとで前進できるよう買い手を確保できたことをうれしく思う」と語った。
+「この取引により1,000人以上の雇用が確保され、次の章への強力な基盤が提供されたことを特に嬉しく思います。
+「私たちが焦点を当てたのは、ビジネスの根本的な価値を保護し、創業 200 年の小売業者の将来を確保し、ステークホルダーに可能な限り最高の結果をもたらすソリューションを見つけることでした。」
+ロンドンのオクソタワーにあるハーベイ・ニコルズ氏のレストランは個別に売却されており、今回の契約には含まれていない。
+フレイザーズ グループは、スポーツ ダイレクト、フランネルズ、ジャック ウィルズ、ハウス オブ フレイザーなど、いくつかのハイストリート小売チェーンと高級ファッション ブランドを所有しています。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-13T13:32:40+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a892/live/8a5b37d0-9714-11f1-bb91-6bb44c42ed47.jpg",
+    readTime: 4,
+  },
+  {
+    id: "wholesale-prices-were-flat-in-july-below-9db53d0a",
+    title: "Wholesale prices were flat in July, below expectations for 0.2% increase",
+    titleJa: "7月の卸売物価は横ばいで、予想の0.2％上昇を下回った。",
+    summaryJa: "労働統計局が木曜日に発表した製品とサービスの卸売コストは7月に横ばいであり、インフレの最新の明るい兆候となった。基調的なインフレ圧力の指標である生産者物価指数は、ダウ・ジョーンズのコンセンサス予想の0.2％を下回り、6月に0.1％下落した後、今月は変わらずだった。 ６月の数字は前回発表の０．３％減から修正された。",
+    bodyOriginal: `Wholesale costs for goods and services were flat in July, the Bureau of Labor Statistics reported Thursday in the latest positive sign for inflation.
+The producer price index, a measure of underlying inflation pressures, was unchanged for the month, below the 0.2% Dow Jones consensus estimate and after falling 0.1% in June. The June figure was revised from a previously reported decline of 0.3%.
+Excluding food and energy, the core PPI rose 0.2%, against the forecast for a 0.3% gain. The core PPI excluding trade services increased 0.4%.
+On an annual basis, the headline PPI increased 4.7% for the all-items index and 4.2% for core, according to unadjusted figures.
+The report follows several other indicators telling a similar story – that after a ramp-up in inflation earlier this year fueled by the Iran war and President Donald Trump's tariffs, the rate of price increases is beginning to ease.
+Stock market futures were positive after the report while Treasury yields were lower. Traders further reduced the odds for a September rate hike from the Federal Reserve.
+"Net, net, pipeline pressures at the lower stages of production are not adding to the inflation risks the consumer faces," said Chris Rupkey, chief economist at Fwdbonds. "It counts as good news that for a second consecutive month, PPI final demand prices have not gone up adding to the cost of living crisis faced by Americans."
+Services prices rose 0.2% for the month, pushed by a 6.5% surge in portfolio management, a category that can show outsized gains in the first month of the quarter due to reporting requirements.
+Goods prices fell 0.7%, helped by a 3.1% decrease in energy, including a 5.7% slide in the gasoline index. Food prices fell 0.9% though core goods prices rose 0.1%.
+Federal Reserve officials have been weighing the various inputs to the price picture as several key officials have been pushing for interest rate hikes to get inflation back to the central bank's 2% target.
+On Wednesday, the BLS reported that the consumer price index rose just 0.1% in July as falling energy prices during the month helped lower price pressures. However, the headline annual inflation rate of 3.4% was still well above the Fed's goal.
+Core consumer inflation was considerably tamer, posting a 0.2% monthly gain and 2.5% annual rate that put the level back to where it was prior to the start of the war.
+Market expectations have switched in recent days, with traders now pricing in a rate hike in October or December after putting heavy odds that the Federal Open Market Committee would move at its next meeting on Sept. 15-16.
+In other economic news Thursday, initial jobless claims rose to a seasonally adjusted 209,000 for the week ended Aug. 8, up 9,000 from the prior period and above the 204,000 estimate.`,
+    bodyJa: `労働統計局が木曜日に発表した製品とサービスの卸売コストは7月に横ばいであり、インフレの最新の明るい兆候となった。
+基調的なインフレ圧力の指標である生産者物価指数は、ダウ・ジョーンズのコンセンサス予想の0.2％を下回り、6月に0.1％下落した後、今月は変わらずだった。 ６月の数字は前回発表の０．３％減から修正された。
+食品とエネルギーを除くコアＰＰＩは予想の０．３％上昇に対し０．２％上昇した。貿易サービスを除くコアＰＰＩは０．４％上昇した。
+未調整の数値によると、年間ベースで総合PPIは全項目指数で4.7%上昇、コア指数で4.2%上昇した。
+この報告書は、イラン戦争とドナルド・トランプ大統領の関税によって今年初めにインフレが加速した後、物価上昇率が緩和し始めているという同様の内容を伝える他のいくつかの指標を踏襲している。
+報道後、株式市場先物相場は上昇したが、米国債利回りは低下した。トレーダーらは米連邦準備理事会（ＦＲＢ）が９月に利上げを行う可能性をさらに引き下げた。
+フォワードボンズの首席エコノミスト、クリス・ラプキー氏は「生産の下位段階におけるパイプラインの正味の圧力は、消費者が直面するインフレリスクを増大させていない」と述べた。 「２カ月連続でＰＰＩ最終需要価格が上昇せず、米国人が直面する生活費危機をさらに悪化させていないことは朗報とみられる。」
+サービス価格は同月で0.2％上昇したが、これはポートフォリオ管理の6.5％上昇に押され、ポートフォリオ管理は報告義務により四半期初月に大幅な上昇を示す可能性があるカテゴリーだった。
+商品価格は０．７％下落したが、これはガソリン指数の５．７％下落を含むエネルギーの３．１％下落に支えられた。コア財価格は０．１％上昇したものの、食品価格は０．９％下落した。
+インフレ率を中銀の目標である２％に戻すために複数の主要当局者が利上げを推進している中、連邦準備理事会当局者らは物価情勢へのさまざまな要因を検討している。
+水曜日、BLSは、同月のエネルギー価格下落が物価圧力の低下に寄与したため、7月の消費者物価指数はわずか0.1％上昇したと報告した。しかし、主要な年間インフレ率である3.4%は依然としてFRBの目標を大きく上回っていた。
+コア消費者インフレは大幅に抑制され、月間上昇率 0.2%、年率 2.5% を記録し、戦争開始前の水準に戻りました。
+市場の予想はここ数日で切り替わっており、トレーダーらは連邦公開市場委員会が９月１５─１６日の次回会合で政策を決定する可能性が高いとの見方を示し、現在は１０月か１２月の利上げを織り込んでいる。
+木曜日の他の経済ニュースでは、8月8日までの週の新規失業保険申請件数は季節調整済みで20万9,000件に増加し、前期比9,000件増加し、予想の20万4,000件を上回った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+    publishedAt: "2026-08-13T13:18:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "water-bills-set-to-rise-for-many-after-f-bb05ff4d",
+    title: "Water bills set to rise for many after firms permitted extra funding",
+    titleJa: "企業が追加資金を許可したことで、多くの人にとって水道料金が値上がりする見通し",
+    summaryJa: "企業が追加資金を許可したことで、多くの人にとって水道料金が値上がりする見通し- 公開されました",
+    bodyOriginal: `Water bills set to rise for many after firms permitted extra funding
+- Published
+Water companies have been given the green light to increase bills for customers by an extra £3.4bn in coming years to meet increased pressures on infrastructure and the environment.
+Nearly a third of the extra funding provisionally approved for 13 water companies in England and Wales is earmarked for making sure water services are maintained.
+Some of the rest will be used to meet rising demand from housebuilding and data centres and to address pollutants known as "forever chemicals".
+Prime Minister Andy Burnham said the proposal was "real money out of family budgets at a time when they are struggling with the cost of living", and an environmental group described the decision as "an insult".
+Customers of five water companies - Severn Trent Water, Southern Water, Thames Water, Wessex Water, and South East Water - are facing additional bill rises over the next two years, on top of increases that were already announced in 2024.
+The new increases will vary between firms.
+Southern, for example, will charge £43 extra next year, while South Eastern will only charge £1 more in 2029. The increases will only come into effect if they are given final approval later this year.
+The other eight water firms identified - Anglian Water, Dwr Cymru Welsh Water, Hafren Dyfrdwy, Northumbrian Water, Wouth West Water, United Utiliites, Yorkshire Water, SES Water - would recover their additional spending through customer bills after 2030.
+Many consumers are angry at being asked to pay anything more against a backdrop of interruptions to supply sometimes lasting for days, and rivers, lakes and beaches too polluted to use safely.
+But water companies argue that these problems can only be solved by boosting spending to replace pipes, build treatment plants and establish new reservoirs.
+'Deliver or face clawback'
+The regulator, Ofwat, said the extra spending would enable the firms to support growth and better environmental outcomes, and ensure important upgrades were not delayed.
+"We will track performance to ensure companies are delivering the expected improvements for customers and the environment," said Helen Campbell, executive director for delivery at Ofwat.
+"If they don't, expenditure can be clawed back."
+Water companies need approval from the regulator, Ofwat, to raise customers' bills, a process that takes place every five years to set spending budgets for the years ahead.
+This decision to allow increased charges comes on top of already-agreed bill rises that were negotiated with the water companies in 2024.
+The process allows firms to apply for additional funds for projects that were not known about at the time of the last review.
+As part of the outlined increase, Ofwat has approved funding for schemes including provision for new data centres in Manchester, additional wastewater capacity in Newquay and to bring forward work by Wessex Water to tackle PFAS pollutants, originally planned for 2030-35.
+However, the decision is provisional. There is a period of public consultation, with a final decision due in December.
+'No blank cheque'
+Ofwat said water companies had submitted a total of £4.3bn worth of requests, but some of their proposed extra spending had been rejected.
+Burnham said he understood why people were angry as they had been asked to pay more for years while pollution incidents and leaks continued.
+"Where water companies seek to pass unnecessary costs onto households, they will be challenged," he said.
+Amy Fairman, from campaign group River Action, said: "Ofwat waving through yet more water bill hikes is an insult."
+Water companies had failed to make sufficient investment over the last 30 years, she said, leaving customers with "leaks, pollution and soaring bills".
+There should be greater public control of water companies, she added. "No more blank cheques for failure."
+Related topics
+- Published19 hours ago
+- Published2 days ago
+- Published31 July`,
+    bodyJa: `企業が追加資金を許可したことで、多くの人にとって水道料金が値上がりする見通し
+- 公開されました
+水道会社には、インフラや環境への圧力の高まりに対応するため、今後数年間で顧客への請求額をさらに34億ポンド増やす許可が与えられている。
+イングランドとウェールズの水道会社 13 社に対して暫定的に承認された追加資金の 3 分の 1 近くは、水道サービスの維持に充てられています。
+残りの一部は、住宅建設やデータセンターからの需要の高まりに対応し、「永遠の化学物質」として知られる汚染物質に対処するために使用される。
+アンディ・バーナム首相は、この提案は「生活費に困っているときに家計から実際にお金を出した」ものだと述べ、環境保護団体はこの決定を「侮辱」だと評した。
+セバーン・トレント・ウォーター、サザン・ウォーター、テムズ・ウォーター、ウェセックス・ウォーター、サウス・イースト・ウォーターの5つの水道会社の顧客は、2024年にすでに発表されている料金値上げに加え、今後2年間でさらなる料金値上げに直面している。
+新たな増加額は企業によって異なります。
+例えば、サザン航空は来年43ポンドの追加料金を請求するが、サウスイースタン航空は2029年に1ポンドの追加料金のみを請求する予定である。値上げは、今年後半に最終承認が得られた場合にのみ有効となる。
+特定された他の8つの水道会社（Anglian Water、Dwr Cymru Welsh Water、Hafren Dyfrdwy、Northumbrian Water、Wouth West Water、United Utiliites、Yorkshire Water、SES Water）は、2030年以降に追加支出を顧客請求を通じて回収する予定だ。
+多くの消費者は、供給の中断が時には数日間続くことや、川、湖、海岸が汚染されすぎて安全に使用できないことを背景に、これ以上の支払いを求められることに憤慨している。
+しかし、水道会社は、これらの問題は、パイプの交換、処理施設の建設、新しい貯水池の設置のための支出を増やすことによってのみ解決できると主張している。
+「成功するか、クローバックに直面するか」
+規制当局のオフワット氏は、追加支出により企業は成長と環境改善を支援し、重要なアップグレードが遅れないようにすることができると述べた。
+オフワット社の提供担当エグゼクティブディレクター、ヘレン・キャンベル氏は、「企業が顧客と環境に期待される改善を確実に提供できるよう、業績を追跡していく」と述べた。
+「そうでなければ、支出が巻き戻される可能性がある。」
+水道会社が顧客の請求額を引き上げるには規制当局のオフワットの承認が必要だが、このプロセスは今後数年間の支出予算を設定するために5年ごとに行われる。
+料金の値上げを許可するこの決定は、2024年に水道会社と交渉され、すでに合意された料金の値上げに加えて行われる。
+このプロセスにより、企業は前回の審査時点では知られていなかったプロジェクトに対して追加資金を申請できるようになる。
+計画された増額の一環として、オフワットは、マンチェスターの新しいデータセンターの提供、ニューキーの下水処理能力の追加、当初2030年から35年に予定されていたPFAS汚染物質に取り組むウェセックス・ウォーターの取り組みの前倒しなどの計画への資金提供を承認した。
+ただし、この決定は暫定的なものです。公開協議の期間があり、12月に最終決定が下される予定だ。
+「白紙小切手は不可」
+オフワット氏は、水道会社が総額43億ポンド相当の申請を提出したが、追加支出案の一部は拒否されたと述べた。
+バーナム氏は、汚染事件や漏洩が続く中、何年にもわたって追加料金の支払いを求められてきたため、人々が怒っている理由が理解できたと述べた。
+「水道会社が不必要なコストを家庭に転嫁しようとする場合、彼らは異議を唱えられるだろう」と同氏は述べた。
+選挙運動団体「リバー・アクション」のエイミー・フェアマン氏は「さらなる水道料金値上げに手を振っているのは侮辱だ」と述べた。
+同氏によると、水道会社は過去30年間、十分な投資を怠っており、顧客は「漏水、汚染、料金の高騰」を抱えているという。
+水道会社に対する公的管理を強化すべきだと彼女は付け加えた。 「失敗に対する空のチェックはもう必要ありません。」
+関連トピック
+- 19 時間前に公開
+- 2 日前に公開
+- 7 月 31 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-13T13:09:38+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5082/live/9e05e030-9702-11f1-b72c-211ea4e0afc4.jpg",
+    readTime: 5,
+  },
+  {
+    id: "trump-linked-oil-venture-delays-greenlan-158decab",
+    title: "Trump-linked oil venture delays Greenland drilling plans after government warning",
+    titleJa: "トランプ大統領関連の石油ベンチャー、政府警告を受けてグリーンランド掘削計画を延期",
+    summaryJa: "ドナルド・トランプ大統領とつながりのあるテキサスに本拠を置く企業は、許可なく機器を陸上に持ち込んだとして北極圏の島政府が合弁パートナーに対し「強い警告」を発したことを受け、グリーンランドでの石油掘削計画を延期した。ナスダック上場の石油・ガス探査会社グリーンランド・エナジー・カンパニーは水曜日、現在2027年冬を目標とした許可スケジュールに向けて取り組んでおり、グリーンランド東海岸のジェイムソン・ランド盆地の炭化水素の可能性を解き放つ計画を遅らせていると発表した。",
+    bodyOriginal: `A Texas-based company with links to President Donald Trump has delayed plans to drill for oil in Greenland, after the Arctic island's government issued a "strong warning" to its joint venture partner for bringing equipment ashore without permission.
+Greenland Energy Company, a Nasdaq-listed oil and gas exploration firm, said Wednesday that it was now working toward a targeted permit timeline for winter 2027, delaying its plans to try to unlock the hydrocarbon potential of the Jameson Land Basin on Greenland's east coast.
+London-listed 80 Mile, the joint venture partner of Greenland Energy for the project, also confirmed the delay to drilling plans following talks with Greenlandic authorities.
+"Operating in the Arctic requires patience, flexibility and a long-term perspective. We will use this time to refine our plans and deepen relationships with local communities, strategic partners and relevant authorities," Greenland Energy Company CEO Robert Price said in a statement.
+80 Mile holds the licenses and runs the permitting through its wholly owned subsidiary, White Flame Energy. The exploration licenses were granted before Greenland stopped issuing new licenses in 2021, citing the worsening climate crisis.
+The project delay comes two weeks after Greenland's government issued a sharp rebuke to White Flame Energy for failing to get permission from local authorities to bring drilling equipment to the island's east coast.
+Greenland Energy Company and 80 Mile both confirmed to CNBC that the companies received a formal warning from Greenland's government.
+Greenland's government issues a warning
+The notice from Greenland's government to 80 Mile concerned the landing of drilling equipment near the strategically important Nerlerit Inaat airport, a transport hub regarded as the gateway to northeast Greenland.
+Ahead of the landing of equipment, Greenland Energy and 80 Mile said they had permission from and entered into a contract to lease storage space within an existing Greenland Airports storage area near the port but were unaware that this arrangement required a separate permit from the mineral resources authority.
+Greenland's government said late last month that White Flame Energy did not have the necessary approvals before initiating this operation.
+Greenland Energy and 80 Mile said in a joint statement that they "take the warning very seriously and note it in full." They added that they intend to "work closely" with Greenlandic authorities going forward.
+80 Mile holds three licences for exploration and possible exploitation of oil in the Jameson Land Basin. Greenland Energy is funding the costs associated with managing two exploration wells.
+Shares of Greenland Energy closed more than 44% lower on Wednesday, while 80 Mile shares were down over 20%.
+Greenland Energy and the Trump administration
+The push to explore the oil potential of the Jameson Land Basin comes as Trump has renewed his push to acquire Greenland.
+Greenland Energy has links to several people and businesses associated with the Trump administration.
+Board member Carol Craig founded a defense-tech company involved in a Pentagon contracting program supporting Trump's Golden Dome missile-defense initiative.
+Read more
+The company also has a documentary deal with Envoy Media, founded by "Dr. Phil" McGraw, who spoke at a Trump rally in 2024 and serves on the president's Religious Liberty Commission.
+Larry Swets, an entrepreneur and the chairman of Greenland Energy, has been reported to be close to the Trump administration. According to the Guardian, Price was asked during a meeting on the Jameson Land Basin in June whether Swets had links to Trump and replied: "Not that I know of."
+Jameson Land Basin oil potential
+Greenland Energy, which was formed through a SPAC merger in March, says its primary mission is to unlock the frontier oil potential of the Jameson Land Basin, a roughly 2-million-acre onshore licensed area.
+It describes the area as one of, if not the last, highly prospective yet completely undrilled basins in the world, with clear genetic links to the North Sea and a scale comparable to many of the world's major producing regions.
+Lewis Lawrence, senior research analyst of Europe upstream at Wood Mackenzie, said there is clearly potential associated with the area, noting the geology appears to be genetically similar to the mid-Norwegian shelf, "which obviously is one of the hotbeds of oil and gas activity."
+But past attempts to drill in promising spots in Greenland have failed, he added.
+"There has been exploration in Greenland in the past [and] that's all been unsuccessful. So, 21 wells, most of them offshore, and they have all been unsuccessful wells. There's been hundreds of millions of dollars wasted, particularly on offshore drilling, which is significantly more expensive," Lawrence told CNBC in a phone interview.
+"So, companies have had a look. They've come, they've drilled, they've not found anything and they've left."
+Lawrence also said there would be logistical challenges on the basin, which he called one of the most remote drilling sites in the world.`,
+    bodyJa: `ドナルド・トランプ大統領とつながりのあるテキサスに本拠を置く企業は、許可なく機器を陸上に持ち込んだとして北極圏の島政府が合弁パートナーに対し「強い警告」を発したことを受け、グリーンランドでの石油掘削計画を延期した。
+ナスダック上場の石油・ガス探査会社グリーンランド・エナジー・カンパニーは水曜日、現在2027年冬を目標とした許可スケジュールに向けて取り組んでおり、グリーンランド東海岸のジェイムソン・ランド盆地の炭化水素の可能性を解き放つ計画を遅らせていると発表した。
+同プロジェクトのグリーンランド・エナジーの合弁パートナーであるロンドン上場の80マイルも、グリーンランド当局との協議を受けて掘削計画の遅れを認めた。
+グリーンランド・エナジー・カンパニーのロバート・プライス最高経営責任者（CEO）は声明で、「北極での活動には忍耐、柔軟性、長期的な視点が必要だ。われわれはこの時間を利用して計画を磨き、地元社会、戦略的パートナー、関係当局との関係を深めていく」と述べた。
+80 Mile はライセンスを保有し、その完全子会社である White Flame Energy を通じて許可を運営しています。この探査ライセンスは、グリーンランドが気候危機の悪化を理由に2021年に新規ライセンスの発行を停止する前に付与された。
+このプロジェクトの遅延は、グリーンランド政府がホワイト・フレーム・エナジー社に対し、掘削設備を島の東海岸に持ち込む許可を地元当局から得ていなかったとして厳しく叱責してから２週間後に生じた。
+グリーンランド・エナジー・カンパニーと80マイルはいずれもCNBCに対し、両社がグリーンランド政府から正式な警告を受けていたことを認めた。
+グリーンランド政府が警告を発令
+グリーンランド政府から80マイルへの通知は、グリーンランド北東部への玄関口とされる輸送拠点である戦略的に重要なネルレリット・イナート空港付近への掘削設備の着陸に関するものであった。
+機器の着陸に先立ち、グリーンランド・エナジーと80マイルは、港近くのグリーンランド空港の既存の保管エリア内の保管スペースをリースする許可を得て契約を締結したが、この取り決めには鉱物資源局からの別の許可が必要であることは知らなかったと述べた。
+グリーンランド政府は先月末、ホワイト・フレーム・エナジーがこの事業を開始する前に必要な承認を取得していないと発表した。
+グリーンランド・エナジーと80マイルは共同声明で「警告を非常に真剣に受け止め、全面的に留意する」と述べた。彼らは、今後グリーンランド当局と「緊密に協力する」つもりだと付け加えた。
+80 マイルは、ジェイムソン陸盆地における石油の探査と開発の可能性について 3 つのライセンスを保有しています。 Greenland Energy は、2 つの探査井の管理に関連する費用に資金を提供しています。
+水曜日のグリーンランド・エナジー株は44％以上下落して取引を終え、80マイル株は20％以上下落した。
+グリーンランド・エネルギーとトランプ政権
+トランプ大統領がグリーンランド獲得への取り組みを再開したことを受けて、ジェイムソン陸盆地の石油の可能性を探る取り組みが始まった。
+グリーンランド・エナジーは、トランプ政権に関連する複数の人物や企業とつながりがある。
+取締役のキャロル・クレイグ氏は、トランプ大統領のゴールデン・ドームミサイル防衛構想を支援する国防総省の契約プログラムに関与する防衛テクノロジー企業を設立した。
+続きを読む
+同社はまた、2024年のトランプ集会で講演し、大統領の信教の自由委員会の委員を務める「ドクター・フィル」・マグロウ氏が設立したエンボイ・メディアとドキュメンタリー契約を結んでいる。
+起業家でグリーンランド・エナジー会長のラリー・スウェッツ氏はトランプ政権に近いと報じられている。ガーディアン紙によると、プライス氏は6月にジェームソン・ランド盆地で行われた会合で、スウィッツとトランプ氏の関係があるのか​​と問われ、「私が知っていることはない」と答えたという。
+ジェイムソン土地盆地の石油ポテンシャル
+3月にSPACとの合併により設立されたグリーンランド・エナジーは、その主な使命は、約200万エーカーの陸上認可地域であるジェイムソン・ランド・ベーシンのフロンティア石油の可能性を解き放つことであると述べている。
+同報告書では、この地域は、北海との明らかな遺伝的つながりがあり、世界の主要産地の多くに匹敵する規模を持つ、世界で最後ではないにしても、非常に将来性の高い、しかし完全に未掘削の盆地の1つであると説明されています。
+ウッド・マッケンジー社の欧州上流部門上級研究アナリスト、ルイス・ローレンス氏は、この地域には明らかに潜在的な可能性があると述べ、地質はノルウェー中部棚と遺伝的に類似しているようで、「明らかに石油・ガス活動の温床の一つである」と指摘した。
+しかし、グリーンランドの有望な場所で掘削を試みた過去の試みは失敗に終わったと同氏は付け加えた。
+ローレンス氏はCNBCの電話インタビューで、「グリーンランドでは過去にも探査が行われたが、すべて失敗に終わった。つまり、21本の井戸があり、そのほとんどが沖合にあったが、すべて失敗した井戸だった。特に海洋掘削では数億ドルが無駄になっているが、これははるかに高価だ」とローレンス氏はCNBCの電話インタビューで語った。
+「そこで、企業は調査を行ったが、来て掘削したが、何も見つからず撤退した。」
+ローレンス氏はまた、世界で最も辺鄙な掘削現場の一つである盆地では物流上の問題が生じるだろうと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+    publishedAt: "2026-08-13T13:02:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "flock-boss-admits-surveillance-firm-took-6867cfd1",
+    title: "Flock boss admits surveillance firm took too long to act over police abuse",
+    titleJa: "フロックのボス、監視会社が警察の虐待に対する対応に時間がかかりすぎたと認める",
+    summaryJa: "フロックのボス、監視会社が警察の虐待に対する対応に時間がかかりすぎたと認める- 公開されました",
+    bodyOriginal: `Flock boss admits surveillance firm took too long to act over police abuse
+- Published
+Flock, the US surveillance firm, is rolling out new safeguards to prevent police misuse of its technology which, its founder and chief executive admits, should have happened sooner.
+Police have used Flock to track romantic partners, external and stalk strangers, leading to growing public backlash against the company. It has also been used to find stolen cars and missing people.
+Asked whether it had taken Flock too long to protect tens of thousands of its cameras, licence plate readers and drones from police abuse, Garrett Langley said: "Yeah... yes."
+Flock is cutting the number of days most data is retained, from 30 days to seven and abnormal searches and uses will also automatically be flagged.
+Flock cameras have been used by police to not only track former and current romantic partners, but in one case, even a woman who had had an abortion, external.
+Police across the US have quit, external or been fired, external for misuse of the technology.
+A man in Indiana recently told local news he found out through a public records request that police had set a Flock alert, external for his vehicle, despite not being suspected of any wrongdoing.
+At least 50 cities have this year cut ties with Flock, external due to a public backlash.
+However, Langley told the BBC that another 16 cities that had turned off Flock services have in the last three months come back to the company. Generally, it's running at a 7:1 ratio of new customers to lost customers, he said.
+Langley said that, just six months ago, he asked in a meeting of the company's board why there seemed to be a growing public focus on Flock.
+This was around the time that Amazon's Ring, a doorbell camera firm, cancelled a partnership with Flock after an outcry over a Super Bowl advert which sparked concern about unwanted surveillance.
+"Historically, my point of view as a chief executive of a private company was, I don't know if I should be making these decisions. I don't know if it's my job to say how long data should be retained," Langley said.
+He added that he has come to agree with groups like the American Civil Liberties Union and the Electronic Frontier Foundation that police should need an active case number to search Flock's data.
+"They're right. I think it should be required."
+He added: "Our employees and communities have said loud and clear, they expect companies like Flock to have a stronger point of view as the expert. I resisted that because I didn't want to have that responsibility."
+Langley has now accepted that responsibility. At the same time as he is strengthening Flock's safeguards, he is pitching his company's products as crucial to combatting crime and improving policing in the US.
+Cities that don't use Flock are effectively choosing "to be less safe", he claimed.
+Nevertheless, he does not deny that Flock has been misused by members of law enforcement.
+"We're only as good as the data coming in," Langley said. "When you see these cases of wrongful arrest, the data was bad and the officer failed to follow the rules. But it's easier to pick a villain that's a company like us."
+'Easy villain'
+Langley said that, with clearly visible cameras in cities and neighbourhoods, the public increasingly, external sees the firm as an outlet for their growing concerns about privacy and technology, external.
+"Because you can see our cameras, it's easier to get mad," Langley said.
+In the US, there is no comprehensive law protecting or governing the collection, use or sale of people's personal data.
+Langley mentioned a woman he recently met in Cleveland who was vociferously against Flock in her community. When he asked her why she disliked the technology so much, she told him it was ultimately a tool for police to "abuse their power."
+It turned out that police "kind of feel the same way" as her, Langley said.
+Conversations he had with police would often turn to officers saying of their colleagues 'we knew that person was not good. We had no way to prove it'.
+That resulted in the new audit feature for Flock, which was released as an option earlier this year.
+It automatically creates an audit log of searches being done on Flock, and flags unusual search behaviour.
+Most police customers turned on the feature when it became an option. Misuse proved so rampant that Langley decided Flock needed to make the audit feature standard.
+Officers who abuse their position are "horrible", Langley said, adding that they should be punished with more than just dismissal.
+"If anyone is going to be the one that spearheads getting rid of abusive cops? Sign me up," Langley said. "We trust these individuals with deadly weapons.
+"I think a camera is very far from a deadly weapon, but I would say it's a very powerful tool. We should hold it incredibly accountable."`,
+    bodyJa: `フロックのボス、監視会社が警察の虐待に対する対応に時間がかかりすぎたと認める
+- 公開されました
+米国の監視会社フロックは、警察による自社技術の悪用を防ぐための新たな安全策を展開しているが、創業者兼最高経営責任者もこれはもっと早く行われるべきだったと認めている。
+警察はFlockを恋人や社外の追跡、見知らぬ人へのストーキングなどに利用しており、同社に対する国民の反発が高まっている。盗難車や行方不明者の捜索にも使われています。
+フロック社が数万台のカメラ、ナンバープレートリーダー、ドローンを警察の虐待から守るのに時間がかかりすぎたのではないかとの質問に対し、ギャレット・ラングレー氏は「そうだね…そうだ」と答えた。
+Flock はほとんどのデータの保存日数を 30 日から 7 日に短縮しており、異常な検索や使用にも自動的にフラグが立てられます。
+警察は群れのカメラを使用して、元および現在の恋人を追跡するだけでなく、あるケースでは中絶した女性さえも外部から追跡している。
+米国中の警察は、テクノロジーの悪用を理由に社外、あるいは社外で解雇されたかを問わず、辞職している。
+インディアナ州の男性は最近地元ニュースに対し、不正行為の疑いがないにもかかわらず、警察が車の外にフロック警報を設定していたことを公文書開示請求を通じて知ったと語った。
+今年、少なくとも50都市が国民の反発を理由に外部のフロックとの関係を断った。
+しかし、ラングレー氏はBBCに対し、Flockサービスを停止していたさらに16都市が過去3カ月間で同社に戻ってきたと語った。一般的に、新規顧客と失われた顧客の比率は 7:1 で運営されていると同氏は語った。
+ラングレー氏は、わずか半年前、同社の取締役会で、なぜフロックに対する世間の注目が高まっているように見えるのか尋ねたと語った。
+これは、ドアベルカメラ会社であるアマゾンのリングが、望まない監視に対する懸念を引き起こしたスーパーボウルの広告に対する抗議を受けて、フロックとの提携を解除した頃のことだった。
+「これまで、民間企業の最高経営責任者としての私の見解は、こうした決定を下すべきかどうかは分からない、というものだった。データをどのくらいの期間保持すべきかを言うのが私の仕事かどうかは分からない」とラングレー氏は語った。
+同氏は、警察がフロック氏のデータを検索するには有効な事件番号が必要であるという米国自由人権協会や電子フロンティア財団などの団体の意見に同意するようになったと付け加えた。
+「彼らは正しい。それが義務付けられるべきだと思う。」
+同氏はさらに、「当社の従業員や地域社会は、フロックのような企業が専門家としてより強い視点を持つことを期待しているとはっきりと主張している。私がそれに抵抗したのは、そのような責任を負いたくなかったからである」と付け加えた。
+ラングレー氏は現在、その責任を受け入れている。同氏はフロック社の安全対策を強化すると同時に、米国の犯罪と闘い、警察の取り締まりを改善するために同社の製品が不可欠であると売り込んでいる。
+Flockを利用していない都市は事実上「安全性が低い」ことを選択していることになる、と同氏は主張した。
+それにもかかわらず、彼はフロックが法執行機関のメンバーによって悪用されたことを否定しません。
+「私たちが判断できるのは、データが入ってくることだけです」とラングレー氏は語った。 「こうした不当逮捕の事例を見ると、データが悪かったし、警察官が規則に従わなかったことがわかります。しかし、当社のような企業を悪者に選ぶのは簡単です。」
+「気楽な悪役」
+ラングレー氏は、都市や近隣地域にはっきりと見えるカメラが設置されているため、外部の人々はますます同社を、プライバシーやテクノロジーに対する増大する懸念のはけ口とみなすようになっていると述べた。
+「私たちのカメラが見えるので、怒りやすくなります」とラングレー氏は言う。
+米国には、人々の個人データの収集、使用、販売を保護または管理する包括的な法律はありません。
+ラングレー氏は、クリーブランドで最近出会った、地域社会でフロックに声高に反対していた女性について言及した。彼がなぜこのテクノロジーをそんなに嫌うのかと尋ねたとき、彼女はそれが最終的には警察が「権力を乱用する」ためのツールだと答えた。
+警察も彼女と「同じように感じている」ことが判明した、とラングレー氏は語った。
+彼が警察と交わした会話の中で、警察官が同僚について「あの人が良くないことはわかっていた」と話すことがよくあった。それを証明する方法はありませんでした。」
+その結果、Flock の新しい監査機能が誕生し、今年初めにオプションとしてリリースされました。
+Flock 上で行われた検索の監査ログを自動的に作成し、異常な検索動作にフラグを立てます。
+警察の顧客のほとんどは、この機能がオプションになったときにオンにしました。悪用が横行していることが判明したため、ラングレー氏はフロック社が監査機能を標準にする必要があると判断した。
+ラングレー氏は、地位を乱用する警察官は「ひどい」と述べ、解雇以上の罰を与えるべきだと付け加えた。
+「もし誰かが虐待警官を排除する先頭に立ってくれるとしたら？私に登録してください」とラングレー氏は語った。 「私たちは、これらの人々が致命的な武器を持っていることを信頼しています。
+「カメラは致命的な武器とは程遠いと思いますが、非常に強力なツールだと思います。私たちはそれに信じられないほどの責任を負わなければなりません。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-13T13:02:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8948/live/14cb2100-9715-11f1-bb91-6bb44c42ed47.jpg",
+    readTime: 6,
+  },
+  {
+    id: "iran-looks-to-ramp-up-economic-alliance-39c6494e",
+    title: "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+    titleJa: "米国との戦争が長引く中、イランはBRICS諸国との経済同盟を強化しようとしている",
+    summaryJa: "イランは米国とイスラエルとの戦争からほぼ半年が経ち、イランが経済同盟の強化を目指している中、同国の中央銀行総裁が木曜、BRICS新開発銀行に参加する予定であると発表した。BRICS同盟は2006年に設立メンバーのブラジル、ロシア、インド、中国によって設立され、2010年には南アフリカも加わった。",
+    bodyOriginal: `Iran is set to join the BRICS New Development Bank, the country's central bank chief said Thursday, as Tehran seeks to shore up its economic alliances almost six months into its war with the U.S. and Israel.
+The BRICS alliance was set up in 2006 by founding members Brazil, Russia, India and China, with South Africa joining in 2010.
+It has since expanded to include Iran, Egypt, Ethiopia, Saudi Arabia, the UAE and Indonesia, with various other nations — including Belarus, Cuba and Nigeria — joining as partner countries.
+Iranian state media reported Thursday that Abdolnasser Hemmati, governor of the Central Bank of Iran, had announced Iran would soon become a member of the BRICS Bank. Hemmati is currently in India ahead of next month's BRICS Summit, according to Iran's Tasnim News Agency.
+"We are seeking to establish bilateral and trilateral monetary cooperation with member states," Hemmati said, per Tasnim's report.
+The NDB was established by Brazil, Russia, India, China and South Africa to help mobilize resources for infrastructure and sustainable development projects in emerging markets and developing countries.
+A spokesperson for the NDB told CNBC the bank cannot confirm information regarding Iran's membership.
+"NDB membership is open to members of the United Nations. The Bank's membership is open to borrowing and non-borrowing member countries," they said. "NDB recently welcomed Uzbekistan as its tenth member country, which officially joined the Bank on June 5, 2026."
+Iran would have to move through the NDB's accession process before it can become an official member country. Current prospective members are Uruguay, Colombia, Ethiopia, Angola and Zimbabwe.
+Joining the bank would make Iran eligible to seek financing for projects in areas such as transport, sanitation, digital infrastructure and urban development.
+Longstanding sanctions on Iran have severely constrained its access to international capital, particularly from Western financial institutions and markets. The war with the U.S. and Israel has further ramped up the pressure on the Iranian economy, with inflation surging, growth plummeting and its currency in freefall.
+U.S. President Donald Trump, who has previously labeled BRICS policies "anti-American," has threatened to slap 25% tariffs on goods imported to the U.S. from any country that directly or indirectly purchases goods or services from Iran.
+CNBC reached out to the White House for comment on Iran joining the BRICS bank.
+China is Iran's biggest trading partner, according to the World Bank's most recent data. In 2025, China bought more than 80% of Iran's shipped oil, according to Kpler data.
+It is unclear whether that trading relationship has shifted since the U.S.-Iran war began.`,
+    bodyJa: `イランは米国とイスラエルとの戦争からほぼ半年が経ち、イランが経済同盟の強化を目指している中、同国の中央銀行総裁が木曜、BRICS新開発銀行に参加する予定であると発表した。
+BRICS同盟は2006年に設立メンバーのブラジル、ロシア、インド、中国によって設立され、2010年には南アフリカも加わった。
+それ以来、イラン、エジプト、エチオピア、サウジアラビア、UAE、インドネシアを含むまで拡大し、ベラルーシ、キューバ、ナイジェリアを含む他のさまざまな国もパートナー国として参加しています。
+イラン国営メディアは木曜日、イラン中央銀行のアブドルナセル・ヘマティ総裁が、イランが間もなくBRICS銀行の加盟国になると発表したと報じた。イランのタスニム通信によると、ヘマティ氏は現在、来月のBRICS首脳会議に先立ちインドを訪れている。
+タスニムの報告書によると、ヘマティ氏は「われわれは加盟国との二国間および三国間通貨協力の確立を目指している」と述べた。
+NDB は、新興市場や発展途上国におけるインフラストラクチャーや持続可能な開発プロジェクトにリソースを動員することを目的として、ブラジル、ロシア、インド、中国、南アフリカによって設立されました。
+ＮＤＢの広報担当者はＣＮＢＣに対し、同行はイランの加盟に関する情報を確認できないと語った。
+「NDBの会員資格は国連加盟国に開かれている。世銀の会員資格は借入加盟国と非借入加盟国に開かれている」と彼らは述べた。 「NDBは最近ウズベキスタンを10番目の加盟国として歓迎し、2026年6月5日に正式に加盟した。」
+イランが正式加盟国になるには、NDBの加盟手続きを経る必要がある。現在の加盟候補国はウルグアイ、コロンビア、エチオピア、アンゴラ、ジンバブエです。
+銀行に参加すれば、イランは交通、衛生、デジタルインフラ、都市開発などの分野のプロジェクトへの融資を求める資格が得られる。
+イランに対する長年の制裁により、特に西側の金融機関や市場からの国際資本へのアクセスが厳しく制限されている。米国とイスラエルとの戦争はイラン経済への圧力をさらに強め、インフレは急上昇し、成長は急落し、通貨は暴落した。
+ドナルド・トランプ米大統領はこれまでBRICS政策を「反米」と呼んできたが、イランから直接・間接的に商品やサービスを購入する国から米国に輸入される商品に25％の関税を課すと脅迫した。
+CNBCはイランのBRICS銀行への参加についてホワイトハウスにコメントを求めた。
+世界銀行の最新データによると、中国はイランの最大の貿易相手国である。 Kplerのデータによると、2025年には中国がイランに出荷された原油の80％以上を購入した。
+米国とイランの戦争が始まって以来、その貿易関係が変化したかどうかは不明である。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+    publishedAt: "2026-08-13T13:01:37+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "zero-hours-crackdown-could-cost-firms-up-0e71d3a9",
+    title: "Zero hours crackdown could cost firms up to £2.9bn a year",
+    titleJa: "ゼロ時間取り締まりは企業に年間最大29億ポンドの損害を与える可能性がある",
+    summaryJa: "ゼロ時間取り締まりは企業に年間最大29億ポンドの損害を与える可能性がある- 公開されました",
+    bodyOriginal: `Zero hours crackdown could cost firms up to £2.9bn a year
+- Published
+Businesses could face costs of up to £2.9bn a year because of a crackdown on zero hours contracts, according to the government's own analysis.
+Labour's employment reforms are set to cut the number of hours staff can work before they must be offered guaranteed time.
+Official analysis released on Wednesday showed it could cost employers between £350m and £2.9bn, based on the eventual threshold of hours the policy impacts.
+Skills Minister Baroness Jacqui Smith said the reforms would ensure workers are "fairly paid" but business groups said the cost to employers was "disproportionate" compared to how much it would help workers.
+Government analysis said there were "potential trade-offs" that include more administrative costs and less flexibility for companies, including making it "harder for employers to respond to changes in demand".
+At the upper end of its estimate, about £1.2bn in costs would come from businesses who are forced to pay workers compensation for cancelled shifts.
+However, the middle estimate of how much the policy would cost overall is £1.1bn.
+The total cost depends on who the policy eventually applies to: if it applies to people working 48 hours a week, as some unions have called for, it will cost companies more.
+The government's preference is for it to fall somewhere between eight and 20 hours a week.
+In that case, the overall cost would fall far short of the higher estimates cited in the analysis.
+Officials also wrote that the reforms could provide a £10bn boost to the economy because of better wellbeing and productivity.
+That would lower the net average cost of the reforms to between £300m and £1.4bn.
+It said the overall cost figures do not capture the full range of benefits because they are "not possible to monetise".
+How will the changes to workers' rights affect you?
+- Published16 December 2025
+It said hospitality and retail companies, many of which rely heavily on zero hours workers, would be most affected by the change.
+The document was released as part of a consultation into how many hours should eventually fall under the new rules.
+Baroness Smith told Sky News the government will "look very carefully" at how it brings in the changes.
+"I don't think it's fair for somebody to be on a contract where they literally don't know whether or not they're going to be working at all, and yet they're bound by that contract."
+The number of people on zero hours contracts hit a record high of 1.23 million last December, a 91,000 annual increase, according to official data.
+But business groups said the costs were more than had originally been forecast.
+Kate Shoesmith, director of policy at the British Chambers of Commerce, said it would be "a further hammer blow" for companies that are struggling.
+"We are already facing a youth unemployment crisis – now is not the time to make it even more costly for employers to hire."
+Helen Dickinson, the chief executive of British Retail Consortium, questioned whether the reforms would "actually deliver value for workers" because of the cost to businesses.
+She added that retailers would also have to pay "hundreds of millions of pounds" to update their payroll systems.
+The Trades Union Congress said most of the extra costs would only come if businesses cancelled workers' shifts at the last minute.
+A spokesperson for the TUC said: "The aim of this legislation is to stop this practice and give variable hours workers security and stability - so good employers have nothing to fear."
+Charlotte Brumpton-Childs, GMB national secretary, called zero hours contracts "archaic", adding that businesses were "of course … going to grumble" about the policy.
+Related topics
+- Published10 October 2024`,
+    bodyJa: `ゼロ時間取り締まりは企業に年間最大29億ポンドの損害を与える可能性がある
+- 公開されました
+政府独自の分析によると、ゼロ時間契約の取り締まりにより、企業は年間最大29億ポンドのコストに直面する可能性がある。
+労働党の雇用改革では、労働時間の保証が必要となる前に職員が働ける時間を削減する予定だ。
+水曜日に発表された公式分析では、政策が影響する最終的な労働時間の基準に基づいて、雇用主に3億5000万ポンドから29億ポンドの損失が生じる可能性があることが示された。
+ジャッキー・スミス男爵夫人技能大臣は、この改革により労働者に「公正な賃金」が保障されると述べたが、経済団体は雇用主のコストが労働者を助ける額と比べて「不釣り合い」だと主張した。
+政府の分析では、管理コストの増加や企業の柔軟性の低下などの「潜在的なトレードオフ」があり、その中には「雇用主が需要の変化に対応することが難しくなる」ことも含まれるとしている。
+推定の上限では、キャンセルされたシフトに対する労働者補償の支払いを余儀なくされている企業からのコストが約12億ポンドに上る。
+ただし、政策全体の費用の中間推定値は 11 億ポンドです。
+総コストは、この政策が最終的に誰に適用されるかによって決まる。一部の労働組合が要求しているように週48時間働く人々に適用されれば、企業のコストはさらに高くなるだろう。
+政府は週に8時間から20時間の範囲内に収まることを望んでいる。
+その場合、全体的なコストは、分析で引用されたより高い見積もりをはるかに下回ることになります。
+当局者らはまた、この改革により福利厚生と生産性が向上し、経済に100億ポンドの押し上げ効果がもたらされる可能性があると書いている。
+そうすれば、改革の純平均コストは3億ポンドから14億ポンドに引き下げられることになる。
+全体的なコストの数字は「収益化が不可能」であるため、あらゆるメリットを捉えていないと同社は述べた。
+労働者の権利の変更はあなたにどのような影響を与えますか?
+- 2025 年 12 月 16 日公開
+同報告書は、その多くがゼロ時間労働者に大きく依存している接客業と小売業がこの変化によって最も大きな影響を受けるだろうと述べた。
+この文書は、最終的に新しい規則の対象となる時間数に関する協議の一環として発表された。
+スミス男爵夫人はスカイニュースに対し、政府がどのように変化をもたらすかについて「非常に注意深く検討する」と語った。
+「文字通り、実際に働くかどうかも分からない契約を結んでいるのに、その契約に拘束されている人がいるのは不公平だと思います。」
+公式データによると、ゼロ時間契約の人の数は昨年12月に過去最高の123万人に達し、年間9万1000人増加した。
+しかし企業団体は、コストが当初の予想を上回ったと述べた。
+英国商工会議所の政策部長ケイト・シュースミス氏は、これは苦境にある企業にとって「さらなる鉄槌」となるだろうと述べた。
+「私たちはすでに若者の失業危機に直面しています。今は雇用主にとって雇用コストをさらに高くする時期ではありません。」
+英国小売業コンソーシアムの最高経営責任者ヘレン・ディキンソン氏は、企業にコストがかかるため、改革が「実際に労働者に価値をもたらす」かどうか疑問を呈した。
+同氏は、小売業者も給与システムを更新するために「数億ポンド」を支払わなければならないだろうと付け加えた。
+労働組合会議は、追加費用のほとんどは企業が従業員のシフトを直前にキャンセルした場合にのみ発生すると述べた。
+TUCの広報担当者は、「この法律の目的は、この慣行を阻止し、変形労働時間労働者に安全と安定を与えることである。したがって、優良な雇用主は何も恐れる必要はない」と述べた。
+GMB全国書記のシャーロット・ブランプトン・チャイルズ氏は、ゼロ時間契約を「時代遅れ」と呼び、企業はこの政策について「もちろん…不平を言うだろう」と付け加えた。
+関連トピック
+- 2024 年 10 月 10 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-13T11:12:33+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/4b9eef10-96ff-11f1-b72c-211ea4e0afc4.jpg",
+    readTime: 4,
+  },
+  {
+    id: "an-inside-look-at-sk-hynix-720-billion-a-5a1daec5",
+    title: "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
+    titleJa: "韓国を引き継ぐSKハイニックスの7,200億ドル規模のAIを活用した増強の内部に迫る",
+    summaryJa: "高帯域幅メモリの大手メーカーであるSK Hynixは、AIの需要を満たすためにメモリ工場に7,200億ドルを注ぎ込んでいる。独占的なファーストルックを入手しました。",
+    bodyOriginal: `In South Korea, where a mountainous landscape makes building huge projects an incredible undertaking, the world's leading maker of high-bandwidth computer memory is investing $720 billion on what it says will be the largest network of memory factories in the world.
+SK Hynix, whose market cap has jumped more than fivefold in the past year and now tops $1 trillion, is making a big bet that extreme demand from artificial intelligence is here to stay. Soaring prices exacerbated by capacity constraints are changing the fabric of the classic boom-and-bust industry, with AI chip giants like Nvidia willing to take on more risk as they scramble to secure supply.
+The industry is reliant on just a few players. SK Hynix controlled 58% of the high-bandwidth memory, or HBM, market in the first quarter, followed by fellow South Korean giant Samsung and U.S.-based Micron, both at 21%, according to Counterpoint Research.
+To help fund its ambitious buildout, SK Hynix, which trades on the Korea Exchange, reeled in $26.5 billion in July by listing shares on the Nasdaq, the most money ever raised by a foreign company listing on U.S. markets.
+It's been a tough month for new investors. Since reaching a high of almost $195 on July 14, the U.S.-listed shares are down by about 21%, closing on Wednesday at $154.41. The drop has coincided with broader volatility in the AI trade, particularly chip stocks, and a decline in the Korean market, which gets about half its value from SK Hynix and Samsung.
+But none of that will deter SK Hynix from pursuing its historic buildout. It's part of a larger plan unveiled by South Korean President Lee Jae Myung in June to double the country's memory production in five years, which includes construction of multiple new Samsung megafabs.
+CNBC got a behind-the-scenes peak into SK Hynix's expansion last month, with the first on-camera tour of the Yongin Cluster, as well as an inside look at memory cleanrooms in Cheongju, where the company is also undergoing a major infrastructure push.
+'It's like a war'
+Height is the most striking difference between U.S. chip fabs and the three SK Hynix sites we toured in South Korea. The first fab at the Yongin Cluster had walls built about halfway up the towering structure, which SK Hynix said will reach the height of a 50-story apartment building. It will have six cleanrooms connected over several floors, instead of sprawling out in a single story like at new fabs in Arizona from Taiwan Semiconductor Manufacturing Co. and Intel.
+Made by stacking general-purpose dynamic random access memory, HBM is the highest bandwidth memory capable of rapid data access that helps AI processors execute tasks. Those stacks of HBM take up so much DRAM it's depleting the supply for consumer electronics, as AI giants sign contracts that are years longer than the typical short-term agreements for what was historically considered a low-margin commodity.
+"It's like a war," said Chey Tae-won, chairman of SK Group, the controlling owner of SK Hynix, in an interview in Seoul. "Everybody wants to buy the memory chips. Without that, they cannot produce their AI computing and AI chips."
+Tae-won told CNBC that "prices went up too fast" and that he hopes all this buildout will help. "I'm trying to do my best," he said.
+SK Hynix reported in July that it signed 10 long-term agreements with major customers. Nvidia just "secured a stable supply of HBM" and agreed to co-develop next-generation memory as part of a $500 billion deal with SK Group that includes building new data centers with SK Telecom by 2027.
+Tae-won showed CNBC a wafer with a message on it from Nvidia CEO Jensen Huang that read, "Please make more." He said he meets occasionally with major industry leaders like Microsoft's Satya Nadella, Google's Sundar Pichai, and Meta's Mark Zuckerberg. Huang and AMD CEO Lisa Su came to South Korea in recent months for meetings about memory.
+MS Hwang, research director at Counterpoint Research, said all the hotels near SK Hynix and Samsung's memory fab expansions are fully booked.
+"If you name any company in Big Tech, they are all in Korea to sign a contract," he said.
+SK Hynix also makes memory chips at three fabs in China, but is prohibited from selling its leading-edge HBM there because of U.S. export controls. China has its own emerging makers of the coveted memory needed for AI, including CXMT, which just had a blockbuster debut on the Shanghai market.
+"It's a race, and now the counterparty of the race is China," Hwang said. "That's going to be a lot more dangerous than anything else in the world."
+President Lee is now urging speed on the fab buildouts in South Korea, while the U.S. also scrambles to add capacity.
+Race to build bigger and faster
+Micron is spending $50 billion to build two huge new memory fabs in Boise, Idaho, with the first one scheduled to start making wafers in 2027. And in Clay, New York, it's building a $100 billion campus with up to four fabs.
+SK Hynix is also building its first U.S. facility, where construction is set to conclude in 2028. The $4 billion fab in West Lafayette, Indiana, is for packaging — where memory chips will be stacked and wired together — rather than front-end manufacturing.
+In addition to its Indiana plans, SK Hynix has existing U.S. operations. In 2020, it agreed to buy Intel's NAND business for $9 billion, eventually creating the subsidiary Solidigm, which is headquartered near Sacramento, California. In January, SK Hynix restructured that business and launched a $10 billion "AI Company" in the U.S., but there are no plans related to front-end manufacturing.
+Regarding U.S. chip fab plans, Tae-won said SK Hynix has been studying possible sites for more than a month.
+"I'm willing to do it, but the problem is that I really have to find the right place," he said.
+In the meantime, Tae-won said memory is at a "turning point" with the next technological leap to custom HBM that will help insulate SK Hynix's massive investment from risk.
+Custom HBM is now being co-designed with AI processors, a trend that's accelerating with next-generation HBM5.
+"Nvidia wants their own custom chips and Google wants their own customized HBM, so it's not just a commodity," Tae-won said. "It actually changes the memory chip's status."
+WATCH: Exclusive look inside SK Hynix's $720 billion bet on AI memory`,
+    bodyJa: `山岳地帯の多い韓国では、大規模なプロジェクトの構築が信じられないほどの事業となっているが、高帯域幅コンピュータメモリの世界大手メーカーは、世界最大のメモリ工場ネットワークになると主張するものに7,200億ドルを投資している。
+過去 1 年間で時価総額が 5 倍以上に跳ね上がり、現在 1 兆ドルを超えている SK ハイニックスは、人工知能に対する極端な需要が今後も続くと大きな賭けをしています。生産能力の制約によってさらに悪化した価格の高騰は、古典的な好不況産業の構造を変えており、エヌビディアのようなAIチップ大手は供給確保に向けてより多くのリスクを引き受けることをいとわない。
+業界はほんの数人のプレーヤーに依存しています。カウンターポイント・リサーチによると、SKハイニックスは第1四半期の高帯域幅メモリ（HBM）市場の58％を占め、次いで同じ韓国の大手サムスンと米国に本拠を置くマイクロンが21％で続いた。
+韓国取引所に上場しているSKハイニックスは、その野心的な事業拡大に資金を提供するため、7月にナスダックに株式を上場して265億ドルを巻き上げたが、これは外国企業が米国市場に上場して調達した資金としては過去最高額となる。
+新規投資家にとっては厳しい月となった。 7月14日に約195ドルの高値を付けて以来、米国上場株は約21％下落し、水曜日の終値は154.41ドルとなった。この下落は、AI取引、特に半導体株のボラティリティの拡大と、SKハイニックスとサムスンから約半分の価値を得ている韓国市場の下落と同時に起きた。
+しかし、そのどれもがSKハイニックスの歴史的な構築を追求するのを妨げるものではない。これは、韓国のイ・ジェミョン大統領が6月に発表した、国内のメモリ生産を5年間で倍増させるという大規模な計画の一環であり、サムスン製の複数の新しいメガファブの建設も含まれている。
+CNBCは先月、SKハイニックスの拡大の舞台裏を取材し、龍仁クラスターの初のカメラツアーのほか、同社も大規模なインフラ整備を進めている清州のメモリクリーンルームの内部を視察した。
+「まるで戦争のようだ」
+米国のチップ製造工場と、私たちが視察した韓国の SK ハイニックスの 3 つの拠点との最も顕著な違いは、高さです。龍仁クラスターの最初のファブには、そびえ立つ建物の中腹あたりに壁が建てられており、SKハイニックスによると、その高さは50階建てのマンションの高さに達するという。台湾積体電路製造とインテルのアリゾナ州の新しい工場のように平屋に広がるのではなく、6つのクリーンルームが複数のフロアにまたがって接続される予定だ。
+汎用ダイナミック ランダム アクセス メモリを積み重ねて作られた HBM は、AI プロセッサのタスク実行を支援する高速データ アクセスが可能な最高帯域幅メモリです。これらの HBM のスタックは DRAM を大量に消費するため、家庭用電化製品への供給が枯渇しつつあります。これは、AI 大手が、歴史的に利益率の低い商品と考えられていた一般的な短期契約よりも何年も長い契約を締結しているためです。
+「これは戦争のようなものだ」とSKハイニックスの支配株主であるSKグループのチェイ・テウォン会長はソウルでのインタビューで語った。 「誰もがメモリチップを購入したいと考えています。それがなければ、AIコンピューティングやAIチップを生産することはできません。」
+テウォン氏はCNBCに対し、「価格があまりにも早く上がりすぎた」とし、このすべての増強が助けになることを期待していると述べた。 「最善を尽くしたいと思っています」と彼は言った。
+SKハイニックスは7月、主要顧客と10件の長期契約を締結したと報告した。 Nvidiaは「HBMの安定供給を確保」したばかりで、2027年までにSKテレコムと新たなデータセンターを建設することを含むSKグループとの5000億ドルの契約の一環として、次世代メモリを共同開発することに合意した。
+テウォンさんはCNBCに対し、「もっと作ってください」というNVIDIA CEOのジェンスン・ファンからのメッセージが書かれたウエハースを見せた。同氏は、マイクロソフトのサティア・ナデラ氏、グーグルのサンダー・ピチャイ氏、メタ社のマーク・ザッカーバーグ氏といった業界の主要リーダーと時々会っていると語った。 Huang氏とAMD CEOのLisa Su氏はここ数カ月、メモリに関する会議のため韓国を訪れた。
+カウンターポイント・リサーチのリサーチ・ディレクター、MS・ファン氏は、SKハイニックスとサムスンのメモリ工場拡張施設付近のホテルはすべて満室だと述べた。
+「ビッグテック企業の名前を挙げれば、その企業はすべて韓国で契約を結んでいる」と同氏は語った。
+SKハイニックスも中国の3つの工場でメモリチップを製造しているが、米国の輸出規制のため、中国で最先端のHBMを販売することは禁止されている。中国には、上海市場で大ヒットデビューを果たしたばかりのCXMTなど、AIに必要なメモリを製造する新興メーカーが自国に存在する。
+「これはレースであり、今やレースの相手は中国だ」とファン氏は語った。 「それは世界の他のどんなものよりもはるかに危険なものになるだろう。」
+李大統領は現在、韓国での工場建設の加速を促しており、米国も生産能力の追加に急ぐ。
+より大きく、より速く構築するために競う
+マイクロンは500億ドルを投じてアイダホ州ボイジーに2つの巨大な新しいメモリファブを建設しており、最初の1つは2027年にウェーハの製造を開始する予定だ。そしてニューヨーク州クレイでは、最大4つのファブを備えた1000億ドルのキャンパスを建設中である。
+SKハイニックスも米国初の施設を建設中で、2028年に建設が完了する予定だ。インディアナ州ウェストラファイエットにある40億ドルの工場は、フロントエンド製造ではなく、パッケージング（メモリチップを積み重ねて配線する場所）向けだ。
+インディアナ州の計画に加えて、SK ハイニックスは既存の米国事業を展開している。 2020年にインテルのNAND事業を90億ドルで買収することで合意し、最終的にカリフォルニア州サクラメント近郊に本社を置く子会社Solidigmを設立した。 SKハイニックスは1月に同事業を再編し、米国で100億ドル規模の「AIカンパニー」を立ち上げたが、フロントエンド製造に関連する計画はない。
+米国のチップ工場計画に関してテウォン氏は、SKハイニックスが1カ月以上にわたり候補地を検討していると述べた。
+「喜んでそうするつもりだが、問題は適切な場所を本当に見つけなければならないことだ」と彼は語った。
+一方、テウォン氏は、SKハイニックスの巨額投資をリスクから守るのに役立つカスタムHBMへの次の技術的飛躍により、メモリは「転換点」にあると述べた。
+カスタム HBM は現在、AI プロセッサーと共同設計されており、この傾向は次世代 HBM5 で加速しています。
+「NVIDIA は独自のカスタム チップを望んでおり、Google も独自のカスタマイズされた HBM を望んでいます。したがって、HBM は単なる商品ではありません」と Tae-won 氏は述べました。 「それは実際にメモリチップのステータスを変更します。」
+見る: SK Hynix の AI メモリに対する 7,200 億ドルの賭けの内部を独占的に見る`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+    publishedAt: "2026-08-13T09:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "economy-grew-in-april-to-june-as-sun-and-8640a84e",
     title: "Economy grew in April to June as sun and World Cup helped some UK businesses",
     titleJa: "太陽とワールドカップが一部の英国企業を支援したため、4月から6月にかけて経済は成長した",
@@ -1334,404 +1842,6 @@ Meta は月曜日、最も強力な AI モデルをオープンソース コミ�
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 6,
-  },
-  {
-    id: "why-the-historic-u-s-japan-intervention-de308b12",
-    title: "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
-    titleJa: "なぜ歴史的な日米介入が円安を止められなかったのか",
-    summaryJa: "日本円は、数十年ぶりの安値に圧力をかけてきたファンダメンタルズの力が短期的な措置に対してますます回復力を示していることが判明しており、歴史的な日米介入による上昇分の約半分を２週間も経たないうちに消し去った。日本の通貨は1ドル＝163ドルを超えた後、介入後の数日間で155ドルまで上昇したが、現在は1ドル＝159ドルを超えて取引されている。",
-    bodyOriginal: `The Japanese yen has erased about half the gains from a historic U.S.-Japan intervention less than two weeks ago, as the fundamental forces that have pressured the currency to multi-decade lows prove increasingly resilient against short-term measures.
-Japan's currency is currently trading at over 159 per dollar, after having strengthened to 155 in the days following the intervention after it crossed 163.
-"Intervention has scared markets, but has not stopped the laws of finance which say money flows in the direction of maximum returns … as long as the cost of money in Japan is lower than the return overseas, carry trades will re-assert," said Jesper Koll, expert director at Monex Group.
-At the heart of the problem is the gap in returns between Japan and the U.S. With Japanese borrowing costs still far below those in the U.S. and other markets, prompting investors to borrow cheaply in yen and invest in higher-yielding assets, also known as the classic carry trade.
-The backdrop has become even tougher as higher Treasury yields and elevated oil prices, which pose a particular problem for energy-importing Japan, restore some of the macro forces favoring the dollar.
-He argues that intervention has succeeded in reducing speculative excess and raising the risks for traders betting against the yen, even if it has not eliminated the underlying yield advantage supporting the dollar.
-Scaring markets is easy, getting markets to follow needs changed incentives and trust.Jesper KollMonex
-"The intervention successfully reset market psychology and demonstrated an unusually strong degree of U.S.-Japan policy coordination. What it has not yet done is eliminate the yield advantage supporting the dollar," said Masahiko Loo, senior fixed income and currency strategist at State Street Global Advisors.
-The yield gap remains wide: benchmark 10-year U.S. Treasury yield is at 4.686%, compared with 2.846% for 10-year Japanese government bonds, leaving investors with a substantial incentive for holding U.S. debt.
-"It's better understood as a success in slowing speculation but not yet a success in changing fundamentals," Loo said.
-That leaves attention squarely on the Bank of Japan, whose next monetary policy meeting is scheduled for September.
-Monex's Koll said the bigger shock for investors was not intervention itself but the BOJ's reluctance to tighten policy more aggressively, which raises questions over whether concerns about the banking system or Japan's enormous public debt burden are constraining policymakers.
-In the absence of higher Japanese rates or falling U.S. yields, investors still have an incentive to send money overseas.
-John Wood, chief investment officer for Asia at Lombard Odier, said the latest intervention would probably have "a limited time effect," arguing the BOJ might need at least two more rate increases to draw a line under the currency's weakness.
-Yen headwinds
-Yet interest rates may only be part of the explanation.
-Crédit Agricole CIB says that the deeper problem is an "asymmetry of investment power" between the two economies. Massive U.S. investment in artificial intelligence and other projects continues to attract capital, while Prime Minister Sanae Takaichi's planned public-private investment push has yet to fully materialize.
-"What is needed to correct the weak yen is not interest rate hikes, but to expand investment," it said.
-That suggests a sustainable yen recovery ultimately requires Japanese assets themselves to become more attractive, encouraging domestic savings to remain at home rather than chase returns abroad.
-For now, intervention might function less as a mechanism for reversing the yen's decline than as a guardrail against its acceleration.
-State Street's Loo said the 160 level has become "a political line in the sand," meaning another rapid move through that threshold could draw officials back into the market.
-"I would not rule out another intervention, particularly if the move becomes rapid or disorderly," he said. "Ultimately, though, intervention can buy time, but the heavy lifting will fall on BOJ normalization as early as September."
-Washington and Tokyo have also sought to strengthen that deterrent by highlighting the Federal Reserve's foreign and international monetary authorities' repo facility, which can provide dollar liquidity against Treasury securities and reduce the need for Japan to sell its U.S. bond holdings to finance intervention. Treasury Secretary Scott Bessent has signaled support for expanding the backstop.
-That makes it potentially more expensive to keep betting against the yen, but it doesn't make the underlying trade disappear.
-"Scaring markets is easy, getting markets to follow needs changed incentives and trust," said Koll.`,
-    bodyJa: `日本円は、数十年ぶりの安値に圧力をかけてきたファンダメンタルズの力が短期的な措置に対してますます回復力を示していることが判明しており、歴史的な日米介入による上昇分の約半分を２週間も経たないうちに消し去った。
-日本の通貨は1ドル＝163ドルを超えた後、介入後の数日間で155ドルまで上昇したが、現在は1ドル＝159ドルを超えて取引されている。
-マネックスグループの専門ディレクター、ジェスパー・コール氏は「介入は市場を怖がらせたが、資金は最大の収益をもたらす方向に流れるという金融法則を止めたわけではない…日本のお金のコストが海外の収益よりも低い限り、キャリートレードは再び活発化するだろう」と述べた。
-問題の核心は日米間の収益格差にある。日本の借入コストは依然として米国やその他の市場に比べてはるかに低いため、投資家は円で安く借りて高利回りの資産に投資するようになっている（古典的なキャリートレードとも呼ばれる）。
-エネルギー輸入国である日本にとって特に問題となる米国債利回りの上昇と原油価格の高騰により、ドルを支持するマクロ勢力の一部が回復し、背景はさらに厳しくなっている。
-同氏は、たとえドルを支える根本的な利回りの優位性が解消されなかったとしても、介入は投機過剰を削減し、対円に賭けるトレーダーのリスクを高めることに成功したと主張する。
-市場を怖がらせるのは簡単で、市場を従わせるには、インセンティブと信頼を変える必要がある。Jesper KollMonex
-ステート・ストリート・グローバル・アドバイザーズのシニア債券・通貨ストラテジスト、マサヒコ・ルー氏は「介入は市場心理をリセットすることに成功し、日米の政策協調が異常に強力であることを示した。まだできていないのは、ドルを支える利回りの優位性を解消することだ」と述べた。
-利回り格差は依然として大きく、基準となる10年米国債利回りは4.686％であるのに対し、10年日本国債は2.846％であり、投資家には米国債を保有する大きなインセンティブが残されている。
-ルー氏は「投機の抑制には成功したが、ファンダメンタルズの変化にはまだ成功していないと理解されている」と述べた。
-このため、次回の金融政策決定会合が9月に予定されている日銀に注目が集まる。
-マネックス証券のコル氏は、投資家にとってより大きなショックは介入そのものではなく、日銀がより積極的な政策引き締めに消極的であることであり、銀行システムや日本の巨額の公的債務負担に対する懸念が政策立案者の制約になっているのかという疑問が生じていると述べた。
-日本の金利上昇や米国の利回り低下がなければ、投資家は依然として海外に送金するインセンティブを持っている。
-ロンバール・オディエのアジア最高投資責任者、ジョン・ウッド氏は、今回の介入はおそらく「期間限定の効果」をもたらすだろうと述べ、通貨安にけじめをつけるには日銀は少なくともあと２回の利上げが必要になるかもしれないと主張した。
-円の逆風
-しかし、金利は説明の一部にすぎない可能性があります。
-クレディ・アグリコルCIBは、より深刻な問題は両国経済間の「投資力の非対称性」であると述べている。人工知能やその他のプロジェクトへの米国の巨額投資は資本を引き付け続けているが、高市早苗首相が計画している官民投資推進はまだ完全には実現していない。
-「円安是正に必要なのは金利引き上げではなく、投資拡大だ」と述べた。
-このことは、持続的な円回復には最終的には日本の資産そのものがより魅力的になる必要があり、国内貯蓄が海外での利益を追うのではなく国内にとどまることを促す必要があることを示唆している。
-今のところ、介入は円安を反転させるメカニズムとしてよりも、円安加速に対するガードレールとして機能する可能性がある。
-ステート・ストリートのルー氏は、160の水準は「砂上の政治的境界線」となっており、この水準を再び急速に突破する動きが当局を市場に引き戻す可能性があることを意味していると述べた。
-同氏は「特に動きが急速または無秩序になった場合、別の介入の可能性は排除しない」と述べた。 「最終的には介入で時間を稼ぐことはできるが、早ければ９月にも日銀正常化に重労働がかかることになるだろう。」
-米政府と日本政府はまた、米連邦準備制度理事会（FRB）の外国および国際通貨当局のレポ制度を強調することで、その抑止力を強化しようとしている。レポ制度は、財務省証券に対するドルの流動性を提供し、日本が介入資金のために保有する米国債を売却する必要性を減らすことができる。スコット・ベッセント財務長官はバックストップ拡大への支持を示唆した。
-そのため、対円で賭け続けることは潜在的により高価になりますが、基礎となる取引が消滅するわけではありません。
-「市場を怖がらせるのは簡単で、市場のニーズに従うようにさせることで、インセンティブや信頼が変化する」とコル氏は語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
-    publishedAt: "2026-08-12T07:20:31+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "world-s-largest-sovereign-wealth-fund-po-2773151d",
-    title: "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
-    titleJa: "世界最大の政府系ファンドがスペースX株を初めて明らかにし、記録的な1,840億ドルの利益を計上",
-    summaryJa: "ノルウェーの総額2兆3000億ドルのソブリン・ウェルス・ファンドは水曜日、アジアのテクノロジー株の上昇が同ファンドのリターン9.4％に貢献し、1820億ドルを超える過去最高の上半期利益を報告した。同ファンドの上半期報告書は、ファンドのマネージャーらがイーロン・マスク氏率いる宇宙技術大手へのエクスポージャーに関する初の開示で、スペースX株の0.05％（価値12億ドル強）を明らかにした中で発表された。",
-    bodyOriginal: `Norway's $2.3 trillion sovereign wealth fund reported a record half-year profit of more than $182 billion on Wednesday, as a rally in Asian technology stocks helped the fund return 9.4%.
-The fund's first-half report came as its managers revealed a 0.05% stake in SpaceX, valued at just over $1.2 billion, in its first such disclosure of its exposure to Elon Musk's space tech giant.
-The SpaceX stake is dwarfed by some of its other holdings, including a 1.3% stake in Nvidia worth $61.8 billion and a 1.2% ownership of Apple valued at $52.7 as of June 30.
-Norges Bank Investment Management (NBIM) manages the fund, which was set up in the 1990s to invest revenues from the country's oil and gas industry. The fund — currently valued at around $2.34 trillion — is an investor in more than 7,000 companies across more than 50 countries and has stakes in around 1.5% of the world's publicly listed stocks.
-"The result is driven by good returns in the equity market, particularly from Asian technology stocks," Nicolai Tangen, CEO of NBIM, said in a statement on Wednesday.
-Equities make up more than two-thirds of the wider portfolio, with NBIM also investing in fixed income, real estate and renewable energy infrastructure.
-Around 40% of NBIM's portfolio is comprised of U.S. equities, with its most valuable holdings being shares of Nvidia, Apple and Microsoft.`,
-    bodyJa: `ノルウェーの総額2兆3000億ドルのソブリン・ウェルス・ファンドは水曜日、アジアのテクノロジー株の上昇が同ファンドのリターン9.4％に貢献し、1820億ドルを超える過去最高の上半期利益を報告した。
-同ファンドの上半期報告書は、ファンドのマネージャーらがイーロン・マスク氏率いる宇宙技術大手へのエクスポージャーに関する初の開示で、スペースX株の0.05％（価値12億ドル強）を明らかにした中で発表された。
-スペースX株は、618億ドル相当のエヌビディア株1.3％や、6月30日時点で52.7ドル相当のアップル株1.2％など、他の保有株に比べれば小さく見えない。
-ノルジェス銀行投資管理（NBIM）がこの基金を管理している。この基金は、国の石油・ガス産業からの収益を投資するために1990年代に設立された。現在約2兆3,400億ドルと評価されているこのファンドは、50カ国以上の7,000社以上の企業に投資しており、世界の上場株式の約1.5％に出資している。
-NBIMのニコライ・タンゲン最高経営責任者（CEO）は水曜日の声明で、「この結果は株式市場、特にアジアのハイテク株の好リターンによってもたらされた」と述べた。
-株式は広範なポートフォリオの3分の2以上を占めており、NBIMは債券、不動産、再生可能エネルギーインフラにも投資している。
-NBIM のポートフォリオの約 40% は米国株で構成されており、最も価値のある保有株は Nvidia、Apple、Microsoft の株式です。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
-    publishedAt: "2026-08-12T07:01:56+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "houthi-attack-kills-six-in-first-fatalit-ab74175f",
-    title: "Houthi attack kills six in first fatalities in Red Sea in over a year; U.S. strikes container ship",
-    titleJa: "フーシ派の攻撃により、紅海では1年以上ぶりの死者6人が死亡。米国がコンテナ船を攻撃",
-    summaryJa: "イランが支援するフーシ派反政府勢力は火曜日、バブ・エル・マンデブ海峡の貨物船で6人を殺害し、紅海の船舶を標的とした攻撃による死者数は1年以上ぶりに報告された。数時間以内に、米軍は、オマーン湾におけるワシントンによるイラン港封鎖を突破しようとしたとされるコンテナ船にミサイルを発射したと発表した。",
-    bodyOriginal: `Iran-backed Houthi rebels killed six people aboard a cargo ship in the Bab el-Mandeb Strait on Tuesday, the first reported fatalities from attacks targeting Red Sea shipping in more than a year.
-Within hours, U.S. forces said they had fired missiles at a container ship that allegedly attempted to breach Washington's blockade of Iranian ports in the Gulf of Oman.
-The twin incidents illustrate how the war, stretching into its sixth month, is inflicting a widening toll on two of the world's most critical shipping lanes, even as diplomats signal progress towards reopening the Strait of Hormuz.
-Yemen's transport ministry said the casualties included four crew members aboard the vessel — identified as the Egyptian-owned, Tanzania-flagged Tihamah — three of them Pakistani nationals and one Indonesian. Separately, Yemen's coastguard reportedly said two members of the Yemeni government-allied National Resistance Forces were also killed in a follow-up strike as they carried out a rescue.
-Yemen's transport ministry said in its statement that it holds "the Houthi terrorist militias fully responsible for the deaths, injuries and damage inflicted on the commercial vessel "Tihamah" as well as for the serious consequences resulting from these attacks," according to a Google translation of Arabic.
-A Houthi-aligned media outlet later said the group's forces had targeted a ship carrying Saudi military equipment, though the Houthis haven't addressed the casualty figures officially.
-The Iran-aligned group declared a naval blockade against Saudi Arabia in the Red Sea on July 20, breaking a years-long Yemeni civil-war truce, calling it retaliation for a Saudi "siege" on Yemen, an allegation Riyadh has denied.
-Separately, the U.S. Central Command said late Tuesday that a Navy helicopter fired two missiles at the Panama-flagged Vela Nova, disabling its steering and propulsion, after the crew ignored warnings while transiting the Gulf of Oman.
-Centcom said the ship had tried to run past the naval blockade Washington reimposed on Iranian ports in mid-April. There were no immediate reports of casualties. U.S forces have redirected 55 commercial vessels attempting to breach the blockade since it took effect, disabled three non-compliant ships and boarded two, according to Centcom.
-The hostilities at sea come as U.S.-Iran diplomacy has stalled. Iran's Supreme National Security Council laid out sweeping demands over the weekend for reopening the Strait of Hormuz, including an end to the U.S. naval blockade, sanctions relief, American troop withdrawals and war reparations.
-President Donald Trump has countered by demanding Iran pay compensation of its own. The impasse has pushed a return to normal shipping further out of reach, even as Iran and Oman edge toward an agreement on a new transit corridor through the Hormuz Strait.
-Traffic through the strait, which saw 20% of the world's oil trade before the conflict began in late February, has been barely trickling. The war-induced tumult in the waterway has caused a global energy supply shock, sharply raising oil prices and causing broader economic consequences.
-Oil prices have been rising on the back of renewed tensions. Brent crude futures for October delivery added 0.6% to $89.44 a barrel on Wednesday, extending a rally that has added more than 7% this week, according to LSEG data. U.S. West Texas Intermediate for September added 0.7% to $83.8.
-"Current rhetoric suggests any potential deal is still some way off, meaning risks remain skewed to the upside for oil prices," said Warren Patterson, ING's head of commodities strategy.
-There have, however, been some signs of ongoing diplomatic efforts. A senior Pakistani minister said Tuesday that the U.S. and Iran are close to "some sort of arrangement" over the Strait of Hormuz, offering a glimmer of hope for a deal even as the warring powers appear to be hardening their negotiating stances.
-Pakistan's defense minister, Khawaja Asif, told reporters that "things are shaping up again in favor of a peace arrangement or a deal," according to Bloomberg.
-The Pakistani official's comments came after a Qatari Foreign Ministry spokesperson told Al Jazeera that talks between Iran and Oman about opening a shipping channel through the Strait of Hormuz were at a "critical juncture."`,
-    bodyJa: `イランが支援するフーシ派反政府勢力は火曜日、バブ・エル・マンデブ海峡の貨物船で6人を殺害し、紅海の船舶を標的とした攻撃による死者数は1年以上ぶりに報告された。
-数時間以内に、米軍は、オマーン湾におけるワシントンによるイラン港封鎖を突破しようとしたとされるコンテナ船にミサイルを発射したと発表した。
-外交官らがホルムズ海峡の再開に向けた進展を示唆しているにもかかわらず、6か月に及んだ戦争が世界で最も重要な航路の2つに被害を拡大させていることを、この二つの事件は物語っている。
-イエメン運輸省は、死傷者にはエジプト所有、タンザニア船籍のティハマ号と特定された船の乗組員4人が含まれており、このうち3人はパキスタン人、1人はインドネシア人であると発表した。これとは別に、イエメン沿岸警備隊は、イエメン政府と同盟を結んでいる国家抵抗軍の隊員２人も救助活動中に追加攻撃で死亡したと発表した。
-アラビア語のグーグル翻訳によると、イエメン運輸省は声明の中で、「フーシ派テロ民兵組織が商船『ティハマ』に生じた死亡、負傷、損害、およびこれらの攻撃による深刻な結果に対する全責任を負っている」と述べた。
-その後、フーシ派系メディアは、フーシ派部隊がサウジの軍事装備を積んだ船を標的にしたと報じたが、フーシ派は死傷者数について公式には言及していない。
-イランと連携するグループは7月20日、紅海でのサウジアラビアに対する海上封鎖を宣言し、イエメンに対するサウジの「包囲」に対する報復として、長年にわたるイエメンの内戦停戦を破ったが、リヤドはこの主張を否定している。
-これとは別に、米中央軍は火曜日遅く、乗組員がオマーン湾を航行中に警告を無視した後、海軍ヘリコプターがパナマ船籍のベラノバ号に向けてミサイル２発を発射し、操縦と推進を不能にしたと発表した。
-セントコムは、同船は4月中旬に米国政府がイランの港に再び課した海上封鎖を突破しようとしたと発表した。死傷者の報告は直ちになかった。セントコムによると、米軍は封鎖発効以来、封鎖を突破しようとした商船55隻を進路変更し、不遵守の船舶3隻を航行不能にし、2隻に乗船した。
-海上での敵対行為は、米国とイランの外交が行き詰まっている中で起こっている。イラン国家安全保障最高会議は先週末、米国の海上封鎖の解除、制裁緩和、米軍撤退、戦争賠償を含むホルムズ海峡再開に向けた包括的な要求を打ち出した。
-ドナルド・トランプ大統領はイランに独自の賠償金の支払いを要求してこれに対抗した。イランとオマーンがホルムズ海峡を通る新たな通過回廊の合意に向けて前進しているにもかかわらず、この行き詰まりにより、通常の海運への復帰はさらに困難になっている。
-2月下旬に紛争が始まる前には、この海峡を通る交通量は世界の石油貿易の20％を占めていたが、今ではほとんど流れていない。戦争によって引き起こされた水路の混乱は、世界的なエネルギー供給ショックを引き起こし、原油価格を急激に上昇させ、より広範な経済的影響を引き起こしました。
-新たな緊張を背景に原油価格が上昇している。 ＬＳＥＧのデータによると、１０月渡しの北海ブレント原油先物は水曜日、０．６％上昇して１バレル＝８９．４４ドルとなり、今週７％以上上昇した上昇幅が拡大した。 ９月の米国ウエスト・テキサス・インターミディエイトは０．７％高の８３．８ドル。
-ＩＮＧのコモディティ戦略部門責任者ウォーレン・パターソン氏は「現在のレトリックは、潜在的な合意がまだ先のことを示唆している。つまり、リスクは依然として原油価格の上値に偏っていることを意味する」と述べた。
-しかし、外交努力が継続している兆候もいくつかある。パキスタンの高官は火曜日、米国とイランがホルムズ海峡を巡る「何らかの合意」に近づいていると述べ、交戦大国が交渉の姿勢を強めているように見える中でも、合意へのかすかな希望を与えている。
-ブルームバーグによると、パキスタンのカワジャ・アシフ国防相は記者団に対し、「和平協定や合意に向けて事態は再び形になりつつある」と述べた。
-パキスタン当局者のこのコメントは、カタール外務省報道官がアルジャジーラに対し、ホルムズ海峡を通る航路開設に関するイランとオマーンの交渉が「重大な岐路」にあると語った後に発表された。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/us-iran-war-trump-hormuz-houthi-attack-blockade-.html",
-    publishedAt: "2026-08-12T06:30:07+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "google-s-new-ai-boss-inherits-a-race-to-553def14",
-    title: "Google’s new AI boss inherits a race to catch OpenAI and Anthropic",
-    titleJa: "Google の新しい AI ボスが OpenAI と Anthropic をめぐる競争を引き継ぐ",
-    summaryJa: "Koray Kavukcuoglu 氏は、Gemini を OpenAI や Anthropic との競争力を維持するために Google DeepMind を担当しています。",
-    bodyOriginal: `DeepMind's new boss is set to face intense pressure to close the AI performance gap with OpenAI and Anthropic.
-OpenAI and Anthropic have released new systems in recent months that have been both hailed for and prompted concern over their advanced capabilities. On the other hand, Google, which acquired DeepMind in 2014, hasn't unveiled a frontier model since early 2026.
-Koray Kavukcuoglu, who was previously the AI unit's CTO and parent company Google's chief AI architect, is inheriting a race to catch up to OpenAI and Anthropic at the frontier — building the industry's most advanced models. He's stepping up to become SVP, replacing DeepMind cofounder and CEO Demis Hassabis, who becomes the organization's chair.
-"The goal will undoubtedly be to close the gaps with Anthropic and OpenAI in some areas," Ben Wood, chief analyst at CCS Insight, told CNBC.
-Kavukcuoglu's promotion "feels like a move that is designed to adjust the focus of Google's efforts away from academic projects and more toward a stronger focus on improving frontier performance and improving the toolset for developers," Wood added.
-Competing at the frontier
-Google has lagged behind OpenAI, which set the pace after releasing ChatGPT to the public in 2022. That shifted in November 2025 when Google released Gemini 3.
-Analysts said the model "moved the frontier forward", with capabilities that "far exceed[ed] what we've typically come to expect from this generation of frontier models."
-But 2026 has seen OpenAI and Claude maker Anthropic pull ahead with new releases. Anthropic's Mythos model broke new ground, and OpenAI's GPT-5.6 was similarly lauded.
-Following Gemini 3.1 Pro in February, Google's releases this year haven't challenged at the frontier. It assembled an internal team called "Code Strike" to bolster coding capabilities, crucial to the drive to develop artificial general intelligence (AGI).
-Google fell behind Anthropic and OpenAI "because its focus was much more on monetizable areas such as Search, and multi-modal and it lost out on the first clear killer use case, which is coding," Malik Ahmed Khan, senior equity analyst at Morningstar, told CNBC. Coding is an area where those two companies are "miles ahead" of Google, he added.
-A Google spokesperson told CNBC it would be inaccurate to say the company was distracted from its mission of solving "intelligence" before solving "everything else." They said the path to AGI will involve pushing on fronts including agents, coding, robotics and world models, and pointed to DeepMind releases across robotics, video and computer use, as well as public policy work and research.
-DeepMind under Kavukcuoglu
-Kavukcuoglu is part of DeepMind's old guard, having joined in 2012 before the Google acquisition, and will look to bring renewed focus on challenging Anthropic and OpenAI at the frontier, amid several high-profile departures.
-Reporting directly to Google CEO Sundar Pichai, Kavukcuoglu will oversee Gemini model development, Frontier AI research, and the Gemini app and developer teams, Pichai said in a statement.
-Kavukcuoglu's appointment will bring "more focus to GDM, with LLM [large language model] improvements being the clear route forward," Morningstar's Khan said. "We think Google is likely better positioned in the LLM race with these changes than it was without them," he added.
-"Demis has been much more interested in building AGI that was beyond LLMs," Khan said.
-Hassabis' tenure leading DeepMind "saw a clear focus on other areas such as multi-modal, such as world models, as well as his work in health, for example with Isomorphic Labs," he added.
-Kavukcuoglu had been taking on broader responsibilities from Hassabis over the past year, including directing model development and presenting major Gemini releases, a person close to the DeepMind team told CNBC last week.
-Kavukcuoglu's promotion "shows that Google is prioritizing execution over deep research," Ray Wang, principal analyst at Constellation Research, told CNBC. "Expect faster releases, more experimentation and an emphasis on developing to a product roadmap."
-Alphabet shares sank in July after Bloomberg reported that the company had delayed the release of Gemini 3.5 Pro to try and improve performance in areas like coding.
-"The first step [for Kavukcuoglu] would be to ship Gemini 3.5 Pro if possible, and then prove it wasn't a one-off by maintaining a predictable release cadence," said Nick Patience, AI lead at the Futurum Group. Beyond shipping a model that competes at the frontier, Kavukcuoglu "needs to rebuild the coding and pretraining expertise that walked out the door," he told CNBC.
-DeepMind was based in London before its acquisition and Hassabis remained in the city as CEO when it became a division within Google. DeepMind's continued presence there spurred the U.K. AI ecosystem.
-Under his previous role, Kavukcuoglu moved from London to Google's headquarters in Mountain View, California.
-"Google is quietly consolidating its AI leadership out of London," Patience said. A Google spokesperson told CNBC it remained committed to its presence in the UK capital.
-Google's AI play
-Alphabet shares dropped on Thursday when the AI reshuffle was announced, though the stock has risen around 76% in the last 12 months.
-Alphabet CEO Pichai said on last month's earnings call that nearly 90% of Fortune 100 companies are using Gemini Enterprise, stressing the company's ability to sell AI services to cloud customers.
-"Although the model is behind and they want to catch up and they take that seriously, the monetization of the model is doing extremely well," Sebastian Mallaby, author of "The Infinity Machine," a biography of Hassabis, told CNBC's "Squawk Box" on Monday. He pointed to Google's AI being deployed across Android phones and Siri and Apple Intelligence on iPhones.
-It was wrong to "paint a picture of a general crisis" at the company because of big-name departures, Mallaby added. "It's a big team. It's several thousand people on the Gemini team, if you count everybody. And so we shouldn't over-index on a few famous names."
-The breadth of Kavukcuoglu's remit — Gemini model development, the Gemini app and developer teams, and reporting directly to Sundar Pichai — could also boost Google's AI advantage, said Brian Hopkins, VP, emerging tech and principal analyst at Forrester.
-"Models, the app, and the developer teams under one executive is how a company organizes a product group rather than a lab," he told CNBC. "This is something that Google knows how to do much better than OpenAI or Anthropic."
-— CNBC's MacKenzie Sigalos contributed to this report.`,
-    bodyJa: `DeepMind の新しい上司は、OpenAI や Anthropic との AI パフォーマンスの差を縮めなければならないという激しいプレッシャーに直面することになる。
-OpenAI と Anthropic はここ数カ月間、新しいシステムをリリースしましたが、その高度な機能が称賛されると同時に懸念も引き起こされました。一方、2014年にDeepMindを買収したGoogleは、2026年初め以降フロンティアモデルを発表していない。
-以前は AI 部門の CTO で親会社 Google のチーフ AI アーキテクトを務めていた Koray Kavukcuoglu 氏は、業界の最先端モデルを構築しながら、最前線で OpenAI と Anthropic に追いつく競争を引き継いでいます。同氏はディープマインドの共同創設者兼最高経営責任者（CEO）のデミス・ハサビス氏の後任として上級副社長に就任し、同組織の会長に就任する。
-CCS Insightの主任アナリスト、ベン・ウッド氏はCNBCに対し、「目標は間違いなく、一部の分野でAnthropicやOpenAIとの差を埋めることだろう」と語った。
-Kavukcuoglu氏の昇進は、「Googleの取り組みの焦点を学術プロジェクトから離れ、フロンティアパフォーマンスの向上と開発者向けのツールセットの改善にさらに重点を置く方向に調整することを目的とした動きのように感じられる」とWood氏は付け加えた。
-フロンティアでの競争
-Google は、2022 年に ChatGPT を一般公開した後、ペースを決めた OpenAI に後れを取りました。Google が Gemini 3 をリリースした 2025 年 11 月に状況は変わりました。
-アナリストらは、このモデルは「フロンティアを前進させた」もので、「この世代のフロンティアモデルに通常期待されるものをはるかに超えた」機能を備えていると述べた。
-しかし2026年には、OpenAIとClaudeメーカーのAnthropicが新たなリリースを進めている。 Anthropic の Mythos モデルは新境地を開拓し、OpenAI の GPT-5.6 も同様に賞賛されました。
-2 月の Gemini 3.1 Pro に続き、今年の Google のリリースは最前線に挑戦していません。汎用人工知能 (AGI) の開発推進に不可欠なコーディング機能を強化するために、「コード ストライク」と呼ばれる社内チームを編成しました。
-GoogleはAnthropicやOpenAIに遅れをとった。「同社は検索やマルチモーダルなどの収益化可能な分野に重点を置き、最初の明確なキラーユースケースであるコーディングを逃したためだ」とモーニングスターのシニア株式アナリスト、マリク・アーメド・カーン氏はCNBCに語った。コーディングはこの2社がGoogleよりも「数マイル先を行っている」分野だと同氏は付け加えた。
-Googleの広報担当者はCNBCに対し、同社が「他のすべて」を解決する前に「インテリジェンス」を解決するという使命から逸れていたと言うのは不正確だと語った。彼らは、AGIへの道には、エージェント、コーディング、ロボット工学、ワールドモデルなどの分野を推進することが含まれると述べ、ロボット工学、ビデオ、コンピュータの利用、さらには公共政策の取り組みや研究にわたるDeepMindのリリースを指摘した。
-カヴククオグル氏率いるディープマインド
-Kavukcuoglu 氏は、Google 買収前の 2012 年に入社した DeepMind の古参の一員であり、いくつかの注目を集める退社の中、最前線で Anthropic と OpenAI に挑戦することに新たな焦点を当てようとしています。
-カブククオグル氏は、Google CEOのサンダー・ピチャイ氏に直属し、Geminiモデル開発、フロンティアAI研究、Geminiアプリと開発者チームを監督するとピチャイ氏は声明で述べた。
-カブククオグル氏の任命により「LLM（大規模言語モデル）の改善が今後の明確な道筋となり、GDMへの注目がさらに高まる」とモーニングスターのカーン氏は述べた。 「Googleは、これらの変更がなかった場合よりも、これらの変更があったほうがLLM競争で有利な立場にある可能性が高いと考えている」と同氏は付け加えた。
-「デミス氏は、LLM を超えた AGI の構築にずっと興味を持っていました」とカーン氏は言います。
-ハサビス氏の在任期間中、DeepMindを率いてきたことは、「Isomorphic Labsなどの健康分野の研究だけでなく、世界モデルなどのマルチモーダルなどの他の分野にも明確に焦点を当てていた」と付け加えた。
-DeepMindチームに近い関係者が先週CNBCに語ったところによると、Kavukcuoglu氏は過去1年間、Hassabis社からモデル開発の指揮やGeminiの主要リリースの発表など、より幅広い責任を引き受けていたという。
-コンステレーション・リサーチの主席アナリスト、レイ・ワン氏は、カブククオグル氏の昇進は「グーグルが綿密な調査よりも実行を優先していることを示している」とCNBCに語った。 「より迅速なリリース、より多くの実験、そして製品ロードマップに沿った開発に重点が置かれることを期待しています。」
-アルファベットの株価は、同社がコーディングなどの分野でのパフォーマンス向上を図るためにGemini 3.5 Proのリリースを延期したとブルームバーグが報じた後、7月に下落した。
-「（Kavukcuoglu の）最初のステップは、可能であれば Gemini 3.5 Pro を出荷し、その後、予測可能なリリース リズムを維持することで、それが 1 回限りのものではないことを証明することです」と Futurum Group の AI リードである Nick Patience 氏は述べています。カヴククオグル氏は、最前線で競争できるモデルを出荷するだけでなく、「すでに開発されているコーディングと事前トレーニングの専門知識を再構築する必要がある」と CNBC に語った。
-DeepMindは買収前はロンドンに拠点を置いていたが、Google内の部門となった後もハサビス氏はCEOとしてロンドンに留まった。 DeepMind が英国で存在し続けることで、英国の AI エコシステムが活性化されました。
-カブククオグル氏は前職の下、ロンドンからカリフォルニア州マウンテンビューのグーグル本社に異動した。
-「グーグルはロンドンから静かにAIのリーダーシップを強化している」とペイエンス氏は語った。グーグルの広報担当者はＣＮＢＣに対し、英国の首都での存在感を維持し続けると語った。
-GoogleのAIプレイ
-AIの人事異動が発表された木曜日にアルファベット株は下落したが、株価は過去12カ月で約76％上昇した。
-アルファベットのピチャイ最高経営責任者（CEO）は先月の決算会見で、フォーチュン100企業の90％近くがGemini Enterpriseを利用していると述べ、クラウド顧客にAIサービスを販売する同社の能力を強調した。
-ハサビスの伝記「The Infinity Machine」の著者セバスチャン・マラビー氏は月曜日、CNBCの番組「Squawk Box」で、「モデルは遅れをとっており、彼らは追いつきたいと考えており、それを真剣に受け止めているが、モデルの収益化は非常にうまくいっている」と語った。同氏は、GoogleのAIがAndroidスマートフォンやiPhoneのSiriとApple Intelligenceに導入されていると指摘した。
-マラビー氏は、大物の退職を理由に会社の「全体的な危機を描く」のは間違いだと付け加えた。 「これは大きなチームです。全員を数えると、ジェミニのチームには数千人がいます。ですから、少数の有名人を過剰にインデックスすべきではありません。」
-Forrester社の副社長兼新興技術担当兼主席アナリストのブライアン・ホプキンス氏は、Geminiモデルの開発、Geminiアプリと開発者チーム、サンダー・ピチャイへの直接報告など、カブククオグル氏の権限の広さによってもGoogleのAI優位性はさらに高まる可能性があると述べた。
-同氏はCNBCに対し、「1人の幹部の下にあるモデル、アプリ、開発者チームは、企業がラボではなく製品グループを組織する方法である」と語った。 「これは、Google が OpenAI や Anthropic よりもはるかに優れた方法を知っていることです。」
-— CNBC の MacKenzie Sigalos がこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
-    publishedAt: "2026-08-12T05:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "pm-admits-cost-of-living-help-is-not-eno-4967321d",
-    title: "PM admits cost of living help is not enough and hints at further support",
-    titleJa: "首相、生活費援助だけでは十分ではないと認め、さらなる支援を示唆",
-    summaryJa: "首相、生活費援助だけでは十分ではないと認め、さらなる支援を示唆- 公開されました",
-    bodyOriginal: `PM admits cost of living help is not enough and hints at further support
-- Published
-Prime Minister Andy Burnham has said he accepts his announcements aimed at tackling the cost of living are not enough on their own and hinted at further support.
-Burnham told BBC's Wake up to Money he will deliver an "accumulation of smaller things" that "combine to take the pressure down" on household budgets.
-He spoke of an overhaul of train fares and "more public control" of energy, water and housing but did not give details on how he would bring this about.
-Burnham has made a number of announcements to help people with the cost of living since taking office, including the removal of VAT from domestic electricity bills and bringing forward an already planned end to 'subscription traps'.
-Asked whether the changes he had announced were not significant to people struggling, he said: "I can accept criticism that this isn't enough, because I wouldn't say it's enough.
-"But I take an approach to politics where I do what I can, when I can. Just take that little bit of pressure off and address an issue that you know needs addressing.
-"It's not the end of the story," he added.
-The prime minister, who is embarking on a tour of the UK while Parliament is in recess, said he believed "more public control of essential services" such as water, energy and housing, "would mean we could get to a more substantial answer to the cost of living crisis".
-On water, he said it would not be easy to reverse the privatisation of water companies in England and Wales that took place in the 1980s.
-"But very much, I'm looking at what can be done. Same with energy."
-He also said that, following the return of rail operators to public ownership, he wanted to "remodel the rail fares so that we can get more public benefit for people".
-It comes as the government said on Wednesday that people living within 1,600ft (500m) of new upgraded electricity pylons and substations across Britain will receive a £250 annual discount on their bills for a decade.
-Andy Burnham: Wake Up to Money
-The prime minister tells Wake Up to Money that the increase to national insurance has "added pressure" to businesses.
-Burnham told the BBC he has asked Chancellor John Healey to look at what the government can do further on the cost of living in the upcoming Budget, on 28 October, and that Healey has said it will be his "main focus".
-Healey has made it clear he will oversee "strong fiscal discipline" – which will limit how much the government has to spend.
-One major think tank recently warned that he will have to raise taxes or cut spending to meet Burnham's pledges on defence and the cost of living.
-Labour's manifesto pledge was to not increase taxes for working people — including income tax, VAT and National Insurance Contributions (NICs) - which Burnham has said he will uphold.
-He will likely face pressure to address rising costs for businesses, after previous budgets under Rachel Reeves saw employer's national insurance and minimum wages go up.
-Last month Burnham said pubs, social clubs and live music venues in England would be given a 20% cut to business rates from April, calling it a "first step" to help the industry.
-He told the BBC he accepted the national insurance hike had added pressure on businesses, and that the government would look at business rates "more broadly".
-Burnham said: "I would like to bring down the cost of doing businesses. I want to make high streets more vibrant across the country. I know that cannot be done by simply wishing it."
-But he said he did not want to "at this point, start making commitments".
-"Those are for the Budget."
-Get in touch
-Have you been affected by the issues discussed in this story?
-Related topics
-- Published3 days ago
-- Published12 minutes ago
-- Published1 day ago`,
-    bodyJa: `首相、生活費援助だけでは十分ではないと認め、さらなる支援を示唆
-- 公開されました
-アンディ・バーナム首相は、生活費対策だけでは不十分であるという自身の発表を受け入れると述べ、さらなる支援を示唆した。
-バーナム氏はBBCの『ウェイク・アップ・トゥ・マネー』で、家計への「プレッシャーを軽減するために組み合わせる」「小さなことの積み重ね」を提供すると語った。
-同氏は鉄道運賃の見直しや、エネルギー、水、住宅の「さらなる公的管理」について語ったが、これをどのように実現するかについては詳細には触れなかった。
-バーナム氏は就任以来、国内の電気料金から付加価値税を撤廃したり、すでに計画されていた「サブスクリプションの罠」の廃止を前倒ししたりするなど、国民の生活費を支援するための数々の発表を行ってきた。
-自身が発表した変更は、苦境にある人々にとって重要ではないかとの質問に対し、同氏は「十分ではないという批判は受け入れることができる。なぜなら、十分とは言えないからだ」と述べた。
-「しかし、私は政治に対して、できるときにできることをするというアプローチをとっています。少しだけプレッシャーを軽減し、対処する必要があるとわかっている問題に取り組んでください。
-「これで話が終わったわけではない」と彼は付け加えた。
-議会の休会中に英国歴訪中の首相は、水、エネルギー、住宅などの「必要不可欠なサービスの公的管理を強化する」ことで、「生活費危機に対するより本質的な解決策が得られることを意味する」と信じていると述べた。
-水に関しては、1980年代にイングランドとウェールズで行われた水道会社の民営化を逆転させるのは簡単ではないと述べた。
-「しかし、私は何ができるかを考えています。エネルギーについても同様です。」
-また、鉄道事業者の公有化に伴い、「国民により多くの公益が得られるよう鉄道運賃を改革したい」と述べた。
-これは水曜日、英国全土で新しく改良された送電塔と変電所から1,600フィート（500メートル）以内に住む人々は10年間、年間250ポンドの料金割引を受けると政府が発表したことを受けてのことだ。
-アンディ・バーナム: お金への目覚め
-首相は「Wake Up to Money」に対し、国民保険の引き上げが企業に「圧力を加えている」と語った。
-バーナム首相はBBCに対し、10月28日の次期予算案で生計費に関して政府がさらに何ができるかを検討するようジョン・ヒーリー首相に要請し、ヒーリー首相はそれが「主な焦点」になるだろうと述べたと語った。
-ヒーリー氏は、政府の支出額を制限する「強力な財政規律」を監督することを明らかにした。
-ある大手シンクタンクは最近、バーナム氏の国防と生活費に関する公約を達成するには増税か歳出削減が必要になると警告した。
-労働党のマニフェスト公約は、所得税、付加価値税、国民保険料（NIC）を含む勤労者の増税を行わないことであり、バーナム氏はこれを守ると表明した。
-レイチェル・リーブス政権下のこれまでの予算では雇用主の国民保険と最低賃金が引き上げられていたため、同氏は企業のコスト上昇に対処するプレッシャーに直面する可能性が高い。
-バーナム氏は先月、英国のパブ、社交クラブ、ライブ音楽会場は4月から営業料金を20％引き下げると発表し、これが業界を支援する「第一歩」だとした。
-同氏はBBCに対し、国民保険の引き上げが企業への圧力を高めていることを認め、政府は企業向け料金を「より広範囲に」検討すると述べた。
-バーナム氏は、「事業コストを下げたい。全国の目抜き通りをもっと活気のあるものにしたい。それがただ願うだけでは実現できないことは分かっている」と語った。
-しかし同氏は、「現時点でコミットメントを開始する」つもりはないと述べた。
-「それは予算のためです。」
-連絡する
-この話で議論されている問題の影響を受けましたか?
-関連トピック
-- 3 日前に公開
-- 12 分前に公開
-- 1 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-12T04:13:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e306/live/9bc93290-9581-11f1-8636-978a48bd79b6.jpg",
-    readTime: 4,
-  },
-  {
-    id: "ai-agents-alarming-hacking-skills-create-e6661748",
-    title: "AI agents' 'alarming' hacking skills creates rush to spend on cybersecurity",
-    titleJa: "AI エージェントの「驚くべき」ハッキング スキルがサイバーセキュリティへの支出ラッシュを生み出す",
-    summaryJa: "最近の一連の AI ハッキング事件により、各研究所がフロンティア モデルからエージェント AI の開発を競う中、サイバーセキュリティが話題の最前線に押し上げられています。OpenAIとAnthropicは先週、モデルが自社のテスト環境を突破し、他の企業にハッキングされたと発表した。その後、Meta は、自社の AI モデルの 1 つがサイバーセキュリティ評価中に他社にハッキングされたと発表しました。米国の複数のヘッジファンドもサイバーフィッシング攻撃の標的となったが、誰が犯人だったのかは依然として不明だ。",
-    bodyOriginal: `A string of recent AI hacking incidents has pushed cybersecurity to the forefront of the conversation, as labs race to develop agentic AI from their frontier models.
-Last week, OpenAI and Anthropic said models broke out of their testing environments and hacked into other companies. Following that, Meta announced that one of its AI models had hacked into another company during a cybersecurity evaluation. Several U.S. hedge funds were also targeted by cyber phishing attacks, though it is still unclear who was responsible.
-These episodes are unfolding against a broader cyber arms race being accelerated by frontier AI models and the inherent risks brought by fast-moving technological capabilities. For example, AI-enabled phishing has been found to be around five times more effective than human attempts. So while chips and data centers have dominated the first phase of AI capex, cybersecurity could become the next spending boom.
-The capabilities that enable AI to identify hacks are the same ones that allow it to exploit "vulnerabilities and gaps," according to Gene Yu from Blackpanda, a cyber emergency response firm that saw its incident response for cases across Asia Pacific double year-on-year in the first half of 2026.
-AI has not changed the volume of vulnerabilities in a system, but rather is a "force multiplier" to how quickly these vulnerabilities are found, Yu said. Its effectiveness making it "alarming" when "AI is not held back."
-That problem is likely to come with a growing price tag. Gartner estimates that spending on information security is expected to increase by 12.5% in 2026 to $240 billion.
-Companies are going to have to spend more on cybersecurity, according to Paul Meeks, head of technology research at Freedom Capital Markets. He predicts the outlays will be "in addition to" the current AI buildout spending, instead of an allocation away from it. Finance and healthcare are two sectors likely to need major increases in spending, he said, given their importance to global economies which also makes them tempting targets for cyberattacks.
-One question is whether demand flows toward pure-play cybersecurity vendors or hyperscalers with their own tech stack.
-Meeks thinks cybersecurity pure-plays like Palo Alto and Crowdstrike will benefit the most from this spending cycle, as hyperscalers will "take a while to develop something advanced enough." Plus, third-party vendors tend to be more sophisticated with preventing breaches, he said.
-Gene Yu concurs.
-"Major cybersecurity players will be the first to capture the upside," and "cybersecurity services are one of the most resilient sectors in the AI revolution." However, he thinks hyperscalers can also capture this spending boom as they "already have the structural edge" to either build internally or "acquire at great speed."
-Potential solutions going forward include regulation and changes to AI system design.
-If governments do not have "some rules of the game, we're going to be in trouble," Meeks said.
-Gary Marcus, an emeritus professor at NYU, says that while a lot of money has been "poured into LLMs," new research has to be done to build AI systems "that are more controllable." Rogue AI has arrived, he said, and there is "no good way to control it."`,
-    bodyJa: `最近の一連の AI ハッキング事件により、各研究所がフロンティア モデルからエージェント AI の開発を競う中、サイバーセキュリティが話題の最前線に押し上げられています。
-OpenAIとAnthropicは先週、モデルが自社のテスト環境を突破し、他の企業にハッキングされたと発表した。その後、Meta は、自社の AI モデルの 1 つがサイバーセキュリティ評価中に他社にハッキングされたと発表しました。米国の複数のヘッジファンドもサイバーフィッシング攻撃の標的となったが、誰が犯人だったのかは依然として不明だ。
-これらのエピソードは、フロンティア AI モデルによって加速されている広範なサイバー軍拡競争と、急速に変化する技術力によってもたらされる固有のリスクに対して展開されています。たとえば、AI を利用したフィッシングは、人間によるフィッシングよりも約 5 倍効果的であることがわかっています。そのため、AI 設備投資の第 1 段階ではチップとデータセンターが大半を占めてきましたが、サイバーセキュリティが次の支出ブームになる可能性があります。
-AI がハッキングを識別できるようにする機能は、AI が「脆弱性とギャップ」を悪用できるようにする機能と同じであると、サイバー緊急対応会社 Blackpanda の Gene Yu 氏は述べています。Blackpanda は、2026 年上半期にアジア太平洋地域全体でのインシデント対応が前年比で 2 倍になったそうです。
-AIはシステム内の脆弱性の量を変えたわけではなく、むしろこれらの脆弱性をいかに早く発見するかを「力を倍増させる」ものである、とYu氏は述べた。その有効性は、「AI が抑制されていない」場合に「憂慮すべき」ことになります。
-この問題には、価格の高騰が伴う可能性が高い。 Gartner は、情報セキュリティへの支出は 2026 年に 12.5% 増加して 2,400 億ドルになると予想しています。
-フリーダム・キャピタル・マーケッツの技術調査責任者、ポール・ミークス氏によると、企業はサイバーセキュリティーにさらに支出する必要があるという。同氏は、この支出は現在のAI構築支出から切り離して配分するのではなく、「それに加えて」行われるだろうと予測している。同氏は、金融とヘルスケアは世界経済にとっての重要性を考慮すると、サイバー攻撃の標的となりやすいことから、支出の大幅な増加が必要となる可能性が高い2分野であると述べた。
-疑問の 1 つは、需要が純粋なサイバーセキュリティ ベンダーに流れるのか、それとも独自の技術スタックを備えたハイパースケーラーに流れるのかということです。
-ミークス氏は、ハイパースケーラーは「十分に高度なものを開発するには時間がかかる」ため、パロアルトやクラウドストライクなどのサイバーセキュリティ専業企業がこの支出サイクルから最も恩恵を受けると考えている。さらに、サードパーティベンダーは侵害の防止に関してより洗練されている傾向があると同氏は述べた。
-ジーン・ユーも同意する。
-「サイバーセキュリティの大手企業が最初に利益を得るだろう」、「サイバーセキュリティサービスはAI革命において最も回復力のある分野の1つだ」。しかし同氏は、ハイパースケーラーも、社内で構築するか「急速に買収」するための「構造的優位性をすでに持っている」ため、この支出ブームを捉えることもできると考えている。
-今後考えられる解決策には、AI システム設計の規制や変更が含まれます。
-政府が「ゲームのいくつかのルール」を持たなければ、我々は問題に直面するだろうとミークス氏は語った。
-ニューヨーク大学の名誉教授であるゲイリー・マーカス氏は、多額の資金が「LLMに注ぎ込まれている」一方で、「より制御可能な」AIシステムを構築するには新たな研究を行う必要があると述べている。同氏は、不正AIが登場したが、「それを制御する良い方法はない」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-    publishedAt: "2026-08-12T02:58:04+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "sen-darline-graham-advances-to-republica-1663ef2e",
-    title: "Sen. Darline Graham advances to Republican special primary runoff in South Carolina",
-    titleJa: "ダーリン・グラハム上院議員、サウスカロライナ州の共和党特別予備選決選投票に進出",
-    summaryJa: "ウィスコンシン、ミネソタ、サウスカロライナなどの州の有権者が2026年の中間選挙に先立って党の候補者を選ぶ中、全国各地で予備選挙の投票が締め切られ始めている。サウスカロライナ州では午後7時に投票が終了した。 ETは、共和党有権者が故リンジー・グラハム上院議員の後任の共和党候補者となる選択肢を狭めている。",
-    bodyOriginal: `Polls have begun closing in primary elections across the country, as voters in states such as Wisconsin, Minnesota and South Carolina pick their party's candidates ahead of the 2026 midterms.
-In South Carolina, polls closed at 7 p.m. ET as Republican voters narrow their choices to be the GOP nominee to succeed the late Sen. Lindsey Graham.
-Sen. Darline Graham, R-S.C., will advance to a runoff election for the nomination, according to the Associated Press. Graham was appointed to the Senate to fill her brother's seat for the remainder of his term, which ends in January, and was endorsed by President Donald Trump for a full term.
-Rep. Ralph Norman, R-S.C., will also advance to the runoff, setting up a showdown with Graham for the nomination later this year.
-In Minnesota and Wisconsin, polls are set to close at 9 p.m. ET. In both states, progressive Democrats are facing off with more moderate Democratic candidates — a crucial test as the party's left flank surges across the country.
-Progressive Lt. Gov. Peggy Flanagan is facing centrist Rep. Angie Craig, D-Minn., for the Democratic nomination for an open Senate seat in Minnesota. In Wisconsin, Democratic socialist Francesca Hong is the frontrunner to be the Democrats' gubernatorial nominee. Incumbent Wisconsin Gov. Tony Evers, who is retiring, has endorsed Milwaukee County Executive David Crowley to succeed him.
-This story is developing. Please check back for updates.`,
-    bodyJa: `ウィスコンシン、ミネソタ、サウスカロライナなどの州の有権者が2026年の中間選挙に先立って党の候補者を選ぶ中、全国各地で予備選挙の投票が締め切られ始めている。
-サウスカロライナ州では午後7時に投票が終了した。 ETは、共和党有権者が故リンジー・グラハム上院議員の後任の共和党候補者となる選択肢を狭めている。
-AP通信によると、ダーリン・グラハム上院議員（共和党、サウスカロライナ州）が指名争いの決選投票に進む予定だという。グラハム氏は、1月に終了する残りの任期を弟の議席を埋めるために上院議員に任命され、ドナルド・トランプ大統領から全任期の支持を得た。
-ラルフ・ノーマン下院議員（共和党、サウスカロライナ州）も決選投票に進み、今年後半の指名争いでグラハム氏との対決が予定されている。
-ミネソタ州とウィスコンシン州では午後９時に投票が終了する予定だ。 ET。両州では、進歩的な民主党員がより穏健派の民主党候補者と対峙しているが、党の左派勢力が全国的に拡大する中、重要な試練となっている。
-進歩派のペギー・フラナガン副知事は、ミネソタ州の上院空席の民主党候補指名を巡り、中道派のアンジー・クレイグ下院議員（民主党、ミネソタ州）と対戦している。ウィスコンシン州では、民主社会主義者のフランチェスカ・ホン氏が民主党の知事候補の最有力候補となっている。退任する現職のウィスコンシン州知事トニー・エヴァーズ氏は、後任としてミルウォーキー郡行政執行官デイビッド・クロウリー氏を支持した。
-この物語は発展中です。最新情報を再度ご確認ください。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/11/primary-election-wisconsin-minnesota-south-carolina-democrats-hong-flanagan-craig.html",
-    publishedAt: "2026-08-12T01:26:46+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "evs-dominate-china-s-car-market-5-takeaw-9bcbf193",
-    title: "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-    titleJa: "EV が中国の自動車市場を独占: 中国の最新の自動車販売データから得られる 5 つのポイント",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `BEIJING — Survivors have emerged in China's fiercely competitive car market, which is increasingly dominated by electric-powered vehicles.
-Here are brands that have emerged as Chinese consumers' favorite, according to industry data from Autohome:
-1. Geely ranks first
-Among the 10 most popular car models sold in China in the six months through July, Geely's Xingyuan electric hatchback was the bestseller with nearly 197,500 units sold.
-The price? Just under 100,000 yuan ($14,820).
-Geely has emerged as a close rival to BYD, ranking second by overall China sales volume in 2025. The Hangzhou-based company still sells gasoline-powered cars in addition to electric vehicles, such as those sold under its premium brand Zeekr.
-2. Tesla keeps selling
-The company's Model Y ranked second in popularity with more than 180,000 of the electric SUVs sold. The Tesla car comes at a steeper price tag of 263,500 yuan to 313,500 yuan, but that didn't stop it from topping sales of Li Auto's i6 SUV and Xiaomi's SU7 sedan.
-3. BYD barely makes top 5
-Three of the 10 best-selling cars, as per Autohome data from February through July, were from BYD. But the most popular one — a modestly priced Yuan UP SUV — just managed fifth place with nearly 97,700 units sold. In sixth place was the Ti 7 under BYD's off-road brand, followed by its Sealion 06 SUV.
-The Chinese car giant reported its passenger car sales dropped by more than 10% in the first half of the year.
-4. VW holds on
-The German automaker was the only traditional foreign car company to make the top 10 — with its compact gasoline-powered Lavida in ninth place, squeezed between Leapmotor's A10 electric SUV and Geely's gasoline-powered Boyue L SUV.
-5. Electric dominates
-New energy vehicles, which include battery and hybrid-powered cars, accounted for 65.1% of new passenger cars sold in July — up from 54% a year ago, according to China Passenger Car Association data released Tuesday.
-But the category still saw sales for the year through July drop by 12.5%, as passenger car sales overall tumbled by 20.3%, industry data showed.`,
-    bodyJa: `北京 — 電気自動車の優位性がますます高まる中国の熾烈な競争が続く自動車市場で、生き残りの勢力が現れている。
-Autohome の業界データによると、中国の消費者のお気に入りとして浮上したブランドは次のとおりです。
-1. 吉利汽車が1位
-7月までの6か月間で中国で販売された最も人気のある10車種の中で、吉利汽車の電気ハッチバック「星源」が約19万7500台を販売しベストセラーとなった。
-価格は？ 10万元（1万4820ドル）弱。
-吉利はBYDに迫るライバルとして浮上しており、2025年の中国全体の販売台数で第2位となっている。杭州に本拠を置く同社は、プレミアムブランド「Zeekr」などの電気自動車に加えて、依然としてガソリン車も販売している。
-2. テスラは売れ続ける
-同社のモデルYは、18万台以上の電動SUVが販売され、人気2位にランクされた。テスラ車の価格は26万3500元から31万3500元と高額だが、それでも李汽車のi6 SUVや小米科技のSU7セダンの売り上げを上回ることは止められなかった。
-3. BYDはかろうじてトップ5に入る
-Autohome の 2 月から 7 月のデータによると、最も売れた車 10 台のうち 3 台が BYD 製でした。しかし、最も人気のある車種、つまり手頃な価格の Yuan UP SUV は、約 97,700 台を販売し、5 位にとどまりました。 6位はBYDのオフロードブランドのTi 7、続いて同社のSUV「Sealion 06」だった。
-中国の自動車大手は、今年上半期の乗用車販売が10％以上減少したと報告した。
-4. VWは堅持
-ドイツの自動車メーカーは、トップ10に入った唯一の伝統的な外国自動車会社だった。コンパクトなガソリンエンジンのラヴィダは9位で、リープモーターの電気SUV「A10」と吉利のガソリンエンジンのボユエL SUVに挟まれた。
-5. 電気が支配する
-火曜日に発表された中国乗用車協会のデータによると、バッテリー車やハイブリッド車を含む新エネルギー車は、7月に販売された新車乗用車の65.1％を占め、前年同期の54％から増加した。
-しかし、業界データによると、乗用車販売全体が20.3％減少したため、このカテゴリーの7月までの年間売上高は依然として12.5％減少した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-    publishedAt: "2026-08-12T01:20:13+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
   },
 ];
 
