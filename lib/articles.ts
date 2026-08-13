@@ -15,6 +15,188 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "workday-skyrockets-19-before-trading-hal-d8952832",
+    title: "Workday skyrockets 19% before trading halted on report of Silver Lake takeover",
+    titleJa: "ワークデイはシルバーレイク買収報道で取引停止前に19％急騰",
+    summaryJa: "プライベートエクイティ会社シルバーレイクが人事ソフトウェアメーカーの買収交渉を行っているとの報道を受け、ワークデイ株は19％超急騰した。株価は午後遅くの取引で一時停止され、ロイターの報道を受けて同社の時価総額は最後に５００億ドルを超えた。",
+    bodyOriginal: `Workday shares popped more than 19% on a report that private equity firm Silver Lake is in talks to buy the human resources software maker.
+Shares were briefly halted in late afternoon trading and the company's market value last topped more than $50 billion following the report from Reuters.
+The discussions, citing sources familiar with the matter, have been ongoing in recent months, according to Reuters.
+Workday and Silver Lake did not immediately respond to CNBC's request for comment.
+Software companies like Workday have come under immense pressure in recent months on mounting concerns that artificial intelligence tools will upend their business models. The stock is down about 3% this year and 7% from a year ago.
+In March, co-founder Aneel Bhusri was renamed CEO after Carl Eschenbach stepped down. Bhusri has held various leadership roles at the company, including a stint as CEO and co-CEO.
+"Aneel Bhusri, the CEO, and Egon [Durban] from Silver Lake know each other well through many connections. So we we think certainly this could make sense, and I think this goes back to how badly hit software's been," analyst Brent Thill told CNBC's "Power Lunch."
+In May, the company posted better-than-expected results and upped it forecast on AI tailwinds.`,
+    bodyJa: `プライベートエクイティ会社シルバーレイクが人事ソフトウェアメーカーの買収交渉を行っているとの報道を受け、ワークデイ株は19％超急騰した。
+株価は午後遅くの取引で一時停止され、ロイターの報道を受けて同社の時価総額は最後に５００億ドルを超えた。
+ロイター通信によると、この問題に詳しい関係者の話として、この協議はここ数カ月続いているという。
+ワークデイとシルバーレイクはCNBCのコメント要請にすぐには応じなかった。
+ワークデイのようなソフトウェア企業はここ数カ月、人工知能ツールが自社のビジネスモデルを一変させるのではないかとの懸念が高まり、多大なプレッシャーにさらされている。株価は今年約３％下落し、前年比では７％下落した。
+カール・エッシェンバッハ氏の辞任を受け、3月に共同創設者のアニール・ブースリ氏がCEOに改名された。ブスリ氏は、CEO および共同 CEO を含む、同社でさまざまな指導的役割を果たしてきました。
+「CEOのアニール・ブスリ氏とシルバーレイクのエゴン氏（ダーバン氏）は、多くの人脈を通じてお互いをよく知っている。したがって、これは確かに理にかなっていると我々は考えている。そして、これはソフトウェアがどれほどひどい打撃を受けているかに遡ると思う」とアナリストのブレント・ティル氏はCNBCの「パワーランチ」で語った。
+同社は5月に予想を上回る業績を発表し、AIの追い風を受けて予想を上方修正した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+    publishedAt: "2026-08-13T19:09:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "anthropic-cfo-krishna-rao-is-leading-ear-74e4d462",
+    title: "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
+    titleJa: "Anthropic CFOのクリシュナ・ラオ氏は投資家とのIPO初期ミーティングを主導しており、バリュエーションについては議論していないと情報筋は言う。",
+    summaryJa: "Anthropic CFO の Krishna Rao 氏が初期の投資家会議を主導しており、Claude AI モデルや管理などの大きなテーマに焦点を当てています。",
+    bodyOriginal: `Anthropic's early meetings with prospective investors ahead of its potentially historic initial public offering have been high level and have not included discussions about specific financials or a valuation, sources told CNBC's David Faber.
+The artificial intelligence company confidentially filed its prospectus with the Securities and Exchange Commission in June, setting the stage for its highly anticipated public markets debut. The company has not disclosed an official timeline for when it plans to go public, but it has been holding preliminary meetings to test the waters with some investors in recent weeks.
+Anthropic CFO Krishna Rao is leading the meetings, the people said.
+In those meetings, Anthropic has discussed big-picture topics like its family of Claude AI models, how the company developed its popular coding assistant Claude Code, its position in the enterprise market, its management and the number of releases it has executed, the people said.
+A representative for Anthropic did not immediately respond to CNBC's request for comment.
+Anthropic was founded in 2021 by a group of researchers and executives who defected from OpenAI, now the company's chief rival. In late May, Anthropic closed a funding round at a $965 billion valuation, topping OpenAI, which was valued at $852 billion in late March.
+The company is best known for its cutting-edge Claude models, and it's found success selling its technology to large enterprises — a fiercely competitive market for AI developers. Anthropic said in May that its run-rate revenue crossed $47 billion, up from the roughly $10 billion in revenue that it generated in all of 2025.
+Because of its anticipated run rate, some Anthropic investors expect that the company could seek a valuation of $2 trillion or more, according to two sources familiar with the matter. But that number is based on their own analyses and is not a figure that is coming from Anthropic, the sources said.
+The Financial Times was first to report that investors were floating the $2 trillion expectation.
+OpenAI is also gearing up for a potentially massive IPO. The company confidentially filed its prospectus with regulators shortly after Anthropic did, but as of late June, it had not held pre-IPO meetings or outlined an official timeline for the listing, as CNBC previously reported.
+Elon Musk's SpaceX, which acquired his AI startup xAI earlier this year, made a record-breaking debut on the Nasdaq in June. The stock has had a volatile first two months of trading, and is off roughly 38% from its intraday high.
+— CNBC's Kate Rooney contributed to this report.`,
+    bodyJa: `歴史的な可能性のある新規株式公開に先立つアンスロピックの将来の投資家との初期の会合はハイレベルなものであり、特定の財務内容や評価額に関する議論は含まれていなかったと関係者がCNBCのデービッド・フェイバーに語った。
+この人工知能企業は 6 月に証券取引委員会に目論見書を極秘に提出し、待望の公開市場デビューの準備を整えました。同社は上場計画の正式なスケジュールを明らかにしていないが、ここ数週間、一部の投資家とテストのための事前会合を開催している。
+関係者によると、人類最高財務責任者（CFO）のクリシュナ・ラオ氏が会議を主導しているという。
+これらの会議で、Anthropic は、同社の Claude AI モデル ファミリ、人気のコーディング アシスタントである Claude Code の開発方法、エンタープライズ市場における同社の地位、その管理、実行したリリースの数などの大きな話題について話し合ったと関係者は述べています。
+Anthropicの代表者はCNBCのコメント要請にすぐには応じなかった。
+Anthropic は、現在同社の最大のライバルである OpenAI から離反した研究者と幹部のグループによって 2021 年に設立されました。 5月下旬、Anthropicは9,650億ドルの評価額で資金調達ラウンドを完了し、3月下旬に8,520億ドルと評価されたOpenAIを上回った。
+同社は最先端のクロード モデルで最もよく知られており、AI 開発者にとって競争の激しい市場である大企業へのテクノロジーの販売で成功を収めています。アンスロピックは5月、ランレート収益が470億ドルを超え、2025年全体で生み出した約100億ドルの収益を上回ったと発表した。
+関係筋２人によると、アンスロピック社の投資家の一部は、ランレートが予想されるため、同社の評価額が２兆ドル以上になる可能性があると予想している。しかし、この数字は独自の分析に基づいたものであり、Anthropic が発表した数字ではない、と情報筋は述べた。
+投資家が2兆ドルの予想を変動させていることを最初に報じたのはフィナンシャル・タイムズだった。
+OpenAI はまた、潜在的に大規模な IPO に向けて準備を進めています。同社は、アンスロピックが提出した直後に規制当局に目論見書を極秘に提出したが、CNBCが以前報じたように、6月下旬の時点でIPO前の会合を開催しておらず、上場に向けた公式スケジュールの概要も説明していなかった。
+イーロン・マスク氏のスペースXは今年初めに同氏のAIスタートアップxAIを買収し、6月にナスダック市場で記録的なデビューを果たした。同社株は最初の２カ月間の取引が不安定で、日中の高値から約３８％値を下げている。
+— CNBC の Kate Rooney がこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
+    publishedAt: "2026-08-13T18:44:12+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "cisco-shares-slide-9-despite-earnings-be-41b5d4e7",
+    title: "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
+    titleJa: "シスコ株は利益を上回り、予想を上回るガイダンスにもかかわらず9％下落",
+    summaryJa: "シスコの株価は木曜日、ネットワーキング機器ベンダーの予想を上回る収益報告と強力なガイダンスがウォール街に印象を与えることができなかったため、9％下落した。ＬＳＥＧによると、同社は今四半期の売上高が１８０億─１８２億ドルになる見通しで、平均予想の１６８億ドルを上回るとの見通しを示した。会計年度第 4 四半期の収益は 18% 増加して 17 ドルとなりました。アナリストは168億ドルを見込んでいたが、30億ドルだった。",
+    bodyOriginal: `Cisco shares dropped 9% on Thursday, as the networking equipment vendor's better-than-expected earnings report and strong guidance failed to impress Wall Street.
+The company said revenue in the current quarter will be between $18 billion and $18.2 billion, topping the $16.8 billion average estimate, according to LSEG. Revenue in the fiscal fourth quarter increased 18% to $17. 3 billion, while analysts were looking for $16.8 billion.
+Analysts at Piper Sandler wrote, in a note after the report, that Cisco showed good numbers for the quarter, but their guidance "looks conservative given the current demand environment." Some investors "may start to nitpick that we're seeing peak growth," wrote the analysts, who recommend holding the stock.
+Heading into earnings, Cisco shares were up more than 60% for the year, as the company finally started to show that it was benefitting from the artificial intelligence boom. Even though the forecast for this year is solid, with Cisco projecting revenue growth of about 15%, analysts see sales growth dipping next fiscal year back into the single digits.
+Still, Cisco CEO Chuck Robbins focused on the across-the-board beat.
+"We had a record year, we had a record quarter," Robbins told CNBC's Jim Cramer on Thursday. After issuing guidance that was better than analysts expected, they said, "Why are you being so conservative," Robbins added.
+"We're starting a new fiscal year. We're operating in incredible markets," Robbins said. "But it's also a time that we're going to start the year being a little bit prudent."
+Analysts at KeyBanc Capital Markets remain bullish on the stock, with the equivalent of a buy rating. In a note after the report, they wrote that Cisco will likely see market share gains with the hyperscalers increasing their capital expenditures and with so-called neoclouds and others ramping their spending.
+Hyperscalers, or the internet giants driving much of the AI spend, placed $4 billion of infrastructure orders in the quarter, bringing the total for the fiscal year to $9.3 billion, Cisco said. That group accounted for about $4 billion of revenue in the past fiscal year, with Cisco expecting that number to almost double in fiscal 2027 to $7.5 billion.
+The stock was trading at around $113 as of mid-day Thursday. Its record closing high was $130 in June.
+WATCH: Cisco beats on Q4 results`,
+    bodyJa: `シスコの株価は木曜日、ネットワーキング機器ベンダーの予想を上回る収益報告と強力なガイダンスがウォール街に印象を与えることができなかったため、9％下落した。
+ＬＳＥＧによると、同社は今四半期の売上高が１８０億─１８２億ドルになる見通しで、平均予想の１６８億ドルを上回るとの見通しを示した。会計年度第 4 四半期の収益は 18% 増加して 17 ドルとなりました。アナリストは168億ドルを見込んでいたが、30億ドルだった。
+パイパー・サンドラーのアナリストらは、レポート後のメモで、シスコは同四半期に良好な数字を示したが、同社のガイダンスは「現在の需要環境を考慮すると保守的に見える」と述べた。アナリストらは、一部の投資家は「成長のピークに達しているとうるさく言い始めるかもしれない」と述べ、株式の保有を推奨している。
+決算に向けて、同社が人工知能ブームの恩恵を受けていることをようやく示し始めたため、シスコの株価は年間で60％以上上昇した。今年の予測は堅調であり、シスコは約 15% の売上成長を予測していますが、アナリストは来会計年度の売上成長が 1 桁に戻ると見ています。
+それでも、Cisco CEO のチャック・ロビンス氏は、全体的なビートに焦点を当てました。
+「記録的な年、記録的な四半期を過ごした」とロビンス氏は木曜日、CNBCのジム・クレイマーに語った。アナリストの予想よりも良いガイダンスを発表した後、彼らは「なぜそんなに保守的なのか」とロビンズ氏は付け加えた。
+ロビンズ氏は「われわれは新会計年度をスタートする。われわれは信じられないほどの市場で事業を展開している」と語った。 「しかし、今年は少し慎重にスタートする時期でもあります。」
+キーバンク・キャピタル・マーケッツのアナリストらは依然として同株に対して強気の見方を示しており、買いに相当する評価となっている。レポート後のメモの中で、彼らは、ハイパースケーラーが設備投資を増やし、いわゆるネオクラウドなどの投資が増加することで、シスコは市場シェアを獲得する可能性が高いと書いている。
+シスコによると、ハイパースケーラー、つまりAI支出の多くを推進しているインターネット大手は、同四半期に40億ドルのインフラストラクチャを発注し、会計年度の総額は93億ドルになったとシスコは述べた。同グループは前会計年度の収益のうち約40億ドルを占めており、シスコはその数字が2027年度にはほぼ倍増の75億ドルになると予想している。
+木曜日正午の時点で、株価は約113ドルで取引されていた。終値の最高値は6月の130ドルだった。
+注目: シスコが第 4 四半期の結果で勝利`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
+    publishedAt: "2026-08-13T18:17:37+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "why-september-is-the-worst-month-of-the-c7ab35a2",
+    title: "Why September is the worst month of the year for the stock market",
+    titleJa: "なぜ9月が株式市場にとって一年で最悪の月なのか",
+    summaryJa: "パンプキンスパイスラテのメニューへの導入は、夏の終わりが近づいていることを意味し、ポジティブな雰囲気をもたらします",
+    bodyOriginal: `The introduction of pumpkin-spice lattes to menus means the end of summer is approaching, along with positive vibes`,
+    bodyJa: `パンプキンスパイスラテのメニューへの導入は、夏の終わりが近づいていることを意味し、ポジティブな雰囲気をもたらします`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories",
+    publishedAt: "2026-08-13T17:06:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-88456022",
+    readTime: 2,
+  },
+  {
+    id: "sandisk-s-stock-is-flying-higher-here-ar-4f44e364",
+    title: "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+    titleJa: "サンディスクの株価は急騰している。ウォール街を興奮させている新たな標的がここにある。",
+    summaryJa: "メモリーチップ会社はちょうど2010年末までの収益成長予測を発表しており、サンディスクは今後も高い収益性を維持すると予想している。",
+    bodyOriginal: `The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.`,
+    bodyJa: `メモリーチップ会社はちょうど2010年末までの収益成長予測を発表しており、サンディスクは今後も高い収益性を維持すると予想している。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+    publishedAt: "2026-08-13T16:58:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-75636714",
+    readTime: 2,
+  },
+  {
+    id: "these-nontech-stocks-can-ride-the-ai-bui-4f9fba02",
+    title: "These nontech stocks can ride the AI build-out for years",
+    titleJa: "これらの非ハイテク株はAIの発展に何年も乗り続けることができる",
+    summaryJa: "データセンターと AI インフラストラクチャへの巨額の支出は、ハード資産、陳腐化の少なさなど、「HALO」企業に利益をもたらす可能性があります。",
+    bodyOriginal: `Massive spending on data centers and AI infrastructure can benefit “HALO” companies: hard assets, low obsolescence.`,
+    bodyJa: `データセンターと AI インフラストラクチャへの巨額の支出は、ハード資産、陳腐化の少なさなど、「HALO」企業に利益をもたらす可能性があります。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
+    publishedAt: "2026-08-13T15:48:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-44242364",
+    readTime: 2,
+  },
+  {
+    id: "big-short-investor-steve-eisman-sees-an-0b889511",
+    title: "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+    titleJa: "「ビッグ・ショート」投資家スティーブ・アイスマン氏、AIブームのアキレス腱を見ている",
+    summaryJa: "スティーブ・アイスマン氏は、人工知能ブームはOpenAIとAnthropicというたった2社の運命にますます依存するようになっていると警告している。世界金融危機に先立って住宅市場に賭けたことで最もよく知られる同投資家は、AI新興企業2社がマイクロソフト、アマゾン、アルファベット傘下のグーグル、オラクルのAI関連収益のおよそ70％、そしてクラウド収益の25％から35％を占めていると述べた。",
+    bodyOriginal: `Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
+The investor, best known for his bet against the housing market ahead of the global financial crisis, said the two AI startups account for roughly 70% of AI-related revenue at Microsoft, Amazon, Alphabet's Google and Oracle — and as much as 25% to 35% of their cloud revenue.
+"The futures of these massive companies, in a sense, are a bet that OpenAI, Anthropic are going to succeed," Eisman said late Tuesday on CNBC's "Fast Money."
+"The Real Eisman Playbook" podcast host and former Neuberger Berman senior portfolio manager believes that the biggest revenue threat could come from China, as Chinese open-source AI models are significantly cheaper and appear to be gaining market share.
+"The Achilles' heel of this whole story ... is if something bad happens to Anthropic and OpenAI ... the Chinese open-end models, open-weight models are much cheaper. And if they start really taking a lot of market share and it sounds like, from what I'm hearing, that they're starting to, you could have a big price war. And then we have a problem," he said
+Eisman's warning adds another prominent voice to a growing debate over whether the extraordinary spending behind the AI boom can generate sufficient returns.
+Michael Burry, another investor whose wager against the housing bubble was chronicled in "The Big Short," has taken an even more bearish view. Burry has questioned whether much of current and future AI demand ultimately comes from end customers, arguing instead that a significant portion is financed through what he has described as circular arrangements.
+Burry is putting his money where his mouth is, placing bearish bets against some of the biggest beneficiaries of the AI boom, including Nvidia, and others that are positioned against the broader semiconductor sector.`,
+    bodyJa: `スティーブ・アイスマン氏は、人工知能ブームはOpenAIとAnthropicというたった2社の運命にますます依存するようになっていると警告している。
+世界金融危機に先立って住宅市場に賭けたことで最もよく知られる同投資家は、AI新興企業2社がマイクロソフト、アマゾン、アルファベット傘下のグーグル、オラクルのAI関連収益のおよそ70％、そしてクラウド収益の25％から35％を占めていると述べた。
+「これら大企業の将来は、ある意味、OpenAIとAnthropicが成功するかどうかの賭けだ」とアイスマン氏は火曜日遅く、CNBCの「ファストマネー」で語った。
+ポッドキャスト「ザ・リアル・アイスマン・プレイブック」の司会者で元ニューバーガー・バーマンのシニア・ポートフォリオ・マネージャーである同氏は、中国のオープンソースAIモデルの方が大幅に安価で市場シェアを獲得しているように見えるため、収益の最大の脅威は中国から来る可能性があると考えている。
+「この話全体のアキレス腱は…AnthropicとOpenAIに何か悪いことが起こった場合…中国のオープンエンドモデル、オープンウェイトモデルの方がはるかに安い。そしてもし彼らが実際に多くの市場シェアを奪い始め、私の聞いた話によるとそうなり始めているように思えたら、大規模な価格競争が起こる可能性がある。そして、我々には問題がある」と同氏は語った。
+アイスマン氏の警告は、AIブームの背後にある異常な支出が十分な利益を生み出すことができるかどうかをめぐる議論の高まりに、新たな注目すべき声を加えている。
+住宅バブルに対する賭けが『ザ・ビッグ・ショート』で記録された別の投資家マイケル・バリー氏は、さらに弱気な見方をしている。 Burry氏は、現在および将来のAI需要の多くが最終的に最終顧客から来るのかどうか疑問を呈し、その代わりにかなりの部分が循環型取り決めと表現したものを通じて資金提供されていると主張した。
+バーリー氏は、AIブームの最大の受益者であるエヌビディアや、より広範な半導体セクターに敵対する立場にある他の企業に対して弱気の賭けをしており、口では言い分を述べている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+    publishedAt: "2026-08-13T15:16:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "rich-americans-are-propping-up-the-trave-b3ba67dc",
+    title: "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
+    titleJa: "航空運賃が昨年より25％高騰し、裕福なアメリカ人が旅行経済を下支えしている",
+    summaryJa: "航空券の価格は過去1年で高騰したが、この夏の旅行シーズンでも消費者の需要はまだ衰えていない。",
+    bodyOriginal: `The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.`,
+    bodyJa: `航空券の価格は過去1年で高騰したが、この夏の旅行シーズンでも消費者の需要はまだ衰えていない。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+    publishedAt: "2026-08-13T15:08:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.mktw.net/im-06649723",
+    readTime: 2,
+  },
+  {
     id: "harvey-nichols-bought-by-sports-direct-o-e1d6cbad",
     title: "Harvey Nichols bought by Sports Direct owner",
     titleJa: "ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される",
@@ -1516,332 +1698,6 @@ CNBCはこの訴訟についてホワイトハウスにコメントを求めた�
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "coreweave-surges-20-in-premarket-after-a-9489e0a5",
-    title: "CoreWeave surges 20% in premarket after a 'cleaner quarter.' Here's what's happening",
-    titleJa: "CoreWeaveは「きれいな四半期」を経て、プレマーケットで20％急騰した。ここで何が起こっているのか",
-    summaryJa: "人工知能ネオクラウド CoreWeave は、AI 計算能力に対するハイパースケーラーからの需要の急増により、第 2 四半期の収益が 2 倍になったと発表した後、水曜日の市場前取引で株価が 20% 急騰しました。AIの実行と構築に必要な高性能コンピューティング能力をレンタルしている同社は、火曜日の鐘の後に、第2四半期の収益が26億ドルとなり、2025年第2四半期の12億ドルから112％増加したと報告した。同社は、第3四半期の収益を34億ドルから36億ドルの間と予想している。",
-    bodyOriginal: `Artificial intelligence neocloud CoreWeave saw shares pop 20% in premarket trading on Wednesday after reporting that its second-quarter revenue doubled, driven by surging demand from hyperscalers for AI compute capacity.
-The company, which rents out high-powered computing capacity needed to run and build AI, reported after the bell Tuesday that its second-quarter revenue came in at $2.6 billion, up 112% from $1.2 billion in the second quarter of 2025. It's guiding for third-quarter revenue of between $3.4 billion and $3.6 billion.
-But the company is still not profitable. Operating expenses for the quarter also more than doubled year-on-year and marginally exceeded revenue, per the results. CoreWeave was last seen up 19.9% in premarket trading. At Tuesday's close, it was up 26% since the start of the year.
-Its revenue backlog for the quarter stands at $104 billion as of June 30, which doesn't include $25 billion in new customer commitments for the third quarter.
-"CoreWeave reached an important inflection point this quarter as our scale began to translate into expanding operating leverage," CoreWeave's CEO Michael Intrator said in the release. "Customer demand is accelerating, as enterprise adoption broadens and we continue to deepen our technology platform."
-CoreWeave has taken on significant debt as it races to build AI infrastructure.
-Operating expenses rose to $2.6 billion from $1.2 billion a year earlier. That left CoreWeave with an operating loss of $49 million, compared with operating income of $19 million a year earlier.
-For the full year, the company forecasts revenue of $12.4 billion to $13.2 billion and adjusted operating income of $960 million to $1.15 billion.
-Some of its second-quarter highlights include winning customers such as Bentley Systems, Grammarly, Isomorphic Labs, and Sunday Robotics.
-It also deepened major commercial partnerships with Jane Street, committing $1 billion in strategic investments, while Meta said it would spend an additional $21 billion with CoreWeave during the quarter.
-A 'cleaner quarter' for CoreWeave
-Citi analysts said in a note Wednesday that CoreWeave "delivered a confident message" in the second quarter, demonstrating that AI demand was robust, it had stronger pricing power, saw growing demand for its software and tokens business, and posted better-than-expected margins.
-They added it was "one of the cleaner quarters" for CoreWeave since it went public last year. "We think shares should move meaningfully higher on increased investor confidence in the execution and improving profitability," the analysts continued.
-They pointed to upward revisions to profitability guidance and positive updates on execution and customer and revenue diversification.
-The analysts said those developments were positive signs for demand across the hyperscaler and neo-cloud space.
-Neocloud boom
-Neoclouds — providers specializing in GPU infrastructure — like CoreWeave have seen big gains as a result of the AI boom.
-Amsterdam-headquartered, Nasdaq-listed Nebius is 17% up in premarket trading after announcing a strong commercial quarter on Wednesday. Revenue grew 514% to $575 million the the total value of contracts won quadrupled, the company said. The stock has risen more than 150% in the past 12 months.
-U.K.-based Nscale, which is targeting an IPO this year, has drawn large sums in private capital, raising billions of dollars in equity, debt and project financing in 2026.
-AI stocks were also buoyed by Taiwan's Foxconn, also known as Hon Hai — the world's largest contract electronics manufacturer which assembles Apple's iPhone and makes servers that hold chips in data centers — reporting a better-than-expected increase in profit on Wednesday.
-Supermicro, which makes data center hardware, is also up around 9% in premarket trading, after it reported more than $60 billion in new orders over the past year in its fourth-quarter earnings.`,
-    bodyJa: `人工知能ネオクラウド CoreWeave は、AI 計算能力に対するハイパースケーラーからの需要の急増により、第 2 四半期の収益が 2 倍になったと発表した後、水曜日の市場前取引で株価が 20% 急騰しました。
-AIの実行と構築に必要な高性能コンピューティング能力をレンタルしている同社は、火曜日の鐘の後に、第2四半期の収益が26億ドルとなり、2025年第2四半期の12億ドルから112％増加したと報告した。同社は、第3四半期の収益を34億ドルから36億ドルの間と予想している。
-しかし、同社は依然として利益を上げていません。結果によれば、同四半期の営業費用も前年同期比で2倍以上に増加し、収益をわずかに上回った。コアウィーブは市場前取引で最後に１９．９％上昇した。火曜日終値時点では年初から２６％上昇していた。
-同四半期の未収収益は6月30日時点で1,040億ドルだが、これには第3四半期の新規顧客契約の250億ドルは含まれていない。
-CoreWeaveのCEO、Michael Intrator氏はリリースの中で、「当社の規模が営業レバレッジの拡大につながり始めたため、CoreWeaveは今四半期に重要な転換点に達した」と述べた。 「企業での採用が拡大するにつれて、顧客の需要は加速しており、当社はテクノロジー プラットフォームを深化させ続けています。」
-CoreWeave は AI インフラストラクチャの構築を急ぐ中で、多額の負債を抱えています。
-営業費用は前年同期の12億ドルから26億ドルに増加した。これにより、CoreWeave の営業損失は 4,900 万ドルとなりました（前年同期の営業利益は 1,900 万ドルでした）。
-通期については、売上高が124億ドルから132億ドル、調整後営業利益が9億6000万ドルから11億5000万ドルになると予想している。
-第 2 四半期のハイライトには、Bentley Systems、Grammarly、Isomorphic Labs、Sunday Robotics などの獲得顧客が含まれます。
-また、ジェーン・ストリートとの大規模な商業提携を深め、10億ドルの戦略的投資を約束する一方、メタは同四半期中にコアウィーブにさらに210億ドルを投じると発表した。
-CoreWeave の「よりクリーンな四半期」
-シティのアナリストらは水曜のメモで、コアウィーブが第2四半期に「自信を持ったメッセージを伝えた」と述べ、AI需要が堅調で価格決定力が強く、ソフトウェア・トークン事業への需要が伸び、予想を上回る利益を記録したことを示したと述べた。
-昨年上場して以来、ここはCoreWeaveにとって「最もクリーンな地区の1つ」になったと彼らは付け加えた。 「執行と収益性の改善に対する投資家の信頼感が高まり、株価は大幅に上昇すると考えている」とアナリストらは続けた。
-彼らは、収益性ガイダンスの上方修正と、実行と顧客と収益の多様化に関する前向きな最新情報を指摘した。
-アナリストらは、こうした動向はハイパースケーラーとネオクラウド分野全体の需要にとって明るい兆しだと述べた。
-ネオクラウドブーム
-CoreWeave のような GPU インフラストラクチャに特化したプロバイダーである Neoclouds は、AI ブームの結果として大きな利益を上げています。
-アムステルダムに本社を置き、ナスダック上場のネビウスは、水曜日に好調な商業四半期を発表した後、市場前取引で17％上昇した。同社によれば、売上高は514%増加して5億7,500万ドルとなり、獲得した契約総額は4倍になったという。株価は過去12カ月で150％以上上昇した。
-英国に本拠を置くNscaleは今年のIPOを目指しており、多額の民間資本を集め、2026年には株式、負債、プロジェクトファイナンスで数十億ドルを調達した。
-AI株はまた、ホンハイとしても知られる台湾のフォックスコン（アップルのiPhoneを組み立て、データセンターにチップを搭載するサーバーを製造する世界最大の受託電子機器メーカー）が水曜日に予想を上回る利益増加を報告したことによっても上昇した。
-データセンターハードウェアを製造するスーパーマイクロも、第4四半期決算で過去1年間の新規受注額が600億ドルを超えたと発表したことを受け、市場前取引で約9％上昇している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/coreweave-q2-earnings-ai-demand.html",
-    publishedAt: "2026-08-12T13:19:43+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "burnham-warned-of-iran-war-impact-on-uk-3fca1f27",
-    title: "Burnham warned of Iran war impact on UK growth next year",
-    titleJa: "バーナムはイラン戦争が来年の英国の成長に与える影響を警告",
-    summaryJa: "バーナムはイラン戦争が来年の英国の成長に与える影響を警告- 公開されました",
-    bodyOriginal: `Burnham warned of Iran war impact on UK growth next year
-- Published
-Andy Burnham has been briefed that the UK economy will barely grow next year if disruption in the Strait of Hormuz continues until the end of 2026.
-Treasury sources have confirmed that internal modelling presented to the new prime minister and chancellor suggests UK GDP growth could be as low as 0.3% in 2027, as first reported by Bloomberg.
-Government officials say they routinely plan for all possible scenarios.
-The UK economy saw a strong start to the year, but growth then faltered with the conflict in the Middle East affecting some businesses. The Iran war has pushed up oil and fuel prices, and also disrupted supply chains.
-On Thursday, official figures will show how much the economy grew between April and June of this year.
-Economists are expecting growth of 0.4% for the three months.
-Related topics
-- Published16 July`,
-    bodyJa: `バーナムはイラン戦争が来年の英国の成長に与える影響を警告
-- 公開されました
-アンディ・バーナム氏は、ホルムズ海峡の混乱が2026年末まで続いた場合、来年の英国経済はほとんど成長しないだろうと説明を受けた。
-ブルームバーグが最初に報じたように、新首相と財務大臣に提示された内部モデルでは、英国のGDP成長率が2027年に0.3％程度に低下する可能性があることが示唆されていることを財務省関係者が確認した。
-政府関係者らは、あらゆる想定シナリオを日常的に計画していると述べた。
-英国経済は今年好調なスタートを切ったものの、中東紛争が一部の企業に影響を及ぼしたことで成長が鈍化した。イラン戦争により石油と燃料の価格が高騰し、サプライチェーンも混乱した。
-木曜日には、今年４月から６月にかけて経済がどれだけ成長したかが公式統計で発表される。
-エコノミストは３カ月間の成長率が０．４％になると予想している。
-関連トピック
-- 7 月 16 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-12T13:14:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf17/live/d73f4760-964e-11f1-870d-5d08c49babb2.jpg",
-    readTime: 2,
-  },
-  {
-    id: "us-inflation-eases-as-food-costs-cool-17787f14",
-    title: "US inflation eases as food costs cool",
-    titleJa: "食料価格の下落により米国のインフレは緩和",
-    summaryJa: "食料価格の下落により米国のインフレは緩和- 公開されました",
-    bodyOriginal: `US inflation eases as food costs cool
-- Published
-US prices rose 3.4% in the year to July, slightly lower than the 3.5% in the year to June, new figures show.
-Month to month, inflation rose 0.1%, mainly due to an increase in housing costs, the Bureau of Labor Statistics said. Even small moves in rent can lift the overall headline figure as it makes up a large share of household spending.
-Food prices rose only slightly in July and at a slower rate than in June, while energy prices fell, offering some relief for consumers.
-Prices excluding food and energy rose 0.2% after staying flat in June, with medical care and airline tickets edging higher and car insurance continuing to fall.
-The new Federal Reserve chair, Kevin Warsh, has said the central bank's priority is to "keep inflation moving down" while avoiding unnecessary shocks to the economy.
-President Donald Trump has also said inflation is still too high for many families, pointing to rent and grocery bills as signs that costs of living remains a major concern.`,
-    bodyJa: `食料価格の下落により米国のインフレは緩和
-- 公開されました
-新しい統計によると、米国の物価上昇率は7月までの1年間に3.4％上昇し、6月までの1年間の3.5％よりもわずかに低かった。
-労働統計局によると、インフレ率は主に住宅費の上昇により前月比０．１％上昇した。家賃は家計支出の大きな割合を占めるため、家賃の小さな変動でも全体の見出しの数字を押し上げる可能性があります。
-7月の食料価格の上昇はわずかにとどまり、そのペースは6月よりも鈍かった一方、エネルギー価格は下落し、消費者にある程度の安堵感を与えた。
-食品とエネルギーを除く物価は、医療と航空券が若干上昇し、自動車保険が引き続き下落する中、６月は横ばいであった後、０．２％上昇した。
-FRBの新議長ケビン・ウォーシュ氏は、FRBの優先事項は経済への不必要なショックを回避しながら「インフレ率を低下させ続けること」だと述べた。
-ドナルド・トランプ大統領もまた、多くの家庭にとってインフレは依然として高すぎると述べ、生活費が依然として大きな懸念事項である兆候として家賃や食料品代を挙げている。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-12T13:13:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg",
-    readTime: 2,
-  },
-  {
-    id: "consumer-prices-rose-0-1-in-july-as-expe-843e93a1",
-    title: "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
-    titleJa: "7月の消費者物価は予想通り0.1%上昇し、年率は3.4%となった。",
-    summaryJa: "水曜日の主要なインフレ統計では、さまざまな商品やサービスの価格が緩やかになり、差し迫った利上げの緊急性が薄れた可能性があることが示された。米連邦準備制度理事会（FRB）のインフレ指標の一部である消費者物価指数は、労働統計局によると、7月中に季節調整済みで0.1％の上昇を示した。食品とエネルギーを除く、いわゆるコアCPIは0.2％上昇した。",
-    bodyOriginal: `A key inflation reading Wednesday showed prices moderating across a range of goods and services, possibly taking the urgency out of an imminent interest rate hike.
-The consumer price index, part of the Federal Reserve's inflation dashboard, showed a seasonally adjusted increase of 0.1% during July, according to the Bureau of Labor Statistics. Excluding food and energy, so-called core CPI rose 0.2%.
-On an annual basis, the inflation rates were 3.4% and 2.5%.
-All of the readings were line with the Dow Jones consensus forecasts.
-Though the levels held well above the Fed's 2% target, the tame monthly readings, coupled with similarly moderate levels in June, indicate that the energy-fueled burst earlier in the year is easing, though prices remain volatile and subject to constantly changing conditions in the Middle East.
-Stock market futures rose following the release while Treasury yields were negative across the board. Traders further cut the probability for a September rate hike, lowering the odds to 42%, according to the CME Group's FedWatch gauge of futures prices.
-Energy prices dropped another 1.5% for the month following a 5.7% decrease in June. Still, the sector saw an annual increase of 14.7% following sharp gains in prior months, including a 10.9% surge in March just after the attacks against Iran began.
-Both food and shelter saw 0.1% increases in July. Shelter costs had been stubborn and a key contributor toward keeping the inflation rate above 2%. Even with the modest gain, shelter accounted for about two-thirds of the headline increase, the BLS said.
-New vehicle prices rose 0.1% while used cars and trucks increased 0.4%. Medical care was up 0.4% and airline fares accelerated by 2.2%.
-The Federal Open Market Committee, the central bank's rate-setting body, does not meet again until September, so it will have an additional month of inflation data to digest before it has to make a decision.
-"In-line inflation will keep the 'no need to hike rates' narrative that took hold after last week's jobs report intact," said Ellen Zentner, chief economic strategist for Morgan Stanley Wealth Management. "There will be another round of inflation data before the September FOMC meeting, so the storyline could still change. But unless those numbers tell a much different story, the Fed will likely still be in a position to leave rates unchanged next month."
-Up until a week or so ago, markets had been pricing in a strong likelihood of a hike at next month's policy meeting. However, renewed concerns about the labor market following a net job loss in July combined with gyrations in the energy sector have taken the immediacy out of a hike.
-At the July meeting, the FOMC voted 9-3 to hold its key interest rate steady, with the dissenters all voicing support for a rate hike. Markets now are pricing a stronger chance for a move in October or December.
-This is breaking news. Please refresh for updates.`,
-    bodyJa: `水曜日の主要なインフレ統計では、さまざまな商品やサービスの価格が緩やかになり、差し迫った利上げの緊急性が薄れた可能性があることが示された。
-米連邦準備制度理事会（FRB）のインフレ指標の一部である消費者物価指数は、労働統計局によると、7月中に季節調整済みで0.1％の上昇を示した。食品とエネルギーを除く、いわゆるコアCPIは0.2％上昇した。
-年間ベースでは、インフレ率は 3.4% と 2.5% でした。
-すべての測定値はダウ・ジョーンズのコンセンサス予測と一致しました。
-この水準はFRBの目標である2%を大きく上回ったが、月次統計の落ち着いた水準は、6月の同様に穏やかな水準と合わせて、価格は依然不安定で中東情勢の絶えず変化に左右されるものの、年初のエネルギー燃料による爆発が緩和しつつあることを示している。
-この発表を受けて株式市場先物は上昇したが、米国債利回りは軒並みマイナスとなった。 ＣＭＥグループのフェドウォッチの先物価格ゲージによると、トレーダーらは９月利上げの確率をさらに引き下げ、確率は４２％に低下した。
-エネルギー価格は6月の5.7％下落に続き、同月ではさらに1.5％下落した。それでも、イランへの攻撃が始まった直後の3月には10.9％の急上昇を含め、前月の急激な上昇に続き、この部門は年間14.7％の増加を記録した。
-7月は食料と住居の両方が0.1％上昇した。避難所の費用は頑固で、インフレ率を２％以上に維持する主な要因となっていた。 BLSによれば、わずかな増加ではあったものの、総合増加額の約3分の2は避難所が占めたという。
-新車価格は０．１％上昇し、中古車とトラックは０．４％上昇した。医療費は０．４％上昇し、航空運賃は２．２％上昇した。
-中央銀行の金利決定機関である連邦公開市場委員会は9月まで再度会合を開かないため、決定を下すまでにさらに1か月インフレデータを消化する必要がある。
-モルガン・スタンレー・ウェルス・マネジメントの首席経済ストラテジスト、エレン・ゼントナー氏は「インラインインフレは、先週の雇用統計後に定着した『利上げの必要はない』という説をそのまま維持するだろう」と述べた。 「９月のＦＯＭＣ会合の前にインフレ統計が再度発表される予定で、ストーリーラインは依然として変わる可能性がある。しかし、これらの数字が大きく異なる物語を語らない限り、ＦＲＢは来月も金利を据え置く立場にあるだろう。」
-１週間ほど前まで、市場は来月の政策会合で利上げが行われる可能性を強く織り込んでいた。しかし、7月の純雇用喪失とエネルギーセクターの混乱を受けて労働市場に対する懸念が再燃し、利上げの即時性は薄れている。
-7月の会合ではFOMCは主要金利の据え置きを9対3で可決し、反対派は全員利上げ支持を表明した。市場は現在、10月か12月に行動を起こす可能性を織り込んでいる。
-これは速報です。更新を確認するには更新してください。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-    publishedAt: "2026-08-12T12:54:09+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "bakery-buys-comedian-s-former-sites-afte-3e222825",
-    title: "Bakery buys comedian's former sites after closure",
-    titleJa: "パン屋、閉店後のコメディアンの跡地を買収",
-    summaryJa: "パン屋、閉店後のコメディアンの跡地を買収- 公開されました",
-    bodyOriginal: `Bakery buys comedian's former sites after closure
-- Published
-Bakeries once run by an 89-year-old chain part-owned by comedian Romesh Ranganathan will reopen under a new name after the sites were sold.
-Coughlans Bakery, which had shops in Kent, Surrey, West Sussex and south London, announced it had ceased trading in June, blaming high business rates and increases in employers' national insurance contributions.
-Bakery business Janes Pantry, based in Gloucestershire, said it had acquired a number of Coughlans' shops from the liquidators, and would open 20 shops under its own brand.
-Former staff from Coughlans will be invited to reapply for roles at the reopened sites, it added.
-The bakery said: "Every shop that reopens means jobs restored, a unit back in use and footfall returning to the high street, which we believe serves everyone's interests: ours, theirs and the wider local economy's."
-Other sites within the Coughlan's estate are subject to further discussions, it added.
-Crawley-born Ranganathan, who is vegan, initially became involved with the business because of its range of plant-based products, but will not be involved in the new venture.
-He previously said he was "gutted" the chain had closed.
-Former managing director Sean Coughlan had said increases in employers' national insurance contributions and high business rates "absolutely smashes local business".
-Commons Leader Sir Alan Campbell subsequently defended the change, saying it was needed to "spend more and invest in our public services".
-Janes Pantry first opened in Gloucester in 1971, and currently runs 12 shops employing more than 100 staff, the bakery said.
-Follow BBC Sussex on Facebook, external, X, external, and Instagram, external and listen to BBC Radio Sussex on Sounds. Send your story ideas to southeasttoday@bbc.co.uk , external or WhatsApp us on 08081 002250.
-Related topics
-- Published6 February 2025
-- Published2 July
-- Published1 July`,
-    bodyJa: `パン屋、閉店後のコメディアンの跡地を買収
-- 公開されました
-コメディアンのロメッシュ・ランガナタン氏が一部所有する89年続くチェーン店がかつて経営していたベーカリーが、敷地売却後、新しい名前で再オープンする。
-ケント、サリー、ウエストサセックス、ロンドン南部に店舗を構えていたコフランズ・ベーカリーは、高い営業料金と雇用主の国民保険料の増加を理由に、6月に取引を停止したと発表した。
-グロスターシャー州に拠点を置くベーカリー事業のジェーンズ・パントリーは、清算人からコグランズの店舗の多くを買収し、自社ブランドで20店舗をオープンすると発表した。
-コフランズの元スタッフは、再開された施設での役割に再応募するよう招待される予定だ、と付け加えた。
-パン屋は、「すべての店が再開するということは、雇用が回復し、ユニットが再び使用され、人通りが大通りに戻ることを意味しており、それが私たち、彼ら、そしてより広範な地域経済のすべての人の利益にかなうと信じています。」と述べた。
-コフラン氏の財産内の他の場所についてはさらなる議論の対象となると付け加えた。
-クローリー生まれのランガナサンさんはビーガンで、当初は植物由来の製品が豊富にあることからこの事業に関わるようになったが、新たな事業には関与しない予定だ。
-同氏は以前、チェーンが閉まってしまったことに「ガッカリした」と語っていた。
-元マネージングディレクターのショーン・コーラン氏は、雇用主の国民保険料の増加と高い事業率が「地元のビジネスを完全に破壊している」と述べた。
-その後、コモンズ党首アラン・キャンベル卿はこの変更を擁護し、「公共サービスへの支出と投資を増やす」必要があると述べた。
-ジェーンズ・パントリーは1971年にグロスターで初めてオープンし、現在は12店舗を運営し、100人以上のスタッフを雇用しているという。
-Facebook (外部)、X (外部)、および Instagram (外部) で BBC サセックスをフォローし、BBC ラジオ サセックス オン サウンドを聞いてください。ストーリーのアイデアを、southeasttoday@bbc.co.uk、社外、または WhatsApp (08081 002250) に送信してください。
-関連トピック
-- 2025 年 2 月 6 日発行
-- 7 月 2 日発行
-- 7 月 1 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr491p70dv5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-12T12:46:31+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e3/live/987b6fc0-7517-11f1-adcf-e1eef1a1ef9c.jpg",
-    readTime: 3,
-  },
-  {
-    id: "mortgage-rates-finally-stop-rising-causi-b78b3733",
-    title: "Mortgage rates finally stop rising, causing demand to trickle back",
-    titleJa: "住宅ローン金利の上昇がついに止まり、需要が少しずつ戻ってくる",
-    summaryJa: "住宅ローン金利は５週間上昇したが、先週はごくわずかに低下した。市場に少しの需要を取り戻すには十分でした。住宅ローン銀行協会の季節調整済み指数によると、先週の住宅ローン申請総量は前週比3.6％増加した。",
-    bodyOriginal: `After five weeks of gains, mortgage rates fell very slightly last week. That was enough to bring a bit of demand back to the market.
-Total mortgage application volume rose 3.6% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased to 6.77% from 6.81%, with points increasing to 0.67 from 0.65, including the origination fee, for loans with a 20% down payment.
-"Mortgage rates declined slightly last week as oil prices dipped briefly on the hopes of a sustained resolution to the war in Iran," said Joel Kan, vice president and deputy chief economist at the MBA, in a release.
-Applications to refinance a home loan rose 5% for the week but were 22% lower than the same week one year ago. Rates were 10 basis points lower one year ago.
-"As refinance incentives have dwindled with rates at current levels, the average loan size for refinance applications was down to its lowest level since July 2025," said Kan.
-Applications for a mortgage to purchase a home rose 3% for the week and were 1% lower year over year. August is typically one of the slowest months for home sales, but this year appears to be even weaker than last year, due to stubbornly high home prices and less certainty in the overall economy. The supply of homes for sale has also not improved meaningfully.
-Mortgage rates moved slightly higher to start this week, according to a separate survey from Mortgage News Daily. Rates could move more decidedly, depending on the results of the monthly consumer price index, set for release Wednesday.
-"This is one of the most important pieces of monthly economic data as far as rates are concerned," wrote Matthew Graham, chief operating officer at Mortgage News Daily. "There's no way to know how it will impact rates ahead of time--only that a large deviation from expectations is likely to result in a larger-than-average move higher or lower."`,
-    bodyJa: `住宅ローン金利は５週間上昇したが、先週はごくわずかに低下した。市場に少しの需要を取り戻すには十分でした。
-住宅ローン銀行協会の季節調整済み指数によると、先週の住宅ローン申請総量は前週比3.6％増加した。
-適合ローン残高が83万2,750ドル以下の30年固定金利住宅ローンの平均契約金利は、頭金20％のローンの組成手数料を含め、ポイントが0.65から0.67に増加し、6.81％から6.77％に低下した。
-MBAの副学長兼副首席エコノミスト、ジョエル・カン氏はリリースで「先週、イラン戦争の持続的解決への期待から原油価格が一時的に下落したため、住宅ローン金利は若干低下した」と述べた。
-住宅ローンの借り換え申請件数は週間で５％増加したが、前年同週と比べて２２％減少した。 1年前は金利が10ベーシスポイント低かった。
-カン氏は「現在の金利水準では借り換えのインセンティブが低下しているため、借り換え申請の平均融資額は２０２５年７月以来の最低水準にまで低下した」と述べた。
-住宅購入のための住宅ローンの申請件数は週間で３％増加し、前年同月比では１％減少した。 8月は通常、住宅販売が最も低迷する月の1つだが、住宅価格の高止まりと経済全体の不確実性の低下により、今年は昨年よりもさらに低迷するようだ。販売用住宅の供給も大幅には改善されていない。
-モーゲージ・ニュース・デイリーの別の調査によると、今週初めの住宅ローン金利は若干上昇した。水曜日に発表される月次消費者物価指数の結果次第では、金利はより明確に動く可能性がある。
-モーゲージ・ニュース・デイリーの最高執行責任者マシュー・グラハム氏は、「金利に関する限り、これは毎月の経済データの中で最も重要なものの一つだ」と述べた。 「それが金利にどのような影響を与えるかを事前に知る方法はない。予想からの大きな乖離が平均よりも大きな上昇または下落をもたらす可能性が高いということだけだ」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/mortgage-rates-finally-stop-rising-causing-demand-to-trickle-back-.html",
-    publishedAt: "2026-08-12T12:13:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "new-york-city-council-announces-probe-in-a76c3824",
-    title: "New York City Council announces probe into prediction market platforms’ marketing strategies",
-    titleJa: "ニューヨーク市議会、予測市場プラットフォームのマーケティング戦略の調査を発表",
-    summaryJa: "ニューヨーク市議会は予測市場プラットフォームによるマーケティング慣行を調査していると、ジュリー・メニン市議会議長の事務所が水曜日に発表した。メニン氏は、Polymarket、Kalshi、Coinbase、Gemini Titanの4つの予測市場プラットフォームに宛てた書簡の中で、同評議会がイベント契約の取り交わしによる「虚偽、欺瞞的、非良心的、不快なマーケティング慣行」の疑惑を数ヶ月にわたって調査してきたと書いた。",
-    bodyOriginal: `The New York City Council is investigating marketing practices by prediction market platforms, the office of Council Speaker Julie Menin said on Wednesday.
-In letters to four prediction market platforms — Polymarket, Kalshi, Coinbase and Gemini Titan — Menin wrote that the council has been examining allegations of "false, deceptive, unconscionable, and objectionable marketing practices" by event contract exchanges for months.
-"Prediction markets aggressively entice consumers to bet and wager on sports, politics, culture, weather, and pretty much anything," Menin said in a statement. "I intend to harness the full power of the Council to protect New Yorkers from deceptive and predatory marketing practices by prediction market platforms."
-Menin the letters referenced an investigation by The Wall Street Journal that claimed that Polymarket conducted misleading marketing campaigns. The Journal said in a June article that Polymarket made it appear as though content creators it partnered with were winning on the platform when, in fact, they were not using their own money. The Journal's reporting led to an investigation by the Commodity Futures Trading Commission, the federal regulator for prediction markets.
-CNBC reported on Tuesday that Polymarket has taken steps to revamp its marketing strategy, including through updated and streamlined guidelines for staff at the company and the content creators it works with.
-Menin added in her letters to the platforms that the council is investigating whether such advertising strategies are used by other prediction market companies. A memo attached to these letters said the allegations against Polymarket show an urgent need to determine if legislation or other policy changes are necessary. Menin's office added that the council plans to hold a hearing on the matter.
-The memo, which also described the probe, made clear that the inquiry is not exploring whether or not event contract exchanges violate New York's state gambling laws.
-New York state is currently in active litigation against Kalshi, Coinbase and Gemini, alleging that the companies are running illegal gambling operations. The platforms assert that they are federally regulated financial exchanges and aren't subject to state betting laws. New York state is currently not in litigation against Polymarket.
-Kalshi, Polymarket and Gemini are all headquartered in New York City. Coinbase officially operates out of Texas, but announced plans earlier this year to expand its total workforce to more than 1,000 employees in New York.
-"We look forward to engaging with The New York City Council on this matter," a Polymarket spokesperson said in a statement.
-When contacted by CNBC for comment, a Coinbase spokesperson said, "Coinbase offers our customers access to federally regulated prediction markets overseen by the CFTC, and fully complies with applicable laws."'
-Kalshi spokesperson Dani Lever in a statement said that the company looks "forward to educating the New York City Council about our business model and practices."
-Gemini did not immediately respond to a request for comment.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `ニューヨーク市議会は予測市場プラットフォームによるマーケティング慣行を調査していると、ジュリー・メニン市議会議長の事務所が水曜日に発表した。
-メニン氏は、Polymarket、Kalshi、Coinbase、Gemini Titanの4つの予測市場プラットフォームに宛てた書簡の中で、同評議会がイベント契約の取り交わしによる「虚偽、欺瞞的、非良心的、不快なマーケティング慣行」の疑惑を数ヶ月にわたって調査してきたと書いた。
-メニン氏は声明で、「予測市場は消費者を積極的にスポーツ、政治、文化、天気などあらゆるものに賭けたり賭けたりするよう誘導している」と述べた。 「予測市場プラットフォームによる欺瞞的で略奪的なマーケティング行為からニューヨーカーを守るために、評議会の権限を最大限に活用するつもりです。」
-メニン氏は書簡の中で、ポリマーケットが誤解を招くマーケティングキャンペーンを行ったと主張するウォール・ストリート・ジャーナルの調査に言及した。同誌は6月の記事で、ポリマーケットは提携しているコンテンツ制作者らが実際には自分の資金を使っていないにもかかわらず、あたかもプラットフォーム上で勝っているかのように見せかけていたと述べた。同誌の報道を受けて、予測市場の連邦規制当局である商品先物取引委員会による調査が行われた。
-CNBCは火曜日、Polymarketが同社のスタッフや提携しているコンテンツ制作者向けの最新かつ合理的なガイドラインを通じたマーケティング戦略の刷新に向けた措置を講じたと報じた。
-メニン氏はプラットフォームに宛てた書簡の中で、そのような広告戦略が他の予測市場企業によって使用されていないかどうか評議会が調査していると付け加えた。これらの書簡に添付されたメモによると、ポリマーケットに対する申し立ては、法律やその他の政策変更が必要かどうかを判断する緊急の必要性を示しているという。メニン氏の事務所は、評議会がこの問題について公聴会を開催する予定であると付け加えた。
-このメモには捜査内容についても記載されており、捜査はイベント契約の交換がニューヨーク州賭博法に違反しているかどうかを調査するものではないことを明らかにした。
-ニューヨーク州は現在、カルシ、コインベース、ジェミニに対し、これらの企業が違法な賭博事業を運営しているとして活発な訴訟を起こしている。これらのプラットフォームは、連邦政府によって規制されている金融取引所であり、州の賭博法の対象ではないと主張しています。ニューヨーク州は現在、ポリマーケットに対して訴訟を起こしていない。
-カルシ、ポリマーケット、ジェミニはすべてニューヨーク市に本社を置いています。 Coinbaseは正式にはテキサス州で事業を展開しているが、今年初めにニューヨークの総従業員数を1,000人以上に拡大する計画を発表した。
-ポリマーケットの広報担当者は声明で、「この問題についてニューヨーク市議会と連携することを楽しみにしている」と述べた。
-CNBCからコメントを求められたところ、Coinbaseの広報担当者は「Coinbaseは顧客にCFTCが監督する連邦規制の予測市場へのアクセスを提供しており、適用される法律を完全に遵守している」と述べた。
-カルシの広報担当ダニ・レバー氏は声明で、同社は「当社のビジネスモデルと実践についてニューヨーク市議会に教育することを楽しみにしている」と述べた。
-ジェミニ氏はコメント要請に応じていない。
-開示: CNBC とカルシには、顧客の獲得と少数出資を含む商業関係があります。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/new-york-city-council-probes-prediction-markets-marketing-strategies.html",
-    publishedAt: "2026-08-12T12:08:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "meta-and-nvidia-plant-very-firm-flag-in-3e73fada",
-    title: "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
-    titleJa: "メタとエヌビディア、中国研究所主導の無差別級AIレースで「非常に堅固な旗」を立てる",
-    summaryJa: "オープンウェイトモデルの市場では中国がはるかに先を行っているため、Meta と Nvidia はどちらも米国をその地図に載せるためにできる限りのことを行っています。",
-    bodyOriginal: `Last month, American tech giants came together to urge policymakers not to place "premature restrictions" on open-weight AI models, even if they're from China. Now, two of those companies are making a concerted effort to compete by introducing their own open offerings.
-Meta and Nvidia both released artificial intelligence models this week that are available for developers to download for free via the open-source ecosystem, a contrast to the popular proprietary models from OpenAI and Anthropic.
-Open-source AI has become a contentious topic from Silicon Valley to Washington, D.C., with critics raising concerns about the potential national security risks of Chinese models, and of the AI training practice called distillation, which can be viewed as a form of intellectual property theft. Meanwhile, most of the industry's leading players contend that restricting use of the models would be to our own detriment and would place too much power in the hands of too few companies.
-"The age of AI can be one of prosperity," the consortium of tech companies wrote in an open letter on July 24. "With the right choices, open weight AI can expand opportunity, strengthen competition, extend American technological leadership, mitigate risk, and ensure that the benefits of this extraordinary technology are shared broadly across our economy."
-As for distillation, they call it "a widely used technique for model improvement, evaluation, and validation."
-Meta on Monday released Muse Glimmer as part of a strategy to release its most powerful AI models to the open-source community. CEO Mark Zuckerberg said the company would open the weights for its latest AI model, Muse Spark 1.2. Weights refer to the calculations and rules that determine how the AI works and behaves.
-A day later, Nvidia debuted Nemotron 3.5 Lightning. The model stems from the company's Nemotron 3 family of models released in December. The chipmaker said its models are "truly open source," because the company publishes the related "training datasets, techniques, and model weights" for developers to inspect.
-Both companies still have to prove there's an audience for their offerings in a market featuring popular models from Chinese AI labs like Moonshot AI and DeepSeek, as well as Alibaba's Qwen.
-Box CEO Aaron Levie, one of the signatories of last month's letter, is optimistic. He said Zuckerberg's plan for Muse Spark 1.2 is a "very big deal" because it's a powerful model that rivals top foundation models from Anthropic and OpenAI. The models this week from Meta and Nvidia are smaller and intended to run on laptops for tasks like powering on-device digital agents.
-"There's a very firm flag in the ground that America will have near-frontier open-source models," Levie said.
-Meta has tried this route in the past with Llama. That was Zuckerberg's initial entry into the foundation AI market, but the release of Llama 4 in April 2025 left developers unimpressed. Meta followed by spending billions of dollars to overhaul its AI unit, installing Scale AI CEO Alexandr Wang as the division's leader.
-Recently, Wang's group has been rolling out proprietary models under the Muse branding to try and develop new revenue streams.
-'Tremendous amount of potential'
-Levie said that companies put off by using Chinese open-weight AI models would be more inclined to experiment with Meta's upcoming variant.
-"You probably wouldn't be able to put a non-domestic open-source model in a major government agency, as an example, and you wouldn't be able to use it at very large banks most likely," Levie said. "If you think about the kind of use cases that now Muse can be used in, it actually opens up a tremendous amount of potential."
-Still, Meta in particular faces some headwinds as it pursues yet another open-source strategy. Umesh Sachdev, CEO of business AI startup Uniphore, said Meta burned bridges with third-party developers when it shifted from open weight to proprietary AI models.
-"I think it's going to take more than a 3,500 worded article from Zuck to convince developers," Sachdev said regarding Zuckerberg's accompanying manifesto this week. "The emotion of my developers at Uniphore, they almost feel betrayed."
-But Sachdev said he's rooting for domestic companies to succeed, "because more competition will drive down token cost, and will drive up innovation, and it's always good for consumers."
-It's a sentiment shared by Forrester analyst Charlie Dai. He called Meta's latest move "strategically important because it restores a major U.S. frontier AI vendor to the open ecosystem."
-"Developers and enterprises will likely welcome Meta's shift back toward open weights because it improves transparency, customization, deployment flexibility, and data sovereignty," Dai said. Now, the company must "prove it can cultivate a durable ecosystem beyond releasing competitive models," he said.
-WATCH: Meta's new AI model is a "positive development for the ecosystem."`,
-    bodyJa: `先月、米国のハイテク大手は結集し、たとえ中国製であっても、無差別AIモデルに「時期尚早な制限」を課さないよう政策立案者に要請した。現在、これらの企業のうち 2 社は、独自の公募を導入して競争するために共同で努力を行っています。
-Meta と Nvidia は今週、OpenAI や Anthropic の人気の独自モデルとは対照的に、開発者がオープンソース エコシステムを通じて無料でダウンロードできる人工知能モデルをリリースしました。
-オープンソース AI はシリコンバレーからワシントン D.C. に至るまで論争の的となっており、批評家は中国モデルの潜在的な国家安全保障上のリスクや、知的財産の窃盗の一形態とみなされる蒸留と呼ばれる AI トレーニング実践について懸念を表明しています。一方、業界の主要企業のほとんどは、モデルの使用を制限することは当社自身に不利益をもたらし、あまりにも少数の企業の手に過大な権限を与えることになると主張している。
-ハイテク企業のコンソーシアムは7月24日の公開書簡で、「AIの時代は繁栄の時代となり得る」と述べ、「適切な選択があれば、オープンウェイトAIは機会を拡大し、競争を強化し、米国の技術的リーダーシップを拡大し、リスクを軽減し、この並外れたテクノロジーの恩恵を経済全体で広く共有できるようにすることができる」と述べた。
-蒸留については、「モデルの改善、評価、検証に広く使用されている手法」と彼らは呼んでいます。
-Meta は月曜日、最も強力な AI モデルをオープンソース コミュニティにリリースする戦略の一環として、Muse Glimmer をリリースしました。 CEOのマーク・ザッカーバーグ氏は、同社が最新のAIモデル「Muse Spark 1.2」のウェイトを公開すると述べた。重みとは、AI の動作と動作を決定する計算とルールを指します。
-その翌日、Nvidia は Nemotron 3.5 Lightning をデビューさせました。このモデルは、12月にリリースされた同社のNemotron 3ファミリーのモデルに由来します。同社は開発者が検査できるように関連する「トレーニングデータセット、技術、モデルの重み」を公開しているため、自社のモデルは「真のオープンソース」であるとチップメーカーは述べた。
-両社は、Moonshot AIやDeepSeek、アリババのQwenなどの中国のAI研究所の人気モデルをフィーチャーした市場で、自社の製品に視聴者がいることを証明する必要がある。
-先月の書簡署名者の一人であるBox CEOのアーロン・リービー氏は楽観的だ。同氏は、ザッカーバーグ氏のMuse Spark 1.2計画は、AnthropicやOpenAIのトップ基盤モデルに匹敵する強力なモデルであるため「非常に大きなこと」だと述べた。 Meta と Nvidia の今週のモデルは小型で、デバイス上のデジタル エージェントの電源を入れるなどのタスクのためにラップトップ上で実行することを目的としています。
-「アメリカにはフロンティアに近いオープンソースモデルが存在するだろうという確固たる旗が立っている」とリービー氏は語った。
-メタは過去にラマでこのルートを試したことがある。これがザッカーバーグ氏の基礎 AI 市場への最初の参入だったが、2025 年 4 月の Llama 4 のリリースには開発者は感銘を受けなかった。 Meta はその後、AI 部門の徹底的な見直しに数十億ドルを費やし、Scale AI の CEO である Alexandr Wang を部門のリーダーに据えました。
-最近、ワン氏のグループは、新たな収益源の開発を目指して、ミューズ ブランドの下で独自のモデルを展開しています。
-「ものすごいポテンシャル」
-レビー氏は、中国のオープンウェイトAIモデルの使用を躊躇する企業は、メタの今後の亜種を実験する傾向が強いだろうと述べた。
-「例として、国内以外のオープンソース モデルを主要な政府機関に導入することはおそらく不可能でしょう。また、非常に大きな銀行でもそれを使用することはおそらく不可能でしょう」とリービー氏は述べた。 「Muse がどのようなユースケースで使用できるかを考えてみると、実際には膨大な可能性が開かれています。」
-それでも、特にメタ社は、さらに別のオープンソース戦略を追求しているため、逆風に直面している。ビジネス AI スタートアップ Uniphore の CEO、Umesh Sachdev 氏は、Meta がオープンウェイトから独自の AI モデルに移行した際に、サードパーティの開発者との橋渡しをしたと述べた。
-ザッカーバーグ氏が今週発表したマニフェストについて、ザッカーバーグ氏は「開発者を説得するには、ザック氏の3,500語以上の記事が必要になると思う」と述べた。 「Uniphore の開発者たちの感情は、ほとんど裏切られたように感じています。」
-しかしサクデフ氏は、「競争が激化すればトークンコストが下がり、イノベーションが促進されるため、それは常に消費者にとって良いことだから」国内企業の成功を応援していると述べた。
-これは、フォレスター社のアナリスト、チャーリー・ダイ氏も同様の意見だ。同氏は、Metaの最新の動きについて「米国の大手フロンティアAIベンダーをオープンエコシステムに戻すため、戦略的に重要だ」と述べた。
-「開発者や企業は、Meta が透明性、カスタマイズ性、展開の柔軟性、データ主権を向上させるため、Meta のオープン ウェイトへの移行を歓迎するでしょう」と Dai 氏は述べています。今後、同社は「競争力のあるモデルをリリースするだけでなく、耐久性のあるエコシステムを育成できることを証明しなければならない」と同氏は述べた。
-注目: Meta の新しい AI モデルは「エコシステムにとって前向きな発展」です。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
-    publishedAt: "2026-08-12T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
   },
 ];
 
