@@ -15,6 +15,292 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "10-year-treasury-yield-is-little-changed-70e8b13c",
+    title: "10-year Treasury yield is little changed after weak retail sales data",
+    titleJa: "小売売上高統計が低迷しても10年米国債利回りはほとんど変化なし",
+    summaryJa: "最新の小売売上高が予想を下回り、米国がイラン港湾の海上封鎖が「無期限に」続く可能性があると述べたことを受けて、金曜日の米10年国債利回りはほとんど変化しなかった。米政府借入の主要指標である１０年債利回りは１ベーシスポイント未満上昇し４．６４５％となった。",
+    bodyOriginal: `The 10-year U.S. Treasury note yield was little changed on Friday after the latest retail sales figures missed expectations and the U.S. said its naval blockade of Iranian ports could continue "indefinitely."
+The 10-year yield — the key benchmark for U.S. government borrowing — rose less than 1 basis point to 4.645%.
+The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, fell more than 2 basis points to 4.117%. The longer-dated 30-year Treasury bond yield advanced more than 2 basis points to 5.232%.
+One basis point is equal to 0.01%, and yields and prices move in opposite directions.
+Retail sales surprisingly fell in July, dropping 0.6%. Economists polled by Dow Jones had called for a 0.1% rise.
+Yields were higher earlier Friday after U.S. Treasury Secretary Scott Bessent's comments in an interview with Newsmax, in which he warned of fresh measures aimed at the "economic isolation" of Iran which "have never been seen."
+Bessent's comments came after U.S. Defense Secretary Pete Hegseth told reporters U.S. forces could maintain an indefinite blockade of Iranian ports.
+The producer price index, which measures what wholesalers pay for raw goods and materials, was flat month over month in July. Economists polled by Dow Jones expected an increase of 0.2%.
+Thursday's print follows a tame reading on consumer inflation, with the consumer price index coming in line with economist expectations.
+"US inflation data this week has been contained and very welcome for Treasuries," ING strategists wrote in a note Friday. "It absolutely eases higher rates pressure. But that pressure is far from gone. Real yields are higher and will likely remain so."
+— CNBC's Hugh Leask also contributed to this report.`,
+    bodyJa: `最新の小売売上高が予想を下回り、米国がイラン港湾の海上封鎖が「無期限に」続く可能性があると述べたことを受けて、金曜日の米10年国債利回りはほとんど変化しなかった。
+米政府借入の主要指標である１０年債利回りは１ベーシスポイント未満上昇し４．６４５％となった。
+米連邦準備理事会（ＦＲＢ）の短期金利政策とより密接に連動する２年物国債利回りは２ベーシスポイント以上低下し４．１１７％となった。 30年長期国債利回りは2ベーシスポイント以上上昇し5.232％となった。
+1ベーシスポイントは0.01%に相当し、利回りと価格は逆方向に動きます。
+７月の小売売上高は驚くべきことに０．６％減と減少した。ダウ・ジョーンズがまとめたエコノミストらは０．１％の上昇を求めていた。
+ニュースマックスとのインタビューでスコット・ベッセント米財務長官が「これまでに見たことのない」イランの「経済的孤立」を狙った新たな措置を警告したとのコメントを受けて、金曜日初めの利回りは上昇した。
+ベッセント氏のコメントは、ピート・ヘグセス米国防長官が記者団に対し、米軍はイラン港湾の無期限封鎖を維持する可能性があると語った後に出た。
+卸売業者が原材料や原材料に対して支払う金額を示す生産者物価指数は、7月は前月比横ばいとなった。ダウ・ジョーンズがまとめたエコノミスト予想は０．２％上昇だった。
+木曜日の印刷物は、消費者物価指数がエコノミストの予想と一致するという、消費者インフレに関するおとなしい見方を反映している。
+ＩＮＧのストラテジストらは金曜日のメモで「今週の米インフレ統計は抑制されており、米国債にとっては非常に歓迎している」と述べた。 「これで金利上昇圧力は完全に緩和される。しかし、その圧力は決してなくなったわけではない。実質利回りはさらに上昇しており、今後もおそらく維持されるだろう。」
+— CNBCのヒュー・リースク氏もこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+    publishedAt: "2026-08-14T12:47:54+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "retail-sales-slump-cheaper-gas-and-amazo-13bd3b5d",
+    title: "Retail sales slump. Cheaper gas and Amazon Prime hangover are the chief culprits.",
+    titleJa: "小売売上高不振。安いガソリンとアマゾンプライムの二日酔いが主な原因だ。",
+    summaryJa: "7月の米国の小売店売上高は14カ月ぶりの大幅な減少を記録したが、それは経済の停滞が原因ではなかった。アメリカ人は燃料が安くなったことでガソリンスタンドでの支出が減り、アマゾンの夏のセールが大成功した後はオンラインでの買い物も減った。",
+    bodyOriginal: `Sales at U.S. retailers posted the largest decline in July in 14 months, but not because the economy sputtered. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza.`,
+    bodyJa: `7月の米国の小売店売上高は14カ月ぶりの大幅な減少を記録したが、それは経済の停滞が原因ではなかった。アメリカ人は燃料が安くなったことでガソリンスタンドでの支出が減り、アマゾンの夏のセールが大成功した後はオンラインでの買い物も減った。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories",
+    publishedAt: "2026-08-14T12:43:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-77673171",
+    readTime: 2,
+  },
+  {
+    id: "absolutely-unacceptable-japan-pm-takaic-6bec3b7e",
+    title: "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
+    titleJa: "「絶対に受け入れられない」：高市首相、係争中のクリル諸島へのプーチン大統領の訪問を非難",
+    summaryJa: "日本の高市早苗首相は、係争中のクリル諸島へのロシアのウラジーミル・プーチン大統領の初訪問を批判し、それらは「本来的に日本の領土」であると述べた。高市氏は木曜、Ｘへの投稿で、日本政府が「大統領が北方領土を訪問しないようロシア側に繰り返し要請した」と述べた。北方領土とは千島列島のことを指します。",
+    bodyOriginal: `Japan Prime Minister Sanae Takaichi has criticized Russian President Vladimir Putin's first-ever visit to the disputed Kuril Islands, saying they were "inherently Japanese territory."
+In a post on X, Takaichi said Thursday that Tokyo had "repeatedly requested the Russian side to ensure that the president does not visit the Northern Territories." The Northern Territories refers to the Kuril Islands.
+She added that Putin's visit was "absolutely unacceptable."
+The Kuril Islands sit between the southern tip of Russia's Kamchatka Peninsula and the northeastern corner of Japan's Hokkaido. The sparsely populated and volcanic archipelago separates the Sea of Okhotsk from the Pacific Ocean. The four southernmost islands of the chain were annexed by the Soviet Union when it launched an invasion of Japanese territory toward the end of World War II.
+During his trip, Putin visited the island of Iturup, where Russia operates a strategically important military base. Russia's president toured a fish processing complex, a hospital and a school, before holding a meeting with Valery Limarenko, the regional governor of Sakhalin.
+The visit was also criticized by Japanese Foreign Minister Toshimitsu Motegi, who posted on Facebook that "Japan strongly protests this visit."
+Japan renounced "all right, title and claim to the Kuril Islands" in the 1951 Treaty of San Francisco but did not recognize Soviet sovereignty over the territory.
+The dispute over the islands has prevented Tokyo and Moscow from signing a peace treaty since the end of the war, although a 1956 joint declaration ended the state of war between the two nations.
+Japan's defense white paper
+Analysts at the Institute for the Study of War, a Washington-based think tank, said that Putin's visit was likely part of the Kremlin's response to Japan's latest defense white paper and aims to undermine Takaichi's efforts to improve Japan's defense capabilities.
+Japan published its defense white paper earlier in the month, prompting outcry from Putin, as well as Russia's ally, North Korea. Russia's president criticized the white paper for identifying Moscow as one of Tokyo's critical threats.
+"Russia is continuing active military activities in the Northern Territories, which are inherent territories of Japan, under illegal occupation," the white paper said.`,
+    bodyJa: `日本の高市早苗首相は、係争中のクリル諸島へのロシアのウラジーミル・プーチン大統領の初訪問を批判し、それらは「本来的に日本の領土」であると述べた。
+高市氏は木曜、Ｘへの投稿で、日本政府が「大統領が北方領土を訪問しないようロシア側に繰り返し要請した」と述べた。北方領土とは千島列島のことを指します。
+さらに、プーチン大統領の訪問は「絶対に受け入れられない」と述べた。
+千島列島は、ロシアのカムチャツカ半島の南端と日本の北海道の北東の角の間に位置します。人口がまばらで火山列島がオホーツク海と太平洋を隔てています。この列島の最南端の 4 つの島は、第二次世界大戦末期にソ連が日本の領土への侵攻を開始した際に併合されました。
+プーチン大統領は旅行中、ロシアが戦略的に重要な軍事基地を運営しているイトゥルプ島を訪問した。ロシア大統領は、サハリン州知事のワレリー・リマレンコ氏と会談する前に、水産加工施設、病院、学校を視察した。
+この訪問については茂木敏充外相もフェイスブックに「日本は今回の訪問に強く抗議する」と投稿し批判した。
+日本は1951年のサンフランシスコ条約で「千島列島に対する権利、権原、請求権」を放棄したが、同領土に対するソ連の主権は認めなかった。
+1956年の共同宣言で両国間の戦争状態は終結したが、この島を巡る紛争により、東京とモスクワは戦後平和条約に署名することができなかった。
+日本の防衛白書
+ワシントンに本拠を置くシンクタンク、戦争研究研究所のアナリストらは、プーチン大統領の訪問は、日本の最新の国防白書に対するクレムリンの対応の一環である可能性が高く、日本の防衛力向上に向けた高市氏の努力を損なうことを目的としていると述べた。
+日本は今月初めに防衛白書を発表し、プーチン大統領やロシアの同盟国である北朝鮮の反発を招いた。ロシア大統領は、白書がモスクワを東京の重大な脅威の一つと特定していると批判した。
+白書は「ロシアは日本の固有の領土である北方領土で不法占領下、活発な軍事活動を続けている」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
+    publishedAt: "2026-08-14T12:28:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "anthropic-s-investor-talks-workday-s-sto-25ccfc78",
+    title: "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
+    titleJa: "Anthropic の投資家講演、Workday の株価急騰、Apple の新施設などを Morning Squawk で紹介",
+    summaryJa: "これは CNBC の Morning Squawk ニュースレターです。ここで購読すると、将来の版が受信箱で受信されます。ハッピーフライデー。レディットが次のS&P 500種への追加銘柄として正式に発表され、取引序盤でソーシャルメディア株の上昇を促した。",
+    bodyOriginal: `This is CNBC's Morning Squawk newsletter. Subscribe here to receive future editions in your inbox.
+Happy Friday. Reddit was announced officially as the next addition to the S&P 500, prompting a rally for the social media stock in early trading.
+Stock futures are little changed this morning. Wall Street is coming off a winning day.
+Here are five key things investors need to know to start the trading day:
+1. The tech trade
+Anthropic CFO Krishna Rao is leading early meetings with potential investors ahead of what could be a historic initial public offering. But the artificial intelligence startup's discussions have been high level and notably didn't include talks about specific financials or a valuation, sources told CNBC's David Faber.
+Here's what else we're following in AI:
+- Competitor OpenAI said yesterday that revenue chief Denise Dresser was departing less than a year after joining.
+- Databricks announced closing a $5 billion funding round at a $190 billion valuation yesterday to invest in enterprise AI.
+- "Big Short" investor Steve Eisman said the overall AI boom has become dependent on the success of OpenAI and Anthropic, creating an "Achilles' heel" for the story.
+- Tech stocks lead the market higher yesterday and helped propel the S&P 500 above 7,800 for the first time ever.
+- While the S&P 500 and Nasdaq Composite are on track to end another week up, the blue-chip Dow Jones Industrial Average is pacing for its fourth negative week of the last five.
+- Follow live markets updates here.
+2. Houston, we have an event
+Apple CEO Tim Cook opened a new manufacturing facility in Houston yesterday that will produce Mac Minis and offer free training and classes. Cook was joined by a cadre of government officials, most notably Secretary of Commerce Howard Lutnick.
+Cook said the iPhone maker had spent hundreds of millions of dollars on the space. Lutnick said that Apple could "lead the charge for advanced manufacturing coming to America."
+As CNBC's Kif Leswing and MacKenzie Sigalos note, the ribbon-cutting comes near the end of Cook's tenure as CEO. Yesterday's event could be a taste of what Cook's future might look like, as he's slated to continue corresponding with policymakers on behalf of the company.
+3. Takeover talk
+Silver Lake is reportedly in talks to buy Workday. Shares of the human resources software provider surged nearly 18% yesterday, marking their biggest one-day gain in 10 years.
+AS CNBC's Samantha Subin writes, Workday's stock has been under pressure amid concerns that AI could roil the California-based company's business model. Workday and Silver Lake did not respond to CNBC's request for comment.
+A day prior, Wendy's shares surged more than 14% following a report that Nelson Peltz's Trian Fund Management was putting together a takeover bid. Peltz's representatives did not respond to CNBC, while Wendy's said it would "thoroughly review any proposal" from the fund.
+4. Closing the loop
+A federal trade court upheld President Donald Trump's removal of the "de minimis" loophole yesterday. The three-judge panel said that Trump had the power to axe the exemption under the International Emergency Economic Powers Act.
+Under the loophole, goods valued at less than $800 had been imported into the U.S. tax free. Trump cheered the decision. Attorneys for the plaintiff did not respond to CNBC's request for comment.
+Meanwhile, Trump could also see his name back on the Kennedy Center. Its board of trustees voted to add his name back to the building's facade, despite a judge shooting down a prior attempt.
+5. Hot deal
+Brinker International CEO Kevin Hochman sees a key ingredient in Chili's recipe for success: it's $10.99 campaign. In the offer, consumers get an entrée, chips and salsa and a non-alcoholic drink.
+Hochman told CNBC's Jim Cramer yesterday that the deal has been a bedrock of its low-priced offerings, which have been key to the chain's rebound story. Hochman said consumers know they can get an "amazing value." The company is focused on getting more diners into locations as a way to increase sales rather than raising prices, he said.
+The Daily Dividend
+Here's some of stories we'd recommend making time for this weekend:
+- An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea
+- Why experts think Trump's push for an MMR vaccine split won't pan out
+- Saudi Arabia ramps up oil exports through Mediterranean pipeline to avoid Red Sea attacks
+- Trump says Karoline Leavitt resigning as White House press secretary
+- What capital gains tax cuts on home sales could mean for owners
+- Wisconsin, Michigan primaries expose limits of polls and prediction markets
+— CNBC's David Faber, Ashley Capoot, Samantha Subin, Yun Li, Sean Conlon, Kif Leswing, MacKenzie Sigalos, Amelia Lucas, Kevin Breuninger, Dan Mangan, Jim Cramer and Alexa LoMonaco contributed to this report.
+Fred Imbert edited this edition.`,
+    bodyJa: `これは CNBC の Morning Squawk ニュースレターです。ここで購読すると、将来の版が受信箱で受信されます。
+ハッピーフライデー。レディットが次のS&P 500種への追加銘柄として正式に発表され、取引序盤でソーシャルメディア株の上昇を促した。
+今朝の株式先物相場はほとんど変化していない。ウォール街は勝利の日を迎えつつある。
+投資家が取引日を始めるために知っておくべき5つの重要な点は次のとおりです。
+1. テクノロジー貿易
+Anthropic CFO のクリシュナ・ラオ氏は、歴史的な新規株式公開に先立って、潜在的な投資家との初期ミーティングを主導しています。しかし、人工知能スタートアップの議論はハイレベルなものであり、特に特定の財務や評価額に関する話は含まれていなかったと関係者がCNBCのデビッド・フェイバーに語った。
+私たちが AI で追求していることは他にも次のとおりです。
+- 競合するOpenAIは昨日、収益責任者のデニス・ドレッサー氏が入社から1年も経たずに退職したと発表した。
+- Databricks は昨日、エンタープライズ AI への投資として、評価額 1,900 億ドルで 50 億ドルの資金調達ラウンドを完了したと発表しました。
+- 「ビッグ・ショート」の投資家スティーブ・アイスマン氏は、AI ブーム全体が OpenAI と Anthropic の成功に依存するようになり、この物語にとって「アキレス腱」が生じていると述べた。
+- 昨日はハイテク株が市場の上昇を主導し、S&P 500 指数が史上初めて 7,800 を超える押し上げに貢献しました。
+- S&P 500とナスダック総合指数はもう一週間上昇して終了する勢いである一方、優良株のダウ工業株30種平均は過去5週中4週目の下落ペースとなっている。
+- ここでライブマーケットの最新情報をフォローしてください。
+2. ヒューストン、イベントがあります
+Apple CEOのティム・クック氏は昨日、ヒューストンにMac Miniを生産し、無料のトレーニングやクラスを提供する新しい製造施設を開設した。クック氏には政府高官の幹部、特にハワード・ラトニック商務長官が同行した。
+クック氏は、iPhoneメーカーがこのスペースに数億ドルを費やしたと語った。ラトニック氏は、アップルが「米国における先進的な製造業の先頭に立つことができる」と述べた。
+CNBCのキフ・レスウィング氏とマッケンジー・シガロス氏が指摘しているように、このテープカットはクック氏のCEOとしての任期が終わりに近づいたタイミングで行われた。クック氏は今後も会社を代表して政策立案者らと連絡を取り合う予定であるため、昨日のイベントはクック氏の将来がどのようなものになるかを予感させるものになるかもしれない。
+3. 買収話
+シルバーレイクはワークデイの買収交渉を行っていると報じられている。人事ソフトウェアプロバイダーの株価は昨日18%近く急騰し、1日としてはここ10年で最大の上昇となった。
+CNBCのサマンサ・スビン氏が書いているように、AIがカリフォルニアに本拠を置く同社のビジネスモデルを混乱させる可能性があるという懸念の中で、ワークデイの株価は圧迫されている。ワークデイとシルバーレイクはCNBCのコメント要請に応じなかった。
+前日、ネルソン・ペルツ氏率いるトライアン・ファンド・マネジメントが株式公開買い付けを計画しているとの報道を受け、ウェンディーズ株は１４％以上急騰した。ペルツ氏の代理人はCNBCに返答しなかったが、ウェンディーズは基金からの「あらゆる提案を徹底的に検討する」と述べた。
+4. ループを閉じる
+連邦貿易裁判所は昨日、ドナルド・トランプ大統領による「de minimis」の抜け穴の削除を支持した。 ３人の裁判官からなる委員会は、トランプ氏には国際緊急経済権限法に基づく免除を取り消す権限があると述べた。
+抜け穴を利用して、800ドル未満の商品が無税で米国に輸入されていた。トランプ大統領はこの決定を歓迎した。原告の弁護士はCNBCのコメント要請に応じなかった。
+一方、トランプ氏もケネディセンターに自分の名前を目にする可能性がある。裁判官が以前の試みを却下したにもかかわらず、理事会は建物のファサードに彼の名前を再び追加することを決議した。
+5. ホットディール
+ブリンカー・インターナショナル CEO ケビン・ホックマン氏は、チリの成功の秘訣の重要な要素は 10.99 ドルのキャンペーンであると考えています。このオファーでは、消費者はメインディッシュ、チップス、サルサ、ノンアルコールドリンクを手に入れることができます。
+ホックマン氏は昨日、CNBCのジム・クレイマーに対し、この取引は同社の低価格商品の基盤であり、同チェーンの回復ストーリーの鍵となっていると語った。ホックマン氏は、消費者は「驚くべき価値」が得られることを知っていると語った。同社は、価格を引き上げるのではなく、売上を増やす方法として、より多くの客を来店させることに重点を置いていると同氏は語った。
+毎日の配当
+今週末にぜひ時間を作って読んでいただきたい記事をいくつかご紹介します。
+- 韓国を引き継ぐSKハイニックスの7,200億ドル規模のAIを活用した増強の内部に迫る
+- MMRワクチン分割を求めるトランプ大統領の推進がうまくいかないと専門家が考える理由
+サウジアラビア、紅海の攻撃を避けるため地中海パイプラインを通じた石油輸出を拡大
+- トランプ大統領、キャロライン・レビット氏がホワイトハウス報道官を辞任すると発言
+- 住宅売却に対するキャピタルゲイン税の減税が所有者にとって何を意味するか
+- ウィスコンシン州とミシガン州の予備選で世論調査と予測市場の限界が明らかに
+— CNBC の David Faber、Ashley Capoot、Samantha Subin、Yun Li、Sean Conlon、Kif Leswing、MacKenzie Sigalos、Amelia Lucas、Kevin Breuninger、Dan Mangan、Jim Cramer、Alexa LoMonaco がこのレポートに貢献しました。
+フレッド・インバートがこの版を編集しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
+    publishedAt: "2026-08-14T12:17:42+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "data-breach-notices-have-already-blown-p-73ae5814",
+    title: "Data breach notices have already blown past last year’s total — and AI is playing a growing role",
+    titleJa: "データ侵害の通知はすでに昨年の合計を超えており、AI が果たす役割は増大しています",
+    summaryJa: "企業がサイバーセキュリティにより多くのリソースを投入しているにもかかわらず、消費者の個人データに関連するデータ侵害の報告数は、昨年の記録を上回るペースで増加しています。個人情報盗難の被害者を支援し、公的に報告されたデータ侵害を追跡する非営利団体である個人情報盗難リソース センターの新しいレポートによると、2026 年上半期には 4 億 7,100 万件を超える被害通知がデータ侵害に関連していました。この通知のうち半数以上の2億7,500万件を教育ツール「Canvas」で発生したサイバーインシデントが占めた。",
+    bodyOriginal: `Even as companies devote more resources to cybersecurity, the number of reported data breaches involving consumers' personal data is on pace to surpass last year's record.
+More than 471 million million victim notices were associated with data compromises in the first half of 2026, according to a new report from the Identity Theft Resource Center, a nonprofit that assists identity-theft victims and tracks publicly reported data breaches. A cyber incident that occurred at education tool Canvas accounted for more than half of those notices, at 275 million.
+The half-year tally compares with 297.5 million notices issued in all of 2025, the ITRC report shows. The number of incidents reached 1,803 in the first half of the year, up from 1,732 during the same period in 2025. If the second half of the year is as active, the final tally for 2026 will eclipse the 3,321 security incidents reported for all of last year.
+"We continue to see this ever-increasing number of data breaches," said James Lee, president of the ITRC. "That does not appear to be slowing down."
+AI involved in more breaches
+The increase in data breaches comes as artificial intelligence's ever-improving capabilities make it easier to exploit vulnerabilities in company systems. Between March 2025 and February 2026, one in four breaches was AI-enabled, up 56% from a year earlier, according to a new study from IBM.
+Cybersecurity ranks among the top three priorities for 93% of audit committees at public companies, according to a 2025 survey released by Deloitte's Center for Board Effectiveness and the Center for Audit Quality, a nonprofit focused on the integrity of financial reporting. Half of the survey's 237 respondents ranked cybersecurity as the leading priority.
+Most polled companies around the globe — 78% — indicated they would boost their cybersecurity budgets over the next 12 months, according to a survey of 3,887 business and technology executives from 72 countries and territories released by accounting firm PwC last October.
+More incidents involving malicious insiders
+Meanwhile, the ITRC report said 21 events in the first half of this year involved "malicious insiders," up from three events for all of 2025. A malicious insider is a person within an organization who uses their access or authority to steal data.
+"The raw number doesn't look very big, but when you look at the historical trend line, insiders haven't been big sources of data breaches," Lee said. "We've never seen more than three data breaches in a given year related to a malicious insider, and you get 21 in six months."
+Part of the increase is due to disgruntled laid-off employees who "were stealing information on their way out the door," Lee said.
+Additionally, the ITRC report notes that some organizations have been targeted by a scam the FBI has flagged in which North Korea places remote information technology workers in U.S. businesses using stolen identities, deepfake videos during interviews and AI-generated resumes. "This is arguably the most significant structural driver of malicious insider attacks," the report reads.
+Where you live determines if you find out [about a breach], and if you do find out, what you're told.James LeePresident of the Identity Theft Resource Center
+Lee said that malicious insider attacks probably occur more frequently than reported because only 24% of notices sent to affected consumers in the first half of 2026 included details of the data breach. In 2021, 93% of notices sent out included specifics of the incident.
+However, Lee said court cases may have led companies to reduce what they include in their notices to only what is required, which varies from state to state.
+"We don't have any uniformity," Lee said. "Where you live determines if you find out [about a breach], and if you do find out, what you're told."
+Consumers should consider the 'Fort Knox' of protection
+For consumers, the best way to protect your personal information from being used is to protect your credit, experts say.
+You can review your credit reports from the credit-reporting firms — Equifax, Experian and TransUnion — at AnnualCreditReport.com for free as often as once weekly, said John Ulzheimer, a credit expert and president of The Ulzheimer Group in Atlanta. Doing so does not affect your credit score.
+You also can sign up for free credit-monitoring services that alert you when something changes on your report that could be indicative of fraud, Ulzheimer said.
+Alternatively, you can put a fraud alert on your credit report, which "would compel lenders to contact you if they receive an app in your name to confirm it's authentic," he said.
+The most secure way to guard against someone getting a loan in your name is to freeze your credit at each of the credit firms, which means your credit report cannot be checked. This free precaution generally will prevent a bank from approving a new account or loan in your name.
+However, if you need to legitimately apply for a loan or credit account, you have to first lift your credit freeze temporarily.
+This can be an annoyance to do, Ulzheimer said.
+"But it's kind of the Fort Knox of credit protection. If you're meaningfully concerned about your information being out there, I always suggest a credit freeze," he said. "Then just remember to thaw it when you want to apply for credit."`,
+    bodyJa: `企業がサイバーセキュリティにより多くのリソースを投入しているにもかかわらず、消費者の個人データに関連するデータ侵害の報告数は、昨年の記録を上回るペースで増加しています。
+個人情報盗難の被害者を支援し、公的に報告されたデータ侵害を追跡する非営利団体である個人情報盗難リソース センターの新しいレポートによると、2026 年上半期には 4 億 7,100 万件を超える被害通知がデータ侵害に関連していました。この通知のうち半数以上の2億7,500万件を教育ツール「Canvas」で発生したサイバーインシデントが占めた。
+ITRC の報告書によると、この半年間の集計は、2025 年全体で発行された通知の数が 2 億 9,750 万件に相当します。インシデントの数は、今年上半期に 1,803 件に達し、2025 年の同時期の 1,732 件から増加しました。今年下半期も同様に活発であれば、2026 年の最終的な集計は、昨年全体で報告されたセキュリティ インシデント 3,321 件を上回ることになります。
+ITRC のジェームス・リー会長は、「私たちは、増え続けるデータ侵害の件数を引き続き目にしています」と述べています。 「その勢いは衰えていないようだ。」
+AI がさらなる侵害に関与
+データ侵害の増加は、人工知能の機能が向上し続けることで企業システムの脆弱性を悪用しやすくなったことで発生しています。 IBMの新しい調査によると、2025年3月から2026年2月までの間に、侵害の4件に1件はAIによるもので、前年比56%増加した。
+デロイトの取締役会有効性センターと財務報告の完全性を重視する非営利団体監査品質センターが発表した2025年の調査によると、上場企業の監査委員会の93％にとって、サイバーセキュリティは優先事項のトップ3に入っている。調査の回答者 237 人のうち半数は、サイバーセキュリティを最優先事項としてランク付けしました。
+会計事務所PwCが昨年10月に発表した、72の国と地域のビジネスおよびテクノロジー幹部3,887人を対象とした調査によると、世論調査を受けた世界中の企業のほとんど（78％）が、今後12か月間でサイバーセキュリティ予算を増額すると回答した。
+悪意のある内部関係者が関与する事件が増加
+一方、ITRCの報告書によると、今年上半期には「悪意のあるインサイダー」が関与したイベントが21件あり、2025年全体では3件だった。悪意のあるインサイダーとは、アクセス権や権限を利用してデータを盗む組織内の人物のことである。
+「生の数字はそれほど大きくないようだが、過去の傾向を見ると、内部関係者はデータ侵害の大きな発生源になっていない」とリー氏は語った。 「悪意のある内部関係者に関連したデータ侵害が年間で 3 件を超えたことはありません。6 か月で 21 件になります。」
+増加の一因は解雇されたことに不満を抱いた従業員が「外出途中に情報を盗んでいた」ことだとリー氏は語った。
+さらに、ITRCの報告書は、一部の組織がFBIがフラグを立てた詐欺のターゲットになっていると指摘しており、この詐欺では、北朝鮮が盗んだ個人情報、面接中のディープフェイク動画、AIで生成した履歴書を使って、遠隔地にあるIT従業員を米国企業に配置しているという。 「これはおそらく、悪意のあるインサイダー攻撃の最も重要な構造的要因である」と報告書は述べている。
+あなたがどこに住んでいるかによって、[侵害について] 知るかどうか、そしてもし知った場合に何を言われるかが決まります。James Lee 個人情報盗難リソース センター所長
+Lee氏は、2026年上半期に影響を受けた消費者に送信された通知のうち、データ侵害の詳細が含まれていたのはわずか24％だったため、悪意のあるインサイダー攻撃はおそらく報告されているよりも頻繁に発生していると述べた。 2021 年に送信された通知の 93% に事件の詳細が含まれていました。
+しかしリー氏は、訴訟の結果、企業は通知に記載する内容を必要なもののみに減らすようになった可能性があり、それは州ごとに異なると述べた。
+「我々には統一性がない」とリー氏は語った。 「どこに住んでいるかによって、（情報漏えいについて）知るかどうか、また知った場合に何を言われるかが決まります。」
+消費者は保護の「フォートノックス」を考慮する必要があります
+専門家らによると、消費者にとって、個人情報の使用を防ぐ最善の方法は、信用を守ることだという。
+アトランタの信用専門家でアルツハイマー・グループ社長のジョン・アルツハイマー氏によると、信用調査会社（Equifax、Experian、TransUnion）の信用報告書は、AnnualCreditReport.comで週に1回無料で確認できるという。そうすることはあなたの信用スコアには影響しません。
+また、不正行為を示す可能性のあるレポートに何か変化があった場合に警告を発する、無料の信用監視サービスに登録することもできる、とアルツハイマー氏は述べた。
+あるいは、信用報告書に詐欺の警告を載せることもでき、そうすれば「貸し手はあなたの名前のアプリを受け取った場合、それが本物であることを確認するためにあなたに連絡するよう強制されるだろう」と同氏は述べた。
+誰かがあなたの名前でローンを組むのを防ぐ最も安全な方法は、各クレジット会社であなたの信用を凍結することです。つまり、あなたの信用報告書を確認できなくなります。この無料の予防措置により、通常、銀行があなたの名前での新しい口座やローンを承認することができなくなります。
+ただし、ローンまたはクレジット口座を合法的に申請する必要がある場合は、まず信用凍結を一時的に解除する必要があります。
+これは面倒なことかもしれない、とウルツハイマー氏は言う。
+「しかし、これは信用保護のフォートノックスのようなものです。自分の情報が外部に流出することに重大な懸念がある場合、私は常に信用凍結を提案します」と彼は言いました。 「それでは、クレジットを申請するときに忘れずに解凍してください。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+    publishedAt: "2026-08-14T12:15:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "selena-gomez-sued-for-alleged-fraud-over-bcd2732d",
+    title: "Selena Gomez sued for alleged fraud over mental health company",
+    titleJa: "セレーナ・ゴメス、メンタルヘルス関連会社を巡る詐欺容疑で告訴",
+    summaryJa: "セレーナ・ゴメス、メンタルヘルス関連会社を巡る詐欺容疑で告訴- 公開されました",
+    bodyOriginal: `Selena Gomez sued for alleged fraud over mental health company
+- Published
+Hollywood actress and singer Selena Gomez is being sued by five investors who backed Wondermind Global, a mental health business she founded with her mother.
+Shareholders are claiming the pop star failed to fulfil promises that she would be "actively building" the brand, saying her "abject dereliction of her duties" has left the company in a "state of financial calamity".
+The lawsuit seeks to recover around $1.2m (£890,000) it claims was invested as well as costs and damages.
+The BBC has contacted Wondermind and Gomez's representatives for comment.
+Gomez, who rose to fame as a child actor before moving into pop music, set up the mental health platform five years ago with her mother Mandy Teefey and businesswoman Daniella Pierson. It came after Gomez publicly discussed her own mental health struggles, including with bipolar disorder.
+The 34-year-old is one of the most-followed women in the world on social media, with over 500 million followers, and an estimated net worth of nearly $1bn. She also founded cosmetics company Rare Beauty, in 2020, which is closely associated with her name and image.
+Wondermind aimed to make mental health-related content more accessible through a digital platform, recruiting investors to back the venture.
+But the lawsuit claims Wondermind's founders "falsely represented" their position by suggesting "a full slate" of ad deals, celebrity cover stories, an app and other initiatives were already underway and promising that Gomez would take an active role as its head of marketing.
+"Gomez purported to sign a contract obligating her to perform and then ignored it," the lawsuit claims.
+Gomez is currently listed as a co-founder on Wonderminds website, below her mother who is now in the chief executive role, following Pierson's departure from the company.
+The individuals behind the suit, based in New York and Florida, include Brent Saunders, chief executive of eye-health company Bausch + Lomb.
+The claimants' lawsuit alleges Wondermind failed to meet "even its most basic obligations, such as timely paying its employees and vendors".
+Promises including Wondermind's partnerships and app never materialised, according to the claim.
+"For three years, while the company quietly collapsed around them, not one of its founders, officers, or directors said a word to the investors whose money was funding the collapse," the complaint states.
+They said they were unaware of the company's difficulties until an investigative news story by the online magazine, The Cut, surfaced in September 2025.
+That report made allegations about Wondermind's finances and issues with its management, according to the lawsuit.
+The article showed that "Wondermind had no plan for its future - much less a plan for achieving a multi-billion dollar valuation," the lawsuit claims.`,
+    bodyJa: `セレーナ・ゴメス、メンタルヘルス関連会社を巡る詐欺容疑で告訴
+- 公開されました
+ハリウッド女優で歌手のセレーナ・ゴメスが、母親と一緒に設立したメンタルヘルス事業「ワンダーマインド・グローバル」を支援した投資家5人から訴訟を起こされている。
+株主らは、このポップスターがブランドを「積極的に構築する」という約束を果たせなかったと主張し、彼女の「職務怠慢のひどい怠慢」により会社が「財務上の惨状」に陥ったと主張している。
+この訴訟は、投資されたと主張する約120万ドル（89万ポンド）のほか、費用と損害賠償の回収を求めている。
+BBCはワンダーマインドとゴメスの代理人にコメントを求めた。
+子役として名声を博し、その後ポップミュージックの世界に進出したゴメスさんは、母親のマンディ・ティーフィーさんと実業家のダニエラ・ピアソンさんとともにメンタルヘルスプラットフォームを5年前に設立した。これは、ゴメスが双極性障害を含む自身の精神的健康上の悩みを公に語った後の出来事だった。
+34歳の彼女はソーシャルメディアで世界で最もフォローされている女性の1人で、フォロワー数は5億人を超え、推定純資産は10億ドル近くに達する。彼女はまた、2020年に化粧品会社Rare Beautyを設立したが、これは彼女の名前とイメージに密接に関係している。
+ワンダーマインドは、デジタル プラットフォームを通じてメンタルヘルス関連のコンテンツをよりアクセスしやすくすることを目指し、ベンチャーを支援する投資家を募集しました。
+しかし訴訟では、ワンダーマインドの創設者らは、広告契約、有名人のカバーストーリー、アプリ、その他の取り組みの「全容」がすでに進行中であることを示唆し、ゴメス氏がマーケティング責任者として積極的な役割を果たすと約束することで、自らの立場を「虚偽」表明したと主張している。
+訴状は「ゴメスは履行を義務付ける契約書に署名するつもりだったが、それを無視した」と主張している。
+ゴメス氏は現在、ワンダーマインドのウェブサイト上で、ピアソン氏の退任を受けて最高経営責任者の役割を担う母親の下に、共同創設者として記載されている。
+ニューヨークとフロリダを拠点とするこの訴訟の背後にいる人物には、目の健康関連会社ボシュロムの最高経営責任者ブレント・サンダース氏も含まれる。
+原告らの訴訟では、ワンダーマインドが「従業員やベンダーへの適時の支払いといった最も基本的な義務さえ」果たせなかったと主張している。
+主張によれば、ワンダーマインドとのパートナーシップやアプリなどの約束は決して実現しなかったという。
+告訴状には、「会社が周りで静かに崩壊していく間、3年間、創業者、役員、取締役の誰も、その資金を崩壊に資金提供していた投資家に対して一言も発言しなかった」と書かれている。
+彼らは、オンライン雑誌「ザ・カット」による調査報道が2025年9月に浮上するまで、同社の困難について知らなかったと述べた。
+訴状によると、その報告書にはワンダーマインドの財務と経営上の問題に関する疑惑が含まれていたという。
+記事は、「ワンダーマインドには将来の計画がなかった。ましてや数十億ドルの評価額を達成する計画などなかった」と訴訟では主張している。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T11:32:05+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg",
+    readTime: 3,
+  },
+  {
     id: "trump-ally-nigel-farage-wins-special-ele-266189ac",
     title: "Trump ally Nigel Farage wins special election to return to UK parliament",
     titleJa: "トランプ氏の盟友ナイジェル・ファラージ氏が特別選挙で勝利し英国議会に復帰",
@@ -677,6 +963,54 @@ Sangmi Han、Suhnwook Lee、Yijin Sim による追加レポート`,
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
     readTime: 7,
+  },
+  {
+    id: "engine-parts-smashed-ryanair-window-that-e1e53d14",
+    title: "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+    titleJa: "エンジン部品がライアンエアの窓を割り、男性の頭が吸い出されたと報告書が発表",
+    summaryJa: "エンジン部品がライアンエアの窓を割り、男性の頭が吸い出されたと報告書が発表- 公開されました",
+    bodyOriginal: `Engine parts smashed Ryanair window that man's head was sucked out of, report says
+- Published
+Broken engine fragments smashed a cabin window of a Ryanair plane causing a man's head and right shoulder to be sucked into the hole last month, US investigators have said.
+The National Transportation Safety Board (NTSB) wrote in a preliminary report that this happened after an engine fan blade broke shortly after takeoff on the 10 July flight from Greece to Germany.
+Serbian national Ljubisa Karović's head and right shoulder were sucked out of the plane's window, leaving him "seriously injured and in shock".
+His wife Svetlana Grković Maksimović later told BBC Serbia that she and two other passengers held onto his legs for several minutes.
+The NTSB said the flight from Thessaloniki to Memmingen "experienced a No. 2 (right) engine fan-blade-out (FBO) failure during climb out".
+"The crew elected to return to SKG [Thessaloniki International Airport] where they made an uneventful landing."
+The NTSB was "delegated the investigation in full" by the Greek authorities in the days following the incident.
+It also detailed a timeline of events given by the flight crew, who said they received a "high vibration" engine alert during the climb.
+In response, they reduced the engine power and carried out a series of checks. When the vibrations stopped, the crew continued to climb on autopilot, the report said.
+But the engine vibrations then increased and the crew heard a loud bang, prompting them to declare an emergency and begin their descent.
+Flight attendants reported hearing and feeling the vibrations, and seeing a small amount of smoke before the oxygen masks were deployed.
+One flight attendant said they then noticed passengers calling for help after a passenger became "partially lodged in a damaged cabin window", with the entire window missing.
+The engine had undergone ultrasonic inspections in May this year with no findings of fault, the report stated.
+Ryanair boss Michael O'Leary earlier suggested that the incident may have been caused by "foreign object damage" to an engine.
+The aircraft was operated by Ryanair's subsidiary Malta Air.
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    bodyJa: `エンジン部品がライアンエアの窓を割り、男性の頭が吸い出されたと報告書が発表
+- 公開されました
+米国の捜査当局は、先月、ライアン航空の飛行機の客室窓が壊れたエンジンの破片で破壊され、男性の頭と右肩が穴に吸い込まれたと発表した。
+国家運輸安全委員会（NTSB）は予備報告書で、これは7月10日のギリシャ発ドイツ行きの便で離陸直後にエンジンのファンブレードが破損した後に起こったと書いた。
+セルビア国籍のリュビサ・カロヴィッチさんの頭と右肩が飛行機の窓から吸い取られ、「重傷を負いショック状態」となった。
+妻のスベトラーナ・グルコビッチ・マクシモビッチさんは後にBBCセルビアに対し、彼女と他の乗客2人が数分間彼の足をつかんでいたと語った。
+NTSBは、テッサロニキ発メミンゲン行きの便で「上昇中に第2（右）エンジンのファンブレードアウト（FBO）故障が発生した」と発表した。
+「乗組員はSKG（テッサロニキ国際空港）に戻ることを選択し、そこで何事もなく着陸した。」
+NTSBは事件の数日後、ギリシャ当局から「捜査の全面委任」を受けた。
+また、飛行乗務員から語られた出来事のタイムラインについても詳述しており、乗務員らは上昇中に「高振動」エンジン警報を受けたと述べた。
+これに応じて、彼らはエンジン出力を下げ、一連の点検を実施した。報告書によると、振動が収まった後も乗組員は自動操縦で上昇を続けたという。
+しかしその後、エンジンの振動が増大し、乗組員は大きな衝撃音を聞いたため、緊急事態を宣言して降下を開始した。
+客室乗務員らは、酸素マスクが展開される前に振動を聞いたり感じたり、少量の煙を目撃したと報告した。
+ある客室乗務員は、乗客が「客室の破損した窓に部分的にはまり込み」、窓全体がなくなったため、乗客が助けを求めていることに気づいたと語った。
+報告書によると、エンジンは今年５月に超音波検査を受けたが、異常は見つからなかったという。
+ライアンエアのマイケル・オリアリー社長は以前、この事故はエンジンへの「異物損傷」が原因である可能性があると示唆していた。
+同機はライアンエアーの子会社マルタ航空が運航していた。
+一日の始まりに必要な見出しをすべて掲載した、当社の主力ニュースレターを入手してください。ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-13T21:43:47+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
+    readTime: 2,
   },
   {
     id: "openai-loses-revenue-chief-denise-dresse-bfc3090b",
@@ -1498,292 +1832,6 @@ ICAEWの首席エコノミスト、スレン・ティルー氏は、家計と企
     publishedAt: "2026-08-13T07:44:05+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f86/live/21ac6b90-96de-11f1-9b96-77d3dc534330.jpg",
-    readTime: 3,
-  },
-  {
-    id: "twitch-faces-backlash-over-amazon-using-35d4af95",
-    title: "Twitch faces backlash over Amazon using content to train AI",
-    titleJa: "TwitchはAmazonがAIのトレーニングにコンテンツを使用したことで反発に直面している",
-    summaryJa: "TwitchはAmazonがAIのトレーニングにコンテンツを使用したことで反発に直面している- 公開されました",
-    bodyOriginal: `Twitch faces backlash over Amazon using content to train AI
-- Published
-Twitch has been criticised by users after it emerged the popular streaming platform allowed their content to be used to train Amazon's artificial intelligence (AI) models.
-Amazon owns Twitch and a setting allowing the US tech giant to take data generated by creators and audiences to train AI is turned on by default.
-Users can now opt out of that, Twitch said on Wednesday, but the announcement sparked a backlash with some users questioning why it was allowed in the first place.
-Twitch's chief product officer Mike Minton, said it's "respecting" users by letting them opt out but on why data was collected by default, he admitted: "If it's opt-in, nobody would opt-in. That's the honest answer."
-Users who remain opted in could have any of their channel content used for training, Minton said during a livestream, adding that the data collected will not be re-sold to other companies.
-On the same livestream, Mary Kish, head of community at Twitch, took viewers through a tutorial on how to disable generative AI training through a user's channel settings.
-Doing so will prevent Amazon from using streams, clips, images, chats and other channel content to train its generative AI models.
-Data collection for AI training has become an industry standard, Kish said.
-"We don't expect you to be happy or excited about this. I don't expect anyone to react to this favourably," she added.
-The stream's chat column was flooded with hundreds of comments from users criticising the move.
-One viewer wrote: "Nobody would opt in because nobody wants to feed AI with our creativity and content."
-Another said Twitch had an "opportunity to set an industry standard" to push back against data collection for AI.
-It is not clear when Amazon began collecting Twitch users' data to train its AI models.
-Minton said during the stream that he did not know if users' data had already been scraped for training, adding that he was unsure what Amazon "has done in terms of model training and what they've used and not used."
-Amazon, which bought Twitch for nearly $1bn (£740m) in 2014, runs a host of AI services and has heavily invested in the its development as it seeks to compete with Google, Meta and other technology giants.
-Amazon has been contacted for comment.
-Related topics
-- Published16 hours ago`,
-    bodyJa: `TwitchはAmazonがAIのトレーニングにコンテンツを使用したことで反発に直面している
-- 公開されました
-Twitchは、人気のストリーミングプラットフォームが自社のコンテンツをAmazonの人工知能（AI）モデルのトレーニングに使用できるようにしたことが明らかになり、ユーザーから批判されている。
-AmazonはTwitchを所有しており、米国のテクノロジー巨人がAIをトレーニングするためにクリエイターと視聴者によって生成されたデータを取得できるようにする設定がデフォルトでオンになっています。
-Twitchは水曜日、ユーザーはこれをオプトアウトできると発表したが、この発表は反発を引き起こし、そもそもなぜそれが許可されているのか疑問を抱くユーザーもいた。
-Twitchの最高プロダクト責任者マイク・ミントン氏は、ユーザーにオプトアウトを許可することでユーザーを「尊重」していると述べたが、データがデフォルトで収集される理由については「オプトインなら誰もオプトインしないだろう。それが正直な答えだ」と認めた。
-ミントン氏はライブストリーム中に、オプトインしたままのユーザーは自分のチャンネルコンテンツをトレーニングに使用できると述べ、収集されたデータが他の企業に再販売されることはないと付け加えた。
-同じライブストリームで、Twitch のコミュニティ責任者である Mary Kish 氏が、ユーザーのチャンネル設定を通じて生成 AI トレーニングを無効にする方法についてのチュートリアルを視聴者に案内しました。
-そうすることで、Amazon は生成 AI モデルをトレーニングするためにストリーム、クリップ、画像、チャット、その他のチャネル コンテンツを使用できなくなります。
-AIトレーニングのためのデータ収集は業界の標準になっている、とキッシュ氏は語った。
-「私たちは、皆さんがこの件で喜んだり、興奮したりすることを期待していません。誰もこれに好意的に反応するとは思っていません」と彼女は付け加えた。
-ストリームのチャット欄には、この動きを批判するユーザーからの数百件のコメントが殺到した。
-ある視聴者は、「誰もAIに私たちの創造性やコンテンツを与えたくないと思うので、オプトインする人はいないだろう」と書いた。
-別の関係者は、TwitchにはAIによるデータ収集に反対する「業界標準を設定する機会」があると述べた。
-AmazonがAIモデルをトレーニングするためにいつTwitchユーザーのデータを収集し始めたかは明らかではない。
-ミントン氏は配信中に、ユーザーのデータがトレーニングのためにすでに収集されているかどうかは分からないと述べ、アマゾンが「モデルのトレーニングに関して何を行ったのか、またユーザーが何を使用し、何を使用しなかったのか」が分からないと付け加えた。
-2014年にTwitchを約10億ドル（7億4,000万ポンド）で買収したAmazonは、多数のAIサービスを運営しており、GoogleやMeta、その他のテクノロジー大手との競争を目指してその開発に多額の投資を行っている。
-アマゾンにはコメントを求められている。
-関連トピック
-- 16 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T07:32:07+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19c0/live/3a5d4e80-96b0-11f1-a357-f9f53ca5007d.jpg",
-    readTime: 3,
-  },
-  {
-    id: "lenovo-profits-soar-past-expectations-on-b7c6535b",
-    title: "Lenovo profits soar past expectations on AI computers, servers and services",
-    titleJa: "レノボの利益はAIコンピューター、サーバー、サービスで予想を超えて急上昇",
-    summaryJa: "レノボ・グループは木曜日、投資家を驚かせた利益の急騰を報告し、人工知能の構築における最新の企業となった。",
-    bodyOriginal: `Lenovo Group on Thursday became the latest company in the build-out of artificial intelligence to report soaring profits that caught investors by surprise.`,
-    bodyJa: `レノボ・グループは木曜日、投資家を驚かせた利益の急騰を報告し、人工知能の構築における最新の企業となった。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/lenovo-profits-soar-past-expectations-on-ai-computers-servers-and-services-162e11e6?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T07:20:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-39222865",
-    readTime: 2,
-  },
-  {
-    id: "south-korea-s-kospi-has-staged-a-stunnin-c122be32",
-    title: "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-    titleJa: "韓国のコスピが見事な復活を遂げた。強気相場はいつまで続くのでしょうか？",
-    summaryJa: "韓国のコスピは、投資家が指数を支配する同国の半導体大手に群がる中、最近の下落から反転し、強気相場の領域に戻った。先月、レバレッジをかけたポジションと強制的な売りによって部分的に下落し、ベンチマークは弱気市場の領域に押し込まれた後、強気市場の一般的に使用される基準である7月の安値から20％以上上昇した。",
-    bodyOriginal: `South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors pile back into the country's semiconductor giants that dominate the index.
-The benchmark has climbed more than 20% from its July low, the commonly used threshold for a bull market, after a rout driven partly by leveraged positions and forced selling pushed it into bear-market territory last month.
-The speed of the turnaround underscores the massive volatility in tech stocks and raises a bigger question: How much longer will the South Korean rally last?
-For bulls, the answer rests largely on whether the fundamentals behind Korea's semiconductor giants can keep pace with increasingly optimistic expectations. Strong U.S. technology earnings and continued commitments to AI infrastructure spending have helped revive confidence that demand for memory chips will remain robust.
-"The AI rally and continued strong earnings have been a constant during the sell-off, so it is fundamentals returning the market back to normalcy rather than the other way around," said Peter Kim, head of global investment strategy at KB Securities.
-Kim said valuations and earnings were never seriously in doubt during the semiconductor rout, which was instead driven by technical factors and fund flows. The unwinding of leveraged positions has also eased after regulators tightened rules and brokerages normalized margin and risk requirements. That could leave the market on firmer footing than during the run-up preceding the crash.
-Concentration risks — or rewards?
-The Kospi's dependence on just a handful of semiconductor companies makes its bull run overly exposed to shifts in sentiment toward AI.
-"Korea's equity market is basically synonymous with the AI hardware trade at this point," said Phillip Wool, head of research at Rayliant Global Advisors.
-The rebound has been partly technical, Wool said, as forced selling subsided, dip buyers returned and fear of missing out took hold. But stronger-than-expected Big Tech earnings have also reinforced expectations for AI infrastructure spending and helped underpin upward revisions to growth forecasts for Korean hardware companies.
-"Anything that calls this narrative into question, whether it's soft guidance on capex from hyperscalers, sagging token pricing, Fed tightening fears, we can expect to see a pullback," Wool said. "Expect continued volatility as long as there's uncertainty about how AI hardware spending will play out."
-Supporting the bull case, Billy Leung, investment strategist at Global X ETFs pointed to Korea's corporate-governance reforms and "Value-Up" program, which have helped reduce the "Korea discount."
-The "Korea discount" refers to the longstanding tendency of South Korean companies to trade at lower valuations than comparable global peers.
-"The KOSPI is in a bull market, but the more important question is whether the rally is being driven by speculation or by a genuine improvement in fundamentals," Leung said.
-He sees Korea as closer to a fundamentally supported bull market than a speculative bubble, with semiconductor earnings' expectations continuing to rise. But elevated retail participation, heavy index concentration and ambitious market targets are also beginning to resemble late-cycle behavior.
-Others warned about reading too much into the 20% milestone.
-"I would be cautious about describing this as a completely new bull market," said Jung In Yun of Fibonacci Asset Management Global. The rebound represents both a technical recovery from forced selling and "a genuine return of stability," he said.
-His base case is for the broader bull trend to continue, backed by semiconductor earnings and improved risk appetite, but at a slower and bumpier pace. "After such a steep rebound, some consolidation would be healthy, and investors should not expect the market to rise at the same pace from here."`,
-    bodyJa: `韓国のコスピは、投資家が指数を支配する同国の半導体大手に群がる中、最近の下落から反転し、強気相場の領域に戻った。
-先月、レバレッジをかけたポジションと強制的な売りによって部分的に下落し、ベンチマークは弱気市場の領域に押し込まれた後、強気市場の一般的に使用される基準である7月の安値から20％以上上昇した。
-反転のスピードはハイテク株のボラティリティの高さを強調しており、韓国の株価上昇はいつまで続くのかという、より大きな疑問を投げかけている。
-強気派にとって、答えは主に、韓国の半導体大手の背後にあるファンダメンタルズが、ますます楽観的な期待に追いつくことができるかどうかにかかっています。米国の好調なテクノロジー収益とAIインフラ投資への継続的な取り組みにより、メモリチップの需要は引き続き堅調であるという確信が再び高まっている。
-ＫＢセキュリティーズのグローバル投資戦略責任者、ピーター・キム氏は「ＡＩの上昇と好調な収益の継続は、下落局面でも常に続いており、市場を正常な状態に戻すのがファンダメンタルズであり、その逆ではない」と述べた。
-キム氏は、半導体暴落の際に評価や利益が大きく疑われたことはなく、代わりに技術的要因と資金の流れによって動かされたと述べた。規制当局が規則を強化し、証券会社が証拠金とリスクの要件を正規化したことで、レバレッジをかけたポジションの巻き戻しも緩和された。そうすれば、市場は暴落前の準備期間よりも堅固な基盤を保つ可能性がある。
-集中のリスク — それとも報酬?
-コスピはほんの一握りの半導体企業に依存しているため、その強気相場はAIに対するセンチメントの変化に過度にさらされている。
-レイリアント・グローバル・アドバイザーズの調査責任者フィリップ・ウール氏は、「現時点では韓国の株式市場は基本的にAIハードウェア取引と同義だ」と述べた。
-ウール氏は、無理な売りが沈静化し、押し目買いが戻ってきて、買い逃すのではないかという懸念が根付いたため、反発は部分的にはテクニカルなものだったと述べた。しかし、予想を上回るビッグテック企業の収益もAIインフラ支出への期待を高め、韓国のハードウェア企業の成長予測の上方修正を裏付ける一因となった。
-「ハイパースケーラーによる設備投資に関するソフトガイダンス、トークン価格の低迷、FRBの引き締め懸念など、この物語に疑問を投げかけるものはすべて、反動が予想される」とウール氏は述べた。 「AI ハードウェアへの支出がどうなるか不確実性がある限り、ボラティリティは続くことが予想されます。」
-強気派の主張を支持するグローバルX ETFの投資ストラテジスト、ビリー・レオン氏は、韓国のコーポレートガバナンス改革と「バリューアップ」プログラムが「韓国ディスカウント」の削減に役立っていると指摘した。
-「韓国ディスカウント」とは、韓国企業が世界の同等の企業よりも低い評価額で取引されるという長年の傾向を指す。
-レオン氏は「ＫＯＳＰＩは強気相場にあるが、より重要な問題は、その上昇が投機によってもたらされているのか、それともファンダメンタルズの真の改善によってもたらされているのかということだ」と述べた。
-同氏は、半導体利益への期待が引き続き上昇しており、韓国は投機バブルではなく、基本的に支えられた強気市場に近いと見ている。しかし、小売参加者の増加、指数集中の集中、野心的な市場目標もまた、サイクル後期の行動に似てきています。
-20%というマイルストーンを深読みしすぎることについて警告する人もいた。
-フィボナッチ・アセット・マネジメント・グローバルのジョン・インユン氏は、「これを全く新たな強気相場と表現することには慎重だ」と述べた。同氏は、この回復は強制的な売りからの技術的な回復と「真の安定性の回復」の両方を表していると述べた。
-同氏の基本シナリオは、半導体収益とリスク選好度の改善を背景に、広範な強気トレンドが継続するものの、そのペースはより遅く、より不安定になるだろうとしている。 「これほど急反発した後は、ある程度の調整は健全だろう。投資家は市場がここから同じペースで上昇すると期待すべきではない。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-    publishedAt: "2026-08-13T05:22:03+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "hormuz-remains-blocked-iran-disputes-tr-2f433a03",
-    title: "‘Hormuz remains blocked’: Iran disputes Trump claims as traffic sinks to near 3-month lows",
-    titleJa: "「ホルムズは封鎖されたまま」：交通量が3カ月ぶりの低水準近くに落ち込む中、イランはトランプ大統領の主張に異議を唱える",
-    summaryJa: "イラン当局は、米国がホルムズ海峡を「完全に支配」しているとするドナルド・トランプ米大統領の繰り返しの主張を反発している。水曜日、イランのペルシャ湾海峡当局はXへの投稿で、「ホルムズ海峡はもはや封鎖されていないという米国当局者の主張や度重なる投稿は現実を変えるものではない。ホルムズ海峡は封鎖されたままであり、イランの条件が受け入れられるまで再開されることはない」と述べた。",
-    bodyOriginal: `Iranian authorities have pushed back on U.S. President Donald Trump's repeated claims that Washington has "total control" over the Strait of Hormuz.
-On Wednesday stateside, Iran's Persian Gulf Strait Authority said in a post on X that "Claims and repeated posts by U.S. officials that the Strait of Hormuz is no longer blocked do not change the reality: the Strait of Hormuz remains blocked and will not be reopened until Iran's conditions are accepted."
-Trump had said in a Truth Social post earlier that "The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT!"
-While both sides continue to make contradictory claims, data from trade intelligence firm Kpler showed that ship traffic through the Hormuz waterway is near a 3-month low.
-Vessel transits sat at a 5-day average of around 13 on Tuesday, nearly the lowest level since May 12, according to a CNBC analysis of data provided by the trade intelligence firm Kpler. This includes ships of all types, from cargo vessels to oil tankers.
-Traffic is about 90% lower than the daily average of 130 ships that transited Hormuz before the U.S. and Israel attacked Iran on Feb. 28.
-Both Washington and Tehran have hardened their negotiating stances, asking for "reparations" from the other side, among other demands.
-Iran's Supreme National Security Council laid out sweeping demands over the weekend for reopening the Strait of Hormuz, including an end to the U.S. naval blockade, sanctions relief, American troop withdrawals and war reparations.
-'Confusion and bewilderment'
-The developments come as Mohammad Reza Naqdi, a top advisor to the commander of Iran's Islamic Revolutionary Guard Corps, told PBS in an interview on Tuesday stateside that "victory is on our side" and that "we have also seen how the American military is weaker than what we perceived."
-He pointed to what he described as Washington's shifting objectives over the course of the conflict, including wanting to invade Kharg Island and opening the Strait of Hormuz.
-"We saw confusion and bewilderment in America. It became a war without a strategy. Every two or three days, they announced a new objective ... They mobilized their battleships. Everything they tried, we can show how we were victorious."
-When asked if the plan was to drag the conflict out until Trump leaves office, Naqdi said the goal was for Iran to "attain deterrence."
-As such, he said that one way was to prolong the conflict and cause attrition, so if anyone wants to attack Iran, there will be a cost.
-— CNBC's Spencer Kimball and Deena Zaidi contributed to this report.`,
-    bodyJa: `イラン当局は、米国がホルムズ海峡を「完全に支配」しているとするドナルド・トランプ米大統領の繰り返しの主張を反発している。
-水曜日、イランのペルシャ湾海峡当局はXへの投稿で、「ホルムズ海峡はもはや封鎖されていないという米国当局者の主張や度重なる投稿は現実を変えるものではない。ホルムズ海峡は封鎖されたままであり、イランの条件が受け入れられるまで再開されることはない」と述べた。
-トランプ大統領は以前、トゥルース・ソーシャルへの投稿で、「米国はホルムズ海峡を完全に支配している。我々はそれを維持すると思う！」と述べていた。
-双方は矛盾した主張を続けているが、貿易情報会社Kplerのデータによると、ホルムズ水道を通過する船舶の交通量は3カ月ぶりの低水準に近い。
-貿易情報会社Kplerが提供したデータをCNBCが分析したところによると、火曜日の船舶の通過回数は5日間平均約13回で、5月12日以来ほぼ最低水準となった。これには、貨物船から石油タンカーまで、あらゆる種類の船舶が含まれます。
-交通量は、米国とイスラエルが2月28日にイランを攻撃する前にホルムズを通過した船舶130隻の1日平均よりも約90％少ない。
-アメリカ政府とイラン政府は双方とも交渉姿勢を硬化させ、他の要求の中でもとりわけ相手側に「賠償」を求めている。
-イラン国家安全保障最高会議は先週末、米国の海上封鎖の解除、制裁緩和、米軍撤退、戦争賠償を含むホルムズ海峡再開に向けた包括的な要求を打ち出した。
-「混乱と当惑」
-この展開は、イランイスラム革命防衛隊司令官の最高顧問モハマド・レザー・ナクディ氏が火曜日のインタビューで米PBSに対し、「勝利は我々の側にある」とし、「我々はまた、米軍が我々が認識していたよりもいかに弱いのかも目の当たりにした」と語った中で明らかになった。
-同氏は、カーグ島への侵攻やホルムズ海峡の開放など、紛争の過程でワシントンの目標が変化していると述べたものを指摘した。
-「我々はアメリカ国内で混乱と当惑を目の当たりにした。戦略のない戦争となった。二日か三日ごとに彼らは新たな目標を発表した…彼らは戦艦を動員した。彼らが試みたすべてを見て、我々がどのように勝利したかを示すことができる。」
-トランプ大統領が退任するまで紛争を長引かせる計画なのかとの質問に対し、ナクディ氏はイランが「抑止力を獲得する」ことが目的だと述べた。
-そのため、紛争を長引かせ消耗を引き起こすことが一つの方法であり、イランを攻撃しようとする者がいれば代償が生じるだろうと同氏は述べた。
-— CNBCのスペンサー・キンボール氏とディーナ・ザイディ氏がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/us-iran-war-trump-hormuz-irgc.html",
-    publishedAt: "2026-08-13T05:19:50+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "this-chinese-firm-has-topped-micron-and-7c598fab",
-    title: "This Chinese firm has topped Micron and Kioxia in shipments of crucial NAND memory chips",
-    titleJa: "この中国企業は重要なNANDメモリチップの出荷量でマイクロンとキオクシアを上回った",
-    summaryJa: "Counterpoint Research は、大規模な DRAM セグメントとともに人工知能の需要から恩恵を受けているメモリ チップの NAND セグメントに注目しました。",
-    bodyOriginal: `BEIJING — Yangtze Memory Technologies is rapidly gaining market share in a critical chip sector, according to Counterpoint Research.
-The company, also known as YMTC, landed in third place by shipments globally in the second quarter, behind South Korea's Samsung and SK hynix but beating out U.S. rival Micron and Japan's Kioxia, Counterpoint data released Wednesday showed.
-That's when looking at the NAND memory segment, which contributes about one-fourth of Micron's revenue. NAND chips retain data even when devices are powered off but are slower than DRAM memory chips, which operate more quickly — at a far higher cost, forming about three-fourths of Micron's revenue.
-YMTC reached third place with a 14% share, the report said. It narrowly beat Kioxia a year ago, but fell back behind in following months, Counterpoint Research Director MS Hwang said.
-"YMTC is projected to pull further ahead in 2027 and 2028. From that perspective, YMTC achieving third place this quarter carries significant weight in the competitive landscape," Hwang said.
-He said a 15% market share is the minimum needed for a memory manufacturer to fund its own capital expenditures for future growth.
-YMTC is preparing to go public in mainland China, following the blockbuster debut of DRAM-focused Chinese memory chip company CXMT last month.
-CXMT held 7% of the DRAM market in the second quarter, in fourth place behind Micron, SK hynix and market leader Samsung, a separate Counterpoint report showed earlier this month.
-Both DRAM and NAND memory chip markets have reached record sales, at nearly $100 billion and $46 billion, respectively, in the first quarter, according to Counterpoint.
-Despite YMTC's gains in shipments, the company still lagged behind Micron and Kioxia in terms of NAND chip revenue, the research firm said. It noted YMTC still sells more to consumer applications rather than data centers — a business expected to take half of all available NANDs by the end of 2026.
-In order to ramp up NAND production, SK hynix is resuming investment at a facility in the Chinese coastal city of Dalian after a four-year pause, Korean media reported this week. SK hynix did not immediately respond to a CNBC request for comment.`,
-    bodyJa: `北京 - Counterpoint Research によると、長江メモリーテクノロジーズは重要なチップ分野で急速に市場シェアを拡大​​している。
-水曜日に発表されたカウンターポイントのデータによると、YMTCとしても知られる同社は、第2四半期の出荷台数で世界第3位となり、韓国のサムスンとSKハイニックスに次ぐものの、米国のライバルであるマイクロンと日本のキオクシアを上回った。
-それは、Micron の収益の約 4 分の 1 を占める NAND メモリ部門に目を向けた場合です。 NAND チップはデバイスの電源がオフになってもデータを保持しますが、より高速に動作する DRAM メモリ チップよりも遅く、コストがはるかに高く、マイクロンの収益の約 4 分の 3 を占めています。
-報告書によると、YMTCはシェア14%で3位となった。カウンターポイントのリサーチディレクターMS Hwang氏によると、同社は1年前にキオクシアを僅差で破ったが、その後数カ月で後退したという。
-「YMTCは2027年と2028年にさらに前進すると予測されています。その観点から見ると、YMTCが今四半期に3位を獲得したことは、競争環境において大きな重みを持っています」とファン氏は述べた。
-同氏は、メモリメーカーが将来の成長に向けた設備投資を賄うためには、15％の市場シェアが最低限必要だと述べた。
-YMTCは、先月のDRAMに特化した中国のメモリチップ企業CXMTの大ヒットデビューに続き、中国本土での株式公開の準備を進めている。
-今月初めのカウンターポイントの別のレポートによると、CXMTは第2四半期にDRAM市場の7％を占め、マイクロン、SKハイニックス、市場リーダーのサムスンに次いで4位となった。
-Counterpointによると、DRAMとNANDメモリチップ市場はいずれも、第1四半期にそれぞれ1,000億ドル近くと460億ドル近くの記録的な売上高に達したという。
-YMTCは出荷台数が増加しているにもかかわらず、NANDチップの収益という点では依然としてマイクロンやキオクシアに後れを取っていると調査会社は述べた。 YMTCは依然としてデータセンターよりも消費者向けアプリケーションへの販売が多く、2026年末までに利用可能なすべてのNANDの半分を占めると予想されるビジネスであると同社は指摘した。
-NAND生産を増強するため、SKハイニックスは4年間の休止期間を経て、中国沿岸都市大連の施設への投資を再開すると韓国メディアが今週報じた。 SKハイニックスはCNBCのコメント要請にすぐには応じなかった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/chinese-firm-tops-micron-kioxia-shipments-nand-memory-chips.html",
-    publishedAt: "2026-08-13T02:59:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "goldman-says-japan-s-1-trillion-of-reser-1c5cb6e9",
-    title: "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions",
-    titleJa: "ゴールドマン、日本の1兆ドルの外貨準備にはさらなる円介入のための「十分な余力」があると語る",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Japan has enough cash at its disposal for a couple more rounds of yen-buying on the scale of last month's historic intervention, helped by access to a Federal Reserve facility, according to Goldman Sachs.
-Of Japan's roughly $1 trillion in U.S. dollar reserves, about $200 billion — likely the size of the July operation — sits in cash or cash equivalents, Goldman estimated.
-"They already have at their disposal enough to do another couple rounds of what we just saw," which were near record size, Karen Fishman, a Goldman Sachs Research strategist, said on the bank's Exchanges podcast published late Wednesday U.S. time.
-"Realistically, they wouldn't come close to using all of that, but I think that just sort of hits home the point that they have plenty of capacity to keep intervening if they wish," Fishman said. Access to the Fed's facility would theoretically make that full trillion dollars available in liquid form, she added.
-Japanese officials have said that they won't hesitate to step back in if needed. That carries "some credibility," Fishman said, now that the U.S. has intervened alongside Japan to support the yen for the first time since 1998. The two countries also acted in coordination with other Group of Seven nations to curb gains in the yen after the 2011 earthquake.
-The joint action in late July came after the yen slid toward 164 per dollar, hovering near its weakest level in four decades, and has put the Bank of Japan's September policy meeting at the center of whether that reprieve holds.
-The Wall Street bank estimates Tokyo deployed as much as $85 billion in the first two days of last month's operation, saying it was Japan's biggest two-day foray into currency markets on record outside October 2011, when Tokyo intervened in the aftermath of the Fukushima disaster.
-The yen had strengthened past its 200-day moving average of 158 per dollar following the intervention. But those gains are now fading: the currency slipped on Wednesday to near the key 160 level, giving back about half the strength from the intervention.
-The intervention is "not a sustainable fix ... ultimately just buys some time," said Fishman, noting that after Japan's solo action in April and May, the yen was back at 40-year lows within months.
-Japan's finance ministry has said it plans to use the Fed's FIMA repo facility, which lets central banks raise dollar cash against their Treasury holdings, sparing Tokyo from dumping Treasuries on the secondary market to fund intervention.
-The prospect of a much bigger war chest has already shifted sentiment. Clients "really did get quite bulled up on the yen" last week once the Fed facility potentially put the full $1 trillion within reach for intervention, Praneet Shah, head of FX options trading at Goldman, said in the podcast.
-Options pricing shows traders are still bracing for another sharp yen surge, and that fear itself may deter fresh selling. Shah said elevated premiums on short-dated yen calls point to a market still on guard for a sudden gap move, making investors wary of betting against the currency as it drifts back toward 160.
-"If spot is trading up into 160, there's a real risk that you don't want to continue selling yen when you've got this large risk of a drawdown still priced by the market," he said.
-What may trigger another round
-Whether Tokyo pulls the trigger again may hinge on the carry differential between Japanese and U.S. borrowing rates, which remains the overwhelming driver of the exchange rate, according to Shah.
-The yield on 10-year U.S. Treasury stood at 4.690% late Wednesday, compared with 2.839% for 10-year Japanese government bonds, leaving investors with a substantial incentive for holding U.S. debt.
-On the Japanese side, markets now price a 65% chance of a 25-basis-point Bank of Japan hike in September and about 40 basis points of tightening by year-end. "If they don't deliver" a September hike, Fishman said, "that would put renewed downward pressure on the yen."
-The BOJ would need to hike faster than expected to shift the carry dynamics that have driven a 45% yen depreciation over five years, Shah said.
-Any misses, the market will really start to increase expectations of a subsequent intervention.Praneet ShahHead of foreign exchange options trading
-On the U.S. side, cooler economic data could ease pressure on the yen by weakening the case for the Federal Reserve to hike rates further, and revive bets on another intervention, Shah said.
-Shah pointed to July 2024, when one of the most effective rounds of BOJ-MOF intervention landed on a U.S. CPI miss, compounded by a payrolls miss days later.
-"Any misses, I think the market will really start to increase expectations of a subsequent intervention later this week," he said.
-Wednesday's inflation report came in line with expectations. The consumer price index rose a seasonally adjusted 0.1% in July, matching consensus forecasts, while the annual rate eased to 3.4% from 3.5% in June. Treasury yields pulled back after the release.`,
-    bodyJa: `ゴールドマン・サックスによると、日本には連邦準備理事会の施設へのアクセスの助けもあり、先月の歴史的な介入規模での円買いをあと数回行うのに十分な資金が自由に使えるという。
-日本の約1兆ドルの米ドル準備のうち、おそらく7月のオペの規模に相当する約2000億ドルが現金または現金同等物として存在するとゴールドマンは推定した。
-ゴールドマン・サックス・リサーチのストラテジスト、カレン・フィッシュマン氏は、米国時間水曜遅くに公開された同行のポッドキャスト「Exchanges」で、「彼らは、我々が今見たことをさらに数ラウンド行うだけの十分な資金をすでに自由に持っている」と述べ、その規模は記録的な規模に近かったと述べた。
-「現実的に言えば、彼らはそのすべてを利用することには程遠いでしょうが、彼らが望めば介入し続けるだけの十分な能力があるという点は、ある意味当たっていると思います」とフィッシュマン氏は語った。 FRBの施設にアクセスできれば、理論的にはその全額が流動性の形で利用可能になると同氏は付け加えた。
-日本の当局者らは、必要であれば躊躇なく介入すると述べた。フィッシュマン氏は、米国が1998年以来初めて円を支援するために日本とともに介入した今、これには「ある程度の信頼性」があると述べた。両国はまた、2011年の地震後の円の上昇を抑制するために他のG7諸国と連携して行動した。
-7月下旬の共同行動は、円が1ドル＝164円に向けて下落し、40年ぶりの安値付近で推移した後に行われたもので、日銀の9月政策決定会合がこの猶予が維持されるかどうかの中心となっている。
-ウォール街銀行は、東京が先月のオペレーションの最初の2日間で850億ドルもの資金を投入したと推定しており、これは東京が福島事故の余波で介入した2011年10月を除けば、記録上、日本による2日間の為替市場への進出としては最大規模だったと述べた。
-介入後、円は２００日移動平均の１ドル＝１５８円を超えて上昇した。しかし、こうした上昇は現在しぼみつつある。水曜日には通貨は主要な160レベル近くまで下落し、介入による強さの約半分が戻った。
-フィッシュマン氏は、この介入は「持続可能な解決策ではなく、結局は時間を稼ぐだけだ」と述べ、4月と5月の日本の単独行動の後、円は数カ月以内に40年ぶりの安値に戻ったと指摘した。
-日本の財務省は、中央銀行が財務省保有に対してドル現金を調達できるFRBのFIMAレポ制度を利用する計画であると発表し、日本政府が介入資金のために流通市場に国債を投げ売りすることを回避できる。
-はるかに大きな軍資金が得られるという見通しにより、すでにセンチメントは変化している。ゴールドマンの外為オプション取引責任者、プラニート・シャー氏はポッドキャストの中で、FRBのファシリティーが潜在的に1兆ドル全額を介入の範囲内に置く可能性が出てから、顧客は先週「実際に円に対してかなり強気になった」とポッドキャストで述べた。
-オプションの価格設定を見ると、トレーダーは依然として円の急騰に備えており、その懸念自体が新たな売りを妨げる可能性がある。シャー氏は、円の短期コールのプレミアムの上昇は、市場が依然として突然のギャップ変動を警戒していることを示しており、円が160円に向けて逆戻りする中、投資家は円に対して賭けることに慎重になっていると述べた。
-同氏は、「現物相場が160円まで上昇している場合、ドローダウンの大きなリスクがまだ市場に織り込まれているときに、円を売り続けたくないという現実的なリスクがある」と述べた。
-次のラウンドを引き起こす可能性のあるもの
-シャー氏によると、東京が再び引き金を引くかどうかは、依然として為替レートの圧倒的な要因となっている日米借入金利のキャリー格差に左右される可能性がある。
-水曜日遅くの米10年国債利回りは4.690％、日本10年国債の利回りは2.839％となっており、投資家には米国債を保有する大きなインセンティブが残っている。
-日本側では、市場は現在、日銀が９月に２５ベーシスポイントの利上げを行い、年末までに約４０ベーシスポイントの引き締めを行う確率を６５％織り込んでいる。フィッシュマン氏は、９月利上げが「実現できなければ、円に新たな下落圧力がかかることになる」と述べた。
-シャー氏は、５年間で４５％の円安をもたらしたキャリー力学を変えるには、日銀が予想よりも速いペースで利上げする必要があると述べた。
-失敗すれば、市場はその後の介入への期待を実際に高め始めるでしょう。プラニート・シャー外国為替オプション取引責任者
-シャー氏は、米国側については、経済指標の冷え込みで米連邦準備理事会（ＦＲＢ）が追加利上げする根拠が弱まり、追加介入への賭けが復活することで円への圧力が緩和される可能性があると述べた。
-シャー氏は2024年7月を指摘し、日銀と財務省の介入の最も効果的なラウンドの1つが米国のCPIの失敗に見舞われ、その数日後に給与支払いの失敗がさらに悪化したと指摘した。
-同氏は「失敗したとしても、市場は今週後半に追加介入への期待を本格的に高め始めるだろう」と述べた。
-水曜日のインフレ報告は予想と一致した。 7月の消費者物価指数は季節調整済みで0.1％上昇し、コンセンサス予想と一致したが、年率は6月の3.5％から3.4％に鈍化した。発表後、国債利回りは低下した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/us-japan-dollar-yen-intervention-goldman.html",
-    publishedAt: "2026-08-13T02:31:32+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "south-korea-s-kospi-swings-from-bear-to-7775c74d",
-    title: "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-    titleJa: "韓国のコスピ、AI取引でわずか1カ月余りで弱気相場から強気相場の領域に転落",
-    summaryJa: "AI貿易の世界的な復活が先月の歴史的な下落後の急激な回復を促進する中、韓国株は木曜日に反発し、ベンチマークのコスピをテクニカル強気相場に押し上げた。ＬＳＥＧのデータによると、コスピは序盤の取引で４％超急騰し、７月３０日の安値から約２３％まで反発した。",
-    bodyOriginal: `South Korean stocks rallied Thursday, lifting the benchmark Kospi into a technical bull market as a global revival in the AI trade fuels a sharp recovery after last month's historic sell-off.
-The Kospi jumped over 4% in early trade, taking its rebound from its July 30 low to roughly 23%, data from LSEG showed.
-Index heavyweights Samsung Electronics and SK Hynix led the gains, with the chip giants rising over 4% and 7%, respectively.
-Investor appetite for technology hardware stocks is returning as the latest earnings from global tech giants point to continued heavy spending on artificial intelligence.
-The latest leg of the Kospi's rebound has been fueled by renewed optimism over artificial-intelligence spending, helping revive interest in South Korea's heavyweight semiconductor stocks.
-"The AI spending boom is far from over," David Morrison, senior market analyst at Trade Nation said in a note late Tuesday, pointing to strong results from U.S. AI-related companies. Supermicro and cloud provider CoreWeave surged overnight following better-than-expected results.
-The developments have provided a fresh boost to Korean chipmakers, whose fortunes are closely tied to demand for the memory chips used in AI infrastructure. Samsung Electronics and SK Hynix have led the Kospi's advance, extending a sharp rebound from last month's technology-driven sell-off.
-The rally in South Korean stocks has room to run further as strength returns to the country's heavyweight memory chipmakers, according to Fundstrat Global Advisors.
-Mark Newton, the firm's head of technical strategy, said the iShares MSCI South Korea ETF has broken above a key technical level on the back of gains in Samsung Electronics and SK Hynix, improving the near-term outlook for Korean equities. The ETF's latest move confirmed a reversal pattern that Newton said "looks attractive technically for further near-term gains."
-The bigger signal may be coming from memory stocks themselves. After being among the hardest hit during the recent technology sell-off, memory shares are beginning to outperform the broader tech sector for the first time since June, Fundstrat said.
-Newton described that as "a good sign in the short run for Memory within Technology," adding that the group appears to be one of the last major corners of tech to begin turning higher.
-That matters for South Korea given the outsized influence of Samsung and SK Hynix on the country's equity market. Fundstrat said the combination of South Korea's rebound and the recovery in memory chips is broadening a rotation back into technology, even as some major U.S. tech names have struggled.
-Newton remains bullish on the market in the near term, although he cautioned that the rally could lose momentum later this month if U.S. Treasury yields and the dollar begin climbing again. For now, however, he said South Korea and memory stocks "look to be the right vehicles for near-term risk-on exposure."`,
-    bodyJa: `AI貿易の世界的な復活が先月の歴史的な下落後の急激な回復を促進する中、韓国株は木曜日に反発し、ベンチマークのコスピをテクニカル強気相場に押し上げた。
-ＬＳＥＧのデータによると、コスピは序盤の取引で４％超急騰し、７月３０日の安値から約２３％まで反発した。
-指数の有力企業であるサムスン電子とSKハイニックスが上昇を主導し、半導体大手はそれぞれ4％と7％以上上昇した。
-世界的なハイテク大手の最新決算が人工知能への多額の支出が続いていることを示しているため、テクノロジー・ハードウェア株に対する投資家の意欲が戻ってきている。
-コスピの最近の反発は、人工知能への支出に対する新たな楽観的な見方によって促進され、韓国の有力半導体株への関心が再び高まっている。
-トレード・ネイションのシニア市場アナリスト、デービッド・モリソン氏は火曜日遅くのメモで、米国のAI関連企業の好調な業績を指摘し、「AI支出ブームはまだ終わっていない」と述べた。スーパーマイクロとクラウドプロバイダーのコアウィーブは予想を上回る業績を受けて一夜にして急騰した。
-この開発は、AIインフラで使用されるメモリチップの需要と密接に運命を結び付けている韓国のチップメーカーに新たな後押しをもたらした。サムスン電子とSKハイニックスがコスピの躍進を主導し、先月のテクノロジー主導の下落からの急反発を延長した。
-ファンドストラット・グローバル・アドバイザーズによると、韓国の有力メモリチップメーカーに力が戻り、韓国株の上昇はさらに進む余地があるという。
-同社のテクニカル戦略責任者マーク・ニュートン氏は、サムスン電子とSKハイニックスの上昇を背景にiシェアーズMSCI韓国ETFが重要なテクニカル水準を突破し、韓国株の短期的な見通しが改善したと述べた。 ETFの最新の動きは、ニュートン氏が「短期的なさらなる利益にとってテクニカル的に魅力的に見える」と述べた反転パターンを裏付けた。
-より大きなシグナルはメモリ株自体から発せられている可能性がある。ファンドストラット氏によると、メモリ株は最近のテクノロジー株下落で最も大きな打撃を受けたが、6月以来初めてハイテクセクター全体をアウトパフォームし始めているという。
-ニュートン氏はこれを「メモリー・イン・テクノロジーにとって短期的には良い兆候」と表現し、このグループがテクノロジー分野で上昇傾向にある最後の主要な一角の1つであるようだと付け加えた。
-韓国の株式市場におけるサムスンとSKハイニックスの多大な影響力を考慮すると、これは韓国にとって重要だ。ファンドストラット氏は、米国の大手ハイテク企業の一部が苦戦しているにもかかわらず、韓国の景気回復とメモリチップの回復が相まってテクノロジー分野への回帰が拡大していると述べた。
-ニュートン氏は目先の市場に対して依然として強気の姿勢を維持しているが、もし米国債利回りが低下しドルが再び上昇し始めれば、今月後半に上昇の勢いが失われる可能性があると警告した。ただ今のところ、韓国株とメモリー株は「短期的なリスクオン・エクスポージャーの適切な手段になりそうだ」と同氏は述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-    publishedAt: "2026-08-13T02:06:15+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 3,
   },
 ];
