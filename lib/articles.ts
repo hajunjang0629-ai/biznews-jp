@@ -15,6 +15,472 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "a-plan-to-save-social-security-involves-8780db7f",
+    title: "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
+    titleJa: "社会保障を節約する計画では、高額所得者がより多くの給付金を受け取ることなく、より多くの税金を支払う必要がある",
+    summaryJa: "税の上限の撤廃は、社会保障財政の強化に役立つ可能性のある提案の 1 つにすぎません。",
+    bodyOriginal: `Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.`,
+    bodyJa: `税の上限の撤廃は、社会保障財政の強化に役立つ可能性のある提案の 1 つにすぎません。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
+    publishedAt: "2026-08-14T18:47:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-21882129",
+    readTime: 2,
+  },
+  {
+    id: "luigi-mangione-pleads-guilty-in-federal-28ce02b1",
+    title: "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
+    titleJa: "ルイージ・マンジョーネ氏、ユナイテッドヘルスケアCEO殺害に関する連邦訴訟で有罪を認める",
+    summaryJa: "マンジョーネ氏の弁護士らは、マンジョーネ氏の連邦申し立てにより、ニューヨーク州二重危険法によりブライアン・トンプソン氏殺害の州裁判所での殺人罪での起訴が妨げられると主張している。",
+    bodyOriginal: `Luigi Mangione pleaded guilty Friday in New York federal court to stalking UnitedHealthcare CEO Brian Thompson before fatally shooting him on a midtown Manhattan street in December 2024.
+Mangione's lawyers immediately afterward filed a motion in New York state court saying that charges of murder and multiple firearms counts against the Ivy League graduate in that court for Thompson's slaying should be tossed out under the state's double jeopardy law because of his federal plea.
+Mangione, 28, said Friday in Manhattan U.S. District Court that he traveled to New York with the intention of killing Thompson after reaching out to UnitedHealthcare and pretending to be an investor ahead of a company conference at a Manhattan hotel.
+"I shot Mr. Thompson in Manhattan, and he died," Mangione said, according to MS NOW. "I knew what I was doing was illegal."
+Thompson's company, which is a division of UnitedHealth Group, is the largest health insurer in the United States. Thompson was gunned down on the sidewalk outside the Hilton hotel on Dec. 4, 2024.
+Mangione, a 2020 graduate of the University of Pennsylvania, was apprehended by local police five days later in a McDonald's in Altoona, Pennsylvania, after someone recognized him from a surveillance photo.
+Mangione, who told District Court Judge Margaret Garnett that he was motivated after suffering years of pain from a broken back, faces a maximum possible sentence of life in prison. Sentencing is scheduled for Dec. 18.
+Manhattan U.S. Attorney Jamie McDonald said he will seek a sentence of life for the charges of interstate stalking resulting in Thompson's death, and use of electronic communications to stalk the 50-year-old CEO.
+McDonald and Amanda Houle, chief of the office's criminal division, were sitting in the front row of court next to Thompson's widow and family during Friday's plea hearing, MS NOW reported. UnitedHealthcare executives sat in the row behind them.
+"Today's guilty plea marks an important step toward justice for Brian and for our family," Thompson's family said in a statement. "While nothing will ease the pain of losing him, we are grateful that the federal justice system has held the person responsible for this heinous act accountable."
+"Now we look to the court to ensure that sentencing reflects the severity of this crime," the family said. "We remain mindful that additional proceedings in New York and Pennsylvania are still to come, and we will continue to seek the justice Brian deserves."
+Mangione's plea came weeks before jury selection is scheduled to start for his Manhattan Supreme Court trial on a charge of murdering Thompson.
+It is not clear if that trial will begin on Sept. 8 given defense attorneys' new motion asking a judge to toss the state charges because of Friday's plea in federal court.
+Under New York's double jeopardy law, a person cannot be separately prosecuted for offenses based upon the same criminal act, a state appeals court has held.
+"Despite this being a single isolated event, Mr. Mangione has been unfairly treated since the outset in every way," his lawyer, Karen Friedman Agnifilo, told reporters after the plea hearing.
+"He's been treated differently from every other defendant charged with this offense in New York," Friedman Agnifilo said.
+"As Luigi explained in court today, he endured years of severe, debilitating pain following a broken back while struggling to navigate our healthcare and health insurance systems," she said. "Like the thousands of people who have reached out since this tragedy to share their own experiences, he believed that system had failed him and destroyed his life."
+A spokeswoman for Manhattan District Attorney Alvin Bragg, whose office is prosecuting Mangione in state court, said in a statement the office would fight the effort to dismiss the case.
+"Since December 2024, the Manhattan D.A.'s Office has been tirelessly preparing to pursue a trial conviction in New York State Supreme Court for the alleged cold-blooded murder of Brian Thompson," the spokeswoman said.
+"We are encouraged that Mr. Thompson's family received a measure of accountability today. While federal sentencing is pending, we are prepared to litigate the defense motions," the spokeswoman said. "The Manhattan D.A.'s Office remains committed to seeking justice for Mr. Thompson and his family."
+UnitedHealth Group, in a statement after the plea hearing, said, "Brian Thompson's life was cut short by an act of violence that devastated everyone who knew and loved him."
+"We are grateful to law enforcement for bringing Brian's murderer to justice, and our thoughts remain with Brian's family and loved ones during this difficult time," the company said.`,
+    bodyJa: `ルイージ・マンジョーネ氏は金曜日、ニューヨーク連邦裁判所で、ユナイテッドヘルスケアCEOのブライアン・トンプソン氏をストーカー行為し、2024年12月にマンハッタンのミッドタウンの通りで同氏を射殺したとして有罪を認めた。
+その直後、マンジョーネ氏の弁護士らはニューヨーク州裁判所に申し立てを行い、トンプソン氏殺害に関して同法廷で提起されているアイビーリーグ卒業生のマンジョーネ氏に対する殺人と複数の銃器の罪は、連邦政府の嘆願を理由に州の二重危険法に基づき破棄されるべきであるとの申し立てを行った。
+28歳のマンジョーネ被告は金曜日、マンハッタン連邦地方裁判所で、マンハッタンのホテルでの社内会議を前にユナイテッドヘルスケアに連絡を取り、投資家のふりをした後、トンプソンさんを殺害する目的でニューヨークに旅行したと述べた。
+MS NOWによると、マンジョーネ氏は「マンハッタンでトンプソン氏を射殺し、彼は死亡した」と語った。 「自分のやっていることは違法であることは分かっていました。」
+トンプソン氏の会社はユナイテッドヘルス・グループの一部門で、米国最大の医療保険会社である。トンプソンさんは2024年12月4日にヒルトンホテルの外の歩道で銃撃された。
+ペンシルベニア大学を2020年に卒業したマンジョーネ氏は、5日後にペンシルベニア州アルトゥーナのマクドナルドで、何者かが監視写真からマンジョーネ氏を認識したとして地元警察に逮捕された。
+マンジョーネ被告は地方裁判所のマーガレット・ガーネット判事に対し、腰の骨折による長年の痛みに苦しんだ後に動機を与えたと語ったが、最高で終身刑が言い渡される可能性がある。判決は12月18日に予定されている。
+マンハッタンのジェイミー・マクドナルド連邦検事は、トンプソン氏を死亡させた州間ストーカー行為と、50歳のCEOをストーカーするために電子通信を使用した罪で終身刑を求刑すると述べた。
+MS NOWの報道によると、マクドナルド氏と同局刑事部門の責任者アマンダ・ホール氏は金曜日の司法弁論中、法廷の最前列でトンプソン氏の未亡人と家族の隣に座っていた。ユナイテッドヘルスケアの幹部らは彼らの後ろの列に座っていた。
+トンプソンさんの遺族は声明で「今日の有罪答弁は、ブライアンと私たち家族にとって、正義への重要な一歩となる」と述べた。 「彼を失った悲しみを和らげるものは何もありませんが、連邦司法制度がこの凶悪な行為の責任者を責めてくれたことに感謝しています。」
+遺族は「現在、私たちは判決がこの犯罪の重大さを反映しているかどうか裁判所に期待している」と述べた。 「我々はニューヨークとペンシルベニアでの追加訴訟が今後も続くことを念頭に置き、ブライアンにふさわしい正義を求め続けていく」と述べた。
+マンジョーネ氏の嘆願は、トンプソン氏殺害の容疑でマンハッタン最高裁判所で行われる裁判の陪審員選びが始まる数週間前に行われた。
+金曜日の連邦裁判所での嘆願を理由に裁判官に州罪を破棄するよう求める弁護人の新たな申し立てを考慮すると、その裁判が9月8日に始まるかどうかは不明である。
+ニューヨーク州の二重危険法の下では、同じ犯罪行為に基づく犯罪で人を別々に訴追することはできないと州控訴裁判所が判断した。
+弁護人のカレン・フリードマン・アグニフィロ氏は、弁護団後、「これは単独の出来事であるにもかかわらず、マンジョーネ氏は最初からあらゆる面で不当な扱いを受けてきた」と記者団に語った。
+フリードマン・アグニフィロ氏は、「彼はニューヨークでこの罪で起訴された他のすべての被告とは異なる扱いを受けてきた」と語った。
+「ルイージさんが今日法廷で説明したように、彼は腰痛を患い、医療制度や健康保険制度をうまく使いこなすのに苦労しながら、何年も重度の衰弱性の痛みに耐えてきた」と彼女は述べた。 「この悲劇以来、自分の経験を分かち合うために手を差し伸べた何千人もの人々と同じように、彼はシステムが自分を失望させ、自分の人生を破壊したと信じていました。」
+州裁判所でマンジョーネ氏を訴追しているマンハッタン地方検事アルビン・ブラッグ氏の広報担当者は声明で、同局は訴訟の却下に向けた取り組みと戦うと述べた。
+「2024年12月以来、マンハッタン検察局は、ブライアン・トンプソン氏の冷酷な殺人容疑について、ニューヨーク州最高裁判所で有罪判決を得るべく精力的に準備を進めてきた」と広報担当者は述べた。
+「トンプソン氏の家族が本日、一定の説明責任を負ったことを心強く思っている。連邦判決は保留中だが、弁護動議を訴訟する用意がある」と広報担当者は述べた。 「マンハッタン検察局は、トンプソン氏とその家族に対する正義の追求に引き続き尽力する。」
+ユナイテッドヘルス・グループは司法審問後の声明で、「ブライアン・トンプソンさんの命は暴力行為によって短くされ、彼を知り愛していたすべての人に衝撃を与えた」と述べた。
+同社は「ブライアンを殺害した犯人に裁判を起こしてくれた法執行機関に感謝しており、この困難な時期にブライアンの家族や愛する人たちに思いを馳せ続ける」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
+    publishedAt: "2026-08-14T18:43:55+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "openai-talent-exodus-raises-huge-red-fla-609dc7e3",
+    title: "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+    titleJa: "OpenAIの人材流出、IPOを前に「重大な危険信号」を上げる",
+    summaryJa: "OpenAIが12月に最高収益責任者としてSlackからデニス・ドレッサー氏を採用したとき、最高幹部のフィジー・シモ氏はブログ投稿で、ドレッサー氏の「AIを便利で信頼性が高く、あらゆる場所の企業にとってアクセスしやすいものにするのに役立つ」と述べた。4か月後、執行責任者のブラッド・ライトキャップ氏が「特別プロジェクト」に重点を置いた新しい役割のためにその職を辞したため、ドレッサー氏はさらなる責任を引き受けた。",
+    bodyOriginal: `When OpenAI hired Denise Dresser from Slack to be its chief revenue officer in December, Fidji Simo, a top-ranking executive, said in a blog post that Dresser's "experience will help us make AI useful, reliable, and accessible for businesses everywhere."
+Four months later, Dresser took on added responsibilities when operating chief Brad Lightcap left that position for a new role focused on "special projects."
+Now, Dresser, Simo and Lightcap are all gone, leaving OpenAI's C-suite in chaos as the artificial intelligence company tries to justify its $852 billion valuation and gear up for what's expected to be a historic initial public offering. Dresser announced her sudden departure on Thursday, two days after Lightcap said he was ending an eight-year stint at the ChatGPT creator to "start something new."
+The talent exodus puts even more pressure on CEO Sam Altman and fellow co-founder Greg Brockman, the company's president, to project stability at a time when investors are already growing concerned about competition from Google and Anthropic, increased adoption of lower-cost open-weight models, and SpaceX's volatile stock price in its first two months on the market.
+OpenAI confidentially filed its IPO prospectus in June, but hasn't provided a timeline for a future offering.
+"The executives leaving OpenAI ahead of their IPO is a huge red flag," Kevin McCormick, founder of AI startup SignAudit.AI, wrote in a post on X on Thursday. He added that Dresser likely walked away from a large pay package by leaving OpenAI after less than one year.
+"If the executives leaving aren't being 'made whole' by the next company, it's bad news for OpenAI," McCormick wrote.
+A representative for OpenAI pointed CNBC to Brockman's statement from Thursday, after the company named Dali Rajic, former COO of cybersecurity company Wiz, which Google acquired for $32 billion earlier this year, as its new chief revenue officer.
+Brockman said that Dresser led the revenue group through a "formative period for the business," and that Rajic "will turn what we've learned into repeatable execution as we build out the full system to make AI broadly useful for people and businesses."
+Dresser and Lightcap are the latest in a recent string of big-name exits. Simo, who last year left her job as CEO of Instacart to join OpenAI, said in July that she was stepping away to focus on recovery after a "severe exacerbation of a chronic illness." Four other executives, including Kevin Weil, the vice president of OpenAI for Science, and marketing chief Kate Rouch, departed in April. Rouch left to focus on cancer recovery.
+OpenAI's financial backers were surprised by Dresser's announcement, according to two current investors, who asked not to be named in order to speak freely on the matter. They said that chaos is part of OpenAI's fast-moving culture.
+Dresser was hired in December after establishing a strong reputation in the enterprise by spending more than a decade in senior roles at Salesforce. She was tasked with growing OpenAI's enterprise unit, a high-margin part of the business that's directly taking on Anthropic.
+Brockman told employees on Thursday that run rate revenue increased more than 20% month over month in July, including 32% growth for business customers, according to an internal Slack message shared with CNBC.
+"We're now at an inflection point: the next generation of models will change not just how individual workflows get done, but what it means to build and run a company," Brockman wrote. "Our opportunity is to bring those capabilities to businesses across the economy."
+OpenAI CFO Sarah Friar plans to hold a meeting with investors on Friday, according to a source familiar with the meeting. The event had been already been planned, but Friar is expected to address the C-suite shake-up. Brockman will also be in attendance to talk about company strategy, according to the person, who asked not to be named because the details were confidential.
+Despite the recent turmoil, OpenAI is touting its momentum with corporate clients. The company said Thursday that under Dresser's leadership, the enterprise business grew to 2 million customers, doubling from a year prior.
+"I just have never seen this level of conviction spread so quickly and consistently within the industries," Dresser told CNBC in April, as she was wrapping up her first 90 days on the job. She said at the time that enterprise made up 40% of the company's revenue and was "on track to reach parity with consumer by the end of 2026."
+Days before that interview, Dresser had been tapped to take over many of Lightcap's responsibilities, further raising her profile at the company.
+Years of instability
+Rajic, Dresser's successor, was introduced to OpenAI through Thrive founder Josh Kushner, according to a person with knowledge of the matter who was not authorized to speak on the recruiting process. Thrive has been one of OpenAI's most prominent backers.
+OpenAI has long had a hire fast, fire fast culture, according to two former employees, who asked not to be named in order to speak freely on the matter. One of them described the environment as a pressure cooker.
+Instability at the top is nothing new for OpenAI, or for Altman.
+In 2023, Altman was hastily removed from his role as CEO after the company's board determined he was "not consistently candid in his communications" with them. Days later, with investors in a panic and employees threatening to leave en masse, Altman was restored at the helm.
+Altman's brief ouster, which some OpenAI employees refer to as "the blip," has hung over him ever since.
+The incident came up repeatedly during the high-profile Musk v. Altman trial in May. Lawyers representing Elon Musk, who sued OpenAI, Altman and Brockman in 2024 over a dispute about the company's corporate structure, used Altman's firing as a way to cast doubt on his character, accusing him of being untrustworthy.
+"I was not trying to deceive the board," Altman testified from the witness stand in federal court in Oakland, California.
+Musk's attorneys also pressed Altman about several OpenAI executives who raised concerns about his behavior. They included Anthropic CEO Dario Amodei, who previously served as a research lead at OpenAI. Altman said Amodei had accused him of "many things."
+At the trial, Brockman was grilled about his own reputation as a leader. Musk's attorneys asked him about a memo that was prepared by Ilya Sutskever, an OpenAI co-founder, highlighting issues with Brockman's performance and management.
+One lawyer asked Brockman to confirm that his management style had been heavily criticized by OpenAI employees. Brockman responded, "I certainly disagree with that characterization."
+After three weeks of testimony, an advisory jury said that Musk waited too long to bring his suit against OpenAI and its executives, though Musk vowed to appeal the ruling.
+This week's events haven't helped Altman's cause.
+Following Lightcap's departure, Altman thanked his longtime colleague in a post on X, and wrote that he was "excited to work together on what's next."
+There was no such post after Dresser's announcement. Rather, Altman's only comment on X on Thursday had to do with a subject that he's generally happier to discuss: his company's AI models.
+In response to a post from OpenAI's account about a preview to "Ultrafast mode," the new GPT-5.6 model "at up to 14x the speed," Altman wrote, “/ultrafast."
+WATCH: OpenAI revenue chief Denise Dresser leaving, second major executive departure in days`,
+    bodyJa: `OpenAIが12月に最高収益責任者としてSlackからデニス・ドレッサー氏を採用したとき、最高幹部のフィジー・シモ氏はブログ投稿で、ドレッサー氏の「AIを便利で信頼性が高く、あらゆる場所の企業にとってアクセスしやすいものにするのに役立つ」と述べた。
+4か月後、執行責任者のブラッド・ライトキャップ氏が「特別プロジェクト」に重点を置いた新しい役割のためにその職を辞したため、ドレッサー氏はさらなる責任を引き受けた。
+現在、ドレッサー氏、シモ氏、ライトキャップ氏が全員去り、人工知能企業が8,520億ドルの評価を正当化し、歴史的な新規株式公開に向けて準備を整えようとする中、OpenAIの経営幹部は混乱に陥っている。ドレッサー氏は、ライトキャップ氏が「何か新しいことを始める」ためにChatGPT作成者としての8年間の任期を終えると述べた2日後の木曜日に突然の退職を発表した。
+人材の流出により、投資家が既にグーグルやアンスロピックとの競争、低価格のオープンウェイトモデルの採用増加、そして市場に出てから最初の２カ月間のスペースＸの不安定な株価について懸念を強めている中、最高経営責任者（ＣＥＯ）のサム・アルトマン氏と共同創業者仲間のグレッグ・ブロックマン社長に対し、安定性を予測するようさらにプレッシャーがかかっている。
+OpenAIは6月にIPO目論見書を極秘に提出したが、将来の製品提供のスケジュールは明らかにしていない。
+AI新興企業SignAudit.AIの創設者ケビン・マコーミック氏は木曜日のXへの投稿で、「経営陣がIPOを前にOpenAIを去ることは大きな危険信号だ」と書いた。同氏は、ドレッサー氏は1年も経たないうちにOpenAIを辞めることで、多額の給与パッケージから逃げ出す可能性が高いと付け加えた。
+マコーミック氏は、「辞めた幹部たちが次の会社で『生まれ変わる』ことがなければ、OpenAIにとって悪い知らせだ」と書いた。
+OpenAIの代表者はCNBCに対し、Googleが今年初めに320億ドルで買収したサイバーセキュリティ企業Wizの元最高執行責任者（COO）、ダリ・ラジック氏を新たな最高収益責任者に任命した後、木曜日のブロックマン氏の声明を指摘した。
+ブロックマン氏は、ドレッサー氏が「ビジネスの形成期」を通じて収益グループを率い、ラジック氏が「AIを人々や企業に広く役立つようにするための完全なシステムを構築する際に、我々が学んだことを再現可能な実行に変えるだろう」と述べた。
+Dresser と Lightcap は、最近相次いだ大手企業の撤退の最新企業である。昨年インスタカートの最高経営責任者（CEO）を辞めてオープンAIに入社したシモ氏は7月、「慢性疾患の重度の悪化」からの回復に専念するため退職すると述べた。 OpenAI for Scienceの副社長ケビン・ワイル氏とマーケティング責任者のケイト・ルーシュ氏を含む他の幹部4人が4月に退職した。ルーシュ氏は癌の回復に専念するため退職した。
+現在の投資家2人によると、OpenAIの財政支援者らはドレッサー氏の発表に驚いており、この件について自由に話すため匿名を希望したという。彼らは、混沌は OpenAI の急速に変化する文化の一部であると述べました。
+ドレッサー氏は、Salesforce で 10 年以上上級職を務め、企業内で高い評価を確立した後、12 月に雇用されました。彼女は、Anthropic と直接競合するビジネスの高利益部門である OpenAI のエンタープライズ部門を成長させる任務を負っていました。
+CNBCと共有された社内Slackメッセージによると、ブロックマン氏は木曜日、従業員に対し、7月のランレート収益は前月比20％以上増加し、その中には法人顧客向けの32％増加も含まれると語ったという。
+「私たちは今、転換点にいます。次世代モデルは、個々のワークフローがどのように行われるかだけでなく、会社を設立し経営することが何を意味するかを変えるでしょう」とブロックマン氏は書いた。 「私たちのチャンスは、こうした機能を経済全体の企業にもたらすことです。」
+会合に詳しい関係者によると、OpenAIの最高財務責任者サラ・フライアー氏は金曜日に投資家との会合を開く予定だという。このイベントはすでに計画されていたが、フライアー氏は経営幹部の刷新に取り組むとみられている。詳細は機密事項であるため匿名を希望した関係者によると、ブロックマン氏も会社戦略について話すために出席する予定だという。
+最近の混乱にもかかわらず、OpenAIは企業顧客に対してその勢いを宣伝している。同社は木曜日、ドレッサー氏のリーダーシップの下、エンタープライズ事業は前年比2倍の200万顧客に成長したと発表した。
+ドレッサー氏は4月、最初の90日間の勤務を終えようとしていた際、CNBCに対し、「これほど早く、一貫して業界内でこれほどの確信が広まったのを見たことがなかった」と語った。同氏は当時、企業収益が同社の収益の40％を占めており、「2026年末までに消費者と同等の水準に達する軌道に乗っている」と述べた。
+その面接の数日前に、ドレッサーはライトキャップの責任の多くを引き継ぐよう抜擢され、社内での彼女の知名度をさらに高めた。
+長年にわたる不安定さ
+採用プロセスについて話す権限はなかったが、この件に詳しい関係者によると、ドレッサー氏の後継者であるラジック氏は、Thrive創設者のジョシュ・クシュナー氏を通じてOpenAIに紹介されたという。 Thrive は OpenAI の最も著名な支援者の 1 つです。
+この件について自由に話すため匿名を希望した元従業員2人によると、OpenAIには長年、採用が早く、解雇も早いという文化があったという。そのうちの 1 人は、環境を圧力鍋として説明しました。
+トップの不安定性は、OpenAI にとっても Altman にとっても目新しいことではありません。
+2023年、アルトマン氏が「一貫して率直なコミュニケーションをとっていなかった」と取締役会が判断したため、アルトマン氏は急遽CEOの職から外された。数日後、投資家がパニックに陥り、従業員が一斉退職すると脅迫される中、アルトマン氏は再び指揮を執った。
+OpenAIの従業員の一部は「突然の出来事」と呼んでいるアルトマン氏の短期間の解任は、それ以来ずっと彼の心に残り続けている。
+この事件は、5月に行われた注目を集めたマスク対アルトマン裁判中に繰り返し取り上げられた。同社の企業構造に関する紛争をめぐり、2024年にオープンAI、アルトマン、ブロックマンを訴えたイーロン・マスク氏の代理人弁護士らは、アルトマン氏の解雇を同氏の人格に疑問を投げかける手段として利用し、同氏は信頼できないと非難した。
+アルトマン氏はカリフォルニア州オークランドの連邦裁判所の証人台で「取締役会を欺こうとしていたわけではない」と証言した。
+マスク氏の弁護士はまた、アルトマン氏の行動について懸念を表明したOpenAI幹部数名についてもアルトマン氏に圧力をかけた。その中には、以前 OpenAI で研究責任者を務めていた Anthropic CEO の Dario Amodei 氏も含まれていました。アルトマン氏は、アモデイ氏が「多くのこと」で自分を非難したと語った。
+裁判では、ブロックマンは指導者としての自身の評判について激しく非難された。マスク氏の弁護士は、OpenAIの共同創設者であるイリヤ・サツケヴァー氏が作成した、ブロックマン氏の業績と経営の問題を強調したメモについてマスク氏に質問した。
+ある弁護士はブロックマン氏に、彼の経営スタイルがOpenAI従業員から激しく批判されていたことを確認するよう求めた。ブロックマンは「その特徴付けには確かに同意しません」と答えた。
+3週間の証言後、諮問陪審はマスク氏がOpenAIとその幹部に対する訴訟を起こすまでに時間がかかりすぎたと述べたが、マスク氏は判決に対して控訴すると明言した。
+今週の出来事はアルトマンの大義には役立っていない。
+ライトキャップ氏の退職後、アルトマン氏はXに関する投稿で長年の同僚に感謝の意を表し、「次のことに協力できることに興奮している」と書いた。
+ドレッサー氏の発表後、そのような投稿はなかった。むしろ、木曜日にアルトマンが X について語った唯一のコメントは、彼が一般に喜んで議論するテーマ、つまり彼の会社の AI モデルに関するものでした。
+新しい GPT-5.6 モデルの「最大 14 倍の速度」である「Ultrafast モード」のプレビューに関する OpenAI アカウントからの投稿に応えて、Altman 氏は「/ultrafast」と書きました。
+注目: OpenAI 収益チーフのデニス・ドレッサー氏が辞任、ここ数日で 2 度目となる主要幹部の辞任`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+    publishedAt: "2026-08-14T18:11:11+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "temporary-ban-on-sale-of-disposable-bbqs-0b4c29f8",
+    title: "Temporary ban on sale of disposable BBQs over wildfire risk",
+    titleJa: "山火事の危険性を理由に使い捨てBBQの販売を一時禁止",
+    summaryJa: "山火事の危険性を理由に使い捨てBBQの販売を一時禁止- 公開されました",
+    bodyOriginal: `Temporary ban on sale of disposable BBQs over wildfire risk
+- Published
+Disposal barbecues have been temporarily banned from sale over fears they pose a "significant risk to the public" as drought and heatwave conditions continue to grip the UK.
+They have been the cause of "a number of serious wildfires across the country over the summer months", the government said.
+A potential ban was first discussed at an emergency Cobra meeting in response to record temperatures earlier this week. Members of the public have also been urged not to light an open fire of any kind and dispose of cigarettes carefully.
+Meanwhile Prime Minister Andy Burnham says the country is like "a tinderbox" as fire crews in the West Midlands continue to battle multiple blazes.
+A total of 1,017 wildfires have been recorded in England and Wales this year, according to data shared by the National Fire Chiefs Council (NFCC), which matches last year's record.
+On Friday evening, an emergency alert was sent to mobile phones warning of a "very high risk of wildfires nationally" across England and Wales.
+The message asked residents, landowners and visitors to not undertake any activity that could cause a fire "including disposable barbecues, firepits, garden incinerators of fireworks".
+It was the most extensive use of the system to date, according to the government.
+Disposable barbecues "cannot be considered a safe product" in the current conditions and they "must not be made available for sale either in store or online at the current time" in Great Britain, according to the advice published by the Department for Business, Innovation, Science and Trade (DBIST)., external
+The ban applies to England, Scotland and Wales, but not Northern Ireland.
+Business Secretary Jonathan Reynolds said the measures were "common-sense steps to protect lives and the environment."
+All retailers will be receiving guidance about the change, which will be kept under review, Burnham told the BBC.
+He also said some of the wildfires burning across the country will have been started by disposable barbecues.
+Speaking to BBC Radio 5 Live's Matt Chorley, the prime minister said: "We've got 37 fires across England and Wales right now, four of them are major incidents."
+He added: "We're going into a difficult weekend, please just think about the situation that we're in.
+"Britain is a tinderbox right now. Setting a fire in any outdoor setting of any kind is a risk to other people's homes, it's a risk to other people's lives, don't do it, please don't do it."
+Many large retailers and supermarkets had already voluntarily stopped selling the devices under a framework agreed in 2023, external between fire chiefs and the British Retail Consortium.
+It said that retailers should suspend sales once an extreme heat event has been declared as imminent, or in response to "reasonable, evidence based" requests from local councils.
+David Skaith, the elected Labour mayor for York and North Yorkshire who has been campaigning for a ban on single-use grills, urged the prime minister to make it permanent.
+He told the BBC: "We know the risks that disposable barbecues have been causing and to have a ban on them is much-needed, much-called-for and I hope it becomes long-term."
+Burnham also said he planned to commission firefighting planes, like those used in Europe and the US, to combat the spread of wildfires.
+The prime minister added that 100 military personnel had been deployed to tackle a blaze in South Wales, offering "critically needed" support.
+He said plans were being drawn up for emergency financial support for fire services battling the spread of wildfires.
+"We have a fire and rescue service across the country that isn't properly set up to deal with these incidents," Burnham said.
+"We don't have the capability in the way that we should have to fight these fires.
+"There's thousands of firefighters out there today doing back-breaking work, in full kit, in the most difficult conditions", he added.
+He said the UK must face up to the "changing climate" and transition to "more clean energy".
+His comments came ahead of the appointment of Baroness Blake of Leeds as fire minister.
+Friends of the Earth urged the prime minister to tackle the "root cause" of the "climate emergency" that is fuelling this summer's extreme weather events.
+"Without urgent action to curb the carbon emissions driving this crisis, future heatwaves, droughts and wildfires will only get worse and the ability for future generations to adapt will disappear" the environmental group warned.
+Burnham was speaking during a visit to Stourbridge to see the impact of a devastating blaze.
+As the UK experienced its hottest day of the year on Thursday, residents fled their homes when fires spread through dry grass and tore through houses.
+West Midlands Ambulance Service said it treated 54 casualties at eight different fires across the region. Nineteen people were taken to hospital for treatment.
+In 2025, fire and rescue services in England and Wales broke a new record when they responded to nearly 1,000 wildfire incidents, with the NFCC warning at the time that climate change is increasing their risk and severity.
+The conditions the UK is experiencing so far this summer also mirror the warnings given by climate scientists that human-induced climate change would lead to more frequent and intense heatwaves, as well as potential summer droughts.
+In England, the Rugby Football Union has delayed the start of the community rugby season because of concerns about player welfare and pitch conditions because of the drought conditions.
+Get in touch
+Are you affected by the issues raised in this story? Let us know
+Related topics
+- Published3 hours ago
+- Published5 November 2025`,
+    bodyJa: `山火事の危険性を理由に使い捨てBBQの販売を一時禁止
+- 公開されました
+干ばつと熱波の状況が英国を襲い続ける中、使い捨てバーベキューは「公衆に重大なリスク」をもたらすとの懸念から一時的に販売が禁止された。
+政府は、これらが「夏の間、全国各地で多数の深刻な山火事」の原因となっていると発表した。
+禁止の可能性は、今週初めの記録的な気温を受けての緊急コブラ会議で初めて議論された。一般の人々に対しても、いかなる種類のたき火も起こさないことと、タバコを慎重に処分することが求められています。
+一方、アンディ・バーナム首相は、ウェスト・ミッドランズの消防団が複数の火災との戦いを続けているため、この国は「火口箱」のようなものだと述べた。
+全国消防署長評議会（NFCC）が共有したデータによると、今年イングランドとウェールズで合計1,017件の山火事が記録されており、これは昨年の記録と一致する。
+金曜日の夜、イングランドとウェールズの全土で「全国的に山火事の危険性が非常に高い」と警告する緊急警報が携帯電話に送信された。
+メッセージでは、住民、地主、訪問者に対し、「使い捨てのバーベキュー、たき火台、庭の花火用焼却炉を含む」火災を引き起こす可能性のある活動を行わないよう求めた。
+政府によると、これはこれまでで最も広範なシステムの使用であったという。
+ビジネス・イノベーション・科学貿易省（DBIST）が発表した勧告によると、使い捨てバーベキューグリルは現状では「安全な製品とは考えられず」、英国では「現時点では店舗でもオンラインでも販売してはならない」という。
+この禁止措置はイングランド、スコットランド、ウェールズに適用されるが、北アイルランドには適用されない。
+ジョナサン・レイノルズ商務長官は、今回の措置は「命と環境を守るための常識的な措置」だと述べた。
+バーナム氏はBBCに対し、すべての小売業者はこの変更に関するガイダンスを受け取り、今後も検討が続けられると語った。
+同氏はまた、全国で発生している山火事の一部は使い捨てのバーベキューグリルによって引き起こされる可能性があると述べた。
+首相はBBCラジオ5ライブのマット・チョーリー氏に対し、「現在イングランドとウェールズで37件の火災が発生しており、そのうち4件は重大な事故だ」と語った。
+さらに「我々は困難な週末を迎えることになるが、我々が置かれている状況を考えてほしい。
+「イギリスは今、火口のような状態だ。屋外での放火は、どのような種類であっても、他人の家や命の危険につながるので、絶対にやめてください。」
+消防署長と英国小売業協会の間で2023年に合意された枠組みに基づいて、多くの大手小売店やスーパーマーケットはすでに自主的に機器の販売を中止していた。
+同報告書は、猛暑が差し迫っていると宣言された場合、または地方議会からの「合理的で証拠に基づく」要請に応じた場合、小売業者は販売を停止すべきだと述べた。
+ヨークとノースヨークシャーの労働党市長に選出され、使い捨てグリルの禁止を求めて運動してきたデビッド・スカイス氏は、首相にそれを恒久化するよう求めた。
+同氏はBBCに対し、「使い捨てバーベキューが引き起こしているリスクは承知しており、その禁止は切望され、切望されており、それが長期化することを願っている」と語った。
+バーナム氏はまた、山火事の拡大を防ぐためにヨーロッパや米国で使用されているような消防用飛行機を配備する計画があると述べた。
+首相は、南ウェールズの山火事に対処するために100人の軍人を派遣し、「緊急に必要な」支援を提供したと付け加えた。
+同氏は、山火事の拡大と闘っている消防団に対する緊急財政支援の計画が策定されていると述べた。
+バーナム氏は、「全国に消防・救助サービスが存在するが、これらの事件に対処するための体制が適切に整備されていない」と述べた。
+「私たちには、これらの火災と戦うために必要な能力がありません。
+「今日、何千人もの消防士がフル装備で、最も困難な状況で骨の折れる仕事をしている」と彼は付け加えた。
+同氏は、英国は「気候変動」に直面し、「よりクリーンなエネルギー」への移行が必要だと述べた。
+同氏のコメントは、リーズのブレイク男爵夫人が消防大臣に任命される前に発表された。
+地球の友らは首相に対し、今夏の異常気象を助長している「気候非常事態」の「根本原因」に取り組むよう求めた。
+「この危機を引き起こしている炭素排出を抑制するための緊急の行動がなければ、将来の熱波、干ばつ、山火事は悪化するばかりで、将来の世代の適応能力は失われるだろう」と環境保護団体は警告した。
+バーナム氏は壊滅的な火災の影響を見るためにスタウアブリッジを訪れた際に講演していた。
+英国は木曜日に一年で最も暑い日を経験したが、火は乾いた草に燃え広がり、家屋を破壊したため、住民は家から避難した。
+ウェスト・ミッドランズ救急サービスは、同地域の8つの異なる火災で54人の死傷者を治療したと発表した。 19人が治療のため病院に搬送された。
+2025年、イングランドとウェールズの消防・救助サービスは、約1,000件の山火事に対応し新記録を樹立したが、当時NFCCは気候変動がリスクと深刻さを増大させていると警告した。
+この夏、英国がこれまでに経験している状況は、人為的な気候変動がより頻繁で激しい熱波や夏の干ばつを引き起こす可能性があるという気候科学者らの警告を反映している。
+イングランドでは、干ばつの状況による選手の福祉とピッチの状態への懸念から、ラグビーフットボール協会がコミュニティラグビーシーズンの開始を遅らせた。
+連絡する
+この話で提起されている問題の影響を受けていますか?お知らせください
+関連トピック
+- 3 時間前に公開
+- 2025 年 11 月 5 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T17:42:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
+    readTime: 6,
+  },
+  {
+    id: "disney-ceo-josh-d-amaro-tells-cnbc-parks-e9fa446f",
+    title: "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
+    titleJa: "ディズニーのCEO、ジョシュ・ダマロ氏、CNBCに対し、前四半期のパークは「大きなサプライズ」だった、同社には「明快さ」と「安定性」があると語った",
+    summaryJa: "ディズニーのジョシュ・ダマロ最高経営責任者（CEO）は金曜、CNBCのジュリア・ブールスティンに対し、同社のパーク部門が前四半期に「大きな驚き」をもたらしたこと、そしてメディア巨人のトップに就任して最初の数カ月間の同社の軌道に自信を持っていると語った。ダマロ氏は「我々は約束したことはすべて遂行している」と語った。 「次にどこへ向かうべきかという点で、組織内は明確になっていると思います。チームは非常に安定しています。つまり、ほぼ半年が経ち、自分の現在の状況についてはかなり良い感触を持っています。」",
+    bodyOriginal: `Disney CEO Josh D'Amaro told CNBC's Julia Boorstin on Friday that the company's parks division was a "big surprise" last quarter and that he feels confident about the company's trajectory during his first few months at the top of the media giant.
+"We're delivering on everything that we said we're going to deliver on," D'Amaro said. "I think there's clarity inside of the organization in terms of where we need to to go next. A lot of stability with the the team. So you know, almost six months in, I'm feeling pretty good about where we are."
+D'Amaro stepped into the role of Disney CEO in March, succeeding Bob Iger after a closely watched succession race and following a turnaround period at the media giant.
+The longtime Disney executive had most recently served as chairman of Disney Experiences, the unit that includes the theme parks, cruise lines and consumer products, and which drives profitability for the company.
+His immediate tasks since assuming the top job have been sustaining momentum in Disney's core growth areas, namely its theme parks and streaming divisions. These areas have been a focus for investors, and in recent quarters, Disney has received a mixed reception from Wall Street.
+"I'm not happy with where the stock stands right now," D'Amaro said Friday. "Our investors aren't happy with that, but I do believe that we're sitting in a very great space relative to the entertainment industry."
+Last week Disney reported quarterly results that once again showcased the strength of parks and streaming, and Wall Street appeared pleased with growth in Disney's theme park segment despite mounting macroeconomic uncertainty for consumers.
+Still, the stock is down more than 8% in the last 12 months.
+On Friday, D'Amaro said that while Disney isn't "immune" to some of the headwinds hitting theme parks, the company is positioned to respond if needed. Still, he fell short of disclosing whether further theme park price increases were coming, and instead said to expect further investments in its destinations.
+Integrating streaming and shopping
+The CEO has previously said that his focus in leading Disney is on investing in intellectual property.
+"This next chapter is about, No. 1, telling great stories. We'll never forget that. We want to move with more speed and urgency than we have before," D'Amaro said. "Embrace technology even more aggressively than we have in the past, and importantly, bring this company together to act like 'One Disney,' which you've heard me say before."
+D'Amaro highlighted the company's flagship streaming service, specifically.
+"We have tremendous scale, growing scale internationally. So as it is today, I feel very good about where Disney+ is," D'Amaro said. "But there are opportunities, obviously, to keep growing it."
+D'Amaro said last week the company is considering a free, ad-supported streaming product as a way to beckon more viewers to Disney+. On Friday, he called the option a potential "front porch" to get viewers in for free who could later become subscribers.
+D'Amaro also noted the need to have all business units working in tandem and hinted at a consumer experience that could mesh viewership with buying products on the same platform.
+"From a streaming perspective, instead of just being a streaming platform, why wouldn't we have all of the elements of Disney come to life right there in front of you," D'Amaro said. "Everyone may not participate in every part of the business. But certainly, if we put the right things in front of the consumer, if it's a seamless fan experience, I think that lifetime value goes up."
+'Not interested in spinning off ESPN'
+In the backdrop of building out streaming, Disney and its media peers have also been contending with the loss of pay-TV bundle customers, which has led to considerable declines in distribution and advertising revenues.
+Live sports, however, remain a major driver for both Disney and other major networks. Disney's ESPN and ABC own the rights to live NFL and NBA, in addition to other pro leagues.
+At the same time, the cost of sports rights has risen dramatically and could become a potential strain on media companies.
+"I've been clear that I'm not interested in spinning off ESPN," D'Amaro said Friday, responding to ongoing rumors and calls from investors to split off the property.
+"I think that anybody in the industry would look at our sports rights and the fandom associated with sports right now, and you can't help but be jealous of what we have here. I mean, ratings are through the roof," he said.
+Media in turmoil
+Despite the strong momentum for Disney, D'Amaro has also faced some drama in his first few months.
+The company's latest round of cost-cutting began weeks after D'Amaro took the helm, with an initial round of layoffs affecting nearly 1,000 employees. Most recently the company reportedly cut several hundred employees from its ESPN, Pixar and National Geographic divisions.
+The media industry at large has been shapeshifting in recent months, including the proposed merger between Paramount Skydance and Warner Bros. Discovery as well as Comcast's planned spinout of NBCUniversal.
+D'Amaro, however, told CNBC on Friday he wasn't considering any such significant moves.
+The CEO has also been faced with increasing political pressure and scrutiny, particularly around Disney's ABC. The broadcast network has faced backlash from the Trump administration and Federal Communications Commission Chairman Brendan Carr for its "Jimmy Kimmel Live!" and "The View" programs.
+The FCC has also opened an early review of Disney's broadcast station licenses following concerns around the company's diversity, equity and inclusion efforts. Disney has shot back at the FCC throughout the early renewal process, calling it an "unlawful, arbitrary, and unconstitutional order."
+"I think you saw in our FCC filings our position on this is clear," D'Amaro said on Friday. "We're very principled on this. We're going to stand up to what we believe is journalistic and integrity, and we're not going to be told how to run that side of our business."`,
+    bodyJa: `ディズニーのジョシュ・ダマロ最高経営責任者（CEO）は金曜、CNBCのジュリア・ブールスティンに対し、同社のパーク部門が前四半期に「大きな驚き」をもたらしたこと、そしてメディア巨人のトップに就任して最初の数カ月間の同社の軌道に自信を持っていると語った。
+ダマロ氏は「我々は約束したことはすべて遂行している」と語った。 「次にどこへ向かうべきかという点で、組織内は明確になっていると思います。チームは非常に安定しています。つまり、ほぼ半年が経ち、自分の現在の状況についてはかなり良い感触を持っています。」
+ダマロ氏は、注目を集めた後継者争いとメディア大手の再建期間を経て、3月にボブ・アイガー氏の後任としてディズニーのCEOに就任した。
+長年ディズニーの幹部を務めてきた同氏は、つい最近までディズニー・エクスペリエンス（テーマパーク、クルーズ会社、消費者向け商品を含む部門）の会長を務めており、同社の収益性を推進していた。
+トップに就任して以来、彼の当面の任務は、ディズニーの中核成長分野、すなわちテーマパークとストリーミング部門の勢いを維持することにある。これらの分野は投資家にとって注目されており、ここ数四半期、ディズニーはウォール街からさまざまな評価を受けている。
+ダマロ氏は金曜日、「株価の現状に満足していない」と語った。 「当社の投資家はこれに満足していませんが、エンターテインメント業界と比較すると、当社は非常に優れた地位にあると信じています。」
+ディズニーは先週、パークとストリーミングの強さを改めて示す四半期決算を報告し、消費者にとってマクロ経済の不確実性が高まっているにもかかわらず、ウォール街はディズニーのテーマパーク部門の成長に満足しているようだった。
+それでも、株価は過去12カ月で8％以上下落している。
+金曜日、ダマロ氏は、ディズニーはテーマパークを襲う逆風の一部に「無縁」ではないが、必要に応じて対応する立場にあると述べた。それでも同氏は、テーマパークのさらなる値上げが予定されているかどうかについては明らかにせず、代わりにテーマパークの目的地へのさらなる投資を期待していると述べた。
+ストリーミングとショッピングの統合
+同CEOは以前、ディズニーを率いる上で知的財産への投資に重点を置いていると述べていた。
+「次の章は、第一に、素晴らしいストーリーを伝えることだ。私たちはそれを決して忘れない。私たちはこれまでよりもスピードと緊急性を持って進みたい」とダマロ氏は語った。 「これまでよりもさらに積極的にテクノロジーを採用し、重要なことは、この会社を団結させて、私が以前言ったことがある『ワン・ディズニー』のように行動することです。」
+D'Amaro 氏は、同社の主力ストリーミング サービスを特に強調しました。
+「私たちは途方もない規模を持っており、国際的にも規模が拡大しています。したがって、今日のように、Disney+がどのような状況にあるのかについて非常に満足しています」とダマロ氏は言いました。 「しかし、成長を続けるチャンスは明らかにあります。」
+ダマロ氏は先週、同社がより多くの視聴者をDisney+に誘う方法として、広告付きの無料ストリーミング製品を検討していると述べた。同氏は金曜日、このオプションは、後に加入者になる可能性のある視聴者を無料で獲得するための「フロントポーチ」の可能性があると述べた。
+ダマロ氏はまた、すべての事業部門が連携して取り組む必要性を指摘し、同じプラットフォーム上で視聴者と商品購入を結びつける消費者体験を示唆した。
+「ストリーミングの観点から見ると、単なるストリーミングプラットフォームではなく、ディズニーのすべての要素を目の前で実現できないのではないか」とダマロ氏は語った。 「誰もがビジネスのすべての部分に参加しているわけではないかもしれません。しかし、確かに、消費者の目の前に正しいものを提供すれば、それがシームレスなファン体験であれば、生涯価値は上がると思います。」
+「ESPNのスピンオフには興味がない」
+ストリーミングの強化を背景に、ディズニーとそのメディア各社も有料テレビバンドル顧客の喪失と闘っており、それが配給収入と広告収入の大幅な減少につながっている。
+しかし、ライブスポーツは依然としてディズニーと他の主要ネットワークの両方にとって主要な推進力です。ディズニーの ESPN と ABC は、他のプロリーグに加えて、NFL と NBA の生放送の権利を所有しています。
+同時に、スポーツ放映権のコストが大幅に上昇しており、メディア企業にとって潜在的な負担となる可能性がある。
+ダマロ氏は金曜日、現在も続く噂や投資家からの分割を求める声に応え、「ESPNのスピンオフには興味がないことは明白だ」と語った。
+「業界にいる人なら誰でも、今の私たちのスポーツの権利とスポーツに関連するファンダムに目を向けると思います。そして、私たちがここに持っているものに嫉妬せずにはいられないでしょう。つまり、視聴率は天井を突き抜けています」と彼は言いました。
+混乱するメディア
+ディズニーの勢いが強いにもかかわらず、ダマロ氏も最初の数カ月でいくつかのドラマに直面した。
+同社の最新のコスト削減はダマロ氏が指揮を執ってから数週間後に始まり、最初の一時解雇では約1,000人の従業員が影響を受けた。つい最近、同社はESPN、ピクサー、ナショナル ジオグラフィック部門から数百人の従業員を削減したと報じられた。
+パラマウント・スカイダンスとワーナー・ブラザース・ディスカバリーの合併提案や、コムキャストによるNBCユニバーサルのスピンアウト計画など、メディア業界全体がここ数カ月で変化している。
+しかしダマロ氏は金曜日、CNBCに対し、そのような重大な動きは検討していないと語った。
+CEOはまた、特にディズニーのABCを巡る政治的圧力と監視の増大にも直面している。同放送ネットワークは、「ジミー・キンメル・ライブ！」に対して、トランプ政権と連邦通信委員会のブレンダン・カー委員長からの反発に直面している。および「ザ・ビュー」プログラム。
+FCCはまた、ディズニーの多様性、公平性、包括性への取り組みに対する懸念を受けて、ディズニーの放送局ライセンスの早期審査を開始した。ディズニーは、初期の更新手続きを通じてFCCを「違法かつ恣意的かつ憲法違反の命令」と呼んで反撃してきた。
+ダマロ氏は金曜日、「我々のFCC提出書類をご覧になったと思うが、これに関する我々の立場は明らかだ」と語った。 「私たちはこれに関して非常に原則を持っています。私たちはジャーナリズムと誠実であると信じているものに立ち向かうつもりであり、私たちのビジネスのその側面をどのように運営するかを指示されるつもりはありません。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
+    publishedAt: "2026-08-14T16:27:45+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "court-rules-companies-can-t-import-gilea-1d2eb581",
+    title: "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
+    titleJa: "裁判所、企業が海外からギリアドの医薬品を輸入できないと裁定、AFPの保健プログラムに打撃",
+    summaryJa: "今週、ギリアド・サイエンシズに有利な裁判所の判決が下されれば、連邦当局が海外から医薬品を違法に輸入していると主張する米国で急成長している医療プログラムに大きな影響を与える可能性がある。昨年のCNBCの調査では、医薬品価格が高騰する中、代替資金提供プログラム（AFP）と呼ばれるこうしたプログラムが全米にさらに普及しつつあることが判明した。しかし、米当局は、AFPが食品医薬品局の規制に違反して国際市場から医薬品を輸入していると主張している。",
+    bodyOriginal: `A court ruling this week in favor of Gilead Sciences could significantly impact a burgeoning class of health programs in the U.S. that federal authorities say are illegally importing medications from overseas.
+Last year, a CNBC investigation found that these programs — called alternative funding programs, or AFPs — were becoming more pervasive around the country as drug costs skyrocket. Yet U.S. authorities say AFPs import the drugs from international markets in violation of Food and Drug Administration regulations.
+A U.S. Court of Appeals on Thursday upheld a preliminary injunction in the case filed by Gilead against several AFPs and related businesses. Patient advocacy groups say the decision could force AFPs to shrink dramatically or even go out of business.
+AFPs have defended their practices as both legal and safe and say their businesses are an antidote to high prescription drug prices.
+In December 2024, Gilead sued several companies in connection with what it claimed was the illegal importation of its HIV drug Biktarvy. The suit was filed after a Maryland patient received the drug in the mail from Turkey with label instructions in Turkish.
+The suit targeted an AFP called Rx Valet and several affiliated companies. Gilead also sued Meritain Health, which manages employee health plans and is part of CVS Health-owned Aetna, and Pro-Act, a pharmacy benefits manager.
+"Meritain has long maintained a policy that it does not support programs for non-FDA-approved medications sourced from outside the United States and does not contract with companies to facilitate the importation of non-FDA-approved medications sourced from outside the United States," Aetna spokesperson Phil Blando said in a statement. "Despite this policy, Meritain was named as a defendant in a lawsuit filed by Gilead concerning international drug sourcing. Meritain strongly disputes the allegations and is vigorously defending itself against the complaint."
+Rx Valet did not return a request for comment from CNBC.
+AFPs generally maintain the medicines they import from overseas are the same as ones sold in the U.S.
+The court this week disagreed, finding that the differences between Gilead's U.S. medications and the international medications imported by defendants were "material, not theoretical," and that by importing medicines through unauthorized foreign channels, the defendants bypassed Gilead's supply chain.
+"What Gilead sells in Turkey and what it sells in Maryland share a chemical formula but materially differ and travel through different quality-control system," the ruling said.
+In a statement, a Gilead spokesman said the ruling helps protect patients by keeping medicines that are outside FDA oversight and quality safeguards out of the U.S. supply chain.
+Shabbir Imber Safdar, executive director of the Partnership for Safe Medicines, a coalition of nonprofit and pharmaceutical industry groups, said the court's decision is clear that "you cannot import untraceable medicine with foreign-language labels, hand it to American patients, and call it equivalent to an FDA-approved medicine."`,
+    bodyJa: `今週、ギリアド・サイエンシズに有利な裁判所の判決が下されれば、連邦当局が海外から医薬品を違法に輸入していると主張する米国で急成長している医療プログラムに大きな影響を与える可能性がある。
+昨年のCNBCの調査では、医薬品価格が高騰する中、代替資金提供プログラム（AFP）と呼ばれるこうしたプログラムが全米にさらに普及しつつあることが判明した。しかし、米当局は、AFPが食品医薬品局の規制に違反して国際市場から医薬品を輸入していると主張している。
+米国控訴裁判所は木曜日、ギリアド社が複数のAFPおよび関連企業に対して起こした訴訟の仮差し止め命令を支持した。患者擁護団体は、今回の決定によりAFPは大幅な縮小、あるいは廃業に追い込まれる可能性があると主張している。
+AFPは自社の業務は合法かつ安全であると擁護し、自社のビジネスが高額な処方薬価格への対抗策であると主張している。
+2024年12月、ギリアドは自社のHIV治療薬「ビクタルビ」の不法輸入に関連して数社を告訴した。この訴訟は、メリーランド州の患者がトルコからラベルの説明書がトルコ語で記載された郵便でこの薬を受け取った後に起こされた。
+この訴訟は、Rx Valetと呼ばれるAFPと数社の関連会社を標的とした。ギリアドはまた、従業員の健康計画を管理し、CVS Health傘下のAetnaの一部であるMertain Healthと、薬局福利厚生管理会社のPro-Actも訴えた。
+エトナの広報担当フィル・ブランド氏は声明で、「メリテインは、米国外から調達されるFDA未承認医薬品のプログラムをサポートせず、米国外から調達されるFDA未承認医薬品の輸入を促進する企業と契約しないという方針を長年維持してきた」と述べた。 「この方針にもかかわらず、メリテインは、国際的な医薬品調達に関してギリアドが起こした訴訟の被告として指名された。メリテインはこの申し立てに強く異議を唱えており、告訴に対して精力的に弁護している。」
+Rx Valet氏はCNBCからのコメント要請に返答しなかった。
+AFPは通常、海外から輸入する医薬品は米国で販売されている医薬品と同じであると主張している。
+裁判所は今週これに異議を唱え、ギリアドの米国医薬品と被告らが輸入した海外医薬品との違いは「理論的ではなく実質的」であり、被告らは無許可の海外ルートを通じて医薬品を輸入することでギリアドのサプライチェーンを迂回したと認定した。
+「ギリアド社がトルコで販売しているものとメリーランド州で販売しているものは化学式は共通しているが、大きく異なり、異なる品質管理システムを経ている」と判決は述べた。
+ギリアドの広報担当者は声明で、今回の判決はFDAの監督や品質保護の対象外となる医薬品を米国のサプライチェーンから排除することで患者を保護するのに役立つと述べた。
+非営利団体と製薬業界団体の連合体である「安全な医薬品のためのパートナーシップ」のエグゼクティブディレクター、シャビル・インバー・サフダール氏は、裁判所の決定は「外国語のラベルが付いた追跡不可能な医薬品を輸入し、米国の患者に渡し、それをFDAが承認した医薬品と同等と呼ぶことはできない」ということは明らかだと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
+    publishedAt: "2026-08-14T16:27:07+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "electric-vehicle-sales-targets-could-be-7af1f860",
+    title: "Electric vehicle sales targets could be cut after pressure from car makers",
+    titleJa: "自動車メーカーからの圧力を受け、電気自動車の販売目標が引き下げられる可能性がある",
+    summaryJa: "自動車メーカーからの圧力を受け、電気自動車の販売目標が引き下げられる可能性がある- 公開されました",
+    bodyOriginal: `Electric vehicle sales targets could be cut after pressure from car makers
+- Published
+The UK's electric vehicle (EV) sales target could be cut after the government launched a review following pressure from car makers.
+Currently, manufacturers must ensure a percentage of the cars they sell each year are zero emissions, with the target rising each year to reach 80% by 2030.
+The government has now said it is considering cutting that figure to as far as 50% of all sales by the end of the decade, which it will consult on until late October.
+Environmental groups have argued that watering down the target undermines the UK's long-term climate goals.
+Under the current policy, known as the ZEV mandate, the percentage of new car sales that need to be EVs increases each year, from 33% for 2026 until it reaches 80% by 2030. It started at 22% in 2024.
+An outright ban on selling purely petrol or diesel cars past 2030 will stay in place, something that Labour promised in its election manifesto.
+However the changes now being consulted on could allow car makers to sell more hybrid vehicles as a proportion of the UK's overall sales.
+That means if the government drops pure electric sales targets to 50%, the other 50% would need to be hybrid.
+Another option would be keeping the target at 80% but with flexibility for car makers extending as far as 2034.
+A longer term deadline for phasing out new hybrid sales would also remain in place for 2035.
+The policy on EV sales has already changed a lot over the years.
+A ban on selling new petrol and diesel vehicles by 2030 was first announced by Boris Johnson when he was prime minister, then pushed back to 2035 by his successor Rishi Sunak.
+Sunak also introduced more gradual targets for EV sales under the ZEV mandate.
+Labour has previously accused previous Conservative governments of "moving goalposts on phase out dates".
+It comes after motor industry figures urged ministers to ease the targets, arguing that demand for electric vehicles isn't yet high enough, and meeting them is costing manufacturers too much money.
+That is despite electric cars making up a quarter of total sales in the UK over the first seven months of the year, according to the Society of Motor Manufacturers and Traders (SMMT).
+The Climate Change Committee, which advises the government, has said switching from diesel and petrol engines to EVs will be the most effective way of cutting carbon emissions over the next decade.
+Transport Secretary, Heidi Alexander said on Friday: "It's right we keep targets under review to ensure they're practical and back British industry.
+"The end goal hasn't changed – but we need to take business with us on the journey, and that's exactly what we're doing today, by making sure industry has the chance to shape how we get there."
+Lisa Brankin, managing director of Ford of Britain, welcomed the government's "willingness to listen" to car makers, adding: "It is vital to give the industry and customers the certainty that we need."
+Mike Hawes, boss of the SMMT, the primary car industry lobby group, added that the ZEV mandate was "conceived under vastly different conditions".
+He called the review "a timely opportunity to adjust the transition so it works for all".
+Electric car advocates and climate groups criticised the move.
+Tanya Sinclair, the boss of industry group Electric Vehicles UK, criticised the government for "asking whether we should extend the availability of polluting vehicles amid our hottest summer on record."
+The Energy & Climate Intelligence Unit, a thinktank, calculated that cutting the EV sales target to 50% would mean 2.6 million fewer electric cars on the roads by 2035.
+Gurjeet Grewal, chief of Octopus Electric Vehicles, added that weakening the mandate "would send exactly the wrong signal, just as EVs are becoming some of the best-value cars on the road".
+The rapid rise in petrol prices caused by the Iran war has also caused interest in electric cars to spike around the world as a consumer spending measure.
+The Green Alliance said watering down targets would "lock in avoidable emissions while undermining the certainty manufacturers need to invest".
+Related topics
+- Published15 December 2025
+- Published16 December 2025`,
+    bodyJa: `自動車メーカーからの圧力を受け、電気自動車の販売目標が引き下げられる可能性がある
+- 公開されました
+英国の電気自動車（EV）販売目標は、自動車メーカーからの圧力を受けて政府が見直しに着手したことを受け、引き下げられる可能性がある。
+現在、メーカーは毎年販売する自動車の一定割合をゼロエミッション車にする必要があり、目標は年々上昇し、2030年までに80％に達する。
+政府は現在、この数字を20年末までに全売上高の50％まで削減することを検討していると発表しており、10月末まで協議する予定だ。
+環境保護団体は、目標を骨抜きにすることは英国の長期的な気候変動目標を損なうことになると主張している。
+ZEV義務化として知られる現在の政策では、新車販売に占めるEVの割合は年々増加し、2026年の33％から2030年には80％に達する。2024年には22％となった。
+労働党が選挙マニフェストで約束した、純粋なガソリン車またはディーゼル車の販売を2030年以降も完全に禁止することは継続される。
+しかし、現在協議されている変更により、自動車メーカーは英国全体の売上高に占めるハイブリッド車の販売台数を増やすことが可能になる可能性がある。
+つまり、政府が純電気販売目標を50％に引き下げた場合、残りの50％はハイブリッド車にする必要があるということだ。
+もう1つの選択肢は、目標を80％に維持しつつ、自動車メーカーが2034年まで柔軟に対応できるようにすることだ。
+新規ハイブリッド販売の段階的廃止に関する長期期限も2035年まで維持される。
+EV販売に関する方針は、ここ数年ですでに大きく変化している。
+2030年までに新しいガソリン車とディーゼル車の販売を禁止することは、ボリス・ジョンソン首相が首相だったときに初めて発表したが、その後、後継者のリシ・スナック氏によって2035年に延期された。
+スナク氏はまた、ZEV義務に基づくEV販売のより段階的な目標も導入した。
+労働党は以前、これまでの保守党政権が「段階的廃止の日にゴールポストを動かしている」と非難していた。
+これは、電気自動車の需要がまだ十分に高くなく、目標を達成するにはメーカーに多大な費用がかかりすぎるとして、自動車業界の関係者が各大臣に目標を緩和するよう要請したことを受けてのことだ。
+自動車製造貿易協会（SMMT）によると、今年最初の7カ月間で英国の総販売台数の4分の1を電気自動車が占めていたにもかかわらずだ。
+政府に助言する気候変動委員会は、ディーゼルエンジンやガソリンエンジンからEVへの切り替えが、今後10年間で二酸化炭素排出量を削減する最も効果的な方法になると述べた。
+ハイジ・アレクサンダー運輸長官は金曜日、「目標が現実的で英国産業を支援するものであることを確認するために、目標を検討し続けるのは正しいことだ」と述べた。
+「最終目標は変わっていません。しかし、私たちはその旅にビジネスを持ち込む必要があり、それがまさに私たちが今日行っていることであり、業界が私たちがそこに到達する方法を形作る機会を確実に得ることができるようにすることです。」
+英国フォードのマネージングディレクター、リサ・ブランキン氏は、自動車メーカーの「耳を傾ける」政府の姿勢を歓迎し、「業界と顧客に我々が必要とする確実性を与えることが極めて重要だ」と付け加えた。
+自動車業界の主要ロビー団体であるSMMTのボス、マイク・ホーズ氏は、ZEV義務化は「全く異なる条件の下で考案された」と付け加えた。
+同氏は今回の見直しを「すべての人にとってうまくいくように移行を調整するタイムリーな機会」だと述べた。
+電気自動車支持者や気候変動団体はこの動きを批判した。
+業界団体「英国電気自動車」のトップ、ターニャ・シンクレア氏は「記録的な猛暑の夏に、汚染車両の利用可能期間を延長すべきかどうかを問うている」として政府を批判した。
+シンクタンクのエネルギー・気候インテリジェンス・ユニットは、EV販売目標を50％に引き下げると、2035年までに道路を走る電気自動車が260万台減ると試算した。
+オクトパス・エレクトリック・ビークルズの責任者、ガージート・グルワル氏は、義務を弱めることは「EVが道路上で最も価値のある車の一部になりつつあるのと同じように、まさに誤った信号を送ることになるだろう」と付け加えた。
+イラン戦争によるガソリン価格の高騰も、個人消費対策として世界中で電気自動車への関心を高めている。
+グリーン・アライアンスは、目標の骨抜きは「製造業者が投資する必要がある確実性を損なう一方で、回避可能な排出量を閉じ込める」ことになると述べた。
+関連トピック
+- 2025 年 12 月 15 日公開
+- 2025 年 12 月 16 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T15:58:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg",
+    readTime: 5,
+  },
+  {
+    id: "trump-asks-supreme-court-to-let-white-ho-ad11d12c",
+    title: "Trump asks Supreme Court to let White House ballroom construction continue",
+    titleJa: "トランプ大統領、最高裁判所にホワイトハウスの宴会場の建設継続を許可するよう要請",
+    summaryJa: "連邦控訴裁判所が4億ドルの建設プロジェクトの中止を命じてから1週間後、金曜日、ドナルド・トランプ大統領は最高裁判所に対し、ホワイトハウスのボールルームの建設継続を許可するよう要請した。トランプ政権は、大統領が昨年議会に通知せずに取り壊したホワイトハウス東棟跡地でのさらなる建設に対する下級裁判所の仮差し止め命令を最高裁判所が直ちに差し止めることを望んでいる。",
+    bodyOriginal: `President Donald Trump on Friday asked the Supreme Court to allow construction of his White House ballroom to continue, one week after a federal appeals court ordered that the $400 million building project must come to a stop.
+The Trump administration wants the Supreme Court to immediately block the lower court's preliminary injunction on further construction at the former site of the White House's East Wing, which the president had ripped down last year without notifying Congress.
+The Aug. 7 ruling from the U.S. Court of Appeals for the District of Columbia Circuit upheld an injunction issued by a federal district judge. The injunction is currently set to take effect next Friday, Aug. 21.
+Trump has increasingly argued that building the ballroom is a matter of national security and military readiness because it will include what he describes as a "drone port" on its roof.
+In Friday's Supreme Court application, U.S. Solicitor General D. John Sauer highlighted the building's function as a military asset.
+"This case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex, including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security," Sauer wrote.
+If the appellate court's block is allowed to take effect, it "would wrongfully install a single district judge as sole arbiter of what further construction is 'strictly necessary' to protect the safety of the President, his family, staff members, and visitors to the White House, including foreign dignitaries, and presidents and prime ministers of other countries," Sauer wrote.`,
+    bodyJa: `連邦控訴裁判所が4億ドルの建設プロジェクトの中止を命じてから1週間後、金曜日、ドナルド・トランプ大統領は最高裁判所に対し、ホワイトハウスのボールルームの建設継続を許可するよう要請した。
+トランプ政権は、大統領が昨年議会に通知せずに取り壊したホワイトハウス東棟跡地でのさらなる建設に対する下級裁判所の仮差し止め命令を最高裁判所が直ちに差し止めることを望んでいる。
+米国コロンビア特別区巡回区控訴裁判所の8月7日の判決は、連邦地方判事による差し止め命令を支持した。この差し止め命令は現在、来週金曜日、8月21日に発効する予定となっている。
+トランプ大統領は、ボールルームの屋上には同氏が「ドローンポート」と呼ぶものが設置されるため、ボールルームの建設は国家安全保障と軍事準備の問題だと主張することが増えている。
+金曜日の最高裁判所への申請の中で、米国法務長官D.ジョン・ザウアーは、この建物の軍事資産としての機能を強調した。
+「この訴訟には、国家安全保障上極めて必要な、完全に安全な宴会場スペースを含むホワイトハウス東棟で進行中の統合軍事複合施設の建設を中止する異例かつ違法な差し止め命令が含まれている」とザウアー氏は書いた。
+もし控訴裁判所の差し止めの発効が認められれば、「大統領とその家族、職員、外国の高官や他国の大統領や首相を含むホワイトハウス訪問者の安全を守るために、さらなる工事が『絶対に必要』であるかどうかについて、単一の地方判事が不当に単独の仲裁者として任命されることになる」とザウアー氏は書いた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+    publishedAt: "2026-08-14T15:11:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "10-year-treasury-yield-is-little-changed-70e8b13c",
     title: "10-year Treasury yield is little changed after weak retail sales data",
     titleJa: "小売売上高統計が低迷しても10年米国債利回りはほとんど変化なし",
@@ -1329,510 +1795,6 @@ Frasers Group owns several high street retail chains and luxury fashion brands i
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a892/live/8a5b37d0-9714-11f1-bb91-6bb44c42ed47.jpg",
     readTime: 4,
-  },
-  {
-    id: "wholesale-prices-were-flat-in-july-below-9db53d0a",
-    title: "Wholesale prices were flat in July, below expectations for 0.2% increase",
-    titleJa: "7月の卸売物価は横ばいで、予想の0.2％上昇を下回った。",
-    summaryJa: "労働統計局が木曜日に発表した製品とサービスの卸売コストは7月に横ばいであり、インフレの最新の明るい兆候となった。基調的なインフレ圧力の指標である生産者物価指数は、ダウ・ジョーンズのコンセンサス予想の0.2％を下回り、6月に0.1％下落した後、今月は変わらずだった。 ６月の数字は前回発表の０．３％減から修正された。",
-    bodyOriginal: `Wholesale costs for goods and services were flat in July, the Bureau of Labor Statistics reported Thursday in the latest positive sign for inflation.
-The producer price index, a measure of underlying inflation pressures, was unchanged for the month, below the 0.2% Dow Jones consensus estimate and after falling 0.1% in June. The June figure was revised from a previously reported decline of 0.3%.
-Excluding food and energy, the core PPI rose 0.2%, against the forecast for a 0.3% gain. The core PPI excluding trade services increased 0.4%.
-On an annual basis, the headline PPI increased 4.7% for the all-items index and 4.2% for core, according to unadjusted figures.
-The report follows several other indicators telling a similar story – that after a ramp-up in inflation earlier this year fueled by the Iran war and President Donald Trump's tariffs, the rate of price increases is beginning to ease.
-Stock market futures were positive after the report while Treasury yields were lower. Traders further reduced the odds for a September rate hike from the Federal Reserve.
-"Net, net, pipeline pressures at the lower stages of production are not adding to the inflation risks the consumer faces," said Chris Rupkey, chief economist at Fwdbonds. "It counts as good news that for a second consecutive month, PPI final demand prices have not gone up adding to the cost of living crisis faced by Americans."
-Services prices rose 0.2% for the month, pushed by a 6.5% surge in portfolio management, a category that can show outsized gains in the first month of the quarter due to reporting requirements.
-Goods prices fell 0.7%, helped by a 3.1% decrease in energy, including a 5.7% slide in the gasoline index. Food prices fell 0.9% though core goods prices rose 0.1%.
-Federal Reserve officials have been weighing the various inputs to the price picture as several key officials have been pushing for interest rate hikes to get inflation back to the central bank's 2% target.
-On Wednesday, the BLS reported that the consumer price index rose just 0.1% in July as falling energy prices during the month helped lower price pressures. However, the headline annual inflation rate of 3.4% was still well above the Fed's goal.
-Core consumer inflation was considerably tamer, posting a 0.2% monthly gain and 2.5% annual rate that put the level back to where it was prior to the start of the war.
-Market expectations have switched in recent days, with traders now pricing in a rate hike in October or December after putting heavy odds that the Federal Open Market Committee would move at its next meeting on Sept. 15-16.
-In other economic news Thursday, initial jobless claims rose to a seasonally adjusted 209,000 for the week ended Aug. 8, up 9,000 from the prior period and above the 204,000 estimate.`,
-    bodyJa: `労働統計局が木曜日に発表した製品とサービスの卸売コストは7月に横ばいであり、インフレの最新の明るい兆候となった。
-基調的なインフレ圧力の指標である生産者物価指数は、ダウ・ジョーンズのコンセンサス予想の0.2％を下回り、6月に0.1％下落した後、今月は変わらずだった。 ６月の数字は前回発表の０．３％減から修正された。
-食品とエネルギーを除くコアＰＰＩは予想の０．３％上昇に対し０．２％上昇した。貿易サービスを除くコアＰＰＩは０．４％上昇した。
-未調整の数値によると、年間ベースで総合PPIは全項目指数で4.7%上昇、コア指数で4.2%上昇した。
-この報告書は、イラン戦争とドナルド・トランプ大統領の関税によって今年初めにインフレが加速した後、物価上昇率が緩和し始めているという同様の内容を伝える他のいくつかの指標を踏襲している。
-報道後、株式市場先物相場は上昇したが、米国債利回りは低下した。トレーダーらは米連邦準備理事会（ＦＲＢ）が９月に利上げを行う可能性をさらに引き下げた。
-フォワードボンズの首席エコノミスト、クリス・ラプキー氏は「生産の下位段階におけるパイプラインの正味の圧力は、消費者が直面するインフレリスクを増大させていない」と述べた。 「２カ月連続でＰＰＩ最終需要価格が上昇せず、米国人が直面する生活費危機をさらに悪化させていないことは朗報とみられる。」
-サービス価格は同月で0.2％上昇したが、これはポートフォリオ管理の6.5％上昇に押され、ポートフォリオ管理は報告義務により四半期初月に大幅な上昇を示す可能性があるカテゴリーだった。
-商品価格は０．７％下落したが、これはガソリン指数の５．７％下落を含むエネルギーの３．１％下落に支えられた。コア財価格は０．１％上昇したものの、食品価格は０．９％下落した。
-インフレ率を中銀の目標である２％に戻すために複数の主要当局者が利上げを推進している中、連邦準備理事会当局者らは物価情勢へのさまざまな要因を検討している。
-水曜日、BLSは、同月のエネルギー価格下落が物価圧力の低下に寄与したため、7月の消費者物価指数はわずか0.1％上昇したと報告した。しかし、主要な年間インフレ率である3.4%は依然としてFRBの目標を大きく上回っていた。
-コア消費者インフレは大幅に抑制され、月間上昇率 0.2%、年率 2.5% を記録し、戦争開始前の水準に戻りました。
-市場の予想はここ数日で切り替わっており、トレーダーらは連邦公開市場委員会が９月１５─１６日の次回会合で政策を決定する可能性が高いとの見方を示し、現在は１０月か１２月の利上げを織り込んでいる。
-木曜日の他の経済ニュースでは、8月8日までの週の新規失業保険申請件数は季節調整済みで20万9,000件に増加し、前期比9,000件増加し、予想の20万4,000件を上回った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-    publishedAt: "2026-08-13T13:18:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "water-bills-set-to-rise-for-many-after-f-bb05ff4d",
-    title: "Water bills set to rise for many after firms permitted extra funding",
-    titleJa: "企業が追加資金を許可したことで、多くの人にとって水道料金が値上がりする見通し",
-    summaryJa: "企業が追加資金を許可したことで、多くの人にとって水道料金が値上がりする見通し- 公開されました",
-    bodyOriginal: `Water bills set to rise for many after firms permitted extra funding
-- Published
-Water companies have been given the green light to increase bills for customers by an extra £3.4bn in coming years to meet increased pressures on infrastructure and the environment.
-Nearly a third of the extra funding provisionally approved for 13 water companies in England and Wales is earmarked for making sure water services are maintained.
-Some of the rest will be used to meet rising demand from housebuilding and data centres and to address pollutants known as "forever chemicals".
-Prime Minister Andy Burnham said the proposal was "real money out of family budgets at a time when they are struggling with the cost of living", and an environmental group described the decision as "an insult".
-Customers of five water companies - Severn Trent Water, Southern Water, Thames Water, Wessex Water, and South East Water - are facing additional bill rises over the next two years, on top of increases that were already announced in 2024.
-The new increases will vary between firms.
-Southern, for example, will charge £43 extra next year, while South Eastern will only charge £1 more in 2029. The increases will only come into effect if they are given final approval later this year.
-The other eight water firms identified - Anglian Water, Dwr Cymru Welsh Water, Hafren Dyfrdwy, Northumbrian Water, Wouth West Water, United Utiliites, Yorkshire Water, SES Water - would recover their additional spending through customer bills after 2030.
-Many consumers are angry at being asked to pay anything more against a backdrop of interruptions to supply sometimes lasting for days, and rivers, lakes and beaches too polluted to use safely.
-But water companies argue that these problems can only be solved by boosting spending to replace pipes, build treatment plants and establish new reservoirs.
-'Deliver or face clawback'
-The regulator, Ofwat, said the extra spending would enable the firms to support growth and better environmental outcomes, and ensure important upgrades were not delayed.
-"We will track performance to ensure companies are delivering the expected improvements for customers and the environment," said Helen Campbell, executive director for delivery at Ofwat.
-"If they don't, expenditure can be clawed back."
-Water companies need approval from the regulator, Ofwat, to raise customers' bills, a process that takes place every five years to set spending budgets for the years ahead.
-This decision to allow increased charges comes on top of already-agreed bill rises that were negotiated with the water companies in 2024.
-The process allows firms to apply for additional funds for projects that were not known about at the time of the last review.
-As part of the outlined increase, Ofwat has approved funding for schemes including provision for new data centres in Manchester, additional wastewater capacity in Newquay and to bring forward work by Wessex Water to tackle PFAS pollutants, originally planned for 2030-35.
-However, the decision is provisional. There is a period of public consultation, with a final decision due in December.
-'No blank cheque'
-Ofwat said water companies had submitted a total of £4.3bn worth of requests, but some of their proposed extra spending had been rejected.
-Burnham said he understood why people were angry as they had been asked to pay more for years while pollution incidents and leaks continued.
-"Where water companies seek to pass unnecessary costs onto households, they will be challenged," he said.
-Amy Fairman, from campaign group River Action, said: "Ofwat waving through yet more water bill hikes is an insult."
-Water companies had failed to make sufficient investment over the last 30 years, she said, leaving customers with "leaks, pollution and soaring bills".
-There should be greater public control of water companies, she added. "No more blank cheques for failure."
-Related topics
-- Published19 hours ago
-- Published2 days ago
-- Published31 July`,
-    bodyJa: `企業が追加資金を許可したことで、多くの人にとって水道料金が値上がりする見通し
-- 公開されました
-水道会社には、インフラや環境への圧力の高まりに対応するため、今後数年間で顧客への請求額をさらに34億ポンド増やす許可が与えられている。
-イングランドとウェールズの水道会社 13 社に対して暫定的に承認された追加資金の 3 分の 1 近くは、水道サービスの維持に充てられています。
-残りの一部は、住宅建設やデータセンターからの需要の高まりに対応し、「永遠の化学物質」として知られる汚染物質に対処するために使用される。
-アンディ・バーナム首相は、この提案は「生活費に困っているときに家計から実際にお金を出した」ものだと述べ、環境保護団体はこの決定を「侮辱」だと評した。
-セバーン・トレント・ウォーター、サザン・ウォーター、テムズ・ウォーター、ウェセックス・ウォーター、サウス・イースト・ウォーターの5つの水道会社の顧客は、2024年にすでに発表されている料金値上げに加え、今後2年間でさらなる料金値上げに直面している。
-新たな増加額は企業によって異なります。
-例えば、サザン航空は来年43ポンドの追加料金を請求するが、サウスイースタン航空は2029年に1ポンドの追加料金のみを請求する予定である。値上げは、今年後半に最終承認が得られた場合にのみ有効となる。
-特定された他の8つの水道会社（Anglian Water、Dwr Cymru Welsh Water、Hafren Dyfrdwy、Northumbrian Water、Wouth West Water、United Utiliites、Yorkshire Water、SES Water）は、2030年以降に追加支出を顧客請求を通じて回収する予定だ。
-多くの消費者は、供給の中断が時には数日間続くことや、川、湖、海岸が汚染されすぎて安全に使用できないことを背景に、これ以上の支払いを求められることに憤慨している。
-しかし、水道会社は、これらの問題は、パイプの交換、処理施設の建設、新しい貯水池の設置のための支出を増やすことによってのみ解決できると主張している。
-「成功するか、クローバックに直面するか」
-規制当局のオフワット氏は、追加支出により企業は成長と環境改善を支援し、重要なアップグレードが遅れないようにすることができると述べた。
-オフワット社の提供担当エグゼクティブディレクター、ヘレン・キャンベル氏は、「企業が顧客と環境に期待される改善を確実に提供できるよう、業績を追跡していく」と述べた。
-「そうでなければ、支出が巻き戻される可能性がある。」
-水道会社が顧客の請求額を引き上げるには規制当局のオフワットの承認が必要だが、このプロセスは今後数年間の支出予算を設定するために5年ごとに行われる。
-料金の値上げを許可するこの決定は、2024年に水道会社と交渉され、すでに合意された料金の値上げに加えて行われる。
-このプロセスにより、企業は前回の審査時点では知られていなかったプロジェクトに対して追加資金を申請できるようになる。
-計画された増額の一環として、オフワットは、マンチェスターの新しいデータセンターの提供、ニューキーの下水処理能力の追加、当初2030年から35年に予定されていたPFAS汚染物質に取り組むウェセックス・ウォーターの取り組みの前倒しなどの計画への資金提供を承認した。
-ただし、この決定は暫定的なものです。公開協議の期間があり、12月に最終決定が下される予定だ。
-「白紙小切手は不可」
-オフワット氏は、水道会社が総額43億ポンド相当の申請を提出したが、追加支出案の一部は拒否されたと述べた。
-バーナム氏は、汚染事件や漏洩が続く中、何年にもわたって追加料金の支払いを求められてきたため、人々が怒っている理由が理解できたと述べた。
-「水道会社が不必要なコストを家庭に転嫁しようとする場合、彼らは異議を唱えられるだろう」と同氏は述べた。
-選挙運動団体「リバー・アクション」のエイミー・フェアマン氏は「さらなる水道料金値上げに手を振っているのは侮辱だ」と述べた。
-同氏によると、水道会社は過去30年間、十分な投資を怠っており、顧客は「漏水、汚染、料金の高騰」を抱えているという。
-水道会社に対する公的管理を強化すべきだと彼女は付け加えた。 「失敗に対する空のチェックはもう必要ありません。」
-関連トピック
-- 19 時間前に公開
-- 2 日前に公開
-- 7 月 31 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T13:09:38+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5082/live/9e05e030-9702-11f1-b72c-211ea4e0afc4.jpg",
-    readTime: 5,
-  },
-  {
-    id: "trump-linked-oil-venture-delays-greenlan-158decab",
-    title: "Trump-linked oil venture delays Greenland drilling plans after government warning",
-    titleJa: "トランプ大統領関連の石油ベンチャー、政府警告を受けてグリーンランド掘削計画を延期",
-    summaryJa: "ドナルド・トランプ大統領とつながりのあるテキサスに本拠を置く企業は、許可なく機器を陸上に持ち込んだとして北極圏の島政府が合弁パートナーに対し「強い警告」を発したことを受け、グリーンランドでの石油掘削計画を延期した。ナスダック上場の石油・ガス探査会社グリーンランド・エナジー・カンパニーは水曜日、現在2027年冬を目標とした許可スケジュールに向けて取り組んでおり、グリーンランド東海岸のジェイムソン・ランド盆地の炭化水素の可能性を解き放つ計画を遅らせていると発表した。",
-    bodyOriginal: `A Texas-based company with links to President Donald Trump has delayed plans to drill for oil in Greenland, after the Arctic island's government issued a "strong warning" to its joint venture partner for bringing equipment ashore without permission.
-Greenland Energy Company, a Nasdaq-listed oil and gas exploration firm, said Wednesday that it was now working toward a targeted permit timeline for winter 2027, delaying its plans to try to unlock the hydrocarbon potential of the Jameson Land Basin on Greenland's east coast.
-London-listed 80 Mile, the joint venture partner of Greenland Energy for the project, also confirmed the delay to drilling plans following talks with Greenlandic authorities.
-"Operating in the Arctic requires patience, flexibility and a long-term perspective. We will use this time to refine our plans and deepen relationships with local communities, strategic partners and relevant authorities," Greenland Energy Company CEO Robert Price said in a statement.
-80 Mile holds the licenses and runs the permitting through its wholly owned subsidiary, White Flame Energy. The exploration licenses were granted before Greenland stopped issuing new licenses in 2021, citing the worsening climate crisis.
-The project delay comes two weeks after Greenland's government issued a sharp rebuke to White Flame Energy for failing to get permission from local authorities to bring drilling equipment to the island's east coast.
-Greenland Energy Company and 80 Mile both confirmed to CNBC that the companies received a formal warning from Greenland's government.
-Greenland's government issues a warning
-The notice from Greenland's government to 80 Mile concerned the landing of drilling equipment near the strategically important Nerlerit Inaat airport, a transport hub regarded as the gateway to northeast Greenland.
-Ahead of the landing of equipment, Greenland Energy and 80 Mile said they had permission from and entered into a contract to lease storage space within an existing Greenland Airports storage area near the port but were unaware that this arrangement required a separate permit from the mineral resources authority.
-Greenland's government said late last month that White Flame Energy did not have the necessary approvals before initiating this operation.
-Greenland Energy and 80 Mile said in a joint statement that they "take the warning very seriously and note it in full." They added that they intend to "work closely" with Greenlandic authorities going forward.
-80 Mile holds three licences for exploration and possible exploitation of oil in the Jameson Land Basin. Greenland Energy is funding the costs associated with managing two exploration wells.
-Shares of Greenland Energy closed more than 44% lower on Wednesday, while 80 Mile shares were down over 20%.
-Greenland Energy and the Trump administration
-The push to explore the oil potential of the Jameson Land Basin comes as Trump has renewed his push to acquire Greenland.
-Greenland Energy has links to several people and businesses associated with the Trump administration.
-Board member Carol Craig founded a defense-tech company involved in a Pentagon contracting program supporting Trump's Golden Dome missile-defense initiative.
-Read more
-The company also has a documentary deal with Envoy Media, founded by "Dr. Phil" McGraw, who spoke at a Trump rally in 2024 and serves on the president's Religious Liberty Commission.
-Larry Swets, an entrepreneur and the chairman of Greenland Energy, has been reported to be close to the Trump administration. According to the Guardian, Price was asked during a meeting on the Jameson Land Basin in June whether Swets had links to Trump and replied: "Not that I know of."
-Jameson Land Basin oil potential
-Greenland Energy, which was formed through a SPAC merger in March, says its primary mission is to unlock the frontier oil potential of the Jameson Land Basin, a roughly 2-million-acre onshore licensed area.
-It describes the area as one of, if not the last, highly prospective yet completely undrilled basins in the world, with clear genetic links to the North Sea and a scale comparable to many of the world's major producing regions.
-Lewis Lawrence, senior research analyst of Europe upstream at Wood Mackenzie, said there is clearly potential associated with the area, noting the geology appears to be genetically similar to the mid-Norwegian shelf, "which obviously is one of the hotbeds of oil and gas activity."
-But past attempts to drill in promising spots in Greenland have failed, he added.
-"There has been exploration in Greenland in the past [and] that's all been unsuccessful. So, 21 wells, most of them offshore, and they have all been unsuccessful wells. There's been hundreds of millions of dollars wasted, particularly on offshore drilling, which is significantly more expensive," Lawrence told CNBC in a phone interview.
-"So, companies have had a look. They've come, they've drilled, they've not found anything and they've left."
-Lawrence also said there would be logistical challenges on the basin, which he called one of the most remote drilling sites in the world.`,
-    bodyJa: `ドナルド・トランプ大統領とつながりのあるテキサスに本拠を置く企業は、許可なく機器を陸上に持ち込んだとして北極圏の島政府が合弁パートナーに対し「強い警告」を発したことを受け、グリーンランドでの石油掘削計画を延期した。
-ナスダック上場の石油・ガス探査会社グリーンランド・エナジー・カンパニーは水曜日、現在2027年冬を目標とした許可スケジュールに向けて取り組んでおり、グリーンランド東海岸のジェイムソン・ランド盆地の炭化水素の可能性を解き放つ計画を遅らせていると発表した。
-同プロジェクトのグリーンランド・エナジーの合弁パートナーであるロンドン上場の80マイルも、グリーンランド当局との協議を受けて掘削計画の遅れを認めた。
-グリーンランド・エナジー・カンパニーのロバート・プライス最高経営責任者（CEO）は声明で、「北極での活動には忍耐、柔軟性、長期的な視点が必要だ。われわれはこの時間を利用して計画を磨き、地元社会、戦略的パートナー、関係当局との関係を深めていく」と述べた。
-80 Mile はライセンスを保有し、その完全子会社である White Flame Energy を通じて許可を運営しています。この探査ライセンスは、グリーンランドが気候危機の悪化を理由に2021年に新規ライセンスの発行を停止する前に付与された。
-このプロジェクトの遅延は、グリーンランド政府がホワイト・フレーム・エナジー社に対し、掘削設備を島の東海岸に持ち込む許可を地元当局から得ていなかったとして厳しく叱責してから２週間後に生じた。
-グリーンランド・エナジー・カンパニーと80マイルはいずれもCNBCに対し、両社がグリーンランド政府から正式な警告を受けていたことを認めた。
-グリーンランド政府が警告を発令
-グリーンランド政府から80マイルへの通知は、グリーンランド北東部への玄関口とされる輸送拠点である戦略的に重要なネルレリット・イナート空港付近への掘削設備の着陸に関するものであった。
-機器の着陸に先立ち、グリーンランド・エナジーと80マイルは、港近くのグリーンランド空港の既存の保管エリア内の保管スペースをリースする許可を得て契約を締結したが、この取り決めには鉱物資源局からの別の許可が必要であることは知らなかったと述べた。
-グリーンランド政府は先月末、ホワイト・フレーム・エナジーがこの事業を開始する前に必要な承認を取得していないと発表した。
-グリーンランド・エナジーと80マイルは共同声明で「警告を非常に真剣に受け止め、全面的に留意する」と述べた。彼らは、今後グリーンランド当局と「緊密に協力する」つもりだと付け加えた。
-80 マイルは、ジェイムソン陸盆地における石油の探査と開発の可能性について 3 つのライセンスを保有しています。 Greenland Energy は、2 つの探査井の管理に関連する費用に資金を提供しています。
-水曜日のグリーンランド・エナジー株は44％以上下落して取引を終え、80マイル株は20％以上下落した。
-グリーンランド・エネルギーとトランプ政権
-トランプ大統領がグリーンランド獲得への取り組みを再開したことを受けて、ジェイムソン陸盆地の石油の可能性を探る取り組みが始まった。
-グリーンランド・エナジーは、トランプ政権に関連する複数の人物や企業とつながりがある。
-取締役のキャロル・クレイグ氏は、トランプ大統領のゴールデン・ドームミサイル防衛構想を支援する国防総省の契約プログラムに関与する防衛テクノロジー企業を設立した。
-続きを読む
-同社はまた、2024年のトランプ集会で講演し、大統領の信教の自由委員会の委員を務める「ドクター・フィル」・マグロウ氏が設立したエンボイ・メディアとドキュメンタリー契約を結んでいる。
-起業家でグリーンランド・エナジー会長のラリー・スウェッツ氏はトランプ政権に近いと報じられている。ガーディアン紙によると、プライス氏は6月にジェームソン・ランド盆地で行われた会合で、スウィッツとトランプ氏の関係があるのか​​と問われ、「私が知っていることはない」と答えたという。
-ジェイムソン土地盆地の石油ポテンシャル
-3月にSPACとの合併により設立されたグリーンランド・エナジーは、その主な使命は、約200万エーカーの陸上認可地域であるジェイムソン・ランド・ベーシンのフロンティア石油の可能性を解き放つことであると述べている。
-同報告書では、この地域は、北海との明らかな遺伝的つながりがあり、世界の主要産地の多くに匹敵する規模を持つ、世界で最後ではないにしても、非常に将来性の高い、しかし完全に未掘削の盆地の1つであると説明されています。
-ウッド・マッケンジー社の欧州上流部門上級研究アナリスト、ルイス・ローレンス氏は、この地域には明らかに潜在的な可能性があると述べ、地質はノルウェー中部棚と遺伝的に類似しているようで、「明らかに石油・ガス活動の温床の一つである」と指摘した。
-しかし、グリーンランドの有望な場所で掘削を試みた過去の試みは失敗に終わったと同氏は付け加えた。
-ローレンス氏はCNBCの電話インタビューで、「グリーンランドでは過去にも探査が行われたが、すべて失敗に終わった。つまり、21本の井戸があり、そのほとんどが沖合にあったが、すべて失敗した井戸だった。特に海洋掘削では数億ドルが無駄になっているが、これははるかに高価だ」とローレンス氏はCNBCの電話インタビューで語った。
-「そこで、企業は調査を行ったが、来て掘削したが、何も見つからず撤退した。」
-ローレンス氏はまた、世界で最も辺鄙な掘削現場の一つである盆地では物流上の問題が生じるだろうと述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-    publishedAt: "2026-08-13T13:02:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "flock-boss-admits-surveillance-firm-took-6867cfd1",
-    title: "Flock boss admits surveillance firm took too long to act over police abuse",
-    titleJa: "フロックのボス、監視会社が警察の虐待に対する対応に時間がかかりすぎたと認める",
-    summaryJa: "フロックのボス、監視会社が警察の虐待に対する対応に時間がかかりすぎたと認める- 公開されました",
-    bodyOriginal: `Flock boss admits surveillance firm took too long to act over police abuse
-- Published
-Flock, the US surveillance firm, is rolling out new safeguards to prevent police misuse of its technology which, its founder and chief executive admits, should have happened sooner.
-Police have used Flock to track romantic partners, external and stalk strangers, leading to growing public backlash against the company. It has also been used to find stolen cars and missing people.
-Asked whether it had taken Flock too long to protect tens of thousands of its cameras, licence plate readers and drones from police abuse, Garrett Langley said: "Yeah... yes."
-Flock is cutting the number of days most data is retained, from 30 days to seven and abnormal searches and uses will also automatically be flagged.
-Flock cameras have been used by police to not only track former and current romantic partners, but in one case, even a woman who had had an abortion, external.
-Police across the US have quit, external or been fired, external for misuse of the technology.
-A man in Indiana recently told local news he found out through a public records request that police had set a Flock alert, external for his vehicle, despite not being suspected of any wrongdoing.
-At least 50 cities have this year cut ties with Flock, external due to a public backlash.
-However, Langley told the BBC that another 16 cities that had turned off Flock services have in the last three months come back to the company. Generally, it's running at a 7:1 ratio of new customers to lost customers, he said.
-Langley said that, just six months ago, he asked in a meeting of the company's board why there seemed to be a growing public focus on Flock.
-This was around the time that Amazon's Ring, a doorbell camera firm, cancelled a partnership with Flock after an outcry over a Super Bowl advert which sparked concern about unwanted surveillance.
-"Historically, my point of view as a chief executive of a private company was, I don't know if I should be making these decisions. I don't know if it's my job to say how long data should be retained," Langley said.
-He added that he has come to agree with groups like the American Civil Liberties Union and the Electronic Frontier Foundation that police should need an active case number to search Flock's data.
-"They're right. I think it should be required."
-He added: "Our employees and communities have said loud and clear, they expect companies like Flock to have a stronger point of view as the expert. I resisted that because I didn't want to have that responsibility."
-Langley has now accepted that responsibility. At the same time as he is strengthening Flock's safeguards, he is pitching his company's products as crucial to combatting crime and improving policing in the US.
-Cities that don't use Flock are effectively choosing "to be less safe", he claimed.
-Nevertheless, he does not deny that Flock has been misused by members of law enforcement.
-"We're only as good as the data coming in," Langley said. "When you see these cases of wrongful arrest, the data was bad and the officer failed to follow the rules. But it's easier to pick a villain that's a company like us."
-'Easy villain'
-Langley said that, with clearly visible cameras in cities and neighbourhoods, the public increasingly, external sees the firm as an outlet for their growing concerns about privacy and technology, external.
-"Because you can see our cameras, it's easier to get mad," Langley said.
-In the US, there is no comprehensive law protecting or governing the collection, use or sale of people's personal data.
-Langley mentioned a woman he recently met in Cleveland who was vociferously against Flock in her community. When he asked her why she disliked the technology so much, she told him it was ultimately a tool for police to "abuse their power."
-It turned out that police "kind of feel the same way" as her, Langley said.
-Conversations he had with police would often turn to officers saying of their colleagues 'we knew that person was not good. We had no way to prove it'.
-That resulted in the new audit feature for Flock, which was released as an option earlier this year.
-It automatically creates an audit log of searches being done on Flock, and flags unusual search behaviour.
-Most police customers turned on the feature when it became an option. Misuse proved so rampant that Langley decided Flock needed to make the audit feature standard.
-Officers who abuse their position are "horrible", Langley said, adding that they should be punished with more than just dismissal.
-"If anyone is going to be the one that spearheads getting rid of abusive cops? Sign me up," Langley said. "We trust these individuals with deadly weapons.
-"I think a camera is very far from a deadly weapon, but I would say it's a very powerful tool. We should hold it incredibly accountable."`,
-    bodyJa: `フロックのボス、監視会社が警察の虐待に対する対応に時間がかかりすぎたと認める
-- 公開されました
-米国の監視会社フロックは、警察による自社技術の悪用を防ぐための新たな安全策を展開しているが、創業者兼最高経営責任者もこれはもっと早く行われるべきだったと認めている。
-警察はFlockを恋人や社外の追跡、見知らぬ人へのストーキングなどに利用しており、同社に対する国民の反発が高まっている。盗難車や行方不明者の捜索にも使われています。
-フロック社が数万台のカメラ、ナンバープレートリーダー、ドローンを警察の虐待から守るのに時間がかかりすぎたのではないかとの質問に対し、ギャレット・ラングレー氏は「そうだね…そうだ」と答えた。
-Flock はほとんどのデータの保存日数を 30 日から 7 日に短縮しており、異常な検索や使用にも自動的にフラグが立てられます。
-警察は群れのカメラを使用して、元および現在の恋人を追跡するだけでなく、あるケースでは中絶した女性さえも外部から追跡している。
-米国中の警察は、テクノロジーの悪用を理由に社外、あるいは社外で解雇されたかを問わず、辞職している。
-インディアナ州の男性は最近地元ニュースに対し、不正行為の疑いがないにもかかわらず、警察が車の外にフロック警報を設定していたことを公文書開示請求を通じて知ったと語った。
-今年、少なくとも50都市が国民の反発を理由に外部のフロックとの関係を断った。
-しかし、ラングレー氏はBBCに対し、Flockサービスを停止していたさらに16都市が過去3カ月間で同社に戻ってきたと語った。一般的に、新規顧客と失われた顧客の比率は 7:1 で運営されていると同氏は語った。
-ラングレー氏は、わずか半年前、同社の取締役会で、なぜフロックに対する世間の注目が高まっているように見えるのか尋ねたと語った。
-これは、ドアベルカメラ会社であるアマゾンのリングが、望まない監視に対する懸念を引き起こしたスーパーボウルの広告に対する抗議を受けて、フロックとの提携を解除した頃のことだった。
-「これまで、民間企業の最高経営責任者としての私の見解は、こうした決定を下すべきかどうかは分からない、というものだった。データをどのくらいの期間保持すべきかを言うのが私の仕事かどうかは分からない」とラングレー氏は語った。
-同氏は、警察がフロック氏のデータを検索するには有効な事件番号が必要であるという米国自由人権協会や電子フロンティア財団などの団体の意見に同意するようになったと付け加えた。
-「彼らは正しい。それが義務付けられるべきだと思う。」
-同氏はさらに、「当社の従業員や地域社会は、フロックのような企業が専門家としてより強い視点を持つことを期待しているとはっきりと主張している。私がそれに抵抗したのは、そのような責任を負いたくなかったからである」と付け加えた。
-ラングレー氏は現在、その責任を受け入れている。同氏はフロック社の安全対策を強化すると同時に、米国の犯罪と闘い、警察の取り締まりを改善するために同社の製品が不可欠であると売り込んでいる。
-Flockを利用していない都市は事実上「安全性が低い」ことを選択していることになる、と同氏は主張した。
-それにもかかわらず、彼はフロックが法執行機関のメンバーによって悪用されたことを否定しません。
-「私たちが判断できるのは、データが入ってくることだけです」とラングレー氏は語った。 「こうした不当逮捕の事例を見ると、データが悪かったし、警察官が規則に従わなかったことがわかります。しかし、当社のような企業を悪者に選ぶのは簡単です。」
-「気楽な悪役」
-ラングレー氏は、都市や近隣地域にはっきりと見えるカメラが設置されているため、外部の人々はますます同社を、プライバシーやテクノロジーに対する増大する懸念のはけ口とみなすようになっていると述べた。
-「私たちのカメラが見えるので、怒りやすくなります」とラングレー氏は言う。
-米国には、人々の個人データの収集、使用、販売を保護または管理する包括的な法律はありません。
-ラングレー氏は、クリーブランドで最近出会った、地域社会でフロックに声高に反対していた女性について言及した。彼がなぜこのテクノロジーをそんなに嫌うのかと尋ねたとき、彼女はそれが最終的には警察が「権力を乱用する」ためのツールだと答えた。
-警察も彼女と「同じように感じている」ことが判明した、とラングレー氏は語った。
-彼が警察と交わした会話の中で、警察官が同僚について「あの人が良くないことはわかっていた」と話すことがよくあった。それを証明する方法はありませんでした。」
-その結果、Flock の新しい監査機能が誕生し、今年初めにオプションとしてリリースされました。
-Flock 上で行われた検索の監査ログを自動的に作成し、異常な検索動作にフラグを立てます。
-警察の顧客のほとんどは、この機能がオプションになったときにオンにしました。悪用が横行していることが判明したため、ラングレー氏はフロック社が監査機能を標準にする必要があると判断した。
-ラングレー氏は、地位を乱用する警察官は「ひどい」と述べ、解雇以上の罰を与えるべきだと付け加えた。
-「もし誰かが虐待警官を排除する先頭に立ってくれるとしたら？私に登録してください」とラングレー氏は語った。 「私たちは、これらの人々が致命的な武器を持っていることを信頼しています。
-「カメラは致命的な武器とは程遠いと思いますが、非常に強力なツールだと思います。私たちはそれに信じられないほどの責任を負わなければなりません。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crrv1rjwgl9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T13:02:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8948/live/14cb2100-9715-11f1-bb91-6bb44c42ed47.jpg",
-    readTime: 6,
-  },
-  {
-    id: "iran-looks-to-ramp-up-economic-alliance-39c6494e",
-    title: "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-    titleJa: "米国との戦争が長引く中、イランはBRICS諸国との経済同盟を強化しようとしている",
-    summaryJa: "イランは米国とイスラエルとの戦争からほぼ半年が経ち、イランが経済同盟の強化を目指している中、同国の中央銀行総裁が木曜、BRICS新開発銀行に参加する予定であると発表した。BRICS同盟は2006年に設立メンバーのブラジル、ロシア、インド、中国によって設立され、2010年には南アフリカも加わった。",
-    bodyOriginal: `Iran is set to join the BRICS New Development Bank, the country's central bank chief said Thursday, as Tehran seeks to shore up its economic alliances almost six months into its war with the U.S. and Israel.
-The BRICS alliance was set up in 2006 by founding members Brazil, Russia, India and China, with South Africa joining in 2010.
-It has since expanded to include Iran, Egypt, Ethiopia, Saudi Arabia, the UAE and Indonesia, with various other nations — including Belarus, Cuba and Nigeria — joining as partner countries.
-Iranian state media reported Thursday that Abdolnasser Hemmati, governor of the Central Bank of Iran, had announced Iran would soon become a member of the BRICS Bank. Hemmati is currently in India ahead of next month's BRICS Summit, according to Iran's Tasnim News Agency.
-"We are seeking to establish bilateral and trilateral monetary cooperation with member states," Hemmati said, per Tasnim's report.
-The NDB was established by Brazil, Russia, India, China and South Africa to help mobilize resources for infrastructure and sustainable development projects in emerging markets and developing countries.
-A spokesperson for the NDB told CNBC the bank cannot confirm information regarding Iran's membership.
-"NDB membership is open to members of the United Nations. The Bank's membership is open to borrowing and non-borrowing member countries," they said. "NDB recently welcomed Uzbekistan as its tenth member country, which officially joined the Bank on June 5, 2026."
-Iran would have to move through the NDB's accession process before it can become an official member country. Current prospective members are Uruguay, Colombia, Ethiopia, Angola and Zimbabwe.
-Joining the bank would make Iran eligible to seek financing for projects in areas such as transport, sanitation, digital infrastructure and urban development.
-Longstanding sanctions on Iran have severely constrained its access to international capital, particularly from Western financial institutions and markets. The war with the U.S. and Israel has further ramped up the pressure on the Iranian economy, with inflation surging, growth plummeting and its currency in freefall.
-U.S. President Donald Trump, who has previously labeled BRICS policies "anti-American," has threatened to slap 25% tariffs on goods imported to the U.S. from any country that directly or indirectly purchases goods or services from Iran.
-CNBC reached out to the White House for comment on Iran joining the BRICS bank.
-China is Iran's biggest trading partner, according to the World Bank's most recent data. In 2025, China bought more than 80% of Iran's shipped oil, according to Kpler data.
-It is unclear whether that trading relationship has shifted since the U.S.-Iran war began.`,
-    bodyJa: `イランは米国とイスラエルとの戦争からほぼ半年が経ち、イランが経済同盟の強化を目指している中、同国の中央銀行総裁が木曜、BRICS新開発銀行に参加する予定であると発表した。
-BRICS同盟は2006年に設立メンバーのブラジル、ロシア、インド、中国によって設立され、2010年には南アフリカも加わった。
-それ以来、イラン、エジプト、エチオピア、サウジアラビア、UAE、インドネシアを含むまで拡大し、ベラルーシ、キューバ、ナイジェリアを含む他のさまざまな国もパートナー国として参加しています。
-イラン国営メディアは木曜日、イラン中央銀行のアブドルナセル・ヘマティ総裁が、イランが間もなくBRICS銀行の加盟国になると発表したと報じた。イランのタスニム通信によると、ヘマティ氏は現在、来月のBRICS首脳会議に先立ちインドを訪れている。
-タスニムの報告書によると、ヘマティ氏は「われわれは加盟国との二国間および三国間通貨協力の確立を目指している」と述べた。
-NDB は、新興市場や発展途上国におけるインフラストラクチャーや持続可能な開発プロジェクトにリソースを動員することを目的として、ブラジル、ロシア、インド、中国、南アフリカによって設立されました。
-ＮＤＢの広報担当者はＣＮＢＣに対し、同行はイランの加盟に関する情報を確認できないと語った。
-「NDBの会員資格は国連加盟国に開かれている。世銀の会員資格は借入加盟国と非借入加盟国に開かれている」と彼らは述べた。 「NDBは最近ウズベキスタンを10番目の加盟国として歓迎し、2026年6月5日に正式に加盟した。」
-イランが正式加盟国になるには、NDBの加盟手続きを経る必要がある。現在の加盟候補国はウルグアイ、コロンビア、エチオピア、アンゴラ、ジンバブエです。
-銀行に参加すれば、イランは交通、衛生、デジタルインフラ、都市開発などの分野のプロジェクトへの融資を求める資格が得られる。
-イランに対する長年の制裁により、特に西側の金融機関や市場からの国際資本へのアクセスが厳しく制限されている。米国とイスラエルとの戦争はイラン経済への圧力をさらに強め、インフレは急上昇し、成長は急落し、通貨は暴落した。
-ドナルド・トランプ米大統領はこれまでBRICS政策を「反米」と呼んできたが、イランから直接・間接的に商品やサービスを購入する国から米国に輸入される商品に25％の関税を課すと脅迫した。
-CNBCはイランのBRICS銀行への参加についてホワイトハウスにコメントを求めた。
-世界銀行の最新データによると、中国はイランの最大の貿易相手国である。 Kplerのデータによると、2025年には中国がイランに出荷された原油の80％以上を購入した。
-米国とイランの戦争が始まって以来、その貿易関係が変化したかどうかは不明である。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-    publishedAt: "2026-08-13T13:01:37+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "zero-hours-crackdown-could-cost-firms-up-0e71d3a9",
-    title: "Zero hours crackdown could cost firms up to £2.9bn a year",
-    titleJa: "ゼロ時間取り締まりは企業に年間最大29億ポンドの損害を与える可能性がある",
-    summaryJa: "ゼロ時間取り締まりは企業に年間最大29億ポンドの損害を与える可能性がある- 公開されました",
-    bodyOriginal: `Zero hours crackdown could cost firms up to £2.9bn a year
-- Published
-Businesses could face costs of up to £2.9bn a year because of a crackdown on zero hours contracts, according to the government's own analysis.
-Labour's employment reforms are set to cut the number of hours staff can work before they must be offered guaranteed time.
-Official analysis released on Wednesday showed it could cost employers between £350m and £2.9bn, based on the eventual threshold of hours the policy impacts.
-Skills Minister Baroness Jacqui Smith said the reforms would ensure workers are "fairly paid" but business groups said the cost to employers was "disproportionate" compared to how much it would help workers.
-Government analysis said there were "potential trade-offs" that include more administrative costs and less flexibility for companies, including making it "harder for employers to respond to changes in demand".
-At the upper end of its estimate, about £1.2bn in costs would come from businesses who are forced to pay workers compensation for cancelled shifts.
-However, the middle estimate of how much the policy would cost overall is £1.1bn.
-The total cost depends on who the policy eventually applies to: if it applies to people working 48 hours a week, as some unions have called for, it will cost companies more.
-The government's preference is for it to fall somewhere between eight and 20 hours a week.
-In that case, the overall cost would fall far short of the higher estimates cited in the analysis.
-Officials also wrote that the reforms could provide a £10bn boost to the economy because of better wellbeing and productivity.
-That would lower the net average cost of the reforms to between £300m and £1.4bn.
-It said the overall cost figures do not capture the full range of benefits because they are "not possible to monetise".
-How will the changes to workers' rights affect you?
-- Published16 December 2025
-It said hospitality and retail companies, many of which rely heavily on zero hours workers, would be most affected by the change.
-The document was released as part of a consultation into how many hours should eventually fall under the new rules.
-Baroness Smith told Sky News the government will "look very carefully" at how it brings in the changes.
-"I don't think it's fair for somebody to be on a contract where they literally don't know whether or not they're going to be working at all, and yet they're bound by that contract."
-The number of people on zero hours contracts hit a record high of 1.23 million last December, a 91,000 annual increase, according to official data.
-But business groups said the costs were more than had originally been forecast.
-Kate Shoesmith, director of policy at the British Chambers of Commerce, said it would be "a further hammer blow" for companies that are struggling.
-"We are already facing a youth unemployment crisis – now is not the time to make it even more costly for employers to hire."
-Helen Dickinson, the chief executive of British Retail Consortium, questioned whether the reforms would "actually deliver value for workers" because of the cost to businesses.
-She added that retailers would also have to pay "hundreds of millions of pounds" to update their payroll systems.
-The Trades Union Congress said most of the extra costs would only come if businesses cancelled workers' shifts at the last minute.
-A spokesperson for the TUC said: "The aim of this legislation is to stop this practice and give variable hours workers security and stability - so good employers have nothing to fear."
-Charlotte Brumpton-Childs, GMB national secretary, called zero hours contracts "archaic", adding that businesses were "of course … going to grumble" about the policy.
-Related topics
-- Published10 October 2024`,
-    bodyJa: `ゼロ時間取り締まりは企業に年間最大29億ポンドの損害を与える可能性がある
-- 公開されました
-政府独自の分析によると、ゼロ時間契約の取り締まりにより、企業は年間最大29億ポンドのコストに直面する可能性がある。
-労働党の雇用改革では、労働時間の保証が必要となる前に職員が働ける時間を削減する予定だ。
-水曜日に発表された公式分析では、政策が影響する最終的な労働時間の基準に基づいて、雇用主に3億5000万ポンドから29億ポンドの損失が生じる可能性があることが示された。
-ジャッキー・スミス男爵夫人技能大臣は、この改革により労働者に「公正な賃金」が保障されると述べたが、経済団体は雇用主のコストが労働者を助ける額と比べて「不釣り合い」だと主張した。
-政府の分析では、管理コストの増加や企業の柔軟性の低下などの「潜在的なトレードオフ」があり、その中には「雇用主が需要の変化に対応することが難しくなる」ことも含まれるとしている。
-推定の上限では、キャンセルされたシフトに対する労働者補償の支払いを余儀なくされている企業からのコストが約12億ポンドに上る。
-ただし、政策全体の費用の中間推定値は 11 億ポンドです。
-総コストは、この政策が最終的に誰に適用されるかによって決まる。一部の労働組合が要求しているように週48時間働く人々に適用されれば、企業のコストはさらに高くなるだろう。
-政府は週に8時間から20時間の範囲内に収まることを望んでいる。
-その場合、全体的なコストは、分析で引用されたより高い見積もりをはるかに下回ることになります。
-当局者らはまた、この改革により福利厚生と生産性が向上し、経済に100億ポンドの押し上げ効果がもたらされる可能性があると書いている。
-そうすれば、改革の純平均コストは3億ポンドから14億ポンドに引き下げられることになる。
-全体的なコストの数字は「収益化が不可能」であるため、あらゆるメリットを捉えていないと同社は述べた。
-労働者の権利の変更はあなたにどのような影響を与えますか?
-- 2025 年 12 月 16 日公開
-同報告書は、その多くがゼロ時間労働者に大きく依存している接客業と小売業がこの変化によって最も大きな影響を受けるだろうと述べた。
-この文書は、最終的に新しい規則の対象となる時間数に関する協議の一環として発表された。
-スミス男爵夫人はスカイニュースに対し、政府がどのように変化をもたらすかについて「非常に注意深く検討する」と語った。
-「文字通り、実際に働くかどうかも分からない契約を結んでいるのに、その契約に拘束されている人がいるのは不公平だと思います。」
-公式データによると、ゼロ時間契約の人の数は昨年12月に過去最高の123万人に達し、年間9万1000人増加した。
-しかし企業団体は、コストが当初の予想を上回ったと述べた。
-英国商工会議所の政策部長ケイト・シュースミス氏は、これは苦境にある企業にとって「さらなる鉄槌」となるだろうと述べた。
-「私たちはすでに若者の失業危機に直面しています。今は雇用主にとって雇用コストをさらに高くする時期ではありません。」
-英国小売業コンソーシアムの最高経営責任者ヘレン・ディキンソン氏は、企業にコストがかかるため、改革が「実際に労働者に価値をもたらす」かどうか疑問を呈した。
-同氏は、小売業者も給与システムを更新するために「数億ポンド」を支払わなければならないだろうと付け加えた。
-労働組合会議は、追加費用のほとんどは企業が従業員のシフトを直前にキャンセルした場合にのみ発生すると述べた。
-TUCの広報担当者は、「この法律の目的は、この慣行を阻止し、変形労働時間労働者に安全と安定を与えることである。したがって、優良な雇用主は何も恐れる必要はない」と述べた。
-GMB全国書記のシャーロット・ブランプトン・チャイルズ氏は、ゼロ時間契約を「時代遅れ」と呼び、企業はこの政策について「もちろん…不平を言うだろう」と付け加えた。
-関連トピック
-- 2024 年 10 月 10 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0l525k76d0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T11:12:33+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36e9/live/4b9eef10-96ff-11f1-b72c-211ea4e0afc4.jpg",
-    readTime: 4,
-  },
-  {
-    id: "an-inside-look-at-sk-hynix-720-billion-a-5a1daec5",
-    title: "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
-    titleJa: "韓国を引き継ぐSKハイニックスの7,200億ドル規模のAIを活用した増強の内部に迫る",
-    summaryJa: "高帯域幅メモリの大手メーカーであるSK Hynixは、AIの需要を満たすためにメモリ工場に7,200億ドルを注ぎ込んでいる。独占的なファーストルックを入手しました。",
-    bodyOriginal: `In South Korea, where a mountainous landscape makes building huge projects an incredible undertaking, the world's leading maker of high-bandwidth computer memory is investing $720 billion on what it says will be the largest network of memory factories in the world.
-SK Hynix, whose market cap has jumped more than fivefold in the past year and now tops $1 trillion, is making a big bet that extreme demand from artificial intelligence is here to stay. Soaring prices exacerbated by capacity constraints are changing the fabric of the classic boom-and-bust industry, with AI chip giants like Nvidia willing to take on more risk as they scramble to secure supply.
-The industry is reliant on just a few players. SK Hynix controlled 58% of the high-bandwidth memory, or HBM, market in the first quarter, followed by fellow South Korean giant Samsung and U.S.-based Micron, both at 21%, according to Counterpoint Research.
-To help fund its ambitious buildout, SK Hynix, which trades on the Korea Exchange, reeled in $26.5 billion in July by listing shares on the Nasdaq, the most money ever raised by a foreign company listing on U.S. markets.
-It's been a tough month for new investors. Since reaching a high of almost $195 on July 14, the U.S.-listed shares are down by about 21%, closing on Wednesday at $154.41. The drop has coincided with broader volatility in the AI trade, particularly chip stocks, and a decline in the Korean market, which gets about half its value from SK Hynix and Samsung.
-But none of that will deter SK Hynix from pursuing its historic buildout. It's part of a larger plan unveiled by South Korean President Lee Jae Myung in June to double the country's memory production in five years, which includes construction of multiple new Samsung megafabs.
-CNBC got a behind-the-scenes peak into SK Hynix's expansion last month, with the first on-camera tour of the Yongin Cluster, as well as an inside look at memory cleanrooms in Cheongju, where the company is also undergoing a major infrastructure push.
-'It's like a war'
-Height is the most striking difference between U.S. chip fabs and the three SK Hynix sites we toured in South Korea. The first fab at the Yongin Cluster had walls built about halfway up the towering structure, which SK Hynix said will reach the height of a 50-story apartment building. It will have six cleanrooms connected over several floors, instead of sprawling out in a single story like at new fabs in Arizona from Taiwan Semiconductor Manufacturing Co. and Intel.
-Made by stacking general-purpose dynamic random access memory, HBM is the highest bandwidth memory capable of rapid data access that helps AI processors execute tasks. Those stacks of HBM take up so much DRAM it's depleting the supply for consumer electronics, as AI giants sign contracts that are years longer than the typical short-term agreements for what was historically considered a low-margin commodity.
-"It's like a war," said Chey Tae-won, chairman of SK Group, the controlling owner of SK Hynix, in an interview in Seoul. "Everybody wants to buy the memory chips. Without that, they cannot produce their AI computing and AI chips."
-Tae-won told CNBC that "prices went up too fast" and that he hopes all this buildout will help. "I'm trying to do my best," he said.
-SK Hynix reported in July that it signed 10 long-term agreements with major customers. Nvidia just "secured a stable supply of HBM" and agreed to co-develop next-generation memory as part of a $500 billion deal with SK Group that includes building new data centers with SK Telecom by 2027.
-Tae-won showed CNBC a wafer with a message on it from Nvidia CEO Jensen Huang that read, "Please make more." He said he meets occasionally with major industry leaders like Microsoft's Satya Nadella, Google's Sundar Pichai, and Meta's Mark Zuckerberg. Huang and AMD CEO Lisa Su came to South Korea in recent months for meetings about memory.
-MS Hwang, research director at Counterpoint Research, said all the hotels near SK Hynix and Samsung's memory fab expansions are fully booked.
-"If you name any company in Big Tech, they are all in Korea to sign a contract," he said.
-SK Hynix also makes memory chips at three fabs in China, but is prohibited from selling its leading-edge HBM there because of U.S. export controls. China has its own emerging makers of the coveted memory needed for AI, including CXMT, which just had a blockbuster debut on the Shanghai market.
-"It's a race, and now the counterparty of the race is China," Hwang said. "That's going to be a lot more dangerous than anything else in the world."
-President Lee is now urging speed on the fab buildouts in South Korea, while the U.S. also scrambles to add capacity.
-Race to build bigger and faster
-Micron is spending $50 billion to build two huge new memory fabs in Boise, Idaho, with the first one scheduled to start making wafers in 2027. And in Clay, New York, it's building a $100 billion campus with up to four fabs.
-SK Hynix is also building its first U.S. facility, where construction is set to conclude in 2028. The $4 billion fab in West Lafayette, Indiana, is for packaging — where memory chips will be stacked and wired together — rather than front-end manufacturing.
-In addition to its Indiana plans, SK Hynix has existing U.S. operations. In 2020, it agreed to buy Intel's NAND business for $9 billion, eventually creating the subsidiary Solidigm, which is headquartered near Sacramento, California. In January, SK Hynix restructured that business and launched a $10 billion "AI Company" in the U.S., but there are no plans related to front-end manufacturing.
-Regarding U.S. chip fab plans, Tae-won said SK Hynix has been studying possible sites for more than a month.
-"I'm willing to do it, but the problem is that I really have to find the right place," he said.
-In the meantime, Tae-won said memory is at a "turning point" with the next technological leap to custom HBM that will help insulate SK Hynix's massive investment from risk.
-Custom HBM is now being co-designed with AI processors, a trend that's accelerating with next-generation HBM5.
-"Nvidia wants their own custom chips and Google wants their own customized HBM, so it's not just a commodity," Tae-won said. "It actually changes the memory chip's status."
-WATCH: Exclusive look inside SK Hynix's $720 billion bet on AI memory`,
-    bodyJa: `山岳地帯の多い韓国では、大規模なプロジェクトの構築が信じられないほどの事業となっているが、高帯域幅コンピュータメモリの世界大手メーカーは、世界最大のメモリ工場ネットワークになると主張するものに7,200億ドルを投資している。
-過去 1 年間で時価総額が 5 倍以上に跳ね上がり、現在 1 兆ドルを超えている SK ハイニックスは、人工知能に対する極端な需要が今後も続くと大きな賭けをしています。生産能力の制約によってさらに悪化した価格の高騰は、古典的な好不況産業の構造を変えており、エヌビディアのようなAIチップ大手は供給確保に向けてより多くのリスクを引き受けることをいとわない。
-業界はほんの数人のプレーヤーに依存しています。カウンターポイント・リサーチによると、SKハイニックスは第1四半期の高帯域幅メモリ（HBM）市場の58％を占め、次いで同じ韓国の大手サムスンと米国に本拠を置くマイクロンが21％で続いた。
-韓国取引所に上場しているSKハイニックスは、その野心的な事業拡大に資金を提供するため、7月にナスダックに株式を上場して265億ドルを巻き上げたが、これは外国企業が米国市場に上場して調達した資金としては過去最高額となる。
-新規投資家にとっては厳しい月となった。 7月14日に約195ドルの高値を付けて以来、米国上場株は約21％下落し、水曜日の終値は154.41ドルとなった。この下落は、AI取引、特に半導体株のボラティリティの拡大と、SKハイニックスとサムスンから約半分の価値を得ている韓国市場の下落と同時に起きた。
-しかし、そのどれもがSKハイニックスの歴史的な構築を追求するのを妨げるものではない。これは、韓国のイ・ジェミョン大統領が6月に発表した、国内のメモリ生産を5年間で倍増させるという大規模な計画の一環であり、サムスン製の複数の新しいメガファブの建設も含まれている。
-CNBCは先月、SKハイニックスの拡大の舞台裏を取材し、龍仁クラスターの初のカメラツアーのほか、同社も大規模なインフラ整備を進めている清州のメモリクリーンルームの内部を視察した。
-「まるで戦争のようだ」
-米国のチップ製造工場と、私たちが視察した韓国の SK ハイニックスの 3 つの拠点との最も顕著な違いは、高さです。龍仁クラスターの最初のファブには、そびえ立つ建物の中腹あたりに壁が建てられており、SKハイニックスによると、その高さは50階建てのマンションの高さに達するという。台湾積体電路製造とインテルのアリゾナ州の新しい工場のように平屋に広がるのではなく、6つのクリーンルームが複数のフロアにまたがって接続される予定だ。
-汎用ダイナミック ランダム アクセス メモリを積み重ねて作られた HBM は、AI プロセッサのタスク実行を支援する高速データ アクセスが可能な最高帯域幅メモリです。これらの HBM のスタックは DRAM を大量に消費するため、家庭用電化製品への供給が枯渇しつつあります。これは、AI 大手が、歴史的に利益率の低い商品と考えられていた一般的な短期契約よりも何年も長い契約を締結しているためです。
-「これは戦争のようなものだ」とSKハイニックスの支配株主であるSKグループのチェイ・テウォン会長はソウルでのインタビューで語った。 「誰もがメモリチップを購入したいと考えています。それがなければ、AIコンピューティングやAIチップを生産することはできません。」
-テウォン氏はCNBCに対し、「価格があまりにも早く上がりすぎた」とし、このすべての増強が助けになることを期待していると述べた。 「最善を尽くしたいと思っています」と彼は言った。
-SKハイニックスは7月、主要顧客と10件の長期契約を締結したと報告した。 Nvidiaは「HBMの安定供給を確保」したばかりで、2027年までにSKテレコムと新たなデータセンターを建設することを含むSKグループとの5000億ドルの契約の一環として、次世代メモリを共同開発することに合意した。
-テウォンさんはCNBCに対し、「もっと作ってください」というNVIDIA CEOのジェンスン・ファンからのメッセージが書かれたウエハースを見せた。同氏は、マイクロソフトのサティア・ナデラ氏、グーグルのサンダー・ピチャイ氏、メタ社のマーク・ザッカーバーグ氏といった業界の主要リーダーと時々会っていると語った。 Huang氏とAMD CEOのLisa Su氏はここ数カ月、メモリに関する会議のため韓国を訪れた。
-カウンターポイント・リサーチのリサーチ・ディレクター、MS・ファン氏は、SKハイニックスとサムスンのメモリ工場拡張施設付近のホテルはすべて満室だと述べた。
-「ビッグテック企業の名前を挙げれば、その企業はすべて韓国で契約を結んでいる」と同氏は語った。
-SKハイニックスも中国の3つの工場でメモリチップを製造しているが、米国の輸出規制のため、中国で最先端のHBMを販売することは禁止されている。中国には、上海市場で大ヒットデビューを果たしたばかりのCXMTなど、AIに必要なメモリを製造する新興メーカーが自国に存在する。
-「これはレースであり、今やレースの相手は中国だ」とファン氏は語った。 「それは世界の他のどんなものよりもはるかに危険なものになるだろう。」
-李大統領は現在、韓国での工場建設の加速を促しており、米国も生産能力の追加に急ぐ。
-より大きく、より速く構築するために競う
-マイクロンは500億ドルを投じてアイダホ州ボイジーに2つの巨大な新しいメモリファブを建設しており、最初の1つは2027年にウェーハの製造を開始する予定だ。そしてニューヨーク州クレイでは、最大4つのファブを備えた1000億ドルのキャンパスを建設中である。
-SKハイニックスも米国初の施設を建設中で、2028年に建設が完了する予定だ。インディアナ州ウェストラファイエットにある40億ドルの工場は、フロントエンド製造ではなく、パッケージング（メモリチップを積み重ねて配線する場所）向けだ。
-インディアナ州の計画に加えて、SK ハイニックスは既存の米国事業を展開している。 2020年にインテルのNAND事業を90億ドルで買収することで合意し、最終的にカリフォルニア州サクラメント近郊に本社を置く子会社Solidigmを設立した。 SKハイニックスは1月に同事業を再編し、米国で100億ドル規模の「AIカンパニー」を立ち上げたが、フロントエンド製造に関連する計画はない。
-米国のチップ工場計画に関してテウォン氏は、SKハイニックスが1カ月以上にわたり候補地を検討していると述べた。
-「喜んでそうするつもりだが、問題は適切な場所を本当に見つけなければならないことだ」と彼は語った。
-一方、テウォン氏は、SKハイニックスの巨額投資をリスクから守るのに役立つカスタムHBMへの次の技術的飛躍により、メモリは「転換点」にあると述べた。
-カスタム HBM は現在、AI プロセッサーと共同設計されており、この傾向は次世代 HBM5 で加速しています。
-「NVIDIA は独自のカスタム チップを望んでおり、Google も独自のカスタマイズされた HBM を望んでいます。したがって、HBM は単なる商品ではありません」と Tae-won 氏は述べました。 「それは実際にメモリチップのステータスを変更します。」
-見る: SK Hynix の AI メモリに対する 7,200 億ドルの賭けの内部を独占的に見る`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
-    publishedAt: "2026-08-13T09:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "economy-grew-in-april-to-june-as-sun-and-8640a84e",
-    title: "Economy grew in April to June as sun and World Cup helped some UK businesses",
-    titleJa: "太陽とワールドカップが一部の英国企業を支援したため、4月から6月にかけて経済は成長した",
-    summaryJa: "太陽とワールドカップが一部の英国企業を支援したため、4月から6月にかけて経済は成長した- 公開されました",
-    bodyOriginal: `Economy grew in April to June as sun and World Cup helped some UK businesses
-- Published
-An added boost from summer sun and sports fixtures for some businesses helped the UK economy to grow by 0.4% between April and June, according to official data.
-But the figure - in line with economists' expectations - is below the 0.6% expansion recorded in the first three months of this year.
-The Office for National Statistics (ONS) said growth had "remained relatively robust", with services sector propelling growth in the second quarter while manufacturing also grew.
-Computer programming, advertising and the pharmaceutical industry were areas of strength, the ONS said. That was offset by falls in power generation and sewerage.
-The ONS said some businesses reported that "good weather and sporting events may have had a positive effect" in June, boosting month-on-month growth to 0.3% in June. However, May's growth was revised down from 0.1% to zero growth.
-The men's football World Cup, which kicked off mid-June, boosted customers at hospitality venues showing the matches.
-June also saw several of summer's heatwaves.
-The slowdown in growth over the three months to the end of June compared to the start of the year reflected the ongoing impact of the war in Iran as well as political uncertainty in the run up to Sir Keir Starmer's resignation as prime minister at the end of June.
-Chancellor of the Exchequer, John Healey MP said: "I know people are worried about the impact of the conflict in the Middle East on their cost of living, which has been too high for too long and it has added pressure on British businesses."
-He said the government's aim was to make the country "more resilient" and to "drive growth in every postcode".
-Shadow chancellor Sir Mel Stride said Labour had "mismanaged the economy with their tax and borrowing spree, leaving it weak and vulnerable to the effects of shocks like the Iran War.
-"Labour need to realise that it's their poor decisions which have stifled growth and made the cost of living worse," he said.
-Fergus Jimenez-England, Associate Economist National Institute of Economic and Social Research said the UK economy had "weathered the recent energy shock better than many feared", but said the recent pace of growth was unlikely to be sustained.
-"Both inflation and unemployment are set to rise in the coming months while business sentiment remains fragile and could dampen further with ongoing energy price volatility.
-"The economy has shown welcome resilience so far, but we are not out of the woods yet."
-Suren Thiru, ICAEW chief economist, said households and firms had "largely shrugged off the shockwaves from the Iran war".
-But he also expected weaker growth in the second half of the year, making the chancellor's Budget in October "more challenging".`,
-    bodyJa: `太陽とワールドカップが一部の英国企業を支援したため、4月から6月にかけて経済は成長した
-- 公開されました
-公式データによると、夏の日差しと一部の企業のスポーツ観戦が追い風となり、英国経済は４─６月に０．４％成長した。
-しかし、この数字はエコノミストの予想と一致し、今年最初の３カ月間に記録した０．６％の拡大を下回っている。
-国家統計局（ＯＮＳ）は、第２・四半期の成長をサービス部門がけん引する一方、製造業も成長し、成長は「引き続き比較的堅調」だったと述べた。
-ONSによると、コンピュータープログラミング、広告、製薬産業が得意分野だという。これを発電と下水道の減少で相殺した。
-ＯＮＳによると、一部の企業は６月に「好天とスポーツイベントが好影響を及ぼした可能性がある」と報告しており、６月の前月比伸び率は０．３％に押し上げられた。ただ、５月の成長率は０．１％からゼロ成長に下方修正された。
-6月中旬に開幕した男子サッカーワールドカップは、試合を観戦するホスピタリティ会場の客足を伸ばした。
-6月には夏の熱波も何度か見られました。
-年初と比べて6月末までの3カ月間の成長鈍化は、イラン戦争の影響が続いていることと、6月末のキア・スターマー卿の首相辞任に向けた政治的不確実性を反映している。
-財務大臣のジョン・ヒーリー議員は、「中東紛争が生活費に与える影響を国民が心配していることは承知している。あまりに長期にわたって高すぎる生活費が英国企業への圧力を高めている」と語った。
-同氏は、政府の目的は国を「より強靭にし」、「あらゆる郵便番号で成長を促進する」ことだと述べた。
-影の宰相メル・ストライド卿は、労働党が「税金と借金乱発で経済の管理を誤ったため、経済は弱体化し、イラン戦争のようなショックの影響を受けやすくなった」と述べた。
-同氏は「労働党は成長を阻害し、生活費を悪化させているのは自らの誤った決定であることを認識する必要がある」と述べた。
-国立経済社会研究所のアソシエイトエコノミスト、ファーガス・ヒメネス＝イングランド氏は、英国経済は「多くの人が懸念していたよりもうまく最近のエネルギーショックを乗り切った」としながらも、最近の成長ペースが維持される可能性は低いと述べた。
-「インフレと失業率は今後数カ月で上昇する見通しだが、景況感は依然脆弱で、エネルギー価格の変動が続いているためさらに鈍化する可能性がある。
-「経済はこれまでのところ歓迎すべき回復力を示しているが、まだ危機を脱していない。」
-ICAEWの首席エコノミスト、スレン・ティルー氏は、家計と企業は「イラン戦争による衝撃をほぼ回避している」と述べた。
-しかし同氏は、今年下半期の成長鈍化も予想しており、10月の首相予算案は「より困難」になると予想した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T07:44:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f86/live/21ac6b90-96de-11f1-9b96-77d3dc534330.jpg",
-    readTime: 3,
   },
 ];
 
