@@ -15,6 +15,270 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-family-backed-crypto-firm-world-li-b90d4663",
+    title: "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
+    titleJa: "トランプ一族が支援する仮想通貨会社ワールド・リバティが条件付きで銀行設立認可を取得",
+    summaryJa: "OCCはワールド・リバティ・トラスト社の全国信託銀行設立を条件付きで承認した。そうすれば、トランプ氏一族が支援する企業がステーブルコインを発行できるようになる。",
+    bodyOriginal: `A federal financial regulator has conditionally approved an application for a bank charter by an entity connected to World Liberty Financial, a crypto firm partially owned by President Donald Trump's family.
+The Office of the Comptroller of the Currency on Friday gave conditional approval to World Liberty Trust Co.'s application for a national trust bank, according to a letter posted on the OCC's website. The trust company is sponsored by World Liberty Financial, which says on its website it is 38% owned by "an entity affiliated with Donald J. Trump and certain of his family members."
+The banking charter will enable World Liberty to issue stablecoins, a type of cryptocurrency that is backed by safe reserve assets such as U.S. Treasurys and is convertible one-to-one into U.S. dollars. World Liberty currently relies on a third party, BitGo, for some stablecoin services. Bringing those services in house could be lucrative.
+The charter application process won't be fully complete until the company completes additional steps, including raising capital. The OCC under Trump has emphasized its support for new bank charter applications, which are reviewed by career staff. It has received 40 applications since 2025, a sharp increase compared with President Joe Biden's term, according to agency data. Many are tied to crypto projects.
+"We welcome continuous scrutiny from Federal regulators for many years to come," World Liberty Financial CEO Zach Witkoff said in a statement. Witkoff is also chairman of the OCC-regulated trust company.
+Witkoff is the son of Trump's Middle East negotiator Steven Witkoff.
+Some congressional Democrats have refused to support the Clarity Act, a bill to regulate the crypto industry, because it doesn't impose strict limits on the president's ability to profit from crypto ventures.
+Sen. Elizabeth Warren, D-Mass., had previously urged the OCC not to approve World Liberty's application unless the president divested of his interests in the company.
+"President Trump is now the first President in history to approve, operate, and supervise his own bank," Warren said in a statement after the OCC approval.
+"This is the most brazen act of self-dealing our financial system has ever seen — and Congress cannot allow it to stand."
+Warren said she and several colleagues would introduce legislation to prevent presidents and senior government officials from owning or controlling banks.
+The OCC declined to comment on the approval.
+Correction: OCC applications are reviewed entirely by career staff at the agency. An earlier version understated their role.`,
+    bodyJa: `連邦金融規制当局は、ドナルド・トランプ大統領の家族が一部所有する仮想通貨会社ワールド・リバティ・ファイナンシャルに関連する団体による銀行設立の申請を条件付きで承認した。
+OCCのウェブサイトに掲載された書簡によると、金曜日、通貨監督庁はワールド・リバティ・トラスト社による国内信託銀行への申請を条件付きで承認した。この信託会社はワールド・リバティ・ファイナンシャルによって後援されており、同社のウェブサイトでは、同社の38％が「ドナルド・J・トランプとその家族の一部と関連する団体」によって所有されていると述べている。
+この銀行憲章により、ワールド・リバティは、米国債などの安全準備資産に裏付けられ、1対1で米ドルに交換できる一種の暗号通貨であるステーブルコインを発行できるようになる。 World Liberty は現在、一部のステーブルコイン サービスをサードパーティの BitGo に依存しています。こうしたサービスを自社に導入すれば、儲かる可能性がある。
+チャーター申請プロセスは、同社が資金調達を含む追加の手順を完了するまで完全には完了しません。トランプ政権下のOCCは、キャリアスタッフが審査する新規銀行認可申請への支持を強調してきた。当局のデータによると、2025年以降に40件の申請があり、ジョー・バイデン大統領の任期と比べて大幅に増加した。その多くは暗号プロジェクトに関連しています。
+ワールド・リバティ・ファイナンシャルのザック・ウィトコフ最高経営責任者（CEO）は声明で、「連邦規制当局による今後長年にわたる継続的な監視を歓迎する」と述べた。ウィトコフ氏は、OCC規制の信託会社の会長でもある。
+ウィトコフ氏は、トランプ大統領の中東交渉担当者スティーブン・ウィトコフ氏の息子である。
+議会民主党の一部は、大統領が仮想通貨ベンチャーから利益を上げる能力に厳格な制限を課していないとして、仮想通貨業界を規制する法案であるクラリティ法への支持を拒否している。
+マサチューセッツ州民主党のエリザベス・ウォーレン上院議員は以前、大統領がワールド・リバティ社に対する権益を放棄しない限り、ワールド・リバティ社の申請を承認しないようOCCに要請していた。
+ウォーレン氏はＯＣＣ承認後の声明で「トランプ大統領は自身の銀行を承認、運営、監督した史上初の大統領となった」と述べた。
+「これは我が国の金融システムがこれまで見た中で最も厚かましい自己取引行為であり、議会はこれを放置することはできない。」
+ウォーレン氏は、数人の同僚とともに、大統領や政府高官が銀行を所有したり支配したりすることを防ぐ法案を提出するつもりだと述べた。
+OCCは承認についてコメントを控えた。
+訂正: OCC の申請は、代理店のキャリア スタッフによって完全に審査されます。以前のバージョンでは、その役割が控えめに説明されていました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/world-liberty-trump-occ-bank-charter-stablecoin.html",
+    publishedAt: "2026-08-14T23:41:50+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "nvidia-discloses-21-billion-stake-in-spa-49cff152",
+    title: "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+    titleJa: "Nvidia、第 2 四半期末に SpaceX への 210 億ドルの株式を公開",
+    summaryJa: "エヌビディアは金曜日、イーロン・マスク氏のスペースXへの自社株が第2四半期末時点で約210億ドル相当だったと明らかにした。半導体メーカーは証券取引委員会への提出書類の中で、6月に公開市場デビューを果たしたイーロン・マスク氏のロケットメーカーのクラスA株1億2,280万株を所有していると述べた。",
+    bodyOriginal: `Nvidia disclosed on Friday that its stake in Elon Musk's SpaceX was worth about $21 billion at the end of the second quarter.
+The chipmaker said in a filing with the Securities and Exchange Commission that it owns 122.8 million Class A shares in Elon Musk's rocket maker, which held its public market debut in June.
+SpaceX's stock closed at $140 on Friday, down from $170.86 at the end of June, so the value of Nvidia's shares have declined to about $17.2 billion.
+It's Nvidia's second biggest holding behind its stake in Intel, which is currently worth about $22 billion, down from $30 billion when the quarter ended. That represents a massive return on Nvidia's $5 billion investment less than a year ago.
+Nvidia is the sixth biggest investor in SpaceX, based on data from FactSet. Musk is by far the largest owner with a stake worth about $850 billion. Alphabet is second at roughly $78 billion.
+Nvidia's shares in SpaceX came from the company's $10 billion investment in Musk's xAI as part of a $20 billion round in January, according to a person familiar with knowledge of the matter who asked not to be named because the exact size of the deal wasn't made public. SpaceX acquired xAI in February in a deal valued at $1.25 trillion.
+Musk said on SpaceX's second-quarter earnings call earlier this month that the company will exclusively use Nvidia chips in its AI data centers. He said Nvidia's graphics processing units have the "best architecture" for training and inference of AI models, and related products and services.
+Musk also said, on the call that he expects SpaceX will receive a "significant allocation" of Nvidia's Vera Rubin GPUs next year.`,
+    bodyJa: `エヌビディアは金曜日、イーロン・マスク氏のスペースXへの自社株が第2四半期末時点で約210億ドル相当だったと明らかにした。
+半導体メーカーは証券取引委員会への提出書類の中で、6月に公開市場デビューを果たしたイーロン・マスク氏のロケットメーカーのクラスA株1億2,280万株を所有していると述べた。
+スペースX株の金曜終値は140ドルで、6月末の170.86ドルから下落したため、エヌビディア株の価値は約172億ドルまで減少した。
+これは、NVIDIA がインテル株に次いで 2 番目に大きい保有株であり、現在の価値は約 220 億ドルで、四半期終了時の 300 億ドルから減少しました。これは、1 年以内に Nvidia が行った 50 億ドルの投資に対する巨額の利益を意味します。
+ファクトセットのデータに基づくと、NVIDIA は SpaceX への 6 番目に大きな投資家です。マスク氏は約8500億ドル相当の株式を保有する最大のオーナーだ。アルファベットは約780億ドルで2位だ。
+取引の正確な規模が公表されていないため匿名を希望したこの件に詳しい関係者によると、NVIDIAのSpaceX株は、1月の200億ドルラウンドの一環として同社がマスク氏のxAIに100億ドル投資したことによるものだという。 SpaceXは2月に1兆2500億ドル相当の契約でxAIを買収した。
+マスク氏は今月初めのSpaceXの第2四半期決算会見で、同社のAIデータセンターではNvidiaチップのみを使用すると述べた。同氏は、Nvidiaのグラフィックス処理装置はAIモデルのトレーニングや推論、関連製品やサービスに「最高のアーキテクチャ」を備えていると述べた。
+マスク氏はまた、電話会議で、SpaceXが来年、NvidiaのVera Rubin GPUの「大幅な割り当て」を受けるだろうと予想しているとも述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+    publishedAt: "2026-08-14T21:45:19+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "berkshire-hathaway-doubles-down-on-the-u-ed92fc95",
+    title: "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+    titleJa: "バークシャー・ハサウェイはこの株に新たな賭けで米国の住宅市場で倍増する",
+    summaryJa: "バークシャー・ハサウェイは米国住宅市場への賭け金を増やし、アルファベットとデルタ航空への出資比率も引き上げた。",
+    bodyOriginal: `Berkshire Hathaway has upped its bet on the U.S. housing market, and also boosted its stakes in Alphabet and Delta Air Lines.`,
+    bodyJa: `バークシャー・ハサウェイは米国住宅市場への賭け金を増やし、アルファベットとデルタ航空への出資比率も引き上げた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+    publishedAt: "2026-08-14T21:34:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-36705038",
+    readTime: 2,
+  },
+  {
+    id: "protein-or-pickled-garlic-what-s-new-in-eb9e483e",
+    title: "Protein or pickled garlic? What's new in ice cream",
+    titleJa: "プロテインかニンニクのピクルスか？アイスクリームの最新情報",
+    summaryJa: "プロテインかニンニクのピクルスか？アイスクリームの最新情報- 公開されました",
+    bodyOriginal: `Protein or pickled garlic? What's new in ice cream
+- Published
+I'm at the research and development centre of the world's biggest publicly listed ice-cream maker, Magnum. Near Bedford in the UK, it's where the company's researchers dream up new recipes and develop their production processes.
+What really catches my eye is a pale yellow glow in the corner of the room. The light emanates from a glow-in-the-dark ice lolly.
+Launched in the clubbing capital of Ibiza, it's targeted toward clubbers and festival-goers, and one of its ingredients, vitamin B2, is naturally luminescent and glows under UV club lights.
+While a luminescent product may seem a bit of a gimmick, ice cream is a serious business and innovation is crucial to staying ahead of the game.
+There's tough competition from other giants including Häagen-Dazs owner, Froneri, and Baskin-Robbins, the world's largest chain of ice cream specialty shops, not to mention smaller artisan ice cream makers that are popping up all the time.
+They're all dealing with a notoriously unpredictable market and with fluctuating commodity and energy prices. No one can afford to stand still.
+"We've had five years of price volatility impacted by war in Ukraine, Covid, the cost of living crisis. We've now got the Strait of Hormuz. We've just been in this constant state of instability when it comes to pricing," says Georgia Rose, principal analyst at global market research company, Kantar Retail IQ.
+And those price fluctuations affect multiple areas of the ice-cream making process.
+"Manufacturers have been hit by higher prices for dairy, cream, eggs; the ingredients that make ice-cream bases. And then you've got the flavours; vanilla, chocolate, sugar, fruit. And something that often gets forgotten is the cold-chain energy costs and storage," she says.
+Rising costs are something The Magnum Ice Cream Company is battling with. It was spun off from parent firm Unilever last year and owns brands including Cornetto, Twister, Solero and of course, Magnum.
+As the largest stock market-listed ice cream company in the world, with a market capitalisation of around £8bn, it has the funds to innovate.
+One area under constant development is refrigeration - globally Magnum owns three million fridges, (designed and built by a third party), and some are fitted with cameras taking images to be uploaded to data centres.
+From the pictures, AI identifies each product and it's also trained in depth-recognition, which means it can estimate how many units of a particular ice cream have been sold and when a fridge needs to be restocked. This equates to less empty space and more targeted supplies.
+Meanwhile, the fridges themselves have been made more energy efficient.
+Zbigniew Lewicki, Magnum's chief research, design & innovation officer says innovations like this aren't just a nice-to-have, they're crucial to the business' bottom line.
+"If you look at the freezers we had in 2010, the ones we have now are 40% more efficient. Will we ever be able to absorb every shock? I can't say, but it's definitely one way of making the business long-term resilient."
+Fridge technology isn't something the average consumer will notice, but new products on the shelf are a different story. When it comes to innovation, a lot of attention is turning to Asia according to Lewicki.
+"The inspiration and trends come from the East. There's an incredible intensity of innovation in places like Japan, Korea and China and the markets are growing and expanding in a phenomenal way."
+One of the products inspired by Lewicki's trips is Volcanics which has launched in the UK and Europe. It comprises a chocolate shell with biscuit pieces, chocolate and vanilla ice cream layers, and a caramel lava centre which he describes as "four dimensional".
+Shanghai-based, Neil Yan is a researcher of market trends for consumer and sensory specialists, MMR. She agrees that Asia is now the centre of ice-cream innovation, and says there are some deeper cultural reasons for this,
+"In China, ice cream is no longer a niche story. It's not just for Instagram. It's not just a summer treat. It's a new centre of gravity, representing a part of Chinese people's lifestyle."
+And Yan says this affects the whole market: "[We are in] an era where everyone is experimenting with the flavours and the format, and blending it with what China, or the border term, Asian nationality, represents."
+And within the context of flavour experimentation, pretty much anything goes.
+"We have ham, pickled garlic, tahini, and stinky tofu and liquor. Just below my office is a shop whose speciality is vodka, foie gras and apple in one scoop," says Yan.
+"The reason why people are so excited and so experimental is basically the ability to think beyond just the flavours that have been offered by the Western market for the past two or three decades."
+Innovation in ice cream is not just limited to flavour, according to Honorata Jarocka, associate director at market intelligence company, Mintel. She says that products with added health angles are becoming increasingly popular.
+Take protein for example, which has made its way into cereal bars and milkshakes over the last few years and now ice cream.
+"It's not only about building your muscles, it's more about satiety because with the GLP1 user movement, [incorporating weight loss drugs such as Ozempic and Mounjaro], people are drawn to products that are more filling. Protein is really an important factor and ice-cream is a great place to use that."
+But protein-packed ice cream often doesn't come cheap. David bars made by US company David Protein - and with a whopping 20g of protein - come in at $39.99 (£30) for a 12-pack, more than double the price of Magnum's Yasso frozen yoghurt bars.
+But they've been a hit says Jarocka, because consumers are choosing "high quality, smaller portions, and are able to maybe pay a bit more for products with extra benefits because they are spending less on grocery items overall."
+Back in Bedford, Magnum researchers are tinkering with their core product, with a little robotic help. The goal is to find the perfect viscosity of chocolate on Magnum bars, for the perfect crunch.
+Helping with that is a robot called Eric, who does something that even the most dedicated ice cream consumer could not - collecting data on ice cream 24 hours a day.
+More Technology of Business
+- Published3 July
+- Published12 June
+- Published26 June`,
+    bodyJa: `プロテインかニンニクのピクルスか？アイスクリームの最新情報
+- 公開されました
+私は世界最大の上場アイスクリームメーカー、マグナムの研究開発センターにいます。英国のベッドフォードの近くにあるここは、同社の研究者が新しいレシピを考案し、生産プロセスを開発する場所です。
+私の目を引いたのは、部屋の隅にある淡い黄色の光です。暗闇で光るアイスキャンディーから光が発せられます。
+クラブの首都イビサで発売されたこの製品は、クラバーやフェスティバルに参加する人をターゲットにしており、その成分の 1 つであるビタミン B2 は天然発光性で、UV クラブ ライトの下で光ります。
+発光する製品というとちょっとした仕掛けのように思えるかもしれませんが、アイスクリームは真剣なビジネスであり、業界の一歩先を行くためにはイノベーションが不可欠です。
+ハーゲンダッツのオーナーであるフロネリ社や、世界最大のアイスクリーム専門店チェーンであるバスキン・ロビンス社を含む他の大手企業との激しい競争があり、言うまでもなく、続々と登場する小規模な手作りアイスクリームメーカーもある。
+それらはすべて、悪名高い予測不可能な市場と、変動する商品やエネルギーの価格に対処しています。誰も立ち止まっているわけにはいきません。
+世界的な市場調査会社カンター・リテールIQの主席アナリスト、ジョージア・ローズ氏は「ウクライナ戦争、新型コロナウイルス、生活費危機の影響で価格変動がここ5年続いた。今ではホルムズ海峡もある。価格設定に関しては常に不安定な状態にあるだけだ」と語る。
+そして、こうした価格変動はアイスクリーム製造プロセスの複数の領域に影響を与えます。
+「メーカーは、アイスクリームのベースを作る材料である乳製品、クリーム、卵の価格高騰に見舞われています。そして、バニラ、チョコレート、砂糖、フルーツなどのフレーバーも用意されています。そして忘れられがちなのが、コールドチェーンのエネルギーコストと貯蔵です」と彼女は言う。
+マグナム・アイスクリーム・カンパニーはコストの上昇と戦っている。同社は昨年親会社ユニリーバから独立し、Cornetto、Twister、Solero、そしてもちろんMagnumなどのブランドを所有している。
+株式市場に上場している世界最大のアイスクリーム会社であり、時価総額は約80億ポンドであり、イノベーションを起こすための資金を持っています。
+絶え間なく開発が進められている分野の 1 つは冷凍です。マグナムは世界中で 300 万台の冷蔵庫 (サードパーティによって設計および製造されたもの) を所有しており、一部にはデータセンターにアップロードする画像を撮影するカメラが取り付けられています。
+AI は写真から各製品を識別し、奥行き認識のトレーニングも受けているため、特定のアイスクリームが何個売れたのか、いつ冷蔵庫に補充する必要があるのか​​を推定できます。これは、空きスペースが減り、対象を絞った供給が増えることを意味します。
+一方で、冷蔵庫自体のエネルギー効率も向上しました。
+マグナム社の主任研究・設計・イノベーション責任者であるズビグネフ・レヴィツキ氏は、このようなイノベーションは単にあると便利なものではなく、ビジネスの収益にとって極めて重要であると語る。
+「2010 年に当社が使用していた冷凍庫を見てみると、現在使用している冷凍庫は効率が 40% 向上しています。すべての衝撃を吸収できるようになるでしょうか? 私には言えませんが、それがビジネスを長期的に回復力のあるものにする 1 つの方法であることは間違いありません。」
+冷蔵庫のテクノロジーは一般の消費者が目にするものではありませんが、棚に並ぶ新製品となると話は別です。ルウィッキー氏によると、イノベーションに関してはアジアに多くの注目が集まっているという。
+「インスピレーションとトレンドは東洋から来ています。日本、韓国、中国などの地域では信じられないほどのイノベーションの激しさがあり、市場は驚異的な方法で成長し、拡大しています。」
+Lewicki の旅からインスピレーションを得た製品の 1 つが Volcanics で、英国とヨーロッパで発売されました。これは、ビスケット片が入ったチョコレートのシェル、チョコレートとバニラのアイスクリームの層、そして彼が「四次元」と表現するキャラメル溶岩の中心で構成されています。
+上海を拠点とするニール・ヤンは、消費者および感覚の専門家である MMR の市場動向の研究者です。彼女はアジアが現在アイスクリームの革新の中心地であることに同意し、これにはより深い文化的理由があると述べています。
+「中国では、アイスクリームはもはやニッチな話題ではありません。それはインスタグラムのためだけのものではありません。単なる夏のごちそうではありません。アイスクリームは中国人のライフスタイルの一部を代表する新たな重心です。」
+そしてヤン氏は、これが市場全体に影響を及ぼしていると述べ、「誰もが味やフォーマットを実験し、それを中国、あるいは国境用語であるアジアの国籍が表すものと融合させている時代だ」と語った。
+そして、フレーバーの実験という文脈では、ほとんど何でも可能です。
+「ハム、ニンニクのピクルス、タヒニ、臭豆腐、酒などを取り揃えています。私のオフィスのすぐ下に、ウォッカ、フォアグラ、リンゴをひとさじに入れた名物店があります」とヤンさんは言います。
+「人々がこれほど興奮し、実験的に取り組む理由は、基本的に、過去 20 ～ 30 年にわたって西洋市場で提供されてきたフレーバーだけを超えて考える能力にあるのです。」
+マーケット・インテリジェンス会社ミンテルのアソシエイト・ディレクター、オノラタ・ジャロッカ氏によると、アイスクリームの革新は味だけに限定されるものではありません。彼女は、健康に関する視点を加えた製品の人気が高まっていると述べています。
+プロテインを例に挙げてみましょう。プロテインはここ数年でシリアルバーやミルクセーキ、そして今ではアイスクリームにまで浸透しています。
+「筋肉を増強するだけではなく、満腹感が重要です。GLP1ユーザー運動（オゼンピックやムンジャロなどの減量薬を組み込む）により、人々はより満腹感のある製品に惹かれるからです。プロテインは本当に重要な要素であり、アイスクリームはそれを利用するのに最適な場所です。」
+しかし、プロテインたっぷりのアイスクリームは安くないことが多いです。米国の企業デビッド・プロテインが製造するデビッド・バーは、なんと20gのプロテインが入っており、12パックで39.99ドル（約30ポンド）で、マグナムのヤッソ・フローズン・ヨーグルト・バーの2倍以上の価格だ。
+しかしジャロッカ氏は、消費者が「高品質で量が少なく、食料品への支出が全体的に減っているため、特典付きの商品には多少高くても買える」ことを選択しているため、ヒット商品になっていると述べた。
+ベッドフォードに戻ったマグナムの研究者たちは、ロボットの助けを借りながら、中核となる製品をいじっています。目標は、完璧なクランチを実現するために、マグナムバー上のチョコレートの完璧な粘度を見つけることです。
+それを支援するのがエリックと呼ばれるロボットで、アイスクリームのデータを 24 時間収集するという、最も熱心なアイスクリーム消費者ですら不可能なことを行っています。
+ビジネスのさらなるテクノロジー
+- 7 月 3 日発行
+- 6 月 12 日発行
+- 6 月 26 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T21:20:19+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c67/live/6a1b9720-7c35-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 8,
+  },
+  {
+    id: "berkshire-hathaway-boosts-alphabet-to-a-2bcea7bd",
+    title: "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+    titleJa: "バークシャー・ハサウェイがアルファベットを保有株トップ3に押し上げ、デルタと住宅への賭けも上昇",
+    summaryJa: "バークシャー・ハサウェイは第2四半期にアルファベットへの出資比率を大幅に引き上げ、親会社であるグーグルを3大株式保有者に押し上げた。この広大な複合企業は、デルタ航空やさまざまな住宅建設会社への投資の規模も拡大しました。金曜日に発表された規制当局への提出書類によると、バークシャーは現在最高経営責任者（CEO）グレッグ・アベルの下で事業を展開しており、6月末時点で379億ドル相当のアルファベット株約1億600万株を保有していた。ポジションの規模は最新四半期に83％急増し、アルファベットはオマハに本拠を置くバークシャーの米国上場株式を時価総額で3番目に多く保有する企業となった。 Apple と American Express への投資だけが規模が大きくなります。",
+    bodyOriginal: `Berkshire Hathaway sharply increased its stake in Alphabet in the second quarter, vaulting the Google parent into its three biggest stock holdings. The sprawling conglomerate also added to the size of its investments in Delta Air Lines and various homebuilders.
+Berkshire, now operating under CEO Greg Abel, owned about 106 million Alphabet shares worth $37.9 billion at the end of June, according to a regulatory filing released Friday. The size of the position jumped 83% in the latest quarter, making Alphabet the third-largest U.S.-listed equity holding at Omaha-based Berkshire by market value. Only investments in Apple and American Express are larger.
+The increase largely reflects a $10 billion private stock purchase announced in early June, when Alphabet sought fresh capital to finance its massive AI infrastructure buildout.
+Warren Buffett, now chairman at Berkshire, told CNBC he had been behind the bullish view on Alphabet, with Abel's support.
+Berkshire also continued to build a sizable wager on the airline industry, a past favorite of Buffett's. The holding in Delta Air Lines climbed 44% during the quarter, to 57.3 million shares, valued at about $5.4 billion at the end of June. Berkshire had only recently returned to Delta after famously selling its airline holdings in the early days of the pandemic.
+Housing was another cyclical business where Berkshire increased its exposure, boosting its holding of Class A shares of Lennar by nearly 30%, to 13.1 million shares, worth about $1.19 billion, while Class B holdings rose 25% to roughly 298,000 shares. Berkshire also disclosed a small new position in D.R. Horton, holding 3,600 shares at the end of June.
+Berkshire ended a long streak of net stock sales, emerging as a buyer of equities in the second quarter with nearly $20 billion in net purchases. Berkshire had been a net seller for 14 straight quarters before the latest three-month period.
+The conglomerate's cash level fell to $365.5 billion at the end of June from a record $397.4 billion three months earlier, as Berkshire began putting more of its capital to work through investments and share repurchases. The quarter also saw the completion of Berkshire's acquisition of Taylor Morrison, a Scottsdale, Arizona-based homebuilder.`,
+    bodyJa: `バークシャー・ハサウェイは第2四半期にアルファベットへの出資比率を大幅に引き上げ、親会社であるグーグルを3大株式保有者に押し上げた。この広大な複合企業は、デルタ航空やさまざまな住宅建設会社への投資の規模も拡大しました。
+金曜日に発表された規制当局への提出書類によると、バークシャーは現在最高経営責任者（CEO）グレッグ・アベルの下で事業を展開しており、6月末時点で379億ドル相当のアルファベット株約1億600万株を保有していた。ポジションの規模は最新四半期に83％急増し、アルファベットはオマハに本拠を置くバークシャーの米国上場株式を時価総額で3番目に多く保有する企業となった。 Apple と American Express への投資だけが規模が大きくなります。
+この増加は主に、アルファベットが大規模なAIインフラ構築に資金を提供するための新たな資金を求めていた6月初旬に発表した100億ドルの未公開株購入を反映している。
+現在バークシャーの会長を務めるウォーレン・バフェット氏はCNBCに対し、アルファベットに対する強気の見方を支えたのはアベル氏の支援だったと語った。
+バークシャーはまた、バフェット氏のかつてのお気に入りだった航空業界に巨額の賭け金を積み続けた。デルタ航空の保有株は同四半期中に44％増加し、5,730万株となり、6月末時点で約54億ドル相当となった。バークシャーは、パンデミックの初期に航空会社の保有株を売却したことは有名であったが、デルタ航空に戻ったのはつい最近だった。
+住宅もまた景気循環事業で、バークシャーはエクスポージャーを増やし、レナーのクラスA株の保有を30％近く増やして1310万株（約11億9000万ドル相当）とした一方、クラスBの保有株は25％増の約29万8000株となった。バークシャーはまた、DRにおける小規模な新たなポジションも明らかにした。ホートンは6月末時点で3,600株を保有。
+バークシャーは、第2四半期には200億ドル近くの純購入で株式の買い手として浮上し、長期にわたる株式の純売却記録に終止符を打った。バークシャーは直近の３カ月期までは１４四半期連続で売り越しとなっていた。
+バークシャーが投資や自社株買いを通じてより多くの資本を活用し始めたため、複合企業の現金水準は3カ月前の過去最高だった3974億ドルから6月末時点で3655億ドルに減少した。同四半期には、バークシャーによるアリゾナ州スコッツデールに本拠を置く住宅建設会社テイラー・モリソンの買収も完了した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+    publishedAt: "2026-08-14T21:06:48+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "regulators-and-banks-step-up-scrutiny-of-7d8b48aa",
+    title: "Regulators and banks step up scrutiny of prediction markets",
+    titleJa: "規制当局と銀行が予測市場の監視を強化",
+    summaryJa: "商品先物取引委員会は予測プラットフォーム上の「メンション市場」について内部調査を行っていると、状況に詳しい関係者が金曜日CNBCに語った。メンション市場は、特定の単語がスピーチ、アナリストや投資家との企業決算会見、またはテレビ放送で使用されるかどうかをトレーダーが推測する契約で構成されています。",
+    bodyOriginal: `The Commodity Futures Trading Commission is conducting an internal review into "mention markets" on prediction platforms, people familiar with the situation told CNBC Friday.
+Mention markets are made up of contracts where traders speculate on whether specific words will be used in a speech, a corporate earnings call with analysts and investors or a television broadcast.
+One of the people familiar with the matter said the CFTC first alerted platform Kalshi of the review several weeks ago. The platform removed sports-related mention markets around the same time the CFTC — the federal regulator for prediction markets — alerted the company, the person said. NPR first reported an inquiry into mention markets late Thursday.
+It's unclear if the inquiry only applies to sports-related mention markets, or all of them regardless of topic.
+Kalshi and the CFTC declined to comment.
+Most scrutinized
+Mention markets are some of prediction markets' most scrutinized offerings. Critics view them as easily manipulable by one individual, and some platforms don't offer them. Mention markets saw about $3.3 million in trading volume on Kalshi last month, according to Dune Analytics, far behind larger markets such as those devoted to cryptocurrencies.
+In July, the CFTC said it was investigating a former teleprompter operator for President Donald Trump who allegedly made $90,000 in profits on Kalshi betting on the content of Trump's speeches.
+Coinbase CEO Brian Armstrong last December rattled off a series of random words at the end of an earnings call to demonstrate how easily prediction market wagers can be manipulated. "I just want to add here the words bitcoin, ethereum, blockchain, staking and Web3 to make sure we get those in before the end of the call," he said.
+Proponents of mention markets argue words by powerful individuals have the power to move billions of dollars of money across traditional markets, making it useful to have attach predictive power to them.
+"The suggestion that Mentions Markets create 'new' manipulation incentives is, on close inspection, overstated," Kalshi head of market operations Arjun Sawai wrote in a letter to the CFTC as part of a public comment period last month. "They merely add a marginal, regulated, transparent, position-limited, surveilled increment to a vastly larger existing incentive structure."
+Platform Polymarket does not have mention markets on its CFTC-regulated U.S. exchange, but offers them overseas.
+Meeting next week
+The probe into prediction market contracts comes ahead of a meeting of the CFTC's Innovation Advisory Committee on Aug. 20. The committee will discuss prediction markets, as well as artificial intelligence and cryptocurrency, according to a public agenda.
+The latest investigation also comes after the CFTC increased scrutiny of prediction market platforms in recent weeks, even as it supports the event contract exchanges in a battle with states over sports-related wagers and gambling. The commission has sued nine states to defend what it sees as its exclusive jurisdiction to regulate event contracts.
+Last month, the CFTC invited public comments on vertical integration among regulated entities, warning platforms to avoid sending broadly-worded, self-certified event contracts. The agency also sent letters to the platforms last week, reminding them not to present their odds in a casino-style format.
+A Washington state judge on Thursday issued an order blocking several of Kalshi's markets from operating there, including mention markets, sports, elections and other high volume categories. Kalshi is likely violating state law by operating as an illegal gambling operation, according to the order.
+Washington becomes the fourth state blocking Kalshi, joining Michigan, Nevada and Massachusetts. A federal judge in Minnesota last month overturned a potential statewide ban on prediction market platforms.
+The Financial Times reported Friday that Polymarket was cut off from financial services by JPMorgan last October over concerns about government regulation. A Polymarket spokesperson told CNBC it's still maintaining a relationship with the largest U.S. bank.
+"We maintain a close, active relationship with JPMorgan across multiple entities, operational integrations, and material handling customer fund flows; the strength of our relationship is highlighted by our CEO speaking at three of their flagship events in the past year alone," a Polymarket spokesperson said in a statement. "Any suggestion otherwise fundamentally mischaracterizes our relationship."
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `商品先物取引委員会は予測プラットフォーム上の「メンション市場」について内部調査を行っていると、状況に詳しい関係者が金曜日CNBCに語った。
+メンション市場は、特定の単語がスピーチ、アナリストや投資家との企業決算会見、またはテレビ放送で使用されるかどうかをトレーダーが推測する契約で構成されています。
+関係者の１人によると、ＣＦＴＣは数週間前にプラットフォームのカルシに初めてこの見直しについて警告した。この関係者によると、予測市場の連邦規制当局であるCFTCが同社に警告したのとほぼ同時に、同プラットフォームはスポーツ関連の言及市場を削除したという。 NPRは木曜遅くにメンション市場への調査を初めて報じた。
+この調査がスポーツ関連の言及市場のみに適用されるのか、それとも話題に関係なくすべての市場に適用されるのかは不明である。
+カルシとCFTCはコメントを控えた。
+最も精査されている
+メンション マーケットは、予測マーケットの中でも最も精査されたサービスの一部です。批評家は、それらは個人によって簡単に操作できるものとみなしており、一部のプラットフォームではそれらを提供していません。デューン・アナリティクスによると、先月のカルシのメンション市場の取引高は約330万ドルで、仮想通貨専用の市場などの大規模市場に大きく及ばない。
+CFTCは7月、トランプ大統領の演説内容に賭けてカルシで9万ドルの利益を得た疑いで、ドナルド・トランプ大統領の元テレプロンプターオペレーターを捜査していると発表した。
+コインベースのCEOブライアン・アームストロング氏は昨年12月、決算会見の最後にランダムな言葉を連発して、予測市場の賭け金がいかに簡単に操作できるかを実証した。 「電話が終わる前にそれらを確実に理解できるように、ビットコイン、イーサリアム、ブロックチェーン、ステーキング、Web3という言葉をここに追加したいと思います」と彼は述べた。
+言及市場の支持者は、有力な個人の言葉には従来の市場全体で数十億ドルの資金を動かす力があり、それに予測力を持たせることが有益であると主張する。
+「メンション市場が『新たな』操作インセンティブを生み出すという提案は、よく調べてみると誇張されている」とカルシの市場運営責任者アルジュン・サワイ氏は先月のパブリックコメント期間の一環としてCFTCに宛てた書簡の中で述べた。 「それらは、非常に大規模な既存のインセンティブ構造に、限界的で、規制され、透明性があり、ポジションが限定され、監視されている増分を追加するだけです。」
+プラットフォーム Polymarket は、CFTC 規制の米国取引所に市場を記載していませんが、海外では市場を提供しています。
+来週の会議
+予測市場契約に関する調査は、8月20日に開催されるCFTCのイノベーション諮問委員会の会合に先立って行われる。公開議題によると、同委員会では予測市場のほか、人工知能や仮想通貨についても議論される予定だという。
+今回の調査は、CFTCがスポーツ関連の賭博や賭博を巡る各国との争いでイベント契約の取り交わしを支持しながらも、ここ数週間で予想市場プラットフォームへの監視を強化したことを受けて行われた。同委員会は、イベント契約を規制する独占的管轄権を擁護するために9つの州を訴えた。
+CFTCは先月、規制対象事業体間の垂直統合に関するパブリックコメントを募集し、広義の自己認証イベント契約書の送付を避けるようプラットフォームに警告した。同庁は先週、各プラットフォームに書簡を送り、オッズをカジノ形式の形式で提示しないよう注意を促した。
+ワシントン州の判事は木曜日、言及市場、スポーツ、選挙、その他の取引量の多いカテゴリーを含むカルシのいくつかの市場のそこでの運営を阻止する命令を出した。命令によると、カルシ氏は違法賭博事業として州法に違反している可能性があるという。
+ワシントン州はミシガン州、ネバダ州、マサチューセッツ州に続き、カルシを阻止する4番目の州となる。ミネソタ州の連邦判事は先月、予測市場プラットフォームに対する州全体の禁止の可能性を覆した。
+フィナンシャル・タイムズ紙は金曜日、ポリマーケットが政府規制への懸念を理由に昨年10月にJPモルガンによって金融サービスから切り離されたと報じた。ポリマーケットの広報担当者はＣＮＢＣに対し、米最大手銀行との関係は引き続き維持していると語った。
+ポリマーケットの広報担当者は声明で、「当社は、複数の事業体、業務統合、顧客の資金の流れのマテリアルハンドリングにおいて、JPモルガンと緊密かつ積極的な関係を維持している。当社の関係の強さは、当社のCEOが過去1年だけで3つの主力イベントで講演したことからも明らかだ」と述べた。 「それ以外のいかなる提案も、私たちの関係を根本的に誤ったものにしてしまいます。」
+開示: CNBC とカルシには、顧客の獲得と少数出資を含む商業関係があります。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+    publishedAt: "2026-08-14T19:21:49+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "16-beaten-down-ai-stocks-that-are-belove-c10cb3e3",
+    title: "16 beaten-down AI stocks that are beloved by BofA analysts",
+    titleJa: "BofAアナリストに愛される16のボロボロのAI株",
+    summaryJa: "アナリストらによると、最近のAI関連株の下落は、ハードウェア、インターネット、エネルギー分野の投資家にチャンスをもたらしているという。",
+    bodyOriginal: `A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.`,
+    bodyJa: `アナリストらによると、最近のAI関連株の下落は、ハードウェア、インターネット、エネルギー分野の投資家にチャンスをもたらしているという。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+    publishedAt: "2026-08-14T19:09:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-65244158",
+    readTime: 2,
+  },
+  {
     id: "a-plan-to-save-social-security-involves-8780db7f",
     title: "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
     titleJa: "社会保障を節約する計画では、高額所得者がより多くの給付金を受け取ることなく、より多くの税金を支払う必要がある",
@@ -26,6 +290,20 @@ export const articles: Article[] = [
     publishedAt: "2026-08-14T18:47:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-21882129",
+    readTime: 2,
+  },
+  {
+    id: "congress-changed-the-rules-around-charit-8f16ff5e",
+    title: "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
+    titleJa: "議会は慈善寄付に関する規則を変更した。年の早い時期に寄付すると、より多くのお金を節約できるようになります。",
+    summaryJa: "議会は今年、慈善事業控除に関する3つの規則を変更した。最近人々が慈善団体にお金を寄付する最も一般的な方法は、おそらく最も高価な方法でもあります。",
+    bodyOriginal: `Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.`,
+    bodyJa: `議会は今年、慈善事業控除に関する3つの規則を変更した。最近人々が慈善団体にお金を寄付する最も一般的な方法は、おそらく最も高価な方法でもあります。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
+    publishedAt: "2026-08-14T18:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-00909168",
     readTime: 2,
   },
   {
@@ -1587,214 +1865,6 @@ In May, the company posted better-than-expected results and upped it forecast on
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
-  },
-  {
-    id: "anthropic-cfo-krishna-rao-is-leading-ear-74e4d462",
-    title: "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-    titleJa: "Anthropic CFOのクリシュナ・ラオ氏は投資家とのIPO初期ミーティングを主導しており、バリュエーションについては議論していないと情報筋は言う。",
-    summaryJa: "Anthropic CFO の Krishna Rao 氏が初期の投資家会議を主導しており、Claude AI モデルや管理などの大きなテーマに焦点を当てています。",
-    bodyOriginal: `Anthropic's early meetings with prospective investors ahead of its potentially historic initial public offering have been high level and have not included discussions about specific financials or a valuation, sources told CNBC's David Faber.
-The artificial intelligence company confidentially filed its prospectus with the Securities and Exchange Commission in June, setting the stage for its highly anticipated public markets debut. The company has not disclosed an official timeline for when it plans to go public, but it has been holding preliminary meetings to test the waters with some investors in recent weeks.
-Anthropic CFO Krishna Rao is leading the meetings, the people said.
-In those meetings, Anthropic has discussed big-picture topics like its family of Claude AI models, how the company developed its popular coding assistant Claude Code, its position in the enterprise market, its management and the number of releases it has executed, the people said.
-A representative for Anthropic did not immediately respond to CNBC's request for comment.
-Anthropic was founded in 2021 by a group of researchers and executives who defected from OpenAI, now the company's chief rival. In late May, Anthropic closed a funding round at a $965 billion valuation, topping OpenAI, which was valued at $852 billion in late March.
-The company is best known for its cutting-edge Claude models, and it's found success selling its technology to large enterprises — a fiercely competitive market for AI developers. Anthropic said in May that its run-rate revenue crossed $47 billion, up from the roughly $10 billion in revenue that it generated in all of 2025.
-Because of its anticipated run rate, some Anthropic investors expect that the company could seek a valuation of $2 trillion or more, according to two sources familiar with the matter. But that number is based on their own analyses and is not a figure that is coming from Anthropic, the sources said.
-The Financial Times was first to report that investors were floating the $2 trillion expectation.
-OpenAI is also gearing up for a potentially massive IPO. The company confidentially filed its prospectus with regulators shortly after Anthropic did, but as of late June, it had not held pre-IPO meetings or outlined an official timeline for the listing, as CNBC previously reported.
-Elon Musk's SpaceX, which acquired his AI startup xAI earlier this year, made a record-breaking debut on the Nasdaq in June. The stock has had a volatile first two months of trading, and is off roughly 38% from its intraday high.
-— CNBC's Kate Rooney contributed to this report.`,
-    bodyJa: `歴史的な可能性のある新規株式公開に先立つアンスロピックの将来の投資家との初期の会合はハイレベルなものであり、特定の財務内容や評価額に関する議論は含まれていなかったと関係者がCNBCのデービッド・フェイバーに語った。
-この人工知能企業は 6 月に証券取引委員会に目論見書を極秘に提出し、待望の公開市場デビューの準備を整えました。同社は上場計画の正式なスケジュールを明らかにしていないが、ここ数週間、一部の投資家とテストのための事前会合を開催している。
-関係者によると、人類最高財務責任者（CFO）のクリシュナ・ラオ氏が会議を主導しているという。
-これらの会議で、Anthropic は、同社の Claude AI モデル ファミリ、人気のコーディング アシスタントである Claude Code の開発方法、エンタープライズ市場における同社の地位、その管理、実行したリリースの数などの大きな話題について話し合ったと関係者は述べています。
-Anthropicの代表者はCNBCのコメント要請にすぐには応じなかった。
-Anthropic は、現在同社の最大のライバルである OpenAI から離反した研究者と幹部のグループによって 2021 年に設立されました。 5月下旬、Anthropicは9,650億ドルの評価額で資金調達ラウンドを完了し、3月下旬に8,520億ドルと評価されたOpenAIを上回った。
-同社は最先端のクロード モデルで最もよく知られており、AI 開発者にとって競争の激しい市場である大企業へのテクノロジーの販売で成功を収めています。アンスロピックは5月、ランレート収益が470億ドルを超え、2025年全体で生み出した約100億ドルの収益を上回ったと発表した。
-関係筋２人によると、アンスロピック社の投資家の一部は、ランレートが予想されるため、同社の評価額が２兆ドル以上になる可能性があると予想している。しかし、この数字は独自の分析に基づいたものであり、Anthropic が発表した数字ではない、と情報筋は述べた。
-投資家が2兆ドルの予想を変動させていることを最初に報じたのはフィナンシャル・タイムズだった。
-OpenAI はまた、潜在的に大規模な IPO に向けて準備を進めています。同社は、アンスロピックが提出した直後に規制当局に目論見書を極秘に提出したが、CNBCが以前報じたように、6月下旬の時点でIPO前の会合を開催しておらず、上場に向けた公式スケジュールの概要も説明していなかった。
-イーロン・マスク氏のスペースXは今年初めに同氏のAIスタートアップxAIを買収し、6月にナスダック市場で記録的なデビューを果たした。同社株は最初の２カ月間の取引が不安定で、日中の高値から約３８％値を下げている。
-— CNBC の Kate Rooney がこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-    publishedAt: "2026-08-13T18:44:12+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "cisco-shares-slide-9-despite-earnings-be-41b5d4e7",
-    title: "Cisco shares slide 9% despite earnings beat and stronger-than-expected guidance",
-    titleJa: "シスコ株は利益を上回り、予想を上回るガイダンスにもかかわらず9％下落",
-    summaryJa: "シスコの株価は木曜日、ネットワーキング機器ベンダーの予想を上回る収益報告と強力なガイダンスがウォール街に印象を与えることができなかったため、9％下落した。ＬＳＥＧによると、同社は今四半期の売上高が１８０億─１８２億ドルになる見通しで、平均予想の１６８億ドルを上回るとの見通しを示した。会計年度第 4 四半期の収益は 18% 増加して 17 ドルとなりました。アナリストは168億ドルを見込んでいたが、30億ドルだった。",
-    bodyOriginal: `Cisco shares dropped 9% on Thursday, as the networking equipment vendor's better-than-expected earnings report and strong guidance failed to impress Wall Street.
-The company said revenue in the current quarter will be between $18 billion and $18.2 billion, topping the $16.8 billion average estimate, according to LSEG. Revenue in the fiscal fourth quarter increased 18% to $17. 3 billion, while analysts were looking for $16.8 billion.
-Analysts at Piper Sandler wrote, in a note after the report, that Cisco showed good numbers for the quarter, but their guidance "looks conservative given the current demand environment." Some investors "may start to nitpick that we're seeing peak growth," wrote the analysts, who recommend holding the stock.
-Heading into earnings, Cisco shares were up more than 60% for the year, as the company finally started to show that it was benefitting from the artificial intelligence boom. Even though the forecast for this year is solid, with Cisco projecting revenue growth of about 15%, analysts see sales growth dipping next fiscal year back into the single digits.
-Still, Cisco CEO Chuck Robbins focused on the across-the-board beat.
-"We had a record year, we had a record quarter," Robbins told CNBC's Jim Cramer on Thursday. After issuing guidance that was better than analysts expected, they said, "Why are you being so conservative," Robbins added.
-"We're starting a new fiscal year. We're operating in incredible markets," Robbins said. "But it's also a time that we're going to start the year being a little bit prudent."
-Analysts at KeyBanc Capital Markets remain bullish on the stock, with the equivalent of a buy rating. In a note after the report, they wrote that Cisco will likely see market share gains with the hyperscalers increasing their capital expenditures and with so-called neoclouds and others ramping their spending.
-Hyperscalers, or the internet giants driving much of the AI spend, placed $4 billion of infrastructure orders in the quarter, bringing the total for the fiscal year to $9.3 billion, Cisco said. That group accounted for about $4 billion of revenue in the past fiscal year, with Cisco expecting that number to almost double in fiscal 2027 to $7.5 billion.
-The stock was trading at around $113 as of mid-day Thursday. Its record closing high was $130 in June.
-WATCH: Cisco beats on Q4 results`,
-    bodyJa: `シスコの株価は木曜日、ネットワーキング機器ベンダーの予想を上回る収益報告と強力なガイダンスがウォール街に印象を与えることができなかったため、9％下落した。
-ＬＳＥＧによると、同社は今四半期の売上高が１８０億─１８２億ドルになる見通しで、平均予想の１６８億ドルを上回るとの見通しを示した。会計年度第 4 四半期の収益は 18% 増加して 17 ドルとなりました。アナリストは168億ドルを見込んでいたが、30億ドルだった。
-パイパー・サンドラーのアナリストらは、レポート後のメモで、シスコは同四半期に良好な数字を示したが、同社のガイダンスは「現在の需要環境を考慮すると保守的に見える」と述べた。アナリストらは、一部の投資家は「成長のピークに達しているとうるさく言い始めるかもしれない」と述べ、株式の保有を推奨している。
-決算に向けて、同社が人工知能ブームの恩恵を受けていることをようやく示し始めたため、シスコの株価は年間で60％以上上昇した。今年の予測は堅調であり、シスコは約 15% の売上成長を予測していますが、アナリストは来会計年度の売上成長が 1 桁に戻ると見ています。
-それでも、Cisco CEO のチャック・ロビンス氏は、全体的なビートに焦点を当てました。
-「記録的な年、記録的な四半期を過ごした」とロビンス氏は木曜日、CNBCのジム・クレイマーに語った。アナリストの予想よりも良いガイダンスを発表した後、彼らは「なぜそんなに保守的なのか」とロビンズ氏は付け加えた。
-ロビンズ氏は「われわれは新会計年度をスタートする。われわれは信じられないほどの市場で事業を展開している」と語った。 「しかし、今年は少し慎重にスタートする時期でもあります。」
-キーバンク・キャピタル・マーケッツのアナリストらは依然として同株に対して強気の見方を示しており、買いに相当する評価となっている。レポート後のメモの中で、彼らは、ハイパースケーラーが設備投資を増やし、いわゆるネオクラウドなどの投資が増加することで、シスコは市場シェアを獲得する可能性が高いと書いている。
-シスコによると、ハイパースケーラー、つまりAI支出の多くを推進しているインターネット大手は、同四半期に40億ドルのインフラストラクチャを発注し、会計年度の総額は93億ドルになったとシスコは述べた。同グループは前会計年度の収益のうち約40億ドルを占めており、シスコはその数字が2027年度にはほぼ倍増の75億ドルになると予想している。
-木曜日正午の時点で、株価は約113ドルで取引されていた。終値の最高値は6月の130ドルだった。
-注目: シスコが第 4 四半期の結果で勝利`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-    publishedAt: "2026-08-13T18:17:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "why-september-is-the-worst-month-of-the-c7ab35a2",
-    title: "Why September is the worst month of the year for the stock market",
-    titleJa: "なぜ9月が株式市場にとって一年で最悪の月なのか",
-    summaryJa: "パンプキンスパイスラテのメニューへの導入は、夏の終わりが近づいていることを意味し、ポジティブな雰囲気をもたらします",
-    bodyOriginal: `The introduction of pumpkin-spice lattes to menus means the end of summer is approaching, along with positive vibes`,
-    bodyJa: `パンプキンスパイスラテのメニューへの導入は、夏の終わりが近づいていることを意味し、ポジティブな雰囲気をもたらします`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-september-is-the-worst-month-of-the-year-for-the-stock-market-59285c78?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T17:06:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-88456022",
-    readTime: 2,
-  },
-  {
-    id: "sandisk-s-stock-is-flying-higher-here-ar-4f44e364",
-    title: "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-    titleJa: "サンディスクの株価は急騰している。ウォール街を興奮させている新たな標的がここにある。",
-    summaryJa: "メモリーチップ会社はちょうど2010年末までの収益成長予測を発表しており、サンディスクは今後も高い収益性を維持すると予想している。",
-    bodyOriginal: `The memory-chip company just offered revenue-growth forecasts stretching to the end of the decade, and Sandisk expects to maintain its high profitability as the years go on.`,
-    bodyJa: `メモリーチップ会社はちょうど2010年末までの収益成長予測を発表しており、サンディスクは今後も高い収益性を維持すると予想している。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T16:58:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-75636714",
-    readTime: 2,
-  },
-  {
-    id: "these-nontech-stocks-can-ride-the-ai-bui-4f9fba02",
-    title: "These nontech stocks can ride the AI build-out for years",
-    titleJa: "これらの非ハイテク株はAIの発展に何年も乗り続けることができる",
-    summaryJa: "データセンターと AI インフラストラクチャへの巨額の支出は、ハード資産、陳腐化の少なさなど、「HALO」企業に利益をもたらす可能性があります。",
-    bodyOriginal: `Massive spending on data centers and AI infrastructure can benefit “HALO” companies: hard assets, low obsolescence.`,
-    bodyJa: `データセンターと AI インフラストラクチャへの巨額の支出は、ハード資産、陳腐化の少なさなど、「HALO」企業に利益をもたらす可能性があります。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/these-nontech-stocks-can-ride-the-ai-build-out-for-years-67e2e39b?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T15:48:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-44242364",
-    readTime: 2,
-  },
-  {
-    id: "big-short-investor-steve-eisman-sees-an-0b889511",
-    title: "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-    titleJa: "「ビッグ・ショート」投資家スティーブ・アイスマン氏、AIブームのアキレス腱を見ている",
-    summaryJa: "スティーブ・アイスマン氏は、人工知能ブームはOpenAIとAnthropicというたった2社の運命にますます依存するようになっていると警告している。世界金融危機に先立って住宅市場に賭けたことで最もよく知られる同投資家は、AI新興企業2社がマイクロソフト、アマゾン、アルファベット傘下のグーグル、オラクルのAI関連収益のおよそ70％、そしてクラウド収益の25％から35％を占めていると述べた。",
-    bodyOriginal: `Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.
-The investor, best known for his bet against the housing market ahead of the global financial crisis, said the two AI startups account for roughly 70% of AI-related revenue at Microsoft, Amazon, Alphabet's Google and Oracle — and as much as 25% to 35% of their cloud revenue.
-"The futures of these massive companies, in a sense, are a bet that OpenAI, Anthropic are going to succeed," Eisman said late Tuesday on CNBC's "Fast Money."
-"The Real Eisman Playbook" podcast host and former Neuberger Berman senior portfolio manager believes that the biggest revenue threat could come from China, as Chinese open-source AI models are significantly cheaper and appear to be gaining market share.
-"The Achilles' heel of this whole story ... is if something bad happens to Anthropic and OpenAI ... the Chinese open-end models, open-weight models are much cheaper. And if they start really taking a lot of market share and it sounds like, from what I'm hearing, that they're starting to, you could have a big price war. And then we have a problem," he said
-Eisman's warning adds another prominent voice to a growing debate over whether the extraordinary spending behind the AI boom can generate sufficient returns.
-Michael Burry, another investor whose wager against the housing bubble was chronicled in "The Big Short," has taken an even more bearish view. Burry has questioned whether much of current and future AI demand ultimately comes from end customers, arguing instead that a significant portion is financed through what he has described as circular arrangements.
-Burry is putting his money where his mouth is, placing bearish bets against some of the biggest beneficiaries of the AI boom, including Nvidia, and others that are positioned against the broader semiconductor sector.`,
-    bodyJa: `スティーブ・アイスマン氏は、人工知能ブームはOpenAIとAnthropicというたった2社の運命にますます依存するようになっていると警告している。
-世界金融危機に先立って住宅市場に賭けたことで最もよく知られる同投資家は、AI新興企業2社がマイクロソフト、アマゾン、アルファベット傘下のグーグル、オラクルのAI関連収益のおよそ70％、そしてクラウド収益の25％から35％を占めていると述べた。
-「これら大企業の将来は、ある意味、OpenAIとAnthropicが成功するかどうかの賭けだ」とアイスマン氏は火曜日遅く、CNBCの「ファストマネー」で語った。
-ポッドキャスト「ザ・リアル・アイスマン・プレイブック」の司会者で元ニューバーガー・バーマンのシニア・ポートフォリオ・マネージャーである同氏は、中国のオープンソースAIモデルの方が大幅に安価で市場シェアを獲得しているように見えるため、収益の最大の脅威は中国から来る可能性があると考えている。
-「この話全体のアキレス腱は…AnthropicとOpenAIに何か悪いことが起こった場合…中国のオープンエンドモデル、オープンウェイトモデルの方がはるかに安い。そしてもし彼らが実際に多くの市場シェアを奪い始め、私の聞いた話によるとそうなり始めているように思えたら、大規模な価格競争が起こる可能性がある。そして、我々には問題がある」と同氏は語った。
-アイスマン氏の警告は、AIブームの背後にある異常な支出が十分な利益を生み出すことができるかどうかをめぐる議論の高まりに、新たな注目すべき声を加えている。
-住宅バブルに対する賭けが『ザ・ビッグ・ショート』で記録された別の投資家マイケル・バリー氏は、さらに弱気な見方をしている。 Burry氏は、現在および将来のAI需要の多くが最終的に最終顧客から来るのかどうか疑問を呈し、その代わりにかなりの部分が循環型取り決めと表現したものを通じて資金提供されていると主張した。
-バーリー氏は、AIブームの最大の受益者であるエヌビディアや、より広範な半導体セクターに敵対する立場にある他の企業に対して弱気の賭けをしており、口では言い分を述べている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-    publishedAt: "2026-08-13T15:16:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "rich-americans-are-propping-up-the-trave-b3ba67dc",
-    title: "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-    titleJa: "航空運賃が昨年より25％高騰し、裕福なアメリカ人が旅行経済を下支えしている",
-    summaryJa: "航空券の価格は過去1年で高騰したが、この夏の旅行シーズンでも消費者の需要はまだ衰えていない。",
-    bodyOriginal: `The cost of plane tickets has soared over the past year, but consumer demand has yet to slow down during this summer travel season.`,
-    bodyJa: `航空券の価格は過去1年で高騰したが、この夏の旅行シーズンでも消費者の需要はまだ衰えていない。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T15:08:00+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.mktw.net/im-06649723",
-    readTime: 2,
-  },
-  {
-    id: "harvey-nichols-bought-by-sports-direct-o-e1d6cbad",
-    title: "Harvey Nichols bought by Sports Direct owner",
-    titleJa: "ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される",
-    summaryJa: "ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される- 公開されました",
-    bodyOriginal: `Harvey Nichols bought by Sports Direct owner
-- Published
-Luxury department store Harvey Nichols has been bought by the owners of Sports Direct, which warned a "significant restructuring" will be needed to ensure the 200-year-old business remains sustainable.
-Mike Ashley's Frasers Group will take control of the Harvey Nichols stores, including its flagship in Knightsbridge, as well as the international franchise.
-The department store was immortalised in BBC sitcom Absolutely Fabulous, but had faced challenges in recent years. The firm had appointed administrators in June.
-Michael Murray, Frasers' chief executive and Ashley's son-in-law, called the store a "British institution with significant potential" but added "clear meaningful change is needed".
-"The turnaround will require tough choices and we are prepared to make those decisions, even if that means a smaller business in the near term, to create a stronger and more sustainable Harvey Nichols for the long-term," he said.
-Harvey Nichols carries more than 800 premium and luxury brands and has over 1,000 employees. Its other stores are located in Manchester, Birmingham, Bristol, Leeds and Edinburgh.
-Frasers Group will also acquire the online business, and stores will continue to operate under their existing licensing.
-Earlier this week, Harvey Nichols warned in its latest accounts that it would need to "cease trading" within a year if it failed to secure new investment.
-It had faced "sustained trading and operational challenges" recently and Frasers Group said it will need to conduct a review of the store's portfolio, structure and cost base.
-A recent auction for the store saw Frasers battle retail rival Next to take control of the firm.
-Dubbed "Harvey Nicks" by Edina and Patsy from Absolutely Fabulous, the two often found an excuse to nip into the department store for a spot of shopping and a long liquid lunch in the heyday of the 1990s.
-Harvey Nichols chief executive Julia Goddard said the deal marked "an important milestone" for the company and "provides a strong platform for the next phase of the business's evolution".
-"Over the past year, we have made significant progress in repositioning this iconic business, investing in our flagship store, broadening our customer proposition, and strengthening the brand DNA," she added.
-'Secures jobs'
-Lindsay Hallam, senior managing director of administrator FTI Consulting, who advised Frasers Group on the sale, said she was "pleased to have secured a buyer, providing continuity for Harvey Nichols and enabling it to move forward under new ownership".
-"We are particularly pleased the transaction secures more than 1,000 jobs and provides a strong platform for its next chapter.
-"Our focus was to find a solution that protected the underlying value of the business, securing a future for a 200-year-old retailer, and delivering the best possible outcome for stakeholders".
-Harvey Nichols's restaurant in the Oxo Tower, London is being sold off separately and is not included in the deal.
-Frasers Group owns several high street retail chains and luxury fashion brands including Sports Direct, Flannels, Jack Wills and House of Fraser.`,
-    bodyJa: `ハーベイ・ニコルズがスポーツ・ダイレクトのオーナーに買収される
-- 公開されました
-高級デパートのハーベイ・ニコルズはスポーツ・ダイレクトのオーナーらに買収され、スポーツ・ダイレクトは200年の歴史を持つビジネスを持続可能にするには「大規模なリストラ」が必要になると警告した。
-マイク・アシュリー氏率いるフレイザーズ・グループは、ナイツブリッジの旗艦店を含むハーベイ・ニコルズの店舗と国際フランチャイズの経営権を握ることになる。
-このデパートは BBC のコメディ番組「Absolutely Fabulous」で不滅の名声を博しましたが、近年は課題に直面していました。同社は6月に管理者を任命していた。
-フレイザーズの最高経営責任者でアシュリーさんの義理の息子であるマイケル・マレー氏は、同店を「大きな可能性を秘めた英国の施設」と呼びながらも、「明らかに有意義な変化が必要だ」と付け加えた。
-同氏は、「再建には厳しい選択が必要であり、長期的により強力で持続可能なハーベイ・ニコルズを構築するために、たとえそれが短期的には事業の縮小を意味するとしても、そうした決断を下す用意がある」と述べた。
-ハーベイ ニコルズは 800 以上の高級ブランドを取り扱い、1,000 人以上の従業員を抱えています。他の店舗はマンチェスター、バーミンガム、ブリストル、リーズ、エディンバラにあります。
-フレイザーズ・グループはオンライン事業も買収し、店舗は既存のライセンスに基づいて営業を継続する。
-ハーベイ・ニコルズ氏は今週初め、最新の決算で、新たな投資を確保できなければ1年以内に「取引を停止」する必要があると警告した。
-同社は最近「取引と運営の継続的な課題」に直面しており、フレイザーズ・グループは同店のポートフォリオ、構造、コストベースの見直しを行う必要があると述べた。
-同店の最近のオークションでは、フレイザーズが小売業のライバルであるネクストと経営権を争う形となった。
-『Absolutely Fabulous』のエディナとパッツィーから「ハーベイ・ニックス」と呼ばれた2人は、1990年代の全盛期にはショッピングスポットや長い液体ランチを求めてデパートに立ち寄る口実をよく見つけていた。
-ハーベイ・ニコルズの最高経営責任者ジュリア・ゴダード氏は、今回の契約は同社にとって「重要なマイルストーン」であり、「ビジネスの進化の次の段階に向けた強力な基盤を提供する」と述べた。
-「この1年間、私たちはこの象徴的なビジネスの位置付けを変更し、旗艦店に投資し、顧客への提案を拡大し、ブランドDNAを強化するという点で大きな進歩を遂げました」と彼女は付け加えた。
-「雇用を確保する」
-フレイザーズ・グループに売却について助言した管理会社FTIコンサルティングのシニア・マネージング・ディレクター、リンジー・ハラム氏は、「ハーベイ・ニコルズに継続性をもたらし、新たな所有権のもとで前進できるよう買い手を確保できたことをうれしく思う」と語った。
-「この取引により1,000人以上の雇用が確保され、次の章への強力な基盤が提供されたことを特に嬉しく思います。
-「私たちが焦点を当てたのは、ビジネスの根本的な価値を保護し、創業 200 年の小売業者の将来を確保し、ステークホルダーに可能な限り最高の結果をもたらすソリューションを見つけることでした。」
-ロンドンのオクソタワーにあるハーベイ・ニコルズ氏のレストランは個別に売却されており、今回の契約には含まれていない。
-フレイザーズ グループは、スポーツ ダイレクト、フランネルズ、ジャック ウィルズ、ハウス オブ フレイザーなど、いくつかのハイストリート小売チェーンと高級ファッション ブランドを所有しています。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cd69p89gl6xo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T13:32:40+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a892/live/8a5b37d0-9714-11f1-bb91-6bb44c42ed47.jpg",
-    readTime: 4,
   },
 ];
 
