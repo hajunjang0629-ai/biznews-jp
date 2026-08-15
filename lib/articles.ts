@@ -15,6 +15,252 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "at-least-14-dead-after-7-7-magnitude-ear-7be922b8",
+    title: "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+    titleJa: "インドネシアでマグニチュード7.7の地震が発生、少なくとも14人死亡",
+    summaryJa: "インドネシアでマグニチュード7.7の地震が発生、少なくとも14人死亡- 公開されました",
+    bodyOriginal: `At least 14 dead after 7.7-magnitude earthquake strikes Indonesia
+- Published
+At least fourteen people have died after a 7.7-magnitude earthquake struck Indonesia early on Saturday, the nation's disaster mitigation agency has said.
+BPBD said that others had been injured to varying degrees, cautioning that the figures were preliminary while search and rescue operations were ongoing.
+Teams are working to free anyone trapped in buildings damaged by the quake and the dozens of aftershocks that followed. A tsunami warning was issued but lifted around three hours after the initial jolt.
+The quake struck the island of Flores shortly before 05:00 local time on Saturday (23:00 GMT on Friday). It had a depth of 15km, Indonesia's meteorology and geophysics agency stated.
+The shallower an earthquake is, the more destructive its effects on the surface tend to be.
+Strong aftershocks were felt in the same area, including one with a magnitude of 6.1.
+Video taken at the port in Maumere showed large chunks of concrete breaking off the terminal building onto passengers waiting to board an inter-island ferry. Some were thrown into the sea when the gangway to a ship collapsed.
+Emanuel Melkiades Laka Lena, governor of East Nusa Tenggara province, told a news conference that they were killed in their sleep by collapsing rubble.
+A stream of people could be seen moving inland on motorbikes after authorities issued a tsunami warning. BNPB said 2,000 people had evacuated or relocated on their own.
+But it will take time to assess the full extent of the destruction in the region, which is remote and mountainous.
+BNPB advised people to remain calm and stay away from coastal areas.
+"Residents should also avoid entering buildings, especially those that have already sustained cracks or structural damage," BNPB said.
+"A rapid assessment is currently underway to determine the number of casualties and the extent of the impact. We will provide that information after the data has been verified."
+About 2,000 residents in Nagekeo were evacuated with damage reported to a number of buildings.
+Arnold Welianto, who lives in Talibura village, Sikka, East Nusa Tenggara, told the BBC that he was still asleep when he felt the "very strong shaking".
+"I was startled awake and immediately went to my child's room," he said.
+"Once we were outside, residents in our neighbourhood, which is located close to the shoreline, had already fled their homes and were heading toward the hills and crowding the roads, while some other residents were standing along the roadside because the sea had also receded.
+"The water remained low for quite some time, so everyone panicked and ran - I went around to the community health centre, and the people there had already been evacuated."
+Welianto said many residents were choosing to remain outdoors as ongoing aftershocks meant they were afraid to return home.
+Indonesia is prone to earthquakes and volcanic activity, lying along the meeting point of three major tectonic plates.`,
+    bodyJa: `インドネシアでマグニチュード7.7の地震が発生、少なくとも14人死亡
+- 公開されました
+土曜日早朝にインドネシアを襲ったマグニチュード7.7の地震により、少なくとも14人が死亡したと同国の防災当局が発表した。
+BPBDは、他にもさまざまな程度の負傷者が出ていると述べ、この数字は捜索救助活動が進行中の暫定的なものであると警告した。
+チームは、地震とその後の数十回の余震によって被害を受けた建物に閉じ込められた人々を救出するために取り組んでいる。津波警報は発令されたが、最初の揺れから約３時間後に解除された。
+地震は土曜日の現地時間午前５時（金曜日の日本時間午後２３時）直前にフローレス島を襲った。インドネシアの気象・地球物理庁によると、その深さは15キロメートルだった。
+地震の深さが浅いほど、地表への破壊的な影響が大きくなる傾向があります。
+同じ地域で強い余震が感じられ、その中にはマグニチュード6.1の地震もあった。
+マウメレの港で撮影されたビデオには、大きなコンクリートの塊がターミナルビルから島間フェリーの乗船を待つ乗客の上に突き破られる様子が映っていた。船への通路が崩壊し、海に投げ出された人もいた。
+東ヌサトゥンガラ州知事エマヌエル・メルキアデス・ラカ・レナ氏は記者会見で、彼らは崩れた瓦礫によって睡眠中に死亡したと語った。
+当局が津波警報を発令した後、バイクで内陸部に移動する人々の流れが見られた。 ＢＮＰＢは、２０００人が自力で避難または移住したと発表した。
+しかし、遠隔地で山岳地帯にあるこの地域の破壊の全容を評価するには時間がかかるだろう。
+BNPBは人々に対し、落ち着いて沿岸地域に近づかないよう勧告した。
+BNPBは「住民は建物、特にすでに亀裂や構造的損傷を受けている建物への立ち入りも避けるべきだ」と述べた。
+「死傷者の数と影響の範囲を決定するための迅速な評価が現在進行中です。データが検証された後、その情報を提供します。」
+ナゲケオでは、多くの建物に被害が報告され、住民約2,000人が避難した。
+東ヌサトゥンガラ州シッカ州タリブラ村に住むアーノルド・ウェリアントさんはBBCに対し、「非常に強い揺れ」を感じたときはまだ眠っていたと語った。
+「私はびっくりして目が覚めて、すぐに子供部屋に行きました」と彼は語った。
+「私たちが外に出ると、海岸線近くに位置する近所の住民はすでに家から逃げ出し、丘に向かって道路に混雑しており、海も引いていたため他の住民の中には道端に立っていた人もいました。
+「かなり長い間、水位が下がったままだったので、みんなパニックになって逃げ出した。私は地域の保健センターに行ってみたが、そこにいる人々はすでに避難していた。」
+ウェリアント氏は、余震が続いているため、多くの住民が自宅に戻るのを恐れ、屋外に留まることを選択していると述べた。
+インドネシアは 3 つの主要なプレートの合流点に沿って位置しており、地震と火山活動が発生しやすい国です。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T06:21:31+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg",
+    readTime: 3,
+  },
+  {
+    id: "russia-s-economy-has-defied-the-skeptics-24c31e8b",
+    title: "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
+    titleJa: "ロシア経済は懐疑論を無視した。亀裂を隠すのが難しくなっている",
+    summaryJa: "4年半にわたるウクライナとの全面戦争を経て、ロシアは二層経済となった。コンサルティング会社ユーラシア・グループの欧州担当ディレクター、アレックス・コリャンドル氏はＣＮＢＣに対し、「幸運で戦車製造会社に雇用されていれば、すべてうまくいく。そうでなければ、おそらく問題に直面しているだろう」と語った。",
+    bodyOriginal: `After four-and-a-half years of full-scale war with Ukraine, Russia has become a two-tier economy.
+"If you are lucky and you're employed by a tank production company, then everything's good. Otherwise, you are probably facing problems," Alex Kolyandr, director for Europe at consulting firm Eurasia Group, told CNBC.
+Russia's wartime economy has been brought into sharper focus in recent weeks by Ukraine's long-range drone attacks on oil refineries and delivery warehouses.
+Though it has defied expectations and is even growing slowly, according to recent data, analysts say this masks problems, such as the Kremlin's reliance on military spending, higher taxes and subsidized bank lending.
+But they question whether this will drive Russia to give up its war. Indeed, Kolyandr warned the worsening economy could incentivize President Vladimir Putin to escalate the conflict.
+"If I were Putin, God forbid, I would probably decide that it is in my interest to escalate now and try to finish the war on my terms, than wait until the money ends sometime in the future," Kolyandr said.
+The Russian Embassy in London and Russia's Foreign Ministry did not immediately respond to CNBC's request for comment.
+Kolyandr said the Kremlin could balance the books with some "bookkeeping acrobatics," but its economic problems "will not go away and are still mounting."
+He added: "It has already started, through inflation, through the slowdown in the non-military economy, through higher interest rates."
+Two standout metrics for Russia's economy
+For the first time since 2023, Russia's economy returned to growth in the April to June period. The country's gross domestic product grew 1.3% year-on-year in the second quarter, according to official data published this week, while GDP expanded by 0.6% through the first half of the year. The second-quarter figures surpassed government and central bank forecasts.
+The data suggest that government spending on its industrial-military complex and a recent boost in oil and gas prices have helped prop up Russia's wartime economy.
+But Charles Lichfield, director of economic foresight and analysis at the Atlantic Council's GeoEconomics Center, said the best metrics for understanding what's going on are the deficit and inflation.
+"They are on course to double the deficit they had in 2025 and that was already double what they had in 2024," Lichfield said, highlighting the country's depressed energy revenues, despite higher fossil fuel prices in recent months.
+In the first half of 2026, oil and gas revenues were 64% of their level in the same period two years ago. Sustained Ukrainian drone strikes have hit Russia's refineries, and tougher Western sanctions have started to bite, like the lower European Union oil price cap and measures targeting Russia's shadow-fleet enablers.
+"On inflation, they managed to bring it down to basically the target of 4% late last year, which was a big achievement given all the internal and external inflationary pressures, but it looks like that will not last," Lichfield said.
+What Russians' cookie buying says about the economy
+Earlier in the year, the country's largest retailer said citizens were increasingly switching to low-cost and store-brand food products.
+"We recently noticed that cookie consumption has risen — almost two and a half times," X5 Group President Yekaterina Lobacheva told RBC News in April, according to a translation by The Moscow Times. "It's something sweet, a small indulgence, but cheaper than chocolate and other confectionery."
+Read more
+Asked what levers the Kremlin can pull to mitigate the situation, Lichfield said the Russian government could tax oil and gas companies more than the current tax code suggests, try to borrow money internationally, or potentially mobilize the half of the central bank's reserves that remain beyond Western sanctions.
+Alongside roughly $300 billion frozen after the war began, Russia's central bank is estimated to have around $300 billion in reserves, either in Russia or in jurisdictions not under sanctions. The money could technically be used to plug some fiscal gaps, Lichfield said, although this could undermine confidence in the central bank's commitment to fighting inflation.
+Lichfield said he doesn't expect Russia to end the war for economic reasons, despite the pressure it faces.
+Russia's economy unlikely to determine Ukraine war
+Elina Ribakova, senior fellow at Peterson Institute for International Economics, also said Russia's economy was unlikely to force it to end the war when it was getting a boost from higher oil prices.
+"It has to get much more dire," Ribakova told CNBC in a phone interview. "If you tell me that we will have oil prices at $35 or $40 for the next year, then it might decide. But at the moment, especially given the war between Israel, the U.S. and Iran, it is unlikely."
+Ribakova said the conversation was different when oil prices were much lower in January and February and the Russian government was talking about revising its 2026 budget, even though the year had only just begun, suggesting serious trouble.
+She added that Putin had "staked so much" on the war "that he almost feels as like he has to keep on going."`,
+    bodyJa: `4年半にわたるウクライナとの全面戦争を経て、ロシアは二層経済となった。
+コンサルティング会社ユーラシア・グループの欧州担当ディレクター、アレックス・コリャンドル氏はＣＮＢＣに対し、「幸運で戦車製造会社に雇用されていれば、すべてうまくいく。そうでなければ、おそらく問題に直面しているだろう」と語った。
+ロシアの戦時経済はここ数週間、ウクライナによる製油所や配送倉庫への長距離無人機攻撃によって、さらに焦点が当てられている。
+最近のデータによると、予想に反して成長は緩やかでさえあるが、アナリストらは、このことがクレムリンの軍事費への依存、増税、補助金付き銀行融資などの問題を覆い隠していると指摘している。
+しかし彼らは、これがロシアを戦争放棄に駆り立てるのかどうか疑問を抱いている。実際、コリャンドル氏は、経済悪化がウラジーミル・プーチン大統領に紛争激化を促す可能性があると警告した。
+「もし私がプーチン大統領だったら、そんなことは許されませんが、将来お金がなくなるまで待つよりも、今すぐエスカレートして、自分の条件で戦争を終わらせることが自分の利益になると判断するでしょう」とコリャンドル氏は語った。
+ロンドンのロシア大使館とロシア外務省はCNBCのコメント要請にすぐには応じなかった。
+コリャンドル氏は、クレムリンは「簿記の曲芸」で帳尻を合わせることができるが、経済問題は「解消されることはなく、依然として深刻化している」と述べた。
+同氏はさらに、「インフレ、非軍事経済の減速、金利上昇などを通じて、それはすでに始まっている」と付け加えた。
+ロシア経済の 2 つの顕著な指標
+ロシア経済は4～6月期に2023年以来初めて成長に戻った。今週発表された公式データによると、同国の第２・四半期の国内総生産（ＧＤＰ）は前年同期比１．３％増加し、ＧＤＰは上半期までに０．６％拡大した。第２・四半期の数字は政府や中央銀行の予想を上回った。
+データは、政府の産軍複合体への支出と最近の石油とガス価格の上昇が戦時中のロシア経済の下支えに役立っていることを示唆している。
+しかし、大西洋評議会地経学センターの経済予測・分析担当ディレクター、チャールズ・リッチフィールド氏は、何が起こっているかを理解するための最良の指標は財政赤字とインフレだと述べた。
+リッチフィールド氏は、ここ数カ月の化石燃料価格の高騰にもかかわらず、同国のエネルギー収入が落ち込んでいることを強調し、「２０２５年の赤字を２倍にする勢いで進んでおり、その赤字はすでに２０２４年の２倍だった」と述べた。
+２０２６年上半期の石油・ガス収入は２年前の同時期の６４％だった。ウクライナの持続的な無人機攻撃がロシアの製油所を襲い、欧州連合（EU）の原油価格上限引き下げやロシアの影の艦隊を可能にする者を対象とした措置など、より厳しい西側制裁が影響を及ぼし始めている。
+リッチフィールド氏は「インフレに関しては、昨年末にインフレ率を基本的に目標の４％まで下げることに成功した。内外のインフレ圧力を考慮すると大きな成果だったが、それは長くは続かないようだ」と述べた。
+ロシア人のクッキー購入が経済について語ること
+同国最大の小売業者は今年初め、国民が低価格の店舗ブランドの食品への切り替えを強めていると述べた。
+モスクワ・タイムズ紙の翻訳によると、X5グループのエカテリーナ・ロバチョワ社長は4月にRBCニュースに対し、「クッキーの消費量がほぼ2.5倍に増加していることに最近気づいた」と語った。 「それは甘いもので、ちょっとした贅沢ですが、チョコレートや他の菓子よりも安いです。」
+続きを読む
+状況を緩和するためにクレムリンがどのような手段を講じることができるかとの質問に対し、リッチフィールド氏は、ロシア政府は石油・ガス会社に現在の税法が示す以上に課税するか、国際的に資金を借り入れようとするか、あるいは西側の制裁を超えて残っている中央銀行準備金の半分を動員する可能性があると述べた。
+戦争開始後に凍結された約3,000億ドルに加えて、ロシア中央銀行はロシア国内または制裁を受けていない管轄区域に約3,000億ドルの準備金を保有していると推定されている。リッチフィールド氏は、この資金は技術的には財政上のギャップを埋めるために使用できる可能性があるが、そうなればインフレとの戦いに対する中銀の取り組みに対する信頼が損なわれる可能性があると述べた。
+リッチフィールド氏は、ロシアが直面している圧力にもかかわらず、経済的理由で戦争を終わらせるとは予想していない、と述べた。
+ロシア経済がウクライナ戦争を決定づける可能性は低い
+ピーターソン国際経済研究所の上級研究員エリナ・リバコバ氏も、原油価格の上昇でロシア経済が追い風になっている状況では、ロシア経済が戦争終結を強いられる可能性は低いと述べた。
+リバコバ氏はCNBCの電話インタビューで、「事態はさらに悲惨なものになるはずだ」と語った。 「来年の原油価格が35ドルか40ドルになると言われれば、それが決まるかもしれない。しかし現時点では、特にイスラエル、米国、イラン間の戦争を考慮すると、その可能性は低い。」
+リバコワ氏は、1月と2月に原油価格が大幅に下落し、年が始まったばかりにもかかわらずロシア政府が2026年予算の見直しについて話していたときは話が違っていたと述べ、深刻な問題を示唆していると述べた。
+彼女は、プーチン大統領が戦争に「あまりにも大きな賭けをしていた」ため、「このまま戦争を続けなければならないと感じているほどだ」と付け加えた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+    publishedAt: "2026-08-15T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "extreme-heat-spurs-earliest-ever-champag-23b6744a",
+    title: "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+    titleJa: "猛暑が史上最も早いシャンパンの収穫に拍車をかけ、その有名な味わいが試される",
+    summaryJa: "うだるような夏の気温により、シャンパンの収穫は記録上最も早く、おそらく最も困難なものの一つとなりそうだ。フランス地域のワインメーカーは、作物の収量の低下、消費者の需要の低迷、そしてこの象徴的な飲み物の有名な新鮮な味に対する脅威に直面しています。今年のシャンパーニュの正式なシーズンは8月15日に始まり、収穫の大部分は8月20日から25日の間に行われる予定で、近年の例年より約2週間早い。 2000 年代初頭までは、昨年の販売収入 66 億ドルをもたらしたスパークリング ワインのブドウの収穫は、ほとんどの場合 9 月か 10 月に行われていました。",
+    bodyOriginal: `Sweltering summer temperatures look set to spur the earliest Champagne harvest on record and potentially one of the most challenging. The French region's winemakers face lower crop yields, weaker consumer demand and a threat to the iconic drink's famed fresh taste.
+The Champagne season officially starts on Aug. 15 this year, with the majority of picking expected between Aug. 20 and 25, around two weeks earlier than usual in recent years. Before the early 2000s, harvesting the grapes of the sparkling wine — which brought in $6.6 billion in sales revenues last year — almost always took place in September or October.
+But hotter springs and summers are accelerating the grape-ripening process, creating more sugary fruit and narrowing the optimum picking window for Champagne.
+Winemakers are torn between harvesting early to reduce the amount of sugar in the fruit, but risking the ability to achieve the correct balance of acidity and so-called "phenolic ripeness," the point when tannins and other compounds have matured enough to deliver the desired flavor and texture.
+"With great wine grapes, you want the maturation process to be slow. This is true with most fruit," said Linda Johnson-Bell, founder of the Wine & Climate Change Institute consultancy.
+A short growing window can be more easily disguised in red wines, many of which have increased their alcohol content in recent years due to more sugary grapes. But it is a particular challenge in Champagne, where the drink's "identity is its tautness, its high acidity, low sugar, its finesse, its elegance," Johnson-Bell said.
+Adapt to survive
+Along with a warming trend pushing harvesting seasons earlier, European wine growers are up against drought, freak weather events such as spring hailstorms and frost which wiped out many buds, and wildfires.
+In the macro picture they also face waning demand for alcoholic drinks, higher labor and fuel costs, and the complication of tariffs in the U.S., Champagne's largest export market.
+Some winemakers are reacting by pulling out vineyards, changing their grape varieties, moving further north or introducing irrigation systems. But high-end variants such as Champagne are restricted by their appellation, which protects where its grapes can be grown and how, including a ban on the watering of adult vines.
+Champagne growers are developing various techniques to protect grape clusters, a representative from trade association Comité Champagne told CNBC. Those include the use of insect-proof greenhouses and experimenting with new grape varieties, along with the creation of an R&D center to explore further solutions.
+Producers have also trimmed their quota of yield permitted for sale this year, a decision made to help balance stocks, maintain quality and preserve vineyards amid "challenging" weather conditions and "sluggish" French demand, the Comité Champagne said in a release last month.
+The businesses which sell their end product will be little-concerned by this year's harvest since the "quality seems promising, and the industry could do with lower inventory," Bernstein's global head of luxury goods, Luca Solca, said by email.
+Jean-Claude Mas, founder of Domaines Paul Mas-Coté Mas, which produces reds, whites and rosés in the southern French region of Languedoc, said his vineyards had so far defied gloomy expectations since he began harvesting earlier this month and were looking "beautiful."
+"In 30 years I've never seen a year like this. We've had an accumulation of heat since the end of May. I was so stressed, but this year it looks like we could have a really good harvest. My analysis of that is just the incredible capacity to adjust of nature," he said.
+A sparkling opportunity for English winemakers?
+The earlier grape harvesting season is also being observed in the U.K., which has a relatively small but growing wine industry that produced roughly 16.5 million bottles last year and increased its exports by 55%, according to official data.
+"It's quite astonishing how far forward the harvesting has come in a generation," Fergus Elias, director of wine at Balfour Winery, said from a vineyard in Suffolk, England. As a child, he recalls his winemaker father's harvests never starting before early October and finishing as late as mid-November.
+"If I really wanted to, I could pick these vines and make a passable wine with them," he said this week.
+"But in England our growing season is still long enough... I'm quite excited," he added.
+A warmer climate is allowing new varieties of grape to grow in Britain's chalky soil, which is similar to that of northern France. The opportunity has even attracted the attention of French producers, with Champagne house Taittinger acquiring land in Kent to make an English sparkling wine.
+"Climate change is talked about as something that makes English wine more sustainable, although it does come with a lot of challenges," Elias said. "This year we had a late spring frost in mid-May, but we're lucky to have sites across the country which gives some geographic security."
+Industry players are meanwhile convinced that Champagne's innovation will be enough to preserve the drink's status and quality long into the future.
+"The Champenois will do absolutely everything to safeguard that product, they've been onto these issues for decades," Linda Johnson-Bell said. "Maybe I'm romantic but I just see Champagne always surviving."`,
+    bodyJa: `うだるような夏の気温により、シャンパンの収穫は記録上最も早く、おそらく最も困難なものの一つとなりそうだ。フランス地域のワインメーカーは、作物の収量の低下、消費者の需要の低迷、そしてこの象徴的な飲み物の有名な新鮮な味に対する脅威に直面しています。
+今年のシャンパーニュの正式なシーズンは8月15日に始まり、収穫の大部分は8月20日から25日の間に行われる予定で、近年の例年より約2週間早い。 2000 年代初頭までは、昨年の販売収入 66 億ドルをもたらしたスパークリング ワインのブドウの収穫は、ほとんどの場合 9 月か 10 月に行われていました。
+しかし、春と夏の暑さによりブドウの成熟プロセスが加速され、糖分の多い果実が増え、シャンパーニュに最適な収穫期間が狭まっています。
+ワインメーカーは、果実に含まれる糖分の量を減らすために早めに収穫するか、酸性度の適切なバランスと、タンニンやその他の化合物が望ましいフレーバーやテクスチャーを提供するのに十分に成熟するいわゆる「フェノールの成熟度」を達成できるかどうかを危険にさらすかどうかで悩んでいます。
+「素晴らしいワイン用ブドウの場合は、成熟プロセスをゆっくりとさせたいものです。これはほとんどの果物に当てはまります」と、コンサルタント会社ワイン＆気候変動研究所の創設者リンダ・ジョンソン・ベル氏は言う。
+赤ワインでは、成長期間が短いことをより簡単に隠すことができますが、その多くは近年ブドウの糖分が増えたためアルコール含有量が増加しています。しかし、それはシャンパーニュにおいては特別な課題であり、シャンパーニュではこの飲み物の「アイデンティティはその緊張感、高い酸味、低糖度、フィネス、エレガンスである」とジョンソン・ベル氏は語った。
+生き残るために適応する
+温暖化傾向により収穫時期が早まることに加え、ヨーロッパのワイン生産者は干ばつ、春のひょう嵐や多くの芽を吹き飛ばす霜などの異常気象、そして山火事に直面している。
+マクロ的に見ると、アルコール飲料の需要の減退、人件費と燃料費の高騰、そしてシャンパーニュ最大の輸出市場である米国での関税の複雑化にも直面している。
+一部のワインメーカーは、ブドウ畑を撤去したり、ブドウ品種を変更したり、さらに北に移転したり、灌漑システムを導入したりすることで対応している。しかし、シャンパーニュなどの高級品種は、成ブドウへの水やりの禁止など、ブドウの栽培場所と栽培方法が保護されているアペラシオンによって制限されている。
+業界団体コミテ・シャンパーニュの代表者がCNBCに語ったところによると、シャンパン生産者はブドウの房を保護するためのさまざまな技術を開発している。これらには、防虫温室の使用や新しいブドウ品種の実験、さらなる解決策を探るための研究開発センターの設立などが含まれます。
+生産者らは今年販売が許可される収穫量の割り当ても削減したが、これは「厳しい」気象条件とフランスの「低迷する」需要の中、在庫のバランスを保ち、品質を維持し、ブドウ畑を保護するために行われた決定であると、シャンパーニュ委員会は先月のリリースで述べた。
+バーンスタインの高級品グローバル責任者、ルカ・ソルカ氏は電子メールで、「品質は期待できそうだし、業界は在庫を減らしても大丈夫だろう」ため、最終製品を販売する企業は今年の収穫についてほとんど心配しないだろうと述べた。
+フランス南部ラングドック地方で赤、白、ロゼを生産するドメーヌ・ポール・マス・コテ・マスの創設者、ジャン・クロード・マス氏は、今月初めに収穫を始めて以来、これまでのところ彼のブドウ畑は暗い期待を裏切って「美しく」見えていると語った。
+「この30年間、こんな年は見たことがない。5月末から猛暑が続いた。とてもストレスを感じていたが、今年は本当に豊作が期待できるようだ。それについての私の分析は、自然の適応能力が驚異的だということだ」と彼は語った。
+英国のワインメーカーにとって輝かしいチャンス?
+公式データによると、ブドウの収穫時期の早期化は英国でも見られており、英国では比較的規模は小さいものの成長を続けるワイン産業があり、昨年は約1650万本を生産し、輸出量が55％増加した。
+バルフォア・ワイナリーのワイン部門ディレクター、ファーガス・エリアス氏は、英国サフォーク州のブドウ園から「収穫がここ一世代でこんなに早くなったのは驚くべきことだ」と語った。子供の頃、ワイン生産者の父親は 10 月初旬までに収穫を開始し、遅くとも 11 月中旬までに収穫を終えていたことを思い出します。
+「本当にその気になれば、これらのブドウの木を摘んで、それでまずまずのワインを造ることができるだろう」と彼は今週語った。
+「しかし、イングランドでは成長期はまだ十分に長い…とても興奮している」と彼は付け加えた。
+気候が温暖なため、フランス北部と似た英国の石灰質土壌で新品種のブドウが栽培できるようになっている。この機会はフランスの生産者からも注目を集めており、シャンパンハウスのテタンジェ社は英国のスパークリングワインを製造するためにケント州の土地を取得しました。
+「気候変動はイギリスワインをより持続可能なものにするものとして話題になっていますが、それには多くの課題が伴います」とエリアス氏は言う。 「今年は5月中旬に春の遅霜が降りましたが、幸運なことに全国に拠点があり、地理的にはある程度安全です。」
+一方、業界関係者は、シャンパーニュの革新がこの飲み物の地位と品質を将来にわたって維持するのに十分であると確信している。
+「シャンパーニュ家はその製品を守るためにあらゆることをするつもりだ。彼らは何十年もこの問題に取り組んできた」とリンダ・ジョンソン・ベル氏は語った。 「私はロマンチックなのかもしれないけど、シャンパーニュが常に生き残っているのを見ているだけなのよ。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+    publishedAt: "2026-08-15T05:00:01+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "bbc-seeks-to-subpoena-trump-s-family-mem-02200b66",
+    title: "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+    titleJa: "BBC、パノラマ訴訟でトランプ大統領の家族への召喚を求める",
+    summaryJa: "BBC、パノラマ訴訟でトランプ大統領の家族への召喚を求める- 公開されました",
+    bodyOriginal: `BBC seeks to subpoena Trump's family members in Panorama lawsuit
+- Published
+The BBC has sought to subpoena members of Donald Trump's family for documents and testimony as it defends against the US president's $10bn (£7.4bn) defamation lawsuit against the broadcaster.
+Court filings show that representatives for the BBC's legal team attempted in May to serve subpoenas to the president's son Donald Trump Jr, his daughter Ivanka Trump and son-in-law Jared Kushner.
+The president is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave before the 2021 Capitol riots.
+The BBC has previously apologised for the edit but denied it was grounds for defamation.
+The BBC's lawyers argue in the latest filing that Trump's family members had "personal knowledge" of his intentions in delivering the speech, making their testimony and documents relevant to the president's defamation claim.
+Drawing on evidence previously gathered by a US congressional committee, the filing says Donald Trump Jr and Ivanka Trump were present when their father revised and delivered his speech, adding that Jared Kushner drafted a proposed statement for him that would have condemned the use of violence.
+The filing asks the court to allow the subpoenas to be served by email and certified mail, saying attempts to serve them by hand were unsuccessful.
+In one instance, according to the document, a representative for the BBC's legal team tried to deliver a subpoena for Ivanka Trump and Jared Kushner at their home in Florida, but was refused entry at a police checkpoint and was later told by the Secret Service that the agency could not accept the subpoenas.
+Similarly, according to the filing, a representative tried to serve a subpoena for Donald Trump Jr at Trump Tower in New York but was told by the concierge that the person who normally took such documents may have been at lunch.
+During another attempt two days later, the representative was told the "legal department" was not in that day, according to the filing.
+President Trump's legal team has been approached for comment. The BBC press office declined to comment.
+Last December, Trump sued the BBC and subsidiaries BBC Studios Productions and BBC Studios Distribution over the 2024 Panorama episode.
+Trump's lawsuit - filed in Florida - accuses the BBC of "intentionally, maliciously and deceptively doctoring" the speech he gave outside the Capitol on 6 January 2021.
+The BBC has apologised for an editing error that gave "the mistaken impression that President Trump had made a direct call for violent action".
+However, the BBC has asked the court to dismiss the lawsuit, arguing that the programme did not meet the legal criteria for defamation and was not made available on its US platforms.
+Last month, Trump's lawyers admitted they had no evidence that the documentary was available in the US on the BBC's BritBox subscription service, as they had originally claimed, or on BBC.com, BBC Select or through US broadcasters.
+Trump also recently agreed to drop the BBC's commercial arm BBC Studios from his lawsuit, after the BBC argued the company had "no role in creating or producing the documentary".
+Earlier this month, the judge in the case granted Trump's request for a delay in him handing over a financial documents to the broadcaster as part of the suit.
+The BBC has asked for some of Trump's financial records in relation to his argument that the documentary damaged the president's business interests.
+The president's legal team said disclosure of the financial records would cause him "irreparable harm".
+A trial date in February 2027 has been scheduled, should the case progress.
+BBC News is editorially independent from the wider corporation.
+- Published16 March`,
+    bodyJa: `BBC、パノラマ訴訟でトランプ大統領の家族への召喚を求める
+- 公開されました
+BBCは、米大統領による同放送局に対する100億ドル（74億ポンド）の名誉毀損訴訟を弁護するため、ドナルド・トランプ大統領の家族らに文書と証言を求める召喚を求めている。
+裁判所への提出文書によると、BBCの法務チームの代表者らは5月、大統領の息子ドナルド・トランプ・ジュニア氏、娘のイヴァンカ・トランプ氏、義理の息子ジャレッド・クシュナー氏に召喚状を送達しようとした。
+大統領は、2021年の国会議事堂暴動前に行った演説の2つの異なるセクションを編集した『パノラマ』のエピソードをめぐってBBCを訴えている。
+BBCは以前、この編集について謝罪したが、名誉毀損の理由にはならないと否定した。
+BBCの弁護士らは最新の提出書類の中で、トランプ氏の家族はトランプ氏の演説の意図を「個人的に知っていた」ため、彼らの証言や文書は大統領の名誉毀損の主張に関連すると主張した。
+提出書類は、米議会委員会が以前に収集した証拠に基づいて、ドナルド・トランプ・ジュニアとイヴァンカ・トランプが父親が演説を修正して発表した際に同席していたとし、ジャレッド・クシュナーが暴力の使用を非難する声明案を父親のために起草したと付け加えた。
+提出書類は裁判所に対し、召喚状を電子メールや内容証明郵便で送達することを許可するよう求めており、手書きで送達する試みは失敗したとしている。
+文書によると、ある例では、BBCの法務チームの代表者がイヴァンカ・トランプ氏とジャレッド・クシュナー氏のフロリダ州の自宅で召喚状を届けようとしたが、警察の検問所で立ち入りを拒否され、その後シークレットサービスから召喚状を受理できないと言われたという。
+同様に、提出書類によると、代理人はニューヨークのトランプタワーでドナルド・トランプ・ジュニアへの召喚状を送ろうとしたが、コンシェルジュから、通常そのような書類を受け取った人物は昼食中だった可能性があると言われたという。
+提出書類によると、2日後の別の試みの際、代理人はその日は「法務部門」が来ていないと告げられたという。
+トランプ大統領の法務チームにコメントを求めた。 BBC報道局はコメントを控えた。
+昨年12月、トランプ大統領は2024年の『パノラマ』エピソードをめぐり、BBCとその子会社であるBBCスタジオ・プロダクションズおよびBBCスタジオ・ディストリビューションを訴えた。
+フロリダ州で起こされたトランプ氏の訴訟は、2021年1月6日に連邦議会議事堂前で行った演説を「意図的、悪意を持って欺瞞的に改ざんした」としてBBCを非難している。
+BBCは「トランプ大統領が暴力行為を直接呼びかけたかのような誤った印象」を与えた編集ミスを謝罪した。
+しかし、BBCは、番組が名誉毀損の法的基準を満たしておらず、米国のプラットフォームで視聴可能になっていないとして、裁判所に訴訟の却下を求めた。
+先月、トランプ氏の弁護士らは、このドキュメンタリーが当初主張していたBBCの購読サービス「ブリットボックス」や、BBC.com、BBCセレクト、あるいは米国の放送局を通じて米国で視聴可能だったという証拠はないと認めた。
+トランプ大統領は最近、BBCのコマーシャル部門であるBBCスタジオが「ドキュメンタリーの制作や制作に何の役割も果たしていない」とBBCが主張したことを受け、訴訟から取り下げることに同意した。
+今月初め、この訴訟の判事は、訴訟の一環として同放送局への財務書類の引き渡しの遅延を求めるトランプ氏の要求を認めた。
+BBCは、このドキュメンタリーが大統領のビジネス上の利益を損なったというトランプ大統領の主張に関連して、トランプ大統領の財務記録の一部の提出を求めた。
+大統領の弁護団は、財務記録の開示は大統領に「取り返しのつかない損害」を与えるだろうと述べた。
+訴訟が進展すれば、2027年2月に公判期日が予定されている。
+BBC ニュースは編集上、一般企業から独立しています。
+- 3 月 16 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T00:01:53+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg",
+    readTime: 4,
+  },
+  {
     id: "trump-family-backed-crypto-firm-world-li-b90d4663",
     title: "Trump family-backed crypto firm World Liberty gets conditional bank charter approval",
     titleJa: "トランプ一族が支援する仮想通貨会社ワールド・リバティが条件付きで銀行設立認可を取得",
@@ -265,6 +511,80 @@ CFTCは先月、規制対象事業体間の垂直統合に関するパブリッ�
     readTime: 5,
   },
   {
+    id: "mangione-admits-killing-healthcare-ceo-a-989a69b7",
+    title: "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+    titleJa: "マンジョーネ氏、ヘルスケアCEO殺害を認め、連邦容疑で有罪を認める",
+    summaryJa: "マンジョーネ氏、ヘルスケアCEO殺害を認め、連邦容疑で有罪を認める- 公開されました",
+    bodyOriginal: `Mangione admits killing healthcare CEO and pleads guilty to federal charges
+- Published
+Luigi Mangione has admitted to killing UnitedHealthcare CEO Brian Thompson, pleading pleaded guilty to federal charges of interstate stalking resulting in death.
+"I shot Mr Thompson in Manhattan and he died," the 28-year-old admitted in federal court in Manhattan on Friday.
+Thompson, a 50-year-old father of two, was shot from behind on 4 December 2024 as he walked into a hotel in midtown Manhattan. Following the plea hearing, his family issued a statement calling it "an important step toward justice for Brian and for our family".
+Mangione faces a maximum sentence of life in prison. He also faces state charges, although his lawyers are seeking to get those dismissed following his guilty plea.
+Mangione had initially pleaded not guilty in both the federal and state cases against him over the fatal shooting of Thompson.
+His lawyers announced that he intended to plead guilty to the two federal charges against him at Friday's federal court hearing.
+Wearing a beige prison outfit, Mangione appeared solemn and serious throughout the hearing.
+Reading a statement aloud to the court, he admitted to planning the attack ahead of time, crossing state lines with the intent to kill and using a gun he printed using a 3D printer and equipped with a silencer and magazine.
+He told the court he was driven to kill Thompson because of his experience with the healthcare system "after years of enduring severe pains from a broken back".
+Mangione stated that he had learned UnitedHealthcare would be holding an annual investor conference in Manhattan in December 2024.
+He then travelled to New York for the event, he told the court.
+He also said he emailed UnitedHealthcare prior to the conference "posing as an investor" and asking questions about the event.
+"I emailed UnitedHealthcare with the intent to shoot Brian Thompson," Mangione said in his statement. "On the morning of Dec. 4, 2024 I shot Mr. Thompson in Manhattan in his back."
+The sentencing for the federal charges is scheduled for 18 December.
+Thompson's family said in a statement that they will continue to seek justice in both New York state and Pennsylvania, where Mangione was arrested.
+"While nothing will ease the pain of losing him, we are grateful that the federal justice system has held the person responsible for this heinous act accountable," they said.
+"Now we look to the court to ensure that sentencing reflects the severity of this crime."
+Prosecutors have recommended Mangione serve 24-30 years in prison. But Judge Margaret Garnett said in court that she would ultimately decide his sentence.
+Garnett explained to Mangione that the recommendation was not binding and that the maximum sentence was life in prison along with financial penalties. There is no parole in the federal system.
+Mangione's guilty plea could now throw a wrench into his New York state case.
+With the trial scheduled to begin in September, he faces eight state charges including second degree murder, possession of a forged instrument (for alleged fake driver's licence) and six counts of criminal possession of a weapon.
+On the steps of the court on Friday, his lawyers argued that because he had already pleaded guilty to federal charges, the state case ran afoul of double jeopardy – a constitutional protection that prevents an individual from being prosecuted twice for the same crime.
+"New York law does not permit a person to be prosecuted and punished twice for the exact same crime," his lawyer Karen Friedman Agnifilo said.
+She also said that, in making a guilty plea in federal court, Mangione has accepted "full responsibility" for the death of Brian Thompson.
+But the Manhattan District Attorney's office says it is prepared to go ahead with the state prosecution.
+"We are encouraged that Mr Thompson's family received a measure of accountability today," the statement said.
+"While federal sentencing is pending, we are prepared to litigate the defence motions. The Manhattan DA's Office remains committed to seeking justice for Mr Thompson and his family."
+Related topics
+- Published8 hours ago`,
+    bodyJa: `マンジョーネ氏、ヘルスケアCEO殺害を認め、連邦容疑で有罪を認める
+- 公開されました
+ルイージ・マンジョーネ氏は、ユナイテッドヘルスケアCEOのブライアン・トンプソン氏を殺害したことを認め、州間ストーカー致死事件の連邦容疑で有罪を認めた。
+金曜日、マンハッタンの連邦裁判所で28歳の彼は「私がマンハッタンでトンプソン氏を撃って死亡した」と認めた。
+2人の子供の父親である50歳のトンプソンさんは、2024年12月4日にマンハッタンのミッドタウンのホテルに入ったところを後ろから撃たれた。司法審問の後、彼の家族は声明を発表し、これは「ブライアンと私たちの家族にとって正義への重要な一歩」であると述べた。
+マンジョーネ氏には最高で終身刑が言い渡される可能性がある。同氏は国家告訴にも直面しているが、弁護士らは有罪答弁を受けてこれらの告発を却下するよう求めている。
+マンジョーネ氏は当初、トンプソン射殺事件を巡る連邦訴訟と州訴訟の両方で無罪を主張していた。
+同氏の弁護士は、金曜日の連邦裁判所公聴会で同氏に対する2件の連邦告訴について有罪を認めるつもりであると発表した。
+ベージュの囚人服を着たマンジョーネ氏は公聴会中、終始厳粛かつ真剣な表情を浮かべていた。
+法廷で陳述書を読み上げた同氏は、事前に攻撃を計画し、殺害の目的で州境を越え、3Dプリンターで印刷しサイレンサーと弾倉を取り付けた銃を使用したことを認めた。
+同被告は法廷で、「腰痛によるひどい痛みに何年も耐えた後」、医療制度での経験が原因でトンプソンさんを殺害する衝動に駆られたと述べた。
+マンジョーネ氏は、ユナイテッドヘルスケアが2024年12月にマンハッタンで年次投資家会議を開催することを知ったと述べた。
+その後、イベントのためにニューヨークに旅行したと彼は法廷で語った。
+同氏はカンファレンス開催前に「投資家を装って」ユナイテッドヘルスケアに電子メールを送り、イベントに関する質問をしたとも述べた。
+マンジョーネ氏は声明で「ブライアン・トンプソン氏を射殺するつもりでユナイテッドヘルスケアにメールを送った」と述べた。 「2024年12月4日の朝、私はマンハッタンでトンプソン氏の背中を撃った。」
+連邦罪に対する判決は12月18日に予定されている。
+トンプソンさんの家族は声明で、マンジョーネさんが逮捕されたニューヨーク州とペンシルベニア州の両方で正義を求め続けると述べた。
+「彼を失った悲しみを和らげるものは何もないが、連邦司法制度がこの凶悪な行為の責任者を責めてくれたことに感謝している」と彼らは述べた。
+「我々は現在、この犯罪の重大さを反映した量刑が下されるよう法廷に期待している。」
+検察はマンジョーネ氏に２４年から３０年の懲役を勧告した。しかし、マーガレット・ガーネット判事は法廷で、最終的には自分が判決を下すだろうと述べた。
+ガーネット氏はマンジョーネ氏に対し、この勧告には拘束力はなく、最高刑は終身刑と金銭的罰金であると説明した。連邦制度には仮釈放はありません。
+マンジョーネ氏の有罪答弁は、ニューヨーク州の訴訟に大きな影響を与える可能性がある。
+裁判は9月に始まる予定で、同氏は第2級殺人、偽造器具所持（偽造運転免許証の疑い）、武器所持の6件を含む8件の州罪に直面している。
+金曜日の法廷で、弁護士らは、同氏がすでに連邦政府の告訴に対して有罪を認めているため、この州の訴訟は二重の危険、つまり同一の罪で個人が二度訴追されることを防ぐ憲法上の保護に抵触していると主張した。
+同氏の弁護士カレン・フリードマン・アグニフィロ氏は、「ニューヨーク州の法律では、まったく同じ犯罪で人を二度起訴し、処罰することは認められていない」と述べた。
+また、マンジョーネ氏は連邦裁判所で有罪を認め、ブライアン・トンプソン氏の死に対する「全責任」を認めたと述べた。
+しかしマンハッタン地方検事局は州訴追を進める用意があると述べている。
+「トンプソン氏の家族が本日一定の説明責任を負ったことを心強く思う」と声明で述べた。
+「連邦刑の判決は係争中であるが、我々は弁護申し立てを訴訟する用意がある。マンハッタン検察局はトンプソン氏とその家族に対する正義の追求に引き続き尽力する。」
+関連トピック
+- 8 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T19:20:43+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
+    readTime: 4,
+  },
+  {
     id: "16-beaten-down-ai-stocks-that-are-belove-c10cb3e3",
     title: "16 beaten-down AI stocks that are beloved by BofA analysts",
     titleJa: "BofAアナリストに愛される16のボロボロのAI株",
@@ -361,6 +681,144 @@ MS NOWの報道によると、マクドナルド氏と同局刑事部門の責�
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
+  },
+  {
+    id: "afghan-women-tell-the-bbc-their-lives-ar-efecd9d6",
+    title: "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+    titleJa: "アフガニスタン女性、5年間のタリバン支配で自分たちの命は認められないとBBCに語る",
+    summaryJa: "アフガニスタン女性、5年間のタリバン支配で自分たちの命は認められないとBBCに語る- 公開されました",
+    bodyOriginal: `Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
+- Published
+Five years on from the Taliban takeover in Afghanistan, women and girls have told the BBC their lives are unrecognisable under the rule of the regime.
+The hard-line Islamist group has been eroding the rights of the 22 million women in the country since it re-gained control in 2021- two decades after being removed from power by a US-led military coalition.
+The BBC is one of the few media organisations that has been able to maintain access to Afghanistan since the takeover. We spoke to women across the country, from the heart of Kabul to the vast countryside.
+They have watched on as the Taliban barred access to school for girls over 12, restricted travel without a male chaperone and brought in a law implying legal approval for child marriage.
+When questioned by BBC Afghan over the constraints that women face, the Taliban's foreign minister said: "Women are not totally restricted on all walks of life".
+But the restrictions impact almost every part of their lives and make it difficult to tell their stories. Many of the women have not used their real names because they fear reprisals.
+"People are so overwhelmed by poverty and daily hardships that many have been forced to put their education, dreams, and hopes for the future aside," Ela from Kabul said.
+"Today, survival has become the priority, and many of us no longer have the time or energy to think about the future."
+This story contains distressing details.
+Afghanistan is currently the only country in the world where girls are officially banned from secondary and higher education.
+Shakiba recounted that "15 August, when the government fell, was the worst and most painful day of my life.
+"Every year when this date comes I feel as if an old wound opens again and a new feeling of defeat fills my heart.
+"That day I felt that many of the dreams I had carried inside me for years were suddenly taken away."
+Though Shakiba has managed to finish her secondary education online - "a very important victory" - she says her life-long goal of becoming a pilot feels impossible.
+"Whenever I looked at the sky I imagined myself flying an airplane and seeing the world from above. I wanted to fly freely and experience a world without limits," she said.
+The Taliban's foreign minister, Amir Khan Muttaqi, was asked by the BBC about education for girls in Afghanistan, specifically referencing a Unicef report stating that around 2.6 million girls in the country are now unable to attend school beyond Grade 6.
+Amir Khan Muttaqi replied that "it is not correct to say everything is banned for women", adding that "right now, three million girls are going to schools and madrassas [religious centres focused on Islamic teachings]".
+When asked how religious schools can produce doctors in the country, Muttaqi said: "Women are not totally restricted on all walks of life... Only one small part (of their affairs) is restricted until further notice."
+Only 7% of women in Afghanistan are employed, after being banned from many workplaces and fields of study, the United Nations says.
+News anchor Zuhal was pushed out of her job after a series of Taliban orders.
+"I was very passionate about my work and did it with love. Every time I sat in front of the camera and read the news, I felt proud and happy... it was part of my identity and life.
+"The days when I used to wake up to the sound of my alarm clock and get ready to watch TV have now become days when I wake up in the morning knowing that I have to spend the whole day at home."
+According to the foreign minister, Afghanistan had up to 30,000 women in business in 2020 and 2021 - which has since risen to 120,000 female entrepreneurs.
+"[Women] are teachers, and civil servants and entrepreneurs. There is not a total ban on women in all forms of engagement and activities," Muttaqi said.
+The Taliban has resumed the public implementation of corporal punishments, with official records saying hundreds of people have been flogged since 2021 - but the true figure is likely much higher.
+Shaima told the BBC she was whipped 50 times, leaving her body badly scarred and her whole family traumatised.
+"They brought a paper and forced me to confess that: 'Yes, I am an apostate woman. I am collaborating with infidels and have spoken with unrelated men'.
+"They hit me so hard that my head would bend toward the ground.
+"Around 200 local people had gathered, including men, boys, and children. All of them were male. I was required to say out loud that I repented."
+Shaima said her eldest daughter now wakes up frightened almost every night and asks her "Mother, they are beating you," or "Mother, they are killing you".
+"That is what causes me the greatest pain," she added.
+Who are the Taliban?
+- Published12 August 2022
+What happened to the women who took on the Taliban?
+- Published14 June 2024
+Manizha was publicly lashed 39 times over her friendship with a man, and then jailed.
+"We wanted to get married, but unfortunately we were arrested. I do not know how the Taliban intelligence found out, or whether someone reported us.
+"In prison, I experienced things that I have never even told my mother. I had no desire to continue living. I used to say that the first thing I would do after getting out of prison would be to take my own life.
+"I had become a source of shame for my family and friends... I could no longer think about marriage."
+If you, or someone you know, has been affected by issues mentioned in this article, BBC Action Line has put together a list of organisations which can help.
+Afghanistan has one of the world's highest maternal mortality rates - rules restricting treatment by male doctors mean many women and girls are unable to access healthcare.
+Midwife Marzia recounted watching a 45-year-old mother of six die in front of her after she travelled to the clinic from a remote district.
+"We managed to save the baby, but now I keep thinking about the baby's future and the future of her six other children. What will happen to them without their mother? What will happen to the whole family?
+"We were all heartbroken. For us, losing a patient is always the hardest part of our job. We become exhausted, both physically and emotionally."
+Maryam is expecting a baby girl and said she worries about her daughter's future.
+"If things continue like this, what will happen to her? She will not even have the chance to finish school like I did, let alone go to university.
+"If one day she gets married, becomes pregnant and needs a female doctor during childbirth, what if there isn't one? This is a matter of life and death."
+'Speak up for us'
+Some of the Afghan women we spoke to said they still have hope for the future.
+Noori, 24, said she had chosen to study law and political science because she wanted to give women a voice and defend their rights.
+She never finished her degree because of the Taliban take over, but she's still been able to find a way to help women.
+"I did not lose hope. I decided to start working and become financially independent. I found a job at a jam-making company and started working there. I have now been working for three years.
+"Now, I have decided to establish my own company so that I can provide employment opportunities for other women. I want them to become independent, strong, and successful women like me and have a better future.
+"Currently, 10 brave women are working there."
+Asma, who is 13, wants to become a doctor and is sure someday she will be.
+"One day, everything will change... but we must continue with patience, and we will not lose hope," she told the BBC.
+Ela, who is a dental assistant, urged the international community not to forget Afghani women and girls.
+"Speak up for Afghan women, support their right to education and work," she said.
+"Keep the world's attention on their situation. We need solidarity, not silence."
+- Published11 September 2024
+- Published30 September 2025`,
+    bodyJa: `アフガニスタン女性、5年間のタリバン支配で自分たちの命は認められないとBBCに語る
+- 公開されました
+アフガニスタンでタリバンが占領してから5年が経ち、女性と少女たちは、政権の支配下では自分たちの生活が認められないほどだとBBCに語った。
+この強硬なイスラム主義団体は、米国主導の軍事連合によって政権の座を奪われた20年後、2021年に再び政権を掌握して以来、国内2200万人の女性の権利を侵食し続けている。
+BBC は、アフガニスタン占領以来、アフガニスタンへのアクセスを維持することができた数少ないメディア組織の 1 つです。私たちはカブールの中心部から広大な田園地帯まで、全国の女性たちに話を聞きました。
+彼らは、タリバンが12歳以上の女子の就学を禁止し、男性の付き添いなしでの旅行を制限し、児童婚の法的承認を示唆する法律を制定するのを見守ってきた。
+女性が直面する制約についてBBCアフガニスタンの質問を受けたタリバン外相は、「女性はあらゆる分野で完全に制限されているわけではない」と述べた。
+しかし、この制限は彼らの生活のほぼあらゆる部分に影響を及ぼし、彼らのストーリーを伝えることが困難になっています。女性の多くは報復を恐れて実名を公表していない。
+「人々は貧困と日々の苦難に打ちのめされており、多くの人が教育や夢、将来への希望を脇に置かざるを得なくなっている」とカブール在住のエラさんは語った。
+「今日、生き残ることが最優先事項となっており、私たちの多くはもはや将来のことを考える時間もエネルギーもありません。」
+この物語には悲惨な詳細が含まれています。
+アフガニスタンは現在、女子が中等教育および高等教育を受けることを公式に禁止されている世界で唯一の国である。
+シャキバさんは「政府が崩壊した8月15日は、私の人生で最悪で最も苦痛な日だった。
+「毎年この日が来ると、古傷がまた開いたような気がして、新たな敗北感が私の心を満たします。
+「その日、私は何年も自分の中に抱えていた夢の多くが突然奪われたように感じました。」
+シャキバさんはなんとか中等教育をオンラインで終えることができたが、これは「非常に重要な勝利だ」としているが、パイロットになるという生涯の目標は不可能だと感じているという。
+「空を見るたびに、飛行機に乗って上空から世界を見ている自分を想像しました。自由に飛んで、制限のない世界を体験したかったのです」と彼女は言いました。
+タリバンの外務大臣アミール・カーン・ムッタキは、BBCからアフガニスタンの女子教育について質問され、特に国内の約260万人の女子生徒が現在6年生以降の学校に通うことができないというユニセフの報告書に言及した。
+アミール・カーン・ムッタキ氏は「女性がすべて禁止されているというのは正しくない」と答え、「現在、300万人の女子生徒が学校やマドラサ（イスラム教の教えを中心とした宗教施設）に通っている」と付け加えた。
+この国で宗教学校がどのようにして医師を輩出できるのかとの質問に対し、ムッタキ氏は「女性はあらゆる職業において完全に制限されているわけではない…追って通知があるまで制限されるのは（女性の業務の）ほんの一部だけだ」と述べた。
+国連によると、アフガニスタンでは多くの職場や学問分野からの参加が禁止されており、雇用されている女性はわずか7％だという。
+ニュースキャスターのズハルさんは、タリバンの一連の命令を受けて職を追われた。
+「私は自分の仕事にとても情熱を持っていて、愛情を持って仕事をしていました。カメラの前に座ってニュースを読むたびに、誇りと幸せを感じました...それは私のアイデンティティと人生の一部でした。
+「以前は目覚まし時計の音で起きてテレビを見る準備をしていた日々が、今では朝起きると一日中家で過ごさなければならないとわかっている日々になりました。」
+同外相によると、アフガニスタンでは2020年と2021年に最大3万人の女性起業家がいたが、その後は12万人の女性起業家に増加した。
+「（女性は）教師であり、公務員であり、起業家でもあります。あらゆる形態の関与や活動において女性を完全に禁止しているわけではない」とムッタキ氏は語った。
+タリバンは公の場での体罰の実施を再開しており、公式記録によれば、2021年以来数百人が鞭打ちを受けたとされているが、実際の数字はおそらくそれをはるかに上回っている。
+シャイマさんはBBCに対し、50回も鞭で打たれ、体にはひどい傷跡が残り、家族全員がトラウマになったと語った。
+「彼らは紙を持ってきて、『はい、私は背教した女性です』と告白するよう強制しました。私は異教徒と協力しており、無関係の人々と話しました。」
+「あまりにも強く殴られたので、頭が地面に向かって曲がってしまいました。
+「男性、少年、子供を含む約200人の地元住民が集まっていました。全員が男性でした。私は大声で悔い改めたと言うよう要求されました。」
+シャイマさんによると、長女は今ではほぼ毎晩怯えて目覚め、「お母さん、彼らがあなたを殴っているの」とか「お母さん、彼らがあなたを殺しているの」と尋ねるという。
+「それが私にとって最大の苦痛の原因です」と彼女は付け加えた。
+タリバンとは何者ですか?
+- 2022 年 8 月 12 日公開
+タリバンと戦った女性たちはどうなったのでしょうか？
+- 2024 年 6 月 14 日公開
+マニザさんは男性との友情を巡って公の場で39回も鞭打たれ、その後投獄された。
+「私たちは結婚したかったのですが、残念ながら逮捕されてしまいました。タリバン諜報機関がどのようにして知ったのか、誰かが私たちを通報したのかはわかりません。
+「刑務所で、私は母親にも話していないことを経験しました。生き続けたいという気持ちは全くありませんでした。私は刑務所から出たらまず自分の命を絶つことだとよく言っていました。
+「私は家族や友人にとって恥の種になっていました…もう結婚について考えることはできませんでした。」
+あなたまたはあなたの知人がこの記事で言及されている問題の影響を受けている場合、BBC Action Line は支援できる組織のリストをまとめています。
+アフガニスタンは世界で最も妊産婦死亡率が高い国の一つで、男性医師による治療を制限する規則により、多くの女性や少女が医療を受けられないことになる。
+助産師のマルツィアさんは、遠隔地から診療所に来た45歳の6人の子どもの母親が目の前で亡くなるのを見たときのことを語った。
+「私たちは赤ちゃんを救うことができましたが、今は赤ちゃんの将来と、他の6人の子供たちの将来について考え続けています。母親がいなくなったら、彼らはどうなるのでしょう？家族全員はどうなるのでしょう？」
+「私たちは皆、心が痛んでいました。私たちにとって、患者を失うことは常に仕事の中で最も難しい部分です。私たちは肉体的にも精神的にも疲れ果ててしまいます。」
+マリアムさんは女の子を妊娠中だが、娘の将来が心配だと語った。
+「このままだと彼女はどうなってしまうのでしょうか？彼女には大学に行くことはおろか、私のように学校を卒業する機会さえないでしょう。
+「いつか彼女が結婚し、妊娠し、出産の際に女医が必要になったら、もし女医がいなかったらどうするのでしょう？これは死活問題です。」
+「私たちのために声を上げてください」
+私たちが話を聞いたアフガニスタン女性の中には、まだ将来に希望を持っていると語る人もいた。
+24歳のヌーリさんは、女性に発言権を与え、権利を守りたかったので、法律と政治学を学ぶことを選んだと語った。
+タリバンによる占領のため、彼女は学位を取得することができなかったが、それでも女性を助ける方法を見つけることができた。
+「私は希望を失うことはありませんでした。仕事を始めて経済的に自立しようと決心しました。ジャム製造会社に職を見つけて働き始めました。現在、3年間働いています。」
+「このたび、他の女性たちに雇用の機会を提供できるよう、自分の会社を設立することにしました。私は彼女たちに、私のような自立した、強くて成功した女性になって、より良い未来を持ってもらいたいと思っています。
+「現在、10人の勇敢な女性が働いています。」
+13 歳のアズマは医者になりたいと思っており、いつかはなれると確信しています。
+「ある日、すべてが変わるでしょう…しかし、私たちは忍耐を続けなければなりません、そして私たちは希望を失うことはありません」と彼女はBBCに語った。
+歯科助手であるエラさんは、アフガニスタンの女性​​と少女を忘れないよう国際社会に訴えた。
+「アフガニスタン女性のために声を上げ、教育と労働への権利を支援してください」と彼女は語った。
+「彼らの状況に世界の注目を集め続けてください。私たちに必要なのは沈黙ではなく連帯です。」
+- 2024 年 9 月 11 日公開
+- 2025 年 9 月 30 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T18:25:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
+    readTime: 9,
   },
   {
     id: "openai-talent-exodus-raises-huge-red-fla-609dc7e3",
@@ -541,6 +999,44 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
     readTime: 6,
+  },
+  {
+    id: "us-aircraft-carrier-on-way-to-relieve-us-64372cac",
+    title: "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
+- Published
+A US aircraft carrier is headed to the Middle East to replace the USS Abraham Lincoln, on which thousands of sailors have reportedly faced food shortages and difficult conditions on an extended, nine-month deployment.
+The USS George Washington, which was near Malaysia on Thursday, could arrive in the region in about nine days, BBC analysis shows.
+Family members of sailors aboard the Lincoln have expressed concern about their mental health deteriorating due to the conditions, with some sailors having reportedly attempted to jump overboard.
+While the US Navy has acknowledged supply challenges, it has denied that a mental health crisis was taking place on the Lincoln, which has 5,000 aboard.
+US President Donald Trump denied that family members were concerned about the welfare of their relatives and dismissed the possibility that the deployment had been too long.
+"Not nearly long enough," he told reprters on Friday.
+Trump also confirmed that another ship will replace the Lincoln, although he did not identify it by name.
+The USS George Washington left a naval facility in Yokosuka, Japan in May to patrol the Pacific region and is now headed to replace the Lincoln, CBS News, the BBC's US partner, reported, citing a US official.
+Tracking data compiled by BBC Verify shows that at its last recorded speed, the vessel would reach Duqm port in Oman, about 500 miles off the coast of Iran, around 22 August.
+Once it arrives in the Middle East, it will be the third aircraft carrier in the area. The USS George HW Bush is also there. No US aircraft carrier will remain in the Pacific.
+The Lincoln has been at sea since 11 December on a deployment that was initially scheduled to end in May, tracking data compiled by BBC Verify shows.
+Earlier this week, the Military Times and Stars & Stripes reported that the families of multiple sailors reported that their loved ones had considered jumping overboard due to conditions on the vessel.
+The conditions have reportedly included poor sanitation, infrequent ports-of-call, broken plumbing, exhaustion and shortages of fresh food.
+In an interview with the BBC, a relative of a sailor on the Lincoln claimed that their family member had lost 65lbs (29kg) since the ship headed out to sea and had been suffering from exhaustion because of the constant noise of aircraft and the ship's vibrations.
+The person, who spoke on condition of anonymity due to concerns about retaliation, said that their relative confirmed sailors had attempted to jump from the ship.
+Jefferson Kelly, whose son Jackson is on the Lincoln, told CBS that he had grown concerned after nearly nine months at sea. Deployments typically last about six months.
+"They should not be deployed this long," he said. "These are old ships. It's not like they're even state-of-the-art. And they take a lot of maintenance, a lot of work. It's around the clock.
+"I would get on a plane or helicopter tonight if it meant bringing him home to his mum and his siblings and his family," he added.
+The US Navy has denied any increase in suicidal behaviour on the Lincoln, but has acknowledged that supplies had been "disrupted by combat actions" during the war with Iran.
+Democratic lawmakers have expressed concern over the conditions on the ship.
+In a letter to Defence Secretary Pete Hegseth and Secretary of the Navy Hung Cao on Wednesday, Connecticut Democratic Senator Richard Blumenthal said that reports of shortages and poor conditions "warrant immediate attention".
+"But they also raise a broader question: whether the Navy can sustain the operational tempo now being demanded of its carrier force," he added.
+Hegseth has said that some of the media reports have been "completely misrepresented". He told reporters on Thursday that the US government was was making sure "every ship, every crew, every captain has everything we can provide them at every single moment".`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T17:36:27+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
+    readTime: 2,
   },
   {
     id: "disney-ceo-josh-d-amaro-tells-cnbc-parks-e9fa446f",
@@ -841,6 +1337,94 @@ Japan published its defense white paper earlier in the month, prompting outcry f
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
+  },
+  {
+    id: "instagram-accounts-fuelling-ceuta-crisis-c5228a25",
+    title: "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+    titleJa: "インスタグラムアカウント、セウタの危機を煽り、乗り越えるための有償アドバイスを提供",
+    summaryJa: "インスタグラムアカウント、セウタの危機を煽り、乗り越えるための有償アドバイスを提供- 公開されました",
+    bodyOriginal: `Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
+- Published
+This weekend, Mohammed wants to travel from Morocco to the neighbouring Spanish enclave of Ceuta, on the northern tip of Africa.
+He's a Moroccan man in his twenties and wants to emigrate to Europe - not least because he's been seeing lots of videos on Instagram that make the trip look easy.
+He contacts several of the Instagram accounts and one replies, claiming to have helped "many people" and offering him advice on how to cross for hundreds of pounds.
+Except Mohammed isn't real - he's a dummy account I've set up to investigate a network of interconnected Instagram profiles that are driving the influx of migrants to Ceuta with aspirational content and offering them help for a fee.
+It comes after roughly 78,000 migrants from Morocco arrived by sea into Ceuta in a matter of hours last month, 100 of whom died according to the Mayor of Ceuta.
+The crisis has calmed since, but it has sparked tensions between EU nations who share open borders as well as criticism of the Spanish government.
+The BBC's Top Comment podcast has identified dozens of Instagram profiles that portray the short swim around the Morocco-Ceuta border fence as safe and easy - but in reality, people have drowned trying to make the crossing and take much longer routes. The accounts also wrongly show Ceuta as a viable route to mainland Europe.
+Our research suggests that this has contributed to the influx, alongside other factors such as misinformation about changes to Spanish immigration law and allegations about weak border controls.
+'Help you enter Ceuta'
+After engaging with the accounts' profiles and posts, the BBC was added to multiple channels and WhatsApp groups. When I asked one of the anonymous accounts if they could help me cross to Ceuta this weekend, they said yes and requested "5000 dirhams upfront" (£400) for "information that will help you enter Ceuta".
+They said they had helped "many people" cross before and would give me information about the "sewer pipes" which I could use to help me reach the enclave safely.
+The account confirmed lots of other Instagram profiles help people to cross to Ceuta in this way, and asked for payment "via bank account" with a specific money transfer service.
+But they didn't respond when asked whether I would get a refund if the crossing was not successful. They've since deleted several of their messages to the account.
+The same profile giving this advice had previously told my real, BBC Instagram account that "it does not encourage immigration to Ceuta" - a message several other profiles repeated.
+And it's continuing - social media posts, actively recommended by Instagram's algorithm, are advertising another attempt at the crossing this weekend. This risks further deaths and inflamed diplomatic tensions between Morocco and Spain.
+Several of the profiles are no longer on Instagram after the BBC contacted Meta, which owns the platform. Meta told the BBC: "We have a team monitoring the situation in Ceuta in real time and removing content that violates our policies - including content that offers to provide, facilitate or seek human smuggling services".
+Why the network matters
+I first noticed the deluge of content about Ceuta when I saw a viral video showing two women in wetsuits walking through the city.
+While the original post in Spanish sought to dissuade migrants from arriving in Ceuta with the caption "Ceuta can't take it anymore", some versions shared by Moroccan and Arabic-speaking accounts either changed the caption or cropped it out, so the clip only showed the women strolling freely.
+This was just one of hundreds of posts that we are calling "mirage" content, which paint a deceptive picture of a place distinct from reality.
+Some videos show groups of young men and women swimming happily in the sea - even though many have drowned making the trip in recent weeks.
+Others show stories of people who have succeeded in reaching Ceuta - and then claim they have gone on to reach Spain or mainland Europe, despite about 75,000 of the 78,000 arrivals having been returned to Morocco by authorities.
+There were lots of similarities in the profiles sharing this kind of content. Nearly 40 of them had variations of the term Haraga and include Ceuta in their name or handle, often with a Spanish flag as a profile picture and with the calling codes for Morocco and Spain in the description.
+Haraga in Maghrebi Arabic roughly translates to "those who burn" and is used colloquially to refer to migrants arriving in a new place and burning or destroying documents so they cannot be identified and deported back to their home countries.
+The account history of these profiles, coupled with their posts and followers, indicated that most were being run from Morocco while a few were potentially based in Spain or Italy.
+Lots of them had been set up several years before, but their content about Ceuta had gained more traction in recent weeks.
+The accounts have managed to manipulate the algorithms on major social media sites by sharing emotive and hopeful content to gain more traction.
+Insiders at the biggest social media companies have previously told me how posts triggering a strong reaction are more likely to go viral.
+When I tried to contact some of these profiles using my own account, some of them directed me to the same WhatsApp numbers or email addresses.
+My dummy account, Mohammed, was a profile set to private and designed to look similar to the accounts of younger Moroccan people who were liking and commenting on the posts advertising crossings. I followed relevant content, including several of the Haraga profiles, and soon my feed was swamped with videos and content encouraging travel to Ceuta.
+There appears to be a wider trend here, where people looking to charge migrants money for advice can easily set up profiles and game social media algorithms.
+While there have been Facebook groups and accounts on other major social media sites posting about Ceuta, it was on Instagram where I found the most active and prevalent group of interconnected accounts.
+The new-found reach of these profiles, facilitated by Instagram's algorithms, opens them up to a wider pool of paying clients.
+It is yet another example of how gaming an algorithm can fuel real-world harm.
+- Published31 July
+- Published21 February`,
+    bodyJa: `インスタグラムアカウント、セウタの危機を煽り、乗り越えるための有償アドバイスを提供
+- 公開されました
+ムハンマドさんは今週末、モロッコからアフリカ北端にある隣のスペイン飛び地セウタへ旅行したいと考えている。
+彼は 20 代のモロッコ人男性で、ヨーロッパへの移住を望んでいます。特に、旅行が簡単に見えるような動画を Instagram でたくさん見ているからです。
+彼はインスタグラムのアカウントのいくつかに連絡を取ったところ、そのうちの1人から返信があり、「多くの人」を助けたと主張し、数百ポンドの横断歩道を渡る方法についてアドバイスを提供してきたという。
+ただし、モハメッドは本物ではありません。彼は、意欲的なコンテンツでセウタへの移民の流入を促し、有料で支援を提供している相互接続された Instagram プロフィールのネットワークを調査するために私が設定したダミーのアカウントです。
+先月、モロッコからおよそ7万8000人の移民が数時間のうちに海路でセウタに到着し、セウタ市長によるとそのうち100人が死亡したことを受けてのことだ。
+その後危機は沈静化したが、開かれた国境を共有するEU諸国間の緊張やスペイン政府への批判を引き起こした。
+BBCのトップコメントポッドキャストは、モロッコとセウタの国境フェンスの周りを短時間泳ぐのが安全で簡単であるかのように描写するインスタグラムのプロフィールを数十件特定した。しかし実際には、国境を越えようとして溺れたり、はるかに長いルートを通ったりする人がいる。これらの記述はまた、セウタがヨーロッパ本土への実行可能なルートであると誤って示している。
+私たちの調査によると、これがスペイン移民法の変更に関する誤った情報や国境管理の脆弱さに関する主張などの他の要因と並んで、流入の一因となっていることが示唆されています。
+「セウタに入るのを手伝ってください」
+アカウントのプロフィールや投稿に関与した後、BBC は複数のチャンネルと WhatsApp グループに追加されました。匿名アカウントの1人に、今週末セウタに行くのを手伝ってくれないか尋ねたところ、彼らは「はい」と答え、「セウタに入るのに役立つ情報」として「前払いで5000ディルハム（400ポンド）」を要求した。
+彼らは、これまでに「多くの人」が渡るのを手伝ったことがあると言い、飛び地に安全に到達するのに役立つ「下水管」についての情報をくれると語った。
+このアカウントは、他の多くのインスタグラムプロフィールがこの方法で人々がセウタに渡るのを助けていることを確認し、特定の送金サービスで「銀行口座経由」で支払いを求めた。
+しかし、横断が成功しなかった場合に返金を受けるかどうか尋ねられたとき、彼らは答えませんでした。その後、彼らはそのアカウントへのメッセージのいくつかを削除した。
+このアドバイスを与えている同じプロフィールは、以前、私の実際の BBC Instagram アカウントに「セウタへの移民を奨励するものではない」と伝えており、他のいくつかのプロフィールもこのメッセージを繰り返していた。
+そしてそれは続いている - Instagramのアルゴリズムによって積極的に推奨されたソーシャルメディアの投稿は、今週末の交差点での別の試みを宣伝しています。これにより、さらなる死者が発生し、モロッコとスペインの間の外交的緊張が高まる危険性がある。
+BBCがプラットフォームを所有するMetaに連絡した後、プロフィールのいくつかはInstagram上に存在しなくなった。メタ氏はBBCに対し、「我々にはセウタの状況をリアルタイムで監視するチームがあり、人身密航サービスの提供、促進、探求を提案するコンテンツなど、我々のポリシーに違反するコンテンツを削除している」と語った。
+ネットワークが重要な理由
+私がセウタに関するコンテンツの氾濫に初めて気づいたのは、ウェットスーツを着た 2 人の女性が街を歩いているウイルス動画を見たときでした。
+スペイン語の元の投稿は「セウタはもう我慢できない」というキャプションを付けて移民らのセウタ到着を思いとどまらせようとしたものだったが、モロッコ人やアラビア語圏のアカウントでシェアされた一部のバージョンではキャプションが変更されたり、切り取られたりしたため、クリップには自由に散歩する女性たちの姿だけが映っていた。
+これは、現実とは異なる場所の欺瞞的な絵を描く、私たちが「蜃気楼」コンテンツと呼ぶ数百の投稿のうちの 1 つにすぎません。
+いくつかのビデオには、若い男女のグループが海で楽しそうに泳いでいる様子が映されているが、ここ数週間で多くの人が旅行中に溺れて死亡しているにもかかわらずだ。
+到着者7万8,000人のうち約7万5,000人が当局によってモロッコに送還されたにもかかわらず、セウタに到達することに成功し、スペインやヨーロッパ本土に到達したと主張する人々の物語もある。
+この種のコンテンツを共有するプロフィールには多くの類似点がありました。そのうち 40 件近くはハラガという用語のバリエーションを持ち、名前やハンドルネームにセウタが含まれており、多くの場合、プロフィール写真としてスペイン国旗があり、説明文にはモロッコとスペインの電話番号が記載されていました。
+マグレビ語のアラビア語で「ハラガ」とは「燃やす者」という意味で、口語的には移民が新しい場所に到着し、身元が特定されず母国に強制送還されないように書類を燃やしたり破棄したりすることを指します。
+これらのプロフィールのアカウント履歴とその投稿やフォロワーを組み合わせると、ほとんどがモロッコから運営されている一方、スペインやイタリアに拠点を置いている可能性のある人も少数であることが分かりました。
+それらの多くは数年前に設立されていましたが、セウタに関するコンテンツはここ数週間でさらに注目を集めています。
+これらのアカウントは、感情的で希望に満ちたコンテンツを共有して、より多くの注目を集めることで、主要なソーシャルメディアサイトのアルゴリズムを操作することに成功しました。
+最大手のソーシャルメディア企業の内部関係者は以前、強い反応を引き起こす投稿がどのようにバイラルになる可能性が高いかを私に語った。
+自分のアカウントを使用してこれらのプロフィールの一部に連絡しようとすると、一部のプロフィールは同じ WhatsApp 番号または電子メール アドレスに誘導されました。
+私のダミーアカウント、モハメッドは非公開に設定されたプロフィールで、交差点を宣伝する投稿に「いいね」をしたりコメントしたりする若いモロッコ人のアカウントに似るように設計されていました。私はハラガのプロフィールをいくつか含む関連コンテンツをフォローしましたが、すぐに私のフィードはセウタへの旅行を奨励する動画やコンテンツで埋め尽くされました。
+ここにはより広範な傾向があり、移民にアドバイスを求めてお金を請求しようとする人々が簡単にプロフィールを設定したり、ソーシャルメディアアルゴリズムをゲームしたりできるようになる。
+他の主要なソーシャル メディア サイトにも Facebook グループやアカウントがセウタについて投稿していますが、相互接続されたアカウントの最も活発で普及しているグループを私が見つけたのは Instagram でした。
+Instagram のアルゴリズムによって促進されたこれらのプロフィールの新たな到達範囲は、より幅広い有料クライアントに開かれています。
+これは、ゲームのアルゴリズムが現実世界に悪影響を与える可能性があることを示すもう 1 つの例です。
+- 7 月 31 日発行
+- 2 月 21 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-14T12:19:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10f1/live/0bf3a4d0-97ce-11f1-a927-0dfab640b8c9.jpg",
+    readTime: 8,
   },
   {
     id: "anthropic-s-investor-talks-workday-s-sto-25ccfc78",
@@ -1547,324 +2131,6 @@ Ros が他の人にアドバイスしたのは、自分のアカウントにサ�
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae0/live/7d93c650-9568-11f1-8b14-5d44448d174a.jpg",
     readTime: 4,
-  },
-  {
-    id: "dell-s-stock-has-beaten-micron-and-amd-t-c444e7c6",
-    title: "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-    titleJa: "デルの株価は今年マイクロンやAMDを上回り、さらに上昇を続けている",
-    summaryJa: "デルの株価は今年、約4倍に上昇しており、レノボの決算報告がPCおよびサーバーメーカーの最近の勢いを後押ししている。",
-    bodyOriginal: `Shares of Dell have roughly quadrupled in price this year, with Lenovo’s earnings report helping to drive the latest bout of momentum for the PC and server maker.`,
-    bodyJa: `デルの株価は今年、約4倍に上昇しており、レノボの決算報告がPCおよびサーバーメーカーの最近の勢いを後押ししている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T22:09:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-49882740",
-    readTime: 2,
-  },
-  {
-    id: "salesforce-s-stock-gets-a-boost-as-j-p-m-fc024a28",
-    title: "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-    titleJa: "JPモルガンがAIへの懸念は誇張されていると発言し、セールスフォースの株価が上昇",
-    summaryJa: "アナリストは、いくつかの有望な AI 機能を挙げて、Salesforce 株の上昇率は 29% になると予測しています。",
-    bodyOriginal: `An analyst predicts 29% upside for Salesforce shares, citing some promising AI features.`,
-    bodyJa: `アナリストは、いくつかの有望な AI 機能を挙げて、Salesforce 株の上昇率は 29% になると予測しています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T22:07:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-02898598",
-    readTime: 2,
-  },
-  {
-    id: "markets-are-looking-eerily-calm-as-inves-e7f1ccbc",
-    title: "Markets are looking eerily calm as investors chase FOMO rally",
-    titleJa: "投資家がFOMO上昇を追いかける中、市場は不気味なまでに静まり返っている",
-    summaryJa: "ほぼすべての見出しの指標から見て、この 1 年は波乱万丈の波に乗りましたが、これほど投資家がリラックスしているように見えることはありませんでした。しかし、その穏やかさは見た目ほど安心できるものではないかもしれません。",
-    bodyOriginal: `By nearly every headline measure, investors have never looked more relaxed in a year not short of wild rides. But that calm may not be as reassuring as it looks.`,
-    bodyJa: `ほぼすべての見出しの指標から見て、この 1 年は波乱万丈の波に乗りましたが、これほど投資家がリラックスしているように見えることはありませんでした。しかし、その穏やかさは見た目ほど安心できるものではないかもしれません。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
-    publishedAt: "2026-08-13T22:05:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-772401",
-    readTime: 2,
-  },
-  {
-    id: "i-lost-14-000-in-a-month-investors-hit-7a28ea49",
-    title: "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-    titleJa: "「1か月で1万4000ドル失った」：韓国株式市場の乱高下に投資家が打撃",
-    summaryJa: "「1か月で1万4000ドル失った」：韓国株式市場の乱高下に投資家が打撃- 公開されました",
-    bodyOriginal: `'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings
-- Published
-Bank worker Yongjoon Kim lost 20 million Korean won ($14,000; £10,500) on the South Korean stock market last month.
-Kim's money was meant to help buy a home, as he is getting married later this year.
-Instead the value of his tech investments slumped by around 25% in July.
-"It's going to sting and I'm going to have to work really hard to make up for this," Kim says. "But for others who have taken more risk, they're going to feel the pain."
-Many of his friends are worse off, and now in a "desperate" situation after "going all in" with their savings, he says.
-While plenty of investors are piling into technology stocks, sharp market swings mean the bets don't always pay off, with prices often moving on every major headline.
-Nowhere is that instability more pronounced than in South Korea's tech-heavy Kospi, widely regarded as the world's most volatile stock index.
-A global frenzy around artificial intelligence has driven wild swings in the value of the country's biggest chipmakers.
-The Kospi faced "one of the sharpest corrections" in its history between June and August, comparable to the drops seen during Covid-19 and the 1997 Asian financial crisis, says Wee Khoon Chong from financial services company BNY.
-The index more than doubled its value since the start of the year to rise above 9,000 points in mid-June, before plunging to 5,500 within a few weeks. It has now recovered some ground to about 6,800 points.
-A key reason for the sell-off in recent weeks has been concerns over the huge amounts of money being spent on AI, Chong adds.
-The slump has had a big impact on many of the country's personal investors who bought tech stocks over the past year.
-For Woongsa Kim, a look at his shares trading app is a painful reminder of what he had made then lost by investing in the South Korean stock market.
-At the start of the year, he used about half of a bonus from work to buy shares in tech giant SK Hynix.
-The stock quadrupled in value before most of those gains were wiped out, leaving his investment, now worth about 300 million won, at roughly half the value of its peak.
-"Thinking about it just brings tears to my eyes," Kim told the BBC.
-The sell-off came after tech shares had soared for months, "generating the extreme euphoria" that has moved some personal investors to take out loans to invest, says investment analyst Tobias Reger.
-It has been most acutely felt by people who used leverage - a form of borrowing in the financial markets.
-Leveraging lets an investor control a larger number of stocks than their own cash would otherwise allow, which delivers a bigger profit if the shares rise.
-However, if the stocks fall past an agreed level it can trigger what is known as a margin call - when a broker demands payment of the debt.
-By the end of July an estimated 1.2 million South Korean personal investor accounts had faced margin calls, equivalent to about one in every 30 working-age adults in the country.
-Leveraged trading is a growing trend among personal investors that has also picked up in markets like Taiwan and the US, says Frank Benzimra, the head of Asia equity strategy at financial services group Societe Generale.
-That has raised the risks around AI-related stocks, he adds.
-'Gut-wrenching' slump
-After his US-listed Nvidia shares soared by more than 1,000%, Chanyong Park, who works in marketing, says he put most of the profits into SK Hynix shares. But that bet went sour as their value has fallen by around $10,000.
-"This was money I'd invested to save before planning to leave my job around October to start my own business. But now I'm seriously wondering whether I'll have enough."
-Park plans to hold on to his SK Hynix shares in hopes of a rebound, although recent swings have made him hesitant to invest more.
-"It doesn't always feel like movements are driven by rational reasons - sometimes it still feels a lot like gambling," he says.
-Another investor Youngji Park says he went "all in", putting the majority of his available cash into Samsung shares that peaked at a total value of 45 million Korean won.
-But his investment has suffered a "gut-wrenching" slump, Park says.
-The 20-somethings betting big on tech stocks
-- Published20 July
-Would you choose £50,000 over the chance of £1m?
-- Published27 July
-He too plans to keep hold of his shares in the hope that they will rise again.
-"I feel like a fool for trusting the Korean stock market," he says. "It's a long-term game now. I'll just have to wait it out."
-College student Soomin Yi says she pooled money with a friend to invest in SK Hynix after experiencing "fomo" (fear of missing out).
-But she now wishes she had sold her shares in the company when they peaked at three million won each in June, instead of buying into speculation that they would rise to five million won.
-"We didn't really have anyone around us who is experienced in investing, and we did not study investing seriously before buying the stock," Yi says.
-What this means for the rest of the world
-The huge swings in Korean shares are also raising concerns about some other markets around the world.
-Tech-heavy indexes like Japan's Nikkei 225 seem to be moving in tandem with the Kospi's wild swings, Societe Generale's Benzimra says.
-But the majority of the world's stock markets are unlikely to see that level of violent moves as they include a wider mix of companies, he adds.
-"I don't think we can see the same kind of volatility in large diversified markets such as the [Tokyo Stock Price Index] or the US equity markets," Benzimra says.
-And traders who diversified their portfolios say it has helped cushion the blow from the stock market rout.
-"I think this whole episode is a warning to Korean investors, especially young investors, not to put everything in one basket and hope for the best," says Yongjoon Kim, who also has shares in overseas markets.
-He adds that he should have taken a more cautious approach to investing in tech stocks.
-His fiancée, Gaeon Lee, is optimistic that the market will recover despite losing part of the savings they had set aside for a new home.
-But she worries about Kim, saying the constant need to monitor their investments has taken a toll on him.
-"Seeing our home savings take a hit in the stock market was definitely a wake-up call," she says.
-Additional reporting by Sangmi Han, Suhnwook Lee and Yijin Sim`,
-    bodyJa: `「1か月で1万4000ドル失った」：韓国株式市場の乱高下に投資家が打撃
-- 公開されました
-銀行員キム・ヨンジュンさんは先月、韓国株式市場で2000万韓国ウォン（1万4000ドル、1万500ポンド）を失った。
-キムさんは今年後半に結婚するため、そのお金は家の購入に充てられる予定だった。
-その代わり、同氏のテクノロジー投資の価値は7月に約25％下落した。
-「ヒリヒリするだろうし、これを補うために本当に一生懸命働かなければならないだろう」とキムは言う。 「しかし、より多くのリスクを負った他の人たちにとっては、痛みを感じることになるでしょう。」
-彼の友人の多くはさらに状況が悪化しており、貯金を「すべて使い果たした」後、現在は「絶望的な」状況にあると彼は言う。
-多くの投資家がハイテク株に群がっている一方で、市場の急激な変動により、賭けが必ずしも報われるわけではなく、主要な見出しごとに価格が変動することがよくあります。
-その不安定さは、世界で最も不安定な株価指数として広くみなされている韓国のハイテク株の多いコスピほど顕著である。
-人工知能をめぐる世界的な熱狂により、国内最大手のチップメーカーの価値が大きく変動している。
-金融サービス会社BNYのウィー・クーン・チョン氏によると、コスピは6月から8月にかけて、新型コロナウイルス感染症や1997年のアジア金融危機の際に見られた下落に匹敵する、株価史上「最も急激な調整の一つ」に直面したという。
-同指数は年初から値を２倍以上に上げ、６月中旬には９０００ポイントを超えたが、数週間以内に５５００ポイントまで下落した。現在は約6,800ポイントまで回復している。
-ここ数週間の株価下落の主な理由は、AIに巨額の資金が費やされていることへの懸念だとチョン氏は付け加えた。
-この不況は、過去１年間ハイテク株を購入した国内の個人投資家の多くに大きな影響を与えた。
-キム・ウンサさんにとって、株式取引アプリを見ると、韓国の株式市場への投資で得たものの、失ったものを痛烈に思い出すことになる。
-今年の初めに、彼は仕事から得たボーナスの約半分を使ってハイテク大手SKハイニックスの株を購入した。
-株式の価値は4倍になり、その利益のほとんどは消失し、現在約3億ウォン相当の彼の投資額はピーク時の価値の約半分になった。
-「思い出すだけで涙があふれてきます」とキムさんはBBCに語った。
-投資アナリストのトビアス・レーガー氏によると、ハイテク株が数カ月にわたって急騰し、「極度の幸福感を生み出し」、一部の個人投資家がローンを組んで投資するようになった後に、この下落が起きたという。
-それを最も痛感しているのは、金融市場での借り入れの一形態であるレバレッジを利用した人々です。
-レバレッジを活用すると、投資家は自分の現金よりも多くの株をコントロールできるようになり、株が上昇すればより大きな利益が得られます。
-ただし、株価が合意されたレベルを超えて下落すると、ブローカーが債務の支払いを要求する、いわゆるマージンコールが発生する可能性があります。
-7月末までに、推定120万の韓国の個人投資家口座が追証に直面しており、これは国内の労働年齢成人の約30人に1人に相当する。
-金融サービスグル​​ープのソシエテ・ジェネラルでアジア株式戦略の責任者を務めるフランク・ベンジムラ氏によると、レバレッジ取引は個人投資家の間で拡大傾向にあり、台湾や米国などの市場でも盛り上がっているという。
-そのためAI関連株をめぐるリスクが高まっている、と同氏は付け加えた。
-「はらわたが張り裂けるような」スランプ
-米国に上場しているエヌビディア株が1,000％以上急騰した後、マーケティング担当のチャンヨン・パーク氏は、利益のほとんどをSKハイニックス株につぎ込んだと語る。しかし、その価値は約10,000ドル下落したため、その賭けは失敗しました。
-「これは、自分のビジネスを始めるために10月頃に仕事を辞める計画を​​立てる前に、私が貯蓄するために投資したお金でした。しかし今、十分なお金があるかどうか真剣に悩んでいます。」
-パク氏は回復を期待してSKハイニックス株を保有し続けるつもりだが、最近の変動により追加投資を躊躇している。
-「運動が必ずしも合理的な理由によって動かされているとは限りません。それでもギャンブルのように感じることがあります」と彼は言います。
-別の投資家ヨンジ・パーク氏は、利用可能な現金の大半をサムスン株に注ぎ込み、最高値で総額4,500万韓国ウォンに達したと「全力を尽くした」と語った。
-しかし、彼の投資は「はらわたが張り裂けるような」不振に見舞われている、とパーク氏は言う。
-ハイテク株に大きく賭けている20代
-- 7 月 20 日発行
-100万ポンドのチャンスより5万ポンドを選びますか?
-- 7 月 27 日発行
-同氏も株価が再び上昇することを期待して株式を保有し続けるつもりだ。
-「韓国の株式市場を信頼している自分が愚か者になったような気がする」と彼は言う。 「今は長期戦。それを待つしかない」。
-大学生のスミン・イーさんは、「フォモ」（逃すことへの恐怖）を経験した後、友人とお金を出し合ってSKハイニックスに投資したと話す。
-しかし彼女は今では、株価が500万ウォンに上がるという憶測に乗るのではなく、6月の300万ウォンのピーク時に同社株を売却しておけばよかったと思っているという。
-「私たちの周りには投資経験のある人がほとんどおらず、株を買う前に投資について真剣に勉強しませんでした」とイー氏は言う。
-これが世界の他の国々にとって何を意味するか
-韓国株の大幅な変動は、世界の他の一部市場でも懸念を引き起こしている。
-ソシエテ・ジェネラルのベンジムラ氏は、日本の日経225などハイテク株を中心とした指数はコスピの乱高下と連動して動いているようだと語る。
-しかし、世界の株式市場の大部分には、より幅広い企業が含まれているため、そのレベルの暴力的な動きは見られそうにないと同氏は付け加えた。
-「（東京株価指数）や米国株式市場のような大規模な分散市場では、同じようなボラティリティは見られないと思います」とベンジムラ氏は言う。
-また、ポートフォリオを多様化したトレーダーらは、それが株式市場の暴落による打撃を和らげるのに役立ったと言っている。
-海外市場でも株式を保有しているキム・ヨンジュン氏は、「このエピソード全体が、韓国の投資家、特に若い投資家に対する警告だと思う。すべてを一つの籠に入れて最良の結果を期待しないように」と語る。
-同氏は、ハイテク株への投資にはもっと慎重なアプローチを取るべきだったと付け加えた。
-彼の婚約者、ガオン・リーさんは、新居のために貯めていた貯蓄の一部を失ったにもかかわらず、市場は回復すると楽観視している。
-しかし、彼女はキム氏のことを心配しており、彼らの投資を常に監視する必要があることがキム氏に大きな負担を与えていると語った。
-「我が家の貯蓄が株式市場で大打撃を受けているのを見て、間違いなく警鐘を鳴らされました」と彼女は言う。
-Sangmi Han、Suhnwook Lee、Yijin Sim による追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T22:00:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11e4/live/79e44fc0-94a0-11f1-870d-5d08c49babb2.jpg",
-    readTime: 7,
-  },
-  {
-    id: "engine-parts-smashed-ryanair-window-that-e1e53d14",
-    title: "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-    titleJa: "エンジン部品がライアンエアの窓を割り、男性の頭が吸い出されたと報告書が発表",
-    summaryJa: "エンジン部品がライアンエアの窓を割り、男性の頭が吸い出されたと報告書が発表- 公開されました",
-    bodyOriginal: `Engine parts smashed Ryanair window that man's head was sucked out of, report says
-- Published
-Broken engine fragments smashed a cabin window of a Ryanair plane causing a man's head and right shoulder to be sucked into the hole last month, US investigators have said.
-The National Transportation Safety Board (NTSB) wrote in a preliminary report that this happened after an engine fan blade broke shortly after takeoff on the 10 July flight from Greece to Germany.
-Serbian national Ljubisa Karović's head and right shoulder were sucked out of the plane's window, leaving him "seriously injured and in shock".
-His wife Svetlana Grković Maksimović later told BBC Serbia that she and two other passengers held onto his legs for several minutes.
-The NTSB said the flight from Thessaloniki to Memmingen "experienced a No. 2 (right) engine fan-blade-out (FBO) failure during climb out".
-"The crew elected to return to SKG [Thessaloniki International Airport] where they made an uneventful landing."
-The NTSB was "delegated the investigation in full" by the Greek authorities in the days following the incident.
-It also detailed a timeline of events given by the flight crew, who said they received a "high vibration" engine alert during the climb.
-In response, they reduced the engine power and carried out a series of checks. When the vibrations stopped, the crew continued to climb on autopilot, the report said.
-But the engine vibrations then increased and the crew heard a loud bang, prompting them to declare an emergency and begin their descent.
-Flight attendants reported hearing and feeling the vibrations, and seeing a small amount of smoke before the oxygen masks were deployed.
-One flight attendant said they then noticed passengers calling for help after a passenger became "partially lodged in a damaged cabin window", with the entire window missing.
-The engine had undergone ultrasonic inspections in May this year with no findings of fault, the report stated.
-Ryanair boss Michael O'Leary earlier suggested that the incident may have been caused by "foreign object damage" to an engine.
-The aircraft was operated by Ryanair's subsidiary Malta Air.
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
-    bodyJa: `エンジン部品がライアンエアの窓を割り、男性の頭が吸い出されたと報告書が発表
-- 公開されました
-米国の捜査当局は、先月、ライアン航空の飛行機の客室窓が壊れたエンジンの破片で破壊され、男性の頭と右肩が穴に吸い込まれたと発表した。
-国家運輸安全委員会（NTSB）は予備報告書で、これは7月10日のギリシャ発ドイツ行きの便で離陸直後にエンジンのファンブレードが破損した後に起こったと書いた。
-セルビア国籍のリュビサ・カロヴィッチさんの頭と右肩が飛行機の窓から吸い取られ、「重傷を負いショック状態」となった。
-妻のスベトラーナ・グルコビッチ・マクシモビッチさんは後にBBCセルビアに対し、彼女と他の乗客2人が数分間彼の足をつかんでいたと語った。
-NTSBは、テッサロニキ発メミンゲン行きの便で「上昇中に第2（右）エンジンのファンブレードアウト（FBO）故障が発生した」と発表した。
-「乗組員はSKG（テッサロニキ国際空港）に戻ることを選択し、そこで何事もなく着陸した。」
-NTSBは事件の数日後、ギリシャ当局から「捜査の全面委任」を受けた。
-また、飛行乗務員から語られた出来事のタイムラインについても詳述しており、乗務員らは上昇中に「高振動」エンジン警報を受けたと述べた。
-これに応じて、彼らはエンジン出力を下げ、一連の点検を実施した。報告書によると、振動が収まった後も乗組員は自動操縦で上昇を続けたという。
-しかしその後、エンジンの振動が増大し、乗組員は大きな衝撃音を聞いたため、緊急事態を宣言して降下を開始した。
-客室乗務員らは、酸素マスクが展開される前に振動を聞いたり感じたり、少量の煙を目撃したと報告した。
-ある客室乗務員は、乗客が「客室の破損した窓に部分的にはまり込み」、窓全体がなくなったため、乗客が助けを求めていることに気づいたと語った。
-報告書によると、エンジンは今年５月に超音波検査を受けたが、異常は見つからなかったという。
-ライアンエアのマイケル・オリアリー社長は以前、この事故はエンジンへの「異物損傷」が原因である可能性があると示唆していた。
-同機はライアンエアーの子会社マルタ航空が運航していた。
-一日の始まりに必要な見出しをすべて掲載した、当社の主力ニュースレターを入手してください。ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-13T21:43:47+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg",
-    readTime: 2,
-  },
-  {
-    id: "openai-loses-revenue-chief-denise-dresse-bfc3090b",
-    title: "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
-    titleJa: "OpenAI、収益責任者のデニス・ドレッサー氏を失い、ここ数日で2度目となる主要幹部の辞任となる",
-    summaryJa: "OpenAIは木曜日、最高収益責任者のデニス・ドレッサー氏が人工知能研究所に入社してから1年も経たないうちにその職を離れると発表したが、これは大ヒットとなるIPOに向けて準備を進めている企業にとっては驚くべき退職である。同社のリリースによると、ドレッサー氏は「他の機会を追求するため」退職するという。 OpenAIは、サイバーセキュリティ企業Wizの社長兼最高執行責任者（COO）を務めていたダリ・ラジク氏を後任に採用した。",
-    bodyOriginal: `OpenAI said Thursday that Chief Revenue Officer Denise Dresser is leaving her role less than a year after she joined the artificial intelligence lab, a startling exit for a company that's gearing up for what's expected to be a blockbuster IPO.
-The company said Dresser is leaving "to pursue other opportunities," according to a release. OpenAI has hired Dali Rajic, who previously served as the president and chief operating officer of the cybersecurity company Wiz, to replace her.
-"The opportunity to work hands-on with the most transformative technology in the world has been nothing short of incredible," Dresser wrote in a post on LinkedIn on Thursday. "I am so proud of what we have accomplished and, even more, of how this team has shown up for our customers and one another."
-Dresser's departure marks the second senior exit at OpenAI in days. Longtime OpenAI executive Brad Lightcap announced his decision to leave the company on Tuesday, writing in a post on X that he is going to "start something new."
-Lightcap had been at OpenAI for eight years and was a longtime friend and colleague of the company's CEO, Sam Altman. Dresser, by contrast, was hired in December after she spent more than a decade as an executive at Salesforce. Her exit poses a particular conundrum for OpenAI, in large part because she brought the company enterprise expertise that it sorely needed to take on its chief rival, Anthropic.
-Dresser was also tapped to take over many of Lightcap's responsibilities in April, when OpenAI said Lightcap was transitioning to a new role focused on "special projects."
-In addition to Lightcap and Dresser, Fidji Simo, who had been OpenAI's product and business chief, announced last month she was stepping down from her role at the company to focus on recovery after a "severe exacerbation of a chronic illness." Three other OpenAI executives left the company in April.
-The exits come during a crucial moment for OpenAI, as it readies for a potentially massive public market debut. The company confidentially filed its IPO prospectus with the Securities and Exchange Commission in June, just days after Anthropic did the same.
-OpenAI closed a funding round in March at a staggering $852 billion valuation, and it will face pressure to justify that figure to investors ahead of its IPO. The company has been racing to build out its enterprise business and win customers in the fiercely competitive market, which was one of Dresser's main priorities.
-In January, OpenAI CFO Sarah Friar told CNBC that enterprise customers accounted for roughly 40% of OpenAI's business as of January, but that she expected that figure to grow to closer to 50% by the end of the year. Dresser told CNBC in April that OpenAI's enterprise business was "on track" to reach that goal.
-Dresser will stay on at OpenAI for a brief period to "work closely with the business team to support our customers," OpenAI said. She wrote in her LinkedIn post that she has been working with OpenAI President Greg Brockman to ensure a "smooth transition."
-"No one works harder than this team," Dresser wrote. "I'm deeply grateful to every one of you."
-WATCH: OpenAI’s Denise Dresser discusses launch of new deployment company`,
-    bodyJa: `OpenAIは木曜日、最高収益責任者のデニス・ドレッサー氏が人工知能研究所に入社してから1年も経たないうちにその職を離れると発表したが、これは大ヒットとなるIPOに向けて準備を進めている企業にとっては驚くべき退職である。
-同社のリリースによると、ドレッサー氏は「他の機会を追求するため」退職するという。 OpenAIは、サイバーセキュリティ企業Wizの社長兼最高執行責任者（COO）を務めていたダリ・ラジク氏を後任に採用した。
-ドレッサー氏は木曜、LinkedInへの投稿で「世界で最も革新的なテクノロジーを実際に扱う機会は、信じられないほど素晴らしいものであった」と書いた。 「私たちが達成してきたことをとても誇りに思います。そしてそれ以上に、このチームがお客様やお互いのためにどのように貢献してきたかを誇りに思います。」
-ドレッサー氏の退職は、ここ数日でOpenAIにおける2人目の上級幹部の退職となる。 OpenAIの幹部を長年務めたブラッド・ライトキャップ氏は火曜日に退社の決定を発表し、Xへの投稿で「何か新しいことを始める」と書いた。
-Lightcap 氏は OpenAI に 8 年間勤務しており、同社 CEO の Sam Altman 氏の長年の友人であり同僚でもありました。対照的に、ドレッサー氏は、Salesforce で 10 年以上幹部を務めた後、12 月に採用されました。彼女の退任は、OpenAI にとって特別な難問となっている。その主な理由は、彼女が同社の最大のライバルである Anthropic に対抗するために切実に必要とされていたエンタープライズ専門知識を持ち込んだためである。
-OpenAIがLightcapが「特別プロジェクト」に重点を置いた新しい役割に移行すると発表した際、ドレッサー氏は4月にもLightcapの多くの責任を引き継ぐよう抜擢された。
-ライトキャップ氏とドレッサー氏に加え、OpenAIの製品およびビジネス責任者を務めていたフィジ・シモ氏も先月、「慢性疾患の重度の悪化」からの回復に専念するため同社での役職を辞任すると発表した。 OpenAIの他の幹部3人は4月に同社を退職した。
-今回の撤退は、OpenAIにとって、潜在的に大規模な公開市場デビューの準備をしている重要な時期に行われた。同社は、Anthropicが同様のことを行ったわずか数日後の6月に、秘密裏にIPO目論見書を証券取引委員会に提出した。
-OpenAIは3月に8,520億ドルという驚異的な評価額で資金調達ラウンドを終了したが、IPOを前に投資家に対してその数字を正当化するというプレッシャーに直面することになる。同社はエンタープライズ ビジネスを構築し、熾烈な競争市場で顧客を獲得するために競い合ってきましたが、これはドレッサーの主要な優先事項の 1 つでした。
-OpenAIの最高財務責任者サラ・フライアー氏は1月、CNBCに対し、1月時点でOpenAIのビジネスの約40％を企業顧客が占めているが、その数字は年末までに50％近くまで増加すると予想していると語った。ドレッサー氏は4月にCNBCに対し、OpenAIのエンタープライズ事業はその目標達成に向けて「軌道に乗っている」と語った。
-OpenAIによると、ドレッサー氏は「ビジネスチームと緊密に連携して顧客をサポートする」ため、短期間OpenAIに残る予定だという。彼女はLinkedInへの投稿で、「スムーズな移行」を確実にするためにOpenAI社長のグレッグ・ブロックマンと協力していると書いた。
-「このチームほど熱心に働く人はいない」とドレッサー氏は書いた。 「皆さん一人一人に深く感謝しています。」
-注目: OpenAI のデニス・ドレッサー氏が新しい導入会社の立ち上げについて語る`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-    publishedAt: "2026-08-13T19:59:46+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "trade-court-upholds-trump-s-closure-of-d-011cbc77",
-    title: "Trade court upholds Trump's closure of 'de minimis' loophole",
-    titleJa: "貿易裁判所、トランプ大統領の「最小限の」抜け穴閉鎖を支持",
-    summaryJa: "連邦貿易裁判所は木曜日、800ドル未満の商品を無税で米国に輸入することを認める「de minimis」免除規定のドナルド・トランプ大統領の撤廃を支持した。関税や他の形態の保護主義の主要な支持者であるトランプ氏は、未徴収の輸入税収入で米国に数十億ドルの損失を与えていると主張する抜け穴の閉鎖が続いていることを称賛した。",
-    bodyOriginal: `A federal trade court on Thursday upheld President Donald Trump's elimination of the "de minimis" exemption, which allowed goods valued under $800 to be imported to the U.S. tax free.
-Trump, a major proponent of tariffs and other forms of protectionism, celebrated the continued closure of the loophole, which he claims has cost the U.S. billions of dollars in uncollected import-tax revenue.
-Attorneys for the plaintiff, a Michigan-based auto-parts distributor, did not immediately respond to CNBC's request for comment on the ruling.
-The company, Detroit Axle, had sued the Trump administration in May 2025, more than three months after Trump signed an executive order rescinding the de minimis exemption.
-The plaintiff argued that Trump lacked the legal authority to scrap the loophole under the International Emergency Economic Powers Act, or IEEPA.
-Trump had used the same law to try to impose sweeping "liberation day" tariffs on nearly every country in the world last year. In February, the Supreme Court struck those duties down on the grounds that IEEPA did not authorize them.
-But in Thursday's ruling, a three-judge panel on the U.S. Court of International Trade found that the statute does allow Trump to scrap the de minimis exemption.
-"In reaching this conclusion, we find that the President's power to 'nullify [or] void . . . exercising any . . . privilege' does not run afoul of separation of powers principles," they wrote in the order, quoting the law.
-They concluded that, unlike in key cases challenging Trump's global tariffs, the rescission of the duty-free loophole "is not an exercise of the power of the purse" and "is not an exercise of the power to legislate." In striking down his global duties, the Supreme Court said Trump needed congressional approval.
-The de minimis exemption was heavily exploited in the retail industry, especially by e-commerce giants like Shein and Temu that sell large quantities of low-price clothes and other goods.
-To take advantage of the exemption, some companies shipped individual packages directly from Chinese manufacturers to American consumers. Larger companies set up warehouses in Canada and Mexico and then sent individual shipments over the border one by one, allowing them to avoid costly tariffs, regardless of where the goods were manufactured.
-Economists have warned that ending the exemption could disproportionately impact lower-income and minority American consumers who buy inexpensive goods online.
-But Trump, in a Truth Social post Thursday afternoon, called the trade court's ruling a "BIG WIN" on "one of the most DESPICABLE loopholes in American Trade Policy."
-De minimis "became a giant loophole for TARIFF Cheats" and was exploited by criminals shipping drugs and other illegal products into the U.S., Trump wrote.
-"With the stroke of my mighty pen — NO AUTOPEN!!! — we ended this ridiculous giveaway, and made Foreign Goods play by the rules," Trump boasted. "The Importers sued. Today, THEY LOST."
-— CNBC's Gabrielle Fonrouge contributed to this report.`,
-    bodyJa: `連邦貿易裁判所は木曜日、800ドル未満の商品を無税で米国に輸入することを認める「de minimis」免除規定のドナルド・トランプ大統領の撤廃を支持した。
-関税や他の形態の保護主義の主要な支持者であるトランプ氏は、未徴収の輸入税収入で米国に数十億ドルの損失を与えていると主張する抜け穴の閉鎖が続いていることを称賛した。
-ミシガン州に本拠を置く自動車部品販売会社である原告の弁護士は、判決に関するCNBCのコメント要請にすぐには応じなかった。
-同社のデトロイト・アクスルは、トランプ大統領がミニミス免除を取り消す大統領令に署名してから3カ月以上後の2025年5月にトランプ政権を訴えていた。
-原告は、トランプ大統領には国際緊急経済権限法（IEEPA）に基づく抜け穴を廃止する法的権限がないと主張した。
-トランプ大統領は昨年、同じ法律を利用して世界のほぼすべての国に広範な「解放記念日」関税を課そうとしていた。最高裁判所は2月、IEEPAが認可していないという理由でこれらの義務を無効にした。
-しかし、木曜日の判決で、米国国際貿易裁判所の3人の裁判官からなる合議体は、同法によりトランプ大統領がミニミス免除を廃止することを認めているとの判断を下した。
-「この結論に達するにあたり、『あらゆる特権の行使を無効にする』という大統領の権限は三権分立の原則に抵触しないことが判明した」と彼らは法律を引用しながら命令書の中で述べた。
-彼らは、トランプ大統領の世界的な関税に異議を唱える重要な訴訟とは異なり、免税の抜け穴の撤回は「財布の権力の行使ではない」、「立法権の行使ではない」と結論づけた。最高裁判所は、トランプ氏が国際的な任務を放棄するには議会の承認が必要だと述べた。
-この最低限度の免除は小売業界、特に低価格の衣料品やその他の商品を大量に販売するSheinやTemuのような電子商取引大手によって大きく活用された。
-この免除を利用するために、一部の企業は中国の製造業者から米国の消費者に個別のパッケージを直接発送しました。大手企業はカナダとメキシコに倉庫を設置し、個別の荷物を次々と国境を越えて発送することで、商品がどこで製造されたかに関係なく、高額な関税を回避できるようにしている。
-エコノミストらは、免除を終了すると、オンラインで安価な商品を購入する低所得層や少数派の米国消費者に不当な影響を与える可能性があると警告している。
-しかし、トランプ大統領は木曜午後の真実ソーシャルへの投稿で、通商裁判所の判決は「米国の通商政策における最も卑劣な抜け穴の一つ」に対する「大きな勝利」だと述べた。
-デミニミスは「タリフ不正行為の巨大な抜け穴となり」、麻薬やその他の違法製品を米国に輸送する犯罪者によって悪用されたとトランプ大統領は書いた。
-「私の力強いペンの一筆で――自動運転禁止!!!――我々はこのばかばかしい景品を終わらせ、外国製品にルールを守らせた」とトランプ大統領は自慢した。 「輸入業者は訴訟を起こしました。今日、輸入業者は敗訴しました。」
-— CNBC のガブリエル・フォンルージュがこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-    publishedAt: "2026-08-13T19:56:06+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "workday-skyrockets-19-before-trading-hal-d8952832",
-    title: "Workday skyrockets 19% before trading halted on report of Silver Lake takeover",
-    titleJa: "ワークデイはシルバーレイク買収報道で取引停止前に19％急騰",
-    summaryJa: "プライベートエクイティ会社シルバーレイクが人事ソフトウェアメーカーの買収交渉を行っているとの報道を受け、ワークデイ株は19％超急騰した。株価は午後遅くの取引で一時停止され、ロイターの報道を受けて同社の時価総額は最後に５００億ドルを超えた。",
-    bodyOriginal: `Workday shares popped more than 19% on a report that private equity firm Silver Lake is in talks to buy the human resources software maker.
-Shares were briefly halted in late afternoon trading and the company's market value last topped more than $50 billion following the report from Reuters.
-The discussions, citing sources familiar with the matter, have been ongoing in recent months, according to Reuters.
-Workday and Silver Lake did not immediately respond to CNBC's request for comment.
-Software companies like Workday have come under immense pressure in recent months on mounting concerns that artificial intelligence tools will upend their business models. The stock is down about 3% this year and 7% from a year ago.
-In March, co-founder Aneel Bhusri was renamed CEO after Carl Eschenbach stepped down. Bhusri has held various leadership roles at the company, including a stint as CEO and co-CEO.
-"Aneel Bhusri, the CEO, and Egon [Durban] from Silver Lake know each other well through many connections. So we we think certainly this could make sense, and I think this goes back to how badly hit software's been," analyst Brent Thill told CNBC's "Power Lunch."
-In May, the company posted better-than-expected results and upped it forecast on AI tailwinds.`,
-    bodyJa: `プライベートエクイティ会社シルバーレイクが人事ソフトウェアメーカーの買収交渉を行っているとの報道を受け、ワークデイ株は19％超急騰した。
-株価は午後遅くの取引で一時停止され、ロイターの報道を受けて同社の時価総額は最後に５００億ドルを超えた。
-ロイター通信によると、この問題に詳しい関係者の話として、この協議はここ数カ月続いているという。
-ワークデイとシルバーレイクはCNBCのコメント要請にすぐには応じなかった。
-ワークデイのようなソフトウェア企業はここ数カ月、人工知能ツールが自社のビジネスモデルを一変させるのではないかとの懸念が高まり、多大なプレッシャーにさらされている。株価は今年約３％下落し、前年比では７％下落した。
-カール・エッシェンバッハ氏の辞任を受け、3月に共同創設者のアニール・ブースリ氏がCEOに改名された。ブスリ氏は、CEO および共同 CEO を含む、同社でさまざまな指導的役割を果たしてきました。
-「CEOのアニール・ブスリ氏とシルバーレイクのエゴン氏（ダーバン氏）は、多くの人脈を通じてお互いをよく知っている。したがって、これは確かに理にかなっていると我々は考えている。そして、これはソフトウェアがどれほどひどい打撃を受けているかに遡ると思う」とアナリストのブレント・ティル氏はCNBCの「パワーランチ」で語った。
-同社は5月に予想を上回る業績を発表し、AIの追い風を受けて予想を上方修正した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
-    publishedAt: "2026-08-13T19:09:42+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
   },
 ];
 
