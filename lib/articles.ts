@@ -15,6 +15,258 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "i-survived-two-years-as-prime-minister-i-f2835fe5",
+    title: "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+    titleJa: "私は大ヒットした新作ゲームで首相として 2 年間生き延びましたが、内閣は私を見捨てました。",
+    summaryJa: "モバイル ゲーム 第 10 位: Full Confidence は最近、英国の App Store 有料ゲーム チャートで Minecraft よりも上位にランクされました",
+    bodyOriginal: `I survived two years as prime minister in a hit new game - then my cabinet deserted me
+- Published
+A mobile game made by a developer in Manchester has recently beaten the global phenomenon Minecraft to top Apple's paid games chart.
+Its success is perhaps even more surprising given its subject matter - UK politics.
+No 10: Full Confidence by Benjamin Brewis sees players take on the role of prime minister, making decisions through a wave of parliamentary scenarios and trying to remain in power for as long as possible.
+The success of Brewis's app, and the creation of others like it, suggests the dramatic recent ebb and flow of Westminster may have inspired a popular new sub-genre.
+In No 10: Full Confidence, external, players who take on the precarious position of prime minister must balance the moods of four factions - their cabinet, backbenchers, the media, and the public - to remain in the game. Decisions are made across more than 300 fictional political scenarios, handwritten by Brewis.
+The storylines range from the mundane - dealing with GP appointment waiting times - to the absurd.
+"I have a two or three-part storyline where a dog is let loose into the House of Lords by a lobbyist during a vet bill and that spirals out of control," Brewis said.
+Each scenario asks players to pick one action from three choices on the screen, with each potentially upsetting or pleasing the different factions.
+Much like in real life, if one side completely turns against you your political career is finished.
+While some situations may sound farcical, Brewis said he had plenty of real life examples to draw on as inspiration.
+"I'd remember that MP who had a spider that he'd threaten MPs with, or when Boris Johnson walked into a fridge. I'm frantically writing them all down."
+Not my finest hour
+My first attempt at playing prime minister in No 10: Full Confidence hasn't left me considering a Westminster career.
+As my chosen candidate, Verity Grimshaw, I start off strong, managing to survive a crisis in which thousands of A-level students receive the wrong grades.
+I only manage to stay in the post for one year and nine months, taken out - somewhat ironically given my actual job - by a complete lack of trust by the press.
+Unfortunately, a cabinet minister resigns and publishes a three-page-long letter that contains the phrase "the PM was warned" four times.
+This letter being read out in full on BBC Radio 4 turns out to be the last straw for poor Verity.
+My final choice in the game of "respond directly, address every point, don't let it sit unanswered", seemingly does not go down very well.
+Brewis says some users have fared a lot better than my sorry effort.
+"Someone has stayed in for 1,885 months, which is 157 years," he says. "I'm not sure if that's a democracy any more."
+Brewis said he was inspired to begin creating the app around December 2025, when "it was all kicking off" with former Prime Minister Sir Keir Starmer, and talk of potential challenges to his leadership was starting to grow.
+"I remember thinking at the time, someone should just start taking the mick out of this," he said. "We've had so many prime ministers - it's funny now."
+Five different people have occupied No 10 since 2016 - three in the space of just over three years, and one for just 49 days.
+Dr Russell Foster, a lecturer in British and International Politics at King's College London, said the "churn of prime ministers" and growing presence of politics on social media could also help explain why Westminster is suddenly appearing on our devices.
+No 10: Full Confidence is not the only game based around Westminster's wheeling and dealing.
+Fantasy Parliament, external is a browser-based game designed by another UK-based developer, Evan Roberts, which lets players draft their own fantasy league of real-world MPs, scoring points based on their real-life media coverage.
+With the strategy game's Policy Tester, players can even type in proposals to a ChatGPT-style AI model, which then replies in the style of how it believes different groups of voters - such as Coastal Keith or Graduate Gemma - would react.
+Meanwhile, UK Politics Simulator, "built on real UK data down to ward level", is reportedly due out later this year for PC, made by the Scarborough-based company Black Cannon Games.
+Despite the success of his own venture, currently ranking 5th in Apple's UK paid games charts - above Monopoly Go - Brewis said he does not know if any politicians have actually played his game.
+However, he has received some feedback on how accurately the game depicts UK political life, from his friends who work in the civil service.
+"It's exactly like this," they told him, "but worse."
+More weekend picks
+Grand Theft Auto made him a legend. His latest game was a disaster
+- Published19 October 2025
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `私は大ヒットした新作ゲームで首相として 2 年間生き延びましたが、内閣は私を見捨てました。
+- 公開されました
+マンチェスターの開発者が作ったモバイル ゲームが最近、世界的な現象である Minecraft を破って Apple の有料ゲーム チャートのトップに立った。
+英国政治という主題を考えると、その成功はおそらくさらに驚くべきことである。
+第 10 位: ベンジャミン ブリューイスの「全幅の信頼」では、プレーヤーが首相の役割を引き受け、議会の一連のシナリオを通じて決定を下し、できるだけ長く権力の座に留まろうとします。
+Brewis のアプリの成功と、同様のアプリの作成は、最近のウェストミンスターの劇的な栄枯盛衰が、人気のある新しいサブジャンルにインスピレーションを与えた可能性があることを示唆しています。
+No 10: Full Confidence では、首相という不安定な立場を引き受ける外部のプレイヤーは、ゲームに残るために、閣僚、バックベンチャー、メディア、国民の 4 つの派閥のムードのバランスをとらなければなりません。ブリューウィスが手書きした 300 以上の架空の政治シナリオに基づいて意思決定が行われます。
+ストーリーは、一般医の予約の待ち時間に対処するというありふれたものから、不条理なものまで多岐にわたります。
+「獣医師法案の最中にロビイストによって貴族院に犬が放たれ、制御不能になるという2、3部構成のストーリーラインがある」とブリューウィス氏は語った。
+各シナリオでは、プレイヤーは画面上の 3 つの選択肢から 1 つのアクションを選択するよう求められ、それぞれのアクションが異なる派閥を動揺させたり喜ばせたりする可能性があります。
+実生活と同じように、一方の側が完全に敵に回れば、あなたの政治家としてのキャリアは終わります。
+状況によっては茶番に聞こえるかもしれないが、ブリューウィス氏はインスピレーションとして参考になる実例がたくさんあると語った。
+「クモを飼って国会議員を脅したあの国会議員のことや、ボリス・ジョンソンが冷蔵庫に入ったときのことを思い出します。私はそれらをすべて必死で書き留めています。」
+私の最高の時間ではない
+『No.10: Full Confidence』で初めて首相役に挑戦しましたが、ウェストミンスターでのキャリアを考えることはできませんでした。
+私が選んだ候補者、ベリティ グリムショーとして、私は好調なスタートを切り、何千人もの A レベルの生徒が間違った成績を受けるという危機をなんとか乗り切りました。
+私がそのポストに留まり続けられたのはわずか1年9カ月で、実際の仕事を考えると皮肉なことに、マスコミからの信頼が完全に欠如していたことが影響した。
+残念なことに、ある閣僚が辞任し、「首相は警告された」という文言を4回も含む3ページにわたる書簡を公表した。
+BBCラジオ4で全文読み上げられたこの手紙は、哀れなヴェリティにとって最後の藁となった。
+「直接応答し、すべての点に対処し、未回答のまま放置しない」というゲームにおける私の最終的な選択は、どうやらあまりうまくいかないようです。
+Brewis 氏は、一部のユーザーは私の残念な努力よりもはるかに良い結果をもたらしたと述べています。
+「1,885か月、つまり157年間も滞在した人がいます」と彼は言う。 「それが民主主義なのかどうかはもうわかりません。」
+ブリューウィス氏は、2025年12月頃にアプリの作成を開始するきっかけとなったのは、キア・スターマー元首相との「すべてが始まった」頃であり、同氏のリーダーシップに対する潜在的な課題についての話が高まり始めていたと語った。
+「その時、誰かがこの事件からマイクを取り出すべきだと思ったのを覚えている」と彼は語った。 「これまでたくさんの首相が誕生してきたが、今となってはおかしな話だ」
+2016 年以来、5 人の異なる人物が 10 位を占めています。そのうち 3 人は 3 年あまりの間に、1 人はわずか 49 日間でした。
+キングス・カレッジ・ロンドンで英国・国際政治の講師を務めるラッセル・フォスター博士は、「首相の交代」とソーシャルメディア上での政治の存在感の増大も、なぜウェストミンスターが突然私たちのデバイスに表示されるのかを説明するのに役立つかもしれないと述べた。
+No 10: Full Confidence は、ウェストミンスターのウィーリングとディーリングをベースにした唯一のゲームではありません。
+『Fantasy Parliament, external』は、英国を拠点とする別の開発者である Evan Roberts によって設計されたブラウザ ベースのゲームで、プレイヤーは現実世界の国会議員から成る独自のファンタジー リーグをドラフトし、現実のメディア報道に基づいてポイントを獲得できます。
+この戦略ゲームの Policy Tester を使用すると、プレイヤーは ChatGPT スタイルの AI モデルに提案を入力することもでき、AI モデルはさまざまな有権者グループ (Coastal Keith や Graduate Gemma など) がどのように反応するかを考えるスタイルで返信します。
+一方、「区レベルまで英国の実際のデータに基づいて構築された」UK Politics Simulator は、スカーバラに本拠を置く企業 Black Cannon Games によって作られ、今年後半に PC 向けにリリースされる予定であると伝えられています。
+ブリュース氏は自身の事業が成功し、現在アップルの英国有料ゲームチャートでモノポリーゴーを上回り第５位にランクされているにもかかわらず、実際に彼のゲームをプレイした政治家がいるかどうかは分からないと述べた。
+しかし、彼は公務員として働く友人たちから、このゲームがイギリスの政治生活をいかに正確に描いているかについてのフィードバックを受け取りました。
+「まさにこれと同じです」と彼らは彼に言いました。「しかし、さらに悪いことです。」
+その他の週末のおすすめ
+グランド・セフト・オートは彼を伝説にしました。彼の最新の試合は大惨事だった
+- 2025 年 10 月 19 日公開
+Tech Decoded ニュースレターに登録して、世界のトップテクノロジーのストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T23:45:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
+    readTime: 7,
+  },
+  {
+    id: "rescuers-search-for-survivors-of-powerfu-17695ffc",
+    title: "Rescuers search for survivors of powerful Indonesia earthquake",
+    titleJa: "インドネシアの大地震で生存者を捜索する救助隊",
+    summaryJa: "インドネシアの大地震で生存者を捜索する救助隊- 公開されました",
+    bodyOriginal: `Rescuers search for survivors of powerful Indonesia earthquake
+- Published
+Rescue teams in Indonesia have been searching for survivors of Saturday's major earthquake which left at least 47 people dead.
+The magnitude 7.7 quake struck the island of Flores shortly before 05:00 (22:00 GMT on Friday) and had a depth of 15km, Indonesia's meteorology and geophysics agency stated.
+Preliminary reports indicate hundreds of buildings have been severely damaged by the quake and the dozens of aftershocks that followed.
+However, the full scale of the disaster is still unclear, and news of a second earthquake of magnitude 6.9 at the other end of Indonesia served as a reminder of why they call this region the ring of fire.
+Tremors from Saturday's powerful earthquake were reportedly felt by residents as far west as Bima Regency and City, the National Disaster Management Agency (BNPB) agency said, but the Manggarai province is among the most affected.
+Preliminary data shows that 24 fatalities had been recorded there, meanwhile 17 deaths were recorded in East Manggarai province, three in Sikka province, and at least one in each of the Ngada, Ende and West Manggarai provinces.
+At least two others had been seriously injured and 11 slightly injured.
+The BNPB said aid was being sent to the affected areas with 10,500 packages arriving at the base operations so far.
+It will take time to assess the full extent of the destruction in the region, which is remote and mountainous.
+However, early reports indicate more than 150 houses had been severely damaged, as well as dozens of educational institutions, a number of healthcare facilities, places of worship, offices, and several other public facilities.
+Video taken at the port in Maumere - the largest town in Flores - showed large chunks of concrete breaking off the terminal building onto passengers waiting to board an inter-island ferry. Some were thrown into the sea when the gangway to a ship collapsed.
+Emanuel Melkiades Laka Lena, governor of East Nusa Tenggara province, told a news conference that they were killed in their sleep by collapsing rubble.
+Others, like Arnold Welianto, who lives in Talibura, a village near the coastline in Sikka, East Nusa Tenggara, were shaken out of their beds.
+"I was startled awake and immediately went to my child's room." He said.
+He also told the BBC that many people had already fled into the hills because the sea had also receded.
+While a tsunami warning was initially issued - leading some 2,000 people to self-evacuate - it was lifted around three hours after the initial jolt, when no significant sea level rise was detected.
+Landslides, however, did block access to some villages but the experienced rescue teams worked tirelessly through the day to free those trapped under the rubble.
+In Ruteng, a temporary medical tent was also assembled outside of a hospital to treat earthquake victims.
+The ongoing advice from BNPB is for people to remain calm and to stay away from coastal areas and structures showing signs of damage.
+Indonesia is prone to earthquakes and volcanic activity, lying along the meeting point of three major tectonic plates.`,
+    bodyJa: `インドネシアの大地震で生存者を捜索する救助隊
+- 公開されました
+インドネシアの救助チームは、少なくとも47人が死亡した土曜日の大地震で生存者の捜索を行っている。
+インドネシアの気象・地球物理庁によると、マグニチュード7.7の地震は午前5時（金曜日日本時間午後22時）直前にフローレス島を襲い、深さは15キロに達した。
+暫定報告によると、地震とその後の数十回の余震によって数百棟の建物が深刻な被害を受けた。
+しかし、災害の全規模はいまだ不明であり、インドネシアの反対側でマグニチュード6.9の二度目の地震が発生したというニュースは、なぜこの地域を環太平洋火山帯と呼ぶのかを思い出させるものとなった。
+国家災害管理庁（BNPB）によると、土曜日の強力な地震による揺れは、遠く西のビマ県とビマ市までの住民が感じたと伝えられているが、マンガライ県は最も大きな被害を受けたものの一つである。
+暫定データによると、そこでは24人の死亡者が記録され、一方、東マンガライ県で17人、シッカ県で3人、ンガダ、エンデ、西マンガライ県でそれぞれ少なくとも1人の死亡が記録されている。
+他に少なくとも2人が重傷、11人が軽傷を負った。
+BNPBは、これまでに基地運営に1万500個の荷物が到着し、支援物資が被災地に送られていると述べた。
+遠隔地で山岳地帯にあるこの地域の破壊の全容を把握するには時間がかかるだろう。
+しかし、初期の報告によると、150戸以上の家屋のほか、数十の教育機関、多数の医療施設、礼拝所、オフィス、その他いくつかの公共施設が大きな被害を受けた。
+フローレス島最大の町、マウメレの港で撮影されたビデオには、ターミナルビルから島間フェリーの乗船を待つ乗客の上にコンクリートの大きな塊が飛び散る様子が映っていた。船への通路が崩壊し、海に投げ出された人もいた。
+東ヌサトゥンガラ州知事エマヌエル・メルキアデス・ラカ・レナ氏は記者会見で、彼らは崩れた瓦礫によって睡眠中に死亡したと語った。
+東ヌサトゥンガラ州シッカの海岸線近くの村タリブラに住むアーノルド・ウェリアントさんのように、ベッドから振り落とされた人もいる。
+「私はびっくりして目が覚めてすぐに子供部屋に行きました。」彼は言い​​ました。
+同氏はまた、海も後退したため、多くの人々がすでに丘に避難しているとBBCに語った。
+当初、津波警報が発令され、約2,000人が自主避難を余儀なくされたが、最初の揺れから約3時間後に大きな海面上昇が検出されず、警報は解除された。
+しかし、地滑りにより一部の村へのアクセスが遮断されたが、経験豊富な救助チームは瓦礫の下敷きになった人々を救出するために一日中精力的に活動した。
+ルテンでは、地震犠牲者を治療するために病院の外に臨時の医療テントも建てられた。
+BNPB からの継続的なアドバイスは、人々が落ち着いて行動し、被害の兆候のある海岸地域や建造物に近づかないようにすることです。
+インドネシアは 3 つの主要なプレートの合流点に沿って位置しており、地震と火山活動が起こりやすい国です。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T21:49:12+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
+    readTime: 3,
+  },
+  {
+    id: "morocco-detains-dozens-of-migrants-tryin-4b8c4b3a",
+    title: "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    titleJa: "モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると",
+    summaryJa: "モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると- 公開されました",
+    bodyOriginal: `Morocco detains dozens of migrants trying to cross into Ceuta, reports say
+- Published
+Moroccan authorities have intercepted dozens of migrants seeking to cross into the Spanish North African exclave of Ceuta, reports say.
+More than 100 people were blocked trying to make their way to the border on the outskirts of the town of Fnideq, according to Moroccan security sources cited by Spanish media and the Reuters news agency.
+It comes a fortnight after roughly 78,000 migrants arrived in the exclave by sea in a matter of hours - 100 of whom died, according to the city's mayor, who also said the vast majority of arrivals had returned to Morocco.
+Security had been stepped up in the area after the influx and amid suggestions on social media of a second mass crossing attempt this weekend.
+The security sources said 111 people had been detained in or around Fnideq - known in Spanish as Castillejos - about 3km (1.8 miles) from the border, the majority of whom were from sub-Saharan Africa.
+Moroccan police - including some in riot gear - reportedly used tear gas to disperse groups of migrants gathered on nearby hills.
+Earlier this week, Morocco's government said it was monitoring "the circulation of social media posts and messages of unknown origin" calling for a mass crossing on Saturday, and warned that it would prosecute organisers and participants.
+Security at the breakwater entrance was "10 times stronger than the previous day", Spanish newspaper El País reported.
+Morocco had dispatched army officers, navy speedboats and drones to the border on Saturday, it said.
+Madrid meanwhile deployed more than 1,500 security officers to patrol the area.
+Spain has also installed a metal fence and a floating barrier following last month's influx.
+The crisis had calmed since breaking out in late July, but it has sparked tensions between EU nations which share open borders as well as criticism of the Spanish government.
+Italy suspended the 29-member Schengen arrangement of free movement with Spain and introduced border checks on arrivals from Spain.
+Italy was backed by Finland and Denmark, while the Czech Republic called for Spain's membership to be temporarily suspended.
+Spain reacted angrily, with Prime Minister Pedro Sánchez noting Ceuta was not part of the Schengen area - and the migrants, therefore, had not arrived on the Spanish mainland and could travel to any other European country.
+It urged Italy to drop its border controls - and introduced its own when Rome refused, citing the possibility of a new influx on 15 August.
+On Saturday, Italy's Foreign Minister Antonio Tajani said his country had been afraid of a "risk of a new wave of arrivals in Ceuta".
+"We're not waging any kind of 'battle' against Spain; we're simply carefully controlling arrivals," he said.
+"Instead of worrying about us, Spain should worry about Morocco: that's where the problems are coming from, certainly not from our controls."`,
+    bodyJa: `モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると
+- 公開されました
+報道によると、モロッコ当局はスペイン領北アフリカの飛び地セウタへの入国を目指す数十人の移民を阻止した。
+スペインメディアとロイター通信が引用したモロッコ治安筋の情報によると、フニデク町郊外で国境に行こうとして100人以上が阻止されたという。
+約7万8000人の移民が海路で数時間以内に飛び地に到着してから2週間が経ったが、市長によればそのうち100人が死亡し、到着者の大多数はモロッコに戻ったと述べた。
+流入後、ソーシャルメディア上で今週末に2度目の集団横断が試みられる可能性が示唆される中、同地域では警備が強化されていた。
+治安関係者によると、国境から約３キロ離れたフニデク（スペイン語でカスティジェホス）またはその周辺で１１１人が拘束されており、その大半がサハラ以南のアフリカ出身者だった。
+モロッコ警察（一部は暴動鎮圧服を着ている人もいた）は、近くの丘に集まった移民グループを解散させるために催涙ガスを使用したと伝えられている。
+今週初め、モロッコ政府は土曜日の集団横断を求める「ソーシャルメディアの投稿や出所不明のメッセージの流通」を監視していると発表し、主催者と参加者を訴追すると警告した。
+スペイン紙エル・パイスは、防波堤入り口の警備は「前日より10倍強化された」と報じた。
+モロッコは土曜日、国境に陸軍将校、海軍のスピードボート、ドローンを派遣したと発表した。
+一方、マドリードは1,500人以上の治安職員を派遣して地域を巡回させた。
+スペインも先月の流入を受けて金属フェンスと浮遊柵を設置した。
+危機は7月下旬に発生して以来沈静化したが、開かれた国境を共有するEU諸国間の緊張やスペイン政府への批判を引き起こした。
+イタリアはスペインとの自由移動に関する29加盟国シェンゲン協定を一時停止し、スペインからの入国者に国境検査を導入した。
+イタリアはフィンランドとデンマークの支持を得たが、チェコ共和国はスペインの加盟を一時的に停止するよう求めた。
+スペインはこれに激怒し、ペドロ・サンチェス首相は、セウタはシェンゲン圏内には含まれておらず、したがって移民たちはスペイン本土に到着しておらず、他のヨーロッパ諸国に渡航できると指摘した。
+イタリアに対し、国境管理を撤廃するよう求めたが、ローマが8月15日に新たな流入の可能性を理由に拒否すると、独自の国境管理を導入した。
+土曜日、イタリアのアントニオ・タジャーニ外相は、同国は「セウタに新たな到着者の波が訪れるリスク」を懸念していると述べた。
+同氏は「われわれはスペインに対していかなる『戦い』も行っていない。ただ入国者を注意深く管理しているだけだ」と述べた。
+「スペインは我々のことを心配するのではなく、モロッコのことを心配すべきだ。問題はモロッコから来ているのであって、我々のコントロールからでは決してない。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T20:58:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
+    readTime: 3,
+  },
+  {
+    id: "liechtenstein-changes-succession-rule-to-72fe293d",
+    title: "Liechtenstein changes succession rule to allow women to ascend the throne",
+    titleJa: "リヒテンシュタイン、女性の王位継承を認めるために継承規則を変更",
+    summaryJa: "リヒテンシュタイン、女性の王位継承を認めるために継承規則を変更- 公開されました",
+    bodyOriginal: `Liechtenstein changes succession rule to allow women to ascend the throne
+- Published
+Liechtenstein has announced that it has changed royal succession rules to allow women to ascend the throne.
+The declaration was made on the national day of the central European country, which has a population of just 44,000.
+Liechtenstein's current ruler, Prince Hans-Adam II, has been the head of their royal family since 1989. The rule change will not affect his heir, Hereditary Prince Alois, who was his first-born.
+Alois has carried out most official royal duties for the last two decades.
+"The order of succession is being changed from male primogeniture to absolute primogeniture," the House of Liechtenstein said in a statement.
+"This means that in future the first-born child, regardless of sex, will become heir to the throne and later princess or prince of Liechtenstein."
+The change will not affect Liechtenstein's succession line for now - it will only apply to descendants of the four children of Hereditary Prince Alois and his wife, Hereditary Princess Sophie.
+In a statement, Alois said: "With this change in the law, we want to ensure that both the Principality of Liechtenstein and the Princely House are led by the person who has been best prepared for this responsibility."
+Liechtenstein is a tiny, doubly-landlocked country tucked away between Switzerland and Austria, whose ruler enjoys sweeping political powers, unlike many of his counterparts in Europe.
+In 2011, Britain changed its succession laws to allow first-born daughters of a monarch to inherit the throne.
+Related topics
+- Published12 July 2023
+- Published28 October 2011`,
+    bodyJa: `リヒテンシュタイン、女性の王位継承を認めるために継承規則を変更
+- 公開されました
+リヒテンシュタインは、女性の王位継承を認めるために王位継承規則を変更したと発表した。
+この宣言は、人口わずか4万4000人の中央ヨーロッパの国、建国記念日に行われた。
+リヒテンシュタインの現統治者であるハンス＝アダム2世王子は、1989年以来リヒテンシュタイン王室の長を務めている。この規則の変更は、彼の後継者である彼の長男である世襲王子アロイスには影響を及ぼさない。
+アロイスは過去20年間、王室の公務のほとんどを遂行してきた。
+リヒテンシュタイン下院は声明で、「相続の順序は男系長子相続から絶対長子相続に変更される」と述べた。
+「これは、将来、性別に関係なく、第一子が王位継承者となり、後にはリヒテンシュタインの王女か王子になることを意味する。」
+この変更は今のところリヒテンシュタインの王位継承には影響せず、世襲王子アロイスとその妻である世襲王女ソフィーの4人の子供の子孫にのみ適用される。
+アロイス氏は声明で、「今回の法改正により、リヒテンシュタイン公国と皇太子院の両方が、この責任に対して最もよく準備された人物によって指導されることを確保したいと考えている」と述べた。
+リヒテンシュタインはスイスとオーストリアの間に挟まれた小さな二重内陸国で、その統治者はヨーロッパの多くの同国とは異なり、圧倒的な政治権力を享受している。
+英国は２０１１年に王位継承法を改正し、君主の長女が王位を継承できるようにした。
+関連トピック
+- 2023 年 7 月 12 日公開
+- 2011 年 10 月 28 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T19:41:57+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
+    readTime: 2,
+  },
+  {
+    id: "think-interest-rates-are-high-now-these-1aa630cf",
+    title: "Think interest rates are high now? These charts offer a different perspective.",
+    titleJa: "今は金利が高いと思いますか？これらのグラフは別の視点を提供します。",
+    summaryJa: "また、「Weekend Reads: 10 の注目すべき住宅市場、銘柄選択、健康保険の戦い」にも掲載されています。",
+    bodyOriginal: `Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.`,
+    bodyJa: `また、「Weekend Reads: 10 の注目すべき住宅市場、銘柄選択、健康保険の戦い」にも掲載されています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+    publishedAt: "2026-08-15T19:01:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-48405375",
+    readTime: 2,
+  },
+  {
     id: "an-active-fund-holding-a-whopping-800-st-74aba118",
     title: "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
     titleJa: "なんと800銘柄を保有するアクティブファンドが主要指数を上回っている。その方法は次のとおりです。",
@@ -1695,194 +1947,6 @@ AFPは通常、海外から輸入する医薬品は米国で販売されてい�
     category: "貿易",
     imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     readTime: 3,
-  },
-  {
-    id: "electric-vehicle-sales-targets-could-be-7af1f860",
-    title: "Electric vehicle sales targets could be cut after pressure from car makers",
-    titleJa: "自動車メーカーからの圧力を受け、電気自動車の販売目標が引き下げられる可能性がある",
-    summaryJa: "自動車メーカーからの圧力を受け、電気自動車の販売目標が引き下げられる可能性がある- 公開されました",
-    bodyOriginal: `Electric vehicle sales targets could be cut after pressure from car makers
-- Published
-The UK's electric vehicle (EV) sales target could be cut after the government launched a review following pressure from car makers.
-Currently, manufacturers must ensure a percentage of the cars they sell each year are zero emissions, with the target rising each year to reach 80% by 2030.
-The government has now said it is considering cutting that figure to as far as 50% of all sales by the end of the decade, which it will consult on until late October.
-Environmental groups have argued that watering down the target undermines the UK's long-term climate goals.
-Under the current policy, known as the ZEV mandate, the percentage of new car sales that need to be EVs increases each year, from 33% for 2026 until it reaches 80% by 2030. It started at 22% in 2024.
-An outright ban on selling purely petrol or diesel cars past 2030 will stay in place, something that Labour promised in its election manifesto.
-However the changes now being consulted on could allow car makers to sell more hybrid vehicles as a proportion of the UK's overall sales.
-That means if the government drops pure electric sales targets to 50%, the other 50% would need to be hybrid.
-Another option would be keeping the target at 80% but with flexibility for car makers extending as far as 2034.
-A longer term deadline for phasing out new hybrid sales would also remain in place for 2035.
-The policy on EV sales has already changed a lot over the years.
-A ban on selling new petrol and diesel vehicles by 2030 was first announced by Boris Johnson when he was prime minister, then pushed back to 2035 by his successor Rishi Sunak.
-Sunak also introduced more gradual targets for EV sales under the ZEV mandate.
-Labour has previously accused previous Conservative governments of "moving goalposts on phase out dates".
-It comes after motor industry figures urged ministers to ease the targets, arguing that demand for electric vehicles isn't yet high enough, and meeting them is costing manufacturers too much money.
-That is despite electric cars making up a quarter of total sales in the UK over the first seven months of the year, according to the Society of Motor Manufacturers and Traders (SMMT).
-The Climate Change Committee, which advises the government, has said switching from diesel and petrol engines to EVs will be the most effective way of cutting carbon emissions over the next decade.
-Transport Secretary, Heidi Alexander said on Friday: "It's right we keep targets under review to ensure they're practical and back British industry.
-"The end goal hasn't changed – but we need to take business with us on the journey, and that's exactly what we're doing today, by making sure industry has the chance to shape how we get there."
-Lisa Brankin, managing director of Ford of Britain, welcomed the government's "willingness to listen" to car makers, adding: "It is vital to give the industry and customers the certainty that we need."
-Mike Hawes, boss of the SMMT, the primary car industry lobby group, added that the ZEV mandate was "conceived under vastly different conditions".
-He called the review "a timely opportunity to adjust the transition so it works for all".
-Electric car advocates and climate groups criticised the move.
-Tanya Sinclair, the boss of industry group Electric Vehicles UK, criticised the government for "asking whether we should extend the availability of polluting vehicles amid our hottest summer on record."
-The Energy & Climate Intelligence Unit, a thinktank, calculated that cutting the EV sales target to 50% would mean 2.6 million fewer electric cars on the roads by 2035.
-Gurjeet Grewal, chief of Octopus Electric Vehicles, added that weakening the mandate "would send exactly the wrong signal, just as EVs are becoming some of the best-value cars on the road".
-The rapid rise in petrol prices caused by the Iran war has also caused interest in electric cars to spike around the world as a consumer spending measure.
-The Green Alliance said watering down targets would "lock in avoidable emissions while undermining the certainty manufacturers need to invest".
-Related topics
-- Published15 December 2025
-- Published16 December 2025`,
-    bodyJa: `自動車メーカーからの圧力を受け、電気自動車の販売目標が引き下げられる可能性がある
-- 公開されました
-英国の電気自動車（EV）販売目標は、自動車メーカーからの圧力を受けて政府が見直しに着手したことを受け、引き下げられる可能性がある。
-現在、メーカーは毎年販売する自動車の一定割合をゼロエミッション車にする必要があり、目標は年々上昇し、2030年までに80％に達する。
-政府は現在、この数字を20年末までに全売上高の50％まで削減することを検討していると発表しており、10月末まで協議する予定だ。
-環境保護団体は、目標を骨抜きにすることは英国の長期的な気候変動目標を損なうことになると主張している。
-ZEV義務化として知られる現在の政策では、新車販売に占めるEVの割合は年々増加し、2026年の33％から2030年には80％に達する。2024年には22％となった。
-労働党が選挙マニフェストで約束した、純粋なガソリン車またはディーゼル車の販売を2030年以降も完全に禁止することは継続される。
-しかし、現在協議されている変更により、自動車メーカーは英国全体の売上高に占めるハイブリッド車の販売台数を増やすことが可能になる可能性がある。
-つまり、政府が純電気販売目標を50％に引き下げた場合、残りの50％はハイブリッド車にする必要があるということだ。
-もう1つの選択肢は、目標を80％に維持しつつ、自動車メーカーが2034年まで柔軟に対応できるようにすることだ。
-新規ハイブリッド販売の段階的廃止に関する長期期限も2035年まで維持される。
-EV販売に関する方針は、ここ数年ですでに大きく変化している。
-2030年までに新しいガソリン車とディーゼル車の販売を禁止することは、ボリス・ジョンソン首相が首相だったときに初めて発表したが、その後、後継者のリシ・スナック氏によって2035年に延期された。
-スナク氏はまた、ZEV義務に基づくEV販売のより段階的な目標も導入した。
-労働党は以前、これまでの保守党政権が「段階的廃止の日にゴールポストを動かしている」と非難していた。
-これは、電気自動車の需要がまだ十分に高くなく、目標を達成するにはメーカーに多大な費用がかかりすぎるとして、自動車業界の関係者が各大臣に目標を緩和するよう要請したことを受けてのことだ。
-自動車製造貿易協会（SMMT）によると、今年最初の7カ月間で英国の総販売台数の4分の1を電気自動車が占めていたにもかかわらずだ。
-政府に助言する気候変動委員会は、ディーゼルエンジンやガソリンエンジンからEVへの切り替えが、今後10年間で二酸化炭素排出量を削減する最も効果的な方法になると述べた。
-ハイジ・アレクサンダー運輸長官は金曜日、「目標が現実的で英国産業を支援するものであることを確認するために、目標を検討し続けるのは正しいことだ」と述べた。
-「最終目標は変わっていません。しかし、私たちはその旅にビジネスを持ち込む必要があり、それがまさに私たちが今日行っていることであり、業界が私たちがそこに到達する方法を形作る機会を確実に得ることができるようにすることです。」
-英国フォードのマネージングディレクター、リサ・ブランキン氏は、自動車メーカーの「耳を傾ける」政府の姿勢を歓迎し、「業界と顧客に我々が必要とする確実性を与えることが極めて重要だ」と付け加えた。
-自動車業界の主要ロビー団体であるSMMTのボス、マイク・ホーズ氏は、ZEV義務化は「全く異なる条件の下で考案された」と付け加えた。
-同氏は今回の見直しを「すべての人にとってうまくいくように移行を調整するタイムリーな機会」だと述べた。
-電気自動車支持者や気候変動団体はこの動きを批判した。
-業界団体「英国電気自動車」のトップ、ターニャ・シンクレア氏は「記録的な猛暑の夏に、汚染車両の利用可能期間を延長すべきかどうかを問うている」として政府を批判した。
-シンクタンクのエネルギー・気候インテリジェンス・ユニットは、EV販売目標を50％に引き下げると、2035年までに道路を走る電気自動車が260万台減ると試算した。
-オクトパス・エレクトリック・ビークルズの責任者、ガージート・グルワル氏は、義務を弱めることは「EVが道路上で最も価値のある車の一部になりつつあるのと同じように、まさに誤った信号を送ることになるだろう」と付け加えた。
-イラン戦争によるガソリン価格の高騰も、個人消費対策として世界中で電気自動車への関心を高めている。
-グリーン・アライアンスは、目標の骨抜きは「製造業者が投資する必要がある確実性を損なう一方で、回避可能な排出量を閉じ込める」ことになると述べた。
-関連トピック
-- 2025 年 12 月 15 日公開
-- 2025 年 12 月 16 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-14T15:58:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg",
-    readTime: 5,
-  },
-  {
-    id: "trump-asks-supreme-court-to-let-white-ho-ad11d12c",
-    title: "Trump asks Supreme Court to let White House ballroom construction continue",
-    titleJa: "トランプ大統領、最高裁判所にホワイトハウスの宴会場の建設継続を許可するよう要請",
-    summaryJa: "連邦控訴裁判所が4億ドルの建設プロジェクトの中止を命じてから1週間後、金曜日、ドナルド・トランプ大統領は最高裁判所に対し、ホワイトハウスのボールルームの建設継続を許可するよう要請した。トランプ政権は、大統領が昨年議会に通知せずに取り壊したホワイトハウス東棟跡地でのさらなる建設に対する下級裁判所の仮差し止め命令を最高裁判所が直ちに差し止めることを望んでいる。",
-    bodyOriginal: `President Donald Trump on Friday asked the Supreme Court to allow construction of his White House ballroom to continue, one week after a federal appeals court ordered that the $400 million building project must come to a stop.
-The Trump administration wants the Supreme Court to immediately block the lower court's preliminary injunction on further construction at the former site of the White House's East Wing, which the president had ripped down last year without notifying Congress.
-The Aug. 7 ruling from the U.S. Court of Appeals for the District of Columbia Circuit upheld an injunction issued by a federal district judge. The injunction is currently set to take effect next Friday, Aug. 21.
-Trump has increasingly argued that building the ballroom is a matter of national security and military readiness because it will include what he describes as a "drone port" on its roof.
-In Friday's Supreme Court application, U.S. Solicitor General D. John Sauer highlighted the building's function as a military asset.
-"This case involves an extraordinary and unlawful injunction that will halt the ongoing construction of the integrated military complex, including a totally secure ballroom space, at the East Wing of the White House, which is vitally required by national security," Sauer wrote.
-If the appellate court's block is allowed to take effect, it "would wrongfully install a single district judge as sole arbiter of what further construction is 'strictly necessary' to protect the safety of the President, his family, staff members, and visitors to the White House, including foreign dignitaries, and presidents and prime ministers of other countries," Sauer wrote.`,
-    bodyJa: `連邦控訴裁判所が4億ドルの建設プロジェクトの中止を命じてから1週間後、金曜日、ドナルド・トランプ大統領は最高裁判所に対し、ホワイトハウスのボールルームの建設継続を許可するよう要請した。
-トランプ政権は、大統領が昨年議会に通知せずに取り壊したホワイトハウス東棟跡地でのさらなる建設に対する下級裁判所の仮差し止め命令を最高裁判所が直ちに差し止めることを望んでいる。
-米国コロンビア特別区巡回区控訴裁判所の8月7日の判決は、連邦地方判事による差し止め命令を支持した。この差し止め命令は現在、来週金曜日、8月21日に発効する予定となっている。
-トランプ大統領は、ボールルームの屋上には同氏が「ドローンポート」と呼ぶものが設置されるため、ボールルームの建設は国家安全保障と軍事準備の問題だと主張することが増えている。
-金曜日の最高裁判所への申請の中で、米国法務長官D.ジョン・ザウアーは、この建物の軍事資産としての機能を強調した。
-「この訴訟には、国家安全保障上極めて必要な、完全に安全な宴会場スペースを含むホワイトハウス東棟で進行中の統合軍事複合施設の建設を中止する異例かつ違法な差し止め命令が含まれている」とザウアー氏は書いた。
-もし控訴裁判所の差し止めの発効が認められれば、「大統領とその家族、職員、外国の高官や他国の大統領や首相を含むホワイトハウス訪問者の安全を守るために、さらなる工事が『絶対に必要』であるかどうかについて、単一の地方判事が不当に単独の仲裁者として任命されることになる」とザウアー氏は書いた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
-    publishedAt: "2026-08-14T15:11:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "10-year-treasury-yield-is-little-changed-70e8b13c",
-    title: "10-year Treasury yield is little changed after weak retail sales data",
-    titleJa: "小売売上高統計が低迷しても10年米国債利回りはほとんど変化なし",
-    summaryJa: "最新の小売売上高が予想を下回り、米国がイラン港湾の海上封鎖が「無期限に」続く可能性があると述べたことを受けて、金曜日の米10年国債利回りはほとんど変化しなかった。米政府借入の主要指標である１０年債利回りは１ベーシスポイント未満上昇し４．６４５％となった。",
-    bodyOriginal: `The 10-year U.S. Treasury note yield was little changed on Friday after the latest retail sales figures missed expectations and the U.S. said its naval blockade of Iranian ports could continue "indefinitely."
-The 10-year yield — the key benchmark for U.S. government borrowing — rose less than 1 basis point to 4.645%.
-The 2-year Treasury note yield, which more closely tracks short-term Federal Reserve interest rate policy, fell more than 2 basis points to 4.117%. The longer-dated 30-year Treasury bond yield advanced more than 2 basis points to 5.232%.
-One basis point is equal to 0.01%, and yields and prices move in opposite directions.
-Retail sales surprisingly fell in July, dropping 0.6%. Economists polled by Dow Jones had called for a 0.1% rise.
-Yields were higher earlier Friday after U.S. Treasury Secretary Scott Bessent's comments in an interview with Newsmax, in which he warned of fresh measures aimed at the "economic isolation" of Iran which "have never been seen."
-Bessent's comments came after U.S. Defense Secretary Pete Hegseth told reporters U.S. forces could maintain an indefinite blockade of Iranian ports.
-The producer price index, which measures what wholesalers pay for raw goods and materials, was flat month over month in July. Economists polled by Dow Jones expected an increase of 0.2%.
-Thursday's print follows a tame reading on consumer inflation, with the consumer price index coming in line with economist expectations.
-"US inflation data this week has been contained and very welcome for Treasuries," ING strategists wrote in a note Friday. "It absolutely eases higher rates pressure. But that pressure is far from gone. Real yields are higher and will likely remain so."
-— CNBC's Hugh Leask also contributed to this report.`,
-    bodyJa: `最新の小売売上高が予想を下回り、米国がイラン港湾の海上封鎖が「無期限に」続く可能性があると述べたことを受けて、金曜日の米10年国債利回りはほとんど変化しなかった。
-米政府借入の主要指標である１０年債利回りは１ベーシスポイント未満上昇し４．６４５％となった。
-米連邦準備理事会（ＦＲＢ）の短期金利政策とより密接に連動する２年物国債利回りは２ベーシスポイント以上低下し４．１１７％となった。 30年長期国債利回りは2ベーシスポイント以上上昇し5.232％となった。
-1ベーシスポイントは0.01%に相当し、利回りと価格は逆方向に動きます。
-７月の小売売上高は驚くべきことに０．６％減と減少した。ダウ・ジョーンズがまとめたエコノミストらは０．１％の上昇を求めていた。
-ニュースマックスとのインタビューでスコット・ベッセント米財務長官が「これまでに見たことのない」イランの「経済的孤立」を狙った新たな措置を警告したとのコメントを受けて、金曜日初めの利回りは上昇した。
-ベッセント氏のコメントは、ピート・ヘグセス米国防長官が記者団に対し、米軍はイラン港湾の無期限封鎖を維持する可能性があると語った後に出た。
-卸売業者が原材料や原材料に対して支払う金額を示す生産者物価指数は、7月は前月比横ばいとなった。ダウ・ジョーンズがまとめたエコノミスト予想は０．２％上昇だった。
-木曜日の印刷物は、消費者物価指数がエコノミストの予想と一致するという、消費者インフレに関するおとなしい見方を反映している。
-ＩＮＧのストラテジストらは金曜日のメモで「今週の米インフレ統計は抑制されており、米国債にとっては非常に歓迎している」と述べた。 「これで金利上昇圧力は完全に緩和される。しかし、その圧力は決してなくなったわけではない。実質利回りはさらに上昇しており、今後もおそらく維持されるだろう。」
-— CNBCのヒュー・リースク氏もこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
-    publishedAt: "2026-08-14T12:47:54+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "retail-sales-slump-cheaper-gas-and-amazo-13bd3b5d",
-    title: "Retail sales slump. Cheaper gas and Amazon Prime hangover are the chief culprits.",
-    titleJa: "小売売上高不振。安いガソリンとアマゾンプライムの二日酔いが主な原因だ。",
-    summaryJa: "7月の米国の小売店売上高は14カ月ぶりの大幅な減少を記録したが、それは経済の停滞が原因ではなかった。アメリカ人は燃料が安くなったことでガソリンスタンドでの支出が減り、アマゾンの夏のセールが大成功した後はオンラインでの買い物も減った。",
-    bodyOriginal: `Sales at U.S. retailers posted the largest decline in July in 14 months, but not because the economy sputtered. Americans spent less at gas stations due to cheaper fuel and bought less online after Amazon’s summer sales bonanza.`,
-    bodyJa: `7月の米国の小売店売上高は14カ月ぶりの大幅な減少を記録したが、それは経済の停滞が原因ではなかった。アメリカ人は燃料が安くなったことでガソリンスタンドでの支出が減り、アマゾンの夏のセールが大成功した後はオンラインでの買い物も減った。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/retail-sales-slump-in-july-cheaper-gas-and-amazon-prime-hangover-are-the-chief-culprits-b9db8535?mod=mw_rss_topstories",
-    publishedAt: "2026-08-14T12:43:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-77673171",
-    readTime: 2,
-  },
-  {
-    id: "absolutely-unacceptable-japan-pm-takaic-6bec3b7e",
-    title: "‘Absolutely unacceptable’: Japan PM Takaichi condemns Putin’s visit to disputed Kuril Islands",
-    titleJa: "「絶対に受け入れられない」：高市首相、係争中のクリル諸島へのプーチン大統領の訪問を非難",
-    summaryJa: "日本の高市早苗首相は、係争中のクリル諸島へのロシアのウラジーミル・プーチン大統領の初訪問を批判し、それらは「本来的に日本の領土」であると述べた。高市氏は木曜、Ｘへの投稿で、日本政府が「大統領が北方領土を訪問しないようロシア側に繰り返し要請した」と述べた。北方領土とは千島列島のことを指します。",
-    bodyOriginal: `Japan Prime Minister Sanae Takaichi has criticized Russian President Vladimir Putin's first-ever visit to the disputed Kuril Islands, saying they were "inherently Japanese territory."
-In a post on X, Takaichi said Thursday that Tokyo had "repeatedly requested the Russian side to ensure that the president does not visit the Northern Territories." The Northern Territories refers to the Kuril Islands.
-She added that Putin's visit was "absolutely unacceptable."
-The Kuril Islands sit between the southern tip of Russia's Kamchatka Peninsula and the northeastern corner of Japan's Hokkaido. The sparsely populated and volcanic archipelago separates the Sea of Okhotsk from the Pacific Ocean. The four southernmost islands of the chain were annexed by the Soviet Union when it launched an invasion of Japanese territory toward the end of World War II.
-During his trip, Putin visited the island of Iturup, where Russia operates a strategically important military base. Russia's president toured a fish processing complex, a hospital and a school, before holding a meeting with Valery Limarenko, the regional governor of Sakhalin.
-The visit was also criticized by Japanese Foreign Minister Toshimitsu Motegi, who posted on Facebook that "Japan strongly protests this visit."
-Japan renounced "all right, title and claim to the Kuril Islands" in the 1951 Treaty of San Francisco but did not recognize Soviet sovereignty over the territory.
-The dispute over the islands has prevented Tokyo and Moscow from signing a peace treaty since the end of the war, although a 1956 joint declaration ended the state of war between the two nations.
-Japan's defense white paper
-Analysts at the Institute for the Study of War, a Washington-based think tank, said that Putin's visit was likely part of the Kremlin's response to Japan's latest defense white paper and aims to undermine Takaichi's efforts to improve Japan's defense capabilities.
-Japan published its defense white paper earlier in the month, prompting outcry from Putin, as well as Russia's ally, North Korea. Russia's president criticized the white paper for identifying Moscow as one of Tokyo's critical threats.
-"Russia is continuing active military activities in the Northern Territories, which are inherent territories of Japan, under illegal occupation," the white paper said.`,
-    bodyJa: `日本の高市早苗首相は、係争中のクリル諸島へのロシアのウラジーミル・プーチン大統領の初訪問を批判し、それらは「本来的に日本の領土」であると述べた。
-高市氏は木曜、Ｘへの投稿で、日本政府が「大統領が北方領土を訪問しないようロシア側に繰り返し要請した」と述べた。北方領土とは千島列島のことを指します。
-さらに、プーチン大統領の訪問は「絶対に受け入れられない」と述べた。
-千島列島は、ロシアのカムチャツカ半島の南端と日本の北海道の北東の角の間に位置します。人口がまばらで火山列島がオホーツク海と太平洋を隔てています。この列島の最南端の 4 つの島は、第二次世界大戦末期にソ連が日本の領土への侵攻を開始した際に併合されました。
-プーチン大統領は旅行中、ロシアが戦略的に重要な軍事基地を運営しているイトゥルプ島を訪問した。ロシア大統領は、サハリン州知事のワレリー・リマレンコ氏と会談する前に、水産加工施設、病院、学校を視察した。
-この訪問については茂木敏充外相もフェイスブックに「日本は今回の訪問に強く抗議する」と投稿し批判した。
-日本は1951年のサンフランシスコ条約で「千島列島に対する権利、権原、請求権」を放棄したが、同領土に対するソ連の主権は認めなかった。
-1956年の共同宣言で両国間の戦争状態は終結したが、この島を巡る紛争により、東京とモスクワは戦後平和条約に署名することができなかった。
-日本の防衛白書
-ワシントンに本拠を置くシンクタンク、戦争研究研究所のアナリストらは、プーチン大統領の訪問は、日本の最新の国防白書に対するクレムリンの対応の一環である可能性が高く、日本の防衛力向上に向けた高市氏の努力を損なうことを目的としていると述べた。
-日本は今月初めに防衛白書を発表し、プーチン大統領やロシアの同盟国である北朝鮮の反発を招いた。ロシア大統領は、白書がモスクワを東京の重大な脅威の一つと特定していると批判した。
-白書は「ロシアは日本の固有の領土である北方領土で不法占領下、活発な軍事活動を続けている」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html",
-    publishedAt: "2026-08-14T12:28:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
   },
 ];
 
