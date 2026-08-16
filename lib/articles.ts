@@ -157,6 +157,48 @@ BNPB からの継続的なアドバイスは、人々が落ち着いて行動し
     readTime: 3,
   },
   {
+    id: "qatar-denies-capturing-three-iranian-pil-c4ec5792",
+    title: "Qatar denies capturing three Iranian pilots after downing fighter jets",
+    titleJa: "カタール、戦闘機撃墜後のイラン人パイロット３人の拘束を否定",
+    summaryJa: "カタール、戦闘機撃墜後のイラン人パイロット３人の拘束を否定- 公開されました",
+    bodyOriginal: `Qatar denies capturing three Iranian pilots after downing fighter jets
+- Published
+Iran has called for the release of three pilots it said were captured by Qatar after two of its fighter jets were hit by air defences during a military operation at the start of the US-Iran war.
+In a letter to the head of the International Committee of the Red Cross (ICRC), Iran's Brig Gen Mohammad Bagherzadeh said the pilots - Javad Salehi, Abdul Majid Dashtian and Imran Behroshian - had been held captive for six months.
+He said the body of a fourth pilot, Majid Kazemi, had been returned after he was killed in the same operation on 2 March 2026 - the third day of the war.
+Qatar "categorically denied" Iran's claims and said it was "surprised by these misleading statements".
+Gen Bagherzadeh said the three pilots had been captured by Qatar after they ejected from their jets during a combat mission targeting a Qatari military base.
+In the letter to ICRC chief Mirjana Spoljaric, published by Iranian media, he accused Qatar of violating "the inalienable rights of these prisoners, contrary to all international laws and regulations".
+The letter also claimed the three pilots had not been allowed to meet or contact their families.
+Qatar's foreign affairs spokesperson Majed Mohammed Al Ansari said contact had been made with the pilots "after they violated Qatari airspace", but that it had not received a response.
+"The necessary measures were taken to defend our territory in accordance with international law," he added in a statement on X.
+Al Ansari said Qatar's search and rescue teams "carried out their duties to the fullest extent in searching for the pilots' remains".
+He said Qatar contacted Iran to "co-ordinate the handover of the remains of one of the pilots that were recovered" and that Tehran had yet to respond to an invitation to review details of the search and rescue operation.
+Related topics
+- Published4 days ago`,
+    bodyJa: `カタール、戦闘機撃墜後のイラン人パイロット３人の拘束を否定
+- 公開されました
+イランは、米イラン戦争開始時の軍事作戦中にカタールの戦闘機２機が防空攻撃を受けた後、カタールに捕らえられたとしてパイロット３人の釈放を求めた。
+イランのモハマド・バゲルザデ准将は、赤十字国際委員会（ICRC）委員長に宛てた書簡の中で、パイロットのジャバド・サレヒ氏、アブドゥル・マジッド・ダシュティアン氏、イムラン・ベーロシアン氏が6か月間拘束されていたと述べた。
+同氏は、4人目のパイロット、マジッド・カゼミの遺体が、戦争開始3日目の2026年3月2日に同じ作戦で死亡した後、返還されたと述べた。
+カタールはイランの主張を「断固否定」し、「誤解を招く発言に驚いている」と述べた。
+バゲルザデ将軍は、パイロット３名がカタールの軍事基地を標的とした戦闘任務中にジェット機から脱出した後、カタールに捕らえられたと述べた。
+イランのメディアが発表したICRC長官ミルジャナ・スポルジャリッチへの書簡の中で、同氏はカタールが「すべての国際法と規制に反して、これら捕虜の譲ることのできない権利」を侵害していると非難した。
+書簡はまた、パイロット３人が家族との面会や連絡を許されていなかったと主張した。
+カタール外交報道官マジェド・モハメド・アル・アンサリ氏は、パイロットらが「カタールの領空を侵犯した後」接触があったが、返答はなかったと述べた。
+同氏はXに関する声明で「国際法に従って我が国の領土を守るために必要な措置が取られた」と付け加えた。
+アル・アンサリ氏は、カタールの捜索救助チームは「パイロットの遺体捜索で最大限の任務を遂行した」と述べた。
+同氏は、カタールが「回収されたパイロットのうち１人の遺体の引き渡しを調整する」ためにイランに連絡しており、イランは捜索救助活動の詳細を検討するよう要請にまだ応じていないと述べた。
+関連トピック
+- 4 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T21:03:57+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 2,
+  },
+  {
     id: "morocco-detains-dozens-of-migrants-tryin-4b8c4b3a",
     title: "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
     titleJa: "モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると",
@@ -250,6 +292,48 @@ Related topics
     publishedAt: "2026-08-15T19:41:57+00:00",
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
+    readTime: 2,
+  },
+  {
+    id: "multiple-suspects-at-large-after-five-sh-059adcf1",
+    title: "Multiple suspects at large after five shot at Virginia State University, police say",
+    titleJa: "バージニア州立大学で5人が銃撃され、複数の容疑者が逃走中と警察が発表",
+    summaryJa: "バージニア州立大学で5人が銃撃され、複数の容疑者が逃走中と警察が発表- 公開されました",
+    bodyOriginal: `Multiple suspects at large after five shot at Virginia State University, police say
+- Published
+Five people have been injured, one critically, in a shooting at Virginia State University (VSU) involving multiple suspects.
+Officers responded to the incident outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday, the university said.
+Five individuals, who were all found with gunshot wounds, were taken to local hospitals. Four had injuries that were deemed not to be life-threatening, according to the VSU, which is one of the country's historically black colleges and universities.
+Local police told the BBC that they believe more than one shooter was involved, but that no arrests had been made.
+A temporary lockdown on the campus has since been lifted, but a "significant" law enforcement presence was still on site, the university confirmed in a statement.
+It added that Chesterfield County Police were leading the investigation with help from other local law enforcement and campus police.
+Classes for the new term were set to begin on Monday and campus dormitories opened for returning students on Friday, according to the university's website.
+Lt James R Lamb of Chesterfield County Police Department told the BBC that one of the victims was a student and another was under 18.
+The university stated that the student victim had "sustained non-life-threatening injuries" and had been discharged from hospital.
+"We don't have anybody in custody," Lamb said. "We know there was more than one shooter, so I would say the suspects are still at large."
+He said investigators were still reviewing surveillance video and were not currently treating any of the five people who were injured as suspects.
+VSU has about 5,000 students and is just over 20 miles (32km) south of Richmond, the state capital of Virginia.
+Such institutions were created to provide higher education to disenfranchised African Americans, who were otherwise prohibited from attending most colleges.`,
+    bodyJa: `バージニア州立大学で5人が銃撃され、複数の容疑者が逃走中と警察が発表
+- 公開されました
+バージニア州立大学（VSU）で複数の容疑者が関与した銃撃事件で、5人が負傷し、1人が重体となった。
+大学によると、現地時間土曜午前１時２８分（日本時間午後５時２８分）ごろ、警察官らが寮の外で事件に対応した。
+5人は全員銃撃による傷を負った状態で発見され、地元の病院に搬送された。国内の歴史的に黒人大学の一つであるVSUによると、4人は命に別状はないとみなされる負傷を負った。
+地元警察はBBCに対し、複数の銃撃犯が関与したと考えているが、逮捕はされていないと語った。
+その後、キャンパスの一時的な封鎖は解除されたが、「相当な」法執行機関が依然として現場​​に存在していたと大学は声明で認めた。
+チェスターフィールド郡警察は他の地元警察やキャンパス警察の協力を得て捜査を主導していると付け加えた。
+大学のウェブサイトによると、新学期の授業は月曜日に始まる予定で、金曜日には帰国生のためにキャンパスの寮が開設された。
+チェスターフィールド郡警察署のジェームズ・R・ラム警部補はBBCに対し、犠牲者の1人は学生、もう1人は18歳未満だったと語った。
+大学は、被害学生は「生命を脅かすものではない怪我を負い」、退院したと発表した。
+「我々には誰も拘留されていない」とラム氏は語った。 「複数の銃撃犯がいたことがわかっているので、容疑者はまだ逃走中だと思います。」
+同氏は、捜査当局がまだ監視ビデオを調査中であり、負傷した５人のうち誰も容疑者として現在扱っていないと述べた。
+VSU には約 5,000 人の学生がおり、バージニア州の州都リッチモンドから南に 20 マイル (32 km) 強の場所にあります。
+このような教育機関は、ほとんどの大学に通うことが禁じられ、権利を剥奪されたアフリカ系アメリカ人に高等教育を提供するために創設された。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T19:34:22+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
     readTime: 2,
   },
   {
@@ -1835,118 +1919,6 @@ Hegseth has said that some of the media reports have been "completely misreprese
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
     readTime: 2,
-  },
-  {
-    id: "disney-ceo-josh-d-amaro-tells-cnbc-parks-e9fa446f",
-    title: "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-    titleJa: "ディズニーのCEO、ジョシュ・ダマロ氏、CNBCに対し、前四半期のパークは「大きなサプライズ」だった、同社には「明快さ」と「安定性」があると語った",
-    summaryJa: "ディズニーのジョシュ・ダマロ最高経営責任者（CEO）は金曜、CNBCのジュリア・ブールスティンに対し、同社のパーク部門が前四半期に「大きな驚き」をもたらしたこと、そしてメディア巨人のトップに就任して最初の数カ月間の同社の軌道に自信を持っていると語った。ダマロ氏は「我々は約束したことはすべて遂行している」と語った。 「次にどこへ向かうべきかという点で、組織内は明確になっていると思います。チームは非常に安定しています。つまり、ほぼ半年が経ち、自分の現在の状況についてはかなり良い感触を持っています。」",
-    bodyOriginal: `Disney CEO Josh D'Amaro told CNBC's Julia Boorstin on Friday that the company's parks division was a "big surprise" last quarter and that he feels confident about the company's trajectory during his first few months at the top of the media giant.
-"We're delivering on everything that we said we're going to deliver on," D'Amaro said. "I think there's clarity inside of the organization in terms of where we need to to go next. A lot of stability with the the team. So you know, almost six months in, I'm feeling pretty good about where we are."
-D'Amaro stepped into the role of Disney CEO in March, succeeding Bob Iger after a closely watched succession race and following a turnaround period at the media giant.
-The longtime Disney executive had most recently served as chairman of Disney Experiences, the unit that includes the theme parks, cruise lines and consumer products, and which drives profitability for the company.
-His immediate tasks since assuming the top job have been sustaining momentum in Disney's core growth areas, namely its theme parks and streaming divisions. These areas have been a focus for investors, and in recent quarters, Disney has received a mixed reception from Wall Street.
-"I'm not happy with where the stock stands right now," D'Amaro said Friday. "Our investors aren't happy with that, but I do believe that we're sitting in a very great space relative to the entertainment industry."
-Last week Disney reported quarterly results that once again showcased the strength of parks and streaming, and Wall Street appeared pleased with growth in Disney's theme park segment despite mounting macroeconomic uncertainty for consumers.
-Still, the stock is down more than 8% in the last 12 months.
-On Friday, D'Amaro said that while Disney isn't "immune" to some of the headwinds hitting theme parks, the company is positioned to respond if needed. Still, he fell short of disclosing whether further theme park price increases were coming, and instead said to expect further investments in its destinations.
-Integrating streaming and shopping
-The CEO has previously said that his focus in leading Disney is on investing in intellectual property.
-"This next chapter is about, No. 1, telling great stories. We'll never forget that. We want to move with more speed and urgency than we have before," D'Amaro said. "Embrace technology even more aggressively than we have in the past, and importantly, bring this company together to act like 'One Disney,' which you've heard me say before."
-D'Amaro highlighted the company's flagship streaming service, specifically.
-"We have tremendous scale, growing scale internationally. So as it is today, I feel very good about where Disney+ is," D'Amaro said. "But there are opportunities, obviously, to keep growing it."
-D'Amaro said last week the company is considering a free, ad-supported streaming product as a way to beckon more viewers to Disney+. On Friday, he called the option a potential "front porch" to get viewers in for free who could later become subscribers.
-D'Amaro also noted the need to have all business units working in tandem and hinted at a consumer experience that could mesh viewership with buying products on the same platform.
-"From a streaming perspective, instead of just being a streaming platform, why wouldn't we have all of the elements of Disney come to life right there in front of you," D'Amaro said. "Everyone may not participate in every part of the business. But certainly, if we put the right things in front of the consumer, if it's a seamless fan experience, I think that lifetime value goes up."
-'Not interested in spinning off ESPN'
-In the backdrop of building out streaming, Disney and its media peers have also been contending with the loss of pay-TV bundle customers, which has led to considerable declines in distribution and advertising revenues.
-Live sports, however, remain a major driver for both Disney and other major networks. Disney's ESPN and ABC own the rights to live NFL and NBA, in addition to other pro leagues.
-At the same time, the cost of sports rights has risen dramatically and could become a potential strain on media companies.
-"I've been clear that I'm not interested in spinning off ESPN," D'Amaro said Friday, responding to ongoing rumors and calls from investors to split off the property.
-"I think that anybody in the industry would look at our sports rights and the fandom associated with sports right now, and you can't help but be jealous of what we have here. I mean, ratings are through the roof," he said.
-Media in turmoil
-Despite the strong momentum for Disney, D'Amaro has also faced some drama in his first few months.
-The company's latest round of cost-cutting began weeks after D'Amaro took the helm, with an initial round of layoffs affecting nearly 1,000 employees. Most recently the company reportedly cut several hundred employees from its ESPN, Pixar and National Geographic divisions.
-The media industry at large has been shapeshifting in recent months, including the proposed merger between Paramount Skydance and Warner Bros. Discovery as well as Comcast's planned spinout of NBCUniversal.
-D'Amaro, however, told CNBC on Friday he wasn't considering any such significant moves.
-The CEO has also been faced with increasing political pressure and scrutiny, particularly around Disney's ABC. The broadcast network has faced backlash from the Trump administration and Federal Communications Commission Chairman Brendan Carr for its "Jimmy Kimmel Live!" and "The View" programs.
-The FCC has also opened an early review of Disney's broadcast station licenses following concerns around the company's diversity, equity and inclusion efforts. Disney has shot back at the FCC throughout the early renewal process, calling it an "unlawful, arbitrary, and unconstitutional order."
-"I think you saw in our FCC filings our position on this is clear," D'Amaro said on Friday. "We're very principled on this. We're going to stand up to what we believe is journalistic and integrity, and we're not going to be told how to run that side of our business."`,
-    bodyJa: `ディズニーのジョシュ・ダマロ最高経営責任者（CEO）は金曜、CNBCのジュリア・ブールスティンに対し、同社のパーク部門が前四半期に「大きな驚き」をもたらしたこと、そしてメディア巨人のトップに就任して最初の数カ月間の同社の軌道に自信を持っていると語った。
-ダマロ氏は「我々は約束したことはすべて遂行している」と語った。 「次にどこへ向かうべきかという点で、組織内は明確になっていると思います。チームは非常に安定しています。つまり、ほぼ半年が経ち、自分の現在の状況についてはかなり良い感触を持っています。」
-ダマロ氏は、注目を集めた後継者争いとメディア大手の再建期間を経て、3月にボブ・アイガー氏の後任としてディズニーのCEOに就任した。
-長年ディズニーの幹部を務めてきた同氏は、つい最近までディズニー・エクスペリエンス（テーマパーク、クルーズ会社、消費者向け商品を含む部門）の会長を務めており、同社の収益性を推進していた。
-トップに就任して以来、彼の当面の任務は、ディズニーの中核成長分野、すなわちテーマパークとストリーミング部門の勢いを維持することにある。これらの分野は投資家にとって注目されており、ここ数四半期、ディズニーはウォール街からさまざまな評価を受けている。
-ダマロ氏は金曜日、「株価の現状に満足していない」と語った。 「当社の投資家はこれに満足していませんが、エンターテインメント業界と比較すると、当社は非常に優れた地位にあると信じています。」
-ディズニーは先週、パークとストリーミングの強さを改めて示す四半期決算を報告し、消費者にとってマクロ経済の不確実性が高まっているにもかかわらず、ウォール街はディズニーのテーマパーク部門の成長に満足しているようだった。
-それでも、株価は過去12カ月で8％以上下落している。
-金曜日、ダマロ氏は、ディズニーはテーマパークを襲う逆風の一部に「無縁」ではないが、必要に応じて対応する立場にあると述べた。それでも同氏は、テーマパークのさらなる値上げが予定されているかどうかについては明らかにせず、代わりにテーマパークの目的地へのさらなる投資を期待していると述べた。
-ストリーミングとショッピングの統合
-同CEOは以前、ディズニーを率いる上で知的財産への投資に重点を置いていると述べていた。
-「次の章は、第一に、素晴らしいストーリーを伝えることだ。私たちはそれを決して忘れない。私たちはこれまでよりもスピードと緊急性を持って進みたい」とダマロ氏は語った。 「これまでよりもさらに積極的にテクノロジーを採用し、重要なことは、この会社を団結させて、私が以前言ったことがある『ワン・ディズニー』のように行動することです。」
-D'Amaro 氏は、同社の主力ストリーミング サービスを特に強調しました。
-「私たちは途方もない規模を持っており、国際的にも規模が拡大しています。したがって、今日のように、Disney+がどのような状況にあるのかについて非常に満足しています」とダマロ氏は言いました。 「しかし、成長を続けるチャンスは明らかにあります。」
-ダマロ氏は先週、同社がより多くの視聴者をDisney+に誘う方法として、広告付きの無料ストリーミング製品を検討していると述べた。同氏は金曜日、このオプションは、後に加入者になる可能性のある視聴者を無料で獲得するための「フロントポーチ」の可能性があると述べた。
-ダマロ氏はまた、すべての事業部門が連携して取り組む必要性を指摘し、同じプラットフォーム上で視聴者と商品購入を結びつける消費者体験を示唆した。
-「ストリーミングの観点から見ると、単なるストリーミングプラットフォームではなく、ディズニーのすべての要素を目の前で実現できないのではないか」とダマロ氏は語った。 「誰もがビジネスのすべての部分に参加しているわけではないかもしれません。しかし、確かに、消費者の目の前に正しいものを提供すれば、それがシームレスなファン体験であれば、生涯価値は上がると思います。」
-「ESPNのスピンオフには興味がない」
-ストリーミングの強化を背景に、ディズニーとそのメディア各社も有料テレビバンドル顧客の喪失と闘っており、それが配給収入と広告収入の大幅な減少につながっている。
-しかし、ライブスポーツは依然としてディズニーと他の主要ネットワークの両方にとって主要な推進力です。ディズニーの ESPN と ABC は、他のプロリーグに加えて、NFL と NBA の生放送の権利を所有しています。
-同時に、スポーツ放映権のコストが大幅に上昇しており、メディア企業にとって潜在的な負担となる可能性がある。
-ダマロ氏は金曜日、現在も続く噂や投資家からの分割を求める声に応え、「ESPNのスピンオフには興味がないことは明白だ」と語った。
-「業界にいる人なら誰でも、今の私たちのスポーツの権利とスポーツに関連するファンダムに目を向けると思います。そして、私たちがここに持っているものに嫉妬せずにはいられないでしょう。つまり、視聴率は天井を突き抜けています」と彼は言いました。
-混乱するメディア
-ディズニーの勢いが強いにもかかわらず、ダマロ氏も最初の数カ月でいくつかのドラマに直面した。
-同社の最新のコスト削減はダマロ氏が指揮を執ってから数週間後に始まり、最初の一時解雇では約1,000人の従業員が影響を受けた。つい最近、同社はESPN、ピクサー、ナショナル ジオグラフィック部門から数百人の従業員を削減したと報じられた。
-パラマウント・スカイダンスとワーナー・ブラザース・ディスカバリーの合併提案や、コムキャストによるNBCユニバーサルのスピンアウト計画など、メディア業界全体がここ数カ月で変化している。
-しかしダマロ氏は金曜日、CNBCに対し、そのような重大な動きは検討していないと語った。
-CEOはまた、特にディズニーのABCを巡る政治的圧力と監視の増大にも直面している。同放送ネットワークは、「ジミー・キンメル・ライブ！」に対して、トランプ政権と連邦通信委員会のブレンダン・カー委員長からの反発に直面している。および「ザ・ビュー」プログラム。
-FCCはまた、ディズニーの多様性、公平性、包括性への取り組みに対する懸念を受けて、ディズニーの放送局ライセンスの早期審査を開始した。ディズニーは、初期の更新手続きを通じてFCCを「違法かつ恣意的かつ憲法違反の命令」と呼んで反撃してきた。
-ダマロ氏は金曜日、「我々のFCC提出書類をご覧になったと思うが、これに関する我々の立場は明らかだ」と語った。 「私たちはこれに関して非常に原則を持っています。私たちはジャーナリズムと誠実であると信じているものに立ち向かうつもりであり、私たちのビジネスのその側面をどのように運営するかを指示されるつもりはありません。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
-    publishedAt: "2026-08-14T16:27:45+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "court-rules-companies-can-t-import-gilea-1d2eb581",
-    title: "Court rules companies can't import Gilead medications from overseas in blow to AFP health programs",
-    titleJa: "裁判所、企業が海外からギリアドの医薬品を輸入できないと裁定、AFPの保健プログラムに打撃",
-    summaryJa: "今週、ギリアド・サイエンシズに有利な裁判所の判決が下されれば、連邦当局が海外から医薬品を違法に輸入していると主張する米国で急成長している医療プログラムに大きな影響を与える可能性がある。昨年のCNBCの調査では、医薬品価格が高騰する中、代替資金提供プログラム（AFP）と呼ばれるこうしたプログラムが全米にさらに普及しつつあることが判明した。しかし、米当局は、AFPが食品医薬品局の規制に違反して国際市場から医薬品を輸入していると主張している。",
-    bodyOriginal: `A court ruling this week in favor of Gilead Sciences could significantly impact a burgeoning class of health programs in the U.S. that federal authorities say are illegally importing medications from overseas.
-Last year, a CNBC investigation found that these programs — called alternative funding programs, or AFPs — were becoming more pervasive around the country as drug costs skyrocket. Yet U.S. authorities say AFPs import the drugs from international markets in violation of Food and Drug Administration regulations.
-A U.S. Court of Appeals on Thursday upheld a preliminary injunction in the case filed by Gilead against several AFPs and related businesses. Patient advocacy groups say the decision could force AFPs to shrink dramatically or even go out of business.
-AFPs have defended their practices as both legal and safe and say their businesses are an antidote to high prescription drug prices.
-In December 2024, Gilead sued several companies in connection with what it claimed was the illegal importation of its HIV drug Biktarvy. The suit was filed after a Maryland patient received the drug in the mail from Turkey with label instructions in Turkish.
-The suit targeted an AFP called Rx Valet and several affiliated companies. Gilead also sued Meritain Health, which manages employee health plans and is part of CVS Health-owned Aetna, and Pro-Act, a pharmacy benefits manager.
-"Meritain has long maintained a policy that it does not support programs for non-FDA-approved medications sourced from outside the United States and does not contract with companies to facilitate the importation of non-FDA-approved medications sourced from outside the United States," Aetna spokesperson Phil Blando said in a statement. "Despite this policy, Meritain was named as a defendant in a lawsuit filed by Gilead concerning international drug sourcing. Meritain strongly disputes the allegations and is vigorously defending itself against the complaint."
-Rx Valet did not return a request for comment from CNBC.
-AFPs generally maintain the medicines they import from overseas are the same as ones sold in the U.S.
-The court this week disagreed, finding that the differences between Gilead's U.S. medications and the international medications imported by defendants were "material, not theoretical," and that by importing medicines through unauthorized foreign channels, the defendants bypassed Gilead's supply chain.
-"What Gilead sells in Turkey and what it sells in Maryland share a chemical formula but materially differ and travel through different quality-control system," the ruling said.
-In a statement, a Gilead spokesman said the ruling helps protect patients by keeping medicines that are outside FDA oversight and quality safeguards out of the U.S. supply chain.
-Shabbir Imber Safdar, executive director of the Partnership for Safe Medicines, a coalition of nonprofit and pharmaceutical industry groups, said the court's decision is clear that "you cannot import untraceable medicine with foreign-language labels, hand it to American patients, and call it equivalent to an FDA-approved medicine."`,
-    bodyJa: `今週、ギリアド・サイエンシズに有利な裁判所の判決が下されれば、連邦当局が海外から医薬品を違法に輸入していると主張する米国で急成長している医療プログラムに大きな影響を与える可能性がある。
-昨年のCNBCの調査では、医薬品価格が高騰する中、代替資金提供プログラム（AFP）と呼ばれるこうしたプログラムが全米にさらに普及しつつあることが判明した。しかし、米当局は、AFPが食品医薬品局の規制に違反して国際市場から医薬品を輸入していると主張している。
-米国控訴裁判所は木曜日、ギリアド社が複数のAFPおよび関連企業に対して起こした訴訟の仮差し止め命令を支持した。患者擁護団体は、今回の決定によりAFPは大幅な縮小、あるいは廃業に追い込まれる可能性があると主張している。
-AFPは自社の業務は合法かつ安全であると擁護し、自社のビジネスが高額な処方薬価格への対抗策であると主張している。
-2024年12月、ギリアドは自社のHIV治療薬「ビクタルビ」の不法輸入に関連して数社を告訴した。この訴訟は、メリーランド州の患者がトルコからラベルの説明書がトルコ語で記載された郵便でこの薬を受け取った後に起こされた。
-この訴訟は、Rx Valetと呼ばれるAFPと数社の関連会社を標的とした。ギリアドはまた、従業員の健康計画を管理し、CVS Health傘下のAetnaの一部であるMertain Healthと、薬局福利厚生管理会社のPro-Actも訴えた。
-エトナの広報担当フィル・ブランド氏は声明で、「メリテインは、米国外から調達されるFDA未承認医薬品のプログラムをサポートせず、米国外から調達されるFDA未承認医薬品の輸入を促進する企業と契約しないという方針を長年維持してきた」と述べた。 「この方針にもかかわらず、メリテインは、国際的な医薬品調達に関してギリアドが起こした訴訟の被告として指名された。メリテインはこの申し立てに強く異議を唱えており、告訴に対して精力的に弁護している。」
-Rx Valet氏はCNBCからのコメント要請に返答しなかった。
-AFPは通常、海外から輸入する医薬品は米国で販売されている医薬品と同じであると主張している。
-裁判所は今週これに異議を唱え、ギリアドの米国医薬品と被告らが輸入した海外医薬品との違いは「理論的ではなく実質的」であり、被告らは無許可の海外ルートを通じて医薬品を輸入することでギリアドのサプライチェーンを迂回したと認定した。
-「ギリアド社がトルコで販売しているものとメリーランド州で販売しているものは化学式は共通しているが、大きく異なり、異なる品質管理システムを経ている」と判決は述べた。
-ギリアドの広報担当者は声明で、今回の判決はFDAの監督や品質保護の対象外となる医薬品を米国のサプライチェーンから排除することで患者を保護するのに役立つと述べた。
-非営利団体と製薬業界団体の連合体である「安全な医薬品のためのパートナーシップ」のエグゼクティブディレクター、シャビル・インバー・サフダール氏は、裁判所の決定は「外国語のラベルが付いた追跡不可能な医薬品を輸入し、米国の患者に渡し、それをFDAが承認した医薬品と同等と呼ぶことはできない」ということは明らかだと述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/court-ruling-gilead-medications-overseas-afps.html",
-    publishedAt: "2026-08-14T16:27:07+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 3,
   },
 ];
 
