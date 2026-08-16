@@ -15,6 +15,188 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "can-i-claim-50-of-my-husband-s-social-se-1ba5c89d",
+    title: "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
+    titleJa: "今、夫の社会保障の 50% を請求して、70 歳になったら、より高い給付金に切り替えることはできますか?",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“I would like to offer a piece of advice for women who are or have been married.”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
+    publishedAt: "2026-08-16T18:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-23020538",
+    readTime: 2,
+  },
+  {
+    id: "my-friend-s-mother-died-can-she-stop-med-cd3226a7",
+    title: "My friend’s mother died. Can she stop Medicaid from taking the family home?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "「彼女は住宅ローン会社に連絡しましたが、住宅ローンについては話してくれません。」",
+    bodyOriginal: `“She has contacted the mortgage company, but they will not discuss the mortgage.”`,
+    bodyJa: `「彼女は住宅ローン会社に連絡しましたが、住宅ローンについては話してくれません。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/shes-desperate-my-friends-mother-died-can-she-stop-medicaid-from-taking-the-family-home-394fb6e9?mod=mw_rss_topstories",
+    publishedAt: "2026-08-16T17:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-66270404",
+    readTime: 2,
+  },
+  {
+    id: "changing-pubs-into-homes-to-be-made-hard-320a27a9",
+    title: "Changing pubs into homes to be made harder under new rules",
+    titleJa: "パブを住宅に変えるのは新たなルールの下でより困難になる",
+    summaryJa: "パブを住宅に変えるのは新たなルールの下でより困難になる- 公開されました",
+    bodyOriginal: `Changing pubs into homes to be made harder under new rules
+- Published
+Turning pubs into housing or offices will be made harder as part of changes to government planning rules in England.
+The updated National Planning Policy Framework (NPPF) will come into force on Monday and is expected to contain more protections for pubs at threat of closure for conversion to another use.
+A previous consultation on the plans only gave the protection to the last pub in the area.
+However, pub and hospitality groups say taxes and employment costs are the big reasons why pubs are closing. Meanwhile, the Conservatives said the Labour government is "failing abysmally" to meet its housing targets.
+Why there's a row about 'vertical drinking' in central London
+- Published7 August
+To go ahead with a change of use under the new rules, developers will need to provide evidence that there is no reasonable prospect of keeping a pub business running.
+The evidence will need to include proof it was marketed for sale for at least 12 months.
+A government spokesperson told the BBC councils would need to assess the impact on a community of a change of use.
+The rules will reportedly stop owners from deliberately killing off trade in order to justify a closure, protecting pubs which have been historically successful.
+The NPPF sets out government's planning policies for England and how they should be applied by local authorities.
+Scotland, Wales, and Northern Ireland have their own devolved planning frameworks and laws.
+'Closures avoidable'
+The Campaign for Real Ale has previously said that pubs are being "lost forever to conversion or demolition as developers look to cash in on the desirable locations and unique architecture of pubs and social clubs".
+The British Beer and Pub Association and UKHospitality have also campaigned against pub closures, with both largely blaming tax rises and other costs.
+Allen Simpson, chief executive of UKHospitality, said: "The biggest issue facing hospitality businesses is costs like VAT and business rates pushing pubs out of business in the first place.
+"Anything that makes it harder to take these important assets away from their communities has to be welcomed, but the government should focus on continuing its strong start on fixing the harm done to hospitality over the past two years."
+In July, the Labour government said pubs, social clubs and live music venues in England will be given a 20% cut to business rates on top of rates relief announced in January.
+The NPPF update being published Monday also includes default approval for homes being built around railway stations in England in an attempt to increase housebuilding numbers.
+Housing Secretary Angela Rayner said: "By unlocking thousands of homes around well-connected transport hubs, we're helping people live closer to work, school and the services they rely on, while backing local businesses and driving growth in our communities."
+The update also means that some groups will no longer need to be consulted on housing development plans as part of the process of getting permission.
+The Gardens Trust, a parks and gardens heritage and conversion charity, called the decision to remove its role as a statutory consultee "devastating".
+It said it devalued parks and gardens and "makes them vulnerable to poorly informed development".
+Under the changes, the Gardens Trust and Theatres Trust will still be notified of relevant applications and Sport England will continue to advise on significant cases.
+Labour has set a target to build 1.5 million homes by 2029. According to official data, external, it has so far built 392,000 homes in England since coming into power in July 2024.
+Shadow housing secretary Sir James Cleverly said Labour is "failing abysmally" to meet their target because of taxes and red tape.
+"To try to fix their own mess, Labour are planning a power grab, seizing control from local communities and forcing them to accept development in the wrong areas because Labour won't build in the right areas," he added.`,
+    bodyJa: `パブを住宅に変えるのは新たなルールの下でより困難になる
+- 公開されました
+英国政府の計画規則変更の一環として、パブを住宅やオフィスに転用することがさらに難しくなるだろう。
+更新された国家計画政策枠組み（NPPF）は月曜日に発効し、別の用途への転用により閉店の危機に瀕しているパブに対するより多くの保護が含まれることが期待されている。
+計画に関する事前の協議では、この地域の最後のパブにのみ保護が与えられた。
+しかし、パブやホスピタリティ団体は、パブが閉店する大きな理由は税金と人件費だと主張している。一方、保守党は労働党政権が住宅目標の達成に「まったく失敗している」と述べた。
+ロンドン中心部で「縦飲み」に関する騒動が起きている理由
+- 8 月 7 日に公開
+新しい規則に基づいて用途変更を進めるには、開発業者はパブ事業を継続する合理的な見込みがないという証拠を提出する必要がある。
+証拠には、少なくとも 12 か月間販売用に販売されていたという証拠が含まれる必要があります。
+政府報道官は、BBC評議会は用途変更が地域社会に与える影響を評価する必要があると述べた。
+この規則は、オーナーが閉店を正当化するために意図的に取引を停止することを阻止し、歴史的に成功を収めてきたパブを保護すると伝えられている。
+NPPF は、イングランドに対する政府の計画政策と、地方自治体によるそれらの政策の適用方法を定めています。
+スコットランド、ウェールズ、北アイルランドには、独自の権限委譲された計画枠組みと法律があります。
+「閉店は避けられる」
+リアル・エール・キャンペーンは以前、パブは「開発業者がパブや社交クラブの望ましい立地とユニークな建築を利用して利益を得ようとする中、改築や取り壊しによって永遠に失われつつある」と述べた。
+英国ビール・パブ協会とUKホスピタリティもパブの閉鎖に反対する運動を行っており、どちらも主に増税やその他の費用が原因であるとしている。
+UKホスピタリティのアレン・シンプソン最高経営責任者（CEO）は、「ホスピタリティ企業が直面している最大の問題は、そもそもパブを廃業に追い込んでいるVATやビジネスレートなどのコストだ」と語った。
+「これらの重要な資産を地域社会から奪うことを困難にするものはすべて歓迎されなければなりませんが、政府は過去2年間にホスピタリティに与えられた損害を修正するという力強いスタートを続けることに焦点を当てるべきです。」
+労働党政府は7月、イングランドのパブ、社交クラブ、ライブ音楽会場に対し、1月に発表した料金軽減に加えて営業料金を20％引き下げると発表した。
+月曜日に公表されるNPPFの最新情報には、住宅建設件数の増加を目的として、英国の鉄道駅周辺に建設される住宅のデフォルト承認も含まれている。
+アンジェラ・レイナー住宅長官は、「交通の便が良い交通拠点の周囲に数千軒の住宅を開放することで、人々が職場、学校、頼りになるサービスの近くに住めるよう支援するとともに、地元企業を支援し、地域社会の成長を促進する」と述べた。
+この更新は、一部のグループが許可を得るプロセスの一環として住宅開発計画について相談する必要がなくなることも意味する。
+公園と庭園の遺産および転換慈善団体であるガーデンズ・トラストは、法定顧問としての役割を解除する決定は「壊滅的だ」と述べた。
+公園や庭園の価値を切り下げ、「十分な情報が得られていない開発に対して脆弱にしている」と述べた。
+この変更に基づき、ガーデンズ・トラストとシアターズ・トラストには関連する申請が引き続き通知され、スポーツ・イングランドは引き続き重要な事件についてアドバイスを行うことになる。
+労働党は2029年までに150万戸の住宅を建設する目標を設定している。外部の公式データによると、2024年7月に政権を握って以来、これまでに英国で39万2000戸の住宅を建設した。
+影の住宅長官サー・ジェームス・クレバリー氏は、労働党は税金やお役所仕事のせいで目標達成に「まったく失敗している」と述べた。
+「自らの混乱を正そうとするために、労働党は権力掌握を計画しており、地元社会からコントロールを奪い、労働党が適切な地域に建設しないため、間違った地域での開発を受け入れるよう強制している」と同氏は付け加えた。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-16T15:04:13+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff85/live/bb0fc5c0-9981-11f1-a4eb-59b79ff5ff4f.jpg",
+    readTime: 4,
+  },
+  {
+    id: "what-the-results-of-a-connecticut-congre-dca19135",
+    title: "What the results of a Connecticut congressional primary race may mean for Social Security",
+    titleJa: "コネチカット州議会予備選の結果は社会保障にとって何を意味するのか",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Lawmakers elected to Congress in 2026 are likely to be tasked with shoring up Social Security ahead of its looming 2032 funding shortfall, and that effort could be affected by the outcome of a Connecticut primary race.
+Democratic Rep. John Larson, the ranking member of the House Ways and Means Subcommittee on Social Security, who has called for expanding Social Security benefits, won't be on the November ballot.
+On Tuesday, voters in Connecticut's 1st Congressional District chose among the incumbent Larson and several challengers. Former Hartford Mayor Luke Bronin won, with around 54% of the district's vote, compared with 33% for Larson, according to MS NOW, based on 99% of votes.
+In a speech Tuesday night, Larson — who has served 14 terms in the House of Representatives — said he is "disappointed" with the primary results.
+"But far from disheartened — we have a responsibility and a job to do, and we've got to come together as people, as a Democratic Party and fight for what's right for the American people," Larson said.
+Larson previously served as a chair of the Social Security subcommittee, when Democrats controlled the House. For years, Larson has advocated for a bill, the Social Security 2100 Act, which aims to expand benefits while also extending the program's solvency.
+Larson reintroduced the Social Security 2100 Act on June 26. Sen. Richard Blumenthal, D-Conn., put forward a version of the bill in the Senate on July 21.
+The Social Security 2100 Act calls for some benefit increases that would be in effect through 2036. Among those proposed changes are an across-the-board benefit increase, a change to how the annual cost-of-living adjustment is calculated, and an increase in the minimum benefit for long-term low earners.
+To pay for those changes, the bill calls for eliminating the Social Security payroll tax cap and taxing investment income for taxpayers who earn over $400,000. In 2026, the Social Security payroll tax cap is set at $184,500. Earnings above that limit are not subject to the 6.2% payroll tax for workers and employers.
+The re-upped proposal comes as the Social Security trust fund that helps pay retirement benefits is projected to run out in about six years, in the fourth quarter of 2032, according to Social Security trustees' latest projections. At that time, 78% of those benefits would be payable, unless Congress comes up with a solution.
+Connecticut beneficiaries may face the steepest losses should the trust fund be depleted, with an average monthly benefit cut of $556, according to June state-by-state estimates by the Committee for a Responsible Federal Budget, a nonpartisan organization that focuses on educating the public on fiscal policy issues. States with higher average benefits would see larger cuts, according to CRFB, whose analysis assumes a 24% across-the-board cut.
+Social Security debate continues after Larson's loss
+Leaders elected to serve in the Senate this November will be in office through early 2033, just after the projected late-2032 Social Security depletion date. The terms of House leaders elected in 2026 end in 2029.
+During a July 28 debate with the other Democratic candidates, Larson said the Social Security 2100 bill will be "one of the first bills taken up" in the first 100 days of the next Congress.
+"We will put Social Security in place and pay for it," Larson said.
+Following the results of Tuesday's election, Social Security Works, which advocates for protecting and expanding the program, said it plans to continue to advocate for the changes Larson proposed.
+"We will take the handoff of Congressman Larson's baton and honor his life's work by fighting harder than ever to make billionaires pay their fair share so we can protect and expand Social Security for everyone," Alex Lawson, executive director of Social Security Works, said in a statement.
+Social Security Works' political action committee endorses candidates based on their platforms for Social Security, Medicare and Medicaid.
+During the candidates' debate, Bronin said Social Security 2100 failed to get out of committee under Larson's leadership when Democrats held the majority.
+"To say that it's going to become law in the first 100 days of the next Congress when Donald Trump is in the White House, I think, is not being honest with voters," Bronin said.
+Bronin said during the debate that he would be "proud to fight to protect Social Security" and that to change Social Security, it will be necessary to build a movement outside the walls of the Capitol.
+"I think it would be good to have some younger champions of Social Security as part of that fight," Bronin said. "Because if we're going to be successful, we're going to need every American of every age recognizing that they've got a stake in this."
+Bronin did not mention specific plans during the debate, but Bronin senior advisor Amanda Sands told CNBC via email that he "believes that part of the solution has to be lifting the cap so that higher earners pay more into Social Security, as a number of proposed bills would require."
+District leadership to be decided on Election Day
+In November, Bronin will oppose Republican candidate Amy Chai, a physician specializing in primary care and addiction medicine.
+Chai told CNBC via email that she "strongly" opposes both Republican and Democratic platforms on Social Security.
+Chai said her plan would keep the Social Security payroll tax cap and payroll tax rate from increasing, eliminate the employer portion of the self-employment tax and require government employees to participate in Social Security.
+To address Social Security's funding shortfall, Chai said she would require the program's obligations to be funded before foreign aid is released.
+"This is the FAIR way to deal with the Social Security tax," Chai wrote. "It is our money. We get it back. Period."`,
+    bodyJa: `２０２６年に議会に選出された議員らは、迫り来る２０３２年の財源不足に備えて社会保障を強化する任務を負う可能性が高く、その取り組みはコネチカット州の予備選の結果に影響を受ける可能性がある。
+社会保障給付の拡大を求めている下院歳入社会保障小委員会の有力委員である民主党のジョン・ラーソン議員は、11月の投票には参加しない。
+火曜日、コネチカット州第1下院選挙区の有権者は現職のラーソン氏と数人の挑戦者の中から選ぶ。 MS NOWによると、得票率99％に基づくと、元ハートフォード市長ルーク・ブローニン氏が地区票の約54％を獲得し、ラーソン氏は33％で勝利した。
+下院議員を14期務めたラーソン氏は火曜日夜の演説で、主要結果には「失望している」と述べた。
+「しかし、落胆するわけではありません。私たちには責任とやるべき仕事があり、国民として、民主党として団結し、アメリカ国民にとって正しいことのために戦わなければなりません」とラーソン氏は語った。
+ラーソン氏は以前、民主党が下院を支配していた時代に社会保障小委員会の委員長を務めていた。ラーソン氏は長年にわたり、プログラムの支払能力を延長しながら給付金を拡大することを目的とした法案「社会保障2100法」を提唱してきた。
+ラーソン氏は6月26日に社会保障2100法を再提出した。リチャード・ブルーメンタール上院議員（民主党、コネチカット州）は7月21日に同法案のバージョンを上院に提案した。
+社会保障 2100 年法では、2036 年まで実施される一部の給付金の増額が求められています。提案されている変更の中には、全面的な給付金の増額、年間生計費調整額の計算方法の変更、長期低所得者に対する最低給付金の増額などが含まれます。
+これらの変更を賄うために、この法案は社会保障給与税の上限を撤廃し、40万ドルを超える納税者に対して投資所得に課税することを求めている。 2026 年には、社会保障給与税の上限は 184,500 ドルに設定されます。この制限を超える収入には、労働者と雇用主に対する 6.2% の給与税が課されません。
+社会保障管財委員の最新の予測によれば、退職金の支払いを支援する社会保障信託基金が約6年後の2032年の第4四半期に枯渇すると見込まれている中で、この再提案はなされた。その時点で、議会が解決策を提示しない限り、これらの給付金の78％が支払われることになる。
+財政政策の問題について国民を教育することに重点を置いている超党派の組織、責任ある連邦予算委員会の6月の州ごとの試算によると、信託基金が枯渇した場合、コネチカット州の受益者は最も多額の損失に直面する可能性があり、月平均給付金削減額は556ドルとなる。 CRFBによると、平均給付額が高い州ほど削減額は大きくなり、その分析では一律24％の削減が想定されている。
+ラーソン氏の敗北後も社会保障の議論は続いている
+今年11月に上院議員に選出された指導者らは、2032年後半に社会保障が枯渇すると予想されている直後の2033年初めまで在任することになる。 2026年に選出される下院指導者の任期は2029年に終了する。
+ラーソン氏は他の民主党候補者との7月28日の討論会で、社会保障2100法案は次期議会の最初の100日間に「最初に取り上げられる法案の1つ」になるだろうと述べた。
+「我々は社会保障を整備し、その費用を支払う」とラーソン氏は語った。
+火曜日の選挙結果を受けて、プログラムの保護と拡大を主張する社会保障事業団は、ラーソン氏が提案した変更を引き続き支持する予定であると述べた。
+社会保障事業のエグゼクティブディレクター、アレックス・ローソン氏は声明で、「われわれはラーソン下院議員のバトンを引き継ぎ、億万長者に応分の負担をさせるためにこれまで以上に懸命に闘うことで彼の生涯の仕事に敬意を表し、すべての人のための社会保障を守り、拡大できるようにする」と述べた。
+Social Security Works の政治活動委員会は、社会保障、メディケア、メディケイドのプラットフォームに基づいて候補者を支持します。
+候補者討論会でブローニン氏は、民主党が過半数を占めていたとき、ラーソン氏の指導の下で社会保障２１００が委員会から外れることができなかったと述べた。
+「ドナルド・トランプ氏がホワイトハウスにいる次の議会の最初の100日以内に法案が成立すると言うのは、有権者に対して誠実ではないと思う」とブローニン氏は語った。
+ブローニン氏は討論会で「社会保障を守るために戦うことを誇りに思う」と述べ、社会保障を変えるには国会議事堂の壁の外で運動を構築する必要があると述べた。
+「その闘いの一環として、社会保障の若い擁護者を何人か参加させるのは良いことだと思う」とブローニン氏は語った。 「なぜなら、もし私たちが成功しようとするなら、あらゆる年齢のすべてのアメリカ人が、自分たちもこのことに利害関係があることを認識する必要があるからです。」
+ブローニン氏は討論会で具体的な計画については言及しなかったが、ブローニン氏の上級顧問アマンダ・サンズ氏は電子メールでCNBCに対し、「解決策の一部は、提案されている多くの法案で求められているように、高所得者がより多く社会保障を支払えるように上限を撤廃する必要があると考えている」と語った。
+地区指導者は選挙日に決まる
+ブローニン氏は11月、プライマリケアと依存症医療を専門とする医師エイミー・チャイ氏の共和党候補と対立する。
+チャイ氏は電子メールでCNBCに対し、社会保障に関する共和党と民主党の両方の綱領に「強く」反対していると語った。
+チャイ氏は、自身の計画では社会保障給与税の上限と給与税率の引き上げを抑制し、自営業税の雇用主部分を廃止し、公務員に社会保障への加入を義務付けると述べた。
+社会保障の資金不足に対処するため、チャイ氏は、海外援助が開始される前にプログラムの義務に資金を提供することを要求すると述べた。
+「これが社会保障税に対処する公平な方法だ」とチャイ氏は書いた。 「それは私たちのお金です。私たちはそれを返します。定期です。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html",
+    publishedAt: "2026-08-16T13:30:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "here-s-the-real-reason-oil-prices-aren-t-8e33ae49",
+    title: "Here’s the real reason oil prices aren’t moving higher",
+    titleJa: "原油価格が上がらない本当の理由はこれだ",
+    summaryJa: "原油価格が高騰していないのは、世界が以前ほど多くの石油を望んでいないことが主な理由だが、おそらくそれがより憂慮すべき話だろう。",
+    bodyOriginal: `Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.`,
+    bodyJa: `原油価格が高騰していないのは、世界が以前ほど多くの石油を望んでいないことが主な理由だが、おそらくそれがより憂慮すべき話だろう。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
+    publishedAt: "2026-08-16T13:00:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-31533452",
+    readTime: 2,
+  },
+  {
     id: "the-mediterranean-diet-is-the-best-out-t-b0730873",
     title: "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
     titleJa: "地中海食は最高です。アメリカ人がそれに苦労する理由はここにあります。",
@@ -1215,6 +1397,114 @@ Industry players are meanwhile convinced that Champagne's innovation will be eno
     readTime: 6,
   },
   {
+    id: "temporary-ban-on-disposable-bbqs-as-mili-0b4c29f8",
+    title: "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "山火事対策に軍隊が出動中、使い捨てバーベキューを一時禁止- 公開されました",
+    bodyOriginal: `Temporary ban on disposable BBQs as military deployed to help battle wildfires
+- Published
+Disposable barbecues have been temporarily banned from sale over fears they pose a "significant risk to the public" as drought and heatwave conditions continue to grip the UK.
+They have been the cause of "a number of serious wildfires across the country over the summer months", the government said.
+A potential ban was first discussed at an emergency Cobra meeting in response to record temperatures earlier this week. The public have been urged not to light an open fires and to dispose of cigarettes carefully.
+Meanwhile Prime Minister Andy Burnham says the country is like "a tinderbox", as 200 personnel have now been deployed to help emergency teams tackling wildfires around the country.
+As part of the military deployment, Gurkha logistics teams equipped with water tankers and military engineers are now assisting fire services in South Wales.
+Andy Burnham has promised more military personnel will be deployed elsewhere if needed.
+Crews in England and Wales tackled multiple blazes on Friday and an emergency alert was sent to millions of phones.
+A total of 1,017 wildfires have been recorded in England and Wales this year, according to data shared by the National Fire Chiefs Council (NFCC), which matches last year's record.
+As well as devastating blazes in the West Midlands which saw dozens of homes destroyed, fire crews have been in action across the two countries.
+In Wales, a major incident was declared near Llandovery, Carmarthenshire, after dozens of homes were evacuated and roads closed.
+In Hampshire, firefighters have spent a sixth day tackling a wildfire in the New Forest, which broke out on Sunday.
+Sixteen emergencies were tackled by Norfolk Fire and Rescue Service on Thursday afternoon, including a fire at Mousehold Heath in the city.
+On Friday evening, an emergency alert was sent to mobile phones warning of a "very high risk of wildfires nationally" across England and Wales.
+The message asked residents, landowners and visitors to not undertake any activity that could cause a fire "including disposable barbecues, firepits, garden incinerators of fireworks".
+It was the most extensive use of the system to date, according to the government.
+Disposable barbecues "cannot be considered a safe product" in the current conditions and they "must not be made available for sale either in store or online at the current time" in Great Britain, according to the advice published by the Department for Business, Innovation, Science and Trade (DBIST)., external
+The ban applies to England, Scotland and Wales, but not Northern Ireland.
+Business Secretary Jonathan Reynolds said the measures were "common-sense steps to protect lives and the environment."
+All retailers will be receiving guidance about the change, which will be kept under review, Burnham told the BBC.
+He also said some of the wildfires burning across the country will have been started by disposable barbecues.
+Speaking to BBC Radio 5 Live's Matt Chorley, the prime minister said: "We've got 37 fires across England and Wales right now, four of them are major incidents."
+He added: "We're going into a difficult weekend, please just think about the situation that we're in.
+"Britain is a tinderbox right now. Setting a fire in any outdoor setting of any kind is a risk to other people's homes, it's a risk to other people's lives, don't do it, please don't do it."
+Many large retailers and supermarkets had already voluntarily stopped selling the devices under a framework agreed in 2023, external between fire chiefs and the British Retail Consortium.
+It said that retailers should suspend sales once an extreme heat event has been declared as imminent, or in response to "reasonable, evidence based" requests from local councils.
+David Skaith, the elected Labour mayor for York and North Yorkshire who has been campaigning for a ban on single-use grills, urged the prime minister to make it permanent.
+He told the BBC: "We know the risks that disposable barbecues have been causing and to have a ban on them is much-needed, much-called-for and I hope it becomes long-term."
+Burnham also said he planned to commission firefighting planes, like those used in Europe and the US, to combat the spread of wildfires.
+He said plans were being drawn up for emergency financial support for fire services battling the spread of wildfires.
+"We have a fire and rescue service across the country that isn't properly set up to deal with these incidents," Burnham said.
+"We don't have the capability in the way that we should have to fight these fires.
+"There's thousands of firefighters out there today doing back-breaking work, in full kit, in the most difficult conditions", he added.
+He said the UK must face up to the "changing climate" and transition to "more clean energy".
+His comments came ahead of the appointment of Baroness Blake of Leeds as fire minister.
+Friends of the Earth urged the prime minister to tackle the "root cause" of the "climate emergency" that is fuelling this summer's extreme weather events.
+"Without urgent action to curb the carbon emissions driving this crisis, future heatwaves, droughts and wildfires will only get worse and the ability for future generations to adapt will disappear" the environmental group warned.
+Burnham was speaking during a visit to Stourbridge to see the impact of a devastating blaze.
+As the UK experienced its hottest day of the year on Thursday, residents fled their homes when fires spread through dry grass and tore through houses.
+West Midlands Ambulance Service said it treated 54 casualties at eight different fires across the region. Nineteen people were taken to hospital for treatment.
+In 2025, fire and rescue services in England and Wales broke a new record when they responded to nearly 1,000 wildfire incidents, with the NFCC warning at the time that climate change is increasing their risk and severity.
+The conditions the UK is experiencing so far this summer also mirror the warnings given by climate scientists that human-induced climate change would lead to more frequent and intense heatwaves, as well as potential summer droughts.
+In England, the Rugby Football Union has delayed the start of the community rugby season because of concerns about player welfare and pitch conditions because of the drought conditions.
+Get in touch
+Are you affected by the issues raised in this story? Let us know
+Related topics
+- Published5 November 2025`,
+    bodyJa: `山火事対策に軍隊が出動中、使い捨てバーベキューを一時禁止
+- 公開されました
+干ばつと熱波の状況が英国を襲い続ける中、使い捨てバーベキューグリルが「公衆に重大なリスク」をもたらすという懸念から、一時的に販売が禁止された。
+政府は、これらが「夏の間、全国各地で多数の深刻な山火事」の原因となっていると発表した。
+禁止の可能性は、今週初めの記録的な気温を受けての緊急コブラ会議で初めて議論された。国民に対しては、たき火をしないことと、タバコを慎重に処分することが求められている。
+一方、アンディ・バーナム首相は、全国の山火事に対処する緊急チームを支援するために現在200人が派遣されており、この国は「火口箱」のようなものだと述べた。
+軍事配備の一環として、給水車と軍事技術者を装備したグルカ兵站チームが現在、南ウェールズの消防活動を支援している。
+アンディ・バーナムは、必要に応じてさらに多くの軍人を他の場所に派遣すると約束した。
+金曜日にはイングランドとウェールズの作業員が複数の火災に対処し、数百万台の電話に緊急警報が送信された。
+全国消防署長評議会（NFCC）が共有したデータによると、今年イングランドとウェールズで合計1,017件の山火事が記録されており、これは昨年の記録と一致する。
+ウェスト・ミッドランドでは数十軒の家屋が焼失した壊滅的な火災が発生したほか、両国各地で消防団が出動している。
+ウェールズでは、カーマーゼンシャー州ランドリー近郊で大規模な事件が発生したと宣言され、数十軒の家が避難し、道路が閉鎖された。
+ハンプシャー州では、日曜日に発生したニューフォレストの山火事に対し、消防士らが6日間かけて消火活動を行っている。
+木曜午後、ノーフォーク消防救助隊は市内のマウスホールド・ヒースでの火災を含む16件の緊急事態に対処した。
+金曜日の夜、イングランドとウェールズの全土で「全国的に山火事の危険性が非常に高い」と警告する緊急警報が携帯電話に送信された。
+メッセージでは、住民、地主、訪問者に対し、「使い捨てのバーベキュー、たき火台、庭の花火用焼却炉を含む」火災を引き起こす可能性のある活動を行わないよう求めた。
+政府によると、これはこれまでで最も広範なシステムの使用であったという。
+ビジネス・イノベーション・科学貿易省（DBIST）が発表した勧告によると、使い捨てバーベキューグリルは現状では「安全な製品とは考えられず」、英国では「現時点では店舗でもオンラインでも販売してはならない」という。
+この禁止措置はイングランド、スコットランド、ウェールズに適用されるが、北アイルランドには適用されない。
+ジョナサン・レイノルズ商務長官は、今回の措置は「命と環境を守るための常識的な措置」だと述べた。
+バーナム氏はBBCに対し、すべての小売業者はこの変更に関するガイダンスを受け取り、今後も検討が続けられると語った。
+同氏はまた、全国で発生している山火事の一部は使い捨てのバーベキューグリルによって引き起こされる可能性があると述べた。
+首相はBBCラジオ5ライブのマット・チョーリー氏に対し、「現在イングランドとウェールズで37件の火災が発生しており、そのうち4件は重大な事故だ」と語った。
+さらに「我々は困難な週末を迎えることになるが、我々が置かれている状況を考えてほしい。
+「イギリスは今、火口のような状態だ。屋外での放火は、どのような種類であっても、他人の家や命の危険につながるので、絶対にやめてください。」
+消防署長と英国小売業協会の間で2023年に合意された枠組みに基づいて、多くの大手小売店やスーパーマーケットはすでに自主的に機器の販売を中止していた。
+同報告書は、猛暑が差し迫っていると宣言された場合、または地方議会からの「合理的で証拠に基づく」要請に応じた場合、小売業者は販売を停止すべきだと述べた。
+ヨークとノースヨークシャーの労働党市長に選出され、使い捨てグリルの禁止を求めて運動してきたデビッド・スカイス氏は、首相にそれを恒久化するよう求めた。
+同氏はBBCに対し、「使い捨てバーベキューが引き起こしているリスクは承知しており、その禁止は切望され、切望されており、それが長期化することを願っている」と語った。
+バーナム氏はまた、山火事の拡大を防ぐためにヨーロッパや米国で使用されているような消防用飛行機を配備する計画があると述べた。
+同氏は、山火事の拡大と闘っている消防団に対する緊急財政支援の計画が策定されていると述べた。
+バーナム氏は、「全国に消防・救助サービスが存在するが、これらの事件に対処するための体制が適切に整備されていない」と述べた。
+「私たちには、これらの火災と戦うために必要な能力がありません。
+「今日、何千人もの消防士がフル装備で、最も困難な状況で骨の折れる仕事をしている」と彼は付け加えた。
+同氏は、英国は「気候変動」に直面し、「よりクリーンなエネルギー」への移行が必要だと述べた。
+同氏のコメントは、リーズのブレイク男爵夫人が消防大臣に任命される前に発表された。
+地球の友らは首相に対し、今夏の異常気象を助長している「気候非常事態」の「根本原因」に取り組むよう求めた。
+「この危機を引き起こしている炭素排出を抑制するための緊急の行動がなければ、将来の熱波、干ばつ、山火事は悪化するばかりで、将来の世代の適応能力は失われるだろう」と環境保護団体は警告した。
+バーナム氏は壊滅的な火災の影響を見るためにスタウアブリッジを訪れた際に講演していた。
+英国は木曜日に一年で最も暑い日を経験したが、火は乾いた草に燃え広がり、家屋を破壊したため、住民は家から避難した。
+ウェスト・ミッドランズ救急サービスは、同地域の8つの異なる火災で54人の死傷者を治療したと発表した。 19人が治療のため病院に搬送された。
+2025年、イングランドとウェールズの消防・救助サービスは、約1,000件の山火事に対応し新記録を樹立したが、当時NFCCは気候変動がリスクと深刻さを増大させていると警告した。
+この夏、英国がこれまでに経験している状況は、人為的な気候変動がより頻繁で激しい熱波や夏の干ばつを引き起こす可能性があるという気候科学者らの警告を反映している。
+イングランドでは、干ばつの状況による選手の福祉とピッチの状態への懸念から、ラグビーフットボール協会がコミュニティラグビーシーズンの開始を遅らせた。
+連絡する
+この話で提起されている問題の影響を受けていますか?お知らせください
+関連トピック
+- 2025 年 11 月 5 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-15T03:58:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
+    readTime: 7,
+  },
+  {
     id: "bbc-seeks-to-subpoena-trump-s-family-mem-02200b66",
     title: "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
     titleJa: "BBC、パノラマ訴訟でトランプ大統領の家族への召喚を求める",
@@ -1471,232 +1761,6 @@ The conglomerate's cash level fell to $365.5 billion at the end of June from a r
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 3,
-  },
-  {
-    id: "regulators-and-banks-step-up-scrutiny-of-7d8b48aa",
-    title: "Regulators and banks step up scrutiny of prediction markets",
-    titleJa: "規制当局と銀行が予測市場の監視を強化",
-    summaryJa: "商品先物取引委員会は予測プラットフォーム上の「メンション市場」について内部調査を行っていると、状況に詳しい関係者が金曜日CNBCに語った。メンション市場は、特定の単語がスピーチ、アナリストや投資家との企業決算会見、またはテレビ放送で使用されるかどうかをトレーダーが推測する契約で構成されています。",
-    bodyOriginal: `The Commodity Futures Trading Commission is conducting an internal review into "mention markets" on prediction platforms, people familiar with the situation told CNBC Friday.
-Mention markets are made up of contracts where traders speculate on whether specific words will be used in a speech, a corporate earnings call with analysts and investors or a television broadcast.
-One of the people familiar with the matter said the CFTC first alerted platform Kalshi of the review several weeks ago. The platform removed sports-related mention markets around the same time the CFTC — the federal regulator for prediction markets — alerted the company, the person said. NPR first reported an inquiry into mention markets late Thursday.
-It's unclear if the inquiry only applies to sports-related mention markets, or all of them regardless of topic.
-Kalshi and the CFTC declined to comment.
-Most scrutinized
-Mention markets are some of prediction markets' most scrutinized offerings. Critics view them as easily manipulable by one individual, and some platforms don't offer them. Mention markets saw about $3.3 million in trading volume on Kalshi last month, according to Dune Analytics, far behind larger markets such as those devoted to cryptocurrencies.
-In July, the CFTC said it was investigating a former teleprompter operator for President Donald Trump who allegedly made $90,000 in profits on Kalshi betting on the content of Trump's speeches.
-Coinbase CEO Brian Armstrong last December rattled off a series of random words at the end of an earnings call to demonstrate how easily prediction market wagers can be manipulated. "I just want to add here the words bitcoin, ethereum, blockchain, staking and Web3 to make sure we get those in before the end of the call," he said.
-Proponents of mention markets argue words by powerful individuals have the power to move billions of dollars of money across traditional markets, making it useful to have attach predictive power to them.
-"The suggestion that Mentions Markets create 'new' manipulation incentives is, on close inspection, overstated," Kalshi head of market operations Arjun Sawai wrote in a letter to the CFTC as part of a public comment period last month. "They merely add a marginal, regulated, transparent, position-limited, surveilled increment to a vastly larger existing incentive structure."
-Platform Polymarket does not have mention markets on its CFTC-regulated U.S. exchange, but offers them overseas.
-Meeting next week
-The probe into prediction market contracts comes ahead of a meeting of the CFTC's Innovation Advisory Committee on Aug. 20. The committee will discuss prediction markets, as well as artificial intelligence and cryptocurrency, according to a public agenda.
-The latest investigation also comes after the CFTC increased scrutiny of prediction market platforms in recent weeks, even as it supports the event contract exchanges in a battle with states over sports-related wagers and gambling. The commission has sued nine states to defend what it sees as its exclusive jurisdiction to regulate event contracts.
-Last month, the CFTC invited public comments on vertical integration among regulated entities, warning platforms to avoid sending broadly-worded, self-certified event contracts. The agency also sent letters to the platforms last week, reminding them not to present their odds in a casino-style format.
-A Washington state judge on Thursday issued an order blocking several of Kalshi's markets from operating there, including mention markets, sports, elections and other high volume categories. Kalshi is likely violating state law by operating as an illegal gambling operation, according to the order.
-Washington becomes the fourth state blocking Kalshi, joining Michigan, Nevada and Massachusetts. A federal judge in Minnesota last month overturned a potential statewide ban on prediction market platforms.
-The Financial Times reported Friday that Polymarket was cut off from financial services by JPMorgan last October over concerns about government regulation. A Polymarket spokesperson told CNBC it's still maintaining a relationship with the largest U.S. bank.
-"We maintain a close, active relationship with JPMorgan across multiple entities, operational integrations, and material handling customer fund flows; the strength of our relationship is highlighted by our CEO speaking at three of their flagship events in the past year alone," a Polymarket spokesperson said in a statement. "Any suggestion otherwise fundamentally mischaracterizes our relationship."
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `商品先物取引委員会は予測プラットフォーム上の「メンション市場」について内部調査を行っていると、状況に詳しい関係者が金曜日CNBCに語った。
-メンション市場は、特定の単語がスピーチ、アナリストや投資家との企業決算会見、またはテレビ放送で使用されるかどうかをトレーダーが推測する契約で構成されています。
-関係者の１人によると、ＣＦＴＣは数週間前にプラットフォームのカルシに初めてこの見直しについて警告した。この関係者によると、予測市場の連邦規制当局であるCFTCが同社に警告したのとほぼ同時に、同プラットフォームはスポーツ関連の言及市場を削除したという。 NPRは木曜遅くにメンション市場への調査を初めて報じた。
-この調査がスポーツ関連の言及市場のみに適用されるのか、それとも話題に関係なくすべての市場に適用されるのかは不明である。
-カルシとCFTCはコメントを控えた。
-最も精査されている
-メンション マーケットは、予測マーケットの中でも最も精査されたサービスの一部です。批評家は、それらは個人によって簡単に操作できるものとみなしており、一部のプラットフォームではそれらを提供していません。デューン・アナリティクスによると、先月のカルシのメンション市場の取引高は約330万ドルで、仮想通貨専用の市場などの大規模市場に大きく及ばない。
-CFTCは7月、トランプ大統領の演説内容に賭けてカルシで9万ドルの利益を得た疑いで、ドナルド・トランプ大統領の元テレプロンプターオペレーターを捜査していると発表した。
-コインベースのCEOブライアン・アームストロング氏は昨年12月、決算会見の最後にランダムな言葉を連発して、予測市場の賭け金がいかに簡単に操作できるかを実証した。 「電話が終わる前にそれらを確実に理解できるように、ビットコイン、イーサリアム、ブロックチェーン、ステーキング、Web3という言葉をここに追加したいと思います」と彼は述べた。
-言及市場の支持者は、有力な個人の言葉には従来の市場全体で数十億ドルの資金を動かす力があり、それに予測力を持たせることが有益であると主張する。
-「メンション市場が『新たな』操作インセンティブを生み出すという提案は、よく調べてみると誇張されている」とカルシの市場運営責任者アルジュン・サワイ氏は先月のパブリックコメント期間の一環としてCFTCに宛てた書簡の中で述べた。 「それらは、非常に大規模な既存のインセンティブ構造に、限界的で、規制され、透明性があり、ポジションが限定され、監視されている増分を追加するだけです。」
-プラットフォーム Polymarket は、CFTC 規制の米国取引所に市場を記載していませんが、海外では市場を提供しています。
-来週の会議
-予測市場契約に関する調査は、8月20日に開催されるCFTCのイノベーション諮問委員会の会合に先立って行われる。公開議題によると、同委員会では予測市場のほか、人工知能や仮想通貨についても議論される予定だという。
-今回の調査は、CFTCがスポーツ関連の賭博や賭博を巡る各国との争いでイベント契約の取り交わしを支持しながらも、ここ数週間で予想市場プラットフォームへの監視を強化したことを受けて行われた。同委員会は、イベント契約を規制する独占的管轄権を擁護するために9つの州を訴えた。
-CFTCは先月、規制対象事業体間の垂直統合に関するパブリックコメントを募集し、広義の自己認証イベント契約書の送付を避けるようプラットフォームに警告した。同庁は先週、各プラットフォームに書簡を送り、オッズをカジノ形式の形式で提示しないよう注意を促した。
-ワシントン州の判事は木曜日、言及市場、スポーツ、選挙、その他の取引量の多いカテゴリーを含むカルシのいくつかの市場のそこでの運営を阻止する命令を出した。命令によると、カルシ氏は違法賭博事業として州法に違反している可能性があるという。
-ワシントン州はミシガン州、ネバダ州、マサチューセッツ州に続き、カルシを阻止する4番目の州となる。ミネソタ州の連邦判事は先月、予測市場プラットフォームに対する州全体の禁止の可能性を覆した。
-フィナンシャル・タイムズ紙は金曜日、ポリマーケットが政府規制への懸念を理由に昨年10月にJPモルガンによって金融サービスから切り離されたと報じた。ポリマーケットの広報担当者はＣＮＢＣに対し、米最大手銀行との関係は引き続き維持していると語った。
-ポリマーケットの広報担当者は声明で、「当社は、複数の事業体、業務統合、顧客の資金の流れのマテリアルハンドリングにおいて、JPモルガンと緊密かつ積極的な関係を維持している。当社の関係の強さは、当社のCEOが過去1年だけで3つの主力イベントで講演したことからも明らかだ」と述べた。 「それ以外のいかなる提案も、私たちの関係を根本的に誤ったものにしてしまいます。」
-開示: CNBC とカルシには、顧客の獲得と少数出資を含む商業関係があります。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
-    publishedAt: "2026-08-14T19:21:49+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "mangione-admits-killing-healthcare-ceo-a-989a69b7",
-    title: "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-    titleJa: "マンジョーネ氏、ヘルスケアCEO殺害を認め、連邦容疑で有罪を認める",
-    summaryJa: "マンジョーネ氏、ヘルスケアCEO殺害を認め、連邦容疑で有罪を認める- 公開されました",
-    bodyOriginal: `Mangione admits killing healthcare CEO and pleads guilty to federal charges
-- Published
-Luigi Mangione has admitted to killing UnitedHealthcare CEO Brian Thompson, pleading pleaded guilty to federal charges of interstate stalking resulting in death.
-"I shot Mr Thompson in Manhattan and he died," the 28-year-old admitted in federal court in Manhattan on Friday.
-Thompson, a 50-year-old father of two, was shot from behind on 4 December 2024 as he walked into a hotel in midtown Manhattan. Following the plea hearing, his family issued a statement calling it "an important step toward justice for Brian and for our family".
-Mangione faces a maximum sentence of life in prison. He also faces state charges, although his lawyers are seeking to get those dismissed following his guilty plea.
-Mangione had initially pleaded not guilty in both the federal and state cases against him over the fatal shooting of Thompson.
-His lawyers announced that he intended to plead guilty to the two federal charges against him at Friday's federal court hearing.
-Wearing a beige prison outfit, Mangione appeared solemn and serious throughout the hearing.
-Reading a statement aloud to the court, he admitted to planning the attack ahead of time, crossing state lines with the intent to kill and using a gun he printed using a 3D printer and equipped with a silencer and magazine.
-He told the court he was driven to kill Thompson because of his experience with the healthcare system "after years of enduring severe pains from a broken back".
-Mangione stated that he had learned UnitedHealthcare would be holding an annual investor conference in Manhattan in December 2024.
-He then travelled to New York for the event, he told the court.
-He also said he emailed UnitedHealthcare prior to the conference "posing as an investor" and asking questions about the event.
-"I emailed UnitedHealthcare with the intent to shoot Brian Thompson," Mangione said in his statement. "On the morning of Dec. 4, 2024 I shot Mr. Thompson in Manhattan in his back."
-The sentencing for the federal charges is scheduled for 18 December.
-Thompson's family said in a statement that they will continue to seek justice in both New York state and Pennsylvania, where Mangione was arrested.
-"While nothing will ease the pain of losing him, we are grateful that the federal justice system has held the person responsible for this heinous act accountable," they said.
-"Now we look to the court to ensure that sentencing reflects the severity of this crime."
-Prosecutors have recommended Mangione serve 24-30 years in prison. But Judge Margaret Garnett said in court that she would ultimately decide his sentence.
-Garnett explained to Mangione that the recommendation was not binding and that the maximum sentence was life in prison along with financial penalties. There is no parole in the federal system.
-Mangione's guilty plea could now throw a wrench into his New York state case.
-With the trial scheduled to begin in September, he faces eight state charges including second degree murder, possession of a forged instrument (for alleged fake driver's licence) and six counts of criminal possession of a weapon.
-On the steps of the court on Friday, his lawyers argued that because he had already pleaded guilty to federal charges, the state case ran afoul of double jeopardy – a constitutional protection that prevents an individual from being prosecuted twice for the same crime.
-"New York law does not permit a person to be prosecuted and punished twice for the exact same crime," his lawyer Karen Friedman Agnifilo said.
-She also said that, in making a guilty plea in federal court, Mangione has accepted "full responsibility" for the death of Brian Thompson.
-But the Manhattan District Attorney's office says it is prepared to go ahead with the state prosecution.
-"We are encouraged that Mr Thompson's family received a measure of accountability today," the statement said.
-"While federal sentencing is pending, we are prepared to litigate the defence motions. The Manhattan DA's Office remains committed to seeking justice for Mr Thompson and his family."
-Related topics
-- Published8 hours ago`,
-    bodyJa: `マンジョーネ氏、ヘルスケアCEO殺害を認め、連邦容疑で有罪を認める
-- 公開されました
-ルイージ・マンジョーネ氏は、ユナイテッドヘルスケアCEOのブライアン・トンプソン氏を殺害したことを認め、州間ストーカー致死事件の連邦容疑で有罪を認めた。
-金曜日、マンハッタンの連邦裁判所で28歳の彼は「私がマンハッタンでトンプソン氏を撃って死亡した」と認めた。
-2人の子供の父親である50歳のトンプソンさんは、2024年12月4日にマンハッタンのミッドタウンのホテルに入ったところを後ろから撃たれた。司法審問の後、彼の家族は声明を発表し、これは「ブライアンと私たちの家族にとって正義への重要な一歩」であると述べた。
-マンジョーネ氏には最高で終身刑が言い渡される可能性がある。同氏は国家告訴にも直面しているが、弁護士らは有罪答弁を受けてこれらの告発を却下するよう求めている。
-マンジョーネ氏は当初、トンプソン射殺事件を巡る連邦訴訟と州訴訟の両方で無罪を主張していた。
-同氏の弁護士は、金曜日の連邦裁判所公聴会で同氏に対する2件の連邦告訴について有罪を認めるつもりであると発表した。
-ベージュの囚人服を着たマンジョーネ氏は公聴会中、終始厳粛かつ真剣な表情を浮かべていた。
-法廷で陳述書を読み上げた同氏は、事前に攻撃を計画し、殺害の目的で州境を越え、3Dプリンターで印刷しサイレンサーと弾倉を取り付けた銃を使用したことを認めた。
-同被告は法廷で、「腰痛によるひどい痛みに何年も耐えた後」、医療制度での経験が原因でトンプソンさんを殺害する衝動に駆られたと述べた。
-マンジョーネ氏は、ユナイテッドヘルスケアが2024年12月にマンハッタンで年次投資家会議を開催することを知ったと述べた。
-その後、イベントのためにニューヨークに旅行したと彼は法廷で語った。
-同氏はカンファレンス開催前に「投資家を装って」ユナイテッドヘルスケアに電子メールを送り、イベントに関する質問をしたとも述べた。
-マンジョーネ氏は声明で「ブライアン・トンプソン氏を射殺するつもりでユナイテッドヘルスケアにメールを送った」と述べた。 「2024年12月4日の朝、私はマンハッタンでトンプソン氏の背中を撃った。」
-連邦罪に対する判決は12月18日に予定されている。
-トンプソンさんの家族は声明で、マンジョーネさんが逮捕されたニューヨーク州とペンシルベニア州の両方で正義を求め続けると述べた。
-「彼を失った悲しみを和らげるものは何もないが、連邦司法制度がこの凶悪な行為の責任者を責めてくれたことに感謝している」と彼らは述べた。
-「我々は現在、この犯罪の重大さを反映した量刑が下されるよう法廷に期待している。」
-検察はマンジョーネ氏に２４年から３０年の懲役を勧告した。しかし、マーガレット・ガーネット判事は法廷で、最終的には自分が判決を下すだろうと述べた。
-ガーネット氏はマンジョーネ氏に対し、この勧告には拘束力はなく、最高刑は終身刑と金銭的罰金であると説明した。連邦制度には仮釈放はありません。
-マンジョーネ氏の有罪答弁は、ニューヨーク州の訴訟に大きな影響を与える可能性がある。
-裁判は9月に始まる予定で、同氏は第2級殺人、偽造器具所持（偽造運転免許証の疑い）、武器所持の6件を含む8件の州罪に直面している。
-金曜日の法廷で、弁護士らは、同氏がすでに連邦政府の告訴に対して有罪を認めているため、この州の訴訟は二重の危険、つまり同一の罪で個人が二度訴追されることを防ぐ憲法上の保護に抵触していると主張した。
-同氏の弁護士カレン・フリードマン・アグニフィロ氏は、「ニューヨーク州の法律では、まったく同じ犯罪で人を二度起訴し、処罰することは認められていない」と述べた。
-また、マンジョーネ氏は連邦裁判所で有罪を認め、ブライアン・トンプソン氏の死に対する「全責任」を認めたと述べた。
-しかしマンハッタン地方検事局は州訴追を進める用意があると述べている。
-「トンプソン氏の家族が本日一定の説明責任を負ったことを心強く思う」と声明で述べた。
-「連邦刑の判決は係争中であるが、我々は弁護申し立てを訴訟する用意がある。マンハッタン検察局はトンプソン氏とその家族に対する正義の追求に引き続き尽力する。」
-関連トピック
-- 8 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-14T19:20:43+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg",
-    readTime: 4,
-  },
-  {
-    id: "16-beaten-down-ai-stocks-that-are-belove-c10cb3e3",
-    title: "16 beaten-down AI stocks that are beloved by BofA analysts",
-    titleJa: "BofAアナリストに愛される16のボロボロのAI株",
-    summaryJa: "アナリストらによると、最近のAI関連株の下落は、ハードウェア、インターネット、エネルギー分野の投資家にチャンスをもたらしているという。",
-    bodyOriginal: `A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.`,
-    bodyJa: `アナリストらによると、最近のAI関連株の下落は、ハードウェア、インターネット、エネルギー分野の投資家にチャンスをもたらしているという。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
-    publishedAt: "2026-08-14T19:09:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-65244158",
-    readTime: 2,
-  },
-  {
-    id: "a-plan-to-save-social-security-involves-8780db7f",
-    title: "A plan to save Social Security involves high earners paying more in taxes — without getting more in benefits",
-    titleJa: "社会保障を節約する計画では、高額所得者がより多くの給付金を受け取ることなく、より多くの税金を支払う必要がある",
-    summaryJa: "税の上限の撤廃は、社会保障財政の強化に役立つ可能性のある提案の 1 つにすぎません。",
-    bodyOriginal: `Eliminating the tax cap is just one of the proposals that could help shore up Social Security’s finances.`,
-    bodyJa: `税の上限の撤廃は、社会保障財政の強化に役立つ可能性のある提案の 1 つにすぎません。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/a-plan-to-save-social-security-involves-wealthy-people-paying-more-without-getting-an-increase-in-benefits-f9d70307?mod=mw_rss_topstories",
-    publishedAt: "2026-08-14T18:47:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-21882129",
-    readTime: 2,
-  },
-  {
-    id: "congress-changed-the-rules-around-charit-8f16ff5e",
-    title: "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
-    titleJa: "議会は慈善寄付に関する規則を変更した。年の早い時期に寄付すると、より多くのお金を節約できるようになります。",
-    summaryJa: "議会は今年、慈善事業控除に関する3つの規則を変更した。最近人々が慈善団体にお金を寄付する最も一般的な方法は、おそらく最も高価な方法でもあります。",
-    bodyOriginal: `Congress changed three charitable-deduction rules this year. The most common way people give money to charities these days is now also probably the most expensive way.`,
-    bodyJa: `議会は今年、慈善事業控除に関する3つの規則を変更した。最近人々が慈善団体にお金を寄付する最も一般的な方法は、おそらく最も高価な方法でもあります。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-    publishedAt: "2026-08-14T18:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-00909168",
-    readTime: 2,
-  },
-  {
-    id: "luigi-mangione-pleads-guilty-in-federal-28ce02b1",
-    title: "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
-    titleJa: "ルイージ・マンジョーネ氏、ユナイテッドヘルスケアCEO殺害に関する連邦訴訟で有罪を認める",
-    summaryJa: "マンジョーネ氏の弁護士らは、マンジョーネ氏の連邦申し立てにより、ニューヨーク州二重危険法によりブライアン・トンプソン氏殺害の州裁判所での殺人罪での起訴が妨げられると主張している。",
-    bodyOriginal: `Luigi Mangione pleaded guilty Friday in New York federal court to stalking UnitedHealthcare CEO Brian Thompson before fatally shooting him on a midtown Manhattan street in December 2024.
-Mangione's lawyers immediately afterward filed a motion in New York state court saying that charges of murder and multiple firearms counts against the Ivy League graduate in that court for Thompson's slaying should be tossed out under the state's double jeopardy law because of his federal plea.
-Mangione, 28, said Friday in Manhattan U.S. District Court that he traveled to New York with the intention of killing Thompson after reaching out to UnitedHealthcare and pretending to be an investor ahead of a company conference at a Manhattan hotel.
-"I shot Mr. Thompson in Manhattan, and he died," Mangione said, according to MS NOW. "I knew what I was doing was illegal."
-Thompson's company, which is a division of UnitedHealth Group, is the largest health insurer in the United States. Thompson was gunned down on the sidewalk outside the Hilton hotel on Dec. 4, 2024.
-Mangione, a 2020 graduate of the University of Pennsylvania, was apprehended by local police five days later in a McDonald's in Altoona, Pennsylvania, after someone recognized him from a surveillance photo.
-Mangione, who told District Court Judge Margaret Garnett that he was motivated after suffering years of pain from a broken back, faces a maximum possible sentence of life in prison. Sentencing is scheduled for Dec. 18.
-Manhattan U.S. Attorney Jamie McDonald said he will seek a sentence of life for the charges of interstate stalking resulting in Thompson's death, and use of electronic communications to stalk the 50-year-old CEO.
-McDonald and Amanda Houle, chief of the office's criminal division, were sitting in the front row of court next to Thompson's widow and family during Friday's plea hearing, MS NOW reported. UnitedHealthcare executives sat in the row behind them.
-"Today's guilty plea marks an important step toward justice for Brian and for our family," Thompson's family said in a statement. "While nothing will ease the pain of losing him, we are grateful that the federal justice system has held the person responsible for this heinous act accountable."
-"Now we look to the court to ensure that sentencing reflects the severity of this crime," the family said. "We remain mindful that additional proceedings in New York and Pennsylvania are still to come, and we will continue to seek the justice Brian deserves."
-Mangione's plea came weeks before jury selection is scheduled to start for his Manhattan Supreme Court trial on a charge of murdering Thompson.
-It is not clear if that trial will begin on Sept. 8 given defense attorneys' new motion asking a judge to toss the state charges because of Friday's plea in federal court.
-Under New York's double jeopardy law, a person cannot be separately prosecuted for offenses based upon the same criminal act, a state appeals court has held.
-"Despite this being a single isolated event, Mr. Mangione has been unfairly treated since the outset in every way," his lawyer, Karen Friedman Agnifilo, told reporters after the plea hearing.
-"He's been treated differently from every other defendant charged with this offense in New York," Friedman Agnifilo said.
-"As Luigi explained in court today, he endured years of severe, debilitating pain following a broken back while struggling to navigate our healthcare and health insurance systems," she said. "Like the thousands of people who have reached out since this tragedy to share their own experiences, he believed that system had failed him and destroyed his life."
-A spokeswoman for Manhattan District Attorney Alvin Bragg, whose office is prosecuting Mangione in state court, said in a statement the office would fight the effort to dismiss the case.
-"Since December 2024, the Manhattan D.A.'s Office has been tirelessly preparing to pursue a trial conviction in New York State Supreme Court for the alleged cold-blooded murder of Brian Thompson," the spokeswoman said.
-"We are encouraged that Mr. Thompson's family received a measure of accountability today. While federal sentencing is pending, we are prepared to litigate the defense motions," the spokeswoman said. "The Manhattan D.A.'s Office remains committed to seeking justice for Mr. Thompson and his family."
-UnitedHealth Group, in a statement after the plea hearing, said, "Brian Thompson's life was cut short by an act of violence that devastated everyone who knew and loved him."
-"We are grateful to law enforcement for bringing Brian's murderer to justice, and our thoughts remain with Brian's family and loved ones during this difficult time," the company said.`,
-    bodyJa: `ルイージ・マンジョーネ氏は金曜日、ニューヨーク連邦裁判所で、ユナイテッドヘルスケアCEOのブライアン・トンプソン氏をストーカー行為し、2024年12月にマンハッタンのミッドタウンの通りで同氏を射殺したとして有罪を認めた。
-その直後、マンジョーネ氏の弁護士らはニューヨーク州裁判所に申し立てを行い、トンプソン氏殺害に関して同法廷で提起されているアイビーリーグ卒業生のマンジョーネ氏に対する殺人と複数の銃器の罪は、連邦政府の嘆願を理由に州の二重危険法に基づき破棄されるべきであるとの申し立てを行った。
-28歳のマンジョーネ被告は金曜日、マンハッタン連邦地方裁判所で、マンハッタンのホテルでの社内会議を前にユナイテッドヘルスケアに連絡を取り、投資家のふりをした後、トンプソンさんを殺害する目的でニューヨークに旅行したと述べた。
-MS NOWによると、マンジョーネ氏は「マンハッタンでトンプソン氏を射殺し、彼は死亡した」と語った。 「自分のやっていることは違法であることは分かっていました。」
-トンプソン氏の会社はユナイテッドヘルス・グループの一部門で、米国最大の医療保険会社である。トンプソンさんは2024年12月4日にヒルトンホテルの外の歩道で銃撃された。
-ペンシルベニア大学を2020年に卒業したマンジョーネ氏は、5日後にペンシルベニア州アルトゥーナのマクドナルドで、何者かが監視写真からマンジョーネ氏を認識したとして地元警察に逮捕された。
-マンジョーネ被告は地方裁判所のマーガレット・ガーネット判事に対し、腰の骨折による長年の痛みに苦しんだ後に動機を与えたと語ったが、最高で終身刑が言い渡される可能性がある。判決は12月18日に予定されている。
-マンハッタンのジェイミー・マクドナルド連邦検事は、トンプソン氏を死亡させた州間ストーカー行為と、50歳のCEOをストーカーするために電子通信を使用した罪で終身刑を求刑すると述べた。
-MS NOWの報道によると、マクドナルド氏と同局刑事部門の責任者アマンダ・ホール氏は金曜日の司法弁論中、法廷の最前列でトンプソン氏の未亡人と家族の隣に座っていた。ユナイテッドヘルスケアの幹部らは彼らの後ろの列に座っていた。
-トンプソンさんの遺族は声明で「今日の有罪答弁は、ブライアンと私たち家族にとって、正義への重要な一歩となる」と述べた。 「彼を失った悲しみを和らげるものは何もありませんが、連邦司法制度がこの凶悪な行為の責任者を責めてくれたことに感謝しています。」
-遺族は「現在、私たちは判決がこの犯罪の重大さを反映しているかどうか裁判所に期待している」と述べた。 「我々はニューヨークとペンシルベニアでの追加訴訟が今後も続くことを念頭に置き、ブライアンにふさわしい正義を求め続けていく」と述べた。
-マンジョーネ氏の嘆願は、トンプソン氏殺害の容疑でマンハッタン最高裁判所で行われる裁判の陪審員選びが始まる数週間前に行われた。
-金曜日の連邦裁判所での嘆願を理由に裁判官に州罪を破棄するよう求める弁護人の新たな申し立てを考慮すると、その裁判が9月8日に始まるかどうかは不明である。
-ニューヨーク州の二重危険法の下では、同じ犯罪行為に基づく犯罪で人を別々に訴追することはできないと州控訴裁判所が判断した。
-弁護人のカレン・フリードマン・アグニフィロ氏は、弁護団後、「これは単独の出来事であるにもかかわらず、マンジョーネ氏は最初からあらゆる面で不当な扱いを受けてきた」と記者団に語った。
-フリードマン・アグニフィロ氏は、「彼はニューヨークでこの罪で起訴された他のすべての被告とは異なる扱いを受けてきた」と語った。
-「ルイージさんが今日法廷で説明したように、彼は腰痛を患い、医療制度や健康保険制度をうまく使いこなすのに苦労しながら、何年も重度の衰弱性の痛みに耐えてきた」と彼女は述べた。 「この悲劇以来、自分の経験を分かち合うために手を差し伸べた何千人もの人々と同じように、彼はシステムが自分を失望させ、自分の人生を破壊したと信じていました。」
-州裁判所でマンジョーネ氏を訴追しているマンハッタン地方検事アルビン・ブラッグ氏の広報担当者は声明で、同局は訴訟の却下に向けた取り組みと戦うと述べた。
-「2024年12月以来、マンハッタン検察局は、ブライアン・トンプソン氏の冷酷な殺人容疑について、ニューヨーク州最高裁判所で有罪判決を得るべく精力的に準備を進めてきた」と広報担当者は述べた。
-「トンプソン氏の家族が本日、一定の説明責任を負ったことを心強く思っている。連邦判決は保留中だが、弁護動議を訴訟する用意がある」と広報担当者は述べた。 「マンハッタン検察局は、トンプソン氏とその家族に対する正義の追求に引き続き尽力する。」
-ユナイテッドヘルス・グループは司法審問後の声明で、「ブライアン・トンプソンさんの命は暴力行為によって短くされ、彼を知り愛していたすべての人に衝撃を与えた」と述べた。
-同社は「ブライアンを殺害した犯人に裁判を起こしてくれた法執行機関に感謝しており、この困難な時期にブライアンの家族や愛する人たちに思いを馳せ続ける」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/luigi-mangione-pleads-guilty-brian-thompson-killing.html",
-    publishedAt: "2026-08-14T18:43:55+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
   },
 ];
 
