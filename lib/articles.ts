@@ -15,6 +15,140 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "the-mediterranean-diet-is-the-best-out-t-b0730873",
+    title: "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
+    titleJa: "地中海食は最高です。アメリカ人がそれに苦労する理由はここにあります。",
+    summaryJa: "ただよく食べるというだけではありません。それは家で料理をし、その食事を友人や家族と共有することです。",
+    bodyOriginal: `It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.`,
+    bodyJa: `ただよく食べるというだけではありません。それは家で料理をし、その食事を友人や家族と共有することです。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
+    publishedAt: "2026-08-16T12:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-75431479",
+    readTime: 2,
+  },
+  {
+    id: "top-wall-street-analysts-like-these-3-di-88d0d112",
+    title: "Top Wall Street analysts like these 3 dividend stocks for steady income",
+    titleJa: "ウォール街のトップアナリストは、安定した収入を期待できるこれら 3 つの配当株を気に入っています",
+    summaryJa: "中東の地政学的な緊張とAIブームの持続可能性への懸念の中で、株式市場は引き続きボラティリティーとの闘いが続いている。この不確実性を考慮すると、安定した収入を求める投資家は、高配当株をポートフォリオに追加することができます。ウォール街のトップアナリストの推奨事項を追跡することは、投資家が適切な配当銘柄を選択するのに役立ちます。これらの専門家は、企業の財務状況と配当を安定的に支払う能力を詳細に分析した後に格付けを割り当てるからです。",
+    bodyOriginal: `The stock market continues to grapple with volatility amid geopolitical tensions in the Middle East and concerns about the sustainability of the AI boom. Given this uncertainty, investors looking for steady income can add dividend-paying stocks to their portfolios.
+Tracking the recommendations of top Wall Street analysts can help investors pick the right dividend stocks, as these experts assign their ratings after an in-depth analysis of a company's financials and ability to pay dividends consistently.
+Here are three dividend-paying stocks that are highlighted by Wall Street's top pros, as tracked by TipRanks, a platform that ranks analysts based on their past performance.
+Phillips 66
+Downstream energy company Phillips 66 (PSX) is this week's first dividend pick. With a quarterly dividend $1.27 per share (annualized dividend of $5.08), PSX offers a yield of 2.25%. The company recently reported solid Q2 earnings, as the Middle East conflict affected global supplies and drove up refining margins.
+Following the Q2 print, TD Cowen analyst Jason Gabelman reiterated a buy rating on Phillips 66 and raised his price target to $255 from $240, reflecting higher 2026 earnings expectations and lower interest expense next year.
+Gabelman highlighted the quarter-over-quarter reduction in Phillips 66's net debt, noting management's optimism at achieving its estimated $15.5 billion net debt target one year ahead of schedule. The 5-star analyst expects the company to end 2026 with a net debt of $14.6 billion.
+"The [balance sheet] improvement could re-establish PSX as a go-to defensive refiner," said Gabelman.
+Management agreed that PSX's payout ratio lagged year-to-date, but expects buybacks to increase in the second half. Gabelman said Phillps indicated the possibility of a larger dividend hike following an annual increase of 5% over the past two years.
+Gabelman ranks No. 554 among more than 12,400 analysts tracked by TipRanks. His ratings have been profitable 66% of the time, delivering an average return of 14.9%. See Phillips 66 Statistics on TipRanks.
+Crescent Energy
+Crescent Energy (CRGY) is an exploration and production company with activities focused in the Eagle Ford, Permian and Uinta Basins. Earlier this month, the company reported better-than-expected Q2 earnings and announced a quarterly dividend of $0.12 per share, payable on August 31. At an annualized dividend of $0.48 per share, CRGY boasts a dividend yield of about 4%.
+In reaction to Q2 results, Evercore analyst Stephen Richardson reaffirmed a buy rating on Crescent Energy stock with a price target of $18. He noted continued strength in the company's performance, with second-quarter oil production and cash flow surpassing the Street's expectations.
+"CRGY's cash flow exceeded expectations by 10%, reinforcing its trajectory of capital efficiency," said Richardson.
+The 5-star analyst highlighted that Crescent raised its full-year oil production guidance, citing the effective integration of the Vital Energy acquisition. Specifically, Crescent tripled its synergy target from the Vital Energy deal to as much as $300 million, significantly reducing the effective purchase price. This reflects Crescent's solid execution following the acquisition, Richardson said.
+Additionally, the analyst noted that Crescent's capital spending is and heading toward the lower end of management's prior guidance, indicating disciplined financial controls.
+Richardson ranks No. 579 among more than 12,400 analysts tracked by TipRanks. His ratings have been successful 65% of the time, delivering an average return of 12.5%. See Crescent Energy Ownership Structure on TipRanks.
+Viper Energy
+Finally, Viper Energy (VNOM) is effectively controlled by Diamondback Energy. Viper owns and acquires mineral and royalty interests in oil-weighted basins, mainly the Permian in West Texas. Viper recently announced its Q2 2026 results and declared a 32% hike in its base dividend, effective in the third quarter of 2026. The new base dividend indicates a 4.5% annualized yield.
+Viper also removed its quarterly commitment to return at least 75% of cash available for distribution. The company believes that this move will ensure increased flexibility to make opportunistic share repurchases and pursue accretive mergers and acquisitions.
+Following the Q2 results, TD Cowen analyst Aaron Bilkoski reiterated a buy rating on Viper, slightly raising his price target to $59 from $58. Bilkoski said Viper's solid Q2 performance supports his view that the strength in oil prices and rising operator activity are driving higher production.
+"Viper has delivered, and we forecast will continue to deliver, one of the highest production per share growth profiles in our royalty universe" through the end of 2027, said Bilkoski. He believes Viper deserves a premium valuation, given its above-average growth.
+The 5-star analyst said that while the biggest surprise in the quarter was Viper's revision to its shareholder return framework, he doesn't believe that the move indicates a significant change to its underlying strategy. Under the new framework, a larger portion of excess free cash flow is expected to be allocated to share repurchases than to variable dividends, Bilkoski said.
+Bilkoski ranks No. 719 among more than 12,400 analysts tracked by TipRanks. His ratings have been profitable 57% of the time, delivering an average return of 12%. See Viper Energy Financials on TipRanks.`,
+    bodyJa: `中東の地政学的な緊張とAIブームの持続可能性への懸念の中で、株式市場は引き続きボラティリティーとの闘いが続いている。この不確実性を考慮すると、安定した収入を求める投資家は、高配当株をポートフォリオに追加することができます。
+ウォール街のトップアナリストの推奨事項を追跡することは、投資家が適切な配当銘柄を選択するのに役立ちます。これらの専門家は、企業の財務状況と配当を安定的に支払う能力を詳細に分析した後に格付けを割り当てるからです。
+過去のパフォーマンスに基づいてアナリストをランク付けするプラットフォームであるTipRanksが追跡した、ウォール街のトッププロによって注目されている高配当株3つを紹介します。
+フィリップス66
+今週の最初の配当候補は下流エネルギー会社フィリップス 66 (PSX) です。 PSX の四半期配当は 1 株あたり 1.27 ドル (年換算配当は 5.08 ドル) で、利回りは 2.25% です。中東紛争が世界的な供給に影響を及ぼし、精製マージンを押し上げたため、同社は最近第2四半期の堅調な収益を報告した。
+第2四半期の記事に続いて、TDコーウェンのアナリスト、ジェイソン・ゲーベルマン氏はフィリップス66の買い評価を繰り返し、2026年の収益予想の上昇と来年の支払利息の低下を反映して目標株価を240ドルから255ドルに引き上げた。
+ガベルマン氏は、フィリップス66の純負債が前四半期比で減少していることを強調し、予定より1年前倒しして推定155億ドルの純負債目標を達成することに経営陣が楽観的であることを指摘した。五つ星アナリストは、同社が2026年末に純負債146億ドルを抱えると予想している。
+「（バランスシートの）改善により、PSXは頼りになるディフェンスのリファインナーとして再確立される可能性がある」とガベルマン氏は語った。
+経営陣は、PSXの配当性向が年初来で遅れていることに同意したが、下半期には自社株買いが増加すると予想している。ガベルマン氏は、過去２年間の年間５％増配に続き、フィリップスがさらに増配の可能性を示唆したと述べた。
+ガベルマン氏は、TipRanks が追跡する 12,400 人以上のアナリストの中で 554 位にランクされています。彼の評価は 66% の確率で利益を上げており、平均リターンは 14.9% です。 TipRanks の Phillips 66 統計を参照してください。
+クレセントエネルギー
+Crescent Energy (CRGY) は、イーグルフォード、パーミアン、ウインタ盆地に重点を置いて活動を行う探査および生産会社です。今月初め、同社は予想を上回る第2四半期利益を報告し、8月31日に支払われる1株当たり0.12ドルの四半期配当を発表した。年換算配当金は1株当たり0.48ドルで、CRGYは約4％の配当利回りを誇る。
+第2四半期の結果を受けて、エバーコアのアナリスト、スティーブン・リチャードソン氏は、クレセント・エナジー株の目標株価を18ドルとして買いとの評価を再確認した。同氏は、第２四半期の石油生産とキャッシュフローがストリートの予想を上回っており、同社の業績が引き続き好調であると指摘した。
+リチャードソン氏は「ＣＲＧＹのキャッシュフローは予想を１０％上回り、資本効率の軌道を強化した」と述べた。
+五つ星アナリストは、バイタル・エナジー買収の効果的な統合を理由に、クレセントが通年の石油生産見通しを引き上げたことを強調した。具体的には、クレセントはバイタル・エナジーとの契約によるシナジー目標を3倍の最大3億ドルに引き上げ、実質的な買収価格を大幅に引き下げた。リチャードソン氏は、これは買収後のクレセントの堅実な実行を反映していると述べた。
+さらに、アナリストは、クレセントの設備投資が経営陣の以前のガイダンスの下限に向かっており、規律ある財務管理を示していると指摘した。
+リチャードソン氏は、TipRanks が追跡する 12,400 人以上のアナリストの中で 579 位にランクされています。彼の評価は 65% の確率で成功し、平均 12.5% のリターンをもたらしました。 TipRanks の Crescent Energy の所有構造を参照してください。
+バイパーエネルギー
+最後に、Viper Energy (VNOM) は、Diamondback Energy によって事実上管理されています。バイパーは、主にテキサス州西部のペルム紀の石油加重盆地の鉱物権益とロイヤルティ権益を所有し、取得しています。バイパーは最近、2026年第2四半期の決算を発表し、2026年の第3四半期から基本配当を32％引き上げることを宣言した。新しい基本配当は年率4.5％の利回りを示している。
+バイパーはまた、分配可能な現金の少なくとも75％を還元するという四半期ごとの約束も解除した。同社は、この動きにより、機会を捉えた自社株買いや、拡大的な合併・買収を推進するための柔軟性が確実に高まると考えています。
+第2四半期の決算を受けて、TDコーウェンのアナリスト、アーロン・ビルコスキー氏はバイパーの買い評価を繰り返し、目標株価を58ドルから59ドルに若干引き上げた。ビルコスキー氏は、バイパーの第2四半期堅調な業績は、原油価格の堅調とオペレーターの活動の活発化が増産を推進しているという同氏の見解を裏付けていると述べた。
+ビルコスキー氏は、「バイパーは、2027年末まで当社ロイヤルティ分野で最も高い一株当たり生産高の成長プロファイルを実現しており、今後も実現し続けると予測している」と述べた。同氏は、平均を上回る成長を考えると、バイパーはプレミアム評価を受けるに値すると考えている。
+同５つ星のアナリストは、当四半期最大の驚きはバイパーの株主還元枠組みの改定だったが、この動きが同社の基本的な戦略の大幅な変更を示すものだとは考えていない、と述べた。新しい枠組みの下では、超過フリーキャッシュフローの大部分が変動配当よりも自社株買いに割り当てられるとビルコスキー氏は述べた。
+ビルコスキー氏は、TipRanks が追跡する 12,400 人以上のアナリストの中で 719 位にランクされています。彼の評価は 57% の確率で利益を上げており、平均リターンは 12% です。 TipRanks で Viper Energy の財務状況をご覧ください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+    publishedAt: "2026-08-16T11:58:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "walmart-and-target-are-about-to-reveal-t-74abaa6f",
+    title: "Walmart and Target are about to reveal the health of the U.S. consumer",
+    titleJa: "ウォルマートとターゲットは米国の消費者の健康状態を明らかにしようとしている",
+    summaryJa: "大手小売業者２社の収益報告は、インフレが続く時代に買い物客がどのように持ちこたえているかを示すことになるだろう。",
+    bodyOriginal: `Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.`,
+    bodyJa: `大手小売業者２社の収益報告は、インフレが続く時代に買い物客がどのように持ちこたえているかを示すことになるだろう。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
+    publishedAt: "2026-08-16T11:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-56384586",
+    readTime: 2,
+  },
+  {
+    id: "secret-outperformer-dispelling-the-myths-da20073d",
+    title: "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
+    titleJa: "隠れたアウトパフォーム企業: 愛されていない株式市場に関する「神話」を払拭する",
+    summaryJa: "欧州株は歴史的に、米国株や一部の急成長するアジア市場が享受するような投資家の熱狂を呼び起こすのに苦労してきた。この大陸には高成長企業が少なく、資本市場が浅く、長期的な利益成長のストーリーに説得力がないと考えられている。しかし、2025 年初頭の政府の財政支出の急増により、市場は活気を取り戻しました。今年の話はより微妙だが、汎欧州のStoxx 600指数は驚くほど回復力があることが証明された。",
+    bodyOriginal: `European equities have historically struggled to ignite the kind of investor enthusiasm enjoyed by U.S. stocks and certain fast-growing Asian markets. The continent has fewer high-growth companies, shallower capital markets and is thought to have a less compelling long-term earnings growth story.
+A spike in governments' fiscal spending at the beginning of 2025, however, brought the market to life. This year, the story is more nuanced, but the pan-European Stoxx 600 index has proved remarkably resilient.
+Europe's headline index tracks 600 large, medium, and small capitalization companies across 17 European countries, and is essentially the continent's equivalent of the S&P 500. The Stoxx 600 is up 10% in 2026 so far, slightly behind its North American counterpart, which has returned 13.5% over the same period.
+European markets tend to fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs last week attempted to dispel some of the "myths" about investing in Europe.
+"Performance [in Europe] has been far more mixed than the market narrative, or most investors realize," the analysts wrote in a August 10 note. "Since 2022, European banks have considerably outperformed the Magnificent 7. Since the start of 2025 — and despite both the tariff shock and an energy supply crisis, Europe's Stoxx has outperformed the S&P 500."
+Another "myth" cited by Goldman is the notion that Chinese competition is a major headwind for Europe's companies.
+"The stock market is not the economy and the largest sectors — financials, pharma, tech, energy, utilities, telecoms, aerospace and defense — are not especially vulnerable to low-cost China imports," Goldman added. "Autos are just 1% of Europe's market cap."
+The European autos sector has been much maligned, as the industry finds itself mired in a years-long structural crisis. Slowing demand for electric vehicles, lost market share to Chinese competitors and higher borrowing costs have created the perfect storm over the past five years, as sales volumes continue to slump well below pre-pandemic levels.
+Then, the Stoxx Autos index is down 16% year-to-date. Volkswagen AG and Stellantis are among the worst performers, falling 27.6% and 51.9%, respectively.
+Does Europe need to embrace AI?
+BNP Paribas believes Europe is more likely to be an AI beneficiary rather than a developer, with the autos sector among those that stand to benefit.
+"At this point the sector is so cheap that no one is really thinking about the potential upside in there," Sophie Huynh, portfolio manager and strategist at BNP Paribas Asset Management, told CNBC.
+"It's about trying to understand when markets are going to start talking about this because you can sit on these deep value sectors for one or two years before the market consensus starts to realize it's going to work."
+Huynh added that a lot of good news about U.S. consumption is already priced in, "so the momentum of the U.S. economy is slowing down when Europe has just started to pick up."
+Goldman acknowledged that Europe is behind on several fronts, including data center rollouts, as well as frontier modelling, "all of which could have negatives for security or longer-term productivity and growth."
+But the bank's strategists said that Europe being behind on the AI trade may not be such a bad thing.
+The market provides a hedge for investors worried about some of the risks around AI, especially around China competition, they wrote.`,
+    bodyJa: `欧州株は歴史的に、米国株や一部の急成長するアジア市場が享受するような投資家の熱狂を呼び起こすのに苦労してきた。この大陸には高成長企業が少なく、資本市場が浅く、長期的な利益成長のストーリーに説得力がないと考えられている。
+しかし、2025 年初頭の政府の財政支出の急増により、市場は活気を取り戻しました。今年の話はより微妙だが、汎欧州のStoxx 600指数は驚くほど回復力があることが証明された。
+ヨーロッパのヘッドライン指数は、ヨーロッパ 17 か国の大​​中小資本企業 600 社を追跡しており、基本的に欧州大陸の S&P 500 に相当します。Stoxx 600 は 2026 年現在までに 10% 上昇しており、同期間に 13.5% のリターンを記録した北米の指数にわずかに遅れています。
+欧州市場は、規模が大きく流動性の高い米国市場と比較すると目立たない傾向にあるが、ゴールドマン・サックスは先週、欧州への投資に関する「神話」の一部を払拭しようと試みた。
+アナリストらは8月10日のメモで「（欧州の）業績は市場の物語、あるいは大半の投資家が認識しているよりもはるかにまちまちだった」と述べた。 「2022年以降、欧州の銀行はマグニフィセント7を大幅に上回るパフォーマンスを見せている。2025年の初め以降、関税ショックとエネルギー供給危機にもかかわらず、欧州のStoxxはS&P500をアウトパフォームしている。」
+ゴールドマン氏が挙げたもう一つの「神話」は、中国の競争が欧州企業にとって大きな逆風となっているという考えだ。
+「株式市場は経済ではないし、金融、製薬、テクノロジー、エネルギー、公益事業、通信、航空宇宙、防衛といった最大のセクターは、低コストの中国からの輸入品に対して特に脆弱ではない」とゴールドマン氏は付け加えた。 「自動車は欧州の時価総額のわずか1％にすぎない。」
+欧州の自動車セクターは、長年にわたる構造的危機に陥っているため、非常に中傷されている。電気自動車の需要の鈍化、中国の競合他社への市場シェアの喪失、借入コストの上昇により、販売台数はパンデミック前の水準を大幅に下回って低迷し続けており、過去5年間に完全な嵐を引き起こした。
+次に、ストックス自動車指数は年初から16％下落しています。フォルクスワーゲンAGとステランティスは、それぞれ27.6％と51.9％下落し、最も業績が悪化した企業の一つとなった。
+ヨーロッパは AI を受け入れる必要があるか?
+BNPパリバは、ヨーロッパは開発者ではなくAIの受益者となる可能性が高く、その恩恵を受けるのは自動車セクターであると考えている。
+BNPパリバ・アセット・マネジメントのポートフォリオマネジャー兼ストラテジスト、ソフィー・フイン氏はCNBCに対し、「現時点でこのセクターは非常に割安なので、そこに上値が生じる可能性については誰も真剣に考えていない」と語った。
+「市場がいつこの問題について議論し始めるかを理解しようとすることが重要だ。なぜなら、市場のコンセンサスがそれがうまくいくと認識し始めるまで、これらのディープバリューセクターに1〜2年間座ることができるからである。」
+フイン氏は、米国の消費に関する多くの良いニュースはすでに織り込まれており、「そのため、欧州が回復し始めたばかりのときに米国経済の勢いは鈍化しつつある」と付け加えた。
+ゴールドマンは、欧州がデータセンターの展開やフロンティアモデリングなどのいくつかの面で遅れをとっており、「そのすべてがセキュリティや長期的な生産性と成長にマイナスとなる可能性がある」と認めた。
+しかし同行のストラテジストらは、欧州がAI貿易で遅れていることはそれほど悪いことではないかもしれないと述べた。
+AI、特に中国との競争に関するリスクを懸念する投資家にとって、市場はヘッジ手段となると彼らは書いている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
+    publishedAt: "2026-08-16T09:45:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
     id: "i-survived-two-years-as-prime-minister-i-f2835fe5",
     title: "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
     titleJa: "私は大ヒットした新作ゲームで首相として 2 年間生き延びましたが、内閣は私を見捨てました。",
@@ -1563,362 +1697,6 @@ MS NOWの報道によると、マクドナルド氏と同局刑事部門の責�
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "afghan-women-tell-the-bbc-their-lives-ar-efecd9d6",
-    title: "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-    titleJa: "アフガニスタン女性、5年間のタリバン支配で自分たちの命は認められないとBBCに語る",
-    summaryJa: "アフガニスタン女性、5年間のタリバン支配で自分たちの命は認められないとBBCに語る- 公開されました",
-    bodyOriginal: `Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule
-- Published
-Five years on from the Taliban takeover in Afghanistan, women and girls have told the BBC their lives are unrecognisable under the rule of the regime.
-The hard-line Islamist group has been eroding the rights of the 22 million women in the country since it re-gained control in 2021- two decades after being removed from power by a US-led military coalition.
-The BBC is one of the few media organisations that has been able to maintain access to Afghanistan since the takeover. We spoke to women across the country, from the heart of Kabul to the vast countryside.
-They have watched on as the Taliban barred access to school for girls over 12, restricted travel without a male chaperone and brought in a law implying legal approval for child marriage.
-When questioned by BBC Afghan over the constraints that women face, the Taliban's foreign minister said: "Women are not totally restricted on all walks of life".
-But the restrictions impact almost every part of their lives and make it difficult to tell their stories. Many of the women have not used their real names because they fear reprisals.
-"People are so overwhelmed by poverty and daily hardships that many have been forced to put their education, dreams, and hopes for the future aside," Ela from Kabul said.
-"Today, survival has become the priority, and many of us no longer have the time or energy to think about the future."
-This story contains distressing details.
-Afghanistan is currently the only country in the world where girls are officially banned from secondary and higher education.
-Shakiba recounted that "15 August, when the government fell, was the worst and most painful day of my life.
-"Every year when this date comes I feel as if an old wound opens again and a new feeling of defeat fills my heart.
-"That day I felt that many of the dreams I had carried inside me for years were suddenly taken away."
-Though Shakiba has managed to finish her secondary education online - "a very important victory" - she says her life-long goal of becoming a pilot feels impossible.
-"Whenever I looked at the sky I imagined myself flying an airplane and seeing the world from above. I wanted to fly freely and experience a world without limits," she said.
-The Taliban's foreign minister, Amir Khan Muttaqi, was asked by the BBC about education for girls in Afghanistan, specifically referencing a Unicef report stating that around 2.6 million girls in the country are now unable to attend school beyond Grade 6.
-Amir Khan Muttaqi replied that "it is not correct to say everything is banned for women", adding that "right now, three million girls are going to schools and madrassas [religious centres focused on Islamic teachings]".
-When asked how religious schools can produce doctors in the country, Muttaqi said: "Women are not totally restricted on all walks of life... Only one small part (of their affairs) is restricted until further notice."
-Only 7% of women in Afghanistan are employed, after being banned from many workplaces and fields of study, the United Nations says.
-News anchor Zuhal was pushed out of her job after a series of Taliban orders.
-"I was very passionate about my work and did it with love. Every time I sat in front of the camera and read the news, I felt proud and happy... it was part of my identity and life.
-"The days when I used to wake up to the sound of my alarm clock and get ready to watch TV have now become days when I wake up in the morning knowing that I have to spend the whole day at home."
-According to the foreign minister, Afghanistan had up to 30,000 women in business in 2020 and 2021 - which has since risen to 120,000 female entrepreneurs.
-"[Women] are teachers, and civil servants and entrepreneurs. There is not a total ban on women in all forms of engagement and activities," Muttaqi said.
-The Taliban has resumed the public implementation of corporal punishments, with official records saying hundreds of people have been flogged since 2021 - but the true figure is likely much higher.
-Shaima told the BBC she was whipped 50 times, leaving her body badly scarred and her whole family traumatised.
-"They brought a paper and forced me to confess that: 'Yes, I am an apostate woman. I am collaborating with infidels and have spoken with unrelated men'.
-"They hit me so hard that my head would bend toward the ground.
-"Around 200 local people had gathered, including men, boys, and children. All of them were male. I was required to say out loud that I repented."
-Shaima said her eldest daughter now wakes up frightened almost every night and asks her "Mother, they are beating you," or "Mother, they are killing you".
-"That is what causes me the greatest pain," she added.
-Who are the Taliban?
-- Published12 August 2022
-What happened to the women who took on the Taliban?
-- Published14 June 2024
-Manizha was publicly lashed 39 times over her friendship with a man, and then jailed.
-"We wanted to get married, but unfortunately we were arrested. I do not know how the Taliban intelligence found out, or whether someone reported us.
-"In prison, I experienced things that I have never even told my mother. I had no desire to continue living. I used to say that the first thing I would do after getting out of prison would be to take my own life.
-"I had become a source of shame for my family and friends... I could no longer think about marriage."
-If you, or someone you know, has been affected by issues mentioned in this article, BBC Action Line has put together a list of organisations which can help.
-Afghanistan has one of the world's highest maternal mortality rates - rules restricting treatment by male doctors mean many women and girls are unable to access healthcare.
-Midwife Marzia recounted watching a 45-year-old mother of six die in front of her after she travelled to the clinic from a remote district.
-"We managed to save the baby, but now I keep thinking about the baby's future and the future of her six other children. What will happen to them without their mother? What will happen to the whole family?
-"We were all heartbroken. For us, losing a patient is always the hardest part of our job. We become exhausted, both physically and emotionally."
-Maryam is expecting a baby girl and said she worries about her daughter's future.
-"If things continue like this, what will happen to her? She will not even have the chance to finish school like I did, let alone go to university.
-"If one day she gets married, becomes pregnant and needs a female doctor during childbirth, what if there isn't one? This is a matter of life and death."
-'Speak up for us'
-Some of the Afghan women we spoke to said they still have hope for the future.
-Noori, 24, said she had chosen to study law and political science because she wanted to give women a voice and defend their rights.
-She never finished her degree because of the Taliban take over, but she's still been able to find a way to help women.
-"I did not lose hope. I decided to start working and become financially independent. I found a job at a jam-making company and started working there. I have now been working for three years.
-"Now, I have decided to establish my own company so that I can provide employment opportunities for other women. I want them to become independent, strong, and successful women like me and have a better future.
-"Currently, 10 brave women are working there."
-Asma, who is 13, wants to become a doctor and is sure someday she will be.
-"One day, everything will change... but we must continue with patience, and we will not lose hope," she told the BBC.
-Ela, who is a dental assistant, urged the international community not to forget Afghani women and girls.
-"Speak up for Afghan women, support their right to education and work," she said.
-"Keep the world's attention on their situation. We need solidarity, not silence."
-- Published11 September 2024
-- Published30 September 2025`,
-    bodyJa: `アフガニスタン女性、5年間のタリバン支配で自分たちの命は認められないとBBCに語る
-- 公開されました
-アフガニスタンでタリバンが占領してから5年が経ち、女性と少女たちは、政権の支配下では自分たちの生活が認められないほどだとBBCに語った。
-この強硬なイスラム主義団体は、米国主導の軍事連合によって政権の座を奪われた20年後、2021年に再び政権を掌握して以来、国内2200万人の女性の権利を侵食し続けている。
-BBC は、アフガニスタン占領以来、アフガニスタンへのアクセスを維持することができた数少ないメディア組織の 1 つです。私たちはカブールの中心部から広大な田園地帯まで、全国の女性たちに話を聞きました。
-彼らは、タリバンが12歳以上の女子の就学を禁止し、男性の付き添いなしでの旅行を制限し、児童婚の法的承認を示唆する法律を制定するのを見守ってきた。
-女性が直面する制約についてBBCアフガニスタンの質問を受けたタリバン外相は、「女性はあらゆる分野で完全に制限されているわけではない」と述べた。
-しかし、この制限は彼らの生活のほぼあらゆる部分に影響を及ぼし、彼らのストーリーを伝えることが困難になっています。女性の多くは報復を恐れて実名を公表していない。
-「人々は貧困と日々の苦難に打ちのめされており、多くの人が教育や夢、将来への希望を脇に置かざるを得なくなっている」とカブール在住のエラさんは語った。
-「今日、生き残ることが最優先事項となっており、私たちの多くはもはや将来のことを考える時間もエネルギーもありません。」
-この物語には悲惨な詳細が含まれています。
-アフガニスタンは現在、女子が中等教育および高等教育を受けることを公式に禁止されている世界で唯一の国である。
-シャキバさんは「政府が崩壊した8月15日は、私の人生で最悪で最も苦痛な日だった。
-「毎年この日が来ると、古傷がまた開いたような気がして、新たな敗北感が私の心を満たします。
-「その日、私は何年も自分の中に抱えていた夢の多くが突然奪われたように感じました。」
-シャキバさんはなんとか中等教育をオンラインで終えることができたが、これは「非常に重要な勝利だ」としているが、パイロットになるという生涯の目標は不可能だと感じているという。
-「空を見るたびに、飛行機に乗って上空から世界を見ている自分を想像しました。自由に飛んで、制限のない世界を体験したかったのです」と彼女は言いました。
-タリバンの外務大臣アミール・カーン・ムッタキは、BBCからアフガニスタンの女子教育について質問され、特に国内の約260万人の女子生徒が現在6年生以降の学校に通うことができないというユニセフの報告書に言及した。
-アミール・カーン・ムッタキ氏は「女性がすべて禁止されているというのは正しくない」と答え、「現在、300万人の女子生徒が学校やマドラサ（イスラム教の教えを中心とした宗教施設）に通っている」と付け加えた。
-この国で宗教学校がどのようにして医師を輩出できるのかとの質問に対し、ムッタキ氏は「女性はあらゆる職業において完全に制限されているわけではない…追って通知があるまで制限されるのは（女性の業務の）ほんの一部だけだ」と述べた。
-国連によると、アフガニスタンでは多くの職場や学問分野からの参加が禁止されており、雇用されている女性はわずか7％だという。
-ニュースキャスターのズハルさんは、タリバンの一連の命令を受けて職を追われた。
-「私は自分の仕事にとても情熱を持っていて、愛情を持って仕事をしていました。カメラの前に座ってニュースを読むたびに、誇りと幸せを感じました...それは私のアイデンティティと人生の一部でした。
-「以前は目覚まし時計の音で起きてテレビを見る準備をしていた日々が、今では朝起きると一日中家で過ごさなければならないとわかっている日々になりました。」
-同外相によると、アフガニスタンでは2020年と2021年に最大3万人の女性起業家がいたが、その後は12万人の女性起業家に増加した。
-「（女性は）教師であり、公務員であり、起業家でもあります。あらゆる形態の関与や活動において女性を完全に禁止しているわけではない」とムッタキ氏は語った。
-タリバンは公の場での体罰の実施を再開しており、公式記録によれば、2021年以来数百人が鞭打ちを受けたとされているが、実際の数字はおそらくそれをはるかに上回っている。
-シャイマさんはBBCに対し、50回も鞭で打たれ、体にはひどい傷跡が残り、家族全員がトラウマになったと語った。
-「彼らは紙を持ってきて、『はい、私は背教した女性です』と告白するよう強制しました。私は異教徒と協力しており、無関係の人々と話しました。」
-「あまりにも強く殴られたので、頭が地面に向かって曲がってしまいました。
-「男性、少年、子供を含む約200人の地元住民が集まっていました。全員が男性でした。私は大声で悔い改めたと言うよう要求されました。」
-シャイマさんによると、長女は今ではほぼ毎晩怯えて目覚め、「お母さん、彼らがあなたを殴っているの」とか「お母さん、彼らがあなたを殺しているの」と尋ねるという。
-「それが私にとって最大の苦痛の原因です」と彼女は付け加えた。
-タリバンとは何者ですか?
-- 2022 年 8 月 12 日公開
-タリバンと戦った女性たちはどうなったのでしょうか？
-- 2024 年 6 月 14 日公開
-マニザさんは男性との友情を巡って公の場で39回も鞭打たれ、その後投獄された。
-「私たちは結婚したかったのですが、残念ながら逮捕されてしまいました。タリバン諜報機関がどのようにして知ったのか、誰かが私たちを通報したのかはわかりません。
-「刑務所で、私は母親にも話していないことを経験しました。生き続けたいという気持ちは全くありませんでした。私は刑務所から出たらまず自分の命を絶つことだとよく言っていました。
-「私は家族や友人にとって恥の種になっていました…もう結婚について考えることはできませんでした。」
-あなたまたはあなたの知人がこの記事で言及されている問題の影響を受けている場合、BBC Action Line は支援できる組織のリストをまとめています。
-アフガニスタンは世界で最も妊産婦死亡率が高い国の一つで、男性医師による治療を制限する規則により、多くの女性や少女が医療を受けられないことになる。
-助産師のマルツィアさんは、遠隔地から診療所に来た45歳の6人の子どもの母親が目の前で亡くなるのを見たときのことを語った。
-「私たちは赤ちゃんを救うことができましたが、今は赤ちゃんの将来と、他の6人の子供たちの将来について考え続けています。母親がいなくなったら、彼らはどうなるのでしょう？家族全員はどうなるのでしょう？」
-「私たちは皆、心が痛んでいました。私たちにとって、患者を失うことは常に仕事の中で最も難しい部分です。私たちは肉体的にも精神的にも疲れ果ててしまいます。」
-マリアムさんは女の子を妊娠中だが、娘の将来が心配だと語った。
-「このままだと彼女はどうなってしまうのでしょうか？彼女には大学に行くことはおろか、私のように学校を卒業する機会さえないでしょう。
-「いつか彼女が結婚し、妊娠し、出産の際に女医が必要になったら、もし女医がいなかったらどうするのでしょう？これは死活問題です。」
-「私たちのために声を上げてください」
-私たちが話を聞いたアフガニスタン女性の中には、まだ将来に希望を持っていると語る人もいた。
-24歳のヌーリさんは、女性に発言権を与え、権利を守りたかったので、法律と政治学を学ぶことを選んだと語った。
-タリバンによる占領のため、彼女は学位を取得することができなかったが、それでも女性を助ける方法を見つけることができた。
-「私は希望を失うことはありませんでした。仕事を始めて経済的に自立しようと決心しました。ジャム製造会社に職を見つけて働き始めました。現在、3年間働いています。」
-「このたび、他の女性たちに雇用の機会を提供できるよう、自分の会社を設立することにしました。私は彼女たちに、私のような自立した、強くて成功した女性になって、より良い未来を持ってもらいたいと思っています。
-「現在、10人の勇敢な女性が働いています。」
-13 歳のアズマは医者になりたいと思っており、いつかはなれると確信しています。
-「ある日、すべてが変わるでしょう…しかし、私たちは忍耐を続けなければなりません、そして私たちは希望を失うことはありません」と彼女はBBCに語った。
-歯科助手であるエラさんは、アフガニスタンの女性​​と少女を忘れないよう国際社会に訴えた。
-「アフガニスタン女性のために声を上げ、教育と労働への権利を支援してください」と彼女は語った。
-「彼らの状況に世界の注目を集め続けてください。私たちに必要なのは沈黙ではなく連帯です。」
-- 2024 年 9 月 11 日公開
-- 2025 年 9 月 30 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-14T18:25:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f272/live/7fe520d0-980f-11f1-a7ea-19f04b81e9a0.jpg",
-    readTime: 9,
-  },
-  {
-    id: "openai-talent-exodus-raises-huge-red-fla-609dc7e3",
-    title: "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
-    titleJa: "OpenAIの人材流出、IPOを前に「重大な危険信号」を上げる",
-    summaryJa: "OpenAIが12月に最高収益責任者としてSlackからデニス・ドレッサー氏を採用したとき、最高幹部のフィジー・シモ氏はブログ投稿で、ドレッサー氏の「AIを便利で信頼性が高く、あらゆる場所の企業にとってアクセスしやすいものにするのに役立つ」と述べた。4か月後、執行責任者のブラッド・ライトキャップ氏が「特別プロジェクト」に重点を置いた新しい役割のためにその職を辞したため、ドレッサー氏はさらなる責任を引き受けた。",
-    bodyOriginal: `When OpenAI hired Denise Dresser from Slack to be its chief revenue officer in December, Fidji Simo, a top-ranking executive, said in a blog post that Dresser's "experience will help us make AI useful, reliable, and accessible for businesses everywhere."
-Four months later, Dresser took on added responsibilities when operating chief Brad Lightcap left that position for a new role focused on "special projects."
-Now, Dresser, Simo and Lightcap are all gone, leaving OpenAI's C-suite in chaos as the artificial intelligence company tries to justify its $852 billion valuation and gear up for what's expected to be a historic initial public offering. Dresser announced her sudden departure on Thursday, two days after Lightcap said he was ending an eight-year stint at the ChatGPT creator to "start something new."
-The talent exodus puts even more pressure on CEO Sam Altman and fellow co-founder Greg Brockman, the company's president, to project stability at a time when investors are already growing concerned about competition from Google and Anthropic, increased adoption of lower-cost open-weight models, and SpaceX's volatile stock price in its first two months on the market.
-OpenAI confidentially filed its IPO prospectus in June, but hasn't provided a timeline for a future offering.
-"The executives leaving OpenAI ahead of their IPO is a huge red flag," Kevin McCormick, founder of AI startup SignAudit.AI, wrote in a post on X on Thursday. He added that Dresser likely walked away from a large pay package by leaving OpenAI after less than one year.
-"If the executives leaving aren't being 'made whole' by the next company, it's bad news for OpenAI," McCormick wrote.
-A representative for OpenAI pointed CNBC to Brockman's statement from Thursday, after the company named Dali Rajic, former COO of cybersecurity company Wiz, which Google acquired for $32 billion earlier this year, as its new chief revenue officer.
-Brockman said that Dresser led the revenue group through a "formative period for the business," and that Rajic "will turn what we've learned into repeatable execution as we build out the full system to make AI broadly useful for people and businesses."
-Dresser and Lightcap are the latest in a recent string of big-name exits. Simo, who last year left her job as CEO of Instacart to join OpenAI, said in July that she was stepping away to focus on recovery after a "severe exacerbation of a chronic illness." Four other executives, including Kevin Weil, the vice president of OpenAI for Science, and marketing chief Kate Rouch, departed in April. Rouch left to focus on cancer recovery.
-OpenAI's financial backers were surprised by Dresser's announcement, according to two current investors, who asked not to be named in order to speak freely on the matter. They said that chaos is part of OpenAI's fast-moving culture.
-Dresser was hired in December after establishing a strong reputation in the enterprise by spending more than a decade in senior roles at Salesforce. She was tasked with growing OpenAI's enterprise unit, a high-margin part of the business that's directly taking on Anthropic.
-Brockman told employees on Thursday that run rate revenue increased more than 20% month over month in July, including 32% growth for business customers, according to an internal Slack message shared with CNBC.
-"We're now at an inflection point: the next generation of models will change not just how individual workflows get done, but what it means to build and run a company," Brockman wrote. "Our opportunity is to bring those capabilities to businesses across the economy."
-OpenAI CFO Sarah Friar plans to hold a meeting with investors on Friday, according to a source familiar with the meeting. The event had been already been planned, but Friar is expected to address the C-suite shake-up. Brockman will also be in attendance to talk about company strategy, according to the person, who asked not to be named because the details were confidential.
-Despite the recent turmoil, OpenAI is touting its momentum with corporate clients. The company said Thursday that under Dresser's leadership, the enterprise business grew to 2 million customers, doubling from a year prior.
-"I just have never seen this level of conviction spread so quickly and consistently within the industries," Dresser told CNBC in April, as she was wrapping up her first 90 days on the job. She said at the time that enterprise made up 40% of the company's revenue and was "on track to reach parity with consumer by the end of 2026."
-Days before that interview, Dresser had been tapped to take over many of Lightcap's responsibilities, further raising her profile at the company.
-Years of instability
-Rajic, Dresser's successor, was introduced to OpenAI through Thrive founder Josh Kushner, according to a person with knowledge of the matter who was not authorized to speak on the recruiting process. Thrive has been one of OpenAI's most prominent backers.
-OpenAI has long had a hire fast, fire fast culture, according to two former employees, who asked not to be named in order to speak freely on the matter. One of them described the environment as a pressure cooker.
-Instability at the top is nothing new for OpenAI, or for Altman.
-In 2023, Altman was hastily removed from his role as CEO after the company's board determined he was "not consistently candid in his communications" with them. Days later, with investors in a panic and employees threatening to leave en masse, Altman was restored at the helm.
-Altman's brief ouster, which some OpenAI employees refer to as "the blip," has hung over him ever since.
-The incident came up repeatedly during the high-profile Musk v. Altman trial in May. Lawyers representing Elon Musk, who sued OpenAI, Altman and Brockman in 2024 over a dispute about the company's corporate structure, used Altman's firing as a way to cast doubt on his character, accusing him of being untrustworthy.
-"I was not trying to deceive the board," Altman testified from the witness stand in federal court in Oakland, California.
-Musk's attorneys also pressed Altman about several OpenAI executives who raised concerns about his behavior. They included Anthropic CEO Dario Amodei, who previously served as a research lead at OpenAI. Altman said Amodei had accused him of "many things."
-At the trial, Brockman was grilled about his own reputation as a leader. Musk's attorneys asked him about a memo that was prepared by Ilya Sutskever, an OpenAI co-founder, highlighting issues with Brockman's performance and management.
-One lawyer asked Brockman to confirm that his management style had been heavily criticized by OpenAI employees. Brockman responded, "I certainly disagree with that characterization."
-After three weeks of testimony, an advisory jury said that Musk waited too long to bring his suit against OpenAI and its executives, though Musk vowed to appeal the ruling.
-This week's events haven't helped Altman's cause.
-Following Lightcap's departure, Altman thanked his longtime colleague in a post on X, and wrote that he was "excited to work together on what's next."
-There was no such post after Dresser's announcement. Rather, Altman's only comment on X on Thursday had to do with a subject that he's generally happier to discuss: his company's AI models.
-In response to a post from OpenAI's account about a preview to "Ultrafast mode," the new GPT-5.6 model "at up to 14x the speed," Altman wrote, “/ultrafast."
-WATCH: OpenAI revenue chief Denise Dresser leaving, second major executive departure in days`,
-    bodyJa: `OpenAIが12月に最高収益責任者としてSlackからデニス・ドレッサー氏を採用したとき、最高幹部のフィジー・シモ氏はブログ投稿で、ドレッサー氏の「AIを便利で信頼性が高く、あらゆる場所の企業にとってアクセスしやすいものにするのに役立つ」と述べた。
-4か月後、執行責任者のブラッド・ライトキャップ氏が「特別プロジェクト」に重点を置いた新しい役割のためにその職を辞したため、ドレッサー氏はさらなる責任を引き受けた。
-現在、ドレッサー氏、シモ氏、ライトキャップ氏が全員去り、人工知能企業が8,520億ドルの評価を正当化し、歴史的な新規株式公開に向けて準備を整えようとする中、OpenAIの経営幹部は混乱に陥っている。ドレッサー氏は、ライトキャップ氏が「何か新しいことを始める」ためにChatGPT作成者としての8年間の任期を終えると述べた2日後の木曜日に突然の退職を発表した。
-人材の流出により、投資家が既にグーグルやアンスロピックとの競争、低価格のオープンウェイトモデルの採用増加、そして市場に出てから最初の２カ月間のスペースＸの不安定な株価について懸念を強めている中、最高経営責任者（ＣＥＯ）のサム・アルトマン氏と共同創業者仲間のグレッグ・ブロックマン社長に対し、安定性を予測するようさらにプレッシャーがかかっている。
-OpenAIは6月にIPO目論見書を極秘に提出したが、将来の製品提供のスケジュールは明らかにしていない。
-AI新興企業SignAudit.AIの創設者ケビン・マコーミック氏は木曜日のXへの投稿で、「経営陣がIPOを前にOpenAIを去ることは大きな危険信号だ」と書いた。同氏は、ドレッサー氏は1年も経たないうちにOpenAIを辞めることで、多額の給与パッケージから逃げ出す可能性が高いと付け加えた。
-マコーミック氏は、「辞めた幹部たちが次の会社で『生まれ変わる』ことがなければ、OpenAIにとって悪い知らせだ」と書いた。
-OpenAIの代表者はCNBCに対し、Googleが今年初めに320億ドルで買収したサイバーセキュリティ企業Wizの元最高執行責任者（COO）、ダリ・ラジック氏を新たな最高収益責任者に任命した後、木曜日のブロックマン氏の声明を指摘した。
-ブロックマン氏は、ドレッサー氏が「ビジネスの形成期」を通じて収益グループを率い、ラジック氏が「AIを人々や企業に広く役立つようにするための完全なシステムを構築する際に、我々が学んだことを再現可能な実行に変えるだろう」と述べた。
-Dresser と Lightcap は、最近相次いだ大手企業の撤退の最新企業である。昨年インスタカートの最高経営責任者（CEO）を辞めてオープンAIに入社したシモ氏は7月、「慢性疾患の重度の悪化」からの回復に専念するため退職すると述べた。 OpenAI for Scienceの副社長ケビン・ワイル氏とマーケティング責任者のケイト・ルーシュ氏を含む他の幹部4人が4月に退職した。ルーシュ氏は癌の回復に専念するため退職した。
-現在の投資家2人によると、OpenAIの財政支援者らはドレッサー氏の発表に驚いており、この件について自由に話すため匿名を希望したという。彼らは、混沌は OpenAI の急速に変化する文化の一部であると述べました。
-ドレッサー氏は、Salesforce で 10 年以上上級職を務め、企業内で高い評価を確立した後、12 月に雇用されました。彼女は、Anthropic と直接競合するビジネスの高利益部門である OpenAI のエンタープライズ部門を成長させる任務を負っていました。
-CNBCと共有された社内Slackメッセージによると、ブロックマン氏は木曜日、従業員に対し、7月のランレート収益は前月比20％以上増加し、その中には法人顧客向けの32％増加も含まれると語ったという。
-「私たちは今、転換点にいます。次世代モデルは、個々のワークフローがどのように行われるかだけでなく、会社を設立し経営することが何を意味するかを変えるでしょう」とブロックマン氏は書いた。 「私たちのチャンスは、こうした機能を経済全体の企業にもたらすことです。」
-会合に詳しい関係者によると、OpenAIの最高財務責任者サラ・フライアー氏は金曜日に投資家との会合を開く予定だという。このイベントはすでに計画されていたが、フライアー氏は経営幹部の刷新に取り組むとみられている。詳細は機密事項であるため匿名を希望した関係者によると、ブロックマン氏も会社戦略について話すために出席する予定だという。
-最近の混乱にもかかわらず、OpenAIは企業顧客に対してその勢いを宣伝している。同社は木曜日、ドレッサー氏のリーダーシップの下、エンタープライズ事業は前年比2倍の200万顧客に成長したと発表した。
-ドレッサー氏は4月、最初の90日間の勤務を終えようとしていた際、CNBCに対し、「これほど早く、一貫して業界内でこれほどの確信が広まったのを見たことがなかった」と語った。同氏は当時、企業収益が同社の収益の40％を占めており、「2026年末までに消費者と同等の水準に達する軌道に乗っている」と述べた。
-その面接の数日前に、ドレッサーはライトキャップの責任の多くを引き継ぐよう抜擢され、社内での彼女の知名度をさらに高めた。
-長年にわたる不安定さ
-採用プロセスについて話す権限はなかったが、この件に詳しい関係者によると、ドレッサー氏の後継者であるラジック氏は、Thrive創設者のジョシュ・クシュナー氏を通じてOpenAIに紹介されたという。 Thrive は OpenAI の最も著名な支援者の 1 つです。
-この件について自由に話すため匿名を希望した元従業員2人によると、OpenAIには長年、採用が早く、解雇も早いという文化があったという。そのうちの 1 人は、環境を圧力鍋として説明しました。
-トップの不安定性は、OpenAI にとっても Altman にとっても目新しいことではありません。
-2023年、アルトマン氏が「一貫して率直なコミュニケーションをとっていなかった」と取締役会が判断したため、アルトマン氏は急遽CEOの職から外された。数日後、投資家がパニックに陥り、従業員が一斉退職すると脅迫される中、アルトマン氏は再び指揮を執った。
-OpenAIの従業員の一部は「突然の出来事」と呼んでいるアルトマン氏の短期間の解任は、それ以来ずっと彼の心に残り続けている。
-この事件は、5月に行われた注目を集めたマスク対アルトマン裁判中に繰り返し取り上げられた。同社の企業構造に関する紛争をめぐり、2024年にオープンAI、アルトマン、ブロックマンを訴えたイーロン・マスク氏の代理人弁護士らは、アルトマン氏の解雇を同氏の人格に疑問を投げかける手段として利用し、同氏は信頼できないと非難した。
-アルトマン氏はカリフォルニア州オークランドの連邦裁判所の証人台で「取締役会を欺こうとしていたわけではない」と証言した。
-マスク氏の弁護士はまた、アルトマン氏の行動について懸念を表明したOpenAI幹部数名についてもアルトマン氏に圧力をかけた。その中には、以前 OpenAI で研究責任者を務めていた Anthropic CEO の Dario Amodei 氏も含まれていました。アルトマン氏は、アモデイ氏が「多くのこと」で自分を非難したと語った。
-裁判では、ブロックマンは指導者としての自身の評判について激しく非難された。マスク氏の弁護士は、OpenAIの共同創設者であるイリヤ・サツケヴァー氏が作成した、ブロックマン氏の業績と経営の問題を強調したメモについてマスク氏に質問した。
-ある弁護士はブロックマン氏に、彼の経営スタイルがOpenAI従業員から激しく批判されていたことを確認するよう求めた。ブロックマンは「その特徴付けには確かに同意しません」と答えた。
-3週間の証言後、諮問陪審はマスク氏がOpenAIとその幹部に対する訴訟を起こすまでに時間がかかりすぎたと述べたが、マスク氏は判決に対して控訴すると明言した。
-今週の出来事はアルトマンの大義には役立っていない。
-ライトキャップ氏の退職後、アルトマン氏はXに関する投稿で長年の同僚に感謝の意を表し、「次のことに協力できることに興奮している」と書いた。
-ドレッサー氏の発表後、そのような投稿はなかった。むしろ、木曜日にアルトマンが X について語った唯一のコメントは、彼が一般に喜んで議論するテーマ、つまり彼の会社の AI モデルに関するものでした。
-新しい GPT-5.6 モデルの「最大 14 倍の速度」である「Ultrafast モード」のプレビューに関する OpenAI アカウントからの投稿に応えて、Altman 氏は「/ultrafast」と書きました。
-注目: OpenAI 収益チーフのデニス・ドレッサー氏が辞任、ここ数日で 2 度目となる主要幹部の辞任`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-    publishedAt: "2026-08-14T18:11:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "temporary-ban-on-sale-of-disposable-bbqs-0b4c29f8",
-    title: "Temporary ban on sale of disposable BBQs over wildfire risk",
-    titleJa: "山火事の危険性を理由に使い捨てBBQの販売を一時禁止",
-    summaryJa: "山火事の危険性を理由に使い捨てBBQの販売を一時禁止- 公開されました",
-    bodyOriginal: `Temporary ban on sale of disposable BBQs over wildfire risk
-- Published
-Disposal barbecues have been temporarily banned from sale over fears they pose a "significant risk to the public" as drought and heatwave conditions continue to grip the UK.
-They have been the cause of "a number of serious wildfires across the country over the summer months", the government said.
-A potential ban was first discussed at an emergency Cobra meeting in response to record temperatures earlier this week. Members of the public have also been urged not to light an open fire of any kind and dispose of cigarettes carefully.
-Meanwhile Prime Minister Andy Burnham says the country is like "a tinderbox" as fire crews in the West Midlands continue to battle multiple blazes.
-A total of 1,017 wildfires have been recorded in England and Wales this year, according to data shared by the National Fire Chiefs Council (NFCC), which matches last year's record.
-On Friday evening, an emergency alert was sent to mobile phones warning of a "very high risk of wildfires nationally" across England and Wales.
-The message asked residents, landowners and visitors to not undertake any activity that could cause a fire "including disposable barbecues, firepits, garden incinerators of fireworks".
-It was the most extensive use of the system to date, according to the government.
-Disposable barbecues "cannot be considered a safe product" in the current conditions and they "must not be made available for sale either in store or online at the current time" in Great Britain, according to the advice published by the Department for Business, Innovation, Science and Trade (DBIST)., external
-The ban applies to England, Scotland and Wales, but not Northern Ireland.
-Business Secretary Jonathan Reynolds said the measures were "common-sense steps to protect lives and the environment."
-All retailers will be receiving guidance about the change, which will be kept under review, Burnham told the BBC.
-He also said some of the wildfires burning across the country will have been started by disposable barbecues.
-Speaking to BBC Radio 5 Live's Matt Chorley, the prime minister said: "We've got 37 fires across England and Wales right now, four of them are major incidents."
-He added: "We're going into a difficult weekend, please just think about the situation that we're in.
-"Britain is a tinderbox right now. Setting a fire in any outdoor setting of any kind is a risk to other people's homes, it's a risk to other people's lives, don't do it, please don't do it."
-Many large retailers and supermarkets had already voluntarily stopped selling the devices under a framework agreed in 2023, external between fire chiefs and the British Retail Consortium.
-It said that retailers should suspend sales once an extreme heat event has been declared as imminent, or in response to "reasonable, evidence based" requests from local councils.
-David Skaith, the elected Labour mayor for York and North Yorkshire who has been campaigning for a ban on single-use grills, urged the prime minister to make it permanent.
-He told the BBC: "We know the risks that disposable barbecues have been causing and to have a ban on them is much-needed, much-called-for and I hope it becomes long-term."
-Burnham also said he planned to commission firefighting planes, like those used in Europe and the US, to combat the spread of wildfires.
-The prime minister added that 100 military personnel had been deployed to tackle a blaze in South Wales, offering "critically needed" support.
-He said plans were being drawn up for emergency financial support for fire services battling the spread of wildfires.
-"We have a fire and rescue service across the country that isn't properly set up to deal with these incidents," Burnham said.
-"We don't have the capability in the way that we should have to fight these fires.
-"There's thousands of firefighters out there today doing back-breaking work, in full kit, in the most difficult conditions", he added.
-He said the UK must face up to the "changing climate" and transition to "more clean energy".
-His comments came ahead of the appointment of Baroness Blake of Leeds as fire minister.
-Friends of the Earth urged the prime minister to tackle the "root cause" of the "climate emergency" that is fuelling this summer's extreme weather events.
-"Without urgent action to curb the carbon emissions driving this crisis, future heatwaves, droughts and wildfires will only get worse and the ability for future generations to adapt will disappear" the environmental group warned.
-Burnham was speaking during a visit to Stourbridge to see the impact of a devastating blaze.
-As the UK experienced its hottest day of the year on Thursday, residents fled their homes when fires spread through dry grass and tore through houses.
-West Midlands Ambulance Service said it treated 54 casualties at eight different fires across the region. Nineteen people were taken to hospital for treatment.
-In 2025, fire and rescue services in England and Wales broke a new record when they responded to nearly 1,000 wildfire incidents, with the NFCC warning at the time that climate change is increasing their risk and severity.
-The conditions the UK is experiencing so far this summer also mirror the warnings given by climate scientists that human-induced climate change would lead to more frequent and intense heatwaves, as well as potential summer droughts.
-In England, the Rugby Football Union has delayed the start of the community rugby season because of concerns about player welfare and pitch conditions because of the drought conditions.
-Get in touch
-Are you affected by the issues raised in this story? Let us know
-Related topics
-- Published3 hours ago
-- Published5 November 2025`,
-    bodyJa: `山火事の危険性を理由に使い捨てBBQの販売を一時禁止
-- 公開されました
-干ばつと熱波の状況が英国を襲い続ける中、使い捨てバーベキューは「公衆に重大なリスク」をもたらすとの懸念から一時的に販売が禁止された。
-政府は、これらが「夏の間、全国各地で多数の深刻な山火事」の原因となっていると発表した。
-禁止の可能性は、今週初めの記録的な気温を受けての緊急コブラ会議で初めて議論された。一般の人々に対しても、いかなる種類のたき火も起こさないことと、タバコを慎重に処分することが求められています。
-一方、アンディ・バーナム首相は、ウェスト・ミッドランズの消防団が複数の火災との戦いを続けているため、この国は「火口箱」のようなものだと述べた。
-全国消防署長評議会（NFCC）が共有したデータによると、今年イングランドとウェールズで合計1,017件の山火事が記録されており、これは昨年の記録と一致する。
-金曜日の夜、イングランドとウェールズの全土で「全国的に山火事の危険性が非常に高い」と警告する緊急警報が携帯電話に送信された。
-メッセージでは、住民、地主、訪問者に対し、「使い捨てのバーベキュー、たき火台、庭の花火用焼却炉を含む」火災を引き起こす可能性のある活動を行わないよう求めた。
-政府によると、これはこれまでで最も広範なシステムの使用であったという。
-ビジネス・イノベーション・科学貿易省（DBIST）が発表した勧告によると、使い捨てバーベキューグリルは現状では「安全な製品とは考えられず」、英国では「現時点では店舗でもオンラインでも販売してはならない」という。
-この禁止措置はイングランド、スコットランド、ウェールズに適用されるが、北アイルランドには適用されない。
-ジョナサン・レイノルズ商務長官は、今回の措置は「命と環境を守るための常識的な措置」だと述べた。
-バーナム氏はBBCに対し、すべての小売業者はこの変更に関するガイダンスを受け取り、今後も検討が続けられると語った。
-同氏はまた、全国で発生している山火事の一部は使い捨てのバーベキューグリルによって引き起こされる可能性があると述べた。
-首相はBBCラジオ5ライブのマット・チョーリー氏に対し、「現在イングランドとウェールズで37件の火災が発生しており、そのうち4件は重大な事故だ」と語った。
-さらに「我々は困難な週末を迎えることになるが、我々が置かれている状況を考えてほしい。
-「イギリスは今、火口のような状態だ。屋外での放火は、どのような種類であっても、他人の家や命の危険につながるので、絶対にやめてください。」
-消防署長と英国小売業協会の間で2023年に合意された枠組みに基づいて、多くの大手小売店やスーパーマーケットはすでに自主的に機器の販売を中止していた。
-同報告書は、猛暑が差し迫っていると宣言された場合、または地方議会からの「合理的で証拠に基づく」要請に応じた場合、小売業者は販売を停止すべきだと述べた。
-ヨークとノースヨークシャーの労働党市長に選出され、使い捨てグリルの禁止を求めて運動してきたデビッド・スカイス氏は、首相にそれを恒久化するよう求めた。
-同氏はBBCに対し、「使い捨てバーベキューが引き起こしているリスクは承知しており、その禁止は切望され、切望されており、それが長期化することを願っている」と語った。
-バーナム氏はまた、山火事の拡大を防ぐためにヨーロッパや米国で使用されているような消防用飛行機を配備する計画があると述べた。
-首相は、南ウェールズの山火事に対処するために100人の軍人を派遣し、「緊急に必要な」支援を提供したと付け加えた。
-同氏は、山火事の拡大と闘っている消防団に対する緊急財政支援の計画が策定されていると述べた。
-バーナム氏は、「全国に消防・救助サービスが存在するが、これらの事件に対処するための体制が適切に整備されていない」と述べた。
-「私たちには、これらの火災と戦うために必要な能力がありません。
-「今日、何千人もの消防士がフル装備で、最も困難な状況で骨の折れる仕事をしている」と彼は付け加えた。
-同氏は、英国は「気候変動」に直面し、「よりクリーンなエネルギー」への移行が必要だと述べた。
-同氏のコメントは、リーズのブレイク男爵夫人が消防大臣に任命される前に発表された。
-地球の友らは首相に対し、今夏の異常気象を助長している「気候非常事態」の「根本原因」に取り組むよう求めた。
-「この危機を引き起こしている炭素排出を抑制するための緊急の行動がなければ、将来の熱波、干ばつ、山火事は悪化するばかりで、将来の世代の適応能力は失われるだろう」と環境保護団体は警告した。
-バーナム氏は壊滅的な火災の影響を見るためにスタウアブリッジを訪れた際に講演していた。
-英国は木曜日に一年で最も暑い日を経験したが、火は乾いた草に燃え広がり、家屋を破壊したため、住民は家から避難した。
-ウェスト・ミッドランズ救急サービスは、同地域の8つの異なる火災で54人の死傷者を治療したと発表した。 19人が治療のため病院に搬送された。
-2025年、イングランドとウェールズの消防・救助サービスは、約1,000件の山火事に対応し新記録を樹立したが、当時NFCCは気候変動がリスクと深刻さを増大させていると警告した。
-この夏、英国がこれまでに経験している状況は、人為的な気候変動がより頻繁で激しい熱波や夏の干ばつを引き起こす可能性があるという気候科学者らの警告を反映している。
-イングランドでは、干ばつの状況による選手の福祉とピッチの状態への懸念から、ラグビーフットボール協会がコミュニティラグビーシーズンの開始を遅らせた。
-連絡する
-この話で提起されている問題の影響を受けていますか?お知らせください
-関連トピック
-- 3 時間前に公開
-- 2025 年 11 月 5 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-14T17:42:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53b/live/4aaee280-97eb-11f1-a76b-f1c27c51f3da.jpg",
-    readTime: 6,
-  },
-  {
-    id: "us-aircraft-carrier-on-way-to-relieve-us-64372cac",
-    title: "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `US aircraft carrier on way to relieve USS Lincoln after issues reported aboard
-- Published
-A US aircraft carrier is headed to the Middle East to replace the USS Abraham Lincoln, on which thousands of sailors have reportedly faced food shortages and difficult conditions on an extended, nine-month deployment.
-The USS George Washington, which was near Malaysia on Thursday, could arrive in the region in about nine days, BBC analysis shows.
-Family members of sailors aboard the Lincoln have expressed concern about their mental health deteriorating due to the conditions, with some sailors having reportedly attempted to jump overboard.
-While the US Navy has acknowledged supply challenges, it has denied that a mental health crisis was taking place on the Lincoln, which has 5,000 aboard.
-US President Donald Trump denied that family members were concerned about the welfare of their relatives and dismissed the possibility that the deployment had been too long.
-"Not nearly long enough," he told reprters on Friday.
-Trump also confirmed that another ship will replace the Lincoln, although he did not identify it by name.
-The USS George Washington left a naval facility in Yokosuka, Japan in May to patrol the Pacific region and is now headed to replace the Lincoln, CBS News, the BBC's US partner, reported, citing a US official.
-Tracking data compiled by BBC Verify shows that at its last recorded speed, the vessel would reach Duqm port in Oman, about 500 miles off the coast of Iran, around 22 August.
-Once it arrives in the Middle East, it will be the third aircraft carrier in the area. The USS George HW Bush is also there. No US aircraft carrier will remain in the Pacific.
-The Lincoln has been at sea since 11 December on a deployment that was initially scheduled to end in May, tracking data compiled by BBC Verify shows.
-Earlier this week, the Military Times and Stars & Stripes reported that the families of multiple sailors reported that their loved ones had considered jumping overboard due to conditions on the vessel.
-The conditions have reportedly included poor sanitation, infrequent ports-of-call, broken plumbing, exhaustion and shortages of fresh food.
-In an interview with the BBC, a relative of a sailor on the Lincoln claimed that their family member had lost 65lbs (29kg) since the ship headed out to sea and had been suffering from exhaustion because of the constant noise of aircraft and the ship's vibrations.
-The person, who spoke on condition of anonymity due to concerns about retaliation, said that their relative confirmed sailors had attempted to jump from the ship.
-Jefferson Kelly, whose son Jackson is on the Lincoln, told CBS that he had grown concerned after nearly nine months at sea. Deployments typically last about six months.
-"They should not be deployed this long," he said. "These are old ships. It's not like they're even state-of-the-art. And they take a lot of maintenance, a lot of work. It's around the clock.
-"I would get on a plane or helicopter tonight if it meant bringing him home to his mum and his siblings and his family," he added.
-The US Navy has denied any increase in suicidal behaviour on the Lincoln, but has acknowledged that supplies had been "disrupted by combat actions" during the war with Iran.
-Democratic lawmakers have expressed concern over the conditions on the ship.
-In a letter to Defence Secretary Pete Hegseth and Secretary of the Navy Hung Cao on Wednesday, Connecticut Democratic Senator Richard Blumenthal said that reports of shortages and poor conditions "warrant immediate attention".
-"But they also raise a broader question: whether the Navy can sustain the operational tempo now being demanded of its carrier force," he added.
-Hegseth has said that some of the media reports have been "completely misrepresented". He told reporters on Thursday that the US government was was making sure "every ship, every crew, every captain has everything we can provide them at every single moment".`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-14T17:36:27+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg",
-    readTime: 2,
   },
 ];
 
