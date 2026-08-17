@@ -15,6 +15,194 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "30-year-treasury-yield-tops-5-31-the-hig-662fde49",
+    title: "30-year Treasury yield tops 5.31%, the highest in 19 years",
+    titleJa: "30年米国債利回りが5.31％を超え、19年ぶりの高水準に",
+    summaryJa: "原油価格の上昇を受けて月曜日の米国債利回りは上昇し、インフレの持続と政府借り入れに対する投資家の間で懸念が高まった。通常地政学的な出来事に敏感な３０年米国債利回りは４ベーシスポイント以上上昇して５．３１１％となった。 ２００７年６月以来の高水準となった。",
+    bodyOriginal: `Treasury yields were higher on Monday as oil prices rose, with worries growing among investors about persistent inflation and government borrowing.
+The 30-year Treasury yield, which is typically sensitive to geopolitical events, advanced more than 4 basis points to 5.311%. It reached its highest level since June 2007.
+The 10-year Treasury note yield — the main benchmark for mortgages, auto loans and credit card debt — was more than 2 basis points higher at 4.724%.
+The yield on the 2-year Treasury note, which typically reacts in line with short-term Federal Reserve interest rate decisions, rose more than 1 basis point to 4.182%.
+One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.
+Oil prices rose as the 60-day deadline for the U.S. and Iran to secure a peace deal is expiring Monday, with Iran ruling out the possibility of an extension. A senior Iranian official also told Reuters Monday that Tehran would take an offensive stance if diplomacy with the U.S. fails.
+West Texas Intermediate futures gained 2% to trade above $84 per barrel. Global benchmark Brent crude advanced 2% to above $90 a barrel.
+Elevated energy prices in the wake of the Middle East conflict breaking out months ago have raised concerns about inflationary pressures, though the latest batch of mild inflation data has offered some reassurance to investors.
+Bond yields rose during Friday's session after retail sales fell by a surprise 0.6% last month, which came after a flat producer price index print month-on-month in July.
+Last week, the Treasury Department reported that the U.S. budget deficit reached its highest monthly level in more than five years, with rising Medicare costs and interest on the federal debt serving as contributors. The year-to-date total for the federal government's fiscal year has exceeded the amount seen during the same period last year.
+"We believe investors are increasingly evaluating Treasury securities through the lens of longer-term fiscal sustainability and less through the lens of inflation, monetary policy, and growth, at least for the longer end of the Treasury curve," wrote Anthony Saglimbene, Ameriprise chief market strategist, in a Monday note.
+Investors are now awaiting July's FOMC meeting minutes, due Wednesday, for further insights into the Federal Reserve's latest monetary policy decisions and potential future rates trajectory.
+The Fed voted 9-3 to hold rates steady at between 3.50% and 3.75% for the fifth consecutive meeting on July 29. The three dissenting committee members — Beth Hammack of Cleveland, Neel Kashkari of Minneapolis and Lorie Logan of Dallas — instead called for a 25 basis point hike.`,
+    bodyJa: `原油価格の上昇を受けて月曜日の米国債利回りは上昇し、インフレの持続と政府借り入れに対する投資家の間で懸念が高まった。
+通常地政学的な出来事に敏感な３０年米国債利回りは４ベーシスポイント以上上昇して５．３１１％となった。 ２００７年６月以来の高水準となった。
+住宅ローン、自動車ローン、クレジットカード債務の主な指標である10年国債利回りは4.724%と2ベーシスポイント以上上昇した。
+通常、米連邦準備理事会（ＦＲＢ）の短期金利決定に合わせて反応する２年物国債利回りは１ベーシスポイント以上上昇し４．１８２％となった。
+1 ベーシス ポイントは 0.01%、つまり 1% の 100 分の 1 に相当し、利回りと価格は相互に反比例します。
+米国とイランが和平協定を締結するための60日間の期限が月曜日に期限切れとなり、イランが延長の可能性を否定しているため、原油価格は上昇した。イラン高官も月曜日、ロイターに対し、米国との外交が失敗すればイランは攻撃的な姿勢を取るだろうと述べた。
+ウェスト・テキサス・インターミディエイト先物は２％上昇し、１バレル＝８４ドルを超えて取引された。世界のベンチマークであるブレント原油は２％上昇し、１バレル＝９０ドルを超えた。
+数カ月前に勃発した中東紛争を受けてエネルギー価格が高騰し、インフレ圧力に対する懸念が高まっているが、最新の穏やかなインフレ統計は投資家に一定の安心感を与えている。
+7月の生産者物価指数の前月比横ばいを受けて、先月の小売売上高が予想外の0.6％減となったことを受け、金曜日の取引中に債券利回りは上昇した。
+財務省は先週、メディケア費用と連邦債務の金利の上昇が寄与し、米国の財政赤字が月次で過去５年以上で最高水準に達したと報告した。連邦政府の会計年度の年初から現在までの総額は、前年同期の金額を上回った。
+アメリプライズの首席市場ストラテジスト、アンソニー・サグリンベネ氏は月曜のメモで「投資家はインフレ、金融政策、成長というレンズではなく、長期的な財政持続可能性というレンズを通して米国債をますます評価するようになっていると考えている」と述べた。
+投資家は現在、連邦準備制度理事会の最新の金融政策決定と潜在的な将来の金利軌道に関するさらなる洞察を得るために、水曜日に発表される7月のFOMC議事録を待っている。
+FRBは7月29日、5回連続の会合で政策金利を3.50％から3.75％の間で据え置くことを9対3で投票し、反対した3人の委員（クリーブランドのベス・ハンマック氏、ミネアポリスのニール・カシュカリ氏、ダラスのローリー・ローガン氏）は代わりに25ベーシスポイントの利上げを要求した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+    publishedAt: "2026-08-17T18:43:33+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "paramount-seeks-1-88-billion-bond-from-s-46fe9380",
+    title: "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+    titleJa: "パラマウント、WBD合併遅延の費用をカバーするため州AGに18億8000万ドルの保釈金を請求",
+    summaryJa: "月曜の独占禁止法訴訟の新たな提出文書によると、パラマウント・スカイダンスはワーナー・ブラザース・ディスカバリーとの合併を保留している州に対し、遅延に伴う手数料と経費の支払いを強制するよう求めている。パラマウントは、訴訟の背後にある州が支払うことになる18億8000万ドルの保釈金を要求している。 7月、カリフォルニア州のロブ・ボンタ氏率いる10数人の州司法長官が、パラマウントとWBDの1100億ドル規模の合併案に異議を申し立てた。",
+    bodyOriginal: `Paramount Skydance will seek to force the states holding up its merger with Warner Bros. Discovery to pay for the fees and costs associated with the delay, according to a new filing in the antitrust case Monday.
+Paramount is requesting a $1.88 billion bond that would be paid by the states behind the lawsuit. In July, a dozen state attorneys general led by California's Rob Bonta filed to challenge the proposed $110 billion merger between Paramount and WBD.
+The proposed deal would combine two storied film studios — Paramount and Warner Bros. — as well as put together a sprawling portfolio of pay TV networks in the U.S. and streaming platforms HBO Max and Paramount+.
+Paramount has received regulatory approvals from the Antitrust Division of the U.S. Department of Justice, as well as all other global jurisdictions needed to move forward with the merger. But last month, Paramount agreed to delay the proposed acquisition to as late as June 2027 while the state AGs' case heads to trial.
+Paramount long planned to have the deal closed by the end of September. The delay could prove costly for Paramount.
+Paramount agreed to a so-called ticking fee under the terms of the merger agreement, meaning that beginning Sept. 30 it would pay WBD shareholders an additional 25 cents per share, per quarter, until the deal closes. The amount could add up to roughly $650 million in cash value per quarter.
+"By the time trial concludes and the parties submit their final briefs, Paramount will have paid Warner Bros. shareholders an unrecoverable $1.3 billion in ticking fees alone," Paramount said in the filing. "Delay also threatens to nullify the regulatory approvals that Defendants have already spent months securing."
+"Absent security, even a complete victory on the merits would not restore a dollar of those extraordinary losses. That is precisely why federal law requires plaintiffs to provide security as a condition for receiving preliminary relief such as the court-approved order," the filing says.
+If the deal were to fall apart due to regulatory concerns Paramount would owe WBD a $7 billion breakup fee.
+This story is developing. Please check back for updates.`,
+    bodyJa: `月曜の独占禁止法訴訟の新たな提出文書によると、パラマウント・スカイダンスはワーナー・ブラザース・ディスカバリーとの合併を保留している州に対し、遅延に伴う手数料と経費の支払いを強制するよう求めている。
+パラマウントは、訴訟の背後にある州が支払うことになる18億8000万ドルの保釈金を要求している。 7月、カリフォルニア州のロブ・ボンタ氏率いる10数人の州司法長官が、パラマウントとWBDの1100億ドル規模の合併案に異議を申し立てた。
+提案されている契約では、パラマウントとワーナー・ブラザースの2つの有名な映画スタジオが統合され、米国の有料テレビネットワークとストリーミングプラットフォームのHBO MaxとParamount+の広大なポートフォリオが統合されることになる。
+パラマウントは米国司法省反トラスト局のほか、合併を進めるために必要な他のすべての世界管轄区域から規制当局の承認も得ている。しかし先月、パラマウントは、州政府の訴訟が裁判に向かう間、買収案を最長2027年6月まで延期することに同意した。
+パラマウントは長年、9月末までに取引を完了させる計画を立てていた。遅延はパラマウントにとって代償を伴う可能性がある。
+パラマウントは合併契約の条件に基づくいわゆるティッキングフィーに同意し、9月30日から取引が完了するまでWBD株主に1株当たり四半期ごとに追加で25セントを支払うことになる。この金額は、四半期あたりの現金価値として最大約 6 億 5,000 万ドルに上る可能性があります。
+パラマウントは提出書類の中で、「裁判が終了し、両当事者が最終準備書面を提出するまでに、パラマウントはワーナー・ブラザースの株主に対し、ティッキング手数料だけで回収不可能な13億ドルを支払っていることになる」と述べた。 「遅延はまた、被告らがすでに数カ月を費やして確保してきた規制当局の承認を無効にする恐れがある。」
+「担保がなければ、たとえ本案で完全に勝利したとしても、こうした異常な損失は一ドルも回復しないだろう。だからこそ連邦法は、裁判所が承認した命令などの予備的救済を受けるための条件として、原告に担保の提供を求めているのだ」と申請書には記されている。
+規制上の懸念により契約が決裂した場合、パラマウントはWBDに対し70億ドルの違約金を支払う義務がある。
+この物語は発展中です。最新情報を再度ご確認ください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+    publishedAt: "2026-08-17T18:36:08+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "brent-oil-rises-to-91-as-iran-rules-out-765fbc55",
+    title: "Brent oil rises to $91 as Iran rules out interim deal extension, threatens to escalate conflict",
+    titleJa: "イランが暫定合意延長を拒否、紛争激化の恐れでブレント原油が91ドルに上昇",
+    summaryJa: "イランが米国との覚書延長交渉を排除したため、月曜日の原油価格は上昇した。一方、イラン高官はロイターに対し、米国との外交が失敗した場合、イランは防衛に頼るのではなく攻撃に転じるだろうと語った。",
+    bodyOriginal: `Crude oil prices rose Monday as Iran ruled out talks to extend the memorandum of understanding with the U.S.
+A senior Iranian official told Reuters, meawhile, that Tehran would shift to offense rather than relying on defense if diplomacy with the U.S. fails.
+U.S. crude oil futures rose 2.8% to $84.70 per barrel. Brent crude, the international benchmark, was likewise up 2.8% at $91.03 per barrel.
+"Iranian entities must be prepared to escalate tensions in the Strait of Hormuz and wider region, as Iran will be ready to make decisions and take action on difficult decisions," the Iranian official told Reuters.
+The U.S. and Iran agreed to a memorandum of understanding on June 17 that was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days. The two-month deadline to reach a deal expires Monday.
+Iran's Foreign Ministry spokesman, Esmail Baghaei, ruled out talks to extend the MOU, according to the state news agency Tasnim.
+"We did not start any negotiations at all, and the U.S. violated the understanding from the very beginning; therefore, the 60-day issue is not relevant," Baghaei said, according to Tasnim.
+President Donald Trump, meanwhile, demanded Iran "put up the white flag of surrender" in an interview with Fox News. Trump threatened to bomb Oman, a U.S. ally, for negotiating with Tehran over how to manage traffic through Hormuz.
+"If Oman gets in the way, we'll bomb the sh--- out of them," Trump told Fox.
+Ship traffic through Hormuz was at a near standstill on Sunday, with just three vessels crossing the strait, according to data provided by Kpler.
+Brent prices will likely rise back toward $100 per barrel as China increases its imports, said Bob McNally, president of Rapidan Energy.
+China has slashed its imports by 4 million barrels per day to 5 million barrels per day, which has played a key role in keeping crude prices from surging higher during the Iran war, McNally told CNBC.
+But Beijing will likely allow its refiners to import more so they can benefit from high refined product prices, he said.
+"China coming off of its crash diet is is not consistent with Brent prices being stable," the analyst said.`,
+    bodyJa: `イランが米国との覚書延長交渉を排除したため、月曜日の原油価格は上昇した。
+一方、イラン高官はロイターに対し、米国との外交が失敗した場合、イランは防衛に頼るのではなく攻撃に転じるだろうと語った。
+米原油先物は２．８％上昇し１バレル＝８４．７０ドルとなった。国際ベンチマークであるブレント原油も同様に2.8%上昇し、1バレルあたり91.03ドルとなった。
+同イラン当局者はロイターに対し、「イランは困難な決断に対して決断を下し、行動を起こす用意があるため、イラン関係者はホルムズ海峡とその広範囲の地域で緊張が高まる準備をしておく必要がある」と述べた。
+米国とイランは6月17日、テヘランの核開発計画に関する最終合意を60日以内に交渉する間にホルムズ海峡を開放することを内容とする覚書に合意した。合意に達するための２カ月の期限は月曜日に期限切れとなる。
+国営通信社タスニム通信によると、イラン外務省報道官エスマイル・バガエイ氏は覚書延長交渉の可能性を否定した。
+タスニム通信によると、バガイ氏は「われわれは交渉をまったく始めておらず、米国は最初から合意に違反した。したがって、60日の問題は関係ない」と述べた。
+一方、ドナルド・トランプ大統領はFOXニュースとのインタビューでイランに「降伏の白旗を上げる」よう要求した。トランプ大統領は、ホルムズ経由の交通管理方法を巡ってイラン政府と交渉しているとして、米国の同盟国であるオマーンを爆撃すると脅した。
+「オマーンが邪魔をするなら、我々は彼らを爆撃するだろう」とトランプ大統領はFOXに語った。
+クプラーが提供したデータによると、ホルムズを通る船舶交通は日曜、ほぼ停止状態にあり、海峡を渡った船舶はわずか３隻だった。
+ラピダン・エナジーのボブ・マクナリー社長は、中国の輸入増加に伴いブレント価格は１バレル＝１００ドルに向けて再び上昇する可能性が高いと述べた。
+中国は輸入量を日量400万バレル削減し、日量500万バレルとしたが、これがイラン戦争中の原油価格の高騰を防ぐ上で重要な役割を果たしたとマクナリー氏はCNBCに語った。
+しかし、中国政府は精製業者が高い精製製品価格から恩恵を受けることができるよう、輸入拡大を許可する可能性が高いと同氏は述べた。
+同アナリストは、「中国が暴落ダイエットから脱却することは、ブレント価格の安定と一致しない」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
+    publishedAt: "2026-08-17T18:25:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "here-s-how-amazon-s-stock-could-nearly-d-5ffdec72",
+    title: "Here’s how Amazon’s stock could nearly double by the end of next year, according to Morgan Stanley",
+    titleJa: "モルガン・スタンレーによると、アマゾンの株価が来年末までにほぼ2倍になる可能性がある理由は次のとおりです",
+    summaryJa: "Amazonはクラウド収益1兆ドルの達成という目標には程遠いが、その目標を追求することで投資家にかなりの利益をもたらす可能性がある、とアナリストは指摘する。",
+    bodyOriginal: `Amazon is very far from its goal of achieving $1 trillion in cloud revenue, but it could deliver handsome returns for investors as it pursues that target, an analyst notes.`,
+    bodyJa: `Amazonはクラウド収益1兆ドルの達成という目標には程遠いが、その目標を追求することで投資家にかなりの利益をもたらす可能性がある、とアナリストは指摘する。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-how-amazons-stock-could-nearly-double-by-the-end-of-next-year-according-to-morgan-stanley-91b97520?mod=mw_rss_topstories",
+    publishedAt: "2026-08-17T17:57:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-452290",
+    readTime: 2,
+  },
+  {
+    id: "investor-dubbed-the-ai-stock-god-had-56-4a34ca90",
+    title: "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
+    titleJa: "「AI株の神様」と呼ばれる投資家は、7月の爆発前にはヘッジファンドの56％をこれら2銘柄に投資していた",
+    summaryJa: "2026年上半期の終わり、このセクターの大きな調整の直前に、状況認識ファンドの4分の3以上がわずか5銘柄に賭けていたが、そのすべてが本質的にAIへの大きな賭けだった。",
+    bodyOriginal: `At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.`,
+    bodyJa: `2026年上半期の終わり、このセクターの大きな調整の直前に、状況認識ファンドの4分の3以上がわずか5銘柄に賭けていたが、そのすべてが本質的にAIへの大きな賭けだった。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
+    publishedAt: "2026-08-17T16:31:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-53423967",
+    readTime: 2,
+  },
+  {
+    id: "apple-s-stock-could-rise-30-if-it-strike-cef72deb",
+    title: "Apple’s stock could rise 30% if it strikes an Nvidia deal for AI, this analyst says",
+    titleJa: "AppleがAIに関してNvidiaと契約を結べば、株価は30%上昇する可能性がある、とこのアナリストは言う",
+    summaryJa: "ロスチャイルドのアナリストは、Apple が Nvidia のオープンソース モデルを導入することで、「標準以下」の AI への取り組みを改善できる可能性があると示唆しています。",
+    bodyOriginal: `A Rothschild analyst suggests Apple could improve upon its ‘subpar’ AI efforts by deploying Nvidia’s open-source models.`,
+    bodyJa: `ロスチャイルドのアナリストは、Apple が Nvidia のオープンソース モデルを導入することで、「標準以下」の AI への取り組みを改善できる可能性があると示唆しています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/apples-stock-could-rise-30-if-it-strikes-an-nvidia-deal-for-ai-this-analyst-says-f5f5c861?mod=mw_rss_topstories",
+    publishedAt: "2026-08-17T16:00:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-99723537",
+    readTime: 2,
+  },
+  {
+    id: "nvidia-backing-105-billion-in-financing-e925d0d0",
+    title: "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+    titleJa: "Nvidia、オハイオ州の OpenAI データセンターへの 1,050 億ドルの資金調達を支援",
+    summaryJa: "Nvidiaは、オハイオ州にあるOpenAIの新しい人工知能データセンターに最大1,050億ドルの融資を提供すると、月曜日の有価証券報告書で明らかになった。このクレジットは、最初の 4.25 ギガワットのコンピューティング容量をサポートし、オプションで 3.75 ギガワットを追加できます。 Nvidia がコンピューティングを提供し、その容量は 2028 年に段階的にオンラインになる予定です。",
+    bodyOriginal: `Nvidia will provide up to $105 billion in financing for a new artificial intelligence data center for OpenAI in Ohio, a securities filing revealed on Monday.
+The credit will support an initial 4.25 gigawatts of computing capacity with the option for an additional 3.75 gigawatts. Nvidia will provide the compute, with capacity expected to come online in phases in 2028.
+SB Energy will build and manage the datacenter at the PORTS-Pike Technology Campus in Pike City, Ohio, through a 20-year lease to OpenAI. The frontier lab has a stake in the company, and OpenAI CEO Sam Altman was also an early investor in SB Energy.
+"We are securing long-lived infrastructure for NVIDIA compute so OpenAI can deploy the most productive AI factories that can be upgraded repeatedly with each new generation delivering more intelligence and better economics," said Nvidia CEO Jensen Huang in a release.
+CNBC previously reported that Nvidia was in discussions with OpenAI to provide a backstop of up to $250 billion that would let the model maker raise debt for a 10-gigawatt data center at the Ohio location.
+The Wall Street Journal reported last week that Nvidia was set to cut that guarantee to less than $120 billion for the buildout.
+The deal is Nvidia's latest in a string of financing maneuvers to support the sprawling AI data center buildout, which has raised concerns about circular financing in the AI trade. Last week, Nvidia joined forces with six large asset managers to build financing platforms to deploy $500 billion in third-party capital for datacenter projects.
+As part of the Ohio deal, SB Energy and SoftBank will build power sources supporting 10 gigawatts of energy and invest at least $4.2 billion into regional grid infrastructure. Nvidia will invest $1.5 billion in SB Energy.
+OpenAI said the new data center will support 35,000 new construction jobs through 2032 and 2,500 long-term positions.
+The new data center will give OpenAI more access to the high-end chips and compute power that underlay the entire AI architecture.
+OpenAI President Greg Brockman told CNBC's "Squawk Box" on Monday that compute is a "fundamental resource" for the industry.
+"Compute is really becoming the new oil, the new limited resource of the AI age," he said.`,
+    bodyJa: `Nvidiaは、オハイオ州にあるOpenAIの新しい人工知能データセンターに最大1,050億ドルの融資を提供すると、月曜日の有価証券報告書で明らかになった。
+このクレジットは、最初の 4.25 ギガワットのコンピューティング容量をサポートし、オプションで 3.75 ギガワットを追加できます。 Nvidia がコンピューティングを提供し、その容量は 2028 年に段階的にオンラインになる予定です。
+SB Energy は、OpenAI への 20 年間のリースを通じて、オハイオ州パイクシティの PORTS-Pike Technology Campus にデータセンターを構築および管理します。フロンティアラボは同社に出資しており、OpenAI CEOのサム・アルトマン氏もSBエナジーの初期投資家だった。
+「私たちは、NVIDIA コンピューティングのための長寿命インフラストラクチャを確保しています。これにより、OpenAI は、より多くのインテリジェンスと優れた経済性を提供する新世代ごとに繰り返しアップグレードできる最も生産性の高い AI ファクトリーを展開できるようになります」と、NVIDIA CEO のジェンセン・ファンはリリースで述べています。
+CNBCは以前、NVIDIAがOpenAIと、モデルメーカーがオハイオ州にある10ギガワットのデータセンターの負債を調達できるよう、最大2500億ドルのバックストップを提供する協議を行っていると報じた。
+ウォール・ストリート・ジャーナルは先週、エヌビディアが増強のための保証を1200億ドル未満に削減する予定だと報じた。
+この取引は、AI貿易における循環型資金調達に対する懸念を引き起こしている、AIデータセンターの無秩序な拡張を支援するためのNvidiaの一連の資金調達策の最新のものである。先週、Nvidia は大手資産運用会社 6 社と提携して、データセンター プロジェクトに 5,000 億ドルのサードパーティ資本を投入するための資金調達プラットフォームを構築しました。
+オハイオ州との契約の一環として、SBエナジーとソフトバンクは10ギガワットのエネルギーをサポートする電源を建設し、地域の送電網インフラに少なくとも42億ドルを投資する。 NvidiaはSB Energyに15億ドルを投資する。
+OpenAIによると、新しいデータセンターは2032年までに3万5000人の新規建設雇用と2500人の長期雇用を支援する予定だという。
+新しいデータセンターにより、OpenAI は AI アーキテクチャ全体の基盤となるハイエンド チップと計算能力にさらにアクセスできるようになります。
+OpenAIの社長グレッグ・ブロックマン氏は月曜日、CNBCの「Squawk Box」に対し、コンピューティングは業界にとって「基本的なリソース」であると語った。
+「コンピューティングはまさに新しい石油、AI時代の新たな限られたリソースになりつつある」と同氏は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+    publishedAt: "2026-08-17T15:26:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
     id: "openai-s-brockman-brushes-off-concerns-a-4247d874",
     title: "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
     titleJa: "OpenAIのブロックマン氏、CNBC独占番組でリーダー交代に関する懸念を一蹴",
@@ -1673,254 +1861,6 @@ On Saturday, Italy's Foreign Minister Antonio Tajani said his country had been a
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
     readTime: 3,
-  },
-  {
-    id: "liechtenstein-changes-succession-rule-to-72fe293d",
-    title: "Liechtenstein changes succession rule to allow women to ascend the throne",
-    titleJa: "リヒテンシュタイン、女性の王位継承を認めるために継承規則を変更",
-    summaryJa: "リヒテンシュタイン、女性の王位継承を認めるために継承規則を変更- 公開されました",
-    bodyOriginal: `Liechtenstein changes succession rule to allow women to ascend the throne
-- Published
-Liechtenstein has announced that it has changed royal succession rules to allow women to ascend the throne.
-The declaration was made on the national day of the central European country, which has a population of just 44,000.
-Liechtenstein's current ruler, Prince Hans-Adam II, has been the head of their royal family since 1989. The rule change will not affect his heir, Hereditary Prince Alois, who was his first-born.
-Alois has carried out most official royal duties for the last two decades.
-"The order of succession is being changed from male primogeniture to absolute primogeniture," the House of Liechtenstein said in a statement.
-"This means that in future the first-born child, regardless of sex, will become heir to the throne and later princess or prince of Liechtenstein."
-The change will not affect Liechtenstein's succession line for now - it will only apply to descendants of the four children of Hereditary Prince Alois and his wife, Hereditary Princess Sophie.
-In a statement, Alois said: "With this change in the law, we want to ensure that both the Principality of Liechtenstein and the Princely House are led by the person who has been best prepared for this responsibility."
-Liechtenstein is a tiny, doubly-landlocked country tucked away between Switzerland and Austria, whose ruler enjoys sweeping political powers, unlike many of his counterparts in Europe.
-In 2011, Britain changed its succession laws to allow first-born daughters of a monarch to inherit the throne.
-Related topics
-- Published12 July 2023
-- Published28 October 2011`,
-    bodyJa: `リヒテンシュタイン、女性の王位継承を認めるために継承規則を変更
-- 公開されました
-リヒテンシュタインは、女性の王位継承を認めるために王位継承規則を変更したと発表した。
-この宣言は、人口わずか4万4000人の中央ヨーロッパの国、建国記念日に行われた。
-リヒテンシュタインの現統治者であるハンス＝アダム2世王子は、1989年以来リヒテンシュタイン王室の長を務めている。この規則の変更は、彼の後継者である彼の長男である世襲王子アロイスには影響を及ぼさない。
-アロイスは過去20年間、王室の公務のほとんどを遂行してきた。
-リヒテンシュタイン下院は声明で、「相続の順序は男系長子相続から絶対長子相続に変更される」と述べた。
-「これは、将来、性別に関係なく、第一子が王位継承者となり、後にはリヒテンシュタインの王女か王子になることを意味する。」
-この変更は今のところリヒテンシュタインの王位継承には影響せず、世襲王子アロイスとその妻である世襲王女ソフィーの4人の子供の子孫にのみ適用される。
-アロイス氏は声明で、「今回の法改正により、リヒテンシュタイン公国と皇太子院の両方が、この責任に対して最もよく準備された人物によって指導されることを確保したいと考えている」と述べた。
-リヒテンシュタインはスイスとオーストリアの間に挟まれた小さな二重内陸国で、その統治者はヨーロッパの多くの同国とは異なり、圧倒的な政治権力を享受している。
-英国は２０１１年に王位継承法を改正し、君主の長女が王位を継承できるようにした。
-関連トピック
-- 2023 年 7 月 12 日公開
-- 2011 年 10 月 28 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-15T19:41:57+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
-    readTime: 2,
-  },
-  {
-    id: "multiple-suspects-at-large-after-five-sh-059adcf1",
-    title: "Multiple suspects at large after five shot at Virginia State University, police say",
-    titleJa: "バージニア州立大学で5人が銃撃され、複数の容疑者が逃走中と警察が発表",
-    summaryJa: "バージニア州立大学で5人が銃撃され、複数の容疑者が逃走中と警察が発表- 公開されました",
-    bodyOriginal: `Multiple suspects at large after five shot at Virginia State University, police say
-- Published
-Five people have been injured, one critically, in a shooting at Virginia State University (VSU) involving multiple suspects.
-Officers responded to the incident outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday, the university said.
-Five individuals, who were all found with gunshot wounds, were taken to local hospitals. Four had injuries that were deemed not to be life-threatening, according to the VSU, which is one of the country's historically black colleges and universities.
-Local police told the BBC that they believe more than one shooter was involved, but that no arrests had been made.
-A temporary lockdown on the campus has since been lifted, but a "significant" law enforcement presence was still on site, the university confirmed in a statement.
-It added that Chesterfield County Police were leading the investigation with help from other local law enforcement and campus police.
-Classes for the new term were set to begin on Monday and campus dormitories opened for returning students on Friday, according to the university's website.
-Lt James R Lamb of Chesterfield County Police Department told the BBC that one of the victims was a student and another was under 18.
-The university stated that the student victim had "sustained non-life-threatening injuries" and had been discharged from hospital.
-"We don't have anybody in custody," Lamb said. "We know there was more than one shooter, so I would say the suspects are still at large."
-He said investigators were still reviewing surveillance video and were not currently treating any of the five people who were injured as suspects.
-VSU has about 5,000 students and is just over 20 miles (32km) south of Richmond, the state capital of Virginia.
-Such institutions were created to provide higher education to disenfranchised African Americans, who were otherwise prohibited from attending most colleges.`,
-    bodyJa: `バージニア州立大学で5人が銃撃され、複数の容疑者が逃走中と警察が発表
-- 公開されました
-バージニア州立大学（VSU）で複数の容疑者が関与した銃撃事件で、5人が負傷し、1人が重体となった。
-大学によると、現地時間土曜午前１時２８分（日本時間午後５時２８分）ごろ、警察官らが寮の外で事件に対応した。
-5人は全員銃撃による傷を負った状態で発見され、地元の病院に搬送された。国内の歴史的に黒人大学の一つであるVSUによると、4人は命に別状はないとみなされる負傷を負った。
-地元警察はBBCに対し、複数の銃撃犯が関与したと考えているが、逮捕はされていないと語った。
-その後、キャンパスの一時的な封鎖は解除されたが、「相当な」法執行機関が依然として現場​​に存在していたと大学は声明で認めた。
-チェスターフィールド郡警察は他の地元警察やキャンパス警察の協力を得て捜査を主導していると付け加えた。
-大学のウェブサイトによると、新学期の授業は月曜日に始まる予定で、金曜日には帰国生のためにキャンパスの寮が開設された。
-チェスターフィールド郡警察署のジェームズ・R・ラム警部補はBBCに対し、犠牲者の1人は学生、もう1人は18歳未満だったと語った。
-大学は、被害学生は「生命を脅かすものではない怪我を負い」、退院したと発表した。
-「我々には誰も拘留されていない」とラム氏は語った。 「複数の銃撃犯がいたことがわかっているので、容疑者はまだ逃走中だと思います。」
-同氏は、捜査当局がまだ監視ビデオを調査中であり、負傷した５人のうち誰も容疑者として現在扱っていないと述べた。
-VSU には約 5,000 人の学生がおり、バージニア州の州都リッチモンドから南に 20 マイル (32 km) 強の場所にあります。
-このような教育機関は、ほとんどの大学に通うことが禁じられ、権利を剥奪されたアフリカ系アメリカ人に高等教育を提供するために創設された。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-15T19:34:22+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 2,
-  },
-  {
-    id: "think-interest-rates-are-high-now-these-1aa630cf",
-    title: "Think interest rates are high now? These charts offer a different perspective.",
-    titleJa: "今は金利が高いと思いますか？これらのグラフは別の視点を提供します。",
-    summaryJa: "また、「Weekend Reads: 10 の注目すべき住宅市場、銘柄選択、健康保険の戦い」にも掲載されています。",
-    bodyOriginal: `Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.`,
-    bodyJa: `また、「Weekend Reads: 10 の注目すべき住宅市場、銘柄選択、健康保険の戦い」にも掲載されています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
-    publishedAt: "2026-08-15T19:01:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-48405375",
-    readTime: 2,
-  },
-  {
-    id: "an-active-fund-holding-a-whopping-800-st-74aba118",
-    title: "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-    titleJa: "なんと800銘柄を保有するアクティブファンドが主要指数を上回っている。その方法は次のとおりです。",
-    summaryJa: "株式市場の多様化には、インデックスファンドに代わるアクティブ運用の選択肢があります。",
-    bodyOriginal: `For diversification in the stock market, there are actively managed alternatives to index funds.`,
-    bodyJa: `株式市場の多様化には、インデックスファンドに代わるアクティブ運用の選択肢があります。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-    publishedAt: "2026-08-15T18:05:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-39560684",
-    readTime: 2,
-  },
-  {
-    id: "marijuana-reform-is-emerging-as-a-midter-4ec8c770",
-    title: "Marijuana reform is emerging as a midterm elections issue on both sides of the aisle",
-    titleJa: "マリファナ改革が中間選挙の争点として両側で浮上している",
-    summaryJa: "過去1世紀にわたり、米国ではマリファナは法的、政治的、文化的に、中傷と容認の間で揺れ動く浮き沈みの歴史を歩んできた。 1996年以来、40の州とコロンビア特別区が医療用または娯楽目的の成人向け大麻を合法化した。しかし、マリファナの原料となる葉物植物である大麻は、1970 年の規制物質法で定義されているように、依然として連邦政府の違法なスケジュール I 薬物です。11月の極めて重要な中間選挙が近づく中、大麻改革が重要な問題として浮上している。マサチューセッツ州とアイダホ州の２州は合法化に関する投票の取り組みについて投票する予定で、カンザス州やアイオワ州など他のいくつかの州では知事候補が大麻問題について議論している。",
-    bodyOriginal: `Marijuana has had a history of highs and lows in the U.S. over the past century — legally, politically and culturally — teetering between vilification and acceptance. Since 1996, 40 states and the District of Columbia have legalized either medical or recreational adult-use marijuana. Yet cannabis, the leafy plant from which marijuana is derived, is still a federally illegal Schedule I drug as defined by the 1970 Controlled Substances Act.
-With November's pivotal midterm elections fast approaching, cannabis reform is emerging as an important issue. Two states, Massachusetts and Idaho, will vote on ballot initiatives regarding legalization, and in several others, including Kansas and Iowa, gubernatorial candidates are debating cannabis matters.
-Marijuana may not be as critical to voters as the economy, immigration, the war with Iran and the build-out of AI data centers. But it will likely be on the minds of Democrats and Republicans over the next few months.
-"It's certainly a very popular issue among voters," said Morgan Fox, political director for NORML, a non-profit group that advocates for cannabis legalization. "It's possible that it could become a more important issue as we get closer to the midterms, particularly if Republicans are worried about losing one or both chambers."
-President Donald Trump shined a political grow light on the issue last December when he urged the Justice Department to expedite the reclassification of marijuana from Schedule I to Schedule III, a category that includes Tylenol with codeine, ketamine and testosterone.
-The timing of Trump's announcement — coupled with his administration's recent order to fast-track approval of psychedelic drugs, as well the president's slumping approval rating — could be seen as a tactic to boost Republican voters who support loosening drug restrictions. It also steals thunder from Democrats, who had failed to reschedule cannabis during Biden's tenure.
-Trump's switch came to fruition, at least partially, in April. Acting Attorney General Todd Blanche signed an order to reschedule state-licensed medical marijuana to Schedule III, thereby easing research restraints and federal tax burdens on companies operating in the $30-billion legal cannabis industry. In a probable nod to voters, outgoing White House press secretary Karoline Leavitt said that rescheduling is "overwhelmingly popular with the vast majority of Americans."
-Public support for legal marijuana
-Sixty-four percent of U.S. adults think the use of marijuana should be legal, according to a November Gallup poll.
-But that popularity may not translate directly into votes, according to Kevin Sabet, CEO of Smart Approaches to Marijuana, a non-profit that opposes marijuana legalization and commercialization. He believes that cannabis reform will be a low-priority issue come November. "It's traditionally let down the politicians who thought they were going to be scoring some cheap votes," he said, "most recently, the president."
-The Gallup data shows public support has declined from 70% in 2023, a trend that can be interpreted as politically motivated. Support for legalization among Republicans has fallen 13 points over the past year, to 40% from 53% — despite Trump's warming relationship with the industry — while it's been consistent among Democrats (85%) and independents (66%) in recent years.
-At the federal level, "cannabis will still be illegal," Fox said of the rescheduling efforts. "The most concrete benefit of moving to Schedule III is 280E tax relief for cannabis businesses," he said, referring to the IRS code that prohibits legal cannabis companies from deducting otherwise established business expenses, such as payroll, rent and utilities, from gross income.
-"280E has always been one of those things that you just have to operate around," said Matthew Melander, president of Sun Theory, a vertically integrated company that cultivates cannabis and operates dispensaries and markets branded edibles. "We know that if [it] does go away, that inherently makes the industry more profitable."
-Sabet concedes that the industry would benefit from the removal of 280E. "I just don't think it's a good thing," he said. "The last thing pot companies need are tax breaks."
-In fact, the prospect of rescheduling stoked Trump supporters in the industry who have lobbied the administration for federal and state reforms to onerous cannabis regulations. Most prominent among them is Kim Rivers, CEO of Trulieve, one of the largest U.S. cannabis companies, who donated $750,000 to the president's inauguration last year and attended a private $1 million-per-plate fundraiser at Trump's New Jersey golf club, where she urged the president to follow through on marijuana rescheduling and expand medical-cannabis research, according to the Wall Street Journal.
-To date, Trulieve and other industry leaders, including Curaleaf, Green Thumb Industries and Verano Holdings, have contributed roughly $11.5 million into the Trump-aligned super PAC America First Agriculture Action Inc. ahead of the midterms, according to filings with the Federal Election Commission.
-Nonetheless, many Republican lawmakers oppose cannabis reforms. More than 20 GOP senators and several House members signed letters urging the White House to halt reclassification. In August 2025, Rep. Paul Gosar (R-AZ) wrote, "Marijuana rescheduling will … not be the boon to the Republicans' midterm chances like Big Weed claims. In fact, reclassifying marijuana as a Schedule III drug would be a self-own for the Republican Party in 2026."
-Across the aisle, Congressional Democrats tepidly endorsed the order, labelling it a partial solution that fell short of full legalization, a policy that many in the party favor. Last month, 17 Senate Democrats, led by Cory Booker (NJ), Chuck Schumer (NY) and Ron Wyden (OR), reintroduced the Cannabis Administration and Opportunity Act, for the second time. If it passes, the legislation calls for completely removing cannabis from the Controlled Substances Act and ending its federal prohibition.
-"Voters across the country have made it clear they want cannabis legalized, and Trump's half measures aren't fooling anyone," Sen. Wyden said in an email statement to CNBC. "Anything less than full descheduling at the federal level is an attempt to juice Trump's numbers ahead of November, because he knows his platform of driving up gas prices and giving tax breaks to billionaires is about to lose him the midterms. The best path forward is passing" the CAOA, he said.
-Even so, in its most recent party platform, issued in 2024, Democrats stopped short of officially endorsing federal recreational legalization or complete descheduling of marijuana. The 2024 Republican Party platform did not take a clear position on cannabis legalization or rescheduling.
-Historically, marijuana is no stranger to controversy. The Marihuana Tax Act of 1937 effectively criminalized what until then had been legal cannabis. Two years later, "Reefer Madness" terrified movie-going parents. That set the tone decades later for President Richard Nixon to sign the Controlled Substance Act, condemning marijuana as a Schedule I drug alongside heroin and LSD.
-Americans kept lighting up, though, even after draconian federal and state anti-drug laws were enacted during the 1990s. Millions of people were arrested for possessing and selling marijuana and hundreds of thousands were incarcerated, some receiving life sentences. In 1996, 75% of the public opposed legalization.
-That same year, however, California breached the War on Drugs barricades, becoming the first state to legalize medical marijuana. Fifteen states have since followed suit. Then in 2012, Colorado and Washington became the first states to legalize recreational adult-use cannabis. To date, only Idaho and Kansas ban marijuana outright.
-Idaho, Kansas, Massachusetts among cannabis battleground states
-Idaho voters will have a chance in November to decide whether or not to keep it that way. An amendment on the ballot would grant the state legislature exclusive authority to prohibit citizen-initiated ballot measures on marijuana, narcotics and psychoactive substances. An initiative to legalize only medical cannabis failed to make the ballot, despite the fact that nearly three-quarters of surveyed voters favored the measure.
-Marijuana is not on the ballot in Kansas, though it may well come up in the race for governor. The Democratic candidate, Cindy Holscher, publicly endorsed recreational marijuana legalization during her primary campaign. Her GOP opponent, state senate president Ty Masterson, objects to legalization of recreational marijuana and has consistently blocked medical marijuana legislation from moving forward.
-Similarly, in nearby Iowa, where medical marijuana has been legal since 2017, the gubernatorial candidates are on opposite sides of the legalization issue. The GOP's Zach Lahn has clearly stated that he would not support legalizing recreational marijuana, while Democrat Rob Sand said in April, "I'm announcing my plan to legalize, tax and regulate adult-use cannabis."
-The electorate in Massachusetts is facing a more peculiar, and contentious, ballot measure. "An Act to Restore a Sensible Marijuana Policy" would retain the Bay State's medical marijuana program, overwhelmingly approved in 2012, while repealing its 2016 vote to legalize recreational marijuana sales and cultivation, which passed by a margin of 54% to 46%. This current initiative would mark the first time a voter-approved legalization measure was overturned.
-"It's a total uphill battle, definitely David and Goliath," Sabet said. "The marijuana industry can't believe it qualified, but at the same time [is] mobilizing very strongly to get this to fail."
-Sabet said that SAM was "one of the donors for that ballot initiative." The Massachusetts Office of Campaign and Political Finance filings show that the coalition behind the initiative received the entirety of its $1.5 million in fund-raising from SAM. There have been additional contributions to the coalition since then, which will be reported in September. A group opposing the measure, "Stop the Repeal," challenged the signature process, but the State Ballot Law Commission denied its petition.
-Regardless, said Fox, "It's pretty clear that this is not something people actually want."
-A University of New Hampshire poll released in February found that 63% of Massachusetts voters oppose the measure, including 41% of Republicans surveyed. NORML will be heavily involved in working against it. "We want to make sure that this thing goes down in flames," he said.
-There's plenty of time between now and the November 3 elections for voters to weigh key issues. Whether rescheduling, legalizing or restricting marijuana rises in importance remains to be seen. "There is definitely an impetus among folks that are supportive of cannabis policy reform to put their marker down before the midterms," Fox said. The various state initiatives and races being considered, in his view, indicate "a recognition that this is a politically popular issue."`,
-    bodyJa: `過去1世紀にわたり、米国ではマリファナは法的、政治的、文化的に、中傷と容認の間で揺れ動く浮き沈みの歴史を歩んできた。 1996年以来、40の州とコロンビア特別区が医療用または娯楽目的の成人向け大麻を合法化した。しかし、マリファナの原料となる葉物植物である大麻は、1970 年の規制物質法で定義されているように、依然として連邦政府の違法なスケジュール I 薬物です。
-11月の極めて重要な中間選挙が近づく中、大麻改革が重要な問題として浮上している。マサチューセッツ州とアイダホ州の２州は合法化に関する投票の取り組みについて投票する予定で、カンザス州やアイオワ州など他のいくつかの州では知事候補が大麻問題について議論している。
-有権者にとってマリファナは、経済、移民、イランとの戦争、AIデータセンターの建設ほど重要ではないかもしれない。しかし、今後数カ月間は民主党と共和党の両方がこの問題を気にすることになるだろう。
-「有権者の間で非常に人気のある問題であることは確かだ」と大麻合法化を主張する非営利団体NORMLの政治ディレクター、モーガン・フォックス氏は語った。 「中間選挙が近づくにつれて、特に共和党が片方または両院での敗北を懸念している場合には、この問題がより重要な問題になる可能性がある。」
-ドナルド・トランプ大統領は昨年12月、マリファナをスケジュールIからコデイン、ケタミン、テストステロンを含むタイレノールを含むカテゴリーであるスケジュールIIIに再分類するよう司法省に要請し、この問題に政治的な光を当てた。
-トランプ大統領の発表のタイミングは、幻覚剤の承認を急ぐという同政権の最近の命令や大統領の支持率低迷と相まって、薬物規制緩和を支持する共和党有権者を押し上げるための戦術とみなされる可能性がある。また、バイデンの任期中に大麻の再スケジュールに失敗した民主党からも雷を盗むことになる。
-トランプ大統領の方針転換は4月に少なくとも部分的には実を結んだ。トッド・ブランシュ司法長官代理は、州認可の医療用大麻のスケジュールをスケジュールIIIに変更する命令に署名し、これにより研究制限や300億ドル規模の合法大麻産業で活動する企業に対する連邦税の負担が緩和された。退任するホワイトハウス報道官のキャロライン・リービット氏は、有権者におそらくうなずいて、日程変更は「大多数のアメリカ人に圧倒的に人気がある」と述べた。
-合法大麻に対する公的支援
-11月のギャラップ世論調査によると、米国成人の64％がマリファナの使用は合法であるべきだと考えている。
-しかし、マリファナの合法化と商業化に反対する非営利団体、スマート・アプローチズ・トゥ・マリファナの最高経営責任者（CEO）ケビン・サベット氏によると、その人気は直接的に投票には結びつかない可能性があるという。同氏は、大麻改革は11月には優先順位が低い問題になるだろうと考えている。同氏は、「伝統的に、安い票を獲得できると考えていた政治家を失望させてきたが、最近では大統領もそうだ」と述べた。
-ギャラップのデータによると、国民の支持率は2023年の70％から低下しており、この傾向は政治的動機によるものと解釈できる。トランプ大統領と業界との友好関係にもかかわらず、共和党員の間での合法化支持率は過去1年間で53％から40％に13ポイント低下したが、近年は民主党員（85％）と無党派層（66％）の間で一貫している。
-フォックス氏は、連邦レベルでは「大麻は引き続き違法となる」とスケジュール変更の取り組みについて述べた。 「スケジュールIIIへの移行の最も具体的な利点は、大麻ビジネスに対する280Eの減税だ」と同氏は、合法大麻会社が給与、家賃、光熱費などの別途定められた事業経費を総収入から差し引くことを禁じているIRS法に触れながら述べた。
-「280Eは常に、ただ操作しなければならないものの1つでした」と、大麻の栽培、薬局の運営、ブランド食品の販売を行う垂直統合型企業であるサン・セオリーの社長マシュー・メランダー氏は語る。 「私たちは、もしそれがなくなってしまえば、本質的に業界の収益性が高まることを知っています。」
-Sabet 氏は、業界が 280E の廃止によって恩恵を受けることを認めています。 「それが良いことだとは思えない」と彼は言った。 「大麻企業が最も必要としているのは減税だ。」
-実際、日程変更の見通しは業界のトランプ支持者らを興奮させ、連邦政府や州政府に面倒な大麻規制の改革を求めてきた。ウォール・ストリート・ジャーナル紙によると、その中で最も著名なのは米国最大の大麻会社の一つ、トゥルリーブのキム・リバース最高経営責任者（CEO）で、昨年の大統領就任式に75万ドルを寄付し、トランプ大統領のニュージャージー・ゴルフクラブで行われた1皿当たり100万ドルの非公開募金活動に参加し、大統領に大麻のスケジュール変更を順守し、医療用大麻の研究を拡大するよう訴えたという。
-連邦選挙管理委員会への提出書類によると、トゥルリベ氏と、キュラリーフ、グリーンサム・インダストリーズ、ヴェラーノ・ホールディングスなどの業界リーダーは、中間選挙に先立ち、これまでにトランプ氏と連携するスーパーPACアメリカ・ファースト・アグリカルチャー・アクション社に約1150万ドルを寄付している。
-それにもかかわらず、多くの共和党議員は大麻改革に反対している。 20人以上の共和党上院議員と数人の下院議員がホワイトハウスに再分類の停止を求める書簡に署名した。 2025年8月、ポール・ゴサール下院議員（共和党、アリゾナ州）は、「マリファナのスケジュール変更は、ビッグ・ウィードの主張のように共和党の中期的チャンスに恩恵をもたらすものではない。実際、マリファナをスケジュールIIIの薬物に再分類することは、2026年には共和党にとって自業自得となるだろう。」と書いた。
-通路を挟んだ反対側の議会民主党議員らは、党内の多くが支持する政策である完全合法化には至らない部分的な解決策であるとして、この命令を冷ややかに支持した。先月、コーリー・ブッカー氏（ニュージャージー州）、チャック・シューマー氏（ニューヨーク州）、ロン・ワイデン氏（オレゴン州）率いる17名の上院民主党議員が2度目となる大麻管理・機会法を再導入した。この法律が可決されれば、規制物質法から大麻を完全に削除し、連邦政府による禁止を終了することが求められる。
-ワイデン上院議員はCNBCへの電子メール声明で、「全米の有権者は大麻の合法化を望んでいることを明らかにしており、トランプ大統領の中途半端な措置は誰もだまされていない」と述べた。 「連邦レベルでの完全な日程調整以外のことは、11月に先立ってトランプ大統領の数字を搾り取ろうとする試みだ。なぜなら、ガソリン価格をつり上げ、億万長者に減税を与えるというトランプ大統領の政策が中間選挙で負けることを彼は知っているからだ。前に進む最良の道は可決することだ」とCAOAは述べた。
-それでも、2024年に発表された最新の党綱領では、民主党は連邦レクリエーション合法化やマリファナの完全な延期を正式に支持するまでには至らなかった。 2024年の共和党綱領では、大麻合法化やスケジュール変更について明確な立場は示されていない。
-歴史的に、マリファナには論争がつきものです。 1937 年のマリファナ税法は、それまで合法だった大麻を事実上犯罪化しました。 2 年後、「リーファー マッドネス」は映画を見に行く親たちを恐怖に陥れました。このことが数十年後、リチャード・ニクソン大統領がヘロインやLSDと並んでマリファナをスケジュールI薬物として非難する規制薬物法に署名する流れを作った。
-しかし、1990年代に厳格な連邦および州の麻薬取締法が制定された後も、アメリカ人は問題を提起し続けた。数百万人がマリファナの所持と販売で逮捕され、数十万人が投獄され、終身刑を受けた人もいる。 1996年には国民の75％が合法化に反対した。
-しかし同年、カリフォルニア州は麻薬戦争のバリケードを突破し、医療大麻を合法化した最初の州となった。その後、15の州がこれに追随した。そして2012年、コロラド州とワシントン州が成人向け娯楽目的の大麻使用を合法化した最初の州となった。現在までにマリファナを完全に禁止しているのはアイダホ州とカンザス州だけである。
-大麻激戦州のアイダホ、カンザス、マサチューセッツ
-アイダホ州の有権者は11月に現状を維持するかどうか決定する機会を迎えることになる。投票用紙の修正案により、マリファナ、麻薬、向精神性物質に関する住民主導の投票措置を禁止する独占的権限が州議会に与えられることになる。医療用大麻のみを合法化する取り組みは、調査対象の有権者のほぼ4分の3がこの法案を支持したという事実にもかかわらず、投票に至らなかった。
-カンザス州ではマリファナは投票用紙に載っていないが、州知事選ではマリファナが取り上げられる可能性は十分にある。民主党候補者シンディ・ホルシャーは、予備選挙期間中に娯楽用大麻の合法化を公に支持した。彼女の共和党の対抗馬、タイ・マスターソン州上院議長は娯楽用大麻の合法化に反対し、医療用大麻法案の前進を一貫して阻止してきた。
-同様に、2017年から医療大麻が合法化された近隣のアイオワ州でも、知事候補たちは合法化問題に関して反対の立場にある。共和党のザック・ラーン氏は娯楽用大麻の合法化には支持しないと明言しているが、民主党のロブ・サンド氏は4月に「成人向け大麻を合法化し、課税し、規制する計画を発表する」と述べた。
-マサチューセッツ州の有権者は、より特異で議論の多い投票制度に直面している。 「賢明なマリファナ政策を回復するための法案」は、2012年に圧倒的多数で承認されたベイ州の医療用マリファナプログラムを維持する一方、54％対46％の僅差で可決された嗜好用マリファナの販売と栽培の合法化に関する2016年の投票を廃止する内容となっている。この現在の取り組みは、有権者によって承認された合法化措置が覆される初めてのこととなる。
-「まったくの困難な戦いだ、間違いなくダビデとゴリアテだ」とサベット氏は語った。 「マリファナ業界は、自分たちが適格であるとは信じられないが、同時に、これを失敗させるために非常に強力に結集している。」
-サベット氏は、SAMは「その投票活動への寄付者の一人」だと述べた。マサチューセッツ州選挙・政治資金局の提出書類によると、この構想を支えた連合が資金調達の150万ドル全額をSAMから受け取ったことが判明した。それ以来、連合への追加の拠出があり、それは9月に報告される予定である。この法案に反対する団体「廃止を阻止せよ」が署名手続きに異議を唱えたが、州投票法委員会はその請願を却下した。
-いずれにせよ、フォックス氏は「これが人々が実際に望んでいることではないことは明らかだ」と述べた。
-2月に発表されたニューハンプシャー大学の世論調査では、マサチューセッツ州の有権者の63％がこの法案に反対しており、その中には調査対象となった共和党員の41％が含まれている。 NORML はこれに対抗する活動に深く関与する予定です。 「私たちはこの問題が炎上するのを確実にしたいと思っています」と彼は言いました。
-今から11月3日の選挙までには、有権者が主要な争点を検討する時間は十分にある。大麻のスケジュール変更、合法化、制限の重要性が高まるかどうかはまだ分からない。 「大麻政策改革を支持する人々の間には、中間選挙前に政策を撤回しようという機運が確実にある」とフォックス氏は語った。同氏の見解では、検討されているさまざまな州の取り組みや人種は「これが政治的に人気のある問題であるという認識」を示しているという。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/15/cannabis-marijuana-legalization-midterm-elections.html",
-    publishedAt: "2026-08-15T17:35:09+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "health-insurers-are-dumping-medicare-adv-e6302830",
-    title: "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
-    titleJa: "医療保険会社はメディケア・アドバンテージプランを切り捨てている。何人の高齢者が影響を受ける可能性があるかは次のとおりです。",
-    summaryJa: "来年、特に保険の選択肢が少ない地方市場では、高齢者が新しい医療保険を争うようになる可能性がある。",
-    bodyOriginal: `Older adults could be scrambling for new health coverage next year, especially in rural markets that have fewer insurance choices.`,
-    bodyJa: `来年、特に保険の選択肢が少ない地方市場では、高齢者が新しい医療保険を争うようになる可能性がある。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
-    publishedAt: "2026-08-15T16:16:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-58061136",
-    readTime: 2,
-  },
-  {
-    id: "prediction-markets-and-sports-betting-ho-d00052d6",
-    title: "Prediction markets and sports betting: How this UK exchange is trying to do both in the U.S.",
-    titleJa: "予測市場とスポーツ賭博: この英国の取引所が米国でどのようにその両方を実現しようとしているか",
-    summaryJa: "英国に本拠を置く賭博取引所である Smarkets は、2 つの別々の道を追求して米国に進出しています。2008年に設立された同社は3月に商品先物取引委員会にライセンスを申請した。 Smarketsの創設者ジェイソン・トロスト氏によると、生涯取引高が600億ドルを超えるこのプラットフォームは、イリノイ州、アイオワ州、ミシガン州でスポーツブックとして運営するための申請も保留中だという。",
-    bodyOriginal: `Smarkets, a UK-based betting exchange, is making its way into the U.S. by pursuing two separate avenues.
-The company, which was founded in 2008, filed for a license with the Commodity Futures Trading Commission in March. The platform — which has over $60 billion in lifetime trading volume — also has pending applications to operate as a sportsbook in Illinois, Iowa and Michigan, according to Smarkets founder Jason Trost.
-"The reason we're doing the dual track is because the legal situation is unclear if the CFTC has federal preemption or not," Trost said. Just like prediction market platforms Kalshi and Polymarket, sports also drives Smarkets' volume, he added.
-A growing number of states have argued prediction markets are operating as illegal gambling platforms. The CFTC has hit back, however, suing multiple states to block efforts looking to regulate the platforms. Last month, 44 state attorneys general also wrote that the federal agency cannot be the exclusive regulator of sports-related event contracts found on exchanges.
-Prediction market platform Kalshi called it "political theater" when New York filed a lawsuit against the platform in July.
-"States can't just shut down a federally licensed exchange. This would also just hurt New Yorkers, who would be driven offshore," Kalshi said.
-As the tug-of-war on regulatory jurisdiction continues, Smarkets is trying to cooperate with states. The Susquehanna-backed platform applied as a sportsbook in Illinois and Michigan, two states where regulators have categorized prediction markets as unlicensed sports betting operators. Smarkets already operates as a sportsbook in Indiana.
-Some of my competitors are in danger of ruining the reputation of this industry because I think they're acting irresponsibly [and] not following regulation closely enough.Jason TrostSmarkets founder
-The first choice, though, would be for Smarkets to run as a prediction markets exchange regulated under the CFTC, Trost said. He agrees with what some states argue against, that sports-event contracts should be identified as swaps and be federally regulated.
-"We view it more as a hedge rather than we want to be active on a state level. You know, our preference is to be active on the federal level," Trost said.
-Smarkets isn't the first one taking this dual-track approach. Sports betting platforms like DraftKings and FanDuel have launched prediction markets late last year. During last week's earnings call, FanDuel's parent company, Flutter, noted its prediction market platform can gain customers faster in states where sportsbooks are still under scrutiny.
-Smarkets has had to confront each state's provisions for its platform to operate as sportsbooks, including abiding to high compliance and tax costs.
-Still, Trost said he's willing to take the rough terrain and make Smarkets a leading "good actor" in the business. He noted the platform runs in four European countries, including Ireland, Malta and Sweden, which has helped the UK-based betting exchange know how to respond to contrasting regulatory landscapes.
-Without specifying which operators, Trost added platforms within the space also have a responsibility in following regulation, rather than working around it.
-"Some of my competitors are in danger of ruining the reputation of this industry because I think they're acting irresponsibly [and] not following regulation closely enough," he said.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `英国に本拠を置く賭博取引所である Smarkets は、2 つの別々の道を追求して米国に進出しています。
-2008年に設立された同社は3月に商品先物取引委員会にライセンスを申請した。 Smarketsの創設者ジェイソン・トロスト氏によると、生涯取引高が600億ドルを超えるこのプラットフォームは、イリノイ州、アイオワ州、ミシガン州でスポーツブックとして運営するための申請も保留中だという。
-トロスト氏は「われわれがデュアルトラックを行う理由は、ＣＦＴＣに連邦による先取り権があるかどうか、法的状況が不透明だからだ」と述べた。予測市場プラットフォームの Kalshi や Polymarket と同様に、スポーツも Smarkets の取引高を押し上げている、と同氏は付け加えた。
-予測市場が違法な賭博プラットフォームとして運営されていると主張する州が増えている。しかしCFTCはこれに反撃し、プラットフォームを規制しようとする取り組みを阻止するよう複数の州を訴えた。先月、44の州司法長官も、連邦機関は取引所で見つかったスポーツ関連イベント契約の独占的な規制者にはなれない、と書いた。
-予測市場プラットフォームのカルシは、ニューヨーク州が7月に同プラットフォームに対して訴訟を起こした際、これを「政治劇場」と呼んだ。
-「各州は、連邦認可を受けた取引所を簡単に閉鎖することはできない。これでは、ニューヨーカーが国外に追放されるだけで損害を被るだろう」とカルシ氏は語った。
-規制管轄権を巡る綱引きが続く中、スマーケッツは州と協力しようとしている。サスケハナが支援するプラットフォームは、規制当局が予想市場を無認可のスポーツ賭博事業者に分類しているイリノイ州とミシガン州でスポーツブックとして適用された。 Smarkets はすでにインディアナ州でスポーツブックとして運営されています。
-私の競合他社の一部は、無責任な行動をしており、規制を十分に遵守していないと思われるため、この業界の評判を台無しにする危険にさらされています。Jason TrostSmarkets 創設者
-しかし、最初の選択肢は、SmarketsがCFTCのもとで規制される予測市場取引所として運営されることだろうとトロスト氏は述べた。同氏は、一部の州が反対している、スポーツイベント契約はスワップとして特定され、連邦政府によって規制されるべきであるという意見に同意している。
-「私たちは州レベルで積極的に活動したいというよりは、むしろヘッジとして考えています。ご存知のとおり、私たちの好みは連邦レベルで活動することです」とトロスト氏は語った。
-この二重軌道アプローチを採用したのは Smarkets が最初ではない。 DraftKings や FanDuel などのスポーツ賭博プラットフォームは、昨年末に予想市場を立ち上げました。先週の決算会見で、FanDuelの親会社Flutterは、同社の予測市場プラットフォームは、スポーツブックが依然として精査されている州でより早く顧客を獲得できると述べた。
-スマーケッツは、プラットフォームをスポーツブックとして運営するために、高いコンプライアンスや税金コストの順守など、各州の規定に直面する必要があった。
-それでもトロスト氏は、困難な状況を乗り越えて、スマーケッツを業界の主要な「善良な俳優」にするつもりだと語った。同氏は、このプラットフォームはアイルランド、マルタ、スウェーデンを含むヨーロッパの4か国で運営されており、これが英国に本拠を置く賭博取引所が対照的な規制状況に対応する方法のノウハウに役立っていると指摘した。
-どの事業者かは明らかにしなかったが、トロストはこの分野にプラットフォームを追加し、規制を回避するのではなく、規制に従う責任も負っていると述べた。
-「競合他社の一部は、無責任な行動をしており、規制を十分に遵守していないため、この業界の評判を損なう危険にさらされています」と同氏は述べた。
-開示: CNBC とカルシには、顧客の獲得と少数出資を含む商業関係があります。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/15/prediction-markets-and-sports-betting-how-this-uk-exchange-is-trying-to-do-both-in-the-us.html",
-    publishedAt: "2026-08-15T14:46:43+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
   },
 ];
 
