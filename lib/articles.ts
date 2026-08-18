@@ -15,6 +15,319 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "us-canada-trade-talks-intense-as-new-tar-acc51424",
+    title: "US-Canada trade talks 'intense' as new tariff deadline looms",
+    titleJa: "新たな関税期限が迫る中、米国とカナダの通商交渉は「激化」",
+    summaryJa: "交渉担当者がトランプ大統領の最新の関税を回避するために合意に達しようと躍起になる中、マーク・カーニー首相は米国に対するあらゆる譲歩をカナダ人に売り込む必要があるだろう。",
+    bodyOriginal: `US-Canada trade talks 'intense' as new tariff deadline looms
+- Published
+"Intense" trade talks are going down to the wire as Canada seeks to avoid a fresh round of tariffs from the Trump administration due to come into effect in less than 48 hours.
+Canadian negotiators have been camped out in Washington for a week, trying to pin down some agreement before new 50% tariffs on some $20bn (C$28bn) worth of Canadian imports come into effect on Wednesday.
+Prime Minister Mark Carney kept details of the talks close to his chest when pressed by reporters on Monday, saying that given the "very delicate and intense" negotiations, it is "not the time to negotiate in public".
+While he said Canada was negotiating from "a position of strength", the stakes are high for the prime minister and his team to reach a deal before the Trump administration's latest financial squeeze, on about 5% of all Canadian imports, takes hold.
+Despite a flurry of meetings between Canadian negotiators and US Trade Representative Jamieson Greer in recent days, the two sides have yet to reach a final agreement.
+"Our job is not yet done," US-Canada Trade Minister Dominic LeBlanc said on Monday as he left Greer's office.
+Both sides have been clear the talks have been tough. Trump has described Canada as "nasty" on trade - a characterisation of negotiations that Carney did not entirely dispute., external
+He has also warned that "the time to get tougher" will be if the countries fail to reach a deal.
+Even if one is reached, Carney will need to sell any concessions made to a public frustrated with - and skeptical of - the administration south of the border.
+He will also need the buy-in from the provinces on any compromises.
+The US has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas.
+It has also asked for the ban on US alcohol sales, imposed early last year by most Canadian provinces in retaliation for Trump's tariffs, be removed.
+That concession would depend on the agreement of the provinces, which are in control of the alcohol in their respective jurisdictions.
+Ontario Premier Doug Ford, who makes a point of being tough on the US, said last week that an agreement on booze is conditional.
+Canada has been in pursuit of a deal that would see the US drop or reduce tariffs on its steel, aluminium, automobile and lumber sectors, all of which have been damaging to the country's economy.
+"If we get a fair deal that will protect our steel sector, our auto sector, our forestry sector, our agriculture sector, our manufacturing sector, then we'd be happy to bring booze back on the shelves," Ford said.
+Carney could also face pushback on any concessions on dairy, especially in Quebec, where the premier, Christine Fréchette, has said supply management is non-negotiable.
+Trump argues the system, which has production quotas, set pricing, and import quotas on dairy, eggs, and poultry, is "unreasonable" to American farmers who want to sell their products north of the border.
+Canadians are also not in the mood to offer many concessions to the US, even as they want more stability.
+A new poll from Abacus Data indicates that 74% feel the trade dispute has had an impact on their household, and 36% want to see Canada respond with new counter-tariffs, even if it risks more domestic economic pain.
+Just 18% favour concessions like ending provincial bans on American alcohol, in order to remove or reduce US tariffs.
+Reports in Canadian media also suggested that Canada's chief negotiator, Janice Charette, warned her US counterparts, external that the new tariffs could put further trade negotiations at risk if they are enacted on Wednesday.
+Carney has said he would not sign a deal unless it's a good one for Canada, though he has not been clear on what such a deal would look like.
+On Monday, he only said: "We'll have opportunities over the next 48 hours to discuss in more detail as the negotiations go forward."
+He said he planned to speak with Trump before the Wednesday deadline.
+He also said that he has "plans for any situation that may arise" should the talks fail.
+Conservative trade critic Shuvaloy Majumdar said in a statement that it's time for "a measure of relief" from economic anxiety.
+"We have grown tired of seeing our country used as a punching bag," he said.
+"Yet we share a common hope that Prime Minister Carney will deliver a genuine win at the negotiating table."`,
+    bodyJa: `新たな関税期限が迫る中、米国とカナダの通商交渉は「激化」
+- 公開されました
+カナダが48時間以内に発効予定のトランプ政権による新たな追加関税を回避しようとする中、「激しい」通商交渉が難航している。
+カナダの交渉担当者らは、約200億ドル（280億カナダドル）相当のカナダからの輸入品に対する新たな50％関税が水曜日に発効する前に、何らかの合意を確定させようと、1週間にわたりワシントンでキャンプを張っている。
+マーク・カーニー首相は月曜日、記者団の取材に対し交渉の詳細は胸に秘め、「非常にデリケートかつ激しい」交渉を考慮すると「公の場で交渉する時期ではない」と述べた。
+同氏は、カナダは「強い立場」で交渉していると述べたが、カナダ全輸入品の約5％を対象とするトランプ政権による最近の財政圧迫が本格化する前に、首相とそのチームが合意に達するかどうかは賭けが大きい。
+ここ数日、カナダの交渉担当者とジェイミソン・グリア米通商代表部との間で相次ぎ会談が行われたにもかかわらず、両国はまだ最終合意に至っていない。
+米国・カナダ貿易相のドミニク・ルブラン氏は月曜日、グリア氏の執務室を去り際に「我々の仕事はまだ終わっていない」と述べた。
+双方とも交渉が難航していたことは明らかだ。トランプ大統領はカナダを貿易に関して「意地悪」と表現したが、これについてカーニー長官は全面的に異議を唱えなかった。
+同氏はまた、各国が合意に達しなかった場合には「より厳しくなる時が来る」と警告した。
+たとえ合意に達したとしても、カーニー氏は国境以南の政権に不満を抱き、懐疑的な国民に譲歩を売り込む必要があるだろう。
+また、いかなる妥協についても州からの同意が必要となるだろう。
+米国はカナダに対し、米国製自動車に対する残りの報復関税の撤廃や乳製品割り当ての調整など、多くの譲歩を求めている。
+また、トランプ大統領の関税への報復としてカナダのほとんどの州が昨年初めに課した米国でのアルコール販売禁止措置の解除も求めた。
+その譲歩は、それぞれの管轄区域でアルコールを管理している州の合意に依存することになる。
+米国に対して厳しい姿勢を貫くオンタリオ州のダグ・フォード首相は先週、酒類に関する協定には条件があると述べた。
+カナダは米国が自国経済に悪影響を及ぼしている鉄鋼、アルミニウム、自動車、木材部門に対する関税を引き下げまたは引き下げる合意を求めている。
+フォードは「鉄鋼セクター、自動車セクター、林業セクター、農業セクター、製造セクターを守る公正な合意が得られれば、喜んで酒類を店頭に戻すだろう」と語った。
+カーニー首相は乳製品分野でのいかなる譲歩にも反発に直面する可能性があり、特にケベック州では供給管理は交渉の余地がないと首相のクリスティーヌ・フレシェット氏が述べている。
+トランプ大統領は、この制度は乳製品、卵、家禽肉の生産割当、価格設定、輸入割当を定めており、国境以北で農産物を販売したい米国の農家にとって「不合理」だと主張。
+カナダ人も、さらなる安定を望んでいるとはいえ、米国に多くの譲歩をする気にはなっていない。
+アバカス・データの最新世論調査によると、74％が貿易紛争が家計に影響を与えていると感じており、36％が国内経済にさらなる打撃を与えるリスクがあるとしても、カナダが新たな対抗関税で対応することを望んでいる。
+米国の関税を撤廃または削減するために、州による米国産アルコールの禁止令を廃止するなどの譲歩を支持する人はわずか18％だった。
+カナダメディアの報道によると、カナダの首席交渉官ジャニス・シャレット氏は、水曜日に新たな関税が発動されればさらなる通商交渉が危険にさらされる可能性があると対外的に米国の交渉相手に警告したという。
+カーニー首相は、カナダにとって良い協定でない限り協定には署名しないと述べているが、そのような協定がどのようなものになるかについては明確になっていない。
+同氏は月曜日には「交渉が進むにつれて、今後48時間にわたってより詳細に話し合う機会がある」とだけ述べた。
+同氏は水曜日の期限までにトランプ大統領と会談する予定だと述べた。
+同氏はまた、協議が決裂した場合に「起こり得るあらゆる状況に備える計画」があるとも述べた。
+保守派通商評論家のシュヴァロイ・マジュムダル氏は声明で、経済不安から「ある程度の救済」をすべき時期が来たと述べた。
+「我が国がサンドバッグとして利用されるのを見るのにはもう飽き飽きしている」と彼は語った。
+「しかし我々は、カーニー首相が交渉の場で真の勝利をもたらすという共通の希望を共有している。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-18T00:02:31+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1962/live/397b2430-9a87-11f1-b792-a710e56a11dc.jpg",
+    readTime: 5,
+  },
+  {
+    id: "lakers-governor-jeanie-buss-says-sibling-e12b1644",
+    title: "Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner",
+    titleJa: "レイカーズのジーニー・バス知事は、兄弟姉妹が家族の株式をボブ・アイガーやジョシュア・クシュナーに売却することはできないと述べた",
+    summaryJa: "ロサンゼルス・レイカーズのジーニー・バス知事は、家族がNBAチームの株式を売却する可能性に反対しており、ボブ・アイガーとジョシュア・クシュナーへの家族の売却決定に関するESPNの以前の報道と矛盾している。CNBCが入手したジーニー・バスの兄弟（ジム、ジョニー、ジャニー、ジョーイ、ジェシー）を代理する法律事務所に宛てた書簡の中で、彼女の弁護士アダム・ストライサンド氏は、ジーニー・バスはチーム売却に同意しておらず、バス一家が売却することを示唆する投票は「無効となるだろうし、無効である」と述べた。",
+    bodyOriginal: `Los Angeles Lakers governor Jeanie Buss is opposing the potential sale of her family's stake in the NBA team, contradicting an earlier ESPN report about the family's decision to sell to Bob Iger and Joshua Kushner.
+In a letter obtained by CNBC addressed to law firms representing Jeanie Buss's siblings — Jim, Johnny, Janie, Joey and Jesse — her lawyer Adam Streisand says Jeanie Buss has not agreed to sell the team and that any vote suggesting the Buss family is selling "would be and is void."
+Streisand argues in the letter that Jeanie Buss remains the controlling shareholder of the Lakers, pursuant to a 2017 court order, and that no sale can take place without her consent.
+"No sale of the JAB Trust's 17.8% ownership interest in the Los Angeles Lakers, Inc. can be effectuated without approval by the current co-trustees, i.e., Jeanie, Janie and Joey Buss. Pursuant to the JAB Trust and the attached Court Order, the co-trustees are bound to vote the Los Angeles Lakers, Inc. shares to ensure that the minimum 15% ownership requirement is maintained in order to ensure that Jeanie Buss may remain Controlling Owner," Streisand says in the letter.
+"Any attempt by the co-trustees to do otherwise, and any attempt to aid or abet the co-trustees as such, would constitute a breach of trust, breach of fiduciary duty and be in contempt of court," he says.
+Last week, Iger and Kushner agreed to buy Mark Walter's majority stake in the Lakers. That deal valued the team at $12.5 billion, CNBC reported at the time. The Buss family stake would have meant an overall team ownership share of approximately 83% for the former Disney CEO and Thrive Capital founder, ESPN reported.
+But Jeanie Buss doesn't want to sell the family's stake in the team at this time, according to a person familiar with the matter, who spoke on the condition of anonymity about confidential matters. She wants to hold onto the team stake for value reasons as well as to maintain her role as governor, the person said.
+Read the full letter from Jeanie Buss's attorney:
+This story is developing. Please check back for updates.
+Correction: A previous headline on this article misidentified one of the potential buyers of the Buss family stake in the Los Angeles Lakers.`,
+    bodyJa: `ロサンゼルス・レイカーズのジーニー・バス知事は、家族がNBAチームの株式を売却する可能性に反対しており、ボブ・アイガーとジョシュア・クシュナーへの家族の売却決定に関するESPNの以前の報道と矛盾している。
+CNBCが入手したジーニー・バスの兄弟（ジム、ジョニー、ジャニー、ジョーイ、ジェシー）を代理する法律事務所に宛てた書簡の中で、彼女の弁護士アダム・ストライサンド氏は、ジーニー・バスはチーム売却に同意しておらず、バス一家が売却することを示唆する投票は「無効となるだろうし、無効である」と述べた。
+ストライサンド氏は書簡の中で、2017年の裁判所命令に従い、ジーニー・バス氏が引き続きレイカーズの支配株主であり、彼女の同意なしに売却はできないと主張している。
+「JABトラストのロサンゼルス・レイカーズ・インクに対する17.8％の所有権の売却は、現在の共同受託者、すなわちジーニー・バス、ジャニー・バス、ジョーイ・バスの承認なしには実現できない。JABトラストおよび添付の裁判所命令に従い、共同受託者はジーニー・バスが確実に残るために最低15％の所有権要件が維持されることを保証するためにロサンゼルス・レイカーズ・インクの投票を行う義務がある。支配的な所有者だ」とストライサンド氏は書簡の中で述べている。
+「共同受託者がそれ以外のことをしようとしたり、共同受託者を幇助したり教唆しようとしたりする試みは、背任、受託者義務違反となり、法廷侮辱罪となる」と同氏は言う。
+アイガー氏とクシュナー氏は先週、マーク・ウォルター氏のレイカーズの過半数株を購入することで合意した。当時CNBCは、この契約によりチームの価値は125億ドルになったと報じた。 ESPNの報道によると、バス家の株式は、ディズニーの元CEOでスライブ・キャピタルの創設者にとって、チーム全体の所有権の割合が約83％になることを意味していたという。
+しかし、機密事項について匿名を条件に語った関係者によると、ジーニー・バス氏は現時点で家族のチーム株を売却するつもりはないという。同関係者によると、彼女は知事としての役割を維持するだけでなく、価値上の理由からチームの株式を保持したいと考えているという。
+ジーニー・バスの弁護士からの手紙全文をお読みください。
+この物語は発展中です。最新情報を再度ご確認ください。
+訂正: この記事の前の見出しでは、ロサンゼルス・レイカーズのバス家の株式の潜在的な買い手の一人を誤って特定していました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
+    publishedAt: "2026-08-17T23:47:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "absolutely-crazy-here-s-what-south-kore-f02fd1ee",
+    title: "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
+    titleJa: "「絶対にクレイジー」：韓国の株式投資家が米国市場で何をしているのか",
+    summaryJa: "世界の投資家が押し寄せる中でも、国内の調整を避けるために韓国の投資家の波が米国市場に殺到している。韓国取引所のデータによると、ベンチマーク指数が強気相場の領域に入ったにもかかわらず、韓国の個人投資家は先週の大半で国内株を売り越した。海外投資家は一転して買い越しとなった。",
+    bodyOriginal: `A wave of South Korean investors is flocking to U.S. markets to avoid a correction at home, even as global investors pile in.
+Korean retail investors net sold domestic stocks for most of last week, even as the benchmark index entered bull market territory, according to Korea Exchange data. Overseas investors reversed course to become net buyers.
+Here are five things related to those investors:
+Buying ADRs
+Of the $4.5 billion in U.S. stocks Korean investors net bought in July, around $840 million went into the chipmaker's U.S.-listed depositary receipts, according to Korea Securities Depository data. SK Hynix's ADRs were the second most net-purchased U.S. securities, even though Korean investors can buy the same company directly at home.
+The U.S. receipts have traded at a premium to the Korean shares, which Owen Lamont, senior vice president of Acadian Asset Management, said was about 10% recently. They're also exhibiting greater volatility.
+"That's absolutely crazy," Lamont said of Korean investors buying SK Hynix's U.S.-listed shares. "There's no reason for a Korean investor to buy ADRs of Korean stocks in the U.S."
+Such price discrepancies are unusual and can be a warning sign of speculative excess, Lamont said. "They're a symptom of the bubble," he said, pointing to similar dislocations involving Taiwanese and Indian companies around the dot-com boom.
+Leveraged bets
+One of the 10 most popular U.S. stocks among investors this month was a leveraged product -- ProShares Ultra QQQ ETF -- which ranked No. 7.
+In July, four of the 10 most net purchased U.S. stocks were leveraged products, according to data from Korea Securities Depository.
+The most popular was the Direxion Daily Semiconductor Bull 3X Shares ETF, or SOXL, which aims to deliver three times the daily performance of a semiconductor index, data show. The leveraged ProShares UltraPro QQQ and ProShares Ultra QQQ ranked fourth and sixth.
+Same strategy
+Investors may be changing markets without necessarily changing the bet.
+"The irony is that if you parse the data and look at what they're buying, it's largely shares tied up in the same AI hardware theme that's been selling off in the local market," Phillip Wool, head of research at Rayliant Global Advisors, said.
+Jung In Yun, founder of Fibonacci Asset Management, said some traders hurt by losses in Korean semiconductor shares or leveraged ETFs may be shifting to U.S. AI stocks they perceive as higher-quality or more liquid.
+"They are not necessarily reducing their exposure to the AI theme," Yun said. "They may simply be changing the geographical vehicle through which they express the same view."
+Reversal from July
+Korean retail investors net bought around $4.5 billion in U.S. stocks last month, according to Korea Securities Depository data. That was a sharp pickup from June and near the net purchases of $5 billion in January.
+At the same time, the country's shares saw a massive selloff, following a spectacular rally that drew retail investors into semiconductor stocks and leveraged products, before staging a rebound this month.
+Margin loan balances in the Korean stock market stood at about 37 trillion won ($26 billion) at the end of June, before tumbling to 27 trillion won earlier this month, the lowest level this year, according to the Korea Financial Investment Association.
+While July's purchases were "strong" but not unprecedented, Lamont said, "it is still pretty interesting that they increased their U.S. buying even as the Korean market was plunging," he added.
+Effect on market
+Whether the influx of Korean money can meaningfully increase volatility across the much larger U.S. market is another question.
+Wool sees little risk of that. While retail investors can have an outsized influence in Korea, U.S. markets are dominated by professional and institutional investors, making even large Korean flows small relative to overall turnover.
+Lamont sees greater potential for distortions in individual names and corners of the market favored by retail traders. He pointed to Korean investors' rush into U.S. "quantum" stocks in late 2024, and said the proliferation of leveraged ETFs across Korea, Hong Kong and the U.S. is "possibly adding volatility and magnifying market fluctuations."`,
+    bodyJa: `世界の投資家が押し寄せる中でも、国内の調整を避けるために韓国の投資家の波が米国市場に殺到している。
+韓国取引所のデータによると、ベンチマーク指数が強気相場の領域に入ったにもかかわらず、韓国の個人投資家は先週の大半で国内株を売り越した。海外投資家は一転して買い越しとなった。
+これらの投資家に関連する 5 つの事柄は次のとおりです。
+ADRの購入
+韓国証券保管振替庁のデータによると、韓国の投資家が7月に買い越しした米国株45億ドルのうち、約8億4000万ドルがこの半導体メーカーの米国上場預託証券に入金された。韓国の投資家は同じ会社を国内で直接買うことができるにもかかわらず、SKハイニックスのADRは米国証券で2番目に多く買い越された銘柄となった。
+米国の受領金は韓国株に比べて割高に取引されており、アカディアン・アセット・マネジメントの上級副社長オーウェン・ラモント氏によると、最近の株高は約１０％だという。また、ボラティリティも大きくなっています。
+ラモント氏は韓国投資家がSKハイニックスの米国上場株を購入していることについて「まったくクレイジーだ」と述べた。 「韓国の投資家が米国で韓国株のADRを買う理由はない」
+ラモント氏は、このような価格差は異例であり、投機過剰の警告サインである可能性があると述べた。同氏は、ドットコムブームの周囲で台湾やインドの企業が巻き込まれた同様の混乱を指摘し、「それらはバブルの症状だ」と述べた。
+レバレッジをかけた賭け
+今月、投資家の間で最も人気のある米国株トップ１０の１つは、レバレッジ商品であるプロシェアーズ・ウルトラＱＱＱＥＴＦで、７位にランクインした。
+韓国証券保管振替庁のデータによると、7月に最も多く買い越された米国株10銘柄のうち4銘柄がレバレッジ商品だった。
+データによると、最も人気があったのはディレクシオン・デイリー・セミコンダクター・ブル3X株ETF（SOXL）で、半導体指数の1日あたりのパフォーマンスを3倍にすることを目指している。レバレッジを活用した ProShares UltraPro QQQ と ProShares Ultra QQQ は 4 位と 6 位にランクされました。
+同じ戦略
+投資家は必ずしも賭け金を変更せずに市場を変更する可能性があります。
+レイリアント・グローバル・アドバイザーズの調査責任者フィリップ・ウール氏は、「皮肉なことに、データを解析して彼らが何を買っているかを見ると、主に同じAIハードウェアのテーマに関連した株が地元市場で売られていることが分かる」と述べた。
+フィボナッチ・アセット・マネジメントの創設者チョン・インユン氏は、韓国の半導体株やレバレッジETFの損失で傷ついた一部のトレーダーが、より質が高く流動性が高いと判断した米国のAI株にシフトしている可能性があると述べた。
+「彼らは必ずしもAIというテーマへの接触を減らしているわけではない」とユン氏は語った。 「彼らは単に、同じ見解を表現する地理的手段を変えているだけかもしれない。」
+7月から反転
+韓国証券保管振替庁のデータによると、韓国の個人投資家は先月米国株を約45億ドル買い越した。これは6月から急激に増加し、1月の純購入額50億ドルに近かった。
+同時に、同国の株価は、個人投資家を半導体株やレバレッジ製品に引き寄せた目覚ましい上昇を受けて大幅に下落したが、今月反発を見せた。
+韓国金融投資協会によると、韓国株式市場の信用貸付残高は６月末時点で約３７兆ウォン（２６０億ドル）だったが、今月初めには今年最低水準の２７兆ウォンにまで落ち込んだ。
+ラモント氏は、7月の購入額は「強かった」ものの前例がないわけではないとし、「韓国市場が急落しているにもかかわらず、米国での購入額が増加したことは依然として非常に興味深い」と付け加えた。
+市場への影響
+韓国マネーの流入が、はるかに規模の大きい米国市場全体のボラティリティーを有意に高めることができるかどうかは別の問題だ。
+ウールではそのリスクはほとんどないと考えています。韓国では個人投資家が大きな影響力を持つ可能性があるが、米国市場はプロと機関投資家が大半を占めており、韓国からの大きな資金流入であっても全体の出来高に比べれば小さい。
+ラモント氏は、小売トレーダーが好む市場の個人名やコーナーが歪められる可能性がさらに高まると見ている。同氏は、2024年後半に韓国の投資家が米国の「クオンタム」株に殺到していることを指摘し、韓国、香港、米国におけるレバレッジETFの普及が「ボラティリティを高め、市場変動を拡大させている可能性がある」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
+    publishedAt: "2026-08-17T23:39:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "to-joke-or-not-to-joke-how-to-write-a-go-c1175a03",
+    title: "To joke or not to joke?: How to write a good out-of-office message",
+    titleJa: "冗談を言うべきか、冗談を言わないべきか?: 優れた社外メッセージの書き方",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `To joke or not to joke?: How to write a good out-of-office message
+- Published
+You're finally about to head off on a well-earned break, but there's one more task to tick off your to-do list: composing an out-of-office reply.
+Many will be all too familiar with debating how much information to include and how available you will be - and whether to inject some personality into your message, or even risk cracking a joke.
+Experts say there are clear dos and don'ts when it comes to writing an out-of-office message (OOO) - and getting it wrong can have more serious consequences than you might think. Here are their rules to penning the perfect out-of-office reply.
+'Avoid oversharing or boasting'
+Debretts, an etiquette consultancy, says a good automatic reply should be polite and concise, give a specific return date, and provide another point of contact if appropriate.
+But you should avoid oversharing, for instance including the specifics of your holiday plans, or boasting about things like second homes or expensive hobbies.
+"Virtue signalling" about why you are taking time off is another no-no. It could seem "smug" or like you are "trying too hard", says director Rupert Wesson.
+"Some people will be delighted you are spending 'quality time with your family', but given that they are the ones emailing you and are hard at work, you could risk rubbing their noses in it."
+That said, a bare message that simply states, "I'm out of office" with no details of a return date or alternative emails to try, can raise more questions than it answers.
+The danger of 'under-communication'
+"People don't know when to expect a reply or who else can help, and that uncertainty is what leads to the 'just-in-case' follow-ups," says Charlotte Davies, a career expert at Linkedin.
+She believes a good OOO does two things: shares your dates and points people to a backup contact.
+She also thinks it's worth briefing the person covering you about anything important before you go: "It helps whoever's emailing you, and it protects your break too."
+Should you crack jokes?
+While the personal touch may work in OOOs if your team culture is informal, beware that humour doesn't always land well over email.
+Overly glib or sarcastic messages can get you into trouble, even if they are funny, reckons Paul Fitzsimmons, head of sales and marketing at law firm Wilford Smith.
+"'I'm currently out of the office pretending this company doesn't exist'... 'If it's urgent, call someone who cares'... 'Emails received while I'm away will be deleted unread,'" he gives as examples.
+Adam Murfet, 41, a senior sales executive, says a former colleague lost a deal after a joke in an OOO angered a client.
+But he thinks humour can help some people stand out at a time when communication is increasingly AI-driven.
+"Always ask, would you put the same thing in an email?" he says, as a rule of thumb.
+"Anything you send will be read and people will judge you on it."
+'I won't be checking emails'
+Commentators often complain about the sender saying they will have "limited access to email" while they are away.
+The risk is it invites people to keep contacting you as if you were still at work.
+Wesson says that if you really need to check emails on holiday, then it's better to say, "I will be periodically checking emails," as it manages expectations.
+Davies adds that if you want a proper break, "say so clearly - something like 'I won't be checking emails during this time'."
+"Remember, in the UK you have a legal right to uninterrupted annual leave unless your contract says otherwise."
+Tips on writing a good out-of-office reply
+1. Be polite: Don't just launch in with "I'm on annual leave". Preface your message with a greeting, such as "Thank you for your email".
+2. Give a specific return date and back-up contact if appropriate. Ensure all the contact details are correct
+4. Be clear about your availability: Manage expectations and if you would prefer not to be contacted, say so
+5. Don't promise instant replies on your return: A backlog is completely normal, so "within a few days" is a better promise to make
+6. Tick both internal and external contacts if you use Outlook. It's an easy one to miss
+7. Switch off your out of office when you return: A stale OOO can look disorganised.
+Sources: Debretts, Linkedin`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-17T23:00:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2af9/live/1948b440-9a12-11f1-a05c-fdd5e0ed226e.jpg",
+    readTime: 2,
+  },
+  {
+    id: "l3harris-ousts-ceo-chris-kubasik-over-un-abbcb12c",
+    title: "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+    titleJa: "L3ハリス、不特定の「行為」を理由に最高経営責任者（CEO）クリス・クバシク氏を解任、株価は4％下落",
+    summaryJa: "防衛請負大手L3ハリス・テクノロジーズは、クリス・クバシク最高経営責任者（CEO）が「会社の価値観と一致しないある行為」を行っていたことを知り、日曜日に同氏を解任したと同社は月曜日の声明文で述べた。L3ハリスの取締役会はサム・メータをCEO兼社長に任命したと同社は発表した。メータ氏は最近、同社の宇宙・ミッションシステム部門と通信・スペクトル・ドミナンス部門の社長を務めていた。",
+    bodyOriginal: `Defense contracting giant L3Harris Technologies ousted CEO Chris Kubasik on Sunday after learning he engaged in "certain conduct ... that was not consistent with the values of the Company," the company said in a statement on Monday.
+L3Harris's board appointed Sam Mehta as CEO and president, the company said. Mehta most recently was the company's president of the Space & Mission Systems and Communications & Spectrum Dominance segments.
+Shares of L3Harris fell by more than 4% on the heels of the news of Kubasik's ouster, which "was unrelated to the Company's financial reporting, controls, customer relationships or operational performance," the company's statement said.
+"Following its investigation of these matters with the assistance of independent counsel, the Board determined that it would be in the best interests of the Company to enter into a separation agreement with Kubasik," the statement said.
+Kubasik's ouster comes seven months after the Defense Department committed to a $1 billion convertible preferred equity investment in L3Harris' missile solutions business, which will become a separate company as part of the deal. An initial public offering for the missile business has been postponed from the latter half of 2026 until mid-2027.
+L3Harris was responsible for modifying a 747 jumbo jet controversially gifted by Qatar to the United States to serve as a new Air Force One for President Donald Trump.
+Kubasik, 65, in addition to being CEO, had been L3Harris' chairman of the board. He had been CEO since 2021. L3Harris on Monday said that Lewis Hay III, the company's lead independent director, was named independent chairman of the board.
+CNBC has reached out to Kubasik for comment.
+The news outlet Semafor, citing two people briefed on the investigation, reported that Kubasik was ousted "after an independent probe found he had engaged in an inappropriate relationship with an employee."
+CNBC has asked L3Harris whether that report is accurate.
+In 2012, the board of the major defense contractor Lockheed Martin asked for and received Kubasik's resignation as president and chief operating officer, weeks before he was scheduled to become CEO, after "an ethics investigation confirmed that he had a close personal relationship with a subordinate employee," Lockheed said in a statement at the time.
+In a filing with the Securities and Exchange Commission that details Kubasik's separation agreement, L3Harris said that Kubasik "does not admit, and expressly disclaims, any violation of Company policy or basis for termination for 'cause,' but has determined to resolve all matters relating to the Executive's separation from employment on the terms set forth in this Agreement."
+Under the separation agreement, Kubasik will not receive any bonus under the company's 2026 incentive plan but will keep nearly 384,000 stock options.
+Kubasik and his wife, Jane Kubasik, are longtime supporters of the athletics program at their alma mater, the University of Maryland. The Kubasik First Impact Program helps a select cohort of Maryland student-athletes each academic year prepare for life beyond their sport.
+Hay, in a statement about Mehta's elevation to CEO, said, "Sam is a proven executive who brings deep knowledge of our business, priorities and culture, making him ideally suited to become President and CEO of L3Harris at this important time in our company's and our nation's history."
+"Sam's readiness to lead L3Harris reflects the Board's robust succession planning and our focus on cultivating talent," Hay said.
+Mehta, in a statement, said, "I am honored by the opportunity to serve as President and CEO of
+L3Harris. I look forward to working even more closely with my fellow senior leaders and my talented colleagues across the Company to support the needs of our country and our allies."
+"Today, L3Harris has a portfolio purpose-built for the future of warfare, and we are well-positioned to continue executing our focused growth strategy as The Trusted Disruptor," he said.`,
+    bodyJa: `防衛請負大手L3ハリス・テクノロジーズは、クリス・クバシク最高経営責任者（CEO）が「会社の価値観と一致しないある行為」を行っていたことを知り、日曜日に同氏を解任したと同社は月曜日の声明文で述べた。
+L3ハリスの取締役会はサム・メータをCEO兼社長に任命したと同社は発表した。メータ氏は最近、同社の宇宙・ミッションシステム部門と通信・スペクトル・ドミナンス部門の社長を務めていた。
+同社の声明によると、クバシク氏解任のニュースを受けてＬ３ハリスの株価は４％以上下落したが、この解任は「当社の財務報告、管理、顧客関係、経営成績とは無関係だった」という。
+「独立した弁護士の支援を受けてこれらの問題を調査した結果、取締役会はクバシク氏と分離契約を結ぶことが当社にとって最大の利益になると判断した」と声明で述べた。
+クバシク氏の解任は、国防総省がL3ハリスのミサイルソリューション事業に10億ドルの転換型優先株投資を約束してから7カ月後に行われたが、この取引の一環として同事業は別会社となる。ミサイル事業の新規株式公開（ＩＰＯ）は２０２６年後半から２０２７年半ばに延期された。
+L3ハリスは、ドナルド・トランプ大統領の新しいエアフォース・ワンとして使用するために、カタールから米国に贈られた物議を醸した747ジャンボジェット機の改造を担当した。
+65歳のクバシク氏はCEOであることに加えて、L3ハリスの取締役会会長も務めていた。同氏は2021年からCEOを務めていた。L3ハリス氏は月曜日、同社の首席独立取締役であるルイス・ヘイ3世が独立取締役会長に任命されたと発表した。
+CNBCはクバシク氏にコメントを求めた。
+報道機関セマフォーは、捜査について説明を受けた２人の関係者の話として、クバシク氏が「独立した調査で従業員と不適切な関係にあったことが判明したため」解任されたと報じた。
+CNBCはL3Harrisにその報道が正確かどうか尋ねた。
+2012年、大手防衛請負業者ロッキード・マーティンの取締役会は、クバシク氏がCEOに就任する予定の数週間前に、「倫理調査の結果、部下の従業員と親密な個人的関係があったことが確認された」として、クバシク氏の社長兼最高執行責任者としての辞任を要請し、受け入れられたと当時の声明文で述べた。
+クバシク氏の離職合意の詳細を記載した証券取引委員会への提出書類の中で、L3ハリス氏は、クバシク氏が「会社方針への違反や『理由』による解雇の根拠を認めず、明示的に否認するが、幹部の離職に関するすべての問題を本契約に定められた条件で解決することを決意した」と述べた。
+分離合意に基づき、クバシク氏は同社の2026年のインセンティブプランに基づくボーナスは受け取らないが、約38万4,000株のストックオプションを保有することになる。
+クバシクと妻のジェーン・クバシクは、母校であるメリーランド大学の陸上競技プログラムを長年サポートしています。クバシック ファースト インパクト プログラムは、毎年メリーランド州の選ばれた学生アスリートがスポーツ以外の人生に備えるのを支援します。
+ヘイ氏はメータ氏のCEO昇格に関する声明で、「サム氏は当社の事業、優先事項、文化について深い知識をもたらしてくれる実績ある経営幹部であり、当社と我が国の歴史におけるこの重要な時期にL3ハリスの社長兼最高経営責任者（CEO）に就任するのに理想的な人物である」と述べた。
+「サムがL3ハリスを率いる準備ができているのは、取締役会の強力な後継者計画と人材育成への当社の注力を反映している」とヘイ氏は述べた。
+メータ氏は声明で「当社の社長兼最高経営責任者（CEO）を務める機会を光栄に思う」と述べた。
+L3ハリス。私たちの国と同盟国のニーズをサポートするために、会社全体の上級リーダーや才能ある同僚とさらに緊密に協力することを楽しみにしています。」
+「現在、L3ハリスは将来の戦争のために構築されたポートフォリオを持っており、信頼できる破壊者として焦点を当てた成長戦略を実行し続ける有利な立場にあります」と同氏は述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+    publishedAt: "2026-08-17T22:52:11+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "fifa-official-sacked-after-infantino-pla-7811bdc1",
+    title: "Fifa official sacked after Infantino plan criticism",
+    titleJa: "インファンティーノのプラン批判を受けてFIFA関係者が解任",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Fifa official sacked after Infantino plan criticism
+- Published
+Fifa's chief operating officer Kevin Lamour has been sacked by the governing body, less than three weeks after he strongly criticised its president Gianni Infantino's aborted plan to sell stakes in competitions to private investors, BBC Sport has been told.
+In a statement, a Fifa spokesperson would only confirm that "the working relationship between Fifa and Kevin Lamour as Chief Operating Officer has ended on 17 August 2026.
+"Fifa thanks Kevin for his two years of service and wishes him the best of luck for the future."
+Fifa's staff were informed of the news in an email by its secretary general Mattias Grafstrom on Monday evening, who told them the organisation and Lamour had "agreed to part ways".
+Last month, Lamour described the controversial Fifa Forward Enterprise (FFE) plans as "the project of one person", and said "the time has now come for football political leaders to ask themselves the right questions and make the right decisions".
+He added Fifa's own administration was "deceived" about the now abandoned project.
+"Our mission - the mission of the hundreds of passionate, dedicated, and exemplary Fifa employees - is to serve football", he added.
+"A president must bring people together, unite them, and inspire them. Today, we are experiencing the opposite."
+Lamour acknowledged he had a duty of loyalty to his employer but also to "certain values" and supporting his colleagues.
+"If that means I lose my job, then so be it," he added. "I will understand and respect that decision. At least I'll sleep well tonight."
+Lamour joined Fifa in November 2024, having previously served as deputy general secretary at Uefa, and was two layers of management below Infantino.
+Earlier this month, Infantino received the backing of senior executives in a meeting in Morocco, but BBC Sport was told Lamour was not invited.
+Lamour has been approached for comment.
+In a letter sent to members of Fifa's Council, and seen by BBC Sport, Grafstrom wrote: "I would like to provide you with an important update regarding a change within the Fifa Administration.
+"Following recent discussions, Fifa and our Chief Operating Officer, Kevin Lamour have agreed to part ways. This decision was made after careful consideration and with great respect for Kevin, both personally and professionally… I felt it was important that I personally provide you this update and I would like to express my gratitude to Kevin for these contributions and for his work and commitment on behalf of Fifa on a daily basis. I wish Kevin all the best for the future."
+How did we get to this point?
+Infantino is under increasing pressure following his proposal to create a new company - FFE - to manage the commercial and ticketing rights of all Fifa competitions, including World Cups.
+FFE was aborted after Infantino's plan to sell 21% of the company to private investment companies received widespread criticism.
+Uefa, Concacaf - who govern football in North and Central America and the Caribbean - and the Asian Football Confederation publicly opposed the plan, while Uefa threatened to boycott the World Cup if the plan went ahead.
+Lamour criticised Infantino, while a senior adviser to Infantino, Carlos Cordeiro, resigned.
+After the proposal was aborted, Uefa and Concacaf withdrew their support for Infantino when he stands for a fourth presidential term at the Fifa Congress in March next year.
+Several Concacaf members including Mexico broke ranks with their confederation to offer their support for Infantino, while the confederations of Africa, South America and Oceania have backed Infantino.
+On Monday the Scottish FA became the latest body to withdraw its support for Infantino, following England, Wales, Northern Ireland and the Republic of Ireland.
+Football governance charity FairSquare said it had written to Fifa demanding Infantino not be allowed to stand for re-election.
+Related topics
+- Published12 hours ago
+- Published6 days ago
+- Published10 August`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-17T20:46:08+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6644/live/a810eee0-9a71-11f1-b68f-817a5a696299.jpg",
+    readTime: 2,
+  },
+  {
     id: "30-year-treasury-yield-tops-5-31-the-hig-662fde49",
     title: "30-year Treasury yield tops 5.31%, the highest in 19 years",
     titleJa: "30年米国債利回りが5.31％を超え、19年ぶりの高水準に",
@@ -122,6 +435,52 @@ But Beijing will likely allow its refiners to import more so they can benefit fr
     publishedAt: "2026-08-17T18:25:01+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "film-commission-backs-amazon-mgm-expansi-a5ec30ae",
+    title: "Film commission backs Amazon MGM expansion of studios",
+    titleJa: "フィルムコミッション、アマゾンMGMのスタジオ拡張を支持",
+    summaryJa: "フィルムコミッション、アマゾンMGMのスタジオ拡張を支持- 公開されました",
+    bodyOriginal: `Film commission backs Amazon MGM expansion of studios
+- Published
+Amazon MGM Studios' planned expansion of a Berkshire-based complex would be a "considerable boost" for filmmaking, a government-funded industry body said.
+Bray Film Studios, in Water Oakley, near Windsor, was previously used by the Hammer Films company.
+The previous owner of the studios got planning permission to expand them in 2022 and Amazon MGM bought the site in 2024.
+The British Film Commission (BFC) said it "recognises that the studio benefits from Amazon MGM's commitment" and welcomed its "ambition to support employment opportunities for both the local community and more widely across the UK sector".
+The company has been using the site since 2022 and a public consultation regarding the expansion project closed in May.
+Amazon MGM said its current proposals, which include building a multi-storey car park and six new sound stages, would help "realise the site's full potential".
+The expansion is expected to create 470 jobs as it is built and 920 in Berkshire more widely.
+Samantha Perahia, the BFC's head of production, told the Royal Borough of Windsor and Maidenhead that it supports the plan.
+"The enhancements proposed for Bray Studios will not only allow the region to build on its already established and impressive reputation amongst international clients," she said.
+She added that it "would also provide a considerable boost to the combined efforts of the BFC and our public and commercial partners in marketing the region, and the wider UK."
+The planning application will be decided later.
+Get in touch
+Your Voice
+- Published16 July
+- Published9 May`,
+    bodyJa: `フィルムコミッション、アマゾンMGMのスタジオ拡張を支持
+- 公開されました
+アマゾンＭＧＭスタジオが計画しているバークシャーに本拠を置く複合施設の拡張は、映画製作にとって「かなりの促進」になるだろうと、政府出資の業界団体は述べた。
+ウィンザー近郊のウォーター オークレーにあるブレイ フィルム スタジオは、以前はハマー フィルム社によって使用されていました。
+スタジオの前の所有者は 2022 年に拡張の計画許可を取得し、Amazon MGM が 2024 年にこの場所を購入しました。
+英国映画委員会（BFC）は、「スタジオがAmazon MGMの取り組みから恩恵を受けていることを認識している」と述べ、「地域社会と英国全体のより広範な雇用機会を支援するという同社の意欲」を歓迎したと述べた。
+同社は2022年からこの場所を使用しており、拡張プロジェクトに関する公開協議は5月に終了した。
+アマゾンＭＧＭは、立体駐車場や６つの新たなサウンドステージの建設を含む現在の提案は「敷地の可能性を最大限に引き出す」のに役立つと述べた。
+この拡張により、建設中に470人の雇用が創出され、バークシャーのより広範囲では920人の雇用が創出されることが見込まれている。
+BFCの制作責任者であるサマンサ・ペライア氏は、ウィンザー・メイデンヘッド王立特別区に対し、BFCがこの計画を支持していると語った。
+「ブレイ・スタジオに提案されている機能強化は、この地域が国際的な顧客の間ですでに確立されている印象的な評判をさらに高めることを可能にするだけではありません」と彼女は述べた。
+同氏はさらに、「この地域や英国全体のマーケティングにおいて、BFCと公共・商業パートナーの共同努力も大幅に促進されるだろう」と付け加えた。
+企画応募については後日決定いたします。
+連絡する
+あなたの声
+- 7 月 16 日発行
+- 5 月 9 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-17T18:03:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67d7/live/29b71560-9a58-11f1-ba0a-a16da249d30e.png",
     readTime: 2,
   },
   {
@@ -1503,364 +1862,6 @@ Social Security Works の政治活動委員会は、社会保障、メディケ�
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-75431479",
     readTime: 2,
-  },
-  {
-    id: "top-wall-street-analysts-like-these-3-di-88d0d112",
-    title: "Top Wall Street analysts like these 3 dividend stocks for steady income",
-    titleJa: "ウォール街のトップアナリストは、安定した収入を期待できるこれら 3 つの配当株を気に入っています",
-    summaryJa: "中東の地政学的な緊張とAIブームの持続可能性への懸念の中で、株式市場は引き続きボラティリティーとの闘いが続いている。この不確実性を考慮すると、安定した収入を求める投資家は、高配当株をポートフォリオに追加することができます。ウォール街のトップアナリストの推奨事項を追跡することは、投資家が適切な配当銘柄を選択するのに役立ちます。これらの専門家は、企業の財務状況と配当を安定的に支払う能力を詳細に分析した後に格付けを割り当てるからです。",
-    bodyOriginal: `The stock market continues to grapple with volatility amid geopolitical tensions in the Middle East and concerns about the sustainability of the AI boom. Given this uncertainty, investors looking for steady income can add dividend-paying stocks to their portfolios.
-Tracking the recommendations of top Wall Street analysts can help investors pick the right dividend stocks, as these experts assign their ratings after an in-depth analysis of a company's financials and ability to pay dividends consistently.
-Here are three dividend-paying stocks that are highlighted by Wall Street's top pros, as tracked by TipRanks, a platform that ranks analysts based on their past performance.
-Phillips 66
-Downstream energy company Phillips 66 (PSX) is this week's first dividend pick. With a quarterly dividend $1.27 per share (annualized dividend of $5.08), PSX offers a yield of 2.25%. The company recently reported solid Q2 earnings, as the Middle East conflict affected global supplies and drove up refining margins.
-Following the Q2 print, TD Cowen analyst Jason Gabelman reiterated a buy rating on Phillips 66 and raised his price target to $255 from $240, reflecting higher 2026 earnings expectations and lower interest expense next year.
-Gabelman highlighted the quarter-over-quarter reduction in Phillips 66's net debt, noting management's optimism at achieving its estimated $15.5 billion net debt target one year ahead of schedule. The 5-star analyst expects the company to end 2026 with a net debt of $14.6 billion.
-"The [balance sheet] improvement could re-establish PSX as a go-to defensive refiner," said Gabelman.
-Management agreed that PSX's payout ratio lagged year-to-date, but expects buybacks to increase in the second half. Gabelman said Phillps indicated the possibility of a larger dividend hike following an annual increase of 5% over the past two years.
-Gabelman ranks No. 554 among more than 12,400 analysts tracked by TipRanks. His ratings have been profitable 66% of the time, delivering an average return of 14.9%. See Phillips 66 Statistics on TipRanks.
-Crescent Energy
-Crescent Energy (CRGY) is an exploration and production company with activities focused in the Eagle Ford, Permian and Uinta Basins. Earlier this month, the company reported better-than-expected Q2 earnings and announced a quarterly dividend of $0.12 per share, payable on August 31. At an annualized dividend of $0.48 per share, CRGY boasts a dividend yield of about 4%.
-In reaction to Q2 results, Evercore analyst Stephen Richardson reaffirmed a buy rating on Crescent Energy stock with a price target of $18. He noted continued strength in the company's performance, with second-quarter oil production and cash flow surpassing the Street's expectations.
-"CRGY's cash flow exceeded expectations by 10%, reinforcing its trajectory of capital efficiency," said Richardson.
-The 5-star analyst highlighted that Crescent raised its full-year oil production guidance, citing the effective integration of the Vital Energy acquisition. Specifically, Crescent tripled its synergy target from the Vital Energy deal to as much as $300 million, significantly reducing the effective purchase price. This reflects Crescent's solid execution following the acquisition, Richardson said.
-Additionally, the analyst noted that Crescent's capital spending is and heading toward the lower end of management's prior guidance, indicating disciplined financial controls.
-Richardson ranks No. 579 among more than 12,400 analysts tracked by TipRanks. His ratings have been successful 65% of the time, delivering an average return of 12.5%. See Crescent Energy Ownership Structure on TipRanks.
-Viper Energy
-Finally, Viper Energy (VNOM) is effectively controlled by Diamondback Energy. Viper owns and acquires mineral and royalty interests in oil-weighted basins, mainly the Permian in West Texas. Viper recently announced its Q2 2026 results and declared a 32% hike in its base dividend, effective in the third quarter of 2026. The new base dividend indicates a 4.5% annualized yield.
-Viper also removed its quarterly commitment to return at least 75% of cash available for distribution. The company believes that this move will ensure increased flexibility to make opportunistic share repurchases and pursue accretive mergers and acquisitions.
-Following the Q2 results, TD Cowen analyst Aaron Bilkoski reiterated a buy rating on Viper, slightly raising his price target to $59 from $58. Bilkoski said Viper's solid Q2 performance supports his view that the strength in oil prices and rising operator activity are driving higher production.
-"Viper has delivered, and we forecast will continue to deliver, one of the highest production per share growth profiles in our royalty universe" through the end of 2027, said Bilkoski. He believes Viper deserves a premium valuation, given its above-average growth.
-The 5-star analyst said that while the biggest surprise in the quarter was Viper's revision to its shareholder return framework, he doesn't believe that the move indicates a significant change to its underlying strategy. Under the new framework, a larger portion of excess free cash flow is expected to be allocated to share repurchases than to variable dividends, Bilkoski said.
-Bilkoski ranks No. 719 among more than 12,400 analysts tracked by TipRanks. His ratings have been profitable 57% of the time, delivering an average return of 12%. See Viper Energy Financials on TipRanks.`,
-    bodyJa: `中東の地政学的な緊張とAIブームの持続可能性への懸念の中で、株式市場は引き続きボラティリティーとの闘いが続いている。この不確実性を考慮すると、安定した収入を求める投資家は、高配当株をポートフォリオに追加することができます。
-ウォール街のトップアナリストの推奨事項を追跡することは、投資家が適切な配当銘柄を選択するのに役立ちます。これらの専門家は、企業の財務状況と配当を安定的に支払う能力を詳細に分析した後に格付けを割り当てるからです。
-過去のパフォーマンスに基づいてアナリストをランク付けするプラットフォームであるTipRanksが追跡した、ウォール街のトッププロによって注目されている高配当株3つを紹介します。
-フィリップス66
-今週の最初の配当候補は下流エネルギー会社フィリップス 66 (PSX) です。 PSX の四半期配当は 1 株あたり 1.27 ドル (年換算配当は 5.08 ドル) で、利回りは 2.25% です。中東紛争が世界的な供給に影響を及ぼし、精製マージンを押し上げたため、同社は最近第2四半期の堅調な収益を報告した。
-第2四半期の記事に続いて、TDコーウェンのアナリスト、ジェイソン・ゲーベルマン氏はフィリップス66の買い評価を繰り返し、2026年の収益予想の上昇と来年の支払利息の低下を反映して目標株価を240ドルから255ドルに引き上げた。
-ガベルマン氏は、フィリップス66の純負債が前四半期比で減少していることを強調し、予定より1年前倒しして推定155億ドルの純負債目標を達成することに経営陣が楽観的であることを指摘した。五つ星アナリストは、同社が2026年末に純負債146億ドルを抱えると予想している。
-「（バランスシートの）改善により、PSXは頼りになるディフェンスのリファインナーとして再確立される可能性がある」とガベルマン氏は語った。
-経営陣は、PSXの配当性向が年初来で遅れていることに同意したが、下半期には自社株買いが増加すると予想している。ガベルマン氏は、過去２年間の年間５％増配に続き、フィリップスがさらに増配の可能性を示唆したと述べた。
-ガベルマン氏は、TipRanks が追跡する 12,400 人以上のアナリストの中で 554 位にランクされています。彼の評価は 66% の確率で利益を上げており、平均リターンは 14.9% です。 TipRanks の Phillips 66 統計を参照してください。
-クレセントエネルギー
-Crescent Energy (CRGY) は、イーグルフォード、パーミアン、ウインタ盆地に重点を置いて活動を行う探査および生産会社です。今月初め、同社は予想を上回る第2四半期利益を報告し、8月31日に支払われる1株当たり0.12ドルの四半期配当を発表した。年換算配当金は1株当たり0.48ドルで、CRGYは約4％の配当利回りを誇る。
-第2四半期の結果を受けて、エバーコアのアナリスト、スティーブン・リチャードソン氏は、クレセント・エナジー株の目標株価を18ドルとして買いとの評価を再確認した。同氏は、第２四半期の石油生産とキャッシュフローがストリートの予想を上回っており、同社の業績が引き続き好調であると指摘した。
-リチャードソン氏は「ＣＲＧＹのキャッシュフローは予想を１０％上回り、資本効率の軌道を強化した」と述べた。
-五つ星アナリストは、バイタル・エナジー買収の効果的な統合を理由に、クレセントが通年の石油生産見通しを引き上げたことを強調した。具体的には、クレセントはバイタル・エナジーとの契約によるシナジー目標を3倍の最大3億ドルに引き上げ、実質的な買収価格を大幅に引き下げた。リチャードソン氏は、これは買収後のクレセントの堅実な実行を反映していると述べた。
-さらに、アナリストは、クレセントの設備投資が経営陣の以前のガイダンスの下限に向かっており、規律ある財務管理を示していると指摘した。
-リチャードソン氏は、TipRanks が追跡する 12,400 人以上のアナリストの中で 579 位にランクされています。彼の評価は 65% の確率で成功し、平均 12.5% のリターンをもたらしました。 TipRanks の Crescent Energy の所有構造を参照してください。
-バイパーエネルギー
-最後に、Viper Energy (VNOM) は、Diamondback Energy によって事実上管理されています。バイパーは、主にテキサス州西部のペルム紀の石油加重盆地の鉱物権益とロイヤルティ権益を所有し、取得しています。バイパーは最近、2026年第2四半期の決算を発表し、2026年の第3四半期から基本配当を32％引き上げることを宣言した。新しい基本配当は年率4.5％の利回りを示している。
-バイパーはまた、分配可能な現金の少なくとも75％を還元するという四半期ごとの約束も解除した。同社は、この動きにより、機会を捉えた自社株買いや、拡大的な合併・買収を推進するための柔軟性が確実に高まると考えています。
-第2四半期の決算を受けて、TDコーウェンのアナリスト、アーロン・ビルコスキー氏はバイパーの買い評価を繰り返し、目標株価を58ドルから59ドルに若干引き上げた。ビルコスキー氏は、バイパーの第2四半期堅調な業績は、原油価格の堅調とオペレーターの活動の活発化が増産を推進しているという同氏の見解を裏付けていると述べた。
-ビルコスキー氏は、「バイパーは、2027年末まで当社ロイヤルティ分野で最も高い一株当たり生産高の成長プロファイルを実現しており、今後も実現し続けると予測している」と述べた。同氏は、平均を上回る成長を考えると、バイパーはプレミアム評価を受けるに値すると考えている。
-同５つ星のアナリストは、当四半期最大の驚きはバイパーの株主還元枠組みの改定だったが、この動きが同社の基本的な戦略の大幅な変更を示すものだとは考えていない、と述べた。新しい枠組みの下では、超過フリーキャッシュフローの大部分が変動配当よりも自社株買いに割り当てられるとビルコスキー氏は述べた。
-ビルコスキー氏は、TipRanks が追跡する 12,400 人以上のアナリストの中で 719 位にランクされています。彼の評価は 57% の確率で利益を上げており、平均リターンは 12% です。 TipRanks で Viper Energy の財務状況をご覧ください。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/16/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
-    publishedAt: "2026-08-16T11:58:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "walmart-and-target-are-about-to-reveal-t-74abaa6f",
-    title: "Walmart and Target are about to reveal the health of the U.S. consumer",
-    titleJa: "ウォルマートとターゲットは米国の消費者の健康状態を明らかにしようとしている",
-    summaryJa: "大手小売業者２社の収益報告は、インフレが続く時代に買い物客がどのように持ちこたえているかを示すことになるだろう。",
-    bodyOriginal: `Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.`,
-    bodyJa: `大手小売業者２社の収益報告は、インフレが続く時代に買い物客がどのように持ちこたえているかを示すことになるだろう。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
-    publishedAt: "2026-08-16T11:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-56384586",
-    readTime: 2,
-  },
-  {
-    id: "secret-outperformer-dispelling-the-myths-da20073d",
-    title: "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-    titleJa: "隠れたアウトパフォーム企業: 愛されていない株式市場に関する「神話」を払拭する",
-    summaryJa: "欧州株は歴史的に、米国株や一部の急成長するアジア市場が享受するような投資家の熱狂を呼び起こすのに苦労してきた。この大陸には高成長企業が少なく、資本市場が浅く、長期的な利益成長のストーリーに説得力がないと考えられている。しかし、2025 年初頭の政府の財政支出の急増により、市場は活気を取り戻しました。今年の話はより微妙だが、汎欧州のStoxx 600指数は驚くほど回復力があることが証明された。",
-    bodyOriginal: `European equities have historically struggled to ignite the kind of investor enthusiasm enjoyed by U.S. stocks and certain fast-growing Asian markets. The continent has fewer high-growth companies, shallower capital markets and is thought to have a less compelling long-term earnings growth story.
-A spike in governments' fiscal spending at the beginning of 2025, however, brought the market to life. This year, the story is more nuanced, but the pan-European Stoxx 600 index has proved remarkably resilient.
-Europe's headline index tracks 600 large, medium, and small capitalization companies across 17 European countries, and is essentially the continent's equivalent of the S&P 500. The Stoxx 600 is up 10% in 2026 so far, slightly behind its North American counterpart, which has returned 13.5% over the same period.
-European markets tend to fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs last week attempted to dispel some of the "myths" about investing in Europe.
-"Performance [in Europe] has been far more mixed than the market narrative, or most investors realize," the analysts wrote in a August 10 note. "Since 2022, European banks have considerably outperformed the Magnificent 7. Since the start of 2025 — and despite both the tariff shock and an energy supply crisis, Europe's Stoxx has outperformed the S&P 500."
-Another "myth" cited by Goldman is the notion that Chinese competition is a major headwind for Europe's companies.
-"The stock market is not the economy and the largest sectors — financials, pharma, tech, energy, utilities, telecoms, aerospace and defense — are not especially vulnerable to low-cost China imports," Goldman added. "Autos are just 1% of Europe's market cap."
-The European autos sector has been much maligned, as the industry finds itself mired in a years-long structural crisis. Slowing demand for electric vehicles, lost market share to Chinese competitors and higher borrowing costs have created the perfect storm over the past five years, as sales volumes continue to slump well below pre-pandemic levels.
-Then, the Stoxx Autos index is down 16% year-to-date. Volkswagen AG and Stellantis are among the worst performers, falling 27.6% and 51.9%, respectively.
-Does Europe need to embrace AI?
-BNP Paribas believes Europe is more likely to be an AI beneficiary rather than a developer, with the autos sector among those that stand to benefit.
-"At this point the sector is so cheap that no one is really thinking about the potential upside in there," Sophie Huynh, portfolio manager and strategist at BNP Paribas Asset Management, told CNBC.
-"It's about trying to understand when markets are going to start talking about this because you can sit on these deep value sectors for one or two years before the market consensus starts to realize it's going to work."
-Huynh added that a lot of good news about U.S. consumption is already priced in, "so the momentum of the U.S. economy is slowing down when Europe has just started to pick up."
-Goldman acknowledged that Europe is behind on several fronts, including data center rollouts, as well as frontier modelling, "all of which could have negatives for security or longer-term productivity and growth."
-But the bank's strategists said that Europe being behind on the AI trade may not be such a bad thing.
-The market provides a hedge for investors worried about some of the risks around AI, especially around China competition, they wrote.`,
-    bodyJa: `欧州株は歴史的に、米国株や一部の急成長するアジア市場が享受するような投資家の熱狂を呼び起こすのに苦労してきた。この大陸には高成長企業が少なく、資本市場が浅く、長期的な利益成長のストーリーに説得力がないと考えられている。
-しかし、2025 年初頭の政府の財政支出の急増により、市場は活気を取り戻しました。今年の話はより微妙だが、汎欧州のStoxx 600指数は驚くほど回復力があることが証明された。
-ヨーロッパのヘッドライン指数は、ヨーロッパ 17 か国の大​​中小資本企業 600 社を追跡しており、基本的に欧州大陸の S&P 500 に相当します。Stoxx 600 は 2026 年現在までに 10% 上昇しており、同期間に 13.5% のリターンを記録した北米の指数にわずかに遅れています。
-欧州市場は、規模が大きく流動性の高い米国市場と比較すると目立たない傾向にあるが、ゴールドマン・サックスは先週、欧州への投資に関する「神話」の一部を払拭しようと試みた。
-アナリストらは8月10日のメモで「（欧州の）業績は市場の物語、あるいは大半の投資家が認識しているよりもはるかにまちまちだった」と述べた。 「2022年以降、欧州の銀行はマグニフィセント7を大幅に上回るパフォーマンスを見せている。2025年の初め以降、関税ショックとエネルギー供給危機にもかかわらず、欧州のStoxxはS&P500をアウトパフォームしている。」
-ゴールドマン氏が挙げたもう一つの「神話」は、中国の競争が欧州企業にとって大きな逆風となっているという考えだ。
-「株式市場は経済ではないし、金融、製薬、テクノロジー、エネルギー、公益事業、通信、航空宇宙、防衛といった最大のセクターは、低コストの中国からの輸入品に対して特に脆弱ではない」とゴールドマン氏は付け加えた。 「自動車は欧州の時価総額のわずか1％にすぎない。」
-欧州の自動車セクターは、長年にわたる構造的危機に陥っているため、非常に中傷されている。電気自動車の需要の鈍化、中国の競合他社への市場シェアの喪失、借入コストの上昇により、販売台数はパンデミック前の水準を大幅に下回って低迷し続けており、過去5年間に完全な嵐を引き起こした。
-次に、ストックス自動車指数は年初から16％下落しています。フォルクスワーゲンAGとステランティスは、それぞれ27.6％と51.9％下落し、最も業績が悪化した企業の一つとなった。
-ヨーロッパは AI を受け入れる必要があるか?
-BNPパリバは、ヨーロッパは開発者ではなくAIの受益者となる可能性が高く、その恩恵を受けるのは自動車セクターであると考えている。
-BNPパリバ・アセット・マネジメントのポートフォリオマネジャー兼ストラテジスト、ソフィー・フイン氏はCNBCに対し、「現時点でこのセクターは非常に割安なので、そこに上値が生じる可能性については誰も真剣に考えていない」と語った。
-「市場がいつこの問題について議論し始めるかを理解しようとすることが重要だ。なぜなら、市場のコンセンサスがそれがうまくいくと認識し始めるまで、これらのディープバリューセクターに1〜2年間座ることができるからである。」
-フイン氏は、米国の消費に関する多くの良いニュースはすでに織り込まれており、「そのため、欧州が回復し始めたばかりのときに米国経済の勢いは鈍化しつつある」と付け加えた。
-ゴールドマンは、欧州がデータセンターの展開やフロンティアモデリングなどのいくつかの面で遅れをとっており、「そのすべてがセキュリティや長期的な生産性と成長にマイナスとなる可能性がある」と認めた。
-しかし同行のストラテジストらは、欧州がAI貿易で遅れていることはそれほど悪いことではないかもしれないと述べた。
-AI、特に中国との競争に関するリスクを懸念する投資家にとって、市場はヘッジ手段となると彼らは書いている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-    publishedAt: "2026-08-16T09:45:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "i-survived-two-years-as-prime-minister-i-f2835fe5",
-    title: "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-    titleJa: "私は大ヒットした新作ゲームで首相として 2 年間生き延びましたが、内閣は私を見捨てました。",
-    summaryJa: "モバイル ゲーム 第 10 位: Full Confidence は最近、英国の App Store 有料ゲーム チャートで Minecraft よりも上位にランクされました",
-    bodyOriginal: `I survived two years as prime minister in a hit new game - then my cabinet deserted me
-- Published
-A mobile game made by a developer in Manchester has recently beaten the global phenomenon Minecraft to top Apple's paid games chart.
-Its success is perhaps even more surprising given its subject matter - UK politics.
-No 10: Full Confidence by Benjamin Brewis sees players take on the role of prime minister, making decisions through a wave of parliamentary scenarios and trying to remain in power for as long as possible.
-The success of Brewis's app, and the creation of others like it, suggests the dramatic recent ebb and flow of Westminster may have inspired a popular new sub-genre.
-In No 10: Full Confidence, external, players who take on the precarious position of prime minister must balance the moods of four factions - their cabinet, backbenchers, the media, and the public - to remain in the game. Decisions are made across more than 300 fictional political scenarios, handwritten by Brewis.
-The storylines range from the mundane - dealing with GP appointment waiting times - to the absurd.
-"I have a two or three-part storyline where a dog is let loose into the House of Lords by a lobbyist during a vet bill and that spirals out of control," Brewis said.
-Each scenario asks players to pick one action from three choices on the screen, with each potentially upsetting or pleasing the different factions.
-Much like in real life, if one side completely turns against you your political career is finished.
-While some situations may sound farcical, Brewis said he had plenty of real life examples to draw on as inspiration.
-"I'd remember that MP who had a spider that he'd threaten MPs with, or when Boris Johnson walked into a fridge. I'm frantically writing them all down."
-Not my finest hour
-My first attempt at playing prime minister in No 10: Full Confidence hasn't left me considering a Westminster career.
-As my chosen candidate, Verity Grimshaw, I start off strong, managing to survive a crisis in which thousands of A-level students receive the wrong grades.
-I only manage to stay in the post for one year and nine months, taken out - somewhat ironically given my actual job - by a complete lack of trust by the press.
-Unfortunately, a cabinet minister resigns and publishes a three-page-long letter that contains the phrase "the PM was warned" four times.
-This letter being read out in full on BBC Radio 4 turns out to be the last straw for poor Verity.
-My final choice in the game of "respond directly, address every point, don't let it sit unanswered", seemingly does not go down very well.
-Brewis says some users have fared a lot better than my sorry effort.
-"Someone has stayed in for 1,885 months, which is 157 years," he says. "I'm not sure if that's a democracy any more."
-Brewis said he was inspired to begin creating the app around December 2025, when "it was all kicking off" with former Prime Minister Sir Keir Starmer, and talk of potential challenges to his leadership was starting to grow.
-"I remember thinking at the time, someone should just start taking the mick out of this," he said. "We've had so many prime ministers - it's funny now."
-Five different people have occupied No 10 since 2016 - three in the space of just over three years, and one for just 49 days.
-Dr Russell Foster, a lecturer in British and International Politics at King's College London, said the "churn of prime ministers" and growing presence of politics on social media could also help explain why Westminster is suddenly appearing on our devices.
-No 10: Full Confidence is not the only game based around Westminster's wheeling and dealing.
-Fantasy Parliament, external is a browser-based game designed by another UK-based developer, Evan Roberts, which lets players draft their own fantasy league of real-world MPs, scoring points based on their real-life media coverage.
-With the strategy game's Policy Tester, players can even type in proposals to a ChatGPT-style AI model, which then replies in the style of how it believes different groups of voters - such as Coastal Keith or Graduate Gemma - would react.
-Meanwhile, UK Politics Simulator, "built on real UK data down to ward level", is reportedly due out later this year for PC, made by the Scarborough-based company Black Cannon Games.
-Despite the success of his own venture, currently ranking 5th in Apple's UK paid games charts - above Monopoly Go - Brewis said he does not know if any politicians have actually played his game.
-However, he has received some feedback on how accurately the game depicts UK political life, from his friends who work in the civil service.
-"It's exactly like this," they told him, "but worse."
-More weekend picks
-Grand Theft Auto made him a legend. His latest game was a disaster
-- Published19 October 2025
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `私は大ヒットした新作ゲームで首相として 2 年間生き延びましたが、内閣は私を見捨てました。
-- 公開されました
-マンチェスターの開発者が作ったモバイル ゲームが最近、世界的な現象である Minecraft を破って Apple の有料ゲーム チャートのトップに立った。
-英国政治という主題を考えると、その成功はおそらくさらに驚くべきことである。
-第 10 位: ベンジャミン ブリューイスの「全幅の信頼」では、プレーヤーが首相の役割を引き受け、議会の一連のシナリオを通じて決定を下し、できるだけ長く権力の座に留まろうとします。
-Brewis のアプリの成功と、同様のアプリの作成は、最近のウェストミンスターの劇的な栄枯盛衰が、人気のある新しいサブジャンルにインスピレーションを与えた可能性があることを示唆しています。
-No 10: Full Confidence では、首相という不安定な立場を引き受ける外部のプレイヤーは、ゲームに残るために、閣僚、バックベンチャー、メディア、国民の 4 つの派閥のムードのバランスをとらなければなりません。ブリューウィスが手書きした 300 以上の架空の政治シナリオに基づいて意思決定が行われます。
-ストーリーは、一般医の予約の待ち時間に対処するというありふれたものから、不条理なものまで多岐にわたります。
-「獣医師法案の最中にロビイストによって貴族院に犬が放たれ、制御不能になるという2、3部構成のストーリーラインがある」とブリューウィス氏は語った。
-各シナリオでは、プレイヤーは画面上の 3 つの選択肢から 1 つのアクションを選択するよう求められ、それぞれのアクションが異なる派閥を動揺させたり喜ばせたりする可能性があります。
-実生活と同じように、一方の側が完全に敵に回れば、あなたの政治家としてのキャリアは終わります。
-状況によっては茶番に聞こえるかもしれないが、ブリューウィス氏はインスピレーションとして参考になる実例がたくさんあると語った。
-「クモを飼って国会議員を脅したあの国会議員のことや、ボリス・ジョンソンが冷蔵庫に入ったときのことを思い出します。私はそれらをすべて必死で書き留めています。」
-私の最高の時間ではない
-『No.10: Full Confidence』で初めて首相役に挑戦しましたが、ウェストミンスターでのキャリアを考えることはできませんでした。
-私が選んだ候補者、ベリティ グリムショーとして、私は好調なスタートを切り、何千人もの A レベルの生徒が間違った成績を受けるという危機をなんとか乗り切りました。
-私がそのポストに留まり続けられたのはわずか1年9カ月で、実際の仕事を考えると皮肉なことに、マスコミからの信頼が完全に欠如していたことが影響した。
-残念なことに、ある閣僚が辞任し、「首相は警告された」という文言を4回も含む3ページにわたる書簡を公表した。
-BBCラジオ4で全文読み上げられたこの手紙は、哀れなヴェリティにとって最後の藁となった。
-「直接応答し、すべての点に対処し、未回答のまま放置しない」というゲームにおける私の最終的な選択は、どうやらあまりうまくいかないようです。
-Brewis 氏は、一部のユーザーは私の残念な努力よりもはるかに良い結果をもたらしたと述べています。
-「1,885か月、つまり157年間も滞在した人がいます」と彼は言う。 「それが民主主義なのかどうかはもうわかりません。」
-ブリューウィス氏は、2025年12月頃にアプリの作成を開始するきっかけとなったのは、キア・スターマー元首相との「すべてが始まった」頃であり、同氏のリーダーシップに対する潜在的な課題についての話が高まり始めていたと語った。
-「その時、誰かがこの事件からマイクを取り出すべきだと思ったのを覚えている」と彼は語った。 「これまでたくさんの首相が誕生してきたが、今となってはおかしな話だ」
-2016 年以来、5 人の異なる人物が 10 位を占めています。そのうち 3 人は 3 年あまりの間に、1 人はわずか 49 日間でした。
-キングス・カレッジ・ロンドンで英国・国際政治の講師を務めるラッセル・フォスター博士は、「首相の交代」とソーシャルメディア上での政治の存在感の増大も、なぜウェストミンスターが突然私たちのデバイスに表示されるのかを説明するのに役立つかもしれないと述べた。
-No 10: Full Confidence は、ウェストミンスターのウィーリングとディーリングをベースにした唯一のゲームではありません。
-『Fantasy Parliament, external』は、英国を拠点とする別の開発者である Evan Roberts によって設計されたブラウザ ベースのゲームで、プレイヤーは現実世界の国会議員から成る独自のファンタジー リーグをドラフトし、現実のメディア報道に基づいてポイントを獲得できます。
-この戦略ゲームの Policy Tester を使用すると、プレイヤーは ChatGPT スタイルの AI モデルに提案を入力することもでき、AI モデルはさまざまな有権者グループ (Coastal Keith や Graduate Gemma など) がどのように反応するかを考えるスタイルで返信します。
-一方、「区レベルまで英国の実際のデータに基づいて構築された」UK Politics Simulator は、スカーバラに本拠を置く企業 Black Cannon Games によって作られ、今年後半に PC 向けにリリースされる予定であると伝えられています。
-ブリュース氏は自身の事業が成功し、現在アップルの英国有料ゲームチャートでモノポリーゴーを上回り第５位にランクされているにもかかわらず、実際に彼のゲームをプレイした政治家がいるかどうかは分からないと述べた。
-しかし、彼は公務員として働く友人たちから、このゲームがイギリスの政治生活をいかに正確に描いているかについてのフィードバックを受け取りました。
-「まさにこれと同じです」と彼らは彼に言いました。「しかし、さらに悪いことです。」
-その他の週末のおすすめ
-グランド・セフト・オートは彼を伝説にしました。彼の最新の試合は大惨事だった
-- 2025 年 10 月 19 日公開
-Tech Decoded ニュースレターに登録して、世界のトップテクノロジーのストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-15T23:45:44+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a22/live/86235450-9731-11f1-870d-5d08c49babb2.jpg",
-    readTime: 7,
-  },
-  {
-    id: "rescuers-search-for-survivors-of-powerfu-17695ffc",
-    title: "Rescuers search for survivors of powerful Indonesia earthquake",
-    titleJa: "インドネシアの大地震で生存者を捜索する救助隊",
-    summaryJa: "インドネシアの大地震で生存者を捜索する救助隊- 公開されました",
-    bodyOriginal: `Rescuers search for survivors of powerful Indonesia earthquake
-- Published
-Rescue teams in Indonesia have been searching for survivors of Saturday's major earthquake which left at least 47 people dead.
-The magnitude 7.7 quake struck the island of Flores shortly before 05:00 (22:00 GMT on Friday) and had a depth of 15km, Indonesia's meteorology and geophysics agency stated.
-Preliminary reports indicate hundreds of buildings have been severely damaged by the quake and the dozens of aftershocks that followed.
-However, the full scale of the disaster is still unclear, and news of a second earthquake of magnitude 6.9 at the other end of Indonesia served as a reminder of why they call this region the ring of fire.
-Tremors from Saturday's powerful earthquake were reportedly felt by residents as far west as Bima Regency and City, the National Disaster Management Agency (BNPB) agency said, but the Manggarai province is among the most affected.
-Preliminary data shows that 24 fatalities had been recorded there, meanwhile 17 deaths were recorded in East Manggarai province, three in Sikka province, and at least one in each of the Ngada, Ende and West Manggarai provinces.
-At least two others had been seriously injured and 11 slightly injured.
-The BNPB said aid was being sent to the affected areas with 10,500 packages arriving at the base operations so far.
-It will take time to assess the full extent of the destruction in the region, which is remote and mountainous.
-However, early reports indicate more than 150 houses had been severely damaged, as well as dozens of educational institutions, a number of healthcare facilities, places of worship, offices, and several other public facilities.
-Video taken at the port in Maumere - the largest town in Flores - showed large chunks of concrete breaking off the terminal building onto passengers waiting to board an inter-island ferry. Some were thrown into the sea when the gangway to a ship collapsed.
-Emanuel Melkiades Laka Lena, governor of East Nusa Tenggara province, told a news conference that they were killed in their sleep by collapsing rubble.
-Others, like Arnold Welianto, who lives in Talibura, a village near the coastline in Sikka, East Nusa Tenggara, were shaken out of their beds.
-"I was startled awake and immediately went to my child's room." He said.
-He also told the BBC that many people had already fled into the hills because the sea had also receded.
-While a tsunami warning was initially issued - leading some 2,000 people to self-evacuate - it was lifted around three hours after the initial jolt, when no significant sea level rise was detected.
-Landslides, however, did block access to some villages but the experienced rescue teams worked tirelessly through the day to free those trapped under the rubble.
-In Ruteng, a temporary medical tent was also assembled outside of a hospital to treat earthquake victims.
-The ongoing advice from BNPB is for people to remain calm and to stay away from coastal areas and structures showing signs of damage.
-Indonesia is prone to earthquakes and volcanic activity, lying along the meeting point of three major tectonic plates.`,
-    bodyJa: `インドネシアの大地震で生存者を捜索する救助隊
-- 公開されました
-インドネシアの救助チームは、少なくとも47人が死亡した土曜日の大地震で生存者の捜索を行っている。
-インドネシアの気象・地球物理庁によると、マグニチュード7.7の地震は午前5時（金曜日日本時間午後22時）直前にフローレス島を襲い、深さは15キロに達した。
-暫定報告によると、地震とその後の数十回の余震によって数百棟の建物が深刻な被害を受けた。
-しかし、災害の全規模はいまだ不明であり、インドネシアの反対側でマグニチュード6.9の二度目の地震が発生したというニュースは、なぜこの地域を環太平洋火山帯と呼ぶのかを思い出させるものとなった。
-国家災害管理庁（BNPB）によると、土曜日の強力な地震による揺れは、遠く西のビマ県とビマ市までの住民が感じたと伝えられているが、マンガライ県は最も大きな被害を受けたものの一つである。
-暫定データによると、そこでは24人の死亡者が記録され、一方、東マンガライ県で17人、シッカ県で3人、ンガダ、エンデ、西マンガライ県でそれぞれ少なくとも1人の死亡が記録されている。
-他に少なくとも2人が重傷、11人が軽傷を負った。
-BNPBは、これまでに基地運営に1万500個の荷物が到着し、支援物資が被災地に送られていると述べた。
-遠隔地で山岳地帯にあるこの地域の破壊の全容を把握するには時間がかかるだろう。
-しかし、初期の報告によると、150戸以上の家屋のほか、数十の教育機関、多数の医療施設、礼拝所、オフィス、その他いくつかの公共施設が大きな被害を受けた。
-フローレス島最大の町、マウメレの港で撮影されたビデオには、ターミナルビルから島間フェリーの乗船を待つ乗客の上にコンクリートの大きな塊が飛び散る様子が映っていた。船への通路が崩壊し、海に投げ出された人もいた。
-東ヌサトゥンガラ州知事エマヌエル・メルキアデス・ラカ・レナ氏は記者会見で、彼らは崩れた瓦礫によって睡眠中に死亡したと語った。
-東ヌサトゥンガラ州シッカの海岸線近くの村タリブラに住むアーノルド・ウェリアントさんのように、ベッドから振り落とされた人もいる。
-「私はびっくりして目が覚めてすぐに子供部屋に行きました。」彼は言い​​ました。
-同氏はまた、海も後退したため、多くの人々がすでに丘に避難しているとBBCに語った。
-当初、津波警報が発令され、約2,000人が自主避難を余儀なくされたが、最初の揺れから約3時間後に大きな海面上昇が検出されず、警報は解除された。
-しかし、地滑りにより一部の村へのアクセスが遮断されたが、経験豊富な救助チームは瓦礫の下敷きになった人々を救出するために一日中精力的に活動した。
-ルテンでは、地震犠牲者を治療するために病院の外に臨時の医療テントも建てられた。
-BNPB からの継続的なアドバイスは、人々が落ち着いて行動し、被害の兆候のある海岸地域や建造物に近づかないようにすることです。
-インドネシアは 3 つの主要なプレートの合流点に沿って位置しており、地震と火山活動が起こりやすい国です。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-15T21:49:12+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-    readTime: 3,
-  },
-  {
-    id: "qatar-denies-capturing-three-iranian-pil-c4ec5792",
-    title: "Qatar denies capturing three Iranian pilots after downing fighter jets",
-    titleJa: "カタール、戦闘機撃墜後のイラン人パイロット３人の拘束を否定",
-    summaryJa: "カタール、戦闘機撃墜後のイラン人パイロット３人の拘束を否定- 公開されました",
-    bodyOriginal: `Qatar denies capturing three Iranian pilots after downing fighter jets
-- Published
-Iran has called for the release of three pilots it said were captured by Qatar after two of its fighter jets were hit by air defences during a military operation at the start of the US-Iran war.
-In a letter to the head of the International Committee of the Red Cross (ICRC), Iran's Brig Gen Mohammad Bagherzadeh said the pilots - Javad Salehi, Abdul Majid Dashtian and Imran Behroshian - had been held captive for six months.
-He said the body of a fourth pilot, Majid Kazemi, had been returned after he was killed in the same operation on 2 March 2026 - the third day of the war.
-Qatar "categorically denied" Iran's claims and said it was "surprised by these misleading statements".
-Gen Bagherzadeh said the three pilots had been captured by Qatar after they ejected from their jets during a combat mission targeting a Qatari military base.
-In the letter to ICRC chief Mirjana Spoljaric, published by Iranian media, he accused Qatar of violating "the inalienable rights of these prisoners, contrary to all international laws and regulations".
-The letter also claimed the three pilots had not been allowed to meet or contact their families.
-Qatar's foreign affairs spokesperson Majed Mohammed Al Ansari said contact had been made with the pilots "after they violated Qatari airspace", but that it had not received a response.
-"The necessary measures were taken to defend our territory in accordance with international law," he added in a statement on X.
-Al Ansari said Qatar's search and rescue teams "carried out their duties to the fullest extent in searching for the pilots' remains".
-He said Qatar contacted Iran to "co-ordinate the handover of the remains of one of the pilots that were recovered" and that Tehran had yet to respond to an invitation to review details of the search and rescue operation.
-Related topics
-- Published4 days ago`,
-    bodyJa: `カタール、戦闘機撃墜後のイラン人パイロット３人の拘束を否定
-- 公開されました
-イランは、米イラン戦争開始時の軍事作戦中にカタールの戦闘機２機が防空攻撃を受けた後、カタールに捕らえられたとしてパイロット３人の釈放を求めた。
-イランのモハマド・バゲルザデ准将は、赤十字国際委員会（ICRC）委員長に宛てた書簡の中で、パイロットのジャバド・サレヒ氏、アブドゥル・マジッド・ダシュティアン氏、イムラン・ベーロシアン氏が6か月間拘束されていたと述べた。
-同氏は、4人目のパイロット、マジッド・カゼミの遺体が、戦争開始3日目の2026年3月2日に同じ作戦で死亡した後、返還されたと述べた。
-カタールはイランの主張を「断固否定」し、「誤解を招く発言に驚いている」と述べた。
-バゲルザデ将軍は、パイロット３名がカタールの軍事基地を標的とした戦闘任務中にジェット機から脱出した後、カタールに捕らえられたと述べた。
-イランのメディアが発表したICRC長官ミルジャナ・スポルジャリッチへの書簡の中で、同氏はカタールが「すべての国際法と規制に反して、これら捕虜の譲ることのできない権利」を侵害していると非難した。
-書簡はまた、パイロット３人が家族との面会や連絡を許されていなかったと主張した。
-カタール外交報道官マジェド・モハメド・アル・アンサリ氏は、パイロットらが「カタールの領空を侵犯した後」接触があったが、返答はなかったと述べた。
-同氏はXに関する声明で「国際法に従って我が国の領土を守るために必要な措置が取られた」と付け加えた。
-アル・アンサリ氏は、カタールの捜索救助チームは「パイロットの遺体捜索で最大限の任務を遂行した」と述べた。
-同氏は、カタールが「回収されたパイロットのうち１人の遺体の引き渡しを調整する」ためにイランに連絡しており、イランは捜索救助活動の詳細を検討するよう要請にまだ応じていないと述べた。
-関連トピック
-- 4 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-15T21:03:57+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0329/live/074a0750-98e9-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 2,
-  },
-  {
-    id: "morocco-detains-dozens-of-migrants-tryin-4b8c4b3a",
-    title: "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-    titleJa: "モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると",
-    summaryJa: "モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると- 公開されました",
-    bodyOriginal: `Morocco detains dozens of migrants trying to cross into Ceuta, reports say
-- Published
-Moroccan authorities have intercepted dozens of migrants seeking to cross into the Spanish North African exclave of Ceuta, reports say.
-More than 100 people were blocked trying to make their way to the border on the outskirts of the town of Fnideq, according to Moroccan security sources cited by Spanish media and the Reuters news agency.
-It comes a fortnight after roughly 78,000 migrants arrived in the exclave by sea in a matter of hours - 100 of whom died, according to the city's mayor, who also said the vast majority of arrivals had returned to Morocco.
-Security had been stepped up in the area after the influx and amid suggestions on social media of a second mass crossing attempt this weekend.
-The security sources said 111 people had been detained in or around Fnideq - known in Spanish as Castillejos - about 3km (1.8 miles) from the border, the majority of whom were from sub-Saharan Africa.
-Moroccan police - including some in riot gear - reportedly used tear gas to disperse groups of migrants gathered on nearby hills.
-Earlier this week, Morocco's government said it was monitoring "the circulation of social media posts and messages of unknown origin" calling for a mass crossing on Saturday, and warned that it would prosecute organisers and participants.
-Security at the breakwater entrance was "10 times stronger than the previous day", Spanish newspaper El País reported.
-Morocco had dispatched army officers, navy speedboats and drones to the border on Saturday, it said.
-Madrid meanwhile deployed more than 1,500 security officers to patrol the area.
-Spain has also installed a metal fence and a floating barrier following last month's influx.
-The crisis had calmed since breaking out in late July, but it has sparked tensions between EU nations which share open borders as well as criticism of the Spanish government.
-Italy suspended the 29-member Schengen arrangement of free movement with Spain and introduced border checks on arrivals from Spain.
-Italy was backed by Finland and Denmark, while the Czech Republic called for Spain's membership to be temporarily suspended.
-Spain reacted angrily, with Prime Minister Pedro Sánchez noting Ceuta was not part of the Schengen area - and the migrants, therefore, had not arrived on the Spanish mainland and could travel to any other European country.
-It urged Italy to drop its border controls - and introduced its own when Rome refused, citing the possibility of a new influx on 15 August.
-On Saturday, Italy's Foreign Minister Antonio Tajani said his country had been afraid of a "risk of a new wave of arrivals in Ceuta".
-"We're not waging any kind of 'battle' against Spain; we're simply carefully controlling arrivals," he said.
-"Instead of worrying about us, Spain should worry about Morocco: that's where the problems are coming from, certainly not from our controls."`,
-    bodyJa: `モロッコ、セウタに渡ろうとした数十人の移民を拘束 報道によると
-- 公開されました
-報道によると、モロッコ当局はスペイン領北アフリカの飛び地セウタへの入国を目指す数十人の移民を阻止した。
-スペインメディアとロイター通信が引用したモロッコ治安筋の情報によると、フニデク町郊外で国境に行こうとして100人以上が阻止されたという。
-約7万8000人の移民が海路で数時間以内に飛び地に到着してから2週間が経ったが、市長によればそのうち100人が死亡し、到着者の大多数はモロッコに戻ったと述べた。
-流入後、ソーシャルメディア上で今週末に2度目の集団横断が試みられる可能性が示唆される中、同地域では警備が強化されていた。
-治安関係者によると、国境から約３キロ離れたフニデク（スペイン語でカスティジェホス）またはその周辺で１１１人が拘束されており、その大半がサハラ以南のアフリカ出身者だった。
-モロッコ警察（一部は暴動鎮圧服を着ている人もいた）は、近くの丘に集まった移民グループを解散させるために催涙ガスを使用したと伝えられている。
-今週初め、モロッコ政府は土曜日の集団横断を求める「ソーシャルメディアの投稿や出所不明のメッセージの流通」を監視していると発表し、主催者と参加者を訴追すると警告した。
-スペイン紙エル・パイスは、防波堤入り口の警備は「前日より10倍強化された」と報じた。
-モロッコは土曜日、国境に陸軍将校、海軍のスピードボート、ドローンを派遣したと発表した。
-一方、マドリードは1,500人以上の治安職員を派遣して地域を巡回させた。
-スペインも先月の流入を受けて金属フェンスと浮遊柵を設置した。
-危機は7月下旬に発生して以来沈静化したが、開かれた国境を共有するEU諸国間の緊張やスペイン政府への批判を引き起こした。
-イタリアはスペインとの自由移動に関する29加盟国シェンゲン協定を一時停止し、スペインからの入国者に国境検査を導入した。
-イタリアはフィンランドとデンマークの支持を得たが、チェコ共和国はスペインの加盟を一時的に停止するよう求めた。
-スペインはこれに激怒し、ペドロ・サンチェス首相は、セウタはシェンゲン圏内には含まれておらず、したがって移民たちはスペイン本土に到着しておらず、他のヨーロッパ諸国に渡航できると指摘した。
-イタリアに対し、国境管理を撤廃するよう求めたが、ローマが8月15日に新たな流入の可能性を理由に拒否すると、独自の国境管理を導入した。
-土曜日、イタリアのアントニオ・タジャーニ外相は、同国は「セウタに新たな到着者の波が訪れるリスク」を懸念していると述べた。
-同氏は「われわれはスペインに対していかなる『戦い』も行っていない。ただ入国者を注意深く管理しているだけだ」と述べた。
-「スペインは我々のことを心配するのではなく、モロッコのことを心配すべきだ。問題はモロッコから来ているのであって、我々のコントロールからでは決してない。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-15T20:58:31+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
-    readTime: 3,
   },
 ];
 
