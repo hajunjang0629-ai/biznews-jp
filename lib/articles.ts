@@ -15,6 +15,284 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "my-wife-can-claim-900-at-62-should-she-t-e94279ba",
+    title: "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
+    titleJa: "私の妻は 62 歳で 900 ドルを請求できます。今すぐ受け取るべきでしょうか、それとも配偶者手当を待つべきでしょうか?",
+    summaryJa: "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
+    bodyOriginal: `“She was a teacher at a school district, so didn’t put much into Social Security.”`,
+    bodyJa: `「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
+    publishedAt: "2026-08-19T18:39:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-70214433",
+    readTime: 2,
+  },
+  {
+    id: "gen-z-used-to-embrace-ai-now-most-young-766e914b",
+    title: "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
+    titleJa: "Z世代はかつてAIを受け入れていました。現在、ほとんどの若者は、それが自分たちの仕事を奪うことを恐れています。",
+    summaryJa: "大学の新卒者が失業率の上昇に直面する中、AI が雇用に与える影響についての懸念がアメリカの若者の間で急増しています。",
+    bodyOriginal: `As new college grads face elevated rates of unemployment, concern about AI’s impact on jobs is spiking among young Americans.`,
+    bodyJa: `大学の新卒者が失業率の上昇に直面する中、AI が雇用に与える影響についての懸念がアメリカの若者の間で急増しています。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories",
+    publishedAt: "2026-08-19T18:35:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-97655212",
+    readTime: 2,
+  },
+  {
+    id: "fed-officials-saw-need-for-rate-hike-if-e5c6f566",
+    title: "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+    titleJa: "議事録によると、FRB当局者らはインフレが冷え込まなければ利上げの必要があると考えていた",
+    summaryJa: "水曜日に公表された議事録によると、連邦準備理事会当局者らは前回の会合で、インフレ抑制にさらなる進展がなければすぐに利上げする必要があるとの考えを示した。７月２８─２９日に開催された会合の概要には「多くの参加者は、インフレ率が低下しなければ政策引き締めが必要になる可能性が高いと評価した」と述べた。 「一部の参加者は、現在の金融状況はインフレ率を２％に戻すのに十分な制限的ではないのではないかとコメントした。」",
+    bodyOriginal: `Federal Reserve officials indicated at their last meeting that they would need to raise interest rates soon unless there was more progress on bringing down inflation, minutes released Wednesday showed.
+"Many participants assessed that policy tightening would likely be necessary if inflation did not decline," stated the summary of the meeting, held July 28-29. "Some participants commented that financial conditions might not currently be sufficiently restrictive to facilitate a return of inflation to 2 percent."
+Ultimately, the Federal Open Market Committee voted 9-3 to keep the federal funds rate targeted in a range between 3.5%-3.75%, where it has been all year. The overnight borrowing rate serves as a guidepost for a variety of consumer debt including mortgages, credit cards and auto loans.
+Those who voted against the decision favored a quarter percentage point increase. Minutes indicated that the dissenters "judged that doing so would likely help forestall the need for a steeper and potentially more costly sequence of tightening moves at a later stage."
+Each of the three "no" votes was regional presidents – Beth Hammack of Cleveland, Lorie Logan of Dallas and Neel Kashkari of Minneapolis.
+Since the July meeting, data releases mostly have shown modest price increases on a monthly basis, though the major indicators all have inflation well above the Fed's 2% target. The central bank's primary forecasting data point, the personal consumption expenditures price index, actually saw a 0.1% decline for June, though the annual rate was still at 3.7%.
+At the same time, the employment picture has softened.
+Nonfarm payrolls fell by 23,000 in July even as the unemployment rate dropped to 4.1%, the latter primarily due to a shrinking labor force. Fed officials mostly have said they are more concerned with inflation than the labor market, though that was before the most recent data.
+Fed Chairman Kevin Warsh has shown an inclination to be patient when it comes to rates. Markets took remarks he made in his post-meeting news conference as dovish on inflation, which in turn sent Treasury yields sharply higher.
+Yields have continued to climb, particularly at the longer part of the curve. However, they tumbled Wednesday following a Treasury Department announcement that it would step up its purchases of longer-dated government debt, the part of the duration curve that has been particularly sensitive lately.
+Following the recent run of inflation data, market pricing switched to an expectation for the Fed to stay on hold likely until December before it hikes again. Previously, traders had been expecting a September increase.
+The summary also reported a discussion about changing the FOMC meeting schedule.
+The minutes pointed out that economic indicators changed little since the June meeting. Warsh "observed" that reducing the current meeting schedule from eight per year to six, "held roughly every two months" might be productive.
+Such a move "would allow more information to accumulate between meetings than under current practice and provide policymakers and the staff more time to consider strategic monetary policy issues," the minutes stated.
+"The Chairman asked for input from the Committee on these issues, but no decisions regarding possible changes in the meeting schedule were made, and the Chairman indicated that any change in practice would not affect the schedule over the balance of 2026," the document said.
+Also at the meeting, the board discussed "an intermeeting incident involving a disruption to transaction settlements." The minutes noted that the Fed's policy of maintaining "ample" bank reserves "helped maintain the orderly functioning of money markets in the face of this disruption."
+On a related note, the committee held what appeared to be an extensive discussion of the Fed's balance sheet and its various bond holdings. Committee members said a task force Warsh has set up to examine the issue would be helpful.`,
+    bodyJa: `水曜日に公表された議事録によると、連邦準備理事会当局者らは前回の会合で、インフレ抑制にさらなる進展がなければすぐに利上げする必要があるとの考えを示した。
+７月２８─２９日に開催された会合の概要には「多くの参加者は、インフレ率が低下しなければ政策引き締めが必要になる可能性が高いと評価した」と述べた。 「一部の参加者は、現在の金融状況はインフレ率を２％に戻すのに十分な制限的ではないのではないかとコメントした。」
+最終的に連邦公開市場委員会は９対３でフェデラルファンド金利の目標を年間を通じて３．５％─３．７５％の範囲に維持することを決定した。翌日物借入金利は、住宅ローン、クレジット カード、自動車ローンなどのさまざまな消費者負債の道しるべとして機能します。
+この決定に反対票を投じた人は、4分の1ポイントの引き上げを支持した。議事録では、反対派が「そうすることで、後の段階でより急ピッチで潜在的によりコストのかかる一連の引き締め策の必要性を回避できる可能性が高いと判断した」と記されている。
+「反対」票を投じた3人はそれぞれ、クリーブランドのベス・ハンマック氏、ダラスのローリー・ローガン氏、ミネアポリスのニール・カシュカリ氏という地域の大統領だった。
+7月の会合以降、発表されたデータのほとんどは月次ベースで小幅な物価上昇を示しているが、主要指標はいずれもインフレ率がFRBの目標である2％を大きく上回っている。中銀の主要な予測データポイントである個人消費支出価格指数は、実際には6月に0.1％下落したが、年率は依然として3.7％だった。
+同時に、雇用情勢も軟化している。
+失業率が4.1%に低下したにもかかわらず、7月の非農業部門雇用者数は2万3,000人減少した。失業率の主な原因は労働力人口の減少である。 FRB当局者らは労働市場よりもインフレを懸念していると大半が発言しているが、それは最新の統計が発表される前の話だ。
+FRBのケビン・ウォーシュ議長は金利に関しては忍耐強い傾向を示している。市場は同氏の会合後の記者会見での発言をインフレに関してハト派的なものと受け止め、それが米国債利回りを急上昇させた。
+特に曲線の長い部分で利回りは上昇を続けている。しかし、最近特に敏感になっているデュレーションカーブの一部である長期国債の買い入れを強化するという財務省の発表を受けて水曜日には下落した。
+最近の一連のインフレ統計を受けて、市場の織り込みはFRBがおそらく12月まで利上げを据え置くだろうという予想に切り替わり、その後再び利上げを行った。これまでトレーダーらは９月の増加を予想していた。
+概要では、FOMC会合の日程変更に関する議論も報告された。
+議事要旨では、経済指標は６月会合以降ほとんど変化がないと指摘。ウォーシュ氏は、現在の会議スケジュールを年8回から6回に減らし、「およそ2か月ごとに開催」するのが生産的かもしれないと「観察」した。
+議事要旨には、こうした措置により「現在の慣例よりも会合の間により多くの情報が蓄積され、政策立案者やスタッフに戦略的な金融政策の問題を検討するためのより多くの時間が与えられる」と記されている。
+「議長はこれらの問題について委員会に意見を求めたが、会議スケジュールの変更の可能性に関する決定は下されておらず、議長は実務上のいかなる変更も2026年までのスケジュールに影響を及ぼさないと示唆した」と文書には記されている。
+またこの会合では、取締役会は「取引決済の妨害を伴う会合中の事件」についても議論した。議事要旨は、「潤沢な」銀行準備金を維持するというFRBの政策が「この混乱に直面しても短期金融市場の秩序ある機能を維持するのに役立っている」と指摘した。
+これに関連して、委員会はFRBのバランスシートと保有するさまざまな債券について広範な議論を行ったと思われる内容を開催した。委員会メンバーらは、ウォーシュ氏がこの問題を調査するために設置した特別委員会が役立つだろうと述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+    publishedAt: "2026-08-19T18:31:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "fed-minutes-reveal-growing-support-for-r-2bb9db1e",
+    title: "Fed minutes reveal growing support for rate hikes",
+    titleJa: "FRB議事録で利上げ支持の高まりが明らかに",
+    summaryJa: "議事要旨では、インフレ見通しを巡って連邦準備理事会当局者の意見が依然として分かれていることが明らかになった。",
+    bodyOriginal: `The minutes make clear that Federal Reserve officials remained divided over the inflation outlook.`,
+    bodyJa: `議事要旨では、インフレ見通しを巡って連邦準備理事会当局者の意見が依然として分かれていることが明らかになった。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
+    publishedAt: "2026-08-19T18:27:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-13790766",
+    readTime: 2,
+  },
+  {
+    id: "doj-cites-comey-s-novel-in-urging-judge-982d10e2",
+    title: "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
+    titleJa: "司法省、コミー氏の小説を引用して判事にトランプ事件に「86 47」貝殻を投げる脅迫をしないよう求める",
+    summaryJa: "司法省はジェームズ・コミー氏の小説を引用し、ノースカロライナ州のビーチで「86 47」という数字を作った貝殻の写真をインスタグラムに投稿し、ドナルド・トランプ大統領を殺害すると脅迫したとされる元FBI長官に対する刑事告発を却下しないよう連邦判事に訴えた。検察側は火曜夜遅くに裁判所に提出した新たな書類の中で、コミー氏が架空の本「FDRドライブ」に登場する右翼ポッドキャスターと同様に、自分の敵を殺害することを示唆する暗号化されたメッセージをフォロワーらに送信したと示唆した。",
+    bodyOriginal: `The Department of Justice cited a novel written by James Comey as it urged a federal judge not to dismiss criminal charges against the former FBI director for allegedly threatening to kill President Donald Trump by posting an Instagram photo of seashells on a North Carolina beach forming the numbers "86 47."
+Prosecutors in a new court filing late Tuesday night suggested that Comey, like a right-wing podcaster featured in his fictional book "FDR Drive," sent coded messages to his followers suggesting they kill an enemy of his.
+"On May 15, 2025, a charismatic leader named James Comey, through the wonder of the internet, posted a coded message to his followers meaning 'kill' or 'get rid of' (a euphemism for 'kill') President Trump,'" the filing in U.S. District Court for the Eastern District of North Carolina by U.S. Attorney W. Ellis Boyle's office says.
+The filing was one of several Tuesday in response to a filing by Comey's lawyers seeking to dismiss the indictment against him on the grounds of vindictive and selective prosecution. Comey is a longtime critic of Trump and a verbal target of the president, who fired him as FBI director in 2017.
+Comey's attorneys say he did not mean to threaten Trump with the seashells post, noting that the term "86" is used in restaurants by staff to indicate a menu item is no longer available. Trump is the 47th president of the United States.
+But Boyle's office, in its new filing, says, "There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump.'"
+"Comey has admitted that the '47' referred to President Trump," the filing says. "And Cassell's Dictionary of Slang (2nd edition) defines '86' to mean: to throw out, get rid of (1940's), (1970) to kill, to murder to execute judicially, (1980) to be finished, ready to leave or out of an item or be exhausted."
+In an affidavit filed on Tuesday night, Boyle said that "no one ordered, directed or pressured" him to indict Comey.
+Comey's lawyers, in their own filing in late July, said that the phrase "86 47" is a "well-known political slogan that expresses opposition to the president."
+"No reasonable observer would understand the phrase '86 47′ to connote violence at all — let alone to threaten that Mr. Comey personally would commit violence against the President," the defense motion to dismiss says.
+Comey's filing also noted that in May 2026, at the personal direction of the U.S. Attorney for the Eastern District of North Carolina, "the FBI conducted both open-source queries and artificial intelligence searches — namely, on Google AI and ChatGPT — about the term '86.'"
+"The search yielded varying results, including one that stated: 'Many career law enforcement officials, including former FBI agents, have publicly disputed this, stating they never heard "86" being used for murder in 35 + years of duty, considering it purely a restaurant or bar item for removal."
+"Another search returned a document indicating that the Merriam-Webster dictionary does not officially enter a violent meaning for '86' because "it is relatively recent and lacks widespread use compared to its hospitality meanings."
+Comey was previously indicted by a federal grand jury in Virginia in September 2025 on charges related to allegedly lying during testimony at the Senate Judiciary Committee in 2020. He denied any wrongdoing.
+A judge dismissed that first case in November after ruling that Lindsey Halligan, a former personal lawyer for Trump, was unlawfully appointed as U.S. attorney for the Eastern District of Virginia, and as a result did not have authority to obtain the indictment against Comey.`,
+    bodyJa: `司法省はジェームズ・コミー氏の小説を引用し、ノースカロライナ州のビーチで「86 47」という数字を作った貝殻の写真をインスタグラムに投稿し、ドナルド・トランプ大統領を殺害すると脅迫したとされる元FBI長官に対する刑事告発を却下しないよう連邦判事に訴えた。
+検察側は火曜夜遅くに裁判所に提出した新たな書類の中で、コミー氏が架空の本「FDRドライブ」に登場する右翼ポッドキャスターと同様に、自分の敵を殺害することを示唆する暗号化されたメッセージをフォロワーらに送信したと示唆した。
+「2025年5月15日、ジェームズ・コミーというカリスマ的指導者は、インターネットの驚異を利用して、トランプ大統領を『殺す』か『排除する』（『殺す』の婉曲表現）」を意味する暗号メッセージをフォロワーに投稿した」と、米国検事W・エリス・ボイル事務所がノースカロライナ州東部地区連邦地方裁判所に提出した提出文書には記されている。
+この提出は、執念深く選択的な訴追を理由にコミー氏に対する起訴の却下を求めるコミー氏の弁護士らによる火曜日の提出書類のうちの１件であった。コミー氏は長年トランプ氏を批判しており、大統領の言葉の標的となっており、2017年に同氏をFBI長官から解任した。
+コミー氏の弁護士は、コミー氏は貝殻投稿でトランプ氏を脅すつもりはなかったと述べ、「86」という言葉はレストランでスタッフがメニューがもう提供できないことを示すために使われていると指摘した。トランプは第47代アメリカ合衆国大統領です。
+しかし、ボイル氏の事務所は新たな提出書類の中で、「コミー氏の投稿を客観的に見た人が、それが『トランプ大統領を殺せ』という意味であると解釈できることに重大な異論はない」と述べている。
+提出書類には「コミー氏は『47』がトランプ大統領を指していたことを認めた」と書かれている。 「そして、カッセルのスラング辞典（第2版）は、『86』の意味を次のように定義しています：捨てる、取り除く（1940年代）、（1970年）殺す、司法的に処刑する殺人、（1980年）終了する、アイテムを残すか取り出す準備ができている、または疲れ果てること。」
+ボイル氏は火曜日の夜に提出した宣誓供述書の中で、コミー氏を起訴するよう「誰も命令、指示、圧力をかけなかった」と述べた。
+コミー氏の弁護士らは7月下旬の提出書類で、「86 47」というフレーズは「大統領への反対を表明するよく知られた政治的スローガン」であると述べた。
+棄却を求める弁護側動議は、「合理的な観察者であれば、『86 47』という言葉が暴力を暗示するものであることを理解するはずはない。ましてやコミー氏が個人的に大統領に対して暴力を振るうと脅すなどということは理解できない」と述べている。
+コミー氏の提出書類には、2026年5月にノースカロライナ州東部地区連邦検事の個人的な指示で、「FBIは『86』という用語について、オープンソースのクエリと人工知能による検索、つまりGoogle AIとChatGPTの両方を実施した」とも記されている。
+「検索ではさまざまな結果が得られ、その中には次のような内容も含まれていた。『元FBI捜査官を含む多くのキャリア法執行官は、35年以上の勤務の中で「86」が殺人に使われたのを聞いたことがない、と純粋にレストランやバーの撤去対象品だと考え、これに公に異議を唱えている。」
+「別の検索では、メリアム・ウェブスター辞書に『86』が正式に暴力的な意味として記載されていないことを示す文書が返された。その理由は、「それは比較的最近のものであり、もてなしの意味に比べて広く使用されていない」ためである。
+コミー氏は以前、2020年の上院司法委員会での証言中に虚偽を述べた疑いで2025年9月にバージニア州の連邦大陪審に起訴されていたが、同氏はいかなる不正行為も否定していた。
+判事は、トランプ大統領の元個人弁護士リンジー・ハリガン氏がバージニア州東部地区の連邦検事に不法に任命され、その結果コミー氏に対する起訴を取得する権限がなかったとの判決を下し、11月に最初の訴訟を却下した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+    publishedAt: "2026-08-19T18:07:40+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "meta-s-legal-troubles-has-options-trader-9a2ea076",
+    title: "Meta's legal troubles has options traders eyeing the 'jade lizard'",
+    titleJa: "メタの法的トラブルでオプショントレーダーらは「ヒスイトカゲ」に注目",
+    summaryJa: "オプション取引の多くの利点の 1 つは、レンジ内株で利益を得ることができることです。メタプラットフォームの株式は今、そのチャンスをもたらしています。上値は訴訟によって制限されており、下値の多くはすでに織り込まれているため、オプションプレミアムの上昇を掴み、双方を売却することは理にかなっているかもしれない。 「翡翠トカゲ」という奇妙な名前のオプション戦略 (これについては後ほど詳しく説明します) は、ショートストランドによる無制限の上昇リスクなしで、多額のプレミアムを集めます。",
+    bodyOriginal: `One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.
+With its upside capped by litigation and much of the downside has already been priced in, it may make sense to try to capture some elevated options premium and sell both sides. The curiously named options strategy "jade lizard" — more on this in a second — collects a rich premium without the unlimited upside risk of a short strangle.
+As opening statements began in Oakland today, where 29 state attorneys general accuse Meta of deliberately designing Facebook and Instagram to hook young users, META shares are off more than 30% from the highs of a year ago.
+The headline figure, a theoretical worst case of $1.4 trillion in damages has been floated, although I think that number borders on the absurd, especially if one considers the inevitable appeal that would follow.
+Behind that case sit more than 3,000 personal-injury suits in the federal MDL (multi-district litigation that combines similar lawsuits/related cases that seek to answer similar questions of fact), roughly 1,300 school-district claims, a nearly $1 billion New Mexico judgment, and a $6 million bellwether loss in Los Angeles. While virtually no one believes the trillion-dollar headline represents the real risk, nobody should expect a sustained rally through a seven-week trial either.
+Much of the downside, arguably, has already been paid for. Meta is the worst-performing stock in the "Magnificent Seven" over the past 12 months, the market cap having fallen more than $600 billion so far. It is also acting as a boat anchor on the communications sector generally as it is the largest constituent. Granted some of that decline is probably also concerns about AI capex, but at about 22 times earnings with revenue still growing 28% a lot of anxiety is already baked in the price.
+Enter the jade lizard.
+In this strategy, you sell an out-of-the-money put and also sell an out-of-the-money call spread. Often this trade is structured such that the total premium collected exceeds the width of the call spread, eliminating upside risk entirely, although without a potential catalyst to drive shares sharply higher, a modest amount of upside risk would also be acceptable. Implied volatility is, unsurprisingly, slightly inflated by the lawsuit(s). The September 25th expiration captures some of that while avoiding the Q3 earnings report expected in late October and also falls short of the anticipated length of the trial of six to eight weeks.
+If shares sit between the short strikes at expiration, YOU keep the full credit. A rally through the call spread risks less than 5% of the current stock price and the downside risk is that one purchases the stock at less than $480/share, another 12% lower than where the stock is currently trading and below the tariff tantrum lows of late April 2025. If the stock does fall to those levels, and one purchases the stock around $480 share, one could look to then collect premium against the resulting position by selling covered calls, or covered call spreads (a position we currently have in META).`,
+    bodyJa: `オプション取引の多くの利点の 1 つは、レンジ内株で利益を得ることができることです。メタプラットフォームの株式は今、そのチャンスをもたらしています。
+上値は訴訟によって制限されており、下値の多くはすでに織り込まれているため、オプションプレミアムの上昇を掴み、双方を売却することは理にかなっているかもしれない。 「翡翠トカゲ」という奇妙な名前のオプション戦略 (これについては後ほど詳しく説明します) は、ショートストランドによる無制限の上昇リスクなしで、多額のプレミアムを集めます。
+今日オークランドで冒頭陳述が始まり、29人の州司法長官が若いユーザーを引き付けるためにFacebookとInstagramを意図的に設計したとしてMetaを非難したが、META株は1年前の高値から30％以上下落した。
+理論上の最悪の損害賠償額は1兆4000億ドルという見出しの数字が浮上しているが、特にその後に起こる避けられない控訴を考慮すると、この数字は不条理に近いと私は思う。
+この訴訟の背後には、連邦MDL（同様の事実問題への答えを求める同様の訴訟/関連訴訟を組み合わせた複数地区訴訟）での3,000件を超える人身傷害訴訟、約1,300件の学区の請求、10億ドル近いニューメキシコ州の判決、そしてロサンゼルスでの600万ドルの先導的損失が横たわっている。兆ドルという見出しが本当のリスクを表しているとは事実上誰も信じていないが、7週間の裁判を通じて持続的な上昇を期待する人もいないはずだ。
+おそらく、マイナス面の多くはすでに支払われています。メタは過去１２カ月で「マグニフィセント・セブン」の中で最もパフォーマンスの悪い銘柄で、時価総額はこれまでに６０００億ドル以上下落している。また、最大の構成要素であるため、一般に通信セクターのボートアンカーとしても機能しています。確かに、その減少の一部には AI の設備投資への懸念もあると思われますが、収益が依然として 28% 成長しているにもかかわらず、収益が約 22 倍となっていることから、すでに多くの不安が価格に組み込まれています。
+ヒスイトカゲを入力します。
+この戦略では、アウト オブ ザ マネーのプットを売り、アウト オブ ザ マネーのコール スプレッドも売ります。多くの場合、この取引は、集められたプレミアムの総額がコールスプレッドの幅を超えるように構成されており、上昇リスクを完全に排除しますが、株価を急激に上昇させる潜在的な要因がなければ、適度な上昇リスクも許容されるでしょう。当然のことながら、インプライド・ボラティリティは訴訟によって若干上昇します。 9 月 25 日の有効期限は、10 月下旬に予定されている第 3 四半期決算報告を回避しながら、その一部を確保するものであり、予想される試用期間の 6 ～ 8 週間にも達しません。
+満期の空売り権利行使の間に株式が残っている場合、あなたは全額の信用を保持することになります。コールスプレッドによる上昇リスクは現在の株価の5%未満であり、下値リスクは、株価が現在取引されている価格よりさらに12%低く、2025年4月下旬の関税癇癪安値を下回る1株あたり480ドル未満で株式を購入することである。株価がその水準まで下落し、480ドル付近で株式を購入した場合、カバードコールまたはカバードコールスプレッド（現在当社がポジションを保有しているポジション）を売却することで、得られたポジションに対してプレミアムを回収することを検討する可能性がある。 META にあります)。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
+    publishedAt: "2026-08-19T17:25:05+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "trump-touted-a-deal-to-avert-new-tariffs-0846080b",
+    title: "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+    titleJa: "トランプ大統領はカナダに対する新たな関税を回避するための合意を宣伝した。これまでにわかっていることは次のとおりです",
+    summaryJa: "米国による特定のカナダ製品に対する大規模関税の発動まで2時間も経たないうちに、ドナルド・トランプ大統領は新たな関税を回避するための暫定合意を発表した。ワイン、ホッケースティック、その他さまざまなカナダ製品の輸入に計画されている50％の関税がすでに大きな打撃を与えていると警告する企業にとって、延期はつかの間の休息にすぎない可能性がある。",
+    bodyOriginal: `Less than two hours before massive U.S. tariffs on certain Canadian goods were set to switch on, President Donald Trump announced a tentative deal to stave off the new duties.
+The postponement could be just a brief respite for businesses who warn that the planned 50% tariffs on imports of wine, hockey sticks and a range of other Canadian products are already taking a toll.
+The new import taxes on about $20 billion worth of goods were unveiled last month in response to what the Trump administration described as Canadian trade discrimination against key U.S. industries.
+The tariffs were set to take effect Wednesday at 12:01 a.m. ET. But at 10:15 p.m. Tuesday, Trump announced on Truth Social that he would pause the tariffs for three days, "based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!"
+Trump's statement on the to-be-finalized deal included few details. But it hinted that an agreement with Canada could include restarting Keystone XL, the planned oil pipeline from Alberta to Nebraska that was scrapped in 2021 by then-President Joe Biden.
+"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!" Trump wrote in the post.
+In a follow-up post, Trump shared an AI-generated image depicting him pulling a pipeline labeled "KEYSTONE" out of the ground.
+Canadian Prime Minister Mark Carney, in a statement released Tuesday night, was more circumspect.
+"Substantial progress has been made, although there is important work still to be done," Carney's statement said.
+In another post midday Wednesday, Carney said the two sides are "moving towards an agreement that reinforces that Canadian advantage, including by securing the best terms in each of Canada's most important strategic sectors and providing greater certainty about our future trading relationship."
+Asked Wednesday morning about the coming deal, Trump claimed that Canada made multiple concessions, including lowering its retaliatory tariffs on U.S. goods.
+"We've come to a deal with Canada" after a "very good conversation" with Carney, Trump told reporters while touring construction projects on the White House grounds.
+"They called yesterday and they gave us the points that we had to have," Trump said, calling it a "very fair deal for both."
+Trump did not mention Keystone XL. But he said Canadian tariffs "will be non-existent for our farmers," without specifying which duties he was referring to. Trump's 50% tariff proposal was partly based on Canada's alleged discrimination against the U.S. dairy industry.
+Asked if the U.S. would lower its tariffs on Canadian autos as part of the deal — a top goal for Ottawa's trade negotiators — Trump said, "We're doing certain things."
+"We've got to give something," he added. "They were paying a high number, we're reducing it a little bit, it's good for everybody."
+"Basically, we have no tariffs going into Canada anymore. Canada was charging us tremendous tariffs. We no longer have any tariffs," he said.
+The president noted, however, that the deal is "subject to the finalization of documents."
+The comments came after a presidential proclamation released Tuesday night signaled that Canada would lower or remove its trade barriers on the U.S. as part of an agreement.
+"According to senior executive branch officials, Canada has expressed a commitment to remove the discriminations or unreasonable and unequal impositions" that spurred the 50% tariff threat, according to the proclamation.
+The same evening, U.S. Trade Representative Jamieson Greer wrote in an X post that the deal "will include comprehensive market access for all American goods, economic security commitments, digital trade alignment, and many important provisions that will continue to protect our market and American workers, along with our Canadian partners."
+After Greer met again with Canada-U.S. Trade Minister Dominic LeBlanc in Washington on Wednesday morning, he said the Trump administration feels "confident that we've reached an agreement" to protect American workers and "strengthen the North American economy."
+"We certainly, I think, have eliminated some of the irritants that we've had in the past year," Greer said.
+— CNBC's Ashlee Trujillo contributed to this report.`,
+    bodyJa: `米国による特定のカナダ製品に対する大規模関税の発動まで2時間も経たないうちに、ドナルド・トランプ大統領は新たな関税を回避するための暫定合意を発表した。
+ワイン、ホッケースティック、その他さまざまなカナダ製品の輸入に計画されている50％の関税がすでに大きな打撃を与えていると警告する企業にとって、延期はつかの間の休息にすぎない可能性がある。
+約200億ドル相当の商品に対する新たな輸入税は、トランプ政権が米国の主要産業に対するカナダの貿易差別と呼んだものに対抗して先月発表された。
+関税は水曜日の東部時間午前12時1分に発効する予定だった。しかし、午後10時15分。火曜日、トランプ大統領はTruth Socialで「カナダと米国が文書の最終決定を条件としてDEALを結んでいるという事実に基づいて」関税を3日間一時停止すると発表した。
+最終決定予定の合意に関するトランプ大統領の声明には詳細はほとんど含まれていなかった。しかし、カナダとの合意には、当時のジョー・バイデン大統領によって2021年に計画されていたアルバータ州からネブラスカ州への石油パイプライン計画のキーストーンXLの再開が含まれる可能性があることを示唆した。
+「ずっと前にスリーピー・ジョー・バイデンによって殺された偉大なキーストーンXLパイプラインが墓場から目覚めるかもしれない！」トランプ氏は投稿にこう書いた。
+トランプ大統領はその後の投稿で、「KEYSTONE」とラベル付けされたパイプラインを地中から引き抜いている様子を描いたAI生成画像を共有した。
+カナダのマーク・カーニー首相は火曜日の夜に発表した声明で、より慎重な姿勢を示した。
+カーニー総裁は声明で「重要な作業はまだ残されているものの、大幅な進展が見られた」と述べた。
+カーニー長官は水曜正午の別の投稿で、両国は「カナダの最も重要な戦略分野のそれぞれで最良の条件を確保し、将来の通商関係についてより確実性をもたらすなど、カナダの優位性を強化する合意に向けて進んでいる」と述べた。
+水曜朝、今後の合意について質問されたトランプ大統領は、カナダは米国製品に対する報復関税の引き下げなど複数の譲歩をしたと主張した。
+トランプ大統領は、カーニー長官との「非常に良い会話」を経て、ホワイトハウス敷地内の建設プロジェクトを視察しながら記者団に対し、「我々はカナダと合意に達した」と語った。
+トランプ大統領は「彼らは昨日電話し、我々に必要なポイントを与えてくれた」と述べ、これは「双方にとって非常に公平な取引」だと述べた。
+トランプ大統領はキーストーンXLについては言及しなかった。しかし同氏は、カナダの関税は「我が国の農家にとっては存在しない」と述べ、どの関税について言及しているのかは明らかにしなかった。トランプ大統領の50％関税提案は、米国の乳製品業界に対するカナダの差別疑惑に部分的に基づいていた。
+オタワの通商交渉担当者らの最大の目標である合意の一環として、米国がカナダの自動車に対する関税を引き下げるかとの質問に対し、トランプ大統領は「我々は一定のことを行っている」と述べた。
+「私たちは何かを与えなければなりません」と彼は付け加えた。 「彼らは高額の料金を支払っていましたが、私たちはそれを少し引き下げています。それは誰にとっても良いことです。」
+同氏は「基本的に、カナダにはもう関税はない。カナダはわれわれに莫大な関税を課していた。われわれにはもう関税はない」と述べた。
+ただ大統領は、この合意は「文書の最終決定次第」であると述べた。
+このコメントは、火曜日の夜に発表された大統領宣言が、カナダが合意の一環として米国に対する貿易障壁を引き下げるか撤廃することを示唆したことを受けて発表された。
+声明によると、「行政府高官らによると、カナダは50％関税の脅威に拍車をかけた差別や不合理で不平等な賦課を撤廃するという約束を表明した」という。
+同じ夜、ジェイミソン・グリア米通商代表部代表はXポストに、この協定には「すべての米国製品への包括的な市場アクセス、経済安全保障の約束、デジタル貿易の連携、そしてカナダのパートナーとともに米国の市場と米国の労働者を引き続き保護する多くの重要な条項が含まれる」と書いた。
+グリア氏は水曜朝、ワシントンでカナダ・米国貿易相のドミニク・ルブラン氏と再び会談した後、トランプ政権は米国の労働者を保護し、「北米経済を強化する」ために「合意に達したことに自信を持っている」と述べた。
+「確かに、私たちは過去1年間に抱えていた刺激物の一部を排除できたと思います」とグリア氏は語った。
+— CNBC の Ashlee Trujillo がこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+    publishedAt: "2026-08-19T16:40:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "track-defect-found-near-derailment-site-b5431ee1",
+    title: "Track defect found near derailment site - report",
+    titleJa: "脱線現場近くで線路欠陥発見 - 報告",
+    summaryJa: "脱線現場近くで線路欠陥発見 - 報告- 公開されました",
+    bodyOriginal: `Track defect found near derailment site - report
+- Published
+A defect was found on railway tracks in East Sussex at the site where a train derailed leaving 30 injured, a report says.
+Initial findings from the Rail Accident Investigation Branch (RAIB) found an "irregularity" with the tracks near Lewes where three carriages tumbled down an embankment last Thursday.
+The RAIB, which is continuing to investigate the derailment, said it had received "several reports of rough riding at the location of the derailment from passengers on other trains".
+Network Rail and Greater Thameslink Railway, whose Southern Rail train was involved in the crash, said in a joint statement they were "sorry this happened on our railway".
+Investigators from the RAIB have said CCTV from a train which passed through the crash site at 14:04 BST showed the "irregularity" with the track geometry just before the point where the train came off the tracks.
+The 14:24 service from London Victoria to Eastbourne derailed in the Landport area of Lewes at about 15:54 BST.
+The derailment left two people seriously injured, and 18 were taken to hospital with less serious injuries. The 18 have since left hospital.
+The eight-carriage train was travelling at about 65 mph when it derailed - within the 70mph speed limit - and the driver had begun to brake as the train approached the site.
+The RAIB update also highlighted that the accident took place during a sustained period of hot and dry weather.
+Temperatures as high as 33°C (91.4°F) were registered shortly before the crash.
+The RAIB says the clay embankment and the material underneath it are sensitive to changes in moisture content, and may move as moisture levels change.
+The continuing investigation will now consider elements including how that section of track was inspected and maintained, the condition and maintenance of the embankment, the weather conditions and how effective any hot weather mitigation measures were.
+In a joint statement, Lucy McAuliffe, Network Rail's route director for Sussex, and John Whitehurst, chief executive of Greater Thameslink Railway, apologised for the derailment.
+They added: "We will carefully consider any recommendations arising from the investigation and work across the industry to implement them, with the shared goal of making an already safe railway even safer for our customers, colleagues and the communities we serve."
+Last Friday, Network Rail's group safety and engineering director Martin Frobisher told the BBC speed restrictions were not in place along the section of track when the derailment happened.
+He insisted the railway was safe, and that Network Rail took various measures to manage the impact of weather on tracks and other railway equipment.
+The Department for Transport released a statement saying "safety remains the absolute priority across our rail network".
+The statement added: "The UK's railways remain among the safest in the world, with the number of delays caused by track faults falling by 45% since the late 2000s."
+Follow BBC Sussex on Facebook, external, X, external, and on Instagram, external and listen to BBC Radio Sussex on Sounds. Send your story ideas to southeasttoday@bbc.co.uk, external or WhatsApp us on 08081 002250.
+- Published1 day ago
+- Published4 days ago`,
+    bodyJa: `脱線現場近くで線路欠陥発見 - 報告
+- 公開されました
+報告書によると、イーストサセックス州で列車が脱線し、30人が負傷した現場の線路に欠陥が見つかった。
+鉄道事故調査局（RAIB）の初期調査結果では、先週の木曜日に3台の客車が堤防から転落したルイス近郊の線路に「異常」があることが判明した。
+脱線事故の調査を続けているRAIBは、「他の列車の乗客から脱線現場で乱暴な運転をしたという報告を数件受けた」と述べた。
+ネットワーク・レールとサザン・レールの列車が事故に巻き込まれたグレーター・テムズリンク鉄道は、共同声明で「私たちの鉄道でこのようなことが起きて残念に思う」と述べた。
+RAIBの捜査官らによると、英国標準時14時04分に事故現場を通過した列車の監視カメラには、列車が線路から外れる直前の線路形状の「不規則性」が映っていたという。
+ロンドン・ビクトリア発イーストボーン行き14時24分便は、英国標準時15時54分頃にルイスのランドポート地区で脱線した。
+この脱線事故で２人が重傷を負い、１８人が軽傷で病院に搬送された。 18人はその後退院した。
+8両編成の列車は脱線時、制限速度110km以内の時速約100kmで走行しており、列車が現場に近づくと運転士がブレーキをかけ始めた。
+RAIBの最新情報では、事故が暑くて乾燥した天候が続いた時期に発生したことも強調された。
+墜落直前には最高気温33℃（91.4°F）が記録された。
+RAIBによると、粘土堤防とその下の材料は含水量の変化に敏感で、水分レベルの変化に伴って移動する可能性があるという。
+今後の継続調査では、線路のその区間がどのように検査・維持されたか、堤防の状態と維持、気象条件、暑さ緩和策がどの程度効果的だったかなどの要素が検討されることになる。
+ネットワーク・レールのサセックス路線ディレクターのルーシー・マコーリフ氏とグレーター・テムズリンク鉄道の最高経営責任者ジョン・ホワイトハースト氏は共同声明で脱線事故を謝罪した。
+さらに「われわれは調査から生じた勧告を慎重に検討し、顧客、同僚、地域社会にとってすでに安全な鉄道をさらに安全にするという共通の目標に向けて、業界全体でその実施に取り組んでいく」と付け加えた。
+先週金曜日、ネットワーク・レールのグループ安全・エンジニアリングディレクター、マーティン・フロビッシャー氏はBBCに対し、脱線事故が起きた当時、線路沿いの区間には速度制限が設けられていなかったと語った。
+同氏は、鉄道は安全であり、ネットワーク・レールは線路やその他の鉄道設備への天候の影響を管理するためにさまざまな措置を講じていると主張した。
+運輸省は「鉄道網全体では引き続き安全が絶対的な優先事項である」との声明を発表した。
+声明はさらに「英国の鉄道は依然として世界で最も安全な鉄道の一つであり、線路断層による遅延件数は２０００年代後半から４５％減少した」と付け加えた。
+Facebook (外部)、X (外部) で BBC サセックスをフォローし、外部の Instagram で BBC サセックスをフォローし、BBC ラジオ サセックス オン サウンドを聞いてください。ストーリーのアイデアを、southeasttoday@bbc.co.uk、社外、または WhatsApp (08081 002250) に送信してください。
+- 1 日前に公開
+- 4 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-19T14:06:42+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg",
+    readTime: 4,
+  },
+  {
     id: "yields-pull-back-from-multi-year-highs-a-bfab5aa2",
     title: "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
     titleJa: "財務省が国債買い戻し規模を倍増すると発表後、利回りは数年ぶりの高水準から後退",
@@ -1538,522 +1816,6 @@ FCC委員のアンナ・ゴメス委員（委員会唯一の民主党員で、�
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-53280046",
     readTime: 2,
-  },
-  {
-    id: "ferguson-shipyard-to-cut-a-quarter-of-it-670f2463",
-    title: "Ferguson shipyard to cut a quarter of its workforce",
-    titleJa: "ファーガソン造船所、従業員の4分の1を削減へ",
-    summaryJa: "ファーガソン造船所、従業員の4分の1を削減へ- 公開されました",
-    bodyOriginal: `Ferguson shipyard to cut a quarter of its workforce
-- Published
-Scotland's state-owned shipyard is to cut nearly a quarter of its total workforce while it waits for confirmation of promised new orders.
-Workers at Ferguson Marine have been invited to apply for voluntary redundancy as construction draws to a close on the second of two long-delayed CalMac ferries.
-The Port Glasgow firm currently employs 247 core staff, 31 agency staff and 32 apprentices - but says it expects to shed 70 posts through a voluntary redundancy process.
-The Scottish government has promised to directly award the yard new orders for four smaller ships, but ministers say they are still conducting "due diligence" on the plan.
-Ferguson Marine said the job losses would protect the long-term viability of the yard - but unions described the move as "a betrayal of a blameless workforce".
-BBC Scotland News understands those who choose to leave the firm will receive £1,000 per completed year of service, up to £10,000, on top of their statutory entitlements.
-Ferguson Marine is the last commercial shipyard on the Clyde.
-It was nationalised in 2019 after a long dispute between its former owner and government-owned ferries agency Caledonian Maritime Assets Ltd (CMAL) over claims for extra costs for two dual-fuel CalMac ferries.
-The first, MV Glen Sannox, was finally delivered in November 2024, while MV Glen Rosa is due for completion by the end of this year.
-The shipyard recently completed sub-contracting work for BAE Systems for new Type 26 frigates and currently has no confirmed future orders.
-Ferguson Marine CEO Graeme Thomson said the yard's immediate focus was the handover of Glen Rosa before the end of this year.
-"However, as the vessel nears completion, we face an inevitable gap in workload while we work with the Scottish government to make the relevant preparations to enable us to proceed with contract negotiations," he said.
-"Shipbuilding capability relies on continuity and while changes of this nature are difficult, taking proactive action now ensures we protect the long-term viability of the yard and remain lean, modern, and ready to cut steel on the new fleet as quickly as possible."
-In March, before the Holyrood election, the Scottish government announced plans to directly award the shipyard contracts for four future vessels.
-It said the vessels - two small CalMac ferries, a fisheries research ship and a marine protection vessel - would provide a "bridge to the future" for the yard.
-The then Economy Secretary Kate Forbes said the government had "done a lot of the upfront work in terms of scoping out, securing some of the legal advice about what is possible".
-But she added that engagement with the Competition and Markets Authority (CMA) would be required.
-Since then none of the contracts have been confirmed, with ministers saying "due diligence" is still being carried out.
-BBC Scotland understands the Scottish government has not yet contacted the CMA for guidance on the legality of its proposals.
-Economy, Tourism and Transport Secretary Stephen Flynn said the redundancy scheme was part of efforts to modernise the shipyard and put it on a more competitive footing.
-"The action that the leadership team at Ferguson Marine is taking today is necessary to help secure a viable future for the yard, and that of commercial shipbuilding on the Clyde," he said.
-Flynn said he had been assured that the reduced workforce would not affect the building of the MV Glen Rosa.
-And he added: "Our intention to directly award four vessels continues to undergo full due diligence further to next steps which will be announced to parliament in due course."
-'Shipbuilders need ships to build'
-Louise Gilmour, Scotland secretary of the GMB union, said ministers had failed to deliver new contracts while sending work around the world.
-"Fergusons was once Scotland's ferry factory with a worldwide reputation for excellence and should be again," she said.
-"Instead, skilled and experienced shipbuilders are being encouraged to leave as those in charge send contracts everywhere but here."
-She said the "hubris and incompetence" of those in charge of Scotland's ferry network had "failed a blameless workforce that deserves the chance to turn the page".
-On the delays in delivering the new contracts she commented: "Shipbuilders needs ships to build so where are those promised to Ferguson Marine? If they ever come, who will build them?"
-SNP backbencher Stuart MacMillan, who is the local MSP, said it was a "wake up call" for management but he also called on the Scottish government to speed up the promised new orders.
-"My challenge to the Scottish government is to expedite the direct award process with the Competition and Markets Authority," he said.
-Local Labour MP Martin McCluskey said the news was "deeply concerning" and part of a "jobs crisis" in Inverclyde which has lost 1,500 jobs in recent years.
-"The Scottish government needs to step up, move faster and do everything within its power to secure the future of Ferguson Marine and the skilled jobs that depend on it," he said.
-How can the Ferguson shipyard have a future?
-- Published14 September 2025
-Why was Glen Sannox so hard to build?
-- Published13 January 2025
-The Ferguson ships nobody talks about
-- Published26 November 2023
-Even if a new contract was awarded imminently, at least a year of design work would be required before the yard would be in a position to start cutting steel.
-While the promised new orders have yet to be confirmed, they have allowed the firm to update its business plan, potentially unlocking the £14.2m of modernisation money first announced by ministers more than two years ago.
-Ground investigation work is taking place with a view to installing new equipment and software which is hoped to raise productivity.
-The shipyard's apprentice programme is also unaffected by the redundancies in the short term, with 34 young workers already in training and a new intake of 10 trainees about to start their first year in college.
-Why is the shipyard struggling for orders?
-Ferguson's has successfully built more than 360 ships since it was founded by four brothers in 1903, but its reputation has been harmed by the controversy over the long-delayed and over-budget ferries MV Glen Sannox and MV Glen Rosa.
-Construction of the first liquefied natural gas (LNG) vessels of their kind ever built in the UK was blighted by design challenges and disputes over claims for extra costs.
-While there is wide agreement the workforce were not to blame, the controversy may have left potential customers nervous about placing new orders.
-The shipyard also faces wider challenges, in common with all UK shipbuilders, of having to compete on cost with overseas firms, particularly in eastern Europe and the Far East.
-The Society of Maritime Industries says foreign yards are typically able to undercut UK-based shipbuilders by 10-20% due to a mix of cheaper labour and better state support.
-Two years ago Ferguson's missed out on an order for seven small CalMac ships which was widely regarded as an ideal contract to help rebuild the firm's reputation.
-While its bid was praised for its quality, CMAL awarded the deal to a Polish firm because it could build the ships more cheaply.
-Ferguson's management has repeatedly called for "social value" to be factored into such evaluations, which would recognise the wider economic benefits of building ships in Scotland rather than focusing on the headline price.
-But CMAL claims it is restricted in its ability to score bids for social value because Scotland's pre-Brexit procurement rules mean it must treat all bidders equally.
-Last summer Ferguson's boss Graeme Thomson called for the direct award of another CalMac ship, a replacement for MV Lord of the Isles.
-He described it as a "target contract" and warned it would be "very difficult" to sustain workforce numbers if the yard did not secure the work.
-But his appeal was rejected by ministers, and the contract went out to tender earlier this year.
-Ferguson's was unable to bid for the work because CMAL set pre-qualification criteria which, according to Ferguson's management, no UK-based commercial shipbuilder was capable of fulfilling
-A shortlist of bidders has now been drawn up, but CMAL has declined to reveal which firms are on it or where they are based, on grounds that this would harm competition. The winning bidder will be announced early next year.`,
-    bodyJa: `ファーガソン造船所、従業員の4分の1を削減へ
-- 公開されました
-スコットランドの国営造船所は、約束された新規受注の確認を待つ間、総従業員の4分の1近くを削減する予定だ。
-長らく遅延していたカルマック社のフェリー2隻のうち2隻目の建設が終わりに近づく中、ファーガソン・マリーンの労働者らは自主解雇を申請するよう呼び掛けられている。
-ポート・グラスゴーの同社は現在、中核スタッフ247名、代理店スタッフ31名、見習い32名を雇用しているが、自主退職手続きを通じて70ポストを削減する予定だとしている。
-スコットランド政府は造船所に小型船4隻の新規発注を直接与えると約束しているが、閣僚らは計画に関してまだ「デューデリジェンス」を行っていると述べている。
-ファーガソン・マリーンは、雇用の喪失は造船所の長期的な存続を守るだろうと述べたが、労働組合はこの動きを「非難の余地のない労働力に対する裏切り」だと述べた。
-BBCスコットランドニュースは、会社を辞めることを選択した人は、法定の資格に加えて、勤続年数ごとに1,000ポンド、最大10,000ポンドを受け取ることになると理解している。
-ファーガソン マリーンはクライド川にある最後の商業造船所です。
-2隻の二元燃料カルマックフェリーに対する追加費用の請求をめぐって、前所有者と政府所有のフェリー代理店カレドニアン・マリタイム・アセット社（CMAL）との間で長い紛争が続いた後、2019年に国有化された。
-最初の MV Glen Sannox は 2024 年 11 月にようやく引き渡され、MV Glen Rosa は今年末までに完成する予定です。
-同造船所は最近、BAE Systems による新型 26 型フリゲート艦の下請け作業を完了したが、現在、今後の受注は確認されていない。
-ファーガソン・マリーンのグレアム・トムソン最高経営責任者（CEO）は、造船所の当面の焦点は今年末までのグレン・ローザの引き渡しであると語った。
-「しかし、船が完成に近づくにつれ、スコットランド政府と協力して契約交渉を進めるための関連準備を進める間に、避けられない作業量のギャップに直面している」と同氏は述べた。
-「造船能力は継続性に依存しており、このような性質の変更は困難ではありますが、積極的な行動をとることで、造船所の長期的な存続可能性を守り、無駄のない最新の状態を維持し、新しい船隊でできるだけ早く鋼材を切断できるようになります。」
-ホーリールード選挙前の3月、スコットランド政府は将来の船舶4隻について造船所と直接契約を結ぶ計画を発表した。
-同船は、カルマック小型フェリー2隻、漁業調査船1隻、海洋保護船1隻が造船所の「未来への架け橋」となるだろうと述べた。
-当時のケイト・フォーブス経済長官は、政府が「何が可能なのかについての法的アドバイスを確保し、精査という点で多くの事前作業を行った」と述べた。
-しかし、競争・市場庁（CMA）との関与が必要になるだろうとも付け加えた。
-それ以来、どの契約も確認されておらず、閣僚らは依然として「デューデリジェンス」が行われていると述べている。
-BBCスコットランドは、スコットランド政府が提案の合法性についての指導を求めてまだCMAに連絡していないことを理解している。
-スティーブン・フリン経済・観光・運輸大臣は、人員削減計画は造船所を近代化し、競争力を高める取り組みの一環であると述べた。
-「ファーガソン・マリーンの経営陣が今日とっている行動は、造船所とクライド川での商業造船の実行可能な未来を確保するために必要である」と同氏は述べた。
-フリン氏は、従業員の削減がMVグレンローザの建設に影響を与えないと確信していると述べた。
-さらに、「4隻の船舶に直接授与するという我々の意図は、今後議会に発表される次のステップに向けて引き続き十分なデューデリジェンスを継続する」と付け加えた。
-「造船所には建造する船が必要だ」
-スコットランドのGMB組合書記長ルイーズ・ギルモア氏は、閣僚らが世界中に仕事を送りながら新たな契約を締結できなかったと述べた。
-「ファーガソンズはかつてスコットランドのフェリー工場であり、その優秀さは世界的に知られていたが、再びそうなるべきだ」と彼女は語った。
-「代わりに、責任者がここ以外のあらゆる場所に契約書を送るため、熟練した経験豊富な造船所は退職するよう奨励されている。」
-彼女は、スコットランドのフェリーネットワークの責任者らの「傲慢さと無能さ」が「ページをめくる機会に値する責任のない労働力を失墜させた」と述べた。
-新しい契約の引き渡しが遅れていることについて彼女は、「造船所は建造する船を必要としているが、ファーガソン海兵隊に約束した船はどこにあるのか？もし来たら誰が建造するのか？」とコメントした。
-地元MSPのSNPバックベンチャー、スチュアート・マクミラン氏は、これは経営陣への「警鐘」だとしながらも、スコットランド政府に対し、約束された新規発注を加速するよう求めた。
-同氏は、「スコットランド政府に対する私の課題は、競争市場庁との直接授与プロセスを迅速化することだ」と述べた。
-地方労働党のマーティン・マクラスキー議員は、このニュースは「非常に憂慮すべき」もので、近年1,500人の雇用を失ったインバークライドの「雇用危機」の一部であると述べた。
-同氏は、「スコットランド政府は、ファーガソン海兵隊の将来とそれに依存する熟練の雇用を確保するために、さらに強化し、より迅速に行動し、できる限りのあらゆることを行う必要がある」と述べた。
-ファーガソン造船所に未来はありますか?
-- 2025 年 9 月 14 日公開
-グレン・サノックスの建設はなぜそれほど困難だったのでしょうか?
-- 2025 年 1 月 13 日発行
-誰も語らないファーガソンの船
-- 2023 年 11 月 26 日公開
-たとえ新しい契約がすぐに締結されたとしても、ヤードが鋼材の切断を開始できる状態になるまでに、少なくとも 1 年の設計作業が必要になります。
-約束された新たな受注はまだ確認されていないが、同社は事業計画を更新することができ、2年以上前に閣僚が初めて発表した1420万ポンドの近代化資金が解放される可能性がある。
-生産性の向上が期待される新しい機器やソフトウェアの導入を目的とした地盤調査作業が行われています。
-同造船所の見習いプログラムも短期的な人員削減の影響を受けておらず、34人の若手労働者がすでに訓練を受けており、新たに10人の訓練生が大学1年目を迎えようとしている。
-なぜ造船所は受注に苦戦しているのでしょうか?
-ファーガソン社は 1903 年に 4 人の兄弟によって設立されて以来、360 隻以上の船の建造に成功してきましたが、その評判は、長期遅延と予算超過のフェリー MV グレン・サノックスと MV グレン・ローザをめぐる論争によって傷つけられました。
-英国で初めて建造されたこの種の液化天然ガス（LNG）船の建造は、設計上の課題と追加費用の請求をめぐる紛争によって難航した。
-従業員に責任がないということでは広く合意が得られているが、この論争により潜在顧客は新たな注文に不安を感じている可能性がある。
-造船所はまた、英国のすべての造船所に共通して、海外企業、特に東ヨーロッパや極東の企業とコストで競争しなければならないという広範な課題にも直面している。
-海事産業協会は、外国の造船所は、労働力の安さと国の支援の充実により、英国に本拠を置く造船所を通常10～20％下回る可能性があると述べている。
-2年前、ファーガソン社は、同社の評判を再構築するのに理想的な契約であると広く考えられていた7隻の小型CalMac船の注文を逃した。
-その入札は品質が高く評価されたが、CMALはより安価に船を建造できるという理由でポーランドの企業に取引を与えた。
-ファーガソンの経営陣は、最高価格に焦点を当てるのではなく、スコットランドで造船することのより広範な経済的利益を認識する「社会的価値」をそのような評価に織り込むよう繰り返し求めてきた。
-しかしCMALは、スコットランドのEU離脱前の調達規則により、すべての入札者を平等に扱わなければならないことを意味しているため、社会的価値に基づいて入札を採点する能力には制限があると主張している。
-昨年の夏、ファーガソンの上司グレアム・トムソンは、MVロード・オブ・ザ・アイルズに代わる別のCalMac船を直接授与するよう求めた。
-同氏はこれを「目標を絞った契約」と表現し、造船所が仕事を確保しなければ従業員数を維持するのは「非常に困難」になると警告した。
-しかし、彼の訴えは閣僚によって拒否され、契約は今年初めに入札にかけられた。
-ファーガソンの経営陣によれば、ファーガソンの経営陣によれば、CMALが事前資格基準を設定しており、英国に本拠を置く商業造船所はこの基準を満たすことができないため、ファーガソンはこの工事に入札できなかった。
-現在、入札者の最終候補リストが作成されているが、CMALは競争を阻害するという理由で、どの企業が参加しているのか、またどこに拠点を置いているのかを明らかにすることを拒否している。落札者は来年初めに発表される予定だ。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T12:56:34+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7127/live/f9c38180-9adf-11f1-b792-a710e56a11dc.jpg",
-    readTime: 10,
-  },
-  {
-    id: "30-year-treasury-yield-tops-5-33-new-19-b6249d12",
-    title: "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
-    titleJa: "30年米国債利回りは5.33％を突破、インフレ、支出懸念で19年ぶりの高水準を更新",
-    summaryJa: "米国の財政状況の悪化とインフレ率の高止まりを背景に、長期債券が約２０年ぶりの高水準に達し、火曜日には国債利回りが上昇した。米３０年国債利回りは１ベーシスポイント以上上昇し、５．３２３％で取引された。 １９年ぶりの高値を更新し、２００２年以来の高水準に近づいている。",
-    bodyOriginal: `Treasury yields rose on Tuesday, with long-dated fixed income hitting their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.
-The yield on the U.S. 30-year Treasury bond added more than 1 basis point to trade at 5.323%. It hit a new 19-year high and is nearing its highest level since 2002.
-The 10-year Treasury note yield — the main benchmark for mortgages, auto loans and credit card debt — was less than 1 basis point higher at 4.732%.
-The yield on the 2-year Treasury note, which typically reacts in line with short-term Federal Reserve interest rate decisions, edged up less than a basis point to 4.186%.
-One basis point equals 0.01%, and yields and prices move inversely to one another.
-The moves follow news that the U.S. fiscal deficit jumped to $432.3 billion in July, its highest monthly total since March 2021, pushing the year-to-date shortfall to nearly $1.8 trillion. Interest paid to finance the nearly $40 trillion national debt has cost the government about $1.2 trillion this year.
-On the inflation side, recent readings have shown low levels of overall price increases in June and July, but the annual rate remains well above the Fed's 2% target.
-Government debt also felt the effects of the ongoing Middle East tensions.
-Oil prices rose as the 60-day deadline for the U.S. and Iran to secure a peace deal expired Monday, with Iran ruling out the possibility of an extension, according to state media. A senior Iranian official also told Reuters that Tehran would take an offensive stance if diplomacy with the U.S. fails.
-"Markets have seen growing weakness over the last 24 hours, with bonds and equities slipping thanks to negative geopolitical headlines from the Middle East," Deutsche Bank's Jim Rid wrote in a note on Tuesday. "There wasn't a single catalyst for the declines, but with few signs of the US and Iran coming to any sort of a deal, that meant investors priced in a more extended closure of the Strait of Hormuz."
-Resurging fears around inflation are sending government borrowing costs higher across the globe, with many longer-maturity bond yields hovering near multi-decade highs.
-The yield on Japan's long-dated government bonds hovered near levels reached in May, when yields hit 40-year highs. Germany's 30-year bond yield was last seen at its highest since 2011, while their British counterparts approached a multi-decade high. French 30-year government bond yields also ticked upward to a post-2008 high.
-On the economic data front, investors will look to import and export pricing figures for July, along with housing starts and pending home sales on Tuesday.
-— CNBC's Jeff Cox and Chloe Taylor also contributed to this report.`,
-    bodyJa: `米国の財政状況の悪化とインフレ率の高止まりを背景に、長期債券が約２０年ぶりの高水準に達し、火曜日には国債利回りが上昇した。
-米３０年国債利回りは１ベーシスポイント以上上昇し、５．３２３％で取引された。 １９年ぶりの高値を更新し、２００２年以来の高水準に近づいている。
-住宅ローン、自動車ローン、クレジットカード債務の主な指標である10年国債利回りは4.732%と1ベーシスポイント未満上昇した。
-通常、米連邦準備理事会（ＦＲＢ）の短期金利決定に合わせて反応する２年債利回りは、１ベーシスポイント未満上昇し４．１８６％となった。
-1 ベーシス ポイントは 0.01% に相当し、利回りと価格は相互に反比例します。
-この動きは、7月の米国の財政赤字が4,323億ドルに急増し、月間総額としては2021年3月以来最高となり、年初からの財政赤字が1兆8,000億ドル近くに達したというニュースを受けたものである。約40兆ドルの国債をファイナンスするために支払われた利息は、今年政府に約1兆2000億ドルの損失をもたらした。
-インフレ面では、最近の統計では6月と7月の全体的な物価上昇率が低い水準にあることが示されているが、年率は依然としてFRBの目標である2％を大きく上回っている。
-政府債務も、現在進行中の中東情勢の緊張の影響を受けている。
-国営メディアによると、米国とイランが和平協定を締結するための60日間の期限が月曜日に期限切れとなり、イランが延長の可能性を否定したため、原油価格が上昇した。イラン高官もロイターに対し、米国との外交が失敗すればイランは攻撃的な姿勢を取るだろうと語った。
-ドイツ銀行のジム・リッド氏は火曜日のメモで「中東からの地政学的なネガティブな見出しのおかげで債券と株式が下落し、過去２４時間で市場の弱さが増している」と述べた。 「下落のきっかけは一つもなかったが、米国とイランが何らかの合意に達する兆候がほとんどなかったため、投資家はホルムズ海峡閉鎖の長期化を織り込んだことになる。」
-インフレをめぐる懸念が再燃し、世界中で政府の借入コストが上昇しており、多くの長期債利回りは数十年ぶりの高値付近で推移している。
-日本の長期国債利回りは、利回りが40年ぶりの高水準となった5月の水準付近で推移している。ドイツの３０年債利回りは２０１１年以来の高水準となったが、英国の３０年債利回りは数十年ぶりの高水準に近づいた。フランス30年国債利回りも2008年以降の高水準まで上昇した。
-経済指標に関しては、投資家は火曜日の住宅着工件数や住宅販売保留件数とともに、7月の輸出入価格の数字に注目するだろう。
-— CNBCのジェフ・コックス氏とクロエ・テイラー氏もこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
-    publishedAt: "2026-08-18T12:39:04+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "worrisome-ai-is-driving-a-looming-marke-1a0113d3",
-    title: "'Worrisome': AI is driving a looming market correction, central bank economists warn",
-    titleJa: "「憂慮すべきこと」：AIが差し迫った市場調整を引き起こしていると中央銀行のエコノミストが警告",
-    summaryJa: "投資家がAIブームに乗り出す中、米国と欧州の株価は過去最高値を更新しているが、欧州中央銀行のエコノミストらは歴史が今後の急激な景気後退を示していると警告している。「過去の技術革命に関する経済研究は、現在の株式市場の評価が修正される可能性が高いという憂慮すべき結論を示している」とエコノミストらは月曜のブログで、2つの潜在的なシナリオを挙げた。",
-    bodyOriginal: `U.S. and European stocks are scaling record highs as investors pile into the AI boom, but economists at the European Central Bank warn that history points to a sharp downturn ahead.
-"Economic research on past technological revolutions points to a worrisome conclusion: a correction of current stock market valuations is likely," the economists wrote in a Monday blog, citing two potential scenarios.
-A correction could occur because "overconfident, overoptimistic investors" push prices up beyond their fundamental worth, leading to a crash when that exuberance fades, they said.
-But a fall in prices should be expected, even if current valuations are an accurate reflection of AI's capacity to reshape the global economy and boost corporate profits, they add.
-The economists cite parallels with the 19th century railway boom, the expansion of electricity and radio in the 1920s, and the rise of the internet in the 1990s — not the first time the current AI wave has been compared to the dotcom bubble of the early 2000s.
-In each case, investor nerves about the success of a technology-linked transition spilled over into the wider economy.
-"As adoption spreads...uncertainty becomes economy-wide. If something then goes wrong with that technology, the whole economy suffers," the economists wrote.
-This drives investors to demand a higher risk premium, which their analysis found is likely to eventually drive stock prices down, even if profit growth remains robust.
-"Both views imply a boom followed by a correction, or a pullback from wherever valuations have risen, at some point in the future," they said, noting that this could in turn be followed by a recovery and further climb in stocks.
-"The exact timing is unknowable in advance. These boom-bust patterns are only identifiable with hindsight."
-The blog goes on to warn of the fallout of such a pullback and urged investors to prepare for it.
-European retail investors are highly exposed, potentially without knowing it, because of the prevalence of "Magnificent 7" stocks in global index funds and pension funds, the economists said.
-There is a further risk that a sharp correction triggers knock-on effects through fund-based structures that eventually threatens euro area stability, they continued.
-"Unlike in the dot-com episode, today's starting point leaves markedly less room to cut interest rates or use fiscal policy to cushion the fallout."`,
-    bodyJa: `投資家がAIブームに乗り出す中、米国と欧州の株価は過去最高値を更新しているが、欧州中央銀行のエコノミストらは歴史が今後の急激な景気後退を示していると警告している。
-「過去の技術革命に関する経済研究は、現在の株式市場の評価が修正される可能性が高いという憂慮すべき結論を示している」とエコノミストらは月曜のブログで、2つの潜在的なシナリオを挙げた。
-「自信過剰で楽観的すぎる投資家」が基礎的価値を超えて価格を押し上げ、その熱気が冷めたときに暴落につながるために調整が起こる可能性がある、と彼らは述べた。
-しかし、現在の評価額が世界経済を再構築し、企業利益を押し上げるAIの能力を正確に反映しているとしても、価格の下落は予想されるべきだと彼らは付け加えた。
-経済学者らは、19世紀の鉄道ブーム、1920年代の電力とラジオの拡大、1990年代のインターネットの台頭との類似点を挙げているが、現在のAIの波が2000年代初頭のドットコムバブルと比較されるのは今回が初めてではない。
-いずれの場合も、テクノロジーに関連した移行の成功に対する投資家の神経質は経済全体に波及した。
-「導入が広がるにつれて…不確実性が経済全体に広がっている。その技術に何か問題が起きれば、経済全体が打撃を受ける」とエコノミストらは書いている。
-このため、投資家はより高いリスクプレミアムを要求するようになり、たとえ利益の伸びが堅調であったとしても、最終的には株価が下落する可能性が高いことが分析で判明した。
-「どちらの見方も、将来のある時点で好景気の後に調整が起こるか、あるいはバリュエーションが上昇したところからの反動が起こることを示唆している」と述べ、その後に株価の回復とさらなる上昇が起こる可能性があると指摘した。
-「正確なタイミングは事前にはわかりません。好景気と不況のパターンは後から考えないとわかりません。」
-同ブログは続けて、こうした反落の影響について警告し、投資家にそれに備えるよう促した。
-エコノミストらによると、世界のインデックスファンドや年金基金には「マグニフィセント７」銘柄が蔓延しているため、欧州の個人投資家は潜在的に知らないうちに高いリスクにさらされているという。
-さらに、急激な調整が基金ベースの構造を通じて波及効果を引き起こし、最終的にはユーロ圏の安定を脅かすリスクがあると彼らは続けた。
-「ドットコムのエピソードとは異なり、今日の出発点では、金利引き下げや財政政策を利用して影響を緩和する余地は著しく少ない。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html",
-    publishedAt: "2026-08-18T12:07:05+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "sea-ray-parent-brunswick-bets-on-ai-navi-44b37eef",
-    title: "Sea Ray parent Brunswick bets on AI navigation and new revenue streams to help stalling boat sales",
-    titleJa: "Sea Rayの親会社ブランズウィックは、停滞しているボートの販売を助けるためにAIナビゲーションと新たな収入源に賭けている",
-    summaryJa: "ブランズウィック社のデビッド・フォルクス最高経営責任者（CEO）はCNBCに対し、プレミアムボートの販売は好調を維持しているが、バリューオプションの伸びが遅れていると語った。",
-    bodyOriginal: `Brunswick Corp., a global leader in boat manufacturing and recreation on the water, is counting on advanced technology to help with stalling sales.
-The parent company of Sea Ray, Boston Whaler and other boat brands, says advanced navigation technology and autonomous docking can take some of the complexity out of maneuvering a vessel around a crowded marina.
-The bet is twofold: convince would-be buyers to dive into a market that's been sluggish — with retail sales of new vessels expected to remain subdued through 2026 — and increase aftermarket and recurring revenue through technology and software sales.
-Brunswick's portfolio extends well beyond the boat brands. Its Navico Group sells marine electronics and technology, while its Mercury Marine supplies engines and maintains a parts and accessories business.
-Roughly 60% of Brunswick's earnings now come from aftermarket or recurring revenue, and Roth Capital Partners analyst Scott Stember says that mix gives the company meaningful exposure beyond new boat sales.
-Brunswick told investors it anticipates annual sales of 145,000 to 160,000 units by 2030. Roth characterizes that as modest recovery in demand from estimated U.S. retail sales this year of fewer than 135,000 vessels.
-The sluggish demand is being felt most in Brunswick's least expensive models.
-"We're seeing premium boats and what we call our core portfolio being very resilient," CEO David Foulkes told CNBC. "What we're seeing is value boats, which are more typically financed or more subject to interest rate pressures ... they're not doing badly, but they're just not doing as well as some of our more premium products."
-But Brunswick could increase the amount of electronics and technology onboard, even if the number of boats sold doesn't rise dramatically.
-For instance, 55% of Navico's original-equipment customers have increased their Navico content since 2023, according to the company. And Navico has launched more than 30 new products since 2025.
-One of those is Simrad AutoCaptain, which helps navigate and dock boats. The business strategy makes sense: Make it easy to take the boat out, and more importantly back in, and you just might sell a bigger, more expensive boat. The company generates more business around the boat, too.
-Another piece of the strategy is Freedom Boat Club — a kind of country club for boaters, with locations around the globe. Members pay a fee and monthly dues for access to vessels to take out on the water at any of the locations.
-Brunswick reported during its August investor day that the club has more than tripled its membership since 2019 to more than 63,000 members. Trips and reservations have grown fourfold, while the network has expanded to more than 450 locations and a fleet of roughly 5,000 boats.
-And unlike the cyclical sales of a new boat, Freedom Boat Club lands squarely inside Brunswick's recurring-revenue profile, with about 90% of the club's sales recurring and trips running 10% higher than a year ago, one indication that consumers are continuing to take to the seas even as new-boat sales remain weak.
-That approach is becoming more important as Brunswick lays out ambitious financial targets without assuming a return to the industry's boom years.
-The company is targeting $7 billion to $8 billion in revenue by 2030, operating margins of 10% to 13% and earnings of between $8 and $12 per share.
-KeyBanc, which has a sector-weight rating on Brunswick stock, said management expects pricing, a richer premium-product mix, market-share gains and new-product innovation to help drive growth.
-Roth, which rates the shares buy with a $94 price target, is more bullish. Stember wrote that Brunswick is "uniquely positioned" within recreation and leisure to produce meaningful earnings growth even with only a "modest/non-heroic" recovery in new-boat demand.
-Shares of Brunswick currently trade at roughly $82 apiece.
-Brunswick is also trying to remove supply chain risk by reducing its China-sourced parts by as much as 75% and cutting tariff exposure by 70%.
-Foulkes said that gives Brunswick an advantage over competitors based overseas.
-Investors, of course, will weigh whether the sum total of advanced technology, more efficient engines and recurring revenue from Freedom Boat Club can keep profits afloat, even if unit growth remains challenging.`,
-    bodyJa: `ボート製造と水上レクリエーションの世界的リーダーであるブランズウィック社は、販売の停滞を防ぐために先進技術に期待しています。
-Sea Ray、Boston Whaler、その他のボートブランドの親会社は、高度なナビゲーション技術と自動ドッキングにより、混雑したマリーナ周辺で船舶を操縦する際の複雑さをある程度軽減できると述べている。
-賭けは 2 つあります。1 つは、新造船の小売売上高が 2026 年まで低迷が続くと予想されているため、低迷している市場に参入するよう購入希望者を説得すること、そしてテクノロジーとソフトウェアの販売を通じてアフターマーケット収益と経常収益を増やすことです。
-ブランズウィックのポートフォリオはボート ブランドをはるかに超えています。同社の Navico グループは海洋エレクトロニクスと技術を販売し、Mercury Marine はエンジンを供給し、部品と付属品のビジネスを維持しています。
-ブランズウィックの収益の約60％は現在、アフターマーケット収益または経常収益によるもので、ロス・キャピタル・パートナーズのアナリスト、スコット・ステンバー氏は、この組み合わせにより新艇販売以外にも同社に有意義なエクスポージャが与えられていると述べている。
-ブランズウィック社は投資家に対し、2030年までに年間販売台数が14万5,000台から16万台になると予想していると語った。ロス氏は、今年の米国小売販売台数が13万5,000隻未満と見積もられていることから、需要が緩やかに回復したことだと特徴付けている。
-需要の低迷はブランズウィックの最も安価なモデルに最も顕著に表れている。
-CEOのデビッド・フォークス氏はCNBCに対し、「プレミアムボートと私たちがコアポートフォリオと呼ぶものは非常に回復力があると見ている」と語った。 「我々が目にしているのはバリューボートで、通常は資金調達が行われているか、金利圧力の影響を受けやすい。彼らの業績は悪くはないが、当社の一部のよりプレミアムな商品ほど業績が良くないだけだ。」
-しかし、ブランズウィック社は、たとえボートの販売数が劇的に増加しなくても、搭載される電子機器や技術の量を増やす可能性がある。
-たとえば、同社によれば、Navico の純正機器顧客の 55% が 2023 年以降、Navico コンテンツを増やしています。そして、Navico は 2025 年以降、30 以上の新製品を発売してきました。
-そのうちの 1 つは、ボートの航行とドッキングを支援する Simrad AutoCaptain です。ビジネス戦略は理にかなっています。ボートを簡単に出すことができ、さらに重要なことに、元に戻すことも簡単にできます。そうすれば、より大きくて高価なボートが売れるかもしれません。同社はボート関連でもさらなるビジネスを生み出しています。
-戦略のもう 1 つの要素は、フリーダム ボート クラブです。フリーダム ボート クラブは、世界中に拠点を置く、ボート乗りのための一種のカントリー クラブです。会員は、いずれかの場所で水上に出るための船にアクセスするために料金と月会費を支払います。
-ブランズウィックは8月の投資家向けデーで、同クラブの会員数が2019年以来3倍以上の6万3000人以上になったと報告した。旅行と予約は 4 倍に増加し、ネットワークは 450 以上の場所と約 5,000 隻の船団に拡大しました。
-そして、新造船の循環的な販売とは異なり、フリーダム ボート クラブはブランズウィックの経常収益プロファイルの中にしっかりと入っており、クラブの売上高の約 90% が定期購入であり、旅行件数は 1 年前より 10% 増加しています。これは、新造船の販売が依然として低迷しているにもかかわらず、消費者が海へ行き続けていることを示しています。
-ブランズウィックが業界の好況期への回帰を想定せずに野心的な財務目標を掲げるなか、このアプローチはますます重要になっている。
-同社は、2030年までに売上高70億～80億ドル、営業利益率10～13％、1株利益8～12ドルを目標としている。
-ブランズウィック株のセクターウェイト格付けを行っているキーバンクは、経営陣が価格設定、プレミアム製品ミックスの充実、市場シェアの拡大、新製品のイノベーションが成長促進につながると期待していると述べた。
-ロス氏は自社株買いの目標株価を94ドルと評価しており、より強気だ。ステンバー氏は、ブランズウィックはレクリエーションとレジャーの中で「独特の位置にあり」、新造船の需要が「緩やか/非英雄的」に回復したとしても、意味のある収益成長を生み出すことができると書いた。
-ブランズウィック株は現在、1株あたり約82ドルで取引されている。
-ブランズウィックはまた、中国調達部品を最大75％削減し、関税負担を70％削減することで、サプライチェーンのリスクを排除しようとしている。
-これによりブランズウィックは海外に拠点を置く競合他社よりも有利になるとフォルクス氏は語った。
-もちろん、投資家は、たとえユニットの成長が依然として困難であっても、先進技術、より効率的なエンジン、およびフリーダムボートクラブからの経常収益の合計が利益を維持できるかどうかを検討するでしょう。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/sea-ray-parent-brunswick-ai-recurring-revenue-boat-sales.html",
-    publishedAt: "2026-08-18T11:59:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "nvidia-s-ai-moat-is-shifting-from-chips-de2de7e4",
-    title: "Nvidia's AI moat is shifting from chips to capital",
-    titleJa: "Nvidia の AI の堀はチップから資本へと移行している",
-    summaryJa: "Nvidia は人工知能分野で大幅に有利なスタートを切り、チップメーカーを世界で最も価値のある企業に変えました。生成 AI ブームが始まってからほぼ 4 年が経過した現在、Advanced Micro Devices や Google などの競合他社が Nvidia の技術的リードを少しずつ削り取っており、同社はもう 1 つの大きな資産である資本を活用するよう促されています。Nvidiaのグラフィックス処理装置に5,000億ドル相当の資金調達を求めるという先週のウォール街企業との協定に続き、Nvidiaは月曜日、オハイオ州の巨大なOpenAIデータセンターに最大1,050億ドルを提供し、ChatGPTの開発者が運命の好転を見た場合の一種のバックストップを提供すると発表した。",
-    bodyOriginal: `Nvidia's massive head start in artificial intelligence turned the chipmaker into the world's most valuable company. Now, almost four years into the generative AI boom, competitors like Advanced Micro Devices and Google have chipped away at Nvidia's technology lead, pushing the company to take advantage of its other great asset: capital.
-Following last week's pact with Wall Street firms to pursue $500 billion worth of financing for Nvidia's graphics processing units, Nvidia said on Monday that it's providing up to $105 billion for a giant OpenAI data center in Ohio, offering a backstop of sorts should the ChatGPT creator see its fortunes turn.
-For Nvidia, the strategy involves fueling the AI boom by whatever means necessary, recognizing that demand for critical infrastructure is seemingly insatiable but that a handful of companies — the hyperscalers — account for an outsized amount of purchases. With its quarterly free cash flow up 18-fold over the past three years to $48.5 billion in the latest period, Nvidia is using the strength of its balance sheet and credit rating to ensure there's no dramatic slowdown following 12 straight quarters of revenue growth above 55%.
-"They remain dominant, but they're very paranoid about making sure they don't lose ground," said Ram Bala, associate professor of AI and analytics at Santa Clara University's Leavey School of Business.
-Nvidia declined to comment.
-In a note to clients on Monday, analysts at Cantor brushed off concerns that Nvidia is effectively buying revenue through its financial maneuvering. They reiterated their buy rating and said the latest agreement is a "clear signal that the current AI investment cycle will be elongated and durable."
-"We view this less as circular and more facilitating the coming AI buildout while at the same time creating additional competitive moats that will continue to enable NVDA to remain THE AI leader," the analysts wrote.
-Nvidia is swimming in money. Its cash generation is so great that the company said in May that it was increasing its quarterly dividend to 25 cents a share from a penny, and announced a new $80 billion stock buyback plan. The company pledged "to return roughly 50% of free cash flow to shareholders this year."
-One way the company has been putting its cash pile to work is through equity investments in companies across the AI ecosystem, including some businesses — like model developers and neoclouds — that spend heavily on Nvidia's chips and systems. Nvidia held $30.2 billion in marketable equity securities as of the most recent quarter, up from $12.9 billion a year earlier.
-In February, Nvidia invested $30 billion in OpenAI, which relies on training capacity from Vera Rubin, the chip giant's most advanced system. Monday's agreement included a $1.5 billion investment in SB Energy, a SoftBank affiliate that's building and managing the data center at the PORTS-Pike Technology Campus in Pike County, Ohio, through a 20-year lease to OpenAI.
-In addition to the SB Energy investment, Nvidia said it's putting its financial support behind about 4 gigawatts of development at the Ohio site for portions of lease and power and "a specified residual-value commitment," as data centers open between 2028 and 2030.
-Expanding access
-Nvidia CEO Jensen Huang acknowledged the significance of the company's financial prowess in a post on X about the agreement.
-"Frontier AI labs have extraordinary demand for training and inference compute, but many are growing faster than their balance sheets and long-term credit profiles can support," Huang wrote. "They may have strong customer demand and rapidly growing revenue yet still lack the decades-long infrastructure contracts and investment-grade financing capacity needed to secure the AI factory infrastructure independently."
-A week prior, Huang was on set at CNBC surrounded by six of Wall Street's leading financiers to announce the arrival of Nvidia graphics processing units as a new asset class. In signing a memorandum of understanding with firms including Goldman Sachs, Apollo Global Management, Blackstone and BlackRock, Huang indicated that the next phase of the AI buildout will be funded in part by third-party backers, who can start investing in GPUs the way they do real estate.
-"These are revenue-generating assets now," Huang told CNBC. "They're productive, they're long-lived, they're fungible, they're flexible."
-Key to obtaining financing for prospective borrowers will be a dedication to Huang's systems, with Nvidia obtaining the option of backstopping 25% of every loan. It's another way to get more of Nvidia's technology into the market, as competition builds from Google and AMD, as well as from specialized chipmakers like Cerebras.
-In the second quarter, Google began recognizing revenue from TPU system sales, contributing to the cloud unit's 82% growth. AMD, meanwhile, reported more than 100% growth in its data center business, and the company expects its first rack-scale system, called Helios, to ship later this year.
-Paul Meeks, head of technology research at Freedom Capital Markets, said the stepped-up competition eats into Nvidia's ability to yield "outrageous margins," and incentives the company to diversify its strategy.
-"Part of their thinking is let's broaden our reach," Meeks said. "We just can't ride this one horse, which is GPUs."
-AI bulls say that Nvidia is just responding to demand, and point out that the shortage in the market today is on the capacity side. There are plenty of numbers to back that up, as Anthropic told investors over the weekend that its annualized revenue run rate hit $65 billion in July, up sevenfold from a year earlier. OpenAI's run rate recently reached $40 billion.
-Matthew Vegari, head of research at Clearwater Analytics, said in an email that, based on the market dynamics, the "narrative around the AI trade's circuitous, 'house of cards' structure strikes us as somewhat misguided."
-"We might one day be at overcapacity," he wrote. "But that day isn't today."
-— CNBC's Samantha Subin and Jonathan Vanian contributed to this report
-WATCH: AI is not a new asset class, it's the entire market, says Clockwise Capital CIO`,
-    bodyJa: `Nvidia は人工知能分野で大幅に有利なスタートを切り、チップメーカーを世界で最も価値のある企業に変えました。生成 AI ブームが始まってからほぼ 4 年が経過した現在、Advanced Micro Devices や Google などの競合他社が Nvidia の技術的リードを少しずつ削り取っており、同社はもう 1 つの大きな資産である資本を活用するよう促されています。
-Nvidiaのグラフィックス処理装置に5,000億ドル相当の資金調達を求めるという先週のウォール街企業との協定に続き、Nvidiaは月曜日、オハイオ州の巨大なOpenAIデータセンターに最大1,050億ドルを提供し、ChatGPTの開発者が運命の好転を見た場合の一種のバックストップを提供すると発表した。
-Nvidia の戦略には、重要なインフラストラクチャに対する需要が一見飽くことのないように見えるが、少数の企業、つまりハイパースケーラーが莫大な額の購入を占めていることを認識し、必要なあらゆる手段を講じて AI ブームを促進することが含まれています。過去 3 年間で四半期のフリー キャッシュ フローが 18 倍に増加し、直近の期間では 485 億ドルとなった Nvidia は、バランスシートと信用格付けの強みを利用して、12 四半期連続で収益が 55% を超える成長を続けているにもかかわらず、劇的な減速が起こらないように努めています。
-サンタクララ大学リービー経営大学院のAI・分析准教授ラム・バラ氏は、「彼らは依然として優勢だが、劣勢に陥らないよう非常に偏執的だ」と語る。
-エヌビディアはコメントを控えた。
-カンターのアナリストらは月曜日の顧客向けメモの中で、エヌビディアが財務戦略を通じて効果的に収益を買収しているという懸念を一蹴した。両社は買いの評価を繰り返し、今回の合意は「現在のAI投資サイクルが長期化して耐久性があることを示す明らかな兆候」だと述べた。
-「私たちはこれを循環的ではなく、今後の AI の構築を促進すると同時に、NVDA が AI のリーダーであり続けることを可能にするさらなる競争の堀を生み出すものであると考えています」とアナリストは書いています。
-Nvidia は金で泳いでいます。同社のキャッシュ創出は非常に大きいため、同社は5月に四半期配当を1株あたり1ペニーから25セントに増額すると発表し、新たに800億ドルの自社株買い計画を発表した。同社は「今年はフリーキャッシュフローの約50％を株主に還元する」と約束した。
-同社が山積した現金を有効に活用している方法の 1 つは、モデル開発者やネオクラウドなど、Nvidia のチップやシステムに多額の費用を費やしている一部の企業を含む、AI エコシステム全体の企業への株式投資です。 Nvidiaは直近四半期時点で市場性のある株式を302億ドル保有しており、前年同期の129億ドルから増加した。
-Nvidia は 2 月に、OpenAI に 300 億ドルを投資しました。OpenAI は、チップ大手の最先端システムである Vera Rubin のトレーニング能力に依存しています。月曜日の契約には、OpenAIへの20年間のリースを通じて、オハイオ州パイク郡のPORTS-Pike Technology Campusにデータセンターを建設・管理しているソフトバンク関連会社のSB Energyへの15億ドルの投資が含まれていた。
-Nvidiaは、SB Energyへの投資に加えて、2028年から2030年の間にデータセンターがオープンするため、リースと電力の一部と「特定の残価保証」のためにオハイオ州サイトでの約4ギガワットの開発に資金援助を提供すると述べた。
-アクセスの拡大
-Nvidia CEOのジェンセン・ファン氏は、この契約に関するXへの投稿で同社の財務力の重要性を認めた。
-「フロンティア AI ラボにはトレーニングと推論計算に対する並外れた需要がありますが、その多くはバランスシートと長期信用プロファイルがサポートできるよりも速いスピードで成長しています」と Huang 氏は書いています。 「彼らは強い顧客需要と急速に成長する収益を持っているかもしれませんが、AI工場インフラストラクチャを独自に確保するために必要な数十年にわたるインフラストラクチャ契約と投資適格の資金調達能力がまだ不足しています。」
-1週間前、フアン氏はCNBCの撮影現場にいて、ウォール街の有力金融家6人に囲まれ、新しい資産クラスとしてNVIDIAグラフィックス処理装置の登場を発表した。ゴールドマン・サックス、アポロ・グローバル・マネジメント、ブラックストーン、ブラックロックなどの企業との覚書に署名する際、フアン氏は、AI構築の次の段階は不動産と同じようにGPUへの投資を開始できるサードパーティの支援者によって部分的に資金提供されることを示唆した。
-「これらは今や収益を生み出す資産だ」とフアン氏はCNBCに語った。 「生産性が高く、長寿命で、代替可能で、柔軟性があります。」
-将来の借り手への融資獲得の鍵となるのは、Huang のシステムへの献身的な取り組みであり、NVIDIA はすべての融資の 25% をバックストップするオプションを取得します。 GoogleやAMD、そしてCerebrasのような専門チップメーカーとの競争が激化する中、これはNvidiaのテクノロジーをより多く市場に投入するもう1つの方法だ。
-第 2 四半期に、Google は TPU システムの販売による収益を認識し始め、クラウド部門の 82% の成長に貢献しました。一方、AMDはデータセンター事業の100％以上の成長を報告しており、同社初のラックスケールシステム「Helios」が今年後半に出荷される予定だ。
-フリーダム・キャピタル・マーケッツの技術調査責任者、ポール・ミークス氏は、競争の激化によりエヌビディアの「法外な利益」を生み出す能力が損なわれ、同社が戦略を多様化する動機になっていると述べた。
-「彼らの考えの一部は、私たちの活動範囲を広げようということです」とミークス氏は語った。 「私たちは、GPU という 1 つの馬に乗ることができません。」
-AI強気派は、エヌビディアは需要に応えているだけだとし、今日の市場の不足は容量側にあると指摘する。それを裏付ける数字はたくさんある。アンスロピックは先週末、投資家に対し、7月の年間収益ランレートが650億ドルに達し、前年比7倍に達したと語った。 OpenAI の稼働率は最近 400 億ドルに達しました。
-クリアウォーター・アナリティクスの調査責任者マシュー・ベガリ氏は電子メールで、市場動向を踏まえると、「AI業界の回りくどい『砂上の楼閣』構造に関する物語は、いくぶん見当違いであるように思われる」と述べた。
-「いつか私たちは生産能力を超えてしまうかもしれない」と彼は書いた。 「しかし、その日は今日ではありません。」
-— CNBC のサマンサ・スビンとジョナサン・バニアンがこのレポートに寄稿しました
-注目: AI は新しい資産クラスではなく、市場全体である、とクロックワイズ キャピタル CIO は語る`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
-    publishedAt: "2026-08-18T11:55:33+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "home-depot-reaffirms-guidance-amid-froze-5d1f2c53",
-    title: "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-    titleJa: "ホーム・デポ、「住宅市場の凍結」の中で指針を再確認",
-    summaryJa: "ホーム・デポは火曜日、売上高、最終利益ともにウォール街の予想を上回る会計年度第2四半期決算を報告し、通期の見通しを再確認した。「当社は、私が『凍結した住宅市場』と呼ぶ状況で事業を続けているが、シェアを獲得し、顧客へのサービスを日々向上させていることも分かっている」とCFOのリチャード・マクファイル氏はCNBCに語った。 「これは私たちが行ってきた継続的な投資と戦略の実行への集中の反映です。」",
-    bodyOriginal: `Home Depot on Tuesday reported fiscal second-quarter results that beat Wall Street expectations on the top and bottom lines and reaffirmed its full fiscal-year guidance.
-"We continue to operate in what I call 'frozen housing market' conditions, but we also know that we're taking share and that we're serving our customers better every day," CFO Richard McPhail told CNBC. "It's a reflection of the continued investment we've made and the focus on executing our strategy."
-McPhail said Home Depot saw "broad engagement" across its categories, including in both its pro and do-it-yourself businesses, but the greater uncertainty in the market led the company to reaffirm rather than raise its guidance.
-He added that Home Depot's customer is "a healthy cohort," though he said the company has still not seen consumers return to big projects.
-"They've told us they have the means to spend, they're just hesitant," he told CNBC. "While we're happy with their level of engagement in the first half, they do tell us they're worried about inflation, about fuel costs and about, about general uncertainty, and so there is a little bit of hesitancy there as the project gets bigger."
-Here's how Home Depot performed in its fiscal second quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $4.92 adjusted vs. $4.73 expected
-- Revenue: $47.86 billion vs. $47.27 billion expected
-The home improvement retailer reported net income of $4.77 billion, or $4.79 per share, compared with $4.55 billion, or $4.58 per share, the year prior. Excluding one-time items, Home Depot reported adjusted earnings per share of $4.92. Revenue rose 5.7% to $47.86 billion.
-Home Depot saw comparable sales rise 1.7%, beating expectations that they would be up 0.9%, according to StreetAccount. McPhail said it is the highest comparable sales number the company has posted since the fiscal third quarter of 2022.
-Home Depot also reaffirmed its fiscal 2026 guidance, which it said includes tariff refunds that are "expected to partially offset unplanned fuel, energy, and other product input costs." McPhail added that the tariff refunds allow the retailer to "maintain value" despite cost pressures in other areas.
-The company expects total sales growth for the year to be between 2.5% and 4.5% and operating margin between 12.4% and 12.6%.
-"The story of the quarter is a story of share gain with the pro and the consumer, and we're confident that our investments are working to allow us to win in the market," McPhail said.
-Home Depot has been pressured by lower housing turnover, higher mortgage rates and economic uncertainty as customers have put off projects that come with buying a new home. Still, the company has been trying to attract more pro shoppers, a cohort that executives have previously said is largely unaffected by the macroeconomic conditions.
-"We're focused on controlling what we can control," McPhail said. "We have been consistent through the years that in spite of a frozen housing environment, we're going to keep leaning into investment because we know that over the long run, conditions for home improvement demand are strong."
-The company also announced last week that CEO Ted Decker is taking a "temporary medical leave of absence" for a few months. Ann-Marie Campbell, Home Depot's senior executive vice president of U.S. stores and operations, will oversee the day-to-day operations while McPhail will head the financial management and pro business, according to the company.`,
-    bodyJa: `ホーム・デポは火曜日、売上高、最終利益ともにウォール街の予想を上回る会計年度第2四半期決算を報告し、通期の見通しを再確認した。
-「当社は、私が『凍結した住宅市場』と呼ぶ状況で事業を続けているが、シェアを獲得し、顧客へのサービスを日々向上させていることも分かっている」とCFOのリチャード・マクファイル氏はCNBCに語った。 「これは私たちが行ってきた継続的な投資と戦略の実行への集中の反映です。」
-マクファイル氏は、ホーム・デポはプロ向け事業と日曜大工事業の両方を含むカテゴリー全体で「幅広い取り組み」をみているが、市場の不確実性が高まったため、同社はガイダンスを引き上げるのではなく、再確認することにしたと述べた。
-同氏は、ホーム・デポの顧客は「健全な層」だと付け加えたが、消費者が大規模プロジェクトに戻ってくるのはまだ見ていないと述べた。
-同氏はCNBCに対し、「彼らは支出する資力はあると我々に話しているが、ただ躊躇しているだけだ」と語った。 「前半の彼らの関与のレベルには満足していますが、彼らはインフレや燃料費、その他一般的な不確実性について心配していると言っています。そのため、プロジェクトが大きくなるにつれ、少し躊躇するところもあります。」
-LSEGによるアナリスト調査に基づいた、ホーム・デポの会計年度第2四半期の業績とウォール街の予想との比較は次のとおりだ。
-- 1 株当たり利益: 調整後 4.92 ドル、予想 4.73 ドル
-- 収益: 478.6億ドル対予想472.7億ドル
-ホームセンター小売業者の純利益は、前年同期の 45 億 5,000 万ドル (1 株あたり 4.58 ドル) に対し、47 億 7,000 万ドル (1 株あたり 4.79 ドル) と報告されました。ホーム・デポは、一時項目を除いた調整後の一株当たり利益が 4.92 ドルであると報告しました。売上高は5.7％増の478億6000万ドルとなった。
-ストリートアカウントによると、ホーム・デポの既存店売上高は１．７％増加し、予想の０．９％増を上回った。マクファイル氏は、これは同社が2022年度第3四半期以降に記録した比較可能な売上高としては最高額だと述べた。
-ホーム・デポはまた、2026年度のガイダンスを再確認し、そのガイダンスには「計画外の燃料、エネルギー、その他の製品投入コストを部分的に相殺することが期待される」関税の払い戻しが含まれていると述べた。マクファイル氏は、関税の払い戻しにより、小売業者は他の分野でのコスト圧力にもかかわらず「価値を維持」できると付け加えた。
-同社は、今年の総売上高の伸び率が2.5％から4.5％、営業利益率が12.4％から12.6％になると予想している。
-「この四半期の物語は、プロとコンシューマーのシェア獲得の物語であり、私たちの投資が市場での勝利に貢献していると確信しています」とマクファイル氏は語った。
-ホーム・デポは、顧客が新築住宅の購入に伴うプロジェクトを先送りしているため、住宅回転率の低下、住宅ローン金利の上昇、経済的不確実性によって圧迫されている。それでも、同社はより多くのプロ買い物客を引きつけようと努めており、幹部らはこの層はマクロ経済状況の影響をほとんど受けないと以前から述べていた。
-「私たちはコントロールできるものをコントロールすることに重点を置いています」とマクファイル氏は語った。 「住宅環境が冷え込んでいるにもかかわらず、長期的には住宅改修需要の状況が強いことを知っているため、当社は投資に傾き続けると長年にわたって一貫してきました。」
-同社は先週、テッド・デッカー最高経営責任者（CEO）が数カ月間「一時的な病気休暇」を取ることも発表した。同社によると、ホーム・デポの米国店舗・運営担当上級副社長アンマリー・キャンベル氏が日常業務を監督し、マクファイル氏が財務管理とプロビジネスの責任者となるという。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-    publishedAt: "2026-08-18T11:48:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "from-jumpers-to-slug-pellets-how-british-33c44f47",
-    title: "From jumpers to slug pellets - how British wool is back in demand",
-    titleJa: "ジャンパーからナメクジのペレットまで - 英国羊毛の需要がどのように戻ってきたか",
-    summaryJa: "ジャンパーからナメクジのペレットまで - 英国羊毛の需要がどのように戻ってきたか- 公開されました",
-    bodyOriginal: `From jumpers to slug pellets - how British wool is back in demand
-- Published
-The price of wool has increased more than 70% in the last year, helped in part by a smaller British flock of sheep and a dwindling of the global stockpile produced during the Covid-19 pandemic.
-Prices reached a 10-year high earlier this year, and comes after some farmers burnt fleeces in protest against how little they were being paid.
-On average, a kilogram of clean shorn wool sold for £2.54 in the most recent sale, compared with less than £1.50 a year ago.
-The rising cost may not be welcomed by shoppers seeking woolly socks and jumpers this winter, but it does mean farmers are more likely to cover the cost of shearing.
-And while most people associate the versatile fibre with jumpers and blankets, it is also used in products ranging from flood protection systems to slug pellets, further helping fuel demand.
-Wyn Williams keeps a flock of 700 sheep on the hills above Llanfair Caereinion in Powys and said it could be an expensive business.
-He said the demand and subsequent increase in price "helps cover costs".
-"We've got professional shearers coming, it's not everybody who can shear," Williams said.
-"You've also got your helpers, the wool wrappers and everything else so it assists with the costs."
-Like most sheep farmers, Williams primarily rears them for meat and breeding rather than for their wool, but it still has to be taken care of.
-"Most importantly we have to shear from an animal welfare and health perspective.
-"Who would want a big, strong winter coat still on with the excessive heat we're having at the moment?"
-Sheep are disappearing from our hills - and our dinner plates
-- Published6 March
-The fleeces from Williams's farm are taken to a local wool depot in Newtown, where manager Barry Bellis sorts through them by hand.
-It is an industry that has survived centuries, with wool being spun back in the Bronze Age.
-Bellis said he could spot 68 different grades of wool as he had worked through the fleeces, with the best destined for formal wear while others ended up as slug pellets.
-"If you've got a nice white fleece, you're able to dye it pink, green, blue, whatever colour you want," he said
-"The blue face Leicester fleece, which is our closest to the merino, that will go into knitwear like men's suits."
-Wool from Welsh mules is more likely to be walked on than worn.
-"This type of fleece, which contains kemp," Bellis explains, "that will tend to go into a carpet blend because of the colour."
-Gareth Jones, from British Wool said the price boom came down to supply and demand.
-"There are less sheep in Wales, less sheep in the UK, producing less wool and if we look at a comparable market like New Zealand, there are less sheep there.
-"They also had a carry-over of wool since Covid – that's cleared in the last two years," he added.
-Despite less wool being available global interest in using the product has seen a resurgence.
-"It is in demand worldwide," Jones said.
-"China is an important market for us, we also have a bedding manufacturer in South Korea, and we have some licensees in Japan."
-As the rising costs in fuel and fertiliser continues to be a challenge for many farmers, making money back from wool comes as a welcome relief to some.
-More top stories
-- Published1 day ago
-- Published1 day ago
-- Published1 day ago`,
-    bodyJa: `ジャンパーからナメクジのペレットまで - 英国羊毛の需要がどのように戻ってきたか
-- 公開されました
-羊毛の価格は昨年、英国の羊の群れの減少と、新型コロナウイルス感染症のパンデミックで生産される世界的な備蓄量の減少が一因となって、70％以上上昇した。
-価格は今年初めに10年ぶりの高値に達したが、これは一部の農家が賃金の少なさに抗議してフリースを燃やしたことがきっかけとなった。
-平均して、きれいに刈り取られた羊毛 1 キログラムは、直近のセールでは 2.54 ポンドで販売されましたが、1 年前は 1.50 ポンド未満でした。
-この冬、羊毛の靴下やジャンパーを求める買い物客にとってコストの上昇は歓迎されないかもしれないが、農家が毛刈りのコストを負担する可能性が高まることを意味する。
-そして、ほとんどの人はこの多用途繊維をジャンパーやブランケットと連想しますが、洪水防御システムからナメクジペレットに至るまでの製品にも使用されており、燃料需要をさらに助けています。
-ウィン・ウィリアムズさんはポーウィスのランフェア・カエレニオンの上の丘で700頭の羊の群れを飼っているが、これは高額なビジネスになる可能性があると語った。
-同氏は、需要とその後の価格上昇が「コストをカバーするのに役立つ」と述べた。
-「プロの毛刈り師が来ていますが、誰もが毛刈りできるわけではありません」とウィリアムズさんは語った。
-「ヘルパーや羊毛の包み紙などもすべて揃っているので、費用も助かります。」
-ほとんどの羊農家と同様、ウィリアムズさんも毛を育てるよりも主に食肉と繁殖のために羊を飼育しているが、それでも世話は必要だ。
-「最も重要なことは、動物福祉と健康の観点から毛を刈らなければならないことです。
-「今の異常な暑さの中で、大きくて丈夫な冬用のコートをまだ着ている人がいるでしょうか？」
-羊が私たちの丘から、そして私たちの夕食の皿から消えつつあります
-- 3 月 6 日発行
-ウィリアムズの農場からのフリースはニュータウンにある地元の羊毛倉庫に運ばれ、そこでマネージャーのバリー・ベリスが手作業で選別します。
-これは青銅器時代に羊毛が紡績されており、何世紀にもわたって生き残ってきた産業です。
-ベリス氏は、フリースを調べた結果、68種類の異なるグレードのウールを見つけることができ、最高のものはフォーマルウェアに使用されるが、他のものはナメクジペレットとして終わったと述べた。
-「素敵な白いフリースがあれば、ピンク、緑、青など、好きな色に染めることができます」と彼は言いました。
-「メリノに最も近いブルーフェイスのレスターフリースは、メンズスーツのようなニットウェアに使用されます。」
-ウェールズミュールのウールは、着用されるよりも歩く可能性が高くなります。
-「このタイプのフリースにはケンプが含まれており、その色のせいでカーペットに混ざってしまう傾向があります」とベリス氏は説明する。
-ブリティッシュ・ウールのギャレス・ジョーンズ氏は、価格ブームは需要と供給によるものだと語った。
-「ウェールズでも羊の数が減り、英国でも羊の数が減り、羊毛の生産量も減り、ニュージーランドのような同等の市場に目を向けると、羊の数も減ります。
-「新型コロナウイルス以来、羊毛の持ち越しもあったが、それは過去2年間で解消された」と彼は付け加えた。
-入手可能なウールが減少しているにもかかわらず、製品の使用に対する世界的な関心が再び高まっています。
-「世界中で需要がある」とジョーンズ氏は語った。
-「中国は当社にとって重要な市場です。韓国にも寝具メーカーがあり、日本にもライセンシーがいくつかあります。」
-燃料と肥料のコスト上昇が多くの農家にとって引き続き課題となっている中、羊毛から収益を得ることが一部の農家にとっては歓迎すべき救いとなっている。
-その他のトップ記事
-- 1 日前に公開
-- 1 日前に公開
-- 1 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8xnkjwdn5wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T11:18:39+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b5/live/3df8bb70-9ae7-11f1-930b-57cfba7235f9.jpg",
-    readTime: 4,
-  },
-  {
-    id: "wetherspoons-bans-customers-playing-musi-8559be4f",
-    title: "Wetherspoons bans customers playing music from phones in pubs",
-    titleJa: "ウェザースプーンズ、客がパブで携帯電話から音楽を流すことを禁止",
-    summaryJa: "ウェザースプーンズ、客がパブで携帯電話から音楽を流すことを禁止- 公開されました",
-    bodyOriginal: `Wetherspoons bans customers playing music from phones in pubs
-- Published
-Wetherspoons has banned its customers from playing music out loud or taking calls on speaker, saying the noise from phones and tablets was an increasing problem driving people "nuts".
-The company – which runs 792 pubs and bars across the UK – said that following complaints it has asked customers to switch their devices to silent or to use earphones.
-Polling in recent years by various organisations suggests people are largely opposed to others playing music or taking calls on speaker in public spaces.
-Wetherspoons told the BBC that staff would be asked to use "common sense" when enforcing the ban.
-"We are not looking to ask anyone to leave a pub if they go against the ruling, but it is an option for managers if they refuse to do so," the company said.
-The British Beer and Pub Association, which represents Wetherspoons and several other pub companies in the UK, said that "having a clear policy helps staff enforce rules and customers know what they can and can't do".
-The group added: "We're yet to hear of anyone who relishes having a pint against the backdrop of a speakerphone call or someone loudly playing a video, so we expect this move will be greatly welcomed."
-Studies suggest the majority of Britons are annoyed by hearing people take calls on speakerphone or playing videos or music on their phones without headphones.
-A Transport for London survey of 1,000 people last year found 70% of respondents found loud music and phone calls without headphones a nuisance.
-However, the evidence also suggests there is a clear generational gap. In an Ofcom survey of 1,010 people in August 2022, of the 13-to-17-year-olds questioned, 69% said it was acceptable to make video calls, 73% to listen to music and 83% to watch videos without headphones.
-'Oasis of tranquility'
-The decision by Wetherspoons follows a stricter, longstanding policy from rival pub chain Sam Smiths, which has a ban against phone or tech use of any kind, in addition to a ban on swearing.
-Wetherspoons does not play music in any of its pubs, with chief executive Sir Tim Martin describing them as "an oasis of tranquillity and contemplation... in a world dominated by other people's music and amplified sound".
-"In order to avoid customers being driven chicken jalfrezi by a cacophony of sound, we are kindly asking phone users to pipe down," he added.
-The chain does play music in the evening at its 44 Lloyds' bars. It confirmed that the ban on customers playing music and taking calls on speaker would also apply to those venues.
-The number of Wetherspoons pubs has steadily fallen over the last decade from a peak of 955 in late 2015.
-The firm has faced a financial challenges during those 10 years from the Covid pandemic and inflation.
-Last month, it told investors that profit for the year would be lower than expected because of higher costs for food, labour, repairs, energy and business rates.
-Get in touch
-Have you experienced this issue in a pub? Share your experiences.
-Related topics
-- Published6 August
-- Published18 February`,
-    bodyJa: `ウェザースプーンズ、客がパブで携帯電話から音楽を流すことを禁止
-- 公開されました
-ウェザースプーンズは、携帯電話やタブレットからの騒音が人々を「正気」に陥らせる問題が増大しているとして、顧客が大声で音楽を再生したり、スピーカーで通話したりすることを禁止した。
-英国全土で792のパブやバーを経営する同社は、苦情を受けて顧客にデバイスをサイレントモードに切り替えるか、イヤホンを使用するよう求めたと述べた。
-さまざまな団体による近年の世論調査によると、人々は公共の場で他人が音楽を演奏したり、スピーカーで通話したりすることにおおむね反対していることがわかっています。
-ウェザースプーンズ氏はBBCに対し、禁止令を施行する際にはスタッフは「常識」に従うよう求められると語った。
-同社は「判決に反した場合、パブから退店するよう求めるつもりはないが、経営者が拒否する場合はそれも選択肢だ」と述べた。
-ウェザースプーンと英国の他のパブ会社数社を代表する英国ビール・パブ協会は、「明確なポリシーがあることでスタッフは規則を遵守し、顧客は何ができて何ができないのかを知ることができる」と述べた。
-同団体はさらに、「スピーカーフォン通話を背景にビールを飲んだり、大音量でビデオを再生したりするのを楽しんだという人はまだ聞いていないので、この動きは大いに歓迎されると期待している」と付け加えた。
-研究によると、英国人の大多数は、人々がスピーカーフォンで電話に出たり、ヘッドフォンなしで携帯電話でビデオや音楽を再生したりするのを聞くことにイライラしていると示唆されています。
-ロンドン交通局が昨年1,000人を対象に行った調査では、回答者の70％が大音量の音楽やヘッドフォンなしでの通話が迷惑だと感じていることがわかった。
-しかし、証拠はまた、明らかな世代ギャップがあることを示唆しています。 2022年8月に1,010人を対象にOfcomが実施した調査では、質問を受けた13歳から17歳のうち69％がビデオ通話をすることは許容され、73％が音楽を聴くこと、83％がヘッドフォンなしでビデオを視聴することは許容されると回答した。
-「静寂のオアシス」
-ウェザースプーンズ氏の決定は、悪口行為の禁止に加え、あらゆる種類の電話やテクノロジーの使用を禁止するライバルのパブチェーン、サム・スミスの長年にわたるより厳格な方針に従ったものだ。
-ウェザースプーンズはどのパブでも音楽を流しておらず、最高経営責任者サー・ティム・マーティン氏は、ウェザースプーンズを「他人の音楽と増幅されたサウンドが支配する世界における、静けさと思索のオアシス」と表現している。
-「不協和音によって顧客がチキン・ジャルフレジーに陥るのを避けるため、電話ユーザーには小声で話すようお願いしている」と同氏は付け加えた。
-このチェーン店では、44 軒のロイズ バーで夜に音楽を演奏しています。顧客による音楽の再生やスピーカーでの通話の禁止は、これらの会場にも適用されることを確認した。
-ウェザースプーンのパブの数は、2015年末の955軒のピークからここ10年間で着実に減少している。
-同社はこの10年間、新型コロナウイルスのパンデミックとインフレによる財務上の課題に直面してきた。
-同社は先月投資家に対し、食料、人件費、修理費、エネルギー費、営業料金の上昇により、今年の利益が予想よりも低くなるだろうと述べた。
-連絡する
-パブでこの問題を経験したことがありますか?あなたの経験を共有してください。
-関連トピック
-- 8 月 6 日発行
-- 2 月 18 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T10:53:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg",
-    readTime: 4,
   },
 ];
 
