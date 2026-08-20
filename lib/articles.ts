@@ -15,6 +15,342 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "treasury-yields-rebound-wiping-out-the-d-3b4f3190",
+    title: "Treasury yields rebound, wiping out the decline following Bessent's intervention",
+    titleJa: "国債利回りが回復、ベッセント介入後の下落を一掃",
+    summaryJa: "財務省が長期国債への圧力緩和を目的とした介入を発表したことを受けて、木曜朝の債券利回りは上昇し、前日に見られた反動の大半を帳消しにした。買い戻し加速の主な焦点である３０年米国債利回りは５．７ベーシスポイント上昇し５．２５１％となった。",
+    bodyOriginal: `Bond yields climbed Thursday morning, erasing most of the pullback they saw the previous day after the Treasury Department announced an intervention aimed at easing pressure on longer-dated government debt.
+The yield on the 30-year U.S. Treasury bond — the primary focus of the accelerated buyback — was up 5.7 basis points at 5.251%.
+Yields on 10-year U.S. Treasurys — the main benchmark for mortgages, auto loans and credit card debt — moved 5.1 basis points higher to 4.704%.
+The 10- and 30-year yield levels were right around the level they held before the 8:30 a.m. announcement Wednesday that Treasury would be stepping up its bond buyback program.
+The yield on the 2-year Treasury note, which more closely follows short-term Federal Reserve rate decisions, was last seen up 1.5 basis points to 4.1927%.
+One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.
+The moves underscored the difficulty of market interventions, particularly at a time when U.S. debt faces a slew of factors that have been pressuring yields higher.
+In a move announced Wednesday morning, the Treasury Department, led by Secretary Scott Bessent, announced it would at least double the size of its government debt buybacks, starting Sept. 9 and running through Nov. 4.
+Yields tumbled following the announcement, with the 30-year down about 10 basis points after previously hitting its highest in about 19 years, predating the global financial crisis in 2008.
+However, the trade quickly unwound, with yields higher Thursday as the market digested the move, as well as the longer-term structural problems facing the fixed income market.
+The interventions "belie the underlying structural challenges and do nothing to address them," Maia Crook, senior research analyst at JPMorgan Chase, said in a client note. "While [Wednesday's] action forced some decline in longer-dated yields, the more lasting impact is the potential for higher risk premia reflecting a Treasury Department that is intervening in the market and moving away from its 'regular and predictable' tenet."
+The announcement came the same day that Treasury updated the national debt total, which pushed past the $40 trillion mark. At the same time, the market has faced stiff competition from record corporate debt issuance tied to the artificial intelligence buildout, all of which has contributed to rising term premiums, or the extra yield investors demand to hold U.S. government paper.
+Traders were also digesting the latest Federal Open Market Committee minutes from July, released Wednesday. Officials at the meeting indicated that higher interest rates likely would be needed if there isn't more progress on inflation. Economic data released since the meeting have shown modest monthly price increases, though inflation remains above the Fed's 2% target.`,
+    bodyJa: `財務省が長期国債への圧力緩和を目的とした介入を発表したことを受けて、木曜朝の債券利回りは上昇し、前日に見られた反動の大半を帳消しにした。
+買い戻し加速の主な焦点である３０年米国債利回りは５．７ベーシスポイント上昇し５．２５１％となった。
+住宅ローン、自動車ローン、クレジットカード債務の主要指標である10年米国債利回りは5.1ベーシスポイント上昇し4.704％となった。
+１０年債と３０年債の利回り水準は、財務省が債券買い取りプログラムを強化すると水曜日午前８時半に発表される前の水準にほぼ近かった。
+米連邦準備理事会（ＦＲＢ）の短期金利決定により近い２年物国債利回りは、前回は１．５ベーシスポイント上昇して４．１９２７％となった。
+1 ベーシス ポイントは 0.01%、つまり 1% の 100 分の 1 に相当し、利回りと価格は相互に反比例します。
+この動きは、特に米国債が利回り上昇を圧迫する多くの要因に直面している現在、市場介入の困難さを浮き彫りにした。
+水曜日朝に発表された措置の中で、スコット・ベッセント長官率いる財務省は、9月9日から11月4日まで国債買い戻しの規模を少なくとも2倍に拡大すると発表した。
+この発表を受けて利回りは低下し、２００８年の世界金融危機前に付けた約１９年ぶりの高値から３０年ぶりの利回りは約１０ベーシスポイント低下した。
+しかし、債券市場が直面する長期的な構造的問題を市場が消化するにつれ、木曜日には利回りが上昇し、取引はすぐに巻き戻された。
+ＪＰモルガン・チェースのシニア・リサーチ・アナリスト、マイア・クルック氏は顧客向けノートで、今回の介入は「根底にある構造的課題を無視しており、それに対処するために何もしていない」と述べた。 「（水曜日の）措置により長期金利のある程度の低下は余儀なくされたが、より永続的な影響は、財務省が市場に介入し『定期的かつ予測可能な』理念から遠ざかっていることを反映して、リスクプレミアムが上昇する可能性である」と述べた。
+この発表は、財務省が国家債務総額を更新し、総額が40兆ドルを超えたと同日に行われた。同時に、市場は人工知能の増強に関連した記録的な社債発行による激しい競争に直面しており、これらすべてがタームプレミアム、つまり投資家が米国政府紙を保有するために要求する追加利回りの上昇に寄与している。
+トレーダーらは水曜日に発表された７月の最新の連邦公開市場委員会議事録も消化していた。会合に出席した当局者らは、インフレが一段と進展しない場合には利上げが必要になる可能性が高いとの見方を示した。会合後に発表された経済指標では、インフレ率は依然FRBの目標である2％を上回っているものの、月々の物価は緩やかな上昇を示している。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+    publishedAt: "2026-08-20T13:02:45+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "you-ve-all-heard-ai-is-remaking-the-econ-c63da1b6",
+    title: "You’ve all heard AI is remaking the economy. Here’s how it’s changing lives — for better or worse.",
+    titleJa: "AI が経済を作り変えていることを皆さんも聞いたことがあるでしょう。良くも悪くも、それが生活をどのように変えているかをご紹介します。",
+    summaryJa: "経済を大きく動かすのはトランプ氏ではなくAIであり、その規模は今後もさらに大きくなるだろうと、このアナリストは言う。",
+    bodyOriginal: `AI, not Trump, is the big mover of the economy, this analyst says — and it’s just going to get bigger.`,
+    bodyJa: `経済を大きく動かすのはトランプ氏ではなくAIであり、その規模は今後もさらに大きくなるだろうと、このアナリストは言う。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/youve-all-heard-ai-is-remaking-the-economy-heres-how-its-changing-lives-for-better-or-worse-447bd086?mod=mw_rss_topstories",
+    publishedAt: "2026-08-20T13:00:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-21228371",
+    readTime: 2,
+  },
+  {
+    id: "treasury-s-buyback-blitz-may-end-up-driv-5261667a",
+    title: "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
+    titleJa: "財務省による自社株買いの猛攻が最終的に債券利回りを上昇させる可能性があるとJPモルガンは警告している。投資家へのアドバイスは次のとおりです。",
+    summaryJa: "ストラテジストのジェイ・バリー氏とジェイソン・ハンター氏は、必要性すらないと考える財​​務省の動きによる影響を予測している。",
+    bodyOriginal: `Strategists Jay Barry and Jason Hunter are predicting fallout from the Treasury’s move that they see as not even needed.`,
+    bodyJa: `ストラテジストのジェイ・バリー氏とジェイソン・ハンター氏は、必要性すらないと考える財​​務省の動きによる影響を予測している。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+    publishedAt: "2026-08-20T12:54:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-19641233",
+    readTime: 2,
+  },
+  {
+    id: "walmart-hikes-full-year-outlook-says-it-688cae01",
+    title: "Walmart hikes full-year outlook, says it will use huge tariff refund to keep prices low",
+    titleJa: "ウォルマート、通期見通し引き上げ、価格を低く抑えるために巨額の関税還付を活用すると表明",
+    summaryJa: "ウォルマートは木曜日、四半期売上高がウォール街の予想を上回り、電子商取引が四半期でも堅調に成長し、関税還付の恩恵を受けたことから、今年の見通しを引き上げた。「当社のビジネスは好調です」とCFOのジョン・デイビッド・レイニー氏はCNBCに語った。 「私たちは進歩していることに本当に満足しています。」",
+    bodyOriginal: `Walmart on Thursday posted quarterly sales that beat Wall Street estimates and raised its outlook for the year, as it saw another strong quarter of e-commerce growth and benefited from tariff refunds.
+"Our business is strong," CFO John David Rainey told CNBC. "We feel really good about the progress we're making."
+The retailer said revenue rose 5.9% in its fiscal second quarter as e-commerce sales jumped 23% globally. Walmart also said U.S. comparable sales grew 2.6%, offset in part by a 0.8% headwind in its health and wellness business as price caps on certain drugs took effect. That was less than the 3.5% increase Wall Street expected, according to FactSet.
+Shares of Walmart sank roughly 6% in premarket trading Thursday.
+For the third quarter, Walmart said it expects net sales to increase between 3% and 3.75% and adjusted earnings per share to be between 62 cents and 64 cents.
+The retailer expects net sales to increase between 4% and 5% for the year, compared with a previous outlook of between 3.5% and 4.5% growth. Walmart also anticipates adjusted earnings will be between $2.80 and $2.87 per share, compared with the prior guidance of between $2.75 and $2.85 per share.
+Rainey told CNBC the company was eligible to receive roughly $2.9 billion in tariff refunds, and it has not yet gotten back less than $100 million of that total. Rainey said the company plans to use those funds to lower prices for consumers, and that impact will be seen in the third quarter.
+He added that Walmart also expects to incur just over $2 billion of "incremental cost headwinds related to higher fuel prices this year."
+Programming note: Walmart CFO John David Rainey will speak to CNBC's "Squawk on the Street" at 10 a.m. ET. Watch live on CNBC and CNBC+.
+Walmart's efforts to lower prices come as many shoppers have cut back on spending as they feel a strain from high fuel and food costs. The company is typically well positioned to weather pullbacks due to its value reputation and its scale as the largest U.S. retailer.
+Rainey said Walmart continues to see consumers stretched thin, especially with higher gas prices. It's lowering prices across categories, including beef, he added.
+"But consumers are still spending, and real wage growth is keeping pace, and so they've been very resilient in this environment," Rainey told CNBC. "But all that said, we would love to be able to bring prices down more and see less pressure on their wallets."
+Here's how the company performed in its fiscal second quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
+- Earnings per share: 81 cents adjusted, it was not immediately clear if it compared to the 74 cents expected
+- Revenue: $187.94 billion vs. $186.77 billion expected
+For the three-month period ending July 31, Walmart reported net income of $6.37 billion, or 80 cents per share, compared to $7.03 billion, or 88 cents per share, in the year-ago period. Excluding the impact of a loss on investments and including a benefit from what it called a tax matter, Walmart reported adjusted earnings per share of 81 cents. The company's gross profit rate grew to 25.4%, boosted by the tariff refund benefit.
+Total revenue climbed to $187.94 billion from $177.40 billion in the prior-year period.
+The results come as Walmart posts a stretch of solid growth, fueled by gains in segments like pickup and delivery, its third-party marketplace and advertising. The discounter has gained market share with higher-income customers in recent years as it tries to make shopping more convenient and adds perks to its Walmart+ membership, an Amazon Prime competitor.
+Walmart said companywide membership fee revenue jumped 17%, with net adds for Walmart+ hitting a high for a second quarter. Sam's Club U.S. saw net sales of $25.7 billion for the quarter, up 8.8% from the previous year, as membership fees climbed 6%.
+Meanwhile, Walmart said its global advertising revenue climbed 38%.
+In the U.S., Walmart reported net sales of $125.2 billion compared to $120.9 billion the year prior. Internationally, the company saw $35.2 billion in net sales, compared with $31.2 billion last year. It said its global inventory was up 6.7% for the quarter.
+Rainey said a significant portion of that inventory was related to more expensive and elevated brands as Walmart saw the biggest component of its market share gains coming from the high-income consumer.
+While its grocery segment saw mid-single digit percentage point growth, health and wellness saw a low single-digit decline for the quarter. General merchandise revenue was up slightly due to strength in toys and fashion, furniture and private label.`,
+    bodyJa: `ウォルマートは木曜日、四半期売上高がウォール街の予想を上回り、電子商取引が四半期でも堅調に成長し、関税還付の恩恵を受けたことから、今年の見通しを引き上げた。
+「当社のビジネスは好調です」とCFOのジョン・デイビッド・レイニー氏はCNBCに語った。 「私たちは進歩していることに本当に満足しています。」
+同社は、電子商取引の売上高が世界的に23％増加したため、会計年度第2四半期の売上高は5.9％増加したと述べた。ウォルマートはまた、米国の比較対象売上高は２．６％増加したが、特定の医薬品の価格上限が適用されたことによる健康・ウェルネス事業への０．８％の逆風によって部分的に相殺されたと述べた。ファクトセットによると、これはウォール街が予想していた3.5％増を下回った。
+ウォルマートの株価は木曜日の市場前取引で約６％下落した。
+ウォルマートは第３・四半期について、純売上高が３％─３．７５％増加し、調整後１株当たり利益が６２セント─６４セントになると予想していると述べた。
+この小売業者は、年間の純売上高が 3.5% ～ 4.5% の成長であるという従来の見通しと比較して、4% ～ 5% 増加すると予想しています。ウォルマートはまた、調整後利益が1株当たり2.80ドルから2.87ドルになると予想しているが、これまでの見通しは1株当たり2.75ドルから2.85ドルの間だった。
+レイニー氏はCNBCに対し、同社は約29億ドルの関税還付を受ける資格があるが、まだ返還されていないのはそのうち1億ドル未満だと語った。レイニー氏は、同社はこれらの資金を消費者向けの価格引き下げに活用する予定で、その影響は第３・四半期に現れるだろうと述べた。
+同氏はまた、ウォルマートは「今年の燃料価格高騰に関連したコスト増の逆風」が20億ドル強発生すると予想していると付け加えた。
+番組編成メモ: ウォルマート CFO のジョン・デイビッド・レイニー氏が東部時間午前 10 時から CNBC の「Squawk on the Street」で講演します。 CNBC と CNBC+ でライブをご覧ください。
+ウォルマートの値下げ努力は、多くの買い物客が燃料費や食費の高さに負担を感じて支出を控えている中で行われている。同社は、その価値の評判と米国最大の小売業者としての規模により、通常、景気後退を乗り越えるのに有利な立場にあります。
+レイニー氏は、特にガソリン価格の高騰により、ウォルマートは引き続き消費者が逼迫していると述べた。牛肉を含むあらゆるカテゴリーで価格を引き下げていると同氏は付け加えた。
+「しかし、消費者は依然として支出を続けており、実質賃金の伸びもペースを維持しているため、消費者はこの環境において非常に回復力がある」とレイニー氏はCNBCに語った。 「とはいえ、私たちは価格をさらに引き下げて、彼らの財布への負担を軽減できることを願っています。」
+LSEGによるアナリストへの調査に基づいた、ウォール街の予想と比較した同社の会計年度第2四半期の業績は次のとおりです。
+- 1 株当たり利益: 調整後 81 セント、予想の 74 セントと比較するかどうかはすぐには不明
+- 収益: 1,879.4億ドル対予想1,867.7億ドル
+7月31日までの3カ月間、ウォルマートは純利益が63億7000万ドル（1株あたり80セント）と報告したが、前年同期は70億3000万ドル（1株あたり88セント）だった。投資損失の影響を除き、いわゆる税金問題による利益を含めると、ウォルマートは調整後の1株当たり利益を81セントと報告した。関税還付の恩恵もあり、同社の粗利率は２５．４％に増加した。
+総収益は前年同期の1,774億ドルから1,879億4,000万ドルに増加しました。
+この結果は、ウォルマートがピックアップ・アンド・デリバリー、サードパーティ・マーケットプレイス、広告などの分野での利益を原動力として堅調な成長を続けている中でもたらされたものである。このディスカウント業者は、ショッピングをより便利にし、Amazon Primeの競合企業であるWalmart+会員に特典を追加しようとしているため、近年、高所得層の顧客の間で市場シェアを獲得している。
+ウォルマートは、全社の会費収入が17％増加し、ウォルマート＋の純増額が第2四半期としては最高を記録したと発表した。サムズクラブ US は、会費が 6% 上昇したため、同四半期の純売上高は 257 億ドルとなり、前年比 8.8% 増加しました。
+一方、ウォルマートは世界の広告収入が38％増加したと発表した。
+米国では、ウォルマートの純売上高は前年の 1,209 億ドルに対して 1,252 億ドルと報告されました。海外における同社の純売上高は、昨年の312億ドルに対し、352億ドルとなった。同四半期の世界在庫は6.7％増加したと発表した。
+レイニー氏は、ウォルマートが市場シェア拡大の最大の要素は高所得消費者によるものだと考えているため、その在庫のかなりの部分がより高価で高級なブランドに関連していると述べた。
+同四半期の食料品部門は一桁台半ばの成長率を記録したが、健康とウェルネス部門は一桁台前半の減少となった。一般商品の売上高は、玩具とファッション、家具、プライベートブランドの好調により若干増加しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+    publishedAt: "2026-08-20T12:48:54+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "a-420-camera-for-10-china-s-young-consum-a954a305",
+    title: "A $420 camera for $10: China’s young consumers would rather rent than buy. It’s a problem for the government and the economy.",
+    titleJa: "420 ドルのカメラを 10 ドルで購入: 中国の若い消費者は、購入するよりもレンタルしたいと考えています。それは政府と経済にとって問題だ。",
+    summaryJa: "中国人の若者はカメラ、ドローン、キャンプ用品を購入する代わりにレンタルしている。これはお金を節約する賢い方法だが、消費者に支出を促す中国政府の取り組みに対する最新の課題でもある。",
+    bodyOriginal: `Young Chinese are renting cameras, drones and camping gear instead of buying them. It’s a clever way to save money — but also the latest challenge to Beijing’s effort to get consumers spending.`,
+    bodyJa: `中国人の若者はカメラ、ドローン、キャンプ用品を購入する代わりにレンタルしている。これはお金を節約する賢い方法だが、消費者に支出を促す中国政府の取り組みに対する最新の課題でもある。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
+    publishedAt: "2026-08-20T11:44:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.mktw.net/im-97422812",
+    readTime: 2,
+  },
+  {
+    id: "danone-1bn-takeover-of-huel-approved-by-5d3b644c",
+    title: "Danone €1bn takeover of Huel approved by watchdog",
+    titleJa: "ダノン、10億ユーロでフエル買収を監視当局が承認",
+    summaryJa: "ダノン、10億ユーロでフエル買収を監視当局が承認- 公開されました",
+    bodyOriginal: `Danone €1bn takeover of Huel approved by watchdog
+- Published
+Danone's takeover of the British meal supplement maker Huel has been cleared by the competition watchdog.
+The Competition and Markets Authority (CMA) has given the €1bn (£864m) deal the green light following a review.
+Huel, based in Hertfordshire, was founded by Julian Hearn in 2015 to provide nutritionally complete food products, aimed at reducing meal times and providing essential nutrients.
+The French food and drink firm said the acquisition will help it grow in the nutrition sector, while for Huel it will help the brand's growth ambitions and drive its international expansion.
+Danone agreed to buy Huel in March.
+The company owns a portfolio of products in the UK, including baby milk brands Aptamil and Cow & Gate, yoghurt brands Activia and Actimel, and water brands Evian and Volvic.
+The Huel brand has seen rapid growth over the years, expanding its range to include ready meals, nutrition bars, and health drinks, all of which are plant-based.
+Dragons' Den star and podcaster Steven Bartlett was previously a director of the nutrition brand.
+The company has previously got into hot water with the UK advertising watchdog, which has banned some of its adverts for making "misleading" claims.
+One such advert made misleading claims about the cost savings associated with replacing a normal diet with meal replacement shakes, the watchdog said.
+The CMA gave interested parties the opportunity to comment on the deal over potential concerns about whether it could lessen competition in the market.
+The regulator's decision to clear the merger means it is satisfied it can go ahead in its current form.
+Danone and Huel have been approached for comment.
+Do you have a story suggestion for Beds, Herts or Bucks? Contact us below.
+Get in touch
+Your Voice
+Follow Beds, Herts and Bucks news on BBC Sounds, Facebook, external, Instagram, external and X, external.
+Related topics
+- Published23 March
+- Published25 September 2024`,
+    bodyJa: `ダノン、10億ユーロでフエル買収を監視当局が承認
+- 公開されました
+ダノンによる英国の食事補助食品メーカー、ヒューエルの買収が、競争監視団体によって許可された。
+競争・市場庁（CMA）は審査を経て、10億ユーロ（8億6,400万ポンド）の取引にゴーサインを出した。
+ハートフォードシャーに拠点を置く Huel は、食事時間を短縮し、必須栄養素を提供することを目的として、栄養的に完全な食品を提供するために、2015 年にジュリアン・ハーンによって設立されました。
+フランスの食品・飲料会社は、この買収が栄養分野での成長に役立つ一方、Huelにとってはブランドの成長目標を支援し、国際展開を推進するだろうと述べた。
+ダノンは3月にフエルの買収に合意した。
+同社は英国でベビーミルクのブランドであるアプタミルとカウ＆ゲート、ヨーグルトのブランドのアクティビアとアクティメル、水のブランドのエビアンとボルヴィックなどの製品ポートフォリオを所有しています。
+Huel ブランドはここ数年で急速に成長し、すべて植物ベースの調理済みの食事、栄養バー、健康飲料を含むまで範囲を拡大しました。
+ドラゴンズデンのスターでポッドキャスターのスティーブン・バートレットは、以前は栄養ブランドのディレクターを務めていました。
+同社は以前、「誤解を招く」主張を行っているとして一部の広告を禁止した英国の広告監視機関と激しい衝突を起こした。
+監視団体によると、そのような広告の1つは、通常の食事をミールリプレイスメントシェイクに置き換えることに伴うコスト削減に関する誤解を招くような主張をしていたという。
+CMAは、市場の競争を弱める可能性があるかどうかという潜在的な懸念を理由に、利害関係者にこの取引についてコメントする機会を与えた。
+規制当局が合併を承認するという決定を下したということは、現在の形で合併を進めることができると満足していることを意味する。
+ダノンとフエルにはコメントを求められた。
+ベッド、ハーツ、バックスのストーリーに関する提案はありますか?下記までお問い合わせください。
+連絡する
+あなたの声
+BBC Sounds、Facebook（外部）、Instagram（外部）、X（外部）で Beds、Hearts and Bucks のニュースをフォローしてください。
+関連トピック
+- 3 月 23 日発行
+- 2024 年 9 月 25 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crl7y671w8go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T11:41:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/460d/live/b579d640-9c7a-11f1-8413-79a38c9f8909.jpg",
+    readTime: 3,
+  },
+  {
+    id: "how-micron-s-50-billion-boise-buildout-i-04920a09",
+    title: "How Micron's $50 billion Boise buildout is reshaping its hometown",
+    titleJa: "マイクロンの500億ドルをかけてボイシ市を再構築することで地元をどのように再構築するか",
+    summaryJa: "デイブ・ペッツォは、1980 年代からアイダホ州ボイジーで資産管理者を務めています。彼のビジネスは、度重なる不況、ドットコムバブルの崩壊、2008 年の金融危機を乗り越えてきました。ペッツォ氏の45年にわたるキャリアのほとんどにおいて、故郷のコンピュータメモリメーカーであるマイクロン社は退屈な企業向けテクノロジー企業であり、同氏の言葉を借りれば「ひどい投資」だった。",
+    bodyOriginal: `Dave Petso has been a wealth manager in Boise, Idaho since the 1980s. His business has survived multiple recessions, the bursting of the dot-com bubble and the 2008 financial crisis.
+For most of Petso's 45-year career, Micron, the hometown maker of computer memory, has been a boring enterprise tech company and, in his words, a "terrible investment."
+But almost four years into the artificial intelligence craze, the sleepy semiconductor company is one of the hottest names on the planet, turning many of Petso's clients into sudden millionaires. A big part of Petso's job has become helping Micron employees diversify after a more than tenfold increase in the stock since the end of 2024 lifted the company's market cap past $1 trillion.
+"You've got a boatload of money now, and it's all tied up in one company," Petso said in an interview. Where clients had been figuring out what to do with some $20,000 worth of stock, "now we're talking about hundreds of thousands or millions of dollars," he said.
+Across Boise, a Mountain West city of about 250,000 residents that's best known for outdoor adventures and the blue turf football field at Boise State University, the Micron boom is showing up in the form of job growth, new construction projects, a bustling dining scene and an influx in new residents.
+Micron has broken ground on two new chip manufacturing facilities that are expected to create more than 17,000 new jobs in the area. That includes 3,500 at Micron, which currently employs about 7,000 people in and around Boise.
+With the city's rapid expansion comes plenty of annoyances. Residents complain of frequent traffic jams around town or on Interstate 84, rising housing costs and a rush of people from California and elsewhere altering the local culture and landscape. Average rental prices in Boise have climbed 4.3% in the past year, while average prices nationwide have dropped, according to Zillow.
+"One of Boise's competitive advantages was our low cost of living," said Jason Crawforth, a lifelong resident of Boise who's been building tech companies in the area for almost 35 years. But Crawforth said that while he's seeing his net worth go up from an investment in Micron, "there's a large demographic of our community that doesn't have a direct benefit from that."
+CNBC spoke to residents, business owners, real estate agents and others in the Boise area about the recent boom, its impact on the city and what could still be coming as Micron embarks on a $50 billion expansion plan. They collectively portray the city as an unexpected winner in the global AI buildout, one that's trying to hang onto its identity while not becoming overreliant on a technology with a long history of boom-and-bust cycles.
+While the trajectory still points up and to the right, Micron shares plunged 29% in July, their worst month since 2002. Shareholders hope it was just a corrective blip, and not a sign of things to come. The stock is up 14% so far in August.
+Boise and the global memory race
+Micron was founded in Boise nearly 50 years ago in the basement of a dental office. By 1981 its first chip fabrication plant was up and running there, pumping out general-purpose memory chips known as DRAM. In its latest quarter, DRAM accounted for 76% of Micron's total revenue.
+DRAM is also the type of chips that are stacked to make high-bandwidth memory, or HBM, which is then added to the powerful processors used for AI.
+As HBM gobbles up the world's supply of DRAM, it's caused a global shortage and skyrocketing memory costs, leading to higher prices across the board, even for consumer electronics like Apple's MacBooks and iPads.
+All three of the world's top HBM suppliers — market leader SK Hynix, Samsung and Micron — are building huge new plants to try and meet demand. SK Hynix and Samsung are constructing mega-fabs in their home country of South Korea.
+They've all been handsomely rewarded by the stock market despite the July pullback. Micron leads the pack, up almost 670% in the past year, followed by SK Hynix at about 470% and Samsung at over 250%.
+The rally turned Micron CEO Sanjay Mehrotra, a nine-year veteran of the company, into a billionaire earlier this year, though last month's selloff pushed him below that mark.
+For Mehrotra, Boise represents a big opportunity to help turn his company into a hotbed for U.S. manufacturing. The first of Micron's two new Boise fabs is scheduled to come online in 2027. It will be the country's first front-end factory for manufacturing leading-edge memory. Most of Micron's top-end memory is currently produced in Taiwan, Japan and Singapore.
+The site also includes utility and water-treatment buildings to support the resource-intensive process of making chips. Local utility Idaho Power told CNBC in a statement that it "does not expect large-load growth, including Micron's expansion, to increase electric bills for other customers."
+Additional AI-driven growth in the area is coming from Meta, which is building an $800 million data center 20 miles southwest, in Kuna, Idaho, that it says will create about 100 operational jobs. There's a flurry of new offices from Micron suppliers like Lam Research and cleanroom builder Exyte, plus contractors coming in for lucrative jobs helping to build Micron's fabs.
+With Boise, and an even bigger memory fab campus coming to Clay, New York, Micron's long-term goal is to produce 40% of its DRAM in the U.S. It plans to spend $250 billion through 2035 to get there, with the help of up to $6.2 billion of CHIPS Act funds, which were granted under the Biden administration.
+Micron is part of the fabric of Boise's economy, alongside other local legends like the Albertsons grocery chain and the potato empire of J.R. Simplot, who was one of Micron's first investors.
+Today, the memory maker is among Ada County's leading employers, after Boise State and the region's health system.
+"It's always been something that we've been around, but of course recently, with Boise, Idaho being a very small market, it's probably one of our largest success stories that we've ever had," said JT Belnap, founder of Treasure Valley Financial Planning, which is now almost exclusively focused on managing Micron employees' wealth.
+Belnap told CNBC that his firm's phones are "continuing to ring" with requests from Micron employees who are close to retirement.
+Because of the stock appreciation, some are moving up their timelines to exit the workforce from three or four years to one or two, Belnap said. To take advantage of tax benefits, others are donating stock to charities. And plenty are taking some profit for a dream purchase, like one of Belnap's clients who recently bought an $80,000 truck he'd always wanted.
+"What I've learned doing financial planning for as long as I have is when anyone comes into some real wealth that's kind of a sudden thing, you need to allow them to have a little bit of fun," Belnap said.
+Selling stock to buy jewelry, homes
+About 9 miles east of Belnap's office, a very different kind of business is noticing a similar trend. Lisa Zimowsky, owner of jewelry boutique The Diamond Girls, said her sales are up 60% for the year.
+"I do know of several people that have sold some stock and bought with us," Zimowsky said. "Usually it's the people that got a quarterly bonus when the stock was $150," or less than one-sixth its current price.
+"The Boise economy is super strong," Zimowsky added. "I think Micron's been a big part of that."
+Then there's the real estate market.
+Sheila Smith, an agent in the area, said she's seen more prospective buyers and fewer listings for homes in the southeast part of the city, near Micron's headquarters. Smith said there's so much construction that some Micron contractors involved with the new fabs are purchasing homes.
+"Typically if somebody knows they're only going to be here temporarily, for an interim-type job, such as the engineers, they don't look to buy," Smith said in an interview. "They are coming here and they are buying."
+Mortgage broker Gerald Robinson said that over about a month-long stretch, he consulted with four Micron clients who were looking to buy homes.
+"We're seeing a lot of stock options being executed right now, and people [are] purchasing," said Robinson, CEO of 1st Choice Mortgage.
+One of the two clients who ended up buying a house did so as an investment to run an Airbnb-style property, Robinson said. The other was a first-time homebuyer in her early 20s.
+Two of the prospects didn't end up needing Robinson's help, as they opted to sell stock and buy properties in cash, Robinson said.
+Micron told CNBC that stock offerings are a key part of the company's strategy to recruit and retain talent. Through the first three quarters of this fiscal year, Micron had recorded $954 million in stock-based compensation, up more than 100% from three years ago.
+"We do lean into stock awards very heavily," said April Arnzen, Micron's chief people officer and an Idaho native who's worked at the company for 27 years. "We want our team members to be owners in the company and share in the success of the company."
+It's not just employees who have gotten in on the action.
+As a longtime part of the Boise tech community, Crawforth bought Micron shares when they traded around $16 each, and said he still owns north of 1,500 to this day. That's a stake worth over $1.4 million.
+But the growth led to an accidental imbalance in the family.
+"I made a mistake – I bought some for my niece, but not for my nephew," Crawforth said. "All of a sudden, my niece's investment to help her put a down payment on a house when she's old enough is significantly higher than my nephew."
+Crawforth said he's got a "moral dilemma" as he figures out "how to rectify that situation."
+His partner also bought, but at a higher price, and was able to pay off a portion of car debt after recently cashing in her position at around $1,200 a share.
+A city's new chapter
+With so much new wealth and with demand rising for homes, concerns are spreading that Boise is becoming unaffordable for those not boosted by the Micron effect. Median home sale prices in Boise are up 2.9% over the past year as of June, compared to a 1.2% average increase nationwide, according to Redfin.
+"Now we're just seeing the lower incomes maybe getting a little bit more and more priced out, because wages may not be keeping up with home prices," Robinson said.
+Ada County has swelled by around 19% since 2020, adding close to 95,000 people, according to estimates from Compass Idaho. Statewide, Idaho's growth is the fastest in the nation over a similar period. People have flocked there from California, Washington and Oregon, taking advantage of Boise's lower cost of living, relatively mild winters, and lively outdoor scene.
+The demographics are noticeably changing, Zimowsky said.
+"Five years ago, nobody had a designer purse here, nobody cared, nobody even knew what Louis Vuitton was," she said. "Now everybody's carrying them."
+For food lovers and concert goers, Boise's growth has taken the city up a notch. Boise State's Albertsons Stadium, home to the iconic blue turf, hosted performances from Post Malone and Jelly Roll last year, while Jason Aldean and the Alabama Shakes came through town more recently.
+"The amenities here have changed a lot," said Clark Krause, executive director of the Boise Valley Economic Partnership. Residents now have "access to things that someone living in a city would enjoy."
+Long before he became the first Idaho chef to win a James Beard award, Kris Komori decided Boise was where he wanted to raise his growing family. When he moved to Boise from Portland, Oregon, in 2013, there weren't very many hotels and high-rise buildings dotting the landscape, and the dining scene was much quieter.
+"Everyone was like, 'What are you going to do out in Idaho?'" said Komori, the co-owner and executive chef at KIN Boise, which is located downtown. Now, "you can't go a block without there being some sort of construction going on."
+KIN Boise, where a seasonal prix fixe meal runs $130 per person, is one of the top dining destinations in town, and a hot spot for Micron employees, especially when they're taking out clients, Komori said.
+"They just frequent us much more now," Komori said. "That's a compliment to us because they want to kind of show off Boise, and we're on the list for that."
+Komori said that every month, more restaurants − small businesses and chains alike − are opening downtown, and he's increasingly seeing more outside the city center.
+Scaling challenges
+Petso, who moved to Boise in 1980 when the city had about one-third its current population, said he appreciates the vibrancy despite some of the drawbacks.
+"It's so expensive to go out to dinner, but they're all packed," Petso said, of the restaurants. "You just walk downtown in Boise and just go, 'This is amazing.'"
+Micron is well aware of the pressure created by such rapid expansion, which will only intensify with the thousands of new people the company is still planning to hire.
+"When you're scaling that many people in a short amount of time, there certainly are challenges such as transportation, such as housing," Arnzen said. She added that the company has been partnering with the state and county and at the "local level on solutions to make sure we're staying a step ahead."
+Arnzen said the company has made commitments around housing and is looking at "a lot of different roadway investment opportunities." The company also built a childcare center for employees in partnership with the YMCA, and is planning to spend $75 million on workforce, education and community development across the state over the next decade.
+Additionally, Micron has a chip camp for middle school students, a Micron-sponsored training fab at Boise State, and an apprenticeship program at the College of Western Idaho in nearby Nampa.
+"There are at least five buildings with the Micron name on those two campuses," Arnzen said. "Micron has been investing in those education institutions for years, and of course we're not going to stop. We need more talent."
+Beyond the sprawl of cranes, bumper-to-bumper traffic on I-84 and Micron's community initiatives, there's growing concern about the sustainability of the memory boom.
+Crawforth got a taste of the risk when the stock unwound in July.
+"That's probably 600 grand for me personally in net worth that I've seen go away," Crawforth said, speaking of last month's stock drop. He was quick to note that over a three-month stretch it was up 50%, so "it's still a win."
+For Petso, the moment has clear parallels to the last time Micron millionaires were showing up at his office. It was the dot-com bubble of 1999, and tech mania was everywhere. Micron shares jumped more than 50% that year after almost doubling the year prior.
+Some of Petso's clients refused to sell even a portion of their holdings. The stock lost three-quarters of its value over the next three years, a crash that Petso said left "deep scars" for everyone involved.
+It was a painful lesson, and one that he'd rather not have his existing client base learn the hard way.
+"Trying to get people to trim and get out is really the discussions we're having now," Petso said. "You guys are killing it out there, but I've been around a long time. You were killing it in 1999 too."
+WATCH: Exclusive look inside SK Hynix's $720 billion AI memory expansion`,
+    bodyJa: `デイブ・ペッツォは、1980 年代からアイダホ州ボイジーで資産管理者を務めています。彼のビジネスは、度重なる不況、ドットコムバブルの崩壊、2008 年の金融危機を乗り越えてきました。
+ペッツォ氏の45年にわたるキャリアのほとんどにおいて、故郷のコンピュータメモリメーカーであるマイクロン社は退屈な企業向けテクノロジー企業であり、同氏の言葉を借りれば「ひどい投資」だった。
+しかし、人工知能のブームが始まってからほぼ 4 年が経ち、この眠そうな半導体会社は地球上で最も注目を集める企業の 1 つとなり、ペッツォの顧客の多くを突然億万長者に変えました。 2024年末以来株価が10倍以上に上昇し、時価総額が1兆ドルを超えたマイクロンの後、ペツォの仕事の大きな部分はマイクロン従業員の多様化を支援することだった。
+ペツォ氏はインタビューで、「今では大量の資金を手に入れており、それはすべて1つの会社に結びついている」と語った。顧客らは約2万ドル相当の株式をどうするか考えていたが、「今では数十万ドル、あるいは数百万ドルの話になっている」と同氏は語った。
+アウトドア アドベンチャーとボイシ州立大学の青い芝のフットボール場で最もよく知られる住民約 25 万人のマウンテン ウェストの都市ボイシでは、マイクロン ブームが雇用の増加、新しい建設プロジェクト、にぎやかな飲食シーン、新しい住民の流入という形で現れています。
+マイクロンは、この地域に 17,000 人以上の新たな雇用を生み出すことが期待される 2 つの新しいチップ製造施設の着工しました。その中には、現在ボイジーとその周辺で約7,000人を雇用しているマイクロン社の3,500人も含まれる。
+都市の急速な拡大に伴い、多くの煩わしさが生じています。住民らは、町周辺や州間高速道路84号線で頻繁に起こる交通渋滞、住宅費の高騰、カリフォルニアなどからの流入で地元の文化や景観が変わっていると不満を抱いている。 Zillowによると、ボイジーの平均賃貸価格は過去1年間で4.3％上昇したが、全国の平均価格は下落した。
+「ボイジーの競争上の利点の一つは、生活費の安さでした」と、生涯ボイジーに居住し、ほぼ 35 年間この地域でテクノロジー企業を立ち上げてきたジェイソン・クロフォース氏は語った。しかしクロフォース氏は、マイクロンへの投資によって自身の純資産が増加しているのを実感している一方で、「我々のコミュニティにはそこから直接の恩恵を受けていない層が大勢いる」と語った。
+CNBCはボイシ地域の住民、事業主、不動産業者などに最近のブーム、その都市への影響、そしてマイクロンが500億ドルの拡張計画に乗り出す中で今後何が起こるかについて話を聞いた。これらは集合的に、この都市が世界規模の AI 構築における予期せぬ勝者として描かれており、好不況サイクルの長い歴史を持つテクノロジーに過度に依存せずに、そのアイデンティティを維持しようとしている都市である。
+軌道は依然として右上がりだが、マイクロン株は7月に29％急落し、2002年以来最悪の月となった。株主らは、これが単なる調整の急落であり、今後の事態の前兆ではないと期待している。株価は8月時点で14％上昇している。
+ボイシと世界的な記憶力競争
+マイクロンは、約 50 年前にボイシの歯科医院の地下で設立されました。 1981 年までに最初のチップ製造工場が稼働し、DRAM として知られる汎用メモリ チップを生産していました。最新四半期では、DRAMがマイクロンの総収益の76％を占めた。
+DRAM は、高帯域幅メモリ (HBM) を作成するために積層され、AI に使用される強力なプロセッサに追加されるタイプのチップでもあります。
+HBMが世界のDRAM供給を食い荒らしているため、世界的な不足とメモリ価格の高騰を引き起こし、AppleのMacBookやiPadなどの家庭用電化製品も含めて全体的な価格上昇につながっている。
+世界トップの HBM サプライヤーである市場リーダーの SK Hynix、Samsung、Micron の 3 社はすべて、需要に応えようと大規模な新しい工場を建設しています。 SKハイニックスとサムスンは母国の韓国に巨大ファブを建設している。
+彼らは皆、7月の反動にも関わらず株式市場からかなりの恩恵を受けている。 Micron が過去 1 年間で約 670% 増加して群をリードし、SK Hynix が約 470%、Samsung が 250% 以上で続きます。
+この集会により、マイクロンに9年間在籍したベテランのサンジェイ・メロトラ最高経営責任者（CEO）は今年初めに億万長者になったが、先月の株価下落でその水準を下回った。
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+マイクロンはCNBCに対し、株式募集は人材を採用し維持するための同社の戦略の重要な部分であると語った。今年度の最初の 3 四半期までに、マイクロンは株式ベースの報酬として 9 億 5,400 万ドルを記録しており、これは 3 年前と比べて 100% 以上増加しました。
+「私たちは株式報酬に非常に重点を置いています」とマイクロンの最高人事責任者であり、同社に27年間勤務するアイダホ州出身のエイプリル・アーンゼン氏は語った。 「私たちはチームメンバーが会社のオーナーとなって会社の成功を分かち合いたいと考えています。」
+この活動に参加したのは従業員だけではありません。
+ボイシの技術コミュニティに長年携わってきたクロフォース氏は、マイクロン株が1株あたり16ドルで取引されていたときに購入し、現在に至るまで1,500株以上を保有しているという。それは140万ドル以上の価値のある賭け金です。
+しかし、その成長は家族に予期せぬ不均衡をもたらしました。
+「私は間違いを犯しました。姪のために購入しましたが、甥には購入しませんでした」とクロフォースさんは語った。 「突然、姪が十分な年齢になったときに家の頭金を準備するための投資額が、甥よりもかなり高額になりました。」
+クロフォースさんは、「状況をどう是正するか」を模索する中で「道徳的ジレンマ」を抱えていると語った。
+彼のパートナーも購入しましたが、価格は高かったため、最近1株あたり約1,200ドルのポジションを現金化し、自動車負債の一部を返済することができました。
+都市の新たな章
+新たな富が増え、住宅需要が高まっていることから、マイクロン効果で後押しされていない人々にとってボイシには手が届かなくなりつつあるのではないかとの懸念が広がっている。レッドフィンによると、ボイシの住宅販売価格の中央値は6月時点で過去1年間で2.9％上昇しているのに対し、全国平均は1.2％上昇している。
+ロビンソン氏は、「賃金が住宅価格に追いついていない可能性があるため、低所得層が少しずつ値上がりしつつあるのではないかと考えている」と述べた。
+コンパス・アイダホ州の推計によると、エイダ郡は2020年以来約19％増加し、人口が9万5000人近く増えた。州全体では、アイダホ州は同様の期間で全米で最も急速な成長を遂げています。ボイシの安い生活費、比較的穏やかな冬、活気のあるアウトドアシーンを利用して、カリフォルニア、ワシントン、オレゴン州から人々が集まってきました。
+ジモフスキー氏によると、人口動態は著しく変化しているという。
+「5年前、ここでは誰もブランド財布を持っていなかったし、気にする人もいなかったし、ルイ・ヴィトンが何なのかさえ誰も知りませんでした」と彼女は語った。 「今ではみんながそれを持ち歩いています。」
+グルメ愛好家やコンサートファンにとって、ボイシの成長は街をワンランク上のものにしました。象徴的な青い芝生があるボイシ州のアルバートソンズ スタジアムでは、昨年ポスト マローンとジェリー ロールのパフォーマンスが開催され、最近ではジェイソン アルディーンとアラバマ シェイクスが街を訪れました。
+ボイシバレー経済パートナーシップのエグゼクティブディレクター、クラーク・クラウス氏は「ここの設備は大きく変わった」と語った。住民は現在、「都市に住んでいる人が享受できるものにアクセスできる」ようになりました。
+アイダホ州初のジェームス・ビアード賞を受賞したシェフになるずっと前に、クリス・コモリさんは、成長する家族を育てたい場所はボイジーだと決めていました。彼が 2013 年にオレゴン州ポートランドからボイシに移住したとき、風景に点在するホテルや高層ビルはそれほど多くなく、ダイニングシーンははるかに静かでした。
+「誰もが『アイダホ州で何をするつもりだ？』という感じでした」とダウンタウンにあるKIN Boiseの共同オーナー兼エグゼクティブシェフの小森氏は語った。現在、「何らかの工事が行われていない限り、1ブロック進むことはできません。」
+KIN ボイシでは、季節のプリフィクスミールが 1 人あたり 130 ドルで提供されており、市内でもトップクラスの食事場所の 1 つであり、特に顧客を連れ出すときにマイクロンの従業員にとって人気のスポットであると小森氏は語った。
+「彼らは今、私たちを頻繁に訪れるようになりました」と小森さんは語った。 「これは私たちにとって褒め言葉です。なぜなら彼らはボイシを誇示したいと思っているからです。そして私たちはそのためのリストに載っています。」
+小森氏は、毎月、より多くのレストランが、中小企業もチェーン店も同様に、ダウンタウンにオープンしており、市の中心部の外でもますます多くのレストランを目にするようになっていると語った。
+スケーリングの課題
+ボイシの人口が現在の約3分の1だった1980年にボイシに移住したペツォ氏は、いくつかの欠点はあるものの、その活気を高く評価していると語った。
+ペツォさんはレストランについて「外食するととても高いのに、どこも満席だ」と語った。 「ボイシのダウンタウンを歩いていて、『これはすごい』と思うだけです。」
+マイクロンは、このような急速な拡大によって生じるプレッシャーを十分に認識しており、同社がまだ数千人を新たに雇用する予定であることから、プレッシャーはさらに強まるだろう。
+「短期間でこれだけの人数を拡張する場合、住宅などの交通手段などの課題が必ず存在します」とアーンゼン氏は言う。同氏は、同社が州や郡と協力し、「確実に一歩先を行くための解決策について地方レベルで」協力していると付け加えた。
+アルンゼン氏は、同社は住宅関連の取り組みを行っており、「さまざまな道路への投資機会」を検討していると述べた。同社はまた、YMCAと提携して従業員向けの保育センターを建設し、今後10年間で州全体の労働力、教育、地域開発に7,500万ドルを費やす予定である。
+さらに、マイクロンは中学生向けのチップキャンプ、ボイシ州にマイクロン後援のトレーニングファブ、ナンパ近くのウェスタンアイダホ大学で見習いプログラムを行っています。
+「これら 2 つのキャンパスには、マイクロンの名前が付いた建物が少なくとも 5 棟あります」とアーンゼン氏は述べた。 「マイクロンはこれらの教育機関に何年も投資しており、もちろん止めるつもりはありません。私たちはより多くの人材を必要としています。」
+クレーンの無秩序な配置、州間高速道路 84 号線のバンパーからバンパーへの交通、マイクロンのコミュニティーの取り組み以外にも、メモリ ブームの持続可能性に対する懸念が高まっています。
+クロフォース氏は7月に株式が巻き戻されたときにリスクを味わった。
+先月の株価下落についてクロフォース氏は、「これは私個人にとって、おそらく600グランドの純資産が消えていくのを目にしたことになる」と語った。同氏は、3 か月連続で 50% 増加したため、「それでも勝利だ」とすぐに指摘しました。
+ペツォにとって、この瞬間は、マイクロンの億万長者たちが最後に彼のオフィスに現れたときと明らかに似ている。 1999 年のドットコム バブルの頃、テクノロジーマニアはどこにでもいました。マイクロンの株価は前年比​​ほぼ２倍となった後、同年５０％以上急騰した。
+ペツォの顧客の中には、保有株の一部であっても売却を拒否した人もいた。株価はその後3年間で価値の4分の3を失い、ペツォ氏によると、この暴落は関係者全員に「深い傷跡」を残したという。
+それは痛みを伴う教訓であり、彼は既存の顧客ベースにつらい思いをさせたくないと考えていました。
+ペツォ氏は、「人々に髪を切って外出させようというのが、私たちが今まさに議論していることだ」と語った。 「あなたたちはそこでそれを殺していますが、私は長い間そこにいます。あなたは1999年にもそれを殺していました。」
+見る: SK Hynix の 7,200 億ドルの AI メモリ拡張の内部を独占的に紹介`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+    publishedAt: "2026-08-20T11:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "travelodge-boss-steps-down-after-securit-f7560ea0",
     title: "Travelodge boss steps down after security issues in rooms",
     titleJa: "トラベロッジ社長、客室のセキュリティ問題で辞任",
@@ -499,6 +835,48 @@ GDPは前期比および年率ベースで予想を下回ったものの、同�
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 2,
+  },
+  {
+    id: "call-buying-bonanza-around-trump-s-hyper-1ae624fc",
+    title: "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+    titleJa: "トランプ大統領のハイパーリキッド発言を巡るコール買いの大成功には、眉をひそめるような取引も含まれている",
+    summaryJa: "ドナルド・トランプ大統領が業界リーダーらとの会合を予定していたために、水曜日はすでに暗号資産にとって最高の日となりつつあり、ビットコイン取引は6月以来の最高値を記録した。そこでビッグニュースが飛び込んできた。",
+    bodyOriginal: `Wednesday was already shaping up to be the best for crypto assets in recent memory, with bitcoin trading the highest since June as President Donald Trump scheduled a meeting with industry leaders.
+Then the big news hit.
+Around 3 p.m. ET, the president hinted at regulating Hyperliquid, the decentralized exchange that's been garnering popularity among traders as the home base of "perpetual futures" trading – the swap-like derivatives contracts with high leverage and no expiration that have been a thorn in the side of incumbent exchanges this year – despite U.S. residents not being allowed on the platform.
+"I understand that [Commodity Futures Trading Commission Chair] Mike [Selig] is also working to bring Hyperliquid into the United States in a fully compliant and legal fashion," Trump said in a press conference.
+Shares of Hyperliquid Strategies (PURR), the publicly traded treasury company that owns HYPE tokens, surged 30% before the closing bell, bringing the stock's year-to-date gain to more than 163%. HYPE, the digital token that powers the exchange's blockchain-based settlement and operations, jumped 18% to just below record highs. Shares of Cboe Global Markets dropped 3.5%, Miami International Holdings fell 3.1% and CME Group slid 1.7%.
+"We've been trying for awhile to figure out how to get into the U.S. and the CFTC has been quite responsive, but when Trump says it at a press conference, it means it's a priority," David Schamis, CEO of Hyperliquid Strategies and founding partner at Atlas Merchant Capital, said in a call after the bell on Wednesday.
+"You can't do something like this and make new rules – you see how hard it is to get Clarity [Act] passed. You have to figure out how to make it work with rules existing today," he added. The Clarity Act is a bill that would establish a regulatory framework for cryptocurrencies.
+Options volume in Hyperliquid was almost eight times the 30-day average, with more than 120,000 calls traded versus under 8,000 puts. Traders bought almost 45,000 calls and sold 29,000. About $10 million in premium exchanged hands, with the biggest single trades coming about a half-hour after the announcement when someone bought 2,000 8-strike calls expiring in November and December for about $510,000.
+There was also a flurry of heavy call-trading activity in the hours before the announcement. Just shy of $2 million in calls of various strikes and expiries traded before 3 p.m., including some trades that carried signs of indiscriminate and rushed buying indicative of someone eager to get in on a trade.
+In one case, around 11 a.m., someone spent $65,000 trading 719 of the 8-strike calls expiring in mid-October, paying 90 cents each for a contract that had just 67 open positions coming into Wednesday. Those calls are now worth $2.45 each, meaning the trader was up about $111,000 by the close.
+"These by definition were opening trades so you're asking me to believe someone went out in front of this announcement and sold a bunch of upside call opening trades?" said Dennis Davitt, CNBC contributor and co-founder of Millbank Dartmoor Portsmouth, an investment firm managing more than $500 million in institutional assets. "I hope they have a robust alibi."
+Trading in the iShares Bitcoin Trust ETF (IBIT) was more than 4.5 times the 30-day average even before the Hyperliquid headlines as Treasury yields retreated, and investors overall pivoted toward underperforming sectors of the past year. Bitcoin volatility measured by Volmex Labs' BVIV Index jumped 13% after hitting a year-to-date low of 35.5 Friday.
+Whether Hyperliquid's success translates into a bitcoin price revival remains to be seen. Shares of Michael Saylor's Strategy rallied nearly 13% Wednesday, while Coinbase surged almost 10%. Both are down roughly 30% year-to-date after bitcoin posted the worst year relative to the S&P 500 since 2019
+"We have four things on our balance sheet," said Schamis. "Two billion of HYPE token, cash, common equity, and deferred tax liability. No debt and no funky converts."
+Correction: Hyperliquid Strategies does not own the Hyperliquid exchange.`,
+    bodyJa: `ドナルド・トランプ大統領が業界リーダーらとの会合を予定していたために、水曜日はすでに暗号資産にとって最高の日となりつつあり、ビットコイン取引は6月以来の最高値を記録した。
+そこでビッグニュースが飛び込んできた。
+午後3時頃ETによれば、大統領はハイパーリキッドを規制することをほのめかした。この分散型取引所は「無期限先物」取引の本拠地としてトレーダーの間で人気を集めている分散型取引所である。高レバレッジで有効期限のないスワップのようなデリバティブ契約であり、今年既存の取引所にとって厄介な問題となっているが、米国居住者の同プラットフォームへの利用は許可されていない。
+トランプ大統領は記者会見で「（商品先物取引委員会の）マイク（セリグ委員長）も、完全に準拠した合法的な方法でハイパーリキッドを米国に導入することに取り組んでいることを理解している」と述べた。
+HYPEトークンを所有する上場財務会社であるハイパーリキッド・ストラテジーズ（PURR）の株価は、取引終了ベルの前に30％急騰し、年初からの株価上昇率は163％以上となった。同取引所のブロックチェーンベースの決済と運営を支えるデジタルトークンであるHYPEは18％上昇し、過去最高値をわずかに下回った。 CBOEグローバル・マーケッツの株価は3.5％下落し、マイアミ・インターナショナル・ホールディングスは3.1％下落し、CMEグループは1.7％下落した。
+ハイパーリキッド・ストラテジーズの最高経営責任者（CEO）でアトラス・マーチャント・キャピタルの創設パートナーであるデビッド・シャミス氏は、水曜日の鐘後の電話で、「われわれはしばらく米国に参入する方法を模索しており、CFTCはかなり反応してきたが、トランプ大統領が記者会見でそう言うということは、それが優先事項だということだ」と語った。
+「このようなことをして新しいルールを作ることはできません。Clarity [法]を通過させることがいかに難しいかがわかります。今日存在するルールでそれを機能させる方法を見つけなければなりません。」と彼は付け加えた。クラリティ法は、仮想通貨の規制枠組みを確立する法案です。
+ハイパーリキッドのオプション取引高は30日平均のほぼ8倍で、プットが8,000件未満であるのに対し、コールは12万件以上取引された。トレーダーらは約４万５０００コールを買い、２万９０００コールを売った。約1,000万ドルのプレミアムな取引が行われ、最大の単独取引は発表の約30分後に行われ、誰かが11月と12月に期限切れとなる2,000の8ストライクコールを約51万ドルで購入した。
+発表の数時間前には激しいコール取引活動もあった。午後3時前に取引されたさまざまなストライキや期限切れのコールは200万ドル手前で、その中には取引に参加しようとしている人物を示す無差別で急ぎの買いの兆候が見られる取引も含まれていた。
+あるケースでは、午前11時ごろ、誰かが10月中旬に期限切れとなる8ストライクコールのうち719件の取引に6万5000ドルを費やし、水曜日に到着するオープンポジションがわずか67件だった契約にそれぞれ90セントを支払った。これらのコールは現在それぞれ 2.45 ドルの価値があり、トレーダーは取引終了までに約 111,000 ドル上昇したことを意味します。
+「これらは定義上、オープニングトレードだったので、誰かがこの発表の前に出てきて、大量のアップサイドコールのオープニングトレードを売ったということを信じるように求めているのですか？」 CNBC寄稿者であり、5億ドル以上の機関投資家資産を管理する投資会社ミルバンク・ダートムーア・ポーツマスの共同創設者であるデニス・ダビット氏はこう語る。 「彼らにしっかりとしたアリバイがあることを願っています。」
+iシェアーズ・ビットコイン・トラストETF（IBIT）の取引は、米国債利回りが後退し、投資家が全体的に過去1年間のパフォーマンスの悪いセクターに方向転換したため、ハイパーリキッドのヘッドラインが報じられる前でさえ、30日間平均の4.5倍を超えていた。 Volmex LabsのBVIV指数で測定されたビットコインのボラティリティは、金曜日に年初来安値の35.5を記録した後、13％上昇した。
+Hyperliquidの成功がビットコイン価格の復活につながるかどうかはまだ分からない。水曜日、マイケル・セイラー・ストラテジーの株価は13％近く上昇し、コインベースは10％近く急騰した。ビットコインがS&P 500と比較して2019年以来最悪の年を記録したことを受け、両者は年初から約30％下落している
+「バランスシートには4つの項目があります」とシャミス氏は語った。 「20億のHYPEトークン、現金、普通株式、繰延税金負債。借金もなければ、ファンキーな転向者もいない。」
+訂正: Hyperliquid Strategies は Hyperliquid 取引所を所有していません。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+    publishedAt: "2026-08-19T23:57:47+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
   },
   {
     id: "india-s-gen-z-are-driving-up-a-mega-boom-fe2943ff",
@@ -1494,385 +1872,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21dc/live/be9c8d40-9bb6-11f1-a291-b542ee92de7c.jpg",
     readTime: 5,
-  },
-  {
-    id: "iran-reportedly-weighs-attacks-on-europe-44809792",
-    title: "Iran reportedly weighs attacks on European military targets as UAE severs trade with Tehran",
-    titleJa: "伝えられるところによると、UAEがテヘランとの貿易を断絶する中、イランは欧州の軍事目標への攻撃を検討しているとのこと",
-    summaryJa: "フィナンシャル・タイムズ紙は水曜、政権内部関係者２人の話として、イランは戦争が激化した場合、欧州にある米国の軍事目標を攻撃することを検討していると報じた。FTの報道によると、ブルガリアとキプロスの米国資産が潜在的な標的として検討されたという。",
-    bodyOriginal: `Iran has considered attacking U.S. military targets in Europe if the war escalates, the Financial Times reported Wednesday, citing two regime insiders.
-U.S. assets in Bulgaria and Cyprus were weighed as potential targets, according to the FT's report.
-CNBC has reached out to Iran's Military of Foreign Affairs for comment and has not independently verified the story.
-Negotiations between Washington and Tehran to end the war have stalled, with little sign that talks will resume, leaving the belligerents to consider their next stages in the prolonged conflict.
-UAE severs trade with Iran
-The United Arab Emirates on Wednesday said it had paused all "trade, commercial exchanges, and financial transactions" with Iran until further notice. On Tuesday, the UAE's Ministry of Defense said it detected two ballistic missiles launched from Iran toward its territorial waters.
-President Donald Trump on Tuesday said the U.S. is not currently in any talks with Tehran and has no plans to restart them. He has also ruled out extending the 60-day ceasefire agreement which expired Monday, after the deal effectively fell apart.
-A key point of contention remains control of the Strait of Hormuz. Trump has repeatedly stated that the vital shipping waterway is open and in operation under U.S. control.
-However, observed ship traffic through the passage remains extremely low. An attack on a cargo vessel transiting the strait earlier this week killed one person.
-Fox News on Tuesday quoted an Iranian military spokesperson as saying ships attempting passage through the strait will "find several beautiful holes in their hulls."
-Meanwhile, Trump has extended his verbal attacks to longstanding U.S. allies. On Monday, the president threatened to "bomb the s--- out of" Oman if the Gulf nation "gets in the way" of its objectives in the Middle East.
-He also ordered Defense Secretary Pete Hegseth to "substantially reduce" joint drills with South Korea, accusing Seoul of failing to help with its military operation in Iran and citing his friendly relations with North Korean leader Kim Jong Un.
-— CNBC's Emma Graham and Spencer Kimball contributed to this story.`,
-    bodyJa: `フィナンシャル・タイムズ紙は水曜、政権内部関係者２人の話として、イランは戦争が激化した場合、欧州にある米国の軍事目標を攻撃することを検討していると報じた。
-FTの報道によると、ブルガリアとキプロスの米国資産が潜在的な標的として検討されたという。
-CNBCはイラン外務省にコメントを求めたが、独自にこの記事を検証していない。
-戦争終結に向けた米政府とイラン政府間の交渉は行き詰まっており、交渉が再開される兆しはほとんどなく、交戦側は長期化する紛争の次の段階を検討することになっている。
-UAE、イランとの貿易を断絶
-アラブ首長国連邦は水曜日、イランとのすべての「貿易、商業交流、金融取引」を追って通知があるまで停止すると発表した。 UAE国防省は火曜日、イランから領海に向けて発射された弾道ミサイル2発を探知したと発表した。
-ドナルド・トランプ大統領は火曜日、米国はイラン政府と現在いかなる協議も行っておらず、協議を再開する計画もないと述べた。同氏はまた、合意が事実上決裂したことを受けて月曜日に期限切れとなった60日間の停戦合意の延長も否定した。
-重要な争点は依然としてホルムズ海峡の制海権である。トランプ大統領は、重要な海運水路は開いており、米国の管理下で運営されていると繰り返し述べてきた。
-しかし、この航路を通過する船舶の交通量は依然として極めて少ないと観察されています。今週初めに海峡を通過中の貨物船が攻撃され、１人が死亡した。
-フォックスニュースは火曜日、イラン軍報道官の発言として、海峡を通過しようとする船舶は「船体にいくつかの美しい穴を見つけるだろう」と述べたと伝えた。
-一方、トランプ大統領は米国の長年の同盟国に対しても言葉による攻撃を拡大した。大統領は月曜日、湾岸諸国が中東での目標を「邪魔」する場合、オマーンを「爆撃する」と脅迫した。
-また、ピート・ヘグセス国防長官に対し、韓国がイランでの軍事作戦への支援を怠ったと非難し、北朝鮮の指導者金正恩氏との友好関係を理由に、韓国との共同訓練を「大幅に縮小する」よう命じた。
-— CNBCのエマ・グラハムとスペンサー・キンボールがこの記事に貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-08-19T06:52:12+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "ukraine-s-zelenskyy-faces-call-for-warti-173d1a1b",
-    title: "Ukraine's Zelenskyy faces call for wartime election from former defense chief",
-    titleJa: "ウクライナのゼレンシキー氏、元国防長官からの戦時中の選挙要求に直面",
-    summaryJa: "ウクライナの元国防長官ミハイロ・フェドロフ氏は、ロシアがほぼ4年半前に本格的な侵攻を開始して以来、ウォロディミル・ゼレンスキー大統領に対する最も直接的な政治的挑戦と多くの人がみなしている戦時中の選挙を呼びかけた。ロイター通信の翻訳によると、政府改造の一環として先月突然解任されたフョードロフ氏は火曜日、「民主主義をロシアの人質にすることはできない」と述べた。",
-    bodyOriginal: `Ukraine's former defense chief Mykhailo Fedorov has called for wartime elections in what many see as the most direct political challenge to President Volodymyr Zelenskyy since Russia launched its full-scale invasion nearly four-and-a-half years ago.
-Fedorov, who was unexpectedly sacked last month as part of a government reshuffle, said Tuesday that "democracy cannot be held hostage by Russia," according to a Reuters translation.
-"We must find a legal, safe and realistic mechanism that will allow Ukraine to renew its full democratic process even in the conditions of a long war," Fedorov said.
-His comments, which did not mention Zelenskyy by name, were delivered in a more than nine-minute video posted to YouTube. Ukrainian law currently prohibits holding elections during wartime.
-A former ally of Zelenskyy, Fedorov is widely seen as a popular figure in Ukraine. His dismissal in late July after roughly six months in post prompted protests in major cities across the country.
-An advocate of the country's drone warfare, the 35-year-old has been credited with energizing the defense ministry and spearheading a drive against corruption.
-Fedorov's statement came just hours after Zelenskyy confirmed he had asked parliament to confirm Yevhen Khmara as Ukraine's new defense minister in office on Wednesday, effectively closing the door on a Fedorov comeback.
-Read more
-Fedorov said Ukraine faced a "systemic crisis of governance" and condemned official corruption for hurting the country's war effort, without providing the names of any lawmakers.
-Zelenskyy has not yet responded to Fedorov's video statement. CNBC has contacted Ukraine's Foreign Ministry for comment and is awaiting a response.`,
-    bodyJa: `ウクライナの元国防長官ミハイロ・フェドロフ氏は、ロシアがほぼ4年半前に本格的な侵攻を開始して以来、ウォロディミル・ゼレンスキー大統領に対する最も直接的な政治的挑戦と多くの人がみなしている戦時中の選挙を呼びかけた。
-ロイター通信の翻訳によると、政府改造の一環として先月突然解任されたフョードロフ氏は火曜日、「民主主義をロシアの人質にすることはできない」と述べた。
-フョードロフ氏は「長期にわたる戦争の状況下でもウクライナが完全な民主主義プロセスを再開できるよう、合法的で安全かつ現実的な仕組みを見つけなければならない」と述べた。
-ゼレンスキー氏の名前には言及しなかった同氏のコメントは、ユーチューブに投稿された９分以上のビデオで伝えられた。ウクライナの法律は現在、戦時中の選挙の実施を禁止している。
-ゼレンスキー氏の元同盟者であるフョードロフ氏は、ウクライナでは人気のある人物として広く知られている。約6か月の任期を経て7月末に同氏が解任されると、全国の主要都市で抗議活動が起きた。
-同国の無人機戦争の提唱者である35歳の同氏は、国防省を活性化させ、汚職撲滅の先頭に立った功績が認められている。
-フョードロフ氏の声明は、ゼレンシキー氏が水曜、ウクライナの新国防相にエフヘン・クマラ氏を承認するよう議会に要請したことを確認した数時間後に発表され、フョードロフ氏の復帰への扉は事実上閉ざされた。
-続きを読む
-フョードロフ氏は、ウクライナは「統治の体系的危機」に直面していると述べ、議員の名前は明らかにしなかったものの、国の戦争遂行に悪影響を及ぼしている役人の汚職を非難した。
-ゼレンスキー氏はフョードロフ氏のビデオ声明にまだ返答していない。 CNBCはウクライナ外務省にコメントを求めており、返答を待っている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/ukraine-war-fedorov-zelenskky-election.html",
-    publishedAt: "2026-08-19T06:48:18+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-pauses-new-tariffs-on-canada-and-s-21128136",
-    title: "Trump pauses new tariffs on Canada and says countries close to a deal",
-    titleJa: "トランプ大統領、カナダへの新たな関税を一時停止し、各国は合意に近づいていると発言",
-    summaryJa: "トランプ大統領、カナダへの新たな関税を一時停止し、各国は合意に近づいていると発言- 公開されました",
-    bodyOriginal: `Trump pauses new tariffs on Canada and says countries close to a deal
-- Published
-US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.
-"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!" Trump said in a social media post.
-The announcement came less than two hours before a 50% levy on nearly $20bn (£14.8bn; C$28bn) of Canadian imports was set to go in place.
-The two sides have been at an impasse on several issues, including US tariffs on autos and many Canadian provinces banning American liquor sales.
-Trump and Canadian Prime Minister Mark Carney spoke twice this week, and trade negotiators have been engaged in intense talks since July, after the US president threatened the new levy with a deadline of 19 August.
-"Substantial progress has been made, although there is important work still to be done," Carney said in a letter posted on X.
-In his post, Trump also said a final trade deal could allow the revival of the Keystone XL pipeline. The oil pipeline, which would connect Alberta to the US, was blocked by both the Obama and Biden administrations.
-Environmentalists and indigenous groups have long opposed the pipeline but Trump has said multiple times he would like to revive the project, which would carry 830,000 barrels of oil a day.
-"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!" Trump wrote on Truth Social.
-"The deal will include comprehensive market access for all American goods, economic security commitments, digital trade alignment", US Trade Representative Jamieson Greer's office posted on X.
-It will also include "many important provisions that will continue to protect our market and American workers, along with our Canadian partners", it added.
-The extension is welcome news for Canadian negotiators and for businesses on both sides of the border, who have warned that the new tariffs would be harmful to both countries.
-Tensions have mounted between the two major trading partners since Trump returned to office in January last year and he unleashed a wide-ranging global programme of tariffs, upending decades of free trade between Canada and the US.
-The latest tariffs threatened by Trump were to be applied on a range of Canadian imports, including wine, dairy, cement, clothing and hockey equipment.
-They would have been in addition to existing tariffs the US had already imposed on Canadian steel and aluminium, autos and lumber.
-Canada has been in pursuit of a deal that would have the US drop or reduce tariffs on these key sectors.
-The US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.
-It has also asked for the ban on US alcohol sales, imposed last year by most Canadian provinces in retaliation to Trump's tariffs, be removed.
-In the final hours before Wednesday's deadline, negotiators were discussing a deal that would reduce US tariffs on Canadian autos from 25% to 15%, according to a Reuters report citing anonymous sources.
-But the two countries could not agree on which vehicles would be eligible for tariff reductions, with the US pushing for it to only apply on cars with a high amount of American-made content.
-Carney will also need buy-in from provincial premiers to reinstate the sale of US alcohol, as liquor sales are controlled by the provinces, not the federal government.
-Ontario Premier Doug Ford, whose province is hardest hit by US tariffs on autos, said he was open to lifting the liquor ban only if a "fair deal" is reached.
-On Tuesday, the US Chamber of Commerce pushed for a deal to be reached, saying in a statement that "higher tariffs would damage both economies, drive up costs for US families, further disrupt critical supply chains, and risk the 13 million American jobs that depend on trade under the US-Mexico-Canada Trade Agreement".
-Additional reporting by Peter Hoskins
-Related topics
-- Published4 days ago`,
-    bodyJa: `トランプ大統領、カナダへの新たな関税を一時停止し、各国は合意に近づいていると発言
-- 公開されました
-ドナルド・トランプ米大統領は、両国が通商協定を強化する中、カナダの幅広い製品に対する新たな関税の発動を3日間延期すると発表した。
-「私は、文書の最終決定を条件としてカナダと米国が協定を結んでいるという事実に基づき、明日の朝に開始される予定だったカナダに対する50％関税を3日間一時停止しました！」トランプ大統領はソーシャルメディアへの投稿で述べた。
-この発表は、200億ドル（148億ポンド、280億カナダドル）近くのカナダからの輸入品に対する50％の課税が開始される2時間以内に行われた。
-両国は米国の自動車関税やカナダの多くの州による米国産酒類の販売禁止など、いくつかの問題で行き詰まっている。
-トランプ大統領とカナダのマーク・カーニー首相は今週2回会談し、米国大統領が新たな課税の期限を8月19日と脅したことを受けて、通商交渉担当者らは7月以来、激しい協議を続けている。
-カーニー氏はＸに掲載した書簡で「重要な作業はまだ残っているが、大幅な進展は見られた」と述べた。
-トランプ大統領は投稿の中で、最終的な通商合意によりキーストーンXLパイプラインの復活が可能になる可能性があるとも述べた。アルバータ州と米国を結ぶ石油パイプラインはオバマ、バイデン両政権によって阻止された。
-環境保護活動家や先住民団体は長年このパイプラインに反対してきたが、トランプ大統領は日量83万バレルの石油を輸送するこのプロジェクトを復活させたいと何度も述べている。
-「ずっと前にスリーピー・ジョー・バイデンによって殺された偉大なキーストーンXLパイプラインが墓場から目覚めるかもしれない！」トランプ氏はTruth Socialにこう書いた。
-「この協定には、すべての米国製品への包括的な市場アクセス、経済安全保障の約束、デジタル貿易の連携が含まれる」とジェイミソン・グリア米通商代表部はXに投稿した。
-また、「カナダのパートナーとともに市場と米国の労働者を引き続き保護する多くの重要な条項」も含まれると付け加えた。
-この延長は、新たな関税は両国にとって有害で​​あると警告してきたカナダの交渉担当者や国境の両側の企業にとって歓迎すべきニュースだ。
-トランプ大統領が昨年1月に大統領に復帰し、広範な世界的関税プログラムを発動してカナダと米国間の数十年にわたる自由貿易を根底から覆して以来、2大貿易相手国間の緊張は高まっている。
-トランプ大統領が脅迫した最新の関税は、ワイン、乳製品、セメント、衣料品、ホッケー用具など幅広いカナダからの輸入品に適用される予定だった。
-これらは米国がカナダの鉄鋼とアルミニウム、自動車、木材にすでに課している既存の関税に追加されるものだった。
-カナダは米国に対し、これらの主要分野に対する関税を撤回または削減させる合意を追求してきた。
-一方、米国はカナダに対し、米国製自動車に対する残りの報復関税の撤廃や、米国のチーズ生産者のアクセス拡大を可能にする乳製品割り当ての調整など、多くの譲歩を求めている。
-また、トランプ大統領の関税への報復としてカナダのほとんどの州が昨年課した米国でのアルコール販売禁止措置の解除も求めた。
-匿名の情報筋を引用したロイター通信の報道によると、水曜の期限前の最後の数時間に、交渉担当者らはカナダの自動車に対する米国の関税を25％から15％に引き下げる合意について議論していた。
-しかし、両国は関税引き下げの対象となる自動車について合意できず、米国は米国製の含有量が多い自動車にのみ関税を適用するよう求めている。
-酒類の販売は連邦政府ではなく州が管理しているため、カーニー氏が米国の酒類販売を再開するには州首相の同意も必要となる。
-米国の自動車関税で最も大きな打撃を受けているオンタリオ州のダグ・フォード首相は、「公正な合意」が得られた場合にのみ酒類禁制を解除する用意があると述べた。
-火曜日、米国商工会議所は声明で「関税の引き上げは両国経済にダメージを与え、米国の家庭の生活費を押し上げ、重要なサプライチェーンをさらに混乱させ、米国・メキシコ・カナダ貿易協定に基づく貿易に依存する1,300万人の米国の雇用を危険にさらすことになる」と述べ、合意の成立を促した。
-Peter Hoskins による追加レポート
-関連トピック
-- 4 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-19T03:56:35+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d42d/live/9ebe0f40-9b79-11f1-afeb-4d7c67d79c36.jpg",
-    readTime: 5,
-  },
-  {
-    id: "chinese-robotics-giant-unitree-soars-in-6d8b9184",
-    title: "Chinese robotics giant Unitree soars in stock market debut",
-    titleJa: "中国のロボット大手ユニツリーが株式市場デビューで急騰",
-    summaryJa: "中国のロボット大手ユニツリーが株式市場デビューで急騰- 公開されました",
-    bodyOriginal: `Chinese robotics giant Unitree soars in stock market debut
-- Published
-The world's biggest humanoid robot maker Unitree Robotics made its stock market debut in Shanghai on Wednesday, with its shares soaring by more than 600% in early trading.
-In the highly anticipated initial public offering (IPO), the Chinese firm's shares opened at 1,100 yuan (£120.60; $163.12), before giving up some of the gains to trade at around 900 yuan.
-The listing on the technology-focused Star Market - which is widely known as China's Nasdaq - marks a milestone for Beijing's ambitious plans for the country's robotics industry.
-It comes as the US and China are battling to dominate the global market for robots and artificial intelligence (AI) models that power them.
-While Unitree is not the first Chinese humanoid robot maker to list on the stock market, its debut marks the first in mainland China.
-Robots like automated industrial equipment and smart vacuum cleaners are already widely used in factories, warehouses and homes.
-Now, the humanoid robotics industry is attracting huge amounts of investment as major companies - including Tesla, BYD and Amazon - are developing two-legged machines capable of performing tasks usually carried out by people.
-What is Unitree?
-Unitree, officially known as Yushu Technology Co Ltd, was founded in 2016 and now plays a key role in Beijing's ambitions to develop advanced technology.
-It has become a robotics industry leader, selling devices from sensors and automated arms to four-legged and human-like machines.
-The firm shipped more than 5,500 humanoid robots last year as demand for the technology grows.
-Unitree is one of the few companies in the sector to make money, delivering a net profit of 278 million yuan in 2025.
-It is a fierce rival to developers in the US as it produces robots with similar features but at lower prices.
-The company is based in Hangzhou, in eastern China. The region is home to a so-called golden cluster zone of robotics firms, which have benefited from huge government investments.
-That support helped drive a more than threefold increase in the number of Chinese robotics firms between 2020 and 2024, according to state-run China Daily.
-Robots are also seen as a potential solution to issues posed by China's ageing population, which is expected to lead to a shortage of workers in the country, according to Fei Qin, an associate professor at the University of Bath.
-Beijing considers the robotics sector a "strategic priority" in its pursuit of leadership in advanced technology, she said.
-"Robots are where AI leaves the screen and enters the economy" in factories, hospitals and, potentially, the home, Qin added.
-US robots tend to have more user-friendly software but it is difficult to ignore the lower prices offered by Chinese manufacturers, said Harold Soh, a researcher from the National University of Singapore.
-Unitree's robot dogs start at $2,700, a fraction of the roughly $70,000 price tag for Boston Dynamics' four-legged device, Spot.
-"They're not exactly comparable because some of Unitree's dogs are much smaller," Soh said. "But the price is a big difference."
-Unitree has been selling humanoid robots since 2023, with its $13,500 child-sized G1 model hitting the market the following year.
-Meanwhile, major US rivals - including Elon Musk's Tesla - have yet to start delivering rival products.
-Unitree robots have been at the centre of a huge marketing push ahead of the firm's IPO.
-This week, its machines are competing in the 2026 World Humanoid Robot Games in Beijing. The event features hundreds of teams competing in events such as running and football as well as less sporty challenges like box opening and sorting library books.
-In February, Unitree's robots caught the eye of the public and researchers when its G1 robots put on a display of martial arts moves during China's Spring Festival Gala.
-The live broadcast showed the robots performing a range of moves "in a way we'd never seen before," said robotics researcher David Hsu.
-"It was an indication of a rise of an industry," Hsu added.
-A bellwether for robotics firms?
-Some experts expect Unitree's market debut to be a gauge of investor appetite for the fast-growing humanoid robotics sector.
-The listing has given the public a rare chance to invest in a humanoid robotics company and could set a benchmark for other manufacturers, said Jack Pearson from investment firm RoboStrategy.
-The listing also marks a "turning point" for China's robotics industry, as Unitree's success comes even as the US is curbing imports of foreign-made robots, Pearson said.
-Unitree's IPO comes almost three years after smaller Chinese rival UBTech Robotics listed on the Hong Kong stock market.
-In July this year, UBTech drew global attention when it unveiled what Chinese state media described as a "hyper-realistic" robots designed to offer "emotional support and everyday interaction."
-More robot makers, including Leju Robotics and AgiBot, are expected to follow UBTech and Unitree with stock market listings in the coming months.
-But the optimism around the industry comes as some experts have voiced doubts over demand for robots for uses outside industrial and commercial settings.
-Robots are still years away from working effectively in homes, Soh said.
-Developers need to address issues like longer battery life, privacy safeguards and reliability, he said.
-Initially, the market will be for robots being used in places like factories and hospitals, he added.
-China-US tech rivalry
-Robots and AI have become the latest flashpoint in the rivalry between the US and China, as both nations view them as strategically important industries.
-US President Donald Trump's administration said in July that it would ban new Chinese-made humanoid and quadruped robots over national security concerns and protecting US manufacturing.
-Beijing rejected the claim, accusing Washington of "politicising" trade issues.
-The US has also set tough restrictions on other Chinese technology - including AI models and electric cars.
-China's dominance of the robotics industry highlights a broader issue faced by Washington as Chinese firms become more "deeply embedded" in global manufacturing, said Christine Wan from the Peterson Institute for International Economics.
-Other countries may be reluctant to reduce their reliance on Chinese suppliers at the risk of disrupting domestic manufacturing, Wan said.
-So far, Western robots have not made the same impact on factory floors or in the consumer market.
-Boston Dynamics, a major US robotics developer, has said it will roll out human-like machines in car maker Hyundai's factories in two years' time. The South Korean firm has a majority stake in Boston Dynamics.
-Other US firms, like Amazon and Tesla, have also announced plans to use humanoid robots in their operations.
-Earlier this year, Musk's firm announced that it would use its manufacturing plant in California that made Model S and X cars to produce its line of Optimus humanoid robots.
-Amazon, which tested the use of humanoid robots in its warehouses in 2023, told the BBC it is continuing its research into next-generation robotics.
-The BBC has also contacted Tesla and Boston Dynamics for comment on their humanoid robot plans.
-One thing is clear, said Hsu, the US has lost its lead in robotics.
-"We no longer hear about American robotics companies in the news. It's the Chinese robot companies that are making news today," he added.
-"They have replaced America as the cool kids on the block."
-Why human-shaped robots loom large in Musk's Tesla plans
-- Published7 November 2025
-The Chinese robot army transforming the UK's retail industry
-- Published29 July`,
-    bodyJa: `中国のロボット大手ユニツリーが株式市場デビューで急騰
-- 公開されました
-世界最大の人型ロボットメーカー、ユニツリー・ロボティクスが水曜日に上海で株式市場にデビューし、株価は序盤の取引で600％以上急騰した。
-大いに期待されていた新規株式公開（IPO）では、中国企業の株は1,100元（120.60ポンド、163.12ドル）で始まった後、利益の一部を放棄して約900元で取引された。
-中国のナスダックとして広く知られるテクノロジー中心のスター・マーケットへの上場は、同国のロボット産業に対する中国政府の野心的な計画にとって画期的な出来事となる。
-これは、米国と中国がロボットとそれらを動かす人工知能（AI）モデルの世界市場を支配しようと争っている中で起こった。
-ユニツリーは株式市場に上場する最初の中国の人型ロボットメーカーではないが、中国本土でのデビューは初めてとなる。
-自動化産業機器やスマート掃除機などのロボットは、すでに工場、倉庫、家庭で広く使用されています。
-現在、テスラ、BYD、アマゾンなどの大手企業が、通常人間が行う作業を実行できる二足歩行機械を開発しており、ヒューマノイドロボット産業は巨額の投資を集めている。
-ユニツリーとは何ですか？
-正式には Yushu Technology Co Ltd として知られる Unitree は 2016 年に設立され、現在、先進技術開発という北京の野望において重要な役割を果たしています。
-同社はロボット業界のリーダーとなり、センサーや自動アームから四本足の人間に似た機械に至るまでのデバイスを販売しています。
-同社は昨年、この技術への需要の高まりを受けて5,500台以上の人型ロボットを出荷した。
-ユニツリーはこの分野で利益を上げている数少ない企業の1つで、2025年には純利益2億7,800万元を達成している。
-同社は同様の機能を備えながら低価格のロボットを生産しているため、米国の開発者にとって激しいライバルとなっている。
-同社は中国東部の杭州に拠点を置いています。この地域には、政府の巨額投資の恩恵を受けているロボット企業のいわゆる黄金クラスターゾーンがある。
-国営紙チャイナ・デイリーによると、こうした支援により、2020年から2024年にかけて中国のロボット企業の数は3倍以上に増加したという。
-バース大学のフェイ・チン准教授によると、ロボットは中国の人口高齢化によってもたらされる問題の潜在的な解決策とも考えられているが、これは国内の労働力不足につながると予想されている。
-同氏は、中国政府は先端技術分野でのリーダーシップを追求する上でロボット分野が「戦略的優先事項」であると考えていると述べた。
-秦氏はさらに、工場や病院、そして場合によっては家庭でも「AIがスクリーンを離れて経済に参入するのはロボットだ」と付け加えた。
-シンガポール国立大学の研究者ハロルド・ソー氏は、米国のロボットはよりユーザーフレンドリーなソフトウェアを備えている傾向があるが、中国メーカーが提供する低価格を無視するのは難しいと述べた。
-ユニツリーのロボット犬の価格は2,700ドルからで、ボストン・ダイナミクスの4本足デバイス「スポット」の約7万ドルの値札の数分の一である。
-「ユニツリーの犬の中にははるかに小さいものもあるため、正確に比較することはできません」とソー氏は語った。 「しかし、価格には大きな違いがあります。」
-Unitree は 2023 年から人型ロボットを販売しており、翌年には 13,500 ドルの子供サイズの G1 モデルが市場に投入されました。
-一方、イーロン・マスク氏のテスラを含む米国の主要ライバル企業はまだライバル製品の提供を開始していない。
-Unitreeロボットは、同社のIPOに先立って大規模なマーケティング活動の中心となっている。
-今週、同社のマシンは北京で開催される 2026 年世界ヒューマノイド ロボット競技大会に出場します。このイベントでは、数百のチームがランニングやフットボールなどの種目だけでなく、箱を開けたり図書館の本の並べ替えなどのそれほどスポーツ的ではない課題で競い合います。
-2月、中国の春節祭典でユニツリーのG1ロボットが武術の動きを披露したとき、ユニツリーのロボットは一般の人々や研究者の注目を集めた。
-ロボット研究者のデービッド・スー氏は、生放送ではロボットが「これまで見たことのない方法で」さまざまな動きをする様子が示されたと語った。
-「これは業界の台頭の表れだった」とスー氏は付け加えた。
-ロボット企業の旗振り役？
-一部の専門家は、ユニツリーの市場デビューが、急成長しているヒューマノイドロボット分野に対する投資家の意欲を測る指標になると予想している。
-投資会社ロボストラテジーのジャック・ピアソン氏は、今回の上場は一般大衆に人型ロボット企業に投資する貴重な機会を与え、他のメーカーのベンチマークとなる可能性があると述べた。
-米国が外国製ロボットの輸入を制限している中でもユニツリーの成功がもたらされたため、今回の上場は中国のロボット産業にとって「転換点」でもあるとピアソン氏は述べた。
-ユニツリーのIPOは、中国の小規模なライバルであるUBTech Roboticsが香港株式市場に上場してからほぼ3年後に行われる。
-今年7月、UBTechは中国国営メディアが「感情的なサポートと日常的な交流」を提供するように設計された「超現実的な」ロボットと表現したロボットを発表し、世界的な注目を集めた。
-今後数カ月以内に、Leju RoboticsやAgiBotなど、さらに多くのロボットメーカーがUBTechやUnitreeに続いて株式市場に上場すると予想されている。
-しかし、一部の専門家が産業および商業環境以外での用途でのロボットの需要について疑問を表明しているため、業界全体が楽観的になっています。
-ソー氏は、ロボットが家庭内で効果的に機能するようになるまでには、まだ何年もかかると述べた。
-開発者はバッテリー寿命の延長、プライバシー保護、信頼性などの問題に取り組む必要があると同氏は述べた。
-当初、市場は工場や病院などの場所で使用されるロボット向けになるだろうと同氏は付け加えた。
-中国と米国のテクノロジー競争
-両国ともロボットとAIを戦略的に重要な産業とみなしているため、ロボットとAIは米中対立の最新の火種となっている。
-ドナルド・トランプ米大統領政権は7月、国家安全保障への懸念と米国製造業の保護を理由に、中国製の新型の人型ロボットや四足歩行ロボットを禁止すると発表した。
-中国政府はこの主張を拒否し、米国政府が通商問題を「政治利用」していると非難した。
-米国はAIモデルや電気自動車など、他の中国技術にも厳しい制限を設けている。
-ピーターソン国際経済研究所のクリスティン・ワン氏は、ロボット産業における中国の優位性は、中国企業が世界の製造業により「深く組み込まれる」ようになるにつれて、米国政府が直面する広範な問題を浮き彫りにしていると述べた。
-ワン氏は、他の国々は国内製造に混乱をきたすリスクを冒して中国のサプライヤーへの依存を減らすことに消極的になる可能性があると述べた。
-これまでのところ、西洋のロボットは工場現場や消費者市場に同様の影響を与えていません。
-米国のロボット開発大手ボストン・ダイナミクスは、2年以内に自動車メーカー、ヒュンダイの工場に人間に似た機械を導入すると発表した。この韓国企業はボストン・ダイナミクスの過半数の株式を保有している。
-アマゾンやテスラなど他の米国企業も、業務に人型ロボットを使用する計画を発表している。
-今年初め、マスク氏の会社は、モデルSとXの自動車を製造していたカリフォルニアの製造工場を同社の人型ロボットのオプティマス製品の生産に利用すると発表した。
-2023年に自社の倉庫で人型ロボットの使用をテストしたアマゾンは、次世代ロボット工学の研究を継続しているとBBCに語った。
-BBCはまた、テスラとボストン・ダイナミクスにも連絡を取り、人型ロボット計画についてコメントを求めた。
-1つ明らかなことは、米国がロボット工学におけるリードを失ったことだとスー氏は語った。
-「米国のロボット企業のことはもうニュースで聞かない。今日ニュースになっているのは中国のロボット企業だ」と同氏は付け加えた。
-「彼らはアメリカに代わって、近所のクールな子供たちになった。」
-マスク氏のテスラ計画に人型ロボットが大きく登場する理由
-- 2025 年 11 月 7 日発行
-中国のロボット軍団が英国の小売業界を変革
-- 7 月 29 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-19T03:26:27+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
-    readTime: 9,
-  },
-  {
-    id: "trump-holds-off-on-new-50-tariffs-for-ca-76080200",
-    title: "Trump holds off on new 50% tariffs for Canadian goods",
-    titleJa: "トランプ大統領、カナダ製品に対する新たな50％関税を延期",
-    summaryJa: "一部のカナダ製品に対するトランプ政権の新たな関税計画で何が起こっているのかを見てみましょう。",
-    bodyOriginal: `Here’s what’s going on with the Trump administration’s plan for new tariffs for some Canadian goods.`,
-    bodyJa: `一部のカナダ製品に対するトランプ政権の新たな関税計画で何が起こっているのかを見てみましょう。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
-    publishedAt: "2026-08-19T02:42:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-87085400",
-    readTime: 2,
-  },
-  {
-    id: "china-s-backflipping-robot-maker-unitree-39810a51",
-    title: "China’s backflipping robot maker Unitree pops 542% in Shanghai debut",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "中国の人型ロボットメーカーが上海で株式市場にデビューしたため、ユニツリー・ロボティクスの株価は水曜日の取引序盤で542％上昇した。杭州に拠点を置くこのロボットメーカーは、バク転マシンやダンスマシンが世界的な注目を集めており、目論見書によると、IPOで約61億元（9億500万ドル）を調達した。株価は先ほど1,100元まで上昇した後、1株当たり968.1元まで上昇した。",
-    bodyOriginal: `Unitree Robotics shares rose 542% in early trading Wednesday as the Chinese humanoid robot maker made its stock market debut in Shanghai.
-The Hangzhou-based robot maker, whose backflipping and dancing machines have drawn global attention, raised about 6.1 billion yuan ($905 million) in its IPO, according to its prospectus. Shares rose to 968.1 yuan apiece, after hitting as high as 1,100 yuan earlier.
-The IPO also drew backing from Chinese AI company DeepSeek, which invested about 140.8 million yuan, according to a company filing. Unitree's existing investors also include Chinese tech giant Tencent.
-Unitree's product lineup spans bipedal humanoid robots that can walk and manipulate objects with dexterous hands, as well as four-legged robots used for tasks such as hazard detection.
-Ahead of its listing, Unitree on Monday unveiled a new humanoid robot called "Superman," which it says can jump two meters from a standing position and run at speeds of up to 12.66 meters per second.
-Unitree is the latest high-profile Chinese tech name to hit Shanghai's STAR Market, following memory chipmaker CXMT's listing last month, when its shares soared 466% on their first day of trading.
-Morgan Stanley in June raised its forecast for China's humanoid robot shipments to 50,000 units this year, nearly double its previous projection of 28,000. The bank estimated China's humanoid robot market will grow from $2 billion this year to $15 billion by 2030.
-The bank further expects pilot projects in China to begin moving into broader deployments in the second half of this year, with full-size humanoids forecast to account for about 30% of shipments, rising to 70% by 2028.`,
-    bodyJa: `中国の人型ロボットメーカーが上海で株式市場にデビューしたため、ユニツリー・ロボティクスの株価は水曜日の取引序盤で542％上昇した。
-杭州に拠点を置くこのロボットメーカーは、バク転マシンやダンスマシンが世界的な注目を集めており、目論見書によると、IPOで約61億元（9億500万ドル）を調達した。株価は先ほど1,100元まで上昇した後、1株当たり968.1元まで上昇した。
-同社の提出書類によると、このIPOには約1億4,080万元を投資した中国のAI企業ディープシークからも支援が集まったという。ユニツリーの既存の投資家には、中国のテクノロジー大手テンセントも含まれている。
-ユニツリーの製品ラインナップは、器用な手先で歩行や物体操作が可能な二足歩行の人型ロボットから、危険検知などに使用される四足歩行ロボットまで多岐にわたります。
-上場に先立ち、ユニツリーは月曜日、「スーパーマン」と呼ばれる新しい人型ロボットを発表した。このロボットは、立位から2メートルジャンプし、最大毎秒12.66メートルの速度で走ることができるという。
-Unitreeは、先月のメモリチップメーカーCXMTの上場に続き、上海のSTAR市場に参入した最新の注目度の高い中国ハイテク企業で、その株価は取引初日に466％急騰した。
-モルガン・スタンレーは6月、中国の人型ロボットの今年の出荷予測を5万台に引き上げ、従来予想の2万8000台のほぼ2倍となった。同銀行は、中国の人型ロボット市場が今年の20億ドルから2030年までに150億ドルに成長すると推定している。
-同銀行はさらに、中国でのパイロットプロジェクトが今年下半期に広範な展開に移行し始め、実物大の人型ロボットが出荷の約30％を占め、2028年までに70％に増加すると予想している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/china-backflipping-robot-maker-unitree-jumps-shanghai-ipo.html",
-    publishedAt: "2026-08-19T01:37:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "california-ag-bonta-says-case-against-me-2600cfeb",
-    title: "California AG Bonta says case against Meta is about 'restitution and distortion,' not damages",
-    titleJa: "カリフォルニアAGボンタ、メタに対する訴訟は損害賠償ではなく「賠償と歪曲」に関するものだと語る",
-    summaryJa: "カリフォルニア州司法長官ロブ・ボンタは火曜日、メタに対する一か八かの児童安全訴訟の初日弁論を受けて、裁判は「民事罰、賠償、歪曲」が中心であり、主に金銭に関するものではないと述べた。「これは損害賠償訴訟ではない」とボンタ氏は、その日の審議終了後の記者会見で述べた。",
-    bodyOriginal: `Following the first day of arguments in a high-stakes child safety case against Meta, California Attorney General Rob Bonta said Tuesday that the trial centers around "civil penalties, restitution and distortion," and is not primarily about money.
-"This is not a damages case," Bonta said at a press conference after the day's session had wrapped up.
-The trial at Oakland's federal court house is expected to last six to seven weeks. Bonta and attorneys general from Colorado, New Jersey and Kentucky are co-leading the trial against Meta, and represent a bipartisan group of 29 AGs who allege that the design and features of Facebook and Instagram encouraged addictive behavior in children and are detrimental to their mental wellbeing.
-Meta's lawyers have previously warned that the consolidated case could lead to penalties reaching $1.4 trillion, or roughly equal to the company's market cap. State AGs told presiding federal Judge Yvonne Gonzalez Rogers last week that $200 billion is a more likely figure.
-An advisory jury was seated to hear the case, but Gonzalez Rogers will ultimately decide Meta's fate. It's the same setup that was in place for the trial between Elon Musk and Sam Altman earlier this year.
-Attorneys representing the states allege that Meta violated federal and state laws like the Children's Online Privacy Protection Act, or COPPA, and various consumer protection statutes. Bonta said the states' lawyers "submitted documentation to the court" that included certain statistics related to the number of young users on apps like Facebook and Instagram as a rubric to determine potential civil penalties.
-"To be clear, we are not asking for $1.4 trillion dollars," Bonta said Tuesday. He said it's the "highest possible number that could ever be calculated based on that data," and that "It's a figure Meta estimated." Meta disputes that claim.
-Bonta said the plaintiffs "will be asking for a significant financial gain in the form of total existing civil penalties as an important and appropriate part of this case." He said, "The judge will exercise discretion as to what that will be."
-The trial stems from a lawsuit filed in 2023. During opening arguments, California Deputy Attorney General Megan O'Neill laid out the claims against Meta. Similar to other related social media trials, including the Los Angeles personal injury proceedings that Meta and Google's YouTube lost in March, O'Neill focused her arguments on allegations that public statements made by executives like Meta CEO Mark Zuckerberg contradicted the company's internal research into the mental wellbeing of children and misrepresented the true extent of harm.
-"Meta, one of the largest, most powerful companies in the world, carried out a campaign to deceive, to mislead its users, legislatures, teachers and parents," O'Neill told the advisory jury.
-Paul Schmidt, a Covington & Burling trial attorney representing Meta, contested O'Neill's arguments, and disputed the notion that Meta executives misled the public with their statements about child safety.
-"As you hear the evidence we will be asking you, does this prove the specific things they are claiming?" Schmidt said to the eight jury members.
-For the alleged violations, the state lawyers want Meta to delete all personal data for children under 13 and the related algorithms and models trained with that information, and to remove certain design elements like infinite scroll, autoplay and beauty features.
-The trial follows a recent court victory against Meta by New Mexico AG Raúl Torrez that resulted in the social media giant being directed to pay $567 million into an abatement fund as part of the second phase of a case involving child sexual exploitation allegations. The jury had already ruled in March that Meta should be forced to pay $375 million in civil penalties for violating New Mexico's unfair practices act.
-Bonta noted that Meta isn't the only social media company in the crosshairs of various state attorneys general. He said several states "already have pending lawsuits now against TikTok," and that he's "also concerned about YouTube as well as Snap." Meta is merely "first in line," he said, in a statewide pursuit for "some industry-wide solutions."
-"Who goes first? Who goes last? Ideally, they all go at the same time," Bonta said. "That's not possible. In an ideal world, they would all commit to the same reforms and changes to all kids and keep them safe."`,
-    bodyJa: `カリフォルニア州司法長官ロブ・ボンタは火曜日、メタに対する一か八かの児童安全訴訟の初日弁論を受けて、裁判は「民事罰、賠償、歪曲」が中心であり、主に金銭に関するものではないと述べた。
-「これは損害賠償訴訟ではない」とボンタ氏は、その日の審議終了後の記者会見で述べた。
-オークランドの連邦裁判所での裁判は6～7週間続く見通しだ。ボンタ氏とコロラド州、ニュージャージー州、ケンタッキー州の司法長官は、メタに対する裁判を共同主導しており、フェイスブックとインスタグラムのデザインと機能が子どもの中毒性を助長し、子どもたちの精神的健康に悪影響を及ぼしていると主張する29人の法廷弁護士からなる超党派グループの代表を務めている。
-メタの弁護士らは以前、統合訴訟により罰金が1兆4000億ドル、または同社の時価総額にほぼ等しい額に達する可能性があると警告していた。州議会当局は先週、イボンヌ・ゴンザレス・ロジャーズ連邦判事裁判長に対し、2000億ドルの可能性がより高い数字であると述べた。
-この訴訟を審理するために諮問陪審が着席したが、最終的にはゴンザレス・ロジャースがメタの運命を決めることになる。これは、今年初めにイーロン・マスク氏とサム・アルトマン氏の間で行われた裁判と同じ体制だ。
-各州を代表する弁護士らは、Metaが児童オンラインプライバシー保護法（COPPA）などの連邦法や州法、さまざまな消費者保護法に違反していると主張している。ボンタ氏は、各州の弁護士が民事罰の可能性を判断するためのルーブリックとして、フェイスブックやインスタグラムなどのアプリの若者ユーザー数に関する特定の統計を含む文書を「裁判所に提出した」と述べた。
-「はっきり言っておきますが、我々は1兆4000億ドルを要求しているわけではありません」とボンタ氏は火曜日に述べた。同氏は、これは「そのデータに基づいて計算できる最高の数字」であり、「メタが推定した数字だ」と述べた。と主張するメタ論争。
-ボンタ氏は、原告らは「この訴訟の重要かつ適切な部分として、既存の民事罰金総額の形で多額の金銭的利益を要求するだろう」と述べた。同氏は「それがどのようになるかは裁判官が裁量権を行使するだろう」と述べた。
-この裁判は、2023年に起こされた訴訟に端を発している。冒頭弁論で、カリフォルニア州副司法長官ミーガン・オニールはメタに対する主張を述べた。メタとグーグル傘下のユーチューブが３月に敗訴したロサンゼルスの人身傷害訴訟など、他の関連するソーシャルメディア裁判と同様に、オニール氏はメタの最高経営責任者（ＣＥＯ）マーク・ザッカーバーグら幹部らの公式声明が子どもの精神的健康に関する同社の内部調査に矛盾し、被害の真の程度を誤って伝えているという主張に弁論の焦点を当てた。
-オニール氏は諮問陪審に対し、「世界最大かつ最も強力な企業の一つであるメタ社は、ユーザー、議会、教師、保護者を欺き、誤解させるキャンペーンを行った」と述べた。
-メタ社の代理人であるコビントン＆バーリング裁判弁護士のポール・シュミット氏は、オニール氏の主張に異議を唱え、メタ社幹部が子供の安全に関する発言で国民を誤解させているという考えに異議を唱えた。
-「これから私たちが尋ねる証拠を聞いてください。これは彼らが主張している具体的なことを証明していますか？」シュミット氏は8人の陪審員にこう語った。
-州弁護士は、違反容疑についてメタに対し、13歳未満の子供のすべての個人データと、その情報を使ってトレーニングされた関連アルゴリズムとモデルを削除し、無限スクロール、自動再生、美容機能などの特定のデザイン要素を削除するよう求めている。
-この裁判は、ニューメキシコ州のラウル・トーレス氏がメタ社に対して最近法廷で勝利し、その結果、ソーシャルメディア大手が児童の性的搾取疑惑に関する訴訟の第2段階の一環として、削減基金に5億6,700万ドルを支払うよう指示されたことに続くものである。陪審はすでに3月、ニューメキシコ州の不当行為法に違反したとしてメタ氏に3億7500万ドルの民事罰金の支払いを強制すべきとの判決を下していた。
-ボンタ氏は、さまざまな州司法長官の標的となっているソーシャルメディア企業はメタ社だけではないと指摘した。同氏は、いくつかの州が「すでにTikTokに対して係争中の訴訟を起こしている」とし、「スナップだけでなくYouTubeについても懸念している」と述べた。同氏は、メタ社は単に「業界全体の解決策」を州全体で追求する「最前線」に過ぎないと述べた。
-「誰が最初に行くのか？誰が最後に行くのか？理想的には、全員が同時に行くことだ」とボンタ氏は語った。 「それは不可能です。理想的な世界では、彼ら全員がすべての子供たちに同じ改革と変化を約束し、子供たちの安全を守るでしょう。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/meta-attorneys-general-opening-arguments-california-bonta-restitution.html",
-    publishedAt: "2026-08-19T01:34:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "seoul-washington-to-halve-joint-drills-a-056aab62",
-    title: "Seoul, Washington to halve joint drills as Trump reportedly seeks summit with North Korea's Kim",
-    titleJa: "トランプ大統領が北朝鮮の金氏との首脳会談を模索中との報道を受け、ソウルとワシントン、共同訓練を半減へ",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `South Korea's military said Wednesday that it would cut an annual joint military exercise with the U.S. by about half, after President Donald Trump ordered the Pentagon to scale it back and reportedly pushed to meet North Korean leader Kim Jong Un as soon as this fall.
-The annual joint Ulchi Freedom Shield exercise period will be reduced to Aug. 17 to 21, according to a statement from South Korea's armed forces. The program had originally been scheduled to conclude on Aug. 27.
-The Wall Street Journal reported Wednesday that Trump is pressing aides to arrange a meeting with North Korea's Kim Jong Un as soon as this fall, in a push to revive personal diplomacy with the reclusive leader. The two previously met face-to-face during Trump's first term, in 2018, in Singapore.
-Trump has privately discussed arranging an in-person meeting with Kim during his next trip to Asia, likely in November, the Journal said, when he is expected to attend the Asia-Pacific Economic Cooperation summit in Shenzhen, China.
-The developments came after Trump ordered Secretary of War Pete Hegseth to scale back "substantially" the joint military drills on Sunday evening stateside, just before its start on Monday.
-The moves mark the latest escalation of Trump's outreach to Pyongyang, unsettling a 70-year alliance with South Korea already battered by the transfer of wartime operational control and Seoul's refusal to back U.S. efforts on Iran.
-The allies had planned 14 combined field-training programs alongside this year's command-post exercise, which was to include about 18,000 South Korean troops, according to the Associated Press.
-— CNBC's Lisa Kim and Jenny Lee contributed to this report.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/south-korea-trump-military-drills-exercise-north-korea-kim-jong-un-.html",
-    publishedAt: "2026-08-19T01:15:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
   },
 ];
 
