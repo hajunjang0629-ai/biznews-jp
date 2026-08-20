@@ -15,6 +15,290 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "travelodge-boss-steps-down-after-securit-f7560ea0",
+    title: "Travelodge boss steps down after security issues in rooms",
+    titleJa: "トラベロッジ社長、客室のセキュリティ問題で辞任",
+    summaryJa: "トラベロッジ社長、客室のセキュリティ問題で辞任- 公開されました",
+    bodyOriginal: `Travelodge boss steps down after security issues in rooms
+- Published
+The boss of hotel chain Travelodge, Jo Boydell, is stepping down as the group grapples with safety issues after a sexual assault at one of its hotels.
+A woman staying at a Maidenhead hotel was sexually assaulted in December 2022 after a man lied to staff to get a key card to her room, triggering an independent review of security measures at the hotel giant.
+Kyran Smith was jailed for seven years and six months for the attack.
+Boydell is being replaced on an interim basis by Ray Reidy, who said: "We remain focused on the safety and well-being of our guests and will continue taking the actions necessary to strengthen the business."
+- Published23 April`,
+    bodyJa: `トラベロッジ社長、客室のセキュリティ問題で辞任
+- 公開されました
+ホテルチェーン、トラベロッジの社長、ジョー・ボイデル氏は、同社のホテルの1つで性的暴行を受けたことを受け、グループが安全上の問題に取り組む中、辞任することになった。
+2022年12月、メイデンヘッドのホテルに宿泊していた女性が、男性がスタッフに嘘をついて部屋のキーカードを手に入れた後、性的暴行を受けたことがきっかけで、ホテル大手の安全対策に関する独立した見直しが始まった。
+カイラン・スミスは襲撃の罪で7年6か月の懲役刑を受けた。
+ボイデル氏の後任には暫定的にレイ・レイディ氏が就任する予定で、同氏は「我々は引き続きゲストの安全と幸福に注力しており、ビジネスを強化するために必要な措置を講じ続ける」と述べた。
+- 4 月 23 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T06:51:43+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd3c/live/fea18690-9c63-11f1-827b-69a6492daae1.jpg",
+    readTime: 2,
+  },
+  {
+    id: "founder-of-collapsed-chinese-property-gi-c7e07c9d",
+    title: "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+    titleJa: "経営破綻した中国不動産大手恒大の創業者に終身刑を宣告",
+    summaryJa: "経営破綻した中国不動産大手恒大の創業者に終身刑を宣告- 公開されました",
+    bodyOriginal: `Founder of collapsed Chinese property giant Evergrande sentenced to life in prison
+- Published
+The founder of Evergrande, the property giant at the centre of China's housing market slump, has been sentenced to life in prison and had all of his personal property confiscated.
+Hui Ka Yan pleaded guilty in April to several charges, including embezzlement of assets and corporate bribery.
+Shenzhen Intermediate People's Court also fined his former companies a total of 15.82bn yuan (£1.73bn; $2.35bn) over multiple crimes, including falsifying records and concealing debt, according to state media.
+Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector and hit investors and domestic banks hard.
+The court heard that Hui and his businesses "seriously disrupted" the Chinese property market, resulting in significant economic losses, state-controlled Xinhua News Agency reported.
+Other Evergrande executives, including Hui's two sons Xu Zhijian and Xu Tenghe, were also sentenced to jail terms ranging from 22 months to 18 years, Xinhua said.
+Once ranked Asia's richest man, Hui has seen his wealth and influence dwindle as his company unravelled.
+Hui, also known as Xu Jiayin, rose from humble beginnings in rural China, where he was raised by his grandmother before venturing into property development and setting up Evergrande in 1996.
+He oversaw the company's rapid rise through an aggressive expansion programme funded with large amounts of borrowed money.
+Evergrande became China's biggest real estate developer, with a stock market valuation of more than $50bn (£36.7bn). Hui was once estimated to be Asia's richest person.
+Evergrande: Why should I care about the crisis-hit Chinese property giant?
+- Published25 August 2025
+Anxious Chinese home buyers reel from Evergrande crisis
+- Published29 September 2023
+Crisis-hit China Evergrande ordered to liquidate
+- Published29 January 2024
+The firm was dealt a huge blow when Beijing introduced measures in 2020 to control debt in the country's property sector.
+As the company struggled to meet interest payments on its debts it sold properties at huge discounts to stay afloat before collapsing in 2021.
+In April, the court heard that the company had taken millions of dollars in pre-sale funding from potential house buyers that were not used for construction.
+The money had instead been channelled to new property developments, resulting in hundreds of unfinished projects.
+In March 2024, Hui was fined $6.5m and banned from China's capital market for life for his company overstating its revenue by $78bn.
+Evergrande's stock market valuation shrank by 99% before its shares were removed from the Hong Kong exchange in August 2025 after more than a decade and a half of trading.
+Evergrande's implosion has often been blamed for triggering a broader slump in China's property market that continues to weigh heavily on the economy.
+At its height, Evergrande was the biggest firm in the country's real estate industry, which made up about a third of China's gross domestic product at the time.
+The property market was a significant driver of growth and an important revenue source for local governments.
+The industry's ongoing problems have weighed heavily on the world's second largest economy as several other major developers faced financial woes.`,
+    bodyJa: `経営破綻した中国不動産大手恒大の創業者に終身刑を宣告
+- 公開されました
+中国の住宅市場低迷の中心である不動産大手、恒大の創設者が終身刑を言い渡され、個人財産のすべてが没収された。
+ホイ・カー・ヤン氏は4月、資産横領や企業贈収賄など複数の罪で有罪を認めた。
+国営メディアによると、深セン中級人民法院はまた、記録改ざんや債務隠蔽などの複数の犯罪で、同氏の元会社に総額158億2000万元（23億5000万ドル）の罰金を言い渡した。
+ホイ氏の判決は、中国の不動産セクターを震撼させ、投資家や国内銀行に大きな打撃を与えた恒大破綻の余波における重要な瞬間を示している。
+国営新華社通信によると、法廷は回氏とその企業が中国の不動産市場を「深刻に混乱させ」、多大な経済的損失をもたらしたとの審理を行った。
+新華社通信によると、回氏の2人の息子、徐志建氏と徐騰和氏を含む他の恒大幹部も懲役22か月から18年の刑を宣告された。
+かつてアジア一の富豪にランクされていたホイ氏は、会社の経営破綻に伴い富と影響力が減少するのを目にしてきた。
+Xu Jiayinとしても知られるHui氏は、中国の田舎で貧しい家庭から立ち上がり、不動産開発に乗り出し、1996年に恒大を設立するまで祖母に育てられた。
+彼は、多額の借入金を資金源とした積極的な拡大プログラムを通じて会社の急速な成長を監督しました。
+恒大は中国最大の不動産開発業者となり、株式市場評価額は500億ドル（367億ポンド）を超えた。ホイ氏はかつてアジアで最も裕福な人物と推定されていた。
+エバーグランデ: なぜ危機に見舞われた中国の不動産大手のことを気にする必要があるのでしょうか?
+- 2025 年 8 月 25 日発行
+不安を抱える中国の住宅購入者、恒大危機に動揺
+- 2023 年 9 月 29 日公開
+危機に見舞われた中国恒大に清算命令
+- 2024 年 1 月 29 日公開
+中国政府が2020年に不動産セクターの債務抑制策を導入した際、同社は大きな打撃を受けた。
+同社は債務の利払いに苦戦する中、2021年に倒産するまで存続するために大幅な値引きで不動産を売却した。
+4月に裁判所は、同社が住宅購入希望者から建設に使用されなかった数百万ドルの販売前資金を受け取ったとの審理を行った。
+その資金は代わりに新しい不動産開発に注ぎ込まれ、その結果、何百もの未完成のプロジェクトが生じました。
+2024年3月、ホイ氏は自社の売上高を780億ドル水増ししたとして、650万ドルの罰金と中国資本市場からの永久追放を言い渡された。
+恒大の株式市場評価は、10年半以上の取引を経て2025年8月に香港取引所から削除されるまでに99％下落した。
+恒大の爆縮は、経済に重くのしかかり続けている中国の不動産市場の広範な不況を引き起こしたとしばしば非難されてきた。
+最盛期には恒大は中国の不動産業界最大の会社で、当時の中国国内総生産の約3分の1を占めていた。
+不動産市場は成長の重要な原動力であり、地方自治体にとって重要な収入源でした。
+他の大手開発会社数社が経営危機に直面する中、業界で進行中の問題は世界第2位の経済大国に重くのしかかっている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T06:08:02+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+    readTime: 3,
+  },
+  {
+    id: "trump-scaling-down-u-s-south-korea-drill-5139b108",
+    title: "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
+    titleJa: "トランプ大統領の米韓演習縮小は共同軍事即応態勢以上のリスクをもたらす",
+    summaryJa: "米韓軍事演習を大幅に縮小するというドナルド・トランプ大統領の動きは、両国の戦闘準備に影響を与えるだけでなく、同盟に対する米国の約束の信頼性を損なうことになるだろう。元韓国特殊戦軍司令官の千仁範中将は、「北朝鮮軍がウクライナで戦闘経験を積んでいる間に、乙支フリーダムシールドのような共同演習を縮小することは、危険な作戦上の断絶を生み出す」と率直に語った。",
+    bodyOriginal: `President Donald Trump's move to sharply curtail U.S.-South Korean military exercises will not only affect they countries' combat readiness, but also undermine the credibility of American commitments to its alliances.
+Lieutenant General Chun In-Bum, former commander of South Korea's Special Warfare Command, was blunt: "scaling back joint exercises like Ulchi Freedom Shield while North Korean troops gain combat experience in Ukraine creates a dangerous operational disconnect."
+Ukrainian President Volodymyr Zelenskyy said earlier this month that Pyongyang was dispatching up to another 50,000 troops to aid Moscow, pointing to a gradual increase in North Korean troops deployed against Kyiv.
+The joint Ulchi Freedom Shield exercise began on Aug. 17 will now end on Friday, ahead of the original schedule through Aug. 27.
+That revision comes after Trump ordered Defence Secetary Pete Hegseth to "substantially reduce" joint drills with Seoul so as to not "send a signal that is totally inappropriate and hostile" to North Korea, a move that is said to have caught Seoul off guard.
+Chun said Pyongyang's troops were refining modern tactics, including drone warfare, electronic warfare, and artillery integration, under actual battle conditions, and the U.S.- South Korea alliance relies on major exercises to stress test its systems and adapt to these evolving threats.
+"Restricting readiness testing for political gestures weakens joint counter-measures and undermines deterrence precisely as the adversary's battlefield proficiency expands," he said.
+U.S. official, however, told Reuters that scaled-back drills would still preserve essential readiness and training objectives, with no degradation to American training goals.
+Credibility in question
+While the direct impact would be a reduction in combat readiness in the alliance's forces, the move by Trump will also start to raise questions about the credibility of Washington's commitment to alliances, experts said.
+[The move] significantly undermines the credibility of the U.S. security commitment at a time when confidence in that commitment is already near one of its lowest points in recent history.Lami KimKorea Chair in Advanced Technologies, National Security and Defence, IISS
+This "significantly undermines the credibility of the U.S. security commitment at a time when confidence in that commitment is already near one of its lowest points in recent history," said Lami Kim, Korea Chair in Advanced Technologies, National Security and Defence at the International Institute for Strategic Studies.
+Speaking at the White House on Wednesday, Trump hardened his stance, saying the joint exercises were "very insulting to somebody that, frankly, has been, during my term at least, very well-behaved."
+This is not the first time that Trump has suspended joint exercises in an effort to improve relations with North Korea. In his first term, the U.S. president had suspended exercises while carrying out negotiations with Pyongyang.
+Kim's view is shared by Henry Haggard, a former U.S. diplomat in Seoul. Haggard said the move could cause concern among allies about the predictability and reliability of the U.S. alliance guarantee.
+"This announced reduction appears to be a bad overall strategic move given Ukraine, Iran ... some allies, Korea among them, are struggling to understand U.S. positions vis a vis Russia, North Korea and even China," Haggard said.
+However, there are some experts that see the cut in military drills as a positive gesture, suggesting that if the joint exercises are escalating tensions, then reducing them should lessen the chance of a conflict.
+Jennifer Kavanagh, senior fellow and director of military analysis at Defense Priorities, told CNBC that for both the United States and South Korea, reducing the number of military exercises could create a more stable and less hostile military environment.
+She said after the United States conducts military exercises in Asia, "countries like China or North Korea respond accordingly, increasing their military activity in the region, conducting their own exercises, or testing new weapons and missiles."
+The cut in drills drew no immediate concession from Pyongyang, with Kim Yo Jong, the sister of North Korean leader Kim Jong Un, saying Thursday that "If the U.S. calculates that it can propagate its recent measure as the one of so-called good faith, they will not get [their] desired answer." She is also director of the central committee of North Korea's ruling party.
+She added that North Korea paid more attention to the fact that the drills are already staged, not to the reduction of the drills. "We are correctly seeing through the fact that this is an obvious expression of open hostility."`,
+    bodyJa: `米韓軍事演習を大幅に縮小するというドナルド・トランプ大統領の動きは、両国の戦闘準備に影響を与えるだけでなく、同盟に対する米国の約束の信頼性を損なうことになるだろう。
+元韓国特殊戦軍司令官の千仁範中将は、「北朝鮮軍がウクライナで戦闘経験を積んでいる間に、乙支フリーダムシールドのような共同演習を縮小することは、危険な作戦上の断絶を生み出す」と率直に語った。
+ウクライナのウォロディミル・ゼレンスキー大統領は今月初め、北朝鮮がモスクワを支援するためにさらに最大5万人の軍隊を派遣すると述べ、キエフに展開する北朝鮮軍が徐々に増加していることを指摘した。
+8月17日に始まった蔚支フリーダムシールド合同演習は、当初の8月27日までの予定を前倒しして金曜日に終了する。
+この修正は、トランプ大統領がピート・ヘグセス国防長官に対し、北朝鮮に「完全に不適切で敵対的な信号を送らないように」韓国との共同訓練を「大幅に縮小する」よう命令した後に行われたもので、この措置が韓国の不意を突いたと言われている。
+チョン氏は、北朝鮮軍は実際の戦闘状況下で無人機戦、電子戦、砲兵の統合など現代戦術を洗練させており、米韓同盟はシステムのストレステストを行い、こうした進化する脅威に適応するために大規模な演習に依存していると述べた。
+同氏は、「政治的ジェスチャーに対する即応性検査の制限は、まさに敵の戦場での熟練度が拡大する中、共同の対抗措置を弱め、抑止力を損なうことになる」と述べた。
+しかし、米当局者はロイターに対し、訓練を縮小しても米国の訓練目標を損なうことなく、重要な即応性と訓練目標は維持されると語った。
+信頼性が疑問視される
+直接的な影響は同盟軍の戦闘即応力の低下だが、トランプ大統領の動きは同盟に対する米国の関与の信頼性についても疑問を生じ始めるだろうと専門家らは指摘する。
+[この動きは]米国の安全保障への取り組みに対する信頼性がすでに最近の歴史の中で最低点の一つに近づいている現在、米国の安全保障への取り組みの信頼性を著しく損なうものである。ラミ・キム韓国国際ＩＳＳ先端技術・国家安全保障・防衛担当議長
+国際戦略研究所の韓国先端技術・国家安全保障・国防担当議長ラミ・キム氏は、「米国の安全保障への取り組みに対する信頼性がすでに最近の歴史の中で最低点の一つに近づいている中で、これは米国の安全保障への取り組みの信頼性を著しく損なうものだ」と述べた。
+トランプ大統領は水曜日、ホワイトハウスで演説し、共同演習は「率直に言って、少なくとも私の任期中は非常に行儀が良かった人物に対する非常に侮辱的なものだ」と態度を硬化させた。
+トランプ大統領が北朝鮮との関係改善を目指して共同訓練を中止したのはこれが初めてではない。米大統領は１期目、北朝鮮との交渉中は演習を中止していた。
+金氏の見解は、ソウル駐在の元米国外交官ヘンリー・ハガード氏も同様だ。ハガード氏は、この措置は米国との同盟保証の予測可能性と信頼性について同盟国に懸念を引き起こす可能性があると述べた。
+ハガード氏は、「ウクライナ、イラン…一部の同盟国、その中には韓国が、ロシア、北朝鮮、さらには中国に対する米国の立場を理解するのに苦労していることを考慮すると、この発表された削減は全体的に戦略的に悪い動きであるように見える」と述べた。
+しかし、一部の専門家は軍事演習の削減を前向きな姿勢と捉えており、合同演習によって緊張が高まっているのであれば、緊張を減らしれば紛争の可能性は減るはずだと示唆している。
+ディフェンス・プライオリティ社のシニアフェロー兼軍事分析ディレクターのジェニファー・カバナー氏はCNBCに対し、米国と韓国の両国にとって、軍事演習の数を減らすことで、より安定した敵意の少ない軍事環境を作り出すことができると語った。
+同氏は、米国がアジアで軍事演習を実施すると、「中国や北朝鮮などの国もそれに応じて、地域での軍事活動を強化したり、独自の演習を実施したり、新たな兵器やミサイルの実験を行ったりしている」と述べた。
+演習削減については北朝鮮からの即時譲歩は得られず、北朝鮮の指導者金正恩氏の妹、金与正氏は木曜日、「米国が最近の措置をいわゆる誠意によるものとして広めることができると計算しているなら、（米国が）望むような答えは得られないだろう」と述べた。彼女は北朝鮮与党中央委員会の委員長でもある。
+同氏は、北朝鮮は訓練の縮小ではなく、訓練がすでに実施されているという事実により注意を払っていると付け加えた。 「これが明らかな敵意の表れであるという事実を、私たちは正しく見抜いています。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
+    publishedAt: "2026-08-20T05:56:27+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "bitcoin-ether-surge-as-trump-urges-congr-47c05655",
+    title: "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+    titleJa: "トランプ大統領が議会に仮想通貨透明性法案の可決を促す中、ビットコインとイーサが急騰",
+    summaryJa: "ドナルド・トランプ米大統領がこのセクターの活性化が期待される法案の可決を議会に要請したことを受け、ビットコイン、イーサ、その他の仮想通貨が急騰した。トランプ大統領はまた、「永久先物」取引の本拠地としてトレーダーの間で人気を集めている分散型取引所ハイパーリキッドを規制する可能性も示唆した。 CoinGeckoのデータによると、Hyperliquidトークンは過去24時間で約20％上昇した。",
+    bodyOriginal: `Bitcoin, ether and other cryptocurrencies surged after U.S. President Donald Trump urged Congress to pass a bill expected to boost the sector.
+Trump also hinted at regulating Hyperliquid, the decentralized exchange that's been garnering popularity among traders as the home base of "perpetual futures" trading. The Hyperliquid token rose about 20% over the past 24 hours, according to CoinGecko data.
+A retreat in Treasury yields also helped to boost trading in the iShares Bitcoin Trust ETF (IBIT) which was more than 4.5 times the 30-day average even before the Hyperliquid headlines. Bitcoin volatility measured by Volmex Labs' BVIV Index rose to above 43.5 after hitting a year-to-date low of 35.5 Friday.
+The US Treasury's announcement of a significant increase in the buyback of 20-year and 30-year bonds sent yields significantly lower. And it raises the attractiveness of higher-risk assets like Bitcoin to investors, according to Charlie Hayward, APAC regional director at RootstockCollective.
+Bitcoin's move reflects an alignment of macro and policy catalysts, according to Max Stuedlein, head of Partnerships at Sygnum APAC.
+"The Treasury's decision to double its buybacks of long-dated government debt is aimed at addressing long-term yield concerns, where borrowing costs have been rising on concerns over US debt levels and partial crowding out by debt issuances of hyperscalers," he said.
+Geoffrey Kendrick, global head of digital assets research at Standard Chartered, noted that the announcement from the US Treasury to increase the size of back-end support "is exactly the type of thing Bitcoin loves."
+"Investors should now be positioning for a move to $100,000 by year-end 2026," Kendrick added.
+"The moves in crypto have been so big in the last couple of days that it's triggered the second-largest ever short liquidation in history, " said Thomas Lee, co-founder and head of research at Fundstrat, adding that the sizable moves have pushed ether to a three-month high.
+Ether rose about 19% in the past seven days to $2,251, according to CoinGecko.
+Bitcoin had been stuck between support around $62,000 and resistance at $66,000 in the past six weeks, which became "rather frustrating for crypto traders, as the lack of volatility, even after bitcoin has effectively halved from its all-time high hit last October," said David Morrison, a senior market analyst at Trade Nation.`,
+    bodyJa: `ドナルド・トランプ米大統領がこのセクターの活性化が期待される法案の可決を議会に要請したことを受け、ビットコイン、イーサ、その他の仮想通貨が急騰した。
+トランプ大統領はまた、「永久先物」取引の本拠地としてトレーダーの間で人気を集めている分散型取引所ハイパーリキッドを規制する可能性も示唆した。 CoinGeckoのデータによると、Hyperliquidトークンは過去24時間で約20％上昇した。
+米国債利回りの低下もiシ​​ェアーズ・ビットコイン・トラストETF（IBIT）の取引を後押しし、ハイパーリキッドの見出しが出る前から30日間平均の4.5倍以上となっていた。 Volmex Labs の BVIV 指数によって測定されたビットコインのボラティリティは、金曜日に年初来安値の 35.5 を記録した後、43.5 以上に上昇しました。
+米財務省が20年債と30年債の買い戻し額を大幅に増額すると発表したことで、利回りは大幅に低下した。ルートストック・コレクティブのアジア太平洋地域ディレクター、チャーリー・ヘイワード氏によると、投資家にとってビットコインのような高リスク資産の魅力が高まるという。
+シグナムAPACのパートナーシップ部門責任者マックス・スチュードライン氏によると、ビットコインの動きはマクロと政策の触媒の連携を反映しているという。
+同氏は「長期国債の買い戻しを倍増させるという財務省の決定は、米国の債務水準やハイパースケール会社の債券発行による部分的なクラウディングアウトへの懸念から借入コストが上昇している長期利回りの懸念に対処することを目的としている」と述べた。
+スタンダードチャータードのデジタル資産調査グローバル責任者ジェフリー・ケンドリック氏は、バックエンドサポートの規模を拡大するという米財務省の発表は「まさにビットコインが好むタイプのものだ」と指摘した。
+「投資家は現在、2026年末までに10万ドルに到達する構えをしているはずだ」とケンドリック氏は付け加えた。
+ファンドストラットの共同創設者兼調査責任者であるトーマス・リー氏は、「ここ数日間の仮想通貨の動きは非常に大きく、史上2番目に大きな短期清算を引き起こした」と述べ、この大きな動きによりイーサ相場は3カ月ぶりの高値まで押し上げられたと付け加えた。
+CoinGeckoによると、イーサは過去7日間で約19％上昇し、2,251ドルとなった。
+トレード・ネイションのシニア市場アナリスト、デービッド・モリソン氏は、ビットコインは過去６週間、６万２０００ドル付近のサポート線と６万６０００ドルのレジスタンス線の間で板挟みになっており、「ビットコインが昨年１０月の史上最高値から事実上半分になった後でも、ボラティリティが欠如しているため、仮想通貨トレーダーにとってかなりイライラすることになった」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+    publishedAt: "2026-08-20T05:29:50+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "sk-hynix-shares-surge-over-12-in-seoul-a-f6b73868",
+    title: "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+    titleJa: "SKハイニックス株、大規模な自社株買いを発表後、ソウル市場で12％以上急騰",
+    summaryJa: "ＳＫハイニックスが大規模な自社株買いを発表したことを受け、木曜日、ソウル市場でＳＫハイニックスの株価は１２％以上急騰した。同社は、40兆ウォン（287億ドル）の自社株買い・消却プログラムを加速する一方、株主還元を2025年から2027年までに生み出される累積フリーキャッシュフローの50％以上に拡大することを追求していると述べた。",
+    bodyOriginal: `Shares of SK Hynix surged over 12% in Seoul on Thursday after the company announced a massive stock buyback.
+The company said it is accelerating its 40 trillion won ($28.7 billion) share repurchase and cancellation program, while pursuing a shareholder return expansion to over 50% of cumulative free cash flow generated between 2025 to 2027.
+"We believe the initiative is expected to serve as a meaningful floor for the share price, providing tangible downside support in the near term," said Peter Lee, an analyst at Citi. The buyback also reflects SK Hynix's confidence in its mid- to long-term growth outlook despite current memory sector headwinds, Lee added.
+The news come after the company said earlier this month it would invest 54 trillion Korean won to build new memory chip manufacturing plants, amid growing demand for components which are crucial for artificial intelligence.
+Meanwhile, other tech stocks in Asia also rose, recovering from losses the day before. Market sentiment was supported by gains in U.S. stocks, which snapped a three-day losing streak after yields on longer-dated U.S. Treasurys pulled back from multi-year highs.
+In South Korea, Samsung Electronics gained 8.69%, while Kakao was 4.41% higher.
+In Japan, SoftBank Group advanced 3.79%, while Nintendo was over 3% higher. Rakuten added 2.39%.
+Tech stocks have been seeing heightened volatility in recent sessions, with South Korea's semiconductor-heavy market whipsawing between steep losses and gains.`,
+    bodyJa: `ＳＫハイニックスが大規模な自社株買いを発表したことを受け、木曜日、ソウル市場でＳＫハイニックスの株価は１２％以上急騰した。
+同社は、40兆ウォン（287億ドル）の自社株買い・消却プログラムを加速する一方、株主還元を2025年から2027年までに生み出される累積フリーキャッシュフローの50％以上に拡大することを追求していると述べた。
+シティのアナリスト、ピーター・リー氏は「この構想は株価の意味のある下値として機能し、短期的には目に見える下値支援となると予想される」と述べた。リー氏は、現在のメモリセクターの逆風にも関わらず、自社株買いはSKハイニックスの中長期的な成長見通しに対する自信を反映しているとも付け加えた。
+このニュースは、同社が今月初め、人工知能に不可欠な部品の需要が高まる中、新たなメモリーチップ製造工場の建設に54兆韓国ウォンを投資すると発表した後に発表された。
+一方、アジアの他のハイテク株も前日の下落から回復して上昇した。米長期国債利回りが数年ぶりの高水準から低下したことを受け、米国株の上昇が市場心理を支え、３日の連敗を止めた。
+韓国ではサムスン電子が８．６９％上昇し、カカオは４．４１％上昇した。
+日本ではソフトバンクグループが3.79％上昇し、任天堂も3％以上上昇した。楽天は２．３９％を追加した。
+韓国の半導体比率の高い市場が大幅な下落と上昇の間で揺れ動いており、ハイテク株のボラティリティは最近の取引で高まっている。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+    publishedAt: "2026-08-20T03:30:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "canada-and-us-say-they-are-finalising-a-96d08eb8",
+    title: "Canada and US say they are finalising a trade deal",
+    titleJa: "カナダと米国は貿易協定を最終決定しつつあると発表",
+    summaryJa: "カナダと米国は貿易協定を最終決定しつつあると発表- 公開されました",
+    bodyOriginal: `Canada and US say they are finalising a trade deal
+- Published
+Canada and the US are finalising a highly anticipated trade deal, with President Donald Trump and Prime Minister Mark Carney touting it as a success.
+Trump said the proposed deal will be welcomed by US farmers and manufacturers, while Carney said it will secure "the best terms" for Canada's strategic sectors and provide certainty on the future of US-Canada trade.
+Trade negotiators met on Wednesday for the third time in as many days after Trump paused a new wave of tariffs he had threatened to impose overnight on a range of Canadian goods.
+Details on what the agreement includes have not yet been announced but reports suggest it may cover Canadian steel, aluminium and cars as well as US alcohol.
+Speaking to reporters on Wednesday after a 45-minute meeting with his Canadian counterpart, US Trade Representative Jamieson Greer said the Americans are "very happy" and the deal eliminates "some of the irritants" the US had with Canada.
+"We feel confident that we've reached an agreement that will not only continue to protect American workers, American jobs, American supply chains, but really strengthen the North American economy," Greer said.
+He said he will soon brief Congress and US stakeholders on the deal's details.
+Trump said Canada has agreed to eliminate tariffs on US farmers, though he did not specify which specific agricultural sectors would benefit.
+Asked whether the US will also reduce some tariffs it has placed on Canada, Trump said by "a little bit".
+In a post on X on Wednesday, Carney said "significant progress" had been made and they were moving towards an agreement that addresses "Canada's most important strategic sectors".
+What could be in the deal?
+Canada has been in pursuit of a deal that would have the US drop or reduce tariffs on its steel, aluminium, automobiles and lumber.
+Under a deal that could be completed by Friday, US tariffs on Canadian steel and aluminum would reportedly be cut to 25% from 50%.
+The US may also lower its headline tariff rate on Canadian-made vehicles from 25% to 15%, according to reports from US and Canadian media.
+The prime minister met his cabinet and leaders of Canadian provinces on Wednesday afternoon to brief them.
+Following Carney's meeting, Nova Scotia Premier Tim Houston said the prime minister asked provinces to return US alcohol to Canadian markets.
+"It's been something that has kind of really bothered the United States for so many reasons," Houston said. "Now, whether Canadians will really buy it when it's back on the shelf, that's a whole other discussion."
+Most Canadian provinces banned US alcohol sales last year in retaliation to Trump's tariffs.
+The US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.
+Asked on Wednesday if the latest deal will include significant concessions on dairy, Minister LeBlanc said that Canada's dairy supply management programme - which oversees production quotas and sets pricing and import quotas on dairy, eggs, and poultry - will remain "entirely intact".
+Polls suggest that a majority of Canadians would be unhappy if the Carney government made significant concessions to the US, with 56% surveyed by polling firm Leger, external saying they want Canada to take a hardline approach.
+But business organisations from both sides of the border have lobbied for a deal to be reached, cautioning that additional tariffs between the two trading partners would be harmful for both countries.
+Dennis Darby, president of Canadian Manufacturers and Exporters and a member of Carney's advisory committee on Canada-US trade, told the BBC he is optimistic a finalised deal is on the horizon.
+"The committee was informed this morning that the negotiations continue and that and we're close, and that's more positive than we've seen in some time," Darby said.
+He added that businesses hope this will be the first step towards a return to the terms set under the North American free trade agreement, known as USMCA, with most goods flowing tariff-free through Canada, the US and Mexico.
+Additional reporting by Peter Hoskins
+Related topics
+- Published15 hours ago
+- Published23 July`,
+    bodyJa: `カナダと米国は貿易協定を最終決定しつつあると発表
+- 公開されました
+カナダと米国は大いに期待されていた貿易協定をまとめつつあり、ドナルド・トランプ大統領とマーク・カーニー首相はそれが成功したと宣伝している。
+トランプ大統領は、合意案は米国の農家や製造業者に歓迎されるだろうと述べ、カーニー氏はカナダの戦略部門にとって「最良の条件」を確保し、米国・カナダ貿易の将来に確実性をもたらすと述べた。
+通商交渉担当者らは水曜日、トランプ大統領がカナダの幅広い製品に課すと脅していた新たな関税の発動を一夜にして一時停止してから数日で３回目の会合を行った。
+協定に含まれる内容の詳細はまだ発表されていないが、報道によると、米国のアルコールだけでなくカナダの鉄鋼、アルミニウム、自動車も対象となる可能性がある。
+ジェイミソン・グリア米通商代表部代表は水曜日、カナダ側との45分間の会談後記者団に対し、米国側は「非常に満足」しており、今回の協定により米国とカナダが抱えていた「イライラの一部」が解消されると述べた。
+グリア氏は「米国の労働者、米国の雇用、米国のサプライチェーンを守り続けるだけでなく、北米経済を真に強化する合意に達したと自信を持っている」と述べた。
+同氏は近く議会と米国の関係者に協定の詳細について説明する予定だと述べた。
+トランプ大統領は、カナダが米国の農家に対する関税を撤廃することに同意したと述べたが、具体的にどの農業部門が恩恵を受けるかは明らかにしなかった。
+米国がカナダに課している関税の一部も引き下げるかとの質問に対し、トランプ大統領は「少しずつ」と述べた。
+カーニー長官は水曜日のＸへの投稿で、「重大な進展」が見られ、「カナダの最も重要な戦略分野」に取り組む合意に向けて進んでいると述べた。
+取引には何が含まれる可能性がありますか?
+カナダは米国に対し、鉄鋼、アルミニウム、自動車、木材に対する関税を撤回または引き下げさせる合意を追求してきた。
+金曜日までに完了する可能性のある合意の下では、カナダの鉄鋼とアルミニウムに対する米国の関税は50％から25％に引き下げられると伝えられている。
+米国とカナダのメディアの報道によると、米国はカナダ製自動車に対する総合関税率を25％から15％に引き下げる可能性もある。
+首相は水曜午後、閣僚やカナダ各州の指導者らと会い、説明を行った。
+カーニー長官の会談後、ノバスコシア州のティム・ヒューストン首相は、首相が州に対し米国産アルコールをカナダ市場に戻すよう要請したと述べた。
+「これは非常に多くの理由から米国を非常に悩ませてきたことだ」とヒューストン氏は語った。 「さて、それが棚に戻ったときにカナダ人が本当に買うかどうかは、また別の議論です。」
+カナダのほとんどの州は昨年、トランプ大統領の関税への報復として米国でのアルコール販売を禁止した。
+一方、米国はカナダに対し、米国製自動車に対する残りの報復関税の撤廃や、米国のチーズ生産者のアクセス拡大を可能にする乳製品割り当ての調整など、多くの譲歩を求めている。
+ルブラン大臣は水曜日、最新の合意に乳製品に関する大幅な譲歩が含まれるかとの質問に対し、乳製品、卵、家禽肉の生産割当を監督し、価格設定と輸入割当を設定するカナダの乳製品供給管理プログラムは「完全にそのまま」残ると述べた。
+世論調査によると、カーニー政権が米国に大幅な譲歩をした場合、カナダ人の大多数が不満を抱いており、世論調査会社レジャーの調査では56％がカナダに強硬なアプローチを取ることを望んでいると外部から回答している。
+しかし、国境の両側の経済団体は、両国の貿易相手国間の追加関税は両国にとって有害で​​あると警告し、合意の成立を求めてロビー活動を行っている。
+カナディアン・マニュファクチャラー・アンド・エクスポータズの社長であり、カーニー首相のカナダと米国の貿易に関する諮問委員会のメンバーでもあるデニス・ダービー氏はBBCに対し、最終的な合意が間近に迫っていると楽観的であると語った。
+ダービー氏は「委員会は今朝、交渉が継続しており、交渉は近づいていると知らされた。これは我々がこれまでに見たよりも前向きな内容だ」と述べた。
+同氏は、企業はこれがUSMCAとして知られる北米自由貿易協定（カナダ、米国、メキシコを経由してほとんどの商品が無関税で流れる）に基づいて設定された条件への復帰に向けた第一歩となることを期待していると付け加えた。
+Peter Hoskins による追加レポート
+関連トピック
+- 15 時間前に公開
+- 7 月 23 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T03:10:48+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg",
+    readTime: 5,
+  },
+  {
     id: "us-national-debt-passes-40tn-after-doubl-93f954b0",
     title: "US national debt passes $40tn after doubling in a decade",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -285,6 +569,20 @@ Instagram (外部)、YouTube、外部 X (外部)、および Facebook (外部) �
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd6/live/e0b60a90-9194-11f1-9e9c-c71e84be4584.jpg",
     readTime: 7,
+  },
+  {
+    id: "my-son-does-not-work-yet-pays-500-for-af-aaa7eab0",
+    title: "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
+    titleJa: "私の息子は働いていませんが、医療費負担適正化法の健康保険に 500 ドルを払っています。それは公平ですか？",
+    summaryJa: "「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」",
+    bodyOriginal: `“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”`,
+    bodyJa: `「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+    publishedAt: "2026-08-19T23:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-15414148",
+    readTime: 2,
   },
   {
     id: "i-quit-my-80-000-job-to-make-ice-cream-h-df234dfc",
@@ -695,6 +993,60 @@ After Greer met again with Canada-U.S. Trade Minister Dominic LeBlanc in Washing
     publishedAt: "2026-08-19T16:40:21+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "nvidia-plays-matchmaker-in-nordics-sourc-2d39164d",
+    title: "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+    titleJa: "AIデータセンター取引がこの地域でブームになる中、NVIDIAが北欧で仲人の役割を果たしている、と情報筋がCNBCに語った",
+    summaryJa: "Nvidia は、安価な電力と利用可能な土地がこの地域の AI インフラストラクチャ ブームを促進するため、GPU 顧客を北欧のデータセンター オペレーターと結び付けようとしています。",
+    bodyOriginal: `Nvidia is playing matchmaker, trying to connect companies with its graphics processing units to data-center operators that have the capacity to deploy them in the Nordics, sources have told CNBC.
+While Nvidia has established an effective monopoly over the most powerful AI chips, it has worked to exert greater influence across the AI ecosystem as the race to build infrastructure accelerates. That reach extends through its software stack, relationships with governments and direct investments in other companies.
+The chip giant has also sought a role in AI infrastructure deals. Two sources familiar with the matter have told CNBC that Nvidia has offered to introduce companies with data centers in the Nordics, an increasingly sought-after AI infrastructure region, to firms with its GPUs that are in the market for capacity.
+The sources asked to remain anonymous when discussing private information.
+How Nvidia is playing matchmaker for AI infrastructure
+Their accounts add context to remarks by Nvidia Chief Financial Officer Colette Kress, who said in June that Nvidia had "certainly engaged" in "matchmaking" with companies. "How can we help them obtain land, power, shell?" she added. "How do we help them in terms of standing up the compute as fast as possible for what they need to do?"
+Gigawatts of data-center capacity are due to be built in the Nordics in the coming years, thanks to access to power and abundant land. Neoclouds and hyperscalers including Nebius and Microsoft have inked deals in the region in 2026.
+One source said that Nvidia had reached out to a data-center company, sounding out potential offtakers: customers that commit to buying or leasing computing capacity.
+This is part of what Nvidia sees as its "value proposition to GPU customers," the source said, adding that the chip giant "often" didn't name the companies on whose behalf it was reaching out.
+The other source told CNBC that Nvidia had also made introductions between a company building AI infrastructure and those with GPUs in the U.S. and Asia. Nvidia is "helping make sure people who have money and demand for GPUs also have data center space," they added.
+Nvidia did not respond to a request for comment from CNBC.
+The company typically sells its chips to original equipment manufacturers, or OEMs, which then build them into racks and servers before selling them on. But it often has relationships with the companies buying the end product.
+Why the Nordics are attracting AI data centers
+Access to power and land attracts builders to the Nordics, while the cooler climate is appealing as data centers need to keep chips from overheating.
+Numerous multi-hundred-megawatt facilities have been announced in Finland and Norway in recent months.
+Pure DC said in July it would invest 1.5 billion euros ($1.74 billion) to build a 110 MW campus in Finland, with the potential to scale beyond 550 MW. Arcem has plans for a site with up to 500 MW of capacity. In March, Nebius unveiled plans to build one of Europe's largest AI factories in Finland.
+In April, Microsoft announced it would take up extra computing capacity at an Nscale site in Norway.
+There is currently 2.3 GW of data center capacity queuing for future connections to the power grid, according to Statnett, the Norwegian grid operator.
+Oslo, Stockholm and Helsinki are among the top six locations worldwide for future data-center development potential, according to a report this month from real estate company Savills.
+"For AI-driven data centre growth, the Nordics offer one of the clearest delivery propositions globally," Rupert Duckworth, associate director, EMEA Data Centre Advisory at Savills, said in the report.
+"The region has increasingly become a focus for large-scale, AI-oriented development – with significant new campuses now progressing."`,
+    bodyJa: `Nvidiaは仲人役を務めており、自社のグラフィックス処理装置を保有する企業と、それを北欧に展開する能力を持つデータセンター事業者とを結び付けようとしていると関係者がCNBCに語った。
+Nvidia は、最も強力な AI チップに対する事実上の独占を確立する一方で、インフラストラクチャの構築競争が加速する中、AI エコシステム全体にさらに大きな影響力を及ぼすことに取り組んできました。その範囲は、ソフトウェア スタック、政府との関係、および他の企業への直接投資にまで及びます。
+半導体大手はAIインフラ取引における役割も模索している。この件に詳しい2人の関係筋がCNBCに語ったところによると、NVIDIAは、AIインフラストラクチャ地域としてますます需要が高まっている北欧にデータセンターを持つ企業を、容量市場で同社のGPUを導入している企業に紹介することを申し出たという。
+関係者らは、個人情報について話し合う際には匿名でいることを求めた。
+Nvidia が AI インフラストラクチャの仲人役をどのように果たしているか
+彼らの説明は、NVIDIA が企業との「マッチング」に「確かに取り組んでいる」と 6 月に述べた Nvidia 最高財務責任者 Colette Kress の発言に文脈を加えるものである。 「どうすれば彼らが土地、権力、貝殻を手に入れることができるでしょうか？」彼女は付け加えた。 「必要な作業のためにできるだけ早くコンピューティングを立ち上げるという点で、彼らをどのように支援できるでしょうか?」
+電力と豊かな土地へのアクセスのおかげで、北欧にはギガワット規模のデータセンター容量が今後数年で建設される予定です。ネオクラウドと、Nebius や Microsoft を含むハイパースケーラーは、2026 年にこの地域で契約を締結しました。
+ある情報筋によると、NVIDIA はデータセンター会社に連絡を取り、潜在的なオフテイカー、つまりコンピューティング容量の購入またはリースを約束する顧客を打診したという。
+これは、Nvidia が「GPU 顧客への価値提案」と考えているものの一部であると関係者は述べ、半導体大手は「多くの場合」、代理で手を差し伸べている企業の名前を明かさないと付け加えた。
+別の関係者はCNBCに対し、NVIDIAはAIインフラを構築する企業と、米国およびアジアのGPUを搭載する企業との間でも紹介を行ったと語った。 Nvidiaは「資金とGPUの需要がある人々がデータセンターのスペースも確保できるよう支援している」と付け加えた。
+エヌビディアはCNBCからのコメント要請に応じなかった。
+同社は通常、自社のチップを相手先ブランド供給メーカー (OEM) に販売し、OEM がラックやサーバーに組み込んでから販売します。しかし、多くの場合、最終製品を購入する企業と関係があります。
+北欧が AI データセンターを誘致する理由
+電力と土地へのアクセスが北欧に建設業者を惹きつける一方で、データセンターはチップの過熱を防ぐ必要があるため、涼しい気候も魅力的です。
+ここ数カ月間、フィンランドとノルウェーで数百メガワットの施設が多数発表された。
+Pure DCは7月、フィンランドに110MWのキャンパスを建設するために15億ユーロ（17億4000万ドル）を投資し、550MWを超えて拡張する可能性があると発表した。 Arcem には、最大 500 MW の容量を持つサイトの計画があります。ネビウスは3月、フィンランドにヨーロッパ最大級のAI工場を建設する計画を発表した。
+Microsoftは4月、ノルウェーのNscaleサイトで追加のコンピューティング能力を占有すると発表した。
+ノルウェーの送電網運営会社スタットネットによると、将来の電力網への接続に備えて、現在 2.3 GW のデータセンター容量が待機中です。
+不動産会社サヴィルズの今月のレポートによると、オスロ、ストックホルム、ヘルシンキは、将来のデータセンター開発の可能性がある世界の上位6カ所に入っている。
+サヴィルズのEMEAデータセンターアドバイザリー担当アソシエイトディレクター、ルパート・ダックワース氏はレポートの中で、「AI主導のデータセンターの成長に関して、北欧諸国は世界的に最も明確な提供提案の1つを提供している」と述べた。
+「この地域は、大規模な AI 指向の開発の焦点となっており、現在、大規模な新しいキャンパスの建設が進んでいます。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+    publishedAt: "2026-08-19T14:25:12+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
   },
   {
@@ -1520,432 +1872,6 @@ The allies had planned 14 combined field-training programs alongside this year's
     publishedAt: "2026-08-19T01:15:50+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "cerebras-s-stock-has-been-a-post-ipo-bus-5cf5f538",
-    title: "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
-    titleJa: "セレブラス株はIPO後に暴落した。その復活はこの新しいチップにかかっています。",
-    summaryJa: "セレブラスは、AIエージェントの普及が進むにつれて、自社の特殊チップが従来のグラフィックス処理装置を上回るだろうと賭けている。",
-    bodyOriginal: `Cerebras is betting that its specialized chips will outpace traditional graphics processing units as AI agents become more widespread.`,
-    bodyJa: `セレブラスは、AIエージェントの普及が進むにつれて、自社の特殊チップが従来のグラフィックス処理装置を上回るだろうと賭けている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
-    publishedAt: "2026-08-19T00:00:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-27084533",
-    readTime: 2,
-  },
-  {
-    id: "we-are-committed-christians-our-son-and-15c12426",
-    title: "‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?",
-    titleJa: "「私たちは献身的なクリスチャンです」: 私たちの息子と嫁は、政治的議論の後、私たちを人生から遠ざけました。 300万ドルの遺言書を変更すべきでしょうか？",
-    summaryJa: "「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」",
-    bodyOriginal: `“We are hurt and confused, but we have also tried to respect the boundaries they have established.”`,
-    bodyJa: `「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-    publishedAt: "2026-08-18T23:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-01814240",
-    readTime: 2,
-  },
-  {
-    id: "nukes-all-around-a-fraying-u-s-nuclear-u-6a0d5c85",
-    title: "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade",
-    titleJa: "あちこちに核兵器？米国の核の傘のほころびが同盟国に防衛オプションの検討を迫り、拡散カスケードのリスクを高めている",
-    summaryJa: "何十年もの間、世界中の同盟国は米国の核の傘の快適さの中で安息し、自国の大量破壊兵器は必要ないと確信していた。ドナルド・トランプ大統領の最新の2026年国防戦略で拡大抑止に関する明確な言及が削除され、同盟国に国防にもっと自国の資金を支出するよう圧力をかけたことで、その信念は急速に消えつつある。",
-    bodyOriginal: `For decades, allies worldwide rested in the comfort of the U.S. nuclear umbrella, confident they didn't need their own weapons of mass destruction.
-That belief is rapidly evaporating as President Donald Trump's latest National Defense Strategy for 2026 dropped any explicit mention of extended deterrence and has pressed allies to spend more of their own money on defenses.
-The change is prompting more governments to reconsider whether to acquire nuclear weapons of their own, raising the risk of a proliferation cascade, analysts say.
-Allies almost universally perceive Washington as becoming more "disengaged and unreliable," prompting "various flavors of strategic autonomy," said Ankit Panda, senior fellow in the Nuclear Policy Program of the Carnegie Endowment for International Peace.
-Most recently, U.S. President Donald Trump ordered a reduction in joint military exercises with ally South Korea, saying that the exercises sent a signal that was "totally inappropriate and hostile" to North Korea.
-Earlier last month, the U.S. opened talks on peaceful South Korean enrichment and reprocessing, and signed a Saudi civil-nuclear pact that reportedly could create a path to domestic enrichment.
-In a bid to strengthen Europe's independence, French President Emmanuel Macron announced in March the country's first warhead increase since 1992 and promised to extend its nuclear umbrella to other countries in the bloc under the so-called "forward deterrence" partnership. Nine countries, including Germany and Greece, have joined the initiative.
-Japan is also doing more in the nuclear defense realm under Prime Minister Sanae Takaichi, whose reluctance to rule out revising Japan's three non-nuclear principles late last year has drawn scrutiny, fueling speculation that she could shift away from the decades-old commitment to refrain from assuming any role in deployment of nuclear weapons.
-Leaders of Lithuania and Finland, both sharing a border with Russia, have moved closer to scrapping the longstanding ban on domestic deployment of nuclear weapons.
-None of these developments amounts to a decision to build a bomb — but one state's efforts to increase its security can leave adversaries feeling less secure, potentially encouraging them to strike first, said Shounak Set, a research fellow at the S. Rajaratnam School of International Studies in Singapore.
-"You cannot build or deploy a nuclear deterrent without immediately raising tensions and forcing adversaries to react," said Andrew Facini, senior fellow at the Council on Strategic Risks, possibly accelerating the security risks a proliferator is trying to avoid.
-Defense ministries in the U.S. and Japan, as well as the European External Action Service, the bloc's diplomatic service office, did not respond to CNBC's requests for comments.
-The best example now is Iran, whose pursuit of enriched uranium was at least partially responsible for the current war in the Middle East. The Trump administration has repeatedly said that "Iran cannot be allowed to have a nuclear weapon," and the joint U.S.-Israeli strikes in 2025 were aimed at that objective.
-While Iran is not known to have a nuclear weapon, now, with the war, "we don't know if by the act of attacking them we have pushed the Iranians, fully and finally, to decide to actually go nuclear, which is a decision they had not made as of yet," said Alexandra Bell, president and CEO of the Bulletin of Atomic Scientists.
-'Arms race dynamic'
-All nine nuclear-armed states — the U.S., Russia, China, the U.K., France, India, Pakistan, North Korea and Israel — have continued to modernize and expand their arsenals, fueling an arms race that researchers say has "new risk" of miscalculation amid escalating tensions.
-The evidence is growing that the nuclear weapon states are sidelining, and even walking away from, their disarmament commitments and are instead flexing their nuclear muscles.Hans KristensenSenior Fellow, Stockholm International Peace Research Institute
-Russia and the U.S. together remain the overwhelming nuclear powers, together possessing around 83% of useable nuclear warheads, according to a June report by the Stockholm International Peace Research Institute. "By reaching for nuclear solutions, states are creating new risks and fueling arms-race dynamics," Hans Kristensen, a senior fellow at the firm, said in the report.
-He added that countries' accelerated push for nuclear weapons will likely reverse decades of demobilization efforts in the coming years.
-"The evidence is growing that the nuclear weapon states are sidelining, and even walking away from, their disarmament commitments and are instead flexing their nuclear muscles," said Kristensen.
-Out of the over 12,000 nuclear warheads owned by nuclear powers, more than 9,000 are held in military stockpiles for potential use. An estimated 4,012 warheads were deployed with missiles and aircraft, while up to 2,200 were kept on high alert, meaning they could be launched within minutes.
-A more dangerous place
-A Carnegie report in September last year put it bluntly, saying that "if more actors acquire them — whether friendly or unfriendly nations or subnational groups — the world will be a more dangerous place, for the United States and for everyone else."
-"A proliferation cascade is a compounding risk," said Facini, as every new nuclear state multiplies the chances for miscalculation, shrinks decision-making windows, and potentially sparks "regional arms-races where even conventional clashes can carry existential stakes."
-Introducing nuclear weapons into volatile regional disputes also drastically raises the stakes for unintended escalation, Facini added.
-A new round of review held at United Nations headquarters in May failed to reach a consensus, with UN Secretary-General Antonio Guterres warning that the Nuclear Non-Proliferation Treaty is "eroding."
-The treaty, entered into force in 1970 and extended indefinitely in 1995, has as its central bargain that non-nuclear states agree never to acquire nuclear weapons, while nuclear states share the benefits of peaceful nuclear technology and pursue nuclear disarmament.
-The treaty has "by and large stemmed the flow of mass proliferation," said Bell. Without those safeguards, more nuclear material, facilities and expertise would be in circulation, raising the risk of nuclear terrorism, albeit from a low base, she said.
-Bell urged Washington to reduce the incentives for other states to acquire nuclear weapons. "Building things is hard. Breaking things is very easy," she said. "If we break the NPT, we may never recover from that lapse in security."`,
-    bodyJa: `何十年もの間、世界中の同盟国は米国の核の傘の快適さの中で安息し、自国の大量破壊兵器は必要ないと確信していた。
-ドナルド・トランプ大統領の最新の2026年国防戦略で拡大抑止に関する明確な言及が削除され、同盟国に国防にもっと自国の資金を支出するよう圧力をかけたことで、その信念は急速に消えつつある。
-この変化により、より多くの政府が独自の核兵器を取得するかどうか再考するようになっており、拡散カスケードのリスクが高まっているとアナリストらは指摘する。
-カーネギー国際平和基金の核政策プログラムの上級研究員、アンキット・パンダ氏は、同盟国はほぼ普遍的に、ワシントンがより「無関心で信頼性が低く」なり、「さまざまな戦略的自律性」を促していると認識していると述べた。
-つい最近、ドナルド・トランプ米大統領は、同盟国である韓国との合同軍事演習が北朝鮮に対して「全く不適切で敵対的な」シグナルを送っているとして、合同軍事演習の縮小を命令した。
-先月初め、米国は韓国の平和的濃縮と再処理に関する協議を開始し、国内濃縮への道を築く可能性があると伝えられるサウジ民間核協定に署名した。
-欧州の独立強化を目指し、フランスのエマニュエル・マクロン大統領は３月、１９９２年以来初めて弾頭の増加を発表し、いわゆる「前方抑止」パートナーシップの下で域内の他国に核の傘を広げることを約束した。ドイツやギリシャなど９カ国がこの構想に参加した。
-日本はまた、高市早苗首相の下で核防衛分野での取り組みを強化している。昨年末、高市早苗首相が日本の非核三原則の見直しを否定することに消極的だったことで厳しい目が向けられ、同首相が核兵器の配備においていかなる役割も果たさないという数十年来の公約から転換するのではないかとの憶測が高まっている。
-ロシアと国境を接するリトアニアとフィンランドの指導者は、長年にわたる国内への核兵器配備の禁止規定の廃止に近づいている。
-これらの進展はいずれも爆弾製造の決定には至らないが、ある州が治安を強化しようとする取り組みによって敵対者の安全感が低下し、先制攻撃を促す可能性があるとシンガポールのS・ラジャラトナム国際大学院の研究員ショーナク・セット氏は述べた。
-戦略リスク評議会の上級研究員アンドリュー・ファシーニ氏は、「ただちに緊張を高め、敵対者に反応を強いることなしに、核抑止力を構築したり配備したりすることはできない」と述べ、拡散国が避けようとしている安全保障上のリスクを加速させる可能性があると述べた。
-米国と日本の防衛省、および欧州連合の外交局である欧州対外活動局は、CNBCのコメント要請に応じなかった。
-その最良の例はイランであり、イランの濃縮ウランの追求は、少なくとも部分的には現在の中東戦争の原因となっている。トランプ政権は「イランの核兵器保有は許されない」と繰り返し述べており、２０２５年の米イスラエル共同攻撃はその目的を狙ったものだった。
-イランが核兵器を保有していることは知られていないが、戦争が起こったことで、「我々がイランを攻撃するという行為によって、イラン人に完全かつ最終的に実際に核武装する決断を迫ったのかどうかは分からないが、それは彼らがまだ決断していなかったものだ」と原子力科学者会報の社長兼最高経営責任者（CEO）のアレクサンドラ・ベル氏は述べた。
-「軍拡競争のダイナミックさ」
-米国、ロシア、中国、英国、フランス、インド、パキスタン、北朝鮮、イスラエルの核保有国9か国はすべて、兵器の近代化と拡大を続けており、軍拡競争を煽っており、緊張が高まる中で誤算の「新たなリスク」があると研究者らは指摘している。
-核兵器国が軍縮公約を傍観し、さらにはそれから遠ざかり、代わりに核の筋力を強化しているという証拠が増えている。ハンス・クリステンセン、ストックホルム国際平和研究所上級研究員
-ストックホルム国際平和研究所の6月の報告書によると、ロシアと米国は依然として圧倒的な核保有国であり、使用可能な核弾頭の約83％を両国で保有している。同社の上級研究員ハンス・クリステンセン氏は報告書の中で、「各国は核解決に手を伸ばすことで新たなリスクを生み出し、軍拡競争の力学を加速させている」と述べた。
-同氏は、各国の核兵器推進の加速により、数十年にわたる動員解除の取り組みが今後数年間で逆転する可能性が高いと付け加えた。
-「核兵器国が軍縮への約束を傍観し、さらにはそれから遠ざかり、代わりに核の筋力を曲げているという証拠が増えている」とクリステンセン氏は述べた。
-核保有国が保有する12,000発を超える核弾頭のうち、9,000発以上が使用の可能性のために軍事備蓄されている。推定4,012発の弾頭がミサイルや航空機とともに配備され、最大2,200発が厳戒態勢に置かれており、数分以内に発射される可能性がある。
-もっと危険な場所
-昨年9月のカーネギー報告書は、それを率直に述べ、「友好国か非友好国か準国家集団かを問わず、より多くの主体がそれらを獲得すれば、世界は米国にとっても他のすべての人にとっても、より危険な場所になるだろう」と述べた。
-ファチーニ氏は、新たな核保有国が誕生するたびに誤算の可能性が増大し、意思決定の枠が狭まり、「従来の衝突でも存亡を賭けた地域軍拡競争」を引き起こす可能性があるとして、「核拡散のカスケードはリスクを増大させる」と述べた。
-ファチーニ氏は、不安定な地域紛争に核兵器を持ち込むことは、意図せぬエスカレーションのリスクを大幅に高めるとも付け加えた。
-5月に国連本部で開かれた新たな再検討ラウンドでは合意に達せず、アントニオ・グテーレス国連事務総長は核不拡散条約が「侵食されている」と警告した。
-この条約は1970年に発効し、1995年に無期限延長されたもので、核保有国は平和的核技術の恩恵を共有し、核軍縮を追求する一方、非核国は決して核兵器を取得しないことに同意することが中心的な取り決めとなっている。
-ベル氏は、この条約は「おおむね大量拡散の流れを食い止めた」と述べた。これらの保障措置がなければ、より多くの核物質、施設、専門知識が流通し、たとえ低水準であっても核テロのリスクが高まるだろうと彼女は述べた。
-ベル氏はワシントンに対し、他国が核兵器を取得する動機を減らすよう求めた。 「物を作るのは難しい。物を壊すのはとても簡単だ」と彼女は言う。 「NPTを破れば、安全保障の喪失からは決して回復できないかもしれない。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
-    publishedAt: "2026-08-18T23:25:38+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "the-critical-tech-staying-safe-by-going-8c294853",
-    title: "The critical tech staying safe by going underground",
-    titleJa: "重要な技術は地下に潜って安全を確保",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The critical tech staying safe by going underground
-- Published
-A wall of white granite towered above a small team of engineers gathered in a California quarry. The ancient, ultra-hard material before them was, to most things, completely impermeable.
-Then the rock-melting tunnel-boring machine (TBR) roared to life.
-"It's kind of like igniting a rocket," says Troy Helming, founder and chief executive of EarthGrid, as he describes the initially loud process of lighting up three plasma torches at the front of his company's machine.
-Those torches, set within a spinning head, soon quieten down as they produce a stream of super-heated plasma reaching 27,000C - significantly hotter than the surface of the Sun.
-During the California test this January, EarthGrid's cigar-shaped boring machine chewed through three metres of granite. "We create, basically, a tornado – a violent vortex inside the tunnel," says Helming, as he explains how this helps the machine to suck away debris, which at times takes the form of lava.
-"I actually got a little bit emotional watching it," adds the entrepreneur. "I've been waiting for this moment for 10 years."
-Emerging technologies like this could make tunnel boring quicker and easier. Putting electricity or telecommunications cables, substations, data centres and other critical infrastructure underground, while good for securing such equipment, has long been a very expensive and difficult option.
-Engineering firms told BBC News they are seeing rising demand for undergrounding, in part due to Russia's war with Ukraine, which has revealed just how vulnerable above-ground facilities can be to drone attacks.
-Helming says he has fielded interest from companies that want to use his tunnel boring machine for power and fibre optic cables, or pipelines that could transport water, natural gas, or ammonia, for example.
-One project the company has eyed up would involve boring tunnels for an underground freight-distribution system around airports and warehouses. "To take more trucks off the road," says Helming.
-The January TBR test went well, though the machine "over-bored" slightly to the top and left of the tunnel, says Helming. His team plans to adjust the machine so that it will create a vortex that spins in alternate directions every five minutes or so, in order to correct this, and they hope the TBR could see commercial deployment as early as next year.
-Humans have long buried things in the ground to protect them. Doing it safely and cost-effectively with modern infrastructure is hard but sometimes, even in remotest places, it's an option worth taking.
-"What we're seeing is that brutal materiality is still important," says Alexander RE Taylor, senior lecturer in communications at the University of Exeter. He has identified what he calls a "data bunker boom", external in which data centres are increasingly going underground.
-One data centre completed earlier this year was installed in a corner of the Dolomite Mountains, external in Italy.
-Freshly excavated caverns 100m underground sit next to stores that have been used for sparkling wine, apples and cheese in recent years.
-Trentino DataMine's naturally cool space makes it cheaper and less energy-intensive to keep servers cool.
-Chief executive Dennis Bonn adds: "Ninety million cubic metres of dolomite rock provide natural protection against physical intrusion, electromagnetic interference, seismic events and hydrogeological risks - levels of protection that simply cannot be replicated above ground."
-Elsewhere, some tech is burrowing into the seabed. Subsea internet cables, which may run for thousands of kilometres beneath oceans, are occasionally damaged by ship anchors.
-There is evidence to suggest, external that, as burying part or all of the cables has become more common, faults with these cables have become rarer, per kilometre of deployed cable, explains Lane Burdette, senior analyst at TeleGeography, a telecoms market research firm.
-"Submarine cables are increasingly being buried up to three meters deep," she says. "In some fault-prone areas, they are buried along their entire lengths."
-Taylor says various examples demonstrate that keeping things underground, or deep inside caves, is an effective defensive strategy.
-"The tunnels that Al-Qaeda were using were a major strategic problem for the US [during the war in Afghanistan]," he adds. More recently, Iran's notoriously difficult-to-bust underground nuclear facilities have gained much attention.
-The war in Ukraine, and other geopolitical events, have "definitely had an impact" on demand for undergrounding in some areas, says Robbie McGoran, head of work winning and business development at Joseph Gallagher, a civil engineering and tunnelling firm.
-Countries bordering Russia are increasingly asking about undergrounding. "They're very cautious about who they'll even let do their work – and also burying [infrastructure] and making sure it's well protected. We are noticing that," he adds.
-McGoran also says that technologies such as laser-guidance systems and gyroscopes, which help machines work out their position relative to the world around them, have made tunnelling more accurate in recent years.
-However, there are still significant challenges, from releasing potentially dangerous gases locked in the ground to occasional flooding issues. Dramatic innovation in tunnel boring equipment, significantly increasing the rate at which tunnels can be carved out, does not come along very often.
-"We usually measure [progress] in millimetres per minute," says McGoran.
-In the UK, there isn't a noticeable shift towards putting critical infrastructure underground yet, says Mark Neller, energy leader for Europe, India, Middle East and Africa at engineering consultants Arup.
-Though in some places, tunnels are clearly necessary. Neller and colleagues worked on the £1bn London Power Tunnels project, which involved building 18 miles (29km) of tunnels under London to house large electricity cables.
-This was the perfect choice for such a busy urban area but because tunnelling can be several times more expensive than above-ground cable infrastructure, Neller says that, elsewhere, simply installing additional circuits can provide sufficient resilience.
-"That's actually a much more cost-effective way," he says. "The electricity system [in Great Britain] is designed with quite a lot of redundancy built into it."
-Richard Little, infrastructure policy consultant and editor of the Journal of Critical Infrastructure Policy, remembers the latter days of the Cold War, when it was the threat of all-out nuclear war that made bunker-building a frequent talking point in the West.
-To this day, Switzerland mandates that every citizen must have access to a nuclear bunker, external. Many apartment buildings in the country have such facilities in their basements.
-"A lot of it was real Dr Strangelove stuff," says Little, referring to discussions around bunker-building during President Ronald Reagan's administration. "The world's going to end but I guess we'll maybe harbour a few hundred critical people down here and they'll survive."
-Little, who authored policy documents regarding underground critical infrastructure, external during the 1990s, adds, "It became obvious rather quickly that you can't put everything underground."
-Today, it might be worth identifying specific facilities that would be difficult to restart or replace, were they attacked, as candidates for undergrounding. "The first thing that occurred to me was [computer] chip manufacturing," says Little, offering an example.
-"Underground facilities, I'm sure in certain instances, would make a great deal of sense – but it's all about what's critical."
-Related topics
-More Technology of Business
-- Published3 July
-- Published12 June
-- Published26 June`,
-    bodyJa: `重要な技術は地下に潜って安全を確保
-- 公開されました
-白い花崗岩の壁が、カリフォルニアの採石場に集まった少数の技術者チームの上にそびえ立っていた。彼ら以前の古代の超硬質材料は、ほとんどのことに対して完全に不浸透性でした。
-そのとき、岩石を溶かすトンネル掘削機（TBR）が轟音を立てて動き始めました。
-EarthGrid の創設者兼最高経営責任者であるトロイ ヘルミング氏は、会社のマシンの前面にある 3 つのプラズマ トーチに点火する最初の騒々しいプロセスについて説明しながら、「ロケットに点火するようなものです」と語ります。
-回転ヘッド内に設置されたこれらのトーチは、太陽の表面よりもかなり高温の 27,000℃ に達する超加熱プラズマの流れを生成すると、すぐに静かになります。
-今年 1 月のカリフォルニアでのテストでは、アースグリッドの葉巻型ボーリングマシンが 3 メートルの花崗岩を噛み砕きました。 「基本的に、私たちは竜巻、つまりトンネル内に激しい渦を作り出します」とヘルミング氏は、これがどのようにして機械が瓦礫（時には溶岩の形をとる）を吸い取るのに役立つかを説明します。
-「実際、それを見て少し感情的になりました」と起業家は付け加えた。 「この瞬間を10年間待っていました。」
-このような新たなテクノロジーにより、トンネルのボーリングがより迅速かつ簡単になる可能性があります。電力ケーブルや通信ケーブル、変電所、データセンター、その他の重要なインフラを地下に設置することは、そのような機器の安全を確保するのには適していますが、長い間、非常に高価で困難な選択肢でした。
-エンジニアリング会社らはBBCニュースに対し、ロシアとウクライナ戦争の影響もあり、地上施設がドローン攻撃に対していかに脆弱であるかが明らかになり、地下化の需要が高まっていると語った。
-ヘルミング氏は、彼のトンネルボーリングマシンを電力ケーブルや光ファイバーケーブル、あるいは水、天然ガス、アンモニアなどを輸送できるパイプラインに使用したい企業からの関心を集めていると述べた。
-同社が注目しているプロジェクトの 1 つは、空港や倉庫の周囲に地下貨物配送システム用のトンネルを掘削することです。 「より多くのトラックを道路から排除するためです」とヘルミング氏は言う。
-1月のTBRテストはうまくいったが、マシンはトンネルの上部と左側でわずかに「オーバーボーリング」したとヘルミング氏は語った。彼のチームは、これを修正するために、約 5 分ごとに交互の方向に回転する渦を生成するように機械を調整することを計画しており、来年には TBR が商用配備されることを望んでいます。
-人間は長い間、物を守るために地面に物を埋めてきました。最新のインフラストラクチャを使用して安全かつ費用対効果の高い方法でそれを実行するのは困難ですが、場合によっては、たとえ最も遠隔地であっても、採用する価値のあるオプションです。
-「私たちが目にしているのは、残忍な物質性が依然として重要であるということです」とエクセター大学のコミュニケーション上級講師、アレクサンダー・RE・テイラーは言う。同氏は、外部ではデータセンターの地下化が進む、同氏が「データバンカーブーム」と呼んでいる現象を特定した。
-今年初めに完成した 1 つのデータセンターは、イタリア郊外のドロミテ山脈の一角に設置されました。
-地下 100 メートルに掘られたばかりの洞窟は、近年スパークリング ワイン、リンゴ、チーズの販売に使用されている店舗の隣にあります。
-Trentino DataMine の自然に涼しい空間により、サーバーを涼しく保つためのコストとエネルギー消費量が少なくなります。
-最高経営責任者のデニス・ボン氏は、「9,000万立方メートルのドロマイト岩石は、物理的侵入、電磁干渉、地震現象、水文地質学的リスクに対する自然の保護を提供します。これは、地上では再現できないレベルの保護です。」と付け加えています。
-他の場所では、いくつかの技術が海底に掘られています。海底インターネットケーブルは数千キロメートルも海底を通っているため、船のアンカーによって損傷を受けることがあります。
-通信市場調査会社テレジオグラフィーのシニアアナリスト、レーン・バーデット氏は、ケーブルの一部または全部を埋めることが一般的になるにつれて、ケーブルの敷設距離1キロメートル当たり、これらのケーブルの障害が発生することが少なくなっているということを示す証拠があると説明する。
-「海底ケーブルは、深さ 3 メートルまで埋設されるケースが増えています」と彼女は言います。 「断層が発生しやすい地域によっては、全長にわたって埋もれている場合もあります。」
-テイラー氏は、さまざまな例が、物を地下や洞窟の奥深くに保管することが効果的な防御戦略であることを示していると述べています。
-「アルカイダが使用していたトンネルは、（アフガニスタン戦争中）米国にとって大きな戦略的問題だった」と彼は付け加えた。最近では、破壊が難しいことで悪名高いイランの地下核施設が大きな注目を集めている。
-土木・トンネル工事会社ジョセフ・ギャラガーの事業開発部門責任者、ロビー・マクゴラン氏は、ウクライナ戦争やその他の地政学的な出来事が、一部地域の地下化需要に「間違いなく影響を与えている」と語る。
-ロシアと国境を接する国々では、地下化についての質問が増えている。 「彼らは自分たちの仕事を誰にやらせるかについても非常に慎重で、また（インフラを）埋めて、それがしっかりと保護されていることを確認している。私たちはそれに気づいている」と彼は付け加えた。
-マクゴラン氏はまた、レーザー誘導システムやジャイロスコープなどの技術により、機械が周囲の世界に対する相対的な位置を把握できるようになり、近年のトンネル掘削の精度が向上したとも述べている。
-しかし、地中に閉じ込められた潜在的に危険なガスの放出から時折起こる洪水の問題まで、依然として大きな課題が残っています。トンネルを掘削できる速度を大幅に向上させる、トンネル掘削装置の劇的な革新は、それほど頻繁に実現するものではありません。
-「私たちは通常、[進捗状況] を毎分ミリメートルで測定します」とマクゴーラン氏は言います。
-エンジニアリングコンサルタント会社アラップ社で欧州、インド、中東、アフリカのエネルギーリーダーを務めるマーク・ネラー氏は、英国では重要インフラの地下化に向けた目立った変化はまだ見られないと語る。
-場所によっては明らかにトンネルが必要ですが。ネラー氏と同僚は、ロンドン地下に大規模な電力ケーブルを収容するための 18 マイル (29 km) のトンネルを建設する、10 億ポンドのロンドン電力トンネル プロジェクトに取り組みました。
-これは、このような混雑した都市部にとっては完璧な選択でしたが、トンネリングは地上のケーブル インフラストラクチャに比べて数倍の費用がかかる可能性があるため、他の場所では追加の回路を設置するだけで十分な回復力を提供できるとネラー氏は言います。
-「それは実際にははるかに費用対効果の高い方法です」と彼は言います。 「[イギリスの]電力システムは、かなりの冗長性が組み込まれて設計されています。」
-インフラ政策コンサルタントであり、ジャーナル・オブ・クリティカル・インフラストラクチャー・ポリシーの編集者でもあるリチャード・リトル氏は、全面核戦争の脅威により西側諸国でバンカー建設が頻繁に話題になった冷戦末期のことを回想している。
-スイスは今日に至るまで、すべての国民が外部の核貯蔵庫にアクセスできることを義務付けている。国内の多くのアパートの地下室にはそのような設備が備わっています。
-「その多くは本物のドクター・ストレンジラブの話だった」とリトル氏は、ロナルド・レーガン大統領政権時代のバンカー建設を巡る議論について言及した。 「世界は滅びるだろうが、数百人の批判的な人々をここに匿って、彼らは生き残ることになるだろう。」
-1990年代に外部の地下重要インフラに関する政策文書を執筆したリトル氏は、「すべてを地下に置くことができないことはすぐに明らかになった」と付け加えた。
-今日では、攻撃された場合に再稼働または交換が困難となる特定の施設を地下化の候補として特定する価値があるかもしれません。 「最初に思いついたのは、（コンピューターの）チップの製造でした」とリトル氏は例を挙げて語る。
-「地下施設は、場合によっては非常に意味があると確信していますが、それはすべて何が重要かということです。」
-関連トピック
-ビジネスのさらなるテクノロジー
-- 7 月 3 日発行
-- 6 月 12 日発行
-- 6 月 26 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T23:25:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cffe/live/831c08d0-7b87-11f1-bee8-53ce494e1abc.jpg",
-    readTime: 9,
-  },
-  {
-    id: "banned-over-a-pair-of-2-sandals-why-som-332d2412",
-    title: "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-    titleJa: "「2 ポンドのサンダルで販売禁止」: 一部の販売者が Vinted について苦情を言う理由",
-    summaryJa: "「2 ポンドのサンダルで販売禁止」: 一部の販売者が Vinted について苦情を言う理由- 公開されました",
-    bodyOriginal: `'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted
-- Published
-Single mum Emma Neil was a huge fan of Vinted, using it most days to sell old things and buy clothes for her children.
-That was until she bought a pair of sandals for £3, found they didn't fit so relisted them for £2 then was permanently banned. Vinted said there had been "fraudulent activity, such as selling counterfeit items".
-"I did feel like a criminal," says Neil - one of several thousands complaining of being wrongly suspended or permanently banned, spending days trapped in a system of what they believe are AI generated responses.
-Vinted's preloved buying and selling community has grown rapidly with 17 million UK users - it says the "overwhelming majority" have a positive experience.
-However, Neil is one of more than 4,000 Vinted users who have logged their experiences on sadvintedfaces.com, a website set up by freelance marketeer Catherine Warrilow, who became so frustrated with the platform she decided to find out if others were having problems too.
-"It was the number of hours I was spending sending irate messages back to Vinted and getting what felt like automated responses, copy and paste... I was going round in circles, and I was the one losing out," she says.
-Warrilow logged 2,609 users being banned or suspended, 1,618 with a permanent ban and 2,526 who said they were ignored by Vinted customer service.
-"I think the automation they're using isn't working properly," says Warrilow.
-"It's detecting fraud if you change the price of something. It's detecting a counterfeit item for a second hand pair of Zara jeans."
-Matthew Connor is one of the biggest professional sellers on Vinted and relies on it for his livelihood with some ten thousand top reviews. He also thinks the system isn't working the way it used to.
-"I noticed at the start of this year, there were a lot of fake items on there. I think they panicked, rightly so...and they've reacted with AI."
-But last month, he found himself permanently banned because of "fraudulent activity, such as selling counterfeit items" after listing a used North Face fleece.
-"I wouldn't jeopardise my business by selling a fake. This is my livelihood," he said.
-"Essentially someone's walked into my business and sacked me, removed my business from the internet with no prior warning."
-Two weeks later, Connor had his ban lifted after he appealed. Vinted said it was a mistake. He's relieved but has also lost thousands of pounds of potential sales.
-Appeal failed
-Neil's appeal to have her ban overturned failed.
-"I don't understand how they could say that to me...it's just unbelievable," she said. "They weren't specifically branded. I think they're like a Shoe Zone make."
-"I'm absolutely devastated because I love Vinted and I used it for so long and for so many different things...but now obviously that's all ended."
-Vinted said it doesn't comment on individual cases. In a statement it said its teams worked hard every day to maintain a safe and trusted marketplace using a combination of trained moderation teams, member reports and detection tools to identify potential breaches of its catalogue rules.
-"Where members believe a decision has been made in error, they can appeal and each case will be reviewed individually by our Member Support Team," a Vinted spokesperson said.
-Has Vinted lost the human touch?
-An online business the size of Vinted with millions of transactions needs automation and communicates electronically with its users. But as it grows, has it lost the human touch?
-Consumer expert Helen Dewdney, who runs the Complaining Cow website, has recently seen a sharp increase in complaints and requests for advice about Vinted.
-"It does boil down to customer service," she believes.
-"We know that AI makes a lot of mistakes...it's too difficult to get to a human being... we know that people prefer people...you just ask anybody that they're sick of all the bots."
-Dewdney says anyone who believes they've been unfairly banned or suspended should first go through Vinted's own appeal process. She also suggests contacting Vinted's legal team and making a subject access request, or SAR, which can give users access to information about how a decision affecting their account was made.
-Vinted stresses that assessments of appeals are always carried out by its human review team.
-Too big, too fast?
-The Lithuanian based firm has built a business worth billions on a simple idea which has changed the way millions of us buy and sell second hand clothes. It's now in 26 countries and expanded into new services, like Vinted Pro for professional sellers and more categories including electronics and toys.
-For Connor, it's a no brainer as there are no fees for sellers. He says although the platform's "done a lot of things right" he believes it got "too big too fast".
-And he'd be prepared to pay a premium fee or fees on his sales to contribute to having "some sort of a human voice" to talk to.
-As for Warrilow, she just wants her old Vinted back.
-"I do believe they could fix it," she says.
-But until they do, she says she's staying off the platform as it wasn't worth the stress.
-Get in touch
-Share your experience with Vinted.`,
-    bodyJa: `「2 ポンドのサンダルで販売禁止」: 一部の販売者が Vinted について苦情を言う理由
-- 公開されました
-シングルマザーのエマ ニールはヴィンテッドの大ファンで、古いものを売ったり、子供たちの服を買ったりするためにほとんど毎日ヴィンテッドを利用していました。
-それは、彼女がサンダルを 3 ポンドで購入し、サイズが合わなかったために 2 ポンドで再出品し、その後永久に禁止されるまでのことだった。ヴィンテッド氏は「偽造品の販売などの詐欺行為」があったと述べた。
-「自分が犯罪者になったような気がした」とニールは言う。不当に資格停止や永久追放されたと訴え、AIが生成した反応だと思われるシステムに囚われて日々を過ごしている数千人のうちの1人だ。
-Vinted の人気の売買コミュニティは英国で 1,700 万人のユーザーを抱え急速に成長しており、「圧倒的多数」が肯定的な経験をしていると述べています。
-しかし、ニールは、フリーランスのマーケティング担当者のキャサリン・ウォリロウが設立した Web サイト、sadvintedfaces.com に体験を記録した 4,000 人以上の Vinted ユーザーのうちの 1 人です。ウォリロウはこのプラットフォームに非常に不満を感じ、他の人も問題を抱えているかどうかを調べようと決心しました。
-「Vinted に怒りのメッセージを送り返し、自動返信のようなものを受け取ったり、コピー アンド ペーストしたりするのに何時間も費やしました。私は堂々巡りをしていて、私だけが損をしていたのです」と彼女は言います。
-Warrilow は、2,609 人のユーザーが禁止または停止され、1,618 人が永久的な禁止処分を受け、2,526 人が Vinted カスタマー サービスから無視されたと回答したことを記録しました。
-「彼らが使用している自動化が適切に機能していないと思います」とウォリロウ氏は言う。
-「何かの価格を変更すると詐欺が検出されます。ZARA の中古ジーンズの偽造品が検出されます。」
-Matthew Connor は Vinted で最大のプロ販売者の 1 人であり、約 1 万件のトップレビューを Vinted に生計を立てています。同氏は、このシステムが以前のように機能していないとも考えている。
-「今年の初めに、そこには偽物の商品がたくさんあることに気づきました。彼らはパニックになったのだと思います、当然のことですが...そして彼らはAIで反応しました。」
-しかし先月、中古のノースフェイスフリースを出品した後、「偽造品の販売などの詐欺行為」を理由に永久追放処分を受けたことが判明した。
-「偽物を売ってビジネスを危険にさらすつもりはない。これが私の生計だ」と彼は語った。
-「要するに誰かが私の会社に侵入して私を解雇し、事前の警告もなく私のビジネスをインターネットから削除したのです。」
-2週間後、コナーさんは控訴し、出場停止処分が解除された。ヴィンテッドはそれは間違いだったと言いました。彼は安心したが、数千ポンドの潜在的な売上も失った。
-異議申し立ては失敗しました
-禁止を取り消してほしいというニールの訴えは失敗に終わった。
-「どうして彼らが私にそんなことを言えるのか理解できません…信じられないです」と彼女は語った。 「特別なブランド名はありませんでした。シューゾーンのメーカーのようなものだと思います。」
-「私は Vinted が大好きで、非常に長い間、さまざまな目的で Vinted を使用してきたので、完全に打ちのめされています。しかし、明らかにすべてが終わってしまったのです。」
-ヴィンテッド氏は、個別の事件についてはコメントしないと述べた。同社は声明で、訓練を受けたモデレーションチーム、会員レポート、カタログルール違反の可能性を特定する検出ツールを組み合わせて、チームが安全で信頼できる市場を維持するために日々懸命に取り組んでいると述べた。
-ヴィンテッドの広報担当者は、「決定が誤って行われたと会員が信じている場合、異議を申し立てることができ、各ケースは会員サポートチームによって個別に検討される」と述べた。
-ヴィンテッドは人間味を失ってしまったのだろうか？
-Vinted ほどの規模で数百万件のトランザクションがあるオンライン ビジネスには自動化が必要であり、ユーザーと電子的に通信する必要があります。しかし成長するにつれ、人間らしさを失ってしまったのだろうか？
-Web サイト「Complaining Cow」を運営する消費者専門家のヘレン・デュードニー氏は、最近、Vinted に関する苦情やアドバイスのリクエストが急増していると感じています。
-「結局のところ、それは顧客サービスに尽きるのです」と彼女は信じています。
-「私たちは、AI が多くの間違いを犯すことを知っています...人間に近づくのはあまりにも難しいことです...人々が人間を好むことを私たちは知っています...ボットにはうんざりしていると誰にでも尋ねるだけです。」
-デュードニー氏は、自分が不当に禁止または停止されたと思う人は、まずVinted独自の控訴手続きを行うべきだと述べている。彼女はまた、Vinted の法務チームに連絡して、自分のアカウントに影響を与える決定がどのように行われたかに関する情報にユーザーがアクセスできるようにするサブジェクト アクセス リクエスト (SAR) を行うことを提案しています。
-Vinted は、控訴の評価は常に人間の審査チームによって実行されることを強調します。
-大きすぎて、速すぎますか？
-リトアニアに本拠を置くこの企業は、何百万人もの古着の売買方法を変える単純なアイデアに基づいて数十億ドル相当のビジネスを構築しました。現在では 26 か国で展開されており、プロの販売者向けの Vinted Pro や、電子機器やおもちゃを含むその他のカテゴリなどの新しいサービスに拡大されました。
-コナーさんにとっては、販売者に手数料がかからないため、これは簡単なことだ。同氏は、このプラットフォームは「多くのことを正しく行ってきた」ものの、「あまりにも急速に大きくなりすぎた」と考えていると述べた。
-そして、「ある種の人間の声」を得る​​ために貢献するために、自分の販売に対して割増料金や手数料を支払う用意があるだろう。
-ウォリロウに関して言えば、彼女はただ古いヴィンテッドを取り戻したいだけだ。
-「彼らなら解決できると信じています」と彼女は言う。
-しかし、彼らがそうなるまでは、ストレスを感じる価値がなかったため、プラットフォームから離れたままだと彼女は言います。
-連絡する
-あなたの経験を Vinted と共有してください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T23:14:49+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e4b/live/92808ad0-97f7-11f1-9577-b1309b6ea3af.jpg",
-    readTime: 7,
-  },
-  {
-    id: "mobile-payments-on-the-rise-but-cash-dec-a6c80059",
-    title: "Mobile payments on the rise but cash decline slows",
-    titleJa: "モバイル決済は増加するも現金の減少は鈍化",
-    summaryJa: "モバイル決済は増加するも現金の減少は鈍化- 公開されました",
-    bodyOriginal: `Mobile payments on the rise but cash decline slows
-- Published
-Consumers are increasingly relying on their mobile phone to make payments rather than carrying bank cards, new data shows.
-Two-thirds of adults in the UK were registered with at least one mobile payment service last year, according to an annual report by banking trade body UK Finance.
-Use of a phone to pay has jumped in recent years. It is a decade since Apple Pay was launched in the UK.
-While cash use continues to decline, the data suggests that the fall is slowing and that notes and coins will remain an important payment option for many people a decade from now.
-Consumers are increasingly storing card details on phones or watches and making contactless payments backed up by facial or fingerprint verification, instead of pressing in a PIN.
-Nine in 10 users of mobile wallets have their debit card loaded as their default payment method on their phone, with the remainder having registered their credit card.
-That suggests phones are being used for everyday payments - with use particularly high for younger consumers, although older age groups are gaining ground.
-More than 80% of 16 to 34-year-olds make mobile payments on a regular basis, compared with 22% of the over 65s.
-"Our latest data show that the UK is now a predominantly digital economy when it comes to making and receiving payments," said Adrian Buckle, head of research at UK Finance.
-Cash not dead yet
-The UK Payments Market report, released once a year, shows that debit cards - included those loaded onto phones - were the predominant way to pay last year.
-They accounted for 54% of all payments in made in 2025. Some 39% of payments were contactless.
-Cheques had been due to be phased out by 2018, until MPs forced a change of heart by the industry years ago.
-Instead, they have withered to just 0.2% of payments made in the UK - with a total of 77 million written last year.
-Cash is unlikely to go the same way, according to forecasts by UK Finance.
-Notes and coins were used in 3.9 billion, or 8%, of all payments last year. This is expected to halve to 4% of all payments in the UK in 2035, or two billion transactions.
-However, some people still had a strong preference for using cash.
-"Rather than the UK becoming a cash-free society over the next decade, the UK will transition to an economy where cash is less important than it once was but remains widely valued and still preferred by some," the report said.
-Nearly 50 million people used a cash machines last year.
-Nick Quin, from Link, which oversees the UK's ATM network, said: "Cash withdrawals are falling across every part of the country. More people find it convenient and prefer to pay using contactless cards and digital wallets on smartphones, but millions still rely on cash day in, day out.
-"People on lower incomes rely more heavily or entirely on cash to budget, which is why our job is to protect access to cash for as long as people need it."
-Related topics
-- Published15 March
-- Published2 days ago`,
-    bodyJa: `モバイル決済は増加するも現金の減少は鈍化
-- 公開されました
-新しいデータによると、消費者は支払いに銀行カードを持ち歩くのではなく、ますます携帯電話に依存するようになっています。
-銀行業界団体UK Financeの年次報告書によると、昨年英国の成人の3分の2が少なくとも1つのモバイル決済サービスに登録したという。
-近年、電話による支払いの利用が急増しています。 Apple Payが英国で開始されてから10年が経ちました。
-現金の使用は減少し続けているが、データはその減少が鈍化しており、10年後も多くの人々にとって紙幣や硬貨が重要な支払い手段であり続けることを示唆している。
-消費者はカードの詳細を携帯電話や時計に保存し、PIN を入力する代わりに顔認証や指紋認証に裏付けられた非接触型決済を行うことが増えています。
-モバイル ウォレット ユーザーの 10 人に 9 人は、デビット カードをデフォルトの支払い方法として携帯電話に搭載しており、残りはクレジット カードを登録しています。
-これは、携帯電話が日常の支払いに使用されていることを示唆しており、特に若い消費者の使用率が高いが、より高い年齢層が普及しつつある。
-16 ～ 34 歳の 80% 以上が定期的にモバイル決済を行っているのに対し、65 歳以上では 22% です。
-UKファイナンスの調査責任者、エイドリアン・バックル氏は「われわれの最新のデータによると、英国は現在、支払いの授受において主にデジタル経済を推進している」と述べた。
-現金はまだ死んでいない
-年に一度発表される英国決済市場レポートによると、昨年はデビットカード（携帯電話に搭載されたカードも含む）が主要な支払い方法であったことが示されています。
-2025 年に行われたすべての支払いの 54% が非接触型でした。支払いの約 39% は非接触型でした。
-小切手は数年前に国会議員が業界に方針転換を強いるまで、2018年までに段階的に廃止される予定だった。
-その代わり、英国で行われた支払いのわずか0.2%にまで減少しており、昨年は合計7,700万が支払われました。
-UK Financeの予測によると、現金も同じ方向に進む可能性は低い。
-昨年は全決済の8％に相当する39億件に紙幣と硬貨が使用された。これは、2035 年には英国の全決済の 4%、つまり 20 億件の取引に半減すると予想されています。
-しかし、一部の人々は依然として現金の使用を強く好んでいました。
-同報告書は、「英国は今後10年間で現金のない社会になるのではなく、現金がかつてほど重要ではないものの、依然として広く評価されており、一部の人には依然として好まれている経済に移行するだろう」と述べた。
-昨年は5,000万人近くが現金自動預け払い機を利用しました。
-英国のATMネットワークを監督するリンクのニック・クイン氏は、「現金の引き出しは国内のあらゆる地域で減少している。便利だと感じ、非接触型カードやスマートフォンのデジタルウォレットを使って支払うことを好む人が増えているが、何百万人もの人が未だに毎日現金に依存している」と語った。
-「低所得層の人々は、予算をより多く、または完全に現金に依存しています。そのため、人々が必要とする限り現金へのアクセスを保護することが私たちの仕事です。」
-関連トピック
-- 3 月 15 日公開
-- 2 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T23:04:53+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfa3/live/93a0eec0-9a43-11f1-a86b-519b4d19bbee.jpg",
-    readTime: 4,
-  },
-  {
-    id: "openai-rolls-out-chatgpt-for-teens-exper-78e33e68",
-    title: "OpenAI rolls out ChatGPT for Teens experience with 'stronger built-in safety protections'",
-    titleJa: "OpenAI、「より強力な組み込みの安全保護機能」を備えた ChatGPT for Teens エクスペリエンスを展開",
-    summaryJa: "OpenAIは火曜日、18歳未満のユーザー向けの専用チャットボットエクスペリエンスであるChatGPT for Teensを発表した。同社によれば、これは「より強力な安全保護機能が組み込まれている」ように設計されているという。ChatGPT for Teens は、学生が段階的に問題に取り組むのを支援することを目的としたスタディ モードや、年齢予測、多数のペアレンタル コントロールなど、OpenAI が昨年リリースしたいくつかの機能に基づいて構築されています。",
-    bodyOriginal: `OpenAI on Tuesday announced ChatGPT for Teens, a dedicated chatbot experience for users under 18 that the company said is designed to include "stronger built-in safety protections."
-ChatGPT for Teens builds on several features that OpenAI has launched over the last year, including Study Mode, which aims to help students work through problems step-by-step, as well as age prediction and a number of parental controls.
-The new teen experience includes a range of educational features, including homework reminders, quizzes and learning visualizations and Study Hours, where parents or teens can determine when Study Mode is on by default. OpenAI said ChatGPT for Teens also adds age-appropriate safeguards that are intended to reduce exposure to developmentally inappropriate or harmful content.
-"Teens should be able to use AI to learn, create, and explore," OpenAI said in a release. "But that access should come with protections that reflect their developmental stage, reinforce real-world relationships, and support healthy use over time."
-The launch of OpenAI's ChatGPT for Teens experience comes as Meta is kicking off a high-stakes trial over whether it fostered addictive behavior in teens and children. The trial, which could cost Meta hundreds of billions of dollars in damages, involves a coalition of 29 state attorneys general who brought a unified case against the company in 2023.
-OpenAI has also faced scrutiny over its safety practices.
-In June, Florida Attorney General James Uthmeier filed a lawsuit against OpenAI and its CEO, Sam Altman, alleging the company knowingly released an unsafe product that could harm users. Days later, a coalition of state attorneys reportedly opened an investigation into the company. OpenAI told CNBC in a statement at the time that it intends to "engage constructively" with those officials.
-In September, the Federal Trade Commission launched an inquiry into seven companies — including OpenAI and Meta — to understand how their AI chatbots potentially negatively affect children and teenagers.
-OpenAI is also facing a number of wrongful death lawsuits, which allege that ChatGPT drove users to experience harmful delusions and, in some cases, to commit suicide.
-If you are having suicidal thoughts or are in distress, contact the Suicide & Crisis Lifeline at 988 for support and assistance from a trained counselor.
-WATCH: AI companies are in an ‘existential race with each other’, says former OpenAI researcher`,
-    bodyJa: `OpenAIは火曜日、18歳未満のユーザー向けの専用チャットボットエクスペリエンスであるChatGPT for Teensを発表した。同社によれば、これは「より強力な安全保護機能が組み込まれている」ように設計されているという。
-ChatGPT for Teens は、学生が段階的に問題に取り組むのを支援することを目的としたスタディ モードや、年齢予測、多数のペアレンタル コントロールなど、OpenAI が昨年リリースしたいくつかの機能に基づいて構築されています。
-十代の若者向けの新しいエクスペリエンスには、宿題のリマインダー、クイズ、学習の視覚化、保護者や十代の若者が学習モードがデフォルトでオンになるタイミングを決定できる学習時間など、さまざまな教育機能が含まれています。 OpenAIによると、ChatGPT for Teensには、発育上不適切または有害なコンテンツへの曝露を減らすことを目的とした、年齢に応じた安全策も追加されているという。
-「十代の若者はAIを使って学び、創造し、探索できるべきだ」とOpenAIはリリースで述べた。 「しかし、そのアクセスには、発達段階を反映し、現実世界の関係を強化し、長期にわたる健全な利用をサポートする保護が伴う必要があります。」
-OpenAI の ChatGPT for Teens エクスペリエンスの開始は、Meta が十代の若者や子供たちの中毒性行動を助長するかどうかをめぐって一か八かの裁判を開始する中で行われた。この裁判にはメタ社に数千億ドルの損害賠償が発生する可能性があり、2023年にメタ社に対して統一訴訟を起こした29人の州司法長官の連合が関与している。
-OpenAIはまた、その安全慣行に関して厳しい監視にも直面している。
-6月、フロリダ州司法長官のジェームス・ウスマイヤーは、OpenAIがユーザーに害を及ぼす可能性のある安全ではない製品を意図的にリリースしたとして、OpenAIとそのCEOであるサム・アルトマンに対して訴訟を起こした。数日後、州検事連合が同社に対する捜査を開始したと伝えられている。 OpenAIは当時CNBCに対し、こうした当局者らと「建設的に関与する」つもりだと声明で述べた。
-9月、連邦取引委員会は、OpenAIやMetaを含む7社に対して、AIチャットボットが子どもや青少年にどのような悪影響を与える可能性があるかを調査する調査を開始した。
-OpenAI はまた、ChatGPT がユーザーを有害な妄想に駆り立て、場合によっては自殺に追いやったとして、多数の不法死亡訴訟にも直面している。
-自殺願望がある場合、または苦痛にさらされている場合は、訓練を受けたカウンセラーによるサポートと支援が必要な場合は、Suicide & Crisis Lifeline（988）に連絡してください。
-注目：AI企業は「互いに生存競争」をしていると元OpenAI研究者が語る`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
-    publishedAt: "2026-08-18T22:49:58+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "meta-hooked-children-on-facebook-and-ins-dd6f4c4e",
-    title: "Meta hooked children on Facebook and Instagram, court hears",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Meta hooked children on Facebook and Instagram, court hears
-- Published
-A court has heard claims Meta intentionally hooked a generation of children on Facebook and Instagram, as the biggest legal challenge the social media platform has faced began on Tuesday.
-A jury in Oakland, California will spend the next six weeks wading through claims by top attorneys from several US states, and lawyers for the social media company, that at turns rebutted the other as the trial opened.
-A lawyer for California claimed Meta found "millions" of 11 and 12-year-olds were on Instagram and "it did little to keep them off".
-Meta's representative said just over 100,000 such users were found, and also argued that social media addiction does not exist.
-After the state lawyer said Meta knew its platforms hurt teen mental health, Meta's side said it was being ignored how many more teens had good experiences
-The trial stems from a lawsuit filed in 2023 by 29 US states, including California and New York, in which they claim numerous violations of federal and state privacy laws for children.
-Not only are the states seeking billions of dollars from Meta, they are demanding it make changes to Instagram and Facebook, including ending "like" counts and infinite scroll.
-The trial started off on Tuesday with a battle of words and facts.
-Paul Schmidt, a lead attorney for Meta in the trial, directly addressed an internal research report that Megan O'Neill, a lead attorney for California, made part of the states' opening arguments.
-The Meta document O'Neill showed the jury found that "1 in 5 teens says Instagram makes them feel worse".
-Schmidt said: "That sounds pretty bad."
-"What else does the document say?" Schmidt went on. "That 41% of teens said it made them feel better and another 41% said it had no effect."
-Schmidt also worked to poke holes in the states' argument that Meta had not only failed to stop users under the age of 13 from using its platforms, but that it intentionally "hooked" teens and children as users of Facebook and Instagram, or that they were designed to be addictive.
-As for Meta being able to verify the age of every user on its platform, Schmidt argued that the very privacy laws Meta was being accused of violating in the case prevent it from saving and using the data it would need to effectively track underage users.
-When it comes to addiction, Schmidt argued a point that Meta has put forward in at other litigation this year: that social media addiction does not exist.
-"There can be no dispute that Meta has recognised people struggle, or can struggle, with their use of social media, and has come up with tools to try and address that," Schmidt said.
-Yet, he pointed to past statements from chief executive Mark Zuckerberg and head of Instagram Adam Mosseri that not only were Facebook and Instagram not designed to be addictive, scientific research has not yet come to support the idea that an addiction to social media is possible.
-O'Neill's opening arguments seemed to challenge Schmidt's argument.
-She relied heavily on information found in millions of documents provided in the case from Meta, including internal research, employee emails, and chat logs, all the way up Zuckerberg.
-One such piece of internal research stated about young people and Instagram: "Teens have an addict's narrative about use."
-In another that O'Neill pointed the jury to, Meta found "product features designed to increase time spent are inherently at odds with well-being and take away from people's ability to focus on activity that adds value to their lives".
-Despite Meta's awareness of potentially negative impacts, O'Neill argued that Meta targeted young people as users of Facebook and Instagram and went out of its way to "assure the public that its platforms were safe for kids".
-Meta's business model could be summed up this way: "Hook the users; hold them for as long as they can; harvest their data; hide the truth from the public when making public statements," she said.
-She said that throughout the trial, it would become clear that what Meta said publicly about its platforms, and what its internal research showed, were very different.
-"Meta said it put safety over profits, but hid the reality that, time and again, when it came to make a decision, profits won."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-18T22:11:07+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg",
     readTime: 2,
   },
 ];
