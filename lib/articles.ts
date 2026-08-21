@@ -15,6 +15,214 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "panama-canal-to-cut-number-of-ships-pass-e79e0aec",
+    title: "Panama Canal to cut number of ships passing through due to El Niño",
+    titleJa: "パナマ運河、エルニーニョの影響で通過船舶数削減へ",
+    summaryJa: "パナマ運河、エルニーニョの影響で通過船舶数削減へ- 公開されました",
+    bodyOriginal: `Panama Canal to cut number of ships passing through due to El Niño
+- Published
+Panama Canal's operator is to cut the number of vessels passing through the key waterway due to low rainfall caused by El Niño.
+The Panama Canal Authority (ACP) told shipping firms on Thursday that 32 vessels a day will be able to pass through it from 15 September, compared to 36 currently.
+El Niño, a pattern of periodical sea surface warming, effects weather systems globally. This year is expected to be particularly strong, with its effects made more intense by climate change.
+The shipping industry is already dealing with severe disruptions due to the Iran war causing a large reduction in the number of vessels passing through the crucial Strait of Hormuz.
+The ACP said the measures were being put in place to preserve service reliability and safeguard water resources for human consumption.
+It added that despite the arrival of the rainy season in Central America and some water-saving measures already being put in place in the canal, additional action was needed "to support the long-term sustainability of transit operations".
+The new measures will be phased in from 3 September.
+The Panama Canal greatly reduces the time and distance ships have to travel between the Atlantic and Pacific oceans.
+About 14,000 ships per year use the artificial waterway - which operates 24 hours a day, 365 days a year.
+As well as being a crucial route for global trade, it is also a key source of income for Panama, bringing in about $3bn (£2.2bn) a year.
+In 2023, the ACP cut the number of vessels using the waterway during the last El Niño period after Panama was hit with its driest October since records began in 1950.
+Since then, the authority has introduced measures to cut the amount of water it uses.
+Many forecasts suggest that this year's El Niño, which is a naturally occurring pattern, could be one of the strongest ever recorded, with disruptions to weather, food supplies and economies.
+- Published6 hours ago
+- Published14 July
+- Published24 February`,
+    bodyJa: `パナマ運河、エルニーニョの影響で通過船舶数削減へ
+- 公開されました
+パナマ運河の運営会社は、エルニーニョによる降雨量の減少のため、重要な水路を通過する船舶の数を削減する予定である。
+パナマ運河庁（ACP）は木曜日、海運会社に対し、現在は1日あたり36隻の船舶が9月15日から同運河を通過できるようになると発表した。
+エルニーニョは周期的な海面温暖化のパターンであり、世界中の気象システムに影響を与えます。今年は、気候変動の影響がさらに強まるため、特に好調が予想されています。
+海運業界はすでに、イラン戦争による重大な混乱に直面しており、重要なホルムズ海峡を通過する船舶の数が大幅に減少している。
+ACPは、サービスの信頼性を維持し、人間が消費する水資源を保護するためにこの措置が講じられていると述べた。
+さらに、中米では雨季が到来し、運河にはすでにいくつかの節水対策が講じられているにもかかわらず、「交通運営の長期的な持続可能性を支援するために」追加の措置が必要であると付け加えた。
+新たな措置は９月３日から段階的に導入される。
+パナマ運河により、船が大西洋と太平洋の間を移動する時間と距離が大幅に短縮されます。
+年間約 14,000 隻の船舶がこの人工水路を利用しており、24 時間 365 日稼働しています。
+世界貿易にとって重要なルートであるだけでなく、パナマにとって重要な収入源でもあり、年間約30億ドル（約22億ポンド）をもたらしている。
+パナマが1950年の記録開始以来最も乾燥した10月に見舞われたことを受け、2023年、ACPは最後のエルニーニョ期間中にこの水路を使用する船舶の数を削減した。
+それ以来、当局は水の使用量を削減する措置を導入してきた。
+多くの予測は、今年のエルニーニョ現象は自然発生的なパターンであり、天候、食料供給、経済に混乱をもたらし、観測史上最も強いものの一つとなる可能性があることを示唆している。
+- 6 時間前に公開
+- 7 月 14 日発行
+- 2 月 24 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-21T06:46:08+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg",
+    readTime: 2,
+  },
+  {
+    id: "perfect-storm-brews-for-global-food-sup-4812640d",
+    title: "'Perfect storm' brews for global food supply this winter as grain prices soar",
+    titleJa: "穀物価格の高騰により、この冬、世界の食糧供給に「完璧な嵐」が起こる",
+    summaryJa: "ロシアとウクライナは互いの港湾インフラを攻撃し続けており、「ヨーロッパの穀倉地帯」からの出荷を阻止し、小麦価格を高騰させ、世界の食料供給を苦しめる厳しい要因が重なっている。この二つの広大な国は、世界の穀物輸出量の約4分の1を生産していると推定されている。税関統計によると、6月までの1年間に紛争諸国は両国間で1億トン近い穀物を輸出しており、世界の食料供給を保護する外交協定のおかげで、2022年のロシアの全面侵攻以来、出荷はほぼ継続している。",
+    bodyOriginal: `Russia and Ukraine continue to attack one another's port infrastructure, blocking shipments from the "breadbasket of Europe" and driving up wheat prices, and adding to a grim cocktail of factors afflicting global food supply.
+The two vast nations are estimated to produce around a quarter of the world's grain exports. The warring countries exported nearly 100 million metric tons of grain between them in the year to June, according to customs figures, with shipments largely continuing to flow since Russia's full-scale invasion in 2022 thanks to diplomatic agreements to protect global food supplies.
+Recent military strikes on grain export facilities, oil tankers and vessels in the Black Sea region have now made it too challenging for shipping firms to get insurance, meaning many are avoiding its ports. Alternative land routes for Ukrainian grain are also being stymied by low water levels on the Danube river, and by rail maintenance in Eastern Europe.
+Agricultural shipments are being disrupted not just by conflict on the Black Sea but also by the blockade of the Strait of Hormuz and by the depletion of waterways such as Germany's Rhine.
+Ongoing obstruction of those waterways is helping drive up the price of agricultural products such as fertilizer — and adding to farming woes in the process.
+Soaring costs for farmers around the world, from fertilizer and diesel to labor, will further jeopardize food security if many decide they simply cannot make the money they need, analysts warn.
+Profit problem
+Higher fertilizer prices have become "structural" and are here to stay, CoBank's lead economist Jacqui Fatka wrote in a note last week, with key chemicals in tight supply due to the Middle East conflict.
+U.S. farmers are conscious that under-fertilization can prove more costly than higher input prices if they sacrifice crop productivity, Fatka said — a balance that is becoming increasingly precarious as they exhaust other options for optimizing yields.
+"Cash is tight at the farm gate, limiting some growers from locking in any product for the next crop year until additional financing or working capital becomes available," she wrote.
+In Europe too, there is a fear that farmers in Russia, Ukraine and beyond will not plant much this winter because of profitability concerns and an inability to get financing, trade and agriculture analyst Noel Fryer told CNBC.
+"A lot of things will come together to seriously affect crops next year," Fryer said on Thursday.
+"We've had crops decimated by weather in Europe and the U.S. A searingly hot summer in Europe has eroded grazing potential, with no hay and grass for cattle. A possible result of that is significant herd liquidation," he said.
+"We've got no end in sight to the Black Sea problem. The issue with fertilizer since the start of the Iran conflict is still there and if anything getting worse. U.S. corn yields look concerning after a wet spring and less fertilizer use, and could push prices up."
+"And we've got uncertainty from a massive El Niño event about to hit," he said, referring to the weather event expected to increase volatility in the southern hemisphere.
+"It's just a huge mix of different issues and we don't know how they're going to end. It's a perfect storm."`,
+    bodyJa: `ロシアとウクライナは互いの港湾インフラを攻撃し続けており、「ヨーロッパの穀倉地帯」からの出荷を阻止し、小麦価格を高騰させ、世界の食料供給を苦しめる厳しい要因が重なっている。
+この二つの広大な国は、世界の穀物輸出量の約4分の1を生産していると推定されている。税関統計によると、6月までの1年間に紛争諸国は両国間で1億トン近い穀物を輸出しており、世界の食料供給を保護する外交協定のおかげで、2022年のロシアの全面侵攻以来、出荷はほぼ継続している。
+黒海地域の穀物輸出施設、石油タンカー、船舶に対する最近の軍事攻撃により、海運会社が保険に加入することが非常に困難になっており、多くの海運会社が黒海港を避けていることを意味している。ウクライナ産穀物を輸送する代替陸路も、ドナウ川の水位低下と東ヨーロッパの鉄道整備によって妨げられている。
+農産物の輸送は、黒海での紛争だけでなく、ホルムズ海峡の封鎖やドイツのライン川などの水路の枯渇によっても中断されている。
+これらの水路の継続的な妨害は、肥料などの農産物の価格高騰を助長しており、その過程で農業の苦境がさらに深刻になっている。
+肥料やディーゼル燃料から人件費に至るまで、世界中の農家のコストが高騰し、多くの人が必要なお金を稼ぐことができないと判断すれば、食料安全保障はさらに危険にさらされるだろうとアナリストは警告する。
+利益の問題
+コーバンクの主任エコノミスト、ジャッキー・ファトカ氏は先週のメモで、中東紛争の影響で主要化学物質の供給が逼迫しており、肥料価格の高騰は「構造的」となり、その傾向が続いていると述べた。
+ファトカ氏によると、米国の農家は、作物の生産性を犠牲にすれば、施肥不足が投入価格の上昇よりもコストが高くなる可能性があることを認識しているが、収量を最適化するための他の選択肢を使い果たしているため、このバランスはますます不安定になっているという。
+「農場の資金は逼迫しており、追加の融資や運転資金が利用可能になるまで、一部の生産者は次の作物年度に農産物を確保することができない」と彼女は書いた。
+欧州でも、ロシアやウクライナなどの農家が、採算性への懸念と融資を受けられないため、この冬はあまり作付けしないのではないかとの懸念があると、貿易・農業アナリストのノエル・フライヤー氏がCNBCに語った。
+フライヤー氏は木曜日、「多くのことが重なり、来年は農作物に深刻な影響を与えるだろう」と語った。
+「ヨーロッパとアメリカでは天候によって作物が壊滅状態になった。ヨーロッパの灼熱の夏は放牧の可能性を侵食し、牛のための干し草や牧草がなくなった。その結果として考えられるのは、大規模な群れの整理だ」と同氏は述べた。
+「黒海問題には終わりの見通しが立っていない。イラン紛争勃発以来の肥料問題は依然として存在しており、むしろ悪化している。春の雨が多く肥料使用量が減った米国のトウモロコシの収量は懸念されており、価格が上昇する可能性がある。」
+同氏は、南半球でボラティリティが高まると予想される気象現象に言及し、「大規模なエルニーニョ現象が間もなく発生するため、不確実性がある」と述べた。
+「さまざまな問題が複雑に絡み合ったもので、どのように収束するかはわかりません。まさに完璧な嵐です。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
+    publishedAt: "2026-08-21T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "a-delicate-dance-jd-vance-says-economic-6f54f0ac",
+    title: "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+    titleJa: "「繊細なダンス」：JD・ヴァンス氏、イランにおけるワシントンの目的を達成するには経済的圧力が最善の方法だと語る",
+    summaryJa: "JD・バンス米国副大統領によると、経済圧力はイランに対する米国の「最も効果的な手段」だという。ヴァンス氏はポッドキャストで、双方が互いに圧力をかけているため、この動きは「デリケートな踊り」だったと述べたが、「ここ数週間で真実なのは、彼らが我々よりもはるかに大きなプレッシャーを感じていたということだ」と付け加えた。",
+    bodyOriginal: `Economic pressure is the United States' "most effective tool" against Iran, according to U.S. Vice President JD Vance.
+Speaking on a podcast, Vance said that the move was "a delicate dance" as both sides apply pressure to each other, but added that "what has been true over the last couple of weeks is they felt a lot more pressure than we have."
+His comments come after U.S. President Donald Trump said the U.S. will launch what he called the "most crushing economic operation ever taken against any country" against Iran. Trump also threatened severe financial penalties on any nation that helps Tehran evade sanctions, and added that "this will be Economic Warfare and Isolation on an unprecedented scale."
+Vance, in his remarks, said pump prices for Americans are still elevated, but claimed that they have come down "substantially" because the U.S. has managed to get "a lot of oil and gas out" of the Strait of Hormuz due to the assistance of its military.
+However, recently observed ship traffic through Hormuz has remained low, with 10 crossings on Monday and two transits on Sunday, according to data provided by the trade intelligence firm Kpler.
+Before the war, average ship transits through the Strait were about 130 ships a day.
+Iran's main leverage, Vance said, was access into the Strait, adding "if we can, not even get it back to where it was before, but if we can get enough oil and gas out to give some Americans some ease at the pumps, some ease on energy prices."
+Iran was being punished for shooting at commercial ships and the U.S. will make sure that Iranian forces are not able to do that, Vance said.
+"I think we've been quite successful," he claimed. His words echoed Trump's Truth Social post, which said Iran was already "on the ropes."
+"Do they want to have their economy strangled for the rest of time, or do they want to have a better relationship with the West? That's always been the option that the president has put to these guys," Vance said.
+— CNBC's Anniek Bao and Chloe Taylor contributed to this report.`,
+    bodyJa: `JD・バンス米国副大統領によると、経済圧力はイランに対する米国の「最も効果的な手段」だという。
+ヴァンス氏はポッドキャストで、双方が互いに圧力をかけているため、この動きは「デリケートな踊り」だったと述べたが、「ここ数週間で真実なのは、彼らが我々よりもはるかに大きなプレッシャーを感じていたということだ」と付け加えた。
+同氏のコメントは、ドナルド・トランプ米大統領が、米国はイランに対して「これまでにどの国に対しても行われた中で最も壊滅的な経済作戦」と呼ぶものを開始すると述べた後に出された。トランプ大統領はまた、イラン政府の制裁回避に協力した国には厳しい経済制裁を科すと脅迫し、「これは前例のない規模の経済戦争と孤立になるだろう」と付け加えた。
+バンス氏は発言の中で、米国人のポンプ価格は依然高くなっているが、米国が軍の支援によりホルムズ海峡から「大量の石油とガス」を取り出すことに成功したため、価格は「大幅に」下がったと主張した。
+しかし、貿易情報会社Kplerが提供したデータによると、最近観察されたホルムズを通過する船舶の交通量は依然として少ないままで、月曜日には10回の航海があり、日曜日には2回の通過であった。
+戦前、海峡を通過する船舶の平均は 1 日あたり約 130 隻でした。
+バンス氏は、イランの主な影響力は海峡へのアクセスだと述べ、「できれば以前の状態に戻すことさえできないが、十分な石油とガスを取り出して、一部の米国人がポンプでいくらか楽になり、エネルギー価格もいくらか緩和できるのであれば」と付け加えた。
+バンス氏は、イランは商船への銃撃で処罰されており、米国はイラン軍がそのような行為をできないようにするつもりだと述べた。
+「我々はかなり成功したと思う」と彼は主張した。同氏の言葉は、イランはすでに「危機に瀕している」としたトランプ氏の真実ソーシャル投稿と同調した。
+「彼らは残りの期間、自国の経済を窒息させておきたいのか、それとも西側諸国とより良い関係を築きたいのか。それが大統領が彼らに与えてきた選択肢だ」とバンス氏は語った。
+— CNBC の Anniek Bao と Chloe Taylor がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+    publishedAt: "2026-08-21T04:32:59+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "taiwan-s-ai-fueled-forecast-of-11-gdp-gr-1e944b39",
+    title: "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+    titleJa: "AIを活用した台湾のGDP成長率11％予測は持続可能ではない可能性が高いとエコノミストらは指摘",
+    summaryJa: "台湾政府の2026年の2桁GDP成長予測は、人工知能経済の楽観的な見方を反映している可能性があるが、設備投資の鈍化やマクロ経済低迷のリスク、また半導体産業への集中度を考慮すると、成長は時間の経過とともに鈍化する可能性が高い。今月初め、台湾の統計局は、今年のGDP成長率が11.05％になるとの見通しを発表し、5月に発表した予想の9.64％を上回った。台湾の加重株価指数は、ハイテク業界のAI需要に支えられ、年初から56%以上の上昇を見せている。",
+    bodyOriginal: `The Taiwanese government's double-digit GDP forecast growth in 2026 may reflect optimism in the artificial-intelligence economy, but growth is likely to moderate over time given risks of capex slowdown and macroeconomic downturns, and with its high concentration in the semiconductor industry.
+Earlier this month, Taiwan's statistics agency said it expects its GDP growth to be at 11.05% for the year, up from 9.64% forecast it issued in May. Taiwan's weighted stock index has seen a growth of over 56% year-to-date, supported by AI demand for its tech industry.
+"I think it is important not to extrapolate the exceptional pace of growth this year too far ahead," said Saktiandi Supaat, head of FX research at Maybank.
+While Taiwan has greatly benefited from huge investments by global tech companies amid growing demand for AI-related products, if the pace of AI investment slows, "this could feed relatively quickly into Taiwan's exports, manufacturing and investment," Supaat said.
+Supaat added that Taiwan's reliance on technology and semiconductors makes it particularly exposed to swings in the global technology and AI capex cycles, as well as geopolitical developments.
+Jeremy Tan, chief executive officer of Tiger Fund Management, noted that such risks "put the long-term sustainability of such growth in question."
+Meanwhile, a potential rise in global interest rates due to rising inflation risks may also weigh on Taiwan's budding AI startups.
+"Tighter global financial conditions could deepen the pullbacks in equity markets, in turn increasing stress in private credit markets," said Caroline Wong, country risk analyst at BMI. "For AI startups, the resulting impact of limited refinancing options for tech firms could lead to a slowdown in Taiwan's investment growth."
+Wong also highlighted that risk sentiment may be dampened by heightened tensions with Beijing, and any pullback in investments could prompt customers of key chip manufacturers to diversify away from Taiwan,
+The pace of wage growth is also another concern in Taiwan's economy, as real wages have remained stagnant even after the booming tech-heavy domestic equities market has lifted private consumption, said Nick Marro, principal economist for Asia at EIU.
+"All of this suggests that the dividends from the AI boom aren't evenly dispersing through the economy, including in ways that would be structurally sustainable.," Marro said.
+UOB economist Ho Woei Chen said Taiwan's ability to maintain its technological edge is key to its long-term sustainability.
+"This requires continued investment in research and development, talent development, advanced manufacturing capabilities, and next-generation technologies," Ho said.`,
+    bodyJa: `台湾政府の2026年の2桁GDP成長予測は、人工知能経済の楽観的な見方を反映している可能性があるが、設備投資の鈍化やマクロ経済低迷のリスク、また半導体産業への集中度を考慮すると、成長は時間の経過とともに鈍化する可能性が高い。
+今月初め、台湾の統計局は、今年のGDP成長率が11.05％になるとの見通しを発表し、5月に発表した予想の9.64％を上回った。台湾の加重株価指数は、ハイテク業界のAI需要に支えられ、年初から56%以上の上昇を見せている。
+メイバンクの為替調査部門責任者、サクティアンディ・スパアト氏は「今年の異例の成長ペースをあまり先のことまで推定しないことが重要だと思う」と述べた。
+台湾はAI関連製品への需要が高まる中、世界的なハイテク企業による巨額投資から大きな恩恵を受けているが、AI投資のペースが鈍化すれば、「台湾の輸出、製造、投資に比較的早く反映される可能性がある」とスパアト氏は述べた。
+スパアト氏は、台湾はテクノロジーと半導体に依存しているため、世界的なテクノロジーやAIの設備投資サイクル、地政学的展開の変動に特にさらされていると付け加えた。
+タイガー・ファンド・マネジメントのジェレミー・タン最高経営責任者（CEO）は、こうしたリスクにより「こうした成長の長期的な持続可能性が疑問視される」と指摘した。
+一方、インフレリスクの高まりによる世界的な金利上昇の可能性も、台湾の新進AIスタートアップにとって重しとなる可能性がある。
+ＢＭＩのカントリーリスクアナリスト、キャロライン・ウォン氏は「世界的な金融情勢の逼迫は株式市場の反動をさらに深め、民間信用市場のストレスを増大させる可能性がある」と述べた。 「AI新興企業にとって、ハイテク企業への借り換えの選択肢が限られていることによる影響は、台湾の投資の伸びの鈍化につながる可能性がある。」
+ウォン氏はまた、中国政府との緊張の高まりによってリスクセンチメントが弱まる可能性があり、投資が後退すれば主要な半導体メーカーの顧客が台湾から分散する可能性があると強調した。
+EIUのアジア担当首席エコノミスト、ニック・マーロ氏は、ハイテク中心の国内株式市場の活況が個人消費を押し上げた後も、実質賃金は停滞したままであり、賃金上昇ペースも台湾経済のもう一つの懸念材料だと述べた。
+「これらすべては、AI ブームからの配当が、構造的に持続可能な方法を含め、経済全体に均等に分散されていないことを示唆しています」とマーロ氏は述べた。
+UOBのエコノミスト、ホー・ウェイ・チェン氏は、台湾が技術的優位性を維持できることが長期的な持続可能性の鍵であると述べた。
+「これには、研究開発、人材育成、高度な製造能力、次世代技術への継続的な投資が必要です」とホー氏は述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+    publishedAt: "2026-08-21T03:59:53+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "u-s-bond-intervention-is-like-paying-you-2e6ba597",
+    title: "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
+    titleJa: "JPモルガンのサリバン氏、米国債介入は「クレジットカードで住宅ローンを支払う」ようなものだと語る",
+    summaryJa: "ＪＰモルガンによると、世界的な国債発行の急増で投資家の需要が試されるなか、米国債市場の圧力に対処しようとする米政府の取り組みは問題を将来にずらすだけかもしれない。ＪＰモルガンのグローバル・ファンダメンタルズ調査共同責任者ジェームズ・サリバン氏は金曜日、ＣＮＢＣの「スコーク・ボックス」で、財務省は短期手形を発行しながら長期債を事実上買い戻しており、これは一時的な救済にはなるものの、根本的な債務負担はそのまま残す戦略だと語った。",
+    bodyOriginal: `The U.S. government's efforts to manage pressure in the Treasury market may merely shift the problem down the road as a surge in global debt issuance tests investor demand, according to JPMorgan.
+The Treasury is effectively buying back longer-duration bonds while issuing shorter-dated bills, a strategy that can provide temporary relief but leaves the underlying debt burden intact, James Sullivan, JPMorgan's co-head of global fundamental research, told CNBC's "Squawk Box" on Friday.
+The U.S. Treasury Department, led by Secretary Scott Bessent, on Wednesday announced it would at least double the size of its government debt buybacks, starting Sept. 9 and running through Nov. 4.
+Sullivan compared the approach to refinancing longer-term obligations with shorter-term borrowing.
+"It's a little bit like paying your mortgage with your credit card. It can work for a while, but eventually the mismatch starts to become more obvious," he added.
+The intervention may help manage borrowing costs in the near term, but Sullivan's concern is that it does little to address the bigger problem: a mounting wall of government and corporate debt that ultimately has to find buyers.
+"Governments trying to control markets is not a particularly attractive story most of the time."
+The challenge extends beyond the U.S. Sullivan pointed to roughly $40 trillion in U.S. government debt and around $76 trillion across developed-market governments globally, alongside record corporate bond issuance.
+Even with strong economic fundamentals, the sheer increase in bond supply matters for markets, Sullivan said. More debt needs to find buyers, potentially requiring issuers to offer investors more attractive yields.
+"The only way you balance supply and demand is through price," he said. That equation is becoming more complicated as some traditional buyers of U.S. government debt pull back.
+China's holdings of Treasurys are at an 18-year low, while U.S. Treasury custody holdings for foreign governments are at their lowest in 14 years.
+The borrowing wave is not confined to governments. Corporations are also tapping debt markets heavily as economic growth becomes increasingly capital intensive, driven in part by artificial intelligence infrastructure, reshoring and national-security-related investment.
+Leading AI companies have issued $200 billion of debt so far this year, up 80% from a year earlier, according to Sullivan. Spending on data centers and other AI infrastructure is adding to the broader competition for capital.
+The implications extend to stocks. Higher bond yields can make fixed-income assets increasingly competitive with equities, particularly when stock valuations are elevated.
+Bonds yields are now higher than the earnings yield on the S&P 500, according to JPMorgan data, making investors' choices between asset classes more difficult.
+"The asset allocation decision becomes significantly more complex going forward as we see these environments play out," Sullivan said.`,
+    bodyJa: `ＪＰモルガンによると、世界的な国債発行の急増で投資家の需要が試されるなか、米国債市場の圧力に対処しようとする米政府の取り組みは問題を将来にずらすだけかもしれない。
+ＪＰモルガンのグローバル・ファンダメンタルズ調査共同責任者ジェームズ・サリバン氏は金曜日、ＣＮＢＣの「スコーク・ボックス」で、財務省は短期手形を発行しながら長期債を事実上買い戻しており、これは一時的な救済にはなるものの、根本的な債務負担はそのまま残す戦略だと語った。
+スコット・ベッセント長官率いる米財務省は水曜日、9月9日から11月4日までの期間、国債買い戻しの規模を少なくとも2倍に拡大すると発表した。
+サリバン氏は、長期債務の借り換えアプローチを短期借入と比較しました。
+「クレジットカードで住宅ローンを支払うのと少し似ています。しばらくはうまくいくかもしれませんが、最終的には不一致がより明らかになり始めます。」と彼は付け加えた。
+この介入は短期的には借入コストの管理に役立つかもしれないが、サリバン氏の懸念は、最終的に買い手を見つけなければならない政府債務と企業債務の増大する壁という、より大きな問題への対処にはほとんど役立たないということだ。
+「政府が市場をコントロールしようとするというのは、ほとんどの場合、特に魅力的な話ではない。」
+この課題は、記録的な社債発行と並んで、約40兆ドルの米国政府債務と世界中の先進国政府全体で約76兆ドルに上るとサリバン氏が指摘した米国の枠を超えて広がっている。
+サリバン氏は、たとえ経済のファンダメンタルズが堅調であっても、債券供給の大幅な増加が市場にとって重要であると述べた。より多くの債券を発行するには買い手を見つける必要があり、発行体は投資家により魅力的な利回りを提供する必要がある可能性がある。
+「需要と供給のバランスを取る唯一の方法は価格を通じてだ」と同氏は語った。従来の米国債買い手の一部が撤退するにつれ、この方程式はさらに複雑になっている。
+中国の米国債保有高は18年ぶりの低水準にあり、外国政府による米財務省の保管残高は14年ぶりの低水準となっている。
+借金の波は政府に限定されません。また、人工知能インフラ、リショアリング、国家安全保障関連の投資などによって経済成長がますます資本集約的になる中、企業は債務市場を大いに活用している。
+サリバン氏によると、大手AI企業は今年これまでに2000億ドルの債券を発行しており、これは前年比80％増となっている。データセンターやその他の AI インフラストラクチャへの支出により、資本を巡る広範な競争が激化しています。
+その影響は株式にも及ぶ。債券利回りの上昇により、特に株式の評価額が上昇した場合、債券資産の株式との競争力がますます高まる可能性があります。
+JPモルガンのデータによると、債券利回りは現在S&P500種の収益利回りよりも高くなっており、投資家による資産クラスの選択はより困難になっている。
+サリバン氏は、「こうした環境が展開するにつれて、資産配分の決定は今後大幅に複雑になる」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
+    publishedAt: "2026-08-21T02:48:10+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
     id: "japan-headline-inflation-rate-hits-highe-731e3837",
     title: "Japan headline inflation rate hits highest this year as energy prices bite",
     titleJa: "エネルギー価格の高騰により、日本の総合インフレ率は今年最高に達する",
@@ -546,6 +754,20 @@ TUIリバークルーズは、「空調システムに影響を及ぼす予期�
     readTime: 6,
   },
   {
+    id: "our-4-year-old-son-has-100-000-in-his-52-cbd908a1",
+    title: "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+    titleJa: "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
+    summaryJa: "「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」",
+    bodyOriginal: `“I’d love for our son to be able to attend college without needing to take out student loans.”`,
+    bodyJa: `「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+    publishedAt: "2026-08-20T22:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-94025750",
+    readTime: 2,
+  },
+  {
     id: "warsh-faces-fed-independence-test-as-bes-60b14da0",
     title: "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
     titleJa: "ベッセント氏が中央銀行の縄張りに乗り出す中、ウォーシュ氏はFRBの独立性テストに直面している",
@@ -602,6 +824,34 @@ FRBも財務省も、ベッセント氏のコメントが同氏とウォーシ�
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 6,
+  },
+  {
+    id: "anxious-bond-market-sends-troubling-mess-16b5bc0b",
+    title: "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
+    titleJa: "不安な債券市場が投資家に憂慮すべきメッセージを送る：米国の債務を簡単に解決することはできない",
+    summaryJa: "市場を落ち着かせるというスコット・ベッセント財務長官の計画はうまく機能していない。",
+    bodyOriginal: `Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.`,
+    bodyJa: `市場を落ち着かせるというスコット・ベッセント財務長官の計画はうまく機能していない。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+    publishedAt: "2026-08-20T19:40:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-86558017",
+    readTime: 2,
+  },
+  {
+    id: "sports-betting-to-build-wealth-is-becomi-864bd04b",
+    title: "Sports betting to build wealth is becoming the new American dream",
+    titleJa: "富を築くためのスポーツ賭博は新たなアメリカンドリームになりつつある",
+    summaryJa: "30歳未満の人が住宅購入や学生ローンの支払いの近道としてギャンブルを利用する人が増えている",
+    bodyOriginal: `More people under 30 are using gambling as a shortcut to buying a home or paying student loans`,
+    bodyJa: `30歳未満の人が住宅購入や学生ローンの支払いの近道としてギャンブルを利用する人が増えている`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
+    publishedAt: "2026-08-20T19:14:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-56677379",
+    readTime: 2,
   },
   {
     id: "neocloud-stocks-like-coreweave-are-havin-16c3e272",
@@ -1699,369 +1949,6 @@ Stock futures were slightly higher after Trump's announcement, with S&P 500 futu
     publishedAt: "2026-08-20T01:02:50+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "japan-exports-beat-estimates-in-july-as-b86ba7ef",
-    title: "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains",
-    titleJa: "堅調なチップ出荷が5か月連続の増加を支え、日本の輸出は7月の予想を上回った",
-    summaryJa: "半導体出荷は7月も引き続き日本の輸出を牽引し、予想を上回り2022年10月以来の高い伸びを記録した。輸出の伸びは５カ月連続で加速し、２３．２％となった。ロイターがまとめたエコノミスト予想は１９．９％だった。",
-    bodyOriginal: `Semiconductor shipments continued to power Japan's exports in July, helping clock the fastest growth since October 2022, beating expectations.
-Exports growth accelerated for a fifth straight month, coming in at 23.2%. Economists polled by Reuters had estimated growth at 19.9%.
-Shipments of semiconductor equipment posted a massive 49.1% jump in value, reflecting continued demand, boosted by the artificial intelligence boom.
-In terms of destinations, shipments to China — Japan's largest trading partner — rose 25.8%, while exports to the U.S. climbed 22%.
-Despite seeing export values grow, the gains were mostly due to a weak yen and higher selling prices, with volumes only rising 5.2% in July.
-The benchmark Nikkei 225 gained 0.64% after the data release, while the yen weakened 0.11% against the dollar to trade at 158.35.
-Strong exports over the past few months have been instrumental in supporting Japan's GDP. On a year-on-year basis, the economy grew at 0.7% in the second quarter, compared to 0.5% in the first three months of the year.
-While GDP missed expectations on a quarter-on-quarter and annualized basis, exports helped soften the impact, with the sector being the largest contributor to economic growth.
-Imports to Japan in July climbed 27.8%, the highest level since November 2022, also beating analysts' estimates of a 26.5% gain. Due to the Iran war, the country saw a 87.8% surge in petroleum imports by value as oil prices climbed.
-Japan meets over 87% of its energy needs via imports, according to the International Energy Agency.`,
-    bodyJa: `半導体出荷は7月も引き続き日本の輸出を牽引し、予想を上回り2022年10月以来の高い伸びを記録した。
-輸出の伸びは５カ月連続で加速し、２３．２％となった。ロイターがまとめたエコノミスト予想は１９．９％だった。
-半導体装置の出荷額は、人工知能ブームに後押しされた継続的な需要を反映して、49.1% の大幅な増加を記録しました。
-仕向地に関しては、日本の最大の貿易相手国である中国への輸出が25.8％増加し、米国への輸出が22％増加した。
-輸出額が増加したにもかかわらず、その増加は主に円安と販売価格の上昇によるもので、7月の数量増加は5.2％にとどまった。
-データ発表後、指標となる日経平均株価は０．６４％上昇し、円は対ドルで０．１１％安の１５８．３５円で取引された。
-過去数カ月間の好調な輸出は日本のGDPを支えてきた。前年同期比では、経済成長率は第 2 四半期は 0.7% でしたが、今年の最初の 3 か月は 0.5% でした。
-GDPは前期比および年率ベースで予想を下回ったものの、同セクターが経済成長に最大の貢献を果たしており、輸出が影響を和らげるのに役立った。
-７月の日本への輸入は２７．８％増と、２０２２年１１月以来の高水準となり、アナリスト予想の２６．５％増も上回った。イラン戦争の影響で、原油価格の上昇に伴い、同国の石油輸入は金額ベースで87.8％増加した。
-国際エネルギー機関によると、日本はエネルギー需要の87％以上を輸入でまかなっている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
-    publishedAt: "2026-08-20T00:30:32+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "call-buying-bonanza-around-trump-s-hyper-1ae624fc",
-    title: "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
-    titleJa: "トランプ大統領のハイパーリキッド発言を巡るコール買いの大成功には、眉をひそめるような取引も含まれている",
-    summaryJa: "ドナルド・トランプ大統領が業界リーダーらとの会合を予定していたために、水曜日はすでに暗号資産にとって最高の日となりつつあり、ビットコイン取引は6月以来の最高値を記録した。そこでビッグニュースが飛び込んできた。",
-    bodyOriginal: `Wednesday was already shaping up to be the best for crypto assets in recent memory, with bitcoin trading the highest since June as President Donald Trump scheduled a meeting with industry leaders.
-Then the big news hit.
-Around 3 p.m. ET, the president hinted at regulating Hyperliquid, the decentralized exchange that's been garnering popularity among traders as the home base of "perpetual futures" trading – the swap-like derivatives contracts with high leverage and no expiration that have been a thorn in the side of incumbent exchanges this year – despite U.S. residents not being allowed on the platform.
-"I understand that [Commodity Futures Trading Commission Chair] Mike [Selig] is also working to bring Hyperliquid into the United States in a fully compliant and legal fashion," Trump said in a press conference.
-Shares of Hyperliquid Strategies (PURR), the publicly traded treasury company that owns HYPE tokens, surged 30% before the closing bell, bringing the stock's year-to-date gain to more than 163%. HYPE, the digital token that powers the exchange's blockchain-based settlement and operations, jumped 18% to just below record highs. Shares of Cboe Global Markets dropped 3.5%, Miami International Holdings fell 3.1% and CME Group slid 1.7%.
-"We've been trying for awhile to figure out how to get into the U.S. and the CFTC has been quite responsive, but when Trump says it at a press conference, it means it's a priority," David Schamis, CEO of Hyperliquid Strategies and founding partner at Atlas Merchant Capital, said in a call after the bell on Wednesday.
-"You can't do something like this and make new rules – you see how hard it is to get Clarity [Act] passed. You have to figure out how to make it work with rules existing today," he added. The Clarity Act is a bill that would establish a regulatory framework for cryptocurrencies.
-Options volume in Hyperliquid was almost eight times the 30-day average, with more than 120,000 calls traded versus under 8,000 puts. Traders bought almost 45,000 calls and sold 29,000. About $10 million in premium exchanged hands, with the biggest single trades coming about a half-hour after the announcement when someone bought 2,000 8-strike calls expiring in November and December for about $510,000.
-There was also a flurry of heavy call-trading activity in the hours before the announcement. Just shy of $2 million in calls of various strikes and expiries traded before 3 p.m., including some trades that carried signs of indiscriminate and rushed buying indicative of someone eager to get in on a trade.
-In one case, around 11 a.m., someone spent $65,000 trading 719 of the 8-strike calls expiring in mid-October, paying 90 cents each for a contract that had just 67 open positions coming into Wednesday. Those calls are now worth $2.45 each, meaning the trader was up about $111,000 by the close.
-"These by definition were opening trades so you're asking me to believe someone went out in front of this announcement and sold a bunch of upside call opening trades?" said Dennis Davitt, CNBC contributor and co-founder of Millbank Dartmoor Portsmouth, an investment firm managing more than $500 million in institutional assets. "I hope they have a robust alibi."
-Trading in the iShares Bitcoin Trust ETF (IBIT) was more than 4.5 times the 30-day average even before the Hyperliquid headlines as Treasury yields retreated, and investors overall pivoted toward underperforming sectors of the past year. Bitcoin volatility measured by Volmex Labs' BVIV Index jumped 13% after hitting a year-to-date low of 35.5 Friday.
-Whether Hyperliquid's success translates into a bitcoin price revival remains to be seen. Shares of Michael Saylor's Strategy rallied nearly 13% Wednesday, while Coinbase surged almost 10%. Both are down roughly 30% year-to-date after bitcoin posted the worst year relative to the S&P 500 since 2019
-"We have four things on our balance sheet," said Schamis. "Two billion of HYPE token, cash, common equity, and deferred tax liability. No debt and no funky converts."
-Correction: Hyperliquid Strategies does not own the Hyperliquid exchange.`,
-    bodyJa: `ドナルド・トランプ大統領が業界リーダーらとの会合を予定していたために、水曜日はすでに暗号資産にとって最高の日となりつつあり、ビットコイン取引は6月以来の最高値を記録した。
-そこでビッグニュースが飛び込んできた。
-午後3時頃ETによれば、大統領はハイパーリキッドを規制することをほのめかした。この分散型取引所は「無期限先物」取引の本拠地としてトレーダーの間で人気を集めている分散型取引所である。高レバレッジで有効期限のないスワップのようなデリバティブ契約であり、今年既存の取引所にとって厄介な問題となっているが、米国居住者の同プラットフォームへの利用は許可されていない。
-トランプ大統領は記者会見で「（商品先物取引委員会の）マイク（セリグ委員長）も、完全に準拠した合法的な方法でハイパーリキッドを米国に導入することに取り組んでいることを理解している」と述べた。
-HYPEトークンを所有する上場財務会社であるハイパーリキッド・ストラテジーズ（PURR）の株価は、取引終了ベルの前に30％急騰し、年初からの株価上昇率は163％以上となった。同取引所のブロックチェーンベースの決済と運営を支えるデジタルトークンであるHYPEは18％上昇し、過去最高値をわずかに下回った。 CBOEグローバル・マーケッツの株価は3.5％下落し、マイアミ・インターナショナル・ホールディングスは3.1％下落し、CMEグループは1.7％下落した。
-ハイパーリキッド・ストラテジーズの最高経営責任者（CEO）でアトラス・マーチャント・キャピタルの創設パートナーであるデビッド・シャミス氏は、水曜日の鐘後の電話で、「われわれはしばらく米国に参入する方法を模索しており、CFTCはかなり反応してきたが、トランプ大統領が記者会見でそう言うということは、それが優先事項だということだ」と語った。
-「このようなことをして新しいルールを作ることはできません。Clarity [法]を通過させることがいかに難しいかがわかります。今日存在するルールでそれを機能させる方法を見つけなければなりません。」と彼は付け加えた。クラリティ法は、仮想通貨の規制枠組みを確立する法案です。
-ハイパーリキッドのオプション取引高は30日平均のほぼ8倍で、プットが8,000件未満であるのに対し、コールは12万件以上取引された。トレーダーらは約４万５０００コールを買い、２万９０００コールを売った。約1,000万ドルのプレミアムな取引が行われ、最大の単独取引は発表の約30分後に行われ、誰かが11月と12月に期限切れとなる2,000の8ストライクコールを約51万ドルで購入した。
-発表の数時間前には激しいコール取引活動もあった。午後3時前に取引されたさまざまなストライキや期限切れのコールは200万ドル手前で、その中には取引に参加しようとしている人物を示す無差別で急ぎの買いの兆候が見られる取引も含まれていた。
-あるケースでは、午前11時ごろ、誰かが10月中旬に期限切れとなる8ストライクコールのうち719件の取引に6万5000ドルを費やし、水曜日に到着するオープンポジションがわずか67件だった契約にそれぞれ90セントを支払った。これらのコールは現在それぞれ 2.45 ドルの価値があり、トレーダーは取引終了までに約 111,000 ドル上昇したことを意味します。
-「これらは定義上、オープニングトレードだったので、誰かがこの発表の前に出てきて、大量のアップサイドコールのオープニングトレードを売ったということを信じるように求めているのですか？」 CNBC寄稿者であり、5億ドル以上の機関投資家資産を管理する投資会社ミルバンク・ダートムーア・ポーツマスの共同創設者であるデニス・ダビット氏はこう語る。 「彼らにしっかりとしたアリバイがあることを願っています。」
-iシェアーズ・ビットコイン・トラストETF（IBIT）の取引は、米国債利回りが後退し、投資家が全体的に過去1年間のパフォーマンスの悪いセクターに方向転換したため、ハイパーリキッドのヘッドラインが報じられる前でさえ、30日間平均の4.5倍を超えていた。 Volmex LabsのBVIV指数で測定されたビットコインのボラティリティは、金曜日に年初来安値の35.5を記録した後、13％上昇した。
-Hyperliquidの成功がビットコイン価格の復活につながるかどうかはまだ分からない。水曜日、マイケル・セイラー・ストラテジーの株価は13％近く上昇し、コインベースは10％近く急騰した。ビットコインがS&P 500と比較して2019年以来最悪の年を記録したことを受け、両者は年初から約30％下落している
-「バランスシートには4つの項目があります」とシャミス氏は語った。 「20億のHYPEトークン、現金、普通株式、繰延税金負債。借金もなければ、ファンキーな転向者もいない。」
-訂正: Hyperliquid Strategies は Hyperliquid 取引所を所有していません。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
-    publishedAt: "2026-08-19T23:57:47+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "india-s-gen-z-are-driving-up-a-mega-boom-fe2943ff",
-    title: "India's Gen Z are driving up a mega boom in its beauty market",
-    titleJa: "インドのZ世代が美容市場で大ブームを巻き起こしている",
-    summaryJa: "インドのZ世代が美容市場で大ブームを巻き起こしている- 公開されました",
-    bodyOriginal: `India's Gen Z are driving up a mega boom in its beauty market
-- Published
-India's beauty brands have been drawing a lot of interest from global capital recently.
-Earlier this year in March, American luxury cosmetics maker Estée Lauder fully acquired, external the homegrown ayurvedic company Forest Essentials. France's L'Oréal Group followed in June, picking up a majority stake in digital personal care brand Innovist, external. And Unilever has made at least four beauty investments in the country through its venture capital arm in the last couple of years.
-Founded at the turn of the millennium in a garage in the Himalayan foothills by entrepreneur Mira Kulkarni - a single mother of two - Forest Essentials has grown from a fledgling startup into a billion-dollar company with a global presence over the last two decades.
-Its rise mirrors the explosive growth being witnessed of the country's beauty industry, which was valued at about $23bn (£17.08bn) in 2025 but is expected to nearly double in size to $40bn by the end of this decade, growing at twice the rate of the country's GDP and the broader retail market.
-Rising spending power in Asia's third-largest economy is partly driving this boom, according to experts.
-India's per capita income crossed $2,000 in 2019, a threshold beyond which discretionary spending tends to grow exponentially, according to Redseer, a business consultancy. And by 2030, some 155 million households are expected to earn more than $9,500 annually, providing a further tailwind to growth.
-"Historically we've underspent on beauty because there was just no purchasing power for anything other than the very basic stuff - such as all-purpose soap or face powder," Kushal Bhatnagar, a partner at Redseer, told the BBC.
-"But now, along with more spending power, there is improved access, distribution and product education. The internet broke these barriers, with brands leveraging the power of social media platforms and influencers to reach consumers directly."
-In fact, e-commerce is expected to drive around 35% of overall beauty spending by 2030, compared with just 8% five years ago, according to Reedseer's estimates.
-The pandemic also proved to be a major game-changer for the industry, according to Vaishali Gupta, whose two beauty ventures have witnessed breakneck expansion since their launches during Covid.
-She co-founded the vegan skincare company Hyphen with Bollywood star Kriti Sanon in 2023 and also runs mCaffeine which makes scrubs, washes and lotions and calls itself India's first caffeinated personal care brand.
-"Covid pushed people inward and toward self-care, and it coincided with a massive wave of digital penetration tier-one, tier-two and tier-three towns. Suddenly Indian consumers had access to beauty and skincare education they'd never had before - such as what was trending in Korea or Europe, or what specific ingredients could do for brightening or acne control," Gupta told the BBC.
-"That knowledge base created a consumer who knew exactly what they wanted. And that's really where the boom in Indian skincare began."
-In the past year Gupta's brands have grown their top line by 100% and she anticipates strong double-digit growth going forward.
-Both Hyphen and mCaffeine, she says, are now among the top 10 brands across their categories in India.
-"This is a structural growth story - and we're just at the beginning of what this market can become," Gupta said.
-It is no surprise then, that a host of Bollywood stars - from Deepika Padukone to Katrina Kaif and Shilpa Shetty of Big Brother fame - have also jumped on the bandwagon and launched skincare companies in recent years.
-The growth in customers is coming from all corners of the country and isn't restricted to big cities.
-What's also striking, according to Gupta, is that the Gen Z is driving it, spending roughly double what millennials did on skincare and personal care.
-Data from Wamart-backed Flipkart, India's largest e-commerce platform corroborates this. Some 56% of its beauty and personal care shoppers are Gen Z, with 70% of them discovering the products they buy through social media.
-Two out of three beauty searches on Flipkart also come from non-metro areas.
-According to Redseer, Gen Z and Gen Alpha's share of beauty spending will grow from 32% in 2024 to around 50% by 2030.
-It's an inflection point, according to Priyanka Bhargav, who leads brand strategy at Flipkart. What was once an "aspirational category has now become a daily expression of self-care" for many young Indians, she says.
-Going forward, the consumer is only likely to become more sophisticated as the market grows from here. And the next leg of growth will be driven by niche brands innovating with specific ingredients, dermatologist-backed products and a focus on skin nutrition, say experts.
-While only a handful of individual brands have scaled meaningfully so far, at this pace of growth at least 10-15 beauty companies will cross $200m in revenue in the next three to five years, according to Bhatnagar.
-"And when that happens, we expect many of them to tap the public markets, and for IPO (initial public offering) and M&A (mergers and acquisitions) activity to really intensify in the sector," he said.
-Follow BBC News India on Instagram, external, YouTube,, external X, external and Facebook, external.`,
-    bodyJa: `インドのZ世代が美容市場で大ブームを巻き起こしている
-- 公開されました
-インドの美容ブランドは最近、世界資本から大きな関心を集めている。
-今年3月初め、アメリカの高級化粧品メーカー、エスティ・ローダーが、自社のアーユルヴェーダ企業フォレスト・エッセンシャルズを社外から完全買収した。フランスのロレアル・グループも6月に続き、デジタルパーソナルケアブランドのイノビスト（社外）の株式の過半数を取得した。そしてユニリーバは、過去数年間にベンチャーキャピタル部門を通じて国内で少なくとも4件の美容投資を行った。
-2000 年代の変わり目に、2 人の子供のシングルマザーである起業家ミラ クルカルニによってヒマラヤ山麓のガレージで設立されたフォレスト エッセンシャルズは、過去 20 年にわたって、設立間もない新興企業から世界的に存在感を示す 10 億ドル規模の企業に成長しました。
-この上昇は、同国の美容産業の爆発的な成長を反映しており、2025年には約230億ドル（170億8000万ポンド）と評価されていたが、この10年末までにその規模はほぼ2倍の400億ドルに拡大すると予想されており、同国のGDPやより広範な小売市場の2倍の割合で成長している。
-専門家らによると、アジア第3位の経済大国の購買力の上昇がこのブームを後押ししている部分があるという。
-ビジネスコンサルタント会社レッドシーアによると、インドの一人当たり所得は2019年に2000ドルを超え、これを超えると裁量的支出が急激に増加する傾向にあるという。そして、2030 年までに約 1 億 5,500 万世帯が年間 9,500 ドル以上の収入を得ると予想されており、成長へのさらなる追い風となります。
-レッドシーア社のパートナー、クシャル・バトナガル氏はBBCに対し、「歴史的に私たちは美容にあまりお金をかけてこなかった。なぜなら、万能石鹸やフェイスパウダーなど、ごく基本的なもの以外には購買力がなかったからである」と語った。
-「しかし今では、購買力の増加とともに、アクセス、流通、製品教育が改善されています。インターネットはこれらの障壁を打ち破り、ブランドはソーシャルメディアプラットフォームやインフルエンサーの力を活用して消費者に直接アプローチできるようになりました。」
-実際、Reedseer の試算によれば、5 年前はわずか 8% でしたが、2030 年までに電子商取引が美容関連支出全体の約 35% を占めるようになると予想されています。
-ヴァイシャリ・グプタ氏によれば、パンデミックは業界にとって大きな変革をもたらしたとも証明されており、同社の美容ベンチャー2社はコロナ禍での立ち上げ以来、猛烈な勢いで拡大しているという。
-彼女は、2023年にボリウッドスターのクリティ・サノンとともにビーガンスキンケア会社ハイフンを共同設立し、スクラブ、ウォッシュ、ローションを製造し、インド初のカフェイン入りパーソナルケアブランドを名乗るmCaffeineも経営している。
-「新型コロナウイルスは人々を内向きにセルフケアに向かわせ、それは第一級、第二級、第三級の都市へのデジタル浸透の大波と重なった。突然、インドの消費者はこれまで受けたことのない美容やスキンケアの教育にアクセスできるようになった。例えば、韓国やヨーロッパで何がトレンドになっているのか、美白やニキビ対策に特定の成分がどのような効果があるのか​​など」とグプタ氏はBBCに語った。
-「その知識ベースは、自分たちが何を望んでいるのかを正確に知っている消費者を生み出しました。そして、まさにそこからインドのスキンケアブームが始まりました。」
-過去 1 年間でグプタ氏のブランドは売上高を 100% 成長させており、今後は 2 桁の大幅な成長が見込まれると彼女は予想しています。
-彼女によれば、Hyphen と mCaffeine は両方とも、現在ではインドの各カテゴリー全体でトップ 10 ブランドに入っています。
-「これは構造的な成長物語であり、私たちはこの市場がどのようなものになり得るかの始まりにすぎません」とグプタ氏は語った。
-近年、ディーピカー・パドゥコーンからカトリーナ・カイフ、ビッグ・ブラザーで有名なシルパ・シェティに至るまで、多くのボリウッドスターがこの流れに乗り、スキンケア会社を立ち上げたのも不思議ではありません。
-顧客の増加は大都市に限定されず、国の隅々から来ています。
-グプタ氏によると、さらに驚くべきことは、Z世代がそれを推進しており、ミレニアル世代がスキンケアやパーソナルケアに費やした金額のおよそ2倍を費やしていることだという。
-Wamart が支援するインド最大の電子商取引プラットフォームである Flipkart のデータがこれを裏付けています。美容品やパーソナルケアの買い物客の約 56% が Z 世代で、そのうち 70% がソーシャル メディアを通じて商品を見つけて購入しています。
-Flipkart での美容検索の 3 件のうち 2 件は、大都市圏以外からのものです。
-Redseer によると、Z 世代とアルファ世代の美容支出の割合は、2024 年の 32% から 2030 年までに約 50% に増加すると予想されています。
-フリップカートでブランド戦略を率いるプリヤンカ・バルガフ氏によれば、これは転換点だという。かつては「憧れのカテゴリー」だったものが、今では多くのインドの若者にとって日常的なセルフケアの表現になっている、と彼女は言う。
-今後、市場が成長するにつれ、消費者はさらに洗練されていくでしょう。そして、次の成長は、特定の成分、皮膚科医の支援を受けた製品、皮膚の栄養に重点を置いた革新を行うニッチブランドによって推進されるだろうと専門家は述べています。
-バトナガル氏によると、これまで有意義に規模を拡大できている個別ブランドはほんの一握りだが、このペースで成長すれば、少なくとも10～15社の美容企業が今後3～5年で収益2億ドルを超えるだろうという。
-「そしてそれが実現すれば、多くの企業が公開市場に参入し、この分野でIPO（新規株式公開）やM&A（合併・買収）活動が本格化すると予想している」と同氏は述べた。
-Instagram (外部)、YouTube、外部 X (外部)、および Facebook (外部) で BBC News India をフォローしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgr71kv9k95o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-19T23:31:24+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd6/live/e0b60a90-9194-11f1-9e9c-c71e84be4584.jpg",
-    readTime: 7,
-  },
-  {
-    id: "my-son-does-not-work-yet-pays-500-for-af-aaa7eab0",
-    title: "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-    titleJa: "私の息子は働いていませんが、医療費負担適正化法の健康保険に 500 ドルを払っています。それは公平ですか？",
-    summaryJa: "「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」",
-    bodyOriginal: `“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”`,
-    bodyJa: `「多額のお金を持っているにもかかわらず、課税所得がほとんど、またはまったくない人でも、ACA マーケットプレイスの補助金を受ける資格がある人を見かけます。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-    publishedAt: "2026-08-19T23:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-15414148",
-    readTime: 2,
-  },
-  {
-    id: "i-quit-my-80-000-job-to-make-ice-cream-h-df234dfc",
-    title: "I quit my £80,000 job to make ice cream - here's how",
-    titleJa: "アイスクリームを作るために8万ポンドの仕事を辞めました - その方法は次のとおりです",
-    summaryJa: "アイスクリームを作るために8万ポンドの仕事を辞めました - その方法は次のとおりです- 公開されました",
-    bodyOriginal: `I quit my £80,000 job to make ice cream - here's how
-- Published
-At 28, Vivien Wong walked away from an £80,000-a-year accounting job to start making ice cream with her brother.
-Growing up in her family's bakery, she had dreamt of one day running her own business. She says her father's cancer diagnosis made her take the leap to create Little Moons.
-The mochi balls of doughy rice filled with ice-cream exploded on TikTok, but its apparent overnight success was more than a decade in the making.
-Wong shares the lessons she learnt along the way and her advice for anyone thinking about starting a business of their own.
-Don't wait until you're ready
-One of the biggest mistakes aspiring founders make is waiting for everything to be perfect so Wong recommends following an "80-20 rule".
-"Don't wait for perfection because that extra 20 is going to take you too long and you might miss the market," she says.
-Instead, she recommends getting a product "80% of the way there", launching it and improving it as you go - like she did with Little Moons.
-For its first five years Wong sold mochi to restaurants and cinemas before she saved enough money to invest in branding and move into supermarkets.
-Be prepared to make sacrifices
-Wong left a well-paid job and moved in with her brother so they could save money and reinvest any profits into the business.
-She remembers swapping a polished City environment, where there was always someone else to call for help, for having to do almost everything herself.
-"All roads lead to you when you run your own business so even though I wasn't great with IT, I was head of IT".
-She also had to learn about machinery, product development, making ice cream and paying wages.
-Wong says she even did the company accounts on Sundays rather than pay for a bookkeeper because, at the time, saving the money mattered more than getting the day back.
-Know your brand
-Wong's advice to people starting a business is about the importance of knowing your brand and saying no to opportunities that don't fit.
-"If you know what your brand values are, you know how you can apply that to a trend, but you also know when to leave it alone," she says.
-"Pick and choose what you say yes to and don't try and do everything. Stay focused, know exactly what you stand for."
-She also warns against blindly taking advice from experts - but to listen and think for yourself.
-"You realise that advice they're giving you was probably right for another business but not for your specific set of circumstances."
-She and her brother would discuss advice they received, sometimes take it and sometimes reject it and over time, making those decisions helped build her confidence.
-Set boundaries with family
-Wong says working with her brother has been a huge strength but there were also "definitely a lot of arguments".
-They had to learn to behave like colleagues at work rather than siblings.
-When the company was considering moving from a 5,000 sq ft factory to a 30,000 sq ft site, with annual rent jumping from around £40,000 to £500,000, Wong says she was more willing to take the risk while her brother was naturally more cautious.
-But that difference in opinion has helped them make better decisions as they "balance each other out".
-Her advice for anyone working with family is to set boundaries for how you interact in the workplace.
-"You have to be really mindful that you're being as respectful to your brother as a colleague and you see him as a colleague and not a sibling," she says.
-Now that Little Moons has a chief executive and wider leadership team, the pair are less involved in the day-to-day running of the company which Wong says has allowed them to "just be brother and sister again".
-'Overnight success' can take years
-Little Moons became a TikTok phenomenon during the pandemic but Wong says most people don't realise it had been running for a decade already.
-"Everyone says we're like an overnight success 12 years in the making," she says.
-Before going viral, the company had spent years learning how to manufacture at scale, train staff, export products and supply major retailers.
-That preparation proved essential when demand suddenly exploded as the business might not have survived its viral moment without the team and infrastructure already behind it.
-"Business is a combination of many, many, many boring things and many boring small steps," she says.
-For anyone watching founders seemingly blow up on social media overnight, she says it's important to remember that the viral moment is often the part of the story everyone sees rather than the beginning.
-Related topics
-- Published25 June`,
-    bodyJa: `アイスクリームを作るために8万ポンドの仕事を辞めました - その方法は次のとおりです
-- 公開されました
-ヴィヴィアン・ウォンさんは28歳のとき、年収8万ポンドの経理の仕事を辞め、弟と一緒にアイスクリーム作りを始めた。
-実家のパン屋で育った彼女は、いつか自分のビジネスを経営することを夢見ていました。彼女は、父親がガンと診断されたことが、リトル・ムーンズの創設に踏み切ったと言います。
-もちもちのご飯にアイスクリームを詰めた餅団子が TikTok で爆発的に流行したが、その明らかな一夜にしての成功には 10 年以上の歳月がかかった。
-ウォンは、その過程で学んだ教訓と、自分のビジネスを始めようと考えている人へのアドバイスを共有します。
-準備ができるまで待たないでください
-意欲的な創業者が犯す最大の間違いの 1 つは、すべてが完璧になるのを待つことであるため、ウォン氏は「80 対 20 ルール」に従うことを推奨しています。
-「完璧を求めないでください。20 個追加すると時間がかかりすぎて、市場を逃してしまう可能性があります」と彼女は言います。
-代わりに、彼女は、Little Moons で行ったように、「80% 完成した」製品を入手し、それを発売し、途中で改善することを推奨しています。
-最初の 5 年間、ウォンさんはレストランや映画館に餅を売り、その後ブランディングに投資してスーパーマーケットに進出するのに十分なお金を貯めました。
-犠牲を払う覚悟をしなさい
-ウォンさんは、お金を節約し、利益を事業に再投資できるよう、高給の仕事を辞め、兄と一緒に引っ越しました。
-彼女は、ほとんどすべてのことを自分で行わなければならなかったために、常に助けを求められる誰かがいた洗練されたシティの環境と入れ替わったことを覚えています。
-「自分のビジネスを経営するとき、すべての道は自分に通じているので、IT が得意ではなかったにもかかわらず、IT の責任者になりました。」
-彼女はまた、機械、製品開発、アイスクリームの製造、賃金の支払いについても学ばなければなりませんでした。
-ウォンさんは、当時は一日を取り戻すことよりもお金を節約することが重要だったので、簿記係に支払う代わりに日曜日に会社の会計処理をしたことさえあったと語った。
-自分のブランドを知る
-ビジネスを始める人々へのウォン氏のアドバイスは、自分のブランドを知り、合わない機会にはノーと言う重要性についてです。
-「自分のブランド価値が何であるかを知っていれば、それをトレンドにどう適用できるかがわかりますが、いつそれを放っておくべきかもわかります」と彼女は言います。
-「イエスと言えるものを選んで、すべてをやろうとしないでください。集中して、自分が何を支持しているのかを正確に理解してください。」
-彼女はまた、専門家のアドバイスを盲目的に受け入れるのではなく、耳を傾けて自分の頭で考えるように警告しています。
-「彼らがあなたに与えているアドバイスは、別のビジネスにはおそらく正しいが、あなたの特定の状況には当てはまらないことに気づきました。」
-彼女と彼女の兄弟は、受け取ったアドバイスについて話し合い、時には受け入れ、時には拒否し、時間をかけてそれらの決断を下すことが彼女の自信を育むのに役立ちました。
-家族との境界線を設定する
-ウォンさんは、兄と協力することが大きな力になったが、「間違いなくたくさんの口論」もあったと語る。
-彼らは兄弟ではなく職場の同僚のように振る舞うことを学ばなければなりませんでした。
-会社が5,000平方フィートの工場から3万平方フィートの敷地への移転を検討しており、年間賃料が約4万ポンドから50万ポンドに跳ね上がることを検討していたとき、ウォンさんは、兄は当然より慎重だったが、彼女はリスクを取ることに前向きだったと語る。
-しかし、その意見の違いは、彼らが「お互いのバランスをとっている」ため、より良い決定を下すのに役立ちました。
-家族と一緒に働く人への彼女のアドバイスは、職場での関わり方に境界線を設けることです。
-「兄弟に対して同僚と同じように敬意を払い、兄を兄弟ではなく同僚として見るということを本当に意識しなければなりません」と彼女は言う。
-現在、リトル・ムーンズには最高経営責任者と幅広い経営陣がおり、二人は日常の会社運営にはあまり関与していないため、ウォン氏は「再び兄妹に戻れる」と語った。
-「一夜にして成功」するには何年もかかることがある
-Little Moonsはパンデミック中にTikTok現象となったが、ほとんどの人はすでに10年も運営されていたことに気づいていないとウォン氏は言う。
-「私たちは12年間かけて一夜にして成功したようなものだと誰もが言います」と彼女は言います。
-急速に広まる前に、同社は大規模な製造、スタッフの訓練、製品の輸出、大手小売店への供給方法を何年もかけて学んできました。
-需要が突然爆発したとき、その準備が不可欠であることが判明しました。なぜなら、すでにサポートしているチームとインフラストラクチャがなければ、ビジネスはそのバイラルな瞬間を乗り切ることができなかったかもしれないからです。
-「ビジネスとは、たくさんの、たくさんの、退屈なことと、退屈な小さなステップの組み合わせです」と彼女は言います。
-創業者が一夜にしてソーシャルメディア上で爆発する様子を見ている人にとって、バイラルな瞬間は多くの場合、ストーリーの始まりではなく、誰もが目にする部分であることを覚えておくことが重要だと彼女は言う。
-関連トピック
-- 6 月 25 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-19T23:08:03+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b0d/live/04272360-9bd1-11f1-bb4d-1147ef2e78e5.jpg",
-    readTime: 6,
-  },
-  {
-    id: "u-s-government-debt-passes-40-trillion-m-ff3c25ca",
-    title: "U.S. government debt passes $40 trillion, more than doubling in a decade",
-    titleJa: "米国政府債務が40兆ドルを超え、10年で2倍以上に増加",
-    summaryJa: "財務省によると、政府債務は40兆ドルを超え、赤字の驚異的な基準をさらに超えた。米国の IOU 総額は火曜日の時点で 40 兆 500 億ドルに達し、30 兆ドルを超えてから約 4 年半が経過しました。新型コロナウイルスのパンデミック（世界的大流行）中の景気刺激策によって財政赤字が何年にもわたって拡大し、公的債務の割合は100％近くになった。",
-    bodyOriginal: `Government debt has eclipsed $40 trillion, passing yet another staggering benchmark for red ink, according to the Treasury Department.
-The total U.S. IOU hit $40.05 trillion as of Tuesday, some four and a half years after topping $30 trillion. Years of escalating budget deficits, pushed higher by stimulus funding during the Covid pandemic, have seen the public share of the debt near 100%.
-In the most recent monthly accounting of U.S. finances, Treasury reported a $432.3 billion deficit in July, the highest monthly total since March 2021. The year-to-date shortfall is nearing $1.8 trillion, higher than the same period a year ago.
-Ten years ago, the debt level was at $19.4 trillion.
-The U.S. fiscal situation has had market ramifications, which have played out recently and likely pushed the Treasury Department into announcing Wednesday that it is upping the size of its repurchases at the long end of the yield curve.
-Treasury yields have surged since late June, hitting levels not seen since before the global financial crisis that ultimately saw the Federal Reserve take benchmark rates to near zero. The Fed also instituted an aggressive bond repurchasing program in late 2008 that helped suppress rates.
-However, concerns over the debt-and-deficit situation, along with surging corporate bond issuance associated with artificial intelligence investments, rising term premia and worries over the Fed's commitment to inflation fighting, have been a tail wind for yields.
-With the Fed hesitant to move on rates absent more information on inflation and the labor market, the government has seen its borrowing costs soar. Interest on the debt has totaled nearly $1.2 trillion this year and is the largest budget expenditure outside of Social Security and Medicare.
-Correction: The debt total passed $40 trillion on Tuesday. An earlier version misstated the day.`,
-    bodyJa: `財務省によると、政府債務は40兆ドルを超え、赤字の驚異的な基準をさらに超えた。
-米国の IOU 総額は火曜日の時点で 40 兆 500 億ドルに達し、30 兆ドルを超えてから約 4 年半が経過しました。新型コロナウイルスのパンデミック（世界的大流行）中の景気刺激策によって財政赤字が何年にもわたって拡大し、公的債務の割合は100％近くになった。
-米国財政の最新の月次会計で、財務省は7月に4,323億ドルの赤字を報告し、2021年3月以来最高の月間総額となった。年初からの不足額は1兆8000億ドル近くとなっており、前年同期を上回っている。
-10年前の債務水準は19兆4000億ドルだった。
-米国の財政状況は市場に影響を与えており、この影響が最近及んでおり、おそらく財務省は水曜日、イールドカーブの長期端での自社株買いの規模を拡大すると発表するに至ったであろう。
-国債利回りは6月下旬から急上昇し、最終的に連邦準備理事会が基準金利をゼロ近くに引き下げた世界金融危機以前以来の水準に達した。 FRBはまた、2008年後半に積極的な債券買い戻しプログラムを導入し、金利の抑制に貢献した。
-しかし、人工知能投資に関連した社債発行の急増、タームプレミアムの上昇、FRBのインフレ対策への取り組みに対する懸念に加え、債務赤字の状況に対する懸念が利回りの追い風となっている。
-FRBがインフレや労働市場に関するさらなる情報が得られない状況で金利を決定することに躊躇しており、政府は借り入れコストが高騰していると見ている。今年の債務利息は総額1兆2000億ドル近くに上り、社会保障とメディケアを除けば最大の予算支出となっている。
-訂正：火曜日に債務総額は40兆ドルを超えました。以前のバージョンではその日の記載に誤りがありました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-    publishedAt: "2026-08-19T22:34:33+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "bessent-moves-to-curb-treasury-yields-pu-28260fc6",
-    title: "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed",
-    titleJa: "ベッセント氏は米国債利回り抑制に動き、ウォーシュ氏率いるFRBに新たな圧力をかける",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Treasury Secretary Scott Bessent is in the midst of a historic effort to tamp down long-term Treasury yields. He may also be complicating the work of his counterpart at the Federal Reserve, Chairman Kevin Warsh.
-The Treasury Department on Wednesday said it would increase its buybacks of long-term Treasury debt, raising the maximum it will buy from $2 billion to at least $4 billion. The intervention had the effect of stemming a sell-off in the Treasury market that has pushed up yields to uncomfortable levels in recent days. The selloff had dominated global headlines as investors worried that rising Treasury yields would worsen an affordability crisis for consumers, complicate businesses' borrowing plans, threaten stock-market gains and make it more expensive for the government to finance its burgeoning debt.
-While the buybacks aren't large compared to the total amount of debt outstanding, many in the markets interpreted the Treasury's new repurchase plan as a potent symbol of a long-standing effort by Bessent to bring down the yield on the 10-year Treasury and other maturities.
-But doing so risks accelerating inflation while making the cost of financing the $32.2 trillion in debt held by the public more sensitive to potential interest-rate increases, bond traders and economists said. And it puts pressure on the independent Fed to back administration policies.
-"We're slowly moving to the point where the logic of populism is going to insist that the central bank support fiscal objectives," said Joseph Brusuelas, principal and chief economist at RSM US.
-President Donald Trump has demanded the Fed cut interest rates to lower the burden of financing the federal debt, while simultaneously adding to the debt. The federal budget deficit is on track to hit $2.1 trillion this year, according to the Congressional Budget Office.
-"That will cause market distortions. And the sort of intervention that we saw this morning that will make life more difficult for Kevin Warsh," Brusuelas said.
-Stated purpose: market liquidity
-Treasury buybacks are formally aimed at improving market liquidity for some less-traded instruments, in other words, ensuring that there are enough buyers and sellers in a given market to establish reliable prices. In this case, Treasury aimed to take longer-term maturities, of 10 to 30 years, off the market.
-Markets have long asked the Treasury to increase its buybacks. Newly issued debt tends to trade with healthy liquidity, but buyers can later become scarce for maturities that are less than the term originally issued. For instance, a 30-year Treasury bond issued in May 2020 — with 24 years left to maturity — traded on Wednesday at roughly 45 cents on the dollar. Removing these so-called off-the-run securities from the market, frees up the balance sheets of institutions to buy the more liquid issues, which could put downward pressure on rates.
-The Treasury is not retiring debt, or engaging in a quantitative easing program like the Fed.
-"The Fed can print money and buy what they want," said Brij Khurana, fixed-income portfolio manager at Wellington. "The Treasury doesn't have that capability. They need to fund the buybacks by issuing more bills," he said.
-But that's where Bessent's actions become controversial. Instead of replacing long-term bonds with long-term bonds, Treasury is expected to replace them with short-term bills, manipulating the yield curve.
-While that's the expectations among market participants, the Treasury itself didn't say in its announcement how it would fund the buybacks. The department didn't respond to requests for comment.
-The announced buybacks quickly reversed the bond selloff. Bond prices move inversely to yields.
-Since the outbreak of the Iran war, the 10-year yield has risen by nearly 70 basis points, topping out recently at 4.74% and pushing up 30-year mortgage rates to around 6.75%. The 10-year yield fell as low as 4.63% after news broke of the Treasury buybacks and finished the day at 4.65%.
-Bessent criticized Yellen
-The buybacks follow two other recent steps that have also effectively stemmed the rise in long-term Treasury yields.
-Bessent in July used Treasury funds to support Japan's troubled currency, the yen, but chose to sell euros rather than dollars in the transaction. He also urged the Fed to expand a facility that would allow Japan to lend rather than sell its Treasury holdings for future interventions.
-Then on Aug. 5, The Treasury Department said that it plans to continue with its recent practice of issuing relatively more short-term debt compared to the long-term trend.
-That looks to be at odds with what his own Treasury Borrowing Advisory Committee has recommended. T-bills currently make up 22.2% of outstanding Treasury debt, higher than the rough 20% ceiling recommended by the TBAC, an apolitical group of market experts.
-Bessent in 2024 criticized his predecessor, Treasury Secretary Janet Yellen, for adopting the same policy of issuing more T-bills. He described that as Yellen putting her thumb on the scale of markets to keep down the costs of overspending. Warsh similarly criticized the Fed for its bond purchases, saying by keeping yields down they opened the door for overspending by Congress and the administration.
-TBAC has also cautioned the department not to politicize buybacks. In July 2025, TBAC said buybacks would be helpful if they were aimed at fixing market liquidity issues, but not if they changed the so-called debt profile, or changing the balance of debt between longer and shorter maturities, TBAC said.
-"The Committee feels strongly that issuance is the primary tool for managing the debt profile," its minutes recorded.
-How it could backfire
-How the Treasury manages the profile of the vast pool of Treasury debt can have significant consequences for taxpayers. The federal government has made $963 billion in net interest payments in the first 10 months of fiscal year 2026, according to the Congressional Budget Office. Debt payments account for about 15% of fiscal spending.
-When the federal debt is tipped more toward shorter maturities, those payments become more sensitive to rises and falls in interest rates. If the Fed chooses to raise interest rates, it would rapidly increase the government's interest expenses. Bessent's decision to issue more short-term debt could backfire.
-Also, keeping down long-term rates could boost economic activity and the threat of inflation. "You're increasing the risk that inflation is sticky, and the Fed needs to keep rates higher," said Khurana.
-Bessent's buyback prompted the dollar to fall by nearly 0.8% Wednesday against a basket of other currencies. That could increase inflation by making imports more expensive, Khurana said.
-At the Fed, Warsh left investors uncertain about his future plans after his most recent press conference, on July 29. He said he was concerned about inflation that had remained above the Fed's 2% target for more than five years, but didn't raise interest rates and didn't clearly articulate what might prompt him to change his mind. He also suggested he believed the market had done his work for him in raising long-term bond yields.
-Brusuelas also noted that Warsh wants an unfiltered message from bond prices to help him set policy more closely tied to a market rate. But the moves Bessent to tamp down longer-term yields through his various methods of intervention, threaten to cloud those signals.
-Warsh's remarks accelerated the sell-off of long-term debt.
-Warsh will have an opportunity to address these issues at an annual gathering of central banks in Jackson Hole, Wyo., next week.
-But he will likely face long-term pressure to align Fed policy with the Treasury, Brusuelas said.
-"I think that's a path that will lead to large policy errors over time," he said.`,
-    bodyJa: `スコット・ベッセント財務長官は、長期国債利回りを押し下げる歴史的な取り組みの真っ最中だ。同氏はまた、FRBのカウンターパートであるケビン・ウォーシュ議長の仕事を複雑にしている可能性がある。
-財務省は水曜日、長期国債の買い戻しを拡大し、買い入れ上限を20億ドルから少なくとも40億ドルに引き上げると発表した。この介入は、ここ数日利回りを不快な水準まで押し上げている米国債市場の売りを食い止める効果をもたらした。投資家らは、米国債利回りの上昇が消費者の手頃な価格危機を悪化させ、企業の借入計画を複雑にし、株式市場の利益を脅かし、膨れ上がる政府の債務のファイナンス費用をより高価にするのではないかと懸念しており、この株安が世界的な見出しを占めた。
-債券残高に比べれば買い戻し額は大きくないものの、市場の多くの人は、財務省の新たな買い戻し計画は、10年物国債やその他の満期の利回りを引き下げようとするベッセント氏の長年にわたる取り組みの強力な象徴であると解釈していた。
-しかし債券トレーダーやエコノミストらによると、そうすることでインフレが加速するリスクがあり、国民が抱える32兆2000億ドルの債務の資金調達コストが潜在的な金利上昇にさらに敏感になるという。そして、独立したFRBに対して政権政策を支持するよう圧力をかけることになる。
-ＲＳＭ ＵＳのプリンシパル兼チーフエコノミスト、ジョセフ・ブルスエラス氏は「ポピュリズムの論理が中央銀行に財政目標を支持するよう要求する段階に徐々に移行しつつある」と述べた。
-ドナルド・トランプ大統領は、連邦債務のファイナンス負担を軽減すると同時に債務を増加させるために利下げをFRBに要求している。議会予算局によると、今年の連邦財政赤字は２兆１０００億ドルに達する見込みだ。
-「それは市場の歪みを引き起こすだろう。そして今朝我々が見たような介入は、ケビン・ウォーシュ氏の生活をさらに困難なものにするだろう」とブルスエラス氏は語った。
-明示された目的: 市場の流動性
-国債の買い戻しは正式には、取引の少ない商品の市場流動性を改善すること、言い換えれば、信頼できる価格を確立するために所定の市場に十分な買い手と売り手を確保することを目的としています。この場合、財務省は10年から30年の長期満期債を市場から排除することを目指した。
-市場は長年、財務省に対し自社株買いの拡大を求めてきた。新しく発行された債券は健全な流動性で取引される傾向がありますが、当初の発行期間よりも短い満期では買い手が後から不足する可能性があります。例えば、2020年5月に発行された30年米国債（満期まで残り24年）は水曜日、1ドル＝約45セントで取引された。こうしたいわゆるオフ・ザ・ラン証券を市場から取り除くと、金融機関のバランスシートが解放され、より流動性の高い銘柄を購入できるようになり、金利に下押し圧力がかかる可能性がある。
-財務省は債務を返済したり、FRBのような量的緩和プログラムを実施したりはしていない。
-ウェリントンの債券ポートフォリオマネジャー、ブリジ・クラナ氏は「ＦＲＢは紙幣を刷って欲しいものを買うことができる」と述べた。同氏は「財務省にはそのような能力はない。財務省はさらに手形を発行して自社株買いの資金を賄う必要がある」と述べた。
-しかし、ベッセント氏の行動が物議を醸すのはそこだ。財務省は長期国債を長期国債に置き換えるのではなく、短期国債に置き換えてイールドカーブを操作するとみられている。
-市場参加者の間ではそれが予想されているが、財務省自体は発表の中で自社株買いの資金をどのように賄うかについては明らかにしていない。同省はコメントの要請に応じていない。
-発表された自社株買いにより、債券売りはすぐに反転した。債券価格は利回りと逆に動きます。
-イラン戦争勃発以来、10年債利回りは70ベーシスポイント近く上昇し、最近では4.74％で最高となり、30年住宅ローン金利は約6.75％まで上昇している。財務省の自社株買いのニュースが伝えられた後、10年債利回りは4.63％まで低下し、この日は4.65％で終了した。
-ベッセント氏はイエレン氏を批判
-この自社株買いは、長期国債利回りの上昇を効果的に阻止した他の2つの最近の措置に続くものだ。
-ベッセント氏は7月、問題に直面している日本の通貨である円を支援するために財務省の資金を利用したが、取引ではドルではなくユーロを売ることを選択した。同氏はまた、将来の介入に備えて日本が国債保有を売却するのではなく、融資を可能にする制度を拡充するようFRBに要請した。
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-    publishedAt: "2026-08-19T20:02:32+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "my-wife-can-claim-900-at-62-should-she-t-e94279ba",
-    title: "My wife can claim $900 at 62. Should she take it now — or wait for her spousal benefit?",
-    titleJa: "私の妻は 62 歳で 900 ドルを請求できます。今すぐ受け取るべきでしょうか、それとも配偶者手当を待つべきでしょうか?",
-    summaryJa: "「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」",
-    bodyOriginal: `“She was a teacher at a school district, so didn’t put much into Social Security.”`,
-    bodyJa: `「彼女は学区の教師だったので、社会保障にはあまり力を入れませんでした。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-want-her-to-choose-the-best-strategy-my-wifes-social-security-is-just-900-should-she-claim-spousal-benefit-at-62-e3ef621d?mod=mw_rss_topstories",
-    publishedAt: "2026-08-19T18:39:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-70214433",
     readTime: 2,
   },
 ];
