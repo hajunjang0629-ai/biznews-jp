@@ -15,6 +15,595 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "japan-headline-inflation-rate-hits-highe-731e3837",
+    title: "Japan headline inflation rate hits highest this year as energy prices bite",
+    titleJa: "エネルギー価格の高騰により、日本の総合インフレ率は今年最高に達する",
+    summaryJa: "イラン戦争のさなかエネルギーコストが上昇する中、日本の総合インフレ率は7月に1.9％と今年最高水準に達した。生鮮食料品の価格を差し引いた、エネルギーを含むコアインフレ率は1.8％で予想と一致した。",
+    bodyOriginal: `Japan's headline inflation rate hit 1.9% in July, the highest level this year, as energy costs increase amid the Iran war.
+Core inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.
+Energy prices rose for the first time since November 2025 despite government subsidies, due to high oil costs from the conflict in the Middle East. That showed up in wholesale inflation, which came in at 7.2% for July, with electricity charges being the largest contributor.
+Fresh food prices also saw a sharp spike, increasing 7% compared to a 3.9% rise in June.
+Analysts have previously told CNBC that the relatively low consumer inflation is due to subsidies handed out by Prime Minister Sanae Takaichi's administration as it attempts to shield consumers from higher energy prices.
+The so called "core-core" inflation rate — which strips out prices of both fresh food and energy, came in at 1.9%.
+The Bank of Japan warned in its outlook report last month that core inflation was likely to accelerate to a level "clearly above" 2% from the second half of its 2026 fiscal year, which runs from September to March.
+It cited wage increases being passed along into selling prices, the rise in crude oil prices and the recent depreciation of the yen. Inflation should then come down toward 2% as oil declines, it said.`,
+    bodyJa: `イラン戦争のさなかエネルギーコストが上昇する中、日本の総合インフレ率は7月に1.9％と今年最高水準に達した。
+生鮮食料品の価格を差し引いた、エネルギーを含むコアインフレ率は1.8％で予想と一致した。
+中東紛争による原油価格高騰のため、政府の補助金にもかかわらず、エネルギー価格は２０２５年１１月以来初めて上昇した。これは7月の卸売インフレ率に表れ、7.2％となり、電気料金が最大の要因となった。
+生鮮食品の価格も急騰し、6月の3.9％上昇に対し7％上昇した。
+アナリストらは以前CNBCに対し、比較的低い消費者インフレは高市早苗首相の政権が消費者をエネルギー価格高騰から守るために配布した補助金によるものだと語った。
+生鮮食品とエネルギーの価格を差し引いた、いわゆる「コアコア」インフレ率は1.9％となった。
+日銀は先月の見通し報告書の中で、コアインフレ率が２０２６会計年度（９月から３月）の下半期から２％を「明らかに上回る」水準まで加速する可能性が高いと警告した。
+賃金上昇が販売価格に転嫁されているほか、原油価格の上昇や最近の円安などを理由に挙げた。その後、原油価格の下落に伴いインフレ率は２％に向けて低下するだろうとの見方を示した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+    publishedAt: "2026-08-21T00:22:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "japan-s-historic-yen-intervention-has-tu-9b164d9b",
+    title: "Japan's historic yen intervention has ‘turbo-charged’ the carry trade",
+    titleJa: "日本の歴史的な円介入はキャリートレードを「ターボチャージ」した",
+    summaryJa: "円を下支えしようとする日本の歴史的な取り組みは、一部の投資家にキャリートレードを倍増させるより良い機会を与えるという、意図せぬ結果をもたらした可能性がある。財務省のデータによると、日本の投資家は８月１５日までの２週間に海外株式と長期債券を５兆円以上買い越し、それまでの２週間は３０００億円以上売り越していた。",
+    bodyOriginal: `Japan's historic effort to prop up the yen may have had an unintended consequence: giving some investors a better opportunity to double down on carry trade.
+Japanese investors net bought more than 5 trillion yen of foreign equities and long-term bonds over the two weeks ended Aug. 15, compared with net selling of over 300 billion yen in the prior two weeks, according to Ministry of Finance data.
+The purchases suggest investors took advantage of the yen's sharp rally following last month's joint U.S.-Japan currency intervention to snap up overseas assets at more favorable exchange rates, said market watchers.
+"Intervention has 'turbo charged' the carry trade for fundamental & long term investors," according Jesper Koll, expert director at Monex Group. "As long as the cost of money in Japan is lower than the return overseas, carry trades will re-assert," Koll said.
+While authorities succeeded in jolting the yen higher, they did little to change the incentive for investors to borrow or raise funds cheaply in Japan and put the money into higher-yielding assets abroad.
+The yen strengthened from around 164 per dollar before the intervention to roughly 155, but quickly surrendered a large chunk of those gains. It has since weakened back toward 159 against the greenback.
+That has reinforced expectations that the yen will remain under pressure unless the Bank of Japan raises rates enough to materially narrow the bond yield gap with the U.S. The U.S.-Japan 10-year yield spread stood at roughly 1.8 percentage point as of Thursday.
+The short-lived yen gains signal that investors are treating bouts of yen strength as opportunities to rebuild carry trade positions rather than abandon them.
+That dynamic is particularly visible among Japanese institutional investors. Long-term investors such as pension funds and asset managers continued selling yen, according to Masahiko Loo, fixed income strategist at State Street Global Advisors.
+"The intervention only addressed a 'symptom', but [is] not curing the 'disease,'" said Francis Tan, Asia chief strategist at Indosuez Wealth Management, referring to the structural forces including Japan's low borrowing costs and wide interest-rate differentials with other major economies.
+Koll also said that Japanese retail and institutional investors have used the stronger yen to establish new positions in non-yen assets, particularly higher-yielding U.S. bills and bonds.
+"The market is far less one-sided than before the intervention, but the incentives to fund in yen remain attractive while U.S.-Japan rate differentials stay wide," Loo said.
+Other flow data point more directly to carry positions being maintained. Long-term investors are continuing to sell low-yielding yen against higher-yielding G10 currencies, consistent with investors using the Japanese currency to fund positions elsewhere, said to Masahiko Loo, fixed income strategist at State Street Global Advisors.
+Alpha Binwani Capital's founder Ashwin Binwani said institutional investors remained positioned in carry trades against a basket of G10 currencies, led by the Australian dollar.
+There are also signs that some currency traders are rebuilding bearish bets on the yen, as the impact of the intervention has faded.
+Binwani exited long dollar-yen positions after the U.S.-backed intervention, before re-establishing them just above 157, expecting the yen to weaken going forward. "Upon news of the U.S. intervention, we took profit and once again re-established dollar yen long positions just slightly above 157," he said.
+Binwani said each intervention-driven rally could potentially offer investors a better entry point to sell the currency. While distinct from borrowing yen to invest directly in higher-yielding assets, the trade is underpinned by the same fundamental force: Japan's relatively low interest rates that keep its currency under pressure.
+Overall, speculative positions against the yen, however, have declined. CFTC data show leveraged funds slashed net short yen positions from almost 138,000 contracts at the end of June to 59,526 as of Aug. 11, as authorities demonstrated their willingness to intervene.`,
+    bodyJa: `円を下支えしようとする日本の歴史的な取り組みは、一部の投資家にキャリートレードを倍増させるより良い機会を与えるという、意図せぬ結果をもたらした可能性がある。
+財務省のデータによると、日本の投資家は８月１５日までの２週間に海外株式と長期債券を５兆円以上買い越し、それまでの２週間は３０００億円以上売り越していた。
+市場関係者らによると、今回の購入は、投資家が先月の日米共同為替介入後の円の急騰を利用して、より有利な為替レートで海外資産を買い占めたことを示唆しているという。
+マネックスグループのエキスパートディレクター、ジェスパー・コル氏は、「介入により、ファンダメンタルズ投資家や長期投資家にとってキャリートレードは『ターボチャージ』された」と述べた。 「日本のお金のコストが海外のリターンよりも低い限り、キャリートレードは再び活発化するだろう」とコル氏は語った。
+当局は円高を揺るがすことに成功したが、投資家が日本で安く資金を借りたり調達し、その資金を海外の高利回り資産に投資したりするインセンティブを変えることはほとんどできなかった。
+円は介入前の1ドル＝約164円から約155円まで上昇したが、その上昇分のかなりの部分をすぐに放棄した。その後、対ドルで159ドルに向けて下落した。
+このため、日銀が米国との債券利回り格差を大幅に縮小するほど十分な利上げをしない限り、円には引き続き圧力がかかるとの見方が強まった。日米10年債利回り格差は木曜時点で約1.8％ポイントとなっている。
+短期間の円高は、投資家が円高局面をキャリートレードのポジションを放棄するのではなく、再構築する機会として捉えていることを示している。
+この力関係は特に日本の機関投資家の間で顕著に見られます。ステート・ストリート・グローバル・アドバイザーズの債券ストラテジスト、マサヒコ・ルー氏によると、年金基金や資産運用会社などの長期投資家は円を売り続けた。
+インドスエズ・ウェルス・マネジメントのアジア首席ストラテジスト、フランシス・タン氏は「介入は『症状』に対処しただけで、『病気』は治癒していない」と述べ、日本の低い借入コストや他の主要国との大きな金利差などの構造的要因に言及した。
+コル氏はまた、日本の個人投資家や機関投資家が円高を利用して、円以外の資産、特に高利回りの米紙幣や債券に新たなポジションを確立していると述べた。
+ルー氏は「市場は介入前に比べてはるかに一方的ではなくなったが、日米の金利差が依然として大きい中、円で資金を調達するインセンティブは依然として魅力的だ」と述べた。
+他のフロー データは、維持されているキャリー ポジションをより直接的に示します。ステート・ストリート・グローバル・アドバイザーズの債券ストラテジスト、マサヒコ・ルー氏は、長期投資家は高利回りのG10通貨に対して低利回りの円を売り続けており、これは投資家が日本通貨を他の場所のポジションに資金調達するために利用していることと一致すると述べた。
+アルファ・ビンワニ・キャピタルの創設者アシュウィン・ビンワニ氏は、機関投資家は豪ドル主導でＧ１０通貨バスケットに対してキャリートレードを続けていると述べた。
+介入の影響が薄れる中、一部の為替トレーダーが円に対する弱気の賭けを再構築している兆候もある。
+ビンワニ氏は米国支援の介入後、ドル円のロングポジションを解消したが、今後の円安を予想して１５７ドルを少し上回る水準に再確立した。同氏は「米国の介入のニュースを受けて、利益確定し、ドル円のロングポジションを１５７をわずかに上回る水準に再設定した」と述べた。
+ビンワニ氏は、介入主導の上昇は投資家にとって通貨売りのより良いエントリーポイントとなる可能性があると述べた。円を借りて高利回り資産に直接投資するのとは異なりますが、この取引は同じ基本的な力、つまり自国通貨に圧力をかけ続ける日本の比較的低い金利によって支えられています。
+しかしながら、全体的には対円投機ポジションは減少している。 CFTCのデータによると、当局が介入の姿勢を示したため、レバレッジファンドは6月末の約13万8,000枚から8月11日時点で5万9,526枚まで円のネットショートポジションを削減した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/us-japan-yen-intervention-bank-of-japan-carry-trade.html",
+    publishedAt: "2026-08-21T00:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "how-much-could-trump-s-economic-d-day-hu-88e6381f",
+    title: "How much could Trump's 'economic D-Day' hurt Iran?",
+    titleJa: "トランプ大統領の「経済的Dデー」はイランにどれだけのダメージを与える可能性があるだろうか？",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `How much could Trump's 'economic D-Day' hurt Iran?
+- Published
+Nearly six months after US President Donald Trump vowed a swift victory over Iran, the conflict appears to be at a standstill, with prospects of a military victory or negotiated settlement growing dimmer.
+To break the deadlock, Trump has vowed an "economic D-Day" under which any country that does business with Iran would face "tremendous" economic consequences.
+Iran, however, has long faced sanctions and has so far shown a willingness to endure pain and a capacity to adapt to immense economic and military pressure as the conflict drags on.
+The key question for the US then becomes, will further sanctions work where other strategies have failed?
+The exact mechanics of the new US economic pressure campaign remain unclear, with Treasury Secretary Scott Bessent promising to reveal them in a news conference on 24 August.
+But in an interview with CNBC, Bessent made clear that the US is willing to take action against any country - friend or foe - that it believes is extending a lifeline to Iran.
+"You are either with us or against us," he said. "If you insist on doing business with [Iran], either transferring money, buying their oil or doing seaborne sea transfers, then the US treasury and the US government... will put its full might and force toward enforcing against you."
+Vice-President JD Vance has described the sanctions as a "new phase" of the conflict in which economic pressure is the "most effective" tool available to the US.
+"They're going to try to apply economic pressure to us, but what has been true over the last couple of weeks is that they felt a lot more pressure than we have," Vance said on the Clay Travis and Buck Sexton show.
+"We're going to keep that going because we think that's the best way to ultimately achieve the final objective," he added.
+Iran has faced significant US sanctions since nearly the beginning of the Islamic Republic in 1979.
+The economic pressure campaign intensified after the first Trump administration withdrew from the Joint Comprehensive Plan of Action (JCPOA), a 2015 pact between world powers and Iran to curb its nuclear programme.
+And in the current conflict, the US government has already announced Operation Economic Fury, a two-pronged US economic campaign combining US treasury-co-ordinated sanctions against regime financial flows and a naval blockade against Iranian ports.
+Imran Bayoumi, a geostrategy expert with the Atlantic Council in Washington DC and former policy adviser to the defence department, told the BBC the latest announcement was likely the result of mounting frustration that other options have not delivered the results Trump wants.
+"This is really a recognition that the US is almost stuck in this war," he said. "It's another try at economic pressure."
+"This is just another tool that the US is using," Bayoumi added. "We've not seen a clear strategy laid out by the administration with either military or economic tools. The question of what the US is trying to achieve is still unanswered."
+Michael Parker, an eight-year veteran of the Office of Foreign Assets Control (OFAC) and expert on economic sanctions, said the new strategy will likely represent an effort to "expand the economic blast radius" of sanctions by targeting third countries that still deal with Iran, but have economies that depend on the US dollar.
+"Thus far, the US has largely used the threat of these secondary sanctions against foreign financial institutions to encourage compliance with sanctions policy," he said.
+"But this is a lever that is sort of unexplored insofar as targeting anything touching the US dollar that is also touching Iran," Parker added.
+As an example, Parker pointed to foreign financial institutions that help Iran evade sanctions, or directs money towards Iranian coffers.
+How Iran would respond to these moves remains unclear, but sanctions experts say that Iran has so far proved adept at using irregular channels to circumvent sanctions - such as "shadow" vessels transporting oil or new commercial fronts unlisted by US sanctions.
+"You keep seeing new names popping up, because Iran is adapting really quickly," said Mohammed Hammouda, an export control and sanctions manager at the London Stock Exchange. "Whatever sanctions one does, they find a new road [around it]."
+These Iranian counter-moves, he added, often leave those charged with enforcing compliance playing a game of catch-up.
+"Sanctions are all on paper, but the hard work is behind the scenes," Hammouda added. "There are teams worldwide trying to impose sanctions and identify those parties involved, which is why Iran has to try to adapt."
+How effective these sanctions are will largely be determined by how the countries that are ultimately targeted - which could include US allies like Turkey and Iraq, as well as China - react.
+"Some of this is out of Iran's hands," Parker said. "Iran's ability to evade or avoid sanctions is, in large part, contingent on other countries and financial institution's willingness to give them [Iran] access to the formal banking system."
+Parker believes that the sanctions are "only as powerful" as the willingness of targeted countries to comply with American foreign policy objectives, or face potentially painful sanctions on trade involving the US dollar.
+Some experts question whether that willingness currently exists.
+"I can't really see China agreeing to that, for example," Bayoumi said. "These states have all been able to navigate their own interests with the Trump administration."
+"The underlying point is that this is just another tool," he added. "But the broader question of strategy remains. Absent that, I'm not sure this is going to change anything long term."
+- Published3 hours ago
+- Published1 day ago
+- Published3 days ago`,
+    bodyJa: `トランプ大統領の「経済的Dデー」はイランにどれだけのダメージを与える可能性があるだろうか？
+- 公開されました
+ドナルド・トランプ米大統領がイランに対する速やかな勝利を誓ってからほぼ6カ月が経ち、軍事的勝利や交渉による解決の見通しはますます薄れており、紛争は停滞しているようだ。
+行き詰まりを打開するために、トランプ大統領は、イランと取引する国は「甚大な」経済的影響に直面する「経済Dデー」を宣言した。
+しかし、イランは長年にわたり制裁に直面しており、これまでのところ、紛争が長引く中、苦痛に耐える姿勢と、経済的・軍事的圧力の巨大化に適応する能力を示している。
+米国にとって重要な問題は、他の戦略が失敗した場合にさらなる制裁が機能するかどうかということになる。
+米国の新たな経済圧力キャンペーンの正確な仕組みは依然として不明であり、スコット・ベッセント財務長官は8月24日の記者会見で明らかにすると約束している。
+しかし、ベセント氏はCNBCとのインタビューで、米国はイランに命綱を伸ばしていると思われる国に対しては、敵味方問わず行動を起こす用意があると明言した。
+「あなたたちは我々に味方するか、反対するかのどちらかだ」と彼は言った。 「もしあなたが送金、石油の購入、あるいは海上輸送など、（イランと）取引をすることを主張するなら、米国財務省と米国政府は…全力を尽くしてあなたに対して強制力を行使するだろう。」
+Ｊ・Ｄ・バンス副大統領は、今回の制裁を、経済的圧力が米国にとって「最も効果的な」手段となる紛争の「新たな段階」であると述べた。
+ヴァンス氏はクレイ・トラビスとバック・セクストンの番組で、「彼らは私たちに経済的圧力をかけようとしているが、ここ数週間で真実なのは、彼らが私たちよりもはるかに大きなプレッシャーを感じていたということだ」と語った。
+「最終的に最終目標を達成するにはそれが最善の方法だと考えているので、我々はそれを続けるつもりだ」と彼は付け加えた。
+イランは、1979年のイスラム共和国発足間近以来、米国による大幅な制裁に直面してきた。
+第一次トランプ政権が核開発計画を抑制するための世界大国とイランとの間の２０１５年の協定である包括的共同行動計画（ＪＣＰＯＡ）から離脱した後、経済圧力キャンペーンは激化した。
+そして現在の紛争において、米国政府は既に「経済的怒り作戦」を発表している。これは、政権の資金の流れに対する米国財務省と連携した制裁と、イラン港湾に対する海上封鎖を組み合わせた二本柱の米国経済キャンペーンである。
+ワシントンD.C.の大西洋評議会の地政戦略専門家で元国防総省政策顧問のイムラン・バユーミ氏はBBCに対し、今回の発表は他の選択肢がトランプ大統領の望む結果をもたらしていないことへの不満の高まりの結果である可能性が高いと語った。
+「これはまさに、米国がこの戦争にほぼ巻き込まれているという認識だ」と同氏は述べた。 「これは経済的圧力に対する新たな試みだ。」
+「これは米国が利用しているもう一つの手段に過ぎない」とバユーミ氏は付け加えた。 「軍事的手段や経済的手段を用いて政権が打ち出した明確な戦略を我々は見たことがない。米国が何を達成しようとしているのかという問題はいまだ答えられていない。」
+外国資産管理局（OFAC）に8年間勤務し経済制裁の専門家であるマイケル・パーカー氏は、新たな戦略は、依然としてイランと取引を続けているが、経済が米ドルに依存している第三国をターゲットにすることで、制裁の「経済的爆発範囲を拡大する」取り組みを示す可能性が高いと述べた。
+同氏は「これまで米国は主に、外国金融機関に対するこうした二次制裁の脅威を利用して、制裁政策の順守を促してきた」と述べた。
+「しかし、これは、イランにも影響を及ぼし、米ドルに影響を与えるものを標的にするという点では、ある意味未開発の手段だ」とパーカー氏は付け加えた。
+パーカー氏は一例として、イランの制裁回避を支援したり、資金をイランの金庫に振り向けたりする外国金融機関を挙げた。
+イランがこうした動きにどう対応するかは依然として不明だが、制裁専門家らによると、イランはこれまでのところ、石油や米国の制裁対象外の新たな商業分野を輸送する「影の」船舶など、不規則なルートを利用して制裁を回避することに長けているという。
+ロンドン証券取引所の輸出管理・制裁担当マネジャー、モハメド・ハムーダ氏は、「イランは非常に早く適応しているため、新しい名前が次々と登場している」と述べた。 「どんな制裁をしても、彼らは[その周りに]新しい道を見つけるのです。」
+こうしたイランの対抗策により、コンプライアンスを強制する責任を負った人々は、後追いゲームをすることになることが多い、と同氏は付け加えた。
+「制裁はすべて紙の上で行われているが、努力は舞台裏で行われている」とハモウダ氏は付け加えた。 「制裁を課し、関係者を特定しようとしているチームが世界中に存在しており、そのためイランは適応しようと努めなければならない。」
+これらの制裁がどれだけ効果的かは、最終的に標的となる国（トルコやイラクといった米国の同盟国や中国も含まれる可能性がある）がどのように反応するかによって大きく決まるだろう。
+「この一部はイランの手に負えない」とパーカー氏は語った。 「イランが制裁を回避できるかどうかは、主に他国と金融機関が（イランに）正規の銀行システムへのアクセスを与えるかどうかにかかっています。」
+パーカー氏は、制裁の威力は、対象国が米国の外交政策目標に従うか、米ドルが絡む貿易に関して潜在的に痛みを伴う制裁に直面するかどうかに応じて「強力」になると考えている。
+一部の専門家は、そのような意欲が現在存在するかどうかを疑問視しています。
+「例えば中国がそれに同意するとは到底思えない」とバユーミ氏は語った。 「これらの州はすべて、トランプ政権とともに自らの利益をうまく進めることができた。」
+「根底にあるのは、これは単なるツールの1つだということだ」と同氏は付け加えた。 「しかし、戦略というより広範な問題が残っている。それがなければ、これが長期的に何かを変えるかどうかは分からない。」
+- 3 時間前に公開
+- 1 日前に公開
+- 3 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T23:16:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ffc/live/12640900-9cdc-11f1-a291-b542ee92de7c.jpg",
+    readTime: 7,
+  },
+  {
+    id: "why-the-us-economy-is-ringing-alarm-bell-6a9857b2",
+    title: "Why the US economy is ringing alarm bells",
+    titleJa: "米国経済が警鐘を鳴らしている理由",
+    summaryJa: "米国経済が警鐘を鳴らしている理由- 公開されました",
+    bodyOriginal: `Why the US economy is ringing alarm bells
+- Published
+What with a 250th birthday, Taylor Swift's wedding and the football World Cup, Americans could be forgiven for taking their eye off the ball this summer.
+But signs of economic trouble have been building. This week they hit the headlines when US national debt passed the $40tn mark, raising concerns both at home and abroad.
+How did the we get here?
+It took almost 200 years for America's national debt reach $1tn for the first time, says Maya MacGuineas, president of the Committee for a Responsible Federal Budget.
+That milestone back in 1981 was treated as a wake-up call. "At that time, President [Ronald] Reagan told the nation in a televised address, 'If we as a nation needed a warning, let that be it'," she said.
+"Jumping to America's 250th year, we are spending more than that just on interest payments on our debt."
+Hitting the $40tn milestone was expected - driven by public spending surges under both the Donald Trump and Joe Biden administrations - but it marks another line in the sand.
+Ballooning costs for social programs and other spending have outstripped revenues undermined by tax cuts. Responses to crises such as the 2008 financial crisis and the Covid pandemic have led to increased borrowing.
+Add to that higher interest rates in response to recent inflation shocks and the picture begins to look grim.
+How bad is it?
+At the beginning of Trump's first presidential term in 2016, US national debt stood at just under $20tn. It has doubled in the decade since.
+According to the Congress Joint Economic Committee, the figure is rising by about $90,000 every second, or $7.8bn a day.
+"What's very different now compared to a decade ago is the level of interest rates," says Eric Swanson, professor of economics at University of California and former senior economist at the Federal Reserve.
+"Long-term interest rates in the US are at multi-decade highs - part of that is concerns about inflation, but part of that is concerns about the extreme levels of US government borrowing."
+The bond market is demanding higher returns with investors wary of the scale of the US's debt, but also because tech firms borrowing eye-watering sums to spend on AI are competing with the government for investors' cash.
+"What happens when interest rates go up is that the funding of the deficit becomes more expensive," says economist Mohamed A. El-Erian, a professor at the Wharton School.
+Interest payments on government debt are now 15% higher than the same period last year, says El-Erian. They are almost 20% of tax revenue "larger than defence", he adds.
+Should I be worried?
+The US is nearing its $41.1tn debt ceiling, with debt forecast to climb to about $64tn by 2036, according to the Congressional Budget Office.
+But the situation is not yet critical, say economists. The US's position as the world's largest economy and the dollar being the world's reserve currency gives the US a "much longer runway to fiscally misbehave" than other countries, El-Erian says.
+"We're getting to a point where it's a flashing yellow light. It's not a flashing red light," he says.
+Swanson says other countries have had similar, or higher debt levels.
+While US national debt is 126% compared with the size of the economy, it's lower than other G7 nations Japan and Italy.
+But investor appetite in lending the US government money through buying bonds is "diminishing", Swanson warns, creating a "vicious" cycle, requiring the government to offer ever higher returns to keep investors purchasing its debt.
+And higher US borrowing costs inevitably spill over, raising other countries' borrowing costs too. "What happens in the US never stays in the US," says El-Erian.
+What does it mean for you?
+Households will likely face higher rates for mortgages, auto loans and credit cards as a result of the current situation, with those on lower incomes hit hardest, El-Erian says.
+There's also a secondary effect on consumers as higher borrowing costs for firms is often passed through to them via higher prices.
+So the impact of the debt "finds its way to the pocketbooks of people one way or another," says MacGuineas.
+What next?
+The US's latest figures show the economy slowed in recent months, but it is still growing at fair lick.
+That matters because economic growth means more tax revenue, which can pay for spending, whether that's on government programmes or interest payments. With enough growth, the debt problem is eased, points out El-Erian.
+But without sufficient growth the US might have to look at other options. They could include reforming the tax system and public spending, or austerity. Debt restructuring is another option.
+The strategy so far employed has been a kind of financial engineering, with the Treasury department on Wednesday stepping in to buy back government debt, boosting demand for bonds and lowering borrowing rates.
+But the impact was shortlived with long-term borrowing costs bouncing back up a day later.
+With the mid-term elections approaching, the White House will want to be seen to be delivering on the economy. Affordability is the top concern among voters. But the other options are no more appealing and El-Erian is doubtful the government is ready to look at other measures.
+"I don't see anything happening that is going to significantly lower the deficit over the next two to three years. If you look at the political talk, it's about tax cuts."`,
+    bodyJa: `米国経済が警鐘を鳴らしている理由
+- 公開されました
+生誕250年、テイラー・スウィフトの結婚式、そしてサッカーのワールドカップを控えているこの夏、アメリカ人がボールから目を離すのも無理はないだろう。
+しかし、経済問題の兆候は高まっている。今週、米国の国債が40兆ドルの水準を超えたことがニュースの見出しとなり、国内外で懸念が高まった。
+どうやって私たちはここに来たの？
+責任ある連邦予算委員会の委員長マヤ・マクギニアス氏は、アメリカの国家債務が初めて1兆ドルに達するまでにほぼ200年かかった、と語る。
+1981 年のこのマイルストーンは、警鐘として扱われました。 「当時、（ロナルド）レーガン大統領はテレビ演説で国民に『国家として警告が必要なら、それでいい』と語った」と彼女は語った。
+「アメリカ建国250周年に目を向けると、我々は借金の利払いだけでそれ以上の支出をしている。」
+ドナルド・トランプ、ジョー・バイデン両政権下での公共支出の急増により、40兆ドルの節目の達成が予想されていたが、これはまた新たな一線を画すことになる。
+社会プログラムやその他の支出にかかる費用が膨れ上がり、減税によって損なわれた歳入を上回っている。 2008年の金融危機や新型コロナウイルスのパンデミックなどの危機への対応により、借入が増加した。
+それに加えて、最近のインフレショックに対応した金利上昇もあり、状況は暗くなり始めています。
+どれくらいひどいですか？
+2016年のトランプ大統領の最初の任期の初めには、米国の国債は20兆ドル弱に達していた。それ以来10年で2倍になった。
+米議会合同経済委員会によると、この数字は毎秒約9万ドル、つまり1日あたり78億ドルずつ増加しているという。
+「10年前と比べて現在大きく変わっているのは、金利の水準だ」とカリフォルニア大学経済学部教授で元連邦準備制度理事会シニアエコノミストのエリック・スワンソン氏は言う。
+「米国の長期金利は数十年ぶりの高水準にある。インフレ懸念もあるが、米国政府の極端な借り入れ水準に対する懸念もある。」
+債券市場がより高いリターンを求めているのは、投資家が米国の債務の規模に警戒していることだけでなく、AI関連に支出するために目がくらむような金額を借りているハイテク企業が投資家の現金をめぐって政府と争っているためでもある。
+「金利が上昇すると何が起こるかというと、財政赤字の資金調達がより高価になるということです」とウォートンスクールの経済学者モハメド・A・エラリアン教授は言う。
+エラリアン氏によると、政府債務の利払いは現在、前年同期に比べて15％増加しているという。これらは税収のほぼ20％で「国防よりも大きい」と彼は付け加えた。
+心配する必要がありますか？
+議会予算局によると、米国は41.1兆ドルの債務上限に近づき、債務は2036年までに約64兆ドルに増加すると予測されている。
+しかし、経済学者らによると、状況はまだ危機的ではないという。世界最大の経済大国としての米国の地位と、ドルが世界基軸通貨であることにより、米国は他国に比べて「財政上の不正行為が起きる可能性がはるかに長い」とエラリアン氏は言う。
+「我々は、黄色信号の点滅という段階に達しつつある。赤信号の点滅ではない」と彼は言う。
+スワンソン氏は、他の国も同様かそれ以上の債務水準にあると述べた。
+米国の国債は経済規模に比べて126％だが、他のG7諸国である日本やイタリアに比べれば低い。
+しかし、債券購入を通じて米国政府に資金を融資する投資家の意欲は「減退」しており、投資家が国債を購入し続けるために政府はこれまで以上に高い収益を提供する必要があるという「悪循環」を生み出している、とスワンソン氏は警告する。
+そして米国の借入コストの上昇は必然的に波及し、他国の借入コストも上昇する。 「米国で起こったことは、決して米国内にとどまることはありません」とエラリアンは言う。
+それはあなたにとって何を意味しますか？
+現在の状況により、家計は住宅ローン、自動車ローン、クレジットカードの金利上昇に直面する可能性が高く、最も大きな打撃を受けるのは低所得世帯だ、とエラリアン氏は言う。
+企業の借入コストの上昇は、価格の上昇を通じて消費者に転嫁されることが多いため、消費者にも二次的な影響があります。
+そのため、借金の影響は「何らかの形で人々の懐に影響を及ぼしている」とマクギニアス氏は言う。
+次は何でしょうか？
+米国の最新の統計は、ここ数カ月で経済が減速したことを示しているが、依然としてかなりの勢いで成長している。
+経済成長は税収の増加を意味し、政府のプログラムや利払いなどの支出を賄うことができるため、これは重要だ。十分な成長があれば、債務問題は緩和される、とエラリアン氏は指摘する。
+しかし、十分な成長がなければ、米国は他の選択肢を検討しなければならないかもしれない。それには税制や公共支出の改革、あるいは緊縮財政が含まれる可能性がある。債務再編も選択肢の一つです。
+これまで採用されてきた戦略は一種の金融工学であり、水曜日に財務省が国債買い戻しに介入し、債券需要を高め、借入金利を引き下げた。
+しかし、その影響は長くは続かず、翌日には長期借入コストが回復した。
+中間選挙が近づく中、ホワイトハウスは経済に貢献していると思われることを望んでいるだろう。有権者の最大の関心事は手頃な価格だ。しかし、他の選択肢はもはや魅力的ではなく、エラリアン氏は政府が他の措置を検討する用意があるか疑っている。
+「今後２、３年で財政赤字を大幅に削減するような出来事は起きていないと思う。政治的な話題を見てみると、それは減税に関するものだ。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T23:15:15+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d5b/live/f6865980-9cf0-11f1-a0c7-a733f826760a.jpg",
+    readTime: 6,
+  },
+  {
+    id: "how-landscape-gardening-is-being-electri-9d803131",
+    title: "How landscape gardening is being electrified",
+    titleJa: "造園の電動化はどのように進んでいるのか",
+    summaryJa: "造園の電動化はどのように進んでいるのか- 公開されました",
+    bodyOriginal: `How landscape gardening is being electrified
+- Published
+Part of the soundtrack to a day in southern California is the drone of petrol-powered gardening equipment.
+Noise is one of the main reasons that cities around the US, external are banning petrol landscaping tools or encouraging electric alternatives.
+These alternatives have the additional benefits of reducing carbon emissions, vibrations and the exposure of landscapers to pollution.
+In addition they can mean longer working hours, as they can be used at times when residents demand quiet.
+Today, I'm taking part in training run by the American Green Zone Alliance (AGZA), an organisation supporting the transition towards electric landscaping equipment.
+To my surprise, the electric backpack leaf blower I strap on is not much heavier than my normal rucksack. Using the blower to herd balls around the park feels fairly intuitive, though naturally I'm much clumsier and slower than the pro landscapers.
+As for noise, there's still a buzz, but the sound is higher-pitched and not quite so loud as the familiar petrol-powered machines.
+The move to electric power is attracting new companies to the market for gardening kit.
+US aerospace start-up Whisper Aero is one of those firms. Its main business is electric propulsion systems for aircraft.
+But in 2022, after the Covid-19 pandemic made many people more sensitive to noise, and following a couple of years of research and development, the company realised that its aerospace-grade fans would work well in leaf blowers.
+"Our technology is cleaner, quieter and more efficient than other air-moving technologies that exist today," according to Andrew Terajewicz, Whisper Aero's director of air management. "And the leaf blower is the perfect mix of this."
+The battery on Whisper Aero's blower lasts up to 50 minutes at full power.
+The company has had to scale up its manufacturing volume in its expansion to consumer technology.
+Online pre-orders of Whisper Aero's handheld leaf blower started this year. It's priced at the high-end of electric leaf blowers, which are often more expensive than traditional petrol versions.
+But for that you get a machine which is less likely to disturb the peace.
+"It is so ultra quiet yet powerful, that the brain has a hard time understanding what's happening," says Dan Mabe, the former landscaper who founded AGZA.
+Whisper Aero aims to further develop its products, including a backpack leaf blower that would be better suited to professional landscapers.
+Even with innovation like that, petrol-powered machines are unlikely to disappear anytime soon, particularly for professional landscapers.
+For a start, petrol machines are much more powerful, which makes for quicker work, so less time is spent lugging around heavy equipment.
+Terajewicz says that heavy-duty petrol backpack blowers can reach a maximum blowing force of about 50 newtons.
+The handheld Whisper Aero blower typically runs at about half that, though it can go higher.
+Another big issue is runtime. Professional gardeners like to use their blowers at full throttle.
+"For us, it's a little bit hard to use electric," explains Carlos Camarena, a supervisor for a California landscaping company.
+Camarena's company uses electric tools where they're required to, in cities with ordinances banning petrol tools. But when they have a choice, they stick to petrol.
+His company typically uses batteries that last for about 30 minutes. A crew has six batteries charging at any given time; each takes about 45 minutes to reach a full charge.
+Then there's the considerable upfront cost of going electric. One landscaper estimates that it would cost his business around $10,000 (£7,540) to transition all their equipment.
+The subsidies and rebates offered by some local governments may not be enough to offset the cost of the switch.
+The change would be even harder for landscapers who work as sole proprietors, with a single vehicle and limited space for charging and storing equipment.
+Added to that is the weight of tools with multiple batteries, and the cost of accessories to hold them all.
+Nevertheless the biggest makers of power tools are investing in electric.
+Stihl, a power tool manufacturer headquartered in Germany, aims for battery-powered equipment to make up 35% of its sales by next year, and 80% by 2035.
+It's on track to meet the 2027 goal in Europe, though sales in the US have been slower.
+To help reach its targets, the company opened its first plant solely manufacturing batteries and tools, in Romania in 2025.
+"We like to say that we are dual-technology leaders," says Paul Hicks, senior marketing and product manager at Stihl GB.
+"So we are being very open with our customers if in some cases a petrol tool may be a better solution for them… But in the large majority of cases, battery-power tools pay off fairly swiftly because of the cost of fuel."
+In May, Stihl announced a new battery system that uses high-performance batteries.
+These batteries use a relatively new, more efficient design for lithium battery cells, known as tabless cells.
+Tabless cells have 60% more peak power than standard cells, according to Hicks. This means that the batteries charge faster, and landscapers can take fewer batteries out to sites.
+The batteries are also relatively lightweight.
+Mabe believes that overall, for gardeners embracing long-lasting electric equipment, "There's big rewards if they can make it work."
+Back in southern California, landscaper Camarena sees the benefits of electric tools. "We don't contaminate the air," he says.
+"When we use the gas blower, some people get mad. They are reading a book or something."
+More Technology of Business
+- Published12 June
+- Published5 June
+- Published9 June`,
+    bodyJa: `造園の電動化はどのように進んでいるのか
+- 公開されました
+南カリフォルニアの 1 日のサウンドトラックの一部は、ガソリンを動力とするガーデニング機器のドローンです。
+騒音は、全米各地の都市や国外でガソリンの造園道具を禁止したり、電気の代替品を奨励したりする主な理由の 1 つです。
+これらの代替案には、炭素排出量、振動、造園業者の汚染への曝露を軽減するという追加の利点もあります。
+さらに、住民が静かさを要求するときに使用できるため、労働時間が長くなる可能性があります。
+今日、私は電動造園機器への移行を支援する組織であるAmerican Green Zone Alliance（AGZA）が実施するトレーニングに参加しています。
+驚いたことに、私が背負っている電動バックパックリーフブロワーは、通常のリュックサックよりもそれほど重くありません。送風機を使って公園の周りでボールを集めるのはかなり直感的ですが、当然のことながら、私はプロの造園家よりもはるかに不器用で遅いです。
+騒音に関しては、まだブーンという音がしますが、その音は高音で、おなじみのガソリンエンジンのマシンほど大きくはありません。
+電力への移行により、園芸キット市場に新たな企業が参入しつつある。
+米国の航空宇宙新興企業ウィスパー・エアロもそうした企業の1つだ。主な事業は航空機用電気推進システムです。
+しかし、2022 年、新型コロナウイルス感染症のパンデミックにより多くの人が騒音に敏感になったことを受け、数年間の研究開発を経て、同社は航空宇宙グレードのファンがリーフブロワーでうまく機能することに気づきました。
+「当社の技術は、現在存在する他の空気移動技術よりもクリーンで、より静かで、より効率的です」と Whisper Aero の空気管理ディレクターである Andrew Terajewicz 氏は述べています。 「そしてリーフブロワーはこれを完璧に組み合わせたものです。」
+Whisper Aero のブロワーのバッテリーは、フルパワーで最大 50 分間持続します。
+同社は消費者向けテクノロジーへの拡大に伴い、製造量を拡大する必要に迫られている。
+Whisper Aero の手持ち式リーフブロワーのオンライン予約注文が今年開始されました。価格は電動リーフブロワーのハイエンドに相当し、従来のガソリンバージョンよりも高価であることがよくあります。
+しかし、そのために平和を乱す可能性が低い機械を手に入れることができます。
+AGZA を設立した元造園業者のダン・メイブ氏は、「非常に静かでありながらパワフルなので、脳は何が起こっているのかを理解するのが難しい」と語る。
+Whisper Aero は、プロの造園業者により適したバックパック型リーフブロワーなど、製品のさらなる開発を目指しています。
+このような技術革新があっても、特にプロの造園業者にとって、ガソリン駆動の機械がすぐに消えることはありません。
+まず、ガソリン機械ははるかに強力であるため、作業が迅速になり、重機を持ち運ぶのに費やす時間が短縮されます。
+Terajewicz氏によると、大型ガソリンバックパックブロワーは最大吹き出し力が約50ニュートンに達するという。
+ハンドヘルドの Whisper Aero ブロワーは通常、その約半分の速度で動作しますが、それよりも高くなる場合もあります。
+もう 1 つの大きな問題は実行時間です。プロの庭師はブロワーをフルスロットルで使用することを好みます。
+「私たちにとって、電気を使うのは少し難しいんです」とカリフォルニアの造園会社の監督者であるカルロス・カマレナ氏は説明する。
+カマレナさんの会社は、ガソリン工具を禁止する条例のある都市で、必要に応じて電動工具を使用している。しかし、選択肢がある場合、彼らはガソリンに固執します。
+彼の会社では通常、約 30 分間持続するバッテリーを使用しています。乗組員は常に 6 つのバッテリーを充電しています。フル充電に達するまでにそれぞれ約 45 分かかります。
+さらに、電気を導入するにはかなりの初期費用がかかります。ある造園業者は、すべての設備を移行するには約 10,000 ドル (7,540 ポンド) の費用がかかると見積もっています。
+一部の地方自治体が提供する補助金やリベートでは、切り替えのコストを相殺するには十分ではない可能性があります。
+個人事業主として働く造園業者にとって、この変化はさらに困難となるだろう。車両は 1 台で、機器の充電や保管のためのスペースも限られているからだ。
+これに加えて、複数のバッテリーを搭載したツールの重量と、それらをすべて保持するためのアクセサリのコストがかかります。
+それにもかかわらず、電動工具の最大手メーカーは電動化に投資している。
+ドイツに本社を置く電動工具メーカーStihlは、来年までに売上高の35％をバッテリー駆動機器が占め、2035年までに80％を占めることを目指している。
+欧州では2027年の目標達成に向けて順調に進んでいるが、米国での販売は鈍化している。
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cpq3w3v19veo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T23:12:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
+    readTime: 6,
+  },
+  {
+    id: "millennials-are-struggling-to-buy-a-home-3daed881",
+    title: "Millennials are struggling to buy a home - but is it actually getting easier?",
+    titleJa: "ミレニアル世代は住宅購入に苦労していますが、実際には住宅購入は容易になりつつあるのでしょうか?",
+    summaryJa: "ミレニアル世代は住宅購入に苦労していますが、実際には住宅購入は容易になりつつあるのでしょうか?- 公開されました",
+    bodyOriginal: `Millennials are struggling to buy a home - but is it actually getting easier?
+- Published
+Leaving education, getting a job, buying a home and perhaps starting a family: the path previous generations followed may seem a distant dream to many now.
+But is it getting a bit easier - at least when it comes to getting on the housing ladder?
+Today's prospective first-time buyers may well feel hard done by; they are still worse off than recent generations.
+If you were born in the UK in the mid-1990s you've about a 25% chance of owning your own home, as this chart shows.
+Twenty-somethings in the 1990s were almost twice as likely to be on the housing ladder, the previous generation even more so.
+But before looking at the current picture, what's behind the longer term shift?
+One issue is that property prices have outpaced incomes across many decades.
+In the chart below, housing economist Paul Cheshire puts it starkly, comparing the rise in egg prices with house prices over the past 71 years.
+Changes in the mortgage markets have contributed, but ultimately it's about a lack of housebuilding.
+The government previously estimated that England alone needs another 300,000 dwellings per year to keep up with population change and our preference for living in smaller households.
+But only 208,000 were added last year. We've not built close to 300,000 new homes in a year for at least three decades.
+There are many reasons why, but inflation has been key - from the price of land, to builders' wages and bricks.
+Our analysis shows that the cost of raw materials like timber, steel, plasterboard, concrete and insulation rose in line with general inflation from the 1990s until the Covid-19 pandemic, when they became harder to source.
+That was compounded by the impact of the war in Ukraine, which drove up both the cost of energy - 15% in a single year - for making these materials and for use in construction itself. The war in Iran has pushed prices up further.
+Even before the pandemic, more than one in five construction firms struggled with a lack of skilled staff, exacerbated by Brexit.
+As a guide, a home that cost £150,000 to build in 2015 may cost £230,000 now - analysts say those costs could rise by another 15% in the next five years.
+And that's before contending with planning. Strict regulations protect the environment and uphold safety standards but can add costs.
+The rising - and increasingly unpredictable - cost of building, coupled with uncertain demand has put some housebuilders off.
+As property prices have increased, the deposit needed to buy a house has reached tens of thousands.
+The amount to get a 10% deposit varies sharply across the country.
+Saving for a deposit becomes particularly hard if you're paying rent too. Private rents typically soak up a third of prospective buyers' incomes.
+No surprise a larger number of young people are opting to live at home and pay far lower housing costs so they can save more.
+But things may be turning a corner.
+House prices have typically risen more slowly than wages in the last few years, making it easier to save - and some lenders will take a smaller deposit. Plus, lenders tend to be more willing to offer larger loans with longer repayment times.
+And the slower growth of property prices and lower rates than a few years ago mean mortgage payments, relative to wages, are moving back towards the long-term average.
+But ultimately, to make it as easy to get on the ladder as it was for previous generations, we need more homes.
+There are moves afoot: Sir Keir Starmer's government introduced plans to streamline planning processes that can be chaotic and slow.
+Reforms will also allow more homes to be built on the green belt - not something everyone agrees with.
+But to really get things moving, we need to incentivise builders to commit with more confidence to building.
+And whatever approach the government takes, the results will take years to come through.`,
+    bodyJa: `ミレニアル世代は住宅購入に苦労していますが、実際には住宅購入は容易になりつつあるのでしょうか?
+- 公開されました
+教育をやめ、仕事に就き、家を購入し、おそらくは家族を築くなど、前の世代がたどった道は、今では多くの人にとって遠い夢のように見えるかもしれません。
+しかし、少なくとも住居のはしごに乗るときは、少しは楽になったでしょうか？
+今日、初めて購入を検討している人は、次のような理由で大変だと感じるかもしれません。彼らは最近の世代よりもまだ貧しい状況にあります。
+このグラフが示すように、1990 年代半ばにイギリスで生まれた場合、自分の家を所有できる確率は約 25% です。
+1990年代の20代は住宅のはしごに上がる確率がほぼ2倍で、前の世代はさらに高かった。
+しかし、現在の状況を見る前に、長期的な変化の背後にあるものは何でしょうか?
+問題の1つは、何十年にもわたって不動産価格が収入を上回っていることだ。
+以下のグラフでは、住宅経済学者のポール・チェシャーが、過去71年間の卵価格の上昇と住宅価格を比較して、それを率直に述べている。
+住宅ローン市場の変化も寄与しているが、最終的には住宅建設の不足が原因だ。
+政府は以前、人口の変化と少人数の世帯での居住を求める国民の好みに対応するには、イングランドだけでも年間さらに 30 万戸の住宅が必要であると推定しました。
+しかし、昨年増加したのはわずか20万8,000人だった。私たちは少なくとも30年間、年間30万戸近くの新しい住宅を建てていません。
+理由はたくさんありますが、土地の価格から建設業者の賃金やレンガに至るまで、インフレが鍵となっています。
+私たちの分析によると、木材、鉄鋼、石膏ボード、コンクリート、断熱材などの原材料の価格は、1990年代から新型コロナウイルス感染症のパンデミックまでの一般的なインフレに伴って上昇し、調達が困難になったことが示されています。
+ウクライナ戦争の影響により、これらの材料の製造と建設自体に使用するエネルギーのコストが 1 年間で 15% 上昇したため、この状況はさらに悪化しました。イラン戦争により価格はさらに上昇した。
+パンデミック以前でさえ、建設会社の5社に1社以上が熟練スタッフの不足に悩まされており、EU離脱によりさらに悪化した。
+目安として、2015 年に建設に 15 万ポンドかかった住宅の価格は現在 23 万ポンドになる可能性があります。アナリストらは、これらのコストは今後 5 年間でさらに 15% 上昇する可能性があると述べています。
+それは計画と戦う前の話です。厳格な規制は環境を保護し、安全基準を維持しますが、コストが増加する可能性があります。
+建設コストの上昇とますます予測不可能さが不確実な需要と相まって、一部の住宅建設業者を敬遠させている。
+不動産価格の上昇に伴い、住宅を購入するために必要な頭金は数万ドルに達しています。
+10% のデポジットを受け取る金額は国によって大きく異なります。
+家賃も払っている場合、頭金を貯めるのは特に難しくなります。民間賃貸料は通常、購入希望者の収入の 3 分の 1 を吸い取ってしまいます。
+より多くの若者が、より多くの貯蓄をするために、自宅に住み、はるかに低い住宅費を支払うことを選択しているのも不思議ではありません。
+しかし、事態は曲がり角を迎えているかもしれない。
+ここ数年、住宅価格は通常、賃金よりもゆっくりと上昇しているため、貯蓄が容易になっており、一部の貸し手は頭金を少額で受け取ることになる。さらに、貸し手は返済期間が長くても大規模なローンを提供する傾向があります。
+そして、数年前に比べて不動産価格の伸びが鈍化し、金利が低下していることは、賃金に比べて住宅ローンの支払額が長期平均に近づきつつあることを意味している。
+しかし最終的には、前の世代と同じように簡単にはしごに乗るためには、より多くの家が必要です。
+キーア・スターマー卿の政府は、混沌として時間のかかる計画プロセスを合理化する計画を導入しました。
+改革により、緑地帯にさらに多くの住宅を建てることも可能になるが、誰もが同意するものではない。
+しかし、本当に物事を進めるためには、建設業者がより自信を持って建設に取り組むよう奨励する必要があります。
+そして政府がどのようなアプローチをとろうとも、結果が出るまでには何年もかかるだろう。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T23:10:58+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
+    readTime: 5,
+  },
+  {
+    id: "stifling-heat-and-broken-toilets-tui-riv-a3d005a4",
+    title: "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+    titleJa: "息苦しい暑さと壊れたトイレ：TUI リバー クルーズの乗客が語る地獄の休日",
+    summaryJa: "息苦しい暑さと壊れたトイレ：TUI リバー クルーズの乗客が語る地獄の休日- 公開されました",
+    bodyOriginal: `Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell
+- Published
+Dozens of people have accused TUI River Cruises of operating vessels with faulty facilities including persistently broken air conditioning, after they spent thousands of pounds on holidays.
+Earlier this year passengers on the Skyla, a ship operated by TUI, contacted BBC Your Voice to say they had been stranded in Budapest during a heatwave with little to no air conditioning.
+Following that report more people got in touch to say they faced similar problems on both the Skyla and its sister vessel, the Isla. They criticised TUI's customer service and said the refunds offered were inadequate.
+TUI apologised to customers where trips "fell short of the standards we aim to deliver".
+A spokesperson for TUI, said: "We understand the disappointment and frustration caused to affected customers."
+Passengers described stifling conditions as well as problems with plumbing after paying thousands of pounds for European cruises, including on the Danube River.
+Andy Peach and his wife booked a seven-day trip on the Skyla in June, travelling through Budapest, Vienna and Linz.
+It turned out to be "the worst TUI holiday we've ever been on", he said.
+Instead of air conditioning, Peach said there were "big blowers" on board, expelling hot air.
+"One was in the middle of the corridor, blocking the exit," he said. "It didn't seem to cool the place down."
+Temperatures onboard climbed as the holiday went on leaving him "exhausted", he said. By the end of the week, Peach said the air conditioning in cabins had broken too.
+On the second-to-last day passengers were transferred to hotels, which Peach said were "really basic".
+He and his wife had paid nearly £4,000 for the holiday but they were offered only £300 as a refund and given 72-hours to accept it.
+He said: "TUI know there's problems on these boats, but continue to sell them to people as a full luxury cruise."
+During the time Peach was on the Skyla, Joan Craven came across complaints on social media.
+She was due to take the ship's next sailing from Budapest a few days later and was worried.
+TUI's customer services assured her by email that the air conditioning on board was working. When she arrived, however, a holiday rep told her it was not. Craven told the BBC she felt misled.
+Some people had described issues with air conditioning as well as problems with the water supply on the same vessel in May.
+Meanwhile, complaints about the Isla go back even further.
+'A tropical house at a zoo'
+Wendy Charnley and her husband Rob had "pushed the boat out" to celebrate his retirement by booking a cruise on the Isla in April 2025 departing from Amsterdam.
+It was like "being in a tropical house at a zoo" Charnley said, with no sign of air conditioning.
+"Some areas were really, really hot." she said. "There wasn't really anywhere that you could go that you could cool down."
+A couple of months later, Kevin Darvill boarded the ship in Frankfurt.
+He immediately noticed the toilet didn't work in the reception area. Portable fans and air conditioning units were also visible.
+Darvill said the ship became "really hot" with "no respite".
+"It was intolerable because there was literally no air circulation," he said. "The worst places were the restaurants."
+He struggled to sleep. Meanwhile, his shower alternated between freezing cold and "scalding hot".
+He said passengers were initially offered a 15% refund due to the air conditioning problems, which was increased to 40% when the cruise was cut short on the penultimate day.
+But he thinks the holiday should not have gone ahead in the first place.
+"Had I known that the air conditioning wasn't working, having gone on river cruises before, I wouldn't have gone," he said.
+Problems with the Isla have continued this year.
+John Welsh, who boarded in June, said some toilets were out-of-order and also reported issues with air conditioning.
+"The whole ship was a sweat box," he said, with some passengers in cabins that had no windows resorting to sleeping on the ship's roof.
+Welsh said staff were "soaking to the skin with sweat working in the restaurant", and he also needed to change his sweat-soaked clothes after eating there.
+He said he felt "fobbed off" when he complained to the cruise director. He accepted TUI's offer of a £140 per person refund for the problems with the air conditioning but said he would never travel with the company again.
+'Indefensible'
+By July, low river levels due to the heatwave were severely affecting European cruises.
+Tony Harper was informed a few days before his trip began on 20 July there would be some coach travel in place of sailing.
+But issues with the ship itself also stood out.
+"The common area smelt of sewage, there was water dripping through the ceiling and there were public toilets out of action for the whole voyage," he said.
+And there were portable air conditioning units onboard, which he said were not effective.
+Harper said: "You can't hold it against them for the low river, that's just nature.
+"But it was the way they dealt with that. It was their communication and poor maintenance of the ships, and you can't put it down to anything else other than that.
+"It's indefensible, really."
+TUI River Cruises said it had experienced "unexpected technical issues affecting air conditioning systems" as well as other challenges caused by low water levels on the Danube.
+It said extreme heat across parts of Europe had put systems under pressure and extensive repairs and maintenance work had been undertaken, including temporary measures.
+The company added that it was investing in its air conditioning systems across its European river cruise fleet this winter, including significant upgrades.`,
+    bodyJa: `息苦しい暑さと壊れたトイレ：TUI リバー クルーズの乗客が語る地獄の休日
+- 公開されました
+休日に数千ポンドを費やしたTUIリバークルーズは、エアコンが壊れ続けるなど欠陥のある設備で船を運航しているとして、数十人が非難している。
+今年初め、TUIが運航するスカイラ号の乗客がBBC Your Voiceに連絡し、熱波で空調がほとんどない中、ブダペストで足止めされていると話した。
+この報告を受けて、スカイラ号とその姉妹船であるアイラ号の両方で同様の問題に直面しているとの連絡がさらに多く寄せられました。彼らはTUIの顧客サービスを批判し、提供された返金は不十分だと述べた。
+TUIは、旅行が「当社が提供しようとしている基準を満たしていない」顧客に謝罪した。
+TUIの広報担当者は「影響を受けた顧客に失望と不満を与えていることは理解している」と述べた。
+乗客らは、ドナウ川を含むヨーロッパのクルーズに数千ポンドを支払った後の息苦しい状況や配管の問題を語った。
+アンディ・ピーチと妻は6月にスカイラでブダペスト、ウィーン、リンツを巡る7日間の旅行を予約した。
+それは「これまでで最悪のTUI休暇」になった、と彼は語った。
+ピーチ社は、機内にはエアコンの代わりに熱気を排出する「大型送風機」があったと述べた。
+「1人は廊下の真ん中にいて、出口を塞いでいた」と彼は語った。 「場が冷める様子はなかった。」
+休暇が続くにつれて船内の気温が上昇し、「疲れ果てた」と彼は語った。ピーチ社は、週末までに客室のエアコンも故障したと述べた。
+最後から2日目には乗客はホテルに移送されたが、ピーチ社は「本当に基本的なものだった」と述べた。
+彼と彼の妻は休暇のために4,000ポンド近くを支払ったが、払い戻しとして提示されたのは300ポンドのみで、それを受け入れるまで72時間与えられた。
+同氏は、「TUIはこれらの船に問題があることを承知しているが、完全な豪華クルーズとして人々に販売し続けている」と述べた。
+ピーチがスカイラに乗っていた間、ジョーン・クレイブンさんはソーシャルメディアで苦情を目にした。
+彼女は数日後にブダペストから次の船に乗る予定だったが、心配していた。
+TUI の顧客サービスは、船内の空調が作動していることを電子メールで彼女に保証しました。しかし、彼女が到着すると、ホリデー担当者はそうではないと彼女に言いました。クレイブンさんはBBCに対し、誤解されていると感じたと語った。
+5月には同じ船で給水の問題だけでなく空調の問題も報告した人もいた。
+一方、イスラに関する苦情はさらに遡ります。
+「動物園のトロピカルハウス」
+ウェンディ・チャーンリーさんと夫のロブさんは、2025年4月にアムステルダム発のイスラ島クルーズを予約し、引退を祝うために「船を押し出して」いた。
+チャーンリー氏は、エアコンの気配もなく「動物園のトロピカルハウスにいるような気分だった」と語った。
+「一部の地域は本当にとても暑かったです。」彼女は言いました。 「クールダウンできる場所は本当にどこにもありませんでした。」
+数か月後、ケビン・ダーヴィルはフランクフルトで船に乗り込みました。
+彼はすぐに、受付エリアのトイレが機能しないことに気づきました。携帯扇風機やエアコンも展示されていました。
+ダービル氏は、船内は「非常に熱く」なり、「休む間もない」と語った。
+「文字通り空気の循環がなかったため、耐えられなかった」と彼は語った。 「最悪の場所はレストランでした。」
+彼はなかなか眠れなかった。その間、彼のシャワーは凍てつくような冷たさと「灼熱の熱さ」を交互に繰り返した。
+同氏によると、乗客には当初、空調設備の問題を理由に15％の払い戻しが提供されたが、最後から2番目の日にクルーズが中止されたため、払い戻し額は40％に増額されたという。
+しかし彼は、そもそも休暇を前倒しすべきではなかったと考えている。
+「以前にリバークルーズに行ったことがあるので、エアコンが効かないと知っていたら、行かなかったでしょう」と彼は言う。
+イスラ島の問題は今年も続いている。
+6月に乗船したジョン・ウェルシュさんは、一部のトイレが故障しており、空調にも問題があると報告した。
+「船全体が汗だくのような状態だった」と同氏は述べ、窓のない船室の乗客の中には船の屋根で寝る人もいたという。
+ウェールズさんは、スタッフが「レストランで働いていると汗で皮膚がびしょ濡れ」になっており、食事後には汗で濡れた服を着替える必要もあったと語った。
+クルーズディレクターに苦情を言ったとき、彼は「がっかりした」と感じたと語った。同氏は、空調の問題に対する一人当たり140ポンドの返金というTUIの申し出を受け入れたが、同社とは二度と旅行しないと述べた。
+「弁護できない」
+7月までに、熱波による川の水位低下はヨーロッパのクルーズに深刻な影響を及ぼした。
+トニー・ハーパーは、7月20日に旅行が始まる数日前に、セーリングの代わりにバスでの移動が予定されていると知らされた。
+しかし、船自体の問題も目立った。
+「共用エリアは下水の臭いがし、天井からは水が滴り落ち、航海中ずっと公衆トイレは使用できなかった」と同氏は語った。
+また、船内には移動式の空調装置があったが、効果がなかったという。
+ハーパーさんは「川が低いからといって彼らに抵抗することはできない。それが自然だ。
+「しかし、それが彼らの対処方法だった。原因は彼らのコミュニケーションと船の整備不良であり、それ以外の原因にすることはできません。
+「それは本当に、弁護の余地のないことです。」
+TUIリバークルーズは、「空調システムに影響を及ぼす予期せぬ技術的問題」や、ドナウ川の水位低下によって引き起こされるその他の問題を経験したと述べた。
+同報告書は、欧州各地で猛暑によりシステムに圧力がかかり、一時的な措置を含む大規模な修理・保守作業が行われたと述べた。
+同社は、この冬、ヨーロッパのリバークルーズ船団全体の空調システムに大幅なアップグレードを含めて投資していると付け加えた。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-20T22:59:35+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg",
+    readTime: 6,
+  },
+  {
+    id: "warsh-faces-fed-independence-test-as-bes-60b14da0",
+    title: "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
+    titleJa: "ベッセント氏が中央銀行の縄張りに乗り出す中、ウォーシュ氏はFRBの独立性テストに直面している",
+    summaryJa: "長期国債利回りを抑制しようとするベッセント氏の取り組みにより、ウォーシュ氏は債券とバランスシートに関してFRBがどこまで協調すべきなのか明確にするよう迫られる可能性がある。",
+    bodyOriginal: `If Treasury Secretary Scott Bessent truly wants to bring the full force of the federal government to bear on what he sees as a misbehaving bond market, he can't go it alone. A sustained effort to bring down Treasury yields would eventually require coordination with Bessent's longtime friend, now at the Federal Reserve, Chairman Kevin Warsh.
+Bessent's efforts to influence the bond market will add to the immense scrutiny on Warsh to clarify where he stands on the Fed's independence and on its attitude about the vast pool of U.S. government debt.
+The Fed has historically only intervened in the bond market to affect yields in periods of severe economic weakness or clear emergencies. The concerns Bessent has expressed so far fall below that threshold, and there is no sign the central bank intends to get involved now. But there is no definitive line between where Treasury's responsibilities end and the Fed's begin, and Warsh has said repeatedly that he believes the Fed ought to hand more power to the Treasury over sensitive matters involving the Fed's balance sheet.
+The Treasury Department on Wednesday announced it would at least double the maximum size of its planned long-dated treasury buybacks, from $2 billion to at least $4 billion per operation. That would need to be offset by shorter-maturity debt.
+Bessent suggested he might have more plans in store. "We have a big toolkit, so we'll see," Bessent said on CNBC Thursday.
+"Part of it is signaling here and to show that we believe that the yields don't reflect the underlying fundamentals," Bessent said. Yields on the 10-year Treasury note dropped on Wednesday, but had already unwound most of those gains on Thursday.
+"There's more firepower in terms of how you manage the yield curve sitting at the Federal Reserve," Rick Rieder, chief investment officer of global fixed income, told CNBC Wednesday.
+"Going to Jackson Hole, that's going to be interesting to see how they address that," Rieder said.
+Warsh was already facing questions about his relationship to the Treasury market going into the Jackson Hole Economic Policy Symposium, the annual late-August gathering of central bankers in the Wyoming mountains.
+Warsh's remarks after the FOMC's July meeting gave some in the markets the impression that he welcomed a rise in long-term bond yields.
+Bond traders raised yields further to account for that uncertainty, said Loretta Mester, former president of the Cleveland Fed.
+"I think part of what's happening is we don't have very much clarity yet on what Kevin Warsh's plans are," Mester said in an interview on CNBC. "We don't even have clarity on their reaction function."
+Warsh in July said he was concerned about inflation, but didn't directly answer reporters' questions about what it would take for him to raise interest rates to address it.
+Fed independence
+Warsh has also been vague on the precise limits of the Fed's authority over certain aspects of the financial system.
+"Fed independence is at its peak in the conduct of monetary policy," Warsh said at his Senate confirmation hearing in April. That nuanced view implies that some aspects of the Fed's operations aren't fully independent. Warsh carved out bank supervision as an example of non-independent policy, but he hasn't fully specified exactly what is and isn't included.
+Warsh has separately said he wants the Fed to rewrite its relationship with the Treasury. He proposed in 2025 to update the 1951 Treasury-Fed Accord, which established the modern basis for the division of responsibilities between the two agencies — and secured the Fed's political independence. As part of that revised accord, Warsh wanted to give the Treasury more authority over any major adjustment to the Fed's vast balance sheet.
+"The Treasury secretary would need to find the proposed change in Fed holdings acceptable, given that it is partially fiscal policy in disguise," Warsh said in 2025.
+How the Fed thinks about the $6.7 trillion in financial assets currently on its balance sheet could make or break Bessent's plans. Warsh's existing plans would seem to cut against Bessent's hopes to tamp down yields. Warsh wants the Fed to reduce its overall holdings and shift them toward short-term debt, which would likely push up the yield on longer-term Treasuries — the opposite of what Bessent wants to achieve.
+But the Fed is divided even on that question. Recently released minutes from the Federal Open Market Committee's July meeting showed that the Fed deferred questions about its balance sheet until a task force Warsh has assigned to report on that issue comes back. That will be late this year or early next.
+The Treasury and Fed have in practice historically communicated with each other on major changes in the balance sheet. Bessent on Thursday in an interview on CNBC suggested that would continue.
+"I think that the Treasury and the Fed would work together if there was any change in the balance sheet, and we would adjust to any kind of runoff that they're doing," Bessent said.
+Neither the Fed nor the Treasury Department responded to emailed questions about whether Bessent's comment implied he and Warsh had begun to coordinate.`,
+    bodyJa: `スコット・ベッセント財務長官が、不正行為を行っていると見なす債券市場に連邦政府の総力をあげて対処したいと本当に望んでいるのであれば、彼一人で行動することはできない。国債利回りを引き下げるための持続的な取り組みには、最終的にはベッセント氏の長年の友人で現在は連邦準備制度理事会に勤務するケビン・ウォーシュ議長との調整が必要となるだろう。
+債券市場に影響を与えようとするベッセント氏の取り組みは、FRBの独立性と巨額の米政府債務に対する同氏の立場を明らかにするため、ウォーシュ氏に対する厳しい監視をさらに強めることになるだろう。
+FRBはこれまで、深刻な景気低迷時や明らかな緊急事態の際にのみ、利回りに影響を与える目的で債券市場に介入してきた。ベッセント氏がこれまでに表明した懸念はその基準を下回っており、中銀が現時点で関与するつもりの兆候はない。しかし、財務省の責任がどこで終わり、FRBの責任が始まるのかの間に明確な境界線はなく、ウォーシュ氏はこれまで、FRBのバランスシートに関わるデリケートな問題について、FRBは財務省により多くの権限を委譲すべきだとの考えを繰り返し述べてきた。
+財務省は水曜日、計画されている長期にわたる国債買い取りの最大規模を、オペ当たりの20億ドルから少なくとも40億ドルに少なくとも2倍にすると発表した。この分は満期の短い債務で相殺する必要がある。
+ベッセント氏は、さらなる計画があるかもしれないと示唆した。 「我々には大きなツールキットがあるので、様子を見てみよう」とベッセント氏は木曜CNBCで語った。
+ベッセント氏は「その一部はここでのシグナルであり、利回りが基礎的なファンダメンタルズを反映していないと我々が信じていることを示すためだ」と述べた。 １０年米国債利回りは水曜日に低下したが、木曜日にはすでに上昇分の大部分が解消されていた。
+グローバル債券部門の最高投資責任者であるリック・リーダー氏は水曜日、CNBCに対し、「連邦準備制度理事会がイールドカーブを管理する方法に関して、より強力な力がある」と語った。
+「ジャクソンホールに行くことになるが、彼らがそれにどのように対処するかを見るのは興味深いことになるだろう」とリーダー氏は語った。
+ウォーシュ氏は、毎年8月下旬にワイオミング山脈で中央銀行関係者が集まるジャクソンホール経済政策シンポジウムに向けて、すでに米国債市場との関係についての疑問に直面していた。
+７月のＦＯＭＣ後のウォーシュ総裁の発言は、市場の一部に同氏が長期債利回りの上昇を歓迎しているという印象を与えた。
+クリーブランド連銀の元総裁ロレッタ・メスター氏は、債券トレーダーらはこうした不確実性を考慮して利回りをさらに引き上げたと述べた。
+メスター氏はCNBCのインタビューで、「ケビン・ウォーシュ氏の計画が何なのかまだあまり明確になっていないことが、起こっていることの一部だと思う」と語った。 「それらの反応機能さえ明確になっていません。」
+ウォーシュ総裁は７月、インフレを懸念していると述べたが、それに対処するために利上げに何が必要かという記者の質問には直接答えなかった。
+FRBの独立性
+ウォーシュ氏はまた、金融システムの特定の側面に対するFRBの権限の正確な限界についても曖昧だった。
+ウォーシュ氏は4月の上院承認公聴会で「金融政策運営においてFRBの独立性は最高潮に達している」と述べた。この微妙な見方は、FRBの運営の一部の側面が完全に独立していないことを示唆している。ウォーシュ氏は非独立政策の一例として銀行監督を取り上げたが、何が含まれ、何が含まれないのかについては完全には明らかにしていない。
+ウォーシュ氏はこれとは別に、FRBに財務省との関係を書き直すことを望んでいると述べた。同氏は2025年に1951年の財務・連銀合意を更新することを提案し、これにより両機関間の責任分担の現代的基礎が確立され、FRBの政治的独立性が確保された。この修正合意の一環として、ウォーシュ氏はFRBの膨大なバランスシートの大幅な調整に関して財務省により多くの権限を与えることを望んでいた。
+ウォーシュ氏は２０２５年について「部分的に偽装された財政政策であることを考慮すると、財務長官はＦＲＢ保有額の変更案が受け入れられると判断する必要があるだろう」と述べた。
+FRBが現在バランスシート上にある6兆7000億ドルの金融資産をどのように考えるかによって、ベッセント氏の計画が成否を分ける可能性がある。ウォーシュ氏の既存の計画は、利回りを抑制したいというベッセント氏の期待に反するものとみられる。ウォーシュ氏はFRBが保有資産全体を減らして短期国債に振り向けることを望んでおり、そうなれば長期国債の利回りが上昇する可能性が高く、ベッセント氏が達成したいこととは逆だ。
+しかし、この問題に関してもFRBの意見は分かれている。最近公表された7月の連邦公開市場委員会議事録によると、FRBはバランスシートに関する質問を、ウォーシュ氏がこの問題について報告するよう割り当てたタスクフォースが戻ってくるまで延期したことが明らかになった。それは今年の終わりか来年の初めになるだろう。
+財務省とFRBは歴史的に、バランスシートの大きな変更に関して実際に相互に意思疎通を行ってきた。ベッセント氏は木曜日、CNBCのインタビューで、それが継続することを示唆した。
+ベッセント氏は「バランスシートに何らかの変化があれば財務省とFRBは協力すると思うし、彼らが行っているいかなる種類の流出にも対応するだろう」と述べた。
+FRBも財務省も、ベッセント氏のコメントが同氏とウォーシュ氏が調整を始めたことを示唆しているかどうかという電子メールでの質問には回答しなかった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
+    publishedAt: "2026-08-20T21:53:44+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "neocloud-stocks-like-coreweave-are-havin-16c3e272",
     title: "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
     titleJa: "CoreWeaveのようなネオクラウド株は絶好調だが、資金を得るには時間がなくなってきている",
@@ -1474,324 +2063,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-70214433",
     readTime: 2,
-  },
-  {
-    id: "gen-z-used-to-embrace-ai-now-most-young-766e914b",
-    title: "Gen Z used to embrace AI. Now most young adults fear it will steal their jobs.",
-    titleJa: "Z世代はかつてAIを受け入れていました。現在、ほとんどの若者は、それが自分たちの仕事を奪うことを恐れています。",
-    summaryJa: "大学の新卒者が失業率の上昇に直面する中、AI が雇用に与える影響についての懸念がアメリカの若者の間で急増しています。",
-    bodyOriginal: `As new college grads face elevated rates of unemployment, concern about AI’s impact on jobs is spiking among young Americans.`,
-    bodyJa: `大学の新卒者が失業率の上昇に直面する中、AI が雇用に与える影響についての懸念がアメリカの若者の間で急増しています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/gen-z-used-to-embrace-ai-now-most-young-adults-fear-it-will-steal-their-jobs-b02bdcfb?mod=mw_rss_topstories",
-    publishedAt: "2026-08-19T18:35:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-97655212",
-    readTime: 2,
-  },
-  {
-    id: "fed-officials-saw-need-for-rate-hike-if-e5c6f566",
-    title: "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-    titleJa: "議事録によると、FRB当局者らはインフレが冷え込まなければ利上げの必要があると考えていた",
-    summaryJa: "水曜日に公表された議事録によると、連邦準備理事会当局者らは前回の会合で、インフレ抑制にさらなる進展がなければすぐに利上げする必要があるとの考えを示した。７月２８─２９日に開催された会合の概要には「多くの参加者は、インフレ率が低下しなければ政策引き締めが必要になる可能性が高いと評価した」と述べた。 「一部の参加者は、現在の金融状況はインフレ率を２％に戻すのに十分な制限的ではないのではないかとコメントした。」",
-    bodyOriginal: `Federal Reserve officials indicated at their last meeting that they would need to raise interest rates soon unless there was more progress on bringing down inflation, minutes released Wednesday showed.
-"Many participants assessed that policy tightening would likely be necessary if inflation did not decline," stated the summary of the meeting, held July 28-29. "Some participants commented that financial conditions might not currently be sufficiently restrictive to facilitate a return of inflation to 2 percent."
-Ultimately, the Federal Open Market Committee voted 9-3 to keep the federal funds rate targeted in a range between 3.5%-3.75%, where it has been all year. The overnight borrowing rate serves as a guidepost for a variety of consumer debt including mortgages, credit cards and auto loans.
-Those who voted against the decision favored a quarter percentage point increase. Minutes indicated that the dissenters "judged that doing so would likely help forestall the need for a steeper and potentially more costly sequence of tightening moves at a later stage."
-Each of the three "no" votes was regional presidents – Beth Hammack of Cleveland, Lorie Logan of Dallas and Neel Kashkari of Minneapolis.
-Since the July meeting, data releases mostly have shown modest price increases on a monthly basis, though the major indicators all have inflation well above the Fed's 2% target. The central bank's primary forecasting data point, the personal consumption expenditures price index, actually saw a 0.1% decline for June, though the annual rate was still at 3.7%.
-At the same time, the employment picture has softened.
-Nonfarm payrolls fell by 23,000 in July even as the unemployment rate dropped to 4.1%, the latter primarily due to a shrinking labor force. Fed officials mostly have said they are more concerned with inflation than the labor market, though that was before the most recent data.
-Fed Chairman Kevin Warsh has shown an inclination to be patient when it comes to rates. Markets took remarks he made in his post-meeting news conference as dovish on inflation, which in turn sent Treasury yields sharply higher.
-Yields have continued to climb, particularly at the longer part of the curve. However, they tumbled Wednesday following a Treasury Department announcement that it would step up its purchases of longer-dated government debt, the part of the duration curve that has been particularly sensitive lately.
-Following the recent run of inflation data, market pricing switched to an expectation for the Fed to stay on hold likely until December before it hikes again. Previously, traders had been expecting a September increase.
-The summary also reported a discussion about changing the FOMC meeting schedule.
-The minutes pointed out that economic indicators changed little since the June meeting. Warsh "observed" that reducing the current meeting schedule from eight per year to six, "held roughly every two months" might be productive.
-Such a move "would allow more information to accumulate between meetings than under current practice and provide policymakers and the staff more time to consider strategic monetary policy issues," the minutes stated.
-"The Chairman asked for input from the Committee on these issues, but no decisions regarding possible changes in the meeting schedule were made, and the Chairman indicated that any change in practice would not affect the schedule over the balance of 2026," the document said.
-Also at the meeting, the board discussed "an intermeeting incident involving a disruption to transaction settlements." The minutes noted that the Fed's policy of maintaining "ample" bank reserves "helped maintain the orderly functioning of money markets in the face of this disruption."
-On a related note, the committee held what appeared to be an extensive discussion of the Fed's balance sheet and its various bond holdings. Committee members said a task force Warsh has set up to examine the issue would be helpful.`,
-    bodyJa: `水曜日に公表された議事録によると、連邦準備理事会当局者らは前回の会合で、インフレ抑制にさらなる進展がなければすぐに利上げする必要があるとの考えを示した。
-７月２８─２９日に開催された会合の概要には「多くの参加者は、インフレ率が低下しなければ政策引き締めが必要になる可能性が高いと評価した」と述べた。 「一部の参加者は、現在の金融状況はインフレ率を２％に戻すのに十分な制限的ではないのではないかとコメントした。」
-最終的に連邦公開市場委員会は９対３でフェデラルファンド金利の目標を年間を通じて３．５％─３．７５％の範囲に維持することを決定した。翌日物借入金利は、住宅ローン、クレジット カード、自動車ローンなどのさまざまな消費者負債の道しるべとして機能します。
-この決定に反対票を投じた人は、4分の1ポイントの引き上げを支持した。議事録では、反対派が「そうすることで、後の段階でより急ピッチで潜在的によりコストのかかる一連の引き締め策の必要性を回避できる可能性が高いと判断した」と記されている。
-「反対」票を投じた3人はそれぞれ、クリーブランドのベス・ハンマック氏、ダラスのローリー・ローガン氏、ミネアポリスのニール・カシュカリ氏という地域の大統領だった。
-7月の会合以降、発表されたデータのほとんどは月次ベースで小幅な物価上昇を示しているが、主要指標はいずれもインフレ率がFRBの目標である2％を大きく上回っている。中銀の主要な予測データポイントである個人消費支出価格指数は、実際には6月に0.1％下落したが、年率は依然として3.7％だった。
-同時に、雇用情勢も軟化している。
-失業率が4.1%に低下したにもかかわらず、7月の非農業部門雇用者数は2万3,000人減少した。失業率の主な原因は労働力人口の減少である。 FRB当局者らは労働市場よりもインフレを懸念していると大半が発言しているが、それは最新の統計が発表される前の話だ。
-FRBのケビン・ウォーシュ議長は金利に関しては忍耐強い傾向を示している。市場は同氏の会合後の記者会見での発言をインフレに関してハト派的なものと受け止め、それが米国債利回りを急上昇させた。
-特に曲線の長い部分で利回りは上昇を続けている。しかし、最近特に敏感になっているデュレーションカーブの一部である長期国債の買い入れを強化するという財務省の発表を受けて水曜日には下落した。
-最近の一連のインフレ統計を受けて、市場の織り込みはFRBがおそらく12月まで利上げを据え置くだろうという予想に切り替わり、その後再び利上げを行った。これまでトレーダーらは９月の増加を予想していた。
-概要では、FOMC会合の日程変更に関する議論も報告された。
-議事要旨では、経済指標は６月会合以降ほとんど変化がないと指摘。ウォーシュ氏は、現在の会議スケジュールを年8回から6回に減らし、「およそ2か月ごとに開催」するのが生産的かもしれないと「観察」した。
-議事要旨には、こうした措置により「現在の慣例よりも会合の間により多くの情報が蓄積され、政策立案者やスタッフに戦略的な金融政策の問題を検討するためのより多くの時間が与えられる」と記されている。
-「議長はこれらの問題について委員会に意見を求めたが、会議スケジュールの変更の可能性に関する決定は下されておらず、議長は実務上のいかなる変更も2026年までのスケジュールに影響を及ぼさないと示唆した」と文書には記されている。
-またこの会合では、取締役会は「取引決済の妨害を伴う会合中の事件」についても議論した。議事要旨は、「潤沢な」銀行準備金を維持するというFRBの政策が「この混乱に直面しても短期金融市場の秩序ある機能を維持するのに役立っている」と指摘した。
-これに関連して、委員会はFRBのバランスシートと保有するさまざまな債券について広範な議論を行ったと思われる内容を開催した。委員会メンバーらは、ウォーシュ氏がこの問題を調査するために設置した特別委員会が役立つだろうと述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-    publishedAt: "2026-08-19T18:31:21+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "fed-minutes-reveal-growing-support-for-r-2bb9db1e",
-    title: "Fed minutes reveal growing support for rate hikes",
-    titleJa: "FRB議事録で利上げ支持の高まりが明らかに",
-    summaryJa: "議事要旨では、インフレ見通しを巡って連邦準備理事会当局者の意見が依然として分かれていることが明らかになった。",
-    bodyOriginal: `The minutes make clear that Federal Reserve officials remained divided over the inflation outlook.`,
-    bodyJa: `議事要旨では、インフレ見通しを巡って連邦準備理事会当局者の意見が依然として分かれていることが明らかになった。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
-    publishedAt: "2026-08-19T18:27:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-13790766",
-    readTime: 2,
-  },
-  {
-    id: "doj-cites-comey-s-novel-in-urging-judge-982d10e2",
-    title: "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
-    titleJa: "司法省、コミー氏の小説を引用して判事にトランプ事件に「86 47」貝殻を投げる脅迫をしないよう求める",
-    summaryJa: "司法省はジェームズ・コミー氏の小説を引用し、ノースカロライナ州のビーチで「86 47」という数字を作った貝殻の写真をインスタグラムに投稿し、ドナルド・トランプ大統領を殺害すると脅迫したとされる元FBI長官に対する刑事告発を却下しないよう連邦判事に訴えた。検察側は火曜夜遅くに裁判所に提出した新たな書類の中で、コミー氏が架空の本「FDRドライブ」に登場する右翼ポッドキャスターと同様に、自分の敵を殺害することを示唆する暗号化されたメッセージをフォロワーらに送信したと示唆した。",
-    bodyOriginal: `The Department of Justice cited a novel written by James Comey as it urged a federal judge not to dismiss criminal charges against the former FBI director for allegedly threatening to kill President Donald Trump by posting an Instagram photo of seashells on a North Carolina beach forming the numbers "86 47."
-Prosecutors in a new court filing late Tuesday night suggested that Comey, like a right-wing podcaster featured in his fictional book "FDR Drive," sent coded messages to his followers suggesting they kill an enemy of his.
-"On May 15, 2025, a charismatic leader named James Comey, through the wonder of the internet, posted a coded message to his followers meaning 'kill' or 'get rid of' (a euphemism for 'kill') President Trump,'" the filing in U.S. District Court for the Eastern District of North Carolina by U.S. Attorney W. Ellis Boyle's office says.
-The filing was one of several Tuesday in response to a filing by Comey's lawyers seeking to dismiss the indictment against him on the grounds of vindictive and selective prosecution. Comey is a longtime critic of Trump and a verbal target of the president, who fired him as FBI director in 2017.
-Comey's attorneys say he did not mean to threaten Trump with the seashells post, noting that the term "86" is used in restaurants by staff to indicate a menu item is no longer available. Trump is the 47th president of the United States.
-But Boyle's office, in its new filing, says, "There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump.'"
-"Comey has admitted that the '47' referred to President Trump," the filing says. "And Cassell's Dictionary of Slang (2nd edition) defines '86' to mean: to throw out, get rid of (1940's), (1970) to kill, to murder to execute judicially, (1980) to be finished, ready to leave or out of an item or be exhausted."
-In an affidavit filed on Tuesday night, Boyle said that "no one ordered, directed or pressured" him to indict Comey.
-Comey's lawyers, in their own filing in late July, said that the phrase "86 47" is a "well-known political slogan that expresses opposition to the president."
-"No reasonable observer would understand the phrase '86 47′ to connote violence at all — let alone to threaten that Mr. Comey personally would commit violence against the President," the defense motion to dismiss says.
-Comey's filing also noted that in May 2026, at the personal direction of the U.S. Attorney for the Eastern District of North Carolina, "the FBI conducted both open-source queries and artificial intelligence searches — namely, on Google AI and ChatGPT — about the term '86.'"
-"The search yielded varying results, including one that stated: 'Many career law enforcement officials, including former FBI agents, have publicly disputed this, stating they never heard "86" being used for murder in 35 + years of duty, considering it purely a restaurant or bar item for removal."
-"Another search returned a document indicating that the Merriam-Webster dictionary does not officially enter a violent meaning for '86' because "it is relatively recent and lacks widespread use compared to its hospitality meanings."
-Comey was previously indicted by a federal grand jury in Virginia in September 2025 on charges related to allegedly lying during testimony at the Senate Judiciary Committee in 2020. He denied any wrongdoing.
-A judge dismissed that first case in November after ruling that Lindsey Halligan, a former personal lawyer for Trump, was unlawfully appointed as U.S. attorney for the Eastern District of Virginia, and as a result did not have authority to obtain the indictment against Comey.`,
-    bodyJa: `司法省はジェームズ・コミー氏の小説を引用し、ノースカロライナ州のビーチで「86 47」という数字を作った貝殻の写真をインスタグラムに投稿し、ドナルド・トランプ大統領を殺害すると脅迫したとされる元FBI長官に対する刑事告発を却下しないよう連邦判事に訴えた。
-検察側は火曜夜遅くに裁判所に提出した新たな書類の中で、コミー氏が架空の本「FDRドライブ」に登場する右翼ポッドキャスターと同様に、自分の敵を殺害することを示唆する暗号化されたメッセージをフォロワーらに送信したと示唆した。
-「2025年5月15日、ジェームズ・コミーというカリスマ的指導者は、インターネットの驚異を利用して、トランプ大統領を『殺す』か『排除する』（『殺す』の婉曲表現）」を意味する暗号メッセージをフォロワーに投稿した」と、米国検事W・エリス・ボイル事務所がノースカロライナ州東部地区連邦地方裁判所に提出した提出文書には記されている。
-この提出は、執念深く選択的な訴追を理由にコミー氏に対する起訴の却下を求めるコミー氏の弁護士らによる火曜日の提出書類のうちの１件であった。コミー氏は長年トランプ氏を批判しており、大統領の言葉の標的となっており、2017年に同氏をFBI長官から解任した。
-コミー氏の弁護士は、コミー氏は貝殻投稿でトランプ氏を脅すつもりはなかったと述べ、「86」という言葉はレストランでスタッフがメニューがもう提供できないことを示すために使われていると指摘した。トランプは第47代アメリカ合衆国大統領です。
-しかし、ボイル氏の事務所は新たな提出書類の中で、「コミー氏の投稿を客観的に見た人が、それが『トランプ大統領を殺せ』という意味であると解釈できることに重大な異論はない」と述べている。
-提出書類には「コミー氏は『47』がトランプ大統領を指していたことを認めた」と書かれている。 「そして、カッセルのスラング辞典（第2版）は、『86』の意味を次のように定義しています：捨てる、取り除く（1940年代）、（1970年）殺す、司法的に処刑する殺人、（1980年）終了する、アイテムを残すか取り出す準備ができている、または疲れ果てること。」
-ボイル氏は火曜日の夜に提出した宣誓供述書の中で、コミー氏を起訴するよう「誰も命令、指示、圧力をかけなかった」と述べた。
-コミー氏の弁護士らは7月下旬の提出書類で、「86 47」というフレーズは「大統領への反対を表明するよく知られた政治的スローガン」であると述べた。
-棄却を求める弁護側動議は、「合理的な観察者であれば、『86 47』という言葉が暴力を暗示するものであることを理解するはずはない。ましてやコミー氏が個人的に大統領に対して暴力を振るうと脅すなどということは理解できない」と述べている。
-コミー氏の提出書類には、2026年5月にノースカロライナ州東部地区連邦検事の個人的な指示で、「FBIは『86』という用語について、オープンソースのクエリと人工知能による検索、つまりGoogle AIとChatGPTの両方を実施した」とも記されている。
-「検索ではさまざまな結果が得られ、その中には次のような内容も含まれていた。『元FBI捜査官を含む多くのキャリア法執行官は、35年以上の勤務の中で「86」が殺人に使われたのを聞いたことがない、と純粋にレストランやバーの撤去対象品だと考え、これに公に異議を唱えている。」
-「別の検索では、メリアム・ウェブスター辞書に『86』が正式に暴力的な意味として記載されていないことを示す文書が返された。その理由は、「それは比較的最近のものであり、もてなしの意味に比べて広く使用されていない」ためである。
-コミー氏は以前、2020年の上院司法委員会での証言中に虚偽を述べた疑いで2025年9月にバージニア州の連邦大陪審に起訴されていたが、同氏はいかなる不正行為も否定していた。
-判事は、トランプ大統領の元個人弁護士リンジー・ハリガン氏がバージニア州東部地区の連邦検事に不法に任命され、その結果コミー氏に対する起訴を取得する権限がなかったとの判決を下し、11月に最初の訴訟を却下した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-    publishedAt: "2026-08-19T18:07:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "meta-s-legal-troubles-has-options-trader-9a2ea076",
-    title: "Meta's legal troubles has options traders eyeing the 'jade lizard'",
-    titleJa: "メタの法的トラブルでオプショントレーダーらは「ヒスイトカゲ」に注目",
-    summaryJa: "オプション取引の多くの利点の 1 つは、レンジ内株で利益を得ることができることです。メタプラットフォームの株式は今、そのチャンスをもたらしています。上値は訴訟によって制限されており、下値の多くはすでに織り込まれているため、オプションプレミアムの上昇を掴み、双方を売却することは理にかなっているかもしれない。 「翡翠トカゲ」という奇妙な名前のオプション戦略 (これについては後ほど詳しく説明します) は、ショートストランドによる無制限の上昇リスクなしで、多額のプレミアムを集めます。",
-    bodyOriginal: `One of the many beauties of options trading is the ability to make money on a rangebound stock. Shares of Meta Platforms are presenting that opportunity right now.
-With its upside capped by litigation and much of the downside has already been priced in, it may make sense to try to capture some elevated options premium and sell both sides. The curiously named options strategy "jade lizard" — more on this in a second — collects a rich premium without the unlimited upside risk of a short strangle.
-As opening statements began in Oakland today, where 29 state attorneys general accuse Meta of deliberately designing Facebook and Instagram to hook young users, META shares are off more than 30% from the highs of a year ago.
-The headline figure, a theoretical worst case of $1.4 trillion in damages has been floated, although I think that number borders on the absurd, especially if one considers the inevitable appeal that would follow.
-Behind that case sit more than 3,000 personal-injury suits in the federal MDL (multi-district litigation that combines similar lawsuits/related cases that seek to answer similar questions of fact), roughly 1,300 school-district claims, a nearly $1 billion New Mexico judgment, and a $6 million bellwether loss in Los Angeles. While virtually no one believes the trillion-dollar headline represents the real risk, nobody should expect a sustained rally through a seven-week trial either.
-Much of the downside, arguably, has already been paid for. Meta is the worst-performing stock in the "Magnificent Seven" over the past 12 months, the market cap having fallen more than $600 billion so far. It is also acting as a boat anchor on the communications sector generally as it is the largest constituent. Granted some of that decline is probably also concerns about AI capex, but at about 22 times earnings with revenue still growing 28% a lot of anxiety is already baked in the price.
-Enter the jade lizard.
-In this strategy, you sell an out-of-the-money put and also sell an out-of-the-money call spread. Often this trade is structured such that the total premium collected exceeds the width of the call spread, eliminating upside risk entirely, although without a potential catalyst to drive shares sharply higher, a modest amount of upside risk would also be acceptable. Implied volatility is, unsurprisingly, slightly inflated by the lawsuit(s). The September 25th expiration captures some of that while avoiding the Q3 earnings report expected in late October and also falls short of the anticipated length of the trial of six to eight weeks.
-If shares sit between the short strikes at expiration, YOU keep the full credit. A rally through the call spread risks less than 5% of the current stock price and the downside risk is that one purchases the stock at less than $480/share, another 12% lower than where the stock is currently trading and below the tariff tantrum lows of late April 2025. If the stock does fall to those levels, and one purchases the stock around $480 share, one could look to then collect premium against the resulting position by selling covered calls, or covered call spreads (a position we currently have in META).`,
-    bodyJa: `オプション取引の多くの利点の 1 つは、レンジ内株で利益を得ることができることです。メタプラットフォームの株式は今、そのチャンスをもたらしています。
-上値は訴訟によって制限されており、下値の多くはすでに織り込まれているため、オプションプレミアムの上昇を掴み、双方を売却することは理にかなっているかもしれない。 「翡翠トカゲ」という奇妙な名前のオプション戦略 (これについては後ほど詳しく説明します) は、ショートストランドによる無制限の上昇リスクなしで、多額のプレミアムを集めます。
-今日オークランドで冒頭陳述が始まり、29人の州司法長官が若いユーザーを引き付けるためにFacebookとInstagramを意図的に設計したとしてMetaを非難したが、META株は1年前の高値から30％以上下落した。
-理論上の最悪の損害賠償額は1兆4000億ドルという見出しの数字が浮上しているが、特にその後に起こる避けられない控訴を考慮すると、この数字は不条理に近いと私は思う。
-この訴訟の背後には、連邦MDL（同様の事実問題への答えを求める同様の訴訟/関連訴訟を組み合わせた複数地区訴訟）での3,000件を超える人身傷害訴訟、約1,300件の学区の請求、10億ドル近いニューメキシコ州の判決、そしてロサンゼルスでの600万ドルの先導的損失が横たわっている。兆ドルという見出しが本当のリスクを表しているとは事実上誰も信じていないが、7週間の裁判を通じて持続的な上昇を期待する人もいないはずだ。
-おそらく、マイナス面の多くはすでに支払われています。メタは過去１２カ月で「マグニフィセント・セブン」の中で最もパフォーマンスの悪い銘柄で、時価総額はこれまでに６０００億ドル以上下落している。また、最大の構成要素であるため、一般に通信セクターのボートアンカーとしても機能しています。確かに、その減少の一部には AI の設備投資への懸念もあると思われますが、収益が依然として 28% 成長しているにもかかわらず、収益が約 22 倍となっていることから、すでに多くの不安が価格に組み込まれています。
-ヒスイトカゲを入力します。
-この戦略では、アウト オブ ザ マネーのプットを売り、アウト オブ ザ マネーのコール スプレッドも売ります。多くの場合、この取引は、集められたプレミアムの総額がコールスプレッドの幅を超えるように構成されており、上昇リスクを完全に排除しますが、株価を急激に上昇させる潜在的な要因がなければ、適度な上昇リスクも許容されるでしょう。当然のことながら、インプライド・ボラティリティは訴訟によって若干上昇します。 9 月 25 日の有効期限は、10 月下旬に予定されている第 3 四半期決算報告を回避しながら、その一部を確保するものであり、予想される試用期間の 6 ～ 8 週間にも達しません。
-満期の空売り権利行使の間に株式が残っている場合、あなたは全額の信用を保持することになります。コールスプレッドによる上昇リスクは現在の株価の5%未満であり、下値リスクは、株価が現在取引されている価格よりさらに12%低く、2025年4月下旬の関税癇癪安値を下回る1株あたり480ドル未満で株式を購入することである。株価がその水準まで下落し、480ドル付近で株式を購入した場合、カバードコールまたはカバードコールスプレッド（現在当社がポジションを保有しているポジション）を売却することで、得られたポジションに対してプレミアムを回収することを検討する可能性がある。 META にあります)。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/metas-legal-troubles-has-options-traders-eyeing-the-jade-lizard.html",
-    publishedAt: "2026-08-19T17:25:05+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "trump-touted-a-deal-to-avert-new-tariffs-0846080b",
-    title: "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-    titleJa: "トランプ大統領はカナダに対する新たな関税を回避するための合意を宣伝した。これまでにわかっていることは次のとおりです",
-    summaryJa: "米国による特定のカナダ製品に対する大規模関税の発動まで2時間も経たないうちに、ドナルド・トランプ大統領は新たな関税を回避するための暫定合意を発表した。ワイン、ホッケースティック、その他さまざまなカナダ製品の輸入に計画されている50％の関税がすでに大きな打撃を与えていると警告する企業にとって、延期はつかの間の休息にすぎない可能性がある。",
-    bodyOriginal: `Less than two hours before massive U.S. tariffs on certain Canadian goods were set to switch on, President Donald Trump announced a tentative deal to stave off the new duties.
-The postponement could be just a brief respite for businesses who warn that the planned 50% tariffs on imports of wine, hockey sticks and a range of other Canadian products are already taking a toll.
-The new import taxes on about $20 billion worth of goods were unveiled last month in response to what the Trump administration described as Canadian trade discrimination against key U.S. industries.
-The tariffs were set to take effect Wednesday at 12:01 a.m. ET. But at 10:15 p.m. Tuesday, Trump announced on Truth Social that he would pause the tariffs for three days, "based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!"
-Trump's statement on the to-be-finalized deal included few details. But it hinted that an agreement with Canada could include restarting Keystone XL, the planned oil pipeline from Alberta to Nebraska that was scrapped in 2021 by then-President Joe Biden.
-"The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!" Trump wrote in the post.
-In a follow-up post, Trump shared an AI-generated image depicting him pulling a pipeline labeled "KEYSTONE" out of the ground.
-Canadian Prime Minister Mark Carney, in a statement released Tuesday night, was more circumspect.
-"Substantial progress has been made, although there is important work still to be done," Carney's statement said.
-In another post midday Wednesday, Carney said the two sides are "moving towards an agreement that reinforces that Canadian advantage, including by securing the best terms in each of Canada's most important strategic sectors and providing greater certainty about our future trading relationship."
-Asked Wednesday morning about the coming deal, Trump claimed that Canada made multiple concessions, including lowering its retaliatory tariffs on U.S. goods.
-"We've come to a deal with Canada" after a "very good conversation" with Carney, Trump told reporters while touring construction projects on the White House grounds.
-"They called yesterday and they gave us the points that we had to have," Trump said, calling it a "very fair deal for both."
-Trump did not mention Keystone XL. But he said Canadian tariffs "will be non-existent for our farmers," without specifying which duties he was referring to. Trump's 50% tariff proposal was partly based on Canada's alleged discrimination against the U.S. dairy industry.
-Asked if the U.S. would lower its tariffs on Canadian autos as part of the deal — a top goal for Ottawa's trade negotiators — Trump said, "We're doing certain things."
-"We've got to give something," he added. "They were paying a high number, we're reducing it a little bit, it's good for everybody."
-"Basically, we have no tariffs going into Canada anymore. Canada was charging us tremendous tariffs. We no longer have any tariffs," he said.
-The president noted, however, that the deal is "subject to the finalization of documents."
-The comments came after a presidential proclamation released Tuesday night signaled that Canada would lower or remove its trade barriers on the U.S. as part of an agreement.
-"According to senior executive branch officials, Canada has expressed a commitment to remove the discriminations or unreasonable and unequal impositions" that spurred the 50% tariff threat, according to the proclamation.
-The same evening, U.S. Trade Representative Jamieson Greer wrote in an X post that the deal "will include comprehensive market access for all American goods, economic security commitments, digital trade alignment, and many important provisions that will continue to protect our market and American workers, along with our Canadian partners."
-After Greer met again with Canada-U.S. Trade Minister Dominic LeBlanc in Washington on Wednesday morning, he said the Trump administration feels "confident that we've reached an agreement" to protect American workers and "strengthen the North American economy."
-"We certainly, I think, have eliminated some of the irritants that we've had in the past year," Greer said.
-— CNBC's Ashlee Trujillo contributed to this report.`,
-    bodyJa: `米国による特定のカナダ製品に対する大規模関税の発動まで2時間も経たないうちに、ドナルド・トランプ大統領は新たな関税を回避するための暫定合意を発表した。
-ワイン、ホッケースティック、その他さまざまなカナダ製品の輸入に計画されている50％の関税がすでに大きな打撃を与えていると警告する企業にとって、延期はつかの間の休息にすぎない可能性がある。
-約200億ドル相当の商品に対する新たな輸入税は、トランプ政権が米国の主要産業に対するカナダの貿易差別と呼んだものに対抗して先月発表された。
-関税は水曜日の東部時間午前12時1分に発効する予定だった。しかし、午後10時15分。火曜日、トランプ大統領はTruth Socialで「カナダと米国が文書の最終決定を条件としてDEALを結んでいるという事実に基づいて」関税を3日間一時停止すると発表した。
-最終決定予定の合意に関するトランプ大統領の声明には詳細はほとんど含まれていなかった。しかし、カナダとの合意には、当時のジョー・バイデン大統領によって2021年に計画されていたアルバータ州からネブラスカ州への石油パイプライン計画のキーストーンXLの再開が含まれる可能性があることを示唆した。
-「ずっと前にスリーピー・ジョー・バイデンによって殺された偉大なキーストーンXLパイプラインが墓場から目覚めるかもしれない！」トランプ氏は投稿にこう書いた。
-トランプ大統領はその後の投稿で、「KEYSTONE」とラベル付けされたパイプラインを地中から引き抜いている様子を描いたAI生成画像を共有した。
-カナダのマーク・カーニー首相は火曜日の夜に発表した声明で、より慎重な姿勢を示した。
-カーニー総裁は声明で「重要な作業はまだ残されているものの、大幅な進展が見られた」と述べた。
-カーニー長官は水曜正午の別の投稿で、両国は「カナダの最も重要な戦略分野のそれぞれで最良の条件を確保し、将来の通商関係についてより確実性をもたらすなど、カナダの優位性を強化する合意に向けて進んでいる」と述べた。
-水曜朝、今後の合意について質問されたトランプ大統領は、カナダは米国製品に対する報復関税の引き下げなど複数の譲歩をしたと主張した。
-トランプ大統領は、カーニー長官との「非常に良い会話」を経て、ホワイトハウス敷地内の建設プロジェクトを視察しながら記者団に対し、「我々はカナダと合意に達した」と語った。
-トランプ大統領は「彼らは昨日電話し、我々に必要なポイントを与えてくれた」と述べ、これは「双方にとって非常に公平な取引」だと述べた。
-トランプ大統領はキーストーンXLについては言及しなかった。しかし同氏は、カナダの関税は「我が国の農家にとっては存在しない」と述べ、どの関税について言及しているのかは明らかにしなかった。トランプ大統領の50％関税提案は、米国の乳製品業界に対するカナダの差別疑惑に部分的に基づいていた。
-オタワの通商交渉担当者らの最大の目標である合意の一環として、米国がカナダの自動車に対する関税を引き下げるかとの質問に対し、トランプ大統領は「我々は一定のことを行っている」と述べた。
-「私たちは何かを与えなければなりません」と彼は付け加えた。 「彼らは高額の料金を支払っていましたが、私たちはそれを少し引き下げています。それは誰にとっても良いことです。」
-同氏は「基本的に、カナダにはもう関税はない。カナダはわれわれに莫大な関税を課していた。われわれにはもう関税はない」と述べた。
-ただ大統領は、この合意は「文書の最終決定次第」であると述べた。
-このコメントは、火曜日の夜に発表された大統領宣言が、カナダが合意の一環として米国に対する貿易障壁を引き下げるか撤廃することを示唆したことを受けて発表された。
-声明によると、「行政府高官らによると、カナダは50％関税の脅威に拍車をかけた差別や不合理で不平等な賦課を撤廃するという約束を表明した」という。
-同じ夜、ジェイミソン・グリア米通商代表部代表はXポストに、この協定には「すべての米国製品への包括的な市場アクセス、経済安全保障の約束、デジタル貿易の連携、そしてカナダのパートナーとともに米国の市場と米国の労働者を引き続き保護する多くの重要な条項が含まれる」と書いた。
-グリア氏は水曜朝、ワシントンでカナダ・米国貿易相のドミニク・ルブラン氏と再び会談した後、トランプ政権は米国の労働者を保護し、「北米経済を強化する」ために「合意に達したことに自信を持っている」と述べた。
-「確かに、私たちは過去1年間に抱えていた刺激物の一部を排除できたと思います」とグリア氏は語った。
-— CNBC の Ashlee Trujillo がこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-    publishedAt: "2026-08-19T16:40:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "nvidia-plays-matchmaker-in-nordics-sourc-2d39164d",
-    title: "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
-    titleJa: "AIデータセンター取引がこの地域でブームになる中、NVIDIAが北欧で仲人の役割を果たしている、と情報筋がCNBCに語った",
-    summaryJa: "Nvidia は、安価な電力と利用可能な土地がこの地域の AI インフラストラクチャ ブームを促進するため、GPU 顧客を北欧のデータセンター オペレーターと結び付けようとしています。",
-    bodyOriginal: `Nvidia is playing matchmaker, trying to connect companies with its graphics processing units to data-center operators that have the capacity to deploy them in the Nordics, sources have told CNBC.
-While Nvidia has established an effective monopoly over the most powerful AI chips, it has worked to exert greater influence across the AI ecosystem as the race to build infrastructure accelerates. That reach extends through its software stack, relationships with governments and direct investments in other companies.
-The chip giant has also sought a role in AI infrastructure deals. Two sources familiar with the matter have told CNBC that Nvidia has offered to introduce companies with data centers in the Nordics, an increasingly sought-after AI infrastructure region, to firms with its GPUs that are in the market for capacity.
-The sources asked to remain anonymous when discussing private information.
-How Nvidia is playing matchmaker for AI infrastructure
-Their accounts add context to remarks by Nvidia Chief Financial Officer Colette Kress, who said in June that Nvidia had "certainly engaged" in "matchmaking" with companies. "How can we help them obtain land, power, shell?" she added. "How do we help them in terms of standing up the compute as fast as possible for what they need to do?"
-Gigawatts of data-center capacity are due to be built in the Nordics in the coming years, thanks to access to power and abundant land. Neoclouds and hyperscalers including Nebius and Microsoft have inked deals in the region in 2026.
-One source said that Nvidia had reached out to a data-center company, sounding out potential offtakers: customers that commit to buying or leasing computing capacity.
-This is part of what Nvidia sees as its "value proposition to GPU customers," the source said, adding that the chip giant "often" didn't name the companies on whose behalf it was reaching out.
-The other source told CNBC that Nvidia had also made introductions between a company building AI infrastructure and those with GPUs in the U.S. and Asia. Nvidia is "helping make sure people who have money and demand for GPUs also have data center space," they added.
-Nvidia did not respond to a request for comment from CNBC.
-The company typically sells its chips to original equipment manufacturers, or OEMs, which then build them into racks and servers before selling them on. But it often has relationships with the companies buying the end product.
-Why the Nordics are attracting AI data centers
-Access to power and land attracts builders to the Nordics, while the cooler climate is appealing as data centers need to keep chips from overheating.
-Numerous multi-hundred-megawatt facilities have been announced in Finland and Norway in recent months.
-Pure DC said in July it would invest 1.5 billion euros ($1.74 billion) to build a 110 MW campus in Finland, with the potential to scale beyond 550 MW. Arcem has plans for a site with up to 500 MW of capacity. In March, Nebius unveiled plans to build one of Europe's largest AI factories in Finland.
-In April, Microsoft announced it would take up extra computing capacity at an Nscale site in Norway.
-There is currently 2.3 GW of data center capacity queuing for future connections to the power grid, according to Statnett, the Norwegian grid operator.
-Oslo, Stockholm and Helsinki are among the top six locations worldwide for future data-center development potential, according to a report this month from real estate company Savills.
-"For AI-driven data centre growth, the Nordics offer one of the clearest delivery propositions globally," Rupert Duckworth, associate director, EMEA Data Centre Advisory at Savills, said in the report.
-"The region has increasingly become a focus for large-scale, AI-oriented development – with significant new campuses now progressing."`,
-    bodyJa: `Nvidiaは仲人役を務めており、自社のグラフィックス処理装置を保有する企業と、それを北欧に展開する能力を持つデータセンター事業者とを結び付けようとしていると関係者がCNBCに語った。
-Nvidia は、最も強力な AI チップに対する事実上の独占を確立する一方で、インフラストラクチャの構築競争が加速する中、AI エコシステム全体にさらに大きな影響力を及ぼすことに取り組んできました。その範囲は、ソフトウェア スタック、政府との関係、および他の企業への直接投資にまで及びます。
-半導体大手はAIインフラ取引における役割も模索している。この件に詳しい2人の関係筋がCNBCに語ったところによると、NVIDIAは、AIインフラストラクチャ地域としてますます需要が高まっている北欧にデータセンターを持つ企業を、容量市場で同社のGPUを導入している企業に紹介することを申し出たという。
-関係者らは、個人情報について話し合う際には匿名でいることを求めた。
-Nvidia が AI インフラストラクチャの仲人役をどのように果たしているか
-彼らの説明は、NVIDIA が企業との「マッチング」に「確かに取り組んでいる」と 6 月に述べた Nvidia 最高財務責任者 Colette Kress の発言に文脈を加えるものである。 「どうすれば彼らが土地、権力、貝殻を手に入れることができるでしょうか？」彼女は付け加えた。 「必要な作業のためにできるだけ早くコンピューティングを立ち上げるという点で、彼らをどのように支援できるでしょうか?」
-電力と豊かな土地へのアクセスのおかげで、北欧にはギガワット規模のデータセンター容量が今後数年で建設される予定です。ネオクラウドと、Nebius や Microsoft を含むハイパースケーラーは、2026 年にこの地域で契約を締結しました。
-ある情報筋によると、NVIDIA はデータセンター会社に連絡を取り、潜在的なオフテイカー、つまりコンピューティング容量の購入またはリースを約束する顧客を打診したという。
-これは、Nvidia が「GPU 顧客への価値提案」と考えているものの一部であると関係者は述べ、半導体大手は「多くの場合」、代理で手を差し伸べている企業の名前を明かさないと付け加えた。
-別の関係者はCNBCに対し、NVIDIAはAIインフラを構築する企業と、米国およびアジアのGPUを搭載する企業との間でも紹介を行ったと語った。 Nvidiaは「資金とGPUの需要がある人々がデータセンターのスペースも確保できるよう支援している」と付け加えた。
-エヌビディアはCNBCからのコメント要請に応じなかった。
-同社は通常、自社のチップを相手先ブランド供給メーカー (OEM) に販売し、OEM がラックやサーバーに組み込んでから販売します。しかし、多くの場合、最終製品を購入する企業と関係があります。
-北欧が AI データセンターを誘致する理由
-電力と土地へのアクセスが北欧に建設業者を惹きつける一方で、データセンターはチップの過熱を防ぐ必要があるため、涼しい気候も魅力的です。
-ここ数カ月間、フィンランドとノルウェーで数百メガワットの施設が多数発表された。
-Pure DCは7月、フィンランドに110MWのキャンパスを建設するために15億ユーロ（17億4000万ドル）を投資し、550MWを超えて拡張する可能性があると発表した。 Arcem には、最大 500 MW の容量を持つサイトの計画があります。ネビウスは3月、フィンランドにヨーロッパ最大級のAI工場を建設する計画を発表した。
-Microsoftは4月、ノルウェーのNscaleサイトで追加のコンピューティング能力を占有すると発表した。
-ノルウェーの送電網運営会社スタットネットによると、将来の電力網への接続に備えて、現在 2.3 GW のデータセンター容量が待機中です。
-不動産会社サヴィルズの今月のレポートによると、オスロ、ストックホルム、ヘルシンキは、将来のデータセンター開発の可能性がある世界の上位6カ所に入っている。
-サヴィルズのEMEAデータセンターアドバイザリー担当アソシエイトディレクター、ルパート・ダックワース氏はレポートの中で、「AI主導のデータセンターの成長に関して、北欧諸国は世界的に最も明確な提供提案の1つを提供している」と述べた。
-「この地域は、大規模な AI 指向の開発の焦点となっており、現在、大規模な新しいキャンパスの建設が進んでいます。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-    publishedAt: "2026-08-19T14:25:12+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "track-defect-found-near-derailment-site-b5431ee1",
-    title: "Track defect found near derailment site - report",
-    titleJa: "脱線現場近くで線路欠陥発見 - 報告",
-    summaryJa: "脱線現場近くで線路欠陥発見 - 報告- 公開されました",
-    bodyOriginal: `Track defect found near derailment site - report
-- Published
-A defect was found on railway tracks in East Sussex at the site where a train derailed leaving 30 injured, a report says.
-Initial findings from the Rail Accident Investigation Branch (RAIB) found an "irregularity" with the tracks near Lewes where three carriages tumbled down an embankment last Thursday.
-The RAIB, which is continuing to investigate the derailment, said it had received "several reports of rough riding at the location of the derailment from passengers on other trains".
-Network Rail and Greater Thameslink Railway, whose Southern Rail train was involved in the crash, said in a joint statement they were "sorry this happened on our railway".
-Investigators from the RAIB have said CCTV from a train which passed through the crash site at 14:04 BST showed the "irregularity" with the track geometry just before the point where the train came off the tracks.
-The 14:24 service from London Victoria to Eastbourne derailed in the Landport area of Lewes at about 15:54 BST.
-The derailment left two people seriously injured, and 18 were taken to hospital with less serious injuries. The 18 have since left hospital.
-The eight-carriage train was travelling at about 65 mph when it derailed - within the 70mph speed limit - and the driver had begun to brake as the train approached the site.
-The RAIB update also highlighted that the accident took place during a sustained period of hot and dry weather.
-Temperatures as high as 33°C (91.4°F) were registered shortly before the crash.
-The RAIB says the clay embankment and the material underneath it are sensitive to changes in moisture content, and may move as moisture levels change.
-The continuing investigation will now consider elements including how that section of track was inspected and maintained, the condition and maintenance of the embankment, the weather conditions and how effective any hot weather mitigation measures were.
-In a joint statement, Lucy McAuliffe, Network Rail's route director for Sussex, and John Whitehurst, chief executive of Greater Thameslink Railway, apologised for the derailment.
-They added: "We will carefully consider any recommendations arising from the investigation and work across the industry to implement them, with the shared goal of making an already safe railway even safer for our customers, colleagues and the communities we serve."
-Last Friday, Network Rail's group safety and engineering director Martin Frobisher told the BBC speed restrictions were not in place along the section of track when the derailment happened.
-He insisted the railway was safe, and that Network Rail took various measures to manage the impact of weather on tracks and other railway equipment.
-The Department for Transport released a statement saying "safety remains the absolute priority across our rail network".
-The statement added: "The UK's railways remain among the safest in the world, with the number of delays caused by track faults falling by 45% since the late 2000s."
-Follow BBC Sussex on Facebook, external, X, external, and on Instagram, external and listen to BBC Radio Sussex on Sounds. Send your story ideas to southeasttoday@bbc.co.uk, external or WhatsApp us on 08081 002250.
-- Published1 day ago
-- Published4 days ago`,
-    bodyJa: `脱線現場近くで線路欠陥発見 - 報告
-- 公開されました
-報告書によると、イーストサセックス州で列車が脱線し、30人が負傷した現場の線路に欠陥が見つかった。
-鉄道事故調査局（RAIB）の初期調査結果では、先週の木曜日に3台の客車が堤防から転落したルイス近郊の線路に「異常」があることが判明した。
-脱線事故の調査を続けているRAIBは、「他の列車の乗客から脱線現場で乱暴な運転をしたという報告を数件受けた」と述べた。
-ネットワーク・レールとサザン・レールの列車が事故に巻き込まれたグレーター・テムズリンク鉄道は、共同声明で「私たちの鉄道でこのようなことが起きて残念に思う」と述べた。
-RAIBの捜査官らによると、英国標準時14時04分に事故現場を通過した列車の監視カメラには、列車が線路から外れる直前の線路形状の「不規則性」が映っていたという。
-ロンドン・ビクトリア発イーストボーン行き14時24分便は、英国標準時15時54分頃にルイスのランドポート地区で脱線した。
-この脱線事故で２人が重傷を負い、１８人が軽傷で病院に搬送された。 18人はその後退院した。
-8両編成の列車は脱線時、制限速度110km以内の時速約100kmで走行しており、列車が現場に近づくと運転士がブレーキをかけ始めた。
-RAIBの最新情報では、事故が暑くて乾燥した天候が続いた時期に発生したことも強調された。
-墜落直前には最高気温33℃（91.4°F）が記録された。
-RAIBによると、粘土堤防とその下の材料は含水量の変化に敏感で、水分レベルの変化に伴って移動する可能性があるという。
-今後の継続調査では、線路のその区間がどのように検査・維持されたか、堤防の状態と維持、気象条件、暑さ緩和策がどの程度効果的だったかなどの要素が検討されることになる。
-ネットワーク・レールのサセックス路線ディレクターのルーシー・マコーリフ氏とグレーター・テムズリンク鉄道の最高経営責任者ジョン・ホワイトハースト氏は共同声明で脱線事故を謝罪した。
-さらに「われわれは調査から生じた勧告を慎重に検討し、顧客、同僚、地域社会にとってすでに安全な鉄道をさらに安全にするという共通の目標に向けて、業界全体でその実施に取り組んでいく」と付け加えた。
-先週金曜日、ネットワーク・レールのグループ安全・エンジニアリングディレクター、マーティン・フロビッシャー氏はBBCに対し、脱線事故が起きた当時、線路沿いの区間には速度制限が設けられていなかったと語った。
-同氏は、鉄道は安全であり、ネットワーク・レールは線路やその他の鉄道設備への天候の影響を管理するためにさまざまな措置を講じていると主張した。
-運輸省は「鉄道網全体では引き続き安全が絶対的な優先事項である」との声明を発表した。
-声明はさらに「英国の鉄道は依然として世界で最も安全な鉄道の一つであり、線路断層による遅延件数は２０００年代後半から４５％減少した」と付け加えた。
-Facebook (外部)、X (外部) で BBC サセックスをフォローし、外部の Instagram で BBC サセックスをフォローし、BBC ラジオ サセックス オン サウンドを聞いてください。ストーリーのアイデアを、southeasttoday@bbc.co.uk、社外、または WhatsApp (08081 002250) に送信してください。
-- 1 日前に公開
-- 4 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gx12v8z51o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-19T14:06:42+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e2/live/2f124880-9b12-11f1-9341-0383083a41e3.jpg",
-    readTime: 4,
   },
 ];
 
