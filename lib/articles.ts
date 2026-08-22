@@ -15,6 +15,215 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "tiktok-to-pay-400m-to-us-in-one-of-large-ec14d6f8",
+    title: "TikTok to pay $400m to US in one of largest child privacy settlements",
+    titleJa: "TikTok、児童プライバシーに関する最大規模の和解で米国に4億ドルを支払う",
+    summaryJa: "この提携は、TikTokとその親会社バイトダンスが13歳未満の数百万人のユーザーに関する「膨大な量のデータ」を収集したと主張する2024年の訴訟に端を発している。",
+    bodyOriginal: `TikTok to pay $400m to US in one of largest child privacy settlements
+- Published
+TikTok has agreed to pay $400m (£293m) to the US to end a lawsuit alleging its platform violated children‘s privacy, marking one of the largest ever settlements over the issue.
+The deal stems from a 2024 suit by the Department of Justice under former President Joe Biden alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13.
+Doing so was against the Children's Online Privacy Protection Act (COPPA), a federal law enacted in 2000. It is the same law that dozens of US states are now suing Meta over.
+"Children and parents are better protected today than they were when this case began," assistant Attorney General Brett Shumate said.
+Other companies to have paid penalties to the US government for COPPA violations include Google's YouTube, which in 2019 paid $170m, and Epic Games, which in 2022 paid $275m.
+Meta is also now facing penalties that could exceed hundreds of billions of dollars stemming from COPPA violations alleged by attorneys general of 29 US states. A jury trial in the lawsuit started this week, with the Instagram and Facebook owner accused of targeting child users and profiting off of them.
+While the TikTok lawsuit predates last year's split of TikTok's US business and operations from its original base of China, the settlement only involves TikTok's operations in China.
+ByteDance, which is a privately held company, was most recently valued by investors at $550bn, external.
+Under the terms of the deal, TikTok and ByteDance will immediately pay the DOJ $300m. It will pay another $100m when the government vacates a 2019 consent decree, external with the Federal Trade Commission.
+As part of the agreement, the predecessor to ByteDance, Musical.ly, was required to pay a $5.7m fine for COPPA violations and ensure it sought parental consent for any user aged under 13.
+The justice department did not detail on Friday any action against TikTok beyond the fine. But the department noted that since it sued the platform, TikTok has "undergone significant changes," including to its ownership, privacy practices and platform controls for young users.
+When the lawsuit was filed, attorneys for the US said there were more than 170 million teenagers using TikTok and that the app was "directed to children." Yet, it did not effectively gauge the age of users or get parental consent for use from those underage.
+In 2024, former President Biden pushed for TikTok to be either banned, or have the company divest its US operations. President Donald Trump went on to support divestment of the app, which occurred last year.
+Its US operations are now 81% owned by a consortium of investors, while Bytdance maintains a 19% stake.
+A representative of TikTok did not respond to the BBC for comment.
+Related topics
+- Published3 days ago
+- Published26 September 2025
+- Published23 January`,
+    bodyJa: `TikTok、児童プライバシーに関する最大規模の和解で米国に4億ドルを支払う
+- 公開されました
+TikTokは、同社のプラットフォームが子どものプライバシーを侵害したとする訴訟を終わらせるために米国に4億ドル（2億9,300万ポンド）を支払うことに同意し、この問題に関して過去最大規模の和解の1つとなった。
+この提携は、ジョー・バイデン前大統領の下で司法省が2024年に起こした訴訟に端を発しており、TikTokとその親会社バイトダンスが13歳未満の数百万人のユーザーに関する「膨大な量のデータ」を収集したと主張している。
+このような行為は、2000 年に制定された連邦法である児童オンライン プライバシー保護法 (COPPA) に違反するものでした。現在、米国の数十の州が Meta をめぐって訴訟を起こしているのと同じ法律です。
+ブレット・シューメート司法次官補は「この事件が始まった時よりも、今の子どもや親はよりよく守られている」と述べた。
+COPPA違反で米国政府に罰金を支払った他の企業には、2019年に1億7,000万ドルを支払ったGoogle傘下のYouTubeや、2022年に2億7,500万ドルを支払ったエピックゲームズが含まれる。
+メタ社は現在、米国29州の司法長官によるCOPPA違反の申し立てにより、数千億ドルを超える可能性のある罰金にも直面している。この訴訟の陪審裁判は今週始まり、インスタグラムとフェイスブックのオーナーは児童ユーザーをターゲットにし、そこから利益を得ていたとして告発された。
+TikTok訴訟は昨年、TikTokの米国事業と運営を本来の拠点である中国から分離する前に起きているが、今回の和解にはTikTokの中国での事業のみが含まれる。
+非公開企業であるバイトダンスは、最近、外部評価で投資家によって5,500億ドルと評価されました。
+契約条件に基づき、TikTokとByteDanceは司法省に直ちに3億ドルを支払うことになる。政府が連邦取引委員会の外での2019年の同意判決を無効にする場合、同社はさらに1億ドルを支払うことになる。
+合意の一環として、ByteDanceの前身であるMusical.lyは、COPPA違反に対して570万ドルの罰金を支払うことと、13歳未満のユーザーには必ず親の同意を求めることが求められた。
+司法省は金曜日、罰金以外のTikTokに対するいかなる措置についても詳細を明らかにしなかった。しかし同省は、同プラットフォームを提訴して以来、TikTokはその所有権、プライバシー慣行、若いユーザー向けのプラットフォーム管理など「重大な変更」を受けていると指摘した。
+訴訟が起こされたとき、米国の弁護士は、TikTokを利用している十代の若者は1億7000万人以上おり、このアプリは「子供向け」であると述べた。しかし、ユーザーの年齢を効果的に測定したり、未成年者の使用について保護者の同意を得たりすることはできませんでした。
+2024年、バイデン前大統領はTikTokを禁止するか、同社の米国事業を売却するよう要求した。ドナルド・トランプ大統領は、昨年行われたアプリの売却を支持し続けた。
+同社の米国事業は現在、投資家連合が81％所有しており、バイトダンスは19％の株式を維持している。
+TikTokの代表者はBBCのコメントに応じていない。
+関連トピック
+- 3 日前に公開
+- 2025 年 9 月 26 日発行
+- 1 月 23 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-21T22:36:12+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebfc/live/7de297d0-9da6-11f1-95ab-d3b679e2384a.jpg",
+    readTime: 4,
+  },
+  {
+    id: "anthropic-ipo-filing-will-show-ai-backla-3f013101",
+    title: "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+    titleJa: "人間的なIPO申請はAIの反発をリスク要因として示すだろうと情報筋が語る",
+    summaryJa: "人工知能を懸念し、新しいデータセンターに声高に反対するアメリカ人が増えている中、Anthropic は公開市場に投入される準備ができている。事情に詳しい関係者によると、こうした反発はアンスロピックのＩＰＯ目論見書における主要なリスク要因になると予想されている。関係者らによると、クロードの作者はサンフランシスコで銀行家や投資家らと予備的な「実験」会議を行っているという。会議内容は機密事項であるため匿名を希望した関係者らは語った。関係者によると、会議ではクリシュナ・ラオ最高財務責任者（ＣＦＯ）に対し、競争やオープンソースモデルによる利益圧力、データセンターの建設が停滞した場合の対応などについて質問されるという。",
+    bodyOriginal: `Anthropic is poised to hit the public market at a time when an increasing number of Americans are worried about artificial intelligence and are loudly opposing new data centers. That backlash is expected to be a key risk factor in Anthropic's IPO prospectus, according to people familiar with matter.
+The Claude creator has been holding preliminary "test-the-water" meetings with bankers and investors in San Francisco, said the people, who asked not to be named because the sessions are confidential. In the meetings, CFO Krishna Rao is being asked about competition, margin pressure from open-source models, and what happens if there's a slowdown in the building of data centers, the sources said.
+In June, Anthropic confidentially filed to go public in what will be among the biggest IPOs on record. Elon Musk's SpaceX, which competes with Anthropic through its AI division, raised $85.7 billion, including the underwriter option, two months ago. It's by far the largest offering to date.
+Investors expect that Anthropic may top that, and project the company could float at a valuation of about $2 trillion, the people said.
+Anthropic declined to comment.
+Like rival OpenAI, Anthropic is pushing infrastructure partners to build out at warp speed in order to meet demand for advanced models and new services. Tech's hyperscalers are shelling out hundreds of billions of dollars this year on capital expenditures to fuel data center develop and purchase the graphics processing units needed to fill them.
+But public sentiment isn't in their favor.
+According to a Gallup survey published in May, seven in 10 Americans opposed AI data center construction in their area, with close to half of those polled "strongly opposed." Roughly a quarter of people surveyed are in favor, Gallup said.
+With midterms less than three months away, politicians on both sides of the aisle have been pushing back on data center development, reflecting the anger of their constituents.
+It was a key issue in Florida's Republican gubernatorial primary on Tuesday, which was won by Rep. Byron Donalds, who has proposed restrictions on data centers in Florida. That same day Pennsylvania Democratic Gov. Josh Shapiro signed an executive order placing harsh standards on data center development in his state.
+Companies are required to outline their risk factors as investor disclosures and for legal protection in their prospectus. SpaceX said in its risk factors section that, "Adverse global macroeconomic and geopolitical conditions may negatively affect our business, financial condition, results of operations and future prospects."
+Compute capacity is directly correlated to revenue for AI labs like Anthropic, which is valued at close to $1 trillion in the private market. A slowdown could dent the historic growth rate for a company that just topped a $65 billion annual revenue run rate, as CNBC previously reported.
+— CNBC's Ashley Capoot contributed to this report.`,
+    bodyJa: `人工知能を懸念し、新しいデータセンターに声高に反対するアメリカ人が増えている中、Anthropic は公開市場に投入される準備ができている。事情に詳しい関係者によると、こうした反発はアンスロピックのＩＰＯ目論見書における主要なリスク要因になると予想されている。
+関係者らによると、クロードの作者はサンフランシスコで銀行家や投資家らと予備的な「実験」会議を行っているという。会議内容は機密事項であるため匿名を希望した関係者らは語った。関係者によると、会議ではクリシュナ・ラオ最高財務責任者（ＣＦＯ）に対し、競争やオープンソースモデルによる利益圧力、データセンターの建設が停滞した場合の対応などについて質問されるという。
+6月、アンスロピックは史上最大規模のIPOとなる株式公開を内密に申請した。 AI部門を通じてアンスロピックと競合するイーロン・マスク氏のスペースXは、2カ月前に引受オプションを含めて857億ドルを調達した。これはこれまでで最大の提供品です。
+投資家らはアンスロピックがそれを上回る可能性があると予想しており、同社の評価額は約2兆ドルになる可能性があると関係者らは述べた。
+アントロピック氏はコメントを控えた。
+ライバルの OpenAI と同様に、Anthropic は、高度なモデルと新しいサービスの需要を満たすために、インフラストラクチャ パートナーに猛スピードで構築するよう促しています。ハイテク企業のハイパースケーラーは今年、データセンターの開発とデータセンターに必要なグラフィックス処理ユニットの購入を促進するための設備投資に数千億ドルを投じている。
+しかし、国民感情は彼らに好意的ではない。
+5月に発表されたギャラップの調査によると、アメリカ人の10人中7人が自分たちの地域でのAIデータセンター建設に反対しており、調査対象者の半数近くが「強く反対」した。ギャラップによると、調査対象者のおよそ4分の1が賛成しているという。
+中間選挙まで3か月を切った今、有権者の怒りを反映して、両側の政治家がデータセンター開発を後押ししている。
+これは火曜日に行われたフロリダ州の共和党知事予備選の重要な争点であり、フロリダ州のデータセンターに対する制限を提案したバイロン・ドナルド下院議員が勝利した。同日、ペンシルベニア州民主党のジョシュ・シャピロ知事は、同州のデータセンター開発に厳しい基準を課す大統領令に署名した。
+企業は、投資家への開示および法的保護のために、目論見書でリスク要因を概説する必要があります。スペースXはリスク要因の項目で、「世界的なマクロ経済的および地政学的な逆境が当社の事業、財務状況、業績、将来見通しに悪影響を与える可能性がある」と述べた。
+コンピューティング能力は、民間市場で 1 兆ドル近くと評価されている Anthropic のような AI ラボの収益と直接相関しています。 CNBCが以前報じたように、景気減速は、年間売上高が650億ドルを超えたばかりの企業の歴史的な成長率を損なう可能性がある。
+— CNBC の Ashley Capoot がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+    publishedAt: "2026-08-21T22:03:39+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "you-can-now-venmo-your-kid-s-college-tui-4a8b8362",
+    title: "You can now Venmo your kid’s college tuition. But should you?",
+    titleJa: "お子様の大学の学費を Venmo で賄えるようになりました。しかし、そうすべきでしょうか？",
+    summaryJa: "消費者が柔軟な支出オプションを求める中、一部の大学は非伝統的な支払い方法を受け入れ始めるだろう。",
+    bodyOriginal: `Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.`,
+    bodyJa: `消費者が柔軟な支出オプションを求める中、一部の大学は非伝統的な支払い方法を受け入れ始めるだろう。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
+    publishedAt: "2026-08-21T21:20:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-56268337",
+    readTime: 2,
+  },
+  {
+    id: "tesla-s-stock-jumps-as-the-company-gets-cef49256",
+    title: "Tesla’s stock jumps as the company gets cleared for a Las Vegas robotaxi launch",
+    titleJa: "テスラの株価はラスベガスでのロボタクシーの立ち上げ許可を受けて急騰",
+    summaryJa: "同社はまもなくテキサス州オースティンでサイバーキャブを発売する予定で、ネバダ州に数千台の車両を配備することに同意した。",
+    bodyOriginal: `The automaker plans to soon launch its Cybercab in Austin, Texas, and got the nod to deploy thousands of vehicles in Nevada.`,
+    bodyJa: `同社はまもなくテキサス州オースティンでサイバーキャブを発売する予定で、ネバダ州に数千台の車両を配備することに同意した。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/tesla-stocks-jumps-as-the-company-gets-ready-for-a-robotaxi-push-c680f87f?mod=mw_rss_topstories",
+    publishedAt: "2026-08-21T20:34:00+00:00",
+    category: "自動車",
+    imageUrl: "https://images.mktw.net/im-74392946",
+    readTime: 2,
+  },
+  {
+    id: "ray-dalio-says-bessent-move-is-sign-that-3d172f13",
+    title: "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+    titleJa: "レイ・ダリオ氏は、ベセントの動きは債務危機が近づいている兆候だと述べている。ゴールドとビットコインを推奨",
+    summaryJa: "億万長者の投資家レイ・ダリオ氏によると、スコット・ベッセント財務長官の今週の国債買い戻し発表は、来るべき危機を示唆する可能性のあるより広範なパターンに当てはまるという。ブリッジウォーター・アソシエイツの創設者は、ベッセント氏の国債買い入れ拡大計画は米経済にとって問題を引き起こす可能性があると述べた。日本政府が米債券市場へのエクスポージャーを削減し、長期米国債利回りが急上昇していることと相まって、投資家は仮想通貨や金を保有することでリスクの増大に備えたポートフォリオを準備したいと考えるかもしれない、とダリオ氏は述べた。",
+    bodyOriginal: `Treasury Secretary Scott Bessent's debt buyback announcement this week fits into a broader pattern that can signal a forthcoming crisis, according to billionaire investor Ray Dalio.
+The Bridgewater Associates founder said Bessent's plan to increase government debt purchases may portend trouble for the U.S. economy. Coupled with the Japanese government reducing its U.S. bond market exposure and surging long-dated American bond yields, Dalio said investors may want to prepare their portfolios for increased risk by owning cryptocurrencies and gold.
+"I am confident that the government's financial condition is at an inflection point," Dalio wrote in a LinkedIn post published Friday. "If this is not dealt with now, the debts will build up to levels where they can't be managed without great trauma."
+Dalio noted that the Treasury Department has "only limited capacity" to buy back bonds. Bessent told CNBC on Thursday that his team was going to "make a market" and that the purchases would likely top $4 billion.
+Burgeoning deficit
+The U.S. is spending about 40% more than it's bringing in, resulting in the burgeoning budget deficit, Dalio said. The U.S. budget deficit topped $432 billion in July, but Bessent told CNBC that it's likely peaked under President Donald Trump's administration.
+Bessent said in the interview that a team was looking at ways to shrink spending by hundreds of billions of dollars. But Dalio said there is "very little ability" to do so given that it is either committed or considered essential.
+After years of overspending, Dalio said total debt now dwarfs what the U.S. brings in each year. If the U.S. government was a business, Dalio said debt service payments would come in at roughly $11 trillion — about 200% of annual revenue.
+Dalio, 77, warned the cost of repaying principal and servicing the debt will only grow over time.
+Three-prong approach
+To solve this, Dalio said the U.S. needs to carefully employ a three-part strategy to get the budget deficit down to 3% of gross domestic product.
+First, Dalio said the U.S. government needs to reduce its spending. Second, he said tax revenue needs to be raised. Finally, the New York native and Harvard Business School alumni said lower interest rates were needed.
+"All three need to happen concurrently so as to prevent any one from being too large," Dalio said. "If any one is too large, the adjustment will be traumatic."
+Dalio cautioned against ramming through these adjustments by "force." For instance, "it would be very bad if the Federal Reserve unnaturally forced interest rates down," he said.
+Dalio said it's important to to take steps now, while the economy is healthy. An economy in recession requires increased government spending, he said.
+Dalio said the exact timing of a debt crisis can be swayed by variables ranging from military conflict to political change. On its current trajectory, the U.S. could enter such a crisis in as early as one year or as late as five. "My guess, which I suppose will be a bad one, is that it will come in three years, give or take two, if the course we're on is not changed."
+To prepare, Dalio recommended investors are underweight debt assets, such as bonds.
+As much as 10% to 15% of a portfolio could land in gold, as well as "a bit" of bitcoin, the hedge fund founder said.
+Dalio's post came at the tail end of a volatile week for U.S. financial markets. Rising long-term Treasury yields have pressured stocks, leading the S&P 500 to snap a a three-week-long advance.`,
+    bodyJa: `億万長者の投資家レイ・ダリオ氏によると、スコット・ベッセント財務長官の今週の国債買い戻し発表は、来るべき危機を示唆する可能性のあるより広範なパターンに当てはまるという。
+ブリッジウォーター・アソシエイツの創設者は、ベッセント氏の国債買い入れ拡大計画は米経済にとって問題を引き起こす可能性があると述べた。日本政府が米債券市場へのエクスポージャーを削減し、長期米国債利回りが急上昇していることと相まって、投資家は仮想通貨や金を保有することでリスクの増大に備えたポートフォリオを準備したいと考えるかもしれない、とダリオ氏は述べた。
+ダリオ氏は金曜日に公開されたリンクトインへの投稿で、「政府の財政状況が変曲点にあると確信している」と述べた。 「今すぐに対処しなければ、大きなトラウマを残さずには処理できないレベルまで借金が膨らむことになるだろう。」
+ダリオ氏は、財務省が債券を買い戻す能力は「限られている」と指摘した。ベッセント氏は木曜日、CNBCに対し、チームは「市場を作る」つもりであり、買収金額はおそらく40億ドルを超えるだろうと語った。
+赤字の急増
+ダリオ氏は、米国は収入を約40％上回る支出を行っており、その結果、財政赤字が急増していると述べた。米国の財政赤字は7月に4,320億ドルを超えたが、ベセント氏はCNBCに対し、ドナルド・トランプ大統領政権下でピークに達した可能性が高いと語った。
+ベッセント氏はインタビューで、チームは支出を数千億ドル削減する方法を検討していると述べた。しかしダリオ氏は、それが熱心であるか、不可欠であると考えられている以上、そうする能力は「ほとんどない」と述べた。
+ダリオ氏は、何年にもわたる過剰支出を経て、今や債務総額は米国が毎年もたらす額に比べて小さくなっていると語った。ダリオ氏は、米国政府が企業であれば、債務返済額はおよそ11兆ドルとなり、これは年間収入の約200％に相当すると述べた。
+77歳のダリオ氏は、元金の返済と債務返済のコストは時間の経過とともに増大する一方だと警告した。
+3 つの側面からのアプローチ
+これを解決するには、米国は財政赤字を国内総生産の3％まで下げるために3つの部分からなる戦略を慎重に採用する必要があるとダリオ氏は述べた。
+まずダリオ氏は、米国政府は支出を削減する必要があると述べた。第二に、税収を増やす必要があると述べた。最後に、ニューヨーク出身でハーバード・ビジネス・スクールの卒業生である同氏は、金利の引き下げが必要だと述べた。
+「どれかが大きくなりすぎないように、3つすべてが同時に起こる必要がある」とダリオ氏は語った。 「どれかが大きすぎると、調整がトラウマになるでしょう。」
+ダリオ氏は、こうした調整を「力」で押し通さないよう警告した。例えば、「連邦準備理事会が不自然に金利引き下げを強制すれば非常に悪いことだ」と同氏は述べた。
+ダリオ氏は、経済が健全なうちに今すぐ措置を講じることが重要だと述べた。景気後退には政府支出の拡大が必要だと同氏は述べた。
+ダリオ氏は、債務危機の正確な時期は軍事紛争から政変までさまざまな変数によって左右される可能性があると述べた。現在の軌道では、米国は早ければ1年、遅くても5年以内にそのような危機に陥る可能性がある。 「私の推測は、悪い推測ではあると思いますが、我々の進む道が変わらなければ、2年経っても3年以内にはそうなるだろうということです。」
+ダリオ氏は、準備として債券などの負債資産をアンダーウエートにするよう投資家に推奨した。
+同ヘッジファンド創設者によると、ポートフォリオの10～15％が金に加え、ビットコインも「少し」入る可能性があるという。
+ダリオ氏の投稿は、米国金融市場にとって不安定な週の終わりに行われた。長期国債利回りの上昇が株価を圧迫し、S&P500指数は3週間ぶりの上昇となった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/ray-dalio-bessent-debt-crisis-bitcoin-gold.html",
+    publishedAt: "2026-08-21T20:19:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "here-s-how-bessent-s-newly-activist-trea-bece81cc",
+    title: "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+    titleJa: "ベッセント氏の新たな活動家である財務省がFRBのウォーシュ氏をどのように弱体化させているかがここにある",
+    summaryJa: "スコット・ベッセント財務長官が今週、政府債務コストを引き下げるために国債市場に介入するという驚くべき行動をとったことで、金利政策を決定するケビン・ウォーシュ連邦準備理事会議長の信頼性が損なわれると専門家らは指摘する。",
+    bodyOriginal: `The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.`,
+    bodyJa: `スコット・ベッセント財務長官が今週、政府債務コストを引き下げるために国債市場に介入するという驚くべき行動をとったことは、金利政策を決定する連邦準備制度理事会のケビン・ウォーシュ議長の信頼性を損なうと専門家らは指摘する。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+    publishedAt: "2026-08-21T20:11:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-92171270",
+    readTime: 2,
+  },
+  {
+    id: "tesla-recalls-3-million-vehicles-in-chin-34e762ad",
+    title: "Tesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring",
+    titleJa: "テスラ、ドアハンドルの安全性やドライバー監視を巡り中国で300万台の車両をリコール",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Tesla is voluntarily recalling about 3 million vehicles in China to address two separate safety issues, the latest setback for the company as it tries to remain a major player in the world's largest auto market.
+One recall involves Tesla's doorhandles, which are electronically operated and retractable, and the other is tied to the company's driver "attention monitoring" systems, according to notices published on Friday by Tesla and China's product safety regulator.
+Tesla said in a doorhandle recall notice that severe collisions can cause the "vehicle's low-voltage system to fail," and that resulting doorhandle problems "could hinder occupants from quickly opening the doors to escape and impede rescue efforts by those outside the vehicle, posing a safety hazard."
+The company said it plans to "affix warning labels" to recalled vehicles, and will upgrade its "window control software" with an over-the-air update so that windows automatically lower after an accident is detected. Model 3, Model Y, Model S and Model X vehicles, including some imports and those made in China between March 4, 2019, and April 29, 2026, are subject to the recall.
+The Model Y is one of the best-selling vehicles in China, but Tesla faces intensifying pressure there from local competitors, including BYD and Xiaomi, that are are making more affordable and innovative electric cars. According to China Passenger Car Association data, Tesla delivered 25,158 Model Y units in China in July, down 18% from 30,766 a year earlier.
+The flush doorhandles that Tesla popularized are featured on cars made by Tesla competitors like Xiaomi, Geely and others that also issued recalls in China on Friday. Deaths apparently caused by malfunctioning or inaccessible doorhandles, have led to regulatory changes in China, prompting the widespread recalls involving nine automakers.
+Regulatory changes are also being considered in the U.S. The National Highway Traffic Safety Administration said in July that it would begin the process to establish a new federal rule to "mandate a robust and obvious door egress system in all motor vehicles," according a regulatory filing.
+Tesla's other recall on Friday is to address deficiencies in some of its vehicles' driver monitoring systems, which are meant to ensure drivers stay attentive and ready to take over steering and braking at any time while using partially automated driving features like autosteer.
+In a recall notice, Tesla said it would provide customers with free over-the-air software updates, and add "in-cabin camera monitoring" alongside its steering-wheel based torque sensors to prompt drivers to stay more engaged, and take over steering and braking when needed.
+For vehicles that can't be upgraded via over-the-air software updates, Tesla's recall notice said its service centers will "contact relevant users" to book repairs.
+The second recall applies to China-made Model 3 and Model Y vehicles manufactured between March 4, 2019, and December 7, 2025.
+Tesla didn't respond to a request for comment.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/21/tesla-recalls-cars-in-china-over-doorhandle-safety-driver-monitoring.html",
+    publishedAt: "2026-08-21T19:29:48+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "supreme-court-allows-trump-to-continue-w-265b6c79",
     title: "Supreme Court allows Trump to continue White House ballroom construction for now",
     titleJa: "最高裁判所、トランプ大統領がホワイトハウスの宴会場の建設を当面継続することを許可",
@@ -929,6 +1138,114 @@ ACPは、サービスの信頼性を維持し、人間が消費する水資源�
     readTime: 2,
   },
   {
+    id: "israel-re-establishes-closed-west-bank-s-217cf03f",
+    title: "Israel re-establishes closed West Bank settlement, defying growing international protests",
+    titleJa: "イスラエル、増大する国際抗議活動を無視して閉鎖されていたヨルダン川西岸入植地を再開",
+    summaryJa: "イスラエル、増大する国際抗議活動を無視して閉鎖されていたヨルダン川西岸入植地を再開- 公開されました",
+    bodyOriginal: `Israel re-establishes closed West Bank settlement, defying growing international protests
+- Published
+A new generation of Israeli settlers has returned to the settlement of Kadim, in the occupied West Bank, two decades after it was closed by a previous Israeli government.
+Thirty "pioneer families" had arrived in the settlement on Thursday from Tel Aviv, according to the regional settlers' council, riding a wave of Jewish nationalism driven by Israel's current government.
+They came in small groups, some under military escort, blue and white Israeli flags fluttering from their cars as they passed Palestinian villages and farmlands. Some dragged trailers loaded with bedding, furniture and building material.
+Israel's government has overturned a 20-year ban on Jewish settlements around Jenin. Palestinian residents are watching the new push on settlement expansion here with fear.
+All Israeli settlements and settler outposts are illegal under international law. Outposts are also illegal under Israeli law, though are often supported by state services and funding.
+"21 years after the crime of expulsion from northern Samaria, we have completed the correction […] and have returned to the settlement of Kadim," said Israel's far-right Finance Minister Bezalel Smotrich at the opening ceremony, using the Biblical word for the northern West Bank.
+Alongside him were Israel's Justice Minister, the Speaker of the Knesset, and Yossi Dagan, head of the regional settlers' council, who vowed that settlers would one day return to Gaza too.
+Kadim, on a small hillside outside the Palestinian city of Jenin, was evacuated in 2005 by a previous Israeli government as part of a wider unilateral Disengagement Plan that also saw all Jewish settlers and soldiers pulled out of Gaza, and three other settlements in the northern West Bank dismantled.
+At the time, the four settlements were considered too isolated and costly to protect, and of little strategic value.
+In recent weeks, white trailer homes have appeared on the hilltop here again, in preparation for families to return.
+Our request to speak to people at the opening ceremony was refused; we were told no media were allowed to enter the settlement today.
+Driving along a dirt track on the hill behind it, we met a Palestinian vegetable farmer, living in the house he was born in 53 years ago.
+He told me how, as a boy, he watched Kadim being built for the first time, then watched again as the settlers there were forced out by the government twenty years later.
+"Back then, the settlers were living alongside us, and we coexisted peacefully. They lived their lives and we lived ours," he told me.
+Now, watching them return, he's fearful.
+"I'm afraid of the events spreading around us, and the bypass road [where] they demolished shops and businesses," he said.
+"They drove my nephews away from their vegetables and citrus trees, telling them 'you have no place here, don't come back'".
+He said his family fled here from Haifa during the 1948 Arab-Israeli War.
+"There's no more displacement left in me," he said. "We're living with a sense of resignation. It's a life of fear."
+After Kadim and the three other settlements here were evacuated in 2005, Israelis were banned from settling in this area. Israel's current government overturned that ban.
+Kadim is the last of the settlements evacuated in 2005 to reopen. Ganim, Sanur and Homesh have already been formally opened, and families moved in.
+But they are a drop in the ocean of the Israeli government's settlement project here. Since it took power in late 2022, it has approved more than 100 new settlements across the West Bank, including 19 in the northern West Bank.
+Hagit Ofran, director of the Settlement Watch programme at Peace Now, says the rapid construction in Jenin is part of a wider race by the Israeli government to expand settlements in the West Bank before Israeli elections are held in October.
+One of those new settlements is Emek Dotan, to the west of Jenin, formally opened last Sunday and now home to almost two dozen Jewish families.
+From the small hamlet of Palestinian houses next door to Emek Dotan, teacher Samer Jaber, has watched the settlement take shape: first the bulldozers, then the caravans lifted into place. The problems began even before most of the families moved in, he said.
+"Groups come and stand opposite our houses, filming us," he told me.
+"Yesterday they came and stood here, filming me and my children. Every time my wife stepped outside, they filmed her too. They try to enter our homes. And they go house by house, shining powerful floodlights directly through all the windows at two or three in the morning."
+Samer is partially blind and has a leg injury that makes moving difficult.
+"Fear dominates everything. We are completely defenceless," he said. "All of them have weapons. I'm bringing concrete blocks to close off this side of the house because I'm afraid for my children."
+Samer has watched settlements – and settler attacks – grow in other parts of the West Bank over the past few years, despite international pressure.
+"Europe has no time for us, America is preoccupied with Iran, China has no interest," his analysis began. "Russia is busy with Ukraine, the United Nations is finished, and the Arab countries have their own internal problems."
+"Democratic systems are over, they're finished," he concluded, anger and bitterness leaking out. "Civilisation, progress and modernity are lies."
+Alongside the new settlements around Jenin, two new Israeli military bases are rapidly going up – construction vehicles churning up dust behind high concrete walls topped with watchtowers and barbed wire, Israeli flags flapping in the wind.
+A military outpost is also being built on seized Palestinian land beside Jenin Refugee Camp – the first Israeli military base to be built on land under full Palestinian Authority control since the Oslo Accords were signed in 1993.
+Israel's military evacuated thousands of residents from Jenin Refugee camp before occupying it in 2025.
+The Israel Defence Forces confirmed that construction of the outpost in Jabriyat had been ordered "in accordance with operational needs".
+The Palestinian Authority Governor for Jenin, Kamal Abu al-Rub, told me he was worried that Israel's seizure of land around the refugee camp signalled a plan to house settlers there, right in the heart of a Palestinian city, dividing it up like Hebron or Jerusalem.
+He described the past two decades without settlers around Jenin as "bliss".
+"Now, we live in the hell orchestrated by them and their assaults," he said. "It limits our movement. They cut off roads, bulldoze lands and cut down trees."
+The speed of change here is breathtaking.
+A few weeks ago, I sat drinking coffee in a café on the road that runs from Kadim through the northern West Bank to Israel: now that café – and dozens of Palestinian shops and businesses around it – are just piles of rubble along the road; demolished by the Israeli army.
+The countdown to Israeli elections in October marked in the number of Palestinian buildings demolished, the number of new settler caravans.
+Related topics
+- Published26 July
+- Published1 day ago
+- Published2 days ago`,
+    bodyJa: `イスラエル、増大する国際抗議活動を無視して閉鎖されていたヨルダン川西岸入植地を再開
+- 公開されました
+占領下のヨルダン川西岸地区にあるカディム入植地が前イスラエル政府によって閉鎖されてから20年が経ち、新世代のイスラエル人入植者がこの入植地に戻ってきた。
+地域入植者評議会によると、イスラエル現政権が推進するユダヤ民族主義の波に乗って、木曜日にテルアビブから30人の「開拓者家族」が入植地に到着した。
+彼らは小グループに分かれ、一部は軍の護衛を受け、青と白のイスラエル国旗を車からはためかせながらパレスチナ人の村や農地を通過した。寝具、家具、建築資材を積んだトレーラーを牽引するものもあった。
+イスラエル政府は、ジェニン周辺のユダヤ人入植に対する20年間の禁止措置を撤回した。パレスチナ住民は、ここでの入植地拡大の新たな動きを不安を持って見守っている。
+すべてのイスラエルの入植地と入植者の前哨基地は国際法の下で違法です。前哨基地もイスラエルの法律では違法だが、国のサービスや資金によって支援されていることが多い。
+「サマリア北部からの追放という犯罪から21年が経ち、我々は矯正を完了し、カディムの入植地に戻った」とイスラエルの極右財務大臣ベザレル・スモトリヒは開会式で、ヨルダン川西岸北部を意味する聖書の言葉を使って述べた。
+彼の傍らにはイスラエルの法務大臣、クネセト議長、地域入植者評議会の議長ヨッシ・ダガンも出席し、入植者もいつかガザに戻ると誓った。
+パレスチナの都市ジェニン郊外の小さな丘の中腹にあるカディムは、2005年に前イスラエル政府により広範な一方的撤退計画の一環として避難させられ、ユダヤ人入植者と兵士もすべてガザから撤退し、ヨルダン川西岸北部の他の3つの入植地も解体された。
+当時、4 つの入植地は孤立しすぎて保護するには費用がかかり、戦略的価値はほとんどないと考えられていました。
+ここ数週間、家族の帰還に備えて、ここの丘の上に白いトレーラーハウスが再び出現している。
+開会式で人々に話をしたいという私たちの要請は拒否されました。今日はメディアは入植地に入ることを許可されていないと言われました。
+裏手の丘にある未舗装の道路に沿って車を走らせていると、53年前に生まれた家に住んでいるパレスチナ人の野菜農家に出会った。
+彼は、少年の頃、初めてカディムが建設されるのを見て、20年後にそこの入植者たちが政府によって強制的に追い出されるのを再び見たという話をしてくれた。
+「当時、入植者たちは私たちと一緒に暮らしていて、私たちは平和に共存していました。彼らは彼らの生活を送り、私たちは自分たちの生活を送りました」と彼は私に語った。
+今、彼らが戻ってくるのを見て、彼は恐怖を感じています。
+「事件が私たちの周囲に広がり、店舗や企業が破壊されたバイパス道路が怖い」と彼は語った。
+「彼らは私の甥たちを野菜や柑橘類の木から追い払い、『ここにはお前の居場所はない、戻ってくるな』と言いました。」
+同氏によれば、家族は1948年のアラブ・イスラエル戦争中にハイファからここに逃れてきたという。
+「私の中にはもうこれ以上の移動は残っていない」と彼は言った。 「私たちは諦めの気持ちを抱えて生きています。恐怖の人生です。」
+2005年にカディムと他の3つの入植地が避難された後、イスラエル人はこの地域に定住することが禁止された。イスラエルの現政府はその禁止を撤回した。
+カディムは、2005年に立ち退いた集落の中で再開した最後の集落である。ガニム、サヌール、ホメシュはすでに正式に開所しており、家族連れが入居している。
+しかし、それらはここでのイスラエル政府の入植プロジェクトの大海の一滴にすぎません。 2022年末に政権を握って以来、ヨルダン川西岸北部の19カ所を含むヨルダン川西岸全域で100カ所以上の新規入植地を承認した。
+ピース・ナウの入植監視プログラム責任者のハギット・オフラン氏は、ジェニンでの急速な建設は、10月にイスラエルの選挙が行われる前にヨルダン川西岸の入植地を拡大しようとするイスラエル政府による広範な競争の一環であると語る。
+それらの新しい入植地の1つは、ジェニンの西にあるエメク・ドタンで、先週の日曜日に正式に開設され、現在は約24世帯のユダヤ人家族が住んでいる。
+エメク・ドタンの隣にあるパレスチナ人住宅の小さな集落から、教師のサメル・ジャベルは入植地が形を成していくのを見守ってきた。最初はブルドーザー、次にキャラバンが所定の位置に持ち上げられていく。問題は、ほとんどの家族が引っ越してくる前から始まっていたという。
+「集団がやって来て、私たちの家の向かいに立って、私たちを撮影しています」と彼は私に語った。
+「昨日、彼らは来てここに立って、私と私の子供たちを撮影していました。妻が外に出るたびに、彼らも彼女のことを撮影しました。彼らは私たちの家に入ろうとします。そして彼らは家々を訪問し、午前2時か3時にすべての窓から強力な投光器を直接照らします。」
+サメルさんは半盲で、足に怪我を負っているため移動が困難です。
+「恐怖がすべてを支配している。私たちは完全に無防備だ」と彼は語った。 「全員が武器を持っています。子供たちが心配なのでコンクリートブロックを持ってきて家のこちら側を封鎖しています。」
+サメル氏は、国際的な圧力にもかかわらず、過去数年間、ヨルダン川西岸の他の地域で入植地と入植者の襲撃が拡大するのを観察してきた。
+「欧州には我々のための時間がなく、米国はイランのことで頭がいっぱいで、中国には興味がない」と同氏は分析を始めた。 「ロシアはウクライナ問題で忙しいし、国連は終わったし、アラブ諸国は独自の国内問題を抱えている。」
+「民主主義制度は終わった、終わった」と怒りと苦々しさが漏れ出て結論づけた。 「文明も進歩も近代も嘘だ。」
+ジェニン周辺の新たな入植地と並んで、2つの新たなイスラエル軍事基地が急速に建設されている。監視塔と有刺鉄線を備えた高いコンクリート壁の陰で建設車両が砂埃を巻き上げ、イスラエル国旗が風にはためいている。
+ジェニン難民キャンプの隣にある押収されたパレスチナの土地には軍事前哨基地も建設されている。これは1993年のオスロ合意の署名以来、パレスチナ自治政府の完全な管理下にある土地に建設された初めてのイスラエル軍事基地である。
+イスラエル軍は2025年にジェニン難民キャンプを占拠する前に、数千人の住民をジェニン難民キャンプから避難させた。
+イスラエル国防軍は、ジャブリヤットの前哨基地の建設が「作戦上の必要性に従って」発注されたことを認めた。
+パレスチナ自治政府ジェニン知事のカマル・アブ・アルルブ氏は、イスラエルが難民キャンプ周辺の土地を接収したことは、パレスチナの都市の中心部にヘブロンやエルサレムのように分断して入植者を収容する計画を示唆しているのではないかと心配していると語った。
+彼は、ジェニン周辺に入植者がいなかった過去20年間を「至福」だったと語った。
+「今、私たちは彼らと彼らの襲撃によって仕組まれた地獄の中で生きている」と彼は語った。 「それは私たちの移動を制限します。彼らは道路を寸断し、土地をブルドーザーで破壊し、木を伐採します。」
+ここでの変化のスピードは驚くべきものです。
+数週間前、私はカディムからヨルダン川西岸北部を通ってイスラエルに向かう道路沿いのカフェで座ってコーヒーを飲んでいた。今ではそのカフェも、その周囲にある数十のパレスチナ人の店や企業も、道路沿いにただの瓦礫の山となっている。イスラエル軍によって破壊された。
+10月のイスラエル選挙へのカウントダウンでは、取り壊されたパレスチナ人の建物の数と、新たな入植者キャラバンの数が記録された。
+関連トピック
+- 7 月 26 日発行
+- 1 日前に公開
+- 2 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-21T05:00:57+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5acd/live/49a65740-9d3d-11f1-aed2-8d6da8d75094.jpg",
+    readTime: 8,
+  },
+  {
     id: "perfect-storm-brews-for-global-food-sup-4812640d",
     title: "'Perfect storm' brews for global food supply this winter as grain prices soar",
     titleJa: "穀物価格の高騰により、この冬、世界の食糧供給に「完璧な嵐」が起こる",
@@ -1718,314 +2035,6 @@ FRBも財務省も、ベッセント氏のコメントが同氏とウォーシ�
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-56677379",
     readTime: 2,
-  },
-  {
-    id: "neocloud-stocks-like-coreweave-are-havin-16c3e272",
-    title: "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
-    titleJa: "CoreWeaveのようなネオクラウド株は絶好調だが、資金を得るには時間がなくなってきている",
-    summaryJa: "BCAのアナリスト、ノア・ワイズバーガー氏によると、ネオクラウドは「循環型リース会社」になる運命にあり、これは株価のバリュエーションが低いことを示唆しているという。",
-    bodyOriginal: `The neoclouds are destined to be “cyclical leasing companies,” according to BCA analyst Noah Weisberger, which implies low valuations for the stocks.`,
-    bodyJa: `BCAのアナリスト、ノア・ワイズバーガー氏によると、ネオクラウドは「循環型リース会社」になる運命にあり、これは株価のバリュエーションが低いことを示唆しているという。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/neocloud-stocks-like-coreweave-are-having-a-moment-and-times-running-out-to-cash-in-8aca34c8?mod=mw_rss_topstories",
-    publishedAt: "2026-08-20T18:20:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-84658855",
-    readTime: 2,
-  },
-  {
-    id: "there-is-considerable-tension-my-grandm-85f06665",
-    title: "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
-    titleJa: "「かなりの緊張感が漂っている」：99歳の祖母は、母を自分の意志から切り離したいと考えている。介入すべきでしょうか？",
-    summaryJa: "「おばあちゃんは、母から 5 万ドルの HELOC を引き出すよう圧力をかけられたと感じています。」",
-    bodyOriginal: `“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”`,
-    bodyJa: `「おばあちゃんは、母から 5 万ドルの HELOC を引き出すよう圧力をかけられたと感じています。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
-    publishedAt: "2026-08-20T18:15:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-24501821",
-    readTime: 2,
-  },
-  {
-    id: "walmart-sales-under-strain-as-us-shopper-3f0b7d15",
-    title: "Walmart sales under strain as US shoppers pull back",
-    titleJa: "米国の買い物客が撤退し、ウォルマートの売上が圧迫される",
-    summaryJa: "米国の買い物客が撤退し、ウォルマートの売上が圧迫される- 公開されました",
-    bodyOriginal: `Walmart sales under strain as US shoppers pull back
-- Published
-Sales at the US retail giant Walmart grew at their slowest pace for more than six years in the most recent quarter, suggesting American shoppers are under strain.
-Walmart, which due to its size is well-placed to gauge consumers' mood, blamed the rising price of fuel.
-Sales at comparable sites across the chain were up by 2.6%, excluding fuel, between May and July the company said.
-Walmart said it would use up to $3bn of expected tariff refunds to lower prices in a bid to keep customers spending.
-The rebate stems from duties the retailer paid after President Trump imposed a wave of tariffs on imported goods last year. Retailers are receiving refunds from central government after those tariffs were ruled unlawful.
-Rival retailer Target recently said it had received $1bn in rebates, boosting its profits.
-Walmart, the US's largest retailer, said the nearly $3bn in tariff rebate it anticipated would help it continue a programme of price cuts or "rollbacks" that it expanded earlier this year, external.
-Walmart has leaned heavily on price cuts to retain customers, launching 11,000 of its so-called "rollbacks" across categories.
-Chief financial officer John David Rainey said those lower prices were already lifting transactions and unit sales, especially in food and other staples like toys.
-But he acknowledged that the retail environment remained uneven, with lower-income households – a core part of Walmart's base – feeling squeezed.
-Rainey said rising petrol prices were leaving shoppers with less spare cash, saying the shift in behaviour became clear once fuel went above $4 a gallon.
-Price moves in June made the impact obvious, he added, with lower-income customers pulling back and focusing spending on essentials.
-Beyond the consumer pullback, Walmart's results highlighted several additional risks that could shape the firm's prospects in the months ahead.
-Much of the quarter's profit lift came from tariff refunds that had already come in, a one-off benefit that analysts say won't recur to the same extent.
-The price rollbacks could put pressure on margins, while Walmart is also spending money on automation, new warehouses, and tech upgrades.
-On the earnings call, analysts pressed management on whether lower prices were already driving a lift in sales and whether some rollbacks could be locked in for 2027.
-Walmart said the benefits were showing up most clearly in food and other staples, and that certain cuts might remain if they continued to resonate with shoppers.
-"Our hope and intention always is that rollbacks can become permanent ... wherever possible," Rainey said.
-Analysts also questioned whether Walmart's income could continue to grow despite flagging sales. Executives said they believed it could, pointing to businesses such as membership and advertising.`,
-    bodyJa: `米国の買い物客が撤退し、ウォルマートの売上が圧迫される
-- 公開されました
-米国の小売大手ウォルマートの直近四半期の売上高は過去6年以上で最低のペースで伸びており、米国の買い物客が負担にさらされていることが示唆された。
-ウォルマートはその規模から消費者の気分を測るのに有利な立場にあるが、燃料価格の上昇が原因だと主張した。
-同社によると、5月から7月にかけてチェーン全体の同等拠点の売上高は燃料を除いて2.6％増加した。
-ウォルマートは、顧客の支出を維持するため、予想される関税還付金のうち最大30億ドルを価格引き下げに充てると述べた。
-このリベートは、トランプ大統領が昨年輸入品に相次ぐ追加関税を課した後に小売業者が支払った関税に起因する。これらの関税が違法と判断された後、小売業者は中央政府から返金を受けている。
-ライバルの小売業者ターゲットは最近、10億ドルのリベートを受け取り、利益が増加したと発表した。
-米国最大の小売業者ウォルマートは、予想される約30億ドルの関税リベートは、今年初めに対外的に拡大した価格引き下げまたは「ロールバック」プログラムを継続するのに役立つと述べた。
-ウォルマートは顧客を維持するために値下げに大きく依存しており、カテゴリー全体で1万1000件のいわゆる「ロールバック」を開始している。
-ジョン・デービッド・レイニー最高財務責任者（ＣＦＯ）は、こうした価格下落により、特に食品やおもちゃなどの必需品の取引と販売個数がすでに増加していると述べた。
-しかし同氏は、ウォルマートの基盤の中核である低所得世帯が圧迫感を感じており、小売環境は依然不均一であることを認めた。
-レイニー氏は、ガソリン価格の上昇により買い物客の余剰現金が減っていると述べ、燃料が1ガロン当たり4ドルを超えると行動の変化が明らかになったと述べた。
-同氏は、6月の価格変動の影響は明らかで、低所得層の顧客が手を引いて必需品に支出を集中させていると付け加えた。
-ウォルマートの決算は、消費者の反発以外にも、今後数カ月間の同社の見通しを形作る可能性があるいくつかの追加リスクを浮き彫りにした。
-同四半期の利益押し上げの大半はすでに入っていた関税還付によるものだが、アナリストらはこの一度限りの利益は同じ程度には再発しないだろうと述べている。
-価格引き下げは利益率を圧迫する可能性がある一方、ウォルマートは自動化、新しい倉庫、技術アップグレードにも資金を投じている。
-アナリストらは決算会見で、価格下落がすでに売上高の押し上げにつながっているのか、また一部の反動は2027年に確定する可能性があるのかについて経営陣に圧力をかけた。
-ウォルマートは、効果が最も明確に現れているのは食品やその他の必需品であり、買い物客の共感を呼び続ければ、一定の削減は残る可能性があると述べた。
-「私たちの希望と意図は常に、可能な限りロールバックが永続的になることです」とレイニー氏は語った。
-アナリストらはまた、売上高が低迷しているにもかかわらず、ウォルマートの収益が成長を続けることができるかどうかを疑問視している。幹部らは会員制や広告などの事業を挙げて、それが可能だと信じていると述べた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-20T17:59:59+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg",
-    readTime: 3,
-  },
-  {
-    id: "bessent-says-u-s-likely-won-t-restart-la-13b31d9c",
-    title: "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-    titleJa: "ベッセント氏は、米国が経済圧力を強化する中、大規模なイラン戦闘は再開しない可能性が高いと述べた",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The Trump administration's plan to crush Iran's economy will likely negate the need for major U.S. military operations against the Islamic Republic, Treasury Secretary Scott Bessent told CNBC on Thursday.
-"If we are doing the maximum economic pressure, then that means that likely there will not be a large-scale kinetic restart," Bessent said in an exclusive interview with "Squawk on the Street."
-The Cabinet secretary's comments followed President Donald Trump's declaration on Truth Social that the U.S. plans to choke Iran's economy by levying major penalties against any country that provides "any type of lifeline" to Tehran.
-"This will be an ECONOMIC D-DAY, and we need all of our Allies to stand with the United States of America to isolate, and defeat, the Iran threat," Trump wrote in the Wednesday evening post.
-The announcement came as the war against Iran nears the six-month mark without any hint that the U.S. is close to clinching either a diplomatic or military victory.
-Oil prices rose following CNBC's interview with Bessent, who vowed that the U.S. will create "the greatest coordinated economic isolation in the history of the world" against Iran.
-He said he will hold a news conference on Monday to "talk about exactly what we're going to do."
-In a preview of the plan, he said that the U.S. will be telling all of its allies, "You are either with us or against us."
-"If you insist on doing business with [Iran], either transferring money, buying their oil or doing seaborne ship transfers, then the U.S. Treasury and the U.S. government ... will put its full might and force toward enforcing against you," Bessent said.
-"It is time for our allies and the rest of the world to make a decision," he said. "We are going to squash the economy of this murderous regime."
-He also brushed off early skeptics of the plan, contending that the economic pressure campaign will work in concert with an ongoing U.S. naval blockade of Iranian ports in the Gulf of Oman.
-"It is a one-two punch. We have the blockade, and we are going to have the toughest sanctions in history," he said.
-"We are going to collapse this regime," he added.
-Trump has repeatedly claimed that the U.S. has already effectively destroyed Iran's military and economy, and he insisted in his Wednesday evening Truth Social post that Tehran is "on the ropes" and "hanging by a thread."
-Indeed, Iran's gross domestic product is believed to have contracted amid the war, while inflation in the country has ballooned to historic highs. But some experts still caution against assuming that Iran's economy is facing imminent collapse.
-Iran also continues to exploit its ability to wreak havoc in the Strait of Hormuz, the waterway that saw 20% of the world's oil trade before the war began.
-Tanker crossings through the strait remain highly diminished despite ramped-up pressure from the U.S. and other regional powers. The United Arab Emirates said Wednesday it would halt all trade with Iran after facing new ballistic missile strikes.
-"Doubling down on failed policies will only bring further defeat—and enmity of Iranians," Iranian Foreign Minister Abbas Araghchi said on X in response to Trump's latest threat.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-    publishedAt: "2026-08-20T17:19:03+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "california-ag-tells-cnbc-that-settling-p-1ba0cef6",
-    title: "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
-    titleJa: "カリフォルニア州AGはCNBCに対し、パラマウントとWBDの訴訟の和解には「強固な構造的救済」が必要になると語った。",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `California Attorney General Rob Bonta told CNBC's David Faber on Thursday that the group of states suing to block Paramount Skydance's proposed acquisition of Warner Bros. Discovery would require "robust structural remedies" to reach a settlement in the antitrust case.
-"[Paramount] wanted to talk about everything except for what this case is about. They want to talk about the streaming market, which we don't allege in our complaint. They want to talk about CNN, which is not a focus of our complaint. They want to talk about the foreign regulators. We want to talk about the three markets that we set forth in our complaint, where we think there's antitrust violation," Bonta said.
-Bonta and 11 other state attorneys general filed a lawsuit in July seeking to block the merger. The group of suing states also includes Arizona, Colorado, Connecticut, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon and Washington. In the suit, the group focuses on the size of the combined company and how it would control nearly one-third of films and nearly a third of basic cable TV programming.
-Paramount, which initially sought to close the deal by Sept. 30, agreed to delay the proposed acquisition of WBD to as late as June 2027. A trial will be heard on the matter in March.
-There has been widespread speculation about whether Paramount and the states will hold settlement talks to bypass the March trial.
-"I will say that coming to the table has always been on the table. And if [CEO David] Ellison and Paramount want to come to the table in good faith and talk, we want to talk, too. We're happy to have that conversation," Bonta said. "We do prefer to resolve cases in the boardroom instead of the courtroom, but for now we're bringing our case, and, you know, I hope they can focus on the actual allegations we make in our complaint."
-Bonta said it's no secret Paramount wants the states to consider a settlement.
-If the two companies were to combine, it would unite the famed movie studios Warner Bros. and Paramount, as well as a massive portfolio of TV networks including Paramount's broadcast network CBS and pay TV channels such as its MTV and BET with WBD's CNN, Discovery and others. It would also bring together streaming platforms Paramount+ and HBO Max.
-"Whether the market is shrinking or growing is really irrelevant," Bonta said Thursday in response to the argument that the pay TV subscriber base has been decreasing due to the rise of streaming.
-Bonta said a combined Paramount-WBD would create a "presumptively illegal market concentration" in the film and TV markets the group of attorneys general identified in the lawsuit.
-"We are the ones who've looked at this from a straight-up law and facts perspective in the American economy under American law under Clayton Act Section 7, which applies here as antitrust law," Bonta said. "[The law has] been on the books for over a century. And it's just a straight up, meat-and-potatoes, black-and-white, bread-and-butter, antitrust case."
-The Clayton Antitrust Act is the more-than-100-year-old law that prohibits anticompetitive mergers and acquisitions.
-Paramount has previously called the states' lawsuit a "misrepresentation of competition in the entertainment industry today," and said it plans to "vigorously defend the transaction and demonstrate that this challenge is inconsistent with sound competition and policy and the competitive realities of the media marketplace."
-Paramount's lead trial counsel, Jeffrey Kessler, earlier told CNBC that Paramount "believes strongly" in the combination of the two companies and is prepared to bring the matter to the Supreme Court if it was faced with a prolonged blockade to closing the deal.
-During Paramount's August earnings call, Ellison said he's "confident" the deal will close.
-A Paramount spokesperson didn't immediately respond to a request for comment about Bonta's remarks on Thursday.`,
-    bodyJa: `カリフォルニア州のロブ・ボンタ司法長官は木曜日、CNBCのデービッド・フェイバーに対し、パラマウント・スカイダンスによるワーナー・ブラザース・ディスカバリー買収計画の阻止を求めて訴訟を起こしている州グループが独占禁止法訴訟で和解に達するには「強力な構造的救済」が必要になると語った。
-「（パラマウントは）この訴訟の内容以外のすべてについて話したがっている。彼らはストリーミング市場について話したがっているが、われわれは訴状では主張していない。彼らはCNNについて話したがっているが、これはわれわれの訴状の焦点では​​ない。彼らは外国の規制当局について話したがっている。われわれは訴状で述べた独占禁止法違反があると考えられる3つの市場について話したいのだ」とボンタ氏は語った。
-ボンタ氏と他の11人の州司法長官は7月、合併阻止を求めて訴訟を起こした。訴訟を起こした州のグループには、アリゾナ、コロラド、コネチカット、マサチューセッツ、ミネソタ、ネバダ、ニュージャージー、ニューメキシコ、ニューヨーク、オレゴン、ワシントンも含まれる。同グループは訴訟の中で、合併後の会社の規模と、映画のほぼ3分の1と基本的なケーブルテレビ番組のほぼ3分の1をどのように管理するかに焦点を当てている。
-パラマウントは当初、9月30日までに取引を完了させようとしていたが、WBD買収案を2027年6月まで延期することに同意した。この件に関する裁判は3月に審理される予定だ。
-パラマウントと各州が３月の裁判を回避するために和解協議を行うかどうかについては、さまざまな憶測が広がっている。
-「テーブルに着くことは常にテーブルの上にあったと言っておきます。そして、（デビッド・）エリソンCEOとパラマウントが誠意を持ってテーブルに着いて話し合いたいのであれば、私たちも話し合いたいと思っています。そのような会話ができることを嬉しく思います」とボンタ氏は語った。 「私たちは法廷ではなく役員室で事件を解決することを望んでいますが、今のところ私たちは訴訟を起こしており、ご存知のとおり、私たちが訴状で主張している実際の主張に焦点を当ててもらいたいと思っています。」
-ボンタ氏は、パラマウントが各州に和解の検討を望んでいることは秘密ではないと述べた。
-両社が合併すれば、有名な映画スタジオであるワーナー・ブラザースとパラマウント、さらにはパラマウントの放送ネットワークCBSや同社のMTV、BETなどの有料TVチャンネルとWBDのCNN、ディスカバリーなどを含むテレビネットワークの大規模なポートフォリオが統合されることになる。また、ストリーミングプラットフォームのParamount+とHBO Maxも統合される予定だ。
-ストリーミングの台頭により有料テレビの加入者ベースが減少しているという議論に対し、ボンタ氏は木曜日、「市場が縮小しているか成長しているかは全く関係ない」と述べた。
-ボンタ氏は、パラマウントとWBDの合併により、司法長官グループが訴訟で明らかにした映画・テレビ市場で「おそらく違法な市場集中」が生じるだろうと述べた。
-ボンタ氏は「クレイトン法第７条に基づく米国法に基づいて、米国経済における法と事実を直視した立場からこの問題を検討してきた。同法はここでは反トラスト法として適用される」と述べた。 「[この法律は] 1 世紀以上もの間、法制化されてきました。そして、それはまさに、肉とジャガイモの、白黒はっきりした、パンとバターの、独禁法訴訟です。」
-クレイトン反トラスト法は、反競争的な合併や買収を禁止する 100 年以上の歴史のある法律です。
-パラマウントは以前、各州の訴訟を「今日のエンターテインメント業界における競争の虚偽表示」と呼び、「この取引を断固として弁護し、この挑戦​​が健全な競争や政策、メディア市場の競争の現実に矛盾していることを証明する」つもりだと述べた。
-パラマウントの主任法廷弁護士、ジェフリー・ケスラー氏は先にCNBCに対し、パラマウントは両社の合併を「強く信じ」ており、取引完了への長期にわたる妨害に直面した場合には最高裁判所に問題を提起する用意があると語った。
-パラマウントの8月の決算会見でエリソン氏は、取引が完了することに「自信を持っている」と述べた。
-パラマウントの広報担当者は木曜日のボンタ氏の発言に関するコメント要請にすぐには応じなかった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
-    publishedAt: "2026-08-20T16:42:56+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "bernard-matthews-confirms-closure-of-der-08b4de41",
-    title: "Bernard Matthews confirms closure of Derby factory",
-    titleJa: "バーナード・マシューズ、ダービー工場の閉鎖を認める",
-    summaryJa: "バーナード・マシューズ氏、市内工場の閉鎖を認める- 公開されました",
-    bodyOriginal: `Bernard Matthews confirms closure of city factory
-- Published
-A British food giant is set to close its factory in Derby amid "significant financial losses".
-Bernard Matthews Foods has confirmed it will be shutting its processing facility on Shaftesbury Street South by the end of 2026.
-A spokesperson for the company said the decision had been made at the conclusion of consultations with "employee and union representatives".
-The decision comes two years after the company announced plans to close a plant at its headquarters in Great Witchingham, Norfolk, where its founder built his empire.
-In a statement on Thursday, the company said its financial situation was due to "external economic challenges".
-"This decision follows continued significant financial losses, alongside a range of external economic challenges and the geopolitical environment, including Brexit, Covid, and conflicts in Ukraine and the Middle East, which have all contributed to significantly impacting the site and its supply chain," a spokesperson said.
-"The company will support impacted employees through potential redeployment opportunities across the wider business, and engagement with local organisations to explore alternative employment options."
-The well-known food brand rose to prominence in the 1960s when Bernard Matthews entered the Guinness Book of Records as the biggest turkey farmer in Europe.
-Matthews was known for his "bootiful" catchphrase and his success led to an expansion of turkey-related products, including turkey Twizzlers.
-The entrepreneur died in 2010 on the day of the US Thanksgiving holiday, often referred to as Turkey Day.
-According to the company's website, it still runs processing and production sites in Sunderland and in Holton, Suffolk.
-Trade union Unite has been contacted for comment.
-Get in touch
-Tell us which stories we should cover in Derby
-Listen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.
-Related topics
-- Published13 January 2024
-- Published11 January 2024
-- Published20 September 2016`,
-    bodyJa: `バーナード・マシューズ氏、市内工場の閉鎖を認める
-- 公開されました
-英国の食品大手は「重大な経済的損失」を理由にダービーの工場を閉鎖する予定だ。
-バーナード・マシューズ・フーズは、シャフツベリー・ストリート・サウスにある加工施設を2026年末までに閉鎖すると発表した。
-同社の広報担当者は、この決定は「従業員および組合の代表者」との協議の結果下されたと述べた。
-この決定は、同社が創業者が帝国を築いたノーフォーク州グレート・ウィッチンガムの本社工場を閉鎖する計画を発表してから2年後に行われた。
-同社は木曜日の声明で、財務状況は「外部の経済的課題」によるものだと述べた。
-「今回の決定は、英国EU離脱、新型コロナウイルス感染症、ウクライナと中東の紛争を含むさまざまな外部経済的課題や地政学的な環境に加え、重大な経済的損失が続いていることを受けての決定であり、これらはすべてサイトとそのサプライチェーンに大きな影響を与える一因となっている」と広報担当者は述べた。
-「同社は、より広範な事業全体にわたる潜在的な再配置の機会や、代替雇用の選択肢を模索するための地元組織との連携を通じて、影響を受けた従業員を支援していきます。」
-この有名な食品ブランドは、バーナード マシューズがヨーロッパ最大の七面鳥農家としてギネスブックに登録された 1960 年代に有名になりました。
-マシューズは「ブーティフル」というキャッチフレーズで知られ、彼の成功により七面鳥ツイズラーなど七面鳥関連商品の拡大につながりました。
-この起業家は2010年、しばしばトルコの日と呼ばれる米国の感謝祭の日に亡くなった。
-同社のウェブサイトによると、同社は現在もサンダーランドとサフォーク州ホルトンで加工・生産拠点を運営している。
-労働組合ユナイトにコメントを求めた。
-連絡する
-ダービーで取り上げるべきストーリーを教えてください
-BBC Radio Derby on Sounds を聴き、Facebook (外部)、X (外部)、または Instagram (外部) で BBC Derby をフォローしてください。ストーリーのアイデアを eastmidsnews@bbc.co.uk (外部) または WhatsApp (外部 (0808 100 2210) 経由) に送信してください。
-関連トピック
-- 2024 年 1 月 13 日公開
-- 2024 年 1 月 11 日公開
-- 2016 年 9 月 20 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c998e0my7k5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-20T16:27:26+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d9/live/6ab16810-9cae-11f1-84cf-fd4cfd9d6c84.jpg",
-    readTime: 3,
-  },
-  {
-    id: "ai-data-center-outrage-is-showing-up-eve-653d5dab",
-    title: "AI data center outrage is showing up everywhere from ads to elections",
-    titleJa: "AI データセンターへの怒りは広告から選挙まであらゆるところで現れている",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `During a brainstorming session earlier this summer, a group of comedians and employees at beverage company Liquid Death kicked around an idea for a brazen new advertising campaign that would humorously shed light on the amount of water required to operate massive artificial intelligence data centers.
-"It was an idea of just, hey, what if we used pee to cool data centers instead of water?" Andy Pearson, vice president of creative at Liquid Death, told CNBC in an interview.
-The outlandish idea turned into a collaborative 90-second video, created with Garage Beer, which is owned by Jason and Travis Kelce. The clip pledges to "send your pee to the AI data center of your choice."
-Liquid Death and Garage Beer dropped the video on Tuesday, the same day voters in Florida headed to the polls to vote in the gubernatorial primaries, with the leading Republican candidates focused on data centers as a central issue. Rep. Byron Donalds, President Donald Trump's pick to succeed Gov. Ron DeSantis, won easily to move along to November's general election.
-Last month, Donalds introduced the "Protecting Ratepayers Act," which aims to "ensure that private developers, rather than American taxpayers, bear the investment costs of data center developments that advance our country's technological dominance," according to a release. Donalds, however, received significant financial support from AI PACs like Leading the Future.
-The Marc Andreessen-backed group congratulated Donalds after his win, saying he "understands that new, emerging technologies like AI play a key role in advancing that priority.
-AI data centers, the large facilities that house the hardware for training and running AI models, are popping up all over the country, with far more coming down the line, if leading AI companies and hyperscalers get their way. But with the midterm elections less than three months away and Americans grappling with increased costs for groceries and stubbornly high prices at the pump, data centers have become a physical manifestation of the widespread antipathy for AI, which consumers associate with inflated electricity bills and job loss.
-The National Republican Senatorial Committee, or NRSC, warned on Tuesday that data centers have become a "sleeper issue" for the entire midterm election cycle, according to a memo obtained by CNBC. Democrats are currently ahead in the generic ballot by 6.4 percentage points, according to a polling average from RealClearPolitics.
-Pearson said Liquid Death tries to "stay out of political things," but so many people are talking about AI and data centers that it's become a "pretty universal topic." More than half of Americans say they're more concerned than excited about the growing use of the technology in daily life, according to a report from the Pew Research Center published Tuesday. That's up from 37% in 2021.
-"You literally can't turn on the TV or radio without hearing about it," Pearson said. "It's really an issue that's uniting people across political and cultural spectrums."
-The satirical video Pearson helped produce features former NFL star Jason Kelce, who is shown holding a jar of urine and walking through a field toward a data center singing, "We want your pee, please give us your pee. Let's pee on computers together, to save humanity."
-'Industry will be blamed'
-In the NRSC's memo, the committee wrote that data centers have become a fixture of the contentious Senate race in Ohio, where Democratic candidate and former Sen. Sherrod Brown has made his opposition to them a "centerpiece" of his campaign against Republican incumbent Jon Husted.
-Ohio is home to several large data center projects, including a massive 10-gigawatt campus in Pike County that could cost more than $500 billion, as CNBC previously reported. OpenAI announced Monday that it has agreed to secure 8 gigawatts of that capacity, which is backstopped by a $105 billion commitment from Nvidia.
-Ten gigawatts is roughly equivalent to the annual power consumption of 8 million U.S. households, according to a CNBC analysis of data from the Energy Information Administration.
-"If voters' perceptions of data centers are not fixed quickly, the campaign against them will expand far beyond Ohio," the NRSC wrote in the memo, which was first reported by Axios.
-Should Husted lose because of data centers, "the industry will be blamed," and both parties will take notice, the committee wrote. The Ohio race is critical for Republicans in their effort to keep their slim majority in the Senate.
-Trump weighed in on Wednesday, acknowledging that while data centers "can use a little public relations help," communities should welcome them.
-"I would absolutely want it because the jobs are enormous and the money paid, the taxes paid, are just enormous," the president said.
-A big emerging problem for the tech industry, however, is that voters from both parties disagree. Politicians are responding to their anger.
-In Pennsylvania, Democratic Gov. Josh Shapiro, who is eyeing a potential 2028 presidential bid, signed an executive order on Tuesday placing harsh standards on data center development in his state.
-The order requires data center developers to pay for all new electricity generation, transmission, distribution and other infrastructure required for their project. Developers also must commit to open and transparent engagement with local stakeholders, hire and train local workers, enter into "community benefit agreements," and abide by strict water and environmental standards.
-Shapiro, who once welcomed data center projects, said he signed the order after hearing from "many residents across our Commonwealth who are concerned about what data center development could mean for our communities, our environment, and our utility bills."
-Shapiro's Republican opponent in this year's election, state Treasurer Stacy Garrity, has also seized on data centers as an issue in the campaign, calling for a pause on future development while slamming Shapiro for his earlier positions.
-Garrity's campaign website, which includes a link to "Donate with Crypto," accuses Shapiro of opening "Pennsylvania's door to data centers" and giving away "state tax dollars and resources to a company on the other side of the country."
-CNBC reported in April that the data center boom in Pennsylvania was potentially putting incumbent Republicans in the state at risk.
-In Texas, where Republican Gov. Greg Abbott has championed data centers in the past, the mood has changed decisively. Abbott is now racing to put standards on data centers in his state, as Democratic challenger Gina Hinojosa rips him for his initial support of the facilities.
-Hinojosa told CNBC on Wednesday that Abbott has been "doing the bidding of the moneyed interests and not the people of Texas." Hinojosa has called for a data center moratorium until the legislature can meet to pass guardrails for them.
-Abbott issued a directive in June to require companies to pay for electrical infrastructure upgrades, reuse their own water and reduce the cost of electricity. On Tuesday, the governor announced in a press release that a number of companies agreed to his standards.
-The industry's promises
-AI companies are acutely aware of the souring views toward data centers, and several have made pledges to try and assure Americans that their build-outs will benefit the country.
-In January, Microsoft published a blog post outlining the "concrete steps needed to be a good neighbor in the communities where we build." Days later, OpenAI made a similar pledge, promising to pay its own way on energy while minimizing water use and investing in local jobs and workforce pathways.
-"We believe that AI infrastructure is vital for American competitiveness and economic opportunity, while boosting local economies by creating jobs and bringing in local revenue," OpenAI said in a release at the time.
-Lawmakers are unmoved.
-In July, New York Gov. Kathy Hochul signed an executive order establishing the nation's first yearlong moratorium on large data centers, effectively pausing the development of new facilities in the state. Hochul said she'll use that time to develop a regulatory framework that better protects the environment, ratepayers, the energy grid and communities in New York.
-Trump attacked the moratorium in a post on Truth Social, writing that the state should change its policy "IMMEDIATELY."
-Anthropic CEO Dario Amodei acknowledged the negative public sentiment around AI in a post on X on Saturday. He suggested that it stems from a fundamental "crisis of trust" toward the tech industry.
-"I think that ordinary people don't trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over," Amodei wrote. "The causes of this go back decades and AI is just the latest iteration of it."
-WATCH: ‘Texans are mad and fed up’: Texas gubernatorial candidate Gina Hinojosa on more data centers`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-「一般の人々は企業、政府、テクノロジー業界を信頼しておらず、私たちが彼らを台無しにする何か新しい方法をでっち上げているのではないかと常に疑っていると思います」とアモデイ氏は書いた。 「この原因は数十年前に遡り、AI はその最新の反復にすぎません。」
-注目：「テキサス人は怒っており、うんざりしている」：テキサス州知事候補ジーナ・イノホサ氏、データセンターの増設について`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
-    publishedAt: "2026-08-20T15:56:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "bessent-says-treasury-buyback-operation-572d09f3",
-    title: "Bessent says Treasury buyback operation could be more than $4 billion",
-    titleJa: "ベッセント氏、財務省の買い戻しオペは40億ドル以上になる可能性があると発言",
-    summaryJa: "スコット・ベッセント財務長官は木曜日、CNBCに対し、国債買い入れの加速は発表された40億ドルを超える可能性があると語った。ベッセント氏はライブインタビューで、同部門が最近利回りが急上昇している長期証券に「市場を作る」つもりだと語った。財務省は水曜日、長期国債の買い戻し額を予定の20億ドルに倍増すると発表し、利回りは大幅に低下した。",
-    bodyOriginal: `Treasury Secretary Scott Bessent told CNBC on Thursday that an accelerated buyback of government debt could be higher than the announced $4 billion.
-In a live interview, Bessent said his department is going "make a market" in the longer-dated securities where yields have been surging lately. Treasury announced Wednesday that it would be doubling its scheduled $2 billion in buybacks of longer-dated government debt, sending yields sharply lower.
-"We're going to increase the size of the buyback," he said. "I would note that it could be more than the 4 billion per issue."
-The remarks caused a brief easing in yields, which had largely reversed the decline following Wednesday's announcement. The 30-year bond most recently was trading around 5.235%. The so-called long bond recently had been trading at levels not seen since prior to the global financial crisis in 2008.
-The benchmark 10-year yield also briefly pulled back as Bessent spoke but then headed higher, most recently up about 5 basis points to 4.704%. One basis points equals 0.01%.
-The Treasury chief noted that the level of yields did not factor into the buybacks decision and he wants to see fundamentals control the market.
-While he said the buybacks could grow, Bessent declined to attach a figure, saying it will depend on market conditions.
-"We'll see what the conditions are, and you know we will analyze them," he said. "All we're trying to do is get people to focus on the fundamentals and not trade the headlines during a quiet period in a thin market."
-Bessent acknowledged the pressure at the farther reaches of the curve, saying that the current trading levels didn't reflect current economic conditions.
-"We have a big toolkit, so we'll see," he said. "Part of it is signaling here and to show that we believe that the yields don't reflect the underlying fundamentals."
-He also characterized liquidity for the 30-year bond as "very poor," providing another incentive for Treasury to intervene in what normally is a robust market.
-Multiple factors have combined to push yields higher: Surging debt and deficits in the U.S.; competition from other areas including corporate debt issuance related to artificial intelligence and higher yields from other sovereigns such as Japan, and escalating term premiums, or the extra yield investors demand to hold government debt.
-On the fiscal side, Bessent said he will be meeting with Russell Vought, head of the Office of Management and Budget, to discuss "fiscal consolidation." Figures released Wednesday from Treasury showed the national debt crossed the $40 trillion mark this week.
-"There's nothing magic about the 40 trillion number, and we can grow our way out of that," Bessent said.
-"Our message to our allies, our trading partners, is that global growth is the way to take care of this mountain of debt," he added.`,
-    bodyJa: `スコット・ベッセント財務長官は木曜日、CNBCに対し、国債買い入れの加速は発表された40億ドルを超える可能性があると語った。
-ベッセント氏はライブインタビューで、同部門が最近利回りが急上昇している長期証券に「市場を作る」つもりだと語った。財務省は水曜日、長期国債の買い戻し額を予定の20億ドルに倍増すると発表し、利回りは大幅に低下した。
-同氏は「自社株買いの規模を拡大するつもりだ」と述べた。 「1号あたり40億を超える可能性があることに注意してください。」
-この発言を受けて利回りは一時的に緩和したが、水曜日の発表後の下落はほぼ反転した。直近の３０年債は５．２３５％付近で取引されていた。いわゆる長期債は最近、2008年の世界金融危機以前以来見られない水準で取引されていた。
-ベンチマークの１０年債利回りもベッセント氏の講演で一時は下落したが、その後上昇に向かい、直近では約５ベーシスポイント上昇して４．７０４％となった。 1 ベーシス ポイントは 0.01% に相当します。
-同財務長官は、利回りの水準は自社株買いの決定に考慮されておらず、ファンダメンタルズが市場をコントロールすることを望んでいると述べた。
-ベッセント氏は自社株買いが拡大する可能性があると述べたが、市場の状況次第であるとして数字の添付を拒否した。
-「状況がどのようなものかを見て、分析するつもりだ」と同氏は語った。 「私たちがやろうとしているのは、人々にファンダメンタルズに集中してもらい、市場が薄い閑静な時期にヘッドラインを取引しないようにすることだけです。」
-ベッセント氏は、現在の取引水準は現在の経済状況を反映していないと述べ、曲線の遠方での圧力を認めた。
-「我々には大きなツールキットがあるので、様子を見てみます」と彼は言った。 「その一部はここでのシグナルであり、利回りが基礎的なファンダメンタルズを反映していないと我々が信じていることを示すためだ。」
-同氏はまた、３０年債の流動性を「非常に乏しい」と特徴付け、財務省が通常なら堅調な市場に介入する新たな動機となった。
-複数の要因が組み合わさって利回りが上昇している。米国の債務と財政赤字の急増。人工知能に関連した社債発行や、日本など他の主権国家による高利回り、期間プレミアム、つまり投資家が政府債務を保有するために要求する追加利回りなど、他の分野との競争。
-財政面では、ベッセント氏は「財政健全化」について話し合うため管理予算局のラッセル・ヴォート長官と会談する予定だと述べた。財務省が水曜日に発表した数字によると、国家債務が今週40兆ドルの水準を超えた。
-「40兆という数字には魔法など何もなく、我々はそこから抜け出す方法を成長させることができる」とベッセント氏は語った。
-同氏はさらに「同盟国や貿易相手国に対するわれわれのメッセージは、世界的な成長がこの巨額の債務を処理する方法だということだ」と付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-    publishedAt: "2026-08-20T15:35:33+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
   },
 ];
 
