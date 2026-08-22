@@ -15,6 +15,208 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "search-for-survivors-after-16-killed-by-9ac521e6",
+    title: "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+    titleJa: "ウクライナのショッピングモールでロシアによるダブルタップ攻撃で16人死亡、生存者捜索",
+    summaryJa: "ウクライナのショッピングモールでロシアによるダブルタップ攻撃で16人死亡、生存者捜索- 公開されました",
+    bodyOriginal: `Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall
+- Published
+Rescuers in Ukraine worked through the night to search for survivors in the wreckage of a shopping centre hit by a deadly Russian double-tap drone strike.
+Sixteen people were killed and 130 injured in the busy mall in Kryvyi Rih on Friday, local officials said. Nine people are reportedly still missing.
+President Volodymyr Zelensky said the "cynical and despicable" attack was carried out in two waves, with the second strike targeting emergency workers at the scene.
+Meanwhile, local officials said at least two people had been killed by further Russian strikes early on Saturday. The defence ministry in Moscow said it had targeted transport infrastructure and warehouses.
+Twenty-three children are among those injured by Friday's attack on the shopping centre in the Dnipropetrovsk region, said regional military head Oleksandr Hanzha.
+Hanzha said the death toll had reached 16 after another body was retrieved from the rubble overnight. He previously said 29 people were in a serious condition, prompting fears the toll could rise further.
+Dramatic footage verified by the BBC showed the second drone hitting the already burning mall in Zelensky's hometown. Russia's military has not commented.
+Rescue teams from four other Ukrainian regions were urgently deployed to help search for survivors.
+Kryvyi Rih Mayor Oleksandr Vilkul said the Russian drones were flying at "extremely low altitudes", describing the attackers as "animals".
+"There are missing people who are not responding to calls," the mayor added.
+As rescue efforts continued overnight, local authorities in Kyiv said one person had been killed after a fire broke out in a warehouse following an alert for a ballistic missile.
+In the southern city of Zaporizhzhia, a Russian drone strike killed at least one man and injured four people, according to Ivan Fedorov, the head of the regional military administration.
+Four people - including three children - were killed in separate Russian attacks in Ukraine's southern Mykolaiv region on Friday, and another two in the north-eastern Kharkiv region, local officials said.
+And on Thursday 17 people were killed and more than 40 injured in a major Russian missile and drone attack on Ukraine's capital Kyiv.
+Earlier on Friday, Ukraine's military said it carried out strikes on an oil refinery and a military airfield deep inside Russia.
+Ukraine has in recent months intensified attacks on Russian energy facilities, as well as on warehouses of the country's largest online retailer Wildberries.
+Kyiv describes them as legitimate targets because they help finance Russia's war.
+Russian President Vladimir Putin launched a full-scale invasion of Ukraine in February 2022, and currently Moscow controls about a fifth of Ukrainian territory in the south-east.
+Related topics
+- Published2 days ago
+- Published3 days ago`,
+    bodyJa: `ウクライナのショッピングモールでロシアによるダブルタップ攻撃で16人死亡、生存者捜索
+- 公開されました
+ウクライナの救助隊は、ロシアのダブルタップ無人機攻撃による致命的な攻撃を受けたショッピングセンターの残骸の中から生存者を捜索するために夜を徹して活動した。
+地元当局者によると、金曜日、クリヴィ・リーの繁華街で16人が死亡、130人が負傷した。現在も9人が行方不明となっていると伝えられている。
+ヴォロディミル・ゼレンスキー大統領は、「冷笑的かつ卑劣な」攻撃は2波に分けて行われ、2回目の攻撃は現場の救急隊員を標的にしたと述べた。
+一方、地元当局者らは、土曜日早朝にロシアによるさらなる空爆により少なくとも２人が死亡したと発表した。モスクワの国防省は、輸送インフラと倉庫が標的になったと発表した。
+ドニプロペトロウシク地域のショッピングセンターに対する金曜日の攻撃で負傷した人の中には23人の子供も含まれていると、地域軍のオレクサンドル・ハンザ長官は述べた。
+ハンザ氏は、一夜にして瓦礫の中から別の遺体が発見された後、死者数は16人に達したと述べた。同氏は以前、29人が重篤な状態にあると発表しており、死者数がさらに増加する可能性があるとの懸念を引き起こしていた。
+BBCが検証した劇的な映像には、ゼレンスキー氏の故郷にある既に燃えているショッピングモールに2機目のドローンが衝突する様子が映っていた。ロシア軍はコメントしていない。
+ウクライナの他の4つの地域から救助チームが緊急派遣され、生存者の捜索を支援した。
+クリヴィ・リフ市長のオレクサンドル・ヴィクルル氏は、ロシアの無人機が「極めて低空」で飛行していたと述べ、攻撃者を「動物」と表現した。
+市長は「通報に応じない行方不明者もいる」と付け加えた。
+救助活動は夜通し続いたが、キエフの地元当局は、弾道ミサイルの警報を受けて倉庫で火災が発生し、１人が死亡したと発表した。
+地方軍事行政長官イワン・フェドロフ氏によると、南部ザポリージャ市でロシアの無人機攻撃により少なくとも１人が死亡、４人が負傷した。
+地元当局者らによると、金曜日、ウクライナ南部ムィコラーイウ地域でロシアによる個別の攻撃で子供３人を含む４人が死亡し、ハリコフ北東部でも２人が死亡した。
+そして木曜日には、ウクライナの首都キエフに対するロシアの大規模なミサイルとドローン攻撃で17人が死亡、40人以上が負傷した。
+ウクライナ軍は金曜日初め、ロシア奥深くにある製油所と軍用飛行場を攻撃したと発表した。
+ウクライナはここ数カ月、ロシアのエネルギー施設や同国最大のオンライン小売業者ワイルドベリーの倉庫への攻撃を強化している。
+キエフは、彼らはロシアの戦争資金を援助しているため、正当な標的であると説明している。
+ロシアのウラジーミル・プーチン大統領は2022年2月にウクライナへの本格的な侵攻を開始し、現在モスクワは南東部のウクライナ領土の約5分の1を支配している。
+関連トピック
+- 2 日前に公開
+- 3 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-22T06:40:30+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+    readTime: 3,
+  },
+  {
+    id: "six-investors-reveal-the-biggest-market-37952803",
+    title: "Six investors reveal the biggest market risks — and one strategy they agree on",
+    titleJa: "6 人の投資家が最大の市場リスクを明らかに、そして彼らが同意する 1 つの戦略",
+    summaryJa: "今年は世界市場にとって不安定な年となり、一部の取引が報われる一方、他の取引は罰せられることとなった。CNBCは6人の投資家に、彼らが認識している最大のリスクと、それに対応してポートフォリオをどのように位置付けているかについて質問した。市場への最大の脅威についての見解の違いにもかかわらず、投資家らは繰り返し同じ反応、つまり今年の最大の勝者以外にも多様化するという答えに戻った。",
+    bodyOriginal: `It has been a volatile year for global markets, rewarding some trades while punishing others.
+CNBC asked six investors about the biggest risks they see and how they are positioning portfolios in response. Despite differing views on the biggest threat to markets, the investors repeatedly returned to the same response: diversify beyond this year's biggest winners.
+Fading U.S. exceptionalism
+Chris Rush, investment manager at IBOSS, told CNBC the biggest risk investors were taking was being "too concentrated in the winners of the past and missing other opportunities around the world."
+"It is easy to focus on the short-term noise," he said. "But with U.S. equities already making up such a large proportion of global portfolios, we think concentration is a bigger risk. U.S. exceptionalism has also started to fade from the levels seen before 2025, while rising debt levels among the Magnificent Seven add to the risks of continuing to chase the same companies."
+Real estate investment trusts, which Rush said "have been out of favor for years but now look increasingly attractive" from a valuation perspective, were one asset his team are using to broaden portfolios, alongside U.K. equities, and stocks listed in Asia and emerging markets.
+"Investors have understandably been focused on the AI winners in Korea and Taiwan, but China has performed particularly well during the most recent pullback and we think it remains well positioned," he said.
+'Don't die trying to be a hero'
+Ben Kumar, head of strategy for wealth, investment and public policy at British asset management firm 7IM, told CNBC the big challenge for investors this year "hasn't been managing overall volatility, it's been managing specific volatility."
+"The winners and losers have kept chopping and changing," he explained. "Overall, the wins have been bigger than the losses … but being too exposed to any one theme, sector or style has been very tricky."
+Kumar noted that energy stocks have been the best and worst performers twice this year, as have IT stocks.
+"Everything has worked at some points, nothing has worked at all points," he said. "Diversification has helped hugely — across sectors and regions. And if, like us, you're prepared not to go all in on winners (and risk being a loser), it's been a pretty good year."
+"You don't need to be a hero in this market — just let it work for you, and keep your exposures broad," he added. "Don't die trying to be a hero."
+Complacency warning
+London-based Ben Seager-Scott, chief investment officer at Forvis Mazars, told CNBC "two powerful forces" — the Iran war and strong U.S. corporate earnings — were pulling markets in opposite directions, and that markets risked becoming complacent around events in the Middle East, inflationary pressure and shifts in the AI trade.
+"In terms of our portfolios, it has been more about finessing — we have cut back some of our equity risk overweight (whilst remaining marginally overweight) and have rotated more out of the mega-cap technology names into ordinary U.S. stocks, mostly by shifting from market cap weighted exposures to equal weight exposures," he said.
+'Uncomfortable trade-off'
+Charlie Ambler, co-chief investment officer and partner at Saltus, said the biggest risk to portfolios in his team's view is a policy bind around interest rates.
+"Central banks are struggling to bring long-term rates under control at precisely the moment the economy is absorbing a massive AI infrastructure buildout, which is capital-hungry and inflationary at the margin," he said. "The problem is that the required tonic, raising short-term rates, has become harder to pull."
+Policymakers have been left with "an uncomfortable trade-off" between controlling inflation and maintaining financial stability, he said — and portfolios "need to be positioned for the possibility that they don't get it cleanly right."
+Ambler also said his team's response to the uncertainty was to "broaden out."
+"Rather than concentrating risk in the areas that have driven recent returns, we're widening our exposures across equities, fixed income and alternatives," he told CNBC. "Within alternatives in particular, the focus is on assets whose returns don't simply move in line with equity and bond markets."
+Steve Brice, global chief investment officer at Standard Chartered, said the biggest cyclical risk is that something disrupts the global AI boom, while the biggest structural risk is the outlook for fiscal policy and inflation.
+Brice cautioned against taking a "barbell approach" to the current market of investing heavily in growth areas while holding excessive cash.
+"While the former has been very profitable, the latter is sub-optimal in our opinion as this area is likely to see purchasing power being eroded," he told CNBC. "Therefore, we argue for investors to have a more diversified portfolio by increasing their allocation to other areas of equities — such as developed market financials and euro area industrials — and ensuring portfolios are buffered by allocations to both bonds, gold and other alternative asset classes where possible."
+Why AI spending could force the next rotation
+Billy Leung, an investment strategist at Global X ETFs, said markets are currently running "two live risk debates in parallel."
+"On the acute side, the Strait of Hormuz situation remains unresolved … so the geopolitical premium in oil is not going away quickly," he told CNBC. "But the more durable risk sits with AI capex. The scale of financing now being committed to AI infrastructure build-out, well into the hundreds of billions, is reviving a genuine debate about circular financing structures and weak free cash flow conversion across parts of the AI ecosystem. That is the risk with the longer tail, because unlike a geopolitical shock, it does not resolve on a single headline."
+Leung said positioning data showed equity investors were not taking a particularly defensive stance despite resurging bouts of volatility — and that "if anything it looks under-hedged."
+"Implied volatility across major indices and ETFs has been drifting down toward one-year lows, and skew is sitting near the bottom of its range, which points to broad-based bullishness rather than fear," he said. "On sector rotation, the clearest beneficiaries have been data center-linked industrials, energy and travel, while healthcare, staples and real estate have lagged."
+According to Leung, the trigger most likely to force a real repositioning is AI capital spending durability rather than macroeconomic data signals.
+"There is a growing and legitimate debate about whether the sheer scale of AI-related investment is starting to crowd out other forms of capital expenditure in the economy, and separately whether the financing structures underpinning that build-out can support the free cash flow gap over time," he said. "If that debate starts showing up in guidance or financing costs rather than staying theoretical, that is what forces a rotation, not a broad AI selloff, but capital moving away from pure infrastructure plays toward names with nearer-term monetization."`,
+    bodyJa: `今年は世界市場にとって不安定な年となり、一部の取引が報われる一方、他の取引は罰せられることとなった。
+CNBCは6人の投資家に、彼らが認識している最大のリスクと、それに対応してポートフォリオをどのように位置付けているかについて質問した。市場への最大の脅威についての見解の違いにもかかわらず、投資家らは繰り返し同じ反応、つまり今年の最大の勝者以外にも多様化するという答えに戻った。
+薄れつつある米国の例外主義
+IBOSSの投資マネージャー、クリス・ラッシュ氏はCNBCに対し、投資家が負っている最大のリスクは「過去の勝者に集中しすぎて、世界中の他の機会を逃している」ことだと語った。
+「短期的な騒音に注目してしまいがちです」と彼は言う。 「しかし、米国株がすでに世界のポートフォリオの大部分を占めていることから、集中はより大きなリスクであると考えている。米国の例外主義も2025年以前に見られた水準から薄れ始めている一方、マグニフィセント・セブンの債務水準の上昇により、同じ企業を追い続けるリスクが増大している。」
+不動産投資信託は「何年も人気がなかったが、バリュエーションの観点から見るとますます魅力的になってきた」とラッシュ氏は述べ、同氏のチームがポートフォリオを拡大するために英国株やアジアや新興市場の上場株と並んで活用している資産の一つとなっている。
+同氏は、「投資家がAIの勝者である韓国と台湾に注目しているのは当然だが、中国は最近の反動局面で特に好調なパフォーマンスを見せており、引き続き良好な位置にあると考えている」と述べた。
+「英雄になろうとして死ぬな」
+英国の資産管理会社7IMの富・投資・公共政策戦略責任者ベン・クマール氏はCNBCに対し、投資家にとって今年の大きな課題は「全体的なボラティリティの管理ではなく、特定のボラティリティの管理だ」と語った。
+「勝者と敗者は刻々と変化し続けてきた」と彼は説明した。 「全体として、勝利は損失よりも大きかった…しかし、特定のテーマ、セクター、またはスタイルにあまりにもさらされるのは非常に困難でした。」
+クマール氏は、今年に入ってエネルギー株のパフォーマンスが最高と最低の2回を記録しており、IT株も同様だと指摘した。
+「ある時点ではすべてがうまくいったが、すべての時点では何もうまくいかなかった」と同氏は語った。 「セクターや地域を超えて、多様化が大きく貢献しました。そして、私たちと同じように、勝者に全力を注がない（そして敗者になるリスクを負う）覚悟があるのであれば、今年はかなり良い年になったでしょう。」
+「この市場でヒーローになる必要はありません。ただ自分の都合に合わせて、幅広く露出を続けてください」と彼は付け加えた。 「英雄になろうとして死ぬなよ。」
+自己満足への警告
+ロンドンに本拠を置くフォービス・マザーズの最高投資責任者ベン・シーガー・スコット氏はCNBCに対し、イラン戦争と好調な米国企業収益という「2つの強力な力」が市場を反対方向に引っ張っており、中東での出来事やインフレ圧力、AI貿易の変化に関して市場が現状に満足してしまうリスクがあると語った。
+同氏は、「当社のポートフォリオに関しては、どちらかというと細心の注意を払ってきた。（わずかにオーバーウェイトを維持しながら）株式リスクのオーバーウェイトの一部を削減し、時価総額加重エクスポージャーから等価ウェイトエクスポージャーに移行することによって、超大型テクノロジー株の銘柄を通常の米国株にローテーションさせた」と述べた。
+「不快なトレードオフ」
+サルタスの共同最高投資責任者兼パートナーであるチャーリー・アンブラー氏は、チームの見解ではポートフォリオに対する最大のリスクは金利を巡る政策の縛りであると述べた。
+同氏は、「経済が大規模なAIインフラ整備を吸収しつつあるまさにその時期に、中央銀行は長期金利を制御下に置くのに苦戦している。これは資本を大量に消費し、ぎりぎりのところでインフレを引き起こしている」と述べた。 「問題は、短期金利の上昇という必要な強壮剤を引き出すのが難しくなっているということだ」
+同氏は、政策立案者らはインフレ抑制と金融安定維持の間で「不快なトレードオフ」を迫られており、ポートフォリオは「完全に正しくない可能性を考慮して配置する必要がある」と述べた。
+アンブラー氏はまた、不確実性に対するチームの対応は「範囲を広げる」ことだと述べた。
+同氏はCNBCに対し、「最近のリターンをもたらした分野にリスクを集中させるのではなく、株式、債券、オルタナティブ商品にエクスポージャーを拡大している」と語った。 「特にオルタナティブでは、リターンが株式市場や債券市場に単純に連動しない資産に焦点が当てられています。」
+スタンダード・チャータードのグローバル最高投資責任者スティーブ・ブライス氏は、最大の循環リスクは世界的なAIブームを何かが混乱させることであり、最大の構造リスクは財政政策とインフレの見通しであると述べた。
+ブライス氏は、過剰な現金を保有しながら成長分野に多額の投資をする現在の市場に対して「バーベルアプローチ」を取ることに対して警告した。
+同氏はCNBCに対し、「前者は非常に利益を上げているが、後者はこの分野で購買力が侵食される可能性が高いため、我々の意見では最適とは言えない」と語った。 「そのため、我々は投資家に対し、先進国市場金融やユーロ圏工業株など他の株式分野への配分を増やし、可能な限り債券、金、その他の代替資産クラスへの配分でポートフォリオを緩衝することで、より多様なポートフォリオを持つよう主張する。」
+AI への支出が次のローテーションを強制する可能性がある理由
+グローバルX ETFの投資ストラテジスト、ビリー・レオン氏は、市場では現在「2つのライブリスク議論が並行して行われている」と述べた。
+同氏はCNBCに対し、「深刻な面では、ホルムズ海峡の状況は未解決のままだ…したがって、石油の地政学的プレミアムはすぐには消えないだろう」と語った。 「しかし、AIの設備投資には、より永続的なリスクが存在します。現在、AIインフラの構築に投入されている資金調達の規模は、数千億ドルに達しており、循環型の資金調達構造とAIエコシステムの各部分にわたる弱いフリーキャッシュフロー変換についての本格的な議論が再燃しています。地政学的なショックとは異なり、単一のヘッドラインで解決しないため、これはロングテールのリスクです。」
+レオン氏は、ポジショニングデータは、ボラティリティーの再燃にもかかわらず株式投資家が特に防御的な姿勢をとっていないことを示しており、「どちらかといえばヘッジが不十分であるように見える」と述べた。
+同氏は「主要指数やＥＴＦ全体のインプライド・ボラティリティは１年ぶりの安値に向けて下落しており、スキューはレンジの底値付近に位置しており、これは恐怖ではなく広範な強気の姿勢を示している」と述べた。 「セクターローテーションに関して、最も明らかな恩恵を受けているのはデータセンター関連産業、エネルギー、旅行であり、ヘルスケア、生活必需品、不動産は遅れをとっている。」
+レオン氏によると、実際の配置転換を強いる引き金となる可能性が最も高いのは、マクロ経済データのシグナルではなく、AIの設備投資の耐久性だという。
+同氏は、「AI関連投資の巨大な規模が経済における他の形態の設備投資を締め出し始めているかどうか、またそれとは別に、その増強を支える資金調達構造が長期にわたるフリーキャッシュフローのギャップを支えられるかどうかについて、正当な議論が高まっている」と述べた。 「その議論が理論に留まらず、ガイダンスや資金調達コストに現れ始めれば、それがローテーションを強制するものであり、AIの広範な売却ではなく、純粋なインフラストラクチャから資金が離れ、短期的に収益化できる名前に向かうことになる。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/22/investors-market-risks-diversification-stocks-kospi.html",
+    publishedAt: "2026-08-22T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "canada-says-it-will-match-us-tariffs-dol-a6f857f7",
+    title: "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+    titleJa: "カナダ、通商交渉決裂で米国の関税に「ドル対ドル」で匹敵すると表明",
+    summaryJa: "カナダ、通商交渉決裂で米国の関税に「ドル対ドル」で匹敵すると表明- 公開されました",
+    bodyOriginal: `Canada says it will match US tariffs 'dollar for dollar' as trade talks break down
+- Published
+A fresh wave of US tariffs on a wide array of Canadian goods came into effect on Saturday after a last-minute breakdown in trade talks.
+Announcing the suspension of negotiations shortly before the Friday night deadline, Canadian Prime Minister Mark Carney said he would impose reciprocal tariffs on US goods "dollar for dollar".
+Carney said "last-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal".
+Trade negotiators had been engaged in intense talks since July, after President Donald Trump threatened to impose a 50% levy on nearly $20bn (C$28bn) of Canadian imports by 19 August.
+Trump had temporarily paused those tariffs earlier in the week, saying the two sides were close to signing a trade deal that was "very good" for both countries.
+But minutes before the deadline for a deal, Carney said that while "important progress" had been made in the talks it was "not enough to meet our objectives for Canadians".
+"As a result, this evening, I have decided to suspend trade negotiations with the US and have directed negotiators to return to Ottawa," he said.
+"Last-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal."
+After Carney's announcement US trade representative Jamieson Greer said in a statement: "Tonight, Canada declined to finalise the trade deal under the terms agreed earlier this week.
+"Despite the US offer to Canada to receive the best treatment of any major exporter to our market, new demands and walk backs of other commitments by Canada have upended the careful balance reached in the past days."
+The breakdown in talks marks a significant shift in tone from earlier in the week, when both US and Canadian officials sounded optimistic that a trade deal beneficial for both countries was within reach.
+Negotiators were reportedly discussing a deal that would reduce US tariffs on Canadian steel and aluminium from 50% to 25%, and on Canadian autos from 25% to 15%.
+In exchange, Carney had asked Canadian provinces to restore US alcohol to store shelves.
+Tensions between the two major trading partners have been simmering since Trump returned to office in January last year and unleashed a wide-ranging global programme of tariffs, upending decades of free trade between Canada and the US.
+Now that talks have broken down, Canada will be hit with new 50% US tariffs imposed by Trump using a Depression-era law called the Tariff Act of 1930.
+They will be applied on a range of goods, including wine, dairy, cement, clothing and hockey equipment.
+They are in addition to existing tariffs the US had already imposed on Canadian steel and aluminium, autos and lumber.
+Doug Ford, the traditionally outspoken premier of Canada's largest province Ontario, said "the prime minister has my full support for a strong response - tariff for tariff, dollar for dollar," following Carney's announcement.
+Canada has been engaged in on-again, off-again trade negotiations with the US for over a year in pursuit of a deal that would see the US drop or reduce tariffs on these key sectors.
+The US, meanwhile, has been asking for a number of concessions from Canada, including removing its remaining retaliatory tariffs on American autos and adjusting its dairy quotas to allow greater access for US cheese producers.
+It has also asked that the ban on US alcohol sales, imposed last year by most Canadian provinces in retaliation to Trump's tariffs, be removed.
+Businesses and stakeholders on both sides of the border had pushed for a deal to be reached, arguing that the new US tariffs on Canada will be harmful to both countries.
+The US Chamber of Commerce said earlier in the week in a statement that "higher tariffs would damage both economies, drive up costs for US families, further disrupt critical supply chains, and risk the 13 million American jobs that depend on trade under the US-Mexico-Canada Trade Agreement".
+A recent poll by Canadian firm Abacus Data suggested that around 36% of Canadians would support retaliating to US tariffs, while another 30% would want the Carney government to continue negotiating.
+Retaliation risks upsetting the Trump administration, with trade representative Jamieson Greer saying the US is "not going to tolerate" counter-tariffs.
+"We'll take action," he told reporters last week.`,
+    bodyJa: `カナダ、通商交渉決裂で米国の関税に「ドル対ドル」で匹敵すると表明
+- 公開されました
+通商協議が土壇場で決裂したことを受け、土曜日、米国による幅広いカナダ製品に対する新たな追加関税が発効した。
+カナダのマーク・カーニー首相は金曜夜の期限直前に交渉中止を発表し、米国製品に「1ドルずつ」相互関税を課すと述べた。
+カーニー長官は「米国が提案した条件の土壇場での変更は不公平で非経済的であり、あらゆる合意の信頼性に疑問を投げかけた」と述べた。
+ドナルド・トランプ大統領が8月19日までにカナダからの輸入品約200億ドル（約280億カナダドル）に50％の関税を課すと脅したことを受け、通商交渉担当者らは7月以来激しい交渉を続けてきた。
+トランプ大統領は今週初め、両国にとって「非常に良い」貿易協定の署名に近づいていると述べ、これらの関税を一時停止していた。
+しかし、合意期限の数分前にカーニー氏は、交渉では「重要な進展」が見られたものの、「カナダ国民に対する我々の目標を達成するには十分ではない」と述べた。
+「その結果、今晩私は米国との通商交渉を中止することを決定し、交渉担当者にオタワに戻るよう指示した」と述べた。
+「米国が提案した条件の直前の変更は不公平で非経済的であり、あらゆる合意の信頼性に疑問を投げかけた。」
+カーニー長官の発表後、ジェイミソン・グリア米通商代表部代表は声明で「今夜、カナダは今週初めに合意した条件に基づいて通商協定を締結することを拒否した。
+「米国がカナダに対し、わが国市場への主要輸出業者よりも最高の待遇を受けるよう申し出たにもかかわらず、カナダによる新たな要求と他の約束の撤回により、過去数日間に達成した慎重なバランスが崩れた。」
+協議の決裂は、米国とカナダの当局者が両国にとって有益な通商合意が手の届くところにあると楽観的に聞こえた週初めからのトーンの大幅な変化を示す。
+交渉関係者らは、カナダの鉄鋼とアルミニウムに対する米国の関税を50％から25％に、カナダの自動車に対する米国の関税を25％から15％に引き下げる合意について議論していると伝えられている。
+その見返りとして、カーニー氏はカナダの各州に対し、米国産アルコールを店頭に戻すよう要請していた。
+トランプ大統領が昨年1月に政権に復帰し、広範な世界規模の関税プログラムを発動して、カナダと米国間の数十年にわたる自由貿易を根底から覆して以来、2大貿易相手国間の緊張はくすぶっている。
+交渉が決裂した今、カナダは1930年関税法と呼ばれる大恐慌時代の法律を用いてトランプ大統領が課した新たな50％の米国関税に見舞われることになる。
+これらは、ワイン、乳製品、セメント、衣料品、ホッケー用具など、さまざまな商品に適用される予定です。
+これらは米国がカナダの鉄鋼とアルミニウム、自動車、木材にすでに課していた既存の関税に追加されるものである。
+カナダ最大の州オンタリオ州の伝統的に率直な首相であるダグ・フォード氏は、カーニー長官の発表を受けて「首相は関税には関税、ドルにはドルという強力な対応を全面的に支持している」と述べた。
+カナダは、米国がこれらの主要分野に対する関税を引き下げまたは削減する合意を目指して、1年以上にわたって米国との通商交渉を断続的に行ってきた。
+一方、米国はカナダに対し、米国製自動車に対する残りの報復関税の撤廃や、米国のチーズ生産者のアクセス拡大を可能にする乳製品割り当ての調整など、多くの譲歩を求めている。
+また、トランプ大統領の関税への報復としてカナダのほとんどの州が昨年課した米国でのアルコール販売禁止措置の解除も求めた。
+国境の両側の企業や利害関係者は、米国のカナダに対する新たな関税は両国にとって有害であると主張し、合意に達するよう求めていた。
+米国商工会議所は今週初めに声明で、「関税の引き上げは両国経済にダメージを与え、米国家庭のコストを押し上げ、重要なサプライチェーンをさらに混乱させ、米国・メキシコ・カナダ貿易協定に基づく貿易に依存する米国の1300万人の雇用を危険にさらすことになる」と述べた。
+カナダの企業アバカス・データによる最近の世論調査では、カナダ人の約36％が米国の関税への報復を支持し、さらに30％がカーニー政権の交渉継続を望んでいることが示唆された。
+報復はトランプ政権を混乱させるリスクがあり、ジェイミソン・グリア通商代表は米国は対抗関税を「容認するつもりはない」と述べた。
+同氏は先週記者団に対し、「我々は行動を起こすつもりだ」と語った。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-22T04:46:33+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg",
+    readTime: 5,
+  },
+  {
     id: "tiktok-to-pay-400m-to-us-in-one-of-large-ec14d6f8",
     title: "TikTok to pay $400m to US in one of largest child privacy settlements",
     titleJa: "TikTok、児童プライバシーに関する最大規模の和解で米国に4億ドルを支払う",
@@ -118,6 +320,56 @@ Compute capacity is directly correlated to revenue for AI labs like Anthropic, w
     publishedAt: "2026-08-21T21:20:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-56268337",
+    readTime: 2,
+  },
+  {
+    id: "one-killed-in-sword-attack-at-swedish-sc-74797d78",
+    title: "One killed in sword attack at Swedish school",
+    titleJa: "スウェーデンの学校で剣による襲撃で1人死亡",
+    summaryJa: "スウェーデンの学校で剣による襲撃で1人死亡- 公開されました",
+    bodyOriginal: `One killed in sword attack at Swedish school
+- Published
+One person has been killed in a sword attack at a high school in central Sweden, authorities have said.
+Police were called to the Brinell School in Fagersta shortly after 14:00 local time (13:00 BST) on Friday, where officers arrested an 18-year-old man.
+In an update on Friday, police said officers fired at the suspect before arresting and detaining him. He has not been named.
+Two teenage boys were seriously injured in the attack. Another person had minor injuries.
+Eight other schools in the area were placed under lockdown measures - which have now been lifted - while a state of high alert was declared in the Västmanland region following the attack.
+Sweden's public broadcaster reported that the suspect was wearing a helmet. Local media also said he was a former student.
+Police said officers were now working to establish possible motives, adding that there was currently no danger to the public.
+In a post on X, Sweden's Prime Minsiter Ulf Kristersson described the attack as a "serious incident," and said "we do not know what lies behind the act, but we know that police are working very intensively".
+Sweden's King Carl XVI Gustaf said he received the news "with dismay and sadness".
+In a statement, he said: "My thoughts are with those directly affected, as well as their families and loved ones."
+Students at Brinell School had only just returned to the classroom following the summer break, with the new term beginning either on Monday or Wednesday this week, depending on the academic year.
+The school has just under 500 students on its roster, according to SVT, and is located 170km (105 miles) north-west of the capital, Stockholm.
+Sweden has experienced a number of attacks on educational institutions in recent years.
+The country experienced its worst-ever mass shooting in 2025, where 11 people, including the gunman, died at an adult education centre in Örebro.
+This led to the government tightening the country's gun laws after it was found that the suspect legally owned four rifles, three of which were found in the school where attack took place.
+Two teachers were killed in a violent attack on a secondary school in Malmo in 2022 - an 18-year-old student later confessed to the attack.
+In 2015, a teacher and a pupil were killed in a sword attack at a school in Trollhättan.`,
+    bodyJa: `スウェーデンの学校で剣による襲撃で1人死亡
+- 公開されました
+スウェーデン中部の高校で剣による襲撃があり、１人が死亡したと当局が発表した。
+金曜日の現地時間14時（BST13時）過ぎにファゲルスタのブリネル学校に警察が通報され、18歳の男が逮捕された。
+金曜日の最新情報で警察は、警察官が容疑者を逮捕し拘留する前に容疑者に向けて発砲したと発表した。彼の名前は明かされていない。
+この襲撃で10代の少年2人が重傷を負った。もう一人も軽傷を負った。
+この地域の他の8校も封鎖措置下に置かれ、現在は解除されているが、攻撃を受けてヴェストマンランド地方では厳戒態勢が宣言された。
+スウェーデンの公共放送は、容疑者がヘルメットを着用していたと報じた。地元メディアも同氏が元生徒だったと報じた。
+警察は、警察官が現在考えられる動機の解明に取り組んでいると述べ、現時点で公衆に対する危険はないと付け加えた。
+スウェーデンのウルフ・クリスターソン首相はXへの投稿で、今回の襲撃を「重大な事件」と表現し、「この行為の背後に何があるのか​​は分からないが、警察が非常に集中的に捜査していることは分かっている」と述べた。
+スウェーデンのカール16世グスタフ国王は、この知らせを「落胆と悲しみとともに」受けたと述べた。
+同氏は声明で「直接の被害を受けた人々とその家族、愛する人たちに思いを馳せている」と述べた。
+ブリネルスクールの生徒たちは夏休みが明けて教室に戻ったばかりで、学年に応じて今週月曜日か水曜日に新学期が始まる。
+SVTによると、この学校には500人弱の生徒が在籍しており、首都ストックホルムの北西170キロ（105マイル）に位置している。
+スウェーデンでは近年、教育機関に対する攻撃が多数発生している。
+同国は2025年に史上最悪の銃乱射事件を経験し、オレブロの成人教育センターで銃撃犯を含む11人が死亡した。
+これにより、容疑者が4丁のライフル銃を合法的に所有しており、そのうち3丁が襲撃が行われた学校で発見されたことが判明し、政府は同国の銃規制を強化するに至った。
+2022年にマルメの中等学校への暴力的襲撃で教師2人が殺害されたが、後に18歳の生徒が襲撃を自白した。
+2015年、トロルヘッタンの学校で教師と生徒が剣による襲撃で死亡した。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-21T21:03:24+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
     readTime: 2,
   },
   {
@@ -519,6 +771,76 @@ But almost all beef that is meant to be used for grinding beef, which comes from
     publishedAt: "2026-08-21T16:42:13+00:00",
     category: "貿易",
     imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "uk-canada-and-australia-condemn-israel-f-172fa98b",
+    title: "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+    titleJa: "英国、カナダ、オーストラリアがガザでの援助活動員殺害事件の刑事捜査を拒否したイスラエルを非難",
+    summaryJa: "英国、カナダ、オーストラリアがガザでの援助活動員殺害事件の刑事捜査を拒否したイスラエルを非難- 公開されました",
+    bodyOriginal: `UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
+- Published
+The UK, Canada and Australia have described as "shameful" Israel's decision not to launch a criminal investigation into strikes on a World Central Kitchen (WCK) convoy in Gaza in 2024, which killed seven humanitarian workers.
+The victims were three British nationals, a Pole, an Australian, a Canadian and a dual US-Canadian citizen.
+A joint statement by the three foreign ministries said: "The victims of this incident and their families deserve justice and accountability, and we will continue to seek answers on their behalf."
+Earlier, Israel's ambassador to Australia, Hillel Newman, defended the decision, saying "there was no criminal intention" and therefore "no criminal responsibility".
+The statement said that on 1 April 2024, the Israel Defense Forces (IDF) fired on the WCK convoy as it was delivering food to civilians in Gaza.
+"In the more than two years since, we have been pressing for Israel to swiftly and thoroughly consider the case and hold those responsible to account," it said.
+The three countries said the fact that Israel's announcement came on World Humanitarian Day, "while the world honoured the courage and sacrifice of humanitarians, was particularly egregious".
+It also said the WCK attack was only "one of countless incidents in Gaza where there has been no accountability", as Gaza remains "the deadliest place to deliver aid", with 186 humanitarian workers killed in 2025.
+It urged Israel to comply with its obligations under international humanitarian law and do more to ensure that humanitarian staff can carry out their work safely.
+'Serious failures'
+In its statement on Wednesday, the IDF said the presence of an armed guard with the convoy had not been flagged to it before the convoy set off, and that he was falsely identified as a Hamas fighter. It also accused the convoy of deviating from the route co-ordinated with the military.
+Notwithstanding "serious failures" in the process that led to the killings, "the decisions of the commanders did not raise reasonable suspicion of criminal misconduct," the IDF said.
+Prior to the statement by the three countries, Australia summoned Hillel Newman. Australian Foreign Minister Penny Wong said her country was "outraged" by the Israeli government's decision.
+She also said there were still many "unanswered questions" about the strikes, including why, if the first strike on the convoy was "a catastrophic error", two further strikes followed just minutes apart.
+Poland's foreign ministry also said on Thursday that it was "very disappointed" and had summoned Israel's ambassador in Warsaw.
+The founder of World Central Kitchen, Jose Andres, described the decision as "wrong" and "painful for all of us", demanding an independent commission to investigate.
+Israeli Prime Minister Benjamin Netanyahu has not publicly responded to the latest statement from the UK, Australia and Canada, but he previously said that the military had "unintentionally" killed the volunteers.
+The statement came after a harsh exchange of words between UK Foreign Secretary Ed Miliband and Israeli Foreign Minister Gideon Saar over Israel's plans to open tenders for the construction of about 1,200 settlement homes in a strategically important part of the occupied West Bank.
+Israeli settlements are illegal under international law and plans to build in the so-called E1 area - east of Jerusalem - have long been internationally condemned.
+Miliband condemned the publication of the tender as "an unacceptable and destructive act", and called on Israel to "halt E1 plans immediately, retract the tender and stop all settlement expansion".
+In response, Saar said on social media that he rejected "outright" Miliband's statement.
+"The Jewish people have the right to live throughout the Land of Israel, just as the British have the right to live in London and throughout the United Kingdom," he wrote.
+While the IDF had decided not to launch a criminal investigation into the strikes on the WCK convoy, it announced in the same statement that it would carry out a criminal investigation into the killing by Israeli forces of five-year-old Palestinian girl Hind Rajab and six of her relatives in Gaza in 2024.
+It also said it would similarly investigate the killing of 15 Palestinians, including medics and a UN worker, in March 2025. Their bodies were found buried in shallow graves a week later next to crushed vehicles.
+Related topics
+- Published1 day ago
+- Published3 April 2024`,
+    bodyJa: `英国、カナダ、オーストラリアがガザでの援助活動員殺害事件の刑事捜査を拒否したイスラエルを非難
+- 公開されました
+英国、カナダ、オーストラリアは、２０２４年にガザ地区で人道支援活動家７人が死亡したワールド・セントラル・キッチン（ＷＣＫ）の護送船団への攻撃について、犯罪捜査を開始しないというイスラエルの決定を「恥ずべき」と批判した。
+犠牲者は英国人3人、ポーランド人、オーストラリア人、カナダ人、米国とカナダの二重国籍者だった。
+３外務省は共同声明で「この事件の被害者とその家族は正義と責任を負うべきであり、我々は彼らに代わって答えを求め続ける」と述べた。
+これに先立ち、ヒレル・ニューマン駐オーストラリアイスラエル大使は「犯罪的な意図はなかった」、したがって「刑事責任はない」とこの決定を擁護した。
+声明によると、2024年4月1日、イスラエル国防軍（IDF）はガザ地区で民間人に食料を届けていたWCKの車列に発砲した。
+「それ以来２年以上にわたり、我々はイスラエルに対し、この件を迅速かつ徹底的に検討し、責任者の責任を問うよう求めてきた」と同省は述べた。
+３カ国は、イスラエルの発表が世界人道デーに行われたという事実は、「世界は人道主義者の勇気と犠牲を称える一方で、特にひどい」と述べた。
+また、ガザは依然として「援助物資を届けるのに最も危険な場所」であり、２０２５年には人道支援活動家１８６人が殺害されており、ＷＣＫ攻撃は「説明責任が果たされていないガザでの無数の事件の１つ」に過ぎないとも述べた。
+イスラエルに対し、国際人道法に基づく義務を遵守し、人道支援スタッフが安全に業務を遂行できるようさらに努力するよう求めた。
+「重大な失敗」
+イスラエル国防軍は水曜の声明で、護送隊の出発前に護送隊に武装警備員がいることは知らされておらず、武装警備員がハマスの戦闘員であると誤認されたと述べた。また、車列が軍と調整したルートを逸脱したとして非難した。
+殺害に至った過程での「重大な失敗」にもかかわらず、「指揮官らの決定は犯罪行為の合理的な疑いを生じさせるものではなかった」とイスラエル国防軍は述べた。
+３カ国の声明に先立ち、オーストラリアはヒレル・ニューマン氏を召喚した。オーストラリアのペニー・ウォン外相は、同国はイスラエル政府の決定に「激怒している」と述べた。
+同氏はまた、輸送船団への最初の攻撃が「致命的なミス」だったとしたら、なぜわずか数分の間隔でさらに２回の攻撃が続いたのかなど、空爆についてはまだ多くの「未解決の疑問」が残っていると述べた。
+ポーランド外務省も木曜日、「非常に残念だ」と述べ、ワルシャワのイスラエル大使を召喚したと発表した。
+ワールド・セントラル・キッチンの創設者ホセ・アンドレス氏は、この決定は「間違っている」「我々全員にとって苦痛だ」と述べ、独立した委員会の調査を要求した。
+イスラエルのベンヤミン・ネタニヤフ首相は英国、オーストラリア、カナダの最新の声明に公式には反応していないが、軍が「意図せずに」ボランティアを殺害したと以前述べた。
+この声明は、占領下のヨルダン川西岸地区の戦略的に重要な地域で約1,200戸の入植地建設の入札を開始するというイスラエルの計画をめぐり、英国のエド・ミリバンド外相とイスラエルのギデオン・サール外相の間で厳しい言葉のやりとりがあった後に発表された。
+イスラエルの入植地は国際法上違法であり、エルサレム東のいわゆるE1地域に建設する計画は長い間国際的に非難されてきた。
+ミリバンド氏は入札の公表を「容認できない破壊的な行為」と非難し、イスラエルに対し「E1計画を直ちに中止し、入札を撤回し、すべての入植地拡大を中止する」よう求めた。
+これに対し、サール氏はミリバンド氏の声明を「完全に」拒否したとソーシャルメディアで述べた。
+「英国人がロンドンと英国全土に住む権利があるのと同じように、ユダヤ人はイスラエル全土に住む権利がある」と彼は書いた。
+IDFは、WCKの車列への攻撃について刑事捜査を開始しないことを決定したが、同じ声明の中で、2024年にガザで5歳のパレスチナ人の少女ハインド・ラジャブ君とその親族6人がイスラエル軍によって殺害されたことについて刑事捜査を行うと発表した。
+また、2025年3月に衛生兵や国連職員を含むパレスチナ人15人の殺害についても同様に捜査すると発表した。彼らの遺体は1週間後、押しつぶされた車両の隣の浅い墓に埋葬されているのが発見された。
+関連トピック
+- 1 日前に公開
+- 2024 年 4 月 3 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-21T15:58:57+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
     readTime: 5,
   },
   {
@@ -1823,218 +2145,6 @@ And whatever approach the government takes, the results will take years to come 
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4a7/live/1acdc570-9cb6-11f1-b109-879e35c24276.png",
     readTime: 5,
-  },
-  {
-    id: "stifling-heat-and-broken-toilets-tui-riv-a3d005a4",
-    title: "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-    titleJa: "息苦しい暑さと壊れたトイレ：TUI リバー クルーズの乗客が語る地獄の休日",
-    summaryJa: "息苦しい暑さと壊れたトイレ：TUI リバー クルーズの乗客が語る地獄の休日- 公開されました",
-    bodyOriginal: `Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell
-- Published
-Dozens of people have accused TUI River Cruises of operating vessels with faulty facilities including persistently broken air conditioning, after they spent thousands of pounds on holidays.
-Earlier this year passengers on the Skyla, a ship operated by TUI, contacted BBC Your Voice to say they had been stranded in Budapest during a heatwave with little to no air conditioning.
-Following that report more people got in touch to say they faced similar problems on both the Skyla and its sister vessel, the Isla. They criticised TUI's customer service and said the refunds offered were inadequate.
-TUI apologised to customers where trips "fell short of the standards we aim to deliver".
-A spokesperson for TUI, said: "We understand the disappointment and frustration caused to affected customers."
-Passengers described stifling conditions as well as problems with plumbing after paying thousands of pounds for European cruises, including on the Danube River.
-Andy Peach and his wife booked a seven-day trip on the Skyla in June, travelling through Budapest, Vienna and Linz.
-It turned out to be "the worst TUI holiday we've ever been on", he said.
-Instead of air conditioning, Peach said there were "big blowers" on board, expelling hot air.
-"One was in the middle of the corridor, blocking the exit," he said. "It didn't seem to cool the place down."
-Temperatures onboard climbed as the holiday went on leaving him "exhausted", he said. By the end of the week, Peach said the air conditioning in cabins had broken too.
-On the second-to-last day passengers were transferred to hotels, which Peach said were "really basic".
-He and his wife had paid nearly £4,000 for the holiday but they were offered only £300 as a refund and given 72-hours to accept it.
-He said: "TUI know there's problems on these boats, but continue to sell them to people as a full luxury cruise."
-During the time Peach was on the Skyla, Joan Craven came across complaints on social media.
-She was due to take the ship's next sailing from Budapest a few days later and was worried.
-TUI's customer services assured her by email that the air conditioning on board was working. When she arrived, however, a holiday rep told her it was not. Craven told the BBC she felt misled.
-Some people had described issues with air conditioning as well as problems with the water supply on the same vessel in May.
-Meanwhile, complaints about the Isla go back even further.
-'A tropical house at a zoo'
-Wendy Charnley and her husband Rob had "pushed the boat out" to celebrate his retirement by booking a cruise on the Isla in April 2025 departing from Amsterdam.
-It was like "being in a tropical house at a zoo" Charnley said, with no sign of air conditioning.
-"Some areas were really, really hot." she said. "There wasn't really anywhere that you could go that you could cool down."
-A couple of months later, Kevin Darvill boarded the ship in Frankfurt.
-He immediately noticed the toilet didn't work in the reception area. Portable fans and air conditioning units were also visible.
-Darvill said the ship became "really hot" with "no respite".
-"It was intolerable because there was literally no air circulation," he said. "The worst places were the restaurants."
-He struggled to sleep. Meanwhile, his shower alternated between freezing cold and "scalding hot".
-He said passengers were initially offered a 15% refund due to the air conditioning problems, which was increased to 40% when the cruise was cut short on the penultimate day.
-But he thinks the holiday should not have gone ahead in the first place.
-"Had I known that the air conditioning wasn't working, having gone on river cruises before, I wouldn't have gone," he said.
-Problems with the Isla have continued this year.
-John Welsh, who boarded in June, said some toilets were out-of-order and also reported issues with air conditioning.
-"The whole ship was a sweat box," he said, with some passengers in cabins that had no windows resorting to sleeping on the ship's roof.
-Welsh said staff were "soaking to the skin with sweat working in the restaurant", and he also needed to change his sweat-soaked clothes after eating there.
-He said he felt "fobbed off" when he complained to the cruise director. He accepted TUI's offer of a £140 per person refund for the problems with the air conditioning but said he would never travel with the company again.
-'Indefensible'
-By July, low river levels due to the heatwave were severely affecting European cruises.
-Tony Harper was informed a few days before his trip began on 20 July there would be some coach travel in place of sailing.
-But issues with the ship itself also stood out.
-"The common area smelt of sewage, there was water dripping through the ceiling and there were public toilets out of action for the whole voyage," he said.
-And there were portable air conditioning units onboard, which he said were not effective.
-Harper said: "You can't hold it against them for the low river, that's just nature.
-"But it was the way they dealt with that. It was their communication and poor maintenance of the ships, and you can't put it down to anything else other than that.
-"It's indefensible, really."
-TUI River Cruises said it had experienced "unexpected technical issues affecting air conditioning systems" as well as other challenges caused by low water levels on the Danube.
-It said extreme heat across parts of Europe had put systems under pressure and extensive repairs and maintenance work had been undertaken, including temporary measures.
-The company added that it was investing in its air conditioning systems across its European river cruise fleet this winter, including significant upgrades.`,
-    bodyJa: `息苦しい暑さと壊れたトイレ：TUI リバー クルーズの乗客が語る地獄の休日
-- 公開されました
-休日に数千ポンドを費やしたTUIリバークルーズは、エアコンが壊れ続けるなど欠陥のある設備で船を運航しているとして、数十人が非難している。
-今年初め、TUIが運航するスカイラ号の乗客がBBC Your Voiceに連絡し、熱波で空調がほとんどない中、ブダペストで足止めされていると話した。
-この報告を受けて、スカイラ号とその姉妹船であるアイラ号の両方で同様の問題に直面しているとの連絡がさらに多く寄せられました。彼らはTUIの顧客サービスを批判し、提供された返金は不十分だと述べた。
-TUIは、旅行が「当社が提供しようとしている基準を満たしていない」顧客に謝罪した。
-TUIの広報担当者は「影響を受けた顧客に失望と不満を与えていることは理解している」と述べた。
-乗客らは、ドナウ川を含むヨーロッパのクルーズに数千ポンドを支払った後の息苦しい状況や配管の問題を語った。
-アンディ・ピーチと妻は6月にスカイラでブダペスト、ウィーン、リンツを巡る7日間の旅行を予約した。
-それは「これまでで最悪のTUI休暇」になった、と彼は語った。
-ピーチ社は、機内にはエアコンの代わりに熱気を排出する「大型送風機」があったと述べた。
-「1人は廊下の真ん中にいて、出口を塞いでいた」と彼は語った。 「場が冷める様子はなかった。」
-休暇が続くにつれて船内の気温が上昇し、「疲れ果てた」と彼は語った。ピーチ社は、週末までに客室のエアコンも故障したと述べた。
-最後から2日目には乗客はホテルに移送されたが、ピーチ社は「本当に基本的なものだった」と述べた。
-彼と彼の妻は休暇のために4,000ポンド近くを支払ったが、払い戻しとして提示されたのは300ポンドのみで、それを受け入れるまで72時間与えられた。
-同氏は、「TUIはこれらの船に問題があることを承知しているが、完全な豪華クルーズとして人々に販売し続けている」と述べた。
-ピーチがスカイラに乗っていた間、ジョーン・クレイブンさんはソーシャルメディアで苦情を目にした。
-彼女は数日後にブダペストから次の船に乗る予定だったが、心配していた。
-TUI の顧客サービスは、船内の空調が作動していることを電子メールで彼女に保証しました。しかし、彼女が到着すると、ホリデー担当者はそうではないと彼女に言いました。クレイブンさんはBBCに対し、誤解されていると感じたと語った。
-5月には同じ船で給水の問題だけでなく空調の問題も報告した人もいた。
-一方、イスラに関する苦情はさらに遡ります。
-「動物園のトロピカルハウス」
-ウェンディ・チャーンリーさんと夫のロブさんは、2025年4月にアムステルダム発のイスラ島クルーズを予約し、引退を祝うために「船を押し出して」いた。
-チャーンリー氏は、エアコンの気配もなく「動物園のトロピカルハウスにいるような気分だった」と語った。
-「一部の地域は本当にとても暑かったです。」彼女は言いました。 「クールダウンできる場所は本当にどこにもありませんでした。」
-数か月後、ケビン・ダーヴィルはフランクフルトで船に乗り込みました。
-彼はすぐに、受付エリアのトイレが機能しないことに気づきました。携帯扇風機やエアコンも展示されていました。
-ダービル氏は、船内は「非常に熱く」なり、「休む間もない」と語った。
-「文字通り空気の循環がなかったため、耐えられなかった」と彼は語った。 「最悪の場所はレストランでした。」
-彼はなかなか眠れなかった。その間、彼のシャワーは凍てつくような冷たさと「灼熱の熱さ」を交互に繰り返した。
-同氏によると、乗客には当初、空調設備の問題を理由に15％の払い戻しが提供されたが、最後から2番目の日にクルーズが中止されたため、払い戻し額は40％に増額されたという。
-しかし彼は、そもそも休暇を前倒しすべきではなかったと考えている。
-「以前にリバークルーズに行ったことがあるので、エアコンが効かないと知っていたら、行かなかったでしょう」と彼は言う。
-イスラ島の問題は今年も続いている。
-6月に乗船したジョン・ウェルシュさんは、一部のトイレが故障しており、空調にも問題があると報告した。
-「船全体が汗だくのような状態だった」と同氏は述べ、窓のない船室の乗客の中には船の屋根で寝る人もいたという。
-ウェールズさんは、スタッフが「レストランで働いていると汗で皮膚がびしょ濡れ」になっており、食事後には汗で濡れた服を着替える必要もあったと語った。
-クルーズディレクターに苦情を言ったとき、彼は「がっかりした」と感じたと語った。同氏は、空調の問題に対する一人当たり140ポンドの返金というTUIの申し出を受け入れたが、同社とは二度と旅行しないと述べた。
-「弁護できない」
-7月までに、熱波による川の水位低下はヨーロッパのクルーズに深刻な影響を及ぼした。
-トニー・ハーパーは、7月20日に旅行が始まる数日前に、セーリングの代わりにバスでの移動が予定されていると知らされた。
-しかし、船自体の問題も目立った。
-「共用エリアは下水の臭いがし、天井からは水が滴り落ち、航海中ずっと公衆トイレは使用できなかった」と同氏は語った。
-また、船内には移動式の空調装置があったが、効果がなかったという。
-ハーパーさんは「川が低いからといって彼らに抵抗することはできない。それが自然だ。
-「しかし、それが彼らの対処方法だった。原因は彼らのコミュニケーションと船の整備不良であり、それ以外の原因にすることはできません。
-「それは本当に、弁護の余地のないことです。」
-TUIリバークルーズは、「空調システムに影響を及ぼす予期せぬ技術的問題」や、ドナウ川の水位低下によって引き起こされるその他の問題を経験したと述べた。
-同報告書は、欧州各地で猛暑によりシステムに圧力がかかり、一時的な措置を含む大規模な修理・保守作業が行われたと述べた。
-同社は、この冬、ヨーロッパのリバークルーズ船団全体の空調システムに大幅なアップグレードを含めて投資していると付け加えた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-20T22:59:35+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48ad/live/65eaf140-9cac-11f1-b366-155f83b9d1f8.jpg",
-    readTime: 6,
-  },
-  {
-    id: "our-4-year-old-son-has-100-000-in-his-52-cbd908a1",
-    title: "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-    titleJa: "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
-    summaryJa: "「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」",
-    bodyOriginal: `“I’d love for our son to be able to attend college without needing to take out student loans.”`,
-    bodyJa: `「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-    publishedAt: "2026-08-20T22:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-94025750",
-    readTime: 2,
-  },
-  {
-    id: "warsh-faces-fed-independence-test-as-bes-60b14da0",
-    title: "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
-    titleJa: "ベッセント氏が中央銀行の縄張りに乗り出す中、ウォーシュ氏はFRBの独立性テストに直面している",
-    summaryJa: "長期国債利回りを抑制しようとするベッセント氏の取り組みにより、ウォーシュ氏は債券とバランスシートに関してFRBがどこまで協調すべきなのか明確にするよう迫られる可能性がある。",
-    bodyOriginal: `If Treasury Secretary Scott Bessent truly wants to bring the full force of the federal government to bear on what he sees as a misbehaving bond market, he can't go it alone. A sustained effort to bring down Treasury yields would eventually require coordination with Bessent's longtime friend, now at the Federal Reserve, Chairman Kevin Warsh.
-Bessent's efforts to influence the bond market will add to the immense scrutiny on Warsh to clarify where he stands on the Fed's independence and on its attitude about the vast pool of U.S. government debt.
-The Fed has historically only intervened in the bond market to affect yields in periods of severe economic weakness or clear emergencies. The concerns Bessent has expressed so far fall below that threshold, and there is no sign the central bank intends to get involved now. But there is no definitive line between where Treasury's responsibilities end and the Fed's begin, and Warsh has said repeatedly that he believes the Fed ought to hand more power to the Treasury over sensitive matters involving the Fed's balance sheet.
-The Treasury Department on Wednesday announced it would at least double the maximum size of its planned long-dated treasury buybacks, from $2 billion to at least $4 billion per operation. That would need to be offset by shorter-maturity debt.
-Bessent suggested he might have more plans in store. "We have a big toolkit, so we'll see," Bessent said on CNBC Thursday.
-"Part of it is signaling here and to show that we believe that the yields don't reflect the underlying fundamentals," Bessent said. Yields on the 10-year Treasury note dropped on Wednesday, but had already unwound most of those gains on Thursday.
-"There's more firepower in terms of how you manage the yield curve sitting at the Federal Reserve," Rick Rieder, chief investment officer of global fixed income, told CNBC Wednesday.
-"Going to Jackson Hole, that's going to be interesting to see how they address that," Rieder said.
-Warsh was already facing questions about his relationship to the Treasury market going into the Jackson Hole Economic Policy Symposium, the annual late-August gathering of central bankers in the Wyoming mountains.
-Warsh's remarks after the FOMC's July meeting gave some in the markets the impression that he welcomed a rise in long-term bond yields.
-Bond traders raised yields further to account for that uncertainty, said Loretta Mester, former president of the Cleveland Fed.
-"I think part of what's happening is we don't have very much clarity yet on what Kevin Warsh's plans are," Mester said in an interview on CNBC. "We don't even have clarity on their reaction function."
-Warsh in July said he was concerned about inflation, but didn't directly answer reporters' questions about what it would take for him to raise interest rates to address it.
-Fed independence
-Warsh has also been vague on the precise limits of the Fed's authority over certain aspects of the financial system.
-"Fed independence is at its peak in the conduct of monetary policy," Warsh said at his Senate confirmation hearing in April. That nuanced view implies that some aspects of the Fed's operations aren't fully independent. Warsh carved out bank supervision as an example of non-independent policy, but he hasn't fully specified exactly what is and isn't included.
-Warsh has separately said he wants the Fed to rewrite its relationship with the Treasury. He proposed in 2025 to update the 1951 Treasury-Fed Accord, which established the modern basis for the division of responsibilities between the two agencies — and secured the Fed's political independence. As part of that revised accord, Warsh wanted to give the Treasury more authority over any major adjustment to the Fed's vast balance sheet.
-"The Treasury secretary would need to find the proposed change in Fed holdings acceptable, given that it is partially fiscal policy in disguise," Warsh said in 2025.
-How the Fed thinks about the $6.7 trillion in financial assets currently on its balance sheet could make or break Bessent's plans. Warsh's existing plans would seem to cut against Bessent's hopes to tamp down yields. Warsh wants the Fed to reduce its overall holdings and shift them toward short-term debt, which would likely push up the yield on longer-term Treasuries — the opposite of what Bessent wants to achieve.
-But the Fed is divided even on that question. Recently released minutes from the Federal Open Market Committee's July meeting showed that the Fed deferred questions about its balance sheet until a task force Warsh has assigned to report on that issue comes back. That will be late this year or early next.
-The Treasury and Fed have in practice historically communicated with each other on major changes in the balance sheet. Bessent on Thursday in an interview on CNBC suggested that would continue.
-"I think that the Treasury and the Fed would work together if there was any change in the balance sheet, and we would adjust to any kind of runoff that they're doing," Bessent said.
-Neither the Fed nor the Treasury Department responded to emailed questions about whether Bessent's comment implied he and Warsh had begun to coordinate.`,
-    bodyJa: `スコット・ベッセント財務長官が、不正行為を行っていると見なす債券市場に連邦政府の総力をあげて対処したいと本当に望んでいるのであれば、彼一人で行動することはできない。国債利回りを引き下げるための持続的な取り組みには、最終的にはベッセント氏の長年の友人で現在は連邦準備制度理事会に勤務するケビン・ウォーシュ議長との調整が必要となるだろう。
-債券市場に影響を与えようとするベッセント氏の取り組みは、FRBの独立性と巨額の米政府債務に対する同氏の立場を明らかにするため、ウォーシュ氏に対する厳しい監視をさらに強めることになるだろう。
-FRBはこれまで、深刻な景気低迷時や明らかな緊急事態の際にのみ、利回りに影響を与える目的で債券市場に介入してきた。ベッセント氏がこれまでに表明した懸念はその基準を下回っており、中銀が現時点で関与するつもりの兆候はない。しかし、財務省の責任がどこで終わり、FRBの責任が始まるのかの間に明確な境界線はなく、ウォーシュ氏はこれまで、FRBのバランスシートに関わるデリケートな問題について、FRBは財務省により多くの権限を委譲すべきだとの考えを繰り返し述べてきた。
-財務省は水曜日、計画されている長期にわたる国債買い取りの最大規模を、オペ当たりの20億ドルから少なくとも40億ドルに少なくとも2倍にすると発表した。この分は満期の短い債務で相殺する必要がある。
-ベッセント氏は、さらなる計画があるかもしれないと示唆した。 「我々には大きなツールキットがあるので、様子を見てみよう」とベッセント氏は木曜CNBCで語った。
-ベッセント氏は「その一部はここでのシグナルであり、利回りが基礎的なファンダメンタルズを反映していないと我々が信じていることを示すためだ」と述べた。 １０年米国債利回りは水曜日に低下したが、木曜日にはすでに上昇分の大部分が解消されていた。
-グローバル債券部門の最高投資責任者であるリック・リーダー氏は水曜日、CNBCに対し、「連邦準備制度理事会がイールドカーブを管理する方法に関して、より強力な力がある」と語った。
-「ジャクソンホールに行くことになるが、彼らがそれにどのように対処するかを見るのは興味深いことになるだろう」とリーダー氏は語った。
-ウォーシュ氏は、毎年8月下旬にワイオミング山脈で中央銀行関係者が集まるジャクソンホール経済政策シンポジウムに向けて、すでに米国債市場との関係についての疑問に直面していた。
-７月のＦＯＭＣ後のウォーシュ総裁の発言は、市場の一部に同氏が長期債利回りの上昇を歓迎しているという印象を与えた。
-クリーブランド連銀の元総裁ロレッタ・メスター氏は、債券トレーダーらはこうした不確実性を考慮して利回りをさらに引き上げたと述べた。
-メスター氏はCNBCのインタビューで、「ケビン・ウォーシュ氏の計画が何なのかまだあまり明確になっていないことが、起こっていることの一部だと思う」と語った。 「それらの反応機能さえ明確になっていません。」
-ウォーシュ総裁は７月、インフレを懸念していると述べたが、それに対処するために利上げに何が必要かという記者の質問には直接答えなかった。
-FRBの独立性
-ウォーシュ氏はまた、金融システムの特定の側面に対するFRBの権限の正確な限界についても曖昧だった。
-ウォーシュ氏は4月の上院承認公聴会で「金融政策運営においてFRBの独立性は最高潮に達している」と述べた。この微妙な見方は、FRBの運営の一部の側面が完全に独立していないことを示唆している。ウォーシュ氏は非独立政策の一例として銀行監督を取り上げたが、何が含まれ、何が含まれないのかについては完全には明らかにしていない。
-ウォーシュ氏はこれとは別に、FRBに財務省との関係を書き直すことを望んでいると述べた。同氏は2025年に1951年の財務・連銀合意を更新することを提案し、これにより両機関間の責任分担の現代的基礎が確立され、FRBの政治的独立性が確保された。この修正合意の一環として、ウォーシュ氏はFRBの膨大なバランスシートの大幅な調整に関して財務省により多くの権限を与えることを望んでいた。
-ウォーシュ氏は２０２５年について「部分的に偽装された財政政策であることを考慮すると、財務長官はＦＲＢ保有額の変更案が受け入れられると判断する必要があるだろう」と述べた。
-FRBが現在バランスシート上にある6兆7000億ドルの金融資産をどのように考えるかによって、ベッセント氏の計画が成否を分ける可能性がある。ウォーシュ氏の既存の計画は、利回りを抑制したいというベッセント氏の期待に反するものとみられる。ウォーシュ氏はFRBが保有資産全体を減らして短期国債に振り向けることを望んでおり、そうなれば長期国債の利回りが上昇する可能性が高く、ベッセント氏が達成したいこととは逆だ。
-しかし、この問題に関してもFRBの意見は分かれている。最近公表された7月の連邦公開市場委員会議事録によると、FRBはバランスシートに関する質問を、ウォーシュ氏がこの問題について報告するよう割り当てたタスクフォースが戻ってくるまで延期したことが明らかになった。それは今年の終わりか来年の初めになるだろう。
-財務省とFRBは歴史的に、バランスシートの大きな変更に関して実際に相互に意思疎通を行ってきた。ベッセント氏は木曜日、CNBCのインタビューで、それが継続することを示唆した。
-ベッセント氏は「バランスシートに何らかの変化があれば財務省とFRBは協力すると思うし、彼らが行っているいかなる種類の流出にも対応するだろう」と述べた。
-FRBも財務省も、ベッセント氏のコメントが同氏とウォーシュ氏が調整を始めたことを示唆しているかどうかという電子メールでの質問には回答しなかった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-    publishedAt: "2026-08-20T21:53:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "anxious-bond-market-sends-troubling-mess-16b5bc0b",
-    title: "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
-    titleJa: "不安な債券市場が投資家に憂慮すべきメッセージを送る：米国の債務を簡単に解決することはできない",
-    summaryJa: "市場を落ち着かせるというスコット・ベッセント財務長官の計画はうまく機能していない。",
-    bodyOriginal: `Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.`,
-    bodyJa: `市場を落ち着かせるというスコット・ベッセント財務長官の計画はうまく機能していない。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-    publishedAt: "2026-08-20T19:40:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-86558017",
-    readTime: 2,
-  },
-  {
-    id: "sports-betting-to-build-wealth-is-becomi-864bd04b",
-    title: "Sports betting to build wealth is becoming the new American dream",
-    titleJa: "富を築くためのスポーツ賭博は新たなアメリカンドリームになりつつある",
-    summaryJa: "30歳未満の人が住宅購入や学生ローンの支払いの近道としてギャンブルを利用する人が増えている",
-    bodyOriginal: `More people under 30 are using gambling as a shortcut to buying a home or paying student loans`,
-    bodyJa: `30歳未満の人が住宅購入や学生ローンの支払いの近道としてギャンブルを利用する人が増えている`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
-    publishedAt: "2026-08-20T19:14:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-56677379",
-    readTime: 2,
   },
 ];
 
