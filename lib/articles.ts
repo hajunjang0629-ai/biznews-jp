@@ -15,6 +15,176 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "we-re-not-going-to-run-from-it-sydney-m-aede5820",
+    title: "'We're not going to run from it': Sydney Marathon laughs off medal error",
+    titleJa: "「我々はそこから逃げるつもりはない」：シドニーマラソン、メダルエラーを笑い飛ばす",
+    summaryJa: "「我々はそこから逃げるつもりはない」：シドニーマラソン、メダルエラーを笑い飛ばす- 公開されました",
+    bodyOriginal: `'We're not going to run from it': Sydney Marathon laughs off medal error
+- Published
+The organisers of Sydney Marathon have laughed off a mistake which saw a German stadium etched on to medals for participants, saying "we're not going to run from it".
+Questions arose after the event's official social media account unveiled the design of this year's medal earlier in the week, which had mistakenly etched Allianz Arena, based in the German city of Munich, instead of Sydney's Allianz Stadium.
+A spokesperson for the Sydney Marathon told the BBC: "A little too much international flavour has found its way onto the back of the finishers medal, with an incorrect depiction of the stadium."
+It was "an unfortunate error," they added.
+Recognisable Sydney landmarks feature on the double-sided medal, including the Opera House and Harbour Bridge, which are part of the 42.2km (26.2 mile) course.
+Users on social media noticed the shape of the stadium engraved on the medal appeared to be carved in the wrong likeness.
+Munich's Allianz Arena is sculpted by thousands of diamond-shaped inflatable cushions, while Sydney's similarly named Allianz Stadium has a flatter facade smoothed with long bronze fins.
+Sydney Marathon confirmed runners would receive the medal depicting the incorrect city's stadium, noting: "It's a beautiful medal, and now a little more unique."
+"It's certainly given everyone something to talk about this weekend, mostly in good humour."
+Germany's Allianz Arena also poked fun at the mistake, writing on Instagram: "Oh wow, we didn't have that on our bingo card!"
+"Perhaps they tried to find something else they had in common: Allianz Arena -- Sydney Opera -- Unique Architecture -- Both are worth a visit!"
+The reverse side of the Sydney Marathon medal shows a gold and indigo pattern designed by First Nations artist Ambrose Killian, widely commended for its ornate pattern.
+He confirmed to the BBC that he was not involved in designing the other face of the medal engraved with the wrong stadium.
+Some 40,000 runners will take part in the event on 30 August, following more than 120,000 ballot entries.
+Organisers praised record participation and fundraising for this year's event.
+Related topics
+- Published22 hours ago
+- Published8 September 2025
+- Published16 hours ago`,
+    bodyJa: `「我々はそこから逃げるつもりはない」：シドニーマラソン、メダルエラーを笑い飛ばす
+- 公開されました
+シドニーマラソンの主催者は、参加者のメダルにドイツのスタジアムが刻まれたミスを笑い飛ばし、「我々はそこから逃げるつもりはない」と述べた。
+今週初めに大会の公式ソーシャルメディアアカウントが今年のメダルのデザインを発表した後、疑問が生じた。メダルにはシドニーのアリアンツ・スタジアムではなく、ドイツの都市ミュンヘンに本拠を置くアリアンツ・アレーナが誤って刻まれていた。
+シドニーマラソンの広報担当者はBBCに対し、「完走メダルの裏に国際色が入りすぎており、競技場の描写が間違っている」と語った。
+それは「残念な間違いだった」と彼らは付け加えた。
+両面メダルには、42.2km（26.2マイル）のコースの一部であるオペラハウスやハーバーブリッジなど、シドニーの有名なランドマークが描かれています。
+ソーシャルメディア上のユーザーは、メダルに刻まれたスタジアムの形状が間違った形で彫られているように見えることに気づいた。
+ミュンヘンのアリアンツ アリーナは、何千ものダイヤモンド型の膨脹可能なクッションによって彫刻されていますが、同じ名前のシドニーのアリアンツ スタジアムは、長いブロンズのフィンで滑らかな平らなファサードを持っています。
+シドニーマラソンはランナーが間違った都市のスタジアムを描いたメダルを受け取ることを認め、「美しいメダルで、少しユニークになった」と述べた。
+「間違いなく、この週末、ほとんどが上機嫌で、みんなに何かについて話す機会を与えてくれました。」
+ドイツのアリアンツ・アレーナもこの間違いをからかい、インスタグラムに「なんと、ビンゴカードにそんなこと書いてなかった！」と投稿した。
+「おそらく、彼らは他に共通点を見つけようとしたのでしょう。アリアンツ・アリーナ、シドニー・オペラ、ユニークな建築物、どちらも訪れる価値があります。」
+シドニーマラソンのメダルの裏側には、先住民アーティストのアンブローズ・キリアンがデザインした金と藍の模様が描かれており、その華麗な模様が広く賞賛されています。
+同氏はBBCに対し、間違ったスタジアムが刻印されたメダルのもう一方の面のデザインには関与していないと認めた。
+12万件以上の投票があり、8月30日には約4万人のランナーが参加する予定だ。
+主催者は、今年のイベントへの記録的な参加と募金を賞賛した。
+関連トピック
+- 22 時間前に公開
+- 2025 年 9 月 8 日公開
+- 16 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-23T03:44:19+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg",
+    readTime: 3,
+  },
+  {
+    id: "struggling-households-need-more-help-wit-cd205616",
+    title: "Struggling households need more help with bills, energy industry says",
+    titleJa: "エネルギー業界は、厳しい世帯には請求書に関してさらなる支援が必要だと述べている",
+    summaryJa: "エネルギー業界は、厳しい世帯には請求書に関してさらなる支援が必要だと述べている- 公開されました",
+    bodyOriginal: `Struggling households need more help with bills, energy industry says
+- Published
+Higher energy bills this winter mean the government should step in to provide more help for households most in need, the body representing energy firms in the UK has said.
+Stubbornly high prices over the last few years have left some people needing "emergency support" over and above the existing £150 Warm Home Discount, Energy UK said.
+It added that bills were unaffordable for millions and a "better targeted and more agile" support scheme was needed.
+On Wednesday, the energy price cap for October onwards will be announced by regulator Ofgem and is expected to hit a three-year high.
+"Suppliers continue to do all they can to help their customers but as well as persistently high bills, record levels of debt show how the current system is failing to provide the right support to those in need," Energy UK chief executive Dhara Vyas said.
+A new "social discount" scheme would result in "a system that works better for everyone", she added.
+Ofgem reported at the end of last winter that customers who had fallen behind on their energy bills owed suppliers a record £4.7bn. Since then wholesale energy prices have risen, following the start of the Iran war in February.
+Energy consultancy Cornwall Insight predicts Ofgem's cap on household price rises, which is set every three months, will go up by 4% when it is announced on Wednesday.
+The rise will apply to household bills during the first half of the coming winter and follows a sharper 13% rise in July.
+As well as the conflict in the Middle East, Cornwall Insight said prices had been affected by heatwaves across Europe that had increased demand for power generation to support air conditioning and other cooling.
+The price rise would outweigh the impact of Prime Minister Andy Burnham's move to remove VAT on household electricity bills from October, it added.
+Currently, people receiving means-tested benefits are entitled to the one-off £150 Warm Home Discount over the winter, something administered by the energy suppliers themselves. The rebate is paid for by a levy on all energy users that is collected and redistributed via bills.
+Energy UK said the Warm Home Discount reached six million customers, but there were another 2.5 million who needed help because a medical condition or draughty home meant they consumed more energy.
+It said if the government would allow the combining of information about customers' income, health and energy consumption, a discount scheme could offer targeted and adjustable support, and respond to changing needs and price levels.
+The body said its proposed new scheme would cost £1.9bn - nearly double the cost of the current scheme - but could offer £450 in support to some households.
+Energy UK suggested the new support scheme could continue to be part-funded through bills or shifted entirely onto the taxpayer, via government funding.
+The last time the price cap reached a similar level was in July 2023, Cornwall Insight said, which was still below the peaks reached the previous year in the wake of Russia's invasion of Ukraine.
+During that energy price spike the Conservative government committed a total of around £40bn , externalof government spending to support households with energy bills.
+The challenge of combining sources of personal data, including income and health, and the proposal to find more taxpayer money to fund such a scheme are likely to raise questions.
+However, Adam Scorer, chief executive of National Energy Action, said this was the sort of approach his charity was calling for, especially as the Warm Home Discount has risen by only £10 over the last decade.
+"We desperately need a new approach," he said.
+"There will be a lot of detail to get right, but if government genuinely wants to provide breathing space for people in fuel poverty, it needs to take this challenge on and work with energy companies and charities to design something truly fit for purpose."
+Related topics
+- Published10 June
+- Published3 days ago`,
+    bodyJa: `エネルギー業界は、厳しい世帯には請求書に関してさらなる支援が必要だと述べている
+- 公開されました
+英国のエネルギー会社を代表する団体は、今冬の光熱費の高騰は、最も困っている世帯にさらなる支援を提供するために政府が介入する必要があることを意味すると述べた。
+過去数年間の頑固な物価高により、一部の人々は既存の150ポンドの暖かい住宅割引を超える「緊急支援」を必要としている、とエナジーUKは述べた。
+さらに、数百万人にとって請求書は手の届かないものであり、「より的を絞った、より機敏な」支援計画が必要だと付け加えた。
+水曜日には、10月以降のエネルギー価格の上限が規制当局のOfgemによって発表され、3年ぶりの高値に達すると予想されている。
+エナジーUKのダーラ・ヴィアス最高経営責任者（CEO）は、「サプライヤーは引き続き顧客を支援するために全力を尽くしているが、高額な請求額が続くだけでなく、記録的な水準の債務は現在のシステムが困っている人々に適切な支援を提供できていないことを示している」と述べた。
+新しい「社会割引」制度は「誰にとってもより良く機能するシステム」をもたらすだろうと彼女は付け加えた。
+Ofgemは昨冬の終わりに、エネルギー料金を滞納した顧客がサプライヤーに対して記録的な47億ポンドの負債を抱えていると報告した。 2月にイラン戦争が始まったことを受けて、それ以来、卸売エネルギー価格は上昇した。
+エネルギーコンサルタント会社コーンウォール・インサイトは、オフジェムが３カ月ごとに設定する家庭用価格の値上げ上限は、水曜日の発表時には４％引き上げられると予想している。
+この値上げは、7月の13％の大幅な値上げに続き、次の冬の前半の家計費に適用される。
+コーンウォール・インサイトは、中東紛争だけでなく、ヨーロッパ全土の熱波が価格に影響を及ぼし、空調やその他の冷房をサポートするための発電需要が増加したと述べた。
+価格上昇はアンディ・バーナム首相が10月から家庭用電気料金の付加価値税を撤廃する動きの影響を上回るだろうと付け加えた。
+現在、資力調査による給付金を受けている人は、冬の間、1回限りの150ポンドの「暖かい家割引」を受ける権利があり、これはエネルギー供給会社自身が管理するものである。リベートは、すべてのエネルギー利用者に対する賦課金によって支払われ、請求書によって徴収および再分配されます。
+Energy UK によると、Warm Homediscount の顧客は 600 万人に達したが、さらに 250 万人が、病状や隙間風が原因でより多くのエネルギーを消費するため、支援を必要としているという。
+同報告書は、政府が顧客の収入、健康、エネルギー消費に関する情報の組み合わせを許可すれば、割引制度により的を絞った調整可能なサポートを提供し、変化するニーズや価格水準に対応できる可能性があると述べた。
+同団体は、提案されている新たな制度の費用は19億ポンド（現行制度のほぼ2倍）となるが、一部世帯には450ポンドの支援を提供できる可能性があると述べた。
+エナジーUKは、新たな支援制度の一部が引き続き法案を通じて資金提供されるか、政府資金を通じて全額納税者に負担される可能性があると示唆した。
+コーンウォール・インサイトによると、価格上限が最後に同様の水準に達したのは2023年7月だが、ロシアのウクライナ侵攻を受けて前年に達した最高値を依然として下回っていた。
+エネルギー価格の高騰中、保守党政府は政府支出以外に総額約 400 億ポンドを支出し、家庭の光熱費を支援しました。
+収入や健康状態などの個人データのソースを組み合わせるという課題と、そのような計画に資金を提供するためにより多くの納税者の資金を見つけるという提案は、疑問を引き起こす可能性があります。
+しかし、ナショナル・エネルギー・アクションの最高責任者であるアダム・スコアラー氏は、特にウォーム・ホーム・ディスカウントが過去10年間でわずか10ポンドしか値上がりしていないことを考えると、これは彼の慈善団体が求めていた類のアプローチであると述べた。
+「私たちは新しいアプローチを切実に必要としている」と彼は言う。
+「詳細を詰める必要はたくさんあるだろうが、政府が本気で燃料貧困に陥っている人々に息抜きの場を提供したいのであれば、この課題に取り組み、エネルギー会社や慈善団体と協力して目的に真に合ったものを設計する必要がある。」
+関連トピック
+- 6 月 10 日発行
+- 3 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-22T23:00:03+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ea9/live/7085b770-9d97-11f1-9233-8716b68cda7b.jpg",
+    readTime: 5,
+  },
+  {
+    id: "syria-says-israeli-strike-near-damascus-e1f24892",
+    title: "Syria says Israeli strike near Damascus violation of international law",
+    titleJa: "シリア、イスラエルのダマスカス近郊攻撃は国際法違反と主張",
+    summaryJa: "シリア、イスラエルのダマスカス近郊攻撃は国際法違反と主張- 公開されました",
+    bodyOriginal: `Syria says Israeli strike near Damascus violation of international law
+- Published
+Syria has condemned an Israeli attack on the village of Beit Jinn, southwest of the country's capital Damascus, which officials said hit a civilian vehicle and left several people injured.
+The attack was the second known Israeli strike on Syria in the past week, with Syria branding it a "violation" of its sovereignty and international law.
+In a post on X, the Israeli military said it had targeted a "terrorist" in the "final stages" of preparing attacks which posed an immediate threat to soldiers.
+The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border, which Syria said threatened to escalate tensions in the region.
+After the earlier attack, Washington issued a rare rebuke of Israel, calling it an "unnecessary escalation that does not advance regional stability".
+In an interview on Friday, the US ambassador to Turkey, Tom Barrack, suggested that the strike could be "the Israelis baiting the Turks" in an attempt to draw Turkey into a conflict ahead of upcoming Israeli elections.
+Barrack's comments led Israel's far-right defence minister, Israel Katz, to describe his account as "full of inaccuracies".
+Writing on X, Katz added Israeli forces were acting "in light of clear intelligence information about Turkey's intentions".
+Following Tuesday's strikes on the Abu al-Duhur airbase, the office of Israeli Prime Minister Benjamin Netanyahu published a statement: "Israel and Syria agreed to a status quo in security matters, which Syria was on the verge of breaching by permitting Turkish troops to deploy at an airbase near Aleppo."
+After the strike Turkey did not confirm whether any of its troops moved to the Abu al-Duhur airbase, which sits 70km from the Turkish border. However, Ankara rejected Israel's suggestion that it posed a threat.
+Abu al-Duhur airbase has been out of service as a dedicated military airfield since 2013. Rebel forces seized control of the base as they swept through the country in December 2024.
+Israel occupies territory in southwest Syria it seized after the fall of Bashar al-Assad in 2024.
+Syria has been trying to rebuild its military facilities that were damaged during the offensive that saw Bashar al-Assad's government overthrown.
+The Turkish military has provided assistance to Syria since the overthrow of Assad, while Israel continues to view both countries with deep suspicion.
+Al-Sharaa has forged closer ties with the West since coming to power, particularly the US and in November 2025 he became the first Syrian leader to visit the White House.
+Related topics
+- Published20 March`,
+    bodyJa: `シリア、イスラエルのダマスカス近郊攻撃は国際法違反と主張
+- 公開されました
+シリアは、首都ダマスカスの南西にあるベイト・ジン村に対するイスラエルの攻撃を非難し、当局は民間車両に衝突し、数人が負傷したと発表した。
+この攻撃はイスラエルによる過去１週間でのシリア攻撃としては２度目で、シリアはこれを自国の主権と国際法への「違反」と非難している。
+イスラエル軍はＸへの投稿で、兵士にとって差し迫った脅威となる攻撃準備の「最終段階」で「テロリスト」を標的にしたと発表した。
+今回の事件は、イスラエルがトルコ国境近くの軍事空軍基地を攻撃したとの報道が浮上した数日後に発生し、シリアは地域の緊張が高まる恐れがあると主張した。
+先の攻撃後、米国政府は「地域の安定を促進しない不必要なエスカレーション」だとし、イスラエルを異例に非難した。
+金曜日のインタビューで、駐トルコ米国大使のトム・バラック氏は、今回の攻撃は、来るイスラエル選挙に先立ってトルコを紛争に引き込もうとする「イスラエル人がトルコ人をおびき寄せる」ものである可能性があると示唆した。
+バラック氏のコメントを受けて、イスラエルの極右国防大臣イスラエル・カッツ氏は、バラック氏の説明は「不正確な点が多い」と述べた。
+カッツ氏はXに寄稿し、イスラエル軍は「トルコの意図に関する明確な諜報情報に照らして」行動していると付け加えた。
+火曜日のアブ・アル・ドゥフル空軍基地への空爆を受け、イスラエルのベンヤミン・ネタニヤフ首相事務所は声明を発表、「イスラエルとシリアは安全保障問題で現状維持に合意したが、シリアはアレッポ近郊の空軍基地へのトルコ軍の配備を許可することでそれを破る寸前だった」と述べた。
+攻撃後、トルコはトルコ国境から70キロメートル離れたアブ・アル・ドゥフル空軍基地に部隊が移動したかどうかを確認していない。しかしトルコ政府は、脅威となるというイスラエルの提案を拒否した。
+アブ・アル・ドゥフル空軍基地は2013年以来、専用の軍用飛行場として使用されていない。反乱軍は2024年12月に国内を席巻し、基地を掌握した。
+イスラエルは、2024年のバシャール・アル・アサド政権崩壊後に占領したシリア南西部の領土を占領している。
+シリアは、バシャール・アル・アサド政権打倒につながる攻撃で被害を受けた軍事施設の再建に取り組んでいる。
+トルコ軍はアサド打倒以来シリアに支援を提供してきたが、イスラエルは引き続き両国を深い疑惑の目で見ている。
+アルシャラー氏は権力を握って以来、西側諸国、特に米国との緊密な関係を築き、2025年11月にはホワイトハウスを訪問した最初のシリア指導者となった。
+関連トピック
+- 3 月 20 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-22T21:42:42+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
+    readTime: 3,
+  },
+  {
     id: "the-estrangement-isn-t-about-politics-m-6afb6054",
     title: "‘The estrangement isn’t about politics’: My daughter hasn’t spoken to me for 4 years. Do I leave her a monthly annuity?",
     titleJa: "「疎遠の原因は政治ではありません」: 娘は 4 年間私と話をしていません。彼女に毎月の年金を残すべきでしょうか？",
@@ -365,6 +535,62 @@ The failure to reach a deal adds another complication to the increasingly tense 
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 4,
+  },
+  {
+    id: "father-leaves-7-year-old-son-alone-on-mo-515cead9",
+    title: "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+    titleJa: "父親が7歳の息子を富士山に残して登山を続ける",
+    summaryJa: "父親が7歳の息子を富士山に残して登山を続ける- 公開されました",
+    bodyOriginal: `Father leaves 7-year-old son alone on Mount Fuji to continue hike
+- Published
+A father has been reprimanded by police after leaving his son on Japan's highest mountain for several hours with just a soft drink and snack.
+The seven-year-old was spotted sitting on a bench on Mount Fuji in foggy and rainy conditions, at a point situated at over 2,000m (6,500ft).
+His father, 48, reportedly told him to "wait here" after the boy complained he was tired - and continued the climb with his elder son.
+Staff at a mountain hut found the child near the sixth station of a hiking route towards the summit and alerted police. His father was tracked down between the route's seventh and eighth stations - said to be a three-hour hike away.
+The boy was found on his own at 07:30 local time on Thursday (22:30 GMT).
+Officers castigated his father when he returned from the higher station and reunited with his son, who is said to have been "tired and fussy" after eight hours of waiting.
+"Even if it means having to give up on climbing the mountain together, leaving a child behind is unacceptable," one told him, according to Japan Today. He is said to have apologised for the "rash" decision.
+The family was reported to have been on the Fujinomiya route, which starts from the fifth station on the mountain, a spot which is accessible by public transport.
+From there it takes around five hours to reach the peak and a further three hours to get down, climbing guides suggest.
+Mount Fuji climber rescued twice after going back for lost phone
+- Published28 April 2025
+Mount Fuji, which stands at a height of 3,776m (12,389ft), has been the site of a number of climbing mishaps in recent years.
+In July, a 99-year-old woman had to be rescued attempting the route after falling and hurting her hip and back.
+And last year, a 27-year-old university student who went outside of official climbing season had to be rescued twice in four days - after he went back to look for his lost mobile phone.
+Mount Fuji, an active volcano located south-west of Tokyo, was granted World Heritage status in 2013.
+It is also one of three traditional "Holy Mountains" together with Mount Tate and Mount Haku.
+Around 200,000 people climb it each year, but there are daily caps on some routes to avoid overcrowding.
+Related topics
+- Published7 November 2024
+- Published5 March 2024`,
+    bodyJa: `父親が7歳の息子を富士山に残して登山を続ける
+- 公開されました
+息子をソフトドリンクと軽食だけを持って数時間日本最高峰に置き去りにした父親が警察から懲戒処分を受けた。
+7歳の少年は、霧と雨が降る中、標高2,000メートル（6,500フィート）以上の地点にある富士山のベンチに座っているのが発見された。
+伝えられるところによると、父親（48）は少年が疲れたと訴えた後、「ここで待っていて」と言い、長男と一緒に登山を続けたという。
+山頂に向かう登山道の六合目付近で山小屋の職員が発見し、警察に通報した。彼の父親は、ハイキングで3時間かかると言われている、ルートの7番目の駅と8番目の駅の間で追跡されました。
+少年は現地時間木曜午前7時30分（日本時間午後22時30分）に自力で発見された。
+警察は父親が高台の署から戻り、8時間待った後で「疲れてぐずっていた」息子と再会したとき、父親を非難した。
+ジャパン・トゥデイ紙によると、ある人は「たとえ一緒に山に登ることを諦めなければならないとしても、子供を置き去りにするのは容認できない」と語ったという。同氏は「軽率な」決定を謝罪したと言われている。
+家族は公共交通機関でアクセスできる五合目から始まる富士宮ルートにいたと伝えられている。
+登山ガイドによると、そこから頂上までは約5時間、下山まではさらに3時間かかるという。
+富士山登山者、携帯紛失で引き返し2度救助
+- 2025 年 4 月 28 日発行
+標高 3,776 メートル (12,389 フィート) の富士山は、近年、登山中の遭難事故が多発しています。
+7月には99歳の女性がこのルートを通ろうとして転んで腰と背中を痛め、救助されなければならなかった。
+そして昨年、正式な登山シーズン外に出かけた27歳の大学生は、紛失した携帯電話を探しに戻った後、4日間で2回救助されなければならなかった。
+東京の南西に位置する活火山である富士山は、2013 年に世界遺産に登録されました。
+立山、白山と並ぶ伝統的な「三大霊山」の一つでもあります。
+毎年約 20 万人が登山しますが、混雑を避けるために一部のルートには 1 日の上限が設けられています。
+関連トピック
+- 2024 年 11 月 7 日公開
+- 2024 年 3 月 5 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-22T14:35:11+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
+    readTime: 2,
   },
   {
     id: "38-year-old-runs-a-mobile-pizzeria-out-o-f6bdfd63",
@@ -1674,208 +1900,6 @@ But almost all beef that is meant to be used for grinding beef, which comes from
     category: "貿易",
     imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "uk-canada-and-australia-condemn-israel-f-172fa98b",
-    title: "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-    titleJa: "英国、カナダ、オーストラリアがガザでの援助活動員殺害事件の刑事捜査を拒否したイスラエルを非難",
-    summaryJa: "英国、カナダ、オーストラリアがガザでの援助活動員殺害事件の刑事捜査を拒否したイスラエルを非難- 公開されました",
-    bodyOriginal: `UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
-- Published
-The UK, Canada and Australia have described as "shameful" Israel's decision not to launch a criminal investigation into strikes on a World Central Kitchen (WCK) convoy in Gaza in 2024, which killed seven humanitarian workers.
-The victims were three British nationals, a Pole, an Australian, a Canadian and a dual US-Canadian citizen.
-A joint statement by the three foreign ministries said: "The victims of this incident and their families deserve justice and accountability, and we will continue to seek answers on their behalf."
-Earlier, Israel's ambassador to Australia, Hillel Newman, defended the decision, saying "there was no criminal intention" and therefore "no criminal responsibility".
-The statement said that on 1 April 2024, the Israel Defense Forces (IDF) fired on the WCK convoy as it was delivering food to civilians in Gaza.
-"In the more than two years since, we have been pressing for Israel to swiftly and thoroughly consider the case and hold those responsible to account," it said.
-The three countries said the fact that Israel's announcement came on World Humanitarian Day, "while the world honoured the courage and sacrifice of humanitarians, was particularly egregious".
-It also said the WCK attack was only "one of countless incidents in Gaza where there has been no accountability", as Gaza remains "the deadliest place to deliver aid", with 186 humanitarian workers killed in 2025.
-It urged Israel to comply with its obligations under international humanitarian law and do more to ensure that humanitarian staff can carry out their work safely.
-'Serious failures'
-In its statement on Wednesday, the IDF said the presence of an armed guard with the convoy had not been flagged to it before the convoy set off, and that he was falsely identified as a Hamas fighter. It also accused the convoy of deviating from the route co-ordinated with the military.
-Notwithstanding "serious failures" in the process that led to the killings, "the decisions of the commanders did not raise reasonable suspicion of criminal misconduct," the IDF said.
-Prior to the statement by the three countries, Australia summoned Hillel Newman. Australian Foreign Minister Penny Wong said her country was "outraged" by the Israeli government's decision.
-She also said there were still many "unanswered questions" about the strikes, including why, if the first strike on the convoy was "a catastrophic error", two further strikes followed just minutes apart.
-Poland's foreign ministry also said on Thursday that it was "very disappointed" and had summoned Israel's ambassador in Warsaw.
-The founder of World Central Kitchen, Jose Andres, described the decision as "wrong" and "painful for all of us", demanding an independent commission to investigate.
-Israeli Prime Minister Benjamin Netanyahu has not publicly responded to the latest statement from the UK, Australia and Canada, but he previously said that the military had "unintentionally" killed the volunteers.
-The statement came after a harsh exchange of words between UK Foreign Secretary Ed Miliband and Israeli Foreign Minister Gideon Saar over Israel's plans to open tenders for the construction of about 1,200 settlement homes in a strategically important part of the occupied West Bank.
-Israeli settlements are illegal under international law and plans to build in the so-called E1 area - east of Jerusalem - have long been internationally condemned.
-Miliband condemned the publication of the tender as "an unacceptable and destructive act", and called on Israel to "halt E1 plans immediately, retract the tender and stop all settlement expansion".
-In response, Saar said on social media that he rejected "outright" Miliband's statement.
-"The Jewish people have the right to live throughout the Land of Israel, just as the British have the right to live in London and throughout the United Kingdom," he wrote.
-While the IDF had decided not to launch a criminal investigation into the strikes on the WCK convoy, it announced in the same statement that it would carry out a criminal investigation into the killing by Israeli forces of five-year-old Palestinian girl Hind Rajab and six of her relatives in Gaza in 2024.
-It also said it would similarly investigate the killing of 15 Palestinians, including medics and a UN worker, in March 2025. Their bodies were found buried in shallow graves a week later next to crushed vehicles.
-Related topics
-- Published1 day ago
-- Published3 April 2024`,
-    bodyJa: `英国、カナダ、オーストラリアがガザでの援助活動員殺害事件の刑事捜査を拒否したイスラエルを非難
-- 公開されました
-英国、カナダ、オーストラリアは、２０２４年にガザ地区で人道支援活動家７人が死亡したワールド・セントラル・キッチン（ＷＣＫ）の護送船団への攻撃について、犯罪捜査を開始しないというイスラエルの決定を「恥ずべき」と批判した。
-犠牲者は英国人3人、ポーランド人、オーストラリア人、カナダ人、米国とカナダの二重国籍者だった。
-３外務省は共同声明で「この事件の被害者とその家族は正義と責任を負うべきであり、我々は彼らに代わって答えを求め続ける」と述べた。
-これに先立ち、ヒレル・ニューマン駐オーストラリアイスラエル大使は「犯罪的な意図はなかった」、したがって「刑事責任はない」とこの決定を擁護した。
-声明によると、2024年4月1日、イスラエル国防軍（IDF）はガザ地区で民間人に食料を届けていたWCKの車列に発砲した。
-「それ以来２年以上にわたり、我々はイスラエルに対し、この件を迅速かつ徹底的に検討し、責任者の責任を問うよう求めてきた」と同省は述べた。
-３カ国は、イスラエルの発表が世界人道デーに行われたという事実は、「世界は人道主義者の勇気と犠牲を称える一方で、特にひどい」と述べた。
-また、ガザは依然として「援助物資を届けるのに最も危険な場所」であり、２０２５年には人道支援活動家１８６人が殺害されており、ＷＣＫ攻撃は「説明責任が果たされていないガザでの無数の事件の１つ」に過ぎないとも述べた。
-イスラエルに対し、国際人道法に基づく義務を遵守し、人道支援スタッフが安全に業務を遂行できるようさらに努力するよう求めた。
-「重大な失敗」
-イスラエル国防軍は水曜の声明で、護送隊の出発前に護送隊に武装警備員がいることは知らされておらず、武装警備員がハマスの戦闘員であると誤認されたと述べた。また、車列が軍と調整したルートを逸脱したとして非難した。
-殺害に至った過程での「重大な失敗」にもかかわらず、「指揮官らの決定は犯罪行為の合理的な疑いを生じさせるものではなかった」とイスラエル国防軍は述べた。
-３カ国の声明に先立ち、オーストラリアはヒレル・ニューマン氏を召喚した。オーストラリアのペニー・ウォン外相は、同国はイスラエル政府の決定に「激怒している」と述べた。
-同氏はまた、輸送船団への最初の攻撃が「致命的なミス」だったとしたら、なぜわずか数分の間隔でさらに２回の攻撃が続いたのかなど、空爆についてはまだ多くの「未解決の疑問」が残っていると述べた。
-ポーランド外務省も木曜日、「非常に残念だ」と述べ、ワルシャワのイスラエル大使を召喚したと発表した。
-ワールド・セントラル・キッチンの創設者ホセ・アンドレス氏は、この決定は「間違っている」「我々全員にとって苦痛だ」と述べ、独立した委員会の調査を要求した。
-イスラエルのベンヤミン・ネタニヤフ首相は英国、オーストラリア、カナダの最新の声明に公式には反応していないが、軍が「意図せずに」ボランティアを殺害したと以前述べた。
-この声明は、占領下のヨルダン川西岸地区の戦略的に重要な地域で約1,200戸の入植地建設の入札を開始するというイスラエルの計画をめぐり、英国のエド・ミリバンド外相とイスラエルのギデオン・サール外相の間で厳しい言葉のやりとりがあった後に発表された。
-イスラエルの入植地は国際法上違法であり、エルサレム東のいわゆるE1地域に建設する計画は長い間国際的に非難されてきた。
-ミリバンド氏は入札の公表を「容認できない破壊的な行為」と非難し、イスラエルに対し「E1計画を直ちに中止し、入札を撤回し、すべての入植地拡大を中止する」よう求めた。
-これに対し、サール氏はミリバンド氏の声明を「完全に」拒否したとソーシャルメディアで述べた。
-「英国人がロンドンと英国全土に住む権利があるのと同じように、ユダヤ人はイスラエル全土に住む権利がある」と彼は書いた。
-IDFは、WCKの車列への攻撃について刑事捜査を開始しないことを決定したが、同じ声明の中で、2024年にガザで5歳のパレスチナ人の少女ハインド・ラジャブ君とその親族6人がイスラエル軍によって殺害されたことについて刑事捜査を行うと発表した。
-また、2025年3月に衛生兵や国連職員を含むパレスチナ人15人の殺害についても同様に捜査すると発表した。彼らの遺体は1週間後、押しつぶされた車両の隣の浅い墓に埋葬されているのが発見された。
-関連トピック
-- 1 日前に公開
-- 2024 年 4 月 3 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-21T15:58:57+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg",
-    readTime: 5,
-  },
-  {
-    id: "canada-should-fight-as-us-trade-deadline-05962e6b",
-    title: "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
-    titleJa: "米国の通商期限が迫る中、カナダは「戦うべき」マニトバ州首相発言",
-    summaryJa: "米国の通商期限が迫る中、カナダは「戦うべき」マニトバ州首相発言- 公開されました",
-    bodyOriginal: `Canada 'should fight' as US trade deadline looms, Manitoba premier says
-- Published
-One of Canada's provincial leaders has criticised a prospective trade deal with the US and pushed his country to hold out for favourable terms, showing Prime Minister Mark Carney faces a tough battle in getting buy-in on the agreement hours away from a US-set deadline.
-Negotiators have until Friday night to finalise the deal or risk a fresh wave of additional US tariffs on a wide range of Canadian goods.
-Still, Manitoba Premier Wab Kinew said Canada "should fight" and not rush to make concessions.
-Carney needs Kinew and other premiers to restore sales of US alcohol on liquor store shelves, so that the US will reportedly agree to reduce some of its tariffs on Canadian metals and autos.
-Trump pauses new tariffs on Canada for three days, saying deal close
-- Published2 days ago
-Canada's 'powerful' dairy sector is in Trump's trade crosshairs
-- Published23 July
-Canada-US Trade Minister Dominic LeBlanc is set to meet with his counterpart, US Trade Representative Jamieson Greer, again on Friday morning.
-After a meeting with Greer that lasted more than three hours on Thursday, LeBlanc told reporters that the two sides were "very close".
-Details leaked to several media outlets suggest the US will agree to reduce tariffs on Canadian steel and aluminium from 50% to 25%, and tariffs on Canadian automobiles from 25% to 15%.
-In addition to restoring the sale of American booze, Canada is said to be considering allowing American dairy producers greater access to its market and removing its retaliatory tariffs on the US.
-As negotiators have worked around the clock to hammer out a deal, some Canadians are expressing concern about what is - and what isn't - on the table.
-President Donald Trump has hailed the possible deal as good for American farmers and manufacturers, while Carney has said the two sides are closing in on an agreement addressing "Canada's most important strategic sectors".
-Kinew said on Thursday that he believed Trump was a "bad person", and questioned why Canada would give up some of its leverage by restoring US alcohol sales.
-"Everybody knows the American president by now, he's erratic, he's irresponsible, and he's not to be trusted," Kinew said. "And this is the person that we were supposed to make a deal with, and we're going to make additional concessions for it."
-Kinew added that he would reluctantly restore the sale of US alcohol in his province if it was for the benefit of all of Canada, but he urged Canadians not to buy it.
-"Let it sit on the shelf," he said.
-Quebec Premier Christine Fréchette, whose province is home to a large dairy industry, said on Thursday that she was analysing what the deal will mean for Quebec farmers before deciding on whether to restore US alcohol sales.
-Doug Ford, the traditionally outspoken premier of Canada's largest province Ontario, has yet to comment publicly on the deal.
-Meanwhile, other premiers, namely of Nova Scotia and the Yukon territory, said they were prepared to restore US alcohol sales.
-The mayor of an Ontario city that is home to the country's second-largest steel producer told the CBC that a deal that includes 25% tariffs on the sector "wouldn't be something to celebrate".
-"I am worried with the news that's coming out that we are not seeing a deal that will benefit our community at the very least," Mayor Matthew Shoemaker said.
-Leader of the Conservative opposition Pierre Poilievre also criticised what is known about the deal so far, saying that "one-sided tariffs on Canadian industry would be a bad deal."
-But Carney has also faced pressure from businesses and stakeholders to reach a deal that would avert an additional 50% tariff that Trump has threatened on a range of Canadian goods, from hockey equipment to wine to cement.
-Canada could lose 90,000 jobs if the new tariffs were implemented, according to estimates in an analysis published on Thursday, external by Trevor Tombe, a Calgary-based economist.
-The mixed reaction so far is a glimpse of the task ahead for Prime Minister Carney after he campaigned on a tough "elbows-up" approach to dealing with Trump.
-Polls suggest a majority of Canadians would be unhappy if the Carney government made significant concessions to the US, with 56% surveyed by polling firm Leger, external saying they wanted Canada to take a hardline approach.
-In a leaked audio recording reported by the Canadian Press, US Vice-President JD Vance told attendees at a private fundraiser on Wednesday that Carney has tried to "out-tough Donald Trump" in trade talks.
-"It's hilarious because Carney presents this as some victory for Canada when fundamentally, like, they climb down on a lot of issues," Vance reportedly told the room.`,
-    bodyJa: `米国の通商期限が迫る中、カナダは「戦うべき」マニトバ州首相発言
-- 公開されました
-カナダの州指導者の一人は、米国との通商協定の見通しを批判し、有利な条件を求めてカナダに持ちこたえるよう促しており、マーク・カーニー首相が米国が設定した期限まであと数時間で協定への賛同を得るためには厳しい戦いに直面していることが示された。
-交渉関係者らは金曜夜までに合意をまとめる必要があり、さもなければ幅広いカナダ製品に対する米国の追加関税の新たな波にさらされる危険を冒すことになる。
-それでもマニトバ州のワブ・キニュー首相は、カナダは「戦うべき」であり、急いで譲歩すべきではないと述べた。
-報道によると、米国がカナダの金属や自動車に対する関税の一部を引き下げることに同意するよう、カーニー首相はキニュー氏や他の首相に対し、酒屋の店頭での米国産アルコールの販売を回復するよう求めている。
-トランプ大統領、カナダへの新たな関税を3日間一時停止、合意成立と表明
-- 2 日前に公開
-カナダの「強力な」乳製品セクターがトランプ大統領の貿易標的に
-- 7 月 23 日発行
-カナダ・米国貿易相のドミニク・ルブラン氏は金曜日午前にジェイミーソン・グリア米国通商代表と再び会談する予定だ。
-木曜日に３時間以上続いたグリア氏との会談後、ルブラン氏は記者団に対し、両者は「非常に緊密」であると語った。
-複数のメディアに流出した詳細によると、米国はカナダの鉄鋼とアルミニウムに対する関税を50％から25％に、カナダの自動車に対する関税を25％から15％に引き下げることに同意する予定だ。
-カナダは米国産酒の販売を回復することに加えて、米国の乳製品生産者に自国市場へのより大きなアクセスを許可し、米国に対する報復関税を撤廃することを検討していると言われている。
-交渉担当者が協定をまとめるために24時間体制で取り組んでいる中、一部のカナダ国民は、テーブルに何があり、何がテーブルにないのかについて懸念を表明している。
-ドナルド・トランプ大統領は、合意の可能性は米国の農家や製造業者にとって良いものだと歓迎し、カーニー氏は、両国が「カナダの最も重要な戦略分野」に取り組む合意に近づいていると述べた。
-キニュー氏は木曜日、トランプ氏は「悪い人」だと信じていると述べ、なぜカナダが米国のアルコール販売を回復することで影響力の一部を手放すのか疑問を呈した。
-「アメリカ大統領のことは今では誰もが知っているが、彼は常軌を逸しており、無責任で、信頼できる人物ではない」とキニュー氏は語った。 「そしてこの人は我々が取引をするはずだった人物であり、我々はそれに対して追加の譲歩をするつもりだ。」
-キニュー氏は、カナダ全土の利益のためなら、しぶしぶ州内での米国産アルコールの販売を再開するつもりだが、カナダ人には買わないよう呼び掛けた、と付け加えた。
-「棚に置いておきなさい」と彼は言った。
-ケベック州に大規模な酪農産業が本拠地を置くケベック州のクリスティーヌ・フレシェット首相は木曜日、米国のアルコール販売を再開するかどうかを決定する前に、この協定がケベック州の農家にとってどのような意味を持つかを分析していると述べた。
-カナダ最大の州オンタリオ州の伝統的に率直な首相であるダグ・フォード氏は、この協定についてまだ公にはコメントしていない。
-一方、他のノバスコシア州とユーコン準州の首相は、米国のアルコール販売を回復する用意があると述べた。
-国内第２位の鉄鋼生産国の本拠地であるオンタリオ州の市長はＣＢＣに対し、同部門への２５％の関税を含む合意は「祝うべきことではない」と語った。
-マシュー・シューメーカー市長は、「少なくとも地域社会に利益をもたらすような合意が得られないとのニュースを見て心配している」と語った。
-保守党野党党首のピエール・ポイエーブル氏も、これまでにわかっている合意内容を批判し、「カナダの産業に対する一方的な関税は悪い合意だろう」と述べた。
-しかしカーニー氏はまた、ホッケー用具からワイン、セメントに至るまで幅広いカナダ製品に対してトランプ大統領が脅迫している50％の追加関税を回避する合意に達するよう、企業や利害関係者からの圧力にも直面している。
-カルガリーを拠点とする経済学者トレバー・トンベ氏が木曜日に発表した社外分析の推計によると、新たな関税が実施された場合、カナダは9万人の雇用を失う可能性がある。
-これまでのところさまざまな反応が見られるのは、トランプ氏に対処するために厳しい「ひじを上げた」アプローチを掲げて選挙運動を行ってきたカーニー首相がこれから直面する課題を垣間見ることができる。
-世論調査によると、カーニー政権が米国に大幅な譲歩をした場合、カナダ国民の大多数が不満を抱いており、世論調査会社レジャーの調査では56％がカナダに強硬なアプローチを取ることを望んでいると外部から回答している。
-カナダ通信社が報じた漏洩音声記録の中で、JD・バンス米副大統領は水曜日の非公開募金活動の参加者に対し、カーニー氏は通商協議で「ドナルド・トランプ氏を打ち負かそうとしている」と語った。
-ヴァンス氏は会場で「カナダが根本的に多くの問題で折り合いをつけているのに、カーニー氏はこれをカナダの何らかの勝利として提示しているのだから面白い」と語ったという。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-21T15:34:06+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768e/live/ffd477b0-9d68-11f1-a07c-85afe5c51b6f.jpg",
-    readTime: 6,
-  },
-  {
-    id: "bitcoin-on-track-for-best-week-in-more-t-b933351b",
-    title: "Bitcoin on track for best week in more than two years. Has the next crypto bull market arrived?",
-    titleJa: "ビットコインは過去2年以上で最高の週を記録。次の仮想通貨強気市場は到来したのか?",
-    summaryJa: "ビットコインは長期にわたる低迷を経て前進する準備ができているのだろうか?あるアナリストは、投資家は仮想通貨の底値を推測する際に注意すべきだと述べている。",
-    bodyOriginal: `Is bitcoin ready to move on after a lengthy slump? One analyst says investors should be careful in trying to guess a bottom for the crypto.`,
-    bodyJa: `ビットコインは長期にわたる低迷を経て前進する準備ができているのだろうか?あるアナリストは、投資家は仮想通貨の底値を推測する際に注意すべきだと述べている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/bitcoin-on-track-for-best-week-in-more-than-two-years-has-the-next-crypto-bull-market-arrived-0181180c?mod=mw_rss_topstories",
-    publishedAt: "2026-08-21T13:01:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-97523838",
-    readTime: 2,
-  },
-  {
-    id: "u-s-canada-near-final-trade-deal-as-trum-98f91481",
-    title: "U.S., Canada near final trade deal as Trump tariff deadline looms",
-    titleJa: "トランプ大統領の関税期限が迫る中、米国とカナダは最終通商合意に近づく",
-    summaryJa: "米国とカナダは、ドナルド・トランプ大統領によるホッケースティック、ワイン、その他のカナダ製品に対する土曜日早朝の新たな関税の発効を阻止する最終的な貿易協定をまだ発表していない。50％の報復関税は当初水曜日に発動される予定だったが、トランプ大統領は11時間目の真実ソーシャルへの投稿で、ワシントンとオタワが暫定合意をまとめることができるよう、報復関税を3日間延期すると述べた。",
-    bodyOriginal: `The U.S. and Canada have yet to announce a final trade deal that will keep President Donald Trump's new tariffs on hockey sticks, wine and other Canadian goods from taking effect early Saturday morning.
-The 50% retaliatory tariffs were initially set to kick in Wednesday — until Trump, in an eleventh-hour post on Truth Social, said he would postpone them for three days so Washington and Ottawa could finalize a tentative deal.
-Trump's post signaled that the agreement was all but complete, "subject to the finalization of documents." But trade officials emerged from additional rounds of talks in Washington on Wednesday and Thursday without a final deal in hand.
-"We're very close," Canada-U.S. Trade Minister Dominic LeBlanc told reporters Thursday afternoon. "We continue to make progress, and we're going to stay here and do the work that's necessary until we get to that point."
-LeBlanc noted that Canadian negotiator Janice Charette was still engaged in talks with U.S. Trade Representative Jamieson Greer and other Trump administration officials.
-"Canadians expect us to get a deal that's in the economic interest of Canada and Canadian workers," LeBlanc said.
-If no deal is reached by 12:01 a.m. ET on Saturday, the 50% tariffs on roughly $20 billion worth of imports will switch on. Businesses have warned that the duties could cripple their sales, and that the threat alone has already taken a toll.
-Negotiators have been tight-lipped about the specifics of a deal, as well as the remaining sticking points. Trump's existing tariffs on imports of Canadian steel, aluminum and lumber are a central concern, The New York Times reported Thursday, citing people familiar with the talks.
-LeBlanc and his office have declined to comment to CNBC on how the metals tariffs factor into the negotiations.
-Trump said Wednesday that the U.S. might agree to lower those duties and suggested that lower tariffs on Canadian autos might also be on the table. Trump has also suggested that the deal could revive Keystone XL, the planned oil pipeline from Alberta to Nebraska that was scrapped in 2021 by then-President Joe Biden.
-The Trump administration has said that Canada has committed to lower its trade barriers on the U.S., without offering specifics.
-Trump said Wednesday that Canadian tariffs "will be nonexistent for our farmers." The looming 50% tariff threat was partly based on Canada's alleged discrimination against the U.S. dairy industry. Canada has not confirmed Trump's claim.
-Prime Minister Mark Carney said in an X post Wednesday, "We are now moving towards an agreement that reinforces that Canadian advantage, including by securing the best terms in each of Canada's most important strategic sectors and providing greater certainty about our future trading relationship."
-The looming 50% tariffs were invoked last month under Section 338 of the Tariff Act of 1930, which lets the president impose duties in response to discrimination or unfair commerce. But the Great Depression-era law has rarely, if ever, been invoked, and it has been neglected for decades.
-This is developing news. Please check back for updates.`,
-    bodyJa: `米国とカナダは、ドナルド・トランプ大統領によるホッケースティック、ワイン、その他のカナダ製品に対する土曜日早朝の新たな関税の発効を阻止する最終的な貿易協定をまだ発表していない。
-50％の報復関税は当初水曜日に発動される予定だったが、トランプ大統領は11時間目の真実ソーシャルへの投稿で、ワシントンとオタワが暫定合意をまとめることができるよう、報復関税を3日間延期すると述べた。
-トランプ大統領の投稿は、「文書の完成を条件として」合意がほぼ完全であることを示唆した。しかし通商当局者らは水曜と木曜にワシントンで行われた追加協議を最終合意が得られないまま終了した。
-カナダ・米国貿易相のドミニク・ルブラン氏は木曜午後、記者団に対し「われわれは非常に接近している」と語った。 「私たちは進歩を続けており、その点に到達するまでここに留まり、必要な作業を行うつもりです。」
-ルブラン氏は、カナダの交渉官ジャニス・シャレット氏がジェイミーソン・グリア米通商代表らトランプ政権の他の当局者らと依然として協議を行っていると指摘した。
-ルブラン氏は「カナダ国民は、カナダとカナダ労働者の経済的利益にかなう協定が得られることを期待している」と述べた。
-土曜日の東部時間午前0時1分までに合意に至らなかった場合、約200億ドル相当の輸入品に対して50％の関税が発動されることになる。企業らは、関税によって売上が減少する可能性があり、脅威だけでもすでに大きな被害が出ていると警告している。
-交渉関係者らは合意の詳細や残りの懸案点について口を閉ざしている。ニューヨーク・タイムズ紙は木曜日、協議に詳しい関係者の話として、カナダの鉄鋼、アルミニウム、木材の輸入に対するトランプ大統領の既存の関税が最大の懸念事項であると報じた。
-ルブラン氏と彼の事務所は、金属関税が交渉にどのように織り込まれるかについてCNBCにコメントすることを拒否した。
-トランプ大統領は水曜日、米国はこれらの関税の引き下げに同意する可能性があると述べ、カナダの自動車に対する関税引き下げも検討の対象となる可能性があることを示唆した。トランプ大統領はまた、この協定により、当時のジョー・バイデン大統領によって2021年に廃止されたアルバータ州からネブラスカ州への石油パイプライン計画が再開される可能性があると示唆した。
-トランプ政権は、カナダは米国に対する貿易障壁を下げると約束していると述べたが、詳細は明らかにしなかった。
-トランプ大統領は水曜日、カナダの関税は「我が国の農家にとっては存在しない」と述べた。差し迫った50％の関税の脅威は、米国の乳製品業界に対するカナダの差別疑惑に部分的に基づいていた。カナダはトランプ氏の主張を確認していない。
-マーク・カーニー首相は水曜日のXポストで、「我々は現在、カナダの最も重要な戦略分野のそれぞれで最良の条件を確保し、将来の通商関係についてより確実性をもたらすなど、カナダの優位性を強化する合意に向けて進んでいる」と述べた。
-差し迫った50％の関税は、差別や不公正な取引に対応して大統領が関税を課すことを可能にする1930年関税法第338条に基づいて先月発動された。しかし、大恐慌時代の法律が発動されたことはあってもほとんどなく、何十年も無視されてきた。
-これは発展途上のニュースです。最新情報を再度ご確認ください。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-    publishedAt: "2026-08-21T12:17:29+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
   },
 ];
 
