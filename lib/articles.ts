@@ -15,6 +15,440 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "crosscountry-train-services-resume-after-b2eedbcb",
+    title: "CrossCountry train services resume after outage",
+    titleJa: "クロスカントリー列車の運行は停電後に再開",
+    summaryJa: "クロスカントリー列車の運行は停電後に再開- 公開されました",
+    bodyOriginal: `CrossCountry train services resume after outage
+- Published
+Train operator CrossCountry says it expects to run a full service on Monday after cancelling nearly all of its UK services the day before following a power cut at its control centre.
+The outage in Birmingham at the weekend brought disruption from Glasgow to Penzance.
+Major routes were affected between Birmingham and Manchester, which pass through Stoke-on-Trent, Coventry and Wolverhampton. Journeys from Leeds to York and Cheltenham to Cardiff were also caught in the travel chaos, leaving passengers frustrated.
+On Monday morning, CrossCountry reported a handful of service cancellations, although these were put down to trains departing late and staff shortages.
+Customers are advised to check their journey before travelling.
+The operator on Sunday thanked passengers for their patience and understanding during the disruption.
+Tickets purchased for travel on CrossCountry services on Sunday will be valid for travel on CrossCountry services until Wednesday, the company has said.
+On Sunday, a range of personal experiences were shared by passengers.
+Andy Burton, from Worcester, was travelling back from Cromford to Worcester after spending the weekend away with family celebrating his sister's birthday, but only got as far as Derby before his journey came to a premature end.
+He was forced to stay the night in a budget hotel in the hope he could return home on Monday.
+"It was only once I had arrived at Derby that a member of staff told me my planned alternative route via Leicester had also been cancelled, because it was part of the CrossCountry disruption," he said.
+"I soon realised I was stranded, as they said there was no alternative train route back to Worcester.
+"It's not the best end to a great weekend away."
+Reese Proctor described the cancellations as "frustrating and unacceptable" as he tried to get to Manchester's Etihad Stadium in time for a 14:00 BST kick-off against Bournemouth.
+He had hoped to get a train from Reading to Manchester, but instead resorted to driving more than 100 miles to his friend's house in Leicester before driving on to the stadium.
+The 22-year-old told BBC Newsbeat the drive had added an extra two hours to his journey, leaving him "fuming".
+A number of services resumed on Sunday evening, including an hourly train service from Birmingham New Street to Leicester and Derby.
+On Sunday, Transport Secretary Heidi Alexander said she was "concerned" by the situation.
+She said: "We are setting up Great British Railways and nationalising services, including CrossCountry next year, to end decades of fragmentation and vulnerability on our network. We are determined to give passengers the reliability they deserve."
+The National Union of Rail, Maritime and Transport Workers (RMT) has called for a review of railway operational control centres following the disruption, "to ensure they remain unaffected by power outages".
+RMT general secretary Eddie Dempsey said passengers and rail workers should not have to face another week of "travel chaos" because of unreliable back-up systems.
+CrossCountry was ranked Britain's worst rail operator in June.
+Get in touch
+Have you been affected by the disruption?
+Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.
+- Published18 June
+- Published29 April
+- Published11 February`,
+    bodyJa: `クロスカントリー列車の運行は停電後に再開
+- 公開されました
+鉄道運営会社クロスカントリーは、前日に管制センターの停電を受けて英国でのほぼすべての運行を中止したが、月曜日には全運行する予定だと述べた。
+週末にバーミンガムで起きた停電により、グラスゴーからペンザンスまで混乱が生じた。
+ストークオントレント、コベントリー、ウルヴァーハンプトンを通るバーミンガムとマンチェスター間の主要路線が影響を受けた。リーズからヨーク、チェルトナムからカーディフへの旅も旅行の混乱に巻き込まれ、乗客は不満を感じた。
+月曜朝、クロスカントリーは数件の運行中止を報告したが、その原因は列車の出発遅延と人員不足だった。
+お客様は旅行前に自分の行程を確認することをお勧めします。
+運行会社は日曜日、混乱時の忍耐と理解を乗客に感謝した。
+同社によると、日曜日にクロスカントリーサービスでの旅行のために購入したチケットは水曜日までクロスカントリーサービスでの旅行に有効だという。
+日曜日、乗客たちはさまざまな個人的な経験を共有した。
+ウースター出身のアンディ・バートンさんは、妹の誕生日を祝うために家族と週末を過ごした後、クロムフォードからウースターに戻る途中だったが、ダービーまでしか到達せずに旅は途中で終了した。
+彼は月曜日に帰宅できることを願って、安宿に一晩泊まることを余儀なくされた。
+「ダービーに到着して初めて、スタッフから、計画していたレスター経由の代替ルートも中止になったと告げられた。クロスカントリーの混乱の一環だったからだ」と彼は語った。
+「ウースターに戻る別の鉄道ルートはないと言われたので、私はすぐに立ち往生していることに気づきました。
+「素晴らしい週末を過ごす最高の終わり方ではないね。」
+リース・プロクター監督は、ボーンマス戦の英国標準時間14時キックオフに間に合うようにマンチェスターのエティハド・スタジアムに到着しようとしていた際に、今回のキャンセルは「もどかしく、受け入れがたい」と述べた。
+彼はレディングからマンチェスターまで電車で行くことを望んでいましたが、代わりにレスターの友人の家まで160マイル以上車で向かい、その後スタジアムへ向かいました。
+22歳の彼はBBCニュースビートに対し、ドライブのせいで移動時間がさらに2時間長くなり、「イライラしていた」と語った。
+日曜日の夜には、バーミンガム・ニューストリートからレスターやダービーへの1時間ごとの列車運行など、多くの運行が再開された。
+ハイジ・アレクサンダー運輸長官は日曜日、この状況を「懸念している」と述べた。
+彼女は、「私たちは、何十年にもわたる私たちのネットワークの断片化と脆弱性に終止符を打つために、グレートブリティッシュ鉄道を設立し、来年クロスカントリーを含むサービスを国有化するつもりです。」私たちは乗客にふさわしい信頼性を提供することを決意しています。」
+全国鉄道海運運輸労働組合（RMT）は、今回の混乱を受けて「停電の影響を受けないようにする」ため、鉄道運行管理センターの見直しを求めている。
+RMTのエディ・デンプシー書記長は、乗客と鉄道職員が、信頼性の低いバックアップシステムのせいでさらに1週間の「旅行混乱」に直面する必要はないと述べた。
+クロスカントリーは6月に英国最悪の鉄道事業者にランクされた。
+連絡する
+混乱の影響を受けましたか?
+BBC バーミンガムを BBC Sounds、Facebook (外部)、X (外部)、Instagram (外部) でフォローしてください。
+- 6 月 18 日公開
+- 4 月 29 日発行
+- 2 月 11 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T06:41:05+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183e/live/5b94c360-9f1d-11f1-b2a2-8945a27a2843.jpg",
+    readTime: 4,
+  },
+  {
+    id: "china-probes-use-of-formaldehyde-to-keep-1f3268ec",
+    title: "China probes use of formaldehyde to keep cabbages fresh",
+    titleJa: "中国、キャベツの鮮度を保つためのホルムアルデヒド使用を調査",
+    summaryJa: "中国、キャベツの鮮度を保つためのホルムアルデヒド使用を調査- 公開されました",
+    bodyOriginal: `China probes use of formaldehyde to keep cabbages fresh
+- Published
+Authorities in China have launched an investigation into reports of formaldehyde being used to preserve the freshness of cabbages for human consumption.
+Officials in the northeastern Hebei province confirmed that they had verified footage showing individuals dipping cabbages in a solution before loading them onto trucks for transportation.
+An environmental blogger first released the footage last week. Using formaldehyde, a colourless chemical that is known to cause cancer, for preserving the freshness of food in China is strictly prohibited.
+China is the world's largest producer of cabbages, most of which are exported to neighbouring countries in Asia.
+Police have taken legal action against the individuals involved, according to state media.
+Officials are now moving swiftly to prevent panic and restore confidence by carrying out spot checks on markets across the country.
+Chinese state media says investigators will also establish how widespread the practice is and take measures to trace affected vegetables.
+In a statement issued on Saturday, local authorities in Kangbao county said: "Any illegal or non-compliant practices discovered will be dealt with strictly in accordance with the law to ensure the safety of the vegetable supply."
+Xinfadi market in Beijing, one of the major sources of fresh produce in the capital, issued a statement saying that it had investigated the source of its cabbages, adding that none of the affected vegetables had entered its market.
+The incident has generated widespread media attention in China.
+An editorial in the People's Daily wrote: "The wholesalers focused solely on their immediate economic interests while completely disregarding the lives and health of consumers. [They] crossed a legal red line and breached the moral bottom line."
+China produces well over 30 million tons of cabbages each year, nearly half of the world's annual total. Vietnam, South Korea and Russia are among the largest export destinations for the vegetable.
+Exposure to relatively high quantities of formaldehyde in some workplaces has been linked to some types of cancer in humans, but the effect of exposure to small amounts is less clear, according to the American Cancer Society.`,
+    bodyJa: `中国、キャベツの鮮度を保つためのホルムアルデヒド使用を調査
+- 公開されました
+中国当局は、人間が消費するキャベツの鮮度を保つためにホルムアルデヒドが使用されているという報告について調査を開始した。
+河北省北東部の当局者は、輸送用のトラックにキャベツを積み込む前に、キャベツを溶液に浸す人々を映す映像を確認したことを認めた。
+環境ブロガーが先週初めてこの映像を公開した。中国では、食品の鮮度を保つために、発がん性があることが知られている無色の化学物質であるホルムアルデヒドを使用することは厳しく禁止されている。
+中国は世界最大のキャベツ生産国で、そのほとんどがアジアの近隣諸国に輸出されている。
+国営メディアによると、警察は関係者に対して法的措置を講じた。
+当局は現在、全国の市場で抜き打ち検査を実施することでパニックを防ぎ、信頼を回復するために迅速に動いている。
+中国国営メディアは、捜査員がこの慣行がどの程度広がっているかを明らかにし、影響を受けた野菜を追跡するための措置を講じると述べている。
+土曜日に発表された声明の中で、江保県の地方当局は「野菜供給の安全性を確保するため、違法または違反行為が発見された場合は法律に従って厳格に対処される」と述べた。
+首都の生鮮食品の主要供給源の一つである北京の新発地市場は声明を発表し、キャベツの供給源を調査したと発表し、影響を受けた野菜は市場に入っていないと付け加えた。
+この事件は中国で広くメディアの注目を集めた。
+人民日報の社説は、「卸売業者は消費者の命と健康を完全に無視しながら、目先の経済的利益のみに焦点を当てた。（彼らは）法的な越えてはならない一線を越え、道徳的最低ラインに違反した」と書いた。
+中国は毎年 3,000 万トンを優に超えるキャベツを生産しており、これは世界の年間総量のほぼ半分に相当します。ベトナム、韓国、ロシアはこの野菜の最大の輸出先です。
+米国癌協会によると、一部の職場での比較的大量のホルムアルデヒドへの曝露は、人間の一部の種類のがんと関連しているが、少量への曝露の影響はそれほど明らかではない。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T05:40:48+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg",
+    readTime: 2,
+  },
+  {
+    id: "nearly-three-million-teslas-recalled-in-3cc8f276",
+    title: "Nearly three million Teslas recalled in China over hidden door handles",
+    titleJa: "隠しドアハンドル問題で中国で300万台近くのテスラがリコール",
+    summaryJa: "隠しドアハンドル問題で中国で300万台近くのテスラがリコール- 公開されました",
+    bodyOriginal: `Nearly three million Teslas recalled in China over hidden door handles
+- Published
+Minimalistic retractable door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles.
+The recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations.
+Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
+Made popular by multi-billionaire Elon Musk's Tesla, hidden door handles are designed to tuck seamlessly within the car's door panel and only extend outwards when an owner approaches their vehicle.
+The design came under scrutiny after two fatal crashes in China involving Xiaomi EVs, in which power failures were suspected to have prevented doors from being opened.
+Tesla said in a statement on Friday that it was recalling some of its Model 3, Y, S and X vehicles due to door handles that are "difficult to identify and operate because their colour is similar to the interior trim".
+This could hinder occupants or rescuers from quickly opening the doors in an emergency, such as during a "severe collision causing the vehicle's low-voltage system to fail."
+Tesla said it will place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision.
+It is not clear if the affected firms plan to make a similar recall for the rest of the world.
+The BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment.
+The use of the hidden handle design has "snowballed" after Chinese brands were quick to copy the "sleek" look of Tesla's Model S sedan since 2014, said Tu Le, the founder of consultancy Sino Auto Insights.
+The use of warning labels and a software update is more of a "band-aid" than a lasting solution for the issue, he added.
+In February, Chinese authorities announced a ban on hidden door handles.
+Under new rules due to take effect on 1 January 2027, cars will only be allowed to be sold in China if they have a mechanical release on both the inside and outside of their doors.
+Tesla's door handles were also involved in a probe by US safety regulators after reports that they suddenly stopped working, leaving children trapped in the cars.
+In July, the US National Highway Traffic Safety Administration suggested creating a new formal safety standard for all carmakers.
+The BBC has contacted the agency for comment.
+Related topics
+- Published27 May
+- Published29 January`,
+    bodyJa: `隠しドアハンドル問題で中国で300万台近くのテスラがリコール
+- 公開されました
+ミニマルな格納式ドアハンドルは電気自動車（EV）の特徴的な機能となったが、物議を醸しているこのデザインは現在、400万台以上の車両に影響を与える中国最大の自動車リコールの中心となっている。
+今回のリコールには中国製テスラ298万台が含まれており、隠しドアハンドルが緊急時に見つけにくく開けにくいという安全上の懸念を受けて行われた。
+リコールの影響を受ける他のブランドには、中国の自動車メーカーXPeng、Xiaomi、Geelyなどが含まれる。
+億万長者イーロン・マスク氏のテスラによって普及した隠しドアハンドルは、車のドアパネル内にシームレスに収まり、所有者が車に近づいたときにのみ外側に伸びるように設計されています。
+中国で小米科技（シャオミ）のＥＶが絡む死亡事故が２件発生し、停電によりドアが開かなくなった疑いがあり、この設計が精査されるようになった。
+テスラは金曜日の声明で、ドアハンドルが「色がインテリアトリムと似ているため、識別や操作が難しい」ため、モデル3、Y、S、Xの一部車両をリコールすると発表した。
+これにより、「車両の低電圧システムに障害が発生する重大な衝突」などの緊急時に、乗員や救助者がドアを素早く開けるのが妨げられる可能性がある。
+テスラは、リコール対象車両に警告ラベルを貼り、衝突後に車両の窓を自動的に下げるソフトウェアアップデートを発行すると発表した。
+影響を受けた企業が世界の他の地域に対しても同様のリコールを計画しているかどうかは不明である。
+BBCはテスラ、XPeng、Xiaomi、Geelyにコメントを求めた。
+コンサルタント会社Sino Auto Insightsの創設者Tu Le氏は、2014年以来中国ブランドがテスラのモデルSセダンの「洗練された」外観をすぐに模倣したことを受けて、隠しハンドルデザインの使用が「雪だるま式」に増えたと語った。
+警告ラベルの使用やソフトウェアのアップデートは、問題の永続的な解決策というよりも「応急処置」に近いと同氏は付け加えた。
+中国当局は2月、隠しドアハンドルの禁止を発表した。
+2027年1月1日に発効予定の新規則では、ドアの内側と外側の両方に機械的リリースが付いている自動車のみ中国での販売が許可される。
+テスラのドアハンドルも突然作動しなくなり、子供たちが車内に閉じ込められたとの報告を受け、米国の安全規制当局による調査の対象となった。
+7月、米国道路交通安全局は、すべての自動車メーカーに対して新しい正式な安全基準を作成することを提案した。
+BBCは同局にコメントを求めた。
+関連トピック
+- 5 月 27 日公開
+- 1 月 29 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T05:01:17+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b3/live/afd3f120-9f87-11f1-aed2-8d6da8d75094.jpg",
+    readTime: 3,
+  },
+  {
+    id: "divorce-smartphones-and-control-bbc-sees-8dcf9155",
+    title: "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+    titleJa: "離婚、スマートフォン、支配 - タリバンがアフガニスタンをどのように運営しているかをBBCが見る",
+    summaryJa: "離婚、スマートフォン、支配 - タリバンがアフガニスタンをどのように運営しているかをBBCが見る- 公開されました",
+    bodyOriginal: `Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
+- Published
+Governor Abdullah Sarhadi gives money to treat a boy's broken arm and hands out funds for a local mosque - then, in his office in northern Afghanistan, an astonishing exchange unfolds.
+A young woman tells the grey-bearded former Taliban commander that she wants to divorce her husband, who she accuses of months of abuse and beatings.
+She will not take no for an answer.
+In a country where girls are banned from secondary education, the 18-year-old argues her case calmly and confidently, her face completely hidden behind a full-face veil and sunglasses.
+"If there was any chance to live together, I wouldn't be here… I have taken my decision," she says.
+After trying to persuade her to avoid divorce, the governor later comments that women are "mindless" and "deficient in intellect", to laughter from the male officials, bodyguards and elders around him.
+The moment gives a rare glimpse into the day-to-day realities of the Taliban's rule, five years after they swept aside the US-backed government in 2021.
+In that time, women have been excluded from most workplaces, banned from universities and may not travel alone or visit parks and leisure centres.
+In encounters spread over two years, the BBC gained unusual access to influential figures in the extreme Islamist movement, spending time with men who once planned suicide attacks or spent years in underground hideouts, but are now officials and soldiers.
+The Taliban came into power saying they had changed, but many of their policies are similar to the hard-line interpretation of Sharia - Islamic religious law - they imposed in the 1990s.
+The men we met seemed to want to present themselves as reasonable, yet were not keen to discuss their past violence. And we saw moments of unease between the rulers and those they rule.
+Governor Sarhadi says Tuba – not her real name – should stay in the marriage.
+"Ask yourself: 'Who would marry me after I get my divorce?'" says Sarhadi. "You'll have to compromise a lot or you'll lose your dignity and honour."
+"Mr Governor, my honour and dignity have already been ruined," she responds.
+Her husband listens, awaiting his turn to speak.
+Under Sharia, a woman requesting that her husband agrees to a divorce may have to return some or all of the money given to her by him when they married. A financial settlement is often agreed. But this woman's husband says he wants four times the amount, which her family refuses to pay.
+The governor says the woman should be given her own room. He adds that officials will warn him not to beat her - "otherwise he'd be jailed".
+Unsatisfied, Tuba's father later tells the BBC the family will pursue divorce through the courts, even though, under the Taliban's court system, it is very difficult for a woman to get a divorce without the husband's consent.
+Sarhadi was a military commander during the Taliban's first stint in power in the 1990s. He was among thousands of insurgents who surrendered in late 2001 as a US-led coalition ousted the group.
+He was held for several years in US detention in Guantanamo Bay, but eventually released.
+When the Taliban regained power, he became a governor - first in the province of Bamiyan, then when we met him in late June, in Sheberghan city in Jawzjan province. He has recently become deputy commander of a military corps in the northern province of Kunduz.
+Tapping on an old-style mobile with a tiny screen, he says a recent ban on smartphones for officials has slowed things down. "Before, you could send a quick message… sending documents and getting an answer fast." If he says any more about the ban, "it will cause trouble", he adds.
+But in other ways his worldview seems largely unchanged from the Taliban's position 25 years ago. Then, he was a military commander in Bamiyan, where the Taliban blew up ancient giant Buddha statues, triggering international shock and condemnation.
+He initially tries to avoid our questions about the archaeological site, but eventually, he says: "I destroyed it with my own hands.
+"Whatever we did and we do is in accordance with the guidance and God's law… We smash idols rather than sell them. Why should I regret? It was God's will."
+In the capital Kabul, we meet another senior Taliban figure who swapped a violent past for a role with the ruling administration.
+Habibullah Badr drives us through the streets in an armoured car.
+He says he was previously "responsible for the operations of suicide attackers" in Kabul.
+"I know all the roads and streets very well… we had all the information we needed about Kabul and its alleys," he says. "There were areas that needed a long time to plan."
+Taliban suicide attacks killed thousands of people in Afghanistan, including many civilians.
+Badr is cautious about discussing his past though, fearing it will "make people upset" and could "reopen wounds".
+Asked about civilian deaths, he says the Taliban targeted US convoys and that civilians were urged to stay away from foreign bases.
+Whenever I try to ask him about specific attacks that took place in civilian areas, he evades the question.
+He is currently taking time out from official roles for medical treatment, but was previously deputy head of prisons for the whole country – and ran the very jail where he was held on death row under the previous government.
+Badr invites us to join him at a tribal gathering, where the head of a charitable foundation is to honour him with a medal. But things take an unexpected turn.
+"Mr Badr is a pride for Afghanistan and a great fighter," says Sultan Mohammad Talaee. "But I also have a complaint. If the schools and education were open to all it would be a great work for Afghanistan. I hope this doesn't offend you."
+An awkward silence follows, his audience unsure how to react. Talaee's microphone is swiftly removed.
+Afterwards, he tells the BBC: "I requested for the girls' schools to reopen… seeking knowledge is an obligation for both men and women in Islam."
+He adds: "There were other things I wanted to say but they didn't let me talk more."
+Often those who speak out face much more severe consequences.
+Women told us of the deep despair they felt over dreams thwarted by restrictions on education, and of friends jailed for protesting.
+Most journalists we spoke to said they had been summoned or questioned by the Taliban's intelligence organisation, Estikhbaraat.
+The BBC put some of these concerns to the Taliban government's spokesman, known as Zabihullah Mujahid.
+He has been a public face for the Taliban government since 2021. He still uses the pseudonym he went by for years during the insurgency, but he told us his real name is Tahir Shah Seddiqi - revealing it publicly for the first time.
+In a lavish press centre funded by the Americans for the previous government, we ask him about the first press conference he gave there, two days after the Taliban took control of the country.
+Then, he told the world the Taliban government would allow women to work and study "within our frameworks" and they would "be very active" in society. Why did they fail to keep their word?
+"We are committed to women's rights, freedom of speech and other things within Sharia," he replies. "We should see everything through the Sharia lens."
+Allowing women to work in offices such as his own "would lead to immoralities" and "their dignity would be undermined", he adds.
+He says the issue of education for women is "under discussions… we need a Sharia-based solution for it".
+When questioned about the Taliban's crackdown on media freedom, he says: "In a society like Afghanistan we have our restrictions. We can't let media do whatever propaganda they want… they can't broadcast against Islamic laws and rites."
+The Taliban government sits in Kabul, but Mujahid spends a lot of time in the southern city of Kandahar, the Taliban's heartland, which some now consider the de facto capital.
+We ask to meet the Taliban's supreme leader, Hibatullah Akhundzada, who is based there. He rarely appears in public and has never given a media interview - we are told it will not be possible at the moment.
+Restrictions have been tightened in Kandahar since I last visited two years ago. Now men must have beards. Radio stations are not allowed to play music or broadcast women's voices, and we were not allowed to film in the city.
+Two hours' drive away, along dusty roads, some of the group's most devoted former fighters showed the BBC the insurgents' old secret cave network.
+Abid Lalai, a former fighter who now mans a checkpoint as part of a security force under the interior ministry, shows us the holes he fired from and the places he used to put his Quran and hang AK-47s.
+His superior, Abdul Samad, shows us an unmarked graveyard, saying his father is buried here, killed fighting for the Taliban.
+The area is one of the most deprived in a country where the UN says three in four people cannot provide for their basic needs. Samad says the local population desperately need water, roads and clinics.
+"Emirate [Taliban] officials have not forgotten us," says Samad. He says the leaders may be busy with other priorities. "We are hopeful, they will look after us sometime."
+Five years since the Taliban began their second stint in power, poverty, unemployment and economic instability remain pressing concerns.
+Taliban figures we spoke to said they were working to tackle them, but we met other people who believe the group itself is the country's main problem.
+"I'm speechless about how a group that has no understanding about life is suddenly in power," says Hoda - not her real name - a woman who protested on the streets when the Taliban first returned to power.
+"Women can't accept this situation," she tells the BBC. "They might advance restrictions but it won't stay like this forever."
+"I think the Taliban are scared of educated women," she adds. "That's why they restrict women. They want uneducated women so they can't raise wise men. Because that would end the Taliban."
+Additional reporting by Hafizullah Maroof`,
+    bodyJa: `離婚、スマートフォン、支配 - タリバンがアフガニスタンをどのように運営しているかをBBCが見る
+- 公開されました
+アブドラ・サルハディ知事は、骨折した少年の腕の治療に資金を提供し、地元のモスクの建設に資金を配った。その後、アフガニスタン北部の知事の事務所で、驚くべきやりとりが展開された。
+若い女性が、数か月にわたる虐待と暴行を受けていた夫を告発して、白髪のひげを生やした元タリバン司令官に離婚したいと訴えた。
+彼女は「ノー」という答えを受け入れません。
+女子の中等教育が禁止されている国で、18歳の彼女は、全身ベールとサングラスで顔を完全に隠しながら、冷静かつ自信を持って自分の主張を主張している。
+「もし一緒に住むチャンスがあったとしても、私はここにはいないだろう…私は自分の決断を下した」と彼女は言う。
+知事は離婚を回避するよう彼女を説得しようとした後、女性は「思慮がない」「知性が欠如している」とコメントし、周囲の男性役人やボディーガード、長老らの笑いを誘った。
+この瞬間は、タリバンが2021年に米国の支援を受けた政府を一掃してから5年後の、タリバン支配の日常の現実を垣間見ることができる貴重な瞬間だ。
+その間、女性はほとんどの職場から排除され、大学への入学も禁止され、一人で旅行したり、公園やレジャーセンターを訪れたりすることもできなかった。
+2年に渡って行われた接触の中で、BBCは、かつては自爆攻撃を計画したり、地下隠れ家で何年も過ごしたが、現在は役人や軍人である男性たちと時間を過ごし、過激なイスラム主義運動の影響力のある人物たちと異例の接触を獲得した。
+タリバンは自らが変わったと主張して政権を握ったが、その政策の多くは1990年代に課したシャリア（イスラム教の宗教法）の強硬な解釈と似ている。
+私たちが会った男性たちは、自分たちを理性的であると見せたいようでしたが、過去の暴力について話すことに熱心ではありませんでした。そして私たちは、支配者と彼らが支配する人々の間に不安の瞬間が見られました。
+サルハディ知事は、トゥバ（本名ではない）は結婚生活を続けるべきだと述べた。
+「『私が離婚した後、誰が私と結婚してくれるだろうか』と自問してみてください」とサルハディさんは言う。 「かなりの妥協をしなければならない、さもなければ尊厳と名誉を失うことになるだろう。」
+「知事さん、私の名誉と尊厳はすでに傷つきました」と彼女は答えた。
+彼女の夫は話を聞き、話す順番を待っています。
+シャリーアのもとでは、夫に離婚に同意するよう求めた女性は、結婚時に夫から受け取ったお金の一部または全額を返還しなければならない可能性がある。金銭的な解決が合意されることがよくあります。しかし、この女性の夫はその4倍の金額が欲しいと言い、家族はその支払いを拒否している。
+知事は女性に自分の部屋を与えるべきだと主張している。さらに、当局は彼女を殴らないように警告するだろう、「さもなければ投獄されるだろう」と付け加えた。
+不満を抱いたチューバさんの父親は後にBBCに対し、タリバンの裁判制度では女性が夫の同意なしに離婚することは非常に難しいにもかかわらず、家族は裁判所を通じて離婚を求めるつもりだと語った。
+サルハディ氏は、1990年代にタリバンが政権を握った最初の期間に軍司令官を務めた。彼は、2001年末に米国主導の連合軍がグループを追放したため降伏した数千人の反乱軍の一人だった。
+彼はグアンタナモ湾で米国の拘留中に数年間拘留されたが、最終的に釈放された。
+タリバンが権力を取り戻すと、彼は知事になった。最初はバーミヤン県で、次に私たちが６月下旬にジョズジャン県のシェベルガン市で彼に会ったとき。彼は最近、北部クンドゥズ州の軍団の副司令官に就任した。
+小さな画面を備えた古いスタイルの携帯電話をタップしながら、最近当局者へのスマートフォンの使用が禁止されたため、事態が遅くなったと彼は言う。 「以前は、簡単なメッセージを送信できました。書類を送信して、すぐに返事を得ることができました。」禁止についてこれ以上発言すれば「問題が起きるだろう」と付け加えた。
+しかし、他の点では、彼の世界観は25年前のタリバンの立場とほとんど変わっていないように見える。その後、彼はバーミヤンで軍司令官を務めたが、そこではタリバンが古代の巨大な仏像を爆破し、国際的な衝撃と非難を引き起こした。
+彼は当初、遺跡に関する私たちの質問を避けようとしていたが、最終的には「私は自分の手で遺跡を破壊した。
+「私たちが行ったこと、そして行うことはすべて、導きと神の法に従っています…私たちは偶像を売るのではなく、破壊します。なぜ後悔しなければならないのでしょうか？それは神のご意志でした。」
+首都カブールでは、暴力的な過去を捨てて政権側の役割を担ったもう一人のタリバン幹部に会う。
+ハビブラ・バドルは装甲車で私たちを街中を運転します。
+同氏は以前、カブールで「自爆テロ犯の作戦を担当していた」と述べた。
+「私はすべての道路や通りをよく知っています…カブールとその路地について必要な情報はすべて持っていました」と彼は言います。 「計画に時間がかかる部分もあった。」
+アフガニスタンではタリバンの自爆攻撃により、多くの民間人を含む数千人が死亡した。
+しかし、バドル氏は自分の過去について語ることには慎重で、それが「人々を動揺させ」、「傷が再び開く」可能性を恐れている。
+民間人の死亡について尋ねると、タリバンは米国の輸送船団を標的にしており、民間人は外国の基地に近づかないように促されていると述べた。
+私が民間地域で起きた具体的な攻撃について彼に尋ねようとすると、彼はいつも質問をはぐらかします。
+彼は現在、治療のため公務から離れているが、以前は全国の刑務所副所長を務めており、前政権下で死刑囚が拘留されていたまさにその刑務所を運営していた。
+バドル氏は、慈善財団の理事長がバドル氏を称えてメダルを授与する部族の集会に参加するよう私たちを招待する。しかし、事態は予期せぬ展開を迎える。
+「バドル氏はアフガニスタンの誇りであり、偉大な戦士だ」とスルタン・モハマド・タライー氏は語る。 「しかし、私には不満もあります。学校と教育がすべての人に開かれていれば、アフガニスタンにとって素晴らしい取り組みになるでしょう。このことで気分を害されないことを願っています。」
+気まずい沈黙が続き、聴衆はどう反応すればいいのか分からない。タライーのマイクはすぐに外される。
+その後、彼はBBCに次のように語った。「私は女子学校の再開を要請した…知識を求めることはイスラム教において男性と女性の両方の義務である。」
+さらに、「他にも言いたいことはあったが、それ以上話させてくれなかった」とも付け加えた。
+多くの場合、声を上げた人はさらに厳しい結果に直面します。
+女性たちは、教育の制限によって夢が阻まれて感じた深い絶望や、抗議活動で投獄された友人のことを語った。
+私たちが話を聞いたほとんどのジャーナリストは、タリバンの諜報機関エスティクバラートから召喚または尋問を受けたと述べた。
+BBCは、こうした懸念の一部をザビフラ・ムジャヒドとして知られるタリバン政府の報道官に伝えた。
+彼は2021年からタリバン政府の公の顔となっている。彼は反乱中何年も使っていた偽名を今も使っているが、本名はタヒル・シャー・セディキだと初めて公に明らかにした。
+前政権のためにアメリカ人が資金提供した豪華なプレスセンターで、タリバンが国を掌握した２日後にそこで行った最初の記者会見について彼に尋ねた。
+そして、タリバン政府は女性が「私たちの枠組み内で」働き、勉強することを許可し、女性たちは社会で「非常に活躍する」だろうと世界に語った。なぜ彼らは約束を守れなかったのでしょうか?
+「私たちはシャリーアの範囲内で女性の権利、言論の自由、その他のものに取り組んでいます」と彼は答えた。 「私たちはシャリアというレンズを通してすべてを見るべきです。」
+同氏は、自身のオフィスのようなオフィスで女性が働くことを許可すれば「不道徳行為につながり」、「女性の尊厳が損なわれることになる」と付け加えた。
+同氏は、女性の教育問題について「議論中だ…私たちはシャリーアに基づいた解決策を必要としている」と述べた。
+タリバンによる報道の自由に対する弾圧について質問されると、彼はこう言った。「アフガニスタンのような社会では、我々には制限がある。我々はメディアに彼らが望むどんなプロパガンダもさせることはできない…イスラム法や儀式に反する放送をすることはできない。」
+タリバン政府はカブールにあるが、ムジャヒドは多くの時間をタリバンの中心地である南部の都市カンダハルで過ごしており、現在はそこが事実上の首都であると考える人もいる。
+私たちは、そこに拠点を置くタリバンの最高指導者、ヒバトゥラ・アクンザダ氏との面会を求めます。彼はめったに公の場に姿を現さず、メディアのインタビューにも応じたことがないが、現時点では不可能だと言われている。
+私が最後に訪れたのは2年前以来、カンダハルでは規制が強化されている。今では男性はひげを生やさなければなりません。ラジオ局は音楽を流したり、女性の声を放送したりすることを禁じられており、市内での撮影も許可されていませんでした。
+車で2時間離れたほこりっぽい道沿いで、グループの最も献身的な元戦闘員の何人かが反乱軍の古い秘密の洞窟ネットワークをBBCに見せた。
+元戦闘員で、現在は内務省の治安部隊の一員として検問所に勤務しているアビッド・ラライさんは、彼が発砲した穴や、コーランを置いたりAK-47を吊るしたりした場所を見せてくれた。
+彼の上司であるアブドゥル・サマドは、私たちに標識のない墓地を見せ、タリバンのために戦って亡くなった父親がここに埋葬されていると語った。
+この地域は、4人に3人が基本的なニーズを満たせないと国連が発表しているこの国で最も恵まれた地域の一つだ。サマドさんは、地元住民が水、道路、診療所を切実に必要としていると語る。
+「首長国（タリバン）当局者は私たちのことを忘れていません」とサマド氏は言う。 He says the leaders may be busy with other priorities. 「私たちは彼らがいつか私たちの面倒を見てくれるだろうと期待しています。」
+タリバンが二度目の権力掌握を開始してから 5 年が経ちますが、貧困、失業、経済的不安定は差し迫った懸念のままです。
+私たちが話を聞いたタリバン関係者らは、タリバン対策に取り組んでいると述べたが、タリバン自体がこの国の主要な問題であると信じている人たちにも会った。
+「人生について全く理解していない集団がどうして突然権力を握ったのか言葉を失いました」とホダさん（仮名）は言う。彼女はタリバンが最初に政権に復帰したときに街頭で抗議活動を行った女性だ。
+"Women can't accept this situation," she tells the BBC. 「規制が進むかもしれないが、この状況が永遠に続くわけではない。」
+「タリバンは教育を受けた女性を恐れていると思います」と彼女は付け加えた。 「それが彼らが女性を制限する理由だ。彼らは教育を受けていない女性を望んでいるから、賢者を育てられない。それはタリバンを終わらせてしまうからだ。」
+Hafizullah Maroof による追加レポート`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T05:00:22+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d35d/live/8a564f50-9d76-11f1-a291-b542ee92de7c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "u-s-to-unveil-greatest-financial-offensi-354e1c2a",
+    title: "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
+    titleJa: "イランが船舶拿捕を脅す中、米国、イランに対する「最大の金融攻撃」を発表へ",
+    summaryJa: "スコット・ベッセント財務長官は、米国は月曜日にイランに対して「史上最大の金融攻撃」を開始すると述べ、一方イランはホルムズ海峡の通航規則に違反した船舶を拿捕すると脅した。差し迫った事態の激化は、双方が合意に達するための60日間の停戦期限を逃し、中東戦争の終結を目的とした正式な停戦メカニズムが6か月目で終了したために生じた。",
+    bodyOriginal: `The U.S will unveil "the single greatest financial offensive ever" against Iran on Monday, Treasury Secretary Scott Bessent said, while Tehran threatened to seize vessels that violate transit rules in the Strait of Hormuz.
+The looming escalation comes as both sides missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism aimed at ending the Middle East war now in its sixth month.
+In a post on X Sunday evening stateside, Bessent said "at dawn begins an economic D-Day," framing the coming measures as the "endgame" for Washington's campaign against Tehran.
+The new measures will add to an extensive sanctions regime already targeting Iran's banking, energy, aviation and cryptocurrency sectors. The Trump administration has claimed that Iran's economy is in freefall, with runaway inflation and a collapsing currency.
+Bessent also warned that "any nation that serves as a financial artery of a withering regime should expect to share in its isolation" — language aimed squarely at foreign governments still transacting with Tehran. He has previously warned of further secondary sanctions on nations and entities that conduct business with Iran.
+Iran has responded by warning Gulf neighbors against joining U.S. economic measures and tightening its grip on the chokepoint, through which roughly a fifth of the world's seaborne oil passed before the war.
+On Saturday, Mohsen Rezaei, a longtime military commander who became the new secretary of Iran's Supreme National Security Council earlier this month, vowed to target the interests of oil-rich neighbors if they joined U.S. efforts to further isolate Iran.
+"Any country that becomes a partner in creating economic restrictions against us will be regarded by us as an enemy," he said in an interview with Iran's state broadcaster.
+In a series of posts on X on Sunday, Iran's state-controlled Persian Gulf Strait Authority, or PGSA, warned that vessels violating its transit rules in the Hormuz could face penalties, including "fines, seizure, or confiscation" during future passages.
+Iranian Foreign Minister Abbas Araghchi has also dismissed the threat of a fresh round of U.S. economic sanctions as a "desperate" ploy, asserting that U.S. actions, like the blockade, were set to fail.
+Tehran's parliament approved on Sunday a provision stipulating that ships passing through the Hormuz chokepoint will pay for services provided by Tehran, according to local media reports. The legislation still needs full parliamentary approval.
+Omani Foreign Minister Sayyid Badr Albusaidi is scheduled to visit Tehran on Tuesday for bilateral talks with his Iranian counterpart Abbas Araghchi, local media reported Monday. Both sides will continue discussions over the Strait of Hormuz, according to Iranian foreign ministry spokesperson Esmail Baghaei.
+Crude pulled back in Asian trading Monday despite the looming escalation. West Texas Intermediate futures, the U.S. benchmark, fell about 1.3% to $85.93 per barrel, and Brent crude, the international benchmark, dropped 1.3% to $93.22 a barrel.
+The UK Maritime Trade Operations agency reported no confirmed attacks in the strait over the 48 hours to Sunday, though it warned of a "continued risk of drifting or uncharted mines," with mine danger areas still active.`,
+    bodyJa: `スコット・ベッセント財務長官は、米国は月曜日にイランに対して「史上最大の金融攻撃」を開始すると述べ、一方イランはホルムズ海峡の通航規則に違反した船舶を拿捕すると脅した。
+差し迫った事態の激化は、双方が合意に達するための60日間の停戦期限を逃し、中東戦争の終結を目的とした正式な停戦メカニズムが6か月目で終了したために生じた。
+ベッセント氏は米国時間日曜夕方のX紙への投稿で、「夜明けに経済のDデイが始まる」と述べ、今後の措置を米国政府の対テヘラン作戦の「最終目標」と位置づけた。
+この新たな措置は、すでにイランの銀行、エネルギー、航空、仮想通貨部門を対象とした広範な制裁体制に追加されることになる。トランプ政権は、暴走するインフレと通貨の崩壊により、イラン経済はフリーフォール状態にあると主張した。
+ベッセント氏はまた、「衰退しつつある政権の金融動脈として機能する国家は、その孤立を共有することを期待すべきだ」と警告したが、これは依然としてテヘランと取引を続けている外国政府に向けた言葉である。同氏は以前、イランと取引のある国や団体に対するさらなる二次制裁について警告していた。
+イランはこれに対し、湾岸諸国に対し、米国の経済対策に参加しないよう警告し、戦前に世界の海上石油の約5分の1が通過したチョークポイントへの締め付けを強化した。
+土曜日、長年の軍司令官で今月初めにイラン国家安全保障最高評議会の新書記に就任したモーセン・レザエイ氏は、石油資源が豊富な近隣諸国がイランをさらに孤立させる米国の取り組みに参加すれば、その利益を狙うと誓った。
+同氏はイラン国営放送とのインタビューで、「われわれに対して経済的制限を設けるパートナーとなる国はすべて、われわれから敵とみなされることになる」と述べた。
+イラン国営ペルシャ湾海峡管理局（PGSA）は日曜日のXへの一連の投稿で、ホルムズ港の通航規則に違反した船舶は今後の通航中に「罰金、差し押さえ、没収」などの罰則を受ける可能性があると警告した。
+イランのアッバス・アラグチ外務大臣も、米国による経済制裁の新たな発動の脅威を「絶望的な」策略として一蹴し、封鎖などの米国の行動は失敗することが決まっていたと主張した。
+地元メディアの報道によると、テヘラン議会は日曜日、ホルムズの難所を通過する船舶にテヘランが提供するサービスの料金を支払うことを規定する条項を承認した。この法案は依然として議会の完全な承認を必要としている。
+オマーンのサイード・バドル・アルブサイディ外相は、イランのアッバス・アラグチ外相との二国間会談のため、火曜日にテヘランを訪問する予定であると地元メディアが月曜日に報じた。イラン外務省のエスマイル・バガエイ報道官によると、双方はホルムズ海峡を巡る協議を継続する。
+原油価格は、差し迫った激化にもかかわらず、月曜日のアジア取引で撤退した。米国の指標であるウェスト・テキサス・インターミディエート先物は約1.3％下落して1バレル当たり85.93ドル、国際指標であるブレント原油は1.3％下落して1バレル当たり93.22ドルとなった。
+英国海事貿易業務局は日曜までの48時間に同海峡での攻撃は確認されなかったと報告したが、機雷危険区域は依然として活動中で「漂流または地図にない機雷の危険が継続している」と警告した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
+    publishedAt: "2026-08-24T04:58:03+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "ex-cricket-captains-urge-proper-medical-c1d7ff70",
+    title: "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+    titleJa: "元クリケットキャプテンらがイムラン・カーンに「適切な医療」を要請",
+    summaryJa: "元クリケットキャプテンらがイムラン・カーンに「適切な医療」を要請- 公開されました",
+    bodyOriginal: `Ex-cricket captains urge 'proper medical care' for Imran Khan
+- Published
+A group of former cricket captains, including Indian batting legend Sunil Gavaskar and one of England's longest-serving skippers Sir Alastair Cook, have called on Pakistan to ensure its ex-PM Imran Khan be given proper care while in custody.
+The cricketer-turned-politician has been in jail since 2023 on corruption charges which he denies.
+In a letter to Pakistan's current leader Shehbaz Sharif, the 21 former skippers aired concern that Khan, 73, was allowed "only a few hours" at a hospital last week where he was examined by a state-appointed team.
+Khan's party has also filed a contempt petition against the government for not giving him access to his own doctors, as ordered by the top court.
+The former cricket captains laid out three demands in their letter, the first of which is that Khan be assessed by a medical board directed by Pakistan's Supreme Court – which would include his personal physicians – particularly on the reported loss of vision in his right eye.
+They also urged authorities to allow weekly visits by Khan's family, as ordered by the court, "without interruptions or administrative delays".
+Finally, they asked that any treatment recommended by the medical board be "provided without delay".
+"Imran Khan is 73 years old and has now spent more than three years in custody," read the letter initiated by former Australian captain Greg Chappell.
+"Whatever the legal and political arguments surrounding his case, the basic decency of ensuring a court-ordered medical process is actually completed is not, in our view, a controversial request."
+Among the other signatories were England's Michael Atherton, Michael Brearley, Nasser Hussain, Andrew Strauss and David Gower, India's Kapil Dev and Dilip Vengsarkar, and Australia's Belinda Clark, Adam Gilchrist, Steve Waugh and Kim Hughes.
+Fourteen of the former skippers had also supported an earlier appeal for "humane treatment and proper medical care" for Khan which was submitted in February.
+Khan's lawyer claimed at the time that his client had 15% vision left in his right eye after prison authorities failed to take action.
+The signatories of both letters had described themselves as "former colleagues and rivals who share a bond forged on the cricket field", adding that the bond "transcends the borders and disputes that too often divide countries".
+Khan, who previously captained the Pakistan national cricket team, served as Pakistan's prime minister from 2018 to 2022.
+He was imprisoned in August 2023 and has faced charges in more than 100 cases, ranging from leaking state secrets to selling state gifts, all of which he and his party Pakistan Tehreek-e-Insaf say are politically motivated.
+His jailing sparked large-scale protests by supporters, which were met with a crackdown by authorities.
+Pakistan's Supreme Court had on Tuesday directed the government to transfer Khan to a private hospital to be examined by physicians.
+He was instead seen by doctors at a government-run hospital in Islamabad, who deemed him "medically fit", before he was moved back to prison.`,
+    bodyJa: `元クリケットキャプテンらがイムラン・カーンに「適切な医療」を要請
+- 公開されました
+インドの伝説的打者スニル・ガバスカール氏やイングランドで最も長くキャプテンを務めたサー・アラステア・クック氏を含む元クリケット主将らのグループは、パキスタンに対し、元首相イムラン・カーン氏の拘留中に適切なケアが確実に受けられるよう求めた。
+クリケット選手から政治家に転身した同氏は、2023年から汚職容疑で投獄されているが、本人は否認している。
+パキスタンの現指導者シェバズ・シャリフ氏に宛てた書簡の中で、元船長21人は、73歳のカーン氏が先週、国が任命したチームによる検査を受ける病院で「数時間しか」入院を許されていないことに懸念を表明した。
+カーン氏の党はまた、最高裁判所の命令に従い、カーン氏に自身の医師へのアクセスを与えなかったとして政府に対する侮辱罪の申し立てを行った。
+クリケットの元キャプテンらは書簡の中で3つの要求を列挙しており、その1つ目は、特に報告されている右目の視力喪失に関して、パキスタン最高裁判所が指揮する医療委員会（主治医も含まれる）によるカーンの評価を受けることだ。
+また当局に対し、裁判所の命令に従ってカーン氏の家族による毎週の面会を「中断や管理上の遅延なく」許可するよう求めた。
+最後に、医療委員会が推奨する治療は「遅滞なく提供される」よう求めた。
+元オーストラリア代表キャプテンのグレッグ・チャペルが書き始めた書簡には、「イムラン・カーンは73歳で、現在3年以上拘留されている」と書かれている。
+「彼の事件をめぐる法的・政治的議論が何であれ、裁判所命令による医療プロセスが実際に完了することを保証するという基本的な良識は、物議を醸すような要求ではないと我々は考えている。」
+他の署名者には、イングランドのマイケル・アサートン、マイケル・ブレアリー、ナセル・フセイン、アンドリュー・ストラウス、デビッド・ガワー、インドのカピル・デヴとディリップ・ヴェングサーカー、オーストラリアのベリンダ・クラーク、アダム・ギルクリスト、スティーブ・ウォー、キム・ヒューズが含まれていた。
+元船長のうち14人も、2月に提出されたカーンに対する「人道的な扱いと適切な医療」を求める訴えを支持していた。
+カーンさんの弁護士は当時、刑務所当局が措置を取らなかったため、依頼人の右目には15％の視力が残っていると主張した。
+両書簡の署名者らは自らを「クリケット競技場で築いた絆を分かち合う元同僚でありライバル」と称し、その絆は「しばしば国を分断する国境や紛争を超える」と付け加えた。
+カーン氏は以前クリケットパキスタン代表チームのキャプテンを務め、2018年から2022年までパキスタン首相を務めた。
+同氏は2023年8月に投獄され、国家機密の漏洩から国家贈答品の販売に至るまで100件以上の罪に問われているが、同氏と彼の政党であるパキスタン・テフリク・エ・インサフ氏はいずれも政治的動機によるものだと主張している。
+彼の投獄は支持者らによる大規模な抗議行動を引き起こし、当局による弾圧に遭った。
+パキスタン最高裁判所は火曜日、医師の診察を受けるためにカーン氏を私立病院に移送するよう政府に指示した。
+代わりに、彼は刑務所に戻される前に、イスラマバードの政府運営の病院の医師らの診察を受け、医師らは彼が「医学的に健康である」と判断した。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T03:55:35+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
+    readTime: 4,
+  },
+  {
+    id: "alibaba-plunges-after-announcing-10-2-bi-416346a0",
+    title: "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
+    titleJa: "アリババ、AI推進資金として102億ドルの株式発行を発表後急落",
+    summaryJa: "中国のハイテク大手が米国以外の投資家向けに新規発行株式を800億香港ドル（102億ドル）で売り出す価格を設定したことを受け、月曜日の香港市場でアリババ株は最大10％下落した。同社は、純利益のすべてを、AIインフラストラクチャの拡張と強化を含むフルスタックAI機能への投資に使用する予定であると述べた。",
+    bodyOriginal: `Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.
+The company said it plans to use all of the net proceeds to invest in its full-stack AI capabilities, including expanding and enhancing its AI infrastructure.
+Alibaba will issue 710 million new shares at HK$112.70 apiece, compared with the stock's Friday closing price of HK$123. Shares were last trading 8.4% lower at HK$112.7.
+The share placement, expected to close on Wednesday, comes just days after Alibaba reported a 75% drop in profit for the June-quarter as heavy AI spending weighed on its results. Capital expenditure jumped 75% to 67.7 billion yuan.
+Vey-Sern Ling, senior equity advisor at UBP, told CNBC last week following Alibaba's latest earnings that the company was well-positioned to pursue AI growth.
+"I think Alibaba clearly is well positioned to chase that growth, given that they have a cloud computing arm, they have a very strong AI model," he said, adding that profits might weaken in the near term, while capex might rise.
+Alibaba has been ramping up investment in AI as it seeks to make the technology a key driver of future growth.The company last year announced plans to invest at least 380 billion yuan in cloud computing and AI infrastructure over the next three years.
+Alibaba's Chinese tech peers have also been ramping up AI spending. Tencent's capital expenditure rose 65% from the previous quarter to 52.8 billion yuan in the June-quarter as the company continued to invest in computing infrastructure to monetize its AI models.`,
+    bodyJa: `中国のハイテク大手が米国以外の投資家向けに新規発行株式を800億香港ドル（102億ドル）で売り出す価格を設定したことを受け、月曜日の香港市場でアリババ株は最大10％下落した。
+同社は、純利益のすべてを、AIインフラストラクチャの拡張と強化を含むフルスタックAI機能への投資に使用する予定であると述べた。
+アリババは、金曜終値123香港ドルに対し、1株当たり112.70香港ドルで7億1000万株の新株を発行する。株価は直近の取引で8.4％安の112.7香港ドルで取引された。
+この株式募集は水曜日に完了すると予想されており、アリババが多額のAI投資が業績を圧迫したため、6月四半期の利益が75％減少したと報告した数日後に行われた。設備投資は75％増の677億元となった。
+UBPの上級株式アドバイザー、ベイサーン・リン氏は先週、アリババの最新決算を受けてCNBCに対し、アリババはAIの成長を追求する上で有利な立場にあると語った。
+「アリババはクラウドコンピューティング部門を持ち、非常に強力なAIモデルを持っていることを考えると、明らかにその成長を追いかけるのに有利な立場にあると思う」と同氏は述べ、利益は短期的には弱まる一方、設備投資は増加する可能性があると付け加えた。
+アリババはAI技術を将来の成長の主要な原動力にすべく、AIへの投資を強化しており、同社は昨年、今後3年間でクラウドコンピューティングとAIインフラに少なくとも3800億元を投資する計画を発表した。
+アリババの中国テクノロジー関連企業もAIへの支出を増やしている。同社がAIモデルを収益化するためにコンピューティングインフラストラクチャへの投資を継続したため、テンセントの6月四半期の設備投資は前四半期比65％増の528億元となった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
+    publishedAt: "2026-08-24T02:55:22+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "shein-aims-for-almost-27bn-valuation-in-62158a32",
     title: "Shein aims for almost $27bn valuation in 1 September stock market debut",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -303,6 +737,20 @@ Another landslide at the site killed 10 people in 2017.`,
     publishedAt: "2026-08-23T18:17:37+00:00",
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
+    readTime: 2,
+  },
+  {
+    id: "we-are-committed-christians-our-son-and-15c12426",
+    title: "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
+    titleJa: "「私たちは献身的なクリスチャンです」: 私たちの息子と嫁は、政治を理由に私たちと絶縁しました。 300万ドルの遺言書を変更すべきでしょうか？",
+    summaryJa: "「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」",
+    bodyOriginal: `“We are hurt and confused, but we have also tried to respect the boundaries they have established.”`,
+    bodyJa: `「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
+    publishedAt: "2026-08-23T18:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-01814240",
     readTime: 2,
   },
   {
@@ -1380,450 +1828,6 @@ The White House did not immediately respond to a request for comment. In May, sp
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "as-u-s-canada-trade-talks-collapse-carne-3149c98a",
-    title: "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-    titleJa: "米・カナダ通商交渉決裂、カーニー長官、報復関税は9月8日に開始されると発言",
-    summaryJa: "金曜日に両国間の通商交渉が決裂したことを受け、米国は土曜日、一部のカナダ製品に50％の関税を課した。これに対しカナダは9月8日から独自の報復関税を課すと発表した。",
-    bodyOriginal: `The U.S. imposed 50% tariffs on some Canadian products on Saturday after trade talks between the two countries fell apart on Friday.
-In response, Canada said it would impose its own retaliatory tariffs beginning on Sept. 8.
-Negotiators for both sides had been working on a deal all week, at times signaling that an agreement was near. President Donald Trump had postponed the original deadline of Wednesday just hours ahead of it being imposed, saying that there was a soon-to-be finalized deal. Dominic LeBlanc, Canada's trade minister for the U.S., told reporters on Thursday that a deal was "very close."
-However, both sides blamed the other for not reaching a deal as the tariffs, impacting roughly $20 billion in Canadian exports, including wine, furniture, dairy products, cement, clothing, fishing rods, hockey equipment, went into effect on Saturday morning.
-U.S. Trade Representative Jamieson Greer, in a post on X early Saturday morning, that "Canada declined to finalize the trade deal under the terms agreed earlier this week."
-Canadian Prime Minister Mark Carney said in a statement released on Friday that despite working toward a deal, "that progress has not been enough to meet our objectives for Canadians," saying that "last-minute changes in the U.S. proposed terms were unfair, uneconomic, and called into question the reliability of any deal."
-In a Saturday press conference in Ottawa, Ontario, Carney said that the U.S. demands had gone too far.
-"They asked too much and offered too little," he said, adding that Canada had been willing to drop its remaining retaliatory tariffs on steel, aluminum and autos if the United States lowered its own.
-As a result, Carney said Canada would put its own retaliatory tariffs into effect on Sept. 8, and those duties will target sectors such as steel, dairy, agricultural equipment, and pulp and paper, among others. He said additional details on those new measures would be released in the coming days, previously noting that the retaliatory measures would be "dollar for dollar."
-Carney also highlighted the energy relationship between the two countries: "Canada fuels American growth … I don't think they want us to stop sending any of that energy."
-Senate Minority Leader Chuck Schumer, D-N.Y., criticized the retaliatory U.S. tariffs in a post on X.
-"Trump just slapped another bill on hardworking American families — who are already crushed by his skyrocketing costs. This nonsense with Canada should have never gone into effect. It must end now," Schumer wrote.
-Greer, in an appearance on Fox News on Saturday, said that there are no new planned talks with the Canadians. "They've always had the best deal, and they still would have an even better deal, but they didn't want that," he said.
-The Trump administration signed three proclamations to impose the additional 50% tariffs on a range of Canadian goods in July, a response it said was due to trade discrimination against multiple U.S. products and industries such as motor vehicles, alcohol and dairy. The tariffs fell under Section 338 of the Tariff Act of 1930, which gives the president the power to impose tariffs of up to 50% on the goods of countries found to be discriminating against the U.S., and which had not been used since 1949.
-The failure to reach a deal adds another complication to the increasingly tense relationship between the U.S. and Canada. The two sides had already been at the negotiating table regarding their trilateral trade pact with Mexico, known as USMCA, which was not renewed in July over concerns with U.S. trade deficits — a deal that Trump once called "the best agreement we've ever made."`,
-    bodyJa: `金曜日に両国間の通商交渉が決裂したことを受け、米国は土曜日、一部のカナダ製品に50％の関税を課した。
-これに対しカナダは9月8日から独自の報復関税を課すと発表した。
-双方の交渉担当者は今週ずっと合意に向けて取り組んでおり、時には合意が近いことを示唆していた。ドナルド・トランプ大統領は、間もなく合意がまとまると述べ、当初の水曜日の期限を発動の数時間前に延期していた。カナダのドミニク・ルブラン駐米貿易相は木曜日、記者団に対し、合意は「非常に近づいている」と述べた。
-しかし、ワイン、家具、乳製品、セメント、衣料品、釣り竿、ホッケー用具などカナダの輸出額約200億ドルに影響を与える関税が土曜朝に発効したため、双方は合意に達しなかったことで相手を非難した。
-ジェイミーソン・グリア米通商代表部議員は土曜早朝、Xに投稿し、「カナダは今週初めに合意された条件に基づいて通商協定を最終決定することを拒否した」と述べた。
-カナダのマーク・カーニー首相は金曜日に発表した声明で、合意に向けて努力しているにもかかわらず、「その進展はカナダ国民に対する我々の目標を達成するには十分ではない」とし、「米国が提案した条件の土壇場での変更は不公平で非経済的であり、いかなる合意の信頼性にも疑問を投げかけている」と述べた。
-カーニー氏はオンタリオ州オタワでの土曜日の記者会見で、米国の要求は行き過ぎだと述べた。
-同氏は「彼らは要求が多すぎ、提供が少なすぎた」と述べ、米国が自国の報復関税を引き下げれば、カナダは鉄鋼、アルミニウム、自動車に対する残りの報復関税を引き下げる用意があると付け加えた。
-その結果、カーニー氏は、カナダは9月8日に独自の報復関税を発動する予定で、その関税の対象となるのは鉄鋼、乳製品、農業機械、紙パルプなどのセクターになると述べた。同氏は、これらの新たな措置に関する追加の詳細は数日以内に発表されると述べ、これまでに報復措置は「ドルにはドル」になると述べた。
-カーニー氏はまた、両国間のエネルギー関係を強調し、「カナダは米国の成長を促進している…彼らは我々がそのエネルギーを送るのをやめることを望んでいないと思う」と語った。
-チャック・シューマー上院院内総務（民主党、ニューヨーク州）はXに関する投稿で米国の報復関税を批判した。
-「トランプ大統領は、勤勉なアメリカ人家庭に新たな法案を突き付けたばかりだが、彼らはすでにトランプ大統領の費用の高騰で押しつぶされている。カナダとのこのばかげた行為は絶対に施行されるべきではなかった。今すぐに終わらせなければならない」とシューマー氏は書いた。
-グリア氏は土曜日のFOXニュースに出演し、カナダ側との新たな協議は予定されていないと述べた。 「彼らは常に最良の契約を結んできたし、今後もさらに良い契約を結ぶだろうが、彼らはそれを望んでいなかった」と同氏は語った。
-トランプ政権は7月、カナダの幅広い製品に50％の追加関税を課す3つの宣言に署名したが、その対応は自動車、アルコール、乳製品など複数の米国製品や産業に対する貿易差別によるものだと主張した。この関税は1930年関税法第338条に基づくもので、同法は米国に対して差別的であると判明した国の商品に最大50％の関税を課す権限を大統領に与えており、この関税は1949年以来適用されていなかった。
-合意に達しないことで、緊張が高まる米国とカナダの関係がさらに複雑になる。両国はすでに、USMCAとして知られるメキシコとの3か国貿易協定について交渉のテーブルに着いていたが、この協定は米国の貿易赤字への懸念を理由に7月に更新されなかった。トランプ大統領はかつてこの協定を「われわれがこれまでに結んだ最良の協定」と呼んだ。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-    publishedAt: "2026-08-22T17:01:18+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "father-leaves-7-year-old-son-alone-on-mo-515cead9",
-    title: "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-    titleJa: "父親が7歳の息子を富士山に残して登山を続ける",
-    summaryJa: "父親が7歳の息子を富士山に残して登山を続ける- 公開されました",
-    bodyOriginal: `Father leaves 7-year-old son alone on Mount Fuji to continue hike
-- Published
-A father has been reprimanded by police after leaving his son on Japan's highest mountain for several hours with just a soft drink and snack.
-The seven-year-old was spotted sitting on a bench on Mount Fuji in foggy and rainy conditions, at a point situated at over 2,000m (6,500ft).
-His father, 48, reportedly told him to "wait here" after the boy complained he was tired - and continued the climb with his elder son.
-Staff at a mountain hut found the child near the sixth station of a hiking route towards the summit and alerted police. His father was tracked down between the route's seventh and eighth stations - said to be a three-hour hike away.
-The boy was found on his own at 07:30 local time on Thursday (22:30 GMT).
-Officers castigated his father when he returned from the higher station and reunited with his son, who is said to have been "tired and fussy" after eight hours of waiting.
-"Even if it means having to give up on climbing the mountain together, leaving a child behind is unacceptable," one told him, according to Japan Today. He is said to have apologised for the "rash" decision.
-The family was reported to have been on the Fujinomiya route, which starts from the fifth station on the mountain, a spot which is accessible by public transport.
-From there it takes around five hours to reach the peak and a further three hours to get down, climbing guides suggest.
-Mount Fuji climber rescued twice after going back for lost phone
-- Published28 April 2025
-Mount Fuji, which stands at a height of 3,776m (12,389ft), has been the site of a number of climbing mishaps in recent years.
-In July, a 99-year-old woman had to be rescued attempting the route after falling and hurting her hip and back.
-And last year, a 27-year-old university student who went outside of official climbing season had to be rescued twice in four days - after he went back to look for his lost mobile phone.
-Mount Fuji, an active volcano located south-west of Tokyo, was granted World Heritage status in 2013.
-It is also one of three traditional "Holy Mountains" together with Mount Tate and Mount Haku.
-Around 200,000 people climb it each year, but there are daily caps on some routes to avoid overcrowding.
-Related topics
-- Published7 November 2024
-- Published5 March 2024`,
-    bodyJa: `父親が7歳の息子を富士山に残して登山を続ける
-- 公開されました
-息子をソフトドリンクと軽食だけを持って数時間日本最高峰に置き去りにした父親が警察から懲戒処分を受けた。
-7歳の少年は、霧と雨が降る中、標高2,000メートル（6,500フィート）以上の地点にある富士山のベンチに座っているのが発見された。
-伝えられるところによると、父親（48）は少年が疲れたと訴えた後、「ここで待っていて」と言い、長男と一緒に登山を続けたという。
-山頂に向かう登山道の六合目付近で山小屋の職員が発見し、警察に通報した。彼の父親は、ハイキングで3時間かかると言われている、ルートの7番目の駅と8番目の駅の間で追跡されました。
-少年は現地時間木曜午前7時30分（日本時間午後22時30分）に自力で発見された。
-警察は父親が高台の署から戻り、8時間待った後で「疲れてぐずっていた」息子と再会したとき、父親を非難した。
-ジャパン・トゥデイ紙によると、ある人は「たとえ一緒に山に登ることを諦めなければならないとしても、子供を置き去りにするのは容認できない」と語ったという。同氏は「軽率な」決定を謝罪したと言われている。
-家族は公共交通機関でアクセスできる五合目から始まる富士宮ルートにいたと伝えられている。
-登山ガイドによると、そこから頂上までは約5時間、下山まではさらに3時間かかるという。
-富士山登山者、携帯紛失で引き返し2度救助
-- 2025 年 4 月 28 日発行
-標高 3,776 メートル (12,389 フィート) の富士山は、近年、登山中の遭難事故が多発しています。
-7月には99歳の女性がこのルートを通ろうとして転んで腰と背中を痛め、救助されなければならなかった。
-そして昨年、正式な登山シーズン外に出かけた27歳の大学生は、紛失した携帯電話を探しに戻った後、4日間で2回救助されなければならなかった。
-東京の南西に位置する活火山である富士山は、2013 年に世界遺産に登録されました。
-立山、白山と並ぶ伝統的な「三大霊山」の一つでもあります。
-毎年約 20 万人が登山しますが、混雑を避けるために一部のルートには 1 日の上限が設けられています。
-関連トピック
-- 2024 年 11 月 7 日公開
-- 2024 年 3 月 5 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-22T14:35:11+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-    readTime: 2,
-  },
-  {
-    id: "38-year-old-runs-a-mobile-pizzeria-out-o-f6bdfd63",
-    title: "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
-    titleJa: "38歳、ニューヨーク市でスマートカーで移動ピザ屋を経営：「サーカスか魔法のようなもの」",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `I've been cooking professionally for most of my life. But if you'd told the teenager peeling potatoes after school that one day he'd have his own pizzeria —and operate it out of a Smart car, no less — I'm not sure he would have believed you.
-As a sophomore in high school, I wasn't running a kitchen or thinking about owning a business. I was just a kid getting my first look at how a real restaurant worked.
-There was pressure, noise, heat and constant movement. I'd leave exhausted at the end of the night, but I was always well fed, and for some reason I couldn't wait to go back. That environment taught me early that kitchens could be intense, but also incredibly alive. There was a rhythm to the chaos, and I fell in love with it.
-I kept cooking, eventually graduating from the Culinary Institute of America and building a career in professional kitchens and corporate dining. I worked with organizations including the NFL and the New York Stock Exchange.
-But somewhere along the way, cooking started to feel less personal. In corporate dining, you can prepare an incredible meal for some of the most powerful people in the world and never actually see them enjoy it.
-I realized I missed that connection. I wanted to make the decisions myself, obsess over the product, create something people would remember and watch it all unfold before my eyes.
-So I went small when I started Pizza Pod. Really small. I like to call it New York City's smallest pizzeria.
-Serving pizza out of a Smart car
-Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?
-The car gets people's attention immediately. It's a bright, shiny green, and it's just big enough to hold two pizza ovens that run on a generator.
-When I park outside a coffee shop, wine bar, or brewery I'm partnering with, or pull up to a street fair or a private or corporate event, most of the pizzeria is already there. I set out a table, unpack balls of dough I made in a commercial kitchen off site and let ferment for 72 hours, and bring along other ingredients, all of which I'm very particular about.
-Then, right in front of people, I make fresh 12-inch pies — like cheese, truffle and mushroom, creamy artichoke and garlic, ham and hot honey, and burrata — that sell for $16 to $20 each. One of the more unusual pizzas we make is a guava pepperoni pie. It's a small nod to my Puerto Rican heritage, with the sweetness of the guava playing beautifully against the saltiness of the pepperoni.
-Sometimes I think the setup is a little bit like a circus or a magic act, where I get to be the magician pulling hot, fragrant pizzas out of a teeny tiny car. Ta da!
-Connecting with the community
-I never wanted Pizza Pod to succeed just because of the car. The pizza had to be good enough that customers came back, and they have.
-People walk over and ask questions. Kids watch the pizzas go into the ovens. Customers talk to us while we're cooking. Someone comes once, then comes back the following week, and suddenly I know their name and order. People who originally stopped because they were intrigued by the sight of a guy pulling pizzas out of a Smart car have become regulars and bring friends.
-That connection is probably my favorite part of the business.
-Some of the best opportunities have come directly from those relationships, too. Companies invite Pizza Pod to pop up or cater events. People share videos online. Customers tell other people about this strange little Smart car pizzeria. These interactions have helped grow the business.
-Pizza Pod has brought in about $24,000 in gross sales via card payments on Square since March, and I'd estimate cash sales typically make up 65% of our total. So, by my calculations, we're averaging about $12,000 in gross sales per month.
-Finding purpose and happiness in pizza
-Some days, I'm not only the chef, but also the delivery driver, dish washer, mechanic, salesperson, accountant and social media department, all before lunch. Other days, like when Pizza Pod has a big event, I have a small team working with me.
-Running a business this tiny means there's no department to call when something goes wrong. The other day, for example, the generator stopped working while I had pizzas in the oven and hungry people waiting. I quickly hooked up one of the ovens to run through the car for long enough to finish those half-cooked pizzas.
-Pizza Pod can be exhausting. But it's also mine. I spent years working inside systems other people created, helping them achieve their dreams. Now, even when the day is difficult, it's because I'm building my own business and cultivating that community around it. It makes me happy and gives me purpose in a way that corporate dining never did.
-My son, Axel, who turns 3 soon, loves the car and has appointed himself my No. 1 taste tester, a job he takes pretty seriously.
-I hope one day he learns the lessons I have by building this business: You won't be an expert at anything right away, but you'll learn more every day. And you don't need the perfect space or unlimited resources to begin. Sometimes you just have to use what you have and make it work. For me, that happened to be a Smart car and a pizza oven.
-Bradley Alvelo is a Culinary Institute of America-trained chef and the founder of Pizza Pod. He serves handcrafted 12-inch pizzas made with slow-fermented dough from a customized Smart car while growing the business through pop-ups, private events, and partnerships. Follow Pizza Pod at @pizzapodnyc or visit pizzapodnyc.com.`,
-    bodyJa: `私は人生のほとんどをプロとして料理してきました。しかし、放課後にジャガイモの皮をむいているティーンエイジャーに、いつか自分のピッツェリアを持ち、それもスマートカーで経営するだろうとあなたが言ったとしたら、彼があなたの言うことを信じたかどうかはわかりません。
-高校2年生だった私は、キッチンを経営したり、ビジネスを経営しようとは考えていませんでした。私は実際のレストランがどのように機能するかを初めて見た子供でした。
-圧力、騒音、熱、そして絶え間ない動きがありました。夜の終わりには疲れ果てて出発するのですが、いつもお腹は十分に満たされていたので、どういうわけか帰るのが待ちきれませんでした。その環境は、キッチンが激しいものであると同時に信じられないほど生き生きとしたものであることを私に早くから教えてくれました。カオスにはリズムがあり、私はそれに夢中になりました。
-私は料理を続け、最終的にカリナリー・インスティテュート・オブ・アメリカを卒業し、プロのキッチンや企業のダイニングでキャリアを築きました。私は NFL やニューヨーク証券取引所などの組織と協力しました。
-しかし、途中のどこかで、料理が個人的なものではなくなり始めました。企業内での食事では、世界で最も権力のある人々のために素晴らしい食事を用意しても、実際に彼らがそれを楽しんでいるのを見ることはできません。
-そのつながりを見逃していたことに気づきました。私は自分で決定を下し、製品に執着し、人々の記憶に残るものを作成し、それがすべて私の目の前で展開されるのを見たかったのです。
-それで、ピザポッドを始めたとき、私は小さくなりました。本当に小さいです。私はそれをニューヨーク市最小のピッツェリアと呼びたいと思います。
-スマートカーからピザを提供する
-Pizza Pod は、非常にばかばかしいアイデアから始まりました。小さなスマートカーを移動ピザ屋に変えることができたらどうなるでしょうか?
-その車はすぐに人々の注目を集めます。それは明るく光沢のある緑色で、発電機で稼働するピザ窯を 2 台入れるのにちょうど十分な大きさです。
-提携しているコーヒーショップ、ワインバー、醸造所の外に駐車したり、ストリートフェアや個人や企業のイベントに車を停めたりすると、ほとんどのピッツェリアがすでにそこにあります。テーブルを用意し、敷地外の業務用厨房で作った生地を開梱して72時間発酵させ、その他の材料も持参するなど、すべてがこだわりです。
-それから私は人々の目の前で、チーズ、トリュフとマッシュルーム、クリーミーなアーティチョークとニンニク、ハムとホットハチミツ、ブッラータなどの新鮮な 12 インチのパイを作り、それぞれ 16 ～ 20 ドルで販売します。私たちが作る最も珍しいピザの 1 つは、グアバ ペパロニ パイです。グアバの甘みがペパロニの塩気と美しく調和しており、私のプエルトリコの伝統に少しだけ敬意を表しています。
-時々、この設定はサーカスや手品の演技に少し似ていると思うことがあります。そこでは、私が小さな小さな車から熱くて香りの良いピザを取り出す手品師になります。タダ！
-コミュニティとのつながり
-車のせいでピザ ポッドが成功することを望んでいたわけではありません。顧客が戻ってくるにはピザが十分に良くなければなりませんでしたし、実際に戻ってきました。
-人々は歩いてきて質問します。子どもたちはピザがオーブンに入れられる様子を眺めています。調理中にお客様から話しかけられます。誰かが一度来て、次の週に戻ってくると、突然その人の名前と順番がわかります。当初はスマートの車からピザを取り出している男性の姿に興味を持って立ち寄った人も、友人を連れて常連になるようになりました。
-そのつながりがおそらく私がこのビジネスで最も好きな部分です。
-最高のチャンスのいくつかは、そうした関係から直接もたらされました。企業は、イベントのポップアップやケータリングに Pizza Pod を招待します。人々はオンラインでビデオを共有します。顧客は、この奇妙な小さなスマート カー ピッツェリアについて他の人に伝えます。こうしたやり取りがビジネスの成長につながりました。
-Pizza Pod は 3 月以来、Square でのカード決済を通じて約 24,000 ドルの総売上高をもたらしており、通常、現金売上高が総売上の 65% を占めると推測しています。私の計算によると、月平均総売上高は約 12,000 ドルになります。
-ピザに目的と幸福を見つける
-日によっては、私はシェフだけでなく、配達ドライバー、食器洗い機、整備士、販売員、会計士、ソーシャルメディア部門のすべてを昼食前に担当することもあります。また、Pizza Pod で大きなイベントがあるときなどは、小さなチームで一緒に仕事をします。
-これほど小さなビジネスを運営しているということは、何か問題が発生したときに連絡できる部門がないことを意味します。たとえば先日、私がオーブンでピザを焼いてお腹を空かせた人々が待っている間に発電機が停止しました。私はすぐにオーブンの 1 つを接続し、これらの半分調理されたピザを完成させるのに十分な時間車の中を走り回りました。
-ピザポッドは疲れるかもしれません。しかし、それは私のものでもあります。私は何年も他の人が作成したシステムの内部で働き、彼らの夢の実現を支援してきました。今、たとえその日が困難なときでも、それは私が自分のビジネスを立ち上げ、その周りのコミュニティを育てているからです。それは私を幸せにし、企業の食事では決して得られなかった方法で私に目的を与えてくれます。
-もうすぐ 3 歳になる息子のアクセルは車が大好きで、自分を私のナンバー 1 味覚テスターに​​任命しており、彼はこの仕事をかなり真剣に取り組んでいます。
-いつか彼がこのビジネスを立ち上げることで私が得た教訓を学んでくれることを願っています。すぐに何かの専門家になることはできませんが、毎日より多くのことを学ぶことになります。また、始めるのに完璧なスペースや無制限のリソースは必要ありません。時には、自分が持っているものを使ってそれを機能させる必要があります。私にとって、それはたまたまスマートカーとピザオーブンでした。
-ブラッドリー・アルヴェロは、カリナリー・インスティテュート・オブ・アメリカで訓練を受けたシェフであり、ピザ・ポッドの創設者です。彼はカスタマイズされたスマートカーでゆっくりと発酵させた生地で作られた手作りの 12 インチのピザを提供しながら、ポップアップ、プライベート イベント、パートナーシップを通じてビジネスを成長させています。 @pizzapodnyc で Pizza Pod をフォローするか、pizzapodnyc.com にアクセスしてください。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-    publishedAt: "2026-08-22T14:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "our-4-year-old-son-has-100-000-in-his-52-cbd908a1",
-    title: "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-    titleJa: "私たちの 4 歳の息子は、529 口座に 100,000 ドルを持っています。強気相場は株を買うのに悪い時期なのでしょうか?",
-    summaryJa: "「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」",
-    bodyOriginal: `“I’d love for our son to be able to attend college without needing to take out student loans.”`,
-    bodyJa: `「息子が学生ローンを借りずに大学に通えるようになれば嬉しいです。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-    publishedAt: "2026-08-22T13:01:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-94025750",
-    readTime: 2,
-  },
-  {
-    id: "why-an-announcement-from-the-treasury-sp-5a508ccc",
-    title: "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
-    titleJa: "なぜ財務省の発表が今週​​金とビットコインの上昇を引き起こしたのか",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.`,
-    bodyJa: `財務省が債券買い戻しを倍増させる計画を発表したことを受け、仮想通貨と貴金属は急騰する一方、米ドルは下落した。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
-    publishedAt: "2026-08-22T13:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-69034296",
-    readTime: 2,
-  },
-  {
-    id: "move-over-credit-cards-social-media-star-176d840a",
-    title: "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
-    titleJa: "クレジットカードを使いましょう: ソーシャルメディアのスターたちは魔法の杖を使って物を購入しています",
-    summaryJa: "買い物客がチェックアウトをパーソナライズされたアクセサリーに変えるにつれて、タップツーペイは TikTok に大変身しています。",
-    bodyOriginal: `Tap-to-pay is getting a TikTok makeover as shoppers turn checking out into a personalized accessory.`,
-    bodyJa: `買い物客がチェックアウトをパーソナライズされたアクセサリーに変えるにつれて、タップツーペイは TikTok に大変身しています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/move-over-credit-cards-social-media-stars-are-tapping-magic-wands-to-buy-things-62e475d4?mod=mw_rss_topstories",
-    publishedAt: "2026-08-22T12:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-17088577",
-    readTime: 2,
-  },
-  {
-    id: "meta-is-the-latest-tech-giant-to-land-in-0a5028de",
-    title: "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-    titleJa: "メタは法廷に現れた最新のテクノロジー巨人だ。イヴォンヌ・ゴンザレス・ロジャース判事に会う",
-    summaryJa: "イヴォンヌ・ゴンザレス・ロジャースにとっては、クレイジーな4か月だった。カリフォルニア北部地区の裁判官は4月下旬から5月の大半をオークランドのダウンタウンの法廷で過ごし、イーロン・マスク氏とサム・アルトマン氏の間の注目を集めた戦いを監督した。",
-    bodyOriginal: `It's been a crazy four months for Yvonne Gonzalez Rogers.
-The judge in the Northern District of California spent late April and much of May in her downtown Oakland courtroom, overseeing the high-profile battle between Elon Musk and Sam Altman.
-Now, the 61-year-old Gonzalez Rogers is gearing up for week two of a trial that could go a long way in determining the fate of Meta's advertising business, as California Attorney General Rob Bonta leads a coalition of state AGs in litigating what's being hailed as social media's "Big Tobacco moment."
-In between the two trials, Gonzalez Rogers was named chief judge of the court, 15 years after being nominated to serve there by then-President Barack Obama. She replaced Judge Richard Seeborg, who held the role for five years, and takes over at a time when tech companies are bigger and more powerful than ever and artificial intelligence is driving more high-stakes fights into the courtroom.
-The district includes San Francisco, where OpenAI is headquartered, as well as all of Silicon Valley, home to Meta and most of its technology peers. For Gonzalez Rogers, the job is the capstone of a 35-year legal career in California, where she began in private practice before being appointed to the Alameda County Superior Court in 2008 by then-Gov. Arnold Schwarzenegger.
-Known to many as YGR, Gonzalez Rogers has developed a reputation for her no-nonsense attitude.
-"I would describe her as a pistol," said Steve Berman, a managing partner at Hagens Berman who served as co-lead counsel against Big Tobacco in the 1990s and has litigated against Apple before Gonzalez Rogers in several cases. "If lawyers give her bulls---, she just goes after them."
-A native of Houston, Gonzalez Rogers did her undergraduate work at Princeton and received her law degree from the University of Texas. She then joined law firm Cooley in 1991, becoming the firm's first Latina associate.
-During her time as a state judge, she caught the attention of then-Sen. Dianne Feinstein, a California Democrat. Feinstein, who died in 2023, later recommended Gonzalez Rogers' nomination to the federal bench to President Obama.
-History with Apple
-Before the recent cases involving Meta and Musk, Gonzalez Rogers was well known by those who follow Apple.
-In 2012, she inherited Pepper v. Apple, an early antitrust challenge to the App Store. IPhone owners alleged Apple forced them to buy apps through its store alone, allowing the company to charge a 30% commission and push prices higher. Gonzalez Rogers initially dismissed the case, though the Supreme Court later took it up and ruled that consumers could sue the company.
-Around the same time, Gonzalez Rogers oversaw an antitrust case, involving allegations that Apple unfairly blocked users from playing music from sources other than iTunes and shut out competitors. Apple was victorious.
-But her most notable Apple trial took place five years ago, in a case against Epic Games.
-In 2020, Epic activated its own payment option inside Fortnite, bypassing Apple's payment system and its 30% commission. Epic sued Apple after the iPhone maker removed Fortnite from the App Store, accusing the company of illegally controlling the way apps were distributed and payments were processed on iPhones.
-After a three-week bench trial in 2021, Gonzalez Rogers largely sided with Apple, finding that Epic had failed to prove Apple was an illegal monopolist. She also determined that Apple's "anti-steering" rules violated California competition law and ordered the company to allow developers to direct users to outside payment options.
-But that wasn't the end of it.
-Last year, Gonzalez Rogers said Apple willfully violated the injunction, writing in a court filing that the company's vice president of finance "outright lied" to the court about when the company had decided to levy a 27% fee on some purchases linked to its App Store.
-"Neither Apple, nor its counsel, corrected the, now obvious, lies," Rogers wrote, saying that she considers Apple to "to have adopted the lies and misrepresentations to this Court."
-Rogers referred the matter to U.S. attorneys to investigate whether to pursue criminal contempt proceedings, though a prosecution never emerged.
-Musk v. Altman
-Gonzalez Rogers was back in the spotlight earlier this year, as Musk and Altman took their long-standing feud to the courtroom.
-In 2024, Musk sued Altman, OpenAI and fellow co-founder Greg Brockman for allegedly "stealing a charity." After a three-week trial, the advisory jury ruled that Musk, who helped start OpenAI as a nonprofit in 2015, hadn't filed his suit in time, ending the case without resolving Musk's allegations.
-Musk called the verdict a "technicality" and vowed to appeal, but Gonzalez Rogers said, in wrapping up the trial, that there's "a substantial amount of evidence to support the jury's finding."
-A spokesperson for Gonzalez Rogers told CNBC that the judge gives jurors a pocket constitution from the Supreme Court bookstore with a signed thank you note for their service.
-Like in the Musk-Altman case, Gonzalez Rogers is presiding over a bench trial as the state AGs take on Meta. An advisory jury will hear the evidence and reach a verdict, but the decision isn't legally binding, and Gonzalez Rogers retains the final say.
-Steven Baicker-McKee, a law professor at Duquesne University and an expert in civil procedure, told CNBC that an advisory jury amounts to an add-on to a bench trial.
-"You only get an advisory jury where the parties do not have a right to a jury, and the judge could decide the matter on his or her own," said Baicker-McKee. "An advisory jury allows the judge to gauge how the community feels about a certain event or certain conduct."
-Here's how Gonzalez Rogers described it in a court filing:
-"The issues at play in this impact the daily lives of the public across the states involved," she wrote. "Thus, the Court deems it prudent to call an advisory jury to solicit the 'standard of the community.'"
-As far as the potential impact of Gonzalez Rogers' ultimate decision, this could be her most important case yet.
-Meta has estimated that potential penalties from the states' lawsuit could be as high as $1.4 trillion, though Bonta says the states are not demanding that much.
-Money isn't Meta's biggest concern.
-The states allege Meta deliberately used features including infinite scroll, autoplay, likes, push notifications and disappearing content to hook young users on its apps despite knowing of the vulnerabilities. They also accuse Meta of collecting information from children without parental consent and misleading the public about the risks of its platforms. Meta has denied the claims.
-Bonta and AGs from Colorado, New Jersey and Kentucky are co-leading the trial and represent a bipartisan group of 29 AGs seeking algorithm alterations that could force Meta to change how it designs and operates features for young users on Facebook and Instagram. Meta is reliant on its algorithms to target advertising, which accounts for 98% of its revenue and is the key source of growth as the company heavily invests in AI.
-Opening arguments began on Tuesday, and Bonta reminded reporters after the first day that the trial centers around "civil penalties, restitution and distortion," and is not primarily about money.
-The trial in Gonzalez Rogers' courtroom is expected to last six to seven weeks. It's the centerpiece of a larger judicial assignment.
-Gonzalez Rogers is overseeing the broader multidistrict litigation consolidating nearly 3,000 pending lawsuits against Meta, TikTok, Snap and YouTube over alleged harms to children and teens.
-"She's super smart, and I think thrives on challenging cases," Berman said. "I haven't always agreed with her in cases I didn't win. But I know that she's smart."
-— CNBC's Jonathan Vanian, Lora Kolodny and Kif Leswing contributed to this report.
-WATCH: Meta is facing its biggest trial yet, and its future hangs in the balance`,
-    bodyJa: `イヴォンヌ・ゴンザレス・ロジャースにとっては、クレイジーな4か月だった。
-カリフォルニア北部地区の裁判官は4月下旬から5月の大半をオークランドのダウンタウンの法廷で過ごし、イーロン・マスク氏とサム・アルトマン氏の間の注目を集めた戦いを監督した。
-現在、61歳のゴンザレス・ロジャース氏は、ソーシャルメディアの「ビッグ・タバコ・モーメント」ともてはやされている訴訟で、カリフォルニア州司法長官ロブ・ボンタ氏が州検事局の連合を率いて、メタ社の広告事業の運命を決定するのに大いに役立ちそうな裁判の第2週に向けて準備を進めている。
-2つの裁判の間に、ゴンザレス・ロジャース氏が当時のバラク・オバマ大統領から裁判所の裁判長に指名されてから15年後に裁判長に任命された。彼女は、5年間その職を務めたリチャード・シーボーグ判事の後任となり、テクノロジー企業がこれまで以上に大きく強力になり、人工知能によって法廷での一か八かの争いが増えているこの時期に就任した。
-この地区には、OpenAI が本社を置くサンフランシスコのほか、Meta とそのほとんどの同業他社の本拠地であるシリコン バレー全域が含まれます。ゴンザレス・ロジャースにとって、この仕事はカリフォルニア州での35年間の弁護士キャリアの頂点であり、2008年に当時のゴンザレス・ロジャース知事によってアラメダ郡高等裁判所に任命されるまでは個人開業からスタートした。アーノルド・シュワルツェネッガー。
-YGR として多くの人に知られているゴンザレス ロジャースは、その真面目な態度で評判を高めています。
-ハーゲンズ・バーマンのマネージング・パートナーで、1990年代にビッグ・タバコ社の共同主任弁護士を務め、ゴンザレス・ロジャース氏の前でアップルを相手にいくつかの訴訟を起こしたスティーブ・バーマン氏は、「私は彼女をピストルと形容するだろう」と語った。 「もし弁護士が彼女に雄牛を与えても、彼女はただ彼らを追いかけます。」
-ヒューストン出身のゴンザレス・ロジャースは、プリンストン大学で学士課程を修了し、テキサス大学で法学の学位を取得しました。その後、1991 年に法律事務所クーリーに入社し、同事務所初のラテン系アソシエイトとなりました。
-州判事時代に、彼女は当時の上院議員の目に留まった。ダイアン・ファインスタイン、カリフォルニア民主党員。 2023年に亡くなったファインスタイン氏は後にゴンザレス・ロジャースの連邦議会議員への指名をオバマ大統領に推薦した。
-Appleとの歴史
-メタ氏とマスク氏が関与した最近の事件が起きる前、ゴンザレス・ロジャース氏はアップルを支持する人々の間でよく知られていた。
-2012 年に、彼女は App Store に対する初期の反トラスト訴訟である Pepper 対 Apple 事件を継承しました。 iPhoneの所有者らは、Appleが自社ストアのみでアプリを購入することを強制し、同社が30％の手数料を請求し、価格を押し上げることを可能にしていると主張した。ゴンザレス・ロジャース氏は当初この訴訟を却下したが、後に最高裁判所がこの件を取り上げ、消費者が同社を訴えることができるとの判決を下した。
-同じ頃、ゴンザレス・ロジャース氏は、Apple がユーザーによる iTunes 以外のソースからの音楽再生を不当にブロックし、競合他社を締め出したという申し立てに関わる独占禁止法訴訟を監督しました。アップルが勝利した。
-しかし、彼女の最も注目すべきApple裁判は5年前に行われ、Epic Gamesに対する訴訟であった。
-2020年、エピックはフォートナイト内で独自の支払いオプションを有効にし、Appleの支払いシステムとその30％の手数料を回避しました。 iPhoneメーカーがApp Storeからフォートナイトを削除したことを受け、EpicはAppleがアプリの配布方法やiPhoneでの支払い処理方法を違法に管理しているとしてAppleを訴えた。
-2021年の3週間の裁判員裁判の後、ゴンザレス・ロジャースは、エピックがアップルが違法独占者であることを証明できなかったと認定し、ほぼアップル側に立った。同氏はまた、Appleの「アンチステアリング」規則がカリフォルニア州競争法に違反していると判断し、開発者がユーザーを外部の支払いオプションに誘導することを許可するよう同社に命じた。
-しかし、それで終わりではありませんでした。
-ゴンザレス・ロジャース氏は昨年、アップルが意図的に差し止め命令に違反したと述べ、同社の財務担当副社長が、同社がアップストアに関連する一部の購入に27％の手数料を課すことを決定した時期について法廷で「あからさまに嘘をついた」と裁判所への提出書類に書いた。
-ロジャーズ氏は、「アップルもその弁護士も、今や明らかな嘘を正さなかった」と書き、アップルが「この法廷で嘘と虚偽の陳述を採用した」と考えていると述べた。
-ロジャーズ氏は、刑事侮辱訴訟を起こすかどうか調査するためにこの問題を米国の弁護士に付託したが、訴追は行われなかった。
-マスク対アルトマン
-今年初め、マスク氏とアルトマン氏が長年にわたる確執を法廷に持ち込んだため、ゴンザレス・ロジャース氏が再び注目を浴びた。
-2024年、マスク氏はアルトマン氏、OpenAI氏、同じく共同創設者のグレッグ・ブロックマン氏を「慈善活動を盗んだ」として告訴した。 3週間の裁判の後、諮問陪審は、2015年に非営利団体としてOpenAIを設立するのに貢献したマスク氏の訴訟提起が間に合わなかったとの判決を下し、マスク氏の主張は解決されないまま訴訟は終了した。
-マスク氏は評決を「技術的問題」と呼び、控訴すると明言したが、ゴンザレス・ロジャース氏は裁判を終えるにあたり、「陪審の判断を裏付ける相当量の証拠がある」と述べた。
-ゴンザレス・ロジャース氏の広報担当者はＣＮＢＣに対し、判事が陪審員に対し、最高裁判所の書店から、その功績に対する署名入りの感謝状を添えたポケット憲法を陪審員に手渡した、と語った。
-マスク対アルトマンの事件と同様に、州議会がメタと対戦する際、ゴンザレス・ロジャースが裁判員裁判を主宰している。諮問陪審は証拠を審理して評決を下すことになるが、決定には法的拘束力はなく、ゴンザレス・ロジャース氏が最終決定権を保持する。
-デュケイン大学の法学教授で民事訴訟の専門家スティーブン・バイカー・マッキー氏はCNBCに対し、諮問陪審は法廷裁判の追加に相当すると語った。
-「助言陪審が設置されるのは、当事者が陪審を受ける権利を持たない場合のみであり、裁判官は独自に問題を決定できる」とバイカーマッキー氏は述べた。 「諮問陪審は、裁判官が特定の出来事や特定の行為についてコミュニティがどのように感じているかを判断することを可能にします。」
-ゴンザレス・ロジャースは裁判所への提出書類で次のように説明している。
-「この問題で起こっている問題は、関係する州全体の国民の日常生活に影響を与えている」と彼女は書いた。 「したがって、裁判所は、『地域社会の基準』を求めるために諮問陪審を招集することが賢明であると判断する。」
-ゴンザレス・ロジャースの最終的な決断が及ぼす潜在的な影響に関して言えば、これは彼女にとってこれまでで最も重要な事件になる可能性がある。
-メタ社は、各州の訴訟による潜在的な罰金は1兆4000億ドルに達する可能性があると見積もっているが、ボンタ氏は各州はそれほど多くを要求していないとしている。
-メタの最大の関心事はお金ではない。
-各州は、メタ社が脆弱性を認識していたにもかかわらず、若いユーザーをアプリに引き付けるために、無限スクロール、自動再生、いいね、プッシュ通知、コンテンツの消失などの機能を意図的に使用したと主張している。彼らはまた、Metaが親の同意なしに子供から情報を収集し、そのプラットフォームのリスクについて一般大衆を誤解させたとして非難している。メタ氏はこの主張を否定した。
-ボンタ氏とコロラド州、ニュージャージー州、ケンタッキー州のAGはこの試験を共同主導しており、メタ社にFacebookとInstagramの若いユーザー向け機能の設計と運用方法の変更を強いる可能性のあるアルゴリズムの変更を求めている29のAGからなる超党派のグループを代表している。 Meta は自社のアルゴリズムに依存してターゲティング広告を行っており、広告が収益の 98% を占め、同社が AI に多額の投資を行っているため、成長の重要な源泉となっています。
-冒頭弁論は火曜日に始まり、ボンタ被告は初日後記者団に対し、裁判は「民事罰、賠償、歪曲」が中心であり、主に金銭が争点ではないことを思い出させた。
-ゴンザレス・ロジャースの法廷での裁判は6〜7週間続くと予想されている。これは、より大きな司法任務の中心となるものである。
-ゴンザレス・ロジャース氏は、子どもや十代の若者たちへの危害を巡るメタ、TikTok、Snap、YouTubeに対する係争中の約3,000件の訴訟を統合する、広範な多地区訴訟を監督している。
-「彼女はとても賢いので、難しい事件でもうまくやっていけると思います」とバーマン氏は語った。 「勝てなかった訴訟で私はいつも彼女に同意するわけではありません。しかし、彼女が賢明であることは知っています。」
-— CNBC の Jonathan Vanian、Lora Kolodny、Kif Leswing がこのレポートに貢献しました。
-注目: メタはこれまでで最大の試練に直面しており、その将来は危機に瀕している`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-    publishedAt: "2026-08-22T12:12:03+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "warren-buffett-watch-it-s-buffett-not-ab-5624611f",
-    title: "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
-    titleJa: "ウォーレン・バフェット・ウォッチ：株の決定権を握っているのはエイベルではなくバフェットだ",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Buffett, not Abel, appears to still be calling the shots on stocks
-Two weeks ago, Berkshire Hathaway reported its huge cash reserves declined by billions of dollars during the second quarter, the first significant drop since early 2022.
-It appeared to many, including me, that Greg Abel was making his mark as the company's new CEO by putting a "big chunk of Berkshire's cash to work."
-In the wake of last week's disclosure of exactly what it had in its equity portfolio as of June 30, it now looks like it's more complicated than that.
-Barron's Andrew Bary makes the case that Abel hasn't been involved in stock calls at all and its Warren Buffett who "still likes making big investment decisions involving Berkshire's $350 billion-plus equity portfolio—and letting Berkshire holders know that he's still in the game" as he approaches his 96th birthday.
-While Buffett was careful to note he often talks with Abel, and neither would do anything the other didn't approve of, he revealed in a CNBC interview last month he had "initiated" Berkshire's Alphabet investment.
-That stock first appeared in the portfolio in last year's third quarter.
-Bloomberg News reported that Berkshire's Q2 purchase of $10 billion in Alphabet shares directly from the company came after Abel gave a "rapid signoff" to the deal in response to a "stealthy weekend call" to Berkshire from Goldman Sachs, the firm putting together Alphabet's enormous equity offering.
-Presumably, Buffett also gave his OK.
-Bary believes the second largest purchase in Q2, Delta Air Lines, was the work of portfolio manager Ted Weschler.
-He notes Abel has "no formal portfolio management experience and doesn't appear to be making any notable stock-picking decisions" while "he has his hands full" running Berkshire's many operating companies and looking for new ones to buy.
-Abel has been spending some of Berkshire's cash with his $6.8 billion acquisition of Taylor Morrison Home, although it didn't close until after Q2 ended.
-Close race for third place in Berkshire's portfolio
-The roughly $17 billion increase in Berkshire Hathaway's Alphabet stake during the second quarter made Google's parent the third largest holding in the company's equity portfolio, displacing Coca-Cola in that slot.
-As of June 30, the end of the quarter, the Alphabet shares had a market value of $37.77 billion, $5.26 billion ahead of Coca-Cola's $32.51 billion.
-Since then, however, Alphabet shares have dropped by 3.5% while Coca-Cola has rallied by 12.1%.
-As a result, as of Friday's close, Alphabet's lead is just a razor-thin $20 million.
-On two days, July 30 and August 20, Coca-Cola topped Alphabet by slim margins at the close.
-Appeals court rejects bid to toss real estate commissions settlement
-A federal appeals court in St. Louis is upholding the 2024 settlement of a class action antitrust suit against Berkshire Hathaway subsidiary HomeServices of America and the National Association of Realtors, Reuters reports.
-HomeServices agreed to pay $250 million of a more than $1 billion settlement to resolve claims that long-standing rules over the splitting of real estate commissions kept them artificially high.
-As part of the settlement, the NAR agreed to revise those rules.
-Some of the plaintiffs, however, think they were short-changed and went to court to block the deal.
-This week's ruling by the 8th U.S. Circuit Court of Appeals backs a lower court's approval of the settlement.
-A lawyer for some of the objectors tells Reuters they may ask the Supreme Court to review the case. "Everyone got next to nothing for the sake of settling. There's something just not right about that."
-The settlement came after a 2023 jury trial found the defendants liable for $1.78 billion in damages. That award could have been tripled under U.S. antitrust law.
-HomeServices CEO Chris Kelly is quoted as saying this week's court win provides "additional certainty" to the company, its agents, and its customers.
-The unit's parent, Berkshire Hathaway Energy, still faces a separate proposed antitrust class action suit over real estate commissions after a judge ruled last April that it is not covered by the HomeServices settlement.
-When BHE was targeted two years ago, a lawyer for plaintiffs told The New York Times, "Berkshire Hathaway is the leader of the pack. It's much bigger than N.A.R... If you want to bring about change in corporate America, hit them in the pocketbook. And that's exactly where this is aimed."
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Investor's Business Daily: Warren Buffett's Portfolio Is Looking Even More Like The Dow Jones Index. This Is Why.
-- MarketWatch on Morningstar: Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn't follow suit.
-- Business Insider on MSN: Elon Musk finally has Warren Buffett as a shareholder — sort of
-- Bloomberg's Masters in Business video podcast: Learning from Buffett and Munger
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-'We look at what the market says is the utility' (1994)
-Warren Buffett weighs in on how he judges a product's usefulness when he considers acquiring its maker.
-AUDIENCE MEMBER: I'm wondering, when you are considering an acquisition, how you look at the usefulness of the product?
-WARREN BUFFETT: Well, obviously we look at what the market says is the utility. And the market has voted very heavily for Dexter Shoe, just to be an example.
-I don't know many how many pairs of shoes they were turning out back in 1958 or thereabouts, but year after year, people have essentially voted for the utility of that product.
-There are 750 million or so 8-ounce servings of one product or another from the Coca-Cola Company consumed every day around the world. And there are those of us who think the utility is very high. I can't make it through the day without a few. But there are other people that might rate it differently.
-But essentially, people are going to get thirsty and if this is the way they take care of their thirst better than — and they prefer that to other forms — then I would rate the utility high of the product. But, I think it's hard to argue with the market on that.
-I mean, people — some people may think that, you know, listening to a rock concert is not something of high utility. Other people might think it's terrific.
-And so, we would judge that — I don't think we would come to an independent decision that there was some great utility residing in some product that had been available to the public for a long time, but that the public and not endorsed in any way.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $743,500.00
-BRK.B stock price: $495.82
-BRK.B P/E (TTM): 12.47
-Berkshire market capitalization: $1,061,294,568,527
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-(All figures are as of the date of publication, unless otherwise indicated)
-BERKSHIRE'S TOP EQUITY HOLDINGS - Aug. 21, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of August 28, 2025
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@nbcuni.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(これはウォーレン・バフェット・ウォッチのニュースレター、ウォーレン・バフェットとバークシャー・ハサウェイに関するニュースと分析です。ここからサインアップすると、毎週金曜日の夜に受信箱で受け取ることができます。)
-エイベルではなくバフェットが依然として株の決定権を握っているようだ
-2週間前、バークシャー・ハサウェイは第2四半期に巨額の現金準備金が数十億ドル減少し、2022年初頭以来初めての大幅な減少となったと報告した。
-私を含む多くの人々には、グレッグ・エイベル氏が「バークシャーの多額の資金」を投入して同社の新CEOとして名を上げているように見えた。
-先週、6月30日時点での株式ポートフォリオの内容が正確に開示されたことを受けて、現在ではそれがさらに複雑になっているようだ。
-本誌のアンドリュー・バリー氏は、エイベル氏は株式コールには全く関与しておらず、96歳の誕生日を迎える今でも「バークシャーの3,500億ドルを超える株式ポートフォリオに関わる大きな投資決定を下すこと、そしてバークシャーの保有者に自分がまだゲームに参加していることを知らせることを今でも好んでいる」ウォーレン・バフェット氏について主張している。
-バフェット氏はエイベル氏と頻繁に話しており、お互いが認めないことは何もしないことに注意していたものの、先月のCNBCインタビューでバークシャーのアルファベットへの投資を「始めた」ことを明らかにした。
-この銘柄がポートフォリオに初めて登場したのは昨年の第3四半期だった。
-ブルームバーグ・ニュースは、バークシャーが第2四半期にアルファベット株100億ドルを同社から直接購入したのは、アルファベットの巨額株式の売り出しをまとめているゴールドマン・サックスからのバークシャーへの「週末の内密電話」に応じて、アベルが取引に「迅速な承認」を与えた後に行われたと報じた。
-おそらくバフェット氏もOKを出したのだろう。
-バリー氏は、第2四半期に2番目に大きな買収となったデルタ航空は、ポートフォリオマネージャーのテッド・ウェシュラー氏の仕業だと考えている。
-同氏は、アーベル氏には「正式なポートフォリオ管理の経験がなく、特に注目すべき銘柄選択の意思決定もしていないようだ」一方、バークシャーの多くの事業会社を経営し、新たに買収する事業会社を探すことに「手一杯」だと指摘した。
-アベル氏はテイラー・モリソン・ホームの68億ドルの買収にバークシャーの現金の一部を費やしてきたが、買収は第2四半期終了後まで完了しなかった。
-バークシャーのポートフォリオにおける3位争いは接戦
-第2四半期にバークシャー・ハサウェイのアルファベット株が約170億ドル増加したことにより、グーグルの親会社は同社の株式ポートフォリオにおいてコカ・コーラに代わって3番目に大きな保有株となった。
-同四半期末の6月30日時点で、アルファベット株の時価総額は377億7000万ドルで、コカ・コーラの325億1000万ドルを52億6000万ドル上回っている。
-しかしそれ以来、アルファベット株は3.5％下落し、コカ・コーラは12.1％上昇した。
-その結果、金曜日の取引終了時点で、アルファベットとの差はわずか2,000万ドルとなった。
-7月30日と8月20日の2日間、コカ・コーラは終値時点で僅差でアルファベットを上回った。
-控訴裁判所、不動産仲介手数料和解案を却下
-ロイター通信の報道によると、セントルイスの連邦控訴裁判所は、バークシャー・ハサウェイの子会社ホームサービス・オブ・アメリカと全米不動産業者協会に対する独占禁止法集団訴訟の2024年の和解を支持している。
-ホームサービス社は、不動産手数料の分割に関する長年の規則により人為的に高額な手数料が維持されていたという主張を解決するため、10億ドルを超える和解金のうち2億5000万ドルを支払うことに同意した。
-和解の一環として、NARはこれらの規則を改訂することに同意した。
-しかし、原告の中には、自分たちが急遽変更したため、取引を阻止するために法廷に訴えたものと考えている人もいる。
-第8連邦巡回控訴裁判所による今週の判決は、下級裁判所による和解承認を支持するものとなった。
-一部の反対派の弁護士はロイターに対し、最高裁判所に事件の再検討を求める可能性があると語った。 「誰もが、落ち着くためにほとんど何も得られませんでした。そこには何かが間違っています。」
-この和解は、2023年の陪審裁判で被告が17億8000万ドルの損害賠償責任を負っているとの判決を受けた後に行われた。米国の反トラスト法に基づき、その賞金は3倍になる可能性があった。
-HomeServicesの最高経営責任者（CEO）クリス・ケリー氏は、今週の法廷勝利により同社、代理店、顧客に「さらなる確実性」がもたらされたと述べたと伝えられている。
-同部門の親会社であるバークシャー・ハサウェイ・エナジーは、昨年4月に裁判官がホームサービス社との和解の対象外であるとの判決を下した後、不動産手数料を巡る別の独占禁止法集団訴訟案に依然として直面している。
-2年前にBHEが標的となったとき、原告側の弁護士はニューヨーク・タイムズに対し、「バークシャー・ハサウェイは集団のリーダーだ。N.A.Rよりもはるかに大きい…アメリカの企業に変化をもたらしたいなら、彼らを叩きのめすべきだ。そしてまさにそれが今回の狙いだ」と語った。
-インターネット上のバフェットとバークシャー
-一部のリンクには購読が必要な場合があります。
-- Investor's Business Daily: ウォーレン・バフェット氏のポートフォリオはダウ・ジョーンズ指数にさらに似てきています。これが理由です。
-- モーニングスターのマーケットウォッチ：バークシャー・ハサウェイは米国の住宅市場に大きく賭けた。おそらく追従すべきではありません。
-- MSN の Business Insider: イーロン・マスクはついにウォーレン・バフェットを株主として迎える - ある種のこと
-- ブルームバーグのビジネス修士ビデオ ポッドキャスト: バフェットとマンガーから学ぶ
-CNBC のバフェット アーカイブのハイライト
-「私たちは市場が効用と言っているものに注目します」 (1994)
-ウォーレン・バフェット氏は、メーカーの買収を検討する際に、製品の有用性をどのように判断するかについて意見を述べています。
-聴衆: 買収を検討する際、製品の有用性をどのように検討するのかと思いますか?
-ウォーレン・バフェット: そうですね、明らかに私たちは市場が言う効用を重視しています。そして、ほんの一例ですが、市場はデクスターシューに非常に多くの票を投じています。
-1958 年頃、彼らが何足の靴を生産していたのかは知りませんが、毎年、人々は基本的にその製品の有用性に投票しています。
-コカ・コーラ社のさまざまな製品の 8 オンス サービングが毎日、世界中で 7 億 5,000 万杯ほど消費されています。そして、その有用性は非常に高いと考える人もいます。いくつかないと一日を乗り切ることができません。しかし、別の評価をする人もいるかもしれません。
-しかし本質的に、人は喉が渇くものであり、これが他の方法よりも喉の渇きをうまく処理する方法であるなら、そして他の方法よりもそれを好むのであれば、私はこの製品の有用性を高く評価するでしょう。しかし、それについて市場と議論するのは難しいと思います。
-つまり、ロック コンサートを聴くことは、それほど有用なことではないと考える人もいるかもしれません。他の人はそれがすごいと思うかもしれない。
-したがって、私たちは次のように判断します。長い間一般に公開されてきた製品には、何らかの大きな有用性が存在するものの、一般には決して支持されていないという独自の決定に達するとは思いません。
-バークシャー株式時計
-4週間
-12ヶ月
-BRK.A 株価: $743,500.00
-BRK.Bの株価：495.82ドル
-BRK.B PER (TTM): 12.47
-バークシャーの時価総額: 1,061,294,568,527ドル
-6月30日時点のバークシャーキャッシュ：3,655億ドル（3月31日比8.0％減）
-鉄道現金と未払国庫短期証券を除く: 3,592 億ドル (3 月 31 日から 3.8% 減)
-バークシャーは2026年第2四半期に45億ドルの自社株を買い戻した。
-（特に断りのない限り、すべての数値は発行日現在のものです）
-バークシャーのトップ株式保有 - 2026 年 8 月 21 日
-最新の終値に基づいた、米国および日本の公開株式の時価ベースでのバークシャーの保有高上位。
-保有資産は、2026年8月14日のバークシャー・ハサウェイの13F申請書で報告されているように、2026年6月30日現在である。ただし、以下の場合を除く。
-- 三菱、2025 年 8 月 28 日現在
-保有銘柄と現在の市場価値の完全なリストは、CNBC.com のバークシャー・ハサウェイ ポートフォリオ トラッカーから入手できます。
-質問またはコメント
-ニュースレターに関するご質問やご意見は、alex.crippen@nbcuni.com までお送りください。 (申し訳ありませんが、バフェット氏自身に質問やコメントを転送することはありません。)
-このニュースレターをまだ購読していない場合は、ここから登録できます。
-また、バフェット氏が株主に宛てた年次書簡も強くお勧めします。ここバークシャーのウェブサイトに集められています。
--- アレックス・クリッペン、ウォーレン・バフェット・ウォッチ編集者`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
-    publishedAt: "2026-08-22T12:06:37+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
   },
 ];
 
