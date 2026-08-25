@@ -15,6 +15,417 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "how-canada-could-hit-back-to-hurt-the-us-0b890c5c",
+    title: "How Canada could hit back to hurt the US economy - and Trump",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `How Canada could hit back to hurt the US economy - and Trump
+- Published
+What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute with its southern neighbour, who also happens to be the world's largest economy?
+Canada is the top customer for 26 US states, including Maine, Michigan, and Wisconsin. And it is in the top three for 45 of the 50 American states, suggesting Prime Minister Mark Carney has room to manoeuvre in a trade fight.
+For now, Carney's planned Canadian retaliatory duties are strategic "dollar-for-dollar" countermeasures focused on steel, dairy, appliances, agricultural equipment, electronics, pulp and paper - though the list is still being finalised.
+Polls suggest a majority of Canadians would be unhappy if his government went in the other direction and made significant concessions to the US. That sentiment is shared by Ontario Premier Doug Ford, one of Trump's most vocal critics north of the border, who responded to the tariff threats by telling the US president to "kiss my ass".
+Here are some areas that Canada can apply economic pressure.
+Energy and critical minerals
+Carney noted on Saturday that Canada supplies the vast majority of US natural gas and electricity imports and about 60% of crude oil imports.
+"I don't think they want us to stop sending any of that energy," he said.
+Squeezing the US on energy is not in the current countermeasures, although various political officials have said explicitly it wasn't ruled out - and not all provincial premiers have been keen to use that leverage.
+Ford, whose Ontario province is home to Canada's auto manufacturing industry, is open to how far the dispute could go and said that an "energy surcharge is on the table".
+He briefly floated a 25% surcharge in 2025 on all electricity exports to the United States, which his government estimated would have impacted 1.5 million homes and businesses in Michigan, Minnesota and New York.
+The country is also a major source of important commodities including potash - a product in fertiliser for which Canada is the world's top supplier.
+"I'd love to see [Trump] run cars without any oil. I'll love to see him grow vegetables and fruit without the potash," Ford said on Monday. "President Trump underestimates us, and that's the biggest mistake."
+Canada also has significant reserves of critical minerals like lithium, nickel and graphite.
+The US is Canada's top destination for overall mineral exports, another point where Ottawa could apply pressure.
+Ford here also took the lead, saying in an interview with the Associated Press that the US "won't get a grain of sand out of Ontario".
+Purchasing power
+Canada has already proven that it can cause economic pain in the US.
+Even before trade talks broke down, a decision by most provinces to ban US alcohol from liquor store shelves - in response to the first wave of US tariffs early last year - dealt a devastating blow to that industry in the US.
+American wine had a significant collapse in exports, one the Wine Institute called the "most significant market disruption in decades".
+US wine exports to Canada fell 78% year over year, a $357m (C$494m; £261m) loss in export value, according to government data. The distillers association reported similar numbers - saying provincial bans have caused exports of American spirits to drop by more than 70%.
+That boycott remains in place in 11 of the 13 Canadian provinces and territories. The ban is a point of significant frustration for the Trump administration.
+While that alcohol boycott has been put in place by political leaders, there are also grassroots decisions by many Canadians that have hurt their neighbour's economy - such as avoiding travel to the US.
+Even with a slight uptick in road trips to the US in April, Canadians made 800,000 fewer trips that month compared to the same time in 2024, before Trump returned to office, according to national data.
+The travel boycott has meant a loss of about C$3.3bn ($2.35bn; £1.75bn) in revenue for the US last year. Some American cities and states have appealed for Canadians to return through targeted advertisements and special deals.
+'Half my business will be gone' - firms in Canada and US fear trade war
+- Published15 hours ago
+Carney faces crucial test after walking away from Trump's deal
+- Published2 days ago
+Political pressure
+Timing and Canadian political will could also be a tool for negotiations.
+Canadians know they will feel economic pain in this dispute - financial analysists estimated the most recent tariffs of 50% on about $20bn of Canadian imports could trim between 0.3% to 0.6% off the country's GDP in the short term.
+Still, a majority in the country broadly back Ottawa's decision to drive a hard bargain against the Trump administration, and other Canadian political leaders have shown a united front.
+A weekend poll from Angus Reid indicated that some 76% of Canadians support Ottawa's decision to walk away from trade negotiations even as they worry for their own job security.
+The US midterm elections are fast approaching, with the economy front and centre for voters and the Republican hold on Congress looking tenuous.
+Two of the biggest Senate races are in Michigan and Maine, which both border Canada and send most of their exports there.
+The Yale Budget Lab calculates that under current law, Trump's global tariffs will cost American households about $1,100 annually.
+Any further increase in the costs of goods and the wider impact of the trade dispute on businesses could further sour the American public on the economy.
+On Monday, Carney said that US workers will be hurt by Trump's most recent threat to increase tariff on autos and auto parts from Canada to 50% after 1 January.
+"What is the message sent out to the workers in Michigan, Ohio, Kentucky, Alabama? These workers depend absolutely on Canada, their largest consumer," he said, adding that Canada buys more American cars than the EU and other countries.
+On CNN on Monday, British Columbia Premier David Eby noted US consumers will see the impact of the US tariffs in any number of goods.
+"If you're building a new home, on plywood, if you're replacing your floor, on veneers, if you're getting married, on cut flowers, if you're going out fishing, on fishing poles," he said.
+"It is a bizarre policy for Americans. It's going to hurt them."
+Ford, one of the most vocal Canadian leaders opposing the Trump administration's tariffs, also did not rule out specifically targeting Republican US states with retaliatory measures and "making sure America's economy feels the pain".
+As for the coming midterms, Ford said: "If I were allowed to, I'd be down there door-knocking".`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T00:40:06+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+    readTime: 2,
+  },
+  {
+    id: "70-000-social-and-affordable-homes-to-be-8f656b2c",
+    title: "70,000 social and affordable homes to be built across England as part of £39bn plan",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `70,000 social and affordable homes to be built across England as part of £39bn plan
+- Published
+Ministers have announced where 70,000 social and affordable homes will be built in England over the next 10 years, in a bid to address the housing crisis.
+Funding has been granted to Greater Manchester, the West Midlands, West Yorkshire, South Yorkshire, North East England, and Liverpool, as well as £6bn for London.
+It is the first part of a wider plan to build 300,000 social and affordable homes across the nation, under the government's £39bn social housebuilding programme.
+Housing charities welcomed the news but said it was still not enough to meet demand, while the Conservatives said it was an "unfunded spending commitment".
+Of the new homes announced on Monday, 60% would be for social rent - which means the cost of the unit is about half that of market rents and there are strict criteria for who can apply for it.
+Prime Minister Andy Burnham said: "No child should be raised in a hostel room and no family should wait 10 years for a front door of their own. I have said from my first day in this job that everything starts with a good home."
+Earlier this year, before he became prime minister, Burnham had called for the entire 10-year £39bn affordable housing budget for England to be spent on homes for social rent.
+Under Labour, homeless figures have continued to rise to record levels.
+Data released earlier this month suggested 177,530 children were homeless in temporary accommodation.
+Natasha, who has been living in a hotel in Milton Keynes for the last four months with her son Zayd, is one of those waiting for a permanent home.
+The 22-year-old spent the final months of her pregnancy and the first weeks of her son's life living in a hotel.
+She says she has no idea how long she will be expected to stay there but was told it would only be temporary.
+"I'm just scared when he gets older, when he starts crawling around, I can't even allow him to crawl in such a place like that because it's so dirty," she says.
+While pregnant, Natasha says her room became infested with ants, which she repeatedly reported before eventually being moved into another room.
+But her problems didn't end there.
+While Natasha has her own bathroom, she shares a kitchen with around 60 other residents. She says the hotel is home to a mix of people, not just mothers and babies, and that she does not always feel safe using the shared space with Zayd.
+Natasha describes living there as feeling "like a prison". She says visitors are not allowed, meaning friends and family can not come to help her with her five-week-old boy.
+"I just want somewhere peaceful for him and calm. Somewhere nice where I can bring him up," she says.
+She is one of the 1.34 million households on social housing waiting lists as of March 2025, the latest government figures.
+London will see the largest share of funding, although no figure has been given for how many homes will be built in the capital.
+Ministers said Monday's allocation was the first stage of the 10-year programme and more than £16bn remains to be allocated outside London.
+Housing Secretary Angela Rayner suggested some of the new homes will be built by councils, saying she and the prime minister were "doing everything we can to get councils building once again".
+Burnham had previously promised "the biggest council house building programme since the post-war period", and the government said millions extra would be given to councils to support their housebuilding plans and help with expertise.
+But the announcement stops short of clarifying how the funding will be split between council homes and those provided by housing associations.
+In the 1950s, councils were building almost 200,000 new council homes a year, but half of councils do not currently own or build their own homes.
+In 2024-25, there were just over 12,000 homes built for social rent - the highest since 2013 -14, but organisations like the National Housing Federation and homeless charities have previously agreed that at least 90,000 social homes would need to be built each year to meet demand.
+Social housing provides affordable homes at a low cost, managed by social landlords. It includes affordable rented properties as well as low-cost home ownership, such as shared ownership, and can be provided by local authorities and housing associations.
+Charlie Berry, policy manager at housing charity Shelter, said the announcement was "not near the level we need to truly tackle that backlog and end homelessness".
+But she said it was a "significant improvement", and added she would "love" Rayner to commit to a target of how many socially rented homes will be built annually.
+As well as promise and funding to build more social homes, the Labour government pledged to build 1.5 million homes by 2029.
+Despite statements like "build, baby, build", coined by former housing secretary Steve Reed, so far Labour is not on track to meet that target.
+BBC Verify has been tracking the target using government statistics on the number of Energy Performance Certificates (EPC) issued by each local authority. Each newly created dwelling must have an EPC by law, making it the most timely indicator of new homes being built.
+The latest EPC data suggests about 203,000 new homes were delivered in England in the 12 months ending June 2026. To reach the government's target of 1.5 million homes over five years, there would need to be at least 300,000.
+Conservative shadow housing secretary Sir James Cleverly described the announcement as "sleight of hand", saying: "The small print shows homes won't have to be delivered until 2039."
+He said: "Fewer homes will be delivered than previous programmes in this Parliament as social rent is more expensive. Labour have scaled back their affordable housing programme and expect us to thank them for it."
+The Conservatives have said they would end the provision of social housing for foreign nationals in England if they win power at the next election which they estimated would "free up" 228,144 homes for "British families". On Monday, Reform announced similar plans to prioritise British-born workers under 35 when allocating social housing if it were to enter government.
+Shelter said there were "already strict rules on who can access social housing" and neither plan addressed the underlying cause of the problems.
+Related topics
+- Published23 February
+- Published10 February
+- Published13 hours ago`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T00:32:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg",
+    readTime: 2,
+  },
+  {
+    id: "us-canada-trade-war-escalates-as-trump-t-bfd4a7d4",
+    title: "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate
+- Published
+President Donald Trump has threatened to hike US tariffs on automobiles originating in Canada, as the trade war between the two neighbours continues to heat up.
+Trump said on Monday that he will increase tariffs on Canadian cars and trucks, as well as auto parts, from 25% to 50% as of 1 January.
+It comes after US-Canada trade talks collapsed late last week, with each side accusing the other of making unreasonable last-minute demands.
+Prime Minister Mark Carney called Trump's latest levy threat unsurprising and accused the president of wanting to destroy Canada's auto industry. He added that Canada is ready to resume talks if the US comes with the "right attitude".
+The war of words followed several US and Canadian officials saying that talks are suspended with no set date to resume.
+Canada walked away from trade negotiations late Friday night, moments before a US-imposed deadline that would add a 50% levy on nearly $20bn (C$28bn; £14bn) of Canadian imports.
+The collapse in talks marked a significant change in tone from earlier in the week, when both sides appeared optimistic that a new US-Canada trade deal could be reached.
+Canadian officials have said the US introduced last-minute demands that were "unacceptable", including a clause limiting which countries Canada could sign trade deals with.
+US officials, meanwhile, said it was Canada that introduced last-minute changes.
+"They wanted more," US Trade Representative Jamieson Greer said in an interview with CNBC on Monday.
+The breakdown led to growing tensions as both sides publicly dug in their heels.
+On Monday, Trump's tariff threats to Canada's auto industry followed Carney declaring the country would counter his levies with reciprocal tariffs on US goods "dollar for dollar".
+Carney said he was focused on supporting Canadian businesses impacted by new 50% US tariffs after the Friday deadline expired, as well as building infrastructure to diversify Canada's trade, which historically has relied heavily on the US.
+Carney announced funding of C$11bn ($7.95bn; £5.83bn) to build six icebreakers at a Quebec shipyard for the Canadian Coast Guard that will replace its medium and heavy ageing fleet.
+The icebreakers will be used to open winter shipping routes through Canada's northern and Atlantic waters.
+Meanwhile, Ontario's outspoken premier, Doug Ford, whose province is home to Canada's auto manufacturing industry, responded to Trump's tariffs and threats by telling the US president to "kiss my ass".
+Ford also suggested that Canada should charge the US extra for its oil and gas, as well as electricity and critical minerals, adding that he will be speaking to Carney on ways to "fight back".
+His comments appeared to catch the attention of Trump, who in a Truth Social post accused Ford of "bluster" and wrote: "Someone should get these clowns to 'fall in line' or, the consequences for Canada will be far WORSE!".
+Canada accounts for 60% of total US crude oil imports and close to 100% of US natural gas exports, according to Canadian government data.
+Businesses on both sides have warned that they stand to be hurt by the new wave of US tariffs on Canada, as well as the retaliatory tariffs that Canada plans to impose on 8 September.
+In Portland, Oregon, Mike Roach and Kim Osgood, owners of Paloma Clothing say the price of one of their best-selling items - specially designed pillows made in Canada - could shoot up by around 50% to $90. For now, they are holding out on keeping the prices steady, hoping that the "tariff problem" is worked out soon, said Roach.
+"It would be one thing if we had three months' notice - that would be something you could plan around, do some work with the vendors," he said. "But when it happens literally overnight you're really stuck."
+The rapidly escalating trade war is also raising questions about the other country in North America - Mexico - and the trade pact between the three neighbours known as the USMCA.
+Both Canada and Mexico have said they want the USMCA extended for another 16 years, but the US has said it will not renew in its current form. The pact underpins $1.6tn in North American Trade.
+Escalating trade tensions mean "the risk of the USMCA unravelling has increased", experts from the Oxford Economics forecasting firm warned on Monday. That, in turn, "would plunge Canada into recession and leave it on a permanently lower growth path".
+Additional reporting by Ana Faguy.
+Related topics
+- Published15 hours ago
+- Published2 days ago`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T00:25:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg",
+    readTime: 2,
+  },
+  {
+    id: "paramount-ceo-david-ellison-is-at-the-fi-b47dd56a",
+    title: "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `David Ellison — the founder of a film production company and son of billionaire Larry Ellison — has been at the helm of Paramount Skydance for just over a year. He's been fighting to acquire Warner Bros. Discovery for nearly as long.
+The latest roadblock in his path, a group of state attorneys general seeking to stop the deal, may be his toughest yet. The antitrust hurdle and related delay have left the CEO hunting for avenues to get the deal done.
+The delay in closing Paramount's acquisition of WBD could add hefty costs on top of the $110 billion proposed price tag at a time when media companies across the landscape are under intense pressure.
+Yet, with a trial in the antitrust case set for March, Ellison has never felt more confident that the deal not only makes sense, but will get completed, according to a person familiar with his thinking, who asked to remain unnamed to speak candidly.
+"The company believes strongly in this," Paramount's lead trial attorney Jeffrey Kessler said on CNBC in July, adding the company was prepared to bring the matter to the Supreme Court if necessary.
+Still, Ellison appears to be making little ground with California Attorney General Rob Bonta, who is leading the states' charge in court. Both sides have said they are eager to make amends outside of the courtroom.
+"I think the whole issue there is, will the state AGs be interested in settling, and I'm not quite sure there's any real incentive for them to settle given the fact the California home constituency here is overwhelmingly against the transaction," said Tom Rogers, a media veteran who's currently senior advisor to Versant Media Group and executive chairman of AI film and TV production company Fountain 0.
+A Paramount spokesperson declined to comment for this article.
+The final threat
+Ellison's pursuit of WBD began last September with three unsolicited bids to take over the storied entertainment company, which includes the legendary film studio, a portfolio of pay TV networks and the HBO Max streaming business.
+Ellison's interest ultimately spurred a formal sale process that superseded a plan by WBD to split in two. When Warner Bros. Discovery crowned Netflix the bidding war winner, Ellison went hostile and promised WBD shareholders a premium.
+In February, Netflix abandoned its pending transaction and Paramount entered into an agreement to buy the entirety of WBD. The deal has won approval from all global regulators, including the Antitrust Division of the U.S. Department of Justice.
+That leaves Bonta and the other 11 suing states as the final threat to Ellison's long-sought-after acquisition.
+Bonta has said his aim is in part to take up the baton where he feels President Donald Trump's administration has fallen short on regulation. He has said Trump has gotten "involved improperly" in other merger situations.
+Meanwhile, the Ellison family's ties to Trump have drawn criticism. Larry Ellison is a longtime supporter of Trump, and the president has said publicly he'd like to see Warner Bros. Discovery's CNN land in Paramount's hands.
+When speculation began in the spring that a group of states would seek to challenge the merger — putting particular focus on two segments of the combination: their extensive portfolios of pay TV networks and powerhouse film studios — Ellison's Paramount immediately began its outreach to Bonta's office, according to the person familiar with the matter. By mid-May the company had sent a list of potential concessions to Bonta, added the person.
+Following a preliminary injunction granted by the California district court, which paused any movement on the deal for 14 days, Paramount said it was willing to officially delay the deal and move to a trial to fight its case for the merger.
+However, the March trial date was later than company executives had hoped for, according to two people familiar with the matter.
+In the ensuing weeks, Paramount went on the offensive.
+Paramount's playbook
+Shortly after the lawsuit hit in mid-July, Ellison took his argument for the deal public, writing a New York Times op-ed. That piece followed others from industry leaders arguing both for and against the merger, expanding the debate beyond legal filings.
+Ellison has also sought to win over Hollywood exhibitors with contracts guaranteeing that a combined Paramount-WBD would release a a minimum 30 films a year with 45-day theatrical windows for a period of at least three years, according to a person familiar with the contracts, who spoke on the condition of anonymity because they were not authorized to speak publicly.
+And, reports surfaced that Paramount was considering relocating its studio and headquarters outside of California in response to Bonta's challenge. One of the people familiar with the matter told CNBC a move to Tennessee was on the table.
+That suggestion largely backfired, with Bonta calling the threat to relocate "blackmail."
+Last Thursday, the California AG said in a CNBC interview that he would be willing to hold talks outside of the courtroom, but that a settlement would require "robust structural remedies."
+The following day a meeting was held at Bonta's office, according to a statement from the government official's spokesperson. While another meeting was slated for Monday, media reports of the meeting and what an eventual settlement could entrail — such as divesting some pay TV networks — led Bonta to call off the discussions, his office said.
+On Monday, a Bonta spokesperson alleged that Paramount was behind the "leak" of the parties' discussions, which it further said were misrepresented, and said it demonstrated a "lack of good faith."
+"As soon as Paramount stops playing games and engages sincerely, my office is happy to meet again," Bonta said.
+Paramount responded later Monday denying it was the source of the leak.
+"We remain hopeful and stand ready to continue good faith discussions to resolve the Attorneys General suit and move forward with our plans for increased competition and increased output to the benefit of the talent and entertainment workers," the company said in a statement.
+Coming to the negotiating table
+While the contents of Paramount's list of concessions — as sent to Bonta's office back in May — remain unclear, they appear to be in contrast to what Bonta and his peers have raised red flags about.
+″[Paramount] wanted to talk about everything except for what this case is about. They want to talk about the streaming market, which we don't allege in our complaint. They want to talk about CNN, which is not a focus of our complaint. They want to talk about the foreign regulators. We want to talk about the three markets that we set forth in our complaint, where we think there's antitrust violation," Bonta said in an interview with David Faber on CNBC last week.
+Paramount has declined to discuss what possible remedies it set forth, with the exception of the commitments it's made to the film industry.
+In a July interview on CNBC, Paramount attorney Kessler said the company had been willing to put in writing that it would commit to 30 films per year, legitimatizing an earlier promise made by Ellison that struck some as unrealistic given Hollywood track records.
+If Paramount were to fall short of that promise, it'd be opening itself up to litigation, Kessler said. That commitment became the underpinning for Paramount's offer to sign contracts with Hollywood exhibitors, at least one of which took the offer, according to the person familiar.
+In recent days, the Wall Street Journal reported the state AGs were seeking a divestiture of some of the pay TV networks included in the merger. The combination of Paramount and WBD would create the biggest portfolio of networks in the industry, and the states have argued that no matter the state of the business, that scale creates outsized power.
+"Whether the market is shrinking or growing is really irrelevant," Bonta said on CNBC last week, adding a combined Paramount-WBD would create a "presumptively illegal market concentration" in film and TV.
+But the ongoing industry challenges — particularly for these two companies — has been the basis for Ellison's push to merge. And it may be a better argument than Bonta would admit.
+Better together
+Industry analysts, experts and insiders have consistently poked holes in the states' argument that the combination of TV networks would create antitrust issues.
+"The merger does create a larger competitor, but size alone is not evidence of market position. Neither company has possessed the scale necessary to compete effectively against much larger global streaming platforms and well-funded technology companies," Bernstein analysts said in a recent note.
+Media companies' most recent earnings reports — including those from WBD and Paramount — once again put on display the ongoing losses for pay TV advertising and distribution revenue streams.
+Paramount's chosen remedy is scale.
+Both companies' portfolios are made up of dozens of TV networks, with Paramount's offering including channels like Nickelodeon, MTV and BET, and WBD owning channels like TNT, CNN, TBS and the Discovery Channel. Paramount also owns the broadcast network CBS.
+"The economics of Pay-TV are being dictated by consumer behavior rather than consolidation. The merger may change the scale of a participant, but it does not change the direction of the industry's secular trajectory," the Bernstein analysts said.
+It's a similar story in streaming and films, where Paramount would similarly combined the two companies portfolios.
+Ellison has said upon completion of the merger, Paramount+ and HBO Max would become one service. And the combined entity would encompass two major film studios. And yet neither company is dominating in either category.
+"The states also argue that the combined company would control approximately 27% of US theatrical releases and roughly 30% of blockbuster film distribution. Those figures are certainly meaningful, but they fall well short of establishing a dominant market position. More importantly, theatrical market share is dependent on annual content slates," the Bernstein analysts wrote.
+Pay TV profits
+Executives at the company believe the rate of pay TV decline is beginning to stabilize.
+"The rate of decline of subscribers is starting to ebb, meaning we're not quite there yet, but an ascent to where we're going to steadily see a base of subscribers, I would say, probably in the mid-30 million range in the country," said Andy Gordon, chief strategy officer and chief operating officer at Paramount, in a recent interview.
+Still, a recent report from S&P Global Ratings notes that while the rate of cord cutting has improved in the U.S., it doesn't see much improvement to leverage for these companies over the next couple of years, meaning media companies won't have as much power in distribution discussions with pay TV operators.
+And in general, despite subscriber losses, these channels are still profitable and often used to fund other parts of media businesses, such as building out streaming services or paying down heavy debt loads.
+Since Warner Bros. and Discovery combined in 2022, the company has been aggressively repaying the debt that largely stemmed from that merger.
+If Paramount's acquisition of WBD were to close, the combined company would have nearly $80 billion in debt.
+Delays past Sept. 30 would only increase the amount of expenses on Paramount's plate as the company becomes responsible for a "ticking fee" due to WBD shareholders. Paramount has requested that the court force the suing states to post a bond of $1.88 billion to cover the fees and costs associated with the delay.
+— CNBC's Sarah Whitten contributed to this report.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+    publishedAt: "2026-08-25T00:05:29+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "main-street-sports-sues-comcast-charter-aebbde3c",
+    title: "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Main Street Sports, the now-defunct owner of a portfolio of regional sports networks, is suing cable companies Comcast and Charter Communications in separate lawsuits for what it alleges are underpaid licensing fees.
+The company that began its winddown earlier this year is alleging that Comcast and Charter — the two largest pay TV providers in the U.S. — breached their contracts and underpaid Main Street in the earlier part of 2026 when its networks were still delivering NBA and NHL games to local markets across the country, according to the lawsuits, which were seen by CNBC.
+The suits were filed in Delaware Superior Court on Monday. Representatives for Comcast and Charter didn't immediately respond to requests for comment.
+Main Street, the entity that originated as Fox Sports networks, has been through a series of owners since 2019, as well as several name changes. The company emerged from bankruptcy protection in early 2025, when its channels took on the name of FanDuel Sports Network. It had about 15 channels, and at one point after its bankruptcy exit aired games for about 30 teams across Major League Baseball, the National Hockey League and the National Basketball Association.
+However, despite touting subscriber growth as recently as the spring, Main Street continued to face liquidity issues when its MLB fees payments were due, CNBC previously reported. The company had long been weighed down by a heavy debt load.
+The issues led to its inevitable winddown. While it aired its final local MLB games in 2025, the company aired the entirety of the NBA regular season, as well as the NHL regular season and first round of playoffs this year.
+Problems have been piling up for regional sports networks as the pay TV bundle continues to bleed subscribers.
+Regional sports networks were once a lucrative business model for teams and leagues, as the channels pay high fees to air local games that trickle down to team payrolls. However the proliferation of cord cutting has led many pay TV distributors to rework their agreements with these channels.
+Even the direct-to-consumer streaming offerings for these networks have been in a state of change. Last month, two of New York's independently owned regional sports networks left their own streaming app for a deal to be distributed by streaming platform DAZN.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+    publishedAt: "2026-08-24T23:48:50+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "trump-says-u-s-will-hike-canada-auto-tar-f669d483",
+    title: "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `President Donald Trump on Monday said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027, following a breakdown in trade negotiations last week.
+"Canada has been ripping off the United States of America for years," Trump wrote in a Truth Social post, accusing the longtime trading partner of hurting U.S. farmers through its own tariff policies.
+"Not sustainable, and NOT ANYMORE!" he wrote. "On January First, 2027, Tariffs on all Cars, Trucks, both large and small, Automotive Parts, and Steel, will be increased to 50%."
+Trump returned to Truth Social later Monday to lash out at Ontario Premier Doug Ford, who threatened to escalate the U.S.-Canada trade war by cutting off America's access to electricity and critical minerals.
+"Someone should get these clowns to 'fall in line' or, the consequences for Canada will be far WORSE!" Trump wrote, panning Ford as a "Flunky" of Canadian Prime Minister Mark Carney.
+Ford later replied, calling Trump a "bully" and a "dictator."
+Trump's latest tariff threat would double top-line U.S. duties on Canadian auto imports, which currently sit at 25%. Canada sought to lower those tariffs as part of a new trade deal with the U.S., which appeared to be inches from completion before falling apart Friday night.
+U.S. tariffs on Canadian steel imports are already at 50%.
+On Saturday, the U.S. imposed 50% tariffs on about $20 billion of Canadian goods, including wine, cement and hockey sticks. Those duties came in retaliation for alleged Canadian trade discrimination against U.S. cars, alcohol and dairy.
+They would have been averted if the two sides reached a trade deal, but Canada's negotiators left Washington empty-handed on Friday evening. The parties have blamed each other for trying to make unreasonable last-minute changes to their agreement.
+"In the last hours, I think there were things that the Canadians just — you know, they wanted more," U.S. Trade Representative Jamieson Greer told CNBC's "Squawk Box" on Monday morning.
+Carney has vowed to retaliate "dollar for dollar" against the new U.S. tariffs.
+Trump, in his Truth Social post Monday, declared that Canada "will be treated like a State no longer!"
+He went on to attack Canada as being "among the worst Nations in the World to deal with" on trade and elsewhere.
+"They feel entitled, and yet, WE DON'T NEED CANADA, THEY NEED US! They do 95% of their business with the U.S., with us, the exact opposite!" Trump wrote.
+The Canadian auto market is small compared with the U.S.: Fewer than 2 million new vehicles were sold there in 2025, versus more than 16 million sold in the U.S.
+Vehicles produced in Canada accounted for only 5.4%, or 861,000, of total sales in the U.S. last year, according to GlobalData.
+The Detroit automakers have grown smaller when it comes to vehicle assembly in Canada, while Japanese automakers Toyota and Honda have significantly grown production in recent years.
+Toyota and Honda represented 76.5% of Canada's vehicle production in 2025, and each of Toyota and Honda produced more vehicles in Canada than Ford, General Motors, and Stellantis combined, according to a leading trade organization representing non-Detroit automakers.
+Trump's mercurial tariff agenda has been a major source of uncertainty for automakers, whose supply chains were built on free trade between the countries. Automotive parts can cross borders several times in different forms before finally being installed in a new vehicle, potentially exposing them to multiple tariff charges.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/24/trump-canada-auto-tariffs-trade-war.html",
+    publishedAt: "2026-08-24T23:27:01+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "what-you-see-is-what-you-pay-why-some-u-2b30eef4",
+    title: "'What you see is what you pay' - why some US restaurants are banning tips",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `'What you see is what you pay' - why some US restaurants are banning tips
+- Published
+Wine waiter Caroline Kraetzer earns $40 (£30) an hour, double what most service staff in San Francisco are paid but then it costs a lot to eat at her restaurant.
+At a set price of $140 (£100) per person, La Cigale is one of a small number of restaurants charging higher prices so it can pay high salaries - and it doesn't allow tips.
+It tells customers: "What you see is what you pay. We do not accept tips, your kind words and return visits will suffice."
+Kraetzer says it is good to no longer be "reliant on the generosity of strangers to pay the bills".
+While waiting staff at other restaurants can make a lot of money from tips, she says "you're often there two hours before service, and again when you're closing after the guests have left, so you are making minimum wage during that time".
+Fairer for staff?
+On the other side of the US, Rachel Miller, chef and owner of Nightshade Noodle Bar in the town Lynn, Massachusetts, moved to a tip-free model five years ago when they reopened after the Covid-19 pandemic.
+Her motivation was to make it fairer for the kitchen staff.
+"The people breaking their backs and minds in the kitchen - often the least visible and the least celebrated - were taking home a fraction of what the front staff made on tips for the same hours," she says.
+Miller says she found it "deeply unsettling" to see higher tips going to white male staff and lower tips to everyone else.
+"Tipping lets guests, consciously or not, pay people differently based on gender, race, or sexuality and I was not willing to let that decide my team's income."
+To pay the staff higher wages, Miller also increased prices at the French-Vietnamese restaurant. Its tasting menus now start from $102 (£75) for seven courses before 18:00, and $126 (£92) for nine courses.
+"Our prices are higher than a comparable restaurant's because they carry the full cost of paying people properly," says Miller. "That is the trade, and I stand behind it."
+How have customers reacted?
+Yet not every restaurant that has switched to a tipless model has made a success of it, as sometimes customers don't appreciate the higher menu prices.
+Talulla in Cambridge, Massachusetts, dropped tips in 2020 so it could pay staff more equitably, only to then switch back in September of last year.
+"We tried to keep our non-tipping model simply by raising our menu prices 23%, but we were only able to sustain this through the winter months," says co-owner Danielle Ayer.
+"Operating a non-tipped restaurant is more expensive overall," adds Ayer.
+This is because tips don't count as part of a restaurant's revenues, but higher menu prices do. So if a venue increases prices to pay staff more, its revenues go up accordingly, and it must pay more sales tax.
+William Michael Lynn, professor of food and beverage management at Cornell University and author of The Psychology of Tipping, says the problem of going tip-free is that customers struggle to get their heads around the maths.
+"Higher menu prices make dining out seem more expensive because people do not adequately take into account that they are no longer tipping," he says. "It leads to lower demand."
+In New York, vegetarian restaurant Dirt Candy was one of the very first to ban tipping back in 2015. "I wanted to make it more equal for everybody," says chef and owner Amanda Cohen, who now pays her staff about $30 an hour.
+She says that many customers "are pleasantly surprised when they realise they don't have to tip 20% on top".
+Cassidy Van der Kamp is a filmmaker whose YouTube documentary Tipless was inspired by her own experience of working in a restaurant in Oakland, California which went tip-free.
+While some other servers left, Van der Kamp, who was originally paid about $10 an hour plus tips, decided to stay and earned $21 per hour after the change.
+"I had stability for the first time as I knew what I was earning… and I didn't need to look at a low tip and think what did I do wrong?"
+'Tipping fatigue'
+While Van der Kamp liked the move, Lynn says that a huge challenge of moving to a gratuity-free system is that it can be difficult to attract and retain waiting staff who like getting tips.
+However, given the growth of what has been called "tipping fatigue" – people being increasingly annoyed at having to pay high tips – will more restaurants stop the practice?
+"Despite tip-fatigue, I do not think tipping is going to be eliminated on widescale anytime soon because the economic disadvantages of eliminating tipping outweigh the advantages," says Lynn.
+Back at Nightshade Noodle Bar, Miller doesn't regret her decision. "The clearest measure is that staff stay.
+"Turnover in this industry is brutal, and we have people who have been here since we made the change. It has proven to be highly valued by my guests and team."
+- Published28 May
+- Published28 July
+- Published20 July`,
+    bodyJa: `「見たものが支払うもの」 - 米国の一部のレストランがチップを禁止している理由
+- 公開されました
+ワインウェイターのキャロライン・クレイツァーさんの時給は 40 ドル (30 ポンド) で、サンフランシスコのほとんどのサービススタッフの給与の 2 倍ですが、彼女のレストランでの食事には多額の費用がかかります。
+一人当たり 140 ドル (約 100 ポンド) の設定料金を持つ La Cigale は、高額な給与を支払うために高い料金を設定している数少ないレストランの 1 つであり、チップは認められていません。
+それは顧客に、「あなたが見たものはあなたが支払うものです。私たちはチップを受け取りません、あなたの親切な言葉と再訪問で十分です。」と伝えます。
+クレイツァー氏は、「見ず知らずの人々の気前の良さに頼って請求書を支払う」ことはもうやめるべきだと語る。
+他のレストランの給仕スタッフはチップで多額の収入を得ることができるが、彼女は「サービスの2時間前に現場にいることが多く、また客が帰った後の閉店時にも現場にいることが多いので、その間は最低賃金を稼いでいることになる」と言う。
+スタッフにとってより公平ですか？
+米国の反対側では、マサチューセッツ州リンの町にあるナイトシェイド・ヌードル・バーのシェフ兼オーナーであるレイチェル・ミラー氏は、新型コロナウイルス感染症のパンデミック後に再オープンした5年前に、チップフリーのモデルに移行した。
+彼女の動機は、キッチンスタッフにとって公平なものにすることでした。
+「キッチンで苦労している人たちは、たいてい目立たず、あまり祝われていない人たちですが、同じ時間にフロントスタッフがチップで稼いだお金の一部を持ち帰っていたのです」と彼女は言う。
+ミラーさんは、白人男性スタッフには高額のチップが支払われ、それ以外のスタッフには低めのチップが支払われるのを見ると「非常に不安になる」と感じたという。
+「チップを使用すると、ゲストは意識的かどうかにかかわらず、性別、人種、セクシュアリティに基づいて人々に異なる支払いを行うことができます。私はそれによってチームの収入を決定させたくありませんでした。」
+従業員に高い賃金を支払うために、ミラー氏はまた、フランス・ベトナム料理レストランの価格を値上げした。現在、テイスティングメニューは、18:00までは7コースが102ドル（75ポンド）から、9コースが126ドル（92ポンド）からとなっている。
+「私たちの価格は、従業員に適切に支払うための全額を負担しているため、同等のレストランよりも高いです」とミラー氏は言います。 「それが商売であり、私はそれを支持します。」
+顧客の反応はどうですか?
+しかし、チップレスモデルに切り替えたすべてのレストランが成功しているわけではなく、顧客はメニューの価格が高いことを喜ばない場合もあります。
+マサチューセッツ州ケンブリッジのタルーラは、従業員への給与をより公平にするため、2020年にチップを廃止したが、昨年9月に元に戻した。
+「メニュー価格を 23% 値上げするだけで、チップなしのモデルを維持しようとしましたが、これを維持できたのは冬の間だけでした」と共同オーナーのダニエル・エアー氏は言います。
+「チップ不要のレストランの運営は、全体的にコストが高くなります」とエアー氏は付け加えた。
+これは、チップはレストランの収益の一部としてカウントされませんが、より高いメニュー価格は収益の一部としてカウントされるためです。したがって、会場がスタッフへの給与を増やすために料金を値上げした場合、その収益はそれに応じて増加し、より多くの消費税を支払わなければなりません。
+コーネル大学の食品および飲料管理の教授であり、『チップの心理学』の著者であるウィリアム・マイケル・リン氏は、チップを無料にすることの問題点は、顧客が計算を理解するのに苦労していることであると述べています。
+「メニューの価格が高くなると、人々はチップが不要になったことを十分に考慮していないため、外食がより高価に感じられます」と彼は言う。 「それは需要の低下につながります。」
+ニューヨークのベジタリアンレストラン、ダート・キャンディは、2015年にチップを禁止した最初のレストランのひとつだった。「誰にとってももっと平等にしたかったのです」とシェフ兼オーナーのアマンダ・コーエンは言う。現在、スタッフに時給約30ドルを支払っている。
+彼女によると、多くの顧客は「20% のチップを上乗せする必要がないことに気づき、嬉しい驚きを感じる」そうです。
+キャシディ ヴァン デル カンプは、カリフォルニア州オークランドのチップフリーのレストランで働いた彼女自身の経験に触発された YouTube ドキュメンタリー「ティプレス」を制作した映画製作者です。
+他のサーバーの何人かが去った一方で、当初時給約 10 ドルとチップを支払われていた Van der Kamp 氏は残留を決め、変更後は時給 21 ドルを稼ぎました。
+「自分が稼いでいる金額がわかったので、初めて安定感を得ることができました…そして、チップの安さを見て、何が間違っていたのか考える必要もなくなりました。」
+「転倒疲労」
+ファン・デル・カンプ氏はこの動きを気に入ったが、リン氏は、チップ無料制度への移行の大きな課題は、チップをもらうのが好きな接客スタッフを惹きつけて維持するのが難しいことだと言う。
+しかし、いわゆる「チップ疲れ」（高額なチップを払わなければならないことに人々がますますイライラしている）が増加していることを考えると、この習慣をやめるレストランは増えるだろうか？
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T23:04:17+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2add/live/70cad1a0-9592-11f1-870d-5d08c49babb2.jpg",
+    readTime: 6,
+  },
+  {
+    id: "new-10p-coin-enters-circulation-will-you-f00c038f",
+    title: "New 10p coin enters circulation - will you spot one?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `New 10p coin enters circulation - will you spot one?
+- Published
+Something new might appear in your change when you pay in cash from now on: a 10p coin featuring the portrait of King Charles and the world's largest grouse.
+Sufficient demand for the coins mean newly-minted 10p pieces are entering circulation for the first time for about four years, this time with a new design.
+The Royal Mint says shoppers and collectors should discover the coins, which were minted and dated in 2023 and 2026, across the country.
+The reverse side of the coin depicts an image of the capercaillie which is found in a small part of Scotland and threatened with extinction.
+The redesigned suite of coins to celebrate the King's love of the natural world were unveiled in October 2023 by The Royal Mint.
+The tails side of every newly-minted coin from the 1p to the £2 now features the country's flora and fauna - from bees to an oak tree leaf.
+Coins in circulation in the UK carrying the portrait of King Charles have so far been limited to the 5p, 50p and £1.
+Old coins with the image of the late Queen Elizabeth II can still be used, so the new coins are only struck in response to demand.
+That is why, with 1.4 billion 10p coins in circulation, there has been no need for the new 10p to be released until now by The Royal Mint.
+Now. 600,000 of these coins, dated 2023, and 6.5 million dated 2026 have been released to banks and post offices nationwide.
+However, King Charles III coins still only represent about 1% of the 24.1 billion coins in circulation across the UK, making any new ones highly sought after by seasoned numismatists and new coin collectors.
+New coins designed to help children add up
+- Published13 October 2023
+Red alert for capercaillie
+The capercaillie design on the tails side of the coin is based on an illustration by the artist Mike Langman who previously worked for the Royal Society for the Protection of Birds (RSPB). His illustrations are seen across the charity's nature reserves.
+The RSPB said that the UK capercaillie population has declined so rapidly that it is at risk of extinction for the second time and is on the UK conservation red list.
+"It's a stark reminder that more of these coins will enter circulation than there are capercaillies left in the wild," said Rebecca Morgan, director at The Royal Mint, based at Llantrisant, South Wales.
+"We hope that by putting this extraordinary bird into millions of pockets and purses, we can spark a nationwide conversation about a species at real risk of vanishing from Britain forever."
+Bank of England banknotes will soon follow coins in using images of wildlife on the currency.
+They will replace historical characters, such as Sir Winston Churchill, on the next series of £5, £10, £20 and £50 notes.
+Hundreds of thousands of votes were cast in a public vote, from a shortlist of 18 animals, birds and insects.
+Those votes, alongside security issues, are now being considered by the bank, with its governor, Andrew Bailey, expected to make the final decision in the autumn.
+Related topics
+- Published15 March`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-24T23:03:42+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6769/live/d73e6830-9fbe-11f1-8648-8d7b77845e6d.jpg",
+    readTime: 2,
+  },
+  {
     id: "a-massive-trade-just-happened-in-gold-th-f5b5ba80",
     title: "A massive trade just happened in gold. The options market is buzzing",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1241,344 +1652,6 @@ Another landslide at the site killed 10 people in 2017.`,
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ee/live/c5473e70-9f1b-11f1-b2a2-8945a27a2843.jpg",
     readTime: 2,
-  },
-  {
-    id: "we-are-committed-christians-our-son-and-15c12426",
-    title: "‘We are committed Christians’: Our son and daughter-in-law cut us off over politics. Should we change our $3 million will?",
-    titleJa: "「私たちは献身的なクリスチャンです」: 私たちの息子と嫁は、政治を理由に私たちと絶縁しました。 300万ドルの遺言書を変更すべきでしょうか？",
-    summaryJa: "「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」",
-    bodyOriginal: `“We are hurt and confused, but we have also tried to respect the boundaries they have established.”`,
-    bodyJa: `「私たちは傷つき、混乱していますが、彼らが定めた境界線を尊重しようとも努めてきました。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories",
-    publishedAt: "2026-08-23T18:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-01814240",
-    readTime: 2,
-  },
-  {
-    id: "democratic-house-leader-jeffries-meets-w-ec251bfe",
-    title: "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Democratic House leader Hakeem Jeffries met with President Donald Trump's son-in-law Jared Kushner in recent weeks, signalling people close to the president may be preparing for at least one chamber of Congress to flip to Democratic control as the midterm elections loom.
-A person familiar with the meeting, who was granted anonymity to discuss the sensitive matter, confirmed the two men had met. The New York Times first reported the detente, which comes as Democrats and Republicans publicly battle for control of Congress ahead of November.
-In a statement to CNBC, Jeffries did not directly comment on the meeting with Kushner but said in "every conversation that we have with the Trump administration, we will continue to make it explicitly clear that the affordability crisis is not a hoax and nothing short of transformational policy change is acceptable."
-Kushner, who was one of Trump's senior advisors during his first term, did not take on a government role when his father-in-law was reelected in 2024. However, he has emerged as a key player in the president's efforts across the globe as a negotiator and outside advisor.
-The White House did not immediately comment on the meeting.
-The New York Times reported that the meeting was a "catch-up" for the pair, who worked together on various issues during the first Trump administration. The paper also reported that Kushner suggested Jeffries meet with White House Chief of Staff Susie Wiles, which the person familiar with the meeting confirmed.
-Kushner and Jeffries also reportedly discussed housing, immigration and affordability as potential areas of common ground, the Times reported.
-In his statement, Jeffries suggested Democrats may be open to working with Republicans if they win the majority, but only on their terms.
-"To stop the madness, we have repeatedly made clear that an extremist approach will not work and will be met with forceful opposition. The American people want bold change and that's what House Democrats will deliver," Jeffries said. "We are fighting for an affordable America. The question is whether Republicans will join us."
-The timing of the meeting suggests that some in the president's orbit are preparing for the GOP to lose its near total control of Washington come November. The midterms are less than three months away with Democrats leading Republicans in the generic ballot by more than six points on average.
-Jeffries, who has served as minority leader since 2023, is likely to become Speaker of the House if Democrats prevail in the chamber. Democrats are widely expected to launch myriad investigations into the Trump White House and its associates in the private sector, including Kushner, if they win.
-Democrats winning control of one or both chambers of Congress would also effectively lock up large legislative pushes that are not bipartisan, and could make it more difficult to raise the debt ceiling next year if it is not raised this year.
-House Speaker Mike Johnson, R-La., told Fox News on Sunday that Kushner is a "smart guy" who will "hedge his bets." But Johnson sought to express confidence that Republicans will hold their razor-thin majority after November.
-"But I'm telling you what, you better not bet against the House Republicans," Johnson said. "Our base is going to turn out, and we're going to hold the House Republican majority."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-    publishedAt: "2026-08-23T17:58:06+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "france-links-sharp-rise-in-drownings-to-361f1c6b",
-    title: "France links sharp rise in drownings to heatwaves",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `France links sharp rise in drownings to heatwaves
-- Published
-France has seen 301 drownings since 19 June, a government minister has said, linking the sharp rise in deaths compared to last year to the prolonged heatwaves.
-Sports and Youth Minister Marina Ferrari told France Inter radio the number of deaths - a 14% hike on 2025 - was a "tragic toll".
-France, Spain and Italy have been hit by heatwaves, which have triggered massive wildfires that scorched thousands of hectares of land.
-Ferrari said people have been taking risks by going into the water, adding: "Many deadly accidents have occurred in areas that are not authorised or supervised for swimming."
-She said a number of the drownings were recorded in "open water, in canals for example".
-Ferrari said the government was working with regional authorities "to improve swimming areas and make things safer".
-Speaking on Friday, she added that "many drownings, particularly among the elderly, occurred in individual pools".
-The minister said that sudden immersion in cold water on a hot day could cause shock, and in some cases "people can also exceed their physical capabilities".
-In June, Ferrari warned that too many people were trying to cool off in rivers and canals without necessarily taking the risks into account.
-Climate change is driving up temperatures around the world - but particularly in Europe.
-It is the fastest warming continent, heating up twice as fast as the global average, according to the Copernicus climate service., external
-The June heatwave saw a nuclear power plant in southwest France temporarily shut down because water temperatures in the River Garonne topped 28C. Under French laws, water used to cool the reactors at the Golfech plant must not exceed that temperature.
-Some monuments like the Eiffel Tower also decided to close early because of the high temperatures in Paris during the June heatwave.
-The dry conditions also saw wildfires spread across France, with the Gironde, around the city of Bordeaux, in the south-west of the country being the worse affected area, with more than 200,000 people being forced from their homes in late July.
-France has logged 7,300 excess deaths between late May and 22 July, according to provisional figures from the public health authorities.
-Related topics
-- Published15 August`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-23T17:39:33+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46e9/live/b1ac6f30-9f1a-11f1-b2a2-8945a27a2843.jpg",
-    readTime: 2,
-  },
-  {
-    id: "nvidia-is-the-beating-heart-of-the-ai-bo-9d0f70a0",
-    title: "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
-    publishedAt: "2026-08-23T13:00:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-09516702",
-    readTime: 2,
-  },
-  {
-    id: "zelensky-should-be-asked-what-he-knew-ab-41ab9b37",
-    title: "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Zelensky should be asked what he knew about government corruption, sacked minister tells BBC
-- Published
-Ukrainian President Volodymyr Zelensky should be asked questions about corruption in his government, his sacked defence minister Mykhailo Fedorov has told the BBC.
-Fedorov, a popular minister who modernised the military and pioneered drone warfare, was fired last month after reportedly falling out with the head of Ukraine's armed forces.
-He told the BBC a money laundering investigation announced last week meant Zelensky should be asked about his awareness of potential corruption in his inner circle.
-But he said he had not himself seen the president engage in any corrupt activity.
-"In all the time that I worked with him, not a single time have I received from him any task or assignment that would go against law or my sense of integrity", Federov said.
-The former minister also repeated his appeal for elections to be held in Ukraine, days after releasing a video where he called for a wartime vote.
-"Democracy should not be the hostage of Putin", he said - but stopped short of declaring his own political ambitions.
-There were angry protests over Fedorov's sacking but his support dwindled and demonstrations ended on Wednesday, after his replacement was confirmed. His call for a vote has been widely rejected.
-Asked whether he missed his old job, the 35-year-old replied "No", citing the relentless stress of managing Ukraine's war with Russia while transforming its defence ministry.
-Ukraine has been under martial law since Russia's full-scale invasion in 2022, meaning elections are suspended. Zelensky's five-year presidential term ended in May 2024.
-But Fedorov said it was his "moral right" to start the conversation about elections.
-"We should not be afraid of discussing it. That's what democracy is all about. If I cannot share my ideas and be open about them with my own society, then what are we fighting for?"
-If elections were never held, he said, "then we are no longer a democracy".
-Sacked Ukrainian defence minister calls for presidential election
-- Published3 days ago
-In his earlier video statement Fedorov had argued that "people cannot endlessly live in a state where they do not understand why certain decisions are made".
-He shied away from criticising the president directly and declined to answer whether he backs Zelensky to win any election.
-Zelensky said he believed wartime elections would currently be too dangerous for Ukraine in remarks released on Sunday.
-"I believe that in a war like this, elections as such are a huge risk," he said. "Elections right now are a tsunami for the country that will split Ukraine."
-Experts have cited a number of obstacles to holding such a vote, including how soldiers, millions of Ukrainian refugees and people from occupied territories would vote, as well as disinformation threats from Russia.
-Fedorov's video highlighting political corruption last week came the day before a money laundering investigation was announced into lawmakers and bankers.
-Ukraine's anti-corruption bureau said it had uncovered a scheme to misappropriate more than $3m (£2.2m) in Ukrainian currency to pay bail for a former energy minister accused of money laundering.
-A senior official in Zelensky's office, alleged to be involved, was sacked.
-Fedorov said there were questions about the president's awareness of potential corruption in his inner circle.
-"Let him answer this question... I believe that he's ready for such questions. It's his responsibility to tell us all whether he was aware of all that or not... I don't want to make any assumptions."
-A spokesperson for the president had earlier told BBC News: "Since the former minister was part of every government since 2019, it's strange that he phrases it as though these were somehow different governments without him. As everyone remembers, we didn't hear any strong statements from him back then."
-Fedorov claimed he had rooted out elements of corruption from defence procurement but warned it was still affecting Ukraine's frontline capacity.
-The former minister said he'd had no contact with the president for "a couple of weeks", and had no evidence the president was personally corrupt.
-"In all the time that I worked with him, not a single time have I received from him any task or assignment that would go against law or my sense of integrity. So that's my personal experience with him."
-As defence minister and previously digital transformation minister, Fedorov is credited with innovating to replace soldiers with an "army of drones", saving lives on the battlefield and enabling long-range Ukrainian strikes on Russian military targets, oil refineries and distribution warehouses - thousands of kilometres over the border.
-He said he would continue to promote new ways to fight the war and confirmed a visit to the United States in the coming weeks, where he hopes to meet Elon Musk.
-The billionaire businessman's Starlink satellite communications system has been key in Ukraine's success. Fedorov aims to convince Musk to extend the technology into Russian airspace to assist Ukrainian strikes, without the Kremlin benefiting from access.
-"The best tech companies in the world are supporting us and they will be investing in our victory, in ending this war. And we need to stay in touch with them regardless of my position. I have a previous successful track record of working with them and I need to stay in touch with them for my country," he said.
-Fedorov criticised bureaucracy in the UK and other countries supporting Ukraine for delays in supplying weapons.
-The UK is a longstanding supporter of Ukraine, spending £16bn supplying weapons since the war began. It was confirmed last week that British-made drones have been used to attack Russian targets.
-Fedorov said he was grateful for British support but blamed "bureaucracy and red tape" for delays in receiving promised equipment.
-"Governments are lagging behind the realities on the ground. It's not only the issue for UK, but for other countries as well that announce some assistance and we are not getting it until the end of the year."
-Fedorov urged direct funding of the latest Ukrainian drone production, in place of outdated skills and equipment from other nations: "We don't need repairs of tanks when we no longer use tanks."
-He said timely deliveries would help save not just Ukrainian lives.
-"Unfortunately, our losses, our blood, our military experience is beneficial to all of you guys. You can get this experience for all the assistance that you give us."
-Fedorov denied having immediate political ambitions but didn't rule out a future run for president.
-"It will all depend on how soon we'll be able to relaunch this democratic election process, [...] how much energy I would have, whether I will preserve my team, whether I will be able to respond to the question myself, whether I can handle this position of the president or not.
-"What's more important, is whether people will tell me, yeah, we can trust you handling that position."
-Correction 23 August: This article originally said Mykhailo Fedorov's video highlighting political corruption was released the same day a money laundering investigation was announced into lawmakers and bankers. It has been corrected to reflect that the video was released the day before the announcement.
-Related topics
-- Published3 days ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-23T12:56:43+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
-    readTime: 2,
-  },
-  {
-    id: "dr-congo-and-m23-rebels-agree-roadmap-fo-50228a74",
-    title: "DR Congo and M23 rebels agree roadmap for peace talks",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `DR Congo and M23 rebels agree roadmap for peace talks
-- Published
-The Democratic Republic of Congo government and the Rwanda-backed M23 rebel group have agreed a roadmap for peace talks.
-In a joint statement after five days of talks in Switzerland, they said they had pledged to "pursue negotiations towards comprehensive peace and conflict resolution" and set up a mechanism to monitor the ceasefire.
-The roadmap sets out a timeline for talks under a US-brokered peace framework which they signed in 2025 - only for fighting to then continue in eastern DR Congo, which has been engulfed in conflict for decades.
-But disagreements remain over issues including sanctions against M23, the release of detainees and the timing of political reforms.
-The latest negotiations were attended by M23, the government of DR Congo, Qatar, the US, the Republic of Togo, the African Union Commission and host Switzerland.
-"The parties agreed to establish a mechanism tasked with reviewing progress and addressing challenges in implementation of obligations and commitments under the Doha Framework Agreement," the statement added, referring to the 2025 deal.
-They developed "sequenced steps and timelines" while also committing to "flexibility and creativity", the statement said.
-They also agreed to implement a mechanism to monitor ceasefire violations. Its secretariat has been established and the first verification mission is due to take place on Monday in Minembwe, an area of South Kivu affected by fighting.
-Fighting has continued in North and South Kivu despite repeated ceasefire commitments, with the government and M23 accusing each other of violations.
-DR Congo and M23 rebels sign framework for peace in Qatar
-- Published15 November 2025
-The conflict is closely linked to tensions between DR Congo and neighbouring Rwanda.
-Rwanda says DR Congo has failed to dismantle the Democratic Forces for the Liberation of Rwanda (FDLR), an armed group that Kigali considers a security threat.
-DR Congo denies supporting the FDLR and accuses Rwanda of backing M23 with troops and weapons.
-In January 2025 the conflict got worse when the M23 seized parts of eastern DR Congo, including Goma and two airports.
-Thousands of people have been killed and hundreds of thousands of civilians have been forced from their homes during the decades of fighting.
-Eastern DR Congo is rich in coltan and other resources vital to the global electronics industries.
-Rwanda has always denied supporting the M23, despite overwhelming evidence. It has always said its military presence in the region is defensive - and only there to counter threats posed by other armed groups.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-23T12:52:08+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b82b/live/77503d50-9ee6-11f1-9797-eb684645fdf7.jpg",
-    readTime: 2,
-  },
-  {
-    id: "crosscountry-cancels-almost-all-uk-servi-c984ffc0",
-    title: "CrossCountry cancels 'almost all' UK services after power cut",
-    titleJa: "クロスカントリー、停電を受けて英国の「ほぼすべて」のサービスを中止",
-    summaryJa: "クロスカントリー、停電を受けて英国の「ほぼすべて」のサービスを中止- 公開されました",
-    bodyOriginal: `CrossCountry cancels 'almost all' UK services after power cut
-- Published
-Trains across the UK have been cancelled by rail operator CrossCountry after a power cut at its control centre.
-The power outage started in Birmingham on Saturday and as a result, many of the systems used to manage the railway are unavailable, the operator said.
-Cancellations are affecting most routes, from Glasgow to Penzance and Leeds to Manchester, until further notice because of "significant and unforeseen disruption", said CrossCountry, ranked Britain's worst rail operator, in June.
-Transport Secretary Heidi Alexander said she was "concerned to hear about a power outage" and had asked publicly owned operators to provide "extra services where possible".
-"We've also sent Network Rail power teams who are onsite and working to restore power and systems as soon as possible," she added.
-Passengers are venting their anger on social media, saying the situation is the "worst case scenario" at the weekend, with some taking coaches before continuing their train journey with another operator.
-Major routes between Manchester and Birmingham, which passes through Stoke-on-Trent, Coventry and Wolverhampton, along with routes from Leeds to York, Cheltenham to Cardiff and Glasgow to Edinburgh, are all affected.
-Fans travelling to football fixtures have been warned that services to and from Manchester, Liverpool and Newcastle might be "extremely busy".
-One passenger, posting on X, said: "A massive thank you to Cross Country Trains for cancelling my train this morning to Birmingham. You are truly not fit for service. You have also cancelled my train coming back but that is immaterial. Useless. Utterly useless."
-Reese Proctor described the cancellations as "frustrating and unacceptable" as he tried to get to Manchester's Etihad Stadium in time for a 14:00 BST kick-off against Bournemouth.
-He had hoped to get a train from Reading to Manchester, but instead resorted to driving more than 100 miles to his friend's house in Leicester before driving on to the stadium.
-The 22-year-old told BBC Newsbeat the drive had added an extra two hours to his journey, leaving him "fuming".
-"If I couldn't drive, or have [my friend] to drive... I wouldn't have been able to go to the match. That would have been a waste of a match ticket," he said.
-Services to Plymouth and Penzance are also disrupted with customers relying on Great Western Railway operators as a replacement.
-"We are working closely with relevant partners and will provide further updates as soon as possible," a CrossCountry spokesperson said.
-At New Street station, the barriers to all platforms are open and there are regular announcements to passengers about the disruption.
-The digital boards in the concourse are carrying a Special Notice to warn passengers of the cancellation to CrossCountry services.
-While the operator usually calls at more than 100 stations, it said that the only route expecting a "near-normal" service was between Peterborough, Cambridge and Stansted Airport.
-The company apologised to passengers affected and said tickets were being accepted by other operators.
-Customers are entitled to Delay Repay compensation if their train is delayed by 30 minutes or more, while those who choose not to travel can claim a refund for their journey.
-National Rail said affected customers could use London Underground services at no extra cost and also West Midlands Metro services between Wolverhampton and Birmingham New Street.
-Train tickets purchased for travel on CrossCountry services on Sunday will be valid for travel until Wednesday, it added.
-The organisation told football fans: "You may need to stand for part or all of your journey.
-"If you require any assistance, please speak with a member of staff."
-Get in touch
-Have you been affected by the disruption?
-Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.
-- Published18 June
-- Published29 April
-- Published11 February`,
-    bodyJa: `クロスカントリー、停電を受けて英国の「ほぼすべて」のサービスを中止
-- 公開されました
-鉄道運営会社クロスカントリーは、コントロールセンターの停電を受けて英国全土の列車を運休した。
-停電は土曜日にバーミンガムで始まり、その結果、鉄道の管理に使用されているシステムの多くが利用できなくなったと運営者は述べた。
-英国最悪の鉄道会社にランクされているクロスカントリーは6月、「予期せぬ重大な混乱」のため、グラスゴーからペンザンス、リーズからマンチェスターに至るほとんどの路線に欠航が影響しており、追って通知があると発表した。
-ハイジ・アレクサンダー運輸長官は、「停電のことを聞いて心配」し、公営事業者に「可能な限り追加のサービス」を提供するよう要請したと述べた。
-「私たちはまた、オンサイトで電力とシステムをできるだけ早く復旧させるために取り組んでいるネットワークレール電力チームも派遣しました」と彼女は付け加えた。
-乗客らはソーシャルメディアで怒りを爆発させ、この状況は週末の「最悪のシナリオ」であり、バスに乗って別の運行会社で列車の旅を続ける人もいると述べた。
-ストーク・オン・トレント、コベントリー、ウルヴァーハンプトンを経由するマンチェスターとバーミンガム間の主要路線と、リーズ～ヨーク、チェルトナム～カーディフ、グラスゴー～エディンバラの路線はすべて影響を受ける。
-サッカーの試合会場へ向かうファンには、マンチェスター、リバプール、ニューカッスル行きの便が「非常に混む」可能性があると警告されている。
-ある乗客はXに投稿し、「今朝、バーミンガム行きの列車をキャンセルしてくださったクロスカントリー・トレイン社に多大な感謝を申し上げます。あなたは本当に勤務に適さない。帰りの列車もキャンセルしていただきましたが、それは重要ではありません。役に立たない。全く役に立たない。」と述べた。
-リース・プロクター監督は、ボーンマス戦の英国標準時間14時キックオフに間に合うようにマンチェスターのエティハド・スタジアムに到着しようとしていた際に、今回のキャンセルは「もどかしく、受け入れがたい」と述べた。
-彼はレディングからマンチェスターまで電車で行くことを望んでいましたが、代わりにレスターの友人の家まで160マイル以上車で向かい、その後スタジアムへ向かいました。
-22歳の彼はBBCニュースビートに対し、ドライブのせいで移動時間がさらに2時間長くなり、「イライラしていた」と語った。
-「もし私が運転できなかったら、あるいは（友人に）運転してもらっていたら…試合には行けなかったでしょう。それは試合のチケットの無駄だったでしょう」と彼は語った。
-プリマスとペンザンスへのサービスも中断されており、顧客は代わりにグレート・ウェスタン鉄道の運営会社に頼っている。
-「我々は関連パートナーと緊密に連携しており、できるだけ早くさらなる最新情報を提供する」とクロスカントリーの広報担当者は述べた。
-ニューストリート駅では、すべてのプラットフォームの柵が開いており、定期的に乗客に混乱についてアナウンスが行われている。
-コンコースのデジタルボードには、クロスカントリーサービスのキャンセルを乗客に警告する特別な通知が掲示されています。
-同社は通常、100以上の駅に電話をかけているが、「ほぼ通常通り」のサービスが期待できる唯一の路線はピーターバラ、ケンブリッジ、スタンステッド空港間だと述べた。
-同社は影響を受けた乗客に謝罪し、チケットは他の航空会社でも受け付けていると述べた。
-顧客は、列車が 30 分以上遅延した場合に遅延補償金を受け取る権利があり、旅行しないことを選択した顧客は、旅行代金の払い戻しを請求することができます。
-国鉄は、影響を受けた顧客は追加料金なしでロンドン地下鉄サービスを利用できるほか、ウルヴァーハンプトンとバーミンガム・ニューストリート間のウェスト・ミッドランズ地下鉄サービスも利用できると述べた。
-日曜日にクロスカントリーサービスでの旅行のために購入した鉄道チケットは水曜日まで有効であると付け加えた。
-同団体はサッカーファンに「旅の一部または全部で立ち上がらなければならないかもしれない。
-「お手伝いが必要な場合はスタッフまでお声がけください。」
-連絡する
-混乱の影響を受けましたか?
-BBC バーミンガムを BBC Sounds、Facebook (外部)、X (外部)、Instagram (外部) でフォローしてください。
-- 6 月 18 日公開
-- 4 月 29 日発行
-- 2 月 11 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-23T12:38:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79f9/live/840c8b30-9ee5-11f1-a291-b542ee92de7c.jpg",
-    readTime: 5,
-  },
-  {
-    id: "after-10-years-at-united-ceo-scott-kirby-33129da4",
-    title: "After 10 years at United, CEO Scott Kirby is thinking big about the future of his airline from JFK to AI",
-    titleJa: "ユナイテッドで10年間勤務した後、CEOのスコット・カービーはJFKからAIへの航空会社の将来について真剣に考えている",
-    summaryJa: "ユナイテッド航空の最高経営責任者（CEO）スコット・カービー氏はCNBCのインタビューで、自身が提案する航空会社のメガディール、AI、航空会社の将来について広範なインタビューに応じた。",
-    bodyOriginal: `NEWARK, New Jersey — Scott Kirby says he doesn't believe in revenge.
-"Everyone thinks I do, but no, I don't," said the United Airlines CEO, whom American Airlines fired 10 years ago, when he was president of that carrier. "I compete aggressively."
-United announced it had hired him as president on Aug. 29, 2016, a blink after American disclosed his departure. Now, Kirby is running the second-most profitable U.S. airline after Delta Air Lines. And his former employer, American, is a distant third of the big, more-than-century-old, U.S. carriers, though it's working to ramp up revenue through a host of upgrades, including bringing back seatback screens.
-Kirby floated the idea of megamergers with both Delta and American in the past year, combinations that would bring together some of the biggest airlines in the world. He's so far been rebuffed, and antitrust experts were skeptical about the possibility.
-He's thinking bigger than he has before as the industry faces ever-higher costs, limited airport infrastructure and a population that's ready to shell out more to fly — often in the expensive seats — to the next "it" destination.
-Eyeing JFK from EWR
-CNBC rode with Kirby from the west side of Midtown Manhattan to United's hub at Newark Liberty International Airport in New Jersey earlier this month, where the 59-year-old executive outlined his vision for the carrier before his flight.
-Kirby said he wants to expand United's footprint at New York's John F. Kennedy International Airport after his airline returns to the congested airport through a partnership with American's former partner, JetBlue Airways, as early as next year.
-"We got a bunch of irons in the fire to try to find ways to do it," he said, adding that United could at some point acquire slots from carriers that aren't flying profitable routes out of the airport.
-And while United already holds the crown among U.S. airlines for international flights, which are in high demand among U.S. tourists, he wants to expand the carrier's footprint abroad even more. This week, United is set to announce a host of new international routes, the carrier's annual splash that has previously included new dots on the map like Ulaanbaatar, Mongolia and Bilbao, Spain.
-United has been touting its international expansion for years, saying its vast network acts as a driver for customer loyalty and sign-ups for lucrative travel rewards credit cards. Its route announcements typically come with much fanfare.
-Kirby, a three-decade airline executive, is the United States' most outspoken airline CEO. His team knows this, and they've stopped telling him well in advance what will be on tap for the next batch of Instagram-friendly routes.
-"They no longer tell me in advance because they're afraid I'll spill the beans, which is fair," he said.
-While Delta has still had a lead on profits, CEO Ed Bastian doesn't want to give up ground to United. It is starting to expand flights over the Pacific, a United stronghold.
-"People say, 'Well, when is it someone else's turn?' Well, I'm never going to let that be someone else's turn. It's always our turn," Bastian told students at Columbia Business School in April 2024. "We always get a chance to prove it every single day. ... Yesterday really doesn't matter. It's only today and tomorrow that you can think about."
-1 minute break
-It's been a decade since Kirby started at United. He joined the airline in August 2016 after he was let go by American when he was president and didn't have a path to eventually becoming CEO.
-United dropped a securities filing just after American disclosed Kirby's departure, saying he would be taking the president role at the Chicago airline. American promoted then-Chief Operating Officer Robert Isom to president that day, Kirby's old role. Isom was named American's next CEO in late 2021.
-"I joke that most people take a few weeks, a couple months between jobs. I took 60 seconds," Kirby said.
-United promoted Kirby to CEO from president in May 2020, while the industry was reeling from Covid, its worst-ever crisis.
-The executive ranks at the tops of United and American trace their roots back to America West and other airlines, before a wave of mergers over the past two decades left four carriers holding more than three-quarters of U.S. flight capacity.
-"One of the things also I learned at American: There's only so much change you can make as the No. 2," he said. "You can push too hard and you get fired."
-United was in the midst of upgrading its cabins when Kirby joined in 2016, including with its highest-end Polaris pod seats for long-haul business class. But he said his first order of business was going through money-losing routes with a highlighter to figure out what was working and what wasn't.
-The company considered closing its bases at Los Angeles International Airport and Washington Dulles International Airport in Virginia. Kirby said he stopped that idea, and both stayed open.
-The airports are critical for United. LAX is one of the airline's most important hubs, though no carrier has a handle on that airport like they do others. And Kirby took a day trip from his son's soccer camp in Brazil last month to fly up to meet with President Donald Trump to unveil a $22.5 billion revamp of Dulles in the Oval Office.
-AI, mergers and the future of travel
-Stock analysts and legal experts were highly skeptical about a merger between United and one of the other U.S. giants.
-People familiar with the matter said Kirby approached Delta but was turned down, as The Wall Street Journal first reported last month. The people spoke on the condition of anonymity to discuss the talks. Delta declined to comment. The carrier's president, Peter Carter, told CNBC at an industry conference in June that he doesn't see a merger or acquisition in Delta's future.
-American, meanwhile, publicly rejected a merger offer from United this spring.
-"At the end of the day, we spend time looking at things that have a chance of happening. We don't spend a lot of time pursuing impossibilities," Isom told CNBC in an interview in late June.
-Kirby told CNBC that he hasn't changed his stance and he's not interested in acquiring a smaller airline, like JetBlue. "That's still the case," he said.
-"Everything I say would require a willing partner," Kirby said.
-When asked about antitrust concerns and likely pushback from state attorneys general, he said, "All of the objections are ... based on a premise that the airline industry is a commodity."
-And Kirby said the industry has since evolved and that Delta and United have differentiated themselves, with their routes, onboard cabins and other products.
-He said he wants United to grow in South America and in the Southeast U.S., but there's a lack of places to build out new hubs that make sense.
-"Those are two places that are holes for United that are hard to fix on a stand-alone basis," Kirby said.
-The best place for serving South America is Miami International Airport, he added. American had a more than 60% share of passenger enplanements in the 2025 fiscal year, according to airport data.
-Putting mergers aside, Kirby said artificial intelligence tools for both employees and customers will make traveling easier and improve reliability, a tall order for any airline that is susceptible to weather, constrained airports and a host of other daily surprises from mechanical problems.
-He wants delays expressed in clear English to customers.
-"I firmly believe in no excuses, and so we don't make excuses," he said.
-Even still, in the first half of the year, United ranked behind Delta and Alaska Airlines, which recently merged with Hawaiian Airlines, for on-time arrivals, according to the Transportation Department.
-Kirby said outside factors or outright crises will always challenge the industry and said he is focused on the long-term future of the airline.
-"Our employees often ask me like, 'What keeps you awake at night,' and I tell them, 'nothing,'" he said. "My job is to set the company up so none of you ever have to have a sleepless night worrying about your jobs."
-He said his goal is to never have another furlough at the airline.
-When asked if he would retire eventually, Kirby said, "I hope I will know when to retire and do it gracefully with a great transition with great people."`,
-    bodyJa: `ニュージャージー州ニューアーク — スコット・カービーは復讐を信じていないと言う。
-「誰もが私がそうだと思っているが、いや、私はそうではない」と、10年前にアメリカン航空が社長だったときに解雇されたユナイテッド航空のCEOは語った。 「私は積極的に競争します。」
-アメリカン航空が同氏の辞任を明らかにした直後、ユナイテッド航空は2016年8月29日に同氏を社長として採用したと発表した。現在、カービーはデルタ航空に次いで米国で2番目に収益性の高い航空会社を経営している。そして、彼の元雇用主であるアメリカン航空は、100年以上の歴史を持つ米国の大手航空会社の3分の1に遠く及ばないが、シートバックスクリーンの復活を含む多くのアップグレードを通じて収益の増加に取り組んでいる。
-カービー氏は昨年、デルタ航空とアメリカン航空の両社との巨大合併、つまり世界最大の航空会社数社を統合するというアイデアを浮上させた。同氏はこれまでのところ拒否されており、独占禁止法の専門家らはその可能性に懐疑的だった。
-業界はかつてないほどのコスト上昇、限られた空港インフラ、そして次の「IT」目的地への飛行機（多くの場合、高価な座席に座る）のために、より多くのお金を払う準備ができている人口に直面しているため、彼は以前よりも大きく考えています。
-EWRからJFKに注目
-CNBCは今月初め、マンハッタンのミッドタウン西側からユナイテッドの拠点であるニュージャージー州のニューアーク・リバティー国際空港までカービー氏とともに同乗し、そこで59歳の幹部は出発前に航空会社に対する自身のビジョンを語った。
-カービー氏は、ユナイテッド航空が来年にもアメリカン航空の元パートナーであるジェットブルー航空との提携を通じて混雑した空港に復帰した後、ニューヨークのジョン・F・ケネディ国際空港でのユナイテッド航空の拠点を拡大したいと述べた。
-同氏は、「我々はその方法を見つけるために、かなりの努力をした」と述べ、ユナイテッド航空は、空港からの収益性の高い路線を運航していない航空会社から、ある時点で発着枠を獲得する可能性があると付け加えた。
-また、ユナイテッド航空は米国人観光客の間で需要が高い国際線で米国の航空会社の中ですでに王座を握っているが、同氏は同航空会社の海外展開をさらに拡大したいと考えている。今週、ユナイテッド航空は多数の新しい国際線を発表する予定で、これまでモンゴルのウランバートルやスペインのビルバオなど地図上に新たな点を加えてきた航空会社の毎年恒例の目玉である。
-ユナイテッドは何年も国際展開を宣伝しており、その広大なネットワークが顧客ロイヤルティと有利な旅行特典クレジットカードへの登録を促進する役割を果たしていると述べている。そのルートの発表は通常、大々的に宣伝されます。
-カービー氏は航空会社の役員を 30 年務め、米国で最も率直な航空会社の CEO です。彼のチームはこれを知っており、インスタグラム向けのルートの次のバッチで何が準備されるかを事前に彼に伝えるのをやめました。
-「豆をこぼしてしまうのが怖いので、彼らはもう事前に私に教えてくれません。それは当然です」と彼は言う。
-デルタ航空は依然として利益面でリードを保っているが、最高経営責任者（CEO）のエド・バスティアン氏はユナイテッド航空に地位を譲ることを望んでいない。ユナイテッドの本拠地である太平洋への便を拡大し始めている。
-「人々はこう言います、『それで、いつ他の人の番ですか？』まあ、私はそれを他の人の番にするつもりはありません。バスティアン氏は2024年4月、コロンビア・ビジネス・スクールで学生たちにこう語った。「私たちは常にそれを証明するチャンスを毎日得ている。 …昨日のことは本当に関係ありません。考えられるのは今日と明日だけだ。」
-1分間の休憩
-カービーがユナイテッドに入社してから10年が経ちました。同氏は社長時代にアメリカン航空から解雇され、最終的にCEOになる道がなかったため、2016年8月に同社に入社した。
-ユナイテッド航空は、アメリカン航空がカービー氏の退職を明らかにし、同氏がシカゴ航空の社長に就任すると発表した直後に、有価証券届出書を取り下げた。アメリカン航空は同日、当時の最高執行責任者ロバート・アイソム氏を社長に昇進させ、これはカービー氏のかつての役割だった。アイソム氏は2021年後半にアメリカンの次期CEOに指名された。
-「冗談ですが、ほとんどの人は次の仕事までに数週間、数カ月かかるそうです。私は60秒かかりました」とカービーさんは語った。
-業界が史上最悪の危機である新型コロナウイルスに動揺する中、ユナイテッドは2020年5月にカービーを社長からCEOに昇格させた。
-ユナイテッド航空とアメリカン航空のトップに位置するこの幹部のルーツは、過去20年間にわたる合併の波により4社の航空会社が米国の航空輸送能力の4分の3以上を保有するまで、アメリカ・ウェスト航空やその他の航空会社にルーツを遡る。
-「私がアメリカン大学で学んだことの一つは、ナンバー2としてできる変化には限界があるということだ」と彼は語った。 「頑張りすぎるとクビになるかもしれない。」
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/23/united-airlines-ceo-scott-kirby.html",
-    publishedAt: "2026-08-23T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
   },
 ];
 
