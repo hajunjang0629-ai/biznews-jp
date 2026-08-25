@@ -15,6 +15,254 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "canada-poised-to-retaliate-against-trump-50c4f7f2",
+    title: "Canada poised to retaliate against Trump tariffs: 'We're not waiting by the phone'",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Dominic Leblanc, Minister of Internal Trade of Canada speaking on CNBC's Squawk Box on Aug. 25th, 2026.
+CNBC
+Canada is poised to announce new tariffs on U.S. goods Tuesday in retaliation for the 50% duties that President Donald Trump imposed after a breakdown in trade talks, Canadian trade minister Dominic LeBlanc told CNBC.
+"Our preference was not to do that," LeBlanc said on "Squawk Box" after confirming Canada's intention to unveil the new tariffs.
+"Our preference was to find a deal that benefits both countries," he said. "We still believe that's possible. But in the meantime, we're not waiting by the phone."
+Canadian officials are set to announce Ottawa's response to the United States' action at a press conference at 11 a.m. ET.
+This is developing news. Please check back for updates.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
+    publishedAt: "2026-08-25T12:55:49+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "china-needs-u-s-dollars-but-is-building-d0d688d6",
+    title: "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `BEIJING — The U.S. is threatening to cut businesses that help Iran evade sanctions off from the American financial system. It puts China's banks in an uncomfortable position: Beijing can reject the demands, but its biggest lenders still have strong incentives to preserve access to U.S. dollars.
+U.S. Treasury Secretary Scott Bessent announced on Monday that any entity facilitating "money laundering or sanctions evasion on behalf of Iran risks being cut off from the U.S. financial system." It was part of the "Economic D-Day" against Iran announced by U.S. President Donald Trump.
+When asked specifically about Chinese banks, Bessent said: "If they facilitate transactions and are part of the ecosystem that turns Iranian oil into money, into repression, they will be targeted."
+China said Tuesday it would "take all necessary measures" to protect itself.
+"China has made clear on many occasions its firm opposition to illicit unilateral sanctions that have no basis in international law or the authorization of the UN Security Council," a Chinese foreign ministry spokesperson said on Tuesday in response to questions.
+Before the war, China bought around 90% of Iran's exported oil — about 12% of China's total crude imports — making it Iran's largest trading partner, per analysts at the U.S.-China Economic and Security Review Commission in March.
+Dubbed "Operation Economic Outcast," the expanded U.S. sanctions identified several China-based companies and individuals as having allegedly assisted the Iranian military.
+The U.S. said it would give countries a timeline to shut down identified activities, but didn't share dates publicly. When CNBC asked about communication regarding the timeline, China's foreign ministry said it was closely monitoring the situation and reiterated that Beijing would protect its interests.
+It's tough talk as a summit between Trump and Chinese President Xi Jinping is looming.
+But analysts emphasize China will do what it can to stay in the U.S. dollar financing system. The U.S. has raised the bar for China and other countries that want to use the greenback — boosting their incentive to diversify. And the complexities of the U.S.-China economic rivalry make an "Economic D-Day" a tough order for the Trump administration.
+How China's CIPS offers a hedge to the dollar
+Peter Alexander, Shanghai-based managing director of advisory Z-Ben, told CNBC that China's Cross-Border Interbank Payment System (CIPS) showed it was trying to diversify from dollar-centered finance, without abandoning it altogether.
+The People's Bank of China began building the CIPS in 2012 — the same year the U.S. Treasury sanctioned China's relatively small Bank of Kunlun over illicit Iran activities. Its transactions have picked up since the Russia-Ukraine war in 2022, and generally grown this year, according to official figures.
+The system lists 210 direct participating institutions globally, mostly affiliates of state-owned Chinese banks.
+Alexander also said that Argentina and Australia this month renewed bilateral currency swap agreements with China that enable the exchange of tens of billions of dollars' worth of Chinese yuan between the countries' central banks.
+"The emerging financial system isn't necessarily one in which countries abandon the USD," Alexander said. "It is a geopolitical hedging instrument."
+The dollar's dominance
+The U.S. dollar still accounted for over half of global payments in July, while China's yuan ranks fifth at 3.1%, according to Swift, the secure bank messaging system that underpins international banking. That's down from over 4% in early 2025.
+In trade finance, the U.S. dollar accounted for nearly 80% that month, while China's yuan ranked second at 8.4%, the Swift data showed.
+"China definitely wants to stay in the dollar system which benefits its trade engine, but that doesn't mean it will do everything [to] comply with expanding U.S. sanctions," Tianchen Xu, senior economist at the Economist Intelligence Unit, told CNBC.
+He said he expected China to use rare earth controls and other measures to retaliate against sanctions on major Chinese businesses.
+But the U.S. also wants access to critical minerals that China has, incentivising it to keep the relationship stable.
+Trump and Xi are still due to meet next month
+Trump and China's Xi are expected to meet in the U.S. late next month, following Trump's visit to Beijing in May. Eurasia Group's China director Dan Wang said the U.S. doesn't want to derail the summit.
+"The core of China-U.S. relation is more about [the] Taiwan situation ... [the] China-Iran tie is not nearly as close as outsiders have imagined," she said, noting Beijing has essentially halted state-backed infrastructure investment since 2018.
+Removing a major Chinese bank from the SWIFT system would significantly increase devaluation pressure on the Chinese yuan, which is “not acceptable" to Beijing, she told CNBC's "The China Connection" on Tuesday.
+The U.S. dollar index has strengthened since the Iran war began on Feb. 28, up by about 1.5%.
+The Chinese yuan has gained nearly 2% against the U.S. dollar in that time, and more than 3% against the euro.
+Earlier this year, China helped broker initial peace talks between Iran and the U.S. in Pakistan.
+But analysts at the time cautioned that Beijing had neither the capability nor inclination to pressure either side into negotiating.
+"Beijing hasn't even begun to play hard ball with America," Alexander said.
+As for the U.S. response, "the question isn't what could be done," he told CNBC in an email, "the question is whether anything WILL be done."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+    publishedAt: "2026-08-25T12:42:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "stick-with-value-stocks-until-everyone-s-921a6906",
+    title: "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+    publishedAt: "2026-08-25T12:40:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-44741253",
+    readTime: 2,
+  },
+  {
+    id: "oil-drops-more-than-3-on-report-u-s-plan-9272e876",
+    title: "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Oil prices fell more than 3% on Tuesday, after the New York Times reported the State Department plans to return evacuated diplomats to the Middle East, in a sign the U.S. does not expect a return to full-scale war.
+Brent crude oil futures were last seen trading 3.4% lower at $89.05 per barrel, its lowest since Aug. 13. U.S. West Texas Intermediate crude fell 3.6% to trade around $81.99 a barrel.
+Tuesday's moves extended declines from Monday, when Brent fell by 3%.
+While U.S. strikes in the Middle East have quieted in recent weeks, Washington has instead made moves to exert huge economic pressure on Iran.
+The U.S. government unveiled a fresh raft of sanctions on Iran this week, as well as so-called "enablers" that continue to trade with the country.
+The White House has labeled its efforts an "economic D-Day," with Treasury Secretary Scott Bessent touting the initiative as "the single greatest financial offensive ever" on Monday.
+Meanwhile, U.S. Defense Secretary Pete Hegseth told reporters on Monday that the prospect of further American strikes in the Middle East remained on the table.
+"If we need to use kinetic strikes, we'll use them," he said. "If Iran is foolish enough to overplay their hand or mess with the American military, we'll do what we need to do."
+"Economic pressure hurts them the most right now," he said of the Iranian regime. "But by no means are we foreclosing using kinetic strikes anywhere in the Strait of Hormuz or around Iran."
+Iranian Economy Minister Ali Madanizadeh said on state television that Tehran is "fully prepared" to withstand more U.S. sanctions.
+"The government is and was ready and has a two-year plan to manage these events," he said. "We have our own tools and we know how to play the game."
+China vows to defend its interests
+China, one of Iran's largest trading partners, has repeatedly called for a diplomatic end to the U.S.-Iran war. Under the new "economic D-Day" plans, China could face ramifications for continuing to buy Iranian oil.
+On Tuesday, Chinese Foreign Ministry Spokesperson Lin Jian told reporters Beijing would "do everything necessary to firmly safeguard its rights and interests."
+"China has made clear on many occasions its firm opposition to illicit unilateral sanctions that have no basis in international law or the authorization of the UN Security Council," he said. "Economic warfare and maximum pressure provide no solution."
+He added that China's cooperation with Iran is conducted within the framework of international law, and should therefore not be disrupted.
+In a Tuesday note, BBH strategists said the Trump administration's latest tactics were "more of a warning shot than a decisive blow."
+"The U.S. expanded sanctions on Iran but stopped short of any immediate secondary sanctions against other countries sustaining Iran's trade. China is the critical pressure point — it is Iran's largest trading partner and buys roughly 90% of its oil exports — and the biggest constraint on making the sanctions credible."
+They added that targeting China as a trading partner of Iran would mean targeting major Chinese banks and refiners, "risking financial disruption, Chinese retaliation, and the fragile US-China détente."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+    publishedAt: "2026-08-25T12:23:32+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "nvidia-s-dependence-on-hyperscalers-face-38985b21",
+    title: "Nvidia’s dependence on hyperscalers faces big test in earnings report",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Nvidia has been the profit engine of the artificial intelligence boom, filling up data centers with its graphics processing units, which are also powering the biggest AI models.
+But if there's one persistent concern among investors regarding Nvidia's ability to build on its $5 trillion market cap, it's customer concentration. Nvidia counts on the group known as the hyperscalers — Amazon, Google and Microsoft — for an outsized amount of revenue, as those companies buy GPUs in bulk for their own workloads, and sell access to them through their giant cloud businesses.
+Add to that Meta and SpaceX, which have also been massive buyers as they build their own models, while also starting to rent out some of their Nvidia capacity to other companies that need it right away.
+In its last earnings report in May, Nvidia changed the way it reports financials to split out hyperscalers from the rest of the pack, which it now groups as AI clouds, industrial and enterprise, or ACIE. Nvidia doesn't specify which companies fall into the former group, but CEO Jensen Huang has defined the group pretty clearly.
+"The easiest go-to-market, of course, is the hyperscaler, because there are only five or six of them," Huang said on the May earnings call. "The rest of them, the rest of the industry, represents 250,000 companies around the world."
+As Wall Street gears up for Nvidia's fiscal second-quarter earnings report after the bell on Wednesday, the ACIE portion of the customer base is coming under the microscope. In the first quarter, the two segments were almost equal, with Nvidia reporting $37.9 billion in hyperscaler sales and nearly $37.5 billion in ACIE revenue. Nvidia highlighted that its ACIE revenue grew at 31% from the prior period, topping 12% growth from hyperscalers.
+Skepticism has started seeping into the stock. The shares fell 2.9% on Monday, dropping for a seventh straight day, the longest losing streak since 2022. They're down 7.5% over that stretch.
+Nvidia stakeholders want the company to become less reliant on a small subset of customers, and they also worry about the ability of those companies to further bolster their spending. Amazon and Alphabet turned cash flow negative in the second quarter, and Meta's cash generation dwindled by more than 90% from a year earlier. Both of Elon Musk's public companies — SpaceX and Tesla — reported negative free cash flow as they pursue AI expansions.
+"This story underneath the surface is investors' concern about just how sustainable the run has been for Nvidia, and feeling like the hyperscalers just can't give much more," Gene Munster, managing partner at Deepwater Asset Management, said in an interview. "They want to start to see the other segment starting to kick in."
+Other business to grow faster
+Nvidia in May provided nine restated quarters of history on its website, showing hyperscalers making up about 55% of data center revenue in the past year. Hyperscaler revenue soared 115% from a year earlier in the most recent quarter, topping the 74% growth from ACIE customers.
+Analysts expect the trend to flip going forward. The ACIE side of the business is expected to show 149% annual growth over the past year to $43 billion in the second quarter, while hyperscaler revenue is likely to show growth of 83% to $43.6 billion, according to StreetAccount. One potential big driver for the hyperscaler business is SpaceX, which aims to rapidly build out Nvidia-based data centers over the next year, Munster said.
+In total, analysts see Nvidia's revenue almost doubling from a year earlier to $92.2 billion, according to LSEG. Data center continues to account for a bigger chunk of sales, with that division expected to reach $86.3 billion, based on StreetAccount estimates. That would be 94% of the total, up from 92% in the first quarter.
+For the full year, analysts expect 83% revenue growth to $396 billion, before slowing to 44% expansion next year, according to LSEG.
+In its effort to diversify, Nvidia is being proactive rather than waiting for new customers to arrive. Recognizing that very few companies have the cash or balance sheet to support purchases of its rack-scale systems, Nvidia is working with Wall Street to turn GPUs into an asset class.
+Earlier this month, Nvidia unveiled a program with six leading financial firms that could pull together up to $500 billion in financing from investors who view chips as an investable asset, like real estate. Such a project, Huang said, could enable more companies to borrow money for GPU purchases at lower rates, because the chips will generate returns.
+Nvidia said in the announcement that it had signed a memorandum of understanding with the investment firms. Few specifics have been presented.
+"There's been a lot of headlines and big numbers and not a lot of details on how this stuff is going to work yet," Stacy Rasgon, an analyst at Bernstein, told CNBC last week. "Color that they could give on that would be helpful to put some investors' minds at ease."
+Another crucial number in Nvidia's earnings report will be sales of Vera Rubin systems, which have just recently started to ramp up. Earlier this year, Huang told attendees at the company's GTC conference that he expects $1 trillion in sales through 2027 from current-generation Blackwell and Vera Rubin.
+Questions about the long tail of the customer base could ease if Vera Rubin looks like an even bigger success than projected.
+"We expect Nvidia to report strong results and guidance with ramping Rubin GPU shipments representing the key drivers of upside," KeyBanc analysts, who recommend buying the stock, wrote in a note over the weekend.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+    publishedAt: "2026-08-25T12:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "dick-s-sporting-goods-stock-falls-15-as-1fedcab4",
+    title: "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Dick's Sporting Goods on Tuesday reported quarterly earnings that missed Wall Street expectations and lowered its outlook for Foot Locker amid what it called a "challenging athletic footwear and apparel marketplace."
+Dick's stock fell roughly 15% in premarket trading Tuesday.
+The company said Dick's stores saw 4.9% comparable sales growth for the quarter driven by "broad-based growth" across categories, including strong results from the World Cup.
+However, Dick's said Foot Locker saw comparable sales decline by 3.6%, leading the company to revise its outlook to for the Foot Locker business to a range of flat to down 2%. It still expects the Dick's business to grow between 2.5% and 4%, but the company lowered its overall net sales outlook for the year from a range of between $22.1 billion and $22.4 billion to a range of between $21.9 billion and $22.2 billion.
+The company lowered its consolidated operating income outlook from a previous range of between $1.69 billion and $1.81 billion to a range of $1.45 billion to $1.55 billion.
+Here's how Dick's performed in its second fiscal quarter compared with what Wall Street was expecting, according to a survey of analysts by LSEG:
+- Earnings per share: $3.53 adjusted vs. $3.76 expected
+- Revenue: $5.59 billion vs. $5.65 billion expected
+For the period ended Aug. 1, Dick's reported net income of $315 million, or $3.50 per share, down from $381 million, or $4.71 per share, the year prior. Adjusting for one-time items, including its Foot Locker acquisition, Dick's reported $3.53 per share.
+Sales rose to $5.59 billion from $3.65 billion in the year-ago period.
+"While we are taking a more cautious view of the balance of the year, we remain highly confident in the strength of the DICK'S Business and our long-term opportunity at Foot Locker," CEO Lauren Hobart said in a statement.
+The company also said it received $59 million in tariff refunds during the quarter and $2.1 million in related interest income.
+The earnings come as Dick's is in the midst of implementing a turnaround for Foot Locker, which has previously weighed on the company's bottom line. Dick's has sought to refine Foot Locker's strategy to return to growth, especially at a time when sportswear is booming.
+Dick's acquired Foot Locker for $2.4 billion in 2025, saying at the time that it planned to use the deal to expand its international presence and better position itself against its competitors.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+    publishedAt: "2026-08-25T11:41:49+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "the-debasement-trade-returns-after-besse-d547f1f4",
+    title: "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The debasement trade is gaining new traction on Wall Street as concern over the size and cost of the budget deficit mounts.
+The conventional wisdom behind the trade is that perceived hard assets, like cryptocurrencies and precious metals, gain as investors try to hedge against a weaker U.S. dollar and Treasury debt in the face of ballooning government spending. Those fears reached a fever pitch last week before, and after, the Treasury Department's unusual step of increasing debt buybacks under Secretary Scott Bessent.
+"The size of the Treasury purchases announced so far by Bessent are trivial in comparison to the size of the overall market, but the [signaling] effect was very powerful," said Stephen Coltman, head of macro at 21Shares, a crypto-focused creator of exchange-traded funds.
+Gold touched three-month highs Monday, building on last week's advance of more than 5%. The yellow metal has climbed for five straight weeks and in August is on track for its biggest monthly rise since 1999.
+Bitcoin added 2% Monday, to the highest since May. Last week, the digital currency soared 22%, its biggest three-day rally since 2023. Overnight Tuesday, the crypto touched $80,000.
+Conversely, investors fled the dollar.
+The U.S. dollar index, which tracks the dollar against six other leading currencies, hit three-month lows last week and recorded its third down week in the last four. The index was little changed on Monday as investors expressed little appetite to bid up the greenback.
+'Message' in markets
+The Treasury Department said last week that it would double the maximum size of its bond buyback, to at least $4 billion from $2 billion. Two senior Treasury officials told CNBC Monday that the department could use its General Account to help fund the plans.
+Last week's announcement followed news that the monthly U.S. budget deficit in July reached a five-year high and came at the same time as total federal government debt topped $40 trillion. Bessent told CNBC last week that he wields a "big toolkit" to calm the government bond market amid concerns about the government's financial health.
+Long-dated U.S. Treasury yields surged last week, at one point sending the 30-year yield to almost a 20-year high of 5.34%, up from 4.82% in late June. Yields dipped and then rebounded in the wake of the Treasury buyback move, a signal that bond investors believed Bessent's moves were inadequate.
+"Markets are saying something," the billionaire philanthropist and former energy trader John Arnold said in a Friday post on X. The weaker dollar, lower Treasury prices and strengthening hard assets, are "all part of the debasement trade," he wrote.
+The Treasury's moves could aid the bond market, but also translate into outsized pain for the dollar, according to Nohshad Shah, Citadel's head of fixed income sales for Europe, the Middle East and Africa.
+The stakes are high for monetary policymakers, as a weaker greenback can ease financial conditions, Shah said. U.S. inflation — above the Federal Reserve's 2% target for five years — could worsen.
+The Fed might need to hike interest rates in response, Shah said. Fed funds futures reflect about a 56% chance the central bank raises borrowing costs at its October meeting, up more than seven percentage points from a week ago, according to CME's FedWatch tool.
+"The bond market's message is straightforward: fiscal or monetary policy should be tighter," Shah said in a Monday note. "Households may ultimately pay for policymakers' unwillingness to fix the roof whilst the sun is shining."
+Coltman at 21Shares said the appetite for alternative stores of value also stems from mounting geopolitical tension. The U.S. on Monday rolled out a global sanctions program focused on segregating Iran from the global economy, days after slapping 50% tariffs on billions of dollars in Canadian exports.
+'Inflection point'
+Still, assets that would benefit from a debasement trade have recently received votes of confidence on Wall Street.
+Deutsche Bank analyst Michael Hsueh said in a Monday note that gold could surpass his target price of $4,800 an ounce. Already, that level suggests the precious metal only need to rise another 3% or so from where it closed on Friday. "We see the Treasury policy change as underlining the gold constructive view," Hsueh said.
+Billionaire investor Ray Dalio recommended investors remain overweight gold and bitcoin ahead of what he warned could become a debt crisis in the U.S. as a result of unchecked government spending. Gold could account for as much as 15% of a model portfolio, the Bridgewater Associates founder said.
+"The government's financial condition is at an inflection point," Dalio wrote on LinkedIn Friday. "If this is not dealt with now, the debts will build up to levels where they can't be managed without great trauma."
+Others are less sure, devaluing the notion of a debasement trade.
+It's probably too early to endorse the idea unless it's clear that the Fed will go along with the Treasury Department, said Alexander Lis, investing chief at Social Discovery Ventures.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
+    publishedAt: "2026-08-25T11:24:50+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "onlyfans-owner-was-paid-over-700m-before-e7998feb",
+    title: "OnlyFans owner was paid over $700m before his death",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `OnlyFans owner was paid over $700m before his death
+- Published
+The late owner of streaming platform OnlyFans was paid more than $700m (£513m) in dividends before his death from cancer earlier this year.
+Fenix International Ltd, the British company that owns OnlyFans, made $714m in profit before tax last year, it said in its annual report. This is an increase of 5% from 2024.
+The site hosts a range of subscription-based content from cooking to fitness videos, but it is best known for pornography and is credited with transforming online adult content by encouraging personal connection between sex workers and subscribers.
+Its owner Leonid Radvinsky, who died earlier this year aged 43, bought the site from its British founders in 2018.
+OnlyFans employs just 47 people. Companies with such high profits rarely have such small staff - for example, British retail giant Marks and Spencer, which employs over 65,000 people, made £671m in profit last year.
+Fenix International's company results show that it paid dividends of $535m for the year ending 30 November 2025, with further dividends payments totalling $174m between then and 26 March 2026.
+Radvinsky, who was born in Ukraine and raised in the US, died on 23 March. The company is now owned by his widow, Yekaterina 'Katie' Chudnovsky.
+OnlyFans surged in popularity during the Covid-19 pandemic, landing Radvinsky on Forbes' annual list of billionaires just three years later.
+The site is known for the way it encourages creators and fans to connect through livestreams, personalised messages, and direct requests for custom-made photos and videos.
+In return for hosting the material, OnlyFans takes a 20% share of all payments.
+The site had 132 million paying subscribers and 2.5 million active creators in 2025.
+The boom in size and popularity under Radvinsky's ownership also brought scrutiny from lawmakers and regulators over its adult content — a recent BBC Three documentary uncovered allegations of exploitation, coercion and violence committed against OnlyFans creators.
+In 2024, British regulators launched an investigation into whether children were accessing porn, an issue that the company at the time blamed on a technical issue.
+Ofcom ultimately dropped that probe, but it fined the firm about £1m, external for failing to respond accurately to its requests for information about the measures it had in place to check the age of its users, who in theory must be 18 or over.
+Creators have also debunked the narrative that making explicit videos on the site is a get-rich-quick scheme.
+Keily Blair, the chief executive of OnlyFans, said on Tuesday that the company had paid over $30bn to creators since launching a decade ago.
+"OnlyFans provides real opportunities to real people by creating a safe, regulated space where people can monetise their content with a global fan base," she said.
+"As a UK-based business we have also made a significant contribution to the UK economy, paying over £600 million in corporate taxes from 2016 to date."
+Related topics
+- Published23 March
+- Published9 April 2025`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8d3p2g2p05o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T10:09:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e7a/live/91d81fb0-a064-11f1-ab55-41a63a22b55d.jpg",
+    readTime: 2,
+  },
+  {
     id: "burnham-refuses-to-rule-out-tax-rises-in-fde4d4df",
     title: "Burnham refuses to rule out tax rises in autumn Budget",
     titleJa: "バーナム氏、秋予算での増税の可能性を排除せず",
@@ -1200,463 +1448,6 @@ Related topics
     publishedAt: "2026-08-24T10:39:23+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg",
-    readTime: 2,
-  },
-  {
-    id: "crosscountry-train-services-resume-after-b2eedbcb",
-    title: "CrossCountry train services resume after outage",
-    titleJa: "クロスカントリー列車の運行は停電後に再開",
-    summaryJa: "クロスカントリー列車の運行は停電後に再開- 公開されました",
-    bodyOriginal: `CrossCountry train services resume after outage
-- Published
-Train operator CrossCountry says it expects to run a full service on Monday after cancelling nearly all of its UK services the day before following a power cut at its control centre.
-The outage in Birmingham at the weekend brought disruption from Glasgow to Penzance.
-Major routes were affected between Birmingham and Manchester, which pass through Stoke-on-Trent, Coventry and Wolverhampton. Journeys from Leeds to York and Cheltenham to Cardiff were also caught in the travel chaos, leaving passengers frustrated.
-On Monday morning, CrossCountry reported a handful of service cancellations, although these were put down to trains departing late and staff shortages.
-Customers are advised to check their journey before travelling.
-The operator on Sunday thanked passengers for their patience and understanding during the disruption.
-Tickets purchased for travel on CrossCountry services on Sunday will be valid for travel on CrossCountry services until Wednesday, the company has said.
-On Sunday, a range of personal experiences were shared by passengers.
-Andy Burton, from Worcester, was travelling back from Cromford to Worcester after spending the weekend away with family celebrating his sister's birthday, but only got as far as Derby before his journey came to a premature end.
-He was forced to stay the night in a budget hotel in the hope he could return home on Monday.
-"It was only once I had arrived at Derby that a member of staff told me my planned alternative route via Leicester had also been cancelled, because it was part of the CrossCountry disruption," he said.
-"I soon realised I was stranded, as they said there was no alternative train route back to Worcester.
-"It's not the best end to a great weekend away."
-Reese Proctor described the cancellations as "frustrating and unacceptable" as he tried to get to Manchester's Etihad Stadium in time for a 14:00 BST kick-off against Bournemouth.
-He had hoped to get a train from Reading to Manchester, but instead resorted to driving more than 100 miles to his friend's house in Leicester before driving on to the stadium.
-The 22-year-old told BBC Newsbeat the drive had added an extra two hours to his journey, leaving him "fuming".
-A number of services resumed on Sunday evening, including an hourly train service from Birmingham New Street to Leicester and Derby.
-On Sunday, Transport Secretary Heidi Alexander said she was "concerned" by the situation.
-She said: "We are setting up Great British Railways and nationalising services, including CrossCountry next year, to end decades of fragmentation and vulnerability on our network. We are determined to give passengers the reliability they deserve."
-The National Union of Rail, Maritime and Transport Workers (RMT) has called for a review of railway operational control centres following the disruption, "to ensure they remain unaffected by power outages".
-RMT general secretary Eddie Dempsey said passengers and rail workers should not have to face another week of "travel chaos" because of unreliable back-up systems.
-CrossCountry was ranked Britain's worst rail operator in June.
-Get in touch
-Have you been affected by the disruption?
-Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.
-- Published18 June
-- Published29 April
-- Published11 February`,
-    bodyJa: `クロスカントリー列車の運行は停電後に再開
-- 公開されました
-鉄道運営会社クロスカントリーは、前日に管制センターの停電を受けて英国でのほぼすべての運行を中止したが、月曜日には全運行する予定だと述べた。
-週末にバーミンガムで起きた停電により、グラスゴーからペンザンスまで混乱が生じた。
-ストークオントレント、コベントリー、ウルヴァーハンプトンを通るバーミンガムとマンチェスター間の主要路線が影響を受けた。リーズからヨーク、チェルトナムからカーディフへの旅も旅行の混乱に巻き込まれ、乗客は不満を感じた。
-月曜朝、クロスカントリーは数件の運行中止を報告したが、その原因は列車の出発遅延と人員不足だった。
-お客様は旅行前に自分の行程を確認することをお勧めします。
-運行会社は日曜日、混乱時の忍耐と理解を乗客に感謝した。
-同社によると、日曜日にクロスカントリーサービスでの旅行のために購入したチケットは水曜日までクロスカントリーサービスでの旅行に有効だという。
-日曜日、乗客たちはさまざまな個人的な経験を共有した。
-ウースター出身のアンディ・バートンさんは、妹の誕生日を祝うために家族と週末を過ごした後、クロムフォードからウースターに戻る途中だったが、ダービーまでしか到達せずに旅は途中で終了した。
-彼は月曜日に帰宅できることを願って、安宿に一晩泊まることを余儀なくされた。
-「ダービーに到着して初めて、スタッフから、計画していたレスター経由の代替ルートも中止になったと告げられた。クロスカントリーの混乱の一環だったからだ」と彼は語った。
-「ウースターに戻る別の鉄道ルートはないと言われたので、私はすぐに立ち往生していることに気づきました。
-「素晴らしい週末を過ごす最高の終わり方ではないね。」
-リース・プロクター監督は、ボーンマス戦の英国標準時間14時キックオフに間に合うようにマンチェスターのエティハド・スタジアムに到着しようとしていた際に、今回のキャンセルは「もどかしく、受け入れがたい」と述べた。
-彼はレディングからマンチェスターまで電車で行くことを望んでいましたが、代わりにレスターの友人の家まで160マイル以上車で向かい、その後スタジアムへ向かいました。
-22歳の彼はBBCニュースビートに対し、ドライブのせいで移動時間がさらに2時間長くなり、「イライラしていた」と語った。
-日曜日の夜には、バーミンガム・ニューストリートからレスターやダービーへの1時間ごとの列車運行など、多くの運行が再開された。
-ハイジ・アレクサンダー運輸長官は日曜日、この状況を「懸念している」と述べた。
-彼女は、「私たちは、何十年にもわたる私たちのネットワークの断片化と脆弱性に終止符を打つために、グレートブリティッシュ鉄道を設立し、来年クロスカントリーを含むサービスを国有化するつもりです。」私たちは乗客にふさわしい信頼性を提供することを決意しています。」
-全国鉄道海運運輸労働組合（RMT）は、今回の混乱を受けて「停電の影響を受けないようにする」ため、鉄道運行管理センターの見直しを求めている。
-RMTのエディ・デンプシー書記長は、乗客と鉄道職員が、信頼性の低いバックアップシステムのせいでさらに1週間の「旅行混乱」に直面する必要はないと述べた。
-クロスカントリーは6月に英国最悪の鉄道事業者にランクされた。
-連絡する
-混乱の影響を受けましたか?
-BBC バーミンガムを BBC Sounds、Facebook (外部)、X (外部)、Instagram (外部) でフォローしてください。
-- 6 月 18 日公開
-- 4 月 29 日発行
-- 2 月 11 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T06:41:05+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/183e/live/5b94c360-9f1d-11f1-b2a2-8945a27a2843.jpg",
-    readTime: 4,
-  },
-  {
-    id: "china-probes-use-of-formaldehyde-to-keep-1f3268ec",
-    title: "China probes use of formaldehyde to keep cabbages fresh",
-    titleJa: "中国、キャベツの鮮度を保つためのホルムアルデヒド使用を調査",
-    summaryJa: "中国、キャベツの鮮度を保つためのホルムアルデヒド使用を調査- 公開されました",
-    bodyOriginal: `China probes use of formaldehyde to keep cabbages fresh
-- Published
-Authorities in China have launched an investigation into reports of formaldehyde being used to preserve the freshness of cabbages for human consumption.
-Officials in the northeastern Hebei province confirmed that they had verified footage showing individuals dipping cabbages in a solution before loading them onto trucks for transportation.
-An environmental blogger first released the footage last week. Using formaldehyde, a colourless chemical that is known to cause cancer, for preserving the freshness of food in China is strictly prohibited.
-China is the world's largest producer of cabbages, most of which are exported to neighbouring countries in Asia.
-Police have taken legal action against the individuals involved, according to state media.
-Officials are now moving swiftly to prevent panic and restore confidence by carrying out spot checks on markets across the country.
-Chinese state media says investigators will also establish how widespread the practice is and take measures to trace affected vegetables.
-In a statement issued on Saturday, local authorities in Kangbao county said: "Any illegal or non-compliant practices discovered will be dealt with strictly in accordance with the law to ensure the safety of the vegetable supply."
-Xinfadi market in Beijing, one of the major sources of fresh produce in the capital, issued a statement saying that it had investigated the source of its cabbages, adding that none of the affected vegetables had entered its market.
-The incident has generated widespread media attention in China.
-An editorial in the People's Daily wrote: "The wholesalers focused solely on their immediate economic interests while completely disregarding the lives and health of consumers. [They] crossed a legal red line and breached the moral bottom line."
-China produces well over 30 million tons of cabbages each year, nearly half of the world's annual total. Vietnam, South Korea and Russia are among the largest export destinations for the vegetable.
-Exposure to relatively high quantities of formaldehyde in some workplaces has been linked to some types of cancer in humans, but the effect of exposure to small amounts is less clear, according to the American Cancer Society.`,
-    bodyJa: `中国、キャベツの鮮度を保つためのホルムアルデヒド使用を調査
-- 公開されました
-中国当局は、人間が消費するキャベツの鮮度を保つためにホルムアルデヒドが使用されているという報告について調査を開始した。
-河北省北東部の当局者は、輸送用のトラックにキャベツを積み込む前に、キャベツを溶液に浸す人々を映す映像を確認したことを認めた。
-環境ブロガーが先週初めてこの映像を公開した。中国では、食品の鮮度を保つために、発がん性があることが知られている無色の化学物質であるホルムアルデヒドを使用することは厳しく禁止されている。
-中国は世界最大のキャベツ生産国で、そのほとんどがアジアの近隣諸国に輸出されている。
-国営メディアによると、警察は関係者に対して法的措置を講じた。
-当局は現在、全国の市場で抜き打ち検査を実施することでパニックを防ぎ、信頼を回復するために迅速に動いている。
-中国国営メディアは、捜査員がこの慣行がどの程度広がっているかを明らかにし、影響を受けた野菜を追跡するための措置を講じると述べている。
-土曜日に発表された声明の中で、江保県の地方当局は「野菜供給の安全性を確保するため、違法または違反行為が発見された場合は法律に従って厳格に対処される」と述べた。
-首都の生鮮食品の主要供給源の一つである北京の新発地市場は声明を発表し、キャベツの供給源を調査したと発表し、影響を受けた野菜は市場に入っていないと付け加えた。
-この事件は中国で広くメディアの注目を集めた。
-人民日報の社説は、「卸売業者は消費者の命と健康を完全に無視しながら、目先の経済的利益のみに焦点を当てた。（彼らは）法的な越えてはならない一線を越え、道徳的最低ラインに違反した」と書いた。
-中国は毎年 3,000 万トンを優に超えるキャベツを生産しており、これは世界の年間総量のほぼ半分に相当します。ベトナム、韓国、ロシアはこの野菜の最大の輸出先です。
-米国癌協会によると、一部の職場での比較的大量のホルムアルデヒドへの曝露は、人間の一部の種類のがんと関連しているが、少量への曝露の影響はそれほど明らかではない。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T05:40:48+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc4/live/3beac070-9f70-11f1-b05d-ad36121ca56d.jpg",
-    readTime: 2,
-  },
-  {
-    id: "nearly-three-million-teslas-recalled-in-3cc8f276",
-    title: "Nearly three million Teslas recalled in China over hidden door handles",
-    titleJa: "隠しドアハンドル問題で中国で300万台近くのテスラがリコール",
-    summaryJa: "隠しドアハンドル問題で中国で300万台近くのテスラがリコール- 公開されました",
-    bodyOriginal: `Nearly three million Teslas recalled in China over hidden door handles
-- Published
-Minimalistic retractable door handles became a signature feature of electric vehicles (EVs), but the controversial designs are now at the centre of China's biggest car recall, affecting more than 4 million vehicles.
-The recall, which includes 2.98 million Chinese-made Teslas, follows safety concerns that the hidden door handles are difficult to locate and open in emergency situations.
-Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.
-Made popular by multi-billionaire Elon Musk's Tesla, hidden door handles are designed to tuck seamlessly within the car's door panel and only extend outwards when an owner approaches their vehicle.
-The design came under scrutiny after two fatal crashes in China involving Xiaomi EVs, in which power failures were suspected to have prevented doors from being opened.
-Tesla said in a statement on Friday that it was recalling some of its Model 3, Y, S and X vehicles due to door handles that are "difficult to identify and operate because their colour is similar to the interior trim".
-This could hinder occupants or rescuers from quickly opening the doors in an emergency, such as during a "severe collision causing the vehicle's low-voltage system to fail."
-Tesla said it will place warning labels on the recalled vehicles and issue a software update to automatically lower a vehicle's windows after a collision.
-It is not clear if the affected firms plan to make a similar recall for the rest of the world.
-The BBC has contacted Tesla, XPeng, Xiaomi and Geely for comment.
-The use of the hidden handle design has "snowballed" after Chinese brands were quick to copy the "sleek" look of Tesla's Model S sedan since 2014, said Tu Le, the founder of consultancy Sino Auto Insights.
-The use of warning labels and a software update is more of a "band-aid" than a lasting solution for the issue, he added.
-In February, Chinese authorities announced a ban on hidden door handles.
-Under new rules due to take effect on 1 January 2027, cars will only be allowed to be sold in China if they have a mechanical release on both the inside and outside of their doors.
-Tesla's door handles were also involved in a probe by US safety regulators after reports that they suddenly stopped working, leaving children trapped in the cars.
-In July, the US National Highway Traffic Safety Administration suggested creating a new formal safety standard for all carmakers.
-The BBC has contacted the agency for comment.
-Related topics
-- Published27 May
-- Published29 January`,
-    bodyJa: `隠しドアハンドル問題で中国で300万台近くのテスラがリコール
-- 公開されました
-ミニマルな格納式ドアハンドルは電気自動車（EV）の特徴的な機能となったが、物議を醸しているこのデザインは現在、400万台以上の車両に影響を与える中国最大の自動車リコールの中心となっている。
-今回のリコールには中国製テスラ298万台が含まれており、隠しドアハンドルが緊急時に見つけにくく開けにくいという安全上の懸念を受けて行われた。
-リコールの影響を受ける他のブランドには、中国の自動車メーカーXPeng、Xiaomi、Geelyなどが含まれる。
-億万長者イーロン・マスク氏のテスラによって普及した隠しドアハンドルは、車のドアパネル内にシームレスに収まり、所有者が車に近づいたときにのみ外側に伸びるように設計されています。
-中国で小米科技（シャオミ）のＥＶが絡む死亡事故が２件発生し、停電によりドアが開かなくなった疑いがあり、この設計が精査されるようになった。
-テスラは金曜日の声明で、ドアハンドルが「色がインテリアトリムと似ているため、識別や操作が難しい」ため、モデル3、Y、S、Xの一部車両をリコールすると発表した。
-これにより、「車両の低電圧システムに障害が発生する重大な衝突」などの緊急時に、乗員や救助者がドアを素早く開けるのが妨げられる可能性がある。
-テスラは、リコール対象車両に警告ラベルを貼り、衝突後に車両の窓を自動的に下げるソフトウェアアップデートを発行すると発表した。
-影響を受けた企業が世界の他の地域に対しても同様のリコールを計画しているかどうかは不明である。
-BBCはテスラ、XPeng、Xiaomi、Geelyにコメントを求めた。
-コンサルタント会社Sino Auto Insightsの創設者Tu Le氏は、2014年以来中国ブランドがテスラのモデルSセダンの「洗練された」外観をすぐに模倣したことを受けて、隠しハンドルデザインの使用が「雪だるま式」に増えたと語った。
-警告ラベルの使用やソフトウェアのアップデートは、問題の永続的な解決策というよりも「応急処置」に近いと同氏は付け加えた。
-中国当局は2月、隠しドアハンドルの禁止を発表した。
-2027年1月1日に発効予定の新規則では、ドアの内側と外側の両方に機械的リリースが付いている自動車のみ中国での販売が許可される。
-テスラのドアハンドルも突然作動しなくなり、子供たちが車内に閉じ込められたとの報告を受け、米国の安全規制当局による調査の対象となった。
-7月、米国道路交通安全局は、すべての自動車メーカーに対して新しい正式な安全基準を作成することを提案した。
-BBCは同局にコメントを求めた。
-関連トピック
-- 5 月 27 日公開
-- 1 月 29 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T05:01:17+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96b3/live/afd3f120-9f87-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 3,
-  },
-  {
-    id: "divorce-smartphones-and-control-bbc-sees-8dcf9155",
-    title: "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
-    titleJa: "離婚、スマートフォン、支配 - タリバンがアフガニスタンをどのように運営しているかをBBCが見る",
-    summaryJa: "離婚、スマートフォン、支配 - タリバンがアフガニスタンをどのように運営しているかをBBCが見る- 公開されました",
-    bodyOriginal: `Divorce, smartphones and control - BBC sees how Taliban run Afghanistan
-- Published
-Governor Abdullah Sarhadi gives money to treat a boy's broken arm and hands out funds for a local mosque - then, in his office in northern Afghanistan, an astonishing exchange unfolds.
-A young woman tells the grey-bearded former Taliban commander that she wants to divorce her husband, who she accuses of months of abuse and beatings.
-She will not take no for an answer.
-In a country where girls are banned from secondary education, the 18-year-old argues her case calmly and confidently, her face completely hidden behind a full-face veil and sunglasses.
-"If there was any chance to live together, I wouldn't be here… I have taken my decision," she says.
-After trying to persuade her to avoid divorce, the governor later comments that women are "mindless" and "deficient in intellect", to laughter from the male officials, bodyguards and elders around him.
-The moment gives a rare glimpse into the day-to-day realities of the Taliban's rule, five years after they swept aside the US-backed government in 2021.
-In that time, women have been excluded from most workplaces, banned from universities and may not travel alone or visit parks and leisure centres.
-In encounters spread over two years, the BBC gained unusual access to influential figures in the extreme Islamist movement, spending time with men who once planned suicide attacks or spent years in underground hideouts, but are now officials and soldiers.
-The Taliban came into power saying they had changed, but many of their policies are similar to the hard-line interpretation of Sharia - Islamic religious law - they imposed in the 1990s.
-The men we met seemed to want to present themselves as reasonable, yet were not keen to discuss their past violence. And we saw moments of unease between the rulers and those they rule.
-Governor Sarhadi says Tuba – not her real name – should stay in the marriage.
-"Ask yourself: 'Who would marry me after I get my divorce?'" says Sarhadi. "You'll have to compromise a lot or you'll lose your dignity and honour."
-"Mr Governor, my honour and dignity have already been ruined," she responds.
-Her husband listens, awaiting his turn to speak.
-Under Sharia, a woman requesting that her husband agrees to a divorce may have to return some or all of the money given to her by him when they married. A financial settlement is often agreed. But this woman's husband says he wants four times the amount, which her family refuses to pay.
-The governor says the woman should be given her own room. He adds that officials will warn him not to beat her - "otherwise he'd be jailed".
-Unsatisfied, Tuba's father later tells the BBC the family will pursue divorce through the courts, even though, under the Taliban's court system, it is very difficult for a woman to get a divorce without the husband's consent.
-Sarhadi was a military commander during the Taliban's first stint in power in the 1990s. He was among thousands of insurgents who surrendered in late 2001 as a US-led coalition ousted the group.
-He was held for several years in US detention in Guantanamo Bay, but eventually released.
-When the Taliban regained power, he became a governor - first in the province of Bamiyan, then when we met him in late June, in Sheberghan city in Jawzjan province. He has recently become deputy commander of a military corps in the northern province of Kunduz.
-Tapping on an old-style mobile with a tiny screen, he says a recent ban on smartphones for officials has slowed things down. "Before, you could send a quick message… sending documents and getting an answer fast." If he says any more about the ban, "it will cause trouble", he adds.
-But in other ways his worldview seems largely unchanged from the Taliban's position 25 years ago. Then, he was a military commander in Bamiyan, where the Taliban blew up ancient giant Buddha statues, triggering international shock and condemnation.
-He initially tries to avoid our questions about the archaeological site, but eventually, he says: "I destroyed it with my own hands.
-"Whatever we did and we do is in accordance with the guidance and God's law… We smash idols rather than sell them. Why should I regret? It was God's will."
-In the capital Kabul, we meet another senior Taliban figure who swapped a violent past for a role with the ruling administration.
-Habibullah Badr drives us through the streets in an armoured car.
-He says he was previously "responsible for the operations of suicide attackers" in Kabul.
-"I know all the roads and streets very well… we had all the information we needed about Kabul and its alleys," he says. "There were areas that needed a long time to plan."
-Taliban suicide attacks killed thousands of people in Afghanistan, including many civilians.
-Badr is cautious about discussing his past though, fearing it will "make people upset" and could "reopen wounds".
-Asked about civilian deaths, he says the Taliban targeted US convoys and that civilians were urged to stay away from foreign bases.
-Whenever I try to ask him about specific attacks that took place in civilian areas, he evades the question.
-He is currently taking time out from official roles for medical treatment, but was previously deputy head of prisons for the whole country – and ran the very jail where he was held on death row under the previous government.
-Badr invites us to join him at a tribal gathering, where the head of a charitable foundation is to honour him with a medal. But things take an unexpected turn.
-"Mr Badr is a pride for Afghanistan and a great fighter," says Sultan Mohammad Talaee. "But I also have a complaint. If the schools and education were open to all it would be a great work for Afghanistan. I hope this doesn't offend you."
-An awkward silence follows, his audience unsure how to react. Talaee's microphone is swiftly removed.
-Afterwards, he tells the BBC: "I requested for the girls' schools to reopen… seeking knowledge is an obligation for both men and women in Islam."
-He adds: "There were other things I wanted to say but they didn't let me talk more."
-Often those who speak out face much more severe consequences.
-Women told us of the deep despair they felt over dreams thwarted by restrictions on education, and of friends jailed for protesting.
-Most journalists we spoke to said they had been summoned or questioned by the Taliban's intelligence organisation, Estikhbaraat.
-The BBC put some of these concerns to the Taliban government's spokesman, known as Zabihullah Mujahid.
-He has been a public face for the Taliban government since 2021. He still uses the pseudonym he went by for years during the insurgency, but he told us his real name is Tahir Shah Seddiqi - revealing it publicly for the first time.
-In a lavish press centre funded by the Americans for the previous government, we ask him about the first press conference he gave there, two days after the Taliban took control of the country.
-Then, he told the world the Taliban government would allow women to work and study "within our frameworks" and they would "be very active" in society. Why did they fail to keep their word?
-"We are committed to women's rights, freedom of speech and other things within Sharia," he replies. "We should see everything through the Sharia lens."
-Allowing women to work in offices such as his own "would lead to immoralities" and "their dignity would be undermined", he adds.
-He says the issue of education for women is "under discussions… we need a Sharia-based solution for it".
-When questioned about the Taliban's crackdown on media freedom, he says: "In a society like Afghanistan we have our restrictions. We can't let media do whatever propaganda they want… they can't broadcast against Islamic laws and rites."
-The Taliban government sits in Kabul, but Mujahid spends a lot of time in the southern city of Kandahar, the Taliban's heartland, which some now consider the de facto capital.
-We ask to meet the Taliban's supreme leader, Hibatullah Akhundzada, who is based there. He rarely appears in public and has never given a media interview - we are told it will not be possible at the moment.
-Restrictions have been tightened in Kandahar since I last visited two years ago. Now men must have beards. Radio stations are not allowed to play music or broadcast women's voices, and we were not allowed to film in the city.
-Two hours' drive away, along dusty roads, some of the group's most devoted former fighters showed the BBC the insurgents' old secret cave network.
-Abid Lalai, a former fighter who now mans a checkpoint as part of a security force under the interior ministry, shows us the holes he fired from and the places he used to put his Quran and hang AK-47s.
-His superior, Abdul Samad, shows us an unmarked graveyard, saying his father is buried here, killed fighting for the Taliban.
-The area is one of the most deprived in a country where the UN says three in four people cannot provide for their basic needs. Samad says the local population desperately need water, roads and clinics.
-"Emirate [Taliban] officials have not forgotten us," says Samad. He says the leaders may be busy with other priorities. "We are hopeful, they will look after us sometime."
-Five years since the Taliban began their second stint in power, poverty, unemployment and economic instability remain pressing concerns.
-Taliban figures we spoke to said they were working to tackle them, but we met other people who believe the group itself is the country's main problem.
-"I'm speechless about how a group that has no understanding about life is suddenly in power," says Hoda - not her real name - a woman who protested on the streets when the Taliban first returned to power.
-"Women can't accept this situation," she tells the BBC. "They might advance restrictions but it won't stay like this forever."
-"I think the Taliban are scared of educated women," she adds. "That's why they restrict women. They want uneducated women so they can't raise wise men. Because that would end the Taliban."
-Additional reporting by Hafizullah Maroof`,
-    bodyJa: `離婚、スマートフォン、支配 - タリバンがアフガニスタンをどのように運営しているかをBBCが見る
-- 公開されました
-アブドラ・サルハディ知事は、骨折した少年の腕の治療に資金を提供し、地元のモスクの建設に資金を配った。その後、アフガニスタン北部の知事の事務所で、驚くべきやりとりが展開された。
-若い女性が、数か月にわたる虐待と暴行を受けていた夫を告発して、白髪のひげを生やした元タリバン司令官に離婚したいと訴えた。
-彼女は「ノー」という答えを受け入れません。
-女子の中等教育が禁止されている国で、18歳の彼女は、全身ベールとサングラスで顔を完全に隠しながら、冷静かつ自信を持って自分の主張を主張している。
-「もし一緒に住むチャンスがあったとしても、私はここにはいないだろう…私は自分の決断を下した」と彼女は言う。
-知事は離婚を回避するよう彼女を説得しようとした後、女性は「思慮がない」「知性が欠如している」とコメントし、周囲の男性役人やボディーガード、長老らの笑いを誘った。
-この瞬間は、タリバンが2021年に米国の支援を受けた政府を一掃してから5年後の、タリバン支配の日常の現実を垣間見ることができる貴重な瞬間だ。
-その間、女性はほとんどの職場から排除され、大学への入学も禁止され、一人で旅行したり、公園やレジャーセンターを訪れたりすることもできなかった。
-2年に渡って行われた接触の中で、BBCは、かつては自爆攻撃を計画したり、地下隠れ家で何年も過ごしたが、現在は役人や軍人である男性たちと時間を過ごし、過激なイスラム主義運動の影響力のある人物たちと異例の接触を獲得した。
-タリバンは自らが変わったと主張して政権を握ったが、その政策の多くは1990年代に課したシャリア（イスラム教の宗教法）の強硬な解釈と似ている。
-私たちが会った男性たちは、自分たちを理性的であると見せたいようでしたが、過去の暴力について話すことに熱心ではありませんでした。そして私たちは、支配者と彼らが支配する人々の間に不安の瞬間が見られました。
-サルハディ知事は、トゥバ（本名ではない）は結婚生活を続けるべきだと述べた。
-「『私が離婚した後、誰が私と結婚してくれるだろうか』と自問してみてください」とサルハディさんは言う。 「かなりの妥協をしなければならない、さもなければ尊厳と名誉を失うことになるだろう。」
-「知事さん、私の名誉と尊厳はすでに傷つきました」と彼女は答えた。
-彼女の夫は話を聞き、話す順番を待っています。
-シャリーアのもとでは、夫に離婚に同意するよう求めた女性は、結婚時に夫から受け取ったお金の一部または全額を返還しなければならない可能性がある。金銭的な解決が合意されることがよくあります。しかし、この女性の夫はその4倍の金額が欲しいと言い、家族はその支払いを拒否している。
-知事は女性に自分の部屋を与えるべきだと主張している。さらに、当局は彼女を殴らないように警告するだろう、「さもなければ投獄されるだろう」と付け加えた。
-不満を抱いたチューバさんの父親は後にBBCに対し、タリバンの裁判制度では女性が夫の同意なしに離婚することは非常に難しいにもかかわらず、家族は裁判所を通じて離婚を求めるつもりだと語った。
-サルハディ氏は、1990年代にタリバンが政権を握った最初の期間に軍司令官を務めた。彼は、2001年末に米国主導の連合軍がグループを追放したため降伏した数千人の反乱軍の一人だった。
-彼はグアンタナモ湾で米国の拘留中に数年間拘留されたが、最終的に釈放された。
-タリバンが権力を取り戻すと、彼は知事になった。最初はバーミヤン県で、次に私たちが６月下旬にジョズジャン県のシェベルガン市で彼に会ったとき。彼は最近、北部クンドゥズ州の軍団の副司令官に就任した。
-小さな画面を備えた古いスタイルの携帯電話をタップしながら、最近当局者へのスマートフォンの使用が禁止されたため、事態が遅くなったと彼は言う。 「以前は、簡単なメッセージを送信できました。書類を送信して、すぐに返事を得ることができました。」禁止についてこれ以上発言すれば「問題が起きるだろう」と付け加えた。
-しかし、他の点では、彼の世界観は25年前のタリバンの立場とほとんど変わっていないように見える。その後、彼はバーミヤンで軍司令官を務めたが、そこではタリバンが古代の巨大な仏像を爆破し、国際的な衝撃と非難を引き起こした。
-彼は当初、遺跡に関する私たちの質問を避けようとしていたが、最終的には「私は自分の手で遺跡を破壊した。
-「私たちが行ったこと、そして行うことはすべて、導きと神の法に従っています…私たちは偶像を売るのではなく、破壊します。なぜ後悔しなければならないのでしょうか？それは神のご意志でした。」
-首都カブールでは、暴力的な過去を捨てて政権側の役割を担ったもう一人のタリバン幹部に会う。
-ハビブラ・バドルは装甲車で私たちを街中を運転します。
-同氏は以前、カブールで「自爆テロ犯の作戦を担当していた」と述べた。
-「私はすべての道路や通りをよく知っています…カブールとその路地について必要な情報はすべて持っていました」と彼は言います。 「計画に時間がかかる部分もあった。」
-アフガニスタンではタリバンの自爆攻撃により、多くの民間人を含む数千人が死亡した。
-しかし、バドル氏は自分の過去について語ることには慎重で、それが「人々を動揺させ」、「傷が再び開く」可能性を恐れている。
-民間人の死亡について尋ねると、タリバンは米国の輸送船団を標的にしており、民間人は外国の基地に近づかないように促されていると述べた。
-私が民間地域で起きた具体的な攻撃について彼に尋ねようとすると、彼はいつも質問をはぐらかします。
-彼は現在、治療のため公務から離れているが、以前は全国の刑務所副所長を務めており、前政権下で死刑囚が拘留されていたまさにその刑務所を運営していた。
-バドル氏は、慈善財団の理事長がバドル氏を称えてメダルを授与する部族の集会に参加するよう私たちを招待する。しかし、事態は予期せぬ展開を迎える。
-「バドル氏はアフガニスタンの誇りであり、偉大な戦士だ」とスルタン・モハマド・タライー氏は語る。 「しかし、私には不満もあります。学校と教育がすべての人に開かれていれば、アフガニスタンにとって素晴らしい取り組みになるでしょう。このことで気分を害されないことを願っています。」
-気まずい沈黙が続き、聴衆はどう反応すればいいのか分からない。タライーのマイクはすぐに外される。
-その後、彼はBBCに次のように語った。「私は女子学校の再開を要請した…知識を求めることはイスラム教において男性と女性の両方の義務である。」
-さらに、「他にも言いたいことはあったが、それ以上話させてくれなかった」とも付け加えた。
-多くの場合、声を上げた人はさらに厳しい結果に直面します。
-女性たちは、教育の制限によって夢が阻まれて感じた深い絶望や、抗議活動で投獄された友人のことを語った。
-私たちが話を聞いたほとんどのジャーナリストは、タリバンの諜報機関エスティクバラートから召喚または尋問を受けたと述べた。
-BBCは、こうした懸念の一部をザビフラ・ムジャヒドとして知られるタリバン政府の報道官に伝えた。
-彼は2021年からタリバン政府の公の顔となっている。彼は反乱中何年も使っていた偽名を今も使っているが、本名はタヒル・シャー・セディキだと初めて公に明らかにした。
-前政権のためにアメリカ人が資金提供した豪華なプレスセンターで、タリバンが国を掌握した２日後にそこで行った最初の記者会見について彼に尋ねた。
-そして、タリバン政府は女性が「私たちの枠組み内で」働き、勉強することを許可し、女性たちは社会で「非常に活躍する」だろうと世界に語った。なぜ彼らは約束を守れなかったのでしょうか?
-「私たちはシャリーアの範囲内で女性の権利、言論の自由、その他のものに取り組んでいます」と彼は答えた。 「私たちはシャリアというレンズを通してすべてを見るべきです。」
-同氏は、自身のオフィスのようなオフィスで女性が働くことを許可すれば「不道徳行為につながり」、「女性の尊厳が損なわれることになる」と付け加えた。
-同氏は、女性の教育問題について「議論中だ…私たちはシャリーアに基づいた解決策を必要としている」と述べた。
-タリバンによる報道の自由に対する弾圧について質問されると、彼はこう言った。「アフガニスタンのような社会では、我々には制限がある。我々はメディアに彼らが望むどんなプロパガンダもさせることはできない…イスラム法や儀式に反する放送をすることはできない。」
-タリバン政府はカブールにあるが、ムジャヒドは多くの時間をタリバンの中心地である南部の都市カンダハルで過ごしており、現在はそこが事実上の首都であると考える人もいる。
-私たちは、そこに拠点を置くタリバンの最高指導者、ヒバトゥラ・アクンザダ氏との面会を求めます。彼はめったに公の場に姿を現さず、メディアのインタビューにも応じたことがないが、現時点では不可能だと言われている。
-私が最後に訪れたのは2年前以来、カンダハルでは規制が強化されている。今では男性はひげを生やさなければなりません。ラジオ局は音楽を流したり、女性の声を放送したりすることを禁じられており、市内での撮影も許可されていませんでした。
-車で2時間離れたほこりっぽい道沿いで、グループの最も献身的な元戦闘員の何人かが反乱軍の古い秘密の洞窟ネットワークをBBCに見せた。
-元戦闘員で、現在は内務省の治安部隊の一員として検問所に勤務しているアビッド・ラライさんは、彼が発砲した穴や、コーランを置いたりAK-47を吊るしたりした場所を見せてくれた。
-彼の上司であるアブドゥル・サマドは、私たちに標識のない墓地を見せ、タリバンのために戦って亡くなった父親がここに埋葬されていると語った。
-この地域は、4人に3人が基本的なニーズを満たせないと国連が発表しているこの国で最も恵まれた地域の一つだ。サマドさんは、地元住民が水、道路、診療所を切実に必要としていると語る。
-「首長国（タリバン）当局者は私たちのことを忘れていません」とサマド氏は言う。 He says the leaders may be busy with other priorities. 「私たちは彼らがいつか私たちの面倒を見てくれるだろうと期待しています。」
-タリバンが二度目の権力掌握を開始してから 5 年が経ちますが、貧困、失業、経済的不安定は差し迫った懸念のままです。
-私たちが話を聞いたタリバン関係者らは、タリバン対策に取り組んでいると述べたが、タリバン自体がこの国の主要な問題であると信じている人たちにも会った。
-「人生について全く理解していない集団がどうして突然権力を握ったのか言葉を失いました」とホダさん（仮名）は言う。彼女はタリバンが最初に政権に復帰したときに街頭で抗議活動を行った女性だ。
-"Women can't accept this situation," she tells the BBC. 「規制が進むかもしれないが、この状況が永遠に続くわけではない。」
-「タリバンは教育を受けた女性を恐れていると思います」と彼女は付け加えた。 「それが彼らが女性を制限する理由だ。彼らは教育を受けていない女性を望んでいるから、賢者を育てられない。それはタリバンを終わらせてしまうからだ。」
-Hafizullah Maroof による追加レポート`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T05:00:22+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d35d/live/8a564f50-9d76-11f1-a291-b542ee92de7c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "u-s-to-unveil-greatest-financial-offensi-354e1c2a",
-    title: "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-    titleJa: "イランが船舶拿捕を脅す中、米国、イランに対する「最大の金融攻撃」を発表へ",
-    summaryJa: "スコット・ベッセント財務長官は、米国は月曜日にイランに対して「史上最大の金融攻撃」を開始すると述べ、一方イランはホルムズ海峡の通航規則に違反した船舶を拿捕すると脅した。差し迫った事態の激化は、双方が合意に達するための60日間の停戦期限を逃し、中東戦争の終結を目的とした正式な停戦メカニズムが6か月目で終了したために生じた。",
-    bodyOriginal: `The U.S will unveil "the single greatest financial offensive ever" against Iran on Monday, Treasury Secretary Scott Bessent said, while Tehran threatened to seize vessels that violate transit rules in the Strait of Hormuz.
-The looming escalation comes as both sides missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism aimed at ending the Middle East war now in its sixth month.
-In a post on X Sunday evening stateside, Bessent said "at dawn begins an economic D-Day," framing the coming measures as the "endgame" for Washington's campaign against Tehran.
-The new measures will add to an extensive sanctions regime already targeting Iran's banking, energy, aviation and cryptocurrency sectors. The Trump administration has claimed that Iran's economy is in freefall, with runaway inflation and a collapsing currency.
-Bessent also warned that "any nation that serves as a financial artery of a withering regime should expect to share in its isolation" — language aimed squarely at foreign governments still transacting with Tehran. He has previously warned of further secondary sanctions on nations and entities that conduct business with Iran.
-Iran has responded by warning Gulf neighbors against joining U.S. economic measures and tightening its grip on the chokepoint, through which roughly a fifth of the world's seaborne oil passed before the war.
-On Saturday, Mohsen Rezaei, a longtime military commander who became the new secretary of Iran's Supreme National Security Council earlier this month, vowed to target the interests of oil-rich neighbors if they joined U.S. efforts to further isolate Iran.
-"Any country that becomes a partner in creating economic restrictions against us will be regarded by us as an enemy," he said in an interview with Iran's state broadcaster.
-In a series of posts on X on Sunday, Iran's state-controlled Persian Gulf Strait Authority, or PGSA, warned that vessels violating its transit rules in the Hormuz could face penalties, including "fines, seizure, or confiscation" during future passages.
-Iranian Foreign Minister Abbas Araghchi has also dismissed the threat of a fresh round of U.S. economic sanctions as a "desperate" ploy, asserting that U.S. actions, like the blockade, were set to fail.
-Tehran's parliament approved on Sunday a provision stipulating that ships passing through the Hormuz chokepoint will pay for services provided by Tehran, according to local media reports. The legislation still needs full parliamentary approval.
-Omani Foreign Minister Sayyid Badr Albusaidi is scheduled to visit Tehran on Tuesday for bilateral talks with his Iranian counterpart Abbas Araghchi, local media reported Monday. Both sides will continue discussions over the Strait of Hormuz, according to Iranian foreign ministry spokesperson Esmail Baghaei.
-Crude pulled back in Asian trading Monday despite the looming escalation. West Texas Intermediate futures, the U.S. benchmark, fell about 1.3% to $85.93 per barrel, and Brent crude, the international benchmark, dropped 1.3% to $93.22 a barrel.
-The UK Maritime Trade Operations agency reported no confirmed attacks in the strait over the 48 hours to Sunday, though it warned of a "continued risk of drifting or uncharted mines," with mine danger areas still active.`,
-    bodyJa: `スコット・ベッセント財務長官は、米国は月曜日にイランに対して「史上最大の金融攻撃」を開始すると述べ、一方イランはホルムズ海峡の通航規則に違反した船舶を拿捕すると脅した。
-差し迫った事態の激化は、双方が合意に達するための60日間の停戦期限を逃し、中東戦争の終結を目的とした正式な停戦メカニズムが6か月目で終了したために生じた。
-ベッセント氏は米国時間日曜夕方のX紙への投稿で、「夜明けに経済のDデイが始まる」と述べ、今後の措置を米国政府の対テヘラン作戦の「最終目標」と位置づけた。
-この新たな措置は、すでにイランの銀行、エネルギー、航空、仮想通貨部門を対象とした広範な制裁体制に追加されることになる。トランプ政権は、暴走するインフレと通貨の崩壊により、イラン経済はフリーフォール状態にあると主張した。
-ベッセント氏はまた、「衰退しつつある政権の金融動脈として機能する国家は、その孤立を共有することを期待すべきだ」と警告したが、これは依然としてテヘランと取引を続けている外国政府に向けた言葉である。同氏は以前、イランと取引のある国や団体に対するさらなる二次制裁について警告していた。
-イランはこれに対し、湾岸諸国に対し、米国の経済対策に参加しないよう警告し、戦前に世界の海上石油の約5分の1が通過したチョークポイントへの締め付けを強化した。
-土曜日、長年の軍司令官で今月初めにイラン国家安全保障最高評議会の新書記に就任したモーセン・レザエイ氏は、石油資源が豊富な近隣諸国がイランをさらに孤立させる米国の取り組みに参加すれば、その利益を狙うと誓った。
-同氏はイラン国営放送とのインタビューで、「われわれに対して経済的制限を設けるパートナーとなる国はすべて、われわれから敵とみなされることになる」と述べた。
-イラン国営ペルシャ湾海峡管理局（PGSA）は日曜日のXへの一連の投稿で、ホルムズ港の通航規則に違反した船舶は今後の通航中に「罰金、差し押さえ、没収」などの罰則を受ける可能性があると警告した。
-イランのアッバス・アラグチ外務大臣も、米国による経済制裁の新たな発動の脅威を「絶望的な」策略として一蹴し、封鎖などの米国の行動は失敗することが決まっていたと主張した。
-地元メディアの報道によると、テヘラン議会は日曜日、ホルムズの難所を通過する船舶にテヘランが提供するサービスの料金を支払うことを規定する条項を承認した。この法案は依然として議会の完全な承認を必要としている。
-オマーンのサイード・バドル・アルブサイディ外相は、イランのアッバス・アラグチ外相との二国間会談のため、火曜日にテヘランを訪問する予定であると地元メディアが月曜日に報じた。イラン外務省のエスマイル・バガエイ報道官によると、双方はホルムズ海峡を巡る協議を継続する。
-原油価格は、差し迫った激化にもかかわらず、月曜日のアジア取引で撤退した。米国の指標であるウェスト・テキサス・インターミディエート先物は約1.3％下落して1バレル当たり85.93ドル、国際指標であるブレント原油は1.3％下落して1バレル当たり93.22ドルとなった。
-英国海事貿易業務局は日曜までの48時間に同海峡での攻撃は確認されなかったと報告したが、機雷危険区域は依然として活動中で「漂流または地図にない機雷の危険が継続している」と警告した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html",
-    publishedAt: "2026-08-24T04:58:03+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "ex-cricket-captains-urge-proper-medical-c1d7ff70",
-    title: "Ex-cricket captains urge 'proper medical care' for Imran Khan",
-    titleJa: "元クリケットキャプテンらがイムラン・カーンに「適切な医療」を要請",
-    summaryJa: "元クリケットキャプテンらがイムラン・カーンに「適切な医療」を要請- 公開されました",
-    bodyOriginal: `Ex-cricket captains urge 'proper medical care' for Imran Khan
-- Published
-A group of former cricket captains, including Indian batting legend Sunil Gavaskar and one of England's longest-serving skippers Sir Alastair Cook, have called on Pakistan to ensure its ex-PM Imran Khan be given proper care while in custody.
-The cricketer-turned-politician has been in jail since 2023 on corruption charges which he denies.
-In a letter to Pakistan's current leader Shehbaz Sharif, the 21 former skippers aired concern that Khan, 73, was allowed "only a few hours" at a hospital last week where he was examined by a state-appointed team.
-Khan's party has also filed a contempt petition against the government for not giving him access to his own doctors, as ordered by the top court.
-The former cricket captains laid out three demands in their letter, the first of which is that Khan be assessed by a medical board directed by Pakistan's Supreme Court – which would include his personal physicians – particularly on the reported loss of vision in his right eye.
-They also urged authorities to allow weekly visits by Khan's family, as ordered by the court, "without interruptions or administrative delays".
-Finally, they asked that any treatment recommended by the medical board be "provided without delay".
-"Imran Khan is 73 years old and has now spent more than three years in custody," read the letter initiated by former Australian captain Greg Chappell.
-"Whatever the legal and political arguments surrounding his case, the basic decency of ensuring a court-ordered medical process is actually completed is not, in our view, a controversial request."
-Among the other signatories were England's Michael Atherton, Michael Brearley, Nasser Hussain, Andrew Strauss and David Gower, India's Kapil Dev and Dilip Vengsarkar, and Australia's Belinda Clark, Adam Gilchrist, Steve Waugh and Kim Hughes.
-Fourteen of the former skippers had also supported an earlier appeal for "humane treatment and proper medical care" for Khan which was submitted in February.
-Khan's lawyer claimed at the time that his client had 15% vision left in his right eye after prison authorities failed to take action.
-The signatories of both letters had described themselves as "former colleagues and rivals who share a bond forged on the cricket field", adding that the bond "transcends the borders and disputes that too often divide countries".
-Khan, who previously captained the Pakistan national cricket team, served as Pakistan's prime minister from 2018 to 2022.
-He was imprisoned in August 2023 and has faced charges in more than 100 cases, ranging from leaking state secrets to selling state gifts, all of which he and his party Pakistan Tehreek-e-Insaf say are politically motivated.
-His jailing sparked large-scale protests by supporters, which were met with a crackdown by authorities.
-Pakistan's Supreme Court had on Tuesday directed the government to transfer Khan to a private hospital to be examined by physicians.
-He was instead seen by doctors at a government-run hospital in Islamabad, who deemed him "medically fit", before he was moved back to prison.`,
-    bodyJa: `元クリケットキャプテンらがイムラン・カーンに「適切な医療」を要請
-- 公開されました
-インドの伝説的打者スニル・ガバスカール氏やイングランドで最も長くキャプテンを務めたサー・アラステア・クック氏を含む元クリケット主将らのグループは、パキスタンに対し、元首相イムラン・カーン氏の拘留中に適切なケアが確実に受けられるよう求めた。
-クリケット選手から政治家に転身した同氏は、2023年から汚職容疑で投獄されているが、本人は否認している。
-パキスタンの現指導者シェバズ・シャリフ氏に宛てた書簡の中で、元船長21人は、73歳のカーン氏が先週、国が任命したチームによる検査を受ける病院で「数時間しか」入院を許されていないことに懸念を表明した。
-カーン氏の党はまた、最高裁判所の命令に従い、カーン氏に自身の医師へのアクセスを与えなかったとして政府に対する侮辱罪の申し立てを行った。
-クリケットの元キャプテンらは書簡の中で3つの要求を列挙しており、その1つ目は、特に報告されている右目の視力喪失に関して、パキスタン最高裁判所が指揮する医療委員会（主治医も含まれる）によるカーンの評価を受けることだ。
-また当局に対し、裁判所の命令に従ってカーン氏の家族による毎週の面会を「中断や管理上の遅延なく」許可するよう求めた。
-最後に、医療委員会が推奨する治療は「遅滞なく提供される」よう求めた。
-元オーストラリア代表キャプテンのグレッグ・チャペルが書き始めた書簡には、「イムラン・カーンは73歳で、現在3年以上拘留されている」と書かれている。
-「彼の事件をめぐる法的・政治的議論が何であれ、裁判所命令による医療プロセスが実際に完了することを保証するという基本的な良識は、物議を醸すような要求ではないと我々は考えている。」
-他の署名者には、イングランドのマイケル・アサートン、マイケル・ブレアリー、ナセル・フセイン、アンドリュー・ストラウス、デビッド・ガワー、インドのカピル・デヴとディリップ・ヴェングサーカー、オーストラリアのベリンダ・クラーク、アダム・ギルクリスト、スティーブ・ウォー、キム・ヒューズが含まれていた。
-元船長のうち14人も、2月に提出されたカーンに対する「人道的な扱いと適切な医療」を求める訴えを支持していた。
-カーンさんの弁護士は当時、刑務所当局が措置を取らなかったため、依頼人の右目には15％の視力が残っていると主張した。
-両書簡の署名者らは自らを「クリケット競技場で築いた絆を分かち合う元同僚でありライバル」と称し、その絆は「しばしば国を分断する国境や紛争を超える」と付け加えた。
-カーン氏は以前クリケットパキスタン代表チームのキャプテンを務め、2018年から2022年までパキスタン首相を務めた。
-同氏は2023年8月に投獄され、国家機密の漏洩から国家贈答品の販売に至るまで100件以上の罪に問われているが、同氏と彼の政党であるパキスタン・テフリク・エ・インサフ氏はいずれも政治的動機によるものだと主張している。
-彼の投獄は支持者らによる大規模な抗議行動を引き起こし、当局による弾圧に遭った。
-パキスタン最高裁判所は火曜日、医師の診察を受けるためにカーン氏を私立病院に移送するよう政府に指示した。
-代わりに、彼は刑務所に戻される前に、イスラマバードの政府運営の病院の医師らの診察を受け、医師らは彼が「医学的に健康である」と判断した。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T03:55:35+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92fd/live/5223f330-9f6f-11f1-830e-359f4d9d175a.jpg",
-    readTime: 4,
-  },
-  {
-    id: "alibaba-plunges-after-announcing-10-2-bi-416346a0",
-    title: "Alibaba plunges after announcing $10.2 billion share placement to fund AI push",
-    titleJa: "アリババ、AI推進資金として102億ドルの株式発行を発表後急落",
-    summaryJa: "中国のハイテク大手が米国以外の投資家向けに新規発行株式を800億香港ドル（102億ドル）で売り出す価格を設定したことを受け、月曜日の香港市場でアリババ株は最大10％下落した。同社は、純利益のすべてを、AIインフラストラクチャの拡張と強化を含むフルスタックAI機能への投資に使用する予定であると述べた。",
-    bodyOriginal: `Alibaba shares plunged as much as 10% in Hong Kong on Monday after the Chinese tech giant priced an 80 billion Hong Kong dollar ($10.20 billion) placement of newly issued shares to non-U.S. investors.
-The company said it plans to use all of the net proceeds to invest in its full-stack AI capabilities, including expanding and enhancing its AI infrastructure.
-Alibaba will issue 710 million new shares at HK$112.70 apiece, compared with the stock's Friday closing price of HK$123. Shares were last trading 8.4% lower at HK$112.7.
-The share placement, expected to close on Wednesday, comes just days after Alibaba reported a 75% drop in profit for the June-quarter as heavy AI spending weighed on its results. Capital expenditure jumped 75% to 67.7 billion yuan.
-Vey-Sern Ling, senior equity advisor at UBP, told CNBC last week following Alibaba's latest earnings that the company was well-positioned to pursue AI growth.
-"I think Alibaba clearly is well positioned to chase that growth, given that they have a cloud computing arm, they have a very strong AI model," he said, adding that profits might weaken in the near term, while capex might rise.
-Alibaba has been ramping up investment in AI as it seeks to make the technology a key driver of future growth.The company last year announced plans to invest at least 380 billion yuan in cloud computing and AI infrastructure over the next three years.
-Alibaba's Chinese tech peers have also been ramping up AI spending. Tencent's capital expenditure rose 65% from the previous quarter to 52.8 billion yuan in the June-quarter as the company continued to invest in computing infrastructure to monetize its AI models.`,
-    bodyJa: `中国のハイテク大手が米国以外の投資家向けに新規発行株式を800億香港ドル（102億ドル）で売り出す価格を設定したことを受け、月曜日の香港市場でアリババ株は最大10％下落した。
-同社は、純利益のすべてを、AIインフラストラクチャの拡張と強化を含むフルスタックAI機能への投資に使用する予定であると述べた。
-アリババは、金曜終値123香港ドルに対し、1株当たり112.70香港ドルで7億1000万株の新株を発行する。株価は直近の取引で8.4％安の112.7香港ドルで取引された。
-この株式募集は水曜日に完了すると予想されており、アリババが多額のAI投資が業績を圧迫したため、6月四半期の利益が75％減少したと報告した数日後に行われた。設備投資は75％増の677億元となった。
-UBPの上級株式アドバイザー、ベイサーン・リン氏は先週、アリババの最新決算を受けてCNBCに対し、アリババはAIの成長を追求する上で有利な立場にあると語った。
-「アリババはクラウドコンピューティング部門を持ち、非常に強力なAIモデルを持っていることを考えると、明らかにその成長を追いかけるのに有利な立場にあると思う」と同氏は述べ、利益は短期的には弱まる一方、設備投資は増加する可能性があると付け加えた。
-アリババはAI技術を将来の成長の主要な原動力にすべく、AIへの投資を強化しており、同社は昨年、今後3年間でクラウドコンピューティングとAIインフラに少なくとも3800億元を投資する計画を発表した。
-アリババの中国テクノロジー関連企業もAIへの支出を増やしている。同社がAIモデルを収益化するためにコンピューティングインフラストラクチャへの投資を継続したため、テンセントの6月四半期の設備投資は前四半期比65％増の528億元となった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html",
-    publishedAt: "2026-08-24T02:55:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "shein-aims-for-almost-27bn-valuation-in-62158a32",
-    title: "Shein aims for almost $27bn valuation in 1 September stock market debut",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Shein aims for almost $27bn valuation in 1 September stock market debut
-- Published
-Fast-fashion giant Shein says it plans to raise up to HK13.86bn (£1.3bn; $1.77bn) when its shares start trading on the Hong Kong stock market on 1 September.
-In a filing on Monday, external, Shein said it will offer nearly 280 million shares for between HK$47.60 and HK$49.50.
-At the top of the range, it would value the firm at almost $27bn (£19.8bn). But that is much lower than the $100bn valuation it reached in a round of private fundraising in 2022, reflecting weaker sales growth and higher costs.
-The long-awaited move debut comes after failed attempts to list in the US and London due to regulatory challenges amid scrutiny of Shein, which has its headquarters in Singapore but was founded in China.
-The initial public offering (IPO) is being backed by Wall Street investment giants Goldman Sachs, Morgan Stanley and JP Morgan.
-In July, Shein said it had swung to a quarterly loss as its sales slowed after US President Donald Trump removed an import duty exemption on small packages.
-The company said it lost $99m in the first three months of the year, compared with a net income of $395m a year earlier.
-It also came as uncertainty remains over the tit-for-tat US-China tariffs wars, which is currently paused.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T01:23:19+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2280/live/ffbe0af0-9f54-11f1-9eef-7971e1b6f541.jpg",
     readTime: 2,
   },
 ];
