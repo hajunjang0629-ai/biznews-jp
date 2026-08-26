@@ -15,6 +15,500 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "musk-s-rocket-firm-spacex-to-build-100bn-9eae98e6",
+    title: "Musk's rocket firm SpaceX to build $100bn launch facility",
+    titleJa: "マスク氏のロケット会社スペースX、1000億ドルかけて打ち上げ施設建設へ",
+    summaryJa: "マスク氏のスペースX、ルイジアナ州に1000億ドルかけて打ち上げ施設建設へ- 公開されました",
+    bodyOriginal: `Musk's SpaceX to build $100bn launch facility in Louisiana
+- Published
+Multi-billionaire Elon Musk's rocket company SpaceX has announced that it will build its largest launch site yet in the southern US state of Louisiana.
+Construction of the $100bn (£73bn) project - named Starbase, Louisiana - is due to start next year, with the 125,000-acre (50,585-hectare) site expanding on the company's operations beyond its current Texas headquarters and locations in Florida.
+It will be used to "support thousands of Starship flights a year with missions launching to Earth orbit, the Moon, Mars and beyond," SpaceX said on Tuesday.
+In June, SpaceX shares started trading on New York's technology-focused Nasdaq in the world's biggest ever stock market debut.
+SpaceX said it aims to launch its first Starship flight from the new Louisiana base in 2029.
+The facility will add more than 3,000 jobs to the region, the company said, external.
+The Louisiana Economic Development agency said the average wage of workers at the base - the largest of its kind in the world - would be 192% more than the region's current average salary.
+It will also create more than 8,100 new jobs indirectly, the agency estimated.
+"The historic project will establish Louisiana as a global hub for next-generation aerospace, with the capacity and infrastructure needed to dramatically increase launch frequency and expand access to space," it added.
+The facility in Louisiana will share its name with another SpaceX site on the southern tip of Texas.
+In 2025, residents in an area of Cameron County, where the company has testing and development operations, approved incorporating the patch of land as a city called Starbase.
+Inside the rural Texas town where Elon Musk is basing his business empire
+- Published20 April 2025
+The SpaceX IPO made history. One month on has it lost momentum?
+- Published13 July
+Musk has set out ambitious goals for SpaceX, including plans to reach Mars, develop artificial intelligence (AI) models and launch data centres into space.
+In August, SpaceX and Tesla - Musk's electric vehicle and robotics firm - announced plans to build a $16.8bn artificial intelligence (AI) chip making complex in Texas called the Terafab.
+The facility aims to meet the companies' growing demand for computing power to support its projects including developing AI and robotics technology over the coming years.
+The newly-listed SpaceX is under pressure to convince investors that it will be profitable even as it pursues its expansion plans.
+Its shares have tumbled by more than 30% from the highs reached shortly after it began trading but are still higher than their $135 offer price.`,
+    bodyJa: `マスク氏のスペースX、ルイジアナ州に1000億ドルかけて打ち上げ施設建設へ
+- 公開されました
+億万長者イーロン・マスク氏のロケット会社スペースXは、米国南部ルイジアナ州に同社史上最大の発射場を建設すると発表した。
+ルイジアナ州スターベースと名付けられた1,000億ドル（730億ポンド）のプロジェクトの建設は来年開始される予定で、125,000エーカー（50,585ヘクタール）の敷地は、現在のテキサス本社とフロリダの拠点を超えて同社の事業を拡大する予定である。
+これは「地球周回軌道、月、火星、そしてその先へのミッションを打ち上げる年間数千回のスターシップ飛行をサポートする」ために使用されるとスペースXは火曜日に発表した。
+6月、スペースX株は、世界史上最大の株式市場デビューとして、テクノロジーに特化したニューヨークのナスダックで取引を開始した。
+スペースXは、2029年にルイジアナ州の新基地から初のスターシップ飛行を打ち上げることを目指していると述べた。
+同社によれば、この施設により、この地域に3,000人以上の雇用が増えるだろうという。
+ルイジアナ州経済開発庁は、この種の基地としては世界最大である同基地の労働者の平均賃金は、この地域の現在の平均給与より192％高くなるだろうと述べた。
+また、間接的に 8,100 人以上の新たな雇用が創出されると当局は推定している。
+「この歴史的なプロジェクトにより、ルイジアナ州は打ち上げ頻度を劇的に高め、宇宙へのアクセスを拡大するために必要な能力とインフラを備え、次世代航空宇宙の世界的ハブとして確立されるだろう」と付け加えた。
+ルイジアナ州の施設は、テキサス州南端にあるスペースXの別の施設と名前を共有することになる。
+2025年、同社が試験・開発事業を行っているキャメロン郡の地域の住民は、その土地をスターベースと呼ばれる都市として編入することを承認した。
+イーロン・マスクがビジネス帝国の拠点を置くテキサスの田舎町の内部
+- 2025 年 4 月 20 日発行
+SpaceX の IPO は歴史を作りました。 1か月経って勢いがなくなったでしょうか？
+- 7 月 13 日発行
+マスク氏は、火星への到達、人工知能（AI）モデルの開発、宇宙へのデータセンターの立ち上げなどの計画を含む、スペースXの野心的な目標を掲げた。
+8月、スペースXとマスク氏の電気自動車・ロボット工学会社テスラは、テキサス州にテラファブと呼ばれる168億ドル規模の人工知能（AI）チップ製造施設を建設する計画を発表した。
+この施設は、今後数年間にわたってAIやロボット技術の開発などのプロジェクトをサポートするためのコンピューティングパワーに対する企業の需要の高まりに応えることを目的としている。
+新たに上場したスペースXは、拡張計画を進めながらも利益を上げられると投資家に納得させる必要に迫られている。
+同社の株価は取引開始直後に付けた高値から30％以上下落したが、それでも提示価格の135ドルよりは高い。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-26T01:32:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b26b/live/94e32ca0-a0ef-11f1-836e-f5015c2f83bc.jpg",
+    readTime: 3,
+  },
+  {
+    id: "oil-falls-on-easing-concerns-of-renewed-1c8fd5f6",
+    title: "Oil falls on easing concerns of renewed tensions as the U.S. pivots to economic pressure on Iran",
+    titleJa: "米国がイランへの経済圧力に軸足を移す中、緊張再燃への懸念緩和で原油下落",
+    summaryJa: "米国がイランに圧力をかけるため経済制裁に傾いている中、軍事衝突への懸念が和らぐ中、水曜日の石油は下落した。国際指標となるブレント原油先物１０月渡しは２．５２％下落し、１バレル＝８６．３５ドルとなった。米国ウェスト・テキサス・インターミディエート先物１０月限は２．１７％下落し、１バレル＝８０．５６ドルとなった。",
+    bodyOriginal: `Oil fell Wednesday, amid easing concerns about military conflict as the U.S. leans towards economic sanctions to pressure Iran.
+International benchmark Brent crude futures for October delivery declined 2.52% to $86.35 a barrel. U.S. West Texas Intermediate futures for October dropped 2.17% to $80.56 per barrel.
+"US sanctions on Iran were less severe than anticipated," said Dan Coatsworth, head of markets at AJ Bell, adding that lower oil prices helped markets to regain some poise as government bond yields eased back from their recent highs.
+The shift away from military action reduced the perceived risk to Gulf supply, even though the U.S. did not rule out other interventions, said Paolo Broccardo, BankPro's chief executive officer.
+In addition, Pakistan reported meaningful progress in talks aimed at de-escalation and restoring navigation through the Strait of Hormuz, Broccardo noted.
+Meanwhile, Iran and Oman were discussing a joint temporary shipping route in the Strait of Hormuz and mind clearing mission, a precursor to a permanent arrangement to administer the waterway.
+"Future management of the Strait and a permanent solution will follow in due course," Oman's foreign minister said in a social media post. "Discussions with regional partners will be conducted in support of peace and cooperation, stability and freedom of navigation."
+—CNBC's Spencer Kimball contributed to the report.`,
+    bodyJa: `米国がイランに圧力をかけるため経済制裁に傾いている中、軍事衝突への懸念が和らぐ中、水曜日の石油は下落した。
+国際指標となるブレント原油先物１０月渡しは２．５２％下落し、１バレル＝８６．３５ドルとなった。米国ウェスト・テキサス・インターミディエート先物１０月限は２．１７％下落し、１バレル＝８０．５６ドルとなった。
+ＡＪベルの市場責任者、ダン・コーツワース氏は「米国の対イラン制裁は予想ほど厳しくなかった」と述べ、国債利回りが最近の高値から低下するなか、原油価格の下落が市場の落ち着きを取り戻したと付け加えた。
+バンクプロのパオロ・ブロカルド最高経営責任者（ＣＥＯ）は、米国が他の介入を排除しなかったとしても、軍事行動からの移行により湾岸供給に対する認識されているリスクは減少したと述べた。
+さらに、パキスタンはホルムズ海峡の緊張緩和と航行の回復を目的とした協議で有意義な進展があったと報告したとブロカルド氏は指摘した。
+一方、イランとオマーンは、ホルムズ海峡での共同の暫定航路と、水路を管理する恒久的な取り決めの前兆である心を浄化するミッションについて話し合っていた。
+オマーン外相はソーシャルメディアへの投稿で、「海峡の今後の管理と恒久的な解決策はやがて生まれるだろう」と述べた。 「地域パートナーとの協議は、平和と協力、安定と航行の自由を支援するために行われるだろう。」
+—CNBCのスペンサー・キンボール氏がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+    publishedAt: "2026-08-26T01:29:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "from-military-alliance-to-economic-partn-95bfb2c6",
+    title: "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+    titleJa: "軍事同盟から経済連携へ：トランプ大統領は米韓関係をどう再定義するか",
+    summaryJa: "ドナルド・トランプ大統領が先週、韓国との年次軍事演習を縮小するという動きを見せたのは、韓国政府がワシントンへの数千億ドル規模の投資約束を最終決定したことを受けてのことだった。専門家らは、米国の海外軍事費支出と韓国の投資実施の停滞に対するトランプ大統領の不満は、同盟関係が安全保障に基づいたものから経済に基づいたものに変化していることを示していると指摘した。",
+    bodyOriginal: `President Donald Trump's move last week to scale back annual military drills with South Korea came as Seoul finalizes hundreds of billions of dollars in investment commitments to Washington.
+Trump's frustration over U.S. military spending overseas and stalled implementation of Korea's investments signal a shift in the allies' relationship from one based on security to economics, experts said.
+There are now doubts about whether investments will ensure U.S. commitments to Korea's security that many in Seoul and Washington hoped, said Darcie Draudt‑Véjares, a fellow at the Carnegie Endowment for International Peace. She was referring to the $350 billion Korea promised to invest in the U.S. in exchange for lower "reciprocal" tariffs last year.
+"Looked at a different way, we could see a shift from a relationship centered around a military alliance to one centered around integrated industrial ecosystems," Draudt‑Véjares said. That puts "economics rather than security as the basis of the U.S.-South Korea partnership."
+Trump on Aug. 16 said that he had instructed the Pentagon to cut military drills because they were "costly" and send "inappropriate and hostile" signals to North Korea.
+The post was made around the time Korean Trade Minister Kim Jung-kwan arrived in Washington, D.C., to discuss the investment commitments and tariffs with Commerce Secretary Howard Lutnick.
+The order partly stemmed from Korea's slow pace of deploying the investments, compared to Japan, Politico reported, citing people familiar with the matter.
+Trump had cancelled the annual exercises in 2018 as well after his historic meeting with Kim Jong Un in Singapore. Ulchi Freedom Shield exercise, which traces its roots to 1954, involved around 18,000 Korean troops and an undisclosed number of American soldiers this year.
+U.S. Commerce Department and the Korean Trade Ministry did not respond to CNBC's requests for comments.
+Investments for security?
+It would be a mistake for allies to think that increased defense spending or economic ties will buy U.S. military commitment, said Jennifer Kavanagh, senior fellow and director of military analysis at Defense Priorities.
+Semiconductor trade or cooperation on shipbuilding can continue, separate from the U.S. military presence in Asia, she said.
+"The terms of exchange might change, but a smaller military footprint and narrower set of commitments in Asia would also free U.S. economic resources for investment at home and abroad," she said.
+The two economies have deepened ties, particularly as Korean chip giants have become central to the global AI boom, with Nvidia as their most important client.
+Korean businesses are benefiting from Trump's push for reindustrialization aimed at getting ahead in the competition with China.
+Korean companies, for their part, have significantly increased investments across semiconductors, electric vehicles, and shipbuilding in the U.S. For example, Korean chip giant SK Hynix is building a $4 billion advanced packaging plant in Indiana and allocating $10 billion to invest in new product lines and back its U.S. business.
+Read more
+But not all experts are convinced that scaling back the U.S. military footprint in Asia serves American interests.
+Trump's decision to cut the annual drills "further exacerbates allies' concerns of the unreliability of the U.S. as a security and economic partner," said Bruce Klingner, a former senior Central Intelligence Agency officer in the Koreas.
+He added that Trump is seeking to direct American voters' attention away from the Iran war ahead of the midterm elections in November.
+The shortened military exercises do not seem to have mollified North Korea. It launched more than 10 short-range ballistic missiles toward the East Sea Thursday, the South Korean Defense Ministry said.
+Richard Haass, president emeritus of the Council on Foreign Relations, said on "Squawk Box" last week that Trump's decision weakens the U.S.' credibility and leverage concerning North Korea.
+The greater danger is that South Korea could pursue nuclear weapons to protect itself, and it would be "incomparably worse because it would ultimately bring in China and potentially Japan," he said. "It's a fiasco."`,
+    bodyJa: `ドナルド・トランプ大統領が先週、韓国との年次軍事演習を縮小するという動きを見せたのは、韓国政府がワシントンへの数千億ドル規模の投資約束を最終決定したことを受けてのことだった。
+専門家らは、米国の海外軍事費支出と韓国の投資実施の停滞に対するトランプ大統領の不満は、同盟関係が安全保障に基づいたものから経済に基づいたものに変化していることを示していると指摘した。
+カーネギー国際平和基金の研究員、ダーシー・ドラウド・ベジャレス氏は、ソウルとワシントンの多くの人が期待していた韓国の安全保障に対する米国の約束が投資によって確実に実現されるかどうかについては現在疑問が生じていると述べた。彼女は昨年、韓国が「相互」関税引き下げと引き換えに米国に3,500億ドルを投資することを約束したことに言及していた。
+「見方を変えれば、軍事同盟を中心とした関係から、統合された産業エコシステムを中心とした関係への変化が見られるかもしれない」とドラウト・ベジャレス氏は述べた。それは「米韓パートナーシップの基礎は安全保障ではなく経済」であるとしている。
+トランプ大統領は8月16日、軍事演習は「費用がかかり」、北朝鮮に「不適切で敵対的な」信号を送るため、軍事演習を中止するよう国防総省に指示したと述べた。
+この投稿は、韓国のキム・ジュングァン通商大臣がハワード・ラトニック商務長官と投資約束と関税について話し合うためワシントンD.C.に到着した頃に投稿された。
+ポリティコは事情に詳しい関係者の話として、この命令の一部は、日本に比べて韓国の投資展開のペースが遅いことに起因していると報じた。
+トランプ大統領は2018年とシンガポールでの金正恩氏との歴史的会談後も年次演習を中止していた。 1954年にそのルーツをたどる乙支フリーダムシールド演習には、今年は約1万8000人の韓国軍と非公開の米軍兵士が参加した。
+米商務省と韓国貿易省はCNBCのコメント要請に応じなかった。
+セキュリティのための投資ですか?
+ディフェンス・プライオリティ社のシニア・フェロー兼軍事分析ディレクターのジェニファー・カバナー氏は、防衛支出の増加や経済連携が米国の軍事的関与を買うと同盟国が考えるのは間違いだ、と述べた。
+同氏は、アジアにおける米軍の駐留とは別に、半導体貿易や造船協力は継続できると述べた。
+同氏は「交換条件は変わるかもしれないが、アジアにおける軍事拠点の縮小と一連の約束の縮小により、米国の経済資源が国内外への投資に解放されるだろう」と述べた。
+特に韓国の半導体大手が世界的な AI ブームの中心となり、エヌビディアが最も重要な顧客となっていることから、両国経済は関係を深めている。
+韓国企業は、中国との競争で優位に立つことを目的としたトランプ大統領の再産業化推進の恩恵を受けている。
+一方、韓国企業は米国での半導体、電気自動車、造船分野への投資を大幅に増やしている。例えば、韓国の半導体大手SKハイニックスはインディアナ州に40億ドルをかけて先進的なパッケージング工場を建設し、新製品ラインへの投資と米国事業の支援に100億ドルを割り当てている。
+続きを読む
+しかし、すべての専門家が、アジアにおける米軍の拠点を縮小することが米国の利益にかなうと確信しているわけではない。
+元中央情報局高官で朝鮮担当のブルース・クリングナー氏は、年次演習を削減するというトランプ大統領の決定は「安全保障および経済パートナーとしての米国の信頼性の低さに対する同盟国の懸念をさらに悪化させている」と述べた。
+同氏は、トランプ大統領は11月の中間選挙に先立ち、米国の有権者の注意をイラン戦争から逸らそうとしているとも付け加えた。
+軍事演習の短縮は北朝鮮を和らげるものではないようだ。韓国国防省は木曜日、東海に向けて10発以上の短距離弾道ミサイルを発射したと発表した。
+外交問題評議会名誉会長のリチャード・ハース氏は先週「スコーク・ボックス」で、トランプ大統領の決定は米国を弱体化させると述べた。北朝鮮に関する信頼性と影響力。
+さらに大きな危険は、韓国が自国を守るために核兵器を追求する可能性であり、それは「最終的には中国、そして場合によっては日本を巻き込むことになるため、比較にならないほど悪いことになるだろう」と述べた。 「それは大失敗だ。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+    publishedAt: "2026-08-26T00:06:25+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "ai-gold-rush-draws-crypto-firms-away-fro-8e1db318",
+    title: "AI gold rush draws crypto firms away from Bitcoin",
+    titleJa: "AIのゴールドラッシュが仮想通貨企業をビットコインから遠ざける",
+    summaryJa: "AIのゴールドラッシュが仮想通貨企業をビットコインから遠ざける- 公開されました",
+    bodyOriginal: `AI gold rush draws crypto firms away from Bitcoin
+- Published
+Companies that once filled warehouses with computers to earn Bitcoin - a process known as mining - are now using that computing power for AI.
+Bitcoin mining companies invested large sums on giant banks of powerful computers as the price of Bitcoin rocketed in recent years.
+But those mining companies have faced falling rewards since the value of the cryptocurrency has slumped from its peak in October 2025.
+Now many are pivoting to AI and signing deals with companies such as Anthropic - who are spending billions of dollars on the infrastructure needed to keep up in the AI race.
+Bitcoin mining and other key cryptocurrency terms explained
+- Published5 June
+Like AI systems, Bitcoin relies on vast networks of powerful computers housed in data centres.
+Because Bitcoin operates without a central authority, these computers verify transactions and are rewarded with newly-created digital coins.
+But the rewards have reduced and the value of coins has dropped since last year.
+One bitcoin was worth about $124,000 (£91,000) at its peak in October 2025, but has since fallen sharply.
+More recently, it has rallied to around $80,000 - meaning it is up almost 30% so far in August.
+But, for companies that have already made the change, even that may not be enough to get them to return to the crypto industry, because the switch of use - once made - is expensive to undo.
+Industry analysts say Bitcoin mining companies have been pivoting to AI because they have years of experience in finding cheap electricity and efficiently running large data centres.
+TerraWulf, Ionic Digital, Core Scientific, Iris Energy, Bitdeer, Riot Platforms and Hut 8 are just some of the companies increasingly diverting investment and infrastructure from bitcoin mining towards AI.
+Riot Platforms signed a $9bn, 20-year compute deal with Anthropic earlier this month.
+Company names and websites are changing to reflect the shift too.
+Applied Blockchain has become Applied Digital.
+TerraWulf's website once described the firm as an "infrastructure-focused bitcoin mining company".
+It now says it focuses on "next-generation AI and high-performance computing".
+Enegix, which opened a huge Bitcoin mining site in Kazakhstan to great fanfare in 2020, is now pivoting too.
+"Today, we are moving confidently towards artificial intelligence and planning the gradual alignment of our energy and infrastructure capabilities, both in Kazakhstan and elsewhere, towards the development of AI infrastructure," said the company's chief executive Yerbolsyn Sarsenov.
+Enegix says it is in active discussions with AI and HPC (high-performance computing) companies and planning to transform a "significant" portion of the business to AI.
+But refitting crypto mines for AI is expensive and in some cases the companies have had to sell some of their Bitcoin holdings to fund the switch.
+Wolfie Zhao from The Energy Mag - a publication that rebranded from The Miner Mag to reflect the trend - predicts the industry pivot will continue even as the price of Bitcoin has risen in recent days.
+"We expect to see many public miners continue winding down their Bitcoin mining hardware in the coming quarters," he said.
+Asked if the shift away from Bitcoin mining might affect the security or stability of the cryptocurrency, Zhao said he hoped more miners will enter the market as conditions improve.
+But he predicted many of the big players would not easily be able to switch back to Bitcoin.
+"Once that multi-gigawatt power infrastructure has been retrofitted to AI or HPC colocation, there is no turning back," he said.
+"You can unplug from the Bitcoin network any time but signing a GPU colocation lease for 10 or 20 years means steady revenue and a commitment to keep the infrastructure up for the tenants."
+Bitdeer, which claims to be the largest Bitcoin miner in the world, just announced a 16-year deal to provide compute for Anthropic.
+But the company's chief strategy officer, Haris Basit, said Bitdeer will continue mining Bitcoin, believing many operators would ultimately pursue a dual-purpose model.
+"Bitcoin mining is particularly well suited to that model because it is flexible and interruptible, while AI workloads can provide longer-duration contracted revenues," he said.
+Bitcoin surges past $100k for first time
+- Published5 December 2024
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `AIのゴールドラッシュが仮想通貨企業をビットコインから遠ざける
+- 公開されました
+かつてビットコインを獲得するために倉庫にコンピューターを詰め込んでいた企業（マイニングとして知られるプロセス）は、現在ではそのコンピューティング能力を AI に利用しています。
+近年、ビットコインの価格が急騰する中、ビットコイン採掘会社は強力なコンピューターを備えた巨大な銀行に巨額を投資した。
+しかし、仮想通貨の価値が2025年10月のピークから下落して以来、これらの採掘会社は報酬の減少に直面している。
+現在、多くの企業が AI に軸足を移しており、Anthropic などの企業と契約を結んでいます。Anthropic は、AI 競争で勝ち抜くために必要なインフラストラクチャに数十億ドルを費やしています。
+ビットコインマイニングとその他の重要な暗号通貨用語の説明
+- 6 月 5 日発行
+AI システムと同様に、ビットコインはデータセンターに設置された強力なコンピューターの広大なネットワークに依存しています。
+ビットコインは中央機関なしで動作するため、これらのコンピューターはトランザクションを検証し、新しく作成されたデジタル コインで報酬を受け取ります。
+しかし、報酬は減少し、コインの価値は昨年より下落しました。
+2025年10月のピーク時には1ビットコインの価値が約12万4000ドル（9万1000ポンド）だったが、その後急落した。
+最近では約8万ドルまで上昇しており、8月時点でほぼ30％上昇していることになる。
+しかし、すでに変更を行った企業にとっては、一度行った使用の変更を元に戻すには費用がかかるため、それでも仮想通貨業界に戻るには十分ではないかもしれません。
+業界アナリストらは、ビットコインマイニング企業がAIに軸足を移しているのは、安価な電力を見つけたり、大規模なデータセンターを効率的に運営したりする長年の経験があるためだと述べている。
+TerraWulf、Ionic Digital、Core Scientific、Iris Energy、Bitdeer、Riot Platforms、Hut 8 は、投資とインフラストラクチャをビットコイン マイニングから AI にますます転用している企業のほんの一部です。
+Riot Platforms は今月初めに Anthropic と 20 年間の 90 億ドルのコンピューティング契約を締結しました。
+社名やウェブサイトも変化を反映して変更されています。
+Applied Blockchain は Applied Digital になりました。
+TerraWulf の Web サイトでは、かつて同社を「インフラストラクチャに重点を置いたビットコイン マイニング会社」と説明していました。
+同社は現在、「次世代AIとハイパフォーマンスコンピューティング」に焦点を当てていると述べている。
+2020年に大々的に鳴り物入りでカザフスタンに巨大なビットコイン採掘場を開設したEnegixも現在、方向転換しつつある。
+同社の最高経営責任者イエルボルシン・サルセノフ氏は、「現在、当社は自信を持って人工知能の実現に向けて前進しており、カザフスタンでもその他の地域でも、AIインフラの開発に向けてエネルギーとインフラの能力を段階的に調整する計画を立てている」と述べた。
+Enegixは、AIおよびHPC（ハイパフォーマンスコンピューティング）企業と積極的に協議しており、ビジネスの「重要な」部分をAIに転換する計画を立てていると述べた。
+しかし、AI用に暗号通貨鉱山を改修するには費用がかかり、場合によっては、企業は切り替え資金のために保有ビットコインの一部を売却しなければならなかった。
+トレンドを反映して The Miner Mag からブランド名を変更した出版物である The Energy Mag の Wolfie Zhao 氏は、ビットコインの価格がここ数日上昇しているにもかかわらず、業界の方向転換は続くだろうと予測しています。
+同氏は、「多くの公的マイナーが今後数四半期にビットコインマイニングハードウェアの縮小を続けると予想している」と述べた。
+ビットコインマイニングからの移行が仮想通貨の安全性や安定性に影響を与えるのではないかとの質問に対し、趙氏は状況が改善するにつれてより多くのマイナーが市場に参入することを期待していると述べた。
+しかし同氏は、大手企業の多くは簡単にはビットコインに戻れないだろうと予測した。
+「数ギガワットの電力インフラが AI または HPC コロケーションに改修されたら、もう後戻りはできません」と彼は言いました。
+「いつでもビットコイン ネットワークから切り離すことができますが、10 年または 20 年の GPU コロケーション リースに署名するということは、安定した収益と、テナントのためにインフラストラクチャを維持するという約束を意味します。」
+世界最大のビットコインマイナーであると主張する Bitdeer は、Anthropic にコンピューティングを提供する 16 年間の契約を発表したばかりです。
+しかし、同社の最高戦略責任者であるハリス・ベイシット氏は、ビットディアは多くの事業者が最終的には二重目的モデルを追求すると信じており、ビットコインのマイニングを継続すると述べた。
+同氏は、「ビットコインマイニングは柔軟で中断可能であり、AIワークロードにより長期間の契約収益をもたらすことができるため、このモデルに特に適している」と述べた。
+ビットコインが初めて10万ドルを突破
+- 2024 年 12 月 5 日発行
+Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T23:11:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
+    readTime: 6,
+  },
+  {
+    id: "firms-scramble-for-battery-power-in-spai-f56bd064",
+    title: "Firms scramble for battery power in Spain and Portugal",
+    titleJa: "スペインとポルトガルで企業が電池の争奪戦",
+    summaryJa: "スペインとポルトガルで企業が電池の争奪戦- 公開されました",
+    bodyOriginal: `Firms scramble for battery power in Spain and Portugal
+- Published
+On the 28 April last year, Portugal and Spain went dark for several hours.
+A massive power failure caused widespread chaos. People dug out lanterns and old radios, and companies scrambled to save what production they could.
+The Spanish meat processing firm Fribin, in Binéfar, in the north eastern province of Aragon, was midway through its morning shift when the sudden shutdown brought production lines to a halt.
+For Andrés Altabás, Fribin's technology and systems director, it was a nightmarish situation.
+Emergency systems didn't have the capacity for continued operation. "Refrigeration was prioritised but all the lines had to be stopped," he adds.
+Many tonnes of meat in the processing stage had to be discarded. "There were losses of hundreds of thousands of euros," says Altabás.
+The bosses at Fribin realised they had to rethink their back up plans.
+It was a big undertaking as the company's energy needs are "quite large", amounting to more than 25 gigawatt-hours a year, most of it for refrigeration.
+The business had been considering investing in a battery back-up system for years, but it had been judged too expensive.
+"And then came the blackout, and all of that together catalysed the investment," Altabás tells the BBC.
+The first purchase of a five megawatt-hour module was made in June 2025, and a second module with the same storage capacity was ordered in early June 2026, both amounting to a total investment of around €1.5m (£1.3m; $1.7m), funded in part by the European Union's Next Generation funds.
+Firms across Europe have been switching to electricity from fossil fuels for their industrial needs, encouraged by subsidies from EU funds.
+While that is helping bring down emissions of climate-warming gases, it has also made firms more vulnerable to power cuts.
+And in Spain and Portugal that threat was made painfully clear last year.
+On both sides of the border, firms are looking for ways to avoid disruption.
+"The industrial sector has been one of the first to look at storage systems, since it can't have its production drop off too abruptly," says Miguel Matias, founder of the Portuguese energy services company Self Energy, headquartered in the UK.
+"A backup for a few hours, or even minutes, might guarantee that machines don't get damaged," he says.
+And there have been more recent incidents to spur investment.
+At the end of January, Storm Kristin toppled thousands of electricity and telecom poles across central Portugal, cutting power and communications to hundreds of thousands of people - some for weeks.
+So, companies and other organisations have been taking action.
+In Spain, battery storage capacity has risen almost sevenfold since last April, from about 28 MW before the blackout to 193MW in April 2026, according to the grid operator Red Eléctrica.
+And much more capacity is planned.
+In December, the IDAE, Spain's Institute for the Diversification and Saving of Energy, awarded €827m in EU funds to 133 energy storage projects totalling 2,400MW. Around 80% of that is battery storage.
+The new capacity will be close to 10 times the amount that Red Eléctrica currently registers on the Spanish grid.
+It's all good news for battery suppliers.
+"We are seeing not only an increase in demand, but also a clear evolution in customer requirements," says Alberto Bodegas, from battery storage company Sungrow.
+Traditionally, commercial and industrial clients were looking for partial or full backup solutions, Bodegas says.
+Today, Bodegas says customers are demanding more advanced capabilities, such as seamless backup, meaning the switch from grid to backup occurs instantaneously and without any noticeable interruption.
+This is particularly critical for sensitive environments such as hospitals and data centres.
+Delivery times are also crucial for buyers, currently under tight deadlines linked to EU funding programmes. Battery companies are being pressed to meet increasingly shorter delivery dates, Bodegas says.
+Portugal's Vista Alegre, the oldest and largest porcelain maker in the Iberian country, decided to install energy storage systems in 2022, seizing the opportunity of abundant funds from the EU's Recovery and Resilience Plan.
+"The blackout ultimately served, above all, to accelerate this process," Emília Encarnação of Vista Alegre explains. The company's facilities in the coastal city of Ílhavo, in the province of Aveiro, are now equipped with modules with around 2MWh of storage capacity.
+"The blackout caused some irreparable losses, particularly at the plants operating on a continuous production basis, where sudden power interruptions have a direct impact on production processes," Encarnação recalls.
+Advantages go beyond being able to respond to sudden shocks in the energy network. For example installing batteries also means the company can profit from selling energy into the general network.
+At Primus Ceramics, located near the city of Aveiro, in central Portugal, a diesel generator saved the day during last year's blackout.
+Their roller kilns - which transport materials through every production phase inside industrial ovens - are powered by electric motors.
+During the power cut, the generator kept the products rolling, minimising the day's losses.
+The experience accelerated the company's plan to make their production process more resilient, company CEO Paulo Almeida tells the BBC.
+Primus already had two batteries installed in 2022 to back-up their energy supply and for selling electricity back to their energy company when market conditions were favourable.
+By the end of this year Primus will have more than double its battery capacity, to store more energy from the factory's solar panels.
+For Almeida, that would be reassuring after the stress of last year's blackout.
+"We were at it until eight, nine at night, deciding whether we should stop, whether we should lower the furnace temperatures, or whether we'd take the risk and wait for the power to come back in time," he says.
+The power did come back in time, but it was near miss for Primus.
+More Technology of Business
+- Published3 July
+- Published12 June
+- Published26 June`,
+    bodyJa: `スペインとポルトガルで企業が電池の争奪戦
+- 公開されました
+昨年4月28日、ポルトガルとスペインは数時間にわたって暗闇に包まれた。
+大規模な停電により広範囲に混乱が生じた。人々はランタンや古いラジオを掘り出し、企業は可能な限りの生産を節約しようと躍起になった。
+アラゴン州北東部ビネファルにあるスペインの食肉加工会社フリビンは、朝の勤務の途中に突然の閉鎖により生産ラインが停止した。
+Fribin のテクノロジーおよびシステム ディレクターである Andrés Altabas にとって、それは悪夢のような状況でした。
+緊急システムには継続的な運用を行う能力がありませんでした。 「冷蔵が優先されましたが、すべてのラインを停止する必要がありました」と彼は付け加えた。
+加工段階で何トンもの肉が廃棄されなければならなかった。 「数十万ユーロの損失がありました」とアルタバス氏は言う。
+フリビン社の上司たちは、バックアップ計画を再考する必要があることに気づきました。
+同社のエネルギー需要は年間 25 ギガワット時以上に達し、そのほとんどが冷凍用であるため、これは大事業でした。
+同社は何年にもわたってバッテリーバックアップシステムへの投資を検討していましたが、費用が高すぎると判断されていました。
+「その後、停電が起こり、それらすべてが投資のきっかけとなった」とアルタバス氏はBBCに語った。
+5メガワット時のモジュールの最初の購入は2025年6月に行われ、同じストレージ容量を備えた2番目のモジュールは2026年6月初旬に注文され、どちらも総投資額は約150万ユーロ（130万ポンド、170万ドル）に達し、資金の一部は欧州連合の次世代基金によって賄われました。
+ヨーロッパ中の企業は、EU 基金からの補助金の支援を受けて、産業上のニーズに応えて化石燃料からの電力への切り替えを進めています。
+これは気候温暖化ガスの排出量削減に貢献している一方で、企業が停電に対してさらに脆弱になっている。
+そしてスペインとポルトガルでは昨年、その脅威が痛いほど明らかになった。
+国境の両側で企業は混乱を回避する方法を模索している。
+英国に本社を置くポルトガルのエネルギーサービス会社セルフ・エナジーの創設者ミゲル・マティアス氏は、「産業界は、生産量が急激に減少するわけにはいかないため、蓄電システムにいち早く注目した業界の一つだ」と語る。
+「数時間、場合によっては数分のバックアップがあれば、マシンが損傷しないことが保証されるかもしれません」と彼は言います。
+そして最近、投資を刺激する事件が起きている。
+1月末、ストーム・クリスティンによりポルトガル中部全域で数千本の電柱と通信柱が倒れ、数十万人（数週間に及ぶ人もいる）の電力と通信が遮断された。
+そのため、企業やその他の団体は対策を講じています。
+送電網運営会社レッド・エレクトリカによると、スペインでは蓄電池容量が昨年4月以来、停電前の約28MWから2026年4月には193MWまでほぼ7倍に増加した。
+そしてさらに多くの容量が計画されています。
+12月、スペインのエネルギー多様化・節約研究所であるIDAEは、合計2,400MWの133件のエネルギー貯蔵プロジェクトにEU資金8億2,700万ユーロを授与した。その約80％はバッテリーストレージです。
+新しい輸送能力は、レッド・エレクトリカが現在スペインのグリッドに登録している量の10倍近くとなる。
+バッテリーサプライヤーにとっては朗報だ。
+「需要の増加だけでなく、顧客の要求も明らかに進化しています」と蓄電池会社 Sungrow の Alberto Bodegas 氏は言います。
+従来、商業および産業の顧客は部分的または完全なバックアップ ソリューションを探していたとボデガス氏は言います。
+現在、顧客はシームレスなバックアップなど、より高度な機能を求めているとボデガス氏は述べています。これは、グリッドからバックアップへの切り替えが、目立った中断なしに瞬時に行われることを意味します。
+これは、病院やデータセンターなどの機密性の高い環境では特に重要です。
+現在、EU の資金調達プログラムに関連して厳しい納期に追われているバイヤーにとって、納期も非常に重要です。電池会社はますます短納期に対応するよう求められている、とボデガス氏は言う。
+イベリア諸島最古にして最大の磁器メーカーであるポルトガルのビスタ・アレグレは、EUの復興・強靱化計画からの豊富な資金の機会を捉えて、2022年にエネルギー貯蔵システムを導入することを決定した。
+「停電は最終的に、何よりもこのプロセスを加速するのに役立った」とビスタ・アレグレのエミリア・エンカルナソン氏は説明する。アベイロ県の沿岸都市イリャボにある同社の施設には現在、約2MWhの蓄電容量を持つモジュールが設置されている。
+「停電は、特に突然の停電が生産プロセスに直接的な影響を与える連続生産ベースで稼働している工場で、取り返しのつかない損失を引き起こしました」とエンカルナソン氏は振り返る。
+利点は、エネルギーネットワークにおける突然のショックに対応できることだけではありません。たとえば、バッテリーを設置するということは、企業が一般ネットワークにエネルギーを販売することで利益を得ることができることも意味します。
+ポルトガル中部のアベイロ市近くにあるプリムス セラミックスでは、昨年の停電時にディーゼル発電機が窮地を救った。
+工業用オーブン内のあらゆる製造段階で材料を輸送する同社のローラー キルンは、電気モーターによって駆動されます。
+停電中も発電機が製品を動かし続け、その日の損失を最小限に抑えました。
+この経験により、生産プロセスの回復力を高めるという同社の計画が加速したと同社CEOのパウロ・アルメイダ氏はBBCに語った。
+プリムスは、エネルギー供給をバックアップし、市況が良好なときに電力会社に電力を売り戻すために、2022 年にすでに 2 つのバッテリーを設置していました。
+今年末までにプリムスは工場のソーラーパネルからより多くのエネルギーを蓄えるため、バッテリー容量が2倍以上になる予定だ。
+アルメイダにとって、それは昨年の停電のストレスの後、心強いことでしょう。
+「私たちは夜の8時か9時まで作業を続け、停止すべきか、炉の温度を下げるべきか、それとも危険を冒して電力が復旧するまで待つべきかを判断しました」と彼は言う。
+電力は時間内に回復しましたが、プリムスにとってはニアミスでした。
+ビジネスのさらなるテクノロジー
+- 7 月 3 日発行
+- 6 月 12 日発行
+- 6 月 26 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T23:09:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
+    readTime: 7,
+  },
+  {
+    id: "back-to-school-how-to-save-on-uniform-co-122d6b0a",
+    title: "Back to school: How to save on uniform costs",
+    titleJa: "学校に戻る: 制服の費用を節約する方法",
+    summaryJa: "学校に戻る: 制服の費用を節約する方法- 公開されました",
+    bodyOriginal: `Back to school: How to save on uniform costs
+- Published
+Back to school can stir up many emotions for parents, including anxiety about the extra costs it brings.
+Almost half of parents said they're worried about the cost of school uniforms, according to research by the charity Save the Children and the Baby Bank Alliance network.
+And a third of the 2,000 parents polled said they've sacrificed things for themselves to meet back-to-school costs like uniforms, bags or books.
+New rules limiting the number of items branded with a school logo to three per child come into force in September, aimed at helping ease the financial burden.
+From baby banks to council grants, here are ways parents can ease the cost of kitting out their kids for school.
+Your first port of call
+Save the Children said the new uniform rules are a "good start" but back-to-school costs remain a concern for families across almost all income brackets.
+The government said schools should make second-hand uniforms accessible to parents.
+"Speak to a teacher you trust, and explain that the costs are difficult," said Megan Meek-O'Connor, head of England and Westminster at Save the Children.
+Many schools have uniform hubs, swap shops and sales just before term starts, and hardship funds.
+In London, the School Uniform Reuse Network launched earlier this year, giving schools practical advice to start or improve their own swap shops.
+During its first term of operation, it saw more than 1,500 items reused across 24 schools.
+Don't dismiss baby banks
+Parents of older children may not realise a so-called baby bank can help them, but many of the 400 support hubs across the UK provide uniforms for children up to and through secondary school.
+In its latest survey of members, the Baby Bank Alliance found school uniform was reported as a priority item for the first time.
+Late summer is one of the busiest times for Little Stars Shrewsbury - just over half the children helped since June have been given uniform support.
+Hannah Stoddart, operations manager at Little Stars Shrewsbury, said families come to them in varying circumstances. A child starting school might need fully kitting out, while an older pupil may just need to replace one or two items.
+Stoddart stressed that while the summer holidays "take their toll", the charity provides help all year.
+"So when they've had that growth spurt, when they've scuffed their shoes or they've ripped their trousers or they need a winter coat, that's something they can come back to us for as well," she said.
+Supermarkets and pre-loved items
+The relaxed rules on uniform branding mean parents can purchase more items from supermarkets and charity shops, said Save the Children's Meek-O'Connor.
+Pre-loved items are usually what "kids have grown out of quickly rather than things that are poor quality", she said.
+Parents can cheaply stock up on frequent-wear items with supermarket bundle deals, while the charity Family Action suggested they team up to bulk buy items that would otherwise take them over budget.
+According to research from the bank Nationwide, a third of parents said they buy uniform from supermarkets, a third shop around for the best value and 23% purchase larger sizes so items last longer.
+Kate Steere, parent and consumer editor at the comparison site Finder, said sports kit costs can be "brutal".
+"I always encourage parents to tap into their club's community. Families with older kids are usually eager to pass down gear," she said.
+"My boys' football team runs a summer sale for second-hand kit, and apps like Vinted or Facebook Marketplace are goldmines."
+Check for council grants
+You may be able to get a grant from your local authority if your income is below a certain threshold or you're receiving certain benefits.
+These can be worth up to £200 per child.
+Eligibility and how much you can get can vary according to where in the UK you live, so it is best to check with your council directly.
+Struggling with uniform costs is common and people shouldn't feel ashamed if they need to ask for help, said Meek-O'Connor.
+"Uniform is supposed to be about making school kind of more accessible, more equal... it should be something positive," she said.
+- Published10 August
+- Published20 March
+- Published28 April 2025`,
+    bodyJa: `学校に戻る: 制服の費用を節約する方法
+- 公開されました
+学校に戻ることは、追加費用がかかることへの不安など、親にとってさまざまな感情をかきたてる可能性があります。
+慈善団体セーブ・ザ・チルドレンとベビー・バンク・アライアンス・ネットワークの調査によると、親のほぼ半数が制服の値段を心配していると回答した。
+そして、調査対象となった2,000人の保護者のうち3分の1は、制服、かばん、本などの新学期の費用を賄うために自分のために何かを犠牲にしたと答えた。
+経済的負担の軽減を目的として、学校のロゴ入りアイテムの数を児童１人当たり３個までに制限する新規則が９月に施行される。
+ベビーバンクから市議会の補助金まで、親が子どもを学校に通わせる費用を軽減できる方法をご紹介します。
+最初の寄港地
+セーブ・ザ・チルドレンは、新しい制服規則は「良いスタート」だが、ほぼすべての所得階層の家庭にとって新学期費用が依然として懸念事項であると述べた。
+政府は、学校は中古制服を保護者が利用できるようにすべきだと述べた。
+セーブ・ザ・チルドレンのイングランド・ウェストミンスター担当責任者、ミーガン・ミーク・オコナー氏は「信頼できる教師に相談し、費用が厳しいことを説明してほしい」と語った。
+多くの学校には、制服ハブ、交換ショップ、学期開始直前のセール、および生活困窮基金があります。
+ロンドンでは、今年初めに学校制服再利用ネットワークが発足し、学校に独自の交換ショップを開始または改善するための実践的なアドバイスを提供しています。
+第 1 期の運営では、24 の学校で 1,500 点を超えるアイテムが再利用されました。
+赤ちゃん銀行を無視しないでください
+年長の子どもを持つ親は、いわゆるベビーバンクが子どもたちを助けてくれるということを知らないかもしれないが、英国全土に 400 か所ある支援拠点の多くでは、中等教育までの子どもたちに制服を提供している。
+ベビーバンクアライアンスは会員を対象とした最新の調査で、学校制服が優先項目として初めて報告されたことを発見した。
+夏の終わりは、リトル スターズ シュルーズベリーにとって最も忙しい時期の 1 つです。6 月以降に支援を受けた子供たちの半数強が一律の支援を受けています。
+リトルスターズ・シュルーズベリーの運営マネージャー、ハンナ・ストッダート氏は、家族がさまざまな状況でやって来ると語った。学校に通い始める子供は完全に準備する必要があるかもしれませんが、年長の生徒は 1 つか 2 つのアイテムを交換するだけで済むかもしれません。
+ストッダート氏は、夏休みは「多大な犠牲を払う」が、慈善団体は一年中支援を提供していると強調した。
+「だから、彼らが急成長したとき、靴が擦れたとき、ズボンが破れたとき、または冬のコートが必要になったとき、それもまた私たちに戻ってくる可能性があります」と彼女は言いました。
+スーパーマーケットとお気に入りのアイテム
+セーブ・ザ・チルドレンのミーク・オコナー氏は、制服のブランド化に関する規則が緩和されたことで、親はスーパーマーケットやチャリティーショップからより多くの商品を購入できるようになる、と述べた。
+愛用されているアイテムは通常、「質の悪いものではなく、子どもたちがすぐに成長してしまうもの」だと彼女は言う。
+親たちはスーパーマーケットのセットセールを利用すれば頻繁に着るアイテムを安く買いだめできるが、慈善団体ファミリー・アクションは、そうでなければ予算をオーバーしてしまうアイテムをチームでまとめ買いすることを提案した。
+ナショナル銀行の調査によると、親の 3 分の 1 はスーパーマーケットで制服を購入し、3 分の 1 は最もお買い得なものを探し回って、23% はアイテムを長持ちさせるために大きいサイズを購入していると回答しました。
+比較サイト「ファインダー」の親兼消費者編集者であるケイト・スティアー氏は、スポーツキットのコストは「残酷」になる可能性があると述べた。
+「私は親たちにクラブのコミュニティに参加するよういつも勧めています。年長の子供を持つ家族は通常、道具を引き継ぎたいと考えています」と彼女は言いました。
+「私の少年サッカーチームは中古ユニフォームのサマーセールを行っていますが、Vinted や Facebook Marketplace のようなアプリは宝の山です。」
+市議会の補助金を確認する
+収入が一定の基準を下回っている場合、または特定の給付を受けている場合は、地方自治体から補助金を受け取ることができる場合があります。
+これらは子供 1 人あたり最大 200 ポンドの価値があります。
+受給資格と受給額は英国のどこに住んでいるかによって異なる場合があるため、自治体に直接確認することをお勧めします。
+制服の費用で苦労するのはよくあることであり、助けを求める必要がある場合、人々は恥じるべきではないとミーク・オコナー氏は述べた。
+「制服は学校をよりアクセスしやすく、より平等にするものであるはずです...それはポジティブなものであるべきです」と彼女は言いました。
+- 8月10日発行
+- 3 月 20 日発行
+- 2025 年 4 月 28 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T23:08:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41f1/live/60364e00-9fd8-11f1-b1e7-f78d213f1364.jpg",
+    readTime: 5,
+  },
+  {
+    id: "winter-energy-prices-expected-to-rise-to-035e601d",
+    title: "Winter energy prices expected to rise to three-year high",
+    titleJa: "冬場のエネルギー価格は3年ぶりの高値に上昇すると予想",
+    summaryJa: "冬場のエネルギー価格は3年ぶりの高値に上昇すると予想- 公開されました",
+    bodyOriginal: `Winter energy prices expected to rise to three-year high
+- Published
+Energy bills for millions of households are expected to rise this winter to the highest level for three years, under a price cap to be announced by the industry regulator on Wednesday.
+The cap will reflect the rise in the wholesale cost of gas, paid by suppliers and will hit bills just as the colder weather arrives in October until the end of December.
+Analysts expect Ofgem to say prices will go up by 4% compared with the current cap, affecting those on variable tariffs in England, Scotland and Wales.
+Firms say energy debt has jumped and, with high bills likely to persist, have called for more support for those struggling to pay. The government says VAT is being cut from electricity bills.
+The price cap for about 33 million households is expected to rise, driven by volatility in international wholesale gas prices.
+The average price of gas has been 61% higher over the past three months compared to late 2025, according to suppliers' trade body Energy UK.
+Millions of people have moved on to fixed energy tariffs, some in response to the uncertainty created by the impact of the US-Israeli war with Iran.
+Anyone on a fixed deal will not see the price they pay rise, until at least the end of the term of their tariff. About 40% of billpayers have fixed tariffs.
+The energy cap sets a maximum price for each unit of gas and electricity, not the total bill, so a household's final bill depends on what they use.
+In July, Ofgem reduced what it believes to be a "typical" level of energy use, because many homes have cut back owing to high prices of recent years while energy efficiency has improved.
+Its new estimate is 9,500 kWh of gas and 2,500 kWh of electricity a year.
+Cornwall Insight, the consultancy, has forecast that a household using a typical amount of gas and electricity, paid through direct debit, will pay £1,729 a year from October.
+This is up from £1,663 between July and September and woild be the highest for three years.
+What will the energy cap changes mean for my bills?
+- Published1 July
+Households are paying hundreds of pounds a year more on average than before Russia's full-scale invasion of Ukraine in 2022 started the energy crisis. Bills have gone up by about 70% compared with the pre-crisis norm, according to industry data.
+That means unpaid bills and charges have shot up. Energy UK estimates total debt to have collectively risen to £6bn, with an expectation of it to increase to about £7bn by the end of the year.
+The average billpayer in debt, without a payment plan, owed £3,500, it said.
+The trade body has called for a flexible discounted tariff for those most in need, funded by taxation. That is supported by many debt charities.
+"Without urgent intervention – namely a national social tariff and implementation of the long-awaited debt write off scheme from Ofgem – we expect this [debt] figure to rise in the coming months, and with that see an increase in the number of people coming to us for help with energy bills," said Emily Whitford, senior public policy advocate at StepChange.
+The Trades Union Congress has called for a windfall tax on bank profits to be used to reduce energy bills.
+The government is cutting VAT from electricity bills in October, which should knock about £50 off a typical annual bill, and some policy costs were cancelled or shifted in April, but ministers say there is more to do.
+Suppliers offer a host of support schemes to anyone struggling to pay, or who is likely to find it difficult.
+Energy UK has a list of these schemes, external. But it stresses that companies can often only help if you get in touch with your supplier to tell them you are unable to pay.
+Related topics
+- Published21 July`,
+    bodyJa: `冬場のエネルギー価格は3年ぶりの高値に上昇すると予想
+- 公開されました
+業界規制当局が水曜に発表する上限価格に基づき、数百万世帯の光熱費は今冬、過去３年間で最高水準に上昇すると予想されている。
+この上限は、供給業者が支払うガスの卸売コストの上昇を反映しており、ちょうど寒さが到来する10月から12月末までの請求額に影響を与えることになる。
+アナリストらはオフジェムが、価格が現在の上限に比べて４％上昇し、イングランド、スコットランド、ウェールズの変動関税に影響すると予想している。
+企業らは、エネルギー債務が急増しており、今後も高額な料金が続く可能性が高いため、支払いに苦労している人々へのさらなる支援を求めていると述べている。政府は付加価値税が電気代から削減されると発表した。
+国際ガス卸売価格の変動により、約3,300万世帯の価格上限が上昇すると予想されている。
+供給業者の業界団体であるエナジーUKによると、ガスの平均価格は過去3カ月で2025年後半と比べて61％上昇した。
+米国・イスラエルとイランの戦争の影響によって生じた不確実性への反応として、何百万人もの人々が固定エネルギー料金に移行している。
+固定契約を締結している人は、少なくとも料金契約期間が終了するまでは、支払う価格が上昇することはありません。料金支払い者の約 40% は固定料金を払っています。
+エネルギーの上限は、請求額の合計ではなく、ガスと電気の各単位の上限価格を設定するため、家庭の最終的な請求額は使用内容によって異なります。
+エネルギー効率が向上する一方で、近年の価格高騰により多くの家庭がエネルギー使用量を削減しているため、Ofgemは7月に、「典型的な」エネルギー使用量と思われるレベルを削減した。
+新しい推定値は、年間 9,500 kWh のガスと 2,500 kWh の電力です。
+コンサルティング会社コーンウォール・インサイトは、口座振替で支払う標準的な量のガスと電気を使用する世帯は、10月から年間1,729ポンドを支払うことになると予測している。
+これは7月から9月までの1,663ポンドから上昇しており、ここ3年間で最高となる。
+エネルギー上限の変更は請求書にどのような影響を及ぼしますか?
+- 7 月 1 日発行
+2022年のロシアによるウクライナへの全面侵攻でエネルギー危機が始まる前に比べ、世帯は平均で年間数百ポンド多く支払うことになっている。業界データによると、請求額は危機前の標準と比較して約70％上昇した。
+つまり、未払いの請求書や料金が急増しているということだ。エナジーUKは負債総額が合計60億ポンドに達したと推定しており、年末までに約70億ポンドに増加すると予想されている。
+同報告書によると、返済計画のない借金を抱えた平均的な支払者は3,500ポンドの負債を抱えているという。
+同業界団体は、税金を財源として最も困っている人々に対して柔軟な割引関税を適用するよう求めている。それは多くの債務慈善団体によって支援されています。
+ステップチェンジの上級公共政策擁護者エミリー・ウィットフォード氏は、「緊急の介入、つまり国の社会関税と待望のOfgemによる債務帳消し制度の実施がなければ、この（債務）数字は今後数カ月で増加すると予想され、それに伴い光熱費の援助を求めて私たちに相談に来る人の数も増えるだろう」と述べた。
+労働組合会議は、銀行利益に対する棚ぼた税をエネルギー料金削減に充てるよう求めている。
+政府は10月に電気料金から付加価値税を引き下げており、通常の年間料金から約50ポンド安くなり、4月には一部の政策費用が中止または変更されたが、閣僚らはまだやるべきことはあると述べている。
+サプライヤーは、支払いに苦労している人、または支払いが難しいと思われる人にさまざまなサポート制度を提供しています。
+Energy UK はこれらの制度のリストを外部に公開しています。しかし、企業は多くの場合、サプライヤーに連絡して支払い能力がないことを伝えた場合にのみ支援できると強調している。
+関連トピック
+- 7 月 21 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T23:07:29+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19a/live/2109aba0-a091-11f1-b11c-1bea5fc925f5.jpg",
+    readTime: 4,
+  },
+  {
     id: "spacex-plans-to-build-a-100-billion-spac-191b7cf2",
     title: "SpaceX plans to build a $100 billion spaceport in Louisiana",
     titleJa: "スペースXはルイジアナ州に1000億ドル規模の宇宙港を建設する計画",
@@ -628,6 +1122,122 @@ Related topics
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e7a/live/91d81fb0-a064-11f1-ab55-41a63a22b55d.jpg",
     readTime: 2,
+  },
+  {
+    id: "iran-says-it-is-fully-prepared-to-counte-432862cf",
+    title: "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+    titleJa: "イラン、米国の経済制裁拡大に対抗する「十分な準備ができている」と表明",
+    summaryJa: "イラン、米国の経済制裁拡大に対抗する「十分な準備ができている」と表明- 公開されました",
+    bodyOriginal: `Iran says it is 'fully prepared' to counter widened US economic sanctions
+- Published
+Iran has said it is confident it can counter widened US sanctions after Washington announced what it described as an "economic D-Day" against the country to try to isolate it from the global economy.
+Iranian Economy Minister Ali Madanizadeh said Tehran was "fully prepared" for the sanctions, which he said would lead to "another defeat" for the US.
+Announcing a raft of new measures, US Treasury Secretary Scott Bessent said any nation financially partnering with Iran would be isolated, and that banks and businesses dealing with Iran would share its isolation if they refused to cut ties.
+The moves follow U-turns and extended deadlines from the White House in its efforts to end the conflict.
+Bessent described the measures as "the single greatest financial offensive ever" against Iran, which would "tighten the noose and block every potential source of revenue".
+Some economists have questioned whether the latest sanctions will be effective, as this depends on the reaction from Iran's trading partners.
+These include China, the biggest buyer of Iranian oil, which has ignored previous US sanctions and continued to do business with Tehran.
+Last week, another of Iran's trade partners, the United Arab Emirates, said it was halting all financial transactions with the country.
+But hours after the US announcement, Iran said it was confident it would continue to trade with other nations.
+Madanizadeh said neither China nor Russia had accepted the US measures, and predicted other countries would resist them.
+"The government is and was ready and has a two-year plan to manage these events," he told state television, adding Tehran had been "waiting for these plans for a long time".
+"We also have our own tools and know how to play the game," he said.
+Responding to the US announcement, China said it was firmly opposed to what it called "illegal unilateral sanctions".
+Foreign ministry spokesman Lin Jiang said economic pressure tactics would not help resolve problems, and Beijing would safeguard its own interests.
+The war has led to hikes in global oil prices, and in response to the latest threat Iran warned it would shut down all oil exports from the region if the war continued.
+The Iranian regime has also issued a fresh warning to ships not to pass through the Strait of Hormuz without permission, according to Reuters.
+One fifth of the world's oil and gas usually passes through the strait - a narrow waterway south of Iran. But the flow has been effectively blocked by the country since the conflict began at the end of February, leading to higher oil prices globally.
+At a press conference earlier on Monday outlining what has been called "Operation Economic Outcast", Bessent said the US was launching an "economic onslaught against Iran's financial connections around the globe".
+"Iran now faces a very clear choice with only two paths before them: complete global isolation... or a path back to normalcy with an opportunity to rejoin the global economy," he said.
+The treasury secretary claimed America was "no longer managing the Iranian threat, we are ending it".
+Bessent said the Treasury had mapped networks, facilitators and financial channels used by Iran to evade sanctions to trade oil.
+The department said it had issued determinations against five sectors: digital assets, technology, gold, aviation and shipping. The Treasury has also imposed sanctions on almost 60 entities, individuals and vessels.
+In a warning to governments and entities assisting or trading with Iran, he said they could not "claim they are blind to enabling this activity".
+He declined to highlight specific countries, but said Trump would be phoning world leaders "with specific requests to cease their interactions with the regime".
+While he said it was important to give people time to understand the new sanctions, he added: "They should know that we will move very quickly and that we are serious."
+'Damp squib'
+David Oxley, chief climate and commodities economist at Capital Economics, cast doubt on the effectiveness of the sanctions announcement.
+"With the renewed US naval blockade already strangling Iran's oil exports, the direct impact of 'economic D-Day' on Iran's energy revenues will be somewhat of a damp squib," he said.
+"We suspect that the new package will have only a limited direct impact on Iranian energy flows in the short term."
+He said that was partly due to the fact roughly 90% of Iran's oil goes to China, a country "which has not recognised US sanctions in the past and is unlikely to be cowed this time either".
+"Generally, the Chinese are against unilateral sanctions," said Ali Vaez, deputy director of the Middle East and North Africa Program at the International Crisis Group.
+"They would comply with multilateral or international sanctions, but unilateral sanctions just imposed by the US - they have always seen that as illegitimate," he told BBC Radio 4's Today programme.
+And although Iran's neighbours like Pakistan, Turkey and Iraq want to maintain good relationships with the US, they "can't really afford to cut off ties with Iran", Vaez added.
+He said putting economic pressure on Tehran "doesn't work" because the Iranian regime is willing to "absorb any pain" and pass that onto its people.
+Over the course of the conflict so far, previous threats have included Trump saying in April that "a whole civilisation will die tonight" unless Iran agreed a deal to end the war and unblock the Strait of Hormuz.
+The US eventually climbed down from that position after mediator Pakistan intervened and called for more diplomacy.
+The economic impact of the Iran war is being felt in the US and across the world. Higher oil prices have fuelled concerns over the cost of living, with petrol and diesel prices much higher than they were a year ago.
+In the US, gasoline prices have surpassed $4 a gallon and affordability is among the top concerns of American voters ahead of the mid-term elections in November.
+On Monday, a barrel of Brent crude, the global benchmark for oil prices, was $92.
+Last week, Bessent announced the US government would intervene in the bond markets and buy back more government debt in a bid to boost demand for bonds and lower borrowing rates.
+But the impact of the announcement was short-lived, with long-term borrowing costs bouncing back up a day later.
+Iran nuclear deal: What it all means
+- Published23 November 2021
+How much could Trump's 'economic D-Day' hurt Iran?
+- Published5 days ago
+The Iranian regime already faces tough economic sanctions from the US.
+Former US President Barack Obama and several US allies had agreed a deal with the country in 2015 which lifted many sanctions in return for Iran agreeing to limit its nuclear programme.
+However, Trump pulled out of that deal in 2018, calling it "defective at its core", and reimposed all US sanctions on Iran.
+During Joe Biden's term as US president, he made some attempts to reinstate the Obama-era deal, but this did not happen.
+In April this year, the Trump administration launched a wave of sanctions on foreign banks and firms doing business with Tehran after it became clear its military operations had not caused Iran's regime to surrender.`,
+    bodyJa: `イラン、米国の経済制裁拡大に対抗する「十分な準備ができている」と表明
+- 公開されました
+イランは、世界経済からイランを孤立させようとする米国に対する「経済的Dデー」と称する措置を発表したことを受けて、米国の制裁拡大に対抗できると確信していると述べた。
+イランのマダニザデ経済大臣は、イランは制裁に対して「十分な準備ができている」と述べ、制裁は米国の「新たな敗北」につながるだろうと述べた。
+スコット・ベッセント米財務長官は、多数の新たな措置を発表し、イランと金融提携している国は孤立することになり、イランと取引のある銀行や企業も関係断絶を拒否すれば孤立を共有することになると述べた。
+この動きは、紛争終結に向けたホワイトハウスの取り組みからの方向転換と期限延長に続くものだ。
+ベッセント氏は、この措置をイランに対する「史上最大の金融攻撃」であり、「縄を締め、あらゆる潜在的な収入源を遮断する」ものであると述べた。
+一部のエコノミストは、今回の制裁が効果があるかどうかはイランの貿易相手国からの反応次第であるため、疑問視している。
+その中には、イラン石油の最大の買い手である中国も含まれており、中国はこれまでの米国の制裁を無視し、テヘランとの取引を続けている。
+先週、イランのもう一つの貿易相手国であるアラブ首長国連邦は、イランとのすべての金融取引を停止すると発表した。
+しかし米国の発表から数時間後、イランは他国との貿易を継続することに自信を持っていると述べた。
+マダニザデ氏は、中国もロシアも米国の措置を受け入れていないとし、他国も抵抗するだろうと予想した。
+同氏は国営テレビで、「政府は準備ができており、準備ができており、これらの出来事を管理するための2年計画がある」と述べ、テヘランは「長い間これらの計画を待っていた」と付け加えた。
+「私たちは独自のツールも持っており、ゲームのプレイ方法も知っています」と彼は言いました。
+米国の発表に対し、中国は「違法な一方的制裁」と称するものに断固として反対すると述べた。
+外務省報道官の林江氏は、経済圧力戦術は問題解決には役立たないとし、中国政府は自国の利益を守るだろうと述べた。
+戦争は世界的な石油価格の上昇につながり、最近の脅威に対抗してイランは、戦争が続けば同地域からの石油輸出をすべて停止すると警告した。
+ロイター通信によると、イラン政権は船舶に対し、許可なくホルムズ海峡を通過しないよう新たな警告を発した。
+世界の石油とガスの 5 分の 1 は通常、イランの南にある狭い水路である海峡を通過します。しかし、2月末に紛争が始まって以来、その流れは同国によって事実上阻止されており、世界的な原油価格の上昇につながっている。
+月曜初めの記者会見で、いわゆる「経済的追放作戦」の概要を説明した中で、ベッセント氏は、米国が「世界中のイランの金融関係に対する経済的猛攻撃」を開始していると述べた。
+同氏は、「イランは現在、極めて明確な選択に直面しており、その前には2つの道しかない。世界的に完全に孤立するか、それとも世界経済に復帰する機会を得て正常な状態に戻るかだ」と述べた。
+財務長官は、米国は「もはやイランの脅威を管理しておらず、我々はイランの脅威を終わらせている」と主張した。
+ベッセント氏は、財務省はイランが石油取引の制裁を回避するために利用するネットワーク、仲介者、金融ルートをマッピングしていたと述べた。
+同省は、デジタル資産、テクノロジー、金、航空、海運の5つのセクターに対して決定を下したと発表した。財務省はまた、約60の団体、個人、船舶に制裁を課した。
+同氏は、イランを支援したりイランと貿易したりする政府や団体に対する警告の中で、「この活動を可能にすることに盲目だと主張することはできない」と述べた。
+同氏は特定の国を名指しすることは避けたが、トランプ大統領が世界の指導者らに電話で「政権との交流を停止するよう具体的な要請」を行うだろうと述べた。
+同氏は、国民に新たな制裁を理解する時間を与えることが重要だとしながらも、「我々が非常に迅速に行動することと、我々が真剣であることを国民は理解すべきだ」と付け加えた。
+「湿ったスクイブ」
+キャピタル・エコノミクスの気候・商品主席エコノミスト、デービッド・オクスリー氏は、制裁発表の有効性に疑問を投げかけた。
+同氏は、「米国による海上封鎖の再開によりイラン石油輸出は既に絞られており、『経済的Dデー』がイランのエネルギー収入に与える直接的な影響は多少の弱みを握るだろう」と述べた。
+「新しいパッケージが短期的にはイランのエネルギーの流れに限定的な直接的な影響しか及ぼさないのではないかと我々は疑っている。」
+同氏は、イラン石油のおよそ90％が中国に送られているという事実が一因だとし、同国は「過去に米国の制裁を認めておらず、今回も怯える可能性は低い」と述べた。
+国際危機グループの中東・北アフリカプログラム副局長アリ・バエズ氏は、「一般的に中国は一方的な制裁に反対している」と述べた。
+同氏はBBCラジオ4のトゥデイ番組で、「彼らは多国間あるいは国際的な制裁には従うだろうが、米国が課したばかりの一方的な制裁には従うだろう。彼らは常にそれを不当なものとみなしてきた」と語った。
+また、パキスタン、トルコ、イラクといったイランの近隣諸国は米国と良好な関係を維持したいと考えているが、「イランとの関係を断つわけにはいかない」とバエズ氏は付け加えた。
+同氏は、イラン政権が「いかなる痛みも吸収」し、それを国民に伝えるつもりであるため、イランに経済的圧力をかけることは「うまくいかない」と述べた。
+これまでの紛争を通じて、トランプ大統領は4月、イランが戦争を終結させホルムズ海峡の封鎖を解除する協定に合意しなければ「文明全体が今夜滅亡するだろう」と発言するなど、これまでの脅しがあった。
+仲介者のパキスタンが介入し、さらなる外交を求めたことで、米国は最終的にその立場から降りた。
+イラン戦争の経済的影響は米国だけでなく世界中で感じられています。原油価格の高騰で生活費への懸念が高まり、ガソリンとディーゼルの価格は１年前に比べて大幅に上昇した。
+米国ではガソリン価格が1ガロン当たり4ドルを超えており、11月の中間選挙を前に米国の有権者にとって手頃な価格が最大の関心事となっている。
+月曜日、原油価格の世界的な指標であるブレント原油は１バレル＝９２ドルだった。
+ベッセント氏は先週、債券需要の拡大と借入金利の引き下げを目的に、米政府が債券市場に介入し、国債をさらに買い戻すと発表した。
+しかし、この発表の影響は長くは続かず、翌日には長期借入コストが回復した。
+イラン核合意：それが何を意味するのか
+- 2021 年 11 月 23 日公開
+トランプ大統領の「経済的Dデー」はイランにどれだけのダメージを与える可能性があるだろうか？
+- 5 日前に公開
+イラン政権はすでに米国から厳しい経済制裁に直面している。
+バラク・オバマ前米国大統領といくつかの米国同盟国は2015年、イランが核開発計画を制限することに同意する代わりに多くの制裁を解除する協定に合意していた。
+しかし、トランプ大統領は2018年に協定が「核心に欠陥がある」として協定から離脱し、米国による対イラン制裁をすべて再課した。
+ジョー・バイデンは米国大統領としての任期中に、オバマ時代の合意を復活させようといくつかの試みを行ったが、これは実現しなかった。
+トランプ政権は今年4月、イランの軍事作戦がイラン政権の降伏を引き起こしたわけではないことが明らかになった後、イランと取引のある外国銀行や企業に対する一連の制裁を開始した。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-25T08:08:26+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a97/live/68e58ff0-a057-11f1-b109-879e35c24276.jpg",
+    readTime: 8,
   },
   {
     id: "burnham-refuses-to-rule-out-tax-rises-in-fde4d4df",
@@ -1312,215 +1922,6 @@ Related topics
     publishedAt: "2026-08-24T20:54:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-09751791",
-    readTime: 2,
-  },
-  {
-    id: "a-massive-trade-just-happened-in-gold-th-f5b5ba80",
-    title: "A massive trade just happened in gold. The options market is buzzing",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Gold is up 15% this month, rallying alongside higher interest rates and quietly on pace for its best month since 2008. The biggest trade in the entire options market today says that run is coming to an end.
-Twenty minutes after the market opened Monday, someone sold almost 116,000 420-strike calls in the SPDR Gold Shares ETF (GLD) expiring Sept. 18, contracts that are currently in-the-money, collecting a total premium of $202 million. The trader then used some of that money to buy the same number and expiry of 430-strike calls for $144 million, creating a $58 million net credit.
-While selling spreads can often be considered a neutral trade, the fact the trader sold in-the-money calls pushes their breakeven point at expiry to $425, the midpoint of the two sides of the trade. With GLD currently trading at $427, it makes the trade an effectively bearish bet that needs the precious metal to retreat slightly over the next four weeks.
-"The probability is very high that gold sees a short-term pullback," said Nigam Arora, founder of the Arora Report. "Momentum-crowd flows remain very bullish but smart-money flows have turned negative. GLD has already seen about $60 million of negative net money flow today."
-The bearish trade is particularly notable ahead of a week that includes major macroeconomic events including the release of PCE inflation on Wednesday and the Jackson Hole Economic Symposium in Wyoming that begins on Thursday. Gold's been rallying even as the 10-year yield tests multiyear highs and real interest rates climb, which conventionally has been considered a negative for gold, a nonyielding asset.
-It should also be noted that the monster trade runs counter to most of the other options flows in GLD, which lean quite notably bullish, and have for several weeks.
-Traders likely bought more than 37,000 calls in GLD today, compared with less than 20,000 puts, according to ThinkOrSwim data. Among the top 15 contracts by volume Monday, 13 were calls, SpotGamma data show.
-Volume in the GLD ETF was on pace for almost 5x the 30-day average, thanks in large part to the big call spread, Cboe LiveVol data show.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/a-massive-trade-just-happened-in-gold-the-options-market-is-buzzing.html",
-    publishedAt: "2026-08-24T18:41:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-s-oil-and-gas-stocks-gained-up-to-747f062a",
-    title: "Trump’s oil and gas stocks gained up to $15.5 million amid Iran war, congressional Democrats say",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `President Donald Trump's oil and gas stock holdings may have gained as much as $15.5 million this year, as energy shares surged amid the war with Iran, according to a new report from Democrats on Congress' Joint Economic Committee.
-Trump reported owning between $12.5 million and $45.6 million in oil and gas stocks in his 2025 annual financial disclosure. The committee alleges those holdings rose about 39% this year on average through Aug. 17, putting their estimated value between $17.2 million and $61.1 million.
-Among his largest reported energy holdings were Exxon Mobil and Chevron, while shares of Valero Energy and Marathon Petroleum, which he also reported holding, have more than doubled since the beginning of the year.
-The committee's analysis assumes Trump continued to hold the positions disclosed at the end of last year. Federal disclosures report assets in broad ranges rather than exact amounts, making it impossible to calculate his precise gains.
-The Trump Organization has previously told CNBC that Trump's investments are held in fully discretionary accounts managed by independent financial institutions that have "sole and exclusive authority" over investment decisions. It has said Trump and his family receive no advance notice of trades and provide no input into individual investment decisions.
-The White House and the Trump Organization didn't immediately respond to requests for comment.
-The findings add to scrutiny of Trump's unusually large and actively traded investment portfolio. Democrats are expected to investigate Trump's stock trading if they retake either chamber of Congress in the November midterm elections.
-CNBC previously found that Trump reported more than 21,000 securities transactions across eight investment accounts in 2025, which held at least $858 million in assets. CNBC has linked JPMorgan Chase, Charles Schwab, UBS and Stephens Inc. to at least four of those accounts.
-Democrats on the committee also concluded Trump bought as much as $3.6 million in additional oil and gas stocks during the first three months of 2026, including purchases of Chevron shares in the weeks following the U.S. operation in Venezuela.
-The Democratic staff report links the gains to rising oil prices during the Iran war. It estimated that major oil and gas producers recorded about $125.2 billion in profits during the first half of 2026, while Americans spent an estimated $71.5 billion more on gasoline since the war began.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/trump-oil-gas-stocks-iran-war-investments-democrats.html",
-    publishedAt: "2026-08-24T18:34:34+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-admin-unveils-anti-iran-global-san-115118d4",
-    title: "Trump admin unveils anti-Iran global sanctions plan, signals China not exempt",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The Trump administration on Monday announced a plan to isolate Iran's economy by threatening to impose secondary sanctions on the "enablers" keeping the Islamic Republic afloat.
-"We are launching an economic onslaught against Iran's financial connections around the globe," Treasury Scott Bessent said as he unveiled the new sanctions scheme, dubbed "Operation Economic Outcast."
-President Donald Trump is calling world leaders and making "specific requests to cease their interactions" with Iran, Bessent said at the Treasury Department.
-The promised sanctions have yet to be imposed. The U.S. will instead start by sending timelines to individual countries to "shut down activities we have identified," Bessent said.
-"Any entity that facilitates money laundering on behalf of Iran will be removed from the U.S. dollar system," he said. "The clock just started ticking."
-The plan, which Trump had hyped as Iran's "Economic D-Day," quickly drew questions about whether the U.S. would also go after China, Tehran's top trading partner.
-Washington and Beijing have maintained a fragile trade truce for months, following an escalatory trade war last year. Trump and President Xi Jinping met for a pageantry-laden summit in Beijing in May, and Xi is scheduled to meet with Trump in Washington in late September.
-Bessent suggested at Monday's event that China would not be exempt.
-"We want to make clear here today that no one is above the reach of U.S. sanctions," Bessent said when asked if the administration would target Chinese banks, or if it would avoid doing so in order to preserve relations with Beijing.
-"If they facilitate transactions and are part of the ecosystem that turns Iranian oil into money, into repression, they will be targeted," Bessent said.
-The plan to attack Iran's economy came as the U.S. war against Tehran approaches the six-month mark with no hint of a military or diplomatic victory on the horizon.
-A weak ceasefire agreement reached in June had already been largely discarded before its 60-day deadline expired last week. The Strait of Hormuz, a vital pathway for the world's oil trade, continues to give Iran leverage and remains far less active than it was before the war began. The U.S. has reported fewer strikes against Iran in recent weeks, amid reports and speculation that stockpiles of some weapons have been depleted.
-Bessent said Monday that the new U.S. objective "is to sever every economic lifeline that sustains this tyrannical regime until Tehran stands alone."
-The regime's enablers include those who buy or transport its oil, facilitate its financial transactions, accept its flights and allow it conduct seaborne transfers, he said.
-The U.S. is also expanding its sanctions scope to target those who participate in Iran's digital assets, technology, gold, aviation, and shipping sectors, said Bessent.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/trump-iran-economy-sanctions-china-bessent.html",
-    publishedAt: "2026-08-24T18:32:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "oil-prices-pull-back-as-bessent-launches-84e580a7",
-    title: "Oil prices pull back as Bessent launches ‘Operation Economic Outcast’ against Iran but holds off on new secondary sanctions",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `What matters more for oil prices is how hard U.S. sanctions hit China, Iran’s biggest oil buyer, and whether Beijing pushes back.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/oil-trades-lower-even-as-bessent-promises-economic-d-day-announcement-on-iran-a90d862e?mod=mw_rss_topstories",
-    publishedAt: "2026-08-24T18:09:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-83483990",
-    readTime: 2,
-  },
-  {
-    id: "california-ag-rob-bonta-cancels-paramoun-d6fd53a8",
-    title: "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `California Attorney General Rob Bonta canceled a meeting with Paramount Skydance on Monday, saying the company demonstrated a "lack of good faith" in early settlement talks around its planned merger with Warner Bros. Discovery.
-"My office had a meeting with Paramount on Friday. Paramount did not maintain the confidentiality of that meeting. Not only did Paramount leak the alleged substance of settlement discussions, but they misrepresented these discussions, demonstrating a lack of good faith," Bonta said in a statement.
-"As soon as Paramount stops playing games and engages sincerely, my office is happy to meet again," he said.
-Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting. The California attorney general is leading a group of states in suing to block Paramount Skydance's planned merger with WBD.
-In a statement, Paramount said it has "assured" the attorney general's office that it was not the source of the leaks.
-"We remain hopeful and stand ready to continue good faith discussions to resolve the Attorneys General suit and move forward with our plans for increased competition and increased output to the benefit of the talent and entertainment workers," the company said.
-A spokesperson for WBD declined to comment Monday. The New York Times first reported the Monday meeting and subsequent cancellation.
-Bonta told CNBC last week he was ready to come to the table and negotiate a settlement, calling the lawsuit a "black-and-white" antitrust case.
-"We do prefer to resolve cases in the boardroom instead of the courtroom, but for now we're bringing our case, and, you know, I hope they can focus on the actual allegations we make in our complaint," Bonta told CNBC on Thursday.
-Still, Bonta said a resolution of the lawsuit would require "robust structural remedies" on Paramount's part.
-Bonta and 11 other state AGs filed suit in July to block the merger, alleging that the acquisition would create a media giant that would control a sizable portion of film and basic TV programming. Bonta told CNBC last week that the focus of his lawsuit is not on streaming, CNN or foreign regulators.
-Paramount, which is proposing to acquire WBD for roughly $110 billion, agreed to delay the closing of the deal until as late as June 2027. A trial in the antitrust case is scheduled for March.
-Paramount has previously called the lawsuit a "misrepresentation of competition" and has stood by its decision to acquire WBD.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/california-ag-bonta-paramount-settlement-meeting.html",
-    publishedAt: "2026-08-24T17:23:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "nvidia-says-groq-racks-will-be-online-th-688f56c7",
-    title: "Nvidia says Groq racks will be online this year following $20 billion purchase",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Nvidia announced Monday that its Groq 3 LPX rack is in full production, marking the commercialization of technology from the company's largest acquisition on record.
-The Groq rack will be deployed alongside Vera central processors and Rubin graphics processors at neocloud Nebius, and will be online later this year, Nvidia senior director Dion Harris told reporters.
-Nvidia's race to manufacture Groq's chip and make it available to customers highlights the growing importance of low-latency inference that's needed to make artificial intelligence agents feel responsive without long lags for users, especially for coding. Cloud companies can charge more for these kinds of tokens, Nvidia says.
-"For folks who are serving tokens, it unlocks the ability to offer premium tiers of service for those users and those customers who actually demand the most latency-sensitive" service agreements, Harris said.
-In December, Nvidia bought assets from chip startup Groq for $20 billion, the company's largest purchase.
-The Groq architecture includes 500 megabytes of speedy SRAM on the chip's die itself to reduce memory-related bottlenecks. Groq chips are manufactured by Samsung, while Taiwan Semiconductor Manufacturing Co. makes Nvidia's GPUs.
-Nvidia packages 256 individual Groq 3 chips into its LPX racks. Nvidia said its Groq 3 LPX rack can deliver 3,400 tokens per second, citing a benchmark from Artificial Analysis.
-It's a competitive space. Smaller GPU maker Advanced Micro Devices announced earlier this year it would integrate its rack-scale systems with chips from Cerebras, which recently went public, focusing on low-latency inference. OpenAI's newly announced Ultrafast mode currently promises 750 tokens per second, and is "powered by Cerebras."
-Low-latency chips don't replace the GPU, the workhorse of AI chips, which can do training as well as inference and are flexible enough to adapt to new technologies and models. Low-latency chips like Groq mainly focus on a part of serving models called the "decode" phase.
-"This isn't about replacing GPUs," Harris said. "It's about using the right price, right processor for the right part of the workload."
-Nvidia is currently ramping up shipments of its Vera Rubin systems, which started production earlier this year. At the Vera Rubin and Groq 3 LPX unveiling in March, Nvidia CEO Jensen Huang projected $1 trillion in cumulative sales between the current-generation Blackwell chips and the new Vera Rubin systems, through 2027.
-Huang said at the time he would allocate a quarter of data center space intended for coding applications to Groq chips.
-"The rest of my data center is all 100% Vera Rubin," Huang said.
-Nvidia is scheduled to report earnings on Wednesday.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
-    publishedAt: "2026-08-24T17:19:34+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "rail-companies-sued-for-5m-over-oil-spil-5b930dcf",
-    title: "Rail companies sued for £5m over oil spill caused by derailment",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Rail companies sued for £5m over oil spill caused by derailment
-- Published
-Network Rail is suing two rail companies for more than £5m after a fuel spill caused by a train derailment threatened an "environmental disaster" at a designated site for protection.
-The body filed a legal claim earlier this month against DB Cargo UK and Touax Rail over the derailment near Llangennech, Carmarthenshire, in August 2020.
-The incident saw 10 wagons of the 25-wagon train derail, causing 446,000 litres of fuel to spill, and about 300 people had to leave the area due to the blaze.
-In High Court documents, Network Rail claimed that the derailment occurred because the wagon had "not been maintained with reasonable care" and is seeking damages for negligence.
-No one was injured, but 116,000 litres of fuel ignited while 330,000 litres drained into surrounding wetlands, which form part of a Site of Special Scientific Interest (SSSI) and a Special Area of Conservation.
-The Rail Accident Investigation Branch (RAIB) concluded in January 2022 that the derailment was caused by a set of wheels on one of the wagons locking, likely the result of a brake defect after "inadequate maintenance practices" were found in the investigation.
-Network Rail, which owns, operates, maintains and develops Britain's railways, claimed that the derailment occurred because the wagon had "not been maintained with reasonable care" by Touax.
-It is also seeking damages from DB Cargo UK, claiming that the latter "breached a contractual duty to ensure that reasonable care was taken" in maintaining the wagon.
-Lawyers for the body said it expected to recover "more than £5m" with DB Cargo and Touax yet to file defences.
-A hearing in the case is due to take place.
-The locomotive was pulling the wagons from Milford Haven, Pembrokeshire, to Theale, near Reading, when the derailment occurred.
-The line was closed for six months after the incident and did not fully reopen for almost a year, with 30,000 tonnes of fuel-soaked soil having to be excavated.
-Bill Kelly, the then-Network Rail Wales route director, said when the line fully reopened in March 2021 that work following the incident was "one of the biggest environmental recovery operations Network Rail has ever been involved with".
-He added that the derailment could have caused a "total environmental disaster".
-The RAIB said, in its 2022 report, that the train was travelling at about 38mph at the time of the derailment, and was carrying up to 75.5 tonnes of fuel.
-The RAIB did not establish blame or liability for the incident, but made nine recommendations to avoid similar accidents.
-Network Rail and DB Cargo declined to comment, while Touax has been approached for comment.
-Related topics
-More top stories
-- Published3 hours ago
-- Published23 hours ago
-- Published2 hours ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-24T16:30:40+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/127d/live/c72264d0-9fd0-11f1-a291-b542ee92de7c.jpg",
-    readTime: 2,
-  },
-  {
-    id: "goldman-sachs-partner-warns-of-huge-dang-9fccbbcb",
-    title: "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `A Goldman Sachs partner leading one of the bank's flagship artificial intelligence projects warned that AI's spread across Wall Street risks hobbling the thinking capabilities of the next generation of financiers.
-"There's a huge danger here that in the era of AI, we outsource our reasoning to these models, and we have cognitive atrophy that stops us being able to reason from first principles ourselves," said Chris Churchman, who leads Goldman's digital platform for institutional clients called Marquee.
-The comments came during the latest episode of the firm's "Exchanges" podcast, according to a transcript provided exclusively to CNBC.
-Just as people lost navigation and memorization skills with modern inventions, bankers risk losing analytical abilities if algorithms handle all the heavy lifting, Churchman said.
-"Reasoning is still important," he said. "You still need to reason about [problems] and structure it into an argument, and now we're delegating reasoning."
-Wall Street's push to enmesh AI into all of its trading and banking processes could be a kind of devil's bargain: It will make the industry more profitable today while potentially eroding the talent it needs for tomorrow. With AI taking over more of the routine work that has traditionally taught young bankers and traders how to think and make decisions, firms risk sacrificing the culture that turns junior employees into seasoned Wall Street talent.
-It could even reduce the need for junior bankers in the first place. Last year, CNBC reported that Wall Street firms were examining ways of using AI to lower the ratio of junior bankers to senior employees.
-Banks need to find a balance between using AI and preserving Wall Street's apprenticeship culture, said Churchman, who ran currency trading at UBS before joining Goldman in 2021.
-"You learn by doing, and a lot of knowledge is tacit, it was never written down," he said.
-Goldman needs "to make sure we don't lose that tacit and intuitive knowledge that some of our best people have today [and] to ensure the next generation have it too," Churchman said.
-For instance, junior traders learn by fielding client pricing requests under supervision of experienced risk takers, Churchman said.
-"We can absolutely automate that," he said, "but then do we get the senior traders that fully understand?"
-Systems must be designed so that employees still call the shots in high-stakes, high-uncertainty decisions rather than becoming passive operators, Churchman said.
-Even Goldman, one of the world's top investment banks, hasn't yet "figured out" how it will manage the transition the company has begun, said Churchman, who is also co-chair of the firm's Global Banking and Markets AI working group.
-Error-free?
-Also in the podcast interview, Churchman shared lessons from implementing AI into Marquee, which is used by hedge funds and other institutional clients to access Goldman's market data, research, risk analytics and trade execution services.
-The Marquee AI platform is only available to Goldman employees for now, he said.
-The toughest challenge, from a technical standpoint, is in ensuring that AI answers are 100% factual and can be audited, he said. While consumer AI chatbots warn users of possible mistakes, in high finance, the tolerance for errors is low.
-Churchman said that in developing the firm's AI platform for clients, the software made a startling admission.
-"When we challenged it hard, at least it was honest," Churchman said. "It was like, 'Look, in the end, I'm better at sounding thorough than being thorough.'"`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-    publishedAt: "2026-08-24T15:50:50+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 2,
   },
 ];
