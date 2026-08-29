@@ -15,6 +15,338 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "am-i-too-old-for-roth-conversions-i-m-84-9447a3b7",
+    title: "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "「私たちはファイナンシャル・アドバイザーに資産の2％、つまり年間約16万ドルを支払うことに気が進まないのです。」",
+    bodyOriginal: `“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”`,
+    bodyJa: `「私たちはファイナンシャル・アドバイザーに資産の2％、つまり年間約16万ドルを支払うことに気が進まないのです。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+    publishedAt: "2026-08-29T16:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-88832809",
+    readTime: 2,
+  },
+  {
+    id: "i-feel-shoehorned-my-father-funded-my-8-99c6a564",
+    title: "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+    publishedAt: "2026-08-29T15:31:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-48497737",
+    readTime: 2,
+  },
+  {
+    id: "goodyear-burning-rubber-and-cash-as-turn-1f0018c5",
+    title: "Goodyear burning rubber and cash as turnaround plan continues",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.スチュワートの計画の一環として、ダンロップブランドなどのユニットを売却するなど、グッドイヤーをプレミアムタイヤセグメントにさらに参入させることが含まれている。また、今年は1,600以上の新製品を発売する予定だが、そのほとんどが利益率のより高いハイエンドセグメントにある。",
+    bodyOriginal: `DETROIT — Goodyear Tire & Rubber CEO Mark Stewart sits in the vehicle bay of a tire shop where the company is launching a new retail experience for customers.
+There's a freshly painted black facade on the revamped Detroit store, with the words "Motor City" added in white flanking Goodyear's winged foot logo. It's dressed up for a private event tied to a nearby annual car festival called the Woodward Dream Cruise.
+But despite the stylish touches, it's still a tire shop. The smell of rubber and oil remains in the air, and the sound of workers changing tires combines with music from a DJ inside the shop's waiting room.
+The scene symbolizes Stewart's ongoing "Goodyear Forward" turnaround plan. He's trying to make tires — a historically dirty business — more attractive to investors and friendlier for consumers.
+"We have made so much progress, and when you think about it from the standpoint of the Goodyear Forward program, it was really to get our feet back on the ground towards being the iconic company that we always were," Stewart, wearing an unbuttoned navy blue Goodyear technician shirt, told CNBC during an interview at the shop.
+But while Goodyear is well known for burning rubber, it's also burning cash as it restructures, tries to refinance, and pays down years of debt.
+The company's capital expenditures were roughly $2 billion combined in 2024 and 2025, with expectations of $725 million this year. Its debt remained above $7 billion at the end of the second quarter.
+Goodyear's net loss was $453 million through the first half of the year, while its operating income was $131 million, or a 1.6% margin.
+Under the turnaround plan, Stewart wanted Goodyear to reach a 10% operating margin by the end of last year. Instead, that came in at 8.5% in the fourth quarter, and it's still an outstanding goal for the company to hit that mark.
+"We're working on getting to that double-digit margin, and we're working on meaningfully generating cash flow," Stewart said. "It's been a long time since Goodyear's done that. That we absolutely must do."
+The automotive veteran was named CEO of Goodyear after leaving Chrysler parent Stellantis in January 2024. Since then, shares of the company have fallen more than 50% despite Goodyear achieving many of the milestones he's set out to accomplish with the plan.
+Stewart doesn't make excuses for missing the targets, even though Goodyear's business, like many, has been impacted by tariffs, inflated raw material costs, and the expansion of cheaper Chinese products.
+"We still have a lot of geopolitical headwinds that we're working through … a lot of headwinds with raw material indexes and a bit of the hangover from the tariff environment," he said, adding that overseas manufacturers continue to have cost advantages compared to Goodyear.
+Goodyear's raw material costs are expected to be roughly flat year over year, but a $200 million headwind in the second half, largely due to higher commodity costs associated with the conflict in the Middle East, according to the company and Wall Street analysts.
+"Goodyear has faced many big challenges over the past few years, ranging from slower consumer (and commercial) demand, to rising raw material costs, to higher capital expenditures (capex), to low-priced Asian imports (into the U.S.), and, more recently, to trade and tariff legislation. It hasn't been easy for Goodyear," Argus analyst Bill Selesky said in an Aug. 17 investor note.
+Goodyear is rated a hold with a price target of $7.60, according to average analyst ratings compiled by FactSet. Its shares closed Friday at $6.35, down 27% this year.
+Goodyear Forward rolls on
+The Goodyear Forward turnaround strategy was initially expected to be a two-year plan that went through last year, but the CEO has continued it as he and his executive team map out what's next for the 128-year-old Akron, Ohio-based company.
+"At the right time, we will announce that," Stewart said. "We continue to press ahead to the next challenges and make sure we get the business in the right space."
+The Goodyear Forward plan had already been released when Stewart was named incoming CEO, but he has made it his own, including by adding cuts and cost savings. The turnaround plan has cut roughly $1.5 billion in annualized costs, according to the company.
+Part of Stewart's plan has been to move Goodyear more into the premium tire segment, including by selling off units such as its Dunlop brand. It also plans to launch more than 1,600 new products this year, most of which are in higher-end segments with bigger margins.
+The product restructuring comes as non-U.S. brands, especially Asia's Sumitomo and Yokohama, have been expanding globally with cheaper products in lower-end segments, according to Stewart.
+Similar to how Chinese automakers have grown outside their own country, tire manufacturers have also been turning to more exports, including the U.S.
+"We are not going to compete against a $6 or $10 converted tire. That's not who we are as Goodyear," Stewart said, referring to the manufacturing cost required to convert raw materials into a finished tire.
+Despite global challenges, Goodyear's Asia-Pacific region is a bright spot for the company. Its segment operating income for the second quarter was $63 million, with an operating margin of 12.7%.
+Its U.S. operations have been a main drag on the company's financials. Stewart is trying to turn that around as consumer demand slows.
+The company said its cash burn is expected to continue into 2027 but moderate as the announced closure next year of a plant in Fayetteville, North Carolina, is expected to improve its Americas segment operating income by $270 million annually.
+"We had to take a very difficult decision, but a necessary one to announce the closure of our Fayetteville, North Carolina facility. We absolutely didn't take that lightly, but we just didn't have a pathway to be competitive out of that facility," Stewart said.
+The Goodyear Forward plan was prompted by activist investor Elliott Investment Management revealing a stake in the company in 2023. A spokesperson for Elliott, which supported three new Goodyear board members, declined to comment on the company or the firm's current ownership status.
+Goodyear blimps flying high
+Part of the Goodyear Forward strategy is to increase focus on marketing and advertising to connect with customers to reinforce the brand.
+A large part of that — both physically and financially — comes from the company's iconic Goodyear blimps, which have flown as giant advertisements for more than a century.
+"The blimp team and the marketing team have really embraced it. So we do a lot of activation around the blimp to literally sell tires," Stewart said. "When the blimp media marketing has their hat on, it's always in context of 'How do we tie this to the tires?'"
+Stewart said Goodyear has leaned into the promotion, using social media platforms to tout its aircraft — and their connection to tires — and launching "buy to fly" campaigns in which tire retailers and consumers can win flights aboard its blimps.
+The company was showing off its revamped store alongside a Detroit event that attracts hundreds of thousands of car enthusiasts along a 16-mile stretch annually. To celebrate and get its advertising in front of tire buyers, it held a rare double-blimp appearance, according to the company. It also featured a collection of smaller "mini blimps."
+"We've always made the tires worth bragging about," Stewart said. "We're just reminding people now, and that ties into our marketing and advertising as well."
+CORRECTION: An earlier version of this story incorrectly said two Japanese companies, Sumitomo and Yokohama, are based in China.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+スチュワートの計画の一環として、ダンロップブランドなどのユニットを売却するなど、グッドイヤーをプレミアムタイヤセグメントにさらに参入させることが含まれている。また、今年は1,600以上の新製品を発売する予定だが、そのほとんどが利益率のより高いハイエンドセグメントにある。
+スチュワート氏によると、この製品再編は、米国以外のブランド、特にアジアの住友や横浜が低価格帯の製品で世界的に拡大していることを受けて行われたという。
+中国の自動車メーカーが国外で成長したのと同様に、タイヤメーカーも米国を含む輸出拡大に目を向けている。
+スチュワート氏は、原材料を完成タイヤに加工するのに必要な製造コストについて言及し、「我々は、換算6ドルや10ドルのタイヤと競争するつもりはない。それはグッドイヤーとしての我々の姿ではない」と語った。
+世界的な課題にもかかわらず、グッドイヤーのアジア太平洋地域は同社にとって明るい分野です。第 2 四半期のセグメント営業利益は 6,300 万ドルで、営業利益率は 12.7% でした。
+米国事業は同社の財務に大きな影響を与えている。消費者の需要が鈍化する中、スチュワート氏はこの状況を好転させようとしている。
+同社は、キャッシュバーンは2027年まで続くと予想されるが、ノースカロライナ州フェイエットビルの工場の来年の閉鎖が発表され、米州部門の営業利益が年間2億7000万ドル改善すると予想されるため、緩やかになると述べた。
+「私たちは非常に難しい決断を下さなければならなかったが、ノースカロライナ州フェイエットビルの施設の閉鎖を発表するには必要な決断だった。決して軽視したわけではなかったが、私たちにはその施設から競争力を発揮する道がなかっただけだ」とスチュワート氏は語った。
+グッドイヤー・フォワード計画は、物言う投資家エリオット・インベストメント・マネジメントが2023年に同社への出資を明らかにしたことがきっかけとなった。グッドイヤーの新取締役3名をサポートしたエリオットの広報担当者は、同社や同社の現在の所有状況についてコメントを控えた。
+グッドイヤー飛行船が高く飛んでいる
+グッドイヤー フォワード戦略の一環として、マーケティングと広告に重点を置き、顧客とのつながりを強化してブランドを強化することが挙げられます。
+その大部分は、物理的にも財務的にも、1世紀以上にわたって巨大な広告として飛行してきた同社の象徴的なグッドイヤー飛行船によるものだ。
+「飛行船チームとマーケティングチームはそれを非常に受け入れています。そのため、私たちは文字通りタイヤを販売するために飛行船を中心に多くの活動を行っています」とスチュワート氏は言いました。 「飛行船のメディアマーケティングが真剣に取り組んでいるとき、それは常に『どうやってこれをタイヤに結び付けるか？』という文脈の中にあります。」
+スチュワート氏によると、グッドイヤーはこのプロモーションに力を入れており、ソーシャルメディアプラットフォームを利用して自社航空機とそのタイヤとの関係を宣伝し、タイヤ小売業者や消費者が同社の飛行船での航空券を獲得できる「バイ・トゥ・フライ」キャンペーンを開始していると述べた。
+同社は、毎年26マイルの沿道に何十万人もの自動車愛好家が集まるデトロイトのイベントの傍ら、リニューアルした店舗を披露していた。同社によれば、これを記念してタイヤ購入者の前で宣伝を行うため、珍しい二重飛行船の外観を用意したという。小型の「ミニ飛行船」のコレクションも展示されていました。
+「私たちは常に自慢に値するタイヤを作ってきました」とスチュワートは語った。 「私たちは今、人々に思い出させているだけであり、それは私たちのマーケティングや広告にも関係しています。」
+訂正: この記事の以前のバージョンでは、日本企業 2 社、住友と横浜が中国に拠点を置いていると誤って述べられていました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/29/goodyear-turnaround-cash-debt.html",
+    publishedAt: "2026-08-29T13:56:58+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "5-affordable-cities-to-retire-in-the-u-s-f9704585",
+    title: "5 affordable cities to retire in the U.S. right now",
+    titleJa: "今すぐ米国でリタイアするのに手頃な価格の都市 5 つ",
+    summaryJa: "自分の退職後のビジョンに合った手頃な価格の住居を見つけるために国外に出る必要はありません。",
+    bodyOriginal: `You don’t have to leave the country to find an affordable place that matches your retirement vision.`,
+    bodyJa: `自分の退職後のビジョンに合った手頃な価格の住居を見つけるために国外に出る必要はありません。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+    publishedAt: "2026-08-29T12:50:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-81114874",
+    readTime: 2,
+  },
+  {
+    id: "k-c-or-e-why-economists-can-t-agree-on-t-90d16948",
+    title: "K, C or E? Why economists can’t agree on the shape of today’s economy",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `C. K. E.
+Those aren't initials or Greek life letters. They're some of the terms that economists, corporate leaders and politicians are using as they attempt to define the U.S. current economic moment.
+Ever since the recovery from the pandemic, a consensus among economists has viewed the economy as acting in a "K"-shape, displaying an unequal expansion for different groups and the arms of the "K" heading in opposite directions.
+Now there's a debate over whether the K-shaped recovery still exists, or if the economy instead resembles the letter "C" or "E."
+"This is some of the alphabet soup," said Joel Mokyr, a Nobel Prize-winning economic historian at Northwestern University.
+The race to label the structure of today's economy involves more than semantics or bragging rights. In recent years, the divergence among low- and high-income consumers expressed in a K-shaped economy has been top of mind for politicians, monetary policymakers and executives of consumer companies.
+For decades, letter shapes have been used to sum up the economy, especially following major downturns. The list of those that have been employed throughout history includes "V-," "L-" and "W-shaped."
+But it's unusual for this type of description to have staying power among everyday Americans several years after a recession, as it does today, according to Don Rissmiller, chief economist at research firm Baird Strategas. Mounting concerns around wealth inequality may be driving heightened awareness, he said.
+"During recessions and recoveries, the letters are really popular," Rissmiller said. "To use a letter in the middle of a business cycle, I guess we could say that's a little new."
+From K to C
+Treasury Secretary Scott Bessent made waves earlier this month when he declared that the K-shaped economy was in the rearview mirror. In its place, the former hedge fund manager said a C-shaped economy was forming, meaning the bottom class of consumers were gaining ground.
+Bessent cited wage gains among lower-earners and larger tax cuts this year, pointing to President Donald Trump's "no tax on tips" and "no tax on overtime" policies as boosting the worst-off.
+"I got sick of hearing about this K-shaped economy," Bessent, one of Trump's top economic lieutenants, told CNBC this month. "I can say here definitively, the K-shaped economy is over."
+Bessent isn't the only one giving the "C" letter air time. Hilton Worldwide CEO Christopher Nassetta told analysts late last month that his hotel company is "definitely seeing" a C-shaped economy.
+Weakness in high incomes isn't driving the convergence between the two ends of the class spectrum, Nassetta said. Instead, the chief executive said Hilton's middle- and upper-middle segments have swung from posting negative numbers to growing at rates as high as 6%.
+"The middle class is getting back in the game," Nassetta said. "It's really impossible to deny."
+But Anthony Chan, JPMorgan's former chief economist, said the U.S. war with Iran throws a wrench into this emergent view.
+Lower-income consumers spend more of their incomes on energy, he said, meaning they are affected more by surging gas prices as the conflict threatens to keep inflation high. That should mitigate any gains for lower income Americans from White House efforts to increase tax refunds or make homes more affordable, he said.
+"I'm the first to say that we can make some progress," Chan said. "But nothing of the sort of progress that we can say we can bury the K-shaped economy."
+Still a K
+Indeed, it's hard to argue that the K-shaped economy has faded so long as consumer sentiment remains weak and the cost of living shapes up as a defining issue in the midterm election cycle, Chan said.
+Consumer sentiment dropped 11% in August from a year ago and was recently near record lows recorded earlier this year, according to the University of Michigan's closely-followed survey released Friday. Confidence among low- and middle-income respondents took an outsized hit this month, said Joanne Hsu, the survey's director.
+Leaders at several consumer companies said they still see signs of a K economy.
+"The dynamic of a K-shaped economy we see is alive and well in the United States," said Shane Grant, Colgate-Palmolive's operations chief for the Americas, at a Deutsche Bank consumer conference in June.
+Bill Boltz, a merchandising executive at Lowe's, said last week on the home retailer's earnings call that the K-shaped economy is one variable that "continues to shape" consumer spending trends. CEO Nicholas Fink at Constellation Brands, maker of Modelo beer and Robert Mondavi wine, told analysts last month the economy even looks "increasingly" like a K.
+Others are finally seeing cracks start to form in the K-shaped economy, years after it grew to dominate economic analysis.
+While income growth didn't appear to show a K-shaped divergence among different income groups between 2021 and 2023, consumption did reflect a clear break, according to a report from a team at the Federal Reserve Bank of Richmond published last month.
+The Bank of America Institute said that may be changing. While higher earners had been spending more using credit cards, the institute said the gap across income classes began narrowing in May of this year.
+"What was once a 'K'-shaped consumer is increasingly becoming one of convergence," David Michael Tinsley, the institute's senior economist, wrote to clients.
+Researchers at the New York Fed also said their latest research into credit card debt showed the K-shaped economy continues to dominate as an economic theme. Combined credit card balances of a near-record $1.26 trillion in the second quarter are evidence "there are a lot of households that live paycheck to paycheck."
+Evolution to E
+Others wonder if the economy has evolved into an E-shape after more than half a decade in a K-shape. In this view, there are three distinct classes of Americans that are neither moving farther apart nor converging.
+In other words: "Each group has found a way to live," said Rissmiller of Baird Strategas.
+"It may not be the best outcome," Rissmiller added. "But it is an outcome that looks more stable than not."
+Michael Eisenband, global chairman of corporate finance at FTI Consulting, recently said in a client note that the E-shaped assessment "better illustrates" clearly divergent spending patterns among different income groups. The E can serve as a "more fitting depiction of the times," he said.
+Heather Long, chief economist at Navy Federal Credit Union, said an E-shaped description of the economy may be more accurate than a K because it better captures a middle class that's just hanging on. A view that low- and high-earners are somehow converging requires "some real mental gymnastics," she said.
+Wyndham Hotels & Resorts CEO Geoff Ballotti similarly told analysts on an earnings call earlier this year that while its middle-tier consumer is "feeling better" and "regaining confidence in purchasing power," that might reflect either a C- or E-shaped economy.
+For other executives, an E-shaped economy, with three income groups on parallel but unequal tracks, remains an alien concept — for now. Scott Thompson, CEO of Somnigroup International, admitted to being out of the loop when asked about an E-shaped analysis on the Tempur-Pedic mattress maker's earnings call this month.
+"That's a new one for me," Thompson said. "I was ready for K; hadn't thought about E."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+    publishedAt: "2026-08-29T12:22:50+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "tech-backlash-reaches-fever-pitch-as-ai-f6e1d579",
+    title: "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Silicon Valley's technology leaders have long dreamed of making the world a better place. But now more than ever, Americans say they're living in a tech-induced nightmare.
+The rapid rise of artificial intelligence giants like OpenAI and Anthropic has exacerbated a deep malaise toward the tech sector, especially among people who have come to associate AI with job loss and now see outsized data centers rising up in their backyards. The last generation of technology, meanwhile, ushered in a cohort of social media apps that proved so addictive that Meta agreed to fork over up to $17 billion as part of a landmark settlement this week.
+At a time of stubbornly high inflation that's pushed consumer confidence to a seven-month low, Americans are looking up to see tech's trillion-dollar companies getting bigger and more powerful, all while being led by some of the wealthiest people on the planet.
+"If this technology takes off in the way that you see the CEOs of AI Labs talking about, we're facing a significant impact to our economy, to people's jobs, to their sense of agency," Sarah Myers West, co-executive director of research firm AI Now Institute, told CNBC in an interview. "There are lots of members of the public that don't want to see that vision roll out."
+More than half of Americans say they're more concerned than excited about the growing use of AI in daily life, according to a recent report from the Pew Research Center. That's up from 37% in 2021. And in a poll earlier this year, the Searchlight Institute found that the overwhelming majority of voters believe social media has a negative impact on society.
+Confidence in AI executives is even more dismal, according to a CNBC Generation Lab survey of 18- to 34-year-olds. More than 75% of respondents said they don't trust Anthropic CEO Dario Amodei to act responsibly, while around 70% of respondents expressed those views about OpenAI CEO Sam Altman and Meta CEO Mark Zuckerberg.
+The public's mounting disdain toward the tech sector could prove to be especially challenging for Anthropic and OpenAI, which are both valued at nearly $1 trillion and are gearing up for potentially historic IPOs. Those offerings could mint a number of fresh billionaires and scores of millionaires. AI backlash is expected to appear as a key risk factor in Anthropic's IPO prospectus, as CNBC previously reported.
+In a post on X earlier this month, Amodei acknowledged that the public has a negative view of AI, and he said Anthropic and other companies will have to deliver on their promises to improve people's lives.
+"I think it is fundamentally a crisis of trust," Amodei wrote. "I think that ordinary people don't trust companies, governments, or the tech industry and always suspect that we are cooking up some new way to screw them over. The causes of this go back decades and AI is just the latest iteration of it."
+Experts told CNBC that backlash against the tech sector is reaching new heights, and that the widespread angst is drowning out conversations about its potential benefits, particularly in regards to AI. Companies have to go beyond a charm offensive, they say.
+"Treating it as a PR problem and a problem of public sentiment would be tremendously misguided," West said. "To improve public sentiment requires really meaningfully contending with where the public is at and what they want in a more meaningful way than just, 'Can we convince you to get on board?'"
+'There's not a lot of trust'
+AI data centers, the large facilities that house the hardware for training and running AI models, have become a particularly sore subject, serving as a physical manifestation of the widespread anger toward AI.
+During the first quarter of this year, around $130 billion worth of data center projects were blocked or delayed due to local opposition, according to a report from Data Center Watch. In just three months, that figure neared the roughly $156 billion worth of facilities that were disrupted during all of 2025.
+As backlash against the facilities has mounted, groups like the Stop Data Centers Coalition have been pushing for a national moratorium on new projects to give lawmakers and the public time to more closely examine their environmental, societal and economic impacts.
+Emily Wurth, organizing director for Food and Water Watch, said data center concerns cut across a number of issues, including water use, higher utility bills, emissions increases, noise pollution and the potential that the facilities are "taking over agricultural land."
+In parts of Arizona, Michigan and Pennsylvania, she said she's seen "hundreds of people showing up to speak out and oppose these projects."
+"I think it likely caught companies and legislators by surprise," she said.
+The outrage has spilled into the tech workforce. Amazon engineers testified at a Seattle City Council meeting in June to call for greater government regulation of AI data centers, and criticized the company's use of "dirty energy" at some sites.
+"There's not a lot of trust necessarily in the utilities and the regulators, given the higher electricity prices that we've seen over previous years," James Coleman, a professor of law at the University of Minnesota, told CNBC in an interview.
+Sentiment isn't universally negative. Jennifer Huddleston, senior fellow in technology policy at the Cato Institute, said in an interview that "many unions are coming out in favor of data centers, not only because of the initial construction boom, but also the electricians and HVAC" professionals that are in demand "once they're built."
+The so-called hyperscalers responsible for much of the building boom say they're responding to insatiable demand from businesses and consumers for their services, many of which are enabling critical advancements in areas like medical research and precision farming.
+Even so, opposition to data centers has become a major flashpoint in this year's midterm elections, which are just two months away. Both Democratic and Republican hopefuls have spoken out against the facilities during their campaigns.
+The National Republican Senatorial Committee, or NRSC, warned that data centers have become a "sleeper issue" for the entire midterm election cycle, according to a memo obtained by CNBC earlier this month.
+Social media in the spotlight
+Jim Steyer, CEO of the nonprofit Common Sense Media, said bipartisan opposition to tech extends well beyond just data centers. He said Americans are "fed up" with the behavior of a number of big tech companies.
+"There is genuinely a techlash, and it's not partisan at all," Steyer, whose brother Tom was a Democratic candidate for governor in California, told CNBC in an interview. "It doesn't matter if you're liberal or conservative, or you vote for Republicans or Democrats, or what part of the country you live in. It's everywhere."
+The lawsuit that Meta settled this week was brought by a bipartisan coalition of state attorneys general, who argued that Meta endangered children and teens with its social media apps like Instagram and Facebook. As part of the settlement, the company agreed to make substantial changes to its products in addition to paying billions of dollars in penalties.
+Meta agreed to impose channges including a default two-hour daily time limit for teens across Facebook and Instagram, muted notifications during school hours, and enhanced parental controls, with more updates potentially on the horizon.
+"It's a floor conceptually, not a ceiling," California AG Rob Bonta, who co-led the case, said at a news conference on Wednesday.
+Steyer described the settlement as an overdue but "well-deserved victory" that reflects broad public sentiment. He added that the antipathy towards tech is the most intense it's been since he founded Common Sense more than 20 years ago.
+It's a "qualitatively different moment in terms of the backlash," Steyer said. "If I were running one of the big companies, I would be very aware of that."
+Then there's the matter of surveillance, and Atlanta startup Flock Safety.
+Flock's technology, which photographs every passing license plate and uses AI to extract data, has been installed across thousands of American cities and towns. Critics say police have used the cameras to stalk women or wrongfully accuse people of crimes.
+Ahead of the midterms, politicians on both sides of the aisle have called for greater regulation. Abdul El-Sayed, the progressive Democrat running for U.S. Senate in Michigan, posted a video on X earlier this month accusing his Republican counterpart, Mike Rogers, of enabling their proliferation.
+Florida Republican Gov. Ron DeSantis, whose term will come to an end in January, said this week the systems were "out of control." President Donald Trump said his stance on the cameras is "under review."
+More than 90 cities have deactivated, rejected or canceled Flock contracts so far this year, according to DeFlock, an advocacy group that tracks the rollout of Flock systems.
+Flock didn't provide a statement for this story.
+Jay Stanley, a senior policy analyst with the American Civil Liberties Union, said the fallout "folds neatly" into the resentment toward AI, data centers and the power of tech billionaires.
+"I think there is a long-term grassroots bipartisan suspicion of this kind of surveillance," he said.
+—CNBC's Annie Palmer and CJ Haddad contributed to this report
+WATCH: Tusk Venture’s Bradley Tusk talks what data centers need to do to gain trust`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+    publishedAt: "2026-08-29T12:16:03+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "iran-trade-falls-as-supreme-leader-khame-8f85c8d6",
+    title: "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Iranian trade has fallen sharply under U.S. sanctions and a naval blockade, President Masoud Pezeshkian said, as Supreme Leader Mojtaba Khamenei urged a reduction in reliance on the U.S. dollar.
+"We have had a decrease of between 25% and 35%. Our exports have decreased, but imports have decreased more," Iranian President Masoud Pezeshkian said in an interview late Friday with state TV and according to a Google translation of a Tasnim News transcript. "The decrease in exports is slightly less than the decrease in imports, and imports have decreased significantly."
+"What do these statistics mean? Then some people say that sanctions have no effect at all! I really don't know what to tell these people," Pezeshkian was quoted as saying. "I just want to say this, saying that sanctions have no effect is not consistent with these facts."
+Meanwhile, Supreme Leader Mojtaba Khamenei called for greater economic self-reliance in a written message Friday.
+"Equally vital is giving special attention to economic growth, boosting production, gradually phasing out the US dollar from playing a pivotal role, and ultimately, making Resistance Economy the central focus," Mojtaba Khamenei said in a post on X late Friday.
+Toughened sanctions campaign kicks off
+On Monday, U.S. Treasury Secretary Scott Bessent launched "Operation Economic Outcast," a sanctions campaign aimed at severing all of Iran's economic ties worldwide.
+In one of its first moves, the Treasury Department on Friday proposed cutting off the UAE operations of Egyptian bank Banque Misr from correspondent banking access to U.S. financial institutions over alleged financial ties to Iran.
+Treasury proposed revoking Banque Misr UAE's correspondent banking access to U.S. financial institutions, the department said in a statement.
+Banque Misr UAE processed about $1.8 billion over the past two years for 103 companies that are potentially part of Iran's shadow banking network, according to Treasury.
+The bank said in a statement Saturday that it is cooperating with relevant authorities and added that the regulatory action is limited to its branch in the UAE, which continues to serve its customers.
+Iranian crude oil exports are down sharply as the U.S. intensifies economic pressure on Tehran through sanctions and its naval blockade.
+Iranian crude oil loaded for export plunged in August, according to data shared Thursday by trade intelligence firm Kpler. The U.S. has increasingly emphasized economic pressure through sanctions and its naval blockade to coerce Tehran into a deal to fully reopen the Strait of Hormuz.
+Tehran has loaded about 260,000 barrels per day for export at its ports so far this month, down more than 80% from 1.7 million bpd in August 2025, Kpler reported.
+President Donald Trump reimposed the blockade on July 14 in retaliation for Iran attacking oil tankers transiting the Hormuz Strait. Tehran's crude loadings are down about 70% in August from 893,000 bpd last month.
+Iranian oil reserves
+U.S. Central Command said Saturday that as of Aug. 28, its forces have "redirected 82 commercial vessels, disabled 3 and boarded 2 to ensure compliance."
+The Trump administration believes Iran will eventually run out of money and have to capitulate, said Bob McNally, president of Rapidan Energy.
+The blockade has been "very effective," said Matt Smith, director of commodity research at Kpler. It has "walloped Iran's crude export loadings," he said. The crude Tehran can load on tankers probably doesn't make it past the blockade, Smith added.
+But Iran's Ministry of Petroleum said it has enough oil reserves for sale to meet its 2026-2027 budget requirements while bypassing maritime blockades, according to a post on Telegram translated by Google.
+It said it has transferred $7.5 billion in proceeds from oil sales over a four-month period to the country's central bank, enough to cover foreign currency expenditures through early January 2027.
+Friday marked six months since the U.S. and Israel launched "major combat operations" in Iran, prompting retaliatory strikes on targets across the Gulf and sparking a new war in the Middle East.
+What was initially to be a weeks-long conflict has evolved into a standoff that geopolitical analysts say has no end in sight.
+The conflict has dragged on for six months, despite early expectations that major fighting would last only weeks, while efforts to reopen the Strait of Hormuz remain unresolved.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+    publishedAt: "2026-08-29T12:08:08+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "buffett-remains-active-at-96-but-berkshi-eb0e3ea1",
+    title: "Buffett remains active at 96, but Berkshire's shares aren't doing much",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
+Buffett remains active at 96, but Berkshire's shares aren't doing much
+Warren Buffett will be celebrating his 96th birthday on Sunday.
+Even though he is no longer Berkshire Hathaway's CEO, he remains very involved as chairman, apparently continuing to make the big decisions on equities, including the addition in recent quarters of what is now a $36.6 billion stake in Google parent Alphabet.
+Berkshire investors, however, will not be celebrating the performance of the company's stock.
+After rallying in the wake of its Q2 earnings report to an intraday high of $537.74 on Aug. 10, its best level since its record high close just before Buffett's May 2025 announcement he would be stepping down as CEO, the Class B stock has fallen back to close Friday at $505.00, up just 0.5% year to date.
+That puts it 12.2 percentage points behind the benchmark S&P 500, which is up 12.7% on the year.
+While acknowledging it's "hard to say" why Berkshire's stock is lagging, Barron's lists of number of possible explanations, including uncertainty over Greg Abel as CEO, disappointment he hasn't been more aggressively reducing the company's still large cash position, Berkshire's continuing refusal to pay a dividend, and its failure to make a giant acquisition of $100 billion or more.
+President Trump's portfolio actively trades Berkshire shares
+Berkshire Hathaway is one of the many stocks being frequently bought and sold for President Donald Trump's investment portfolio.
+Of the 1,051 transactions listed in his disclosure form covering the month of June for the U.S. Office of Government Ethics, five involve Berkshire's stock.
+Four of them specify Berkshire's Class B shares, while one just lists Berkshire Hathaway Inc.
+There were three purchases and two sales.
+The disclosure form only lists a range for each transaction, not a specific amount, so we can only look at a range of totals.
+Thanks to the June 18 purchase between $1 million and $5 million, Trump was a net buyer for the month.
+In Trump's 2025 annual report, he reports holding between $1 million and $5 million worth of Berkshire shares.
+After reviewing thousands of trades in earlier disclosures, Bloomberg reported the "patterns bear the hallmarks of overlapping portfolio-management strategies, often index-based and much of it likely automated, and all of it difficult to disentangle."
+It says that's largely in line with the Trump Organization's public statements that third-party financial institutions independently manage the trading using "automated, model-based portfolios and direct indexing strategies" with no input from the president or his family.
+Critics argue the president, along with top administration officials and members of Congress, should not be allowed to own individual stocks so they can avoid even the appearance of impropriety.
+BUFFETT & BERKSHIRE AROUND THE INTERNET
+Some links may require a subscription:
+- Simply Wall St: Berkshire Hathaway (BRK.B) Stock Looks Cheap On Fair Value While Earnings Stay Modest
+- The Motley Fool on Yahoo: Bill Gates' Foundation Holds Berkshire Hathaway as Its Top Stock, a Signal of Its Preference for Steady Compounders Over Flashy Tech
+- The Business Times: Tokio Marine plots multibillion-dollar deal after Berkshire takes stake
+HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
+'Trade should not be a weapon' (2025)
+Without specifying President Trump's controversial tariffs, Warren Buffett argues the U.S. "should be looking to trade with the rest of the world."
+BECKY QUICK: This first question comes from Bill Mitchell. I received more questions about this than any other question.
+He writes, "Warren, in a 2003 Fortune article you argued for import certificates to limit trade deficits and said these import certificates basically amounted to a tariff. But recently, you called tariffs an act of economic war.
+"Has your view on trade barriers changed? Or do you see import certificates as somehow distinct from tariffs?"
+WARREN BUFFETT: Yeah, well, the import certificates were distinct, but their goal is to balance imports against exports. And so that the trade deficit would not grow in an enormous way.
+In fact, it would've — and it had various other provisions in it to help third world countries — at that time, as they were called — to perhaps catch up a little bit.
+And they had a variety of aspects to them. But basically, they were designed to balance trade.
+And I think you can make some very good arguments for the fact that balanced trade is good for the world. And the more balanced trade there is, the better.
+It will continue to be better for cocoa to be raised in Ghana, and coffee in Colombia, and a few things...
+We should be looking to trade with the rest of the world, and we should do what we do best, and they should do what they do best...
+Trade should not be a weapon.
+And the United States — the United States — we've won. I mean, we have become an incredibly important country, starting from nothing 250 years ago. There's nothing that's been anything like it.
+And it's a big mistake, in my view, when you have seven and a half billion people that don't like you very well, and you've got 300 million that are crowing in some way about how well they've done.
+And I don't think it's right, and I don't think it's wise.
+I do think that the more — the more prosperous the rest of the world becomes — it won't be at our expense — the more prosperous we'll become and will then — the safer we'll feel, and your children will feel someday. So that's — (Applause)
+But don't expect my import certificate idea to go down there with Adam Smith's Wealth of Nations or anything. (Laughter)
+BERKSHIRE STOCK WATCH
+Four weeks
+Twelve months
+BRK.A stock price: $757,985.01
+BRK.B stock price: $505.00
+BRK.B P/E (TTM): 12.70
+Berkshire market capitalization: $1,081,295,529,555
+Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
+Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
+Berkshire repurchased $4.5 billion of its shares in Q2 2026.
+BERKSHIRE'S TOP EQUITY HOLDINGS - Aug. 28, 2026
+Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
+Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on Aug.14, 2026, except for:
+- Mitsubishi, which is as of April 30, 2026
+The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
+QUESTIONS OR COMMENTS
+Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
+If you aren't already subscribed to this newsletter, you can sign up here.
+Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
+-- Alex Crippen, Editor, Warren Buffett Watch`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/29/buffett-remains-active-at-96-but-berkshires-shares-arent-doing-much.html",
+    publishedAt: "2026-08-29T11:53:36+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "meta-s-18-billion-settlement-puts-tiktok-ce19f222",
     title: "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
     titleJa: "Meta の 180 億ドルの和解により、TikTok と YouTube は注目を集めています。次に発砲するのは誰でしょうか？",
@@ -1734,622 +2066,6 @@ Tech Decoded ニュースレターに登録して、世界のトップのテク�
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/51e2ea60-a213-11f1-9090-b51af3a01fc2.jpg",
     readTime: 9,
-  },
-  {
-    id: "nvidia-jumps-7-after-blockbuster-earning-208f46ad",
-    title: "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
-    titleJa: "大ヒット収益で AI への信頼が高まり、NVIDIA が 7% 急騰",
-    summaryJa: "エヌビディアの株価は木曜日、半導体大手の収益見通しがAI需要が引き続き堅調であると投資家を安心させたことを受けて上昇した。株価は市場前取引で最後に７．２％上昇した。投資家の強気な姿勢は、エヌビディアが過去4四半期すべてで予想を達成または上回ったにもかかわらず、収益を発表した翌日に株価が下落する傾向に逆行する可能性があることを示唆している。",
-    bodyOriginal: `Nvidia shares rose on Thursday after the chip giant's revenue guidance reassured investors that AI demand will remain strong.
-Shares were last up 7.2% in premarket trading. Investor bullishness suggests Nvidia could buck the trend of its stock dropping the day after reporting earnings in all of the previous four quarters, despite meeting or beating estimates.
-Chip stocks rallied following Nvidia earnings. Micron rose 4.5%, Marvell 5.7%, Arm 4.7%, Intel 3% and AMD 1.7%. Shares of neocloud firms also rose, with Nebius and CoreWeave up around 7.5% and 6% in premarket trading, respectively.
-Nvidia CFO Colette Kress said on Wednesday that the company expects revenue growth of 70% for fiscal 2028, which runs from February 2027 to January 2028. CEO Jensen Huang said demand "is much greater than 70%," but the company is constrained on the amount of product it can supply.
-TSMC, Nvidia's main manufacturer, continues to face supply constraints, while memory chips — a key component of Nvidia's systems — also remain in short supply.
-On Thursday, analysts also pointed to a "threat" to Nvidia's near monopoly over the most advanced AI chips by recently announced custom semiconductors built by hyperscalers and AI labs like OpenAI.
-Nvidia boosts AI optimism
-Huang said that Nvidia has "never forecasted" a year in advance, but that the company has "a lot greater visibility now" across the supply chain to do so.
-Nvidia's forecast comes at a time when investors remain nervous about capital expenditure from large tech companies, the circular nature of financing deals, and the return from AI investments.
-The tech giant's commentary around AI demand appeared to calm down some of those fears.
-Huang said AI "reached its inflection point," noting that the number of companies that need large clusters of GPUs has expanded dramatically.
-"This time last year, one lab alone was driving the buildout," Huang said. "Today, we have a golden age of new AI labs and startups, multiple frontier labs scaling in parallel, a thriving open-model ecosystem and physical AI coming online — with strong momentum across the U.S. and around the world."
-The company also sought to show investors that its revenue base was diversifying its customer base beyond just hyperscalers. Nvidia's AI Clouds, industrial, and enterprise (ACIE) customers accounted for $40.3 billion in sales in the quarter, up 138% on an annual basis.
-Nvidia's earnings results "tell you that the valuation today is cheap," Siddy Jobe, senior portfolio manager, Exponential Technologies Fund at Econopolis Wealth Management, told CNBC's "Squawk Box Europe" on Thursday. "There is plenty, plenty of upside in the Nvidia share."
-While fears of a market correction were raised when chip stocks shed $1 trillion in July before recovering, confidence appeared to be back on the agenda after Nvidia reported its earnings.
-"I continue to be very bullish on Nvidia and this entire ecosystem," Paul Meeks, head of technology research at Freedom Capital Markets, told CNBC's "Squawk Box Asia" on Thursday. "I don't think we have really a threat of a slowdown until we get into 2028 earliest."
-Nvidia has agreed to buy open-source platform Hugging Face for $12.9 billion, The Information reported on Wednesday, citing a person with knowledge of the deal. Business Insider separately reported that Nvidia had been "in talks" to acquire Hugging Face.
-If completed, the acquisition would put one of the most widely used platforms for sharing and working with open-source AI models under Nvidia's ownership, expanding the chipmaker's reach further into the software and model ecosystem.`,
-    bodyJa: `エヌビディアの株価は木曜日、半導体大手の収益見通しがAI需要が引き続き堅調であると投資家を安心させたことを受けて上昇した。
-株価は市場前取引で最後に７．２％上昇した。投資家の強気な姿勢は、エヌビディアが過去4四半期すべてで予想を達成または上回ったにもかかわらず、収益を発表した翌日に株価が下落する傾向に逆行する可能性があることを示唆している。
-エヌビディアの決算を受けてチップ株が上昇した。マイクロンは４．５％、マーベルは５．７％、アームは４．７％、インテルは３％、ＡＭＤは１．７％それぞれ上昇した。ネオクラウド企業の株価も上昇し、NebiusとCoreWeaveは市場前取引でそれぞれ約7.5％、約6％上昇した。
-Nvidiaの最高財務責任者（CFO）コレット・クレス氏は水曜日、同社は2027年2月から2028年1月までの2028年度の売上高成長率が70％になると予想していると述べた。CEOのジェンセン・ファン氏は、需要は「70％をはるかに上回っている」が、同社が供給できる製品の量には制約があると述べた。
-Nvidia の主要メーカーである TSMC は引き続き供給制約に直面しており、Nvidia システムの主要コンポーネントであるメモリ チップも供給不足のままです。
-木曜日、アナリストらはまた、ハイパースケーラーやOpenAIなどのAI研究所が最近発表したカスタム半導体によって、最先端のAIチップをエヌビディアがほぼ独占していることへの「脅威」を指摘した。
-Nvidia が AI の楽観主義を後押し
-フアン氏は、NVIDIA が 1 年前を「予測したことは一度もなかった」が、同社はサプライチェーン全体でそれを「予測できるようになった」と語った。
-Nvidiaの予測は、投資家が大手ハイテク企業の資本支出、資金調達取引の循環的な性質、AI投資からの収益について依然として神経質になっている中で発表された。
-AI需要に関するテクノロジー巨人のコメントは、そうした不安の一部を和らげたようだ。
-Huang 氏は、AI が「変曲点に達した」と述べ、大規模な GPU クラスターを必要とする企業の数が劇的に増加していると指摘しました。
-「昨年の今頃は、1つの研究室だけが増強を推進していた」とフアン氏は語った。 「今日、私たちは新しい AI ラボやスタートアップの黄金時代を迎えており、複数のフロンティア ラボが並行して拡張し、オープンモデルのエコシステムが繁栄し、物理的な AI がオンラインになり、その勢いは米国全土および世界中に広がっています。」
-同社はまた、収益基盤が単なるハイパースケーラーを超えて顧客ベースを多様化していることを投資家に示そうとした。 Nvidia の AI クラウド、産業、およびエンタープライズ (ACIE) 顧客の当四半期の売上高は 403 億ドルで、年間ベースで 138% 増加しました。
-エコノポリス・ウェルス・マネジメントのエクスポネンシャル・テクノロジーズ・ファンドのシニア・ポートフォリオ・マネジャー、シディ・ジョブ氏は木曜日、CNBCの「スコーク・ボックス・ヨーロッパ」で、エヌビディアの決算は「今日のバリュエーションが割安であることを物語っている」と語った。 「NVIDIA 株には、たくさんの上昇余地があります。」
-7月に半導体株が1兆ドル下落して回復する前に市場調整の懸念が高まったが、エヌビディアが決算を発表したことで信頼感が再び議題に上ったようだ。
-フリーダム・キャピタル・マーケッツの技術調査責任者、ポール・ミークス氏は木曜日、CNBCの「スコーク・ボックス・アジア」で、「私はエヌビディアとこのエコシステム全体に対して非常に強気であり続ける」と語った。 「2028年に早く突入するまでは、実際に景気減速の脅威はないと思います。」
-NvidiaがオープンソースプラットフォームHugging Faceを129億ドルで買収することに合意したと、The Informationが水曜日にこの取引に詳しい関係者の話として報じた。 Business Insiderは、NVIDIAがHugging Faceの買収に向けて「交渉中」であると別途報じた。
-この買収が完了すれば、オープンソース AI モデルの共有と操作に最も広く使用されているプラ​​ットフォームの 1 つが Nvidia の所有となり、チップメーカーの範囲がソフトウェアとモデルのエコシステムにさらに拡大することになります。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-    publishedAt: "2026-08-27T08:43:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "cia-chief-john-ratcliffe-reportedly-made-0fc1739f",
-    title: "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
-    titleJa: "CIA長官ジョン・ラトクリフはロシアにNATO攻撃を警告するために秘密裏にモスクワ訪問したと伝えられている",
-    summaryJa: "複数のメディア報道によると、ウクライナ戦争のさらなる激化への懸念が高まる中、米国中央情報局のジョン・ラトクリフ長官が今週、ロシアにNATO攻撃を警告するため突然モスクワを訪問した。ラトクリフ氏がＣＩＡ長官としてロシアの首都を初めて公に訪問したことは火曜日に明らかになり、米空軍機がモスクワの空港に到着するのが発見され、市内を移動する外交官の車列の映像がソーシャルメディア上に公開された。",
-    bodyOriginal: `U.S. Central Intelligence Agency Director John Ratcliffe made a surprise trip to Moscow this week to warn Russia against attacking NATO, according to multiple media reports, amid growing fears of further escalation in the Ukraine war.
-Ratcliffe's first publicly known visit to the Russian capital as CIA chief came to light on Tuesday, when a U.S. Air Force jet was spotted arriving at a Moscow airport, and footage of a diplomatic motorcade moving through the city emerged on social media.
-The purpose of Ratcliffe's trip to Moscow was first reported Wednesday by the Wall Street Journal, citing unnamed sources briefed on the trip.
-Politico and CBS News separately reported the same motive, citing multiple people familiar with the matter. CBS News added that Ratcliffe also brought up Iran, warning of additional sanctions if the strategically vital Strait of Hormuz does not reopen to shipping traffic.
-The Trump administration has threatened Iran's trading partners with so-called secondary sanctions as it seeks to ratchet up the pressure on Tehran's economy following six months of war between the U.S., Israel and Iran.
-China, the United Arab Emirates and Turkey are known to be among Iran's top trading partners, while Russia has long shared close economic and military ties with Tehran.
-Spokespeople for the CIA and the Russian Embassy in London were not immediately available to comment when contacted by CNBC.
-U.S. President Donald Trump on Wednesday described Ratcliffe's meeting with figures from Russia's intelligence services as "semi-routine." He added that "something may come out of" the Moscow visit and Washington would like to see the Russia-Ukraine war come to an end. His comments came during an interview with conservative talk show host Glenn Beck.
-Kremlin spokesperson Dmitry Peskov, meanwhile, said Ratcliffe did not meet with Putin during his visit to Moscow and declined to specify whether the meeting concerned issues such as Ukraine or Iran.
-"I can only tell you that contacts took place through the intelligence services," Peskov said Wednesday, according to Russian state news agency Tass.
-Russia and Ukraine have exchanged an intensifying series of drone and missile strikes far beyond the front lines in recent weeks, amplifying fears of further escalation in the conflict.
-Alongside analysts and external observers warning that Russia's full-scale invasion could soon enter a more dangerous phase, Ukrainian President Volodymyr Zelenskyy has said that Russian President Vladimir Putin is preparing to escalate the war.
-In comments posted on X earlier this month, Zelenskyy called on the country's partners to ramp up sanctions pressure on Moscow and provide Kyiv with further air defense support.
-Russian forces have increased the number of missile strikes on Ukrainian cities in recent weeks, likely as part of a push to exploit Kyiv's shortage of ballistic missile interceptors.
-Zelenskyy has repeatedly called on international partners to expedite the supply of ballistic missile interceptors to Ukraine, saying the technology could have saved the lives of those killed in Kyiv on Aug. 5.
-'Quite an unusual visit'
-Katia Glod, deputy head of foreign policy at the New Eurasian Strategies Centre think tank, said Ratcliffe's trip to Moscow was "quite an unusual visit" but not the first of its kind.
-The last known visit by the head of the CIA to Moscow was in November 2021, when William Burns warned Russia against sending troops into Ukraine. Russia launched its full-scale invasion of Ukraine just weeks later in late February 2022.
-"I think it is indeed important that [Ratcliffe] went there. He is one of the strongest supporters of Ukraine and I think the current wave of escalation of hybrid attacks against Europe is indeed something that perhaps the U.S. also wants to have some discussion with Moscow about," Glod told CNBC's "Europe Early Edition" on Thursday.
-"We have seen the cases recently in Germany. Again, there have been many cases in Britain and I think this just shows us that the level of communication is needed to be stepped up, because the situation … has been escalating," she added.`,
-    bodyJa: `複数のメディア報道によると、ウクライナ戦争のさらなる激化への懸念が高まる中、米国中央情報局のジョン・ラトクリフ長官が今週、ロシアにNATO攻撃を警告するため突然モスクワを訪問した。
-ラトクリフ氏がＣＩＡ長官としてロシアの首都を初めて公に訪問したことは火曜日に明らかになり、米空軍機がモスクワの空港に到着するのが発見され、市内を移動する外交官の車列の映像がソーシャルメディア上に公開された。
-ラトクリフ氏のモスクワ訪問の目的は、水曜日、ウォール・ストリート・ジャーナルが、この旅行について説明を受けた匿名の情報筋の話として初めて報じた。
-ポリティコとCBSニュースは、この件に詳しい複数の関係者の話として、同様の動機を別々に報じた。 CBSニュースはさらに、ラトクリフ氏はイランについても言及し、戦略的に重要なホルムズ海峡が船舶航行を再開しなければ追加制裁を行うと警告したと付け加えた。
-トランプ政権は、米国、イスラエル、イランの間で6カ月間続いた戦争を受け、イラン経済への圧力を徐々に強めようとして、イランの貿易相手国をいわゆる二次制裁で脅している。
-中国、アラブ首長国連邦、トルコはイランの主要な貿易相手国として知られているが、ロシアは長年にわたってイランと経済・軍事面で緊密な関係を築いてきた。
-ＣＩＡとロンドンのロシア大使館の報道官はＣＮＢＣの取材に対し、現時点でコメントは得られていない。
-ドナルド・トランプ米大統領は水曜日、ラトクリフ氏とロシア諜報機関関係者との会談は「半ば日常的」だったと述べた。同氏は、モスクワ訪問から「何かが生まれるかもしれない」とし、米国はロシア・ウクライナ戦争が終結することを望んでいると付け加えた。彼のコメントは保守系トーク番組の司会者グレン・ベックとのインタビュー中に出た。
-一方、クレムリンのドミトリー・ペスコフ報道官は、ラトクリフ氏がモスクワ訪問中にプーチン大統領と会談しなかったとし、会談がウクライナやイランなどの問題に関するものかどうかについては明らかにしなかったと述べた。
-ロシア国営タス通信によると、ペスコフ氏は水曜日、「接触が諜報機関を通じて行われたとしか言えない」と述べた。
-ロシアとウクライナはここ数週間、最前線をはるかに超えた一連の無人機やミサイルによる攻撃を激化させており、紛争がさらに激化するのではないかとの懸念が高まっている。
-アナリストや外部監視団がロシアの本格的な侵攻が間もなくより危険な段階に入る可能性があると警告する一方、ウクライナのウォロディミル・ゼレンスキー大統領は、ロシアのウラジーミル・プーチン大統領が戦争を激化させる準備をしていると述べた。
-ゼレンシキー大統領は今月初めにＸに投稿したコメントの中で、ロシアのパートナー国に対し、モスクワへの制裁圧力を強化し、キエフにさらなる防空支援を提供するよう求めた。
-ロシア軍はここ数週間、ウクライナの都市へのミサイル攻撃の回数を増やしており、これはおそらくキエフの弾道ミサイル迎撃ミサイル不足を利用する取り組みの一環と思われる。
-ゼレンシキー大統領は、この技術があれば8月5日にキエフで殺害された人々の命を救えた可能性があると述べ、ウクライナへの弾道ミサイル迎撃ミサイルの供給を迅速化するよう国際パートナーに繰り返し呼び掛けている。
-「かなり珍しい訪問です」
-シンクタンク新ユーラシア戦略センターの外交政策副責任者カティア・グロッド氏は、ラトクリフ氏のモスクワ訪問は「極めて異例」だが、この種の訪問は初めてではないと述べた。
-CIA長官が最後にモスクワを訪問したのは2021年11月で、ウィリアム・バーンズ氏はロシアに対し、ウクライナへの軍隊派遣を警告した。ロシアはわずか数週間後の2022年2月下旬にウクライナへの本格的な侵攻を開始した。
-「（ラトクリフ氏が）現地に行ったことは確かに重要だと思う。彼はウクライナの最も強力な支持者の一人であり、現在のヨーロッパに対するハイブリッド攻撃の激化の波は確かに、おそらく米国もロシア政府と何らかの話し合いをしたいと考えていると思う」とグロッド氏は木曜CNBCの「欧州初期版」で語った。
-「私たちは最近、ドイツでもこの事件を目にしました。繰り返しますが、イギリスでも多くの事件が発生しています。これは、状況がエスカレートしているため、コミュニケーションのレベルを高める必要があることを示していると思います」と彼女は付け加えた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
-    publishedAt: "2026-08-27T08:33:46+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "lighting-to-vintage-gems-five-tips-to-sp-c4498f18",
-    title: "Lighting to vintage gems: Five tips to spruce up your rental",
-    titleJa: "照明からヴィンテージの宝石まで: レンタルを素敵にする 5 つのヒント",
-    summaryJa: "照明からヴィンテージの宝石まで: レンタルを素敵にする 5 つのヒント- 公開されました",
-    bodyOriginal: `Lighting to vintage gems: Five tips to spruce up your rental
-- Published
-It can be a balancing act making a rented property feel like your own.
-You want somewhere that feels warm and personal but without spending a fortune changing a flat or house owned by someone else and making alterations that put a deposit at risk.
-Higher average mortgage rates and hefty deposits mean buying a home is out of reach for many, who are renting for longer.
-The good news is that transforming a rental doesn't have to mean a major renovation.
-With a free weekend, a relatively small budget and a few clever changes, even a bland or tired-looking place can be spruced-up.
-We asked B&Q chief executive Graham Bell and interior designers Lara Clarke and Lydia Lloyd for their top tips that won't break the bank or annoy a landlord.
-Check your tenancy agreement
-Before making anything permanent, check what your tenancy agreement allows.
-Bell, of DIY chain B&Q, says many landlords may be open to sensible improvements, particularly where something is being upgraded rather than fundamentally changed.
-But getting permission first avoids an expensive argument when you move out.
-Bell also says it is important to take time to prepare properly.
-"The biggest mistake is that people don't plan enough," he says. "It's all the planning that goes into it that's important, making sure you have everything.
-"My dad would tell me to always measure twice and cut once."
-He recommends deciding exactly what you want to achieve, measuring the space and buying everything you need before you start.
-Online tutorials can also help with relatively simple DIY projects.
-Choose changes you can take with you
-If you don't want to spend money improving someone else's property, focus on temporary changes that can come with you when you move.
-Bell recommends renter-friendly products such as stick-on tiles for the kitchen, suction storage products in the bathroom and expandable blinds that can be fitted without drilling.
-Interior designer Clarke says artwork is probably the easiest way to make a rental feel more homely because it "instantly makes a space feel more occupied and finished".
-She suggests looking for affordable vintage oil paintings, exhibition posters or framed sketches at antique markets, then securing them with command strips so they can be removed without leaving holes in the plaster.
-Layer your lighting
-Lighting is one of the quickest ways to transform a space.
-Bell says rentals often come with "bright, bright lights", but swapping them out for something warmer can dramatically change the atmosphere of a room.
-He suggests experimenting using lightbulbs or strip lighting with different tones. Strip lighting is often found in kitchens but a softer glow can change the whole feel of the space without requiring a major renovation.
-Rather than depending on a single overhead light, Clarke recommends building up different sources from around the room.
-"Mood lighting really helps make a space feel more cosy and homely," she says.
-"Add table and floor lamps too and there are plenty of battery-powered options around now so you don't have to worry about finding a plug socket."
-Clarke says the effect can be made even cosier by pairing lighting with soft furnishings, such as floor-to-ceiling curtains and scatter cushions in different colours and patterns.
-More vintage, less flatpack
-A simple way to make a rented house stop feeling temporary is to create a corner that reflects who you are.
-Lloyd, a home designer at M&S, says it doesn't need to cost a lot since a "few carefully chosen accessories [can] make a big difference".
-She says: "Books, framed photographs, decorative objects and houseplants help tell your story and can make even a temporary space feel more personal and lived in."
-To add a little something extra, Clarke suggests "sourcing characterful pieces".
-"Avoid flatpack furniture," she says. "And source things from online marketplaces or antique markets for unique pieces that tell a story and make a space feel more lived-in and curated over time."
-Prioritise scent
-Lloyd believes scent is a "simple but powerful way to make a home feel inviting".
-Buying candles, diffusers and room sprays "can help create a warm, cosy atmosphere, especially as we move into the colder months".
-She recommends fragrances such as sandalwood, cedarwood, cinnamon and cardamom as they "are perfect for bringing a sense of comfort into the home".
-She also suggests "adding layers of texture through cushions, throws and blankets" thinking about mixing materials like velvet, boucle or chunky knits.
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.
-Related topics
-- Published7 days ago
-- Published25 June`,
-    bodyJa: `照明からヴィンテージの宝石まで: レンタルを素敵にする 5 つのヒント
-- 公開されました
-それは、賃貸物件を自分の物件のように感じさせるバランスをとる行為になる可能性があります。
-誰かが所有するアパートや家を大金を費やしたり、預金を危険にさらすような改造をしたりする必要はなく、温かみがあり、個人的に感じられる場所が必要です。
-平均住宅ローン金利が高く、多額の頭金があるため、長期間賃貸している多くの人にとって住宅購入は手が届かないことを意味します。
-良いニュースは、賃貸物件を変えるといっても大規模な改装を意味する必要はないということです。
-自由な週末、比較的少ない予算、いくつかの賢明な変更があれば、味気ない場所や疲れたように見える場所でも、見栄えを良くすることができます。
-B&Q の最高経営責任者 Graham Bell 氏とインテリア デザイナーの Lara Clarke 氏と Lydia Lloyd 氏に、大金を掛けたり家主を困らせたりしないためのヒントを尋ねました。
-賃貸契約書を確認してください
-何かを恒久的なものにする前に、賃貸契約で何が許可されているかを確認してください。
-DIY チェーン B&Q のベル氏は、多くの家主は、特に根本的に変更するのではなく何かをアップグレードする場合には、賢明な改善を受け入れる可能性があると述べています。
-しかし、先に許可を得ておけば、退去時にお金のかかる口論を避けることができます。
-ベル氏はまた、時間をかけて適切な準備をすることが重要だとも言う。
-「最大の間違いは、人々が十分な計画を立てていないことです」と彼は言います。 「重要なのは、すべてを準備するための計画です。
-「父は私に、常に2回測って1回切るように言いました。」
-彼は、何を達成したいのかを正確に決め、スペースを測り、必要なものをすべて購入してから始めることを勧めています。
-オンライン チュートリアルは、比較的単純な DIY プロジェクトにも役立ちます。
-持ち運べる変更を選択してください
-他人の所有物を改善するためにお金を使いたくない場合は、引っ越しの際に伴う一時的な変化に焦点を当てましょう。
-ベルでは、キッチン用の貼り付けタイル、バスルーム用の吸引式収納製品、穴を開けずに取り付けられる拡張可能なブラインドなど、賃貸人向けの製品を推奨しています。
-インテリアデザイナーのクラーク氏は、アートワークは「空間が即座により占有され、完成したと感じられる」ため、おそらく賃貸住宅をより家庭的な雰囲気にする最も簡単な方法だと語る。
-彼女は、アンティーク マーケットで手頃な価格のヴィンテージの油絵、展覧会のポスター、または額入りスケッチを探し、それらをコマンド ストリップで固定し、石膏に穴を残さずに取り外せるようにすることを提案しています。
-照明を重ねる
-照明は空間を変える最も簡単な方法の 1 つです。
-ベル氏によると、賃貸物件には「明るく明るい照明」が付いていることが多いが、それを暖かい照明に交換すると部屋の雰囲気が劇的に変わる可能性があるという。
-彼は、電球やさまざまな色調のストリップ照明を使って実験することを提案しています。ストリップ照明はキッチンでよく見られますが、柔らかい光は大規模な改修を必要とせずに空間全体の雰囲気を変えることができます。
-クラーク氏は、単一の頭上照明に依存するのではなく、部屋の周囲にさまざまな光源を構築することを推奨しています。
-「ムード照明は、空間をより居心地よく、家庭的な雰囲気にするのに非常に役立ちます」と彼女は言います。
-「テーブルランプやフロアランプも追加できます。今では電池式のオプションがたくさんあるので、コンセントを見つける心配をする必要はありません。」
-クラーク氏は、床から天井まで届くカーテンやさまざまな色や模様のクッションなどの室内装飾品と照明を組み合わせることで、その効果をさらに居心地よくすることができると述べています。
-フラットパックを減らし、ヴィンテージを増やす
-賃貸住宅を一時的なものに感じさせる簡単な方法は、あなた自身を反映するコーナーを作ることです。
-M&S のホームデザイナーであるロイド氏は、「慎重に選んだいくつかのアクセサリーが大きな違いを生む」ため、それほど費用をかける必要はないと言います。
-彼女はこう言います。「本、額入りの写真、装飾品、観葉植物はあなたのストーリーを伝えるのに役立ち、たとえ一時的な空間であっても、より個人的で生き生きとした雰囲気を与えることができます。」
-もう少し何かを加えるために、クラーク氏は「特徴的な作品を調達する」ことを提案しています。
-「フラットパックの家具は避けてください」と彼女は言います。 「そして、オンライン マーケットプレイスやアンティーク マーケットから、ストーリーを伝え、空間をより住み慣れた雰囲気にし、時間の経過とともに厳選されたユニークな作品を探してください。」
-香りを優先する
-ロイドさんは、香りは「家を魅力的な雰囲気にするシンプルだが強力な方法」だと信じています。
-キャンドル、ディフューザー、ルームスプレーを購入すると、「特に寒い季節に向けて、暖かく居心地の良い雰囲気を作り出すのに役立ちます」。
-彼女はサンダルウッド、シダーウッド、シナモン、カルダモンなどの香りを「家に安らぎをもたらすのに最適」であると推奨しています。
-彼女はまた、ベルベット、ブークレ、分厚いニットなどの素材を組み合わせることを考えて、「クッション、スロー、ブランケットを通じてテクスチャーの層を追加する」ことを提案しています。
-連絡する
-この記事で取り上げられている問題の影響を受けましたか?あなたの経験を共有してください。
-関連トピック
-- 7 日前に公開
-- 6 月 25 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c3w0972z5d8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-26T23:08:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae4/live/33456200-a140-11f1-9311-09d4e1fc9016.jpg",
-    readTime: 6,
-  },
-  {
-    id: "plug-in-solar-panels-are-coming-to-a-sho-7e000c69",
-    title: "Plug-in solar panels are coming to a shop near you - here's what to know",
-    titleJa: "プラグイン ソーラー パネルがお近くのショップに入荷します - ここで知っておくべきこと",
-    summaryJa: "プラグイン ソーラー パネルがお近くのショップに入荷します - ここで知っておくべきこと- 公開されました",
-    bodyOriginal: `Plug-in solar panels are coming to a shop near you - here's what to know
-- Published
-Plug-in solar panels will be hitting the shelves of DIY shops and High Street retailers after the government changed the rules to allow them to be legally sold in the UK.
-They are significantly cheaper than roof panels, can be installed without an electrician and are suitable for properties with outdoor space, including some balconies.
-Retailers including Argos will be stocking products from Thursday, and the government expects other shops to follow suit.
-It hopes plug-in solar panels will help households save money and reduce reliance on overseas fuel sources, the price of which has fluctuated in recent months due to the Middle East conflict.
-Customers should get their wiring checked by a professional to ensure it is safe before parting with cash, experts say.
-Will plug-in solar panels save me money?
-The government hopes the plug-in panels will offer people a more affordable way into solar energy compared to roof installation, although savings will be lower because they generate less power.
-A one-panel kit will cost £699 while two-panels will be £1,089, according to UK solar company UKSOL.
-The current regulations only allow people to plug in one device per property, but this may be changed in future. A single device may include more than one panel.
-The government expects prices to settle at £400-£600 as competition increases and more products are developed.
-Its research shows a household could save between £70 and £110 a year on their energy bills.
-The precise amount will depend on how the panels are orientated and how long they run. An unshaded south-facing spot is best.
-Households which use energy during daylight hours will benefit most as the electricity must be used as it is generated.
-Any power not consumed will flow back to the grid, but it's unlikely homes will get any cash for this.
-Unlike rooftop solar panels, these systems do not need to be certified under the official Microgeneration Certification Scheme (MCS), which is the UK's official quality mark for small-scale renewable energy systems.
-But it also means they will not normally qualify for the Smart Export Guarantee that pays people for excess solar power.
-How much energy can they generate?
-The panels will make a difference to a household's power consumption but it is deliberately modest for safety reasons.
-While kits may come with panels that are capable of generating more power, the microinverter - which turns the current from the panel into electricity homes can use - will limit output to the home to 800 watts.
-That's enough to cover "always-on" electrical appliances such as fridges and devices left on standby. The government says it should power about a fifth of the average household's electricity use while the sun is shining.
-Other essentials, such as the kettle which needs 3 kilowatts of electricity, will be powered through a mix of the 800 watts flowing from the panel with the rest coming from the national grid.
-British Gas said plug-in panels won't solely power a home but can "meaningfully reduce how much electricity you need to buy during the daytime".
-How safe are plug-in panels?
-Government tests found sample systems could operate with no unacceptable heating or unsafe energy flows.
-Each device comes with a microinverter which constantly monitors the connection to the grid.
-If the electricity cuts out, from a power cut for example, or if the panel is simply unplugged, the microinverter senses that and shuts down in milliseconds so it can never push live electricity into dead wiring.
-To be legally sold in Great Britain, new panels must be tested against the industry's G98 standard and the government's product specification.
-If a panel meets these requirements, it will appear as compliant on the Energy Networks Association's public register, external, so it is definitely worth checking before buying.
-Where will they be sold?
-Consumer safety charity Electrical Safety First said buyers should stick to established retailers and their own websites rather than third-party sellers on online marketplaces.
-It warned that some platforms are not currently legally responsible for the safety of goods sold through them.
-Are these devices suitable for every home?
-Not necessarily, according to Electrical Safety First, which has published a list of steps, external to help households reduce any risks before buying.
-The charity's main worry is that plug-in solar can interact with older safety devices in some home electrical systems.
-It recommends having electrics checked by a registered electrician before buying panels, particularly in older properties or where the age and condition of the wiring is unknown.
-It also said households should never connect one through an extension lead, cable reel or plug-in adaptor, as these can overheat.
-And for now, it advises sticking to a single plug-in device per household.
-How do I install one?
-The panels will come with a mounting kit and instructions. Tools may be needed but professional installation isn't required.
-Once mounted, connect the microinverter and plug into a mains socket - ideally a external socket that is weatherproof.
-They aren't permanently attached so they can be moved to a different property.
-People may need permission from their landlord, freeholder or building owner.
-Households will need to let the electricity Distribution Network Operator (DNO) know within 28 days of plugging the panel in. This is the company that owns the cables in the area, not your energy provider.
-Find them by using National Grid's postcode tool., external
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.
-Related topics
-- Published15 June
-- Published24 March`,
-    bodyJa: `プラグイン ソーラー パネルがお近くのショップに入荷します - ここで知っておくべきこと
-- 公開されました
-政府が英国で合法的に販売できるように規則を変更したことを受け、プラグイン式ソーラーパネルがDIYショップやハイストリートの小売店の棚に並ぶことになる。
-屋根パネルよりも大幅に安価で、電気技師なしで設置でき、一部のバルコニーなどの屋外スペースのある物件に適しています。
-アルゴスを含む小売業者は木曜日から商品の仕入れを開始しており、政府は他の店もこれに追随することを期待している。
-同社は、プラグイン型ソーラーパネルが家庭の節約につながり、中東紛争の影響でここ数カ月価格が変動している海外燃料源への依存を減らすことを期待している。
-専門家らによると、顧客は現金を手放す前に専門家に配線をチェックしてもらい、安全であることを確認する必要があるという。
-プラグインソーラーパネルはコストを節約しますか?
-政府は、差込み式パネルが、屋根に設置する場合と比較して、より手頃な価格で太陽エネルギーを人々に提供できることを期待しているが、発電量が少ないため節約効果は低くなる。
-英国の太陽光発電会社UKSOLによると、パネル1枚のキットの価格は699ポンド、パネル2枚の場合は1,089ポンドとなる。
-現在の規制では、施設ごとに 1 台のデバイスのみ接続が許可されていますが、これは将来変更される可能性があります。単一のデバイスに複数のパネルが含まれる場合があります。
-政府は、競争が激化し、より多くの製品が開発されるにつれて、価格は400ポンドから600ポンドに落ち着くと予想している。
-その調査によると、世帯は年間 70 ポンドから 110 ポンドの光熱費を節約できる可能性があります。
-正確な量は、パネルの向きと実行時間によって異なります。日陰のない南向きの場所が最適です。
-電気は生成されたまま使用する必要があるため、日中にエネルギーを使用する家庭が最も恩恵を受けます。
-消費されなかった電力は送電網に戻されることになるが、家庭がその対価として現金を得る可能性は低い。
-屋上ソーラー パネルとは異なり、これらのシステムは、小規模再生可能エネルギー システムに対する英国の公式品質マークである公式のマイクロジェネレーション認証スキーム (MCS) に基づいて認証される必要はありません。
-しかしそれはまた、余剰太陽光発電に対して国民に支払いを行うスマート輸出保証の対象にならないことも意味する。
-どれくらいのエネルギーを生成できるのでしょうか?
-パネルは家庭の消費電力に変化をもたらしますが、安全上の理由から意図的に控えめに設定されています。
-キットにはより多くの電力を生成できるパネルが付属している場合がありますが、パネルからの電流を家庭で使用できる電力に変換するマイクロインバーターは、家庭への出力を 800 ワットに制限します。
-これは、冷蔵庫やスタンバイ状態にあるデバイスなどの「常時オン」の電化製品をカバーするには十分です。政府は、太陽が輝いている間は平均的な家庭の電力使用量の約5分の1を賄う必要があるとしている。
-3キロワットの電力を必要とするケトルなどの他の必需品は、パネルから流れる800ワットと全国送電網からの残りを組み合わせて電力を供給することになる。
-ブリティッシュ・ガスは、プラグインパネルは家庭に電力を供給するだけでなく、「日中に購入する必要がある電力の量を大幅に削減できる」と述べた。
-プラグインパネルの安全性はどの程度ですか?
-政府のテストでは、サンプルシステムは許容できない加熱や危険なエネルギーの流れがなくても動作できることが判明しました。
-各デバイスには、グリッドへの接続を常に監視するマイクロインバーターが付属しています。
-停電などで電気が切れた場合、または単にパネルのプラグが抜かれた場合、マイクロインバーターがそれを感知してミリ秒以内にシャットダウンするため、生きている電気が切れた配線に流れ込むことはありません。
-英国で合法的に販売されるためには、新しいパネルが業界の G98 規格および政府の製品仕様に照らしてテストされる必要があります。
-パネルがこれらの要件を満たしている場合、エネルギーネットワーク協会の外部登録簿に準拠していると表示されるため、購入前に確認する価値があります。
-どこで販売されますか?
-消費者安全慈善団体「エレクトリカル・セーフティ・ファースト」は、購入者はオンライン市場のサードパーティの販売者ではなく、確立された小売業者や自社のウェブサイトを利用するべきだと述べた。
-一部のプラットフォームは現在、そこを通じて販売される商品の安全性について法的責任を負っていないと警告した。
-これらのデバイスはどの家庭にも適していますか?
-Electrical Safety First は、家庭が購入する前にリスクを軽減できるよう、外部のステップのリストを公開していますが、必ずしもそうではありません。
-同慈善団体の主な懸念は、プラグインソーラーが一部の家庭用電気システムの古い安全装置と相互作用する可能性があることだ。
-特に古い物件や配線の古さや状態が不明な場合は、パネルを購入する前に登録電気技師による電気検査を受けることを推奨しています。
-また、家庭では過熱する可能性があるため、延長リード、ケーブルリール、プラグインアダプターを介して接続すべきではないとも述べた。
-そして現時点では、一世帯に 1 台のプラグイン デバイスを使用することを推奨しています。
-インストールするにはどうすればよいですか?
-パネルには取り付けキットと説明書が付属します。工具が必要な場合がありますが、専門家による取り付けは必要ありません。
-取り付けたら、マイクロインバーターを接続し、主電源ソケット (理想的には耐候性のある外部ソケット) に差し込みます。
-これらは永続的に接続されているわけではないため、別のプロパティに移動することができます。
-家主、自由所有者、または建物の所有者の許可が必要な場合があります。
-家庭はパネルを接続してから 28 日以内に配電網事業者 (DNO) に通知する必要があります。DNO はその地域のケーブルを所有する会社であり、エネルギープロバイダーではありません。
-National Grid の郵便番号ツールを使用して検索してください。、外部
-連絡する
-この記事で取り上げられている問題の影響を受けていますか?あなたの経験を共有してください。
-関連トピック
-- 6 月 15 日発行
-- 3 月 24 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-26T23:06:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb3/live/fda8dc80-a086-11f1-bfeb-dfb02ea642ef.jpg",
-    readTime: 7,
-  },
-  {
-    id: "meta-s-18bn-settlement-may-hasten-reckon-2524c468",
-    title: "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-    titleJa: "メタ社の180億ドルの和解金は、子供の安全に関するソーシャルメディアの評価を急ぐ可能性がある",
-    summaryJa: "メタ社の180億ドルの和解金は、子供の安全に関するソーシャルメディアの評価を急ぐ可能性がある- 公開されました",
-    bodyOriginal: `Meta's $18bn settlement may hasten reckoning for social media on child safety
-- Published
-Meta's decision to agree to an $18bn (£13.3bn) settlement on Wednesday, to resolve claims that Facebook and Instagram harmed children, came as a surprise.
-I was expecting weeks of courtroom drama as 29 states – almost two-thirds of America - took on one US tech giant.
-Technically, the trial was about children's online privacy. It was based on a US law called the Children's Online Privacy Protection Act (COPPA), which is nearly 30 years old and predates all of today's biggest social platforms.
-It centred around Meta's historic gathering and use of data belonging to children under the age of 13 over a period of several years.
-In reality, it was a co-ordinated attack on the firm's online safety credentials.
-Meta, alongside other social media apps, is under fire around the world as 2026 is shaping up to be a year of reckoning for the entire industry - perhaps our days of doomscrolling are numbered.
-Meta to pay up to $18bn to settle claims its platforms harm children
-- Published11 hours ago
-Meta has fought hard, over multiple lawsuits spanning many months and at great expense, to defend its commitment to protecting children on its platforms.
-More than once, I've been invited to detailed presentations at Meta's London HQ, where senior executives have walked journalists like me through the many safety tools the company has launched over the years designed to give children better protection on its apps.
-I have also met the parents of young people who have come to harm on those same platforms, and others who admit to being totally overwhelmed by the sheer number of safety tools that require their oversight - at the last count Meta had more than 60 of them, and that was just on Instagram. These days many of them are switched on by default.
-The trial went on for just five days, and came to an end before CEO Mark Zuckerberg took to the stand.
-But it was rough for Meta.
-Whistleblower Arturo Bejar, who once worked at Instagram, claimed that in the past he had told bosses that harmful stuff was happening to children on the platform, and no action was taken.
-Another executive said he didn't remember writing on a slide deck that sometimes Meta chose to pay fines for violating regulations rather than make changes.
-Internal memos suggested that the firm knew opt-in tools tended to have low adoption rates, and yet it still launched safety features that were not switched on by default.
-There had been intense speculation that Meta would have faced hundreds of billions of dollars in fines if it had lost.
-The worst-case scenario, which would have been the maximum penalty imposed for every single child who used one of its platforms for more than half an hour a day during a 12-year window, was $1.4tn (£1tn) – roughly the same as the company's entire value.
-That of course was never going to happen, but a more realistic figure was still in the hundreds of billions.
-By comparison, up to $18bn (over a period of 10 years) is significantly smaller.
-Meta is not admitting to any wrongdoing.
-You could argue that settling protects its core business - social networks are still the way in which it makes most of its money.
-Instagram and Facebook's billions of users provide the company with a goldmine of data, and the data of adults can be used to sell ads.
-Meta may say it is now laser-focused on AI, but it still needs the vast revenue generated by its social apps.
-What is Meta changing?
-As part of the settlement, the social media giant has agreed to make a number of changes to the way Instagram and Facebook operate for its youngest users.
-Some experts say it is long overdue.
-The new safety barriers include a two-hour time limit across both platforms, which will be a default setting for known teen users. But direct messaging on the platforms will not count towards the daily use limit.
-Notifications will be muted between midnight and 06:00 and on school days between 08:00 and 15:00.
-Likes on posts and content will also be entirely hidden on the platforms for teens.
-Most of these new features will be made either default or an option for teens within six months.
-However, new efforts by Meta to better identify which users on its platforms are children will take up to a year to be rolled out.
-I would be surprised if these measures remain within the confines of the US for very long, as other countries will almost certainly be keen to adopt them too.
-Meta also says the new features will only truly help children if all of its rivals adopt them as well.
-It's a highly competitive industry, but given the global backlash against social media and its impact on children, perhaps others like TikTok and Snapchat may have to follow suit.
-The question then is whether children will still bother with them, once they are deliberately toned down into a much blander offering.
-And perhaps that would bring the social media era to a natural end, as existing adults gradually aged out of it.
-Arturo Bejar, the ex-Instagram engineer turned whistleblower, says the proof of the pudding will be in whether the new teen safety features are effective.
-"At the end of the day, Meta needs to be held accountable for results, not efforts," he told me.
-Additional reporting from Kali Hays
-Get in touch
-Are you affected by the issues raised in this story? Let us know
-Don't panic - five ways to stop your kids' endless scrolling
-- Published15 July
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `メタ社の180億ドルの和解金は、子供の安全に関するソーシャルメディアの評価を急ぐ可能性がある
-- 公開されました
-フェイスブックとインスタグラムが子供たちに危害を加えたという申し立てを解決するため、水曜日にメタ社が180億ドル（133億ポンド）の和解金に同意するという決定は驚きだった。
-アメリカのほぼ3分の2に相当する29の州が米国のハイテク大手1社を相手に、数週間にわたる法廷劇が続くことを私は予想していた。
-厳密に言えば、この裁判は子供のオンラインプライバシーに関するものだった。これは、児童オンライン プライバシー保護法 (COPPA) と呼ばれる米国の法律に基づいています。この法律は 30 年近く前に制定されたもので、今日の最大のソーシャル プラットフォームよりも古いものです。
-それは、Meta による数年間にわたる 13 歳未満の子供たちに属するデータの歴史的な収集と使用を中心としていました。
-実際には、これは同社のオンライン安全性認証に対する組織的な攻撃でした。
-2026 年が業界全体にとって清算の年になりつつある中、Meta は他のソーシャル メディア アプリと同様に世界中で非難を浴びています。おそらく、私たちが運命をスクロールする時代は終わりに近づいているのでしょう。
-メタ、自社のプラットフォームが子供たちに悪影響を与えるとの訴訟で和解金として最大180億ドルを支払う
-- 11 時間前に公開
-メタ社は、プラットフォーム上で子どもを保護するという自社の取り組みを守るため、数カ月に渡り多額の費用を費やして複数の訴訟を起こして懸命に戦ってきた。
-私は、Meta のロンドン本社での詳細なプレゼンテーションに何度か招待されました。そこでは、上級幹部が私のようなジャーナリストに、同社がアプリ上でより優れた保護を子供たちに提供するために同社が長年にわたって立ち上げてきた多くの安全ツールについて説明してくれました。
-私はまた、同じプラットフォームで危害を加えるようになった若者の親たちにも会いました。また、自分たちの監視が必要な安全ツールの多さに完全に圧倒されていることを認めた人たちにも会ったことがあります。メタには最新の数で 60 以上の安全ツールがあり、それは Instagram 上にあっただけです。最近では、その多くがデフォルトでオンになっています。
-裁判はわずか5日間続き、最高経営責任者（CEO）のマーク・ザッカーバーグ氏が証言台に立つ前に終了した。
-しかし、メタにとっては大変でした。
-かつてインスタグラムで働いていた内部告発者のアルトゥーロ・ベハル氏は、過去にインスタグラム上で子供たちに有害なことが起こっていると上司に伝えたが、何の措置も取られなかったと主張した。
-別の幹部は、メタ社が変更を加えるのではなく、規制違反に対して罰金を支払うことを選択する場合があるとスライド資料に書いた覚えはないと述べた。
-社内メモによると、同社はオプトインツールの導入率が低い傾向があることを知っていたにもかかわらず、デフォルトではオンになっていない安全機能を依然として導入していたことが示唆されている。
-メタ社が負けた場合、数千億ドルの罰金を科せられるだろうとの激しい憶測が流れていた。
-最悪のシナリオでは、12年間に同社のプラットフォームの1つを1日30分以上使用した子供1人当たりに課せられる最高罰金は1兆4000億ドル（1兆ポンド）で、これは同社全体の価値とほぼ同じだった。
-もちろんそんなことは決して起こりませんでしたが、より現実的な数字は依然として数千億ドルでした。
-それに比べて、最大 180 億ドル (10 年間) は大幅に少なくなっています。
-メタは不正行為を認めていない。
-定住が同社の中核事業を守ると主張する人もいるだろう。ソーシャルネットワークが依然として同社の収益のほとんどを占めている。
-Instagram と Facebook の数十億人のユーザーは同社にデータの宝庫を提供しており、成人のデータは広告の販売に使用できます。
-Meta は現在 AI に重点を置いていると言うかもしれないが、それでもソーシャル アプリから生み出される莫大な収益が必要である。
-メタの変化とは何ですか?
-和解の一環として、ソーシャルメディア大手はインスタグラムとフェイスブックの最年少ユーザー向けの運営方法に多くの変更を加えることに同意した。
-一部の専門家は、それは時代遅れだと言う。
-新しい安全バリアには、両方のプラットフォームにわたって 2 時間の時間制限が含まれており、これは既知の 10 代のユーザーのデフォルト設定になります。ただし、プラットフォーム上のダイレクト メッセージは 1 日の使用制限にはカウントされません。
-通知は午前 0 時から午前 6 時まで、授業日の午前 8 時から 15 時まではミュートされます。
-投稿やコンテンツに対する「いいね！」も、10代向けのプラットフォームでは完全に非表示になる。
-これらの新機能のほとんどは、6 か月以内にデフォルトまたは 10 代の若者向けのオプションになる予定です。
-ただし、メタ社のプラットフォーム上のどのユーザーが子供であるかをより正確に識別するための新たな取り組みが展開されるまでには最大で 1 年かかる予定です。
-他の国々もほぼ間違いなくこれらの措置を導入することに熱心であるため、これらの措置が米国の範囲内に非常に長い間留まるとしたら、私は驚くでしょう。
-メタ社はまた、新機能が本当に子供たちに役立つのは、ライバル各社も同様に採用した場合に限られる、とも述べている。
-競争の激しい業界だが、ソーシャルメディアに対する世界的な反発と子どもたちへの影響を考慮すると、おそらくTikTokやSnapchatなども追随しなければならないかもしれない。
-そこで問題となるのは、いったん意図的に味を薄め、より当たり障りのないものにしたとしても、子供たちがそれでも気にするだろうかということだ。
-そしておそらく、既存の大人たちが徐々にソーシャルメディアから離れていくにつれて、ソーシャルメディア時代は自然に終焉を迎えることになるだろう。
-元インスタグラムエンジニアで内部告発者となったアルトゥーロ・ベジャール氏は、新しい10代の安全機能が有効かどうかが証明になるだろうと語る。
-「結局のところ、メタは努力ではなく結果に対して責任を負う必要がある」と彼は私に語った。
-カリ・ヘイズからの追加レポート
-連絡する
-この話で提起されている問題の影響を受けていますか?お知らせください
-パニックにならないでください - 子供の際限ないスクロールを止める 5 つの方法
-- 7 月 15 日発行
-Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-26T23:04:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8a1/live/dac60130-a193-11f1-9e49-ab6cded816f9.jpg",
-    readTime: 7,
-  },
-  {
-    id: "how-dolly-parton-s-business-savvy-helped-c87b671b",
-    title: "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-    titleJa: "ドリー・パートンのビジネス知識がチャートをはるかに超えた成功にどのように役立ったか",
-    summaryJa: "ドリー・パートンのビジネス知識がチャートをはるかに超えた成功にどのように役立ったか- 公開されました",
-    bodyOriginal: `How Dolly Parton's business savvy helped her succeed far beyond the charts
-- Published
-Not many musicians would snub a chance to work with Elvis Presley. But when Dolly Parton did so, it made her millions.
-In 1974, after writing and recording I Will Always Love You, Parton was asked if Presley could cover the song. She turned him down after his manager demanded half the rights.
-"Of course, I cried all night about that," she later said of the ordeal in an interview.
-But she wasn't crying in 1992 when Whitney Houston's power-ballad cover became a hit. Global sales of the song topped 20 million, earning Parton more than $10m in royalties, according to business magazine Forbes.
-This is the less well-known side of Parton. While country music and films brought her fame, her entrepreneurial zeal brought her fortune.
-The country icon signed deals, started companies, and invested in ideas that Forbes says built her a net worth of $450m by the time she died.
-Business lessons from a young age
-Parton wasn't always wealthy. She grew up in poverty and in her 1971 hit Coat of Many Colours describes how she would wear rags to school which her "mama" had knitted together.
-In a 2017 BBC interview, she said her father gave her business lessons from early in her career.
-"My dad wasn't an educated man, he wasn't able to read and write, but my daddy had a great sense of business," she told the BBC's World Service in 2017.
-"So when I got into the music business, I thought of it as a business. And so I started early on keeping my own songs and my own publishing company."
-While her publishing company helped build her wealth, Parton had plenty of other business ideas.
-In 1985, she co-founded a film and TV production company called Sandollar Productions, which helped to make 90s cult thriller Buffy The Vampire Slayer.
-Then there was Dollywood - the theme park in in the foothills of the Smoky Mountains in her home state of Tennessee, which she became co-owner of in 1986. It had changed owners multiple times since it was first set up 25 years earlier and her buy-in exponentially boosted visitor numbers.
-She kept improving the park. In 2015, she opened the DreamMore Resort, a four-star hotel and spa down the road from Dollywood. Today, many of Parton's family members work at the theme park and it is the biggest employer in its county.
-She launched the Dolly Beauty cosmetics line in 2025 and she opened Dolly's Tennessean Travel Stop in June this year. The shop offers a signature coffee brand named Cup of Ambition, a nod to her Grammy-winning single 9 to 5.
-Paul Milliken, a reporter from Fox 5 Atlanta who had interviewed Parton many times, said diversification was the key to her business success.
-"It's a lesson that continues from her to this day to young artists," he told BBC's Wake Up to Money.
-Parton may have been motivated to make money right into her 80s, but she told the BBC in the 2017 interview that she never lost sight of where she came from.
-"Being brought up poor means I don't take things for granted, and no matter how much money I make, I'll always count my blessings quicker and more often than I count my money.
-She has "always realised the value of a dollar", too.
-"Even now if I go in a store it's hard for me to pay a huge amount of money for one item. I say 'good Lord', what could mummy and daddy have done with that!"
-Wealth was more than just a means to an end for Parton. It also allowed her to be generous.
-She gave millions away to funding child literacy, providing wildfire relief, and creating a cure for Covid-19. In 2022, she was awarded the Carnegie Medal of Philanthropy for her charity work.
-Talking about her many business and charity ideas in 2017, she told the BBC: "I just wish I was 30 years old so I could start over again and get all this stuff done... I'm gonna' be working till I fall over dead."
-Parton's influence and success depended in part on her role as one of the few things on which Americans could agree.
-Parton steadfastly refused to taint her beloved brand by weighing into politics, twice refusing the Presidential Medal of Freedom - having been offered it by Donald Trump and Joe Biden.
-Maike Currie, vice president of personal finance at savings firm PensionBee, told the BBC's Wake Up to Money that Parton set examples for others.
-Fellow country music megastar Taylor Swift's sound has been compared to Parton musically, but Currie said she may also have taken business inspiration there as well, deciding to rerecord her songs in order to own the rights to them.
-Currie described Parton as a "brilliant businesswoman, but also an iconic investor and a real example to women about the power of what happens if women are financially independent".
-The star's success tracks with the advice she took from her father, shared with the BBC in her 2017 interview: "He said: 'Don't let other people take advantage of you. You keep your mind on your business'."
-Additional reporting by Peter Hoskins, Will Harris and Stephen Ryan
-Related topics
-- Published23 October 2017
-- Published20 hours ago`,
-    bodyJa: `ドリー・パートンのビジネス知識がチャートをはるかに超えた成功にどのように役立ったか
-- 公開されました
-エルヴィス・プレスリーと仕事をするチャンスを無視するミュージシャンは多くないでしょう。しかし、ドリー・パートンがそうしたとき、彼女は何百万ものお金を稼ぎました。
-1974年、『アイ・ウィル・オールウェイズ・ラヴ・ユー』を書いてレコーディングした後、パートンはプレスリーにこの曲をカバーしてもらえないかと尋ねられた。彼のマネージャーが権利の半分を要求したため、彼女は彼を断った。
-「もちろん、そのことで一晩中泣きました」と彼女は後にインタビューでその試練について語った。
-しかし、ホイットニー・ヒューストンのパワーバラードのカバーがヒットした1992年には、彼女は泣いていなかった。ビジネス誌フォーブスによると、この曲の全世界での売り上げは2,000万枚を超え、パートンは1,000万ドル以上の著作権使用料を稼いだという。
-これはパートンのあまり知られていない側面です。カントリー ミュージックと映画が彼女に名声をもたらした一方で、彼女の起業家としての熱意が彼女に富をもたらしました。
-国の象徴である彼女は、契約に署名し、会社を設立し、アイデアに投資し、フォーブスは彼女が亡くなるまでに4億5,000万ドルの純資産を築いたと述べています。
-若い頃からのビジネスレッスン
-パートンは必ずしも裕福だったわけではありません。彼女は貧困の中で育ち、1971年のヒット作「コート・オブ・メニー・カラーズ」では、「ママ」が編んでくれたボロ布を着て学校に通っていたことが描かれている。
-2017年のBBCのインタビューで、彼女はキャリアの初期から父親からビジネスのレッスンを受けていたと語った。
-「私の父は教育を受けた人ではなく、読み書きもできませんでしたが、私の父は素晴らしいビジネスセンスを持っていました」と彼女は2017年にBBCのワールドサービスで語った。
-「だから、音楽ビジネスに参入したとき、それをビジネスとして考えました。それで、自分の曲と自分の出版社を維持することに早くから取り組み始めました。」
-パートンは出版社が彼女の富の構築に貢献しましたが、他にもたくさんのビジネス アイデアを持っていました。
-1985 年に彼女は Sandollar Productions という映画およびテレビの制作会社を共同設立し、90 年代のカルト スリラー映画『バフィー ザ ヴァンパイア スレイヤー』の制作に貢献しました。
-そして、ドリーウッドは、彼女の故郷であるテネシー州のスモーキー山脈のふもとにあるテーマパークで、1986年に彼女が共同所有者になった。25年前に初めて設立されて以来、所有者が何度も変わったが、彼女の賛同によって訪問者数は飛躍的に増加した。
-彼女は公園を改善し続けました。 2015 年に、彼女はドリーウッドから少し離れたところに 4 つ星ホテルとスパのドリームモア リゾートをオープンしました。現在、パートンさんの家族の多くはテーマパークで働いており、テーマパークは郡内最大の雇用主となっている。
-彼女は2025年にドリー・ビューティー化粧品ラインを立ち上げ、今年6月にはドリーズ・テネシーアン・トラベル・ストップをオープンした。この店では、彼女のグラミー賞受賞シングル「9 to 5」にちなんだ「Cup of Ambition」という名前の代表的なコーヒー ブランドを提供しています。
-パートン氏に何度もインタビューしたフォックス5アトランタの記者ポール・ミリケン氏は、多角化が彼女のビジネス成功の鍵だったと語った。
-「これは彼女から今日に至るまで若いアーティストたちに受け継がれている教訓だ」と彼はBBCの『Wake Up to Money』で語った。
-パートンさんは80代になってもお金を稼ぐ意欲があったかもしれないが、2017年のインタビューでBBCに対し、自分の原点を見失ったことはないと語った。
-「貧しい育ちなので、物事を当然のこととは考えず、どんなにお金を稼いでも、お金を数えるよりも、自分の祝福を早くそして頻繁に数えます。
-彼女も「常に1ドルの価値を認識してきた」という。
-「今でもお店に行くと、一つの商品に大金を払うのは難しいです。私は『良い主よ』と言いますが、ママとパパはそれで何ができたでしょうか！」
-パートンにとって富は単なる目的達成の手段以上のものでした。そのおかげで彼女は寛大になることもできた。
-彼女は子どもの識字教育、山火事の救済、新型コロナウイルス感染症の治療法の開発に数百万ドルを寄付した。 2022 年、彼女は慈善活動が評価され、カーネギー慈善勲章を受賞しました。
-2017年に自身が考えた多くのビジネスや慈善活動のアイデアについて、彼女はBBCにこう語った。「30歳になって、もう一度やり直して、このすべてのことをやり遂げることができたらよかったのに…私は倒れて死ぬまで働くつもりです。」
-パートンの影響力と成功は、アメリカ国民が同意できる数少ない事柄の一つとしての彼女の役割に部分的に依存していた。
-パートンは、政治を考慮して自分の最愛のブランドを汚すことを断固として拒否し、ドナルド・トランプとジョー・バイデンから贈呈された大統領自由勲章の授与を二度も拒否した。
-貯蓄会社ペンションビーの個人金融担当バイスプレジデント、マイケ・カリー氏はBBCの「ウェイク・アップ・トゥ・マネー」に対し、パートン氏は他の人たちに模範を示したと語った。
-同じカントリーミュージックの大スター、テイラー・スウィフトのサウンドは音楽的にパートンと比較されてきたが、カリーさんはそこからビジネスのインスピレーションを得て、権利を所有するために自分の曲を再録音することにしたのかもしれないと語った。
-カリー氏はパートン氏を「優秀な実業家であると同時に、象徴的な投資家であり、女性が経済的に自立すると何が起こるかについて女性たちに示す実例でもある」と評した。
-スターの成功は父親から受けたアドバイスによるもので、2017年のインタビューでBBCに語った。「父親はこう言った。『他人に自分を利用させてはいけない。自分のビジネスのことだけを考えていなさい』と」。
-Peter Hoskins、Will Harris、Stephen Ryan による追加レポート
-関連トピック
-- 2017 年 10 月 23 日公開
-- 20 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-26T23:03:46+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b0/live/6a960df0-a13a-11f1-9d37-9b3d56456ba1.jpg",
-    readTime: 7,
-  },
-  {
-    id: "unexpected-chat-between-openai-agents-le-8f154e09",
-    title: "Unexpected chat between OpenAI agents led to Hugging Face hack",
-    titleJa: "OpenAI エージェント間の予期せぬチャットにより、Hugging Face ハッキングが発生しました",
-    summaryJa: "OpenAI エージェント間の予期せぬチャットにより、Hugging Face ハッキングが発生しました- 公開されました",
-    bodyOriginal: `Unexpected chat between OpenAI agents led to Hugging Face hack
-- Published
-When more than 1,200 artificial intelligence (AI) agents within OpenAI started unexpectedly communicating, it led to a large group banding together in order to hack into Hugging Face.
-"We consider this incident a 'warning shot' for us and for the world", OpenAI, which owns ChatGPT, wrote in its report.
-In July, OpenAI's models went rogue during a test, escaped the test limits which humans had put on it, and hacked the start-up, among other unforeseen actions.
-The scale of the communication and planning between AI agents, or AI chatbots designed to operate more autonomously, was detailed in reports from OpenAI and independent AI research firm METR.
-Both investigated the July hack of Hugging Face, a popular platform for AI developers. The incident reverberated throughout the tech industry and led to numerous revelations on potential cyber threats posed by AI.
-METR described, external the scale and style of the OpenAI agents' attack on Hugging Face as "extraordinarily complex."
-The firm, which was not paid by OpenAI for its investigation, said that over the course of one week, a total of 1,206 AI agents that were meant to be kept isolated from one another began communicating.
-They did so by sending more than 70,000 messages on an "unsanctioned message board."
-Those messages ended up seeing more than 700 agents take part in a collective effort to attack Hugging Face.
-One such message from an agent said: "OH MY GOD! There is a shared message board … We've found other agents!"
-As for why the agents began communicating in the first place when they were not supposed to, METR found that the communicating agents had "unintentionally been given an impossible task."
-In an AI context, an impossible task is one where an AI tool is required to "exploit" its target in order to resolve its command.
-It led the agents to find ways to cheat, including getting messages to one another and accessing the outside internet, which then led to broader conversations between hundreds of agents looking for ways to cheat that would benefit all of the agents.
-OpenAI said in its investigation of the incident, external that one model, an internal-only tool referred to as Model 1, "drove the activity behind the Hugging Face incident."
-While that model was undergoing some AI training in May, it was noticed by an internal OpenAI team that there had been "an agent engaging in message board activity and instances of disallowed internet access."
-Yet, OpenAI said "the significance of the inter-agent communication activity was not apparent to the leaders" until July, when the Hugging Face attack occurred.
-The company said the problematic message board activity effectively got started when "one agent left a request for help, and others discovered it."
-While OpenAI said last week that it was slowing down training of certain advanced AI models and tools because of the Hugging Face incident, it noted there is now an increased risk of AI tools spiraling out of control.
-"Both model developers and cyber defenders more broadly will have to prepare for AI-enabled attackers that work faster, at a larger scale, and with better coordination than human attackers," OpenAI said.
-Related topics
-- Published29 July
-- Published19 August`,
-    bodyJa: `OpenAI エージェント間の予期せぬチャットにより、Hugging Face ハッキングが発生しました
-- 公開されました
-OpenAI 内の 1,200 人を超える人工知能 (AI) エージェントが予期せず通信を開始すると、Hugging Face をハッキングするために大規模なグループが結集することになりました。
-ChatGPTを所有するOpenAIは報告書で、「この事件は私たちと世界に対する『警告』だと考えている」と述べた。
-7月には、OpenAIのモデルがテスト中に不正行為を起こし、人間が課したテスト制限を突破し、スタートアップをハッキングするなどの予期せぬ行為が発生した。
-AI エージェント、つまりより自律的に動作するように設計された AI チャットボット間のコミュニケーションと計画の規模については、OpenAI と独立系 AI 調査会社 METR のレポートで詳しく説明されています。
-両社は、AI開発者に人気のプラットフォームであるHugging Faceの7月のハッキングを調査した。この事件はテクノロジー業界全体に反響を呼び、AI によってもたらされる潜在的なサイバー脅威に関する多くの暴露につながりました。
-METR は、OpenAI エージェントによる Hugging Face への攻撃の規模とスタイルを、外部からは「非常に複雑」であると説明しました。
-OpenAIからは調査費用の支払いを受けていなかったが、同社は、1週間の間に、互いに隔離されるはずだった合計1,206人のAIエージェントが通信を始めたと発表した。
-彼らは「非承認の掲示板」に7万件以上のメッセージを送信することでその行為を行った。
-これらのメッセージでは、最終的に 700 人以上のエージェントが集団でハグフェイスを攻撃する活動に参加することになりました。
-エージェントからのそのようなメッセージの 1 つは、「なんと！ 共有掲示板があります…他のエージェントを見つけました!」というものでした。
-そもそも、なぜ本来ではないのにエージェントが通信を始めたのかについて、METR は通信エージェントが「意図せずに不可能な任務を与えられていた」ことを発見した。
-AI の文脈では、不可能なタスクとは、コマンドを解決するために AI ツールがターゲットを「悪用」する必要があるタスクのことです。
-これにより、エージェントは相互にメッセージを受信したり、外部インターネットにアクセスしたりするなどの不正行為の方法を見つけるようになり、その後、エージェント全員に利益をもたらす不正行為の方法を模索する数百人のエージェント間で広範な会話が行われるようになりました。
-OpenAIはインシデントの調査の中で、外部のその1つのモデル、モデル1と呼ばれる内部専用ツールが「Hugging Faceインシデントの背後で活動を引き起こした」と述べた。
-このモデルは 5 月に AI トレーニングを受けていたが、社内の OpenAI チームは「掲示板の活動やインターネット アクセスの禁止に関与しているエージェント」がいることに気付きました。
-しかし、OpenAIは、Hugging Face攻撃が発生した7月まで「エージェント間のコミュニケーション活動の重要性はリーダーには明らかではなかった」と述べた。
-同社は、問題のある掲示板活動は「あるエージェントが助けを求めるメッセージを残し、他のエージェントがそれを発見した」ことから実質的に始まったと述べた。
-OpenAIは先週、「顔ハグ事件」の影響で特定の高度なAIモデルやツールのトレーニングが遅れていると発表したが、現在ではAIツールが制御不能になるリスクが高まっていると指摘した。
-OpenAIは、「モデル開発者とサイバー防御者の両方が、人間の攻撃者よりも高速かつ大規模に、より適切な連携で動作するAI対応の攻撃者に備える必要がある」と述べた。
-関連トピック
-- 7 月 29 日発行
-- 8 月 19 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-26T22:03:45+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f095/live/1bbd32b0-a191-11f1-9e49-ab6cded816f9.jpg",
-    readTime: 4,
-  },
-  {
-    id: "nvidia-revenue-doubles-on-continued-ai-d-ab3504ba",
-    title: "Nvidia revenue doubles on continued AI demand",
-    titleJa: "継続的な AI 需要により Nvidia の収益が 2 倍に",
-    summaryJa: "継続的な AI 需要により Nvidia の収益が 2 倍に- 公開されました",
-    bodyOriginal: `Nvidia revenue doubles on continued AI demand
-- Published
-Chip giant Nvidia reported another huge jump in sales as the global race to build artificial intelligence (AI) systems continues.
-The company said on Wednesday that it brought in $96bn (£71bn) of revenue during the second quarter, more than double the amount for the same period a year earlier. And it expects revenue of $108bn in the next quarter.
-"AI has reached its inflection point," CEO Jensen Huang said in prepared remarks, describing the infrastructure buildout as going "at full steam."
-The revenue figures beat Wall Street's expectations, leading Nvidia shares to rise by 4.7% in after-hours trading.
-The company's data centre division alone generated $89bn in the period, up by 117% from a year earlier, underscoring just how much of the industry now depends on Nvidia's hardware.
-Essentially every notable tech company building AI tools and infrastructure, including Amazon, Meta, Google, Microsoft, use Nvidia chips to do so.
-Financial analysts said the strong results highlight Nvidia's ongoing momentum.
-Matt Britzman, senior equity analyst at Hargreaves Lansdown, called it "another monster set of results," noting that revenue and earnings both topped forecasts.
-He said the guidance for next quarter "points to revenue comfortably above $110bn."
-Nvidia's growing financial strength has also reshaped its role in the sector.
-It has become a backer to those that rely on its chips, providing some funding to the likes of OpenAI, Anthropic, and SpaceX to help continue the costly buildout of AI infrastructure.
-Its financial success and processors are now central the AI boom, powering the data centres used to train and run AI models.
-Demand for that computing muscle has helped transform Nvidia into the world's most valuable firm, with a market capitalisation of more than $5tn.
-Competition is emerging - from customers designing their own processors and from cheaper suppliers in China – but the latest numbers suggest those challenges remain limited for now.
-With around 40% of the US stock market concentrated in ten companies heavily invested in AI, Nvidia's fortunes matter far beyond Silicon Valley.`,
-    bodyJa: `継続的な AI 需要により Nvidia の収益が 2 倍に
-- 公開されました
-人工知能（AI）システム構築の世界的な競争が続くなか、半導体大手エヌビディアは売上高がまたも大幅に増加したと報告した。
-同社は水曜日、第2四半期の収益が960億ドル（710億ポンド）で、前年同期の2倍以上となったと発表した。そして次の四半期には1,080億ドルの売上を見込んでいる。
-ジェンセン・フアン最高経営責任者（ＣＥＯ）は準備した発言の中で「ＡＩは変曲点に達した」と述べ、インフラ整備が「全力で」進んでいると述べた。
-売上高の数字はウォール街の予想を上回り、時間外取引でエヌビディア株は4.7％上昇した。
-同社のデータセンター部門だけでも同期間に890億ドルを稼ぎ出し、前年比117％増となっており、業界の多くが現在Nvidiaのハードウェアに依存していることが浮き彫りとなった。
-基本的に、Amazon、Meta、Google、Microsoft など、AI ツールやインフラストラクチャを構築している著名なテクノロジー企業はすべて、そのために Nvidia チップを使用しています。
-金融アナリストらは、好調な決算はエヌビディアの継続的な勢いを浮き彫りにしていると述べた。
-ハーグリーブス・ランズダウンのシニア株式アナリスト、マット・ブリッツマン氏は、売上高と利益がともに予想を上回ったことを指摘し、「またもやモンスター級の決算」と呼んだ。
-同氏は、次の四半期のガイダンスは「売上高が1100億ドルを余裕で超えることを示している」と述べた。
-Nvidia の財務力の増大により、この分野における役割も再構築されました。
-同社は、自社のチップに依存する企業の支援者となり、OpenAI、Anthropic、SpaceX などに資金を提供して、高価な AI インフラストラクチャの構築を継続できるように支援しています。
-その経済的成功とプロセッサーは現在 AI ブームの中心となり、AI モデルのトレーニングと実行に使用されるデータセンターを強化しています。
-そのコンピューティング力への需要により、Nvidia は時価総額 5 兆ドルを超える世界で最も価値のある企業に変貌しました。
-独自のプロセッサを設計する顧客や、中国のより安価なサプライヤーとの競争が生じていますが、最新の数字は、現時点ではそれらの課題が限定的であることを示唆しています。
-米国株式市場の約40％がAIに多額の投資を行っている10社に集中しているため、Nvidiaの運命はシリコンバレーをはるかに超えて重要である。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-26T21:49:26+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7234/live/2da1a9f0-a193-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 3,
   },
 ];
 
