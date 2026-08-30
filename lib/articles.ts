@@ -15,6 +15,96 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "icelanders-reject-reopening-talks-to-joi-cd5720fb",
+    title: "Icelanders reject reopening talks to join the EU despite Trump's Greenland threats",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Icelanders voted to reject resuming talks to join the European Union, as issues such as domestic control over fishing appeared to override geopolitical security concerns.
+Broadcaster RUV reported that 52.8% of voters rejected the government's push to reopen EU membership negotiations, while 47.2% voted in favor.
+The question put to the Nordic nation of nearly 400,000 was whether Iceland should resume accession negotiations with the European Union.
+A majority "yes" vote would have led to a negotiated agreement being put to a second referendum for Icelanders to accept or reject.
+The debate has taken on deeper significance in the wake of U.S. President Donald Trump's Arctic saber-rattling.
+But in the end, concern over the potential loss of control over its fishing industry and an erosion of national identity won out over how Iceland might be affected by geopolitical rivalries.
+"The 'No' side succeeded because it tapped into the most fundamental driver of Icelandic national identity: the demand for absolute self-governance. This is inextricably linked to control over natural resources and fisheries, which forms the very heart of the Icelandic understanding of sovereignty," said Eiríkur Bergmann, professor of politics at Iceland's Bifröst University.
+Fishing's share of Iceland's broader economy has declined over the decades, even as seafood remains a major export industry.
+Marine products and farmed fish made up nearly 47% of the country's exports in the August 2025-July 2026 period, according to Statistics Iceland.
+But production halved from a peak of 2.2 million tons in 1997 to 1.1 million tons in 2024, World Bank data show. Agriculture, forestry and fishing contributed 9.1% of Iceland's gross domestic product in 1995, but only 3.7% by 2025, as manufacturing and services grew in importance.
+Greenland or Iceland?
+The U.S. president has long advocated for control over neighboring Greenland on national security grounds. Notably, Trump appeared to repeatedly mix up Greenland and Iceland during a special address at the World Economic Forum in Davos, Switzerland earlier in the year.
+Iceland, a founding member of NATO, is the only ally without its own military forces. The country also sits astride the so-called GIUK Gap, a naval choke point between Greenland, Iceland and the U.K. that links the Arctic to the Atlantic Ocean.
+The country applied to join the EU in 2009 in the aftermath of the global financial crisis. A euroskeptic government suspended negotiations in 2013, and the accession process was formally ended in 2015.
+It's already deeply integrated into the European framework, partly through its membership of the European Economic Area, which gives the volcanic island access to the EU's single market without requiring full membership.
+It's also a member of the Schengen Area, which allows passport-free travel between it and other participating European countries.
+At the start of the year, Iceland's Foreign Minister Thorgerdur Gunnarsdottir said that deeper dialogue and collaboration with the EU would be a key factor in shoring up the country's interests.
+"It is clear that the international system we have lived in since the end of World War II is in turmoil," Gunnarsdottir said in an article for Icelandic newspaper Visir, according to a Google translation.
+"What is perhaps most striking about this referendum is that despite the profound geopolitical upheaval around us – including rapidly shifting security paradigms in the North Atlantic – these global realities never really filtered properly through into the public debate," Bifröst University's Bergmann said.
+"The 'Yes' side lost because they ran a highly technical and, frankly, passionless campaign."
+—CNBC's Sam Meredith contributed to this story.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/30/iceland-eu-accession-referendum-result.html",
+    publishedAt: "2026-08-30T11:41:24+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "manhunt-after-shooting-at-swiss-rave-kil-3d24b56b",
+    title: "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+    titleJa: "スイスのレイブで銃乱射事件後、捜査員が女性（22）死亡、5人負傷",
+    summaryJa: "スイスのレイブで銃乱射事件後、捜査員が女性（22）死亡、5人負傷- 公開されました",
+    bodyOriginal: `Manhunt after shooting at Swiss rave kills woman, 22, and injures five
+- Published
+A manhunt is under way after a 22-year-old woman was killed and five others injured in a shooting at a rave in Switzerland.
+The woman died at the scene in Aarau, police said. Those injured were four men and a woman aged between 24 and 27, all of whom are in hospital with injuries "ranging from minor to severe".
+Organisers and performers said the shooting happened at a techno rave being held at a horse racing track in the town, which is located some 46km (29 miles) west of Zurich.
+A police spokesperson told Swiss media on Sunday afternoon that they had "no concrete leads", having earlier said the shooter's identity and motives were unclear.
+It is unlikely that they are still in Aarau, spokesman Bernhard Graser told Swiss newspaper Blick, but there is "no imminent danger".
+The force said it had received an initial report of shots fired at the Schachen race track at 02:30 local time (01:30 BST).
+A DJ who was due to perform until the scheduled end of the event at 02:00 said the incident occurred "straight after our set", in a post on social media.
+Another performer, DJ Tekibo, said he had lost a friend in the incident. He wrote on Instagram that he was "still trying to process what happened".
+Olivier Grein, whose firm Agency Events AG organised the event, said the company was "shaken" and would do all it could to support police.
+An eyewitness told Blick that he "suddenly heard the gunshots" minutes after the music stopped at 02:30, initially believing they were fireworks.
+He said he was told to hide by a man and a woman, the latter of whom was then shot.
+Organisers had expected up to 3,500 people to attend. Police asked witnesses to submit photographs and video from the scene.
+An area around the racing track, the town's swimming pool and sports field has been cordoned off, with the public urged to stay away.
+A large contingent of officers has also been deployed beyond Aarau "as a precaution", Aargau Cantonal Police said.
+An AFP journalist reported seeing armed officers deployed on the highway up to 30km (18 miles) from the site of the shooting.
+Aarau, home to approximately 23,000 people, is less than 40km (25 miles) from the border with Germany, where local media reported police were supporting Swiss forces.
+Images from Aarau early on Sunday showed a heavy police presence in the area, with an armoured vehicle seen blocking a road. Armed police and officers in riot gear could be seen patrolling the streets.
+In addition to police and fire officials, the regional disaster response unit (KKE) was deployed, according to broadcaster SRF.
+It also reported that a Swiss Army helicopter could be seen surveying the area in the early hours.
+Switzerland has one for the highest rates of gun ownership in Europe, although violent shootings are rare and tighter controls were introduced in recent years.`,
+    bodyJa: `スイスのレイブで銃乱射事件後、捜査員が女性（22）死亡、5人負傷
+- 公開されました
+スイスのレイブ会場で銃撃があり、22歳の女性が死亡、5人が負傷したことを受け、捜査が進められている。
+警察によると、女性はアーラウの現場で死亡した。負傷したのは24歳から27歳の男性4人と女性1人で、全員が「軽傷から重傷まで」の負傷で入院している。
+主催者や出演者らによると、銃乱射事件はチューリヒから約46キロ西に位置する町の競馬場で開催されていたテクノレイブで起きたという。
+警察報道官は日曜午後、スイスのメディアに対し、「具体的な手がかりはない」と述べ、これまで銃撃犯の身元や動機は不明だと述べていた。
+ベルンハルト・グレーザー報道官はスイスの新聞ブリックに対し、彼らがまだアーラウに滞在している可能性は低いが、「差し迫った危険はない」と語った。
+同部隊は、現地時間午前2時30分（BST午前1時30分）にシャッヘン競馬場で発砲されたという第一報を受け取ったと発表した。
+イベント終了予定の午前2時まで演奏する予定だったDJは、ソーシャルメディアへの投稿で、事件は「セットの直後」に起こったと述べた。
+別のパフォーマー、DJ Tekiboさんは、この事件で友人を失ったと語った。彼はインスタグラムに「何が起きたのかまだ整理中だ」と書いた。
+イベントを企画したエージェンシー・イベントAG社のオリビエ・グレイン氏は、同社は「動揺している」とし、警察を支援するために全力を尽くすと述べた。
+目撃者はブリックさんに、音楽が2時30分に止まった数分後に「突然銃声を聞いた」と語ったが、最初は花火だと思ったという。
+男性と女性に隠れるように言われ、後者は射殺されたと述べた。
+主催者は最大3,500人の参加者を予想していた。警察は目撃者に現場の写真とビデオの提出を求めた。
+競馬場、町のプール、競技場周辺は封鎖され、一般の人々には近づかないよう求められている。
+アールガウ州警察によると、「予防措置として」アーラウ以遠にも警官の大規模部隊が配備されている。
+AFP記者は、銃撃現場から最大30キロ（18マイル）の高速道路上に武装警官が配置されているのを目撃したと報告した。
+約2万3000人が暮らすアーラウは、ドイツとの国境から40キロ（25マイル）以内に位置しており、地元メディアは警察がスイス軍を支援していると報じた。
+日曜早朝にアーラウから配信された画像には、警察が現場に厳重に駐屯しており、装甲車両が道路を封鎖している様子が映っていた。武装警察や暴動鎮圧服を着た警官らが街路を巡回する姿も見られた。
+放送局SRFによると、警察と消防当局に加えて、地域災害対応部隊(KKE)も配備された。
+また、早朝にはスイス軍のヘリコプターがその地域を調査しているのが見られたとも報じた。
+スイスは欧州で最も銃所持率が高い国だが、暴力的な銃撃事件はまれで、近年はより厳しい規制が導入されている。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-30T11:25:11+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+    readTime: 3,
+  },
+  {
     id: "whatsapp-chat-used-to-send-cash-for-crim-c748eaf9",
     title: "WhatsApp chat used to send cash for crime and extremism",
     titleJa: "WhatsApp チャットは犯罪や過激主義への現金送金に使用されていた",
@@ -1747,110 +1837,6 @@ Related topics
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96e/live/2b586050-a20e-11f1-9090-b51af3a01fc2.jpg",
     readTime: 2,
-  },
-  {
-    id: "trump-administration-illegally-retaliate-a82f3037",
-    title: "Trump administration illegally retaliated against Anthropic, judge rules",
-    titleJa: "トランプ政権、人間性、裁判官の規則に対して違法に報復",
-    summaryJa: "トランプ政権、人間性、裁判官の規則に対して違法に報復- 公開されました",
-    bodyOriginal: `Trump administration illegally retaliated against Anthropic, judge rules
-- Published
-A judge has ruled the US Department of Defense acted unlawfully when it designated artificial intelligence (AI) startup Anthropic a supply chain risk, calling the move "illegal and baseless".
-The company argued in the lawsuit that Defense Secretary Pete Hegseth overstepped his authority with the new designation. It followed Anthropic's refusal to allow the military to use its AI models for things that included surveillance or autonomous weapons.
-US district judge Rita Lin said in the ruling that citing national security "is not a blank check to punish and retaliate against government critics".
-Anthropic welcomed the ruling. The BBC has contacted the Pentagon and the White House for comment.
-Anthropic is focused on "working productively with the government to harness AI for our national security so all Americans benefit from this technology," a spokesperson told the BBC.
-Judge Lin said in the court filing that the Defense Department had acted unlawfully to order firms that do business with the US military to boycott Anthropic.
-The Pentagon designated Anthropic as a supply-chain risk in February - a law typically reserved for companies based in countries that pose a threat to the US.
-It marked the first time an American company had been publicly designated as such.
-Anthropic's lawsuit said the government's actions were both "unprecedented and unlawful".
-The Claude-maker said its models were not reliable enough to be safely used in weapons systems for the military. It added that it opposed its use for domestic surveillance as a violation of rights.
-The Pentagon said at the time that private companies should not be able to constrain military action.
-The White House had previously said Anthropic was "a radical left, woke company" attempting to control military activity" and argued the military was beholden to the US Constitution, "not any woke AI company's terms of service".
-The Pentagon also argued that Anthropic's refusal to accept new contract terms raised concerns over what the company could do with its technology.
-Anthropic said in its lawsuit that its business had been impacted by the government's actions and its right to freedom of speech had been violated.
-Judge Lin said during an earlier round in the lawsuit that the government was trying to "cripple" the company and "chill public debate" over military use of AI.
-"This appears to be classic First Amendment retaliation," the judge added.
-- Published1 day ago
-- Published9 June`,
-    bodyJa: `トランプ政権、人間性、裁判官の規則に対して違法に報復
-- 公開されました
-裁判官は、米国国防総省が人工知能（AI）新興企業アンスロピックをサプライチェーンのリスクに指定したことは違法行為であり、この動きは「違法で根拠がない」との判決を下した。
-同社は訴訟で、ピート・ヘグセス国防長官が新たな指定で権限を逸脱したと主張した。これは、軍が監視や自律型兵器を含む用途に自社の AI モデルを使用することを Anthropic が拒否したことを受けてのことだ。
-米国地方判事のリタ・リン氏は判決の中で、国家安全保障に言及することは「政府批判者を罰し、報復するための白紙検査ではない」と述べた。
-アントロピックはこの判決を歓迎した。 BBCは国防総省とホワイトハウスにコメントを求めた。
-Anthropic社の広報担当者はBBCに対し、「国家安全保障のためにAIを活用するために政府と生産的に協力し、すべてのアメリカ人がこのテクノロジーの恩恵を受けられるようにする」ことに重点を置いていると語った。
-リン判事は法廷提出書類の中で、国防総省が米軍と取引のある企業にアンスロピック社のボイコットを命じる違法な行為を行ったと述べた。
-国防総省は2月にアンスロピックをサプライチェーンリスクに指定したが、これは通常、米国にとって脅威となる国に拠点を置く企業に限定される法律である。
-米国企業がそのように公的に指定されたのは初めてのことだった。
-アンスロピック社の訴訟では、政府の行為は「前例がなく、違法」であると述べた。
-クロードのメーカーは、自社のモデルは軍用兵器システムで安全に使用できるほど信頼性が低いと述べた。国内監視に利用することは権利侵害として反対すると付け加えた。
-国防総省は当時、民間企業が軍事行動を制約できるべきではないと述べた。
-ホワイトハウスは以前、アンスロピック社は「軍事活動を統制しようとしている極左の目覚めた企業」であると述べ、軍は合衆国憲法に従うものであり、「目覚めたAI企業の利用規約ではない」と主張していた。
-国防総省はまた、アンスロピック社が新たな契約条件の受け入れを拒否したことで、同社が自社の技術で何ができるかについての懸念が生じたと主張した。
-アンスロピックは訴訟の中で、同社の事業は政府の措置によって影響を受け、言論の自由の権利が侵害されたと述べた。
-リン判事は訴訟の初期ラウンドで、政府は同社を「機能不全に陥れ」、AIの軍事利用を巡る「国民の議論を冷ややかに」しようとしていると述べた。
-「これは典型的な合衆国憲法修正第1条の報復のようだ」と判事は付け加えた。
-- 1 日前に公開
-- 6 月 9 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-28T03:41:59+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a72/live/1e9bf7b0-a299-11f1-b81f-99addc8c0403.jpg",
-    readTime: 3,
-  },
-  {
-    id: "trump-ratchets-up-rhetoric-against-beiji-d8ef6335",
-    title: "Trump ratchets up rhetoric against Beijing as U.S.-China officials meet for Xi's Washington visit",
-    titleJa: "習主席のワシントン訪問に向けて米中当局者が会談、トランプ大統領が中国に対する発言を強める",
-    summaryJa: "北京 — 米国が今週、イランに対する二次制裁で中国への圧力を強化する中、世界の二大経済大国は依然として協力方法に焦点を当て続けている。ホワイトハウスの発言が依然として厳しいにもかかわらず、これは双方がバランスを取っている兆候だ。",
-    bodyOriginal: `BEIJING — As the U.S. ramped up pressure this week on China with secondary Iran sanctions, the world's two largest economies have still managed to stay focused on ways to cooperate.
-It's a sign of the balancing act on both sides, even as White House rhetoric has remained tough.
-U.S. President Donald Trump signaled to reporters Thursday local time he could be sanctioning Chinese banks. "I don't have to announce everything," he said, according to a Fox News stream of the event.
-Those comments followed a meeting between U.S. and Chinese officials in Beijing on Wednesday, according to official announcements.
-U.S. Ambassador to China David Perdue said in a social media post that he met with China's Foreign Minister Wang Yi and three other Chinese officials to discuss President Xi Jinping's upcoming state visit to Washington.
-China's readout also noted Perdue's comment on "preparing well for the next stage of important high-level interactions," according to a CNBC translation of Chinese.
-Trump on Thursday even mentioned Xi was coming in a few weeks.
-U.S. Treasury Secretary Scott Bessent on Monday had warned that if Chinese banks "are part of the ecosystem that turns Iranian oil into money, into repression, they will be targeted." It was part of Trump's "economic D-Day" announcements against Iran.
-Other than Bessent's comments, there few details on specific actions, said Jodie Wen, postdoctoral fellow at the Center for International Security and Strategy (CISS), Tsinghua University. It's more of a warning, she said.
-Wen added that the Trump-Xi summit in May marked a shift toward controlled competition, rather than the Biden administration's "strategic adversary" view on China.
-Moderate response
-China's official response to U.S. secondary Iran sanctions has also been muted so far.
-Beijing responded by saying it would "take all necessary measures" to protect itself, but did not elaborate on possible actions. When asked about communication with the U.S. on Iran, a foreign ministry spokesperson said there was no information to share.
-However, the spokesperson said the two countries were in talks about a Trump-Xi meeting.
-Beijing will "note the lack of groundwork that was laid ahead of Bessent's 'D-Day' announcement. And they will conclude that this is largely performative," Ryan Hass, director of the China center and Chair in Taiwan studies at Brookings, said in a social media post. Hass advised the Obama administration as director for China, Taiwan and Mongolia for the National Security Council.
-"Sec. Bessent already basically gave away the game when he responded to a question by asking, 'Why would I want to blow up the global financial system?' Beijing will interpret this as signaling that the US is not going to go after major Chinese financial institutions," Hass said.
-He expects the U.S.-China trade truce to remain intact because the "alternative is worse for both sides."
-Beijing can also comply with U.S. sanctions and its own interests at the same time.
-The Asian country has built a legal mechanism that essentially tells Chinese companies their foreign bankers must comply with U.S. rules, but inside China, Beijing's law takes precedence, said Han Shen Lin, China managing director for The Asia Group and a former executive at Wells Fargo Bank in China.
-— CNBC's Anniek Bao contributed to this report.`,
-    bodyJa: `北京 — 米国が今週、イランに対する二次制裁で中国への圧力を強化する中、世界の二大経済大国は依然として協力方法に焦点を当て続けている。
-ホワイトハウスの発言が依然として厳しいにもかかわらず、これは双方がバランスを取っている兆候だ。
-ドナルド・トランプ米大統領は現地時間木曜、記者団に対し、中国の銀行を制裁する可能性があることを示唆した。このイベントのフォックスニュースのストリームによると、同氏は「すべてを発表する必要はない」と語った。
-公式発表によると、これらのコメントは水曜日に北京で行われた米中当局者の会談後に発せられた。
-デービッド・パーデュー駐中国大使はソーシャルメディアへの投稿で、習近平国家主席の今後の国賓ワシントン訪問について話し合うため、中国の王毅外相および他の中国当局者３人と会談したと述べた。
-CNBCの中国語翻訳によると、中国側の読み上げでは、「重要なハイレベル交流の次の段階に向けて十分な準備をしている」というパーデュー氏のコメントにも言及した。
-トランプ大統領は木曜日、習氏が数週間以内に来るとさえ言及した。
-スコット・ベッセント米財務長官は月曜日、中国の銀行が「イラン石油を金に変え、抑圧に変えるエコシステムの一部になれば、彼らは標的にされるだろう」と警告した。これはトランプ大統領のイランに対する「経済的Dデー」発表の一環だった。
-清華大学国際安全保障戦略センター（CISS）の博士研究員ジョディ・ウェン氏によると、ベッセント氏のコメント以外には、具体的な行動に関する詳細はほとんどないという。それはむしろ警告だ、と彼女は言った。
-温氏は、5月のトランプ・習首脳会談は、バイデン政権の中国に対する「戦略的敵対者」の見方ではなく、管理された競争への移行を示したと付け加えた。
-中等度の反応
-米国の対イラン二次制裁に対する中国の公式反応も、これまでのところ沈黙を保っている。
-中国政府は自国を守るために「あらゆる必要な措置を講じる」と応じたが、考えられる行動については詳しく述べなかった。イランに関する米国とのコミュニケーションについて尋ねられた外務省報道官は、共有すべき情報はないと述べた。
-しかし報道官は、両国はトランプ大統領と習氏の会談について協議中であると述べた。
-中国センター所長でブルッキングス大学台湾研究部長のライアン・ハス氏はソーシャルメディアへの投稿で、中国政府は「ベッセント氏の『Dデイ』発表に先立って準備が整っていなかった点に留意するだろう。そして中国センター所長でブルッキングス大学台湾研究部長のライアン・ハス氏は、これは主に演出的なものだと結論付けるだろう」と述べた。ハス氏は国家安全保障会議の中国、台湾、モンゴル担当局長としてオバマ政権に助言した。
-「ベッセント長官は、『なぜ世界の金融システムを爆破したいのか？』という質問に答えたとき、すでに基本的に勝負を放棄していた。中国政府はこれを、米国が中国の大手金融機関を追及するつもりはないという合図だと解釈するだろう」とハス氏は語った。
-同氏は「代替案のほうが双方にとって悪い」ため、米中貿易停戦は維持されると予想している。
-中国政府は米国の制裁と自国の利益を同時に遵守することもできる。
-アジア・グループの中国マネージング・ディレクターで中国のウェルズ・ファーゴ銀行元幹部のハン・シェン・リン氏は、アジアの国は基本的に中国企業に対し、外資系銀行家が米国の規則に従わなければならないと伝える法的メカニズムを構築しているが、中国国内では中国の法律が優先されると述べた。
-— CNBC の Anniek Bao がこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html",
-    publishedAt: "2026-08-28T01:35:13+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
   },
 ];
 
