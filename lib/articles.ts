@@ -15,6 +15,226 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "america-is-asking-the-wrong-question-abo-143c3643",
+    title: "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
+    titleJa: "アメリカは40兆ドルの債務について間違った質問をしている、とMITの専門家が警告",
+    summaryJa: "ある専門家は、連邦債務は持続可能かもしれないが、負担の増加は依然として米国経済にとって厄介な問題となる可能性があると指摘する。",
+    bodyOriginal: `The federal debt may be sustainable, but rising burdens may still be troublesome to the U.S. economy, says one expert.`,
+    bodyJa: `ある専門家は、連邦債務は持続可能かもしれないが、負担の増加は依然として米国経済にとって厄介な問題となる可能性があると指摘する。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
+    publishedAt: "2026-08-31T13:10:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.mktw.net/im-63049502",
+    readTime: 2,
+  },
+  {
+    id: "openai-s-ad-business-shows-blistering-gr-1329383c",
+    title: "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
+    titleJa: "OpenAI の広告ビジネスは驚異的な成長を示し、年間収益ランレートは 10 億ドルに達する",
+    summaryJa: "今年初めにChatGPTで広告を配信するというOpenAIの動きは、スーパーボウルのコマーシャルという形で最大のライバルであるAnthropicから嘲笑を買った。",
+    bodyOriginal: `OpenAI on Monday announced that its advertising business has hit $1 billion in annualized revenue run rate, a milestone that the company is touting as proof of its "diversified business model."
+The artificial intelligence company is gearing up for what is expected to be a massive IPO, and is under pressure to justify its $852 billion valuation to investors. OpenAI said Monday that its ad business, which is roughly 200 days old, builds on its existing revenue engines like its enterprise offerings, consumer subscriptions and usage-based application programming interfaces.
+OpenAI began testing ads within its ChatGPT chatbot in the U.S. in February, a decision that was both highly anticipated and controversial. Digital advertising has long been the cash cow for other big tech companies like Google and Meta, but OpenAI's move was ridiculed by its chief rival, Anthropic, which made OpenAI's ad push the focus of its first Super Bowl campaign.
+ChatGPT Ads are now available in more than 40 countries, and OpenAI said it's rolling out self-service access across India, Europe, the Middle East and North Africa on Monday. Ads within the chatbot appear for OpenAI's Go subscribers and its free tier, which makes up the vast majority of its 1 billion weekly active users.
+OpenAI said Monday that its ads are clearly labeled and do not influence ChatGPT's answers. Advertisers do not have access to users' private conversations.
+"Our next phase of growth will bring ChatGPT Ads to more markets and introduce additional formats, objectives, buying options, and measurement capabilities," OpenAI said in a release. "We will also explore new ways for businesses to interact with consumers in more native ways in ChatGPT."
+—CNBC's Kate Rooney contributed to this report
+WATCH: Experts weigh in on the market’s ability to handle Anthropic and OpenAI going public`,
+    bodyJa: `OpenAIは月曜日、広告事業の年間収益ランレートが10億ドルに達したと発表したが、これは同社が「多角的なビジネスモデル」の証拠として宣伝しているマイルストーンである。
+人工知能企業は大規模なIPOになると予想されているものに向けて準備を進めており、投資家に対して8,520億ドルの評価額を正当化するというプレッシャーにさらされている。 OpenAIは月曜日、設立から約200日が経過した同社の広告事業は、エンタープライズ向けサービス、消費者向けサブスクリプション、使用量ベースのアプリケーション・プログラミング・インターフェースなどの既存の収益源を基盤にしていると述べた。
+OpenAI は 2 月に米国で ChatGPT チャットボット内の広告のテストを開始しましたが、この決定は大いに期待され、物議を醸しました。デジタル広告は長い間、GoogleやMetaなど他の大手ハイテク企業にとってのドル箱だったが、OpenAIの動きは最大のライバルであるAnthropicによって嘲笑され、OpenAIの広告が最初のスーパーボウルキャンペーンの焦点を押し上げられた。
+ChatGPT広告は現在40カ国以上で利用可能で、OpenAIは月曜日にインド、ヨーロッパ、中東、北アフリカ全域でセルフサービスアクセスを展開すると発表した。チャットボット内の広告は、OpenAI の Go 購読者とその無料枠を対象に表示されます。この購読者は、毎週 10 億人のアクティブ ユーザーの大部分を占めています。
+OpenAIは月曜日、同社の広告には明確なラベルが付けられており、ChatGPTの回答には影響を与えないと述べた。広告主はユーザーのプライベートな会話にアクセスできません。
+「当社の次の成長段階では、ChatGPT Adsをより多くの市場に導入し、追加のフォーマット、目的、購入オプション、測定機能を導入する」とOpenAIはリリースで述べた。 「私たちはまた、ChatGPT でよりネイティブな方法で企業が消費者と対話するための新しい方法も模索していきます。」
+—CNBCのケイト・ルーニーがこのレポートに寄稿しました
+注目: Anthropic と OpenAI の上場に対応する市場の能力について専門家が検討`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
+    publishedAt: "2026-08-31T13:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "aon-ceo-says-insurance-broker-seeks-to-b-88b73963",
+    title: "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
+    titleJa: "エーオンCEO、保険ブローカーはライバルUSIの買収で「最高の中間市場プラットフォーム」の構築を目指していると語る",
+    summaryJa: "保険ブローカーのエーオンは月曜日、競合するUSI保険サービスをプライベートエクイティ会社KKRから買収すると発表した。この170億ドルの取引はエーオンが新たな負債で資金調達する予定で、規制当局の承認を条件として第4四半期に完了する見通しだ。",
+    bodyOriginal: `Insurance broker Aon announced on Monday it will purchase rival USI Insurance Services from private equity firm KKR.
+The $17 billion deal, which will be funded by Aon with new debt, is anticipated to close in the fourth quarter, subject to regulatory approvals.
+CEO Greg Case in an appearance on CNBC's "Squawk Box" Monday said that the merger will establish the "premier U.S. middle-market platform."
+"This means we're going to be in a position to bring world class solutions to the underserved U.S. middle market, and … set a new standard of client leadership for the 200,000 middle-market companies in the U.S. and their 48 million employees," he said.
+The acquisition for Aon builds on the company's purchase of NFP in 2024, another insurance broker focused on the U.S. middle market.
+USI, according to a press release announcing the deal, is the tenth largest insurance broker in the U.S. The company has more than $3 billion in annual revenue, and more than 10,500 employees.
+Once a deal is closed, USI CEO Mike Sicard will transition to Aon's president and global CEO of middle market.
+"Joining Aon represents a truly energizing next chapter for our firm and an opportunity to accelerate our momentum as part of the Aon United platform," Sicard said in the release. "Our firms share strong, one-firm cultures with a deep commitment to working together to bring the best of our capabilities to clients."
+In a press release, KKR partner Chris Harrington said Aon is the ideal partner to support USI's next growth chapter.
+Shares of Aon slipped about 1% in premarket trading Monday. But despite the initial slide, Case said the opportunity to serve the middle market at the scale the company now can through the acquisition has tremendous value potential for shareholders.
+"Maybe the greatest I've seen in my 20-year career as CEO," he said.`,
+    bodyJa: `保険ブローカーのエーオンは月曜日、競合するUSI保険サービスをプライベートエクイティ会社KKRから買収すると発表した。
+この170億ドルの取引はエーオンが新たな負債で資金調達する予定で、規制当局の承認を条件として第4四半期に完了する見通しだ。
+CEOのグレッグ・ケース氏は月曜日、CNBCの「Squawk Box」に出演し、合併により「米国の最高の中間市場プラットフォーム」が確立されると述べた。
+「これは、当社が十分なサービスを受けていない米国の中堅市場に世界クラスのソリューションをもたらす立場に立つことを意味し、米国の20万社の中堅企業とその4,800万人の従業員に顧客リーダーシップの新たな基準を設定することになる」と同氏は述べた。
+エーオンの買収は、同社が2024年に米国の中間市場に焦点を当てた別の保険ブローカーであるNFPを買収したことに基づくものだ。
+この取引を発表したプレスリリースによると、USI は米国で 10 番目に大きな保険ブローカーであり、年間収益は 30 億ドル以上、従業員は 10,500 名以上です。
+取引が成立すれば、USIのマイク・シカード最高経営責任者（CEO）はエーオンの社長兼中間市場担当グローバルCEOに就任する。
+シカード氏はリリースの中で、「エーオンへの参加は、当社にとって真に活力に満ちた次の章であり、エーオン・ユナイテッド・プラットフォームの一部として当社の勢いを加速する機会となる」と述べた。 「当社は、顧客に当社の能力を最大限に発揮するために協力するという強いコミットメントを持つ、強力な単一企業文化を共有しています。」
+KKRパートナーのクリス・ハリントン氏はプレスリリースで、AonはUSIの次の成長章をサポートする理想的なパートナーであると述べた。
+エーオンの株価は月曜の市場前取引で約１％下落した。しかし、最初のスライドにもかかわらず、ケース氏は、買収を通じて同社が現在可能な規模で中間市場にサービスを提供できる機会は、株主にとって多大な価値をもたらす可能性があると述べた。
+「おそらく、CEOとしての20年間のキャリアの中で最高のものかもしれない」と彼は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
+    publishedAt: "2026-08-31T12:35:32+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "brent-jumps-3-to-above-90-after-flare-up-cfd3ca58",
+    title: "Brent jumps 3% to above $90 after flare-up in U.S.-Iran hostilities",
+    titleJa: "米国とイランの敵対行為激化を受け、ブレント相場が3％上昇し90ドルを超えた",
+    summaryJa: "米軍がララック島でイランのロケットランチャー２基を攻撃したことを受け、月曜、原油価格が急騰し、ワシントンとテヘランが戦闘に復帰したことを示した。国際ベンチマークであるブレント原油先物９月渡しは３．３％上昇し、１バレル＝９０．９９ドルで取引された。米国ウェスト・テキサス・インターミディエイト先物前月は3.6％上昇し、1バレル＝86.36ドルで取引された。",
+    bodyOriginal: `Oil prices jumped Monday after U.S. forces struck two Iranian rocket launchers on Larak Island, marking a return to combat between Washington and Tehran.
+Futures for international benchmark Brent crude for September delivery gained 3.3% to trade at $90.99 a barrel. Front-month U.S. West Texas Intermediate futures added 3.6%, trading at $86.36 per barrel.
+"I can confirm that earlier today U.S. forces struck two Iranian launchers on Larak Island. Islamic Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into the Strait of Hormuz," Navy Capt. Tim Hawkins, a U.S. Central Command spokesperson, said in a statement.
+According to the Associated Press, Sunday's attack was the first publicly acknowledged U.S. strike on Iranian positions since late July.
+The U.S. attack on Larak Island killed and wounded several Iranian soldiers, Iran's Revolutionary Guards Corps said, adding that it has responded with attacks on American military bases in Jordan, based on reports by the Iranian media.
+Meanwhile, U.S. President Donald Trump extended his military threats against Iran to Kharg Island, the country's main oil export terminal, saying in a Sunday evening Truth Social post that it's "going to be blown to smithereens!"
+Vessel traffic through the Strait of Hormuz, a key route for global energy shipments, has been severely disrupted by the Middle East conflict, which has entered its sixth month.
+"Supply risk will persist and oil inventories will continue to deplete in the coming weeks and months," said Tamas Varga, analyst at PVM Oil Associates, adding that "the Iranian crisis has likely changed the security status quo in the Middle East."
+"Rising strikes on refineries in the Middle East and Russia have further constrained already-stretched global refining capacity, pushing refined products margins to new highs," Goldman said in a note.
+—CNBC's Anniek Bao contributed to the report.`,
+    bodyJa: `米軍がララック島でイランのロケットランチャー２基を攻撃したことを受け、月曜、原油価格が急騰し、ワシントンとテヘランが戦闘に復帰したことを示した。
+国際ベンチマークであるブレント原油先物９月渡しは３．３％上昇し、１バレル＝９０．９９ドルで取引された。米国ウェスト・テキサス・インターミディエイト先物前月は3.6％上昇し、1バレル＝86.36ドルで取引された。
+米中央軍報道官ティム・ホーキンス海軍大佐は声明で、「今日初めに米軍がララック島でイランの発射台２基を攻撃したことを確認した。イスラム革命防衛隊部隊が機雷を搭載したロケット弾をホルムズ海峡に発射する準備をしているのが目撃された」と述べた。
+AP通信によると、日曜日の攻撃は、7月下旬以来、イラン陣地に対する米国の攻撃が公的に認められた初めてのことだった。
+イラン革命防衛隊は、ララク島への米国の攻撃で複数のイラン兵士が死傷したと発表し、イランメディアの報道に基づき、ヨルダンの米軍基地への攻撃で対抗したと付け加えた。
+一方、ドナルド・トランプ米大統領は、イランに対する軍事的脅威を同国の主要石油輸出ターミナルであるカーグ島にまで拡大し、日曜夜のトゥルース・ソーシャルへの投稿で、「木っ端微塵に吹き飛ばされるだろう！」と述べた。
+世界のエネルギー輸送の重要なルートであるホルムズ海峡を通過する船舶の交通は、6か月に入った中東紛争により大幅に混乱している。
+ＰＶＭオイル・アソシエイツのアナリスト、タマス・バルガ氏は「供給リスクは残り、今後数週間から数カ月は石油在庫の枯渇が続くだろう」と述べ、「イラン危機は中東の安全保障の現状を変えた可能性が高い」と付け加えた。
+ゴールドマンはメモの中で「中東とロシアの製油所に対するストライキの増加により、すでに逼迫している世界の精製能力がさらに制約され、精製製品のマージンが新たな高水準に押し上げられている」と述べた。
+—CNBCのアニーク・バオ氏がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+    publishedAt: "2026-08-31T12:33:57+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "santoli-why-investors-should-be-on-high-57589c8a",
+    title: "Santoli: Why investors should be on high alert heading into September",
+    titleJa: "サントリ：9月に向けて投資家が厳重な警戒を払うべき理由",
+    summaryJa: "まず、Mike Santoli のマーケット メモを受信箱で入手してください。ここから購読してください映画と同様に市場でも、第 2 幕のゆっくりとした静かなシーンを通じてサスペンスが高まります。",
+    bodyOriginal: `Get Mike Santoli's Market Memo in your inbox first. SUBSCRIBE HERE
+In markets as in movies, suspense builds through the slow, quiet scenes of the second act.
+The stock market is doing just enough, through slim trading volumes and narrow index trading ranges, to escape August with its uptrend intact.
+The S&P 500 is within half a percent of where it closed three weeks ago. It has slouched and equivocated in the two weeks since it hit the last record high just above 7800.
+But the index has stayed within 2% of the peak, the pullbacks so far halting a handful of points above what had been the top of the former multi-month range.
+Sure, the upwelling of relief that greeted Nvidia's strong results and bold guidance was dramatic. But for the full week, the stock was up just 1.3%, back to levels from three months earlier.
+Semiconductors as a group held right where they "should" have, preserving the path of their post-July rebound.
+The market, in other words, has done its best not to do anything that would require disturbing the portfolio managers at the beach.
+This is where one is conditioned to expect a discussion of calm before storms, of late-summer hurricanes and the punishing realities of September markets.
+Yes, as is noted everywhere, September historically is the worst month of the year for stocks. But it's utterly unclear what one is meant to take from this fact, other than to keep expectations muted - which is always advisable in my book. Given most late-summer midterm-election-year weakness has been more than recovered right afterward, the proper course of action now becomes even more obscure.
+There is massive variation around historical monthly return patterns. When stocks have already been strong in a given year, as they have in 2026, September has been less scary.
+The ranking of monthly performance changes significantly if one goes back 20, 80 or 100 years. None of these spans truly represents a statistically significant sample. And of course, this is all about calendar months, not every possible 30-day slice of market history.
+The Vix, 10-Year Treasury yield at key levels
+Given all this, I'd argue the reason to be alert now is not purely the turn of the month, but the fact that - much like the S&P and the semis in August - various key market metrics are coiling near consequential thresholds, which if they're crossed could imply a change in market character.
+The CBOE S&P 500 Volatility Index (VIX) has slipped below 15. Appropriately so, given the placid recent range and the clockwork mechanics of sector rotation and low-correlation restraining index-level volatility.
+Still, much below 15 gets away from "comfortable stability" and toward "eerie complacency" territory. Historically, this time of year, vol is biased pretty clearly higher. For now, the VIX futures curve is sloped healthily upward into coming months, but things can shift in a hurry.
+The 10-year Treasury yield has nudged back above 4.7%, reacting in part to the clear message from Federal Reserve Chairman Kevin Warsh at Jackson Hole on Friday that for the near term, he shares his committee's view that short-term rates are the tool to employ against stubborn inflation and that it might need to be used soon.
+As discussed last week, there is no known tripwire level where bond yields kneecap equities. Bursts of fixed-income volatility tend to do more damage to stocks than a steady ratcheting higher of rates. (Just because everyone says this doesn't mean it's wrong.)
+Still, the suspense over the next Fed move might itself color the tape. After Warsh's Friday speech, market-implied odds for a September hike were a bit above 50%.
+Near-coin-flip probabilities less than three weeks before a Fed decision is a kind of "What if?" proposition that can hold risk appetites in check, and perhaps might become more a feature of a less-communicative Fed facing an economy running on two speeds - corporate-capex aggression and housing/consumer caution.
+I'll say again, a 10-year Treasury yield just under 5% is not misaligned with the present 5-6% nominal-growth economy. Nor is it unusually far above the current Federal funds policy rate.
+But might it still pinch?
+Sure, as many tech bulls today point out, the late-90s tech boom and full-employment jubilee occurred with yields between 5-6%. But back then, 5-6% was experienced as "low" rates.
+Treasuries were more than a decade into a massive secular bull market as the '90s bubble inflated. The decade had begun with 10s yielding near 9% and they were just below 8% as late as December 1994, eight months before the Netscape IPO touched off the Internet-stock frenzy.
+The rise in yields toward 5% today feels more intrusive to the current investing generation, and leaves most debt issued in recent years underwater in terms of price.
+(On the bright side, a buyer of high-grade debt today enjoys a buffer of decent nominal and real yields, and bonds would gain more in value from a 1-percentage-point decline in yield than they'd lose from an equivalent rise.)
+Aside from yields pushing the upper end of the range, the broad commodity indexes are rising toward five-year highs, corporate-debt spreads are remarkably tight and one quirky risk-appetite gauge I watch - the relative performance of lower-quality/cheaper Citi vs. defensive/pricey JP Morgan - has retreated back toward its early-2026 breakout level. This ratio peaked just before the SpaceX IPO in June, when exuberance over Wall Street's role in the AI-dealmaking craze was palpable.
+A key feature of the turn into September, which begins a year's third and final act, is that analysts and investors start to calibrate their views of next year. Corporate-conference season gets rolling and earnings models need freshening after summer.
+Among the questions now: How will stocks metabolize an inevitable deceleration in earnings growth from this year's heroic, if overstated, pace. Charles Schwab noted last week that Nvidia and Micron together are providing one-third of aggregate 2026 earnings growth and the top-ten earners account for two-thirds.
+Yes, the median company has returned to profit growth, but to a less-impressive degree. And might the 15% gain in the equal-weighted S&P 500 already account for much of that?
+Market Temperature Gauge
+This indicator from John Kolovos of Macro Risk Advisors uses several data points to reflect both what investors are saying and what they are doing.
+Kolovos on the latest reading: "Overall little change, but sentiment does lean overly bullish as survey data such as Investors Intelligence shows too many bulls, while real time market metrics show a relatively high degree of complacency."
+Around the Street
+Prediction markets, through a skeptical lens, try to launder the reckless public impulse to gamble by presenting themselves as socially useful venues for risk management.
+The predominance of sports betting on the platforms, including in states where it wasn't before allowed, does little directly to help this argument. Nor do frivolous contracts on what word a public figure might utter.
+Yet the Baffler, the contrarian political-criticism and satire magazine, last week offered a long essay detailing how the now-vital and stolid insurance industry was born of a similar zeal for anything-goes wagering (alongside the pricing of maritime-cargo policies) in London coffeehouses.
+"While this insurance became essential to the execution of international expeditions, not everything that went on at Lloyd's or among the underwriters of eighteenth-century London was so crucial to commerce. Some people were as likely to 'insure' that the pope would die as they were that a merchant ship wouldn't sink. In fact, bets on whether people would live or die were incredibly popular. Gamblers would bet on the fates of prisoners awaiting execution and of prominent people whose illnesses were reported on in the newspaper."
+Food for thought, and a reminder that the speculative drive needed to price consequential economic risks is inseparable from the punter's urge.
+Still, the proliferation of "perpetual futures" listed on some of the same upstart exchanges tied to existing stock indexes and public and private equities has always reminded me of the action in the "bucket shops" of the early 20th century. As I've noted on the air several times, Depression-era securities laws specifically banned such activities.
+The Wall Street Journal's Jason Zweig, who has a comprehensive grasp of financial history and a deft touch for illuminating it, explores the echoes here.
+Market on Close
+The analyst corps that covers Nvidia is mostly adoring. The consensus price target for the stock implies 50% upside from here and a $7.5 trillion market value. They are merely chasing the remarkable revenue and profit growth, unprecedented at Nvidia's scale, while staring incredulously at its compressed valuation.
+The stock is below 20-times next-12-months forecast earnings and below 15 on next fiscal year's projection. On free cash flow, it's easily the cheapest mega-cap on offer.
+My read here is that the market will simply refuse to pay a premium for what could soon be peak profit growth until the company proves through a longer cycle that it's not a hit-driven hardware maker.
+There is precedent from recent history that might be relevant. Apple in the years following its initial iPhone-release profit bonanza saw its valuation slide down a similar slope (in an early-2010s market that itself was less expensive than today's).
+The knock on Apple for years was that tech-device margins always evaporate, smartphones would commodify, etc.
+Demonstrating smooth, reliable upgrade cycles, fostering a services-based revenue stream and returning enormous sums of capital through buybacks and dividends slowly got Apple clear of the nagging valuation discount.
+To the point where, now, Apple fetches an arguably rich premium, near a 30 P/E, for its defensive properties against the swings of AI sentiment and spending.
+SUBSCRIBE TO MIKE SANTOLI'S MARKET MEMO HERE`,
+    bodyJa: `まず、Mike Santoli のマーケット メモを受信箱で入手してください。ここから購読してください
+映画と同様に市場でも、第 2 幕のゆっくりとした静かなシーンを通じてサスペンスが高まります。
+株式市場は、取引量の少なさと指数の取引範囲の狭さにより、上昇傾向を保ったまま8月を乗り切るのに十分な成績を収めている。
+S&P500指数は3週間前の終値から0.5パーセント以内に位置している。 7800をわずかに上回る過去最高値を記録して以来、2週間で前かがみになり曖昧な状況が続いている。
+しかし、同指数は最高値の２％以内にとどまっており、これまでの下落により、以前の複数カ月の範囲の最高値を数ポイント上回る水準で止まっている。
+確かに、NVIDIA の好調な業績と大胆な指導を歓迎した安堵感の湧き上がりは劇的でした。しかし、週全体では株価はわずか1.3％上昇し、3カ月前の水準に戻った。
+半導体企業はグループ全体として「あるべき」位置を維持し、7月以降の反発路線を維持した。
+言い換えれば、市場はポートフォリオマネジャーの邪魔をするようなことは一切行わないよう最善を尽くしてきたということだ。
+ここでは、嵐の前の静けさ、夏の終わりのハリケーン、そして9月市場の厳しい現実についての議論が期待されるようになっています。
+はい、どこでも指摘されているように、歴史的に9月は株にとって一年で最悪の月です。しかし、期待を抑えておくこと以外に、この事実から何を理解するつもりなのかは全く不明である――私の本では常にそうすることが推奨されている。夏の終わりの中間選挙年の弱さのほとんどが直後に回復以上だったことを考えると、適切な行動方針はさらに不透明になっている。
+過去の月次収益パターンには大きなばらつきがあります。 2026 年のように、その年の株価がすでに好調であれば、9 月はそれほど怖くありません。
+20年、80年、100年遡ると月次業績の順位は大きく変わります。これらの範囲はいずれも、統計的に有意なサンプルを実際に表すものではありません。そしてもちろん、これはすべて暦月に関するものであり、市場履歴の 30 日間のすべてのスライスを意味するわけではありません。
+Vix、主要な水準での 10 年国債利回り
+これらすべてを踏まえると、私が今警戒すべき理由は、純粋に月の変わり目ということではなく、S&Pや8月のセミと同じように、さまざまな重要な市場指標が重大な閾値付近に渦巻いており、それらを超えた場合には市場の性質の変化を示唆する可能性があるという事実だと私は主張する。
+CBOE S&P 500 ボラティリティ・インデックス (VIX) は 15 を下回りました。最近の穏やかなレンジと、セクターのローテーションと低相関が指数レベルのボラティリティを抑制する時計仕掛けの仕組みを考慮すると、当然のことです。
+それでも、15 歳をはるかに下回ると、「快適な安定」から遠ざかり、「不気味な自己満足」の領域に向かっています。歴史的に見て、この時期の取引量はかなり明らかに高く偏っています。今のところ、VIX 先物曲線は今後数カ月に向けて健全な上向きに傾いていますが、状況は急速に変化する可能性があります。
+10年米国債利回りは4.7％を再び超え、金曜のジャクソンホールでのケビン・ウォーシュ連邦準備制度理事会議長の、短期金利は頑固なインフレに対抗する手段であり、すぐに使用する必要があるかもしれないという短期金利の見解を委員会と共有するという明確なメッセージの一端に反応している。
+先週議論したように、債券がニーキャップ株の利回りを示す既知のトリップワイヤーレベルは存在しません。債券のボラティリティの急激な上昇は、金利が着実に上昇するよりも株価に大きなダメージを与える傾向があります。 （みんながそう言っているからといって、それが間違っているというわけではありません。）
+それでも、FRBの次の動きを巡る不安自体がテープを彩るかもしれない。ウォーシュ氏の金曜日の講演後、市場が示唆する９月利上げの確率は５０％をやや上回る水準となった。
+FRBの決定まで3週間以内にコイントスに近い確率が発生するのは、一種の「もしも」だ。これはリスク選好を抑制できる提案であり、企業の設備投資の積極性と住宅・消費者の警戒という2つのスピードで経済が動いている状況に直面している、コミュニケーション力の低いFRBの特徴となるかもしれない。
+もう一度言いますが、5％弱の10年米国債利回りは、現在の5～6％の名目成長経済と乖離していません。現在のフェデラルファンド政策金利を異常に大きく上回るわけでもない。
+しかし、まだピンチになる可能性がありますか？
+確かに、今日多くのハイテク強気派が指摘しているように、90年代後半のハイテクブームと完全雇用の記念碑は5～6％の利回りで起きた。しかし、当時は 5 ～ 6% が「低い」金利だと認識されていました。
+90年代のバブルが膨張するにつれ、米国債は10年以上にわたり大規模な長期強気相場に入った。この 10 年間は 10 株の利回りが 9% 近くで始まり、ネットスケープの IPO がインターネット株の熱狂を引き起こす 8 か月前の 1994 年 12 月の時点では 8% をわずかに下回っていました。
+現在の5％に向けた利回りの上昇は、現在の投資世代にとってより煩わしいものに感じられ、近年発行された債券のほとんどは価格の面で水面下にある。
+（明るい面としては、現在、高格付債券の買い手はそこそこの名目利回りと実質利回りのバッファーを享受しており、利回りが1パーセントポイント低下した場合、債券の価値は同等の上昇で失うよりも大きくなるだろう。）
+利回りがレンジの上限を押し上げていることは別として、広範な商品指数は5年ぶりの高値に向けて上昇しており、社債スプレッドは著しく縮小しており、私が注目している奇妙なリスク選好の指標の1つ、つまり低品質/割安のシティとディフェンシブ/高価なJPモルガンの相対的なパフォーマンスは、2026年初頭のブレイクアウトレベルに向けて後退している。この比率は6月のSpaceX IPOの直前にピークに達し、その時はAI取引の流行におけるウォール街の役割に対する熱狂が明白であった。
+1年の第3幕であり最後の幕が始まる9月への変わり目の主な特徴は、アナリストと投資家が来年についての見方を調整し始めることだ。企業カンファレンスシーズンが本格化し、夏以降は収益モデルを刷新する必要がある。
+現在、注目されているのは、誇張されているとしても、今年の英雄的なペースから避けられない利益成長の減速を株価がどのように代謝するかである。チャールズ・シュワブ氏は先週、エヌビディアとマイクロンを合わせて2026年の総利益成長率の3分の1をもたらし、稼ぎ頭上位10社が3分の2を占めていると指摘した。
+はい、中央値の企業は利益成長に戻りましたが、程度はそれほど印象的ではありませんでした。そして、均等加重の S&P 500 の 15% の上昇がすでにその大部分を占めているのでしょうか?
+市場温度計
+マクロ リスク アドバイザーズのジョン コロボス氏によるこの指標は、投資家の発言と行動の両方を反映するためにいくつかのデータ ポイントを使用しています。
+最新のデータについてコロヴォス氏は「全体的にはほとんど変化はないが、インベスターズ・インテリジェンスなどの調査データでは強気派が多すぎることが示されている一方、リアルタイムの市場指標では比較的高い満足感が示されており、地合いは過度に強気に傾いている」と述べた。
+ストリートの周り
+予測市場は、懐疑的なレンズを通して、社会的に有用なリスク管理の場であると見せかけることで、ギャンブルへの無謀な大衆の衝動を洗浄しようとします。
+以前はスポーツ賭博が許可されていなかった州も含めて、プラットフォーム上でのスポーツ賭博が優勢であることは、この議論に直接役立つことはほとんどありません。公人がどのような言葉を発するかについての軽薄な契約も同様である。
+しかし、逆張りの政治批評・風刺雑誌『バッフラー』は先週、今や活力を持っているが閑散とした保険業界が、ロンドンのコーヒーハウスで（海上貨物保険の価格設定と並行して）何でもありの賭けへの同様の熱意からどのようにして生まれたのかを詳述する長いエッセイを掲載した。
+「この保険は国際遠征の遂行に不可欠なものとなったが、ロイズや18世紀のロンドンの保険会社の間で起こっていたことすべてが商業にとってそれほど重要だったわけではない。商船が沈まないようにするのと同じくらい、教皇が死ぬことに『保険』をかける人もいた。実際、人が生きるか死ぬかについての賭けは信じられないほど人気があった。ギャンブラーは処刑を待つ囚人や著名人の運命に賭けた。」病気が新聞で報道された人々。」
+思考の材料であり、結果として生じる経済的リスクの価格を見積もるのに必要な投機的衝動は、投資家の衝動と切り離せないものであることを思い出させてくれます。
+それでも、既存の株価指数や公開株式や非公開株式と結び付けられた同じ新興取引所の一部に上場される「永久先物」の急増は、常に20世紀初頭の「バケツショップ」での行為を思い出させます。私が何度か放送で指摘したように、大恐慌時代の証券法ではそのような行為が特に禁止されていました。
+ウォール・ストリート・ジャーナルのジェイソン・ツヴァイク氏は、金融の歴史を包括的に把握し、それを浮き彫りにする巧みなタッチで、その反響をここで探ります。
+市場はクローズ
+Nvidia をカバーするアナリスト部隊は、ほとんどが熱狂的です。株価のコンセンサス目標株価は、ここからの50％の上昇と7.5兆ドルの市場価値を意味します。彼らは、圧縮された評価額を信じられない様子で見つめながら、NVIDIA の規模では前例のない目覚ましい収益と利益の成長を追い求めているだけです。
+株価は今後12カ月間の予想利益の20倍を下回り、来期予想の15倍も下回っている。フリーキャッシュフローで言えば、これは明らかに最も安価なメガキャップです。
+ここで私が読んだのは、同社がヒット主導型のハードウェアメーカーではないことを長期サイクルを通じて証明するまでは、近いうちにピークに達する可能性のある利益成長に対して市場はプレミアムを支払うことを拒否するだろう、ということだ。
+最近の歴史に関連する可能性のある前例があります。 Apple は、最初に iPhone を発売して大利益を上げてから数年間、その評価額が同様の坂を下降しました (2010 年代初頭の市場では、それ自体が今日よりも安価でした)。
+Appleにとって長年の打撃は、ハイテク機器のマージンが常に蒸発し、スマートフォンがコモディティ化することなどだった。
+スムーズで信頼性の高いアップグレード サイクルを実証し、サービスベースの収益源を育成し、自社株買いや配当を通じて巨額の資本を還元することで、Apple はしつこい評価額の割引から徐々に解放されました。
+現在、Apple は、AI のセンチメントと支出の変動に対する防御特性に対して、PER 30 倍近くというおそらく高額なプレミアムを付けています。
+ここからマイク・サントリのマーケットメモを購読してください`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
+    publishedAt: "2026-08-31T11:40:29+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "france-is-becoming-the-poster-child-of-s-0099d86d",
     title: "France is becoming the ‘poster child’ of sovereign debt problems as government borrowing costs hit near 2008 highs",
     titleJa: "政府の借入コストが2008年の最高値近くに達し、フランスはソブリン債務問題の「代表作」になりつつある",
@@ -1676,258 +1896,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     publishedAt: "2026-08-29T11:53:36+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "meta-s-18-billion-settlement-puts-tiktok-ce19f222",
-    title: "Meta’s $18 billion settlement puts TikTok and YouTube on notice. Who's next on the firing line?",
-    titleJa: "Meta の 180 億ドルの和解により、TikTok と YouTube は注目を集めています。次に発砲するのは誰でしょうか？",
-    summaryJa: "メタ社がオンラインで子どもを守るようライバル社に呼び掛けた後、ある経営学教授はCNBCに対し、「メタ社は競合他社にも同じルールを適用させようとしている」と語った。",
-    bodyOriginal: `Meta's watershed social media trial just wrapped up in California, but now attention is shifting to the wider industry with TikTok, YouTube and Snap next on the firing line.
-The Instagram and Facebook owner settled in week two of a trial brought by a coalition of tens of U.S. states alleging that the tech giant had misled the public about the harms its platforms posed to younger users.
-The agreement includes a payment of up to $18 billion, part of which is tied to conditional action by other social media giants. Meta said it would also make fundamental changes to its platforms for users under the age of 18, including but not limited to a 2-hour daily usage limit that only a parent can lift, disabling extreme makeup and cosmetic surgery filters, tighter age verification measures, and night mode.
-Meta said it would only pay 70% of the settlement, or around $12.7 billion to the states over a period of 10-years. The remaining $5.3 billion is conditional on the company's rivals TikTok and Alphabet's YouTube also making similar changes to their apps for younger users.
-California's Attorney General Rob Bonta, a co-lead in this case alongside New Jersey, Colorado, and Kentucky, said Meta's settlement "gives notice to others in the industry that we're not done, and we expect similar outcomes from them as well."
-"No company wants what Meta faced in Oakland," Rob Lalka, a professor of practice in management at Tulane University and author of "The Venture Alchemists: How Big Tech Turned Profits Into Power," told CNBC.
-"I'd expect TikTok, YouTube, and Snapchat to make changes before they ever face that scene. These platforms depend entirely on being trusted, by parents, by users, by advertisers, and the settlement reflects a business decision about reputational risk, which now the boards of these other companies must also make," Lalka added.
-CNBC has contacted YouTube, TikTok and Snap for comment.
-Social media giants were already facing increased pressure this year as governments worldwide consider enforcing teen social media bans. Meanwhile, Meta, TikTok, YouTube and Snap have faced a litany of lawsuits.
-Meta and YouTube lost in a social media addiction trial in Los Angeles earlier this year, which was brought by a plaintiff who claimed her mental health was damaged by addictive features like autoplay and infinite scrolling.
-Meta also lost a separate social-media case brought by New Mexico Attorney General Raul Torrez, after a court found that the company violated the state's child-safety laws and ordered it to pay over $900 million in penalties.
-'We're continuing our fight'
-Now that the Meta case has been settled, California's Bonta said, "We'll be continuing our fight across social media," by pursuing lawsuits against the big players like TikTok, Snap and YouTube.
-In an interview with CNBC on Thursday, Bonta said he approved of Meta calling out other platforms in the settlement. "That is appropriate. This is something that requires an industry-wide solution."
-He explained that the state of California is currently pursuing active litigation against TikTok.
-"We are suing TikTok now so we are looking to ensure that they adopt the similar practices and commitments that Meta did, and we are very interested in Snap and YouTube as well," Bonta said.
-Bonta, New York's Attorney General Letitia James, and 14 other state attorneys filed a lawsuit against TikTok in 2024 for violating consumer protection laws. They said that TikTok harms younger users with addictive features that maximize the amount of time they spend on the platform. The case is ongoing.
-Bonta added that the state is in communication with Snap, and is pursuing conversations with TikTok, with hopes that YouTube will also come to the table.
-Read more
-While Meta is attempting to frame itself as a leader on online youth safety, it neglected those issues for years, according to Lalka.
-"Let's be clear about how we got here. It took attorneys general stepping in after the harm was already done, because Congress never passed a law to prevent it.
-"These new rules didn't come from elected policymakers, they were negotiated in a settlement with the company being regulated, and Meta is seeking to ensure its competitors will face the same rules," Lalka said.`,
-    bodyJa: `Metaの重要なソーシャルメディア裁判はカリフォルニアで終わったばかりだが、現在はTikTok、YouTube、Snapが次に火をつけるとして、注目は業界全体に移っている。
-インスタグラムとフェイスブックのオーナーは、テクノロジー大手が自社のプラットフォームが若いユーザーにもたらす害について国民に誤解を与えたと主張する米国数十の州連合が起こした裁判の第２週で和解した。
-この合意には最大180億ドルの支払いが含まれており、その一部は他のソーシャルメディア大手による条件付き措置に関連している。 Metaはまた、18歳未満のユーザー向けにプラットフォームに根本的な変更を加えると述べた。これには、保護者のみが解除できる1日2時間の使用制限、過激なメイクや美容整形フィルターの無効化、年齢確認措置の厳格化、ナイトモードなどが含まれるがこれに限定されない。
-メタ社は、10年間で和解金の70％、つまり約127億ドルのみを各州に支払うと述べた。残りの53億ドルは、同社のライバルであるTikTokやアルファベット傘下のYouTubeも若いユーザー向けにアプリに同様の変更を加えることが条件となっている。
-ニュージャージー州、コロラド州、ケンタッキー州とともにこの訴訟の共同責任者であるカリフォルニア州のロブ・ボンタ司法長官は、メタ社の和解は「業界の他の人々に、私たちがまだ終わっていないことを知らせるものであり、私たちは彼らからも同様の結果を期待している」と述べた。
-「メタがオークランドで直面したことを望んでいる企業はいない」とチューレーン大学の実践経営学教授であり、『The Venture Alchemists: How Big Tech Turned Profit Into Power』の著者であるロブ・ラルカ氏はCNBCに語った。
-「私は、TikTok、YouTube、Snapchatがそのような事態に直面する前に変化を起こすことを期待している。これらのプラットフォームは、保護者、ユーザー、広告主からの信頼に完全に依存しており、今回の和解は風評リスクに関するビジネス上の決定を反映しており、今後はこれら他の企業の取締役会も同様の決断を下さなければならない」とラルカ氏は付け加えた。
-CNBCはYouTube、TikTok、Snapにコメントを求めた。
-世界中の政府が青少年向けソーシャルメディア禁止の施行を検討しているため、ソーシャルメディア大手は今年すでにさらなる圧力にさらされていた。その一方で、Meta、TikTok、YouTube、Snapは度重なる訴訟に直面している。
-MetaとYouTubeは、今年初めにロサンゼルスで行われたソーシャルメディア依存症裁判で敗訴した。この裁判は、自動再生や無限スクロールなどの中毒性のある機能によって精神的健康が損なわれたと主張する原告が起こしたものである。
-メタ社はまた、裁判所が同社が州の児童安全法に違反していると認定し、9億ドル以上の罰金の支払いを命じた後、ニューメキシコ州のラウル・トーレス司法長官が起こした別のソーシャルメディア訴訟でも敗訴した。
-「我々は戦いを続けている」
-メタ訴訟は和解した今、カリフォルニア州のボンタ氏は、TikTok、Snap、YouTubeなどの大手企業に対する訴訟を進め、「ソーシャルメディア全体で闘いを続ける」と述べた。
-ボンタ氏は木曜日のCNBCとのインタビューで、メタ社が和解で他のプラットフォームに言及することを承認すると述べた。 「それは適切です。これは業界全体の解決策が必要な問題です。」
-同氏は、カリフォルニア州が現在TikTokに対する積極的な訴訟を進めていると説明した。
-「我々は現在TikTokを訴訟しているので、彼らにもMetaと同様の慣行と取り組みを確実に採用してもらいたいと考えている。我々はSnapとYouTubeにも非常に興味を持っている」とボンタ氏は語った。
-ボンタ氏、ニューヨーク州司法長官レティシア・ジェームス氏、その他14人の州検事らは2024年、消費者保護法違反でTikTokを相手に訴訟を起こした。 TikTokは、プラットフォーム上で費やす時間を最大限にする中毒性のある機能により、若いユーザーに害を与えていると彼らは述べた。事件は進行中だ。
-ボンタ氏は、州はスナップと連絡を取り合っており、YouTubeも交渉のテーブルにつくことを期待してTikTokとの協議を進めていると付け加えた。
-続きを読む
-ラルカ氏によると、メタ社はオンラインでの青少年の安全に関するリーダーとしての地位を確立しようとしているが、こうした問題を長年無視してきたという。
-「私たちがどのようにしてここに至ったのかを明確にしておこう。議会はそれを防ぐ法律を一度も可決しなかったため、すでに被害があった後で司法長官が介入する必要があった。
-「これらの新しい規則は、選挙で選ばれた政策立案者によってもたらされたものではなく、規制対象の企業との和解で交渉されたものであり、メタは競合他社が同じ規則に確実に従うよう努めている」とラルカ氏は述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/29/meta-settlement-tiktok-youtube-snap-teen-safety.html",
-    publishedAt: "2026-08-29T05:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "footage-of-tibet-floods-isn-t-being-show-acc9fde2",
-    title: "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-    titleJa: "チベットの洪水の映像は中国では放映されていない - そして現地の犠牲者についてはほとんどわかっていない",
-    summaryJa: "チベットの洪水の映像は中国では放映されていない - そして現地の犠牲者についてはほとんどわかっていない- 公開されました",
-    bodyOriginal: `Footage of Tibet floods isn't being shown in China - and we know little about victims there
-- Published
-The dramatic footage was almost impossible to miss. A torrent of water tearing through Gyirong Port, one of the main border crossings between Nepal and Tibet, sweeping away all in its path as hundreds of people fled for their lives.
-The scenes, captured by CCTV cameras, quickly spread on social media and onto screens around the world.
-Except here, in China.
-Only a single still-frame shot has been broadcast so far by the country's state-run flagship news bulletin.
-It has also been difficult to find the video on China's heavily censored internet. It is just as hard to even find posts describing the flash flooding that has claimed hundreds of lives, with just as many still unaccounted for since Wednesday.
-Beijing has launched a massive rescue operation involving hundreds of emergency workers, which is continuing, and President Xi Jinping chaired an emergency meeting with officials to co-ordinate efforts.
-But when you compare the country's internet content to what much of the world has been seeing online these past few days, China's firewall becomes more visible than ever.
-Tibet, which Beijing annexed in the 1950s, had long resisted rule by the Chinese Communist Party.
-China has quashed protests over the years, sometimes violently, and has been accused of grave rights violations in the Buddhist region. It has labelled the exiled spiritual leader, the Dalai Lama, a separatist.
-That history means the very name Tibet draws China's censors. Beijing's sensitivities are especially apparent at times likes this.
-There have been daily updates on the missing and the dead, and Beijing has also been posting updates on the rescue operations, as well as the dangers posed by a barrier lake that has been at risk of overflowing.
-On Saturday, new footage from Chinese state media showed rescue teams wandering in a wasteland of mud and rock while calling out to anyone trapped.
-But there is little detail beyond that. There are no accounts from survivors in Tibet, and almost no user-generated footage showing the deadly moments or their aftermath.
-We are yet to hear from anxious families of those missing. Trying to contact people there is near-impossible during regular times.
-As a journalist who has covered North Korea, it has often been easier for me to contact interviewees in Pyongyang than it is in the Tibetan capital, Lhasa.
-On Thursday night, as global headlines led on the devastation in a Himalayan valley, China's state broadcaster opened its main bulletin with the launch of Xi's new book, a selection of his "most important and fundamental works".
-Foreign journalists cannot travel to Tibet without government permission. We have just a few hours to get as much information as we can on huge stories like this before videos are scrubbed and voices stifled.
-Instead, we have to rely on state media, which has so far focused on incredibly dramatic rescue efforts.
-Specialist search teams scaling mountains and cliff faces, or crossing raging rivers to try to get to the worst-affected areas. We don't yet know what happened afterwards, or who they were able to save.
-This is not to say that Beijing is unconcerned. Rather, they are very concerned.
-China's Premier Li Qiang was quickly despatched to the region, where he was seen inspecting debris removal - a rare visit by the country's second-most important leader so soon after a major disaster.
-The reason for what the world might see as a muted response is to preserve the one thing Xi covets for his country: stability.
-The Communist Party will fear that such a disaster could fuel discontent, either with the response or the lack of foresight to prevent it.
-It may also fear the impact of a tragedy like this and its potential to be a rallying factor, especially in a community where faith has long played a central role.
-Although the region has not seen protests in a long time, Tibetan groups abroad have expressed concern over increasing Chinese control, such as new education laws that they say aim to weaken the role of monasteries and the Buddhist faith.
-Just hours after the disaster struck, the Communist Party machine tried to rally its grassroots to stem any signs of discontent of its handling of the landslide.
-A notice came from the local party office urging members to step up and help in disaster relief efforts in their area and provide emotional guidance or psychological support to affected residents.
-The key line instructs them to "make every effort to maintain social order and ensure stability and public confidence in the disaster areas". Those who perform well would be rewarded - and those who do badly "would be held accountable".
-It is a warning that will not be taken lightly. Tibetans in the region can be detained or arrested for speaking to journalists or posting anything online that is seen as contrary to the government narrative, according to rights activists.
-That is making it difficult for Tibetans outside the region to find out what has happened to their relatives.
-The International Campaign for Tibet, while praising the work of first responders in the area, said Beijing had been removing videos and other first-hand information from social media. It called on Chinese authorities to "disclose complete and verifiable information about the damage and casualties".
-To try to understand what life is like for Tibetans, the BBC travelled to a town that sits on the edge of the Himalayan plateau last year - just outside what China calls the Tibetan Autonomous region.
-There, we spoke to monks at the Kirti monastery in Aba, or Ngaba in Tibetan, which was once at the heart of its resistance to Beijing. "We Tibetans are denied basic human rights," one monk told us.
-They said they lived under constant surveillance and claimed the Chinese government oppressed and persecuted Tibetans. The conversations were brief because we could not be seen speaking to anyone for long.
-Beijing denies it is violating Tibetans' rights, and points to the heavy investments it has made in the region to boost tourism and integrate it with the rest of the country.
-Nevertheless, people in China will not know very much about what is happening in Tibet right now.
-- Published2 days ago`,
-    bodyJa: `チベットの洪水の映像は中国では放映されていない - そして現地の犠牲者についてはほとんどわかっていない
-- 公開されました
-ドラマチックな映像を見逃すことはほぼ不可能でした。ネパールとチベットの間の主要な国境検問所の一つであるギロン港を激流が引き裂き、何百人もの人々が命からがら逃げ出す中、進路上のすべての人を押し流した。
-監視カメラが捉えたその光景は、ソーシャルメディアや世界中のスクリーン上ですぐに拡散した。
-ここ、中国を除いて。
-これまでのところ、国営の主要ニュース速報で放送されたのは静止画1枚だけだ。
-中国の厳しく検閲されたインターネット上でこのビデオを見つけることも困難だった。数百人の命を奪った鉄砲水について説明する投稿を見つけることさえ同様に困難であり、水曜日以降も同様に多くの人が未だに行方不明となっている。
-中国政府は数百人の救急隊員を動員した大規模な救助活動を開始し、現在も続いており、習近平国家主席は取り組みを調整するため当局者らとの緊急会議の議長を務めた。
-しかし、この国のインターネット コンテンツと、ここ数日世界中でオンラインで見られているコンテンツを比較すると、中国のファイアウォールがこれまで以上に目立つようになります。
-中国政府が1950年代に併合したチベットは長年、中国共産党による支配に抵抗してきた。
-中国は長年にわたって抗議活動を時には暴力的に鎮圧しており、仏教地域における重大な権利侵害で非難されてきた。亡命した精神的指導者ダライ・ラマを分離主義者とレッテルを貼った。
-その歴史は、チベットという名前そのものが中国の検閲官を惹きつけることを意味する。北京の敏感さは、今回のような時に特に顕著に表れる。
-行方不明者や死者に関する最新情報は毎日更新されており、北京政府も救助活動や氾濫の危険にさらされている堰堤湖がもたらす危険性に関する最新情報を投稿している。
-土曜日、中国国営メディアが報じた新たな映像には、救助隊が泥と岩の荒れ地をさまよいながら、閉じ込められた人たちに声をかけている様子が映っていた。
-しかし、それ以上の詳細はほとんどありません。チベットの生存者からの証言はなく、致命的な瞬間やその余波を示すユーザー作成の映像もほとんどありません。
-行方不明者の不安を抱える家族からの連絡はまだ届いていない。通常の時間帯にそこにいる人々と連絡を取ろうとすることはほぼ不可能です。
-北朝鮮を取材してきたジャーナリストとして、私にとっては、チベットの首都ラサよりも平壌のほうが取材対象者と連絡を取るのが簡単だったことがよくある。
-木曜夜、世界的な見出しがヒマラヤ渓谷の惨状につながる中、中国国営放送は主報の冒頭で、習主席の「最も重要かつ基本的な著書」から選ばれた新著を発表した。
-外国人ジャーナリストは政府の許可なしにチベットに渡航することはできない。ビデオが削除されたり、声が押し殺されたりする前に、このような巨大な記事についてできる限り多くの情報を入手するのに、私たちにはほんの数時間しかありません。
-代わりに、私たちは国営メディアに頼らなければなりません。国営メディアはこれまで信じられないほど劇的な救出活動に焦点を当ててきました。
-専門の捜索チームが山や崖をよじ登ったり、荒れ狂う川を渡ったりして、最も被害が大きかった地域に到達しようとします。その後何が起こったのか、彼らが誰を救うことができたのかはまだわかっていません。
-これは中国政府が無関心だと言っているわけではない。むしろ、彼らはとても心配しているのです。
-中国の李強首相はすぐにこの地域に派遣され、がれきの撤去を視察する姿が見られたが、大規模災害発生直後に中国で２番目に重要な指導者がこれほど早く訪問したのは異例のことだった。
-世界が控えめな反応とみなすかもしれないその理由は、習氏が自国に切望する唯一のもの、つまり安定を維持するためだ。
-共産党は、このような災害が対応やそれを防ぐための先見性の欠如によって不満を煽る可能性があることを懸念するだろう。
-また、特に信仰が長い間中心的な役割を果たしてきたコミュニティにおいて、このような悲劇がもたらす影響と、それが結集の要因となる可能性を恐れているのかもしれない。
-この地域では長い間抗議活動が起きていないが、海外のチベット人団体は、僧院の役割や仏教信仰を弱めることを目的としているとする新教育法など、中国の支配が強まることに懸念を表明している。
-災害発生からわずか数時間後、共産党組織は土砂崩れへの対応に対する不満の兆候を阻止するために草の根の結集を試みた。
-地元の党事務所からは、会員に対し、自らの地域での災害救援活動に積極的に協力し、被災住民に精神的な指導や心理的支援を提供するよう促す通知が届いた。
-要点は「社会秩序を維持し、被災地の安定と国民の信頼を確保するためにあらゆる努力をする」と指示している。良い成績を収めた者には報酬が与えられ、悪い成績を収めた者は「責任を問われる」ことになる。
-これは軽視してはならない警告です。人権活動家らによると、この地域のチベット人は、ジャーナリストと話したり、政府の主張に反すると思われる内容をオンラインに投稿したりした場合、拘留または逮捕される可能性があるという。
-そのため、地域外のチベット人が自分たちの親族に何が起こったのかを知ることが困難になっている。
-チベット国際キャンペーンは、同地域での初期対応者の活動を称賛する一方で、中国政府がソーシャルメディアからビデオやその他の直接情報を削除していると述べた。中国当局に対し「被害と死傷者に関する完全かつ検証可能な情報を開示する」よう求めた。
-チベット人の生活がどのようなものかを理解しようと、BBCは昨年、ヒマラヤ高原の端、中国がチベット自治区と呼ぶ地域のすぐ外側にある町を訪れた。
-そこで私たちは、かつて北京への抵抗の中心地だったアバ、またはチベット語でンガバのキルティ僧院の僧侶たちに話を聞いた。 「私たちチベット人は基本的人権を否定されています」と、ある僧侶は私たちに語った。
-彼らは常に監視下で暮らしていると主張し、中国政府がチベット人を弾圧し迫害していると主張した。私たちが誰とも長く話しているところは見られなかったので、会話は短時間でした。
-中国政府はチベット人の権利を侵害していることを否定し、観光業を促進し、国内の他の地域と統合するために同地域に多大な投資を行っていると指摘している。
-それにもかかわらず、中国の人々はチベットで今何が起こっているのかをあまり知らないでしょう。
-- 2 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-29T03:54:11+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
-    readTime: 7,
-  },
-  {
-    id: "trump-hails-historic-deal-for-us-to-cont-c06ee050",
-    title: "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-    titleJa: "トランプ大統領、米国がベネズエラ産原油650億バレルを管理する「歴史的な」合意を称賛",
-    summaryJa: "トランプ大統領、米国がベネズエラ産原油650億バレルを管理する「歴史的な」合意を称賛- 公開されました",
-    bodyOriginal: `Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
-- Published
-The US has reached a deal with Venezuela to control more than 65 billion barrels of its proven oil reserves, President Donald Trump announced.
-"This Historic Transaction MORE THAN DOUBLES American Oil Reserves, greatly increases our Oil Supply, and will substantially lower Gas Prices for all Americans," Trump posted on social media.
-Venezuela's interim President, Delcy Rodriguez, hailed the agreement as one that would help her nation's economic revival.
-Trump vowed to tap Venezuela's reserves, the world's largest, after the US captured its then-President Nicolás Maduro this year. More recently, Trump has been under pressure to tame domestic petrol prices, which spiked amid the Iran conflict.
-Secretary of State Marco Rubio called the oil deal "a huge win for both the American and Venezuelan people". Few details were released.
-"For the Venezuelan people, this deal will bring nearly $100 billion in private investment, support thousands of high-paying jobs, and drive the reconstruction of Venezuela's economy," Rubio said on social media.
-In his own post, Trump said Rubio and Defence Secretary Pete Hegseth had reached the agreement with Venezuela's leadership "through a partnership with private business".
-He did not elaborate on the partnership or describe possible commitments and terms for the US in the deal, but he claimed the agreement was reached "at no cost to the American Taxpayer".
-Venezuela's interim president said in a statement that the agreement would have "a significant impact on our nation's revival".
-The deal calls for the development of 17 strategic oil fields with a proven potential of 65 billion barrels, as well as "an investment of more than $100 billion, and more than $209 billion in taxes for the State", Rodriguez said.
-"These investments will contribute not only to the recovery and modernization of our industry, but also to our country's economic growth, the energy security of our hemisphere, and greater balance in international markets," she said.
-Under the deal the US government will retain 55% control of a joint venture with an "experienced private operator in Venezuela", a US official told the BBC's media partner CBS News.
-Rodriguez gave the venture a 100-year concession to operate in the oil fields, according to the official.
-Trump gave few specifics of the highly unusual agreement, which apparently grants the US direct governance over a foreign country's sovereign national resources.
-The deal would also appear to be wider in scope than the US-led Coalition Provisional Authority's control over Iraq's oil revenues after Saddam Hussein was ousted in an American-led invasion in 2003.
-But it is unclear whether the Venezuela agreement could face legal and constitutional challenges in the South American nation. The official text of the agreement between Washington and Caracas has not been released.
-President Maduro and his wife, Cilia Flores, were seized in a US special forces operation authorised by Trump on 3 January.
-In the hours after the raid, Trump said his administration would run Venezuela until a "safe, proper and judicious transition" could take place, adding that the US would indefinitely control the sale of the country's oil.
-Venezuela has the largest proven oil reserves in the world - an estimated 303 billion barrels. However, production has plummeted since its peak in the late 1990s.
-Trump has asked US oil firms to invest at least $100bn (£75bn) to restore the country's oil industry.
-He has also claimed the rights to Venezuela's oil after saying that the country had in the past "unilaterally seized and sold American oil, American assets and American platforms, costing us billions and billions of dollars".
-- Published30 January`,
-    bodyJa: `トランプ大統領、米国がベネズエラ産原油650億バレルを管理する「歴史的な」合意を称賛
-- 公開されました
-ドナルド・トランプ大統領は、米国がベネズエラと確認された石油埋蔵量650億バレル以上を管理する合意に達したと発表した。
-トランプ大統領はソーシャルメディアに「この歴史的な取引によりアメリカの石油埋蔵量は2倍となり、石油供給が大幅に増加し、全アメリカ国民のガソリン価格が大幅に引き下げられるだろう」と投稿した。
-ベネズエラの暫定大統領デルシー・ロドリゲスは、この協定が国の経済復興に役立つものであると称賛した。
-今年米国が当時のニコラス・マドゥロ大統領を拘束したことを受け、トランプ大統領は世界最大のベネズエラの埋蔵金を活用すると誓った。最近では、トランプ大統領はイラン紛争で高騰した国内のガソリン価格を抑制するよう圧力を受けている。
-マルコ・ルビオ国務長官は、石油協定は「アメリカ国民とベネズエラ国民の双方にとって大きな勝利だ」と述べた。詳細はほとんど公開されなかった。
-ルビオ氏はソーシャルメディアで「この協定はベネズエラ国民にとって１０００億ドル近い民間投資をもたらし、数千の高賃金雇用を支援し、ベネズエラ経済の再建を促進するだろう」と述べた。
-トランプ大統領は自身の投稿で、ルビオ氏とピート・ヘグセス国防長官が「民間企業とのパートナーシップを通じて」ベネズエラ指導部と合意に達したと述べた。
-同氏は提携について詳しくは述べなかったし、合意における米国の約束や条件の可能性については説明しなかったが、合意は「米国の納税者の負担なく」合意に達したと主張した。
-ベネズエラ暫定大統領は声明で、この協定は「我が国の復興に重大な影響を与える」と述べた。
-ロドリゲス氏は、この協定では、650億バレルの潜在力が確認されている17の戦略的油田の開発のほか、「1000億ドル以上の投資と2090億ドル以上の国税」が求められていると述べた。
-「これらの投資は我が国産業の回復と近代化だけでなく、我が国の経済成長、我が国半球のエネルギー安全保障、国際市場のバランス向上にも貢献するでしょう」と彼女は述べた。
-この協定に基づき、米国政府は「ベネズエラの経験豊富な民間事業者」との合弁事業の55％の支配権を保持することになる、と米国当局者がBBCのメディアパートナーであるCBSニュースに語った。
-関係者によると、ロドリゲス氏はこのベンチャー企業に油田での操業について100年間の譲歩を与えたという。
-トランプ大統領は、外国の主権国家資源に対する米国の直接統治を明らかに認める極めて異例な協定の詳細についてはほとんど言及しなかった。
-この協定はまた、2003年の米国主導の侵攻でサダム・フセインが失脚した後のイラク石油収入に対する米国主導の連合暫定当局の管理よりも範囲が広いとみられる。
-しかし、ベネズエラ合意が南米の国において法的、憲法上の問題に直面する可能性があるかどうかは不透明だ。ワシントンとカラカス間の合意の正式文書は公表されていない。
-マドゥロ大統領とシリア・フローレス夫人は1月3日、トランプ大統領が認可した米軍特殊部隊の作戦で拘束された。
-襲撃から数時間後、トランプ大統領は「安全で適切かつ賢明な政権移行」が実現するまでベネズエラを運営すると述べ、米国が同国の石油販売を無期限に管理すると付け加えた。
-ベネズエラには世界最大の確認石油埋蔵量があり、その量は推定3,030億バレルです。しかし、1990年代後半のピークから生産量は激減。
-トランプ大統領は米国の石油会社に対し、同国の石油産業を回復するために少なくとも1000億ドル（750億ポンド）を投資するよう要請した。
-同氏はまた、ベネズエラが過去に「米国の石油、米国の資産、米国のプラットフォームを一方的に押収・売却し、何十億ドルもの損害を与えた」と述べ、ベネズエラの石油に対する権利を主張した。
-- 1 月 30 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-29T02:42:27+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-    readTime: 4,
-  },
-  {
-    id: "trump-announces-deal-with-venezuela-to-s-fc67d03f",
-    title: "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
-    titleJa: "トランプ大統領、650億バレル以上の石油埋蔵量を確保するベネズエラとの合意を発表",
-    summaryJa: "イランとの戦争で世界の原油貿易が混乱する中、米国はベネズエラと650億バレル以上の石油埋蔵量の過半数の支配権を得る協定を結んだと、ドナルド・トランプ大統領が金曜日に発表した。トランプ大統領は夕方のソーシャルメディアへの投稿で、「世界史上最大の石油取引」と宣伝したこの合意は米国の納税者に「無償」で提供されると述べた。",
-    bodyOriginal: `The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves as the war with Iran roils the global crude trade, President Donald Trump announced Friday.
-Trump said in an evening social media post that the agreement — which he touted as "THE BIGGEST OIL DEAL IN WORLD HISTORY" — comes "at no cost to" U.S. taxpayers.
-The agreement more than doubles the U.S. oil reserve, according to Trump. Department of Energy data released earlier this month showed oil volumes in the Strategic Petroleum Reserve hit lows not seen since the 1980s.
-Trump's deal with Venezuela follows the U.S.' January attack on the South American country. Nicolás Maduro, Venezuela's then-president, and his wife, Cilia Flores, were captured during the strike.
-In his social media post, Trump said U.S. officials coordinated with government leaders in Venezuela. They also utilized a "partnership" with unnamed private businesses to secure the deal, he said.
-"This Transaction will greatly strengthen the already growing relationship between Venezuela and the United States," Trump wrote in the post.
-Trump's announcement comes as consumers grapple with spiking energy prices heading into the midterm elections, which will determine if his Republican party retains full control in Washington.
-Trump said the Venezuela deal should bring down prices at the pump. The average price of a gallon of gas in the U.S. reached around $4.09 on Friday, a 27% increase year over year, according to AAA.
-West Texas Intermediate crude prices fell 4% this week, marking the first losing week of the last three. Still, prices have jumped more than 24% since the U.S. war with Iran began.
-Trump's war with Iran has hampered transit in the Strait of Hormuz, a globally important passageway for crude. Only a handful of ships have recently crossed through Hormuz each day, down from levels of around 100 seen a year ago, according to the International Monetary Fund's PortWatch tracker.`,
-    bodyJa: `イランとの戦争で世界の原油貿易が混乱する中、米国はベネズエラと650億バレル以上の石油埋蔵量の過半数の支配権を得る協定を結んだと、ドナルド・トランプ大統領が金曜日に発表した。
-トランプ大統領は夕方のソーシャルメディアへの投稿で、「世界史上最大の石油取引」と宣伝したこの合意は米国の納税者に「無償」で提供されると述べた。
-トランプ大統領によれば、この合意により米国の石油埋蔵量は2倍以上に増加するという。今月初めに発表されたエネルギー省のデータによると、戦略石油備蓄の石油量は1980年代以来の最低水準に達した。
-トランプ大統領のベネズエラとの合意は米国に続くものだ」 1月に南米の国に対する攻撃。当時のベネズエラ大統領ニコラス・マドゥロ氏とその妻シリア・フローレス氏はストライキ中に捕らえられた。
-トランプ大統領はソーシャルメディアへの投稿で、米当局者がベネズエラ政府指導者らと調整していると述べた。また、取引を確保するために匿名の民間企業との「パートナーシップ」も活用したと同氏は述べた。
-トランプ大統領は投稿の中で「この取引は、ベネズエラと米国の間ですでに成長しつつある関係を大きく強化することになるだろう」と述べた。
-トランプ大統領の発表は、中間選挙に向けて消費者がエネルギー価格の高騰に対処する中で行われた。中間選挙は彼の共和党がワシントンで完全な主導権を維持できるかどうかを決定するものである。
-トランプ大統領は、ベネズエラ合意により価格は大幅に引き下げられるはずだと述べた。 AAAによると、金曜日の米国のガソリン1ガロンの平均価格は約4.09ドルに達し、前年比27％上昇した。
-今週、ウエスト・テキサス・インターミディエイト原油価格は4%下落し、過去3週間のうちで初の下落週となった。それでも、米国とイランの戦争が始まって以来、価格は24％以上上昇した。
-トランプ大統領のイランとの戦争により、原油の世界的に重要な通路であるホルムズ海峡の輸送が妨げられている。国際通貨基金のポートウォッチ追跡調査によると、最近ホルムズを通過する船舶は毎日数隻にとどまり、1年前の約100隻の水準から減少している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
-    publishedAt: "2026-08-28T23:42:26+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "my-mother-91-has-dementia-every-bank-say-b1a8cba4",
-    title: "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-    titleJa: "私の母（91歳）は認知症を患っています。どの銀行も、彼女の10万ドルの株券のロックを解除するには彼女の署名が必要だと言います。私に何ができる？",
-    summaryJa: "「これらの株式は、指定された受益者がいない彼女の遺産の中で唯一の資産です。」",
-    bodyOriginal: `“These shares are the only assets in her estate without designated beneficiaries.”`,
-    bodyJa: `「これらの株式は、指定された受益者がいない彼女の遺産の中で唯一の資産です。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-    publishedAt: "2026-08-28T23:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-33671200",
     readTime: 2,
   },
 ];
