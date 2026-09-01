@@ -15,6 +15,333 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "shein-shares-fall-in-long-awaited-stock-9961635c",
+    title: "Shein shares fall in long-awaited stock market debut",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Shein shares fall in long-awaited stock market debut
+- Published
+Shares in fast-fashion giant Shein fell in their highly anticipated stock market debut on Tuesday as the firm listed in Hong Kong after a long quest to go public.
+It comes after failed attempts to list in the US and UK, as concerns were raised over issues including Shein's labour practices and its environmental impact.
+Once estimated to be worth nearly $100bn (£74bn), Shein is now valued at around a quarter of that figure, as the firm faces other challenges like heated competition and trade tensions.
+Shein became hugely popular, especially among younger people, due to its ability to source the very latest fashions at ultra-low prices through a vast network of factories in China.
+At a ceremony to celebrate the listing, chief financial officer Leigh Gui said the company's model of selling large numbers of small orders with rapid payment options now reaches about 160 markets worldwide.
+"Let global consumers enjoy the sound of fashion," he said after a gong was struck to mark the start of trading.
+On Monday, Shein priced its shares at HK$48.56 each, raising 13.6 billion Hong Kong dollars ($1.7bn; £1.3bn) from the listing.
+That gave the company a stock market valuation of $26.3bn.
+Shein's shares fell by as much as 10% in early trading before the losses eased. At lunchtime, they were around 3.5% lower at just under 47 Hong Kong dollars each.
+The disappointing debut suggests the market is not convinced that Shein's growth can make a "comeback", said Charu Chanana, chief investment strategist at investment bank Saxo.
+Shein has more than 273 million active customers who placed a total of more than a billion orders in the year to the end of March 2026, the firm said in a filing ahead of the listing.
+But Shein now faces higher costs, regulatory scrutiny and more competition, while investors are increasingly drawn towards technology companies, Chanana said.
+For customers, the slump in Shein's shares is a sign that the firm's cheap prices are "becoming harder to sustain", which may lead to higher prices, she added.
+A benchmark for fast fashion
+The listing marks the largest new share sale in Hong Kong so far this year, which is being seen as a test of investor appetite for the fast fashion industry.
+It is a rare "standalone" e-commerce firm that can be assessed on its own merits, fashion industry analyst Louise Deglise-Favre from research firm GlobalData.
+Shares in rivals Asos and Boohoo have been battered in recent years as they face regulatory scrutiny and fierce competition.
+"Investors have learned to be sceptical," while concerns over sustainability and ethical issues add to the complexity of Shein's share sale, Deglise-Favre said.
+The rise and rise of fashion giant Shein
+- Published7 June 2024
+The truth behind your $12 dress: Inside the Chinese factories fuelling Shein's success
+- Published12 January 2025
+Shein was founded in China in 2008 and is now headquartered in Singapore.
+The firm's long road to the stock market highlights the geopolitical pressures and regulatory scrutiny faced by Chinese companies with global ambitions.
+The company once looked set for one of the largest stock market debuts ever by a Chinese firm, with Wall Street in its sights.
+Its business had surged during the Covid-19 pandemic as people, stuck at home, turned to online retailers.
+Shoppers shared clips of themselves trying on large numbers of its garments, a trend called Shein Hauls, boosting the company's online presence.
+An initial public offering (IPO) in the US - by far Shein's largest market - would have offered it a chance to further increase its global profile and tap into Western financing.
+But the firm faced resistance from US lawmakers, who objected to the planned listing over concerns of forced labour in Shein's factories. In response to such allegations, the company has said it takes a "zero-tolerance policy for forced labour".
+It has also been accused of copying other designers' ideas. Shein has said "it takes all claims of infringement seriously" and that it respects the rights of all designers.
+Shein also explored the possibility of making its stock market debut in London but faced similar opposition.
+The BBC has contacted Shein for further comment.
+'Only realistic path'
+In 2025, Shein shifted its attention to Hong Kong, with Chinese authorities approving the move in July this year.
+"Shein ran out of venues that could take it," said Ashley Dudarenok, founder of Chinese market research firm ChoZan.
+The company attempted to "look less Chinese" by shifting its headquarters to Singapore ahead of its IPO bid, but it never won political backing abroad nor assurances from Beijing, she added.
+"For Chinese companies increasingly shut out of Western exchanges, Hong Kong is fast becoming the only realistic path to market," Deglise-Favre said.
+The move also coincided with Shein's publicity-shy founder Xu Yangtian making a rare public appearance during a major business conference in February.
+Xu took to a stage in Guangdong, home to many of China's garment factories, to re-affirm his company's ties to Beijing.
+He pledged investments in China's clothing industry, adding that the "nourishment" from the country has been "inseparable" from Shein's success.
+Headwinds ahead
+Trade tensions and regulatory concerns mean Shein is navigating a very different landscape to when it first started exploring a potential IPO.
+In July, it reported a $99m quarterly loss as its sales slowed after the US struck down an import duty exemption on small packages.
+The exemption, known as the de minimis rule, had helped Shein and rival Temu grow rapidly as it allowed packages worth less than $800 to enter the US without incurring import duties.
+Similarly, the European Union has imposed a €3 (£2.57; $3.50) tax on low-value imports.
+The Iran war has also hit demand, raised costs and caused delays to deliveries in some markets, Shein has said.
+Its rivals are feeling the pressure too. In August, Temu-owner PDD reported lower-than-expected quarterly revenue.
+Shein is also being investigated by US and European regulators over its business practices.
+The company also needs to find ways to stand out from its rivals, that are now also using predictive technology to make their websites more appealing to shoppers, said Jason Hsu from Rayliant Global Advisors.
+"Shein is not longer a unique player," Hsu said.
+Despite these challenges some analysts still see strong potential for Shein.
+Investors will be scrutinising whether the company can navigate these issues, such as shifting logistics out of China to avoid the US and EU's import fees, Deglise-Favre said.
+The slump in the firm's valuation shows "genuine deterioration", but it is still backed by a "formidable supply chain" and a global reach, she added.
+People are still buying the company's goods, but costs have weighed on its business and have shown that its business model does not generate profits in the way it once did, said Dudarenok.
+As a listed company, Shein will need to "prove its margins still work in a world of tighter regulation, tariffs and more expensive customer acquisition," she added.
+Related topics
+- Published29 August 2025
+- Published1 August 2025`,
+    bodyJa: `待望の株式市場デビューでシャイン株が下落
+- 公開されました
+ファストファッション大手のシャインの株価は、株式公開を目指した長い努力を経て香港に上場したため、火曜日の待望の株式市場デビューで下落した。
+シェイン氏の労働慣行や環境への影響などの問題を巡る懸念が高まり、米国と英国での上場計画が失敗に終わったことを受けてのことだ。
+かつては1,000億ドル（740億ポンド）近くの価値があると推定されていたシェインの価値は、競争激化や貿易摩擦など他の課題に直面しているため、現在はその4分の1程度となっている。
+Shein は、中国の膨大な工場ネットワークを通じて最新のファッションを超低価格で入手できるため、特に若者の間で絶大な人気を博しました。
+上場を祝う式典でリー・グイ最高財務責任者（ＣＦＯ）は、迅速な支払いオプションを備えた大量の小口注文を販売する同社のモデルは現在、世界約１６０の市場に広がっていると述べた。
+取引開始のゴングが鳴らされた後、同氏は「世界の消費者にファッションの音を楽しんでもらいましょう」と述べた。
+月曜日、Sheinは自社株の価格を1株あたり48.56香港ドルに設定し、上場により136億香港ドル（17億ドル、13億ポンド）を調達した。
+これにより、同社の株式市場評価額は263億ドルとなった。
+シャイン株は損失が和らぐ前に取引序盤で最大１０％下落した。ランチタイムでは約3.5％安となり、それぞれ47香港ドル弱となった。
+投資銀行サクソのチーフ投資ストラテジスト、チャル・チャナナ氏は、期待外れのデビューは市場がシェイン氏の成長で「復活」できると確信していないことを示唆していると述べた。
+Sheinには2億7,300万人以上のアクティブな顧客がおり、2026年3月末までの1年間に合計10億件以上の注文があったと同社は上場に先立って提出した書類で述べた。
+しかし、シェインは現在、コスト高、規制当局の監視、競争激化に直面している一方、投資家はテクノロジー企業にますます惹かれているとチャナナ氏は語った。
+顧客にとって、シャイン株の低迷は同社の低価格を「維持するのが難しくなっている」ことの表れであり、それが価格上昇につながる可能性があると同氏は付け加えた。
+ファストファッションのベンチマーク
+今回の上場は香港における今年これまでで最大の新株売却額となり、ファストファッション業界に対する投資家の意欲を試すものとみられている。
+調査会社グローバルデータのファッション業界アナリスト、ルイーズ・ドグリーズ・ファーブル氏は、同社は独自のメリットで評価できる稀な「独立型」電子商取引企業だ、と語る。
+ライバルのエイソスとブーフーの株価は近年、規制当局の監視と熾烈な競争に直面してボロボロになっている。
+デグリーズ・ファーブル氏は、持続可能性や倫理問題に対する懸念がシャイン株売却の複雑さを増す一方、「投資家は懐疑的になることを学んだ」と述べた。
+ファッション界の巨人Sheinの隆盛と台頭
+- 2024 年 6 月 7 日公開
+あなたの 12 ドルのドレスの背後にある真実: Shein の成功を促進する中国の工場の内部
+- 2025 年 1 月 12 日公開
+Shein は 2008 年に中国で設立され、現在はシンガポールに本社を置いています。
+同社の株式市場への長い道のりは、世界的な野心を抱く中国企業が直面する地政学的な圧力と規制の監視を浮き彫りにしている。
+同社はかつて、ウォール街を視野に入れ、中国企業としては史上最大規模の株式市場デビューを目指していた。
+新型コロナウイルス感染症（Covid-19）のパンデミック中に、家に閉じこもった人々がオンライン小売業者に目を向けたため、同社の事業は急増した。
+買い物客が自社の衣類を大量に試着するクリップを共有し、これは「Shein Hauls」と呼ばれるトレンドであり、同社のオンラインでの存在感を高めた。
+シェインにとってこれまでのところ最大の市場である米国での新規株式公開（IPO）は、シェインの世界的な知名度をさらに高め、西側の資金調達を活用する機会を提供していただろう。
+しかし同社は、シェインの工場での強制労働への懸念を理由に上場計画に反対した米議員らの抵抗に直面した。このような申し立てに対し、同社は「強制労働を一切容認しない方針」をとっていると述べた。
+他のデザイナーのアイデアをコピーしたとして非難されている。シェイン氏は「侵害に関するすべての申し立てを真剣に受け止め」ており、すべてのデザイナーの権利を尊重していると述べた。
+シェイン氏はロンドンで株式市場にデビューする可能性も模索したが、同様の反対に直面した。
+BBCはさらなるコメントを求めてシェイン氏に連絡を取った。
+「唯一現実的な道」
+2025年、シェイン氏は香港に関心を移し、中国当局は今年7月にこの動きを承認した。
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-01T04:15:15+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb0/live/cdd7dcb0-a5ac-11f1-a291-b542ee92de7c.jpg",
+    readTime: 5,
+  },
+  {
+    id: "bessent-reportedly-tells-russia-no-econo-f2de8c8e",
+    title: "Bessent reportedly tells Russia no economic relief until Ukraine war ends as Europe snubs Moscow at G20",
+    titleJa: "ヨーロッパがG20でロシアを軽蔑する中、ベッセント氏はロシアに対し、ウクライナ戦争が終わるまでは経済的救済を行わないと通告したと伝えられている",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `U.S. Treasury Secretary Scott Bessent reportedly told Russian Finance Minister Anton Siluanov that no sanctions relief or new agreements with Moscow were possible, as long as the war in Ukraine continues.
+The two officials met on the sidelines of a Group of 20 finance leaders' gathering in Asheville, North Carolina.
+Bessent's remarks came as Siluanov's first in-person appearance at the summit since Russia's invasion of Ukraine in 2022 drew objections from other European leaders. European governments have planned to expand sanctions to further squeeze Moscow's economy and finances.
+The rare meeting underscored Washington's willingness to reopen high-level diplomatic channels with Moscow, even as European allies have intended to keep the nation isolated while the war continues.
+Bessent made it clear to Siluanov that "nothing is possible until the war is over," when the Russian minister brought up other areas of mutual interest, Reuters reported.
+The meeting centered on President Donald Trump's peace plan for Ukraine and economic growth, according to Axios, while Russia's finance ministry described the discussions as covering financial cooperation between the two nations within the G20 framework.
+Russia's surprise return to the table sparked dismay among European officials, who opposed appearing with Siluanov in the traditional G20 photo, which was ultimately taken without the Russian minister.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+    publishedAt: "2026-09-01T03:22:56+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "tanker-struck-in-hormuz-raising-worries-3fe9954e",
+    title: "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `A tanker was struck by three unknown projectiles while transiting the Strait of Hormuz on Monday, stoking worries that the Middle East conflict could once again escalate.
+The tanker was sailing in the southern shipping lane close to the Omani coast, the UK Maritime Trade Operations agency said in a post on Tuesday, Asia time. No casualties were reported.
+Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island. American forces targeted two Iranian rocket launchers on Larak Island on Sunday, reportedly killing three, saying that Tehran intended to launch rockets carrying sea mines into the Hormuz Strait.
+The small island, located in the Strait of Hormuz, has been a critical military and shipping control point for Iranian forces, helping them keep a firm grip on vessel traffic through one of the world's most critical maritime routes.
+The back-and-forth hostilities marked the first time that the U.S. and Iran traded strikes in over a month.
+While neither side appeared to be seeking a return to full-scale war, both signaled they were prepared to respond to further attacks. "We are going to hit them hard," President Donald Trump told Fox News on Monday, saying that "there will be a response" to Iran's attacks on U.S. military bases in the region.
+Analysts largely view the U.S. attack on Larak Island as an attempt to break a deadlock rather than a shift in strategy. "By hitting the launchers rather than broader Iranian military infrastructure, the U.S. appears to be punishing a specific behaviour rather than, at least for now, broadening its war aims," said Ali Vaez, deputy program director at International Crisis Group.
+"It is enforcing the blockade," said Jason Brodsky, policy director of United Against Nuclear Iran, adding that the Trump administration's goal was to further degrade Tehran's capabilities to mine the Strait of Hormuz, while focusing on economic coercive measures as the midterm elections approach.
+Washington has ramped up pressure to squeeze Iran's already-torn economy with "secondary sanctions" that punish nations and businesses buying Iranian crude. U.S. Treasury Secretary Scott Bessent said Monday, on the sidelines of the Group of 20 finance ministers' gathering, that Iran was "lashing out kinetically" because the new sanctions were taking a toll on its economy.
+Speaking from the Oval Office on Monday, Trump reportedly said Iran's financial systems, armed forces, and governing body have largely degraded. "It doesn't mean we won't smack them to see what happens," the president said.
+The war, now stretching into its seventh month, has disrupted global energy supplies and sent shockwaves through global financial markets. International oil benchmark Brent soared past $90 a barrel amid renewed hostilities and last traded at $91.08 on Tuesday. U.S. West Texas Intermediate futures added less than 1% to $86.65 per barrel.
+"This is fundamentally an endurance contest," said Brodsky, as Trump has demonstrated an "unpredictability" that should concern the Iranians, and Tehran may lash out more aggressively militarily as the economic pressure mounts.`,
+    bodyJa: `月曜、ホルムズ海峡を通過中のタンカーに未知の飛翔体３発が衝突し、中東紛争が再び激化するのではないかとの懸念が高まっている。
+英国海事貿易局はアジア時間火曜日の投稿で、タンカーはオマーン海岸に近い南部の航路を航行していたと発表した。死傷者は報告されていない。
+イランは月曜、米国によるララク島攻撃への報復として、ヨルダンにある2つの米軍基地への攻撃を開始した。米軍は日曜、ララク島でイラン製ロケット砲２基を標的にし、３人を殺害したと伝えられ、イラン政府は機雷を搭載したロケット弾をホルムズ海峡に発射するつもりだと述べた。
+ホルムズ海峡に位置するこの小さな島は、イラン軍にとって軍事および船舶の重要な管制点であり、世界で最も重要な海路の一つを通る船舶の交通をしっかりと把握するのに役立っている。
+一進一退の敵対関係は、米国とイランが１カ月以上にわたって攻撃を交わした初めてのこととなった。
+どちらの側も全面戦争への復帰を求めているようには見えないが、さらなる攻撃に対応する用意があることを示唆した。ドナルド・トランプ大統領は月曜日、FOXニュースに対し、「我々は彼らを厳しく攻撃するつもりだ」と語り、この地域の米軍基地に対するイランの攻撃に対して「何らかの対応があるだろう」と述べた。
+アナリストらは主に、米国によるララック島攻撃は戦略の転換ではなく、行き詰まりを打開する試みであると見ている。国際危機グループの計画副局長アリ・バエズ氏は、「米国は、イランの広範な軍事インフラではなく発射台を攻撃することで、少なくとも現時点では戦争目的を拡大するのではなく、特定の行動を罰しているようだ」と述べた。
+イラン反核同盟の政策部長、ジェイソン・ブロツキー氏は「封鎖を強化している」と述べ、トランプ政権の目標は、中間選挙が近づく中、経済的強制措置に焦点を当てながら、ホルムズ海峡での地雷採掘に対するイランの能力をさらに低下させることだと付け加えた。
+米政府は、イラン産原油を購入する国や企業を罰する「二次制裁」で、すでに破綻したイラン経済を圧迫するよう圧力を強めている。スコット・ベッセント米財務長官は月曜日、20カ国・地域財務相会合の傍らで、イランは新たな制裁が経済に打撃を与えているため「激しく激しく攻撃している」と述べた。
+伝えられるところによると、トランプ大統領は月曜日に大統領執務室で、イランの金融システム、軍隊、統治機構は大幅に劣化していると述べた。 「何が起こるか見るために我々が彼らを叩かないという意味ではない」と大統領は語った。
+戦争は現在7か月目に突入しており、世界のエネルギー供給に混乱をもたらし、世界の金融市場に衝撃を与えている。国際石油ベンチマークであるブレント原油は、敵対行為が再燃する中、1バレル当たり90ドルを超えて急騰し、火曜日の最終取引価格は91.08ドルとなった。米国ウェスト・テキサス・インターミディエート先物は１％未満上昇し、１バレル＝８６．６５ドルとなった。
+ブロツキー氏は、トランプ大統領がイラン国民を懸念させる「予測不可能性」を示しており、経済的圧力が高まるにつれイラン政府がより攻撃的に軍事的に攻撃する可能性があるため、「これは基本的に我慢比べだ」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
+    publishedAt: "2026-09-01T02:05:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "venezuela-grants-u-s-backed-oil-firm-nab-0ab4f811",
+    title: "Venezuela grants U.S.-backed oil firm NABEP 100-year concessions for 17 oil fields, White House says",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Venezuelan interim authorities have granted U.S.-backed North American Blue Energy Partners, or NABEP, 100-year concessions for 17 oil fields, with proven reserves of about 65 billion barrels, the White House said on Monday.
+NABEP is the second-largest private oil producer in Venezuela. The company has granted the U.S. Department of War's Office of Strategic Capital an equity stake of 35% in its corporate parent, according to the White House, representing up to "hundreds of billions in value and dividends for the United States."
+President Donald Trump announced Friday a deal with Caracas that would give the U.S. majority control over 65 billion barrels, or about 20% of the South American nation's massive oil reserves. The U.S. had about 46 billion barrels in proven oil reserves as of end-2024, according to official figures.
+In a fact sheet published Monday evening stateside, the U.S. government said it would enjoy the right to purchase, at production cost, a guaranteed 20% of the off-take from all current and future fields NABEP will operate, as part of an effort to facilitate refilling the U.S. strategic petroleum reserves.
+The U.S. government also has the "right of first refusal" to purchase the remaining 80% of NABEP's production, making Washington the prioritized buyer for its energy reserves.
+Analysts, however, remained skeptical that the landmark oil deal could meaningfully boost the U.S. energy production and bring down gas prices for Americans in the near term. Huge investments are needed to extract the rich resources in Venezuela, whose oil output remains at a fraction of its capacity due to decades of mismanagement, lack of investment and sanctions.
+NABEP also planned to invest up to $100 billion in new oil infrastructure in Venezuela to scale production, the White House said. Under the agreement, the company is expected to pay $200 billion in royalty and tax payments to Venezuelan governments over the first 25 years.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+    publishedAt: "2026-09-01T01:56:53+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "indian-pm-modi-implores-putin-to-end-ukr-5f71cd9d",
+    title: "Indian PM Modi implores Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+    titleJa: "インドのモディ首相、ロシア石油に対する米国の関税脅しの中、プーチン大統領にウクライナ戦争の終結を懇願",
+    summaryJa: "インドのナレンドラ・モディ首相は月曜日、上海協力機構サミットに合わせてロシアのウラジーミル・プーチン大統領と会談し、ロシアに対しウクライナ戦争の終結と敵対行為の停止を要請した。モディ首相は「インドはこの分野（ウクライナ戦争）におけるあらゆる和平努力を支持しており、今後もそうしていく」と述べ、「我々は終わりのない戦争から戦争の終結、敵対行為の停止へと移行しなければならない」と付け加えた。",
+    bodyOriginal: `Indian Prime Minister Narendra Modi has urged Russia to end the Ukraine war and for a cessation of hostilities during his meeting with Russian President Vladimir Putin on the sidelines of the Shanghai Cooperation Organization summit on Monday.
+"India supports all peace efforts in this area [Ukraine war], and we will continue to do so," Modi said, adding that "we must move from endless war to the end of war, to the cessation of hostilities."
+"Every day that the war continues, humanity takes a step backwards," Modi said.
+On Monday, Russia's Defense Ministry said it is planning "massive strikes" on Ukraine's energy infrastructure, days after launching a devastating attack on an ammunition warehouse, amplifying fears of another winter assault.
+Russian strike on the warehouse is among its deadliest attacks in Ukraine so far, with a death toll of 38. Russian attacks on Ukraine's energy infrastructure during winter pose Kyiv's toughest challenge of the war yet, as per officials and national security experts.
+Meanwhile, later this month, the U.S. House is expected to pass a bill honoring Lindsey Graham that would impose up to 100% tariffs on countries that are among the top five purchasers of Russian crude oil or gas, including China and India.
+Russia is India's largest crude supplier, accounting for more than 50% of the country's oil imports in June and July and nearly 43% till August 24. Between April and July, Russian exports to India rose to over $34 billion, up nearly 60% from last year, as per India's latest trade data.
+During the meeting with Modi, Putin commended the growth in bilateral trade between the two countries but added that "last year saw a slight decline."
+U.S. President Donald Trump imposed punitive tariffs of 25% on India in August 2025 for its energy trade with Russia, taking the total levy on Indian exports to the U.S. to 50%.
+While the tariffs on India have been reduced to 18% earlier this year, the U.S. has been keen to increase the supply of Venezuelan crude to India to replace the Russian barrels.`,
+    bodyJa: `インドのナレンドラ・モディ首相は月曜日、上海協力機構サミットに合わせてロシアのウラジーミル・プーチン大統領と会談し、ロシアに対しウクライナ戦争の終結と敵対行為の停止を要請した。
+モディ首相は「インドはこの分野（ウクライナ戦争）におけるあらゆる和平努力を支持しており、今後もそうしていく」と述べ、「我々は終わりのない戦争から戦争の終結、敵対行為の停止へと移行しなければならない」と付け加えた。
+"Every day that the war continues, humanity takes a step backwards," Modi said.
+月曜日、ロシア国防省は、弾薬庫への壊滅的な攻撃を開始した数日後、ウクライナのエネルギーインフラへの「大規模な攻撃」を計画していると発表し、再び冬季攻撃への懸念を増幅させた。
+ロシアによる倉庫への攻撃は、これまでウクライナで起きた最悪の攻撃の一つで、死者数は38人となった。当局者や国家安全保障の専門家によると、冬季のウクライナのエネルギーインフラに対するロシアの攻撃は、キエフにとってこれまでの戦争で最も厳しい課題となっている。
+一方、米国下院は今月下旬、中国やインドを含むロシア原油・ガス購入国上位５カ国に最大１００％の関税を課すリンゼイ・グラハム氏を讃える法案を可決する見通しだ。
+ロシアはインド最大の原油供給国で、6月と7月には同国の石油輸入の50％以上を占め、8月24日までは43％近くを占めた。インドの最新貿易データによると、4月から7月にかけてロシアのインドへの輸出は340億ドル以上に上り、前年比60％近く増加した。
+モディ首相との会談中、プーチン大統領は両国間の二国間貿易の成長を称賛したが、「昨年は若干の減少が見られた」とも付け加えた。
+ドナルド・トランプ米大統領は2025年8月、インドとロシアとのエネルギー貿易に対し25％の懲罰関税を課し、インドからの米国への輸出に対する課徴金の総額は50％となった。
+インドに対する関税は今年初めに18％に引き下げられたが、米国はロシア産バレルの代替としてインドへのベネズエラ産原油の供給を増やすことに熱心だ。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+    publishedAt: "2026-09-01T01:51:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "the-3-trillion-oil-market-has-just-gotte-09d8c09e",
+    title: "The $3 trillion oil market has just gotten more accessible than ever: No longer a 'rich man's game'",
+    titleJa: "3 兆ドルの石油市場はかつてないほどアクセスしやすくなりました: もはや「金持ちのゲーム」ではありません",
+    summaryJa: "かつて石油取引は主に商品会社、機関投資家、プロのトレーダーが独占しており、一度に数千バレルを賭けることができました。その障壁はかなり低くなりました。CMEグループは日曜日、ウェスト・テキサス・インターミディエイト原油10バレルに相当する新しい先物契約の提供を開始した。これは、トレーダーが現在の価格で約860ドルを支払うことを意味する。",
+    bodyOriginal: `Oil trading was once largely the preserve of commodity houses, institutional investors and professional traders able to make bets involving thousands of barrels at a time. That barrier has gotten much lower.
+CME Group began offering a new futures contract Sunday that represents 10 barrels of West Texas Intermediate crude, which means a trader would pay about $860 at current prices.
+This compares with 100 barrels for CME's Micro WTI contract and 1,000 barrels for its standard contract.
+The move marks the latest step in what some market watchers describe as the "democratization" of oil trading, following years of growth in online brokerage platforms, exchange-traded funds and smaller futures contracts.
+"Trading oil used to be a rich man's game," said Zavier Wong, market analyst at eToro Singapore.
+"It wasn't that retail couldn't access the market, but it was heavily gatekept by the size of the contracts," he said, adding that online brokers, contracts for difference and ETFs have since transformed dynamics. "You don't need a berth or a six-figure net worth to hold a view on oil anymore, so the ability to have an opinion and to act on that opinion has become democratized."
+Retail interest is already rising, especially during periods of market stress. The number of oil trades handled by eToro was nearly 16 times greater than a year earlier in the three months following the start of the war on Feb. 28, according to Wong.
+CME similarly underscored that its 100-barrel Micro WTI futures averaged 272,000 contracts a day in May, up 317% year-over-year.
+A new breed of oil trader
+CME's smaller contract could accelerate that shift.
+Carley Garner, a commodity market strategist and broker at DeCarley Trading, said smaller futures and oil ETFs such as the United States Oil Fund (ticker USO) have made speculation possible for traders at almost any level of experience or funding.
+"The oil market is absolutely becoming more democratized," she said, adding that the new contract could act as a gateway for traders who have considered futures but were put off by the risks associated with larger positions.
+But greater access brings a potential downside: "Speculators can temporarily influence prices through emotional volatility that has little to do with fundamental reality," Garner said. Retail participation also adds liquidity, however, helping producers and consumers hedge their exposure more efficiently, she added.
+Garner argued that commodity ETFs have already distorted price discovery on occasion. She pointed to the turmoil in April 2020, when pandemic lockdowns caused oil demand to collapse far more quickly than producers could cut supply. The crunch came as the May WTI futures contract approached expiration.
+Traders still holding the contract faced the prospect of taking delivery of physical crude with little storage available, prompting a rush to sell.
+Retail investors were meanwhile pouring money into oil funds on the assumption that prices would rebound, adding to strains in the futures market.
+"In my eyes, this has been a problem for the commodity industry," she said. "We see money flow push commodity prices outside of fundamental reality."
+However, some still doubt retail investors can exert the same influence over crude that they sometimes wield over individual stocks.
+Retail could boost volumes and occasionally magnify headline-driven moves, but professional and commercial flows are still likely to dominate benchmark pricing.
+"Commodities are and will always be spot-dependent products. Prices can never go too far away from prevailing fundamentals, so I doubt the tail in this case would be able to wag the dog," said Ole Hansen, head of commodity strategy at Saxo Bank.
+Steve Sosnick, chief strategist at Interactive Brokers, made a similar point. The crude market remains dominated by state producers, major energy companies, commodity merchants and large industrial consumers whose activity dwarfs that of individual traders.
+Hence, retail traders will gain a cheaper and more precise way to speculate on crude, but production, consumption, inventories and geopolitics will remain the dominant forces setting prices.
+Still, oil's influence extends far beyond the professional traders and companies that dominate its market. Its price shapes inflation and household spending, making virtually every investor exposed to its swings directly or otherwise, said market watchers.
+"We're all oil traders now, at least to some extent, whether we realize it or want to be," Sosnick said.`,
+    bodyJa: `かつて石油取引は主に商品会社、機関投資家、プロのトレーダーが独占しており、一度に数千バレルを賭けることができました。その障壁はかなり低くなりました。
+CMEグループは日曜日、ウェスト・テキサス・インターミディエイト原油10バレルに相当する新しい先物契約の提供を開始した。これは、トレーダーが現在の価格で約860ドルを支払うことを意味する。
+これと比較すると、CMEのマイクロWTI契約は100バレル、標準契約は1,000バレルである。
+この動きは、オンライン証券プラットフォーム、上場投資信託、小規模先物契約の長年の成長に続く、一部の市場ウォッチャーが石油取引の「民主化」と表現するものの最新の一歩となる。
+イートロ・シンガポールの市場アナリスト、ザビエル・ウォン氏は「かつて石油取引は金持ちのゲームだった」と語る。
+同氏は、「小売業者が市場にアクセスできなかったわけではないが、契約の規模によって厳重に管理されていた」と述べ、オンラインブローカー、差額契約、ETFがその後、力学を変えてきたと付け加えた。 「石油についての見解を持つのに、もう住居や6桁の純資産は必要ありません。そのため、意見を持ち、その意見に基づいて行動する能力が民主化されました。」
+小売業の関心は、特に市場ストレスの時期にはすでに高まっています。ウォン氏によると、2月28日の戦争開始後の3カ月間で、eToroが扱った石油取引の件数は前年同期の16倍近くになったという。
+ＣＭＥも同様に、同社の１００バレルのマイクロＷＴＩ先物が５月に１日平均２７万２０００枚で、前年比３１７％増加したことを強調した。
+新種の石油トレーダー
+CMEの小規模な契約はその変化を加速させる可能性がある。
+ディカーリー・トレーディングの商品市場ストラテジスト兼ブローカー、カーリー・ガーナー氏は、米国石油基金（ティッカーUSO）などの小規模な先物や石油ETFのおかげで、経験や資金のほぼすべてのレベルのトレーダーにとって投機が可能になったと述べた。
+同氏は「石油市場は完全に民主化されつつある」と述べ、新たな契約は先物を検討していたが、より大きなポジションに伴うリスクを考えて二の足を踏んでいたトレーダーにとっての入り口となる可能性があると付け加えた。
+しかし、アクセスの拡大は潜在的なマイナス面をもたらす。「投機家は、根本的な現実とはほとんど関係のない感情的な変動を通じて一時的に価格に影響を与える可能性がある」とガーナー氏は述べた。ただし、小売業者の参加により流動性も高まるが、生産者と消費者がリスクをより効率的にヘッジできるようになる、と同氏は付け加えた。
+ガーナー氏は、コモディティETFはすでに時折価格発見を歪めていると主張した。彼女は、パンデミックによるロックダウンにより、生産者が供給を削減するよりもはるかに早く石油需要が崩壊した2020年4月の混乱を指摘した。危機は、5月のWTI先物契約の期限が近づいているときに起こりました。
+契約をまだ保持しているトレーダーらは、利用可能な保管場所がほとんどない状態で現物原油を受け取る見通しに直面し、売り急ぐようになっていた。
+一方、個人投資家は価格が反発すると予想して石油ファンドに資金を注ぎ込み、先物市場の緊張を高めていた。
+「私の目から見ると、これは商品業界にとって問題となっている」と彼女は言う。 「マネーフローが商品価格を根本的な現実の外に押し上げていることがわかります。」
+しかし、個人投資家が個別株に対して行使するのと同じ影響力を原油に対しても行使できるのかを疑問視する人も依然としている。
+小売業は販売量を増やし、場合によってはヘッドライン主導の動きを拡大する可能性がありますが、プロフェッショナルと商業の流れが依然としてベンチマーク価格を支配する可能性があります。
+サクソ銀行のコモディティ戦略責任者、オーレ・ハンセン氏は「コモディティはこれまでも、そしてこれからも常にスポット依存の商品だ。価格が一般的なファンダメンタルズから大きく離れることは決してないので、この場合、尻尾を振ることができるとは思えない」と述べた。
+インタラクティブ・ブローカーズのチーフ・ストラテジスト、スティーブ・ソスニック氏も同様の指摘をした。原油市場は依然として国営生産者、大手エネルギー会社、商品商人、および大規模な産業消費者によって支配されており、その活動は個人のトレーダーの活動を矮小化している。
+したがって、小売トレーダーは原油をより安く、より正確に投機する方法を得るでしょうが、生産、消費、在庫、地政学が価格を決定する主要な要因であり続けるでしょう。
+それでも、石油の影響力は、市場を支配する専門のトレーダーや企業をはるかに超えています。市場関係者らによると、その価格はインフレと家計支出を左右しており、事実上すべての投資家が直接的またはその他の方法でその価格変動にさらされているという。
+ソスニック氏は、「意識しているか、そうありたいかにかかわらず、私たちは今、少なくともある程度は石油トレーダーになっている」と語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/01/oil-market-is-getting-more-accessible-what-it-means-for-wti-brent.html",
+    publishedAt: "2026-09-01T00:49:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "japan-inc-is-betting-big-on-india-as-chi-bb2fcb0c",
+    title: "Japan Inc is betting big on India as China risks deepen",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Japan Inc is betting big on India as China risks deepen
+- Published
+India's commerce minister Piyush Goyal led the country's largest-ever business delegation to Japan last week in a bid to expand trade and investment ties between the two countries. His visit came as Japan's deepening push into Asia's third largest economy has become increasingly more apparent.
+If you visit a shopping mall or a high street in Mumbai, Delhi or Bengaluru, it's hard to miss the growing number of Japanese consumer brands that have set up shop across India.
+Apparel giants Uniqlo and Muji and premium sneakers company Onitsuka Tiger have been around for a while, but are rapidly expanding.
+Niche players are also here - Nitori, a Japanese furniture maker, entered the market recently, while convenience store chain Lawson, external is on its way, with a plan to reportedly open 10,000 stores by 2050 in India, starting with Mumbai.
+It's not just retail. At a time when foreign lenders have been exiting their Indian bank portfolios, Japanese banks are aggressively bidding for Indian financial assets.
+MUFG Bank - Japan's largest bank - closed a deal to buy 20% of Indian shadow lender Shriram Finance for $4.4bn last year in what was the biggest ever foreign investment in India's financial sector.
+Last year also saw Sumitomo Mitsui Banking Corporation (SMBC) becoming the largest shareholder in India's Yes Bank with a 24.22% stake.
+Japan Inc is now the largest contributor to India's booming ecosystem of global capability centres (GCCs) in the Asia Pacific.
+More than 100 Japanese firms operate these GCCs in the country, according to a recent Deloitte report, external. GCCs are offshore innovation hubs of multinationals that perform business critical functions such as R&D, corporate strategy and artificial intelligence development among a plethora of other key jobs.
+"Japanese companies are having to look to India for growth. With the local population declining for the past 16-17 years there isn't just a slowdown in domestic demand, but a permanent shrinking of the market," Vipul Nath Jindal, Founder of Next Bharat Ventures, an impact fund backed by Suzuki Motor Corporation, which recently announced a $200mn fund in India, told the BBC.
+At the same time, Japan's traditional markets for expansion have become increasingly less attractive, he says.
+"Investment into China has fallen sharply amid geopolitical tensions and changing economic dynamics, the US market is more challenging because of tariffs and domestic competition, and the market size of other Southeast Asian economies is limited."
+Against this backdrop, India has become a natural target market for Japanese companies to drive long-term business growth.
+Economic ties between the countries gathered pace at a government-to-government level when they signed an agreement to liberalise trade nearly a decade-and-a-half ago.
+After Prime Minister Narendra Modi came to power in 2014, he elevated the relationship to a "special strategic and global partnership", setting a target of doubling the number of Japanese companies in India and launching marquee projects like India's first bullet train between Mumbai and Ahmedabad, built using Japanese Shinkansen technology.
+But now, it is Japanese private firms that are driving business expansion in this latest investment up-cycle.
+At a landmark summit in July held during Japanese Prime Minister Sanae Takaichi's first official visit to Delhi, Japanese companies announced $12.5bn in investments through some 120 agreements in sectors ranging from semiconductors to green energy. And Goyal has said , externalJapan could prematurely meet its target of investing 10 trillion yen in the country.
+Beyond the large corporations, several Japanese small and medium-sized companies (SMEs) are also actively looking at tapping the Indian market, says Jindal.
+Hamamatsu City - where companies like Suzuki, Honda and Yamaha were founded and which has one of the highest concentrations of manufacturing SMEs in Japan - recently set up the Hamamatsu India Committee to explore how the city's small companies could expand into India.
+The rising interest in India has accompanied a fall in net Japanese investment in China which, as Toshiro Nishizaewa of the University of Tokyo wrote recently, external, is a reflection of "Japanese firms' autonomous market diversification strategies - a commercially driven reallocation of capital rather than a policymaker-led geopolitical shift from China to India".
+But Japanese firms aren't abandoning China en masse. What they are doing is "reducing concentration risk after several years of supply chain disruptions and geopolitical tensions", Shruti Pandalai, India Chair at the Sydney-based Lowy Institute think tank, told the BBC.
+India acts as a hedge against China-related risks, but there is also a growing overlap between Tokyo's economic security priorities and Delhi's manufacturing ambitions, which has strengthened the relationship despite significant political turnover in Tokyo, she says.
+"With each successive government the targets have risen rather than fallen. That suggests the relationship has moved beyond leader-level diplomacy and become embedded in bureaucratic, corporate and strategic planning on both sides."
+For Delhi, which is starved of foreign investment, the Japanese money comes at a crucial time.
+India's burgeoning trade deficit with China has been a matter of grave concern and closer Japan-India cooperation could gradually reduce China's leverage in areas such as critical minerals and advanced manufacturing over the longer term, according to Pandalai.
+But challenges to expanding the full scope of this relationship are many, say experts.
+"Japan remains deeply integrated into Chinese manufacturing networks, while India's engagement is more uneven but still significant in key sectors," writes Pratnashree Basu from the Observer Research Foundation for the online portal Scroll, external.
+"Economic interdependence, in this sense, constrains the scope for coordinated measures as these would impose significant commercial costs or provoke direct economic retaliation from China."
+Also, India remains a tough country to do business.
+Tax uncertainties, bureaucratic red tape, delays in land and environmental approvals are all long-documented challenges for foreign investors, including the Japanese.
+An ex-Japanese minister recently publicly blamed the government in Delhi for delays in the bullet train project, saying India kept "pushing its own self interest" and "flipping on promises" - criticism which the Indian government immediately rebuffed, external.
+Chinese state media, external was quick to pick up on the "rifts", using the incident as an example to highlight the gaps in India's ability to enforce contracts.
+It underscores why, even as it seals a raft of big-ticket economic and defence agreements, Delhi will need to work doubly hard to ensure Japanese investment momentum isn't disrupted - especially given its growing struggle to attract sustained foreign capital from elsewhere.
+Follow BBC News India on Instagram, external, YouTube,, external X, external and Facebook, external.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-31T22:07:19+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
+    readTime: 2,
+  },
+  {
     id: "amazon-rigged-billions-in-ad-pricing-law-4c0c0054",
     title: "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -303,6 +630,40 @@ UEFA、インファンティーノに対する刑事訴訟を準備中
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac98/live/245f6750-a568-11f1-a291-b542ee92de7c.jpg",
     readTime: 4,
+  },
+  {
+    id: "victoria-beckham-s-company-makes-its-fir-d8c13461",
+    title: "Victoria Beckham's company makes its first profit after 18 years",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Victoria Beckham's company makes its first profit after 18 years
+- Published
+Victoria Beckham's fashion and beauty business has made an operating profit for the first time since she founded it in 2008, the company has said.
+Victoria Beckham Holdings Ltd, which is led by the former Spice Girl as creative director, made an operating profit of £7.3m in 2025, accounts show, after years of losses.
+"We have all worked hard for a long time for this moment of profitability and growth," Lady Beckham told the Financial Times, external.
+"We've been very transparent about the problems that we had in the business but have recovered and are now growing at a sensible pace. After 20 years, people don't look at my brand as a celebrity brand any more."
+Skincare success
+Last year, a Netflix documentary told the story of her attempting to establish a fashion brand and achieve profitability - and the series itself helped boost sales, "with particularly strong momentum in denim and jersey", according to the accounts.
+The fashion side of the company delivered "strong double-digit growth" overall in 2025, they said, while the beauty side, which launched in 2019, "delivered one of its strongest performances to date".
+That was led by the popularity of her Foundation Drops, which had a 25,000-strong waiting list and which doubled the size of the skincare part of the company.
+The Netflix documentary showed the former pop star talking about her attempts to overcome doubters to be taken seriously as a designer and entrepreneur, then running into financial trouble when the company was "tens of millions in the red".
+The business was bailed out by her husband Sir David, who told the programme: "For her to have to come to me and say, 'Can I have some... We need some more money, the business needs more money' - that was hard for both of us because I didn't have the money to keep doing this."
+Lady Beckham said: "If he hadn't believed in me I wouldn't still have a business now."
+She went on to get £30m investment by selling 30% of the company to NEO Investment Partners in 2017, who launched a restructure.
+'Significant milestone'
+That included tackling what Beckham admitted was "mindblowing" waste, including "flying chairs from one side of the world to another" and spending what NEO's David Belhassen said was "70,000 a year" on office plants.
+In a statement on Monday, Belhassen, who is chairman of Victoria Beckham Holdings, said: "With two complementary growth engines in fashion and beauty, an increasingly international customer base and a focused operating model, the business is powerfully positioned for its next phase of profitable growth."
+CEO Sybille Darricarrère Lunel said: "Achieving our first operating profit is a landmark moment for Victoria Beckham and reflects several years of disciplined execution and strategic investment.
+"Delivering this result against a more challenging luxury market and macro backdrop makes it an even more significant milestone for the business."
+- Published12 June
+- Published9 October 2025`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-08-31T17:28:19+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg",
+    readTime: 2,
   },
   {
     id: "ai-could-cause-global-economic-downturn-632584d0",
@@ -1563,418 +1924,6 @@ Trump's expressed interest in taking over Greenland has also raised concerns.`,
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
     readTime: 3,
-  },
-  {
-    id: "canada-installs-large-lake-ontario-sign-9ec0f626",
-    title: "Canada installs large Lake Ontario sign in latest jab at US",
-    titleJa: "カナダ、米国への最新の攻撃にオンタリオ湖の大きな看板を設置",
-    summaryJa: "カナダ、米国への最新の攻撃にオンタリオ湖の大きな看板を設置- 公開されました",
-    bodyOriginal: `Canada installs large Lake Ontario sign in latest jab at US
-- Published
-Ontario Premier Doug Ford has hit back at Donald Trump by installing a large sign on Canada's shoreline with the message: "Lake Ontario. Now and Always."
-The US president signed an executive order on Thursday seeking to change its name to Lake America and has shared a series of AI-generated videos about the lake that straddles both countries.
-"Long before President Trump, this lake was called Lake Ontario. Long after President Trump is gone, it will still be called Lake Ontario," Ford said.
-The war of words was triggered after trade talks collapsed, with the US imposing new 50% tariffs on $20bn (C$28bn) of Canadian goods. Canada will implement "dollar for dollar" counter-tariffs next month.
-Trump said the decree was effective immediately as he signed the order to rename it Lake America.
-While he has broad discretion over how the US recognises landmarks, other countries are not required to follow. Canadian officials have dismissed Trump's move.
-On Saturday, Trump also posted several AI-generated videos on social media, with one showing him kicking over a Lake Ontario sign and replacing it with one that says: "Welcome to Lake America."
-Another video depicted a flock of Canada geese sporting the US president's hair and holding rifles as they patrolled the shoreline of a newly named Lake America.
-Ford said Trump's renaming of the lake was because he "didn't like Ontario and Canada standing up for ourselves".
-Standing in front of the newly unveiled Lake Ontario sign, Ford added: "Just in case President Trump or anyone else forgets, we've set up this sign to remind them, it's Lake Ontario, now and forever."
-It echoes Canadian Prime Minister Mark Carney's previous response to the row, insisting "things must be called by their name, and this lake is called Lake Ontario - today and forever".
-The names of four of the Great Lakes - Ontario, Huron, Michigan and Erie - originate from indigenous words. Lake Superior was named after an anglicised French word. Lake Ontario, the smallest of the Great Lakes, borders both the Canadian province and the US state of New York.
-Trump's executive order gives the US Department of the Interior 30 days to update the name change with the Geographic Names Information Service - the official repository of domestic geographic names in the US.
-When Trump entered the White House in 2025, he signed a similar order that changed the Gulf of Mexico to the Gulf of America. Mexico has rejected the name change, arguing a single country cannot rename a shared body of international water.
-It also led to a legal dispute between Mexico and tech giant Google, which renamed the gulf in its maps application.
-In that case, Google Maps users in the US see "Gulf of America", while those in Mexico see the "Gulf of Mexico". Those in other countries see the "Gulf of Mexico (Gulf of America)".
-Related topics
-- Published1 day ago
-- Published3 days ago`,
-    bodyJa: `カナダ、米国への最新の攻撃にオンタリオ湖の大きな看板を設置
-- 公開されました
-オンタリオ州のダグ・フォード首相は、カナダの海岸線に「オンタリオ湖。今もこれからも」というメッセージを書いた大きな看板を設置し、ドナルド・トランプ氏に反撃した。
-米国大統領は木曜日、湖の名前をアメリカ湖に変更することを求める大統領令に署名し、両国にまたがるこの湖についてAIが生成した一連の動画を共有した。
-フォード氏は「トランプ大統領のずっと前から、この湖はオンタリオ湖と呼ばれていた。トランプ大統領がいなくなってもずっと後も、この湖はオンタリオ湖と呼ばれるだろう」と語った。
-舌戦は通商協議が決裂し、米国が200億ドル（280億カナダドル）のカナダ製品に新たに50％の関税を課したことを受けて始まった。カナダは来月、「ドルにはドル」対抗関税を導入する予定だ。
-トランプ大統領は、アメリカ湖の名前を変更する命令に署名したため、この命令は直ちに発効すると述べた。
-同氏は米国がランドマークをどのように認識するかについて広範な裁量権を持っているが、他国が従う必要はない。カナダ当局はトランプ大統領の動きを否定した。
-土曜日にはトランプ大統領もソーシャルメディアにAIが生成したいくつかの動画を投稿しており、そのうちの1つはオンタリオ湖の看板を蹴り倒し、「アメリカ湖へようこそ」と書かれたものに差し替える様子を映していた。
-別のビデオには、カナダガンの群れが米国大統領の髪を振りかざし、ライフルを構え、新たに命名されたアメリカ湖の湖畔を巡回する様子が映されていた。
-フォード氏は、トランプ大統領が湖の名前を変更したのは「オンタリオ州とカナダが自分たちのために立ち上がるのが気に入らない」ためだと述べた。
-新たに公開されたオンタリオ湖の標識の前に立ったフォード氏は、「トランプ大統領や他の誰かが忘れた場合に備えて、私たちはこの標識を設置して、今も永遠もオンタリオ湖であることを思い出させるためにこの標識を設置した」と付け加えた。
-これは、この騒動に対するカナダのマーク・カーニー首相の以前の反応を反映し、「物事はその名前で呼ばれるべきであり、この湖は今日も永遠にオンタリオ湖と呼ばれる」と主張した。
-五大湖のうち 4 つであるオンタリオ湖、ヒューロン湖、ミシガン湖、エリー湖の名前は、先住民族の言葉に由来しています。スペリオル湖の名前は、英語化されたフランス語にちなんで付けられました。五大湖の中で最小のオンタリオ湖は、カナダの州と米国のニューヨーク州の両方に隣接しています。
-トランプ大統領の大統領令は、米国内務省に対し、米国国内の地理名の公式リポジトリである地理名情報サービスに名前の変更を更新するための30日間の猶予を与えている。
-トランプ大統領は2025年にホワイトハウスに入閣した際、メキシコ湾をアメリカ湾に変更する同様の命令に署名した。メキシコは、単一の国が共有する国際水域の名前を変更することはできないと主張し、名前変更を拒否した。
-また、メキシコと、地図アプリケーションで湾の名前を変更したテクノロジー大手グーグルとの間の法的紛争にもつながった。
-この場合、米国の Google マップ ユーザーには「アメリカ湾」が表示され、メキシコのユーザーには「メキシコ湾」が表示されます。他の国の人には「メキシコ湾（アメリカ湾）」が見えます。
-関連トピック
-- 1 日前に公開
-- 3 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-30T00:17:25+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg",
-    readTime: 4,
-  },
-  {
-    id: "at-least-37-dead-and-hundreds-evacuated-0587307d",
-    title: "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-    titleJa: "キエフ武器庫襲撃後、少なくとも37人が死亡、数百人が避難",
-    summaryJa: "キエフ武器庫襲撃後、少なくとも37人が死亡、数百人が避難- 公開されました",
-    bodyOriginal: `At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot
-- Published
-Thirty-seven people have died and almost 400 have been evacuated after a Russian drone strike hit a depot storing weapons for Ukraine's military near a residential area on the outskirts of Kyiv.
-The strike caused shells, mines and drones to detonate late on Friday, triggering a blast that damaged nearby properties including a care home for the elderly and disabled, President Volodymyr Zelensky said.
-He said the storage site "definitely shouldn't have been there" and that an investigation had been launched into "terrible negligence on the part of those who stored explosive right next to people".
-The attack is the second to hit a munitions depot near Kyiv in recent months, prompting renewed anger.
-Four children are among the 42 people injured in Friday night's explosion, according to regional head Tymur Tkachenko, with a rescue operation ongoing at the site, in the Bucha district, on Saturday.
-Russia's Ministry of Defence said in a statement that its forces had targeted "an ammunition depot" in Myla, a village to the west of the Ukrainian capital, holding "components and launch boosters for FP-1/FP-2 long-range unmanned aerial vehicles".
-The explosion damaged about 130 homes in the village.
-"Everything is completely damaged," local resident Liubov Pavlenko, 45, told the BBC while inspecting her home around 200m from the ammunition warehouse.
-"There are cracks all around the entire perimeter, and cracks around the windows. Basically, the structural integrity has been compromised," she added.
-"I'm still kind of numb. I don't know… once I come around a little tomorrow, I'll probably have an even bigger breakdown."
-Zelensky said the decision to store explosives in the village was "absolutely unacceptable", adding: "Criminal proceedings have been opened on charges of official negligence."
-The office of Ukraine's prosecutor general earlier said it was reviewing the "legality of the placement and storage of explosive objects and materials" near residential buildings in Myla.
-It said the "actions of officials who made the relevant decisions" would also be investigated.
-However, Zelensky earlier stated that "there are regulations in place - ammunition cannot be stored near homes or other residential areas", adding "appropriate conclusions will certainly be drawn".
-He referenced the strike on an ammunition warehouse in Vyshneve in July, which caused a secondary detonation that killed nine, injured dozens more and damaged more than 280 homes.
-Friday night's explosion has raised fresh questions about why munitions were being stored so close to people's homes, especially given the regularity of Russian aerial attacks.
-"The authorities, the Ministry of Defence - why was this allowed at the depots, in a place where there used to be food?" Borys Daniyluk, 61, said.
-"Why were ammunition and weapons stored there, next to a populated village? There are no words, just emotions."
-Ukrainian Prime Minister Sergiy Koretsky expressed regret that a "lesson" had not been learned following the explosion in Vyshneve.
-The investigation into that incident revealed serious failings on the part of a state-owned company that had not complied with regulations regarding storage of explosives near residential buildings.
-Zelensky indicated that the Myla depot had been operated by Ukraine's armed forces.
-"In the fifth year of the full-scale invasion, making the same mistakes over and over is criminal negligence," Koretsky said on Telegram.
-"Everyone responsible, without exception, must face severe punishment so that such situations never happen again."
-Meanwhile, Tkachenko said a 14-year-old was killed in a separate attack in the Boryspil district, while Kyiv Mayor Vitaliy Klitschko said a two-year-old had died after a Russian drone crashed in Obolonskyi.
-He added that five people, including an 18-year-old girl, were injured in fresh strikes on the capital on Saturday morning. Five people have been killed across the country over the past day, according to local officials.
-Zelensky reported further overnight strikes in Odesa, Dnipropetrovsk, Sumy and Zaporizhzhia, as the Ukrainian army said it had shot down 233 Russian drones.
-Russia and Ukraine have been intensifying their aerial attacks in recent months, with Kyiv focusing its operations on Russian economic targets.
-Ukraine has for weeks struck sites belonging to Wildberries, the country's biggest online retailer, describing the firm as a legitimate target because it supplied components to the military, which Moscow denies.
-In Russia, local officials said two people had been killed and 25 injured in strikes in the Belgorod and Rostov regions in the past 24 hours.
-The Moscow-appointed governor of the occupied Ukrainian region of Zaphorizhzhia said four people were injured after a Ukrainian strike hit a shopping centre.
-Russian online retailer Ozon said one of its logistic centres had been hit in an overnight Ukrainian drone strike. It said it had also suspended operations at a second logistics centre and evacuate staff "due to the danger in the area".
-The retailer's facilities in Krasnodar, Dagestan, Stavropol and Adygea were targeted in strikes earlier this week, resulting in several injuries and widespread damage.`,
-    bodyJa: `キエフ武器庫襲撃後、少なくとも37人が死亡、数百人が避難
-- 公開されました
-キエフ郊外の住宅地近くにあるウクライナ軍の武器を保管する倉庫がロシアの無人機攻撃で攻撃され、37人が死亡、約400人が避難した。
-ウォロディミル・ゼレンスキー大統領によると、この攻撃により金曜日遅くに砲弾、地雷、ドローンが爆発し、爆発が起こり、高齢者や障害者のためのケアホームを含む近隣の施設に被害を与えた。
-同氏は、保管場所は「間違いなくそこにあるべきではなかった」とし、「爆発物を人々のすぐ隣で保管していた者の重大な過失」について捜査が開始されたと述べた。
-キエフ近郊の弾薬庫への攻撃はここ数カ月で２度目で、新たな怒りを引き起こしている。
-地方長官ティムール・トカチェンコ氏によると、金曜日の夜の爆発で負傷した42人には子供4人が含まれており、土曜日にはブチャ地区の現場で救助活動が続いている。
-ロシア国防省は声明で、ロシア軍がウクライナの首都の西にある村マイラにある「弾薬庫」を標的とし、「FP-1/FP-2長距離無人航空機の部品と発射ブースター」を保管していると述べた。
-この爆発により、村の約130軒の家が被害を受けた。
-地元住民のリュボフ・パブレンコさん（４５）は、弾薬庫から約２００メートル離れた自宅を視察し、「すべてが完全に損傷している」とＢＢＣに語った。
-「周囲全体に亀裂があり、窓の周囲にも亀裂が入っている。基本的に、構造の完全性が損なわれている」と彼女は付け加えた。
-「まだ少し感覚が麻痺しているんです。わかりません…明日少し回復したら、おそらくさらに大きな故障になるでしょう。」
-ゼレンスキー大統領は、村に爆発物を保管するという決定は「絶対に容認できない」と述べ、「公務上の過失の容疑で刑事手続きが開始された」と付け加えた。
-ウクライナの検事総長事務所は先に、マイラの住宅付近での「爆発物や爆発物の設置と保管の合法性」を検討していると発表した。
-「関連決定を下した当局者の行動」も調査されると述べた。
-しかし、ゼレンスキー大統領は先に「規制が存在しており、住宅やその他の住宅地の近くに弾薬を保管することはできない」と述べ、「適切な結論が必ず導き出されるだろう」と付け加えた。
-同氏は、7月にヴィシネヴェの弾薬倉庫が襲撃され、二次爆発が発生して9人が死亡、数十人が負傷、280戸以上の家屋が被害を受けたことについて言及した。
-金曜日の夜の爆発は、特にロシアの空襲が定期的に行われていることを考えると、なぜ弾薬が人々の家の近くに保管されていたのかという新たな疑問を引き起こした。
-「当局、国防省、かつて食料があった場所でなぜこれが倉庫で許可されたのですか？」ボリス・ダニルクさん（61）は語った。
-「なぜ人口の多い村の隣に弾薬や武器が保管されていたのでしょうか？言葉はなく、感情だけが残っています。」
-ウクライナのセルギイ・コレツキー首相は、ヴィシュネヴェでの爆発事故後に「教訓」が生かされていないことに遺憾の意を表明した。
-この事件の調査では、住宅付近での爆発物の保管に関する規制を遵守していなかった国営企業側の重大な過失が明らかになった。
-ゼレンスキー大統領は、マイラ倉庫はウクライナ軍によって運営されていたと示唆した。
-コレツキー氏はテレグラムで「本格的な侵攻５年目で同じ過ちを繰り返すのは刑事上の過失だ」と述べた。
-「このような事態が二度と起こらないよう、責任者全員が例外なく厳しい処罰を受けなければならない。」
-一方、トカチェンコ氏は、ボルィースピリ地区での別の攻撃で14歳が死亡したと述べ、キエフ市長のヴィタリー・クリチコは、ロシアの無人機がオボロンスキーに墜落し、２歳児が死亡したと述べた。
-同氏は、土曜朝に首都で新たな空爆があり、18歳の少女を含む5人が負傷したと付け加えた。地元当局者によると、この１日で全国で５人が死亡した。
-ゼレンスキー大統領は、ウクライナ軍がロシアの無人機２３３機を撃墜したと発表したことを受け、オデッサ、ドニプロペトロウシク、スームィ、ザポリージャでもさらなる夜間攻撃を行ったと報告した。
-ロシアとウクライナはここ数カ月、空爆を強化しており、キエフはロシアの経済目標に作戦を集中させている。
-ウクライナは数週間にわたり、同国最大のオンライン小売業者であるワイルドベリーズ社のサイトを攻撃し、同社が軍に部品を供給していることから正当な標的であると主張しているが、ロシア政府はこれを否定している。
-ロシアでは地元当局者が、ベルゴロド州とロストフ州でのストライキで過去２４時間に２人が死亡、２５人が負傷したと発表した。
-モスクワが任命したウクライナ占領地域ザフォリージャ州知事は、ウクライナによるショッピングセンターへの攻撃で4人が負傷したと発表した。
-ロシアのオンライン小売業者オゾンは、一晩のウクライナの無人機攻撃で同社の物流センターの1つが被害を受けたと発表した。また、「地域の危険のため」第２物流センターの業務を停止し、従業員を避難させたと発表した。
-クラスノダール、ダゲスタン、スタヴロポリ、アディゲにあるこの小売店の施設は今週初めにストライキの標的となり、数名の負傷者と広範囲にわたる被害をもたらした。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-29T20:13:16+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
-    readTime: 5,
-  },
-  {
-    id: "former-ecuadorian-president-imprisoned-f-352344a6",
-    title: "Former Ecuadorian president imprisoned for corruption",
-    titleJa: "エクアドル元大統領、汚職で投獄",
-    summaryJa: "エクアドル元大統領、汚職で投獄- 公開されました",
-    bodyOriginal: `Former Ecuadorian president imprisoned for corruption
-- Published
-A former president of Ecuador has been sentenced to five years in prison after being found guilty of taking bribes.
-Lenín Moreno insisted he had not taken money from a Chinese firm which secured a contract to build a hydroelectric plant in the Latin American nation.
-The 73-year-old will serve his sentence under house arrest due to his age and disability, and has already indicated his intention to appeal against the verdict after a court in the capital, Quito, found him and 19 others guilty of corruption.
-Moreno, who was president between 2017 and 2021, is the third former Ecuadorian leader to be sentenced for corruption.
-Prosecutors alleged that that Sinohydro, which is owned by the Chinese state, paid a total of $76.1m (£56.2m) through shell companies to people involved in the deal to secure the construction of the Coca Codo Sinclair hydroelectric dam.
-Among those handed prison sentences were Moreno's wife, daughter and brother, as well as former plant managers, Sinohydro representatives and a Chinese ambassador to Ecuador.
-While Moreno himself was alleged to have received very little from the scheme, prosecutors said family members received tens of thousands of dollars.
-Those convicted of bribery will have to repay three times what they were given, while Moreno was barred from public office.
-He denied involvement in the alleged bribery scheme and instead blamed another former president, Rafael Correa, under whom he served as vice-president and who was sentenced to eight years in prison in a separate bribery case in 2020.
-Moreno argued that Correa had signed off on the Coca Codo Sinclair project, and that he had launched an investigation into issues with the construction when he had assumed the presidency.
-The Ecuadorian government launched legal proceedings against Sinohydro in 2021 due to cracks appearing in the dam and other technical failures. It reached a $400m settlement with the firm's owner earlier this year.
-The BBC has approached Sinohydro and the Chinese embassy in Ecuador for comment.`,
-    bodyJa: `エクアドル元大統領、汚職で投獄
-- 公開されました
-エクアドルの元大統領が収賄の罪で懲役５年の判決を受けた。
-レーニン・モレノ氏は、中南米の国に水力発電所を建設する契約を結んだ中国企業から資金は受け取っていないと主張した。
-73歳の同氏は、年齢と障害のため自宅軟禁下で刑に服する予定だが、首都キトの裁判所が同氏と他の19人に汚職の罪で有罪判決を下したことを受け、すでに判決に対して控訴する意向を示している。
-2017年から2021年まで大統領を務めたモレノ氏は、汚職で有罪判決を受けた元エクアドル指導者としては3人目となる。
-検察は、中国国家所有のシノハイドロ社が、コカ・コド・シンクレア水力発電ダムの建設を確保するために、ダミー会社を通じて取引関係者に総額7,610万ドル（5,620万ポンド）を支払ったと主張した。
-実刑判決を言い渡された人の中には、モレノ氏の妻、娘、兄弟のほか、元工場長、シノハイドロ社の代表者、駐エクアドル中国大使も含まれていた。
-モレノ氏自身はこの計画からごくわずかしか受け取っていないとされるが、検察当局は家族が数万ドルを受け取ったと述べた。
-贈収賄で有罪判決を受けた者は与えられた額の３倍を返済しなければならないが、モレノ氏は公職から追放された。
-同氏は贈収賄疑惑への関与を否定し、その代わりに、自身が副大統領を務め、2020年に別の贈収賄事件で懲役8年の判決を受けた別の元大統領ラファエル・コレア氏を非難した。
-モレノ氏は、コレア氏がコカ・コド・シンクレア計画に同意し、大統領就任時に建設問題の調査を開始したと主張した。
-エクアドル政府は、ダムに亀裂が発生したことやその他の技術的欠陥を理由に、2021年にシノハイドロ社に対する訴訟を開始した。今年初めに同社のオーナーと4億ドルの和解に達した。
-BBCはシノハイドロと在エクアドル中国大使館にコメントを求めた。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-29T19:44:54+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc04/live/e3ac7010-a3d0-11f1-b109-879e35c24276.jpg",
-    readTime: 2,
-  },
-  {
-    id: "norway-s-new-king-remembers-my-dear-fath-916c279d",
-    title: "Norway's new king remembers 'my dear father' in first speech",
-    titleJa: "ノルウェーの新国王、第一演説で「親愛なる父」を思い出す",
-    summaryJa: "ノルウェーの新国王、第一演説で「親愛なる父」を思い出す- 公開されました",
-    bodyOriginal: `Norway's new king remembers 'my dear father' in first speech
-- Published
-King Haakon VIII of Norway has paid warm tribute to his late father, Harald V, in his first speech to the nation since taking the throne.
-"Thank you for being such a good dad," he said in an at-times emotional televised address, seated at a desk in Norway's royal palace, beside a picture of the late king, two lit candles and a bowl of white roses.
-Harald, 89, who was seen as a moderniser and "people's king" during his 35-year reign, died in hospital on Friday morning after being treated for a rare blood condition.
-"Now it is my turn," his 53-year-old son said, adding that a "major task" awaited him and that he wished to be "present and attentive" going forward.
-Who is Norway's new King Haakon VIII?
-- Published1 day ago
-Norway mourns King Harald as Haakon VIII ascends throne
-- Published1 day ago
-Oslo mayor calls off wedding ceremony after death of Norway's king
-- Published1 day ago
-Haakon stressed national unity in the speech, saying the royal family believed in a "society built on law and justice, where everyone is of equal value".
-He said Harald had been a good father to himself and his sister, Princess Märtha Louise, as well as a "warm and funny grandfather" to his six grandchildren and a "loving and caring husband" to his widow, Queen Sonja.
-The new king appeared to choke back tears as he noted that Saturday would have been their 58th wedding anniversary.
-Harald brought the family together "with a natural authority", of which he might not have been aware himself, his son recalled.
-He had "always stayed true" to his "values and commitments", the new king stressed.
-"He constantly reminded us in the family that each of us must do things in our own way. Find our own style. Be ourselves," Haakon said.
-He also remarked on the "powerful and moving experience" of seeing thousands of Norwegians gather outside the royal palace in the capital Oslo with "flowers, tributes and candles".
-"We are in mourning, yet at the same time it brings comfort and strength that so many are grieving together with us," he said.
-Norwegians have been laying flowers outside the royal palace in Oslo since news broke that Harald had died on Friday. A national period of mourning has been declared, with no date yet given for his funeral.
-Among them was Norway's Prime Minister, Jonas Gahr Støre, who laid flowers outside the palace and signed a book of condolences after greeting the new king, said the country was "united in grief and gratitude".
-Haakon will swear an oath of allegiance in parliament on Tuesday and will later participate in a consecration service with his wife, Queen Mette-Marit - a stripped-down version of a coronation, which Norway no longer holds.
-He assumes his new role at a difficult time, as the royal family has faced health challenges and scandals this year.
-Mette-Marit came under scrutiny when it was revealed that she had had a three-year friendship with the late convicted sex offender Jeffrey Epstein, for which she publicly apologised.
-She later received a lung transplant, after suffering from pulmonary fibrosis since 2018. Doctors will not declare her stable until next year, meaning her husband must balance his new official duties with her care.
-Her son from a previous relationship, Marius Borg Høiby, was convicted in June of rape and other offences and sentenced to four years in prison. He is appealing.
-Høiby is not a member of the royal family, but was raised with them since he was four years old, when Haakon married his mother.
-Haakon's sister, Märtha Louise, has also courted controversy for remarrying an American self-styled shaman in 2024, their business activities ultimately leading her to step back from royal duties.
-Without directly referencing these controversies, Haakon said during his speech: "Our family has experienced the importance of standing together in order to remain steadfast both within ourselves and for one another even during difficult times."
-He said he, along with Mette-Marit and Crown Princess Ingrid Alexandra, would "always strive to understand the life situations of different people".
-He added: "No one who lives in this country knows what we will face together, but what we do know is that we will stand by one another through both good days and difficult ones."
-Although Harald remained popular until his death, a poll for newspaper Aftenposten earlier this year suggested that support for the monarchy had dropped from 72% in 2024 to 54%.
-However, Norwegian royal experts told the BBC that the new king, while facing questions about the turbulence surrounding his family, was respected, hard-working and, they believed, able to move forward despite the challenges.`,
-    bodyJa: `ノルウェーの新国王、第一演説で「親愛なる父」を思い出す
-- 公開されました
-ノルウェー国王ホーコン8世は、即位後初めて国民に向けた演説で亡き父ハーラル5世に温かい敬意を表した。
-「良い父親でいてくれてありがとう」と、ノルウェー王宮の机に座り、亡き国王の写真、火のついた2本のろうそく、白いバラのボウルの横に座り、時に感情を揺さぶるテレビ演説で語った。
-35年間の治世中、近代化者であり「人民の王」とみなされていた89歳のハラルド氏が、まれな血液疾患の治療を受けた後、金曜朝に病院で死去した。
-53歳の息子は「今度は私の番だ」と語り、「重大な任務」が彼を待っており、今後は「立ち会って注意深く」いたいと付け加えた。
-ノルウェーの新国王ホーコン 8 世とは誰ですか?
-- 1 日前に公開
-ノルウェー、ハーコン8世の即位に伴いハーラル王を追悼
-- 1 日前に公開
-ノルウェー国王死去を受け、オスロ市長が結婚式を中止
-- 1 日前に公開
-ホーコン氏は演説で国民の団結を強調し、王室は「法と正義に基づいて構築され、誰もが平等な価値を持つ社会」を信じていると述べた。
-同氏は、ハラルド氏は自身と妹のマーサ・ルイーズ王女にとって良き父親であり、6人の孫にとっては「温かくて面白い祖父」であり、未亡人のソーニャ王妃にとっては「愛情深く思いやりのある夫」だったと述べた。
-新国王は土曜日が二人の58回目の結婚記念日だったと述べ、涙をこらえているようだった。
-ハラルドさんは、自分でも気づいていなかったかもしれないが、「自然な権威で」家族を団結させたと息子は回想した。
-新国王は自身の「価値観と公約」に「常に忠実であった」と強調した。
-「彼は家族の中で、私たち一人ひとりが自分のやり方で物事を行わなければならないことを常に思い出させてくれました。自分のスタイルを見つけて、自分らしくありなさい」とホーコンさんは語った。
-同氏はまた、首都オスロの王宮の外に数千人のノルウェー人が「花、賛辞、ろうそく」を持って集まるのを見た「力強く感動的な経験」についても述べた。
-「私たちは喪に服していますが、同時に、これほど多くの人が私たちとともに悲しんでいるということは慰めと力を与えてくれます」と彼は語った。
-金曜日にハラルドさんが亡くなったというニュースが流れて以来、ノルウェー人たちはオスロの王宮の外で献花を続けている。全国的な服喪期間が宣言されたが、葬儀の日程はまだ発表されていない。
-その中にはノルウェーのヨナス・ガール・ストア首相も含まれており、新国王に挨拶した後、宮殿の外に献花し、哀悼の書に署名し、国は「悲しみと感謝の気持ちで団結している」と述べた。
-ホーコン氏は火曜日に議会で忠誠の誓いを立て、その後、妻のメッテ・マリット女王とともに聖別式に参加する予定だが、これはノルウェーではもう行われていない戴冠式の簡略版である。
-今年、王室が健康問題やスキャンダルに直面しているため、彼は困難な時期に新たな役職に就くことになる。
-メッテ・マリットさんは、有罪判決を受けた性犯罪者の故ジェフリー・エプスタインさんと3年間にわたる友人関係にあったことが明らかになり、厳しい視線を浴びたが、そのことについて公に謝罪した。
-彼女は2018年から肺線維症を患い、その後肺移植を受けた。医師は来年まで彼女の安定を宣言しないため、夫は新たな公務と彼女の介護のバランスをとらなければならないことになる。
-彼女の以前の交際相手との間にできた息子、マリウス・ボルグ・ホイビさんは、6月に強姦などの罪で有罪判決を受け、懲役4年の判決を受けた。彼は魅力的だ。
-ホイビーは王室の一員ではないが、ホーコンが母親と結婚した4歳の頃から王室の一員として育てられた。
-ホーコンの妹、マーサ・ルイーズも2024年に米国人の自称シャーマンと再婚して物議を醸しており、彼らのビジネス活動が最終的に彼女を王室の公務から退くことにつながった。
-ホーコン氏はスピーチの中で、これらの論争には直接言及せず、「私たち家族は、困難な時期であっても自分自身とお互いのために毅然とした態度を保つために団結することの重要性を経験してきた」と述べた。
-同氏は、メッテ・マリット氏とイングリッド・アレクサンドラ皇太子妃とともに「さまざまな人々の生活状況を理解するよう常に努める」と述べた。
-さらに、「この国に住んでいる人は、私たちが一緒に何に直面するかは誰も知りませんが、私たちが知っているのは、良い日も困難な日もお互いに寄り添っていくということです」と付け加えた。
-ハラルド氏は亡くなるまで人気があったが、今年初めのアフテンポステン紙の世論調査では、君主制への支持率が2024年の72％から54％に低下していることが示唆された。
-しかし、ノルウェー王室専門家らはBBCに対し、新国王は家族を取り巻く混乱について疑問に直面しながらも尊敬されており、勤勉であり、困難にもかかわらず前進できると信じていると語った。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-29T19:06:28+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecd7/live/b200b740-a3dc-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 5,
-  },
-  {
-    id: "openai-to-end-model-access-to-cursor-aft-23c5540c",
-    title: "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX",
-    titleJa: "OpenAI、イーロン・マスク氏のSpaceXによる買収後、モデルのCursorへのアクセスを終了へ",
-    summaryJa: "OpenAIは、SpaceXによるコーディングスタートアップ企業の600億ドル買収後の懸念を理由に、Cursorを通じたモデルへのアクセスを11月12日に終了する予定だ。",
-    bodyOriginal: `OpenAI announced late Friday that it is ending developers' access to its models on Cursor, following the acquisition of the AI coding startup by Elon Musk's SpaceX earlier this month.
-Cursor CEO Michael Truell said, in a post on the SpaceX-owned social network X Friday night: "OpenAI models serve about 5% of Cursor user traffic, and we're speaking with the OpenAI team to resolve this. Cursor was one of the very first users of OpenAI, we've worked closely with their team for years, and we've trusted their platform to be neutral infrastructure for our business."
-In their announcement, OpenAI said, "We are making this choice because we cannot be confident that SpaceX will use our technology within our terms of service, based on our experience with Elon Musk's companies violating contracts."
-Its "proposed shutoff date" for OpenAI models via Cursor is Nov. 12, 2026. OpenAI also said it would not provide future models to Cursor as it winds down the agreement.
-Cursor and OpenAI did not immediately respond to CNBC's requests for comment.
-SpaceX completed its $60 billion acquisition of Cursor on Aug. 14, according to financial filings. Before SpaceX went public in June, it had acquired Musk's X and xAI in February.
-OpenAI's move away from Cursor, now that SpaceX owns it, is part of a long-running and acrimonious clash between Musk and OpenAI CEO Sam Altman and President Greg Brockman.
-In a post on X on Saturday, Musk wrote, "I couldn't care less. Scam Altman and Greg Stockman are utterly untrustworthy," used an expletive to describe them, then repeated his claim that they "stole an open source nonprofit."
-Musk sued OpenAI, Altman and Brockman in 2024 after co-founding and helping to fund the AI company as a non-profit research lab in 2015.
-Musk left OpenAI's board in 2018 after hiring talent away from the company, cutting off donations he had promised to OpenAI, and clashing with fellow board members over its direction. He later became one of its most prominent critics.
-After Musk left, OpenAI launched massively successful AI products, namely ChatGPT, struck partnerships with tech titans including Microsoft, converted its business into a for-profit with a non-profit parent, and raised huge sums of funding.
-Musk has argued in court that OpenAI's restructuring violated its founding commitments and has described the change as "stealing a charity." OpenAI disputes his claims. While he lost his lawsuit earlier this year, Musk has vowed to appeal.
-As the market for "vibe coding" — or AI-assisted coding tools — heats up, OpenAI is poised to go public next year, while rival Anthropic has been holding preliminary meetings with bankers ahead of a possible IPO this year at an expected valuation as high as $2 trillion, CNBC previously reported.
-OpenAI's choice to end developers' access to its models via Cursor is not a first in the industry.
-Last June, Anthropic — which is now partnering with SpaceX and renting compute capacity from Musk's company — blocked Windsurf access to its Claude AI models.
-Anthropic co-founder and executive Tom Brown wrote in a post on X on Friday night, "Cursor has been a trusted partner of Anthropic since Sonnet 3.5. We'll continue to increase compute to support Claude models in Cursor and are excited for what comes next with them at SpaceX."
-His post drew criticism from some technology executives on X, with Replit CEO Amjad Masad reminding Brown of Anthropic's history with Windsurf, and Docker executive Mat Velloso replying, "This was a great opportunity to stay quiet."`,
-    bodyJa: `OpenAIは、今月初めにイーロン・マスク氏のスペースXがAIコーディングスタートアップを買収したことを受け、金曜日遅く、開発者によるCursor上の自社モデルへのアクセスを終了すると発表した。
-Cursorの最高経営責任者（CEO）マイケル・トゥエル氏は、SpaceXが所有するソーシャルネットワークXへの金曜日の夜の投稿で、「OpenAIモデルはCursorユーザートラフィックの約5％にサービスを提供しており、これを解決するためにOpenAIチームと話し合っている。CursorはOpenAIの最初のユーザーの1つであり、私たちは彼らのチームと何年も緊密に協力しており、彼らのプラットフォームが当社のビジネスにとって中立的なインフラストラクチャであると信頼してきた」と述べた。
-OpenAIは発表の中で、「イーロン・マスク氏の企業が契約に違反した経験に基づき、スペースXがサービス利用規約の範囲内で当社のテクノロジーを使用するという確信が持てないため、この選択を行っている」と述べた。
-Cursorを介したOpenAIモデルの「提案終了日」は2026年11月12日である。OpenAIはまた、契約が終了するため、Cursorに将来のモデルを提供しないとも述べた。
-CursorとOpenAIはCNBCのコメント要請にすぐには応じなかった。
-財務書類によると、スペースXは8月14日に600億ドルでのカーソル社買収を完了した。スペースXは6月の株式公開に先立ち、2月にマスク氏のXとxAIを買収していた。
-OpenAIがCursorから撤退し、現在はSpaceXが所有しているが、これはマスク氏とOpenAIのCEOであるサム・アルトマン氏と社長のグレッグ・ブロックマン氏との間の長期にわたる辛辣な衝突の一環である。
-土曜日のXへの投稿でマスク氏は、「どうでもいい。詐欺アルトマンとグレッグ・ストックマンは全く信用できない」と彼らを罵り言葉で表現し、その後、彼らが「オープンソースの非営利団体を盗んだ」との主張を繰り返した。
-マスク氏は、2015年に非営利の研究所としてAI企業を共同設立し資金提供を支援した後、2024年にOpenAI、アルトマン、ブロックマンを訴えた。
-マスク氏は、社内から人材を雇用したり、OpenAIに約束していた寄付金を打ち切ったり、方向性を巡って同僚の取締役と衝突したりした後、2018年にOpenAIの取締役会を去った。彼は後にその最も著名な批評家の一人となった。
-マスク氏の退任後、OpenAIは大成功を収めたAI製品「ChatGPT」を発売し、マイクロソフトを含む大手テクノロジー企業と提携し、非営利の親会社とともに事業を営利企業に転換し、巨額の資金を調達した。
-マスク氏は法廷で、OpenAIの組織再編は設立時の公約に違反し、この変更は「慈善活動を盗む」ものだと述べた。 OpenAIは彼の主張に異議を唱えている。今年初めの訴訟では敗訴したが、マスク氏は控訴すると明言した。
-「バイブコーディング」（AI支援コーディングツール）の市場が加熱する中、OpenAIは来年上場する構えだが、ライバルのアンスロピックは今年のIPOの可能性に先立ち、予想評価額が2兆ドルに達する見込みで銀行関係者との予備会合を行っているとCNBCが以前報じた。
-Cursor を介した開発者のモデルへのアクセスを終了するという OpenAI の選択は、業界で初めてではありません。
-昨年6月、Anthropic（現在SpaceXと提携し、マスク氏の会社からコンピューティング能力を借りている）は、Windsurfによる自社のClaude AIモデルへのアクセスをブロックした。
-Anthropic の共同創設者で幹部の Tom Brown 氏は金曜日の夜、X への投稿で、「Cursor は Sonnet 3.5 以来、Anthropic の信頼できるパートナーでした。私たちは Cursor のクロード モデルをサポートするために引き続きコンピューティングを強化し、SpaceX での今後の展開に興奮しています。」と書いています。
-同氏の投稿はXに関する一部のテクノロジー幹部からの批判を呼び、Replit CEOのAmjadmasad氏はAnthropicとWindsurfの歴史をBrown氏に思い出させ、Docker幹部のMat Velloso氏は「これは沈黙を守る絶好の機会だった」と返答した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
-    publishedAt: "2026-08-29T19:06:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "trump-administration-weighs-yosemite-lan-9eef6141",
-    title: "Trump administration weighs Yosemite land swap for private developer’s access road",
-    titleJa: "トランプ政権、民間開発業者のアクセス道路とヨセミテの土地交換を検討",
-    summaryJa: "トランプ政権は、ヨセミテ国立公園の一部またはその権益を、新しいアクセス道路を求める民間開発業者と交換する可能性のある土地交換を検討していると内務省と同社の弁護士が認めた。キングスバーンの弁護士ラニー・デイビス氏は声明で、国立公園局はネバダ州に本拠を置くキングスバーン・リアルティ・キャピタルと土地交換について協議しており、開発業者がヨセミテの入り口につながる「1マイル以内」のアクセス道路を建設できるようにすることを明らかにした。",
-    bodyOriginal: `The Trump administration is considering a land swap that could exchange a small piece of Yosemite National Park, or an interest in it, to a private developer seeking a new access road, the Interior Department and the company's lawyer confirmed.
-The National Park Service has been in discussions with Nevada-based Kingsbarn Realty Capital about a land swap so that the developer can build an access road that's "under a mile" to connect to Yosemite's entrance, Lanny Davis, an attorney for Kingsbarn, said in a statement.
-Kingsbarn owns an 83-acre parcel historically known as Hazel Green Ranch near Yosemite's western boundary. As part of the deal, Kingsbarn would purchase land of equal value elsewhere in California and hand it over to the park service, according to documents obtained by NOTUS, which first reported the move.
-A spokesperson for the Interior Department said in a statement that no final decision has been made.
-"Any land exchange or access proposal involving National Park Service lands would be subject to all applicable federal laws, regulations and Departmental policies, including required environmental review and public notification processes," the spokesperson said.
-They added that if a proposal advances, the department will "follow established procedures" to ensure there's transparency and public involvement "consistent with federal law."
-Davis said the shorter access route would reduce driving and vehicle emissions, framing the proposal as environmentally beneficial.
-The Sierra Club, an environmental advocacy group, rebuked the plan, calling it a "corrupt back-room deal" that would break with a longstanding commitment to "protect Yosemite for the public good" by handing over national park land to a developer.
-The National Parks Conservation Association said the proposal "attempts to dismantle America's conservation legacy."
-"This is an attack on the American people that own this national park," the group said in a statement. "It would also be unlawful, and a court previously rejected a road development proposal."
-The property's former owner previously went to court seeking easement rights over roads leading toward Yosemite. A federal appeals court in 2012 affirmed dismissal of those claims.
-Land exchanges are common elsewhere in the federal government, but exchanging National Park Service land for private development access is unusual, NOTUS reported, citing a former park service official. The Trump administration's legal justification for the exchange remains unclear.
-Jeff Pori, the CEO of Kingsbarn, made regular, mostly small-dollar donations to President Donald Trump's campaign committee between 2024 and 2025 and, according to NOTUS, has no history of donating to national political campaigns before October 2024.
-CNBC has found no evidence that Pori's political contributions influenced the administration's consideration of the proposal.`,
-    bodyJa: `トランプ政権は、ヨセミテ国立公園の一部またはその権益を、新しいアクセス道路を求める民間開発業者と交換する可能性のある土地交換を検討していると内務省と同社の弁護士が認めた。
-キングスバーンの弁護士ラニー・デイビス氏は声明で、国立公園局はネバダ州に本拠を置くキングスバーン・リアルティ・キャピタルと土地交換について協議しており、開発業者がヨセミテの入り口につながる「1マイル以内」のアクセス道路を建設できるようにすることを明らかにした。
-キングスバーンは、ヨセミテの西の境界近くに、歴史的にヘーゼル グリーン ランチとして知られる 83 エーカーの区画を所有しています。この動きを最初に報じたNOTUSが入手した文書によると、取引の一環として、キングスバーンはカリフォルニア州内の他の場所で同等の価値の土地を購入し、公園管理局に引き渡す予定だという。
-内務省報道官は声明で、最終決定は下されていないと述べた。
-「国立公園局の土地に関わるいかなる土地交換やアクセス提案も、必要な環境審査や公告手続きを含め、適用されるすべての連邦法、規制、および省の方針に従うことになる」と広報担当者は述べた。
-さらに、提案が進められれば、同省は「連邦法に準拠した」透明性と国民の参加を確保するために「確立された手順に従う」と付け加えた。
-デイビス氏は、アクセスルートが短縮されることで走行と車両の排出ガスが削減され、この提案は環境に有益であると述べた。
-環境擁護団体のシエラクラブは、国立公園の土地を開発業者に引き渡すという「公益のためにヨセミテを保護する」という長年の約束を破る「不正な密室取引」だとし、この計画を非難した。
-国立公園保護協会は、この提案は「米国の保護遺産を解体しようとしている」と述べた。
-同団体は声明で「これはこの国立公園を所有するアメリカ国民に対する攻撃だ」と述べた。 「これも違法であり、裁判所は以前道路開発提案を却下した。」
-この物件の元所有者は以前、ヨセミテに向かう道路の地役権を求めて裁判所に出廷した。連邦控訴裁判所は2012年にこれらの請求の棄却を認めた。
-土地交換は連邦政府内の他の地域では一般的だが、民間開発アクセスのために国立公園局の土地を交換するのは異例であるとNOTUSが元公園局職員の話として報じた。トランプ政権がこの交換を法的に正当化する根拠は依然として不明瞭だ。
-キングスバーンのジェフ・ポリ最高経営責任者（CEO）は、2024年から2025年にかけて、ドナルド・トランプ大統領の選挙委員会に定期的に、主に少額の寄付をしており、NOTUSによると、2024年10月以前に全国的な政治運動に寄付した履歴はないという。
-CNBCは、ポリ氏の政治献金が政権のこの提案の検討に影響を与えたという証拠は見つかっていない。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
-    publishedAt: "2026-08-29T18:21:49+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "right-wing-commentator-milo-yiannopoulos-9d037024",
-    title: "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-    titleJa: "右翼評論家のマイロ・ヤノプロス氏が米国から英国へ国外追放",
-    summaryJa: "右翼評論家のマイロ・ヤノプロス氏が米国から英国へ国外追放- 公開されました",
-    bodyOriginal: `Right-wing commentator Milo Yiannopoulos deported from US to UK
-- Published
-British right-wing political commentator Milo Yiannopoulos has been deported from the United States after being detained by Immigration and Customs Enforcement (ICE).
-Yiannopoulos, 41, a former editor of Breitbart News and one time political aide to rapper Kanye West, was deported on Friday, according to the Department of Homeland Security (DHS).
-Yiannopoulos, "an illegal alien from the United Kingdom" had been sent "back to his home country", a DHS spokesperson said in a statement given to the BBC.
-The self-styled provocateur has called himself the "most fabulous supervillain on the internet" and advocated for stricter US immigration controls. His critics call him a purveyor of hate speech.
-Yiannopoulos, who grew up in Kent in the south of England, was arrested on 27 August after arriving at Louis Armstrong New Orleans International Airport.
-He flew into the US in May 2019 and "chose to overstay his welcome in violation of our nation's laws", the DHS said.
-He has previously cheered on ICE raids, last year calling for "total legal immunity for ICE agents when they're on duty".
-He wrote on social media in 2025: "We have got to deport millions and millions of people. Without that, nothing else matters."
-Yiannopoulos also advocated "on the spot deportation for anyone who can't prove they are in the US legally" on social media.
-Yiannopoulos was an early supporter of Donald Trump during the 2016 election, headlining an event that year called Gays for Trump during the Republican National Convention.
-The commentator has since become a critic of the US president, but still voices support for his agenda. He wrote on X in March this year that Trump had "lost his way, bought off by foreign interests".
-Yiannopoulos has courted controversy with his comments on transgender people, Muslims, Black Lives Matter, feminists and gay people, even though he himself identified as gay. He now calls himself an "ex-gay".
-In 2020, he assisted West in the rapper's unsuccessful bid to become president. He also worked for Marjorie Taylor Greene, a former Republican congresswoman who fell out with Trump and became a fierce critic before resigning from office.
-Laura Loomer, a far-right commentator and Trump ally who has feuded with Yiannopoulos, took credit for his arrest by ICE, claiming on X on Friday night that his flight back to the UK had already departed.
-"This subversive foreign agent is already out of the United States and DHS tells me he's NEVER allowed to come back to the United States ever again," she wrote.
-In 2017, he was disinvited from speaking at CPAC, a US conservative conference that also hosted Trump, after footage emerged of Yiannopoulos appearing to condone paedophilia. He also later apologised and resigned from Breitbart.
-He denied the allegations and said he had been speaking about his own experiences as a child.
-Yiannopoulos was once regularly linked with the alt-right, a disparate group that is outspoken against political correctness and feminism, and which includes neo-Nazis and white supremacists among its ranks.
-He has said he did not consider himself part of the alt-right, although he has called it "energising and exciting".
-Related topics
-- Published20 hours ago`,
-    bodyJa: `右翼評論家のマイロ・ヤノプロス氏が米国から英国へ国外追放
-- 公開されました
-英国の右翼政治評論家マイロ・ヤノプロス氏が移民関税執行局（ICE）に拘束され、米国から国外追放された。
-国土安全保障省（DHS）によると、ブライトバート・ニュースの元編集者でラッパーのカニエ・ウェストの政治補佐官だったヤノプロス氏（41歳）が金曜日に国外追放された。
-DHSの広報担当者はBBCに与えた声明の中で、「英国からの不法滞在者」ヤノプロス氏は「母国に送還された」と述べた。
-自称挑発者は自らを「インターネット上で最も素晴らしいスーパーヴィラン」と呼び、米国の入国管理の厳格化を主張した。彼を批判する人々は彼をヘイトスピーチの御用達と呼んでいる。
-イングランド南部のケント州で育ったヤノプロスさんは、8月27日にルイ・アームストロング・ニューオーリンズ国際空港に到着後逮捕された。
-DHSは、彼は2019年5月に米国に入国し、「我が国の法律に違反して歓迎を超えて滞在することを選択した」と述べた。
-同氏はこれまでにもICEの強制捜査を支持しており、昨年には「ICE職員の勤務中の完全な法的免除」を求めた。
-同氏は2025年にソーシャルメディアに「何百万人もの人々を国外追放しなければならない。それがなければ、他に何も問題はない」と書いた。
-ヤノプロス氏はまた、ソーシャルメディア上で「合法的に米国に滞在していることを証明できない者には即時国外追放」を主張した。
-ヤノプロス氏は2016年の選挙では初期からドナルド・トランプ氏を支持しており、同年の共和党全国大会では「ゲイズ・フォー・トランプ」と呼ばれるイベントのヘッドライナーを務めた。
-その後、コメンテーターは米国大統領を批判するようになったが、依然として大統領の政策への支持を表明している。同氏は今年3月、トランプ氏が「外国の利益に買収され、道に迷った」とXに書いた。
-ヤノプロス氏は、自身も同性愛者であると自認していたにもかかわらず、トランスジェンダー、イスラム教徒、ブラック・ライブズ・マター、フェミニスト、同性愛者に関する発言で物議を醸してきた。彼は現在、自分自身を「元同性愛者」と呼んでいます。
-2020年にはウェスト氏の大統領就任を支援したが、失敗に終わった。彼はまた、トランプ大統領と不仲になり、辞任する前に激しい批判者となった元共和党議員マージョリー・テイラー・グリーン氏の下でも働いていた。
-極右評論家でヤノプロス氏と確執がありトランプ氏の盟友であるローラ・ルーマー氏は、ICEによる同氏の逮捕は自分の手柄だとし、金曜夜のX番組で英国へ帰国する飛行機はすでに出発していたと主張した。
-「この破壊的な外国工作員はすでに米国を出国しており、国土安全保障省は彼が二度と米国に戻ることは許されないと言っている」と彼女は書いた。
-2017年、ヤノプルス氏が小児性愛を容認しているかのような映像が流出したことを受け、トランプ氏も主催した米国の保守系会議「CPAC」での講演から招待を取り消された。彼は後に謝罪し、ブライトバート社を辞任した。
-彼は容疑を否定し、子供の頃の自分の経験について話していたと述べた。
-ヤノプロス氏はかつて、ポリティカル・コレクトネスやフェミニズムに対して声高に反対する異種グループであるオルタナ右翼と定期的に結びついており、その中にはネオナチや白人至上主義者も含まれていた。
-同氏は、自分がオルタナ右翼の一員であるとは考えていないが、オルタナ右翼を「活力を与え刺激的なもの」だと述べている。
-関連トピック
-- 20 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-29T17:52:42+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg",
-    readTime: 4,
-  },
-  {
-    id: "am-i-too-old-for-roth-conversions-i-m-84-9447a3b7",
-    title: "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "「私たちはファイナンシャル・アドバイザーに資産の2％、つまり年間約16万ドルを支払うことに気が進まないのです。」",
-    bodyOriginal: `“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”`,
-    bodyJa: `「私たちはファイナンシャル・アドバイザーに資産の2％、つまり年間約16万ドルを支払うことに気が進まないのです。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-    publishedAt: "2026-08-29T16:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-88832809",
-    readTime: 2,
   },
 ];
 
