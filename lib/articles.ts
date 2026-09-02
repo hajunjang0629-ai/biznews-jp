@@ -15,6 +15,509 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "australia-posts-second-quarter-growth-of-b6371247",
+    title: "Australia posts second-quarter growth of 2.1%, beating expectations",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Australia's economic growth beat expectations in the second quarter, expanding 2.1% year on year, data released Wednesday showed.
+Economists polled by Reuters had estimated growth at 1.8%, while the economy had expanded by 2.5% in the prior quarter.
+On a quarter-on-quarter basis, GDP rose 0.4%, also marginally surpassing expectations of 0.3%. The slight growth was driven by private demand and mining exports.
+The Australian Bureau of Statistics said in its statement that households continued to behave cautiously, with spending remaining subdued and rising just 0.4%. Households reduced fuel consumption due to elevated prices owed to the Middle East conflict, and cut domestic and international travel.
+The stronger-than-expected GDP print will allow the Reserve Bank of Australia room to go ahead with its policy tightening as it seeks to curb inflation.
+At its last meeting, some RBA board members had considered the case for additional tightening, saying that inflation in the country was still too high.
+Australia's July inflation reading surpassed expectations, coming in at 3.5% compared to the 3.3% forecast.
+The RBA forecast that inflation would decline only gradually, returning to around the midpoint of its 2%-3% target range by late 2027.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
+    publishedAt: "2026-09-02T03:05:14+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "trump-says-u-s-is-not-forcing-iran-to-ne-1a884c6e",
+    title: "Trump says U.S. is not forcing Iran to negotiate after fresh round of strikes",
+    titleJa: "トランプ大統領、新たな攻撃後も米国はイランに交渉を強制していないと発言",
+    summaryJa: "米軍が火曜日にイランに対する新たな攻撃を完了したことを受け、ドナルド・トランプ大統領は「イランを交渉のテーブルにつかせるつもりはない」と述べた。トランプ大統領は真実ソーシャルへの投稿で、米国がホルムズ海峡を「ほぼ完全に支配」していると繰り返し述べ、イラン経済は崩壊しつつあると付け加えた。",
+    bodyOriginal: `President Donald Trump said he was "not trying to force Iran to the bargaining table," as U.S. forces completed a fresh round of strikes against the Middle Eastern country on Tuesday stateside.
+In a Truth Social post, Trump reiterated that the U.S. has "almost total control" over the Strait of Hormuz, while adding that Tehran's economy was collapsing.
+He said that Iran was just "playing out the inevitable" and asked "When are the Iranian people going to rise up and fight?"
+In a post on X, the U.S. Central Command said that it struck air defense and communications sites, and radar systems in Iran, in retaliation against the "recent attempted attacks" by the country against commercial shipping in the Strait of Hormuz and against American service members.
+Tehran has responded to American strikes, targeting U.S. ally Jordan. The country's armed forces said that it was targeted by a missile attack that originated from Iranian territory.
+A spokesperson for Jordan's armed forces said on X that 10 of 13 missiles were intercepted by the country's air defense systems, with the three fell in remote areas. No injuries or deaths were reported.
+Bahrain's interior ministry also announced "an alert of potential threat" early Wednesday local time, urging citizens to head to the nearest safe location. The nature of the threat was not immediately clear.
+Oil prices continued to rise in Asia trading Wednesday following the strikes, after international benchmark Brent rose 4.5% to $94.52 a barrel on Tuesday, while U.S. West Texas Intermediate futures added about 5% to $90.03 per barrel, hitting levels not seen since July 24.
+Trump earlier called the latest U.S. strikes "large and powerful," and threatened further military action if Tehran retaliated against what he called a "very justified attack."
+Iranian forces on Monday stateside had hit a U.S. base in Jordan after American forces attacked rocket launchers on Iran's Larak Island the day before. Washington claimed that the launchers were preparing to fire rockets carrying sea mines into the strait.
+The Sunday strikes were the first time that the U.S. and Iran traded attacks in about a month, and after the Trump administration said it was launching an "economic D-Day" on Tehran's backers.`,
+    bodyJa: `米軍が火曜日にイランに対する新たな攻撃を完了したことを受け、ドナルド・トランプ大統領は「イランを交渉のテーブルにつかせるつもりはない」と述べた。
+トランプ大統領は真実ソーシャルへの投稿で、米国がホルムズ海峡を「ほぼ完全に支配」していると繰り返し述べ、イラン経済は崩壊しつつあると付け加えた。
+同氏は、イランは「避けられない事態を演じている」だけだと述べ、「イラン国民はいつ立ち上がって戦うのか」と尋ねた。
+米中央軍はＸへの投稿で、ホルムズ海峡の商船や米軍人に対する同国による「最近の攻撃未遂」への報復として、イランの防空・通信施設やレーダーシステムを攻撃したと述べた。
+イラン政府は米国の同盟国ヨルダンを標的とした米国の攻撃に応じた。同国軍は、イラン領土からのミサイル攻撃の標的となったと発表した。
+ヨルダン国軍の報道官はＸに対し、ミサイル１３発のうち１０発が同国の防空システムに迎撃され、３発は遠隔地に落下したと述べた。負傷者や死亡者は報告されていない。
+バーレーン内務省も現地時間水曜早朝に「潜在的な脅威に関する警報」を発表し、国民に最寄りの安全な場所に向かうよう呼び掛けた。脅威の性質はすぐには明らかになっていません。
+国際指標であるブレント原油先物が火曜日に4.5％上昇して1バレル当たり94.52ドルとなったことを受け、ストライキ後の水曜日のアジア取引では原油価格が上昇を続け、一方米国ウェスト・テキサス・インターミディエイト先物は約5％上昇して1バレル当たり90.03ドルとなり、7月24日以来の水準に達した。
+トランプ大統領はこれに先立ち、米国による最近の攻撃は「大規模で強力」だとし、イラン政府が「非常に正当な攻撃」と呼んだものに報復した場合にはさらなる軍事行動を起こすと脅した。
+前日に米軍がイランのララック島でロケットランチャーを攻撃したことを受け、イラン軍は月曜日、ヨルダン国内の米軍基地を攻撃した。米国政府は、発射装置が海峡に機雷を搭載したロケット弾を発射する準備をしていたと主張した。
+日曜の空爆は、米国とイランが攻撃を交換するのは約１カ月ぶりで、トランプ政権がイラン支援者に対して「経済的Ｄデー」を開始すると発表したことを受けてのものだった。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/us-iran-war-trump-hormuz-irgc-jordan-bahrain.html",
+    publishedAt: "2026-09-02T01:34:27+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "apple-maps-renames-lake-ontario-as-lake-97c41feb",
+    title: "Apple Maps renames Lake Ontario as Lake America after Trump order",
+    titleJa: "トランプ大統領の命令を受け、アップルマップがオンタリオ湖の名前をアメリカ湖に変更",
+    summaryJa: "トランプ大統領の命令を受け、アップルマップがオンタリオ湖の名前をアメリカ湖に変更- 公開されました",
+    bodyOriginal: `Apple Maps renames Lake Ontario as Lake America after Trump order
+- Published
+Apple has renamed Lake Ontario as Lake America on its maps service app, after an order from US President Donald Trump as part of Washington's trade spat with Canada.
+The change was made for US-based users, while those in Canada will continue to see Lake Ontario displayed. The BBC has contacted Apple for comment.
+The iPhone maker's move follows Trump's executive order to change the lake's name after trade talks between the neighbouring countries collapsed late last month, with Washington imposing new 50% tariffs on $20bn (£14.8bn; C$28bn) worth of Canadian goods.
+Rival technology giant Google made a similar switch for its users in the US in recent days, leading to backlash on social media.
+Canada has responded to Washington's levies, saying it will implement "dollar for dollar" counter-tariffs.
+Prime Minister Mark Carney's administration had walked away from the trade negotiations, due to what his office has called unacceptable demands.
+Carney told the Trump administration to "start being serious" and stop trying to be tough before discussions between the sides can restart.
+Trump's executive order gives the US Department of the Interior 30 days to update the change with the Geographic Names Information Service - the official database of what places are called in the country.
+Apple was specifically urged by Trump to rename Lake Ontario on its Maps platform to comply with the executive order signed, according to US Interior Secretary Doug Burgum
+The president has also posted several AI-generated videos on social media, including a clip of him kicking over a Lake Ontario sign and replacing it with another that says "Welcome to Lake America".
+At the lake itself, Canada has installed a new sign with the words "Lake Ontario. Now and Always".
+"Just in case President Trump or anyone else forgets, we've set up this sign to remind them, it's Lake Ontario, now and forever," Ontario Premier Doug Ford said.
+The names of four of the five Great Lakes - Ontario, Huron, Michigan and Erie - come from indigenous words.
+Lake Superior was named after an anglicised French word.
+Lake Ontario, the smallest of the Great Lakes, sits between the Canadian province and the US state of New York.
+Not all map providers have adopted the new name.
+MapQuest, a free web mapping service, said "we're not changing it" in a short Facebook post on Friday.
+The platform rose to the top of the most-downloaded free applications earlier this week on the Canadian Apple App Store.
+Last week, Google said in a blog post that it had changed the name on its Maps service for US-based users.
+The Maps app is updated to "reflect name changes in official government sources", meaning that users in the US will see Lake America while those in Canada will see Lake Ontario, Google said.
+The company made a similar decision in 2025 to re-designate the Gulf of Mexico after Trump declared it would be called the Gulf of America.
+Google was sued by Mexico over allegedly ignoring the country's requests not to rename the Gulf for US users.
+Apple also changed the name of the Gulf of Mexico to the Gulf of America on its maps service for US users.
+Related topics
+- Published2 days ago
+- Published11 February 2025`,
+    bodyJa: `トランプ大統領の命令を受け、アップルマップがオンタリオ湖の名前をアメリカ湖に変更
+- 公開されました
+アップルは、ワシントンとカナダの貿易紛争の一環としてのドナルド・トランプ米大統領の命令を受けて、自社の地図サービスアプリ上でオンタリオ湖の名前をレイク・アメリカに変更した。
+この変更は米国に拠点を置くユーザー向けに行われましたが、カナダのユーザーには引き続きオンタリオ湖が表示されます。 BBCはAppleにコメントを求めた。
+iPhoneメーカーのこの動きは、近隣諸国間の通商交渉が先月末決裂し、ワシントンが200億ドル（148億ポンド、280億カナダドル）相当のカナダ製品に新たに50％の関税を課したことを受けて、湖の名前を変更するというトランプ大統領の大統領令に続くものである。
+ライバルのテクノロジー大手グーグルもここ数日、米国のユーザー向けに同様の方針転換を行い、ソーシャルメディアで反発を招いた。
+カナダは米国の課税に応じ、「ドルにはドル」の対抗関税を導入すると述べた。
+マーク・カーニー首相の政権は、同政権が受け入れがたい要求と呼んでいる内容を理由に通商交渉から撤退していた。
+カーニー氏はトランプ政権に対し、双方の協議が再開される前に「真剣になり始め」、強硬姿勢をやめるよう求めた。
+トランプ大統領の大統領令は、米国内務省に対し、国内の地名を示す公式データベースである地名情報サービスに変更を更新するための30日間の猶予を与えている。
+ダグ・バーガム米国内務長官によると、Appleはトランプ大統領から、署名された大統領令に従うため、マッププラットフォーム上でオンタリオ湖の名前を変更するよう特に促されたという。
+大統領はまた、AIが生成したいくつかの動画をソーシャルメディアに投稿しており、その中にはオンタリオ湖の標識を蹴り倒し、「アメリカ湖へようこそ」と書かれた標識に差し替える映像も含まれている。
+カナダは湖自体に「オンタリオ湖。今もこれからも」と書かれた新しい標識を設置した。
+オンタリオ州のダグ・フォード首相は、「トランプ大統領や他の誰かが忘れた場合に備えて、彼らに思い出してもらうためにこの看板を設置した。今も永遠もオンタリオ湖だ」と語った。
+五大湖のうちオンタリオ、ヒューロン、ミシガン、エリーの 4 つの湖の名前は、先住民の言葉に由来しています。
+スペリオル湖の名前は、英語化されたフランス語にちなんで付けられました。
+五大湖の中で最小のオンタリオ湖は、カナダの州と米国のニューヨーク州の間にあります。
+すべての地図プロバ​​イダーが新しい名前を採用しているわけではありません。
+無料のウェブ地図サービスであるマップクエストは金曜日、フェイスブックへの短い投稿で「サービスを変更するつもりはない」と述べた。
+このプラットフォームは今週初め、カナダの Apple App Store で最もダウンロードされた無料アプリケーションのトップに躍り出ました。
+Googleは先週ブログ投稿で、米国を拠点とするユーザー向けのマップサービスの名前を変更したと発表した。
+Googleによると、地図アプリは「政府の公式情報源における名前の変更を反映」するために更新され、米国のユーザーにはアメリカ湖が表示され、カナダのユーザーにはオンタリオ湖が表示されることになるという。
+同社はトランプ大統領がメキシコ湾をアメリカ湾と呼ぶと宣言したことを受け、2025年にもメキシコ湾を再指定するという同様の決定を下した。
+Googleは、米国ユーザー向けにGulfの名前を変更しないよう求める同国の要請を無視したとして、メキシコから訴訟を起こされた。
+アップルはまた、米国ユーザー向けの地図サービスでメキシコ湾の名前をアメリカ湾に変更した。
+関連トピック
+- 2 日前に公開
+- 2025 年 2 月 11 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-02T01:32:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d7/live/cd35b7f0-a66a-11f1-b883-c157b282021f.jpg",
+    readTime: 4,
+  },
+  {
+    id: "fake-10-downing-street-listing-exposes-u-d6ba4995",
+    title: "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+    titleJa: "ダウニング街10番街の偽リストでBooking.comが「不適当」であることが暴露されると消費者団体が指摘",
+    summaryJa: "ダウニング街10番街の偽リストでBooking.comが「不適当」であることが暴露されると消費者団体が指摘- 公開されました",
+    bodyOriginal: `Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group
+- Published
+Consumer group Which? says it was able to create a fake listing for 10 Downing Street on travel giant Booking.com.
+The UK watchdog said its researchers were able to book a bogus stay at the prime minister's address - as well as leave a fake review noting "hanging out" with resident mouser Larry the cat as a highlight.
+It said despite clear signs it was fake, Booking.com did not remove the listing until two months after it was uploaded.
+"This limited test is not a true reflection of the experience of millions of listings or reviews published on our platform," a Booking.com spokesperson told the BBC.
+They said because Which?'s listing was not "live" on its site across the two months it was present, "some of our automatic fraud controls were not triggered to completely remove the closed listing".
+People could only see the listing and request to book the property during a 20-minute window opened by Which? so its researchers could try to book it.
+Booking.com's spokesperson added "a range of checks and verification measures" help secure the site, and technologies such as AI "help us detect and remove the majority of fraudulent listings within 24 hours".
+But Which? Travel editor Rory Boland said its checks had been shown to be "unfit for purpose".
+"If Booking.com's so-called sophisticated AI systems can't spot that 10 Downing Street is not a holiday rental, then it's no wonder scammers can exploit the platform so easily," he said.
+"It would be laughable that we were able to list the UK's most famous address for rent, if the consequences weren't so devastating for holidaymakers, who risk losing thousands of pounds to bogus listings and phishing links."
+It is not the first time the site has faced criticism over its security efforts and customer service.
+'Prime city centre location'
+Which?'s listing, uploaded to Booking.com on 18 June, advertised a "1 bedroom apartment in the heart of London".
+It used images of the iconic 10 Downing Street front door, listed at its address - with a description referring to the one bedroom space as "a prime city centre location".
+In the 20 minutes that Which? permitted customers to request a stay at its fake 10 Downing Street property, it said 14 people asked to do so.
+Only the booking request from a person known to be a Which? researcher was accepted.
+The watchdog's team also sent the researcher a message within Booking.com's system asking them to click an external link to confirm their payment details - something booking sites typically block to prevent customers being scammed.
+But Which? said that in this instance, Booking.com did not flag or remove the external link it sent.
+Booking.com said it had "visible reminders to not click on links customers are not confident about, and booking confirmations also provide further guidance, including details of the agreed payment schedule".
+The fake review left by Which? also seemingly passed the site's checks, despite bearing all the hallmarks of a joke.
+"It was unbelievable that Booking.com let us stay at 10 Downing Street - the home of the UK PM!" it said.
+The listing itself was removed by the platform on 27 August.
+Some customers have previously accused the firm of failing to protect them from falling victim to cyber-criminals.
+"Fraud affects many industries, and 80% of UK adults believe scams are becoming more sophisticated," said Booking.com's spokesperson - adding it was continuing to strengthen its defences in the face of this challenge.
+Which?, meanwhile, said more should be done to force booking sites to swiftly remove false listings under the Online Safety Act (OSA).
+The Act requires firms which have identified illegal content, including fraudulent material, on their sites to show they are committed to removing it.
+Boland said Ofcom, which enforces the OSA, should be encouraged use it to "crack down on irresponsible online platforms that leave consumers wide open to fraud".
+"For illegal content generated by users, platforms have existing legal duties that mean they must take it down swiftly once they become aware of it," an Ofcom spokesperson told Which?.
+Booking.com customers warned of 'reservation hijacking' after hack
+- Published15 April
+Holidaymaker loses €1,800 in phishing scam
+- Published14 October 2025
+Tourists descend on private home in Booking.com scam
+- Published3 August 2022
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `ダウニング街10番街の偽リストでBooking.comが「不適当」であることが暴露されると消費者団体が指摘
+- 公開されました
+消費者団体 どっち？旅行大手ブッキング・ドットコムでダウニング街10番地の偽リストを作成することができたと発表した。
+英国の監視機関は、研究者らは首相の演説会場での偽の宿泊を予約することができ、また、ここに住むネズミ捕りの猫ラリーと「ぶらぶらしている」ことをハイライトとして指摘する偽のレビューを残すことができたと述べた。
+ブッキング・ドットコムは、明らかに偽物である兆候にもかかわらず、掲載から2カ月後まで掲載を削除しなかったと述べた。
+Booking.comの広報担当者はBBCに対し、「この限定的なテストは、当社のプラットフォーム上で公開された何百万ものリスティングやレビューの経験を正確に反映したものではない」と語った。
+彼らは、Which?のリスティングが存在していた2か月間、サイト上で「公開」されていなかったため、「当社の自動不正行為制御の一部が作動せず、クローズされたリスティングを完全に削除できなかった」と述べた。
+ユーザーは、Which? によって開かれた 20 分間のウィンドウ内でのみ、リスティングを確認して宿泊施設の予約をリクエストできます。研究者がそれを予約できるようにするためです。
+Booking.comの広報担当者は、「さまざまなチェックと検証手段」がサイトの安全を確保するのに役立ち、AIなどのテクノロジーは「不正なリスティングの大部分を24時間以内に検出して削除するのに役立つ」と付け加えた。
+でもどっち？旅行編集者のロリー・ボーランド氏は、その小切手が「目的に適さない」ことが判明したと述べた。
+同氏は、「Booking.comのいわゆる高度なAIシステムがダウニング街10番地が貸別荘ではないことを認識できないのであれば、詐欺師がこのプラットフォームをいとも簡単に悪用できるのも不思議ではない」と述べた。
+「偽の物件情報やフィッシングリンクによって数千ポンドを失うリスクを負う行楽客にとって、それほど壊滅的な影響がなければ、英国で最も有名な住所を賃貸物件として掲載できたのは滑稽だろう。」
+同サイトがセキュリティへの取り組みや顧客サービスに関して批判にさらされたのはこれが初めてではない。
+「市内中心部の一等地」
+6月18日にBooking.comにアップロードされたWhich?の物件情報には、「ロンドン中心部の1ベッドルームアパートメント」と宣伝されていた。
+住所に記載されている象徴的なダウニング街 10 番地の正面玄関の画像が使用されており、説明文では 1 ベッドルームのスペースを「市内中心部の一等地」と呼んでいます。
+20分以内にどっち？ダウニング街10番地にある偽の物件への宿泊リクエストを顧客に許可したところ、14人が宿泊をリクエストしたという。
+どちらであることが知られている人物からの予約リクエストのみ。研究者が受理されました。
+監視団体のチームはまた、Booking.comのシステム内で研究者に、支払い詳細を確認するために外部リンクをクリックするよう求めるメッセージを送信したが、このリンクは顧客が詐欺に遭わないように予約サイトが通常ブロックしているものだ。
+でもどっち？この場合、Booking.com は送信した外部リンクにフラグを立てたり、削除したりしなかったと述べています。
+ブッキング・ドットコムは、「顧客が自信を持っていないリンクをクリックしないよう、目に見える注意喚起を行っており、予約確認書には、合意された支払いスケジュールの詳細を含むさらなるガイダンスも提供されている」と述べた。
+どっちが残した偽レビュー？また、ジョークの特徴がすべて含まれているにもかかわらず、サイトのチェックを通過したようです。
+「Booking.com が英国首相の本拠地であるダウニング街 10 番地に宿泊させてくれたのは信じられませんでした。」と言いました。
+このリスト自体は8月27日にプラットフォームによって削除された。
+一部の顧客はこれまでに、サイバー犯罪の被害者から顧客を守ることができなかったとして同社を非難していた。
+ブッキング・ドットコムの広報担当者は「詐欺は多くの業界に影響を与えており、英国の成人の80％は詐欺がより巧妙化していると考えている」と述べ、この課題に直面して防御を強化し続けていると付け加えた。
+一方、Which?は、オンライン安全法（OSA）に基づいて予約サイトに虚偽のリスティングを迅速に削除するようさらに措置を講じるべきだと述べた。
+同法は、サイト上で詐欺的なコンテンツを含む違法なコンテンツを特定した企業に対し、そのコンテンツを削除する決意を示すことを義務付けている。
+ボーランド氏は、OSAを執行するOfcomに対し、「消費者を詐欺にさらしたままにする無責任なオンラインプラットフォームを取り締まる」ためにOSAを活用するよう奨励されるべきだと述べた。
+「ユーザーが生成した違法なコンテンツについては、プラットフォームには既存の法的義務があり、それを認識したら速やかに削除しなければならない」とOfcomの広報担当者はWhich?に語った。
+Booking.comの顧客はハッキングを受けて「予約ハイジャック」について警告
+- 4 月 15 日公開
+行楽客、フィッシング詐欺で 1,800 ユーロを失う
+- 2025 年 10 月 14 日公開
+Booking.com詐欺で観光客が民家に押し寄せる
+- 2022 年 8 月 3 日発行
+Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-02T01:27:34+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
+    readTime: 6,
+  },
+  {
+    id: "china-dissented-from-g20-statement-oppos-5c454739",
+    title: "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
+    titleJa: "中国は市場の氾濫する「安い輸出品」に反対するG20声明に反対したとベッセント氏は語る",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `China was the only Group of 20 member to dissent from a joint statement that "non-market based economies pushing out a never-ending stream of cheap exports is not sustainable," Treasury Secretary Scott Bessent said Tuesday.
+The other G20 members will take action in the coming "days, weeks or months" to "reach a resolution on this unsustainable equilibrium," Bessent said at a press conference following days of meetings with finance ministers and central bankers in Asheville, North Carolina.
+The statement, released later Tuesday by the Treasury Department, includes a footnote specifying that China objected to a paragraph in which the 19 members agreed "that countries should take steps to eliminate non-market policies and practices that exacerbate imbalances."
+"In particular, countries with excessive and persistent external surpluses should remove distortions that constrain domestic consumption and that result in an overreliance on exports for growth," that paragraph reads.
+Treasury said China also objected to a paragraph expressing concern about continuing shipping disruptions in the Strait of Hormuz, a vital oil-shipping route that Iran has effectively blocked amid its war with the U.S.
+China further opposed paragraphs praising the International Monetary Fund's "surveillance of global imbalances," and singling out "countries where a meaningful share of external debt is owed to G20 members."
+China's U.S. embassy did not immediately respond to CNBC's request for comment on Bessent's remarks about the joint statement.
+"I'd hoped to be able to announce a unanimous joint communiqué today," Bessent said at the presser, while stressing that the agreement from the 19 other members "shows the sheer the enormity of the problem."
+The remarks came as Bessent spearheads the Trump administration's plan to choke off Iran's economy by threatening its business partners with secondary sanctions, dubbed "Operation Economic Outcast."
+The effort has raised questions about whether the U.S. would target China, Iran's top trading partner and its top oil buyer by far. The U.S. is in long-term trade talks with Beijing, and Chinese President Xi Jinping is slated to visit the U.S. in late September.
+"With China on Iran, we have more in common than we have differences," Bessent said Tuesday.
+"China agrees Iran cannot have a nuclear weapon. China agrees that there has to be free maritime trade in the Strait of Hormuz. China gets 50% of its energy from the Gulf," he said.
+"So I believe it's up to China, or incumbent upon China, to work toward a solution," Bessent added. "We will see how they follow through."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
+    publishedAt: "2026-09-01T23:52:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "range-rover-launches-first-fully-electri-fd78b9dd",
+    title: "Range Rover launches first fully electric model",
+    titleJa: "レンジローバー、初の完全電気モデルを発売",
+    summaryJa: "レンジローバー、初の完全電気モデルを発売- 公開されました",
+    bodyOriginal: `Range Rover launches first fully electric model
+- Published
+Range Rover has unveiled its first fully electric model, after a year‑long delay to its planned launch.
+The Range Rover Electric, to be built in Solihull, marks a major shift in its electrification programme, backed by large‑scale upgrades across its West Midlands sites.
+Parent company JLR said it had up-skilled 10,500 workers for electric production as it pushes ahead with modernisation despite recent financial pressures and planned job cuts.
+The launch comes as the Coventry‑based carmaker faces falling profits, supply chain disruption and restructuring following a cyber attack last year.
+The company said the launch was being supported by new battery and electric drive unit production lines as well as training around 9,000 employees in Solihull for electrification and a further 1,500 trained across the region.
+JLR's Electric Propulsion Manufacturing Centre in Wolverhampton is now producing battery packs and electric drive units alongside internal combustion engines.
+Martin Limpert, managing director of Range Rover, called the new model the result of a decade of "considered engineering".
+JLR's electric roll-out comes after a turbulent year with profits dropping to £66m in the first quarter after a fire at a key Norwegian supplier.
+The business is also undergoing restructuring, confirming that fewer than 300 roles will go less than a year after a cyber attack halted production for more than a month.
+At the time of the results, the firm said new product launches would leave "JLR in good shape whilst acknowledging the continuing geopolitical, inflationary and regulatory challenges the industry faces".
+Get in touch
+Tell us which stories we should cover in Birmingham and the Black Country
+Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.
+- Published13 August
+- Published30 July
+- Published1 August`,
+    bodyJa: `レンジローバー、初の完全電気モデルを発売
+- 公開されました
+レンジローバーは、発売予定から1年遅れた後、初の完全電気モデルを発表した。
+ソリハルで建設されるレンジローバー エレクトリックは、ウェスト・ミッドランズの拠点全体にわたる大規模なアップグレードに裏打ちされた、電動化プログラムの大きな転換を示すものです。
+親会社のJLRは、最近の財政圧力や計画されている人員削減にもかかわらず近代化を進める中で、電力生産に携わる1万500人の労働者のスキルアップを図ったと発表した。
+この発表は、コベントリーに本拠を置く自動車メーカーが昨年のサイバー攻撃を受けて利益の減少、サプライチェーンの混乱、リストラに直面している中で行われた。
+同社は、今回の立ち上げは、新しいバッテリーと電気駆動ユニットの生産ラインのほか、ソリハルで約9,000人の従業員に電動化のための訓練を実施し、さらに地域全体でさらに1,500人が訓練を受けたことによって支援されたと述べた。
+ウルヴァーハンプトンにある JLR の電気推進製造センターは現在、内燃エンジンと並行してバッテリー パックと電気駆動ユニットを生産しています。
+レンジローバーのマネージングディレクター、マーティン・リンパート氏は、この新型モデルは10年間にわたる「熟慮されたエンジニアリング」の成果であると述べた。
+JLRの電気事業の展開は、ノルウェーの主要サプライヤーの火災により第1四半期の利益が6,600万ポンドに減少するという激動の年の後に行われた。
+同事業は再編も進められており、サイバー攻撃により生産が1カ月以上停止されてから1年以内に300人未満の役割がなくなることが確認されている。
+決算発表の際、同社は新製品の発売により「業界が直面する地政学的、インフレ、規制上の課題が継続していることを認識しながらも、JLRは良好な状態に保たれる」と述べた。
+連絡する
+バーミンガムと黒人国家で取り上げるべきストーリーを教えてください
+BBC バーミンガムを BBC Sounds、Facebook (外部)、X (外部)、Instagram (外部) でフォローしてください。
+- 8 月 13 日発行
+- 7 月 30 日発行
+- 8月1日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-01T23:43:47+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
+    readTime: 2,
+  },
+  {
+    id: "will-self-flying-planes-transform-the-sk-3f329115",
+    title: "Will self-flying planes transform the skies?",
+    titleJa: "自動飛行する飛行機は空を変えるでしょうか?",
+    summaryJa: "自動飛行する飛行機は空を変えるでしょうか?- 公開されました",
+    bodyOriginal: `Will self-flying planes transform the skies?
+- Published
+Over an alfalfa field in California's San Joaquin Valley, a small crop-spraying plane is flying scarily low to the ground. There's little risk to humans though, as the plane is pilot-free.
+"We can actually go lower than a human pilot can," says Russ Marotzke, as the aircraft skims over the crop.
+Flying lower means less spray drift and therefore less chemicals are needed than in conventional manned crop-dusting, he says.
+The pilotless plane belongs to Pyka, where Marotzke works as a flight test engineer.
+Based in a converted Second World War hangar overlooking San Francisco Bay, the start-up makes self-flying aircraft without cockpits, designed either to spray crops or deliver cargo.
+It is among a small group of companies racing to bring autonomous fixed-wing aircraft into commercial service.
+Flying urban air taxis, so called electric vertical take-off and landing (eVTOL) aircraft, have captured much of the attention around autonomous aviation.
+But a quieter race is also under way to deploy self-flying planes, first for jobs like crop spraying and cargo delivery – and eventually, many of their makers hope, carrying passengers too.
+"A fully scaled, ubiquitous passenger operation is the holy grail," says Michael Norcia, Pyka's co-founder and CEO, who envisions a large fleet of minibus-capacity Pyka planes ferrying passengers up and down the US east and west coasts.
+"There's a decent chance we'll get to that point before the eVTOL industry."
+I've come to one of Pyka's crop-sprayer test sites, about 80km (50 miles) east of the company's factory and reached by a bumpy dirt road.
+Today, Marotzke and a colleague are trying out a software update on a demonstration aircraft.
+About a dozen Pyka aircraft are already in Brazil where they are used to spray crops such as cotton and soybeans, work previously carried out by human pilots.
+The crop-spraying plane is fully electric, with its battery in the nose. It can fly for about 35 minutes and carries up to 300L of spray in a tank in its middle.
+Pyka's planes are sometimes called large drones, but it seems an understatement: they all have 11.5m wingspans.
+Inside a shipping container beside the field, the engineers highlight on a computer the area they want the aircraft to spray. The software then plans the route, taking account of obstacles such as nearby power lines that have already been mapped.
+The take-off, down a runway beside the field, is seamless. About 15 minutes later, after sensing that it is running low on spray – water for today's purposes – the aircraft lands itself for a manual refill and demonstration battery swap. It then takes to the air again to resume spraying precisely where it left off.
+Autonomous flight is different from autopilot.
+Autopilot assists, much like cruise control and lane-keeping functions in a car.
+Autonomous systems aim to handle the entire flight, including take-off and landing, with little or no human intervention, using algorithms to process sensor data and control the aircraft.
+Self-flying planes have been slower to emerge than self-driving cars, despite operating in what is generally considered a more structured and predictable environment.
+That is partly because big tech companies "doubled down" on cars, pouring vast sums into the technology, says Mykel Kochenderfer, an expert in safe aviation autonomy at Stanford University.
+But it is also because aircraft are held to stricter safety standards than cars, creating a much higher bar for deployment.
+"The consequences for air accidents can just be so severe," says Kochenderfer.
+Military interest has been helping propel the technology. Many of the companies have defence contracts to demonstrate and trial their systems, often with fewer regulatory hurdles than on the civilian side, and some are even already supplying military customers, external.
+In the US, the largest autonomous fixed-wing aircraft approved for commercial civilian use so far is Pyka's crop sprayer, which won authorization last year.
+Though operations are limited to a tightly defined agricultural setting and require a ground operator and visual observer. It earlier secured similar approval in Brazil, where rules are more permissive.
+Pyka aims to scale up production from around two dozen planes a year currently to 1000 by 2030. Each sells for $550,000, with customers trained to operate them.
+The UK has yet to approve any such longer-term operations, though British firm Windracers is seeking permission to launch an autonomous cargo service in Shetland and Orkney. Its aircraft, designed to carry goods to remote areas, are also flying missions in Ukraine.
+"It would be the first heavy-lift air cargo service by drone certainly in the UK and probably anywhere," says Stephen Wright, Windracers founder and chairman.
+Supporters say autonomous aircraft could address pilot shortages, remove people from dangerous work such as crop spraying, improve efficiency – for example, by allowing aircraft to carry more cargo – and cut costs if one operator can oversee many planes.
+They also argue automation could make flying safer, pointing to past declines in accidents as more automated systems have been introduced.
+Pilots' groups remain wary.
+The US Air Line Pilots Association (ALPA) calls removing pilots "a serious gamble with safety and a step too far".
+The US National Agricultural Aviation Association, which represents crop dusting pilots, says small uncrewed aircraft can be hard for its aviators to see. Piloted planes, it adds, can spray a much larger area faster.
+Pyka and Windracers are building aircraft from scratch, arguing this allows autonomy to be designed in from the outset and the aircraft tailored to the job.
+Others are retrofitting existing larger planes.
+Backed by Boeing's investment arm, US-based Reliable Robotics is currently testing its system on the Cessna 208B Grand Caravan, a single-pilot cargo plane that can carry about 1360kg of payload over hundreds of kilometers.
+Retrofitting on certified aircraft lets the company focus exclusively on proving the autonomous system's safety rather than also having to seek approval for a new aircraft, says Robert Rose, its co-founder and CEO.
+Merlin Labs, also US-based, has been working its way up through progressively larger military aircraft and is now applying its system to the two-pilot Lockheed Martin C-130J military transport plane, with commercial multi-crew cargo planes next.
+"It is a common autonomy brain that can transition between different aircraft," explains Matt George, Merlin's founder and CEO.
+The companies also differ in their approach to AI.
+Reliable is avoiding it altogether, arguing it would complicate certification.
+Merlin, meanwhile, is taking a far more AI-centric approach.
+The divide is evident in so-called detect and avoid systems.
+One of autonomous flight's biggest challenges is replicating a pilot's ability to spot and maneuver safely around other aircraft and obstacles, and there is virtually no margin for error.
+With no perfect solution yet, companies are adding different sensor systems as well as duplicating those that already come as standard to provide extra back-up.
+Reliable has added forward-looking air-to-air radar to detect other aircraft more than eight kilometers ahead, with software that follows fixed rules to decide how the plane should respond.
+It is "better than a pilot's eyeballs" says Rose.
+Merlin, meanwhile, is using AI-powered cameras to detect and classify objects.
+Pyka has used lidar from the outset to detect trees, vehicles, large birds and terrain. But it's short range, so the company also plans to add AI-powered cameras, its first real use of AI onboard.
+"For a lot of things there's no need to use AI…but for figuring out that six pixels in the distance are an airplane versus some other smudge, it is perfect territory," says Norcia.
+The AI dilemma also extends to communicating with air traffic control.
+In shared airspace, aircraft must be able to receive, interpret and respond to radio instructions, typically from air traffic control.
+Reliable's solution is to have a remote pilot on the ground, initially fully trained, to handle communications and make safety-critical decisions.
+Merlin plans to use generative AI, trained on thousands of hours of recorded exchanges, to interpret instructions and respond itself.
+"Our problem is harder… but we want to move beyond remote piloting," says George.
+Merlin plans to reduce pilots in stages, from two to one and eventually none.
+Pyka, says Norcia, is content to let others "blaze the trail" in finding the best way to operate in shared airspace.
+Meanwhile, even if fully autonomous passenger flight remains elusive, many expect the technology being pioneered will inch into commercial aviation, potentially making piloted flying safer.
+That, notes ALPA, the US pilots' association, would be a welcome development.`,
+    bodyJa: `自動飛行する飛行機は空を変えるでしょうか?
+- 公開されました
+カリフォルニア州サンホアキンバレーにあるアルファルファ畑の上空で、農薬散布用の小型飛行機が恐ろしいほどの低空飛行をしている。ただし、飛行機にはパイロットがいないため、人間への危険はほとんどありません。
+「人間のパイロットが操縦できるよりも実際には、より低いところまで飛行することができます」と、航空機が作物の上をかすめながらラス・マロツケ氏は言う。
+より低く飛行するということは、スプレーのドリフトが少なくなるため、従来の有人農薬散布よりも必要な化学薬品の量が少なくなるということです。
+このパイロットのいない飛行機は、マロツケ氏が飛行試験技師として働いているパイカ社のものである。
+サンフランシスコ湾を見下ろす第二次世界大戦時の格納庫を改装したこの新興企業は、作物に散布したり貨物を配達したりするために設計された、コックピットのない自動飛行航空機を製造している。
+同社は、自律型固定翼航空機の商業運航を目指して競う少数の企業グループの1つである。
+空飛ぶ都市型エアタクシー、いわゆる電動垂直離着陸 (eVTOL) 航空機は、自律飛行に関して多くの注目を集めています。
+しかし、自動飛行飛行機を配備するための静かな競争も進行中である。まずは農薬散布や貨物配達などの仕事に、そして最終的には乗客も運ぶことを多くのメーカーが望んでいる。
+Pyka の共同創設者兼 CEO である Michael Norcia 氏は、「本格的な規模のユビキタスな旅客運行は聖杯です」と述べ、ミニバスを収容できる Pyka 飛行機の大規模なフリートで米国の東海岸と西海岸を往復して乗客を運ぶことを構想しています。
+「eVTOL業界よりも先にその段階に到達する可能性は十分にあります。」
+私は、同社の工場から東に約 80 km (50 マイル) 離れた、デコボコの未舗装の道路を通って到着する、Pyka の農薬散布機のテスト サイトの 1 つに来ました。
+今日、マロツケ氏と同僚はデモ機でソフトウェアのアップデートを試しています。
+約12機のPyka航空機がすでにブラジルに配備されており、綿や大豆などの作物に散布するために使用されており、以前は人間のパイロットによって行われていた作業である。
+農薬散布機は完全に電動で、機首にバッテリーが搭載されています。約35分間飛行でき、中央のタンクに最大300リットルのスプレーを積める。
+パイカの飛行機は大型ドローンと呼ばれることもありますが、それは控えめな表現のようです。翼幅はすべて 11.5 メートルです。
+現場の横にある輸送用コンテナ内で、エンジニアたちは航空機にスプレーしたいエリアをコンピューター上で強調表示します。次に、ソフトウェアは、すでにマッピングされている近くの送電線などの障害物を考慮してルートを計画します。
+フィールドの横の滑走路を滑走する離陸はスムーズです。約 15 分後、スプレー (今日の用途では水) が不足していることを感知した後、航空機は手動で補充し、デモンストレーション用のバッテリー交換を行うために着陸しました。その後、再び空中に飛び立ち、中断したところから正確にスプレーを再開します。
+自律飛行は自動操縦とは異なります。
+オートパイロットは、車のクルーズコントロールや車線維持機能と同じような機能をサポートします。
+自律システムは、アルゴリズムを使用してセンサーデータを処理し、航空機を制御し、離陸と着陸を含む飛行全体を人間の介入をほとんどまたはまったく行わずに処理することを目的としています。
+自動飛行飛行機は、一般的により構造化され予測可能な環境と考えられている環境で運用されているにもかかわらず、自動運転車よりも登場が遅れています。
+スタンフォード大学の安全な航空自律の専門家ミケル・コッヘンダーファー氏は、大手ハイテク企業が自動車の開発に「倍増」し、その技術に巨額の資金をつぎ込んだことがその一因だと語る。
+しかし、航空機には自動車よりも厳しい安全基準が課されており、配備のハードルがはるかに高いためでもあります。
+「航空事故の影響は非常に深刻なものになる可能性があります」とコッヘンデルファー氏は言う。
+軍事的関心がこの技術の推進に役立っています。多くの企業は自社システムの実証と試験を行うための防衛契約を結んでいるが、その多くは民間側よりも規制上のハードルが低く、すでに社外の軍事顧客に製品を供給している企業もある。
+米国でこれまでに商業民間使用が承認された最大の自律型固定翼航空機は、昨年認可を獲得したパイカ社の農薬散布機である。
+ただし、作業は厳密に定義された農業環境に限定されており、地上オペレーターと目視観察者が必要です。規則がより寛容なブラジルでも同様の承認を先に確保した。
+Pyka は、現在の年間約 20 機の飛行機の生産を、2030 年までに 1000 機に拡大することを目指しています。1 台の販売価格は 55 万ドルで、顧客には操作の訓練を受けています。
+英国はそのような長期運航をまだ承認していないが、英国企業ウィンドレーサーズはシェトランド諸島とオークニー諸島で自動運転貨物サービスを開始する許可を求めている。遠隔地に物資を運ぶために設計された同社の航空機は、ウクライナでも飛行している。
+ウィンドレーサーズの創設者で会長のスティーブン・ライト氏は、「これは間違いなく英国でもおそらくどこでも、ドローンによる初の重量物航空貨物サービスとなるだろう」と語る。
+支持者らは、自律型航空機はパイロット不足に対処し、農薬散布などの危険な作業から人々を解放し、例えば航空機により多くの貨物を輸送できるようにすることで効率を改善し、1人のオペレーターが多数の航空機を監督できればコストを削減できると主張している。
+彼らはまた、自動化システムの導入により過去の事故が減少したことを指摘し、自動化によって飛行がより安全になる可能性があると主張している。
+パイロットのグループは引き続き警戒している。
+米国航空パイロット協会（ALPA）は、パイロットの解任は「安全を賭けた重大な賭けであり、行き過ぎ」としている。
+農薬散布パイロットを代表する米国農業航空協会は、無人の小型航空機は飛行士にとって見えにくい場合があると述べている。操縦可能な飛行機は、はるかに広い範囲に迅速にスプレーできると付け加えた。
+Pyka と Windracers は航空機をゼロから構築しており、これにより最初から自律性を設計し、航空機を任務に合わせて調整できると主張しています。
+既存の大型機を改修しているところもある。
+ボーイング社の投資部門の支援を受け、米国に本拠を置くリライアブル・ロボティクス社は現在、約1360kgのペイロードを数百キロメートルにわたって運ぶことができるシングルパイロットの貨物機であるセスナ208Bグランドキャラバンでそのシステムをテストしている。
+同社の共同創設者兼最高経営責任者（CEO）のロバート・ローズ氏は、認定航空機を改修することで、同社は新しい航空機の承認を求める必要がなくなり、自律システムの安全性を証明することに専念できると述べた。
+同じく米国に本拠を置くマーリン研究所は、軍用機の大型化に向けた取り組みを進めており、現在そのシステムをパイロット2名のロッキード・マーチンC-130J軍用輸送機に適用し、次に民間の多人乗員貨物機にも適用している。
+「これは、異なる航空機間を移動できる共通の自律性の脳です」とマーリンの創設者兼 CEO のマット・ジョージは説明します。
+両社は AI に対するアプローチも異なります。
+リライアブル社は、認定が複雑になるとして、それを完全に避けている。
+一方、マーリンは、はるかに AI 中心のアプローチを採用しています。
+この違いは、いわゆる検出および回避システムにおいて明らかです。
+自律飛行の最大の課題の 1 つは、他の航空機や障害物を見つけて安全に操縦するパイロットの能力を再現することであり、誤差は事実上許容されません。
+完璧なソリューションはまだ存在しないため、企業はさまざまなセンサー システムを追加したり、追加のバックアップを提供するためにすでに標準装備されているセンサー システムを複製したりしています。
+リライアブル社は、8キロメートル以上先の他の航空機を検知する前方空対空レーダーを追加し、固定ルールに従って航空機がどのように反応すべきかを決定するソフトウェアを備えている。
+それは「パイロットの目玉よりも優れている」とローズ氏は言います。
+一方、マーリンは AI 搭載カメラを使用して物体の検出と分類を行っています。
+Pyka は当初から LIDAR を使用して、樹木、車両、大きな鳥、地形を検出してきました。しかし、航続距離が短いため、同社はAIを搭載したカメラを追加することも計画しており、これは同社にとって初めてのAIの本格的な搭載である。
+「多くの場合、AI を使用する必要はありません。しかし、遠くにある 6 ピクセルが飛行機であるか、他の汚れであるかを判断するには、完璧な領域です」と Norcia 氏は言います。
+AI のジレンマは航空管制との通信にも及びます。
+共有空域では、航空機は、通常は航空交通管制からの無線指示を受信、解釈し、応答できなければなりません。
+リライアブル社の解決策は、最初は十分に訓練された遠隔パイロットを地上に配置し、通信を処理し、安全性が重要な決定を下すことです。
+マーリンは、数千時間の記録されたやりとりで訓練された生成 AI を使用して、指示を解釈し、自ら応答することを計画しています。
+「私たちの問題はさらに困難です…しかし、私たちは遠隔操縦を超えて進みたいと思っています」とジョージは言います。
+マーリンは段階的にパイロットを2人から1人に減らし、最終的にはゼロにする計画だ。
+パイカ氏は、共有空域で運用する最善の方法を見つける上で他人に「道を切り開く」ことに満足している、とノルシア氏は言う。
+一方、完全自律型の旅客飛行は依然として実現が難しいとしても、多くの人は、開発中の技術が民間航空機に少しずつ導入され、有人飛行がより安全になる可能性があると期待している。
+米国パイロット協会であるALPAは、それは歓迎すべき展開であると指摘している。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-01T23:27:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+    readTime: 10,
+  },
+  {
+    id: "soft-launches-and-late-sittings-six-ways-70e2ea80",
+    title: "Soft launches and late sittings - six ways to get cheaper meals out",
+    titleJa: "ソフトローンチと遅い時間の食事 – より安く外食を得る 6 つの方法",
+    summaryJa: "ソフトローンチと遅い時間の食事 – より安く外食を得る 6 つの方法- 公開されました",
+    bodyOriginal: `Soft launches and late sittings - six ways to get cheaper meals out
+- Published
+The price of eating out can be hard to swallow while the cost of living remains high, with more than a third of Brits cutting back on going to restaurants, according to YouGov's latest Dining Out report., external
+Restaurateurs say the rising cost of food, energy, wage and tax bills mean they've had to put up prices, with some top chefs campaigning for government help.
+Many eateries are offering incentives to get diners through the doors. Here are some ways to save money on meals out.
+1. Eat and repeat
+Many restaurants offer points, freebies, discounts and birthday treats to keep customers coming back.
+One of the most well-known is the Pizza Express Club. Regular diners can progress through a bronze, silver and gold system unlocking perks from free dough balls to hot and soft drinks on the house.
+Nando's uses a chilli system for its loyalty programme, while other schemes such as Tastecard offer discounts at hundreds of eat-in and takeaway venues in exchange for an annual fee.
+2. Go early - or late
+Restaurants often want to fill seats outside of peak lunch and dinner hours so opting for earlier or later sittings can be rewarded by a cheaper bill.
+Apps such as First Table, which operates across 21 UK cities, as well as Ireland, New Zealand and Australia, give diners 50% off food when they book a participating restaurant's first or last dining slot. In exchange, diners pay a small booking fee.
+EatClub is another, giving walk-ins up to 50% off the whole bill at thousands of venues when they redeem an offer within its app. The biggest discounts are at off-peak times.
+Shokofeh Hejazi, director of foresight and innovation at global trends agency The Food People, says earlier dining appeals because it tends to be quieter and calmer, people drink less and it allows them to get home sooner.
+Meeting up for breakfast also tends to be a bit more wallet-friendly as it's usually just one course and diners get the same catch-up time with friends and family, she adds.
+3. Kids eat free
+In the school holidays, many places will entice families through their doors by offering free or £1 meals for kids eating with paying adults.
+These range from big chains such as TGI Fridays, cafes at supermarkets including Morrisons and Asda, and even garden centres like Dobbies.
+While some tie-in with school holidays, other deals are all year round.
+4. Hit up soft launches
+Many new restaurants will offer discounts in a bid to encourage diners to try them out and spread the word that they've opened for business.
+These are known as "soft launches" and can run for several weeks. They're a cost-effective way of trying a higher-end restaurant without such a hit to the wallet.
+Keep track by signing up to newsletters that list upcoming openings in the local area.
+Hejazi says some restaurants are extending the period before they fully open to garner more buzz, while others are making their soft launch pricing permanent for quieter days such as Mondays.
+People shouldn't assume they're priced out of fine dining-type venues because "there's access points for everybody in a lot of these places", she says.
+5. Make your supermarket points work harder
+Supermarket loyalty points from those weekly shops add up over time so why not put them toward a meal out?
+For example, each 50p earned in Tesco Clubcard points can be exchanged £1.50 in vouchers to spend at participating Prezzo Italian venues. The chain is just one of Tesco's restaurant partners.
+6. Surplus food apps
+Finally, there are plenty of options to take away food for free or at a fraction of the usual price.
+Surplus food apps such as Too Good To Go, or Olio, allow customers to bag goodies that would otherwise go to waste.
+It's a bit of a gamble - you don't always know precisely what you'll be getting.
+But there's money to be saved on items needed to buy anyway, that's more cash left over for when you do decide to dine out.
+Related topics
+- Published13 March`,
+    bodyJa: `ソフトローンチと遅い時間の食事 – より安く外食を得る 6 つの方法
+- 公開されました
+YouGov の最新の外食レポートによると、英国人の 3 分の 1 以上がレストランに行くことを減らしており、生活費が依然として高い一方で、外食の価格は受け入れがたいものです。外部
+レストラン経営者らは、食品、エネルギー、賃金、税金のコストが上昇しているため、価格を設定しなければならなくなったと述べており、一部のトップシェフは政府の援助を求めて運動している。
+多くの飲食店は、客を来店させるためのインセンティブを提供しています。ここでは外食代を節約する方法をいくつか紹介します。
+1. 食べて繰り返す
+多くのレストランでは、顧客のリピートを維持するために、ポイント、景品、割引、誕生日の特典などを提供しています。
+最も有名なものの 1 つは、ピザ エクスプレス クラブです。通常のダイナーは、ブロンズ、シルバー、ゴールドのシステムを経て、無料の生地ボールからハウスのホットドリンクやソフトドリンクまでの特典をアンロックすることができます。
+Nando's はロイヤルティ プログラムにチリ システムを使用していますが、Tastecard などの他のスキームでは、年会費と引き換えに数百のイートインおよびテイクアウト会場で割引を提供しています。
+2. 早めに行くか遅くするか
+レストランは多くの場合、ランチとディナーのピーク時間外に席を埋めたいと考えているため、早めまたは遅めの席を選択すると、請求額が安くなることがあります。
+英国の 21 都市とアイルランド、ニュージーランド、オーストラリアで運営されている First Table などのアプリでは、参加レストランの最初または最後の食事枠を予約すると、食事が 50% オフになります。その代わりに、ダイナーは少額の予約手数料を支払います。
+EatClub もその 1 つで、アプリ内でオファーを引き換えると、何千もの会場で予約総額の最大 50% が割引になります。最大の割引はオフピーク時に発生します。
+世界的トレンドエージェンシー、ザ・フード・ピープルの先見性とイノベーション担当ディレクター、ショコフェ・ヘジャジ氏は、早めの食事の方が静かで落ち着いている傾向があり、飲酒量も減り、早く帰宅できるためだと話す。
+また、朝食を一緒に食べる場合は、通常 1 コースのみで、友人や家族と同じ時間を過ごすことができるため、お財布に優しい傾向があると付け加えました。
+3. お子様の食事は無料です
+学校の休暇期間には、料金を支払った大人と一緒に食事をする子供たちに無料または 1 ポンドの食事を提供し、家族連れを魅了するところが多くあります。
+これらは、TGI Fridays などの大手チェーンから、Morrisons や Asda などのスーパーマーケットのカフェ、さらには Dobbies のような園芸センターまで多岐にわたります。
+学校の休暇と連動したセールもありますが、一年中開催されるセールもあります。
+4. ソフトローンチを開始する
+多くの新しいレストランは、客に試してもらい、営業を開始したという情報を広めるために割引を提供します。
+これらは「ソフトローンチ」として知られており、数週間実行される場合があります。財布に負担をかけずに高級レストランを試すことができる、費用対効果の高い方法です。
+地元エリアで今後オープン予定の求人情報を掲載するニュースレターに登録して、情報を入手してください。
+ヘジャジ氏によると、一部のレストランは話題を集めるために完全オープンまでの期間を延長している一方、月曜日などの静かな日にソフトローンチ価格を恒久的にしているレストランもあるという。
+高級レストランのような場所では、「誰でも利用できるアクセス ポイントが多くの場所に用意されている」ため、人々はそのような価格で利用できると考えるべきではないと彼女は言います。
+5. スーパーマーケットのポイントをさらに有効活用する
+週ごとに得られるスーパーマーケットのロイヤルティ ポイントは時間の経過とともに加算されるため、外食に充ててみてはいかがでしょうか。
+たとえば、Tesco Clubcard ポイントで獲得した 50 ペンスごとに、参加している Prezzo Italian 会場で使える 1.50 ポンドのバウチャーと交換できます。このチェーンは、テスコのレストランパートナーの 1 つにすぎません。
+6. 余った食べ物アプリ
+最後に、無料または通常の数分の一の価格で食べ物を持ち帰るオプションがたくさんあります。
+Too Good To Go や Olio などの余剰食品アプリを使用すると、顧客は、本来なら無駄になってしまう食品を袋に詰めることができます。
+これはちょっとしたギャンブルです。何が得られるか常に正確にわかるわけではありません。
+しかし、いずれにせよ、購入に必要な品物を買うために節約できるお金はあります。それは、外食することに決めたときのために、より多くの現金を残せることです。
+関連トピック
+- 3 月 13 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-01T23:26:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg",
+    readTime: 5,
+  },
+  {
     id: "dell-surges-8-after-lifting-fiscal-2027-31830eb8",
     title: "Dell surges 8% after lifting fiscal 2027 forecast on AI server strength",
     titleJa: "デル、AI サーバーの強度に関する 2027 会計年度の予測を引き上げたことで 8% 急伸",
@@ -1509,314 +2012,6 @@ Tech Decoded ニュースレターに登録して、世界のトップのテク�
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
     readTime: 4,
-  },
-  {
-    id: "supreme-court-lets-trump-build-white-hou-a092eb10",
-    title: "Supreme Court lets Trump build White House ballroom as lawsuit continues",
-    titleJa: "訴訟が続く中、最高裁判所はトランプ大統領にホワイトハウスの宴会場建設を許可",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The Supreme Court, in a split decision Monday, allowed President Donald Trump to continue construction of his controversial White House ballroom as legal challenges to the project play out.
-A five-justice majority of the court said the plaintiff challenging the ballroom, the National Trust for Historic Preservation in the United States, likely lacks legal standing to sue to block the roughly $400 million project.
-The majority's unsigned order does not address whether Trump has the legal authority to build the ballroom without approval by Congress, which remains an open question as the Trust's lawsuit continues.
-The order said a declaration by a member of the Trust, Alison Hoagland, that having to view the finished ballroom during her periodic visits to the neighborhood would cause her "injuries," was likely insufficient basis for standing.
-"Mere offense, disagreement, or distaste does not qualify as a concrete and particularized injury under Article III" of the U.S. Constitution, the order said. "Perhaps nearly any government action or project offends someone's sensibilities."
-Chief Justice John Roberts and the court's three liberal members dissented from the order.
-"The President ordered the demolition of the East Wing of the White House to make way for a new, privately funded state ballroom in its place," the dissent said. "Construction of the ballroom has proceeded apace for the better part of a year."
-"That construction is likely unlawful."
-Last week, Roberts issued a temporary stay of a U.S. District Court judge's order, which a federal appeals court affirmed, that had blocked the construction of the ballroom while the National Trust's lawsuit continued.
-The chief justice's action gave the full Supreme Court time to consider whether there should be a longer stay as the litigation proceeded.
-In his dissent Monday, Roberts wrote that Congress has explicitly barred the construction of any building on federal properties without Congress' "express authority."
-"The ballroom is a building or structure being erected on federal park grounds — President's Park — in the District of Columbia," Roberts wrote. "Yet Congress has not passed any law resembling 'express authority' for the Executive's construction of it."
-The chief justice also took aim at the majority's finding that Hoagland was unlikely to have legal standing to challenge the ballroom's construction.
-"The White House is an iconic American building whose symbolism and history are wrapped up in its architecture," Roberts wrote.
-"A historic preservationist such as Hoagland can be aesthetically injured in a concrete, particularized way by the transformation of a historic building that she frequently enjoys," he wrote.`,
-    bodyJa: `最高裁判所は月曜、意見が分かれた決定で、プロジェクトに対する法的異議申し立てが展開される中、物議を醸しているホワイトハウスのボールルームの建設継続をドナルド・トランプ大統領に許可した。
-法廷の過半数の判事５人は、米国の歴史保存ナショナルトラストのボールルームに異議を申し立てている原告には、約４億ドルのプロジェクト阻止を求めて訴訟を起こす法的資格が無い可能性が高いと述べた。
-多数派の署名のない命令には、トランプ大統領が議会の承認なしに宴会場を建設する法的権限があるかどうかについては触れられておらず、トラストの訴訟が続く中、未解決の問題が残っている。
-命令では、トラストのメンバー、アリソン・ホーグランドさんによる、定期的に近所を訪れる際に完成したボールルームを見なければならないと「怪我」をするだろうとの宣言は、起立の根拠としては不十分である可能性が高いと述べた。
-同命令では、「単なる攻撃、意見の相違、または嫌悪感は、合衆国憲法第3条に基づく具体的かつ特殊な傷害には該当しない」と述べた。 「おそらく、ほぼすべての政府の行動やプロジェクトは、誰かの感性を傷つけるものです。」
-ジョン・ロバーツ首席判事と法廷のリベラル派議員3人はこの命令に反対した。
-反対派は「大統領は、その場所に民間資金による新たな国営宴会場を建設するため、ホワイトハウスの東棟の取り壊しを命じた」と述べた。 「ボールルームの建設は、1 年の大半にわたって急速に進んでいます。」
-「あの建築はおそらく違法だろう。」
-ロバーツ氏は先週、ナショナル・トラストの訴訟が続いている間、ボールルームの建設を阻止していた連邦地方裁判所の判事の命令を一時的に差し止め、連邦控訴裁判所もそれを認めた。
-首席判事の措置により、最高裁判所は訴訟の進行に合わせてさらに長期の審理が必要かどうかを検討する十分な時間が与えられた。
-ロバーツ氏は月曜の反対意見の中で、議会は議会の「明示的な権限」なしに連邦所有地に建物を建設することを明示的に禁止していると書いた。
-「ボールルームとは、コロンビア特別区の連邦公園敷地、プレジデンツ・パークに建設中の建物または構造物である」とロバーツ氏は書いた。 「しかし議会は、行政府が法を制定するための『明示的な権限』に似た法律をまだ可決していない。」
-首席判事はまた、ホーグランド氏には宴会場の建設に異議を唱える法的資格がありそうにないという多数派の判断にも注目した。
-「ホワイトハウスはアメリカを象徴する建物であり、その象徴性と歴史がその建築に込められている」とロバーツ氏は書いた。
-「ホーグランドのような歴史保存主義者は、頻繁に楽しんでいる歴史的建造物の改造によって、具体的で特殊な方法で美的損傷を受ける可能性がある」と彼は書いた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
-    publishedAt: "2026-08-31T21:23:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "trump-announced-a-massive-oil-deal-with-0d29ea11",
-    title: "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
-    titleJa: "トランプ大統領はベネズエラとの大規模な石油取引を発表した。ガソリン価格がすぐに値下げされない理由",
-    summaryJa: "専門家らによると、ベネズエラの生産量を大幅に増やすには何年もかかるため、米国のドライバーはドナルド・トランプ大統領によるベネズエラとの大規模な石油取引によるガソリン価格の下落を実感することはないだろう。トランプ大統領は金曜日、米国がベネズエラの確認石油埋蔵量650億バレルの過半数支配を確保したと発表した。これは、南米の国が保有すると考えられている3,030億バレルの約20％に相当する。",
-    bodyOriginal: `Drivers in the U.S. won't see lower gas prices from President Donald Trump's massive oil deal with Venezuela because it will take years to significantly boost the country's production, experts say.
-Trump announced Friday that the U.S. secured majority control over 65 billion barrels of Venezuela's proven oil reserves, around 20% of the 303 billion barrels that the South American nation is thought to possess.
-But huge investments are needed to extract those reserves. The legality and long-term viability of the agreement with Caracas are also uncertain as the terms have not been disclosed by the Trump administration, experts say.
-"Nothing has been published, so we're really still operating on Tweets and rumors," said David Goldwyn, who served as a State Department special envoy for international energy affairs under President Barack Obama.
-Trump promised Friday the deal would "substantially lower gas prices for all Americans, long into the future." U.S. gas prices were $4.08 per gallon on average nationwide Monday, nearly 30% higher than at this time last year, according to AAA data.
-Prices are rising due to Ukraine's attacks on Russian refineries and the supply disruption in the Middle East triggered by the Iran war. It is basically a foregone conclusion that gas prices will set a new all-time high for Labor Day, said Patrick De Haan, head of petroleum analysis at GasBuddy. The previous Labor Day record was $3.83 per gallon in 2012, De Haan said.
-"Unless we get some sort of magical 20 cent drop, which is next to impossible, it'll be a record setting Labor Day in terms of the national average," De Haan said. "Gas prices have never been this high this late into the year unfortunately."
-Venezuelan oil exports won't provide any near-term relief to U.S. drivers. The nation's oil infrastructure is in a state of disrepair after years of mismanagement by its socialist government. Venezuela is currently producing around 1.2 million barrels a day, down from a peak of 3.5 million bpd in the late 1990s.
-Rystad Energy estimated in January that it would require about $180 billion of investment through 2040 to return Venezuela to its peak production. Secretary of State Marco Rubio said Friday that Trump's deal will bring nearly $100 billion of private-sector investment to the country.
-"This will have absolutely no impact on gasoline prices or Venezuelan production for that matter for years to come," Goldwyn said of the deal.
-It is unclear which oil companies will invest in Venezuela to extract its reserves and how those deals will be structured, said Andy Lipow, president of Lipow Oil Associates. Chevron is the only major U.S. oil company currently active in the country, through joint ventures with state-owned PDVSA.
-Chevron's production in Venezuela has increased 15% to 280,000 bpd this year, Chief Financial Officer Eimear Bonner said on the company's July 31 earnings call. The oil major expects to grow production up to 50% through 2028, Bonner said. This would put Chevron's Venezuela output at around 400,000 bpd in around two years.
-But production growth in Venezuela will be constrained by limits at its export terminals, Lipow said. Tankers are waiting up to 30 days to load crude oil cargoes from Venezuela due to challenges with aging infrastructure and power outages that impacted its ports, the analyst said.
-The terminals "would have to be expanded in order to handle more production," Goldwyn said. "It's unclear who's taking on that project," he said.
-Venezuela interim President Delcy Rodriguez said Saturday that the 25-year deal will develop 17 oil fields and initially boost production to 1.5 million bpd. The oil reserves are mostly located in eight blocks in the Orinoco Belt with the rest in the Lake Maracaibo region, according to a list shared with Reuters.
-The fields in the Orinoco Belt have little or no access to infrastructure, Goldwyn said. "Those fields will take five to seven years, at best, to deliver increased production for the market," he said.
-And there's a lot of uncertainty about whether the deal will be viable over the long term. It faces significant political risk in Washington and Caracas, said Bob McNally, president of Rapidan Energy.
-A Democratic president in 2029 would likely reconsider or terminate the deal, McNally said. Even if a Republican wins the next presidential election, a future Venezuelan government could tear up the agreement as Caracas has done before, he said.
-Venezuelan oil could add large and much needed supplies if all goes well in the coming decades, McNally said. But it is "not a major factor near term in terms of pump prices," he said.`,
-    bodyJa: `専門家らによると、ベネズエラの生産量を大幅に増やすには何年もかかるため、米国のドライバーはドナルド・トランプ大統領によるベネズエラとの大規模な石油取引によるガソリン価格の下落を実感することはないだろう。
-トランプ大統領は金曜日、米国がベネズエラの確認石油埋蔵量650億バレルの過半数支配を確保したと発表した。これは、南米の国が保有すると考えられている3,030億バレルの約20％に相当する。
-しかし、これらの埋蔵量を引き出すには巨額の投資が必要です。専門家らによると、トランプ政権が条件を明らかにしていないため、カラカスとの合意の合法性と長期的な存続可能性も不透明だという。
-バラク・オバマ大統領の下で国務省の国際エネルギー問題担当特使を務めたデービッド・ゴールドウィン氏は、「何も公表されていないため、実際にはツイートと噂を頼りに活動を続けている」と語った。
-トランプ大統領は金曜日、この協定により「将来にわたって全アメリカ国民のガソリン価格が大幅に引き下げられる」と約束した。 AAAのデータによると、月曜日の米国のガソリン価格は全国平均で1ガロン当たり4.08ドルで、昨年のこの時期より30％近く高かった。
-ウクライナによるロシアの製油所への攻撃や、イラン戦争に端を発した中東での供給混乱により、価格が上昇している。ガスバディの石油分析責任者、パトリック・デ・ハーン氏は、レイバーデーにガソリン価格が過去最高値を更新するのは基本的に当然の結論だ、と述べた。デ・ハーン氏によると、レイバーデーのこれまでの記録は2012年の1ガロン当たり3.83ドルだったという。
-デ・ハーン氏は、「何らかの魔法のような20セントの下落がなければ、それはほぼ不可能だが、全米平均という点でレイバーデーの記録を樹立することになるだろう」と語った。 「残念なことに、今年後半になってガソリン価格がこれほど高くなったことはかつてない。」
-ベネズエラの石油輸出は米国の運転手に短期的な救済をもたらさないだろう。同国の石油インフラは、社会主義政府による長年の誤った管理により荒廃した状態にある。ベネズエラの生産量は現在、日量約120万バレルで、ピークだった1990年代後半の日量350万バレルから減少している。
-ライスタッド・エナジーは1月、ベネズエラを生産量のピークに戻すには2040年までに約1800億ドルの投資が必要になると試算した。マルコ・ルビオ国務長官は金曜日、トランプ大統領の合意により同国に1000億ドル近くの民間投資がもたらされると述べた。
-ゴールドウィン氏は今回の合意について、「これは今後何年にもわたってガソリン価格やベネズエラの生産にまったく影響を与えない」と述べた。
-リポウ・オイル・アソシエイツの社長、アンディ・リポウ氏は、どの石油会社がベネズエラの埋蔵量を抽出するために投資するのか、またそれらの取引がどのように構成されるのかは不明だと述べた。シェブロンは現在、国有のＰＤＶＳＡとの合弁事業を通じて国内で事業を展開している唯一の米国大手石油会社である。
-シェブロンの今年のベネズエラでの生産量は15％増の日量28万バレルとなったと最高財務責任者のアイミール・ボナー氏は7月31日の決算会見で述べた。ボナー氏によると、石油メジャーは２０２８年までに生産量が最大５０％増加すると予想している。これにより、シェブロンのベネズエラ生産量は約2年で日量約40万バレルとなる。
-しかし、ベネズエラでの生産の伸びは、輸出ターミナルの制限によって制限されるだろうとリポウ氏は述べた。アナリストによると、老朽化し​​たインフラの問題と港湾に影響を与えた停電のため、タンカーはベネズエラからの原油貨物の積み込みを最大30日間待っているという。
-ゴールドウィン氏は、「より多くの生産を処理するには端末を拡張する必要がある」と述べた。 「誰がそのプロジェクトを引き受けるかは不明だ」と彼は言った。
-ベネズエラのデルシー・ロドリゲス暫定大統領は土曜日、25年間の協定により17の油田が開発され、当初は生産量が日量150万バレルまで増加すると述べた。ロイターと共有したリストによると、石油埋蔵量のほとんどはオリノコベルトの8ブロックに位置し、残りはマラカイボ湖地域にある。
-オリノコベルトの畑ではインフラへのアクセスがほとんど、あるいはまったくない、とゴールドウィン氏は語った。 「これらの分野で市場向けに生産量が増加するまでには、せいぜい5～7年かかるだろう」と同氏は述べた。
-そして、この合意が長期的に実現可能かどうかについては、多くの不確実性がある。ラピダン・エナジーのボブ・マクナリー社長は、ワシントンとカラカスでは重大な政治的リスクに直面していると述べた。
-マクナリー氏は、2029年に民主党大統領が就任した場合、協定は再検討されるか、破棄される可能性が高いと述べた。たとえ次回の大統領選挙で共和党が勝利したとしても、将来のベネズエラ政府はカラカスが以前にそうしたように協定を破棄する可能性があると同氏は述べた。
-マクナリー氏は、今後数十年ですべてがうまくいけば、ベネズエラ石油は大量の必要とされる供給を追加できる可能性があると述べた。しかし、それは「ポンプ価格の観点からは、短期的には大きな要因ではない」と同氏は述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
-    publishedAt: "2026-08-31T21:22:08+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "house-intelligence-committee-warns-of-bl-7ce31ab5",
-    title: "House Intelligence Committee warns of 'Black Swan' AI risks",
-    titleJa: "下院情報委員会、AIの「ブラックスワン」リスクを警告",
-    summaryJa: "下院情報常任特別委員会は、米国のスパイ機関に対し、人工知能の「ブラック・スワン」リスクへの備えを強化するよう求め、新たな報告書の中で、この技術がテロリストや敵対者によってより危険な兵器を開発し、より致命的な攻撃を計画するために利用される可能性があると警告した。「委員会は、情報コミュニティとより広範な政策立案者は、テロリストを含む不正行為者によるAIツールの利用を防ぐ方法を慎重に検討する必要があると考えている」と報告書は述べている。この文書は、2001年9月11日のテロ攻撃につながった諜報活動の失敗に対処するための過去四半世紀にわたる米国の努力を評価するために書かれた。",
-    bodyOriginal: `The House Permanent Select Committee on Intelligence urged U.S. spy agencies to better prepare for "Black Swan" artificial intelligence risks, warning in a new report the technology could be leveraged by terrorists or adversaries to develop more dangerous weapons and plot more deadly attacks.
-"[T]he Committee believes the [intelligence community] and policymakers more broadly must carefully consider how to prevent AI tools from being leveraged for use by rogue actors, including terrorists," the report said. It was written to assess U.S. efforts over the past quarter century to address intelligence failures that led to the Sept. 11, 2001 terror attacks.
-"Preventing terrorist groups from developing access to equipment and expertise necessary to build and use weapons of mass destruction has been a significant point of emphasis for the IC and the national security establishment since 9/11," the report said. "Frontier large language models have the possibility of making it significantly easier for any rogue actor, including terrorists, to develop and conduct more destructive attacks."
-The report, and warning about the destructive potential of AI, comes less than two weeks away from the 25th anniversary of the 9/11 terror attacks that killed thousands and remade U.S. security efforts. At the same time, AI is rapidly advancing and driving immense economic activity — leading lawmakers and officials to grapple with difficult questions over regulating the technology.
-The report was authored by House Intelligence Chair Rick Crawford, R-Ark., and ranking member Jim Himes, D-Conn., along with Reps. Elise Stefanik, R-N.Y., and Josh Gottheimer, D-N.J. They cautioned that existing safeguards may not be enough to keep up with AI's advances.
-"While AI labs seek to prevent models from returning information that could assist a bad actor in, for example, building a bioweapon, the underlying capability of models is developing rapidly and such a use of a model is difficult to fully control," the lawmakers wrote.
-The lawmakers urged the intelligence community to "accelerate its own responsible adoption of advanced AI capabilities so that the United States stays ahead of its adversaries." It also said investing in "secure AI tools for collection, analysis, and warning paired with rigorous testing, human oversight, and strong privacy and civil liberties protections" is critical to addressing the next generation of threats.
-The committee broadly found that the U.S. "faces a threat environment as complex and dangerous as any since September 11, 2001."
-"Serious gaps remain in our ability to confront and address these vulnerabilities. We are not adequately prepared to confront and address our vulnerabilities," the report read.`,
-    bodyJa: `下院情報常任特別委員会は、米国のスパイ機関に対し、人工知能の「ブラック・スワン」リスクへの備えを強化するよう求め、新たな報告書の中で、この技術がテロリストや敵対者によってより危険な兵器を開発し、より致命的な攻撃を計画するために利用される可能性があると警告した。
-「委員会は、情報コミュニティとより広範な政策立案者は、テロリストを含む不正行為者によるAIツールの利用を防ぐ方法を慎重に検討する必要があると考えている」と報告書は述べている。この文書は、2001年9月11日のテロ攻撃につながった諜報活動の失敗に対処するための過去四半世紀にわたる米国の努力を評価するために書かれた。
-報告書は、「テロ集団が大量破壊兵器の製造と使用に必要な装備や専門知識へのアクセスを開発することを阻止することが、9/11以降、ICと国家安全保障機関にとって重要な重点事項となっている」と述べた。 「フロンティアの大規模言語モデルは、テロリストを含むあらゆる不正行為者がより破壊的な攻撃を開発し実行することを大幅に容易にする可能性を秘めています。」
-この報告書は、AIの破壊的な可能性について警告しており、数千人が死亡し、米国の安全保障努力が再構築された9/11テロ攻撃から25周年を迎えるまであと2週間を切った。同時に、AI は急速に進歩し、巨大な経済活動を推進しており、議員や当局者はテクノロジーの規制をめぐる難しい問題に取り組んでいます。
-この報告書は、下院情報委員長のリック・クロフォード氏（共和党、アーカンソー州）と有力議員ジム・ハイムズ氏（民主党、コネチカット州）、エリーゼ・ステファニク議員（共和党、ニューヨーク州）、ジョシュ・ゴットハイマー議員（ニュージャージー州）が執筆した。彼らは、既存の安全策ではAIの進歩に追いつくには十分ではない可能性があると警告した。
-「AI研究所は、生物兵器の製造などで悪役を支援する可能性のある情報をモデルが返すことを阻止しようとしているが、モデルの根本的な能力は急速に発展しており、そのようなモデルの使用を完全に制御するのは困難である」と議員らは書いている。
-議員らは諜報機関に対し、「米国が敵対者の先を行くため、自ら責任を持って高度なAI機能の導入を加速する」よう求めた。また、次世代の脅威に対処するには「厳格なテスト、人間による監視、プライバシーと市民的自由の強力な保護と組み合わせた、収集、分析、警告のための安全なAIツール」への投資が重要であるとも述べた。
-同委員会は、米国が「2001年9月11日以降、これまでにないほど複雑で危険な脅威環境に直面している」と広く認識した。
-「これらの脆弱性に直面し、対処する我々の能力には、深刻なギャップが残っている。我々は、脆弱性に直面し、対処する十分な準備ができていない」と報告書には書かれている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
-    publishedAt: "2026-08-31T21:18:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "trump-says-u-s-growth-could-hit-20-it-s-4dc7c684",
-    title: "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
-    titleJa: "トランプ大統領は、米国の成長率は20％に達する可能性があると述べた。第二次世界大戦後、一度だけ起こったことがある",
-    summaryJa: "ドナルド・トランプ大統領は月曜日、米国経済は20％もの高い成長率で成長する可能性があると述べ、そのような急速な成長であっても連邦準備理事会が利上げを促すべきではないと主張した。トランプ大統領は、処方薬価格引き下げを目的とした合意を発表した大統領執務室のイベントで、「GDPは14、15、16、20になる可能性がある」と語った。 「成長の成功はインフレを引き起こさない。」",
-    bodyOriginal: `President Donald Trump said Monday that the U.S. economy could grow at rates as high as 20%, while arguing that even such rapid growth should not prompt the Federal Reserve to raise interest rates.
-“We could have a GDP of 14, 15, 16 and 20,” Trump said during an Oval Office event announcing agreements aimed at lowering prescription drug prices. “Success in growth does not cause inflation.”
-Trump’s comments came as he continues to push for lower borrowing costs even as Federal Reserve officials contend with inflation that remains above their 2% target.
-The Fed held its benchmark rate steady at 3.5% to 3.75% in July, with three policymakers dissenting in favor of a quarter-point hike. Many Fed watchers expect the Federal Open Market Committee to raise rates at its next meeting in September.
-But growth anywhere close to the levels Trump floated would be virtually unprecedented in the modern U.S. economy.
-Real gross domestic product has grown at an annualized rate of 20% or more in just one quarter in Bureau of Economic Analysis data dating to 1947. That was the third quarter of 2020, when the economy surged at a 34.9% annualized rate as businesses reopened following widespread Covid-19 shutdowns, according to BEA data. The rebound followed a 28% annualized contraction in the previous quarter.
-The next-highest quarter was the first quarter of 1950, when real GDP grew at a 16.7% annualized rate as the U.S. and world emerged from World War II and the baby boom generation was born. No other quarter in the nearly eight-decade series has reached 20%.
-Today’s economy is growing at a fraction of those rates. Real GDP increased at a 1.5% annualized rate in the second quarter of 2026, down from 2.1% in the first quarter, according to the BEA’s latest estimate.
-Quarterly GDP growth is reported at an annualized rate, meaning a 20% reading would not represent 20% growth in a single quarter.
-Trump framed the potential for faster growth as another reason the Fed should lower, rather than raise, interest rates.
-“We should have the lowest interest rates anywhere in the world,” Trump said in response to a reporter's question about the Fed potentially raising rates. “In the old days … if we announced good numbers, interest rates went down. Now, if you announce good numbers, interest rates go up because they’re so afraid of inflation.”
-Strong economic growth does not necessarily cause inflation. An economy can expand rapidly without significant price pressures if productivity and productive capacity rise alongside demand. But when demand grows faster than the economy’s ability to produce goods and services, it can push prices higher.`,
-    bodyJa: `ドナルド・トランプ大統領は月曜日、米国経済は20％もの高い成長率で成長する可能性があると述べ、そのような急速な成長であっても連邦準備理事会が利上げを促すべきではないと主張した。
-トランプ大統領は、処方薬価格引き下げを目的とした合意を発表した大統領執務室のイベントで、「GDPは14、15、16、20になる可能性がある」と語った。 「成長の成功はインフレを引き起こさない。」
-トランプ大統領のコメントは、連邦準備理事会当局者が依然として目標の2％を上回るインフレと闘っているにもかかわらず、借入コストの引き下げを求め続けている中で出された。
-FRBは7月に政策金利を3.5～3.75％に据え置き、3人の政策当局者が4分の1ポイント利上げを支持して反対した。 FRBウォッチャーの多くは、連邦公開市場委員会が9月の次回会合で利上げすると予想している。
-しかし、トランプ大統領が示唆した水準に近い成長率は、現代の米国経済において事実上前例のないものとなるだろう。
-1947年までの経済分析局のデータによると、実質国内総生産はわずか1四半期で年率20％以上の成長を遂げている。BEAのデータによると、それは2020年の第3四半期で、新型コロナウイルス感染症による大規模な休業後に企業が再開され、経済が年率34.9％で急成長した。前四半期の年率換算で28％の縮小に続いて回復した。
-次に高かったのは 1950 年の第 1 四半期で、米国と世界が第二次世界大戦から脱却し、ベビーブーム世代が誕生したことにより、実質 GDP は年率 16.7% で成長しました。約 80 年にわたるシリーズの中で、20% に達した四半期は他にありません。
-今日の経済は、その数分の1の割合で成長しています。 BEAの最新推計によると、2026年第2四半期の実質GDPは年率1.5％増加し、第1四半期の2.1％から減少した。
-四半期の GDP 成長率は年率で報告されるため、20% の測定値は単一四半期の 20% 成長を表すわけではありません。
-トランプ大統領は、FRBが金利を引き上げるのではなく引き下げるべきもう1つの理由として、成長加速の可能性を挙げた。
-トランプ大統領は、FRBの利上げの可能性に関する記者の質問に答えて、「我々は世界のどこよりも低い金利を持つべきだ」と述べた。 「昔は…良い数字を発表すると金利が下がりました。今は良い数字を発表すると金利が上がります。インフレを恐れるあまりです。」
-力強い経済成長が必ずしもインフレを引き起こすわけではありません。需要に応じて生産性と生産能力が向上すれば、大きな価格圧力をかけずに経済が急速に拡大する可能性があります。しかし、経済の財やサービスの生産能力を上回るペースで需要が増加すると、価格が上昇する可能性があります。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
-    publishedAt: "2026-08-31T20:50:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "kushner-states-regret-over-world-cup-sel-fe096491",
-    title: "Kushner states regret over World Cup sell-off plan",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "ベンチャーキャピタリストのジョシュア・クシュナー氏は、サッカー界がどう反応するかを知っていたら、FIFA会長のジャンニ・インファンティーノによるワールドカップの株式売却計画の中止には関与しなかっただろうと語る。",
-    bodyOriginal: `Kushner states regret over World Cup sell-off plan
-- Published
-Venture capitalist Joshua Kushner, who was set to be the lead investor in Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup, says he now regrets joining the proposal.
-In his first public comments since the now-shelved Fifa Forward Enterprise (FFE) scheme sparked a major crisis for the governing body, Kushner said: "Had we known what this would devolve into, we would not have gotten involved".
-The brother of US President Donald Trump's son-in-law, Kushner added he had "failed to appreciate the political dynamics of global football".
-However, he also defended the proposal, saying, "we stand behind the motivations of FFE", and that its intention "was to direct more capital and equity equally" among Fifa's 211 member associations.
-Thrive Eternal, a firm founded by Kushner, had held talks with Infantino about heading up a $4.2bn (£3.1bn) investment in 20% of a new Fifa commercial subsidiary, before the idea was abandoned days after it was revealed in July amid a huge backlash.
-Division, drama and power - what next for Infantino and Uefa?
-- Published3 days ago
-Uefa preparing criminal legal action against Infantino
-- Published4 days ago
-Kushner's comments come just days after Uefa asked a court in New York to approve subpoenas for testimony and documents from both the American billionaire and Thrive as it considers lodging a criminal complaint against Infantino in Switzerland.
-European football's governing body Uefa has led the rebellion against the Fifa president, who is facing calls to stand down.
-In a statement, Kushner said: "Money in football has historically been concentrated amongst a small group of countries.
-"The idea behind FFE was to direct more capital and equity equally amongst all 211 member countries, providing significantly more investment to underdeveloped nations to nurture local talent, support grassroots football, enhance the fan experience, and ultimately grow the global game everywhere.
-"It was an idea that every member association would vote on, not an obligation or determination.
-"While we stand behind the motivations of FFE, we failed to appreciate the political dynamics of global football, and the lengths some would go to. Thrive has a long track record of being a partner to all constituents. Had we known what this would devolve into, we would not have gotten involved."
-In late July, shortly before scrapping the plan, Fifa said, "Thrive Eternal...is expected to lead the proposed investor group for FFE", claiming it would have seen the funding distributed to each national association for the 2027-2030 cycle increase from £5.9m to £14.7m.
-As well as Kushner, Uefa has asked for the disclosure of documents from two Fifa businesses in the US and American financier Greg Maffei, who was a key adviser on the deal.
-While Uefa says neither Kushner nor Maffei are anticipated defendants in any legal proceedings, it claims the pair first discussed the FFE concept in July 2025 and that Infantino had "been discussing the underlying concept with Kushner for nearly a year before the terms sheet was ultimately signed."
-Its lawyers also argue the World Cup was deliberately undervalued at around £15bn, which it says is "a figure that was neither the product of an open, competitive auction, nor tested by any independent valuer". It claims Infantino failed to consult Fifa's hierarchy over the plan.
-Kushner has recently agreed a deal to buy basketball's Los Angeles Lakers for a record $12.5bn (£9.3bn).
-Related topics
-- Published4 days ago
-- Published1 August
-- Published6 days ago
-- Published8 June
-- Published3 days ago`,
-    bodyJa: `クシュナー氏、ワールドカップの売却計画について遺憾の意を表明
-- 公開されました
-FIFA会長のジャンニ・インファンティーノが撤回したワールドカップの株式売却計画の筆頭投資家となる予定だったベンチャーキャピタリストのジョシュア・クシュナー氏は、今ではこの提案に参加したことを後悔していると語る。
-クシュナー氏は、現在棚上げされているFIFAフォワード・エンタープライズ（FFE）計画が運営団体に大きな危機を引き起こして以来、初めてのパブリックコメントで、「これがどうなるか分かっていたら、我々は関与しなかっただろう」と述べた。
-ドナルド・トランプ米大統領の義理の息子の弟であるクシュナー氏は、「世界のサッカーの政治的力学を理解できていない」と付け加えた。
-しかし、同氏はまた、「我々はFFEの動機を支持する」と述べ、その意図はFIFAの211加盟団体間で「より多くの資本と資本を平等に振り向けることだった」とこの提案を擁護した。
-クシュナー氏が設立した会社スライブ・エターナルは、FIFAの新たな商業子会社の20％に42億ドル（約3100億円）の投資を行うことについてインファンティーノ氏と協議していたが、このアイデアは7月に明らかにされてから数日後に大きな反発の中で断念された。
-分断、ドラマ、権力 - インファンティーノとUEFAの次はどうなるのか?
-- 3 日前に公開
-UEFA、インファンティーノに対する刑事訴訟を準備中
-- 4 日前に公開
-クシュナー氏のコメントは、UEFAがスイスでインファンティーノ氏に対する刑事告訴を検討しているため、ニューヨークの裁判所に対し、米国の億万長者とスライブ氏の両方からの証言と文書の召喚状を承認するよう求めた数日後に出た。
-欧州サッカー統括団体UEFAは、辞任を求める声に直面しているFIFA会長に対する反乱を主導した。
-クシュナー氏は声明で「サッカー界の資金は歴史的に一部の国に集中してきた。
-「FFEの背後にある考え方は、より多くの資本と資本を加盟211カ国すべてに平等に振り向け、低開発国に大幅に多くの投資を提供して、地元の人材を育成し、草の根サッカーをサポートし、ファン体験を向上させ、最終的にはあらゆる場所で世界的なゲームを成長させることでした。
-「これはすべての加盟協会が投票するアイデアであり、義務や決定ではありませんでした。
-「私たちはFFEの動機を支持しながらも、世界のサッカーの政治的力学と、一部の人々がどれほどの努力をするかを理解していませんでした。 Thrive には、すべての構成員のパートナーとしての長年の実績があります。これがどうなるかを知っていたら、私たちは関与しなかっただろう。」
-計画を撤回する直前の7月下旬、FIFAは「スライブ・エターナルは…FFEの提案された投資家グループを率いることが期待されている」と述べ、2027年から2030年のサイクルで各国内協会に分配される資金は590万ポンドから1470万ポンドに増加すると主張した。
-ＵＥＦＡはクシュナー氏に加え、米国のＦＩＦＡ企業２社と、この取引の主要顧問だった米国の投資家グレッグ・マッフェイ氏の文書の開示を求めた。
-ＵＥＦＡは、クシュナー氏もマッフェイ氏もいかなる法的手続きにおいても被告になる予定はないとしているが、両氏が最初にＦＦＥのコンセプトについて話し合ったのは２０２５年７月で、インファンティーノ氏は「最終的に条件書に署名するまでの１年近くも基礎となるコンセプトについてクシュナー氏と話し合っていた」と主張している。
-弁護士らはまた、ワールドカップの価値が約150億ポンドと意図的に過小評価されていると主張しており、この額は「公開された競争オークションの結果でもなく、独立した評価機関によってテストされたものでもない」と主張している。インファンティーノ氏はこの計画に関してFIFA幹部に相談しなかったと主張している。
-クシュナー氏は最近、バスケットボールのロサンゼルス・レイカーズを史上最高額の125億ドル（93億ポンド）で買収する契約に合意した。
-関連トピック
-- 4 日前に公開
-- 8月1日発行
-- 6 日前に公開
-- 6 月 8 日発行
-- 3 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-31T18:38:55+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac98/live/245f6750-a568-11f1-a291-b542ee92de7c.jpg",
-    readTime: 4,
-  },
-  {
-    id: "victoria-beckham-s-company-makes-its-fir-d8c13461",
-    title: "Victoria Beckham's company makes its first profit after 18 years",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Victoria Beckham's company makes its first profit after 18 years
-- Published
-Victoria Beckham's fashion and beauty business has made an operating profit for the first time since she founded it in 2008, the company has said.
-Victoria Beckham Holdings Ltd, which is led by the former Spice Girl as creative director, made an operating profit of £7.3m in 2025, accounts show, after years of losses.
-"We have all worked hard for a long time for this moment of profitability and growth," Lady Beckham told the Financial Times, external.
-"We've been very transparent about the problems that we had in the business but have recovered and are now growing at a sensible pace. After 20 years, people don't look at my brand as a celebrity brand any more."
-Skincare success
-Last year, a Netflix documentary told the story of her attempting to establish a fashion brand and achieve profitability - and the series itself helped boost sales, "with particularly strong momentum in denim and jersey", according to the accounts.
-The fashion side of the company delivered "strong double-digit growth" overall in 2025, they said, while the beauty side, which launched in 2019, "delivered one of its strongest performances to date".
-That was led by the popularity of her Foundation Drops, which had a 25,000-strong waiting list and which doubled the size of the skincare part of the company.
-The Netflix documentary showed the former pop star talking about her attempts to overcome doubters to be taken seriously as a designer and entrepreneur, then running into financial trouble when the company was "tens of millions in the red".
-The business was bailed out by her husband Sir David, who told the programme: "For her to have to come to me and say, 'Can I have some... We need some more money, the business needs more money' - that was hard for both of us because I didn't have the money to keep doing this."
-Lady Beckham said: "If he hadn't believed in me I wouldn't still have a business now."
-She went on to get £30m investment by selling 30% of the company to NEO Investment Partners in 2017, who launched a restructure.
-'Significant milestone'
-That included tackling what Beckham admitted was "mindblowing" waste, including "flying chairs from one side of the world to another" and spending what NEO's David Belhassen said was "70,000 a year" on office plants.
-In a statement on Monday, Belhassen, who is chairman of Victoria Beckham Holdings, said: "With two complementary growth engines in fashion and beauty, an increasingly international customer base and a focused operating model, the business is powerfully positioned for its next phase of profitable growth."
-CEO Sybille Darricarrère Lunel said: "Achieving our first operating profit is a landmark moment for Victoria Beckham and reflects several years of disciplined execution and strategic investment.
-"Delivering this result against a more challenging luxury market and macro backdrop makes it an even more significant milestone for the business."
-- Published12 June
-- Published9 October 2025`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-31T17:28:19+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg",
-    readTime: 2,
-  },
-  {
-    id: "ai-could-cause-global-economic-downturn-632584d0",
-    title: "AI could cause global economic downturn, Andrew Bailey warns G20",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `AI could cause global economic downturn, Andrew Bailey warns G20
-- Published
-The governor of the Bank of England has warned G20 finance ministers that artificial intelligence could cause a global economic downturn and pose a significant cyber security risk to financial systems.
-Andrew Bailey said any collapse of growth in the AI sector could lead to a "future market correction" that spreads worldwide.
-In an open letter to finance ministers in the US on Monday, he said companies around the world should prepare for security breaches "involving simultaneous disruption across multiple firms".
-Earlier this month, a group of 100 firms, including Google, Microsoft, Anthropic and OpenAI, urged countries and groups to beef up their cyber defences before AI grows powerful enough to override them.
-Bailey told the G20 finance ministers that a combination of highly priced stock markets, increased borrowing by investors, and the growing concentration of money into a small number of major technology companies could amplify any future market correction.
-"The issue is not simply that investors are borrowing more, but that leverage is interacting with high valuations and market concentration, in particular the increasing cross-investment between artificial intelligence (AI) companies and hyper scalers, in a way that could amplify a future market correction," he said.
-Bailey has called on those in charge of financial security to develop "appropriate steps to support safe and responsible model release and deployment on a global basis".
-Bailey, who was writing in his capacity as chairman of the Financial Stability Board international watchdog (FSB), expressed concern about the "volatility" prompted by the effect of energy supply shocks caused by the US-Iran war.
-His warning comes several months after UK Chancellor John Healey announced a £100m fund aimed at backing British AI start-ups.
-That is part of the government's efforts to grow the country's "sovereign AI" capacity, developing homegrown AI technology to ensure the UK is not dependent on services from abroad.
-Ministers want to see companies compete for the funding to help tackle challenges like cutting waiting lists in the NHS and bolstering cybersecurity and defence.
-A UK government spokesperson said its' new AI economics institute was working with international partners to build "a stronger shared understanding of how AI is transforming economies around the world."
-"The institute is the first government-backed body of its kind focused on AI's economic impact, helping policymakers understand what AI means for growth, productivity, jobs and public services as the technology develops at pace," the spokesperson said.
-But there is growing concern that AI companies are increasingly developing models that can easily override the safeguarding systems of banks and financial centres.
-This summer has seen OpenAI, Anthropic and Meta all reveal their AI tools doing things they should not, with some AI agents going so far as to impersonate real people in order to get past security hurdles.
-The FSB which Bailey leads is a global watchdog which monitors finance ministry officials, banks and securities regulators. It includes officials from the US, UK, France, Germany, Canada, Japan, Australia, China and Saudi Arabia.
-Related topics
-- Published4 days ago
-- Published5 days ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-08-31T16:49:11+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 2,
-  },
-  {
-    id: "america-is-asking-the-wrong-question-abo-143c3643",
-    title: "America is asking the wrong question about its $40 trillion in debt, this MIT expert warns",
-    titleJa: "アメリカは40兆ドルの債務について間違った質問をしている、とMITの専門家が警告",
-    summaryJa: "ある専門家は、連邦債務は持続可能かもしれないが、負担の増加は依然として米国経済にとって厄介な問題となる可能性があると指摘する。",
-    bodyOriginal: `The federal debt may be sustainable, but rising burdens may still be troublesome to the U.S. economy, says one expert.`,
-    bodyJa: `ある専門家は、連邦債務は持続可能かもしれないが、負担の増加は依然として米国経済にとって厄介な問題となる可能性があると指摘する。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
-    publishedAt: "2026-08-31T13:10:00+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.mktw.net/im-63049502",
-    readTime: 2,
   },
 ];
 
