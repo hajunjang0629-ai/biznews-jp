@@ -15,6 +15,304 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "nba-suspends-clippers-owner-ballmer-for-fc93b56a",
+    title: "NBA suspends Clippers owner Ballmer for one year in Kawhi Leonard salary cap probe",
+    titleJa: "NBA、カワイ・レナードのサラリーキャップ疑惑でクリッパーズのオーナー・バルマー氏に1年間の出場停止処分",
+    summaryJa: "NBAはまた、ロサンゼルス・クリッパーズに3,000万ドルの罰金を科し、チームは2029年からのドラフトで毎年1つずつ、計5つの1巡目指名権を剥奪されると発表した。",
+    bodyOriginal: `The NBA on Wednesday said it had suspended Los Angeles Clippers owner Steve Ballmer for one year as part of a broad array of sanctions on the basketball team and its executives for violating the league's salary cap circumvention rules related to star player Kawhi Leonard.
+The NBA said that Leonard "violated the circumvention rules by pressuring the Clippers to assist him in obtaining off-court income opportunities, successfully obtaining those opportunities, and failing to reimburse payments by the Clippers for personal expenses." Leonard was ordered to pay the league $700,000 in connection with his violations.
+Ballmer "knowingly" sought to help Leonard obtain off-court income opportunities, and approved a business deal that "that he knew was a precondition for Aspiration to enter into an endorsement agreement with Mr. Leonard, and for his failure to create conditions under which his organization abided by the NBA's circumvention rules," the NBA said.
+As part of the sanctions issued Wednesday, the Clippers were fined $30 million and "shall forfeit five first-round draft picks, one in each of the 2029, 2030, 2031, 2032, and 2033 NBA Drafts," the league said.
+In addition to Ballmer's suspension, "Clippers President of Business Operations Gillian Zucker is suspended without pay for one year for being primarily and directly culpable for the impermissible endorsement arrangements and for providing false and misleading statements to investigators," the league said.
+Clippers President of Basketball Operations Lawrence Frank was suspended without pay for six months for his involvement with "impermissible endorsement arrangements and for approving impermissible expenses incurred by Mr. Leonard and his family," the NBA said.
+This is breaking news. Please refresh for updates.`,
+    bodyJa: `NBAは水曜日、スター選手カワイ・レナードに関連したリーグのサラリーキャップ回避規定に違反したバスケットボールチームとその幹部に対する広範な制裁の一環として、ロサンゼルス・クリッパーズのオーナー、スティーブ・バルマー氏を1年間の出場停止処分にしたと発表した。
+NBAは、レナードが「クリッパーズに対しコート外での収入機会の獲得を支援するよう圧力をかけ、それらの機会を首尾よく獲得し、クリッパーズによる個人的費用の支払いを返済しなかったことにより、回避規則に違反した」と述べた。レナードは違反行為に関連してリーグに70万ドルの支払いを命じられた。
+バルマー氏は「承知の上で」レナード氏がコート外で収入を得られるよう支援しようとし、「アスピレーション社がレナード氏との推薦契約を結ぶための前提条件であること、そしてバルマー氏がNBAの回避規則を遵守する条件をバルマー氏が作り出すことができなかったことを認識していた」商取引を承認したとNBAは発表した。
+水曜日に出された制裁の一環として、クリッパーズには3,000万ドルの罰金が科せられ、「2029年、2030年、2031年、2032年、2033年のNBAドラフトでそれぞれ1つずつ、計5つのドラフト1巡目指名権を剥奪される」とリーグは発表した。
+バルマー氏の出場停止処分に加え、「クリッパーズの事業運営部門社長のジリアン・ザッカー氏は、許容されない承認取り決めと捜査官に虚偽で誤解を招く供述を行ったことに主として直接の責任があるとして、１年間の無給出場停止処分を受ける」とリーグは発表した。
+NBAは、クリッパーズのバスケットボール運営部門のローレンス・フランク社長が、「容認できないスポンサー契約への関与と、レナード氏とその家族が負担した容認できない出費を承認したこと」により、6か月の無給停職処分を受けたと発表した。
+これは速報です。更新を確認するには更新してください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/nba-suspends-clippers-ballmer-kawhi-leonard-salary-cap.html",
+    publishedAt: "2026-09-02T20:54:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ustr-s-greer-huddles-with-house-republic-f7721694",
+    title: "USTR's Greer huddles with House Republicans amid Trump trade spats",
+    titleJa: "USTRのグリア氏、トランプ大統領の貿易摩擦のさなか、下院共和党議員と密会",
+    summaryJa: "ドナルド・トランプ大統領によるカナダとの貿易戦争や牛肉輸入計画に議員らが動揺するなか、ジェイミソン・グリア通商代表は水曜日、下院共和党議員らと集まりました。ラルフ・ノーマン下院議員（共和党、サウスカロライナ州）は会議を終えた後、「良い議論、活発な議論だった」と述べ、議員らは「関税やカナダに対する懸念を表明していた」と述べた。",
+    bodyOriginal: `U.S. Trade Representative Jamieson Greer huddled with House Republicans on Wednesday as lawmakers reel from President Donald Trump's trade war with Canada and plans to import beef.
+"It was a good discussion, a lively discussion," Rep. Ralph Norman, R-S.C., said after exiting the meeting, saying lawmakers were "expressing their concerns about the tariffs, about Canada."
+"It's not good, but I think they'll come to a conclusion on it. I think it'll be a meaningful result on this, and it may take some time; everybody's aware about the midterms, everybody knows about the timeline," he said, asked about potential escalation in the trade war with Canada.
+Greer's visit to Capitol Hill comes as Trump's whipsawing tariff agenda creates new vulnerabilities for Republicans on the campaign trail. An escalating tit-for-tat tariff battle with Canada could harm businesses and consumers in northern border states. Meanwhile, Trump's plan to lower tariffs on 300,000 metric tons of imported beef caused an uproar among cattle ranchers, who have long been allies of the president.
+Republicans are trying to defend their narrow majorities in the House and Senate while voters register discontent with the cost of living, according to public polling.
+"Most of the questions were regional," said Rep. Tim Burchett, R-Tenn. "I'm confident this administration is working towards resolving a lot of the problems we have, but everybody knows it's affordability."
+Asked whether there are any talks ongoing with Canada, Burchett said: "It doesn't sound like there are any right now."
+Most Republicans who attended the meeting sought to put the ball in Canada's court to de-escalate the trade war, consistent with the White House's messaging.
+Commerce Secretary Howard Lutnick said on CNBC on Wednesday that Ottawa is "trying to blow it up for these political reasons."
+"You're watching them play politics in Canada, and they're just using us, and it's really embarrassing," Lutnick said.
+Canadian Prime Minister Mark Carney on Tuesday blamed the Trump administration for the talks breaking down, saying the White House has been "doing memes" and "throwing shade" against his nation amid the growing trade war.
+The U.S. slapped 50% tariffs on a bevy of goods in late August after trade talks broke down. Canada has since retaliated with its own tariffs. The Canadians accused the U.S. of making unreasonable demands, and the U.S. said Canada asked for changes at the last minute before the deal was to take effect.
+"The United States of America gave them the best possible deal," Rep. Brian Mast, R-Fla., chair of the House Foreign Affairs Committee, said of Canada after the Greer meeting. "The opportunity sits for them to come to the table."`,
+    bodyJa: `ドナルド・トランプ大統領によるカナダとの貿易戦争や牛肉輸入計画に議員らが動揺するなか、ジェイミソン・グリア通商代表は水曜日、下院共和党議員らと集まりました。
+ラルフ・ノーマン下院議員（共和党、サウスカロライナ州）は会議を終えた後、「良い議論、活発な議論だった」と述べ、議員らは「関税やカナダに対する懸念を表明していた」と述べた。
+同氏はカナダとの貿易戦争激化の可能性について質問し、「良くはないが、彼らはこの件について結論を出すだろう。この件に関しては有意義な結果になると思うが、時間がかかるかもしれない。中間選挙については誰もが知っており、タイムラインについては誰もが知っている」と述べた。
+グリア氏の国会議事堂訪問は、トランプ氏の鞭打ち関税政策が選挙活動中の共和党員に新たな脆弱性を生み出している中で行われた。カナダとの報復関税合戦が激化すれば、北部国境州の企業や消費者に損害を与える可能性がある。一方、30万トンの輸入牛肉に対する関税を引き下げるというトランプ大統領の計画は、大統領の長年の同盟国である畜産農家の間で騒動を引き起こした。
+世論調査によると、有権者が生活費に不満を示す中、共和党は上下両院で僅差の多数派を守ろうとしている。
+「質問のほとんどは地域に関するものだった」とティム・バーチェット下院議員（共和党、テネシー州）は語った。 「現政権が我々が抱えている多くの問題の解決に取り組んでいると確信しているが、それが手頃な価格であることは誰もが知っている。」
+バーチェット氏は、カナダと何らかの協議が進行しているかとの質問に対し、「現時点では協議が行われていないように見える」と述べた。
+会合に出席した共和党議員の大半は、ホワイトハウスのメッセージと一致して、貿易戦争の沈静化に向けてカナダの法廷にボールを置こうとした。
+ハワード・ラトニック商務長官は水曜日、CNBCで、オタワは「政治的理由でそれを爆破しようとしている」と述べた。
+「カナダで彼らが政治活動をしているのを見ていると、彼らはただ私たちを利用しているだけだ。それは本当に恥ずかしいことだ」とラトニック氏は語った。
+カナダのマーク・カーニー首相は火曜日、貿易戦争が激化する中、ホワイトハウスが自国に対して「ミームを行って」「日陰を投げかけている」と述べ、交渉決裂の責任はトランプ政権にあると非難した。
+米国は通商交渉決裂後、8月下旬に一連の製品に50％の関税を課した。その後、カナダは独自の関税で報復した。カナダ側は米国が不当な要求をしたと非難し、米国はカナダが合意発効直前になって変更を求めたと述べた。
+下院外交委員会委員長のブライアン・マスト下院議員（共和党、フロリダ州）はグリア会談後、カナダについて「米国は可能な限り最善の合意を提示した」と述べた。 「彼らがテーブルに着くチャンスが到来している。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
+    publishedAt: "2026-09-02T20:50:51+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "microsoft-to-start-disclosing-azure-quar-0c8b29bc",
+    title: "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+    titleJa: "Microsoft、事業部門の統合に伴いAzureの四半期収益の開示を開始",
+    summaryJa: "Microsoftは、Azureクラウド事業の四半期収益の開示を初めて開始し、アマゾン ウェブ サービスやグーグルのクラウドプラットフォームと競合する同社の事業のより明確な全体像を投資家に提供する。水曜日のプレゼンテーションで発表されたこの変更は、Microsoftの営業セグメントを3つから2つに削減することによる、報告構造の広範な変更の一環である。以前の体制は 2015 年から実施されていました。",
+    bodyOriginal: `Microsoft will start disclosing quarterly revenue for its Azure cloud business for the first time, providing investors with a clearer picture of its business that competes with Amazon Web Services and Google's cloud platform.
+The change, announced in a presentation on Wednesday, is part of a broader shift in Microsoft's reporting structure, as the company trims its operating segments from three to two. The prior structure had been in place since 2015.
+Microsoft's Azure unit has been a major beneficiary of the artificial intelligence boom, as customers turn to major cloud infrastructure platforms for access to the AI models needed to develop new agents and other tools. Analysts at Stifel estimated in July that about half of Azure's revenue growth in the 2026 fiscal year came from OpenAI, while Anthropic has also become more reliant on Microsoft's cloud.
+"There's no question Al represents a profound shift in both technology and business," CEO Satya Nadella wrote in the presentation. "It is changing what we build and how we operate, and it is blurring the boundaries between our products and reshaping our business models."
+Amazon began disclosing revenue from AWS, the market leader, in 2015. Alphabet, which ranks third in cloud, started providing total revenue from Google Cloud Platform and Workspace productivity subscriptions in 2020.
+Microsoft, by contrast, has only been providing the year-over-year growth rate for Azure, and started offering actual sales on an annual basis dating back to last year.
+Another big change to Azure is that it will exclude GitHub cloud services, developer cloud services, the Security Copilot assistant and healthcare and life sciences cloud products, according to the presentation. In 2021, the company started announcing growth from Azure and other cloud services, later lumping in some revenue from the GitHub and Nuance Communications acquisitions.
+"Under this reporting structure, Azure becomes more purely our consumption-based platform and infrastructure business," Nadella wrote in the deck.
+Going forward, Microsoft's two segments will be Agents and Infra, and Devices and Consumer.
+The first will include Azure and Microsoft 365 cloud products, as well as productivity and server licensing, industry solutions and frontier and support services. The latter will comprise search and advertising, Xbox, and revenue from sales of devices and Windows operating system licenses to device makers.
+Inside Agents and Infra, Microsoft will be able to showcase momentum from a series of AI assistants, including the Microsoft 365 Copilot for commercial customers and the GitHub Copilot coding agent. Microsoft said in July that it had over 30 million paid seats for the 365 Copilot, up from more than 20 million as of April.
+Microsoft is also providing two years of recast financial results and adjusted guidance, but will stop showing costs and operating margins for the three old segments.
+With the new structure, Azure revenue grew 42% to $29.42 billion in the June quarter, compared with 43% using the old Azure and other cloud services metric. That means Azure represented almost 33% of Microsoft's total revenue in the latest period.
+Management said fiscal first-quarter Azure revenue should grow 44% to 45% at constant currency. In July the company called for 45% growth at constant currency for Azure and other cloud services.
+Microsoft is targeting $75.15 billion to $75.75 billion in Agents and Infra revenue, with $14.7 billion to $15.2 billion in Devices and Consumer revenue. There are no changes to the outlook for overall revenue, cost of revenue or operating expenses.
+WATCH: BofA's Liani on Microsoft upgrade: Investors are underestimating how it is differentiating in AI`,
+    bodyJa: `Microsoftは、Azureクラウド事業の四半期収益の開示を初めて開始し、アマゾン ウェブ サービスやグーグルのクラウドプラットフォームと競合する同社の事業のより明確な全体像を投資家に提供する。
+水曜日のプレゼンテーションで発表されたこの変更は、Microsoftの営業セグメントを3つから2つに削減することによる、報告構造の広範な変更の一環である。以前の体制は 2015 年から実施されていました。
+顧客が新しいエージェントやその他のツールの開発に必要な AI モデルにアクセスするために主要なクラウド インフラストラクチャ プラットフォームに目を向けているため、Microsoft の Azure 部門は人工知能ブームの大きな恩恵を受けてきました。 Stifelのアナリストらは7月、2026会計年度のAzureの収益増加の約半分はOpenAIによるもので、AnthropicもMicrosoftのクラウドへの依存度を高めていると推定した。
+CEOのサティア・ナデラ氏はプレゼンテーションの中で、「アルがテクノロジーとビジネスの両方に大きな変化をもたらすことに疑問の余地はない」と述べた。 「私たちが何を構築し、どのように運営するかが変化し、製品間の境界があいまいになり、ビジネスモデルが再構築されています。」
+Amazon は、2015 年に市場リーダーである AWS からの収益の開示を開始しました。クラウドで 3 位にランクされている Alphabet は、2020 年に Google Cloud Platform と Workspace の生産性サブスクリプションからの総収益の提供を開始しました。
+対照的に、Microsoft は Azure の前年比成長率のみを提供しており、昨年から実際の売上高を年間ベースで提供し始めました。
+プレゼンテーションによると、Azure に対するもう 1 つの大きな変更は、GitHub クラウド サービス、開発者向けクラウド サービス、Security Copilot アシスタント、ヘルスケアおよびライフ サイエンスのクラウド製品が除外されることです。 2021年、同社はAzureやその他のクラウドサービスによる成長を発表し始め、後にGitHubとNuance Communicationsの買収による収益の一部を一括計上した。
+「この報告構造の下では、Azure はより純粋に消費ベースのプラットフォームおよびインフラストラクチャ ビジネスになります」と Nadella 氏は資料の中で述べています。
+今後、Microsoft の 2 つのセグメントは、エージェントとインフラ、デバイスとコンシューマになります。
+1 つ目には、Azure と Microsoft 365 のクラウド製品に加え、生産性とサーバーのライセンス、業界ソリューション、フロンティアおよびサポート サービスが含まれます。後者には、検索と広告、Xbox、デバイス メーカーへのデバイスと Windows オペレーティング システムのライセンスの販売からの収益が含まれます。
+エージェントとインフラ内で、Microsoft は、商用顧客向けの Microsoft 365 Copilot や GitHub Copilot コーディング エージェントを含む一連の AI アシスタントの勢いを示すことができます。 Microsoftは7月、365 Copilotの有料シート数は3000万以上で、4月時点の2000万以上から増加したと発表した。
+Microsoftはまた、2年間の修正された財務結果と調整後のガイダンスを提供しているが、3つの古いセグメントのコストと営業利益率の表示を中止する。
+新しい構造により、6 月四半期の Azure の収益は 42% 増加して 294 億 2000 万ドルとなりました。これに対し、古い Azure およびその他のクラウド サービスの指標を使用した場合は 43% 増加しました。これは、Azure が最新期間における Microsoft の総収益のほぼ 33% を占めたことを意味します。
+経営陣は、会計年度第 1 四半期の Azure 収益は為替変動の影響を除いて 44% ～ 45% 増加するはずだと述べています。同社は7月に、Azureやその他のクラウドサービスの固定通貨ベースで45％の成長を要求した。
+Microsoftは、エージェントとインフラの売上高が751億5000万ドルから757億5000万ドル、デバイスとコンシューマの売上高が147億ドルから152億ドルになることを目標としている。全体の収益、収益原価、営業費用の見通しに変更はありません。
+注目: Microsoft アップグレードに関する BofA のリアニ氏: 投資家は AI での差別化を過小評価している`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+    publishedAt: "2026-09-02T20:46:42+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "snowflake-spikes-22-on-healthy-results-a-c6e97b4f",
+    title: "Snowflake spikes 22% on healthy results and AI coding momentum",
+    titleJa: "Snowflake は健全な結果と AI コーディングの勢いで 22% 急上昇",
+    summaryJa: "データ分析ソフトウェアメーカーが予想を上回る業績とガイダンスを発表したことを受け、スノーフレーク株は水曜日の時間外取引で22％上昇した。LSEGコンセンサスと比較した同社のパフォーマンスは次のとおりです。",
+    bodyOriginal: `Snowflake shares rose 22% in extended trading on Wednesday after the data analytics software maker reported results and guidance that surpassed expectations.
+Here's how the company performed relative to LSEG consensus:
+- Earnings per share: 62 cents adjusted vs. 45 cents expected
+- Revenue: $1.55 billion vs. $1.48 billion expected
+Snowflake's revenue jumped 35% year over year in the fiscal second quarter, which ended on July 31, according to a statement. The company recorded a net loss of $191.7 million, or 55 cents per share, smaller than the net loss of $297.9 million, or 89 cents per share, one year ago.
+The company pointed to gains from the CoCo artificial intelligence coding agent, which now has 9,100 accounts, an increase of over 2,000 during the quarter.
+For the fiscal third quarter, Snowflake said it sees $1.59 billion in product revenue, above the $1.50 billion consensus among analysts polled by StreetAccount. Management pushed up its product revenue forecast for the fiscal year, calling for $6.07 billion, compared with $5.84 billion in May. It's now forecasting a 14.5% adjusted operating margin, wider than the 13.5% figure it had projected in May.
+As of Wednesday's close, Snowflake shares were up 39%, while the S&P 500 index had gained about 12% in the same period. If the stock moves as high on Thursday as it did after hours on Wednesday, it would represent the fourth highest jump since Snowflake went public in 2020.
+Executives will discuss the results with analysts on a conference call starting at 5 p.m. ET.`,
+    bodyJa: `データ分析ソフトウェアメーカーが予想を上回る業績とガイダンスを発表したことを受け、スノーフレーク株は水曜日の時間外取引で22％上昇した。
+LSEGコンセンサスと比較した同社のパフォーマンスは次のとおりです。
+- 1 株当たり利益: 調整後 62 セント、予想 45 セント
+- 収益: 15 億 5,000 万ドル対予想 14 億 8,000 万ドル
+声明によると、スノーフレークの売上高は、7月31日に終了した会計年度第2四半期に前年同期比35％増加した。同社の純損失は1億9,170万ドル（1株あたり55セント）で、1年前の純損失2億9,790万ドル（1株あたり89セント）よりも縮小した。
+同社は、CoCo 人工知能コーディング エージェントによる利益を指摘し、現在アカウント数は 9,100 であり、当四半期中に 2,000 以上増加しました。
+スノーフレークは、会計年度第3四半期の製品売上高が15億9000万ドルになると予想しており、StreetAccountが調査したアナリストのコンセンサスである15億9000万ドルを上回っていると述べた。経営陣は会計年度の製品売上高予想を5月の58億4000万ドルから60億7000万ドルに上方修正した。同社は現在、調整後営業利益率が14.5％と予想しており、5月に予想していた13.5％を上回っている。
+水曜日の終値時点で、スノーフレークの株価は39％上昇し、S&P500指数は同期間に約12％上昇した。もし木曜日の株価が水曜の時間外株価と同じくらい高くなれば、スノーフレークが2020年に上場して以来4番目に高い値上がりとなる。
+幹部らは午後５時からの電話会議でアナリストらと結果について話し合う予定だ。 ET。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html",
+    publishedAt: "2026-09-02T20:28:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "the-los-angeles-angels-are-being-sold-fo-8cadf703",
+    title: "The Los Angeles Angels are being sold for a record $4 billion. Here's what every MLB team is now worth",
+    titleJa: "ロサンゼルス・エンゼルスが史上最高額の40億ドルで売却されることになった。 MLB チームの現在の価値は次のとおりです",
+    summaryJa: "スタン・クロエンケ監督は、MLBチームとその地域スポーツネットワークであるエンジェルス・ブロードキャスト・テレビジョンを40億ドルで評価する契約で、モレノ家からロサンゼルス・エンゼルスを買収することに同意した。今年初めに発表されたCNBCのMLB評価額によると、エンゼルスのMLB評価額の記録は2025年の球団収入の10倍に相当する。比較すると、先月MLBが承認したホセ・フェリシアーノとクワンザ・ジョーンズへのサンディエゴ・パドレスの39億ドルの売却は、収益が8倍の倍数となった。",
+    bodyOriginal: `Stan Kroenke has agreed to buy the Los Angeles Angels from the Moreno family in a deal that values the MLB team and its regional sports network, Angels Broadcast Television, at $4 billion.
+The record MLB valuation for the Angels is equivalent to 10 times the team's 2025 revenue, according to CNBC's MLB valuations published earlier this year. In comparison, the $3.9 billion sale of the San Diego Padres to José Feliciano and Kwanza Jones, approved by the MLB last month, had a multiple of eight times revenue.
+CNBC has updated its MLB valuations based on the Angels deal, focusing on valuation-to-revenue multiples, market and stadium economics.
+The average MLB team is now worth $4.04 billion, 37% more than our MLB valuations in March. The New York Yankees top the list with a value of $12 billion, 28% more than in March. The least valuable MLB team is still the Miami Marlins, but we now value the team at $2.2 billion, a 57% increase from March. The New York Mets, now worth $5.4 billion, jumped to fifth on our list, leapfrogging the San Francisco Giants and Philadelphia Phillies.
+Bankers CNBC spoke with regarding the Angels deal stressed that location is a big factor in the trophy appeal of owning a sports team. To wit: The recent announcement that Josh Kushner and Bob Iger have agreed to buy the NBA's Los Angeles Lakers at a $12.5 billion valuation.
+We did not adjust the value of the Los Angeles Dodgers from our March rankings, keeping it at $8 billion, due to the controversy surrounding the team's owner, Mark Walter.`,
+    bodyJa: `スタン・クロエンケ監督は、MLBチームとその地域スポーツネットワークであるエンジェルス・ブロードキャスト・テレビジョンを40億ドルで評価する契約で、モレノ家からロサンゼルス・エンゼルスを買収することに同意した。
+今年初めに発表されたCNBCのMLB評価額によると、エンゼルスのMLB評価額の記録は2025年の球団収入の10倍に相当する。比較すると、先月MLBが承認したホセ・フェリシアーノとクワンザ・ジョーンズへのサンディエゴ・パドレスの39億ドルの売却は、収益が8倍の倍数となった。
+CNBCは、エンゼルスとの契約に基づいて、評価額対収益倍率、市場およびスタジアムの経済性に焦点を当てて、MLBの評価額を更新した。
+現在、平均的な MLB チームの資産価値は 40 億 4,000 万ドルで、3 月時点の MLB 評価額より 37% 増加しています。ニューヨーク・ヤンキースが120億ドルでトップとなり、3月より28％増加した。 MLB チームの価値が最も低いチームは依然としてマイアミ マーリンズですが、現在チームの価値は 22 億ドルと評価されており、3 月から 57% 増加しています。現在54億ドルの資産を持つニューヨーク・メッツは、サンフランシスコ・ジャイアンツとフィラデルフィア・フィリーズを抜き去り、リストの5位に躍り出た。
+エンゼルスとの契約に関してCNBCが取材した銀行関係者は、スポーツチームを所有するトロフィーの魅力には立地が大きな要素であると強調した。つまり、ジョシュ・クシュナーとボブ・アイガーがNBAのロサンゼルス・レイカーズを125億ドルの評価額で買収することに合意したという最近の発表だ。
+チームのオーナー、マーク・ウォルター氏をめぐる論争のため、ロサンゼルス・ドジャースの価値は3月のランキングから調整せず、80億ドルに据え置いた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/the-los-angeles-angels-are-being-sold-for-a-record-4-billion-heres-what-every-mlb-team-is-now-worth.html",
+    publishedAt: "2026-09-02T19:23:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "states-now-must-report-undocumented-immi-ccb1c87d",
+    title: "States now must report undocumented immigrants to DHS or risk federal funding, DOJ says",
+    titleJa: "司法省は今後、各州は不法移民をDHSに報告しなければならない、さもなければ連邦資金の危険にさらされると述べた",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `All states going forward must report undocumented immigrants known to be in a state to the U.S. Department of Homeland Security or risk losing federal funding for programs meant to aid low-income individuals, the Department of Justice said in a new legal opinion.
+The DOJ, in issuing the opinion, revised the Office of Legal Counsel's prior opinion from 1998, which found that only specific state agencies that administered the Temporary Assistance for Needy Families and the Supplemental Security Income programs needed to provide information to federal immigration authorities.
+"Congress wrote this requirement plainly," Assistant Attorney General T. Elliot Gaiser of the DOJ's Office of Legal Counsel, said in a statement.
+"When a state chooses to participate in TANF, it accepts the obligation to report illegal aliens in the United States," Gaiser said. "Tax dollars intended to help vulnerable Americans should not perversely encourage illegal entry into the United States, but rather should reinforce our laws and our borders."
+The DOJ in a statement Wednesday said the Office of Legal Counsel's Sept. 1 opinion "explains that Congress defined 'State' broadly in the Personal Responsibility and Work Opportunity Reconciliation Act of 1996."
+"As a result, when a state accepts federal TANF or SSI funds, the entire state government — including all component agencies — is bound by federal law to share information with DHS about individuals the state knows to be not lawfully present," the DOJ said.
+The new opinion only applies proactively, not to past enrollments in TANF and SSI.
+All 50 states, the District of Columbia and several U.S. territories participate in both programs. Federal TANF funding grants top $16.4 billion annually, according to the DOJ.
+"Our clarification does not impose new obligations on states," said Deputy Assistant Attorney General Joshua Craddock, the Office of Legal Counsel official who wrote the new opinion.
+"It simply restores the original meaning of the statute Congress enacted and ensures that DHS receives the information it is legally entitled to," Craddock said.
+"States that accept TANF funding must abide by federal law, and failure to comply may lead to serious consequences, including loss of program funding."
+CNBC has requested comment on the new opinion from the attorneys general of more than a dozen of the largest U.S. states, and asked if they will challenge its guidance.
+This is developing news. Please check back for details.`,
+    bodyJa: `司法省は新たな法的見解の中で、今後すべての州は、州内にいることが判明している不法移民を国土安全保障省に報告する必要があり、報告しなければ、低所得者支援プログラムへの連邦予算を失う危険があると述べた。
+司法省はこの意見を発表するにあたり、1998年の法律顧問局の以前の意見を修正し、その意見では、困窮家族に対する一時的援助と補足保障収入プログラムを管理する特定の州機関のみが連邦移民当局に情報を提供する必要があるとした。
+「議会はこの要件を明確に書いた」と司法省法律顧問局のT・エリオット・ガイザー司法次官補は声明で述べた。
+「州がTANFへの参加を選択した場合、その州は米国内の不法滞在者を報告する義務を受け入れることになる」とガイザー氏は述べた。 「弱い立場にあるアメリカ人を助けるための税金は、アメリカへの不法入国を邪悪に奨励すべきではなく、むしろ我が国の法律と国境を強化すべきである。」
+司法省は水曜日の声明で、法律顧問局の9月1日の意見は「議会が1996年の個人責任と労働機会調整法で『国家』を広範に定義したことを説明している」と述べた。
+「その結果、州が連邦TANFまたはSSI基金を受け入れる場合、すべての構成機関を含む州政府全体は、連邦法により、州が合法的に存在していないことがわかっている個人に関する情報をDHSと共有する義務がある」と司法省は述べた。
+新しい意見は積極的にのみ適用され、TANF および SSI への過去の登録には適用されません。
+50 州すべて、コロンビア特別区、およびいくつかの米国準州が両方のプログラムに参加しています。司法省によると、連邦TANF資金助成金は年間164億ドルを超える。
+「われわれの明確化は州に新たな義務を課すものではない」と新たな意見書を書いた法律顧問局職員のジョシュア・クラドック司法次官補は述べた。
+「これは単に議会が制定した法令の本来の意味を復元し、DHSが法的に受け取る権利のある情報を確実に受け取ることを保証するものである」とクラドック氏は述べた。
+「TANFの資金提供を受け入れる州は連邦法を遵守しなければならず、従わない場合はプログラム資金の損失を含む深刻な結果につながる可能性がある。」
+CNBCは、米国の主要な12以上の州の司法長官に新たな意見についてコメントを求め、その指針に異議を唱えるつもりか尋ねた。
+これは発展途上のニュースです。詳細については改めてご確認ください。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/02/doj-states-undocumented-immigrants-dhs-funds.html",
+    publishedAt: "2026-09-02T18:25:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "netherlands-moves-billions-in-gold-to-lo-a631e022",
+    title: "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+    titleJa: "オランダ、「危機への備え」として数十億ドルの金をロンドンに移動",
+    summaryJa: "オランダ、「危機への備え」として数十億ドルの金をロンドンに移動- 公開されました",
+    bodyOriginal: `Netherlands moves billions in gold to London in 'crisis preparedness' move
+- Published
+The Dutch central bank (DNB) has confirmed that billions of dollars in gold has been taken out of north America and relocated to London, citing "increasing geopolitical unrest".
+DNB said on Wednesday that 86 tonnes of gold had been removed from the US and Canada in a complex operation that took several months. It is now being held by the Bank of England, where the precious metal can be traded more easily "in a crisis situation".
+Bank president Olaf Sleijpen said the move was "necessary to strengthen our resilience and preparedness".
+The decision comes amid an ongoing trade dispute between the US and Canada, with both countries announcing fresh tariffs on each other after failed trade talks.
+DNB said the transfer, which took place between March and August, saw 27 tonnes of gold bars moved from New York and Ottawa to Zeist in the Netherlands.
+A similar quantity and quality was then moved to London, with no need to melt the bars down.
+Exactly how so much gold was transported across the Atlantic Ocean has not been revealed.
+The rest of the transfer was carried out by selling the gold in New York, and repurchasing it in London, the bank said, external.
+"Combining the processes of buying and selling and physical transport has allowed DNB to spread the risks associated with such a complex physical gold relocation," the statement said.
+DNB did not confirm what it was referring to with its mention of "geopolitical unrest" but the US economy remains in an uncertain position due to the country's ongoing war with Iran, which has impacted global trade.
+Canada, meanwhile, has been hit hard by US tariffs on its key sectors of steel, aluminium, lumber and automobiles as well as an additional 50% levy on about C$28bn ($20bn; £15bn) of Canadian goods announced in August.
+DNB said that gold that is held with the Bank of England "is regarded as the world's most easily tradable gold," and therefore more readily available in a crisis than if it was still in the US or Canada.
+Prior to Wednesday's announcement, the DNB held 31.3% of its gold in New York and 19.7% in Ottawa. This has now fallen to 18.5% in both countries.
+The total Dutch gold stock was 612.4 tonnes at the end of 2025 and has been valued at €72.2 billion, DNB said.
+The bank's share of gold in London has increased from 18.1% to 32.1% after the move, while it still holds 30.8% of its reserves in the Netherlands.
+Related topics
+- Published2 days ago
+- Published7 days ago`,
+    bodyJa: `オランダ、「危機への備え」として数十億ドルの金をロンドンに移動
+- 公開されました
+オランダ中央銀行（DNB）は、「地政学的不安の増大」を理由に、数十億ドルの金が北米から持ち出され、ロンドンに移されたことを確認した。
+DNBは水曜日、数カ月かかった複雑な作業により86トンの金が米国とカナダから持ち出されたと発表した。現在はイングランド銀行が保有しており、「危機的状況において」貴金属をより容易に取引できるようになっている。
+同行のオラフ・スライペン頭取は、今回の措置は「われわれの回復力と備えを強化するために必要だった」と述べた。
+この決定は、米国とカナダの間で進行中の貿易紛争のさなか行われ、貿易交渉の失敗を受けて両国は相互に新たな関税を発表した。
+DNBによると、この移送は3月から8月にかけて行われ、27トンの金塊がニューヨークとオタワからオランダのザイストに移送されたという。
+その後、バーを溶かす必要がなく、同様の量と品質がロンドンに移されました。
+いったいどのようにしてこれほどの金が大西洋を越えて運ばれたのかは明らかになっていない。
+同銀行によると、残りの送金はニューヨークで金を売却し、ロンドンで買い戻す形で外部で行われたという。
+「DNBは、売買と物理的な輸送のプロセスを組み合わせることで、このような複雑な物理的な金の移転に伴うリスクを分散することができた」と声明では述べている。
+DNBは「地政学的不安」という言及が何を指しているかは確認していないが、世界貿易に影響を与えているイランとの戦争が続いているため、米国経済は依然として不確実な立場にある。
+一方、カナダは、鉄鋼、アルミニウム、木材、自動車といった主要分野に対する米国の関税と、8月に発表されたカナダ製品約280億カナダドル（200億ドル、150億ポンド）に対する50％の追加関税によって大きな打撃を受けている。
+DNBは、イングランド銀行が保有する金は「世界で最も簡単に取引できる金とみなされている」ため、米国やカナダに保管されている場合よりも危機時に容易に入手できると述べた。
+水曜日の発表前、DNBは金の31.3％をニューヨークに、19.7％をオタワに保有していた。これは現在、両国とも 18.5% に低下しています。
+DNBによると、オランダの金の総在庫は2025年末時点で612.4トンで、その価値は722億ユーロに上るという。
+移転後、ロンドンにおける同銀行の金のシェアは18.1％から32.1％に増加したが、オランダでは依然として準備金の30.8％を保有している。
+関連トピック
+- 2 日前に公開
+- 7 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-02T17:21:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14d7/live/19860b20-a6e6-11f1-b109-879e35c24276.jpg",
+    readTime: 3,
+  },
+  {
+    id: "uber-to-cut-over-3-000-jobs-in-major-glo-67af94b0",
+    title: "Uber to cut over 3,000 jobs in major global restructuring",
+    titleJa: "ウーバー、世界規模の大規模なリストラで3000人以上の人員削減へ",
+    summaryJa: "ウーバー、世界規模の大規模なリストラで3000人以上の人員削減へ- 公開されました",
+    bodyOriginal: `Uber to cut over 3,000 jobs in major global restructuring
+- Published
+Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.
+The cuts amount to roughly 10% of its global workforce, bringing staffing back to levels last seen in 2021.
+Chief executive Dara Khosrowshahi told staff in a company email that the taxi and delivery firm had expanded quickly but accumulated too many layers and small teams that slowed decision‑making.
+He said the reductions would put Uber, which has its global head office in San Francisco, US, in a better position for its "biggest opportunities ahead of us".
+The move marks one of Uber's largest restructurings in years and signals a shift towards a leaner operating model.
+Shares rose nearly 2% after the announcement, with investors appearing to welcome the proposals.
+Cuts affect both managers and non-managers, and Uber said it plans to fold many of its smallest teams into larger groups, however, the firm has not confirmed the locations most affected by job cuts.
+Such changes are intended to make Uber "simpler" and "faster," while freeing up money to reinvest in areas it considers central to its future, Khosrowshahi said.
+The restructuring comes as Uber steps up investment in autonomous vehicle partnerships and expands its ride‑hailing, delivery, and robotaxi operations.
+Uber is also tightening up its office strategy, asking nearly all employees to work in person at designated hubs and limiting remote roles to about 1%.
+Analysts said the layoffs could generate up to $2bn in annual savings.
+Unlike many large technology companies that have cut jobs amid heavy spending on artificial intelligence (AI), Uber had avoided major reductions since the pandemic.
+The latest changes bring its workforce back to just under 30,000 people, roughly where it stood before its most recent period of expansion.
+Related topics
+- Published8 June`,
+    bodyJa: `ウーバー、世界規模の大規模なリストラで3000人以上の人員削減へ
+- 公開されました
+ウーバーは、経営層を縮小し、中核事業への支出を再集中させることを目的とした大規模な見直しの一環として、世界中で3,000人以上の人員削減を行っている。
+この削減は世界の従業員の約10％に相当し、人員配置は2021年に最後に見られた水準に戻る。
+最高経営責任者（CEO）のダラ・コスロシャヒ氏は社内メールでスタッフに対し、タクシー・配送会社は急速に拡大したが、層が多すぎて小規模なチームが蓄積しすぎて意思決定が遅れたと語った。
+同氏は、今回の削減により、米国サンフランシスコに世界本社を置くウーバーは「目の前にある最大のチャンス」に向けて有利な立場に立つことができると述べた。
+この動きはウーバーにとってここ数年で最大規模の組織再編の一つであり、よりスリムな運営モデルへの移行を示唆するものだ。
+発表後株価は２％近く上昇し、投資家はこの提案を歓迎しているようだ。
+人員削減はマネージャーと非マネージャーの両方に影響を及ぼし、ウーバーは最も小規模なチームの多くをより大きなグループに分割する計画だと述べたが、同社は人員削減によって最も影響を受ける拠点を確認していない。
+コスロシャヒ氏は、こうした変更はウーバーを「よりシンプル」で「より速く」すると同時に、将来の中心となると考える分野への再投資に資金を解放することを目的としていると述べた。
+この再編は、ウーバーが自動運転車パートナーシップへの投資を強化し、配車、配達、ロボタクシー事業を拡大する中で行われた。
+ウーバーはまた、オフィス戦略を強化し、ほぼすべての従業員に指定されたハブで直接勤務するよう求め、リモートでの役割を約1％に制限している。
+アナリストらは、人員削減により年間最大２０億ドルの節約が生まれる可能性があると述べた。
+人工知能（AI）への多額の支出を背景に人員削減を行っている多くの大手テクノロジー企業とは異なり、ウーバーはパンデミック以来、大幅な人員削減を避けてきた。
+最新の変更により、従業員数は 30,000 人弱に戻り、ほぼ最近の拡大期前の水準に戻りました。
+関連トピック
+- 6 月 8 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-02T16:51:49+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+    readTime: 2,
+  },
+  {
     id: "trump-floats-renaming-strait-of-hormuz-t-fc58b756",
     title: "Trump floats renaming Strait of Hormuz the 'Trump Strait'",
     titleJa: "トランプ大統領、ホルムズ海峡の名称を「トランプ海峡」に変更",
@@ -1231,372 +1529,6 @@ FRBの政策方向性をめぐる不確実性は、地政学的な混乱の増�
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 4,
-  },
-  {
-    id: "crypto-enters-september-with-legislative-57a7b632",
-    title: "Crypto enters September with legislative policy gamble hanging by a thread",
-    titleJa: "仮想通貨は立法政策の賭けで9月に突入",
-    summaryJa: "仮想通貨業界は立法上の最大の賭けを懸けたまま9月を迎えるが、提案された法案がゴールラインを通過できるかどうかはほとんど確信が持てない。明瞭法として知られる仮想通貨市場構造法案の採決が迫っており、デジタル資産に関するより明確なルールをワシントンに求めて何年も費やしてきた業界にとって、重要な試練となっている。この法案は、仮想通貨の枠組みを確立し、証券取引委員会と商品先物取引委員会の間で監督を分割し、登録要件を設定し、マネーロンダリング防止保護を強化する内容となっている。",
-    bodyOriginal: `The crypto industry heads into September with its biggest legislative bet hanging in the balance, and little confidence the proposed bill will make it past the finish line.
-The looming vote on the crypto market structure bill known as the Clarity Act is shaping up as a critical test for an industry that's spent years pushing Washington for clearer rules around digital assets. The bill would establish a framework for crypto, divide oversight between the Securities Exchange Commission and the Commodity Futures Trading Commission, set registration requirements and strengthen anti-money-laundering protections.
-But despite efforts by crypto executives and President Donald Trump to excite investors and industry watchers about the possibility that the bill could become law this year, the mood is less optimistic among industry participants.
-Many are resigned that the Clarity Act is dead in 2026.
-"I personally am a bit pessimistic about the Clarity Act being passed," John Darsie, CEO of SALT, told CNBC at the Wyoming Blockchain Symposium in Jackson Hole in August. "Leading into the midterms, you don't often pass legislation of this magnitude." SALT calls itself an investment and networking platform and leadership forum.
-Missed window
-The Clarity Act missed sponsors' legislative window when the Senate adjourned for its August recess without voting on the bill. Now, Senate Majority Leader John Thune has scheduled a key procedural vote for Sept. 15, after the Senate returns from its recess and potentially paving the way for a full floor vote.
-Unresolved issues include stablecoin rewards and ethics provisions tied to President Trump and his family's crypto interests. Arizona Sen. Ruben Gallego, one of only two Democrats voting to advance the bill out of the Senate Banking Committee, has been working on a bipartisan compromise regarding ethics language for the Clarity Act. There is still a chance for the bill to advance in the Senate, but Republicans and Democrats need to find consensus, Gallego said.
-"The way to get 60 votes is with good ethics legislation as well as rounding out some of the things that are still outstanding," Gallego during a fireside chat at the Wyoming Blockchain Symposium last month.
-The possible demise of Clarity stands in stark relief to the historic sums committed in the 2024 election cycle to shifting Washington's position on crypto. Crypto-backed political groups spent more than $200 million, helping elect candidates friendly to the industry and making crypto regulation a mainstream issue.
-Deregulation bet
-The bet was straightforward: a Trump victory and a more crypto-friendly Washington could replace years of regulatory hostility.
-Viewed from a narrow lens, the investment is already paying off, even if Clarity dies. The SEC and CFTC are more accommodating to crypto under Trump, while other regulators – including the Office of the Comptroller of the Currency, a key banking regulator – have also moved toward a looser framework for digital assets.
-From the White House, the Trump administration continues to publicly frame crypto policy as a priority. At a cryptocurrency summit in August, President Trump said the administration is focused on creating "a clear regulatory framework for pioneers and builders."
-The White House meeting took place at the same time as the Wyoming Blockchain Symposium in Jackson Hole. Industry leaders speaking in Wyoming argued that crypto can continue to develop even without the comprehensive market structures found in Clarity. SEC and CFTC rulemaking can provide more certainty in the absence of Clarity, executives told CNBC, while companies continue building under the more relaxed regulatory framework taking shape.
-"We've already seen some contingency planning," said Sunayna Tuteja, former chief innovation officer at the Federal Reserve, pointing to discussions between the SEC and CFTC about what can be done through rulemaking. "Not perfect, but progress nonetheless."
-Denelle Dixon, president of Stellar Development Foundation, argued that the industry should use the next two years to improve existing regulations, creating precedent that can survive the next administration. Stellar is a nonprofit that aims to widen access to global finance using blockchain technology.
-The next two years should be spent using the rules and standards that have already emerged from the SEC and CFTC so that, "whichever administration takes over, we have all of this bulletproof work that we've done to show not only is it successful, but it is advantageous for us to maintain this market structure," Dixon said.
-Accepting today's status quo still leaves the industry pushing for clear rules to reduce uncertainty, provide an upside catalyst for bitcoin and the broader crypto market and make it easier for companies and investors to commit capital.
-"If you're looking to deploy capital and invest, and one [jurisdiction] has an established framework while another jurisdiction like the U.S. … may be subject to, every two to four years, rapid and extreme change – [it's] hard to allocate capital," said Andrew McCormick, head of institutional and market development at Chainlink Labs. Formal legislation can provide certainty that survives changes in administrations and political parties, he said.
-Former New York Gov. Andrew Cuomo, an OKX board member, warned that if Clarity doesn't pass before the midterm elections, a change in control of the House could produce years of regulatory conflict. OKX provides spot, margin, and derivatives trading for digital assets, alongside decentralized finance tools.
-"If you believe there's a change of power, at least in the House, which I do believe that Democrats will win the House, then you're going to have a Democratic Congress overseeing an administration, the Trump administration, with the regulators making decisions under the scrutiny of a hostile Congress and that is not a good place to be because Congress will be at loggerheads with the administration," Cuomo told CNBC at the Wyoming Blockchain Symposium.
-After years of operating under an often hostile regulatory regime, the industry may simply have learned how to keep moving without Washington providing a definitive framework.
-That means that in the current political climate, passing Clarity would count as a major win. But failure may not prove the setback crypto companies once feared.`,
-    bodyJa: `仮想通貨業界は立法上の最大の賭けを懸けたまま9月を迎えるが、提案された法案がゴールラインを通過できるかどうかはほとんど確信が持てない。
-明瞭法として知られる仮想通貨市場構造法案の採決が迫っており、デジタル資産に関するより明確なルールをワシントンに求めて何年も費やしてきた業界にとって、重要な試練となっている。この法案は、仮想通貨の枠組みを確立し、証券取引委員会と商品先物取引委員会の間で監督を分割し、登録要件を設定し、マネーロンダリング防止保護を強化する内容となっている。
-しかし、仮想通貨業界の幹部やドナルド・トランプ大統領は、この法案が年内に成立する可能性について投資家や業界ウォッチャーを興奮させようと努力しているにもかかわらず、業界参加者の雰囲気はそれほど楽観的ではない。
-多くの人は、クラリティ法は 2026 年に廃止されると諦めています。
-SALTの最高経営責任者（CEO）であるジョン・ダーシー氏は、8月にジャクソンホールで開催されたワイオミング・ブロックチェーン・シンポジウムでCNBCに対し、「私個人としては、クラリティ法が可決されることには少し悲観的だ」と語った。 「中間選挙に向けて、これほど大きな法案が可決されることは滅多にありません。」 SALT は自らを、投資およびネットワーキングのプラットフォームおよびリーダーシップ フォーラムと呼んでいます。
-見逃した窓
-上院が法案の採決を行わずに8月の休会に向けて休会したため、透明性法はスポンサーの立法機会を逃した。現在、上院多数党院内総務のジョン・チューン氏は、上院が休会から戻った後、重要な手続き上の採決を9月15日に予定しており、本会議採決への道が開かれる可能性がある。
-未解決の問題には、ステーブルコインの報酬や、トランプ大統領とその家族の仮想通貨利権に関連する倫理規定などが含まれる。アリゾナ州のルーベン・ガレゴ上院議員は、上院銀行委員会で法案の可決に賛成票を投じたわずか2人の民主党員のうちの1人で、クラリティ法の倫理文言に関して超党派の妥協案に取り組んでいる。ガレゴ氏は、この法案が上院で可決される可能性はまだあるが、共和党と民主党は合意を見つける必要があると述べた。
-「60票を獲得する方法は、適切な倫理法を制定するとともに、まだ未解決の部分のいくつかを補うことです」と、先月のワイオミング・ブロックチェーン・シンポジウムの囲炉裏での雑談でガレゴ氏は語った。
-クラリティの終焉の可能性は、仮想通貨に対するワシントンの立場を変えるために2024年の選挙サイクルで費やされた歴史的な巨額を浮き彫りにする。仮想通貨に支援された政治団体は2億ドル以上を費やして、業界に好意的な候補者を選出するのを支援し、仮想通貨規制を主流問題にしました。
-規制緩和への賭け
-賭けは単純だった。トランプが勝利し、ワシントンがより暗号通貨に好意的になれば、長年にわたる規制当局の敵意に取って代わられるかもしれない。
-狭いレンズから見れば、たとえクラリティが消滅したとしても、投資はすでに報われています。 SECとCFTCはトランプ政権下で仮想通貨に対してより柔軟な姿勢を示しているが、主要な銀行規制当局である通貨監督庁を含む他の規制当局もデジタル資産に対するより緩やかな枠組みに向けて動いている。
-トランプ政権はホワイトハウスから、暗号通貨政策を優先事項として公に示し続けている。 8月の仮想通貨サミットでトランプ大統領は、政権は「開拓者と構築者のための明確な規制枠組み」の構築に注力していると述べた。
-ホワイトハウスでの会議は、ジャクソンホールでのワイオミングブロックチェーンシンポジウムと同時に開催された。ワイオミング州で講演した業界リーダーらは、クラリティに見られる包括的な市場構造がなくても仮想通貨は発展し続けることができると主張した。 SECとCFTCのルール策定は、Clarityが存在しない場合でもより確実性をもたらすことができると幹部らがCNBCに語った一方、企業はより緩和された規制枠組みの下で構築を続け、具体化しつつある。
-米連邦準備理事会（FRB）の元最高イノベーション責任者スナイナ・トゥテジャ氏は、「すでに緊急時対応策が講じられている」と述べ、ルール策定を通じて何ができるかについてSECとCFTCの間で議論が行われていることを指摘した。 「完璧ではありませんが、それでも進歩しています。」
-ステラ開発財団のデネル・ディクソン会長は、業界は今後2年間を既存の規制の改善に費やし、次期政権にも生き残れる前例を作るべきだと主張した。 Stellar は、ブロックチェーン技術を使用して世界金融へのアクセスを拡大することを目的とした非営利団体です。
-今後2年間はSECとCFTCからすでに出ているルールや基準を活用して、「どの政権が就任しても、それが成功しているだけでなく、この市場構造を維持するのに有利であることを示すためにこれまで行ってきた完璧な取り組みをすべて行う必要がある」とディクソン氏は述べた。
-今日の現状を受け入れても、業界は不確実性を軽減し、ビットコインとより広範な仮想通貨市場に上向きの触媒を提供し、企業や投資家が資本を投入しやすくするための明確なルールを求め続けています。
-チェーンリンク・ラボの制度・市場開発責任者、アンドリュー・マコーミック氏は、「資本を投入して投資を行おうとしている場合、ある法域には確立された枠組みがある一方、米国のような別の法域では…2～4年ごとに急速かつ極端な変化にさらされる可能性があり、資本を割り当てるのは難しい」と述べた。正式な法律は、政権や政党が変わっても存続する確実性を提供できると同氏は述べた。
-OKX理事会のメンバーである元ニューヨーク州知事のアンドリュー・クオモ氏は、クラリティ法案が中間選挙までに可決しなければ、下院の主導権が変化すると何年にもわたる規制上の対立が生じる可能性があると警告した。 OKX は、分散型金融ツールと並行して、デジタル資産の現物取引、マージン取引、デリバティブ取引を提供します。
-クオモ氏はワイオミング州ブロックチェーンシンポジウムでCNBCに対し、「少なくとも下院で政権交代があると信じるなら、民主党が下院で勝利すると信じているが、その場合は民主党議会がトランプ政権を監督する政権となり、規制当局が敵対的な議会の監視の下で決定を下すことになる。議会は政権と対立することになるため、それは良い場所ではない」とCNBCに語った。
-しばしば敵対的な規制体制の下で何年も事業を続けてきた業界は、米国政府が決定的な枠組みを提供しなくても前進し続ける方法を学んだだけかもしれない。
-つまり、現在の政治情勢では、クラリティを通過することが大きな勝利とみなされます。しかし、失敗しても仮想通貨企業がかつて懸念していた挫折が証明されるわけではないかもしれない。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/01/crypto-enters-september-with-policy-gamble-hanging-by-a-thread.html",
-    publishedAt: "2026-09-01T16:28:53+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "softbank-s-sb-energy-files-for-ipo-says-415c1fa2",
-    title: "Softbank's SB Energy files for IPO, says it's 'substantially dependent' on OpenAI",
-    titleJa: "ソフトバンクのSBエナジーがIPOを申請、OpenAIに「大幅に依存している」と語る",
-    summaryJa: "ソフトバンク、OpenAI、Nvidiaが支援する人工知能電力インフラ企業であるSB Energyが証券取引委員会に新規株式公開を申請した。SBエナジーは火曜日の提出書類に記載されたリスク要因の中で、テナントおよび株式投資家の両方としてOpenAIの業績に「大きく依存している」と述べた。 OpenAI CEO の Sam Altman 氏も、同社の初期の個人投資家でした。",
-    bodyOriginal: `SB Energy, the artificial intelligence power infrastructure company backed by Softbank, OpenAI and Nvidia, has filed for an initial public offering with the Securities and Exchange Commission.
-Among the risk factors listed in the Tuesday filing, SB Energy said it's "substantially dependent" on the performance of OpenAI as both a tenant and equity investor. OpenAI CEO Sam Altman was an early personal investor in the company as well.
-"This concentration means that our near-term revenues, project-level financing arrangements, and development plans are significantly linked to OpenAI's continued performance under our lease and related agreements," the filing states.
-The company relies heavily on outside financing from partners for its data center campuses, and hasn't yet generated any revenue from that portion of its business, according to the SEC filing. None of SB Energy's data centers are operational yet.
-For the first half of 2026, SB Energy incurred net losses of roughly $3.2 billion, citing "substantial investments" in its data center strategy, and generated about $139 million in revenue mostly from its legacy energy business over the same period.
-Nvidia announced in August that it would provide $105 billion in financing for an OpenAI data center in Ohio that will be built by SB Energy.
-"The reason Nvidia is on our part of the equation here is that, you know, helps us to unlock things like investment-grade financing. It helps to ensure the project is a success," CEO Rich Hossfeld told CNBC's "Squawk Box" after the financing announcement.
-The company will trade on the Nasdaq and Nasdaq Texas under the ticker symbol SBE. Softbank is the controlling shareholder.
-While the company hasn't announced pricing or a specific timeline for its debut, it could begin trading as soon as this month, The Wall Street Journal reported. According to the Journal, the company is looking to raise between $5 billion and $7 billion from the offering.
-The IPO prospectus also flagged the growing public backlash against data centers as a risk factor.
-"We may face community opposition, local moratoria and hyper-local dissent, including growing public resistance to AI and AI-related infrastructure, that may adversely affect our data center and power generation businesses and operations," the filing read.
-Among other risks the company disclosed in its S-1 were technological advancements that "could render our facilities obsolete or unmarketable," failure of businesses to adopt AI, regulatory changes and decelerating capex from hyperscalers.
-Mentions of OpenAI are almost as plentiful as Softbank itself, showing up 306 times throughout the S-1 compared to Softbank's 325. Nvidia is mentioned 135 times.`,
-    bodyJa: `ソフトバンク、OpenAI、Nvidiaが支援する人工知能電力インフラ企業であるSB Energyが証券取引委員会に新規株式公開を申請した。
-SBエナジーは火曜日の提出書類に記載されたリスク要因の中で、テナントおよび株式投資家の両方としてOpenAIの業績に「大きく依存している」と述べた。 OpenAI CEO の Sam Altman 氏も、同社の初期の個人投資家でした。
-「この集中は、当社の短期的な収益、プロジェクトレベルの資金調達取り決め、および開発計画が、リースおよび関連契約に基づくOpenAIの継続的なパフォーマンスに大きく関連していることを意味します」と申請書には記載されている。
-SECへの提出書類によると、同社はデータセンターキャンパスに関してパートナーからの外部資金に大きく依存しており、その部分の事業からはまだ収益を生み出していない。 SBエナジーのデータセンターはまだ稼働していない。
-SBエナジーは、データセンター戦略への「多額の投資」を理由に、2026年上半期に約32億ドルの純損失を被り、同期間に主にレガシーエネルギー事業から約1億3,900万ドルの収益を上げた。
-Nvidiaは8月、SB Energyがオハイオ州に建設するOpenAIデータセンターに1050億ドルの融資を提供すると発表した。
-「NVIDIA がここで私たちの方程式に加わっている理由は、ご存じのとおり、投資適格融資などのロックを解除するのに役立つからです。プロジェクトを確実に成功させるのに役立ちます」と CEO の Rich Hossfeld は資金調達の発表後に CNBC の「Squawk Box」で語った。
-同社はティッカーシンボルSBEでナスダックとナスダック・テキサスで取引される。ソフトバンクが支配株主です。
-同社は価格やデビューの具体的なスケジュールを発表していないが、早ければ今月中に取引を開始する可能性があるとウォール・ストリート・ジャーナルは報じた。同誌によると、同社は今回の募集で50億ドルから70億ドルの調達を目指しているという。
-IPO目論見書では、データセンターに対する世論の反発の高まりもリスク要因として指摘されている。
-「AIやAI関連インフラに対する国民の抵抗の高まりを含め、地域社会の反対、地域的なモラトリアム、極度に局地的な反対意見に直面する可能性があり、それが当社のデータセンターや発電事業や運営に悪影響を与える可能性がある」と申請書には書かれている。
-同社がS-1で明らかにしたその他のリスクとしては、「当社の施設が時代遅れになるか市場不能になる可能性がある」技術の進歩、企業によるAI導入の失敗、規制の変更、ハイパースケーラーからの設備投資の減速などが挙げられる。
-OpenAI についての言及はソフトバンク自体とほぼ同じくらい多く、S-1 全体でソフトバンクの 325 回と比較して 306 回登場しています。Nvidia については 135 回言及されています。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
-    publishedAt: "2026-09-01T16:14:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "ai-token-prices-are-hitting-new-record-l-1784df1c",
-    title: "AI token prices are hitting new record lows",
-    titleJa: "AIトークンの価格が過去最低値を更新中",
-    summaryJa: "人工知能トークンの価格を注意深く監視する指標は今週新たな安値を記録し、競争が激化する中で価格が下落している最新の兆候となった。情報会社シリコン・データによる日々の価格の重要な指標であるLLMトークン支出指数は、月曜日に97セントまで下落した。これは昨年末の指数設定以来最低の数値となり、今夏初めに記録した最高値の半分以下となった。",
-    bodyOriginal: `A closely followed measure of artificial intelligence token prices touched fresh lows this week, the latest sign of deflating prices in an increasingly competitive landscape.
-The LLM Token Expenditure Index, a key gauge of daily prices from intelligence firm Silicon Data, fell to 97 cents on Monday. That marked the index's lowest reading since its creation late last year and has more than halved from the high recorded earlier this summer.
-Silicon Data's index tracks the going rate on the market for a large-language model token.
-A sharp slide in prices can mean AI model users will need to shell out less to run inquiries on popular chatbots like OpenAI's ChatGPT, Anthropic's Claude or Google's Gemini.
-But it can be bad news for the companies behind the models. A lower index price can condition consumers to expect lower rates for access to these offerings, resulting in less pricing power for providers.
-The recent drop is driven in part by the rise of open-source Chinese models like Moonshot's Kimi K3 that can fetch lower prices than alternatives from leading frontier lab, according to a Tuesday post from Charles-Henry Monchau, investing chief at Syz Group.
-OpenAI announced price cuts two of its GPT-5.6 AI models in late July, while Monchau said other frontier labs have rolled out offerings with "dynamic pricing" capabilities that can allow access rates to rise and fall with demand. These developments put more downward pressure on the market rate for tokens.
-"Foundation model labs are the most directly exposed," Monchau wrote. "Token deflation compresses the revenue line while compute commitments stay fixed. The strategic response is visible: the moat must shift away from raw model capability — where the open-weight gap is now measured in months — toward distribution, memory and context."
-Decreasing costs across the industry for producing a token have also led to lower prices in the index, Monchau said.
-The LLM Token Expenditure Index's slide could put new profit pressures on AI leaders like Anthropic and OpenAI as they contemplate when and if to enter the public market. Both companies confidentially filed for initial public offerings with regulators this summer.
-Investors may also need to rejigger their outlooks around the potential return on invested capital in the AI buildout as token prices slide. Megacap technology companies including Nvidia and Microsoft have poured billions of dollars into plans to expand their capabilities to power AI.
-Technology stocks led the broader market down on Tuesday. The technology-heavy Nasdaq Composite slid nearly 1%, while the broader S&P 500 ticked down 0.4%.
-— CNBC's Nick Robertson contributed to this report.`,
-    bodyJa: `人工知能トークンの価格を注意深く監視する指標は今週新たな安値を記録し、競争が激化する中で価格が下落している最新の兆候となった。
-情報会社シリコン・データによる日々の価格の重要な指標であるLLMトークン支出指数は、月曜日に97セントまで下落した。これは昨年末の指数設定以来最低の数値となり、今夏初めに記録した最高値の半分以下となった。
-Silicon Data のインデックスは、大規模言語モデル トークンの市場での相場を追跡します。
-価格の急激な下落は、AI モデルのユーザーが、OpenAI の ChatGPT、Anthropic の Claude、Google の Gemini などの人気のチャットボットに関する問い合わせを実行するために必要な出費を減らすことを意味する可能性があります。
-しかし、モデルを開発した企業にとっては悪い知らせとなる可能性がある。インデックス価格が低いと、消費者はこれらのサービスへのアクセスに対してより低い料金を期待するようになり、プロバイダーの価格決定力が低下します。
-Syz Groupの投資責任者、Charles-Henry Monchau氏の火曜日の投稿によると、最近の下落は、大手フロンティア・ラボの代替品よりも低価格で販売できるMoonshotのKimi K3のようなオープンソースの中国製モデルの台頭が一因となっているという。
-OpenAIは7月下旬、GPT-5.6 AIモデルのうち2モデルの値下げを発表したが、モンショー氏は、他のフロンティアラボも需要に応じてアクセスレートを増減できる「ダイナミックプライシング」機能を備えた製品を展開していると述べた。これらの動向により、トークンの市場レートにはさらなる下押し圧力がかかります。
-「財団模型研究所が最も直接的に暴露されている」とモンショー氏は書いた。 「トークンのデフレにより、コンピューティングコミットメントが固定されたまま収益ラインが圧縮されます。戦略的な対応は目に見えています。堀は、生のモデルの能力から、オープンウェイトのギャップが現在数か月で測定されているところへ、分散、メモリ、コンテキストへと移行する必要があります。」
-モンショー氏は、トークン製造にかかる業界全体のコスト低下も指数の価格低下につながっていると述べた。
-LLMトークン支出指数の下落は、AnthropicやOpenAIのようなAIリーダーが公開市場にいつ参入するか、参入するかどうかを検討する際に、新たな収益圧力となる可能性がある。両社は今夏、極秘に新規株式公開を規制当局に申請した。
-投資家はまた、トークン価格の下落に伴い、AI 構築における投資資本収益率の可能性について見通しを再調整する必要があるかもしれません。 Nvidia や Microsoft などの Megacap テクノロジー企業は、AI を強化する機能を拡張する計画に数十億ドルを注ぎ込んでいます。
-火曜日はハイテク株が市場全体の下落を主導した。ハイテク株の比率が高いナスダック総合指数は1%近く下落し、より幅広いS&P500指数は0.4%下落した。
-— CNBC の Nick Robertson がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/01/ai-token-prices-lows.html",
-    publishedAt: "2026-09-01T16:08:31+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "canada-s-carney-slaps-trump-admin-for-do-23bb15df",
-    title: "Canada's Carney slaps Trump admin for 'doing memes ... throwing shade'",
-    titleJa: "カナダのカーニー氏、「ミームをやって…日陰を作った」としてトランプ政権を平手打ち",
-    summaryJa: "カナダのマーク・カーニー首相は火曜日、貿易戦争が激化する中、トランプ政権が自国に対して「ミームを行っている」「日陰を投げかけている」と非難した。カーニー氏のコメントは、トランプ当局者がソーシャルメディアの投稿やコメントでカナダ軍を嘲笑していることや、ドナルド・トランプ大統領が連邦政府の使用のためにオンタリオ湖の名前を「アメリカ湖」に変更することを指示する大統領令に署名したことに関する記者の質問に答えたものである。",
-    bodyOriginal: `Canadian Prime Minister Mark Carney on Tuesday blasted the Trump administration for "doing memes" and "throwing shade" against his nation amid a growing trade war.
-Carney's comments came in response to a reporter's question about Trump officials mocking Canada's military in social media posts and comments, and President Donald Trump signing an executive order directing the renaming of Lake Ontario to "Lake America" for federal government use.
-The prime minister said there is a "positive opportunity that has always existed with the United States for a mutually beneficial trade deal that respects Canadian sovereignty" and which respects Canada's right to protect and promote Quebec's culture and the French language.
-"When the Americans stop doing memes, stop throwing shade, stop trying to be tough and start being serious about having those discussions, we can have those discussions" about trade, Carney said in Ottawa.
-"But look, it's not constructive, but that's their democracy."
-Carney also said, "It's beneath their office," when asked about Trump Cabinet secretaries insulting the Canadian military.
-The prime minister's comments came a day after U.S. Treasury Secretary Scott Bessent mocked Canada and its military during an interview with CNBC at the meeting of G20 finance ministers in Asheville, North Carolina.
-Asked during that interview about markets wondering if the United States is in a "tit-for-tat trade war with Canada," Bessent replied, "Well, I don't think you can be in a tit-for-tat with someone who's 13 times larger than you are."
-"I think this is very unfortunate that Prime Minister Carney has turned this into ... a political shouting match," Bessent said.
-"I mean, we're not at war with Canada. How are we going to be at war with Canada?" the Treasury secretary asked. "What, they're going to take their two submarines from the Edmonton Mall and sic them on us?"
-On Monday night, U.S. Defense Secretary Pete Hegseth posted on X a message with a Canadian flag emoji and the words "(this is real)" above a photo of a female cadet receiving a medal at the Vernon Cadet Training Center from a female instructor. The training center is for Canadian youths.
-The tweet was widely perceived by users who replied to this post as Hegseth body-shaming the instructor.
-"Wow. The Secretary of Defence is body shaming cadet groups. A youth group. This is not a military unit. They are kids looking for adventure, test themselves and align themselves with the values of service," wrote X user Danny O'Reagan, who identified himself as a Canadian military veteran. "Don't be a Pete."
-U.S. and Canadian officials have engaged in a war of words since late August, when trade talks between the two nations collapsed.
-The U.S. on Aug. 22 slapped tariffs of 50% on some Canadian imports worth $20 billion.
-Three days later, Canada said it would tariff more than 700 types of U.S. goods at rates ranging from 15% to 50% in what it called a "dollar for dollar" match on the U.S. duties. Those retaliatory tariffs are set to take effect on Sept. 8.`,
-    bodyJa: `カナダのマーク・カーニー首相は火曜日、貿易戦争が激化する中、トランプ政権が自国に対して「ミームを行っている」「日陰を投げかけている」と非難した。
-カーニー氏のコメントは、トランプ当局者がソーシャルメディアの投稿やコメントでカナダ軍を嘲笑していることや、ドナルド・トランプ大統領が連邦政府の使用のためにオンタリオ湖の名前を「アメリカ湖」に変更することを指示する大統領令に署名したことに関する記者の質問に答えたものである。
-首相は、「カナダの主権を尊重し、ケベック州の文化とフランス語を保護し促進するカナダの権利を尊重する互恵貿易協定を結ぶ前向きな機会が米国との間に常に存在している」と述べた。
-カーニー長官はオタワで、貿易について「米国人がミームをやめるのをやめ、日陰を投げかけるのをやめ、強がろうとするのをやめ、真剣に議論を始めれば、われわれもそうした議論ができるようになる」と語った。
-「しかし、見てください、それは建設的ではありませんが、それが彼らの民主主義なのです。」
-カーニー氏はまた、トランプ大統領の閣僚らがカナダ軍を侮辱したことについての質問に対し、「それは彼らの職務の下にある」と述べた。
-首相のコメントは、スコット・ベッセント米財務長官がノースカロライナ州アシュビルでのG20財務相会合でCNBCのインタビューに応じ、カナダとその軍を嘲笑した翌日に発表された。
-そのインタビュー中に、米国が「カナダとの報復貿易戦争」をしているのではないかと市場が疑問に思っていることについて質問されたベッセント氏は、「そうですね、自分より13倍も大きい相手と報復をすることはできないと思います」と答えた。
-「カーニー首相がこれを政治的な罵り合いのようなものに変えてしまったのは非常に残念なことだと思う」とベッセント氏は語った。
-「つまり、私たちはカナダと戦争状態にないのです。どうしてカナダと戦争状態になるのでしょうか？」財務長官は尋ねた。 「何、彼らはエドモントン・モールから潜水艦2隻を持ち出して、私たちを攻撃するつもりですか？」
-月曜日の夜、ピート・ヘグセス米国防長官は、バーノン士官候補生訓練センターで女性教官からメダルを受け取る女性士官候補生の写真の上に、カナダ国旗の絵文字と「（これは本物だ）」という言葉を添えたメッセージをXに投稿した。このトレーニングセンターはカナダの青少年を対象としています。
-このツイートは、ヘグセスがインストラクターをボディシェイミングしているものとして、この投稿に返信したユーザーによって広く認識されました。
-「すごい。国防長官は体を恥じる士官候補生のグループだ。若者のグループだ。これは軍隊の部隊ではない。彼らは冒険を求め、自分自身を試し、奉仕の価値観に合わせようとしている子供たちだ」とカナダの退役軍人を名​​乗るXユーザーのダニー・オレガンは書いた。 「ピートになるなよ。」
-米国とカナダの当局者は、両国間の通商交渉が決裂した8月下旬以来、舌戦を繰り広げている。
-米国は8月22日、200億ドル相当のカナダからの輸入品の一部に50％の関税を課した。
-3日後、カナダは米国の関税に対する「ドル・対・ドル」と呼ぶもので、700種類以上の米国製品に15％から50％の関税を課すと発表した。これらの報復関税は9月8日に発効する予定だ。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/01/canada-carney-trump-trade-ontario.html",
-    publishedAt: "2026-09-01T16:02:24+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "uk-long-term-borrowing-costs-highest-sin-b7695710",
-    title: "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-    titleJa: "英国の長期借入コストが10月予算を前に1998年以来最高に",
-    summaryJa: "英国の長期借入コストが10月予算を前に1998年以来最高に- 公開されました",
-    bodyOriginal: `UK long-term borrowing costs highest since 1998 ahead of October Budget
-- Published
-Long-term government borrowing costs have risen to a 28-year high, putting further pressure on Prime Minister Andy Burnham ahead of his first Budget next month.
-The yield on a 30-year gilt — a loan to the British government — rose to 5.89%, the highest since 1998.
-The effective cost of borrowing for governments across the globe has continued to rise this morning with new multi-decade highs in market interest rates.
-The moves reflect concerns about inflation arising from the ongoing Iran war, competition from major tech firms for long-term borrowing, and concerns about state borrowing levels.
-All of those factors will make the Budget process trickier for Burnham, who on Tuesday addressed MPs for the first time as prime minister, and his Chancellor John Healey.
-Burnham told the House of Commons his government's "bedrock" as it seeks to tackle the cost-of-living crisis will be "fiscal responsibility".
-He said the economy and the cost of living were "the biggest issues facing the country".
-Higher borrowing costs will reduce the amount of headroom the government has against its self-imposed fiscal rules, limiting the amount Healey can spend on consumer-friendly measures to ease the cost of living.
-Despite the squeezed public finances, Burnham said said he would bring about "more substantial change" to ease living costs.
-"Britain is not where any of us would wish it to be," he added.
-The yield on the benchmark 10-year gilt rose to its highest rate since June 2008, at the height of the global financial crisis.
-Gilt yields move counter to the value of the bonds, meaning their prices fall when yields rise.
-Borrowing costs in the US, Japan and Europe have hit similar highs in recent days.
-The chancellor has previously said he will stick to a set of fiscal rules imposed by his predecessor Rachel Reeves that restrict borrowing. These rules are designed to help markets have clarity about the path of borrowing.
-The more that is forecast to be spent on interest costs, the more likely that there will be a squeeze on spending or some form of tax rise to meet these rules.
-The moves in interest rates could already wipe out half of the room for manoeuvre to meet these rules forecast at the last set of official numbers last March.
-On top of that, higher government rates can feed through to higher business and household borrowing costs, and so weigh on the economy.
-The tax and spend balance in act was already tricky due to extra spending pressures on defence and the cost of living. These moves make these balancing acts trickier still.
-Global markets reacted in particular after suggestions in the US that its central bank could raise rates. The UK market was closed for the bank holiday yesterday. Japan is also facing pressure to raise rates.
-The Chancellor is in the USA attending a meeting of global finance ministers and central bankers. He told the G20 that the UK had the fastest growth in the G7 in 2026 so far, that productivity was improving and that the UK was cutting its borrowing at the fastest rate of the major economies.
-Conservative leader Kemi Badenoch accused Burnham of "living in the past".
-"His diagnosis is completely wrong," she told the House of Commons. "His theory of growth is completely wrong. He thinks that if Government spends more money, we will all get richer.
-"That is not how this works."
-Government spending around the world
-JP Morgan's chief market strategist for Europe, Karen Ward, said governments around the world want to increase spending and are turning to borrowing to fund it.
-And she told the BBC's World at One they are increasingly having to compete with major technology companies raising money to invest in the AI revolution, pushing up the amount of interest being charged.
-"Markets are getting a lot more choice about who they are going to lend to and at what interest rates," she added.
-Burnham has rolled out a series of interventions to support consumers and businesses since entering Downing Street, and is expected to prioritise further measures to ease the cost of living in the Budget on 28 October.
-Ward urged Burnham and Healey to set out how they will fund any fresh spending on defence and the cost of living, and how those lending the government money will be paid back.
-Kathleen Brooks, research director at investment company XTB, told the BBC News Channel: "Of course, this is red lights flashing."
-"We are used to pockets of volatility, it has been volatile few months," she says.
-But record levels of government debt and a record tax take mean "these are not comfortable times for the new government and the new chancellor," she says.
-Every time bond yields rise, the UK has to pay more on the debt interest, she says.
-Related topics
-- Published6 hours ago`,
-    bodyJa: `英国の長期借入コストが10月予算を前に1998年以来最高に
-- 公開されました
-政府の長期借入コストは２８年ぶりの高水準に上昇しており、来月の初予算案を前にアンディ・バーナム首相にはさらなる圧力がかかっている。
-英国政府への融資である３０年物金国債の利回りは５．８９％に上昇し、１９９８年以来の高水準となった。
-市場金利が数十年ぶりの高水準を更新し、今朝も世界中の政府の実質借入コストが上昇し続けている。
-この動きは、進行中のイラン戦争から生じるインフレ懸念、大手ハイテク企業との長期借入競争、国家借入水準への懸念を反映している。
-これらすべての要因により、火曜日に首相として初めて国会議員に演説したバーナム氏とジョン・ヒーリー首相にとって、予算編成プロセスはより困難なものとなるだろう。
-バーナム氏は下院で、生計費危機に対処しようとする政府の「根幹」は「財政責任」になると語った。
-同氏は経済と生活費が「この国が直面する最大の問題」だと述べた。
-借入コストの上昇により、政府が自主的に課した財政ルールに対する余裕が減り、ヒーリーが生活費を軽減するための消費者に優しい対策に支出できる金額が制限されることになる。
-財政が逼迫しているにもかかわらず、バーナム氏は生活費を軽減するために「より実質的な変化」をもたらすと述べた。
-「英国は我々の誰もが望んでいるような場所ではない」と彼は付け加えた。
-指標となる１０年物金国債の利回りは、世界金融危機の真っ最中だった２００８年６月以来の高水準に上昇した。
-ギルト利回りは債券の価値に逆行するため、利回りが上昇すると価格は下落します。
-米国、日本、欧州の借り入れコストはここ数日、同様の最高値に達している。
-首相は以前、前任者のレイチェル・リーブス氏が課した借入制限などの一連の財政規則を堅持すると述べていた。これらのルールは、市場が借入経路を明確にすることを目的としています。
-金利コストに費やされることが予測されるほど、これらのルールを満たすために支出が圧迫されたり、何らかの形で増税が行われる可能性が高くなります。
-金利の動きによって、昨年3月の最新の公式数字で予測されたこれらのルールを満たすための策動の余地の半分がすでに消失する可能性がある。
-それに加えて、政府金利の上昇は企業や家計の借入コストの上昇につながり、経済に重しを与える可能性があります。
-防衛費や生活費への追加支出圧力により、実際の税と支出のバランスはすでに困難になっていた。これらの動きにより、バランスを取る作業がさらに難しくなります。
-世界の市場は特に、米国で中央銀行が利上げの可能性があるとの示唆を受けて反応した。昨日の英国市場は祝日のため休場でした。日本も利上げの圧力に直面している。
-首相は世界財務相・中央銀行総裁会議に出席するため米国を訪れている。同氏はG20に対し、英国はこれまでのところ2026年にG7の中で最も速い成長を遂げており、生産性も向上しており、英国は主要国の中で最も速いペースで借入を削減していると述べた。
-保守党指導者ケミ・バデノック氏はバーナム氏を「過去に生きている」と非難した。
-「彼の診断は完全に間違っている」と彼女は下院で語った。 「彼の成長理論は完全に間違っています。政府がもっとお金を使えば、私たち全員がもっと豊かになれると彼は考えています。
-「そういうわけにはいきません。」
-世界中の政府支出
-ＪＰモルガンの欧州担当首席市場ストラテジスト、カレン・ウォード氏は、各国政府が歳出拡大を望んでおり、その資金を借入に頼っていると述べた。
-そして彼女はBBCのワールド・アット・ワンに対し、AI革命への投資のために資金を集めている大手テクノロジー企業とますます競争しなければならなくなり、請求される利息の額が上昇していると語った。
-同氏は「市場は誰にどの金利で融資するかについて、より多くの選択肢を獲得している」と付け加えた。
-バーナム首相はダウニング街入り以来、消費者と企業を支援するための一連の介入を展開しており、10月28日の予算案では生活費軽減のためのさらなる措置を優先するとみられている。
-ウォード氏はバーナム氏とヒーリー氏に対し、国防費や生活費への新たな支出をどのように賄うのか、また政府に資金を貸している人々はどのように返済するのかを明らかにするよう促した。
-投資会社XTBのリサーチディレクター、キャスリーン・ブルックス氏はBBCニュースチャンネルに対し、「もちろん、これは赤信号の点滅だ」と語った。
-「私たちは部分的な変動には慣れています。数か月間変動が激しい状況でした」と彼女は言う。
-しかし、記録的な水準の政府債務と記録的な増税は、「新政府と新首相にとって今は快適な時期ではない」ことを意味すると彼女は言う。
-債券利回りが上昇するたびに、英国はより多くの債務利息を支払わなければならなくなる、と彼女は言う。
-関連トピック
-- 6 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-01T15:54:09+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b72/live/3d5d23f0-a5f9-11f1-8348-fb0cb1cd9761.jpg",
-    readTime: 5,
-  },
-  {
-    id: "there-s-a-disconnect-between-ai-valuatio-4353d76e",
-    title: "There’s a disconnect between AI valuations and revenue-growth forecasts, observes this investor",
-    titleJa: "AI の評価と収益成長予測の間には乖離がある、とこの投資家は観察",
-    summaryJa: "著名な投資家、学者、経済学者のポール・ケドロスキー氏は、このAIバブルが他の新しく革命的なテクノロジーに出会ったバブルとは著しく異なることに懐疑的である。",
-    bodyOriginal: `Well-known investor, academic and economist Paul Kedrosky is skeptical that this AI bubble differs markedly from that which met other new and revolutionary technologies.`,
-    bodyJa: `著名な投資家、学者、経済学者のポール・ケドロスキー氏は、このAIバブルが他の新しく革命的なテクノロジーに出会ったバブルとは著しく異なることに懐疑的である。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/theres-a-disconnect-between-ai-valuations-and-revenue-growth-forecasts-observes-this-investor-1350d9f7?mod=mw_rss_topstories",
-    publishedAt: "2026-09-01T14:52:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-57386204",
-    readTime: 2,
-  },
-  {
-    id: "fed-governor-barr-says-he-ll-support-rat-964736a8",
-    title: "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
-    titleJa: "バーFRB理事、インフレが緩和しない場合は利上げを支持すると発言",
-    summaryJa: "米連邦準備制度理事会（FRB）のマイケル・バー総裁は火曜日、インフレが緩和しない場合には利上げを支持する用意があると述べた。同政策担当者はワシントンの銀行フォーラムで講演し、インフレ率が５年半近くＦＲＢの目標である２％を上回った状態が続いているため、「広範な物価圧力の定着」を懸念していると述べた。",
-    bodyOriginal: `Federal Reserve Governor Michael Barr said Tuesday he would be prepared to support an interest rate hike if inflation doesn't ease.
-Speaking at a banking forum in Washington, the policymaker said he's concerned about "broader price pressures taking hold" as inflation has remained stuck above the Fed's 2% target for nearly 5½ years.
-"If trends in the data give me some confidence that inflation is moderating on a path to 2%, then I think we can take a bit more time to assess our policy stance," Barr said in prepared remarks. "However, if inflation appears not to be moderating sufficiently, then I think we should act decisively to raise rates."
-The comments come at a critical time for policy and the broader backdrop of elevated inflation and rising Treasury yields. As a governor, Barr is a permanent voting member on the rate-setting Federal Open Market Committee.
-Amid fresh worries over the precarious Middle East situation, yields jumped again Tuesday, with the benchmark 10-year note at a level not seen since mid-January 2025.
-At the same time, Fed Chairman Kevin Warsh last week delivered remarks that markets widely interpreted as titled toward a rate hike, possibly as soon as the next policy meeting in two weeks. Barr supported the July decision to keep the benchmark funds rate targeted between 3.5%-3.75%, but markets Tuesday morning were pricing in about a 66% chance of an increase this month, according to the CME Group's FedWatch tool.
-Barr gave the economy good marks even with elevated inflation.
-"Consumer spending to date has been largely resilient," he said. "But inflation remains too high — and has been for over five years," he said.
-The most recent inflation readings showed headline prices up 3.7% over the past year, or 3.3% excluding food and energy. The Fed will get one more look at inflation data when the consumer and producer price indexes are released next week.`,
-    bodyJa: `米連邦準備制度理事会（FRB）のマイケル・バー総裁は火曜日、インフレが緩和しない場合には利上げを支持する用意があると述べた。
-同政策担当者はワシントンの銀行フォーラムで講演し、インフレ率が５年半近くＦＲＢの目標である２％を上回った状態が続いているため、「広範な物価圧力の定着」を懸念していると述べた。
-バー総裁は準備した発言の中で「統計の傾向から、インフレが２％に向けて緩やかに減速していることにある程度の確信が持てるのであれば、政策スタンスを評価するのにもう少し時間をかけてもいいと思う」と述べた。 「しかし、インフレが十分に緩和していないようであれば、利上げに向けて断固として行動すべきだと思う。」
-このコメントは、インフレ高進と国債利回りの上昇という広範な背景を踏まえ、政策にとって重要な時期に発せられた。バー氏は総裁として、金利設定を行う連邦公開市場委員会の常任投票メンバーである。
-不安定な中東情勢に対する新たな懸念のなか、火曜日には利回りが再び上昇し、基準となる10年債は2025年1月中旬以来の水準となった。
-同時に、FRBのケビン・ウォーシュ議長は先週、おそらく2週間後の次回政策会合での利上げに向けて市場が広く解釈した発言を行った。バー総裁は、指標ファンド金利の目標を3.5～3.75％に維持するという7月の決定を支持したが、CMEグループのフェドウォッチツールによると、火曜日午前の市場は今月利上げの可能性を約66％織り込んでいた。
-バー氏はインフレ高にもかかわらず経済に良い評価を与えた。
-同氏は「これまでの消費支出はおおむね底堅い」と述べた。 「しかし、インフレは依然として高すぎる。その状態は5年以上続いている」と同氏は語った。
-最新のインフレ測定値によると、総合価格は過去 1 年間で 3.7%、食品とエネルギーを除くと 3.3% 上昇しました。 FRBは来週消費者物価指数と生産者物価指数が発表される際にインフレデータをもう一度精査する予定だ。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
-    publishedAt: "2026-09-01T14:01:27+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "ikea-cuts-prices-as-customers-struggle-w-1d98de8c",
-    title: "Ikea cuts prices as customers struggle with rising cost of living",
-    titleJa: "顧客が生活費の高騰に苦しむ中、イケアが値下げ",
-    summaryJa: "顧客が生活費の高騰に苦しむ中、イケアが値下げ- 公開されました",
-    bodyOriginal: `Ikea cuts prices as customers struggle with rising cost of living
-- Published
-Swedish furniture giant Ikea is cutting prices across hundreds of products in Europe to woo customers struggling with deepening cost-of-living pressures.
-Ikea has seen revenue decline over the past two years as the rising cost of living reduces people's ability to invest in new furniture and home renovations.
-The company is spending €1.2bn (£1bn) on the price cuts to items including the Billy bookcase and Kallax storage units, with reductions of up to 28% on certain products.
-Ikea said it could make the cuts by making savings throughout the supply chain, such as packaging costs, but acknowledged profits may take a hit.
-Ingka, the franchisee which operates most of Ikea's European stores, said the cuts were "not an activity or short-term campaign".
-"It's about making IKEA more affordable when people need it most, even if it means accepting a lower margin," said Juvencio Maeztu, chief executive of Ingka. "The cost of living is increasing and it's getting tougher and tougher for many people."
-He added: "For many people, home is a bedroom in a shared house, and it's even more important to offer storage and organised solutions."
-Ikea has reduced its prices several times in recent years, even as it caused a hit to the company's revenue and profit in its most recent earnings report.
-The latest specific reductions vary slightly by country. Price cuts for British customers include the Kallax shelving unit going from £60 to £49 and the Billy bookcase being cut by £10 to £25.
-Ikea is also trying to attract new customers by opening smaller stores in central areas, such as London's Oxford Street and Churchill Square in Brighton.
-In 2024 it launched its own second-hand online marketplace in a bid to rival sites like eBay and Facebook Marketplace.
-Despite a recent uptick, consumer confidence in Europe is at its lowest level for almost three years due to concerns about inflation and the cost of living, according to EU figures. , external
-British consumers, meanwhile, are becoming more optimistic about the economy and their own finances, following a truce in the Middle East, but analysts have warned that inflation and the rising cost of living could dent consumer confidence in the coming months.
-Ikea operates over 500 stores worldwide under a franchise system.
-Many of its minimalist, self-assembled products have become ubiquitous in homes across Europe.
-But it has faced criticism from environmentalists for contributing to a culture of disposable furniture and excess packaging.
-Get in touch
-Do you have any views, comments or questions about this story?
-Related topics
-- Published5 days ago`,
-    bodyJa: `顧客が生活費の高騰に苦しむ中、イケアが値下げ
-- 公開されました
-スウェーデンの家具大手イケアは、深刻化する生活費の圧力に苦しむ顧客を魅了するため、ヨーロッパで数百の商品の値下げを行っている。
-イケアは、生活費の上昇で人々が新しい家具や家の改修に投資する能力が低下したため、過去2年間で収益が減少している。
-同社は、ビリー本棚やカラックス収納ユニットなどの商品の値下げに12億ユーロ（10億ポンド）を投じており、一部の商品では最大28％の値下げを予定している。
-イケアは、梱包コストなどサプライチェーン全体で節約することで削減は可能だが、利益が打撃を受ける可能性があることは認めていると述べた。
-イケアの欧州店舗のほとんどを運営するフランチャイズ加盟店インカは、人員削減は「活動や短期的なキャンペーンではない」と述べた。
-インカ社の最高経営責任者フベンシオ・マエズトゥ氏は、「たとえ利益率の低下を受け入れることになっても、人々が最も必要とするときにイケアをより手頃な価格にすることが目的だ」と述べた。 「生活費は上昇しており、多くの人にとって生活はますます厳しくなっている。」
-同氏はさらに、「多くの人にとって、家はシェアハウスの寝室であり、収納や整理整頓されたソリューションを提供することがさらに重要だ」と付け加えた。
-イケアは、最新の決算報告で同社の収益と利益に打撃を与えたにもかかわらず、近年数回値下げを行っている。
-最新の具体的な削減額は国によって若干異なります。英国の顧客向けの値下げには、カラックス棚ユニットが60ポンドから49ポンドに、ビリー本棚が10ポンド値下げされて25ポンドになることが含まれる。
-イケアはまた、ロンドンのオックスフォード・ストリートやブライトンのチャーチル・スクエアなどの中心部に小規模な店舗をオープンすることで、新規顧客の獲得にも努めている。
-2024年には、eBayやFacebookマーケットプレイスのようなライバルサイトに対抗して、独自の中古オンラインマーケットプレイスを立ち上げた。
-EUの統計によると、最近の上昇にもかかわらず、欧州の消費者信頼感はインフレと生活費への懸念により、ここ3年近くで最低水準にある。 、外部
-一方、英国の消費者は中東の停戦を受けて経済と自国の財政について楽観的になっているが、アナリストらはインフレと生活費の上昇が今後数カ月間に消費者信頼感を低下させる可能性があると警告している。
-イケアはフランチャイズシステムで世界中に500以上の店舗を展開しています。
-ミニマリストで自分で組み立てられる製品の多くは、ヨーロッパ中の家庭に普及しています。
-しかし、使い捨ての家具や過剰な包装の文化を助長しているとして、環境活動家からの批判に直面している。
-連絡する
-この話に関して何かご意見、ご意見、ご質問はありますか？
-関連トピック
-- 5 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-01T12:21:52+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg",
-    readTime: 3,
   },
 ];
 
