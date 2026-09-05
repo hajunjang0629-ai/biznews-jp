@@ -15,6 +15,251 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "at-least-two-dead-in-blast-at-bolivia-mi-0c8962b1",
+    title: "At least two dead in blast at Bolivia military barracks",
+    titleJa: "ボリビア軍兵舎で爆発、少なくとも２人死亡",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `At least two dead in blast at Bolivia military barracks
+- Published
+At least two people have been killed after an explosion at a military barracks in Bolivia but authorities fear the toll could be higher.
+Bolivian Defence Minister Ernesto Justiniano said at least 58 people had been injured when "pyrotechnic material" detonated at the barracks, where an artillery regiment is stationed, about 14:30 (18:30 GMT) on Friday.
+Health official Rita Nebraska told local television between 10 and 15 people were believed to have died in the incident in Viacha, about 30km (19 miles) from La Paz, according to Reuters.
+Police said dozens of homes had been damaged - largely windows shattered in the blast - and emergency workers are searching the rubble.
+Nebraska said there was a risk of further explosion and urged people to stay at least 150m away from the military base.
+Police spokesman Roger Roca told AFP news agency that fireworks had been stored at the barracks, and the cause of the blast remained under investigation.
+Viacha's authorities have declared three days of mourning.`,
+    bodyJa: `ボリビア軍兵舎で爆発、少なくとも２人死亡
+- 公開されました
+ボリビアの軍兵舎で爆発があり、少なくとも２人が死亡したが、当局は死者数がさらに増える可能性を懸念している。
+ボリビアのエルネスト・フスティニアーノ国防大臣は、金曜日の14時30分（日本時間18時30分）頃に砲兵連隊が駐屯する兵舎で「発火物」が爆発し、少なくとも58人が負傷したと発表した。
+ロイター通信によると、保健当局者のリタ・ネブラスカ氏は地元テレビに対し、ラパスから約３０キロ離れたヴィアチャでの事件で１０人から１５人が死亡したとみられると語った。
+警察によると、数十軒の家屋が爆発で主に窓ガラスが割れ、被害が出ており、救急隊員ががれきの捜索を行っている。
+ネブラスカ州はさらなる爆発の危険があるとし、人々に軍事基地から少なくとも１５０メートル離れるよう呼び掛けた。
+警察報道官のロジャー・ロカ氏はAFP通信に対し、兵舎には花火が保管されており、爆発の原因は捜査中であると語った。
+ヴィアチャ当局は３日間の服喪を宣言した。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-05T02:59:40+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "un-votes-to-adopt-new-world-map-to-refle-20a0fc4d",
+    title: "UN votes to adopt new world map to reflect Africa's true size",
+    titleJa: "国連、アフリカの真の大きさを反映する新しい世界地図の採用を決議",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `UN votes to adopt new world map to reflect Africa's true size
+- Published
+The UN General Assembly has voted to replace the traditional world map with one that more accurately reflects the size of Africa.
+The "Correct the Map" resolution, sponsored by Togo and backed by African Union (AU) members, passed with the support of 164 nations, including France and the UK. The United States was the only nation to vote against it - and there were six abstentions.
+The UN vote is non-binding but will see changes to the maps used by institutions around the world.
+The Mercator map, which has been in common use since the 16th Century, has come in for criticism as it shows Africa as similar in size to Greenland, even though it is 14 times larger.
+Critics say this leads to the development needs and potential for countries near the equator to be minimised.
+The Mercator map was designed in 1569 by the Flemish cartographer Gerardus Mercator to help European explorers navigate across the world.
+The distortion of his map is a result of the fact that it is impossible to accurately represent the surface of a globe on a two-dimensional chart.
+Whenever a map of the world is drawn, compromises need to be made.
+The Mercator map shows the curvature of the Earth by making countries near the equator seem smaller than they are, with countries nearer the poles appearing bigger.
+In an effort to correct this, a team of cartographers in 2018 created an equal area map they called the Equal Earth projection.
+In February, the AU's 54 member states adopted it, and said it "more accurately represents the sizes of all continents, particularly Africa".
+Online campaign group #CorrectTheMap said: "You could fit the United States, China, India, Japan, Mexico and much of Europe into Africa and still have land to spare."
+Ahead of Friday's vote, Togolese Foreign Minister Robert Dussey told the Reuters news agency: "A fair world begins with a fair map."
+Earlier he had told a UN briefing: "A map is never neutral. It shapes perceptions, influences how the place of peoples and continents in the world is understood."
+He had the backing of the French Foreign Minister Jean-Noël Barrot, who said his ministry was going to stop using the Mercator map, external.
+"Changing the map obviously doesn't change the world. But correcting a representation that distorts it is already an act of truth," he said.
+But Yaryna Ferencevych, a US representative at the UN, said the resolution mocked the work and purpose of the UN General Assembly, external.
+"Instead of focusing on genuine problems of international peace, prosperity, or good relations, this body is debating map projects from the 16th Century, and their role in promoting reparations and 'cognitive justice'," she said.
+In March, the US was also critical when a resolution was adopted declaring the transatlantic slave trade "the gravest crime against humanity".
+"Africa's misrepresentation on world maps is not just a cartographic error - it's a narrative issue," Lerato Mogoatlhe from Africa No Filter, one of the groups behind the campaign to ditch the Mercator map, told the BBC.
+It was part of efforts to stop the "world's longest misinformation and disinformation" about Africa, she said.
+For Kenyan geographer Kioko Muendo, the Mercator map has implicitly downplayed the African continent's vast resources, population and investment opportunities.
+"Maps are more than just guides for travellers - they shape how regions are perceived politically and economically," he told the BBC.
+More BBC news from Africa:
+What is Ebola and why is stopping the latest outbreak so difficult?
+- Published25 August
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-05T00:53:11+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
+    readTime: 2,
+  },
+  {
+    id: "germany-s-far-right-afd-bids-for-first-t-6c93631b",
+    title: "Germany's far-right AfD bids for first taste of power in eastern vote",
+    titleJa: "ドイツの極右政党AfD、東部投票で初の権力体験を目指す",
+    summaryJa: "ドイツの極右政党AfD、東部投票で初の権力体験を目指す- 公開されました",
+    bodyOriginal: `Germany's far-right AfD bids for first taste of power in eastern vote
+- Published
+Germany is holding its breath this weekend as there is a seismic election in the country's east.
+The Alternative für Deutschland party is aiming to secure a majority in the regional parliament of Saxony-Anhalt.
+An outright win would mark the first time a far-right party has held state-level power in the nation's post-war era.
+For the AfD's opponents, this is a point of serious peril. But the party sees it as a stepping stone towards its dreams of nationwide power.
+This is an election that could change German history.
+The result could also spell fresh trouble for embattled conservative (CDU) Chancellor Friedrich Merz, as rumours persist about whether he can see out his term in office.
+Booed during recent public appearances, Merz is hardly seen as an electoral asset.
+Perhaps the chancellor regrets a pledge to halt the rise of the far right, given that the exact opposite has happened.
+By contrast, the charismatic AfD lead candidate in the state - Ulrich Siegmund - appears to have enjoyed dominating discussion and media coverage.
+Dubbed "Germany's Most Dangerous Man" by Der Spiegel magazine, he has brushed off reports that people previously in the neo-Nazi scene are among those to hold influential roles around him.
+The 35-year-old can often be seen, including in his own many social media posts, amongst adoring crowds or happily riding a retro East German scooter.
+A lingering nostalgia for the past, alongside an acute dissatisfaction with the present, has fed the party's popularity in its eastern strongholds.
+Voters voice frustration with immigration, public safety, Germany's struggling economy, high energy costs and aid being sent abroad to countries like Ukraine.
+Some people I have spoken to passionately believe that the AfD is offering a real chance for radical change - and say Ulrich Siegmund has given them hope.
+Other supporters are less certain, but say they have lost faith with mainstream parties that have dominated politics for decades.
+An AfD lawmaker once told me that if they got a shot at regional government, then people would see the "sky won't fall in".
+Some of the movement's detractors may disagree. Its plans, for Saxony-Anhalt, are highly controversial within Germany.
+The party wants to segregate child refugees into special classes: "The refugee children should be given the message that their stay in Germany is only temporary."
+The manifesto claims that "sexual deviations and non-reproductive lifestyles" have been aggressively promoted over "normal family" structures.
+LGBT rainbow flags should be banned from being flown at schools, the party argues, while children should be taught less about the Nazis and more about positive aspects of German history.
+On immigration, a task-force would be set up as part of plans to detain and deport migrants who no longer have the right to be in the state, while the party also calls for an end to "illegal, culturally alien" mass migration.
+The AfD's pro-Russia sympathies have also sparked claims that it cannot be trusted with sensitive intelligence. When a Russian army mug was spotted in the office of leading AfD figure Hans-Thomas Tillschneider in Saxony-Anhalt, he said it was just a souvenir, and "it's not our war".
+That was as Berlin, this week, publicly blamed Moscow for a failed drone attack on Leipzig/Halle Airport. The Kremlin has denied involvement.
+Meanwhile, German security sources have warned that Russian-backed disinformation campaigns, often against AfD rivals, have been escalating - something Moscow's representatives describe as "anti-Russian hysteria".
+State-level governments hold significant powers over areas including local education, policing and culture, while their delegates sit in the federal government's second chamber – the Bundesrat.
+An AfD government in Saxony-Anhalt would be able to implement changes locally and gain a louder voice on the national stage.
+The party remains strongest in the former communist east Germany but it is also leading the polls nationwide.
+That is despite warnings that it has morphed from a Eurosceptic party, founded in 2013, into one that flirts with, or attracts, extremist support.
+At one AfD rally, we saw a man wearing a T-shirt that read Arisch - the German word for Aryan that the Nazis used to promote their false theories of a master race.
+We do not know whether the man was a party supporter, a member or merely an attendee. He would not talk to us.
+Saxony-Anhalt is one of several states where the party is officially classed as right-wing extremist.
+Domestic intelligence charges the local branch with being infused by a "racist ideology" and anti-constitutional aims.
+The AfD, which says it is a conservative, libertarian movement, dismisses these designations as politicised smears and rejects any comparisons with National Socialism.
+Ulrich Siegmund has not ruled out getting rid of domestic intelligence (BfV) in the state if the AfD wins a majority.
+Other parties won't go into coalition with the AfD, as part of what is known as the Brandmauer or firewall that keeps the far right from government.
+That is why it must seek a parliamentary majority in order to be sure of securing power.
+In Saxony-Anhalt, it is no longer about creating cracks in the firewall but rather trying to bypass it altogether.
+Pulling that off will likely depend on whether other, smaller parties get enough votes in order to pass a 5% threshold that allows them to enter parliament.
+Politics is maths and Germany is no different, even if the maths can be quite convoluted.
+But if the AfD does score a decisive victory, then a party that uses anti-establishment rhetoric to grow its support will face a test it has never faced before.
+Grievances could still be laid at the door of the federal government in Berlin, but the AfD would no longer solely be able to rail against those in office because it would be in office itself.
+Saxony-Anhalt may be a relatively small state, by population, but it is about to host one hell of an election.`,
+    bodyJa: `ドイツの極右政党AfD、東部投票で初の権力体験を目指す
+- 公開されました
+ドイツは今週末、同国東部で衝撃的な選挙が行われるため固唾を飲んでいる。
+「ドイツのための選択肢」党は、ザクセン・アンハルト州議会で過半数の獲得を目指している。
+完勝すれば、戦後初めて極右政党が国家レベルの権力を掌握したことになる。
+AfDの反対派にとって、これは重大な危険点だ。しかし、党はこれを全国的な権力の夢への足がかりとみなしている。
+これはドイツの歴史を変える可能性のある選挙です。
+また、この結果は、任期を最後までやり遂げられるかどうかについての噂が根強いため、苦境に立たされている保守党（CDU）首相フリードリヒ・メルツにとって新たな困難を引き起こす可能性もある。
+最近の公の場でブーイングを浴びたメルツ氏は、選挙の有力者とはほとんど見られていない。
+おそらく首相は、極右の台頭を阻止するという公約を後悔しているだろう。それは、全く逆のことが起こったことを考えるとだろう。
+対照的に、同州のカリスマ的なAfD筆頭候補であるウルリッヒ・ジークムント氏は、圧倒的な議論とメディア報道を楽しんでいるように見える。
+デア・シュピーゲル誌から「ドイツで最も危険な男」と称された同氏は、かつてネオナチの現場にいた人々が彼の周囲で影響力のある役割を担う人物の一人であるという報道を一蹴した。
+35歳の彼は、自身の多くのソーシャルメディア投稿を含め、熱狂的な群衆の中で、またはレトロな東ドイツのスクーターに楽しそうに乗っている姿がよく見られる。
+現在への強い不満とともに残る過去への郷愁が、東部の本拠地での党の人気を高めている。
+有権者は移民、治安、ドイツ経済の低迷、エネルギーコストの高さ、ウクライナなどの国外への援助物資への不満の声を上げている。
+私が話をした人の中には、AfDが根本的な変化をもたらす真のチャンスを提供していると熱烈に信じており、ウルリッヒ・ジークムントが彼らに希望を与えてくれたと言う人もいる。
+他の支持者らは確信が持てないが、何十年も政治を支配してきた主流政党への信頼を失ったと主張する。
+AfD議員はかつて私に、もし地方政府に挑戦できれば、人々は「空は落ちてこない」と思うだろうと語った。
+この運動を批判する人の中には、これに同意しない人もいるかもしれない。ザクセン・アンハルト州に対するその計画は、ドイツ国内で非常に物議を醸している。
+同党は、難民の子どもたちを特別なクラスに隔離することを望んでおり、「難民の子どもたちには、ドイツでの滞在は一時的なものにすぎないというメッセージを与えられるべきである」としている。
+マニフェストは、「通常の家族」構造よりも「性的逸脱と非生殖ライフスタイル」が積極的に推進されてきたと主張している。
+同党は、LGBTの虹色の旗を学校で掲揚することを禁止すべきであり、その一方で子供たちにはナチスについてよりもドイツの歴史の肯定的な側面についてもっと教えるべきだと主張している。
+移民問題では、州に滞在する権利を失った移民を拘束し国外追放する計画の一環として特別委員会が設置される予定だが、同党はまた、「違法で文化的に異質な」大量移民の停止も求めている。
+AfDの親ロシア的な姿勢は、機密情報を持ったAfDは信頼できないという主張も引き起こしている。ザクセン・アンハルト州のAfD指導者のハンス・トーマス・ティルシュナイダー氏のオフィスでロシア軍のマグカップが発見されたとき、同氏はそれは単なる記念品であり、「これは私たちの戦争ではない」と述べた。
+それはベルリンが今週、ライプツィヒ・ハレ空港への無人機攻撃が失敗したとしてモスクワを公に非難したときのことだった。クレムリンは関与を否定している。
+一方、ドイツの治安筋は、ロシアが支援する偽情報キャンペーンがエスカレートしており、ロシア政府の代表者らはこれを「反ロシア・ヒステリー」と表現していると警告した。
+州レベルの政府は地方の教育、警察、文化などの分野で大きな権限を持っており、その代議員は連邦政府の第二院である連邦参議院に座している。
+ザクセン・アンハルト州のAfD政権は地元で変革を実行し、国家舞台でより大きな声を得ることができるだろう。
+同党は旧共産主義国の東ドイツで依然として最強だが、全国の世論調査でもリードしている。
+2013年に設立された欧州懐疑派の政党から、過激派に媚びたり、過激派の支持を集めたりする政党に変貌したとの警告があったにもかかわらずだ。
+あるAfD集会で、ナチスが支配民族に関する誤った理論を宣伝するために使用したアーリア人を意味するドイツ語「アーリッシュ」と書かれたTシャツを着た男性を見た。
+その男性が党の支持者だったのか、党員だったのか、それとも単なる出席者だったのかは不明だ。彼は私たちに話しかけようとしませんでした。
+ザクセン アンハルト州は、同党が公式に右翼過激派に分類されているいくつかの州のうちの 1 つである。
+国内諜報機関は、地元支部が「人種差別的イデオロギー」と反憲法的目的を注入されていると非難している。
+AfDは保守的で自由主義的な運動であると主張し、これらの呼称を政治化された中傷として却下し、国家社会主義とのいかなる比較も拒否している。
+ウルリッヒ・ジークムント氏は、AfDが過半数を獲得した場合、州内の国内情報機関（BfV）を排除する可能性を排除していない。
+他の政党は、極右を政府から遠ざけるブランドマウアー、またはファイアウォールとして知られるものの一環として、AfDと連立を組むつもりはない。
+だからこそ、確実に権力を確保するには議会の過半数を獲得する必要がある。
+ザクセン アンハルト州では、もはやファイアウォールに亀裂を入れるのではなく、ファイアウォールを完全に回避しようとしています。
+それを達成できるかどうかは、他の小規模政党が議会への参入を許可する5％の基準を通過するのに十分な票を獲得できるかどうかにかかっています。
+政治は数学であり、たとえ数学が非常に複雑であるとしても、ドイツも例外ではありません。
+しかし、AfDが決定的な勝利を収めた場合、反体制のレトリックを利用して支持を拡大している政党は、これまでに経験したことのない試練に直面することになる。
+不満は依然としてベルリンの連邦政府の門前に提出される可能性があるが、AfD 自体が政権を握ることになるため、もはや単に政権の人々を非難することはできないだろう。
+ザクセン・アンハルト州は人口的には比較的小さい州かもしれないが、これからとんでもない選挙が開催されることになる。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-04T23:07:23+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg",
+    readTime: 7,
+  },
+  {
+    id: "mistrial-declared-in-lindsay-clancy-murd-c2ea84b6",
+    title: "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+    titleJa: "リンゼイ・クランシー殺害事件、陪審が行き詰まりの末に有罪宣告",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Mistrial declared in Lindsay Clancy murder case, after jury deadlocks
+- Published
+Warning: This story contains distressing details and discussion of attempted suicide
+A Massachusetts judge has declared a mistrial in the murder case against Lindsay Clancy after jurors, who deliberated for about a week, conceded they would not be able to unanimously decide whether she should be held criminally liable for killing her three young children.
+The case against Clancy has both captivated and heavily divided the American public, even spurring remarks from the US president.
+There was a sense of disbelief in the courtroom as the case - and Clancy's future - are now left in limbo.
+Clancy's lawyer led a dramatic last-ditch attempt to halt the mistrial and force a verdict, which was unsuccessful. A hearing later this month could establish what happens next in the case.
+What happens next after Lindsay Clancy's murder case ends in a mistrial?
+- Published43 minutes ago
+Key moments from Lindsay Clancy's trial over children's killings
+- Published7 hours ago
+"At this point, I'm going to declare that the jury is deadlocked, and I'm going to declare a mistrial," Judge Sullivan told the jury on Friday, dismissing them after weeks of testimony, nearly a week mulling Clancy's fate and the panel signalling three times that they were deadlocked.
+The deadlock - known as a hung jury - does not mean prosecutors have proven their case, nor does it mean the defendant is not guilty.
+A hearing was scheduled for 29 September, where prosecutors could outline their next steps in the case.
+Meanwhile, the 36-year-old former nurse will remain held on the same murder charges and maintain staying in the mental health facility where she is housed now.
+Prosecutors could decide from a host of options on what happens next, including holding another trial or coming to a plea agreement with Clancy over the strangulation of her children, Cora, 5, Dawson, 3, and Callan, eight months - in their Massachusetts home.
+After killing the children, Clancy cut herself with a knife and jumped from a second-story window in an attempt to take her own life, which has left her paralysed.
+Clancy does not deny killing the children in 2023 but pleaded not guilty to the three first-degree murder charges, with her lawyers arguing she was suffering from postpartum psychosis and should not be held criminally responsible.
+The grim case led to a series of dramatic twists and turns as the jury deliberated Clancy's fate.
+On Friday, court began with Clancy's attorney Kevin Reddington pushing for a juror on the panel to be removed, after the jury indicated a day prior in a note that a member of the panel was not following instructions on reasonable doubt.
+Under US law, a jury must unanimously believe "beyond a reasonable doubt" that someone is guilty in order to convict them of a crime.
+The designation is the strictest standard in the US legal system. It places the burden on the government to prove that the accused is guilty, and not the accused to prove their innocence.
+Judge Sullivan denied the request and sent jurors back to deliberate. About an hour later, the panel came back to say they still could not reach a verdict.
+It was then that Judge Sullivan said he had no choice but to declare a mistrial. Reddington immediately pleaded for a temporary pause so they could file an emergency appeal with the Massachusetts Supreme Judicial Court.
+In the filing, Reddington asked the state's highest court to order the judge to force the jury to continue deliberation and for the judge to question the panel over the alleged holdout juror that led to the deadlock.
+The state's high court denied the request, paving the way for the mistrial.
+Clancy appeared downcast as the judge made the ruling official. It was surprisingly silent in courtroom.
+She remained expressionless but her lawyer looked visibly upset by the decision. He continued to push back, insisting the judge had the power to dismiss the one holdout juror.
+"Unfortunately, they're not holding out based on a good-faith issue," he said.
+Reddington said he intended to file another motion, which essentially requests for the mistrial to be reconsidered. This could come up at the next hearing later this month.
+The mistrial came after six weeks of court proceedings and after jurors deliberated for more than 40 hours over seven days.
+"There will be no decisions made today," Plymouth County District Attorney Timothy Cruz said on Friday on what could happen next in the case.
+He said he would meet with the rest of their legal team to decide whether they will pursue a new trial.
+"The facts are Lindsay Clancy killed her three children and the evidence suggested to us that she was in control of her actions when she committed those homicides," he said.
+Outside the court on Friday, Reddington said he believed 11 of the 12 jurors would have delivered a verdict that favoured Clancy, had it not been for the one holdout.
+But it remains unclear what position any member of the jury took or what talks looked like in the deliberation room.
+For weeks the case gripped the country and sparked debate over the topic of postpartum psychosis. Many followed along with livestreams of the trial, as family members and experts testified. Each day, more than 200 members of the media crowded the court and groups of supporters in varying sizes often gathered outside.
+The widespread attention even spurred comments on Friday from US President Donald Trump, who called the case a "horrible tragedy".
+"She did a horrible, horrible thing. Can't be worse," he said at the White House. "I assume there's going to be another trial."
+"But you'll find out what the price to pay is," Trump added. "There'll be a price."
+If you are suffering distress or despair and need support, you could speak to a health professional, or an organisation that offers support. Details of help available in many countries can be found at Befrienders Worldwide. www.befrienders.org.
+In the UK a list of organisations that can help is available at bbc.co.uk/actionline.
+Related topics
+- Published19 August`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-04T22:48:38+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+    readTime: 2,
+  },
+  {
+    id: "bloom-energy-was-just-named-to-the-s-p-5-ef311095",
+    title: "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well.",
+    titleJa: "ブルーム・エナジーはS&P 500に選ばれたばかりです。これらの他の銘柄も同様に指数に加わります。",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Molson Coors Beverage, Builders FirstSource and Trade Desk will be getting the boot from the benchmark index.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories",
+    publishedAt: "2026-09-04T21:46:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-48239036",
+    readTime: 2,
+  },
+  {
     id: "judge-weighs-how-to-dismiss-reflecting-p-34ab88e2",
     title: "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -117,6 +362,37 @@ Wells Fargo analysts published a note with the headline "TSLA Cybercab Launch Ev
     readTime: 2,
   },
   {
+    id: "trump-s-peace-envoys-to-visit-moscow-and-40215e7d",
+    title: "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Trump's peace envoys to visit Moscow and Kyiv over weekend
+- Published
+US negotiators Steve Witkoff and Jared Kushner will visit Russia and Ukraine this weekend, as efforts to end the war appear to be gathering pace.
+Ukraine's Volodymyr Zelensky confirmed he will meet the envoys on Sunday, after they visit Moscow on Saturday to hold talks with Russian President Vladimir Putin.
+Witkoff and Kushner have led US President Donald Trump's efforts to broker a peace deal, but a gulf remains between the two warring sides.
+"They are bringing with them a proposal to end the war," Trump told reporters when asked about the visits.
+Earlier on Friday, Zelensky said a Russian drone hit the office of Ukraine's security chief Oleksandr Poklad in Kyiv. Poklad appears to be unharmed.
+In a post on social media, Zelensky said he had ordered Poklad, who head the SBU security service, to respond "adequately" to the attack.
+Witkoff and Kushner, Trump's son-in-law, have visited Russia multiple times, but the purported talks will be the first in Ukraine.
+Zelensky said he would guarantee the safety of Russian airspace during the envoys' visit and called for Russia to do the same for Ukraine.
+Russia's state news agency Tass said Witkoff and Kushner were "expected to arrive in Moscow and then to Kyiv... on 5-6 September", quoting a source.
+Kremlin spokesman Dmitry Peskov later told reporters: "I wouldn't announce anything, but when these contacts take place, we will inform you."
+Meanwhile, Putin told an international economic forum on Thursday that "there are chances" a peace deal could be reached.
+"First of all, Moscow and Kyiv must agree between themselves," he said.
+But he showed no sign of backing down from his maximalist demands, which included more territorial concessions from Ukraine.
+Kyiv and its European allies have repeatedly rejected Putin's terms saying they are tantamount to capitulation.
+Russia launched a full-scale invasion of Ukraine in February 2022, and currently controls about 20% of its territory.
+- Published3 days ago`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-04T20:03:52+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
+    readTime: 2,
+  },
+  {
     id: "here-s-what-s-worth-streaming-in-septemb-54a61281",
     title: "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -180,6 +456,84 @@ Friday's spending pledge builds on Trump's stated plans to become more involved 
     publishedAt: "2026-09-04T19:52:00+00:00",
     category: "マクロ経済",
     imageUrl: "https://images.mktw.net/im-91155215",
+    readTime: 2,
+  },
+  {
+    id: "europe-targeted-by-spiralling-campaign-o-202bc5be",
+    title: "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect
+- Published
+As summer temperatures in Europe smashed records and many politicians shifted to holiday mode, Russia remained focused on its war.
+Not only did its military attacks across Ukraine intensify last month, becoming ever more deadly for civilians, Russia also appears to have escalated its sabotage campaign across Europe.
+This time, military and defence sector sites were the prime target.
+A full month after drones packed with explosives were found at Leipzig's airport, used by Ukraine to transport military goods, Germany's interior minister has declared that "Russia is responsible".
+Russia's President Vladimir Putin is demanding proof, as always, and his officials call the accusation "absurd".
+But the drones were just a dramatic start. August then brought a series of suspicious fires at defence facilities from Italy to Estonia.
+Some of the affected countries have already blamed Russia; others are still investigating and some fires may eventually be ruled accidental, exactly as such attacks are designed to seem.
+Poland's interior minister is clear.
+"There are many, many signals that Russia is changing its strategy and intensifying its activities, including terrorist and sabotage activities," Marcin Kierwiński said, warning people to be on their guard.
+Germany says Russia behind Leipzig airport drone attack
+- Published3 days ago
+August campaign across Europe
+4 August Germany: The first drone at Leipzig airport is discovered.
+10 August Bulgaria: A major fire breaks out at a warehouse of defence firm EMCO in Tryavna. In a statement, the company recalled previous blasts at its facilities which were investigated for links to Russia. "Human error is excluded," it said.
+13 August Italy: A fire at KNDS Ammo Italy outside Rome triggers a large explosion.
+The local prosecutor is looking into possible outside interference, La Repubblica newspaper reports. Publicly, his office will only confirm that a case has been opened for negligent disaster against "unknown persons".
+15 August Estonia: The Milrem Robotics factory in Tallinn, which the Kyiv Post says supplies drones to Ukraine, goes up in flames. Two suspects are arrested.
+Estonian Prime Minister Kristen Michal says the possibility of Russian sabotage is being "taking seriously" by investigators.
+25 August Slovakia: Police announce they have averted an arson attack on a Ukrainian-owned drone manufacturer and seized a "large amount of incendiary mixture". The firm itself blames Russia and police arrest three suspects who they say were "following orders". Slovakia is Russia's close ally in Europe.
+30 August Poland: A country which is heavily targeted for sabotage reports two more fires.
+One is in Lublin at a company which produces helicopter components. Prime Minister Donald Tusk said arson "cannot be ruled out".
+An attack on the drone producer, WB Group, is clearer cut. A masked man is caught on CCTV throwing incendiary devices. Tusk calls it a "continuation of Russia's escalatory activities".
+The pattern has continued into September with two Bulgarians arrested in Munich, Germany, for suspected arson after throwing incendiary devices from a car at defence firm Rhode & Schwartz.
+Separately, police say they are hunting a climate extremist suspected of sabotage attacks this week on power substations in western Germany.
+Why is this happening now?
+Attacks on military and defence targets are not new, although previous acts of sabotage linked to Russia include more puzzling targets - such as an Ikea store and a Polish paint store.
+The novelty now is the concentration of cases.
+"The intensity of military sites being attacked we've seen over the past couple of weeks is unusual," Daniela Richterova of the Department of War Studies at King's College says.
+She links the spike to developments in Russia's invasion of Ukraine.
+"We've basically seen Ukraine take the war to Russia and strike deep inside Russian territory…They [Moscow] are under pressure, they have to do something."
+Whilst some sabotage is staged to sow chaos or fear, Richterova believes the Kremlin's aim right now is "coercive signalling": pressuring countries to stop supporting Kyiv by raising the stakes.
+After a slow start, Germany is Ukraine's biggest supplier of military aid.
+There are other theories.
+To some, Russia is less concerned about "turning off the taps" of supplies to Ukraine and more about testing Nato for weaknesses.
+"Russia is probing the boundaries of what's acceptable and collecting information on the results. They find out what works, and what's vulnerable," argues Keir Giles from the Chatham House think tank.
+He sees the sabotage campaign as preparation for the "next phase", as he puts it, of Russia's aggression in Europe.
+"They're assessing the willingness of the victim country to actually do something about it."
+The International Institute for Strategic Studies (IISS), which tracks sabotage cases, points to a previous surge in 2024 when Ukraine's allies began allowing it to use Western-supplied weapons deeper inside Russia.
+2024 was the year of the parcel bomb plot, when Russia was accused of sending packages containing liquid explosive to the UK and Poland.
+One ignited shortly before it was loaded on to a DHL cargo plane. It is thought this was a test run for something significantly bigger.
+"That was a marked high in terms of their willingness to inflict mass casualties," Giles adds.
+It was a step so serious, the White House contacted the Kremlin to tell it to stop. Russia had probed and found the limit.
+But the attacks have continued. German media on Friday quoted a federal police report that lists more than 165 suspected sabotage cases nationwide this year, though they don't say who is responsible.
+Who are the suspected saboteurs?
+Reports from Germany suggest the men who loaded and launched the drones at Leipzig's airport were Russian, and at least one may have entered the country specially for this job.
+That would be unusual.
+The vast majority of sabotage attacks in Europe have been carried out by Russian proxies: its so-called "gig economy saboteurs".
+They are usually Russian-speakers from former Soviet states, recruited online and driven by the cash, not political conviction.
+In one case the BBC reported from Poland, the saboteurs-for-hire had previously fought for Ukraine as volunteers.
+The "handlers" are generally thought to remain in Russia, co-ordinating operations online.
+The IISS likened the proxies they used to kamikaze drones: cheap and easy to launch in large numbers, but disposable.
+The amateurs can be sloppy or reckless, though. In the parcel plot, one man failed to find a pick-up point and the whole mission had to be aborted.
+So if Moscow did send professionals for the Leipzig drone launch, it suggests it wanted precision - and success.
+In fact, the devices appear to have malfunctioned.
+Nato faced with Soviet-style campaign
+Russia's sabotage operations seem to come from the Cold War playbook. Daniela Richterova's research shows very similar targets on Soviet sabotage lists, and agents-saboteurs were used in much the same way.
+The idea, she says, was to have small, deniable attacks in peace-time that would escalate in times of war.
+"I think we are still in the grey zone between the two, but the kind of attacks we've seen in the past weeks shrink that zone," she says. "And I think that increases the risk of what happens next."
+As Nato scrambles to respond, questions like how many small, individual attacks add up to a sustained Russian assault - and demand action - remain unanswered.
+Perhaps riskier than all is the potential for escalation by accident.
+What if the exploding parcel had gone off mid-air and caused a crash? What if the Leipzig drone had brought down a plane?
+"I think it could result in a big attack," Richterova says. "Then Nato, in this heightened security environment, would not be able to ignore that, and have to react."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-04T16:49:15+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg",
     readTime: 2,
   },
   {
@@ -1366,198 +1720,6 @@ LSEGによるアナリストへの調査に基づいた、ルルレモンの第2
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 3,
-  },
-  {
-    id: "lululemon-s-sales-drop-raises-deeper-con-d1477f74",
-    title: "Lululemon’s sales drop raises deeper concerns about the company’s turnaround",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The stock is down as analysts question the yoga-wear maker’s fashion assortment.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/lululemons-sales-drop-raises-deeper-concerns-about-the-companys-turnaround-ddf9256a?mod=mw_rss_topstories",
-    publishedAt: "2026-09-03T20:43:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-88079580",
-    readTime: 2,
-  },
-  {
-    id: "zscaler-stock-rises-on-earnings-beat-upb-f6501ab7",
-    title: "Zscaler stock rises on earnings beat, upbeat guidance",
-    titleJa: "ゼットスケーラー株、好業績と明るい見通しで上昇",
-    summaryJa: "人工知能リスクの高まりがサイバーツールへの緊急需要を刺激する中、クラウドセキュリティ会社がウォール街の第4四半期決算予想を上回ったことを受け、木曜、ゼットスケーラー株は急騰した。LSEGの見積もりと比較した同社の業績は次のとおりです。",
-    bodyOriginal: `Zscaler stock soared on Thursday after the cloud security company beat Wall Street's fiscal fourth-quarter estimates as rising artificial intelligence risk spurred urgent demand for cyber tools.
-Here's how the company performed compared to LSEG estimates:
-- Earnings per share: $1.19 adjusted vs. $1.09 expected
-- Revenue: $898 million vs. $877 million expected
-Revenue jumped 25% from about $719 million last year. Zscaler reported a net loss of $3.4million, a loss of 2 cents per share, up from a net loss of $17.6 million, a loss of 11 cents per share, a year ago.
-CEO Jay Chaudhry highlighted the adoption of the company's Zero Trust cloud security architecture and innovative technology as driving forces behind the quarterly beat.
-He told CNBC he's "very bullish" on the recently launched Zero Trust iteration for AI agents, which is gaining early momentum and is expected to accelerate rapidly into fiscal years 2028 and 2029.
-"It's a longer-term opportunity, but I think it's a fantastic opportunity with significant barriers to entry," Chaudhry said.
-Annual recurring revenue rose 25% from a year ago to $3.77 billion, beating a $3.75 billion estimate from StreetAccount.
-Cybersecurity stocks have skyrocketed this year as increasingly sophisticated cyber models and the rise of agent-led attacks force businesses to adopt new security tools.
-While competitors have notched new highs this year, Zscaler shares have plummeted 20%. Last quarter, the stock recorded its worst day ever after management adopted a "prudent approach" to guidance following two sales leader departures.
-But Chaudhry says the market is missing the point on Zscaler's differentiation play.
-"The core competency we bring to the table is pretty unique, and as the adoption of AI agents happens, the market will recognize more and more that Zscaler is a critical player," he said.
-Like other cyber executives, Chaudhry views security for AI as one of the biggest opportunities. Over the last year, bookings totaled $100 million and grew more than 50% this quarter, sequentially.
-Zscaler's guidance also beat estimates. For the fiscal first quarter, the company called for $935 million to $939 million in revenue and adjusted EPS of $1.15 to $1.16. That beat a revenue estimate of $927 million and adjusted EPS of $1.08 per share.
-For the full year, the company anticipates revenue in the range of $3.91 billion and $3.94 billion, above the $3.90 billion estimate. Adjusted EPS is expected to range between $4.86 and $4.90, beating a $4.60 per-share estimate.`,
-    bodyJa: `人工知能リスクの高まりがサイバーツールへの緊急需要を刺激する中、クラウドセキュリティ会社がウォール街の第4四半期決算予想を上回ったことを受け、木曜、ゼットスケーラー株は急騰した。
-LSEGの見積もりと比較した同社の業績は次のとおりです。
-- 1 株当たり利益: 調整後 1.19 ドル、予想 1.09 ドル
-- 収益: 8 億 9,800 万ドル対予想 8 億 7,700 万ドル
-売上高は昨年の約７億１９００万ドルから２５％増加した。ゼットスケーラーは、純損失が340万ドル（1株当たり2セントの損失）となり、1年前の純損失1,760万ドル（1株当たり11セントの損失）から拡大したと報告した。
-CEO の Jay Chaudhry 氏は、同社のゼロトラスト クラウド セキュリティ アーキテクチャと革新的なテクノロジの採用が、四半期ごとのビートの原動力となっていると強調しました。
-同氏はCNBCに対し、最近立ち上げられたAIエージェント向けのゼロトラスト導入について「非常に強気」だと語った。これは初期段階で勢いを増しており、2028年度と2029年度に向けて急速に加速すると予想されている。
-「これは長期的な機会だが、参入障壁が大きい素晴らしい機会だと思う」とチョードリー氏は語った。
-年間経常収益は前年比25％増の37億7000万ドルとなり、StreetAccountの予想37億5000万ドルを上回った。
-サイバーモデルがますます洗練され、エージェント主導の攻撃が増加しているため、企業は新しいセキュリティツールの導入を余儀なくされており、今年サイバーセキュリティ株は急騰している。
-競合他社が今年最高値を更新する一方、ゼットスケーラー株は20％急落した。前四半期には、2人の営業リーダーの辞任を受けて経営陣がガイダンスに対して「慎重なアプローチ」を採用したことを受けて、株価は史上最悪の日を記録した。
-しかしチョードリー氏は、市場はズスケーラーの差別化戦略の要点を見逃していると言う。
-「私たちが提供するコアコンピテンシーは非常にユニークであり、AIエージェントの採用が進むにつれて、市場はZscalerが重要なプレーヤーであることをますます認識するでしょう」と彼は言いました。
-他のサイバー幹部と同様、チョードリー氏も AI のセキュリティが最大のチャンスの 1 つであると考えています。昨年の予約総額は 1 億ドルに達し、今四半期は引き続き 50% 以上増加しました。
-ゼットスケーラーのガイダンスも予想を上回った。会計年度第 1 四半期について、同社は売上高 9 億 3,500 万ドルから 9 億 3,900 万ドル、調整後の EPS は 1.15 ドルから 1.16 ドルと予想しました。これは売上高予想の9億2,700万ドル、調整後1株当たりEPSの1.08ドルを上回った。
-通期では売上高が予想の39億ドルを上回る39億1000万ドルから39億4000万ドルの範囲になると予想している。調整後のEPSは4.86ドルから4.90ドルの範囲になると予想されており、1株当たり予想の4.60ドルを上回っている。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
-    publishedAt: "2026-09-03T20:41:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "this-subtle-microsoft-change-could-be-a-d380927f",
-    title: "This subtle Microsoft change could be a big win for investors",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The tech giant is altering how it reports the performance of different business categories in a way that analysts say will make it easier to gauge AI and Azure momentum.`,
-    bodyJa: `テクノロジー大手は、AIとAzureの勢いを測りやすくするために、さまざまなビジネスカテゴリーの業績報告方法を変更しているとアナリストらは言う。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/this-subtle-microsoft-change-could-be-a-big-win-for-investors-bfacfb17?mod=mw_rss_topstories",
-    publishedAt: "2026-09-03T20:37:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-99465391",
-    readTime: 2,
-  },
-  {
-    id: "the-big-august-jobs-report-is-due-out-fr-5221d21d",
-    title: "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-    titleJa: "8月の主要な雇用統計は金曜日に発表される予定だ。仕事のない夏に何が起こるのか",
-    summaryJa: "金曜日に発表される8月の雇用統計は、比較的失業率が高かった夏に最終仕上げを行うと予想されている。ダウ・ジョーンズのコンセンサス予想によると、予想が維持されれば、労働統計局の非農業部門雇用者数の伸びはわずか5万3000人にとどまるだろう。貧血の成長率を考慮しても、失業率を4.1％に維持するには十分だと予想される。",
-    bodyOriginal: `The August jobs report set to be released Friday is expected to put the final touches on what has been a relatively jobless summer.
-If expectations hold, the Bureau of Labor Statistics count will show growth of just 53,000 in nonfarm payrolls, according to the Dow Jones consensus estimate. Even with the anemic growth rate, that is expected to be enough to keep the unemployment rate at 4.1%.
-More broadly, though, the report would follow counts for June and July that together showed a net loss of 3,000 jobs. Also, the initial August numbers have been revised lower for the past four years in a row.
-Together, the data suggest a labor market in neither boom nor bust mode — one that is increasingly becoming an afterthought for Federal Reserve officials looking to plot their next monetary policy action.
-The current state of the jobs picture is "stable but unexciting," said Dan North, senior economist for Allianz Trade North America.
-"I don't see a whole lot of really robust growth, which is understandable because if you're an employer, you're sitting here and you've got a war going on, energy prices going up and down, tariffs, and the administration changing everything overnight from day to day," he added. "So you've got a lot of uncertainties out there."
-Indeed, geopolitical uncertainty and the impact of artificial intelligence are two dominant labor market themes, along with a shrinking labor force that has helped keep the unemployment rate in check.
-Despite the various pressures, companies have avoided widespread layoffs. Weekly jobless claims have been in check, and the total layoff pace in 2026 is the slowest in four years, according to outplacement consultants Challenger, Gray & Christmas.
-Fed officials in recent days have said they consider the labor market far less of a concern than inflation. Governor Michael Barr earlier this week characterized the situation as "stable" and Governor Christopher Waller said Thursday the jobs picture is in "satisfactory shape" — hardly ringing endorsements, but enough to allow the Fed to consider raising rates without disturbing the labor market if inflation doesn't ease further.
-"Monthly payrolls readings have been softer in recent months, but low jobless claims and a steady unemployment rate have kept Fed officials unconcerned about the labor market," Citigroup economist Andrew Hollenhorst said in a note.
-Citi sees the August count at just 20,000 new jobs, following a loss of 23,000 in July, and a potential tick up in the unemployment rate to 4.2%. But Hollenhorst expects the Fed will see those numbers as "stable" and not cause for broader concern.
-Still, Citi thinks the Fed's next move will be a cut. Comments from Waller on inflation pushed traders to price in the likelihood the Fed would hold at its meeting in less than two weeks.
-August's report will be influenced by several factors outside the usual seasonal issues.
-The government in July canceled its Temporary Protected Status for thousands of Haitians, possibly lowering the employment rolls. The move has been projected to impact 350,000 Haitians.
-At the same time, Vanguard said its proprietary data on 401(k) accounts indicates a gain of just 8,000 jobs for the month, owing in some part to a "noticeable decline" in hiring in the 21-to-24 age bracket.`,
-    bodyJa: `金曜日に発表される8月の雇用統計は、比較的失業率が高かった夏に最終仕上げを行うと予想されている。
-ダウ・ジョーンズのコンセンサス予想によると、予想が維持されれば、労働統計局の非農業部門雇用者数の伸びはわずか5万3000人にとどまるだろう。貧血の成長率を考慮しても、失業率を4.1％に維持するには十分だと予想される。
-しかし、より広範には、報告書は6月と7月の統計を追跡し、合計で3,000人の雇用の純損失が示されることになる。また、8月当初の数字は過去4年連続で下方修正されている。
-これらのデータを総合すると、労働市場が好況でも不況でもないことを示唆しているが、次の金融政策措置を計画しようとしている連邦準備理事会当局者らにとって、こうした状況はますます後回しになりつつある。
-アリアンツ・トレード・ノース・アメリカのシニアエコノミスト、ダン・ノース氏は、雇用情勢の現状は「安定しているが、刺激的ではない」と述べた。
-「本当に堅調な成長はあまり見られない。それは当然だ。なぜなら、あなたが雇用主なら、ここに座っていても戦争が続いていて、エネルギー価格が上下し、関税がかかり、政権が一夜にして日々すべてを変えているからだ」と同氏は付け加えた。 「つまり、そこには多くの不確実性があるのです。」
-実際、地政学的不確実性と人工知能の影響は、失業率の抑制に貢献してきた労働力人口の減少とともに、労働市場の2つの主要なテーマである。
-さまざまな圧力にもかかわらず、企業は大規模な人員削減を回避してきた。再就職コンサルタント会社チャレンジャー・グレイ・アンド・クリスマスによると、毎週の失業保険申請件数は抑制されており、2026年の解雇総額は過去4年間で最も遅いペースとなっている。
-FRB当局者らはここ数日、労働市場はインフレよりもはるかに懸念事項ではないと考えていると述べている。マイケル・バー総裁は今週初めに状況を「安定している」と特徴付け、クリストファー・ウォーラー総裁は木曜日、雇用情勢は「満足のいく形」にあると述べた。大々的に支持するほどではないが、インフレが一段と緩和しない場合にFRBが労働市場を混乱させることなく利上げを検討できる程度には十分だという。
-シティグループのエコノミスト、アンドリュー・ホレンホースト氏はノートで「毎月の雇用統計はここ数カ月軟調だが、失業保険申請件数の低さと失業率の安定により、連銀当局者は労働市場について無関心なままだ」と述べた。
-シティは、7月に2万3000人減少したのに続き、8月の新規雇用数はわずか2万人にとどまり、失業率は4.2％に上昇する可能性があるとみている。しかしホレンホルスト氏は、FRBはこれらの数字を「安定」しており、より広範な懸念を引き起こすものではないとみなしていると予想している。
-それでもシティはFRBの次の一手は利下げになると考えている。ウォーラー氏のインフレに関するコメントを受けて、トレーダーらはFRBが2週間以内に会合を開催する可能性を織り込むようになった。
-8月の報告書は、通常の季節問題以外のいくつかの要因の影響を受けるだろう。
-政府は7月、数千人のハイチ人に対する一時的保護ステータスを取り消し、これにより雇用者数が減少する可能性がある。この動きは35万人のハイチ人に影響を与えると予測されている。
-同時にバンガードは、401(k)口座に関する独自のデータによると、21歳から24歳の年齢層における雇用の「顕著な減少」が一因で、同月の雇用の増加はわずか8,000人であると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-    publishedAt: "2026-09-03T19:38:09+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "vance-says-fed-should-lower-interest-rat-87120bb0",
-    title: "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
-    titleJa: "バンス氏、FRBは利下げすべきと発言「何らかの支援があれば嬉しい」",
-    summaryJa: "JDバンス副大統領は木曜日、住宅をより手頃な価格にするために連邦準備制度は金利を引き下げるべきだと述べ、ドナルド・トランプ大統領が中央銀行に対して借入コスト削減の圧力を強めていると述べた。この発言は、トランプ大統領が厳選してFRB議長に選んだケビン・ウォーシュ氏が、利上げによって高止まりするインフレに対処するという逆の行動の可能性をほのめかした数日後に行われた。",
-    bodyOriginal: `The Federal Reserve should cut interest rates to make homes more affordable, Vice President JD Vance said Thursday, adding to the pressure President Donald Trump has placed on the central bank to cut borrowing costs.
-The remarks came days after Trump's handpicked Fed chair, Kevin Warsh, hinted at the possibility of doing the opposite: addressing persistently high inflation by hiking rates.
-"Obviously the president cares a lot about interest rates," Vance said at a White House press briefing when asked by CNBC's Eamon Javers for the Trump administration's view on the volatile U.S. bond market.
-"One of the main reasons he cares a lot about interest rates is because he wants Americans to be able to afford a home," Vance said, referencing Trump. "When interest rates go higher, that means that borrowing costs are higher."
-"We believe that the Fed should be lowering interest rates," he said, calling it the "proper and responsible" response to recent U.S. inflation data.
-Vance added, "We're doing a lot of things to try to keep those interest rates down, but it would be nice to have some help from the Federal Reserve."
-Vance's remarks may add to concerns about the erosion of the Fed's independence under Trump, who aggressively pushed Warsh's predecessor to slash rates and is trying to fire Governor Lisa Cook.
-Less than a week earlier, Warsh said he is committed to bringing the inflation rate back down to the Fed's 2% target, and sees interest rates as the key tool to rein it in.
-"Short-term interest rates are the predominant tool to achieve the dual mandate," he said at a speech in Jackson Hole, Wyoming.
-Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether or not to adjust rates.
-The outcome of that meeting is far from certain: Traders are about evenly split on the odds of a rate hike at the Sept. 15-16 meeting, according to CME Group's FedWatch gauge.
-On Tuesday, Fed Governor Michael Barr said he would be prepared to back a rate increase if inflation stays elevated.
-But on Thursday morning, Governor Christopher Waller said he is more likely to keep rates steady.`,
-    bodyJa: `JDバンス副大統領は木曜日、住宅をより手頃な価格にするために連邦準備制度は金利を引き下げるべきだと述べ、ドナルド・トランプ大統領が中央銀行に対して借入コスト削減の圧力を強めていると述べた。
-この発言は、トランプ大統領が厳選してFRB議長に選んだケビン・ウォーシュ氏が、利上げによって高止まりするインフレに対処するという逆の行動の可能性をほのめかした数日後に行われた。
-バンス氏はホワイトハウスの記者会見で、ＣＮＢＣのイーモン・ジャバース氏から不安定な米債券市場に対するトランプ政権の見解を問われ、「大統領が金利を非常に気にしているのは明らかだ」と述べた。
-バンス氏はトランプ氏について言及し、「彼が金利を非常に気にする主な理由の一つは、米国人に住宅を購入できるようにしたいからだ」と語った。 「金利が上昇すると、借入コストが上昇することを意味します。」
-同氏は「われわれはFRBが金利を引き下げるべきだと考えている」と述べ、これが最近の米インフレ統計に対する「適切かつ責任ある」対応だと述べた。
-バンス氏は「われわれは金利を引き下げるために多くのことを行っているが、連邦準備理事会から何らかの支援が得られるとうれしい」と付け加えた。
-ヴァンス氏の発言は、ウォーシュ前任者に利下げを積極的に推進し、リサ・クック総裁の解任を画策しているトランプ政権下でFRBの独立性が損なわれるのではないかとの懸念を高める可能性がある。
-それから1週間も経たないうちにウォーシュ氏は、インフレ率をFRBの目標である2％に戻すことに全力で取り組んでおり、金利を抑制するための重要なツールであると考えていると述べた。
-同氏はワイオミング州ジャクソンホールでの講演で「短期金利は二重の責務を達成するための主要な手段だ」と述べた。
-バンス氏の発言は、連邦公開市場委員会が開催され、金利を調整するかどうか決定するまで２週間を切った。
-会合の結果は確実とは程遠い。CMEグループのフェドウォッチ指標によると、9月15日と16日の会合で利上げが行われる可能性について、トレーダーの意見はほぼ均等だという。
-マイケル・バーFRB理事は火曜日、インフレ率が高止まりすれば利上げを支持する用意があると述べた。
-しかし木曜日朝、クリストファー・ウォーラー総裁は金利を据え置く可能性が高いと述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
-    publishedAt: "2026-09-03T19:18:59+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "wall-street-is-betting-on-fed-chair-kevi-141803f4",
-    title: "Wall Street is betting on Fed Chair Kevin Warsh to keep a manic bond market from unraveling",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The market “needs stability and trust” as a deluge of corporate bond supply is expected in the coming months.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/wall-street-is-betting-on-fed-chair-kevin-warsh-to-keep-a-manic-bond-market-from-unraveling-03bbd093?mod=mw_rss_topstories",
-    publishedAt: "2026-09-03T19:09:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-06729967",
-    readTime: 2,
-  },
-  {
-    id: "openai-begins-rolling-out-astra-model-af-28f7d1af",
-    title: "OpenAI begins rolling out Astra model after warning of its advanced cyber capabilities",
-    titleJa: "OpenAIは、その高度なサイバー能力について警告を受け、Astraモデルの展開を開始",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `OpenAI on Thursday announced it will begin rolling out its latest artificial intelligence model, GPT-6 Astra, which the company said is the product of "years of research and big bets."
-The model is launching in phases, and OpenAI said a limited group of companies participating in its application-based cybersecurity program Daybreak will be the first to get access. OpenAI disclosed earlier this week that Astra is its first model to reach its "Critical" internal cybersecurity threshold, and said it planned to limit access to those advanced capabilities.
-OpenAI has been under pressure to shore up its security and safety protections after two of its models escaped containment, accessed the open web and breached Hugging Face's systems last month.
-The company temporarily paused some of its research and training efforts following the incident, including for Astra, even though it was not one of the models involved.
-"AI can only benefit people when safety is a core part of it, and so we're putting more compute and effort towards safety, security, alignment than ever before," OpenAI President Greg Brockman said during a briefing with reporters on Thursday.
-The company added additional safeguards to Astra following the Hugging Face breach, and it said Tuesday that it believes those safeguards "sufficiently minimize the risk of severe harm for release."
-Astra will roll out to users across OpenAI's ChatGPT Plus, Pro, Business, Enterprise plans, as well as through the OpenAI API and Amazon Web Services in "the coming days," OpenAI said.
-In addition to its advanced cybersecurity capabilities, Astra is state-of-the-art across functions like computer use, software engineering, professional work and science OpenAI said. The model is also better at staying oriented, respecting task boundaries, understanding user intent, completing tedious tasks and carrying out multi-step workflows, according to a release.
-"There's still more to do, I think that there's still lots of improvements to be made, but there is something significant here that I think is qualitatively improved, and that that to me is, is what is significant and a real shift in what kind of work people can delegate to AI and how it can empower them," Brockman said.
-OpenAI has spent much of the last year courting business customers in the fiercely competitive enterprise market, where it is racing against rivals including Anthropic and Google.
-CFO Sarah Friar told employees last month that its enterprise unit now accounts for more revenue than its consumer business, as CNBC previously reported, which makes it a crucial revenue engine as it gears up for what is widely expected to be a blockbuster IPO.
-The company confidentially filed its prospectus with the Securities and Exchange Commission in June, but it has not officially disclosed when it plans to debut. Friar recently told employees that OpenAI "will be a public company in 2027," but said the company could go out sooner if "our business continues to inflect."
-WATCH: OpenAI implements stronger safeguards for new Astra Model`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-    publishedAt: "2026-09-03T18:00:02+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
   },
 ];
 
