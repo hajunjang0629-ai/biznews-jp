@@ -1,5 +1,33 @@
 const ARTICLES = [
   {
+    "id": "german-far-right-set-for-big-win-in-east-272ebb47",
+    "title": "German far-right set for big win in eastern state, projections show",
+    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "bodyOriginal": "German far-right set for big win in eastern state, projections show\n- Published\nGermany's AfD is heading for a big victory in the eastern state of Saxony-Anhalt, far ahead of its mainstream rivals, according to initial projections. It is not yet clear if that would be enough to take power in the state but the AfD says it has won a mandate to govern.\nThe far-right Alternative for Germany is set to win a record 44% of the vote, well ahead of the conservative CDU on 17.8%.\nThe AfD's charismatic leader in the state, Ulrich Siegmund, said it was \"sensational\" and they wanted to start governing as soon as possible.\nNo far-right party has won control of a German state since World War Two, and governing at state level would mean powers over policing, local education and culture.\nSaxony-Anhalt has a small population of 2.1 million and the AfD in the state is assessed by domestic intelligence as \"right-wing extremist\", a classification rejected by Siegmund.\nThe AfD's projected result is higher than earlier opinion polls suggested, and Siegmund along with joint national leaders Alice Weidel and Tino Chrupalla were overjoyed as the news emerged. Commentators and political opponents spoke of the outcome as a watershed and break with the past.\n\"This isn't just about Saxony-Anhalt,\" Siegmund told supporters. \"It's a signal for the whole of Germany - a self-confident signal.\"\nUS President Donald Trump posted a screenshot of the German TV projection on his Truth Social platform, and then Russian presidential envoy Kirill Dmitriev took a screengrab of Trump's post and praised a \"historic win for the pragmatic AfD\".\nDmitriev had earlier praised the Russia-friendly AfD as \"the party of hope and reason, co-operation truth and hope for Germany\". Ahead of Germany's federal election last year, US Vice-President JD Vance endorsed the party, in a move criticised in Germany as political interference.\nThe AfD's leaders will not know if they have enough seats to govern until they see which of the smaller parties get into the state parliament. Siegmund has so far refused to lead a minority government, but the party's national leaders see it as a possibility.\nA big questionmark hangs over whether one populist left-wing party, BSW, gets over the 5% threshold needed to enter parliament.\nIf BSW fails, then the AfD's chances of a majority increase. If they get in, the AfD is currently heading for 39 seats in the 83-seat state parliament.\nA crowd of supporters at the AfD election night party HQ erupted in cheers as the projections came up on the screen.\nA short while later, people burst into singing Germany's national anthem.\n\"We have made history in this state,\" Siegmund said. His opposite number in the CDU, Sven Schulze, conceded victory and said his party would have to deal with the result: \"This was an extremely tough and intensive election campaign.\"\nGermany's centre-left SPD described the outcome as \"truly dramatic\" and national leader Lars Klingbeil, whose party is in government nationally with the CDU, described the outcome as a \"signal to Berlin\" and he was adamant that they would hear it.\nAfD stands for Alternative für Deutschland and it openly pro-Russia and anti-migration. It has not only dominated the election campaign, it is emerging as the dominant force in the result as well. Although the outcome was initially unclear, the party's supporters believe they are on the march.\nTurnout in Saxony-Anhalt was particularly high at an estimated 78%, and AfD supporters in Magdeburg praised Siegmund's success in winning over voters.\nOne man called Ollie said: \"This man gives us what no-one else can give.\"\n\"No matter what government, they all just promise things to get better. This is a party for the working people. It is the alternative for Germany,\" he told the BBC.\nAnother AfD voter called Bert said people in the east could sense things were not going well: \"Things need to improve for us, for my family - I have three children. I'm in fear, I'm really in fear that safety erodes more and more.\"\nOther parties refuse to go into coalition with the AfD, operating a Brandmauer or firewall aimed at keeping the far right out of government. In Saxony-Anhalt, the BSW has offered to co-operate with the AfD on some issues if it gets into the state parliament.\nThe AfD leads the opinion polls nationally, ahead of the ruling conservatives of Chancellor Friedrich Merz and the Social Democrats, but their heartland lies in the eastern states.\nThey also won the 2024 state election in neighbouring Thuringia, but failed to secure enough seats to win power.\nAmong the AfD's policies is a highly controversial plan for \"remigration\", which is widely understood to mean mass deportations of migrants, although the party says it refers to deporting criminals and those in the country illegally. It would not be able to achieve either if it ran the government of one of 16 states.\nBut it would have powers over state policing, education and culture. The party has been particularly critical of the Bauhaus school of design, which the Nazis shut down after they came to power in 1933.\nResponding to the news from Saxony-Anhalt, the veteran head of the Jewish community in Munich and Bavaria, Charlotte Knobloch, said it frightened her. \"On days like this I find it hard to recognise my homeland any more,\" the 93-year-old Holocaust survivor said, appealing for mainstream parties not to stand by and allow \"this decline\".\nOne of the AfD's top figures in Saxony-Anhalt, Hans-Thomas Tillschneider, has also been criticised for his approach to Russia. When asked why he had a Russian army mug in his office, he said it was just a souvenir, and \"it's not our war\".\n- Published1 day ago",
+    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n隣国チューリンゲン州でも2024年の州選挙で勝利したが、政権を獲得するのに十分な議席を確保できなかった。\nAfDの政策の中には、非常に物議を醸している「移民」計画がある。これは移民の大量国外追放を意味すると広く理解されているが、AfDは犯罪者や不法滞在者の国外追放を指すとしている。 16 州のうちの 1 つの州の政府を運営したとしても、どちらも達成することはできないでしょう。\nしかし、国家の警察、教育、文化に対する権限を持つことになる。同党は特にバウハウスデザイン学校を批判してきたが、ナチスは1933年に政権を握った後に同校を閉鎖した。\nザクセン・アンハルト州からの知らせに対し、ミュンヘンとバイエルン州のユダヤ人コミュニティのベテラン責任者シャーロット・ノブロック氏は、恐怖を感じたと語った。 「このような日には、もう祖国を認識するのが難しいと感じる」と93歳のホロコースト生存者は語り、主流政党に対し「この衰退」を黙って放置しないよう訴えた。\nザクセン・アンハルト州におけるAfDの幹部の一人であるハンス・トーマス・ティルシュナイダー氏も、ロシアへのアプローチで批判されている。なぜロシア軍のマグカップがオフィスにあるのかと尋ねると、それは単なる記念品であり、「これは私たちの戦争ではない」と答えた。\n- 1 日前に公開",
+    "source": "BBC",
+    "sourceUrl": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+    "publishedAt": "2026-09-06T20:16:35+00:00",
+    "category": "貿易",
+    "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+    "readTime": 2
+  },
+  {
+    "id": "sec-sues-iss-as-trump-administration-ram-8117eaba",
+    "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "bodyOriginal": "The Securities and Exchange Commission sued Institutional Shareholder Services, seeking to force the influential proxy adviser to turn over information as the Trump administration steps up scrutiny of firms that help investors decide how to vote their shares.\nThe SEC filed the subpoena-enforcement action Friday in the U.S. District Court for the Eastern District of Pennsylvania, saying ISS had refused to fully comply with an administrative subpoena seeking information about its proxy recommendations and voting activity.\nThe agency's Division of Examinations began reviewing ISS in March and requested data related to the firm's recommendations and votes, the SEC said. After ISS did not produce all of the requested information, the enforcement division opened an inquiry and issued a subpoena on July 21.\nThe SEC said ISS has continued to withhold some records despite extended deadlines and repeated efforts to resolve the dispute. The regulator said its investigation remains in the fact-finding stage and that it has not concluded ISS violated federal securities laws.\nISS argued in correspondence with the SEC that the subpoena raised First Amendment concerns and could expose ISS and its clients to retaliation over their voting activity.\nISS did not immediately respond to CNBC's request for comment.\nThe lawsuit comes amid a broader Trump administration push to tighten oversight of proxy advisers, which provide institutional investors with research and recommendations on shareholder votes covering issues including board elections, executive compensation and shareholder proposals.\nPresident Donald Trump signed an executive order in December directing the SEC to review its rules and guidance on proxy advisers, enforce securities-law antifraud provisions and consider additional disclosure and regulatory requirements.\nThe order specifically named ISS and rival Glass Lewis, which the White House said together control more than 90% of the proxy-advisory market.\nISS is registered with the SEC as an investment adviser. The SEC is asking the court to order the firm to comply with the outstanding subpoena.\nWATCH: Dartmouth's Paul Argenti says, 'I fear the real interest here is political'",
+    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "CNBC",
+    "sourceUrl": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+    "publishedAt": "2026-09-06T17:53:53+00:00",
+    "category": "テクノロジー",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    "readTime": 2
+  },
+  {
     "id": "sugar-is-outperforming-the-stock-market-2c359012",
     "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
     "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -11,6 +39,20 @@ const ARTICLES = [
     "publishedAt": "2026-09-06T13:19:01+00:00",
     "category": "エネルギー",
     "imageUrl": "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    "readTime": 2
+  },
+  {
+    "id": "is-the-u-s-losing-its-safe-haven-status-70eb66b6",
+    "title": "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
+    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "bodyOriginal": "What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.",
+    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
+    "publishedAt": "2026-09-06T13:00:00+00:00",
+    "category": "金融政策",
+    "imageUrl": "https://images.mktw.net/im-31764368",
     "readTime": 2
   },
   {
@@ -336,6 +378,20 @@ const ARTICLES = [
     "readTime": 5
   },
   {
+    "id": "with-hsas-employers-are-turning-to-the-4-e319d946",
+    "title": "With HSAs, employers are turning to the 401(k) playbook",
+    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "bodyOriginal": "Employers are increasingly turning to the 401(k) playbook to boost their workers' uptake of health savings accounts.\nHSAs are tax-advantaged accounts that carry powerful financial benefits relative to other types of savings accounts. They carry a three-pronged tax break: Money that savers contribute to HSAs doesn't count toward their taxable income; investments within the accounts grow tax-free; and accountholders can make tax-free withdrawals for qualified health expenses.\nIn 2025, nearly 46% of employers automatically opted workers into an HSA if the employee enrolled in a high-deductible health plan, according to a report published in August by the Plan Sponsor Council of America, a trade group representing employers.\nThat share has jumped from 32% in 2019, according to PSCA data.\nA deductible is the amount of money consumers pay out of pocket before their insurance kicks in. High-deductible plans carry deductibles of at least $1,700 for individuals and $3,400 for families in 2026, according to the IRS.\n\"I think that we've seen a lot of success with automatic features in retirement plans,\" said Hattie Greenan, the PSCA's director of research and communications. \"And employers are looking at how they can adopt that with other benefits.\"\nAutomatic enrollment — or, auto-enrollment — is generally considered a best practice among workplace retirement plans like 401(k)s when it comes to boosting participation among workers.\nAbout 64% of employers auto-enrolled workers into a 401(k) plan in 2025, according to PSCA data. A federal retirement law known as Secure 2.0, which passed in 2022, required most newly formed 401(k) plans to auto-enroll workers starting last year.\nBy automatically enrolling employees into workplace savings plans, including HSAs, employers aim to remove the friction that generally comes from asking employees to opt in voluntarily — and, ideally, boost participation among workers.\n\"If you rely on individuals to open their own accounts, it's much more difficult\" to increase participation, said Ann Brisk, senior managing director of strategy and innovation at HSA Bank, which administers health savings accounts.\nMost employers make HSA contributions\nEmployers who auto-enroll workers into 401(k) plans automatically deduct a portion of each paycheck — 3% or 6%, for example — and add those funds into the employee's retirement account.\nThis setup is rare among HSA plans, experts said. Companies that auto-enroll their employees in an HSA typically seed the accounts. About 77% of employers provided employees with an HSA contribution in 2025, according to PSCA data.\nIn this setup, auto-enrollment is a way for employers to help their employees afford health expenses — via an employer contribution — at a time when the cost of healthcare is soaring, experts said.\n\"I think there's a recognition that health care is expensive, and supporting employees with that is essential,\" Greenan said.\nAbout a third of employers that make a contribution — 32% — contributed between $500 and $1,000 per worker to the accounts, while 29% paid $1,350 or more and 22% paid $500 or less, the PSCA found.\nEmployers contribute these funds into a liquid, cash-like account within the HSA, rather than contributing to investments like a stock mutual fund, Brisk said. Employees can generally shift their HSA funds into such investments once their account balance exceeds a threshold set by their HSA provider.\nIn 2026, total worker and employer contributions to HSAs for self-only coverage can't exceed $4,400 for the year. The limit is $8,750 for family coverage.\n401(k) 'match' also catching on in HSAs\nAnother common benefit within workplace retirement plans — the 401(k) match — seems to be catching on for HSAs, too, Brisk said. In this case, the employee must contribute to the HSA to receive the employer funds.\nRoughly 10% of employers that pay an HSA contribution to workers match the employee's contributions, according to PSCA data. Another 7.5% are considering it, the group found.\n\"It's very similar to a 401(k),\" Brisk said. \"We think it is very easy for people to understand, and encourages people to put money in their own account.\"\nThe trend in HSA auto-enrollment also comes as more employers have turned to high-deductible health plans, which generally come with lower premiums than traditional co-pay plans, to help defray their costs.\nAmong employers offering health benefits to workers, 31% offered a high-deductible plan paired with an HSA in 2025, up from 4% in 2005, according to KFF, a health policy research group.",
+    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    "source": "CNBC",
+    "sourceUrl": "https://www.cnbc.com/2026/09/05/hsa-401k-plan-retirement-automatic-enrollment.html",
+    "publishedAt": "2026-09-05T12:15:42+00:00",
+    "category": "金融政策",
+    "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    "readTime": 2
+  },
+  {
     "id": "gm-vs-ford-u-s-defense-energy-sectors-ad-d9266806",
     "title": "GM vs. Ford: U.S. defense, energy sectors add to automakers' century-old rivalry",
     "titleJa": "GM vs. フォード：米国の防衛、エネルギー分野で自動車メーカーの100年にわたるライバル関係が激化",
@@ -501,62 +557,6 @@ const ARTICLES = [
     "publishedAt": "2026-09-04T20:12:00+00:00",
     "category": "テクノロジー",
     "imageUrl": "https://images.mktw.net/im-319090",
-    "readTime": 2
-  },
-  {
-    "id": "tesla-s-stock-drops-6-as-cybercab-update-c9b3993a",
-    "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
-    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "bodyOriginal": "Tesla shares slid 6% on Friday after the electric vehicle maker's long-awaited Cybercab update failed to impress investors who are betting the company can become a major player in the U.S. robotaxi market currently dominated by Alphabet's Waymo.\nThe Cybercab, which Tesla first showed off almost two years ago, has been in production since April. It's a bronze-colored, two-seat robotaxi with scissor, or butterfly, doors and no steering wheel or pedals.\nTesla held an event Thursday in Austin, Texas, but it was invite-only, wasn't streamed and CEO Elon Musk never made an appearance. The company said users of its Tesla Robotaxi ride-hailing app could now catch a driverless trip in a Cybercab within a \"geofenced\" area around Austin.\nAnalysts at RBC Capital Markets wrote in a note on Friday that Tesla had only \"offered limited new incremental disclosure relative to prior announcements, with key outstanding questions around pricing, production cadence, and regulatory approvals remaining open.\"\n\"The event lacked a public livestream — a notable departure from Tesla's traditionally theatrical product reveals,\" wrote the analysts, who recommend buying Tesla shares.\nAlso on Thursday, the National Highway Traffic Safety Administration initiated an \"audit query\" to determine if Tesla had properly self-certified the Cybercab as safe for use on public roads, and in compliance with applicable federal safety standards.\nThe stock's drop on Friday follows a 5.4% gain on Thursday ahead of the event.\nWells Fargo analysts published a note with the headline \"TSLA Cybercab Launch Event Underwhelms\" and noted that the company's Austin robotaxi service is \"facing early execution issues.\" Users have shared videos and complaints about Tesla Robotaxi routing errors, missed destinations and excessive wait or ride times.",
-    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "source": "CNBC",
-    "sourceUrl": "https://www.cnbc.com/2026/09/04/teslas-stock-drops-as-cybercab-update-underwhelms-nhtsa-probe.html",
-    "publishedAt": "2026-09-04T20:06:13+00:00",
-    "category": "自動車",
-    "imageUrl": "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    "readTime": 2
-  },
-  {
-    "id": "trump-s-peace-envoys-to-visit-moscow-and-40215e7d",
-    "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "bodyOriginal": "Trump's peace envoys to visit Moscow and Kyiv over weekend\n- Published\nUS negotiators Steve Witkoff and Jared Kushner will visit Russia and Ukraine this weekend, as efforts to end the war appear to be gathering pace.\nUkraine's Volodymyr Zelensky confirmed he will meet the envoys on Sunday, after they visit Moscow on Saturday to hold talks with Russian President Vladimir Putin.\nWitkoff and Kushner have led US President Donald Trump's efforts to broker a peace deal, but a gulf remains between the two warring sides.\n\"They are bringing with them a proposal to end the war,\" Trump told reporters when asked about the visits.\nEarlier on Friday, Zelensky said a Russian drone hit the office of Ukraine's security chief Oleksandr Poklad in Kyiv. Poklad appears to be unharmed.\nIn a post on social media, Zelensky said he had ordered Poklad, who head the SBU security service, to respond \"adequately\" to the attack.\nWitkoff and Kushner, Trump's son-in-law, have visited Russia multiple times, but the purported talks will be the first in Ukraine.\nZelensky said he would guarantee the safety of Russian airspace during the envoys' visit and called for Russia to do the same for Ukraine.\nRussia's state news agency Tass said Witkoff and Kushner were \"expected to arrive in Moscow and then to Kyiv... on 5-6 September\", quoting a source.\nKremlin spokesman Dmitry Peskov later told reporters: \"I wouldn't announce anything, but when these contacts take place, we will inform you.\"\nMeanwhile, Putin told an international economic forum on Thursday that \"there are chances\" a peace deal could be reached.\n\"First of all, Moscow and Kyiv must agree between themselves,\" he said.\nBut he showed no sign of backing down from his maximalist demands, which included more territorial concessions from Ukraine.\nKyiv and its European allies have repeatedly rejected Putin's terms saying they are tantamount to capitulation.\nRussia launched a full-scale invasion of Ukraine in February 2022, and currently controls about 20% of its territory.\n- Published3 days ago",
-    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "source": "BBC",
-    "sourceUrl": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-    "publishedAt": "2026-09-04T20:03:52+00:00",
-    "category": "貿易",
-    "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg",
-    "readTime": 2
-  },
-  {
-    "id": "here-s-what-s-worth-streaming-in-septemb-54a61281",
-    "title": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and more",
-    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "bodyOriginal": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
-    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
-    "publishedAt": "2026-09-04T20:00:00+00:00",
-    "category": "テクノロジー",
-    "imageUrl": "https://images.mktw.net/im-62390842",
-    "readTime": 2
-  },
-  {
-    "id": "why-oracle-s-stock-looks-like-a-compelli-19750b74",
-    "title": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
-    "titleJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "summaryJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "bodyOriginal": "While there are long-term debates around Oracle’s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week.",
-    "bodyJa": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
-    "publishedAt": "2026-09-04T19:59:00+00:00",
-    "category": "金融政策",
-    "imageUrl": "https://images.mktw.net/im-38729129",
     "readTime": 2
   }
 ];
