@@ -15,6 +15,118 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "us-envoys-set-for-ukraine-talks-after-me-740da010",
+    title: "US envoys set for Ukraine talks after meeting Putin in Moscow",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `US envoys set for Ukraine talks after meeting Putin in Moscow
+- Published
+Two US envoys are hoping for "equally productive meetings" in Ukraine after holding talks with Russian President Vladimir Putin in Moscow on ending the war, US officials say.
+Steve Witkoff and Jared Kushner are set to land in Kyiv on Sunday, having "discussed substantive plans for next steps" with Putin on Saturday, according to the White House.
+It is not yet clear exactly what they are, but an announcement is expected in the coming weeks, as efforts to end the war in Ukraine gather pace.
+It will be to the first trip by US President Donald Trump's top negotiators to Ukraine's capital. Putin and Ukrainian President Volodymyr Zelensky have agreed to halt strikes on each other's capitals for three days.
+As Witkoff and Kushner were negotiating at the Kremlin, Zelensky said he was ready for "a substantive conversation".
+Saturday's talks in Moscow lasted three hours and were held behind closed doors in Putin's official residence in the heart of the Russian capital, according to Russian state media.
+Details are still emerging, but both sides have given broadly positive remarks without going into specifics.
+Putin adviser Yuri Ushakov described the talks as "constructive, extremely frank".
+"The talks were not limited to an exchange of views on resolving the Ukrainian crisis - economic issues and potential major, mutually beneficial Russian-American projects were discussed in considerable detail," he said.
+Ushakov also said "note was made of the Russian army's tangible advances in the combat zone" and that there was acknowledgement that talks needed to address "the root causes of the conflict".
+Despite an escalation of Russian missile and drone strikes on Ukrainian cities including Kyiv, Russian ground forces have made very slow advances for most of the conflict, incurring enormous casualties. Russia still controls about one-fifth of Ukrainian territory - areas that it seized back in 2022.
+Kushner and Witkoff have visited Russia several times but given Ukraine's airspace has been closed since Russia launched its full-scale invasion in February 2022, it is not clear how they will be travelling to Kyiv from Moscow.
+The talks come after Russia and Ukraine have intensified aerial attacks in recent months.
+Ukraine says it has struggled to repel ballistic missile attacks due to a lack of interceptor missiles, while Kyiv has focused its strikes on Russian economic infrastructure targets, notably oil installations.
+- Published3 hours ago
+- Published30 December 2025`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-06T02:24:16+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "poverty-doesn-t-have-to-be-my-reality-i-6f6dcab9",
+    title: "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "「一部の人々がどのようにして巨額の資産を持って退職することができたのか、私はいつも困惑していました。」",
+    bodyOriginal: `“It always baffled me how some people managed to retire with significant wealth.”`,
+    bodyJa: `「一部の人々がどのようにして巨額の資産を持って退職することができたのか、私はいつも困惑していました。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+    publishedAt: "2026-09-05T23:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-10854269",
+    readTime: 2,
+  },
+  {
+    id: "why-does-almost-nobody-want-to-befriend-7ef46d7b",
+    title: "Why does almost nobody want to befriend older people like me — except scammers?",
+    titleJa: "詐欺師を除いて、私のような年上の人々と友達になりたがる人はなぜほとんどいないのでしょうか?",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“I’d rather leave my estate to people who spent time with me because they genuinely valued my company.”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-does-almost-nobody-want-to-befriend-older-people-like-me-except-scammers-fda849d1?mod=mw_rss_topstories",
+    publishedAt: "2026-09-05T23:07:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-39792082",
+    readTime: 2,
+  },
+  {
+    id: "us-and-iran-trade-retaliatory-attacks-on-2e633ecc",
+    title: "US and Iran trade retaliatory attacks on ships as conflict flares",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `US and Iran trade retaliatory attacks on ships as conflict flares
+- Published
+The US and Iran traded retaliatory attacks on ships on Saturday, in the latest round of strikes since fighting flared up a week ago following a month of relative calm.
+The US military said it had "permanently disabled" two Iran-linked oil tankers, including one near Kharg Island, and "completely destroyed" a third in the Gulf of Oman.
+Iran's state media confirmed the strikes and said Tehran had attacked three US-affiliated vessels in response, as well as three oil tankers travelling through the Strait of Hormuz along an "unauthorised" route.
+The BBC has approached US Central Command (Centcom) for comment about Iran's latest claims to have targeted US ships.
+The strikes come a day after President Donald Trump dismissed the conflict as "small potatoes", with little apparent progress towards ending the six-month war. He has not commented on Saturday's attacks.
+The news of Iran's latest retaliation came hours after Defence Secretary Pete Hegseth wrote on social media: "It's simple: if Iran shoots at US ships, we will destroy (and sink) their oil tankers."
+According to US Central Command (Centcom), two US warships had been targeted by Iran before the American attack on three Iran-linked oil tankers.
+Centcom said it "successfully evaded" the multiple attacks from the IRGC earlier in the day, which were targeting a US aircraft carrier and guided-missile destroyer. No American troops were harmed, it said.
+Centcom, which oversees US military operations in the Middle East, claimed that the three Iranian oil tankers it hit were "part of a multi-billion-dollar shadow network that funds the IRGC and its regional proxies".
+Iranian state media outlet Irib reported that there were no casualties in Saturday's attack from the US on the tanker near Kharg Island.
+Kharg Island hosts Iran's main terminal to export oil. Some 90% of the country's crude oil comes through the island, transported through pipes from the mainland.
+The crews aboard the two attacked tankers in the Gulf of Oman were taken to shore in lifeboats, Irib reported. One of those tankers was empty and the other was carrying a load of oil, it added.
+Several hours later, Irib reported that Iran's Islamic Revolutionary Guard Corps (IRGC) had retaliated against six ships in the region - three oil tankers in the Strait of Hormuz and three vessels "affiliated" with the US "in other areas".
+According to Irib, the IRGC said the three oil tankers were using "unauthorised" routes through the strait and it warned other ships not to do so.
+The strait, which is crucial to the world's oil and gas industry, has been effectively closed since the war began in February, and has become a major source of leverage for Iran.
+Tehran has insisted it will not give up some measure of control over the waterway and has previously targeted vessels using a southern route through Omani waters that avoids its preferred route through Iranian waters.
+Despite the Iranian attacks, Trump has declared that the strait is "open" and the US military has been helping ships navigate the southern route.
+After a period of relative calm, the US resumed attacks last Sunday, when it said it had struck two rocket launchers to prevent them being used to lay naval mines in the Strait of Hormuz.
+How could US-Iran conflict end? Three experts give their views
+- Published1 day ago
+On Tuesday, Trump said the US had launched a further "very heavy attack", but claimed the renewed fighting would not last "too long".
+The strikes prompted Iran to retaliate against US targets in the region, including in the United Arab Emirates (UAE), Bahrain, Kuwait and Jordan.
+On Thursday, US Vice-President JD Vance also addressed claims by Iran that American strikes killed at least four people, including two children, at a wedding in southern Iran. He said he was "extremely sceptical" over reports of the alleged strike, but confirmed the US would investigate.
+Humanitarian group the Iranian Red Crescent Society said shrapnel from a missile hit the ceremony at a home in Sirik on Tuesday, prompting Tehran to declare it a "war crime".
+What we know about reported strike on Iran wedding celebrations
+- Published3 days ago
+A 60-day ceasefire between the US and Iran formally expired last month, with little sign of a further diplomatic settlement on the horizon.
+Days after the ceasefire expired, Trump said the US would launch tougher economic measures against Iran, as well as any country that helps or does business with it.
+On Friday, Trump repeated the US position that the conflict is not a "war".
+"I call it a military conflict because it's small potatoes for us. It's not a big thing," Trump said, referring to the ongoing attacks as "intermittent".
+The US and Israel first launched wide-ranging strikes on Iran on 28 February, with Iran responding by attacking Israel, US bases and allied states in the Gulf, and effectively closing the Strait of Hormuz to marine traffic.
+The Strait of Hormuz previously served as one of the busiest oil-shipping routes, carrying about 20% of the world's oil and liquefied natural gas supplies.
+The squeeze on the strait has raised energy prices globally. And, ahead of the US midterm elections in November, Trump is facing pressure over how much the war is costing American consumers.
+On Friday, the average price for one gallon of diesel in the US hit $5.85, compared to an average of $3.71 a year ago.
+Related topics
+- Published5 days ago
+- Published28 August`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-05T22:44:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
+    readTime: 2,
+  },
+  {
     id: "lebron-james-teases-partnership-with-pol-d33ecd33",
     title: "LeBron James teases partnership with Polymarket",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1391,200 +1503,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "analysis-lower-treasury-yields-could-req-3ad6d71d",
-    title: "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-    titleJa: "分析: 国債利回りの低下は経済の低迷を必要とする可能性がある。トランプは問題を解決しないだろう",
-    summaryJa: "ホワイトハウス自身が債券利回りを引き下げようとしているにもかかわらず、ドナルド・トランプ大統領の政権の政策が債券利回りを高く維持するのに役立っている。 80歳の大統領が地位を変える可能性は低いため、米国人は金利緩和に必要な政策を好まないかもしれない。つまり、経済の低迷により借入コストは下がるが、米国の成長は阻害されるというものだ。中央銀行や準備預金保有者が一部の民間部門に比べて買い手としての立場を退いており、米国債の投資家層はここ数年で価格に敏感になっている。そうした世界的な投資家の中には、トランプ政権下の政策変更が経済状況を悪化させる影響を及ぼしているため、米国債を敬遠し始めている人もいる。これは、赤字支出の洪水と人工知能の構築に資金を提供する国債発行の急増との間で資本を巡る競争の兆候がすでに見えている市場にとって、これは不快な展開だ。",
-    bodyOriginal: `President Donald Trump's administration's policies are helping keep bond yields higher despite the White House's own attempts to lower them. With the 80-year-old president unlikely to change his spots, Americans may not like what it could take to provide interest-rate relief: a weaker economy that cools borrowing costs but undercuts U.S. growth.
-The investor base for U.S. debt has become more price-sensitive over the years as central banks and reserve holders have stepped back as buyers relative to parts of the private sector. Some of those global investors are starting to shun U.S. debt because policy changes under Trump have had the effect of worsening the economics for them. That is an uncomfortable turn for markets that are already seeing signs of a competition for capital between the flood of deficit spending and the surge of debt issuance funding the buildout of artificial intelligence.
-The yield on the 10-year U.S. Treasury note has risen by roughly three quarters of a percentage point in the past six months. Lately it has hovered near 4.8%, the highest yield of the second Trump administration, despite efforts to bring it down. The Treasury Department will start next week to increase its buybacks of some long-term U.S. debt, an effort designed to improve liquidity in the market. Investors have also raised interest rates as they try to infer how new Federal Reserve Chairman Kevin Warsh will react to inflation that remains above the Fed's 2% target.
-"Of course, everybody wants to ask for a bit more price to lend money to the U.S.," Ludovic Subran, chief investment officer and chief economist for Allianz, a European insurer and asset manager, said in an interview.
-That judgment isn't political — it's "pure economics," Subran said.
-Subran ticked off a set of factors he says have come to add something resembling credit risk to U.S. debt: "soaring [federal budget and trade] deficits, Fed unfazed by inflation, Treasury tampering with markets." He doesn't necessarily believe the U.S. will default on its debts, but he said Allianz — like many other global investors — has had to pay more to hedge its bets in the U.S.
-The U.S. is projected to hit its $41.1 trillion debt limit between late-winter and mid-summer 2027.
-This year, "we also have decided not to find duration in the U.S. fixed-income market like before, because it's not interesting," Subran said.
-After accounting for inflation and hedging, "we were not making money," he said.
-The rise in yields is a source of aggravation for Americans already frustrated by affordability problems. Mortgage rates have risen to nearly 6.8%. Mortgage rates move with the 10-year Treasury yield. So do auto loans and other forms of consumer debt.
-Political risks to yields persist
-There is little sign of easing in the political factors pushing up yields. A fall in oil prices might bring some relief, but an end to the Iran war remains elusive. There is no appetite in Washington to make the political compromises that would ease deficit spending. A meeting of global finance ministers and central bankers in North Carolina this week produced political shots at Canada. Coordinated action to ease borrowing costs wasn't on the agenda.
-Meanwhile, some large holders are looking to move out of Treasurys into higher-yielding debt. Norway's massive sovereign wealth fund is considering shifting roughly $80 billion of its portfolio now in government debt into other parts of the bond market such as mortgage-backed securities.
-Meanwhile U.S. government borrowing continues to rise. The Congressional Budget Office recently had to revise up its expectations for the deficit this fiscal year to $2.1 trillion, a figure that is likely to exceed 6% of gross domestic product. That is an enormous volume of borrowing outside crisis times.
-AI is driving major new corporate borrowing, too. JP Morgan estimates that five major tech firms, Nvidia, and special-purposes vehicles those companies use to backstop data-center leases have issued about $320 billion in debt so far this year.
-"Hyperscalers are issuing so much debt that they may be causing a supply-demand issue at the long end of the yield curve," Michael Cembalest, chairman of market and investment strategy for J.P. Morgan Asset Management, wrote to clients this week.
-That isn't necessarily a bad thing. AI is a bright spot in a U.S. economy hurting for sources of growth. GDP grew by 1.5% in the second quarter, a weaker-than-expected figure that is likely being dragged down by the sharp slowdown in immigration into the U.S. after Trump's crackdown. The labor market has also showed unusual moves lately. Friday's report that payrolls grew by 162,000 comes against a longer-term environment where firms are reluctant to hire or fire.
-Competition in the debt market could drive an innovation boom as firms vie for the market's favor. It's too early to make a definitive judgment, but the possibility of that kind of growth and productivity boom is one explanation for the rise in real yields, which adjust for inflation.
-The 10-year TIPS yield — a Treasury instrument that accounts for inflation — has risen by 67 basis points over just the past six months, to 2.43% on Thursday, according to FactSet data. Breakevens, which measure inflation, have been flat over the same period.
-The rise in real yields is "more of a reflection of the strength of the economy," New York Federal Reserve President John Williams told CNBC Wednesday. Some people want to read the rise in yields as dragging on the economy, but that logic is backward, he said.
-"It's not really about financial conditions affecting the economy. It's more about the economy affecting financial conditions," Williams said.
-The flip side of Williams' analysis is that it may take an economic slowdown for borrowing costs to cool. But that isn't a solution anyone would want to root for.`,
-    bodyJa: `ホワイトハウス自身が債券利回りを引き下げようとしているにもかかわらず、ドナルド・トランプ大統領の政権の政策が債券利回りを高く維持するのに役立っている。 80歳の大統領が地位を変える可能性は低いため、米国人は金利緩和に必要な政策を好まないかもしれない。つまり、経済の低迷により借入コストは下がるが、米国の成長は阻害されるというものだ。
-中央銀行や準備預金保有者が一部の民間部門に比べて買い手としての立場を退いており、米国債の投資家層はここ数年で価格に敏感になっている。そうした世界的な投資家の中には、トランプ政権下の政策変更が経済状況を悪化させる影響を及ぼしているため、米国債を敬遠し始めている人もいる。これは、赤字支出の洪水と人工知能の構築に資金を提供する国債発行の急増との間で資本を巡る競争の兆候がすでに見えている市場にとって、これは不快な展開だ。
-１０年米国債利回りは過去６カ月間で約４分の３％ポイント上昇した。金利引き下げ努力にもかかわらず、最近では第２次トランプ政権時代の最高利回りである４．８％付近で推移している。財務省は来週、市場の流動性向上を目的とした一部長期米国債の買い戻し拡大に着手する。投資家らはまた、連邦準備制度理事会のケビン・ウォーシュ新議長がFRBの目標である2％を依然として上回るインフレにどのように反応するかを推測しようとして金利を引き上げている。
-欧州の保険会社兼資産運用会社アリアンツの最高投資責任者兼チーフエコノミスト、ルドヴィク・スブラン氏はインタビューで「当然、誰もが米国への融資にもう少し高い価格を求めたいと考えている」と語った。
-その判断は政治的なものではなく、「純粋な経済学」によるものだとサブラン氏は語った。
-サブラン氏は、米国債務に信用リスクのようなものを加えるようになった一連の要因、すなわち「（連邦予算と貿易）赤字の急増、インフレに動じないFRB、財務省の市場操作」を挙げた。同氏は米国が債務不履行に陥るとは必ずしも信じていないが、他の多くの世界的投資家と同様、アリアンツは米国への賭けをヘッジするためにさらに多くの金を支払わなければならなかったと述べた。
-米国は2027年の冬の終わりから夏の半ばまでに41兆1000億ドルの債務上限に達すると予想されている。
-今年は「米国の債券市場にこれまでのようにデュレーションを見出さないことも決定した。面白くないからだ」とサブラン氏は語った。
-インフレとヘッジを考慮した後、「私たちは利益を上げていなかった」と同氏は語った。
-利回りの上昇は、すでに手頃な価格の問題に不満を抱いているアメリカ人にとって、さらなる悪化の原因となっている。住宅ローン金利は6.8％近くまで上昇した。住宅ローン金利は10年国債利回りに連動して変動します。自動車ローンやその他の形態の消費者負債も同様です。
-利回りに対する政治リスクは依然として残る
-利回りを押し上げる政治的要因が緩和する兆しはほとんどない。原油価格の下落はいくらか安心をもたらすかもしれないが、イラン戦争の終結は依然として見えていない。ワシントンには赤字支出を緩和する政治的妥協をする意欲はない。今週ノースカロライナ州で開催された世界財務大臣と中央銀行総裁の会合では、カナダに対する政治的な銃撃が巻き起こった。借り入れコストを緩和するための協調的な行動は議題にはならなかった。
-一方、大口保有者の一部は米国債から高利回りの債券への移行を検討している。ノルウェーの巨大政府系ファンドは、現在政府債として運用されているポートフォリオのうち約800億ドルを住宅ローン担保証券など債券市場の他の部分に移すことを検討している。
-一方、米国政府の借入は増加し続けている。議会予算局は最近、今年度の赤字予想を２兆１０００億ドルに上方修正する必要があり、この数字は国内総生産（ＧＤＰ）の６％を超える可能性が高い。これは危機時以外での膨大な借入額である。
-AI は企業の新たな大規模な借入も促進しています。 JPモルガンの推計によると、大手ハイテク企業5社とエヌビディア、およびそれらの企業がデータセンターリースのバックストップに使用する特殊用途車両が、今年これまでに約3,200億ドルの負債を発行している。
-JPモルガン・アセット・マネジメントの市場・投資戦略部門会長マイケル・センバレスト氏は今週、顧客に宛てた書簡で「ハイパースケーラーはあまりにも多額の債券を発行しているため、イールドカーブの長期端で需給問題を引き起こしている可能性がある」と述べた。
-それは必ずしも悪いことではありません。 AIは、成長の源泉に打撃を与えている米国経済において明るい材料だ。第２・四半期の国内総生産（ＧＤＰ）成長率は１．５％で、予想を下回る数字となったが、これはトランプ大統領の弾圧後の米国への移民の急激な減速が影響している可能性が高い。労働市場も最近、異常な動きを見せている。金曜日の雇用者数が16万2,000人増加したという報道は、企業が雇用や解雇に消極的であるという長期的な環境に逆らったものだ。
-企業が市場の支持を争う中、債券市場での競争がイノベーションブームを促進する可能性がある。最終的な判断を下すのは時期尚早だが、この種の成長と生産性ブームの可能性は、インフレを調整する実質利回りの上昇の説明の一つとなる。
-ファクトセットのデータによると、インフレを考慮した米国債の10年物TIPS利回りは、木曜日には過去6カ月間で67ベーシスポイント上昇し、2.43％となった。インフレを示す損益分岐点は同期間横ばいとなっている。
-ニューヨーク連銀のジョン・ウィリアムズ総裁は水曜日、実質利回りの上昇は「むしろ経済の力強さを反映している」とCNBCに語った。利回りの上昇が景気の足を引っ張ると解釈したい人もいるが、その論理は逆だ、と同氏は述べた。
-ウィリアムズ氏は「これは金融状況が経済に影響を与えるということではなく、むしろ経済が金融状況に影響を与えるということだ」と述べた。
-ウィリアムズ氏の分析の裏を返せば、借り入れコストが落ち着くには景気の減速が必要になる可能性があるということだ。しかし、それは誰もが支持したい解決策ではありません。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-    publishedAt: "2026-09-04T14:07:24+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "uk-petrol-prices-hit-highest-level-since-8fc7b7c0",
-    title: "UK petrol prices hit highest level since Iran war began",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `UK petrol prices hit highest level since Iran war began
-- Published
-UK petrol prices have risen to their highest level since the beginning of the Iran war as the conflict continues to hit drivers' finances.
-The average cost of petrol has reached more than 163p per litre, according to motoring group the RAC, which warned prices could climb higher yet.
-The price of fuel tends to track the wholesale price of oil, which surged when the Iran conflict began on 28 February. The fighting has severely disrupted oil supplies across the Middle East.
-Prices then nosedived when US and Iran agreed to a framework deal to end the conflict in June, but they have risen again since the collapse of peace talks.
-How do wholesale oil prices affect the cost of petrol and diesel at the pump?
-Crude oil is a key ingredient in petrol and diesel, which means that higher wholesale costs make filling up a car more expensive. The price of petrol and diesel is also heavily influenced by demand and refining capacity.
-Analysts say every $10 (£7.44) per barrel increase in the oil price pushes up pump prices by roughly 7p a litre.
-Since the war began, the price of a barrel of Brent crude – the global benchmark for wholesale oil prices – has been very volatile.
-Generally speaking, news of further conflict drives the price up while hopes of an end to the war pushes the price down.
-Before the conflict, Brent was about $70 a barrel, but the fighting saw it peak at above $120.
-In early July, after the framework deal was signed, prices fell back to near the $70 a barrel mark.
-When the peace talks collapsed, the price climbed back up again to above $100 a barrel, but are now around $94.
-What has happened to petrol and diesel prices in the UK?
-While petrol has hit its highest price since the Iran war began, according to the RAC, diesel remains below the peak of 191.54p a litre it reached on 15 April.
-In early July, the RAC said the average price of petrol sank to a low of 150.59p per litre and 164.52p per litre for diesel.
-Since then the prices have risen, with petrol now at 163.6p a litre while diesel costs 184.99p a litre.
-RAC's head of policy Simon Williams said that, with oil prices remaining elevated, drivers will "almost certainly start paying noticeably more at the pumps in the coming weeks".
-Despite the conflict, petrol and diesel prices remain below the levels reached in the summer of 2022 following Russia's invasion of Ukraine, when petrol reached 191.5p a litre and diesel hit 199p.
-Because transporting oil is a slow process, price movements in the wholesale markets take about a fortnight to show at the pump.
-Fuel retailers have denied accusations of price gouging during the conflict. The official markets regulator said it had "not seen evidence of retailers actively changing their pricing strategies to take advantage of the crisis".
-A government scheme called Fuel Finder, external lets drivers compare the cost of fuel offered by petrol stations across the UK.
-Luke Bosdet, the head of policy at the AA, said the group had been surprised at the speed that prices had fallen and put it down to the scheme.
-In May, the then Prime Minister Sir Keir Starmer said a planned 5p increase in fuel duty due in September would be postponed until the end of December because of the conflict.
-Why has the Iran war had a big impact on oil prices?
-The Middle East conflict sent global oil prices soaring as it effectively closed the Strait of Hormuz — one of the world's key water transport routes for oil, liquid natural gas and other essential commodities — limiting global supplies.
-About 20% of the world's oil and liquefied natural gas normally passes through the waterway.
-Even if a deal is agreed to reopen the strait, experts warn it will take time before normal levels of shipping through the Strait of Hormuz resume, and the impact of the war will continue to affect the global economy for potentially months to come.
-Why and how is US blockading Iranian ports in Strait of Hormuz?
-- Published30 April
-Oil price predicted to remain above $100 for rest of year
-- Published11 May
-Where does the UK get its oil and gas?
-The UK is heavily reliant on oil and gas imports, with the majority coming from the US and Norway.
-The price of oil on the global market determines how much the UK pays for it.
-Although the UK does get some oil from the North Sea, most of that is exported for refining elsewhere.
-You can also send us your questions by following this link
-Reporting by Faarea Masud, Jemma Crew, Alex Daniel, Michael Race, Mitchell Labiak, and Miguel Roca-Terry
-Get in touch
-How have you been affected by the price rises? Share your experiences
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-04T13:05:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
-    readTime: 2,
-  },
-  {
-    id: "nepal-rescuers-try-to-reach-dozens-trapp-8eb3a789",
-    title: "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Nepal rescuers try to reach dozens trapped in tunnel after two found alive
-- Published
-Rescuers in Nepal are stepping up efforts to find scores of workers believed to be trapped in tunnels, nine days after the devastating flash floods which hit the area on the border with Tibet in China.
-Hopes have risen after two people were pulled out alive on Friday. The body of a third person was also found in one of the tunnels used to supply hydropower stations.
-The massive flash flood, believed to have been triggered by a glacial collapse, swept through a Himalayan valley last Wednesday, wiping out entire villages.
-There are now 1,311 confirmed dead and 5,330 still missing in Nepal and Tibet. Hundreds of foreign citizens are believed to be among those missing, from at least 34 countries.
-The full impact of the flood in Tibet is unclear. China has released information through state media outlets showing the devastation around the border, but has given few details about the victims or the impact on local villagers.
-In Nepal, however, rescue operations are taking place at seven hydropower tunnels in which more than 150 people are feared trapped - as well as in 19 other areas.
-In the early hours of Friday morning, rescuers heard what they thought could be voices at the Trishuli 3A hydropower site.
-According to local reports, they called out "don't worry, we're here to rescue you" - and heard back a faint "okay".
-Crews clambered in to find Sanjaya Shah and Kabir Maharjan - both had injuries on their hands and legs, "possibly" from crawling through the tunnel. Both were airlifted to the Army Hospital in the capital, Kathmandu.
-Maharjan, who was rescued second, is in a critical condition, the prime minister's office said. Shah was also undergoing medical tests.
-The body of a third person was found in the same tunnel later. A local official said it was swollen and could not be immediately identified.
-Officials believe another 39 people are in the Trishuli 3A tunnel, although it is not clear if all are alive.
-Col Jhabindra Reshmi said that his teams had rescued more than 400 Nepali nationals and 270 foreign citizens following the flash flooding on 26 August.
-He has said mud and rocks have made entering tunnels difficult and rescuers were having to dig access holes to get underground.
-Engineers have been pumping air into the tunnels.
-Last week's floodwaters washed away a lot of heavy machinery, making it harder for rescuers to unblock tunnels, says a representative for Nepalese power companies.
-Uttam Bhlon Lama, vice president at Independent Power Producers of Nepal, told the BBC's Newsday programme that the rescue of the two men on Friday would "motivate the rescuers to do more".
-"The flood level is still very high," Lama added.
-Nepalese authorities have warned that rainfall may cause additional flooding in the region.
-At least 1,287 people are known to have died in Nepal, with 5,083 still missing.
-On the Tibetan side, the death toll reported by Chinese media on Friday was 31, with 531 people unaccounted for.
-Emergency teams in Tibet appear to be focusing on helping the living rather than holding out hope for more survivors.
-Scientists are still studying the exact cause, but it is believed to have been caused by a glacial collapse and climate change may have been a factor.
-Moments after the seismic event, which was initially thought to have been an earthquake, a massive wall of water and debris crashed downstream, taking buildings, roads and vehicles with it.
-Experts from the Asian Mountain Academic Alliance, the Stimson Centre and China's Institute of Mountain Hazards and Environment said there was evidence of growing instability around the glacier in the days before the collapse and better early-warning systems could have saved lives.
-- Published4 days ago`,
-    bodyJa: `ネパールの救助隊、トンネルに閉じ込められた数十人に救出を試みる 2人生存発見
-- 公開されました
-中国のチベットとの国境地帯を襲った壊滅的な鉄砲水から9日後、ネパールの救助隊はトンネルに閉じ込められたとみられる多数の作業員の捜索活動を強化している。
-金曜日に２人が生きて救出されたことで期待が高まった。水力発電所への供給に使用されるトンネルの1つで、第三者の遺体も発見された。
-氷河の崩壊によって引き起こされたと考えられている大規模な鉄砲水が先週の水曜日にヒマラヤ渓谷を襲い、村全体を壊滅させた。
-ネパールとチベットでは現在、1,311人の死亡が確認され、5,330人が行方不明となっている。行方不明者の中には少なくとも34カ国の外国人数百人が含まれているとみられる。
-チベットにおける洪水の全影響は不明である。中国は国営メディアを通じて国境付近の惨状を示す情報を公表しているが、犠牲者や地元の村民への影響についてはほとんど明らかにしていない。
-しかしネパールでは、150人以上が閉じ込められる恐れがある7つの水力発電トンネルと他の19の地域で救助活動が行われている。
-金曜日の早朝、救助隊はトリシュリ3A水力発電所で声と思われる音を聞いた。
-地元の報道によると、彼らは「心配しないでください、私たちが助けに来ました」と呼びかけると、かすかに「大丈夫」という声が聞こえたという。
-乗組員がよじ登ってサンジャヤ・シャーさんとカビール・マハルジャンさんを発見した。二人とも手と足に傷を負っており、「おそらく」トンネルを這っていたせいだろう。二人は首都カトマンズの陸軍病院に空輸された。
-首相府によると、２番目に救出されたマハルジャン氏は重篤な状態だという。シャーさんも健康診断を受けていた。
-その後、同じトンネル内で3人目の遺体が発見された。地元当局者によると、腫れていてすぐには特定できなかったという。
-当局はさらに39人がトリシュリ3Aトンネルにいるとみているが、全員が生存しているかどうかは明らかではない。
-ジャビンドラ・レシュミ大佐は、8月26日の鉄砲水の後、彼のチームがネパール人400人以上と外国人270人以上を救出したと述べた。
-同氏は、泥と岩によってトンネルに入るのが困難で、救助隊員は地下に入るためにアクセス穴を掘らなければならなかったと述べた。
-技術者たちはトンネルに空気を送り込んでいる。
-ネパールの電力会社の代表者によると、先週の洪水で多くの重機が流され、救助隊がトンネルの封鎖を解除することが困難になったという。
-ネパール独立発電事業者の副社長、ウッタム・ブロン・ラマ氏はBBCのニュースデイ番組で、金曜の2人の救出は「救助隊員らのさらなる活動への動機付けになる」と語った。
-「洪水レベルは依然として非常に高い」とラマ氏は付け加えた。
-ネパール当局は、降雨によりこの地域にさらなる洪水が発生する可能性があると警告した。
-ネパールでは少なくとも1,287人が死亡したことが確認されており、5,083人が依然として行方不明となっている。
-チベット側では、金曜日に中国メディアが報じた死者数は31人、うち531人が行方不明となっている。
-チベットの緊急チームは、より多くの生存者に希望を持ち続けることよりも、生きている人々を助けることに重点を置いているようだ。
-科学者たちは正確な原因をまだ研究中ですが、氷河の崩壊によって引き起こされたと考えられており、気候変動が要因である可能性があります。
-当初は地震であると考えられていた地震発生の直後、巨大な水の壁と瓦礫が下流で崩壊し、建物、道路、車両を巻き込みました。
-アジア山岳学術同盟、スティムソンセンター、中国山岳災害環境研究所の専門家らは、崩壊の数日前から氷河周辺で不安定性が高まっている証拠があり、より優れた早期警報システムがあれば命を救えた可能性があると述べた。
-- 4 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-04T12:30:56+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c65/live/034c61b0-a830-11f1-b808-43cdd10f38ce.jpg",
-    readTime: 4,
-  },
-  {
-    id: "will-a-data-center-hurt-your-home-s-valu-b548b3f3",
-    title: "Will a data center hurt your home’s value? Research says no. Sellers disagree.",
-    titleJa: "データセンターはあなたの家の価値を損ないますか?研究ではノーだと言われています。売り手はこれに同意しません。",
-    summaryJa: "ここ数カ月、米国人はデータセンターとそれが住宅価値に与える影響についての懸念を声高に表明するようになった。",
-    bodyOriginal: `In recent months, Americans have gotten more vocal about their concerns over data centers and the effects they could have on home values.`,
-    bodyJa: `ここ数カ月、米国人はデータセンターとそれが住宅価値に与える影響についての懸念を声高に表明するようになった。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
-    publishedAt: "2026-09-04T11:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-54831986",
-    readTime: 2,
   },
 ];
 
