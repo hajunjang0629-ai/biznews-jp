@@ -15,6 +15,290 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-says-bombardier-can-t-sell-in-u-s-0c91a36a",
+    title: "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
+    titleJa: "トランプ大統領、カナダの航空宇宙大手が米国で製造しない限りボンバルディアは米国で販売できないと発言",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `President Donald Trump on Monday said Bombardier, a Canadian airplane manufacturer, must build its products in the U.S. in order to keep selling in the American market.
+The move comes amid a bitter trade war between the U.S. and Canada, and on the eve of retaliatory tariffs set to take effect Tuesday on a range of U.S. goods.
+"NO MORE SELLING BOMBARDIER IN THE UNITED STATES!" Trump wrote on Truth Social.
+"If they want our Market, they must build here, and stop treating America like a 'piggybank,'" he wrote.
+Bombardier didn't immediately respond to a request for comment.
+Ottawa announced about $20 billion of retaliatory tariffs on more than 700 U.S. goods on Aug. 25.
+They're meant to mirror the size of Trump's latest import taxes on Canadian wine, cement, hockey sticks and other products. Trump had recently announced those 50% tariffs after a breakdown in trade talks.
+U.S. Commerce Secretary Howard Lutnick told CNBC's "Squawk Box" that the Canadians "blew up" a nearly complete trade deal with the U.S. "for political reasons only." In return, Canadian Prime Minister Mark Carney said his nation would resume trade talks "when the Americans are ready."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
+    publishedAt: "2026-09-07T18:52:24+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "i-m-the-executor-my-two-siblings-and-i-6b8759f4",
+    title: "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "「会社が均等に分割できるように、新しい継承 IRA を 3 つ作成する必要がありますか?」",
+    bodyOriginal: `“Am I required to create three new inherited IRAs so that the firm can divide it equally?”`,
+    bodyJa: `「会社が均等に分割できるように、新しい継承 IRA を 3 つ作成する必要がありますか?」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+    publishedAt: "2026-09-07T18:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-51979575",
+    readTime: 2,
+  },
+  {
+    id: "oil-prices-rise-to-6-week-high-after-ira-6d705e0a",
+    title: "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
+    titleJa: "イランと米国の貿易打撃を受けて原油価格が6週間ぶりの高値に上昇、サウジアラムコの施設が打撃を受けたと伝えられる",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Oil prices rose to a six-week high on Monday as the U.S. and Iran traded strikes over the weekend, ratcheting up tensions in the Middle East.
+Brent crude oil futures, the international oil benchmark, rose 1.5% to $97.73 per barrel on Monday and reached as high as $97.93 a barrel at one point, the highest since July 23. West Texas Intermediate, the U.S. oil benchmark, climbed 1.8% to $93.10, also the highest since late July.
+"Strike our assets and you get struck," Iranian Parliament Speaker Mohammad Baqer Qalibaf wrote Monday in a post on X.
+That post was in response to an earlier one by Defense Secretary Pete Hegseth, who wrote that the U.S. "will destroy (and sink)" Iranian oil tankers if Iran fires on U.S. vessels.
+Saudi Aramco oil facilities were hit in fresh attacks on Monday, according to a report by the Financial Times. Damage was still being assessed on the facility in the Saudi Arabian city of Jizan, home to a 400,000-barrel-per-day oil refinery, and it's not immediately clear who was responsible for the attack, according to the FT.
+Oil markets were already set to be on edge because of a weekend flare-up in the conflict. The U.S. military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships, U.S. Central Command said.
+CENTCOM said the three Iranian ships are part of a "multibillion-dollar shadow network" that funds Iran's Revolutionary Guard and its regional proxies.
+The Iranian Foreign Ministry, in a statement on Saturday, denounced the attacks on commercial vessels as a "war crime" and an act of "economic warfare."
+The strikes come about a week after fighting between the U.S. and Iran resumed following about a month of relative calm in the conflict, which surpassed the six-month mark in August.
+Elevated oil prices have pushed up the cost of other fuels like gasoline and diesel, both of which hit record highs for a Labor Day weekend.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
+    publishedAt: "2026-09-07T16:44:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "next-wins-key-appeal-to-overturn-30m-equ-3d6579d3",
+    title: "Next wins key appeal to overturn £30m equal pay ruling",
+    titleJa: "ネクスト氏、3,000万ポンドの同一賃金判決を覆す重要な控訴に勝利",
+    summaryJa: "ネクスト氏、3,000万ポンドの同一賃金判決を覆す重要な控訴に勝利- 公開されました",
+    bodyOriginal: `Next wins key appeal to overturn £30m equal pay ruling
+- Published
+Next has won an appeal allowing it to keep paying warehouse workers a higher hourly rate than shop floor staff in a long running battle over equal pay.
+The Employment Appeal Tribunal has overturned a key part of a landmark ruling in 2024 which found the retailer was wrong to pay its warehouse staff higher basic pay than shop floor workers for jobs of equal value.
+More than 3,500 current and former employees, mainly women, had been set to share potentially more than £30m in back pay as a result of that judgement.
+After Next's appeal, the law firm Leigh Day, which represents store workers, described the conclusion on basic pay as "disappointing" and said it will appeal the decision.
+The tribunal accepted that Next was justified in paying higher rates because of recruitment and retention pressures for warehouse workers.
+Next described the decision as a "landmark victory" succeeding on the "key issue of basic pay".
+In a statement, it said: "The importance of this decision is that the Appeal Tribunal has confirmed that it was justifiable for Next to rely on market forces to distinguish between different groups of employees, where there was a good rationale to pay one group more than the other.
+"In this case, Next had to pay a higher market rate to warehouse operatives because of recruitment and retention pressures, which did not apply to the workforce in its stores. Next believes this element of the judgment is not only correct in law, but also a victory for common sense.
+"The judgment affirms a principle at the heart of any effective employment market - that employers must be able to pay what is necessary to recruit the people they need; and that doing so does not oblige them to raise the pay of other employees where there is no reason to do so."
+Leigh Day said judges did uphold 2024 findings on night-time premiums, overtime premiums and paid rest breaks.
+Next said it will now seek permission to appeal these decisions.
+Both the original Employment Tribunal and the Appeal Tribunal found there was no direct sex discrimination in Next's pay rates. Shop floor staff are predominantly women while warehouse workers are predominantly male.
+Questions are now being asked about if this result could set a precedent across the industry. Tesco, Asda, Morrisons, and Sainbury's are all involved in similar long running claims and will be studying the findings closely.
+Last year, thousands of female workers at Birmingham City Council heard how much money they will receive in a long-awaited equal pay settlement. Brighton and Hove City Council is also facing over 1,000 equal pay cases.
+Related topics
+- Published26 May`,
+    bodyJa: `ネクスト氏、3,000万ポンドの同一賃金判決を覆す重要な控訴に勝利
+- 公開されました
+ネクスト社は、同一賃金をめぐる長期にわたる闘いにおいて、倉庫作業員に現場スタッフよりも高い時給を支払い続けることを認める控訴を勝ち取った。
+雇用控訴裁判所は、小売業者が同じ価値の仕事に対して倉庫スタッフに現場労働者よりも高い基本給を支払ったのは誤りであると認定した2024年の画期的な判決の重要な部分を覆した。
+この判決の結果、3,500人以上の現・元従業員（主に女性）が潜在的に3,000万ポンド以上の未払い金を負担することになった。
+ネクスト側の控訴を受け、店舗従業員の代理人を務める法律事務所リー・デイは、基本給に関する結論は「残念」だとし、この決定に対して控訴すると発表した。
+法廷は、ネクストが倉庫労働者の採用と定着の圧力を理由に、より高い料金を支払うのは正当であると認めた。
+次に、この決定は「基本給という重要な問題」において成功した「画期的な勝利」であると述べた。
+同社は声明で、「この決定の重要性は、ネクストが市場原理に頼って従業員の異なるグループを区別するのは正当であり、一方のグループに他方のグループよりも多くの賃金を支払う十分な根拠があったことを控訴裁判所が確認したことだ」と述べた。
+「この場合、Next は採用と定着のプレッシャーのため、倉庫作業員に高い市場レートを支払わなければなりませんでしたが、それは店舗の従業員には適用されませんでした。 Next は、判決のこの要素は法的に正しいだけでなく、常識の勝利でもあると信じています。
+「判決は、効果的な雇用市場の中心となる原則、つまり雇用主は必要な人材を採用するために必要な金額を支払うことができなければならず、そうすることは理由がない限り他の従業員の賃金を上げる義務を負わないという原則を確認している。」
+リー・デイ判事は、裁判官は夜間割増金、時間外割増金、有給休憩に関する2024年の判決を支持したと述べた。
+ネクストは今後、これらの決定に対して上訴する許可を求めると述べた。
+元の雇用法廷と控訴法廷はいずれも、ネクスト社の給与水準に直接的な性差別は存在しないと認定した。現場スタッフは女性が多いのに対し、倉庫スタッフは男性が多いです。
+この結果が業界全体で前例となるかどうかについて、現在疑問が投げかけられている。 Tesco、Asda、Morrisons、Sainbury's はいずれも同様の長期にわたる主張に関与しており、調査結果を綿密に研究する予定です。
+昨年、バーミンガム市議会の何千人もの女性労働者が、待望の同一賃金和解でどのくらいの金額を受け取ることになるのかを聞きました。ブライトン・アンド・ホーブ市議会も1,000件以上の同一賃金訴訟に直面している。
+関連トピック
+- 5 月 26 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-07T16:25:41+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/152fc380-aacf-11f1-9f87-35997bdaf8f4.jpg",
+    readTime: 3,
+  },
+  {
+    id: "faisal-islam-chancellor-s-attempts-to-bo-22671be2",
+    title: "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+    titleJa: "ファイサル・イスラム氏：雰囲気を盛り上げようとする首相の試みは増税を制限する可能性がある",
+    summaryJa: "ファイサル・イスラム氏：雰囲気を盛り上げようとする首相の試みは増税を制限する可能性がある- 公開されました",
+    bodyOriginal: `Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises
+- Published
+The chancellor may have thought about shifting the venue of his first major speech this morning.
+It was an absolute and total coincidence that he chose to make it in the Coventry Manufacturing and Technology Centre (MTC), just a few minutes' drive from the city's totemic HQ of Jaguar Land Rover (JLR).
+In the event, no one was pulling punches. The 4,000 office-based job losses at JLR were confirmed as John Healey answered questions a few miles away.
+Healey chose to lean into it as an example of the global turbulence against which the UK needs more resilience.
+The difference between this chancellor and his predecessor was he also feels that stressing fiscal discipline should instil confidence in consumers, businesses and investors, and not sap it away amid rolling fears of tax hikes.
+So the prime minister and his chancellor have been engaged in a conscious attempt to boost the economic vibes - "a new story", as he called it.
+In his speech, and in a BBC interview afterwards, this was clear. There are some positive underlying signs from consumer, business and recruiter confidence measures that indicate this message has been heard, although the hot weather and World Cup have also been factors.
+The Downing Street duo are trying to maintain this precious commodity of confidence and the promotion of economic animal spirits that have been suppressed by years of political and economic chaos.
+"Borrowing costs are too high," Healey acknowledged at the start of his speech. The global rise in bond yields is like a boa constrictor squeezing the Budget maths, slowly and relentlessly, occasionally loosening its grip, but never actually slithering away entirely.
+It raises some reasonable questions therefore about how to balance reining in borrowing with protecting mildly better confidence?
+The speech did not seem to me to prepare the ground - a "pitch roll" - for significant tax rises, as I heard at the equivalent Budget "scene setters" for the past two years.
+"Am I right?" I asked the chancellor on this point. A pause as he sought precisely the right word formulation. "I won't comment. I can't comment. No chancellor can ahead of a Budget I will take and announce on October 28th".
+OK, what about the advice from one of the PM's favourite economists Lord O'Neill that the rise in borrowing rates is a golden opportunity to scrap the triple lock?
+This lock guarantees the state pension rising each year in line with either inflation, wage increases or 2.5% - whichever is the highest - but some have argued it is unaffordable.
+"The prime minister has said, like I have, that we must bring down welfare costs, but we are also responding to the extreme pressure that is there in wider markets," Healey said.
+Neither answer was a denial, but nor were they any type of confirmation. Like a stubborn batsman, the chancellor is going to stay at the crease, giving little away, in his case, about next month's Budget.
+Chancellor refuses to rule out tax hikes in October Budget
+- Published5 hours ago
+UK long-term borrowing costs highest since 1998 ahead of October Budget
+- Published5 days ago
+There was a focus on growth. As he toured the MTC, a centre of excellence for advanced manufacturing, he said the UK's "great talent and latent potential" made it the third most innovative country in the world, and he wanted to translate that into economic growth and success in more areas.
+Two decades ago, Healey was responsible for the Regional Development Agencies, scrapped by the Coalition Government, that helped fund this very facility.
+In his speech there was a big clue about how to square the circle of investing in industrial policy at a time of tricky public finances.
+The "Pufins" - public finance institutions - such as the British Business Bank and National Wealth Fund can invest strategically, less constrained by the government's borrowing rules. Part of the plan is Pufins to breed more unicorns ($1bn tech startups) in the UK.
+This is the other part of the global backdrop. Amid the tumult of trade and military wars, there is arguably one of the biggest financial events in world history.
+In the coming weeks, hundreds of billions of dollars will be invested and trillions in value confirmed from flotations of big American AI firms. The UK has some standout technology in this sector. The government wants to promote it.
+The chancellor was also, however, cautious about the impact of AI on security and on jobs. Some degree of "public control" could be required to make these changes work for everyone. It appeared a little less cheerleading than the stance of the Starmer administration.
+The chancellor was perhaps mindful of the army of manufacturing robots, laser welders, 3D metal printers, whirring into action around him.
+Long term, it will be growth that will determine whether his borrowing rules are met, he said.
+Ultimately he will be judged by his actual policy choices, but where there are trade-offs between balancing the books and economic growth across the country, this sounds like a chancellor who might prioritise the latter.`,
+    bodyJa: `ファイサル・イスラム氏：雰囲気を盛り上げようとする首相の試みは増税を制限する可能性がある
+- 公開されました
+首相は今朝、最初の主要演説の会場を変更することを考えた可能性がある。
+彼が、ジャガー ランドローバー (JLR) の象徴的な本社から車でわずか数分のコベントリー マニュファクチャリング アンド テクノロジー センター (MTC) に拠点を置くことを選んだのは、まったくの偶然でした。
+このイベントでは誰もパンチを繰り出しませんでした。ジョン・ヒーリー氏が数マイル離れた場所で質問に答えた際、JLRのオフィスベースの4,000人の雇用喪失が確認された。
+ヒーリー氏は、英国がさらなる回復力を必要としている世界的な混乱の一例として、この問題に取り組むことを選択した。
+この首相と前任者の違いは、財政規律を重視することで消費者、企業、投資家に信頼を植え付けるべきであり、増税への不安が広がる中で信頼を奪ってはいけないと考えていることだ。
+そこで首相と首相は、経済の雰囲気を高めるための意識的な試み、つまり同氏の言うところの「新たな物語」に取り組んできた。
+彼のスピーチとその後のBBCのインタビューで、これは明らかでした。猛暑とワールドカップも要因ではあるものの、消費者、企業、採用担当者の信頼感測定からは、このメッセージが届いていることを示す、基本的な明るい兆候がいくつか見られます。
+ダウニング街の二人は、この貴重な自信商品を維持し、長年の政治的・経済的混乱によって抑圧されてきたエコノミック・アニマル・スピリットを促進しようとしている。
+ヒーリー氏は講演の冒頭で「借り入れコストが高すぎる」と認めた。世界的な債券利回りの上昇は、予算計算をゆっくりと執拗に締め付けるボアコンストリクターのようなもので、時々その支配力を緩めますが、実際に完全に滑り去ることはありません。
+したがって、借入を抑制することと、少しでも良い信頼を守ることとのバランスをどう取るかについて、いくつかの当然の疑問が生じます。
+私には、この演説は、過去2年間、同等の予算の「シーンセッター」で聞いていたように、大幅な増税に向けた地ならし、つまり「ピッチロール」を準備しているようには見えなかった。
+「私は正しいですか？」この点について首相に質問した。彼は正確に適切な言葉の表現を探し求めて立ち止まった。 「私はコメントしない。コメントできない。私が10月28日に採択して発表する予算案を前に首相はできない。」
+さて、首相のお気に入りの経済学者の一人であるオニール卿からの、借入金利の上昇はトリプルロックを廃止する絶好の機会であるというアドバイスはどうでしょうか？
+このロックにより、インフレ、賃金上昇、または2.5％のいずれか高い方に応じて毎年国民年金が増加することが保証されているが、これは負担できないと主張する人もいる。
+ヒーリー氏は「首相も私と同様、生活保護費を削減しなければならないと述べてきたが、より広範な市場に存在する極度の圧力にも対応している」と述べた。
+どちらの答えも否定ではありませんでしたが、肯定のようなものでもありませんでした。頑固な打者のように、首相は折り目から離れず、彼の場合、来月の予算案についてはほとんど明かさないだろう。
+首相、10月予算での増税の可能性を排除せず
+- 5 時間前に公開
+英国の長期借入コストが10月予算を前に1998年以来最高に
+- 5 日前に公開
+成長に重点が置かれていました。先進製造業の中心地であるMTCを視察した同氏は、英国の「優れた才能と潜在力」により英国は世界で3番目に革新的な国となっており、それをより多くの分野での経済成長と成功につなげたいと述べた。
+20年前、ヒーリー氏は連立政権によって廃止された地域開発庁の責任者であり、まさにこの施設に資金を提供していた。
+同氏のスピーチには、財政が困難な時期に産業政策への投資の輪をどのように広げるかについて大きなヒントがあった。
+英国ビジネス銀行や国富基金などの公的金融機関である「ピュフィン」は、政府の借入規則による制約が少なく、戦略的に投資を行うことができます。計画の一環として、ピュフィン氏は英国でさらに多くのユニコーン（10億ドル規模のハイテクスタートアップ）を育成することを掲げている。
+これは世界的な背景のもう一つの部分です。貿易戦争と軍事戦争の混乱のさなか、おそらく世界史上最大の金融イベントの一つが起きている。
+今後数週間で、数千億ドルが投資され、米国の大手 AI 企業の浮選から数兆ドルの価値が確認されるでしょう。英国はこの分野で傑出した技術をいくつか持っています。政府はそれを推進したいと考えています。
+しかし首相は、AIが安全保障や雇用に与える影響についても慎重だった。これらの変更をすべての人に適用するには、ある程度の「公的管理」が必要になる可能性があります。スターマー政権の姿勢に比べると応援団的ではないように見えた。
+首相はおそらく、自分の周りで動き出す製造ロボット、レーザー溶接機、3D金属プリンターの軍勢に気を配っていたのだろう。
+長期的には、借入ルールが満たされるかどうかを決めるのは成長だ、と同氏は語った。
+最終的には実際の政策選択によって判断されることになるが、帳簿の均衡と国全体の経済成長との間にトレードオフがある場合、首相は後者を優先する可能性があるように聞こえる。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-07T15:41:52+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg",
+    readTime: 6,
+  },
+  {
+    id: "why-the-temu-range-rover-is-such-a-threa-29b804d9",
+    title: "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
+    titleJa: "「テム・レンジローバー」がジャガー・ランドローバーにとって脅威となる理由",
+    summaryJa: "「テム・レンジローバー」がジャガー・ランドローバーにとって脅威となる理由- 公開されました",
+    bodyOriginal: `Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover
+- Published
+Jaguar Land Rover's decision to shed 4,000 jobs comes after the carmaker has travelled down a very rough road.
+The company has seen sales fall in all of its major markets and has been dealing with the consequences of a devastating cyber-attack that paralysed production last year.
+At the same time, it has invested billions in an effort to reinvent itself for an electric future, in which it is likely to face intense competition from aggressively expanding Chinese brands.
+Executives have now decided a major overhaul is needed.
+One of the main concerns for JLR is China. Not so long ago, it was seen as a land of opportunity for western carmakers, where the rapidly expanding middle classes seemed to have an inexhaustible appetite for upmarket foreign-badged vehicles.
+JLR, along with other European brands such as BMW, Audi and Mercedes Benz, was all too willing to meet that demand, at a time when the European market was extremely crowded and growth hard to find.
+Today, things are very different. The past decade has seen rapid growth among domestic Chinese carmakers, firmly backed by their government, which has been determined to make the country a leading player in electric vehicles.
+This has created an environment of intense competition, in which local manufacturers have rapidly raised the bar in terms of technology and development speed.
+That, combined with a slowdown in the Chinese economy and a reduction in sales overall, has made China a much more difficult market for European brands.
+JLR's Chinese sales fell from a high water mark of 146,000 cars in 2017 to just 62,400 in the last financial year. At the same time, competition and a new luxury car tax have hit profit margins.
+All of this has resulted in a sharp fall in revenues from the region. JLR is not alone in this; the Volkswagen Group, for example, has also seen its earnings in China pummelled – a major factor in its decision to axe 100,000 jobs by the end of the decade.
+The state of the Chinese market has had another consequence for European carmakers, including JLR. Faced with cut-throat competition at home, Chinese firms such as BYD and Chery have been flexing their muscles abroad.
+They have been rapidly gaining market share in the UK and Europe – with Chery's Jaecoo 7, nicknamed the 'Temu Range Rover' the third best-selling car in this country over the first half of the year.
+Analysts say traditional brands will face an uphill struggle to compete with new rivals, who can sell cars more cheaply and develop them more quickly.
+Jaguar Land Rover to cut 4,000 jobs over next two years
+- Published6 hours ago
+The true cost of cyber attacks - and the business weak spots that allow them to happen
+- Published6 October 2025
+The US is also a major market for JLR. In the year to the end of March 2025 it sold more than 120,000 cars there. The following year, that figure had fallen to just under 100,000.
+Part of that could be attributed to the impact of the cyber attack, which heavily disrupted production in late 2025. It affected JLR worldwide and cost the company £1.9bn.
+But sales and profits were also hit by the introduction of import tariffs by the US, and subsequent uncertainty over the levels of those tariffs. As automotive analyst Matthias Schmidt puts it, the company is "seeing a head-on hit each time a Land Rover rolls off a ship onto US soil".
+JLR is now planning a partnership with Stellantis to build new Defender-badged vehicles in the US. These cars, which would be developed specifically for the US market, would not attract tariffs.
+Then, there are energy costs, which affect JLR and its rivals. Carmakers and their suppliers are industrial businesses that use copious amounts of energy, and prices in the UK are among the highest in Europe.
+According to Prof David Bailey of Birmingham Business School, "electricity is a fundamental input into modern industrial production".
+"If producing a car in Britain is structurally more expensive because the energy required to manufacture it is substantially more expensive, Britain is effectively imposing a competitiveness tax on its own industry."
+All of these challenges have come at a time when JLR has been ploughing money into the development of a new generation of electric vehicles. The first fruits of the £15bn programme were seen last week, with the official unveiling of the first electric Range Rover.
+That was relatively uncontroversial – but so far the relaunch of Jaguar as an all-electric brand has been anything but. In late 2024 the company drove straight into the heart of the culture wars with a polarising advertising campaign that some saw as excessively "woke". The first actual car is due to make its public bow on 6 October – and it will be a pivotal moment for the company.
+It is easy to see why JLR's chief executive PJ Balaji feels action is necessary to trim costs and make the company leaner. That is bad news for employees, with thousands of jobs to go and compulsory redundancies not being ruled out.
+But the carmaker's network of suppliers are also being squeezed.
+"JLR has been pushing hard for cost savings", one leading supplier told the BBC. "But those suppliers are also facing high energy costs and high employment costs…there's huge anxiety right now."`,
+    bodyJa: `「テム・レンジローバー」がジャガー・ランドローバーにとって脅威となる理由
+- 公開されました
+ジャガー・ランドローバーが4,000人の雇用を削減するという決定は、自動車メーカーが非常に困難な道をたどった後に下された。
+同社は主要市場のすべてで売上が減少しており、昨年生産を麻痺させた壊滅的なサイバー攻撃の影響に対処している。
+同時に、同社は電気自動車の未来に向けて自らを再発明する取り組みに数十億ドルを投資しており、積極的に拡大する中国ブランドとの激しい競争に直面する可能性が高い。
+経営陣は現在、大規模な見直しが必要であると判断している。
+JLR にとって主な懸念の 1 つは中国です。つい最近まで、この地域は西側自動車メーカーにとってチャンスの地とみなされ、急速に拡大する中産階級は高級外国車のバッジを求める無尽蔵の欲求を持っているようだった。
+JLR は、BMW、アウディ、メルセデス ベンツなどの他の欧州ブランドと同様、欧州市場が非常に混雑し、成長が見込めなかった当時、その需要に積極的に応えました。
+今日では状況は大きく異なります。過去10年間、中国国内の自動車メーカーは、中国を電気自動車の主導国にしようと決意した中国政府の強力な支援を受けて急成長を遂げた。
+これにより、地元メーカーが技術や開発スピードの水準を急速に高め、激しい競争環境が生まれました。
+これに中国経済の減速と全体的な売上高の減少が加わり、欧州ブランドにとって中国はさらに厳しい市場となっている。
+ＪＬＲの中国販売台数は、２０１７年の最高水準１４万６０００台から、前会計年度にはわずか６万２４００台まで減少した。同時に、競争と新たな高級車税が利益率に打撃を与えている。
+これらすべてが、この地域からの収入の急激な減少をもたらしました。これは JLR だけではありません。例えば、フォルクスワーゲン・グループも中国での収益が大幅に落ち込んでおり、これが20年代末までに10万人の雇用を削減するという同社の決定の大きな要因となった。
+中国市場の状況は、JLRを含む欧州の自動車メーカーに別の影響を与えた。国内で熾烈な競争に直面しているため、BYDや奇瑞などの中国企業は海外で力を入れている。
+英国と欧州で急速に市場シェアを拡大​​しており、「テム・レンジローバー」の愛称で知られる奇瑞のJaecoo 7は、今年上半期にこの国で3番目に売れた車となった。
+アナリストらは、伝統的なブランドは、自動車をより安く販売し、より迅速に開発できる新たなライバルとの競争において厳しい戦いに直面すると予想している。
+ジャガー・ランドローバー、今後2年間で4,000人の人員削減へ
+- 6 時間前に公開
+サイバー攻撃の真のコスト - サイバー攻撃の発生を許すビジネスの弱点
+- 2025 年 10 月 6 日発行
+米国は JLR の主要市場でもあります。 2025年3月末までの1年間で、同社は12万台以上の車を販売した。翌年にはその数は10万人弱にまで減少した。
+その一部は、2025 年後半に生産に大きな混乱をもたらしたサイバー攻撃の影響によるものである可能性があります。この攻撃は世界中の JLR に影響を与え、同社に 19 億ポンドの損害を与えました。
+しかし、米国による輸入関税の導入とその後の関税水準の不確実性も売上と利益に打撃を与えた。自動車アナリストのマティアス・シュミット氏は、同社は「ランドローバーが米国本土に船から転落するたびに正面衝突を経験している」と述べている。
+JLRは現在、ステランティスと提携して、米国でディフェンダーのバッジが付いた新しい車両を製造することを計画している。これらの自動車は米国市場向けに特別に開発されるため、関税はかからない。
+次に、エネルギーコストがあり、これは JLR とそのライバルに影響を与えます。自動車メーカーとそのサプライヤーは大量のエネルギーを使用する産業企業であり、英国の価格はヨーロッパの中でも最も高いものの一つです。
+バーミンガム・ビジネス・スクールのデービッド・ベイリー教授によれば、「電気は現代の工業生産への基本的な投入要素である」という。
+「自動車の製造に必要なエネルギーが大幅に高価であるため、英国での自動車生産が構造的により高価であるとすれば、英国は事実上、自国の産業に競争力税を課していることになる。」
+これらすべての課題は、JLR が新世代の電気自動車の開発に資金をつぎ込んでいるときに同時に起こりました。 150億ポンドのプログラムの最初の成果は先週、初の電気自動車レンジローバーの公式発表で見られた。
+それは比較的議論の余地のないものでしたが、これまでのところ、完全電気自動車ブランドとしてのジャガーの再始動はまったくそうではありませんでした。 2024年後半、同社は分極的な広告キャンペーンを展開し、文化戦争の真っただ中に突入したが、一部の人には過度に「目が覚めた」と思われた。最初の実車は10月6日に公開される予定だが、それは同社にとって極めて重要な瞬間となるだろう。
+JLR の最高経営責任者 PJ Balaji 氏が、コストを削減し会社をスリムにするために行動が必要であると感じている理由は簡単にわかります。これは従業員にとって悪いニュースであり、数千件の雇用が残されており、強制解雇の可能性も排除されていない。
+しかし、自動車メーカーのサプライヤーネットワークも圧迫されている。
+ある大手サプライヤーはBBCに対し、「JLRはコスト削減に懸命に取り組んでいる」と語った。 「しかし、これらのサプライヤーは高いエネルギーコストと高い雇用コストにも直面しています…現在、大きな不安があります。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-07T14:36:37+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb7/live/3ca652b0-aabd-11f1-b960-379ca4827622.jpg",
+    readTime: 6,
+  },
+  {
+    id: "greenland-welcomes-major-funding-boost-f-206189bc",
+    title: "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `European Commission President Ursula von der Leyen on Monday announced a fresh funding boost for Greenland, seeking to shore up Arctic ties with the self-governing Danish territory amid U.S. President Donald Trump's annexation drive.
+Speaking alongside Greenlandic Prime Minister Jens-Frederik Nielsen and Danish Prime Minister Mette Frederiksen, the EU chief said the 200-million-euro ($232.3 million) funding package reflects "a clear choice" by Greenland to strengthen ties with the 27-nation bloc.
+"This partnership package focuses mainly on three domains, or strategic priorities. We call them the big Cs: connectivity, clean energy [and] critical raw materials," Von der Leyen told reporters at a news conference.
+The funds, which is to be invested this year and in 2027, is designed to bolster ties between the EU and the Arctic, with Von der Leyen describing Greenland as "a strategic ally and a trusted friend."
+It comes shortly after Icelanders voted to reject restarting EU membership negotiations and as Trump renews his push to acquire Greenland on national security grounds.
+"The European Union continues to be, not only an important partner for Greenland, but also a loyal and trusted friend," Greenland's Nielsen said.
+"Through these challenging times, your support to us is unfailing. You have stood by us and continue to stand by us. We feel it and are deeply grateful. Thank you," he added.
+Asked whether they had any concerns about how Trump may react to the funding package and what message he should take from the announcement, Denmark's Frederiksen said: "We have been under pressure and it has been very clear, and we are very thankful for the great support that we have received from our European partners — but, by the way, also globally."
+Frederiksen insisted that Denmark would like to work closely together with the U.S. on issues such as security and defense, "but we, of course, would also like to work even closer together with our European allies and that is exactly what we are doing in the Arctic region now."
+The EU's Von der Leyen said Greenland "stood firm and stands firm under enormous pressure," in an apparent reference to Trump's pursuit of U.S. control of the territory. "Europe is firmly united with you too. This is the basic message," she added.
+Trump has long advocated for control of Greenland, a vast, sparsely populated and largely frozen island, but the U.S. president's fixation on the territory became a major trans-Atlantic issue at the start of the year.
+Trump, who had refused to rule out the use of military force to annex Greenland, abruptly announced in late January, however, that he and NATO Secretary General Mark Rutte had formed a "framework of a future deal" with respect to the territory.
+A working group of representatives from the U.S., Denmark and Greenland have since been meeting to discuss the way forward.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
+    publishedAt: "2026-09-07T13:09:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "trump-says-he-s-made-hundreds-of-billion-92f27b8c",
     title: "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1147,296 +1431,6 @@ Markets will be focused on the Friday CPI report, which Fed officials have said 
     category: "マクロ経済",
     imageUrl: "https://images.mktw.net/im-07282773",
     readTime: 2,
-  },
-  {
-    id: "7-mortgage-rates-are-already-here-some-b-b126096e",
-    title: "7% mortgage rates are already here, some buyers and mortgage experts say",
-    titleJa: "住宅ローン金利はすでに7％になっている、と一部の購入者や住宅ローン専門家は言う",
-    summaryJa: "住宅ローン金利は今年最高値を更新し、住宅購入者にとってさらに悪いニュースとなった。",
-    bodyOriginal: `Mortgage rates ticked up to a new high for the year, delivering more bad news for home buyers.`,
-    bodyJa: `住宅ローン金利は今年最高値を更新し、住宅購入者にとってさらに悪いニュースとなった。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
-    publishedAt: "2026-09-05T18:09:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-03183428",
-    readTime: 2,
-  },
-  {
-    id: "u-s-attacks-3-iranian-oil-tankers-after-8d26b4b4",
-    title: "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships",
-    titleJa: "米国、イランの石油タンカー3隻を攻撃、ミサイルが海軍軍艦を標的に",
-    summaryJa: "米中央軍がイスラム革命防衛隊が同地域の海軍軍艦２隻に向けて弾道ミサイルを発射したと米中央軍が発表したことを受け、土曜日、米軍はイランの原油運搬船３隻を攻撃した。CENTCOMは、カーグ島沖の原油運搬船1隻とジャスク近郊の原油運搬船1隻を永久に航行不能にしたと発表した。オマーン湾で別の石油タンカーが攻撃された。",
-    bodyOriginal: `U.S. forces struck three Iranian crude oil carriers Saturday after U.S. Central Command said the Islamic Revolutionary Guard Corps launched ballistic missiles toward two Navy warships in the region.
-CENTCOM said it permanently disabled one crude oil carrier off the coast of Kharg Island and one near Jask. Another oil tanker was attacked in the Gulf of Oman.
-The strikes come after CENTCOM said the Revolutionary Guard launched ballistic missiles toward two U.S. Navy warships patrolling the region. According to CENTCOM, a U.S. aircraft carrier and guided-missile destroyer successfully evaded multiple attacks, and no American personnel were harmed.
-"Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost —taking out three of yours," Admiral Brad Cooper, CENTCOM commander, said in a statement Saturday. "We will not hesitate to defend American forces, and if necessary, destroy Iran's limited and exposed oil fleet."
-There was no immediate response from Iranian authorities to Saturday's U.S. attacks.
-Iran is the third-largest producer in the Organization of the Petroleum Exporting Countries and exported 90% of its crude via Kharg Island before the war. Flows have been disrupted by a U.S. blockade of Iranian oil exports, which began in mid-April.
-The conflict between Iran and the U.S. has effectively shut the Strait of Hormuz, a key waterway for the world's oil supply before the war.
-U.S. President Donald Trump threatened in June to seize Kharg Island as the U.S. continued military strikes against Iran. Most recently, on Aug. 31, he posted an artificial intelligence-generated video of Kharg Island being blown up.
-The strike on the oil tankers comes a day after the Treasury Department announced sanctions against a small Turkish investment bank and two of its subsidiaries, which the U.S. accuses of facilitating funds for an arm of Iran's Revolutionary Guard.
-The Treasury alleges that Golden Global Yatirim Bankasi Anonim Sirketi and its subsidiaries Golden Global Varlik Kiralama Anonim Sirketi and Golden Global Portfoy Yonetimi Anonim Sirketi were "established for the purpose of enabling Iran's rahbar network to transfer oil revenues from China to Turkey, where it could then be converted to cash and gold by rahbar money exchangers."
-Golden Global Bank is the second major financial institution targeted under "Operation Economic Outcast," an effort by the Trump administration to isolate Tehran through non-military actions by sanctioning its business partners.`,
-    bodyJa: `米中央軍がイスラム革命防衛隊が同地域の海軍軍艦２隻に向けて弾道ミサイルを発射したと米中央軍が発表したことを受け、土曜日、米軍はイランの原油運搬船３隻を攻撃した。
-CENTCOMは、カーグ島沖の原油運搬船1隻とジャスク近郊の原油運搬船1隻を永久に航行不能にしたと発表した。オマーン湾で別の石油タンカーが攻撃された。
-この空爆は、革命防衛隊がこの地域を哨戒中の米海軍軍艦２隻に向けて弾道ミサイルを発射したとセントコムが発表した後に行われた。セントコムによると、米国の空母と誘導ミサイル駆逐艦は複数回の攻撃を回避することに成功し、米国人員に被害はなかった。
-CENTCOM司令官ブラッド・クーパー提督は土曜日の声明で、「革命防衛隊へのメッセージを明確にしておきたい。もしあなたが我々の艦船2隻を撃つなら、我々はさらに高い経済的代償を課すことになる。つまり、あなた方の3隻を撃破することになる」と述べた。 「われわれはためらうことなく米軍を守り、必要であれば、限定され露出したイランの石油艦隊を破壊する」と語った。
-土曜日の米国による攻撃に対して、イラン当局からの即時反応はなかった。
-イランは石油輸出国機構内で第３位の生産国であり、戦前は原油の９０％をカールグ島経由で輸出していた。 4月中旬に始まった米国によるイラン石油輸出封鎖により、原油の流れが中断されている。
-イランと米国の紛争により、戦前は世界の石油供給の重要な水路であったホルムズ海峡が事実上閉鎖された。
-ドナルド・トランプ米大統領は6月、米国がイランに対する軍事攻撃を続ける中、カーグ島を占領すると脅迫した。ごく最近では、8月31日に人工知能が生成したカーグ島が爆破される動画を投稿した。
-石油タンカーへの攻撃は、米国がイラン革命防衛隊への資金援助を行っているとして非難しているトルコの小規模投資銀行とその子会社２社に対する制裁を財務省が発表した翌日に行われた。
-財務省は、ゴールデン・グローバル・ヤティリム・バンカシ・アノニム・シルケティとその子会社であるゴールデン・グローバル・ヴァルリック・キララマ・アノニム・シルケティとゴールデン・グローバル・ポートフォイ・ヨネティミ・アノニム・シルケティは「イランのラーバールネットワークが中国からトルコに石油収入を送金し、ラーバール両替業者によって現金や金に交換できるようにする目的で設立された」と主張している。
-ゴールデン・グローバル銀行は、取引先への制裁による非軍事的行動を通じてテヘランを孤立させるトランプ政権の取り組み「経済的追放作戦」の対象となった2番目の大手金融機関である。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/05/us-iran-oil-tankers-navy-missile-attack.html",
-    publishedAt: "2026-09-05T15:00:03+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "why-walmart-is-moving-in-on-doordash-ube-5ebbe5db",
-    title: "Why Walmart is moving in on DoorDash, Uber Eats delivery action, starting with donuts, coffee and sandwiches",
-    titleJa: "ウォルマートがドーナツ、コーヒー、サンドイッチから始まるドアダッシュ、ウーバーイーツの配達アクションに参入する理由",
-    summaryJa: "ウォルマートがダンキンに配達する契約は、今年初めのサブウェイサンドイッチに続くもので、国内最大手の小売業者はウーバーイーツとドアダッシュをターゲットにしている。",
-    bodyOriginal: `Walmart will soon be able to bring you an iced coffee and a maple doughnut — from Dunkin'.
-The nation's largest retailer announced this week it will first start delivering Dunkin' products from its own stores, but will then expand the program over the next year to include most of the doughnut chain's approximately 10,000 U.S. locations, most located outside Walmart stores entirely. This outside-the-store experiment builds upon the retailer's similar delivery program with in-store Subway restaurants.
-Industry experts say this amounts to Walmart throwing down the gauntlet at rival food delivery services like Uber Eats and DoorDash. For its part, Walmart is billing it as a natural extension of what it is already doing.
-"We see this as a way to continue adding value and convenience for customers within a shopping experience they already know and trust. By pairing restaurant delivery with Walmart's vast assortment, we can create a delivery experience that gives customers more of what they want in one place," a Walmart spokesperson told CNBC.
-In other words, while you are ordering your iced latte or cinnamon cruller, add toilet paper, mouthwash and socks to your order. That, says Hongseok Jang, an assistant professor of management science at Tulane University, is the point. Jang has studied online delivery and said Walmart's vast reservoir of built-in customers, its stores, and existing logistics network will make it a formidable competitor to other food delivery companies.
-The Walmart spokesperson said the Dunkin' deliveries will run through its new service called Walmart Restaurant Delivery, for which Subway was the first partner.
-"To me it seems that Walmart is testing its own delivery system to see if they can handle it, and if it is successful there will be a big competition between Walmart and Uber Eats and DoorDash," Jang said.
-Walmart's Dunkin' announcement suggested as much, with the retailer referring to itself as a "rapidly emerging contender in the restaurant delivery business."
-Mike Danford, co-owner and chief strategy officer at Adverio, an e-commerce marketing agency that works with brands selling on Amazon, Walmart, and Target, said Walmart's shift to delivering items from outside Walmart, such as a Dunkin' store, is a big change.
-"Delivering from a restaurant inside your own building isn't restaurant-only delivery. It's simply adding one more item to shopping carts off your own shelf, and the Spark driver was already there staging a grocery order," Danford said, referring to the company's Spark Driver platform which allows independent contractors to source gig delivery work.
-But "phase two," Danford says, when Walmart starts delivering from shops outside its store footprint, is another story. "Once you leave your own building, the attachment breaks, and you're essentially running pure delivery economics against DoorDash and Uber Eats, who have already occupied that ground," he said.
-The economics of doughnuts by themselves don't make a lot of sense, but that is not Walmart's goal. Walmart has huge customer demand for its groceries, and adding one more layer to the orders, like restaurant delivery, will add an incremental revenue source for the retailer, Jang said, with that small doughnut order serving as a gateway for customers to order other items through the Walmart app.
-"Walmart's biggest advantage is 90 percent of Americans are within 10 miles of one of their stores, and they can use that to their advantage by combining restaurant orders with all merchandise," Jang said.
-"On a standalone basis, coffee and doughnut delivery is one of the worst baskets in the business. Low order value, temperature-sensitive, time-critical. It's next to impossible to profit on just delivering a single-serve coffee by itself, but that's not what Walmart is doing," Danford said. "They're simply attaching a coffee to a grocery order on a trip that was already happening," he added.
-This increases the basket size, and even more tantalizing for Walmart is that groceries are a weekly, biweekly, or monthly order cadence, whereas coffee can be daily. "That can easily increase the frequency of orders per customer. Furthermore, the doughnut and the coffee aren't the product. They're the reason someone opens the Walmart app at 6 or 7 a.m. instead of once a week to order a few grocery items," Danford said.
-Walmart alluded to the growing importance of this kind of business on the company's Q2 earnings call. "Customers are looking for value and convenience and they want things fast, and that's where Walmart shines," said CFO John David Rainey. While its latest earnings showed sales weakness that pressured the stock price, fast delivery (under 30 minutes) in the U.S. grew 48% for the quarter.
-Walmart senior vice president Greg Cathey wrote in a blog post this week that since launching the Subway service, nearly 65% of restaurant orders were delivered along with items from Walmart the customer needed quickly.
-"We are learning a lot about how customers are using the new service, including the fact that restaurant delivery is introducing more customers to Express Delivery," Cathey wrote, adding that one in five orders that had both Subway and Walmart items were a customer's first time using Express Delivery, and nearly 30% of those customers came back within 30 days.
-But Amrita Bhasin, co-founder and CEO of Sotira, an AI-powered supply chain platform, said that for Walmart to become a true competitor to DoorDash and Uber Eats, it needs to increase delivery density and optimize routing. "If one person in a rural area is ordering food at an odd or off-peak hour and the driver has to undertake that route for a single person, this complicates economics by driving up costs for the user and/or compressing margin for Walmart," Bhasin said.
-In effect, customers will hold Walmart to a different standard than how they would for toilet paper or dog food. "Food delivery is time sensitive, and customers have lower tolerance for long wait times, delays or food being cold. Walmart needs to maintain a certain level of speed and customer experience, as well as keeping costs reasonable for consumers," Bhasin said.
-R.J. Hottovy, head of analytical research at Placer.ai, a location analytics firm, said the Dunkin' test — assuming iced coffee doesn't arrive room temperature and hot coffee doesn't arrive at room temperature — will establish Walmart in the space.
-"Walmart's expansion into third-party delivery is more than an in-store partnership play. Extending delivery to Dunkin' locations beyond its own stores signals that Walmart wants to be a restaurant delivery marketplace, not just a landlord," Hottovy said.
-Still, because it runs orders through a delivery network that already fulfills from stores, Walmart operates on a fundamentally different cost structure than DoorDash or Uber Eats, he said.
-"Coffee and doughnuts are low-ticket purchases, but Walmart doesn't need a $6 Dunkin' order to work on its own — it needs to attach that order to an existing $80 grocery basket for the economics to work," Hottovy said.`,
-    bodyJa: `ウォルマートは間もなく、ダンキンのアイスコーヒーとメープルドーナツを提供できるようになります。
-米国最大の小売業者である同社は今週、まずは自社店舗からダンキン製品の配達を開始すると発表したが、その後、来年にかけてこのプログラムを拡大し、全米約1万のドーナツチェーン店のほとんどがウォルマート店舗外にある店舗のほとんどを対象にすると発表した。この店外での実験は、この小売業者が店内の Subway レストランで行った同様の配達プログラムに基づいて行われます。
-業界専門家は、これはウォルマートがウーバーイーツやドアダッシュなどの競合食品配達サービスに挑戦することに等しいと述べている。一方、ウォルマートは、すでに行っていることの自然な延長としてそれを請求している。
-ウォルマートの広報担当者はCNBCに対し、「これは、顧客がすでに知っていて信頼しているショッピング体験の中で、顧客の価値と利便性を継続的に付加する方法であると考えている。レストランの配達とウォルマートの膨大な品揃えを組み合わせることで、顧客が望むものをより多く1か所で提供する配達体験を生み出すことができる」と語った。
-つまり、アイスラテやシナモンクルーラーを注文するときに、トイレットペーパー、うがい薬、靴下を注文に追加します。それが重要だとチューレーン大学経営科学助教授のホンソク・ジャン氏は言う。ジャン氏はオンライン配送を研究しており、ウォルマートには膨大な内蔵顧客、店舗、既存の物流ネットワークがあり、他の食品配送会社にとって強力な競争相手になるだろうと述べた。
-ウォルマートの広報担当者は、ダンキンの配達はサブウェイが最初のパートナーとなったウォルマート・レストラン・デリバリーと呼ばれる新サービスを通じて行われると述べた。
-「私には、ウォルマートが自社の配送システムに対応できるかテストしているように見える。もしそれが成功すれば、ウォルマートとウーバーイーツ、ドアダッシュとの間で大きな競争が起こるだろう」とチャン氏は語った。
-ウォルマートのダンキンの発表も同様のことを示唆しており、小売業者は自社を「レストランデリバリービジネスで急速に台頭している競争相手」と呼んでいる。
-アマゾン、ウォルマート、ターゲットで販売するブランドと提携する電子商取引マーケティング代理店アドベリオの共同所有者兼最高戦略責任者のマイク・ダンフォード氏は、ウォルマートがダンキンストアなどウォルマート社外から商品を配送するようになったのは大きな変化だと述べた。
-「自分の建物内のレストランからの配達は、レストラン専用の配達ではありません。それは単に自分の棚からショッピングカートにもう1品追加するだけであり、Sparkドライバーはすでにそこにいて食料品の注文を準備していました」とダンフォード氏は、独立した請負業者がギグ配達の仕事を調達できるようにする同社のSpark Driverプラットフォームについて言及した。
-しかしダンフォード氏は、ウォルマートが店舗敷地外の店舗から配送を開始する「第2段階」は別の話だと言う。 「自分の建物を離れると、その愛着は壊れてしまい、本質的には、すでにその地位を占めているドアダッシュやウーバーイーツに対して、純粋な配達経済を実行していることになる」と同氏は語った。
-ドーナツの経済性自体はあまり意味がありませんが、それはウォルマートの目標ではありません。ウォルマートには食料品に対する顧客の膨大な需要があり、レストランへの配達など注文にもう1つのレイヤーを追加することで、小売業者の収益源がさらに増加し​​、その小さなドーナツの注文が顧客がウォルマートのアプリを通じて他の商品を注文するための入り口として機能する、とジャン氏は述べた。
-「ウォルマートの最大の利点は、米国人の90％が自社の店舗から16マイル以内に住んでおり、レストランでの注文とすべての商品を組み合わせることで、それをうまく利用できることだ」とチャン氏は語った。
-「単独で見ると、コーヒーとドーナツの配達は業界で最悪のバスケットの一つだ。注文金額は低く、温度に敏感で、時間が重要だ。シングルサーブのコーヒーを配達するだけで利益を上げるのはほぼ不可能だが、ウォルマートがやっているのはそうではない」とダンフォード氏は語った。 「彼らは、すでに予定されていた旅行の食料品の注文にコーヒーを添えているだけだ」と彼は付け加えた。
-これによりバスケットのサイズが大きくなり、ウォルマートにとってさらに魅力的なのは、食料品は毎週、隔週、または毎月の注文頻度であるのに対し、コーヒーは毎日注文される可能性があることです。 「そのため、顧客1人当たりの注文頻度は簡単に増加する可能性がある。さらに、ドーナツとコーヒーは商品ではない。食料品を数点注文するために週に1回ではなく、午前6時か7時にウォルマートのアプリを開く人がいるのはこのためだ」とダンフォード氏は語った。
-ウォルマートは同社の第2四半期決算発表で、この種のビジネスの重要性が高まっていることをほのめかした。ジョン・デビッド・レイニー最高財務責任者（ＣＦＯ）は「顧客は価値と利便性を求めており、迅速な対応を求めている。そこがウォルマートの強みだ」と述べた。同社の最新決算では売上高の低迷が株価を圧迫していることが示されたが、米国での短納期（30分以内）サービスは同四半期に48％増加した。
-ウォルマートのシニアバイスプレジデント、グレッグ・キャシー氏は今週のブログ投稿で、サブウェイサービスの開始以来、レストランでの注文のほぼ65％が、顧客がすぐに必要としたウォルマートの商品と一緒に配達されたと書いた。
-キャシー氏は「レストランの配達がエクスプレス・デリバリーを利用する顧客を増やしているという事実など、顧客がどのように新サービスを利用しているかについて多くのことを学んでいる」と書き、サブウェイとウォルマートの両方の商品を含む注文の5件に1件が顧客にとってエクスプレス・デリバリーの初めての利用であり、それらの顧客のほぼ30％が30日以内にリピートしていると付け加えた。
-しかし、AIを活用したサプライチェーンプラットフォームであるソティラの共同創設者兼最高経営責任者（CEO）であるアムリタ・バシン氏は、ウォルマートがドアダッシュやウーバーイーツの真の競争相手になるためには、配送密度を高め、ルーティングを最適化する必要があると述べた。 「田舎で、ある人が変な時間やオフピークの時間に食べ物を注文し、ドライバーがそのルートを一人で引き受けなければならない場合、ユーザーのコストが上昇したり、ウォルマートのマージンが圧縮されたりするため、経済状況が複雑になる」とバシン氏は述べた。
-事実上、顧客はウォルマートに対して、トイレットペーパーやドッグフードとは異なる基準を求めることになる。 「食品の配達は時間に左右され、顧客は長い待ち時間や遅れ、食品が冷えていることに対する許容度が低い。ウォルマートは一定レベルのスピードと顧客体験を維持するとともに、消費者にとって妥当なコストを維持する必要がある」とバシン氏は述べた。
-R.J.位置情報分析会社Placer.aiの分析研究責任者、ホットビー氏は、ダンキンテスト（アイスコーヒーは室温に届かず、ホットコーヒーは室温に届かないと仮定）により、この分野でウォルマートが確立されるだろうと述べた。
-「ウォルマートのサードパーティ配達への拡大は、店内でのパートナーシップ戦略以上のものだ。自社店舗を超えてダンキンの店舗への配達を拡大するということは、ウォルマートが単なる家主ではなく、レストラン配達市場になりたいということを示している」とホットビー氏は語った。
-それでも、ウォルマートはすでに店舗からの配送を行っている配送ネットワークを通じて注文を処理しているため、ドアダッシュやウーバーイーツとは根本的に異なるコスト構造で運営されていると同氏は述べた。
-「コーヒーとドーナツは低価格で購入できるが、ウォルマートが単独で機能するには6ドルのダンキン注文は必要ない。経済を機能させるためには、その注文を既存の80ドルの食料品バスケットに添付する必要がある」とホットビー氏は語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/05/walmart-dunkin-subway-delivery-uber-eats-doordash.html",
-    publishedAt: "2026-09-05T14:46:14+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "trump-s-state-capitalism-comes-to-the-oi-43e9ed38",
-    title: "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-    titleJa: "前例のないベネズエラ合意により、トランプ大統領の国家資本主義が石油業界にもたらされる",
-    summaryJa: "国防総省は、ドナルド・トランプ大統領のベネズエラ合意が成功すれば、エクソンモービルの世界ポートフォリオよりも大きな原油埋蔵量を管理する無名の民間石油会社の多額の所有権を取得した。この協定は、アメリカ政府が軍事襲撃で元ベネズエラ大統領ニコラス・マドゥロ大統領を追放し、デルシー・ロドリゲス暫定大統領が率いる残りの政権を引き入れてから8か月後に実現した。",
-    bodyOriginal: `The Pentagon has received a big ownership stake in an obscure private oil company that will control crude reserves larger than ExxonMobil's global portfolio if President Donald Trump's Venezuela deal is successful.
-The deal comes eight months after Washington ousted former Venezuelan President Nicolás Maduro in a military raid and co-opted the remaining regime led by interim President Delcy Rodríguez.
-The Rodríguez government has granted North American Blue Energy Partners, headquartered in Barbados, concessions to 17 oilfields in Venezuela for a century. NABEP's CEO, Alejandro Betancourt, is a controversial figure who has faced investigations into his past ventures.
-NABEP has in turn granted the Pentagon's Office of Strategic Capital a 35% equity stake at no cost to the U.S. taxpayer, according to deal details released by the White House this week.
-The Trump administration has taken ownership stakes in companies at an unprecedented pace, particularly for a Republican administration, outside major crises like the world wars and Great Depression and Recession. It has argued such deals are needed to secure resources critical to national security.
-But it is difficult to find a historical precedent for the U.S. government taking a direct ownership stake in an oil company, not to mention one that will operate fields in a foreign nation, said Tyler Priest, a historian of the oil industry at the University of Iowa.
-The deal gives the U.S. majority control over 65 billion barrels of Venezuela's proven crude reserves, the White House said. This is about 20% of the 303 billion barrels the country is thought to possess.
-If the White House figures are accurate, NABEP would be the second-largest oil company measured by proved reserves in the world behind Saudi Aramco, said Patrick Rutty, director of global intelligence at Enverus. It would be around four times larger than Exxon's reserves, Rutty said.
-The Venezuela deal appears to be unprecedented, Priest said. The U.S. considered taking direct control of an oil concession in Saudi Arabia during World War II but backed down due to industry opposition, he said. Congress almost created a federal oil company in 1976, but the vote narrowly failed.
-"For the American government to get involved with a shady businessman concessionaire in a country that is known for endemic corruption, it just raises all sorts of red flags," Priest said.
-'State-owned enterprise'
-On top of the Pentagon equity stake, the State Department has the right to purchase 20% of NABEP's oil output at the cost of production rather than market price. The U.S. agency also has the right to first refusal for the remaining 80% of NABEP's production.
-The U.S. government can also veto appointments to NABEP's board of directors and a majority of the board must be U.S. citizens. The deal with NABEP is governed by U.S. law and subject to the jurisdiction of its courts.
-"This is straight up a state-owned enterprise," said Scott Lincicome, an international trade law expert at the Cato Institute. "De facto control of 100% of output at cost — that's ownership."
-The oil bought by the U.S. on favorable terms will help refill the Strategic Petroleum Reserve and "provide supply for military and other sensitive uses," the White House has said.
-The Trump administration does not anticipate using the U.S. right of first refusal to the other 80% of NABEP's production, a U.S. official told reporters on a call Tuesday.
-The first refusal right is a long-term insurance policy that the U.S. would use when it faces a crisis, said the official, who spoke on the condition of anonymity to discuss the deal freely.
-The deal is "first and foremost about geopolitics," the official said. "This was an opportunity to secure fields that had largely been under the influence of Chinese and Russian companies."
-Big Oil hesitant
-The Trump administration's goal is to encourage private investment in Venezuela by strengthening investor confidence in the country through the U.S. government's presence, Energy Secretary Chris Wright told CNBC's Brian Sullivan on Wednesday in Caracas.
-The NABEP deal is "not a displacement or a replacement of private companies," Wright said. The U.S. government will "not be the operator or producer" of Venezuela's reserves, he said.
-Washington has partnered with NABEP as most U.S. oil majors are hesitant to invest in Venezuela, after the socialist government in Caracas nationalized industry assets in 2007.
-ExxonMobil CEO Darren Woods told Trump that Venezuela is "uninvestable" during a televised meeting at the White House in January. ConocoPhillips doesn't plan to return to Venezuela until it recovers the money it is owed by Caracas, CEO Ryan Lance indicated in February.
-Chevron is the only U.S. oil major active in Venezuela. It announced a separate deal this week to invest $7 billion to more than double its production in the country by 2031.
-"This entity came about due to a lack of private investment interest in Venezuela," Lincicome said of the NABEP deal. "It's hard for me to see where private capital now floods in."
-Betancourt's record
-The U.S. official said the Trump administration partnered with NABEP because its CEO is a "good oil operator" who in "the past has been helpful to the United States government."
-But Betancourt has faced money laundering and corruption allegations. He has not been charged with a crime and has denied wrondgoing.
-"I'm not nominating anyone for sainthood here," the U.S. official told reporters when asked about Betancourt's past. The CEO is not facing any charges in the U.S. for violation of its laws, the official said.
-"This individual, in particular, is a proven oil operator who we believe can, given his knowledge of the industry, bring these fields into productive capacity that produces the oil necessary to generate the revenue necessary for Venezuela to emerge from really 20 years of being in the hole," the U.S. official said.
-Betancourt scaled NABEP's production in Venezuela from 18,000 barrels per day to more than 200,000 bpd, the company has said. This makes NABEP the second-largest private oil producer in the Venezuela, according to the company's statements.
-NABEP has said the deal will bring nearly $100 billion of investment to Venezuela's oil sector. Its near-term goal is to increase its production to more than 1 million bpd.
-Legality uncertainty
-But the U.S. government's partnership with NABEP faces legal and political uncertainty that raises doubts about the deal's long-term viability.
-"As with the other equity deals, the Trump administration does not appear to have laid out any legal rationale or justification for how they think they can do this," said Peter Harrell, who served as an international economics advisor on the National Security Council under President Joe Biden.
-U.S. government statements have created confusion. Before the deal was announced, the Pentagon said "the Office of Strategic Capital (OSC) does not take equity stakes in private companies."
-"Under its statutory authority, OSC's role is strictly limited to providing capital assistance in the form of a loan, loan guarantee, or technical assistance," Pentagon spokesperson Sean Parnell said in a statement to CNBC on Aug. 28.
-The White House then confirmed Monday that the OSC would receive a 35% stake in NABEP under the deal. A U.S. official subsequently told reporters on the Tuesday call that "the equity position is structured consistent with the statutory authority granted to the Office of Strategic Capital."
-If a Democrat wins the 2028 presidential election, the deal will be reconsidered at the least and possibly terminated altogether, said Bob McNally, president of Rapidan Energy. If a Republican is the next president, a future Venezuelan regime could rip the agreement up, McNally said.
-"The U.S. goal is to de-risk private long-term investment but significant political risks in both Washington and Caracas will limit the plan's impacts," McNally said.`,
-    bodyJa: `国防総省は、ドナルド・トランプ大統領のベネズエラ合意が成功すれば、エクソンモービルの世界ポートフォリオよりも大きな原油埋蔵量を管理する無名の民間石油会社の多額の所有権を取得した。
-この協定は、アメリカ政府が軍事襲撃で元ベネズエラ大統領ニコラス・マドゥロ大統領を追放し、デルシー・ロドリゲス暫定大統領が率いる残りの政権を引き入れてから8か月後に実現した。
-ロドリゲス政権は、バルバドスに本社を置くノースアメリカン・ブルー・エナジー・パートナーズに対し、ベネズエラの17油田に対する1世紀にわたる利権を認めた。 NABEPのCEOであるアレハンドロ・ベタンクール氏は、過去の事業に関して捜査を受けている物議を醸す人物である。
-ホワイトハウスが今週発表した取引詳細によると、NABEPは今度は国防総省戦略資本局に米国納税者に無償で株式の35％を付与した。
-トランプ政権は、世界大戦や大恐慌、不況などの大きな危機を除けば、特に共和党政権としては前例のないペースで企業の株式を取得した。国家安全保障に不可欠な資源を確保するにはこうした協定が必要だと主張している。
-しかし、アイオワ大学の石油産業の歴史家であるタイラー・プリースト氏は、米国政府が石油会社の直接所有権を取得するという歴史的な前例を見つけるのは困難であり、言うまでもなく外国で油田を運営する会社であると述べた。
-ホワイトハウスによると、この合意により米国はベネズエラの確認原油埋蔵量650億バレルの過半数を管理することになる。これは同国が保有すると考えられる3,030億バレルの約20％に相当する。
-エンベラスのグローバル情報部門ディレクター、パトリック・ルッティ氏は、ホワイトハウスの統計が正確であれば、NABEPは確認埋蔵量でサウジアラムコに次いで世界で2番目に大きな石油会社になるだろうと述べた。それはエクソンの埋蔵量の約4倍になるだろうとラッティ氏は語った。
-プリースト氏は、ベネズエラとの合意は前例のないもののようだと述べた。米国は第二次世界大戦中にサウジアラビアの石油利権を直接管理することを検討したが、業界の反対により撤回したと同氏は述べた。議会は1976年に連邦石油会社を創設しようとしたが、投票は僅差で否決された。
-「汚職が蔓延していることで知られるこの国で、アメリカ政府が怪しげな実業家利権者と関わることは、あらゆる種類の危険信号を引き起こすだけだ」とプリースト氏は語った。
-「国有企業」
-国防総省の株式に加えて、国務省はNABEPの石油生産量の20％を市場価格ではなく生産コストで購入する権利を有している。米国の代理店は、NABEP の生産量の残り 80% について、優先的に拒否する権利も持っています。
-米国政府はNABEPの取締役会への任命に拒否権を発動することもでき、取締役会の過半数は米国国民でなければならない。 NABEP との契約は米国法に準拠し、裁判所の管轄に服します。
-「これはまさに国有企業だ」とケイトー研究所の国際貿易法の専門家スコット・リンシカム氏は言う。 「原価での生産量の 100% の事実上の管理、それが所有権です。」
-米国が有利な条件で購入した石油は、戦略石油備蓄の補充に役立ち、「軍事およびその他の機密用途に供給される」とホワイトハウスは述べた。
-米当局者は火曜日の電話会見で記者団に対し、トランプ政権はNABEP生産の残り80％に対して米国の優先拒否権を行使することは想定していない、と語った。
-最初の拒否権は米国が危機に直面した際に利用する長期保険契約だ、とこの高官は協定について自由に話し合うため匿名を条件に語った。
-この合意は「何よりもまず地政学に関するものだ」と当局者は述べた。 「これは主に中国とロシア企業の影響下にあった分野を確保する機会だった。」
-ビッグオイル躊躇
-クリス・ライト・エネルギー長官は水曜日、カラカスでCNBCのブライアン・サリバンに対し、トランプ政権の目標は、米国政府の存在を通じてベネズエラに対する投資家の信頼を強化することで、ベネズエラへの民間投資を促進することであると語った。
-ライト氏は、NABEPとの合意は「民間企業を置き換えたり、置き換えたりするものではない」と述べた。同氏は、米国政府はベネズエラの埋蔵量の「運営者や生産者ではない」と述べた。
-2007年にカラカスの社会主義政権が産業資産を国有化して以降、米国の石油メジャーのほとんどがベネズエラへの投資を躊躇しているため、米国政府はNABEPと提携した。
-エクソンモービルのダレン・ウッズ最高経営責任者（CEO）は1月にホワイトハウスで行われたテレビ会議でトランプ大統領に対し、ベネズエラは「投資不可能」であると語った。コノコフィリップスはカラカスからの未払い金を回収するまでベネズエラに戻るつもりはないと、最高経営責任者（CEO）のライアン・ランス氏が2月に示唆した。
-シェブロンはベネズエラで活動する唯一の米国石油メジャーである。同社は今週、７０億ドルを投資して２０３１年までに国内生産量を２倍以上に増やす別の合意を発表した。
-リンシカム氏はNABEP契約について、「ベネズエラへの民間投資の関心がなかったため、この事業体が誕生した」と述べた。 「民間資本が今どこに流入しているのか、私にはわかりません。」
-ベタンクールの記録
-同米当局者は、トランプ政権がNABEPと提携したのは、NABEPの最高経営責任者（CEO）が「過去に米国政府に貢献してきた」「優れた石油事業者」であるためだと述べた。
-しかしベタンクール氏はマネーロンダリングと汚職疑惑に直面している。彼は罪で起訴されておらず、不法行為を否認している。
-ベタンクール氏の過去について問われた米当局者は記者団に対し、「私はここで誰かを聖人に指名するつもりはない」と語った。同関係者によると、CEOは米国内で法律違反でいかなる罪にも問われていないという。
-「特にこの人物は実績のある石油事業者であり、業界の知識を踏まえると、ベネズエラが実に20年間の窮地から立ち上がるのに必要な収入を生み出すのに必要な石油を生産する生産能力をこれらの油田にもたらすことができると我々は信じている」と米国当局者は述べた。
-ベタンクール氏はベネズエラでのNABEPの生産量を日量1万8000バレルから日量20万バレル以上に拡大したと同社は発表した。同社の声明によれば、これによりNABEPはベネズエラで第2位の民間石油生産者となる。
-NABEPは、この協定によりベネズエラの石油セクターに1000億ドル近い投資がもたらされると述べた。短期的な目標は、生産量を日量 100 万バレル以上に増やすことです。
-合法性の不確実性
-しかし、米国政府とNABEPの提携は法的・政治的不確実性に直面しており、協定の長期的な存続可能性には疑問が生じている。
-ジョー・バイデン大統領の下で国家安全保障会議の国際経済顧問を務めたピーター・ハレル氏は、「他の株式取引と同様、トランプ政権はこれを実現できると考える法的根拠や正当化を明らかにしていないようだ」と述べた。
-米国政府の声明は混乱を引き起こしています。この取引が発表される前、国防総省は「戦略資本局（OSC）は民間企業の株式を取得しない」と述べた。
-国防総省のショーン・パーネル報道官は8月28日、CNBCへの声明で「法定権限に基づき、OSCの役割は融資、融資保証、技術支援の形で資本支援を提供することに厳密に限定されている」と述べた。
-その後ホワイトハウスは月曜日、この合意に基づきOSCがNABEP株の35％を取得することを確認した。その後、米当局者は火曜日の電話会議で記者団に対し、「株式ポジションは戦略資本局に与えられた法的​​権限と一致する構造になっている」と語った。
-ラピダン・エナジーのボブ・マクナリー社長は、2028年の大統領選挙で民主党が勝てば、少なくとも協定は再検討され、場合によっては完全に解除されるだろうと述べた。共和党員が次期大統領になった場合、将来のベネズエラ政権が協定を破棄する可能性があるとマクナリー氏は語った。
-マクナリー氏は「米国の目標は民間の長期投資のリスクを軽減することだが、ワシントンとカラカスの両国における重大な政治リスクにより、計画の影響は限定されるだろう」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-    publishedAt: "2026-09-05T14:34:46+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "here-s-how-much-americans-rely-on-social-4f875fba",
-    title: "Here’s how much Americans rely on Social Security — at all income levels",
-    titleJa: "すべての所得レベルでアメリカ人がどれだけ社会保障に依存しているかを示します",
-    summaryJa: "社会保障はアメリカの高齢者にとって非常に重要です。再構築するのではなく、調整する必要があります。",
-    bodyOriginal: `Social Security is really important for older Americans. It needs to be tweaked, not restructured.`,
-    bodyJa: `社会保障はアメリカの高齢者にとって非常に重要です。再構築するのではなく、調整する必要があります。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/heres-how-much-americans-rely-on-social-security-at-all-income-levels-3a767119?mod=mw_rss_topstories",
-    publishedAt: "2026-09-05T14:33:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-90691147",
-    readTime: 2,
-  },
-  {
-    id: "please-don-t-let-this-happen-to-you-my-dc5adfe8",
-    title: "‘Please don’t let this happen to you’: My best friend died without a will — her neglectful family gets everything",
-    titleJa: "「お願いです、こんなことがあなたに起こらないでください」: 私の親友は遺言書なしに亡くなりました - 彼女の怠慢な家族がすべてを手に入れます",
-    summaryJa: "「彼女は、自分のために時間をあまり作ってくれなかった人たちにすべてを委ねるという考えに苦しみました。」",
-    bodyOriginal: `“She struggled with the thought of leaving everything to people who, in her eyes, had never made much time for her.”`,
-    bodyJa: `「彼女は、自分のために時間をあまり作ってくれなかった人たちにすべてを委ねるという考えに苦しみました。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories",
-    publishedAt: "2026-09-05T14:31:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-09471814",
-    readTime: 2,
-  },
-  {
-    id: "many-truckers-don-t-feel-like-the-rest-o-6c9fa87e",
-    title: "Many truckers don't feel like the rest of America about AI data centers as business booms",
-    titleJa: "ビジネスが急成長する中、多くのトラック運転手は AI データセンターについてアメリカの他の地域のように感じていない",
-    summaryJa: "HVAC システムから配管、配線、半導体に至るまで、広大なデータセンターのコンポーネントは主にトラックで到着し、貿易戦争で大きな打撃を受けた企業にとっては恩恵となっています。",
-    bodyOriginal: `As America has an intense national debate about the cost of AI data centers and who stands to benefit, one often overlooked industry that has seen a boost in business from AI is trucking.
-Sprawling data centers don't just sprout from fields, even if it seems that way. All the components that go into a data center, from HVAC systems to tubing and wiring and semiconductors, arrive primarily by truck (or train and then truck). And for a freight business that has been hurt by successive rounds of trade war tariffs and surging diesel fuel prices which hit an all-time high of $5.85 a gallon on Friday as a result of the Iran war, AI is providing a bit of a respite.
-"Against that backdrop, AI and data center activity presents an opportunity for fleets," said Patrick Brennan, senior vice president of fleet management solutions provider Cox Fleet. Overall freight demand is still uneven, he said, but AI is providing some needed stability. Equipment-led growth, whether for data centers or defense and semiconductor projects, is inherently more freight-generating, he said.
-Some niches within the trucking sector benefit more than others. The best-documented effect is the increased hauling of data center-aligned materials, which shows up in production indices and in individual carrier earnings commentary. Load-to-truck ratios have jumped as capacity tightening reaches this part of the market too.
-"The effect shows up most in flatbed and heavy haul, where spot rates have hit multiyear highs this summer and capacity is tightest in construction-heavy markets," Brennan said. "Flatbed and heavy haul have been on an absolute tear since last year, and that's where demand from the buildout is most concentrated," he added.
-Because site location decisions for these projects are often determined by factors including power and land cost, the arrival of AI is also reshaping trucking lanes, with much of that freight moving into markets that were never traditional freight hubs. "This reshapes routes as much as it adds volume," Brennan said.
-The increase in large-scale construction projects is also creating additional demand for skilled transportation and fleet-related talent, and not just drivers.
-"These projects require moving heavy equipment, generators, transformers, cooling systems, construction materials, and supporting infrastructure, which increases demand for CDL drivers, diesel technicians, fleet maintenance professionals, and logistics personnel," Brennan said.
-All of this is causing a scramble for personnel in what was an already shrinking pool, resulting in longer hiring timelines for specialized positions, increased recruiting activity, and higher demand for maintenance capacity as fleets operate more frequently or add equipment to support project-related freight. And, of course, more miles driven equates to more maintenance that needs to be performed.
-Smaller trucking companies get boost, but cash is tight
-It's not just the big trucking companies that are seeing an AI boom, according to Jennifer Lockett, freight factoring operations manager at transportation financing firm altLINE. Smaller companies in the space are also seeing new business, but not without growing pains.
-"Data center construction is creating new work for carriers, particularly those moving the massive transformers and generators needed to power these facilities, and large quantities of concrete and other construction materials," Lockett said.
-The size and specialized nature of these loads can also create opportunities for carriers to take on new customers and routes. And for smaller carriers, these projects can mean more consistent freight and opportunities to expand into new lanes. "But they can also require additional trucks, drivers, and equipment to handle the increased volume. That can put pressure on cash flow, particularly when carriers take on larger customers or cover upfront costs for fuel, labor, and maintenance before getting paid," Lockett said.
-Carriers will need more working capital to manage that growth and additional expenses. "Still, the bigger story is how much new freight activity these projects can generate for trucking businesses," Lockett said.
-The new trucking business related to data centers is rippling through the entire freight ecosystem. As construction ramps up in rural areas, it can increase demand for fuel, construction materials, and new drivers, which creates more trucking activity throughout the surrounding region.
-Janelle Griffith, global logistics practice leader at global risk management firm Marsh, said spikes in trucking traffic and routes are occurring now in Georgia and Texas.
-"A lot of it is rural," Griffith said, pointing to research that shows 67 percent of planned data center developments are in rural areas and 39 percent of planned facilities are located in counties where there are currently none.
-Current freight demand vs. post-construction drop-off
-The impact goes beyond the surge in flatbed leasing, Griffith said, with the data center itself only one component of a much larger AI-trucking renaissance that is impacting broad swaths of the economy. "If we think about the supply chain, the data centers are not the end of the supply chain, but the center. They create rippling effects," Griffith said, adding that the effects spread to truckers, storage facilities, and warehouses. "Every phase of the data center itself creates opportunities," Griffith added.
-Even when equipment and components can be brought in by rail, they still usually have to be trucked from the train terminal to the site. "A lot of things used to build data centers move via rail, truck takes it from destination to building, doesn't reduce demand, just reduced distance," said Kyle Roberts, vice chairman of industrial & logistics/capital markets at commercial real estate advisory firm Newmark Mountain West. He added that the short haul aspect of a lot of the data center components has especially helped the LTL segment, which has been soft for some time, most notably seen in the 2024 bankruptcy of Yellow Trucking.
-But industry experts also express caution about a potential overreaction to the AI trucking boom. Even with the new business, communities need to be careful about rushing to redo their entire infrastructure to accommodate freight since much of the AI data center-related business has an expiration date.
-Roberts said there is an "extraordinary drop off" in truck traffic to a data center once it is built. Compared to a typical 200,000-square foot warehouse or distribution center with 80 dock doors and two turns per day, a data center, once built, has a fraction of the truck traffic.
-"Unlike warehouses that support large retailers or other physical goods delivery, data centers required comparatively little logistics support after they have been built," said Kyre Lahtinen, associate teaching professor of finance at Wake Forest University. Communities experiencing a boom in trucking should be cautious about how much infrastructure they build out and whether demand will persist after the construction phase has passed, he said.
-For now, the AI ecosystem is so active now that truckers just move onto the next job.
-"There is a massive ecosystem that sits around, all of those components have trucking demands," Roberts said. "It's a very positive impact," Roberts said.`,
-    bodyJa: `米国では AI データセンターのコストと誰がその恩恵を受けるのかについて全国的に激しい議論が行われているが、AI によってビジネスが促進された業界の 1 つとして見落とされがちな業界の 1 つがトラック運送業である。
-そのように見えても、無秩序に広がるデータセンターは単に畑から芽を出したわけではありません。 HVAC システムから配管、配線、半導体に至るまで、データセンターに入るすべてのコンポーネントは、主にトラック (または電車、その後トラック) で到着します。そして、相次ぐ貿易戦争関税と、イラン戦争の影響で金曜日には1ガロン当たり5.85ドルという史上最高値を記録したディーゼル燃料価格の高騰によって打撃を受けている運送事業にとって、AIは少しの休息を与えてくれている。
-フリート管理ソリューションプロバイダーであるコックス・フリートの上級副社長、パトリック・ブレナン氏は「こうした背景を踏まえ、AIとデータセンターの活動はフリートにとってチャンスをもたらしている」と述べた。全体的な貨物需要は依然として不均一だが、AIは必要な安定性をある程度提供しつつあると同氏は述べた。データセンターであれ、防衛・半導体プロジェクトであれ、機器主導の成長は本質的に貨物を生み出すものであると同氏は述べた。
-トラック運送業界の一部のニッチ市場は、他のニッチ市場よりも恩恵を受けています。最もよく実証されている影響は、データセンターと連携した資材の​​輸送量の増加であり、これは生産指数や個々の通信事業者の収益解説に現れています。輸送能力の逼迫が市場のこの部分にも及んでいるため、トラック積載率は急上昇しています。
-ブレナン氏は、「この影響は平床貨物と重量貨物輸送で最も顕著に現れる。この夏、スポット金利は数年ぶりの高値に達し、建設需要の多い市場では生産能力が最も逼迫している」と述べた。 「平床船と重量船は昨年から完全に落ち込んでおり、増築業者からの需要が最も集中しているのはそこだ」と同氏は付け加えた。
-これらのプロジェクトの建設場所の決定は、電力や土地のコストなどの要因によって決定されることが多いため、AI の登場によりトラック輸送レーンも再構築され、その貨物の多くが従来の貨物ハブではなかった市場に移動します。 「これにより、ボリュームが追加されるだけでなく、ルートの形状も変更されます」とブレナン氏は言います。
-大規模な建設プロジェクトの増加により、ドライバーだけでなく、熟練した輸送および車両関連の人材に対するさらなる需要も生まれています。
-「これらのプロジェクトでは、重機、発電機、変圧器、冷却システム、建設資材、サポートインフラの移動が必要となるため、CDLドライバー、ディーゼル技術者、車両メンテナンス専門家、物流要員の需要が増加します」とブレナン氏は述べた。
-これらすべてが、すでに縮小していた人材の争奪戦を引き起こしており、その結果、専門職の採用スケジュールが長期化し、採用活動が増加し、艦隊の運航頻度が高くなったり、プロジェクト関連の貨物をサポートするための機器が追加されたりするため、メンテナンス能力の需要が高まっています。そしてもちろん、走行距離が長くなればなるほど、より多くのメンテナンスを行う必要があります。
-小規模なトラック運送会社は後押しされるが、資金は厳しい
-輸送金融会社オルトラインの貨物ファクタリング業務マネージャー、ジェニファー・ロケット氏によると、AIブームを迎えているのは大手トラック運送会社だけではないという。この分野の中小企業も新たなビジネスを模索していますが、成長痛がないわけではありません。
-「データセンターの建設は、通信事業者にとって新たな仕事、特にこれらの施設に電力を供給するために必要な巨大な変圧器や発電機、そして大量のコンクリートやその他の建設資材を移動させる仕事を生み出している」とロケット氏は述べた。
-これらの荷物のサイズと特殊な性質は、航空会社が新しい顧客やルートを引き受ける機会を生み出す可能性もあります。また、小規模な航空会社にとって、これらのプロジェクトはより安定した貨物輸送と新しいレーンへの拡大の機会を意味します。 「しかし、増加した量を処理するために追加のトラック、ドライバー、設備が必要になる可能性もあります。特に運送業者が大規模な顧客を引き受けたり、給料を受け取る前に燃料、人件費、メンテナンスの初期費用を負担したりする場合には、キャッシュフローが圧迫される可能性があります」とロケット氏は述べた。
-通信事業者は、その成長と追加費用を管理するために、より多くの運転資金が必要になります。 「それでも、より大きな話は、これらのプロジェクトがトラック運送事業にどれだけの新しい貨物活動を生み出すことができるかということです」とロケット氏は述べた。
-データセンターに関連した新しいトラック輸送ビジネスは、貨物エコシステム全体に波及しています。地方で建設工事が増加すると、燃料、建設資材、新しいドライバーの需要が増加し、周辺地域全体でトラック輸送の活動が増加する可能性があります。
-世界的なリスク管理会社マーシュのグローバル物流プラクティスリーダー、ジャネール・グリフィス氏は、現在ジョージア州とテキサス州でトラック輸送の交通量とルートの急増が起きていると述べた。
-グリフィス氏は、計画されているデータセンター開発の67パーセントが地方にあり、計画されている施設の39パーセントが現在は施設が存在しない郡に位置していることを示す調査結果を指摘し、「その多くは地方にある」と述べた。
-現在の貨物需要と建設後の減少率の比較
-グリフィス氏は、その影響は平台リースの急増を超えており、データセンター自体は、経済の広範囲に影響を与えている、より大規模なAIトラック輸送ルネサンスの1つの構成要素にすぎないと述べた。 「サプライチェーンについて考えてみると、データセンターはサプライチェーンの終点ではなく中心だ。波及効果を生み出す」とグリフィス氏は述べ、その影響はトラック運転手、保管施設、倉庫にも波及すると付け加えた。 「データセンター自体のあらゆる段階が機会を生み出します」とグリフィス氏は付け加えました。
-機器やコンポーネントを鉄道で搬入できる場合でも、通常は鉄道ターミナルから現場までトラックで輸送する必要があります。商業用不動産顧問会社ニューマーク・マウンテン・ウェストの産業・物流・資本市場担当副会長、カイル・ロバーツ氏は「データセンターの建設に使用される多くの物は鉄道で移動し、トラックは目的地から建物まで運ぶが、需要は減らず、距離が縮まっただけだ」と述べた。同氏は、多くのデータセンターコンポーネントの短距離の側面が特にLTLセグメントを助けていると付け加えた。LTLセグメントはしばらく低迷しており、特に2024年のイエロー・トラックの破産で顕著に見られた。
-しかし、業界の専門家らは、AIトラック輸送ブームに対する潜在的な過剰反応についても警戒を表明している。新しいビジネスであっても、AI データセンター関連ビジネスの多くには有効期限があるため、コミュニティは貨物輸送に対応するためにインフラ全体を急いで作り直すことに注意する必要があります。
-ロバーツ氏は、データセンターが建設されると、そこへのトラック交通量が「異常に減少」するという。 80 のドック ドアと 1 日あたり 2 回のターンを備えた一般的な 200,000 平方フィートの倉庫または配送センターと比較して、データ センターは、一度建設されてしまえば、トラックの交通量はほんの一部です。
-ウェイクフォレスト大学のカイレ・ラティネン准教授（金融）は、「大手小売店やその他の物理的な商品の配送をサポートする倉庫とは異なり、データセンターは建設後の物流サポートを比較的ほとんど必要としません」と述べた。トラック輸送ブームに見舞われている地域社会は、どれだけのインフラを建設するのか、また建設段階が終わった後も需要が続くのかについて慎重になるべきだと同氏は述べた。
-今のところ、AI エコシステムは非常に活発なので、トラック運転手は次の仕事に移るだけです。
-「大規模なエコシステムが存在しており、それらのコンポーネントにはすべてトラック輸送の需要がある」とロバーツ氏は語った。 「これは非常に良い影響だ」とロバーツ氏は語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/05/ai-data-centers-cost-economy.html",
-    publishedAt: "2026-09-05T13:33:08+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
   },
 ];
 
