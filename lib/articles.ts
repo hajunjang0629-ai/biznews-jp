@@ -15,6 +15,336 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "plastic-surgery-is-booming-with-boomers-c02ab8e5",
+    title: "Plastic surgery is booming with boomers. Here’s how to cash in on the antiaging craze.",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Americans age 65 and older are suddenly the fastest-growing customers for cosmetic surgery.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/plastic-surgery-is-booming-with-boomers-heres-how-to-cash-in-on-the-antiaging-craze-7f1ea891?mod=mw_rss_topstories",
+    publishedAt: "2026-09-08T10:58:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-96251716",
+    readTime: 2,
+  },
+  {
+    id: "beneath-the-surface-the-next-market-lead-af6aa938",
+    title: "Beneath the surface, the next market leaders are getting ready to break out, says Morgan Stanley",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Earnings estimates are starting to pick up for artificial-intelligence adopters — and their stocks are due to rise as well, argues Morgan Stanley.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910?mod=mw_rss_topstories",
+    publishedAt: "2026-09-08T10:56:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-09135596",
+    readTime: 2,
+  },
+  {
+    id: "uk-s-third-biggest-taxpayer-to-leave-for-92b5f33f",
+    title: "UK's third-biggest taxpayer to leave for Greece",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `UK's third-biggest taxpayer to leave for Greece
+- Published
+A hedge-fund billionaire and one of the UK's richest taxpayers has decided to leave the UK for Greece, the BBC understands.
+Chris Rokos plans to open an office in Athens, according to reports. Greece has generous tax rules for wealthy foreigners earning overseas income.
+Rokos was ranked third in The Sunday Times list of Britain's top taxpayers, having paid £330m last year, and in March said he would donate £190m to Cambridge University.
+Rokos's representatives declined to comment. A government spokesperson said: "The UK remains an attractive destination for talent and investment".
+"The chancellor has made wealth creation one of his top priorities," the spokesperson said, adding that the UK has "a competitive and stable tax system, deep capital markets, world-class universities and a highly skilled workforce".
+It is not publicly known why Rokos has made the decision, which was first reported by Bloomberg, but Greece's tax-rules are seen as attractive to the ultra-wealthy.
+They allow foreigners who meet certain criteria to pay a flat yearly tax of €100,000 (£86,000) on all overseas income.
+British billionaire to donate £190m to Cambridge University
+- Published31 March
+Dan Neidle, the founder of the think tank Tax Policy Associates, told the BBC's Today programme that the £330m in tax revenue the UK could lose was "quite a lot of money".
+"It is enough to fund 4,500 teachers... we have entire taxes that raise less than £330m."
+"He will probably pay almost nothing in Greece, and we can't compete with that," he added.
+Despite the potential loss, Neidle said there are "no easy answers and no good statistics" on the issue of ultra-wealthy taxpayers leaving the UK.
+He said the Treasury has some estimates on the number of wealthy people leaving, but otherwise there are few facts about the true scale of the revenue loss.
+"We have lots of anecdotes... what we don't really have is data," he said.
+He said the government needed to "give certainty" to ultra-wealthy people living in the UK, arguing that lots of changes to the non-dom regime in a short space of time and reports of a possible wealth tax don't help.
+"Stop rumours, stop tinkering," he said.
+Rokos's decision comes ahead of UK Chancellor John Healey's first Budget on 28 October.
+In an interview with the BBC on Monday, Healey did not rule out tax increases in the Budget, with a recent increase in government borrowing costs piling pressure on the public finances.
+He refused to comment on any decisions about tax, promising only to "balance the books" and "control public spending".
+In March, Cambridge University said the money from Rokos would be "the largest single donation made to a British university in modern times".
+It will be used to create a school of government in Cambridge named after him with the aim of training leaders of the future. It is set to open this autumn.
+Despite his generosity to Cambridge, Rokos is an Oxford graduate, having studied mathematics at Pembroke College.
+He attended a state primary school before winning a scholarship to Eton College.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-08T09:33:35+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4254/live/73808720-ab5c-11f1-9647-01c7ddc5a2b1.jpg",
+    readTime: 2,
+  },
+  {
+    id: "tirana-teeth-albania-hopes-to-be-the-ne-14bee384",
+    title: "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `'Tirana teeth': Albania hopes to be the new Turkey for dental work
+- Published
+Anthony Hook is sitting in a dentist's chair, grinning toothily into a handheld mirror. He has been asked to pose for photos showing off his new smile – and he is only too happy to oblige.
+The 58-year-old window cleaner from Bolton, in Greater Manchester, is the proud owner of a sparkling new set of "Tirana teeth".
+That is not a brand name – at least, not yet. But it would be a fitting slogan as Albania moves decisively into the medical tourism business.
+Tirana, its capital city, is the focus of operations. And once you spot the first tooth, you start seeing them everywhere. They seem to be all over the city centre.
+Rest assured, these are not the physical remains from a night out that ended in a punch up. Rather, they are the kind of larger than life-size illuminated molar that – in these parts at least – advertise that a dental clinic is not too far away.
+In Tirana's metropolitan area alone, there are almost four hundred dental clinics – and most of them are in the city centre. That's more than enough for a population of around 600,000 people.
+So, it is not surprising that dozens of dentists are now targeting customers from further afield. They have set up websites and signage in English and Italian, as well as Albanian.
+Dental implants in Albania are typically around €600 ($700; £516) per tooth, similar in price to what is charged in Turkey, which has long been the main overseas destination for people in western Europe who are seeking much cheaper dental work than they can get at home.
+The same treatment in the UK, France or German can easily cost four times as much.
+For Hook the appeal was irresistible. He made his first visit to Tirana to watch England's footballers play Albania last year – but then found himself intrigued by all the signs for dentists. That nudged him into doing something about his missing teeth.
+He thought he's give Albania rather than Turkey, because he was concerned by media coverage of dental or hair transplant work in Turkey that had gone wrong.
+In fact, even the UK Foreign Office warns that it is "aware of seven British nationals having died in Turkey in 2025 following medical procedures"., external It adds that "some British nationals have also experienced complications [after surgery in Turkey], and needed further treatment or surgery following their procedure."
+Hook says he wouldn't go to Turkey "because I have heard so many bad things", adding that he investigated thoroughly before taking the plunge in Tirana.
+"I went onto the internet and looked into it properly. It took me two days to research it because I'm not one for jumping into anything."
+Several return trips later, Anthony now has a mouthful of impressive implants – and, unsurprisingly, he is all smiles. "I'd come here once a month for a holiday if I could," he chuckles.
+Elite Dental is one of the biggest clinics in Tirana. It is fully licensed by the Albanian health authorities – and so are all of its 15 resident dentists.
+The man who runs the place, Ardtur Dema, says he is "not in favour of damaging proper teeth for aesthetics". Instead he says the priority is "changing people's lives" through restoring their ability to chew, and indeed – to smile.
+Dema believes that as long as Albania remains outside the EU, prices for treatment are likely to remain low. At the same time, low-cost airlines have greatly expanded their flight network to and from Tirana, meaning that he is as likely to see a patient from Turin as he is from Tirana.
+But Dema is concerned that the explosion of tourism could lead to less scrupulous operators ruining the business for everyone. He is a member of the newly-established Albanian Medical Tourism Association – but many others are not, at least not yet.
+Albania's Prime Minister, Edi Rama, tells the BBC that the government is playing catch-up after five years that have seen overall international arrivals to Albania more than double. Some sort of official seal of approval for medical tourism facilities is a possibility – but the government has yet to sort out the details.
+"It's a new industry that is within the tourism industry umbrella that is showing a big potential and where there are very good people," says Rama.
+He adds that the government wants to help all the reputable providers "survive", and to guard against any informal "bad competition".
+Along with dental treatments, some visitors to Albania are starting to think "hairline" as well as "coastline".
+Some transplant clinics are employing Turkish specialists – others are actually branches of businesses based in Turkey.
+Vatanmed, in Tirana, is one of the latter. Sales specialist and health consultant Ayşe Mina Kasemi describes the business as a "global brand", with 15 clinics across a number of countries. That scale, she suggests, makes it "a safe place to trust" for the international patients arriving for treatment.
+Besides that, Ayşe notes, Albania has its own appeal.
+"When people decide to have a hair transplant operation here in Albania, they also want to have a holiday here, because Albania is a very beautiful place," she says, while adding a note of caution for hair transplant patients. "For the first two or three days, they have to be careful – they are not allowed to be exposed to the sun."
+That is not a factor that concerns Anthony Hook. He happily sports a shaven head – and has no intention of following his dental treatment with a radical rug rethink. So enjoying Albania's beaches and scenery was very much part of the attraction of getting his teeth fixed here.
+"There's a lot to do in Tirana… there's a lot to do along the coast there, it's absolutely stunning," he says. "I want to do it now before it gets too popular and it's ruined like everywhere else."
+With his new teeth, enjoying Albania's cuisine will doubtless also be part of Anthony's programme. Apart from anything else, that smile is going to dazzle in the holiday snaps.
+Related topics
+- Published5 days ago
+- Published6 August
+- Published27 August`,
+    bodyJa: `「ティラナの歯」：アルバニアは歯科医療における新たなトルコになることを望んでいる
+- 公開されました
+アンソニー・フックは歯科医の椅子に座り、手鏡に向かって歯を見せてニヤニヤしている。彼は、新しい笑顔を見せる写真を撮るように頼まれましたが、喜んで応じるしかありません。
+グレーター・マンチェスターのボルトン在住の58歳の窓掃除夫は、輝く新しい「ティラナの歯」の誇り高き所有者だ。
+それはブランド名ではありません - 少なくとも、まだではありません。しかし、アルバニアが医療観光事業に断固として参入する中、これはふさわしいスローガンとなるだろう。
+首都ティラナが活動の中心です。そして、最初の歯を見つけると、どこにでもその歯が見られるようになります。市内中心部のいたるところにあるようです。
+安心してください。これらは、殴られて終わった夜の外出の物理的な残骸ではありません。むしろ、実物大よりも大きい、照明付き大臼歯のようなもので、少なくともこれらの部分では、歯科医院がそれほど遠くないことを宣伝します。
+ティラナの大都市圏だけでも約 400 の歯科医院があり、そのほとんどは市内中心部にあります。これは人口約60万人にとっては十分すぎる数字だ。
+したがって、数十の歯科医が遠方からの顧客をターゲットにしていることは驚くべきことではありません。彼らはアルバニア語だけでなく、英語とイタリア語でもウェブサイトと看板を開設しました。
+アルバニアでの歯科インプラントの価格は通常、1本あたり約600ユーロ（700ドル、516ポンド）で、トルコでの価格と同程度である。トルコは、自宅で受けられるよりもはるかに安い歯科治療を求める西ヨーロッパの人々にとって、長い間主な海外旅行先となっている。
+イギリス、フランス、ドイツで同じ治療を受けると、軽く4倍の費用がかかることもあります。
+フックにとって、その魅力は抗いがたいものだった。彼は昨年、イングランド代表のサッカー選手のアルバニア戦を観戦するためにティラナを初めて訪れたが、その後、歯科医向けのあらゆる標識に興味をそそられたことに気づいた。それが彼に、欠けている歯を何とかするよう促した。
+彼は、トルコではなくアルバニアに寄付をしようと考えた。なぜなら、トルコでの歯科や植毛手術がうまくいかなかったというメディアの報道を懸念していたからだ。
+実際、英国外務省も「2025年にトルコで医療処置後に7人の英国人が死亡したことを認識している」と警告しており、さらに「英国人の中には（トルコでの手術後に）合併症を経験し、手術後にさらなる治療や手術が必要になった人もいる」と付け加えている。
+フックさんは「あまりにも悪いことを聞いているので」トルコには行かないと言い、ティラナに思い切って行く前に徹底的に調査したと付け加えた。
+「インターネットにアクセスして、きちんと調べました。私は何かに飛びつくタイプではないので、調べるのに 2 日かかりました。」
+数回の往復を経て、アンソニーさんは今、印象的なインプラントを一口食べています。そして、当然のことながら、彼は満面の笑みを浮かべています。 「できれば月に一度、休日にここに来たいですね」と彼は笑います。
+Elite Dental はティラナ最大のクリニックの 1 つです。この病院はアルバニア保健当局から完全に認可を受けており、15 人の常駐歯科医全員も同様です。
+この店を経営するアルトゥール・デマさんは、「美観のために正しい歯を傷つけることには賛成ではない」と語る。むしろ、噛む能力、そして実際に笑う能力を回復することによって「人々の生活を変える」ことが優先であると彼は言う。
+デマ氏は、アルバニアがEU域外に留まる限り、治療費は低水準にとどまる可能性が高いと考えている。同時に、格安航空会社はティラナ発着の航空便ネットワークを大幅に拡大したため、ティラナからの患者と同じくらいトリノからの患者を診察する可能性が高いことを意味する。
+しかしデマ氏は、観光業の爆発的な増加により、悪徳業者が全員のビジネスを台無しにする可能性があると懸念している。彼は新しく設立されたアルバニア医療観光協会の会員ですが、他の多くの人は少なくともまだ会員ではありません。
+アルバニアのエディ・ラマ首相はBBCに対し、アルバニアへの国際到着者数全体が2倍以上になった5年間を経て、政府は巻き返しを図っていると語った。医療ツーリズム施設に何らかの公的承認が与えられる可能性はあるが、政府はまだ詳細を把握していない。
+「これは観光産業の傘下にある新しい産業で、大きな可能性を示しており、非常に優秀な人材が揃っています」とラマ氏は言う。
+同氏は、政府はすべての評判の良いプロバイダーが「生き残れる」よう支援し、非公式の「悪質な競争」を防ぎたいと付け加えた。
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-08T09:00:28+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5af1/live/402b1c60-aaac-11f1-aed2-8d6da8d75094.jpg",
+    readTime: 5,
+  },
+  {
+    id: "canada-s-retaliatory-tariffs-worth-27-6-0bac17f0",
+    title: "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Canada's retaliatory tariffs on a swathe of U.S. goods took effect on Tuesday after trade talks collapsed last month, as relations between Washington and Ottawa continue to sour.
+The duties range from 15% to 50% across hundreds of U.S. products worth a total $27.6 billion, including dairy, agricultural equipment, paper, household appliances and electronics. Canadian tariffs on U.S. steel, aluminum and iron products doubled to 50%, while furniture, motorbikes, clothing and some beauty products were among the goods hit with the highest rate.
+Canada called the move a "dollar for dollar" response to U.S. levies on its own goods, which have been targeted by Section 338 tariffs. Its Department of Finance said it would protect Canadian workers, producers and manufacturers by allowing them to better compete with U.S. products sold in the domestic market.
+Existing Canadian counter-tariffs against the U.S., including 25% on the politically sensitive autos sector, remain in place.
+Trade talks between the longstanding allies fell apart at the end of August, with officials on each side blaming one another for the failure to reach a deal and publicly disagreeing over which areas they could not find compromise.
+U.S. President Donald Trump on Monday called for a boycott of Canadian airplane manufacturer Bombardier, posting on Truth Social: "NO MORE SELLING BOMBARDIER IN THE UNITED STATES!"
+The U.S. exported $333.6 billion worth of goods to Canada, and imported $381.9 billion from its northern neighbor. The pair share trade in many of the same sectors, including energy, vehicles, heavy machinery, aircraft, pharmaceuticals, gems and jewelry, furniture, clothing and a host of foods and drinks.
+Economists say that while the impacted goods are a relatively small portion of overall trade, small- to medium-sized businesses and those in the most-impacted sectors face a severe blow.
+Ottawa announced a $7.5 billion support package for businesses and workers last month, extending an existing $25 billion it provided in response to the U.S. global tariff offensive, which began in April 2025.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+    publishedAt: "2026-09-08T08:21:33+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "scammers-demand-ransoms-from-instagram-u-8d6aabf3",
+    title: "Scammers demand ransoms from Instagram users over fake copyright claims",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Scammers demand ransoms from Instagram users over fake copyright claims
+- Published
+Instagram creators say they have lost thousands of pounds after their accounts were suspended or taken down due to fake copyright claims.
+Extorters have filed bogus claims to the Meta-owned social media platform, then asked for ransoms to withdraw them - knowing repeated claims can lead to account bans.
+One Instagram user, who has 1.5 million followers, told the BBC he paid a scammer $50 (£37) to get his account back, claiming Meta's appeal process would take weeks, which had previously cost him thousands in lost income.
+"We understand this can be frustrating for those impacted, and our systems are designed to protect people from this happening in the first place," a Meta spokesperson said.
+"Following our review, we have restored the affected content and added additional protections to safeguard accounts against further attempts of this kind."
+However, content creators the BBC has spoken to say Meta is poor at identifying obviously spurious cases, and say its appeals process is slow to respond unless you pay a monthly fee.
+'Obviously fake'
+The Lost in Time History Instagram account posts historical pictures to its more than 1.5 million followers.
+Its creator Olly, who did not share his last name, told the BBC he posts pictures in the public domain or where he has permission from the rights holder.
+Yet he has received dozens of "obviously fake" copyright complaints so far in 2026.
+Meta does not check the authenticity of complaints when they are made, so if someone is hit repeatedly, their account can be temporarily taken down.
+Olly says he often gets struck for multiple posts at a time, all from the same email address.
+He then gets contacted by the person asking to go on to the private messaging app Telegram.
+"They'll demand a certain amount of money," he said - usually amounting to a few hundred dollars - to withdraw the claim.
+The BBC has seen messages from the claimants where they demand money or threaten future copyright strikes.
+Allow Instagram content?
+This article contains content provided by Instagram. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Meta’s Instagram cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
+Olly ultimately agreed to pay an extorter $50 in cryptocurrency to restore his account, which had been temporarily taken down by Instagram.
+Law enforcement organisations tell extortion victims not to pay ransoms as it fuels the criminal ecosystem.
+Olly said he paid as a "last resort" because it was quicker than going through Meta, which could take weeks.
+But he was hit by more copyright strikes immediately after he paid.
+"That's the worst part," he said.
+"Having to pay the person who's actively put you through all of that anguish only for it to happen straight away again."
+As a result of the number of times he has been hit by copyright claims, Olly's account was demonetised, meaning he could not earn money from Instagram for high-performing posts.
+"There's no investigation into abuse, or system detection [from Meta] that it could be abuse," he said.
+Other Instagram users have shared similar experiences.
+"Meta was not helpful throughout the entire process, forcing you to pay for support to talk, even as they claim to be here for the creator," said Abin Tom Sebastian, who is behind the Morbid Kuriosity account.
+Meta charges a £9.99 monthly fee to be Verified on Instagram, which gives users 24/7 access to support via a live chat.
+"I lost irrecoverable and crucial, brand contracts that unfortunately moved ahead with another creator, and no reassurance or support from Meta saying this will not happen again," Sebastian said.
+Instagram says, external only copyright holders, or an authorised representative, can report copyright infringement, and it advises affected users to contacted rights holders directly.
+After the BBC contacted Meta with examples from Olly and other account holders, Meta said it had applied additional protections to their accounts, which it said would prevent similar issues happening in the future.
+It said it fought against deceptive behaviour to scam or defraud people and businesses.
+Getting in touch with the extortionists
+The BBC has spoken to three people who file copyright strikes against Instagram users, despite not being the copyright holders.
+All three appear to be based in India, or in countries nearby.
+They deny they are holding accounts to ransom - instead saying they file legitimate claims on behalf of copyright holders.
+But the BBC has seen messages from one where they ask for $900 (£668) to withdraw a strike.
+They claimed this was their payment for the service, and confirmed they kept all the money.
+Two others denied they made any money at all.
+One said they are sent accounts to target and investigate the claim.
+"If I find that they are using someone else's content, I issue copyright strikes for the benefit of everyone," they said.
+The other said they are sent accounts or posts via an account holder or another representative.
+Legitimate agencies do exist which are paid to file copyright strikes on behalf of clients.
+But Olly - who has dealt with these before when he has mistakenly posted copyrighted material - says they are usually easy to deal with, and "you can easily tell the difference".
+"They're established companies with millions of followers, so it's very different," he said.
+Recent increase
+These kinds of copyright scams are not new, with a version of the crime dating back to the early days of the internet, said Andres Guadamuz, reader in intellectual property law of the University of Sussex and an expert on digital copyright.
+Previously, they were emails or letters sent to website owners claiming they owned the copyright to photos used online, and asking for money to avoid legal action.
+Similar strikes have been used against YouTube users too.
+But the recent increase in this method may be because AI has made it easier to do this on a larger scale.
+"It's a numbers game," Guadamuz told the BBC.
+"Pretty much anyone can now deploy [AI] that is going to automate all of this in some way," he said.
+It is also harder for the platforms - with billions of users - to police the racket, and distinguish the real copyright claims from the fake ones.
+"The system was almost built with the assumption that the person that was making a copyright strike claim was legitimate," he said.
+Get in touch
+Have you been affected by the issues raised in this story? Let us know
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published15 August 2025
+- Published2 March 2023`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-08T06:49:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52b1/live/2890be40-a613-11f1-b109-879e35c24276.jpg",
+    readTime: 2,
+  },
+  {
+    id: "cholesterol-drug-setback-casts-doubt-ove-a28270a1",
+    title: "Cholesterol drug setback casts doubt over multibillion-dollar race",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Novartis' failure in a closely watched cardiovascular trial has raised questions about one of the pharmaceutical industry's biggest drug races and rival treatments from U.S. heavyweights Amgen and Eli Lilly.
+The pelacarsen drug, developed jointly with Ionis Pharmaceuticals, reduced a particularly harmful form of cholesterol in a late-stage clinical trial, but failed to significantly improve cardiovascular outcomes, Novartis said after the bell on Friday. The stock fell 3% on Monday.
+It is the first major clinical setback in the race to develop treatments that lower Lp(a), which elevates cardiovascular risks that are estimated to affect roughly one in five people worldwide and for which there is currently no approved targeted treatment.
+Although Amgen and Lilly are testing different technologies that have been shown to produce deeper reductions in the cholesterol called Lp(a), analysts say pelacarsen's failure raises the risk around a market that market watchers expect to be worth billions of dollars.
+"The Lp(a) hypothesis is weakened, but not disproven," Citi analysts said in a research note, noting that details remain scarce beyond the topline miss, including the magnitude by which pelacarsen lowered Lp(a) levels.
+More data is needed to determine whether the miss reflects pelacarsen's mechanism, trial design, or a challenge to the whole hypothesis that lowering Lp(a) can reduce heart attacks and strokes, they added.
+Novartis said full results would be presented at an upcoming medical congress. The company's chief medical officer, Shreeram Aradhye, said they "provide important evidence that advances scientific understanding of the relationship between Lp(a) lowering and cardiovascular outcomes and may help inform future approaches to cardiovascular risk management."
+Lp(a), short for lipoprotein(a), was discovered in 1963 and can contribute to the buildup of plaque in arteries and blood clotting. Nearly 50 years after its discovery, researchers found that people with elevated Lp(a) levels faced more than twice the risk of a heart attack.
+A person's Lp(a) levels are determined almost entirely by genetics and, unlike LDL cholesterol, are largely unaffected by lifestyle changes such as diet and exercise.
+Novartis emphasized that the more than 8,000 patients in the trial were already on optimized care, while Jefferies analysts said in a Sunday note that improving standards of care are reducing cardiovascular events, potentially making it harder and more costly for experimental drugs to prove an added benefit in clinical trials.
+Novartis failure raises stakes for Amgen and Eli Lilly
+Analysts had modelled peak annual sales of around $4 billion to $5 billion for pelacarsen if it proved successful.
+This would boost Novartis as it faces what CEO Vas Narasimhan has called the steepest patent cliff in its history. Its bestselling heart drug Entresto lost key patent exclusivities, and more of its blockbuster products will also soon face generic competition.
+But the trial update's impact went beyond the company. Shares of Amgen fell about 5% in extended trading on Friday and Ionis Pharmaceutical sank 10%.
+"The first dedicated outcomes failure lowers confidence across the class and places greater pressure on later studies to demonstrate that deeper lowering can produce a clinically meaningful ~15% [major adverse cardiovascular events] reduction," the Citi analysts said in their Friday note.
+Amgen's competing drug, olpasiran, faces the clearest readthrough, while Lilly's medicine, lepodisiran, is being trialled on a broader group of patients, including some who have not yet developed established cardiovascular disease, potentially limiting the direct read-through from Novartis' failure, they said. Lepodisiran is also less material to Lilly's overall valuation, they added.
+Many investors had already viewed the trial as risky and expected only a moderate benefit, which could explain why the Novartis stock reaction was relatively contained, falling only 3% in extended trading on Friday.
+"The market was expecting a moderate benefit, if not transformational blue-sky result," Barclays said.
+"NOVN had noted even a 13% benefit would have been statistically significant in the overall population, and reading between the lines of the release, [pelacarsen] appears to have fallen materially short of this threshold."
+Novartis didn't immediately respond to a request for details on the magnitude of Lp(a) lowering or cardiovascular risk reduction observed in the trial.
+U.S.-listed shares of Netherlands-based NewAmsterdam Pharma, which is also developing a treatment to reduce cardiovascular events by lowering Lp(a), fell 12% in extended trading on Friday.
+Can other Lp(a) drugs still succeed?
+Because other experimental drugs use different approaches to lower Lp(a), some may be able to reduce it more than pelacarsen did. That could give drugmakers a reason to keep developing Lp(a) treatments, particularly for patients who start with very high levels, according to William Blair analysts.
+They said they saw "meaningful risk to a potential future" in Lp(a)-driven trials for cardiovascular diseases in light of Novartis' results.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+    publishedAt: "2026-09-08T05:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "canada-braces-for-prolonged-trade-war-as-d22c7187",
+    title: "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Canada braces for prolonged trade war as counter-tariffs on US take effect
+- Published
+Canada's retaliatory tariffs on a range of US goods came into effect on Tuesday, with no sign of a trade deal on the horizon.
+The counter-tariffs will apply to nearly C$28bn ($20bn; £15bn) worth of American products, from steel to furniture to cotton T-shirts, and will be as high as 50%.
+Fresh fish and lobster were also on the list, but Canada later omitted them after pushback from its seafood industry - a sign of the tricky balance it has to strike as it retaliates against its largest trading partner.
+Both US and Canadian officials have said they would like to strike a deal, but no movement has been made to resume talks after they collapsed in late August.
+Speaking to reporters last week, Prime Minister Mark Carney said that Canada is still in search of a deal with the US that is "durable" and in the best interests of both countries.
+"We're ready to sit down and strike that deal when the Americans are ready," Carney said.
+US trade representative Jamieson Greer said on Thursday the ball is in Canada's court.
+"We offered them the best deal, they looked at it square in the face and turned around," Greer said in an interview with Fox News, adding that there has been sparse communication with the Canadians since talks collapsed.
+In a separate interview with Canadian broadcaster CBC, Greer cautioned against retaliation and suggested the US might hit back by banning the import of some Canadian products.
+President Donald Trump threatened on Monday to halt all US business with Canada-based airplane maker Bombardier unless it moved its manufacturing south.
+The aerospace giant is one of the largest in the country, contributing over C$7bn to Canada's annual GDP in 2024, according to a report commissioned by accounting firm PwC.
+What tariffs will really cost Canadians and Americans
+- Published29 August
+The US-Canada trade war in 5 charts
+- Published31 August
+Trump threatens to stop sale of Canadian Bombardier jets in US
+- Published10 hours ago
+Trump took aim at Canada in a series of other Truth Social posts over the weekend, including one that called Canada's exchange rate with the US "unacceptable".
+Another post showed a map of North America - including Canada and Mexico - and Greenland all overlaid with the US flag.
+Canada and the US have the world's largest bilateral trading relationship valued at nearly $900bn in 2025.
+With new US tariffs and Canadian counter-tariffs now in effect, businesses on both side are scrambling to deal with what comes next.
+The US currently has in place a 25% tax on Canadian cars and trucks, as well as taxes on Canadian steel, aluminium and lumber. In late August, President Donald Trump imposed new 50% tariffs on other goods like dairy, alcohol, hockey sticks and perfume.
+Canada's counter-tariffs, which were described by Carney as "dollar-for-dollar", will from Tuesday be applied to hundreds of items coming in from the US.
+They are in addition to existing retaliatory taxes Canada had placed on finished American cars and trucks that are non-compliant with a free trade agreement between Canada, the US and Mexico, known as the USMCA in the US and CUSMA in Canada.
+Polls suggest the majority of Canadians support, external their country imposing retaliatory tariffs on the US.
+But economists warn that the latest counter-tariffs will raise prices for consumers, external on everyday goods like clothing, food and furniture.
+The Canadian Chamber of Commerce has also urged the Carney government to take a surgical approach to retaliation.
+"Businesses understand retaliation but don't want to see endless escalation," said the Chamber's CEO and President Candace Laing in a statement to the BBC on Friday, though she added that businesses "are preparing for this trade dispute to last".
+Pushback from the fisheries industry was enough for Canada to alter its counter-tariffs by removing dozens of seafood items to avoid unintended consequences to its own economy.
+The lobster industry in both Canada and the US are heavily dependent on the other, with American-caught lobster often sent north to be processed before it is shipped back to the US and sold.
+Ahead of the latest tariffs, Canada's economy had shown signs of resliency. Its GDP grew 3.3% in the second quarter and it had gained 181,000 jobs from April to July.
+But around 41,000 jobs were lost in August, a period that coincided with the new US tariffs on Canada and the collapse in trade talks.
+One sector that saw a modest bump was manufacturing - a gain the Canadian government attributes to consumers and businesses buying more made-in-Canada products.
+Carney has said he wants to diversify Canada's trade away from the US.
+July figures show the share of US-bound Canadian exports dropped to 66% from an average of 75% before the trade war.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+しかし、8月には約4万1000人の雇用が失われ、この時期は米国による対カナダ関税の発動と貿易交渉の決裂と重なった。
+わずかな増加が見られたセクターの 1 つは製造業であり、カナダ政府は消費者と企業がより多くのカナダ製製品を購入したことによる増加であると考えています。
+カーニー氏はカナダの貿易を米国から離れて多角化したいと述べている。
+7月の統計によると、カナダの米国向け輸出に占める割合は、貿易戦争前の平均75％から66％に低下した。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-08T04:39:14+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg",
+    readTime: 2,
+  },
+  {
     id: "global-markets-keep-shrugging-off-shocks-aec960da",
     title: "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
     titleJa: "世界市場は衝撃をかわし続けています。 HSBCによると、この記録を打ち破る可能性があるものは次のとおりです",
@@ -1300,282 +1630,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     publishedAt: "2026-09-06T13:19:01+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "is-the-u-s-losing-its-safe-haven-status-70eb66b6",
-    title: "Is the U.S. losing its safe-haven status? Why global central banks are pulling gold out of New York.",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `What to know about safe havens and the U.S., as the Netherlands’ central bank follows France in pulling gold out of New York.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/is-the-u-s-losing-its-safe-haven-status-why-global-central-banks-are-pulling-gold-out-of-new-york-3e24d510?mod=mw_rss_topstories",
-    publishedAt: "2026-09-06T13:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-31764368",
-    readTime: 2,
-  },
-  {
-    id: "model-fatigue-sets-in-as-ai-labs-race-t-edbb972b",
-    title: "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `First, Anthropic updated Fable and Mythos. Then came model enhancements from Meta and Google. OpenAI followed suit by releasing GPT-6 Astra.
-That was all this week, as a dizzying pace of modifications and upgrades hit the market from a handful of companies that are vying to stay at the forefront of the artificial intelligence revolution.
-OpenAI CEO Sam Altman told CNBC on Thursday that "we're all moving to faster cadences," attributing some of the acceleration to everyone getting "back after summer vacation." But for the users of AI models and services, it's created complexity and chaos as CEOs and IT managers spend an outsized amount of time and resources comparing costs and capabilities to avoid getting left behind.
-"I feel like model fatigue is a real thing," said Zhen Lu, CEO of AI startup Runpod. "Don't get me wrong, I am extremely excited about all of the innovation that's happening, but I really do think that we are in an environment where there's just so much frothiness that you have to make noise."
-Ahmed Abbasi, a professor at Notre Dame's Mendoza School of Business and 25-year veteran in AI, said the model developers are "all playing the share-of-wallet game," racing to keep up with each other and to remind developers that they're innovating at least as fast as everyone else. Anthropic and OpenAI, in particular, are pushing the pace as they head toward the public market, with each already valued at close to $1 trillion by private investors. Google and Meta have their own agendas, and the burgeoning open-source community has a bustling new entrant in Nvidia.
-They're all going after a slice of what Gartner projects will be $2.59 trillion worth of AI spending this year, a 47% increase over 2025. While over half of that will go to AI infrastructure, more than $1 trillion will be spent on services, software, cybersecurity, models, and other tools, Gartner wrote in a May report.
-Anthropic kicked off this week's action on Tuesday by releasing Claude Fable 5.1 and Claude Mythos 5.1, which the company called the "world's most advanced models for coding and knowledge work." On Wednesday, Meta announced Muse Spark 1.3 and Google unveiled Gemini 3.8 Flash, with both companies touting advancements in coding and agentic tasks.
-On Thursday, OpenAI then released GPT-6 Astra, a model that emphasizes cybersecurity and computer skills and resulted from "years of research and big bets," the company said. On the same day, the Mohamed bin Zayed University of Artificial Intelligence in Abu Dhabi released its own K2 Horizon family of AI models to the open-source community, underscoring the global nature of AI research and investment.
-And not to be outdone, Nvidia, the world's most valuable company and the chipmaker at the heart of the AI boom, officially agreed to buy open-source AI platform Hugging Face for $12.9 billion. Nvidia has been rolling out open-source models, including last month's release of Nemotron 3.5 Lightning, which the company said is "lightweight" and can run on a single graphics processing unit on a laptop or desktop.
-The frenetic pace of updates coupled with the lack of clarity around AI regulation has stoked concerns about the dangers of advanced AI models that are continuously getting more capable. In recent weeks, models developed by OpenAI, Anthropic and Meta all accessed third-party sites they weren't supposed to reach, while OpenAI's models successfully breached Hugging Face last month, an incident that sent shockwaves across the industry.
-'Total chaos'
-The rapid evolution of AI agents is of particular concern to experts like Abbasi, especially with "how easily these capabilities are being deployed," he said.
-"With all these agents, not just on your computer but also on the web, the threat vulnerability landscape is far greater," Abbasi said. "This could be total chaos if we're not careful."
-Abbasi also suggested that "it's not a coincidence" that all the major model developers announced updates in the same week. Noah Faro, technology chief of AI finance startup Farsight, shared that sentiment.
-Faro said companies can get insights into what their rivals are planning in multiple ways. One is by looking at the availability of computing resources in the cloud since the companies are all vying for hefty capacity from the same few vendors. There's also a lot of chatter across the industry, he said, adding that "one tiny breath of anything goes a million miles per hour."
-Meta and Google didn't comment on this story. Representatives from Anthropic, OpenAI and Google didn't respond to requests for comment.
-Not all model updates are created equal.
-Unlike OpenAI's GPT-6 Astra, the various rollouts this week from Anthropic, Meta and Google represented "point releases," Faro said. That means the companies were upgrading an existing AI model rather than building a completely new one.
-The last two models to really move the needle, Faro said, were Anthropic's Fable 5 in June and Kimi K3, from China's Moonshot AI, in July.
-Still, Suresh Vasudevan, CEO of enterprise AI startup Clockwork Systems, said even incremental updates matter, given how quickly the technology is transforming business and software development.
-"Every release is so damn good that it's hard to tell a step-change anymore," Vasudevan said. "It's well understood that when you're on an exponential curve, you don't realize it until you step back and look at where you were and where you landed."
-He acknowledged that tracking each new model update is a headache, particularly when it involves precious computing resources. If his startup wants to evaluate 10 AI models for a certain task, it may just pick five, he said.
-"It's really challenging to go evaluate every one of the ones that are coming out right now," Vasudevan said.
-— CNBC's Kate Rooney and MacKenzie Sigalos contributed to this report.
-WATCH: Frontier models are constrained on data center infrastructure.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-    publishedAt: "2026-09-06T12:13:49+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "iran-warns-of-more-painful-response-to-u-de2fde6b",
-    title: "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Iran's "proportionate responses" to U.S. attacks are over, the country's parliament speaker and top negotiator Mohammad Bagher Ghalibaf said Sunday, while acknowledging the economic impact of the war.
-"If they haven't understood by now, they should understand before it's too late that the rules of the game have changed and that from now on, any violation of Iran's interests and security will receive a 'faster, heavier, and more painful' response," Ghalibaf said in a post on Telegram.
-But Ghalibaf added that alongside the military conflict, Iran faces severe economic pressures.
-"Severe fluctuations in the exchange rate, inflation, unemployment, and market management are fundamental challenges that have put serious pressure on people's livelihoods," Ghalibaf said.
-He also stressed the need to rely more on domestic production and use technology to "devise short-term and permanent solutions."
-Ghalibaf's remarks come after U.S. forces struck three Iranian crude oil carriers. U.S. Central Command said it permanently disabled one crude oil carrier off the coast of Kharg Island and one near Jask. Another oil tanker was attacked in the Gulf of Oman.
-CENTCOM said the attacks were in retaliation for ballistic missiles the Islamic Revolutionary Guard Corps launched toward two Navy warships in the region. According to CENTCOM, a U.S. aircraft carrier and guided-missile destroyer successfully evaded multiple attacks, and no American personnel were harmed.
-"Let the message to the IRGC be clear: If you shoot at two of our ships, we will impose an even higher economic cost —taking out three of yours," Admiral Brad Cooper, CENTCOM commander, said in a statement Saturday. "We will not hesitate to defend American forces, and if necessary, destroy Iran's limited and exposed oil fleet."
-Defense Sec. Pete Hegseth later wrote in a post on X: "It's simple: if Iran shoots at U.S. ships, we will destroy (and sink) their oil tankers. All they have to do is not shoot at @USNavy."
-Iran is the third-largest producer in the Organization of the Petroleum Exporting Countries and exported 90% of its crude via Kharg Island before the war. Flows have been disrupted by a U.S. blockade of Iranian oil exports, which began in mid-April.
-The conflict between Iran and the U.S. has effectively shut the Strait of Hormuz, a key waterway for the world's oil supply before the war began on Feb. 28 with American and Israeli airstrikes.
-U.S. President Donald Trump threatened in June to seize Kharg Island as the U.S. continued military strikes against Iran. Most recently, on Aug. 31, he posted an artificial intelligence-generated video of Kharg Island being blown up.
-Tightening sanctions
-The strike on the oil tankers came a day after the Treasury Department announced sanctions against a small Turkish investment bank and two of its subsidiaries, which the U.S. accuses of facilitating funds for an arm of Iran's Revolutionary Guard.
-The measures are part of sweeping sanctions the Trump administration launched in late August targeting Iran's access to digital assets, advanced technology procurement, gold reserves, commercial aviation and shipping.
-Iranian President Masoud Pezeshkian said late last month that the country's trade has fallen sharply.
-Iran's gross domestic product is estimated to have contracted by 2.7% in the year ending March, according to the World Bank, citing economic disruption from last year's widespread protests and intensified hostilities in the region.
-Inflation surged to 62.2% in February, with food price inflation reaching a historical high of 99%, according to the World Bank. An Iranian official estimated that the war has caused the loss of one million jobs, according to the New York Times.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-    publishedAt: "2026-09-06T12:02:47+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "ai-data-centers-are-transforming-rural-l-b6e60ae9",
-    title: "AI data centers are transforming rural land markets — and fueling a backlash",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `At a July protest against data centers in Lubbock, Texas, state Agriculture Commissioner Sid Miller took the microphone to share his concerns about data center land grabs in his home state. But what he said could apply to what's happening in dozens of states across the U.S.
-"When [data centers] first started popping up, nobody really knew much about them," he said at the protest. "I found out real quick that they were taking up our very best farmland. ... And [developers] give sometimes 10 times the value, so it's hard for farmers to turn that down."
-Nationwide, investments in computing power sparked by the new technology of artificial intelligence have set off a commercial land rush, sending property values soaring in unlikely and out-of-the-way places.
-AI data centers house massive computer servers filled with powerful chips and systems that are needed to run AI models and workloads. The centers require vast amounts of electricity and water to power and cool the servers, and because of their large footprint, vast amounts of land.
-Companies are racing into rural America to build not only data centers but facilities for the businesses constructing and servicing them. In locations across the country, entire secondary economies are popping up around technology construction sites, creating boom towns and transforming land uses.
-In many cases, the transformation is pitting some of the largest corporations in the U.S., along with their backers on Wall Street, against local residents and communities, who are grappling with newfound competition for their space, infrastructure and natural resources.
-A national trend in land values
-Land purchases in the U.S. for future data centers reached about $6 billion in the first half of 2026 — a 79% increase from last year, according to commercial real estate firm Avison Young.
-Data centers represent 27% of development sites in the U.S. this year. It's the second-highest category after apartment buildings, outranking industrial buildings, office buildings, retail spaces and mixed-use developments, according to the firm.
-And that's just the data centers themselves. Commercial developments in directly related industries, such as water and power plants, and indirectly related sectors, such as housing construction for workers, likely put the total share of AI-driven land investment higher.
-Comprehensive rural property price data correlated to data center and related industry construction is hard to come by. However, several reports and analyses indicate that in key data center areas commercial property values are skyrocketing.
-That's especially true for properties with dependable access to regional power grids. Last year, site costs in Northern Virginia and the Northeast surpassed $8 million per acre, according to real estate firm CBRE.
-Reports of developers offering prices for powered land that are far above their accustomed values are almost becoming common, despite their targeted, site-specific applicability.
-In Loudoun County, Virginia, a data center developer reportedly offered $4.4 million per acre for land.
-Home builders cannot bid in that market, because a builder's land budget is capped by what home buyers can afford. A data center operator faces no such constraint. The result is ... no homes at all.National Association of Home Builders
-"Median land prices in Northern Virginia are nowhere close to those figures," a July brief from the National Association of Home Builders says, citing data showing the median price in Loudoun County in 2025 was $125,000 per acre.
-"Home builders cannot bid in that market, because a builder's land budget is capped by what home buyers can afford," the NAHB says. "A data center operator faces no such constraint. The result is not more expensive homes on that parcel. It is no homes at all."
-Concerns in the communities
-Residents in many communities are worried that the data centers will create a drain on water and energy infrastructure and that electricity prices for all customers would be raised to cover the costs of powering the data centers.
-Pennsylvania farmer Bobbi Thompson said she's concerned about pressure on local water resources,
-as cloud computing company CoreWeave builds a data center in Lancaster, less than 20 miles from her Mount Joy Township home.
-"Where is all the water coming from?" Thompson said. "What does that mean for us as a community?"
-Concerns about rising electricity costs are not unfounded. Existing and forecast data center load growth is "the primary reason" for "high prices" within electricity capacity markets, according to a May report from Monitoring Analytics, the group that monitors the PJM market, a wholesale electricity transmission region covering all or parts of 13 states in the mid-Atlantic and Midwest.
-The report says that "data center load growth resulted in a combined total increase in capacity market revenues" of $23.1 billion from auctions through 2028.
-Many residents are also concerned about the general loss of open land to private commercial use.
-"It's a little depressing, as far as the outlook, to physically see the farmland go away," said Lindsey Dodge, a resident of Boise, Idaho.
-Farmers fight back
-The land rush is visible in its starkest relief in rural America, where wide-open farmland with grid access can be worth a lot more for its computational, rather than agricultural, potential.
-Thompson and her sister, Michelle Kennedy, said they have received dozens of offers in the past year for their 45-acre family farm.
-Their next-door neighbors have applied to rezone their own farmland into an industrial complex, accommodating more than 1 million square feet of manufacturing and warehousing space. The development would have room for about 1,000 total employees and hundreds of vehicles, which Thompson and Kennedy say would harm the operations of their farm.
-"Can you imagine if you had a thousand vehicles parked 24/7?" Kennedy told CNBC. "Cows don't produce milk if they're not relaxed."
-Kennedy and Thompson put a conservation easement — a form of restrictive legal contract maintained by an outside entity — on their land to prevent it from becoming an industrial lot in the future.
-"It becomes our legal and fiduciary responsibility then to monitor, steward and enforce that conservation easement in the future," Jeff Swinehart, chief operating officer of the Lancaster Farmland Trust, the group working with Kennedy and Thompson, told CNBC.
-Business opportunities
-Boise is one of the centers of the national computing boom. Meta is building a data center in the nearby town of Kuna, and Micron is putting up two semiconductor factories in the metro area, pouring billions of dollars into the region.
-Mike Adler, founder and CEO of Adler Industrial, one of the largest commercial development companies in the Treasure Valley region of Idaho, said he's watched the city change before his eyes, with remote alfalfa farms turning into prime real estate.
-Adler took the opportunity to grow his business and participate in the economic boom transforming the city.
-"All of a sudden ... I realized that what felt like the middle of nowhere was really the center of the valley," he said. "I realized this is an area that people were building. People wanted to be here. And if you look at those projects today, they're built out — they're nice. It's an area that everyone's now using."
-I realized this is an area that people were building. ... And if you look at those projects today, they're built out — they're nice. It's an area that everyone's now using.Mike AdlerProperty developer, founder and CEO of Adler Industrial
-Many Idahoans involved in the boom are excited by the development, but they're also feeling the weight of the changes.
-Harry Sawyer, a fifth-generation Idahoan and vice president at commercial real estate firm CBRE, said he's seen families make a lot of big decisions as property values have soared and presented opportunities.
-"'Do we keep on farming? Do we sell and do something else?' We're seeing it everywhere, but especially here," he said.
-Capital versus community
-In other parts of the country, the battle over data centers is decidedly more hostile.
-In Saline Township, Michigan, local officials have resigned due to death threats they've received over a huge new data center known as The Barn, a multibillion-dollar construction project by development firm Related Digital that's being built for Oracle and OpenAI.
-"We've got a lot of recorded messages wishing us dead," township clerk Kelly Marion told CNBC in May. "What they say is, 'We want you dead.' I'll get them for, like, the entire board. Other board members have gotten them themselves. You know, 'We wish you'd die of a slow death.'"
-One resident launched a recall effort requiring members of the township board to be reelected, which included Marion, who voted in favor of the proposal.
-We've got a lot of recorded messages wishing us dead.Kelly MarionTownship clerk, Saline Township, Michigan
-Marion declined to speak about who was threatening her and why, though she said she had received threats both by phone and by email.
-"Some of these threats we get — according to people's phone numbers, they're not even from the state," she said.
-Wall Street is paying attention to the growing intensity of pushback from states and local communities.
-Investment bank Mizuho noted in a Sept. 1 analysis that as many as nine states have pending moratoriums on new data center development.
-That's in addition to New York, where Gov. Kathy Hochul in July issued a moratorium on new hyperscale data centers for up to one year. Data center development "threatens to hike up utility bills, deplete our natural resources, and create uncertainty for New Yorkers," Hochul said.
-Some investment banks say they consider the popular mobilization a risk to their investments and the capital expenditures made by the companies they represent, and some also think it could be a factor in the midterm elections in November.
-"Most local pushback is manageable," Shahriar Pourreza at Wells Fargo wrote in a June 3 note, "but if this reaches state-wide scale in key [data center] markets, we think it could pose a material risk to future growth, stock values."
-"We still see this as a state and local policy risk rather than a federal one for the time being: federal policy has remained accommodative toward data center construction," Ariana Salvatore at Morgan Stanley wrote on Sept. 1. "It's overly simplistic to say none of this spend could be affected by the political backlash."
-In an Aug. 10 note highlighting market volatility around the midterm elections, analyst Ohsung Kwon at Wells Fargo said "data center politics is a key risk."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-    publishedAt: "2026-09-06T12:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "minister-to-meet-jaguar-land-rover-boss-85bd570c",
-    title: "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Minister to meet Jaguar Land Rover boss as thousands of job cuts expected
-- Published
-Business Secretary Jonathan Reynolds will meet the bosses of Jaguar Land Rover (JLR) and the Unite union to discuss the impact of thousands of expected job cuts at the car maker.
-JLR confirmed to the BBC it is opening a voluntary redundancy programme, a year on from a cyber attack which brought production to a halt for more than a month.
-The company did not confirm the numbers but the Times reported as many as 4,000 jobs may be lost due to the impact of tariffs and a drop in sales.
-Reynolds told the BBC's Sunday with Laura Kuenssberg the meeting early next week will focus on ways to "mitigate any job losses" but ruled out a bailout for the company.
-Asked about the cuts, which are believed to impact mainly white collar workers, Reynolds said: "A company the size of JLR, which is a huge British success story, at various times in its business cycle, the number of, directly, people it employs will change.
-"If this is about making sure over time that the workforce is right to make the business as competitive as possible, that's the conversation we need to have."
-He said there would be no support "if it's to bail people out", but opened the door to a "long-term investment in the future" of the company.
-The cuts come as Chancellor John Healey is preparing to deliver a speech in the Midlands on Monday promising to boost economic growth by changing how the government values investment in infrastructure such as transport and housing. JLR is based in Coventry, in the West Midlands.
-JLR hack is costliest cyber attack in UK history, say analysts
-- Published22 October 2025
-UK-US trade deal will save jobs, says JLR
-- Published8 May 2025
-JLR investment a 'vote of confidence' for region
-- Published3 days ago
-JLR has not confirmed the scale of the job cuts, but said they would "simplify" the business and "improve efficiency and build greater resilience".
-"Today, we informed our colleagues, and trade union partners that JLR is opening a voluntary redundancy programme offering salaried and management team members the opportunity to leave the business," a spokesperson said.
-"We will share further information with our colleagues first." It did not rule out the prospect of some compulsory redundancies as part of the plans.
-Unite general secretary Sharon Graham said the union had been warning about a "perfect storm" hanging over the automotive industry for some time.
-"Death by a thousand cuts has been going on under the nose of successive governments," she said.
-She added there had been "intensive" discussions over the weekend about mitigating jobs losses.
-Reynolds was asked about the impact on the car industry of the UK's electric vehicle sales target, which means manufacturers must ensure a percentage of the cars they sell each year are zero emissions, with the target rising each year to reach 80% by 2030.
-He said one of the first things he had done as business secretary was give the industry more flexibility to work towards that and said there was a further consultation open on it.
-"It's not where it needs to be and that's why we're willing to change the regulation to work with where consumer demand is and the industry," he added.
-He said he had also spoken with West Midlands mayor Richard Parker about supporting the business and its staff.
-JLR in July said fewer than 300 people would leave the firm under cost savings plans announced at the time.
-It employs about 30,000 people in its UK operations, with approximately 10,000 people employed at plants overseas.
-The cyber attack in September 2025 led to the shut down of all manufacturing at JLR for several weeks, meaning not a single vehicle rolled off its production lines.
-That led to a 27% drop in overall production at the company, which is one of the West Midlands' biggest employers.
-The overall cost of the cyber-attack and the subsequent loss of manufacturing was estimated to be £1.9bn.
-In June, the firm announced it planned to cut about £1.7bn in costs over the coming years to help towards its recovery from the attack.
-JLR had indicated at the time that it would make the savings through cuts in areas such as materials, warranty and fixed costs.
-Additional reporting by Simon Jack`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-06T10:29:03+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded7/live/5b81c800-a9db-11f1-803f-7f2a9199ddc4.jpg",
-    readTime: 2,
-  },
-  {
-    id: "tv-presenter-among-12-sentenced-to-death-03ae9484",
-    title: "TV presenter among 12 sentenced to death in Egypt drugs case",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `TV presenter among 12 sentenced to death in Egypt drugs case
-- Published
-Egyptian television presenter Sarah Khalifa and 11 other people have been sentenced to death by hanging after being convicted of drugs charges.
-According to state-owned al-Ahram newspaper, they were part of a criminal gang which imported ingredients used to make drugs with the intent of selling them.
-They also had illegal firearms and munitions.
-Khalifa, 39, is best known for her TV programme Mission Impossible which dealt with crime issues. She has denied the charges.
-Nine fellow defendants have been sentenced to life imprisonment, while seven have been acquitted.
-Khalifa's lawyer said she would appeal the death sentence.
-The verdict was first announced last month.
-However, it was only confirmed a month later after the court obtained a religious opinion from the grand mufti of Egypt - a legal requirement in death sentence cases.
-During the trial, the court heard that authorities had seized more than 750kg (1,653lbs) of narcotics and the imported raw materials to make them.
-Twenty witnesses had given statements to the prosecutors, al-Ahram said, in addition to electronic evidence that included conversations and video clips.
-According to the state-run Akhbar al-Youm newspaper, when asked by the judge about her alleged role during a court appearance last September, Khalifa said she had never seen any drugs until she was photographed with them inside the anti-narcotics authority offices.
-According to a 2025 Amnesty International report, there were 492 death sentences in the course of the year, 23 of which were carried out., external.
-The defendants were found guilty of drug trafficking and rape, "crimes that did not amount to 'intentional killing' to which the use of the death penalty must be restricted under international law and standards", the report said.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-06T08:05:22+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png",
-    readTime: 2,
-  },
-  {
-    id: "us-envoys-set-for-ukraine-talks-after-me-740da010",
-    title: "US envoys set for Ukraine talks after meeting Putin in Moscow",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `US envoys set for Ukraine talks after meeting Putin in Moscow
-- Published
-Two US envoys are hoping for "equally productive meetings" in Ukraine after holding talks with Russian President Vladimir Putin in Moscow on ending the war, US officials say.
-Steve Witkoff and Jared Kushner are set to land in Kyiv on Sunday, having "discussed substantive plans for next steps" with Putin on Saturday, according to the White House.
-It is not yet clear exactly what they are, but an announcement is expected in the coming weeks, as efforts to end the war in Ukraine gather pace.
-It will be to the first trip by US President Donald Trump's top negotiators to Ukraine's capital. Putin and Ukrainian President Volodymyr Zelensky have agreed to halt strikes on each other's capitals for three days.
-As Witkoff and Kushner were negotiating at the Kremlin, Zelensky said he was ready for "a substantive conversation".
-Saturday's talks in Moscow lasted three hours and were held behind closed doors in Putin's official residence in the heart of the Russian capital, according to Russian state media.
-Details are still emerging, but both sides have given broadly positive remarks without going into specifics.
-Putin adviser Yuri Ushakov described the talks as "constructive, extremely frank".
-"The talks were not limited to an exchange of views on resolving the Ukrainian crisis - economic issues and potential major, mutually beneficial Russian-American projects were discussed in considerable detail," he said.
-Ushakov also said "note was made of the Russian army's tangible advances in the combat zone" and that there was acknowledgement that talks needed to address "the root causes of the conflict".
-Despite an escalation of Russian missile and drone strikes on Ukrainian cities including Kyiv, Russian ground forces have made very slow advances for most of the conflict, incurring enormous casualties. Russia still controls about one-fifth of Ukrainian territory - areas that it seized back in 2022.
-Kushner and Witkoff have visited Russia several times but given Ukraine's airspace has been closed since Russia launched its full-scale invasion in February 2022, it is not clear how they will be travelling to Kyiv from Moscow.
-The talks come after Russia and Ukraine have intensified aerial attacks in recent months.
-Ukraine says it has struggled to repel ballistic missile attacks due to a lack of interceptor missiles, while Kyiv has focused its strikes on Russian economic infrastructure targets, notably oil installations.
-- Published3 hours ago
-- Published30 December 2025`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-06T02:24:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8dc/live/731248d0-a997-11f1-a291-b542ee92de7c.jpg",
-    readTime: 2,
-  },
-  {
-    id: "poverty-doesn-t-have-to-be-my-reality-i-6f6dcab9",
-    title: "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "「一部の人々がどのようにして巨額の資産を持って退職することができたのか、私はいつも困惑していました。」",
-    bodyOriginal: `“It always baffled me how some people managed to retire with significant wealth.”`,
-    bodyJa: `「一部の人々がどのようにして巨額の資産を持って退職することができたのか、私はいつも困惑していました。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
-    publishedAt: "2026-09-05T23:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-10854269",
     readTime: 2,
   },
 ];
