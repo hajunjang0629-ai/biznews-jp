@@ -15,6 +15,280 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "openai-says-it-cracked-90-year-old-maths-cf450d67",
+    title: "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+    titleJa: "OpenAI、90年前の数学の問題を88時間で解読したと発表",
+    summaryJa: "OpenAI、90年前の数学の問題を88時間で解読したと発表- 公開されました",
+    bodyOriginal: `OpenAI says it cracked 90-year-old maths problem in 88 hours
+- Published
+OpenAI says it has found a solution to a decades-old advanced maths problem in a matter of hours using a new artificial intelligence (AI) model and thousands of AI bots.
+The ChatGPT-maker said on Tuesday, external that by focusing a group of roughly 10,000 AI agents, or AI bots that undertake tasks somewhat autonomously, it solved a notoriously difficult maths problem in just 88 hours.
+The problem was part of the Navier-Stokes equations, external, which concern how fluids move. For 90 years important aspects of the problems have lacked a proof, the argument underlying a correct math equation.
+OpenAI called the solution which it found a "milestone" and evidence that AI tools are improving quickly.
+OpenAI's solution has yet to be verified independently or publicly accepted by The Clay Mathematics Institute, a maths organization based in the US which runs the Millennium Prize that offers big money to the first to solve certain mathematical conundrums.
+The company said that at the end of August, it started to train a new model that quickly showed that it was adept at maths. AI models are computer programs trained on huge amounts of data to recognize and predict patterns in information.
+While the new OpenAI model remains a tool only used within the company, as it is "significantly more capable" than the company's most recent AI model release, its researchers decided to use it on certain notable advanced maths problems.
+OpenAI admitted that last week on 1 September, it had "heard rumors that two Millennium Prize problems had been resolved" and so decided to put thousands of AI bots trained on the new internal model to work attempting to solve some of the remaining problems.
+By Sept 5, or roughly 88 hours after it had set 10,000 AI bots to the task, OpenAI had found a solution to what's referred to as the Navier–Stokes existence and smoothness problem.
+The problem is at the heart of turbulence, which is a phenomenon that is still not well understood.
+Although it took the AI bots seemingly little time to reach a solution, OpenAI said the bots exchanged nearly 3 million messages and used up 130 billion output tokens, or the individual lines of text and code an AI model produces in answers, on Navier–Stokes alone.
+Such an effort would have cost roughly $10m (£7.3m), based on OpenAI's own pricing, external for output from its most advanced models.
+The solution that OpenAI says it has now reached for the Navier–Stokes existence and smoothness problem resolved two out of the four statements in the proof that the Millennium Prize had demanded. The prize is worth $1m to a winner.
+"Our goal in releasing this result is to report on the substantial progress of our AI models", OpenAI said on Tuesday. "We do not intend to claim the Millennium Prize for this result."
+Already the company's claim is stirring some controversy.
+Tristan Buckmaster, a mathematics professor at New York University, said on Tuesday, external that he and Levent Alpöge, a mathematician working for OpenAI rival Anthropic, had also been working toward solutions for the problem.
+The duo had been using OpenAI's tool Codex in their work. But Buckmaster said that on 3 September, he found out that "information about our progress had been passed to OpenAI."
+Buckmaster's statement came the same day, but hours before, OpenAI published its Navier–Stokes work. He claimed that OpenAI did not begin working on the Navier–Stokes equations until "after information about our work had reached OpenAI." He included text from emails exchanged with OpenAI over the work and his questions of the company's timing and methods.
+Buckmaster added that he had not yet read OpenAI's full proof, but felt compelled to go public with "what I was told, when, and what was proposed to me...because the alternative is to let a sequence of announcements say something I know to be false."
+OpenAI on Tuesday congratulated the "concurrent work" of Buckmaster and Alpöge, calling it "remarkable."
+The company said it had not seen "any of their work through any means until they released it publicly" and that no user data was accessed in its work on the Navier–Stokes problem.
+"While unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models", the company added. "However, our proofs differ significantly and even the precise results proved are different."
+Related topics
+- Published1 day ago
+- Published11 hours ago`,
+    bodyJa: `OpenAI、90年前の数学の問題を88時間で解読したと発表
+- 公開されました
+OpenAIは、新しい人工知能（AI）モデルと数千のAIボットを使用して、数十年来の高度な数学の問題に対する解決策を見つけたと発表した。
+ChatGPTの作成者は火曜日、社外向けに、約1万人のAIエージェント、つまりある程度自律的にタスクを実行するAIボットのグループを集中させることで、悪名高い難解な数学問題をわずか88時間で解決したと発表した。
+この問題は、流体の動きに関する外部のナビエ・ストークス方程式の一部でした。 90 年間、問題の重要な側面には証明、つまり正しい数学方程式の基礎となる議論が欠けていました。
+OpenAIは、発見したソリューションを「マイルストーン」であり、AIツールが急速に改良されていることの証拠であると呼んだ。
+OpenAI のソリューションはまだ独立して検証されておらず、特定の数学的難題を最初に解決した者に多額の賞金を与えるミレニアム賞を運営する米国に本拠を置く数学団体であるクレイ数学研究所によって正式に承認されていません。
+同社は、8月末に新しいモデルのトレーニングを開始し、それが数学に熟達していることをすぐに示したと述べた。 AI モデルは、情報のパターンを認識して予測するために、膨大な量のデータに基づいてトレーニングされたコンピューター プログラムです。
+新しい OpenAI モデルは依然として社内でのみ使用されるツールですが、同社の最新の AI モデルリリースよりも「大幅に機能が向上」しているため、同社の研究者らは特定の注目すべき高度な数学問題にこれを使用することを決定しました。
+OpenAIは、先週9月1日に「ミレニアム賞の問題が2つ解決されたという噂を聞いた」ことを認め、そのため、新しい内部モデルで訓練された数千のAIボットを稼働させ、残りの問題のいくつかを解決しようと試みることを決定したと認めた。
+9 月 5 日までに、つまり 10,000 台の AI ボットをタスクに設定してから約 88 時間後、OpenAI は、ナビエ・ストークスの存在と滑らかさの問題と呼ばれるものに対する解決策を見つけました。
+この問題は乱気流の中心にあり、まだよく理解されていない現象です。
+AI ボットが解決策に到達するまでにほとんど時間がかからなかったように見えましたが、OpenAI によると、ボットは 300 万近くのメッセージを交換し、Navier-Stokes だけで 1,300 億の出力トークン、つまり AI モデルが回答で生成するテキストとコードの個々の行を使い果たしました。
+このような取り組みには、OpenAI 独自の価格設定に基づくと、最先端モデルからの外部出力に基づくと、およそ 1,000 万ドル (730 万ポンド) の費用がかかることになります。
+OpenAIによると、ナビエ・ストークスの存在と滑らかさの問題に関して現在到達した解決策は、ミレニアム賞が要求していた証明の4つの記述のうち2つを解決したという。優勝者には賞金 100 万ドルの価値があります。
+OpenAIは火曜日、「この結果を発表する目的は、AIモデルの大幅な進歩を報告することである」と述べた。 「この結果に対してミレニアム賞を請求するつもりはありません。」
+同社の主張はすでにいくつかの論争を巻き起こしている。
+ニューヨーク大学の数学教授トリスタン・バックマスター氏は火曜日、自身とOpenAIのライバルであるアンスロピック社に勤める数学者のレベント・アルポージ氏もこの問題の解決に向けて取り組んでいると社外で語った。
+二人は仕事で OpenAI のツール Codex を使用していました。しかしバックマスター氏は、9月3日に「我々の進捗状況に関する情報がOpenAIに渡されていた」ことを知ったと述べた。
+バックマスター氏の声明は同日発表されたが、その数時間前にOpenAIはナビエ・ストークスの研究結果を公開した。同氏は、OpenAIは「私たちの研究に関する情報がOpenAIに届いた後」までナビエ・ストークス方程式の研究を開始しなかったと主張した。同氏は、この作業に関して OpenAI と交換した電子メールのテキストと、同社のタイミングや方法についての質問を含めた。
+バックマスター氏は、まだOpenAIの完全な証拠を読んでいないが、「私が言われたこと、いつ、そして私に提案されたことを公表せざるをえないと感じたと付け加えた。なぜなら、代わりの方法は、私が虚偽であるとわかっていることを一連の発表で言わせることだからだ」と付け加えた。
+OpenAIは火曜日、バックマスター氏とアルポージ氏の「同時業績」を「注目に値する」と称賛した。
+同社は、「公に発表するまで、いかなる手段を通じても彼らの研究内容を目にしたことはなく」、ナビエ・ストークス問題に関する研究においてユーザーデータへのアクセスは一切なかったと述べた。
+「可能性は低いですが、当社製品の使用から得られた匿名化されたデータが当社のモデルの改善に役立っていた可能性を排除することはできません」と同社は付け加えた。 「しかし、私たちの証明は大きく異なり、証明された正確な結果さえ異なります。」
+関連トピック
+- 1 日前に公開
+- 11 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-08T20:57:09+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
+    readTime: 6,
+  },
+  {
+    id: "stocks-stumble-after-labor-day-this-year-9f4dc08a",
+    title: "Stocks stumble after Labor Day. This year’s easy gains may be over.",
+    titleJa: "レーバーデーの後、株価は低迷する。今年の楽な利益は終わったのかもしれない。",
+    summaryJa: "株価は間もなく、連邦準備理事会による2023年以来初の利上げに適応する必要があるかもしれない。",
+    bodyOriginal: `Stocks might soon need to adapt to the Federal Reserve’s first rate hike since 2023.`,
+    bodyJa: `株価は間もなく、連邦準備理事会による2023年以来初の利上げに適応する必要があるかもしれない。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories",
+    publishedAt: "2026-09-08T20:54:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-54743121",
+    readTime: 2,
+  },
+  {
+    id: "i-m-a-single-58-year-old-veteran-with-1-70a6c535",
+    title: "I’m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
+    titleJa: "私は58歳の独身退役軍人で、資産150万ドルと退役軍人年金を持っています。退職する余裕はありますか？",
+    summaryJa: "「連邦税とカリフォルニア州税を除くと、少なくとも月額 9,000 ドルを受け取ることができると予想しています。」",
+    bodyOriginal: `“I expect to receive at least $9,000 per month before federal and California state taxes.”`,
+    bodyJa: `「連邦税とカリフォルニア州税を除くと、少なくとも月額 9,000 ドルを受け取ることができると予想しています。」`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+    publishedAt: "2026-09-08T20:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-88171770",
+    readTime: 2,
+  },
+  {
+    id: "trump-administration-expresses-profound-56c775a2",
+    title: "Trump administration expresses 'profound concern' over Ford's ties to China",
+    titleJa: "トランプ政権、フォードと中国の関係に「深い懸念」表明",
+    summaryJa: "フォードのジム・ファーリー最高経営責任者（CEO）に宛てた書簡の中で、米国運輸省長官ショーン・ダフィーは、中国企業を巻き込んだ自動車メーカーの戦略的軌道に疑問を呈した。",
+    bodyOriginal: `The Trump administration expressed "profound concern" Tuesday about Ford Motor's ties to Chinese companies that it believes could be detrimental to the Detroit carmaker and U.S. automotive industry.
+In a letter addressed to Ford CEO Jim Farley, Transportation Secretary Sean Duffy questioned the automaker's strategic trajectory with Chinese companies "as it pertains to American national automotive manufacturing integrity, supply chain exposure, and reliance on technologies of foreign adversaries."
+As examples, Duffy cited Ford's ties to Chinese companies such as battery provider CATL and referenced a framework proposed during an auto show earlier this year in Detroit "to facilitate Chinese joint ventures on United States soil."
+Ford has a licensing agreement to utilize battery technologies, including the production of lithium iron phosphate batteries, from Contemporary Amperex Technology Co., or CATL.
+Ford's deal with CATL was originally announced in 2023 but has drawn renewed attention amid tensions between the U.S. and China as well as Ford's plan to use the battery technologies for energy storage systems.
+"While DOT recognizes the intense competitive pressures of the global market, the Company's recent strategic decisions paint a troubling picture of a foundational American brand actively intertwining its future with Chinese state-backed enterprises," Duffy's letter read.
+Ford, which regularly touts its position as the top-producing automaker in the U.S., did not immediately respond to a request for comment.
+Duffy urged Farley, who has been complimentary of Chinese competitors as well as the Trump administration's attempt to promote U.S. manufacturing, to "reflect on these concerns and national necessities and adopt reasonable strategies that prioritize American workers, utilize allied supply chains, and promote the self-reliance and integrity of the domestic automotive industry."
+— CNBC's Meghan Reeder and Phil LeBeau contributed to this report.`,
+    bodyJa: `トランプ政権は火曜日、フォード・モーターと中国企業との関係について「深い懸念」を表明し、デトロイトの自動車メーカーと米国の自動車産業に悪影響を及ぼす可能性があると考えている。
+ショーン・ダフィー運輸長官は、フォードのジム・ファーリー最高経営責任者（CEO）に宛てた書簡の中で、「米国国家の自動車製造の誠実さ、サプライチェーンのエクスポージャ、外国敵の技術への依存に関わるものであるため」、フォードの中国企業との戦略的軌道に疑問を呈した。
+ダフィー氏は例として、フォードと電池供給会社CATLなどの中国企業との関係を挙げ、「米国本土での中国の合弁事業を促進するため」今年初めにデトロイトで開催された自動車ショーで提案された枠組みに言及した。
+フォードは、コンテンポラリー・アンペレックス・テクノロジー社（CATL）から、リン酸鉄リチウム電池の製造を含む電池技術を利用するライセンス契約を結んでいる。
+フォードとCATLとの契約は当初2023年に発表されたが、米国と中国の緊張やエネルギー貯蔵システムに電池技術を利用するというフォードの計画の中で再び注目を集めている。
+ダフィー氏の書簡には「DOTは世界市場の激しい競争圧力を認識しているが、同社の最近の戦略的決定は、米国の基礎ブランドが自社の将来を中国政府支援の企業と積極的に結びつけるという憂慮すべき状況を浮き彫りにしている」と述べた。
+フォードは定期的に米国生産トップの自動車メーカーとしての地位を宣伝しているが、コメント要請には応じていない。
+ダフィー氏は、中国の競合他社や米国の製造業を促進するトランプ政権の試みを称賛してきたファーリー氏に対し、「こうした懸念と国家的必要性を熟考し、米国の労働者を優先し、同盟国のサプライチェーンを活用し、国内自動車産業の自立と誠実性を促進する合理的な戦略を採用する」よう強く求めた。
+— CNBC の Meghan Reeder と Phil LeBeau がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+    publishedAt: "2026-09-08T20:40:44+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "this-alternative-energy-stock-is-more-po-22e4757f",
+    title: "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
+    titleJa: "この代替エネルギー株は、オプションピットではスペースXよりも人気がある。その理由は次のとおりです",
+    summaryJa: "同グループの年初来の上昇率が40％を超える中、原油価格は90ドルを超え、S&P500指数のエネルギー株は52週間ぶりの高値に近づいている。エネルギー株は2026年にS&P500の中で最もパフォーマンスの高いセクターの座を維持しているにもかかわらず、オプショントレーダーは従来型エネルギー資産の強さが今後も続くことに納得していないようだ。その代わりに、データセンターや人工知能の産業化に関連したオンサイト燃料電池システムを販売する、時価総額820億ドルの電力会社ブルーム・エナジーに彼らは殺到している。",
+    bodyOriginal: `Crude oil is back above $90 and energy stocks in the S&P 500 index are approaching fresh 52-week highs as the group's year-to-date rally surpasses 40%.
+Despite energy stocks holding the title as the best-performing sector in the S&P 500 in 2026, options traders seem unconvinced the strength in conventional energy assets will continue. Instead, they're piling into Bloom Energy, the $82-billion market-cap power provider that sells onsite fuel-cell systems linked to data centers and artificial intelligence industrialization.
+Bloom is up 1,800% over the past three years. Shares jumped more than 10% Tuesday as options trading on the stock surged to over 2.5 times the 30-day average for a total premium exchange of almost half a billion dollars by midday, according to data from Cboe LiveVol and SpotGamma. That's more than the $350 million traded in SpaceX options and dwarfs the $25 million traded in Valero Energy, the most volatile S&P 500 energy stock.
+Shares of Bloom are up more than 30% in the past week, and they have surged almost 70% since the company reported earnings in late July. The company will join the S&P 500 on Sept. 21, S&P Dow Jones Indices announced at the end of last week.
+The inclusion will mark the first time an energy stock has been added to the index since 2022, according to UBS analyst Manav Gupta. From an options standpoint, Bloom will stand out among S&P energy stocks in a big way.
+Implied volatility in Bloom is currently over 90%, according to ThinkOrSwim, notably higher than any S&P 500 energy stocks. In that group, Valero has the highest volatility at 50%, compared to ExxonMobil's 30% reading. The most popular contract in Bloom by volume Tuesday was the 300-strike call expiring Friday, a $4.65 trade that needs the stock to add another 8% to break even.
+By contrast, options flows around the U.S. Oil Fund (USO) and the State Street Energy Select Sector SPDR ETF (XLE) were mixed. Trading volume was 50% above the 30-day average in USO, which traded around $90 million. Almost the exact same number of put contracts were likely bought as calls, and the three most popular contracts by volume were puts, according to SpotGamma data.
+In XLE, 48,000 calls were likely bought, compared to 34,000 puts, with $31 million of the total $37 million in premium tied to calls. Among the top five contracts traded in XLE, three were puts, according to SpotGamma.`,
+    bodyJa: `同グループの年初来の上昇率が40％を超える中、原油価格は90ドルを超え、S&P500指数のエネルギー株は52週間ぶりの高値に近づいている。
+エネルギー株は2026年にS&P500の中で最もパフォーマンスの高いセクターの座を維持しているにもかかわらず、オプショントレーダーは従来型エネルギー資産の強さが今後も続くことに納得していないようだ。その代わりに、データセンターや人工知能の産業化に関連したオンサイト燃料電池システムを販売する、時価総額820億ドルの電力会社ブルーム・エナジーに彼らは殺到している。
+ブルームは過去 3 年間で 1,800% 増加しました。 Cboe LiveVolとSpotGammaのデータによると、株式のオプション取引が正午までにプレミアム交換総額約5億ドルの30日間平均の2.5倍以上に急増したため、火曜日の株価は10％以上上昇した。これはスペースXオプションの取引額3億5000万ドルを上回り、S&P500種エネルギー株の中でも最も値動きが激しいバレロ・エナジーの取引額2500万ドルに比べれば小さい。
+ブルームの株価は過去1週間で30％以上上昇し、同社が7月下旬に決算を発表して以来、70％近く急騰した。 S&Pダウ・ジョーンズ・インデックスは先週末、同社が9月21日にS&P500に加わると発表した。
+UBSのアナリスト、マナブ・グプタ氏によると、今回の組み入れは2022年以来初めてエネルギー株が指数に追加されることになる。オプションの観点から見ると、ブルームはS&Pエネルギー株の中で大きく目立つことになるだろう。
+ThinkOrSwimによると、ブルームのインプライド・ボラティリティは現在90％を超えており、S&P 500のエネルギー株よりも顕著に高い。このグループでは、エクソンモービルの30％と比較して、バレロのボラティリティが50％と最も高い。火曜日の出来高ベースでブルームで最も人気のある契約は、金曜日に期限が切れる300ストライクコールで、損益分岐点までに株価にさらに8％を追加する必要がある4.65ドルの取引だった。
+対照的に、米国石油基金（USO）とステート・ストリート・エネルギー・セレクト・セクターSPDR ETF（XLE）を巡るオプションの流れはまちまちだった。出来高はUSOの30日間平均を50％上回り、約9000万ドルで取引された。 SpotGamma のデータによると、ほぼ同じ数のプット契約がコールとして購入された可能性が高く、出来高で最も人気のある 3 つの契約はプットでした。
+XLE では、プット 34,000 件に対してコールが 48,000 件買われた可能性が高く、プレミアム総額 3,700 万ドルのうち 3,100 万ドルがコールに関連していました。 SpotGamma によると、XLE で取引された上位 5 件の契約のうち、3 件はプットでした。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
+    publishedAt: "2026-09-08T20:23:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "u-s-downplays-iran-s-seizure-of-unmanned-86a96474",
+    title: "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+    titleJa: "米国、イランによるホルムズ海峡での無人潜水艦拿捕を軽視",
+    summaryJa: "米軍は火曜日、イランがホルムズ海峡で拿捕したとされる無人潜水艦は「欠陥品」であり、機密データや機密機器は積まれていないと発表した。「米軍が運用する水中無人機が1日以上前に故障した」と米海軍大佐ティム・ホーキンスは米中央軍と共有した声明の中でCNBCに語った。",
+    bodyOriginal: `The U.S. military on Tuesday said an unmanned submersible that Iran reportedly seized in the Strait of Hormuz was "defective" and carried no sensitive data or classified equipment.
+"An underwater drone operated by U.S. forces malfunctioned more than a day ago," U.S. Navy Captain Tim Hawkins told CNBC in a statement shared by U.S. Central Command.
+The drone "was surveying regional waters in support of ongoing operations," Hawkins said, adding, "U.S. operations in area waters continue."
+Iran's Revolutionary Guard had boasted earlier Tuesday that it trapped and captured "one of the most modern, intelligent, unmanned submarines of the American terrorist army at the entrance to the Strait of Hormuz," according to a translated post from Iranian state news outlet Fars.
+Fars later posted videos and images purporting to show the vessel out of the water.
+But Hawkins' statement insisted that the drone was hardly a crucial piece of cutting-edge military tech.
+"The defective drone was an older model that neither collected sensitive data nor carried any classified sonar or radar equipment," the captain's statement said.
+Iranian media outlets described the sub as a Dive-LD, an autonomous undersea vehicle developed by U.S. defense contractor Anduril. They cost $2.5 million each, DefenseScoop reported in 2024.
+The development came three days after the U.S. and Iran traded new attacks in the Persian Gulf, rekindling kinetic hostilities in the region even as the Trump administration shifts its strategy toward defeating Tehran economically.
+Centcom said it struck three Iranian crude oil carriers in retaliation for the IRGC firing ballistic missiles at two Navy warships.
+The U.S. military later struck targets near the oil-export hub Kharg Island, including Iranian oil tankers, Fox News reported Tuesday, citing unnamed senior U.S. officials. Centcom did not immediately respond to CNBC's request for comment on the report.
+The spotlight on the watercraft offers the latest example of the U.S. military's increasing dependence on autonomous tech to fight the war in the Middle East.
+This summer, unmanned boat startup Saronic used one of its drone vessels to rescue crew from a helicopter downed in the Hormuz Strait. Saronic's boats were later used in a strike on an Iranian submarine and ship facility.
+— CNBC's Samantha Subin contributed to this report.`,
+    bodyJa: `米軍は火曜日、イランがホルムズ海峡で拿捕したとされる無人潜水艦は「欠陥品」であり、機密データや機密機器は積まれていないと発表した。
+「米軍が運用する水中無人機が1日以上前に故障した」と米海軍大佐ティム・ホーキンスは米中央軍と共有した声明の中でCNBCに語った。
+ホーキンス氏は、無人機は「進行中の作戦を支援するために地域海域を調査していた」と述べ、「地域海域での米国の作戦は継続している」と付け加えた。
+イラン国営通信社ファルス紙の翻訳記事によると、イラン革命防衛隊は火曜日初め、「ホルムズ海峡入口で米国テロ軍の最も近代的で知能の高い無人潜水艦の一隻」を罠にはめて拿捕したと自慢していた。
+ファールス氏はその後、船が水面から出ているところを見せたと称する動画や画像を投稿した。
+しかしホーキンスの声明は、ドローンは最先端の軍事技術の重要な部分ではないと主張した。
+機長の声明によると、「欠陥のあるドローンは古いモデルで、機密データを収集しておらず、機密のソナーやレーダー機器も搭載していなかった」と述べた。
+イランのメディアは、この潜水艦を米国の防衛請負業者アンドゥリルが開発した自律型海中車両であるダイブLDであると説明した。ディフェンススクープは2024年に、それぞれの価格が250万ドルであると報じた。
+この事態は、米国とイランがペルシャ湾で新たな攻撃を交わしてから3日後に起こり、トランプ政権がイランを経済的に打倒する方向に戦略を転換しているにもかかわらず、この地域での激しい敵対関係が再燃した。
+セントコムは、イラン革命防衛隊が海軍軍艦２隻に弾道ミサイルを発射したことへの報復として、イランの原油運搬船３隻を攻撃したと発表した。
+フォックスニュースが火曜日、匿名の米高官の話として報じたところによると、米軍はその後、石油輸出拠点であるハルグ島付近の標的を攻撃し、その中にはイランの石油タンカーも含まれていた。セントコムはこの報道に関するCNBCのコメント要請にすぐには応じなかった。
+この水上バイクへのスポットライトは、中東での戦争を戦うために米軍が自動運転技術への依存を高めていることの最新の例を示している。
+この夏、無人ボートの新興企業サロニックは、ホルムズ海峡で墜落したヘリコプターから乗組員を救出するために自社のドローン船の1つを使用した。サロニッチのボートは後にイランの潜水艦と船舶施設への攻撃に使用された。
+— CNBC のサマンサ・スビンがこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
+    publishedAt: "2026-09-08T20:17:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "new-hampshire-goes-to-the-polls-in-prima-bcb6b0ee",
+    title: "New Hampshire goes to the polls in primary for key open Senate seat",
+    titleJa: "ニューハンプシャー州、上院の主要議席確保のため予備選挙に向かう",
+    summaryJa: "ニューハンプシャー州の有権者は、引退する民主党上院議員ジーン・シャヒーン氏の後任となる重要な米上院選挙の候補者を指名するため、火曜日に投票所に向かう。民主党も共和党も次期議会で上院の多数派を掌握し議席獲得を目指している。資金集めレースをリードし、2019年から同州第1下院選挙区の代表を務めているクリス・パパス下院議員は、民主党の指名獲得の最有力候補となっている。彼は、最近の世論調査でパパスにわずかに迫っている科学者で民主社会主義者のカリシュマ・マンズールからの挑戦に直面している。",
+    bodyOriginal: `New Hampshire voters head to the polls Tuesday to nominate candidates for a key U.S. Senate race to replace the retiring Democratic Sen. Jeanne Shaheen. Both Democrats and Republicans are aiming to win the seat in their quest to control the Senate in the next Congress.
+Rep. Chris Pappas, who leads the fundraising race and has represented the state's 1st Congressional District since 2019, is the favorite to secure the Democratic nomination. He faces a challenge from scientist and democratic socialist Karishma Manzur, who has closed in slightly on Pappas in recent public polls.
+On the Republican side, former U.S. Sen. John Sununu, of New Hampshire, is the favorite to secure the nomination over former U.S. Sen. Scott Brown, of Massachusetts. Shaheen defeated both Sununu and Brown in different years, but Sununu — whose brother Chris Sununu was a highly popular governor of the Granite State until 2025 — is seen as a formidable candidate in what is shaping up to be a tough election cycle for Republicans as the Iran war drags on and President Donald Trump's popularity slumps.
+The New Hampshire Senate race is critical to both parties ahead of November's midterm election. Democratic hopes of flipping the Senate would dim if the party can't hold on to Shaheen's seat, as it needs to net four additional seats to flip the upper chamber. If Republicans flip the seat, it would provide a cushion for the GOP to hold on to its Senate majority by requiring Democrats to flip an additional seat.
+The midterms will determine who controls Congress — and subpoena power — during the last two years of Trump's term. If Democrats flip one or both chambers, they are widely expected to launch sweeping investigations of the Trump administration that are likely to rope in companies that have done business with the administration.
+Pappas, who has been endorsed by Shaheen and other top Democrats, such as U.S. Sen. Elizabeth Warren, of Massachusetts, has made anti-corruption efforts a top issue in his campaign. Pappas has largely legislated as a moderate and is a member of the bipartisan Problem Solvers Caucus.
+Manzur is running on a platform similar to other democratic socialist candidates who have surged in Democratic primaries across the country, calling for universal healthcare and opposing aid to Israel. She is a scientist by trade, with a Ph.D. in biochemistry and molecular biology.
+Pappas has held a lead in the race, but a recent poll from the University of New Hampshire found Manzur had narrowed his lead and was 13 percentage points behind the front-runner.
+Sununu, meanwhile, has campaigned as a moderate Republican willing to work across the aisle. Trump has endorsed Sununu in the race, saying "he will work tirelessly to advance our America First Agenda." But Sununu himself has kept Trump at arm's length in advertising, with the president's approval underwater in the Granite State.
+Brown, meanwhile, has targeted "D.C. special interests" in advertising, casting himself as an independent. He has trailed heavily behind Sununu in public polling. After he left the Senate, Brown was the U.S. ambassador to New Zealand and Samoa during Trump's first term.`,
+    bodyJa: `ニューハンプシャー州の有権者は、引退する民主党上院議員ジーン・シャヒーン氏の後任となる重要な米上院選挙の候補者を指名するため、火曜日に投票所に向かう。民主党も共和党も次期議会で上院の多数派を掌握し議席獲得を目指している。
+資金集めレースをリードし、2019年から同州第1下院選挙区の代表を務めているクリス・パパス下院議員は、民主党の指名獲得の最有力候補となっている。彼は、最近の世論調査でパパスにわずかに迫っている科学者で民主社会主義者のカリシュマ・マンズールからの挑戦に直面している。
+共和党側では、ジョン・スヌヌ元上院議員（ニューハンプシャー州）が、スコット・ブラウン元上院議員（マサチューセッツ州）よりも指名獲得の最有力候補となっている。シャヒーン氏は別の年にスヌヌ氏と​​ブラウン氏の両氏を破ったが、スヌヌ氏（弟のクリス・スヌヌ氏は2025年まで花崗岩州知事で人気が高かった）は、イラン戦争が長引き、ドナルド・トランプ大統領の人気が低迷する中、共和党にとって厳しい選挙サイクルとなりつつある中、手ごわい候補とみなされている。
+ニューハンプシャー州上院選挙は、11月の中間選挙に向けて両党にとって極めて重要だ。民主党が上院をひっくり返すにはさらに4議席を獲得する必要があるため、同党がシャヒーン氏の議席を維持できなければ、上院をひっくり返すという期待は薄れるだろう。共和党が議席を入れ替えれば、民主党に追加の議席を入れ替えることを要求することで、共和党が上院過半数を維持するクッションとなる。
+中間選挙では、トランプ大統領の任期最後の2年間、誰が議会と召喚状の権限を掌握するかが決定される。民主党が一方または両方の議院をひっくり返した場合、トランプ政権に対する徹底的な調査を開始すると広く予想されており、これにより政権と取引のある企業が取り込まれる可能性が高い。
+パパス氏はシャヒーン氏のほか、エリザベス・ウォーレン上院議員（マサチューセッツ州）など他の民主党幹部らの支持を受けており、汚職撲滅の取り組みを選挙キャンペーンの最重要課題に据えている。パパス氏は主に穏健派として立法を行っており、超党派の問題解決者議員団のメンバーでもある。
+マンズール氏は全国の民主党予備選で躍進した他の民主社会主義者候補者と同様の綱領で出馬しており、国民皆保険やイスラエルへの援助反対を訴えている。彼女は本業の科学者であり、博士号を取得しています。生化学と分子生物学の分野。
+パパス氏はこのレースでリードを保ってきたが、ニューハンプシャー大学の最近の世論調査では、マンズール氏がリードを縮め、トップランナーとは13ポイントの差をつけられていることが判明した。
+一方、スヌヌ氏は通路を越えて協力する意欲のある穏健派共和党員として選挙運動を行ってきた。トランプ大統領は選挙戦でスヌヌ氏を支持し、「彼は米国第一の課題を推進するためにたゆまぬ努力をするだろう」と述べた。しかし、スヌヌ氏自身は、花崗岩州で大統領の承認が水面下で行われているため、広告宣伝においてトランプ氏を腕を伸ばして接し続けている。
+一方、ブラウン氏は広告業界で「ワシントンD.C.の特別利益」をターゲットにしており、自らを無所属の立場に置いている。同氏は世論調査でスヌヌ氏に大きく後れをとっている。ブラウン氏は上院議員を去った後、トランプ大統領の１期目に駐ニュージーランドおよびサモア米国大使を務めた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+    publishedAt: "2026-09-08T19:25:59+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "sapporo-to-move-some-beer-production-fro-31a18e29",
+    title: "Sapporo to move some beer production from Canada to US after tariffs",
+    titleJa: "サッポロビール、関税解除を受けてビール生産の一部をカナダから米国に移管へ",
+    summaryJa: "サッポロビール、関税解除を受けてビール生産の一部をカナダから米国に移管へ- 公開されました",
+    bodyOriginal: `Sapporo to move some beer production from Canada to US after tariffs
+- Published
+Japanese brewer Sapporo says it will move some beer production from Canada to the US after new tariffs on Canadian beer took effect on Tuesday.
+The move follows the introduction of a 50% tariff on beer imported from Canada. For companies shipping beer across the border, that means significantly higher costs.
+Chief strategy officer Rieko Shofu described tariffs as "something out of our control," telling Bloomberg that the beer giant would "move ahead with local production."
+Sapporo did not immediately respond to the BBC's request for comment. The company plans to shift production of its non-alcoholic beer, currently made in Canada for US customers, to the US by the first half of 2027.
+The US is one of Sapporo's most important overseas markets, and any shift south of the border will directly affect operations at its Canadian subsidiary, Sleeman Breweries.
+To mitigate rising costs, the Japanese brewer is considering adding production capacity on the US West Coast. Options include building or buying a brewery, or partnering with a third-party manufacturer.
+Sapporo has been building its presence in the US for years and says its flagship Sapporo brand is the country's best-selling Asian beer brand.
+The company is also investing heavily outside Japan where a shrinking population has weighed on alcohol sales.
+Sapporo plans to invest up to ¥400bn ($2.6bn) by 2030 as it seeks to expand overseas and boost profits. Around 30% of the capital is earmarked for overseas markets.
+The brewer is also looking beyond North America. In July, it announced a partnership with Danish brewer Carlsberg to expand in Southeast Asia.
+Sapporo's decision to move production comes as companies adapt to a growing number of tariffs worldwide.
+In July, the US announced new tariffs on dozens of trading partners, including Canada, raising costs for businesses that rely on cross-border supply chains.
+The move highlights how some companies are reconsidering where they make goods as trade barriers increase the cost of serving customers from overseas.
+Related topics
+- Published6 hours ago
+- Published24 July
+- Published8 hours ago`,
+    bodyJa: `サッポロビール、関税解除を受けてビール生産の一部をカナダから米国に移管へ
+- 公開されました
+日本のビール会社サッポロは、カナダ産ビールに対する新たな関税が火曜日に発効したことを受け、ビール生産の一部をカナダから米国に移管すると発表した。
+この措置は、カナダから輸入されるビールに50％の関税が導入されたことを受けたものである。国境を越えてビールを輸送する企業にとって、これはコストの大幅な増加を意味する。
+首席戦略責任者、正府理恵子氏は関税について「我々のコントロールの及ばないもの」と述べ、ビール大手は「現地生産を進める」とブルームバーグに語った。
+札幌はBBCのコメント要請にすぐには応じなかった。同社は現在米国顧客向けにカナダで製造しているノンアルコールビールの生産を、2027年上半期までに米国に移管する計画だ。
+米国はサッポロにとって最も重要な海外市場の一つであり、国境以南への移動はカナダ子会社スリーマン・ブルワリーズの経営に直接影響する。
+コスト上昇を緩和するために、日本のビール会社は米国西海岸での生産能力の追加を検討している。選択肢としては、醸造所の建設や購入、あるいはサードパーティメーカーとの提携などが挙げられます。
+サッポロは長年にわたって米国での存在感を高めており、同社の主力ブランドであるサッポロは米国で最も売れているアジアのビールブランドであるとしている。
+同社は人口減少がアルコールの売り上げに重しとなっている日本国外でも多額の投資を行っている。
+サッポロは海外展開と利益拡大を目指し、２０３０年までに最大４０００億円（２６億ドル）を投資する計画だ。資本金の約30％は海外市場に充てられます。
+醸造家は北米以外にも目を向けています。 7月には、東南アジアでの事業拡大を目的としたデンマークのビール会社カールスバーグとの提携を発表した。
+サッポロの生産移転の決定は、企業が世界中で増加する関税に適応する中で行われた。
+米国は7月、カナダを含む数十の貿易相手国に対する新たな関税を発表し、国境を越えたサプライチェーンに依存する企業のコストが上昇した。
+この動きは、貿易障壁が海外からの顧客へのサービスコストを増大させる中、一部の企業が製品の製造場所をどのように再考しているかを浮き彫りにしている。
+関連トピック
+- 6 時間前に公開
+- 7 月 24 日発行
+- 8 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-08T17:41:42+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/00423140-ab99-11f1-aed2-8d6da8d75094.jpg",
+    readTime: 3,
+  },
+  {
     id: "chinese-giants-xiaomi-huawei-race-to-get-5907df18",
     title: "Chinese giants Xiaomi, Huawei race to get ahead of Apple’s rumored foldable iPhone",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1439,250 +1713,6 @@ It comes after Trump signed an executive order directing the federal government 
     publishedAt: "2026-09-07T12:09:41+00:00",
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "oil-prices-climb-after-reports-of-saudi-93d2c5f7",
-    title: "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
-    publishedAt: "2026-09-07T11:54:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-40275731",
-    readTime: 2,
-  },
-  {
-    id: "jaguar-land-rover-to-cut-4-000-jobs-over-844f88e1",
-    title: "Jaguar Land Rover to cut 4,000 jobs over next two years",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Jaguar Land Rover to cut 4,000 jobs over next two years
-- Published
-Jaguar Land Rover (JLR) is to cut 4,000 jobs as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.
-The cuts will happen over the next two years and will mostly affect the head office, which is based in the UK.
-JLR's long-term issues were made worse after a cyber-attack last year caused the firm, which employs 43,000 people globally, to shut down production for more than a month.
-Chief executive PB Balaji said the firm was "committed to supporting everyone with care, fairness and respect" through the redundancy process.
-"The automotive industry faces significant challenges, with technological change amidst intense competition and ongoing geo-political uncertainty," he added.
-JLR is hoping to achieve the cuts through voluntary redundancy, with a window open until 4 October, but said it would make compulsory redundancies with less generous terms if necessary. Affected staff will receive an email in the coming days.
-The redundancies are being made in an attempt to save £1.7bn over the next two years.
-JLR is "as strategically important as it gets for the UK economy", according to David Bailey, business and economics professor at Birmingham University.
-He said many UK jobs were dependent on its supply chain and the economy as a whole took a hit when the firm closed down production because of last year's cyberattack.
-"It's the centre of our automotive industry," he added.
-Yet, the car maker has been losing sales to rivals from China, a country which JLR initially saw as a market for growth rather than a source of competition.
-In addition, US President Donald Trump's tariffs have hurt the company, which unlike many of its rivals does not have a factory in the US.
-In its results for the year to the end of March, JLR said US tariffs and the cyberattack were the main reasons why its sales had slumped by a fifth to £22.9bn from £29bn in the previous two years.
-Ian Robertson, former director at BMW, told the BBC's Today programme that JLR should have copied its rivals and started manufacturing in the US.
-"The biggest operation for BMW in the world is in Spartanburg, South Carolina. Mercedes have their plant further south in Tuscaloosa. JLR didn't take that decision early enough in my view," he said.
-He also said JLR had been "somewhat late to the party in terms of producing their first electric car which is just about to go into production".
-Robertson added that Brexit had hurt the firm, despite its factory in Slovakia giving it "some flexibility".
-The prime minister's official spokesman said: "We understand that this will be an uncertain and concerning time for affected workers, their families and the wider communities."
-The spokesman added that Business Secretary Jonathan Reynolds "is in close contact with JLR and he will be meeting them early this week", but ruled out "any form of bailout".
-Business and trade committee chair Liam Byrne called the cuts a "body blow for workers, families and communities across the West Midlands".
-"Whether or not these redundancies are voluntary, we now need urgent assurances that maximum support will be deployed to help everyone affected find new work," he added.
-'Death by a thousand cuts'
-Some have blamed the issues facing JLR and the wider UK car industry on the zero emission vehicle (ZEV) mandate, which was introduced by the previous Conservative government and kept under Labour.
-It requires that all new car and van sales in the UK must be zero emission vehicles by 2035, but it does not apply to cars sold overseas, which is where JLR makes most of its revenue.
-Shadow transport secretary Richard Holden said the ZEV mandate and higher energy costs were "crippling the British automotive industry", pledging to scrap the mandate.
-At the weekend, the general secretary of the Unite union, Sharon Graham, said the ZEV mandate was "unsustainable" and that the UK car industry had suffered from "years of underinvestment" under both Labour and the Conservatives.
-"Death by a thousand cuts has been going on under the nose of successive governments," she said over the weekend.
-The UK Sustainable Investment and Finance Association has defended the ZEV mandate, previously calling it "crucial for attracting finance into this infrastructure as it sets out a clear, predictable pathway for the growth of the electric vehicle market".
-- Published6 October 2025
-- Published14 November 2025`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-07T11:51:54+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
-    readTime: 2,
-  },
-  {
-    id: "far-right-afd-landslide-in-german-state-040499b4",
-    title: "Far-right AfD landslide in German state piles pressure on federal government",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `A landslide electoral victory for the far-right in the small but significant state of Saxony-Anhalt over the weekend is sending shockwaves through Europe and piling pressure on Germany's federal government.
-Alternative for Germany (AfD) secured the highest share of the vote at 43.8%, well above the 17.2% of the incumbent Christian Democratic Union Party (CDU), which also leads the country's national coalition under Chancellor Friedrich Merz. Initial results show the AfD securing 39 of 83 parliamentary seats, leaving it three seats short of an outright majority and uncertain over its ability to form a new state government.
-A so-called "firewall" sees other parties in Germany agree not to cooperate with far-right in a way that would give it political power. However, AfD candidate Ulrich Siegmund said Monday that the party would hold discussions with "individual parliamentary groups or individual MPs" to see if they would support it in governing, according to Reuters.
-The "extraordinary" result may be the "most consequential German state-election result of the postwar era," Mujtaba Rahman, managing director for Europe at consultancy Eurasia Group, said Monday.
-While the AfD has been growing in popularity for years, particularly in eastern Germany, the result raises the prospect of the hard right taking power in a German state for the first time since the Nazi era.
-At state level, the party has pledged stringently anti-refugee and anti-migrant policies, including accelerating deportations and separating the children of refugees into different classrooms, while encouraging SMEs to use AI rather than migrant workers and financially incentivizing families to have more children.
-Voters "seeking a genuinely radical break" voted AfD while liberal and left-wing voters swung to the Greens and Social Democratic Party of Germany (SPD), squeezing the CDU from both sides, Rahman said in a note. If it continues, that trend could see upcoming elections in Mecklenburg-Western Pomerania and Berlin turn "a regional earthquake into a rolling national crisis," he added.
-Public 'furious' over state of German economy
-Saxony-Anhalt, a traditional hub for German chemicals and motor supplies, has "suffered disproportionately" from the post-unification collapse of east German industry and the recent spike in energy prices, Berenberg Chief Economist Holger Schmieding said in a Monday note.
-The result also deals a hammer blow to the federal government of Merz, who polling suggests is deeply unpopular.
-Questions over the future of German industry, innovation and welfare were dominant themes in the electoral race, Peter Altmaier, former Minister for Economic Affairs and Energy for the CDU, told CNBC on Monday.
-Though it was a state election, Altmaier said dissatisfaction with national-level answers to those questions contributed to the result.
-The public is "furious" and turning to challenger parties on both the left and right after five years of economic stagnation and a lack of job creation at a time when many traditional jobs are being lost in Germany, Altmaier continued.
-"We expected the worst, but this result yesterday night was a kind of disaster ... and of course it will affect political debates across the country and upcoming state elections in other states," Altmaier said.
-"Saxony-Anhalt is one of the smallest states, of course, and the German democracy is strong and resilient. But this is unprecedented, and it will be a matter of concern not only for us but also for our neighbors in Europe."
-On Monday, ministers in both Poland and France — also facing the prospect of mounting electoral gains for the far-right — called the German result worrying, according to local media reports.
-The Saxony-Anhalt election alone is very unlikely to detail Germany's planned increases in defense and infrastructure spending or the majority of unpopular cuts and pro-growth reforms set to be passed this fall, Berenberg's Holger Schmieding said.
-Those include pension system savings, tax and health-care reforms and measures to reduce bureaucracy, as well as hikes to defense and infrastructure spending.
-"The alternative – namely to shy away from reforms to strengthen Germany's growth potential – would likely be even worse for the outlook for the coalition parties in the long run," he said.
-It also seems "more likely than not" that Merz and his coalition will "soldier on" until the end of their federal parliamentary term in early 2029, Schmieding said.
-However, that is largely due to a lack of alternatives — and the result is still a "huge blow" to the chancellor and adds to the risk of his government falling apart, Schmieding added.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
-    publishedAt: "2026-09-07T11:47:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "spacex-rival-launches-rocket-in-historic-edd4affb",
-    title: "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `German rocket maker Isar Aerospace successfully reached orbit for the first time over the weekend, marking a milestone for Europe's commercial space industry as the company looks to ramp up launches to meet what it says is booming demand.
-The Munich-based company's Spectrum rocket reached orbit on Saturday and successfully deployed its payloads in low Earth orbit, an achievement that came on only its second test flight.
-Chief Commercial Officer Stella Guillen told CNBC on Monday that the company was now focused on scaling production, saying the space industry was "desperate" for additional launch capacity and that Isar had a pipeline worth more than 10 billion euros ($11.6 billion).
-The startup did not immediately clarify how much of that represented contracted orders.
-"The demand is so big," Guillen told CNBC's "Squawk Box Europe." "There's a lot of new ... constellations and new projects that have come out, and actually they're financed."
-The company is focused on increasing production and launch frequency following Saturday's successful flight, Guillen said, but warned that Europe's launch infrastructure would need to expand to support the industry's growth.
-While the scale of Isar's operations is currently dwarfed by those of U.S. competitors like Elon Musk's SpaceX, the company has big ambitions.
-"Right now, it's all about scalability, so industrialization is a huge thing for us, and we are ramping up," she said. "It really is about scaling and being able to launch… not one rocket but hundreds of rockets."
-The privately held Munich-based company has attracted backing from investors including Porsche, venture capital firms Lakestar and HV Capital, and the NATO Innovation Fund. It raised 270 million euros in a Series D funding round in June to help scale production and expand its global launch network.
-It's considered one of Europe's most encouraging startups, as the bloc seeks to create a rival to SpaceX and a homegrown commercial launch industry.
-"This marks the beginning of a new era," Germany's Chancellor Friedrich Merz said Sunday on X, while EU defense and space commissioner Andrius Kubilius said: "Europe's independent access to space just got a major boost."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-    publishedAt: "2026-09-07T11:19:33+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "china-says-it-will-pump-54-billion-into-df731cf7",
-    title: "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `China's finance ministry is leading a smaller-than-expected $54 billion capital injection into state-owned banks and insurers, as Beijing seeks to foster growth with restrained stimulus.
-Three state lenders and five insurers will get a combined 360 billion yuan ($53.6 billion) from state institutions, led by the Ministry of Finance and the country's tobacco giant. It's the first time that Beijing has extended recapitalization to insurers, as stress in the country's financial system spreads. With more of a capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, including bond and equity purchases, said Gary Ng, senior economist at Natixis.
-The recapitalization was smaller in scale than markets had anticipated for these financial institutions, according to Citibank. "This downsized package underscores the healthier capital positions of Chinese insurers, indicating an overall lower urgency for aggressive capital replenishment."
-Hong Kong-listed shares of the banks and insurers slumped Monday, underperforming the broader market. The Hang Seng Index fell less than 1%, while Agricultural Bank of China and Industrial and Commercial Bank of China dropped 2.7% and 2.3%, respectively. China Taiping Insurance lost almost 4%, while People's Insurance Company of China and China Life Insurance each fell more than 2%.
-The moves build on a 500 billion yuan capital injection into four major state banks last year and a pledge in March to issue 300 billion yuan in special treasury bonds this year to replenish capital at large state lenders. China's banking sector has been grinding through a multiyear margin compression, as Beijing pushes lenders to keep credit cheap for struggling borrowers. The net interest margins — the spread between what banks earn on loans and pay on deposits — fell to record lows this year.
-Beijing is preparing lenders to finance its next strategic investment cycle, "particularly the massive capital requirements of AI and advanced technology," said Han Shen Lin, China country director at The Asia Group. "China is effectively using state capital to strengthen the banking system's shock absorbers."
-Injection details
-Agricultural Bank and ICBC, two of the country's largest state banks, plan to raise up to 160 billion yuan and 100 billion yuan, respectively, through private A-share placements to a group of institutions, including the finance ministry, and China National Tobacco Corp and its subsidiaries. Proceeds will be used entirely to replenish capital, according to their statements on Sunday.
-The Export-Import Bank of China will get a direct 30 billion yuan injection from the finance ministry, aimed at strengthening its ability to "provide funds to the real economy and withstand potential risks."
-China Life, the country's largest life insurer, will receive 35 billion yuan, while China Taiping Insurance will get 7 billion yuan. People's Insurance plans to raise up to 15 billion yuan through a private placement of A-shares to the Ministry of Finance. The finance ministry will also inject 10 billion yuan into China Export and Credit Insurance Corp, the state trade insurer known as Sinosure, while China Reinsurance Group will raise 3 billion yuan.
-Falling market interest rates have limited banks' ability to rebuild capital through retained earnings, making external injections critical, said Bruce Pang, a member of the Chief Economist Forum in China, adding that the state push would strengthen lending power at large state-owned banks, allowing "higher-quality" financial support for the economy and the priority sector.
-The recapitalization also gives banks room to accelerate the disposal and write off of non-performing loans, offsetting "potential asset quality pressure down the road," said Citibank analyst July Zhang.
-"The capital pressure on China's big banks could start easing," Zhang said, as policymakers prioritize quality growth and ease pressure on banks to chase fast loan growth, while credit demand remains weak.
-China's insurers have seen solvency ratios deteriorate as persistently low rates squeeze profitability. The solvency ratio of the insurance sector dropped to 180.6% at the end of the second quarter, from 204.5% last year, though higher than the regulatory requirement of 100%.
-Lack of credit demand
-The capital injections are likely to have "only a very limited short-term impact on the economy, said Larry Hu, chief China economist at Macquarie, as the binding constraint on bank lending is weak credit demand, rather than a lack of bank capital.
-Growth has faltered further in the world's second-largest economy into the third quarter this year. Beijing's policy tone has shifted to acknowledging "difficulties and challenges" in the economy, a marked shift from earlier language describing growth as "better than expected," Hu said.
-Fiscal support has picked up in response, with faster government bond issuance and a push toward the infrastructure projects, Hu said. But he doesn't expect a major stimulus push. "We expect policymakers to do just enough to meet this year's growth target," he said. "Incremental stimulus should be sufficient."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
-    publishedAt: "2026-09-07T09:26:54+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "israel-hezbollah-clashes-kill-11-as-mide-5ae6b650",
-    title: "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Israel's latest campaign against Iran-backed Hezbollah militants continued on Monday, with retaliatory strikes in Southern Lebanon contributing to an apparent escalation in the wider Middle East conflict in recent days.
-At least 11 people were killed, including two children and two medics, in Israeli strikes on a residential building in a town in southern Lebanon on Monday, Lebanon's state news agency reported.
-Lebanon has emerged as the most important secondary front in the Iran war, as U.S. ally Israel confronts Tehran's most important regional military supporter, Hezbollah.
-The latest Israeli strike extends a run of Israeli attacks that have killed civilians in southern Lebanon over the weekend, testing a U.S.-brokered ceasefire that has failed to yield a full halt in hostilities since taking effect in late June.
-At least seven people, including two women, were killed in Israeli strikes across southern Lebanon on Sunday, with six others wounded, Reuters reported, citing Lebanon's Health Ministry. Israel described those strikes as retaliation for Hezbollah drones fired at its forces.
-Before the strikes, Israel's military had issued an evacuation order for residents in the area earlier on Monday. Israeli military spokesperson Ella Waweya, in a social media post, called on residents inside a building marked on an accompanying map in Deir al-Zahrani — and in adjacent structures — to "evacuate immediately" and move at least 300 meters away, saying the site was near a Hezbollah facility the army intended to target and warning that remaining in the area "puts you in danger."
-In the Monday post, the Israeli military accused Hezbollah of a "blatant violation" of the ceasefire agreement, saying an explosive drone had been launched toward its forces and that this was causing the army "to act against it forcefully."
-Lebanon was drawn into the wider regional war in March, when the Iran-backed Hezbollah militant group formally joined the fighting, prompting Israeli airstrikes and a ground invasion, extending a conflict that Lebanon said has killed at least 4,300 people and wounded over 12,000 since March 2.
-Lebanese President Joseph Aoun on Sunday called the strikes "a dangerous escalation," calling on the U.S. to help end the hostilities.
-"President Aoun held the Israeli side fully responsible for this ongoing escalation, calling on the United States and the international community to take immediate action to stop these violations and hold the perpetrators accountable," according to a statement.
-Violence has persisted in the region despite a U.S.-brokered ceasefire deal reached in June, with sporadic Israeli strikes and Hezbollah drone attacks. Last month was the deadliest since the truce, as Israeli airstrikes killed at least 11 people and wounded 19 in southern Lebanon.
-Monday's evacuation warning was only the third issued since the June ceasefire announcement, after the first online evacuation order on Aug. 5 and the second on Sunday.
-Standoff
-The war between Iran and the U.S. has stretched into its seventh month with little indication that either side is preparing to return to the negotiating table. The Trump administration has been upping the ante with its economic pressure campaign against the Islamic regime, while military hostilities intensified.
-A preliminary ceasefire reached in June has collapsed, and diplomatic efforts to revive talks have stalled. Shipping through the Strait of Hormuz, one of the world's most critical energy chokepoints, remained at a fraction of pre-war levels.
-Iran's Supreme National Security Council Secretary Mohsen Rezaei said Sunday that Tehran will announce in the coming days, a "restricted zone" that runs from the U.S. naval blockade line, through the Strait of Hormuz, and into the Persian Gulf.
-Rezaei said Iran will also sign off on a new international shipping corridor through the strait, developed jointly with Oman and operating "under Iran's management." Few details have been disclosed on the plan, but Rezaei said any ship entering the new zone would be added to a sanctions list.
-On the U.S. side, Energy Secretary Chris Wright said Sunday that a nuclear agreement with Iran may no longer be achievable through negotiation.
-"There may not be a nuclear agreement. It may be simply destroying their capabilities to do it," Wright said, adding that a deal "may await a next administration in Iran."
-Iran: 'Serious consequences' for South Korean involvement
-Separately, Iran's Foreign Ministry spokesperson Esmaeil Baghaei on Monday warned Seoul against potential military involvement and support for U.S. "aggression."
-South Korea's foreign ministry reportedly said over the weekend that it was in "close communication with relevant countries to help restore peace and stability in the Middle East as soon as possible." Last week, Seoul said it was reviewing options, including military measures to support freedom of navigation in the Strait of Hormuz, according to Reuters.
-"At a time when the Iranian people are exercising their right to self-defense against U.S. acts of aggression and firmly confronting U.S. war crimes targeting women and children, any military presence or operational participation by another nation in the Persian Gulf and the Strait of Hormuz would inevitably be viewed as direct support for the aggressor, leading to serious consequences," Baghaei wrote in a post on X, written in the Korean language.
-"No sovereign and responsible nation should yield to U.S. pressure and intimidation by becoming complicit in acts of aggression and horrific crimes against the great Iranian people."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
-    publishedAt: "2026-09-07T09:26:27+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "china-to-pump-54bn-into-state-banks-and-52f0e69d",
-    title: "China to pump $54bn into state banks and insurers to boost economy",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `China to pump $54bn into state banks and insurers to boost economy
-- Published
-China is pumping tens of billions of dollars into eight state-owned banks and insurance companies to help shore up the country's financial system and boost its slowing economy.
-The cash injection, which is being led by China's finance ministry, will total 360 billion yuan ($53.6bn; £39.7bn), state news agency Xinhua said on Sunday.
-The outlet said the move "will help further enhance their sound operating capabilities, risk resistance capabilities, and ability to serve the real economy".
-It marks the latest move in Beijing's attempts to reinvigorate the world's second largest economy as it faces issues including trade tensions with the West, the impact of the Iran war and an aging population.
-The package will boost the finances of three big lenders and five insurers including the Industrial and Commercial Bank of China, the Agricultural Bank of China and China Export & Credit Insurance Corporation.
-State news outlet Global Times said this "will give banks and financial institutions more resources to channel into credit for the real economy, while strengthening their ability to withstand external shocks at a time of global financial uncertainty".
-President Xi Jinping has long seen financial stability as key to China's national security.
-This weekend's announcements come as Beijing is aiming to reshape the economy in the face of a number of challenges such as a shrinking workforce, a years-long property market slump and ongoing trade and technology rivalry with the US.
-China's economic growth slowed sharply between the start of April and end of June as weak domestic demand and the Iran war's impact on oil prices overshadowed the country's strong exports.
-Official gross domestic product (GDP) figures released in July showed China's economy grew in the second quarter by 4.3%, below Beijing's annual target, and after a 5% rise in the first quarter.
-In March, Beijing cut the growth target to a range of 4.5%-5%, its lowest economic expansion goal since 1991, a move some analysts say has given Beijing space to acknowledge pre-existing economic weakness.
-Related topics
-- Published22 April`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-07T02:26:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6782/live/9df185f0-aa6b-11f1-a525-873a5928ac64.jpg",
-    readTime: 2,
-  },
-  {
-    id: "treasury-yields-face-4-8-test-as-fiscal-e228747b",
-    title: "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
-    titleJa: "財政リスクが他の資産にも波及する恐れがあり、国債利回りは4.8％の試練に直面している",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Treasury yields face a key test at 4.8%, with a sustained move above that level potentially creating "meaningful problems" for other asset classes, according to Matt Maley, chief market strategist at Miller Tabak + Co.
-"We remain concerned about the Treasury market…as rising fiscal deficits, massive debt issuance, and heavy corporate borrowing continue to pressure long-term yields... while Treasury Department jawboning has failed to produce the desired decline in rates (at least so far)," Maley said in a note over the weekend.
-A sustained move above 4.8% on the 10-year Treasury yield — which marks the the high reached in January 2025 — "would be particularly concerning," he said, as it could begin to create broader problems for markets and signal that fiscal concerns are overwhelming policymakers' attempts to influence borrowing costs.
-Maley said recent efforts by the U.S. Treasury Department and Secretary Scott Bessent to talk yields lower have so far failed to generate the desired response. The effort came as investors were heavily short Treasurys and summer trading conditions were relatively thin, with policymakers hoping verbal intervention could trigger a meaningful bond rally.
-Instead, the episode underscores the growing difficulty of addressing market concerns without tackling the underlying fiscal pressures, he highlighted. The U.S. budget deficit and national debt, now above $40 trillion, are becoming increasingly difficult for investors to ignore, while the government is competing with large volumes of corporate borrowing for investor demand.
-More than $8.4 trillion of U.S. government securities are scheduled to roll over between now and year-end, while September could be a record month for high-grade corporate issuance, according to Maley. Goldman Sachs recently revised its forecast for USD investment-grade issuance in 2026 upward to $2.3 trillion.
-The pressure is not confined to the U.S. Japan, the U.K., France and other developed economies face significant fiscal challenges, adding to a broader shift in global bond markets as investors demand greater compensation for absorbing government debt.
-"None of this means the bond market will move in a straight line," Maley said, noting that bearish sentiment and stretched positioning could still trigger a sharp rally in Treasury futures. Any such move, however, could prove tactical rather than mark a reversal of the longer-term trend.
-The 5% level has become widely watched for the long end of the Treasury curve, but Maley said the market's thresholds have repeatedly shifted higher, from 4.4% to 4.5%, 4.6% and 4.7%.
-A sustained break above 4.8% could have repercussions well beyond bonds. Michael Chen, general manager of Noah ARK Hong Kong, said a disorderly rise in long-term Treasury yields could trigger repricing across assets that depend on long-term cash flows, including ultra-long-duration bonds, high-valuation growth stocks, commercial real estate and some private assets.
-Chen said the structural pressure on Treasurys was building as fiscal dominance pushes investors to demand greater risk compensation for holding long-term debt. He favors gold and hard currency as structural hedges and is underweight ultra-long-duration Treasurys, while maintaining exposure to quality equities, real assets and AI-related physical infrastructure such as electricity, power grids, energy storage and data centers.
-HSBC has also turned more cautious on long-dated developed-market bonds. The bank raised its end-2026 forecast for the 10-year Treasury yield to 4.65% from 4.30%, citing a higher structural floor under long-term yields and a more hawkish distribution of potential monetary-policy outcomes.
-HSBC said it remains cautious on long-end bonds across developed markets, while also raising its end-2026 forecast for 10-year German Bund yields to 3% from 2.8%.
-For Maley, the key issue is that any near-term decline in yields would not necessarily resolve the longer-term problem.
-"If we get a bounce in the Treasury market soon (and thus a drop in yields)…and even if it can last through the mid-term election…it's not something that can be softened over the longer-term…without some serious changes on the fiscal front," he said.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
-    publishedAt: "2026-09-07T02:01:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 2,
   },
 ];
