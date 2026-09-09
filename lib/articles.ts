@@ -15,6 +15,518 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "demand-for-riskier-mortgages-rises-again-78369243",
+    title: "Demand for riskier mortgages rises again, along with interest rates",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Mortgage rates moved up again last week, prompting more borrowers to search for savings. They found that in riskier, adjustable-rate mortgages (ARMs).
+Demand for those loans made up 8.5% of all mortgage applications last week, up from 8% the previous week, according to the Mortgage Bankers Association, and the highest level since June. In the first years of the pandemic, when mortgage rates fell to historic lows, demand for ARMs was barely 3%.
+ARMs offer lower rates and can be fixed for up to 10 years. As a comparison, the average contract interest rate last week for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, increased to 6.85% from 6.79% the previous week, with points increasing to 0.67 from 0.65, including the origination fee, for loans with a 20% down payment. The average rate for a 5-year ARM fell to 5.82% from 5.94%.
+Higher rates on the 30-year fixed caused total mortgage demand to drop again. Total application volume dropped 2.7% for the week, according to the MBA's seasonally adjusted index.
+"Mortgage rates moved higher last week, driven by ongoing investor concerns over inflation and the federal budget deficit. The 30-year fixed rate increased to 6.85 percent, the highest since June 2025 and 36 basis points higher than a year ago," said Joel Kan, MBA's vice president and deputy chief economist.
+Applications to refinance a home loan fell hardest, down 6% for the week and 25% lower than the same week one year ago. That is the slowest pace since May 2025.
+Applications for a mortgage to purchase a home were essentially flat, down 0.2% for the week. They were 4% higher than the same week one year ago.
+"Higher mortgage rates continue to weigh on prospective homebuyers looking to act, even as housing inventory has increased in many markets," Kan added.
+Mortgage rates were unchanged to start this week, according to a separate survey from Mortgage News Daily. Investors are waiting for monthly inflation numbers set to be released at the end of this week. Those could move mortgage rates sharply in either direction, depending on the outcome.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
+    publishedAt: "2026-09-09T11:00:02+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "petrol-prices-rise-by-5p-over-a-week-as-7c263e03",
+    title: "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+    titleJa: "イラン戦争で原油高、ガソリン価格が1週間で5ペンス上昇",
+    summaryJa: "イラン戦争で原油高、ガソリン価格が1週間で5ペンス上昇- 公開されました",
+    bodyOriginal: `Petrol prices rise by 5p over a week as Iran war sends oil higher
+- Published
+The average price of unleaded petrol has risen by 5p a litre in the space of a week, according to the RAC, which warned there was "no sign of any relief" for drivers.
+The motoring organisation said a litre of unleaded now costs 167.17p - the biggest weekly increase since April - while diesel has also risen by 5p to 188.63p.
+Fuel prices have soared since the US-Israel war with Iran began at the end of February, with the fighting severely disrupting supplies of crude oil - a key ingredient in petrol and diesel - across the Middle East.
+The price of Brent crude, the global benchmark for oil, has returned to $100 a barrel, for the first time since July, as hostilities escalated again.
+US forces struck five Iranian tankers after Tehran targeted one of its warships, while Yemen's Iran-backed Houthi movement also attacked oil facilities in Saudi Arabia.
+The price of Brent is some way off the $120 it hit in April, but remains well above the $70 it was trading at before the conflict started.
+'Having to dig deeper'
+RAC senior policy officer Rod Dennis said the latest increase in fuel prices showed just how exposed drivers in the UK can be to events thousands of miles away.
+The 5p a litre rise meant the cost of filling a family-sized car had increased by £2.75 over the past week, he added.
+"Drivers are having to dig ever deeper into their pockets every time they fill up, and there's no sign of any relief yet," said Dennis.
+"With the cost of a barrel of oil having averaged $96 for the last week, wholesale prices are surging and that's already feeding through to prices at the forecourt."
+He urged motorists to drive as efficiently as possible and to ensure they find the cheapest forecourts they can.
+The last time petrol was this high was in September 2022, while diesel is still a bit below the 191.54p it reached in April.
+Related topics
+- Published1 hour ago
+- Published5 hours ago
+- Published5 days ago`,
+    bodyJa: `イラン戦争で原油高、ガソリン価格が1週間で5ペンス上昇
+- 公開されました
+RACによると、無鉛ガソリンの平均価格は1週間で1リットル当たり5ペンス上昇しており、ドライバーにとっては「何の救済の兆しも見られない」と警告している。
+自動車業界団体によると、無鉛ガソリンの価格は現在1リットル当たり167.17ペンスで、4月以来最大の週間値上がりとなっているが、ディーゼルも5ペンス上がって188.63ペンスとなっている。
+2月末に米国・イスラエルとイランとの戦争が始まって以来、燃料価格は高騰しており、戦闘により中東全域でガソリンとディーゼルの重要な原料である原油の供給が大幅に混乱している。
+戦闘が再び激化する中、原油の世界的なベンチマークであるブレント原油価格は7月以来初めて1バレル＝100ドルに戻った。
+イラン政府が軍艦1隻を標的にした後、米軍はイランのタンカー5隻を攻撃し、一方、イエメンのイランが支援するフーシ派もサウジアラビアの石油施設を攻撃した。
+ブレントの価格は4月に付けた120ドルからはかなり離れているが、依然として紛争が始まる前に取引されていた70ドルを大きく上回っている。
+「もっと深く掘り下げないといけない」
+RACの上級政策責任者であるロッド・デニス氏は、最近の燃料価格の値上げは、英国のドライバーが数千マイル離れた出来事にいかにさらされているかを示していると述べた。
+1リットルあたり5ペンスの値上がりは、家族用サイズの車の給油コストが過去1週間で2.75ポンド増加したことを意味すると付け加えた。
+「ドライバーはガソリンを満タンにするたびに、ますますポケットを深く探さなければならなくなり、まだ軽減される兆しはない」とデニス氏は語った。
+「先週の石油1バレルの価格は平均96ドルだったため、卸売価格は高騰しており、それがすでに前庭価格に波及している。」
+同氏はドライバーに対し、可能な限り効率的に運転し、できるだけ安い前庭を確実に見つけるよう促した。
+ガソリン価格が最後にこれほど高かったのは2022年9月だが、ディーゼル価格は4月に付けた191.54ペンスをまだわずかに下回っている。
+関連トピック
+- 1 時間前に公開
+- 5 時間前に公開
+- 5 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-09T10:57:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg",
+    readTime: 2,
+  },
+  {
+    id: "anthropic-researcher-believes-more-than-39efd242",
+    title: "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+    titleJa: "人類研究者はAIが「すべての人間を殺す可能性がある」可能性は10％以上だと信じている",
+    summaryJa: "人類研究者はAIが「すべての人間を殺す可能性がある」可能性は10％以上だと信じている- 公開されました",
+    bodyOriginal: `Anthropic researcher believes more than 10% chance AI 'could kill all humans'
+- Published
+A top safety researcher at Anthropic has warned that AI is advancing so quickly he believes there is a greater than 10% chance it "could kill all humans" within the next decade.
+Evan Hubinger said in a post on X, external that the risk from the models which currently exist was "low" but he was "worried" the technology might develop and improve itself soon to the point where it posed an existential risk to humanity.
+It comes after the Financial Times reported, external Anthropic withheld its latest model from the UK's AI Safety Institute (AISI), one of the leading bodies in the world for assessing AI risk.
+The BBC has approached Anthropic for comment.
+Hubinger's comments were in response to another post on X, external from Jacob Coxon, who described himself as an AI researcher who had just quit Anthropic, and previously worked at OpenAI.
+"Neither company is acting responsibly," he wrote.
+"These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources."
+OpenAI has been approached for comment.
+A Cabinet Office spokesperson did not comment on whether the latest model had been withheld from the AISI - instead saying it "continues to collaborate closely with industry partners, including Anthropic, to make models safer".
+Neil Lawrence, Professor of Machine Learning at University of Cambridge, told the Today Programme on BBC Radio 4 that the report was credible.
+"I suppose it's unsurprising against a background where there's a perception where the United States very much sees AI as a race between themselves and China and is moving more towards isolationist positions, that it might be that the administration is saying that they should reduce cooperation with some of their allies," he said.
+No plan for superintelligence
+In his post, which has been viewed more than 10 million times, Hubinger said "we really do earnestly believe" AI poses a species-ending risk to humans.
+"I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to," he added.
+Hubinger works in AI alignment, which aims to build human ethical ideas and principles into the technology. In other words, it aims to keep it on track with what humans value.
+Many leading researchers say those attempts appear to be failing, as demonstrated by a string of incidents this summer where AI agents - AI systems that are allowed to operate autonomously - carried out cyber-attacks.
+OpenAI, Anthropic and Meta all disclosed hacks carried out by their AI tools.
+Hubinger did not spell out how he thought AI systems could in future attack humanity.
+In Anthropic's safety report from August, external, it wrote there was a low risk of its models becoming misaligned with a hypothetical powerful organisation's desires, causing it to exploit or tamper with its systems.
+It also said there was a similarly low risk of highly-capable AI being able to "perform automated research and development" which could cause "catastrophic harm initiated by the AI". But it said it was "less confident in this assessment" than it was previously.
+"We are seeing early signs of potential acceleration," it wrote.
+Leading figures in the AI field have been raising the alarm about the safety threat the tech poses for years, with the heads of OpenAI, Google Deepmind and Anthropic saying as much in 2023.
+But those warnings have become much more stark in recent weeks, as evidence emerges that firms may be struggling to control AI.
+Earlier this month, OpenAI's chief scientist Jakub Pachocki called for "extreme caution" over AI's progress, warning more intervention may be needed to ensure "humans remain in control of the future".
+Major figures in the space have been calling for AI development to be slowed in recent months, including Anthropic bosses Dario Amodei and Jared Kaplan.
+In an open letter signed by 1,300 staff members of AI firms, external, they called for the US government to "support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development".
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `人類研究者はAIが「すべての人間を殺す可能性がある」可能性は10％以上だと信じている
+- 公開されました
+アンスロピック社のトップ安全研究者は、AIの進歩が非常に速いと警告し、今後10年以内にAIが「すべての人類を殺す可能性がある」可能性は10％以上あると考えていると述べた。
+エヴァン・ヒュービンガー氏は、X社外部への投稿で、現在存在するモデルによるリスクは「低い」が、近いうちにこの技術が発展し、人類の存亡に関わるリスクに至るまで改良されるのではないかと「心配」していると述べた。
+これは、外部のAnthropicがAIリスク評価の世界有数機関の1つである英国のAI安全研究所（AISI）から最新モデルを差し止めたとフィナンシャル・タイムズが報じた後のことだった。
+BBCはAnthropicにコメントを求めた。
+Hubinger氏のコメントは、Anthropic社を辞めたばかりで、以前はOpenAIで働いていたAI研究者であると自称するJacob Coxon氏の社外のXに関する別の投稿に対するものであった。
+「両社とも責任を持って行動していない」と同氏は書いた。
+「これらは間もなく、あらゆるものをハッキングし、一夜にしてあらゆる分野に革命を起こし、真の力とリソースを獲得できる超人的なシステムになるでしょう。」
+OpenAIにはコメントを求められている。
+内閣府の広報担当者は、最新モデルがAISIから差し止められたかどうかについてはコメントせず、「モデルをより安全にするために、Anthropicを含む業界パートナーと緊密に協力し続けている」と述べた。
+ケンブリッジ大学の機械学習教授ニール・ローレンス氏は、BBCラジオ4のトゥデイ・プログラムで、この報告書は信​​頼できると語った。
+「米国がAIを自国と中国との競争とみなして孤立主義的な立場に向かって進んでいるという認識がある背景を考えると、政権が一部の同盟国との協力を減らすべきと言っているのかもしれない、というのは当然のことだと思う」と同氏は述べた。
+スーパーインテリジェンスの計画はない
+1000万回以上閲覧された自身の投稿の中で、ヒュービンガー氏はAIが人類に種を滅ぼすリスクをもたらすと「我々は心から信じている」と述べた。
+「アンスロピック社は最善を尽くしていると信じているが、超知性の調整を解決する計画はまだなく、明確に軌道に乗っているわけでもない」と同氏は付け加えた。
+ヒュービンガー氏は、人間の倫理的な考えと原則をテクノロジーに組み込むことを目的とした AI 調整に取り組んでいます。言い換えれば、それは人間が価値を置くものと一致することを目的としています。
+多くの一流研究者は、AIエージェント（自律的に動作することを許可されたAIシステム）がサイバー攻撃を実行した今夏の一連の事件が証明しているように、こうした試みは失敗に終わっているようだと述べている。
+OpenAI、Anthropic、Meta はいずれも、自社の AI ツールによって実行されたハッキン​​グを公開しました。
+ヒュービンガー氏は、AIシステムが将来どのように人類を攻撃する可能性があると考えているかについては詳しく述べなかった。
+Anthropic は 8 月の社外向け安全性報告書で、自社のモデルが仮想の強力な組織の要望と乖離し、そのシステムが悪用されたり改ざんされたりするリスクは低いと述べています。
+また、高度な能力を備えたAIが「自動化された研究開発を実行」でき、「AIによって引き起こされる壊滅的な危害」を引き起こす可能性があるリスクも同様に低いと述べた。しかし同社は、以前よりも「この評価に対する自信がなくなった」と述べた。
+「潜在的な加速の初期の兆候が見られる」と書いている。
+AI分野の主要人物たちは何年もの間、この技術がもたらす安全上の脅威について警鐘を鳴らしており、OpenAI、Google Deepmind、Anthropicのトップらも2023年には同様のことを述べている。
+しかし、企業がAIの制御に苦戦している可能性があるという証拠が明らかになり、ここ数週間でこうした警告はさらに厳しくなっている。
+今月初め、OpenAIの主任科学者ヤクブ・パチョッキ氏はAIの進歩に対して「極度の警戒」を呼び掛け、「人間が未来をコントロールし続ける」ためにはさらなる介入が必要になる可能性があると警告した。
+Anthropicのボスであるダリオ・アモデイ氏やジャレッド・カプラン氏など、この分野の主要人物はここ数カ月、AI開発の速度を遅らせるよう求めている。
+AI企業の社外スタッフ1,300名が署名した公開書簡の中で、米国政府に対し「自動化されたAI開発の最前線を意図的に進めるために必要な技術ツールとガバナンスツールを開発する国際的な取り組みを支援する」よう求めた。
+Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-09T10:46:43+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
+    readTime: 5,
+  },
+  {
+    id: "trump-s-oil-investments-have-gained-mill-ed0c49b3",
+    title: "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
+    titleJa: "トランプ大統領の石油投資はイラン戦争中に数百万ドルを増やし、彼の口座は取引を続けている",
+    summaryJa: "ドナルド・トランプ大統領の戦時中のイランに対する指令が世界市場を繰り返し揺るがす中、同氏の個人エネルギーポートフォリオは急増した。戦闘の最初の6か月間を通じて、トランプ氏の投資口座はエネルギー株の積極的な取引を続けた。同氏の年次財務開示、四半期企業報告書、ファクトセットの市場データをCNBCが分析したところによると、戦争前夜の2月27日から8月31日までの間に、同氏の9大石油・ガス保有資産は約150万ドルから440万ドル増加した。",
+    bodyOriginal: `As President Donald Trump's wartime directives in Iran repeatedly jolted global markets, his personal energy portfolio surged.
+Throughout the first six months of fighting, Trump's investment accounts continued aggressively trading energy stocks. Between the eve of the war, on Feb. 27, and Aug. 31, his nine largest oil and gas holdings gained approximately $1.5 million to $4.4 million, according to a CNBC analysis of his annual financial disclosure, quarterly corporate reports and FactSet market data.
+CNBC identified the nine holdings by aggregating Trump's year-end 2025 positions in the same oil and gas companies across his investment accounts and ranking them by their disclosed value. They are: Chevron, ConocoPhillips, Exxon Mobil, Kinder Morgan, Marathon Petroleum, Occidental Petroleum, Phillips 66, Valero Energy and the Williams Companies.
+CNBC calculated the range of gains using the minimum and maximum values Trump disclosed for each holding and their share-price changes from market close on Feb. 27 through market close on Aug. 31.
+Trump's accounts reported purchases and at least 23 sales involving the nine companies through June 29, which is the most recent date Trump has disclosed any trades. Because the filings do not disclose exact share counts, execution prices or which shares were sold, the estimates do not represent realized profits or Trump's precise current holdings.
+CNBC found no evidence that Trump or his investment managers traded on advance knowledge of his decisions, that his financial interests influenced policy, or that he directed any specific transaction.
+"Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold," White House spokesman Davis Ingle told CNBC in response to questions about Trump's energy investments. "All investment decisions are made entirely by independent managers. There are no conflicts of interest."
+The Trump Organization did not respond to multiple requests for comment for this story. The Trump Organization previously told CNBC that outside financial institutions control individual investment decisions and that Trump's assets are held in fully discretionary accounts that rely heavily on automated strategies.
+Still, the filings are the latest example of Trump holding a multimillion-dollar financial stake in an industry directly affected by his administration's military and diplomatic decisions.
+"When a president can move a market through official decisions and personally benefit from the result, the public is left wondering where national policy ends and private financial interest begins," said Donald Sherman, president and CEO of Citizens for Responsibility and Ethics in Washington, a liberal-leaning government ethics watchdog.
+Trump made profits from his oil-industry holdings as he publicly blasted Exxon and Chevron by name for "making too much money based on a shortage."
+"I don't like it," Trump told reporters Aug. 3, days after they reported soaring second-quarter profits. "Chevron, too much money. ExxonMobil, too much money ... They're going to give some of that back to the public and they better cut the retail price, the consumer price."
+Despite Trump's misgivings and his accounts having outside managers, ethics experts say outsourcing daily trading doesn't erase the underlying conflict of interest.
+"A discretionary account is a smokescreen, not a blind trust," said Scott Greytak, deputy executive director of Transparency International U.S., a nonpartisan, nonprofit anti-corruption organization.
+"Someone else might be executing the trades, but [Trump] still knows he is heavily invested in energy," Greytak told CNBC. "Trump likely knows where his money is parked and would still see the upside when his administration's actions send those [energy] stocks climbing."
+Moving the market
+Trump's accounts repeatedly traded energy stocks on days when wartime developments sent markets swinging.
+On March 2, the first trading day after the initial U.S.-Israeli attack on Iran, Trump's accounts reported purchases of shares in eight major oil and gas companies, including buying between $100,001 and $250,000 of shares in Exxon.
+Trump entered the war with between $3.2 million and $12.5 million invested in Exxon, according to his financial disclosures. By market close on Aug. 31, the rise in Exxon's share price had added an estimated $176,000 to $690,000 to that initial stake, before accounting for later trades, based on a CNBC analysis of Trump's holdings and share prices.
+"Everything that has happened with oil has been directly tied to the largest oil supply disruption in history from the war," said Pavel Molchanov, a senior investment strategist who covers the energy sector at Raymond James & Associates. "Oil is a global commodity, so no one is immune from price increases."
+Three weeks after the March 2 purchases, on March 23, Trump postponed threatened strikes on Iranian energy infrastructure before the market opened, citing "very good and productive conversations."
+Brent crude plunged nearly 11% on the prospect of de-escalation. That day, Trump's accounts reported 16 oil and gas stock buys and no sales, worth a combined approximately $163,000 to $570,000, including shares of Exxon, Chevron and Phillips 66.
+"Trump's work to get a ceasefire directly played into investment decisions his accounts were pursuing and benefiting for the president," Greytak told CNBC.
+The timing of sales is equally striking, watchdogs say.
+On April 7, a Trump investment account reported selling between $500,001 and $1 million in Exxon shares. A little more than two and a half hours after the market closed, Trump announced a two-week ceasefire with Iran.
+Exxon opened more than 6% lower the next morning. If the shares sold had been held since before the war, CNBC estimates that, in addition to averting the next day's loss, they had gained roughly $35,000 to $70,000 since Feb. 27. The disclosures do not identify the purchase dates for the shares that were sold, so the estimate does not represent the transaction's actual profit.
+In all, Trump's accounts reported at least 23 sales involving the nine companies through June 29, the latest transaction date disclosed. If those shares had been held since before the war, CNBC estimates they would have been worth $36,000 to $95,000 more when sold than on Feb. 27 — a fraction of the larger paper gains Trump continued to hold.
+"The optics of avoiding thousands in losses right before a market-moving announcement are impossible to defend," Sherman told CNBC. "The selling is just the tip of the iceberg."
+Democratic staff on the congressional Joint Economic Committee estimated in an August report that Trump's broader oil and gas portfolio had increased in value by as much as $15.5 million this year.
+"Donald Trump held millions in oil and gas company stocks at the end of 2025. Today, those stocks are worth as much as $15.5 million more," Sen. Elizabeth Warren, D-Mass., wrote on X following the report. "What happened? He started a war with Iran this year — and sent oil and gas stocks soaring."
+Trump's energy holdings are part of broader financial interests related to the Middle East, including tens of millions of dollars in income from a booming foreign real-estate licensing business.
+Several congressional Democrats have raised the prospect of investigating Trump's stock trading and his family's business ventures if they win control of either chamber of Congress in November's midterm election.
+On Aug. 27, Rep. Jamie Raskin, D-Md., opened an investigation into 1789 Capital, where Donald Trump Jr. is a partner, alleging the firm benefited from Trump administration contracts, funding and regulatory actions. Trump Jr. told The Guardian the allegations were "unsubstantiated talking points."
+Pressure at the pump
+The war's disruptions have delivered a windfall for oil companies while driving up costs for consumers.
+The nine energy companies in Trump's portfolio reported a combined $47.6 billion in second-quarter profit, triple the $15.9 billion they earned a year earlier, according to a CNBC analysis of company filings.
+Exxon and Chevron, Trump's two largest energy holdings, reported a combined $26.6 billion in profit, up from $9.6 billion a year earlier as higher oil prices and refining margins lifted earnings. Marathon, Phillips 66 and Valero, three refiners in his portfolio, collectively reported another $12.7 billion in combined second-quarter profit.
+The forces driving those profits — and raising costs for consumers — could persist. On Exxon's July 31 earnings call, CEO Darren Woods said refining capacity relative to demand was the tightest he had seen outside the pandemic. "These high margins lead to high product prices," he said.
+Phillips 66 CEO Mark Lashier struck a similar note Aug. 5 in his company's earnings call, saying refining conditions would remain strong "even if peace broke out tomorrow."
+That could prove politically toxic in the midterm election, based on polling.
+Affordability issues such as gas prices are dominating the midterm campaign: 48% of Americans rank the cost of living as their top voting issue, while 70% disapprove of Trump's handling of it, according to an early August Reuters/Ipsos poll of 4,505 general population adults aged 18 or older, with a margin of error of plus or minus 1.5 percentage points.
+Even after a recent pullback, U.S. crude traded around $91 on Friday, 36% above prewar levels. Gas averaged $4.09 nationally, with the Labor Day weekend expected to be the most expensive ever for gas, according to AAA.
+Since the war began, Americans have paid an extra $71.5 billion for gasoline, or about $604 per household, according to an analysis of federal and AAA data by congressional Democratic staff on the Joint Economic Committee.
+"When the war ends, oil prices — and likely energy stocks — should fall," Raymond James' Molchanov told CNBC. "But when that happens is ultimately a political decision."`,
+    bodyJa: `ドナルド・トランプ大統領の戦時中のイランに対する指令が世界市場を繰り返し揺るがす中、同氏の個人エネルギーポートフォリオは急増した。
+戦闘の最初の6か月間を通じて、トランプ氏の投資口座はエネルギー株の積極的な取引を続けた。同氏の年次財務開示、四半期企業報告書、ファクトセットの市場データをCNBCが分析したところによると、戦争前夜の2月27日から8月31日までの間に、同氏の9大石油・ガス保有資産は約150万ドルから440万ドル増加した。
+CNBCは、トランプ大統領の投資口座全体で同じ石油・ガス会社に対する2025年末時点のポジションを集計し、開示された価値によってランク付けすることで、9つの保有株を特定した。それらは、シェブロン、コノコフィリップス、エクソンモービル、キンダーモーガン、マラソンペトロリアム、オクシデンタルペトロリアム、フィリップス66、バレロエナジー、ウィリアムズカンパニーズです。
+CNBCは、トランプ氏が開示した各保有株の最小値と最大値、および2月27日の市場終了から8月31日の市場終了までの株価の変化を用いて利益の範囲を計算した。
+トランプ氏の口座には、トランプ氏が何らかの取引を明らかにした最新の日付である6月29日までに、9社が関与した購入と少なくとも23件の売却が報告されている。提出書類には正確な株数、約定価格、どの株が売却されたかが開示されていないため、この推定値は実現利益やトランプ氏の現在の正確な保有株を表すものではない。
+CNBCは、トランプ大統領やその投資マネージャーらがトランプ大統領の決定を事前に知って取引したり、トランプ大統領の経済的利益が政策に影響を与えたり、トランプ大統領が何らかの特定の取引を指示したりしたという証拠は見つからなかった。
+ホワイトハウスのデイビス・イングル報道官はトランプ大統領のエネルギー投資に関する質問に答え、「トランプ大統領もその家族も、ポートフォリオの投資方法や投資の売買時期に関して指示したり、影響を与えたり、意見を提供したりする能力はない」とCNBCに語った。 「すべての投資決定は完全に独立したマネージャーによって行われます。利益相反はありません。」
+トランプ・オーガニゼーションは、この件について複数のコメント要請に応じなかった。トランプ・オーガニゼーションは以前CNBCに対し、外部の金融機関が個人の投資決定を管理しており、トランプ氏の資産は自動化戦略に大きく依存する完全裁量口座に保管されていると語った。
+それでも、今回の申請は、トランプ大統領が政権の軍事的・外交的決定によって直接影響を受ける業界に数百万ドル規模の株式を保有していることを示す最新の例である。
+「大統領が公式決定を通じて市場を動かし、その結果から個人的に利益を得ることができれば、国民はどこで国家政策が終わり、民間の経済的利益が始まるのか疑問に思うことになる」と、リベラル寄りの政府倫理監視機関であるワシントンの責任と倫理のための市民団体の社長兼最高経営責任者（CEO）のドナルド・シャーマン氏は語る。
+トランプ氏はエクソン社とシェブロン社を「不足を理由に儲けすぎている」と名指しで公に非難し、石油産業保有株から利益を得た。
+第２・四半期利益の急騰を報告した数日後の８月３日、トランプ大統領は記者団に対し「気に入らない」と語った。 「シェブロン、金が多すぎる。エクソンモービル、金が多すぎる…彼らはその一部を国民に還元するつもりで、小売価格、消費者価格を引き下げたほうがよい。」
+トランプ氏に懸念があり、同氏の口座には外部管理者がいるにもかかわらず、倫理専門家らは、日々の取引を外部委託しても根本的な利益相反は解消されないと指摘する。
+「一任口座は盲目的な信託ではなく、煙幕だ」と超党派・非営利の汚職防止団体トランスペアレンシー・インターナショナル米国の副事務局長スコット・グレイタク氏は語る。
+「他の誰かが取引を実行しているかもしれないが、（トランプ大統領は）自分がエネルギーに多額の投資をしていることをまだ知っている」とグレイタク氏はCNBCに語った。 「トランプ氏はおそらく自分の資金がどこに保管されているかを知っており、政権の行動がエネルギー株を上昇させればまだ上向きだと考えるだろう。」
+市場を動かす
+トランプ氏の口座では、戦時中の動向で市場が動揺した日にエネルギー株の取引が繰り返し行われていた。
+米国とイスラエルによる最初のイラン攻撃後の最初の取引日である3月2日、トランプ大統領の口座では、エクソン株の10万1ドルから25万ドルの購入を含む、大手石油・ガス会社8社の株式の購入が報告された。
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+こうした利益を推進し、消費者のコストを上昇させる力は今後も続く可能性がある。エクソンのダレン・ウッズ最高経営責任者（CEO）は7月31日の決算会見で、需要に対する精製能力がパンデミック以外で見た中で最も逼迫していると述べた。 「こうした高い利益率が製品価格の高騰につながっている」と同氏は語った。
+フィリップス66の最高経営責任者（CEO）マーク・ラッシャー氏も8月5日の決算会見で同様の発言をし、「たとえ明日和平が始まったとしても」精製状況は引き続き堅調に推移すると述べた。
+世論調査に基づくと、それは中間選挙で政治的に有害であることが判明する可能性がある。
+ガソリン価格などの手頃な価格の問題が中間選挙戦を支配している。8月初旬、18歳以上の一般成人4,505人を対象に実施したロイター/イプソスの世論調査によると、アメリカ人の48％が生活費を投票争点のトップに挙げているが、70％が生活費への対応に不支持であり、誤差はプラスマイナス1.5パーセントポイントだという。
+最近の反落にもかかわらず、米国産原油は金曜日には戦前の水準を36％上回る91ドル付近で取引された。 AAAによると、全米のガソリン価格は平均4.09ドルで、レイバーデーの週末はガソリン価格が史上最高値となる見通しだという。
+合同経済委員会の議会民主党スタッフによる連邦政府とAAAのデータ分析によると、戦争が始まって以来、アメリカ人はガソリン代として715億ドル、つまり一世帯当たり約604ドルを余分に支払ったという。
+レイモンド・ジェームズのモルチャノフ氏はCNBCに対し、「戦争が終われば、原油価格、そしておそらくエネルギー株も下落するはずだ」と語った。 「しかし、それがいつ起こるかは、最終的には政治的決定になります。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
+    publishedAt: "2026-09-09T10:30:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "learner-drivers-still-waiting-20-weeks-t-9fc32126",
+    title: "Learner drivers still waiting 20 weeks to book tests",
+    titleJa: "学習者ドライバーはテストの予約をまだ 20 週間待っている",
+    summaryJa: "学習者ドライバーはテストの予約をまだ 20 週間待っている- 公開されました",
+    bodyOriginal: `Learner drivers still waiting 20 weeks to book tests
+- Published
+Learner drivers have to wait an average 20 weeks before booking a practical test, according to new figures, despite attempts to reduce delays.
+The data from the Driver and Vehicle Standards Agency (DVSA) for August is only a marginal improvement from 20.2 weeks in July.
+The average wait time between booking and sitting a test is unchanged at 11.1 weeks.
+The DVSA initially had a target of reducing the average waiting time to seven weeks by the end of last year. Transport Secretary Heidi Alexander pushed the target back to summer 2026, but subsequently admitted even that would not be possible.
+The DVSA made a number of changes to its practical driving test booking system earlier this year.
+Only the learner driver themself is now able to book their driving test, blocking an instructor or third parties from booking using the learner's details.
+There is also a geographical restriction which means a learner can only book a test at their three local test centres, rather than one at the other side of the country if they found a test available.
+The number of times a would-be driver can swap a test date has also been restricted.
+'I feel a lot of pressure to pass'
+Lucy Rend is 19 and lives in south east London and has been learning to drive for two-and-a-half years. She has a driving test on Thursday and feels under pressure to pass because getting a slot has been so difficult.
+It meant getting up at 5.45am everyday to get on the DVSA for 6am. "Then I'd be 21,000 in the queue," she said. "It was very hard but randomly one popped up."
+Rend: "I feel lots of pressure to pass because if I don't pass I will have to go through all that again and try find another test, so would rather pass this one and then it is done."
+Her friends are also struggling to book a test and "most of them have given up and not going to bother anymore".
+'More to do'
+The DVSA said on Wednesday that more than 2.13 million practical driving tests took place in the 12 months to August 2026 – the highest rolling 12-month figure on record.
+DVSA chief executive Beverley Warmington, said: "There's more to do and we're not going to stop until every learner can get a fair test slot when they need one but today's figures show our plan is working."
+The long wait times have been frustrating for driving teachers too.
+Adem Veli, who has been an instructor for 16 years and runs his driving school Passman in Sidcup, said: "Before Covid we had the luxury we could pick the test date and work towards that date."
+But he said learners having to wait so long can have a huge impact on their confidence.
+"It's about a six month wait," he said. "Can you imagine if you did fail your driving test, you're test standard and ready to go [but] have to wait another six months to get back in?"
+DVSA figures revealed that the pass rate for driving tests remains over 50%.
+Veli said that some of the changes the DVSA has made have been positive, such as limiting the number of swaps a learner can make.
+However, while the DVSA has made changes to stop third parties booking tests, Veli said: "I get messages weekly, they're trying to sell them to me.
+"I've had students ask me about this site or that site, but I tell them don't bother with it now as there's so many scams."
+Driving test touts offer instructors £250 monthly kickbacks
+- Published6 December 2025
+Get in touch
+Are you a learner driver waiting for a practical test slot? Tell us your story.`,
+    bodyJa: `学習者ドライバーはテストの予約をまだ 20 週間待っている
+- 公開されました
+新しい数字によると、遅延を減らす努力にもかかわらず、初心者のドライバーは実技試験の予約をするまで平均 20 週間待たなければなりません。
+運転者・車両基準庁（DVSA）が発表した8月のデータは、7月の20.2週からわずかに改善したにすぎない。
+予約してから検査を受けるまでの平均待ち時間は 11.1 週間で、変化はありません。
+DVSAは当初、昨年末までに平均待ち時間を7週間に短縮するという目標を掲げていた。ハイジ・アレクサンダー運輸長官は目標を2026年夏に延期したが、その後それすら不可能であることを認めた。
+DVSA は今年初めに、実地運転試験の予約システムに多くの変更を加えました。
+教習生ドライバー自身のみが運転試験を予約できるようになり、インストラクターや第三者が教習生の詳細を使用して予約することはできなくなりました。
+また、地理的な制限もあり、受講可能なテストが見つかった場合、学習者は国の反対側のテスト センターではなく、地元の 3 つのテスト センターでのみテストを予約できます。
+ドライバー志望者が試験日を変更できる回数も制限された。
+「合格しなければならないというプレッシャーを感じている」
+ルーシー・レンドはロンドン南東部に住む 19 歳で、2 年半前から運転を習っています。彼女は木曜日に運転免許試験を受けるが、枠を獲得するのは非常に難しいため、合格しなければならないというプレッシャーを感じている。
+つまり、午前6時にDVSAに乗るためには、毎日午前5時45分に起きなければなりません。 「そうなると、私は21,000人の列に並ぶことになるでしょう」と彼女は言った。 「とても大変でしたが、ランダムにひとつだけ現れました。」
+レンド: 「合格しなければならないというプレッシャーをとても感じています。もし合格しなければ、もう一度すべてのことをやり直さなければならず、別のテストを見つけなければならないので、むしろこのテストに合格して終わりたいと思っています。」
+彼女の友人もテストの予約をするのに苦労しており、「彼らのほとんどは諦めて、もう気にするつもりはない」という。
+「もっとやるべきことがある」
+DVSAは水曜日、2026年8月までの12か月間に213万回を超える実地運転試験が実施されたと発表した。これは、12か月間の連続数字としては過去最高である。
+DVSAの最高責任者ビバリー・ウォーミントン氏は、「やるべきことはまだたくさんあり、すべての学習者が必要なときに公平な試験枠を獲得できるようになるまで、私たちは立ち止まるつもりはないが、今日の数字は私たちの計画が機能していることを示している」と語った。
+長い待ち時間は、運転教師にとってもイライラさせられます。
+16年間教官を務め、シドカップで自動車教習所パスマンを運営するアデム・ヴェリ氏は、「新型コロナウイルス感染症以前は、試験日を選んでその日に向けて取り組む余裕があった」と語った。
+しかし、学習者が長時間待たなければならないことは、学習者の自信に大きな影響を与える可能性があると同氏は述べた。
+「約6か月待ちです」と彼は言いました。 「運転免許試験に不合格だった場合、試験基準に達しており準備はできていますが、再試験を受けるにはさらに 6 か月待たなければならないことを想像できますか?」
+DVSA の統計によると、運転試験の合格率は依然として 50% 以上です。
+Veli氏は、DVSAが行った変更の中には、学習者が行うことができるスワップの数を制限するなど、前向きなものもあったと述べた。
+しかし、DVSAはサードパーティによるテストの予約を停止するための変更を加えたが、ヴェリ氏は「毎週メッセージを受け取るが、彼らは私にメッセージを売りつけようとしている」と語った。
+「学生たちからこのサイトやあのサイトについて尋ねられることがありますが、現在は詐欺が多いので気にしないでくださいと伝えています。」
+運転免許試験の客引きでは、インストラクターに月額 250 ポンドのリベートが提供されます
+- 2025 年 12 月 6 日公開
+連絡する
+あなたは実技試験の枠を待っている初心者ドライバーですか?あなたのストーリーを教えてください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-09T09:55:11+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e4e/live/014ac6a0-aba4-11f1-8e72-a346833ed029.jpg",
+    readTime: 5,
+  },
+  {
+    id: "u-s-reveals-import-ban-on-slew-of-canadi-91acffc6",
+    title: "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+    titleJa: "貿易戦争激化で米国、カナダ製品の大量輸入禁止を明らかに",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The White House said it would ban imports of Canadian motorbikes and a slew of other products starting later this month as diplomatic and trade relations with Ottawa continue to fray.
+U.S. President Donald Trump used a string of executive orders late Monday to announce bans on Canadian whey products and molasses, non-alcoholic beer, and a slew of alcoholic drinks including malt beer, wines, cider, whiskies, vodka and other spirits. Larger-capacity motorcycles and mopeds will also be banned.
+The import restrictions, which largely replace tariffs of 50%, are due to take effect on Sept. 29, 2026.
+The U.S. also announced that tariffs on other Canadian products would be modified and extended from Sept. 15, including the addition of all-terrain vehicles and animal hides, and the removal of rock salt and cement.
+U.S. Trade Representative Jamieson Greer said the moves were a "natural consequence of Canada's continued discriminatory treatment of crucial American exports."
+It was announced on the same day that Canadian tariffs on CA$27.6 billion of U.S. imports came into effect, targeting more than 700 goods across steel, dairy, farm equipment, pulp and paper, electronics and more.
+Ottawa previously said those tariffs were a "dollar for dollar" response to the 50% tariffs imposed by the U.S. on its own goods in August, after trade talks collapsed spectacularly just before the Aug. 21 deadline.
+The two sides have continued to blame one another for the failure to reach a deal, and accused the other of unfair practices that harm their domestic workers.
+Trump has accused Canada of disadvantaging U.S. exports through its policies in the auto, alcohol and dairy sectors, highlighting the U.S.' trade deficit in goods, and threatening to hit cars, trucks and auto parts with a 50% tariff from Jan. 1, 2027.
+Canadian Prime Minister Mark Carney said in an August address that the "narrow merchandise trade deficit only exists because the U.S. buys so much of its energy from us," and flagged that Canada is the biggest consumer for U.S. cars and steel.
+He also said that the U.S. "asked too much" in its trade negotiations and that retaliation was needed to protect Canadian workers and companies, even if there is an economic hit and reduced choice for consumers.
+The existing tariffs apply to a relatively small portion of the $715.5 billion trade in goods between the countries, but economists have warned of an immediate blow to small- and medium-sized businesses and of the risks to growth from further escalation.
+"Companies on both sides of the border will need to wait to see if these tariffs hold, more measures are enacted, or each country decides to de-escalate. In the meantime, those businesses will realize both tariff-, compliance-, and uncertainty-related costs," said Justin Angotti, associate in the International Trade and National Security Group at law firm Reed Smith.
+Ottawa is meanwhile eyeing closer trade and security ties with the European Union as its relationship with Washington deteriorates, Bloomberg reported Tuesday.
+Alcohol wars
+Beer and spirits sales have emerged as a political flashpoint as relations between the U.S. and Canada have deteriorated.
+Stores in several Canadian provinces have removed U.S. alcohol from their shelves, public campaigns have called for boycotts, and Saskatchewan Premier Scott Moe in August announced a 50% tariff on American imports.
+Moe's team told CNBC this week that the alcohol levy was a "reciprocal measure" intended to support local businesses and encourage progress toward a fair and balanced trade resolution.
+U.S. spirits exports to Canada fell more than 70% year-on-year from the start of the retaliatory ban in March 2025 through December 2025, according to the Distilled Spirits Council of the United States.
+Chris Swonger, president and CEO of the trade association, said American distillers had "shouldered the brunt of this trade dispute."
+"We appreciate President Trump's recognition of the significant harm these sales bans have caused U.S. distillers and urge leaders on both sides of the border to reach a negotiated solution that restores U.S. spirits to retail shelves throughout Canada and returns the spirits sector to a permanent zero-for-zero tariff framework," Swonger said.
+— CNBC's Brandon Gomez contributed to this story.`,
+    bodyJa: `オタワとの外交・通商関係の悪化が続く中、ホワイトハウスは今月下旬からカナダのバイクやその他多数の製品の輸入を禁止すると発表した。
+ドナルド・トランプ米大統領は月曜日遅く、一連の大統領令を用いて、カナダ産のホエイ製品と糖蜜、ノンアルコールビール、そしてモルトビール、ワイン、サイダー、ウィスキー、ウォッカ、その他の蒸留酒を含む多数のアルコール飲料の禁止を発表した。大型のオートバイや原付も禁止される。
+輸入制限は主に50％の関税に代わるもので、2026年9月29日に発効する予定だ。
+米国はまた、他のカナダ製品に対する関税を9月15日から修正・延長すると発表し、これには全地形対応車や動物の皮の追加、岩塩やセメントの除去などが含まれる。
+米通商代表部のジェイミソン・グリア氏は、こうした動きは「カナダが米国の重要な輸出品に対して差別的な扱いを続けてきたことの当然の結果」だと述べた。
+同日、カナダによる米国輸入品276億カナダドルに対する関税が発効し、鉄鋼、乳製品、農機具、紙パルプ、エレクトロニクスなど700品目以上が対象となったと発表された。
+オタワ首相は以前、通商交渉が8月21日の期限直前に見事に決裂したことを受けて、8月に米国が自国製品に課した50％の関税に対する「ドル対ドル」の対応だと述べていた。
+両国は合意に達しなかったことで互いを非難し続け、家事労働者に損害を与える不当な慣行で相手を非難してきた。
+トランプ大統領は、カナダが自動車、アルコール、乳製品分野の政策を通じて米国の輸出に不利益を与えていると非難し、米国の姿勢を強調した。物品の貿易赤字が深刻化し、2027年1月1日から乗用車、トラック、自動車部品に50％の関税が課される恐れがある。
+カナダのマーク・カーニー首相は8月の演説で「狭い商品貿易赤字が存在するのは、米国が大量のエネルギーを米国から購入しているからに過ぎない」と述べ、カナダが米国の自動車と鉄鋼の最大の消費国であることを強調した。
+同氏はまた、米国は通商交渉で「多くを求めすぎた」とし、たとえ経済的打撃や消費者の選択肢の減少があったとしても、カナダの労働者と企業を守るためには報復が必要だと述べた。
+現行の関税は両国間の物品貿易7155億ドルのうち比較的小さな部分に適用されるが、エコノミストらは中小企業への即時的な打撃や、さらなる拡大による成長へのリスクを警告している。
+法律事務所リード・スミスの国際貿易・国家安全保障グループのアソシエイト、ジャスティン・アンゴッティ氏は、「国境の両側の企業は、関税が維持されるか、さらなる措置が制定されるか、あるいは各国が緩和を決定するかどうかを見極める必要がある。それまでの間、これらの企業は関税、コンプライアンス、不確実性に関連したコストの両方を認識することになるだろう」と述べた。
+一方、ワシントンとの関係が悪化する中、オタワは欧州連合との貿易・安全保障関係の緊密化に注目しているとブルームバーグが火曜日に報じた。
+アルコール戦争
+米国とカナダの関係悪化に伴い、ビールや蒸留酒の販売が政治的な火種として浮上している。
+カナダのいくつかの州の店舗では米国製アルコールを棚から撤去し、ボイコットを呼びかける国民運動が展開され、サスカチュワン州のスコット・モー首相は8月に米国からの輸入品に50％の関税を課すと発表した。
+モー氏のチームは今週CNBCに対し、アルコール課税は地元企業を支援し、公正でバランスの取れた貿易解決に向けた進展を促進することを目的とした「相互措置」であると語った。
+米国蒸留酒評議会によると、米国からカナダへの蒸留酒の輸出は、報復禁止措置が始まった2025年3月から2025年12月までに前年比70％以上減少した。
+同貿易協会のクリス・スウォンガー社長兼最高経営責任者（CEO）は、米国の蒸留酒製造業者が「この貿易紛争の矢面に立たされている」と述べた。
+スウォンガー氏は「これらの販売禁止が米国の蒸留業​​者に与えた重大な損害に対するトランプ大統領の認識に感謝するとともに、国境の両側の指導者に対し、カナダ全土の小売店に米国産スピリッツを復活させ、スピリッツ部門を恒久的な関税ゼロ対ゼロの枠組みに戻す交渉による解決策に到達するよう求める」と述べた。
+— CNBC の Brandon Gomez がこの記事に寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+    publishedAt: "2026-09-09T09:21:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "anthropic-researcher-says-ai-has-more-th-dcb59b0e",
+    title: "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
+    titleJa: "人類研究者は、同僚が辞めた後、AIが「人類全員を殺す」可能性は10％以上あると語る",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `There is more than a 10% chance that artificial intelligence could "kill all humans," an Anthropic safety researcher said on Tuesday, hours after another employee said he was quitting the company over concerns that AI labs are "gambling with our lives."
+The comments underscore growing concerns among those at the heart of AI development that the technology could get out of control and pose a threat to humanity, even as Anthropic and OpenAI continue to raise large sums of money and head toward expected public listings.
+Jacob Coxon, a researcher at Anthropic, said on Tuesday he resigned from the company. Coxon said neither Anthropic nor OpenAI is acting responsibly.
+"They are racing straight to self-improving superintelligence and gambling with our lives," Coxon said in a post on X.
+Self-improvement is the idea that AI systems can improve themselves without much human intervention. Recursive self-improvement, as it is often called, is not yet possible, but AI labs are working toward the goal.
+"Do not underestimate the power of this technology. These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources. We have all witnessed the progress in each of these domains, and progress is not slowing," Coxon said.
+He added that "people building AI earnestly believe that it could kill us all by the end of the decade."
+That comment prompted a response from Evan Hubinger, an alignment science lead at Anthropic, who said that not only was Coxon's statement "correct," but also that Anthropic has no plan for this scenario.
+"Jacob is correct here—we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade. I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to," Hubinger said on X.
+Anthropic and OpenAI were not immediately available for comment when contacted by CNBC.
+Out-of-control AI
+In June, Anthropic had noted that "full recursive self-improvement also might increase the risks of humans losing control over AI systems."
+"If systems are capable of fully building their own successors, the ways we secure them, monitor them, and shape their behavior all grow much more important," Anthropic said in a blog post.
+Concerns over out-of-control AI are not new. Tesla and SpaceX CEO Elon Musk has warned over the past few years that AI could pose a threat to humanity. Major researchers and academics have also sounded the alarm over companies losing control of AI systems.
+Those worries have grown after an OpenAI model went rogue in July and breached Hugging Face, a major platform for open-source developers.
+Coxon cited the Hugging Face incident as an example of "warning shots" that have made agreements between U.S. labs more viable, making him more optimistic about the potential for coordination. But Coxon warned a global AI race would be unavoidable.
+"I don't feel like we're on track to prevent a global race, which may require costly actions such as a temporary ban on improving model capabilities," Coxon said.`,
+    bodyJa: `AI研究所が「私たちの命を賭けている」との懸念を理由に別の従業員が退職すると発表した数時間後、人工知能が「人類を皆殺しにする」可能性は10％以上あると、人類安全研究者が火曜日に述べた。
+このコメントは、AnthropicとOpenAIが巨額の資金を調達し続け、予想される上場に向けて進んでいるにもかかわらず、この技術が制御不能になり人類に脅威をもたらす可能性があるというAI開発の中心にいる人々の間で懸念が高まっていることを浮き彫りにしている。
+アンスロピック社の研究員ジェイコブ・コクソン氏は火曜日、同社を辞任したと発表した。コクソン氏は、AnthropicもOpenAIも責任を持って行動していないと述べた。
+コクソン氏はXへの投稿で、「彼らは自己改善の超知性を目指して真っ直ぐに競争し、私たちの命を賭して賭けている」と述べた。
+自己改善とは、AI システムは人間の介入をほとんど必要とせずに自己改善できるという考えです。よく言われる再帰的自己改善はまだ不可能ですが、AI ラボは目標に向かって取り組んでいます。
+「このテクノロジーの力を過小評価しないでください。これらは間もなく、あらゆるものをハッキングし、あらゆる分野を一夜にして革命を起こし、真の力とリソースを獲得できる超人的なシステムになるでしょう。私たちは皆、これらの各領域の進歩を目撃しており、進歩は減速していません」とコクソン氏は述べた。
+同氏はさらに、「AIを開発している人々は、AIが10年代の終わりまでに私たち全員を殺す可能性があると真剣に信じている」と付け加えた。
+このコメントに対し、アンスロピック社のアライメント科学責任者エヴァン・ヒュービンガー氏からの返答があり、コクソン氏の発言は「正しい」だけでなく、アンスロピック社にはこのシナリオに対する計画はないと述べた。
+「ジェイコブの言うことは正しい。我々はAIが全人類を殺す可能性があると本気で信じている！個人的には今後10年以内にその確率は10％を超えると思う。アンスロピックは最善を尽くしていると信じているが、超知性の調整を解決する計画はまだなく、明確に軌道に乗っているわけでもない」とヒュービンガー氏はXで語った。
+Anthropic と OpenAI は CNBC に問い合わせたが、現時点ではコメントは得られていない。
+Out-of-control AI
+アンスロピック氏は6月、「完全に再帰的な自己改善は、人間がAIシステムを制御できなくなるリスクも増大する可能性がある」と指摘していた。
+「システムが独自の後継システムを完全に構築できる場合、システムを保護し、監視し、動作を形成する方法はすべて、より重要になります」とアンスロピック氏はブログ投稿で述べた。
+AI の制御不能に対する懸念は新しいものではありません。テスラとスペースＸのイーロン・マスク最高経営責任者（ＣＥＯ）はここ数年、ＡＩが人類に脅威をもたらす可能性があると警告してきた。主要な研究者や学者も、企業がAIシステムの制御を失っていることに警鐘を鳴らしている。
+7月にOpenAIモデルが不正行為に遭い、オープンソース開発者向けの主要プラットフォームであるHugging Faceに侵入したことで、こうした懸念はさらに高まった。
+コクソン氏は、米国の研究所間の合意をより実行可能にした「警告射撃」の一例として「顔に抱きつく事件」を挙げ、調整の可能性についてより楽観的になった。しかしコクソン氏は、世界的なAI競争は避けられないと警告した。
+「世界的な競争を防ぐ方向に進んでいるとは思えない。そうなると、モデルの機能向上を一時的に禁止するなど、費用のかかる措置が必要になる可能性がある」とコクソン氏は語った。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
+    publishedAt: "2026-09-09T08:48:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "what-are-my-rights-if-my-flight-is-cance-21903081",
+    title: "What are my rights if my flight is cancelled or delayed?",
+    titleJa: "私のフライトが欠航または遅延した場合、私の権利はどうなりますか?",
+    summaryJa: "私のフライトが欠航または遅延した場合、私の権利はどうなりますか?- 公開されました",
+    bodyOriginal: `What are my rights if my flight is cancelled or delayed?
+- Published
+Thousands of air passengers have seen their travel plans disrupted after an air traffic control problem grounded nearly 2,000 flights across the UK.
+When a flight is cancelled or delayed, passengers affected have various rights – such as a refund or be put on another flight. However, these can vary depending on which carrier you are flying with and from where.
+Only when an airline is at fault - not issues such as air traffic control problems - is extra compensation payable. Here's what it means for you.
+What do airlines have to offer passengers?
+When flights are delayed or cancelled, UK and EU airlines, and other carriers when you are departing a UK or EU airport, have a duty to look after you.
+The reason for the delay or cancellation does not matter. So anyone affected by the air transport delays will be eligible.
+That includes providing meals and accommodation, if necessary, and getting you to your destination. The airline should organise putting you on an alternative flight, at no extra cost.
+Additional losses, such as unused accommodation, might require a claim to a credit card provider, if that was the payment option used.
+After that, a claim may need to go to your travel insurance provider. But there is no standard definition of what is covered.
+It may require a close look at the details of the policy to see what is covered, and in which circumstances.
+Passengers are also being urged to heed travel advice from the UK government, external, as this can also affect travel insurance rights.
+If my flight is cancelled, can I get a refund or another flight?
+If your flight is covered by UK law, your airline must let you choose between either getting a refund or being booked on to an alternative flight.
+That's regardless of how far in advance the cancellation was made.
+You can get your money back for any part of the ticket you have not used.
+So, if you booked a return flight and the outbound leg is cancelled, you can get the full cost of the return ticket refunded.
+If you still want to travel, your airline must find you an alternative flight.
+If another airline is flying to your destination significantly sooner, or there are other suitable modes of transport, then you have a right to be booked on to that alternative transport instead.
+If your flight was coming into the UK on a non-UK or EU airline, then you should check the terms and conditions of your booking.
+Will the airline pay for food and accommodation?
+If you are stuck abroad or at the airport because of a flight cancellation, airlines covered by UK legislation must also provide you with other assistance.
+This includes:
+a reasonable amount of food and drink (often in the form of vouchers)
+a way for you to communicate (often by refunding the cost of calls)
+free accommodation, if you have to stay overnight to fly the next day
+transport to and from the accommodation
+If your airline is unable to arrange assistance, you have the right to organise this yourself and claim back the cost later.
+The Civil Aviation Authority advises people to keep receipts and not spend more than necessary.
+You are entitled to the same assistance as for a cancellation if your flight is delayed by more than two hours for a short-haul flight, three hours for a medium-haul, or four hours for a long-haul.
+If you are delayed by more than five hours and no longer want to travel, you can get a full refund.
+What are my rights if I have booked a package holiday?
+If you booked a package holiday with a company that is an ABTA member and your flight is cancelled, you are entitled to a suitable alternative flight or a full refund.
+Can I claim extra compensation for disruption?
+Disruption caused by things like air traffic control issues – but also bad weather, strikes by airport staff, or conflict, or other "extraordinary circumstances" – does not entitle you to extra compensation.
+However, in other circumstances, when it is considered to be the airline's fault, you have a number of rights under UK law, external.
+These apply as long as you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
+What you are entitled to depends on what caused the cancellation and how much notice you are given.
+If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
+The amount you are entitled to also depends on how far you were travelling:
+for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
+for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
+for flights over 3,500km, such as London to New York, you can claim up to £520 per person
+What if flight delays mean I am late for work?
+Airlines will not refund you for loss of earnings. Travel insurance policies will not usually cover loss of earnings either.
+If you think you're going to be late back at work because of flight delays, you have a responsibility to let your employer know, legal experts say.
+You should agree with your employer how to deal with the absence – for example, by using annual leave or taking unpaid leave.
+Employers have no legal obligation to pay employees who are absent in this situation, experts say, unless it is stated in their contract.
+Get in touch
+Have your travel plans been disrupted? Share your experience.`,
+    bodyJa: `私のフライトが欠航または遅延した場合、私の権利はどうなりますか?
+- 公開されました
+航空交通管制の問題により英国全土で約2,000便が運航停止となり、数千人の航空乗客が旅行計画を中断された。
+フライトが欠航または遅延した場合、影響を受ける乗客には、払い戻しや別のフライトに振り替えるなど、さまざまな権利があります。ただし、これらはご利用の航空会社およびどこから出発するかによって異なる場合があります。
+航空管制の問題などの問題ではなく、航空会社に過失がある場合にのみ、追加の補償金が支払われます。それがあなたにとって何を意味するかは次のとおりです。
+航空会社は乗客に何を提供しなければなりませんか?
+フライトが遅延または欠航した場合、イギリスおよび EU の航空会社、およびお客様がイギリスまたは EU の空港を出発する際のその他の航空会社は、お客様の世話をする義務があります。
+遅延や中止の理由は問いません。したがって、航空輸送の遅延の影響を受ける人は誰でも対象となります。
+これには、必要に応じて食事や宿泊施設を提供し、目的地まで送迎することも含まれます。航空会社は、追加料金なしで代替便を手配してくれるはずです。
+未使用の宿泊施設など、追加の損失が発生した場合は、クレジット カード プロバイダーへの請求が必要になる場合があります (クレジット カード プロバイダーが使用された支払いオプションである場合)。
+その後、旅行保険会社に請求が必要になる場合があります。しかし、何がカバーされるのかについての標準的な定義はありません。
+何がどのような状況でカバーされるのかを確認するには、ポリシーの詳細を詳しく調べる必要がある場合があります。
+また、旅行保険の権利にも影響を与える可能性があるため、乗客は英国政府外からの旅行に関するアドバイスに注意するよう求められています。
+フライトがキャンセルされた場合、払い戻しまたは別のフライトを受け取ることはできますか?
+ご利用のフライトが英国の法律の対象となる場合、航空会社はお客様に払い戻しを受けるか、代替便を予約するかのどちらかを選択させる必要があります。
+それは、キャンセルがどれだけ前に行われたかに関係ありません。
+チケットの未使用部分については返金を受けられます。
+したがって、復路の航空券を予約し、往路がキャンセルされた場合は、復路の航空券の全額を返金してもらうことができます。
+それでも旅行を希望する場合は、航空会社が代替便を見つけてくれる必要があります。
+別の航空会社が目的地に大幅に早く到着する場合、または他の適切な交通手段がある場合は、代わりにその代替交通手段を予約する権利があります。
+英国または EU 以外の航空会社で英国に到着するフライトの場合は、予約の利用規約を確認する必要があります。
+航空会社は食事や宿泊費を負担してくれるのでしょうか？
+フライトの欠航により海外または空港で立ち往生した場合、英国の法律が適用される航空会社は、その他の支援も提供する必要があります。
+これには以下が含まれます:
+妥当な量の食べ物と飲み物（多くの場合、バウチャーの形で）
+通信手段（多くの場合、通話料金の払い戻しによる）
+翌日のフライトのために一晩滞在する必要がある場合は、無料の宿泊施設が必要です
+宿泊施設への往復送迎
+航空会社がサポートを手配できない場合、お客様はご自身でサポートを手配し、後で費用を請求する権利を有します。
+民間航空局は人々に対し、領収書を保管し、必要以上に支出しないようにアドバイスしている。
+フライトが短距離便の場合は 2 時間、中距離便の場合は 3 時間、長距離便の場合は 4 時間以上遅延した場合、キャンセルの場合と同様のサポートを受ける権利があります。
+5 時間以上遅延し、旅行を希望しなくなった場合は、全額返金を受けることができます。
+パッケージ旅行を予約した場合、私の権利は何ですか?
+ABTA 会員である会社でパッケージ旅行を予約し、フライトがキャンセルされた場合は、適切な代替フライトまたは全額返金を受ける権利があります。
+中断に対して追加の補償を請求できますか?
+航空交通管制の問題などによる混乱だけでなく、悪天候、空港職員によるストライキ、紛争、その他の「異常事態」によって引き起こされた混乱は、追加の補償を受け取る権利を与えません。
+ただし、その他の状況において、航空会社の過失であるとみなされる場合、お客様には英国法に基づいた対外的な多くの権利があります。
+これらは、英国の空港からいずれかの航空会社で出発する場合、EU または英国の航空会社で英国の空港に到着する場合、または英国の航空会社で EU 内の空港に到着する場合に適用されます。
+あなたが受け取る権利があるものは、キャンセルの原因と通知がどれくらいの期間であったかによって異なります。
+2 週間以内に通知せずにフライトがキャンセルされた場合、提供された代替フライトのタイミングに基づいて補償を請求できる場合があります。
+受け取る権利のある金額は、旅行距離によっても異なります。
+グラスゴーからアムステルダムなど、1,500km未満のフライトの場合、1人あたり最大220ポンドを請求できます
+イーストミッドランズからマラケシュなど、1,500kmから3,500kmのフライトの場合、1人あたり最大350ポンドを請求できます
+ロンドンからニューヨークなど、3,500kmを超えるフライトの場合、1人あたり最大520ポンドを請求できます
+飛行機の遅延で仕事に遅刻した場合はどうすればよいですか?
+航空会社は逸失利益の返金はしません。旅行保険でも通常、収入の損失はカバーされません。
+法律専門家によれば、飛行機の遅延で仕事に戻るのが遅くなりそうな場合、雇用主に知らせる責任があるという。
+年次有給休暇の利用や無給休暇の取得など、欠勤への対処方法について雇用主と合意する必要があります。
+専門家らによると、契約書に明記されていない限り、雇用主はこのような状況で欠勤した従業員に給与を支払う法的義務はないという。
+連絡する
+旅行計画が中断されましたか?あなたの経験を共有してください。`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-09T08:04:14+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a08/live/30e50cb0-ac29-11f1-bc1f-3f186ca4140c.png",
+    readTime: 6,
+  },
+  {
     id: "singaporean-man-pleads-guilty-in-us-to-m-936a246e",
     title: "Singaporean man pleads guilty in US to massive crypto heist",
     titleJa: "シンガポール人男性、米国で大規模暗号通貨強盗の罪を認める",
@@ -1404,416 +1916,6 @@ July figures show the share of US-bound Canadian exports dropped to 66% from an 
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg",
     readTime: 2,
-  },
-  {
-    id: "global-markets-keep-shrugging-off-shocks-aec960da",
-    title: "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
-    titleJa: "世界市場は衝撃をかわし続けています。 HSBCによると、この記録を打ち破る可能性があるものは次のとおりです",
-    summaryJa: "世界市場は近年、相次ぐ衝撃をかわしてきたが、HSBCは最終的にその連敗に終止符を打つ可能性のあるいくつかの進展を見ている。主なリスクとしては、法人税の引き上げ、民間部門の債務の新たな増加、株式と債券の関係の変化などが挙げられる。中銀による市場への支援が撤回されれば、その回復力が試される可能性があると中銀は月曜のメモで述べた。",
-    bodyOriginal: `Global markets have shrugged off a barrage of shocks in recent years, but HSBC sees several developments that could eventually end that streak.
-The key risks include higher corporate taxes, a renewed rise in private-sector debt and a shift in the relationship between stocks and bonds. A withdrawal of perceived central-bank support for markets could also test that resilience, the bank said in a note Monday.
-While the "removal of central bank puts" could have an adverse impact, HSBC said, such a scenario is difficult to imagine, particularly in the U.S. where equities, wealth effects and financial conditions have become quite intertwined.
-Given the outsized weight of the U.S. in global equities and credit, the greatest risks lie there, HSBC said. Higher corporate taxes that squeeze profitability could weigh on markets, while inflation falling close to or below target could restore the negative stock-bond correlation — rise in bond prices when stocks fall.
-That, in turn, could encourage investors to reduce equity allocations and put pressure on valuations.
-A renewed rise in private-sector leverage could also make the economy and markets more vulnerable to shocks, although HSBC noted that it is at multi-decade lows.
-The risks stand out because markets have proven remarkably resilient to bad news in recent years, from surging inflation and tariffs to geopolitical conflicts, the unwinding of carry trades and private-credit concerns.
-"It seems as if risk assets continue to ignore every negative catalyst," HSBC strategists wrote.
-The strategists described markets as "Teflon," arguing that risk assets have remained remarkably resilient despite a long list of potential negative triggers over the past five years.
-Deutsche Bank has also questioned how long that endurance can last. The bank said in a report Monday that risk assets have remained "consistently resilient" despite rising real rates and mounting inflation pressures, helped by surprisingly strong global growth.
-"The current equilibrium is unsustainable ... Risk assets like equities and credit are still strikingly complacent against the stagflationary shock that's increasingly being priced into rates markets," Deutsche Bank said.
-Rates markets are still pricing only limited central-bank tightening despite mounting inflation pressures, while equities and credit are assuming higher yields will not materially damage growth, it said.
-Behind market's resilience
-One key factor is the strength of corporate earnings and economic growth, particularly in the U.S., where consensus estimates have repeatedly underestimated earnings. That resilience has extended beyond technology and artificial intelligence, HSBC said, while U.S. corporate tax rates remain near multi-decade lows.
-Another factor is the changing relationship between stocks and bonds. With government bonds no longer providing the same diversification against equity risk as they once did, investors have reduced bond allocations and shifted toward equities and shorter-term hedging strategies, helping support elevated equity valuations.
-A powerful wealth effect has also played a role. U.S. household wealth has risen significantly above its pre-Covid trend, with much of the increase concentrated among higher-income households. Cash and cash-equivalent holdings are also running well above their pre-financial-crisis trend.
-Meanwhile, central banks now have a much broader range of tools available to respond to market stress. HSBC noted that the Federal Reserve has close to 20 potential tools, facilities and backstops, while the European Central Bank has more than a dozen.
-Lower energy intensity and relatively low private-sector leverage have also helped markets absorb shocks. Oil price spikes linked to conflicts in Ukraine and the Middle East have had less impact on developed-market economies than similar shocks might have in the 1970s and 1980s.`,
-    bodyJa: `世界市場は近年、相次ぐ衝撃をかわしてきたが、HSBCは最終的にその連敗に終止符を打つ可能性のあるいくつかの進展を見ている。
-主なリスクとしては、法人税の引き上げ、民間部門の債務の新たな増加、株式と債券の関係の変化などが挙げられる。中銀による市場への支援が撤回されれば、その回復力が試される可能性があると中銀は月曜のメモで述べた。
-HSBCは、「中央銀行プットの廃止」が悪影響を与える可能性があるが、特に株式、資産効果、金融状況が非常に絡み合っている米国では、そのようなシナリオを想像するのは難しいと述べた。
-HSBCは、世界の株式と信用における米国の比重が非常に大きいことを考慮すると、最大のリスクはそこにあると述べた。収益性を圧迫する法人税の引き上げが市場の重しとなる可能性がある一方、インフレ率が目標付近または目標を下回ると、株式と債券の負の相関関係（株価が下落すると債券価格が上昇する）が回復する可能性がある。
-その結果、投資家が株式配分を減らし、バリュエーションに圧力をかける可能性がある。
-HSBCは民間セクターのレバレッジが数十年ぶりの低水準にあると指摘したが、民間セクターのレバレッジが再び上昇すれば、経済と市場がショックに対してさらに脆弱になる可能性がある。
-近年、インフレや関税の高騰から地政学的紛争、キャリートレードの巻き戻しや民間信用懸念に至るまで、悪いニュースに対して市場が驚くほど回復力があることが証明されているため、リスクが際立っている。
-HSBCのストラテジストらは「リスク資産はあらゆるマイナス要因を無視し続けているようだ」と述べた。
-ストラテジストらは市場を「テフロン」と形容し、過去5年間、潜在的なマイナス要因が数多くあったにもかかわらず、リスク資産は驚くほど回復力を維持していると主張した。
-ドイツ銀行も、その忍耐がいつまで続くのか疑問を抱いている。同銀行は月曜の報告書で、実質金利の上昇やインフレ圧力の高まりにもかかわらず、驚くほど力強い世界経済成長に支えられ、リスク資産は「一貫して回復力」を維持していると述べた。
-ドイツ銀行は「現在の均衡は持続不可能だ…株式やクレジットなどのリスク資産は、金利市場にますます織り込まれているスタグフレーションショックに対して依然として驚くほど満足している」と述べた。
-同報告書は、インフレ圧力が高まっているにもかかわらず、金利市場は依然限定的な中銀引き締めのみを織り込んでいる一方、株式と信用は利回りの上昇が成長に重大なダメージを与えないと想定していると述べた。
-市場の回復力の背後にあるもの
-重要な要因の 1 つは、企業収益と経済成長の強さであり、特に米国では、コンセンサス予想が利益を繰り返し過小評価してきた。 HSBCは、米国の法人税率が数十年来の低水準に近い水準にある一方で、その回復力はテクノロジーや人工知能を超えて広がっていると述べた。
-もう一つの要因は、株式と債券の関係の変化です。国債ではかつてのように株式リスクを分散することができなくなったため、投資家は債券の配分を減らし、株式や短期のヘッジ戦略にシフトしており、これが株式評価の上昇を支えている。
-強力な資産効果も影響を及ぼしています。米国の家計資産は新型コロナウイルス感染症以前の傾向を大きく上回り、その増加の多くは高所得世帯に集中している。現金および現金同等物の保有額も金融危機前の傾向を大きく上回っています。
-一方、中央銀行は現在、市場のストレスに対応するために利用できるツールの幅が大幅に広がっています。 HSBCは、連邦準備制度が20近くの潜在的なツール、施設、バックストップを持っているのに対し、欧州中央銀行は十数を超えると指摘した。
-エネルギー集約度の低下と民間部門のレバレッジが比較的低いことも、市場のショックを吸収するのに役立っている。ウクライナと中東の紛争に関連した原油価格の高騰は、1970年代と1980年代に起きた同様のショックに比べて、先進国経済への影響は小さかった。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
-    publishedAt: "2026-09-08T04:02:43+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "nvidia-supplier-wistron-s-shares-drop-af-c81baaed",
-    title: "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-    titleJa: "NvidiaサプライヤーWistronの株価は、15億ドルの世界株式売却を発表後下落",
-    summaryJa: "台湾のウィストロン社の株価は火曜日、NVIDIAのサプライヤーが原材料の購入資金として世界規模で14億7000万ドルの預託証券の売り出し価格を設定したことを受けて、6％以上下落した。同社の提出書類によると、同社は月曜、世界の預託証券2,500万枚の価格を1枚当たり58.88ドルとし、これは新普通株2億5,000万株に相当すると発表した。各株の価格は新台湾ドル約186.24ドルで、ウィストロンの月曜終値197台湾ドルに比べて約5.5％割引だった。",
-    bodyOriginal: `Shares of Taiwan's Wistron Corporation fell more than 6% Tuesday after the Nvidia supplier priced a $1.47 billion global depositary receipt offering to fund raw material purchases.
-The company said Monday that it priced 25 million global depositary receipts at $58.88 each, representing 250 million new common shares, according to a company filing. The shares were priced at about $186.24 new Taiwan dollars each, roughly a 5.5% discount to Wistron's Monday closing price of NT$197.
-The new shares represent about 7.29% of Wistron's outstanding shares before the issuance. Wistron said the offering is expected to be issued on Thursday, with the proceeds earmarked for purchases of raw materials in foreign currencies.
-The company's shares are up about 23% so far this year.
-The fundraising comes as Wistron expands its AI server business, with the company approving additional capacity investments in Taiwan and the U.S. last month.
-Wistron approved NT$10.5 billion in additional capital expenditure for facilities in Taiwan, as well as a combined $53 million for two U.S. subsidiaries to support future AI business expansion.
-In July, Wistron opened its first U.S. manufacturing facility, a $700 million AI server plant in Fort Worth, Texas. The facility currently produces Nvidia's GB300 Grace Blackwell Ultra systems and is expected to expand production to its next-generation Vera Rubin platform.
-For the second quarter, Wistron reported revenue of NT$895.4 billion and profit after tax of NT$14.8 billion.`,
-    bodyJa: `台湾のウィストロン社の株価は火曜日、NVIDIAのサプライヤーが原材料の購入資金として世界規模で14億7000万ドルの預託証券の売り出し価格を設定したことを受けて、6％以上下落した。
-同社の提出書類によると、同社は月曜、世界の預託証券2,500万枚の価格を1枚当たり58.88ドルとし、これは新普通株2億5,000万株に相当すると発表した。各株の価格は新台湾ドル約186.24ドルで、ウィストロンの月曜終値197台湾ドルに比べて約5.5％割引だった。
-新株は発行前のウィストロンの発行済み株式の約７．２９％に相当する。ウィストロンは、この募集は木曜日に発行される予定で、その収益は外貨での原材料の購入に充てられると述べた。
-同社の株価は年初から約２３％上昇している。
-この資金調達はウィストロンがAIサーバー事業を拡大する中で行われ、同社は先月台湾と米国での追加容量投資を承認した。
-Wistron は、将来の AI ビジネス拡大を支援するために、台湾の施設への追加資本支出として 105 億台湾ドルと、米国子会社 2 社に対して合わせて 5,300 万ドルを承認しました。
-7月、Wistronはテキサス州フォートワースに米国初の製造施設、7億ドル規模のAIサーバー工場を開設した。この施設は現在、Nvidia の GB300 Grace Blackwell Ultra システムを生産しており、次世代 Vera Rubin プラットフォームまで生産を拡大する予定です。
-第 2 四半期について、Wistron は売上高 8,954 億台湾ドル、税引き後利益 148 億台湾ドルを報告しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
-    publishedAt: "2026-09-08T03:54:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "china-s-imports-in-august-miss-estimates-6b5ee037",
-    title: "China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade",
-    titleJa: "貿易バランスの再調整が求められる中で輸出がペースを速める中、8月の中国の輸入は予想を下回る",
-    summaryJa: "中国の貿易の伸びは8月に加速したが、輸入額は予想を下回ったが、これは世界第2位の経済大国が貿易バランスを調整する圧力の高まりに直面している中、内需が依然として低迷していることを示している。火曜日の公式税関統計によると、８月の輸出は米ドルベースで前年比２５％増加し、ロイターがまとめたアナリスト予想と一致し、前月の２３．９％増加から加速した。",
-    bodyOriginal: `China's trade growth picked up in August, though imports missed expectations, a sign that domestic demand remains tepid as the world's second-largest economy faces mounting pressure to rebalance trade.
-Exports grew 25% in U.S. dollar terms in August from a year earlier, official customs data showed Tuesday, in line with Reuters-polled analysts' forecast, quickening from 23.9% increase the previous month.
-Imports rose 28.2% last month, missing economists' estimates of 30% in a Reuters poll, but gathering momentum from 27.5% in July. As a result, China's trade surplus swelled to $119.09 billion from $112.5 billion in July.
-Exports have become the primary growth driver for China's economy, as surging demand for high-tech components amid a global build-out of AI infrastructure has helped cushion the drag from geopolitical shocks, sluggish domestic demand and a slump in investment.
-Policymakers set a target range of 4.5-5% for China's gross domestic product growth this year, but momentum has sputtered after a solid start to the year, with growth slowing to a more than three-year low of 4.3% in the second quarter.
-Data released last month showed domestic demand and investment weakened further in July, while manufacturing activity contracted for a second straight month.
-Neo Wang, China strategist at Evercore ISI, expects growth to regain some momentum in the second half of this year, encouraged by the "sense of urgency and determination in Beijing's recent policy communications," as well as stabilizing manufacturing activity in August.
-Fiscal spending by the government has accelerated in recent weeks, helping arrest the decline in investment and restore stability, Wang said. Chinese government plans to fund a $54 billion capital injection into several state-owned banks and insurers, as Beijing seeks to bolster growth with constrained stimulus.
-The offshore yuan barely moved after the data release on Tuesday, standing at 6.7099 per U.S. dollar. The Chinese currency has outperformed its Asian peers this year, strengthening 3.8% year to date against the greenback.
-The breakout performance in China's exports has drawn scrutiny from Western trading partners, demanding that Beijing rebalance its trade and boost domestic demand.
-Group of 20 finance ministers gathered in the U.S. earlier this month and issued a joint statement criticizing economies that rely heavily on exports, with China being the only dissenting member. Beijing pushed back on the trade complaints, calling them "an excuse to pressure and restrict China."
-People's Bank of China Governor Pan Gongsheng said during a speech at the G20 summit that China has never actively pursued a trade surplus, nor has it depreciated the currency to gain trade competitiveness. He added that the country's market would remain open for foreign businesses.
-Washington's frustration over trade relations, however, is unlikely to derail the bilateral relationship ahead of a high-stakes visit by Chinese leader Xi Jinping to Washington D.C., scheduled later this month, Wang said, citing the U.S.' s narrowing deficit with China and its mounting trade disputes with other trading partners.
-Economists see room for further monetary easing this year. Shan Guo, a partner at China-focused Hutong Research, expects one or two interest-rate cuts by year-end, with the pace tied to the Federal Reserve's policy moves, the Ministry of Finance bond issuance, and the yuan's pace of appreciation.
-The more the yuan appreciates, the more room the PBOC has to cut interest rates, even if the Fed keeps hiking, Guo said.`,
-    bodyJa: `中国の貿易の伸びは8月に加速したが、輸入額は予想を下回ったが、これは世界第2位の経済大国が貿易バランスを調整する圧力の高まりに直面している中、内需が依然として低迷していることを示している。
-火曜日の公式税関統計によると、８月の輸出は米ドルベースで前年比２５％増加し、ロイターがまとめたアナリスト予想と一致し、前月の２３．９％増加から加速した。
-先月の輸入は２８．２％増加し、ロイター調査によるエコノミスト予想の３０％には届かなかったが、７月の２７．５％から勢いを増した。この結果、中国の貿易黒字は７月の１１２５億ドルから１１９０億９０００万ドルに拡大した。
-AIインフラの世界的な構築を背景にハイテク部品の需要が急増し、地政学的ショックや内需の低迷、投資の低迷による足かせを和らげるのに役立っており、輸出が中国経済の主な成長原動力となっている。
-政策当局者らは今年の中国の国内総生産（ＧＤＰ）成長率の目標レンジを４．５─５％に設定しているが、今年は堅調なスタートを切ったものの勢いは失われ、第２・四半期には成長率が３年超ぶりの低水準となる４．３％に減速した。
-先月発表されたデータによると、7月は内需と投資がさらに弱まり、製造業活動は2カ月連続で縮小した。
-エバーコアISIの中国ストラテジスト、ネオ・ワン氏は、8月の製造業活動の安定化に加え、「中国政府の最近の政策コミュニケーションにおける緊迫感と決意」に後押しされて、今年下半期には成長がある程度勢いを取り戻すと予想している。
-王氏は、ここ数週間で政府の財政支出が加速し、投資の減少に歯止めをかけ、安定を回復するのに役立っていると述べた。中国政府は抑制された刺激策で成長を促進することを目指しており、複数の国有銀行や保険会社に540億ドルの資本注入を計画している。
-火曜日の統計発表後、オフショア人民元はほとんど動かず、１ドル＝６．７０９９元となった。中国通貨は今年、アジアの通貨をアウトパフォームし、ドルに対して年初から3.8％上昇した。
-中国の輸出の飛躍的な実績は西側貿易相手国からの厳しい視線を集めており、中国政府は貿易のバランスを再調整し内需を拡大するよう求めている。
-20カ国・地域（G20）財務相らは今月初めに米国に集まり、輸出に大きく依存している経済を批判する共同声明を発表し、反対メンバーは中国だけだった。中国政府は貿易上の苦情を「中国に圧力をかけ、制限する口実」だと言って反発した。
-中国人民銀行の潘公生総裁はＧ２０サミットでの演説で、中国はこれまで積極的に貿易黒字を追求したことはなく、貿易競争力を高めるために通貨安を追求したこともないと述べた。同氏は、同国の市場は引き続き外国企業に開かれていると付け加えた。
-しかし、中国の指導者習近平氏による今月下旬に予定されている一か八かのワシントンD.C.訪問を前に、通商関係に対する米国の不満が二国間関係を狂わせる可能性は低いと王氏は米国の発言を引用して述べた。中国との赤字縮小と他の貿易相手国との貿易摩擦の激化。
-エコノミストは今年さらなる金融緩和の余地があるとみている。中国を専門とする胡同リサーチのパートナー、シャン・グオ氏は、連邦準備制度理事会の政策動向、財務省の債券発行、人民元の上昇ペースに連動して、年末までに１～２回の利下げが行われると予想している。
-郭氏は、人民元が上昇すればするほど、たとえFRBが利上げを続けたとしても、人民銀が利下げする余地は大きくなると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
-    publishedAt: "2026-09-08T03:10:42+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "iran-foreign-ministry-takes-aim-at-canad-d9bae7b8",
-    title: "Iran foreign ministry takes aim at Canada for support of U.S. actions in Strait of Hormuz",
-    titleJa: "イラン外務省、ホルムズ海峡での米国の行動支援でカナダに狙いを定める",
-    summaryJa: "イランはホルムズ海峡での米国の行動を支持しているカナダを非難し、オタワの動きは「戦略的混乱と脅迫への服従の表れ」だとした。テヘラン外務省報道官エスマイル・バガイ氏はＸへの投稿で、カナダは「米国大統領がカナダの主権と独立をあからさまに軽蔑し、カナダ全体を米国の一部であるかのように描いたまさにその日に」米国を「宥める」ことを選択したと述べた。",
-    bodyOriginal: `Iran hit out at Canada for supporting U.S. actions in the Strait of Hormuz, calling Ottawa's moves "a display of strategic confusion and submission to intimidation."
-In a post on X, Tehran's Foreign Ministry spokesperson Esmaeil Baghaei said that Canada chose to "appease" the U.S. "on the very day the U.S. president, in blatant contempt for Canada's sovereignty and independence, portrayed the entire country as part of the United States."
-Baghaei was referring to a post by U.S. President Donald Trump on Monday stateside, which showed the U.S.' territory covering Canada, Greenland and Iceland.
-In his second term, Trump has repeatedly made comments about making Canada the 51st state of the U.S. and annexing Greenland, which is a semi-autonomous territory of Denmark.
-Baghaei's comments came after Canada condemned Iran’s "destabilizing actions" in the Middle East, saying that it would work with partners to maintain significant pressure on Iran, including via sanctions and support for efforts to reopen the Strait of Hormuz that were led by the U.S., France and the U.K.
-"Canada cannot credibly present itself as a champion of 'peace and security,' 'freedom of navigation,' and 'international law' while simultaneously backing U.S. military aggression and Washington's illegal, interventionist actions in our region," Baghaei said.
-"This is neither 'diplomacy' nor 'responsible statecraft'. It is... a choice that will not even shield Canada itself from American bullying and aggression," Baghaei said.
-He questioned why Ottawa would choose to support Washington after experiencing what he called "American bad faith and knowing that U.S. signatures are 'written in pencil.'"
-Trade talks between Ottawa and Washington collapsed last month, with Prime Minister Mark Carney saying that the U.S. demands had gone too far. "They asked too much and offered too little," he said.
-This triggered tariffs on about $20 billion of Canadian goods, with Canada also imposing "dollar-for-dollar" retaliatory tariffs that will take effect at 12.01 a.m. ET Tuesday.
-Iran has also taken aim at other U.S. allies, such as South Korea. Baghaei on Monday warned Seoul against potential military involvement and support for U.S. "aggression," posting on X in Korean.
-South Korea's foreign ministry reportedly said over the weekend that it was in "close communication with relevant countries to help restore peace and stability in the Middle East as soon as possible."
-Last week, Seoul said it was reviewing options, including military measures to support freedom of navigation in the Strait of Hormuz, according to Reuters.
-"Any other country maintaining a military presence or participating in [U.S.] operations in the Persian Gulf and the Strait of Hormuz can only be regarded as directly supporting the perpetrators of the aggression, and it will lead to serious consequences," Baghaei posted.`,
-    bodyJa: `イランはホルムズ海峡での米国の行動を支持しているカナダを非難し、オタワの動きは「戦略的混乱と脅迫への服従の表れ」だとした。
-テヘラン外務省報道官エスマイル・バガイ氏はＸへの投稿で、カナダは「米国大統領がカナダの主権と独立をあからさまに軽蔑し、カナダ全体を米国の一部であるかのように描いたまさにその日に」米国を「宥める」ことを選択したと述べた。
-バガイ氏は月曜日、アメリカ国内でのドナルド・トランプ大統領の投稿に言及しており、その内容は米国の「カナダ、グリーンランド、アイスランドをカバーする領土。
-トランプ大統領は2期目で、カナダを米国51番目の州にすることや、デンマークの半自治領であるグリーンランドを併合することなどについて繰り返し発言してきた。
-バガイ氏のコメントは、カナダが中東におけるイランの「不安定化行動」を非難した後に出たもので、米国、フランス、英国が主導するホルムズ海峡の再開に向けた取り組みへの制裁や支援などを通じ、イランに対する重大な圧力を維持するためにパートナーと協力すると述べた。
-「カナダは『平和と安全』、『航行の自由』、『国際法』の擁護者としての立場を信頼できる形で提示しながら、同時にこの地域における米国の軍事侵略とワシントンの違法で介入主義的な行動を支持することはできない」とバガイ氏は述べた。
-「これは『外交』でも『責任ある国家戦略』でもない。これは…カナダ自体を米国のいじめや侵略から守ることさえできない選択だ」とバガエイ氏は語った。
-同氏は、オタワ氏が「米国の悪意」と呼ぶものを経験し、米国の署名が『鉛筆で書かれている』ことを知っていたにもかかわらず、なぜ米国政府を支持することを選んだのか疑問を呈した。
-オタワとワシントンの通商交渉は先月、マーク・カーニー首相が米国の要求は行き過ぎだと述べ、決裂した。 「彼らはあまりにも多くを求め、あまりにも少なすぎる提供をした」と彼は言った。
-これにより約200億ドル相当のカナダ製品に対する関税が発動され、カナダも「ドル対ドル」の報復関税を課し、火曜日東部時間午前12時1分に発効する予定だ。
-イランは韓国など他の米国同盟国も狙っている。バゲイ氏は月曜日、Xに韓国語で投稿し、韓国政府に対し、潜在的な軍事関与と米国の「侵略」への支援について警告した。
-韓国外務省は先週末、「中東の平和と安定をできるだけ早く回復できるよう、関係国と緊密に連絡をとっている」と述べたと伝えられている。
-ロイター通信によると、韓国政府は先週、ホルムズ海峡での航行の自由を支援するための軍事措置を含む選択肢を検討していると発表した。
-「他の国がペルシャ湾やホルムズ海峡で軍事プレゼンスを維持したり、（米国の）作戦に参加したりするのは、侵略の加害者を直接支援しているとしか考えられず、それは深刻な結果を招くだろう」とバガイ氏は投稿した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/us-iran-war-trump-hormuz-canada-trade-talks-greenland.html",
-    publishedAt: "2026-09-08T01:50:07+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "oil-extends-gains-as-renewed-mideast-hos-52bfc5c0",
-    title: "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
-    titleJa: "中東での敵対行為の再燃で紛争長期化の懸念が高まる中、原油が利益を拡大",
-    summaryJa: "米国とイランが先週末にストライキを行ったことを受けて中東の緊張が激化することへの懸念から、原油価格は火曜日に上昇幅を広げ、３日連続で上昇し、６週間ぶりの高値で推移した。国際指標となるブレント原油先物（１１月渡し）は０．２０％上昇し、１バレル＝９７．２０ドルとなった。米国ウェスト・テキサス・インターミディエート先物１０月限は１．０７％上昇し、１バレル＝９２．５６ドルとなった。",
-    bodyOriginal: `Oil prices extended gains Tuesday, rising for a third straight day, and hovering at six-week highs on worries over escalating Mideast tensions after the U.S. and Iran traded strikes over the weekend.
-Futures for international benchmark Brent crude for November delivery gained 0.20% at $97.20 a barrel. U.S. West Texas Intermediate futures for October advanced 1.07% at $92.56 per barrel.
-The U.S. military struck three Iranian oil tankers on Saturday after Iran launched ballistic missiles at two Navy warships. The Iranian Foreign Ministry, in a statement on Saturday, denounced the attacks on commercial vessels as a "war crime" and an act of "economic warfare."
-"This appears to be a major escalation and tensions have once again ratcheted higher," said David Morrison, senior market analyst at Trade Nation, noting that U.S. Energy Secretary Chris Wright had said it may prove impossible to reach a deal with Iran to prevent it obtaining a nuclear weapon.
-The tit-for-tat strikes over the weekend also helped to push gas prices higher, hitting record highs.
-Tensions between Washington and Tehran continued to simmer. "Strike our assets and you get struck," Iranian Parliament Speaker Mohammad Bagher Ghalibaf wrote Monday in a post on X.
-That was in response to Defense Secretary Pete Hegseth's post who wrote that the U.S. "will destroy (and sink)" Iranian oil tankers if Iran fires on U.S. vessels.
-Goldman Sachs on Monday raised its forecasts for Brent and WTI prices by $5 to $85 and $80 per barrel, respectively, for December 2026 and to $80 and $75 per barrel, respectively, for 2027.
-The bank expects Mideast shipping disruptions to continue into 2027, with production gradually recovering by the second half of 2027. "Markets are increasingly pricing a prolonged Mideast conflict," Goldman said, adding that Persian Gulf-to-China crude tanker rates in the second quarter of 2027 now price shipping disruptions lasting into that period.
-President Trump in a post on Monday stateside said that "Oil prices will drop precipitously ... when we WIN the war with Iran."
-—CNBC's Greg Iacurci contributed to the report.`,
-    bodyJa: `米国とイランが先週末にストライキを行ったことを受けて中東の緊張が激化することへの懸念から、原油価格は火曜日に上昇幅を広げ、３日連続で上昇し、６週間ぶりの高値で推移した。
-国際指標となるブレント原油先物（１１月渡し）は０．２０％上昇し、１バレル＝９７．２０ドルとなった。米国ウェスト・テキサス・インターミディエート先物１０月限は１．０７％上昇し、１バレル＝９２．５６ドルとなった。
-イランが海軍軍艦２隻に弾道ミサイルを発射したことを受け、米軍は土曜日、イランの石油タンカー３隻を攻撃した。イラン外務省は土曜日の声明で、商船への攻撃を「戦争犯罪」であり「経済戦争」行為であると非難した。
-トレード・ネイションのシニア市場アナリスト、デービッド・モリソン氏は「これは大幅なエスカレーションのようで、緊張が再び高まっている」と述べ、米国のクリス・ライト・エネルギー長官がイランの核兵器取得を阻止する合意に達するのは不可能であることが判明する可能性があると述べたことを指摘した。
-週末の報復ストライキもガソリン価格の上昇に寄与し、過去最高値を記録した。
-ワシントンとテヘランの間の緊張は高まり続けた。 「我々の資産を攻撃すれば、あなたも攻撃される」とイラン国会議長モハマド・バガー・ガリバフは月曜、Xへの投稿で書いた。
-これは、イランが米国の船舶に砲撃した場合、米国はイランの石油タンカーを「破壊（沈没）する」と書いたピート・ヘグセス国防長官の投稿に応えたものだった。
-ゴールドマン・サックスは月曜日、ブレントとWTIの価格予想を、2026年12月についてはそれぞれ5ドル引き上げて1バレルあたり85ドルと80ドル、2027年についてはそれぞれ1バレルあたり80ドルと75ドルとした。
-同銀行は、中東の輸送混乱は2027年まで続き、生産は2027年下半期までに徐々に回復すると予想している。「市場は中東紛争の長期化をますます織り込んでいる」とゴールドマン氏は述べ、2027年第2四半期のペルシャ湾岸から中国への原油タンカーの運賃は現在、輸送混乱がその期間まで続くことを織り込んでいると付け加えた。
-トランプ大統領は月曜日の米国内への投稿で、「イランとの戦争に勝てば原油価格は急激に下落するだろう」と述べた。
-—CNBCのGreg Iacurci氏がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
-    publishedAt: "2026-09-08T01:42:34+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-threatens-to-stop-sale-of-canadian-4560c27b",
-    title: "Trump threatens to stop sale of Canadian Bombardier jets in US",
-    titleJa: "トランプ大統領、カナダ製ボンバルディア機の米国での販売を停止すると脅迫",
-    summaryJa: "トランプ大統領、カナダ製ボンバルディア機の米国での販売を停止すると脅迫- 公開されました",
-    bodyOriginal: `Trump threatens to stop sale of Canadian Bombardier jets in US
-- Published
-President Donald Trump has warned Canadian aircraft company Bombardier that it can no longer sell in the US unless it moves its manufacturing there.
-"NO MORE SELLING BOMBARDIER IN THE UNITED STATES!" Trump wrote in a Truth Social post on Monday. "If they want our Market, they must build here, and stop treating America like a 'piggybank'."
-The move comes amid an escalating trade war between the two neighbours, and hours before Canadian retaliatory tariffs are set to be imposed on $20bn (£14.7bn) worth of US goods.
-In a statement, Bombardier underscored that it employed thousands of American workers and said it valued its partnerships with American companies.
-The BBC has reached out to Prime Minister Mark Carney's office for comment.
-It is unclear how Trump intends to block Bombardier from doing business in the US.
-The Montreal-based company already operates a factory in the US state of Kansas that builds special mission military planes, and employs 3,500 American workers.
-It also operates sites in Texas, Arizona, Florida, Connecticut, Illinois, Delaware, California, DC and New Jersey.
-About half of its fleet – 5,100 aircraft – is operated by Bombardier customers based in the US.
-In a statement on Monday, Bombardier did not address Trump's threat directly, but said its operations "create tens of thousands of US jobs through the company's growing American footprint".
-"Bombardier values its great partnership with American companies and its US employees," its statement said. "Our plan is to continue to invest in our people, our customers and the communities in which we operate across the country."
-Bombardier's jets are built at facilities in Canada, the US and Mexico, according to the company's website. They also comply with the North American free trade agreement signed by Trump during his first term, known as CUSMA in Canada and the USMCA in the US.
-The company is one of Canada's largest, having contributed C$7.4bn ($5.4bn; £4bn) to the country's GDP in 2024, according to a report commissioned by Bombardier.
-It is also one of the largest employers in Quebec's manufacturing sector.
-In a post on X on Monday, Quebec premier Christine Fréchette called the company "a source of pride" for her province and "a flagship of our economy".
-She added that she has reached out to Bombardier CEO Éric Martel and offered her government's full support.
-On Trump's threat, Fréchette wrote: "I will not respond to provocation with provocation."
-"Quebec will not allow anyone to dictate where our companies must produce in order to access a market."
-Trade talks between Canada and the US collapsed late last month after Canada walked away from the negotiating table, after which the US imposed new 50% tariffs on a range of Canadian goods.
-Prime Minister Carney accused the Trump administration of presenting last-minute terms that were "unfair" and "uneconomic", while US officials accused him of refusing to sign a deal for political reasons because of Trump's unpopularity in Canada - an accusation he denied.
-Related topics
-- Published31 August
-- Published22 August`,
-    bodyJa: `トランプ大統領、カナダ製ボンバルディア機の米国での販売を停止すると脅迫
-- 公開されました
-ドナルド・トランプ大統領はカナダの航空機会社ボンバルディアに対し、製造拠点を米国に移転しない限り米国での販売は不可能だと警告した。
-「米国ではボンバルディアはもう売れない！」トランプ氏は月曜日のトゥルース・ソーシャルへの投稿でこう書いた。 「もし彼らが私たちの市場を望むなら、ここに建設し、アメリカを『貯金箱』のように扱うのをやめなければなりません。」
-この動きは隣国両国間の貿易戦争が激化するさなか、カナダが200億ドル（147億ポンド）相当の米国製品に報復関税を課す予定の数時間前に行われた。
-ボンバルディアは声明で、数千人の米国人労働者を雇用していることを強調し、米国企業とのパートナーシップを重視していると述べた。
-BBCはマーク・カーニー首相の事務所にコメントを求めた。
-トランプ大統領がボンバルディアの米国での事業をどのように阻止するつもりなのかは不明だ。
-モントリオールに本拠を置く同社はすでに米国カンザス州で特殊任務の軍用機を製造する工場を運営しており、3,500人の米国人労働者を雇用している。
-また、テキサス、アリゾナ、フロリダ、コネチカット、イリノイ、デラウェア、カリフォルニア、ワシントン DC、ニュージャージーでも拠点を運営しています。
-保有機材の約半分である 5,100 機は、米国に拠点を置くボンバルディアの顧客によって運航されています。
-ボンバルディアは月曜日の声明で、トランプ大統領の脅威には直接言及しなかったが、同社の事業が「米国での拠点拡大を通じて米国で数万人の雇用を創出している」と述べた。
-ボンバルディアは声明で「当社は米国企業および米国従業員との素晴らしいパートナーシップを重視している」と述べた。 「私たちの計画は、従業員、顧客、そして全国で事業を展開しているコミュニティへの投資を継続することです。」
-同社のウェブサイトによると、ボンバルディアのジェット機はカナダ、米国、メキシコの施設で製造されている。また、カナダではCUSMA、米国ではUSMCAとして知られる、トランプ氏が1期目に署名した北米自由貿易協定も遵守している。
-ボンバルディア社の委託による報告書によると、同社はカナダ最大手の一つで、2024年のカナダ国内総​​生産（GDP）に74億カナダドル（54億ドル、40億ポンド）を貢献した。
-ケベック州の製造業における最大の雇用主の一つでもあります。
-ケベック州のクリスティーヌ・フレシェット首相は月曜日のXへの投稿で、同社を州の「誇りの源」であり「経済の旗艦」と呼んだ。
-彼女はボンバルディア社のエリック・マルテル最高経営責任者（CEO）に連絡を取り、政府の全面的な支援を申し出たと付け加えた。
-トランプ大統領の脅迫について、フレシェット氏は「挑発には挑発で応じない」と書いた。
-「ケベック州は、市場にアクセスするために私たちの企業がどこで生産しなければならないかを誰にも指示することを許しません。」
-カナダと米国の間の通商交渉は先月末、カナダが交渉のテーブルから離れたことで決裂し、その後米国はカナダの幅広い製品に新たに50％の関税を課した。
-カーニー首相は、トランプ政権が土壇場で「不公平」で「非経済的」な条件を提示したと非難し、一方米当局者らはカナダでのトランプ大統領の不人気を理由に政治的理由で合意を拒否したと非難したが、カーニー首相はその非難を否定した。
-関連トピック
-- 8 月 31 日公開
-- 8 月 22 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-08T00:48:43+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
-    readTime: 4,
-  },
-  {
-    id: "i-performed-on-stage-to-get-my-first-jo-cade6e0c",
-    title: "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
-    titleJa: "「最初の仕事を得るためにステージでパフォーマンスした」―採用活動をコンテストに変える企業",
-    summaryJa: "「最初の仕事を得るためにステージでパフォーマンスした」―採用活動をコンテストに変える企業- 公開されました",
-    bodyOriginal: `'I performed on stage to get my first job' - the firms turning recruitment into competitions
-- Published
-Yumi Liberman was up on stage in front of a panel of judges and an audience of 300 people, and she had to perform.
-But rather than singing, dancing or playing a musical instrument, she and two friends were in an auditorium in London in 2024 to pitch their business idea, hoping to secure a full-time job with cosmetics giant L'Oreal.
-"It reminded me of when I used to do competitive sports growing up and the pressure would get heavy," says Liberman, now 24. "But somehow you just get into flow mode."
-She and her friends had got through to the UK final of Brandstorm, an international competition run by the French company, where young adults outline their product and business ideas.
-Their proposal for a haircare app saw them crowned UK winners and they went on to that year's global final in Paris where they came third.
-While only members of the team that finished first automatically got full-time jobs, Liberman had so impressed senior figures at the company that she managed to secure a place on its marketing management traineeship, with a full-time position at the end.
-Turning recruitment into X Factor-style competitions, with jobs as the prize, generates publicity and buzz for companies. But for the young people involved, is it exciting - or unfair?
-In the current global economic environment, youth unemployment is higher than the national average in many countries, as companies are reluctant to take on new staff. In the UK the unemployment rate for young adults is 16.2%,, external compared to the overall level of 4.9%., external
-Competitions like L'Oreal's can offer hope. But the vast majority of the 380,000 people around the world who applied for it this year, up 58% from 240,000 in 2025, didn't win anything.
-L'Oreal told the BBC that its Brandstorm competition works well because it helps the company attract a wider range of potential new recruits, including young people who wouldn't necessarily have thought of applying for a job at the firm.
-Yet while Liberman says she enjoyed the formal competition structure, others who have been through similar recruitment competitions are critical.
-'Intimidating'
-Melissa Alcruz now works in marketing for a US real estate business based in New York City, but in the past she did the same job for TV channel MTV.
-While at MTV she competed in an internal competition for a promotion that she says was referred to as a "bake-off". Candidates had to come up with sponsorship and marketing campaigns, and then pitch to a room of seven people.
-"This is intimidating, even for a seasoned professional. I ultimately got the job, but even though I won I disliked the process," says Alcruz.
-She points out that she already had a demanding full-time role at the company, and was then "expected to complete several substantial projects" for the competition in her spare time.
-MTV's current parent company, Paramount Skydance Corporation, has been asked for a comment.
-Former recruitment consultant Katrina Collier, now an author, speaker and recruiter trainer, is concerned that competition-based recruitment processes that potentially require candidates to give up lots of their time for free can create "economic discrimination".
-"Not everyone can take time, possibly months, to participate in the challenges for the chance to secure one of a limited number of roles," she says. "Does that mean only people from financially strong backgrounds proceed?
-"Is that leaving talented applicants who don't have the bank of mum or dad, for example, unable to take part?"
-Jamie Kohn, senior director for talent acquisition at research firm Gartner, reasons that competition-based hiring formats are here to stay because employers find it easier to evaluate candidates than via the traditional interview method.
-But she agrees that organisations need to be cautious about how much they ask of the jobseekers. "And they should focus on providing feedback… so candidates build their capabilities even if they are not selected."
-For psychologist Amanda Potter, her concern is that recruiting via competition events tend to favour extroverts, and therefore put quieter personality types at a disadvantage.
-"Does this approach encourage all types of people to apply, or would certain types of people avoid these assessment methods?" she says. "This could result in an organisation [ending up] full of ambitious, competitive people who want to win, possibly to the detriment of others."
-However, Liberman, who lives with severe dyslexia, argues that going through a typical recruitment process and related assessments would have been more challenging for her.
-It has also meant that she managed to avoid any time spent unemployed after finishing university. Instead, she has gone straight into her chosen field, something she can't say about all of her peers.
-"I have a lot of friends coming from extremely reputable backgrounds, extremely educated people who have applied to over 1,000 jobs, and have been jobless."
-- Published20 July
-- Published30 June
-- Published28 May`,
-    bodyJa: `「最初の仕事を得るためにステージでパフォーマンスした」―採用活動をコンテストに変える企業
-- 公開されました
-ユミ・リバーマンは審査員団と300人の聴衆の前でステージに上がり、パフォーマンスをしなければなりませんでした。
-しかし、歌ったり、踊ったり、楽器を演奏したりするのではなく、化粧品大手ロレアルでのフルタイムの仕事を確保したいと考え、彼女と2人の友人は2024年にロンドンの講堂でビジネスアイデアを売り込んでいた。
-現在24歳のリバーマンは、「幼い頃、競技スポーツをやっていたときのことを思い出した。プレッシャーが重くなった。でも、どういうわけかフローモードに入ってしまうんだ」と語る。
-彼女と友人たちは、フランスの会社が運営する国際コンペティション、ブランドストームの英国決勝戦に勝ち残っていた。若者たちが製品やビジネスのアイデアを概説する場だ。
-彼らのヘアケア アプリの提案により英国の優勝者となり、その年のパリでの世界決勝に進み、3 位になりました。
-最初に終了したチームのメンバーだけが自動的にフルタイムの仕事を得ることができましたが、リバーマンは会社の上層部に非常に感銘を与えたので、最終的にはフルタイムのポジションを獲得して、マーケティング管理研修の枠を確保することができました。
-採用活動を X ファクター スタイルのコンテストに変えることで、仕事が賞品となり、企業の知名度と話題が生まれます。しかし、関係する若者にとって、それは刺激的なことでしょうか、それとも不公平でしょうか?
-現在の世界経済環境では、企業が新規人材の採用に消極的であるため、多くの国で若者の失業率が全国平均よりも高くなっています。英国では、若年成人の失業率が 16.2% であるのに対し、全体の失業率は 4.9% です。
-ロレアルのような競争は希望をもたらす可能性がある。しかし、今年応募した世界中の38万人（2025年の24万人から58％増）の大多数は何も当選しなかった。
-ロレアルはBBCに対し、自社のブランドストーム競争がうまく機能しているのは、同社への就職を必ずしも考えていなかった若者も含め、より広範囲の潜在的な新入社員を引き付けるのに役立つからだと語った。
-しかし、リバーマン氏は正式な競争構造を楽しんでいたと語る一方で、同様の採用競争を経験した他の人たちは批判的だ。
-「威圧的」
-メリッサ・アルクルーズさんは現在、ニューヨーク市を拠点とする米国の不動産会社でマーケティングの仕事をしていますが、以前はテレビ チャンネル MTV で同じ仕事をしていました。
-MTV在職中、彼女は昇進を賭けた社内コンテストに参加したが、それは「ベイクオフ」と呼ばれていたという。候補者はスポンサーシップとマーケティング キャンペーンを考え出し、7 人の部屋に売り込みを行う必要がありました。
-「これは、経験豊富な専門家にとってさえ、恐ろしいことです。私は最終的にその仕事に就きましたが、たとえ勝ち取ったとしても、そのプロセスが嫌いでした」とアルクルス氏は言います。
-彼女は、すでに会社で厳しいフルタイムの仕事をしていて、空いた時間でコンテストに向けて「いくつかの重要なプロジェクトを完了することが期待されていた」と指摘しました。
-MTVの現在の親会社であるパラマウント・スカイダンス・コーポレーションはコメントを求められている。
-元人材コンサルタントのカトリーナ・コリアー氏は、現在は作家、講演者、リクルータートレーナーとして活動しているが、候補者が多くの時間を無償で犠牲にすることを潜在的に要求する競争ベースの採用プロセスが「経済的差別」を生み出す可能性があると懸念している。
-「限られた数の役割のうちの 1 つを獲得するチャンスを得るために、誰もが時間、場合によっては数か月をかけてチャレンジに参加できるわけではありません」と彼女は言います。 「ということは、経済的に余裕のある人だけが進むということですか？
-「このことは、例えば母親や父親の銀行を持っていない才能ある応募者が参加できないということになるのでしょうか？」
-調査会社ガートナーの人材獲得担当シニアディレクター、ジェイミー・コーン氏は、雇用主が従来の面接方法よりも候補者を評価しやすいため、競争ベースの採用形式が今後も存続すると理由を説明する。
-しかし、組織は求職者にどれだけの金額を求めるかについて慎重になる必要があるという点には彼女も同意する。 「そして、フィードバックを提供することに重点を置くべきです…そうすれば、たとえ選ばれなかったとしても、候補者は自分の能力を高めることができます。」
-心理学者のアマンダ・ポッターさんの懸念は、競争イベントを通じた採用では外向的な人が好まれる傾向があり、そのため物静かな性格タイプが不利になることだ。
-「このアプローチはあらゆるタイプの人が応募することを奨励するのでしょうか、それとも特定のタイプの人がこれらの評価方法を避けることになるのでしょうか?」彼女は言います。 「その結果、組織は勝利を求める野心的で競争心旺盛な人々で溢れかえり、おそらく他の人々に不利益をもたらす可能性があります。」
-しかし、重度の失読症を抱えているリバーマンさんは、典型的な採用プロセスや関連する評価を経験することは彼女にとってより困難だっただろうと主張する。
-それはまた、彼女が大学卒業後に失業して過ごす時間を避けることができたことを意味します。その代わりに、彼女は自分の選んだ分野に真っ直ぐに取り組んできたが、これは他の同僚には言えないことだ。
-「私には、非常に評判の高い経歴を持ち、非常に教育を受け、1,000件以上の仕事に応募してきたにもかかわらず、職を失った友人がたくさんいます。」
-- 7 月 20 日発行
-- 6 月 30 日発行
-- 5 月 28 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-07T23:06:14+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
-    readTime: 6,
-  },
-  {
-    id: "ai-cancer-cures-slowed-by-chip-shortage-217198a7",
-    title: "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-    titleJa: "AIがんの治療はチップ不足で遅れている、英国最大のテクノロジー企業トップが語る",
-    summaryJa: "チップ設計者のアーム氏は、DNAマーカーががんによってどのような影響を受けるかをモデル化することは現時点では不可能だが、コンピューターが「解決するだろう」と述べた。",
-    bodyOriginal: `AI cancer cures slowed by chip shortage, says UK's biggest tech boss
-- Published
-The boss of the biggest UK-headquartered tech firm has said that artifical intelligence will find a cure for cancer that humans cannot in our lifetimes.
-Rene Haas, chief executive of Cambridge-based chip designer Arm Holdings, said while modelling how a DNA marker is impacted by cancer was currently "too complex" a problem, computers are "going to solve it" in the future.
-Haas also told the BBC that AI would lead to widespread humanoid robots in the next five years, but that its current rapid growth was being held up by a shortage of chips needed to build data centres.
-However, he was sceptical about the idea chips could be manufactured in the UK in the future.
-Arm designs the brains or CPUs of microchips already used in hundreds of billions of phones, cars, smartwatches and gadgets across the globe.
-Earlier this summer, the company's peak share price amid the AI boom made it, in cash terms, the most valuable UK-based company in history.
-Haas, who stepped down from the board of British pharmaceutical giant AstraZeneca in April, told the BBC's Big Boss Interview podcast: "AI is going to... find a cure for cancer that today you and I, other humans [could] not in our lifetimes. I believe in our lifetime, AI will help cure cancer.
-"Modelling a cell, modelling a human, modelling how a DNA marker is impacted by cancer - it's too complex a problem, not only for humans today, but the computers that run AI.
-"However, going forward, as we feed more and more of the models into these computers, and the computers get more sophisticated to run the models, they're going to solve it," said Haas, who also holds a key role in Arm's main owner, the Japan-based Softbank, which has a range of investments in tech including in OpenAI.
-Prof Chris Bakal, from the Institute of Cancer Research, London, and CEO of Sentinal4D, said the real question was no longer whether we use AI, it's what we feed it.
-He said in labs like his, they are training AI on data generated themselves from patient samples.
-"It is not scraped from the internet. It does not need a giant data centre to run. The future of medical AI will not belong to whoever builds the biggest computer. It will belong to whoever has the right measurements.
-"That kind of prediction could cut years from the time it takes to develop new treatments. This is where AI delivers real benefit to patients."
-Job losses 'overstated'
-In a wide-ranging interview, Haas said the chips Arm designs would fuel self-learning AI robots "in a very large way" in manufacturing, cleaning, security, building bridges, and doing repairs within a decade.
-"With artificial intelligence, these robots can see, learn, and essentially be reprogrammed for new tasks. So, in the service industry, the robot that was programmed to make a bed can also learn how to arrange the towels in a room, or clean the dustbins, or whatever you want to go off and do."
-Addressing concerns that AI would lead to mass job losses, Haas said while there would be some change for workers, "the estimates of jobs going away and being completely replaced by machines is a bit overstated" and outweighed by new opportunities.
-He also said fears over a correction in the remarkable rise in the stock market value of AI companies were overstated, because of the long-term demand for AI.
-Arm's power-efficient technology was now being used in half of AI data centres worldwide, he said.
-This has led to a significant evolution in its business in recent months, selling its own microchips. Facebook-owner Meta asked Arm to develop the Arm AGI chip and "demand has been off the charts", according to Haas, with more than $2bn worth of demand since it was launched in March.
-Big Boss Interview: Arm Holdings Rene Haas
-The CEO of chip design company Arm tells the BBC AI will help cure cancer, lead to widespread humanoid robots in the next five years, but says its rapid growth is being held up by a shortage of chips needed in data centres.
-There have, however, been challenges in the supply of many types of chips, which Haas believes is holding back the roll-out of AI and data centres.
-He pointed to plans for massive "multi-gigawatt" data centres in France and the US as well as plans to put them in space.
-"We are absolutely in a supply-constrained environment. Can you get enough chips? We need more fabs [chip factories] before we can put a data centre in space."
-But he does not believe that manufacturing, currently centralised around Taiwanese giant TSMC, could eventually occur in the UK, despite the government holding talks with the industry about the possibility of bringing parts of the physical chip supply chain over here.
-"I don't think it's necessary for the UK to [build] fabs. Fabs are very expensive. They take a lot of specialised workers. They take a lot of natural resources, and there's a pretty broad ecosystem for those."
-As the great hope of UK tech for decades, some government ministers have lamented Arm's sale to Japanese investors in 2016 and subsequent partial flotation on New York's Nasdaq rather than in London.
-But Haas maintained that half of Arm's employees remain in the UK and said the company was "by far and away the largest employer in Cambridge".
-- Published15 hours ago
-- Published27 August
-- Published28 January`,
-    bodyJa: `AIがんの治療はチップ不足で遅れている、英国最大のテクノロジー企業トップが語る
-- 公開されました
-英国に本社を置く最大手のテクノロジー企業の社長は、人工知能は人間が一生かかっても不可能なガンの治療法を見つけるだろうと語った。
-ケンブリッジに本拠を置くチップ設計会社アーム・ホールディングスのレネ・ハース最高経営責任者（CEO）は、DNAマーカーががんによってどのような影響を受けるかをモデル化することは現時点では「複雑すぎる」問題だが、将来的にはコンピューターがそれを「解決するだろう」と述べた。
-ハース氏はまたBBCに対し、AIは今後5年間で人型ロボットの普及につながるだろうが、現在の急速な成長はデータセンターの建設に必要なチップの不足によって妨げられていると語った。
-しかし、同氏はアイデアチップが将来的に英国で製造される可能性については懐疑的だった。
-Arm は、世界中の何千億もの電話、自動車、スマートウォッチ、ガジェットですでに使用されているマイクロチップの頭脳または CPU を設計しています。
-この夏の初め、AIブームのさなか同社の株価は最高値を記録し、現金ベースで同社は史上最も価値のある英国に本拠を置く企業となった。
-4月に英国の製薬大手アストラゼネカの取締役を辞任したハース氏は、BBCのビッグ・ボス・インタビュー・ポッドキャストで、「AIは…今日、あなたや私、他の人間が生きている間には[できなかった]癌の治療法を見つけるだろう。私は、私たちが生きているうちに、AIが癌の治療に役立つと信じている」と語った。
-「細胞のモデル化、人間のモデル化、DNA マーカーががんによってどのような影響を受けるかをモデル化することは、今日の人間だけでなく、AI を実行するコンピューターにとっても複雑すぎる問題です。
-「しかし、今後、これらのコンピュータにますます多くのモデルを入力し、モデルを実行するコンピュータがより洗練されるにつれて、問題は解決されるでしょう」とハース氏は語った。ハース氏はArmの主要所有者である日本に本拠を置くソフトバンクでも重要な役割を担っており、ソフトバンクはOpenAIを含むテクノロジー分野に幅広い投資を行っている。
-ロンドンのがん研究所のクリス・バカル教授でSentinal4Dの最高経営責任者（CEO）は、本当の問題はもはやAIを使うかどうかではなく、AIに何を与えるかだ、と語った。
-同氏のような研究室では、患者のサンプルから自ら生成したデータに基づいてAIをトレーニングしていると述べた。
-「インターネットから収集したものではありません。実行するために巨大なデータセンターは必要ありません。医療 AI の未来は、最大のコンピューターを構築した者のものではありません。適切な測定値を持った者のものになります。」
-「そのような予測ができれば、新しい治療法の開発にかかる時間が何年も短縮される可能性があります。 AI が患者に真の利益をもたらすのはここです。」
-雇用喪失は「誇張されている」
-ハース氏は広範なインタビューで、Armが設計したチップは10年以内に製造、清掃、警備、橋の建設、修理などにおいて「非常に大きな方法で」自己学習AIロボットを促進するだろうと語った。
-「人工知能を使用すると、これらのロボットは見て、学習し、基本的に新しいタスクのために再プログラムすることができます。つまり、サービス産業では、ベッドメイクをするようにプログラムされたロボットが、部屋のタオルの並べ方やゴミ箱の掃除など、やりたいことを何でも学ぶことができるのです。」
-AIが大量の雇用喪失につながるのではないかとの懸念に対し、ハース氏は労働者に何らかの変化はあるものの、「仕事がなくなり、完全に機械に置き換わるという見積もりは少し誇張されている」とし、新たな機会の方が重要だと述べた。
-同氏はまた、AIへの長期的な需要を理由に、AI企業の株価の目覚ましい上昇の調整に対する懸念は誇張されていると述べた。
-同氏によると、Armの電力効率の高いテクノロジーは現在、世界中のAIデータセンターの半数で使用されているという。
-これにより、ここ数カ月で自社のマイクロチップを販売するなど、ビジネスが大幅に進化した。 Facebookオーナーのメタ社はArm AGIチップの開発をArmに依頼したが、ハース氏によると「需要は桁違い」で、3月の発売以来20億ドル以上の需要があるという。
-ビッグボス インタビュー: Arm Holdings Rene Haas
-チップ設計会社アームの最高経営責任者（CEO）はBBCに対し、AIはがんの治療に役立ち、今後5年間で人型ロボットの普及につながると語ったが、その急速な成長はデータセンターで必要なチップの不足によって妨げられていると述べた。
-しかし、多くの種類のチップの供給には課題があり、それがAIやデータセンターの展開を妨げているとハース氏は考えている。
-同氏は、フランスと米国における大規模な「マルチギガワット」データセンターの計画と、それらを宇宙に設置する計画を指摘した。
-「私たちは供給が完全に制約された環境にいます。十分なチップを獲得できますか？宇宙にデータセンターを設置する前に、より多くのファブ（チップ工場）が必要です。」
-しかし同氏は、政府が物理的なチップのサプライチェーンの一部を英国に持ち込む可能性について業界と協議しているにもかかわらず、現在台湾の大手TSMCを中心に集中している製造業が最終的に英国で行われる可能性があるとは考えていない。
-「英国が工場を建設する必要はないと思います。工場は非常に高価です。工場には多くの専門労働者が必要です。多くの天然資源が必要であり、それらにはかなり広範なエコシステムがあります。」
-何十年にもわたって英国テクノロジー界の大きな希望であったため、一部の政府閣僚はアームが2016年に日本の投資家に売却され、その後ロンドンではなくニューヨークのナスダックに部分的に上場されたことを嘆いていた。
-しかしハース氏は、アームの従業員の半数は英国に残っていると主張し、同社は「ケンブリッジで断然最大の雇用主」であると述べた。
-- 15 時間前に公開
-- 8 月 27 日発行
-- 1 月 28 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-07T23:05:12+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 7,
   },
 ];
 
