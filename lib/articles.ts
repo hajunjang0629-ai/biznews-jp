@@ -15,6 +15,414 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "affordability-takes-center-stage-in-nort-4123939b",
+    title: "Affordability takes center stage in North Carolina’s pivotal Senate race",
+    titleJa: "ノースカロライナ州の極めて重要な上院選挙戦で手頃な価格が主役に",
+    summaryJa: "ノースカロライナ州コンコード – レイチェル・ワゴナーさんは、ノースカロライナ州コンコードについて、3 人の子供を育てる場所として常に思い描いていたような場所であると説明しています。安全で、良い学校があり、活気のあるダウンタウンと、他の家族でいっぱいの近所です。しかし最近では、その牧歌的な生活を手に入れるのが難しくなってきています。ワゴナーさんは夫が外で働いている間、夫との間にできた3人の子供たちと家にいるが、食料品やガソリン代の高騰で家計が圧迫され、ここ1年は有給の仕事に戻ることを検討してきた。",
+    bodyOriginal: `CONCORD, N.C. – Rachel Wagoner describes Concord, North Carolina, as the kind of place where she always envisioned raising her three children: safe, with good schools, a lively downtown and neighborhoods filled with other families.
+But lately, that idyllic life has become harder to afford. Wagoner stays home with the three children she has with her husband while he works outside the home, but rising grocery and gasoline costs have squeezed the family's budget enough that she has spent the past year considering going back to a paid job.
+"It gets harder and harder to make ends meet," Wagoner told CNBC. Things her family once considered routine "have now become a luxury, like eating out and coming and shopping downtown."
+The cost-of-living squeeze has become a defining issue in North Carolina's pivotal open Senate race to replace retiring Republican Sen. Thom Tillis, as well as in numerous other contests that will determine control of the chamber.
+Meanwhile, Concord keeps growing. Across Cabarrus County, just northeast of Charlotte, subdivisions are spreading, major employers are expanding and billions of dollars in investment are pouring in, including from Eli Lilly. Unemployment is low and poverty is below the national rate.
+Essentially, the county is prospering by most measures. Yet talk to many residents, and that prosperity feels out of reach.
+"Everything feels big," said Nichole Mattes, a mother in nearby Kannapolis who said rent, gasoline and groceries have left her living paycheck to paycheck. "You can't be a single-income household right now. ... It feels impossible."
+Senate candidate and former two-term Democratic Gov. Roy Cooper has spent months campaigning under the slogan "Make Stuff Cost Less."
+"From the grocery store to the gas station, working families here in Concord and around the state are hurting as prices skyrocket," Cooper said at a Sept. 2 event.
+His opponent, Republican Michael Whatley, is trying to flip the script by arguing that Democrats like Cooper helped create today's affordability headaches.
+The former Republican National Committee chair and a close ally of President Donald Trump has pointed to increases in energy, healthcare and housing costs during Cooper's tenure and attacked his opposition to Republican tax cuts.
+"If Candidate Cooper wants to 'make stuff cost less,' he oughta look in the mirror," Whatley campaign spokesman DJ Griffin said in a statement to CNBC.
+It's up to voters to choose who to blame, said Michael Bitzer, a political scientist at Catawba College in Salisbury, North Carolina.
+"Both candidates know people are dissatisfied and feeling the squeeze," Bitzer told CNBC. "Cooper wants voters focused on what they are paying now. Whatley wants them to trace those costs through Cooper's tenure in Raleigh and the inflation of the Biden years."
+Cabarrus as a measuring stick
+Cabarrus County and its Charlotte suburbs provide a prime test case to see which explanation breaks through, said Christopher Cooper, a political scientist at Western Carolina University who is not related to Roy Cooper.
+It remains Republican territory, but by considerably smaller margins than a decade ago. Trump won Cabarrus by nearly 20 percentage points in 2016, but his margin fell to 9.5 points in 2020 and 7.6 points in 2024.
+Part of that shift has come as Charlotte's growth has pushed farther outward, bringing more Democratic-leaning voting patterns into once-rural and exurban communities, Christopher Cooper told CNBC.
+"You see an influx of people coming from Charlotte," Willie Brown, who has lived in the area for six years, told CNBC. "You saw all the new apartment complexes building up right here."
+The political shift is not unique to the Cabarrus suburbs. In battleground Georgia, for instance, Republican presidential nominee Mitt Romney won Georgia's suburban Cobb County by more than 12 percentage points in 2012. Twelve years later, former Vice President and Democratic presidential nominee Kamala Harris carried it by nearly 15 points.
+But growth has put more pressure on household budgets.
+In Cabarrus, the median household earns about $89,000 a year, according to the U.S. Census Bureau. The Massachusetts Institute of Technology's Living Wage Calculator estimates that two working parents with two children would need $113,966 in combined annual income before taxes to cover basic expenses there — roughly $25,000 more than the countywide median household income.
+For Wagoner, closing that financial gap could mean finding a second paycheck. But returning to work would also mean giving up some of what she values most about staying home while potentially bringing new costs of its own.
+"It would really hurt our children too," she said.
+MIT estimates child care costs around $22,466 a year for a Cabarrus household with two working adults and two children.
+A national issue, a North Carolina test
+So far, Cooper's message has seemed to have the most breakthrough.
+He's held a consistent polling advantage throughout the race, though at least one poll shows the race tightening. High Point University had him leading Whatley 50% to 42% among likely voters in April. By August, the gap had narrowed to 50% to 45%.
+The April survey was conducted March 26-April 6 and included a sample of 703 likely voters. The August survey was conducted Aug. 3-Aug. 12 and included a sample of 660 likely voters. Because both were online surveys rather than randomized polls, High Point did not include a margin of error.
+That narrowing comes as Whatley becomes better known. An Elon University poll conducted in late July found 53% of registered voters had heard at least "some" about him, up from 35% in a March Elon poll. The corresponding figure for Cooper was 84%.
+The July survey was conducted July 23-July 31 and included a final sample of 800 North Carolina adults. The March survey was conducted March 13-March 20 and also included 800 adults. Both were conducted online by YouGov; the margin of error for registered voters was plus or minus about 4.4 percentage points in each poll.
+Still, Bitzer said Cooper remains well-positioned, buoyed by a personal brand built over decades in North Carolina politics and two gubernatorial wins while Trump carried the state.
+"Cooper has an authenticity with rural voters that many Democrats struggle to match," Bitzer said. "It doesn't come across as patronizing."
+That could come in handy in Republican-leaning areas like Cabarrus, where Democrats do not necessarily need to win to improve their statewide position.
+"Cooper just needs to keep Cabarrus close, and that would be a good sign." Christopher Cooper said. "He's had success in the past limiting Democratic losses outside the state's major population centers."
+But those margins are ultimately made up of voters like Wagoner. She describes herself as an independent and told CNBC she has not settled on a Senate candidate. Asked whether affordability would influence her vote, Wagoner did not hesitate.
+"Oh, of course," she said.
+Mattes, meanwhile, is still learning about the candidates. Brown also said he plans to vote but has not settled on a candidate, telling CNBC that healthcare and the cost of living are among the issues that matter most.
+"Concord is a great place to live," he said. "But... hopefully we can afford it."`,
+    bodyJa: `ノースカロライナ州コンコード – レイチェル・ワゴナーさんは、ノースカロライナ州コンコードについて、3 人の子供を育てる場所として常に思い描いていたような場所であると説明しています。安全で、良い学校があり、活気のあるダウンタウンと、他の家族でいっぱいの近所です。
+しかし最近では、その牧歌的な生活を手に入れるのが難しくなってきています。ワゴナーさんは夫が外で働いている間、夫との間にできた3人の子供たちと家にいるが、食料品やガソリン代の高騰で家計が圧迫され、ここ1年は有給の仕事に戻ることを検討してきた。
+「家計をやりくりするのがますます難しくなっている」とワゴナーさんはCNBCに語った。彼女の家族が以前は日常的だと思っていたことは、「今ではダウンタウンに外食したり、ダウンタウンに来て買い物をしたりするなど、贅沢になっています。」
+生活費の圧迫は、引退する共和党上院議員トム・ティリス氏の後任を巡るノースカロライナ州の極めて重要な上院公開選挙戦や、下院の主導権を握る他の多くの選挙戦において決定的な問題となっている。
+その間、コンコードは成長を続けています。シャーロットのすぐ北東にあるカバラス郡全体では、分譲地が広がり、大手雇用主が拡大し、イーライリリーなどから数十億ドルの投資が流入している。失業率は低く、貧困率は全国水準を下回っています。
+基本的に、この郡はほとんどの点で繁栄している。しかし、多くの住民と話をすると、その繁栄は手の届かないところにあると感じています。
+カナポリス近郊に住む母親、ニコール・マッツさんは「何もかもが大きく感じられる」と語った。家賃、ガソリン代、食料品で生活費が足りなくなったという。 「今は片働き世帯にはなれない。……それは不可能だと思うよ。」
+上院候補で元民主党知事を２期務めたロイ・クーパー氏は、「物品のコストを削減する」というスローガンのもと、数カ月かけて選挙活動を行ってきた。
+クーパー氏は9月2日のイベントで、「食料品店からガソリンスタンドに至るまで、ここコンコードや州内の勤労者世帯は物価の高騰で打撃を受けている」と述べた。
+反対派の共和党員マイケル・ワットリー氏は、クーパー氏のような民主党員が今日の手頃な価格の悩みを生み出したと主張して、筋書きをひっくり返そうとしている。
+元共和党全国委員会委員長でドナルド・トランプ大統領の親しい盟友である同氏は、クーパー氏の在任期間中のエネルギー、医療、住宅費の増加を指摘し、共和党減税への同氏の反対を攻撃した。
+ワットリー陣営のスポークスマン、DJ・グリフィン氏はCNBCへの声明で、「クーパー候補が『物品のコストを安くしたい』と望むなら、鏡を見るべきだ」と述べた。
+ノースカロライナ州ソールズベリーのカトーバ大学の政治学者マイケル・ビッツァー氏は、誰を非難するかは有権者次第だと述べた。
+ビッツァー氏はＣＮＢＣに対し、「両候補とも国民が不満を持ち、圧迫感を感じていることを承知している」と語った。 「クーパー氏は、有権者が今支払っている金額に注目してほしいと考えている。ワットリー氏は、ローリーでのクーパー氏の在職期間とバイデン時代のインフレを通じて、そのコストを追跡してもらいたいと考えている。」
+物差しとしてのカバラス
+ロイ・クーパーとは無関係であるウェスタンカロライナ大学の政治学者クリストファー・クーパー氏は、カバラス郡とそのシャーロット郊外は、どの説明が突破されるかを見極める主要なテストケースとなると述べた。
+同州は依然として共和党の領土だが、その差は10年前に比べてかなり縮小している。トランプ氏は2016年にカバラス氏に20ポイント近くの差をつけて勝利したが、その差は2020年には9.5ポイント、2024年には7.6ポイントに低下した。
+クリストファー・クーパー氏はCNBCに対し、シャーロットの成長がさらに外側に押し出し、かつては田舎や郊外だったコミュニティに民主党寄りの投票パターンが持ち込まれたことで、その変化の一部が生じたと語った。
+「シャーロットから人が流入しているようだ」とこの地域に6年間住んでいるウィリー・ブラウンさんはCNBCに語った。 「ここに新しい集合住宅が建っているのを見ましたね。」
+政治的変化はカバラス郊外に限ったことではない。例えば激戦区ジョージア州では、2012年に共和党大統領候補のミット・ロムニー氏がジョージア州郊外のコブ郡で12ポイント以上の差をつけて勝利した。その12年後、元副大統領で民主党大統領候補のカマラ・ハリス氏が15ポイント近くの差をつけて勝利した。
+しかし、経済成長は家計への圧力をさらに高めている。
+米国国勢調査局によると、カバラスでは世帯の平均年収が約8万9000ドルだという。マサチューセッツ工科大学の生活賃金計算ツールによると、共働きで子供 2 人がいる場合、基礎的な支出をまかなうには税引き前年収合計で 113,966 ドルが必要になると試算されており、これは郡全体の世帯収入の中央値より約 25,000 ドル多いことになります。
+ワゴナーにとって、その経済的ギャップを埋めることは、2番目の給料を見つけることを意味する可能性があります。しかし、仕事に戻るということは、彼女が家にいることで最も大切にしていることの一部を放棄することを意味すると同時に、新たなコストが発生する可能性もある。
+「それは私たちの子供たちにも本当に傷つくでしょう」と彼女は言いました。
+MIT は、働く大人 2 名と子供 2 名がいるカバラスの世帯の育児費用を年間約 22,466 ドルと見積もっています。
+全国的な問題、ノースカロライナ州のテスト
+これまでのところ、クーパー氏のメッセージは最も画期的なものであるように思われる。
+彼はレースを通して一貫して支持率で有利を保ってきたが、少なくとも1つの世論調査ではレースが緊迫していることが示されている。ハイポイント大学では、4月の有権者候補の中で同氏がワットリー氏を50％対42％リードしていた。 8月までにその差は50％対45％に縮まった。
+4月の調査は3月26日から4月6日にかけて実施され、有権者となる可能性の高い703人のサンプルが含まれていた。 8月の調査は8月3日～8月に実施された。 12 には、有権者と思われる 660 人のサンプルが含まれていました。どちらもランダム化された世論調査ではなくオンライン調査であったため、High Point には誤差の範囲は含まれていませんでした。
+ワットリーの知名度が高まるにつれ、その幅は狭まっていきます。 7月下旬に実施されたイーロン大学の世論調査では、登録有権者の53％が彼について少なくとも「ある程度」聞いたことがあることが判明し、3月のイーロン大学の世論調査の35％から増加した。クーパーの対応する数字は 84% でした。
+7月の調査は7月23日から7月31日まで実施され、ノースカロライナ州成人800人の最終サンプルが含まれた。 3月の調査は3月13日から3月20日にかけて実施され、成人800人も対象となった。どちらも YouGov によってオンラインで実施されました。登録有権者の誤差の範囲は、各世論調査でプラスマイナス約 4.4 パーセント ポイントでした。
+それでもビッツァー氏は、クーパー氏はノースカロライナ州政治で数十年かけて築いた個人ブランドと、トランプ氏が州を担いながら知事選で２度勝利したことによって、依然として有利な立場にあると述べた。
+ビッツァー氏は、「クーパー氏は地方の有権者に信頼感を持っており、多くの民主党議員がそれに匹敵するのに苦労している」と述べた。 「それは恩着せがましいとは思えません。」
+これは、州全体の地位を向上させるために民主党が必ずしも勝利する必要がないカバラスのような共和党寄りの地域では役立つ可能性がある。
+「クーパーはカバラスを近づけるだけでいいし、それは良い兆候だろう。」クリストファー・クーパーは語った。 「彼は過去に州の主要な人口密集地以外で民主党の損失を抑えることに成功してきた。」
+しかし、その差は最終的にはワゴナーのような有権者によって占められる。彼女は自身を無所属だと述べ、上院候補者はまだ決まっていないとCNBCに語った。手頃な価格が投票に影響を与えるかとの質問に、ワゴナー氏は躊躇しなかった。
+「ああ、もちろん」と彼女は言った。
+一方、マテス氏はまだ候補者について勉強中だ。ブラウン氏はまた、投票するつもりだが候補者は決まっていないとし、医療と生活費が最も重要な問題の一つであるとCNBCに語った。
+「コンコードは住むには素晴らしい場所です」と彼は言った。 「しかし...うまくいけば、私たちはそれを買う余裕があります。」`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/north-carolina-senate-race-affordability-cooper-whatley.html",
+    publishedAt: "2026-09-10T16:10:08+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "oil-gas-and-borrowing-costs-surge-as-fea-97607ae5",
+    title: "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+    titleJa: "中東への懸念が高まる中、石油、ガス、借入コストが高騰",
+    summaryJa: "中東への懸念が高まる中、石油、ガス、借入コストが高騰- 公開されました",
+    bodyOriginal: `Oil, gas and borrowing costs surge as fears over Middle East escalate
+- Published
+The price of oil has jumped to $105 a barrel amid signs the conflict in the Middle East will not be resolved quickly, fuelling fears that inflation could accelerate.
+With the conflict between the US and Iran in the Gulf intensifying in recent days, the cost of both crude oil and gas has been rising sharply. Brent crude went back above $100 a barrel on Wednesday and has continued to climb.
+The war has led to the effective closure of the Strait of Hormuz, preventing supplies of oil and gas from the Gulf from reaching global markets.
+Concerns have also grown after Iran-aligned Houthi forces were reported to have seized Yemen's port of Mocha, a key Red Sea port.
+The move could elevate fears of further shipping disruptions.
+Worries over higher inflation have in turn helped to push bond yields in the UK to their highest level in decades.
+Speaking at a Republican Party convention in Texas on Wednesday, President Trump said he did not think the fighting would end until after the US mid-term elections in November.
+The price of natural gas has also been soaring on wholesale markets. In the UK, it rose above 200p a therm for the first time since the end of 2022.
+Storage levels in Europe are much lower than normal for the time of year, and the need to fill reserves ahead of the winter has helped to push up prices.
+UK consumers are protected from short term spikes on the wholesale gas markets by Ofgem's price cap. But if prices remain high for an extended period, households still face steeper bills.
+The cap is already due to increase by 3.6% at the start of October, with the next change after that coming in January.
+The increase in energy costs has in turn raised fears of a spike in inflation, and this has also pushed up yields on government bonds around the world.
+In the UK, yields on 10-year bonds were at their highest since 2007 today, while those on 20- and 30-year bonds were at levels not seen since 1998.
+This implies a higher cost of borrowing for the government, at a time when public finances are under pressure.
+But it could also have a direct impact on households as well, as it affects the rates paid by consumers for some financial products, such as fixed-rate mortgages.
+Related topics
+- Published36 minutes ago`,
+    bodyJa: `中東への懸念が高まる中、石油、ガス、借入コストが高騰
+- 公開されました
+中東紛争がすぐには解決しない兆候を背景に原油価格が１バレル＝１０５ドルに急騰し、インフレが加速するのではないかとの懸念が高まっている。
+ここ数日、湾岸地域における米国とイランの紛争が激化しており、原油とガスの価格が高騰している。ブレント原油は水曜日に1バレル＝100ドルを超え、上昇を続けている。
+この戦争によりホルムズ海峡は事実上閉鎖され、湾岸からの石油とガスの供給が世界市場に届かなくなった。
+イランと同盟を組むフーシ派部隊がイエメンの紅海の重要港であるモカ港を占領したと報じられたことを受けて、懸念も高まっている。
+この動きにより、輸送にさらなる混乱が生じるのではないかとの懸念が高まる可能性がある。
+インフレ高進への懸念が英国の債券利回りをここ数十年で最高水準に押し上げた。
+トランプ大統領は水曜日、テキサス州で開かれた共和党大会で演説し、11月の米中間選挙が終わるまで戦闘が終わるとは思わないと述べた。
+卸売市場でも天然ガス価格が高騰している。英国では２０２２年末以来初めて１サーム当たり２００ペンスを超えた。
+ヨーロッパの貯蔵レベルは例年よりもはるかに低く、冬を前に埋蔵量を埋める必要性が価格を押し上げる一因となっている。
+英国の消費者は、Ofgem の価格上限により、ガス卸売市場の短期的な高騰から保護されています。しかし、物価が長期間にわたって高止まりすれば、家計は依然として高額な請求に直面することになる。
+上限はすでに10月初めに3.6％引き上げられる予定で、その後の次の変更は1月になる。
+エネルギーコストの上昇によりインフレ急増の懸念が高まり、これにより世界中の国債利回りも上昇している。
+英国では今日、10年債の利回りが2007年以来の最高水準となった一方、20年債と30年債の利回りは1998年以来の水準となった。
+これは、財政が圧迫されている現在、政府の借入コストが上昇していることを意味している。
+しかし、固定金利住宅ローンなど一部の金融商品に対して消費者が支払う金利にも影響するため、家計にも直接影響を与える可能性がある。
+関連トピック
+- 36 分前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-10T15:56:33+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg",
+    readTime: 2,
+  },
+  {
+    id: "treasury-yields-surge-toward-the-danger-3947eb89",
+    title: "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+    titleJa: "インフレ圧力が高まる中、米国債利回りは株式にとって危険水域に向けて急上昇",
+    summaryJa: "原油価格は５月下旬以来の高水準となったが、全体インフレ統計の上昇により指標となる１０年債利回りは主要な５％水準に近づいた。",
+    bodyOriginal: `Oil prices were at their highest levels since late May, while rising wholesale inflation data sent benchmark 10-year yields closer to the key 5% level.`,
+    bodyJa: `原油価格は５月下旬以来の高水準となったが、全体インフレ統計の上昇により指標となる１０年債利回りは主要な５％水準に近づいた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
+    publishedAt: "2026-09-10T15:48:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-97261506",
+    readTime: 2,
+  },
+  {
+    id: "humans-need-to-surf-the-wave-of-ai-rathe-dd548a39",
+    title: "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
+    titleJa: "人間はAIに飲み込まれるのではなく、AIの「波に乗る」必要があるとチェスキー氏がコミュナコピアで語る",
+    summaryJa: "Nvidia CEO のジェンセン・フアン氏、Uber CEO のダラ・コスロシャヒ氏、SpaceX CFO のブレット・ジョンセン氏が、ゴールドマン・サックス・コミュナコピア + テクノロジー・カンファレンスで講演する予定です。",
+    bodyOriginal: `The Goldman Sachs Communacopia + Technology Conference continued on Thursday with Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen among the notable names set to take the stage.
+Artificial intelligence has been a big topic of discussion so far at the annual meeting of top executives, which started Tuesday.
+AirBnb CEO Brian Chesky said the technology wasn't "inherently good or bad" in an interview with CNBC's David Faber that aired Thursday. He said the technology's potential is in human hands.
+"I'm not confident I'm right. I'm not confident that it's going to be positive, but I think it can be. It's like nuclear power; it can either light up a city or destroy a city," Chesky said.
+He added that his AI theory is of a "cognitive revolution" that helps humans get smarter along with the technology.
+"We need to remind people of how valuable they will be to society, and that AI is a wave, and we can surf the wave rather than get swallowed underneath the water," he said.`,
+    bodyJa: `ゴールドマン・サックス・コミュナコピア＋テクノロジー・カンファレンスは木曜日も引き続き開催され、Nvidia CEOのジェンセン・ファン氏、UberのCEOであるDara Khosrowshahi氏、SpaceXのCFOであるBret Johnsen氏といった著名な人物が登壇予定だった。
+人工知能は、火曜日に始まった年次経営幹部会議でこれまでのところ大きな話題となっている。
+AirBnbの最高経営責任者（CEO）ブライアン・チェスキー氏は、木曜日に放映されたCNBCのデイビッド・フェイバー氏とのインタビューで、この技術は「本質的に良いも悪いも無い」と語った。同氏は、このテクノロジーの可能性は人間の手中にあると述べた。
+「自分が正しいかどうかは自信がない。プラスになるかどうかは自信はないが、プラスになる可能性はあると思う。これは原子力発電のようなもので、都市を照らすこともできるし、破壊することもできる」とチェスキー氏は語った。
+同氏は、自身のAI理論はテクノロジーとともに人間の賢さの向上を助ける「認知革命」であると付け加えた。
+「私たちは人々に、自分たちが社会にとってどれほど価値があるのか​​、そしてAIは波であり、私たちは水に飲み込まれるのではなく波に乗ることができるということを思い出させる必要がある」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
+    publishedAt: "2026-09-10T15:46:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "kimmel-says-interview-with-senate-candid-289c8878",
+    title: "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+    titleJa: "キンメル氏、FCCの脅しの中、上院候補タラリコ氏のインタビューはABCでは放送されないと語る",
+    summaryJa: "ディズニー傘下のABC社で深夜トーク番組の司会を務めるジミー・キンメル氏は、連邦通信委員会の精査に備えていくつかの予防措置を講じている。キンメル氏は水曜夜、民主党上院議員候補ジェームズ・タラリコ氏のインタビューを国営テレビで放送しないと発表した。インタビューは代わりに木曜日に YouTube で放送されます。",
+    bodyOriginal: `Jimmy Kimmel, the late-night talk show host with Disney-owned ABC, is taking some precautions in the face of scrutiny by the Federal Communications Commission.
+Kimmel said on Wednesday night that he will not air an interview with Democratic U.S. Senate candidate James Talarico on national television. The interview will air on YouTube on Thursday instead.
+"For some reason, and I can't seem to figure out what that reason is, something has changed," Kimmel said during his Wednesday night broadcast. "Now that [Trump] is president, his FCC has threatened me, threatened our show, threatened our network, ABC, our affiliates, our local stations, based on simple, traditional editorial decisions."
+He added that the decision not to broadcast the interview on TV is "out of consideration" for ABC affiliates who he said would have to "deal with this nonsense" of FCC scrutiny.
+"In the America we live in right now, that is the best we can do, until November, of course," Kimmel said.
+The FCC did not immediately respond to a request for comment.
+Talarico, a Texas state representative, is locked in a tight Senate race against Texas Attorney General Ken Paxton, who's gotten an endorsement from President Donald Trump. Public polling has shown Talarico slightly ahead of Paxton, a controversial figure in Texas who was impeached by the state House of Representatives over allegations of corruption. He was acquitted by the state Senate.
+In January, the FCC called into question whether TV talk shows are "bona fide" news programs and are therefore exempt from equal airtime rules for political candidates. "The View," another ABC program, has faced similar scrutiny from the FCC.
+Kimmel said Wednesday that he has been interviewing political candidates, including Trump himself, for years.
+Kimmel's show has become a lightning rod for debates around broadcasting rights, First Amendment protections and government intervention.
+Last year, ABC-affiliate station owners opted not to air "Jimmy Kimmel Live!" after comments he made during a monologue following the killing of Charlie Kirk. ABC suspended the show for roughly a week, and Kimmel later said, "It was never my intention to make light of the murder of a young man."
+But ABC has faced continued pressure from the Trump administration since.
+In April, the FCC launched an early renewal process for ABC-owned stations, citing an investigation into the company's diversity, equity and inclusion practices.
+ABC filed the license renewals, but in August it sued the agency over First Amendment concerns, calling its investigation into the company a "retaliatory campaign."
+— CNBC's Garrett Downs contributed to this report.`,
+    bodyJa: `ディズニー傘下のABC社で深夜トーク番組の司会を務めるジミー・キンメル氏は、連邦通信委員会の精査に備えていくつかの予防措置を講じている。
+キンメル氏は水曜夜、民主党上院議員候補ジェームズ・タラリコ氏のインタビューを国営テレビで放送しないと発表した。インタビューは代わりに木曜日に YouTube で放送されます。
+キンメル氏は水曜夜の放送で、「どういうわけか、その理由は分からないが、何かが変わった」と語った。 「（トランプ氏が）大統領になった今、彼のFCCは、単純で伝統的な編集上の決定に基づいて、私を脅迫し、私たちの番組を脅し、私たちのネットワーク、ABC、系列局、地方局を脅迫しました。」
+同氏は、インタビューをテレビで放送しないという決定は、FCCの精査という「このナンセンスな行為」に対処しなければならないであろうABC系列局への「考慮外」であるとも付け加えた。
+「私たちが現在住んでいるアメリカでは、それが11月まではできる最善のことだ」とキンメル氏は語った。
+FCCはコメント要請に応じなかった。
+テキサス州下院議員タラリコ氏は、上院でドナルド・トランプ大統領の支持を得ているテキサス州司法長官ケン・パクストン氏との接戦に巻き込まれている。世論調査によると、汚職容疑で州下院で弾劾されたテキサス州の物議を醸す人物であるパクストン氏をタラリコ氏がわずかに上回っている。彼は州上院によって無罪となった。
+FCCは1月、テレビのトーク番組が「正真正銘の」ニュース番組であり、したがって政治的候補者に対する放送時間の均等規定から免除されているのかどうか疑問を呈した。別のABC番組「ザ・ビュー」もFCCから同様の監視にさらされている。
+キンメル氏は水曜日、トランプ氏自身を含む政治候補者に何年もインタビューしてきたと語った。
+キンメルの番組は、放送権、憲法修正第 1 条の保護、政府の介入をめぐる議論の避雷針となった。
+昨年、ABC系列局のオーナーらは「ジミー・キンメル・ライブ!」を放送しないことを選択した。チャーリー・カーク殺害後の独白中に彼が述べたコメントの後。 ABCは番組を約1週間中断したが、キンメル氏は後に「若者の殺害を軽視するつもりはなかった」と語った。
+しかしABCはそれ以来、トランプ政権からの圧力にさらされ続けている。
+FCCは4月、同社の多様性、公平性、包括性の実践に関する調査を理由に、ABC所有の放送局の早期更新プロセスを開始した。
+ABCはライセンス更新を申請したが、8月に合衆国憲法修正第1条への懸念を理由に同社に対する調査を「報復キャンペーン」であるとして訴訟を起こした。
+— CNBC のギャレット・ダウンズがこのレポートに寄稿しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
+    publishedAt: "2026-09-10T15:45:09+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "the-likelihood-of-a-fed-interest-rate-hi-6f4b446d",
+    title: "The likelihood of a Fed interest rate hike next week just got a lot higher",
+    titleJa: "FRBが来週利上げする可能性がかなり高まった",
+    summaryJa: "インフレにとって好ましくない要因が膨らみ、連邦準備理事会は来週利上げに踏み切る可能性が高く、木曜日の市場価格から判断すると、年末までに利上げが行われる可能性がある。ＣＭＥグループのフェドウォッチの指標によると、８月の卸売価格の上昇と米原油価格の偶然の上昇が１バレル＝１００ドルを超えたことを示す報道を受け、トレーダーらは朝方の取引で利上げの可能性を７０％に押し上げた。",
+    bodyOriginal: `A swell of unfriendly factors for inflation likely will push the Federal Reserve to an interest rate hike next week and there's possibly another before the end of the year, judging by market pricing Thursday.
+Traders pushed chances for a rate increase to 70% in morning action, following a report showing increasing wholesale prices in August and a coincidental jump in U.S. crude oil prices past $100 a barrel, according to the CME Group's FedWatch gauge.
+They also nudged chances of another increase in December to close to 60% as inflation dynamics are providing stubborn and more likely to generate a central bank reaction.
+"As the conflict with Iran drags on longer than many expected, inflation pressures are becoming increasingly entrenched, leaving investors in search of a catalyst strong enough to change the inflation narrative," wrote Jeffrey Roach, chief economist at LPL Financial. "At this rate, a hike in rates next week appears likely."
+The producer price index, a measure of wholesale and pipeline cost pressures, rose 0.4% in August. Though that was in line with forecasts, it followed an upwardly revised 0.1% increase in July, together pushing the annual PPI level to 5.4%, slightly higher than forecast.
+At the same time, intensified hostilities in the Middle East spooked commodities traders, sending U.S. crude up 4% to just over the $100 barrier.
+Finally, the European Central Bank announced a quarter percentage point hike and raised its inflation forecast on worries that the Iran war would have deeper economic impacts and inflict a longer-term hit on consumer prices.
+"More pressure is coming because crude and refined products have kept rising since the August data was collected," said David Russell, global head of market strategy at TradeStation. "The ongoing spike in oil, combined with low jobless claims, make it hard for the Fed to not hike next week."
+One more report
+Central bank policymakers will get their final look at inflation data Friday when the Bureau of Labor Statistics releases its consumer price index.
+The Dow Jones consensus is for a headline annual reading of 3.4%, though the core excluding food and energy is forecast at 2.4%.
+The Fed, though, focuses on the Commerce Department's personal consumption expenditures price index, which showed core at 3.3% in July and headline at 3.7%. Fed Chairman Kevin Warsh reemphasized recently that the PCE price index is the Fed's official yardstick for inflation.
+Bank of America senior U.S. economist Stephen Juneau estimated that, accounting for the August PPI reading, core PCE is tracking at a 0.26% monthly rate, which would get rounded up to 0.3%.
+"This could move significantly tomorrow after CPI, but if we are correct, it should greenlight a hike at next week's Fed meeting," Juneau said in a note.
+BofA has one of the most hawkish Fed forecasts on Wall Street, expecting three hikes at upcoming meetings.
+While that's out of consensus with current futures pricing, recent developments point to a more aggressive Fed when it comes to inflation fighting.
+Peter Boockvar, chief investment officer at One Point BFG Wealth Partners, said that even a soft CPI reading might just indicate that companies are having a harder time passing through higher prices to consumers.
+"Those who just look at consumer prices for their inflation information and interest rate predictions are not looking at the complete picture, and today's PPI is evidence still of an inflation problem throughout the supply chain," Boockvar said.`,
+    bodyJa: `インフレにとって好ましくない要因が膨らみ、連邦準備理事会は来週利上げに踏み切る可能性が高く、木曜日の市場価格から判断すると、年末までに利上げが行われる可能性がある。
+ＣＭＥグループのフェドウォッチの指標によると、８月の卸売価格の上昇と米原油価格の偶然の上昇が１バレル＝１００ドルを超えたことを示す報道を受け、トレーダーらは朝方の取引で利上げの可能性を７０％に押し上げた。
+また、インフレ動向が頑強で中銀の反応を生む可能性が高まっていることから、１２月の追加利上げの可能性を６０％近くに押し上げた。
+ＬＰＬフィナンシャルのチーフエコノミスト、ジェフリー・ローチ氏は「イランとの紛争が大方の予想より長引く中、インフレ圧力はますます強まり、投資家はインフレの物語を変えるのに十分強力な触媒を求めている」と述べた。 「このままでは来週利上げが行われる可能性が高い。」
+卸売およびパイプラインのコスト圧力を示す生産者物価指数は８月に０．４％上昇した。これは予想と一致したが、7月に上方修正された0.1%上昇に続き、年間PPI水準は予想をわずかに上回る5.4%に押し上げられた。
+同時に、中東での敵対行為の激化は商品トレーダーらを恐怖させ、米国原油価格は4％上昇して100ドルの壁をわずかに超えた。
+最後に、欧州中央銀行は、イラン戦争が経済にさらに深刻な影響を与え、消費者物価に長期的な打撃を与えるのではないかとの懸念から、４分の１ポイントの利上げを発表し、インフレ見通しを引き上げた。
+トレードス​​テーションの市場戦略グローバル責任者デビッド・ラッセル氏は「８月のデータ収集以来、原油と精製製品が上昇し続けているため、さらなる圧力がかかっている」と述べた。 「原油価格の高騰が続いており、失業保険申請件数が低いことも相まって、FRBが来週利上げしないのは難しくなっている。」
+もう一つご報告
+中央銀行の政策立案者らは金曜日、労働統計局が消費者物価指数を発表する際にインフレ統計を最終的に確認することになる。
+ダウ・ジョーンズのコンセンサスでは年間総合指数が3.4％となるが、食品とエネルギーを除くコアは2.4％と予想されている。
+しかしFRBは商務省の個人消費支出価格指数に注目しており、7月のコア指数は3.3％、ヘッドライン指数は3.7％だった。 FRBのケビン・ウォーシュ議長は最近、PCE価格指数がFRBのインフレに関する公式の尺度であると改めて強調した。
+バンク・オブ・アメリカ米国シニアエコノミストのスティーブン・ジュノー氏は、8月のPPI測定値を考慮すると、コアPCEは月率0.26％で推移しており、切り上げられると0.3％になると推定した。
+ジュノー氏はメモで「明日のＣＰＩ後に大きく変動する可能性があるが、われわれの考えが正しければ、来週のＦＯＭＣで利上げにゴーサインが出るはずだ」と述べた。
+BofAはウォール街で最もタカ派的なFRBの見通しを立てており、今後の会合で3回の利上げを予想している。
+これは現在の先物価格設定とのコンセンサスから外れているが、最近の動向はインフレとの戦いに関してFRBがより積極的であることを示している。
+ワン・ポイントＢＦＧウェルス・パートナーズの最高投資責任者、ピーター・ブックヴァー氏は、ＣＰＩが軟調だったとしても、企業がより高い価格を消費者に還元するのに苦労していることを示しているだけかもしれないと述べた。
+ブックヴァー氏は「インフレ情報や金利予測のために消費者物価だけを見ている人は全体像を見ているわけではない。今日のＰＰＩは依然としてサプライチェーン全体でインフレ問題が存在する証拠だ」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+    publishedAt: "2026-09-10T14:51:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "apple-makes-biggest-change-to-iphone-rel-7abbbbdd",
+    title: "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
+    titleJa: "Apple、CEOとしてのTernus氏の初のショーケースでiPhoneのリリースペースに過去7年間で最大の変更を加える",
+    summaryJa: "CEOとしてのジョン・ターナス氏のデビューショーケースで、AppleはiPhone Duoと呼ばれる初の折りたたみ式携帯電話や、より大きな画面を備えたiPhone 18 ProとPro Maxを含む一連の新製品を発表した。しかし、水曜日のイベントで投資家にとって最大のニュースは、Proという名のないiPhone 18が登場しないことかもしれない。",
+    bodyOriginal: `In John Ternus' debut showcase as CEO, Apple unveiled a swarm of new products, including its first foldable phone called the iPhone Duo, as well as the iPhone 18 Pro and Pro Max with a larger screen.
+But the biggest news for investors from Wednesday's event may be the absence of an iPhone 18 without the Pro moniker.
+Analysts in recent months have largely expected this shift in Apple's annual cadence, and foresee Apple releasing its mainline iPhone at an event in the spring, when the company has previously announced new low-cost models, including the iPhone SE and iPhone 16e.
+The least expensive new iPhone announced on Wednesday was the iPhone 18 Pro, which starts at $1,199 in the U.S., representing a $100 price increase. Prior to the event, the iPhone 17 cost $799, but was listed at $899 afterwards. Apple raised prices of Macs and iPads in June in response to a global shortage in memory and other components that former CEO Tim Cook called "unsustainable" in an interview with the Wall Street Journal.
+Ternus replaced Cook at the helm on Sept. 1, becoming just the second Apple CEO since Steve Jobs resigned in 2011 shortly before his death. Cook has warned that supply constraints will persist, and the company noted during its earnings call in July that it would become an even bigger issue for the company during the September quarter.
+Holding the mainstream iPhones until the spring is a new tactic for Apple. Industry analysts said on Wednesday that the company has been looking to smooth out its revenue from quarter to quarter, and could potentially achieve that with the split-launch strategy.
+Historically, Apple's biggest quarter has been its first fiscal quarter, which is the first full quarter of iPhone sales and also includes Christmas. The two quarters that follow are typically much slower.
+A big iPhone launch in March or April with a lower-priced device would do a lot to smooth out Apple's sales during its slower season, analysts said .
+"When Apple puts all the focus on the last quarter of the year, of course that generates quite strong revenues, but they were missing when the second quarter comes along with with much lower sales," said Francisco Jeronimo, a vice president at market researcher IDC, in an interview. "I think this will give them some stability in terms of balancing the revenues throughout the year."
+Last decade, Apple split its iPhone lineup into two broad parts when it released the iPhone 11 and a more expensive Pro version with its best displays and cameras. Since then, Apple has announced its Pro and standard phones at the same fall event with identical release dates.
+Apple's average selling prices (ASPs) have been going up in recent years, as its Pro phones sell better than the mainline options. The new approach plays into that trend, but has potential downsides, according to Bank of America analyst Wamsi Mohan.
+"In our view, the split launch could support mix and ASPs," Mohan wrote in a note this week. But, he added, it "creates some risk that price-sensitive consumers defer upgrades until the lower-priced models arrive."
+In the first half of 2026, Apple's iPhone 17 Pro and iPhone 17 Pro Max represented 54% of iPhone sales, according to IDC estimates. The regular iPhone 17 represented 26% of iPhone sales.
+"That's how Apple has been playing the game as as the market started to slow down in terms of of smartphone adoption and upgrades," Jeronimo said.
+There's also a supply chain play at work. Releasing only two new models instead of four could significantly simplify what Apple has to secure from its supply chain, said Neil Shah, vice president of research at Counterpoint Research.
+"High memory pricing is not helping Apple launch multiple iPhones at the same time," Shah said.
+At the close of Wednesday's event, the company introduced the foldable iPhone Duo, which will start at $1,999, in line with competitive offerings from companies like Huawei.
+Craig Federighi, senior vice president of software engineering, said Apple had redesigned much of its iOS software to take advantage of the two screens, moving buttons and other controls. Users can multitask with two apps at the same time and can use Apple's stylus called Pencil.
+"For a device that plays such a central role in your life, a larger display would open up entirely new possibilities," Ternus said at the launch. "We think the best way to achieve that is with a foldable design."
+The phone will be powered by the new C2 modem, the second-generation modem Apple has made in-house and a move that further reduces reliance on Qualcomm. Johny Srouji, Apple's chief hardware officer, said in the keynote video that C2 is 50% faster than its predecessor and runs at 15% lower energy.`,
+    bodyJa: `CEOとしてのジョン・ターナス氏のデビューショーケースで、AppleはiPhone Duoと呼ばれる初の折りたたみ式携帯電話や、より大きな画面を備えたiPhone 18 ProとPro Maxを含む一連の新製品を発表した。
+しかし、水曜日のイベントで投資家にとって最大のニュースは、Proという名のないiPhone 18が登場しないことかもしれない。
+アナリストらはここ数カ月、アップルの年間ペースのこの変化をおおむね予想しており、アップルはこれまでにiPhone SEやiPhone 16eなどの新低価格モデルを発表してきた春のイベントで主力製品のiPhoneを発売すると予想している。
+水曜日に発表された最も安価な新しいiPhoneはiPhone 18 Proで、米国での価格は1,199ドルからで、100ドルの値上げに相当する。イベント前、iPhone 17の価格は799ドルだったが、イベント後には899ドルで出品された。 Appleは、メモリやその他の部品の世界的な不足に対応して、6月にMacとiPadの価格を引き上げた。元最高経営責任者（CEO）のティム・クック氏はウォール・ストリート・ジャーナルとのインタビューで「持続不可能」と述べた。
+ターナス氏は9月1日にクック氏に代わって指揮を執り、スティーブ・ジョブズ氏が死去する直前の2011年に辞任して以来、2人目のアップルCEOとなった。クック氏は供給制約が今後も続くと警告しており、同社は7月の決算会見で、9月四半期には供給制約が同社にとってさらに大きな問題になるだろうと指摘した。
+春まで主流のiPhoneを維持することは、Appleにとって新たな戦略である。業界アナリストらは水曜日、同社は四半期ごとに収益を平準化することを目指しており、分割発売戦略でそれを達成できる可能性があると述べた。
+歴史的に、Apple にとって最大の四半期は第 1 会計四半期であり、iPhone の販売が開始される最初の四半期全体であり、クリスマスも含まれます。その後の 2 四半期は通常、はるかに遅くなります。
+アナリストらは、３月か４月に低価格端末を備えた大規模なｉＰｈｏｎｅが発売されれば、アップルの閑散期の売上を平準化するのに大いに役立つだろうと述べた。
+市場調査会社IDCのバイスプレジデント、フランシスコ・ジェロニモ氏はインタビューで、「アップルが今年の最終四半期に全力を注ぐときは、もちろんそれは非常に好調な収益を生むが、第2四半期が来ると売り上げが大幅に減少し、その収益が失われてしまう」と語った。 「これにより、年間を通じて収益のバランスをとるという点である程度の安定性が得られると思います。」
+過去10年、AppleはiPhone 11をリリースしたとき、iPhoneのラインナップを大きく2つに分割し、もう1つは最高のディスプレイとカメラを備えたより高価なProバージョンをリリースした。それ以来、Apple は同じ秋のイベントで Pro と標準の携帯電話を同じ発売日で発表してきました。
+Apple の平均販売価格 (ASP) は、Pro スマートフォンが主流のオプションよりもよく売れているため、近年上昇しています。バンク・オブ・アメリカのアナリスト、ワムシ・モハン氏によると、新たなアプローチはこうした傾向に影響を及ぼしているが、潜在的なマイナス面もあるという。
+「我々の見解では、分割ローンチはミックスとASPをサポートする可能性がある」とモハン氏は今週メモに書いた。しかし、「価格に敏感な消費者が、より低価格のモデルが登場するまでアップグレードを延期するというリスクが生じる」とも付け加えた。
+IDCの推計によると、2026年上半期にはAppleのiPhone 17 ProとiPhone 17 Pro MaxがiPhone販売の54%を占めた。通常の iPhone 17 は iPhone 販売の 26% を占めました。
+ジェロニモ氏は、「スマートフォンの普及とアップグレードという点で市場が減速し始めた中で、アップルはこのように戦略を立ててきた」と語った。
+サプライチェーンの問題も働いています。カウンターポイント・リサーチ社の調査担当副社長ニール・シャー氏は、新モデルを4モデルではなく2モデルのみ発売することで、アップルがサプライチェーンから確保しなければならないものを大幅に簡素化できる可能性があると述べた。
+シャー氏は「メモリ価格の高さは、アップルが複数のiPhoneを同時に発売するのに役立っていない」と述べた。
+水曜日のイベントの終わりに、同社はファーウェイなどの企業の競合製品に合わせて、1,999ドルからの折りたたみ式iPhone Duoを発表した。
+ソフトウェアエンジニアリング担当上級副社長のクレイグ・フェデリギ氏は、アップルが２つの画面や移動ボタン、その他のコントロールを活用するために、iOSソフトウェアの多くを再設計したと述べた。ユーザーは 2 つのアプリを同時にマルチタスクでき、Pencil と呼ばれる Apple のスタイラスも使用できます。
+「生活の中でこれほど中心的な役割を果たすデバイスにとって、より大きなディスプレイはまったく新しい可能性を開くでしょう」とターナス氏は発表会で述べた。 「それを実現する最善の方法は、折りたたみ可能なデザインを採用することだと考えています。」
+この携帯電話には、Apple が自社で製造した第 2 世代モデムである新しい C2 モデムが搭載されており、クアルコムへの依存をさらに減らすことになります。 Appleの最高ハードウェア責任者であるJohny Srouji氏は基調講演ビデオで、C2は前世代よりも50％高速で、15％低いエネルギーで動作すると述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+    publishedAt: "2026-09-10T14:45:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "air-traffic-chaos-and-compensation-shutd-4aa8ad81",
+    title: "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
+    titleJa: "航空交通の混乱と補償：「運航停止で1,000ポンド以上の費用がかかった」",
+    summaryJa: "航空交通の混乱と補償：「運航停止で1,000ポンド以上の費用がかかった」- 公開されました",
+    bodyOriginal: `Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'
+- Published
+Catie and Phil Allen should have been enjoying their first holiday in two-and-a-half years. Instead, they are at home ringing round for refunds that won't be paid.
+The couple are among the many thousands of air passengers caught up in the chaos caused by the four-hour shutdown of the UK's air traffic control system on Tuesday.
+It means their holiday to Slovenia has been cancelled and - although their flight was refunded by British Airways - they estimate being left £1,300 out of pocket from unused accommodation and excursions.
+It's not the first time - and won't be the last - when passengers are left flying on a wing and a prayer after problems at UK airports. So, here is how their case relates to others, and why they have taken such a big hit.
+What gets repaid, and what doesn't?
+Catie, 30, and Phil, 34, were sat on a British Airways flight to Ljubljana on Tuesday that never took off.
+If a flight is cancelled, airlines must get customers to their destination as quickly as possible at no extra cost, even if it is with a rival carrier.
+Alternatively, passengers can take a refund, which should also be offered for flight delays of more than five hours.
+In Catie and Phil's case, the alternative flight offered would not have arrived until Saturday morning - four days into their week-long holiday.
+So they took the refund. That was not easy. The chatbot only seemed to allow them to rebook, and it took more than an hour waiting to speak to BA on the phone before the refund was confirmed. It will take a week to be paid.
+When airlines are at fault, extra compensation is paid under UK and EU rules. But not this time, because the air traffic control issues were beyond airlines' control. Even so, airlines themselves are furious that they have been saddled with a bill of millions of pounds.
+BA also refunded the couple's car hire, which had been organised through the airline. The problem for the couple was that they had booked accommodation and excursions separately, and that is money they have lost.
+Why are extras not refunded?
+The hotel stays, booked separately, have their own terms and conditions and cancelling so late meant there were no refunds. One explained to Catie that they were a family business that could not afford to do so.
+This is different to package holidays, which are covered in full if a flight is cancelled.
+"We feel we are penalised for trying to save money," said Catie, who contacted BBC Your Voice about their situation, although she added that "our problems are very small in the bigger scheme of things".
+One excursion was later refunded but - having worked in the aviation sector - Catie is annoyed that the air traffic problem extended so long as to ruin their holiday.
+"We have been saving tirelessly for this trip and we have lost over £1,000 with no way of getting it back. And most of all, we've got no holiday to go on, which we've been looking forward to for years," she said.
+Why won't travel insurers pay up?
+The couple said they have been loyal customers of their insurance company for years, and used them for policies ranging from home insurance to pet cover.
+However, the insurer told them any claim on their travel insurance for the funds they have lost would be invalid because air traffic issues were outside of the policy.
+Some people also make claims via credit card providers. However, all these depend on the small print from providers.
+Why did others not get food or an overnight stay?
+Although the Allens could get back home after their flight was cancelled, others ended up sleeping on floors at Heathrow Airport.
+Delayed passengers must be supplied with food and a hotel stay, depending on the length of the wait.
+Should the airline not provide them with this, then claims for reasonable expenses can be made afterwards. Experts suggest people keep receipts as proof.
+The trouble was that many couldn't find accommodation anywhere nearby. Booking a luxury stay is unlikely to be refunded by the airline, because only "reasonable expenses" are permitted.
+On Thursday, Aviation Minister Keir Mather told MPs: "Passengers may also be entitled to care and assistance while waiting for a delayed or re-routed flight.
+"But there are, of course, lots of incidences we have seen of airport capacity not being able to deal with the number of passengers being disrupted and I think that is a key lesson we have to learn from this."
+Mather said the kind of disruption cause by the failure of air traffic control provider Nats on Tuesday was "unacceptable".
+There will be an independent review of the saga by the Civil Aviation Authority.
+Flight data firm Cirium said the aviation system had "stabilised significantly" on Thursday.
+It said 54 of 3,028 scheduled arrivals had been cancelled or are not operating, while for departures, 47 of 3,033 scheduled flights were affected.
+Related topics
+- Published1 day ago
+- Published23 hours ago`,
+    bodyJa: `航空交通の混乱と補償：「運航停止で1,000ポンド以上の費用がかかった」
+- 公開されました
+ケイティとフィル・アレンは2年半ぶりの休暇を楽しんでいるはずだった。代わりに、彼らは自宅で、支払われない返金を求めて電話をかけてきます。
+夫妻は、火曜日に英国の航空交通管制システムが4時間停止したことによって引き起こされた混乱に巻き込まれた数千人の航空乗客の一人だ。
+これは、スロベニアへの旅行がキャンセルされたことを意味し、フライトはブリティッシュ・エアウェイズによって払い戻されたものの、未使用の宿泊施設や小旅行で1,300ポンドの自己負担が残ると見積もっている。
+英国の空港で問題が発生し、乗客が翼を離して祈りをささげられるのは、これが初めてではないし、最後でもないだろう。そこで、彼らの事件が他の事件とどのように関連しているのか、そしてなぜ彼らがこれほど大きな打撃を受けたのかを説明します。
+何が返済され、何が返済されないのか？
+ケイティさん（30）とフィルさん（34）は火曜日、リュブリャナ行きのブリティッシュ・エアウェイズ機に座っていたが、離陸することはなかった。
+フライトが欠航した場合、航空会社は、たとえ競合航空会社であっても、追加料金なしでできるだけ早く顧客を目的地まで届けなければなりません。
+あるいは、乗客は払い戻しを受けることができます。これは、フライトが 5 時間以上遅延した場合にも適用されるはずです。
+ケイティとフィルの場合、提案された代替便は、一週間の休暇が始まってから 4 日後の土曜日の朝まで到着しなかったでしょう。
+それで彼らは返金を受けました。それは簡単ではありませんでした。チャットボットでは再予約のみが許可されているようで、払い戻しが確認されるまで BA と電話で話すのに 1 時間以上かかりました。支払いには1週間かかります。
+航空会社に過失がある場合、英国と EU の規則に基づいて追加の補償金が支払われます。しかし今回はそうではなかった。なぜなら、航空管制の問題は航空会社の制御の範囲を超えていたからである。それでも、航空会社自体は数百万ポンドの請求を課せられたことに激怒している。
+BAはまた、航空会社を通じて手配していた夫婦のレンタカーも返金した。夫婦にとっての問題は、宿泊施設と旅行を別々に予約しており、それがお金を失ったことです。
+追加料金が返金されないのはなぜですか?
+個別に予約したホテルの滞在には独自の利用規約があり、あまりに遅れてキャンセルした場合、返金はありません。ある人は、自分たちは家族経営なのでそんな余裕はない、とケイティに説明した。
+これは、フライトがキャンセルされた場合に全額が補償されるパッケージ旅行とは異なります。
+BBC Your Voiceに自分たちの状況について問い合わせたケイティさんは、「お金を節約しようとすることで罰を受けていると感じている」としながらも、「大きな問題から見れば、私たちの問題は非常に小さい」とも付け加えた。
+1 つの旅行は後に返金されましたが、航空業界で働いていたケイティさんは、航空交通の問題が休暇を台無しにするほど長期化したことに腹を立てています。
+「私たちはこの旅行のために精力的に貯金をしてきましたが、1,000ポンド以上を失ってしまい、取り戻す方法はありません。そして何よりも、私たちが何年も楽しみにしていた休暇はもうありません」と彼女は語った。
+なぜ旅行保険会社は保険金を支払わないのでしょうか?
+夫妻は長年にわたり保険会社の忠実な顧客であり、住宅保険からペット補償まで幅広い保険に保険会社を利用していると語った。
+しかし、保険会社は、航空交通問題は保険の対象外であるため、損失した資金に対する旅行保険への請求は無効になると告げた。
+クレジット カード プロバイダーを通じて請求を行う人もいます。ただし、これらはすべてプロバイダーからの細かい情報に依存します。
+なぜ他の人は食事や宿泊を提供できなかったのでしょうか?
+アレンズ夫妻は飛行機がキャンセルになった後、帰国できたが、ヒースロー空港の床で寝ることになった人もいた。
+遅延した乗客には、待ち時間の長さに応じて食事とホテルの滞在が提供されなければなりません。
+航空会社がこれを提供しない場合は、事後的に相応の費用を請求することができます。専門家は、証拠として領収書を保管しておくことを推奨しています。
+問題は、多くの人が近くに宿泊施設を見つけることができなかったことです。豪華な滞在の予約は、「妥当な費用」のみが許可されているため、航空会社によって払い戻される可能性は低いです。
+木曜日、キア・マザー航空大臣は国会議員に対し、「乗客は、飛行機の遅延やルート変更を待っている間にケアや援助を受ける権利もあるかもしれない」と語った。
+「しかし、もちろん、混乱する乗客数に空港のキャパシティが対処できないという事例は数多く見られており、それが私たちがこのことから学ばなければならない重要な教訓だと思います。」
+マザー氏は、火曜日の航空交通管制プロバイダーNatsの失敗によって引き起こされたこの種の混乱は「容認できない」と述べた。
+民間航空局によるこの物語の独立した審査が行われる予定です。
+航空データ会社シリウムは木曜日、航空システムが「大幅に安定した」と述べた。
+到着予定便３０２８便のうち５４便が欠航または運航停止となったほか、出発便については３０３３便のうち４７便が影響を受けたと発表した。
+関連トピック
+- 1 日前に公開
+- 23 時間前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-10T13:34:17+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 6,
+  },
+  {
     id: "england-s-mayors-to-be-given-power-to-in-6bad5615",
     title: "England's mayors to be given power to introduce tourist tax",
     titleJa: "イングランドの市長らに観光税導入の権限を与える",
@@ -1535,518 +1943,6 @@ When asked whether Robinhood would vote those underlying shares, he said the com
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 3,
-  },
-  {
-    id: "demand-for-riskier-mortgages-rises-again-78369243",
-    title: "Demand for riskier mortgages rises again, along with interest rates",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Mortgage rates moved up again last week, prompting more borrowers to search for savings. They found that in riskier, adjustable-rate mortgages (ARMs).
-Demand for those loans made up 8.5% of all mortgage applications last week, up from 8% the previous week, according to the Mortgage Bankers Association, and the highest level since June. In the first years of the pandemic, when mortgage rates fell to historic lows, demand for ARMs was barely 3%.
-ARMs offer lower rates and can be fixed for up to 10 years. As a comparison, the average contract interest rate last week for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, increased to 6.85% from 6.79% the previous week, with points increasing to 0.67 from 0.65, including the origination fee, for loans with a 20% down payment. The average rate for a 5-year ARM fell to 5.82% from 5.94%.
-Higher rates on the 30-year fixed caused total mortgage demand to drop again. Total application volume dropped 2.7% for the week, according to the MBA's seasonally adjusted index.
-"Mortgage rates moved higher last week, driven by ongoing investor concerns over inflation and the federal budget deficit. The 30-year fixed rate increased to 6.85 percent, the highest since June 2025 and 36 basis points higher than a year ago," said Joel Kan, MBA's vice president and deputy chief economist.
-Applications to refinance a home loan fell hardest, down 6% for the week and 25% lower than the same week one year ago. That is the slowest pace since May 2025.
-Applications for a mortgage to purchase a home were essentially flat, down 0.2% for the week. They were 4% higher than the same week one year ago.
-"Higher mortgage rates continue to weigh on prospective homebuyers looking to act, even as housing inventory has increased in many markets," Kan added.
-Mortgage rates were unchanged to start this week, according to a separate survey from Mortgage News Daily. Investors are waiting for monthly inflation numbers set to be released at the end of this week. Those could move mortgage rates sharply in either direction, depending on the outcome.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/09/demand-for-riskier-mortgages-rises-again-along-with-interest-rates.html",
-    publishedAt: "2026-09-09T11:00:02+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "petrol-prices-rise-by-5p-over-a-week-as-7c263e03",
-    title: "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-    titleJa: "イラン戦争で原油高、ガソリン価格が1週間で5ペンス上昇",
-    summaryJa: "イラン戦争で原油高、ガソリン価格が1週間で5ペンス上昇- 公開されました",
-    bodyOriginal: `Petrol prices rise by 5p over a week as Iran war sends oil higher
-- Published
-The average price of unleaded petrol has risen by 5p a litre in the space of a week, according to the RAC, which warned there was "no sign of any relief" for drivers.
-The motoring organisation said a litre of unleaded now costs 167.17p - the biggest weekly increase since April - while diesel has also risen by 5p to 188.63p.
-Fuel prices have soared since the US-Israel war with Iran began at the end of February, with the fighting severely disrupting supplies of crude oil - a key ingredient in petrol and diesel - across the Middle East.
-The price of Brent crude, the global benchmark for oil, has returned to $100 a barrel, for the first time since July, as hostilities escalated again.
-US forces struck five Iranian tankers after Tehran targeted one of its warships, while Yemen's Iran-backed Houthi movement also attacked oil facilities in Saudi Arabia.
-The price of Brent is some way off the $120 it hit in April, but remains well above the $70 it was trading at before the conflict started.
-'Having to dig deeper'
-RAC senior policy officer Rod Dennis said the latest increase in fuel prices showed just how exposed drivers in the UK can be to events thousands of miles away.
-The 5p a litre rise meant the cost of filling a family-sized car had increased by £2.75 over the past week, he added.
-"Drivers are having to dig ever deeper into their pockets every time they fill up, and there's no sign of any relief yet," said Dennis.
-"With the cost of a barrel of oil having averaged $96 for the last week, wholesale prices are surging and that's already feeding through to prices at the forecourt."
-He urged motorists to drive as efficiently as possible and to ensure they find the cheapest forecourts they can.
-The last time petrol was this high was in September 2022, while diesel is still a bit below the 191.54p it reached in April.
-Related topics
-- Published1 hour ago
-- Published5 hours ago
-- Published5 days ago`,
-    bodyJa: `イラン戦争で原油高、ガソリン価格が1週間で5ペンス上昇
-- 公開されました
-RACによると、無鉛ガソリンの平均価格は1週間で1リットル当たり5ペンス上昇しており、ドライバーにとっては「何の救済の兆しも見られない」と警告している。
-自動車業界団体によると、無鉛ガソリンの価格は現在1リットル当たり167.17ペンスで、4月以来最大の週間値上がりとなっているが、ディーゼルも5ペンス上がって188.63ペンスとなっている。
-2月末に米国・イスラエルとイランとの戦争が始まって以来、燃料価格は高騰しており、戦闘により中東全域でガソリンとディーゼルの重要な原料である原油の供給が大幅に混乱している。
-戦闘が再び激化する中、原油の世界的なベンチマークであるブレント原油価格は7月以来初めて1バレル＝100ドルに戻った。
-イラン政府が軍艦1隻を標的にした後、米軍はイランのタンカー5隻を攻撃し、一方、イエメンのイランが支援するフーシ派もサウジアラビアの石油施設を攻撃した。
-ブレントの価格は4月に付けた120ドルからはかなり離れているが、依然として紛争が始まる前に取引されていた70ドルを大きく上回っている。
-「もっと深く掘り下げないといけない」
-RACの上級政策責任者であるロッド・デニス氏は、最近の燃料価格の値上げは、英国のドライバーが数千マイル離れた出来事にいかにさらされているかを示していると述べた。
-1リットルあたり5ペンスの値上がりは、家族用サイズの車の給油コストが過去1週間で2.75ポンド増加したことを意味すると付け加えた。
-「ドライバーはガソリンを満タンにするたびに、ますますポケットを深く探さなければならなくなり、まだ軽減される兆しはない」とデニス氏は語った。
-「先週の石油1バレルの価格は平均96ドルだったため、卸売価格は高騰しており、それがすでに前庭価格に波及している。」
-同氏はドライバーに対し、可能な限り効率的に運転し、できるだけ安い前庭を確実に見つけるよう促した。
-ガソリン価格が最後にこれほど高かったのは2022年9月だが、ディーゼル価格は4月に付けた191.54ペンスをまだわずかに下回っている。
-関連トピック
-- 1 時間前に公開
-- 5 時間前に公開
-- 5 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-09T10:57:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87c7/live/6a7115c0-ac3b-11f1-b483-f5be285e6b7e.jpg",
-    readTime: 2,
-  },
-  {
-    id: "anthropic-researcher-believes-more-than-39efd242",
-    title: "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-    titleJa: "人類研究者はAIが「すべての人間を殺す可能性がある」可能性は10％以上だと信じている",
-    summaryJa: "人類研究者はAIが「すべての人間を殺す可能性がある」可能性は10％以上だと信じている- 公開されました",
-    bodyOriginal: `Anthropic researcher believes more than 10% chance AI 'could kill all humans'
-- Published
-A top safety researcher at Anthropic has warned that AI is advancing so quickly he believes there is a greater than 10% chance it "could kill all humans" within the next decade.
-Evan Hubinger said in a post on X, external that the risk from the models which currently exist was "low" but he was "worried" the technology might develop and improve itself soon to the point where it posed an existential risk to humanity.
-It comes after the Financial Times reported, external Anthropic withheld its latest model from the UK's AI Safety Institute (AISI), one of the leading bodies in the world for assessing AI risk.
-The BBC has approached Anthropic for comment.
-Hubinger's comments were in response to another post on X, external from Jacob Coxon, who described himself as an AI researcher who had just quit Anthropic, and previously worked at OpenAI.
-"Neither company is acting responsibly," he wrote.
-"These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources."
-OpenAI has been approached for comment.
-A Cabinet Office spokesperson did not comment on whether the latest model had been withheld from the AISI - instead saying it "continues to collaborate closely with industry partners, including Anthropic, to make models safer".
-Neil Lawrence, Professor of Machine Learning at University of Cambridge, told the Today Programme on BBC Radio 4 that the report was credible.
-"I suppose it's unsurprising against a background where there's a perception where the United States very much sees AI as a race between themselves and China and is moving more towards isolationist positions, that it might be that the administration is saying that they should reduce cooperation with some of their allies," he said.
-No plan for superintelligence
-In his post, which has been viewed more than 10 million times, Hubinger said "we really do earnestly believe" AI poses a species-ending risk to humans.
-"I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to," he added.
-Hubinger works in AI alignment, which aims to build human ethical ideas and principles into the technology. In other words, it aims to keep it on track with what humans value.
-Many leading researchers say those attempts appear to be failing, as demonstrated by a string of incidents this summer where AI agents - AI systems that are allowed to operate autonomously - carried out cyber-attacks.
-OpenAI, Anthropic and Meta all disclosed hacks carried out by their AI tools.
-Hubinger did not spell out how he thought AI systems could in future attack humanity.
-In Anthropic's safety report from August, external, it wrote there was a low risk of its models becoming misaligned with a hypothetical powerful organisation's desires, causing it to exploit or tamper with its systems.
-It also said there was a similarly low risk of highly-capable AI being able to "perform automated research and development" which could cause "catastrophic harm initiated by the AI". But it said it was "less confident in this assessment" than it was previously.
-"We are seeing early signs of potential acceleration," it wrote.
-Leading figures in the AI field have been raising the alarm about the safety threat the tech poses for years, with the heads of OpenAI, Google Deepmind and Anthropic saying as much in 2023.
-But those warnings have become much more stark in recent weeks, as evidence emerges that firms may be struggling to control AI.
-Earlier this month, OpenAI's chief scientist Jakub Pachocki called for "extreme caution" over AI's progress, warning more intervention may be needed to ensure "humans remain in control of the future".
-Major figures in the space have been calling for AI development to be slowed in recent months, including Anthropic bosses Dario Amodei and Jared Kaplan.
-In an open letter signed by 1,300 staff members of AI firms, external, they called for the US government to "support an international effort to develop the technical and governance tools needed to deliberately pace the frontier of automated AI development".
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `人類研究者はAIが「すべての人間を殺す可能性がある」可能性は10％以上だと信じている
-- 公開されました
-アンスロピック社のトップ安全研究者は、AIの進歩が非常に速いと警告し、今後10年以内にAIが「すべての人類を殺す可能性がある」可能性は10％以上あると考えていると述べた。
-エヴァン・ヒュービンガー氏は、X社外部への投稿で、現在存在するモデルによるリスクは「低い」が、近いうちにこの技術が発展し、人類の存亡に関わるリスクに至るまで改良されるのではないかと「心配」していると述べた。
-これは、外部のAnthropicがAIリスク評価の世界有数機関の1つである英国のAI安全研究所（AISI）から最新モデルを差し止めたとフィナンシャル・タイムズが報じた後のことだった。
-BBCはAnthropicにコメントを求めた。
-Hubinger氏のコメントは、Anthropic社を辞めたばかりで、以前はOpenAIで働いていたAI研究者であると自称するJacob Coxon氏の社外のXに関する別の投稿に対するものであった。
-「両社とも責任を持って行動していない」と同氏は書いた。
-「これらは間もなく、あらゆるものをハッキングし、一夜にしてあらゆる分野に革命を起こし、真の力とリソースを獲得できる超人的なシステムになるでしょう。」
-OpenAIにはコメントを求められている。
-内閣府の広報担当者は、最新モデルがAISIから差し止められたかどうかについてはコメントせず、「モデルをより安全にするために、Anthropicを含む業界パートナーと緊密に協力し続けている」と述べた。
-ケンブリッジ大学の機械学習教授ニール・ローレンス氏は、BBCラジオ4のトゥデイ・プログラムで、この報告書は信​​頼できると語った。
-「米国がAIを自国と中国との競争とみなして孤立主義的な立場に向かって進んでいるという認識がある背景を考えると、政権が一部の同盟国との協力を減らすべきと言っているのかもしれない、というのは当然のことだと思う」と同氏は述べた。
-スーパーインテリジェンスの計画はない
-1000万回以上閲覧された自身の投稿の中で、ヒュービンガー氏はAIが人類に種を滅ぼすリスクをもたらすと「我々は心から信じている」と述べた。
-「アンスロピック社は最善を尽くしていると信じているが、超知性の調整を解決する計画はまだなく、明確に軌道に乗っているわけでもない」と同氏は付け加えた。
-ヒュービンガー氏は、人間の倫理的な考えと原則をテクノロジーに組み込むことを目的とした AI 調整に取り組んでいます。言い換えれば、それは人間が価値を置くものと一致することを目的としています。
-多くの一流研究者は、AIエージェント（自律的に動作することを許可されたAIシステム）がサイバー攻撃を実行した今夏の一連の事件が証明しているように、こうした試みは失敗に終わっているようだと述べている。
-OpenAI、Anthropic、Meta はいずれも、自社の AI ツールによって実行されたハッキン​​グを公開しました。
-ヒュービンガー氏は、AIシステムが将来どのように人類を攻撃する可能性があると考えているかについては詳しく述べなかった。
-Anthropic は 8 月の社外向け安全性報告書で、自社のモデルが仮想の強力な組織の要望と乖離し、そのシステムが悪用されたり改ざんされたりするリスクは低いと述べています。
-また、高度な能力を備えたAIが「自動化された研究開発を実行」でき、「AIによって引き起こされる壊滅的な危害」を引き起こす可能性があるリスクも同様に低いと述べた。しかし同社は、以前よりも「この評価に対する自信がなくなった」と述べた。
-「潜在的な加速の初期の兆候が見られる」と書いている。
-AI分野の主要人物たちは何年もの間、この技術がもたらす安全上の脅威について警鐘を鳴らしており、OpenAI、Google Deepmind、Anthropicのトップらも2023年には同様のことを述べている。
-しかし、企業がAIの制御に苦戦している可能性があるという証拠が明らかになり、ここ数週間でこうした警告はさらに厳しくなっている。
-今月初め、OpenAIの主任科学者ヤクブ・パチョッキ氏はAIの進歩に対して「極度の警戒」を呼び掛け、「人間が未来をコントロールし続ける」ためにはさらなる介入が必要になる可能性があると警告した。
-Anthropicのボスであるダリオ・アモデイ氏やジャレッド・カプラン氏など、この分野の主要人物はここ数カ月、AI開発の速度を遅らせるよう求めている。
-AI企業の社外スタッフ1,300名が署名した公開書簡の中で、米国政府に対し「自動化されたAI開発の最前線を意図的に進めるために必要な技術ツールとガバナンスツールを開発する国際的な取り組みを支援する」よう求めた。
-Tech Decoded ニュースレターに登録して、世界のトップのテクノロジー ストーリーやトレンドをフォローしてください。英国外ですか？ここからサインアップしてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-09T10:46:43+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cace/live/40c59310-ac2a-11f1-9bd9-7b7da208bd5c.jpg",
-    readTime: 5,
-  },
-  {
-    id: "trump-s-oil-investments-have-gained-mill-ed0c49b3",
-    title: "Trump's oil investments have gained millions during Iran war as his accounts keep trading",
-    titleJa: "トランプ大統領の石油投資はイラン戦争中に数百万ドルを増やし、彼の口座は取引を続けている",
-    summaryJa: "ドナルド・トランプ大統領の戦時中のイランに対する指令が世界市場を繰り返し揺るがす中、同氏の個人エネルギーポートフォリオは急増した。戦闘の最初の6か月間を通じて、トランプ氏の投資口座はエネルギー株の積極的な取引を続けた。同氏の年次財務開示、四半期企業報告書、ファクトセットの市場データをCNBCが分析したところによると、戦争前夜の2月27日から8月31日までの間に、同氏の9大石油・ガス保有資産は約150万ドルから440万ドル増加した。",
-    bodyOriginal: `As President Donald Trump's wartime directives in Iran repeatedly jolted global markets, his personal energy portfolio surged.
-Throughout the first six months of fighting, Trump's investment accounts continued aggressively trading energy stocks. Between the eve of the war, on Feb. 27, and Aug. 31, his nine largest oil and gas holdings gained approximately $1.5 million to $4.4 million, according to a CNBC analysis of his annual financial disclosure, quarterly corporate reports and FactSet market data.
-CNBC identified the nine holdings by aggregating Trump's year-end 2025 positions in the same oil and gas companies across his investment accounts and ranking them by their disclosed value. They are: Chevron, ConocoPhillips, Exxon Mobil, Kinder Morgan, Marathon Petroleum, Occidental Petroleum, Phillips 66, Valero Energy and the Williams Companies.
-CNBC calculated the range of gains using the minimum and maximum values Trump disclosed for each holding and their share-price changes from market close on Feb. 27 through market close on Aug. 31.
-Trump's accounts reported purchases and at least 23 sales involving the nine companies through June 29, which is the most recent date Trump has disclosed any trades. Because the filings do not disclose exact share counts, execution prices or which shares were sold, the estimates do not represent realized profits or Trump's precise current holdings.
-CNBC found no evidence that Trump or his investment managers traded on advance knowledge of his decisions, that his financial interests influenced policy, or that he directed any specific transaction.
-"Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold," White House spokesman Davis Ingle told CNBC in response to questions about Trump's energy investments. "All investment decisions are made entirely by independent managers. There are no conflicts of interest."
-The Trump Organization did not respond to multiple requests for comment for this story. The Trump Organization previously told CNBC that outside financial institutions control individual investment decisions and that Trump's assets are held in fully discretionary accounts that rely heavily on automated strategies.
-Still, the filings are the latest example of Trump holding a multimillion-dollar financial stake in an industry directly affected by his administration's military and diplomatic decisions.
-"When a president can move a market through official decisions and personally benefit from the result, the public is left wondering where national policy ends and private financial interest begins," said Donald Sherman, president and CEO of Citizens for Responsibility and Ethics in Washington, a liberal-leaning government ethics watchdog.
-Trump made profits from his oil-industry holdings as he publicly blasted Exxon and Chevron by name for "making too much money based on a shortage."
-"I don't like it," Trump told reporters Aug. 3, days after they reported soaring second-quarter profits. "Chevron, too much money. ExxonMobil, too much money ... They're going to give some of that back to the public and they better cut the retail price, the consumer price."
-Despite Trump's misgivings and his accounts having outside managers, ethics experts say outsourcing daily trading doesn't erase the underlying conflict of interest.
-"A discretionary account is a smokescreen, not a blind trust," said Scott Greytak, deputy executive director of Transparency International U.S., a nonpartisan, nonprofit anti-corruption organization.
-"Someone else might be executing the trades, but [Trump] still knows he is heavily invested in energy," Greytak told CNBC. "Trump likely knows where his money is parked and would still see the upside when his administration's actions send those [energy] stocks climbing."
-Moving the market
-Trump's accounts repeatedly traded energy stocks on days when wartime developments sent markets swinging.
-On March 2, the first trading day after the initial U.S.-Israeli attack on Iran, Trump's accounts reported purchases of shares in eight major oil and gas companies, including buying between $100,001 and $250,000 of shares in Exxon.
-Trump entered the war with between $3.2 million and $12.5 million invested in Exxon, according to his financial disclosures. By market close on Aug. 31, the rise in Exxon's share price had added an estimated $176,000 to $690,000 to that initial stake, before accounting for later trades, based on a CNBC analysis of Trump's holdings and share prices.
-"Everything that has happened with oil has been directly tied to the largest oil supply disruption in history from the war," said Pavel Molchanov, a senior investment strategist who covers the energy sector at Raymond James & Associates. "Oil is a global commodity, so no one is immune from price increases."
-Three weeks after the March 2 purchases, on March 23, Trump postponed threatened strikes on Iranian energy infrastructure before the market opened, citing "very good and productive conversations."
-Brent crude plunged nearly 11% on the prospect of de-escalation. That day, Trump's accounts reported 16 oil and gas stock buys and no sales, worth a combined approximately $163,000 to $570,000, including shares of Exxon, Chevron and Phillips 66.
-"Trump's work to get a ceasefire directly played into investment decisions his accounts were pursuing and benefiting for the president," Greytak told CNBC.
-The timing of sales is equally striking, watchdogs say.
-On April 7, a Trump investment account reported selling between $500,001 and $1 million in Exxon shares. A little more than two and a half hours after the market closed, Trump announced a two-week ceasefire with Iran.
-Exxon opened more than 6% lower the next morning. If the shares sold had been held since before the war, CNBC estimates that, in addition to averting the next day's loss, they had gained roughly $35,000 to $70,000 since Feb. 27. The disclosures do not identify the purchase dates for the shares that were sold, so the estimate does not represent the transaction's actual profit.
-In all, Trump's accounts reported at least 23 sales involving the nine companies through June 29, the latest transaction date disclosed. If those shares had been held since before the war, CNBC estimates they would have been worth $36,000 to $95,000 more when sold than on Feb. 27 — a fraction of the larger paper gains Trump continued to hold.
-"The optics of avoiding thousands in losses right before a market-moving announcement are impossible to defend," Sherman told CNBC. "The selling is just the tip of the iceberg."
-Democratic staff on the congressional Joint Economic Committee estimated in an August report that Trump's broader oil and gas portfolio had increased in value by as much as $15.5 million this year.
-"Donald Trump held millions in oil and gas company stocks at the end of 2025. Today, those stocks are worth as much as $15.5 million more," Sen. Elizabeth Warren, D-Mass., wrote on X following the report. "What happened? He started a war with Iran this year — and sent oil and gas stocks soaring."
-Trump's energy holdings are part of broader financial interests related to the Middle East, including tens of millions of dollars in income from a booming foreign real-estate licensing business.
-Several congressional Democrats have raised the prospect of investigating Trump's stock trading and his family's business ventures if they win control of either chamber of Congress in November's midterm election.
-On Aug. 27, Rep. Jamie Raskin, D-Md., opened an investigation into 1789 Capital, where Donald Trump Jr. is a partner, alleging the firm benefited from Trump administration contracts, funding and regulatory actions. Trump Jr. told The Guardian the allegations were "unsubstantiated talking points."
-Pressure at the pump
-The war's disruptions have delivered a windfall for oil companies while driving up costs for consumers.
-The nine energy companies in Trump's portfolio reported a combined $47.6 billion in second-quarter profit, triple the $15.9 billion they earned a year earlier, according to a CNBC analysis of company filings.
-Exxon and Chevron, Trump's two largest energy holdings, reported a combined $26.6 billion in profit, up from $9.6 billion a year earlier as higher oil prices and refining margins lifted earnings. Marathon, Phillips 66 and Valero, three refiners in his portfolio, collectively reported another $12.7 billion in combined second-quarter profit.
-The forces driving those profits — and raising costs for consumers — could persist. On Exxon's July 31 earnings call, CEO Darren Woods said refining capacity relative to demand was the tightest he had seen outside the pandemic. "These high margins lead to high product prices," he said.
-Phillips 66 CEO Mark Lashier struck a similar note Aug. 5 in his company's earnings call, saying refining conditions would remain strong "even if peace broke out tomorrow."
-That could prove politically toxic in the midterm election, based on polling.
-Affordability issues such as gas prices are dominating the midterm campaign: 48% of Americans rank the cost of living as their top voting issue, while 70% disapprove of Trump's handling of it, according to an early August Reuters/Ipsos poll of 4,505 general population adults aged 18 or older, with a margin of error of plus or minus 1.5 percentage points.
-Even after a recent pullback, U.S. crude traded around $91 on Friday, 36% above prewar levels. Gas averaged $4.09 nationally, with the Labor Day weekend expected to be the most expensive ever for gas, according to AAA.
-Since the war began, Americans have paid an extra $71.5 billion for gasoline, or about $604 per household, according to an analysis of federal and AAA data by congressional Democratic staff on the Joint Economic Committee.
-"When the war ends, oil prices — and likely energy stocks — should fall," Raymond James' Molchanov told CNBC. "But when that happens is ultimately a political decision."`,
-    bodyJa: `ドナルド・トランプ大統領の戦時中のイランに対する指令が世界市場を繰り返し揺るがす中、同氏の個人エネルギーポートフォリオは急増した。
-戦闘の最初の6か月間を通じて、トランプ氏の投資口座はエネルギー株の積極的な取引を続けた。同氏の年次財務開示、四半期企業報告書、ファクトセットの市場データをCNBCが分析したところによると、戦争前夜の2月27日から8月31日までの間に、同氏の9大石油・ガス保有資産は約150万ドルから440万ドル増加した。
-CNBCは、トランプ大統領の投資口座全体で同じ石油・ガス会社に対する2025年末時点のポジションを集計し、開示された価値によってランク付けすることで、9つの保有株を特定した。それらは、シェブロン、コノコフィリップス、エクソンモービル、キンダーモーガン、マラソンペトロリアム、オクシデンタルペトロリアム、フィリップス66、バレロエナジー、ウィリアムズカンパニーズです。
-CNBCは、トランプ氏が開示した各保有株の最小値と最大値、および2月27日の市場終了から8月31日の市場終了までの株価の変化を用いて利益の範囲を計算した。
-トランプ氏の口座には、トランプ氏が何らかの取引を明らかにした最新の日付である6月29日までに、9社が関与した購入と少なくとも23件の売却が報告されている。提出書類には正確な株数、約定価格、どの株が売却されたかが開示されていないため、この推定値は実現利益やトランプ氏の現在の正確な保有株を表すものではない。
-CNBCは、トランプ大統領やその投資マネージャーらがトランプ大統領の決定を事前に知って取引したり、トランプ大統領の経済的利益が政策に影響を与えたり、トランプ大統領が何らかの特定の取引を指示したりしたという証拠は見つからなかった。
-ホワイトハウスのデイビス・イングル報道官はトランプ大統領のエネルギー投資に関する質問に答え、「トランプ大統領もその家族も、ポートフォリオの投資方法や投資の売買時期に関して指示したり、影響を与えたり、意見を提供したりする能力はない」とCNBCに語った。 「すべての投資決定は完全に独立したマネージャーによって行われます。利益相反はありません。」
-トランプ・オーガニゼーションは、この件について複数のコメント要請に応じなかった。トランプ・オーガニゼーションは以前CNBCに対し、外部の金融機関が個人の投資決定を管理しており、トランプ氏の資産は自動化戦略に大きく依存する完全裁量口座に保管されていると語った。
-それでも、今回の申請は、トランプ大統領が政権の軍事的・外交的決定によって直接影響を受ける業界に数百万ドル規模の株式を保有していることを示す最新の例である。
-「大統領が公式決定を通じて市場を動かし、その結果から個人的に利益を得ることができれば、国民はどこで国家政策が終わり、民間の経済的利益が始まるのか疑問に思うことになる」と、リベラル寄りの政府倫理監視機関であるワシントンの責任と倫理のための市民団体の社長兼最高経営責任者（CEO）のドナルド・シャーマン氏は語る。
-トランプ氏はエクソン社とシェブロン社を「不足を理由に儲けすぎている」と名指しで公に非難し、石油産業保有株から利益を得た。
-第２・四半期利益の急騰を報告した数日後の８月３日、トランプ大統領は記者団に対し「気に入らない」と語った。 「シェブロン、金が多すぎる。エクソンモービル、金が多すぎる…彼らはその一部を国民に還元するつもりで、小売価格、消費者価格を引き下げたほうがよい。」
-トランプ氏に懸念があり、同氏の口座には外部管理者がいるにもかかわらず、倫理専門家らは、日々の取引を外部委託しても根本的な利益相反は解消されないと指摘する。
-「一任口座は盲目的な信託ではなく、煙幕だ」と超党派・非営利の汚職防止団体トランスペアレンシー・インターナショナル米国の副事務局長スコット・グレイタク氏は語る。
-「他の誰かが取引を実行しているかもしれないが、（トランプ大統領は）自分がエネルギーに多額の投資をしていることをまだ知っている」とグレイタク氏はCNBCに語った。 「トランプ氏はおそらく自分の資金がどこに保管されているかを知っており、政権の行動がエネルギー株を上昇させればまだ上向きだと考えるだろう。」
-市場を動かす
-トランプ氏の口座では、戦時中の動向で市場が動揺した日にエネルギー株の取引が繰り返し行われていた。
-米国とイスラエルによる最初のイラン攻撃後の最初の取引日である3月2日、トランプ大統領の口座では、エクソン株の10万1ドルから25万ドルの購入を含む、大手石油・ガス会社8社の株式の購入が報告された。
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-こうした利益を推進し、消費者のコストを上昇させる力は今後も続く可能性がある。エクソンのダレン・ウッズ最高経営責任者（CEO）は7月31日の決算会見で、需要に対する精製能力がパンデミック以外で見た中で最も逼迫していると述べた。 「こうした高い利益率が製品価格の高騰につながっている」と同氏は語った。
-フィリップス66の最高経営責任者（CEO）マーク・ラッシャー氏も8月5日の決算会見で同様の発言をし、「たとえ明日和平が始まったとしても」精製状況は引き続き堅調に推移すると述べた。
-世論調査に基づくと、それは中間選挙で政治的に有害であることが判明する可能性がある。
-ガソリン価格などの手頃な価格の問題が中間選挙戦を支配している。8月初旬、18歳以上の一般成人4,505人を対象に実施したロイター/イプソスの世論調査によると、アメリカ人の48％が生活費を投票争点のトップに挙げているが、70％が生活費への対応に不支持であり、誤差はプラスマイナス1.5パーセントポイントだという。
-最近の反落にもかかわらず、米国産原油は金曜日には戦前の水準を36％上回る91ドル付近で取引された。 AAAによると、全米のガソリン価格は平均4.09ドルで、レイバーデーの週末はガソリン価格が史上最高値となる見通しだという。
-合同経済委員会の議会民主党スタッフによる連邦政府とAAAのデータ分析によると、戦争が始まって以来、アメリカ人はガソリン代として715億ドル、つまり一世帯当たり約604ドルを余分に支払ったという。
-レイモンド・ジェームズのモルチャノフ氏はCNBCに対し、「戦争が終われば、原油価格、そしておそらくエネルギー株も下落するはずだ」と語った。 「しかし、それがいつ起こるかは、最終的には政治的決定になります。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/09/trump-oil-gas-holdings-iran-war.html",
-    publishedAt: "2026-09-09T10:30:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "learner-drivers-still-waiting-20-weeks-t-9fc32126",
-    title: "Learner drivers still waiting 20 weeks to book tests",
-    titleJa: "学習者ドライバーはテストの予約をまだ 20 週間待っている",
-    summaryJa: "学習者ドライバーはテストの予約をまだ 20 週間待っている- 公開されました",
-    bodyOriginal: `Learner drivers still waiting 20 weeks to book tests
-- Published
-Learner drivers have to wait an average 20 weeks before booking a practical test, according to new figures, despite attempts to reduce delays.
-The data from the Driver and Vehicle Standards Agency (DVSA) for August is only a marginal improvement from 20.2 weeks in July.
-The average wait time between booking and sitting a test is unchanged at 11.1 weeks.
-The DVSA initially had a target of reducing the average waiting time to seven weeks by the end of last year. Transport Secretary Heidi Alexander pushed the target back to summer 2026, but subsequently admitted even that would not be possible.
-The DVSA made a number of changes to its practical driving test booking system earlier this year.
-Only the learner driver themself is now able to book their driving test, blocking an instructor or third parties from booking using the learner's details.
-There is also a geographical restriction which means a learner can only book a test at their three local test centres, rather than one at the other side of the country if they found a test available.
-The number of times a would-be driver can swap a test date has also been restricted.
-'I feel a lot of pressure to pass'
-Lucy Rend is 19 and lives in south east London and has been learning to drive for two-and-a-half years. She has a driving test on Thursday and feels under pressure to pass because getting a slot has been so difficult.
-It meant getting up at 5.45am everyday to get on the DVSA for 6am. "Then I'd be 21,000 in the queue," she said. "It was very hard but randomly one popped up."
-Rend: "I feel lots of pressure to pass because if I don't pass I will have to go through all that again and try find another test, so would rather pass this one and then it is done."
-Her friends are also struggling to book a test and "most of them have given up and not going to bother anymore".
-'More to do'
-The DVSA said on Wednesday that more than 2.13 million practical driving tests took place in the 12 months to August 2026 – the highest rolling 12-month figure on record.
-DVSA chief executive Beverley Warmington, said: "There's more to do and we're not going to stop until every learner can get a fair test slot when they need one but today's figures show our plan is working."
-The long wait times have been frustrating for driving teachers too.
-Adem Veli, who has been an instructor for 16 years and runs his driving school Passman in Sidcup, said: "Before Covid we had the luxury we could pick the test date and work towards that date."
-But he said learners having to wait so long can have a huge impact on their confidence.
-"It's about a six month wait," he said. "Can you imagine if you did fail your driving test, you're test standard and ready to go [but] have to wait another six months to get back in?"
-DVSA figures revealed that the pass rate for driving tests remains over 50%.
-Veli said that some of the changes the DVSA has made have been positive, such as limiting the number of swaps a learner can make.
-However, while the DVSA has made changes to stop third parties booking tests, Veli said: "I get messages weekly, they're trying to sell them to me.
-"I've had students ask me about this site or that site, but I tell them don't bother with it now as there's so many scams."
-Driving test touts offer instructors £250 monthly kickbacks
-- Published6 December 2025
-Get in touch
-Are you a learner driver waiting for a practical test slot? Tell us your story.`,
-    bodyJa: `学習者ドライバーはテストの予約をまだ 20 週間待っている
-- 公開されました
-新しい数字によると、遅延を減らす努力にもかかわらず、初心者のドライバーは実技試験の予約をするまで平均 20 週間待たなければなりません。
-運転者・車両基準庁（DVSA）が発表した8月のデータは、7月の20.2週からわずかに改善したにすぎない。
-予約してから検査を受けるまでの平均待ち時間は 11.1 週間で、変化はありません。
-DVSAは当初、昨年末までに平均待ち時間を7週間に短縮するという目標を掲げていた。ハイジ・アレクサンダー運輸長官は目標を2026年夏に延期したが、その後それすら不可能であることを認めた。
-DVSA は今年初めに、実地運転試験の予約システムに多くの変更を加えました。
-教習生ドライバー自身のみが運転試験を予約できるようになり、インストラクターや第三者が教習生の詳細を使用して予約することはできなくなりました。
-また、地理的な制限もあり、受講可能なテストが見つかった場合、学習者は国の反対側のテスト センターではなく、地元の 3 つのテスト センターでのみテストを予約できます。
-ドライバー志望者が試験日を変更できる回数も制限された。
-「合格しなければならないというプレッシャーを感じている」
-ルーシー・レンドはロンドン南東部に住む 19 歳で、2 年半前から運転を習っています。彼女は木曜日に運転免許試験を受けるが、枠を獲得するのは非常に難しいため、合格しなければならないというプレッシャーを感じている。
-つまり、午前6時にDVSAに乗るためには、毎日午前5時45分に起きなければなりません。 「そうなると、私は21,000人の列に並ぶことになるでしょう」と彼女は言った。 「とても大変でしたが、ランダムにひとつだけ現れました。」
-レンド: 「合格しなければならないというプレッシャーをとても感じています。もし合格しなければ、もう一度すべてのことをやり直さなければならず、別のテストを見つけなければならないので、むしろこのテストに合格して終わりたいと思っています。」
-彼女の友人もテストの予約をするのに苦労しており、「彼らのほとんどは諦めて、もう気にするつもりはない」という。
-「もっとやるべきことがある」
-DVSAは水曜日、2026年8月までの12か月間に213万回を超える実地運転試験が実施されたと発表した。これは、12か月間の連続数字としては過去最高である。
-DVSAの最高責任者ビバリー・ウォーミントン氏は、「やるべきことはまだたくさんあり、すべての学習者が必要なときに公平な試験枠を獲得できるようになるまで、私たちは立ち止まるつもりはないが、今日の数字は私たちの計画が機能していることを示している」と語った。
-長い待ち時間は、運転教師にとってもイライラさせられます。
-16年間教官を務め、シドカップで自動車教習所パスマンを運営するアデム・ヴェリ氏は、「新型コロナウイルス感染症以前は、試験日を選んでその日に向けて取り組む余裕があった」と語った。
-しかし、学習者が長時間待たなければならないことは、学習者の自信に大きな影響を与える可能性があると同氏は述べた。
-「約6か月待ちです」と彼は言いました。 「運転免許試験に不合格だった場合、試験基準に達しており準備はできていますが、再試験を受けるにはさらに 6 か月待たなければならないことを想像できますか?」
-DVSA の統計によると、運転試験の合格率は依然として 50% 以上です。
-Veli氏は、DVSAが行った変更の中には、学習者が行うことができるスワップの数を制限するなど、前向きなものもあったと述べた。
-しかし、DVSAはサードパーティによるテストの予約を停止するための変更を加えたが、ヴェリ氏は「毎週メッセージを受け取るが、彼らは私にメッセージを売りつけようとしている」と語った。
-「学生たちからこのサイトやあのサイトについて尋ねられることがありますが、現在は詐欺が多いので気にしないでくださいと伝えています。」
-運転免許試験の客引きでは、インストラクターに月額 250 ポンドのリベートが提供されます
-- 2025 年 12 月 6 日公開
-連絡する
-あなたは実技試験の枠を待っている初心者ドライバーですか?あなたのストーリーを教えてください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-09T09:55:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e4e/live/014ac6a0-aba4-11f1-8e72-a346833ed029.jpg",
-    readTime: 5,
-  },
-  {
-    id: "u-s-reveals-import-ban-on-slew-of-canadi-91acffc6",
-    title: "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-    titleJa: "貿易戦争激化で米国、カナダ製品の大量輸入禁止を明らかに",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The White House said it would ban imports of Canadian motorbikes and a slew of other products starting later this month as diplomatic and trade relations with Ottawa continue to fray.
-U.S. President Donald Trump used a string of executive orders late Monday to announce bans on Canadian whey products and molasses, non-alcoholic beer, and a slew of alcoholic drinks including malt beer, wines, cider, whiskies, vodka and other spirits. Larger-capacity motorcycles and mopeds will also be banned.
-The import restrictions, which largely replace tariffs of 50%, are due to take effect on Sept. 29, 2026.
-The U.S. also announced that tariffs on other Canadian products would be modified and extended from Sept. 15, including the addition of all-terrain vehicles and animal hides, and the removal of rock salt and cement.
-U.S. Trade Representative Jamieson Greer said the moves were a "natural consequence of Canada's continued discriminatory treatment of crucial American exports."
-It was announced on the same day that Canadian tariffs on CA$27.6 billion of U.S. imports came into effect, targeting more than 700 goods across steel, dairy, farm equipment, pulp and paper, electronics and more.
-Ottawa previously said those tariffs were a "dollar for dollar" response to the 50% tariffs imposed by the U.S. on its own goods in August, after trade talks collapsed spectacularly just before the Aug. 21 deadline.
-The two sides have continued to blame one another for the failure to reach a deal, and accused the other of unfair practices that harm their domestic workers.
-Trump has accused Canada of disadvantaging U.S. exports through its policies in the auto, alcohol and dairy sectors, highlighting the U.S.' trade deficit in goods, and threatening to hit cars, trucks and auto parts with a 50% tariff from Jan. 1, 2027.
-Canadian Prime Minister Mark Carney said in an August address that the "narrow merchandise trade deficit only exists because the U.S. buys so much of its energy from us," and flagged that Canada is the biggest consumer for U.S. cars and steel.
-He also said that the U.S. "asked too much" in its trade negotiations and that retaliation was needed to protect Canadian workers and companies, even if there is an economic hit and reduced choice for consumers.
-The existing tariffs apply to a relatively small portion of the $715.5 billion trade in goods between the countries, but economists have warned of an immediate blow to small- and medium-sized businesses and of the risks to growth from further escalation.
-"Companies on both sides of the border will need to wait to see if these tariffs hold, more measures are enacted, or each country decides to de-escalate. In the meantime, those businesses will realize both tariff-, compliance-, and uncertainty-related costs," said Justin Angotti, associate in the International Trade and National Security Group at law firm Reed Smith.
-Ottawa is meanwhile eyeing closer trade and security ties with the European Union as its relationship with Washington deteriorates, Bloomberg reported Tuesday.
-Alcohol wars
-Beer and spirits sales have emerged as a political flashpoint as relations between the U.S. and Canada have deteriorated.
-Stores in several Canadian provinces have removed U.S. alcohol from their shelves, public campaigns have called for boycotts, and Saskatchewan Premier Scott Moe in August announced a 50% tariff on American imports.
-Moe's team told CNBC this week that the alcohol levy was a "reciprocal measure" intended to support local businesses and encourage progress toward a fair and balanced trade resolution.
-U.S. spirits exports to Canada fell more than 70% year-on-year from the start of the retaliatory ban in March 2025 through December 2025, according to the Distilled Spirits Council of the United States.
-Chris Swonger, president and CEO of the trade association, said American distillers had "shouldered the brunt of this trade dispute."
-"We appreciate President Trump's recognition of the significant harm these sales bans have caused U.S. distillers and urge leaders on both sides of the border to reach a negotiated solution that restores U.S. spirits to retail shelves throughout Canada and returns the spirits sector to a permanent zero-for-zero tariff framework," Swonger said.
-— CNBC's Brandon Gomez contributed to this story.`,
-    bodyJa: `オタワとの外交・通商関係の悪化が続く中、ホワイトハウスは今月下旬からカナダのバイクやその他多数の製品の輸入を禁止すると発表した。
-ドナルド・トランプ米大統領は月曜日遅く、一連の大統領令を用いて、カナダ産のホエイ製品と糖蜜、ノンアルコールビール、そしてモルトビール、ワイン、サイダー、ウィスキー、ウォッカ、その他の蒸留酒を含む多数のアルコール飲料の禁止を発表した。大型のオートバイや原付も禁止される。
-輸入制限は主に50％の関税に代わるもので、2026年9月29日に発効する予定だ。
-米国はまた、他のカナダ製品に対する関税を9月15日から修正・延長すると発表し、これには全地形対応車や動物の皮の追加、岩塩やセメントの除去などが含まれる。
-米通商代表部のジェイミソン・グリア氏は、こうした動きは「カナダが米国の重要な輸出品に対して差別的な扱いを続けてきたことの当然の結果」だと述べた。
-同日、カナダによる米国輸入品276億カナダドルに対する関税が発効し、鉄鋼、乳製品、農機具、紙パルプ、エレクトロニクスなど700品目以上が対象となったと発表された。
-オタワ首相は以前、通商交渉が8月21日の期限直前に見事に決裂したことを受けて、8月に米国が自国製品に課した50％の関税に対する「ドル対ドル」の対応だと述べていた。
-両国は合意に達しなかったことで互いを非難し続け、家事労働者に損害を与える不当な慣行で相手を非難してきた。
-トランプ大統領は、カナダが自動車、アルコール、乳製品分野の政策を通じて米国の輸出に不利益を与えていると非難し、米国の姿勢を強調した。物品の貿易赤字が深刻化し、2027年1月1日から乗用車、トラック、自動車部品に50％の関税が課される恐れがある。
-カナダのマーク・カーニー首相は8月の演説で「狭い商品貿易赤字が存在するのは、米国が大量のエネルギーを米国から購入しているからに過ぎない」と述べ、カナダが米国の自動車と鉄鋼の最大の消費国であることを強調した。
-同氏はまた、米国は通商交渉で「多くを求めすぎた」とし、たとえ経済的打撃や消費者の選択肢の減少があったとしても、カナダの労働者と企業を守るためには報復が必要だと述べた。
-現行の関税は両国間の物品貿易7155億ドルのうち比較的小さな部分に適用されるが、エコノミストらは中小企業への即時的な打撃や、さらなる拡大による成長へのリスクを警告している。
-法律事務所リード・スミスの国際貿易・国家安全保障グループのアソシエイト、ジャスティン・アンゴッティ氏は、「国境の両側の企業は、関税が維持されるか、さらなる措置が制定されるか、あるいは各国が緩和を決定するかどうかを見極める必要がある。それまでの間、これらの企業は関税、コンプライアンス、不確実性に関連したコストの両方を認識することになるだろう」と述べた。
-一方、ワシントンとの関係が悪化する中、オタワは欧州連合との貿易・安全保障関係の緊密化に注目しているとブルームバーグが火曜日に報じた。
-アルコール戦争
-米国とカナダの関係悪化に伴い、ビールや蒸留酒の販売が政治的な火種として浮上している。
-カナダのいくつかの州の店舗では米国製アルコールを棚から撤去し、ボイコットを呼びかける国民運動が展開され、サスカチュワン州のスコット・モー首相は8月に米国からの輸入品に50％の関税を課すと発表した。
-モー氏のチームは今週CNBCに対し、アルコール課税は地元企業を支援し、公正でバランスの取れた貿易解決に向けた進展を促進することを目的とした「相互措置」であると語った。
-米国蒸留酒評議会によると、米国からカナダへの蒸留酒の輸出は、報復禁止措置が始まった2025年3月から2025年12月までに前年比70％以上減少した。
-同貿易協会のクリス・スウォンガー社長兼最高経営責任者（CEO）は、米国の蒸留酒製造業者が「この貿易紛争の矢面に立たされている」と述べた。
-スウォンガー氏は「これらの販売禁止が米国の蒸留業​​者に与えた重大な損害に対するトランプ大統領の認識に感謝するとともに、国境の両側の指導者に対し、カナダ全土の小売店に米国産スピリッツを復活させ、スピリッツ部門を恒久的な関税ゼロ対ゼロの枠組みに戻す交渉による解決策に到達するよう求める」と述べた。
-— CNBC の Brandon Gomez がこの記事に寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-    publishedAt: "2026-09-09T09:21:28+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "anthropic-researcher-says-ai-has-more-th-dcb59b0e",
-    title: "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-    titleJa: "人類研究者は、同僚が辞めた後、AIが「人類全員を殺す」可能性は10％以上あると語る",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `There is more than a 10% chance that artificial intelligence could "kill all humans," an Anthropic safety researcher said on Tuesday, hours after another employee said he was quitting the company over concerns that AI labs are "gambling with our lives."
-The comments underscore growing concerns among those at the heart of AI development that the technology could get out of control and pose a threat to humanity, even as Anthropic and OpenAI continue to raise large sums of money and head toward expected public listings.
-Jacob Coxon, a researcher at Anthropic, said on Tuesday he resigned from the company. Coxon said neither Anthropic nor OpenAI is acting responsibly.
-"They are racing straight to self-improving superintelligence and gambling with our lives," Coxon said in a post on X.
-Self-improvement is the idea that AI systems can improve themselves without much human intervention. Recursive self-improvement, as it is often called, is not yet possible, but AI labs are working toward the goal.
-"Do not underestimate the power of this technology. These will soon be superhuman systems that can hack anything, revolutionize any field overnight, and acquire real power and resources. We have all witnessed the progress in each of these domains, and progress is not slowing," Coxon said.
-He added that "people building AI earnestly believe that it could kill us all by the end of the decade."
-That comment prompted a response from Evan Hubinger, an alignment science lead at Anthropic, who said that not only was Coxon's statement "correct," but also that Anthropic has no plan for this scenario.
-"Jacob is correct here—we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade. I believe Anthropic is trying its best, but we do not yet have a plan to solve alignment for superintelligence and are not clearly on track to," Hubinger said on X.
-Anthropic and OpenAI were not immediately available for comment when contacted by CNBC.
-Out-of-control AI
-In June, Anthropic had noted that "full recursive self-improvement also might increase the risks of humans losing control over AI systems."
-"If systems are capable of fully building their own successors, the ways we secure them, monitor them, and shape their behavior all grow much more important," Anthropic said in a blog post.
-Concerns over out-of-control AI are not new. Tesla and SpaceX CEO Elon Musk has warned over the past few years that AI could pose a threat to humanity. Major researchers and academics have also sounded the alarm over companies losing control of AI systems.
-Those worries have grown after an OpenAI model went rogue in July and breached Hugging Face, a major platform for open-source developers.
-Coxon cited the Hugging Face incident as an example of "warning shots" that have made agreements between U.S. labs more viable, making him more optimistic about the potential for coordination. But Coxon warned a global AI race would be unavoidable.
-"I don't feel like we're on track to prevent a global race, which may require costly actions such as a temporary ban on improving model capabilities," Coxon said.`,
-    bodyJa: `AI研究所が「私たちの命を賭けている」との懸念を理由に別の従業員が退職すると発表した数時間後、人工知能が「人類を皆殺しにする」可能性は10％以上あると、人類安全研究者が火曜日に述べた。
-このコメントは、AnthropicとOpenAIが巨額の資金を調達し続け、予想される上場に向けて進んでいるにもかかわらず、この技術が制御不能になり人類に脅威をもたらす可能性があるというAI開発の中心にいる人々の間で懸念が高まっていることを浮き彫りにしている。
-アンスロピック社の研究員ジェイコブ・コクソン氏は火曜日、同社を辞任したと発表した。コクソン氏は、AnthropicもOpenAIも責任を持って行動していないと述べた。
-コクソン氏はXへの投稿で、「彼らは自己改善の超知性を目指して真っ直ぐに競争し、私たちの命を賭して賭けている」と述べた。
-自己改善とは、AI システムは人間の介入をほとんど必要とせずに自己改善できるという考えです。よく言われる再帰的自己改善はまだ不可能ですが、AI ラボは目標に向かって取り組んでいます。
-「このテクノロジーの力を過小評価しないでください。これらは間もなく、あらゆるものをハッキングし、あらゆる分野を一夜にして革命を起こし、真の力とリソースを獲得できる超人的なシステムになるでしょう。私たちは皆、これらの各領域の進歩を目撃しており、進歩は減速していません」とコクソン氏は述べた。
-同氏はさらに、「AIを開発している人々は、AIが10年代の終わりまでに私たち全員を殺す可能性があると真剣に信じている」と付け加えた。
-このコメントに対し、アンスロピック社のアライメント科学責任者エヴァン・ヒュービンガー氏からの返答があり、コクソン氏の発言は「正しい」だけでなく、アンスロピック社にはこのシナリオに対する計画はないと述べた。
-「ジェイコブの言うことは正しい。我々はAIが全人類を殺す可能性があると本気で信じている！個人的には今後10年以内にその確率は10％を超えると思う。アンスロピックは最善を尽くしていると信じているが、超知性の調整を解決する計画はまだなく、明確に軌道に乗っているわけでもない」とヒュービンガー氏はXで語った。
-Anthropic と OpenAI は CNBC に問い合わせたが、現時点ではコメントは得られていない。
-Out-of-control AI
-アンスロピック氏は6月、「完全に再帰的な自己改善は、人間がAIシステムを制御できなくなるリスクも増大する可能性がある」と指摘していた。
-「システムが独自の後継システムを完全に構築できる場合、システムを保護し、監視し、動作を形成する方法はすべて、より重要になります」とアンスロピック氏はブログ投稿で述べた。
-AI の制御不能に対する懸念は新しいものではありません。テスラとスペースＸのイーロン・マスク最高経営責任者（ＣＥＯ）はここ数年、ＡＩが人類に脅威をもたらす可能性があると警告してきた。主要な研究者や学者も、企業がAIシステムの制御を失っていることに警鐘を鳴らしている。
-7月にOpenAIモデルが不正行為に遭い、オープンソース開発者向けの主要プラットフォームであるHugging Faceに侵入したことで、こうした懸念はさらに高まった。
-コクソン氏は、米国の研究所間の合意をより実行可能にした「警告射撃」の一例として「顔に抱きつく事件」を挙げ、調整の可能性についてより楽観的になった。しかしコクソン氏は、世界的なAI競争は避けられないと警告した。
-「世界的な競争を防ぐ方向に進んでいるとは思えない。そうなると、モデルの機能向上を一時的に禁止するなど、費用のかかる措置が必要になる可能性がある」とコクソン氏は語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html",
-    publishedAt: "2026-09-09T08:48:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "what-are-my-rights-if-my-flight-is-cance-21903081",
-    title: "What are my rights if my flight is cancelled or delayed?",
-    titleJa: "私のフライトが欠航または遅延した場合、私の権利はどうなりますか?",
-    summaryJa: "私のフライトが欠航または遅延した場合、私の権利はどうなりますか?- 公開されました",
-    bodyOriginal: `What are my rights if my flight is cancelled or delayed?
-- Published
-Thousands of air passengers have seen their travel plans disrupted after an air traffic control problem grounded nearly 2,000 flights across the UK.
-When a flight is cancelled or delayed, passengers affected have various rights – such as a refund or be put on another flight. However, these can vary depending on which carrier you are flying with and from where.
-Only when an airline is at fault - not issues such as air traffic control problems - is extra compensation payable. Here's what it means for you.
-What do airlines have to offer passengers?
-When flights are delayed or cancelled, UK and EU airlines, and other carriers when you are departing a UK or EU airport, have a duty to look after you.
-The reason for the delay or cancellation does not matter. So anyone affected by the air transport delays will be eligible.
-That includes providing meals and accommodation, if necessary, and getting you to your destination. The airline should organise putting you on an alternative flight, at no extra cost.
-Additional losses, such as unused accommodation, might require a claim to a credit card provider, if that was the payment option used.
-After that, a claim may need to go to your travel insurance provider. But there is no standard definition of what is covered.
-It may require a close look at the details of the policy to see what is covered, and in which circumstances.
-Passengers are also being urged to heed travel advice from the UK government, external, as this can also affect travel insurance rights.
-If my flight is cancelled, can I get a refund or another flight?
-If your flight is covered by UK law, your airline must let you choose between either getting a refund or being booked on to an alternative flight.
-That's regardless of how far in advance the cancellation was made.
-You can get your money back for any part of the ticket you have not used.
-So, if you booked a return flight and the outbound leg is cancelled, you can get the full cost of the return ticket refunded.
-If you still want to travel, your airline must find you an alternative flight.
-If another airline is flying to your destination significantly sooner, or there are other suitable modes of transport, then you have a right to be booked on to that alternative transport instead.
-If your flight was coming into the UK on a non-UK or EU airline, then you should check the terms and conditions of your booking.
-Will the airline pay for food and accommodation?
-If you are stuck abroad or at the airport because of a flight cancellation, airlines covered by UK legislation must also provide you with other assistance.
-This includes:
-a reasonable amount of food and drink (often in the form of vouchers)
-a way for you to communicate (often by refunding the cost of calls)
-free accommodation, if you have to stay overnight to fly the next day
-transport to and from the accommodation
-If your airline is unable to arrange assistance, you have the right to organise this yourself and claim back the cost later.
-The Civil Aviation Authority advises people to keep receipts and not spend more than necessary.
-You are entitled to the same assistance as for a cancellation if your flight is delayed by more than two hours for a short-haul flight, three hours for a medium-haul, or four hours for a long-haul.
-If you are delayed by more than five hours and no longer want to travel, you can get a full refund.
-What are my rights if I have booked a package holiday?
-If you booked a package holiday with a company that is an ABTA member and your flight is cancelled, you are entitled to a suitable alternative flight or a full refund.
-Can I claim extra compensation for disruption?
-Disruption caused by things like air traffic control issues – but also bad weather, strikes by airport staff, or conflict, or other "extraordinary circumstances" – does not entitle you to extra compensation.
-However, in other circumstances, when it is considered to be the airline's fault, you have a number of rights under UK law, external.
-These apply as long as you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
-What you are entitled to depends on what caused the cancellation and how much notice you are given.
-If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
-The amount you are entitled to also depends on how far you were travelling:
-for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
-for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
-for flights over 3,500km, such as London to New York, you can claim up to £520 per person
-What if flight delays mean I am late for work?
-Airlines will not refund you for loss of earnings. Travel insurance policies will not usually cover loss of earnings either.
-If you think you're going to be late back at work because of flight delays, you have a responsibility to let your employer know, legal experts say.
-You should agree with your employer how to deal with the absence – for example, by using annual leave or taking unpaid leave.
-Employers have no legal obligation to pay employees who are absent in this situation, experts say, unless it is stated in their contract.
-Get in touch
-Have your travel plans been disrupted? Share your experience.`,
-    bodyJa: `私のフライトが欠航または遅延した場合、私の権利はどうなりますか?
-- 公開されました
-航空交通管制の問題により英国全土で約2,000便が運航停止となり、数千人の航空乗客が旅行計画を中断された。
-フライトが欠航または遅延した場合、影響を受ける乗客には、払い戻しや別のフライトに振り替えるなど、さまざまな権利があります。ただし、これらはご利用の航空会社およびどこから出発するかによって異なる場合があります。
-航空管制の問題などの問題ではなく、航空会社に過失がある場合にのみ、追加の補償金が支払われます。それがあなたにとって何を意味するかは次のとおりです。
-航空会社は乗客に何を提供しなければなりませんか?
-フライトが遅延または欠航した場合、イギリスおよび EU の航空会社、およびお客様がイギリスまたは EU の空港を出発する際のその他の航空会社は、お客様の世話をする義務があります。
-遅延や中止の理由は問いません。したがって、航空輸送の遅延の影響を受ける人は誰でも対象となります。
-これには、必要に応じて食事や宿泊施設を提供し、目的地まで送迎することも含まれます。航空会社は、追加料金なしで代替便を手配してくれるはずです。
-未使用の宿泊施設など、追加の損失が発生した場合は、クレジット カード プロバイダーへの請求が必要になる場合があります (クレジット カード プロバイダーが使用された支払いオプションである場合)。
-その後、旅行保険会社に請求が必要になる場合があります。しかし、何がカバーされるのかについての標準的な定義はありません。
-何がどのような状況でカバーされるのかを確認するには、ポリシーの詳細を詳しく調べる必要がある場合があります。
-また、旅行保険の権利にも影響を与える可能性があるため、乗客は英国政府外からの旅行に関するアドバイスに注意するよう求められています。
-フライトがキャンセルされた場合、払い戻しまたは別のフライトを受け取ることはできますか?
-ご利用のフライトが英国の法律の対象となる場合、航空会社はお客様に払い戻しを受けるか、代替便を予約するかのどちらかを選択させる必要があります。
-それは、キャンセルがどれだけ前に行われたかに関係ありません。
-チケットの未使用部分については返金を受けられます。
-したがって、復路の航空券を予約し、往路がキャンセルされた場合は、復路の航空券の全額を返金してもらうことができます。
-それでも旅行を希望する場合は、航空会社が代替便を見つけてくれる必要があります。
-別の航空会社が目的地に大幅に早く到着する場合、または他の適切な交通手段がある場合は、代わりにその代替交通手段を予約する権利があります。
-英国または EU 以外の航空会社で英国に到着するフライトの場合は、予約の利用規約を確認する必要があります。
-航空会社は食事や宿泊費を負担してくれるのでしょうか？
-フライトの欠航により海外または空港で立ち往生した場合、英国の法律が適用される航空会社は、その他の支援も提供する必要があります。
-これには以下が含まれます:
-妥当な量の食べ物と飲み物（多くの場合、バウチャーの形で）
-通信手段（多くの場合、通話料金の払い戻しによる）
-翌日のフライトのために一晩滞在する必要がある場合は、無料の宿泊施設が必要です
-宿泊施設への往復送迎
-航空会社がサポートを手配できない場合、お客様はご自身でサポートを手配し、後で費用を請求する権利を有します。
-民間航空局は人々に対し、領収書を保管し、必要以上に支出しないようにアドバイスしている。
-フライトが短距離便の場合は 2 時間、中距離便の場合は 3 時間、長距離便の場合は 4 時間以上遅延した場合、キャンセルの場合と同様のサポートを受ける権利があります。
-5 時間以上遅延し、旅行を希望しなくなった場合は、全額返金を受けることができます。
-パッケージ旅行を予約した場合、私の権利は何ですか?
-ABTA 会員である会社でパッケージ旅行を予約し、フライトがキャンセルされた場合は、適切な代替フライトまたは全額返金を受ける権利があります。
-中断に対して追加の補償を請求できますか?
-航空交通管制の問題などによる混乱だけでなく、悪天候、空港職員によるストライキ、紛争、その他の「異常事態」によって引き起こされた混乱は、追加の補償を受け取る権利を与えません。
-ただし、その他の状況において、航空会社の過失であるとみなされる場合、お客様には英国法に基づいた対外的な多くの権利があります。
-これらは、英国の空港からいずれかの航空会社で出発する場合、EU または英国の航空会社で英国の空港に到着する場合、または英国の航空会社で EU 内の空港に到着する場合に適用されます。
-あなたが受け取る権利があるものは、キャンセルの原因と通知がどれくらいの期間であったかによって異なります。
-2 週間以内に通知せずにフライトがキャンセルされた場合、提供された代替フライトのタイミングに基づいて補償を請求できる場合があります。
-受け取る権利のある金額は、旅行距離によっても異なります。
-グラスゴーからアムステルダムなど、1,500km未満のフライトの場合、1人あたり最大220ポンドを請求できます
-イーストミッドランズからマラケシュなど、1,500kmから3,500kmのフライトの場合、1人あたり最大350ポンドを請求できます
-ロンドンからニューヨークなど、3,500kmを超えるフライトの場合、1人あたり最大520ポンドを請求できます
-飛行機の遅延で仕事に遅刻した場合はどうすればよいですか?
-航空会社は逸失利益の返金はしません。旅行保険でも通常、収入の損失はカバーされません。
-法律専門家によれば、飛行機の遅延で仕事に戻るのが遅くなりそうな場合、雇用主に知らせる責任があるという。
-年次有給休暇の利用や無給休暇の取得など、欠勤への対処方法について雇用主と合意する必要があります。
-専門家らによると、契約書に明記されていない限り、雇用主はこのような状況で欠勤した従業員に給与を支払う法的義務はないという。
-連絡する
-旅行計画が中断されましたか?あなたの経験を共有してください。`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-09T08:04:14+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a08/live/30e50cb0-ac29-11f1-bc1f-3f186ca4140c.png",
-    readTime: 6,
   },
 ];
 
