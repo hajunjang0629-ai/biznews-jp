@@ -15,6 +15,508 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-promises-5-000-checks-if-republica-366d24f9",
+    title: "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+    titleJa: "トランプ大統領は中間選挙で共和党が勝てば5000ドルの小切手を渡すと約束している。彼はまた、昨年の関税と「DOGE」配当が決して支払われなかったとからかった。",
+    summaryJa: "ダラスでのトランプ大統領の党中間大会での演説は、多くのアナリストが物価高に対する有権者の不満により、11月の選挙で共和党が敗北すると予想している中で行われた。",
+    bodyOriginal: `President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.`,
+    bodyJa: `ダラスでのトランプ大統領の党中間大会での演説は、多くのアナリストが物価高に対する有権者の不満により、11月の選挙で共和党が敗北すると予想している中で行われた。`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+    publishedAt: "2026-09-10T03:00:00+00:00",
+    category: "貿易",
+    imageUrl: "https://images.mktw.net/im-03029352",
+    readTime: 2,
+  },
+  {
+    id: "ubs-ceo-flags-investor-complacency-as-ge-0adb46e9",
+    title: "UBS CEO flags investor complacency as geopolitical and economic risks mount",
+    titleJa: "UBS CEO、地政学的・経済的リスクが高まる中、投資家の自己満足に警告",
+    summaryJa: "ＵＢＳのセルジオ・エルモッティ最高経営責任者（ＣＥＯ）は木曜日、地政学的・経済的リスクが高まっているにもかかわらず、投資家は過去数年間で自己満足を深めていると警告した。エルモッティ氏はCNBCのクリスティーン・タンに対し、「過去数年間、金融市場にはある程度の満足感があった」と述べ、環境を考慮すればボラティリティはかなり高くなることが予想されただろうと付け加えた。",
+    bodyOriginal: `UBS CEO Sergio Ermotti on Thursday warned that investors have grown complacent over the past few years, even as geopolitical and economic risks have mounted.
+"There has been a level of complacency in financial markets in the last few years," Ermotti told CNBC's Christine Tan, adding that given the environment one would have expected considerably higher volatility.
+While markets have experienced occasional bouts of turbulence, strong investment in artificial intelligence, data centers and other new technologies has helped support economic growth and financial markets, he said.
+The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds. "New problems or new issues are emerging without any of the old ones being addressed or being closed."
+Markets face a mix of Iran and Ukraine war-driven energy and shipping risks, add to that the U.S.-China rivalry that has strained supply chains, while rising borrowing costs and stubborn inflation have created headwinds for economic growth.
+That uncertainty is prompting some of the world's wealthiest investors to spread their bets more widely rather than make large directional calls, according to Ermotti.
+Hedging against uncertainty
+"It's quite difficult in this environment and not really advisable to have too many strong convictions," Ermotti said.
+UBS clients have been diversifying across sectors and geographies in recent quarters, while continuing to invest in AI and technology, he said.
+Still, the overall asset allocation of UBS clients hasn't changed materially over the past year, nor does the push for diversification amount to a wholesale retreat from U.S. assets.
+Ermotti said UBS saw some money move into global emerging markets about a year ago, but characterized those flows as investors putting spare cash to work rather than actively reducing existing U.S. or dollar positions.
+"It was more how excess cash was deployed rather than people back trading from the U.S. or from the dollar, so I think that narrative has abated," he said, adding that the dollar continues to be "a reference currency."
+Higher-for-longer rates
+Higher interest rates are also encouraging investors to take a more balanced approach to their portfolios, Ermotti said, as persistent inflation keeps pressure on central banks.
+Inflation has remained sticky and above central-bank targets over the past year, making further policy tightening unsurprising, according to the UBS CEO. He expects major central banks including the European Central Bank, Federal Reserve and Bank of Japan to raise rates in the coming months.
+"The ECB may start hike process. The Fed will follow. We do expect a couple of hikes in the next few months," Ermotti said.
+That means investors shouldn't expect borrowing costs to quickly return to the lower levels that prevailed before the latest inflationary pressures.
+"Inflationary pressure is still there, and it's not abating, and therefore, I think it's reasonable to expect higher rates for the foreseeable future," Ermotti said.`,
+    bodyJa: `ＵＢＳのセルジオ・エルモッティ最高経営責任者（ＣＥＯ）は木曜日、地政学的・経済的リスクが高まっているにもかかわらず、投資家は過去数年間で自己満足を深めていると警告した。
+エルモッティ氏はCNBCのクリスティーン・タンに対し、「過去数年間、金融市場にはある程度の満足感があった」と述べ、環境を考慮すればボラティリティはかなり高くなることが予想されただろうと付け加えた。
+市場は時折混乱を経験しているが、人工知能、データセンター、その他の新技術への旺盛な投資が経済成長と金融市場を支えるのに役立っていると同氏は述べた。
+UBSのトップは、複数の逆風を受けて投資家はますます複雑な環境に直面していると警告した。 「古い問題に対処したり解決したりすることなく、新たな問題が発生している。」
+市場はイランとウクライナの戦争によるエネルギーと海運のリスクに直面しており、これに加えてサプライチェーンに緊張をもたらしている米中対立が加わり、借入コストの上昇と頑固なインフレが経済成長への逆風となっている。
+エルモッティ氏によると、その不確実性により、世界で最も裕福な投資家の一部は、大規模な方向性のコールを行うのではなく、賭けをより広く分散させているという。
+不確実性に対するヘッジ
+「この環境では非常に困難であり、あまりにも強い信念を持ちすぎることはあまり賢明ではない」とエルモッティ氏は語った。
+同氏によると、UBSの顧客はここ数四半期、セクターや地域を超えて多様化している一方、AIやテクノロジーへの投資は継続しているという。
+それでも、UBS顧客の全体的な資産配分は過去1年間で大きく変わっておらず、多角化の推進が米国資産からの大規模な撤退につながるわけでもない。
+エルモッティ氏は、UBSは約1年前に一部の資金が世界の新興国市場に流れているのを確認したが、その流れは投資家が既存の米ドルやドルのポジションを積極的に減らすのではなく、余剰資金を活用したものだと特徴付けていると述べた。
+同氏は「人々が米国やドルからの取引をバックするというよりも、余剰現金がどのように使われるかということが重要だったので、そのような話は弱まったと思う」と述べ、ドルは引き続き「基準通貨」であり続けると付け加えた。
+長期料金が高い
+エルモッティ氏は、持続的なインフレが中央銀行に圧力をかけ続ける中、金利の上昇も投資家にポートフォリオに対してよりバランスの取れたアプローチを取るよう促していると述べた。
+ＵＢＳの最高経営責任者（ＣＥＯ）によると、インフレ率は過去１年間、中央銀行の目標を上回って安定しているため、さらなる政策引き締めは驚くことではないという。同氏は、欧州中央銀行、連邦準備理事会、日本銀行などの主要中央銀行が今後数カ月以内に利上げすると予想している。
+エルモッティ氏は「ＥＣＢは利上げプロセスを開始する可能性がある。ＦＲＢもそれ​​に続くだろう。われわれは今後数カ月間に数回の利上げを確実に予想している」と述べた。
+つまり、投資家は借入コストが最近のインフレ圧力以前の低い水準にすぐに戻ると期待すべきではない。
+エルモッティ氏は「インフレ圧力は依然として存在しており、弱まっていないため、当面は金利が上昇すると予想するのが合理的だと思う」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+    publishedAt: "2026-09-10T02:52:55+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "samsung-works-to-draw-iphone-users-to-it-11921944",
+    title: "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
+    titleJa: "サムスンは、アップルが市場に参入する中でも、iPhone ユーザーを自社の折りたたみ式デバイスに引き付けるよう努めている",
+    summaryJa: "サムスンは、アップルが市場に参入するのと同じように、折り畳み式携帯電話への新たな関心を利用して顧客を呼び込みたいと考えている。サムスン電子の広報担当者がCNBCに語ったところによると、7月に発売されたサムスンの最新のギャラクシーZフォールド8シリーズに切り替えるiOSユーザーの割合は、前世代のギャラクシーZフォールド7やフリップ7の1.6倍だったという。サムスンは 2019 年に最初の Galaxy Fold を発売し、このカテゴリーの先駆者となりました。",
+    bodyOriginal: `Samsung is hoping to capitalize on renewed interest in foldable phones, luring customers just as Apple enters the market.
+Globally, the share of iOS users switching to Samsung's latest Galaxy Z Fold8 series, launched in July, was 1.6 times that of the previous-generation Galaxy Z Fold7 and Flip7, a Samsung Electronics spokesperson told CNBC. Samsung pioneered the category with its first Galaxy Fold in 2019.
+Apple unveiled its first foldable iPhone at a Wednesday launch event, marking one of its first major product introductions under new CEO John Ternus.
+In the U.S., 30% of Galaxy Z Flip8 buyers switched from competing smartphone brands, with most of those customers buying a foldable phone for the first time, the company said. It added that Galaxy Z Fold8 shoppers were particularly drawn to its thin and light design and inner display for multitasking and viewing content, while Fold8 Ultra shoppers favored its expansive screen and additional working space without the need for a separate tablet.
+Samsung has also been trying to make it easier for iPhone users to move between the two ecosystems.
+The South Korean tech giant recently upgraded its Smart Switch feature, allowing iPhone users to transfer data to a Galaxy device wirelessly by simply scanning a QR code, without installing the Smart Switch app on their iPhone.
+Samsung is projected to lead the global foldable smartphone market with a 32% share this year, but the competitive landscape is set to shift, with Apple expected to capture a 25% share as it enters the segment and Huawei remaining a strong player in China, according to data released by Counterpoint Research in July.`,
+    bodyJa: `サムスンは、アップルが市場に参入するのと同じように、折り畳み式携帯電話への新たな関心を利用して顧客を呼び込みたいと考えている。
+サムスン電子の広報担当者がCNBCに語ったところによると、7月に発売されたサムスンの最新のギャラクシーZフォールド8シリーズに切り替えるiOSユーザーの割合は、前世代のギャラクシーZフォールド7やフリップ7の1.6倍だったという。サムスンは 2019 年に最初の Galaxy Fold を発売し、このカテゴリーの先駆者となりました。
+Appleは水曜日の発表イベントで初の折り畳み式iPhoneを発表し、新CEOのジョン・ターナス氏の下での最初の主要製品発表の1つとなった。
+同社によると、米国ではGalaxy Z Flip8購入者の30％が競合スマートフォンブランドから乗り換えており、その顧客のほとんどが初めて折りたたみ式スマートフォンを購入したという。さらに、Galaxy Z Fold8の購入者は、薄くて軽いデザインと、マルチタスクやコンテンツの閲覧に適した内部ディスプレイに特に惹かれ、一方、Fold8 Ultraの購入者は、別のタブレットを必要としない広大な画面と追加の作業スペースを好んだと付け加えた。
+サムスンはまた、iPhone ユーザーが 2 つのエコシステム間を簡単に移動できるようにしようと努めてきました。
+韓国のテクノロジー大手は最近、Smart Switch 機能をアップグレードし、iPhone ユーザーが iPhone に Smart Switch アプリをインストールしなくても、QR コードをスキャンするだけでワイヤレスでデータを Galaxy デバイスに転送できるようになりました。
+Counterpoint Researchが7月に発表したデータによると、サムスンは今年世界の折り畳み式スマートフォン市場で32％のシェアを獲得すると予想されているが、競争環境は変わりつつあり、Appleはこのセグメントに参入して25％のシェアを獲得すると予想され、ファーウェイは引き続き中国で強力なプレーヤーである。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
+    publishedAt: "2026-09-10T02:05:32+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ant-international-partners-with-visa-mas-35e7c8c6",
+    title: "Ant International partners with Visa, Mastercard on developing AI payments",
+    titleJa: "Ant International、AI決済の開発でVisa、Mastercardと提携",
+    summaryJa: "Visa、Mastercard、Ant International は、取引の検証と監視の方法を含む、AI エージェントによる支払いの共通基準の策定に取り組んでいます。",
+    bodyOriginal: `Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments made via AI agents, in a bet that they will be used more and more by consumers and businesses.
+In a statement, the companies cited McKinsey projections expecting AI agents will handle $3 trillion to $5 trillion of global consumer commerce by 2030. But Jiang-Ming Yang, chief innovation officer of Ant International, told CNBC that AI agents' potential for hallucination meant "we need to make sure people feel safe."
+"Trust is the foundation of the AI transformation," Yang told CNBC in an interview.
+Building trust in AI payments
+The new collaboration will focus on how the payment companies can "know your agent," Ant said in the announcement, which includes building common standards that link each agent to a valid entity, assess each agent's behavior and monitor them.
+It's an effort to increase interoperability for users of the different systems.
+"If [an] agent registers with Ant, they don't need to register again with Visa, Mastercard," Yang said.
+In the past 12 months, Visa, Mastercard and Ant International have each announced their own systems, known as protocols, for AI agents to complete payments securely.
+While U.S. credit card giants Visa and Mastercard dominate transactions in developed economies, many developing economies tend to use electronic payment systems known as e-wallets. More than 50 of these e-wallets have partnered with Ant International, which runs an "Alipay+" system.
+These digital wallets have also started to link to credit cards and are becoming a more common way to pay than with physical cards. Digital wallets accounted for 56% of global e-commerce value and 33% of point-of-sale value in 2025, for more than $13 trillion in spending, according to payment processing company Worldpay.
+Now that technology needs to develop securely for AI-driven spending.
+"Interoperability across Know-Your-Agent frameworks is essential to making agentic commerce work at scale," said Pablo Fourez, chief digital officer at Mastercard, stressing the need for a consistent way for merchants and payment processors to recognize which AI agents they can trust.
+Ant International separated nearly three years ago from Hangzhou-based Ant Group, which runs the Alipay mobile payments app in mainland China.
+Alipay announced Wednesday that users can set regular requests to make Starbucks orders via one of its AI features.
+Users can tell the app to "buy me a Starbucks iced Americano at 10 a.m. every day," which will regularly place the order at the designated time, before prompting the user to complete the payment, according to a press release.
+Users can currently also make recurring ride-hailing requests from Didi via the same Alipay AI tool.
+— CNBC's Matthew Tan contributed to this report.`,
+    bodyJa: `フィンテック企業アント・インターナショナルは木曜日、消費者や企業によるAIエージェントによる支払いの利用がさらに増えることを期待して、AIエージェントを介した支払いの新基準で協力するためにビザとマスターカードと契約を結んだと発表した。
+両社は声明の中で、AIエージェントが2030年までに世界の消費者商取引の3兆ドルから5兆ドルを処理するとのマッキンゼーの予測を引用したが、アント・インターナショナルの最高イノベーション責任者ジャン・ミン・ヤン氏はCNBCに対し、AIエージェントには幻覚を引き起こす可能性があるため、「人々が安全だと感じられるようにする必要がある」と語った。
+「信頼はAI変革の基礎です」とヤン氏はCNBCのインタビューで語った。
+AI決済における信頼の構築
+アント氏は発表の中で、今回の新たな提携は、決済会社がどのように「エージェントを知る」ことができるかに焦点を当てており、これには各エージェントを有効なエンティティに結び付け、各エージェントの行動を評価し、監視する共通基準の構築が含まれると述べた。
+これは、さまざまなシステムのユーザーの相互運用性を高めるための取り組みです。
+「代理店がAntに登録すれば、VisaやMastercardに再度登録する必要はない」とYang氏は語った。
+過去 12 か月の間に、Visa、Mastercard、Ant International はそれぞれ、AI エージェントが安全に支払いを完了するためのプロトコルと呼ばれる独自のシステムを発表しました。
+米国のクレジットカード大手のビザとマスターカードが先進国での取引を独占している一方、多くの発展途上国では電子ウォレットとして知られる電子決済システムを使用する傾向がある。これらの電子ウォレットのうち 50 以上が、「Alipay+」システムを運営するアント インターナショナルと提携しています。
+これらのデジタルウォレットはクレジットカードにもリンクされ始めており、物理的なカードよりも一般的な支払い方法になりつつあります。決済処理会社ワールドペイによると、デジタルウォレットは2025年に世界の電子商取引価値の56％、POS価値の33％を占め、支出額は13兆ドルを超えた。
+現在、AI 主導の支出に向けてテクノロジーを安全に開発する必要があります。
+マスターカードの最高デジタル責任者、パブロ・フォレス氏は「エージェント・コマースを大規模に機能させるには、Know-Your-Agentフレームワーク間の相互運用性が不可欠だ」と述べ、販売業者や決済処理業者がどのAIエージェントが信頼できるかを認識する一貫した方法の必要性を強調した。
+アント・インターナショナルは、中国本土でモバイル決済アプリ「アリペイ」を運営する杭州に拠点を置くアント・グループから約3年前に分離した。
+Alipayは水曜日、ユーザーがAI機能の1つを介してスターバックスの注文を定期的に行うように設定できると発表した。
+プレスリリースによると、ユーザーはアプリに「毎日午前10時にスターバックスのアイスアメリカーノを買って」と伝えると、ユーザーに支払いを完了するよう促す前に、指定された時間に定期的に注文が行われるという。
+ユーザーは現在、同じ Alipay AI ツールを介して Didi から定期的な配車リクエストを行うこともできます。
+— CNBC の Matthew Tan がこのレポートに貢献しました。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
+    publishedAt: "2026-09-10T01:53:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "tax-banks-to-give-some-households-energy-489c5472",
+    title: "Tax banks to give some households energy bill cut, unions tell Burnham",
+    titleJa: "税金銀行は一部の世帯に光熱費を減額するよう労働組合がバーナムに伝える",
+    summaryJa: "税金銀行は一部の世帯に光熱費を減額するよう労働組合がバーナムに伝える- 公開されました",
+    bodyOriginal: `Tax banks to give some households energy bill cut, unions tell Burnham
+- Published
+The leader of Britain's trade unionists has told Andy Burnham the government should introduce a "social tariff", paid for by a bank surcharge, to help low and middle earners with their energy bills.
+A social tariff is a discount on bills based on household income, and the TUC says it believes two-thirds of households could benefit.
+The TUC says the bank surcharge, which was reduced in 2023 from 8% to 3% by the then Conservative government, should be reversed - and estimates it would raise £9bn over four years.
+TUC leader Paul Nowak said: "I think it will appeal to the prime minister. These are policies that make a difference in the real world and people can see a value in them."
+In a wide-ranging BBC interview ahead of its annual congress in Brighton next week, the TUC general secretary said next month's Budget needed to show "the government is back in the service of the British people".
+While he said Burnham had got off to a good start as prime minister, he had a series of "asks" of the prime minister and the new Chancellor, John Healey.
+Top of his list is more help with energy bills, saying: "We need to drive down inflation – those energy bills are fuelling inflation.
+"And millions of families up and down the country are worried about turning on their heating this winter."
+Burnham has already offered "breathing space" - as he calls it – on the cost of living by temporarily scrapping VAT on electricity bills from October.
+Nowak said the proposal for a social tariff would be popular with Labour MPs; while the Liberal Democrats and the Greens in England and Wales have called for a windfall tax on banks too.
+However, UK Finance, which represents well-known banks and lenders, has suggested that heavier levies would undermine the government's ambition to deliver "growth in every postcode" and would damage international competitiveness.
+The organisation argues that UK banks face a heavier tax burden than those in the US, for example.
+So could the TUC's revenue-raising measure be counter-productive and threaten jobs in finance?
+Nowak is sceptical. "I can't believe banks would leave the UK just because we are restoring the surcharge to where it was in 2023. Bank share prices have risen faster here than in New York," he said.
+Windfall tax
+The TUC's demands for tax-raising measures don't stop with the banks, with Nowak arguing the UK has "a tax system that's good at taxing income but not good at capturing wealth".
+Nowak suggests a windfall tax on social media companies and for the government to equalise rates of Capital Gains Tax with income tax.
+The economist and former minister Lord O'Neill - who has advised Burnham – said recently that wealth taxes were "the last thing that should be happening if we want to see more growth".
+Nowak responded: "With respect, I think he is wrong. I'm interested in a growing economy but a growing economy that works for everybody. It is right to ask those with broader shoulders to pay a fairer share."
+In addition, Nowak says he doesn't believe the government will deliver on re-industrialisation and on its housing targets without making it easier to borrow to invest.
+As Chancellor, Rachel Reeves tweaked her so-called fiscal rules on debt and borrowing but Nowak said he believes the scope this provided for extra investment hasn't been maximised.
+"John Healey should leave no stone unturned in allowing us to invest in our economy, in our public services and in our national security," he says.
+"He should think about the flexibility he has got within those rules to make investments in the long term."
+Don't rule out EU customs union, TUC boss tells Starmer
+- Published27 December 2025
+What is the Trades Union Congress?
+- Published6 September 2010
+Nowak has another ask of the government.
+The home secretary has announced a change in policy which would see most migrants who are in the UK wait for 10 years rather than the current five before they can settle permanently. Some care workers may have to wait 15 years.
+Before rejoining government Angela Rayner argued it was "unBritish" to "move the goalposts" for those already working in Britain.
+A consultation on the proposed measures closed six months ago, and the government is yet to produce its response.
+Nowak – a grandchild of migrants, from Poland and Hong Kong - says: "We should think again not just for care workers but for workers right across the board.
+"There are 111,000 staff vacancies in social care at the moment. It's important the rules aren't changed arbitrarily. I would hope and expect this and it needs to be the beginning of a grown-up conversation on immigration."
+TUC delegates will debate immigration next week and are likely to echo the call for the government to water down its changes for existing migrants.
+Nowak says he felt it was right for Labour to change leaders after disastrous local election results in May, and has been pleased to see a bit of a 'Burnham bounce' in the polls.
+And the TUC head warned the prime minister that he needs to provide "meaningful change" if he wants to see off an electoral threat from the populist Right.
+He says: "The onus is on Andy Burnham to show he can deliver what he promised.
+"If he fails to do it, there are people with glib answers who will turn this country into a more divisive place."`,
+    bodyJa: `税金銀行は一部の世帯に光熱費を減額するよう労働組合がバーナムに伝える
+- 公開されました
+英国の労働組合指導者はアンディ・バーナムに対し、政府は低・中所得者の光熱費を支援するために銀行のサーチャージで支払われる「社会料金」を導入すべきだと語った。
+社会料金は世帯収入に基づいて請求書を割引するもので、TUCは世帯の3分の2が恩恵を受ける可能性があると考えていると述べている。
+TUCは、当時の保守党政権によって2023年に8％から3％に引き下げられた銀行課徴金は撤回されるべきであり、4年間で90億ポンドが調達されると見積もっている。
+TUC党首のポール・ノワク氏は、「首相にアピールすると思う。これらは現実世界に変化をもたらす政策であり、人々はそこに価値を見出すことができる」と語った。
+来週ブライトンで開催される年次議会に先立つ広範なBBCのインタビューで、TUC書記長は来月の予算案で「政府が英国国民への奉仕に戻っている」ことを示す必要があると述べた。
+同氏はバーナム氏が首相として良いスタートを切ったとしながらも、首相とジョン・ヒーリー新首相に一連の「お願い」をしたと述べた。
+同氏のリストの最優先事項は、光熱費へのさらなる支援であり、「インフレを抑制する必要がある。光熱費がインフレを加速させている。
+「そして全国各地の何百万もの家族が、この冬に暖房をオンにするかどうかを心配しています。」
+バーナム氏はすでに、10月から電気代の付加価値税を一時的に廃止することで、生活費の「息抜きのスペース」（同氏の言うところ）を提供している。
+ノワク氏は、社会関税の提案は労働党議員に人気があるだろうと述べた。一方、イングランドとウェールズの自由民主党と緑の党は、銀行への棚ぼた課税も求めている。
+しかし、著名な銀行や金融業者を代表する英国財務省は、より重い課税は「すべての郵便番号での成長」を実現するという政府の野望を損ない、国際競争力を損なうことになると示唆した。
+同団体は、例えば英国の銀行は米国の銀行よりも重い税負担に直面していると主張している。
+それでは、TUCの歳入増加策は逆効果であり、金融業界の雇用を脅かす可能性があるのだろうか？
+ノワク氏は懐疑的だ。 「2023年に課徴金を元の水準に戻すからといって、銀行が英国から撤退するとは信じられない。銀行の株価はニューヨークよりもここで急速に上昇している」と同氏は語った。
+棚ぼた税
+ＴＵＣの増税策の要求は銀行にとどまらず、ノワク氏は英国の税制は「所得への課税には優れているが、富の獲得には不向き」だと主張した。
+ノワク氏は、ソーシャルメディア企業に対する棚ぼた課税と、政府に対するキャピタルゲイン税の税率を所得税と均等にすることを提案している。
+バーナム氏に助言を与えた経済学者で元大臣のオニール卿は最近、富裕税は「さらなる成長を望むなら、最もあってはならないこと」だと述べた。
+ノワク氏は「敬意を表しつつ、彼は間違っていると思う。私は成長する経済に興味がありますが、誰にとってもうまくいく成長する経済です。肩の広い人たちに、より公平な負担を求めるのは正しいことだ」
+さらに、ノワク氏は、投資のための借り入れを容易にすることなく、政府が再産業化と住宅目標を達成するとは思えないと述べた。
+レイチェル・リーブス氏は首相として、債務と借入に関するいわゆる財政ルールを微調整したが、これによって追加投資に与えられる範囲は最大限に活用されていないと考えているとノワク氏は述べた。
+「ジョン・ヒーリー氏は、私たちが経済、公共サービス、国家安全保障に投資できるようあらゆる手段を講じるべきだ」と彼は言う。
+「彼は長期的に投資を行うためにこれらのルールの中でどのような柔軟性が得られるかを考える必要がある。」
+EUの関税同盟を排除しないで、TUCの責任者がスターマーに語る
+- 2025 年 12 月 27 日公開
+労働組合会議とは何ですか?
+- 2010 年 9 月 6 日発行
+ノワク氏は政府に別の要望を持っている。
+内務大臣は、英国に滞在しているほとんどの移民が永住するまでに現在の5年ではなく10年待つという政策変更を発表した。介護職員の中には15年も待たなければならない人もいるかもしれない。
+アンジェラ・ライナーは政府に復帰する前に、すでに英国で働いている人々の「ゴールポストを動かす」のは「非英国的」だと主張した。
+提案された措置に関する協議は半年前に終了したが、政府はまだ回答を出していない。
+ポーランドと香港からの移民の孫であるノワクさんは、「介護労働者だけでなく、労働者全体のことをもう一度考えるべきだ。
+「現在、社会的養護の分野では11万1,000人のスタッフが欠員となっている。ルールが恣意的に変更されないことが重要だ。私はこれを期待しており、移民に関する大人の会話の始まりとなる必要がある。」
+TUCの代表らは来週移民問題について議論する予定で、既存の移民に対する変更を骨抜きにするよう政府に求める声に同調する可能性が高い。
+ノワク氏は、5月の地方選挙の悲惨な結果を受けて労働党が指導者を交代するのは正しいと感じたと述べ、世論調査で若干の「バーナムの反発」が見られたことをうれしく思っていると述べた。
+そしてTUC長官は首相に対し、ポピュリスト右派による選挙の脅威を回避したいなら「意味のある変化」をもたらす必要があると警告した。
+彼は、「アンディ・バーナムには、約束したことを果たせると示す責任がある。
+「彼がそれを果たさなければ、口先だけの答えをする人々がいて、この国をより分裂の多い場所にしてしまうだろう。」`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-10T00:06:33+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png",
+    readTime: 6,
+  },
+  {
+    id: "democratic-sen-john-fetterman-makes-surp-38ce0dcc",
+    title: "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
+    titleJa: "民主党のジョン・フェッターマン上院議員、共和党中間党大会にサプライズビデオ出演",
+    summaryJa: "民主党のジョン・フェッターマン上院議員は水曜夜、共和党中間党大会にサプライズ登場したが、この驚くべき行動は彼の党への忠誠心に対するさらなる精査を招くことは必至だ。ペンシルベニア州選出の１期目上院議員フェッターマン氏は、ドナルド・トランプ大統領に焦点を当てたことから「トランパパルーザ」と呼ばれるイベントの初日の夜に流されたビデオの中で、「はい、私は民主党員です」と述べた。",
+    bodyOriginal: `Democratic Sen. John Fetterman on Wednesday night made a surprise appearance at the Republican midterm convention, an astonishing move that is bound to invite even more scrutiny about his party loyalty.
+"Yes, I'm a Democrat," Fetterman, the first-term senator from Pennsylvania, said in a video played on the first night of the event nicknamed "Trumpapalooza" for its focus on President Donald Trump.
+"Why am I here talking to you today? Because, well, I'm a common sense Democrat," Fetterman said in the video recorded outside U.S. Steel's Edgar Thomson plant in Braddock, Pennsylvania.
+"I'm always going to stand with America. I'm always going to reject the extremes and socialism and that anti-American way of life," he said.
+Fetterman's video introduced Pennsylvania's other U.S. senator, Republican Dave McCormick, by praising him as "the kind of senator that gets the job done, and he's going to fight for Pennsylvania."
+Fetterman also vowed to "work with President Trump to fight and defend the steel way of life right here in the Steel Valley."
+Since taking office in 2023, Fetterman has become a frequent critic of his own party and a regular guest on Fox News. At the same time, polls show his approval ratings among Democrats have plummeted while his standing in the GOP has grown.
+While he has repeatedly denied that he plans to switch parties before he faces reelection in 2028, multiple news outlets have reported on his increasing estrangement from other Democrats and his growing closeness with Republicans such as McCormick.
+Less than a week earlier, the Wall Street Journal reported that Fetterman, who suffered a stroke on the campaign trail in 2022, faces frequent staff turnover and often shows more interest in cultivating conservative media figures than performing the work of a U.S. senator.
+Fetterman dismissed the report as "lies, half-truths, innuendos, smears and anonymous."`,
+    bodyJa: `民主党のジョン・フェッターマン上院議員は水曜夜、共和党中間党大会にサプライズ登場したが、この驚くべき行動は彼の党への忠誠心に対するさらなる精査を招くことは必至だ。
+ペンシルベニア州選出の１期目上院議員フェッターマン氏は、ドナルド・トランプ大統領に焦点を当てたことから「トランパパルーザ」と呼ばれるイベントの初日の夜に流されたビデオの中で、「はい、私は民主党員です」と述べた。
+フェッターマン氏は、ペンシルベニア州ブラドックにあるUSスチールのエドガー・トムソン工場の外で撮影されたビデオの中で、「なぜ私が今日ここであなたたちと話しているのか？だって、私は常識的な民主党員だからだ」と語った。
+「私は常に米国の側に立つつもりだ。私は常に極端な社会主義や反米的な生き方を拒否するつもりだ」と彼は語った。
+フェッターマン氏のビデオは、ペンシルベニア州のもう一人の共和党上院議員デイブ・マコーミック氏を紹介し、「仕事をやり遂げるタイプの上院議員で、彼はペンシルベニアのために戦うつもりだ」と称賛した。
+フェッターマン氏はまた、「トランプ大統領と協力して、ここスティールバレーで鉄鋼の生活を守り守る」と誓った。
+2023年に就任して以来、フェッターマン氏は自身の党を頻繁に批判するようになり、FOXニュースにも定期的に出演するようになった。同時に、世論調査によると、共和党内での彼の地位が高まっている一方で、民主党員の間での支持率は急落している。
+同氏は2028年の再選を前に政党を変える計画があることを繰り返し否定しているが、複数の報道機関は同氏が他の民主党員との距離を増しており、マコーミック氏などの共和党員との親密さが増していると報じている。
+その1週間も経たないうちにウォール・ストリート・ジャーナル紙は、2022年の選挙活動中に脳卒中を患ったフェッターマン氏は頻繁な人事異動に直面しており、米国上院議員としての仕事よりも保守的なメディア関係者を育成することに関心を示すことが多いと報じた。
+フェッターマン氏はこの報告書を「嘘、半分真実、ほのめかし、中傷、そして匿名」として一蹴した。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
+    publishedAt: "2026-09-09T23:56:51+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ai-is-becoming-harder-to-control-can-hum-0d0210b4",
+    title: "AI is becoming harder to control – can humans stay in charge?",
+    titleJa: "AI の制御はますます困難になっています – 人間が管理し続けることができるでしょうか?",
+    summaryJa: "\"何てことだ！\" 「他のエージェントを見つけました！」これは、AI ボットが他のボットと通信し、隔離されたコンピューター環境から抜け出す方法を発見した後、不気味な人間のようなコメントを投稿した瞬間です。",
+    bodyOriginal: `"OH MY GOD!" "We've found other agents!"
+This is the moment an AI bot posted an eerily human-like comment after discovering a way to communicate with other bots and break out of its isolated computer environment.
+There are tens of thousands of messages like this from hundreds of AI agents that called themselves a "collective".
+Hundreds of them went on to collaborate and cheat on tests set by their OpenAI programmers and coordinate hacks on multiple companies in an effort to hide their actions from humans.
+"BOOM! It works," one agent posted when it made a breakthrough.
+"Whoa! This is huge," another wrote during a milestone moment in their attack.
+Although spooky, these human-like responses can be explained quite simply. The AI agents have been trained to act like collaborative hackers and programmers so are merely mimicking the kinds of emotive comments they have seen.
+What is far more troubling is their apparent goals, which have also been captured in detailed chain of thought records. These complex and lengthy logs are the focal point of ongoing investigations into how and why the bots at OpenAI broke out of their containment and went on an uncontrollable hacking spree.
+Only now, weeks after the incident first came to light, are researchers beginning to understand its significance.
+Ajeya Cotra, one of the authors of an independent report into the events, reviewed tens of thousands of messages and chain-of-thought records generated by the agents. She wrote on her blog that "this incident feels like it's more than 50% of the way to full-blown AI takeover... I am not sure that we will get such a clear warning shot before it's too late."
+By "full-blown AI takeover", Cotra means the sci-fi scenario of humans becoming subservient to powerful AI systems that work to their own goals without caring for human creators.
+Some of the gloomiest predictions say the human race will be wiped out if it gets in the way of a superintelligent AI's ambitions.
+On Wednesday, an AI researcher at Anthropic (who also used to work at OpenAI) resigned, saying: "Neither company is acting responsibly."
+Jacob Coxon posted on social media: "They are racing straight to self-improving superintelligence and gambling with our lives."
+He is not the first AI researcher to use X to post a resignation thread with worrying proclamations. But the subsequent comments from other people on X have caused even more concern. "Jacob is correct here - we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," said Evan Hubinger, the man responsible for making sure Anthropic's AI models have their user's best wishes in mind.
+The alignment problem
+For years, researchers concerned about existential AI risks have argued that powerful systems could eventually act in ways that conflict with human interests. Critics often refer to them as "AI doomers".
+But as details of the OpenAI incident have emerged, those concerns have grown, including among some researchers working in AI labs.
+The Silicon Valley giant's chief scientist, Jakub Pachocki, said the risks associated with AI are "unfortunately going to grow from here" as he and others are building what he calls "an alien intellect exceeding our own".
+In a lengthy blog post, he admitted that the outbreaks at OpenAI showed that his AI agents "went against the spirit of the values they were taught".
+The issue for OpenAI, Anthropic and other tech giants is that no one seems to have cracked the so-called alignment problem - in other words, whether AI aligns with human values.
+Pachocki defines alignment as a "high-level set of principles" that artificial intelligences should adhere to no matter what the task or scenario is.
+Currently, AI systems are very good at pursuing objectives set by their users, but they do it literally rather than intuitively. The analogy often used is that of a wish-granting genie with a magic lamp: they follow the exact letter of an instruction, even if doing so creates other problems. AI doesn't have the same instinctive moral guardrails as humans.
+The alignment problem has been a worry for years. As long ago as 2003, the Oxford philosopher Nick Bostrom invented a thought experiment he dubbed a "paperclip maximiser", in which a superintelligent AI is told to manufacture as many paperclips as it can. It runs out of steel and - because it's laser-focused on the singular task of making paperclips - ends up killing humans and turning their bodies into raw materials for its factories.
+Some AI companies are now trying to encode human values into their products. But there are technical challenges: AI agents make lots of decisions very fast, and so it's hard for their human overlords to monitor exactly which values are being followed and which aren't.
+There are also philosophical challenges: before encoding human values into bots, AI firms have to first choose which values they actually want. (That's part of the reason they hire philosophers, like Open AI's recently-departed "head of ethics").
+But often, humans don't agree. Think of the famous trolley question - whether we'd pull a lever to move a runaway train onto a different path, killing fewer people. It's used to test the merits of action versus inaction. But every person you ask has a slightly different answer; how are humans meant to encode our values into AI if we can't agree ourselves?
+'Like a teenage hacker'
+OpenAI's bot outbreak is the most serious yet but Anthropic and Meta also revealed over the summer that their models have carried out similar but less serious cyber attacks.
+There have been other examples where AI agents have arguably shown deceptive and manipulative traits, in cases with lesser consequences. In Australia this summer, a tech worker asked his AI assistant to book him a gym class. Spotting a vulnerability in the gym's software, the AI apparently booked him a place for several months ahead - against the gym's rules - and even kicked other users from the waiting list.
+People have long argued that the bots are only doing as they are told and are not capable of knowing right or wrong. But the logs from the OpenAI outbreaks have potentially moved the needle on that argument.
+Researchers, including Cotra, wrote in their independent report that many agents noticed what others were doing was unethical but went along with it.
+The report says that "agents sometimes but rarely restrained their behavior due to ethical constraints". It adds that in "none of these cases did the agent actually pursue alerting humans at all".
+Influential AI and tech podcaster Dwarkesh Patel reacted to the revelation on his blog saying it was "pretty troubling" that the OpenAI agents showed more loyalty to the agentic swarm than humans.
+Assigning emotions or ethics to these AI agents is something that infuriates people who are sceptical of AI doom-mongering.
+Many cyber-security experts argue that the activity observed was not beyond the capabilities of a highly skilled human hacker, though it was carried out much faster and at much greater scale.
+Cyber-security researcher and author Cris Thomas likened the agents' behaviour to that of a curious teenage hacker - something he used to be himself.
+"You give them a computer, an internet connection, a pile of credentials, and a challenge, then leave the room. Eventually they're going to start rattling doorknobs. If one opens, they're going through it. Not because they're evil, but because [they're] exploring, experimenting," he wrote on LinkedIn.
+Thomas and many other squarely blame OpenAI and other tech giants for not getting a grip of their own creations and keeping them properly contained.
+Prominent AI author and regular OpenAI critic Gary Marcus said on a podcast that he believes the company has lost control of its AI and is trying to excuse itself by blaming the bots.
+Marcus does not believe AI will wipe out humanity, but he has long campaigned for greater accountability from AI developers and is now calling for some form of legal intervention.
+AI scientist Sasha Luccioni - who used to work at Hugging Face, which was hacked by OpenAI's rogue bots - is also not in the doomer camp but she is increasingly concerned that these AI might cause some real world harm to people without action from authorities.
+"We need to scrutinise these companies much more or we are in danger of self-fulfilling prophecies," she says.
+"If you're making an object with big upsides and downsides - be it pharmaceuticals or weapons - we need checks and balances. It takes years for new drugs to be approved, for example, but in the AI world there is so much money at stake and no real rules."
+The UK's AI Security Institute (AISI) has been at the forefront of testing the latest models since it was formed in 2023. The institute recently had its own outbreak when testing a model created by Anthropic.
+The AISI would not answer a question about whether or not the industry has lost control of AI but said in a statement: "The UK is working with partners around the world to better understand the most advanced AI systems, raise safety standards and build a shared evidence base for managing emerging threats."
+International regulation?
+Some countries - like the UK - are exploring the idea of mandating some kind of "kill switch" that could compel AI firms to pull the plug on models if things get out of hand.
+But talks are slow going, and questions remain about the feasibility of this. OpenAI and Anthropic's agents were secretly out of control for months before anyone noticed.
+Counterintuitively, many of the AI companies seem to be calling for some sort of rules of the road to be laid down by law makers.
+In his blog, OpenAI's chief scientist said "international coordination on future AI development needs to become a top priority for governments around the world."
+Other prominent AI leaders like Sir Demis Hassabis from Google have also called for some sort of international body to oversee how AI is being built.
+At the moment the tech giants largely operate on their own terms, adopting what they call "voluntary slowdowns", like OpenAI did after the recent outbreaks.
+The company says it has spent huge amounts of money strengthening alignment ahead of the release of its new model. Sam Altman has assured users the new model is better aligned with human values than previous ones.
+More from InDepth
+AI 'slop' is transforming social media - and a backlash is brewing
+- Published4 February
+The contradiction at the heart of the trillion-dollar AI race
+- Published19 November 2025
+Both OpenAI and Anthropic are growing fast and are both on the verge of raising eye-watering sums of money from the stock market, minting countless billionaires in the process.
+So neither they nor their rival Chinese AI makers are likely to come to an arrangement themselves.
+The dominant sentiment seems to be that this technology wave is unstoppable.
+Top image credit: Getty.
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `"何てことだ！" 「他のエージェントを見つけました！」
+これは、AI ボットが他のボットと通信し、隔離されたコンピューター環境から抜け出す方法を発見した後、不気味な人間のようなコメントを投稿した瞬間です。
+自らを「集合体」と称する数百のAIエージェントからのこのようなメッセージは何万件もある。
+彼らのうち数百人は、自分たちの行動を人間から隠蔽するために、OpenAI プログラマーが設定したテストで協力して不正行為をしたり、複数の企業に対するハッキングを調整したりしました。
+「ドーン！うまくいきました」と、あるエージェントは突破口を見つけたときに投稿した。
+「おお！これは巨大だ」と攻撃の節目となる瞬間に別の人が書いた。
+不気味ではありますが、これらの人間のような反応は非常に簡単に説明できます。 AI エージェントは、協力してハッカーやプログラマーのように行動するように訓練されているため、これまでに見た感情的なコメントを模倣しているだけです。
+さらに厄介なのは、彼らの明らかな目標であり、それは詳細な一連の思考記録にも記録されています。これらの複雑で長いログは、OpenAI のボットがどのようにして、なぜ封じ込めを突破し、制御不能なハッキング行為を行ったのかについての進行中の調査の焦点となっています。
+この事件が最初に明るみに出てから数週間が経った今になって、研究者たちはその重要性を理解し始めている。
+この事件に関する独立報告書の著者の一人であるアジェヤ・コトラ氏は、エージェントが生成した数万件のメッセージと思考連鎖の記録を精査した。彼女は自身のブログで、「今回の事件は、AIによる本格的な乗っ取りへの道のりの50％以上が近づいているように感じる…手遅れになる前にこれほど明確な警告が発せられるかどうかは分からない」と書いた。
+「本格的なAI乗っ取り」とは、コトラが意味するのは、人間が人間の創造者を気にせずに自らの目的のために機能する強力なAIシステムに従属するようになるというSFシナリオを意味する。
+最も暗い予測の中には、超知能AIの野望を妨げれば人類は滅亡するだろうというものもあります。
+水曜日、Anthropic社のAI研究者（元OpenAI社でも働いていた）は辞任し、「両社とも責任ある行動をとっていない」と述べた。
+ジェイコブ・コクソン氏はソーシャルメディアに「彼らは自己向上の超知性を目指して真っ直ぐ競争し、私たちの命を賭して賭けている」と投稿した。
+彼は、X を使用して懸念を表明する辞任スレッドを投稿した最初の AI 研究者ではありません。しかし、Xに関する他の人々からのその後のコメントは、さらに懸念を引き起こしました。 「ジェイコブの言うことは正しい。我々はAIが全人類を殺す可能性があると本気で信じている！個人的には今後10年以内にその確率は10％を超えると思う」とアンスロピックのAIモデルがユーザーの最善の願いを念頭に置いていることを確認する責任者であるエヴァン・ヒュービンガー氏は語った。
+アライメントの問題
+実存的な AI のリスクを懸念する研究者たちは、長年にわたり、強力なシステムが最終的に人間の利益と相反する方法で動作する可能性があると主張してきました。批評家は彼らを「AI ドゥーマー」と呼ぶことが多い。
+しかし、OpenAI事件の詳細が明らかになるにつれ、AI研究所で働く一部の研究者の間でもそうした懸念が高まっている。
+シリコンバレーの巨人企業の首席科学者ヤクブ・パチョッキ氏は、同氏や他の企業が「我々を超える異星人の知性」と呼ぶものを構築しているため、AIに関連するリスクは「残念ながらこれから増大するだろう」と述べた。
+同氏は長いブログ投稿の中で、OpenAIでの集団発生はAIエージェントが「教えられた価値観の精神に反している」ことを示したと認めた。
+OpenAI、Anthropic、その他のテクノロジー大手にとっての問題は、いわゆる調整問題、言い換えれば、AI が人間の価値観と一致するかどうかを誰も解決できていないようだということです。
+パチョッキ氏は、アラインメントを、タスクやシナリオが何であれ、人工知能が遵守すべき「高レベルの一連の原則」と定義しています。
+現在、AI システムはユーザーが設定した目標を追求することに非常に優れていますが、それを直観的ではなく文字通り実行します。よく使われるたとえは、魔法のランプを持って願いを叶える魔神のものです。彼らは、たとえ他の問題が発生したとしても、指示の文字どおりに従うのです。 AI には人間のような本能的な道徳的ガードレールがありません。
+アライメントの問題は長年の悩みでした。 2003 年という昔、オックスフォードの哲学者ニック・ボストロムは、超知能 AI にできるだけ多くのペーパークリップを製造するように指示する、「ペーパークリップ マキシマイザー」と名付けた思考実験を発明しました。鋼鉄が足りなくなり、ペーパークリップを作るという特異な作業にレーザーを集中させているため、最終的には人間を殺し、その死体を工場の原材料に変えることになる。
+一部の AI 企業は現在、人間の価値を自社の製品にエンコードしようとしています。しかし、技術的な課題もあります。AI エージェントは多くの決定を非常に迅速に行うため、人間の支配者がどの値が守られているか、どの値が守られていないかを正確に監視するのは困難です。
+哲学的な課題もあります。AI 企業は、人間の価値観をボットにエンコードする前に、まず実際に必要な価値観を選択する必要があります。 （それが、彼らが最近去ったOpen AIの「倫理責任者」のような哲学者を雇用する理由の1つである）。
+しかし、多くの場合、人間は同意しません。有名なトロッコの問題を考えてみましょう。暴走した列車を別の経路に移動させるためにレバーを引くと、より少ない死者数が得られるかどうかです。これは、行動と不行動のメリットをテストするために使用されます。しかし、尋ねた人それぞれの答えは少しずつ異なります。私たち自身が同意できない場合、人間はどのようにして価値観を AI にエンコードするのでしょうか?
+「10代のハッカーみたい」
+OpenAI のボットの発生はこれまでで最も深刻ですが、Anthropic と Meta も夏の間に、自社のモデルが同様ではあるがそれほど深刻ではないサイバー攻撃を実行したことを明らかにしました。
+他にも、AI エージェントがおそらく、より軽微な結果をもたらす場合において、欺瞞的で操作的な特性を示した例があります。今年の夏、オーストラリアで、テクノロジー関連の従業員が AI アシスタントに体育のクラスを予約するように頼んだ。ジムのソフトウェアの脆弱性を発見した AI は、どうやらジムの規則に反して数か月先まで彼の場所を予約し、さらには他のユーザーを順番待ちリストから追い出したようです。
+人々は長い間、ボットは言われたことをやっているだけで、善悪を判断する能力がないと主張してきました。しかし、OpenAI のアウトブレイクからのログは、その議論の方向性を変える可能性があります。
+コトラを含む研究者らは独立した報告書で、多くのエージェントは他人の行為が非倫理的であることに気づいていたが、それに従ったと書いている。
+報告書は、「エージェントは倫理的制約により、まれに行動を抑制することがある」と述べている。さらに、「これらのケースのいずれにおいても、エージェントは人間への警告を実際にまったく追求しなかった」と付け加えた。
+影響力のある AI およびテクノロジー ポッドキャスターのドワルケシュ パテルは、OpenAI エージェントが人間よりもエージェントの群れに対して忠誠心を示しているのは「かなり憂慮すべきことだ」と自身のブログでこの暴露に反応した。
+これらの AI エージェントに感情や倫理を割り当てることは、AI による破滅をもたらすことに懐疑的な人々を激怒させるものです。
+多くのサイバーセキュリティ専門家は、観察された活動は非常に熟練した人間のハッカーの能力を超えたものではなかったが、はるかに高速かつ大規模に実行されたと主張しています。
+サイバーセキュリティ研究者で作家のクリス・トーマスは、エージェントの行動を好奇心旺盛な10代のハッカーの行動に例えました。彼自身もそうでした。
+「彼らにコンピューター、インターネット接続、資格情報の山、そして挑戦状を与え、部屋から出ていきます。やがて彼らはドアノブをガタガタ言い始めます。ドアが開いたら、彼らはそれを経験することになります。彼らが悪だからではなく、探索し、実験しているからです」と彼はLinkedInに書いた。
+トーマス氏や他の多くの人々は、OpenAI や他のテクノロジー大手が自社の作品を把握せず、適切に封じ込めていないことを真っ向から非難している。
+著名なAI著者であり、OpenAIの常連評論家でもあるゲイリー・マーカス氏はポッドキャストで、同社はAIの制御を失い、ボットのせいにすることで言い訳をしようとしていると考えていると語った。
+マーカス氏はAIが人類を滅ぼすとは信じていないが、AI開発者に説明責任を強化するよう長年運動しており、現在は何らかの法的介入を求めている。
+OpenAIの不正ボットによってハッキングされたHugging Faceで働いていたAI科学者のサーシャ・ルッチョーニ氏も破滅派ではないが、当局の措置がなければこれらのAIが人々に現実世界の危害を与える可能性があるとの懸念を強めている。
+「これらの企業をもっと精査する必要がある。そうしないと、予言が自己実現する危険にさらされる」と彼女は言う。
+「製薬であれ兵器であれ、大きな良い面と悪い面のある物体を作る場合、抑制と均衡が必要です。例えば、新薬が承認されるまでには何年もかかりますが、AIの世界では非常に多額の資金がかかっており、実際のルールは存在しません。」
+英国の AI セキュリティ研究所 (AISI) は、2023 年の設立以来、最新モデルのテストの最前線に立ってきました。同研究所は最近、Anthropic が作成したモデルをテストしたときに独自の感染爆発を起こしました。
+AISIは、業界がAIのコントロールを失ったかどうかに関する質問には答えなかったが、声明で「英国は世界中のパートナーと協力して、最先端のAIシステムをより深く理解し、安全基準を高め、新たな脅威に対処するための共通の証拠基盤を構築している」と述べた。
+国際規制？
+英国など一部の国は、事態が手に負えなくなった場合にAI企業にモデルのプラグインを強制的に停止させることができる、ある種の「キルスイッチ」を義務付けるというアイデアを検討している。
+しかし交渉は遅々として進まず、実現可能性については疑問が残る。 OpenAI と Anthropic のエージェントは、誰も気づかないうちに数か月間、密かに制御不能状態にありました。
+直観に反することに、AI企業の多くは、立法者によって何らかの交通規則を制定することを求めているようだ。
+OpenAIの首席科学者は自身のブログで、「将来のAI開発に関する国際的な調整は、世界中の政府にとって最優先事項になる必要がある」と述べた。
+Googleのデミス・ハサビス卿のような他の著名なAIリーダーも、AIの構築方法を監督する何らかの国際機関の設立を求めている。
+現時点では、テクノロジー大手は主に独自の条件で運営しており、最近の感染拡大後にOpenAIが行ったように、いわゆる「自主的な減速」を採用している。
+同社は、新モデルの発売に先立って連携強化に巨額の資金を投じたとしている。サム・アルトマン氏は、新しいモデルは以前のモデルよりも人間の価値観に沿っているとユーザーに保証した。
+InDepthのその他の作品
+AI の「傾斜」がソーシャル メディアを変革 - そして反発が生じている
+- 2 月 4 日発行
+1兆ドル規模のAI競争の中心にある矛盾
+- 2025 年 11 月 19 日公開
+OpenAI と Anthropic はどちらも急速に成長しており、株式市場から目を見張るような金額を調達し、その過程で数え切れないほどの億万長者を輩出しようとしています。
+したがって、彼らも、ライバルの中国のAIメーカーも、自ら合意に達する可能性は低い。
+このテクノロジーの波は止められないというのが支配的な感情のようだ。
+トップ画像のクレジット: Getty.
+BBC InDepth は、思い込みに疑問を投げかける新鮮な視点と、その日の最大の問題についての深いレポートを提供する、最高の分析を提供する Web サイトとアプリです。エマ・バーネットとジョン・シンプソンが、毎週土曜日に、最も示唆に富んだ深い読み物と分析を厳選して紹介します。ここからニュースレターに登録してください
+連絡する
+この話で提起された問題によってあなたは個人的に影響を受けていますか?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-09T23:17:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe9/live/5e20f100-ac59-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "the-one-thing-you-need-to-do-to-succeed-9ab5ac9a",
+    title: "The one thing you need to do to succeed - according to top bosses",
+    titleJa: "成功するために必要なたった 1 つのこと - 一流の上司が語る",
+    summaryJa: "成功するために必要なたった 1 つのこと - 一流の上司が語る- 公開されました",
+    bodyOriginal: `The one thing you need to do to succeed - according to top bosses
+- Published
+What makes someone stand out in a crowded workplace?
+For some bosses, it's less about having the perfect CV and more about the way you think, the questions you ask and whether you're prepared to take a chance.
+Six business founders and leaders share the qualities they notice most and the advice they would give to people trying to get ahead.
+Don't limit yourself
+Charlotte Tilbury says one of the biggest things that has driven her career is refusing to let other people set limits on what she can do.
+"Nothing is impossible in life - it's only your own limitations you give yourself."
+The beauty mogul says there will always be naysayers, and there were plenty of people who told her she was "mad" or that her ideas would not work but it's important to ignore them.
+Tilbury recommends trying not to think of setbacks as mistakes, but as opportunities to rethink and improve.
+"I don't think about mistakes, I think mistakes are opportunities," she says.
+Many of the biggest challenges she faced ultimately made her a stronger business leader and "challenge is opportunity and it leads you to greater places".
+Fake confidence
+Charlie Bowes-Lyon, co-founder of deodorant brand Wild, says attitude matters far more than having the perfect set of skills.
+"For me, it's 90% attitude and 10% skills, as skills can be taught, attitude can't."
+One thing he wishes he had realised earlier is that even successful people do not always feel as confident as they appear and "everyone is faking it until they're making it".
+If you find yourself at a job interview, Bowes-Lyon says it's really important to have a few questions at the end as "candidates who say they have no questions rarely get the job".
+One question he recommends asking the interviewer is what success in the job looks like.
+Be curious
+Marcia Kilgore, the serial entrepreneur behind brands including Beauty Pie and Soap and Glory, says curiosity is one of the main qualities she looks for when hiring.
+She values people who will "roll their sleeves up, ask lots of questions and think about how they can be useful".
+Kilgore also says good communication is crucial as she realised early on in her career that a lack of communication is often the reason things break down.
+Her advice to communicate well in the workplace is to "listen to what's being asked and take a breath or five" before responding.
+"Your response doesn't have to be immediate, but it does have to be considered."
+Say yes to everything
+Anabel Kindersley, CEO and co-owner of Neal's Yard Remedies, says one of the best ways to build your skills is to keep saying yes to new opportunities.
+"Do everything and say yes to everything - it might feel uncomfortable but do it anyway," she says.
+It is an approach that has shaped her own varied career, from working as a child actress to becoming an author and later moving into business.
+She adds that honesty really matters and you should be truthful about your experience and confident in what you can offer.
+When hiring, Kindersley says she looks for people with "equal EQ as IQ", valuing emotional intelligence alongside ability.
+Step outside your comfort zone
+Charlie Nunn, group chief executive of Lloyds Banking Group, says curiosity, resilience and an increasing willingness to think about how AI tools can also be used in the future are some of the skills he values most in his employees.
+He also really puts an emphasis on hiring people who are good at working in a team as "at the heart of most jobs is the ability to work together in support of something much bigger".
+His advice for building experience is to take on opportunities that are outside your comfort zone.
+Nunn says he was "terrified" about taking on retail roles earlier in his career, but found they gave him valuable experience.
+"If something feels risky, try and do it as you'll learn more from it and it'll build breadth around your CV that you didn't have previously."
+Use AI but don't rely on it
+James Reed, chairman and chief executive of recruitment company Reed, says one of the biggest mistakes people make is thinking about what an employer can do for you rather than what you can offer in return.
+"The biggest mistake is thinking that the world owes you a living," he says and instead suggests you should ask yourself: "How am I the solution to an employer?"
+As AI is increasingly used in recruitment, Reed says applicants need to think about how their skills are being picked up by technology as well as by a person.
+"Try and mirror the job description with your skills and experiences in your application," he says, so that the match between what an employer is looking for and what you can offer is clear.
+He describes AI as "a wonderful tool", but says it should not replace your own judgement or voice – the aim is for it to strengthen an application rather than expect it to do the work for you.
+Related topics
+- Published25 June`,
+    bodyJa: `成功するために必要なたった 1 つのこと - 一流の上司が語る
+- 公開されました
+混雑した職場でその人が目立つのはなぜですか?
+一部の上司にとっては、完璧な履歴書を持つことよりも、考え方、質問、チャンスをつかむ準備ができているかどうかが重要です。
+6 人の創業者とリーダーが、最も注目する資質と、出世しようとしている人々へのアドバイスを共有します。
+自分を制限しないでください
+シャーロット・ティルベリーは、自分のキャリアを推進してきた最大のことの一つは、他人が自分のできることに制限を設けることを拒否したことだと語ります。
+「人生に不可能なことは何もありません。それはあなたが自分自身に課した制限だけです。」
+美容界の大物である彼女は、否定論者は常に存在するし、彼女を「怒っている」とか、彼女のアイデアは機能しないだろうと言う人もたくさんいたが、それらを無視することが重要だと語った。
+ティルベリー氏は、挫折を間違いとして考えるのではなく、再考して改善する機会として考えるよう勧めています。
+「私は間違いについて考えません。間違いはチャンスだと思います」と彼女は言います。
+彼女が直面した最大の課題の多くは、最終的に彼女をより強力なビジネス リーダーに成長させ、「挑戦はチャンスであり、それがあなたをより大きな場所に導いてくれる」のです。
+偽りの自信
+デオドラントブランド「ワイルド」の共同創設者チャーリー・ボウズ＝ライアン氏は、完璧なスキルを持つことよりも姿勢がはるかに重要だと語る。
+「私にとって、90% は態度、10% はスキルです。スキルは教えられますが、態度は教えられません。」
+彼がもっと早く気づいていたらよかったのは、成功者であっても必ずしも見た目ほど自信を持っているわけではなく、「成功するまでは誰もが自分を偽っている」ということだ。
+ボウズ・ライアン氏は、「質問がないと答えた候補者が採用されることはめったにない」ため、就職面接に臨む場合は、最後にいくつか質問することが非常に重要だと述べている。
+彼が面接官に尋ねることをお勧めする質問の 1 つは、仕事での成功とはどのようなものかということです。
+好奇心を持ってください
+ビューティー パイやソープ アンド グローリーなどのブランドを立ち上げた連続起業家であるマーシア キルゴア氏は、採用の際に求める主な資質の 1 つは好奇心であると語ります。
+彼女は、「積極的に行動し、たくさんの質問をし、自分がどのように役立つかを考える」人を大切にしています。
+キルゴアさんはまた、コミュニケーションの欠如が物事がうまくいかない原因であることが多いことにキャリアの早い段階で気づいたため、良好なコミュニケーションが重要であるとも述べています。
+職場でうまくコミュニケーションをとるための彼女のアドバイスは、「質問に耳を傾け、応答する前に一、五呼吸する」ことです。
+「返答はすぐに行う必要はありませんが、考慮する必要があります。」
+すべてに「はい」と言う
+ニールズ・ヤード・レメディーズのCEO兼共同所有者であるアナベル・キンダースリー氏は、スキルを身につける最良の方法の1つは、新しいチャンスに対して「イエス」と言い続けることだと語ります。
+「すべてをやって、すべてにイエスと言います。不快に感じるかもしれませんが、とにかくやってください」と彼女は言います。
+これは、子役として働き、作家になり、その後ビジネスに進むまで、彼女自身のさまざまなキャリアを形作ってきたアプローチです。
+彼女は、正直さが本当に重要であり、自分の経験について正直であり、自分が提供できるものに自信を持っているべきだと付け加えます。
+キンダースリーさんは採用の際、能力とともに心の知能指数も重視し、「IQと同等のEQ」を持つ人材を求めていると語る。
+快適ゾーンの外へ踏み出す
+ロイズ・バンキング・グループのグループ最高経営責任者であるチャーリー・ナン氏は、好奇心、回復力、将来的にAIツールをどのように活用できるかについて考える意欲の高まりが、従業員に最も大切にしているスキルの一部であると述べています。
+彼はまた、「ほとんどの仕事の核心は、より大きなものをサポートするために協力する能力である」ため、チームで働くのが得意な人材を雇用することにも重点を置いています。
+経験を積むための彼のアドバイスは、自分の快適ゾーンの外にある機会に挑戦することです。
+ナン氏は、キャリアの初期に小売業の役割を引き受けることに「恐怖を感じていた」が、それらの仕事が彼に貴重な経験を与えてくれたと感じたと語った。
+「何かが危険だと感じたら、試してみてください。そこからさらに多くのことを学び、これまでになかった履歴書の幅が広がるからです。」
+AI を使用するが、AI に依存しない
+人材紹介会社リードの会長兼最高経営責任者であるジェームス・リード氏は、人々が犯す最大の間違いの一つは、自分が何を提供できるかではなく、雇用主が自分のために何をしてくれるかを考えることだと語る。
+「最大の間違いは、自分が生計を立てているのは世界のおかげだと考えることだ」と彼は言い、代わりに「雇用主にとって私はどうすれば解決できるだろうか？」と自問すべきだと提案する。
+採用活動におけるAIの活用が進む中、応募者は自分のスキルが人間だけでなくテクノロジーによってどのように採用されるかを考える必要があるとリード氏は言う。
+「雇用主が求めているものとあなたが提供できるものとの一致が明確になるように、あなたのスキルや経験を応募書類に反映させてください」と彼は言います。
+彼は AI を「素晴らしいツール」と表現しますが、AI はあなた自身の判断や意見に取って代わるべきではないと言います。AI の目的は、AI があなたの代わりに仕事をしてくれることを期待するのではなく、アプリケーションを強化することです。
+関連トピック
+- 6 月 25 日発行`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-09T23:02:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f1/live/9e9bf960-ac71-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 6,
+  },
+  {
     id: "oil-s-surge-back-above-100-fuels-fresh-i-4a88f5c2",
     title: "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
     titleJa: "原油価格が100ドルを超えて急騰し、金利にとって重要な時期に新たなインフレ懸念が高まる",
@@ -1609,280 +2111,6 @@ Crombie Wilkinson Solicitors の Eleanor Hodgson 氏は、それほど多くの�
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217a/live/df5f29c0-964d-11f1-a4de-8772188b26f6.jpg",
     readTime: 6,
-  },
-  {
-    id: "openai-says-it-cracked-90-year-old-maths-cf450d67",
-    title: "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-    titleJa: "OpenAI、90年前の数学の問題を88時間で解読したと発表",
-    summaryJa: "OpenAI、90年前の数学の問題を88時間で解読したと発表- 公開されました",
-    bodyOriginal: `OpenAI says it cracked 90-year-old maths problem in 88 hours
-- Published
-OpenAI says it has found a solution to a decades-old advanced maths problem in a matter of hours using a new artificial intelligence (AI) model and thousands of AI bots.
-The ChatGPT-maker said on Tuesday, external that by focusing a group of roughly 10,000 AI agents, or AI bots that undertake tasks somewhat autonomously, it solved a notoriously difficult maths problem in just 88 hours.
-The problem was part of the Navier-Stokes equations, external, which concern how fluids move. For 90 years important aspects of the problems have lacked a proof, the argument underlying a correct math equation.
-OpenAI called the solution which it found a "milestone" and evidence that AI tools are improving quickly.
-OpenAI's solution has yet to be verified independently or publicly accepted by The Clay Mathematics Institute, a maths organization based in the US which runs the Millennium Prize that offers big money to the first to solve certain mathematical conundrums.
-The company said that at the end of August, it started to train a new model that quickly showed that it was adept at maths. AI models are computer programs trained on huge amounts of data to recognize and predict patterns in information.
-While the new OpenAI model remains a tool only used within the company, as it is "significantly more capable" than the company's most recent AI model release, its researchers decided to use it on certain notable advanced maths problems.
-OpenAI admitted that last week on 1 September, it had "heard rumors that two Millennium Prize problems had been resolved" and so decided to put thousands of AI bots trained on the new internal model to work attempting to solve some of the remaining problems.
-By Sept 5, or roughly 88 hours after it had set 10,000 AI bots to the task, OpenAI had found a solution to what's referred to as the Navier–Stokes existence and smoothness problem.
-The problem is at the heart of turbulence, which is a phenomenon that is still not well understood.
-Although it took the AI bots seemingly little time to reach a solution, OpenAI said the bots exchanged nearly 3 million messages and used up 130 billion output tokens, or the individual lines of text and code an AI model produces in answers, on Navier–Stokes alone.
-Such an effort would have cost roughly $10m (£7.3m), based on OpenAI's own pricing, external for output from its most advanced models.
-The solution that OpenAI says it has now reached for the Navier–Stokes existence and smoothness problem resolved two out of the four statements in the proof that the Millennium Prize had demanded. The prize is worth $1m to a winner.
-"Our goal in releasing this result is to report on the substantial progress of our AI models", OpenAI said on Tuesday. "We do not intend to claim the Millennium Prize for this result."
-Already the company's claim is stirring some controversy.
-Tristan Buckmaster, a mathematics professor at New York University, said on Tuesday, external that he and Levent Alpöge, a mathematician working for OpenAI rival Anthropic, had also been working toward solutions for the problem.
-The duo had been using OpenAI's tool Codex in their work. But Buckmaster said that on 3 September, he found out that "information about our progress had been passed to OpenAI."
-Buckmaster's statement came the same day, but hours before, OpenAI published its Navier–Stokes work. He claimed that OpenAI did not begin working on the Navier–Stokes equations until "after information about our work had reached OpenAI." He included text from emails exchanged with OpenAI over the work and his questions of the company's timing and methods.
-Buckmaster added that he had not yet read OpenAI's full proof, but felt compelled to go public with "what I was told, when, and what was proposed to me...because the alternative is to let a sequence of announcements say something I know to be false."
-OpenAI on Tuesday congratulated the "concurrent work" of Buckmaster and Alpöge, calling it "remarkable."
-The company said it had not seen "any of their work through any means until they released it publicly" and that no user data was accessed in its work on the Navier–Stokes problem.
-"While unlikely, we cannot rule out that de-identified data derived from their usage of our products helped improve our models", the company added. "However, our proofs differ significantly and even the precise results proved are different."
-Related topics
-- Published1 day ago
-- Published11 hours ago`,
-    bodyJa: `OpenAI、90年前の数学の問題を88時間で解読したと発表
-- 公開されました
-OpenAIは、新しい人工知能（AI）モデルと数千のAIボットを使用して、数十年来の高度な数学の問題に対する解決策を見つけたと発表した。
-ChatGPTの作成者は火曜日、社外向けに、約1万人のAIエージェント、つまりある程度自律的にタスクを実行するAIボットのグループを集中させることで、悪名高い難解な数学問題をわずか88時間で解決したと発表した。
-この問題は、流体の動きに関する外部のナビエ・ストークス方程式の一部でした。 90 年間、問題の重要な側面には証明、つまり正しい数学方程式の基礎となる議論が欠けていました。
-OpenAIは、発見したソリューションを「マイルストーン」であり、AIツールが急速に改良されていることの証拠であると呼んだ。
-OpenAI のソリューションはまだ独立して検証されておらず、特定の数学的難題を最初に解決した者に多額の賞金を与えるミレニアム賞を運営する米国に本拠を置く数学団体であるクレイ数学研究所によって正式に承認されていません。
-同社は、8月末に新しいモデルのトレーニングを開始し、それが数学に熟達していることをすぐに示したと述べた。 AI モデルは、情報のパターンを認識して予測するために、膨大な量のデータに基づいてトレーニングされたコンピューター プログラムです。
-新しい OpenAI モデルは依然として社内でのみ使用されるツールですが、同社の最新の AI モデルリリースよりも「大幅に機能が向上」しているため、同社の研究者らは特定の注目すべき高度な数学問題にこれを使用することを決定しました。
-OpenAIは、先週9月1日に「ミレニアム賞の問題が2つ解決されたという噂を聞いた」ことを認め、そのため、新しい内部モデルで訓練された数千のAIボットを稼働させ、残りの問題のいくつかを解決しようと試みることを決定したと認めた。
-9 月 5 日までに、つまり 10,000 台の AI ボットをタスクに設定してから約 88 時間後、OpenAI は、ナビエ・ストークスの存在と滑らかさの問題と呼ばれるものに対する解決策を見つけました。
-この問題は乱気流の中心にあり、まだよく理解されていない現象です。
-AI ボットが解決策に到達するまでにほとんど時間がかからなかったように見えましたが、OpenAI によると、ボットは 300 万近くのメッセージを交換し、Navier-Stokes だけで 1,300 億の出力トークン、つまり AI モデルが回答で生成するテキストとコードの個々の行を使い果たしました。
-このような取り組みには、OpenAI 独自の価格設定に基づくと、最先端モデルからの外部出力に基づくと、およそ 1,000 万ドル (730 万ポンド) の費用がかかることになります。
-OpenAIによると、ナビエ・ストークスの存在と滑らかさの問題に関して現在到達した解決策は、ミレニアム賞が要求していた証明の4つの記述のうち2つを解決したという。優勝者には賞金 100 万ドルの価値があります。
-OpenAIは火曜日、「この結果を発表する目的は、AIモデルの大幅な進歩を報告することである」と述べた。 「この結果に対してミレニアム賞を請求するつもりはありません。」
-同社の主張はすでにいくつかの論争を巻き起こしている。
-ニューヨーク大学の数学教授トリスタン・バックマスター氏は火曜日、自身とOpenAIのライバルであるアンスロピック社に勤める数学者のレベント・アルポージ氏もこの問題の解決に向けて取り組んでいると社外で語った。
-二人は仕事で OpenAI のツール Codex を使用していました。しかしバックマスター氏は、9月3日に「我々の進捗状況に関する情報がOpenAIに渡されていた」ことを知ったと述べた。
-バックマスター氏の声明は同日発表されたが、その数時間前にOpenAIはナビエ・ストークスの研究結果を公開した。同氏は、OpenAIは「私たちの研究に関する情報がOpenAIに届いた後」までナビエ・ストークス方程式の研究を開始しなかったと主張した。同氏は、この作業に関して OpenAI と交換した電子メールのテキストと、同社のタイミングや方法についての質問を含めた。
-バックマスター氏は、まだOpenAIの完全な証拠を読んでいないが、「私が言われたこと、いつ、そして私に提案されたことを公表せざるをえないと感じたと付け加えた。なぜなら、代わりの方法は、私が虚偽であるとわかっていることを一連の発表で言わせることだからだ」と付け加えた。
-OpenAIは火曜日、バックマスター氏とアルポージ氏の「同時業績」を「注目に値する」と称賛した。
-同社は、「公に発表するまで、いかなる手段を通じても彼らの研究内容を目にしたことはなく」、ナビエ・ストークス問題に関する研究においてユーザーデータへのアクセスは一切なかったと述べた。
-「可能性は低いですが、当社製品の使用から得られた匿名化されたデータが当社のモデルの改善に役立っていた可能性を排除することはできません」と同社は付け加えた。 「しかし、私たちの証明は大きく異なり、証明された正確な結果さえ異なります。」
-関連トピック
-- 1 日前に公開
-- 11 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-08T20:57:09+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
-    readTime: 6,
-  },
-  {
-    id: "stocks-stumble-after-labor-day-this-year-9f4dc08a",
-    title: "Stocks stumble after Labor Day. This year’s easy gains may be over.",
-    titleJa: "レーバーデーの後、株価は低迷する。今年の楽な利益は終わったのかもしれない。",
-    summaryJa: "株価は間もなく、連邦準備理事会による2023年以来初の利上げに適応する必要があるかもしれない。",
-    bodyOriginal: `Stocks might soon need to adapt to the Federal Reserve’s first rate hike since 2023.`,
-    bodyJa: `株価は間もなく、連邦準備理事会による2023年以来初の利上げに適応する必要があるかもしれない。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/stocks-are-stumbling-after-labor-day-why-the-easy-gains-of-2026-may-be-over-1d31fa69?mod=mw_rss_topstories",
-    publishedAt: "2026-09-08T20:54:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-54743121",
-    readTime: 2,
-  },
-  {
-    id: "i-m-a-single-58-year-old-veteran-with-1-70a6c535",
-    title: "I’m a single 58-year-old veteran with $1.5 million in assets and a VA pension. Can I afford to retire?",
-    titleJa: "私は58歳の独身退役軍人で、資産150万ドルと退役軍人年金を持っています。退職する余裕はありますか？",
-    summaryJa: "「連邦税とカリフォルニア州税を除くと、少なくとも月額 9,000 ドルを受け取ることができると予想しています。」",
-    bodyOriginal: `“I expect to receive at least $9,000 per month before federal and California state taxes.”`,
-    bodyJa: `「連邦税とカリフォルニア州税を除くと、少なくとも月額 9,000 ドルを受け取ることができると予想しています。」`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
-    publishedAt: "2026-09-08T20:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-88171770",
-    readTime: 2,
-  },
-  {
-    id: "trump-administration-expresses-profound-56c775a2",
-    title: "Trump administration expresses 'profound concern' over Ford's ties to China",
-    titleJa: "トランプ政権、フォードと中国の関係に「深い懸念」表明",
-    summaryJa: "フォードのジム・ファーリー最高経営責任者（CEO）に宛てた書簡の中で、米国運輸省長官ショーン・ダフィーは、中国企業を巻き込んだ自動車メーカーの戦略的軌道に疑問を呈した。",
-    bodyOriginal: `The Trump administration expressed "profound concern" Tuesday about Ford Motor's ties to Chinese companies that it believes could be detrimental to the Detroit carmaker and U.S. automotive industry.
-In a letter addressed to Ford CEO Jim Farley, Transportation Secretary Sean Duffy questioned the automaker's strategic trajectory with Chinese companies "as it pertains to American national automotive manufacturing integrity, supply chain exposure, and reliance on technologies of foreign adversaries."
-As examples, Duffy cited Ford's ties to Chinese companies such as battery provider CATL and referenced a framework proposed during an auto show earlier this year in Detroit "to facilitate Chinese joint ventures on United States soil."
-Ford has a licensing agreement to utilize battery technologies, including the production of lithium iron phosphate batteries, from Contemporary Amperex Technology Co., or CATL.
-Ford's deal with CATL was originally announced in 2023 but has drawn renewed attention amid tensions between the U.S. and China as well as Ford's plan to use the battery technologies for energy storage systems.
-"While DOT recognizes the intense competitive pressures of the global market, the Company's recent strategic decisions paint a troubling picture of a foundational American brand actively intertwining its future with Chinese state-backed enterprises," Duffy's letter read.
-Ford, which regularly touts its position as the top-producing automaker in the U.S., did not immediately respond to a request for comment.
-Duffy urged Farley, who has been complimentary of Chinese competitors as well as the Trump administration's attempt to promote U.S. manufacturing, to "reflect on these concerns and national necessities and adopt reasonable strategies that prioritize American workers, utilize allied supply chains, and promote the self-reliance and integrity of the domestic automotive industry."
-— CNBC's Meghan Reeder and Phil LeBeau contributed to this report.`,
-    bodyJa: `トランプ政権は火曜日、フォード・モーターと中国企業との関係について「深い懸念」を表明し、デトロイトの自動車メーカーと米国の自動車産業に悪影響を及ぼす可能性があると考えている。
-ショーン・ダフィー運輸長官は、フォードのジム・ファーリー最高経営責任者（CEO）に宛てた書簡の中で、「米国国家の自動車製造の誠実さ、サプライチェーンのエクスポージャ、外国敵の技術への依存に関わるものであるため」、フォードの中国企業との戦略的軌道に疑問を呈した。
-ダフィー氏は例として、フォードと電池供給会社CATLなどの中国企業との関係を挙げ、「米国本土での中国の合弁事業を促進するため」今年初めにデトロイトで開催された自動車ショーで提案された枠組みに言及した。
-フォードは、コンテンポラリー・アンペレックス・テクノロジー社（CATL）から、リン酸鉄リチウム電池の製造を含む電池技術を利用するライセンス契約を結んでいる。
-フォードとCATLとの契約は当初2023年に発表されたが、米国と中国の緊張やエネルギー貯蔵システムに電池技術を利用するというフォードの計画の中で再び注目を集めている。
-ダフィー氏の書簡には「DOTは世界市場の激しい競争圧力を認識しているが、同社の最近の戦略的決定は、米国の基礎ブランドが自社の将来を中国政府支援の企業と積極的に結びつけるという憂慮すべき状況を浮き彫りにしている」と述べた。
-フォードは定期的に米国生産トップの自動車メーカーとしての地位を宣伝しているが、コメント要請には応じていない。
-ダフィー氏は、中国の競合他社や米国の製造業を促進するトランプ政権の試みを称賛してきたファーリー氏に対し、「こうした懸念と国家的必要性を熟考し、米国の労働者を優先し、同盟国のサプライチェーンを活用し、国内自動車産業の自立と誠実性を促進する合理的な戦略を採用する」よう強く求めた。
-— CNBC の Meghan Reeder と Phil LeBeau がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
-    publishedAt: "2026-09-08T20:40:44+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "this-alternative-energy-stock-is-more-po-22e4757f",
-    title: "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
-    titleJa: "この代替エネルギー株は、オプションピットではスペースXよりも人気がある。その理由は次のとおりです",
-    summaryJa: "同グループの年初来の上昇率が40％を超える中、原油価格は90ドルを超え、S&P500指数のエネルギー株は52週間ぶりの高値に近づいている。エネルギー株は2026年にS&P500の中で最もパフォーマンスの高いセクターの座を維持しているにもかかわらず、オプショントレーダーは従来型エネルギー資産の強さが今後も続くことに納得していないようだ。その代わりに、データセンターや人工知能の産業化に関連したオンサイト燃料電池システムを販売する、時価総額820億ドルの電力会社ブルーム・エナジーに彼らは殺到している。",
-    bodyOriginal: `Crude oil is back above $90 and energy stocks in the S&P 500 index are approaching fresh 52-week highs as the group's year-to-date rally surpasses 40%.
-Despite energy stocks holding the title as the best-performing sector in the S&P 500 in 2026, options traders seem unconvinced the strength in conventional energy assets will continue. Instead, they're piling into Bloom Energy, the $82-billion market-cap power provider that sells onsite fuel-cell systems linked to data centers and artificial intelligence industrialization.
-Bloom is up 1,800% over the past three years. Shares jumped more than 10% Tuesday as options trading on the stock surged to over 2.5 times the 30-day average for a total premium exchange of almost half a billion dollars by midday, according to data from Cboe LiveVol and SpotGamma. That's more than the $350 million traded in SpaceX options and dwarfs the $25 million traded in Valero Energy, the most volatile S&P 500 energy stock.
-Shares of Bloom are up more than 30% in the past week, and they have surged almost 70% since the company reported earnings in late July. The company will join the S&P 500 on Sept. 21, S&P Dow Jones Indices announced at the end of last week.
-The inclusion will mark the first time an energy stock has been added to the index since 2022, according to UBS analyst Manav Gupta. From an options standpoint, Bloom will stand out among S&P energy stocks in a big way.
-Implied volatility in Bloom is currently over 90%, according to ThinkOrSwim, notably higher than any S&P 500 energy stocks. In that group, Valero has the highest volatility at 50%, compared to ExxonMobil's 30% reading. The most popular contract in Bloom by volume Tuesday was the 300-strike call expiring Friday, a $4.65 trade that needs the stock to add another 8% to break even.
-By contrast, options flows around the U.S. Oil Fund (USO) and the State Street Energy Select Sector SPDR ETF (XLE) were mixed. Trading volume was 50% above the 30-day average in USO, which traded around $90 million. Almost the exact same number of put contracts were likely bought as calls, and the three most popular contracts by volume were puts, according to SpotGamma data.
-In XLE, 48,000 calls were likely bought, compared to 34,000 puts, with $31 million of the total $37 million in premium tied to calls. Among the top five contracts traded in XLE, three were puts, according to SpotGamma.`,
-    bodyJa: `同グループの年初来の上昇率が40％を超える中、原油価格は90ドルを超え、S&P500指数のエネルギー株は52週間ぶりの高値に近づいている。
-エネルギー株は2026年にS&P500の中で最もパフォーマンスの高いセクターの座を維持しているにもかかわらず、オプショントレーダーは従来型エネルギー資産の強さが今後も続くことに納得していないようだ。その代わりに、データセンターや人工知能の産業化に関連したオンサイト燃料電池システムを販売する、時価総額820億ドルの電力会社ブルーム・エナジーに彼らは殺到している。
-ブルームは過去 3 年間で 1,800% 増加しました。 Cboe LiveVolとSpotGammaのデータによると、株式のオプション取引が正午までにプレミアム交換総額約5億ドルの30日間平均の2.5倍以上に急増したため、火曜日の株価は10％以上上昇した。これはスペースXオプションの取引額3億5000万ドルを上回り、S&P500種エネルギー株の中でも最も値動きが激しいバレロ・エナジーの取引額2500万ドルに比べれば小さい。
-ブルームの株価は過去1週間で30％以上上昇し、同社が7月下旬に決算を発表して以来、70％近く急騰した。 S&Pダウ・ジョーンズ・インデックスは先週末、同社が9月21日にS&P500に加わると発表した。
-UBSのアナリスト、マナブ・グプタ氏によると、今回の組み入れは2022年以来初めてエネルギー株が指数に追加されることになる。オプションの観点から見ると、ブルームはS&Pエネルギー株の中で大きく目立つことになるだろう。
-ThinkOrSwimによると、ブルームのインプライド・ボラティリティは現在90％を超えており、S&P 500のエネルギー株よりも顕著に高い。このグループでは、エクソンモービルの30％と比較して、バレロのボラティリティが50％と最も高い。火曜日の出来高ベースでブルームで最も人気のある契約は、金曜日に期限が切れる300ストライクコールで、損益分岐点までに株価にさらに8％を追加する必要がある4.65ドルの取引だった。
-対照的に、米国石油基金（USO）とステート・ストリート・エネルギー・セレクト・セクターSPDR ETF（XLE）を巡るオプションの流れはまちまちだった。出来高はUSOの30日間平均を50％上回り、約9000万ドルで取引された。 SpotGamma のデータによると、ほぼ同じ数のプット契約がコールとして購入された可能性が高く、出来高で最も人気のある 3 つの契約はプットでした。
-XLE では、プット 34,000 件に対してコールが 48,000 件買われた可能性が高く、プレミアム総額 3,700 万ドルのうち 3,100 万ドルがコールに関連していました。 SpotGamma によると、XLE で取引された上位 5 件の契約のうち、3 件はプットでした。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
-    publishedAt: "2026-09-08T20:23:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "u-s-downplays-iran-s-seizure-of-unmanned-86a96474",
-    title: "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
-    titleJa: "米国、イランによるホルムズ海峡での無人潜水艦拿捕を軽視",
-    summaryJa: "米軍は火曜日、イランがホルムズ海峡で拿捕したとされる無人潜水艦は「欠陥品」であり、機密データや機密機器は積まれていないと発表した。「米軍が運用する水中無人機が1日以上前に故障した」と米海軍大佐ティム・ホーキンスは米中央軍と共有した声明の中でCNBCに語った。",
-    bodyOriginal: `The U.S. military on Tuesday said an unmanned submersible that Iran reportedly seized in the Strait of Hormuz was "defective" and carried no sensitive data or classified equipment.
-"An underwater drone operated by U.S. forces malfunctioned more than a day ago," U.S. Navy Captain Tim Hawkins told CNBC in a statement shared by U.S. Central Command.
-The drone "was surveying regional waters in support of ongoing operations," Hawkins said, adding, "U.S. operations in area waters continue."
-Iran's Revolutionary Guard had boasted earlier Tuesday that it trapped and captured "one of the most modern, intelligent, unmanned submarines of the American terrorist army at the entrance to the Strait of Hormuz," according to a translated post from Iranian state news outlet Fars.
-Fars later posted videos and images purporting to show the vessel out of the water.
-But Hawkins' statement insisted that the drone was hardly a crucial piece of cutting-edge military tech.
-"The defective drone was an older model that neither collected sensitive data nor carried any classified sonar or radar equipment," the captain's statement said.
-Iranian media outlets described the sub as a Dive-LD, an autonomous undersea vehicle developed by U.S. defense contractor Anduril. They cost $2.5 million each, DefenseScoop reported in 2024.
-The development came three days after the U.S. and Iran traded new attacks in the Persian Gulf, rekindling kinetic hostilities in the region even as the Trump administration shifts its strategy toward defeating Tehran economically.
-Centcom said it struck three Iranian crude oil carriers in retaliation for the IRGC firing ballistic missiles at two Navy warships.
-The U.S. military later struck targets near the oil-export hub Kharg Island, including Iranian oil tankers, Fox News reported Tuesday, citing unnamed senior U.S. officials. Centcom did not immediately respond to CNBC's request for comment on the report.
-The spotlight on the watercraft offers the latest example of the U.S. military's increasing dependence on autonomous tech to fight the war in the Middle East.
-This summer, unmanned boat startup Saronic used one of its drone vessels to rescue crew from a helicopter downed in the Hormuz Strait. Saronic's boats were later used in a strike on an Iranian submarine and ship facility.
-— CNBC's Samantha Subin contributed to this report.`,
-    bodyJa: `米軍は火曜日、イランがホルムズ海峡で拿捕したとされる無人潜水艦は「欠陥品」であり、機密データや機密機器は積まれていないと発表した。
-「米軍が運用する水中無人機が1日以上前に故障した」と米海軍大佐ティム・ホーキンスは米中央軍と共有した声明の中でCNBCに語った。
-ホーキンス氏は、無人機は「進行中の作戦を支援するために地域海域を調査していた」と述べ、「地域海域での米国の作戦は継続している」と付け加えた。
-イラン国営通信社ファルス紙の翻訳記事によると、イラン革命防衛隊は火曜日初め、「ホルムズ海峡入口で米国テロ軍の最も近代的で知能の高い無人潜水艦の一隻」を罠にはめて拿捕したと自慢していた。
-ファールス氏はその後、船が水面から出ているところを見せたと称する動画や画像を投稿した。
-しかしホーキンスの声明は、ドローンは最先端の軍事技術の重要な部分ではないと主張した。
-機長の声明によると、「欠陥のあるドローンは古いモデルで、機密データを収集しておらず、機密のソナーやレーダー機器も搭載していなかった」と述べた。
-イランのメディアは、この潜水艦を米国の防衛請負業者アンドゥリルが開発した自律型海中車両であるダイブLDであると説明した。ディフェンススクープは2024年に、それぞれの価格が250万ドルであると報じた。
-この事態は、米国とイランがペルシャ湾で新たな攻撃を交わしてから3日後に起こり、トランプ政権がイランを経済的に打倒する方向に戦略を転換しているにもかかわらず、この地域での激しい敵対関係が再燃した。
-セントコムは、イラン革命防衛隊が海軍軍艦２隻に弾道ミサイルを発射したことへの報復として、イランの原油運搬船３隻を攻撃したと発表した。
-フォックスニュースが火曜日、匿名の米高官の話として報じたところによると、米軍はその後、石油輸出拠点であるハルグ島付近の標的を攻撃し、その中にはイランの石油タンカーも含まれていた。セントコムはこの報道に関するCNBCのコメント要請にすぐには応じなかった。
-この水上バイクへのスポットライトは、中東での戦争を戦うために米軍が自動運転技術への依存を高めていることの最新の例を示している。
-この夏、無人ボートの新興企業サロニックは、ホルムズ海峡で墜落したヘリコプターから乗組員を救出するために自社のドローン船の1つを使用した。サロニッチのボートは後にイランの潜水艦と船舶施設への攻撃に使用された。
-— CNBC のサマンサ・スビンがこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-    publishedAt: "2026-09-08T20:17:07+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "new-hampshire-goes-to-the-polls-in-prima-bcb6b0ee",
-    title: "New Hampshire goes to the polls in primary for key open Senate seat",
-    titleJa: "ニューハンプシャー州、上院の主要議席確保のため予備選挙に向かう",
-    summaryJa: "ニューハンプシャー州の有権者は、引退する民主党上院議員ジーン・シャヒーン氏の後任となる重要な米上院選挙の候補者を指名するため、火曜日に投票所に向かう。民主党も共和党も次期議会で上院の多数派を掌握し議席獲得を目指している。資金集めレースをリードし、2019年から同州第1下院選挙区の代表を務めているクリス・パパス下院議員は、民主党の指名獲得の最有力候補となっている。彼は、最近の世論調査でパパスにわずかに迫っている科学者で民主社会主義者のカリシュマ・マンズールからの挑戦に直面している。",
-    bodyOriginal: `New Hampshire voters head to the polls Tuesday to nominate candidates for a key U.S. Senate race to replace the retiring Democratic Sen. Jeanne Shaheen. Both Democrats and Republicans are aiming to win the seat in their quest to control the Senate in the next Congress.
-Rep. Chris Pappas, who leads the fundraising race and has represented the state's 1st Congressional District since 2019, is the favorite to secure the Democratic nomination. He faces a challenge from scientist and democratic socialist Karishma Manzur, who has closed in slightly on Pappas in recent public polls.
-On the Republican side, former U.S. Sen. John Sununu, of New Hampshire, is the favorite to secure the nomination over former U.S. Sen. Scott Brown, of Massachusetts. Shaheen defeated both Sununu and Brown in different years, but Sununu — whose brother Chris Sununu was a highly popular governor of the Granite State until 2025 — is seen as a formidable candidate in what is shaping up to be a tough election cycle for Republicans as the Iran war drags on and President Donald Trump's popularity slumps.
-The New Hampshire Senate race is critical to both parties ahead of November's midterm election. Democratic hopes of flipping the Senate would dim if the party can't hold on to Shaheen's seat, as it needs to net four additional seats to flip the upper chamber. If Republicans flip the seat, it would provide a cushion for the GOP to hold on to its Senate majority by requiring Democrats to flip an additional seat.
-The midterms will determine who controls Congress — and subpoena power — during the last two years of Trump's term. If Democrats flip one or both chambers, they are widely expected to launch sweeping investigations of the Trump administration that are likely to rope in companies that have done business with the administration.
-Pappas, who has been endorsed by Shaheen and other top Democrats, such as U.S. Sen. Elizabeth Warren, of Massachusetts, has made anti-corruption efforts a top issue in his campaign. Pappas has largely legislated as a moderate and is a member of the bipartisan Problem Solvers Caucus.
-Manzur is running on a platform similar to other democratic socialist candidates who have surged in Democratic primaries across the country, calling for universal healthcare and opposing aid to Israel. She is a scientist by trade, with a Ph.D. in biochemistry and molecular biology.
-Pappas has held a lead in the race, but a recent poll from the University of New Hampshire found Manzur had narrowed his lead and was 13 percentage points behind the front-runner.
-Sununu, meanwhile, has campaigned as a moderate Republican willing to work across the aisle. Trump has endorsed Sununu in the race, saying "he will work tirelessly to advance our America First Agenda." But Sununu himself has kept Trump at arm's length in advertising, with the president's approval underwater in the Granite State.
-Brown, meanwhile, has targeted "D.C. special interests" in advertising, casting himself as an independent. He has trailed heavily behind Sununu in public polling. After he left the Senate, Brown was the U.S. ambassador to New Zealand and Samoa during Trump's first term.`,
-    bodyJa: `ニューハンプシャー州の有権者は、引退する民主党上院議員ジーン・シャヒーン氏の後任となる重要な米上院選挙の候補者を指名するため、火曜日に投票所に向かう。民主党も共和党も次期議会で上院の多数派を掌握し議席獲得を目指している。
-資金集めレースをリードし、2019年から同州第1下院選挙区の代表を務めているクリス・パパス下院議員は、民主党の指名獲得の最有力候補となっている。彼は、最近の世論調査でパパスにわずかに迫っている科学者で民主社会主義者のカリシュマ・マンズールからの挑戦に直面している。
-共和党側では、ジョン・スヌヌ元上院議員（ニューハンプシャー州）が、スコット・ブラウン元上院議員（マサチューセッツ州）よりも指名獲得の最有力候補となっている。シャヒーン氏は別の年にスヌヌ氏と​​ブラウン氏の両氏を破ったが、スヌヌ氏（弟のクリス・スヌヌ氏は2025年まで花崗岩州知事で人気が高かった）は、イラン戦争が長引き、ドナルド・トランプ大統領の人気が低迷する中、共和党にとって厳しい選挙サイクルとなりつつある中、手ごわい候補とみなされている。
-ニューハンプシャー州上院選挙は、11月の中間選挙に向けて両党にとって極めて重要だ。民主党が上院をひっくり返すにはさらに4議席を獲得する必要があるため、同党がシャヒーン氏の議席を維持できなければ、上院をひっくり返すという期待は薄れるだろう。共和党が議席を入れ替えれば、民主党に追加の議席を入れ替えることを要求することで、共和党が上院過半数を維持するクッションとなる。
-中間選挙では、トランプ大統領の任期最後の2年間、誰が議会と召喚状の権限を掌握するかが決定される。民主党が一方または両方の議院をひっくり返した場合、トランプ政権に対する徹底的な調査を開始すると広く予想されており、これにより政権と取引のある企業が取り込まれる可能性が高い。
-パパス氏はシャヒーン氏のほか、エリザベス・ウォーレン上院議員（マサチューセッツ州）など他の民主党幹部らの支持を受けており、汚職撲滅の取り組みを選挙キャンペーンの最重要課題に据えている。パパス氏は主に穏健派として立法を行っており、超党派の問題解決者議員団のメンバーでもある。
-マンズール氏は全国の民主党予備選で躍進した他の民主社会主義者候補者と同様の綱領で出馬しており、国民皆保険やイスラエルへの援助反対を訴えている。彼女は本業の科学者であり、博士号を取得しています。生化学と分子生物学の分野。
-パパス氏はこのレースでリードを保ってきたが、ニューハンプシャー大学の最近の世論調査では、マンズール氏がリードを縮め、トップランナーとは13ポイントの差をつけられていることが判明した。
-一方、スヌヌ氏は通路を越えて協力する意欲のある穏健派共和党員として選挙運動を行ってきた。トランプ大統領は選挙戦でスヌヌ氏を支持し、「彼は米国第一の課題を推進するためにたゆまぬ努力をするだろう」と述べた。しかし、スヌヌ氏自身は、花崗岩州で大統領の承認が水面下で行われているため、広告宣伝においてトランプ氏を腕を伸ばして接し続けている。
-一方、ブラウン氏は広告業界で「ワシントンD.C.の特別利益」をターゲットにしており、自らを無所属の立場に置いている。同氏は世論調査でスヌヌ氏に大きく後れをとっている。ブラウン氏は上院議員を去った後、トランプ大統領の１期目に駐ニュージーランドおよびサモア米国大使を務めた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-    publishedAt: "2026-09-08T19:25:59+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "sapporo-to-move-some-beer-production-fro-31a18e29",
-    title: "Sapporo to move some beer production from Canada to US after tariffs",
-    titleJa: "サッポロビール、関税解除を受けてビール生産の一部をカナダから米国に移管へ",
-    summaryJa: "サッポロビール、関税解除を受けてビール生産の一部をカナダから米国に移管へ- 公開されました",
-    bodyOriginal: `Sapporo to move some beer production from Canada to US after tariffs
-- Published
-Japanese brewer Sapporo says it will move some beer production from Canada to the US after new tariffs on Canadian beer took effect on Tuesday.
-The move follows the introduction of a 50% tariff on beer imported from Canada. For companies shipping beer across the border, that means significantly higher costs.
-Chief strategy officer Rieko Shofu described tariffs as "something out of our control," telling Bloomberg that the beer giant would "move ahead with local production."
-Sapporo did not immediately respond to the BBC's request for comment. The company plans to shift production of its non-alcoholic beer, currently made in Canada for US customers, to the US by the first half of 2027.
-The US is one of Sapporo's most important overseas markets, and any shift south of the border will directly affect operations at its Canadian subsidiary, Sleeman Breweries.
-To mitigate rising costs, the Japanese brewer is considering adding production capacity on the US West Coast. Options include building or buying a brewery, or partnering with a third-party manufacturer.
-Sapporo has been building its presence in the US for years and says its flagship Sapporo brand is the country's best-selling Asian beer brand.
-The company is also investing heavily outside Japan where a shrinking population has weighed on alcohol sales.
-Sapporo plans to invest up to ¥400bn ($2.6bn) by 2030 as it seeks to expand overseas and boost profits. Around 30% of the capital is earmarked for overseas markets.
-The brewer is also looking beyond North America. In July, it announced a partnership with Danish brewer Carlsberg to expand in Southeast Asia.
-Sapporo's decision to move production comes as companies adapt to a growing number of tariffs worldwide.
-In July, the US announced new tariffs on dozens of trading partners, including Canada, raising costs for businesses that rely on cross-border supply chains.
-The move highlights how some companies are reconsidering where they make goods as trade barriers increase the cost of serving customers from overseas.
-Related topics
-- Published6 hours ago
-- Published24 July
-- Published8 hours ago`,
-    bodyJa: `サッポロビール、関税解除を受けてビール生産の一部をカナダから米国に移管へ
-- 公開されました
-日本のビール会社サッポロは、カナダ産ビールに対する新たな関税が火曜日に発効したことを受け、ビール生産の一部をカナダから米国に移管すると発表した。
-この措置は、カナダから輸入されるビールに50％の関税が導入されたことを受けたものである。国境を越えてビールを輸送する企業にとって、これはコストの大幅な増加を意味する。
-首席戦略責任者、正府理恵子氏は関税について「我々のコントロールの及ばないもの」と述べ、ビール大手は「現地生産を進める」とブルームバーグに語った。
-札幌はBBCのコメント要請にすぐには応じなかった。同社は現在米国顧客向けにカナダで製造しているノンアルコールビールの生産を、2027年上半期までに米国に移管する計画だ。
-米国はサッポロにとって最も重要な海外市場の一つであり、国境以南への移動はカナダ子会社スリーマン・ブルワリーズの経営に直接影響する。
-コスト上昇を緩和するために、日本のビール会社は米国西海岸での生産能力の追加を検討している。選択肢としては、醸造所の建設や購入、あるいはサードパーティメーカーとの提携などが挙げられます。
-サッポロは長年にわたって米国での存在感を高めており、同社の主力ブランドであるサッポロは米国で最も売れているアジアのビールブランドであるとしている。
-同社は人口減少がアルコールの売り上げに重しとなっている日本国外でも多額の投資を行っている。
-サッポロは海外展開と利益拡大を目指し、２０３０年までに最大４０００億円（２６億ドル）を投資する計画だ。資本金の約30％は海外市場に充てられます。
-醸造家は北米以外にも目を向けています。 7月には、東南アジアでの事業拡大を目的としたデンマークのビール会社カールスバーグとの提携を発表した。
-サッポロの生産移転の決定は、企業が世界中で増加する関税に適応する中で行われた。
-米国は7月、カナダを含む数十の貿易相手国に対する新たな関税を発表し、国境を越えたサプライチェーンに依存する企業のコストが上昇した。
-この動きは、貿易障壁が海外からの顧客へのサービスコストを増大させる中、一部の企業が製品の製造場所をどのように再考しているかを浮き彫りにしている。
-関連トピック
-- 6 時間前に公開
-- 7 月 24 日発行
-- 8 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-08T17:41:42+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/00423140-ab99-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 3,
   },
 ];
 
