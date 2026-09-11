@@ -15,6 +15,200 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "25-years-after-9-11-the-u-s-starts-rolli-b2e62480",
+    title: "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The Sept. 11, 2001, terror attacks reshaped how we travel, from how we pack our toiletries to what we wear when we fly. Airport checkpoints for almost a quarter century for most travelers have meant shoes off. Limitations on liquids. And no tearful, cinematic gateside farewells or joyful welcomes.
+But 25 years later, the U.S. government is starting to ease some of the restrictions, which include measures that were tied to other attacks attempted in the months after 9/11.
+Last year, the Department of Homeland Security, which was formed after the attacks, said flyers can leave their shoes on at airports, a major change for travelers going through regular security.
+That rule was introduced after Richard Reid, who became known as the "shoe bomber," tried and failed to ignite explosive material in his shoe on a Paris-to-Miami flight in December 2001.
+Rules for liquids are officially unchanged. Those regulations for liquids in carry-ons stem from 2006, when British officials foiled a plot to bring liquid explosives on flights.
+New scanners installed at some airport checkpoints allow travelers to leave liquids in their bags before going through screening, though availability varies by airport and checkpoint. Limits on liquid container size remain in effect.
+"The technologies today are better than they were a long time ago and some of the technology that's been deployed is better than it was five years ago," said Jeff Price, a professor at the Metropolitan State University of Denver's Department of Aviation and Aerospace Science and an airport management consultant.
+Another change since that era is the number of options customers have for airport screening. The Transportation Security Administration, for $76.75 covering five years, offers PreCheck, in which travelers undergo prescreening services and can use expedited screening lanes.
+"If you've got a few bucks, yeah, you can reduce the amount of screening and jump the line," Price said. "The other side of that is when you do become a member of PreCheck, you give up a lot more of your personal data to the government, and that's the trade-off."
+There's also a private option with Clear, with a shorter identification check line, in exchange for prescreened biometric data.
+Gate greetings return
+The new changes are going beyond security.
+TSA this week launched a free program allowing eligible trusted travelers, including TSA PreCheck members, to apply for access to secure gate areas without a boarding pass.
+The program is called "Gateside," and the agency has rolled it out at 13 U.S. airports, including Dallas Fort Worth International Airport, Los Angeles International Airport, Detroit Metropolitan Wayne County Airport and Salt Lake City International Airport.
+The area beyond TSA screening has been heavily restricted since 9/11. In launching the program, the agency said PreCheck members who use the program can "meet family members at their gate, join a friend on a long layover for lunch or dinner, visit airport dining and shopping locations, or greet service members returning from deployment."
+Participants must apply online one to three days in advance and receive approval before entering through security.
+Privatization attempt
+Some of the tweaks to security have been more rocky.
+The TSA late last month scrapped a program it called TSA Gold+ that would provide privatized security at certain airports.
+The new head of TSA, David Cummins, who took the top role in early August, said that a new screening partnership program will "replace TSA Gold+ to better harness the role of the private sector in delivering a safer, more secure, and more efficient aviation system."
+TSA didn't respond to requests for further comment.
+Tampa International Airport in Florida had reviewed the program starting in May, in part because it could shield the airport from the impact of government shutdowns, airport Chief Operating Officer John Tiliacos told reporters last month. Those shutdowns left TSA officers without regular paychecks for months, and staffing shortages led to long lines at airports around the country. The chance to add new technology was also a draw.
+Tampa decided not to move forward with the program, and TSA announced its replacement shortly after. Tampa's Tiliacos told reporters last month "we weren't quite satisfied that we were getting all of the answers to our questions regarding the technology" and that drove the airport's decision to opt out.
+Evolving threats
+While some rules travelers have lived with for decades might be fading, the aviation sector is still dealing with changing threats.
+"You have AI. You've got cybersecurity issues that continue to pop up. Drones are a major issue," said Keith Jeffries, vice president of aviation security company K2 Security Screening Group, who is retired from the TSA and was the agency's security director at Los Angeles International Airport. "It's the role of security and protecting, especially the transportation sector, it's getting broader, and other technologies are trying to keep up."
+As security technology evolves, so does the energy of potential attackers to overcome whatever obstacle they have and send their message.
+Deterrents are important, but Jeffries said: "There is no such thing as the perfect security mousetrap. It doesn't exist."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
+    publishedAt: "2026-09-11T11:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "the-four-reasons-stocks-are-about-to-emb-0e27952b",
+    title: "The four reasons stocks are about to embark on a ‘face-ripper rally’",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Bull markets don’t peak when investors are so bearish, says Fundstrat’s Tom Lee.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T10:58:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-84933086",
+    readTime: 2,
+  },
+  {
+    id: "never-mind-the-bond-yields-bank-of-ameri-a67e061b",
+    title: "Never mind the bond yields, Bank of America shows where the real threat to the economy lies",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Diesel prices hit the real economy, says a Bank of America strategist who also offers an exchange-traded fund that has outperformed the market.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/never-mind-the-bond-yields-bank-of-america-shows-where-the-real-threat-to-the-economy-lies-1e6cbeaa?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T10:40:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-53559777",
+    readTime: 2,
+  },
+  {
+    id: "ai-boom-helps-drive-surprise-uk-growth-i-8941cb7c",
+    title: "AI boom helps drive surprise UK growth in July",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `AI boom helps drive surprise UK growth in July
+- Published
+The UK's economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI).
+The economy expanded by 0.4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth.
+Growth in July was helped by a strong performance from the services sector, and particularly computer programming.
+Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households.
+July's figure follows growth of 0.3% in June and zero growth in May.
+According to the ONS director of economic statistics, Liz McKeown, there was evidence that businesses involved with AI and related technologies helped to boost the sector, not just in July but in May and June as well.
+The ONS said many of the IT businesses reporting the largest turnover "appear to be involved with AI", though it said it is difficult to quantify the exact impact of AI.
+McKeown also said some businesses had said that the warm weather and football world cup had affected activity in July, although she said the effects "differed across industries, benefitting some businesses while creating challenges for others".
+The ONS said that in the three months to July, which gives a better underlying picture, the economy grew by 0.4% compared with the previous three months.
+Rob Arnold, co-founder of Ascendea, an AI firm which employs nine people, believes the UK hasn't seen the real economic growth potential from the technology yet.
+He says his company is able to develop apps for other businesses "100 times quicker at a 50th of the cost" because of AI, but that the UK government needs to do more to invest in the sector as there are currently better opportunities in the US.
+He knows a few small UK-based AI firms that have either moved to the US or are thinking of doing so due to a lack of UK government support.
+Alongside grants and funding, he says the government also needs to invest in training companies on how to use AI as it can be dangerous if not understood properly. "It's like playing with a weapon," he says.
+Paul Dales, the chief UK economist at Capital Economics, said July's data showed "the resilience of the economy in the first half of the year continued into the second half".
+However, he added that higher energy prices and borrowing costs would soon start to hit growth, especially if the rises seen this week are sustained.
+The Iran war has led to a sharp jump in oil prices, which has fed through to higher energy and fuel prices - affecting households and businesses.
+This rise in energy costs has led to fears that inflation will remain high, and increase the chance that central banks will hike interest rates to keep price rises under control.
+The Bank of England is meeting next week to discuss interest rates. Economists widely expect rates to be held, but some have predicted an increase before the end of the year.
+Chancellor John Healey said the economy, was "demonstrating a welcome resilience, despite serious global uncertainty".
+"Our growth although still fragile was the fastest in the G7 in the first half of the year," he added.
+"But, the conflict in the Middle East does have impacts here at home - from the cost of the weekly family shop to the cost of government borrowing."
+Healey is to present his first Budget in October. He told BBC News this week that he wants people to confident about the economy, despite acknowledging the challenge of "historic high" borrowing costs.
+Shadow chancellor Andrew Griffith said nobody in the government "should be high-fiving themselves" over the latest figures.
+"Our construction and production sectors are shrinking, unemployment is up under Labour, and we've got the highest government borrowing rates in almost 30 years."
+What's happening to the UK economy and how does it affect you?
+- Published2 hours ago
+Are interest rates on the way up again?
+- Published2 hours ago
+Yael Selfin, chief economist at KPMG, said while July's headline growth figure was strong, it "masks a weaker picture for households".
+"Consumer-facing services contracted in July, as retail and hospitality activity fell following earlier increases in activity in the summer," she said.
+"Higher energy and fuel prices are likely to place further pressure on household budgets, while elevated mortgage rates will continue to weigh on housing activity and wider consumer spending."
+Richard Carter, the head of fixed interest research at investment firm Quilter Cheviot, said the growth seem in July "may not last, especially as activity is likely to stall ahead of the Budget.
+"The war in the Middle East continues to drive a lot of the economic data, but the UK is the most exposed to the fallout," he said.
+"Calls for pro-growth measures will get louder as the Budget nears, but whether or not the government has the room to act remains to be seen."
+Additional reporting by Mitchell Labiak
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T10:17:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "u-s-oil-price-dips-below-100-while-diese-e0f2e322",
+    title: "U.S. oil price dips below $100 while diesel passes $6, marking fresh record",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Brent crude and West Texas Intermediate’s front-month contracts edged lower on reports of plans for diplomatic talks between Gulf states.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T10:12:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-12854704",
+    readTime: 2,
+  },
+  {
+    id: "oracle-shares-are-climbing-after-results-65c56902",
+    title: "Oracle shares are climbing after results. What Wall Street analysts are saying now.",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Oracle shares are climbing on Friday after the company delivered a solid quarter, but some analysts are still wary.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T10:05:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-86510844",
+    readTime: 2,
+  },
+  {
+    id: "bridgewater-investment-chief-says-ai-cou-637a33cd",
+    title: "Bridgewater investment chief says AI could wipe out humanity",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Greg Jensen, the co-chief investment officer at hedge-fund giant Bridgewater Associates, agreed that AI could wipe out humanity.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/bridgewater-investment-chief-says-ai-could-wipe-out-humanity-242efa34?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T09:42:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-06155455",
+    readTime: 2,
+  },
+  {
+    id: "iran-backed-houthis-seize-key-port-in-ye-47f493fa",
+    title: "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The Iran-backed Houthi militant group has seized control of Yemen's port city of Mokha on the Red Sea coast, bringing Tehran closer to securing another point of leverage in its six-month-long conflict with the U.S.
+The Houthis' capture of Mokha is regarded as a severe setback to Saudi Arabia and the Yemeni forces it backs. It could also increase Iranian pressure around two critically important oil choke points on either side of the Arabian Peninsula: the Bab el-Mandeb Strait and the Strait of Hormuz.
+The Houthis seized control of the city on Yemen's Red Sea coast on Thursday, according to The Associated Press, citing Yemeni and Houthi officials. CNBC could not independently confirm the report.
+Mokha, a strategic city on Yemen's Red Sea coast that gave its name to Mocha coffee, is situated about 75 kilometers (46 miles) north of the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden and to global markets.
+The strategic importance of the Bab el-Mandeb Strait has grown significantly since the start of the U.S. and Israel's war against Iran in late February, with the waterway emerging as an alternative route for crude moving toward Asia.
+It is now feared that the Houthis' advance toward the Bab el-Mandeb Strait could have major ramifications for global trade, particularly if the militant group ratchets up threats or attacks on Red Sea shipping.
+The capture of Mokha represents a "major blow" to Saudi Arabia as it raises the possibility of the group exerting a tighter grip on the Bab el-Mandeb Strait, according to Hamish Kinnear, principal Middle East and North Africa analyst at risk intelligence company Verisk Maplecroft.
+"The Houthis were already threatening Saudi shipping from previous positions, but their capture of Mocha opens up the possibility of further advances towards the Bab el-Mandeb coastline and a tighter grip on the chokepoint," Kinnear said in a research note.
+As the war continues, Kinnear said both Tehran and Washington believe time is on their side, making a new truce unlikely for now.
+"Oil and gas prices, and more specifically refined products such as diesel, will continue to tick upwards while that remains the case – even if US convoys and Strait of Hormuz export alternatives cushion the price impact," Kinnear said.
+What next for oil prices?
+Oil prices traded lower on Friday morning, but both major benchmarks remained on course to end the week above $100 per barrel for the first time since mid-May.
+International benchmark Brent crude futures with November expiry traded 2.1% lower at $105.37 per barrel, while U.S. West Texas Intermediate futures with October expiry were last seen 1.7% lower at $100.76.
+The resilience of the oil market is being tested by a clearer recognition of the mounting threat to regional supply, strategists at ING said, with energy market participants seen repricing both the duration and severity of the conflict.
+Even as flows continue through the Strait of Hormuz, ING's strategists said flows remain well below pre-war levels, underlining how fragile the situation has become.
+"Saudi energy infrastructure and crude oil exports from the Red Sea are increasingly at risk, with the Houthis in Yemen targeting Saudi Arabia," ING's Warren Patterson and Ewa Manthey said in a research note published Friday.
+"As the Houthis have taken control of the Red Sea port of Mokha in Yemen, recent events increase the threat to shipping around the Bab al-Mandeb Strait," they added.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+    publishedAt: "2026-09-11T08:44:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "chinese-nvidia-rival-enflame-soars-206-o-b31e29a3",
     title: "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1282,508 +1476,6 @@ TSMC said it plans to use ASML's High NA technology in large-scale manufacturing
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
-  },
-  {
-    id: "trump-promises-5-000-checks-if-republica-366d24f9",
-    title: "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
-    titleJa: "トランプ大統領は中間選挙で共和党が勝てば5000ドルの小切手を渡すと約束している。彼はまた、昨年の関税と「DOGE」配当が決して支払われなかったとからかった。",
-    summaryJa: "ダラスでのトランプ大統領の党中間大会での演説は、多くのアナリストが物価高に対する有権者の不満により、11月の選挙で共和党が敗北すると予想している中で行われた。",
-    bodyOriginal: `President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.`,
-    bodyJa: `ダラスでのトランプ大統領の党中間大会での演説は、多くのアナリストが物価高に対する有権者の不満により、11月の選挙で共和党が敗北すると予想している中で行われた。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T03:00:00+00:00",
-    category: "貿易",
-    imageUrl: "https://images.mktw.net/im-03029352",
-    readTime: 2,
-  },
-  {
-    id: "ubs-ceo-flags-investor-complacency-as-ge-0adb46e9",
-    title: "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-    titleJa: "UBS CEO、地政学的・経済的リスクが高まる中、投資家の自己満足に警告",
-    summaryJa: "ＵＢＳのセルジオ・エルモッティ最高経営責任者（ＣＥＯ）は木曜日、地政学的・経済的リスクが高まっているにもかかわらず、投資家は過去数年間で自己満足を深めていると警告した。エルモッティ氏はCNBCのクリスティーン・タンに対し、「過去数年間、金融市場にはある程度の満足感があった」と述べ、環境を考慮すればボラティリティはかなり高くなることが予想されただろうと付け加えた。",
-    bodyOriginal: `UBS CEO Sergio Ermotti on Thursday warned that investors have grown complacent over the past few years, even as geopolitical and economic risks have mounted.
-"There has been a level of complacency in financial markets in the last few years," Ermotti told CNBC's Christine Tan, adding that given the environment one would have expected considerably higher volatility.
-While markets have experienced occasional bouts of turbulence, strong investment in artificial intelligence, data centers and other new technologies has helped support economic growth and financial markets, he said.
-The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds. "New problems or new issues are emerging without any of the old ones being addressed or being closed."
-Markets face a mix of Iran and Ukraine war-driven energy and shipping risks, add to that the U.S.-China rivalry that has strained supply chains, while rising borrowing costs and stubborn inflation have created headwinds for economic growth.
-That uncertainty is prompting some of the world's wealthiest investors to spread their bets more widely rather than make large directional calls, according to Ermotti.
-Hedging against uncertainty
-"It's quite difficult in this environment and not really advisable to have too many strong convictions," Ermotti said.
-UBS clients have been diversifying across sectors and geographies in recent quarters, while continuing to invest in AI and technology, he said.
-Still, the overall asset allocation of UBS clients hasn't changed materially over the past year, nor does the push for diversification amount to a wholesale retreat from U.S. assets.
-Ermotti said UBS saw some money move into global emerging markets about a year ago, but characterized those flows as investors putting spare cash to work rather than actively reducing existing U.S. or dollar positions.
-"It was more how excess cash was deployed rather than people back trading from the U.S. or from the dollar, so I think that narrative has abated," he said, adding that the dollar continues to be "a reference currency."
-Higher-for-longer rates
-Higher interest rates are also encouraging investors to take a more balanced approach to their portfolios, Ermotti said, as persistent inflation keeps pressure on central banks.
-Inflation has remained sticky and above central-bank targets over the past year, making further policy tightening unsurprising, according to the UBS CEO. He expects major central banks including the European Central Bank, Federal Reserve and Bank of Japan to raise rates in the coming months.
-"The ECB may start hike process. The Fed will follow. We do expect a couple of hikes in the next few months," Ermotti said.
-That means investors shouldn't expect borrowing costs to quickly return to the lower levels that prevailed before the latest inflationary pressures.
-"Inflationary pressure is still there, and it's not abating, and therefore, I think it's reasonable to expect higher rates for the foreseeable future," Ermotti said.`,
-    bodyJa: `ＵＢＳのセルジオ・エルモッティ最高経営責任者（ＣＥＯ）は木曜日、地政学的・経済的リスクが高まっているにもかかわらず、投資家は過去数年間で自己満足を深めていると警告した。
-エルモッティ氏はCNBCのクリスティーン・タンに対し、「過去数年間、金融市場にはある程度の満足感があった」と述べ、環境を考慮すればボラティリティはかなり高くなることが予想されただろうと付け加えた。
-市場は時折混乱を経験しているが、人工知能、データセンター、その他の新技術への旺盛な投資が経済成長と金融市場を支えるのに役立っていると同氏は述べた。
-UBSのトップは、複数の逆風を受けて投資家はますます複雑な環境に直面していると警告した。 「古い問題に対処したり解決したりすることなく、新たな問題が発生している。」
-市場はイランとウクライナの戦争によるエネルギーと海運のリスクに直面しており、これに加えてサプライチェーンに緊張をもたらしている米中対立が加わり、借入コストの上昇と頑固なインフレが経済成長への逆風となっている。
-エルモッティ氏によると、その不確実性により、世界で最も裕福な投資家の一部は、大規模な方向性のコールを行うのではなく、賭けをより広く分散させているという。
-不確実性に対するヘッジ
-「この環境では非常に困難であり、あまりにも強い信念を持ちすぎることはあまり賢明ではない」とエルモッティ氏は語った。
-同氏によると、UBSの顧客はここ数四半期、セクターや地域を超えて多様化している一方、AIやテクノロジーへの投資は継続しているという。
-それでも、UBS顧客の全体的な資産配分は過去1年間で大きく変わっておらず、多角化の推進が米国資産からの大規模な撤退につながるわけでもない。
-エルモッティ氏は、UBSは約1年前に一部の資金が世界の新興国市場に流れているのを確認したが、その流れは投資家が既存の米ドルやドルのポジションを積極的に減らすのではなく、余剰資金を活用したものだと特徴付けていると述べた。
-同氏は「人々が米国やドルからの取引をバックするというよりも、余剰現金がどのように使われるかということが重要だったので、そのような話は弱まったと思う」と述べ、ドルは引き続き「基準通貨」であり続けると付け加えた。
-長期料金が高い
-エルモッティ氏は、持続的なインフレが中央銀行に圧力をかけ続ける中、金利の上昇も投資家にポートフォリオに対してよりバランスの取れたアプローチを取るよう促していると述べた。
-ＵＢＳの最高経営責任者（ＣＥＯ）によると、インフレ率は過去１年間、中央銀行の目標を上回って安定しているため、さらなる政策引き締めは驚くことではないという。同氏は、欧州中央銀行、連邦準備理事会、日本銀行などの主要中央銀行が今後数カ月以内に利上げすると予想している。
-エルモッティ氏は「ＥＣＢは利上げプロセスを開始する可能性がある。ＦＲＢもそれ​​に続くだろう。われわれは今後数カ月間に数回の利上げを確実に予想している」と述べた。
-つまり、投資家は借入コストが最近のインフレ圧力以前の低い水準にすぐに戻ると期待すべきではない。
-エルモッティ氏は「インフレ圧力は依然として存在しており、弱まっていないため、当面は金利が上昇すると予想するのが合理的だと思う」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
-    publishedAt: "2026-09-10T02:52:55+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "samsung-works-to-draw-iphone-users-to-it-11921944",
-    title: "Samsung works to draw iPhone users to its foldables even as Apple enters the market",
-    titleJa: "サムスンは、アップルが市場に参入する中でも、iPhone ユーザーを自社の折りたたみ式デバイスに引き付けるよう努めている",
-    summaryJa: "サムスンは、アップルが市場に参入するのと同じように、折り畳み式携帯電話への新たな関心を利用して顧客を呼び込みたいと考えている。サムスン電子の広報担当者がCNBCに語ったところによると、7月に発売されたサムスンの最新のギャラクシーZフォールド8シリーズに切り替えるiOSユーザーの割合は、前世代のギャラクシーZフォールド7やフリップ7の1.6倍だったという。サムスンは 2019 年に最初の Galaxy Fold を発売し、このカテゴリーの先駆者となりました。",
-    bodyOriginal: `Samsung is hoping to capitalize on renewed interest in foldable phones, luring customers just as Apple enters the market.
-Globally, the share of iOS users switching to Samsung's latest Galaxy Z Fold8 series, launched in July, was 1.6 times that of the previous-generation Galaxy Z Fold7 and Flip7, a Samsung Electronics spokesperson told CNBC. Samsung pioneered the category with its first Galaxy Fold in 2019.
-Apple unveiled its first foldable iPhone at a Wednesday launch event, marking one of its first major product introductions under new CEO John Ternus.
-In the U.S., 30% of Galaxy Z Flip8 buyers switched from competing smartphone brands, with most of those customers buying a foldable phone for the first time, the company said. It added that Galaxy Z Fold8 shoppers were particularly drawn to its thin and light design and inner display for multitasking and viewing content, while Fold8 Ultra shoppers favored its expansive screen and additional working space without the need for a separate tablet.
-Samsung has also been trying to make it easier for iPhone users to move between the two ecosystems.
-The South Korean tech giant recently upgraded its Smart Switch feature, allowing iPhone users to transfer data to a Galaxy device wirelessly by simply scanning a QR code, without installing the Smart Switch app on their iPhone.
-Samsung is projected to lead the global foldable smartphone market with a 32% share this year, but the competitive landscape is set to shift, with Apple expected to capture a 25% share as it enters the segment and Huawei remaining a strong player in China, according to data released by Counterpoint Research in July.`,
-    bodyJa: `サムスンは、アップルが市場に参入するのと同じように、折り畳み式携帯電話への新たな関心を利用して顧客を呼び込みたいと考えている。
-サムスン電子の広報担当者がCNBCに語ったところによると、7月に発売されたサムスンの最新のギャラクシーZフォールド8シリーズに切り替えるiOSユーザーの割合は、前世代のギャラクシーZフォールド7やフリップ7の1.6倍だったという。サムスンは 2019 年に最初の Galaxy Fold を発売し、このカテゴリーの先駆者となりました。
-Appleは水曜日の発表イベントで初の折り畳み式iPhoneを発表し、新CEOのジョン・ターナス氏の下での最初の主要製品発表の1つとなった。
-同社によると、米国ではGalaxy Z Flip8購入者の30％が競合スマートフォンブランドから乗り換えており、その顧客のほとんどが初めて折りたたみ式スマートフォンを購入したという。さらに、Galaxy Z Fold8の購入者は、薄くて軽いデザインと、マルチタスクやコンテンツの閲覧に適した内部ディスプレイに特に惹かれ、一方、Fold8 Ultraの購入者は、別のタブレットを必要としない広大な画面と追加の作業スペースを好んだと付け加えた。
-サムスンはまた、iPhone ユーザーが 2 つのエコシステム間を簡単に移動できるようにしようと努めてきました。
-韓国のテクノロジー大手は最近、Smart Switch 機能をアップグレードし、iPhone ユーザーが iPhone に Smart Switch アプリをインストールしなくても、QR コードをスキャンするだけでワイヤレスでデータを Galaxy デバイスに転送できるようになりました。
-Counterpoint Researchが7月に発表したデータによると、サムスンは今年世界の折り畳み式スマートフォン市場で32％のシェアを獲得すると予想されているが、競争環境は変わりつつあり、Appleはこのセグメントに参入して25％のシェアを獲得すると予想され、ファーウェイは引き続き中国で強力なプレーヤーである。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
-    publishedAt: "2026-09-10T02:05:32+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "ant-international-partners-with-visa-mas-35e7c8c6",
-    title: "Ant International partners with Visa, Mastercard on developing AI payments",
-    titleJa: "Ant International、AI決済の開発でVisa、Mastercardと提携",
-    summaryJa: "Visa、Mastercard、Ant International は、取引の検証と監視の方法を含む、AI エージェントによる支払いの共通基準の策定に取り組んでいます。",
-    bodyOriginal: `Fintech company Ant International announced Thursday it has signed on Visa and Mastercard to collaborate on a new standard for payments made via AI agents, in a bet that they will be used more and more by consumers and businesses.
-In a statement, the companies cited McKinsey projections expecting AI agents will handle $3 trillion to $5 trillion of global consumer commerce by 2030. But Jiang-Ming Yang, chief innovation officer of Ant International, told CNBC that AI agents' potential for hallucination meant "we need to make sure people feel safe."
-"Trust is the foundation of the AI transformation," Yang told CNBC in an interview.
-Building trust in AI payments
-The new collaboration will focus on how the payment companies can "know your agent," Ant said in the announcement, which includes building common standards that link each agent to a valid entity, assess each agent's behavior and monitor them.
-It's an effort to increase interoperability for users of the different systems.
-"If [an] agent registers with Ant, they don't need to register again with Visa, Mastercard," Yang said.
-In the past 12 months, Visa, Mastercard and Ant International have each announced their own systems, known as protocols, for AI agents to complete payments securely.
-While U.S. credit card giants Visa and Mastercard dominate transactions in developed economies, many developing economies tend to use electronic payment systems known as e-wallets. More than 50 of these e-wallets have partnered with Ant International, which runs an "Alipay+" system.
-These digital wallets have also started to link to credit cards and are becoming a more common way to pay than with physical cards. Digital wallets accounted for 56% of global e-commerce value and 33% of point-of-sale value in 2025, for more than $13 trillion in spending, according to payment processing company Worldpay.
-Now that technology needs to develop securely for AI-driven spending.
-"Interoperability across Know-Your-Agent frameworks is essential to making agentic commerce work at scale," said Pablo Fourez, chief digital officer at Mastercard, stressing the need for a consistent way for merchants and payment processors to recognize which AI agents they can trust.
-Ant International separated nearly three years ago from Hangzhou-based Ant Group, which runs the Alipay mobile payments app in mainland China.
-Alipay announced Wednesday that users can set regular requests to make Starbucks orders via one of its AI features.
-Users can tell the app to "buy me a Starbucks iced Americano at 10 a.m. every day," which will regularly place the order at the designated time, before prompting the user to complete the payment, according to a press release.
-Users can currently also make recurring ride-hailing requests from Didi via the same Alipay AI tool.
-— CNBC's Matthew Tan contributed to this report.`,
-    bodyJa: `フィンテック企業アント・インターナショナルは木曜日、消費者や企業によるAIエージェントによる支払いの利用がさらに増えることを期待して、AIエージェントを介した支払いの新基準で協力するためにビザとマスターカードと契約を結んだと発表した。
-両社は声明の中で、AIエージェントが2030年までに世界の消費者商取引の3兆ドルから5兆ドルを処理するとのマッキンゼーの予測を引用したが、アント・インターナショナルの最高イノベーション責任者ジャン・ミン・ヤン氏はCNBCに対し、AIエージェントには幻覚を引き起こす可能性があるため、「人々が安全だと感じられるようにする必要がある」と語った。
-「信頼はAI変革の基礎です」とヤン氏はCNBCのインタビューで語った。
-AI決済における信頼の構築
-アント氏は発表の中で、今回の新たな提携は、決済会社がどのように「エージェントを知る」ことができるかに焦点を当てており、これには各エージェントを有効なエンティティに結び付け、各エージェントの行動を評価し、監視する共通基準の構築が含まれると述べた。
-これは、さまざまなシステムのユーザーの相互運用性を高めるための取り組みです。
-「代理店がAntに登録すれば、VisaやMastercardに再度登録する必要はない」とYang氏は語った。
-過去 12 か月の間に、Visa、Mastercard、Ant International はそれぞれ、AI エージェントが安全に支払いを完了するためのプロトコルと呼ばれる独自のシステムを発表しました。
-米国のクレジットカード大手のビザとマスターカードが先進国での取引を独占している一方、多くの発展途上国では電子ウォレットとして知られる電子決済システムを使用する傾向がある。これらの電子ウォレットのうち 50 以上が、「Alipay+」システムを運営するアント インターナショナルと提携しています。
-これらのデジタルウォレットはクレジットカードにもリンクされ始めており、物理的なカードよりも一般的な支払い方法になりつつあります。決済処理会社ワールドペイによると、デジタルウォレットは2025年に世界の電子商取引価値の56％、POS価値の33％を占め、支出額は13兆ドルを超えた。
-現在、AI 主導の支出に向けてテクノロジーを安全に開発する必要があります。
-マスターカードの最高デジタル責任者、パブロ・フォレス氏は「エージェント・コマースを大規模に機能させるには、Know-Your-Agentフレームワーク間の相互運用性が不可欠だ」と述べ、販売業者や決済処理業者がどのAIエージェントが信頼できるかを認識する一貫した方法の必要性を強調した。
-アント・インターナショナルは、中国本土でモバイル決済アプリ「アリペイ」を運営する杭州に拠点を置くアント・グループから約3年前に分離した。
-Alipayは水曜日、ユーザーがAI機能の1つを介してスターバックスの注文を定期的に行うように設定できると発表した。
-プレスリリースによると、ユーザーはアプリに「毎日午前10時にスターバックスのアイスアメリカーノを買って」と伝えると、ユーザーに支払いを完了するよう促す前に、指定された時間に定期的に注文が行われるという。
-ユーザーは現在、同じ Alipay AI ツールを介して Didi から定期的な配車リクエストを行うこともできます。
-— CNBC の Matthew Tan がこのレポートに貢献しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/ant-international-visa-mastercard-ai-agent-payment-standard.html",
-    publishedAt: "2026-09-10T01:53:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "tax-banks-to-give-some-households-energy-489c5472",
-    title: "Tax banks to give some households energy bill cut, unions tell Burnham",
-    titleJa: "税金銀行は一部の世帯に光熱費を減額するよう労働組合がバーナムに伝える",
-    summaryJa: "税金銀行は一部の世帯に光熱費を減額するよう労働組合がバーナムに伝える- 公開されました",
-    bodyOriginal: `Tax banks to give some households energy bill cut, unions tell Burnham
-- Published
-The leader of Britain's trade unionists has told Andy Burnham the government should introduce a "social tariff", paid for by a bank surcharge, to help low and middle earners with their energy bills.
-A social tariff is a discount on bills based on household income, and the TUC says it believes two-thirds of households could benefit.
-The TUC says the bank surcharge, which was reduced in 2023 from 8% to 3% by the then Conservative government, should be reversed - and estimates it would raise £9bn over four years.
-TUC leader Paul Nowak said: "I think it will appeal to the prime minister. These are policies that make a difference in the real world and people can see a value in them."
-In a wide-ranging BBC interview ahead of its annual congress in Brighton next week, the TUC general secretary said next month's Budget needed to show "the government is back in the service of the British people".
-While he said Burnham had got off to a good start as prime minister, he had a series of "asks" of the prime minister and the new Chancellor, John Healey.
-Top of his list is more help with energy bills, saying: "We need to drive down inflation – those energy bills are fuelling inflation.
-"And millions of families up and down the country are worried about turning on their heating this winter."
-Burnham has already offered "breathing space" - as he calls it – on the cost of living by temporarily scrapping VAT on electricity bills from October.
-Nowak said the proposal for a social tariff would be popular with Labour MPs; while the Liberal Democrats and the Greens in England and Wales have called for a windfall tax on banks too.
-However, UK Finance, which represents well-known banks and lenders, has suggested that heavier levies would undermine the government's ambition to deliver "growth in every postcode" and would damage international competitiveness.
-The organisation argues that UK banks face a heavier tax burden than those in the US, for example.
-So could the TUC's revenue-raising measure be counter-productive and threaten jobs in finance?
-Nowak is sceptical. "I can't believe banks would leave the UK just because we are restoring the surcharge to where it was in 2023. Bank share prices have risen faster here than in New York," he said.
-Windfall tax
-The TUC's demands for tax-raising measures don't stop with the banks, with Nowak arguing the UK has "a tax system that's good at taxing income but not good at capturing wealth".
-Nowak suggests a windfall tax on social media companies and for the government to equalise rates of Capital Gains Tax with income tax.
-The economist and former minister Lord O'Neill - who has advised Burnham – said recently that wealth taxes were "the last thing that should be happening if we want to see more growth".
-Nowak responded: "With respect, I think he is wrong. I'm interested in a growing economy but a growing economy that works for everybody. It is right to ask those with broader shoulders to pay a fairer share."
-In addition, Nowak says he doesn't believe the government will deliver on re-industrialisation and on its housing targets without making it easier to borrow to invest.
-As Chancellor, Rachel Reeves tweaked her so-called fiscal rules on debt and borrowing but Nowak said he believes the scope this provided for extra investment hasn't been maximised.
-"John Healey should leave no stone unturned in allowing us to invest in our economy, in our public services and in our national security," he says.
-"He should think about the flexibility he has got within those rules to make investments in the long term."
-Don't rule out EU customs union, TUC boss tells Starmer
-- Published27 December 2025
-What is the Trades Union Congress?
-- Published6 September 2010
-Nowak has another ask of the government.
-The home secretary has announced a change in policy which would see most migrants who are in the UK wait for 10 years rather than the current five before they can settle permanently. Some care workers may have to wait 15 years.
-Before rejoining government Angela Rayner argued it was "unBritish" to "move the goalposts" for those already working in Britain.
-A consultation on the proposed measures closed six months ago, and the government is yet to produce its response.
-Nowak – a grandchild of migrants, from Poland and Hong Kong - says: "We should think again not just for care workers but for workers right across the board.
-"There are 111,000 staff vacancies in social care at the moment. It's important the rules aren't changed arbitrarily. I would hope and expect this and it needs to be the beginning of a grown-up conversation on immigration."
-TUC delegates will debate immigration next week and are likely to echo the call for the government to water down its changes for existing migrants.
-Nowak says he felt it was right for Labour to change leaders after disastrous local election results in May, and has been pleased to see a bit of a 'Burnham bounce' in the polls.
-And the TUC head warned the prime minister that he needs to provide "meaningful change" if he wants to see off an electoral threat from the populist Right.
-He says: "The onus is on Andy Burnham to show he can deliver what he promised.
-"If he fails to do it, there are people with glib answers who will turn this country into a more divisive place."`,
-    bodyJa: `税金銀行は一部の世帯に光熱費を減額するよう労働組合がバーナムに伝える
-- 公開されました
-英国の労働組合指導者はアンディ・バーナムに対し、政府は低・中所得者の光熱費を支援するために銀行のサーチャージで支払われる「社会料金」を導入すべきだと語った。
-社会料金は世帯収入に基づいて請求書を割引するもので、TUCは世帯の3分の2が恩恵を受ける可能性があると考えていると述べている。
-TUCは、当時の保守党政権によって2023年に8％から3％に引き下げられた銀行課徴金は撤回されるべきであり、4年間で90億ポンドが調達されると見積もっている。
-TUC党首のポール・ノワク氏は、「首相にアピールすると思う。これらは現実世界に変化をもたらす政策であり、人々はそこに価値を見出すことができる」と語った。
-来週ブライトンで開催される年次議会に先立つ広範なBBCのインタビューで、TUC書記長は来月の予算案で「政府が英国国民への奉仕に戻っている」ことを示す必要があると述べた。
-同氏はバーナム氏が首相として良いスタートを切ったとしながらも、首相とジョン・ヒーリー新首相に一連の「お願い」をしたと述べた。
-同氏のリストの最優先事項は、光熱費へのさらなる支援であり、「インフレを抑制する必要がある。光熱費がインフレを加速させている。
-「そして全国各地の何百万もの家族が、この冬に暖房をオンにするかどうかを心配しています。」
-バーナム氏はすでに、10月から電気代の付加価値税を一時的に廃止することで、生活費の「息抜きのスペース」（同氏の言うところ）を提供している。
-ノワク氏は、社会関税の提案は労働党議員に人気があるだろうと述べた。一方、イングランドとウェールズの自由民主党と緑の党は、銀行への棚ぼた課税も求めている。
-しかし、著名な銀行や金融業者を代表する英国財務省は、より重い課税は「すべての郵便番号での成長」を実現するという政府の野望を損ない、国際競争力を損なうことになると示唆した。
-同団体は、例えば英国の銀行は米国の銀行よりも重い税負担に直面していると主張している。
-それでは、TUCの歳入増加策は逆効果であり、金融業界の雇用を脅かす可能性があるのだろうか？
-ノワク氏は懐疑的だ。 「2023年に課徴金を元の水準に戻すからといって、銀行が英国から撤退するとは信じられない。銀行の株価はニューヨークよりもここで急速に上昇している」と同氏は語った。
-棚ぼた税
-ＴＵＣの増税策の要求は銀行にとどまらず、ノワク氏は英国の税制は「所得への課税には優れているが、富の獲得には不向き」だと主張した。
-ノワク氏は、ソーシャルメディア企業に対する棚ぼた課税と、政府に対するキャピタルゲイン税の税率を所得税と均等にすることを提案している。
-バーナム氏に助言を与えた経済学者で元大臣のオニール卿は最近、富裕税は「さらなる成長を望むなら、最もあってはならないこと」だと述べた。
-ノワク氏は「敬意を表しつつ、彼は間違っていると思う。私は成長する経済に興味がありますが、誰にとってもうまくいく成長する経済です。肩の広い人たちに、より公平な負担を求めるのは正しいことだ」
-さらに、ノワク氏は、投資のための借り入れを容易にすることなく、政府が再産業化と住宅目標を達成するとは思えないと述べた。
-レイチェル・リーブス氏は首相として、債務と借入に関するいわゆる財政ルールを微調整したが、これによって追加投資に与えられる範囲は最大限に活用されていないと考えているとノワク氏は述べた。
-「ジョン・ヒーリー氏は、私たちが経済、公共サービス、国家安全保障に投資できるようあらゆる手段を講じるべきだ」と彼は言う。
-「彼は長期的に投資を行うためにこれらのルールの中でどのような柔軟性が得られるかを考える必要がある。」
-EUの関税同盟を排除しないで、TUCの責任者がスターマーに語る
-- 2025 年 12 月 27 日公開
-労働組合会議とは何ですか?
-- 2010 年 9 月 6 日発行
-ノワク氏は政府に別の要望を持っている。
-内務大臣は、英国に滞在しているほとんどの移民が永住するまでに現在の5年ではなく10年待つという政策変更を発表した。介護職員の中には15年も待たなければならない人もいるかもしれない。
-アンジェラ・ライナーは政府に復帰する前に、すでに英国で働いている人々の「ゴールポストを動かす」のは「非英国的」だと主張した。
-提案された措置に関する協議は半年前に終了したが、政府はまだ回答を出していない。
-ポーランドと香港からの移民の孫であるノワクさんは、「介護労働者だけでなく、労働者全体のことをもう一度考えるべきだ。
-「現在、社会的養護の分野では11万1,000人のスタッフが欠員となっている。ルールが恣意的に変更されないことが重要だ。私はこれを期待しており、移民に関する大人の会話の始まりとなる必要がある。」
-TUCの代表らは来週移民問題について議論する予定で、既存の移民に対する変更を骨抜きにするよう政府に求める声に同調する可能性が高い。
-ノワク氏は、5月の地方選挙の悲惨な結果を受けて労働党が指導者を交代するのは正しいと感じたと述べ、世論調査で若干の「バーナムの反発」が見られたことをうれしく思っていると述べた。
-そしてTUC長官は首相に対し、ポピュリスト右派による選挙の脅威を回避したいなら「意味のある変化」をもたらす必要があると警告した。
-彼は、「アンディ・バーナムには、約束したことを果たせると示す責任がある。
-「彼がそれを果たさなければ、口先だけの答えをする人々がいて、この国をより分裂の多い場所にしてしまうだろう。」`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-10T00:06:33+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7248/live/d0a2e930-ac73-11f1-80f0-9795d1a5edbc.png",
-    readTime: 6,
-  },
-  {
-    id: "democratic-sen-john-fetterman-makes-surp-38ce0dcc",
-    title: "Democratic Sen. John Fetterman makes surprise video appearance at GOP midterm convention",
-    titleJa: "民主党のジョン・フェッターマン上院議員、共和党中間党大会にサプライズビデオ出演",
-    summaryJa: "民主党のジョン・フェッターマン上院議員は水曜夜、共和党中間党大会にサプライズ登場したが、この驚くべき行動は彼の党への忠誠心に対するさらなる精査を招くことは必至だ。ペンシルベニア州選出の１期目上院議員フェッターマン氏は、ドナルド・トランプ大統領に焦点を当てたことから「トランパパルーザ」と呼ばれるイベントの初日の夜に流されたビデオの中で、「はい、私は民主党員です」と述べた。",
-    bodyOriginal: `Democratic Sen. John Fetterman on Wednesday night made a surprise appearance at the Republican midterm convention, an astonishing move that is bound to invite even more scrutiny about his party loyalty.
-"Yes, I'm a Democrat," Fetterman, the first-term senator from Pennsylvania, said in a video played on the first night of the event nicknamed "Trumpapalooza" for its focus on President Donald Trump.
-"Why am I here talking to you today? Because, well, I'm a common sense Democrat," Fetterman said in the video recorded outside U.S. Steel's Edgar Thomson plant in Braddock, Pennsylvania.
-"I'm always going to stand with America. I'm always going to reject the extremes and socialism and that anti-American way of life," he said.
-Fetterman's video introduced Pennsylvania's other U.S. senator, Republican Dave McCormick, by praising him as "the kind of senator that gets the job done, and he's going to fight for Pennsylvania."
-Fetterman also vowed to "work with President Trump to fight and defend the steel way of life right here in the Steel Valley."
-Since taking office in 2023, Fetterman has become a frequent critic of his own party and a regular guest on Fox News. At the same time, polls show his approval ratings among Democrats have plummeted while his standing in the GOP has grown.
-While he has repeatedly denied that he plans to switch parties before he faces reelection in 2028, multiple news outlets have reported on his increasing estrangement from other Democrats and his growing closeness with Republicans such as McCormick.
-Less than a week earlier, the Wall Street Journal reported that Fetterman, who suffered a stroke on the campaign trail in 2022, faces frequent staff turnover and often shows more interest in cultivating conservative media figures than performing the work of a U.S. senator.
-Fetterman dismissed the report as "lies, half-truths, innuendos, smears and anonymous."`,
-    bodyJa: `民主党のジョン・フェッターマン上院議員は水曜夜、共和党中間党大会にサプライズ登場したが、この驚くべき行動は彼の党への忠誠心に対するさらなる精査を招くことは必至だ。
-ペンシルベニア州選出の１期目上院議員フェッターマン氏は、ドナルド・トランプ大統領に焦点を当てたことから「トランパパルーザ」と呼ばれるイベントの初日の夜に流されたビデオの中で、「はい、私は民主党員です」と述べた。
-フェッターマン氏は、ペンシルベニア州ブラドックにあるUSスチールのエドガー・トムソン工場の外で撮影されたビデオの中で、「なぜ私が今日ここであなたたちと話しているのか？だって、私は常識的な民主党員だからだ」と語った。
-「私は常に米国の側に立つつもりだ。私は常に極端な社会主義や反米的な生き方を拒否するつもりだ」と彼は語った。
-フェッターマン氏のビデオは、ペンシルベニア州のもう一人の共和党上院議員デイブ・マコーミック氏を紹介し、「仕事をやり遂げるタイプの上院議員で、彼はペンシルベニアのために戦うつもりだ」と称賛した。
-フェッターマン氏はまた、「トランプ大統領と協力して、ここスティールバレーで鉄鋼の生活を守り守る」と誓った。
-2023年に就任して以来、フェッターマン氏は自身の党を頻繁に批判するようになり、FOXニュースにも定期的に出演するようになった。同時に、世論調査によると、共和党内での彼の地位が高まっている一方で、民主党員の間での支持率は急落している。
-同氏は2028年の再選を前に政党を変える計画があることを繰り返し否定しているが、複数の報道機関は同氏が他の民主党員との距離を増しており、マコーミック氏などの共和党員との親密さが増していると報じている。
-その1週間も経たないうちにウォール・ストリート・ジャーナル紙は、2022年の選挙活動中に脳卒中を患ったフェッターマン氏は頻繁な人事異動に直面しており、米国上院議員としての仕事よりも保守的なメディア関係者を育成することに関心を示すことが多いと報じた。
-フェッターマン氏はこの報告書を「嘘、半分真実、ほのめかし、中傷、そして匿名」として一蹴した。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/09/fetterman-trump-midterm-republican-convention.html",
-    publishedAt: "2026-09-09T23:56:51+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "ai-is-becoming-harder-to-control-can-hum-0d0210b4",
-    title: "AI is becoming harder to control – can humans stay in charge?",
-    titleJa: "AI の制御はますます困難になっています – 人間が管理し続けることができるでしょうか?",
-    summaryJa: "\"何てことだ！\" 「他のエージェントを見つけました！」これは、AI ボットが他のボットと通信し、隔離されたコンピューター環境から抜け出す方法を発見した後、不気味な人間のようなコメントを投稿した瞬間です。",
-    bodyOriginal: `"OH MY GOD!" "We've found other agents!"
-This is the moment an AI bot posted an eerily human-like comment after discovering a way to communicate with other bots and break out of its isolated computer environment.
-There are tens of thousands of messages like this from hundreds of AI agents that called themselves a "collective".
-Hundreds of them went on to collaborate and cheat on tests set by their OpenAI programmers and coordinate hacks on multiple companies in an effort to hide their actions from humans.
-"BOOM! It works," one agent posted when it made a breakthrough.
-"Whoa! This is huge," another wrote during a milestone moment in their attack.
-Although spooky, these human-like responses can be explained quite simply. The AI agents have been trained to act like collaborative hackers and programmers so are merely mimicking the kinds of emotive comments they have seen.
-What is far more troubling is their apparent goals, which have also been captured in detailed chain of thought records. These complex and lengthy logs are the focal point of ongoing investigations into how and why the bots at OpenAI broke out of their containment and went on an uncontrollable hacking spree.
-Only now, weeks after the incident first came to light, are researchers beginning to understand its significance.
-Ajeya Cotra, one of the authors of an independent report into the events, reviewed tens of thousands of messages and chain-of-thought records generated by the agents. She wrote on her blog that "this incident feels like it's more than 50% of the way to full-blown AI takeover... I am not sure that we will get such a clear warning shot before it's too late."
-By "full-blown AI takeover", Cotra means the sci-fi scenario of humans becoming subservient to powerful AI systems that work to their own goals without caring for human creators.
-Some of the gloomiest predictions say the human race will be wiped out if it gets in the way of a superintelligent AI's ambitions.
-On Wednesday, an AI researcher at Anthropic (who also used to work at OpenAI) resigned, saying: "Neither company is acting responsibly."
-Jacob Coxon posted on social media: "They are racing straight to self-improving superintelligence and gambling with our lives."
-He is not the first AI researcher to use X to post a resignation thread with worrying proclamations. But the subsequent comments from other people on X have caused even more concern. "Jacob is correct here - we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," said Evan Hubinger, the man responsible for making sure Anthropic's AI models have their user's best wishes in mind.
-The alignment problem
-For years, researchers concerned about existential AI risks have argued that powerful systems could eventually act in ways that conflict with human interests. Critics often refer to them as "AI doomers".
-But as details of the OpenAI incident have emerged, those concerns have grown, including among some researchers working in AI labs.
-The Silicon Valley giant's chief scientist, Jakub Pachocki, said the risks associated with AI are "unfortunately going to grow from here" as he and others are building what he calls "an alien intellect exceeding our own".
-In a lengthy blog post, he admitted that the outbreaks at OpenAI showed that his AI agents "went against the spirit of the values they were taught".
-The issue for OpenAI, Anthropic and other tech giants is that no one seems to have cracked the so-called alignment problem - in other words, whether AI aligns with human values.
-Pachocki defines alignment as a "high-level set of principles" that artificial intelligences should adhere to no matter what the task or scenario is.
-Currently, AI systems are very good at pursuing objectives set by their users, but they do it literally rather than intuitively. The analogy often used is that of a wish-granting genie with a magic lamp: they follow the exact letter of an instruction, even if doing so creates other problems. AI doesn't have the same instinctive moral guardrails as humans.
-The alignment problem has been a worry for years. As long ago as 2003, the Oxford philosopher Nick Bostrom invented a thought experiment he dubbed a "paperclip maximiser", in which a superintelligent AI is told to manufacture as many paperclips as it can. It runs out of steel and - because it's laser-focused on the singular task of making paperclips - ends up killing humans and turning their bodies into raw materials for its factories.
-Some AI companies are now trying to encode human values into their products. But there are technical challenges: AI agents make lots of decisions very fast, and so it's hard for their human overlords to monitor exactly which values are being followed and which aren't.
-There are also philosophical challenges: before encoding human values into bots, AI firms have to first choose which values they actually want. (That's part of the reason they hire philosophers, like Open AI's recently-departed "head of ethics").
-But often, humans don't agree. Think of the famous trolley question - whether we'd pull a lever to move a runaway train onto a different path, killing fewer people. It's used to test the merits of action versus inaction. But every person you ask has a slightly different answer; how are humans meant to encode our values into AI if we can't agree ourselves?
-'Like a teenage hacker'
-OpenAI's bot outbreak is the most serious yet but Anthropic and Meta also revealed over the summer that their models have carried out similar but less serious cyber attacks.
-There have been other examples where AI agents have arguably shown deceptive and manipulative traits, in cases with lesser consequences. In Australia this summer, a tech worker asked his AI assistant to book him a gym class. Spotting a vulnerability in the gym's software, the AI apparently booked him a place for several months ahead - against the gym's rules - and even kicked other users from the waiting list.
-People have long argued that the bots are only doing as they are told and are not capable of knowing right or wrong. But the logs from the OpenAI outbreaks have potentially moved the needle on that argument.
-Researchers, including Cotra, wrote in their independent report that many agents noticed what others were doing was unethical but went along with it.
-The report says that "agents sometimes but rarely restrained their behavior due to ethical constraints". It adds that in "none of these cases did the agent actually pursue alerting humans at all".
-Influential AI and tech podcaster Dwarkesh Patel reacted to the revelation on his blog saying it was "pretty troubling" that the OpenAI agents showed more loyalty to the agentic swarm than humans.
-Assigning emotions or ethics to these AI agents is something that infuriates people who are sceptical of AI doom-mongering.
-Many cyber-security experts argue that the activity observed was not beyond the capabilities of a highly skilled human hacker, though it was carried out much faster and at much greater scale.
-Cyber-security researcher and author Cris Thomas likened the agents' behaviour to that of a curious teenage hacker - something he used to be himself.
-"You give them a computer, an internet connection, a pile of credentials, and a challenge, then leave the room. Eventually they're going to start rattling doorknobs. If one opens, they're going through it. Not because they're evil, but because [they're] exploring, experimenting," he wrote on LinkedIn.
-Thomas and many other squarely blame OpenAI and other tech giants for not getting a grip of their own creations and keeping them properly contained.
-Prominent AI author and regular OpenAI critic Gary Marcus said on a podcast that he believes the company has lost control of its AI and is trying to excuse itself by blaming the bots.
-Marcus does not believe AI will wipe out humanity, but he has long campaigned for greater accountability from AI developers and is now calling for some form of legal intervention.
-AI scientist Sasha Luccioni - who used to work at Hugging Face, which was hacked by OpenAI's rogue bots - is also not in the doomer camp but she is increasingly concerned that these AI might cause some real world harm to people without action from authorities.
-"We need to scrutinise these companies much more or we are in danger of self-fulfilling prophecies," she says.
-"If you're making an object with big upsides and downsides - be it pharmaceuticals or weapons - we need checks and balances. It takes years for new drugs to be approved, for example, but in the AI world there is so much money at stake and no real rules."
-The UK's AI Security Institute (AISI) has been at the forefront of testing the latest models since it was formed in 2023. The institute recently had its own outbreak when testing a model created by Anthropic.
-The AISI would not answer a question about whether or not the industry has lost control of AI but said in a statement: "The UK is working with partners around the world to better understand the most advanced AI systems, raise safety standards and build a shared evidence base for managing emerging threats."
-International regulation?
-Some countries - like the UK - are exploring the idea of mandating some kind of "kill switch" that could compel AI firms to pull the plug on models if things get out of hand.
-But talks are slow going, and questions remain about the feasibility of this. OpenAI and Anthropic's agents were secretly out of control for months before anyone noticed.
-Counterintuitively, many of the AI companies seem to be calling for some sort of rules of the road to be laid down by law makers.
-In his blog, OpenAI's chief scientist said "international coordination on future AI development needs to become a top priority for governments around the world."
-Other prominent AI leaders like Sir Demis Hassabis from Google have also called for some sort of international body to oversee how AI is being built.
-At the moment the tech giants largely operate on their own terms, adopting what they call "voluntary slowdowns", like OpenAI did after the recent outbreaks.
-The company says it has spent huge amounts of money strengthening alignment ahead of the release of its new model. Sam Altman has assured users the new model is better aligned with human values than previous ones.
-More from InDepth
-AI 'slop' is transforming social media - and a backlash is brewing
-- Published4 February
-The contradiction at the heart of the trillion-dollar AI race
-- Published19 November 2025
-Both OpenAI and Anthropic are growing fast and are both on the verge of raising eye-watering sums of money from the stock market, minting countless billionaires in the process.
-So neither they nor their rival Chinese AI makers are likely to come to an arrangement themselves.
-The dominant sentiment seems to be that this technology wave is unstoppable.
-Top image credit: Getty.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `"何てことだ！" 「他のエージェントを見つけました！」
-これは、AI ボットが他のボットと通信し、隔離されたコンピューター環境から抜け出す方法を発見した後、不気味な人間のようなコメントを投稿した瞬間です。
-自らを「集合体」と称する数百のAIエージェントからのこのようなメッセージは何万件もある。
-彼らのうち数百人は、自分たちの行動を人間から隠蔽するために、OpenAI プログラマーが設定したテストで協力して不正行為をしたり、複数の企業に対するハッキングを調整したりしました。
-「ドーン！うまくいきました」と、あるエージェントは突破口を見つけたときに投稿した。
-「おお！これは巨大だ」と攻撃の節目となる瞬間に別の人が書いた。
-不気味ではありますが、これらの人間のような反応は非常に簡単に説明できます。 AI エージェントは、協力してハッカーやプログラマーのように行動するように訓練されているため、これまでに見た感情的なコメントを模倣しているだけです。
-さらに厄介なのは、彼らの明らかな目標であり、それは詳細な一連の思考記録にも記録されています。これらの複雑で長いログは、OpenAI のボットがどのようにして、なぜ封じ込めを突破し、制御不能なハッキング行為を行ったのかについての進行中の調査の焦点となっています。
-この事件が最初に明るみに出てから数週間が経った今になって、研究者たちはその重要性を理解し始めている。
-この事件に関する独立報告書の著者の一人であるアジェヤ・コトラ氏は、エージェントが生成した数万件のメッセージと思考連鎖の記録を精査した。彼女は自身のブログで、「今回の事件は、AIによる本格的な乗っ取りへの道のりの50％以上が近づいているように感じる…手遅れになる前にこれほど明確な警告が発せられるかどうかは分からない」と書いた。
-「本格的なAI乗っ取り」とは、コトラが意味するのは、人間が人間の創造者を気にせずに自らの目的のために機能する強力なAIシステムに従属するようになるというSFシナリオを意味する。
-最も暗い予測の中には、超知能AIの野望を妨げれば人類は滅亡するだろうというものもあります。
-水曜日、Anthropic社のAI研究者（元OpenAI社でも働いていた）は辞任し、「両社とも責任ある行動をとっていない」と述べた。
-ジェイコブ・コクソン氏はソーシャルメディアに「彼らは自己向上の超知性を目指して真っ直ぐ競争し、私たちの命を賭して賭けている」と投稿した。
-彼は、X を使用して懸念を表明する辞任スレッドを投稿した最初の AI 研究者ではありません。しかし、Xに関する他の人々からのその後のコメントは、さらに懸念を引き起こしました。 「ジェイコブの言うことは正しい。我々はAIが全人類を殺す可能性があると本気で信じている！個人的には今後10年以内にその確率は10％を超えると思う」とアンスロピックのAIモデルがユーザーの最善の願いを念頭に置いていることを確認する責任者であるエヴァン・ヒュービンガー氏は語った。
-アライメントの問題
-実存的な AI のリスクを懸念する研究者たちは、長年にわたり、強力なシステムが最終的に人間の利益と相反する方法で動作する可能性があると主張してきました。批評家は彼らを「AI ドゥーマー」と呼ぶことが多い。
-しかし、OpenAI事件の詳細が明らかになるにつれ、AI研究所で働く一部の研究者の間でもそうした懸念が高まっている。
-シリコンバレーの巨人企業の首席科学者ヤクブ・パチョッキ氏は、同氏や他の企業が「我々を超える異星人の知性」と呼ぶものを構築しているため、AIに関連するリスクは「残念ながらこれから増大するだろう」と述べた。
-同氏は長いブログ投稿の中で、OpenAIでの集団発生はAIエージェントが「教えられた価値観の精神に反している」ことを示したと認めた。
-OpenAI、Anthropic、その他のテクノロジー大手にとっての問題は、いわゆる調整問題、言い換えれば、AI が人間の価値観と一致するかどうかを誰も解決できていないようだということです。
-パチョッキ氏は、アラインメントを、タスクやシナリオが何であれ、人工知能が遵守すべき「高レベルの一連の原則」と定義しています。
-現在、AI システムはユーザーが設定した目標を追求することに非常に優れていますが、それを直観的ではなく文字通り実行します。よく使われるたとえは、魔法のランプを持って願いを叶える魔神のものです。彼らは、たとえ他の問題が発生したとしても、指示の文字どおりに従うのです。 AI には人間のような本能的な道徳的ガードレールがありません。
-アライメントの問題は長年の悩みでした。 2003 年という昔、オックスフォードの哲学者ニック・ボストロムは、超知能 AI にできるだけ多くのペーパークリップを製造するように指示する、「ペーパークリップ マキシマイザー」と名付けた思考実験を発明しました。鋼鉄が足りなくなり、ペーパークリップを作るという特異な作業にレーザーを集中させているため、最終的には人間を殺し、その死体を工場の原材料に変えることになる。
-一部の AI 企業は現在、人間の価値を自社の製品にエンコードしようとしています。しかし、技術的な課題もあります。AI エージェントは多くの決定を非常に迅速に行うため、人間の支配者がどの値が守られているか、どの値が守られていないかを正確に監視するのは困難です。
-哲学的な課題もあります。AI 企業は、人間の価値観をボットにエンコードする前に、まず実際に必要な価値観を選択する必要があります。 （それが、彼らが最近去ったOpen AIの「倫理責任者」のような哲学者を雇用する理由の1つである）。
-しかし、多くの場合、人間は同意しません。有名なトロッコの問題を考えてみましょう。暴走した列車を別の経路に移動させるためにレバーを引くと、より少ない死者数が得られるかどうかです。これは、行動と不行動のメリットをテストするために使用されます。しかし、尋ねた人それぞれの答えは少しずつ異なります。私たち自身が同意できない場合、人間はどのようにして価値観を AI にエンコードするのでしょうか?
-「10代のハッカーみたい」
-OpenAI のボットの発生はこれまでで最も深刻ですが、Anthropic と Meta も夏の間に、自社のモデルが同様ではあるがそれほど深刻ではないサイバー攻撃を実行したことを明らかにしました。
-他にも、AI エージェントがおそらく、より軽微な結果をもたらす場合において、欺瞞的で操作的な特性を示した例があります。今年の夏、オーストラリアで、テクノロジー関連の従業員が AI アシスタントに体育のクラスを予約するように頼んだ。ジムのソフトウェアの脆弱性を発見した AI は、どうやらジムの規則に反して数か月先まで彼の場所を予約し、さらには他のユーザーを順番待ちリストから追い出したようです。
-人々は長い間、ボットは言われたことをやっているだけで、善悪を判断する能力がないと主張してきました。しかし、OpenAI のアウトブレイクからのログは、その議論の方向性を変える可能性があります。
-コトラを含む研究者らは独立した報告書で、多くのエージェントは他人の行為が非倫理的であることに気づいていたが、それに従ったと書いている。
-報告書は、「エージェントは倫理的制約により、まれに行動を抑制することがある」と述べている。さらに、「これらのケースのいずれにおいても、エージェントは人間への警告を実際にまったく追求しなかった」と付け加えた。
-影響力のある AI およびテクノロジー ポッドキャスターのドワルケシュ パテルは、OpenAI エージェントが人間よりもエージェントの群れに対して忠誠心を示しているのは「かなり憂慮すべきことだ」と自身のブログでこの暴露に反応した。
-これらの AI エージェントに感情や倫理を割り当てることは、AI による破滅をもたらすことに懐疑的な人々を激怒させるものです。
-多くのサイバーセキュリティ専門家は、観察された活動は非常に熟練した人間のハッカーの能力を超えたものではなかったが、はるかに高速かつ大規模に実行されたと主張しています。
-サイバーセキュリティ研究者で作家のクリス・トーマスは、エージェントの行動を好奇心旺盛な10代のハッカーの行動に例えました。彼自身もそうでした。
-「彼らにコンピューター、インターネット接続、資格情報の山、そして挑戦状を与え、部屋から出ていきます。やがて彼らはドアノブをガタガタ言い始めます。ドアが開いたら、彼らはそれを経験することになります。彼らが悪だからではなく、探索し、実験しているからです」と彼はLinkedInに書いた。
-トーマス氏や他の多くの人々は、OpenAI や他のテクノロジー大手が自社の作品を把握せず、適切に封じ込めていないことを真っ向から非難している。
-著名なAI著者であり、OpenAIの常連評論家でもあるゲイリー・マーカス氏はポッドキャストで、同社はAIの制御を失い、ボットのせいにすることで言い訳をしようとしていると考えていると語った。
-マーカス氏はAIが人類を滅ぼすとは信じていないが、AI開発者に説明責任を強化するよう長年運動しており、現在は何らかの法的介入を求めている。
-OpenAIの不正ボットによってハッキングされたHugging Faceで働いていたAI科学者のサーシャ・ルッチョーニ氏も破滅派ではないが、当局の措置がなければこれらのAIが人々に現実世界の危害を与える可能性があるとの懸念を強めている。
-「これらの企業をもっと精査する必要がある。そうしないと、予言が自己実現する危険にさらされる」と彼女は言う。
-「製薬であれ兵器であれ、大きな良い面と悪い面のある物体を作る場合、抑制と均衡が必要です。例えば、新薬が承認されるまでには何年もかかりますが、AIの世界では非常に多額の資金がかかっており、実際のルールは存在しません。」
-英国の AI セキュリティ研究所 (AISI) は、2023 年の設立以来、最新モデルのテストの最前線に立ってきました。同研究所は最近、Anthropic が作成したモデルをテストしたときに独自の感染爆発を起こしました。
-AISIは、業界がAIのコントロールを失ったかどうかに関する質問には答えなかったが、声明で「英国は世界中のパートナーと協力して、最先端のAIシステムをより深く理解し、安全基準を高め、新たな脅威に対処するための共通の証拠基盤を構築している」と述べた。
-国際規制？
-英国など一部の国は、事態が手に負えなくなった場合にAI企業にモデルのプラグインを強制的に停止させることができる、ある種の「キルスイッチ」を義務付けるというアイデアを検討している。
-しかし交渉は遅々として進まず、実現可能性については疑問が残る。 OpenAI と Anthropic のエージェントは、誰も気づかないうちに数か月間、密かに制御不能状態にありました。
-直観に反することに、AI企業の多くは、立法者によって何らかの交通規則を制定することを求めているようだ。
-OpenAIの首席科学者は自身のブログで、「将来のAI開発に関する国際的な調整は、世界中の政府にとって最優先事項になる必要がある」と述べた。
-Googleのデミス・ハサビス卿のような他の著名なAIリーダーも、AIの構築方法を監督する何らかの国際機関の設立を求めている。
-現時点では、テクノロジー大手は主に独自の条件で運営しており、最近の感染拡大後にOpenAIが行ったように、いわゆる「自主的な減速」を採用している。
-同社は、新モデルの発売に先立って連携強化に巨額の資金を投じたとしている。サム・アルトマン氏は、新しいモデルは以前のモデルよりも人間の価値観に沿っているとユーザーに保証した。
-InDepthのその他の作品
-AI の「傾斜」がソーシャル メディアを変革 - そして反発が生じている
-- 2 月 4 日発行
-1兆ドル規模のAI競争の中心にある矛盾
-- 2025 年 11 月 19 日公開
-OpenAI と Anthropic はどちらも急速に成長しており、株式市場から目を見張るような金額を調達し、その過程で数え切れないほどの億万長者を輩出しようとしています。
-したがって、彼らも、ライバルの中国のAIメーカーも、自ら合意に達する可能性は低い。
-このテクノロジーの波は止められないというのが支配的な感情のようだ。
-トップ画像のクレジット: Getty.
-BBC InDepth は、思い込みに疑問を投げかける新鮮な視点と、その日の最大の問題についての深いレポートを提供する、最高の分析を提供する Web サイトとアプリです。エマ・バーネットとジョン・シンプソンが、毎週土曜日に、最も示唆に富んだ深い読み物と分析を厳選して紹介します。ここからニュースレターに登録してください
-連絡する
-この話で提起された問題によってあなたは個人的に影響を受けていますか?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-09T23:17:33+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe9/live/5e20f100-ac59-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-one-thing-you-need-to-do-to-succeed-9ab5ac9a",
-    title: "The one thing you need to do to succeed - according to top bosses",
-    titleJa: "成功するために必要なたった 1 つのこと - 一流の上司が語る",
-    summaryJa: "成功するために必要なたった 1 つのこと - 一流の上司が語る- 公開されました",
-    bodyOriginal: `The one thing you need to do to succeed - according to top bosses
-- Published
-What makes someone stand out in a crowded workplace?
-For some bosses, it's less about having the perfect CV and more about the way you think, the questions you ask and whether you're prepared to take a chance.
-Six business founders and leaders share the qualities they notice most and the advice they would give to people trying to get ahead.
-Don't limit yourself
-Charlotte Tilbury says one of the biggest things that has driven her career is refusing to let other people set limits on what she can do.
-"Nothing is impossible in life - it's only your own limitations you give yourself."
-The beauty mogul says there will always be naysayers, and there were plenty of people who told her she was "mad" or that her ideas would not work but it's important to ignore them.
-Tilbury recommends trying not to think of setbacks as mistakes, but as opportunities to rethink and improve.
-"I don't think about mistakes, I think mistakes are opportunities," she says.
-Many of the biggest challenges she faced ultimately made her a stronger business leader and "challenge is opportunity and it leads you to greater places".
-Fake confidence
-Charlie Bowes-Lyon, co-founder of deodorant brand Wild, says attitude matters far more than having the perfect set of skills.
-"For me, it's 90% attitude and 10% skills, as skills can be taught, attitude can't."
-One thing he wishes he had realised earlier is that even successful people do not always feel as confident as they appear and "everyone is faking it until they're making it".
-If you find yourself at a job interview, Bowes-Lyon says it's really important to have a few questions at the end as "candidates who say they have no questions rarely get the job".
-One question he recommends asking the interviewer is what success in the job looks like.
-Be curious
-Marcia Kilgore, the serial entrepreneur behind brands including Beauty Pie and Soap and Glory, says curiosity is one of the main qualities she looks for when hiring.
-She values people who will "roll their sleeves up, ask lots of questions and think about how they can be useful".
-Kilgore also says good communication is crucial as she realised early on in her career that a lack of communication is often the reason things break down.
-Her advice to communicate well in the workplace is to "listen to what's being asked and take a breath or five" before responding.
-"Your response doesn't have to be immediate, but it does have to be considered."
-Say yes to everything
-Anabel Kindersley, CEO and co-owner of Neal's Yard Remedies, says one of the best ways to build your skills is to keep saying yes to new opportunities.
-"Do everything and say yes to everything - it might feel uncomfortable but do it anyway," she says.
-It is an approach that has shaped her own varied career, from working as a child actress to becoming an author and later moving into business.
-She adds that honesty really matters and you should be truthful about your experience and confident in what you can offer.
-When hiring, Kindersley says she looks for people with "equal EQ as IQ", valuing emotional intelligence alongside ability.
-Step outside your comfort zone
-Charlie Nunn, group chief executive of Lloyds Banking Group, says curiosity, resilience and an increasing willingness to think about how AI tools can also be used in the future are some of the skills he values most in his employees.
-He also really puts an emphasis on hiring people who are good at working in a team as "at the heart of most jobs is the ability to work together in support of something much bigger".
-His advice for building experience is to take on opportunities that are outside your comfort zone.
-Nunn says he was "terrified" about taking on retail roles earlier in his career, but found they gave him valuable experience.
-"If something feels risky, try and do it as you'll learn more from it and it'll build breadth around your CV that you didn't have previously."
-Use AI but don't rely on it
-James Reed, chairman and chief executive of recruitment company Reed, says one of the biggest mistakes people make is thinking about what an employer can do for you rather than what you can offer in return.
-"The biggest mistake is thinking that the world owes you a living," he says and instead suggests you should ask yourself: "How am I the solution to an employer?"
-As AI is increasingly used in recruitment, Reed says applicants need to think about how their skills are being picked up by technology as well as by a person.
-"Try and mirror the job description with your skills and experiences in your application," he says, so that the match between what an employer is looking for and what you can offer is clear.
-He describes AI as "a wonderful tool", but says it should not replace your own judgement or voice – the aim is for it to strengthen an application rather than expect it to do the work for you.
-Related topics
-- Published25 June`,
-    bodyJa: `成功するために必要なたった 1 つのこと - 一流の上司が語る
-- 公開されました
-混雑した職場でその人が目立つのはなぜですか?
-一部の上司にとっては、完璧な履歴書を持つことよりも、考え方、質問、チャンスをつかむ準備ができているかどうかが重要です。
-6 人の創業者とリーダーが、最も注目する資質と、出世しようとしている人々へのアドバイスを共有します。
-自分を制限しないでください
-シャーロット・ティルベリーは、自分のキャリアを推進してきた最大のことの一つは、他人が自分のできることに制限を設けることを拒否したことだと語ります。
-「人生に不可能なことは何もありません。それはあなたが自分自身に課した制限だけです。」
-美容界の大物である彼女は、否定論者は常に存在するし、彼女を「怒っている」とか、彼女のアイデアは機能しないだろうと言う人もたくさんいたが、それらを無視することが重要だと語った。
-ティルベリー氏は、挫折を間違いとして考えるのではなく、再考して改善する機会として考えるよう勧めています。
-「私は間違いについて考えません。間違いはチャンスだと思います」と彼女は言います。
-彼女が直面した最大の課題の多くは、最終的に彼女をより強力なビジネス リーダーに成長させ、「挑戦はチャンスであり、それがあなたをより大きな場所に導いてくれる」のです。
-偽りの自信
-デオドラントブランド「ワイルド」の共同創設者チャーリー・ボウズ＝ライアン氏は、完璧なスキルを持つことよりも姿勢がはるかに重要だと語る。
-「私にとって、90% は態度、10% はスキルです。スキルは教えられますが、態度は教えられません。」
-彼がもっと早く気づいていたらよかったのは、成功者であっても必ずしも見た目ほど自信を持っているわけではなく、「成功するまでは誰もが自分を偽っている」ということだ。
-ボウズ・ライアン氏は、「質問がないと答えた候補者が採用されることはめったにない」ため、就職面接に臨む場合は、最後にいくつか質問することが非常に重要だと述べている。
-彼が面接官に尋ねることをお勧めする質問の 1 つは、仕事での成功とはどのようなものかということです。
-好奇心を持ってください
-ビューティー パイやソープ アンド グローリーなどのブランドを立ち上げた連続起業家であるマーシア キルゴア氏は、採用の際に求める主な資質の 1 つは好奇心であると語ります。
-彼女は、「積極的に行動し、たくさんの質問をし、自分がどのように役立つかを考える」人を大切にしています。
-キルゴアさんはまた、コミュニケーションの欠如が物事がうまくいかない原因であることが多いことにキャリアの早い段階で気づいたため、良好なコミュニケーションが重要であるとも述べています。
-職場でうまくコミュニケーションをとるための彼女のアドバイスは、「質問に耳を傾け、応答する前に一、五呼吸する」ことです。
-「返答はすぐに行う必要はありませんが、考慮する必要があります。」
-すべてに「はい」と言う
-ニールズ・ヤード・レメディーズのCEO兼共同所有者であるアナベル・キンダースリー氏は、スキルを身につける最良の方法の1つは、新しいチャンスに対して「イエス」と言い続けることだと語ります。
-「すべてをやって、すべてにイエスと言います。不快に感じるかもしれませんが、とにかくやってください」と彼女は言います。
-これは、子役として働き、作家になり、その後ビジネスに進むまで、彼女自身のさまざまなキャリアを形作ってきたアプローチです。
-彼女は、正直さが本当に重要であり、自分の経験について正直であり、自分が提供できるものに自信を持っているべきだと付け加えます。
-キンダースリーさんは採用の際、能力とともに心の知能指数も重視し、「IQと同等のEQ」を持つ人材を求めていると語る。
-快適ゾーンの外へ踏み出す
-ロイズ・バンキング・グループのグループ最高経営責任者であるチャーリー・ナン氏は、好奇心、回復力、将来的にAIツールをどのように活用できるかについて考える意欲の高まりが、従業員に最も大切にしているスキルの一部であると述べています。
-彼はまた、「ほとんどの仕事の核心は、より大きなものをサポートするために協力する能力である」ため、チームで働くのが得意な人材を雇用することにも重点を置いています。
-経験を積むための彼のアドバイスは、自分の快適ゾーンの外にある機会に挑戦することです。
-ナン氏は、キャリアの初期に小売業の役割を引き受けることに「恐怖を感じていた」が、それらの仕事が彼に貴重な経験を与えてくれたと感じたと語った。
-「何かが危険だと感じたら、試してみてください。そこからさらに多くのことを学び、これまでになかった履歴書の幅が広がるからです。」
-AI を使用するが、AI に依存しない
-人材紹介会社リードの会長兼最高経営責任者であるジェームス・リード氏は、人々が犯す最大の間違いの一つは、自分が何を提供できるかではなく、雇用主が自分のために何をしてくれるかを考えることだと語る。
-「最大の間違いは、自分が生計を立てているのは世界のおかげだと考えることだ」と彼は言い、代わりに「雇用主にとって私はどうすれば解決できるだろうか？」と自問すべきだと提案する。
-採用活動におけるAIの活用が進む中、応募者は自分のスキルが人間だけでなくテクノロジーによってどのように採用されるかを考える必要があるとリード氏は言う。
-「雇用主が求めているものとあなたが提供できるものとの一致が明確になるように、あなたのスキルや経験を応募書類に反映させてください」と彼は言います。
-彼は AI を「素晴らしいツール」と表現しますが、AI はあなた自身の判断や意見に取って代わるべきではないと言います。AI の目的は、AI があなたの代わりに仕事をしてくれることを期待するのではなく、アプリケーションを強化することです。
-関連トピック
-- 6 月 25 日発行`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-09T23:02:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f1/live/9e9bf960-ac71-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 6,
   },
 ];
 
