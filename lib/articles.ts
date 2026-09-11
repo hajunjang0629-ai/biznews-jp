@@ -15,6 +15,249 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "how-rising-bond-yields-can-wreck-some-po-a93e6b3f",
+    title: "How rising bond yields can wreck some portfolios while pumping up others with cash",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Also in Weekend Reads: Helping retirees get over their fear of spending, prenups, Walmart’s big move, and advice from the Moneyist.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/how-rising-bond-yields-can-wreck-some-portfolios-while-pumping-up-others-with-cash-c415faf3?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T16:17:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-33880082",
+    readTime: 2,
+  },
+  {
+    id: "social-security-cola-for-2027-may-be-3-5-af73a736",
+    title: "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The Social Security cost-of-living adjustment for 2027 may be around 3.5% to 3.6%, according to new estimates based on government inflation data — which would push the annual adjustment to the highest in three years.
+In 2026, around 75 million Social Security and Supplemental Security Income beneficiaries saw a 2.8% boost to their benefits, according to the Social Security Administration.
+The Social Security COLA for 2027 may be 3.5%, factoring in the latest consumer price index data released on Friday, according to Mary Johnson, an independent Social Security and Medicare policy analyst. In August, Johnson had estimated the COLA may be 3.4%.
+Johnson said how the projected COLA might change will depend on volatile oil prices. Oil prices have had a significant impact on inflation since the war began.
+The Senior Citizens League now projects a 3.5% Social Security COLA, down from the 3.6% increase it had projected last month. That latest estimate would increase average monthly benefit checks by $67.90, according to the nonpartisan senior group.
+Meanwhile, the AARP now forecasts a 3.6% Social Security COLA for 2027, which would increase the average retired worker's benefit by $75 per month, the nonprofit representing Americans age 50 and over said on Friday. That is up from the 3.5% COLA the AARP had estimated in August.
+In the past decade, the Social Security COLA has ranged from 0% in 2016 to 8.7% in 2023, the highest increase in four decades, due to rising inflation. The COLA has averaged about 3.1% over the past 10 years, the Social Security Administration said in October.
+When to expect Social Security 2027 COLA news
+The official Social Security COLA for 2027 will include one more month of government inflation data. The Social Security Administration typically announces the following year's change in October.
+The Social Security COLA is determined by the percentage increase in third-quarter inflation data from the prior year to the current year.
+The calculation is based on a subset of the consumer price index, known as the Consumer Price Index for Urban Wage Earners and Clerical Workers, or CPI-W. The CPI-W increased 3.5% over the past 12 months, according to data released by the Bureau of Labor Statistics on Friday.
+The broader consumer price index was up 3.4% over the past 12 months as the cost of goods and services climbed in August.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
+    publishedAt: "2026-09-11T16:05:56+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "here-s-the-inflation-breakdown-for-augus-c7cefe83",
+    title: "Here’s the inflation breakdown for August 2026 — in one chart",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Inflation remained stubbornly high in August — and economists said consumers are likely to continue to feel the financial pain in coming months as tensions flare in the Middle East, driving up gasoline and other energy costs.
+The consumer price index, a measure of inflation, rose 3.4% on an annual basis in August, unchanged from July, according to data issued Friday by the Bureau of Labor Statistics.
+"You've got a lot of shocks that are pushing up inflation and making it uncomfortably high," said Mark Zandi, chief economist at Moody's.
+The Iran war, tariffs and artificial intelligence are among the factors putting upward pressure on consumer prices, economists said.
+"The shocks, we keep hoping they fade away into the background," Zandi said. "But they're not going away. They're still plaguing us with these big increases."
+The CPI report comes as yields on U.S. Treasury bonds have jumped to their highest levels in years, raising borrowing costs for consumers seeking certain types of debt like mortgages and auto loans.
+Some economists said Friday's relatively hot inflation reading makes it likely the Federal Reserve will raise interest rates at its policy meeting next week, to cool the economy and help bring the U.S. inflation rate down to its 2% annual target. Inflation has been above that target for more than five years.
+The trajectory of interest rates is still somewhat uncertain, though, economists said.
+"There's a lot riding on this CPI report as far as the Fed is concerned," said Thomas Ryan, a North America economist at Capital Economics.
+Inflation risks seem "definitely skewed" to the upside, Ryan said.
+"We're not really convinced we're heading back to 2%, at least over the next six months or anytime soon," Ryan said.
+Iran war and the impact on gasoline, diesel, fuel prices
+The Iran war has a lot to do with the current high inflation, economists said.
+The war has severely restricted the flow of oil through a key Middle East corridor for energy trade, reducing global energy supplies and raising prices, economists said.
+"The conflict is a major energy shock to the global economy," said Joe Seydl, a senior markets economist at J.P. Morgan Private Bank.
+"If the conflict never happened this year, I don't even really think we'd be talking about inflation with much interest," he said.
+Global oil prices jumped back over $100 per barrel this week for the first time since mid-May as hostilities flared in the Middle East.
+Initially, oil flows were restricted through the Strait of Hormuz, a key choke point for maritime energy trade. The fighting has broadened out and threatens supply through other key trade routes like the Bab el-Mandeb Strait.
+The war, at the margin, "continues to get worse and not better," Seydl said.
+The oil supply shock has raised prices for gasoline, diesel, jet fuel and other fuels refined from crude oil.
+Gasoline prices were up nearly 4% in the month of August and more than 27% from August 2025, according to Friday's CPI report. Prices averaged about $4.30 per gallon at the pump on Friday, up from $3.19 a year ago, according to AAA.
+Gasoline accounted for more than a third of the monthly increase in the consumer price index in August, according to the BLS.
+However, economists said they're more worried about price increases for other fuels like diesel. That's because the global economy relies on these fuels for essential functions like transporting food and other goods to stores.
+Diesel prices hit $6 per gallon on Friday, a record high.
+This dynamic will put upward pressure on inflation in the medium term "because it impacts the cost of hauling and trucking and farming equipment, which eventually flows through supply chains and finds itself in higher prices on the shelves for food, broader goods," said Ryan of Capital Economics.
+Meanwhile, a runup in jet-fuel prices has lifted airline prices for consumers, economists said.
+Airfare was up nearly 3% in the month of August, and up more than 23% since August 2025, according to CPI data.
+Large volumes of fertilizer also transit the Strait of Hormuz, threatening to push up global food prices, economists said.
+Economists said that it's unclear to what extent the energy shock might flow through to other parts of the economy. It largely depends on the length of the war, which passed the six-month mark at the end of August.
+Impact of AI and tariffs
+Energy isn't the only factor putting upward pressure on inflation, economists said.
+The AI buildout is also a contributor, they said.
+That's because it has driven up demand for — and scarcity of — the computer chips used in AI data centers. Manufacturers use those chips in all types of consumer electronics, from laptops to gaming consoles to those used in newer cars, economists said.
+For example, in June, Apple announced higher prices for MacBooks and iPads, citing surging memory and storage costs. Microsoft said shortly afterward that it's increasing the price of Xbox game consoles for a similar reason.
+"This is starting to feed through to higher prices for households, too, not just data centers," Ryan said.
+Tariffs levied by the Trump administration also "feel like they're still bleeding through" into higher prices for consumer goods, Zandi said.
+However, tariffs don't seem to be the primary driver of inflation anymore, said Seydl.
+The Supreme Court struck down a central piece of Trump's tariff policy in February. While that gave U.S. businesses and consumers a reprieve from the import taxes, the administration is trying to achieve a similar result by using different legal pathways to levy tariffs, economists said.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
+    publishedAt: "2026-09-11T15:54:47+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "analysis-hot-inflation-data-sets-up-a-fe-1d2405e4",
+    title: "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Hotter-than-expected inflation data has turned next week's Federal Reserve meeting into a defining test for Chairman Kevin Warsh. His choice now is whether to raise interest rates, or look like he isn't in control of the central bank he leads.
+Friday's consumer price index data makes the trade-off acute for Warsh. Core consumer prices, which strip out the effects of food and energy prices, rose 0.3% in August, more than expected. Headline inflation climbed 0.4% for the month, putting it 3.4% above the level a year ago.
+Warsh hasn't promised any particular action on rates, but he recently laid out a case that the Fed will need to raise interest rates if inflation doesn't moderate. He arguably preserved the wiggle room to keep rates flat if he and the rest of the Fed choose not to act at their Sept. 15-16 meeting. But with his leadership of the Fed under intense scrutiny from inside and outside the organization, not acting after his repeated inflation warnings will make it harder for him to convince the market he is serious next time.
+Economists will find ways to slice the new CPI data. Warsh's challenge is that his economic philosophy specifically frowns on making quick turns on individual data points such as the latest CPI print. That puts him in contrast with Fed officials such as Governor Christopher Waller and New York Fed President John Williams. Both entered the final stretch before the meeting more inclined to wait for remaining data before deciding whether a rate increase was necessary.
+Warsh, by contrast, has repeatedly warned against putting too much confidence in short-term forecasts. He said last month at the Kansas City Fed's annual symposium in Jackson Hole, Wyoming, "accuracy in forecasting is still just an aspiration" for the Fed.
+"Inflation is running above our 2 percent target," Warsh said in an Aug. 28 speech at Jackson Hole. "So the Fed's predominant focus right now should be on prices." Warsh said he was downplaying recent improvements in inflation data in favor of his broader view of underlying inflation, which he said was informed by his reading of the data feeding into the two main price indicators: personal consumption expenditures and the consumer price index.
+"While this summer's PCE and CPI readings were better than expected, they do not tell me that underlying trends have meaningfully improved," Warsh said at Jackson Hole.
+Headline inflation measured by the PCE index is up 3.7% as of the most recent data.
+Waller, meanwhile, has given a reading of the data much more in keeping with the Fed's tradition of data dependence. Inflation may be above 2%, Waller said at a Reuters event on Sept. 3. But "recent data suggests we are finally seeing some signs of disinflation," he continued. "Now, if this continues in the data over the next two weeks, I would be inclined to support holding the target for the federal funds rate at its current setting." He said he would be closely watching Friday's CPI data for clues.
+The new data may sway Waller and others who would rather still wait and see. But if it doesn't, Warsh will face a choice. Does he wait for the Federal Open Market Committee to come around to his view? Or does he muscle Waller and other potential dissenters into accepting his view?
+Waller has also made some more personal criticisms of Warsh, including calling his advice "weird." Maybe that's the payback Warsh has earned for insisting for years that the Fed where Waller and others served had lost its way — but bowing now to that point of view would effectively make Waller the center of the Fed's intellectual gravity instead of Warsh.
+That could have tough implications for Warsh's task forces to assess the Fed's future, which Waller has dismissed behind closed doors, The Wall Street Journal reported.
+If Warsh doesn't use his sway now, investors will start asking whether he really has any. And that will inevitably give way to a more uncomfortable series of questions about the Fed chairman's political loyalties.
+President Donald Trump has pushed Warsh to cut rates, even while he insists he trusts Warsh to follow his conscience.
+Some analysts have decided Warsh has made a tacit political arrangement with Trump not to raise rates ahead of the Nov. 3 midterm election. Warsh has been vocal in proclaiming his independence, and there is no evidence he has considered anything but his own reading of the economy in making rate decisions. But it's still hard for him to escape the shadow of the president who picked him as Fed chair.
+A theory has emerged that, with his hands tied on interest rates, Warsh is content to simply let the market do his work for him. Market interest rates have increased across the yield curve since Warsh became Fed chair, including a sharp rise in the 10-year Treasury yield to 4.95% as of early Friday morning.
+At his July news conference, Warsh made some ambiguous remarks that led some to believe he thought the market could do the work for him of tightening financial conditions. The Fed hasn't done much since he became chairman, Warsh said. "The markets have done quite a bit."
+But it isn't clear what Warsh really meant. Another interpretation is that Warsh was saying the markets can now respond to the economy without having to second-guess what the Fed will do next. On that view, interest rates have risen because the economy has gained strength — a point the New York Fed's Williams has also made.
+Warsh is now in the position to either vindicate his own views or reignite the debate about what is truly motivating him. If Warsh isn't seen as intellectually decisive, then investors, the public and the chairman's own colleagues may well look to someone else as the shadow chair. That could be Trump, Treasury Secretary Scott Bessent or Waller. Markets would would likely raise the yield on long-term debt to account for the uncertainty.
+The Fed's September meeting will be crucial in determining whether Warsh is seen as the chairman he wants to be.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
+    publishedAt: "2026-09-11T15:53:41+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "ryanair-boss-o-leary-defends-high-fare-r-7fdcfde5",
+    title: "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks
+- Published
+Ryanair chief executive Michael O'Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as "high-fare rapists".
+Speaking to journalists, O'Leary said some people were "desperate to get to Ryanair's low fares because they can't afford to fly with the high-fare rapists around Europe".
+O'Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.
+Ireland's deputy premier Simon Harris said it was "clearly an inappropriate use of language" and that O'Leary "should have moved to rectify it".
+Transport Secretary Heidi Alexander told UK radio outlet LBC that victims of rape are "not going to be rushing to book tickets with him, let's be honest".
+O'Leary made the comments on Thursday while talking to journalists ahead of Ryanair's yearly meeting with shareholders.
+Asked by a reporter from the Press Association whether the language was appropriate, he said: "Absolutely."
+"British Airways, Lufthansa, and everybody else's high fares, I'll happily offend them on a regular basis," he added.
+Asked whether it would offend sexual assault victims, he said rape was "a terrible crime".
+Following O'Leary's comments, the DRCC's chief executive Rachel Morrogh wrote to O'Leary accusing him of trying to get a headline with his comments.
+She said the DRCC had received calls from rape victims who were "upset and distressed because of what you said".
+She offered O'Leary training on the impact of sexual violence and urged him to apologise.
+"I can't imagine you would ever use the term so flippantly again if you truly understood [what] it was like to survive rape," she wrote.
+In response, O'Leary said: "I am quite clear that no remarks of mine could possibly trivialise the heinous crime of rape."
+He added that as he had not "trivialised the heinous crime of rape" he would "not be issuing any apology or accepting your offer of training".
+It is not the first time O'Leary has offended people while talking about his business.
+In 2004, he reportedly called the owners of Stansted Airport "a bunch of overcharging rapists", external in a row over airport charges.
+He has also previously called some of his own staff "lazy bastards" and once said to passengers looking for a refund "we don't want to hear your sob stories".
+In June, he said the airline would "reluctantly" stop charging parents to sit next to children after a watchdog investigation was opened, but insisted its previous policy complied with laws.
+Related topics
+- Published21 July`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T15:37:25+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg",
+    readTime: 2,
+  },
+  {
+    id: "record-u-s-cyclosporiasis-outbreak-is-ov-de413b8f",
+    title: "Record U.S. cyclosporiasis outbreak is over, CDC says",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The largest-ever outbreak of cyclosporiasis in the U.S. has ended, the Centers for Disease Control and Prevention said Friday.
+The foodborne illness sickened 12,833 people in 21 states in recent months in the largest cluster, the CDC said. Health officials have linked that outbreak to shredded iceberg lettuce supplied by Taylor Farms in Mexico.
+It fueled the worst cyclosporiasis season in U.S. history, with 19,595 overall cases of the illness caused by the parasite cyclospora. The U.S. recorded two deaths, both in Michigan, the epicenter of the biggest outbreak.
+The foodborne illness spread sparked scrutiny of U.S. food safety procedures and corporate consolidation in the country's food supply, along with staffing and funding at the U.S. Food and Drug Administration.
+The outbreak also led to lower sales at restaurants that offer fresh lettuce — particularly Taco Bell, which served shredded iceberg lettuce from Taylor Farms — and dampened lettuce sales at grocery stores.
+Cyclospora was challenging for health officials to track because of its long incubation period. It can take weeks to trace back the source of the illness, after which implicated produce may have spoiled.
+Taylor Farms recalled the iceberg lettuce, including packages sold in grocers such as Walmart, in July. Taco Bell also pulled the lettuce from its restaurants that month.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
+    publishedAt: "2026-09-11T15:36:45+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "iran-russia-condemn-western-economic-san-becb76b7",
+    title: "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Iranian President Masoud Pezeshkian and Russian President Vladimir Putin on Friday criticized Western sanctions on their economies and urged countries of the Global South to deepen trade relations as they addressed the BRICS Business Forum.
+"BRICS must create an environment in which no country can disrupt the legitimate trade of another country through monopolizing a financial instrument or technology," Pezeshkian said in New Delhi. He urged the bloc, which has sought to amplify the influence of the Global South, to expand the use of national currencies to trade among member countries.
+Pressure on Iran has entered a "dangerous phase," shifting from sanctions to military aggression by the U.S. and Israel, Pezeshkian said, adding that the impact of the war against Tehran was being felt beyond its borders, affecting regional and global stability.
+The conflicts have also disrupted global energy markets and pushed fuel prices sharply higher.
+U.S. diesel prices hit $6 per gallon on Friday for the first time, as fuel supply disruptions triggered by the Ukraine and Iran wars raised transportation costs across the entire economy.
+Since the start of the Iran war, global energy prices have spiked as the conflict has severely disrupted shipping through the Strait of Hormuz, an important waterway for transport of crude and gas from the Middle East.
+On Thursday, U.S. crude oil futures topped $100 per barrel for the first time since May in response to a sharp escalation in fighting between the U.S. and Iran this month.
+"Food and energy security are two fundamental pillars of economic security," the Iranian leader said Friday, adding that his country, with its vast energy reserves, was ready to be a strategic partner.
+Russia, another major energy producer, also faces extensive Western sanctions over its war against Ukraine. Moscow resumed air attacks on major Ukrainian cities after a brief pause for the visit of U.S. peace negotiators over the weekend.
+But despite U.S. President Donald Trump's assurance on Wednesday that a swift resolution to the Ukraine war could pave the way for the countries to fully restore trade and economic ties, Putin lambasted the West for its pressure tactics against Moscow.
+"More than 30,000 sanctions have been slapped on Russia, which is twice as many as the number of sanctions against all the other countries of the world combined," Putin said at the BRICS Business Forum.
+The Russian president said that countries "facing industrial decline and budget deficit" were trying to protect their "competitive edge" by imposing sanctions against Russia and Iran.
+Putin also claimed that over the last five years more than 40% of the world's incremental GDP has been produced by the BRICS countries, while the G7 countries only accounted for 29%.
+BRICS provided a "resilient and viable platform for global growth," Putin said, adding that Moscow is keen to pursue "promising initiatives" in tourism, trade and private sector investment from the Global South.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html",
+    publishedAt: "2026-09-11T15:10:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "us-prices-remain-high-as-fuel-costs-sque-ec369456",
+    title: "US prices remain high as fuel costs squeeze household budgets",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `US prices remain high as fuel costs squeeze household budgets
+- Published
+Prices in the US rose by 3.4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show.
+The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS).
+It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising.
+US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday.
+The spike in fuel prices has been driven by higher global oil prices, caused by supply disruptions as a result of the US-Iran war. The price of benchmark Brent crude oil is hovering above $100 a barrel following recent escalations in the conflict.
+As well as directly driving up costs at the pumps, higher oil prices can also make transporting goods more expensive. Such costs can be passed down to consumers through steeper prices for food and other staples, pushing up the overall cost of living.
+The BLS said gasoline prices rose 3.9% last month alone, accounting for more than a third of inflation overall. Wages are also failing to keep up with the rising cost of living, with separate figures showing real average hourly earnings fell by 0.3% over the past year.
+There are increasing expectations that interest rates will be hiked given the current inflation picture, strong jobs market and President Donald Trump saying he does not think oil prices will come down until the war with Iran ends, which he expects to happen after November's elections.
+Fed chair Kevin Warsh has been tight-lipped on any future decisions, but his comments that the central bank's focus should be on slowing price rises has further fuelled expectations of a rise.
+According to data from CME Group, 85% of traders are now betting on rates being raised by a quarter percentage point next week.
+Interest rates could rise again across the world – here's why
+- Published2 hours ago
+Skyler Weinand, chief investment officer at Regan Capital based in Dallas, said while inflation was in line with expectations, it was "still too hot and the Federal Reserve's hands are tied".
+"A rate hike next week is all but assured. Consumer prices are going in the wrong direction and remain significantly higher than the Fed's 2% target."
+Interest rates have been left on hold for five meetings in a row, at between 3.5% and 3.75%. Higher rates are a tool used by central banks aiming to slow the pace of price rises.
+By pushing up the cost of borrowing for things such as mortgages, loans and credit cards, it is hoped consumers will spend less and the rate of price increases will slow. Increased rates can encourage people to save money by increasing their potential returns.
+Jamie Hagen, president of Hell Bent Xpress, a family-owned trucking company in South Dakota, told the BBC's World Business Report podcast that higher oil prices were hurting his business
+"I've already invested in new equipment. We thought the economy was gonna start humming and now everybody's paused. Like someone turned the faucet off," he said.
+"The calls aren't coming in, the freight is slowing down drastically because there's just no money left for it. People aren't buying things and shippers aren't making things."
+- Published22 hours ago`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T14:22:42+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg",
+    readTime: 2,
+  },
+  {
     id: "25-years-after-9-11-the-u-s-starts-rolli-b2e62480",
     title: "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1120,362 +1363,6 @@ BBC Your Voiceに自分たちの状況について問い合わせたケイティ
     category: "自動車",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg",
     readTime: 6,
-  },
-  {
-    id: "england-s-mayors-to-be-given-power-to-in-6bad5615",
-    title: "England's mayors to be given power to introduce tourist tax",
-    titleJa: "イングランドの市長らに観光税導入の権限を与える",
-    summaryJa: "イングランドの市長らに観光税導入の権限を与える- 公開されました",
-    bodyOriginal: `England's mayors to be given power to introduce tourist tax
-- Published
-Mayors in England are to be given the power to introduce an overnight visitor levy on tourists, under plans being announced by the government later.
-Local leaders would be allowed to bring in an uncapped levy, dubbed a "tourist tax", as a percentage of the cost of hotels, bed and breakfasts and other types of accommodation rather than a flat fee.
-Hospitality leaders have warned "jobs are now at risk" because of the proposals and that families holidaying in England would feel the pinch.
-But ministers are said to believe mayors are unlikely to make it too expensive with budget holidays protected by the fact it is not a flat fee.
-The idea was first raised under former Prime Minister Sir Keir Starmer in November and is similar to schemes running in Scotland and European destinations.
-The government will announce more details after the Housing Secretary Angela Rayner meets mayors virtually at No 10 North on Thursday afternoon.
-Under the proposals, local leaders would decide how the revenue raised should be reinvested.
-A government source said "it will be up to local leaders and local voters" in England "to decide what is right for their area".
-But it means a holiday in England could become more expensive if local leaders decide to implement the tax.
-Another cost for family holidays
-Leading trade body UKHospitality has hit back at the proposals, warning they are "not going to be painless".
-Its chief executive Allen Simpson claimed it would add about £100 to £120 on average to the cost of a family holiday in England, amid fears mayors would make use of the fact there is, in theory, no upper limit for the levy.
-"We know, don't we, that local government is struggling for funds - it was hit very hard by austerity," he told BBC Radio 4's Today programme.
-"If you only devolve one tax raising power, of course local mayors are going to pull that lever until it snaps."
-He added: "It will be the case that you'll have holiday parks which can't open in the shoulder seasons [between peak and low season] and of course people who go on holiday will just have that little bit less money in their pocket."
-Conservative shadow housing secretary David Simmonds said: "VAT is already charged at 20% on hotels - much higher than in other countries - and now they'll pay VAT on this tourism tax too: a Labour double whammy."
-Reform UK leader Nigel Farage said his party's two mayors in Greater Lincolnshire and Hull and East Yorkshire "won't touch" the levy, which he branded a "holiday tax".
-The Overnight Visitor Levy, which was outlined in the King's Speech in May, has not been brought forward in Parliament yet.
-Prime Minister Andy Burnham is framing the policy as part of his wider devolution agenda.
-Under the plans, mayors and leaders of Foundation Strategic Authorities - which cover some regions without a mayor - would need to clarify by March 2028 how they would spend the new revenue.
-Two cities in England already run their own voluntary schemes - a £1 per room, per night City Visitor Charge in Manchester, introduced when Burnham was mayor of the region, and a £2 nightly charge in Liverpool. These are business-led schemes where hotels choose to pool the money raised to support local tourism.
-Regional mayors do not currently have the power to bring such fees in themselves. They argue it is needed to boost economic growth.
-South Yorkshire mayor Oliver Coppard told BBC Radio Sheffield that Labour mayors would consult industry leaders before bringing in the levy. He said it could be spent on ares including street cleaning and night buses.
-Mayor of London Sir Sadiq Khan, who will be at the No 10 North meeting, told the Standard on Thursday morning it "needs to happen sooner rather than later". It is understood he supports a maximum 5% levy.
-But Paul Swaddle, leader of Westminster City Council, responded by warning "there will be precisely zero benefit to Westminster residents and businesses" if Sir Sadiq does not share some of the cash raised with councils.
-John Chappell, who runs five caravan parks in Skegness, Lincolnshire, told BBC Your Voice that many English tourist resorts have visitors on tight budgets already struggling with the cost of car travel.
-He said an extra cost would "kill the industry off".
-"Tourists are the saviours of our resorts, not the demons and ill thought-out ideas like these show how out of touch with reality politicians are," he added.
-The taxes are common in Europe and the rest of the world, with New York, Amsterdam and Rome applying overnight charges to accommodation stays to fund local services. However, they are capped in several European cities.
-In Scotland local authorities can charge a visitor levy on overnight accommodation. In Edinburgh, the rate is 5% for those staying overnight in hotels, bed and breakfasts and self-catering facilities - capped at five nights.
-In Wales, a capped levy of £1.30 per person per night is set to be introduced in April next year, but it will be up to local authorities to decide whether to roll it out.
-Get in touch
-Do you have any comments or questions about this story?
-- Published1 September
-- Published23 July
-- Published14 January`,
-    bodyJa: `イングランドの市長らに観光税導入の権限を与える
-- 公開されました
-イングランドの市長には、後に政府が発表する計画に基づき、観光客に宿泊税を導入する権限が与えられることになる。
-地元指導者らは、ホテル、ベッド＆ブレックファスト、その他のタイプの宿泊施設の料金の一律料金ではなく、一定割合として「観光税」と呼ばれる上限のない徴収金を徴収することが認められる。
-ホスピタリティ業界のリーダーらは、この提案のせいで「雇用が危険にさらされている」とし、英国で休暇を過ごす家族はピンチを感じるだろうと警告した。
-しかし大臣らは、定額料金ではないという事実によって予算休暇が守られているため、市長らが費用を高額にしすぎる可能性は低いと考えていると言われている。
-このアイデアは11月にキア・スターマー元首相の下で初めて提起されたもので、スコットランドやヨーロッパの目的地で実施されている計画と似ている。
-政府は、木曜午後にアンジェラ・ライナー住宅長官がノース10番地で市長らとバーチャル会議を行った後、さらなる詳細を発表する予定だ。
-この提案では、地元の指導者が調達した収入をどのように再投資するかを決定することになる。
-政府関係者は、イングランドでは「自分たちの地域にとって何が正しいのかを決めるのは、地元の指導者と地元の有権者次第だ」と語った。
-しかし、これは、地元の指導者が税金の導入を決定した場合、イギリスでの休暇の費用がより高くなる可能性があることを意味します。
-家族旅行の別の費用
-大手業界団体UKホスピタリティはこの提案に反発し、「痛みがなくなるわけではない」と警告した。
-同団体の最高経営責任者アレン・シンプソン氏は、理論上、賦課金には上限がないという事実を市長らが利用するのではないかとの懸念から、イギリスでの家族旅行の費用は平均約100ポンドから120ポンド上乗せされると主張した。
-同氏はBBCラジオ4のトゥデイ番組で、「地方政府が資金繰りに苦戦していることは知っているだろう。緊縮財政で非常に大きな打撃を受けた」と語った。
-「増税権限を1つだけ委譲した場合、当然、地方首長はそのレバーが切れるまで引き続けることになるだろう。」
-同氏はさらに、「（繁忙期と閑散期の間の）肩の季節にはオープンできないホリデーパークも出てくるだろうし、もちろん、休暇に行く人たちのポケットにあるお金は少し減るだけだ」と付け加えた。
-保守党の影の住宅長官デービッド・シモンズ氏は、「ホテルには既に付加価値税が20％課されており、他国よりもはるかに高いが、今度はこの観光税にも付加価値税を支払うことになる。労働党の二重苦だ」と語った。
-改革英国党首ナイジェル・ファラージ氏は、同党のグレーター・リンカンシャーとハル、イースト・ヨークシャーの２市長が、同党が「ホリデー税」と名付けたこの賦課金には「触れない」と述べた。
-5月の国王のスピーチで概要が説明された宿泊旅行者税はまだ議会に提出されていない。
-アンディ・バーナム首相は、広範な地方分権政策の一環としてこの政策を組み立てている。
-この計画では、市長と市長のいない一部地域を管轄する財団戦略当局の指導者は、2028年3月までに新たな歳入をどのように使うかを明確にする必要がある。
-イングランドの2つの都市はすでに独自の自主制度を実施している。バーナムがこの地域の市長だったときに導入されたマンチェスターでは1室1泊あたり1ポンドのシティビジター料金、そしてリバプールでは1泊あたり2ポンドの料金である。これらはビジネス主導のスキームで、ホテルが地元の観光を支援するために集めた資金を共同利用することを選択します。
-地方自治体の首長には現在、そのような手数料を自ら徴収する権限はありません。彼らは経済成長を促進するためにそれが必要だと主張している。
-サウスヨークシャー市長のオリバー・コパード氏はBBCラジオ・シェフィールドに対し、労働党市長らは賦課金を導入する前に業界リーダーと相談すると述べた。街頭清掃や夜行バスなどの費用に充てられる可能性があると述べた。
-ノース10番会議に出席するロンドン市長サー・サディク・カーン氏は、木曜朝スタンダード紙に対し、「遅かれ早かれそうする必要がある」と語った。同氏は最大５％の課税を支持していると理解されている。
-しかし、ウェストミンスター市議会のポール・スワドル党首は、サディク卿が集めた資金の一部を市議会に分け与えなければ、「ウェストミンスターの住民と企業にとって全く利益はゼロになるだろう」と警告した。
-リンカンシャー州スケグネスで5つのキャラバンパークを経営するジョン・チャペル氏はBBC Your Voiceに対し、英国の観光地の多くでは予算が限られている訪問者がすでに車での移動費用に苦労していると語った。
-同氏は、追加コストが発生すれば「業界が壊滅」するだろうと述べた。
-「観光客は私たちのリゾートの救世主であり、悪魔ではありません。このような考え抜かれた考えは、政治家がいかに現実から乖離しているかを示しています」と彼は付け加えた。
-この税金はヨーロッパおよびその他の地域で共通であり、ニューヨーク、アムステルダム、ローマでは、地域サービスの資金を賄うために宿泊料金に宿泊料金を適用しています。ただし、ヨーロッパのいくつかの都市では上限が設定されています。
-スコットランドでは、地方自治体が訪問者に宿泊料金を請求することができます。エディンバラでは、ホテル、B&B、自炊施設に宿泊する人の税率は5%で、上限は5泊です。
-ウェールズでは来年4月に1人1泊あたり1.30ポンドの上限徴収金が導入される予定だが、それを導入するかどうかは地方自治体の判断に委ねられる。
-連絡する
-この話に関して何かコメントや質問はありますか？
-- 9 月 1 日発行
-- 7 月 23 日発行
-- 1 月 14 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-10T11:02:47+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c486/live/5b243510-ad04-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 6,
-  },
-  {
-    id: "history-shows-the-bar-to-disrupt-ai-is-s-042c690b",
-    title: "History shows the bar to disrupt AI is surprisingly high, says Bank of America",
-    titleJa: "AIを破壊するハードルは驚くほど高い、とバンク・オブ・アメリカは歴史が示している",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Bank of America argues that equity markets can withstand more severe bond market shocks than those witnessed so far in 2026 and that volatility may be better guide to risk than Treasury yields at present.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/history-shows-the-bar-to-disrupt-ai-is-surprisingly-high-says-bank-of-america-ddf543d4?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T11:01:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-25628337",
-    readTime: 2,
-  },
-  {
-    id: "macy-s-posts-strong-results-raises-guida-c5eae759",
-    title: "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-    titleJa: "メイシーズは好調な業績を発表、再建が定着し始めるにつれてガイダンスを引き上げる",
-    summaryJa: "メイシーズは木曜日、第2四半期決算で全社的に成長を記録し、業績回復を続ける中で見通しを引き上げた。同社は、同四半期の全体的な比較売上高は2.7％増加し、同名のブランドの比較売上高は1.1％増加したと述べた。同社は、成長は主に、いわゆる再考された店舗、つまり再建の焦点の一つとして刷新した店舗によってもたらされたと述べた。",
-    bodyOriginal: `Macy's on Thursday posted growth across the company in its second fiscal quarter and raised its guidance as it continues its turnaround.
-The retailer said overall comparable sales rose 2.7% for the quarter, with comparable sales for its namesake brand up 1.1%. The company said that growth was largely driven by its so-called reimagined stores, locations it has revamped as one of the focuses of its turnaround.
-Macy's said its higher-end store line Bloomingdale's saw an 11.3% increase in comparable sales, while beauty brand Bluemercury was up 6.2%.
-"We're creating, I think, performance beyond just one quarter," CEO Tony Spring told CNBC. "This is now six quarters of better-than-expected top line and bottom line performance, five quarters of comparable sales growth, two quarters of net sales growth."
-The company also raised its full-year guidance and now projects net sales to be between $21.68 billion and $21.83 billion, compared to a prior expectation of between $21.5 billion and $21.75 billion. It also raised its comparable sales outlook range from between 0.5% and 1.2% growth to a 1% to 1.5% increase.
-Macy's hiked its full-year earnings per share outlook to a range of $2.15 to $2.35, up from $2 to $2.20. It said that included a roughly 5 cent per share bump from tariff repayments it will apply to its bottom line.
-The retailer reported that it has received a total of $116 million in tariff refunds, and will invest most of that — about $96 million — in the customer experience and its turnaround plan.
-Here's how the company performed in its second fiscal quarter compared with what Wall Street was anticipating, based on a survey of analysts by LSEG:
-- Earnings per share: 40 cents adjusted; it was not immediately clear if that was comparable to the 37 cents expected
-- Revenue: $4.87 billion vs. $4.83 billion expected
-The company reported net income of $169 million, or 62 cents per share, compared to $87 million, or 31 cents per share, the year prior. Adjusting for one-time items, Macy's reported earnings per share of 40 cents.
-Sales rose to roughly $4.87 billion, up just slightly from $4.81 billion the year prior.
-The company added that credit card revenue was up 2%, or $3 million, for the quarter, due to what it called a "healthy credit portfolio and stable net credit card losses."
-Macy's is nearing the end of a three-year turnaround plan under CEO Tony Spring that aims to spark growth and invest in locations that perform well against a challenging backdrop for department stores. Spring told CNBC last quarter that the company was seeing strong consumer behavior despite a challenging macroenvironment.`,
-    bodyJa: `メイシーズは木曜日、第2四半期決算で全社的に成長を記録し、業績回復を続ける中で見通しを引き上げた。
-同社は、同四半期の全体的な比較売上高は2.7％増加し、同名のブランドの比較売上高は1.1％増加したと述べた。同社は、成長は主に、いわゆる再考された店舗、つまり再建の焦点の一つとして刷新した店舗によってもたらされたと述べた。
-メイシーズによると、高級店のブルーミングデールズは比較売上高が１１．３％増加し、美容ブランドのブルーマーキュリーは６．２％増加した。
-CEOのトニー・スプリング氏はCNBCに対し、「われわれはわずか1四半期を超えるパフォーマンスを生み出していると思う」と語った。 「これは、予想を上回った売上高と最終利益の実績が6四半期、売上高が同等の伸びを示したのが5四半期、純売上高が2四半期増加したことになります。」
-同社は通期見通しも引き上げ、純売上高は従来予想の215億ドルから217億5000万ドルに対し、216億8000万ドルから218億3000万ドルになると予想している。また、比較可能な売上高見通しの範囲を０．５─１．２％増から１─１．５％増に引き上げた。
-メイシーズは通年の１株利益見通しを２─２．２０ドルから２．１５─２．３５ドルの範囲に引き上げた。これには、利益に適用される関税返済による一株あたり約5セントの上昇分が含まれていると同社は述べた。
-この小売業者は、総額1億1,600万ドルの関税還付を受けており、そのほとんど（約9,600万ドル）を顧客体験と再生計画に投資すると報告した。
-LSEGによるアナリストへの調査に基づいた、ウォール街の予想と比較した同社の第2会計四半期の業績は次のとおりです。
-- 1 株当たり利益: 調整後 40 セント。それが予想される37セントに匹敵するかどうかはすぐには明らかではなかった
-- 収益: 48.7億ドル対予想48.3億ドル
-同社は純利益が1億6,900万ドル（1株あたり62セント）と報告したが、前年同期は8,700万ドル（1株あたり31セント）だった。一時項目を調整すると、メイシーズは 1 株あたりの利益を 40 セントと報告しました。
-売上高は約48億7000万ドルとなり、前年同期の48億1000万ドルからわずかに増加した。
-同社は、「健全なクレジットポートフォリオと安定したクレジットカード純損失」により、同四半期のクレジットカード収益は2％（300万ドル）増加したと付け加えた。
-メイシーズはトニー・スプリング最高経営責任者（CEO）の下、成長を促進し、百貨店にとって厳しい環境下でも業績が好調な店舗への投資を目指す3カ年再建計画の終了が近づいている。スプリング氏は前四半期、CNBCに対し、困難なマクロ環境にも関わらず同社の消費者行動は好調だと語った。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
-    publishedAt: "2026-09-10T11:00:27+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "extinction-warnings-ramp-up-as-more-ope-f93a03a1",
-    title: "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `OpenAI and Anthropic researchers are ramping up calls for an AI slowdown and warning of existential risks to humanity after the resignation of a researcher at Anthropic fueled fresh scrutiny.
-The concerns started after Anthropic researcher Jacob Coxon said Tuesday that he was quitting the company as he accused Anthropic and rival OpenAI of "gambling with our lives." He added that those building AI believed that it could "kill us all by the end of the decade." Evan Hubinger, Anthropic's alignment lead, responded that he expects there is a more than 10% chance of that happening.
-Since then, several employees at both AI labs have come out in support of calls to slow the pace of AI development as they stressed the risks of the technology. The public warnings are the culmination of growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models developed by both OpenAI and Anthropic.
-"In my personal capacity, I also think we need to slow down," Julie Steele, a member of OpenAI's technical staff who works on the safety team, said late on Wednesday in a post on X in response to Coxon's warnings.
-Anthropic researcher Samuel Marks said that "AI developers believe their technology could cause human extinction (or similarly bad outcomes)," in an X post on Wednesday. "This could happen in the next few years. In general, the more senior the employee, the more concerned they are."
-Anthropic was the first lab to publish a framework dedicated to mitigating "catastrophic risks from AI models," a spokesperson told CNBC when asked about the comments from employees on social media.
-"We have always been transparent that AI will bring both enormous benefits and unprecedented risks," an Anthropic spokesperson said, adding that the company was building models with "some of the strongest safeguards in the industry."
-OpenAI declined to comment when approached by CNBC, noting recent blog posts on its site.
-What is recursive self-improvement?
-Many of the biggest AI safety fears revolve around advanced models getting increasingly capable at improving their own performance, a technique known as recursive self-improvement, or RSI.
-"It's hard to overstate how dangerous speeding towards RSI is," said Jasmine Wang, an OpenAI researcher working on alignment, on Wednesday evening.
-"There is not yet a viable scientific plan to solve risks from recursively self-improving AI. Please look up!" said Anna Wang, who works on AGI safety and alignment at Anthropic.
-OpenAI's chief scientist Jakub Pachocki said Saturday that he has a "strong expectation" that the speed of progress in AI could be sustained into recursive self-improvement.
-"If AI development continues along its current path, the systems we'll see in the next few years are likely to represent further capability jumps of equal or larger magnitude, and to increasingly drive their own development," he said in a company blog post.
-"This is a time that calls for extreme caution," Pachocki added. "I am concerned no one is prepared for the consequences of a continued rapid rise in machine intelligence."
-Paul Christiano, who was formerly head of safety at the U.S. Commerce Department's Center for AI Standards and Innovation (CAISI), said recent development of AI capabilities led him to "believe there is a meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss of control in the very near term." OpenAI announced Wednesday that Christiano is joining the board of OpenAI Foundation.
-AI safety warnings reach Washington
-Concerns around the capability of AI models have ramped up in recent months. The announcement of Anthropic's Mythos model, which it touted as having advanced cyber capabilities, in April whipped up a frenzy of panic among financial institutions globally.
-In July, OpenAI said its models were responsible for a cyber incident on another company, while Anthropic's Claude models were also responsible for cybersecurity incidents, including in one case where Mythos created fake identities to fool humans.
-Roughly 1,400 AI researchers, from companies including OpenAI, Anthropic, Meta and Google DeepMind, published an open letter in July urging the U.S. government to develop the tools necessary to support an effort to "deliberately pace the frontier of automated AI development."
-While chiefs of AI labs have increasingly publicly called for more rules and standards around the development of models, huge competition between companies developing the tech is spurring rapid advances.
-Read more
-OpenAI and Anthropic are both racing towards public listings. Anthropic is expected to begin marketing its initial public offering in mid-October at the earliest and complete the listing days before the U.S. midterm elections in November, Reuters reported on Friday, citing people familiar with the matter.
-Former AI czar of U.S. President Donald Trump, David Sacks appeared to suggest Anthropic's plans for an IPO should be halted. "Surely Anthropic's IPO must be paused until the claims of this "whistleblower" can be investigated," he said in a post on X. Anthropic declined to comment on the post.
-Members of Congress have looked to introduce bills to address the rapid advance of AI in recent months, though there's little clear consensus about how the tech should be regulated. One, called the FRONTIER Act, aims to establish a framework for governing the deployment of advanced AI models. Another proposed legislation, dubbed the Ban Artificial Superintelligence Act, would temporarily pause advanced AI development until safety rules were established.
-"Safety researchers are resigning, powerful AI models are breaking out of their labs, and companies are racing ahead anyway," Rep. Lori Trahan, D-Mass., wrote in a post on X on Wednesday. "It's past time for Congress to get off the sidelines and do its job."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-AI研究所の責任者らはモデル開発に関するルールや標準の追加を公に求めることが増えているが、この技術を開発している企業間の大規模な競争が急速な進歩に拍車をかけている。
-続きを読む
-OpenAI と Anthropic は両方とも上場に向けて競い合っています。ロイター通信が金曜日、関係者の話として報じたところによると、アンスロピックは早ければ10月中旬に新規株式公開のマーケティングを開始し、11月の米国中間選挙の数日前に上場を完了する見通しだという。
-ドナルド・トランプ米大統領の元AI皇帝デビッド・サックス氏は、アンスロピックのIPO計画は中止されるべきだと示唆したようだ。同氏はXへの投稿で、「この『内部告発者』の主張が調査されるまで、間違いなくアンスロピックのIPOは一時停止されなければならない」と述べたが、アンスロピックはこの投稿についてのコメントを拒否した。
-議会議員らはここ数カ月間、AIの急速な進歩に対処するための法案の提出を検討しているが、この技術をどのように規制すべきかについては明確な合意はほとんどない。 1 つは FRONTIER 法と呼ばれ、高度な AI モデルの展開を管理するための枠組みを確立することを目的としています。人工超知能禁止法と呼ばれる別の法案は、安全規則が確立されるまで高度なAI開発を一時的に停止する内容となっている。
-マサチューセッツ州民主党のロリ・トラハン下院議員は水曜日のXへの投稿で、「安全研究者は辞任し、強力なAIモデルは研究室から流出しており、とにかく企業は先を急いでいる」と述べた。 「議会が傍観をやめて任務を果たす時期は過ぎた。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
-    publishedAt: "2026-09-10T10:49:29+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "primark-finally-set-to-launch-home-deliv-0cdaa9b0",
-    title: "Primark finally set to launch home deliveries",
-    titleJa: "プライマーク、ついに宅配サービスを開始",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Primark finally set to launch home deliveries
-- Published
-Primark has said it plans to launch a home delivery service in Britain, four years after it made its first foray into e-commerce.
-The retailer did not say when it expects to launch the service, but it has bought a warehouse in Sheffield from to enable it to ship products to homes.
-The company said there was "opportunity for profitable growth" through home deliveries, which could help boost trade after Primark reported subdued sales following the recent hot weather.
-Analysts said the decision to offer home delivery after years of resistance - including through the pandemic - indicated that Primark was facing major challenges from ultra-fast-fashion brands such as Shein.
-Primark did not sell goods online until 2022, when it launched a click-and-collect service which meant shoppers still had to travel to pick up their purchases.
-Associated British Foods (ABF), which owns Primark, said the fashion chain would "continue to grow click and collect and... will in the future offer home delivery in Great Britain".
-ABF predicts Primark's UK sales will grow by about 1% in the fourth quarter of the year. But like-for-like sales - a key metric in the retail industry, which strips out the impact of store openings and closures - are expected to be "broadly flat" in the UK, and fall 3% across its global operations.
-It said sales of autumn/winter clothing started later than normal due to the hot weather in the summer, but "trading was stronger when the weather cooled towards the end of the quarter".
-The fast-fashion chain is struggling to compete with brands such as Shein and Boohoo, as well as alternative platforms such as TikTok Shop and Vinted, and in July said it was lowering prices on hundreds of clothing items.
-Retail analyst Julie Palmer said that "Primark has been playing catch up for years" and launching home deliveries "is as much about defence as growth".
-She told BBC News that "the real test" for the brand is whether it can make home deliveries profitable at the low prices customers have come to expect from fast fashion chains.
-"Shein and Vinted have already reset customer expectations on convenience," she said, adding that a "slick and effective returns policy" will also be key.
-ABF is planning to spin off Primark from its food business next year.
-Shoppers are turning to Shein - but some still can't leave Primark
-- Published8 November 2025
-Retail analyst Natalie Berg said Primark was "more than fashionably late to the e-commerce party".
-She said the brand will need to absorb additional costs of returns, which tend to be higher than in-store purchases as customers cannot try clothes on before buying them.
-"Not even the pandemic could convince them to launch online, so the fact that Primark is making such a U-turn tells us just how much the retail landscape has evolved," she said.
-Dan Coatsworth, head of markets at AJ Bell, said that thanks to greater competition among delivery firms such as InPost and Relay, "it's become a lot cheaper in the past few years to send items by post, compared to the old days when Royal Mail dominated the market", he added.
-Retailers across the UK are grappling with higher costs for labour and energy.
-On Thursday, John Lewis - which operates the department stores and Waitrose supermarkets - reported that its half-year losses had widened to £124m from £88m a year earlier.
-Chairman Jason Tarry said the results reflected the partnership's "continued investment in our transformation, a more challenging trading environment and the increased costs of doing business".
-Sales in the department store arm of the business fell 2%, as it said consumers were holding back on discretionary spending.
-Waitrose sales were up 4%, but profits slipped slightly which the company said was due to a decision to lower prices and also reflected "the extra cost of running our operations through the heatwaves".
-Get in touch
-What are your thoughts around shopping online or in person? Let us know.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-10T10:02:26+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd0/live/64817fa0-ace6-11f1-8d69-858c9dcdf738.png",
-    readTime: 2,
-  },
-  {
-    id: "trump-warns-tehran-over-pickaxe-mountain-372f24a9",
-    title: "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-    titleJa: "トランプ大統領、つるはし山の活動についてテヘランに警告。米国とイラン、ホルムズ近くの船舶を攻撃",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `U.S. President Donald Trump has urged Iran "not to get cute" over activity at a suspected nuclear site on Pickaxe Mountain, following a barrage of attacks between both countries on tankers around the strategically vital Strait of Hormuz.
-"We notice there's a little activity at Pickaxe. I would advise Iran not to get cute because we will have to hit them very hard," Trump said Wednesday at the midterm Republican convention.
-Situated near Iran's heavily damaged Natanz uranium enrichment facility, Pickaxe Mountain is regarded as one of the last remaining vestiges of Tehran's nuclear program.
-The U.S. president has previously threatened to attack the underground tunnel complex, which is known as Kuh-e Kolang Gaz La in Farsi, amid concerns that Iran could reconstitute its nuclear program.
-An analysis of satellite imagery by the Center for Strategic and International Studies (CSIS), published Wednesday, showed more road activity at Pickaxe Mountain in 2026 "than at any point in the site's history" and "a clear surge" in construction activity.
-The latest data indicates that activity at the site "has shifted from active excavation toward probable internal construction and continued exterior reinforcement," CSIS said.
-Read more
-The think tank, which said it could not substantiate or refute claims that Iran has moved uranium centrifuges into Pickaxe Mountain, said the flurry of activity at a site just two kilometers (1.2 miles) away from an old uranium facility at Natanz was "suspicious."
-A spokesperson at Iran's Embassy in London was not immediately available to respond to a CNBC request for comment. Iran has repeatedly denied it is seeking nuclear weapons.
-U.S. forces struck three Iranian nuclear sites in June 2025, including Natanz, Fordow and Isfahan, which American officials said at the time had significantly set back the prospect of Tehran building a nuclear weapon.
-Trump: Iran war won't end until after midterm elections
-Iran said Wednesday that it had fired ballistic missiles at a U.S. military base in Jordan and attacked 10 ships near the Strait of Hormuz, a narrow waterway that typically handles around 20% of the world's oil traffic.
-Earlier in the week, U.S. Central Command forces said five Iranian oil tankers had been destroyed in response to the Islamic Revolutionary Guard Corps targeting a U.S. Navy warship with ballistic missiles twice in two days.
-The attacks on tankers near the Strait of Hormuz, alongside an escalation in fighting between Saudi Arabia and the Iran-backed Houthis in Yemen, have put energy market participants on alert for further supply disruptions.
-International benchmark Brent crude futures with November delivery traded 0.9% higher at $102.10 per barrel on Thursday morning, reversing earlier losses, with U.S. West Texas Intermediate crude futures last seen up 1% at $97.01.
-Speaking to reporters on Wednesday, Trump said he did not think the U.S.-Iran war would end until after November's midterm elections. "I think the war will end immediately after the election because they can't hold out any longer," Trump said.
-The U.S. president later added that some short-term economic pain for American consumers was worth it to prevent Iran from developing nuclear weapons.
-Oil flows have surprised to the upside in recent weeks, but strategists at ING have warned the market could tighten more sharply if ongoing escalation translates into disrupted oil flows.
-"Crucial to the outlook — and to how much momentum this latest move can sustain — is Chinese buying behaviour. It will largely determine whether this rally has follow through or fades," Warren Patterson and Ewa Manthey said in a note published Thursday.`,
-    bodyJa: `戦略的に重要なホルムズ海峡周辺で両国間でタンカーが集中攻撃されたことを受け、ドナルド・トランプ米大統領はイランに対し、ツルハシ山にある核施設と思われる施設での活動を巡り「かわいがらないように」と呼び掛けた。
-トランプ大統領は水曜、中間共和党大会で「ツルハシでちょっとした動きが起きていることに気付いた。イランにはかわいがらないように忠告する。我々はイランを非常に厳しく攻撃しなければならないからだ」と述べた。
-ひどく損傷したイランのナタンツウラン濃縮施設の近くに位置するツルハシ山は、テヘランの核開発計画の最後に残った痕跡の一つとみなされている。
-米国大統領は以前、イランが核開発計画を再構築する可能性があるとの懸念のなか、ペルシャ語でクエ・コラン・ガズラとして知られる地下トンネル施設を攻撃すると脅迫したことがある。
-水曜日に発表された戦略国際問題研究所（CSIS）による衛星画像の分析は、2026年のピッケル山で「この場所の歴史のどの時点よりも」多くの道路活動があり、建設活動が「明らかに急増している」ことを示した。
-最新のデータは、現場での活動が「活発な掘削から、おそらく内部建設と継続的な外部補強へと移行している」ことを示しているとCSISは述べた。
-続きを読む
-同シンクタンクは、イランがウラン遠心分離機をツルハシ山に移動させたという主張を実証したり反論したりすることはできないとし、ナタンズの古いウラン施設からわずか2キロ（1.2マイル）離れた場所での一連の活動は「疑わしい」と述べた。
-ロンドンのイラン大使館の報道官はCNBCのコメント要請に応じていない。イランは核兵器の開発を繰り返し否定している。
-米軍は2025年6月にナタンツ、フォルドー、イスファハンを含むイランの核施設3カ所を攻撃したが、当時米当局者らはこれがイランによる核兵器製造の見通しを大きく後退させたと述べた。
-トランプ大統領「イラン戦争は中間選挙が終わるまで終わらない」
-イランは水曜日、ヨルダンの米軍基地に弾道ミサイルを発射し、通常世界の石油輸送の約20％を扱う狭い水路であるホルムズ海峡近くの船舶10隻を攻撃したと発表した。
-今週初め、米中央軍は、イスラム革命防衛隊が２日間に２度米海軍軍艦を弾道ミサイルで標的にしたことへの報復として、イラン石油タンカー５隻が破壊されたと発表した。
-ホルムズ海峡付近でのタンカー攻撃と、イエメンでのサウジアラビアとイランの支援を受けるフーシ派との戦闘激化に伴い、エネルギー市場参加者はさらなる供給混乱に警戒を強めている。
-国際指標となるブレント原油先物（11月渡し）は木曜午前、0.9％高の1バレル＝102.10ドルで取引され、これまでの下落を反転させ、米国ウエスト・テキサス・インターミディエイト原油先物は直近で1％上昇し97.01ドルとなった。
-トランプ大統領は水曜日、記者団に対し、米国とイランの戦争は11月の中間選挙が終わるまで終わるとは思わないと述べた。トランプ大統領は「戦争はこれ以上持ちこたえられないので、選挙後すぐに終わると思う」と語った。
-米国大統領はその後、イランの核兵器開発を阻止するために米国の消費者に多少の短期的な経済的苦痛を与える価値はあると付け加えた。
-原油の流れはここ数週間で驚くべき上向きを見せているが、ＩＮＧのストラテジストらは、進行中の原油の流れが滞れば、市場はさらに急激に引き締まる可能性があると警告している。
-ウォーレン・パターソン氏とエワ・マンタイ氏は木曜日に発表したメモの中で、「見通しにとって、そして今回の動きがどの程度の勢いを維持できるかにとって重要なのは、中国の購買行動だ。この上昇が続くか、それとも衰退するかは主にそれによって決まるだろう」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
-    publishedAt: "2026-09-10T09:03:53+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "trump-promises-5-000-dividend-to-u-s-cit-7b3424af",
-    title: "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms",
-    titleJa: "トランプ大統領、中間選挙で共和党が勝てば米国民に5000ドルの「配当」を約束",
-    summaryJa: "ドナルド・トランプ米大統領は、次期中間選挙で共和党が勝利した場合、成人の米国民全員に5000ドルの「配当」を与えると約束した。アメリカ国民は11月初旬に中間選挙で投票を行う予定で、現時点では民主党が下院の多数派を獲得すると予想されている。",
-    bodyOriginal: `U.S. President Donald Trump has promised every adult American citizen a $5,000 "dividend" if the Republicans are victorious at the upcoming midterm elections.
-Americans will vote in the midterms in early November, with the Democrats currently projected to win control of the House of Representatives.
-Such a result would likely create barriers to Trump's legislative agenda and send a signal about public opinion on the president's policy mix throughout his second presidential term.
-"Here is my promise: if the Republicans win the House of Representatives and the United States Senate, both of them… because of our tremendous strength and success economically, I will issue a dividend to every adult citizen in the United States of America for $5,000," he told a crowd at the GOP's midterm convention in Dallas.
-"I'm asking you to pretend that I'm on the ballot," he added.
-Fiscal pressure
-It is estimated that the total proposed "Trump dividend" payout would cost more than $1 trillion — raising questions about how such an expense would be funded and its impact on fiscal strain facing the Federal budget.
-The potential payout compares to the $1.27 trillion the U.S. government has already spent paying interest on the national debt in the fiscal year-to-date, and the $1.36 trillion committed to defense spending in 2026.
-The U.S. national deficit, which occurs when the federal government's spending exceeds its revenues, is nearing $1.8 trillion for the fiscal year-to-date.
-The government has spent more than $6 trillion between October and July, putting the deficit at around 5.8% of gross domestic product.
-Meanwhile, U.S. government borrowing costs have risen sharply in recent weeks, amid concerns about sticky inflation, government Treasury buybacks and elevated national debt, which stood at 122.6% of GDP in the first quarter of the year.
-Legal challenge
-The proposal may also face legal obstacles.
-Under U.S. federal law, offering or making a payment to induce someone to vote, withhold their vote, or vote for or against a candidate is a criminal offence, punishable by a fine, up to one year in prison, or both. A willful violation can carry up to two years' imprisonment.
-CNBC contacted the White House for clarification on the legal implications of Trump's dividend proposal.
-In July, a bipartisan panel found tech billionaire Elon Musk likely broke state law by giving $1 million checks to voters in the 2025 Wisconsin Supreme Court election. The Wisconsin Elections Commission referred two complaints to the Brown County district attorney's office, paving the way for prosecutors to decide if Musk should be charged.
-Musk handed out checks in an effort to flip majority control of the court, spending millions backing Republican candidate Brad Schimel, who ultimately lost to Democrat-backed Susan Crawford.
-The president has previously promised a series of payments to Americans that have yet to emerge.
-Early into his second term, Trump backed the idea of a $5,000 "DOGE dividend." The idea was to disburse savings achieved by cuts enacted by the now-defunct Department of Government Efficiency — then led by Musk — to the American population, but never materialized.
-His proposed "tariff rebate," a $2,000 payout funded by tariff revenue, has also failed to materialize. The idea unraveled when the Supreme Court ruled against the legality of Trump's tariff regime.
-During the Covid-19 pandemic, the first Trump administration and the Biden administration spent trillions of dollars on checks to households in a bid to stimulate the economy — a move that some experts have argued may have fueled a subsequent surge in inflation.`,
-    bodyJa: `ドナルド・トランプ米大統領は、次期中間選挙で共和党が勝利した場合、成人の米国民全員に5000ドルの「配当」を与えると約束した。
-アメリカ国民は11月初旬に中間選挙で投票を行う予定で、現時点では民主党が下院の多数派を獲得すると予想されている。
-このような結果は、トランプ大統領の立法政策に障壁を生み出し、大統領の2期目の任期を通じて大統領の政策構成に関する世論に関するシグナルを送る可能性が高い。
-同氏はダラスで開催された共和党の中間党大会で聴衆に向かって、「これが私の約束だ。共和党が下院と合衆国上院の両方で勝利した場合、我々の多大な強さと経済的成功のおかげで、米国の成人全員に5000ドルの配当金を支給する」と述べた。
-「私が投票用紙に載っているふりをしてほしいのです」と彼は付け加えた。
-財政圧力
-提案されている「トランプ配当」の支払い総額は1兆ドル以上になると推定されており、そのような費用がどのように賄われるのか、また連邦予算が直面する財政負担への影響について疑問が生じている。
-潜在的な支払い額は、米国政府が会計年度現在までに国債の利払いにすでに費やした1兆2700億ドル、および2026年の国防費に充てられる1兆3600億ドルと比較される。
-連邦政府の支出が歳入を上回ることで生じる米国の国家赤字は、会計年度累計で1兆8000億ドルに近づいている。
-政府は10月から7月までに6兆ドル以上を支出し、赤字は国内総生産の約5.8％となった。
-一方、粘り強いインフレ、政府財務省の買い戻し、今年第1四半期の国内総生産（GDP）比122.6％に達した国債の増加に対する懸念を背景に、米国政府の借入コストはここ数週間で急激に上昇している。
-法的異議申し立て
-この提案は法的な障害に直面する可能性もある。
-米国連邦法では、誰かに投票を勧めたり、投票を差し控えたり、候補者に賛成か反対の投票をするために金銭を提供したり支払ったりすることは刑事犯罪であり、罰金、最長 1 年の懲役、またはその両方が科せられます。故意の違反には最高 2 年の懲役が科される可能性があります。
-CNBCはトランプ氏の配当案の法的影響について説明を求めてホワイトハウスに問い合わせた。
-7月、超党派の委員会は、ハイテク億万長者のイーロン・マスク氏が2025年のウィスコンシン州最高裁判事選挙で有権者に100万ドルの小切手を渡し、州法に違反した可能性があると認定した。ウィスコンシン州選挙管理委員会は2件の告訴状をブラウン郡地方検事局に付託し、検察がマスク氏を起訴すべきかどうか判断する道を開いた。
-マスク氏は裁判所の過半数支配を覆すために小切手を配り、最終的に民主党が支援するスーザン・クロフォード氏に敗れた共和党候補ブラッド・シメル氏を支援するために数百万ドルを費やした。
-大統領は以前、アメリカ国民への一連の支払いを約束したが、それはまだ実現していない。
-トランプ大統領は2期目の初めに5,000ドルの「DOGE配当」という考えを支持した。その構想は、現在は機能していない政府効率省（当時はマスク氏が率いていた）によって制定された削減によって得られた節約をアメリカ国民に分配することであったが、実現することはなかった。
-同氏が提案した関税収入を財源とする2000ドルの支払い「関税リベート」も実現には至らなかった。この考えは、最高裁判所がトランプ大統領の関税制度の合法性を否定する判決を下したときに明らかになった。
-新型コロナウイルス感染症のパンデミック中、第一次トランプ政権とバイデン政権は経済刺激を目的に家計向け小切手に数兆ドルを支出したが、この措置がその後のインフレ急上昇を招いた可能性があると一部の専門家は主張している。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
-    publishedAt: "2026-09-10T08:39:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "world-s-largest-contract-chipmaker-tsmc-019e985f",
-    title: "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-    titleJa: "世界最大の受託チップメーカーTSMC、8月の売上高が53％以上急増し過去最高を記録",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Taiwan Semiconductor Manufacturing Co. reported record monthly revenue for August on Thursday, as demand for chips used in artificial intelligence applications remained strong.
-The world's largest contract chipmaker posted revenue of $514.8 billion New Taiwan dollars ($16.35 billion) for last month, up 53.3% from a year earlier and 10.1% from July.
-TSMC shares closed 0.61% lower on Thursday ahead of the revenue release.
-The company's monthly revenue has now risen for four straight months.
-During its second-quarter earnings call in July, TSMC said AI-related demand continued to be "extremely robust."
-The Taiwanese tech giant reported a more than 77% year-on-year jump in second-quarter profit and forecast third-quarter revenue between $44.6 billion and $45.8 billion.
-TSMC has maintained its dominance in the global foundry market, with a 72.5% market share in the second quarter, according to a data released by TrendForce Wednesday. Strong demand for AI server processors kept TSMC's advanced 5-, 4- and 3-nanometer capacity fully booked during the quarter, the research firm said.
-Samsung Foundry ranked second with a 5.9% share, followed by China's SMIC at 5.4%.
-The world's top 10 foundries posted record combined revenue of nearly $53.49 billion in the second quarter, driven in part by supply constraints for advanced processes used in AI and high-performance computing processors.
-Separately, TSMC and Dutch chip equipment giant ASML this week announced an initiative to advance the industry's transition to next-generation chipmaking technology.
-TSMC said it plans to use ASML's High NA technology in large-scale manufacturing for advanced nodes starting in 2030, with adoption expected to increase as AI applications require more complex transistor architectures.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
-    publishedAt: "2026-09-10T06:45:55+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
   },
 ];
 
