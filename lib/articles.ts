@@ -15,6 +15,260 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "tesla-could-transform-the-trucking-busin-29220cfc",
+    title: "Tesla could transform the trucking business — and capitalize on high diesel prices",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T20:49:00+00:00",
+    category: "自動車",
+    imageUrl: "https://images.mktw.net/im-677007",
+    readTime: 2,
+  },
+  {
+    id: "dell-stock-jumps-on-rbc-initiation-now-u-56651cee",
+    title: "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Dell Technologies stock rose 12% on Friday after RBC Capital Markets initiated coverage of the computer maker and gave it an outperform rating and a price target of $640.
+Friday's rise comes as Dell shares have more than quadrupled so far in 2026, as the longtime PC maker has emerged as one of the top vendors for Nvidia-based servers and related equipment that cloud companies and enterprises are snapping up for artificial intelligence.
+"With no signs of slowing, we believe DELL continues to be well positioned to benefit from a multi-year AI infrastructure spending cycle," RBC analyst David Paige wrote in the note on Thursday.
+Dell has $95 billion in sales in its server order backlog that it hasn't yet started to fill, and it sold about $16.4 billion of AI servers in its second quarter, RBC said.
+Dell reported second-quarter earnings earlier this month that surpassed estimates and the company upped its fiscal full-year forecast to $192 billion, which would be a nearly 70% increase in sales over last year.
+Dell executives told investors on the earnings call that it is increasing prices because of rising costs for computer parts such as memory, which factored into the elevated guidance.
+The computer maker was among the first to ship Nvidia's Grace Blackwell NVL72 racks, highlighting the company's close relationship with Nvidia and its ability to secure supply of the company's GPUs. Dell supplies neoclouds including CoreWeave.
+Dell's products that aren't based on Nvidia GPUs, such as storage, are also seeing increased demand driven by AI, with storage revenue rising 26% in the most recent quarter. Effectively, Dell can be a one-stop shop for companies looking to stand up AI infrastructure, according to RBC.
+"Dell's best-in-class supply chain represents a competitive moat that differentiates the company during periods of supply disruption, as customers increasingly turn to Dell for a 'calming hand' during periods of supply volatility/constraints," Paige wrote.
+In July, President Donald Trump, who has bought Dell shares since returning to office last year, again recommended buying Dell computers.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
+    publishedAt: "2026-09-11T20:48:19+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "salesforce-s-stock-has-been-riding-a-wav-9f5a0494",
+    title: "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T20:44:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-49120683",
+    readTime: 2,
+  },
+  {
+    id: "i-m-a-single-58-year-old-veteran-in-cali-70a6c535",
+    title: "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“I expect to receive at least $9,000 per month before federal and California state taxes.”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T20:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-88171770",
+    readTime: 2,
+  },
+  {
+    id: "dan-chung-rebuilt-a-decimated-alger-mana-b5b5d332",
+    title: "Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Daniel Chung, the CEO and chief investment officer at investment firm Fred Alger Management, survived the Sept. 11 attacks on the World Trade Center by chance.
+That morning a quarter century ago, the then-tech analyst started his day at the Intercontinental Hotel in Midtown Manhattan, searching for answers on why a key stockholding hadn't been performing well. The company's chief executive was set to make a presentation that day.
+"I was running late, so I went straight to the meeting," Chung said. "The meeting starts. CEO walks out. He's barely started, and somebody comes from, I guess, the hotel or the AVs — you know, the audiovisual staff – and hands them a note."
+"He looked at it, and he said, 'I'm not sure we can continue," Chung added. "There's been a plane or something at the World Trade Center.'"
+Alger's offices were on the 93rd floor of One World Trade Center, the North Tower, the first building hit, at 8:46 a.m.
+Those gathered in midtown didn't immediately grasp what had just happened. Everyone's first instinct was that it was an accident. Minutes later, when the second plane hit the South Tower at 9:03 a.m., a silence fell over the room. The meeting was canceled, and people started lining up to use the one landline outside the conference room when they found that their cell phones didn't work.
+None of the calls to offices downtown, in lower Manhattan, went through.
+When Chung left the hotel on 42nd Street, cars had stopped. People, unmoving, stared down Lexington Avenue, where a cloud of smoke and debris obscured the view to lower Manhattan as the towers burned, and then collapsed. Chung isn't sure how long he stood there, before realizing he had to start moving uptown.
+After contacting some other Alger colleagues, he spent the rest of the day with his team spread out across the city's hospitals, with photos of co-workers. Some went to St. Vincent's Hospital in Greenwich Village. Others to Bellevue. Everywhere, people looked for survivors, anxiously waiting for ambulances to start pulling in.
+"By midday or later, you had thousands and thousands of people outside these hospitals, putting up signs and waiting, just waiting," Chung said. "I remember, by evening, you're hoping to see one ambulance. I don't actually recall seeing any that day."
+Chung eventually got back home to his wife and children in Brooklyn long after midnight.
+He later learned that the attack on the North Tower claimed 35 of his colleagues — including then-chief executive David Alger.
+Most senior survivor
+Chung was named chief investment officer of Alger in the immediate aftermath of the tragedy. He was the most senior of the survivors, and founder Fred Alger, Chung's father-in-law, came out of retirement to task him with rebuilding the firm.
+Chung had available to him the firm's huge capital account, meant to help during times of market crises. And he had to move quickly to allay fears from clients who worried about their assets, as well as the future of the firm.
+Preparations made by Alger's chief technology officer Michael Howell, who died on Sept. 11, allowed Alger to resume operations on Sept. 13. Howell had ensured that a backup recovery center in Morristown, New Jersey would be able to support operations for the firm. The center had a full trading desk that replicated what Alger had at the trade center, right down to the order of seats for portfolio managers.
+"It was above gold standard," Chung said. "Platinum standard." Their client records were intact. So were proprietary trading and other models.
+Within days, Alger was able to hold a conference to update clients, consultants and the securities exchanges on the status of the firm.
+In the 25 years since, Chung has done more than rebuild Alger. Known for one of the best performing mutual funds of the tech boom of the 1990s, Alger has seen its assets balloon to more than $47 billion, according to the firm. The flagship Alger Spectra Fund (SPECX) now holds $4.5 billion in total assets.
+In the last several years, the fund manager has done even better, thanks to Chung's confidence in the artificial intelligence trade. SPECX was in the top 4% of funds in its category last year, and the top 2% in 2024. And according to Morningstar, the fund also ranks in the top quartile in its category on a three-, five- and 10-year basis.
+Alumni return
+Chung, 64, succeeded in part by eschewing the advice of consultants soon after the terrorist attacks.
+Many encouraged the Harvard Law graduate who had once clerked at the Supreme Court to poach star portfolio managers from other firms. But the analyst-turned-executive decided honoring the legacy of the firm and the lives lost on Sept. 11 meant upholding Alger's philosophy and culture. Chung sought out successful alumni who had cut their teeth at Alger, rather than assemble a slap-dash team cobbled from disparate personalities. He wanted to keep the spirit of Alger alive.
+"I became dedicated to the idea of not only rebuilding Alger and staying in business — but rebuilding Alger," Chung said. "We had been the best."
+Many alumni heard the call and felt it was their duty to help. Among them, Teresa McRoberts, who covered healthcare, and David Hyun, who left his post at Oppenheimer Funds. Small cap portfolio manager Jill Greenwald approached Chung at the memorial service for Ginger Risco, once a secretary at Alger who went to night school at Columbia University before asking Fred Alger for an analyst position. Risco, too, died on the 93rd floor.
+"Jill came up to me and said, 'I heard you're asking Alger alumni to return,'" Chung said. "I said yes, and she said something like, 'When do I start?'"
+'Positive Dynamic Change'
+Today, Alger is as bullish on tech as it was at inception in 1964.
+Fred Alger was known for a growth-oriented style of investing that put him squarely at odds with value investors like Warren Buffett. "You can go broke buying cheap stocks," Alger once joked. Instead, Fred had admired famed Fidelity fund manager Gerald Tsai who had pioneered picking stocks on the basis of accelerating revenue growth. By the 1990s, Alger's track record of finding companies in high growth sectors earned plaudits from Wall Street, including buying Intel in 1977; Apple in 1984; and Microsoft, by 1990. By 2000, Barrons named Fred Alger to its All-Century Team of legendary investors.
+Investing in "positive dynamic change" remains a core tenet of Alger's investment philosophy, leading the firm to invest early in the artificial intelligence trade. Chung said naysayers worrying about a future oversupply of datacenters and claiming the group's soaring prices equal a bubble, are missing the fact that there is a shortage of computing power right now.
+Today, Nvidia is the top holding of the Spectra fund, representing 14% of assets as of June, according to Morningstar. The dominant AI chipmaker is up 17% this year, disappointing only when compared to stupendous returns since late 2022 and Nvidia's spectacular earnings growth. Chung expects that Nvidia will once again claim a higher-than-market price-to-earnings ratio.
+CrowdStrike is another high-conviction bet that Chung thinks will maintain "very high rates of growth" for several years, given the importance of cybersecurity with the advent of AI. Chipmakers Western Digital and Micron that will continue to benefit from the need for memory. And Nebius Group, a top 10 holding in Spectra, is a neocloud company that Chung identified early as a winner in the space; it's nearly tripled this year.
+"We are still in the early years of what will be probably almost a full decade" of AI-driven growth, said Chung, who graduated Stanford as an undergrad. The AI move is "still very early to me. This feels more like 1995, I think, than, say, 1999."
+'A lot of good in this world'
+Alger finally emerged from the darkest days of 9/11 larger than it had ever been. The tragedy shaped the firm's emphasis on charitable giving, marked this year by a fundraising golf tournament in May.
+The firm has launched an Alger 35 ETF, consisting of 35 of the firm's highest-conviction investment ideas in honor of the 35 colleagues who died on 9/11. The firm donates a portion of its management fees from the fund to charities in memory of David Alger and their colleagues. Chung said even the youngest analysts at Alger present ideas to him for the ETF, which is gold-rated by Morningstar.
+The recovery has also shaped Chung's hopeful view toward the future, even at a time shaped by social polarization, fear of artificial intelligence and another American war in the Middle East. Chung remains optimistic that the country will be able to move forward.
+"Look at how well New York has done. Look at how well America has done, actually. And look at how well Alger recovered," Chung said. "I think it's a reminder. I'll quote the 'Lord of the Rings' hobbits a little bit. It's a reminder that there's a lot of good in this world."
+"A lot of good in people, in our institutions, certainly in this city and in this country," Chung continued. "And it is because of that — that perseveres and goes on, even as there's a lot of noise and uncertainty and worry — that we have recovered. We're here today."`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html",
+    publishedAt: "2026-09-11T20:21:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "saudi-arabia-shut-down-east-west-crude-o-e7fb3ccf",
+    title: "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Saudi Arabia shut down its crucial East-West crude oil pipeline as a precautionary measure after multiple attacks, the kingdom's Energy Ministry said Friday in a statement.
+The pipeline was targeted in the Riyadh and Madinah regions on Thursday morning, the ministry said. Multiple people were injured in the attacks, it said.
+The Saudis have relied on the East-West pipeline to shift crude oil exports away from Persian Gulf as the U.S. and Iran battle for control over the Strait of Hormuz. The pipeline, which has a capacity of 7 million barrels per day, runs across the kingdom to export terminals on the Red Sea.
+Emergency teams were deployed to secure the pipeline and assess its safety after Thursday's attacks, the Saudi Energy Ministry said. "Any further developments will be announced in due course," the ministry said.
+The Saudis did not say who was behind the attacks or whether the pipeline suffered significant damage. However, Iran-allied militants have escalated strikes on Saudi Arabia this week.
+Houthi militants in Yemen launched strikes on Saudi Arabia earlier this week that hit energy facilities and other assets, injuring more than 70 people. The militants declared a maritime embargo against the Saudis in July and have sought to disrupt the kingdom's oil exports through the Bab el-Mandeb Strait, which connects the southern Red Sea to global markets.
+Saudi Aramco CEO Amin Nasser said last month that the pipeline has played a bigger role in mitigating the impact of the oil supply disruption caused by the Iran war than the release of emergency crude reserves.
+Oil prices this week broke above $100 per barrel for the first time in months as fighting has escalated in the Middle East. The attack on the pipeline may have played a role in the rally as rumors about the strike circulated Thursday. Prices closed out the week more than 8% higher.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+    publishedAt: "2026-09-11T20:01:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "election-officials-ban-certain-public-wo-8ac51335",
+    title: "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `With less than two months until the midterms, election and county officials are prohibiting employees from participating on prediction market contracts.
+Officials said it's the tightest measure they can take to ensure employees, who have access to ballots, do not commit insider trading on election contracts.
+"Obviously, we have no control over prediction markets themselves, or how people react to them," said Thomas Galvin, a supervisor for Maricopa County, Arizona. He helps oversee voter tabulation and Election Day voting.
+"When we implement a policy for our employees not to trade or bet on non-public information, that goes a long way towards showing people that not only are we working hard to maintain transparent elections, but also shows that we are being very aware of new technology," he said.
+Election odds vs. polls
+Midterm odds on prediction markets and an election poll tell two stories, but not everyone can tell them apart.
+Election odds on prediction markets are a live response to breaking news. There, participants can forecast and see in real time where the market stands on candidates' likelihood of a victory. This live accessibility provides a competitive advantage over traditional forecasting polls, said Koleman Strumpf, a professor of economics at Wake Forest University.
+"By the time you see the poll, it's ancient history," Strumpf said.
+A Kalshi spokesperson told CNBC that instant odds are a key feature for prediction markets, but they "complement" polling rather than acting as a replacement.
+On the other hand, pre-election polls measure a voter's intention and take a sample of selected respondents who are representative of a broader population, said Thessalia Merivaki, a professor of government at Washington State University. Unlike prediction markets, where anyone can forecast who will win a key race, statistical techniques are used to select a sample for a poll, she added. Even the questions asked in a poll differ from an election contract.
+"The question is very different. It doesn't ask, 'Do you think X candidate or Y candidate will win?' Pre-election polls ask, 'If the election were to be held today, who would you vote for?'" Merivaki said.
+Despite these distinctions, election officials are growing concerned that voters cannot differentiate between the two.
+"I have seen when I travel the district and when I travel the county, that some people confuse the numbers reflected in prediction markets with public opinion polling," said Galvin. "Just because someone has a 98% chance of winning on a prediction market doesn't mean that they're winning in the polls 98 to 2."
+Avoiding backlash
+Arizona's Maricopa County was in the spotlight after President Donald Trump repeatedly and falsely claimed he won in the state against former President Joe Biden in 2020.
+That controversy drove Galvin to help draft a resolution adopted this July. The measure bans about 13,000 county employees from trading on non-public information, including on topics around weather events, elections and court hearings.
+The resolution came shortly after Arizona Governor Katie Hobbs signed an executive order that would ban state workers from insider trading on prediction markets.
+Galvin said the prohibition reassures the public that the county champions election integrity and protects employees in the event individuals use prediction markets odds to claim there is election fraud.
+Earlier this year, people grew suspicious of the ballot process in Los Angeles after vote counts were not matching prediction market odds, according to Dean Logan, registrar-recorder/county clerk for Los Angeles County, who spoke on a July webinar hosted by the Partnership for Large Election Jurisdictions.
+"We definitely had a situation here where early election returns differed from market expectations, and that resulted in suspicion and questioning of normal ballot processing and canvassing procedures in California," Logan said at the webinar.
+In that race, city councilmember Nithya Raman advanced to a November runoff against incumbent mayor Karen Bass. Prediction market traders anticipated Bass would compete against former reality TV star Spencer Pratt in the November contest. While Pratt led Raman early in the vote count, Raman gradually pulled ahead of him as mail-in ballots were counted after Election Day.
+"I won't go into great detail about how that resulted in threats or aggressiveness from observers or people who had a stake in the outcome of the election, but it is something that we definitely saw, and we saw it at a level that we haven't seen in prior elections," Logan added.
+Where platforms stand
+Kalshi and Polymarket did not directly answer CNBC's questions on whether they plan to speak with election officials over their concerns about prediction markets.
+Instead, a Polymarket spokesperson reiterated that states do not have legal jurisdiction to regulate prediction markets.
+A spokesperson for Kalshi highlighted the role prediction markets play in breaking news and political events. Both platforms have taken measures to prevent insider trading on their platforms.
+Growing concern over prediction markets and elections comes as states and the Commodity Futures Trading Commission fight for regulatory oversight of event contracts.
+Election officials speak on regulation
+Some election officials have entered the fray over prediction market regulation, asserting that the platforms are running as gambling operators instead.
+Just outside of Philadelphia, an election office in Delaware County in Pennsylvania banned roughly 2,200 employees from trading on prediction market contracts tied to elections. The office's oath already ensured bets on elections were prohibited. It later added prediction markets.
+"It makes sense to add prediction markets to that [oath], because prediction markets are gambling, despite the dubious claims that they are not," said James Allen, Delaware County's elections director.
+Similarly, Maryland's administrator of elections sent a letter to the state prosecutor in July, requesting an investigation on whether prediction market election contracts violate a state law that prohibits wagers on election outcomes.
+While the future of how the platforms will be ultimately regulated is yet to unfold, some election officials have made it clear: They want no part in them.
+"I don't want these prediction markets to infect our elections here in Delaware County," Allen said. "They're definitely the newest and most existential threat to undermining faith in the elections."
+-CNBC's Charlotte Morabito contributed reporting.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
+    publishedAt: "2026-09-11T17:00:48+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "i-went-to-caracas-for-venezuela-s-new-oi-12e6c6e9",
+    title: "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `POWER POINT
+What I'm hearing from energy insiders
+It was one of the most eye-opening and fascinating business trips in my 30-year career: the opportunity to travel to Venezuela to witness firsthand the signing of oil deals between the government in Caracas and Venezuelan and Western oil companies.
+CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.
+The trip was barely 24 hours long and was tightly scheduled. Venezuela is not a country where the American media is just going to wander around. It is one of the poorest countries in the world, and that was obvious the moment we landed. The airport was still shut down due to the effects of a terrible earthquake that hit back in June. More on that in a minute. We were one of the only planes to land at Simón Bolívar International Airport and took a 20-minute bus ride downtown.
+You could see the remains of wealth the country and its people once had. Many of the buildings downtown and in the business district appear to have been built in the 1980s or 1990s, when the country had more than its share of oil and energy riches. Venezuela oil production peaked out in 1997 at about 3.5 million barrels per day. Then strongman dictator Hugo Chavez took over and, between him and jailed president Nicolas Maduro, they succeeded in stripping the proud nation of most of that money. Oil production collapsed to under 1 million barrels per day in much of 2025. It's only recently gone back above 1 million barrels a day. While many Russian and Chinese firms got richer, the Venezuelan people got poorer.
+Enter the United States and the agreements it signed last week.
+That clears a few things up about what these deals are … and what they are not.
+What they are is a variety of deals, not just one. Chevron is making its own deal in Venezuela, expanding production in a nation it's operated in for over 100 years. That is separate and distinct from the other agreements. Those deals primarily involve the U.S. government taking a stake in a private operating oil company called North American Blue Energy Partners. Better known as NABEP, the company is run by the rather mysterious oil investor Alejandro Betancourt. Betancourt has taken his lumps in the media, as it's been widely reported that he was investigated for potential financial crimes in Switzerland. That said, our conversations with the U.S. government and others focused on the fact that, despite the investigations, charges were not brought. Whatever your take may be on Betancourt and his past, U.S. and other officials we spoke with added that, unfortunately, in volatile, complicated, and often dangerous countries such as Venezuela, oftentimes the operators you have to deal with are not without some warts. The American government is taking a stake in NABEP and will trade that investment for future oil production. That is really the key point in all this: Will these bold and potentially risky new investments — made with NABEP, Italian energy giant ENI, and private American companies like Aspect Energy — result in meaningful new production growth?
+When we spoke with U.S. Secretary of Energy Chris Wright, he was confident that production in Venezuela could quickly scale up by a couple hundred thousand barrels per day. Between that, along with the increased Chevron investment of about $7 billion across three different projects, there is cautious optimism that Venezuela could jump back to 2 million barrels per day of production relatively soon. If it can, the U.S. deals are designed to create a framework where some of the proceeds and tax revenues do flow back to the Venezuelan people, not looted by nefarious overseas actors.
+It's not rocket science to know that the most cynical among us are going to say that the United States is "taking" the oil or that this is some sort of new form of American colonialism. Wrong on both counts. We are making deals with private operators with an eye toward selling more oil.
+My take → If you want to talk about 'colonialism' do five minutes of digging on how Russia, China and even Cuba have looted the country for years. Those countries not only took most of the oil for their own benefit, but in some cases have created serious environmental damage in doing so. People who have been to some of those oil fields tell me about 'pools' of oil gunking up the landscape
+My take #2 → When we were in the Presidential palace, members of the Venezuelan media were clearly excited to be back. Officials who had been to the country earlier this year told me that some members of the media were openly weeping at returning to the capital. They had been banned, silenced or were simply too afraid to re-enter the building. That is what we can hopefully help change. It's not just about oil.
+Venezuela doesn't have the money to invest in and regrow its once-proud energy business. It will take outside capital, know-how and human energy. I'd take the U.S., Italy and other western countries over Russia and China any day of the week and twice on Sunday. But maybe that's just me.
+Anyway, here are photographs I took while in Caracas. Some were done quickly, so apologies that they lack professional quality:
+Thanks for reading!
+Wall Street's Take
+This has been one of the most difficult Power Insiders to write since we launched. The speed of headlines and price action the last few days are head spinning. By the time you read this, the price of oil might be $1, $5 or $10 up or down from right now. That's how fast the news flow has been this week. But, dear reader, at some point we just have to call it and get the newsletter out.
+As I type these words, oil is above $100 here in the United States, slightly higher in the Brent crude global market and even higher in other contracts around the world. Diesel fuel has hit $6 per gallon for the first time here in America (though it's been higher on an inflation-adjusted basis).
+My take → There are all kinds of rumors and market 'chatter' flowing around the markets and social media. I won't repeat them here, but as of this writing it's unclear what may be true or not. Stay nimble, and stay focused
+While oil is flowing through the Strait of Hormuz, three key points:
+1) Volumes are still well below pre-war levels,
+2) Shipowners tell me some captains are unwilling to go back into the Arabian Gulf due to fears they may get stuck, and
+3) Oil isn't the real worry: it's lack of refining capacity
+Turning oil into diesel or jet fuel requires a refinery. The U.S. hasn't built a big refinery since the 1970s. There are large refineries in the Arabian Gulf, but they are suffering due to lack of ships and fears of export risk (point #2 above). Russia is the 'gas station to the world' but the country is a global pariah and Ukraine is smart enough to go after Russian refineries to try to cut off its money for war. One recent interview worth rewatching is with TWG Global managing partner and former Biden administration senior energy adviser Amos Hochstein. He was with us just under a month ago and warned that the market was mispricing oil and that the refining issue was the story to watch.
+Higher prices have popped oil and gas stocks. Look at these quarter to date returns.
+As good as those are, they pale in comparison next to the refining stocks. You can do your own research on what a 'crack spread' is, but let's just say the wider spreads are very, very good for the refining group. The worst performing refiner is up 47% since July 1st. The best, up 22% more than that. Wow.
+It's been a heck of a run, but is it over? Maybe. All these stocks are right at, or even above, their current Wall Street price target. We're either going to see a round of price target raises or analysts believe these gains are all there is.
+From a macro sense, here's an as-of-now summary of what some on Wall Street are saying about the price of crude. As I said, this could change in days - or hours - based on any new information. I remind you to tune in to CNBC and CNBC.com every day for the very latest on what's happening, real-time.
+Here's a quick rundown of some Wall Street commentary around crude:
+JPMorgan asks if the markets are getting inured to a "forever conflict," one where Brent crude could average $87 next year. Kaneva - who has become a must-listen to in energy markets - notes that the futures curve is "$6 too high up front and $10 too low at the back." One thing she notes that may be 'saving' energy markets is that global demand is about 5mbd below recent highs, thanks in part to lower use from China.
+Barclays is out with a very bullish call on energy, writing "the outlook for the global energy sector is the most attractive it has been for two decades. The energy transition increasingly looks like a process of energy addition rather than substitution, with demand for oil, gas, electricity and renewable power rising simultaneously. Population growth, economic development, electrification, AI and digital infrastructure are driving energy demand higher, while geopolitical fragmentation has increased the value of reliable and secure supply."
+Goldman Sachs with 3 big themes to watch around agriculture and even energy markets heading into the fall. The first is, naturally, Hormuz. With Goldman worried that continued "diesel and fertilizer disruptions may raise input costs across agriculture." Next up is the Black Sea risk, with Goldman analysts worried that rising Russia-Ukraine fighting will hit grains. The firm notes that this is peak wheat export season, and levels are below normal. The final theme is the weather and the risk of a "Super El Nino" system that could be one of the strongest on records, cutting water levels in the Panama Canal.
+UBS sees Brent above $100 as a sort of milestone, not a turning point for global markets. It just raised its Brent crude forecast to $95 at the end of this year and $90 in March of next year.
+Not to be outdone, Bank of America also recently raised its Brent crude forecast to $85 this year and $75 next year. It also is one of the rare firms daring to put out a much longer 2028 forecast of around $70 from 2028.
+My take → While I love BofA's moxie, the late, great Boone Pickens told me that trying to forecast oil prices more than a few months out was nearly impossible.
+One other big thing Wall Street is watching is how oil prices are impacting borrowing costs. Bond yields around the world are on the rise. Here in America, our 10 year government note is sniffing a yield of 5%. That's a level we haven't had since 2007! Fedwatch Advisors Ben Emons highlights how the spot-oil-bond-yield correlation has risen to 0.75, higher even than during the Great Financial Crisis. Emons notes that high oil - and thus higher inflation - will impact central bank thinking. The U.S. Federal Reserve has a big meeting next Wednesday the 16th. It's increasingly likely America gets an interest rate hike.
+My take → Respectfully to our Federal Reserve, I'm not sure what a slight interest rate hike is going to do to stem the impact of a war-related oil price shock. And boy, are those fall 2024 interest rate cuts looking more and more ill-timed and, frankly, bizarre.
+TAKE A LOOK
+Watch my two big interviews from Venezuela. The first is with Energy Secretary Chris Wright. We discussed the details of the U.S.-Venezuela oil deal, impact on U.S. domestic oil production, volume of oil going through the Strait of Hormuz:
+The second, Chevron CEO Mike Wirth, who announced plans to more than double its oil production in Venezuela over the next five years:
+INSIDE LINE
+This week's Inside Line interview is with my friend and former CNBC colleague Michelle Caruso-Cabrera. She is one of the few western journalists who has visited both Iran and Venezuela.
+THE GRID
+Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point (CNBC)
+Wealthy investors seek oil and gas assets, but bargains are scarce (CNBC)
+Trump's oil investments have gained millions during Iran war as his accounts keep trading (CNBC)
+Catch up with more on energy including interviews and video content from CNBC and Power Insider.
+Read the last issue of Power Insider here.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
+    publishedAt: "2026-09-11T16:59:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "how-rising-bond-yields-can-wreck-some-po-a93e6b3f",
     title: "How rising bond yields can wreck some portfolios while pumping up others with cash",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -955,414 +1209,6 @@ WATCH: Elon Musk at G20`,
     category: "自動車",
     imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
     readTime: 2,
-  },
-  {
-    id: "affordability-takes-center-stage-in-nort-4123939b",
-    title: "Affordability takes center stage in North Carolina’s pivotal Senate race",
-    titleJa: "ノースカロライナ州の極めて重要な上院選挙戦で手頃な価格が主役に",
-    summaryJa: "ノースカロライナ州コンコード – レイチェル・ワゴナーさんは、ノースカロライナ州コンコードについて、3 人の子供を育てる場所として常に思い描いていたような場所であると説明しています。安全で、良い学校があり、活気のあるダウンタウンと、他の家族でいっぱいの近所です。しかし最近では、その牧歌的な生活を手に入れるのが難しくなってきています。ワゴナーさんは夫が外で働いている間、夫との間にできた3人の子供たちと家にいるが、食料品やガソリン代の高騰で家計が圧迫され、ここ1年は有給の仕事に戻ることを検討してきた。",
-    bodyOriginal: `CONCORD, N.C. – Rachel Wagoner describes Concord, North Carolina, as the kind of place where she always envisioned raising her three children: safe, with good schools, a lively downtown and neighborhoods filled with other families.
-But lately, that idyllic life has become harder to afford. Wagoner stays home with the three children she has with her husband while he works outside the home, but rising grocery and gasoline costs have squeezed the family's budget enough that she has spent the past year considering going back to a paid job.
-"It gets harder and harder to make ends meet," Wagoner told CNBC. Things her family once considered routine "have now become a luxury, like eating out and coming and shopping downtown."
-The cost-of-living squeeze has become a defining issue in North Carolina's pivotal open Senate race to replace retiring Republican Sen. Thom Tillis, as well as in numerous other contests that will determine control of the chamber.
-Meanwhile, Concord keeps growing. Across Cabarrus County, just northeast of Charlotte, subdivisions are spreading, major employers are expanding and billions of dollars in investment are pouring in, including from Eli Lilly. Unemployment is low and poverty is below the national rate.
-Essentially, the county is prospering by most measures. Yet talk to many residents, and that prosperity feels out of reach.
-"Everything feels big," said Nichole Mattes, a mother in nearby Kannapolis who said rent, gasoline and groceries have left her living paycheck to paycheck. "You can't be a single-income household right now. ... It feels impossible."
-Senate candidate and former two-term Democratic Gov. Roy Cooper has spent months campaigning under the slogan "Make Stuff Cost Less."
-"From the grocery store to the gas station, working families here in Concord and around the state are hurting as prices skyrocket," Cooper said at a Sept. 2 event.
-His opponent, Republican Michael Whatley, is trying to flip the script by arguing that Democrats like Cooper helped create today's affordability headaches.
-The former Republican National Committee chair and a close ally of President Donald Trump has pointed to increases in energy, healthcare and housing costs during Cooper's tenure and attacked his opposition to Republican tax cuts.
-"If Candidate Cooper wants to 'make stuff cost less,' he oughta look in the mirror," Whatley campaign spokesman DJ Griffin said in a statement to CNBC.
-It's up to voters to choose who to blame, said Michael Bitzer, a political scientist at Catawba College in Salisbury, North Carolina.
-"Both candidates know people are dissatisfied and feeling the squeeze," Bitzer told CNBC. "Cooper wants voters focused on what they are paying now. Whatley wants them to trace those costs through Cooper's tenure in Raleigh and the inflation of the Biden years."
-Cabarrus as a measuring stick
-Cabarrus County and its Charlotte suburbs provide a prime test case to see which explanation breaks through, said Christopher Cooper, a political scientist at Western Carolina University who is not related to Roy Cooper.
-It remains Republican territory, but by considerably smaller margins than a decade ago. Trump won Cabarrus by nearly 20 percentage points in 2016, but his margin fell to 9.5 points in 2020 and 7.6 points in 2024.
-Part of that shift has come as Charlotte's growth has pushed farther outward, bringing more Democratic-leaning voting patterns into once-rural and exurban communities, Christopher Cooper told CNBC.
-"You see an influx of people coming from Charlotte," Willie Brown, who has lived in the area for six years, told CNBC. "You saw all the new apartment complexes building up right here."
-The political shift is not unique to the Cabarrus suburbs. In battleground Georgia, for instance, Republican presidential nominee Mitt Romney won Georgia's suburban Cobb County by more than 12 percentage points in 2012. Twelve years later, former Vice President and Democratic presidential nominee Kamala Harris carried it by nearly 15 points.
-But growth has put more pressure on household budgets.
-In Cabarrus, the median household earns about $89,000 a year, according to the U.S. Census Bureau. The Massachusetts Institute of Technology's Living Wage Calculator estimates that two working parents with two children would need $113,966 in combined annual income before taxes to cover basic expenses there — roughly $25,000 more than the countywide median household income.
-For Wagoner, closing that financial gap could mean finding a second paycheck. But returning to work would also mean giving up some of what she values most about staying home while potentially bringing new costs of its own.
-"It would really hurt our children too," she said.
-MIT estimates child care costs around $22,466 a year for a Cabarrus household with two working adults and two children.
-A national issue, a North Carolina test
-So far, Cooper's message has seemed to have the most breakthrough.
-He's held a consistent polling advantage throughout the race, though at least one poll shows the race tightening. High Point University had him leading Whatley 50% to 42% among likely voters in April. By August, the gap had narrowed to 50% to 45%.
-The April survey was conducted March 26-April 6 and included a sample of 703 likely voters. The August survey was conducted Aug. 3-Aug. 12 and included a sample of 660 likely voters. Because both were online surveys rather than randomized polls, High Point did not include a margin of error.
-That narrowing comes as Whatley becomes better known. An Elon University poll conducted in late July found 53% of registered voters had heard at least "some" about him, up from 35% in a March Elon poll. The corresponding figure for Cooper was 84%.
-The July survey was conducted July 23-July 31 and included a final sample of 800 North Carolina adults. The March survey was conducted March 13-March 20 and also included 800 adults. Both were conducted online by YouGov; the margin of error for registered voters was plus or minus about 4.4 percentage points in each poll.
-Still, Bitzer said Cooper remains well-positioned, buoyed by a personal brand built over decades in North Carolina politics and two gubernatorial wins while Trump carried the state.
-"Cooper has an authenticity with rural voters that many Democrats struggle to match," Bitzer said. "It doesn't come across as patronizing."
-That could come in handy in Republican-leaning areas like Cabarrus, where Democrats do not necessarily need to win to improve their statewide position.
-"Cooper just needs to keep Cabarrus close, and that would be a good sign." Christopher Cooper said. "He's had success in the past limiting Democratic losses outside the state's major population centers."
-But those margins are ultimately made up of voters like Wagoner. She describes herself as an independent and told CNBC she has not settled on a Senate candidate. Asked whether affordability would influence her vote, Wagoner did not hesitate.
-"Oh, of course," she said.
-Mattes, meanwhile, is still learning about the candidates. Brown also said he plans to vote but has not settled on a candidate, telling CNBC that healthcare and the cost of living are among the issues that matter most.
-"Concord is a great place to live," he said. "But... hopefully we can afford it."`,
-    bodyJa: `ノースカロライナ州コンコード – レイチェル・ワゴナーさんは、ノースカロライナ州コンコードについて、3 人の子供を育てる場所として常に思い描いていたような場所であると説明しています。安全で、良い学校があり、活気のあるダウンタウンと、他の家族でいっぱいの近所です。
-しかし最近では、その牧歌的な生活を手に入れるのが難しくなってきています。ワゴナーさんは夫が外で働いている間、夫との間にできた3人の子供たちと家にいるが、食料品やガソリン代の高騰で家計が圧迫され、ここ1年は有給の仕事に戻ることを検討してきた。
-「家計をやりくりするのがますます難しくなっている」とワゴナーさんはCNBCに語った。彼女の家族が以前は日常的だと思っていたことは、「今ではダウンタウンに外食したり、ダウンタウンに来て買い物をしたりするなど、贅沢になっています。」
-生活費の圧迫は、引退する共和党上院議員トム・ティリス氏の後任を巡るノースカロライナ州の極めて重要な上院公開選挙戦や、下院の主導権を握る他の多くの選挙戦において決定的な問題となっている。
-その間、コンコードは成長を続けています。シャーロットのすぐ北東にあるカバラス郡全体では、分譲地が広がり、大手雇用主が拡大し、イーライリリーなどから数十億ドルの投資が流入している。失業率は低く、貧困率は全国水準を下回っています。
-基本的に、この郡はほとんどの点で繁栄している。しかし、多くの住民と話をすると、その繁栄は手の届かないところにあると感じています。
-カナポリス近郊に住む母親、ニコール・マッツさんは「何もかもが大きく感じられる」と語った。家賃、ガソリン代、食料品で生活費が足りなくなったという。 「今は片働き世帯にはなれない。……それは不可能だと思うよ。」
-上院候補で元民主党知事を２期務めたロイ・クーパー氏は、「物品のコストを削減する」というスローガンのもと、数カ月かけて選挙活動を行ってきた。
-クーパー氏は9月2日のイベントで、「食料品店からガソリンスタンドに至るまで、ここコンコードや州内の勤労者世帯は物価の高騰で打撃を受けている」と述べた。
-反対派の共和党員マイケル・ワットリー氏は、クーパー氏のような民主党員が今日の手頃な価格の悩みを生み出したと主張して、筋書きをひっくり返そうとしている。
-元共和党全国委員会委員長でドナルド・トランプ大統領の親しい盟友である同氏は、クーパー氏の在任期間中のエネルギー、医療、住宅費の増加を指摘し、共和党減税への同氏の反対を攻撃した。
-ワットリー陣営のスポークスマン、DJ・グリフィン氏はCNBCへの声明で、「クーパー候補が『物品のコストを安くしたい』と望むなら、鏡を見るべきだ」と述べた。
-ノースカロライナ州ソールズベリーのカトーバ大学の政治学者マイケル・ビッツァー氏は、誰を非難するかは有権者次第だと述べた。
-ビッツァー氏はＣＮＢＣに対し、「両候補とも国民が不満を持ち、圧迫感を感じていることを承知している」と語った。 「クーパー氏は、有権者が今支払っている金額に注目してほしいと考えている。ワットリー氏は、ローリーでのクーパー氏の在職期間とバイデン時代のインフレを通じて、そのコストを追跡してもらいたいと考えている。」
-物差しとしてのカバラス
-ロイ・クーパーとは無関係であるウェスタンカロライナ大学の政治学者クリストファー・クーパー氏は、カバラス郡とそのシャーロット郊外は、どの説明が突破されるかを見極める主要なテストケースとなると述べた。
-同州は依然として共和党の領土だが、その差は10年前に比べてかなり縮小している。トランプ氏は2016年にカバラス氏に20ポイント近くの差をつけて勝利したが、その差は2020年には9.5ポイント、2024年には7.6ポイントに低下した。
-クリストファー・クーパー氏はCNBCに対し、シャーロットの成長がさらに外側に押し出し、かつては田舎や郊外だったコミュニティに民主党寄りの投票パターンが持ち込まれたことで、その変化の一部が生じたと語った。
-「シャーロットから人が流入しているようだ」とこの地域に6年間住んでいるウィリー・ブラウンさんはCNBCに語った。 「ここに新しい集合住宅が建っているのを見ましたね。」
-政治的変化はカバラス郊外に限ったことではない。例えば激戦区ジョージア州では、2012年に共和党大統領候補のミット・ロムニー氏がジョージア州郊外のコブ郡で12ポイント以上の差をつけて勝利した。その12年後、元副大統領で民主党大統領候補のカマラ・ハリス氏が15ポイント近くの差をつけて勝利した。
-しかし、経済成長は家計への圧力をさらに高めている。
-米国国勢調査局によると、カバラスでは世帯の平均年収が約8万9000ドルだという。マサチューセッツ工科大学の生活賃金計算ツールによると、共働きで子供 2 人がいる場合、基礎的な支出をまかなうには税引き前年収合計で 113,966 ドルが必要になると試算されており、これは郡全体の世帯収入の中央値より約 25,000 ドル多いことになります。
-ワゴナーにとって、その経済的ギャップを埋めることは、2番目の給料を見つけることを意味する可能性があります。しかし、仕事に戻るということは、彼女が家にいることで最も大切にしていることの一部を放棄することを意味すると同時に、新たなコストが発生する可能性もある。
-「それは私たちの子供たちにも本当に傷つくでしょう」と彼女は言いました。
-MIT は、働く大人 2 名と子供 2 名がいるカバラスの世帯の育児費用を年間約 22,466 ドルと見積もっています。
-全国的な問題、ノースカロライナ州のテスト
-これまでのところ、クーパー氏のメッセージは最も画期的なものであるように思われる。
-彼はレースを通して一貫して支持率で有利を保ってきたが、少なくとも1つの世論調査ではレースが緊迫していることが示されている。ハイポイント大学では、4月の有権者候補の中で同氏がワットリー氏を50％対42％リードしていた。 8月までにその差は50％対45％に縮まった。
-4月の調査は3月26日から4月6日にかけて実施され、有権者となる可能性の高い703人のサンプルが含まれていた。 8月の調査は8月3日～8月に実施された。 12 には、有権者と思われる 660 人のサンプルが含まれていました。どちらもランダム化された世論調査ではなくオンライン調査であったため、High Point には誤差の範囲は含まれていませんでした。
-ワットリーの知名度が高まるにつれ、その幅は狭まっていきます。 7月下旬に実施されたイーロン大学の世論調査では、登録有権者の53％が彼について少なくとも「ある程度」聞いたことがあることが判明し、3月のイーロン大学の世論調査の35％から増加した。クーパーの対応する数字は 84% でした。
-7月の調査は7月23日から7月31日まで実施され、ノースカロライナ州成人800人の最終サンプルが含まれた。 3月の調査は3月13日から3月20日にかけて実施され、成人800人も対象となった。どちらも YouGov によってオンラインで実施されました。登録有権者の誤差の範囲は、各世論調査でプラスマイナス約 4.4 パーセント ポイントでした。
-それでもビッツァー氏は、クーパー氏はノースカロライナ州政治で数十年かけて築いた個人ブランドと、トランプ氏が州を担いながら知事選で２度勝利したことによって、依然として有利な立場にあると述べた。
-ビッツァー氏は、「クーパー氏は地方の有権者に信頼感を持っており、多くの民主党議員がそれに匹敵するのに苦労している」と述べた。 「それは恩着せがましいとは思えません。」
-これは、州全体の地位を向上させるために民主党が必ずしも勝利する必要がないカバラスのような共和党寄りの地域では役立つ可能性がある。
-「クーパーはカバラスを近づけるだけでいいし、それは良い兆候だろう。」クリストファー・クーパーは語った。 「彼は過去に州の主要な人口密集地以外で民主党の損失を抑えることに成功してきた。」
-しかし、その差は最終的にはワゴナーのような有権者によって占められる。彼女は自身を無所属だと述べ、上院候補者はまだ決まっていないとCNBCに語った。手頃な価格が投票に影響を与えるかとの質問に、ワゴナー氏は躊躇しなかった。
-「ああ、もちろん」と彼女は言った。
-一方、マテス氏はまだ候補者について勉強中だ。ブラウン氏はまた、投票するつもりだが候補者は決まっていないとし、医療と生活費が最も重要な問題の一つであるとCNBCに語った。
-「コンコードは住むには素晴らしい場所です」と彼は言った。 「しかし...うまくいけば、私たちはそれを買う余裕があります。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/north-carolina-senate-race-affordability-cooper-whatley.html",
-    publishedAt: "2026-09-10T16:10:08+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "oil-gas-and-borrowing-costs-surge-as-fea-97607ae5",
-    title: "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-    titleJa: "中東への懸念が高まる中、石油、ガス、借入コストが高騰",
-    summaryJa: "中東への懸念が高まる中、石油、ガス、借入コストが高騰- 公開されました",
-    bodyOriginal: `Oil, gas and borrowing costs surge as fears over Middle East escalate
-- Published
-The price of oil has jumped to $105 a barrel amid signs the conflict in the Middle East will not be resolved quickly, fuelling fears that inflation could accelerate.
-With the conflict between the US and Iran in the Gulf intensifying in recent days, the cost of both crude oil and gas has been rising sharply. Brent crude went back above $100 a barrel on Wednesday and has continued to climb.
-The war has led to the effective closure of the Strait of Hormuz, preventing supplies of oil and gas from the Gulf from reaching global markets.
-Concerns have also grown after Iran-aligned Houthi forces were reported to have seized Yemen's port of Mocha, a key Red Sea port.
-The move could elevate fears of further shipping disruptions.
-Worries over higher inflation have in turn helped to push bond yields in the UK to their highest level in decades.
-Speaking at a Republican Party convention in Texas on Wednesday, President Trump said he did not think the fighting would end until after the US mid-term elections in November.
-The price of natural gas has also been soaring on wholesale markets. In the UK, it rose above 200p a therm for the first time since the end of 2022.
-Storage levels in Europe are much lower than normal for the time of year, and the need to fill reserves ahead of the winter has helped to push up prices.
-UK consumers are protected from short term spikes on the wholesale gas markets by Ofgem's price cap. But if prices remain high for an extended period, households still face steeper bills.
-The cap is already due to increase by 3.6% at the start of October, with the next change after that coming in January.
-The increase in energy costs has in turn raised fears of a spike in inflation, and this has also pushed up yields on government bonds around the world.
-In the UK, yields on 10-year bonds were at their highest since 2007 today, while those on 20- and 30-year bonds were at levels not seen since 1998.
-This implies a higher cost of borrowing for the government, at a time when public finances are under pressure.
-But it could also have a direct impact on households as well, as it affects the rates paid by consumers for some financial products, such as fixed-rate mortgages.
-Related topics
-- Published36 minutes ago`,
-    bodyJa: `中東への懸念が高まる中、石油、ガス、借入コストが高騰
-- 公開されました
-中東紛争がすぐには解決しない兆候を背景に原油価格が１バレル＝１０５ドルに急騰し、インフレが加速するのではないかとの懸念が高まっている。
-ここ数日、湾岸地域における米国とイランの紛争が激化しており、原油とガスの価格が高騰している。ブレント原油は水曜日に1バレル＝100ドルを超え、上昇を続けている。
-この戦争によりホルムズ海峡は事実上閉鎖され、湾岸からの石油とガスの供給が世界市場に届かなくなった。
-イランと同盟を組むフーシ派部隊がイエメンの紅海の重要港であるモカ港を占領したと報じられたことを受けて、懸念も高まっている。
-この動きにより、輸送にさらなる混乱が生じるのではないかとの懸念が高まる可能性がある。
-インフレ高進への懸念が英国の債券利回りをここ数十年で最高水準に押し上げた。
-トランプ大統領は水曜日、テキサス州で開かれた共和党大会で演説し、11月の米中間選挙が終わるまで戦闘が終わるとは思わないと述べた。
-卸売市場でも天然ガス価格が高騰している。英国では２０２２年末以来初めて１サーム当たり２００ペンスを超えた。
-ヨーロッパの貯蔵レベルは例年よりもはるかに低く、冬を前に埋蔵量を埋める必要性が価格を押し上げる一因となっている。
-英国の消費者は、Ofgem の価格上限により、ガス卸売市場の短期的な高騰から保護されています。しかし、物価が長期間にわたって高止まりすれば、家計は依然として高額な請求に直面することになる。
-上限はすでに10月初めに3.6％引き上げられる予定で、その後の次の変更は1月になる。
-エネルギーコストの上昇によりインフレ急増の懸念が高まり、これにより世界中の国債利回りも上昇している。
-英国では今日、10年債の利回りが2007年以来の最高水準となった一方、20年債と30年債の利回りは1998年以来の水準となった。
-これは、財政が圧迫されている現在、政府の借入コストが上昇していることを意味している。
-しかし、固定金利住宅ローンなど一部の金融商品に対して消費者が支払う金利にも影響するため、家計にも直接影響を与える可能性がある。
-関連トピック
-- 36 分前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-10T15:56:33+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f162/live/08923520-ad29-11f1-980e-4fc6f1211def.jpg",
-    readTime: 2,
-  },
-  {
-    id: "treasury-yields-surge-toward-the-danger-3947eb89",
-    title: "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
-    titleJa: "インフレ圧力が高まる中、米国債利回りは株式にとって危険水域に向けて急上昇",
-    summaryJa: "原油価格は５月下旬以来の高水準となったが、全体インフレ統計の上昇により指標となる１０年債利回りは主要な５％水準に近づいた。",
-    bodyOriginal: `Oil prices were at their highest levels since late May, while rising wholesale inflation data sent benchmark 10-year yields closer to the key 5% level.`,
-    bodyJa: `原油価格は５月下旬以来の高水準となったが、全体インフレ統計の上昇により指標となる１０年債利回りは主要な５％水準に近づいた。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T15:48:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-97261506",
-    readTime: 2,
-  },
-  {
-    id: "humans-need-to-surf-the-wave-of-ai-rathe-dd548a39",
-    title: "Humans need to 'surf the wave' of AI rather than get swallowed by it, Chesky says at Communacopia",
-    titleJa: "人間はAIに飲み込まれるのではなく、AIの「波に乗る」必要があるとチェスキー氏がコミュナコピアで語る",
-    summaryJa: "Nvidia CEO のジェンセン・フアン氏、Uber CEO のダラ・コスロシャヒ氏、SpaceX CFO のブレット・ジョンセン氏が、ゴールドマン・サックス・コミュナコピア + テクノロジー・カンファレンスで講演する予定です。",
-    bodyOriginal: `The Goldman Sachs Communacopia + Technology Conference continued on Thursday with Nvidia CEO Jensen Huang, Uber CEO Dara Khosrowshahi, and SpaceX CFO Bret Johnsen among the notable names set to take the stage.
-Artificial intelligence has been a big topic of discussion so far at the annual meeting of top executives, which started Tuesday.
-AirBnb CEO Brian Chesky said the technology wasn't "inherently good or bad" in an interview with CNBC's David Faber that aired Thursday. He said the technology's potential is in human hands.
-"I'm not confident I'm right. I'm not confident that it's going to be positive, but I think it can be. It's like nuclear power; it can either light up a city or destroy a city," Chesky said.
-He added that his AI theory is of a "cognitive revolution" that helps humans get smarter along with the technology.
-"We need to remind people of how valuable they will be to society, and that AI is a wave, and we can surf the wave rather than get swallowed underneath the water," he said.`,
-    bodyJa: `ゴールドマン・サックス・コミュナコピア＋テクノロジー・カンファレンスは木曜日も引き続き開催され、Nvidia CEOのジェンセン・ファン氏、UberのCEOであるDara Khosrowshahi氏、SpaceXのCFOであるBret Johnsen氏といった著名な人物が登壇予定だった。
-人工知能は、火曜日に始まった年次経営幹部会議でこれまでのところ大きな話題となっている。
-AirBnbの最高経営責任者（CEO）ブライアン・チェスキー氏は、木曜日に放映されたCNBCのデイビッド・フェイバー氏とのインタビューで、この技術は「本質的に良いも悪いも無い」と語った。同氏は、このテクノロジーの可能性は人間の手中にあると述べた。
-「自分が正しいかどうかは自信がない。プラスになるかどうかは自信はないが、プラスになる可能性はあると思う。これは原子力発電のようなもので、都市を照らすこともできるし、破壊することもできる」とチェスキー氏は語った。
-同氏は、自身のAI理論はテクノロジーとともに人間の賢さの向上を助ける「認知革命」であると付け加えた。
-「私たちは人々に、自分たちが社会にとってどれほど価値があるのか​​、そしてAIは波であり、私たちは水に飲み込まれるのではなく波に乗ることができるということを思い出させる必要がある」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/goldman-sachs-communacopia-technology-conference-ai-tech.html",
-    publishedAt: "2026-09-10T15:46:35+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "kimmel-says-interview-with-senate-candid-289c8878",
-    title: "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
-    titleJa: "キンメル氏、FCCの脅しの中、上院候補タラリコ氏のインタビューはABCでは放送されないと語る",
-    summaryJa: "ディズニー傘下のABC社で深夜トーク番組の司会を務めるジミー・キンメル氏は、連邦通信委員会の精査に備えていくつかの予防措置を講じている。キンメル氏は水曜夜、民主党上院議員候補ジェームズ・タラリコ氏のインタビューを国営テレビで放送しないと発表した。インタビューは代わりに木曜日に YouTube で放送されます。",
-    bodyOriginal: `Jimmy Kimmel, the late-night talk show host with Disney-owned ABC, is taking some precautions in the face of scrutiny by the Federal Communications Commission.
-Kimmel said on Wednesday night that he will not air an interview with Democratic U.S. Senate candidate James Talarico on national television. The interview will air on YouTube on Thursday instead.
-"For some reason, and I can't seem to figure out what that reason is, something has changed," Kimmel said during his Wednesday night broadcast. "Now that [Trump] is president, his FCC has threatened me, threatened our show, threatened our network, ABC, our affiliates, our local stations, based on simple, traditional editorial decisions."
-He added that the decision not to broadcast the interview on TV is "out of consideration" for ABC affiliates who he said would have to "deal with this nonsense" of FCC scrutiny.
-"In the America we live in right now, that is the best we can do, until November, of course," Kimmel said.
-The FCC did not immediately respond to a request for comment.
-Talarico, a Texas state representative, is locked in a tight Senate race against Texas Attorney General Ken Paxton, who's gotten an endorsement from President Donald Trump. Public polling has shown Talarico slightly ahead of Paxton, a controversial figure in Texas who was impeached by the state House of Representatives over allegations of corruption. He was acquitted by the state Senate.
-In January, the FCC called into question whether TV talk shows are "bona fide" news programs and are therefore exempt from equal airtime rules for political candidates. "The View," another ABC program, has faced similar scrutiny from the FCC.
-Kimmel said Wednesday that he has been interviewing political candidates, including Trump himself, for years.
-Kimmel's show has become a lightning rod for debates around broadcasting rights, First Amendment protections and government intervention.
-Last year, ABC-affiliate station owners opted not to air "Jimmy Kimmel Live!" after comments he made during a monologue following the killing of Charlie Kirk. ABC suspended the show for roughly a week, and Kimmel later said, "It was never my intention to make light of the murder of a young man."
-But ABC has faced continued pressure from the Trump administration since.
-In April, the FCC launched an early renewal process for ABC-owned stations, citing an investigation into the company's diversity, equity and inclusion practices.
-ABC filed the license renewals, but in August it sued the agency over First Amendment concerns, calling its investigation into the company a "retaliatory campaign."
-— CNBC's Garrett Downs contributed to this report.`,
-    bodyJa: `ディズニー傘下のABC社で深夜トーク番組の司会を務めるジミー・キンメル氏は、連邦通信委員会の精査に備えていくつかの予防措置を講じている。
-キンメル氏は水曜夜、民主党上院議員候補ジェームズ・タラリコ氏のインタビューを国営テレビで放送しないと発表した。インタビューは代わりに木曜日に YouTube で放送されます。
-キンメル氏は水曜夜の放送で、「どういうわけか、その理由は分からないが、何かが変わった」と語った。 「（トランプ氏が）大統領になった今、彼のFCCは、単純で伝統的な編集上の決定に基づいて、私を脅迫し、私たちの番組を脅し、私たちのネットワーク、ABC、系列局、地方局を脅迫しました。」
-同氏は、インタビューをテレビで放送しないという決定は、FCCの精査という「このナンセンスな行為」に対処しなければならないであろうABC系列局への「考慮外」であるとも付け加えた。
-「私たちが現在住んでいるアメリカでは、それが11月まではできる最善のことだ」とキンメル氏は語った。
-FCCはコメント要請に応じなかった。
-テキサス州下院議員タラリコ氏は、上院でドナルド・トランプ大統領の支持を得ているテキサス州司法長官ケン・パクストン氏との接戦に巻き込まれている。世論調査によると、汚職容疑で州下院で弾劾されたテキサス州の物議を醸す人物であるパクストン氏をタラリコ氏がわずかに上回っている。彼は州上院によって無罪となった。
-FCCは1月、テレビのトーク番組が「正真正銘の」ニュース番組であり、したがって政治的候補者に対する放送時間の均等規定から免除されているのかどうか疑問を呈した。別のABC番組「ザ・ビュー」もFCCから同様の監視にさらされている。
-キンメル氏は水曜日、トランプ氏自身を含む政治候補者に何年もインタビューしてきたと語った。
-キンメルの番組は、放送権、憲法修正第 1 条の保護、政府の介入をめぐる議論の避雷針となった。
-昨年、ABC系列局のオーナーらは「ジミー・キンメル・ライブ!」を放送しないことを選択した。チャーリー・カーク殺害後の独白中に彼が述べたコメントの後。 ABCは番組を約1週間中断したが、キンメル氏は後に「若者の殺害を軽視するつもりはなかった」と語った。
-しかしABCはそれ以来、トランプ政権からの圧力にさらされ続けている。
-FCCは4月、同社の多様性、公平性、包括性の実践に関する調査を理由に、ABC所有の放送局の早期更新プロセスを開始した。
-ABCはライセンス更新を申請したが、8月に合衆国憲法修正第1条への懸念を理由に同社に対する調査を「報復キャンペーン」であるとして訴訟を起こした。
-— CNBC のギャレット・ダウンズがこのレポートに寄稿しました。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
-    publishedAt: "2026-09-10T15:45:09+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "the-likelihood-of-a-fed-interest-rate-hi-6f4b446d",
-    title: "The likelihood of a Fed interest rate hike next week just got a lot higher",
-    titleJa: "FRBが来週利上げする可能性がかなり高まった",
-    summaryJa: "インフレにとって好ましくない要因が膨らみ、連邦準備理事会は来週利上げに踏み切る可能性が高く、木曜日の市場価格から判断すると、年末までに利上げが行われる可能性がある。ＣＭＥグループのフェドウォッチの指標によると、８月の卸売価格の上昇と米原油価格の偶然の上昇が１バレル＝１００ドルを超えたことを示す報道を受け、トレーダーらは朝方の取引で利上げの可能性を７０％に押し上げた。",
-    bodyOriginal: `A swell of unfriendly factors for inflation likely will push the Federal Reserve to an interest rate hike next week and there's possibly another before the end of the year, judging by market pricing Thursday.
-Traders pushed chances for a rate increase to 70% in morning action, following a report showing increasing wholesale prices in August and a coincidental jump in U.S. crude oil prices past $100 a barrel, according to the CME Group's FedWatch gauge.
-They also nudged chances of another increase in December to close to 60% as inflation dynamics are providing stubborn and more likely to generate a central bank reaction.
-"As the conflict with Iran drags on longer than many expected, inflation pressures are becoming increasingly entrenched, leaving investors in search of a catalyst strong enough to change the inflation narrative," wrote Jeffrey Roach, chief economist at LPL Financial. "At this rate, a hike in rates next week appears likely."
-The producer price index, a measure of wholesale and pipeline cost pressures, rose 0.4% in August. Though that was in line with forecasts, it followed an upwardly revised 0.1% increase in July, together pushing the annual PPI level to 5.4%, slightly higher than forecast.
-At the same time, intensified hostilities in the Middle East spooked commodities traders, sending U.S. crude up 4% to just over the $100 barrier.
-Finally, the European Central Bank announced a quarter percentage point hike and raised its inflation forecast on worries that the Iran war would have deeper economic impacts and inflict a longer-term hit on consumer prices.
-"More pressure is coming because crude and refined products have kept rising since the August data was collected," said David Russell, global head of market strategy at TradeStation. "The ongoing spike in oil, combined with low jobless claims, make it hard for the Fed to not hike next week."
-One more report
-Central bank policymakers will get their final look at inflation data Friday when the Bureau of Labor Statistics releases its consumer price index.
-The Dow Jones consensus is for a headline annual reading of 3.4%, though the core excluding food and energy is forecast at 2.4%.
-The Fed, though, focuses on the Commerce Department's personal consumption expenditures price index, which showed core at 3.3% in July and headline at 3.7%. Fed Chairman Kevin Warsh reemphasized recently that the PCE price index is the Fed's official yardstick for inflation.
-Bank of America senior U.S. economist Stephen Juneau estimated that, accounting for the August PPI reading, core PCE is tracking at a 0.26% monthly rate, which would get rounded up to 0.3%.
-"This could move significantly tomorrow after CPI, but if we are correct, it should greenlight a hike at next week's Fed meeting," Juneau said in a note.
-BofA has one of the most hawkish Fed forecasts on Wall Street, expecting three hikes at upcoming meetings.
-While that's out of consensus with current futures pricing, recent developments point to a more aggressive Fed when it comes to inflation fighting.
-Peter Boockvar, chief investment officer at One Point BFG Wealth Partners, said that even a soft CPI reading might just indicate that companies are having a harder time passing through higher prices to consumers.
-"Those who just look at consumer prices for their inflation information and interest rate predictions are not looking at the complete picture, and today's PPI is evidence still of an inflation problem throughout the supply chain," Boockvar said.`,
-    bodyJa: `インフレにとって好ましくない要因が膨らみ、連邦準備理事会は来週利上げに踏み切る可能性が高く、木曜日の市場価格から判断すると、年末までに利上げが行われる可能性がある。
-ＣＭＥグループのフェドウォッチの指標によると、８月の卸売価格の上昇と米原油価格の偶然の上昇が１バレル＝１００ドルを超えたことを示す報道を受け、トレーダーらは朝方の取引で利上げの可能性を７０％に押し上げた。
-また、インフレ動向が頑強で中銀の反応を生む可能性が高まっていることから、１２月の追加利上げの可能性を６０％近くに押し上げた。
-ＬＰＬフィナンシャルのチーフエコノミスト、ジェフリー・ローチ氏は「イランとの紛争が大方の予想より長引く中、インフレ圧力はますます強まり、投資家はインフレの物語を変えるのに十分強力な触媒を求めている」と述べた。 「このままでは来週利上げが行われる可能性が高い。」
-卸売およびパイプラインのコスト圧力を示す生産者物価指数は８月に０．４％上昇した。これは予想と一致したが、7月に上方修正された0.1%上昇に続き、年間PPI水準は予想をわずかに上回る5.4%に押し上げられた。
-同時に、中東での敵対行為の激化は商品トレーダーらを恐怖させ、米国原油価格は4％上昇して100ドルの壁をわずかに超えた。
-最後に、欧州中央銀行は、イラン戦争が経済にさらに深刻な影響を与え、消費者物価に長期的な打撃を与えるのではないかとの懸念から、４分の１ポイントの利上げを発表し、インフレ見通しを引き上げた。
-トレードス​​テーションの市場戦略グローバル責任者デビッド・ラッセル氏は「８月のデータ収集以来、原油と精製製品が上昇し続けているため、さらなる圧力がかかっている」と述べた。 「原油価格の高騰が続いており、失業保険申請件数が低いことも相まって、FRBが来週利上げしないのは難しくなっている。」
-もう一つご報告
-中央銀行の政策立案者らは金曜日、労働統計局が消費者物価指数を発表する際にインフレ統計を最終的に確認することになる。
-ダウ・ジョーンズのコンセンサスでは年間総合指数が3.4％となるが、食品とエネルギーを除くコアは2.4％と予想されている。
-しかしFRBは商務省の個人消費支出価格指数に注目しており、7月のコア指数は3.3％、ヘッドライン指数は3.7％だった。 FRBのケビン・ウォーシュ議長は最近、PCE価格指数がFRBのインフレに関する公式の尺度であると改めて強調した。
-バンク・オブ・アメリカ米国シニアエコノミストのスティーブン・ジュノー氏は、8月のPPI測定値を考慮すると、コアPCEは月率0.26％で推移しており、切り上げられると0.3％になると推定した。
-ジュノー氏はメモで「明日のＣＰＩ後に大きく変動する可能性があるが、われわれの考えが正しければ、来週のＦＯＭＣで利上げにゴーサインが出るはずだ」と述べた。
-BofAはウォール街で最もタカ派的なFRBの見通しを立てており、今後の会合で3回の利上げを予想している。
-これは現在の先物価格設定とのコンセンサスから外れているが、最近の動向はインフレとの戦いに関してFRBがより積極的であることを示している。
-ワン・ポイントＢＦＧウェルス・パートナーズの最高投資責任者、ピーター・ブックヴァー氏は、ＣＰＩが軟調だったとしても、企業がより高い価格を消費者に還元するのに苦労していることを示しているだけかもしれないと述べた。
-ブックヴァー氏は「インフレ情報や金利予測のために消費者物価だけを見ている人は全体像を見ているわけではない。今日のＰＰＩは依然としてサプライチェーン全体でインフレ問題が存在する証拠だ」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-    publishedAt: "2026-09-10T14:51:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "apple-makes-biggest-change-to-iphone-rel-7abbbbdd",
-    title: "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
-    titleJa: "Apple、CEOとしてのTernus氏の初のショーケースでiPhoneのリリースペースに過去7年間で最大の変更を加える",
-    summaryJa: "CEOとしてのジョン・ターナス氏のデビューショーケースで、AppleはiPhone Duoと呼ばれる初の折りたたみ式携帯電話や、より大きな画面を備えたiPhone 18 ProとPro Maxを含む一連の新製品を発表した。しかし、水曜日のイベントで投資家にとって最大のニュースは、Proという名のないiPhone 18が登場しないことかもしれない。",
-    bodyOriginal: `In John Ternus' debut showcase as CEO, Apple unveiled a swarm of new products, including its first foldable phone called the iPhone Duo, as well as the iPhone 18 Pro and Pro Max with a larger screen.
-But the biggest news for investors from Wednesday's event may be the absence of an iPhone 18 without the Pro moniker.
-Analysts in recent months have largely expected this shift in Apple's annual cadence, and foresee Apple releasing its mainline iPhone at an event in the spring, when the company has previously announced new low-cost models, including the iPhone SE and iPhone 16e.
-The least expensive new iPhone announced on Wednesday was the iPhone 18 Pro, which starts at $1,199 in the U.S., representing a $100 price increase. Prior to the event, the iPhone 17 cost $799, but was listed at $899 afterwards. Apple raised prices of Macs and iPads in June in response to a global shortage in memory and other components that former CEO Tim Cook called "unsustainable" in an interview with the Wall Street Journal.
-Ternus replaced Cook at the helm on Sept. 1, becoming just the second Apple CEO since Steve Jobs resigned in 2011 shortly before his death. Cook has warned that supply constraints will persist, and the company noted during its earnings call in July that it would become an even bigger issue for the company during the September quarter.
-Holding the mainstream iPhones until the spring is a new tactic for Apple. Industry analysts said on Wednesday that the company has been looking to smooth out its revenue from quarter to quarter, and could potentially achieve that with the split-launch strategy.
-Historically, Apple's biggest quarter has been its first fiscal quarter, which is the first full quarter of iPhone sales and also includes Christmas. The two quarters that follow are typically much slower.
-A big iPhone launch in March or April with a lower-priced device would do a lot to smooth out Apple's sales during its slower season, analysts said .
-"When Apple puts all the focus on the last quarter of the year, of course that generates quite strong revenues, but they were missing when the second quarter comes along with with much lower sales," said Francisco Jeronimo, a vice president at market researcher IDC, in an interview. "I think this will give them some stability in terms of balancing the revenues throughout the year."
-Last decade, Apple split its iPhone lineup into two broad parts when it released the iPhone 11 and a more expensive Pro version with its best displays and cameras. Since then, Apple has announced its Pro and standard phones at the same fall event with identical release dates.
-Apple's average selling prices (ASPs) have been going up in recent years, as its Pro phones sell better than the mainline options. The new approach plays into that trend, but has potential downsides, according to Bank of America analyst Wamsi Mohan.
-"In our view, the split launch could support mix and ASPs," Mohan wrote in a note this week. But, he added, it "creates some risk that price-sensitive consumers defer upgrades until the lower-priced models arrive."
-In the first half of 2026, Apple's iPhone 17 Pro and iPhone 17 Pro Max represented 54% of iPhone sales, according to IDC estimates. The regular iPhone 17 represented 26% of iPhone sales.
-"That's how Apple has been playing the game as as the market started to slow down in terms of of smartphone adoption and upgrades," Jeronimo said.
-There's also a supply chain play at work. Releasing only two new models instead of four could significantly simplify what Apple has to secure from its supply chain, said Neil Shah, vice president of research at Counterpoint Research.
-"High memory pricing is not helping Apple launch multiple iPhones at the same time," Shah said.
-At the close of Wednesday's event, the company introduced the foldable iPhone Duo, which will start at $1,999, in line with competitive offerings from companies like Huawei.
-Craig Federighi, senior vice president of software engineering, said Apple had redesigned much of its iOS software to take advantage of the two screens, moving buttons and other controls. Users can multitask with two apps at the same time and can use Apple's stylus called Pencil.
-"For a device that plays such a central role in your life, a larger display would open up entirely new possibilities," Ternus said at the launch. "We think the best way to achieve that is with a foldable design."
-The phone will be powered by the new C2 modem, the second-generation modem Apple has made in-house and a move that further reduces reliance on Qualcomm. Johny Srouji, Apple's chief hardware officer, said in the keynote video that C2 is 50% faster than its predecessor and runs at 15% lower energy.`,
-    bodyJa: `CEOとしてのジョン・ターナス氏のデビューショーケースで、AppleはiPhone Duoと呼ばれる初の折りたたみ式携帯電話や、より大きな画面を備えたiPhone 18 ProとPro Maxを含む一連の新製品を発表した。
-しかし、水曜日のイベントで投資家にとって最大のニュースは、Proという名のないiPhone 18が登場しないことかもしれない。
-アナリストらはここ数カ月、アップルの年間ペースのこの変化をおおむね予想しており、アップルはこれまでにiPhone SEやiPhone 16eなどの新低価格モデルを発表してきた春のイベントで主力製品のiPhoneを発売すると予想している。
-水曜日に発表された最も安価な新しいiPhoneはiPhone 18 Proで、米国での価格は1,199ドルからで、100ドルの値上げに相当する。イベント前、iPhone 17の価格は799ドルだったが、イベント後には899ドルで出品された。 Appleは、メモリやその他の部品の世界的な不足に対応して、6月にMacとiPadの価格を引き上げた。元最高経営責任者（CEO）のティム・クック氏はウォール・ストリート・ジャーナルとのインタビューで「持続不可能」と述べた。
-ターナス氏は9月1日にクック氏に代わって指揮を執り、スティーブ・ジョブズ氏が死去する直前の2011年に辞任して以来、2人目のアップルCEOとなった。クック氏は供給制約が今後も続くと警告しており、同社は7月の決算会見で、9月四半期には供給制約が同社にとってさらに大きな問題になるだろうと指摘した。
-春まで主流のiPhoneを維持することは、Appleにとって新たな戦略である。業界アナリストらは水曜日、同社は四半期ごとに収益を平準化することを目指しており、分割発売戦略でそれを達成できる可能性があると述べた。
-歴史的に、Apple にとって最大の四半期は第 1 会計四半期であり、iPhone の販売が開始される最初の四半期全体であり、クリスマスも含まれます。その後の 2 四半期は通常、はるかに遅くなります。
-アナリストらは、３月か４月に低価格端末を備えた大規模なｉＰｈｏｎｅが発売されれば、アップルの閑散期の売上を平準化するのに大いに役立つだろうと述べた。
-市場調査会社IDCのバイスプレジデント、フランシスコ・ジェロニモ氏はインタビューで、「アップルが今年の最終四半期に全力を注ぐときは、もちろんそれは非常に好調な収益を生むが、第2四半期が来ると売り上げが大幅に減少し、その収益が失われてしまう」と語った。 「これにより、年間を通じて収益のバランスをとるという点である程度の安定性が得られると思います。」
-過去10年、AppleはiPhone 11をリリースしたとき、iPhoneのラインナップを大きく2つに分割し、もう1つは最高のディスプレイとカメラを備えたより高価なProバージョンをリリースした。それ以来、Apple は同じ秋のイベントで Pro と標準の携帯電話を同じ発売日で発表してきました。
-Apple の平均販売価格 (ASP) は、Pro スマートフォンが主流のオプションよりもよく売れているため、近年上昇しています。バンク・オブ・アメリカのアナリスト、ワムシ・モハン氏によると、新たなアプローチはこうした傾向に影響を及ぼしているが、潜在的なマイナス面もあるという。
-「我々の見解では、分割ローンチはミックスとASPをサポートする可能性がある」とモハン氏は今週メモに書いた。しかし、「価格に敏感な消費者が、より低価格のモデルが登場するまでアップグレードを延期するというリスクが生じる」とも付け加えた。
-IDCの推計によると、2026年上半期にはAppleのiPhone 17 ProとiPhone 17 Pro MaxがiPhone販売の54%を占めた。通常の iPhone 17 は iPhone 販売の 26% を占めました。
-ジェロニモ氏は、「スマートフォンの普及とアップグレードという点で市場が減速し始めた中で、アップルはこのように戦略を立ててきた」と語った。
-サプライチェーンの問題も働いています。カウンターポイント・リサーチ社の調査担当副社長ニール・シャー氏は、新モデルを4モデルではなく2モデルのみ発売することで、アップルがサプライチェーンから確保しなければならないものを大幅に簡素化できる可能性があると述べた。
-シャー氏は「メモリ価格の高さは、アップルが複数のiPhoneを同時に発売するのに役立っていない」と述べた。
-水曜日のイベントの終わりに、同社はファーウェイなどの企業の競合製品に合わせて、1,999ドルからの折りたたみ式iPhone Duoを発表した。
-ソフトウェアエンジニアリング担当上級副社長のクレイグ・フェデリギ氏は、アップルが２つの画面や移動ボタン、その他のコントロールを活用するために、iOSソフトウェアの多くを再設計したと述べた。ユーザーは 2 つのアプリを同時にマルチタスクでき、Pencil と呼ばれる Apple のスタイラスも使用できます。
-「生活の中でこれほど中心的な役割を果たすデバイスにとって、より大きなディスプレイはまったく新しい可能性を開くでしょう」とターナス氏は発表会で述べた。 「それを実現する最善の方法は、折りたたみ可能なデザインを採用することだと考えています。」
-この携帯電話には、Apple が自社で製造した第 2 世代モデムである新しい C2 モデムが搭載されており、クアルコムへの依存をさらに減らすことになります。 Appleの最高ハードウェア責任者であるJohny Srouji氏は基調講演ビデオで、C2は前世代よりも50％高速で、15％低いエネルギーで動作すると述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
-    publishedAt: "2026-09-10T14:45:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "air-traffic-chaos-and-compensation-shutd-4aa8ad81",
-    title: "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-    titleJa: "航空交通の混乱と補償：「運航停止で1,000ポンド以上の費用がかかった」",
-    summaryJa: "航空交通の混乱と補償：「運航停止で1,000ポンド以上の費用がかかった」- 公開されました",
-    bodyOriginal: `Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'
-- Published
-Catie and Phil Allen should have been enjoying their first holiday in two-and-a-half years. Instead, they are at home ringing round for refunds that won't be paid.
-The couple are among the many thousands of air passengers caught up in the chaos caused by the four-hour shutdown of the UK's air traffic control system on Tuesday.
-It means their holiday to Slovenia has been cancelled and - although their flight was refunded by British Airways - they estimate being left £1,300 out of pocket from unused accommodation and excursions.
-It's not the first time - and won't be the last - when passengers are left flying on a wing and a prayer after problems at UK airports. So, here is how their case relates to others, and why they have taken such a big hit.
-What gets repaid, and what doesn't?
-Catie, 30, and Phil, 34, were sat on a British Airways flight to Ljubljana on Tuesday that never took off.
-If a flight is cancelled, airlines must get customers to their destination as quickly as possible at no extra cost, even if it is with a rival carrier.
-Alternatively, passengers can take a refund, which should also be offered for flight delays of more than five hours.
-In Catie and Phil's case, the alternative flight offered would not have arrived until Saturday morning - four days into their week-long holiday.
-So they took the refund. That was not easy. The chatbot only seemed to allow them to rebook, and it took more than an hour waiting to speak to BA on the phone before the refund was confirmed. It will take a week to be paid.
-When airlines are at fault, extra compensation is paid under UK and EU rules. But not this time, because the air traffic control issues were beyond airlines' control. Even so, airlines themselves are furious that they have been saddled with a bill of millions of pounds.
-BA also refunded the couple's car hire, which had been organised through the airline. The problem for the couple was that they had booked accommodation and excursions separately, and that is money they have lost.
-Why are extras not refunded?
-The hotel stays, booked separately, have their own terms and conditions and cancelling so late meant there were no refunds. One explained to Catie that they were a family business that could not afford to do so.
-This is different to package holidays, which are covered in full if a flight is cancelled.
-"We feel we are penalised for trying to save money," said Catie, who contacted BBC Your Voice about their situation, although she added that "our problems are very small in the bigger scheme of things".
-One excursion was later refunded but - having worked in the aviation sector - Catie is annoyed that the air traffic problem extended so long as to ruin their holiday.
-"We have been saving tirelessly for this trip and we have lost over £1,000 with no way of getting it back. And most of all, we've got no holiday to go on, which we've been looking forward to for years," she said.
-Why won't travel insurers pay up?
-The couple said they have been loyal customers of their insurance company for years, and used them for policies ranging from home insurance to pet cover.
-However, the insurer told them any claim on their travel insurance for the funds they have lost would be invalid because air traffic issues were outside of the policy.
-Some people also make claims via credit card providers. However, all these depend on the small print from providers.
-Why did others not get food or an overnight stay?
-Although the Allens could get back home after their flight was cancelled, others ended up sleeping on floors at Heathrow Airport.
-Delayed passengers must be supplied with food and a hotel stay, depending on the length of the wait.
-Should the airline not provide them with this, then claims for reasonable expenses can be made afterwards. Experts suggest people keep receipts as proof.
-The trouble was that many couldn't find accommodation anywhere nearby. Booking a luxury stay is unlikely to be refunded by the airline, because only "reasonable expenses" are permitted.
-On Thursday, Aviation Minister Keir Mather told MPs: "Passengers may also be entitled to care and assistance while waiting for a delayed or re-routed flight.
-"But there are, of course, lots of incidences we have seen of airport capacity not being able to deal with the number of passengers being disrupted and I think that is a key lesson we have to learn from this."
-Mather said the kind of disruption cause by the failure of air traffic control provider Nats on Tuesday was "unacceptable".
-There will be an independent review of the saga by the Civil Aviation Authority.
-Flight data firm Cirium said the aviation system had "stabilised significantly" on Thursday.
-It said 54 of 3,028 scheduled arrivals had been cancelled or are not operating, while for departures, 47 of 3,033 scheduled flights were affected.
-Related topics
-- Published1 day ago
-- Published23 hours ago`,
-    bodyJa: `航空交通の混乱と補償：「運航停止で1,000ポンド以上の費用がかかった」
-- 公開されました
-ケイティとフィル・アレンは2年半ぶりの休暇を楽しんでいるはずだった。代わりに、彼らは自宅で、支払われない返金を求めて電話をかけてきます。
-夫妻は、火曜日に英国の航空交通管制システムが4時間停止したことによって引き起こされた混乱に巻き込まれた数千人の航空乗客の一人だ。
-これは、スロベニアへの旅行がキャンセルされたことを意味し、フライトはブリティッシュ・エアウェイズによって払い戻されたものの、未使用の宿泊施設や小旅行で1,300ポンドの自己負担が残ると見積もっている。
-英国の空港で問題が発生し、乗客が翼を離して祈りをささげられるのは、これが初めてではないし、最後でもないだろう。そこで、彼らの事件が他の事件とどのように関連しているのか、そしてなぜ彼らがこれほど大きな打撃を受けたのかを説明します。
-何が返済され、何が返済されないのか？
-ケイティさん（30）とフィルさん（34）は火曜日、リュブリャナ行きのブリティッシュ・エアウェイズ機に座っていたが、離陸することはなかった。
-フライトが欠航した場合、航空会社は、たとえ競合航空会社であっても、追加料金なしでできるだけ早く顧客を目的地まで届けなければなりません。
-あるいは、乗客は払い戻しを受けることができます。これは、フライトが 5 時間以上遅延した場合にも適用されるはずです。
-ケイティとフィルの場合、提案された代替便は、一週間の休暇が始まってから 4 日後の土曜日の朝まで到着しなかったでしょう。
-それで彼らは返金を受けました。それは簡単ではありませんでした。チャットボットでは再予約のみが許可されているようで、払い戻しが確認されるまで BA と電話で話すのに 1 時間以上かかりました。支払いには1週間かかります。
-航空会社に過失がある場合、英国と EU の規則に基づいて追加の補償金が支払われます。しかし今回はそうではなかった。なぜなら、航空管制の問題は航空会社の制御の範囲を超えていたからである。それでも、航空会社自体は数百万ポンドの請求を課せられたことに激怒している。
-BAはまた、航空会社を通じて手配していた夫婦のレンタカーも返金した。夫婦にとっての問題は、宿泊施設と旅行を別々に予約しており、それがお金を失ったことです。
-追加料金が返金されないのはなぜですか?
-個別に予約したホテルの滞在には独自の利用規約があり、あまりに遅れてキャンセルした場合、返金はありません。ある人は、自分たちは家族経営なのでそんな余裕はない、とケイティに説明した。
-これは、フライトがキャンセルされた場合に全額が補償されるパッケージ旅行とは異なります。
-BBC Your Voiceに自分たちの状況について問い合わせたケイティさんは、「お金を節約しようとすることで罰を受けていると感じている」としながらも、「大きな問題から見れば、私たちの問題は非常に小さい」とも付け加えた。
-1 つの旅行は後に返金されましたが、航空業界で働いていたケイティさんは、航空交通の問題が休暇を台無しにするほど長期化したことに腹を立てています。
-「私たちはこの旅行のために精力的に貯金をしてきましたが、1,000ポンド以上を失ってしまい、取り戻す方法はありません。そして何よりも、私たちが何年も楽しみにしていた休暇はもうありません」と彼女は語った。
-なぜ旅行保険会社は保険金を支払わないのでしょうか?
-夫妻は長年にわたり保険会社の忠実な顧客であり、住宅保険からペット補償まで幅広い保険に保険会社を利用していると語った。
-しかし、保険会社は、航空交通問題は保険の対象外であるため、損失した資金に対する旅行保険への請求は無効になると告げた。
-クレジット カード プロバイダーを通じて請求を行う人もいます。ただし、これらはすべてプロバイダーからの細かい情報に依存します。
-なぜ他の人は食事や宿泊を提供できなかったのでしょうか?
-アレンズ夫妻は飛行機がキャンセルになった後、帰国できたが、ヒースロー空港の床で寝ることになった人もいた。
-遅延した乗客には、待ち時間の長さに応じて食事とホテルの滞在が提供されなければなりません。
-航空会社がこれを提供しない場合は、事後的に相応の費用を請求することができます。専門家は、証拠として領収書を保管しておくことを推奨しています。
-問題は、多くの人が近くに宿泊施設を見つけることができなかったことです。豪華な滞在の予約は、「妥当な費用」のみが許可されているため、航空会社によって払い戻される可能性は低いです。
-木曜日、キア・マザー航空大臣は国会議員に対し、「乗客は、飛行機の遅延やルート変更を待っている間にケアや援助を受ける権利もあるかもしれない」と語った。
-「しかし、もちろん、混乱する乗客数に空港のキャパシティが対処できないという事例は数多く見られており、それが私たちがこのことから学ばなければならない重要な教訓だと思います。」
-マザー氏は、火曜日の航空交通管制プロバイダーNatsの失敗によって引き起こされたこの種の混乱は「容認できない」と述べた。
-民間航空局によるこの物語の独立した審査が行われる予定です。
-航空データ会社シリウムは木曜日、航空システムが「大幅に安定した」と述べた。
-到着予定便３０２８便のうち５４便が欠航または運航停止となったほか、出発便については３０３３便のうち４７便が影響を受けたと発表した。
-関連トピック
-- 1 日前に公開
-- 23 時間前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-10T13:34:17+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d2/live/4c8e86c0-ad1a-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 6,
   },
 ];
 
