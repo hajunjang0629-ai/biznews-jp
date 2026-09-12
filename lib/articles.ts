@@ -15,6 +15,235 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "anthropic-s-amodei-shares-plan-to-slow-t-6b559a04",
+    title: "Anthropic’s Amodei shares plan to ‘slow the pace’ of growing AI capabilities; Musk and Altman express support",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Anthropic CEO Dario Amodei published an essay on Saturday urging artificial intelligence companies to pace how quickly they improve model capabilities, a move that comes as a growing chorus of researchers have called for a coordinated deceleration.
+The proposal for a voluntary slowdown brought together three figureheads of the AI industry in agreement, with SpaceX CEO Elon Musk and OpenAI chief Sam Altman throwing their support behind Amodei.
+Amodei proposed a three-step plan that he said will help temper the pace of development without "sacrificing commercial advantage or the United States' lead in AI," though he conceded that some steps may be easier to achieve than others. Anthropic is actively gearing up for what is widely expected to be a historic IPO, though the company has not officially disclosed when it plans to debut.
+Anthropic has "unilaterally" committed to the first step of the plan, Amodei said, which grants third-party evaluators employee-level access to the company to verify safety practices and report incidents. The second step encourages leading AI companies within democratic countries to coordinate and establish common safety standards, and the third calls for coordination between democratic governments and authoritarian governments.
+"To be clear, pacing does not mean halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this," Amodei wrote.
+Concerns around AI's capabilities
+Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company. Jacob Coxon, who has also worked as a researcher at Anthropic's chief rival, OpenAI, said he resigned out of concern that Anthropic and OpenAI are "gambling with our lives." He said the people building AI "earnestly believe that it could kill us all by the end of the decade."
+While extreme, concerns about the potential for AI to cause human extinction or other catastrophic events are not new in AI research circles. In 2023, for instance, prominent AI researchers and executives, including Amodei and OpenAI's Altman, signed a statement that said, "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
+Amodei said Saturday that while pausing or slowing AI development has been floated since 2023, it made "little sense" to do so at that time. He said models were not powerful enough to take action in the real world at that point, and they were also not yet capable of "significant deception, manipulation, cheating, or cyberattacks."
+"I continue to believe that AI can enormously improve the quality of human life. My desire to achieve these benefits is undimmed," Amodei wrote. "But the benefits will only be achieved if we build the technology in the right way, and — so long as we use the time we gain well — it is worth taking unusually deliberate care to get it right."
+Support for a voluntary slowdown
+Amodei's essay was lauded by many industry researchers and executives on Saturday, including Altman. In a post on X, he said he agreed with Amodei that the industry needs to pace the development of advanced AI capabilities. Altman said the subject has been a "primary topic" of discussion at OpenAI in recent weeks.
+"Committing to having independent evaluators with employee-like access is a great idea, and we will do the same," Altman said. "We'll have more to share soon."
+Earlier this month, OpenAI's chief scientist, Jakub Pachocki, published a blog post earlier this month and warned that no AI company has "solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer." In the AI industry, alignment refers to the work by AI developers to ensure that the system behaves in accordance with human values and intentions.
+Pachocki said he expects and hopes for voluntary slowdowns to become "commonplace until shared safety bars are established."
+Musk also expressed support for a slowdown on Saturday, writing in a post on X that, "Dario is right."
+Musk, whose competing AI startup xAI was acquired by his rocket company SpaceX earlier this year, used to be a vocal critic of Anthropic. He previously said the company "hates Western Civilization," and is "doomed to become the opposite of its name," which would be misanthropic. But since Anthropic announced a major compute deal with SpaceX in May, Musk has largely changed his tune.
+"Everyone I met was highly competent and cared a great deal about doing the right thing," Musk wrote at the time. "No one set off my evil detector."
+Amodei wrote Saturday that he believes AI could still "dramatically raise the quality of human life," but that the risks need to be taken seriously.
+"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," he said.
+WATCH: Anthropic AI researcher says company is ‘gambling with our lives’`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+    publishedAt: "2026-09-12T20:26:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "fire-at-nursing-home-in-chile-kills-16-r-225b124e",
+    title: "Fire at nursing home in Chile kills 16 residents",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Fire at nursing home in Chile kills 16 residents
+- Published
+At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
+Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
+Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
+Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
+"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
+"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
+The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
+On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
+"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T19:36:50+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg",
+    readTime: 2,
+  },
+  {
+    id: "skimpflation-warning-as-tinned-mackerel-1f5ed813",
+    title: "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves
+- Published
+A growing trend of supermarkets selling a cheaper, less nutritious alternative to tinned mackerel is an example of "skimpflation", a consumer group has said.
+Princes - which supplies major supermarkets - has substituted the fish for jack mackerel, an entirely different species also being sold by Lidl.
+The switch has been spurred by dwindling stocks of Atlantic mackerel after years of overfishing, with its Chilean counterpart more sustainable and a third of the cost.
+"It's a real concern when manufacturers quietly downgrade everyday staples like these as shoppers can end up paying the same price for a product that delivers significantly less nutritional quality," Sue Davies, head of food policy at Which?, said.
+Jack mackerel contains about half as much omega-3 and around a third as much vitamin B12 as traditional mackerel.
+The shift has prompted complaints from some consumers over differences in taste and texture, as well as concerns about how clearly the replacement fish is being labelled.
+Princes announced last October, external that it was changing all of its tinned mackerel products to jack mackerel, saying the species meets the Marine Stewardship Council's sustainability standards.
+The firm said its jack mackerel products were "clearly identified" and had been introduced following extensive product and consumer testing, describing it as having a "milder flavour and meatier texture".
+Lidl is selling jack mackerel under its house brand. Lidl GB said it was "committed to sourcing fish and seafood from responsibly managed fisheries".
+Davies from Which? said: "While manufacturers face genuine supply chain pressures and sustainability challenges, they have a responsibility to shoppers to be completely upfront when they change a product's recipe."
+She added: "Skimpflation - quietly changing ingredients to cut costs - has become increasingly common, but it can feel particularly sneaky as shoppers may not realise a product has changed until they get it home and eat it."
+'Mackerel war'
+Despite its name, jack mackerel is not a type of mackerel. Jack mackerel belongs to the Carangidae fish family, while traditional mackerel belongs to the Scombridae family.
+Until December 2025, under UK law, Carangidae species could only be marketed as "jack", "scad", "trevally" or "horse mackerel".
+But shortly after Princes launched its new product as "jack mackerel", the Department for Environment, Food and Rural Affairs changed its rules to permit the labelling.
+Industry figures reposted by seafood market intelligence platform Undercurrent suggest wholesale Chilean jack mackerel costs roughly one-third as much as Atlantic mackerel.
+The switch follows the so-called "mackerel war", a long-running dispute between the UK, Iceland, Greenland, Norway, the Faroe Islands, the EU and Russia over shared mackerel catch quotas.
+The countries have repeatedly failed to agree a unified system for sharing stock and setting catch limits in line with scientific advice.
+Mackerel catches in the north-east Atlantic have exceeded the levels advised by scientists by an average of 39% over the past 15 years, according to the Marine Stewardship Council (MSC).
+Stocks have plummeted by roughly three-quarters over the past decade, according to the International Council for the Exploration of the Sea (Ices).
+The intergovernmental body has advised slashing the quantity of north-east Atlantic mackerel caught in 2026 by roughly 70% to allow the stock a chance to recover.
+Last year, the Marine Conservation Society said the Atlantic mackerel population was at "breaking point".
+The severe depletion of mackerel numbers has led to the fish losing its MSC certification, meaning it no longer complies with many retailers' sustainability policies. Chilean jack mackerel, in contrast, is MSC-certified.
+In February, Waitrose said it would suspend sales of fresh, chilled and frozen mackerel due to overfishing concerns, while tinned products would be phased out as existing stock was sold.
+The Marine Conservation Society heralded the move as "leading and decisive".
+The switch to jack mackerel is being felt beyond the UK, with supermarkets in the Netherlands no longer selling Atlantic mackerel and at least one supermarket in Sweden switching to jack mackerel.
+Related topics
+- Published2 days ago
+- Published17 August`,
+    bodyJa: `サバ缶の代替品がスーパーマーケットの棚に並び、「ケミカルフレーション」への警告
+- 公開されました
+スーパーマーケットがサバ缶に代わる安価で栄養価の低い代替品を販売する傾向が強まっており、「ケミカルフレーション」の一例だと消費者団体は述べた。
+大手スーパーマーケットに商品を供給しているプリンスズ社は、この魚をアジの代わりにしているが、これは同じくリドル​​社が販売している全く別の種類である。
+長年にわたる乱獲の末に大西洋サバの資源が減少していることが、切り替えに拍車をかけているが、チリ産サバはより持続可能で、価格は3分の1である。
+「Which?」の食品政策責任者スー・デイビス氏は、「買い物客が栄養価が大幅に低い商品に同じ値段を払うことになる可能性があるため、メーカーがこのような日用品をひそかに格下げするのは大きな懸念だ」と述べた。
+マアジには、従来のサバに比べて約半分のオメガ 3 と約 3 分の 1 のビタミン B12 が含まれています。
+この変更により、一部の消費者からは味​​や食感の違いに対する苦情のほか、代替魚の表示がどれほど明確であるかについての懸念も生じている。
+プリンスは昨年10月、サバ缶製品をすべてアジサバに変更し、この種が海洋管理評議会の持続可能性基準を満たしていると対外発表した。
+同社は、自社のアジ製品は「明確に識別され」、広範な製品テストと消費者テストを経て導入されたと述べ、「よりマイルドな風味と肉厚な食感」を備えていると説明した。
+Lidlは自社ブランドでアジを販売している。 Lidl GBは「責任を持って管理された漁業から魚介類を調達することに取り組んでいる」と述べた。
+デイヴィス どっちから？ 「メーカーはサプライチェーンの真のプレッシャーと持続可能性の課題に直面しているが、製品のレシピを変更する場合には、買い物客に対して完全に率直に対応する責任がある。」
+さらに、「コスト削減のためにこっそりと原材料を変更するスキムフレーションはますます一般的になっているが、買い物客は家に帰って食べるまで商品が変更されたことに気づかない可能性があるため、特に卑劣に感じることがある」と付け加えた。
+「サバ戦争」
+その名前にもかかわらず、アジはサバの一種ではありません。マアジはアジ科の魚類に属しますが、従来のサバはサバ科に属します。
+2025 年 12 月まで、英国の法律の下では、カラン科の種は「アジ」、「アカ」、「アジ」、または「アジ」としてのみ販売できました。
+しかし、プリンスズが新製品を「アジ」として発売した直後、環境・食糧・農村省は規則を変更し、表示を許可した。
+水産市場インテリジェンスプラットフォーム「アンダーカレント」が転載した業界統計によると、チリ産アジの卸売価格は大西洋サバの約3分の1だという。
+この切り替えは、英国、アイスランド、グリーンランド、ノルウェー、フェロー諸島、EU、ロシアの間でサバの共通漁獲枠を巡る長期にわたる紛争、いわゆる「サバ戦争」に続くものである。
+各国は資源を共有し、科学的助言に沿って漁獲制限を設定するための統一システムに何度も合意できていない。
+海洋管理評議会（MSC）によると、北東大西洋におけるサバの漁獲量は、過去15年間で科学者が推奨する水準を平均39％上回っている。
+国際海洋探査評議会（氷）によると、過去10年間で資源は約4分の3も急落した。
+政府間機関は、資源回復の機会を得るために、2026年に漁獲される北東大西洋サバの量を約70％削減するよう勧告した。
+海洋保護協会は昨年、大西洋サバの個体数が「限界点」に達していると述べた。
+サバの数の深刻な減少により、この魚はMSC認証を失いました。これは、サバが多くの小売業者の持続可能性方針に準拠しなくなったことを意味します。対照的に、チリ産アジはMSC認証を受けています。
+ウェイトローズは2月、乱獲の懸念から生サバ、冷蔵サバ、冷凍サバの販売を一時停止し、缶詰製品は既存の在庫が売れたので段階的に廃止すると発表した。
+海洋保護協会は、この動きを「主導的かつ決定的」であると歓迎した。
+マアジへの切り替えは英国以外でも感じられており、オランダのスーパーではタイセイヨウサバの販売が中止され、スウェーデンの少なくとも１つのスーパーマーケットではアジに切り替えている。
+関連トピック
+- 2 日前に公開
+- 8 月 17 日公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T18:31:23+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg",
+    readTime: 5,
+  },
+  {
+    id: "anthropic-boss-dario-amodei-calls-for-ai-12635b50",
+    title: "Anthropic boss Dario Amodei calls for AI development to slow down",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Anthropic boss Dario Amodei calls for AI development to slow down
+- Published
+The head of AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.
+In an essay on Saturday, Dario Amodei said developing AI was not in question, but the risks associated with it were "serious" and companies and governments must be given time to address them.
+The heads of two rival AI firms, Sam Altman of OpenAI and Elon Musk, have both said they agree with Amodei.
+There have been growing concerns recently about the technology's potential risks, the most serious of which suggested there is a greater than 10% chance it "could kill all humans" within the next decade.
+Anthropic previously said it had identified and disrupted attempts to use its AI model for "malicious activity" which could support the development of biological weapons.
+But the starkest warning came from two employees from Anthropic's safety team who have resigned in the last two weeks saying humanity may not survive, external the race among AI companies to develop machines that are smarter than humans.
+Amodei proposed a three-point plan that includes independent monitoring of AI models as they are developed, industry-wide regulation and global regulation.
+As his proposal made the rounds, even competitors voiced support for the idea of third-party monitors who could evaluate the safety of models as they are developed.
+"I agree with Dario that we need to pace the frontier," wrote OpenAI CEO Sam Altman on X. He called independent evaluators "a great idea."
+In a new interview with Fortune Magazine, Altman had sounded similar safety concerns, saying standards were "not at a place" to push AI capabilities much further.
+He added that he believed AI beyond human control is "absolutely" possible.
+Elon Musk meanwhile said the Anthropic boss was "right".
+The warnings have prompted calls to action, but US President Donald Trump has so far rejected such fears, saying on Thursday he was concerned "if we don't win AI, we're going to be put in a very bad position".
+Some observers have also suggested that Amodei's post may be less about safety than about consolidating control over AI technology.
+Cyber-security concerns have grown as new models have exhibited more and more powerful hacking capabilities.
+Anthropic withheld its Mythos model from public use when it was announced in April that it could independently escape the testing environment, known as the sandbox.
+In the run-up to the release of its most recent Astra model, OpenAI cited cybersecurity concerns as it explained it had paused certain aspects of the model's development.
+Safety has also taken centrestage in the rivalry between Anthropic and OpenAI.
+Amodei, who had previously worked as a vice president at OpenAI, has said he co-founded Anthropic in 2021 so he could build safer and more trusted AI models.
+Dramatic insider warnings over AI fall flat with some in Silicon Valley
+- Published2 hours ago
+In his essay, called We Must Pace the Frontier, Amodei pointed out that AI had advanced "drastically faster" including its "ability to build the next generation of AI" - and mentioned an incident involving rival OpenAI which has revealed that agents conducted cybersecurity attacks, external on targets they were not asked to attack in July.
+The OpenAI agents had "essentially acted as a fanatically devoted collective", Amodei said. OpenAI has said it is slowing down training of certain advanced AI models and tools as a result.
+Amodei called for "building AI at a balanced rate that aims to ensure its safety while still achieving its benefits".
+This would not mean "halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this".
+He was committing Anthropic to this "unilaterally" - as well as calling on governments "to require other frontier companies to match".
+Amodei said he recognised that regulation might not be able to keep up with the pace of AI, and therefore called on AI companies to "voluntarily work together to set standard" in parallel with regulation.
+The Anthropic CEO went on to address the impact that a slowdown would have on the industry and competition with leading developers worldwide, particularly China.
+"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," Amodei said.
+This would have to be done in a co-ordinated manner "without sacrificing commercial advantage or the United States' lead in AI". Any slowdown would have to be limited, he said, to avoid allowing China to pull ahead.
+He urged the US government to take measures so that US companies' AI chips could not be sold to China - or the technology shared with authoritarian countries.
+Amodei's post has prompted a wide range of responses.
+Clement Delangue, the CEO of the AI platform Hugging Face, said he was launching a new project called the Open Alignment Initiative, adding he wanted to be among "embedded evaluators" that Amodei proposed could be part of a solution.
+Hugging Face was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
+"Let's make AI safer by making it more transparent." Delangue wrote on X.
+Elon Musk also voiced his support, writing that "Dario is right".
+Musk, whose SpaceXAI makes the controversial chatbot Grok, once called Anthropic "evil" but has changed his tone since signing a $15bn deal to sell compute capacity to Anthropic in May.
+However some observers suggested that Amodei's post was less about safety than about consolidating control over AI technology.
+"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," wrote Chamath Palihapitiya, investor and co-host of the tech podcast "All-In".
+Notions of slowing down or even pausing AI development have long been met with such cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
+Anthropic and OpenAI are both reportedly preparing for potentially record-setting initial public offerings.
+Why some experts increasingly fear AI will take over
+- Published2 days ago
+The contradiction at the heart of the trillion-dollar AI race
+- Published19 November 2025
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T17:42:38+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "elon-musk-backs-anthropic-s-call-to-slow-cbff861e",
+    title: "Elon Musk backs Anthropic’s call to slow down AI progress before rogue bots take over the entire internet",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Leaders of major AI companies say they agree with Anthropic CEO Dario Amodei, who just called for the tech industry to move more slowly with model development.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/elon-musk-backs-anthropics-call-to-slow-down-ai-progress-before-rogue-bots-take-over-the-entire-internet-46f12d98?mod=mw_rss_topstories",
+    publishedAt: "2026-09-12T17:20:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-31670167",
+    readTime: 2,
+  },
+  {
+    id: "larry-ellison-nixes-plan-to-offload-up-t-a6282b09",
+    title: "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Larry Ellison has canceled his plan to sell up to 50 million of his shares in Oracle, or $7.5 billion worth of stock at the current price.
+The reversal came just a day after a regulatory filing disclosed the Oracle founder's trading plan, which had been adopted on June 22 and was set to end on Oct. 24.
+No Oracle stock had been sold under the 10b5-1 Plan to sell stock, and Ellison has no other plans to sell any of his shares, according to the Saturday news release. Few other details were given.
+The billionaire, 82, has held onto a substantial portion of the company that he founded in 1977. He continues to control more than 40% of Oracle, CNBC previously reported. Ellison has helped to turn Oracle from a legacy software maker into a major player in artificial intelligence infrastructure.
+However, as part of the pivot, Oracle has amassed a hefty debt load and the stock has dropped roughly 23% this year.
+Ellison is also the father of David Ellison, the current CEO of Paramount Skydance, which has been in pursuit of acquiring Warner Bros. Discovery. The elder Ellison has helped to finance the initial merger between David Ellison's Skydance Media and Paramount, and is also a backer of the proposed acquisition of WBD. The proposed deal is currently being held up by a state attorneys general lawsuit due to antitrust concerns.
+-CNBC's Jordan Novet contributed this article.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
+    publishedAt: "2026-09-12T17:14:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
     id: "buffett-s-confidence-in-troubled-decade-a2c6640b",
     title: "Buffett's confidence in troubled decade-old acquisition finally pays off",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -151,6 +380,42 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     publishedAt: "2026-09-12T13:00:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-85373003",
+    readTime: 2,
+  },
+  {
+    id: "inflation-is-outpacing-wage-growth-again-2827a0e2",
+    title: "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Americans face a renewed squeeze on their paychecks as inflation once again rises faster than wage growth, putting further pressure on consumer wallets.
+"A substantial number of Americans are worse off, their incomes are not keeping up with the price increases right now," Heather Long, chief economist at Navy Federal Credit Union, told CNBC.
+Consumer prices rose 3.4% in August from a year earlier, according to data released Friday by the U.S. Bureau of Labor Statistics.
+Average hourly earnings, meanwhile, increased just 3.1% over the same period, according to a separate BLS report released Friday. Real average hourly earnings, adjusted for inflation, fell 0.1% from July and were down 0.3% from a year earlier in August.
+The gap between inflation and wage growth is a stark reminder that workers are losing purchasing power.
+"The basics are that inflation is wiping out wage gains," said Long, adding that April marked a clear turning point after a lengthy stretch in which wage growth had generally exceeded inflation.
+From May 2023 until about April of this year, workers had been slowly regaining ground.
+In fact, Long first started charting the inflation-wage growth relationship a year ago to make the opposite point — that things were improving and even as Americans remained frustrated at the time by the higher overall price level, wages were gradually catching up.
+But that progress began reversing this spring as energy costs jumped.
+"That's what's just hard to watch. Things were getting better, and now that improvement has blown up," she said.
+Energy remains a major source of pressure now, with gasoline prices rising 3.9% in August alone, accounting for more than one-third of the consumer price index's gain. Diesel touched $6 per gallon on Friday for the first time amid fuel supply disruptions arising from wars in Iran and Ukraine.
+Long ties the shift in household finances to the surge in energy prices following the war in Iran. Navy Federal previously estimated that gasoline prices jumped 21% in March, helping push its measure of car ownership costs to a record.
+'Going to be tough for a long time'
+Long said it is difficult to see inflation falling substantially while geopolitical pressures continue, particularly as wage growth slows.
+"It's going to be tough for a long time," she said.
+The best-case outcome, she believes, could be for wage growth and inflation to converge again around the beginning of 2027. "But that's still going to feel pretty miserable on Main Street if inflation equals wage growth," Long said.
+A prolonged squeeze on purchasing power is already starting to show up in consumer spending. Consumer spending accounts for roughly two-thirds of U.S. economic activity, and Long expects households to become more cautious as their paychecks buy less.
+Consumers are adjusting
+The squeeze and the change in consumer spending habits are starting to show up in data as well.
+Data from YouGov shows that higher-income shoppers are more likely to shop for groceries at Costco, while Walmart Supercenter is the preferred grocery store for middle- to lower-income households.
+A similar shift into spending more at warehouses and discount stores is already showing up in Navy Federal's internal spending data, which covers about 15 million members, Long said.
+"People who used to shop at Whole Foods are now at Costco, Aldi, and so you can see that people are still really trying to stretch every dollar," Long said, adding that the behavior is appearing "almost across the income spectrum."
+"The frustration is real on inflation and affordability," she said.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    publishedAt: "2026-09-12T12:49:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 2,
   },
   {
@@ -1102,257 +1367,6 @@ BRICS provided a "resilient and viable platform for global growth," Putin said, 
     publishedAt: "2026-09-11T15:10:45+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "us-prices-remain-high-as-fuel-costs-sque-ec369456",
-    title: "US prices remain high as fuel costs squeeze household budgets",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `US prices remain high as fuel costs squeeze household budgets
-- Published
-Prices in the US rose by 3.4% in the year to August, with the cost of living pushed up by higher gasoline prices, official figures show.
-The overall inflation rate was unchanged from July, according to the Bureau of Labor Statistics (BLS).
-It comes ahead of the Federal Reserve making its latest interest rate decision next week, with growing expectations they will be increased in a bid to slow the rate at which prices are rising.
-US household budgets have come under mounting pressure, especially at the fuel pumps, with a gallon of diesel hitting a new all-time high of more than $6 on average on Friday.
-The spike in fuel prices has been driven by higher global oil prices, caused by supply disruptions as a result of the US-Iran war. The price of benchmark Brent crude oil is hovering above $100 a barrel following recent escalations in the conflict.
-As well as directly driving up costs at the pumps, higher oil prices can also make transporting goods more expensive. Such costs can be passed down to consumers through steeper prices for food and other staples, pushing up the overall cost of living.
-The BLS said gasoline prices rose 3.9% last month alone, accounting for more than a third of inflation overall. Wages are also failing to keep up with the rising cost of living, with separate figures showing real average hourly earnings fell by 0.3% over the past year.
-There are increasing expectations that interest rates will be hiked given the current inflation picture, strong jobs market and President Donald Trump saying he does not think oil prices will come down until the war with Iran ends, which he expects to happen after November's elections.
-Fed chair Kevin Warsh has been tight-lipped on any future decisions, but his comments that the central bank's focus should be on slowing price rises has further fuelled expectations of a rise.
-According to data from CME Group, 85% of traders are now betting on rates being raised by a quarter percentage point next week.
-Interest rates could rise again across the world – here's why
-- Published2 hours ago
-Skyler Weinand, chief investment officer at Regan Capital based in Dallas, said while inflation was in line with expectations, it was "still too hot and the Federal Reserve's hands are tied".
-"A rate hike next week is all but assured. Consumer prices are going in the wrong direction and remain significantly higher than the Fed's 2% target."
-Interest rates have been left on hold for five meetings in a row, at between 3.5% and 3.75%. Higher rates are a tool used by central banks aiming to slow the pace of price rises.
-By pushing up the cost of borrowing for things such as mortgages, loans and credit cards, it is hoped consumers will spend less and the rate of price increases will slow. Increased rates can encourage people to save money by increasing their potential returns.
-Jamie Hagen, president of Hell Bent Xpress, a family-owned trucking company in South Dakota, told the BBC's World Business Report podcast that higher oil prices were hurting his business
-"I've already invested in new equipment. We thought the economy was gonna start humming and now everybody's paused. Like someone turned the faucet off," he said.
-"The calls aren't coming in, the freight is slowing down drastically because there's just no money left for it. People aren't buying things and shippers aren't making things."
-- Published22 hours ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-11T14:22:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39dc/live/efa1fdd0-addb-11f1-8b98-35ffe039e825.jpg",
-    readTime: 2,
-  },
-  {
-    id: "interest-rates-could-rise-again-across-t-c7ec9881",
-    title: "Interest rates could rise again across the world – here's why",
-    titleJa: "金利は世界中で再び上昇する可能性があります - その理由は次のとおりです",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Interest rates could rise again across the world – here's why
-- Published
-There's nothing like talk of energy prices and potential higher borrowing costs to remind us that the summer holidays are well and truly over.
-Surging oil prices have been pushing up what drivers pay at the fuel pumps and eating away at household budgets for months, and concerns remain over whether the economic impact of the US-Iran war will drive the cost of living higher.
-Citing the Middle East conflict and warning inflation was "set to remain well above" its 2% target for some time, the European Central Bank raised interest rates this week to 2.5%.
-Other central banks are also responding, with the US and the UK poised to make interest-rate decisions next week.
-Up first on Wednesday is the US Federal Reserve, which has held rates steady between 3.5% and 3.75% for five meetings in a row. It last made a change - a rate cut - in December.
-But above target inflation at 3.4%, a strong jobs market and President Donald Trump saying he does not think oil prices will come down until the Iran war ends, which he expects to happen after November's elections, has led many on Wall Street to bet on a rate hike this month.
-Newly-appointed Fed Chair Kevin Warsh has remained tight-lipped on where he sees interest rates going, but his repeated comments that the central bank's focus should be on slowing price rises has further fuelled expectations of an increase.
-Economists at Deutsche Bank said recently that a rate hike is "the most likely policy outcome", noting comments from Warsh and other members of the Fed.
-Views differ somewhat, with Grace Zwemmer, US economist at Oxford Economics, expecting rates to remain unchanged, but almost universally a rate cut appears to be off the table.
-Trump, though, is again pressing for lower rates.
-"The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change," he posted on social media last week.
-The US-Iran war and resulting higher global oil and gas prices are stoking the inflation fears. Shipments through the Strait of Hormuz waterway, one of the world's busiest oil and gas routes, have been restricted due to the war and a barrel of Brent crude is now around $105 (£78), approaching levels last seen at the outbreak of the conflict.
-Along with directly driving up costs for homes and businesses, higher energy prices can also make transporting goods more expensive and those extra costs can be passed down to consumers through steeper prices for the likes of food and other staples.
-Central banks try to limit price rises with higher interest rates. By pushing up the cost of borrowing for things such as mortgages and credit cards, they seek to slow consumer spending and inflation. Higher rates also can give people incentives to save instead of spend.
-But it's a balancing act, as higher rates can also encourage businesses to hold off on investing and hiring.
-US prices remain high as fuel costs squeeze household budgets
-- Published1 day ago
-When the Bank of England meets later next week, it is expected to try to look both at current price pressures and the wider economic picture.
-Millions of UK households are set to see energy bills rise to the highest level for three years heading into the winter and gas prices have risen above 200p per therm for the first time since the end of 2022.
-Inflation in the UK is at 2.9%, and it is expected to jump in coming months.
-But despite those predictions, there appears to be broad agreement that the Bank will leave rates at 3.75%.
-That's because there is "no sign" of the so-called second-round effects of the price shock feeding through the economy, such as workers requesting wage rises or businesses hiking prices, according to Oxford Economics.
-This gives the Bank "some breathing space," added economist Alexander Harvey.
-Yael Selfin, chief economist at KPMG, said that outside of the US, in places such as the UK, the economic environment has been "much weaker" than where it was in 2022, when the last inflation shock hit the world. UK inflation reached a record high of 11.1% in October that year.
-Interest rates are already higher than four years ago, she added, and consumers, somewhat scarred by previous price hikes, have changed how they spend.
-Also, four years ago "businesses were hiring aggressively, vacancies were at record highs, and more people were moving jobs than normal", Harvey said, as the economy rebooted following Covid.
-"The conditions were in place for employees to push for significant pay rises in response to a significant inflation shock," he said. "That's in stark contrast to the current labour market."
-Now, hiring is much weaker than average and there is less pressure to recruit - giving employees less leverage to demand higher pay.
-Graphic by Miguel Roca-Terry and Jess Carr
-- Published28 August
-- Published1 day ago
-- Published3 days ago`,
-    bodyJa: `金利は世界中で再び上昇する可能性があります - その理由は次のとおりです
-- 公開されました
-エネルギー価格や借入コストの上昇の可能性についての話ほど、夏休みがもうすぐ終わったことを思い出させるものはありません。
-原油価格の高騰により、運転手が燃料ポンプに支払う金額がここ数カ月にわたって押し上げられ、家計を圧迫しており、米国とイランの戦争による経済的影響で生活費が上昇するのではないかとの懸念が依然として残っている。
-中東紛争を引き合いに出し、インフレ率がしばらくは目標の２％を「大幅に上回って推移する見通し」であると警告し、欧州中央銀行は今週金利を２．５％に引き上げた。
-他の中央銀行も対応しており、米国と英国は来週金利決定を行う予定だ。
-水曜日に最初に上昇したのは米国連邦準備制度理事会で、5会合連続で政策金利を3.5％から3.75％の間で据え置いた。最後に利下げという変更を加えたのは12月だった。
-しかし、インフレ率は目標の3.4％を上回っており、堅調な雇用市場に加え、ドナルド・トランプ大統領がイラン戦争が終結するまで原油価格は下落しないと考えており、11月の選挙後に起こると予想しているため、ウォール街の多くの人々は今月の利上げに賭けている。
-新たにFRB議長に任命されたケビン・ウォーシュ氏は金利の先行きについて口を閉ざしたままだが、中央銀行の焦点は物価上昇の抑制にあるべきだとの同氏の繰り返しの発言で利上げ期待がさらに高まった。
-ドイツ銀行のエコノミストらは最近、ウォーシュ総裁や他のFRBメンバーのコメントを踏まえ、利上げが「最も可能性の高い政策結果」であると述べた。
-オックスフォード・エコノミクスの米国エコノミスト、グレース・ズウェマー氏は金利据え置きを予想するなど見方は若干異なり、ほぼ全般的に利下げは考えられないようだ。
-しかし、トランプ大統領は再び利下げを要求している。
-同氏は先週、ソーシャルメディアに「偉大な新指導者を迎えたFRB理事会は賢くならなければならない。変化のために愛国者になれ」と投稿した。
-米国とイランの戦争とそれに伴う世界的な石油とガス価格の高騰がインフレ懸念を煽っている。世界で最も交通量の多い石油・ガスルートの一つであるホルムズ海峡水路を通じた輸送は戦争のため制限されており、ブレント原油1バレルは現在約105ドル（約78ポンド）と、紛争勃発時の最後に見られた水準に近づいている。
-エネルギー価格の上昇は、家庭や企業のコストを直接押し上げるだけでなく、物品の輸送コストも上昇させる可能性があり、その余分なコストは、食品やその他の必需品の価格高騰を通じて消費者に転嫁される可能性があります。
-中央銀行は金利上昇によって物価上昇を抑えようとします。住宅ローンやクレジットカードなどの借入コストを引き上げることで、消費支出とインフレを抑制しようとしている。また、金利が高くなると、消費ではなく貯蓄するというインセンティブが人々に与えられる可能性があります。
-しかし、金利の上昇は企業の投資や採用の控えを促す可能性もあることから、これはバランスを取る必要がある。
-燃料費が家計を圧迫するため、米国の価格は高止まり
-- 1 日前に公開
-イングランド銀行は来週後半に会合を開き、現在の物価圧力とより広範な経済状況の両方を検討する予定だ。
-英国の何百万もの世帯では、冬に向けて光熱費がここ3年間で最高水準に上昇する見通しで、ガソリン価格は2022年末以来初めてサーム当たり200ペンスを超えている。
-英国のインフレ率は２．９％で、今後数カ月でインフレ率が上昇すると予想されている。
-しかし、こうした予想にもかかわらず、中銀が金利を3.75％に据え置くということでは大方の合意があるようだ。
-オックスフォード・エコノミクスによると、労働者が賃上げを要求したり、企業が価格を引き上げたりするなど、経済全体に波及する価格ショックのいわゆる二次的影響の「兆候」が見られないためだという。
-これにより中銀に「一息つける余地」が与えられるとエコノミストのアレクサンダー・ハーベイ氏は付け加えた。
-ＫＰＭＧの首席エコノミスト、ヤエル・セルフィン氏は、英国など米国以外の地域では、前回のインフレショックが世界を襲った２０２２年に比べて経済環境が「はるかに弱くなっている」と述べた。英国のインフレ率は同年10月に11.1％という過去最高を記録した。
-金利はすでに4年前よりも高くなっており、消費者は前回の値上げで多少の傷を負い、支出の仕方を変えていると同氏は付け加えた。
-また、4年前には新型コロナウイルス感染症後に経済が再起動したため、「企業は積極的に採用を行っており、欠員は過去最高を記録し、通常よりも多くの人が転職していた」とハーベイ氏は述べた。
-同氏は「重大なインフレショックに対応して従業員が大幅な賃上げを求める条件は整っていた」と述べた。 「これは現在の労働市場とはまったく対照的だ。」
-現在、採用活動は平均よりもはるかに弱く、採用へのプレッシャーも少ないため、従業員がより高い賃金を要求する力が弱くなっています。
-グラフィック：ミゲル・ロカ・テリーとジェス・カー
-- 8 月 28 日発行
-- 1 日前に公開
-- 3 日前に公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-11T13:35:29+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
-    readTime: 5,
-  },
-  {
-    id: "25-years-after-9-11-the-u-s-starts-rolli-b2e62480",
-    title: "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The Sept. 11, 2001, terror attacks reshaped how we travel, from how we pack our toiletries to what we wear when we fly. Airport checkpoints for almost a quarter century for most travelers have meant shoes off. Limitations on liquids. And no tearful, cinematic gateside farewells or joyful welcomes.
-But 25 years later, the U.S. government is starting to ease some of the restrictions, which include measures that were tied to other attacks attempted in the months after 9/11.
-Last year, the Department of Homeland Security, which was formed after the attacks, said flyers can leave their shoes on at airports, a major change for travelers going through regular security.
-That rule was introduced after Richard Reid, who became known as the "shoe bomber," tried and failed to ignite explosive material in his shoe on a Paris-to-Miami flight in December 2001.
-Rules for liquids are officially unchanged. Those regulations for liquids in carry-ons stem from 2006, when British officials foiled a plot to bring liquid explosives on flights.
-New scanners installed at some airport checkpoints allow travelers to leave liquids in their bags before going through screening, though availability varies by airport and checkpoint. Limits on liquid container size remain in effect.
-"The technologies today are better than they were a long time ago and some of the technology that's been deployed is better than it was five years ago," said Jeff Price, a professor at the Metropolitan State University of Denver's Department of Aviation and Aerospace Science and an airport management consultant.
-Another change since that era is the number of options customers have for airport screening. The Transportation Security Administration, for $76.75 covering five years, offers PreCheck, in which travelers undergo prescreening services and can use expedited screening lanes.
-"If you've got a few bucks, yeah, you can reduce the amount of screening and jump the line," Price said. "The other side of that is when you do become a member of PreCheck, you give up a lot more of your personal data to the government, and that's the trade-off."
-There's also a private option with Clear, with a shorter identification check line, in exchange for prescreened biometric data.
-Gate greetings return
-The new changes are going beyond security.
-TSA this week launched a free program allowing eligible trusted travelers, including TSA PreCheck members, to apply for access to secure gate areas without a boarding pass.
-The program is called "Gateside," and the agency has rolled it out at 13 U.S. airports, including Dallas Fort Worth International Airport, Los Angeles International Airport, Detroit Metropolitan Wayne County Airport and Salt Lake City International Airport.
-The area beyond TSA screening has been heavily restricted since 9/11. In launching the program, the agency said PreCheck members who use the program can "meet family members at their gate, join a friend on a long layover for lunch or dinner, visit airport dining and shopping locations, or greet service members returning from deployment."
-Participants must apply online one to three days in advance and receive approval before entering through security.
-Privatization attempt
-Some of the tweaks to security have been more rocky.
-The TSA late last month scrapped a program it called TSA Gold+ that would provide privatized security at certain airports.
-The new head of TSA, David Cummins, who took the top role in early August, said that a new screening partnership program will "replace TSA Gold+ to better harness the role of the private sector in delivering a safer, more secure, and more efficient aviation system."
-TSA didn't respond to requests for further comment.
-Tampa International Airport in Florida had reviewed the program starting in May, in part because it could shield the airport from the impact of government shutdowns, airport Chief Operating Officer John Tiliacos told reporters last month. Those shutdowns left TSA officers without regular paychecks for months, and staffing shortages led to long lines at airports around the country. The chance to add new technology was also a draw.
-Tampa decided not to move forward with the program, and TSA announced its replacement shortly after. Tampa's Tiliacos told reporters last month "we weren't quite satisfied that we were getting all of the answers to our questions regarding the technology" and that drove the airport's decision to opt out.
-Evolving threats
-While some rules travelers have lived with for decades might be fading, the aviation sector is still dealing with changing threats.
-"You have AI. You've got cybersecurity issues that continue to pop up. Drones are a major issue," said Keith Jeffries, vice president of aviation security company K2 Security Screening Group, who is retired from the TSA and was the agency's security director at Los Angeles International Airport. "It's the role of security and protecting, especially the transportation sector, it's getting broader, and other technologies are trying to keep up."
-As security technology evolves, so does the energy of potential attackers to overcome whatever obstacle they have and send their message.
-Deterrents are important, but Jeffries said: "There is no such thing as the perfect security mousetrap. It doesn't exist."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
-    publishedAt: "2026-09-11T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "the-four-reasons-stocks-are-about-to-emb-0e27952b",
-    title: "The four reasons stocks are about to embark on a ‘face-ripper rally’",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Bull markets don’t peak when investors are so bearish, says Fundstrat’s Tom Lee.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
-    publishedAt: "2026-09-11T10:58:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-84933086",
-    readTime: 2,
-  },
-  {
-    id: "never-mind-the-bond-yields-bank-of-ameri-a67e061b",
-    title: "Never mind the bond yields, Bank of America shows where the real threat to the economy lies",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Diesel prices hit the real economy, says a Bank of America strategist who also offers an exchange-traded fund that has outperformed the market.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/never-mind-the-bond-yields-bank-of-america-shows-where-the-real-threat-to-the-economy-lies-1e6cbeaa?mod=mw_rss_topstories",
-    publishedAt: "2026-09-11T10:40:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-53559777",
-    readTime: 2,
-  },
-  {
-    id: "ai-boom-helps-drive-surprise-uk-growth-i-8941cb7c",
-    title: "AI boom helps drive surprise UK growth in July",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `AI boom helps drive surprise UK growth in July
-- Published
-The UK's economy grew faster than expected in July partly helped by businesses using artificial intelligence (AI).
-The economy expanded by 0.4%, the Office for National Statistics (ONS) said, whereas analysts had predicted no growth.
-Growth in July was helped by a strong performance from the services sector, and particularly computer programming.
-Experts said the figure showed the UK economy was proving resilient in the face of shocks such as the war in Iran, but they expect growth to slow in the months ahead as high energy prices affect households.
-July's figure follows growth of 0.3% in June and zero growth in May.
-According to the ONS director of economic statistics, Liz McKeown, there was evidence that businesses involved with AI and related technologies helped to boost the sector, not just in July but in May and June as well.
-The ONS said many of the IT businesses reporting the largest turnover "appear to be involved with AI", though it said it is difficult to quantify the exact impact of AI.
-McKeown also said some businesses had said that the warm weather and football world cup had affected activity in July, although she said the effects "differed across industries, benefitting some businesses while creating challenges for others".
-The ONS said that in the three months to July, which gives a better underlying picture, the economy grew by 0.4% compared with the previous three months.
-Rob Arnold, co-founder of Ascendea, an AI firm which employs nine people, believes the UK hasn't seen the real economic growth potential from the technology yet.
-He says his company is able to develop apps for other businesses "100 times quicker at a 50th of the cost" because of AI, but that the UK government needs to do more to invest in the sector as there are currently better opportunities in the US.
-He knows a few small UK-based AI firms that have either moved to the US or are thinking of doing so due to a lack of UK government support.
-Alongside grants and funding, he says the government also needs to invest in training companies on how to use AI as it can be dangerous if not understood properly. "It's like playing with a weapon," he says.
-Paul Dales, the chief UK economist at Capital Economics, said July's data showed "the resilience of the economy in the first half of the year continued into the second half".
-However, he added that higher energy prices and borrowing costs would soon start to hit growth, especially if the rises seen this week are sustained.
-The Iran war has led to a sharp jump in oil prices, which has fed through to higher energy and fuel prices - affecting households and businesses.
-This rise in energy costs has led to fears that inflation will remain high, and increase the chance that central banks will hike interest rates to keep price rises under control.
-The Bank of England is meeting next week to discuss interest rates. Economists widely expect rates to be held, but some have predicted an increase before the end of the year.
-Chancellor John Healey said the economy, was "demonstrating a welcome resilience, despite serious global uncertainty".
-"Our growth although still fragile was the fastest in the G7 in the first half of the year," he added.
-"But, the conflict in the Middle East does have impacts here at home - from the cost of the weekly family shop to the cost of government borrowing."
-Healey is to present his first Budget in October. He told BBC News this week that he wants people to confident about the economy, despite acknowledging the challenge of "historic high" borrowing costs.
-Shadow chancellor Andrew Griffith said nobody in the government "should be high-fiving themselves" over the latest figures.
-"Our construction and production sectors are shrinking, unemployment is up under Labour, and we've got the highest government borrowing rates in almost 30 years."
-What's happening to the UK economy and how does it affect you?
-- Published2 hours ago
-Are interest rates on the way up again?
-- Published2 hours ago
-Yael Selfin, chief economist at KPMG, said while July's headline growth figure was strong, it "masks a weaker picture for households".
-"Consumer-facing services contracted in July, as retail and hospitality activity fell following earlier increases in activity in the summer," she said.
-"Higher energy and fuel prices are likely to place further pressure on household budgets, while elevated mortgage rates will continue to weigh on housing activity and wider consumer spending."
-Richard Carter, the head of fixed interest research at investment firm Quilter Cheviot, said the growth seem in July "may not last, especially as activity is likely to stall ahead of the Budget.
-"The war in the Middle East continues to drive a lot of the economic data, but the UK is the most exposed to the fallout," he said.
-"Calls for pro-growth measures will get louder as the Budget nears, but whether or not the government has the room to act remains to be seen."
-Additional reporting by Mitchell Labiak
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-11T10:17:28+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/199aa930-adb8-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 2,
-  },
-  {
-    id: "u-s-oil-price-dips-below-100-while-diese-e0f2e322",
-    title: "U.S. oil price dips below $100 while diesel passes $6, marking fresh record",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Brent crude and West Texas Intermediate’s front-month contracts edged lower on reports of plans for diplomatic talks between Gulf states.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories",
-    publishedAt: "2026-09-11T10:12:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-12854704",
     readTime: 2,
   },
 ];
