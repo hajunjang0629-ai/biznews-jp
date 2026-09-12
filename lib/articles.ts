@@ -15,6 +15,207 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "buffett-s-confidence-in-troubled-decade-a2c6640b",
+    title: "Buffett's confidence in troubled decade-old acquisition finally pays off",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
+Buffett's confidence in troubled decade-old acquisition finally pays off
+Six years ago, when Berkshire Hathaway took an $11 billion write-down of its $37.2 billion 2016 acquisition of Precision Castparts, Warren Buffett wrote in his annual letter to shareholders he had paid "too much" for the company, which makes "complex metal components and products."
+While it was a "fine company – the best in its business," he had been "simply too optimistic" about its profit potential, a "miscalculation ... laid bare" by the enormous downturn for the aerospace industry, Precision Castparts' largest customers, amid the Covid pandemic.
+In a CNBC interview when the deal was first announced, Buffett admitted it was "a very high multiple for us to pay," but told shareholders at the 2016 meeting he had great confidence in Mark Donegan, the company's CEO, both then and now, and the company's long-term profit outlook.
+It's taken longer than he planned, but Buffett's purchase is now looking pretty good.
+As Reuters puts it, there is currently a shortage of the "complex" products Precision Castparts makes that are essential for engine turbine blades.
+They're also used in natural gas turbines, which are in demand to produce energy for artificial intelligence data centers.
+This week, GE Aerospace announced it would pay $11.75 billion to acquire Consolidated Precision Products, one of the few companies that competes against Precision Castparts.
+Barron's calls that "pricey" at 26 times projected 2027 earnings before interest, taxes, depreciation, and amortization.
+Using the same multiple, Barron's estimates Precision Castparts is worth around $100 billion. That's well above the potential value of $60 billion to $75 billion it cited in an article last month that said the unit "probably has become one of the more valuable divisions" of Berkshire.
+It's also nearly three times the 2016 purchase price.
+In the Barron's piece, Andrew Bary said Berkshire, and its share price, aren't "getting much credit" for the subsidiary's rising value, in part because CEO Greg Abel, like Buffett, doesn't do analyst conference calls or investor events that could draw attention to the unit's performance.
+His recommendation: "Without Warren Buffett at the helm, Berkshire may have to start telling its story if it wants to attract a new generation of investors. This year's trading action suggests that something may need to change."
+Berkshire bounces a bit as Wall Street sells off
+Berkshire Hathaway shares managed a modest gain this week even as Wall Street's major averages declined, a small departure from the 2026 "trading action" Bary cites.
+Both the Class A and Class B shares gained almost 0.9% while the S&P 500 fell by 0.8%.
+Until Friday's bounce, that benchmark index, along with the Dow Industrials and the Nasdaq Composite, had dropped four days in a row as oil and bond yields moved higher.
+Even with this week's outperformance, Berkshire's B shares still trail the S&P 500 by more than 10 percentage points so far this year.
+Nebraska candidate moves to replace ad that included Buffett's image
+The campaign team for the Republican running in Nebraska's 2nd Congressional District accelerated the deployment of a new campaign ad after Susie Buffett complained about a previous commercial that briefly included an image of her father, Warren Buffett.
+In the ad, a picture of Buffett and his name appear on screen for roughly two seconds as candidate Brinker Harding says, "Here in Omaha, we know a thing or two about the stock market, some more than others. But we do it without insider information."
+He then goes on to highlight his call for a ban on Congressional stock trading, saying some lawmakers "trade on secrets you'll never know," as they "get rich" while "we barely get by."
+In a report that led its 10 PM CT newscast Wednesday evening, ABC affiliate KETV in Omaha reported Susie Buffett had asked Harding on Sept. 2 to remove the ad.
+She told the station, "I think it's worth it to say that Warren did not give Brinker his permission to use his face or name in his ad.
+"It implies that my dad endorses him. He did not have permission to use it."
+The KETV report quoted Harding as saying in a statement, "In Nebraska, we work hard and support each other, and we do it honestly. Warren Buffett exemplifies that, and that was the point of my ad."
+The report said Harding did not comment on whether the ad would be taken down but noted "it does look like new ads from his campaign are beginning to run on some stations."
+A Harding campaign spokesperson told me the campaign did not think its ad implied a Buffett endorsement, but to be respectful to the Buffett family, it responded to her concern by accelerating the rollout of its next planned ad by several days, although its effort was hampered by the Labor Day weekend.
+The commercial now running does not show or mention Buffett.
+BUFFETT & BERKSHIRE AROUND THE INTERNET
+Some links may require a subscription:
+- Best's News and Research Service: 2026 Best's Rankings: Berkshire Hathaway Takes DPW Top Spot Among Accident & Health Lines
+- Financial Times: The day Warren Buffett saved Salomon Brothers
+HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
+The effects of 9/11 on Berkshire and the insurance industry (2002)
+Warren Buffett shares his thoughts on the 9/11 attacks and explains how Berkshire's insurance companies have started taking terrorism into account when writing policies.
+AUDIENCE MEMBER: I know you lost a lot of money as a result of 9/11. But I would like to know how 9/11 changed your life and your investment strategy?
+WARREN BUFFETT: It made everybody, I think, in the country aware, I mean, we've gone through world wars and all of that, and essentially felt quite protected within these borders.
+And I have been quite worried about — Charlie can attest to — you know, the possibility, particularly of some kind of nuclear device in this country, by — probably more likely by terrorists than by some, at least, declared act of war by another state.
+And 9/11 made everybody realize that as humans have not progressed, particularly, in terms of how they behave with each other over the years, they have progressed enormously in their ability to inflict damage on those they hate for one reason or another...
+In terms of the business aspects of it, in your question, obviously the area at Berkshire that it effects most significantly, by miles, is insurance.
+And prior to 9/11, even though we recognized that there could be huge monetary damages that flowed from the activities of what I would call deranged people, we hadn't really written the contracts in such a way as to either get paid for taking that risk or to exclude the risk. In other words, we were throwing it in for nothing.
+We had excluded risk for war. I mean, we knew that we'd seen what had happened in England in the 40s, and so we had taken account of something that some of us had seen with our own eyes, but we didn't take account of something that we knew was possible, but we just hadn't seen. And that's, you know, that's the human condition, to some degree.
+Since September 11th, everybody in the insurance business recognizes that they had exposures that they weren't charging for, and they either had to exclude those exposures or they had to charge for them.
+We have written — first thing we had to do, of course, is we had lots of policies on the books that left us exposed to this, and most of those policies ran for a year, starting at different points. Those have run off to a great degree, but they're not entirely run off.
+The other thing we did was on new policies. We have sold a fair amount, quite a large amount, of terrorism insurance that excludes what we call NCB, nuclear, chemical, and biological, as well as fire following nuclear.
+And, we can take a fair amount of exposure to that sort of terrorism, because it doesn't — it won't aggregate. It aggregated at the Twin Towers in a way that — World Trade Center — in a way that just about was as extreme as you could get for non-NCB-type activities.
+I mean, that was a huge amount of damage done without nuclear, chemical, or biological.
+But we can have tens of billions of dollars with NCB excluded throughout a greater New York area, or something, but we can't have hundreds of billions of exposure that would be exposed, say, to, nuclear activities, because there an act or two, or three, coordinated, could cause damage that would destroy the insurance industry.
+And if we had coverage on that, it would destroy us as well.
+BERKSHIRE STOCK WATCH
+Four weeks
+Twelve months
+BRK.A stock price: $766,000.00
+BRK.B stock price: $510.37
+BRK.B P/E (TTM): 12.83
+Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
+Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
+Berkshire repurchased $4.5 billion of its shares in Q2 2026.
+BERKSHIRE'S TOP EQUITY HOLDINGS - Sep. 11, 2026
+Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
+Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
+- Mitsubishi, which is as of April 30, 2026
+The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
+QUESTIONS OR COMMENTS
+Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
+If you aren't already subscribed to this newsletter, you can sign up here.
+Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
+-- Alex Crippen, Editor, Warren Buffett Watch`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/buffetts-confidence-in-troubled-decade-old-acquisition-finally-pays-off.html",
+    publishedAt: "2026-09-12T13:20:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "trump-sees-iran-war-ending-soon-after-mi-3333a2b4",
+    title: "Trump sees Iran war ending soon after mid-term elections, predicts oil prices will then fall sharply",
+    titleJa: "トランプ大統領、イラン戦争は中間選挙後すぐに終わるとみており、その後原油価格は急落すると予想",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `The war in Iran will likely end soon after November's mid-term elections, President Donald Trump said Saturday, and predicted that energy prices would fall sharply once that happens.
+"I think very soon, I think it'll be right after the mid-terms, actually," Trump said on a trip to Ireland when asked by reporters when the Iran war is likely to end. "I would say shortly, and oil will come tumbling down when that happens,"
+Oil prices retreated on Friday, but notched sharp weekly gains after soaring above $100 a barrel for the first time in months.
+Brent crude oil futures, the global benchmark, settled down 2.8% at $104.61 a barrel. U.S. West Texas Intermediate was down 2.4% to settle at $100.05 per barrel. On Thursday, Brent crude peaked at around $108 a barrel, while WTI hit more than $104.
+The price decline came after Iranian state media said Tehran will meet with Gulf states in Oman to discuss the Strait of Hormuz, indicating some diplomacy is taking place despite a week of sharp escalation.
+MS NOW quoted a senior government official and a Gulf diplomat as saying that Iranian and Gulf officials will meet in Oman's capital, Muscat, on Monday to sign an agreement that will establish an Iran-Oman shipping route through the Strait of Hormuz.
+But Iranian President Masoud Pezeshkian said his country will not surrender, adding that it has resisted aggression from the U.S. and Israel.
+"Iran has successfully stood against Israel and the U.S.," Pezeshkian said late Friday as he addressed a gathering of Indian religious leaders in New Delhi. "Since we are seeking truth and justice, we will not yield in front of bullying arrogance."
+Pezeshkian's comments ahead of the BRICS Summit in India over the weekend came on the heels of Trump's assertion earlier this week that Iran would have wiped out Israel and the Middle East, and started hitting U.S. cities, if Washington had not taken military action against Iran.
+Saudi pipeline attack
+Trump also said Saturday that Iran was likely responsible for attacks on Saudi Arabia's crucial East-West crude oil pipeline.
+"Well, I think they are. Probably, they are," he said in response to a reporter's question about the attack.
+Saudi Arabia said Friday that it shut down the pipeline as a precautionary measure after multiple attacks by drones launched from Iraq.
+The drones targeted the pipeline in the Riyadh and Medina regions Thursday morning causing fires and some damage, the Saudi government said. Several people were injured in the attacks, it said.
+The Saudis have relied on the East-West pipeline to shift crude oil exports away from Persian Gulf as the U.S. and Iran battle for control over the Strait of Hormuz. The pipeline, which has a capacity of 7 million barrels per day, runs across the kingdom to export terminals on the Red Sea.
+Emergency teams were deployed to secure the pipeline and assess its safety after Thursday's attacks, the Saudi Energy Ministry said.
+Trump said he spoke with Saudi Crown Prince Mohammed bin Salman following the attack.
+Houthis "don't want to fight with us"
+The U.S. president also said that Yemen's Iran-backed Houthi rebels have been in contact with his administration.
+"The Houthis called us and they don't want to fight with us," Trump said. "They let us know, they don't want to fight with us. They don't want me to go after them."
+The Houthis reportedly advanced to Yemen's strategic Perim Island on Friday, delivering a major boost to the militant group's push to take control of one of the world's most important shipping choke points.
+The capture of Perim Island, which was reported by several news agencies, citing multiple Yemeni government sources, comes just one day after the Houthis seized Yemen's port city of Mokha on the Red Sea coast. CNBC could not independently confirm the report.
+The rapid ground offensive is seen as a severe setback to Saudi Arabia and the Yemeni forces it backs and puts Iran and its proxies on course to exercise control over two critically important oil choke points on either side of the Arabian Peninsula: the Bab el-Mandeb Strait and the Strait of Hormuz.
+Perim Island is a small and rocky area of land that divides the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden and to global markets.
+There are concerns that the Houthis' advance toward the Bab el-Mandeb Strait could have significant ramifications for global trade, particularly if the militant group ratchets up threats or attacks on Red Sea shipping.
+The Houthi advance prompted Saudi Arabia's crown prince to personally press Trump for U.S. military intervention, MS NOW reported later Friday, according to a person familiar with the conversations.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
+    publishedAt: "2026-09-12T13:02:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "i-want-to-pay-for-every-customer-at-my-l-414191eb",
+    title: "I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+    publishedAt: "2026-09-12T13:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-85373003",
+    readTime: 2,
+  },
+  {
+    id: "oil-s-roundtrip-back-to-100-why-china-co-31d127d4",
+    title: "Oil's roundtrip back to $100. Why China could determine what happens next",
+    titleJa: "原油価格は往復で100ドルに戻る。なぜ中国が次に何が起こるかを決定できるのか",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `China will play a pivotal role in deciding whether oil prices sustain this week's rally and potentially test wartime highs.
+The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May. The futures contract surged about 50% from its summer low of $68.55 reached about three weeks after Washington and Tehran signed their now failed memorandum of understanding on June 17.
+This week's rally comes as fighting sharply escalated in the Middle East with Saudi Arabia's crucial East-West oil pipeline shut down after multiple attacks.
+The oil market has gradually restored a risk premium since the MOU collapsed and the U.S. reimposed its naval blockade of Iran in July, said Bob McNally, president of Rapidan Energy. But U.S. crude prices are still well below their April 7 wartime closing high of $112.95.
+While the market has priced in the escalation in Middle East fighting, it may not have fully considered China increasing its imports, said Rebecca Babin, senior energy trader at CIBC Private Wealth.
+"What isn't reflected is the fact that we may actually see a stronger demand pull for crude as refiners start to really try to ramp up in China, tightening the market further," Babin told CNBC's "Squawk Box" Friday.
+China's crash diet
+China has played a crucial role in keeping prices from skyrocketing during the Iran war by acting as a swing consumer. It has slashed its crude imports between 3 million barrels per day to 5 million bpd, McNally said. Beijing has a massive petroleum reserve of more than 1 billion barrels it can rely on.
+"The biggest factor containing crude oil prices since this thing started is China's crash diet," McNally told CNBC's "The Exchange" Tuesday. "It's coming off the diet and it's thirsty and it's hungry — it's starting to bid crude up."
+Chinese refiners have an incentive to re-enter the market, as the profit margin to produce diesel has soared as the Iran and Ukraine wars have knocked out a significant amount of global refining capacity.
+"Now that these refining margins are so extreme, they literally can't pass it up," Babin said. "They're going to buy crude and they're going to put product on the market and make money."
+China's crude purchases are not expected to return to prewar levels but they have increased over those seen in the spring, said Amrita Sen, founder of Energy Aspects, in an interview with CNBC's "Access Middle East" on Friday.
+China's imports plunged to a wartime low of around 6 million bpd in June, a nearly 50% decline compared with 11.5 million bpd in February, according to Kpler data. Its imports have increased to around 7 million bpd in July and August, according to the data.
+China's buying activity this month is at a similar level to July and August and is unlikely to dramatically ramp up beyond that, said Matt Smith, director of commodity research at Kpler.
+Beijing "is a very savvy buyer and will lean more on inventories and keeping refinery runs in check rather than buying oil in triple digits," Smith said.
+But oil prices are trending higher as emergency stockpile releases are nearing an end soon. Global inventories have plunged by 400 million barrels after more than six months of war, eroding one of the other key buffers that prevented oil prices from shooting up earlier this year, according to the U.S. Energy Information Administration.
+"Summer is over, peace didn't happen, the war is still going on," Rapidan Energy's McNally said, noting that the Trump administration's efforts to talk down the market aren't as effective as they previously were.
+"The market's optimism bias, it's willingness to sell off on verbal intervention, jawboning about peace being around the corner, seems to be ebbing a little bit," he said.`,
+    bodyJa: `原油価格が今週の上昇を維持し、戦時中の高値を試す可能性があるかどうかを決める上で、中国は極めて重要な役割を果たすだろう。
+木曜日の米国原油価格は1バレル当たり102ドルを突破し、終値としては5月以来の最高値を記録した。先物契約は、ワシントンとイラン政府が6月17日に今は失敗に終わった覚書に署名した約3週間後に付けた夏の安値68.55ドルから約50％急騰した。
+今週の集会は、サウジアラビアの重要な東西石油パイプラインが複数の攻撃を受けて閉鎖され、中東で戦闘が激化している中で開催された。
+ラピダン・エナジーのボブ・マクナリー社長は、覚書が崩壊し、米国が7月にイランに対する海上封鎖を再発動して以来、石油市場は徐々にリスクプレミアムを回復していると述べた。しかし、米国の原油価格は戦時中の4月7日終値の高値である112.95ドルを依然として大幅に下回っている。
+ＣＩＢＣプライベート・ウェルスのシニアエネルギートレーダー、レベッカ・バビン氏は、市場は中東紛争の激化を織り込んでいるものの、中国の輸入拡大を十分に考慮していない可能性があると指摘した。
+バビン氏は金曜日、CNBCの番組「スコークボックス」で、「反映されていないのは、精製業者が中国での本格的な生産拡大に努め始め、市場がさらに逼迫する中、実際に原油需要の引き込みが強まる可能性があるという事実だ」と語った。
+中国のクラッシュダイエット
+中国はイラン戦争中のスイング消費者として価格の高騰を防ぐ上で重要な役割を果たした。マクナリー氏によると、原油輸入量を日量３００万バレルから５００万バレルまで削減した。北京には10億バレルを超える膨大な石油埋蔵量があり、信頼できる。
+「この事態が始まって以来、原油価格を抑えている最大の要因は中国の暴落ダイエットだ」とマクナリー氏は火曜日、CNBCの「ザ・エクスチェンジ」で語った。 「食事から抜け出し、喉が渇き、お腹が空いているので、原油価格が高騰し始めています。」
+イランとウクライナの戦争で世界の精製能力が大幅に失われ、ディーゼル生産の利益率が急上昇しているため、中国の精製業者には市場に再参入するインセンティブがある。
+「現在、精製マージンがあまりにも極端なので、文字通りそれを無視することはできません」とバビン氏は語った。 「彼らは原油を購入し、製品を市場に投入して利益を得るつもりだ。」
+中国の原油購入額は戦前の水準に戻るとは予想されていないが、春の購入額よりは増加しているとエネルギー・アスペクツの創設者アムリタ・セン氏が金曜日のCNBC「アクセス・ミドル・イースト」のインタビューで述べた。
+Kplerのデータによると、中国の輸入量は6月に戦時中の最低日量約600万バレルまで落ち込み、2月の日量1150万バレルに比べて50％近く減少した。データによると、7月と8月の輸入量は日量約700万バレルまで増加した。
+ケプラーの商品調査ディレクター、マット・スミス氏は、今月の中国の購買活動は７、８月と同水準で、それを超えて劇的に増加する可能性は低いと述べた。
+スミス氏は、中国政府は「非常に賢明な買い手であり、3桁の原油を購入するよりも、在庫と製油所の操業を抑制することに重点を置くだろう」と述べた。
+しかし、緊急備蓄放出がまもなく終了に近づく中、原油価格は上昇傾向にある。米国エネルギー情報局によると、6か月以上にわたる戦争の後、世界の在庫は4億バレル減少し、今年初めの原油価格の高騰を防ぐ他の重要なバッファーの1つを侵食した。
+ラピダン・エナジーのマクナリー氏は「夏は終わったが、平和は実現しなかった。戦争はまだ続いている」と述べ、市場を説得しようとするトランプ政権の取り組みは以前ほど効果がないと指摘した。
+同氏は、「市場の楽観バイアス、口頭介入で売りに出ようとする姿勢、平和がすぐそこまで来ているというあごの声は、少し弱まりつつあるようだ」と述べた。`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
+    publishedAt: "2026-09-12T12:40:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "i-still-don-t-have-my-mri-my-health-ins-77079eb9",
+    title: "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+    publishedAt: "2026-09-12T12:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-65472748",
+    readTime: 2,
+  },
+  {
     id: "us-and-ireland-s-relationship-stronger-t-897203e9",
     title: "US and Ireland's relationship 'stronger than ever'",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -939,6 +1140,86 @@ Jamie Hagen, president of Hell Bent Xpress, a family-owned trucking company in S
     readTime: 2,
   },
   {
+    id: "interest-rates-could-rise-again-across-t-c7ec9881",
+    title: "Interest rates could rise again across the world – here's why",
+    titleJa: "金利は世界中で再び上昇する可能性があります - その理由は次のとおりです",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Interest rates could rise again across the world – here's why
+- Published
+There's nothing like talk of energy prices and potential higher borrowing costs to remind us that the summer holidays are well and truly over.
+Surging oil prices have been pushing up what drivers pay at the fuel pumps and eating away at household budgets for months, and concerns remain over whether the economic impact of the US-Iran war will drive the cost of living higher.
+Citing the Middle East conflict and warning inflation was "set to remain well above" its 2% target for some time, the European Central Bank raised interest rates this week to 2.5%.
+Other central banks are also responding, with the US and the UK poised to make interest-rate decisions next week.
+Up first on Wednesday is the US Federal Reserve, which has held rates steady between 3.5% and 3.75% for five meetings in a row. It last made a change - a rate cut - in December.
+But above target inflation at 3.4%, a strong jobs market and President Donald Trump saying he does not think oil prices will come down until the Iran war ends, which he expects to happen after November's elections, has led many on Wall Street to bet on a rate hike this month.
+Newly-appointed Fed Chair Kevin Warsh has remained tight-lipped on where he sees interest rates going, but his repeated comments that the central bank's focus should be on slowing price rises has further fuelled expectations of an increase.
+Economists at Deutsche Bank said recently that a rate hike is "the most likely policy outcome", noting comments from Warsh and other members of the Fed.
+Views differ somewhat, with Grace Zwemmer, US economist at Oxford Economics, expecting rates to remain unchanged, but almost universally a rate cut appears to be off the table.
+Trump, though, is again pressing for lower rates.
+"The Fed Board, with its great new leader, must get smart - BE PATRIOTS for a change," he posted on social media last week.
+The US-Iran war and resulting higher global oil and gas prices are stoking the inflation fears. Shipments through the Strait of Hormuz waterway, one of the world's busiest oil and gas routes, have been restricted due to the war and a barrel of Brent crude is now around $105 (£78), approaching levels last seen at the outbreak of the conflict.
+Along with directly driving up costs for homes and businesses, higher energy prices can also make transporting goods more expensive and those extra costs can be passed down to consumers through steeper prices for the likes of food and other staples.
+Central banks try to limit price rises with higher interest rates. By pushing up the cost of borrowing for things such as mortgages and credit cards, they seek to slow consumer spending and inflation. Higher rates also can give people incentives to save instead of spend.
+But it's a balancing act, as higher rates can also encourage businesses to hold off on investing and hiring.
+US prices remain high as fuel costs squeeze household budgets
+- Published1 day ago
+When the Bank of England meets later next week, it is expected to try to look both at current price pressures and the wider economic picture.
+Millions of UK households are set to see energy bills rise to the highest level for three years heading into the winter and gas prices have risen above 200p per therm for the first time since the end of 2022.
+Inflation in the UK is at 2.9%, and it is expected to jump in coming months.
+But despite those predictions, there appears to be broad agreement that the Bank will leave rates at 3.75%.
+That's because there is "no sign" of the so-called second-round effects of the price shock feeding through the economy, such as workers requesting wage rises or businesses hiking prices, according to Oxford Economics.
+This gives the Bank "some breathing space," added economist Alexander Harvey.
+Yael Selfin, chief economist at KPMG, said that outside of the US, in places such as the UK, the economic environment has been "much weaker" than where it was in 2022, when the last inflation shock hit the world. UK inflation reached a record high of 11.1% in October that year.
+Interest rates are already higher than four years ago, she added, and consumers, somewhat scarred by previous price hikes, have changed how they spend.
+Also, four years ago "businesses were hiring aggressively, vacancies were at record highs, and more people were moving jobs than normal", Harvey said, as the economy rebooted following Covid.
+"The conditions were in place for employees to push for significant pay rises in response to a significant inflation shock," he said. "That's in stark contrast to the current labour market."
+Now, hiring is much weaker than average and there is less pressure to recruit - giving employees less leverage to demand higher pay.
+Graphic by Miguel Roca-Terry and Jess Carr
+- Published28 August
+- Published1 day ago
+- Published3 days ago`,
+    bodyJa: `金利は世界中で再び上昇する可能性があります - その理由は次のとおりです
+- 公開されました
+エネルギー価格や借入コストの上昇の可能性についての話ほど、夏休みがもうすぐ終わったことを思い出させるものはありません。
+原油価格の高騰により、運転手が燃料ポンプに支払う金額がここ数カ月にわたって押し上げられ、家計を圧迫しており、米国とイランの戦争による経済的影響で生活費が上昇するのではないかとの懸念が依然として残っている。
+中東紛争を引き合いに出し、インフレ率がしばらくは目標の２％を「大幅に上回って推移する見通し」であると警告し、欧州中央銀行は今週金利を２．５％に引き上げた。
+他の中央銀行も対応しており、米国と英国は来週金利決定を行う予定だ。
+水曜日に最初に上昇したのは米国連邦準備制度理事会で、5会合連続で政策金利を3.5％から3.75％の間で据え置いた。最後に利下げという変更を加えたのは12月だった。
+しかし、インフレ率は目標の3.4％を上回っており、堅調な雇用市場に加え、ドナルド・トランプ大統領がイラン戦争が終結するまで原油価格は下落しないと考えており、11月の選挙後に起こると予想しているため、ウォール街の多くの人々は今月の利上げに賭けている。
+新たにFRB議長に任命されたケビン・ウォーシュ氏は金利の先行きについて口を閉ざしたままだが、中央銀行の焦点は物価上昇の抑制にあるべきだとの同氏の繰り返しの発言で利上げ期待がさらに高まった。
+ドイツ銀行のエコノミストらは最近、ウォーシュ総裁や他のFRBメンバーのコメントを踏まえ、利上げが「最も可能性の高い政策結果」であると述べた。
+オックスフォード・エコノミクスの米国エコノミスト、グレース・ズウェマー氏は金利据え置きを予想するなど見方は若干異なり、ほぼ全般的に利下げは考えられないようだ。
+しかし、トランプ大統領は再び利下げを要求している。
+同氏は先週、ソーシャルメディアに「偉大な新指導者を迎えたFRB理事会は賢くならなければならない。変化のために愛国者になれ」と投稿した。
+米国とイランの戦争とそれに伴う世界的な石油とガス価格の高騰がインフレ懸念を煽っている。世界で最も交通量の多い石油・ガスルートの一つであるホルムズ海峡水路を通じた輸送は戦争のため制限されており、ブレント原油1バレルは現在約105ドル（約78ポンド）と、紛争勃発時の最後に見られた水準に近づいている。
+エネルギー価格の上昇は、家庭や企業のコストを直接押し上げるだけでなく、物品の輸送コストも上昇させる可能性があり、その余分なコストは、食品やその他の必需品の価格高騰を通じて消費者に転嫁される可能性があります。
+中央銀行は金利上昇によって物価上昇を抑えようとします。住宅ローンやクレジットカードなどの借入コストを引き上げることで、消費支出とインフレを抑制しようとしている。また、金利が高くなると、消費ではなく貯蓄するというインセンティブが人々に与えられる可能性があります。
+しかし、金利の上昇は企業の投資や採用の控えを促す可能性もあることから、これはバランスを取る必要がある。
+燃料費が家計を圧迫するため、米国の価格は高止まり
+- 1 日前に公開
+イングランド銀行は来週後半に会合を開き、現在の物価圧力とより広範な経済状況の両方を検討する予定だ。
+英国の何百万もの世帯では、冬に向けて光熱費がここ3年間で最高水準に上昇する見通しで、ガソリン価格は2022年末以来初めてサーム当たり200ペンスを超えている。
+英国のインフレ率は２．９％で、今後数カ月でインフレ率が上昇すると予想されている。
+しかし、こうした予想にもかかわらず、中銀が金利を3.75％に据え置くということでは大方の合意があるようだ。
+オックスフォード・エコノミクスによると、労働者が賃上げを要求したり、企業が価格を引き上げたりするなど、経済全体に波及する価格ショックのいわゆる二次的影響の「兆候」が見られないためだという。
+これにより中銀に「一息つける余地」が与えられるとエコノミストのアレクサンダー・ハーベイ氏は付け加えた。
+ＫＰＭＧの首席エコノミスト、ヤエル・セルフィン氏は、英国など米国以外の地域では、前回のインフレショックが世界を襲った２０２２年に比べて経済環境が「はるかに弱くなっている」と述べた。英国のインフレ率は同年10月に11.1％という過去最高を記録した。
+金利はすでに4年前よりも高くなっており、消費者は前回の値上げで多少の傷を負い、支出の仕方を変えていると同氏は付け加えた。
+また、4年前には新型コロナウイルス感染症後に経済が再起動したため、「企業は積極的に採用を行っており、欠員は過去最高を記録し、通常よりも多くの人が転職していた」とハーベイ氏は述べた。
+同氏は「重大なインフレショックに対応して従業員が大幅な賃上げを求める条件は整っていた」と述べた。 「これは現在の労働市場とはまったく対照的だ。」
+現在、採用活動は平均よりもはるかに弱く、採用へのプレッシャーも少ないため、従業員がより高い賃金を要求する力が弱くなっています。
+グラフィック：ミゲル・ロカ・テリーとジェス・カー
+- 8 月 28 日発行
+- 1 日前に公開
+- 3 日前に公開`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T13:35:29+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6586/live/365b8a30-ad4a-11f1-8963-d14e6edce0d0.jpg",
+    readTime: 5,
+  },
+  {
     id: "25-years-after-9-11-the-u-s-starts-rolli-b2e62480",
     title: "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -1072,137 +1353,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     publishedAt: "2026-09-11T10:12:00+00:00",
     category: "エネルギー",
     imageUrl: "https://images.mktw.net/im-12854704",
-    readTime: 2,
-  },
-  {
-    id: "oracle-shares-are-climbing-after-results-65c56902",
-    title: "Oracle shares are climbing after results. What Wall Street analysts are saying now.",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Oracle shares are climbing on Friday after the company delivered a solid quarter, but some analysts are still wary.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
-    publishedAt: "2026-09-11T10:05:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-86510844",
-    readTime: 2,
-  },
-  {
-    id: "bridgewater-investment-chief-says-ai-cou-637a33cd",
-    title: "Bridgewater investment chief says AI could wipe out humanity",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Greg Jensen, the co-chief investment officer at hedge-fund giant Bridgewater Associates, agreed that AI could wipe out humanity.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/bridgewater-investment-chief-says-ai-could-wipe-out-humanity-242efa34?mod=mw_rss_topstories",
-    publishedAt: "2026-09-11T09:42:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-06155455",
-    readTime: 2,
-  },
-  {
-    id: "iran-backed-houthis-seize-key-port-in-ye-47f493fa",
-    title: "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The Iran-backed Houthi militant group has seized control of Yemen's port city of Mokha on the Red Sea coast, bringing Tehran closer to securing another point of leverage in its six-month-long conflict with the U.S.
-The Houthis' capture of Mokha is regarded as a severe setback to Saudi Arabia and the Yemeni forces it backs. It could also increase Iranian pressure around two critically important oil choke points on either side of the Arabian Peninsula: the Bab el-Mandeb Strait and the Strait of Hormuz.
-The Houthis seized control of the city on Yemen's Red Sea coast on Thursday, according to The Associated Press, citing Yemeni and Houthi officials. CNBC could not independently confirm the report.
-Mokha, a strategic city on Yemen's Red Sea coast that gave its name to Mocha coffee, is situated about 75 kilometers (46 miles) north of the Bab el-Mandeb Strait, a waterway that connects the Red Sea to the Gulf of Aden and to global markets.
-The strategic importance of the Bab el-Mandeb Strait has grown significantly since the start of the U.S. and Israel's war against Iran in late February, with the waterway emerging as an alternative route for crude moving toward Asia.
-It is now feared that the Houthis' advance toward the Bab el-Mandeb Strait could have major ramifications for global trade, particularly if the militant group ratchets up threats or attacks on Red Sea shipping.
-The capture of Mokha represents a "major blow" to Saudi Arabia as it raises the possibility of the group exerting a tighter grip on the Bab el-Mandeb Strait, according to Hamish Kinnear, principal Middle East and North Africa analyst at risk intelligence company Verisk Maplecroft.
-"The Houthis were already threatening Saudi shipping from previous positions, but their capture of Mocha opens up the possibility of further advances towards the Bab el-Mandeb coastline and a tighter grip on the chokepoint," Kinnear said in a research note.
-As the war continues, Kinnear said both Tehran and Washington believe time is on their side, making a new truce unlikely for now.
-"Oil and gas prices, and more specifically refined products such as diesel, will continue to tick upwards while that remains the case – even if US convoys and Strait of Hormuz export alternatives cushion the price impact," Kinnear said.
-What next for oil prices?
-Oil prices traded lower on Friday morning, but both major benchmarks remained on course to end the week above $100 per barrel for the first time since mid-May.
-International benchmark Brent crude futures with November expiry traded 2.1% lower at $105.37 per barrel, while U.S. West Texas Intermediate futures with October expiry were last seen 1.7% lower at $100.76.
-The resilience of the oil market is being tested by a clearer recognition of the mounting threat to regional supply, strategists at ING said, with energy market participants seen repricing both the duration and severity of the conflict.
-Even as flows continue through the Strait of Hormuz, ING's strategists said flows remain well below pre-war levels, underlining how fragile the situation has become.
-"Saudi energy infrastructure and crude oil exports from the Red Sea are increasingly at risk, with the Houthis in Yemen targeting Saudi Arabia," ING's Warren Patterson and Ewa Manthey said in a research note published Friday.
-"As the Houthis have taken control of the Red Sea port of Mokha in Yemen, recent events increase the threat to shipping around the Bab al-Mandeb Strait," they added.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
-    publishedAt: "2026-09-11T08:44:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "chinese-nvidia-rival-enflame-soars-206-o-b31e29a3",
-    title: "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Chinese chipmaker Enflame, which is developing domestic alternatives to U.S. rivals like Nvidia, has seen its stock soar 206% after debuting in Shanghai.
-The company saw huge demand, with its initial retail offering drawing orders for over 6,000 times the shares available before it reallocated more stock to that group.
-Enflame, which is backed by tech giant Tencent, is considered one of China's so-called "four little dragons" of AI chipmaking and is the last of that group to go public.
-The other three all surged on listing, and have remained higher since. In December, MetaX soared nearly 700% on its first day of trading, while Moore Threads gained over 400% on its trading debut. Biren jumped 76% on its IPO in January.
-Investors are betting on the ability of domestic AI chipmakers to replace Nvidia in China. International chipmakers led by Nvidia accounted for nearly 60% of China's AI accelerator market in 2025, according to IDC data cited in Enflame's prospectus, translated by CNBC.
-Nvidia has seen its exports in China's data center compute market shuttered by U.S. export controls and Beijing's lukewarm interest in importing advanced chips as the country pursues tech self-sufficiency.
-China's semiconductor buildout is accelerating. Goldman Sachs said in an August report that growing foundation models and AI applications in China were driving development across AI chips, foundries, memory and advanced packaging.
-The analysts expect China's semiconductor capital spending to reach $82 billion by 2030, driven by capacity expansion in memory and advanced nodes amid a growing generative AI trend.
-Local startups such as Moonshot AI's Kimi K3 closed the gap to the frontier with leading U.S. models, and Chinese AI systems are seeing growing uptake across the globe. Rival Z.ai said its GLM-5.3-Flash model runs entirely on China-made chips. Analysts said the company likely used a combination of chips from leading Chinese domestic player Huawei, as well as chips from Enflame and other local companies.
-Alibaba is also developing its own AI chips and accompanying software, as well as optimizing systems for leading Chinese models.
-Revenue surges
-Founded in 2018, Enflame is building AI processors as China looks to boost its efforts in model building amid major capability gains from domestic developers.
-Enflame said it plans to use proceeds from the listing to develop and commercialize its fifth- and sixth-generation AI chips, as it seeks to match the performance of high-end products from international rivals.
-The company reported revenue of 990 million yuan ($147 million) in 2025, up from 722 million yuan a year earlier, but has yet to turn a profit.
-Tech hardware has become a key driver of Chinese stock performance in recent months.
-In July, shares of chipmaker CXMT, which makes dynamic random-access memory (DRAM) chips, a key feature of some AI systems, soared nearly 466% in their debut on Shanghai's tech-heavy STAR Market, making CXMT the most valuable China-listed company.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
-    publishedAt: "2026-09-11T01:53:08+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-says-he-has-no-regrets-about-start-df03d56f",
-    title: "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `U.S. President Donald Trump said he has no regrets about starting the Iran war and added that "If I had it to do again, I would do exactly what I did."
-Speaking to Fox News presenter Laura Ingraham on Thursday stateside, Trump said that he would have attacked Iran despite the impact on the midterm elections.
-"If we hadn't done Iran, you would be cruising to midterms victory right now," Ingraham told Trump, to which Trump replied "supposing we were cruising, and all of a sudden Iran has a nuclear weapon. They would use it."
-He added that if Iran had a nuclear weapon, the Islamic Republic would "wipe out" Israel and the Middle East, and start hitting U.S. cities.
-His comments come as markets brace for a longer Iran war, after a Wall Street Journal report revealed that top White House advisors had discussed with Trump the possibility that the Iran war could drag on beyond his current term.
-Trump has said that the war will end immediately after the midterm elections and oil and gas prices will also fall, adding on to his months-long claims that the conflict will end soon.
-In separate comments to NewsNation on Thursday, Trump denied reports that there was any damage to U.S. assets, after Iran claimed it had damaged multiple U.S. fighter aircraft at a base in Jordan.
-"No damage. No nothing," Trump said, when asked if there was any truth to the reports.
-Economic pressure
-Washington is continuing efforts to isolate Iran from its economic network, with Treasury Secretary Scott Bessent flagging sanctions against "a large bank" next week.
-"We're going to do it on Monday because we want to honor the memory of our fallen citizens on 9/11. But watch this space on Monday."
-Bessent said that the administration has sanctioned and closed the Dubai branches of the second largest bank in Egypt, claiming that the bank had given the Iran $1.8 billion dollars. The "largest Turkish bank" that had been giving to the Iranians was also sanctioned, although Bessent did not specify which bank were these.
-Trump, in the NewsNation interview, was also asked how Iran could continue holding out under the current economic pressure.
-"I don't know that they're gonna be able to hold out," Trump said. "But it'll get settled after the elections. Or maybe sooner. But it'll get settled right after the election."`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
-    publishedAt: "2026-09-11T01:43:57+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "bessent-says-a-large-bank-will-be-sancti-b7a74ffa",
-    title: "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `"A large bank" will be sanctioned by the U.S. next week, U.S. Treasury Secretary Scott Bessent said Thursday.
-"We're going to do it on Monday because we want to honor the memory of our fallen citizens on 9/11. But watch this space on Monday," Bessent said during an appearance on "Real America's Voice," without naming the financial institution nor the country.
-The announcement come after Trump's administration sanctioned the Dubai branches of the second largest bank in Egypt which is believed to have given Iranians $1.8 billion of funds. According to Bessent, Turkey's largest bank "that had been giving to the Iranians" will also be closed.
-Since the Mideast conflict began in February, the U.S. implemented a series of economic measures against Iran, including sanctions. However, the Trump administration escalated its pressure last month via what Bessent called "Operation Economic Outcast," which imposed sanctions on almost 60 entities, vessels and individuals. The scope of secondary sanctions were also expanded on those involve in business with Iran in industries including shipping and technology.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
-    publishedAt: "2026-09-11T01:07:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 2,
   },
 ];
