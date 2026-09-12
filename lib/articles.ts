@@ -15,6 +15,181 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "death-toll-from-philippines-ferry-fire-c-ad676570",
+    title: "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Death toll from Philippines ferry fire climbs to 35, with dozens still missing
+- Published
+The Philippine Coast Guard says it has recovered 30 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 35.
+More than 130 people were on board the MV June Aster when the blaze erupted on Wednesday as it neared its destination at the tourist hotspot of Coron, after departing from Manila.
+Forty-three people were rescued, with many receiving treatment in hospital, and searches continue for more than 50 people who remain unaccounted for.
+The country's coast guard says more bodies remain on the boat, which they were unable to board until Friday due to toxic fumes and lingering heat.
+In a press conference, coast guard spokesperson Commodore Noemie Cayabyab said most bodies had been retrieved from the sleeping area of the boat, which had been making a 22-hour journey.
+"Agencies are currently undertaking the proper recovery and identification of the remains in accordance with established procedures," Cayabyab said.
+"We recognise the grief of the families affected by this tragic incident."
+Earlier, the coast guard said preliminary interviews with the survivors suggest that the fire started in the cargo hold. Some passengers were not wearing life vests, they noted.
+A survivor who was hauled to safety on a rescue boat told the BBC he had heard frantic cries onboard when the fire erupted, and was trampled by panicked people as he tried to escape.
+The Philippines' maritime authority is investigating the circumstances surrounding the incident.
+The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
+The vessel was carrying 117 passengers and 17 crew members.
+Atienza Interisland Ferries, the vessel's operator, has pledged full cooperation with the inquiry.
+"Our hearts remain with the affected families, and we will not rest until all individuals are accounted for," the company said in a statement on Thursday.
+- Published21 hours ago`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T03:02:28+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "arrest-made-over-the-death-of-black-woma-58984cee",
+    title: "Arrest made over the death of black woman found hanged from tree in Mississippi",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Arrest made over the death of black woman found hanged from tree in Mississippi
+- Published
+Warning: This story contains distressing details
+Police in the US state of Mississippi have arrested a man in connection with the death of a black woman found hanged from a tree, and say they could soon take more people into custody.
+Tasia Fortune's body was found in the lot of an abandoned home in Jackson in August, but police only announced they were treating her death as a possible homicide earlier this week.
+"That arrest today is an important development in this investigation, but it is not the conclusion," Jackson Police Chief RaShall Brackney said on Friday. "This case remains active."
+Fortune's death has worried locals in Jackson, a majority-black city in a state with a history of racial violence and lynching.
+During Friday's news conference, Brackney said the medical examiner had confirmed Fortune's cause of death was homicide and said there would be a murder charge.
+She identified the suspect as Jarques Ratliff, 51, and said there was an "association" between Ratliff, who is also black, and Fortune, but would not elaborate further.
+"Additional arrests will be pending as our investigators continue to follow the evidence," Brackney said, adding that they had interviewed 15 people in the case.
+Fortune's mother, Christy Spivey, told the BBC that she cried when police called to update her about the arrest, saying: "I guess I do feel like a little sigh of relief...like a little bit of peace just come over me."
+"I just hope that they've got the right person," she added.
+The arrest of a suspect followed weeks of what Spivey and residents in Jackson described as relative silence and inaction from local officials.
+Combined with the grim nature of Fortune's death and Mississippi's history of racial lynchings, the lack of information about the case had left the community in shock and fear.
+Spivey earlier told the BBC she had tried contacting Jackson police several times over the last two weeks, leaving multiple voicemails, and had not heard back.
+Brackney addressed the family's frustration on Friday, saying: "We have been in constant contact with the mother and the stepfather, as well as the biological father, throughout this case."
+A letter Spivey wrote to officials about the limited communication and speed of the investigation was read during a public city meeting on Tuesday - moments before Jackson police made the announcement about a possible homicide.
+"I'm kind of like in awe," Spivey said. "Like, I can't believe it. That was quick."
+Earlier this month, Fortune's death was described by a member of the US Congress as part of a pattern of "possible modern-day lynchings".
+More than 50 members of Congress this week sent a letter, external to the FBI and justice department, saying they were "extremely alarmed by reports of black people found hanging from trees in numerous states" and calling for an independent investigation into the deaths of black Americans.
+"The series of deaths raise significant suspicion of foul play given the role of lynching in our nation's history," it states.
+So far this year there have been at least 10 reported hangings of black people in the US, they said, adding that there were more than 70 lynchings documented between 2000 and 2025.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T02:29:49+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0ba/live/4cbe86d0-ae1f-11f1-ac3c-d9de82cf7bb1.jpg",
+    readTime: 2,
+  },
+  {
+    id: "the-fed-could-raise-interest-rates-three-d6e1d2af",
+    title: "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Economists note that the Fed historically has not been content to raise rates only once.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T23:54:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-41184402",
+    readTime: 2,
+  },
+  {
+    id: "houthis-claim-major-advance-in-yemen-and-4735558b",
+    title: "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane
+- Published
+Yemen's Houthis have claimed a major advance on the western Red Sea coast, consolidating their grip on the key international shipping route.
+The Iran-backed group seized Perim Island at the mouth of the waterway in the Bab al-Mandab Strait, a source from Yemen's internationally recognised government told the BBC.
+It comes a day after the Houthis captured the strategic port city of Mokha from Saudi-backed pro-government forces, according to military sources. A Yemeni military official told the AFP news agency the Houthis now control the entire coastline.
+The Houthis earlier said they posed no threat to international shipping but reiterated their threat to target vessels from Saudi Arabia.
+Saudi Crown Prince Mohammed bin Salman, the country's de facto ruler, has personally pressed US President Donald Trump to take military action against the Houthis during their rapid advance, two sources familiar with the matter told CBS News - the BBC's media partner in North America.
+Trump has so far declined to involve the US military directly, offering instead to assist with intelligence and targeting support, the sources said.
+A senior Trump administration official later told the BBC: "We are in continuous dialogue with Saudi Arabia and the Republic of Yemen government regarding regional stability."
+On Friday, Yemeni pro-government forces withdrew from Perim (also known as Mayyun).
+Witnesses and news agencies reported that Houthi forces moved on to the island.
+The Houthis later issued a statement, saying that their military operation to expel Saudi-backed forces had been a "success" and that "maritime navigation is safe for all companies except for Saudi vessels".
+Houthi military spokesman Yahya Sarea said the "large-scale" military operation was launched on 3 September due to Saudi Arabia's "blatant aggression" against "our dear people".
+Sarea also said the Houthis had expelled "Saudi enemy" forces from six districts in the Taiz and Hodeidah regions, claiming that hundreds of troops had been killed, wounded or captured.
+The Houthi statement, however, did not mention Perim Island.
+Saudi Arabia has not publicly commented on the latest developments.
+Perim Island sits at the narrowest point of the Bab al-Mandab Strait, which has become increasingly important following the effective closure of the Strait of Hormuz - another crucial waterway - in the conflict between the US and Iran.
+Saudi Arabia has been relying on the Red Sea and the Bab al-Mandab Strait for shipping oil to customers in Asia.
+The escalation of the conflict between the Houthis, Yemen's government and Saudi Arabia has contributed to a surge in oil prices.
+Hundreds of people have reportedly been killed and thousands displaced in Yemen since the Houthis launched an offensive in the south-west a week ago.
+A Saudi-led coalition has also carried out air strikes on Houthi-controlled areas in western Yemen in support of the pro-government forces, and the Houthis have launched missiles and drones at cities and oil facilities in southern Saudi Arabia.
+The Saudi foreign affairs ministry said on Friday that drones from Iraq had targeted the country's East-West oil pipeline, forcing it to be closed as a "precautionary measure" and injuring several people.
+Iraq's government condemned the attack and its prime minister has launched an investigation.
+In a statement, the prime minister's office said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had originated from that region.
+Saudi Arabia's foreign ministry said that, following a call from Iraq's prime minister, it had chosen not to respond to the attacks at this stage.
+At least 46,000 people have been displaced in Yemen since fighting escalated with Yemen's government and Saudi Arabia, according to the International Organization for Migration (IOM).
+On Friday, the IOM said the number was "alarmingly rising by the hour".
+Amy Pope, IOM director general, said: "Families are being forced to flee for the second or third time in this conflict, with almost nothing left."
+The Houthis ousted the internationally-recognised government in 2015, triggering Saudi military intervention in the civil war.
+The group currently control much of Yemen, including the capital Sanaa. A truce that had largely held for more than four years effectively collapsed in July.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T22:17:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "passenger-train-derails-in-france-leavin-073c6019",
+    title: "Passenger train derails in France leaving at least 44 injured",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Passenger train derails in France leaving at least 44 injured
+- Published
+At least 44 people have been injured, including one seriously, after a passenger train derailed in northern France, local officials have said.
+An 18-year-old woman was airlifted in critical condition by helicopter to hospital.
+Transport Minister Philippe Tabarot said 180 passengers were on board the train that was operating between Rouen and Caen in Normandy.
+He added that 140 firefighters and other emergency teams were being deployed to the scene of the crash on Friday evening near the commune of Cléon, just south of Rouen.
+The cause of the derailment was not immediately known.
+The local authorities activated a mass-casualty response plan after the crash shortly before 20:00 local time (18:00 GMT).
+Photographs later emerged showing passengers leaving the crashed train, with French media reporting that three carriages overturned.
+France's state-owned railway operator SNCF reported "significant disruptions" on its routes in the area. It said replacement buses would be provided.
+The authorities advised the public to avoid the area.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T21:25:32+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e072/live/267036e0-ae24-11f1-9042-891b220b1e31.jpg",
+    readTime: 2,
+  },
+  {
+    id: "marvell-is-sitting-on-an-incredibly-stic-c6ba5d67",
+    title: "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T21:16:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-08108156",
+    readTime: 2,
+  },
+  {
+    id: "i-m-the-executor-my-two-siblings-and-i-6b8759f4",
+    title: "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `“Am I required to create three new inherited IRAs so that the firm can divide it equally?”`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+    publishedAt: "2026-09-11T21:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-51979575",
+    readTime: 2,
+  },
+  {
     id: "tesla-could-transform-the-trucking-busin-29220cfc",
     title: "Tesla could transform the trucking business — and capitalize on high diesel prices",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -63,6 +238,45 @@ In July, President Donald Trump, who has bought Dell shares since returning to o
     publishedAt: "2026-09-11T20:44:00+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.mktw.net/im-49120683",
+    readTime: 2,
+  },
+  {
+    id: "tragic-death-of-woman-who-testified-agai-81a96c3c",
+    title: "Tragic death of woman who testified against father in notorious mafia murder of mother",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Tragic death of woman who testified against father in notorious mafia murder of mother
+- Published
+A woman who testified against her own father after her mother was murdered in a notorious mafia killing in Italy is believed to have taken her own life.
+Denise Cosco was found critically injured on Sunday and died later in hospital in Rome.
+Her mother Lea Garofalo, who was killed in 2009, became a powerful symbol of resistance to the mafia after turning witness for the state against the 'Ndrangheta clan in southern Italy.
+Those close to Cosco recall her bravery in speaking out at her father's trial, but also her tremendous struggle in the years that followed.
+At 35, she died at the same age her mother was when she was murdered.
+Enza Rando, a senator and anti-mafia lawyer who represented Cosco at the murder trial, described her death as "a profound wound for the entire country", and proof that the mafia not only kills, but creates "true monsters in the lives and souls" of those who survive.
+Francesca Rispoli, co-president of the anti-mafia organisation Libera, said the death highlighted the struggle experienced by many who break with organised crime.
+"The mafia, it's not just something physical. You can leave. You can change your name," she told the BBC. "But there is still a tie, a family tie, that stays… deep inside and is impossible to overcome."
+Cosco, like her mother, had lived under state protection with a new name and identity for many years.
+But Rispoli said she remained extremely vulnerable and had reconnected with her father, Carlo Cosco, in prison in recent years because, despite everything, she had felt a "hole in her life".
+Friends say she struggled with mental health problems and addiction.
+"Maybe this is a sign that those trying to lead another life need more support. Not just for one year – maybe their whole life," Rispoli argued, as organised crime groups in Italy – especially the 'Ndrangheta - involve close-knit family networks.
+In Cosco's case, both her mother's family and her father were tied to the mafia.
+She had always refused to believe her father's story that her mother had abandoned her to start a new life in Australia.
+In fact, he had tricked Garofalo to a meeting, then had her strangled, her body dismembered then incinerated.
+Several years later, a statement by one of the killers finally allowed police to recover some fragments of bone and a necklace, which Cosco identified.
+At a public funeral in 2013, she spoke of her mother's courage in "putting herself on the line… for justice for all".
+Her father and three accomplices were already serving life in prison.
+At the trial, Cosco described herself as a "proud witness for justice" and said she had taken the difficult choice to testify – speaking from behind a screen – because she wanted "inner freedom to start over" with her life.
+Prosecutors have now opened an investigation to determine whether there was any incitement to suicide and her phone has been seized for analysis.
+Friends and supporters were due to gather in Milan on Friday evening to remember her near the spot where her mother was abducted.
+"Denise's entire life revolved between the two extremes of courage and suffering," Luigi Ciotti, president of Libera wrote, calling that a difficult balance.
+"Today, something in that fragile equilibrium was broken forever."
+If you or someone you know are affected by the issues raised in this story, the BBC Action Line has information on organisations that can offer advice and support.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-11T20:34:29+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f302/live/684bd3c0-ae07-11f1-b561-83a33482e04f.png",
     readTime: 2,
   },
   {
@@ -1047,167 +1261,6 @@ Listen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, 
     publishedAt: "2026-09-10T21:00:33+00:00",
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad58/live/9f602e80-ad47-11f1-ae59-91d2b63bf2a3.png",
-    readTime: 2,
-  },
-  {
-    id: "oracle-s-stock-jumps-7-on-earnings-beat-09d6da78",
-    title: "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
-    titleJa: "クラウド・インフラストラクチャの収益が2倍以上に増加し、オラクルの株価は利益を上回って7%上昇",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Oracle shares jumped 7% in extended trading on Thursday after the software vendor issued stronger-than-expected quarterly results.
-Here's how the company performed relative to LSEG consensus:
-- Earnings per share: $1.92 adjusted vs. $1.74 expected
-- Revenue: $19.35 billion vs. $19.14 billion expected
-Oracle's revenue grew almost 30% year over year in the fiscal first quarter, which ended on Aug. 31, according to a statement. Net income of $4.68 billion, or $1.56 per share, was up from $2.93 billion, or $1.01 per share, a year ago.
-For the fiscal second quarter, Oracle called for $1.85 to $1.93 in adjusted earnings per share, with revenue growth between 30% and 34%. Analysts surveyed by LSEG were looking for $1.89 in adjusted earnings per share, with $21.20 billion in revenue, which would indicate 32% growth.
-Much of Oracle's expansion is tied to data center growth, as the company tries to become a bigger player in the artificial intelligence boom.
-"Nothing that we know today would lead us to believe that New Mexico or any of our other sites are delayed relative to the schedules that we included, for example, in our fiscal '27 outlook," Hilary Maxson, Oracle's finance chief, said in a briefing with reporters.
-But Oracle has a weaker cash position than hyperscaler competitors and a lower credit rating. The company now sits on $125 billion in debt, and negative free cash flow came in at $5.4 billion, compared with negative $362 million a year earlier.
-Capital expenditures soared to $28.50 billion from $8.50 billion last year. During the quarter, the company said it delivered 850 megawatts of data center capacity.
-Oracle shares have dropped 22% this year as of Thursday's close, while the S&P 500 has gained roughly 11%.
-Cloud revenue soared 62% in the quarter to $11.61 billion, topping the $11.51 billion consensus among analysts polled by StreetAccount. Revenue from cloud infrastructure more than doubled to $7.4 billion, beating the $7.09 billion consensus estimate.
-Oracle's software category contributed $5.55 billion in revenue, down about 3% and lower than StreetAccount's $5.61 billion consensus.
-For the 2027 fiscal year, Oracle now sees $8.10 in adjusted earnings per share on at least $90 billion in revenue. The LSEG consensus called for $8.07 earnings per share and $89.76 billion in revenue. Guidance on capital spending for the full year is unchanged, Maxson said in the briefing.
-At the end of the quarter Oracle's remaining performance obligations stood at $664 billion, above StreetAccount's $630.6 billion consensus. The sum includes contracted but unrecognized revenue, deferred revenue and uncollected invoices. New AI contracts won't have any impact on Oracle's plans to raise capital, according to the statement.
-During the quarter, Oracle announced AI agents for human resources teams and obtained a Pentagon contract worth up to $7 billion over a decade.
-Executives will discuss the results with analysts on a conference call starting at 5 p.m. ET.
-WATCH: Oracle calls are trading a lot richer than puts ahead of earnings, says IG Group's Julia Spina`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-    publishedAt: "2026-09-10T20:41:06+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "apple-is-walking-a-tightrope-when-it-com-bc5b390e",
-    title: "Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones",
-    titleJa: "Appleは新しいiPhoneの価格に関して「綱渡り」をしている",
-    summaryJa: "同社は携帯電話の価格を引き上げたが、それでもコストを自ら負担しなければならない可能性があるとアナリストは言う。",
-    bodyOriginal: `The company raised prices on its phone but might still have to eat costs itself, analysts say.`,
-    bodyJa: `同社は携帯電話の価格を引き上げたが、それでもコストを自ら負担しなければならない可能性があるとアナリストは言う。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T20:40:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-38300245",
-    readTime: 2,
-  },
-  {
-    id: "the-traditional-paths-to-building-wealth-adca5f47",
-    title: "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
-    titleJa: "富を築くための伝統的な道は、アメリカの若者にとってアクセスしにくくなっている。何が起こったのかを説明します。",
-    summaryJa: "Z世代と若いミレニアル世代は、過去のアメリカ人のように富を築くことが難しくなった経済の大きな変化を経験しています。",
-    bodyOriginal: `Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.`,
-    bodyJa: `Z世代と若いミレニアル世代は、過去のアメリカ人のように富を築くことが難しくなった経済の大きな変化を経験しています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T20:39:00+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.mktw.net/im-81709067",
-    readTime: 2,
-  },
-  {
-    id: "why-500-checks-won-t-help-americans-faci-ea977e1f",
-    title: "Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year",
-    titleJa: "来年オバマケア保険料の15％引き上げに直面するアメリカ人にとって、500ドルの小切手が役に立たない理由",
-    summaryJa: "医療費の高騰は近年、議員や患者にとって大きな問題となっている。",
-    bodyOriginal: `Rising healthcare costs have been a major issue for lawmakers and patients in recent years.`,
-    bodyJa: `医療費の高騰は近年、議員や患者にとって大きな問題となっている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T20:26:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-06663087",
-    readTime: 2,
-  },
-  {
-    id: "how-to-create-a-forever-paycheck-without-69c6d471",
-    title: "How to create a ‘forever paycheck’ without paying for an annuity",
-    titleJa: "年金を支払わずに「永遠の給料」を生み出す方法",
-    summaryJa: "ジーン・チャツキーの新しい本では、安定した退職後の収入を生み出すためのいくつかの戦略が説明されています。",
-    bodyOriginal: `Jean Chatzky’s new book lays out several strategies for creating steady retirement income.`,
-    bodyJa: `ジーン・チャツキーの新しい本では、安定した退職後の収入を生み出すためのいくつかの戦略が説明されています。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/how-to-create-a-forever-paycheck-without-paying-for-an-annuity-e5d171d3?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T20:13:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-65749290",
-    readTime: 2,
-  },
-  {
-    id: "stocks-are-sliding-as-this-negative-risk-0539917d",
-    title: "Stocks are sliding as this ‘negative risk trinity’ spooks investors",
-    titleJa: "この「ネガティブリスクの三位一体」が投資家を怖がらせ、株価は下落している",
-    summaryJa: "債券利回りの上昇と、連邦準備制度理事会から米国中間選挙に至るリスクだらけのカレンダーにより、多くの投資家がより慎重な姿勢をとるようになっており、投資家はより慎重な姿勢をとっている。",
-    bodyOriginal: `Investors are taking a more cautious tack as rising bond yields and and a calendar riddled with risks — from Federal Reserve meetings to the U.S. midterm elections — inspire many to adopt a more cautious position.`,
-    bodyJa: `債券利回りの上昇と、連邦準備制度理事会から米国中間選挙に至るリスクだらけのカレンダーにより、多くの投資家がより慎重な姿勢をとるようになっており、投資家はより慎重な姿勢をとっている。`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/stocks-are-sliding-as-this-negative-risk-trinity-spooks-investors-4dd1927e?mod=mw_rss_topstories",
-    publishedAt: "2026-09-10T20:06:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-35815763",
-    readTime: 2,
-  },
-  {
-    id: "friday-s-cpi-inflation-report-is-even-mo-83b4e95d",
-    title: "Friday's CPI inflation report is even more important than usual. Here's what to expect",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "金曜日朝に発表される報告書は、来週金利を決定する前にFRBが得るインフレパズルの最後のピースとなる。労働統計局は午前8時30分に8月の消費者物価指数を発表する。",
-    bodyOriginal: `A report due out Friday morning will be the last piece of the inflation puzzle the Federal Reserve will get before making its decision on interest rates next week.
-The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.
-If the Dow Jones consensus is correct, the report will show that costs for all measured goods and services rose 0.4% last month, putting the annual inflation rate at 3.4%. However, excluding food and energy prices, the respective outlooks for core inflation are 0.2% and 2.4%.
-Combined with Thursday's producer price index data — a measure of wholesale inflation — the CPI will help tell Fed officials what their primary inflation gauge, the personal consumption expenditures price index, will show when it is released at the end of September.
-The information also is expected to figure heavily into the Federal Open Market Committee's interest rate call next Wednesday, with a percentage point either way possibly meaning the difference between a hold and a hike.
-"The September FOMC decision ultimately hinges on the CPI data ... since a majority of PCE components are derived from CPI," Nomura economists said in a note. "Currently, we maintain our Fed call of no rate hike at the September FOMC meeting. However, if August CPI data, especially PCE-relevant components, surprises to the upside, that would significantly increase the likelihood of policy firming next week."
-Following Thursday's PPI release, traders raised the odds for a quarter percentage point increase to more than 73%, according to the CME Group's FedWatch gauge of futures prices.
-However, expectations have been volatile and highly dependent on data as well as fluctuating energy prices, making the stakes for Friday's release even higher. Fed Chair Kevin Warsh has indicated a reliance on market indicators for direction on monetary policy.
-"The September Fed decision looked finely balanced at the turn of the month. September's surge in energy prices will likely tip the balance towards a hike when the Fed meets next week," said Bill Adams, chief U.S. economist at Fifth Third Commercial Bank. "A big surprise from the August CPI report's release tomorrow or a last-minute deal with Iran could still influence the decision."`,
-    bodyJa: `金曜日朝に発表される報告書は、来週金利を決定する前にFRBが得るインフレパズルの最後のピースとなる。
-労働統計局は午前8時30分に8月の消費者物価指数を発表する。
-ダウ・ジョーンズのコンセンサスが正しければ、報告書は、測定されたすべての商品とサービスのコストが先月0.4%上昇し、年間インフレ率が3.4%になることを示すことになる。ただし、食品とエネルギー価格を除くと、コアインフレ率の見通しはそれぞれ0.2％と2.4％となる。
-木曜日の生産者物価指数（卸売インフレの指標）データと組み合わせると、CPIはFRB当局者に主要なインフレ指標である個人消費支出価格指数が9月末に発表されるときに何を示すかを伝えるのに役立つだろう。
-この情報はまた、来週水曜日の連邦公開市場委員会の金利決定に大きく反映されると予想されており、どちらにしてもパーセントポイントが据え置きと利上げの違いを意味する可能性がある。
-野村のエコノミストらはノートで「９月のＦＯＭＣの決定は最終的にはＣＰＩデータに左右される。ＰＣＥ構成要素の大部分はＣＰＩから得られるためだ」と述べた。 「現時点で、われわれは９月のＦＯＭＣ会合では利上げは行わないとのＦＲＢの主張を維持する。しかし、８月のＣＰＩ統計、特にＰＣＥ関連の構成要素が予想外の上値を示せば、来週政策が決定される可能性が大幅に高まるだろう。」
-ＣＭＥグループのフェドウォッチの先物価格ゲージによると、木曜日のＰＰＩ発表を受けて、トレーダーらは４分の１ポイント上昇の確率を７３％以上に引き上げた。
-しかし、期待は不安定で、データや変動するエネルギー価格に大きく依存しており、金曜日の発表に対する賭けはさらに高まっている。 FRBのケビン・ウォーシュ議長は、金融政策の方向性について市場指標に依存しているとの考えを示した。
-フィフス・サード・コマーシャル・バンクの首席米国エコノミスト、ビル・アダムズ氏は「９月のＦＲＢの決定は、月の変わり目時点では非常にバランスが取れているように見えた。９月のエネルギー価格の高騰により、来週のＦＯＭＣ時にはバランスが利上げ方向に傾く可能性が高い」と述べた。 「明日発表される８月のＣＰＩ報告による大きなサプライズや、イランとの土壇場での合意が依然として決定に影響を与える可能性がある。」`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
-    publishedAt: "2026-09-10T19:18:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "elon-musk-s-boring-co-turns-to-middle-ea-10cf1faa",
-    title: "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Between taking SpaceX public in the largest IPO on record and rolling out a fleet of driverless Tesla Cybercabs in Austin, Texas, Elon Musk has also been digging tunnels. His tunneling venture, The Boring Co. announced late Wednesday that it's now valued at $23 billion.
-Created inside SpaceX in 2017 and spun out a year later, The Boring Co. says its aim is to "revolutionize transportation" by creating underground loops with stations where passengers can board and exit.
-While Boring Co. has announced about a dozen city projects, its only loop for public use today is in Las Vegas, where passengers can travel in Tesla vehicles between the downtown convention center and various casino resorts via its Las Vegas Convention Center (LVCC) Loop.
-In July of last year, Boring Co. also reached a deal to build 20 miles of tunnels in Nashville, Tennessee, a project dubbed the Music City Loop, to carry paying passengers between downtown and the airport in Tesla vehicles.
-The fast-tracked project sparked a partisan feud, and a survey by Vanderbilt University in March found that most Nashville residents didn't want the tunnels in their city. A month before the survey, the company broke ground in Nashville, and it shared clips this week showing its Prufrock machines digging into the city's limestone geology.
-With the latest financing, Boring Co. has reeled in an additional $3 billion in a round led by the United Arab Emirates, where the company plans to build over 150 kilometers (93 miles) of tunnels, including a project announced in February of last year, the Dubai Loop.
-To finance the costly endeavors, Musk has turned to many of the same investors that previously backed Tesla, SpaceX, and his buyout of Twitter in 2022. Those investors include Valor Equity Partners, Sequoia Capital, Andreessen Horowitz, Singapore's Temasek and Baron Capital.
-As with his other companies, where Musk's grand promises have sometimes failed to materialize, many of Boring Co.'s plans have fizzled. In 2018, the company abandoned tunnel projects it had pursued in Los Angeles, with others in Chicago and the Washington, D.C. area never coming to fruition.
-Earlier this year, Boring Co. ran a contest, the Tunnel Vision Challenge, promising winners a "free" one-mile tunnel. The Baltimore Ravens, who had entered the challenge and won, turned down Musk's offer after initial meetings with the company.
-Some communities are hesitant to work with Musk's company due to its safety and environmental track record. In Las Vegas, Boring Co. racked up hundreds of environmental violations, ProPublica reported, with additional workplace safety and environmental violations in its home state of Texas.
-Boring Co. didn't respond to a request for comment.
-The company sees plenty of opportunities for growth, including expansion plans underway in Las Vegas.
-"Over the past two years, The Boring Company has grown from a single operating Loop system to a multi-city tunneling program, pairing faster machine design with the first hard-rock project, the first international construction contract, and a substantial expansion of Vegas Loop," the company wrote in its post on Wednesday about fundraising.
-Following the announcement, Musk posted on X, "Congrats Boring Company team!"
-In June, the company won approval from the Nevada System of Higher Education to build a station at the University of Nevada Las Vegas campus, and it's working to extend the reach of its Vegas Loop to the airport and to Allegiant Stadium, where the NFL's Raiders play.
-The Boring Co.'s growing ambitions are a potential boon for Tesla. The companies have worked together for years, with Tesla paying Boring Co. about $1 million in 2025 to dig a "Cybertunnel" under its Austin Gigafactory, connecting a Cybertruck assembly line to a lot for loading the vehicles. Tesla vehicles are used to shuttle passengers between Boring Co.'s stations.
-WATCH: Elon Musk at G20`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
-    publishedAt: "2026-09-10T18:15:59+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
     readTime: 2,
   },
 ];
