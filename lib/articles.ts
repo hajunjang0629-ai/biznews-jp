@@ -15,6 +15,378 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "iran-war-reshapes-brics-ties-but-also-ex-e5488e99",
+    title: "Iran war reshapes Brics ties but also exposes divisons",
+    titleJa: "Iran war reshapes Brics ties but also exposes divisons",
+    summaryJa: "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+    bodyOriginal: `Iran war reshapes Brics ties but also exposes divisons
+- Published
+This weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.
+Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become "rule-shapers", not "rule-takers".
+Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa.
+These are hardly natural allies. They have histories of border disputes and even military confrontations.
+India and China engaged in a deadly clash along their disputed border in 2020. Iran and the UAE have been on opposing ends of the war in the Middle East, with Tehran launching missiles and drones at its fellow Brics member as the conflict sent shockwaves across global economies.
+The fact that India was able to gather these leaders together in person is a feat in and of itself and testament to its diplomatic reach. The weekend also provided a platform for countries to reassess their relationships in light of the Iran war.
+But agreeing on what a new global order should look like and achieving clear, tangible outcomes was a much harder task, and that tension ran through this weekend's summit.
+A counterweight to Western influence
+For members such as China, Russia and Iran, Brics offers a vehicle to dilute the influence of the US and western Europe.
+But India has been reluctant to cast Brics as an anti-Western bloc. Modi himself said at the summit that the group is "not against anyone".
+That distinction matters for Delhi, which wants to preserve its relationships with nations at odds with each other.
+"There are countries in the grouping which would like it to become anti-western, but it is not that," says Anil Trigunayat, a veteran Indian diplomat and former ambassador. What India has achieved, in his view, is a push for "strategic autonomy in an era of war" and initiatives to "enhance greater collaboration amongst themselves".
+Inside the joint declaration
+The summit succeeded in delivering a joint declaration when divisions among members have rarely been so glaring.
+Twice earlier this year, meetings between Brics ministers had failed to produce a joint statement. This time a consensus was reached, but by side-stepping issues that members sharply disagree on, with few solutions.
+The "New Delhi Declaration" was adopted on the first day of the summit. But what is striking is what it doesn't say.
+On the war in the Middle East, the declaration urges "maximum restraint". It also condemns "attacks on civilian infrastructure and peaceful nuclear facilities" but assigns no blame.
+It reiterates support for a two-state solution, opposes forced displacement of Palestinians or actions that could "legitimise or prolong occupation", framing it carefully around existing UN resolutions.
+It makes no mention at all of Russia's war in Ukraine, a departure from previous Brics declarations.
+There is similar caution on trade. It lists concerns over "indiscriminate rising tariffs" and condemns unilateral sanctions but stops short of naming the US, and is likely to avoid Washington's ire.
+Several Brics members would have been loath to draw President Donald Trump's anger, as he has previously called the group's proposals, including potentially linking central-bank digital currencies for cross-border trade, "anti-American".
+"Not mentioning any country by name, even as they condemned the conflict in the Middle East, bears the hallmark of India," says Praveen Donthi, senior analyst at the International Crisis Group.
+"I was pleasantly surprised that there was a strong reference to tariffs, because India could have wanted to be less direct about it, but perhaps this was a chance to convey their displeasure," he added.
+Beyond the summit
+In the wake of Trump's trade threats and the shock of the war in the Middle East, reshaping the global order has become a vital need for many member economies.
+What the summit did provide is a platform for meetings that seemed hard to imagine just a few months ago.
+Iran's Pezeshkian and Abu Dhabi's Crown Prince sat down for talks together - the highest-level face-to-face meeting known between the two countries since the war began.
+This weekend offered Tehran a chance to show that it does not stand alone amid the US and Israel's military attacks and economic pressure.
+As Iran tries to withstand US sanctions, Washington's "Operation Economic Outcast" and a naval blockade on its ports, Pezeshkian pressed for deeper economic ties with Brics members, including Malaysia, India and Ethiopia.
+As for China, this was President Xi's first visit to Delhi in seven years. There has been deep mistrust between China and India since the 2020 border dispute, but those tensions have eased. There is also a large trade imbalance, with a deficit tilting heavily in China's favour.
+There was a cordial handshake between Xi and Modi, not the latter's signature hug. Xi also stayed for less than 24 hours, skipping the gala dinner hosted by Modi on Saturday night.
+But the weekend was still a big moment for two countries with such a difficult relationship. According to official readouts, the two leaders agreed to strengthen business ties and transport links and address barriers to trade.
+Trigunayat believes this is part of a gradual warming of relations in recent years, and that there is a will on both sides to work together. But whether it will produce substantial progress remains to be seen.
+"I always say we have to trust, but verify first," he says.
+What comes next?
+The summit showed that Brics can create space for rivals to talk and manoeuvre outside Western-dominated institutions.
+The harder question is what happens next. It's clear that members agree they need a new global order more than ever, but what exactly should replace it and how to get there is far more challenging to answer.
+Additional reporting by Charlotte Scarr`,
+    bodyJa: `Iran war reshapes Brics ties but also exposes divisons
+- Published
+This weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.
+Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become "rule-shapers", not "rule-takers".
+Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa.
+These are hardly natural allies. They have histories of border disputes and even military confrontations.
+India and China engaged in a deadly clash along their disputed border in 2020. Iran and the UAE have been on opposing ends of the war in the Middle East, with Tehran launching missiles and drones at its fellow Brics member as the conflict sent shockwaves across global economies.
+The fact that India was able to gather these leaders together in person is a feat in and of itself and testament to its diplomatic reach. The weekend also provided a platform for countries to reassess their relationships in light of the Iran war.
+But agreeing on what a new global order should look like and achieving clear, tangible outcomes was a much harder task, and that tension ran through this weekend's summit.
+A counterweight to Western influence
+For members such as China, Russia and Iran, Brics offers a vehicle to dilute the influence of the US and western Europe.
+But India has been reluctant to cast Brics as an anti-Western bloc. Modi himself said at the summit that the group is "not against anyone".
+That distinction matters for Delhi, which wants to preserve its relationships with nations at odds with each other.
+"There are countries in the grouping which would like it to become anti-western, but it is not that," says Anil Trigunayat, a veteran Indian diplomat and former ambassador. What India has achieved, in his view, is a push for "strategic autonomy in an era of war" and initiatives to "enhance greater collaboration amongst themselves".
+Inside the joint declaration
+The summit succeeded in delivering a joint declaration when divisions among members have rarely been so glaring.
+Twice earlier this year, meetings between Brics ministers had failed to produce a joint statement. This time a consensus was reached, but by side-stepping issues that members sharply disagree on, with few solutions.
+The "New Delhi Declaration" was adopted on the first day of the summit. But what is striking is what it doesn't say.
+On the war in the Middle East, the declaration urges "maximum restraint". It also condemns "attacks on civilian infrastructure and peaceful nuclear facilities" but assigns no blame.
+It reiterates support for a two-state solution, opposes forced displacement of Palestinians or actions that could "legitimise or prolong occupation", framing it carefully around existing UN resolutions.
+It makes no mention at all of Russia's war in Ukraine, a departure from previous Brics declarations.
+There is similar caution on trade. It lists concerns over "indiscriminate rising tariffs" and condemns unilateral sanctions but stops short of naming the US, and is likely to avoid Washington's ire.
+Several Brics members would have been loath to draw President Donald Trump's anger, as he has previously called the group's proposals, including potentially linking central-bank digital currencies for cross-border trade, "anti-American".
+"Not mentioning any country by name, even as they condemned the conflict in the Middle East, bears the hallmark of India," says Praveen Donthi, senior analyst at the International Crisis Group.
+"I was pleasantly surprised that there was a strong reference to tariffs, because India could have wanted to be less direct about it, but perhaps this was a chance to convey their displeasure," he added.
+Beyond the summit
+In the wake of Trump's trade threats and the shock of the war in the Middle East, reshaping the global order has become a vital need for many member economies.
+What the summit did provide is a platform for meetings that seemed hard to imagine just a few months ago.
+Iran's Pezeshkian and Abu Dhabi's Crown Prince sat down for talks together - the highest-level face-to-face meeting known between the two countries since the war began.
+This weekend offered Tehran a chance to show that it does not stand alone amid the US and Israel's military attacks and economic pressure.
+As Iran tries to withstand US sanctions, Washington's "Operation Economic Outcast" and a naval blockade on its ports, Pezeshkian pressed for deeper economic ties with Brics members, including Malaysia, India and Ethiopia.
+As for China, this was President Xi's first visit to Delhi in seven years. There has been deep mistrust between China and India since the 2020 border dispute, but those tensions have eased. There is also a large trade imbalance, with a deficit tilting heavily in China's favour.
+There was a cordial handshake between Xi and Modi, not the latter's signature hug. Xi also stayed for less than 24 hours, skipping the gala dinner hosted by Modi on Saturday night.
+But the weekend was still a big moment for two countries with such a difficult relationship. According to official readouts, the two leaders agreed to strengthen business ties and transport links and address barriers to trade.
+Trigunayat believes this is part of a gradual warming of relations in recent years, and that there is a will on both sides to work together. But whether it will produce substantial progress remains to be seen.
+"I always say we have to trust, but verify first," he says.
+What comes next?
+The summit showed that Brics can create space for rivals to talk and manoeuvre outside Western-dominated institutions.
+The harder question is what happens next. It's clear that members agree they need a new global order more than ever, but what exactly should replace it and how to get there is far more challenging to answer.
+Additional reporting by Charlotte Scarr`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T11:23:42+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg",
+    readTime: 10,
+  },
+  {
+    id: "xi-says-china-will-take-lead-to-foster-a-dd213ae7",
+    title: "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+    titleJa: "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
+    summaryJa: "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
+    bodyOriginal: `China will take the lead to help foster artificial-intelligence collaboration and development among developing countries, President Xi Jinping said at the BRICS bloc summit in New Delhi.
+China will pioneer the establishment of a BRICS AI open-source community, support the cooperation in developing and applying large language models, hold AI seminars and training courses, and build an open AI ecosystem, Xi said in a statement on Sunday released by the Ministry of Foreign Affairs.
+The country will also work to establish a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, Xi said. He also proposed setup of a BRICS engineer cultivation alliance and a youth exchange program for scientific and technological innovation.
+XI's proposals come as the AI sector booms, with companies releasing ever-more-powerful models at a frenetic pace. AI itself has come under scrutiny too, with one researcher who worked at both OpenAI and Anthropic this week saying that many people working in the industry believe AI might kill all of humanity by the end of the decade. Xi didn't address the ongoing debate about AI safety.
+BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
+    bodyJa: `China will take the lead to help foster artificial-intelligence collaboration and development among developing countries, President Xi Jinping said at the BRICS bloc summit in New Delhi.
+China will pioneer the establishment of a BRICS AI open-source community, support the cooperation in developing and applying large language models, hold AI seminars and training courses, and build an open AI ecosystem, Xi said in a statement on Sunday released by the Ministry of Foreign Affairs.
+The country will also work to establish a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, Xi said. He also proposed setup of a BRICS engineer cultivation alliance and a youth exchange program for scientific and technological innovation.
+XI's proposals come as the AI sector booms, with companies releasing ever-more-powerful models at a frenetic pace. AI itself has come under scrutiny too, with one researcher who worked at both OpenAI and Anthropic this week saying that many people working in the industry believe AI might kill all of humanity by the end of the decade. Xi didn't address the ongoing debate about AI safety.
+BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
+    publishedAt: "2026-09-13T11:17:12+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "ai-staff-genuinely-frightened-for-humani-7dbc65d0",
+    title: "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    titleJa: "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    summaryJa: "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+    bodyOriginal: `AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+- Published
+An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were "genuinely frightened" about the speed of its advancements and what it could mean for humanity.
+"I believe that if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future," he said.
+Jacob Coxon was speaking to the BBC after his resignation post on the dangers of AI went viral on a backdrop of growing safety concerns about the industry.
+The 27-year-old's former boss, Anthropic head Dario Amodei, recently called for AI development to slow down - though some have questioned the motivations behind this.
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have both said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
+Amodei wrote in an essay on Saturday that developing the technology was not in question, but the risks associated with it were "serious", and that companies and governments must be given time to address them.
+Coxon – who worked at OpenAI before joining Anthropic – welcomed the suggestion of a slowdown but said it would need to be co-ordinated with China to avoid "a race at an international scale".
+"The people who work at these companies are completely serious when they ask for regulation because they find themselves trapped in a race. And they're scared of the outcomes of that race," he told Sunday with Laura Kuenssberg.
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published14 hours ago
+The hardest question to answer, according to Coxon, was what an AI apocalypse would look like.
+One of the risks outlined in Amodei's comments was of a swarm of bots acting like a supercomputer that could take over the internet.
+Coxon said this scenario could be realistic in six months to a year.
+In response to Coxon's departure, an Anthropic spokesperson told BBC News: "We have always been transparent that AI will bring both enormous benefits and unprecedented risks.
+"To address these risks, we continue to build models with some of the strongest safeguards in the industry."
+The firm has been a pioneer in studying how AI models work, the spokesperson added. It was the first to publish a framework for mitigating the risks posed by their development - and it also "aggressively" tests its models and publishes the findings to aid scrutiny and prevent incidents of "AI misalignment".
+"This work is also why we believe the world would benefit from the industry adopting a lawful, verifiable way to work together to pace how we release powerful models," they said.
+Coxon said his peers feared the danger could even arrive in the next two years.
+He said staff at AI firms were "planning what to do with their lives and thinking about the impacts of their work", while some were "considering buying land somewhere because they're so scared of the instability as a result of rapid AI progress".
+"They all keep this in their head on a daily basis while working on the technology."
+But Coxon did have some optimism about the future of AI, telling the BBC that the people researching the technology "genuinely want to see the upside" of things like "solving diseases and improving everyone's lives".
+Many others in the industry have also voiced their concerns since Coxon's social media post, including Anthropic scientist Evan Hubinger.
+"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," Hubinger said.
+Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
+Meanwhile, Marc Warner, chief executive of AI safety firm Faculty, told the BBC that it was "extremely hard to place a probability" on AI killing all humans.
+"But it's important to recognise that these people are very sincere in what they're saying," he added, noting that the risks surrounding AI have been raised by the heads of several AI firms for years.
+Former Prime Minister Rishi Sunak, who is a paid adviser to Anthropic, wrote in the Sunday Times, external that he too was worried about the risk of AI to humanity despite generally being optimistic.
+Dramatic insider warnings over AI fall flat with some in Silicon Valley
+- Published2 hours ago
+However, some industry figures have suggested comments about the perils and power of AI may be designed to generate hype.
+Chief executive of the AI platform Hugging Face, Clement Delangue, said on social media: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change. Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+After Amodei's essay was published, however, Delangue offered to help be a part of the potential solutions the Anthropic boss proposed.
+Meanwhile, Nvidia boss Jensen Huang also discussed Coxon's comments at a conference hosted by the investment bank Goldman Sachs last week, multiple people in the group told the BBC. They said he dismissed them as untrue.
+Huang has previously said the notion that AI was "going to be the end of humanity" was "complete nonsense".
+And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
+Other critics say Anthropic has been trying to trigger a regulatory push to block competition, leaving it and OpenAI in a duopoly.
+Anthropic is reportedly preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
+OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year, citing safety concerns.
+Related topics
+- Published1 day ago
+- Published3 days ago`,
+    bodyJa: `AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
+- Published
+An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were "genuinely frightened" about the speed of its advancements and what it could mean for humanity.
+"I believe that if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future," he said.
+Jacob Coxon was speaking to the BBC after his resignation post on the dangers of AI went viral on a backdrop of growing safety concerns about the industry.
+The 27-year-old's former boss, Anthropic head Dario Amodei, recently called for AI development to slow down - though some have questioned the motivations behind this.
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have both said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
+Amodei wrote in an essay on Saturday that developing the technology was not in question, but the risks associated with it were "serious", and that companies and governments must be given time to address them.
+Coxon – who worked at OpenAI before joining Anthropic – welcomed the suggestion of a slowdown but said it would need to be co-ordinated with China to avoid "a race at an international scale".
+"The people who work at these companies are completely serious when they ask for regulation because they find themselves trapped in a race. And they're scared of the outcomes of that race," he told Sunday with Laura Kuenssberg.
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published14 hours ago
+The hardest question to answer, according to Coxon, was what an AI apocalypse would look like.
+One of the risks outlined in Amodei's comments was of a swarm of bots acting like a supercomputer that could take over the internet.
+Coxon said this scenario could be realistic in six months to a year.
+In response to Coxon's departure, an Anthropic spokesperson told BBC News: "We have always been transparent that AI will bring both enormous benefits and unprecedented risks.
+"To address these risks, we continue to build models with some of the strongest safeguards in the industry."
+The firm has been a pioneer in studying how AI models work, the spokesperson added. It was the first to publish a framework for mitigating the risks posed by their development - and it also "aggressively" tests its models and publishes the findings to aid scrutiny and prevent incidents of "AI misalignment".
+"This work is also why we believe the world would benefit from the industry adopting a lawful, verifiable way to work together to pace how we release powerful models," they said.
+Coxon said his peers feared the danger could even arrive in the next two years.
+He said staff at AI firms were "planning what to do with their lives and thinking about the impacts of their work", while some were "considering buying land somewhere because they're so scared of the instability as a result of rapid AI progress".
+"They all keep this in their head on a daily basis while working on the technology."
+But Coxon did have some optimism about the future of AI, telling the BBC that the people researching the technology "genuinely want to see the upside" of things like "solving diseases and improving everyone's lives".
+Many others in the industry have also voiced their concerns since Coxon's social media post, including Anthropic scientist Evan Hubinger.
+"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," Hubinger said.
+Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
+Meanwhile, Marc Warner, chief executive of AI safety firm Faculty, told the BBC that it was "extremely hard to place a probability" on AI killing all humans.
+"But it's important to recognise that these people are very sincere in what they're saying," he added, noting that the risks surrounding AI have been raised by the heads of several AI firms for years.
+Former Prime Minister Rishi Sunak, who is a paid adviser to Anthropic, wrote in the Sunday Times, external that he too was worried about the risk of AI to humanity despite generally being optimistic.
+Dramatic insider warnings over AI fall flat with some in Silicon Valley
+- Published2 hours ago
+However, some industry figures have suggested comments about the perils and power of AI may be designed to generate hype.
+Chief executive of the AI platform Hugging Face, Clement Delangue, said on social media: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change. Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+After Amodei's essay was published, however, Delangue offered to help be a part of the potential solutions the Anthropic boss proposed.
+Meanwhile, Nvidia boss Jensen Huang also discussed Coxon's comments at a conference hosted by the investment bank Goldman Sachs last week, multiple people in the group told the BBC. They said he dismissed them as untrue.
+Huang has previously said the notion that AI was "going to be the end of humanity" was "complete nonsense".
+And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
+Other critics say Anthropic has been trying to trigger a regulatory push to block competition, leaving it and OpenAI in a duopoly.
+Anthropic is reportedly preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
+OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year, citing safety concerns.
+Related topics
+- Published1 day ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T11:13:07+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "china-s-xi-urges-brics-nations-to-work-t-4b80e071",
+    title: "China's Xi urges BRICS nations to work towards peace in the Middle East",
+    titleJa: "China's Xi urges BRICS nations to work towards peace in the Middle East",
+    summaryJa: "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.",
+    bodyOriginal: `The BRICS bloc should work towards a peaceful resolution to the conflict in the Middle East, Chinese President Xi Jinping said, adding that his country is willing to play a key role.
+"The situation in the Middle East and the Gulf region continues to evolve in a complex manner. This conflict has caused severe losses to the people of the region and is not in the common interest of the international community," Xi said in a speech at the BRICS Summit in New Delhi on Saturday.
+"All relevant parties should adhere to the direction of a political solution and promote a permanent and comprehensive ceasefire. We must attach importance to addressing the root causes of the problems," Xi said in a Google translation of a transcript of the speech provided by the Chinese government.
+Xi added that the Palestinian question has always been at the core of the Middle East issue and stressed the importance of implementing the so-called "two-state solution" with Israel.
+"China is willing to work with BRICS members to play its due role in achieving peace and tranquility in the Middle East and the Gulf region," Xi said.
+China is Iran's biggest trading partner, and a key customer of Tehran's energy exports.
+The Trump administration imposed a tough new wave of economic sanctions against Iran last month. The Treasury Department's measures, dubbed "Operation Economic Outcast", aim to sever Iran's financial connections around the world.
+Treasury Scott Bessent suggested at the launch of the operation that China would not be exempt.
+While energy prices soared in the wake of the conflict, economists say China has helped prevent them rise even further due to years of stockpiling and its subsequent pullback of oil purchases.
+President Donald Trump is slated to host Chinese leader Xi Jinping at the White House later this month.
+BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
+    bodyJa: `The BRICS bloc should work towards a peaceful resolution to the conflict in the Middle East, Chinese President Xi Jinping said, adding that his country is willing to play a key role.
+"The situation in the Middle East and the Gulf region continues to evolve in a complex manner. This conflict has caused severe losses to the people of the region and is not in the common interest of the international community," Xi said in a speech at the BRICS Summit in New Delhi on Saturday.
+"All relevant parties should adhere to the direction of a political solution and promote a permanent and comprehensive ceasefire. We must attach importance to addressing the root causes of the problems," Xi said in a Google translation of a transcript of the speech provided by the Chinese government.
+Xi added that the Palestinian question has always been at the core of the Middle East issue and stressed the importance of implementing the so-called "two-state solution" with Israel.
+"China is willing to work with BRICS members to play its due role in achieving peace and tranquility in the Middle East and the Gulf region," Xi said.
+China is Iran's biggest trading partner, and a key customer of Tehran's energy exports.
+The Trump administration imposed a tough new wave of economic sanctions against Iran last month. The Treasury Department's measures, dubbed "Operation Economic Outcast", aim to sever Iran's financial connections around the world.
+Treasury Scott Bessent suggested at the launch of the operation that China would not be exempt.
+While energy prices soared in the wake of the conflict, economists say China has helped prevent them rise even further due to years of stockpiling and its subsequent pullback of oil purchases.
+President Donald Trump is slated to host Chinese leader Xi Jinping at the White House later this month.
+BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
+    publishedAt: "2026-09-13T09:41:53+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "dramatic-insider-warnings-over-ai-fall-f-6fe0b9f0",
+    title: "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    titleJa: "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+    summaryJa: "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
+    bodyOriginal: `Dramatic insider warnings over AI fall flat with some in Silicon Valley
+- Published
+Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.
+This past week, between talk of growth and potential returns, tech titans found themselves addressing the abrupt resignation of Anthropic researcher Jacob Coxon.
+Coxon, a 27-year-old who worked at OpenAI before joining its chief rival Anthropic, said on Tuesday that people building artificial intelligence (AI) believed the technology could destroy humanity.
+They are "gambling with our lives", he said, "these will soon be superhuman systems that can hack anything".
+Coxon is by no means the first AI insider to publicly sound the alarm. There have been a string of high-profile resignations from both Anthropic and OpenAI in recent years over apparent safety concerns, and some current Anthropic employees even echoed Coxon's post.
+"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," a team lead at Anthropic, Evan Hubinger, posted on X.
+While Coxon said explicitly in his posts that his warnings were "not marketing", some executives and investors in Silicon Valley have reacted with scepticism to a recent flurry of insiders sounding the alarm.
+Anthropic and OpenAI are reportedly preparing for potentially record-setting initial public offerings, and some in the tech sector have suggested the latest stark comments about the dangers of AI may be designed to generate hype by signalling the power of these products.
+Anthropic's boss, Dario Amodei, has come under fire for saying AI technology could wipe out half of entry-level white-collar jobs and will "test who we are as a species".
+One conference speaker, Grindr CEO George Arison, told the BBC he believed this week's comments from Coxon and others were indicative of an "anti-civilisational worldview at Anthropic".
+He called them "dangerous" and said they had prompted him to instruct some engineers at the LGBTQ+ dating app to stop using Anthropic's technology.
+"It is irresponsible for us as stewards of our shareholders' money to be relying on a business that does what this company does, in terms of its public statements," he said.
+"Maybe they actually believe it," Arison said. "Or you could argue they're saying it because it's a great way to gin up more investor support, because the only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work.'"
+Anthropic was valued at $965bn (£713bn) in its most recent fundraising round earlier this year.
+The BBC has asked Anthropic for a response to the statements.
+In an essay posted early on Saturday, Amodei called for a slowing of AI model development and global regulation - and said the risks associated with AI were "serious".
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published14 hours ago
+Why some experts increasingly fear AI will take over
+- Published3 days ago
+Nvidia boss Jensen Huang also discussed Coxon's comments before a crowd at the conference, multiple people in the group told the BBC. They said he dismissed them as untrue.
+Huang has previously said the notion that AI "is going to be the end of humanity" is "complete nonsense".
+And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
+Some critics have even accused Anthropic of fearmongering in hopes that it will trigger a regulatory push that could shut out competition and leave it and OpenAI with a duopoly in the sector.
+Brad Gerstner, who is the head of the investment firm Altimeter Capital, posted pictures of Huang from the conference and accused Coxon of "ridiculous hyperbole".
+On Friday, the CEO of the AI platform Hugging Face, Clement Delangue, weighed in. Hugging Face, which Nvidia announced it would acquire last week, was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
+"Sorry, but asking Jacob about AI extinction risk is like asking your AC guy about climate change," he wrote on X. "Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+Both Gerstner and Delangue were more circumspect on Saturday after Amodei's proposal was posted, with Gerstner calling the idea "an important step forward" in balancing competing considerations like speed and safety.
+Delangue offered to help be a part of the potential solutions proposed by Amodei.
+Could insider warnings prompt a crackdown?
+In April, Anthropic roiled the AI world when it said it found that its Mythos tool could outperform humans at some hacking and cybersecurity tasks.
+Mythos also showed the ability to independently escape what is known as the sandbox environment, setting off a debate among regulators, legislators and businesses about AI's potential dangers.
+In a new development on Thursday, Anthropic said it had found and stopped threat actors who were trying to use its AI technology for activity including the development of bioweapons and cyber-espionage.
+Beneath the sparkling chandeliers hanging in the stained-glass dome atrium of The Palace Hotel, some investors told the BBC that the comments from Coxon and others could accelerate a government crackdown.
+Federal legislation co-sponsored this month by left-wing Senator Bernie Sanders of Vermont, known as the Ban Artificial Superintelligence Act, would impose a temporary pause in advanced AI development.
+"There is a good chance that human beings will lose control over AI," Sanders told the BBC's Newsnight programme on Thursday. "And what happens then, nobody knows. But could it be catastrophic? Yes, it could."
+"When scientists tell you there is a chance that it could have a cataclysmic impact on humanity, you've got be a moron not to say, slow it down," he added.
+If an industry-wide government crackdown comes, however, it is likely to be led by legislators and not the Trump administration which largely supports a policy of unfettered AI development. It has framed this as necessary to ensure the US does not cede dominance to China.
+Speaking to reporters this week, President Donald Trump was asked if he had any concerns about AI leading to human extinction. "No, I don't have any," he said. "I have concerns that if we don't win AI, we're going to be put in a very bad position. We are leading China right now."
+But the president's relationship with Anthropic has been turbulent. After the company refused to allow the US military to use its AI models, the White House described it as "a radical left, woke company" and designated it a supply chain risk, a move that a federal judge has ruled was illegal.
+David Sacks, Trump's AI czar in the early days of his administration, has also levelled repeated attacks at Anthropic.
+OpenAI has not endured the same level of scrutiny from the White House. When releasing a new model called Astra last week, OpenAI President Greg Brockman described his firm's relationship with the Trump administration as "a very good partnership".
+The company did not respond to a BBC inquiry seeking comment.
+At the conference in San Francisco this week, the pursuit of fortunes seemed to mostly trump any mounting existential concerns or fears over potential government restrictions on AI.
+OpenAI, which was most recently valued at $852bn, has previously announced plans to allow people to buy shares in its firm by listing on the stock market.
+However, its chief executive Sam Altman said on Friday this would not happen this year, calling it an "ill-advised moment" to do so "given everything happening with safety" in an interview with Fortune magazine.
+He suggested 2027 would be more likely.
+Meanwhile, one investor said he was looking forward to Anthropic's forthcoming S-1, a document a company must file with securities regulators in order to sell shares.
+His main question about the company was simple: is the firm profitable?
+When asked on Thursday if he fears the world may be coming to an end, Sid Sheth - CEO of the chip company d-Matrix which inked a deal with Nvidia at the conference that day - did not mince his words.
+"No," he said.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published2 days ago
+- Published17 April`,
+    bodyJa: `Dramatic insider warnings over AI fall flat with some in Silicon Valley
+- Published
+Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.
+This past week, between talk of growth and potential returns, tech titans found themselves addressing the abrupt resignation of Anthropic researcher Jacob Coxon.
+Coxon, a 27-year-old who worked at OpenAI before joining its chief rival Anthropic, said on Tuesday that people building artificial intelligence (AI) believed the technology could destroy humanity.
+They are "gambling with our lives", he said, "these will soon be superhuman systems that can hack anything".
+Coxon is by no means the first AI insider to publicly sound the alarm. There have been a string of high-profile resignations from both Anthropic and OpenAI in recent years over apparent safety concerns, and some current Anthropic employees even echoed Coxon's post.
+"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," a team lead at Anthropic, Evan Hubinger, posted on X.
+While Coxon said explicitly in his posts that his warnings were "not marketing", some executives and investors in Silicon Valley have reacted with scepticism to a recent flurry of insiders sounding the alarm.
+Anthropic and OpenAI are reportedly preparing for potentially record-setting initial public offerings, and some in the tech sector have suggested the latest stark comments about the dangers of AI may be designed to generate hype by signalling the power of these products.
+Anthropic's boss, Dario Amodei, has come under fire for saying AI technology could wipe out half of entry-level white-collar jobs and will "test who we are as a species".
+One conference speaker, Grindr CEO George Arison, told the BBC he believed this week's comments from Coxon and others were indicative of an "anti-civilisational worldview at Anthropic".
+He called them "dangerous" and said they had prompted him to instruct some engineers at the LGBTQ+ dating app to stop using Anthropic's technology.
+"It is irresponsible for us as stewards of our shareholders' money to be relying on a business that does what this company does, in terms of its public statements," he said.
+"Maybe they actually believe it," Arison said. "Or you could argue they're saying it because it's a great way to gin up more investor support, because the only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work.'"
+Anthropic was valued at $965bn (£713bn) in its most recent fundraising round earlier this year.
+The BBC has asked Anthropic for a response to the statements.
+In an essay posted early on Saturday, Amodei called for a slowing of AI model development and global regulation - and said the risks associated with AI were "serious".
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published14 hours ago
+Why some experts increasingly fear AI will take over
+- Published3 days ago
+Nvidia boss Jensen Huang also discussed Coxon's comments before a crowd at the conference, multiple people in the group told the BBC. They said he dismissed them as untrue.
+Huang has previously said the notion that AI "is going to be the end of humanity" is "complete nonsense".
+And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
+Some critics have even accused Anthropic of fearmongering in hopes that it will trigger a regulatory push that could shut out competition and leave it and OpenAI with a duopoly in the sector.
+Brad Gerstner, who is the head of the investment firm Altimeter Capital, posted pictures of Huang from the conference and accused Coxon of "ridiculous hyperbole".
+On Friday, the CEO of the AI platform Hugging Face, Clement Delangue, weighed in. Hugging Face, which Nvidia announced it would acquire last week, was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
+"Sorry, but asking Jacob about AI extinction risk is like asking your AC guy about climate change," he wrote on X. "Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+Both Gerstner and Delangue were more circumspect on Saturday after Amodei's proposal was posted, with Gerstner calling the idea "an important step forward" in balancing competing considerations like speed and safety.
+Delangue offered to help be a part of the potential solutions proposed by Amodei.
+Could insider warnings prompt a crackdown?
+In April, Anthropic roiled the AI world when it said it found that its Mythos tool could outperform humans at some hacking and cybersecurity tasks.
+Mythos also showed the ability to independently escape what is known as the sandbox environment, setting off a debate among regulators, legislators and businesses about AI's potential dangers.
+In a new development on Thursday, Anthropic said it had found and stopped threat actors who were trying to use its AI technology for activity including the development of bioweapons and cyber-espionage.
+Beneath the sparkling chandeliers hanging in the stained-glass dome atrium of The Palace Hotel, some investors told the BBC that the comments from Coxon and others could accelerate a government crackdown.
+Federal legislation co-sponsored this month by left-wing Senator Bernie Sanders of Vermont, known as the Ban Artificial Superintelligence Act, would impose a temporary pause in advanced AI development.
+"There is a good chance that human beings will lose control over AI," Sanders told the BBC's Newsnight programme on Thursday. "And what happens then, nobody knows. But could it be catastrophic? Yes, it could."
+"When scientists tell you there is a chance that it could have a cataclysmic impact on humanity, you've got be a moron not to say, slow it down," he added.
+If an industry-wide government crackdown comes, however, it is likely to be led by legislators and not the Trump administration which largely supports a policy of unfettered AI development. It has framed this as necessary to ensure the US does not cede dominance to China.
+Speaking to reporters this week, President Donald Trump was asked if he had any concerns about AI leading to human extinction. "No, I don't have any," he said. "I have concerns that if we don't win AI, we're going to be put in a very bad position. We are leading China right now."
+But the president's relationship with Anthropic has been turbulent. After the company refused to allow the US military to use its AI models, the White House described it as "a radical left, woke company" and designated it a supply chain risk, a move that a federal judge has ruled was illegal.
+David Sacks, Trump's AI czar in the early days of his administration, has also levelled repeated attacks at Anthropic.
+OpenAI has not endured the same level of scrutiny from the White House. When releasing a new model called Astra last week, OpenAI President Greg Brockman described his firm's relationship with the Trump administration as "a very good partnership".
+The company did not respond to a BBC inquiry seeking comment.
+At the conference in San Francisco this week, the pursuit of fortunes seemed to mostly trump any mounting existential concerns or fears over potential government restrictions on AI.
+OpenAI, which was most recently valued at $852bn, has previously announced plans to allow people to buy shares in its firm by listing on the stock market.
+However, its chief executive Sam Altman said on Friday this would not happen this year, calling it an "ill-advised moment" to do so "given everything happening with safety" in an interview with Fortune magazine.
+He suggested 2027 would be more likely.
+Meanwhile, one investor said he was looking forward to Anthropic's forthcoming S-1, a document a company must file with securities regulators in order to sell shares.
+His main question about the company was simple: is the firm profitable?
+When asked on Thursday if he fears the world may be coming to an end, Sid Sheth - CEO of the chip company d-Matrix which inked a deal with Nvidia at the conference that day - did not mince his words.
+"No," he said.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published2 days ago
+- Published17 April`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T09:05:10+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 10,
+  },
+  {
     id: "they-lost-their-jobs-after-posting-about-5f1f7b15",
     title: "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -373,6 +745,38 @@ Ellison is also the father of David Ellison, the current CEO of Paramount Skydan
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
+  },
+  {
+    id: "indian-prime-minister-modi-says-border-p-01acf27c",
+    title: "Indian Prime Minister Modi says border peace is key to India-China ties",
+    titleJa: "Indian Prime Minister Modi says border peace is key to India-China ties",
+    summaryJa: "Indian Prime Minister Narendra Modi and Chinese President Xi Jinping addressed concerns around border dispute and the trade imbalance.",
+    bodyOriginal: `Indian Prime Minister Narendra Modi on Saturday said that "peace and tranquility" in the border areas is essential for developing bilateral relations with its neighbor China.
+Ties between the two countries, which had deteriorated sharply following a deadly border skirmish in 2020, have been thawing for more than a year and have led to Chinese President Xi Jinping making his first visit to India in seven years.
+During their bilateral meeting, on the sidelines of the BRICS Summit, Modi and Xi committed to "a fair, reasonable, and mutually acceptable" resolution of the border issues, the Indian government said in a release.
+The two leaders agreed that both countries must take a "strategic and long-term perspective of their ties" and not let differences become disputes.
+Border disputes and a trade imbalance that works deeply in favor of China have been at the center of disagreements between the two neighboring countries.
+Border issues between New Delhi and Beijing go back decades and saw the two countries go to war in 1962. However, last month, the two sides conducted the 25th round of talks and arrived at eight points of outcomes and consensus to resolve their long-standing border disputes.
+On the economic front, India has a massive trade deficit with China and has been dependent on exports from the world's second-largest economy.
+China is India's largest business partner, with total trade at a record $151.1 billion in the year ending March 2026. But New Delhi's deficit with Beijing has also risen to a record $112.16 billion, up from $99.21 billion.
+According to the readout of the bilateral meeting, Modi and Xi agreed to address the concerns around structural trade imbalance, supply chain issues and predictable market access.
+Ties between India and China have improved over the last year after Modi and Xi's meeting in Tianjin last year. Direct flights have resumed between India and China, a few old Silk Road trade routes have opened, and in March India relaxed rules around investment from Beijing.`,
+    bodyJa: `Indian Prime Minister Narendra Modi on Saturday said that "peace and tranquility" in the border areas is essential for developing bilateral relations with its neighbor China.
+Ties between the two countries, which had deteriorated sharply following a deadly border skirmish in 2020, have been thawing for more than a year and have led to Chinese President Xi Jinping making his first visit to India in seven years.
+During their bilateral meeting, on the sidelines of the BRICS Summit, Modi and Xi committed to "a fair, reasonable, and mutually acceptable" resolution of the border issues, the Indian government said in a release.
+The two leaders agreed that both countries must take a "strategic and long-term perspective of their ties" and not let differences become disputes.
+Border disputes and a trade imbalance that works deeply in favor of China have been at the center of disagreements between the two neighboring countries.
+Border issues between New Delhi and Beijing go back decades and saw the two countries go to war in 1962. However, last month, the two sides conducted the 25th round of talks and arrived at eight points of outcomes and consensus to resolve their long-standing border disputes.
+On the economic front, India has a massive trade deficit with China and has been dependent on exports from the world's second-largest economy.
+China is India's largest business partner, with total trade at a record $151.1 billion in the year ending March 2026. But New Delhi's deficit with Beijing has also risen to a record $112.16 billion, up from $99.21 billion.
+According to the readout of the bilateral meeting, Modi and Xi agreed to address the concerns around structural trade imbalance, supply chain issues and predictable market access.
+Ties between India and China have improved over the last year after Modi and Xi's meeting in Tianjin last year. Direct flights have resumed between India and China, a few old Silk Road trade routes have opened, and in March India relaxed rules around investment from Beijing.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/12/india-china-modi-xi-brics-border.html",
+    publishedAt: "2026-09-12T15:12:56+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 5,
   },
   {
     id: "french-officials-investigate-if-maliciou-e23274bd",
@@ -1180,232 +1584,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     publishedAt: "2026-09-11T20:21:01+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "saudi-arabia-shut-down-east-west-crude-o-e7fb3ccf",
-    title: "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Saudi Arabia shut down its crucial East-West crude oil pipeline as a precautionary measure after multiple attacks, the kingdom's Energy Ministry said Friday in a statement.
-The pipeline was targeted in the Riyadh and Madinah regions on Thursday morning, the ministry said. Multiple people were injured in the attacks, it said.
-The Saudis have relied on the East-West pipeline to shift crude oil exports away from Persian Gulf as the U.S. and Iran battle for control over the Strait of Hormuz. The pipeline, which has a capacity of 7 million barrels per day, runs across the kingdom to export terminals on the Red Sea.
-Emergency teams were deployed to secure the pipeline and assess its safety after Thursday's attacks, the Saudi Energy Ministry said. "Any further developments will be announced in due course," the ministry said.
-The Saudis did not say who was behind the attacks or whether the pipeline suffered significant damage. However, Iran-allied militants have escalated strikes on Saudi Arabia this week.
-Houthi militants in Yemen launched strikes on Saudi Arabia earlier this week that hit energy facilities and other assets, injuring more than 70 people. The militants declared a maritime embargo against the Saudis in July and have sought to disrupt the kingdom's oil exports through the Bab el-Mandeb Strait, which connects the southern Red Sea to global markets.
-Saudi Aramco CEO Amin Nasser said last month that the pipeline has played a bigger role in mitigating the impact of the oil supply disruption caused by the Iran war than the release of emergency crude reserves.
-Oil prices this week broke above $100 per barrel for the first time in months as fighting has escalated in the Middle East. The attack on the pipeline may have played a role in the rally as rumors about the strike circulated Thursday. Prices closed out the week more than 8% higher.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
-    publishedAt: "2026-09-11T20:01:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "election-officials-ban-certain-public-wo-8ac51335",
-    title: "Election officials ban certain public workers from trading on prediction markets ahead of midterms",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `With less than two months until the midterms, election and county officials are prohibiting employees from participating on prediction market contracts.
-Officials said it's the tightest measure they can take to ensure employees, who have access to ballots, do not commit insider trading on election contracts.
-"Obviously, we have no control over prediction markets themselves, or how people react to them," said Thomas Galvin, a supervisor for Maricopa County, Arizona. He helps oversee voter tabulation and Election Day voting.
-"When we implement a policy for our employees not to trade or bet on non-public information, that goes a long way towards showing people that not only are we working hard to maintain transparent elections, but also shows that we are being very aware of new technology," he said.
-Election odds vs. polls
-Midterm odds on prediction markets and an election poll tell two stories, but not everyone can tell them apart.
-Election odds on prediction markets are a live response to breaking news. There, participants can forecast and see in real time where the market stands on candidates' likelihood of a victory. This live accessibility provides a competitive advantage over traditional forecasting polls, said Koleman Strumpf, a professor of economics at Wake Forest University.
-"By the time you see the poll, it's ancient history," Strumpf said.
-A Kalshi spokesperson told CNBC that instant odds are a key feature for prediction markets, but they "complement" polling rather than acting as a replacement.
-On the other hand, pre-election polls measure a voter's intention and take a sample of selected respondents who are representative of a broader population, said Thessalia Merivaki, a professor of government at Washington State University. Unlike prediction markets, where anyone can forecast who will win a key race, statistical techniques are used to select a sample for a poll, she added. Even the questions asked in a poll differ from an election contract.
-"The question is very different. It doesn't ask, 'Do you think X candidate or Y candidate will win?' Pre-election polls ask, 'If the election were to be held today, who would you vote for?'" Merivaki said.
-Despite these distinctions, election officials are growing concerned that voters cannot differentiate between the two.
-"I have seen when I travel the district and when I travel the county, that some people confuse the numbers reflected in prediction markets with public opinion polling," said Galvin. "Just because someone has a 98% chance of winning on a prediction market doesn't mean that they're winning in the polls 98 to 2."
-Avoiding backlash
-Arizona's Maricopa County was in the spotlight after President Donald Trump repeatedly and falsely claimed he won in the state against former President Joe Biden in 2020.
-That controversy drove Galvin to help draft a resolution adopted this July. The measure bans about 13,000 county employees from trading on non-public information, including on topics around weather events, elections and court hearings.
-The resolution came shortly after Arizona Governor Katie Hobbs signed an executive order that would ban state workers from insider trading on prediction markets.
-Galvin said the prohibition reassures the public that the county champions election integrity and protects employees in the event individuals use prediction markets odds to claim there is election fraud.
-Earlier this year, people grew suspicious of the ballot process in Los Angeles after vote counts were not matching prediction market odds, according to Dean Logan, registrar-recorder/county clerk for Los Angeles County, who spoke on a July webinar hosted by the Partnership for Large Election Jurisdictions.
-"We definitely had a situation here where early election returns differed from market expectations, and that resulted in suspicion and questioning of normal ballot processing and canvassing procedures in California," Logan said at the webinar.
-In that race, city councilmember Nithya Raman advanced to a November runoff against incumbent mayor Karen Bass. Prediction market traders anticipated Bass would compete against former reality TV star Spencer Pratt in the November contest. While Pratt led Raman early in the vote count, Raman gradually pulled ahead of him as mail-in ballots were counted after Election Day.
-"I won't go into great detail about how that resulted in threats or aggressiveness from observers or people who had a stake in the outcome of the election, but it is something that we definitely saw, and we saw it at a level that we haven't seen in prior elections," Logan added.
-Where platforms stand
-Kalshi and Polymarket did not directly answer CNBC's questions on whether they plan to speak with election officials over their concerns about prediction markets.
-Instead, a Polymarket spokesperson reiterated that states do not have legal jurisdiction to regulate prediction markets.
-A spokesperson for Kalshi highlighted the role prediction markets play in breaking news and political events. Both platforms have taken measures to prevent insider trading on their platforms.
-Growing concern over prediction markets and elections comes as states and the Commodity Futures Trading Commission fight for regulatory oversight of event contracts.
-Election officials speak on regulation
-Some election officials have entered the fray over prediction market regulation, asserting that the platforms are running as gambling operators instead.
-Just outside of Philadelphia, an election office in Delaware County in Pennsylvania banned roughly 2,200 employees from trading on prediction market contracts tied to elections. The office's oath already ensured bets on elections were prohibited. It later added prediction markets.
-"It makes sense to add prediction markets to that [oath], because prediction markets are gambling, despite the dubious claims that they are not," said James Allen, Delaware County's elections director.
-Similarly, Maryland's administrator of elections sent a letter to the state prosecutor in July, requesting an investigation on whether prediction market election contracts violate a state law that prohibits wagers on election outcomes.
-While the future of how the platforms will be ultimately regulated is yet to unfold, some election officials have made it clear: They want no part in them.
-"I don't want these prediction markets to infect our elections here in Delaware County," Allen said. "They're definitely the newest and most existential threat to undermining faith in the elections."
--CNBC's Charlotte Morabito contributed reporting.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html",
-    publishedAt: "2026-09-11T17:00:48+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "i-went-to-caracas-for-venezuela-s-new-oi-12e6c6e9",
-    title: "I went to Caracas for Venezuela’s new oil deals. Here’s what stood out",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `POWER POINT
-What I'm hearing from energy insiders
-It was one of the most eye-opening and fascinating business trips in my 30-year career: the opportunity to travel to Venezuela to witness firsthand the signing of oil deals between the government in Caracas and Venezuelan and Western oil companies.
-CNBC was one of just a handful of news organizations allowed to travel to Caracas with the U.S. secretary of energy.
-The trip was barely 24 hours long and was tightly scheduled. Venezuela is not a country where the American media is just going to wander around. It is one of the poorest countries in the world, and that was obvious the moment we landed. The airport was still shut down due to the effects of a terrible earthquake that hit back in June. More on that in a minute. We were one of the only planes to land at Simón Bolívar International Airport and took a 20-minute bus ride downtown.
-You could see the remains of wealth the country and its people once had. Many of the buildings downtown and in the business district appear to have been built in the 1980s or 1990s, when the country had more than its share of oil and energy riches. Venezuela oil production peaked out in 1997 at about 3.5 million barrels per day. Then strongman dictator Hugo Chavez took over and, between him and jailed president Nicolas Maduro, they succeeded in stripping the proud nation of most of that money. Oil production collapsed to under 1 million barrels per day in much of 2025. It's only recently gone back above 1 million barrels a day. While many Russian and Chinese firms got richer, the Venezuelan people got poorer.
-Enter the United States and the agreements it signed last week.
-That clears a few things up about what these deals are … and what they are not.
-What they are is a variety of deals, not just one. Chevron is making its own deal in Venezuela, expanding production in a nation it's operated in for over 100 years. That is separate and distinct from the other agreements. Those deals primarily involve the U.S. government taking a stake in a private operating oil company called North American Blue Energy Partners. Better known as NABEP, the company is run by the rather mysterious oil investor Alejandro Betancourt. Betancourt has taken his lumps in the media, as it's been widely reported that he was investigated for potential financial crimes in Switzerland. That said, our conversations with the U.S. government and others focused on the fact that, despite the investigations, charges were not brought. Whatever your take may be on Betancourt and his past, U.S. and other officials we spoke with added that, unfortunately, in volatile, complicated, and often dangerous countries such as Venezuela, oftentimes the operators you have to deal with are not without some warts. The American government is taking a stake in NABEP and will trade that investment for future oil production. That is really the key point in all this: Will these bold and potentially risky new investments — made with NABEP, Italian energy giant ENI, and private American companies like Aspect Energy — result in meaningful new production growth?
-When we spoke with U.S. Secretary of Energy Chris Wright, he was confident that production in Venezuela could quickly scale up by a couple hundred thousand barrels per day. Between that, along with the increased Chevron investment of about $7 billion across three different projects, there is cautious optimism that Venezuela could jump back to 2 million barrels per day of production relatively soon. If it can, the U.S. deals are designed to create a framework where some of the proceeds and tax revenues do flow back to the Venezuelan people, not looted by nefarious overseas actors.
-It's not rocket science to know that the most cynical among us are going to say that the United States is "taking" the oil or that this is some sort of new form of American colonialism. Wrong on both counts. We are making deals with private operators with an eye toward selling more oil.
-My take → If you want to talk about 'colonialism' do five minutes of digging on how Russia, China and even Cuba have looted the country for years. Those countries not only took most of the oil for their own benefit, but in some cases have created serious environmental damage in doing so. People who have been to some of those oil fields tell me about 'pools' of oil gunking up the landscape
-My take #2 → When we were in the Presidential palace, members of the Venezuelan media were clearly excited to be back. Officials who had been to the country earlier this year told me that some members of the media were openly weeping at returning to the capital. They had been banned, silenced or were simply too afraid to re-enter the building. That is what we can hopefully help change. It's not just about oil.
-Venezuela doesn't have the money to invest in and regrow its once-proud energy business. It will take outside capital, know-how and human energy. I'd take the U.S., Italy and other western countries over Russia and China any day of the week and twice on Sunday. But maybe that's just me.
-Anyway, here are photographs I took while in Caracas. Some were done quickly, so apologies that they lack professional quality:
-Thanks for reading!
-Wall Street's Take
-This has been one of the most difficult Power Insiders to write since we launched. The speed of headlines and price action the last few days are head spinning. By the time you read this, the price of oil might be $1, $5 or $10 up or down from right now. That's how fast the news flow has been this week. But, dear reader, at some point we just have to call it and get the newsletter out.
-As I type these words, oil is above $100 here in the United States, slightly higher in the Brent crude global market and even higher in other contracts around the world. Diesel fuel has hit $6 per gallon for the first time here in America (though it's been higher on an inflation-adjusted basis).
-My take → There are all kinds of rumors and market 'chatter' flowing around the markets and social media. I won't repeat them here, but as of this writing it's unclear what may be true or not. Stay nimble, and stay focused
-While oil is flowing through the Strait of Hormuz, three key points:
-1) Volumes are still well below pre-war levels,
-2) Shipowners tell me some captains are unwilling to go back into the Arabian Gulf due to fears they may get stuck, and
-3) Oil isn't the real worry: it's lack of refining capacity
-Turning oil into diesel or jet fuel requires a refinery. The U.S. hasn't built a big refinery since the 1970s. There are large refineries in the Arabian Gulf, but they are suffering due to lack of ships and fears of export risk (point #2 above). Russia is the 'gas station to the world' but the country is a global pariah and Ukraine is smart enough to go after Russian refineries to try to cut off its money for war. One recent interview worth rewatching is with TWG Global managing partner and former Biden administration senior energy adviser Amos Hochstein. He was with us just under a month ago and warned that the market was mispricing oil and that the refining issue was the story to watch.
-Higher prices have popped oil and gas stocks. Look at these quarter to date returns.
-As good as those are, they pale in comparison next to the refining stocks. You can do your own research on what a 'crack spread' is, but let's just say the wider spreads are very, very good for the refining group. The worst performing refiner is up 47% since July 1st. The best, up 22% more than that. Wow.
-It's been a heck of a run, but is it over? Maybe. All these stocks are right at, or even above, their current Wall Street price target. We're either going to see a round of price target raises or analysts believe these gains are all there is.
-From a macro sense, here's an as-of-now summary of what some on Wall Street are saying about the price of crude. As I said, this could change in days - or hours - based on any new information. I remind you to tune in to CNBC and CNBC.com every day for the very latest on what's happening, real-time.
-Here's a quick rundown of some Wall Street commentary around crude:
-JPMorgan asks if the markets are getting inured to a "forever conflict," one where Brent crude could average $87 next year. Kaneva - who has become a must-listen to in energy markets - notes that the futures curve is "$6 too high up front and $10 too low at the back." One thing she notes that may be 'saving' energy markets is that global demand is about 5mbd below recent highs, thanks in part to lower use from China.
-Barclays is out with a very bullish call on energy, writing "the outlook for the global energy sector is the most attractive it has been for two decades. The energy transition increasingly looks like a process of energy addition rather than substitution, with demand for oil, gas, electricity and renewable power rising simultaneously. Population growth, economic development, electrification, AI and digital infrastructure are driving energy demand higher, while geopolitical fragmentation has increased the value of reliable and secure supply."
-Goldman Sachs with 3 big themes to watch around agriculture and even energy markets heading into the fall. The first is, naturally, Hormuz. With Goldman worried that continued "diesel and fertilizer disruptions may raise input costs across agriculture." Next up is the Black Sea risk, with Goldman analysts worried that rising Russia-Ukraine fighting will hit grains. The firm notes that this is peak wheat export season, and levels are below normal. The final theme is the weather and the risk of a "Super El Nino" system that could be one of the strongest on records, cutting water levels in the Panama Canal.
-UBS sees Brent above $100 as a sort of milestone, not a turning point for global markets. It just raised its Brent crude forecast to $95 at the end of this year and $90 in March of next year.
-Not to be outdone, Bank of America also recently raised its Brent crude forecast to $85 this year and $75 next year. It also is one of the rare firms daring to put out a much longer 2028 forecast of around $70 from 2028.
-My take → While I love BofA's moxie, the late, great Boone Pickens told me that trying to forecast oil prices more than a few months out was nearly impossible.
-One other big thing Wall Street is watching is how oil prices are impacting borrowing costs. Bond yields around the world are on the rise. Here in America, our 10 year government note is sniffing a yield of 5%. That's a level we haven't had since 2007! Fedwatch Advisors Ben Emons highlights how the spot-oil-bond-yield correlation has risen to 0.75, higher even than during the Great Financial Crisis. Emons notes that high oil - and thus higher inflation - will impact central bank thinking. The U.S. Federal Reserve has a big meeting next Wednesday the 16th. It's increasingly likely America gets an interest rate hike.
-My take → Respectfully to our Federal Reserve, I'm not sure what a slight interest rate hike is going to do to stem the impact of a war-related oil price shock. And boy, are those fall 2024 interest rate cuts looking more and more ill-timed and, frankly, bizarre.
-TAKE A LOOK
-Watch my two big interviews from Venezuela. The first is with Energy Secretary Chris Wright. We discussed the details of the U.S.-Venezuela oil deal, impact on U.S. domestic oil production, volume of oil going through the Strait of Hormuz:
-The second, Chevron CEO Mike Wirth, who announced plans to more than double its oil production in Venezuela over the next five years:
-INSIDE LINE
-This week's Inside Line interview is with my friend and former CNBC colleague Michelle Caruso-Cabrera. She is one of the few western journalists who has visited both Iran and Venezuela.
-THE GRID
-Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point (CNBC)
-Wealthy investors seek oil and gas assets, but bargains are scarce (CNBC)
-Trump's oil investments have gained millions during Iran war as his accounts keep trading (CNBC)
-Catch up with more on energy including interviews and video content from CNBC and Power Insider.
-Read the last issue of Power Insider here.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/the-inside-story-on-the-historic-us-venezuela-oil-deal-and-how-it-will-work.html",
-    publishedAt: "2026-09-11T16:59:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "how-rising-bond-yields-can-wreck-some-po-a93e6b3f",
-    title: "How rising bond yields can wreck some portfolios while pumping up others with cash",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Also in Weekend Reads: Helping retirees get over their fear of spending, prenups, Walmart’s big move, and advice from the Moneyist.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/how-rising-bond-yields-can-wreck-some-portfolios-while-pumping-up-others-with-cash-c415faf3?mod=mw_rss_topstories",
-    publishedAt: "2026-09-11T16:17:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-33880082",
-    readTime: 2,
-  },
-  {
-    id: "social-security-cola-for-2027-may-be-3-5-af73a736",
-    title: "Social Security COLA for 2027 may be 3.5% to 3.6%, new estimates show — the highest in 3 years",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The Social Security cost-of-living adjustment for 2027 may be around 3.5% to 3.6%, according to new estimates based on government inflation data — which would push the annual adjustment to the highest in three years.
-In 2026, around 75 million Social Security and Supplemental Security Income beneficiaries saw a 2.8% boost to their benefits, according to the Social Security Administration.
-The Social Security COLA for 2027 may be 3.5%, factoring in the latest consumer price index data released on Friday, according to Mary Johnson, an independent Social Security and Medicare policy analyst. In August, Johnson had estimated the COLA may be 3.4%.
-Johnson said how the projected COLA might change will depend on volatile oil prices. Oil prices have had a significant impact on inflation since the war began.
-The Senior Citizens League now projects a 3.5% Social Security COLA, down from the 3.6% increase it had projected last month. That latest estimate would increase average monthly benefit checks by $67.90, according to the nonpartisan senior group.
-Meanwhile, the AARP now forecasts a 3.6% Social Security COLA for 2027, which would increase the average retired worker's benefit by $75 per month, the nonprofit representing Americans age 50 and over said on Friday. That is up from the 3.5% COLA the AARP had estimated in August.
-In the past decade, the Social Security COLA has ranged from 0% in 2016 to 8.7% in 2023, the highest increase in four decades, due to rising inflation. The COLA has averaged about 3.1% over the past 10 years, the Social Security Administration said in October.
-When to expect Social Security 2027 COLA news
-The official Social Security COLA for 2027 will include one more month of government inflation data. The Social Security Administration typically announces the following year's change in October.
-The Social Security COLA is determined by the percentage increase in third-quarter inflation data from the prior year to the current year.
-The calculation is based on a subset of the consumer price index, known as the Consumer Price Index for Urban Wage Earners and Clerical Workers, or CPI-W. The CPI-W increased 3.5% over the past 12 months, according to data released by the Bureau of Labor Statistics on Friday.
-The broader consumer price index was up 3.4% over the past 12 months as the cost of goods and services climbed in August.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/social-security-cola-2027-estimate.html",
-    publishedAt: "2026-09-11T16:05:56+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "here-s-the-inflation-breakdown-for-augus-c7cefe83",
-    title: "Here’s the inflation breakdown for August 2026 — in one chart",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Inflation remained stubbornly high in August — and economists said consumers are likely to continue to feel the financial pain in coming months as tensions flare in the Middle East, driving up gasoline and other energy costs.
-The consumer price index, a measure of inflation, rose 3.4% on an annual basis in August, unchanged from July, according to data issued Friday by the Bureau of Labor Statistics.
-"You've got a lot of shocks that are pushing up inflation and making it uncomfortably high," said Mark Zandi, chief economist at Moody's.
-The Iran war, tariffs and artificial intelligence are among the factors putting upward pressure on consumer prices, economists said.
-"The shocks, we keep hoping they fade away into the background," Zandi said. "But they're not going away. They're still plaguing us with these big increases."
-The CPI report comes as yields on U.S. Treasury bonds have jumped to their highest levels in years, raising borrowing costs for consumers seeking certain types of debt like mortgages and auto loans.
-Some economists said Friday's relatively hot inflation reading makes it likely the Federal Reserve will raise interest rates at its policy meeting next week, to cool the economy and help bring the U.S. inflation rate down to its 2% annual target. Inflation has been above that target for more than five years.
-The trajectory of interest rates is still somewhat uncertain, though, economists said.
-"There's a lot riding on this CPI report as far as the Fed is concerned," said Thomas Ryan, a North America economist at Capital Economics.
-Inflation risks seem "definitely skewed" to the upside, Ryan said.
-"We're not really convinced we're heading back to 2%, at least over the next six months or anytime soon," Ryan said.
-Iran war and the impact on gasoline, diesel, fuel prices
-The Iran war has a lot to do with the current high inflation, economists said.
-The war has severely restricted the flow of oil through a key Middle East corridor for energy trade, reducing global energy supplies and raising prices, economists said.
-"The conflict is a major energy shock to the global economy," said Joe Seydl, a senior markets economist at J.P. Morgan Private Bank.
-"If the conflict never happened this year, I don't even really think we'd be talking about inflation with much interest," he said.
-Global oil prices jumped back over $100 per barrel this week for the first time since mid-May as hostilities flared in the Middle East.
-Initially, oil flows were restricted through the Strait of Hormuz, a key choke point for maritime energy trade. The fighting has broadened out and threatens supply through other key trade routes like the Bab el-Mandeb Strait.
-The war, at the margin, "continues to get worse and not better," Seydl said.
-The oil supply shock has raised prices for gasoline, diesel, jet fuel and other fuels refined from crude oil.
-Gasoline prices were up nearly 4% in the month of August and more than 27% from August 2025, according to Friday's CPI report. Prices averaged about $4.30 per gallon at the pump on Friday, up from $3.19 a year ago, according to AAA.
-Gasoline accounted for more than a third of the monthly increase in the consumer price index in August, according to the BLS.
-However, economists said they're more worried about price increases for other fuels like diesel. That's because the global economy relies on these fuels for essential functions like transporting food and other goods to stores.
-Diesel prices hit $6 per gallon on Friday, a record high.
-This dynamic will put upward pressure on inflation in the medium term "because it impacts the cost of hauling and trucking and farming equipment, which eventually flows through supply chains and finds itself in higher prices on the shelves for food, broader goods," said Ryan of Capital Economics.
-Meanwhile, a runup in jet-fuel prices has lifted airline prices for consumers, economists said.
-Airfare was up nearly 3% in the month of August, and up more than 23% since August 2025, according to CPI data.
-Large volumes of fertilizer also transit the Strait of Hormuz, threatening to push up global food prices, economists said.
-Economists said that it's unclear to what extent the energy shock might flow through to other parts of the economy. It largely depends on the length of the war, which passed the six-month mark at the end of August.
-Impact of AI and tariffs
-Energy isn't the only factor putting upward pressure on inflation, economists said.
-The AI buildout is also a contributor, they said.
-That's because it has driven up demand for — and scarcity of — the computer chips used in AI data centers. Manufacturers use those chips in all types of consumer electronics, from laptops to gaming consoles to those used in newer cars, economists said.
-For example, in June, Apple announced higher prices for MacBooks and iPads, citing surging memory and storage costs. Microsoft said shortly afterward that it's increasing the price of Xbox game consoles for a similar reason.
-"This is starting to feed through to higher prices for households, too, not just data centers," Ryan said.
-Tariffs levied by the Trump administration also "feel like they're still bleeding through" into higher prices for consumer goods, Zandi said.
-However, tariffs don't seem to be the primary driver of inflation anymore, said Seydl.
-The Supreme Court struck down a central piece of Trump's tariff policy in February. While that gave U.S. businesses and consumers a reprieve from the import taxes, the administration is trying to achieve a similar result by using different legal pathways to levy tariffs, economists said.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
-    publishedAt: "2026-09-11T15:54:47+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 2,
   },
 ];
