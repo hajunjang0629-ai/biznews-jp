@@ -15,6 +15,137 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "they-lost-their-jobs-after-posting-about-5f1f7b15",
+    title: "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `They lost their jobs after posting about Charlie Kirk, but some have no regrets
+- Published
+In September 2025, Gerald Bourguet felt he was finally living his dream life: he and his wife had bought a house with a pool, they had just welcomed a baby boy, and he was writing about professional men's basketball as his full-time job.
+But all of that changed after he made a series of online posts critical of the late conservative activist Charlie Kirk hours after he was fatally shot on 10 September, while speaking on the campus of Utah Valley University.
+In the posts, Bourguet described Kirk as an "evil man" and suggested he had dedicated his life to hateful causes. He also criticised Kirk's supporters saying they had not been vocal about school shootings.
+"I had seen the way that people were talking about this person - kind of eulogising him and lionising him and it bothered me based on a lot of the things that he had said," Bourguet told the BBC.
+Kirk, who founded Christian youth organisation Turning Point USA, was a divisive figure in US politics. For many on the political right, he was charismatic and had a unique skill in making conservative ideas appeal to young people. But for his opponents, his comments on a large swathe of issues from race to immigration, gun control and gender identity were deeply offensive.
+Screenshots of Bourguet's critical posts went viral quickly. He was fired from his job, his address was exposed online, and he began receiving threatening text messages, he said. Concerned for their safety, the family fled the state with their four-month-old. They returned months later to sell the house and permanently relocated.
+A year later, he says he doesn't regret what he said, but acknowledged: "My life will never be the same after this".
+"At age 35, I am having to start over in a lot of respects… I wouldn't wish this on my worst enemy," Bourguet said from his new location, which the BBC agreed not to disclose.
+PHNX Sports, Bourguet's former employer, did not respond to the BBC's request for comment.
+Bourguet was one of hundreds fired or disciplined over critical comments of Kirk after his death. While some of those who have lost their jobs have been reinstated or received restitution - sometimes in the millions - others like Bourguet have had to rebuild from scratch.
+'Call their employer'
+In the aftermath of Kirk's assassination, most people kept their feelings to themselves, or shared them with close friends.
+But on polarised social media, people rushed to laude, or denounce, the controversial activist. Some called the criticisms, posted hours after his death, tasteless. But others called for swift action, arguing they were callous, mocking, and could even incite further violence.
+Laura Loomer, an influential right-wing commentator with nearly 2 million followers on X, warned Kirk's critics to "prepare to have your whole future professional aspirations ruined".
+The push for punishment also came from the highest levels of US government.
+"When you see someone celebrating Charlie's murder, call them out," Vice-President JD Vance said days after the assassination. "And hell, call their employer," he added.
+White House spokesperson Davis Ingle told the BBC: "Anyone who engages in or endorses political violence or assassination culture must be condemned in the harshest terms possible."
+Critics on the left said there was a difference between criticism of Kirk and celebrating his death. Some accused these conservative leaders of hypocrisy, as many had previously bemoaned the rise of "cancel culture" – where people who voice controversial opinions face severe consequences at work and socially.
+"Cancel culture can be good, it's bad when it's applied in the wrong ways," Jordan Pace, a Republican member of the South Carolina House of Representatives, told the BBC. "If you are someone who celebrates political assassinations and the murder of an innocent man with two young children in a way that many people did, then yeah, that's an appropriate way for society to function, to shame those people."
+Pace had previously called for defunding universities in his state if they didn't take actions against employees who made comments about Kirk. One of his posts was re-shared by US President Donald Trump.
+Across the nation, some employers – private and public – acted swiftly to the pressure campaign. Reliable figures on the number of people fired or disciplined are hard to come by, but a Reuters tally last November found more than 600 instances. It is likely an under-count because not all cases received national or local press attention.
+The specific actions that led to these disciplinary decisions run the gamut. In Tennessee, anthropology professor Tamar Shirinian was suspended and later fired for a Facebook comment saying "the world is better off" without Kirk.
+A Delta Air Lines flight attendant was fired after posting "good riddance" in response to Kirk's killing. Office Depot supply store fired an employee for refusing to serve a customer who had wanted to print flyers for a Kirk vigil. Delta Air Lines declined to comment. Office Depot did not respond to a request for comment.
+Others were disciplined even if they did not make any direct comments about Kirk or his death. Darren Michael, a theatre professor in Tennessee, was fired after he posted a screenshot of a news article from 2023, that covered Kirk's controversial speech on gun control. In the article, Kirk is quoted saying protecting citizens' rights to own guns was worth it even if it led to some gun deaths every year.
+Florida's Fish and Wildlife Conservation Commission fired biologist Brittney Brown after she reposted a meme that also satirised Kirk's position on gun violence in light of his own shooting.
+"I was absolutely gutted," Brown said about her firing to the BBC. "It was like the entire world just completely flipped on its head in a moment."
+Lawsuits have yielded big pay outs for those fired
+In the year since Kirk's killing, dozens of lawsuits have been filed across the country by people fired for their comments about the activist, arguing their terminations violated their rights to free speech. The suits have led to substantial pay outs in some cases.
+Brown agreed to a $485,000 (£355,000) financial settlement – about 12 times Brown's annual salary.
+Darren Michael was reinstated by the Austin Peay State University and in January, the school agreed to pay him $500,000 to settle legal claims. The school did not respond to a request for comment.
+In the largest settlement reviewed by the BBC, the University of Tennessee agreed to pay $1.9m to resolve a lawsuit brought by anthropologist Tamar Shirinian, over her "better off" comment. As part of the settlement, she will not be reinstated and has agreed not to reapply for future positions at the school.
+Recently, an arbitrator ordered The Washington Post to rehire, with back pay, opinion journalist Karen Attiah, who was fired for her online posts that said in part she was not going to engage in "performative mourning for a white man that espoused violence".
+Several other lawsuits remain pending, the BBC found.
+Most of the legal actions have been pursued by employees of government institutions, or unionised workers, who have some free-speech protections.
+But in the US, most private sector employees work under "at-will" contracts, which means they can be can be fired without reason.
+Even those who have scored some victories don't see it as a win.
+"All I wanted was my job back," biologist Brown said. "How much taxpayer money did they waste on this when I barely made $40,000 a year? So no, it does not feel like justice."
+Shirinian told the BBC she too had wanted to return to her job but felt a legal case could be a lengthy affair.
+"I took a settlement because this allows me to move on with my life," she told the BBC. "The one small regret that I have is that I will not see my day in court and justice will not be served in that way. But I think that the number of the settlement actually speaks to that anyway."
+The University of Tennessee and Florida's Fish and Wildlife Conservation Commission did not respond to the BBC's request for comment.
+'I don't regret what I said'
+As an at-will employee at a private company, Bourguet is unlikely to prevail in a lawsuit challenging his dismissal. A year on, he said he has struggled to find work. The new state he lives in has a professional basketball team, but he believes the ordeal has made him unemployable in the small world of sports writers. Instead, he's started his own podcast, although he doubts he can earn enough through it to pay the bills.
+"I have accepted that that life is over and that I need to start a new one." Leaving the country is now on the table, he said.
+Despite the huge personal and professional costs, those who spoke to the BBC said after months of reflection, they did not regret their actions.
+"I have a right to say what I want to say," Brown said. "They are the ones who should have the regrets, not me," she said referring to her former employer.
+Shirinian apologised to the university days after her suspension. She told the BBC her comment was "an emotional outburst" that was not intended to be public and that she regretted the tone used.
+"I don't regret the sentiment, however" she said, adding "the sentiment was that I am not sad. And I refuse to be made to feel like I have to be sad that someone who was so hateful was killed".
+Bourguet also said he does not regret his comments although he has conflicting thoughts about its consequences.
+"I don't regret that line of thinking because I think it's important to push back on things that are steeped in hatred," he said, referring to Kirk's political message.
+"I don't regret what I said. I don't regret the way that I said it. I do regret the ripple effects that came from it and the way that they impacted me, my career, my family, and my son."
+Related topics
+- Published13 September 2025`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T00:49:08+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1233/live/5647ef90-aeb3-11f1-ae38-d350b022f499.png",
+    readTime: 2,
+  },
+  {
+    id: "why-openai-s-sam-altman-says-an-ipo-isn-32393b84",
+    title: "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Concerns about AI safety have ramped up, and OpenAI’s CEO says now would be an ‘ill-advised’ time for the ChatGPT creator to go public`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+    publishedAt: "2026-09-12T21:50:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-59292817",
+    readTime: 2,
+  },
+  {
+    id: "trump-s-comments-on-a-united-ireland-may-a0bd5c46",
+    title: "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `Trump's comments on a united Ireland may have targeted audience across the Atlantic
+- Published
+When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
+This was exactly the case ahead of President Trump's two-day visit to Ireland.
+Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
+As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
+Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
+He cautioned against anyone reading too much into the president's remarks.
+"This does not represent a shift in US foreign policy," he said.
+"We're still very much committed to the Good Friday Agreement."
+Democratic Congressman Brendan Boyle agreed.
+"There is bipartisan support for that deal, and that is not going to change."
+Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
+Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
+In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
+The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
+President Trump has a speaking style that he describes himself as "the weave".
+He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
+Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
+He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
+Midterm elections fast approaching
+But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
+This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
+They may lose control of one or both houses of Congress.
+About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
+Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
+Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
+Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
+They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
+But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
+The November election campaigns show no indication that will change anytime soon.
+But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
+- Published14 hours ago
+- Published2 days ago
+- Published2 days ago`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T21:25:28+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
+    readTime: 2,
+  },
+  {
     id: "anthropic-s-amodei-shares-plan-to-slow-t-6b559a04",
     title: "Anthropic’s Amodei shares plan to ‘slow the pace’ of growing AI capabilities; Musk and Altman express support",
     titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
@@ -241,6 +372,31 @@ Ellison is also the father of David Ellison, the current CEO of Paramount Skydan
     publishedAt: "2026-09-12T17:14:56+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "french-officials-investigate-if-maliciou-e23274bd",
+    title: "French officials investigate if malicious act caused train derailment",
+    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+    bodyOriginal: `French officials investigate if malicious act caused train derailment
+- Published
+Officials in northern France are investigating whether the derailment of a passenger train on Friday evening was the result of a malicious act.
+"At this stage, the leading theory is that a piece of rail was present on one of the tracks, potentially causing the derailment. The reason for its presence is unknown," prosecutor Sébastien Gallois said on Saturday.
+Local media say 186 passengers were on board the train that was operating between Rouen and Caen in Normandy.
+Forty-four people were treated for injuries, including an 18-year-old woman who was airlifted to hospital in a critical condition.
+"The train's 'black box' has been seized. Several interviews are scheduled, and a court-appointed expert has been called in," prosecutor Gallois said in a press release.
+"The main victim is still in hospital but her life is no longer in danger. The other victims have received care and treatment; they have either been discharged or are about to be."
+The Rouen prosecutor's office earlier said the train driver had tested negative for drugs and alcohol.
+The train derailed near Cléon, just south of Rouen, shortly before 20:00 (18:00 GMT), and some 140 firefighters and other emergency teams were immediately deployed to the crash scene.
+"Suddenly there were a few jolts, and then after about three seconds it got stronger and stronger," Louis, a passenger on the train, told ICI Normandie radio.
+"I couldn't stay in my seat anymore. The windows partially shattered, the stones from the track came into the carriage. It was really shocking. I'm still shaking," he added.`,
+    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-12T15:05:53+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg",
     readTime: 2,
   },
   {
@@ -1248,123 +1404,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     source: "CNBC",
     sourceUrl: "https://www.cnbc.com/2026/09/11/cpi-inflation-breakdown-august-2026.html",
     publishedAt: "2026-09-11T15:54:47+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "analysis-hot-inflation-data-sets-up-a-fe-1d2405e4",
-    title: "Analysis: Hot inflation data sets up a Fed rate hike. What happens if Warsh wavers",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Hotter-than-expected inflation data has turned next week's Federal Reserve meeting into a defining test for Chairman Kevin Warsh. His choice now is whether to raise interest rates, or look like he isn't in control of the central bank he leads.
-Friday's consumer price index data makes the trade-off acute for Warsh. Core consumer prices, which strip out the effects of food and energy prices, rose 0.3% in August, more than expected. Headline inflation climbed 0.4% for the month, putting it 3.4% above the level a year ago.
-Warsh hasn't promised any particular action on rates, but he recently laid out a case that the Fed will need to raise interest rates if inflation doesn't moderate. He arguably preserved the wiggle room to keep rates flat if he and the rest of the Fed choose not to act at their Sept. 15-16 meeting. But with his leadership of the Fed under intense scrutiny from inside and outside the organization, not acting after his repeated inflation warnings will make it harder for him to convince the market he is serious next time.
-Economists will find ways to slice the new CPI data. Warsh's challenge is that his economic philosophy specifically frowns on making quick turns on individual data points such as the latest CPI print. That puts him in contrast with Fed officials such as Governor Christopher Waller and New York Fed President John Williams. Both entered the final stretch before the meeting more inclined to wait for remaining data before deciding whether a rate increase was necessary.
-Warsh, by contrast, has repeatedly warned against putting too much confidence in short-term forecasts. He said last month at the Kansas City Fed's annual symposium in Jackson Hole, Wyoming, "accuracy in forecasting is still just an aspiration" for the Fed.
-"Inflation is running above our 2 percent target," Warsh said in an Aug. 28 speech at Jackson Hole. "So the Fed's predominant focus right now should be on prices." Warsh said he was downplaying recent improvements in inflation data in favor of his broader view of underlying inflation, which he said was informed by his reading of the data feeding into the two main price indicators: personal consumption expenditures and the consumer price index.
-"While this summer's PCE and CPI readings were better than expected, they do not tell me that underlying trends have meaningfully improved," Warsh said at Jackson Hole.
-Headline inflation measured by the PCE index is up 3.7% as of the most recent data.
-Waller, meanwhile, has given a reading of the data much more in keeping with the Fed's tradition of data dependence. Inflation may be above 2%, Waller said at a Reuters event on Sept. 3. But "recent data suggests we are finally seeing some signs of disinflation," he continued. "Now, if this continues in the data over the next two weeks, I would be inclined to support holding the target for the federal funds rate at its current setting." He said he would be closely watching Friday's CPI data for clues.
-The new data may sway Waller and others who would rather still wait and see. But if it doesn't, Warsh will face a choice. Does he wait for the Federal Open Market Committee to come around to his view? Or does he muscle Waller and other potential dissenters into accepting his view?
-Waller has also made some more personal criticisms of Warsh, including calling his advice "weird." Maybe that's the payback Warsh has earned for insisting for years that the Fed where Waller and others served had lost its way — but bowing now to that point of view would effectively make Waller the center of the Fed's intellectual gravity instead of Warsh.
-That could have tough implications for Warsh's task forces to assess the Fed's future, which Waller has dismissed behind closed doors, The Wall Street Journal reported.
-If Warsh doesn't use his sway now, investors will start asking whether he really has any. And that will inevitably give way to a more uncomfortable series of questions about the Fed chairman's political loyalties.
-President Donald Trump has pushed Warsh to cut rates, even while he insists he trusts Warsh to follow his conscience.
-Some analysts have decided Warsh has made a tacit political arrangement with Trump not to raise rates ahead of the Nov. 3 midterm election. Warsh has been vocal in proclaiming his independence, and there is no evidence he has considered anything but his own reading of the economy in making rate decisions. But it's still hard for him to escape the shadow of the president who picked him as Fed chair.
-A theory has emerged that, with his hands tied on interest rates, Warsh is content to simply let the market do his work for him. Market interest rates have increased across the yield curve since Warsh became Fed chair, including a sharp rise in the 10-year Treasury yield to 4.95% as of early Friday morning.
-At his July news conference, Warsh made some ambiguous remarks that led some to believe he thought the market could do the work for him of tightening financial conditions. The Fed hasn't done much since he became chairman, Warsh said. "The markets have done quite a bit."
-But it isn't clear what Warsh really meant. Another interpretation is that Warsh was saying the markets can now respond to the economy without having to second-guess what the Fed will do next. On that view, interest rates have risen because the economy has gained strength — a point the New York Fed's Williams has also made.
-Warsh is now in the position to either vindicate his own views or reignite the debate about what is truly motivating him. If Warsh isn't seen as intellectually decisive, then investors, the public and the chairman's own colleagues may well look to someone else as the shadow chair. That could be Trump, Treasury Secretary Scott Bessent or Waller. Markets would would likely raise the yield on long-term debt to account for the uncertainty.
-The Fed's September meeting will be crucial in determining whether Warsh is seen as the chairman he wants to be.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
-    publishedAt: "2026-09-11T15:53:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "ryanair-boss-o-leary-defends-high-fare-r-7fdcfde5",
-    title: "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks
-- Published
-Ryanair chief executive Michael O'Leary has refused to apologise to a rape crisis centre which criticised him for describing rival airlines as "high-fare rapists".
-Speaking to journalists, O'Leary said some people were "desperate to get to Ryanair's low fares because they can't afford to fly with the high-fare rapists around Europe".
-O'Leary doubled-down on his choice of words when asked about them at the time, and later refused to apologise when the Dublin Rape Crisis Centre (DRCC) wrote to him asking for apology, in a letter seen by the BBC.
-Ireland's deputy premier Simon Harris said it was "clearly an inappropriate use of language" and that O'Leary "should have moved to rectify it".
-Transport Secretary Heidi Alexander told UK radio outlet LBC that victims of rape are "not going to be rushing to book tickets with him, let's be honest".
-O'Leary made the comments on Thursday while talking to journalists ahead of Ryanair's yearly meeting with shareholders.
-Asked by a reporter from the Press Association whether the language was appropriate, he said: "Absolutely."
-"British Airways, Lufthansa, and everybody else's high fares, I'll happily offend them on a regular basis," he added.
-Asked whether it would offend sexual assault victims, he said rape was "a terrible crime".
-Following O'Leary's comments, the DRCC's chief executive Rachel Morrogh wrote to O'Leary accusing him of trying to get a headline with his comments.
-She said the DRCC had received calls from rape victims who were "upset and distressed because of what you said".
-She offered O'Leary training on the impact of sexual violence and urged him to apologise.
-"I can't imagine you would ever use the term so flippantly again if you truly understood [what] it was like to survive rape," she wrote.
-In response, O'Leary said: "I am quite clear that no remarks of mine could possibly trivialise the heinous crime of rape."
-He added that as he had not "trivialised the heinous crime of rape" he would "not be issuing any apology or accepting your offer of training".
-It is not the first time O'Leary has offended people while talking about his business.
-In 2004, he reportedly called the owners of Stansted Airport "a bunch of overcharging rapists", external in a row over airport charges.
-He has also previously called some of his own staff "lazy bastards" and once said to passengers looking for a refund "we don't want to hear your sob stories".
-In June, he said the airline would "reluctantly" stop charging parents to sit next to children after a watchdog investigation was opened, but insisted its previous policy complied with laws.
-Related topics
-- Published21 July`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-11T15:37:25+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e56/live/494cd5f0-adee-11f1-9a5c-a7a4083eb832.jpg",
-    readTime: 2,
-  },
-  {
-    id: "record-u-s-cyclosporiasis-outbreak-is-ov-de413b8f",
-    title: "Record U.S. cyclosporiasis outbreak is over, CDC says",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `The largest-ever outbreak of cyclosporiasis in the U.S. has ended, the Centers for Disease Control and Prevention said Friday.
-The foodborne illness sickened 12,833 people in 21 states in recent months in the largest cluster, the CDC said. Health officials have linked that outbreak to shredded iceberg lettuce supplied by Taylor Farms in Mexico.
-It fueled the worst cyclosporiasis season in U.S. history, with 19,595 overall cases of the illness caused by the parasite cyclospora. The U.S. recorded two deaths, both in Michigan, the epicenter of the biggest outbreak.
-The foodborne illness spread sparked scrutiny of U.S. food safety procedures and corporate consolidation in the country's food supply, along with staffing and funding at the U.S. Food and Drug Administration.
-The outbreak also led to lower sales at restaurants that offer fresh lettuce — particularly Taco Bell, which served shredded iceberg lettuce from Taylor Farms — and dampened lettuce sales at grocery stores.
-Cyclospora was challenging for health officials to track because of its long incubation period. It can take weeks to trace back the source of the illness, after which implicated produce may have spoiled.
-Taylor Farms recalled the iceberg lettuce, including packages sold in grocers such as Walmart, in July. Taco Bell also pulled the lettuce from its restaurants that month.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
-    publishedAt: "2026-09-11T15:36:45+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "iran-russia-condemn-western-economic-san-becb76b7",
-    title: "Iran, Russia condemn Western economic sanctions and urge BRICS bloc to deepen economic ties",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Iranian President Masoud Pezeshkian and Russian President Vladimir Putin on Friday criticized Western sanctions on their economies and urged countries of the Global South to deepen trade relations as they addressed the BRICS Business Forum.
-"BRICS must create an environment in which no country can disrupt the legitimate trade of another country through monopolizing a financial instrument or technology," Pezeshkian said in New Delhi. He urged the bloc, which has sought to amplify the influence of the Global South, to expand the use of national currencies to trade among member countries.
-Pressure on Iran has entered a "dangerous phase," shifting from sanctions to military aggression by the U.S. and Israel, Pezeshkian said, adding that the impact of the war against Tehran was being felt beyond its borders, affecting regional and global stability.
-The conflicts have also disrupted global energy markets and pushed fuel prices sharply higher.
-U.S. diesel prices hit $6 per gallon on Friday for the first time, as fuel supply disruptions triggered by the Ukraine and Iran wars raised transportation costs across the entire economy.
-Since the start of the Iran war, global energy prices have spiked as the conflict has severely disrupted shipping through the Strait of Hormuz, an important waterway for transport of crude and gas from the Middle East.
-On Thursday, U.S. crude oil futures topped $100 per barrel for the first time since May in response to a sharp escalation in fighting between the U.S. and Iran this month.
-"Food and energy security are two fundamental pillars of economic security," the Iranian leader said Friday, adding that his country, with its vast energy reserves, was ready to be a strategic partner.
-Russia, another major energy producer, also faces extensive Western sanctions over its war against Ukraine. Moscow resumed air attacks on major Ukrainian cities after a brief pause for the visit of U.S. peace negotiators over the weekend.
-But despite U.S. President Donald Trump's assurance on Wednesday that a swift resolution to the Ukraine war could pave the way for the countries to fully restore trade and economic ties, Putin lambasted the West for its pressure tactics against Moscow.
-"More than 30,000 sanctions have been slapped on Russia, which is twice as many as the number of sanctions against all the other countries of the world combined," Putin said at the BRICS Business Forum.
-The Russian president said that countries "facing industrial decline and budget deficit" were trying to protect their "competitive edge" by imposing sanctions against Russia and Iran.
-Putin also claimed that over the last five years more than 40% of the world's incremental GDP has been produced by the BRICS countries, while the G7 countries only accounted for 29%.
-BRICS provided a "resilient and viable platform for global growth," Putin said, adding that Moscow is keen to pursue "promising initiatives" in tourism, trade and private sector investment from the Global South.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/11/iran-russia-brics-sanctions-energy.html",
-    publishedAt: "2026-09-11T15:10:45+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 2,
