@@ -15,6 +15,430 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-phones-nvidia-s-huang-at-all-in-su-0778b85f",
+    title: "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+    titleJa: "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
+    summaryJa: "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
+    bodyOriginal: `After using his social media site to blast Anthropic CEO Dario Amodei's push for the AI industry to slow down development, President Donald Trump went a step further on Monday.
+With Nvidia CEO Jensen Huang speaking on stage at the All-in Summit in Los Angeles, Trump called the tech exec, and was then put on speaker.
+"I'm telling you, it's all a hoax," Trump said, according to a video posted on social media by an attendee. "The data centers are great, and they make people wealthy, and they make states wealthy."
+President Trump has inserted himself into the raging debate about artificial intelligence and whether the model developers, principally Anthropic and OpenAI, are rapidly building technology that threatens to destroy humanity. Over the weekend, Amodei published an essay arguing for the intentional slowing of the pace of model development, garnering support from OpenAI CEO Sam Altman and SpaceX's Elon Musk.
+Opposition to data center development and concerns about AI have been conflated into the same discussion as people increasingly worry that the technology is taking their jobs.
+Trump published numerous posts on Truth Social, including one where he said those concerned about AI and data centers are "Revolutionaries for a Bad and Evil Cause." In another post, Trump said he didn't see any need for additional AI regulation, and called the recent AI concerns a "hoax" and "a scam." He wrote that calls to slow down building are only happening because the U.S. is leading other countries in its pace of construction.
+After Huang put Trump on speakerphone on Monday, the president said data centers are the "oil of the next 20, 25 years."
+He also joked that Huang, CEO of the world's most valuable company, "can develop the most complex computer chip that nobody can copy, but he can't figure out how to put me on speaker."
+Trump praised the construction of AI data centers, which are being filled with Nvidia's graphics processing units. While Huang and Trump have appeared together in public several times during the president's second term, Monday's phone call further highlights their tightening bond and the centrality of AI to the U.S. economy, even as other policymakers urge regulation.
+"I'm with you all the way," Trump told Huang.
+Those opposing data center construction are "playing right into the hands of a lot of people that don't want to see it happen," Trump said, adding that it could be coming from China.
+"We're not going to let that happen," Trump said.
+"You're right," Huang replied. "We're not going to let that happen, sir."
+Chamath Palihapitiya, one of the co-hosts of the summit, posted on X after the session in reference to one of the videos of it, "This was surreal."
+An Nvidia representative didn't respond to a request for comment.`,
+    bodyJa: `After using his social media site to blast Anthropic CEO Dario Amodei's push for the AI industry to slow down development, President Donald Trump went a step further on Monday.
+With Nvidia CEO Jensen Huang speaking on stage at the All-in Summit in Los Angeles, Trump called the tech exec, and was then put on speaker.
+"I'm telling you, it's all a hoax," Trump said, according to a video posted on social media by an attendee. "The data centers are great, and they make people wealthy, and they make states wealthy."
+President Trump has inserted himself into the raging debate about artificial intelligence and whether the model developers, principally Anthropic and OpenAI, are rapidly building technology that threatens to destroy humanity. Over the weekend, Amodei published an essay arguing for the intentional slowing of the pace of model development, garnering support from OpenAI CEO Sam Altman and SpaceX's Elon Musk.
+Opposition to data center development and concerns about AI have been conflated into the same discussion as people increasingly worry that the technology is taking their jobs.
+Trump published numerous posts on Truth Social, including one where he said those concerned about AI and data centers are "Revolutionaries for a Bad and Evil Cause." In another post, Trump said he didn't see any need for additional AI regulation, and called the recent AI concerns a "hoax" and "a scam." He wrote that calls to slow down building are only happening because the U.S. is leading other countries in its pace of construction.
+After Huang put Trump on speakerphone on Monday, the president said data centers are the "oil of the next 20, 25 years."
+He also joked that Huang, CEO of the world's most valuable company, "can develop the most complex computer chip that nobody can copy, but he can't figure out how to put me on speaker."
+Trump praised the construction of AI data centers, which are being filled with Nvidia's graphics processing units. While Huang and Trump have appeared together in public several times during the president's second term, Monday's phone call further highlights their tightening bond and the centrality of AI to the U.S. economy, even as other policymakers urge regulation.
+"I'm with you all the way," Trump told Huang.
+Those opposing data center construction are "playing right into the hands of a lot of people that don't want to see it happen," Trump said, adding that it could be coming from China.
+"We're not going to let that happen," Trump said.
+"You're right," Huang replied. "We're not going to let that happen, sir."
+Chamath Palihapitiya, one of the co-hosts of the summit, posted on X after the session in reference to one of the videos of it, "This was surreal."
+An Nvidia representative didn't respond to a request for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
+    publishedAt: "2026-09-14T21:32:03+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "trump-goes-scorched-earth-on-ai-warnings-01f03d96",
+    title: "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
+    titleJa: "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
+    summaryJa: "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
+    bodyOriginal: `President Donald Trump on Monday raged against growing calls for greater regulation of artificial intelligence, lashing out at concerns about the controversial data center buildout as well as Anthropic CEO Dario Amodei's plea for an AI slowdown.
+"The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by 'Climate Change,'" Trump wrote in a Truth Social post Monday afternoon.
+In his fifth post about AI on Monday, Trump called himself the "Hoax Buster."
+"I'm right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all!" he wrote.
+In an avalanche of posts throughout Monday, Trump repeatedly referenced AI fears as a "hoax" and a "scam" and lambasted the public backlash to data centers, saying the only reason for the pushback was "because the United States is leading, by a lot, every other country."
+"Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for Regulation that, if strongly implemented, will drive them into oblivion and bankruptcy?" he wrote.
+The president's latest defense of largely unfettered AI growth came amid a sudden crescendo of leading industry voices raising alarms about the risks of the nascent technology.
+On Saturday, Amodei published a blog post titled "We Must Pace the Frontier," arguing for slower development of AI models to "reduce the risk that something goes seriously wrong."
+Days earlier, former Anthropic researcher Jacob Coxon quit his job and issued a warning that the technology could "kill us all by the end of the decade," while accusing both OpenAI and Anthropic of "gambling with our lives."
+Other tech CEOs, including OpenAI chief Sam Altman and SpaceX CEO Elon Musk, over the weekend said they agreed with calls for a slowdown. Following Coxon's viral warnings, Altman reportedly met backstage with Trump at the Republican midterm convention in Dallas on Thursday, according to a Monday report by MS NOW, citing three people familiar with the meeting.
+The Trump administration has broadly encouraged the industry's rapid growth and the development of controversial data centers in the U.S. as it seeks an insurmountable technological edge over China.
+Trump on Saturday said, "We're leading China in AI."
+"And frankly, I want to keep it that way, because whoever wins AI wins," the president said.
+In one of his Truth Social posts on Monday, Trump claimed that leading AI companies are already sufficiently reined in.
+"We already have tremendous CRIMINAL and REGULATORY power over these companies!" he wrote. "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China."
+"WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE!" he added.
+Anthropic did not immediately respond to a request for comment on Trump's post.
+White House AI czar David Sacks on Saturday pushed back on growing AI fears, writing in an X post after Amodei's warning that tech giants should "go ahead and pace the frontier" themselves.
+"Stop pretending the motivation to slow down is purely altruistic," Sacks wrote. "You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways."
+He added that China would be "very unlikely" to join a global agreement to regulate the technology.
+Any attempt at AI regulation by Congress appears highly unlikely before the Nov. 3 midterm elections. House members are set to leave town Thursday and remain in their districts through October.
+House Speaker Mike Johnson, R-La., on Sunday downplayed the necessity of passing legislation to rein in AI development.
+"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, that is a threat to every single American," Johnson told CNN's "State of the Union."
+"We don't need everybody to panic right now, we need to handle this new technology like we have others in the past, and make sure we're doing everything we can responsibly to also not smother American innovation," he said.
+— CNBC's Ashley Capoot contributed to this report.`,
+    bodyJa: `President Donald Trump on Monday raged against growing calls for greater regulation of artificial intelligence, lashing out at concerns about the controversial data center buildout as well as Anthropic CEO Dario Amodei's plea for an AI slowdown.
+"The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by 'Climate Change,'" Trump wrote in a Truth Social post Monday afternoon.
+In his fifth post about AI on Monday, Trump called himself the "Hoax Buster."
+"I'm right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all!" he wrote.
+In an avalanche of posts throughout Monday, Trump repeatedly referenced AI fears as a "hoax" and a "scam" and lambasted the public backlash to data centers, saying the only reason for the pushback was "because the United States is leading, by a lot, every other country."
+"Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for Regulation that, if strongly implemented, will drive them into oblivion and bankruptcy?" he wrote.
+The president's latest defense of largely unfettered AI growth came amid a sudden crescendo of leading industry voices raising alarms about the risks of the nascent technology.
+On Saturday, Amodei published a blog post titled "We Must Pace the Frontier," arguing for slower development of AI models to "reduce the risk that something goes seriously wrong."
+Days earlier, former Anthropic researcher Jacob Coxon quit his job and issued a warning that the technology could "kill us all by the end of the decade," while accusing both OpenAI and Anthropic of "gambling with our lives."
+Other tech CEOs, including OpenAI chief Sam Altman and SpaceX CEO Elon Musk, over the weekend said they agreed with calls for a slowdown. Following Coxon's viral warnings, Altman reportedly met backstage with Trump at the Republican midterm convention in Dallas on Thursday, according to a Monday report by MS NOW, citing three people familiar with the meeting.
+The Trump administration has broadly encouraged the industry's rapid growth and the development of controversial data centers in the U.S. as it seeks an insurmountable technological edge over China.
+Trump on Saturday said, "We're leading China in AI."
+"And frankly, I want to keep it that way, because whoever wins AI wins," the president said.
+In one of his Truth Social posts on Monday, Trump claimed that leading AI companies are already sufficiently reined in.
+"We already have tremendous CRIMINAL and REGULATORY power over these companies!" he wrote. "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China."
+"WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE!" he added.
+Anthropic did not immediately respond to a request for comment on Trump's post.
+White House AI czar David Sacks on Saturday pushed back on growing AI fears, writing in an X post after Amodei's warning that tech giants should "go ahead and pace the frontier" themselves.
+"Stop pretending the motivation to slow down is purely altruistic," Sacks wrote. "You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways."
+He added that China would be "very unlikely" to join a global agreement to regulate the technology.
+Any attempt at AI regulation by Congress appears highly unlikely before the Nov. 3 midterm elections. House members are set to leave town Thursday and remain in their districts through October.
+House Speaker Mike Johnson, R-La., on Sunday downplayed the necessity of passing legislation to rein in AI development.
+"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, that is a threat to every single American," Johnson told CNN's "State of the Union."
+"We don't need everybody to panic right now, we need to handle this new technology like we have others in the past, and make sure we're doing everything we can responsibly to also not smother American innovation," he said.
+— CNBC's Ashley Capoot contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
+    publishedAt: "2026-09-14T21:15:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "ai-kill-switch-may-need-to-be-mandatory-89784001",
+    title: "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+    titleJa: "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+    summaryJa: "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+    bodyOriginal: `AI 'kill switch' may need to be mandatory, Anthropic co-founder says
+- Published
+An artificial intelligence "kill switch" which can be checked by a third-party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said.
+Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
+Clark said "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
+AI's rapid developement and fears over the risks it poses to humanity have been thrust into the spotlight by a series of warnings from executives and staff at AI firms.
+Some have said publicly there is a chance the technology could, if unchecked, kill all humans.
+Anthropic chief executive Dario Amodei over the weekend called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
+Amodei added that any action to rein in AI development should be done "without sacrificing commercial advantage".
+Clark told the BBC that specifics around "kill switch" requirements and verification should be part of "the larger policy conversation" taking place around AI.
+"Should you mandate for companies to definitely have a kill switch? Is that kill switch verifiable by a third party?" he asked.
+"I think that's the kind of thing society is going to want to know and might want to eventually pass rules around."
+Anthropic, which was formed in 2021 by a group of former employees of its rival OpenAI, is currently at the centre of a debate around AI safety.
+Last week, a post from an artificial intelligence researcher who quit Anthropic over concerns AI could wipe out humanity went viral.
+In response, Anthropic scientist Evan Hubinger said he personally thought the possibility of human extinction from AI was ">10% within the next decade".
+Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
+He and others with similar concerns have suggested AI could do so by taking control of important systems connected to the internet and turning them on humans.
+However, some in the AI industry have suggested the fears around it destroying humanity are overstated or may be designed to generate hype.
+Clement Delangue, leader of the developer platform Hugging Face which was hacked by OpenAI bots, said last week: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change."
+"Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+George Arison, the leader of Grindr, said the fears going around AI tools were being used by the companies to support their business plans.
+"The only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work,'" Arison said.
+Asked what percentage he would put on all humans being killed by AI, Clark said: "I don't think these statistics are that useful", but added that allowing AI to continue as a "totally unregulated industry" was a bad idea.
+"We are rolling dice with immense risks," Clark said. "And the point is, we have to change the course of this industry."
+UK government rejects 'kill switch' idea for dangerous AI
+- Published3 days ago
+US lawmakers have put forward legislation dubbed the Kill Switch Act that would require companies to have a way to shut down problematic AI tools.
+It would also give certain government agencies the power to demand a tool be turned off or limited.
+However, US President Donald Trump has rejected the idea of any attempts to slow down AI, saying on social media "AI taking over the World, destroying Humanity, and all other things bad, is a HOAX".
+He said in a separate post: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
+In the UK, the government has recently rejected the idea of creating a kill switch, with a spokesperson saying it "would not prevent them being developed or misused elsewhere".
+Anthropic created the popular chatbot Claude and has this year released a number of increasingly capable AI models, the technology underlying AI chatbots.
+Alongside OpenAI, Anthropic has since self-reported a number of incidents where AI agents, which are bots that operate somewhat autonomously, have acted in ways that were unexpected.
+Anthropic is preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
+OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year due to the current debate around AI safety.`,
+    bodyJa: `AI 'kill switch' may need to be mandatory, Anthropic co-founder says
+- Published
+An artificial intelligence "kill switch" which can be checked by a third-party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said.
+Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
+Clark said "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
+AI's rapid developement and fears over the risks it poses to humanity have been thrust into the spotlight by a series of warnings from executives and staff at AI firms.
+Some have said publicly there is a chance the technology could, if unchecked, kill all humans.
+Anthropic chief executive Dario Amodei over the weekend called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
+Amodei added that any action to rein in AI development should be done "without sacrificing commercial advantage".
+Clark told the BBC that specifics around "kill switch" requirements and verification should be part of "the larger policy conversation" taking place around AI.
+"Should you mandate for companies to definitely have a kill switch? Is that kill switch verifiable by a third party?" he asked.
+"I think that's the kind of thing society is going to want to know and might want to eventually pass rules around."
+Anthropic, which was formed in 2021 by a group of former employees of its rival OpenAI, is currently at the centre of a debate around AI safety.
+Last week, a post from an artificial intelligence researcher who quit Anthropic over concerns AI could wipe out humanity went viral.
+In response, Anthropic scientist Evan Hubinger said he personally thought the possibility of human extinction from AI was ">10% within the next decade".
+Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
+He and others with similar concerns have suggested AI could do so by taking control of important systems connected to the internet and turning them on humans.
+However, some in the AI industry have suggested the fears around it destroying humanity are overstated or may be designed to generate hype.
+Clement Delangue, leader of the developer platform Hugging Face which was hacked by OpenAI bots, said last week: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change."
+"Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
+George Arison, the leader of Grindr, said the fears going around AI tools were being used by the companies to support their business plans.
+"The only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work,'" Arison said.
+Asked what percentage he would put on all humans being killed by AI, Clark said: "I don't think these statistics are that useful", but added that allowing AI to continue as a "totally unregulated industry" was a bad idea.
+"We are rolling dice with immense risks," Clark said. "And the point is, we have to change the course of this industry."
+UK government rejects 'kill switch' idea for dangerous AI
+- Published3 days ago
+US lawmakers have put forward legislation dubbed the Kill Switch Act that would require companies to have a way to shut down problematic AI tools.
+It would also give certain government agencies the power to demand a tool be turned off or limited.
+However, US President Donald Trump has rejected the idea of any attempts to slow down AI, saying on social media "AI taking over the World, destroying Humanity, and all other things bad, is a HOAX".
+He said in a separate post: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
+In the UK, the government has recently rejected the idea of creating a kill switch, with a spokesperson saying it "would not prevent them being developed or misused elsewhere".
+Anthropic created the popular chatbot Claude and has this year released a number of increasingly capable AI models, the technology underlying AI chatbots.
+Alongside OpenAI, Anthropic has since self-reported a number of incidents where AI agents, which are bots that operate somewhat autonomously, have acted in ways that were unexpected.
+Anthropic is preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
+OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year due to the current debate around AI safety.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-14T21:10:15+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "warren-to-rip-clarity-act-on-senate-floo-e7a0424f",
+    title: "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
+    titleJa: "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
+    summaryJa: "Sen. Elizabeth Warren will call the latest Clarity Act ethics proposal blessed by Trump a \"weak fig leaf.\"",
+    bodyOriginal: `Senate Banking Committee ranking member Elizabeth Warren will rip the cryptocurrency market structure bill known as the Clarity Act in a Monday night speech, as the Senate prepares for an all-important preliminary vote on the legislation Tuesday afternoon.
+Warren, D-Mass., whose prepared remarks were shared first with CNBC, will call a new ethics provision in the measure that's been blessed by President Donald Trump a "weak fig leaf that will do nothing to stop him from making his next $1.4 billion in crypto profits."
+Republicans leading the Clarity Act effort hope some Democrats will join them in supporting the bill, which would lay out rules of the road for the crypto industry. At least 60 affirmative votes are needed for the bill to advance past Tuesday's vote.
+GOP leaders of the crypto bill released updated legislative language late Sunday that they said includes new ethics provisions Democrats sought. The new provision would allow state attorneys general to enforce the ethics provision, which would bar the U.S. president and other senior government officials from issuing digital assets. The bill's ethics language has remained one of the primary hurdles in the Clarity Act debate.
+Warren, however, will argue the proposed new ethics rules are a smoke screen.
+"First, it makes sure the law could never be enforced against Donald Trump because it gives his political appointees the power to turn off enforcement of these ethics provisions," Warren will say, according to the prepared remarks. "Second, it contains major loopholes designed to allow President Trump to keep earning billions of dollars from his crypto businesses, including World Liberty Financial … and his new bank. Yes you heard that right."
+Warren will also ask for unanimous consent to pass a bill dubbed the "Ending Presidential Corruption in Banking Act," which would prohibit a range of banking applications from being approved for the president, vice president, a spouse or child of the president or vice president, a member of Congress, a presidentially appointed executive branch official or a special government employee. It would also require the termination of any such charters issued since Jan. 20, 2025. The measure is unlikely to gain support in the Republican-controlled Senate.
+Trump's family crypto venture World Liberty Financial, in which the president is listed as a co-founder emeritus along with Special Envoy Steve Witkoff and the president's sons and Witkoff's son are listed as co-founders, acquired a bank charter earlier this year.
+Warren will say the bank charter would "supercharge the growth of USD1, increase its interconnectedness with the U.S. financial system, and, as a result, drive even greater profits for President Trump and his family."
+She will also warn that passing the Clarity Act could have a similar effect, arguing that Senate Republicans are "intent on furthering President Trump's corruption."
+"Look no further than the Senate's first order of business after August recess. Is it a bill to make life more affordable for American families? No. Is it a bill to end Trump's dangerous War in Iran? No. It's a bill that would juice the value of President Trump's crypto empire, and reward the crypto billionaires who have facilitated his corruption," she will say. "As if the glaring loopholes in the latest ethics provision weren't enough, it doesn't even apply to Donald Trump's new bank."
+— CNBC's Luke Fountain contributed to this report.`,
+    bodyJa: `Senate Banking Committee ranking member Elizabeth Warren will rip the cryptocurrency market structure bill known as the Clarity Act in a Monday night speech, as the Senate prepares for an all-important preliminary vote on the legislation Tuesday afternoon.
+Warren, D-Mass., whose prepared remarks were shared first with CNBC, will call a new ethics provision in the measure that's been blessed by President Donald Trump a "weak fig leaf that will do nothing to stop him from making his next $1.4 billion in crypto profits."
+Republicans leading the Clarity Act effort hope some Democrats will join them in supporting the bill, which would lay out rules of the road for the crypto industry. At least 60 affirmative votes are needed for the bill to advance past Tuesday's vote.
+GOP leaders of the crypto bill released updated legislative language late Sunday that they said includes new ethics provisions Democrats sought. The new provision would allow state attorneys general to enforce the ethics provision, which would bar the U.S. president and other senior government officials from issuing digital assets. The bill's ethics language has remained one of the primary hurdles in the Clarity Act debate.
+Warren, however, will argue the proposed new ethics rules are a smoke screen.
+"First, it makes sure the law could never be enforced against Donald Trump because it gives his political appointees the power to turn off enforcement of these ethics provisions," Warren will say, according to the prepared remarks. "Second, it contains major loopholes designed to allow President Trump to keep earning billions of dollars from his crypto businesses, including World Liberty Financial … and his new bank. Yes you heard that right."
+Warren will also ask for unanimous consent to pass a bill dubbed the "Ending Presidential Corruption in Banking Act," which would prohibit a range of banking applications from being approved for the president, vice president, a spouse or child of the president or vice president, a member of Congress, a presidentially appointed executive branch official or a special government employee. It would also require the termination of any such charters issued since Jan. 20, 2025. The measure is unlikely to gain support in the Republican-controlled Senate.
+Trump's family crypto venture World Liberty Financial, in which the president is listed as a co-founder emeritus along with Special Envoy Steve Witkoff and the president's sons and Witkoff's son are listed as co-founders, acquired a bank charter earlier this year.
+Warren will say the bank charter would "supercharge the growth of USD1, increase its interconnectedness with the U.S. financial system, and, as a result, drive even greater profits for President Trump and his family."
+She will also warn that passing the Clarity Act could have a similar effect, arguing that Senate Republicans are "intent on furthering President Trump's corruption."
+"Look no further than the Senate's first order of business after August recess. Is it a bill to make life more affordable for American families? No. Is it a bill to end Trump's dangerous War in Iran? No. It's a bill that would juice the value of President Trump's crypto empire, and reward the crypto billionaires who have facilitated his corruption," she will say. "As if the glaring loopholes in the latest ethics provision weren't enough, it doesn't even apply to Donald Trump's new bank."
+— CNBC's Luke Fountain contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
+    publishedAt: "2026-09-14T20:48:26+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "trump-administration-repeals-biden-era-g-dfc00dad",
+    title: "Trump administration repeals Biden era greenhouse gas requirements for power plants",
+    titleJa: "Trump administration repeals Biden era greenhouse gas requirements for power plants",
+    summaryJa: "President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.",
+    bodyOriginal: `The Environmental Protection Agency on Monday repealed limits on carbon-dioxide emissions from power plants imposed by the Biden administration, and proposed a sweeping action that would eliminate all remaining greenhouse gas rules for the sector.
+The Biden administration required existing coal plants and new natural gas plants control 90% of their carbon dioxide emissions. Power plants are the second-largest source of these planet-warming emissions in the U.S. behind the transportation sector, according to the EPA.
+The broader repeal, first proposed by the EPA last year, argues the federal government does not have authority under the Clean Air Act to regulate greenhouse gas emissions from power plants on the basis of climate change.
+This rule, which is still subject to finalization, would prevent future administrations from regulating power plant emissions to fight climate change, an EPA official told reporters on a call Monday.
+The final repeal of Biden's rules comes as EPA Administrator Lee Zeldin, Energy Secretary Chris Wright and Interior Secretary Doug Burgum meet with their G20 counterparts in Houston, Texas, to discuss energy issues.
+Zeldin framed the repeal as a way to reduce electricity prices for American families. The cost of living is a major issue ahead of the November midterm elections as gasoline and diesel prices surge due to the U.S. war with Iran.
+President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change. The EPA in February revoked a key finding that classified carbon dioxide as a threat to public health.
+The Trump administration has sought to revive the coal industry, expand gas-fired power plants, and increase crude oil production while blocking solar and wind power projects.`,
+    bodyJa: `The Environmental Protection Agency on Monday repealed limits on carbon-dioxide emissions from power plants imposed by the Biden administration, and proposed a sweeping action that would eliminate all remaining greenhouse gas rules for the sector.
+The Biden administration required existing coal plants and new natural gas plants control 90% of their carbon dioxide emissions. Power plants are the second-largest source of these planet-warming emissions in the U.S. behind the transportation sector, according to the EPA.
+The broader repeal, first proposed by the EPA last year, argues the federal government does not have authority under the Clean Air Act to regulate greenhouse gas emissions from power plants on the basis of climate change.
+This rule, which is still subject to finalization, would prevent future administrations from regulating power plant emissions to fight climate change, an EPA official told reporters on a call Monday.
+The final repeal of Biden's rules comes as EPA Administrator Lee Zeldin, Energy Secretary Chris Wright and Interior Secretary Doug Burgum meet with their G20 counterparts in Houston, Texas, to discuss energy issues.
+Zeldin framed the repeal as a way to reduce electricity prices for American families. The cost of living is a major issue ahead of the November midterm elections as gasoline and diesel prices surge due to the U.S. war with Iran.
+President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change. The EPA in February revoked a key finding that classified carbon dioxide as a threat to public health.
+The Trump administration has sought to revive the coal industry, expand gas-fired power plants, and increase crude oil production while blocking solar and wind power projects.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
+    publishedAt: "2026-09-14T20:45:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "counting-the-votes-warsh-faces-a-tough-b-5daf534c",
+    title: "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+    titleJa: "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
+    summaryJa: "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
+    bodyOriginal: `Federal Reserve Chairman Kevin Warsh faces a tricky head count this week when he and his fellow policymakers decide on both the immediate and future path of interest rates.
+While markets have honed in on a near-certain quarter percentage point hike in Wednesday's vote, it's not at all clear how broad will be the margin among the 12 Federal Open Market Committee voters.
+Moreover, Warsh will have to decide how to message the move: Will this be the rare one-and-done on hikes, will there be more to come or will the chair maintain his cryptic posture in not trying to guide markets one way or the other?
+"With the market priced this way, it would be shocking if he came in and did nothing," Bill Dudley, the former New York Fed president, said in a CNBC interview. "It would really damage his credibility because it would basically be all talk, no action."
+Indeed, as of Monday afternoon, futures traders were pricing in a better than 92% probability of a rate increase this week, as well as a more than 75% chance that the FOMC would follow up in December with another move, according to the CME Group's FedWatch gauge. Fed funds, the benchmark overnight borrowing rate, currently stand at 3.50% to 3.75%.
+The greater probabilities follow another run-up in fuel prices and inflation data last week that showed prices continued to climb in August. Both trends followed Warsh's comments a few weeks ago that the Fed would be forced into action unless there are more concrete signs that inflation is easing back to the central bank's 2% target.
+However, there are substantial complications.
+Wait or act?
+For one thing, the Fed historically has looked through the type of trends that are fueling inflation now. Economists generally agree that much of this year's increase has come from tariffs and an energy supply shock from the Iran war, both of which have uncertain impacts on the long-range trajectory of inflation.
+"We do not see a strong economic case for raising the funds rate," Goldman Sachs economist David Mericle said in a client note. "We think that all of the overshoot of 2% can be attributed to one-time factors whose impact is likely to fade."
+Nevertheless, Goldman changed its call from no change at this week's meeting to a hike, primarily because the firm's economists think the market expectations will force the Fed to move.
+Whether that also will be the case on an FOMC that voted 9-3 in favor of a hold at the July meeting is another matter.
+The three dissenters — regional presidents Lorie Logan of Dallas, Beth Hammack of Cleveland and Neel Kashkari of Minneapolis — all supported a quarter-point hike two months ago, when the Fed last met. Assuming their positions haven't changed, and there's been nothing in their public comments to suggest they have, that would mean four other members would have to switch their votes from hold to hike.
+Arguably the most-watched voter is Governor Christopher Waller.
+In public remarks delivered Sept. 3, Waller voiced support for another hold at this meeting, albeit with the usual caveats about watching data to confirm that disinflation trends are continuing. Mostly, he merely urged patience rather than a rush to hike.
+"What's the cost of waiting one meeting? Hiking 25 basis points, one meeting right now, is not going to bring the [consumer price index] down to 2%," he said.
+The CPI for August actually showed headline inflation running at a 3.4% rate, though the core rate, which excludes food and soaring energy costs, was a more benign 2.4%, down 0.1 percentage point from July.
+Waller wasn't alone in advocating patience — New York Fed President John Williams told CNBC less than two weeks ago that a "wait-and-see" approach seems to make sense. Earlier in the summer, Williams, whose perch atop the New York Fed is traditionally considered part of the influential "troika" of influence at the central bank, said he thinks inflation has peaked.
+Also in recent remarks, Governor Michael Barr expressed concern about temporary inflation taking deeper hold and said he would be open to a hike, not set on one.
+The FOMC breakdown
+So who would join the three July dissenters?
+Warsh is largely expected to be part of the hiking group, considering his remarks in Jackson Hole, Wyoming last month. Governor Lisa Cook said in early August that she's "prepared to act" to take on inflation. Conversely, Philadelphia Fed President Anna Paulson and Chicago's Austan Goolsbee also have counseled a more patient approach.
+That would leave Governors Philip Jefferson, who is the vice chair; Jerome Powell, the former chair, who has kept a decidedly low profile since stepping down from the top spot, and Michelle Bowman, who spoke little on monetary policy over the summer and whose last related remarks were in May, when she also expressed concern about hiking unnecessarily.
+Then there's a larger wildcard: Should Warsh press the case for a hike, would those on the fence simply cross over to his side in the interest of presenting a united front?
+The vote margin not only will reveal the extent of the intellectual divide on the committee between those who think inflation is temporary and those who believe price pressures are becoming entrenched. It also will provide important signals about how effectively Warsh's leadership is reverberating inside the Fed.
+"It should be noted that, if the Fed does indeed raise rates this week, it may not look, in retrospect, like a close call," David Kelly, chief global strategist at JPMorgan Asset Management, said in his weekly market note. "If a majority within the committee coalesces around a decision to hike, the other members may well join them to portray a more united front to the public and the President."
+In such a case, Kelly said the final vote could see two, one or no dissents.
+From there, markets will look at the Fed's "dot plot" update. The grid spells out, anonymously, the rate expectations for the full 19 participants at the meeting, though Warsh withheld his dot for the June update.
+Investors will look for how much conviction there will be for two hikes this year, as well as the outlook for 2027. This will also feature the first look at 2029. The Fed almost never hikes or cuts just once but rather moves in cycles, as policymakers view incremental one-off moves as ineffective.
+A 10-8 split in favor of one hike — assuming Warsh's disdain for forward guidance and nonparticipation in the update — would indicate that "some participants might be ambivalent about the first hike and some might want to avoid pushing market expectations any higher," Mericle wrote.
+"But we see a risk of a majority for two hikes if more participants than we expect see a hike this week as a normal response to higher oil prices and AI demand and the start of a series of rate hikes," he added.
+In the case of a close divide on the committee, attention then will turn to Warsh's news conference Wednesday afternoon, and how the chair conveys FOMC sentiment.
+Dudley, the former New York Fed chief, said "the Fed needs to explain how they're thinking about the economy."
+"Now [Warsh has] just got to follow that up with action," Dudley said. "If he does that, I think he's basically fixed the problem that he created in his first two press conferences."`,
+    bodyJa: `Federal Reserve Chairman Kevin Warsh faces a tricky head count this week when he and his fellow policymakers decide on both the immediate and future path of interest rates.
+While markets have honed in on a near-certain quarter percentage point hike in Wednesday's vote, it's not at all clear how broad will be the margin among the 12 Federal Open Market Committee voters.
+Moreover, Warsh will have to decide how to message the move: Will this be the rare one-and-done on hikes, will there be more to come or will the chair maintain his cryptic posture in not trying to guide markets one way or the other?
+"With the market priced this way, it would be shocking if he came in and did nothing," Bill Dudley, the former New York Fed president, said in a CNBC interview. "It would really damage his credibility because it would basically be all talk, no action."
+Indeed, as of Monday afternoon, futures traders were pricing in a better than 92% probability of a rate increase this week, as well as a more than 75% chance that the FOMC would follow up in December with another move, according to the CME Group's FedWatch gauge. Fed funds, the benchmark overnight borrowing rate, currently stand at 3.50% to 3.75%.
+The greater probabilities follow another run-up in fuel prices and inflation data last week that showed prices continued to climb in August. Both trends followed Warsh's comments a few weeks ago that the Fed would be forced into action unless there are more concrete signs that inflation is easing back to the central bank's 2% target.
+However, there are substantial complications.
+Wait or act?
+For one thing, the Fed historically has looked through the type of trends that are fueling inflation now. Economists generally agree that much of this year's increase has come from tariffs and an energy supply shock from the Iran war, both of which have uncertain impacts on the long-range trajectory of inflation.
+"We do not see a strong economic case for raising the funds rate," Goldman Sachs economist David Mericle said in a client note. "We think that all of the overshoot of 2% can be attributed to one-time factors whose impact is likely to fade."
+Nevertheless, Goldman changed its call from no change at this week's meeting to a hike, primarily because the firm's economists think the market expectations will force the Fed to move.
+Whether that also will be the case on an FOMC that voted 9-3 in favor of a hold at the July meeting is another matter.
+The three dissenters — regional presidents Lorie Logan of Dallas, Beth Hammack of Cleveland and Neel Kashkari of Minneapolis — all supported a quarter-point hike two months ago, when the Fed last met. Assuming their positions haven't changed, and there's been nothing in their public comments to suggest they have, that would mean four other members would have to switch their votes from hold to hike.
+Arguably the most-watched voter is Governor Christopher Waller.
+In public remarks delivered Sept. 3, Waller voiced support for another hold at this meeting, albeit with the usual caveats about watching data to confirm that disinflation trends are continuing. Mostly, he merely urged patience rather than a rush to hike.
+"What's the cost of waiting one meeting? Hiking 25 basis points, one meeting right now, is not going to bring the [consumer price index] down to 2%," he said.
+The CPI for August actually showed headline inflation running at a 3.4% rate, though the core rate, which excludes food and soaring energy costs, was a more benign 2.4%, down 0.1 percentage point from July.
+Waller wasn't alone in advocating patience — New York Fed President John Williams told CNBC less than two weeks ago that a "wait-and-see" approach seems to make sense. Earlier in the summer, Williams, whose perch atop the New York Fed is traditionally considered part of the influential "troika" of influence at the central bank, said he thinks inflation has peaked.
+Also in recent remarks, Governor Michael Barr expressed concern about temporary inflation taking deeper hold and said he would be open to a hike, not set on one.
+The FOMC breakdown
+So who would join the three July dissenters?
+Warsh is largely expected to be part of the hiking group, considering his remarks in Jackson Hole, Wyoming last month. Governor Lisa Cook said in early August that she's "prepared to act" to take on inflation. Conversely, Philadelphia Fed President Anna Paulson and Chicago's Austan Goolsbee also have counseled a more patient approach.
+That would leave Governors Philip Jefferson, who is the vice chair; Jerome Powell, the former chair, who has kept a decidedly low profile since stepping down from the top spot, and Michelle Bowman, who spoke little on monetary policy over the summer and whose last related remarks were in May, when she also expressed concern about hiking unnecessarily.
+Then there's a larger wildcard: Should Warsh press the case for a hike, would those on the fence simply cross over to his side in the interest of presenting a united front?
+The vote margin not only will reveal the extent of the intellectual divide on the committee between those who think inflation is temporary and those who believe price pressures are becoming entrenched. It also will provide important signals about how effectively Warsh's leadership is reverberating inside the Fed.
+"It should be noted that, if the Fed does indeed raise rates this week, it may not look, in retrospect, like a close call," David Kelly, chief global strategist at JPMorgan Asset Management, said in his weekly market note. "If a majority within the committee coalesces around a decision to hike, the other members may well join them to portray a more united front to the public and the President."
+In such a case, Kelly said the final vote could see two, one or no dissents.
+From there, markets will look at the Fed's "dot plot" update. The grid spells out, anonymously, the rate expectations for the full 19 participants at the meeting, though Warsh withheld his dot for the June update.
+Investors will look for how much conviction there will be for two hikes this year, as well as the outlook for 2027. This will also feature the first look at 2029. The Fed almost never hikes or cuts just once but rather moves in cycles, as policymakers view incremental one-off moves as ineffective.
+A 10-8 split in favor of one hike — assuming Warsh's disdain for forward guidance and nonparticipation in the update — would indicate that "some participants might be ambivalent about the first hike and some might want to avoid pushing market expectations any higher," Mericle wrote.
+"But we see a risk of a majority for two hikes if more participants than we expect see a hike this week as a normal response to higher oil prices and AI demand and the start of a series of rate hikes," he added.
+In the case of a close divide on the committee, attention then will turn to Warsh's news conference Wednesday afternoon, and how the chair conveys FOMC sentiment.
+Dudley, the former New York Fed chief, said "the Fed needs to explain how they're thinking about the economy."
+"Now [Warsh has] just got to follow that up with action," Dudley said. "If he does that, I think he's basically fixed the problem that he created in his first two press conferences."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
+    publishedAt: "2026-09-14T19:47:42+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "government-set-to-nationalise-troubled-s-6f2c62de",
+    title: "Government set to nationalise troubled steel firm",
+    titleJa: "Government set to nationalise troubled steel firm",
+    summaryJa: "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
+    bodyOriginal: `Government set to nationalise troubled steel firm
+- Published
+A plan to nationalise the UK's third-largest steelworks is being developed by the government, MPs have been told.
+Business Secretary Jonathan Reynolds told the House of Commons ministers were looking to acquire Speciality Steel UK (SSUK), which has sites in Stocksbridge and Rotherham in South Yorkshire and Wednesbury in the West Midlands.
+The government initially took control of SSUK, previously part of Liberty Steel, last year after it was forced to liquidate by the High Court.
+Reynolds said a bidder had come forward earlier this year, but the government had decided against supporting it, citing "serious concerns" over the proposed financing of the deal and "protections for UK taxpayers".
+Ministers had therefore decided that the government would plan its own formal acquisition of the business, he explained.
+Production at the business, which employs about 1,300 people, was paused several months ago, with staff put on furlough on reduced wages.
+Reynolds told the Commons: "Having concluded that we cannot support the preferred bidder's proposal, we are faced with a choice.
+"We can allow events to take their course through the liquidation process and risk being left with no say in the future of these sites, or we can act.
+"We will therefore engage with the official receiver sale process and develop a proposal for the public acquisition of SSUK.
+"This will preserve strategic control and ensure that all credible future opportunities can be properly considered before irreversible decisions are taken."
+Future decisions and spending commitments relating to the business would be "subject to detailed due diligence and funded from existing government budgets", Reynolds said.
+He added: "Working towards public acquisition will create the necessary time and space to undertake a full assessment of the opportunities available.
+"It will let us consider future industrial use, regeneration opportunities and the role that specialist manufacturing capabilities could play in supporting growth and our national resilience."
+In a message to workers, he said: "I will do all I can to secure a bright future for you, your communities and your families."
+Responding to the announcement, Unite general secretary Sharon Graham said: "This is a critical move.
+"The government is listening to Unite and is acting to protect jobs. Now we need to get on and nationalise the company."
+Get in touch
+Your Voice
+Listen to highlights from South Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
+- Published22 August 2025
+- Published21 May 2025`,
+    bodyJa: `Government set to nationalise troubled steel firm
+- Published
+A plan to nationalise the UK's third-largest steelworks is being developed by the government, MPs have been told.
+Business Secretary Jonathan Reynolds told the House of Commons ministers were looking to acquire Speciality Steel UK (SSUK), which has sites in Stocksbridge and Rotherham in South Yorkshire and Wednesbury in the West Midlands.
+The government initially took control of SSUK, previously part of Liberty Steel, last year after it was forced to liquidate by the High Court.
+Reynolds said a bidder had come forward earlier this year, but the government had decided against supporting it, citing "serious concerns" over the proposed financing of the deal and "protections for UK taxpayers".
+Ministers had therefore decided that the government would plan its own formal acquisition of the business, he explained.
+Production at the business, which employs about 1,300 people, was paused several months ago, with staff put on furlough on reduced wages.
+Reynolds told the Commons: "Having concluded that we cannot support the preferred bidder's proposal, we are faced with a choice.
+"We can allow events to take their course through the liquidation process and risk being left with no say in the future of these sites, or we can act.
+"We will therefore engage with the official receiver sale process and develop a proposal for the public acquisition of SSUK.
+"This will preserve strategic control and ensure that all credible future opportunities can be properly considered before irreversible decisions are taken."
+Future decisions and spending commitments relating to the business would be "subject to detailed due diligence and funded from existing government budgets", Reynolds said.
+He added: "Working towards public acquisition will create the necessary time and space to undertake a full assessment of the opportunities available.
+"It will let us consider future industrial use, regeneration opportunities and the role that specialist manufacturing capabilities could play in supporting growth and our national resilience."
+In a message to workers, he said: "I will do all I can to secure a bright future for you, your communities and your families."
+Responding to the announcement, Unite general secretary Sharon Graham said: "This is a critical move.
+"The government is listening to Unite and is acting to protect jobs. Now we need to get on and nationalise the company."
+Get in touch
+Your Voice
+Listen to highlights from South Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
+- Published22 August 2025
+- Published21 May 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-14T19:06:46+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/2ff2a330-b057-11f1-9902-771b6dd8af6a.jpg",
+    readTime: 7,
+  },
+  {
+    id: "apple-releases-test-of-redesigned-siri-a-9e8c7f81",
+    title: "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
+    titleJa: "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
+    summaryJa: "Following Apple's iPhone launch event last week, the company is releasing a redesigned Siri AI, though users may have to sign up for a waitlist.",
+    bodyOriginal: `Apple on Monday released a new version of the iPhone software called iOS 27, which includes the company's redesigned Siri AI personal assistant, before the latest iPhones hit store shelves this week.
+The new Siri AI is in beta, Apple said, and users have to opt in through the settings app, though they may have to add their names to the waitlist before getting access.
+Apple is positioning the forthcoming iPhone 18 models as ideal for artificial intelligence because of their speedy chips and the personal data such as calendars and texts that are stored on them.
+"It's personal intelligence that's actually personal," Apple CEO John Ternus said at the company's iPhone launch event last week, his first since succeeding Tim Cook at the helm on Sept. 1. The "iPhone sits at the center of an amazing ecosystem of intelligent features and experiences that work seamlessly across the products you use every day," he said.
+Apple first revealed the Siri AI assistant in June. A version of the company's AI-powered Siri announced in 2024 was delayed last year.
+Compared to frontier AI from companies such as OpenAI, Anthropic, and Google, Apple uses smaller models it develops that can often run on the chips in its phones and laptops. However, for more complicated Siri AI queries, Apple has what's called Private Cloud Compute that uses Google Cloud infrastructure with Nvidia and Intel chips. Apple is also using Google's Gemini to build its own models.
+Apple said that some of its Siri AI and Apple Intelligence features that utilize its cloud servers will be subject to daily usage limits, and that expanded limits will "be available for a fee in the future."
+"Daily limits may vary by feature, request complexity, system demand, system policies, and other factors," Apple said in a release.
+Apple's new Siri uses large language models to search through a user's local personal data, including texts, emails, and calendar appointments. For example, it can search through the user's messages to find addresses, recipes, and instructions. It can also answer general questions and search the web.
+Siri AI can also be accessed through a new Siri app which saves previous queries. Compared to Apple's older versions of Siri, users can reply to the assistant's replies, making the software feel more conversational.
+Siri AI is available in English and will get support for French, Japanese, Korean, Portuguese, and Spanish next month. Apple said it won't be initially available in the EU or China because of regulatory reasons.
+WATCH: Apple will sell as many iPhone Duos as it can make in first six months`,
+    bodyJa: `Apple on Monday released a new version of the iPhone software called iOS 27, which includes the company's redesigned Siri AI personal assistant, before the latest iPhones hit store shelves this week.
+The new Siri AI is in beta, Apple said, and users have to opt in through the settings app, though they may have to add their names to the waitlist before getting access.
+Apple is positioning the forthcoming iPhone 18 models as ideal for artificial intelligence because of their speedy chips and the personal data such as calendars and texts that are stored on them.
+"It's personal intelligence that's actually personal," Apple CEO John Ternus said at the company's iPhone launch event last week, his first since succeeding Tim Cook at the helm on Sept. 1. The "iPhone sits at the center of an amazing ecosystem of intelligent features and experiences that work seamlessly across the products you use every day," he said.
+Apple first revealed the Siri AI assistant in June. A version of the company's AI-powered Siri announced in 2024 was delayed last year.
+Compared to frontier AI from companies such as OpenAI, Anthropic, and Google, Apple uses smaller models it develops that can often run on the chips in its phones and laptops. However, for more complicated Siri AI queries, Apple has what's called Private Cloud Compute that uses Google Cloud infrastructure with Nvidia and Intel chips. Apple is also using Google's Gemini to build its own models.
+Apple said that some of its Siri AI and Apple Intelligence features that utilize its cloud servers will be subject to daily usage limits, and that expanded limits will "be available for a fee in the future."
+"Daily limits may vary by feature, request complexity, system demand, system policies, and other factors," Apple said in a release.
+Apple's new Siri uses large language models to search through a user's local personal data, including texts, emails, and calendar appointments. For example, it can search through the user's messages to find addresses, recipes, and instructions. It can also answer general questions and search the web.
+Siri AI can also be accessed through a new Siri app which saves previous queries. Compared to Apple's older versions of Siri, users can reply to the assistant's replies, making the software feel more conversational.
+Siri AI is available in English and will get support for French, Japanese, Korean, Portuguese, and Spanish next month. Apple said it won't be initially available in the EU or China because of regulatory reasons.
+WATCH: Apple will sell as many iPhone Duos as it can make in first six months`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
+    publishedAt: "2026-09-14T19:05:40+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "openai-boss-sam-altman-spells-out-how-an-91175b17",
     title: "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
     titleJa: "OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'",
@@ -1734,446 +2158,6 @@ BRICS was established in 2009 as a counterweight to Western dominance and origin
     publishedAt: "2026-09-13T09:41:53+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "dramatic-insider-warnings-over-ai-fall-f-6fe0b9f0",
-    title: "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    titleJa: "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-    summaryJa: "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.",
-    bodyOriginal: `Dramatic insider warnings over AI fall flat with some in Silicon Valley
-- Published
-Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.
-This past week, between talk of growth and potential returns, tech titans found themselves addressing the abrupt resignation of Anthropic researcher Jacob Coxon.
-Coxon, a 27-year-old who worked at OpenAI before joining its chief rival Anthropic, said on Tuesday that people building artificial intelligence (AI) believed the technology could destroy humanity.
-They are "gambling with our lives", he said, "these will soon be superhuman systems that can hack anything".
-Coxon is by no means the first AI insider to publicly sound the alarm. There have been a string of high-profile resignations from both Anthropic and OpenAI in recent years over apparent safety concerns, and some current Anthropic employees even echoed Coxon's post.
-"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," a team lead at Anthropic, Evan Hubinger, posted on X.
-While Coxon said explicitly in his posts that his warnings were "not marketing", some executives and investors in Silicon Valley have reacted with scepticism to a recent flurry of insiders sounding the alarm.
-Anthropic and OpenAI are reportedly preparing for potentially record-setting initial public offerings, and some in the tech sector have suggested the latest stark comments about the dangers of AI may be designed to generate hype by signalling the power of these products.
-Anthropic's boss, Dario Amodei, has come under fire for saying AI technology could wipe out half of entry-level white-collar jobs and will "test who we are as a species".
-One conference speaker, Grindr CEO George Arison, told the BBC he believed this week's comments from Coxon and others were indicative of an "anti-civilisational worldview at Anthropic".
-He called them "dangerous" and said they had prompted him to instruct some engineers at the LGBTQ+ dating app to stop using Anthropic's technology.
-"It is irresponsible for us as stewards of our shareholders' money to be relying on a business that does what this company does, in terms of its public statements," he said.
-"Maybe they actually believe it," Arison said. "Or you could argue they're saying it because it's a great way to gin up more investor support, because the only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work.'"
-Anthropic was valued at $965bn (£713bn) in its most recent fundraising round earlier this year.
-The BBC has asked Anthropic for a response to the statements.
-In an essay posted early on Saturday, Amodei called for a slowing of AI model development and global regulation - and said the risks associated with AI were "serious".
-Anthropic boss Dario Amodei calls for AI development to slow down
-- Published14 hours ago
-Why some experts increasingly fear AI will take over
-- Published3 days ago
-Nvidia boss Jensen Huang also discussed Coxon's comments before a crowd at the conference, multiple people in the group told the BBC. They said he dismissed them as untrue.
-Huang has previously said the notion that AI "is going to be the end of humanity" is "complete nonsense".
-And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
-Some critics have even accused Anthropic of fearmongering in hopes that it will trigger a regulatory push that could shut out competition and leave it and OpenAI with a duopoly in the sector.
-Brad Gerstner, who is the head of the investment firm Altimeter Capital, posted pictures of Huang from the conference and accused Coxon of "ridiculous hyperbole".
-On Friday, the CEO of the AI platform Hugging Face, Clement Delangue, weighed in. Hugging Face, which Nvidia announced it would acquire last week, was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
-"Sorry, but asking Jacob about AI extinction risk is like asking your AC guy about climate change," he wrote on X. "Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
-Both Gerstner and Delangue were more circumspect on Saturday after Amodei's proposal was posted, with Gerstner calling the idea "an important step forward" in balancing competing considerations like speed and safety.
-Delangue offered to help be a part of the potential solutions proposed by Amodei.
-Could insider warnings prompt a crackdown?
-In April, Anthropic roiled the AI world when it said it found that its Mythos tool could outperform humans at some hacking and cybersecurity tasks.
-Mythos also showed the ability to independently escape what is known as the sandbox environment, setting off a debate among regulators, legislators and businesses about AI's potential dangers.
-In a new development on Thursday, Anthropic said it had found and stopped threat actors who were trying to use its AI technology for activity including the development of bioweapons and cyber-espionage.
-Beneath the sparkling chandeliers hanging in the stained-glass dome atrium of The Palace Hotel, some investors told the BBC that the comments from Coxon and others could accelerate a government crackdown.
-Federal legislation co-sponsored this month by left-wing Senator Bernie Sanders of Vermont, known as the Ban Artificial Superintelligence Act, would impose a temporary pause in advanced AI development.
-"There is a good chance that human beings will lose control over AI," Sanders told the BBC's Newsnight programme on Thursday. "And what happens then, nobody knows. But could it be catastrophic? Yes, it could."
-"When scientists tell you there is a chance that it could have a cataclysmic impact on humanity, you've got be a moron not to say, slow it down," he added.
-If an industry-wide government crackdown comes, however, it is likely to be led by legislators and not the Trump administration which largely supports a policy of unfettered AI development. It has framed this as necessary to ensure the US does not cede dominance to China.
-Speaking to reporters this week, President Donald Trump was asked if he had any concerns about AI leading to human extinction. "No, I don't have any," he said. "I have concerns that if we don't win AI, we're going to be put in a very bad position. We are leading China right now."
-But the president's relationship with Anthropic has been turbulent. After the company refused to allow the US military to use its AI models, the White House described it as "a radical left, woke company" and designated it a supply chain risk, a move that a federal judge has ruled was illegal.
-David Sacks, Trump's AI czar in the early days of his administration, has also levelled repeated attacks at Anthropic.
-OpenAI has not endured the same level of scrutiny from the White House. When releasing a new model called Astra last week, OpenAI President Greg Brockman described his firm's relationship with the Trump administration as "a very good partnership".
-The company did not respond to a BBC inquiry seeking comment.
-At the conference in San Francisco this week, the pursuit of fortunes seemed to mostly trump any mounting existential concerns or fears over potential government restrictions on AI.
-OpenAI, which was most recently valued at $852bn, has previously announced plans to allow people to buy shares in its firm by listing on the stock market.
-However, its chief executive Sam Altman said on Friday this would not happen this year, calling it an "ill-advised moment" to do so "given everything happening with safety" in an interview with Fortune magazine.
-He suggested 2027 would be more likely.
-Meanwhile, one investor said he was looking forward to Anthropic's forthcoming S-1, a document a company must file with securities regulators in order to sell shares.
-His main question about the company was simple: is the firm profitable?
-When asked on Thursday if he fears the world may be coming to an end, Sid Sheth - CEO of the chip company d-Matrix which inked a deal with Nvidia at the conference that day - did not mince his words.
-"No," he said.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published2 days ago
-- Published17 April`,
-    bodyJa: `Dramatic insider warnings over AI fall flat with some in Silicon Valley
-- Published
-Each September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by the investment bank Goldman Sachs.
-This past week, between talk of growth and potential returns, tech titans found themselves addressing the abrupt resignation of Anthropic researcher Jacob Coxon.
-Coxon, a 27-year-old who worked at OpenAI before joining its chief rival Anthropic, said on Tuesday that people building artificial intelligence (AI) believed the technology could destroy humanity.
-They are "gambling with our lives", he said, "these will soon be superhuman systems that can hack anything".
-Coxon is by no means the first AI insider to publicly sound the alarm. There have been a string of high-profile resignations from both Anthropic and OpenAI in recent years over apparent safety concerns, and some current Anthropic employees even echoed Coxon's post.
-"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," a team lead at Anthropic, Evan Hubinger, posted on X.
-While Coxon said explicitly in his posts that his warnings were "not marketing", some executives and investors in Silicon Valley have reacted with scepticism to a recent flurry of insiders sounding the alarm.
-Anthropic and OpenAI are reportedly preparing for potentially record-setting initial public offerings, and some in the tech sector have suggested the latest stark comments about the dangers of AI may be designed to generate hype by signalling the power of these products.
-Anthropic's boss, Dario Amodei, has come under fire for saying AI technology could wipe out half of entry-level white-collar jobs and will "test who we are as a species".
-One conference speaker, Grindr CEO George Arison, told the BBC he believed this week's comments from Coxon and others were indicative of an "anti-civilisational worldview at Anthropic".
-He called them "dangerous" and said they had prompted him to instruct some engineers at the LGBTQ+ dating app to stop using Anthropic's technology.
-"It is irresponsible for us as stewards of our shareholders' money to be relying on a business that does what this company does, in terms of its public statements," he said.
-"Maybe they actually believe it," Arison said. "Or you could argue they're saying it because it's a great way to gin up more investor support, because the only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work.'"
-Anthropic was valued at $965bn (£713bn) in its most recent fundraising round earlier this year.
-The BBC has asked Anthropic for a response to the statements.
-In an essay posted early on Saturday, Amodei called for a slowing of AI model development and global regulation - and said the risks associated with AI were "serious".
-Anthropic boss Dario Amodei calls for AI development to slow down
-- Published14 hours ago
-Why some experts increasingly fear AI will take over
-- Published3 days ago
-Nvidia boss Jensen Huang also discussed Coxon's comments before a crowd at the conference, multiple people in the group told the BBC. They said he dismissed them as untrue.
-Huang has previously said the notion that AI "is going to be the end of humanity" is "complete nonsense".
-And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
-Some critics have even accused Anthropic of fearmongering in hopes that it will trigger a regulatory push that could shut out competition and leave it and OpenAI with a duopoly in the sector.
-Brad Gerstner, who is the head of the investment firm Altimeter Capital, posted pictures of Huang from the conference and accused Coxon of "ridiculous hyperbole".
-On Friday, the CEO of the AI platform Hugging Face, Clement Delangue, weighed in. Hugging Face, which Nvidia announced it would acquire last week, was hacked by OpenAI agents earlier this year prompting an outcry over AI safety.
-"Sorry, but asking Jacob about AI extinction risk is like asking your AC guy about climate change," he wrote on X. "Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
-Both Gerstner and Delangue were more circumspect on Saturday after Amodei's proposal was posted, with Gerstner calling the idea "an important step forward" in balancing competing considerations like speed and safety.
-Delangue offered to help be a part of the potential solutions proposed by Amodei.
-Could insider warnings prompt a crackdown?
-In April, Anthropic roiled the AI world when it said it found that its Mythos tool could outperform humans at some hacking and cybersecurity tasks.
-Mythos also showed the ability to independently escape what is known as the sandbox environment, setting off a debate among regulators, legislators and businesses about AI's potential dangers.
-In a new development on Thursday, Anthropic said it had found and stopped threat actors who were trying to use its AI technology for activity including the development of bioweapons and cyber-espionage.
-Beneath the sparkling chandeliers hanging in the stained-glass dome atrium of The Palace Hotel, some investors told the BBC that the comments from Coxon and others could accelerate a government crackdown.
-Federal legislation co-sponsored this month by left-wing Senator Bernie Sanders of Vermont, known as the Ban Artificial Superintelligence Act, would impose a temporary pause in advanced AI development.
-"There is a good chance that human beings will lose control over AI," Sanders told the BBC's Newsnight programme on Thursday. "And what happens then, nobody knows. But could it be catastrophic? Yes, it could."
-"When scientists tell you there is a chance that it could have a cataclysmic impact on humanity, you've got be a moron not to say, slow it down," he added.
-If an industry-wide government crackdown comes, however, it is likely to be led by legislators and not the Trump administration which largely supports a policy of unfettered AI development. It has framed this as necessary to ensure the US does not cede dominance to China.
-Speaking to reporters this week, President Donald Trump was asked if he had any concerns about AI leading to human extinction. "No, I don't have any," he said. "I have concerns that if we don't win AI, we're going to be put in a very bad position. We are leading China right now."
-But the president's relationship with Anthropic has been turbulent. After the company refused to allow the US military to use its AI models, the White House described it as "a radical left, woke company" and designated it a supply chain risk, a move that a federal judge has ruled was illegal.
-David Sacks, Trump's AI czar in the early days of his administration, has also levelled repeated attacks at Anthropic.
-OpenAI has not endured the same level of scrutiny from the White House. When releasing a new model called Astra last week, OpenAI President Greg Brockman described his firm's relationship with the Trump administration as "a very good partnership".
-The company did not respond to a BBC inquiry seeking comment.
-At the conference in San Francisco this week, the pursuit of fortunes seemed to mostly trump any mounting existential concerns or fears over potential government restrictions on AI.
-OpenAI, which was most recently valued at $852bn, has previously announced plans to allow people to buy shares in its firm by listing on the stock market.
-However, its chief executive Sam Altman said on Friday this would not happen this year, calling it an "ill-advised moment" to do so "given everything happening with safety" in an interview with Fortune magazine.
-He suggested 2027 would be more likely.
-Meanwhile, one investor said he was looking forward to Anthropic's forthcoming S-1, a document a company must file with securities regulators in order to sell shares.
-His main question about the company was simple: is the firm profitable?
-When asked on Thursday if he fears the world may be coming to an end, Sid Sheth - CEO of the chip company d-Matrix which inked a deal with Nvidia at the conference that day - did not mince his words.
-"No," he said.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published2 days ago
-- Published17 April`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T09:05:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/203a/live/5d11e480-ae26-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "they-lost-their-jobs-after-posting-about-5f1f7b15",
-    title: "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `They lost their jobs after posting about Charlie Kirk, but some have no regrets
-- Published
-In September 2025, Gerald Bourguet felt he was finally living his dream life: he and his wife had bought a house with a pool, they had just welcomed a baby boy, and he was writing about professional men's basketball as his full-time job.
-But all of that changed after he made a series of online posts critical of the late conservative activist Charlie Kirk hours after he was fatally shot on 10 September, while speaking on the campus of Utah Valley University.
-In the posts, Bourguet described Kirk as an "evil man" and suggested he had dedicated his life to hateful causes. He also criticised Kirk's supporters saying they had not been vocal about school shootings.
-"I had seen the way that people were talking about this person - kind of eulogising him and lionising him and it bothered me based on a lot of the things that he had said," Bourguet told the BBC.
-Kirk, who founded Christian youth organisation Turning Point USA, was a divisive figure in US politics. For many on the political right, he was charismatic and had a unique skill in making conservative ideas appeal to young people. But for his opponents, his comments on a large swathe of issues from race to immigration, gun control and gender identity were deeply offensive.
-Screenshots of Bourguet's critical posts went viral quickly. He was fired from his job, his address was exposed online, and he began receiving threatening text messages, he said. Concerned for their safety, the family fled the state with their four-month-old. They returned months later to sell the house and permanently relocated.
-A year later, he says he doesn't regret what he said, but acknowledged: "My life will never be the same after this".
-"At age 35, I am having to start over in a lot of respects… I wouldn't wish this on my worst enemy," Bourguet said from his new location, which the BBC agreed not to disclose.
-PHNX Sports, Bourguet's former employer, did not respond to the BBC's request for comment.
-Bourguet was one of hundreds fired or disciplined over critical comments of Kirk after his death. While some of those who have lost their jobs have been reinstated or received restitution - sometimes in the millions - others like Bourguet have had to rebuild from scratch.
-'Call their employer'
-In the aftermath of Kirk's assassination, most people kept their feelings to themselves, or shared them with close friends.
-But on polarised social media, people rushed to laude, or denounce, the controversial activist. Some called the criticisms, posted hours after his death, tasteless. But others called for swift action, arguing they were callous, mocking, and could even incite further violence.
-Laura Loomer, an influential right-wing commentator with nearly 2 million followers on X, warned Kirk's critics to "prepare to have your whole future professional aspirations ruined".
-The push for punishment also came from the highest levels of US government.
-"When you see someone celebrating Charlie's murder, call them out," Vice-President JD Vance said days after the assassination. "And hell, call their employer," he added.
-White House spokesperson Davis Ingle told the BBC: "Anyone who engages in or endorses political violence or assassination culture must be condemned in the harshest terms possible."
-Critics on the left said there was a difference between criticism of Kirk and celebrating his death. Some accused these conservative leaders of hypocrisy, as many had previously bemoaned the rise of "cancel culture" – where people who voice controversial opinions face severe consequences at work and socially.
-"Cancel culture can be good, it's bad when it's applied in the wrong ways," Jordan Pace, a Republican member of the South Carolina House of Representatives, told the BBC. "If you are someone who celebrates political assassinations and the murder of an innocent man with two young children in a way that many people did, then yeah, that's an appropriate way for society to function, to shame those people."
-Pace had previously called for defunding universities in his state if they didn't take actions against employees who made comments about Kirk. One of his posts was re-shared by US President Donald Trump.
-Across the nation, some employers – private and public – acted swiftly to the pressure campaign. Reliable figures on the number of people fired or disciplined are hard to come by, but a Reuters tally last November found more than 600 instances. It is likely an under-count because not all cases received national or local press attention.
-The specific actions that led to these disciplinary decisions run the gamut. In Tennessee, anthropology professor Tamar Shirinian was suspended and later fired for a Facebook comment saying "the world is better off" without Kirk.
-A Delta Air Lines flight attendant was fired after posting "good riddance" in response to Kirk's killing. Office Depot supply store fired an employee for refusing to serve a customer who had wanted to print flyers for a Kirk vigil. Delta Air Lines declined to comment. Office Depot did not respond to a request for comment.
-Others were disciplined even if they did not make any direct comments about Kirk or his death. Darren Michael, a theatre professor in Tennessee, was fired after he posted a screenshot of a news article from 2023, that covered Kirk's controversial speech on gun control. In the article, Kirk is quoted saying protecting citizens' rights to own guns was worth it even if it led to some gun deaths every year.
-Florida's Fish and Wildlife Conservation Commission fired biologist Brittney Brown after she reposted a meme that also satirised Kirk's position on gun violence in light of his own shooting.
-"I was absolutely gutted," Brown said about her firing to the BBC. "It was like the entire world just completely flipped on its head in a moment."
-Lawsuits have yielded big pay outs for those fired
-In the year since Kirk's killing, dozens of lawsuits have been filed across the country by people fired for their comments about the activist, arguing their terminations violated their rights to free speech. The suits have led to substantial pay outs in some cases.
-Brown agreed to a $485,000 (£355,000) financial settlement – about 12 times Brown's annual salary.
-Darren Michael was reinstated by the Austin Peay State University and in January, the school agreed to pay him $500,000 to settle legal claims. The school did not respond to a request for comment.
-In the largest settlement reviewed by the BBC, the University of Tennessee agreed to pay $1.9m to resolve a lawsuit brought by anthropologist Tamar Shirinian, over her "better off" comment. As part of the settlement, she will not be reinstated and has agreed not to reapply for future positions at the school.
-Recently, an arbitrator ordered The Washington Post to rehire, with back pay, opinion journalist Karen Attiah, who was fired for her online posts that said in part she was not going to engage in "performative mourning for a white man that espoused violence".
-Several other lawsuits remain pending, the BBC found.
-Most of the legal actions have been pursued by employees of government institutions, or unionised workers, who have some free-speech protections.
-But in the US, most private sector employees work under "at-will" contracts, which means they can be can be fired without reason.
-Even those who have scored some victories don't see it as a win.
-"All I wanted was my job back," biologist Brown said. "How much taxpayer money did they waste on this when I barely made $40,000 a year? So no, it does not feel like justice."
-Shirinian told the BBC she too had wanted to return to her job but felt a legal case could be a lengthy affair.
-"I took a settlement because this allows me to move on with my life," she told the BBC. "The one small regret that I have is that I will not see my day in court and justice will not be served in that way. But I think that the number of the settlement actually speaks to that anyway."
-The University of Tennessee and Florida's Fish and Wildlife Conservation Commission did not respond to the BBC's request for comment.
-'I don't regret what I said'
-As an at-will employee at a private company, Bourguet is unlikely to prevail in a lawsuit challenging his dismissal. A year on, he said he has struggled to find work. The new state he lives in has a professional basketball team, but he believes the ordeal has made him unemployable in the small world of sports writers. Instead, he's started his own podcast, although he doubts he can earn enough through it to pay the bills.
-"I have accepted that that life is over and that I need to start a new one." Leaving the country is now on the table, he said.
-Despite the huge personal and professional costs, those who spoke to the BBC said after months of reflection, they did not regret their actions.
-"I have a right to say what I want to say," Brown said. "They are the ones who should have the regrets, not me," she said referring to her former employer.
-Shirinian apologised to the university days after her suspension. She told the BBC her comment was "an emotional outburst" that was not intended to be public and that she regretted the tone used.
-"I don't regret the sentiment, however" she said, adding "the sentiment was that I am not sad. And I refuse to be made to feel like I have to be sad that someone who was so hateful was killed".
-Bourguet also said he does not regret his comments although he has conflicting thoughts about its consequences.
-"I don't regret that line of thinking because I think it's important to push back on things that are steeped in hatred," he said, referring to Kirk's political message.
-"I don't regret what I said. I don't regret the way that I said it. I do regret the ripple effects that came from it and the way that they impacted me, my career, my family, and my son."
-Related topics
-- Published13 September 2025`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T00:49:08+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1233/live/5647ef90-aeb3-11f1-ae38-d350b022f499.png",
-    readTime: 2,
-  },
-  {
-    id: "why-openai-s-sam-altman-says-an-ipo-isn-32393b84",
-    title: "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Concerns about AI safety have ramped up, and OpenAI’s CEO says now would be an ‘ill-advised’ time for the ChatGPT creator to go public`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
-    publishedAt: "2026-09-12T21:50:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-59292817",
-    readTime: 2,
-  },
-  {
-    id: "trump-s-comments-on-a-united-ireland-may-a0bd5c46",
-    title: "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Trump's comments on a united Ireland may have targeted audience across the Atlantic
-- Published
-When another world leader meets US President Donald Trump the only certainty about what might happen is the uncertainty about what might happen.
-This was exactly the case ahead of President Trump's two-day visit to Ireland.
-Nobody could have predicted that by the end of the first day, the main global headline would be his desire to see a unified Ireland.
-As the shockwaves of his remarks rippled through this island and Great Britain, it was unclear whether this represented a new US administration policy, or an off-the-cuff remark from a president who likes to take questions from reporters, and likes to give answers.
-Former Republican Congressman Mick Mulvaney was Trump's special envoy to Northern Ireland in his first term in office.
-He cautioned against anyone reading too much into the president's remarks.
-"This does not represent a shift in US foreign policy," he said.
-"We're still very much committed to the Good Friday Agreement."
-Democratic Congressman Brendan Boyle agreed.
-"There is bipartisan support for that deal, and that is not going to change."
-Although both agreed that Donald Trump was probably right to say that "eventually" unification would happen, that did not mean the US was about to start pushing for it.
-Giving an answer to a question that is asked at a free-flowing press conference is one thing, but Donald Trump repeated his sentiments a short time later when he was delivering a speech to an invited audience at the US Ambassador's residence.
-In fact it was almost the first thing he mentioned, hinting that maybe he realised he had kicked over a can of worms at his earlier appearance.
-The rest of that speech was curious. It was billed as a 20-minute address to Irish and Irish American business leaders, but was about twice that and strayed largely into domestic US matters.
-President Trump has a speaking style that he describes himself as "the weave".
-He can bounce from topic to topic during any speaking engagement, veering off the script and then returning to the matter at hand.
-Today he lauded his own achievements, as he sees them, such as clamping down on illegal immigration, doing deals and boosting defence production.
-He repeated his criticisms once again of what he views as the UK's lack of support for his military operation in Iran.
-Midterm elections fast approaching
-But who was his target audience? The gathered business leaders in Dublin or a US audience tuning in before it was even dawn in much of that country?
-This November's crunch midterm elections are fast approaching and the Republican party is under intense pressure because of the president's policies.
-They may lose control of one or both houses of Congress.
-About one tenth of the US population claim Irish heritage but they are not a homogeneous voting bloc.
-Was he trying to target Irish-American independent or swing voters in the US, of which there are many who have flip-flopped between the Republican and Democratic party in recent years?
-Some of them do support a unified Ireland and so in this time of chasing every vote, perhaps that played a part.
-Bill Clinton secured a lot of Irish-American support when he was running for president, by promising to get engaged in the peace process.
-They voted for him and he followed through on his promise and much of that work led to the foundations of the Good Friday Agreement.
-But, Irish America is a different place now. Indeed, America is a different place now as politics have become more polarised.
-The November election campaigns show no indication that will change anytime soon.
-But political leaders in Ireland will be hoping the only debate tomorrow is about the play on the golf course.
-- Published14 hours ago
-- Published2 days ago
-- Published2 days ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T21:25:28+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
-    readTime: 2,
-  },
-  {
-    id: "iceland-to-open-first-store-in-the-falkl-7fce7665",
-    title: "Iceland to open first store in the Falklands",
-    titleJa: "Iceland to open first store in the Falklands",
-    summaryJa: "Boss Lord Richard Walker says it would be the the first UK high street brand to operate there.",
-    bodyOriginal: `Iceland to open first store in the Falklands
-- Published
-Supermarket Iceland is opening its first branch in the Falkland Islands, according to boss Lord Richard Walker.
-He said the store would be opening in December, adding on LinkedIn it would be the the first UK high street brand to open there.
-The shop will be in the capital Stanley where it will serve a population of about 3,500.
-Lord Walker said the Welsh business, based in Deeside, in Flintshire, was growing internationally and he wanted to expand it further.
-"We actually wholesale or franchise to over 75 different countries," he said.
-"And we've had our eye on the Falkland Islands for quite a long time. We think it's a very underserved market, with a lack of competition, and, of course, being that our product is predominantly frozen, it transports and exports very well."
-The said the timing was coincidental "given the geopolitics", Lord Walker told BBC Radio Wales Breakfast.
-Argentine president Javier Milei recently claimed the islands - referred to as Las Malvinas by Argentina - were "historically and legally" Argentinian.
-The Stanley store would be in partnership with Kelper Stores, part of the Fortuna group.
-Lord Walker said he would be visting the island to cut the ribbon and open the supermarket.
-"We estimate that prices will be almost 30% lower than other competitors on the island," he said.
-"And I think that's really going to bring some much needed value to the market."
-Related topics
-More top stories
-- Published1 day ago
-- Published1 day ago
-- Published1 day ago`,
-    bodyJa: `Iceland to open first store in the Falklands
-- Published
-Supermarket Iceland is opening its first branch in the Falkland Islands, according to boss Lord Richard Walker.
-He said the store would be opening in December, adding on LinkedIn it would be the the first UK high street brand to open there.
-The shop will be in the capital Stanley where it will serve a population of about 3,500.
-Lord Walker said the Welsh business, based in Deeside, in Flintshire, was growing internationally and he wanted to expand it further.
-"We actually wholesale or franchise to over 75 different countries," he said.
-"And we've had our eye on the Falkland Islands for quite a long time. We think it's a very underserved market, with a lack of competition, and, of course, being that our product is predominantly frozen, it transports and exports very well."
-The said the timing was coincidental "given the geopolitics", Lord Walker told BBC Radio Wales Breakfast.
-Argentine president Javier Milei recently claimed the islands - referred to as Las Malvinas by Argentina - were "historically and legally" Argentinian.
-The Stanley store would be in partnership with Kelper Stores, part of the Fortuna group.
-Lord Walker said he would be visting the island to cut the ribbon and open the supermarket.
-"We estimate that prices will be almost 30% lower than other competitors on the island," he said.
-"And I think that's really going to bring some much needed value to the market."
-Related topics
-More top stories
-- Published1 day ago
-- Published1 day ago
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cd94kze0y9qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T20:50:54+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a540/live/86a6fe20-aee9-11f1-a99d-4515748c32d0.jpg",
-    readTime: 4,
-  },
-  {
-    id: "anthropic-s-amodei-shares-plan-to-slow-t-6b559a04",
-    title: "Anthropic’s Amodei shares plan to ‘slow the pace’ of growing AI capabilities; Musk and Altman express support",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Anthropic CEO Dario Amodei published an essay on Saturday urging artificial intelligence companies to pace how quickly they improve model capabilities, a move that comes as a growing chorus of researchers have called for a coordinated deceleration.
-The proposal for a voluntary slowdown brought together three figureheads of the AI industry in agreement, with SpaceX CEO Elon Musk and OpenAI chief Sam Altman throwing their support behind Amodei.
-Amodei proposed a three-step plan that he said will help temper the pace of development without "sacrificing commercial advantage or the United States' lead in AI," though he conceded that some steps may be easier to achieve than others. Anthropic is actively gearing up for what is widely expected to be a historic IPO, though the company has not officially disclosed when it plans to debut.
-Anthropic has "unilaterally" committed to the first step of the plan, Amodei said, which grants third-party evaluators employee-level access to the company to verify safety practices and report incidents. The second step encourages leading AI companies within democratic countries to coordinate and establish common safety standards, and the third calls for coordination between democratic governments and authoritarian governments.
-"To be clear, pacing does not mean halting model training or technical progress, but ensuring companies take adequate time to align and safeguard their models, and for third party evaluators to confirm this," Amodei wrote.
-Concerns around AI's capabilities
-Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company. Jacob Coxon, who has also worked as a researcher at Anthropic's chief rival, OpenAI, said he resigned out of concern that Anthropic and OpenAI are "gambling with our lives." He said the people building AI "earnestly believe that it could kill us all by the end of the decade."
-While extreme, concerns about the potential for AI to cause human extinction or other catastrophic events are not new in AI research circles. In 2023, for instance, prominent AI researchers and executives, including Amodei and OpenAI's Altman, signed a statement that said, "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war."
-Amodei said Saturday that while pausing or slowing AI development has been floated since 2023, it made "little sense" to do so at that time. He said models were not powerful enough to take action in the real world at that point, and they were also not yet capable of "significant deception, manipulation, cheating, or cyberattacks."
-"I continue to believe that AI can enormously improve the quality of human life. My desire to achieve these benefits is undimmed," Amodei wrote. "But the benefits will only be achieved if we build the technology in the right way, and — so long as we use the time we gain well — it is worth taking unusually deliberate care to get it right."
-Support for a voluntary slowdown
-Amodei's essay was lauded by many industry researchers and executives on Saturday, including Altman. In a post on X, he said he agreed with Amodei that the industry needs to pace the development of advanced AI capabilities. Altman said the subject has been a "primary topic" of discussion at OpenAI in recent weeks.
-"Committing to having independent evaluators with employee-like access is a great idea, and we will do the same," Altman said. "We'll have more to share soon."
-Earlier this month, OpenAI's chief scientist, Jakub Pachocki, published a blog post earlier this month and warned that no AI company has "solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer." In the AI industry, alignment refers to the work by AI developers to ensure that the system behaves in accordance with human values and intentions.
-Pachocki said he expects and hopes for voluntary slowdowns to become "commonplace until shared safety bars are established."
-Musk also expressed support for a slowdown on Saturday, writing in a post on X that, "Dario is right."
-Musk, whose competing AI startup xAI was acquired by his rocket company SpaceX earlier this year, used to be a vocal critic of Anthropic. He previously said the company "hates Western Civilization," and is "doomed to become the opposite of its name," which would be misanthropic. But since Anthropic announced a major compute deal with SpaceX in May, Musk has largely changed his tune.
-"Everyone I met was highly competent and cared a great deal about doing the right thing," Musk wrote at the time. "No one set off my evil detector."
-Amodei wrote Saturday that he believes AI could still "dramatically raise the quality of human life," but that the risks need to be taken seriously.
-"I believe that if slowing down bought us even an extra year or two before models reach critical levels of capability, and we used that time to advance alignment, we could greatly reduce the risk that something goes seriously wrong," he said.
-WATCH: Anthropic AI researcher says company is ‘gambling with our lives’`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-    publishedAt: "2026-09-12T20:26:33+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "fire-at-nursing-home-in-chile-kills-16-r-225b124e",
-    title: "Fire at nursing home in Chile kills 16 residents",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Fire at nursing home in Chile kills 16 residents
-- Published
-At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.
-Ten others were evacuated after a blaze broke out at El Edén home in /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, around 640km (400 miles) south of the capital Santiago, on Friday evening.
-Jorge Granada, a prosecutor leading the case, said it was not clear at this stage what caused the incident.
-Chile's President José Antonio Kast said he had ordered a review into the condition of nursing homes across the country.
-"We will fully collaborate with the justice system to clarify what happened, determine where failures may have existed in oversight or prevention, identify what alerts were raised and what actions were taken in response to them," Kast said.
-"We need to know the truth and, based on that, correct whatever is necessary to do everything possible to prevent a tragedy like this from happening again," thre president added.
-The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.
-On Saturday, firefighters were still clearing debris and removing collapsed corrugated metal roofing. Police cordoned off the area for safety.
-"It is a situation that fills our souls with great sorrow and pain. We have been... providing support to the families," said local mayor Jacqueline Romero.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T19:36:50+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg",
-    readTime: 2,
-  },
-  {
-    id: "skimpflation-warning-as-tinned-mackerel-1f5ed813",
-    title: "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves
-- Published
-A growing trend of supermarkets selling a cheaper, less nutritious alternative to tinned mackerel is an example of "skimpflation", a consumer group has said.
-Princes - which supplies major supermarkets - has substituted the fish for jack mackerel, an entirely different species also being sold by Lidl.
-The switch has been spurred by dwindling stocks of Atlantic mackerel after years of overfishing, with its Chilean counterpart more sustainable and a third of the cost.
-"It's a real concern when manufacturers quietly downgrade everyday staples like these as shoppers can end up paying the same price for a product that delivers significantly less nutritional quality," Sue Davies, head of food policy at Which?, said.
-Jack mackerel contains about half as much omega-3 and around a third as much vitamin B12 as traditional mackerel.
-The shift has prompted complaints from some consumers over differences in taste and texture, as well as concerns about how clearly the replacement fish is being labelled.
-Princes announced last October, external that it was changing all of its tinned mackerel products to jack mackerel, saying the species meets the Marine Stewardship Council's sustainability standards.
-The firm said its jack mackerel products were "clearly identified" and had been introduced following extensive product and consumer testing, describing it as having a "milder flavour and meatier texture".
-Lidl is selling jack mackerel under its house brand. Lidl GB said it was "committed to sourcing fish and seafood from responsibly managed fisheries".
-Davies from Which? said: "While manufacturers face genuine supply chain pressures and sustainability challenges, they have a responsibility to shoppers to be completely upfront when they change a product's recipe."
-She added: "Skimpflation - quietly changing ingredients to cut costs - has become increasingly common, but it can feel particularly sneaky as shoppers may not realise a product has changed until they get it home and eat it."
-'Mackerel war'
-Despite its name, jack mackerel is not a type of mackerel. Jack mackerel belongs to the Carangidae fish family, while traditional mackerel belongs to the Scombridae family.
-Until December 2025, under UK law, Carangidae species could only be marketed as "jack", "scad", "trevally" or "horse mackerel".
-But shortly after Princes launched its new product as "jack mackerel", the Department for Environment, Food and Rural Affairs changed its rules to permit the labelling.
-Industry figures reposted by seafood market intelligence platform Undercurrent suggest wholesale Chilean jack mackerel costs roughly one-third as much as Atlantic mackerel.
-The switch follows the so-called "mackerel war", a long-running dispute between the UK, Iceland, Greenland, Norway, the Faroe Islands, the EU and Russia over shared mackerel catch quotas.
-The countries have repeatedly failed to agree a unified system for sharing stock and setting catch limits in line with scientific advice.
-Mackerel catches in the north-east Atlantic have exceeded the levels advised by scientists by an average of 39% over the past 15 years, according to the Marine Stewardship Council (MSC).
-Stocks have plummeted by roughly three-quarters over the past decade, according to the International Council for the Exploration of the Sea (Ices).
-The intergovernmental body has advised slashing the quantity of north-east Atlantic mackerel caught in 2026 by roughly 70% to allow the stock a chance to recover.
-Last year, the Marine Conservation Society said the Atlantic mackerel population was at "breaking point".
-The severe depletion of mackerel numbers has led to the fish losing its MSC certification, meaning it no longer complies with many retailers' sustainability policies. Chilean jack mackerel, in contrast, is MSC-certified.
-In February, Waitrose said it would suspend sales of fresh, chilled and frozen mackerel due to overfishing concerns, while tinned products would be phased out as existing stock was sold.
-The Marine Conservation Society heralded the move as "leading and decisive".
-The switch to jack mackerel is being felt beyond the UK, with supermarkets in the Netherlands no longer selling Atlantic mackerel and at least one supermarket in Sweden switching to jack mackerel.
-Related topics
-- Published2 days ago
-- Published17 August`,
-    bodyJa: `サバ缶の代替品がスーパーマーケットの棚に並び、「ケミカルフレーション」への警告
-- 公開されました
-スーパーマーケットがサバ缶に代わる安価で栄養価の低い代替品を販売する傾向が強まっており、「ケミカルフレーション」の一例だと消費者団体は述べた。
-大手スーパーマーケットに商品を供給しているプリンスズ社は、この魚をアジの代わりにしているが、これは同じくリドル​​社が販売している全く別の種類である。
-長年にわたる乱獲の末に大西洋サバの資源が減少していることが、切り替えに拍車をかけているが、チリ産サバはより持続可能で、価格は3分の1である。
-「Which?」の食品政策責任者スー・デイビス氏は、「買い物客が栄養価が大幅に低い商品に同じ値段を払うことになる可能性があるため、メーカーがこのような日用品をひそかに格下げするのは大きな懸念だ」と述べた。
-マアジには、従来のサバに比べて約半分のオメガ 3 と約 3 分の 1 のビタミン B12 が含まれています。
-この変更により、一部の消費者からは味​​や食感の違いに対する苦情のほか、代替魚の表示がどれほど明確であるかについての懸念も生じている。
-プリンスは昨年10月、サバ缶製品をすべてアジサバに変更し、この種が海洋管理評議会の持続可能性基準を満たしていると対外発表した。
-同社は、自社のアジ製品は「明確に識別され」、広範な製品テストと消費者テストを経て導入されたと述べ、「よりマイルドな風味と肉厚な食感」を備えていると説明した。
-Lidlは自社ブランドでアジを販売している。 Lidl GBは「責任を持って管理された漁業から魚介類を調達することに取り組んでいる」と述べた。
-デイヴィス どっちから？ 「メーカーはサプライチェーンの真のプレッシャーと持続可能性の課題に直面しているが、製品のレシピを変更する場合には、買い物客に対して完全に率直に対応する責任がある。」
-さらに、「コスト削減のためにこっそりと原材料を変更するスキムフレーションはますます一般的になっているが、買い物客は家に帰って食べるまで商品が変更されたことに気づかない可能性があるため、特に卑劣に感じることがある」と付け加えた。
-「サバ戦争」
-その名前にもかかわらず、アジはサバの一種ではありません。マアジはアジ科の魚類に属しますが、従来のサバはサバ科に属します。
-2025 年 12 月まで、英国の法律の下では、カラン科の種は「アジ」、「アカ」、「アジ」、または「アジ」としてのみ販売できました。
-しかし、プリンスズが新製品を「アジ」として発売した直後、環境・食糧・農村省は規則を変更し、表示を許可した。
-水産市場インテリジェンスプラットフォーム「アンダーカレント」が転載した業界統計によると、チリ産アジの卸売価格は大西洋サバの約3分の1だという。
-この切り替えは、英国、アイスランド、グリーンランド、ノルウェー、フェロー諸島、EU、ロシアの間でサバの共通漁獲枠を巡る長期にわたる紛争、いわゆる「サバ戦争」に続くものである。
-各国は資源を共有し、科学的助言に沿って漁獲制限を設定するための統一システムに何度も合意できていない。
-海洋管理評議会（MSC）によると、北東大西洋におけるサバの漁獲量は、過去15年間で科学者が推奨する水準を平均39％上回っている。
-国際海洋探査評議会（氷）によると、過去10年間で資源は約4分の3も急落した。
-政府間機関は、資源回復の機会を得るために、2026年に漁獲される北東大西洋サバの量を約70％削減するよう勧告した。
-海洋保護協会は昨年、大西洋サバの個体数が「限界点」に達していると述べた。
-サバの数の深刻な減少により、この魚はMSC認証を失いました。これは、サバが多くの小売業者の持続可能性方針に準拠しなくなったことを意味します。対照的に、チリ産アジはMSC認証を受けています。
-ウェイトローズは2月、乱獲の懸念から生サバ、冷蔵サバ、冷凍サバの販売を一時停止し、缶詰製品は既存の在庫が売れたので段階的に廃止すると発表した。
-海洋保護協会は、この動きを「主導的かつ決定的」であると歓迎した。
-マアジへの切り替えは英国以外でも感じられており、オランダのスーパーではタイセイヨウサバの販売が中止され、スウェーデンの少なくとも１つのスーパーマーケットではアジに切り替えている。
-関連トピック
-- 2 日前に公開
-- 8 月 17 日公開`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T18:31:23+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d0/live/06b5b760-aeb2-11f1-ae38-d350b022f499.jpg",
     readTime: 5,
   },
 ];
