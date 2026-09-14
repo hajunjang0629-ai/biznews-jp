@@ -15,6 +15,478 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "anthropic-walks-tightrope-to-nasdaq-push-355b6809",
+    title: "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+    titleJa: "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+    summaryJa: "As Anthropic meets with prospective investors ahead of its potentially historic market debut, CEO Dario Amodei is pushing for a slowdown in AI.",
+    bodyOriginal: `Anthropic's road to an IPO just got a lot bumpier.
+While the Claude creator meets with prospective investors ahead of its potentially historic debut, co-founder and CEO Dario Amodei is pushing a concept that would seem to contradict those ambitious efforts: a slowdown.
+Anthropic, valued at $965 billion earlier this year, confidentially filed its IPO prospectus in June, and has been widely expected to list its shares as soon as next month. Meanwhile, concerns about the power of advanced AI models has been intensifying for weeks, spilling into the mainstream as more researchers warn of potential threats of human extinction.
+With that backdrop, Amodei wrote an essay over the weekend urging the AI industry to slow the pace of model development, proposing a three-step plan to temper how quickly model capabilities improve without "sacrificing commercial advantage or the United States' lead in AI."
+It's the latest challenge facing public market investors who are trying to determine what they're willing to pay for a piece of a five-year-old company that's already among the most valuable in the world and could seek a $2 trillion valuation in its IPO. Though Anthropic may have to accept a hit to revenue growth, some experts say an intentional slowdown could help Anthropic frame itself as a responsible actor, avoid future liability and address the public backlash towards AI that's been brewing across the country.
+"I don't know that investors are necessarily going to see it as a negative," Gil Luria, an equity analyst at D.A. Davidson, said in an interview. "Unless the companies are genuine and say, 'OK, we're not going to IPO, we're not going to use any more compute, we're not going to train any more models.' That's not what they're saying."
+Anthropic has picked the Nasdaq as the exchange for its potential IPO, CNBC confirmed after Business Insider first reported the selection.
+Amodei on Saturday proposed that model companies open up to third-party evaluators, frontier companies establish "common safety standards," and that democratic countries coordinate with authoritarian governments "to the extent this is possible."
+His essay came after several industry researchers issued stern warnings last week about the technology's growing potential to cause catastrophic harms.
+OpenAI CEO Sam Altman expressed support for Amodei's proposal, as did Elon Musk, CEO of SpaceX, which owns Grok creator xAI. SpaceX went public in June in the biggest IPO on record and is now valued at $2 trillion. OpenAI has confidentially filed its IPO prospectus, but has been under fire in recent months after its models escaped containment, accessed the open internet and breached open-source developer platform Hugging Face.
+"Right now would be an ill-advised moment to go public," Altman said in an interview with Fortune, reiterating that OpenAI won't aim for an IPO until next year. Finance chief Sarah Friar told employees during an all-hands meeting last month that the AI lab "will be a public company in 2027."
+Lise Buyer, partner at IPO advisory firm Class V Group, said she doesn't see the recent "we might obliterate you all" fears having an impact on IPO timing, but it could alter valuations, she said.
+"The bet here is on the long term — now with tempering thoughts about control of the technology," Buyer said in an email. "The dramatic growth and possibilities of these companies, now more publicly coupled with the potential very serious concerns and risks, will likely persist whether the IPO happens in Q4 or next year or whenever."
+Anthropic and OpenAI declined to comment for this story.
+'Don't see why growth would slow'
+Anthropic hit $65 billion in annualized revenue in July, about a sevenfold increase from the prior year, as CNBC previously reported. The Financial Times reported on Sunday, citing people familiar with the matter, that Anthropic has told some shareholders that the company will generate an operating profit for a second straight quarter in the current period.
+Matt Murphy, a partner at Menlo Ventures and an Anthropic investor, called the growth rate "off the charts," and said a public listing would force Anthropic to be transparent about its business, which could help improve dismal public sentiment around the technology.
+"Don't see why growth would slow or any other reason to wait," Murphy told CNBC.
+More than half of Americans say they're more concerned than excited about the growing use of AI in daily life, up from 37% in 2021, according to a recent report from the Pew Research Center. And confidence in AI executives is even worse, according to a CNBC Generation Lab survey of 18- to 34-year-olds. More than 75% of respondents said they don't trust Amodei to act responsibly, while around 70% expressed those views about Altman.
+"One could argue that sooner is better than later for a public offering as the accountability that comes with being a public company might be of a great interest to many," Class V Group's Buyer said.
+Altimeter Capital CEO Brad Gerstner, whose firm is an investor in Anthropic and OpenAI, said in a post on X on Saturday that bringing more "transparency, scrutiny, accountability" and participation to AI companies is "crucial." He said Anthropic will likely forge ahead with its IPO.
+"The market knows how to price risk - see SpaceX," Gerstner wrote. "There is huge appetite to invest in the AI leaders."
+Gerstner's post came a day after he blasted public remarks from industry researchers, calling them "hyperbolic scare tactics" that are "hiding behind a political agenda," in an interview with CNBC.
+There are plenty of skeptics when it comes to Amodei's latest positioning. One argument is that Anthropic benefits from stricter standards because it currently has the most advanced models and makes money from selling services, like Claude Code, that are powered by those models.
+"That could actually favor Anthropic and OpenAI if smaller competitors cannot afford the rigorous safety, evaluation and security investments required for frontier-level models," Arun Chandrasekaran, an analyst at Gartner, told CNBC in an email.
+D.A. Davidson's Luria agrees and said he thinks Anthropic and OpenAI are engaging in "monopolistic behavior." OpenAI has reportedly asked members of Congress for guidance about whether a coordinated, industrywide slowdown would violate antitrust law, according to Wired.
+"I'm highly suspicious of what Anthropic and OpenAI are doing," Luria said. "It feels more and more like a ladder pull."
+What about the rest of tech?
+Tech investors have other reasons to worry about the pace of development at OpenAI and Anthropic, because those companies are responsible for an outsized amount of AI infrastructure spending.
+Anthropic has inked a flurry of multibillion-dollar compute deals this year, including with Nscale, Advanced Micro Devices, SpaceX, and Google. OpenAI told investors in February that it's targeting roughly $600 billion in total compute spend by 2030. Both companies are heavy users of Nvidia's graphics processing units.
+"I would want to understand how the mix shifts between frontier training, post-training and inference as safety controls are integrated," said Lo Toney, managing partner at Plexo Capital, and an Anthropic investor.
+PitchBook analyst Harrison Rolfes is more concerned about reduced growth. He said valuations for model companies likely deserve a discount now, largely because it's hard for investors to trust that they can safely commercialize their technology.
+"Is the first thing that you want to do as a public company go handle a bunch of security issues and vulnerability issues?" Rolfes said. "No, you probably want to focus on expanding into all the markets that you promised all your investors."
+Gene Munster, managing partner at Deepwater Asset Management, told CNBC that any sort of perceived slowdown will be a negative because the market is "underwriting exponential uninterrupted improvements to the models."
+Still, Munster predicted that "nothing will change and the AI leapfrog game will continue."
+"AI's long-term opportunity is too big for them to slow down," Munster said. "I believe the comments were motivated to reduce the regulatory pressure."
+WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark’s Rick Heitzmann`,
+    bodyJa: `Anthropic's road to an IPO just got a lot bumpier.
+While the Claude creator meets with prospective investors ahead of its potentially historic debut, co-founder and CEO Dario Amodei is pushing a concept that would seem to contradict those ambitious efforts: a slowdown.
+Anthropic, valued at $965 billion earlier this year, confidentially filed its IPO prospectus in June, and has been widely expected to list its shares as soon as next month. Meanwhile, concerns about the power of advanced AI models has been intensifying for weeks, spilling into the mainstream as more researchers warn of potential threats of human extinction.
+With that backdrop, Amodei wrote an essay over the weekend urging the AI industry to slow the pace of model development, proposing a three-step plan to temper how quickly model capabilities improve without "sacrificing commercial advantage or the United States' lead in AI."
+It's the latest challenge facing public market investors who are trying to determine what they're willing to pay for a piece of a five-year-old company that's already among the most valuable in the world and could seek a $2 trillion valuation in its IPO. Though Anthropic may have to accept a hit to revenue growth, some experts say an intentional slowdown could help Anthropic frame itself as a responsible actor, avoid future liability and address the public backlash towards AI that's been brewing across the country.
+"I don't know that investors are necessarily going to see it as a negative," Gil Luria, an equity analyst at D.A. Davidson, said in an interview. "Unless the companies are genuine and say, 'OK, we're not going to IPO, we're not going to use any more compute, we're not going to train any more models.' That's not what they're saying."
+Anthropic has picked the Nasdaq as the exchange for its potential IPO, CNBC confirmed after Business Insider first reported the selection.
+Amodei on Saturday proposed that model companies open up to third-party evaluators, frontier companies establish "common safety standards," and that democratic countries coordinate with authoritarian governments "to the extent this is possible."
+His essay came after several industry researchers issued stern warnings last week about the technology's growing potential to cause catastrophic harms.
+OpenAI CEO Sam Altman expressed support for Amodei's proposal, as did Elon Musk, CEO of SpaceX, which owns Grok creator xAI. SpaceX went public in June in the biggest IPO on record and is now valued at $2 trillion. OpenAI has confidentially filed its IPO prospectus, but has been under fire in recent months after its models escaped containment, accessed the open internet and breached open-source developer platform Hugging Face.
+"Right now would be an ill-advised moment to go public," Altman said in an interview with Fortune, reiterating that OpenAI won't aim for an IPO until next year. Finance chief Sarah Friar told employees during an all-hands meeting last month that the AI lab "will be a public company in 2027."
+Lise Buyer, partner at IPO advisory firm Class V Group, said she doesn't see the recent "we might obliterate you all" fears having an impact on IPO timing, but it could alter valuations, she said.
+"The bet here is on the long term — now with tempering thoughts about control of the technology," Buyer said in an email. "The dramatic growth and possibilities of these companies, now more publicly coupled with the potential very serious concerns and risks, will likely persist whether the IPO happens in Q4 or next year or whenever."
+Anthropic and OpenAI declined to comment for this story.
+'Don't see why growth would slow'
+Anthropic hit $65 billion in annualized revenue in July, about a sevenfold increase from the prior year, as CNBC previously reported. The Financial Times reported on Sunday, citing people familiar with the matter, that Anthropic has told some shareholders that the company will generate an operating profit for a second straight quarter in the current period.
+Matt Murphy, a partner at Menlo Ventures and an Anthropic investor, called the growth rate "off the charts," and said a public listing would force Anthropic to be transparent about its business, which could help improve dismal public sentiment around the technology.
+"Don't see why growth would slow or any other reason to wait," Murphy told CNBC.
+More than half of Americans say they're more concerned than excited about the growing use of AI in daily life, up from 37% in 2021, according to a recent report from the Pew Research Center. And confidence in AI executives is even worse, according to a CNBC Generation Lab survey of 18- to 34-year-olds. More than 75% of respondents said they don't trust Amodei to act responsibly, while around 70% expressed those views about Altman.
+"One could argue that sooner is better than later for a public offering as the accountability that comes with being a public company might be of a great interest to many," Class V Group's Buyer said.
+Altimeter Capital CEO Brad Gerstner, whose firm is an investor in Anthropic and OpenAI, said in a post on X on Saturday that bringing more "transparency, scrutiny, accountability" and participation to AI companies is "crucial." He said Anthropic will likely forge ahead with its IPO.
+"The market knows how to price risk - see SpaceX," Gerstner wrote. "There is huge appetite to invest in the AI leaders."
+Gerstner's post came a day after he blasted public remarks from industry researchers, calling them "hyperbolic scare tactics" that are "hiding behind a political agenda," in an interview with CNBC.
+There are plenty of skeptics when it comes to Amodei's latest positioning. One argument is that Anthropic benefits from stricter standards because it currently has the most advanced models and makes money from selling services, like Claude Code, that are powered by those models.
+"That could actually favor Anthropic and OpenAI if smaller competitors cannot afford the rigorous safety, evaluation and security investments required for frontier-level models," Arun Chandrasekaran, an analyst at Gartner, told CNBC in an email.
+D.A. Davidson's Luria agrees and said he thinks Anthropic and OpenAI are engaging in "monopolistic behavior." OpenAI has reportedly asked members of Congress for guidance about whether a coordinated, industrywide slowdown would violate antitrust law, according to Wired.
+"I'm highly suspicious of what Anthropic and OpenAI are doing," Luria said. "It feels more and more like a ladder pull."
+What about the rest of tech?
+Tech investors have other reasons to worry about the pace of development at OpenAI and Anthropic, because those companies are responsible for an outsized amount of AI infrastructure spending.
+Anthropic has inked a flurry of multibillion-dollar compute deals this year, including with Nscale, Advanced Micro Devices, SpaceX, and Google. OpenAI told investors in February that it's targeting roughly $600 billion in total compute spend by 2030. Both companies are heavy users of Nvidia's graphics processing units.
+"I would want to understand how the mix shifts between frontier training, post-training and inference as safety controls are integrated," said Lo Toney, managing partner at Plexo Capital, and an Anthropic investor.
+PitchBook analyst Harrison Rolfes is more concerned about reduced growth. He said valuations for model companies likely deserve a discount now, largely because it's hard for investors to trust that they can safely commercialize their technology.
+"Is the first thing that you want to do as a public company go handle a bunch of security issues and vulnerability issues?" Rolfes said. "No, you probably want to focus on expanding into all the markets that you promised all your investors."
+Gene Munster, managing partner at Deepwater Asset Management, told CNBC that any sort of perceived slowdown will be a negative because the market is "underwriting exponential uninterrupted improvements to the models."
+Still, Munster predicted that "nothing will change and the AI leapfrog game will continue."
+"AI's long-term opportunity is too big for them to slow down," Munster said. "I believe the comments were motivated to reduce the regulatory pressure."
+WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark’s Rick Heitzmann`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+    publishedAt: "2026-09-14T04:01:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "committee-calls-for-bill-to-address-ai-t-90391aae",
+    title: "Committee calls for bill to address AI threat to human rights",
+    titleJa: "Committee calls for bill to address AI threat to human rights",
+    summaryJa: "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+    bodyOriginal: `Committee calls for bill to address AI threat to human rights
+- Published
+A cross-party group of MPs and peers has identified human rights risks posed by artificial intelligence (AI) which existing laws, they argue, are ill-equipped to cover.
+The Joint Committee on Human Rights (JCHR) published a report calling for a new bill on AI to "address the scale and seriousness" of such threats.
+"Nowhere in the world, including the UK, has a current legislative and regulatory approach to AI that is fit for purpose," said Alex Sobel MP, the committee's chair.
+On Saturday, the head of the US AI company Anthropic, Dario Amodei, proposed a plan that includes global regulation, industry-wide regulation and independent monitoring of AI models as they are developed.
+Amodei urged the pace of development to be slowed down and the bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, said they agreed with him.
+One human rights concern raised in recent years is that AI can display biases against particular groups if trained on large datasets scraped from the internet which can include racist, sexist and other undesirable material.
+AI could also be used to create and spread misinformation.
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published1 day ago
+Trump downplays warnings of AI risks, citing rivalry with China
+- Published9 hours ago
+Questions mount over what an AI 'slowdown' would look like
+- Published10 hours ago
+In a summary of its 100-page report, external, the JCHR points out that AI has been responsible for numerous abuses of human rights.
+It cites as examples the use of AI to create sexualised images of women and girls and scanning people's faces without their consent.
+The JCHR advocates the creation of a "single, independent AI oversight body... on a statutory basis".
+It argues that the current legal framework which applies to AI is "fragmented and difficult to navigate", "leaving gaps in protection".
+"The AI Bill should establish a regulatory regime that classifies different risk levels and mandate more demanding obligations for higher risk AI systems and models," it says.
+"Obligations should be placed on all stages of the AI lifecycle, ensuring those responsible in the supply chain for designing, amending and utilising AI systems are aware of their obligations and they are effectively addressed.
+"Some uses of AI should be prohibited outright because they are incompatible with human rights. Potential areas for action include subliminal techniques, and inappropriate use of profiling or biometric data."
+"AI is heralded as an unprecedented era of technological development with the potential to transform our lives for better or for worse," said Sobel.
+"It is moving with such speed and complexity that its impact is hard to accurately predict. What is clear is that at present we are unprepared to deal with its consequences however potentially dire they may be."
+The JCHR's 12 members are drawn from both Houses of Parliament and they currently include MPs and peers from the Labour, Conservative and Liberal Democrat parties.
+BBC News is seeking comment from the government on the call for the AI bill.
+Monday's report comes amid growing general anxiety over the challenges AI poses.
+Jacob Coxon, an AI researcher who quit Anthropic, told the BBC this weekend that staff developing the systems were "genuinely frightened" for the future of humanity.
+An Anthropic spokesperson told BBC News that it was building "models with some of the strongest safeguards in the industry".`,
+    bodyJa: `Committee calls for bill to address AI threat to human rights
+- Published
+A cross-party group of MPs and peers has identified human rights risks posed by artificial intelligence (AI) which existing laws, they argue, are ill-equipped to cover.
+The Joint Committee on Human Rights (JCHR) published a report calling for a new bill on AI to "address the scale and seriousness" of such threats.
+"Nowhere in the world, including the UK, has a current legislative and regulatory approach to AI that is fit for purpose," said Alex Sobel MP, the committee's chair.
+On Saturday, the head of the US AI company Anthropic, Dario Amodei, proposed a plan that includes global regulation, industry-wide regulation and independent monitoring of AI models as they are developed.
+Amodei urged the pace of development to be slowed down and the bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk, said they agreed with him.
+One human rights concern raised in recent years is that AI can display biases against particular groups if trained on large datasets scraped from the internet which can include racist, sexist and other undesirable material.
+AI could also be used to create and spread misinformation.
+Anthropic boss Dario Amodei calls for AI development to slow down
+- Published1 day ago
+Trump downplays warnings of AI risks, citing rivalry with China
+- Published9 hours ago
+Questions mount over what an AI 'slowdown' would look like
+- Published10 hours ago
+In a summary of its 100-page report, external, the JCHR points out that AI has been responsible for numerous abuses of human rights.
+It cites as examples the use of AI to create sexualised images of women and girls and scanning people's faces without their consent.
+The JCHR advocates the creation of a "single, independent AI oversight body... on a statutory basis".
+It argues that the current legal framework which applies to AI is "fragmented and difficult to navigate", "leaving gaps in protection".
+"The AI Bill should establish a regulatory regime that classifies different risk levels and mandate more demanding obligations for higher risk AI systems and models," it says.
+"Obligations should be placed on all stages of the AI lifecycle, ensuring those responsible in the supply chain for designing, amending and utilising AI systems are aware of their obligations and they are effectively addressed.
+"Some uses of AI should be prohibited outright because they are incompatible with human rights. Potential areas for action include subliminal techniques, and inappropriate use of profiling or biometric data."
+"AI is heralded as an unprecedented era of technological development with the potential to transform our lives for better or for worse," said Sobel.
+"It is moving with such speed and complexity that its impact is hard to accurately predict. What is clear is that at present we are unprepared to deal with its consequences however potentially dire they may be."
+The JCHR's 12 members are drawn from both Houses of Parliament and they currently include MPs and peers from the Labour, Conservative and Liberal Democrat parties.
+BBC News is seeking comment from the government on the call for the AI bill.
+Monday's report comes amid growing general anxiety over the challenges AI poses.
+Jacob Coxon, an AI researcher who quit Anthropic, told the BBC this weekend that staff developing the systems were "genuinely frightened" for the future of humanity.
+An Anthropic spokesperson told BBC News that it was building "models with some of the strongest safeguards in the industry".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-14T03:23:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2540/live/91309a60-afe1-11f1-b2e5-69ed9cb5513c.jpg",
+    readTime: 9,
+  },
+  {
+    id: "trump-says-u-s-may-keep-iranian-oil-like-4e9d0f7b",
+    title: "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
+    titleJa: "Trump says U.S. may keep Iranian oil 'like Venezuela' as Gulf-Iran Hormuz talks stall",
+    summaryJa: "Trump said revenue from the Venezuela arrangement has \"paid for the war many times.\"",
+    bodyOriginal: `President Donald Trump said the U.S. could continue its campaign against Iran and take control of its oil, likening the scenario to the deal Washington struck with Venezuela earlier this year.
+"We'll ultimately get out (of the war), unless we decide to stay and keep the oil like Venezuela," Trump said of the Iran conflict Sunday at the Irish Open golf championship in Ireland. He added that U.S. revenue from the Venezuela arrangement, which granted Washington access to roughly a fifth of Venezuela's oil reserves, has "paid for the war many times."
+Under the agreement reached in August, Venezuela ceded majority U.S. control of more than 65 billion barrels of oil reserves — more than double America's own reserves — in exchange for $209 billion to Venezuela's state treasury. Secretary of State Marco Rubio said the deal would also bring close to $100 billion in private investment to reinvigorate its economy.
+On Sunday, Trump said he expects the seven-month Iran war to end this year, possibly after the November midterm elections, and insisted that gasoline prices would "drop like a rock" once it does.
+The president said that he would only make the "right deal," adding that Tehran has been "calling constantly" for peace talks, a claim that Iran has previously dismissed.
+Trump's comments came as diplomacy over the Strait of Hormuz stalled.
+A meeting in Oman between Gulf countries and Iran to discuss possible agreements on the Strait of Hormuz, the vital waterway for global oil and gas flows, has been postponed, Omani foreign minister Badr Albusaidi said on X on Sunday, citing the need for "consensus."
+Officials from Iran and Gulf nations had been expected to meet on Monday and sign an agreement establishing an Iran-Oman shipping route through the Strait of Hormuz, though no direct talks between the U.S. and Iran were ongoing.
+The Strait of Hormuz has been subjected to an Iranian and later U.S. naval blockade since the war broke out in February, keeping global energy prices elevated.
+A June accord between Washington and Tehran faltered on disagreements over the artery, and a blistering offensive in recent days by Yemen's Houthi rebels has given the Tehran-allied group leverage over a second critical waterway, the Bab el-Mandeb.
+Ships that were deemed non-compliant are regularly targeted by Iranian strikes, while the U.S. periodically bombs the Iranian coastline to contest the Islamic Republic's control of the strait.
+Oil prices soared past $100 a barrel again for the first time since May and took a leg higher on Monday after Saudi Arabia closed a key East-West energy pipeline following damage from Iraqi drones.
+U.S. West Texas Intermediate futures were up 2.3% to $102.39 per barrel. Brent crude, the international benchmark, traded 2.4% higher to $107.11 a barrel.`,
+    bodyJa: `President Donald Trump said the U.S. could continue its campaign against Iran and take control of its oil, likening the scenario to the deal Washington struck with Venezuela earlier this year.
+"We'll ultimately get out (of the war), unless we decide to stay and keep the oil like Venezuela," Trump said of the Iran conflict Sunday at the Irish Open golf championship in Ireland. He added that U.S. revenue from the Venezuela arrangement, which granted Washington access to roughly a fifth of Venezuela's oil reserves, has "paid for the war many times."
+Under the agreement reached in August, Venezuela ceded majority U.S. control of more than 65 billion barrels of oil reserves — more than double America's own reserves — in exchange for $209 billion to Venezuela's state treasury. Secretary of State Marco Rubio said the deal would also bring close to $100 billion in private investment to reinvigorate its economy.
+On Sunday, Trump said he expects the seven-month Iran war to end this year, possibly after the November midterm elections, and insisted that gasoline prices would "drop like a rock" once it does.
+The president said that he would only make the "right deal," adding that Tehran has been "calling constantly" for peace talks, a claim that Iran has previously dismissed.
+Trump's comments came as diplomacy over the Strait of Hormuz stalled.
+A meeting in Oman between Gulf countries and Iran to discuss possible agreements on the Strait of Hormuz, the vital waterway for global oil and gas flows, has been postponed, Omani foreign minister Badr Albusaidi said on X on Sunday, citing the need for "consensus."
+Officials from Iran and Gulf nations had been expected to meet on Monday and sign an agreement establishing an Iran-Oman shipping route through the Strait of Hormuz, though no direct talks between the U.S. and Iran were ongoing.
+The Strait of Hormuz has been subjected to an Iranian and later U.S. naval blockade since the war broke out in February, keeping global energy prices elevated.
+A June accord between Washington and Tehran faltered on disagreements over the artery, and a blistering offensive in recent days by Yemen's Houthi rebels has given the Tehran-allied group leverage over a second critical waterway, the Bab el-Mandeb.
+Ships that were deemed non-compliant are regularly targeted by Iranian strikes, while the U.S. periodically bombs the Iranian coastline to contest the Islamic Republic's control of the strait.
+Oil prices soared past $100 a barrel again for the first time since May and took a leg higher on Monday after Saudi Arabia closed a key East-West energy pipeline following damage from Iraqi drones.
+U.S. West Texas Intermediate futures were up 2.3% to $102.39 per barrel. Brent crude, the international benchmark, traded 2.4% higher to $107.11 a barrel.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+    publishedAt: "2026-09-14T03:01:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "amazon-pauses-work-with-cargo-firm-after-7d22f347",
+    title: "Amazon pauses work with cargo firm after fatal crash",
+    titleJa: "Amazon pauses work with cargo firm after fatal crash",
+    summaryJa: "The 21 Air-operated jet overshot a runway at Miami International Airport and hit several vehicles.",
+    bodyOriginal: `Amazon pauses work with cargo firm after fatal crash
+- Published
+E-commerce giant Amazon says it is suspending work with the firm that operated a cargo plane that was involved in a fatal crash in Miami this month.
+"After the tragic incident last weekend, we've spent time supporting the investigation and reviewing some of the surrounding circumstances, and we've decided to pause our operations with 21 Air," an Amazon spokesperson said on Sunday.
+On 6 September, the 21 Air-operated Boeing jet overshot a runway at Miami International Airport and hit several vehicles, killing five people.
+The BBC has contacted 21 Air for comment. The firm previously said it was "devastated by the accident" and that it is cooperating with authorities to investigate the incident.
+The US National Transportation Safety Board (NTSB) is leading the investigation into the crash.
+Amazon spokesperson Kelly Nantel said: "Safety has always been our top priority, whether in our own operations or when we're working with partners."
+"We'll continue working to support the investigation and everyone affected," she added.
+21 Air is an all-cargo carrier that operates flights for major firms like Amazon and DHL.
+The Boeing 767-300 cargo plane crashed in Miami after departing from Luis Muñoz Marín International Airport in San Juan, Puerto Rico.
+The aircraft overshot the runway, crashing into nearby vehicles before skidding to a stop.
+Last week, Miami authorities identified the five people who died as Rolando Aleman Leon, 55; Yoel Rodriguez Naranjo, 53; Julio C Pineda, 75; Carlos Acosta Fajardo, 53; and Javierkys Reyes Quevedo, 47.
+Five others were also injured.
+"Our deepest condolences are with the families and loved ones of those who lost their lives," 21 Air chief executive Keith Winters previously said.
+"Our immediate priorities are supporting those affected, assisting the appropriate authorities, and ensuring that accurate and verified information is communicated as it becomes available," he added.
+NTSB chairwoman Jennifer Homendy called the crash site a scene of "utter devastation".
+The safety board's investigators have recovered the flight recorders to analyse the conditions leading up to the crash.
+Investigators released details that a pilot onboard the cargo plane noted that it was going too fast before it overshot the runway, the NTSB said in the early stages of investigation.
+It said that one of the pilots warned the other pilot multiple times about "the aircraft's excessive speed" but noted "there was not a consistent verbal response", even as an altitude alarm sounded.
+There were other electronic warnings designed to alert the pilots to danger while landing, investigators reported.
+Related topics
+- Published6 days ago
+- Published23 August`,
+    bodyJa: `Amazon pauses work with cargo firm after fatal crash
+- Published
+E-commerce giant Amazon says it is suspending work with the firm that operated a cargo plane that was involved in a fatal crash in Miami this month.
+"After the tragic incident last weekend, we've spent time supporting the investigation and reviewing some of the surrounding circumstances, and we've decided to pause our operations with 21 Air," an Amazon spokesperson said on Sunday.
+On 6 September, the 21 Air-operated Boeing jet overshot a runway at Miami International Airport and hit several vehicles, killing five people.
+The BBC has contacted 21 Air for comment. The firm previously said it was "devastated by the accident" and that it is cooperating with authorities to investigate the incident.
+The US National Transportation Safety Board (NTSB) is leading the investigation into the crash.
+Amazon spokesperson Kelly Nantel said: "Safety has always been our top priority, whether in our own operations or when we're working with partners."
+"We'll continue working to support the investigation and everyone affected," she added.
+21 Air is an all-cargo carrier that operates flights for major firms like Amazon and DHL.
+The Boeing 767-300 cargo plane crashed in Miami after departing from Luis Muñoz Marín International Airport in San Juan, Puerto Rico.
+The aircraft overshot the runway, crashing into nearby vehicles before skidding to a stop.
+Last week, Miami authorities identified the five people who died as Rolando Aleman Leon, 55; Yoel Rodriguez Naranjo, 53; Julio C Pineda, 75; Carlos Acosta Fajardo, 53; and Javierkys Reyes Quevedo, 47.
+Five others were also injured.
+"Our deepest condolences are with the families and loved ones of those who lost their lives," 21 Air chief executive Keith Winters previously said.
+"Our immediate priorities are supporting those affected, assisting the appropriate authorities, and ensuring that accurate and verified information is communicated as it becomes available," he added.
+NTSB chairwoman Jennifer Homendy called the crash site a scene of "utter devastation".
+The safety board's investigators have recovered the flight recorders to analyse the conditions leading up to the crash.
+Investigators released details that a pilot onboard the cargo plane noted that it was going too fast before it overshot the runway, the NTSB said in the early stages of investigation.
+It said that one of the pilots warned the other pilot multiple times about "the aircraft's excessive speed" but noted "there was not a consistent verbal response", even as an altitude alarm sounded.
+There were other electronic warnings designed to alert the pilots to danger while landing, investigators reported.
+Related topics
+- Published6 days ago
+- Published23 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-14T02:40:06+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e20/live/5e01de50-afdd-11f1-85da-1d41c9633ce8.jpg",
+    readTime: 7,
+  },
+  {
+    id: "the-10-year-treasury-is-closing-in-on-5-0f641dac",
+    title: "The 10-year Treasury is closing in on 5%. How it gets there matters more",
+    titleJa: "The 10-year Treasury is closing in on 5%. How it gets there matters more",
+    summaryJa: "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
+    bodyOriginal: `The 10-year Treasury yield is once again closing in on the psychologically important 5% threshold. For investors, the biggest issue may be what drives it across the line.
+The benchmark yield is hovering around 4.96%, within striking distance of the 5% mark it last touched in October 2023. A climb fueled by resilient economic growth would carry very different implications for stocks and the broader economy than one driven by resurgent inflation, mounting fiscal concerns or stress within the Treasury market itself.
+The latest rise in yields stems partly from a supply-demand imbalance as heavy Treasury and corporate issuance competes for investor capital, said Jason Ware, chief investment officer at Albion Financial Group, who added he doesn't expect markets to break simply because the 10-year moves above 5%.
+Higher yields aren't necessarily bearish if they're accompanied by healthy growth. Ware pointed to a resilient economy and steady core inflation, arguing that stocks would be more vulnerable to a slowdown in consumer spending or artificial-intelligence investment than to the 10-year crossing an arbitrary threshold.
+The 10-year Treasury yield is a key benchmark for borrowing costs across the U.S. economy, influencing everything from mortgages to corporate debt. It is also a crucial reference point for valuing stocks and other financial assets.
+Many of the companies driving the equity rally aren't especially sensitive to higher rates, limiting the immediate threat to stocks, according to Niall O'Sullivan, chief investment officer at Marsh Investments. The heavy capital expenditure currently being deployed supports strong economic growth, he said.
+However, the 5% level may start to be a problem as investors demand greater compensation for inflation and fiscal risks. Large federal deficits, heavy debt issuance and sticky inflation have all contributed to a rising term premium, while oil's return above $100 a barrel has added another potential source of price pressure.
+Treasury Secretary Scott Bessent has sought to contain pressure at the long end, including through an expanded buyback program. But such measures may have limited power against the fundamental forces pushing yields higher.
+BMO Capital Markets strategists said a more active buyback program could help limit selling pressure but "fails to address the prevailing fundamental drivers of the upward pressure on 10- and 30-year yields."
+Another route to 5% could be more troublesome still: a disorderly move caused by stresses in the Treasury market itself.
+George Awad, principal at Gibraltar Capital, has highlighted the large amount of leveraged hedge-fund exposure underpinning the Treasury market, including the cash-futures basis trade. A jump in funding costs, margin requirements or volatility could force leveraged investors to unwind positions simultaneously, potentially amplifying a selloff.
+For now, investors appear willing to tolerate higher yields. BMO noted that when the 10-year reached 4.85%, weakness in equities remained modest and the S&P 500 was still up more than 11% for the year.
+It remains to be seen whether that continues.`,
+    bodyJa: `The 10-year Treasury yield is once again closing in on the psychologically important 5% threshold. For investors, the biggest issue may be what drives it across the line.
+The benchmark yield is hovering around 4.96%, within striking distance of the 5% mark it last touched in October 2023. A climb fueled by resilient economic growth would carry very different implications for stocks and the broader economy than one driven by resurgent inflation, mounting fiscal concerns or stress within the Treasury market itself.
+The latest rise in yields stems partly from a supply-demand imbalance as heavy Treasury and corporate issuance competes for investor capital, said Jason Ware, chief investment officer at Albion Financial Group, who added he doesn't expect markets to break simply because the 10-year moves above 5%.
+Higher yields aren't necessarily bearish if they're accompanied by healthy growth. Ware pointed to a resilient economy and steady core inflation, arguing that stocks would be more vulnerable to a slowdown in consumer spending or artificial-intelligence investment than to the 10-year crossing an arbitrary threshold.
+The 10-year Treasury yield is a key benchmark for borrowing costs across the U.S. economy, influencing everything from mortgages to corporate debt. It is also a crucial reference point for valuing stocks and other financial assets.
+Many of the companies driving the equity rally aren't especially sensitive to higher rates, limiting the immediate threat to stocks, according to Niall O'Sullivan, chief investment officer at Marsh Investments. The heavy capital expenditure currently being deployed supports strong economic growth, he said.
+However, the 5% level may start to be a problem as investors demand greater compensation for inflation and fiscal risks. Large federal deficits, heavy debt issuance and sticky inflation have all contributed to a rising term premium, while oil's return above $100 a barrel has added another potential source of price pressure.
+Treasury Secretary Scott Bessent has sought to contain pressure at the long end, including through an expanded buyback program. But such measures may have limited power against the fundamental forces pushing yields higher.
+BMO Capital Markets strategists said a more active buyback program could help limit selling pressure but "fails to address the prevailing fundamental drivers of the upward pressure on 10- and 30-year yields."
+Another route to 5% could be more troublesome still: a disorderly move caused by stresses in the Treasury market itself.
+George Awad, principal at Gibraltar Capital, has highlighted the large amount of leveraged hedge-fund exposure underpinning the Treasury market, including the cash-futures basis trade. A jump in funding costs, margin requirements or volatility could force leveraged investors to unwind positions simultaneously, potentially amplifying a selloff.
+For now, investors appear willing to tolerate higher yields. BMO noted that when the 10-year reached 4.85%, weakness in equities remained modest and the S&P 500 was still up more than 11% for the year.
+It remains to be seen whether that continues.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
+    publishedAt: "2026-09-14T01:39:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "how-to-protect-your-laptop-phone-and-bik-bdb35bee",
+    title: "How to protect your laptop, phone and bike from thieves at uni",
+    titleJa: "How to protect your laptop, phone and bike from thieves at uni",
+    summaryJa: "What should new students consider to keep your belongings safe and covered by insurance?",
+    bodyOriginal: `How to protect your laptop, phone and bike from thieves at uni
+- Published
+Laptops, phones and bikes are top of the shopping list for thieves as students head off to university, according to insurer Aviva.
+They are the items most likely to be on student insurance claims - after being stolen from digs, cars, public transport and bars and restaurants.
+But there are ways you can help keep them safe, and things to consider if you are planning to get insurance cover.
+Get it wrong and it can be expensive, or possibly illegal.
+How to keep your stuff safe
+The majority of student insurance claims are the result of theft, ahead of accidental damage, according to Aviva. The insurer declined to say what proportion of claims resulted in payouts.
+"Laptops, computers and mobile phones play a vital role in student life, but they can also be attractive targets for opportunistic thieves due to their value and portability," said Steven Jackson, its home product manager.
+His advice includes:
+Leaving really expensive and sentimental belongings back at home
+Locking up valuables and keeping them out of sight when you're out
+Staying vigilant - do you really need to leave your bag or laptop to reserve a café table or a spot in the library?
+It is entirely the choice of an individual as to whether it is worth insuring belongings while off at university or college.
+Car insurance is compulsory, says the Association of British Insurers (ABI), but you can choose whether it's worth insuring your bike or other items.
+How to make sure you've got the correct cover
+First, the ABI suggests checking if you are covered already. Some student halls might already include insurance, or your parents' policy might extend to you.
+If not, there is the option of buying contents insurance.
+"This type of policy covers the cost of replacing or repairing your possessions if they are damaged, destroyed or stolen - giving you peace of mind that you're protected should something go wrong," the ABI said.
+You must check how much you're covered for and whether it's enough to replace everything, including the maximum value of a claim on a single item.
+You can do this by creating an inventory of all of your contents, including clothes, electronics and furniture, and adding up the cost of replacing each item.
+You might need to pay extra to cover a nice bike, or to cover items that you take out and about with you rather than leave in your accommodation.
+And, if you're driving, make sure your insurer knows the car is kept somewhere new.
+If it is your parents' car and you are now the main driver, you have to inform the insurer. It's illegal if you don't.`,
+    bodyJa: `How to protect your laptop, phone and bike from thieves at uni
+- Published
+Laptops, phones and bikes are top of the shopping list for thieves as students head off to university, according to insurer Aviva.
+They are the items most likely to be on student insurance claims - after being stolen from digs, cars, public transport and bars and restaurants.
+But there are ways you can help keep them safe, and things to consider if you are planning to get insurance cover.
+Get it wrong and it can be expensive, or possibly illegal.
+How to keep your stuff safe
+The majority of student insurance claims are the result of theft, ahead of accidental damage, according to Aviva. The insurer declined to say what proportion of claims resulted in payouts.
+"Laptops, computers and mobile phones play a vital role in student life, but they can also be attractive targets for opportunistic thieves due to their value and portability," said Steven Jackson, its home product manager.
+His advice includes:
+Leaving really expensive and sentimental belongings back at home
+Locking up valuables and keeping them out of sight when you're out
+Staying vigilant - do you really need to leave your bag or laptop to reserve a café table or a spot in the library?
+It is entirely the choice of an individual as to whether it is worth insuring belongings while off at university or college.
+Car insurance is compulsory, says the Association of British Insurers (ABI), but you can choose whether it's worth insuring your bike or other items.
+How to make sure you've got the correct cover
+First, the ABI suggests checking if you are covered already. Some student halls might already include insurance, or your parents' policy might extend to you.
+If not, there is the option of buying contents insurance.
+"This type of policy covers the cost of replacing or repairing your possessions if they are damaged, destroyed or stolen - giving you peace of mind that you're protected should something go wrong," the ABI said.
+You must check how much you're covered for and whether it's enough to replace everything, including the maximum value of a claim on a single item.
+You can do this by creating an inventory of all of your contents, including clothes, electronics and furniture, and adding up the cost of replacing each item.
+You might need to pay extra to cover a nice bike, or to cover items that you take out and about with you rather than leave in your accommodation.
+And, if you're driving, make sure your insurer knows the car is kept somewhere new.
+If it is your parents' car and you are now the main driver, you have to inform the insurer. It's illegal if you don't.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T23:39:32+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2700/live/2436c9d0-adf1-11f1-ad53-0d91a06f3150.jpg",
+    readTime: 7,
+  },
+  {
+    id: "gloomy-forecast-for-tenants-as-rent-rise-b797fcd8",
+    title: "Gloomy forecast for tenants as rent rises set to speed up",
+    titleJa: "Gloomy forecast for tenants as rent rises set to speed up",
+    summaryJa: "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+    bodyOriginal: `Gloomy forecast for tenants as rent rises set to speed up
+- Published
+The rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come.
+Average rental costs for new tenancies were up 2.6% in July compared with a year earlier, according to property website Zoopla.
+That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year.
+It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense.
+"Our latest report shows how sensitive the rental market is to even modest changes in how many homes are available for rent," said Richard Donnell, executive director at Zoopla.
+"Growing the number of homes for rent through increased investment is the most sustainable route to boosting choice for renters and ensuring stability in rent levels over the long run."
+New rules, similar issues
+The Renters' Rights Act came into force in England at the start of May, and was described as the biggest shake-up of the sector in more than 30 years.
+Separately, the rising cost of renting has calmed recently. It fell to a low of 1.6% in February, Zoopla data shows.
+But since then, the number of homes on the market for renters has been squeezed, with 3% fewer being available than a year ago.
+In addition, each listing now receives an average of more than five enquiries. That is a long way short of the long queues for properties after the pandemic, but is still the most intense competition for nearly two years.
+Rental demand was particularly significant in London, the Zoopla report said.
+How much is your rent in England's least affordable city?
+- Published2 days ago
+It said that rent rises were being seen across the UK, but the situation still differed depending where renters were looking.
+"In less expensive areas, renters have more capacity to absorb rent rises before hitting an affordability ceiling, whereas in the most expensive areas, rents are already stretching what renters can pay, capping how much further rents can increase," the report said.
+It predicted a further acceleration in rent rises to 4% or 5% by the end of the year, although that still roughly matched the average annual rise in workers' earnings.
+New investment in homes to rent by landlords was "still muted as a result of higher costs and more regulation", Zoopla said.
+Nathan Emerson, chief executive at Propertymark, which represents lettings agents, said the report underlined the need for more high-quality rental homes.
+"A sustainable private rented sector requires the right conditions for responsible landlords to invest for the long term," he said.
+"Increasing supply must remain a priority if we are to give tenants greater choice, improve affordability and create a more stable rental market."`,
+    bodyJa: `Gloomy forecast for tenants as rent rises set to speed up
+- Published
+The rising cost of renting a home in the UK has accelerated after a three-year slowdown - with tenants told to expect more pain to come.
+Average rental costs for new tenancies were up 2.6% in July compared with a year earlier, according to property website Zoopla.
+That remains lower than the rate of rising prices in general, but the property portal has forecast annual rent rises among privately rented homes will hit 4% or 5% by the end of the year.
+It said there were fewer homes available to rent and - with potential first-time buyers put off by higher mortgage rates - competition for rental places in some areas was more intense.
+"Our latest report shows how sensitive the rental market is to even modest changes in how many homes are available for rent," said Richard Donnell, executive director at Zoopla.
+"Growing the number of homes for rent through increased investment is the most sustainable route to boosting choice for renters and ensuring stability in rent levels over the long run."
+New rules, similar issues
+The Renters' Rights Act came into force in England at the start of May, and was described as the biggest shake-up of the sector in more than 30 years.
+Separately, the rising cost of renting has calmed recently. It fell to a low of 1.6% in February, Zoopla data shows.
+But since then, the number of homes on the market for renters has been squeezed, with 3% fewer being available than a year ago.
+In addition, each listing now receives an average of more than five enquiries. That is a long way short of the long queues for properties after the pandemic, but is still the most intense competition for nearly two years.
+Rental demand was particularly significant in London, the Zoopla report said.
+How much is your rent in England's least affordable city?
+- Published2 days ago
+It said that rent rises were being seen across the UK, but the situation still differed depending where renters were looking.
+"In less expensive areas, renters have more capacity to absorb rent rises before hitting an affordability ceiling, whereas in the most expensive areas, rents are already stretching what renters can pay, capping how much further rents can increase," the report said.
+It predicted a further acceleration in rent rises to 4% or 5% by the end of the year, although that still roughly matched the average annual rise in workers' earnings.
+New investment in homes to rent by landlords was "still muted as a result of higher costs and more regulation", Zoopla said.
+Nathan Emerson, chief executive at Propertymark, which represents lettings agents, said the report underlined the need for more high-quality rental homes.
+"A sustainable private rented sector requires the right conditions for responsible landlords to invest for the long term," he said.
+"Increasing supply must remain a priority if we are to give tenants greater choice, improve affordability and create a more stable rental market."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T23:05:45+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d85/live/c3782b50-ade3-11f1-9a5c-a7a4083eb832.jpg",
+    readTime: 7,
+  },
+  {
+    id: "culture-shift-needed-in-how-uk-does-bus-04f05e54",
+    title: "'Culture shift' needed in how UK does business, PM urges",
+    titleJa: "'Culture shift' needed in how UK does business, PM urges",
+    summaryJa: "Burnham has said those who take risks should be backed by government, but his government has been criticised for increasing business costs.",
+    bodyOriginal: `'Culture shift' needed in how UK does business, PM urges
+- Published
+The UK needs a "culture shift" in how it does business, Andy Burnham has said ahead of a meeting with some of the UK's biggest bosses.
+The prime minister said those who take risks in business should be backed by government and local leaders should have the power to work with businesses.
+The current Labour government has been criticised for increasing costs for businesses, such as with the employer national insurance and minimum wage changes under Burnham's predecessor Sir Keir Starmer.
+Downing Street said Burnham will meet with the chief executives of BP, Shell, HSBC, Morrisons, Sainsbury's, BT, Vodafone, Rolls-Royce, and several others at Number 10.
+Ahead of the meeting, Burnham said he would give people "the confidence that if they have a great idea, they'll get all the support they need to bring it to life".
+"When local leaders have the tools to get things done and government works in partnership with business, you can pull in investment, create jobs and transform communities," he said.
+He added the government would be "a partner for growth to make every part of Britain better off".
+Burnham will host a reception for the business community where local leaders are invited before a private engagement with senior chief executives at Downing Street on Monday evening.
+The meeting comes as higher borrowing costs in the UK and other countries present problems for governments looking to spend money on business support or investment.
+Official data revealed a surprise boost in the economy in July partly driven by artificial intelligence (AI) investment, though experts expect growth to slow in the months ahead due to high energy prices.
+The US-Israel war with Iran has led to a sharp jump in oil prices, which has fed through to higher energy and fuel prices, affecting households and businesses.
+This rise in energy costs has led to fears that inflation will remain high, and increase the chance that central banks will hike interest rates to keep price rises under control.
+The expectation of higher interest rates, as well as competition for debt from AI firms looking to spend money on development, has driven up the cost of government borrowing in many countries.
+However, many argue the UK has a particular problem with high government debt. The UK yield for 10-year bonds, a key measure of government debt costs, is higher than countries such as the US, France, and Japan.
+Experts say this is due to several factors affecting investor confidence in the UK, such as multiple prime ministers, chancellors and policy U-turns over a short period.
+In an interview with the BBC last week, Chancellor John Healey called for a restoration of "confidence about Britain" despite acknowledging the challenge of "historic high" borrowing costs.
+Others have argued that the Labour government has created its own problems by increasing costs for businesses.
+Conservative shadow business secretary Julia Lopez said: "The way for the prime minister to get businesses thriving, delivering jobs and driving growth is to cut their taxes.
+"Labour's jobs tax and employer red tape have been devastating for businesses. The consequence has been a drying-up of the jobs market, weaker investment and businesses facing ever greater costs."
+Related topics
+- Published2 days ago
+- Published4 days ago
+- Published2 September`,
+    bodyJa: `'Culture shift' needed in how UK does business, PM urges
+- Published
+The UK needs a "culture shift" in how it does business, Andy Burnham has said ahead of a meeting with some of the UK's biggest bosses.
+The prime minister said those who take risks in business should be backed by government and local leaders should have the power to work with businesses.
+The current Labour government has been criticised for increasing costs for businesses, such as with the employer national insurance and minimum wage changes under Burnham's predecessor Sir Keir Starmer.
+Downing Street said Burnham will meet with the chief executives of BP, Shell, HSBC, Morrisons, Sainsbury's, BT, Vodafone, Rolls-Royce, and several others at Number 10.
+Ahead of the meeting, Burnham said he would give people "the confidence that if they have a great idea, they'll get all the support they need to bring it to life".
+"When local leaders have the tools to get things done and government works in partnership with business, you can pull in investment, create jobs and transform communities," he said.
+He added the government would be "a partner for growth to make every part of Britain better off".
+Burnham will host a reception for the business community where local leaders are invited before a private engagement with senior chief executives at Downing Street on Monday evening.
+The meeting comes as higher borrowing costs in the UK and other countries present problems for governments looking to spend money on business support or investment.
+Official data revealed a surprise boost in the economy in July partly driven by artificial intelligence (AI) investment, though experts expect growth to slow in the months ahead due to high energy prices.
+The US-Israel war with Iran has led to a sharp jump in oil prices, which has fed through to higher energy and fuel prices, affecting households and businesses.
+This rise in energy costs has led to fears that inflation will remain high, and increase the chance that central banks will hike interest rates to keep price rises under control.
+The expectation of higher interest rates, as well as competition for debt from AI firms looking to spend money on development, has driven up the cost of government borrowing in many countries.
+However, many argue the UK has a particular problem with high government debt. The UK yield for 10-year bonds, a key measure of government debt costs, is higher than countries such as the US, France, and Japan.
+Experts say this is due to several factors affecting investor confidence in the UK, such as multiple prime ministers, chancellors and policy U-turns over a short period.
+In an interview with the BBC last week, Chancellor John Healey called for a restoration of "confidence about Britain" despite acknowledging the challenge of "historic high" borrowing costs.
+Others have argued that the Labour government has created its own problems by increasing costs for businesses.
+Conservative shadow business secretary Julia Lopez said: "The way for the prime minister to get businesses thriving, delivering jobs and driving growth is to cut their taxes.
+"Labour's jobs tax and employer red tape have been devastating for businesses. The consequence has been a drying-up of the jobs market, weaker investment and businesses facing ever greater costs."
+Related topics
+- Published2 days ago
+- Published4 days ago
+- Published2 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-13T21:30:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg",
+    readTime: 8,
+  },
+  {
     id: "how-to-trade-a-well-paying-job-for-more-36164bd9",
     title: "How to trade a well-paying job for more work-life balance — without going broke",
     titleJa: "How to trade a well-paying job for more work-life balance — without going broke",
@@ -1528,291 +2000,6 @@ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try 
     publishedAt: "2026-09-12T13:00:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-85373003",
-    readTime: 2,
-  },
-  {
-    id: "inflation-is-outpacing-wage-growth-again-2827a0e2",
-    title: "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Americans face a renewed squeeze on their paychecks as inflation once again rises faster than wage growth, putting further pressure on consumer wallets.
-"A substantial number of Americans are worse off, their incomes are not keeping up with the price increases right now," Heather Long, chief economist at Navy Federal Credit Union, told CNBC.
-Consumer prices rose 3.4% in August from a year earlier, according to data released Friday by the U.S. Bureau of Labor Statistics.
-Average hourly earnings, meanwhile, increased just 3.1% over the same period, according to a separate BLS report released Friday. Real average hourly earnings, adjusted for inflation, fell 0.1% from July and were down 0.3% from a year earlier in August.
-The gap between inflation and wage growth is a stark reminder that workers are losing purchasing power.
-"The basics are that inflation is wiping out wage gains," said Long, adding that April marked a clear turning point after a lengthy stretch in which wage growth had generally exceeded inflation.
-From May 2023 until about April of this year, workers had been slowly regaining ground.
-In fact, Long first started charting the inflation-wage growth relationship a year ago to make the opposite point — that things were improving and even as Americans remained frustrated at the time by the higher overall price level, wages were gradually catching up.
-But that progress began reversing this spring as energy costs jumped.
-"That's what's just hard to watch. Things were getting better, and now that improvement has blown up," she said.
-Energy remains a major source of pressure now, with gasoline prices rising 3.9% in August alone, accounting for more than one-third of the consumer price index's gain. Diesel touched $6 per gallon on Friday for the first time amid fuel supply disruptions arising from wars in Iran and Ukraine.
-Long ties the shift in household finances to the surge in energy prices following the war in Iran. Navy Federal previously estimated that gasoline prices jumped 21% in March, helping push its measure of car ownership costs to a record.
-'Going to be tough for a long time'
-Long said it is difficult to see inflation falling substantially while geopolitical pressures continue, particularly as wage growth slows.
-"It's going to be tough for a long time," she said.
-The best-case outcome, she believes, could be for wage growth and inflation to converge again around the beginning of 2027. "But that's still going to feel pretty miserable on Main Street if inflation equals wage growth," Long said.
-A prolonged squeeze on purchasing power is already starting to show up in consumer spending. Consumer spending accounts for roughly two-thirds of U.S. economic activity, and Long expects households to become more cautious as their paychecks buy less.
-Consumers are adjusting
-The squeeze and the change in consumer spending habits are starting to show up in data as well.
-Data from YouGov shows that higher-income shoppers are more likely to shop for groceries at Costco, while Walmart Supercenter is the preferred grocery store for middle- to lower-income households.
-A similar shift into spending more at warehouses and discount stores is already showing up in Navy Federal's internal spending data, which covers about 15 million members, Long said.
-"People who used to shop at Whole Foods are now at Costco, Aldi, and so you can see that people are still really trying to stretch every dollar," Long said, adding that the behavior is appearing "almost across the income spectrum."
-"The frustration is real on inflation and affordability," she said.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
-    publishedAt: "2026-09-12T12:49:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "oil-s-roundtrip-back-to-100-why-china-co-31d127d4",
-    title: "Oil's roundtrip back to $100. Why China could determine what happens next",
-    titleJa: "原油価格は往復で100ドルに戻る。なぜ中国が次に何が起こるかを決定できるのか",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `China will play a pivotal role in deciding whether oil prices sustain this week's rally and potentially test wartime highs.
-The U.S. crude oil price on Thursday topped $102 per barrel for its highest close since May. The futures contract surged about 50% from its summer low of $68.55 reached about three weeks after Washington and Tehran signed their now failed memorandum of understanding on June 17.
-This week's rally comes as fighting sharply escalated in the Middle East with Saudi Arabia's crucial East-West oil pipeline shut down after multiple attacks.
-The oil market has gradually restored a risk premium since the MOU collapsed and the U.S. reimposed its naval blockade of Iran in July, said Bob McNally, president of Rapidan Energy. But U.S. crude prices are still well below their April 7 wartime closing high of $112.95.
-While the market has priced in the escalation in Middle East fighting, it may not have fully considered China increasing its imports, said Rebecca Babin, senior energy trader at CIBC Private Wealth.
-"What isn't reflected is the fact that we may actually see a stronger demand pull for crude as refiners start to really try to ramp up in China, tightening the market further," Babin told CNBC's "Squawk Box" Friday.
-China's crash diet
-China has played a crucial role in keeping prices from skyrocketing during the Iran war by acting as a swing consumer. It has slashed its crude imports between 3 million barrels per day to 5 million bpd, McNally said. Beijing has a massive petroleum reserve of more than 1 billion barrels it can rely on.
-"The biggest factor containing crude oil prices since this thing started is China's crash diet," McNally told CNBC's "The Exchange" Tuesday. "It's coming off the diet and it's thirsty and it's hungry — it's starting to bid crude up."
-Chinese refiners have an incentive to re-enter the market, as the profit margin to produce diesel has soared as the Iran and Ukraine wars have knocked out a significant amount of global refining capacity.
-"Now that these refining margins are so extreme, they literally can't pass it up," Babin said. "They're going to buy crude and they're going to put product on the market and make money."
-China's crude purchases are not expected to return to prewar levels but they have increased over those seen in the spring, said Amrita Sen, founder of Energy Aspects, in an interview with CNBC's "Access Middle East" on Friday.
-China's imports plunged to a wartime low of around 6 million bpd in June, a nearly 50% decline compared with 11.5 million bpd in February, according to Kpler data. Its imports have increased to around 7 million bpd in July and August, according to the data.
-China's buying activity this month is at a similar level to July and August and is unlikely to dramatically ramp up beyond that, said Matt Smith, director of commodity research at Kpler.
-Beijing "is a very savvy buyer and will lean more on inventories and keeping refinery runs in check rather than buying oil in triple digits," Smith said.
-But oil prices are trending higher as emergency stockpile releases are nearing an end soon. Global inventories have plunged by 400 million barrels after more than six months of war, eroding one of the other key buffers that prevented oil prices from shooting up earlier this year, according to the U.S. Energy Information Administration.
-"Summer is over, peace didn't happen, the war is still going on," Rapidan Energy's McNally said, noting that the Trump administration's efforts to talk down the market aren't as effective as they previously were.
-"The market's optimism bias, it's willingness to sell off on verbal intervention, jawboning about peace being around the corner, seems to be ebbing a little bit," he said.`,
-    bodyJa: `原油価格が今週の上昇を維持し、戦時中の高値を試す可能性があるかどうかを決める上で、中国は極めて重要な役割を果たすだろう。
-木曜日の米国原油価格は1バレル当たり102ドルを突破し、終値としては5月以来の最高値を記録した。先物契約は、ワシントンとイラン政府が6月17日に今は失敗に終わった覚書に署名した約3週間後に付けた夏の安値68.55ドルから約50％急騰した。
-今週の集会は、サウジアラビアの重要な東西石油パイプラインが複数の攻撃を受けて閉鎖され、中東で戦闘が激化している中で開催された。
-ラピダン・エナジーのボブ・マクナリー社長は、覚書が崩壊し、米国が7月にイランに対する海上封鎖を再発動して以来、石油市場は徐々にリスクプレミアムを回復していると述べた。しかし、米国の原油価格は戦時中の4月7日終値の高値である112.95ドルを依然として大幅に下回っている。
-ＣＩＢＣプライベート・ウェルスのシニアエネルギートレーダー、レベッカ・バビン氏は、市場は中東紛争の激化を織り込んでいるものの、中国の輸入拡大を十分に考慮していない可能性があると指摘した。
-バビン氏は金曜日、CNBCの番組「スコークボックス」で、「反映されていないのは、精製業者が中国での本格的な生産拡大に努め始め、市場がさらに逼迫する中、実際に原油需要の引き込みが強まる可能性があるという事実だ」と語った。
-中国のクラッシュダイエット
-中国はイラン戦争中のスイング消費者として価格の高騰を防ぐ上で重要な役割を果たした。マクナリー氏によると、原油輸入量を日量３００万バレルから５００万バレルまで削減した。北京には10億バレルを超える膨大な石油埋蔵量があり、信頼できる。
-「この事態が始まって以来、原油価格を抑えている最大の要因は中国の暴落ダイエットだ」とマクナリー氏は火曜日、CNBCの「ザ・エクスチェンジ」で語った。 「食事から抜け出し、喉が渇き、お腹が空いているので、原油価格が高騰し始めています。」
-イランとウクライナの戦争で世界の精製能力が大幅に失われ、ディーゼル生産の利益率が急上昇しているため、中国の精製業者には市場に再参入するインセンティブがある。
-「現在、精製マージンがあまりにも極端なので、文字通りそれを無視することはできません」とバビン氏は語った。 「彼らは原油を購入し、製品を市場に投入して利益を得るつもりだ。」
-中国の原油購入額は戦前の水準に戻るとは予想されていないが、春の購入額よりは増加しているとエネルギー・アスペクツの創設者アムリタ・セン氏が金曜日のCNBC「アクセス・ミドル・イースト」のインタビューで述べた。
-Kplerのデータによると、中国の輸入量は6月に戦時中の最低日量約600万バレルまで落ち込み、2月の日量1150万バレルに比べて50％近く減少した。データによると、7月と8月の輸入量は日量約700万バレルまで増加した。
-ケプラーの商品調査ディレクター、マット・スミス氏は、今月の中国の購買活動は７、８月と同水準で、それを超えて劇的に増加する可能性は低いと述べた。
-スミス氏は、中国政府は「非常に賢明な買い手であり、3桁の原油を購入するよりも、在庫と製油所の操業を抑制することに重点を置くだろう」と述べた。
-しかし、緊急備蓄放出がまもなく終了に近づく中、原油価格は上昇傾向にある。米国エネルギー情報局によると、6か月以上にわたる戦争の後、世界の在庫は4億バレル減少し、今年初めの原油価格の高騰を防ぐ他の重要なバッファーの1つを侵食した。
-ラピダン・エナジーのマクナリー氏は「夏は終わったが、平和は実現しなかった。戦争はまだ続いている」と述べ、市場を説得しようとするトランプ政権の取り組みは以前ほど効果がないと指摘した。
-同氏は、「市場の楽観バイアス、口頭介入で売りに出ようとする姿勢、平和がすぐそこまで来ているというあごの声は、少し弱まりつつあるようだ」と述べた。`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/12/oils-roundtrip-back-to-100-why-china-could-determine-what-happens-next.html",
-    publishedAt: "2026-09-12T12:40:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "i-still-don-t-have-my-mri-my-health-ins-77079eb9",
-    title: "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-    publishedAt: "2026-09-12T12:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-65472748",
-    readTime: 2,
-  },
-  {
-    id: "us-and-ireland-s-relationship-stronger-t-897203e9",
-    title: "US and Ireland's relationship 'stronger than ever'",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `US and Ireland's relationship 'stronger than ever'
-- Published
-US President Donald Trump has said his country's relationship with Ireland is "stronger than ever".
-He's on a two-day visit to the country where he is meeting with Taoiseach (Irish Prime Minister) Micheál Martin at Farmleigh House, in Phoenix Park.
-Trump's first visit was to the Áras an Uachtaráin - the official residence of the Irish president - where he had a courtesy call with Irish President Catherine Connolly.
-He will also attend events at the US Ambassador to Ireland's residence, before attending the Amgen Irish Open golf tournament which is taking place at the Trump International Golf Links and Hotel Doonbeg in County Clare, which he owns.
-During his meeting with the Taoiseach, Trump said: "We've a big relationship with Ireland."
-"The two countries do very well together," he said, adding: "It's never been as good as it is right now."
-He said they discussed various topics, including trade.
-He was greeted by Tánaiste (Irish deputy prime minister) Simon Harris and Irish Foreign Minister Helen McEntee at Dublin Airport on Saturday morning.
-Trump was welcomed at the Áras an Uachtaráin by President Connolly.
-President Connolly, an outspoken Gaza activist who has been critical of the US and said Trump is acting "like a bully" over tariffs, has come under pressure to raise issues in the Middle East during her brief meeting with the US president.
-Sinn Féin and a series of other parties in the Republic who backed her in the Irish presidency campaign last year have called on her to raise Gaza during her meeting with Trump.
-Ireland is one of the most pro-Palestinian countries in the European Union and has been criticised for its stance by Israel.
-Irish authorities have been planning for Trump's visit for months in what is one of the biggest security operations in the history of the state.
-Allow X content?
-This article contains content provided by X. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read X’s cookie policy, external and privacy policy, external before accepting. To view this content choose ‘accept and continue’.
-On Friday night Trump boarded Air Force One at Joint Base Andrews in Maryland, near the US capital Washington DC, and flew out for his trip to Ireland.
-He visited the Republic in 2019, when he spent time at his golf course, but he also visited in 2023.
-Thousands of people are expected at protests in Dublin.
-A small number of crowd control barriers are beside the American Embassy in central Dublin but President Trump is not scheduled to be anywhere near the building.
-Several protesters have also started to gather in Doonbeg, a few miles from Trump's hotel where he will attend the Irish Open.
-He will be accompanied by his sons Eric and Donald Trump Junior.
-There is a heavy Garda (Irish Police) presence, road closures and countless tricolour bunting through the village.
-Sixty-year-old Jessie Phillips is in Doonbeg to protest
-She lives in county Clare but is originally from Tennessee and said she was protesting as a "concerned member of the public".
-"I just want him [President Trump] to see my placard so he knows I don't care for him and that my family doesn't care for him and that he's not welcome here or over there in my opinion."
-Speaking earlier this week in the BBC's Borderlands podcast, Micheál Martin said: "We will have discussions with the president and there will be a reception in the American Embassy but I think he's also very anxious to get to Doonbeg and watch the Irish Open."
-An avid golf fan, in July Trump said he hoped to travel to Doonbeg to watch the Irish Open.
-In a special video message, he told the US Embassy's Fourth of July celebration event that he wants to see "Rory [McIlroy] and all the great players".
-"There's nothing better than Irish-American friendship and I have a beautiful place over there - it's one of the best, most beautiful golf courses anywhere in the world," said Trump in his message, which was broadcast on a large screen.
-"We have a place that's so top and we have the Irish Open going to be there.
-"They call it Trump National, we sometimes use the name of the location, but it's Trump National Golf Club, and we're looking forward to it.
-"We're going to have a tremendous celebration. I think I'm going to come over and I'm going to see it and watch. It'll be something very, very special."
-Related topics
-- Published3 September
-- Published2 July
-- Published1 day ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T10:02:45+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/381d/live/31f31f20-ae8b-11f1-b92e-1f49080ec3cb.jpg",
-    readTime: 2,
-  },
-  {
-    id: "tehran-won-t-surrender-to-the-u-s-irania-865bf566",
-    title: "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Iranian President Masoud Pezeshkian said his country will not surrender, adding that it has resisted aggression from the U.S. and Israel.
-"Iran has successfully stood against Israel and the U.S.," Pezeshkian said late Friday as he addressed a gathering of Indian religious leaders in New Delhi. "Since we are seeking truth and justice, we will not yield in front of bullying arrogance."
-Pezeshkian's comments ahead of the BRICS Summit in India over the weekend came on the heels of U.S. President Donald Trump's assertion that Iran would have wiped out Israel and the Middle East, and started hitting U.S. cities, if Washington had not taken military action against Iran.
-"If I had it to do again, I would do exactly what I did," Trump said on Thursday.
-Pezeshkian, who is on his first visit to India, also met with Indian Prime Minister Narendra Modi on Friday. During the bilateral meeting, Modi raised concerns about the safety of seafarers and underscored the need for peace and for freedom of navigation and commerce.
-Shipments of oil and other cargoes through the critical Strait of Hormuz separating Iran and Oman have slowed to a trickle since the U.S. and Israel began their war on Iran on Feb. 28, stranding ships and seafarers for weeks or months at a time.
-The Indian prime minister reiterated his appeal to resolve the conflict in the Middle East with "dialogue and diplomacy."
-Global crude oil prices have surged in response to a sharp escalation in fighting between the U.S. and Iran this month. Rising energy prices are a major concern for countries like India that are major energy importers.
-India, the world's fastest-growing major economy, is among the countries most vulnerable to the supply disruptions caused by the war. The South Asian country imports nearly 85% of its fuel needs and relies on the energy supply chain through the Strait of Hormuz.
-The conflict in the Middle East has affected many Indian crews. In July, two vessels carrying a total of 30 Indian seafarers were attacked while transiting through the Strait of Hormuz. As per the Indian government, 10 seafarers have lost their lives due to the conflict in the Middle East.
-Modi and Pezeshkian were photographed warmly holding hands as they exited the BRICS Business Forum on Friday.
-"When the leaders of two great nations join hands, they remind us of the historic friendship between two great civilizations," the Iranian embassy in India posted on X, hailing the friendship between the two countries.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
-    publishedAt: "2026-09-12T08:44:39+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-s-america-first-world-is-pushing-o-6eb1851f",
-    title: "Trump's America-first world is pushing other powers to hedge their bets",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `When Chinese President Xi Jinping, Russian President Vladimir Putin and Indian Prime Minister Narendra Modi were together in China last year, images of the three leaders smiling, holding hands and chatting animatedly went viral.
-This weekend, they meet again in New Delhi against an increasingly complicated geopolitical backdrop.
-India is hosting leaders of BRICS, a grouping of major emerging economies seeking greater influence in a global system long dominated by the U.S. and other Western powers. Xi, Putin and Iranian President Masoud Pezeshkian are among those expected to attend alongside Modi.
-The U.S. and Israel are at war with Iran, Washington continues to push Moscow toward a deal to end the war in Ukraine, and U.S. President Donald Trump's trade policies have disrupted relationships with allies and rivals alike.
-Against that backdrop, the summit will put the spotlight on whether those pressures are giving some BRICS members more reason to cooperate on trade, energy and payments, even as deep divisions limit how far that cooperation can go.
-Trump's policies are not the reason these countries are talking. India and Russia have maintained close relations for decades, while the India-China thaw began before the latest U.S. trade tensions. But tariffs, sanctions and other economic pressure from Washington are adding another factor to their calculations.
-A complicated relationship
-Xi's visit will be his first to India since 2019, marking another step in a cautious thaw after deadly clashes along the countries' disputed Himalayan border in 2020.
-Modi and Xi have sought to stabilize ties, with flights, visas and high-level contacts being restored. But tensions remain over their border, India's large trade deficit with Beijing and their strategic rivalry across Asia.
-The U.S. has also spent years deepening its relationship with India, which is a member of the Quad alongside the United States, Japan and Australia.
-India has long pursued strategic autonomy, maintaining ties with Russia and Iran and improving relations with China but still deepening cooperation with Washington.
-Chietigj Bajpaee, senior research fellow for South Asia at Chatham House, wrote that recent strains with the Trump administration have caused New Delhi to reinvest in other relationships.
-"The meeting between Modi and Xi is likely to further advance the ongoing reset in bilateral relations and build confidence. A meeting in August between the Chinese foreign minister and Indian national security advisor made notable progress on their longstanding border dispute," Bajpaee said in an article earlier this week.
-Meanwhile, Russia has different motivations. Western sanctions over Ukraine have made partners outside Europe and the U.S. increasingly important. China has become a critical economic partner, while India is a major buyer of Russian oil.
-For Putin, deeper economic relationships with China and India provide an important buffer against sanctions, while the summit offers an opportunity to demonstrate that Russia retains relationships with some of the world's largest economies.
-Trump's pressure campaign
-Trump has made tariffs central to his economic and foreign policy agenda, while Washington continues to use sanctions and other economic measures against Russia and Iran.
-For BRICS members, the use of those tools has put greater focus on alternative channels for trade and payments.
-The group has discussed increasing trade in local currencies and developing alternative cross-border payment mechanisms. India has sought to steer BRICS away from a broader de-dollarization push, emphasizing instead the use of national currencies and digital payments to reduce the cost of cross-border trade, according to Bajpaee.
-Russia has increasingly conducted trade outside the dollar system, although the Kremlin said this week that Moscow was not seeking outright "de-dollarisation."
-Trump has previously described BRICS as an "attack on the dollar" and threatened tariffs against members if they sought to undermine the U.S. currency.
-But BRICS members differ over how far they want to reduce their dependence on the dollar, which continues to dominate global reserves and international transactions.
-A 'dysfunctional family'
-BRICS has expanded beyond Brazil, Russia, India, China and South Africa to include countries such as Iran, Egypt, Ethiopia, the United Arab Emirates and Indonesia, increasing its economic and geopolitical weight but making consensus more difficult.
-Sarang Shidore, director of the Global South program at the Quincy Institute, called BRICS a "dysfunctional family."
-Its differences have emerged "most obviously and most clearly" over security issues, he told CNBC's "Squawk Box Asia" on Friday, pointing to how Iran and the UAE are both members despite being on opposing sides of the war in the Middle East.
-Shidore said BRICS was a "pragmatic club for limited purposes." Its members, he said, are primarily focused on development, trade and reforming global institutions, rather than building an ideological bloc against the United States.
-Bajpaee similarly argued that India wants BRICS to promote a non-Western worldview without becoming explicitly anti-Western, even as some members push the group in a more geopolitical direction.
-India's desire for deeper ties with the U.S. illustrates the overlapping relationships at play, which complicate the idea of BRICS as an emerging anti-U.S. alliance.
-Other BRICS members, including the UAE, also maintain important ties with Washington while diversifying their economic relationships. The UAE recently pledged to invest $46 billion in Germany across a range of sectors.
-Xi is due to travel to the United States later this month.
-Bajpaee said members still see value in BRICS despite differing visions for its role. He noted that a Modi-Xi meeting at the 2024 summit helped set the India-China reset in motion.
-As Xi, Putin and Modi meet again in New Delhi, the question is whether U.S. tariffs, sanctions and other economic pressure will make this summit a catalyst for another shift.`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
-Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
-    publishedAt: "2026-09-12T06:25:50+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "saudi-arabia-shuts-key-oil-pipeline-afte-a8f66da5",
-    title: "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
-- Published
-Saudi Arabia has closed a critical oil pipeline after it was attacked by drones launched from Iraq, as conflict in the Middle East widens.
-Iraq said it had fired a military commander and launched an investigation after admitting the drone attack on its neighbour's East-West pipeline had originated in one of its provinces bordering Iran.
-The 1,200km (745 mile) pipeline has helped Saudi Arabia - the world's largest crude oil exporter - bypass the Strait of Hormuz.
-The incident comes amid a major advance by the Iranian-backed Houthi rebels in Yemen, putting more pressure on global oil shipping routes as the US-Iran war stretches into its seventh month.
-Riyadh on Friday said it had shut the pipeline as a precaution, as satellite images of scorched ground and smoke near the site emerged.
-The foreign ministry said the attack resulted in some injuries and damage, which was still being assessed.
-The pipeline has been moving 4% to 5% of global oil supply, news agency Reuters has reported, citing ship tracking companies and analysts.
-Saudi Arabia has chosen not to retaliate at this stage, its foreign ministry says, following a call from Iraq's prime minister.
-It said the kingdom would "support the efforts of the Iraqi government" to "prevent attacks" launched from the country against neighbouring states.
-"The Kingdom of Saudi Arabia affirms that it reserves its right to take all necessary measures to safeguard its sovereignty and security, protect its facilities, and ensure the safety of its citizens and residents," the statement added.
-The Iraqi prime minister's office in its own statement said the operations commander in the Maysan governorate - a province which borders Iran - had been removed from his post following confirmation the drone attack had been launched from that region.
-The Gulf Co-operation Council – made up of representatives from Saudi Arabaia, the United Arab Emirates, Bahrain, Oman, Qatar and Kuwait – also issued a missive condemning the attack.
-"This attack represents a dangerous escalation and an unacceptable threat to the security of the Kingdom of Saudi Arabia, its territorial integrity, and its vital installations, as well as a flagrant violation of the principles of international law," secretary general Jasem Mohamed Albudaiwi.
-This week, a lightning advance in Yemen has also seen Houthi militants seize control of much of the country's coastline, sources say.
-The group claims it has control of the Bab al-Mandab Strait, the gateway to the Red Sea and the Suez Canal, though it says maritime navigation is "safe for all companies except for Saudi vessels".
-The developments have squeezed both sides of the Arabian Peninsula, pushing crude oil prices to over $100 a barrel for the first time since July.
-Related topics
-- Published14 hours ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T04:43:10+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea8/live/13141950-ae5a-11f1-96a4-f736214d52e1.jpg",
-    readTime: 2,
-  },
-  {
-    id: "death-toll-from-philippines-ferry-fire-c-ad676570",
-    title: "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-    titleJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    summaryJa: "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-    bodyOriginal: `Death toll from Philippines ferry fire climbs to 35, with dozens still missing
-- Published
-The Philippine Coast Guard says it has recovered 30 bodies from the wreckage of a ferry that caught fire this week, bringing the total death toll to 35.
-More than 130 people were on board the MV June Aster when the blaze erupted on Wednesday as it neared its destination at the tourist hotspot of Coron, after departing from Manila.
-Forty-three people were rescued, with many receiving treatment in hospital, and searches continue for more than 50 people who remain unaccounted for.
-The country's coast guard says more bodies remain on the boat, which they were unable to board until Friday due to toxic fumes and lingering heat.
-In a press conference, coast guard spokesperson Commodore Noemie Cayabyab said most bodies had been retrieved from the sleeping area of the boat, which had been making a 22-hour journey.
-"Agencies are currently undertaking the proper recovery and identification of the remains in accordance with established procedures," Cayabyab said.
-"We recognise the grief of the families affected by this tragic incident."
-Earlier, the coast guard said preliminary interviews with the survivors suggest that the fire started in the cargo hold. Some passengers were not wearing life vests, they noted.
-A survivor who was hauled to safety on a rescue boat told the BBC he had heard frantic cries onboard when the fire erupted, and was trampled by panicked people as he tried to escape.
-The Philippines' maritime authority is investigating the circumstances surrounding the incident.
-The ferry, built in 2002, held valid safety certificates and passed an enforcement inspection in March, but investigators are looking into potential manifest discrepancies, cargo loading integrity, and crew emergency response protocols, the Palawan Daily reported.
-The vessel was carrying 117 passengers and 17 crew members.
-Atienza Interisland Ferries, the vessel's operator, has pledged full cooperation with the inquiry.
-"Our hearts remain with the affected families, and we will not rest until all individuals are accounted for," the company said in a statement on Thursday.
-- Published21 hours ago`,
-    bodyJa: `Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-12T03:02:28+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
     readTime: 2,
   },
 ];
