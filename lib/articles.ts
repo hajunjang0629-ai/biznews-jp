@@ -15,6 +15,502 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "oil-extends-gains-following-houthi-strik-be64398f",
+    title: "Oil extends gains following Houthi strikes on Saudi Arabia",
+    titleJa: "Oil extends gains following Houthi strikes on Saudi Arabia",
+    summaryJa: "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
+    bodyOriginal: `Oil extended gains Tuesday, amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.
+Futures for international benchmark Brent crude for November delivery gained 1.28% to $107.03 a barrel. U.S. West Texas Intermediate futures for October advanced 1.50% at $102.91 per barrel.
+Saudi Arabia closed its critical East-West pipeline that bypasses the Strait of Hormuz, after drones launched from Iraq damaged it, exacerbating oil supply disruptions at a time when the market is already tight.
+Al Jazeera reported that the Saudi-led coalition in Yemen says 13 civilians were injured on Monday, after Houthi forces launched a wave of ballistic missile and drone attacks into Saudi Arabia.
+Meanwhile, Iran's military said it destroyed an advanced American drone over the Strait of Hormuz, following a series of operations by Tehran against U.S. unmanned naval systems in the Gulf. U.S. President Donald Trump said Sunday that the U.S. could continue its campaign against Iran and take control of its oil.
+U.S. Central Command also disputed a claim by Iran's Islamic Revolutionary Guard Corps that Panama-flagged oil tanker El Gaia struck a naval mine in the Strait of Hormuz.
+"The Panama-flagged oil tanker El Gaia was struck by an Iranian missile last month and rendered inoperable," CENTCOM said. "The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait."
+Inflation is going to pick up, given the oil pipelines are being attacked and the Saudi east west pipeline is closed, Komal Sri-Kumar, the president of Sri-Kumar Global Strategies, said on CNBC's "Squawk Box Asia."
+"In addition to that, there is a tariff war which is quite accelerating, and that is going to put upward pressure on prices and therefore on bond yields," Sri-Kumar added.`,
+    bodyJa: `Oil extended gains Tuesday, amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.
+Futures for international benchmark Brent crude for November delivery gained 1.28% to $107.03 a barrel. U.S. West Texas Intermediate futures for October advanced 1.50% at $102.91 per barrel.
+Saudi Arabia closed its critical East-West pipeline that bypasses the Strait of Hormuz, after drones launched from Iraq damaged it, exacerbating oil supply disruptions at a time when the market is already tight.
+Al Jazeera reported that the Saudi-led coalition in Yemen says 13 civilians were injured on Monday, after Houthi forces launched a wave of ballistic missile and drone attacks into Saudi Arabia.
+Meanwhile, Iran's military said it destroyed an advanced American drone over the Strait of Hormuz, following a series of operations by Tehran against U.S. unmanned naval systems in the Gulf. U.S. President Donald Trump said Sunday that the U.S. could continue its campaign against Iran and take control of its oil.
+U.S. Central Command also disputed a claim by Iran's Islamic Revolutionary Guard Corps that Panama-flagged oil tanker El Gaia struck a naval mine in the Strait of Hormuz.
+"The Panama-flagged oil tanker El Gaia was struck by an Iranian missile last month and rendered inoperable," CENTCOM said. "The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait."
+Inflation is going to pick up, given the oil pipelines are being attacked and the Saudi east west pipeline is closed, Komal Sri-Kumar, the president of Sri-Kumar Global Strategies, said on CNBC's "Squawk Box Asia."
+"In addition to that, there is a tariff war which is quite accelerating, and that is going to put upward pressure on prices and therefore on bond yields," Sri-Kumar added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+    publishedAt: "2026-09-15T04:41:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "wealthy-chinese-tech-talent-confront-tig-513d9bed",
+    title: "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+    titleJa: "Wealthy Chinese, tech talent confront tighter borders as Beijing widens exit controls",
+    summaryJa: "China's new border-control regulations are designed to keep two of its most valuable assets from leaving the country: money and talent.",
+    bodyOriginal: `China's new border-control regulations are designed to keep two of its most valuable assets from leaving the country: money and talent.
+The rules, issued by the State Council and taking effect Tuesday, give authorities explicit legal power to block people from leaving the country – turning a patchwork of ad hoc travel bans into a permanent tool for stemming capital and talent flight.
+Authorities can bar Chinese nationals from departing over export-control or technology-transfer violations deemed to threaten national security. The new rules also add pressure on wealthy households already facing a widening tax dragnet, along with private bankers, trust companies, and immigration agencies that help move their money and families abroad.
+"The goal is to restrict outbound personnel flows, so as to keep home the capital and talent that might otherwise leave with them," said Neo Wang, China strategist at Evercore ISI. Both resources are critical to Beijing's push for innovation, productivity and new growth drivers as it competes head-to-head with the U.S.
+Beijing has tightened oversight of overseas travel by party officials and state-enterprise employees for years while increasingly extending the scrutiny into the private sector. The new rules would make the system more "permanent and give officials more confidence to intervene," said Dan Wang, China director at political consultancy firm Eurasia Group.
+She expects stricter enforcement at the local level, with tightened document checks as officials seek to avoid blame for lax implementation. "Export-control concerns could now trigger a formal exit ban rather than mere compliance friction," she added.
+Tech flows
+Technology professionals face some of the strongest restrictions. Beijing has already restricted exports of key technology and components, including rare earths, electric-vehicle batteries and solar panels, and the new rules give authorities a legal basis to enforce those export-control and counter-sanctions regimes directly at the border, said Guo Shan, partner at China-focused Hutong Research.
+Authorities could prevent Chinese citizens from leaving if their departure violates export control rules in a way that could endanger national industrial or technological security.
+"By tying export controls directly to exit rights, the rules give Beijing added leverage against foreign governments and firms," Eurasia's Wang said.
+Wealth flows
+The rules are already changing behavior among private bankers who help wealthy Chinese clients move money offshore. Some have been questioned at Chinese border checkpoints about the purpose of their visits and asked to file advance applications before arrival, according to offshore wealth management firms serving mainland Chinese clients.
+Bankers have grown warier of inviting mainland clients to events in Singapore, sometimes rebranding them as jewelry exhibitions rather than overseas-investment seminars to avoid scrutiny, according to a Singapore-based fund manager who advises wealthy Chinese clients on overseas holdings, who asked not to be named due to the sensitivity of the matter.
+Another Singapore-based banker, who asked to be identified only by her surname, Fan, due to the sensitivity of the matter, said some colleagues now travel to China without documents containing sensitive information. They send them separately by courier to avoid spot checks at customs that might give authorities access to client financial data.
+A provision under the new rules bars foreign companies from providing exit-entry immigration services within mainland China, and requires registered agencies to report public-sector employees and military personnel who illicitly apply for foreign nationality or overseas permanent residency.
+The rule raises costs for Hong Kong- and Singapore-based intermediaries handling immigration, education and real estate applications for mainland clients, pushing more of them toward opening onshore entities, Eurasia's Wang said.
+The new framework also gives local authorities firmer legal ground to restrict departures by people they consider to owe tax on offshore wealth — a practice that predates the rules but now carries fresh teeth. "Emigration and overseas property purchases have already slowed amid compliance uncertainty," Wang said.
+In July, China imposed a 20% income tax on assets moved into offshore trusts since 2023, closing a longstanding loophole used by wealthy families for asset protection and succession planning. Local authorities also reportedly started levying taxes on insurance policy income and salaries that Chinese citizens earned overseas.
+Earlier this month, regulators set a 20% tax owed by foreigners on dividends obtained from foreign-invested enterprises, removing an incentive Chinese entrepreneurs once had to acquire foreign citizenship to take advantage of the preferential tax exemption.
+"The various measures create the perception that laws may change without notice with retroactive effect, the tightening is coming from all sides," said Clifford Ng, partner at Zhonglun Law firm. Clients with no remaining family or fortune in China are now more likely to leave for good, while those with ties still in the country are choosing to comply.`,
+    bodyJa: `China's new border-control regulations are designed to keep two of its most valuable assets from leaving the country: money and talent.
+The rules, issued by the State Council and taking effect Tuesday, give authorities explicit legal power to block people from leaving the country – turning a patchwork of ad hoc travel bans into a permanent tool for stemming capital and talent flight.
+Authorities can bar Chinese nationals from departing over export-control or technology-transfer violations deemed to threaten national security. The new rules also add pressure on wealthy households already facing a widening tax dragnet, along with private bankers, trust companies, and immigration agencies that help move their money and families abroad.
+"The goal is to restrict outbound personnel flows, so as to keep home the capital and talent that might otherwise leave with them," said Neo Wang, China strategist at Evercore ISI. Both resources are critical to Beijing's push for innovation, productivity and new growth drivers as it competes head-to-head with the U.S.
+Beijing has tightened oversight of overseas travel by party officials and state-enterprise employees for years while increasingly extending the scrutiny into the private sector. The new rules would make the system more "permanent and give officials more confidence to intervene," said Dan Wang, China director at political consultancy firm Eurasia Group.
+She expects stricter enforcement at the local level, with tightened document checks as officials seek to avoid blame for lax implementation. "Export-control concerns could now trigger a formal exit ban rather than mere compliance friction," she added.
+Tech flows
+Technology professionals face some of the strongest restrictions. Beijing has already restricted exports of key technology and components, including rare earths, electric-vehicle batteries and solar panels, and the new rules give authorities a legal basis to enforce those export-control and counter-sanctions regimes directly at the border, said Guo Shan, partner at China-focused Hutong Research.
+Authorities could prevent Chinese citizens from leaving if their departure violates export control rules in a way that could endanger national industrial or technological security.
+"By tying export controls directly to exit rights, the rules give Beijing added leverage against foreign governments and firms," Eurasia's Wang said.
+Wealth flows
+The rules are already changing behavior among private bankers who help wealthy Chinese clients move money offshore. Some have been questioned at Chinese border checkpoints about the purpose of their visits and asked to file advance applications before arrival, according to offshore wealth management firms serving mainland Chinese clients.
+Bankers have grown warier of inviting mainland clients to events in Singapore, sometimes rebranding them as jewelry exhibitions rather than overseas-investment seminars to avoid scrutiny, according to a Singapore-based fund manager who advises wealthy Chinese clients on overseas holdings, who asked not to be named due to the sensitivity of the matter.
+Another Singapore-based banker, who asked to be identified only by her surname, Fan, due to the sensitivity of the matter, said some colleagues now travel to China without documents containing sensitive information. They send them separately by courier to avoid spot checks at customs that might give authorities access to client financial data.
+A provision under the new rules bars foreign companies from providing exit-entry immigration services within mainland China, and requires registered agencies to report public-sector employees and military personnel who illicitly apply for foreign nationality or overseas permanent residency.
+The rule raises costs for Hong Kong- and Singapore-based intermediaries handling immigration, education and real estate applications for mainland clients, pushing more of them toward opening onshore entities, Eurasia's Wang said.
+The new framework also gives local authorities firmer legal ground to restrict departures by people they consider to owe tax on offshore wealth — a practice that predates the rules but now carries fresh teeth. "Emigration and overseas property purchases have already slowed amid compliance uncertainty," Wang said.
+In July, China imposed a 20% income tax on assets moved into offshore trusts since 2023, closing a longstanding loophole used by wealthy families for asset protection and succession planning. Local authorities also reportedly started levying taxes on insurance policy income and salaries that Chinese citizens earned overseas.
+Earlier this month, regulators set a 20% tax owed by foreigners on dividends obtained from foreign-invested enterprises, removing an incentive Chinese entrepreneurs once had to acquire foreign citizenship to take advantage of the preferential tax exemption.
+"The various measures create the perception that laws may change without notice with retroactive effect, the tightening is coming from all sides," said Clifford Ng, partner at Zhonglun Law firm. Clients with no remaining family or fortune in China are now more likely to leave for good, while those with ties still in the country are choosing to comply.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/china-rich-talent-immigration-capital-outflows-border-control-.html",
+    publishedAt: "2026-09-15T04:35:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-says-ai-safety-fears-a-hoax-as-he-252e888e",
+    title: "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+    titleJa: "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+    summaryJa: "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+    bodyOriginal: `Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+- Published
+US President Donald Trump has said fears about the safety of AI are a "hoax", as he criticised calls to have more guardrails for the fast-moving technology.
+It comes after Jack Clark, a co-founder of AI giant Anthropic, told the BBC that a "kill switch" for dangerous AI that can be checked by a third party may need to be mandatory for the industry.
+Clark's comments followed warnings about the risks the technology poses to humanity that have been raised in recent days by several executives and staff at leading AI firms.
+Those concerns triggered a selloff in shares of some tech firms on Monday as investors weighed the impact of a potential slowdown in the development of AI.
+In a series of social media posts on Monday, the US president compared warnings about AI to the "Global Warming Scam", that he said was "being perpetrated by the Radical Left Dumocrats".
+Trump also called himself "the Hoax Buster", likening concerns about the safety of the technology to what he called "the RUSSIA, RUSSIA, RUSSIA HOAX".
+In another post he wrote: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
+And earlier on Monday, Trump posted on social media that the only "guardrails" needed for AI was a "strong and smart" president.
+Also on Monday, Chinese state media said experts had warned that "Washington's growing anxiety over China's rapid AI development appears to be increasingly distorting its policy priorities".
+"They know that China has become a strong competitor in AI, and worry that if the US slows down development or tightens regulation, China could catch up even faster," Xin Qiang, a professor of American Studies at Fudan University, told the Global Times.
+Clark, who is one of Anthropic's seven founders, said earlier on Monday that a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
+He added that "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
+Clark's comments add to the growing number of tech industry and political figures calling for better safeguards.
+On Monday, Microsoft AI became the latest major company to discuss limiting the models it is developing, as it published an outline document on what it called "humanist AI".
+The firm's chief executive Mustafa Suleyman told business news channel CNBC that it had been working on the new guidance for months and had decided to publish it now due to the current debate around the technology.
+In an indication of how concerns over the technology have been thrust into the spotlight, two high-profile figures on opposite sides of US politics are set to appear at the same event calling for a re-evaluation of AI policy.
+Former Trump chief strategist Steve Bannon and veteran progressive Senator Bernie Sanders are due to speak at the "Pro-Human Assembly" in Washington on Tuesday.
+According to its website the gathering "aims to define a shared vision and articulate a better, more human-centric path for AI development".
+Sanders told BBC's Newsnight last week that "we have got to do something immediately to stop the uncontrolled growth of AI".
+"You've got the existential threat of the possibility of humanity being wiped out," he said.
+The debate over the potential dangers posed by the technology intensified in recent days after a post by Jacob Coxon, a researcher who left Anthropic over concerns AI could wipe out humanity, went viral.
+In response, Anthropic scientist Evan Hubinger said he thought the possibility of AI causing human extinction "within the next decade" was more than 10%.
+This weekend, Anthropic chief executive Dario Amodei called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
+Amodei also said that any action to rein in AI should be done "without sacrificing commercial advantage".
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have also said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
+- Published1 hour ago
+- Published16 hours ago
+- Published17 hours ago`,
+    bodyJa: `Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+- Published
+US President Donald Trump has said fears about the safety of AI are a "hoax", as he criticised calls to have more guardrails for the fast-moving technology.
+It comes after Jack Clark, a co-founder of AI giant Anthropic, told the BBC that a "kill switch" for dangerous AI that can be checked by a third party may need to be mandatory for the industry.
+Clark's comments followed warnings about the risks the technology poses to humanity that have been raised in recent days by several executives and staff at leading AI firms.
+Those concerns triggered a selloff in shares of some tech firms on Monday as investors weighed the impact of a potential slowdown in the development of AI.
+In a series of social media posts on Monday, the US president compared warnings about AI to the "Global Warming Scam", that he said was "being perpetrated by the Radical Left Dumocrats".
+Trump also called himself "the Hoax Buster", likening concerns about the safety of the technology to what he called "the RUSSIA, RUSSIA, RUSSIA HOAX".
+In another post he wrote: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
+And earlier on Monday, Trump posted on social media that the only "guardrails" needed for AI was a "strong and smart" president.
+Also on Monday, Chinese state media said experts had warned that "Washington's growing anxiety over China's rapid AI development appears to be increasingly distorting its policy priorities".
+"They know that China has become a strong competitor in AI, and worry that if the US slows down development or tightens regulation, China could catch up even faster," Xin Qiang, a professor of American Studies at Fudan University, told the Global Times.
+Clark, who is one of Anthropic's seven founders, said earlier on Monday that a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
+He added that "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
+Clark's comments add to the growing number of tech industry and political figures calling for better safeguards.
+On Monday, Microsoft AI became the latest major company to discuss limiting the models it is developing, as it published an outline document on what it called "humanist AI".
+The firm's chief executive Mustafa Suleyman told business news channel CNBC that it had been working on the new guidance for months and had decided to publish it now due to the current debate around the technology.
+In an indication of how concerns over the technology have been thrust into the spotlight, two high-profile figures on opposite sides of US politics are set to appear at the same event calling for a re-evaluation of AI policy.
+Former Trump chief strategist Steve Bannon and veteran progressive Senator Bernie Sanders are due to speak at the "Pro-Human Assembly" in Washington on Tuesday.
+According to its website the gathering "aims to define a shared vision and articulate a better, more human-centric path for AI development".
+Sanders told BBC's Newsnight last week that "we have got to do something immediately to stop the uncontrolled growth of AI".
+"You've got the existential threat of the possibility of humanity being wiped out," he said.
+The debate over the potential dangers posed by the technology intensified in recent days after a post by Jacob Coxon, a researcher who left Anthropic over concerns AI could wipe out humanity, went viral.
+In response, Anthropic scientist Evan Hubinger said he thought the possibility of AI causing human extinction "within the next decade" was more than 10%.
+This weekend, Anthropic chief executive Dario Amodei called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
+Amodei also said that any action to rein in AI should be done "without sacrificing commercial advantage".
+The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have also said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
+- Published1 hour ago
+- Published16 hours ago
+- Published17 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T03:47:27+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png",
+    readTime: 10,
+  },
+  {
+    id: "weapon-shortfalls-hundreds-of-buildings-ae9ff7e1",
+    title: "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
+    titleJa: "Weapon shortfalls, 'hundreds' of buildings and aircraft damaged, $33.4 billion spent: the U.S. government tallies costs of the Iran war",
+    summaryJa: "The department revealed that the Iran war had cost an estimated $33.4 billion as of June 29.",
+    bodyOriginal: `Iranian strikes have damaged and destroyed "hundreds of buildings and structures" at U.S. bases in the Middle East, as well as "dozens" of U.S. aircraft as of the end of June, according to a government report.
+The Iran war cost an estimated $33.4 billion as of June 29, according to the U.S. Department of Defense, which released a Lead Inspector General report to Congress on the Iran war Monday tracking the conflict up to end-June. That includes $184 million in physical damage to U.S. diplomatic facilities in four countries—Iraq, Kuwait, Saudi Arabia, and the United Arab Emirates—from Iranian strikes, it said.
+The expenditure of U.S. munitions during the conflict said had "resulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply."
+U.S. President Donald Trump posted before the release of the report that the U.S. "is producing more Exquisite and Elite Weapons than at any time in our History."
+The report showed a fifth generation F-35A damaged by enemy fire, the first time any aircraft of its type had suffered battle damage. Four F-15E fighter jets and an A-10 ground attack aircraft were destroyed as of end-June.
+The F-35A costs $92 million per plane, while the F-15E cost $31.1 million dollars in 1998, according to the U.S. Air Force.
+Seven KC-135 refueling aircraft were damaged or destroyed, while seven helicopters and over 30 drones were lost.`,
+    bodyJa: `Iranian strikes have damaged and destroyed "hundreds of buildings and structures" at U.S. bases in the Middle East, as well as "dozens" of U.S. aircraft as of the end of June, according to a government report.
+The Iran war cost an estimated $33.4 billion as of June 29, according to the U.S. Department of Defense, which released a Lead Inspector General report to Congress on the Iran war Monday tracking the conflict up to end-June. That includes $184 million in physical damage to U.S. diplomatic facilities in four countries—Iraq, Kuwait, Saudi Arabia, and the United Arab Emirates—from Iranian strikes, it said.
+The expenditure of U.S. munitions during the conflict said had "resulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply."
+U.S. President Donald Trump posted before the release of the report that the U.S. "is producing more Exquisite and Elite Weapons than at any time in our History."
+The report showed a fifth generation F-35A damaged by enemy fire, the first time any aircraft of its type had suffered battle damage. Four F-15E fighter jets and an A-10 ground attack aircraft were destroyed as of end-June.
+The F-35A costs $92 million per plane, while the F-15E cost $31.1 million dollars in 1998, according to the U.S. Air Force.
+Seven KC-135 refueling aircraft were damaged or destroyed, while seven helicopters and over 30 drones were lost.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+    publishedAt: "2026-09-15T03:45:15+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "oil-and-treasury-yields-haven-t-moved-th-82166cd8",
+    title: "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+    titleJa: "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
+    summaryJa: "Oil and 10-year Treasury yields are moving in near lockstep, with their correlation at its strongest since 2019.",
+    bodyOriginal: `Oil prices and Treasury yields are moving in a tight lockstep, compounding the pressure on markets as investors grapple with worries over higher inflation.
+The one-month rolling correlation between front-month West Texas Intermediate crude and the 10-year Treasury yield has climbed to 0.96, according to BMO Capital Markets. That's the strongest positive relationship since June 2019, and before that October 2014.
+The synchronized moves come as oil prices have surged due to the conflict in the Middle East, with the benchmark 10-year Treasury yield briefly topping 5% Monday for the first time since October 2023.
+The exceedingly tight relationship means another leg higher in oil could increasingly reverberate across financial markets through higher inflation expectations, elevated Treasury yields and steep borrowing costs, while potentially keeping the Federal Reserve monetary policy tighter for longer, said industry veterans.
+"The main impact is that an oil shock now transmits more directly into financial conditions," said Billy Leung, investment strategist at Global X ETFs. "Higher crude can lift inflation expectations, delay Fed easing and raise the discount rate applied across equities and credit at the same time."
+"That makes energy headlines more consequential for broader markets and reduces some of the diversification investors would normally expect between commodities and government bonds," he added.
+The implications stretch across asset classes.
+Higher Treasury yields reduce the relative appeal of equities as they raise financing costs for businesses, while expensive oil squeezes margins for companies dependent on energy and transportation.
+Growth and technology stocks can be particularly exposed because their valuations depend heavily on earnings expected far into the future.
+A bond bear market?
+Ed Yardeni, president of Yardeni Research, said the chain increasingly runs from energy through inflation and bonds into monetary policy and equities.
+"It's certainly bad news that if oil prices continue to move higher, that would indicate that bond yields are moving higher, and then higher inflationary expectations raise the odds that we'll be in a tightening cycle when it comes to the Fed funds rate," Yardeni said.
+"Not one and done, but there there could be two or three rate hikes up ahead here, and that in turn can certainly be unsettling for the stock market."
+Komal Sri-Kumar, president of Sri-Kumar Global Strategies, is already steering investors away from assets most vulnerable to higher rates. He favors short-duration fixed income and defensive equities, while recommending physical assets including real estate, copper and gold as hedges. He said technology growth stocks are more vulnerable as interest rates remain elevated.
+"You're going to have a bond bear market, the yields headed up, and I don't see anything that stops the upward march of oil and natural gas prices either," said Sri-Kumar.
+Consumers face a similar double hit.
+Higher energy prices feed directly into gasoline costs and indirectly into goods and services transported by truck and rail, while rising Treasury yields filter into mortgages, auto loans and other borrowing costs, said Andy Lipow, president of Lipow Oil Associates.
+"Both increase in the WTI crude price, along with the increase in the treasury yield, are bad news for the consumer," Lipow said.
+For businesses, higher yields also raise the cost of financing inventories and investment, potentially weighing on capital-intensive projects such as the buildout of artificial intelligence and the energy infrastructure needed to support it, Lipow said.
+While oil and Treasurys have entered a tighter relationship, it may not be so if global tensions recede.
+Leung said the 0.96 correlation is unusually high but could unwind rapidly if geopolitical tensions ease or growth fears begin to dominate. Lipow similarly said the magnitude partly reflects the relatively short period since the U.S.-Iran conflict began.`,
+    bodyJa: `Oil prices and Treasury yields are moving in a tight lockstep, compounding the pressure on markets as investors grapple with worries over higher inflation.
+The one-month rolling correlation between front-month West Texas Intermediate crude and the 10-year Treasury yield has climbed to 0.96, according to BMO Capital Markets. That's the strongest positive relationship since June 2019, and before that October 2014.
+The synchronized moves come as oil prices have surged due to the conflict in the Middle East, with the benchmark 10-year Treasury yield briefly topping 5% Monday for the first time since October 2023.
+The exceedingly tight relationship means another leg higher in oil could increasingly reverberate across financial markets through higher inflation expectations, elevated Treasury yields and steep borrowing costs, while potentially keeping the Federal Reserve monetary policy tighter for longer, said industry veterans.
+"The main impact is that an oil shock now transmits more directly into financial conditions," said Billy Leung, investment strategist at Global X ETFs. "Higher crude can lift inflation expectations, delay Fed easing and raise the discount rate applied across equities and credit at the same time."
+"That makes energy headlines more consequential for broader markets and reduces some of the diversification investors would normally expect between commodities and government bonds," he added.
+The implications stretch across asset classes.
+Higher Treasury yields reduce the relative appeal of equities as they raise financing costs for businesses, while expensive oil squeezes margins for companies dependent on energy and transportation.
+Growth and technology stocks can be particularly exposed because their valuations depend heavily on earnings expected far into the future.
+A bond bear market?
+Ed Yardeni, president of Yardeni Research, said the chain increasingly runs from energy through inflation and bonds into monetary policy and equities.
+"It's certainly bad news that if oil prices continue to move higher, that would indicate that bond yields are moving higher, and then higher inflationary expectations raise the odds that we'll be in a tightening cycle when it comes to the Fed funds rate," Yardeni said.
+"Not one and done, but there there could be two or three rate hikes up ahead here, and that in turn can certainly be unsettling for the stock market."
+Komal Sri-Kumar, president of Sri-Kumar Global Strategies, is already steering investors away from assets most vulnerable to higher rates. He favors short-duration fixed income and defensive equities, while recommending physical assets including real estate, copper and gold as hedges. He said technology growth stocks are more vulnerable as interest rates remain elevated.
+"You're going to have a bond bear market, the yields headed up, and I don't see anything that stops the upward march of oil and natural gas prices either," said Sri-Kumar.
+Consumers face a similar double hit.
+Higher energy prices feed directly into gasoline costs and indirectly into goods and services transported by truck and rail, while rising Treasury yields filter into mortgages, auto loans and other borrowing costs, said Andy Lipow, president of Lipow Oil Associates.
+"Both increase in the WTI crude price, along with the increase in the treasury yield, are bad news for the consumer," Lipow said.
+For businesses, higher yields also raise the cost of financing inventories and investment, potentially weighing on capital-intensive projects such as the buildout of artificial intelligence and the energy infrastructure needed to support it, Lipow said.
+While oil and Treasurys have entered a tighter relationship, it may not be so if global tensions recede.
+Leung said the 0.96 correlation is unusually high but could unwind rapidly if geopolitical tensions ease or growth fears begin to dominate. Lipow similarly said the magnitude partly reflects the relatively short period since the U.S.-Iran conflict began.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
+    publishedAt: "2026-09-15T03:30:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "ai-regulation-faces-political-deadlock-a-8a7bc9b2",
+    title: "AI regulation faces political deadlock as calls grow for Congress to act",
+    titleJa: "AI regulation faces political deadlock as calls grow for Congress to act",
+    summaryJa: "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
+    bodyOriginal: `AI regulation faces political deadlock as calls grow for Congress to act
+- Published
+When President Donald Trump responded to mounting calls for a slowdown in the development of artificial intelligence (AI) on Monday, he was unequivocal.
+"AI taking over the World, destroying Humanity, and all other things bad, is a HOAX," he wrote on social media. He earlier argued that "the only control or 'guardrails' that AI needs" is a "strong and smart" president.
+Trump's view, unsurprisingly, is not shared by senior Democrats in Congress. It is also opposed by leading figures in the AI sector, who have in recent days issued stark safety warnings and made the case for government regulation.
+In the US, however, new safety legislation on AI is unlikely anytime soon.
+Any bill would have to pass in both the House of Representatives and the Senate to become law. Trump's staunch opposition to new guardrails on AI means the Republican Party, which has a majority in both chambers, is unlikely to break from him and back restrictions or government controls.
+And even if they did, whatever bill is passed would most likely require the president's signature to take effect. Trump's dismissal of the need for regulations on Monday effectively hit pause on any hope for executive action.
+AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+- Published4 hours ago
+UK government rejects 'kill switch' idea for dangerous AI
+- Published3 days ago
+Beyond this, a more immediate obstacle to any movement in Congress is the clock.
+The House is set to enter recess at the end of the week until after the midterm elections in early November. Some leading Democrats are calling for that recess to be delayed until AI safeguards can be passed in the chamber.
+"Congress should not leave town until something is done decisively to protect the safety and the wellbeing of the American people," Democratic House Minority Leader Hakeem Jeffries told reporters on Monday.
+A group of House Democrats calling for Congress to be given more time to debate the issue have also written a letter to Republican Speaker Mike Johnson, who would ultimately decide on delaying the recess.
+"Reasonable minds may disagree about precisely how Congress should regulate this rapidly evolving technology," the group said. "We cannot disagree about the imperative for Congress to act."
+Over the weekend, Republican congresswoman Anna Paulina Luna suggested on X that "Congress SHOULD convene a special session" on the issue.
+But it is highly unlikely the recess will be delayed or a special session convened in the coming days. Speaker Johnson, who on Monday faced a barrage of questions about AI from reporters in the halls of Congress, gave no sign he intended to move quickly this week.
+When asked if the House would take action on AI concerns before breaking for the midterms, he replied: "This is a very complex issue."
+He said Trump would hold a meeting at the White House soon with AI executives to discuss "the responsibility of the companies to maintain safety and what role, if any, the government has to play in that".
+"We want to emphasise the necessity of [AI companies] providing safe products and self-regulating," Johnson said, before adding: "There is also a role potentially for Congress to play."
+What that role could look like is unclear - and is a contested question among those in Congress.
+No consensus and competing bills
+While Democrats are pushing for more time to address AI safety, they are themselves divided on how best to regulate AI.
+Even if the party were to win control of both chambers of Congress in November's elections, there are no guarantees of swift action as it would have to unite behind one proposal.
+And there are numerous legislative proposals already on Capitol Hill that are designed to address AI safety, ranging from independent reviews, to a federal "kill switch", to a total moratorium on data centres proposed by Senator Bernie Sanders.
+These diverging proposals point to a lack of consensus in Congress - but also an urgency among some lawmakers to take action.
+Republican Senate Majority Leader John Thune and his Democratic colleague Amy Klobuchar are working on a bill that would force some AI companies to submit to federal oversight.
+"You don't want to stifle innovation," Thune said on Monday, "but I think you also want to make sure that the more advanced threats can be mitigated."
+Democratic congresswoman Lori Trahan, meanwhile, has spent months working on a different bipartisan proposal in the House that would give the government the power to halt the use of an AI model if officials find there is an "imminent catastrophic risk".
+"The federal government needs to put guardrails in place," she told the BBC, warning that the technology would eventually impact every aspect of society. "I don't think we have any more time to wait. This is all hands on deck."
+Trahan has worked on her proposed legislation, the Frontier Act, jointly with Republican Jay Obernolte and, among other things, it would require independent audits of AI research labs.
+But Trahan recognised that any movement this week was unlikely.
+Calls for self-regulation
+Some leading Republicans, including Speaker Johnson, have often referred to "self-regulation" when discussing government action and called on the companies to take responsibility for AI safety.
+One of Trump's top AI advisers, David Sacks, told the BBC's US partner CBS News on Monday that some of the existential warnings by insiders had been overblown. "I think this is becoming a panic," he said.
+"First and foremost, it is on them to make their products safe," Sacks said. "They should tell us how they should do that. If they can't do that, they should step aside for people who can do that."
+"Why are you acting like this is something that you can't control?" he said, referring to Anthropic's boss Dario Amodei, who has called for a slowdown in development. "If you can't control it, then don't do it."
+Some experts share the view that, in the short-term at least, it is up to the AI companies to regulate themselves responsibly.
+"You might want an act of Congress, and I would love a congressionally mandated regime that requires safety and testing and bias testing," said Asad Ramzanali, the director of AI & Technology Policy at Vanderbilt University.
+"But absent that action, the companies have autonomy."
+Others have expressed scepticism at the recent flurry of warnings by AI staffers.
+Trevor Traina, a tech executive who was a diplomat during Trump's first term, said: "I don't think the typical citizen has encountered anything scary or really problematic with AI."
+"We're relying on the tweets of a half-dozen people who are all vying for perceived supremacy," he said. "The cynic in me thinks, 'Are they are really concerned, or are they trying to prove which model is the most awesome?'"
+Alexandra Reeve Givens, who previously worked in government and now leads the US non-profit the Center for Democracy and Technology, said she did not think meaningful federal AI regulation would pass in the foreseeable future.
+While the Trump administration has set up an entirely voluntary framework for AI companies to submit their models and tools for government assessment, Givens noted that the framework itself remains a secret.
+"There's no clear standard to make sure that the approach is even grounded in the rule of law," she said.
+Appeals from various groups to release the framework have so far gone ignored.
+The White House approach, combined with a lack of political will and consensus, makes passing laws around AI difficult.
+"There is no question that federal legislation is challenging in this climate, but Congress also has to grapple with which of the many types of AI risk need to be addressed," Givens said.
+"It's not that AI is ungovernable, it's that each risk needs a tailored approach."
+- Published12 hours ago
+- Published12 hours ago`,
+    bodyJa: `AI regulation faces political deadlock as calls grow for Congress to act
+- Published
+When President Donald Trump responded to mounting calls for a slowdown in the development of artificial intelligence (AI) on Monday, he was unequivocal.
+"AI taking over the World, destroying Humanity, and all other things bad, is a HOAX," he wrote on social media. He earlier argued that "the only control or 'guardrails' that AI needs" is a "strong and smart" president.
+Trump's view, unsurprisingly, is not shared by senior Democrats in Congress. It is also opposed by leading figures in the AI sector, who have in recent days issued stark safety warnings and made the case for government regulation.
+In the US, however, new safety legislation on AI is unlikely anytime soon.
+Any bill would have to pass in both the House of Representatives and the Senate to become law. Trump's staunch opposition to new guardrails on AI means the Republican Party, which has a majority in both chambers, is unlikely to break from him and back restrictions or government controls.
+And even if they did, whatever bill is passed would most likely require the president's signature to take effect. Trump's dismissal of the need for regulations on Monday effectively hit pause on any hope for executive action.
+AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+- Published4 hours ago
+UK government rejects 'kill switch' idea for dangerous AI
+- Published3 days ago
+Beyond this, a more immediate obstacle to any movement in Congress is the clock.
+The House is set to enter recess at the end of the week until after the midterm elections in early November. Some leading Democrats are calling for that recess to be delayed until AI safeguards can be passed in the chamber.
+"Congress should not leave town until something is done decisively to protect the safety and the wellbeing of the American people," Democratic House Minority Leader Hakeem Jeffries told reporters on Monday.
+A group of House Democrats calling for Congress to be given more time to debate the issue have also written a letter to Republican Speaker Mike Johnson, who would ultimately decide on delaying the recess.
+"Reasonable minds may disagree about precisely how Congress should regulate this rapidly evolving technology," the group said. "We cannot disagree about the imperative for Congress to act."
+Over the weekend, Republican congresswoman Anna Paulina Luna suggested on X that "Congress SHOULD convene a special session" on the issue.
+But it is highly unlikely the recess will be delayed or a special session convened in the coming days. Speaker Johnson, who on Monday faced a barrage of questions about AI from reporters in the halls of Congress, gave no sign he intended to move quickly this week.
+When asked if the House would take action on AI concerns before breaking for the midterms, he replied: "This is a very complex issue."
+He said Trump would hold a meeting at the White House soon with AI executives to discuss "the responsibility of the companies to maintain safety and what role, if any, the government has to play in that".
+"We want to emphasise the necessity of [AI companies] providing safe products and self-regulating," Johnson said, before adding: "There is also a role potentially for Congress to play."
+What that role could look like is unclear - and is a contested question among those in Congress.
+No consensus and competing bills
+While Democrats are pushing for more time to address AI safety, they are themselves divided on how best to regulate AI.
+Even if the party were to win control of both chambers of Congress in November's elections, there are no guarantees of swift action as it would have to unite behind one proposal.
+And there are numerous legislative proposals already on Capitol Hill that are designed to address AI safety, ranging from independent reviews, to a federal "kill switch", to a total moratorium on data centres proposed by Senator Bernie Sanders.
+These diverging proposals point to a lack of consensus in Congress - but also an urgency among some lawmakers to take action.
+Republican Senate Majority Leader John Thune and his Democratic colleague Amy Klobuchar are working on a bill that would force some AI companies to submit to federal oversight.
+"You don't want to stifle innovation," Thune said on Monday, "but I think you also want to make sure that the more advanced threats can be mitigated."
+Democratic congresswoman Lori Trahan, meanwhile, has spent months working on a different bipartisan proposal in the House that would give the government the power to halt the use of an AI model if officials find there is an "imminent catastrophic risk".
+"The federal government needs to put guardrails in place," she told the BBC, warning that the technology would eventually impact every aspect of society. "I don't think we have any more time to wait. This is all hands on deck."
+Trahan has worked on her proposed legislation, the Frontier Act, jointly with Republican Jay Obernolte and, among other things, it would require independent audits of AI research labs.
+But Trahan recognised that any movement this week was unlikely.
+Calls for self-regulation
+Some leading Republicans, including Speaker Johnson, have often referred to "self-regulation" when discussing government action and called on the companies to take responsibility for AI safety.
+One of Trump's top AI advisers, David Sacks, told the BBC's US partner CBS News on Monday that some of the existential warnings by insiders had been overblown. "I think this is becoming a panic," he said.
+"First and foremost, it is on them to make their products safe," Sacks said. "They should tell us how they should do that. If they can't do that, they should step aside for people who can do that."
+"Why are you acting like this is something that you can't control?" he said, referring to Anthropic's boss Dario Amodei, who has called for a slowdown in development. "If you can't control it, then don't do it."
+Some experts share the view that, in the short-term at least, it is up to the AI companies to regulate themselves responsibly.
+"You might want an act of Congress, and I would love a congressionally mandated regime that requires safety and testing and bias testing," said Asad Ramzanali, the director of AI & Technology Policy at Vanderbilt University.
+"But absent that action, the companies have autonomy."
+Others have expressed scepticism at the recent flurry of warnings by AI staffers.
+Trevor Traina, a tech executive who was a diplomat during Trump's first term, said: "I don't think the typical citizen has encountered anything scary or really problematic with AI."
+"We're relying on the tweets of a half-dozen people who are all vying for perceived supremacy," he said. "The cynic in me thinks, 'Are they are really concerned, or are they trying to prove which model is the most awesome?'"
+Alexandra Reeve Givens, who previously worked in government and now leads the US non-profit the Center for Democracy and Technology, said she did not think meaningful federal AI regulation would pass in the foreseeable future.
+While the Trump administration has set up an entirely voluntary framework for AI companies to submit their models and tools for government assessment, Givens noted that the framework itself remains a secret.
+"There's no clear standard to make sure that the approach is even grounded in the rule of law," she said.
+Appeals from various groups to release the framework have so far gone ignored.
+The White House approach, combined with a lack of political will and consensus, makes passing laws around AI difficult.
+"There is no question that federal legislation is challenging in this climate, but Congress also has to grapple with which of the many types of AI risk need to be addressed," Givens said.
+"It's not that AI is ungovernable, it's that each risk needs a tailored approach."
+- Published12 hours ago
+- Published12 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T02:50:36+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "i-got-paid-5-000-to-move-to-a-place-i-d-05e5dc8c",
+    title: "I got paid $5,000 to move to a place I'd never heard of",
+    titleJa: "I got paid $5,000 to move to a place I'd never heard of",
+    summaryJa: "Relocation schemes offer support for people who want to swap big cities for a cheaper, quieter life.",
+    bodyOriginal: `I got paid $5,000 to move to a place I'd never heard of
+- Published
+When Brianna Beyrouti looks back on her former life in the city of Portland, Oregon, she says she had been financially "drowning".
+"I was absolutely living paycheque to paycheque. Every time the smallest thing came up, it was like 'Oh, gosh, the kids need shoes, how am I going to afford that?' As a single parent, everything falls on my shoulders."
+Last year, Brianna left Portland and its metropolitan population of 2.5 million people.
+She and her two children moved 2,000 miles east to Muncie, Indiana, a small city with 65,000 people, a university and lots of open space, taking advantage of a scheme that contributed $5,000 towards the cost of the move to boost population growth.
+The relocation has been a revelation for her finances. She continues to work remotely for the same bank, so her annual salary of $107,000 (£79,000) is unchanged, but she has been able to buy a home for the first time. And her mortgage is less than she used to have to pay in rent.
+In Portland she was paying rent of $1,290 a month for an apartment, while the combined cost of her mortgage, home insurance and property tax for her detached home in Muncie is $1,100.
+Add the fact that state income tax is lower in Indiana, and that her car insurance and energy bills have also fallen, and Brianna says she is $600 a month better off.
+"I'm able to live my life more than I was before," she says. "When my kids want something, I'm much more inclined to say yes. My quality of life has increased dramatically."
+Cash incentive
+Brianna is not alone in swapping a big city for a smaller one.
+As the high cost of living continues to bite in the US, many of the biggest cities are seeing their populations fall, as people leave in search of cheaper property.
+A 2025 report from the National Association of Realtors found that for people moving to a different state, affordability was their primary reason., external
+As a result, big cities from the likes of New York and Los Angeles to Portland, Oregon have seen a dip in their populations, external in recent years, further fuelled by the greatly increased acceptance of remote working since the Covid-19 pandemic.
+By contrast, some small towns and cities across the US, such as Muncie, are seeing their populations rise after decades of decline. The number of people who live in Muncie hit 65,466 last year, official figures showed., external This is up from 65,194 in 2020, but still way down on its population of 71,828 in 1990.
+Free cinema tickets and wine
+To help it stand out from the crowd, and encourage remote workers to move there from outside Indiana, Muncie's local council offers them $5,000 in cash to cover their relocation costs.
+It does this via a website called MakeMyMove, which lists several such relocation support schemes offered by similar small cities and towns across the US. These pay MakeMyMove a subscription fee.
+Other incentives locations offer potential new residents are complementary cinema tickets, restaurant vouchers, and even free bottles of wine.
+Brianna and her children are one of around 100 families to have moved to Muncie through the MakeMyMove programme. She says she hadn't heard of the city before.
+Across the US, MakeMyMove says it helped 1,000 people in total relocate last year, and is on target to increase that to 1,500 in 2026.
+Scientist Elena Chrysostomou also used a relocation support scheme to swap a big city for smalltown US. In 2024 she relocated from San Diego, California, to Jacksonville, a town of 17,700 people in rural Illinois.
+The move was backed by the Jacksonville Regional Economic Development Corporation (JREDC), which gave her $5,000 in cash, plus a "quality of life package" worth $4,000 that includes free gym memberships and golf passes.
+The JREDC says that while the region is "already a great place to live", the support scheme helps to "sweeten the deal".
+Elena was spending $3,000 renting a one-bedroom apartment in San Diego, but she now owns a three-bedroom home, with a mortgage of $1,868. At the same time, her salary has gone up 22% after she changed jobs, and her commute has gone down from a 15-minute drive to one of just one minute.
+"I never thought that I'd be able to afford a house on my own, I always thought I'd need a partner, and even then, in San Diego, it would be so tough," she says.
+"It's just more freeing. There's more security and independence."
+While both she and Brianna have no regrets, they do admit to some drawbacks to their new lives. These include the narrower range of activities and restaurant choices, leaving behind friends and family, and for Brianna the difficulty of settling her children into new schools.
+And while in Portland Brianna enjoyed walking to parks and shops, she now relies on her car to get anywhere.
+But overall she says she is thrilled. "I have the biggest savings I've ever had in my life, and I'm a homeowner, and I can do things with my kids – we actually went on vacation for the first time in my youngest's life."
+- Published30 June
+- Published28 May`,
+    bodyJa: `I got paid $5,000 to move to a place I'd never heard of
+- Published
+When Brianna Beyrouti looks back on her former life in the city of Portland, Oregon, she says she had been financially "drowning".
+"I was absolutely living paycheque to paycheque. Every time the smallest thing came up, it was like 'Oh, gosh, the kids need shoes, how am I going to afford that?' As a single parent, everything falls on my shoulders."
+Last year, Brianna left Portland and its metropolitan population of 2.5 million people.
+She and her two children moved 2,000 miles east to Muncie, Indiana, a small city with 65,000 people, a university and lots of open space, taking advantage of a scheme that contributed $5,000 towards the cost of the move to boost population growth.
+The relocation has been a revelation for her finances. She continues to work remotely for the same bank, so her annual salary of $107,000 (£79,000) is unchanged, but she has been able to buy a home for the first time. And her mortgage is less than she used to have to pay in rent.
+In Portland she was paying rent of $1,290 a month for an apartment, while the combined cost of her mortgage, home insurance and property tax for her detached home in Muncie is $1,100.
+Add the fact that state income tax is lower in Indiana, and that her car insurance and energy bills have also fallen, and Brianna says she is $600 a month better off.
+"I'm able to live my life more than I was before," she says. "When my kids want something, I'm much more inclined to say yes. My quality of life has increased dramatically."
+Cash incentive
+Brianna is not alone in swapping a big city for a smaller one.
+As the high cost of living continues to bite in the US, many of the biggest cities are seeing their populations fall, as people leave in search of cheaper property.
+A 2025 report from the National Association of Realtors found that for people moving to a different state, affordability was their primary reason., external
+As a result, big cities from the likes of New York and Los Angeles to Portland, Oregon have seen a dip in their populations, external in recent years, further fuelled by the greatly increased acceptance of remote working since the Covid-19 pandemic.
+By contrast, some small towns and cities across the US, such as Muncie, are seeing their populations rise after decades of decline. The number of people who live in Muncie hit 65,466 last year, official figures showed., external This is up from 65,194 in 2020, but still way down on its population of 71,828 in 1990.
+Free cinema tickets and wine
+To help it stand out from the crowd, and encourage remote workers to move there from outside Indiana, Muncie's local council offers them $5,000 in cash to cover their relocation costs.
+It does this via a website called MakeMyMove, which lists several such relocation support schemes offered by similar small cities and towns across the US. These pay MakeMyMove a subscription fee.
+Other incentives locations offer potential new residents are complementary cinema tickets, restaurant vouchers, and even free bottles of wine.
+Brianna and her children are one of around 100 families to have moved to Muncie through the MakeMyMove programme. She says she hadn't heard of the city before.
+Across the US, MakeMyMove says it helped 1,000 people in total relocate last year, and is on target to increase that to 1,500 in 2026.
+Scientist Elena Chrysostomou also used a relocation support scheme to swap a big city for smalltown US. In 2024 she relocated from San Diego, California, to Jacksonville, a town of 17,700 people in rural Illinois.
+The move was backed by the Jacksonville Regional Economic Development Corporation (JREDC), which gave her $5,000 in cash, plus a "quality of life package" worth $4,000 that includes free gym memberships and golf passes.
+The JREDC says that while the region is "already a great place to live", the support scheme helps to "sweeten the deal".
+Elena was spending $3,000 renting a one-bedroom apartment in San Diego, but she now owns a three-bedroom home, with a mortgage of $1,868. At the same time, her salary has gone up 22% after she changed jobs, and her commute has gone down from a 15-minute drive to one of just one minute.
+"I never thought that I'd be able to afford a house on my own, I always thought I'd need a partner, and even then, in San Diego, it would be so tough," she says.
+"It's just more freeing. There's more security and independence."
+While both she and Brianna have no regrets, they do admit to some drawbacks to their new lives. These include the narrower range of activities and restaurant choices, leaving behind friends and family, and for Brianna the difficulty of settling her children into new schools.
+And while in Portland Brianna enjoyed walking to parks and shops, she now relies on her car to get anywhere.
+But overall she says she is thrilled. "I have the biggest savings I've ever had in my life, and I'm a homeowner, and I can do things with my kids – we actually went on vacation for the first time in my youngest's life."
+- Published30 June
+- Published28 May`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-14T23:08:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aca/live/2f2837d0-b016-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "pubs-in-england-and-wales-to-allow-digit-613be4b8",
+    title: "Pubs in England and Wales to allow digital ID apps to prove age",
+    titleJa: "Pubs in England and Wales to allow digital ID apps to prove age",
+    summaryJa: "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
+    bodyOriginal: `Pubs in England and Wales to allow digital ID apps to prove age
+- Published
+Alcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.
+Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.
+Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.
+The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.
+The plan will be technology-agnostic, meaning that the government is not setting out in detail how each app must work.
+It argues that under the voluntary digital ID scheme, drinkers would share fewer personal details with a venue or shop - such as tapping their phone on a reader or displaying a scannable QR code rather than handing over an official document.
+The apps will also need to guard against customers borrowing devices from older friends and relatives, and ensure the ID app belongs to the person using it.
+Yoti's digital ID app, for example, will only let a user log in if a scan of their face matches that of the person who signed up for the app.
+The app then generates a QR code that can be scanned by a business with a free checker app, which tells them the person's age.
+This is time-limited to make duping or sharing the QR code more difficult.
+Digital government minister Stephanie Peacock said having the option for digital ID would "mean you do not need to carry a physical ID, nor hand over sensitive personal information" meaning people could "feel safer on a night out'".
+Allen Simpson, chief executive of trade body UKHospitality, said the new rules were a "positive step".
+He added the industry would work with government to make sure the scheme's roll-out would not be "burdensome" for the hospitality sector.
+This would include ensuring there were multiple options for suppliers and that it was cost-efficient, Simpson said.
+Access concerns
+The government wants digital ID apps under its scheme to work together so customers do not need to use different apps in different venues.
+It also wants the services to work offline and accessible even without mobile data or a Wi-Fi connection.
+In future, the digital proof of age scheme could be extended to cover tobacco and vapes.
+But digital rights campaigners have said such measures could lead to the exclusion of some groups.
+Jasleen Chaggar of Big Brother Watch said while having multiple ways to prove your identity was helpful, the Government should ensure that digital ID did not become effectively mandatory "as it would shut out millions of people".
+"Many people have legitimate reasons for relying on physical ID, whether out of choice, privacy and security concerns, or because they lack the digital skills or means to use digital ID," she said.
+"The Government should expressly prohibit businesses from requiring digital IDs for age checks without offering reasonable alternatives," she added.
+The new rules come after a wider digital ID programme promoted by former Prime Minister Sir Keir Starmer proved controversial, and was later abandoned by Andy Burnham.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Pubs in England and Wales to allow digital ID apps to prove age
+- Published
+Alcohol buyers will be able to use a digital ID app on their phones to prove their age under new rules introduced on Tuesday.
+Pubs and shops in England and Wales can use the tech in addition to current physical forms of ID - with the government saying a digital option will make age-checks quicker and more secure for customers and staff.
+Customers will be able to choose ID apps from a range of suppliers such as the Post Office, Yoti or Luciditi, provided they are on a government-approved list.
+The change means businesses will no longer be required to let people use physical ID, but the government contends most establishments would.
+The plan will be technology-agnostic, meaning that the government is not setting out in detail how each app must work.
+It argues that under the voluntary digital ID scheme, drinkers would share fewer personal details with a venue or shop - such as tapping their phone on a reader or displaying a scannable QR code rather than handing over an official document.
+The apps will also need to guard against customers borrowing devices from older friends and relatives, and ensure the ID app belongs to the person using it.
+Yoti's digital ID app, for example, will only let a user log in if a scan of their face matches that of the person who signed up for the app.
+The app then generates a QR code that can be scanned by a business with a free checker app, which tells them the person's age.
+This is time-limited to make duping or sharing the QR code more difficult.
+Digital government minister Stephanie Peacock said having the option for digital ID would "mean you do not need to carry a physical ID, nor hand over sensitive personal information" meaning people could "feel safer on a night out'".
+Allen Simpson, chief executive of trade body UKHospitality, said the new rules were a "positive step".
+He added the industry would work with government to make sure the scheme's roll-out would not be "burdensome" for the hospitality sector.
+This would include ensuring there were multiple options for suppliers and that it was cost-efficient, Simpson said.
+Access concerns
+The government wants digital ID apps under its scheme to work together so customers do not need to use different apps in different venues.
+It also wants the services to work offline and accessible even without mobile data or a Wi-Fi connection.
+In future, the digital proof of age scheme could be extended to cover tobacco and vapes.
+But digital rights campaigners have said such measures could lead to the exclusion of some groups.
+Jasleen Chaggar of Big Brother Watch said while having multiple ways to prove your identity was helpful, the Government should ensure that digital ID did not become effectively mandatory "as it would shut out millions of people".
+"Many people have legitimate reasons for relying on physical ID, whether out of choice, privacy and security concerns, or because they lack the digital skills or means to use digital ID," she said.
+"The Government should expressly prohibit businesses from requiring digital IDs for age checks without offering reasonable alternatives," she added.
+The new rules come after a wider digital ID programme promoted by former Prime Minister Sir Keir Starmer proved controversial, and was later abandoned by Andy Burnham.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-14T23:07:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
+    readTime: 9,
+  },
+  {
     id: "trump-phones-nvidia-s-huang-at-all-in-su-0778b85f",
     title: "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
     titleJa: "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
@@ -1699,466 +2195,6 @@ WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark’s Rick Hei
     category: "テクノロジー",
     imageUrl: "https://images.mktw.net/im-38570314",
     readTime: 2,
-  },
-  {
-    id: "vessel-struck-in-strait-of-hormuz-ukmto-bf737bb5",
-    title: "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-    titleJa: "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-    summaryJa: "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
-    bodyOriginal: `A vessel was struck in the Strait of Hormuz, the United Kingdom Maritime Trade Operations Centre said Sunday, as direct negotiations between the U.S. and Iran appeared no nearer to resuming.
-The British maritime security alert service said in a post on X that it received a report of the attack late on Saturday by an unknown projectile while the vessel was transiting the Strait.
-A fire broke out onboard, and local authorities were on the scene helping to evacuate crew members, UKMTO said.
-Meanwhile, a senior Iranian official dismissed hopes of fresh talks.
-"No negotiations. Until Iran's terms are met, talks are futile," Ebrahim Azizi, head of the Iranian parliament's national security committee, said in a post on X.
-But Iran has been reaching out to neighboring countries, despite months of striking them in retaliation for U.S. attacks.
-A senior Iranian government official and Gulf diplomat told MS NOW that officials from Iran and Gulf countries would meet in Oman's capital, Muscat, on Monday to sign an agreement establishing an Iran-Oman shipping route through the Strait of Hormuz.
-The official added that there are no current negotiations taking place with the U.S.
-Speaking at the BRICS Summit in New Delhi on Friday, Iranian President Masoud Pezeshkian said his country will not surrender, adding that it has resisted aggression from the U.S. and Israel.
-"Iran has successfully stood against Israel and the U.S.," Pezeshkian said.
-"Since we are seeking truth and justice, we will not yield in front of bullying arrogance," he added.
-Pezeshkian's comments over the weekend came on the heels of U.S. President Donald Trump's assertion that Iran would have wiped out Israel and the Middle East, and started hitting U.S. cities, if Washington had not taken military action against Iran.
-"If I had it to do again, I would do exactly what I did," Trump said on Thursday.
-Tit-for-tat attacks
-There have been numerous tit-for-tat attacks on shipping in the Strait of Hormuz in recent weeks.
-U.S. Central Command, or CENTCOM, said on Wednesday it destroyed 10 Iranian tankers the preceding week.
-On Saturday, CENTCOM said that its forces have redirected 100 commercial vessels over the past 60 days since it resumed a naval blockade against Iran.
-"ZERO ships have passed through the blockade without U.S. forces allowing," CENTCOM said in a post on X.
-The war in Iran will likely end soon after November's midterm elections, Trump said Saturday. He also predicted that energy prices would fall sharply once that happens.
-"I think very soon, I think it'll be right after the midterms, actually," Trump said on a trip to Ireland when asked by reporters when the Iran war is likely to end. "I would say shortly, and oil will come tumbling down when that happens."
-Oil prices retreated on Friday, but notched sharp weekly gains after soaring above $100 a barrel for the first time in months over the continuing unrest in the Middle East.
-Brent crude oil futures, the global benchmark, settled down 2.8% at $104.61 a barrel. U.S. West Texas Intermediate was down 2.4% to settle at $100.05 per barrel. On Thursday, Brent crude peaked at around $108 a barrel, while WTI hit more than $104.
-Shipments of oil and other cargoes through the critical Strait of Hormuz separating Iran and Oman have slowed to a trickle since the U.S. and Israel began their war on Iran on Feb. 28, stranding ships and seafarers for weeks or months at a time.
-Saudi Arabia has been relying on its East-West crude oil pipeline to bypass the Strait of Hormuz. But the kingdom said Friday that it shut the facility down as a precautionary measure after multiple attacks by drones launched from Iraq.
-The drones targeted the pipeline in the Riyadh and Medina regions Thursday morning, causing fires and some damage, the Saudi government said. Several people were injured in the attacks, it said.`,
-    bodyJa: `A vessel was struck in the Strait of Hormuz, the United Kingdom Maritime Trade Operations Centre said Sunday, as direct negotiations between the U.S. and Iran appeared no nearer to resuming.
-The British maritime security alert service said in a post on X that it received a report of the attack late on Saturday by an unknown projectile while the vessel was transiting the Strait.
-A fire broke out onboard, and local authorities were on the scene helping to evacuate crew members, UKMTO said.
-Meanwhile, a senior Iranian official dismissed hopes of fresh talks.
-"No negotiations. Until Iran's terms are met, talks are futile," Ebrahim Azizi, head of the Iranian parliament's national security committee, said in a post on X.
-But Iran has been reaching out to neighboring countries, despite months of striking them in retaliation for U.S. attacks.
-A senior Iranian government official and Gulf diplomat told MS NOW that officials from Iran and Gulf countries would meet in Oman's capital, Muscat, on Monday to sign an agreement establishing an Iran-Oman shipping route through the Strait of Hormuz.
-The official added that there are no current negotiations taking place with the U.S.
-Speaking at the BRICS Summit in New Delhi on Friday, Iranian President Masoud Pezeshkian said his country will not surrender, adding that it has resisted aggression from the U.S. and Israel.
-"Iran has successfully stood against Israel and the U.S.," Pezeshkian said.
-"Since we are seeking truth and justice, we will not yield in front of bullying arrogance," he added.
-Pezeshkian's comments over the weekend came on the heels of U.S. President Donald Trump's assertion that Iran would have wiped out Israel and the Middle East, and started hitting U.S. cities, if Washington had not taken military action against Iran.
-"If I had it to do again, I would do exactly what I did," Trump said on Thursday.
-Tit-for-tat attacks
-There have been numerous tit-for-tat attacks on shipping in the Strait of Hormuz in recent weeks.
-U.S. Central Command, or CENTCOM, said on Wednesday it destroyed 10 Iranian tankers the preceding week.
-On Saturday, CENTCOM said that its forces have redirected 100 commercial vessels over the past 60 days since it resumed a naval blockade against Iran.
-"ZERO ships have passed through the blockade without U.S. forces allowing," CENTCOM said in a post on X.
-The war in Iran will likely end soon after November's midterm elections, Trump said Saturday. He also predicted that energy prices would fall sharply once that happens.
-"I think very soon, I think it'll be right after the midterms, actually," Trump said on a trip to Ireland when asked by reporters when the Iran war is likely to end. "I would say shortly, and oil will come tumbling down when that happens."
-Oil prices retreated on Friday, but notched sharp weekly gains after soaring above $100 a barrel for the first time in months over the continuing unrest in the Middle East.
-Brent crude oil futures, the global benchmark, settled down 2.8% at $104.61 a barrel. U.S. West Texas Intermediate was down 2.4% to settle at $100.05 per barrel. On Thursday, Brent crude peaked at around $108 a barrel, while WTI hit more than $104.
-Shipments of oil and other cargoes through the critical Strait of Hormuz separating Iran and Oman have slowed to a trickle since the U.S. and Israel began their war on Iran on Feb. 28, stranding ships and seafarers for weeks or months at a time.
-Saudi Arabia has been relying on its East-West crude oil pipeline to bypass the Strait of Hormuz. But the kingdom said Friday that it shut the facility down as a precautionary measure after multiple attacks by drones launched from Iraq.
-The drones targeted the pipeline in the Riyadh and Medina regions Thursday morning, causing fires and some damage, the Saudi government said. Several people were injured in the attacks, it said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-    publishedAt: "2026-09-13T13:38:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "six-dead-130-missing-after-indonesian-fe-7000bb3c",
-    title: "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-    titleJa: "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-    summaryJa: "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-    bodyOriginal: `Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
-- Published
-Six people have died and 107 have been rescued from a capsized Indonesian passenger ferry in the Java Sea, authorities have said.
-Another 130 people are still missing after contact was lost with the Virgo Transport8 ship, as it encountered bad weather.
-The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 on Sunday (18:00 GMT on Saturday).
-Ships and a helicopter have been deployed to the scene, with 280 personnel taking part in a search and rescue operation. All vessels in the area of the Java Sea have been alerted to report any signs of passengers.
-There were 213 passengers and 30 crew members on board the 390ft (119m) ferry.
-The ship left Surabaya at 10:33 on Saturday and was scheduled to arrive in Banjarmasin on Sunday at 14:00, according to data from two maritime monitoring sites. Authorities received the initial distress report at 04:10.
-A joint task force involving Indonesia's search and rescue agency, navy, maritime police and other parties has been set up for the rescue effort.
-Rusmilawati, a resident of Banjarmasin, went to the port to seek information about eight relatives who were passengers on the ship. They were travelling back to Banjarmasin after visiting the tombs of several Islamic scholars in Java.
-"They flew there initially, but for the return journey they wanted to try travelling by ship," she told BBC Indonesia.
-As of Sunday afternoon local time, Rusmilawati said she had not received any information from officials about whether her relatives had been rescued.
-The family last heard from one of the relatives through a WhatsApp status update. In the post, the relative wrote: "The waves are really frightening tonight. Or is this just what it's normally like travelling by ship, rocking and crashing against the waves?"
-"Hopefully they're safe," Rusmilawati said.
-Meanwhile, Misnah broke down in tears after learning that her husband, Ahmad Supandi, had survived.
-Ahmad, a freight driver, had been aboard Virgo Transport 8 and was later rescued by the vessel MV Haida.
-At Tanjung Perak Port in Surabaya, relatives of crew members have also been seeking information about their loved ones.
-One relative, Fredy, said his youngest sibling, Stevie Manuhua, worked aboard the vessel as a keyboard player, entertaining passengers.
-"We spoke two days ago when the ship was docked in Surabaya. After that, there was no news until now," Fredy said.
-He said he had still not received any information about his sibling's whereabouts.
-The Indonesian archipelago has more than 17,000 islands and ferries are a common form of transport.
-But marine transport accidents are not uncommon. Government data show that 111 ship accidents were recorded between 2020 and 2026.
-In July, KM Nurul Salsa sank in waters west of Polassi Island in Selayar Islands Regency, South Sulawesi. A total of 58 people survived, while three were found dead. The whereabouts of another 14 people remain unknown.
-Last month, a separate ferry caught fire off Madura island, killing five.
-Additional reporting by Donny Muslim
-Related topics
-- Published3 days ago
-- Published5 days ago`,
-    bodyJa: `Six dead, 130 missing after Indonesian ferry capsizes in Java Sea
-- Published
-Six people have died and 107 have been rescued from a capsized Indonesian passenger ferry in the Java Sea, authorities have said.
-Another 130 people are still missing after contact was lost with the Virgo Transport8 ship, as it encountered bad weather.
-The ferry was travelling from Surabaya to the South Kalimantan city of Banjarmasin and was last reported to be about 150km (93 miles) south of Banjarmasin around 02:00 on Sunday (18:00 GMT on Saturday).
-Ships and a helicopter have been deployed to the scene, with 280 personnel taking part in a search and rescue operation. All vessels in the area of the Java Sea have been alerted to report any signs of passengers.
-There were 213 passengers and 30 crew members on board the 390ft (119m) ferry.
-The ship left Surabaya at 10:33 on Saturday and was scheduled to arrive in Banjarmasin on Sunday at 14:00, according to data from two maritime monitoring sites. Authorities received the initial distress report at 04:10.
-A joint task force involving Indonesia's search and rescue agency, navy, maritime police and other parties has been set up for the rescue effort.
-Rusmilawati, a resident of Banjarmasin, went to the port to seek information about eight relatives who were passengers on the ship. They were travelling back to Banjarmasin after visiting the tombs of several Islamic scholars in Java.
-"They flew there initially, but for the return journey they wanted to try travelling by ship," she told BBC Indonesia.
-As of Sunday afternoon local time, Rusmilawati said she had not received any information from officials about whether her relatives had been rescued.
-The family last heard from one of the relatives through a WhatsApp status update. In the post, the relative wrote: "The waves are really frightening tonight. Or is this just what it's normally like travelling by ship, rocking and crashing against the waves?"
-"Hopefully they're safe," Rusmilawati said.
-Meanwhile, Misnah broke down in tears after learning that her husband, Ahmad Supandi, had survived.
-Ahmad, a freight driver, had been aboard Virgo Transport 8 and was later rescued by the vessel MV Haida.
-At Tanjung Perak Port in Surabaya, relatives of crew members have also been seeking information about their loved ones.
-One relative, Fredy, said his youngest sibling, Stevie Manuhua, worked aboard the vessel as a keyboard player, entertaining passengers.
-"We spoke two days ago when the ship was docked in Surabaya. After that, there was no news until now," Fredy said.
-He said he had still not received any information about his sibling's whereabouts.
-The Indonesian archipelago has more than 17,000 islands and ferries are a common form of transport.
-But marine transport accidents are not uncommon. Government data show that 111 ship accidents were recorded between 2020 and 2026.
-In July, KM Nurul Salsa sank in waters west of Polassi Island in Selayar Islands Regency, South Sulawesi. A total of 58 people survived, while three were found dead. The whereabouts of another 14 people remain unknown.
-Last month, a separate ferry caught fire off Madura island, killing five.
-Additional reporting by Donny Muslim
-Related topics
-- Published3 days ago
-- Published5 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T13:30:38+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 8,
-  },
-  {
-    id: "the-price-of-almost-everything-on-your-d-54edd052",
-    title: "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
-    titleJa: "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
-    summaryJa: "Rising crop prices are making the current inflation problem bigger than just oil and the Iran war.",
-    bodyOriginal: `Rising crop prices are making the current inflation problem bigger than just oil and the Iran war.`,
-    bodyJa: `Rising crop prices are making the current inflation problem bigger than just oil and the Iran war.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
-    publishedAt: "2026-09-13T13:00:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-17698476",
-    readTime: 2,
-  },
-  {
-    id: "nfl-and-midterm-elections-set-up-predict-ee42c326",
-    title: "NFL and midterm elections set up prediction markets for a critical fall season",
-    titleJa: "NFL and midterm elections set up prediction markets for a critical fall season",
-    summaryJa: "The 2025 football season and 2024 presidential election pushed prediction markets into the prominence they enjoy today.",
-    bodyOriginal: `Prediction markets that rode politics and sports to new heights the past two years are betting on their convergence this autumn to drive even more adoption.
-In 2024, event contract exchanges entered the mainstream with trades tied to the presidential election that year. Then, in September 2025, the start of the NFL season a year ago marked the beginning of a surge in prediction market trading volume that has yet to slow down.
-Prediction markets began another NFL season on Wednesday night, when the New England Patriots and Seattle Seahawks dueled it out in a rematch of the 2026 Super Bowl. Labor Day also marked what political observers always consider the start of the midterm election campaign season.
-This year, prediction markets enter the fall bigger than they've ever been, with daily notional trading volume now consistently in the billions, two dominant incumbents and a host of smaller exchanges chasing them to take some share of the market. And now the two events that separately brought prediction markets mainstream, are happening together over just a few months.
-"You have a bit of a supercycle occurring right now within the prediction markets," said Robinhood's general manager for futures and prediction markets, JB Mackenzie.
-Other events are in the wings this season, too, with traders showing greater interest in economic contracts linked to where a hard-to-read Federal Reserve may take interest rates next week, and Major League Baseball playoffs in full swing in October.
-Prediction platforms have rushed to prepare for the fall's events. That will continue so long as the markets continue to get the majority of their volume from sports offerings, said Seni Thomas, CEO at EDGE Markets, a financial technology company working in sports betting and prediction markets.
-This season could prove crucial, especially for newer platforms. "This NFL cycle is the real key, make or break" for many newer companies, Thomas said.
-Veteran players
-On Tuesday, Polymarket debuted an advertisement featuring basketball icon LeBron James, former New York Giants quarterback Eli Manning and former Yankee Derek Jeter as part of a football season marketing campaign. It also unveiled a new product for its U.S. exchange which allows users to talk, share and trade together on the platform.
-Kalshi experienced a record $2.3 billion in volume traded on Saturday, the first day of college football, and unveiled a feature for speculators who participated in 2025 NFL season markets to track how they performed before this season's kickoff. It has also expanded partnerships with individual sports teams ahead of the MLB playoff season.
-Both platforms suffered glitches as college football play began. Polymarket's U.S. platform was down much of Saturday, and any account that experienced losses due to the outage was eventually refunded. Kalshi prematurely resolved a market on the University of Michigan game, paying traders as if the underdog Western Michigan had pulled off an upset. Later, Kalshi corrected the Michigan result and paid out accordingly.
-The platforms are leaning into sports, even while battling in court with states across the country that say sports-related event contracts amount to gambling and should fall under their regulatory purview rather than the Commodity Futures Trading Commission, a Wall Street watchdog.
-"We operate pursuant to the regulations of the CFTC, and we'll continue to do so, and continue to work with stakeholders to run a safe and trusted product," said Ari Borod, president of sports business development at Polymarket in August before announcing a partnership with the New York Yankees.
-New entrants
-While the two largest prediction market platforms seek to build on their previous NFL success, others are also trying to capitalize on the same sporting events.
-Rothera, a prediction market platform developed in a joint venture between Susquehanna International Group and Robinhood, is one of them. It saw volumes boom after going online in time for the FIFA World Cup over the summer.
-"Rolling out all these sports, that's a big lift," CEO Thomas Chippas said. "We've only been live since the last week of May ... We're going as fast as we can, as prudently we can."
-Novig, a platform that only lists sports event contracts, started an NFL marketing campaign on Wednesday with an ad featuring actress Sydney Sweeney, one of the first celebrities to work with a smaller exchange.
-ProphetX, which launched in June focusing on sports-related event contracts, also has worked to get ready for the fall by revamping its consumer platform and focusing on boosting liquidity during the NFL season.
-"Our revenue doubled from June to August," ProphetX co-founder and CEO Dean Sisun said in an interview. "I would love to see it four to 5x by the end of the year on a run rate basis … I really think we can do that."
-Midterm opportunity
-While ProphetX features sports event contracts, Sisun said the platform is planning to launch midterm election-related markets too.
-Robinhood is featuring Rothera's elections-related contracts to users on its brokerage.
-In the lead-up to November, Kalshi has launched several tools, such as a midterm elections hub in July, giving users data about political races all across the country. For election night, it's working on an in-person event, as well as contemplating the best way for traders and viewers to see how odds across races are changing as results pour in, Kalshi's head of politics growth Benjamin Freeman said.
-Unlike in 2024, when election-related event contracts weren't legal in the U.S. until a month before the presidential vote, "there's a much longer runway to plan" in 2026, said Benjamin Freeman, head of politics growth at Kalshi.
-The midterms also give platforms an opportunity to remind the public that they're more than just sports, even as the majority of trading volume continues to come from those contests.
-"This week it's probably going to be a lot more about NFL," Mackenzie of Robinhood said, "but I think that's what's interesting about prediction markets. It evolves based upon what people want to be trading and what's in the news cycle."
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `Prediction markets that rode politics and sports to new heights the past two years are betting on their convergence this autumn to drive even more adoption.
-In 2024, event contract exchanges entered the mainstream with trades tied to the presidential election that year. Then, in September 2025, the start of the NFL season a year ago marked the beginning of a surge in prediction market trading volume that has yet to slow down.
-Prediction markets began another NFL season on Wednesday night, when the New England Patriots and Seattle Seahawks dueled it out in a rematch of the 2026 Super Bowl. Labor Day also marked what political observers always consider the start of the midterm election campaign season.
-This year, prediction markets enter the fall bigger than they've ever been, with daily notional trading volume now consistently in the billions, two dominant incumbents and a host of smaller exchanges chasing them to take some share of the market. And now the two events that separately brought prediction markets mainstream, are happening together over just a few months.
-"You have a bit of a supercycle occurring right now within the prediction markets," said Robinhood's general manager for futures and prediction markets, JB Mackenzie.
-Other events are in the wings this season, too, with traders showing greater interest in economic contracts linked to where a hard-to-read Federal Reserve may take interest rates next week, and Major League Baseball playoffs in full swing in October.
-Prediction platforms have rushed to prepare for the fall's events. That will continue so long as the markets continue to get the majority of their volume from sports offerings, said Seni Thomas, CEO at EDGE Markets, a financial technology company working in sports betting and prediction markets.
-This season could prove crucial, especially for newer platforms. "This NFL cycle is the real key, make or break" for many newer companies, Thomas said.
-Veteran players
-On Tuesday, Polymarket debuted an advertisement featuring basketball icon LeBron James, former New York Giants quarterback Eli Manning and former Yankee Derek Jeter as part of a football season marketing campaign. It also unveiled a new product for its U.S. exchange which allows users to talk, share and trade together on the platform.
-Kalshi experienced a record $2.3 billion in volume traded on Saturday, the first day of college football, and unveiled a feature for speculators who participated in 2025 NFL season markets to track how they performed before this season's kickoff. It has also expanded partnerships with individual sports teams ahead of the MLB playoff season.
-Both platforms suffered glitches as college football play began. Polymarket's U.S. platform was down much of Saturday, and any account that experienced losses due to the outage was eventually refunded. Kalshi prematurely resolved a market on the University of Michigan game, paying traders as if the underdog Western Michigan had pulled off an upset. Later, Kalshi corrected the Michigan result and paid out accordingly.
-The platforms are leaning into sports, even while battling in court with states across the country that say sports-related event contracts amount to gambling and should fall under their regulatory purview rather than the Commodity Futures Trading Commission, a Wall Street watchdog.
-"We operate pursuant to the regulations of the CFTC, and we'll continue to do so, and continue to work with stakeholders to run a safe and trusted product," said Ari Borod, president of sports business development at Polymarket in August before announcing a partnership with the New York Yankees.
-New entrants
-While the two largest prediction market platforms seek to build on their previous NFL success, others are also trying to capitalize on the same sporting events.
-Rothera, a prediction market platform developed in a joint venture between Susquehanna International Group and Robinhood, is one of them. It saw volumes boom after going online in time for the FIFA World Cup over the summer.
-"Rolling out all these sports, that's a big lift," CEO Thomas Chippas said. "We've only been live since the last week of May ... We're going as fast as we can, as prudently we can."
-Novig, a platform that only lists sports event contracts, started an NFL marketing campaign on Wednesday with an ad featuring actress Sydney Sweeney, one of the first celebrities to work with a smaller exchange.
-ProphetX, which launched in June focusing on sports-related event contracts, also has worked to get ready for the fall by revamping its consumer platform and focusing on boosting liquidity during the NFL season.
-"Our revenue doubled from June to August," ProphetX co-founder and CEO Dean Sisun said in an interview. "I would love to see it four to 5x by the end of the year on a run rate basis … I really think we can do that."
-Midterm opportunity
-While ProphetX features sports event contracts, Sisun said the platform is planning to launch midterm election-related markets too.
-Robinhood is featuring Rothera's elections-related contracts to users on its brokerage.
-In the lead-up to November, Kalshi has launched several tools, such as a midterm elections hub in July, giving users data about political races all across the country. For election night, it's working on an in-person event, as well as contemplating the best way for traders and viewers to see how odds across races are changing as results pour in, Kalshi's head of politics growth Benjamin Freeman said.
-Unlike in 2024, when election-related event contracts weren't legal in the U.S. until a month before the presidential vote, "there's a much longer runway to plan" in 2026, said Benjamin Freeman, head of politics growth at Kalshi.
-The midterms also give platforms an opportunity to remind the public that they're more than just sports, even as the majority of trading volume continues to come from those contests.
-"This week it's probably going to be a lot more about NFL," Mackenzie of Robinhood said, "but I think that's what's interesting about prediction markets. It evolves based upon what people want to be trading and what's in the news cycle."
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-    publishedAt: "2026-09-13T11:52:33+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "iran-war-reshapes-brics-ties-but-also-ex-e5488e99",
-    title: "Iran war reshapes Brics ties but also exposes divisons",
-    titleJa: "Iran war reshapes Brics ties but also exposes divisons",
-    summaryJa: "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-    bodyOriginal: `Iran war reshapes Brics ties but also exposes divisons
-- Published
-This weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.
-Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become "rule-shapers", not "rule-takers".
-Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa.
-These are hardly natural allies. They have histories of border disputes and even military confrontations.
-India and China engaged in a deadly clash along their disputed border in 2020. Iran and the UAE have been on opposing ends of the war in the Middle East, with Tehran launching missiles and drones at its fellow Brics member as the conflict sent shockwaves across global economies.
-The fact that India was able to gather these leaders together in person is a feat in and of itself and testament to its diplomatic reach. The weekend also provided a platform for countries to reassess their relationships in light of the Iran war.
-But agreeing on what a new global order should look like and achieving clear, tangible outcomes was a much harder task, and that tension ran through this weekend's summit.
-A counterweight to Western influence
-For members such as China, Russia and Iran, Brics offers a vehicle to dilute the influence of the US and western Europe.
-But India has been reluctant to cast Brics as an anti-Western bloc. Modi himself said at the summit that the group is "not against anyone".
-That distinction matters for Delhi, which wants to preserve its relationships with nations at odds with each other.
-"There are countries in the grouping which would like it to become anti-western, but it is not that," says Anil Trigunayat, a veteran Indian diplomat and former ambassador. What India has achieved, in his view, is a push for "strategic autonomy in an era of war" and initiatives to "enhance greater collaboration amongst themselves".
-Inside the joint declaration
-The summit succeeded in delivering a joint declaration when divisions among members have rarely been so glaring.
-Twice earlier this year, meetings between Brics ministers had failed to produce a joint statement. This time a consensus was reached, but by side-stepping issues that members sharply disagree on, with few solutions.
-The "New Delhi Declaration" was adopted on the first day of the summit. But what is striking is what it doesn't say.
-On the war in the Middle East, the declaration urges "maximum restraint". It also condemns "attacks on civilian infrastructure and peaceful nuclear facilities" but assigns no blame.
-It reiterates support for a two-state solution, opposes forced displacement of Palestinians or actions that could "legitimise or prolong occupation", framing it carefully around existing UN resolutions.
-It makes no mention at all of Russia's war in Ukraine, a departure from previous Brics declarations.
-There is similar caution on trade. It lists concerns over "indiscriminate rising tariffs" and condemns unilateral sanctions but stops short of naming the US, and is likely to avoid Washington's ire.
-Several Brics members would have been loath to draw President Donald Trump's anger, as he has previously called the group's proposals, including potentially linking central-bank digital currencies for cross-border trade, "anti-American".
-"Not mentioning any country by name, even as they condemned the conflict in the Middle East, bears the hallmark of India," says Praveen Donthi, senior analyst at the International Crisis Group.
-"I was pleasantly surprised that there was a strong reference to tariffs, because India could have wanted to be less direct about it, but perhaps this was a chance to convey their displeasure," he added.
-Beyond the summit
-In the wake of Trump's trade threats and the shock of the war in the Middle East, reshaping the global order has become a vital need for many member economies.
-What the summit did provide is a platform for meetings that seemed hard to imagine just a few months ago.
-Iran's Pezeshkian and Abu Dhabi's Crown Prince sat down for talks together - the highest-level face-to-face meeting known between the two countries since the war began.
-This weekend offered Tehran a chance to show that it does not stand alone amid the US and Israel's military attacks and economic pressure.
-As Iran tries to withstand US sanctions, Washington's "Operation Economic Outcast" and a naval blockade on its ports, Pezeshkian pressed for deeper economic ties with Brics members, including Malaysia, India and Ethiopia.
-As for China, this was President Xi's first visit to Delhi in seven years. There has been deep mistrust between China and India since the 2020 border dispute, but those tensions have eased. There is also a large trade imbalance, with a deficit tilting heavily in China's favour.
-There was a cordial handshake between Xi and Modi, not the latter's signature hug. Xi also stayed for less than 24 hours, skipping the gala dinner hosted by Modi on Saturday night.
-But the weekend was still a big moment for two countries with such a difficult relationship. According to official readouts, the two leaders agreed to strengthen business ties and transport links and address barriers to trade.
-Trigunayat believes this is part of a gradual warming of relations in recent years, and that there is a will on both sides to work together. But whether it will produce substantial progress remains to be seen.
-"I always say we have to trust, but verify first," he says.
-What comes next?
-The summit showed that Brics can create space for rivals to talk and manoeuvre outside Western-dominated institutions.
-The harder question is what happens next. It's clear that members agree they need a new global order more than ever, but what exactly should replace it and how to get there is far more challenging to answer.
-Additional reporting by Charlotte Scarr`,
-    bodyJa: `Iran war reshapes Brics ties but also exposes divisons
-- Published
-This weekend, some of the most powerful people in the world gathered in Delhi around a vast circular table.
-Indian Prime Minister Narendra Modi announced that together, the leaders next to him should increasingly become "rule-shapers", not "rule-takers".
-Among those listening were members of the Brics group, including Chinese President Xi Jinping, Russian President Vladimir Putin, Iran's President Masoud Pezeshkian, Abu Dhabi's Crown Prince Sheikh Khaled bin Mohamed bin Zayed Al Nahyan and South African President Cyril Ramaphosa.
-These are hardly natural allies. They have histories of border disputes and even military confrontations.
-India and China engaged in a deadly clash along their disputed border in 2020. Iran and the UAE have been on opposing ends of the war in the Middle East, with Tehran launching missiles and drones at its fellow Brics member as the conflict sent shockwaves across global economies.
-The fact that India was able to gather these leaders together in person is a feat in and of itself and testament to its diplomatic reach. The weekend also provided a platform for countries to reassess their relationships in light of the Iran war.
-But agreeing on what a new global order should look like and achieving clear, tangible outcomes was a much harder task, and that tension ran through this weekend's summit.
-A counterweight to Western influence
-For members such as China, Russia and Iran, Brics offers a vehicle to dilute the influence of the US and western Europe.
-But India has been reluctant to cast Brics as an anti-Western bloc. Modi himself said at the summit that the group is "not against anyone".
-That distinction matters for Delhi, which wants to preserve its relationships with nations at odds with each other.
-"There are countries in the grouping which would like it to become anti-western, but it is not that," says Anil Trigunayat, a veteran Indian diplomat and former ambassador. What India has achieved, in his view, is a push for "strategic autonomy in an era of war" and initiatives to "enhance greater collaboration amongst themselves".
-Inside the joint declaration
-The summit succeeded in delivering a joint declaration when divisions among members have rarely been so glaring.
-Twice earlier this year, meetings between Brics ministers had failed to produce a joint statement. This time a consensus was reached, but by side-stepping issues that members sharply disagree on, with few solutions.
-The "New Delhi Declaration" was adopted on the first day of the summit. But what is striking is what it doesn't say.
-On the war in the Middle East, the declaration urges "maximum restraint". It also condemns "attacks on civilian infrastructure and peaceful nuclear facilities" but assigns no blame.
-It reiterates support for a two-state solution, opposes forced displacement of Palestinians or actions that could "legitimise or prolong occupation", framing it carefully around existing UN resolutions.
-It makes no mention at all of Russia's war in Ukraine, a departure from previous Brics declarations.
-There is similar caution on trade. It lists concerns over "indiscriminate rising tariffs" and condemns unilateral sanctions but stops short of naming the US, and is likely to avoid Washington's ire.
-Several Brics members would have been loath to draw President Donald Trump's anger, as he has previously called the group's proposals, including potentially linking central-bank digital currencies for cross-border trade, "anti-American".
-"Not mentioning any country by name, even as they condemned the conflict in the Middle East, bears the hallmark of India," says Praveen Donthi, senior analyst at the International Crisis Group.
-"I was pleasantly surprised that there was a strong reference to tariffs, because India could have wanted to be less direct about it, but perhaps this was a chance to convey their displeasure," he added.
-Beyond the summit
-In the wake of Trump's trade threats and the shock of the war in the Middle East, reshaping the global order has become a vital need for many member economies.
-What the summit did provide is a platform for meetings that seemed hard to imagine just a few months ago.
-Iran's Pezeshkian and Abu Dhabi's Crown Prince sat down for talks together - the highest-level face-to-face meeting known between the two countries since the war began.
-This weekend offered Tehran a chance to show that it does not stand alone amid the US and Israel's military attacks and economic pressure.
-As Iran tries to withstand US sanctions, Washington's "Operation Economic Outcast" and a naval blockade on its ports, Pezeshkian pressed for deeper economic ties with Brics members, including Malaysia, India and Ethiopia.
-As for China, this was President Xi's first visit to Delhi in seven years. There has been deep mistrust between China and India since the 2020 border dispute, but those tensions have eased. There is also a large trade imbalance, with a deficit tilting heavily in China's favour.
-There was a cordial handshake between Xi and Modi, not the latter's signature hug. Xi also stayed for less than 24 hours, skipping the gala dinner hosted by Modi on Saturday night.
-But the weekend was still a big moment for two countries with such a difficult relationship. According to official readouts, the two leaders agreed to strengthen business ties and transport links and address barriers to trade.
-Trigunayat believes this is part of a gradual warming of relations in recent years, and that there is a will on both sides to work together. But whether it will produce substantial progress remains to be seen.
-"I always say we have to trust, but verify first," he says.
-What comes next?
-The summit showed that Brics can create space for rivals to talk and manoeuvre outside Western-dominated institutions.
-The harder question is what happens next. It's clear that members agree they need a new global order more than ever, but what exactly should replace it and how to get there is far more challenging to answer.
-Additional reporting by Charlotte Scarr`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T11:23:42+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60f4/live/46af4990-af60-11f1-8b54-ef4b26bcf610.jpg",
-    readTime: 10,
-  },
-  {
-    id: "xi-says-china-will-take-lead-to-foster-a-dd213ae7",
-    title: "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-    titleJa: "Xi says China will take lead to foster AI, tech cooperation among BRICS countries",
-    summaryJa: "China will take the lead to help foster artificial-intelligence collaboration and development among developing-economy countries, President Xi Jinping said.",
-    bodyOriginal: `China will take the lead to help foster artificial-intelligence collaboration and development among developing countries, President Xi Jinping said at the BRICS bloc summit in New Delhi.
-China will pioneer the establishment of a BRICS AI open-source community, support the cooperation in developing and applying large language models, hold AI seminars and training courses, and build an open AI ecosystem, Xi said in a statement on Sunday released by the Ministry of Foreign Affairs.
-The country will also work to establish a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, Xi said. He also proposed setup of a BRICS engineer cultivation alliance and a youth exchange program for scientific and technological innovation.
-XI's proposals come as the AI sector booms, with companies releasing ever-more-powerful models at a frenetic pace. AI itself has come under scrutiny too, with one researcher who worked at both OpenAI and Anthropic this week saying that many people working in the industry believe AI might kill all of humanity by the end of the decade. Xi didn't address the ongoing debate about AI safety.
-BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
-    bodyJa: `China will take the lead to help foster artificial-intelligence collaboration and development among developing countries, President Xi Jinping said at the BRICS bloc summit in New Delhi.
-China will pioneer the establishment of a BRICS AI open-source community, support the cooperation in developing and applying large language models, hold AI seminars and training courses, and build an open AI ecosystem, Xi said in a statement on Sunday released by the Ministry of Foreign Affairs.
-The country will also work to establish a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, Xi said. He also proposed setup of a BRICS engineer cultivation alliance and a youth exchange program for scientific and technological innovation.
-XI's proposals come as the AI sector booms, with companies releasing ever-more-powerful models at a frenetic pace. AI itself has come under scrutiny too, with one researcher who worked at both OpenAI and Anthropic this week saying that many people working in the industry believe AI might kill all of humanity by the end of the decade. Xi didn't address the ongoing debate about AI safety.
-BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/13/china-xi-ai-tech-brics.html",
-    publishedAt: "2026-09-13T11:17:12+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "ai-staff-genuinely-frightened-for-humani-7dbc65d0",
-    title: "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-    titleJa: "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-    summaryJa: "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-    bodyOriginal: `AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
-- Published
-An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were "genuinely frightened" about the speed of its advancements and what it could mean for humanity.
-"I believe that if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future," he said.
-Jacob Coxon was speaking to the BBC after his resignation post on the dangers of AI went viral on a backdrop of growing safety concerns about the industry.
-The 27-year-old's former boss, Anthropic head Dario Amodei, recently called for AI development to slow down - though some have questioned the motivations behind this.
-The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have both said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
-Amodei wrote in an essay on Saturday that developing the technology was not in question, but the risks associated with it were "serious", and that companies and governments must be given time to address them.
-Coxon – who worked at OpenAI before joining Anthropic – welcomed the suggestion of a slowdown but said it would need to be co-ordinated with China to avoid "a race at an international scale".
-"The people who work at these companies are completely serious when they ask for regulation because they find themselves trapped in a race. And they're scared of the outcomes of that race," he told Sunday with Laura Kuenssberg.
-Anthropic boss Dario Amodei calls for AI development to slow down
-- Published14 hours ago
-The hardest question to answer, according to Coxon, was what an AI apocalypse would look like.
-One of the risks outlined in Amodei's comments was of a swarm of bots acting like a supercomputer that could take over the internet.
-Coxon said this scenario could be realistic in six months to a year.
-In response to Coxon's departure, an Anthropic spokesperson told BBC News: "We have always been transparent that AI will bring both enormous benefits and unprecedented risks.
-"To address these risks, we continue to build models with some of the strongest safeguards in the industry."
-The firm has been a pioneer in studying how AI models work, the spokesperson added. It was the first to publish a framework for mitigating the risks posed by their development - and it also "aggressively" tests its models and publishes the findings to aid scrutiny and prevent incidents of "AI misalignment".
-"This work is also why we believe the world would benefit from the industry adopting a lawful, verifiable way to work together to pace how we release powerful models," they said.
-Coxon said his peers feared the danger could even arrive in the next two years.
-He said staff at AI firms were "planning what to do with their lives and thinking about the impacts of their work", while some were "considering buying land somewhere because they're so scared of the instability as a result of rapid AI progress".
-"They all keep this in their head on a daily basis while working on the technology."
-But Coxon did have some optimism about the future of AI, telling the BBC that the people researching the technology "genuinely want to see the upside" of things like "solving diseases and improving everyone's lives".
-Many others in the industry have also voiced their concerns since Coxon's social media post, including Anthropic scientist Evan Hubinger.
-"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," Hubinger said.
-Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
-Meanwhile, Marc Warner, chief executive of AI safety firm Faculty, told the BBC that it was "extremely hard to place a probability" on AI killing all humans.
-"But it's important to recognise that these people are very sincere in what they're saying," he added, noting that the risks surrounding AI have been raised by the heads of several AI firms for years.
-Former Prime Minister Rishi Sunak, who is a paid adviser to Anthropic, wrote in the Sunday Times, external that he too was worried about the risk of AI to humanity despite generally being optimistic.
-Dramatic insider warnings over AI fall flat with some in Silicon Valley
-- Published2 hours ago
-However, some industry figures have suggested comments about the perils and power of AI may be designed to generate hype.
-Chief executive of the AI platform Hugging Face, Clement Delangue, said on social media: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change. Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
-After Amodei's essay was published, however, Delangue offered to help be a part of the potential solutions the Anthropic boss proposed.
-Meanwhile, Nvidia boss Jensen Huang also discussed Coxon's comments at a conference hosted by the investment bank Goldman Sachs last week, multiple people in the group told the BBC. They said he dismissed them as untrue.
-Huang has previously said the notion that AI was "going to be the end of humanity" was "complete nonsense".
-And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
-Other critics say Anthropic has been trying to trigger a regulatory push to block competition, leaving it and OpenAI in a duopoly.
-Anthropic is reportedly preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
-OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year, citing safety concerns.
-Related topics
-- Published1 day ago
-- Published3 days ago`,
-    bodyJa: `AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
-- Published
-An artificial intelligence researcher who quit AI firm Anthropic has said people working on the technology were "genuinely frightened" about the speed of its advancements and what it could mean for humanity.
-"I believe that if we don't slow down at the current rate of progress, there is a strong chance that we could all die in the immediate future," he said.
-Jacob Coxon was speaking to the BBC after his resignation post on the dangers of AI went viral on a backdrop of growing safety concerns about the industry.
-The 27-year-old's former boss, Anthropic head Dario Amodei, recently called for AI development to slow down - though some have questioned the motivations behind this.
-The bosses of two rival AI firms, Sam Altman of OpenAI and Elon Musk of xAI, have both said they agree with Amodei's proposal for industry-wide deceleration and regulation, as well as independent monitoring of AI model development.
-Amodei wrote in an essay on Saturday that developing the technology was not in question, but the risks associated with it were "serious", and that companies and governments must be given time to address them.
-Coxon – who worked at OpenAI before joining Anthropic – welcomed the suggestion of a slowdown but said it would need to be co-ordinated with China to avoid "a race at an international scale".
-"The people who work at these companies are completely serious when they ask for regulation because they find themselves trapped in a race. And they're scared of the outcomes of that race," he told Sunday with Laura Kuenssberg.
-Anthropic boss Dario Amodei calls for AI development to slow down
-- Published14 hours ago
-The hardest question to answer, according to Coxon, was what an AI apocalypse would look like.
-One of the risks outlined in Amodei's comments was of a swarm of bots acting like a supercomputer that could take over the internet.
-Coxon said this scenario could be realistic in six months to a year.
-In response to Coxon's departure, an Anthropic spokesperson told BBC News: "We have always been transparent that AI will bring both enormous benefits and unprecedented risks.
-"To address these risks, we continue to build models with some of the strongest safeguards in the industry."
-The firm has been a pioneer in studying how AI models work, the spokesperson added. It was the first to publish a framework for mitigating the risks posed by their development - and it also "aggressively" tests its models and publishes the findings to aid scrutiny and prevent incidents of "AI misalignment".
-"This work is also why we believe the world would benefit from the industry adopting a lawful, verifiable way to work together to pace how we release powerful models," they said.
-Coxon said his peers feared the danger could even arrive in the next two years.
-He said staff at AI firms were "planning what to do with their lives and thinking about the impacts of their work", while some were "considering buying land somewhere because they're so scared of the instability as a result of rapid AI progress".
-"They all keep this in their head on a daily basis while working on the technology."
-But Coxon did have some optimism about the future of AI, telling the BBC that the people researching the technology "genuinely want to see the upside" of things like "solving diseases and improving everyone's lives".
-Many others in the industry have also voiced their concerns since Coxon's social media post, including Anthropic scientist Evan Hubinger.
-"We really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," Hubinger said.
-Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
-Meanwhile, Marc Warner, chief executive of AI safety firm Faculty, told the BBC that it was "extremely hard to place a probability" on AI killing all humans.
-"But it's important to recognise that these people are very sincere in what they're saying," he added, noting that the risks surrounding AI have been raised by the heads of several AI firms for years.
-Former Prime Minister Rishi Sunak, who is a paid adviser to Anthropic, wrote in the Sunday Times, external that he too was worried about the risk of AI to humanity despite generally being optimistic.
-Dramatic insider warnings over AI fall flat with some in Silicon Valley
-- Published2 hours ago
-However, some industry figures have suggested comments about the perils and power of AI may be designed to generate hype.
-Chief executive of the AI platform Hugging Face, Clement Delangue, said on social media: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change. Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
-After Amodei's essay was published, however, Delangue offered to help be a part of the potential solutions the Anthropic boss proposed.
-Meanwhile, Nvidia boss Jensen Huang also discussed Coxon's comments at a conference hosted by the investment bank Goldman Sachs last week, multiple people in the group told the BBC. They said he dismissed them as untrue.
-Huang has previously said the notion that AI was "going to be the end of humanity" was "complete nonsense".
-And while he may have a business interest in an AI boom - Nvidia builds chips that power AI systems - his comments reflect a growing backlash in Silicon Valley to the existential warnings from current and former staffers.
-Other critics say Anthropic has been trying to trigger a regulatory push to block competition, leaving it and OpenAI in a duopoly.
-Anthropic is reportedly preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
-OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year, citing safety concerns.
-Related topics
-- Published1 day ago
-- Published3 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T11:13:07+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "china-s-xi-urges-brics-nations-to-work-t-4b80e071",
-    title: "China's Xi urges BRICS nations to work towards peace in the Middle East",
-    titleJa: "China's Xi urges BRICS nations to work towards peace in the Middle East",
-    summaryJa: "China, Iran's biggest trading partner and a key customer of Tehran's energy exports, is willing to work with BRICS towards peace in the region, Xi said.",
-    bodyOriginal: `The BRICS bloc should work towards a peaceful resolution to the conflict in the Middle East, Chinese President Xi Jinping said, adding that his country is willing to play a key role.
-"The situation in the Middle East and the Gulf region continues to evolve in a complex manner. This conflict has caused severe losses to the people of the region and is not in the common interest of the international community," Xi said in a speech at the BRICS Summit in New Delhi on Saturday.
-"All relevant parties should adhere to the direction of a political solution and promote a permanent and comprehensive ceasefire. We must attach importance to addressing the root causes of the problems," Xi said in a Google translation of a transcript of the speech provided by the Chinese government.
-Xi added that the Palestinian question has always been at the core of the Middle East issue and stressed the importance of implementing the so-called "two-state solution" with Israel.
-"China is willing to work with BRICS members to play its due role in achieving peace and tranquility in the Middle East and the Gulf region," Xi said.
-China is Iran's biggest trading partner, and a key customer of Tehran's energy exports.
-The Trump administration imposed a tough new wave of economic sanctions against Iran last month. The Treasury Department's measures, dubbed "Operation Economic Outcast", aim to sever Iran's financial connections around the world.
-Treasury Scott Bessent suggested at the launch of the operation that China would not be exempt.
-While energy prices soared in the wake of the conflict, economists say China has helped prevent them rise even further due to years of stockpiling and its subsequent pullback of oil purchases.
-President Donald Trump is slated to host Chinese leader Xi Jinping at the White House later this month.
-BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
-    bodyJa: `The BRICS bloc should work towards a peaceful resolution to the conflict in the Middle East, Chinese President Xi Jinping said, adding that his country is willing to play a key role.
-"The situation in the Middle East and the Gulf region continues to evolve in a complex manner. This conflict has caused severe losses to the people of the region and is not in the common interest of the international community," Xi said in a speech at the BRICS Summit in New Delhi on Saturday.
-"All relevant parties should adhere to the direction of a political solution and promote a permanent and comprehensive ceasefire. We must attach importance to addressing the root causes of the problems," Xi said in a Google translation of a transcript of the speech provided by the Chinese government.
-Xi added that the Palestinian question has always been at the core of the Middle East issue and stressed the importance of implementing the so-called "two-state solution" with Israel.
-"China is willing to work with BRICS members to play its due role in achieving peace and tranquility in the Middle East and the Gulf region," Xi said.
-China is Iran's biggest trading partner, and a key customer of Tehran's energy exports.
-The Trump administration imposed a tough new wave of economic sanctions against Iran last month. The Treasury Department's measures, dubbed "Operation Economic Outcast", aim to sever Iran's financial connections around the world.
-Treasury Scott Bessent suggested at the launch of the operation that China would not be exempt.
-While energy prices soared in the wake of the conflict, economists say China has helped prevent them rise even further due to years of stockpiling and its subsequent pullback of oil purchases.
-President Donald Trump is slated to host Chinese leader Xi Jinping at the White House later this month.
-BRICS was established in 2009 as a counterweight to Western dominance and originally comprised Brazil, Russia, India, China and South Africa. It eventually grew to include Egypt, Ethiopia, Indonesia, Iran and the United Arab Emirates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/13/chinas-xi-urges-brics-peace-middle-east.html",
-    publishedAt: "2026-09-13T09:41:53+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
   },
 ];
 
