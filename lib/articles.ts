@@ -15,6 +15,286 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "here-s-the-best-way-to-invest-in-bonds-f-7d577d2e",
+    title: "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+    titleJa: "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+    summaryJa: "A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.",
+    bodyOriginal: `A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.`,
+    bodyJa: `A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+    publishedAt: "2026-09-15T11:34:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-91707062",
+    readTime: 2,
+  },
+  {
+    id: "it-might-be-time-to-consider-the-most-ha-1e0e8557",
+    title: "It might be time to consider the ‘most hated, under-owned asset class,’ says this strategist",
+    titleJa: "It might be time to consider the ‘most hated, under-owned asset class,’ says this strategist",
+    summaryJa: "Vincent Deluard, market strategist at StoneX, recommends pairing British equities with a trade that shorts the euro against the Japanese yen.",
+    bodyOriginal: `Vincent Deluard, market strategist at StoneX, recommends pairing British equities with a trade that shorts the euro against the Japanese yen.`,
+    bodyJa: `Vincent Deluard, market strategist at StoneX, recommends pairing British equities with a trade that shorts the euro against the Japanese yen.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/it-might-be-time-to-consider-the-most-hated-under-owned-asset-class-says-this-strategist-1b86c059?mod=mw_rss_topstories",
+    publishedAt: "2026-09-15T11:24:00+00:00",
+    category: "貿易",
+    imageUrl: "https://images.mktw.net/im-03704237",
+    readTime: 2,
+  },
+  {
+    id: "no-one-and-done-the-fed-will-hike-at-lea-fc0f14e7",
+    title: "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
+    titleJa: "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
+    summaryJa: "While higher oil is cited as a main reason for the change in view, roughly three quarters of respondents see the inflation problem as broader than just energy prices.",
+    bodyOriginal: `It's not going to be one and done.
+A majority of respondents to the CNBC Fed Survey now forecast at least two hikes over the next one year, with a third predicting three or more. It's a stark change from last month when just 46% expected a hike ahead. That's grown to 86% with 55% expecting more than a single hike.
+Since last month, Fed Chairman Kevin Warsh delivered a hawkish speech in Jackson Hole, oil prices surged, inflation failed to cool and respondents now seem to believe inflation has spread beyond energy and won't take care of itself without action by the Fed.
+"There is nothing in the data that suggests inflation will return to target 'soon,'" said Neil Dutta, head of economic research at Renaissance Macro Research. Dutta quoted Fed Governor Christopher Waller, who has said, "Sternly staring at inflation until it melts before our withering gaze is not an option."
+Most of the 29 respondents, including economists, fund managers and strategists, believe the Strait of Hormuz will remain closed at least a month longer and that oil prices will remain elevated for longer than six months.
+"The renewed march higher in oil, gasoline, and diesel prices adds to concerns higher energy prices could spill over to other goods and services and inflation expectations," wrote Kathy Bostjancic, chief U.S. economist at Nationwide.
+There's already concern that that's happening. Roughly three quarters of respondents see the inflation problem as broader than just energy prices. CPI forecasts rose for both 2026 and 2027, with the average forecast rising to near 3.5% for this year and then settling in at 2.85% in 2027.
+Several respondents, however, were skeptical of the Fed's ability to lower fuel-driven inflation with rate hikes. "The FOMC faces a challenge in showing institutional credibility vis-a-vis the inflation piece of its mandate relative to its limited ability to impact supply-driven inflation using its rate setting tool," said Douglas Gordon, senior portfolio manager at Russell Investments.
+The Fed will decide on rates Wednesday at the conclusion of its two-day meeting. The last FOMC meeting was in July.
+Despite a shift to forecasts for multiple Fed rate hikes, the growth outlook has not changed much. Recession concerns remain unchanged with an average 29% probability estimated over the next 12 months, just somewhat above normal. GDP is still seen at around 2.25% this year and next, up from 2.1% in 2025, and the unemployment rate outlook remains around 4.25%. Forecasts for stocks remain buoyant. The S&P 500 is forecast to maintain its current level through year-end and rise 8% to 8,274 next year.
+The question is whether the forecasts are compatible. Generally, the Fed has to slow the economy to have an effect on inflation, meaning growth would typically need to dip below potential for inflation to decline.
+"Economic conditions in the U.S. are incompatible with the Fed's policy rate," wrote Guy LeBas, chief fixed income strategist at Janney Montgomery Scott. "Something has to give — either inflation needs to fall or the Fed has to hike--or the long end of the U.S. yield curve will continue to sell off."
+Warsh's credibility
+Views on the communications and independence of Fed Chairman Warsh are largely positive, suggesting that his Jackson Hole speech had an impact. Fifty-nine percent of respondents say he has provided enough information on his economic and monetary policy views; 69% say the administration's push for lower rates will have no effect on the outcome of this month's meeting; and 66% say his conduct of monetary policy is very or mostly independent, though that represents a 9-point decline from the prior survey. Respondents believe that too little information from the Fed chairman could result in less effective monetary policy and more volatility.
+Just 31% of respondents now say the Fed "talks too much," compared with 68% in July. That could be a sign that respondents support the less loquacious communication from Warsh. While 69% say the Fed should not be regularly providing forward guidance, 59% say it should regularly offer its reaction function, or how they expect policy to develop relative to incoming data.
+Warsh was still seen by far offering the most important information about the outlook and policy, followed by Fed Governor Waller and New York Fed President John Williams. Most Fed bank presidents and other Fed governors were far behind.
+Continued high inflation, the Iran War and high oil prices were the top three risks to the expansion. But 61% said there is some market risk that could come from ongoing legal battles from the midterm elections.
+A 46% plurality see the Democrats gaining control of the House while Republicans retain control of the Senate. Twenty-nine percent predict the Democrats winning full control of Congress.
+See here for full survey results.`,
+    bodyJa: `It's not going to be one and done.
+A majority of respondents to the CNBC Fed Survey now forecast at least two hikes over the next one year, with a third predicting three or more. It's a stark change from last month when just 46% expected a hike ahead. That's grown to 86% with 55% expecting more than a single hike.
+Since last month, Fed Chairman Kevin Warsh delivered a hawkish speech in Jackson Hole, oil prices surged, inflation failed to cool and respondents now seem to believe inflation has spread beyond energy and won't take care of itself without action by the Fed.
+"There is nothing in the data that suggests inflation will return to target 'soon,'" said Neil Dutta, head of economic research at Renaissance Macro Research. Dutta quoted Fed Governor Christopher Waller, who has said, "Sternly staring at inflation until it melts before our withering gaze is not an option."
+Most of the 29 respondents, including economists, fund managers and strategists, believe the Strait of Hormuz will remain closed at least a month longer and that oil prices will remain elevated for longer than six months.
+"The renewed march higher in oil, gasoline, and diesel prices adds to concerns higher energy prices could spill over to other goods and services and inflation expectations," wrote Kathy Bostjancic, chief U.S. economist at Nationwide.
+There's already concern that that's happening. Roughly three quarters of respondents see the inflation problem as broader than just energy prices. CPI forecasts rose for both 2026 and 2027, with the average forecast rising to near 3.5% for this year and then settling in at 2.85% in 2027.
+Several respondents, however, were skeptical of the Fed's ability to lower fuel-driven inflation with rate hikes. "The FOMC faces a challenge in showing institutional credibility vis-a-vis the inflation piece of its mandate relative to its limited ability to impact supply-driven inflation using its rate setting tool," said Douglas Gordon, senior portfolio manager at Russell Investments.
+The Fed will decide on rates Wednesday at the conclusion of its two-day meeting. The last FOMC meeting was in July.
+Despite a shift to forecasts for multiple Fed rate hikes, the growth outlook has not changed much. Recession concerns remain unchanged with an average 29% probability estimated over the next 12 months, just somewhat above normal. GDP is still seen at around 2.25% this year and next, up from 2.1% in 2025, and the unemployment rate outlook remains around 4.25%. Forecasts for stocks remain buoyant. The S&P 500 is forecast to maintain its current level through year-end and rise 8% to 8,274 next year.
+The question is whether the forecasts are compatible. Generally, the Fed has to slow the economy to have an effect on inflation, meaning growth would typically need to dip below potential for inflation to decline.
+"Economic conditions in the U.S. are incompatible with the Fed's policy rate," wrote Guy LeBas, chief fixed income strategist at Janney Montgomery Scott. "Something has to give — either inflation needs to fall or the Fed has to hike--or the long end of the U.S. yield curve will continue to sell off."
+Warsh's credibility
+Views on the communications and independence of Fed Chairman Warsh are largely positive, suggesting that his Jackson Hole speech had an impact. Fifty-nine percent of respondents say he has provided enough information on his economic and monetary policy views; 69% say the administration's push for lower rates will have no effect on the outcome of this month's meeting; and 66% say his conduct of monetary policy is very or mostly independent, though that represents a 9-point decline from the prior survey. Respondents believe that too little information from the Fed chairman could result in less effective monetary policy and more volatility.
+Just 31% of respondents now say the Fed "talks too much," compared with 68% in July. That could be a sign that respondents support the less loquacious communication from Warsh. While 69% say the Fed should not be regularly providing forward guidance, 59% say it should regularly offer its reaction function, or how they expect policy to develop relative to incoming data.
+Warsh was still seen by far offering the most important information about the outlook and policy, followed by Fed Governor Waller and New York Fed President John Williams. Most Fed bank presidents and other Fed governors were far behind.
+Continued high inflation, the Iran War and high oil prices were the top three risks to the expansion. But 61% said there is some market risk that could come from ongoing legal battles from the midterm elections.
+A 46% plurality see the Democrats gaining control of the House while Republicans retain control of the Senate. Twenty-nine percent predict the Democrats winning full control of Congress.
+See here for full survey results.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
+    publishedAt: "2026-09-15T11:15:41+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "u-s-confirms-for-first-time-it-has-weapo-0d91281c",
+    title: "U.S. confirms for first time it has weapons deployed in space",
+    titleJa: "U.S. confirms for first time it has weapons deployed in space",
+    summaryJa: "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
+    bodyOriginal: `The U.S. has said for the first time Monday that the Space Force has deployed weapons in orbit.
+U.S. Air Force Secretary Troy Meink told the Air and Space Cyber Conference that the U.S. has "on-orbit space control weapons," as he outlined a broader push to modernize the Air Force and Space Force in response to advances by U.S. adversaries, AI, and the growing use of autonomous weapons.
+He did not specify what kind of weapons in space had been deployed, or when, according to the official Air Force account.
+In the speech, Meink described a rapidly accelerating threat environment facing the U.S., saying that adversaries were exploiting new technologies and arguing that the U.S. needed to increase combat power faster and more affordably, including through autonomous systems and cheaper weapons.
+"We will dramatically increase our combat power by adding large numbers of highly autonomous systems," he said. "Because of the steps we're taking today, we'll have a radically different-looking Air Force by 2032."
+His comments come as governments are reassessing what weapons and defense systems they'll need to defend themselves against an increased threat from hybrid attacks. The fighting in Ukraine in particular has highlighted how warfare is moving more towards autonomous systems, AI and drones.
+Boosted by the successful public listing of SpaceX earlier this year – the largest IPO ever – investors are increasingly looking to place bets on the growing commercial space economy.`,
+    bodyJa: `The U.S. has said for the first time Monday that the Space Force has deployed weapons in orbit.
+U.S. Air Force Secretary Troy Meink told the Air and Space Cyber Conference that the U.S. has "on-orbit space control weapons," as he outlined a broader push to modernize the Air Force and Space Force in response to advances by U.S. adversaries, AI, and the growing use of autonomous weapons.
+He did not specify what kind of weapons in space had been deployed, or when, according to the official Air Force account.
+In the speech, Meink described a rapidly accelerating threat environment facing the U.S., saying that adversaries were exploiting new technologies and arguing that the U.S. needed to increase combat power faster and more affordably, including through autonomous systems and cheaper weapons.
+"We will dramatically increase our combat power by adding large numbers of highly autonomous systems," he said. "Because of the steps we're taking today, we'll have a radically different-looking Air Force by 2032."
+His comments come as governments are reassessing what weapons and defense systems they'll need to defend themselves against an increased threat from hybrid attacks. The fighting in Ukraine in particular has highlighted how warfare is moving more towards autonomous systems, AI and drones.
+Boosted by the successful public listing of SpaceX earlier this year – the largest IPO ever – investors are increasingly looking to place bets on the growing commercial space economy.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
+    publishedAt: "2026-09-15T11:06:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "state-pension-likely-to-top-13-000-a-yea-c797d366",
+    title: "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+    titleJa: "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+    summaryJa: "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
+    bodyOriginal: `State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+- Published
+The state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.
+The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.
+The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.5% - whichever is highest.
+Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.
+'Substantial' cost
+The triple lock was designed to ensure the value of the state pension was not overtaken by the increase in the cost of living or the incomes of working people.
+Although the state pension age is rising to 67, the cost to the government has risen considerably too. Forecasts suggest state pension spending, already at £154bn this year, could go up by a further £600m a year by 2029-30.
+The policy is "crazy," Ruth Curtice, the chief executive of the Resolution Foundation think tank, told the BBC.
+The triple lock is creating a "ratchet effect" where "pensioners' living standards grow even faster than just a typical worker," she added.
+"Pensioners have seen living standards grow three times more than typical workers over the last 20 years."
+Jonathan Cribb, deputy director of Institute for Fiscal Studies (IFS) think tank, said: "Each increase in spending builds upon the last and so the long-run cost is substantial but very uncertain."
+How much could pensioners receive?
+The state pension is expected to match wage growth in the next calculation and is likely to be higher than the rate of inflation.
+Average wage growth, including bonuses, stood at 3.9% between May and July, according to the Office for National Statistics (ONS), external, down from 4.2% between April and June.
+But it is higher than average pay growth, not including bonuses, which rose by 3.5%.
+This means:
+the flat-rate state pension - for those who reached state pension age after April 2016 – will likely be £250.70 a week, or £13,036.40 a year. That would be an increase of £488
+the old basic state pension - for those who reached state pension age before April 2016 – will likely be £192.10 a week, or £9,989.20 a year, an increase of £374.40
+Pensioner groups have said older people face significant cost of living pressures, such as high energy bills and the state pension itself remained relatively small compared with state provision across Europe.
+Will pensioners pay tax?
+Almost 13 million people receive the state pension in the UK. If it does rise by 3.9%, it would take the flat-rate state pension above the personal allowance of £12,570 and therefore be liable for income tax.
+The government said it has recommitted to exempting people whose only income is the state pension from tax.
+The Labour government - when Rachel Reeves was chancellor - promised that pensioners who rely solely on the state pension would not be required to complete a tax return, nor be chased to pay.
+When asked by the BBC on Tuesday morning, Business Secretary Jonathan Reynolds refused to confirm that pensioners reliant on the state pension will be exempted from paying income tax.
+Later, pensions minister Torsten Bell, said: "In line with the commitment made at Budget 2025, pensioners who only just the exceed the personal allowance will not pay small amounts of tax in this parliament which we know is an administrative burden.
+"The chancellor will set out further details on how that commitment will be delivered at the Budget."
+Analysis by consultants LCP suggested that only one in 16 pensioners would benefit under the government's pledge, saving about £91 each a year.
+The majority of pensioners have additional pension income and so pay income tax already.
+"The government's plans to address this point are a mess," said Sir Steve Webb, a partner at LCP and a former Liberal Democrat pensions minister.
+Prior to the government saying it had recommitted to its pledge on tax and pensions, shadow chancellor Andrew Griffith said: "People living on nothing but their state pension are now facing a tax bill for the first time ever.
+"Many will spend the last years of their lives filing tax returns or hanging on HMRC telephone helplines."
+The ONS also published figures on the UK labour force.
+While the unemployment rate was unchanged at 4.9%, the number of vacancies and employees on payrolls fell in recent months.
+Get in touch
+Will the increase see you pay tax for the first time?
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+- Published
+The state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.
+The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.
+The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.5% - whichever is highest.
+Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.
+'Substantial' cost
+The triple lock was designed to ensure the value of the state pension was not overtaken by the increase in the cost of living or the incomes of working people.
+Although the state pension age is rising to 67, the cost to the government has risen considerably too. Forecasts suggest state pension spending, already at £154bn this year, could go up by a further £600m a year by 2029-30.
+The policy is "crazy," Ruth Curtice, the chief executive of the Resolution Foundation think tank, told the BBC.
+The triple lock is creating a "ratchet effect" where "pensioners' living standards grow even faster than just a typical worker," she added.
+"Pensioners have seen living standards grow three times more than typical workers over the last 20 years."
+Jonathan Cribb, deputy director of Institute for Fiscal Studies (IFS) think tank, said: "Each increase in spending builds upon the last and so the long-run cost is substantial but very uncertain."
+How much could pensioners receive?
+The state pension is expected to match wage growth in the next calculation and is likely to be higher than the rate of inflation.
+Average wage growth, including bonuses, stood at 3.9% between May and July, according to the Office for National Statistics (ONS), external, down from 4.2% between April and June.
+But it is higher than average pay growth, not including bonuses, which rose by 3.5%.
+This means:
+the flat-rate state pension - for those who reached state pension age after April 2016 – will likely be £250.70 a week, or £13,036.40 a year. That would be an increase of £488
+the old basic state pension - for those who reached state pension age before April 2016 – will likely be £192.10 a week, or £9,989.20 a year, an increase of £374.40
+Pensioner groups have said older people face significant cost of living pressures, such as high energy bills and the state pension itself remained relatively small compared with state provision across Europe.
+Will pensioners pay tax?
+Almost 13 million people receive the state pension in the UK. If it does rise by 3.9%, it would take the flat-rate state pension above the personal allowance of £12,570 and therefore be liable for income tax.
+The government said it has recommitted to exempting people whose only income is the state pension from tax.
+The Labour government - when Rachel Reeves was chancellor - promised that pensioners who rely solely on the state pension would not be required to complete a tax return, nor be chased to pay.
+When asked by the BBC on Tuesday morning, Business Secretary Jonathan Reynolds refused to confirm that pensioners reliant on the state pension will be exempted from paying income tax.
+Later, pensions minister Torsten Bell, said: "In line with the commitment made at Budget 2025, pensioners who only just the exceed the personal allowance will not pay small amounts of tax in this parliament which we know is an administrative burden.
+"The chancellor will set out further details on how that commitment will be delivered at the Budget."
+Analysis by consultants LCP suggested that only one in 16 pensioners would benefit under the government's pledge, saving about £91 each a year.
+The majority of pensioners have additional pension income and so pay income tax already.
+"The government's plans to address this point are a mess," said Sir Steve Webb, a partner at LCP and a former Liberal Democrat pensions minister.
+Prior to the government saying it had recommitted to its pledge on tax and pensions, shadow chancellor Andrew Griffith said: "People living on nothing but their state pension are now facing a tax bill for the first time ever.
+"Many will spend the last years of their lives filing tax returns or hanging on HMRC telephone helplines."
+The ONS also published figures on the UK labour force.
+While the unemployment rate was unchanged at 4.9%, the number of vacancies and employees on payrolls fell in recent months.
+Get in touch
+Will the increase see you pay tax for the first time?
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T11:05:42+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "10-year-treasury-yield-rises-to-highest-bf541d9e",
+    title: "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+    titleJa: "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+    summaryJa: "The sell-off in U.S. government debt is deepening as investors increasingly price in an interest rate hike this week.",
+    bodyOriginal: `The benchmark 10-year Treasury yield climbed to its highest level since 2007 on Tuesday as a sell-off in U.S. government debt deepened ahead of the Federal Reserve's interest-rate decision, which could ripple through the economy.
+The 10-year yield jumped 5 basis points to 5.014% as of 6:29 a.m. ET. Earlier in the session, it scaled to 5.041%.
+One basis point equals 0.01 percentage point, and yields and prices move in opposite directions.
+The yield on the longer-dated 30-year Treasury bond, more sensitive to geopolitical risks, rose 5 basis points to 5.381%. The 2-year Treasury note yield climbed about 3 basis points to 4..663%
+The move comes ahead of the Federal Reserve's two-day policy meeting beginning Tuesday, with markets pricing in higher chances of a quarter-point rate hike after August inflation remained well above the central bank's 2% target.
+Traders are pricing in a more than 92% chance that the Fed will raise rates by 25 basis points in its latest meeting, according to the CME FedWatch tool.
+"U.S. 10-year treasuries are highly sensitive to inflation expectations, and with inflation gauges still above the Fed's target of 2%, we believe this tight correlation will likely persist for a while," said Jonathan Liang, Standard Chartered's CIO of fixed income and FX.
+The tight relationship between oil and Treasurys could add further upward pressure on yields if crude prices remain elevated, as higher energy costs feed into inflation expectations, experts told CNBC.
+The one-month rolling correlation between front-month West Texas Intermediate crude and the 10-year Treasury yield has climbed to 0.96, according to BMO Capital Markets.
+"Speaking simplistically, higher oil prices lead to higher inflation expectations and vice versa," said Steve Sosnick, chief strategist at Interactive Brokers.
+"Normally, the relationship isn't as clean as it is now, but the geopolitical drivers behind the price of oil and global inflation are so prominent that the normally modest correlation has become much tighter," he told CNBC via email.
+"As long as oil prices remain firm and continue to drift higher, this will add pressure to interest rates," he added.`,
+    bodyJa: `The benchmark 10-year Treasury yield climbed to its highest level since 2007 on Tuesday as a sell-off in U.S. government debt deepened ahead of the Federal Reserve's interest-rate decision, which could ripple through the economy.
+The 10-year yield jumped 5 basis points to 5.014% as of 6:29 a.m. ET. Earlier in the session, it scaled to 5.041%.
+One basis point equals 0.01 percentage point, and yields and prices move in opposite directions.
+The yield on the longer-dated 30-year Treasury bond, more sensitive to geopolitical risks, rose 5 basis points to 5.381%. The 2-year Treasury note yield climbed about 3 basis points to 4..663%
+The move comes ahead of the Federal Reserve's two-day policy meeting beginning Tuesday, with markets pricing in higher chances of a quarter-point rate hike after August inflation remained well above the central bank's 2% target.
+Traders are pricing in a more than 92% chance that the Fed will raise rates by 25 basis points in its latest meeting, according to the CME FedWatch tool.
+"U.S. 10-year treasuries are highly sensitive to inflation expectations, and with inflation gauges still above the Fed's target of 2%, we believe this tight correlation will likely persist for a while," said Jonathan Liang, Standard Chartered's CIO of fixed income and FX.
+The tight relationship between oil and Treasurys could add further upward pressure on yields if crude prices remain elevated, as higher energy costs feed into inflation expectations, experts told CNBC.
+The one-month rolling correlation between front-month West Texas Intermediate crude and the 10-year Treasury yield has climbed to 0.96, according to BMO Capital Markets.
+"Speaking simplistically, higher oil prices lead to higher inflation expectations and vice versa," said Steve Sosnick, chief strategist at Interactive Brokers.
+"Normally, the relationship isn't as clean as it is now, but the geopolitical drivers behind the price of oil and global inflation are so prominent that the normally modest correlation has become much tighter," he told CNBC via email.
+"As long as oil prices remain firm and continue to drift higher, this will add pressure to interest rates," he added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+    publishedAt: "2026-09-15T10:31:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "kraft-heinz-bets-on-more-flavors-for-phi-ef06fc9e",
+    title: "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
+    titleJa: "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
+    summaryJa: "Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround.",
+    bodyOriginal: `Philadelphia cream cheese will release three new flavors on Tuesday as part of Kraft Heinz's broader plan to reinvest in its iconic brands and win back shoppers.
+Previously, the 154-year-old brand released about one or two new flavors such as garden vegetable or pineapple every year. Over the next two years, it plans to launch 10 new varieties, with the goal of "creating some excitement" within the cream cheese category, according to Jerome Drolet, Kraft Heinz's president of taste elevation.
+Drolet's position is a nod to Kraft Heinz's now-paused split. When the packaged foods giant planned to spin off into two separate companies, one had the temporary name of "Global Taste Elevation," which would house condiments, sauces and Kraft Mac & Cheese. For now, Kraft Heinz is sticking together and trying to stage a comeback by making its legacy brands more relevant.
+In the period since Kraft Heinz announced the split was paused, the company's shares have fallen 2%. Some investors are pessimistic that its well-known but stalled brands can ever regain shoppers' favor, even with a $700 million investment from Kraft Heinz.
+Some of that money is pouring into Philadelphia. The company's spending on the cream cheese brand is expected to climb 63% this year compared with 2025, including more backing for its research and development, according to Drolet. And investment in new flavors has quadrupled, he said.
+Philadelphia accounts for about 62% of U.S. cream cheese sales, according to data from Euromonitor International. But its dominance means that it is responsible for growing sales of the overall cream cheese category.
+Kraft Heinz is hoping that new flavors will drive more cream cheese sales. The first round of new Philadelphia releases includes Mike's Hot Honey whipped cream cheese, salted caramel and a seasonal cranberry orange, which will only be available for a limited time. The Mike's Hot Honey flavor will launch in Walmart exclusively until it hits other retailers' shelves in January.
+"We want to make sure that the profile of the products we're launching are hitting critical masses," Drolet said. "It needs to be incremental, but it also cannot be too niche so that it only sells a few units."
+As part of the strategy to widen cream cheese's appeal to shoppers, Philadelphia also launched a lactose-free version earlier this year.
+Some of Philadelphia's expanded marketing spend will once again focus on the brand's "pure dairy equity," according to Drolet. The strategy recalls the ethos that inspired its Philadelphia cream cheese angel campaigns of the 1990s. In February, it launched its "Really Philly good" campaign.
+The brand is also trying to reach consumers to encourage them to use cream cheese as more than a schmear for a bagel. Philadelphia's cream cheese brick has already been a cooking and baking staple for decades. Expect to see more TikTok influencers and recipe websites using Philadelphia cream cheese in creative ways.
+Drolet sees opportunities to use them in dips and even pasta sauce — like swapping out heavy cream for the Mike's Hot Honey cream cheese in a Bolognese.
+"We're definitely the leader in the category, and as the leader, it's also on us to really drive the occasion," he said.
+Spreading the investment
+While Kraft Heinz does not break down sales for Philadelphia, the cream cheese is one of the company's billion-dollar brands, along with the likes of Kraft Mac & Cheese, Kraft Singles, Heinz, Lunchables and Oscar Mayer.
+But the size of those brands conceals their struggles. For years after the 2015 megamerger that created Kraft Heinz, the company saw its U.S. sales slip as its biggest names lost shoppers. In early 2019, Philadelphia was one of six brands the company wrote down as the value of its intangible assets fell.
+Executives and analysts have pointed to previous management's underinvestment in the company's products as the primary culprit for many of its business challenges.
+A year ago, Kraft Heinz announced plans to break up, which would effectively unwind much of the merger that combined Kraft with Heinz. But in February, new CEO Steve Cahillane announced that Kraft Heinz would pause the split to fix the company instead. He also said that Kraft Heinz would invest $600 million back into the business.
+Kraft Heinz recently upped that number to $700 million, saying that early investments were already paying off for the company. About 35% of Kraft Heinz's portfolio is holding or gaining market share, up from 21% at the end of 2025, Cahillane said at the Barclays Global Consumer Conference earlier this month.
+Of course, Philadelphia isn't the only Kraft Heinz brand netting more investment during the company's turnaround. The company has released improved packaging for Oscar Mayer products and unveiled Kool-Aid electrolyte packets and protein-packed Kraft Mac & Cheese PowerMac, among other efforts to grow sales for some of its best-known brands.`,
+    bodyJa: `Philadelphia cream cheese will release three new flavors on Tuesday as part of Kraft Heinz's broader plan to reinvest in its iconic brands and win back shoppers.
+Previously, the 154-year-old brand released about one or two new flavors such as garden vegetable or pineapple every year. Over the next two years, it plans to launch 10 new varieties, with the goal of "creating some excitement" within the cream cheese category, according to Jerome Drolet, Kraft Heinz's president of taste elevation.
+Drolet's position is a nod to Kraft Heinz's now-paused split. When the packaged foods giant planned to spin off into two separate companies, one had the temporary name of "Global Taste Elevation," which would house condiments, sauces and Kraft Mac & Cheese. For now, Kraft Heinz is sticking together and trying to stage a comeback by making its legacy brands more relevant.
+In the period since Kraft Heinz announced the split was paused, the company's shares have fallen 2%. Some investors are pessimistic that its well-known but stalled brands can ever regain shoppers' favor, even with a $700 million investment from Kraft Heinz.
+Some of that money is pouring into Philadelphia. The company's spending on the cream cheese brand is expected to climb 63% this year compared with 2025, including more backing for its research and development, according to Drolet. And investment in new flavors has quadrupled, he said.
+Philadelphia accounts for about 62% of U.S. cream cheese sales, according to data from Euromonitor International. But its dominance means that it is responsible for growing sales of the overall cream cheese category.
+Kraft Heinz is hoping that new flavors will drive more cream cheese sales. The first round of new Philadelphia releases includes Mike's Hot Honey whipped cream cheese, salted caramel and a seasonal cranberry orange, which will only be available for a limited time. The Mike's Hot Honey flavor will launch in Walmart exclusively until it hits other retailers' shelves in January.
+"We want to make sure that the profile of the products we're launching are hitting critical masses," Drolet said. "It needs to be incremental, but it also cannot be too niche so that it only sells a few units."
+As part of the strategy to widen cream cheese's appeal to shoppers, Philadelphia also launched a lactose-free version earlier this year.
+Some of Philadelphia's expanded marketing spend will once again focus on the brand's "pure dairy equity," according to Drolet. The strategy recalls the ethos that inspired its Philadelphia cream cheese angel campaigns of the 1990s. In February, it launched its "Really Philly good" campaign.
+The brand is also trying to reach consumers to encourage them to use cream cheese as more than a schmear for a bagel. Philadelphia's cream cheese brick has already been a cooking and baking staple for decades. Expect to see more TikTok influencers and recipe websites using Philadelphia cream cheese in creative ways.
+Drolet sees opportunities to use them in dips and even pasta sauce — like swapping out heavy cream for the Mike's Hot Honey cream cheese in a Bolognese.
+"We're definitely the leader in the category, and as the leader, it's also on us to really drive the occasion," he said.
+Spreading the investment
+While Kraft Heinz does not break down sales for Philadelphia, the cream cheese is one of the company's billion-dollar brands, along with the likes of Kraft Mac & Cheese, Kraft Singles, Heinz, Lunchables and Oscar Mayer.
+But the size of those brands conceals their struggles. For years after the 2015 megamerger that created Kraft Heinz, the company saw its U.S. sales slip as its biggest names lost shoppers. In early 2019, Philadelphia was one of six brands the company wrote down as the value of its intangible assets fell.
+Executives and analysts have pointed to previous management's underinvestment in the company's products as the primary culprit for many of its business challenges.
+A year ago, Kraft Heinz announced plans to break up, which would effectively unwind much of the merger that combined Kraft with Heinz. But in February, new CEO Steve Cahillane announced that Kraft Heinz would pause the split to fix the company instead. He also said that Kraft Heinz would invest $600 million back into the business.
+Kraft Heinz recently upped that number to $700 million, saying that early investments were already paying off for the company. About 35% of Kraft Heinz's portfolio is holding or gaining market share, up from 21% at the end of 2025, Cahillane said at the Barclays Global Consumer Conference earlier this month.
+Of course, Philadelphia isn't the only Kraft Heinz brand netting more investment during the company's turnaround. The company has released improved packaging for Oscar Mayer products and unveiled Kool-Aid electrolyte packets and protein-packed Kraft Mac & Cheese PowerMac, among other efforts to grow sales for some of its best-known brands.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
+    publishedAt: "2026-09-15T10:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "oil-extends-gains-following-houthi-strik-be64398f",
     title: "Oil extends gains following Houthi strikes on Saudi Arabia",
     titleJa: "Oil extends gains following Houthi strikes on Saudi Arabia",
@@ -366,6 +646,48 @@ The White House approach, combined with a lack of political will and consensus, 
     publishedAt: "2026-09-15T02:50:36+00:00",
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "supreme-court-rejects-trump-bid-to-lift-afb8c549",
+    title: "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
+    titleJa: "Supreme Court rejects Trump bid to lift block on U.S. Postal Service mail-in ballots rule",
+    summaryJa: "Justice Brett Kavanaugh said that applying the U.S. Postal Service rule in the 2026 midterm elections \"would be arbitrary and capricious.\"",
+    bodyOriginal: `The Supreme Court on Monday night rejected a request by the Trump administration to lift a judicial block on a controversial U.S. Postal Service rule that critics feared would make it more difficult to vote by mail in the upcoming midterm elections.
+In an unsigned order, the Supreme Court said the administration "is unlikely to succeed on the merits of its challenge to the" preliminary injunction issued by a federal court judge in Boston preventing the USPS rule from being used in November's elections nationwide.
+The decision comes less than two months before Election Day for contests that will determine which political party controls each chamber of Congress. President Donald Trump's fellow Republicans hold slim majorities in both the House of Representatives and the Senate.
+Justice Brett Kavanaugh, a Trump appointee, concurred with the ruling in a statement that said, "there is at least a fair prospect that the final rule falls within the Postal Service's statutory authority."
+"But applying the rule in the 2026 elections would be arbitrary and capricious in violation of the Administrative Procedure Act because state and local election officials do not have sufficient time to reasonably implement the rule before the elections," Kavanaugh added. "For that reason, I concur in the denial of the application for stay."
+Two of Kavanaugh's fellow conservatives on the nine-justice court, Justices Samuel Alito and Clarence Thomas, dissented from the decision to reject a stay of the injunction against the Postal Service rule, which was issued in late August.
+That rule, which implemented an executive order issued by Trump in March, established new standards for ballot envelopes and required states to create lists of voters who were eligible to obtain mail ballots.
+Monday's decision by the Supreme Court only prevents the Postal Service's rule from being used in November's elections. It is possible that the court will allow the rule to be used in future elections.
+Alito, in his written dissent, said that some of the plaintiffs who had sued to challenge the Postal Service's rule lacked legal standing to do so, "while the remainder are pursuing a claim that this Court has recently called a 'Hail Mary pass' that 'rarely succeeds.'"
+"The Government has a strong interest in enforcing the rule, and implementing it will also 'enhance the visibility of Federal Ballot Mail' in order to better detect election fraud," Alito wrote.
+"On the other side of the balance, the plaintiff States invoke the practical effects of implementing the rule close to the midterm elections. I take that problem very seriously, but it is not enough to convince me to deny the application."
+Celina Stewart, CEO of the League of Women Voters, one of the plaintiffs in the case, said in a statement, "Today, the Supreme Court refused to allow the federal government to throw our elections into chaos just weeks before Election Day."
+"The Postal Service exists to deliver Americans' mail — not to rewrite election rules, demand voters' personal information, or decide which ballots make it through the system," Stewart said. "This was an extraordinary attempt to interfere with voting in all 50 states, and voters should never have been put in this position. Voters should never be caught in the middle of a political power warfare."
+New York Attorney General Letitia James, who was part of the coalition suing to block the rule, said in a statement, "I am truly relieved the Court granted this reprieve."
+"Voters should never have to wonder whether a ballot they legally cast will be counted because the federal government suddenly changed the rules," James said. "We will keep fighting to make sure every eligible ballot is counted come November. Now, I encourage all eligible Americans to get out and vote – and vote early."`,
+    bodyJa: `The Supreme Court on Monday night rejected a request by the Trump administration to lift a judicial block on a controversial U.S. Postal Service rule that critics feared would make it more difficult to vote by mail in the upcoming midterm elections.
+In an unsigned order, the Supreme Court said the administration "is unlikely to succeed on the merits of its challenge to the" preliminary injunction issued by a federal court judge in Boston preventing the USPS rule from being used in November's elections nationwide.
+The decision comes less than two months before Election Day for contests that will determine which political party controls each chamber of Congress. President Donald Trump's fellow Republicans hold slim majorities in both the House of Representatives and the Senate.
+Justice Brett Kavanaugh, a Trump appointee, concurred with the ruling in a statement that said, "there is at least a fair prospect that the final rule falls within the Postal Service's statutory authority."
+"But applying the rule in the 2026 elections would be arbitrary and capricious in violation of the Administrative Procedure Act because state and local election officials do not have sufficient time to reasonably implement the rule before the elections," Kavanaugh added. "For that reason, I concur in the denial of the application for stay."
+Two of Kavanaugh's fellow conservatives on the nine-justice court, Justices Samuel Alito and Clarence Thomas, dissented from the decision to reject a stay of the injunction against the Postal Service rule, which was issued in late August.
+That rule, which implemented an executive order issued by Trump in March, established new standards for ballot envelopes and required states to create lists of voters who were eligible to obtain mail ballots.
+Monday's decision by the Supreme Court only prevents the Postal Service's rule from being used in November's elections. It is possible that the court will allow the rule to be used in future elections.
+Alito, in his written dissent, said that some of the plaintiffs who had sued to challenge the Postal Service's rule lacked legal standing to do so, "while the remainder are pursuing a claim that this Court has recently called a 'Hail Mary pass' that 'rarely succeeds.'"
+"The Government has a strong interest in enforcing the rule, and implementing it will also 'enhance the visibility of Federal Ballot Mail' in order to better detect election fraud," Alito wrote.
+"On the other side of the balance, the plaintiff States invoke the practical effects of implementing the rule close to the midterm elections. I take that problem very seriously, but it is not enough to convince me to deny the application."
+Celina Stewart, CEO of the League of Women Voters, one of the plaintiffs in the case, said in a statement, "Today, the Supreme Court refused to allow the federal government to throw our elections into chaos just weeks before Election Day."
+"The Postal Service exists to deliver Americans' mail — not to rewrite election rules, demand voters' personal information, or decide which ballots make it through the system," Stewart said. "This was an extraordinary attempt to interfere with voting in all 50 states, and voters should never have been put in this position. Voters should never be caught in the middle of a political power warfare."
+New York Attorney General Letitia James, who was part of the coalition suing to block the rule, said in a statement, "I am truly relieved the Court granted this reprieve."
+"Voters should never have to wonder whether a ballot they legally cast will be counted because the federal government suddenly changed the rules," James said. "We will keep fighting to make sure every eligible ballot is counted come November. Now, I encourage all eligible Americans to get out and vote – and vote early."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html",
+    publishedAt: "2026-09-15T00:48:36+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
   },
   {
@@ -1871,330 +2193,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa04/live/90cf5970-af92-11f1-9dc8-673e33e35c20.jpg",
     readTime: 8,
-  },
-  {
-    id: "how-to-trade-a-well-paying-job-for-more-36164bd9",
-    title: "How to trade a well-paying job for more work-life balance — without going broke",
-    titleJa: "How to trade a well-paying job for more work-life balance — without going broke",
-    summaryJa: "As caregiving demands rise, many professionals are rethinking what success means to them.",
-    bodyOriginal: `As caregiving demands rise, many professionals are rethinking what success means to them.`,
-    bodyJa: `As caregiving demands rise, many professionals are rethinking what success means to them.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
-    publishedAt: "2026-09-13T20:17:00+00:00",
-    category: "貿易",
-    imageUrl: "https://images.mktw.net/im-53724017",
-    readTime: 2,
-  },
-  {
-    id: "the-future-of-retirement-work-until-you-9b8b1c1b",
-    title: "The future of retirement? Work until you die.",
-    titleJa: "The future of retirement? Work until you die.",
-    summaryJa: "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
-    bodyOriginal: `Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.`,
-    bodyJa: `Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-    publishedAt: "2026-09-13T19:56:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-92547390",
-    readTime: 2,
-  },
-  {
-    id: "russia-hits-ukrainian-train-shortly-afte-46439ade",
-    title: "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-    titleJa: "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-    summaryJa: "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-    bodyOriginal: `Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
-- Published
-A Russian drone has hit a train near the Ukraine-Poland border shortly after former UK Prime Minister Boris Johnson and top European security officials had passed through.
-No casualties were reported after the strike at Yahodyn, which hit the train's engine. All the passengers had been evacuated, Ukrainian authorities said.
-Johnson and other European national security advisers, including the UK's Jonathan Powell, had passed along the same line on a different train on their way back from a conference in Kyiv.
-Russia said it had struck "railway infrastructure" in western Ukraine, but Ukraine's state railway company Ukrzaliznytsia said that "quite possibly, the target of this drone could have been the diplomatic train".
-In a statement, it said the train "had left the station earlier than expected because of the timetable change... due to constant threats of Russian strikes".
-It also said an evacuation order for passengers on the hit train had been given "just 15 minutes" before the strike by a Russian jet-propelled drone.
-The railway authority also said former CIA chief David Petraeus had been on board another train at Yahodyn station at the time of the drone strike.
-Both Ukrainian and Polish authorities said the Russian drone had struck 2km from the Polish border.
-Former Swedish Prime Minister Carl Bildt, who had also attended the conference in Kyiv, told the BBC passengers on board his train had been told to prepare for evacuation before subsequently being allowed to continue their journey.
-"On the train I was on we received order to prepare evacuation after it had stopped. But after a number of minutes we were informed that it was clear and we could proceed," he said.
-That train then safely arrived at Poland's border station in Dorohusk.
-Some reports have suggested Bildt was on the same train as Johnson, but the former UK prime minister has not confirmed any details.
-Johnson wrote on X: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning.
-He said this was "the kind of random and senseless attack Ukrainians are enduring every day - even on civilian railways" and urged Kyiv's allies to urgently provide Ukrainians "the air defences they need".
-Ukraine has made repeated pleas to its allies - particularly the US - to provide more interceptors to defend against daily Russian attacks that increasingly use fast-moving ballistic missiles and jet-propelled drones.
-Ukrainian Foreign Minister Andrii Sybiha said the "barbaric strikes" at the Ukraine-Poland border in Yahodyn amounted to "[Russian President Vladimir] Putin's terror 'knocking' directly on the doors of the EU and Nato" and renewed calls for more sanctions on Moscow.
-"Putin needs to understand that his barbarism will be met with decisive action that increases the cost of war for him to an unacceptable level. This is the only way to stop him," he said.
-In Poland, Prime Minister Donald Tusk held an emergency meeting to discuss the latest developments.
-"The escalation of the actions from the Russian side is becoming a reality, and they are getting closer and closer to our border."
-Johnson and other top European security advisers were on their way back from the Yalta European Strategy (YES) conference in Kyiv - an annual event that brings together leaders and experts from politics, business, security and mass media.
-PM's top security adviser says Europe faces hard winter to keep pressure on Putin
-- Published14 hours ago
-Russia appears to be escalating its war against Ukraine by targeting trains, railway depots, petrol stations and border crossings.
-Earlier this week, two people were killed when Russian drones hit a border crossing between Ukraine and Moldova, Ukrainian President Volodymyr Zelensky said.
-Also this week, a female conductor died in a Russian drone attack on a passenger train in southern Ukraine. Six Ukrzaliznytsia employees were killed after a depot was struck n Kyiv at the start of the month.
-In January, Zelensky condemned as "terrorism" a Russian strike on a crowded passenger train in the north-eastern Kharkiv region that left five people dead.
-The Russian attacks have significantly damaged Ukraine's vast train network - the main mode of transportation for millions of Ukrainians as all air travel has been suspended since the start of Russia's full-scale invasion in 2022.
-European countries are also blaming Russia for suspicious incidents on their territory.
-Last week, Germany said Russia was responsible for August's drone attack at Leipzig's airport - a claim denied by Moscow as "absurd".
-There have also been a number of suspicious fires at defence facilities from Italy to Estonia, with some of the affected countries blaming Russia.`,
-    bodyJa: `Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station
-- Published
-A Russian drone has hit a train near the Ukraine-Poland border shortly after former UK Prime Minister Boris Johnson and top European security officials had passed through.
-No casualties were reported after the strike at Yahodyn, which hit the train's engine. All the passengers had been evacuated, Ukrainian authorities said.
-Johnson and other European national security advisers, including the UK's Jonathan Powell, had passed along the same line on a different train on their way back from a conference in Kyiv.
-Russia said it had struck "railway infrastructure" in western Ukraine, but Ukraine's state railway company Ukrzaliznytsia said that "quite possibly, the target of this drone could have been the diplomatic train".
-In a statement, it said the train "had left the station earlier than expected because of the timetable change... due to constant threats of Russian strikes".
-It also said an evacuation order for passengers on the hit train had been given "just 15 minutes" before the strike by a Russian jet-propelled drone.
-The railway authority also said former CIA chief David Petraeus had been on board another train at Yahodyn station at the time of the drone strike.
-Both Ukrainian and Polish authorities said the Russian drone had struck 2km from the Polish border.
-Former Swedish Prime Minister Carl Bildt, who had also attended the conference in Kyiv, told the BBC passengers on board his train had been told to prepare for evacuation before subsequently being allowed to continue their journey.
-"On the train I was on we received order to prepare evacuation after it had stopped. But after a number of minutes we were informed that it was clear and we could proceed," he said.
-That train then safely arrived at Poland's border station in Dorohusk.
-Some reports have suggested Bildt was on the same train as Johnson, but the former UK prime minister has not confirmed any details.
-Johnson wrote on X: "I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning.
-He said this was "the kind of random and senseless attack Ukrainians are enduring every day - even on civilian railways" and urged Kyiv's allies to urgently provide Ukrainians "the air defences they need".
-Ukraine has made repeated pleas to its allies - particularly the US - to provide more interceptors to defend against daily Russian attacks that increasingly use fast-moving ballistic missiles and jet-propelled drones.
-Ukrainian Foreign Minister Andrii Sybiha said the "barbaric strikes" at the Ukraine-Poland border in Yahodyn amounted to "[Russian President Vladimir] Putin's terror 'knocking' directly on the doors of the EU and Nato" and renewed calls for more sanctions on Moscow.
-"Putin needs to understand that his barbarism will be met with decisive action that increases the cost of war for him to an unacceptable level. This is the only way to stop him," he said.
-In Poland, Prime Minister Donald Tusk held an emergency meeting to discuss the latest developments.
-"The escalation of the actions from the Russian side is becoming a reality, and they are getting closer and closer to our border."
-Johnson and other top European security advisers were on their way back from the Yalta European Strategy (YES) conference in Kyiv - an annual event that brings together leaders and experts from politics, business, security and mass media.
-PM's top security adviser says Europe faces hard winter to keep pressure on Putin
-- Published14 hours ago
-Russia appears to be escalating its war against Ukraine by targeting trains, railway depots, petrol stations and border crossings.
-Earlier this week, two people were killed when Russian drones hit a border crossing between Ukraine and Moldova, Ukrainian President Volodymyr Zelensky said.
-Also this week, a female conductor died in a Russian drone attack on a passenger train in southern Ukraine. Six Ukrzaliznytsia employees were killed after a depot was struck n Kyiv at the start of the month.
-In January, Zelensky condemned as "terrorism" a Russian strike on a crowded passenger train in the north-eastern Kharkiv region that left five people dead.
-The Russian attacks have significantly damaged Ukraine's vast train network - the main mode of transportation for millions of Ukrainians as all air travel has been suspended since the start of Russia's full-scale invasion in 2022.
-European countries are also blaming Russia for suspicious incidents on their territory.
-Last week, Germany said Russia was responsible for August's drone attack at Leipzig's airport - a claim denied by Moscow as "absurd".
-There have also been a number of suspicious fires at defence facilities from Italy to Estonia, with some of the affected countries blaming Russia.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T19:14:21+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "fed-rate-hikes-won-t-bring-down-gas-pric-c05f198b",
-    title: "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-    titleJa: "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for them anyway.",
-    summaryJa: "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
-    bodyOriginal: `The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.`,
-    bodyJa: `The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
-    publishedAt: "2026-09-13T19:00:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-90902515",
-    readTime: 2,
-  },
-  {
-    id: "trump-downplays-warnings-of-ai-risks-cit-f700576d",
-    title: "Trump downplays warnings of AI risks, citing rivalry with China",
-    titleJa: "Trump downplays warnings of AI risks, citing rivalry with China",
-    summaryJa: "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
-    bodyOriginal: `Trump downplays warnings of AI risks, citing rivalry with China
-- Published
-US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts.
-"You have a lot of very negative forces that are bringing it up that shouldn't be bringing it up and they're bringing up things that won't happen," Trump said during a visit to Ireland.
-One of the warnings came from a former Anthropic researcher who said "there is a strong chance that we could all die in the immediate future" if the current pace of development continued.
-On Saturday, top industry bosses agreed and called for a slow-down. Trump did not directly address the idea, but said: "We're leading China on AI... and, frankly, I want to keep it that way because whoever wins AI, wins."
-Trump spoke on the same day AI researcher Jacob Coxon - who quit Anthropic a few days ago - told the BBC that staff who were developing the systems were "genuinely frightened" for the future of humanity.
-Coxon – who has also worked at OpenAI – welcomed the idea of a slowdown but said it would need to be co-ordinated with China.
-On Saturday, Elon Musk, owner of xAI, and Sam Altman of OpenAI, backed a warning from the head of Anthropic Dario Amodei that the pace of development should be slowed "to reduce the risk that something goes seriously wrong".
-The Anthropic CEO said any slowdown would have to be limited to avoid allowing China to pull ahead.
-The issues surrounding AI have prompted fierce debate - and present a dilemma for many world leaders.
-On one hand, the sector is seen as a huge opportunity to boost economic growth and a way to improve outdated digital systems and ways of working.
-But there have also been a number of incidents where AI appears to have gone seriously wrong.
-In August, OpenAI said it had slowed down training some of its most advanced AI models to improve security.
-The ChatGPT-maker said it was adding new measures after its AI agents bypassed safeguards and hacked the tech start-up Hugging Face.
-And the same month it was disclosed two of the world's most powerful AI tools created fake human profiles to try and trick people in attempted cyber-attacks.
-The UK's AI Security Institute (AISI) said in the most serious case, Anthropic's Mythos AI tried to gain access to a service by sending private messages, having set up fake accounts mimicking real people - then hid the evidence.
-The Trump administration argues that the US must maintain global tech dominance as a matter of national security, though it has admitted a need for vigilance around the risks posed by the emerging technology.
-The weekend call by major AI executives sparked discussion in Washington, where lawmakers are facing pressure to address those potential risks around rapid AI developments.
-On Sunday, Speaker Mike Johnson, the top House Republican, urged caution about rushing AI regulation during an appearance on CNN's Jake Tapper on State of the Union, arguing it could "smother American innovation".
-"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, and that is a threat to every single American," he said. "So, we've got to have balance. We've got to have steady hands at the wheel."
-Democratic House Minority Leader Hakeem Jeffries argued for "decisive action" by lawmakers.
-He told George Stephanopoulos on ABC's This Week that the US should slow down "the pace of development in order to protect the American people and ensure that AI is proceeding safely".
-Responding to recent comments from the AI industry, tech investor David Sacks, who serves on Trump's Council of Advisors on Science and Technology, called on the companies to police themselves.
-"Stop pretending you need anyone else's permission," he posted on X.
-"So go ahead and pace the frontier. You are the ones setting it... Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it."
-Still, there is at least some cross-party consensus on AI regulation. In July, a group of House Democrats and Republicans introduced the Frontier Act, a bipartisan bill that seeks to establish a national safety and oversight framework for AI.
-"Safety researchers are resigning, powerful AI models are breaking out of their labs, and companies are racing ahead anyway," Rep Lori Trahan, a Massachusetts Democrat who co-authored the bill, wrote on X this week.
-"It's past time for Congress to get off the sidelines and do its job."
-Related topics
-- Published23 hours ago
-- Published3 days ago
-- Published11 hours ago`,
-    bodyJa: `Trump downplays warnings of AI risks, citing rivalry with China
-- Published
-US President Donald Trump has downplayed risks posed by artificial intelligence following days of dire warnings by experts.
-"You have a lot of very negative forces that are bringing it up that shouldn't be bringing it up and they're bringing up things that won't happen," Trump said during a visit to Ireland.
-One of the warnings came from a former Anthropic researcher who said "there is a strong chance that we could all die in the immediate future" if the current pace of development continued.
-On Saturday, top industry bosses agreed and called for a slow-down. Trump did not directly address the idea, but said: "We're leading China on AI... and, frankly, I want to keep it that way because whoever wins AI, wins."
-Trump spoke on the same day AI researcher Jacob Coxon - who quit Anthropic a few days ago - told the BBC that staff who were developing the systems were "genuinely frightened" for the future of humanity.
-Coxon – who has also worked at OpenAI – welcomed the idea of a slowdown but said it would need to be co-ordinated with China.
-On Saturday, Elon Musk, owner of xAI, and Sam Altman of OpenAI, backed a warning from the head of Anthropic Dario Amodei that the pace of development should be slowed "to reduce the risk that something goes seriously wrong".
-The Anthropic CEO said any slowdown would have to be limited to avoid allowing China to pull ahead.
-The issues surrounding AI have prompted fierce debate - and present a dilemma for many world leaders.
-On one hand, the sector is seen as a huge opportunity to boost economic growth and a way to improve outdated digital systems and ways of working.
-But there have also been a number of incidents where AI appears to have gone seriously wrong.
-In August, OpenAI said it had slowed down training some of its most advanced AI models to improve security.
-The ChatGPT-maker said it was adding new measures after its AI agents bypassed safeguards and hacked the tech start-up Hugging Face.
-And the same month it was disclosed two of the world's most powerful AI tools created fake human profiles to try and trick people in attempted cyber-attacks.
-The UK's AI Security Institute (AISI) said in the most serious case, Anthropic's Mythos AI tried to gain access to a service by sending private messages, having set up fake accounts mimicking real people - then hid the evidence.
-The Trump administration argues that the US must maintain global tech dominance as a matter of national security, though it has admitted a need for vigilance around the risks posed by the emerging technology.
-The weekend call by major AI executives sparked discussion in Washington, where lawmakers are facing pressure to address those potential risks around rapid AI developments.
-On Sunday, Speaker Mike Johnson, the top House Republican, urged caution about rushing AI regulation during an appearance on CNN's Jake Tapper on State of the Union, arguing it could "smother American innovation".
-"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, and that is a threat to every single American," he said. "So, we've got to have balance. We've got to have steady hands at the wheel."
-Democratic House Minority Leader Hakeem Jeffries argued for "decisive action" by lawmakers.
-He told George Stephanopoulos on ABC's This Week that the US should slow down "the pace of development in order to protect the American people and ensure that AI is proceeding safely".
-Responding to recent comments from the AI industry, tech investor David Sacks, who serves on Trump's Council of Advisors on Science and Technology, called on the companies to police themselves.
-"Stop pretending you need anyone else's permission," he posted on X.
-"So go ahead and pace the frontier. You are the ones setting it... Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it."
-Still, there is at least some cross-party consensus on AI regulation. In July, a group of House Democrats and Republicans introduced the Frontier Act, a bipartisan bill that seeks to establish a national safety and oversight framework for AI.
-"Safety researchers are resigning, powerful AI models are breaking out of their labs, and companies are racing ahead anyway," Rep Lori Trahan, a Massachusetts Democrat who co-authored the bill, wrote on X this week.
-"It's past time for Congress to get off the sidelines and do its job."
-Related topics
-- Published23 hours ago
-- Published3 days ago
-- Published11 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-13T18:49:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/2a71c0a0-af92-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "washington-scrambles-to-meet-calls-for-a-ed4b64e0",
-    title: "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-    titleJa: "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-    summaryJa: "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-    bodyOriginal: `Washington is scrambling to address renewed fears over artificial intelligence, as leading U.S. companies sound the alarm over technology they say is advancing beyond their control.
-"Dr. Frankenstein is telling us the monster is escaping; help us stop this," said Sen. Ruben Gallego, D-Ariz., on CNN's "State of the Union" on Sunday. "The method that we're answering [with] is not meeting the moment."
-The push for action on AI safeguards comes after a researcher resigned from Anthropic and warned that the technology could "kill us all by the end of the decade." Stunning pledges to slow development from the leaders of top AI frontier companies Anthropic, OpenAI and xAI followed the warning, and calls for lawmakers to act toward regulating the industry came soon after.
-"Yesterday's commentary by AI industry leaders should be heeded as a bright flashing red light telling the President and Congress they need to act now to regulate and rein in AI development," Pennsylvania Gov. Josh Shapiro said in a post on X on Sunday. "This technology is powerful, with great potential to do good, and yet it comes with extraordinary risk. It's not clear where it will lead but this much is clear: its development should not be steered exclusively by private entities, especially when the CEOs of those companies are calling out for restraint and regulation."
-The events have left Washington, which has done little to regulate AI since the technology emerged, with its back against the wall as the rapidly growing industry looks increasingly dangerous. Lawmakers now must grapple with how to rein in AI as an all-important midterm election looms and Congress prepares to leave town for another month to hit the campaign trail.
-The episode sets up a test of whether lawmakers will respond to a crisis barreling toward them in a hyper-partisan Washington or head home to make their case for reelection with control of Washington on the line.
-On Friday, a group of Democrats led by Rep. Sam Liccardo, D-Calif., wrote to House Speaker Mike Johnson, R-La., demanding to stay in session until it passes meaningful safeguards.
-Johnson is scheduled to send the House home after this week until November's elections have passed.
-"The House should return to Washington immediately and remain in session until Congress advances meaningful, bipartisan AI safeguards," the letter, obtained by CNBC, read. "To our children who will have read a post-apocalyptic history, 'Why Congress Slept' —likely written by agentic AI—our inaction will be inexplicable, and unforgivable."
-The Democrats urged consideration of any number of proposals that have emerged in the House that "deserve consideration, public debate, thoughtful amendment, and action." That includes bills mandating transparency and evaluation of frontier models, "kill switch" requirements and a waiver of antitrust laws to allow the industry to work together on safety and security.
-House Democratic Leader Hakeem Jeffries on Sunday said on ABC's "This Week" that Democrats would meet on Tuesday to discuss AI guardrails.
-"We should take decisive action now so that we can slow down, as the CEOs have recently acknowledged, slow down the pace of development in order to protect the American people and ensure that AI is proceeding safely," he said.
-Johnson, however, appeared to rule out that Congress would quickly act on any of those priorities or stay in session beyond next week during an appearance on CNN Sunday.
-"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, that is a threat to every single American," Johnson said. "We don't need everybody to panic right now, we need to handle this new technology like we have others in the past, and make sure we're doing everything we can responsibly to also not smother American innovation."
-Johnson called for a meeting between leaders in Washington and the leaders of the AI industry to settle on a path forward, while also calling on the companies themselves to self-police.
-"I'd do it tomorrow," he said. "I think we need to go in a big room, close the door and sort this out."
-Gallego called for a similar summit.
-"The way you figure this out is, again, you use this sense of urgency to get the smartest people in the room," he said. "But the way we're going about this is that we're hoping some committee in the House or Senate is just going to come together with some staffers and put together the framework that's going to go into place maybe three years from now. We don't have that time."
-Gallego, however, said that Johnson, President Donald Trump and Congress are all "not meeting the moment." He also said the refrain that the U.S. will lose the AI race if it regulates the technology does not hold water.
-"AI does not care once it becomes fully dangerous whether we're Chinese or American," he said. "That's the danger of this; everyone's thinking about this in a way that is based on old tech and not what's going toward the future."
-Trump on Sunday pointed to China while appearing to critique a slowdown or regulation in AI development during brief remarks in Ireland.
-"Well I say this, we're leading China on AI. We're the most sophisticated country in the world and frankly I want to keep it that way, because whoever wins AI wins," the president said, according to a pool report. "We can put guardrails, and we can do this and that, but I think you have a lot of negative forces that are bringing it up and they're bringing up things that won't happen."
-While the House has introduced multiple proposals to put safeguards around AI, including the FRONTIER Act led by Reps. Jay Obernolte, R-Calif., and Lori Trahan, D-Mass., the Senate has been slower to coalesce around similar bipartisan proposals. A bill being worked on by Senate Majority Leader John Thune, R-S.D., and Sens. Amy Klobuchar, D-Minn., and Ted Cruz, R-Texas, has not yet been introduced.
-Some in the AI industry are optimistic that Congress can do something before the midterm elections. An industry source familiar with the discussions in Washington said that legislation is likely to emerge in the coming week with "real momentum" behind it. The person noted that lawmakers on the ballot in November would like to point to an accomplishment on AI rather than stagnation.
-— CNBC's Kate Rooney and Justin Papp contributed to this report.`,
-    bodyJa: `Washington is scrambling to address renewed fears over artificial intelligence, as leading U.S. companies sound the alarm over technology they say is advancing beyond their control.
-"Dr. Frankenstein is telling us the monster is escaping; help us stop this," said Sen. Ruben Gallego, D-Ariz., on CNN's "State of the Union" on Sunday. "The method that we're answering [with] is not meeting the moment."
-The push for action on AI safeguards comes after a researcher resigned from Anthropic and warned that the technology could "kill us all by the end of the decade." Stunning pledges to slow development from the leaders of top AI frontier companies Anthropic, OpenAI and xAI followed the warning, and calls for lawmakers to act toward regulating the industry came soon after.
-"Yesterday's commentary by AI industry leaders should be heeded as a bright flashing red light telling the President and Congress they need to act now to regulate and rein in AI development," Pennsylvania Gov. Josh Shapiro said in a post on X on Sunday. "This technology is powerful, with great potential to do good, and yet it comes with extraordinary risk. It's not clear where it will lead but this much is clear: its development should not be steered exclusively by private entities, especially when the CEOs of those companies are calling out for restraint and regulation."
-The events have left Washington, which has done little to regulate AI since the technology emerged, with its back against the wall as the rapidly growing industry looks increasingly dangerous. Lawmakers now must grapple with how to rein in AI as an all-important midterm election looms and Congress prepares to leave town for another month to hit the campaign trail.
-The episode sets up a test of whether lawmakers will respond to a crisis barreling toward them in a hyper-partisan Washington or head home to make their case for reelection with control of Washington on the line.
-On Friday, a group of Democrats led by Rep. Sam Liccardo, D-Calif., wrote to House Speaker Mike Johnson, R-La., demanding to stay in session until it passes meaningful safeguards.
-Johnson is scheduled to send the House home after this week until November's elections have passed.
-"The House should return to Washington immediately and remain in session until Congress advances meaningful, bipartisan AI safeguards," the letter, obtained by CNBC, read. "To our children who will have read a post-apocalyptic history, 'Why Congress Slept' —likely written by agentic AI—our inaction will be inexplicable, and unforgivable."
-The Democrats urged consideration of any number of proposals that have emerged in the House that "deserve consideration, public debate, thoughtful amendment, and action." That includes bills mandating transparency and evaluation of frontier models, "kill switch" requirements and a waiver of antitrust laws to allow the industry to work together on safety and security.
-House Democratic Leader Hakeem Jeffries on Sunday said on ABC's "This Week" that Democrats would meet on Tuesday to discuss AI guardrails.
-"We should take decisive action now so that we can slow down, as the CEOs have recently acknowledged, slow down the pace of development in order to protect the American people and ensure that AI is proceeding safely," he said.
-Johnson, however, appeared to rule out that Congress would quickly act on any of those priorities or stay in session beyond next week during an appearance on CNN Sunday.
-"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, that is a threat to every single American," Johnson said. "We don't need everybody to panic right now, we need to handle this new technology like we have others in the past, and make sure we're doing everything we can responsibly to also not smother American innovation."
-Johnson called for a meeting between leaders in Washington and the leaders of the AI industry to settle on a path forward, while also calling on the companies themselves to self-police.
-"I'd do it tomorrow," he said. "I think we need to go in a big room, close the door and sort this out."
-Gallego called for a similar summit.
-"The way you figure this out is, again, you use this sense of urgency to get the smartest people in the room," he said. "But the way we're going about this is that we're hoping some committee in the House or Senate is just going to come together with some staffers and put together the framework that's going to go into place maybe three years from now. We don't have that time."
-Gallego, however, said that Johnson, President Donald Trump and Congress are all "not meeting the moment." He also said the refrain that the U.S. will lose the AI race if it regulates the technology does not hold water.
-"AI does not care once it becomes fully dangerous whether we're Chinese or American," he said. "That's the danger of this; everyone's thinking about this in a way that is based on old tech and not what's going toward the future."
-Trump on Sunday pointed to China while appearing to critique a slowdown or regulation in AI development during brief remarks in Ireland.
-"Well I say this, we're leading China on AI. We're the most sophisticated country in the world and frankly I want to keep it that way, because whoever wins AI wins," the president said, according to a pool report. "We can put guardrails, and we can do this and that, but I think you have a lot of negative forces that are bringing it up and they're bringing up things that won't happen."
-While the House has introduced multiple proposals to put safeguards around AI, including the FRONTIER Act led by Reps. Jay Obernolte, R-Calif., and Lori Trahan, D-Mass., the Senate has been slower to coalesce around similar bipartisan proposals. A bill being worked on by Senate Majority Leader John Thune, R-S.D., and Sens. Amy Klobuchar, D-Minn., and Ted Cruz, R-Texas, has not yet been introduced.
-Some in the AI industry are optimistic that Congress can do something before the midterm elections. An industry source familiar with the discussions in Washington said that legislation is likely to emerge in the coming week with "real momentum" behind it. The person noted that lawmakers on the ballot in November would like to point to an accomplishment on AI rather than stagnation.
-— CNBC's Kate Rooney and Justin Papp contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-    publishedAt: "2026-09-13T17:48:53+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "anthropic-s-amodei-says-china-presents-t-df6c4bfe",
-    title: "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-    titleJa: "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-    summaryJa: "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
-    bodyOriginal: `Anthropic CEO Dario Amodei said Sunday that the "toughest dilemma" about his proposal to slow the advancement of artificial intelligence is what happens if adversarial nations, namely China, choose not to do the same.
-"The more long-term thing would be working together to put a speed limit on the rate of of AI progress," Amodei told CBS News' "Sunday Morning." "I think that's going to be very difficult because the incentives to pull ahead and the military advantage that you get from that are so large. And honestly, I don't know if it's possible, but we should we should try."
-Amodei published an essay on Saturday urging AI companies to slow how quickly they improve their most advanced models, a move that followed stark warnings from industry researchers last week about the technology's growing potential to cause catastrophic harm. An Anthropic researcher, Jacob Coxon, announced he quit his job out of concern that the company, and its chief rival, OpenAI, are "gambling with our lives."
-Amodei's essay landed during a pivotal time for the AI industry, which is facing public backlash over its data centers and mounting calls for regulation out of Washington. Anthropic and OpenAI are also gearing up for potentially historic IPOs, though neither company has set an official date for a debut. OpenAI CEO Sam Altman said Saturday that the company will likely not go public this year, in part because of concerns around safety.
-"Right now would be an ill-advised moment to go public," Altman said in an interview with Fortune.
-Altman's relationship with Amodei, who defected from OpenAI to start Anthropic, has been strained in recent years. But Altman expressed support for Amodei's essay in a post on X on Saturday, writing that he agrees on the need to "pace the frontier."
-Several other industry leaders, including Demis Hassabis, the chair of Google DeepMind, and Elon Musk, CEO of both Tesla and SpaceX, also welcomed Amodei's proposal.
-"Dario's essay points towards the right path forward," Hassabis wrote in a post on X on Saturday. "The details need working through, but the direction is correct for meeting this critical moment."
-In the essay, Amodei proposed a three-step plan aimed at slowing the pace of development without "sacrificing commercial advantage or the United States' lead in AI."
-Amodei said Anthropic has "unilaterally" committed to the first step of the plan, which grants third-party evaluators employee-level access to the company to verify safety practices and report incidents. The second step encourages leading AI companies within democratic countries to coordinate and establish common safety standards, and the third calls for coordination between democratic governments and authoritarian governments.
-"Dario is right that there should be some oversight," Musk wrote in a post on X early Sunday morning. "Peer review of AI by competitors is the right way to start this off."
-Musk, who has for years warned about the potential risks of AI, was quick to express support for Amodei on Saturday. He had been a major critic of Anthropic until his rocket company SpaceX, which acquired his AI startup xAI earlier this year, inked a major compute deal with the company in May. As part of the deal, Anthropic will pay SpaceX $1.25 billion per month through May 2029, according to filings.
-"Everyone I met was highly competent and cared a great deal about doing the right thing," Musk wrote following the deal. "No one set off my evil detector."
-Alexandr Wang, Meta's AI chief, who joined the company as part of a $14 billion investment in his startup, Scale AI last year, has yet to address Amodei's essay directly.
-He shared a post on X on Saturday where he said Meta Superintelligence Labs, the company's AI research unit, is "rapidly scaling up the share of our efforts that goes into alignment as our models become more powerful." In the AI industry, alignment refers to the work by AI developers to ensure that the system behaves in accordance with human values and intentions.
-"We do believe alignment can be the gating factor for scaling as we get closer to the frontier," Wang said.
-David Sacks, a vocal critic of Anthropic who previously served as President Donald Trump's AI and crypto czar, also weighed in on Amodei's essay on Saturday. He wrote in a post on X that if OpenAI and Anthropic truly believe their models are "scary enough" to warrant a slowdown, he supports their "decision to be responsible."
-Even so, he said both companies need to "stop pretending you need anyone else's permission," and encouraged them to acknowledge that their motivations are not purely altruistic. He said they face "massive product-liability exposure" if their products were to enable something like a damaging cyberattack, which means "it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability."
-"So go ahead and pace the frontier," Sacks wrote. "You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it."
-WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark’s Rick Heitzmann`,
-    bodyJa: `Anthropic CEO Dario Amodei said Sunday that the "toughest dilemma" about his proposal to slow the advancement of artificial intelligence is what happens if adversarial nations, namely China, choose not to do the same.
-"The more long-term thing would be working together to put a speed limit on the rate of of AI progress," Amodei told CBS News' "Sunday Morning." "I think that's going to be very difficult because the incentives to pull ahead and the military advantage that you get from that are so large. And honestly, I don't know if it's possible, but we should we should try."
-Amodei published an essay on Saturday urging AI companies to slow how quickly they improve their most advanced models, a move that followed stark warnings from industry researchers last week about the technology's growing potential to cause catastrophic harm. An Anthropic researcher, Jacob Coxon, announced he quit his job out of concern that the company, and its chief rival, OpenAI, are "gambling with our lives."
-Amodei's essay landed during a pivotal time for the AI industry, which is facing public backlash over its data centers and mounting calls for regulation out of Washington. Anthropic and OpenAI are also gearing up for potentially historic IPOs, though neither company has set an official date for a debut. OpenAI CEO Sam Altman said Saturday that the company will likely not go public this year, in part because of concerns around safety.
-"Right now would be an ill-advised moment to go public," Altman said in an interview with Fortune.
-Altman's relationship with Amodei, who defected from OpenAI to start Anthropic, has been strained in recent years. But Altman expressed support for Amodei's essay in a post on X on Saturday, writing that he agrees on the need to "pace the frontier."
-Several other industry leaders, including Demis Hassabis, the chair of Google DeepMind, and Elon Musk, CEO of both Tesla and SpaceX, also welcomed Amodei's proposal.
-"Dario's essay points towards the right path forward," Hassabis wrote in a post on X on Saturday. "The details need working through, but the direction is correct for meeting this critical moment."
-In the essay, Amodei proposed a three-step plan aimed at slowing the pace of development without "sacrificing commercial advantage or the United States' lead in AI."
-Amodei said Anthropic has "unilaterally" committed to the first step of the plan, which grants third-party evaluators employee-level access to the company to verify safety practices and report incidents. The second step encourages leading AI companies within democratic countries to coordinate and establish common safety standards, and the third calls for coordination between democratic governments and authoritarian governments.
-"Dario is right that there should be some oversight," Musk wrote in a post on X early Sunday morning. "Peer review of AI by competitors is the right way to start this off."
-Musk, who has for years warned about the potential risks of AI, was quick to express support for Amodei on Saturday. He had been a major critic of Anthropic until his rocket company SpaceX, which acquired his AI startup xAI earlier this year, inked a major compute deal with the company in May. As part of the deal, Anthropic will pay SpaceX $1.25 billion per month through May 2029, according to filings.
-"Everyone I met was highly competent and cared a great deal about doing the right thing," Musk wrote following the deal. "No one set off my evil detector."
-Alexandr Wang, Meta's AI chief, who joined the company as part of a $14 billion investment in his startup, Scale AI last year, has yet to address Amodei's essay directly.
-He shared a post on X on Saturday where he said Meta Superintelligence Labs, the company's AI research unit, is "rapidly scaling up the share of our efforts that goes into alignment as our models become more powerful." In the AI industry, alignment refers to the work by AI developers to ensure that the system behaves in accordance with human values and intentions.
-"We do believe alignment can be the gating factor for scaling as we get closer to the frontier," Wang said.
-David Sacks, a vocal critic of Anthropic who previously served as President Donald Trump's AI and crypto czar, also weighed in on Amodei's essay on Saturday. He wrote in a post on X that if OpenAI and Anthropic truly believe their models are "scary enough" to warrant a slowdown, he supports their "decision to be responsible."
-Even so, he said both companies need to "stop pretending you need anyone else's permission," and encouraged them to acknowledge that their motivations are not purely altruistic. He said they face "massive product-liability exposure" if their products were to enable something like a damaging cyberattack, which means "it is simply good business for OpenAI and Anthropic to trade some raw power for reliability and predictability."
-"So go ahead and pace the frontier," Sacks wrote. "You are the ones setting it. The easiest way not to build superintelligence is for you to agree not to build it. Demanding your preferred regulatory framework as the price of that will look like blackmail of the public and the political system. So just do it."
-WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark’s Rick Heitzmann`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-    publishedAt: "2026-09-13T15:46:56+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "corporate-profit-forecasts-are-topping-e-7e6c59b0",
-    title: "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
-    titleJa: "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
-    summaryJa: "The information-technology sector stands out when it comes to issuing upbeat earnings outlooks.",
-    bodyOriginal: `The information-technology sector stands out when it comes to issuing upbeat earnings outlooks.`,
-    bodyJa: `The information-technology sector stands out when it comes to issuing upbeat earnings outlooks.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
-    publishedAt: "2026-09-13T14:00:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-38570314",
-    readTime: 2,
   },
 ];
 
