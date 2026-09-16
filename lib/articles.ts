@@ -15,6 +15,272 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "amazon-obtains-right-to-buy-stock-in-gen-818553b0",
+    title: "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+    titleJa: "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
+    summaryJa: "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
+    bodyOriginal: `An aerial view of an Amazon Web Services Data Center known as US East 1 in Ashburn, Virginia, U.S., October 20, 2025.
+Jonathan Ernst | Reuters
+Amazon was granted warrants to purchase up to $340 million worth of Generac stock, sending shares of the backup power provider soaring more than 40% in extended trading on Wednesday.
+As part of the agreement, Generac said in a securities filing that it issued warrants to Amazon to acquire up to 1.69 million shares in the company at $200.93 a piece for a total investment that could be worth as much as $8 billion.
+Generac will supply Amazon with backup power generators for its data centers, with initial deliveries expected to total $2.4 billion in 2027 and 2028, the filing states.
+The warrants are equivalent to almost 3% of outstanding shares in Generac, which has a market cap of about $10.3 billion, as of Wednesday's close.`,
+    bodyJa: `An aerial view of an Amazon Web Services Data Center known as US East 1 in Ashburn, Virginia, U.S., October 20, 2025.
+Jonathan Ernst | Reuters
+Amazon was granted warrants to purchase up to $340 million worth of Generac stock, sending shares of the backup power provider soaring more than 40% in extended trading on Wednesday.
+As part of the agreement, Generac said in a securities filing that it issued warrants to Amazon to acquire up to 1.69 million shares in the company at $200.93 a piece for a total investment that could be worth as much as $8 billion.
+Generac will supply Amazon with backup power generators for its data centers, with initial deliveries expected to total $2.4 billion in 2027 and 2028, the filing states.
+The warrants are equivalent to almost 3% of outstanding shares in Generac, which has a market cap of about $10.3 billion, as of Wednesday's close.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
+    publishedAt: "2026-09-16T21:07:12+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "trump-demands-1-or-lower-interest-rate-a-916021f5",
+    title: "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+    titleJa: "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+    summaryJa: "President Donald Trump demanded the Federal Reserve slash interest rates to 1% \"or less,\" hours after the central bank announced its first rate hike since 2023.",
+    bodyOriginal: `President Donald Trump on Wednesday demanded the Federal Reserve slash interest rates to 1% "or less," hours after the central bank announced its first rate hike since 2023.
+"We are 'carrying' almost every country in the World, and that cannot go on any longer," Trump wrote in a Truth Social post.
+"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!" he wrote.
+The Fed, led by Trump-picked Chairman Kevin Warsh, earlier Wednesday afternoon raised benchmark interest rates a quarter percentage point, to a target range of 3.75%-4%.
+The decision, by the 12-member Federal Open Market Committee, was unanimous.
+"Inflation remains elevated," the committee said in a statement following its latest meeting.
+But Trump, who has relentlessly pressured the Fed to drastically lower borrowing costs, insisted in his Truth post that rates in the U.S. "should be 1%, or less, because we are the Best Credit in the World — BY FAR."
+"Our Country is BOOMING with new Investment!" wrote Trump, who has repeatedly claimed that the U.S. has raked in as much as $20 trillion or more during his second term. Fact-checkers say Trump's figures are false.
+"If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year," Trump claimed in Wednesday's post.
+Less than two weeks earlier, Trump threatened that if the Fed doesn't cut rates, he will cut off trade with countries that have trade surpluses with the U.S. That group includes most of the U.S.'s top trading partners, along with dozens of other countries.
+This is breaking news. Please refresh for updates.`,
+    bodyJa: `President Donald Trump on Wednesday demanded the Federal Reserve slash interest rates to 1% "or less," hours after the central bank announced its first rate hike since 2023.
+"We are 'carrying' almost every country in the World, and that cannot go on any longer," Trump wrote in a Truth Social post.
+"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!" he wrote.
+The Fed, led by Trump-picked Chairman Kevin Warsh, earlier Wednesday afternoon raised benchmark interest rates a quarter percentage point, to a target range of 3.75%-4%.
+The decision, by the 12-member Federal Open Market Committee, was unanimous.
+"Inflation remains elevated," the committee said in a statement following its latest meeting.
+But Trump, who has relentlessly pressured the Fed to drastically lower borrowing costs, insisted in his Truth post that rates in the U.S. "should be 1%, or less, because we are the Best Credit in the World — BY FAR."
+"Our Country is BOOMING with new Investment!" wrote Trump, who has repeatedly claimed that the U.S. has raked in as much as $20 trillion or more during his second term. Fact-checkers say Trump's figures are false.
+"If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year," Trump claimed in Wednesday's post.
+Less than two weeks earlier, Trump threatened that if the Fed doesn't cut rates, he will cut off trade with countries that have trade surpluses with the U.S. That group includes most of the U.S.'s top trading partners, along with dozens of other countries.
+This is breaking news. Please refresh for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+    publishedAt: "2026-09-16T21:05:10+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "house-votes-to-hold-leon-black-in-contem-83bb1ac7",
+    title: "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+    titleJa: "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+    summaryJa: "Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+    bodyOriginal: `The House of Representatives voted Wednesday to hold billionaire Leon Black in contempt of Congress for his refusal to comply with subpoenas issued to him related to a committee's ongoing investigation of the notorious late sex offender Jeffrey Epstein.
+The vote by unanimous consent sets the stage for House Speaker Mike Johnson, R-La., to certify the matter to refer Black's conduct to the Department of Justice for possible criminal prosecution.
+It came a day after the House Committee on Oversight and Government Reform, in a 41-0 vote, passed a resolution recommending the full House hold the former Apollo Global Management CEO in contempt.
+It is not clear whether the DOJ ultimately will prosecute Black.
+Defendants convicted of contempt of Congress face a possible sentence of not less than one month and not more than 12 months in prison.
+A DOJ spokesperson, in a statement to MS NOW, said, "The Department of Justice is expecting to receive the referral from [the] House Oversight Committee and takes allegations of contempt of Congress seriously."
+"For the past 18 months, the Department has repeatedly said it will follow additional investigative leads in all matters relating to Jeffrey Epstein," the spokesperson said. "The US Attorney's Office for the District of Columbia will review the referral of Mr. Black carefully and will not hesitate to pursue additional cases where the evidence supports."
+The contempt action stems from Black's failure to appear for a transcribed deposition by the committee on Sept. 3 after it issued him a subpoena for that appearance, and his failure to comply fully with a separate subpoena seeking copies of nondisclosure agreements he has been party to.
+Black gave the committee one of the NDAs, which his lawyers said was the "only" one that Epstein knew about, but withheld others.
+"No one is above the law," House Oversight Chairman Rep. James Comer, R-Ky., said in a statement.
+"Leon Black defied two subpoenas, and the U.S. House of Representatives acted swiftly to find him in contempt of Congress," Comer said. "We will continue to seek transparency for the American people and justice for survivors in our investigation of the federal government's handling of the Jeffrey Epstein and Ghislaine Maxwell criminal cases."
+Rep. Robert Garcia of California, the ranking Democrat on the House oversight panel, said, "This vote is an important step towards justice and accountability."
+"We will continue to center the survivors in our fight to hold those responsible for these horrific crimes," Garcia said. "We are just getting started."
+Black's attorneys blasted the House for its contempt holding, calling it "an outrageous action that ignores the facts and the truth about Mr. Black."
+"The House of Representatives has rushed through every stage of this inquiry. First, the Committee on Oversight and Government Reform and Chairman Comer rushed to issue him subpoenas," the lawyers, Susan Estrich and Aaron Cutler, said in a statement.
+"Then, the Committee rushed to hold him in contempt, even in the face of active litigation and an ethics complaint. Now, the full House is holding him in contempt without any regard to the active litigation challenging the lawfulness of the Committee's actions and the ethics complaint against Chairman [James] Comer.
+"Mr. Black is a private citizen who has helped create hundreds of thousands of jobs, has given away more than $700 million in philanthropic and charitable contributions, and has supported research that has been at the vanguard of cancer treatment," the attorneys said. "To think, he is being held in contempt over invalid subpoenas is ridiculous. It is so out of line that the behavior of this Committee is reminiscent of the 1950's where another Congressional Committee abused its investigative authority and destroyed people's lives."
+Black sued the committee and Comer on Sept. 3, seeking to block those subpoenas. That lawsuit is pending in U.S. District Court in Washington.
+"The subpoenas are invalid to the extent they exceed [the committee's] delegated authority in seeking private information that bears no legitimate connection to [its] legislative purpose," the suit says.
+The civil complaint says the subpoenas issued by the panel "would also expose women who value their privacy, who have no known or public connection to Epstein, who bargained for confidentiality and have refused to release it, and who have no ability to protect themselves and their privacy before the Committee."
+In their statement Wednesday, Black's lawyers said: "Our lawsuit shows the Committee and Chairman Comer abused their Congressional power and broke the law."
+They also said that they believe a confidential ethics complaint they filed against Comer "will further show that Chairman Comer violated the rules of the House."
+Black has not been charged with any wrongdoing in connection with his dealings with Epstein, who killed himself in 2019 after being charged with child sex trafficking.
+But he stepped down as Apollo's CEO in March 2021, two months after the firm disclosed that Black had paid Epstein $158 million for tax and estate planning advice from 2012 through 2017.
+Black, who has said Epstein's advice led to significant savings for him, knew at the time that Epstein had pleaded guilty in Florida state court in 2008 to two prostitution-related charges, among them soliciting prostitution from an underage girl.
+"Mr. Black has repeatedly said that he feels terrible for Epstein's victims and that he regrets ever doing business with Epstein," Black's lawyers said Wednesday.
+"He never abused a woman. He never was with an underage woman. He never engaged in sex trafficking. He never paid Epstein for access to women. He was never blackmailed by Epstein. Mr. Black had no knowledge of any of Epstein's heinous conduct. He never forced any woman to sign any NDA."`,
+    bodyJa: `The House of Representatives voted Wednesday to hold billionaire Leon Black in contempt of Congress for his refusal to comply with subpoenas issued to him related to a committee's ongoing investigation of the notorious late sex offender Jeffrey Epstein.
+The vote by unanimous consent sets the stage for House Speaker Mike Johnson, R-La., to certify the matter to refer Black's conduct to the Department of Justice for possible criminal prosecution.
+It came a day after the House Committee on Oversight and Government Reform, in a 41-0 vote, passed a resolution recommending the full House hold the former Apollo Global Management CEO in contempt.
+It is not clear whether the DOJ ultimately will prosecute Black.
+Defendants convicted of contempt of Congress face a possible sentence of not less than one month and not more than 12 months in prison.
+A DOJ spokesperson, in a statement to MS NOW, said, "The Department of Justice is expecting to receive the referral from [the] House Oversight Committee and takes allegations of contempt of Congress seriously."
+"For the past 18 months, the Department has repeatedly said it will follow additional investigative leads in all matters relating to Jeffrey Epstein," the spokesperson said. "The US Attorney's Office for the District of Columbia will review the referral of Mr. Black carefully and will not hesitate to pursue additional cases where the evidence supports."
+The contempt action stems from Black's failure to appear for a transcribed deposition by the committee on Sept. 3 after it issued him a subpoena for that appearance, and his failure to comply fully with a separate subpoena seeking copies of nondisclosure agreements he has been party to.
+Black gave the committee one of the NDAs, which his lawyers said was the "only" one that Epstein knew about, but withheld others.
+"No one is above the law," House Oversight Chairman Rep. James Comer, R-Ky., said in a statement.
+"Leon Black defied two subpoenas, and the U.S. House of Representatives acted swiftly to find him in contempt of Congress," Comer said. "We will continue to seek transparency for the American people and justice for survivors in our investigation of the federal government's handling of the Jeffrey Epstein and Ghislaine Maxwell criminal cases."
+Rep. Robert Garcia of California, the ranking Democrat on the House oversight panel, said, "This vote is an important step towards justice and accountability."
+"We will continue to center the survivors in our fight to hold those responsible for these horrific crimes," Garcia said. "We are just getting started."
+Black's attorneys blasted the House for its contempt holding, calling it "an outrageous action that ignores the facts and the truth about Mr. Black."
+"The House of Representatives has rushed through every stage of this inquiry. First, the Committee on Oversight and Government Reform and Chairman Comer rushed to issue him subpoenas," the lawyers, Susan Estrich and Aaron Cutler, said in a statement.
+"Then, the Committee rushed to hold him in contempt, even in the face of active litigation and an ethics complaint. Now, the full House is holding him in contempt without any regard to the active litigation challenging the lawfulness of the Committee's actions and the ethics complaint against Chairman [James] Comer.
+"Mr. Black is a private citizen who has helped create hundreds of thousands of jobs, has given away more than $700 million in philanthropic and charitable contributions, and has supported research that has been at the vanguard of cancer treatment," the attorneys said. "To think, he is being held in contempt over invalid subpoenas is ridiculous. It is so out of line that the behavior of this Committee is reminiscent of the 1950's where another Congressional Committee abused its investigative authority and destroyed people's lives."
+Black sued the committee and Comer on Sept. 3, seeking to block those subpoenas. That lawsuit is pending in U.S. District Court in Washington.
+"The subpoenas are invalid to the extent they exceed [the committee's] delegated authority in seeking private information that bears no legitimate connection to [its] legislative purpose," the suit says.
+The civil complaint says the subpoenas issued by the panel "would also expose women who value their privacy, who have no known or public connection to Epstein, who bargained for confidentiality and have refused to release it, and who have no ability to protect themselves and their privacy before the Committee."
+In their statement Wednesday, Black's lawyers said: "Our lawsuit shows the Committee and Chairman Comer abused their Congressional power and broke the law."
+They also said that they believe a confidential ethics complaint they filed against Comer "will further show that Chairman Comer violated the rules of the House."
+Black has not been charged with any wrongdoing in connection with his dealings with Epstein, who killed himself in 2019 after being charged with child sex trafficking.
+But he stepped down as Apollo's CEO in March 2021, two months after the firm disclosed that Black had paid Epstein $158 million for tax and estate planning advice from 2012 through 2017.
+Black, who has said Epstein's advice led to significant savings for him, knew at the time that Epstein had pleaded guilty in Florida state court in 2008 to two prostitution-related charges, among them soliciting prostitution from an underage girl.
+"Mr. Black has repeatedly said that he feels terrible for Epstein's victims and that he regrets ever doing business with Epstein," Black's lawyers said Wednesday.
+"He never abused a woman. He never was with an underage woman. He never engaged in sex trafficking. He never paid Epstein for access to women. He was never blackmailed by Epstein. Mr. Black had no knowledge of any of Epstein's heinous conduct. He never forced any woman to sign any NDA."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+    publishedAt: "2026-09-16T20:54:15+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "intel-s-stock-rises-as-investors-hope-me-61882454",
+    title: "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+    titleJa: "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+    summaryJa: "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
+    bodyOriginal: `A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.`,
+    bodyJa: `A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+    publishedAt: "2026-09-16T20:53:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-00632956",
+    readTime: 2,
+  },
+  {
+    id: "why-optical-stocks-lumentum-and-coherent-df9a0778",
+    title: "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+    titleJa: "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+    summaryJa: "Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.",
+    bodyOriginal: `Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.`,
+    bodyJa: `Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+    publishedAt: "2026-09-16T20:52:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-759206",
+    readTime: 2,
+  },
+  {
+    id: "trump-s-kennedy-center-closure-is-unlawf-1bc57353",
+    title: "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
+    titleJa: "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
+    summaryJa: "President Donald Trump says renovations at the Kennedy Center will not occur until the courts allow his name to be restored on the performing arts center.",
+    bodyOriginal: `Rep. Joyce Beatty asked a judge Wednesday to hold an emergency hearing on what the Ohio Democrat called the "unlawful" closure of the Kennedy Center by President Donald Trump and the performing arts facility's board of trustees.
+Beatty's motion says the closure is in "apparent violation" of a prior order from Judge Christopher Cooper in U.S. District Court in Washington.
+Cooper later Wednesday ordered Trump and the board to respond to Beatty's request by Thursday morning.
+"The Court will schedule a prompt hearing if necessary after reviewing the response," Cooper said in his order.
+Beatty's request came a day after the board, of which she is an ex officio member, voted to close the Kennedy Center for renovations. Trump later Tuesday said it would close "immediately."
+Trump also said planned renovations and reconstruction of the Washington center would not begin until a federal appeals court or the Supreme Court rules that his name can be included in the facility's official name.
+A staff member for a law firm representing Beatty visited the center Wednesday morning and was barred from entering, according to the congresswoman's motion. The staffer "was informed by several security staff members that the building is currently closed to the public," the motion said.
+"In addition, the staff member was informed that construction is beginning on the interior of the building and that the public is completely barred from accessing the facility for 'safety reasons,'" the filing said.
+"Closing the Kennedy Center without Judge Cooper's approval appears to directly violate his order. This is an assault on the rule of law," Beatty's lawyers, Norm Eisen and Nathaniel Zelinsky, said in a statement.
+"The board cannot simply ignore Judge Cooper's rulings whenever it suits them. In this country, no one — including the president — is above the law," the attorneys said.
+The lawyers pointed to a May ruling by Cooper in which he ordered that Trump's name be removed from the center and which enjoined the board from shuttering the center "until the Board approves any closure consistent with" Cooper's ruling "and the Court issues a further Order dissolving or modifying this preliminary injunction."
+The Kennedy Center's board, which Trump named himself to head, voted in December to rename the center, which honors the late President John F. Kennedy. The facility then became known as the Trump Kennedy Center, though Congress never formally changed its name.
+Beatty filed a lawsuit in December seeking to reverse the board's action. Cooper ordered in May that Trump's name be stripped off.
+"Congress gave the Kennedy Center its name, and only Congress can change it," Cooper wrote in his ruling.
+The Department of Justice, which represents Trump and the board in the case, did not immediately respond to a request for comment.
+The DOJ is appealing a decision by Cooper issued on Tuesday that barred the board from adding Trump's name back to the building and naming the grounds of the center after him.
+The board in an Aug. 13 resolution said it intended "to recognize and honor President Trump's future existential and unprecedented contributions to the survival of the Center."
+The board planned to inscribe the words "renovated and restored by President Donald J. Trump" underneath the words that currently say, "The John F. Kennedy Memorial Center for the Performing Arts."
+The board also said it would name the center's physical grounds "The President Donald J. Trump Plaza."
+Cooper, in his order Tuesday, said, "Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing."
+""The board resolution bucks a federal court order and a statute Congress enacted," the judge said.`,
+    bodyJa: `Rep. Joyce Beatty asked a judge Wednesday to hold an emergency hearing on what the Ohio Democrat called the "unlawful" closure of the Kennedy Center by President Donald Trump and the performing arts facility's board of trustees.
+Beatty's motion says the closure is in "apparent violation" of a prior order from Judge Christopher Cooper in U.S. District Court in Washington.
+Cooper later Wednesday ordered Trump and the board to respond to Beatty's request by Thursday morning.
+"The Court will schedule a prompt hearing if necessary after reviewing the response," Cooper said in his order.
+Beatty's request came a day after the board, of which she is an ex officio member, voted to close the Kennedy Center for renovations. Trump later Tuesday said it would close "immediately."
+Trump also said planned renovations and reconstruction of the Washington center would not begin until a federal appeals court or the Supreme Court rules that his name can be included in the facility's official name.
+A staff member for a law firm representing Beatty visited the center Wednesday morning and was barred from entering, according to the congresswoman's motion. The staffer "was informed by several security staff members that the building is currently closed to the public," the motion said.
+"In addition, the staff member was informed that construction is beginning on the interior of the building and that the public is completely barred from accessing the facility for 'safety reasons,'" the filing said.
+"Closing the Kennedy Center without Judge Cooper's approval appears to directly violate his order. This is an assault on the rule of law," Beatty's lawyers, Norm Eisen and Nathaniel Zelinsky, said in a statement.
+"The board cannot simply ignore Judge Cooper's rulings whenever it suits them. In this country, no one — including the president — is above the law," the attorneys said.
+The lawyers pointed to a May ruling by Cooper in which he ordered that Trump's name be removed from the center and which enjoined the board from shuttering the center "until the Board approves any closure consistent with" Cooper's ruling "and the Court issues a further Order dissolving or modifying this preliminary injunction."
+The Kennedy Center's board, which Trump named himself to head, voted in December to rename the center, which honors the late President John F. Kennedy. The facility then became known as the Trump Kennedy Center, though Congress never formally changed its name.
+Beatty filed a lawsuit in December seeking to reverse the board's action. Cooper ordered in May that Trump's name be stripped off.
+"Congress gave the Kennedy Center its name, and only Congress can change it," Cooper wrote in his ruling.
+The Department of Justice, which represents Trump and the board in the case, did not immediately respond to a request for comment.
+The DOJ is appealing a decision by Cooper issued on Tuesday that barred the board from adding Trump's name back to the building and naming the grounds of the center after him.
+The board in an Aug. 13 resolution said it intended "to recognize and honor President Trump's future existential and unprecedented contributions to the survival of the Center."
+The board planned to inscribe the words "renovated and restored by President Donald J. Trump" underneath the words that currently say, "The John F. Kennedy Memorial Center for the Performing Arts."
+The board also said it would name the center's physical grounds "The President Donald J. Trump Plaza."
+Cooper, in his order Tuesday, said, "Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing."
+""The board resolution bucks a federal court order and a statute Congress enacted," the judge said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
+    publishedAt: "2026-09-16T20:32:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "jeff-gundlach-says-the-fed-should-have-h-d5d7823d",
+    title: "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+    titleJa: "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+    summaryJa: "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
+    bodyOriginal: `The Federal Reserve should have hiked rates by more on Wednesday instead of a just a quarter point, according to Jeff Gundlach, founder of DoubleLine.
+"I would have called that stun and done," Gundlach said Wednesday on CNBC's "Closing Bell," a play on the term "one and done" referring to the belief by some that the Fed may only do one or two hikes instead of embarking on a tightening cycle.
+Gundlach, one of the most prominent bond investors, said a half-point hike would have provided the market with a "truing up" to the Fed funds rates.
+The 2-year Treasury rate was more than 100 basis points above the Fed funds rate, according to Gundlach. The yield on the 2-year U.S. Treasury, which tracks short-term Fed interest rate expectations, climbed around 7 basis points in Wednesday afternoon trading.
+Gundlach said he worries that the inflation problem facing the U.S. may not be "fully respected."
+"I would have just done the 50 and then see what the data does," Gundlach said.
+To be sure, Gundlach said he has previously advocated for larger rate hikes than the Fed has implemented. He said the 2-year Treasury "leads" the Fed, a hypothesis that the investor said was proven correct on Wednesday.
+Gundlach said he wasn't surprised to see stocks take a leg down during Federal Reserve Chairman Kevin Warsh's post-decision press conference. The Dow Jones Industrial Average fell 700 points in late afternoon trading, with losses accelerating during and in the aftermath of Warsh's gathering.
+"I thought the content was pretty thin," Gundlach said of Warsh's press conference, later adding that the central bank chief was "opaque."
+Gundlach also said he didn't approve of Warsh's push to bring task forces in to evaluate several key aspects on the Fed's operation.
+"It's like a company that's having trouble that wants to hire consultants," Gundlach said. "The consultants always want to figure out what the … people at the company really want to hear, and then they tell them what they want to hear."`,
+    bodyJa: `The Federal Reserve should have hiked rates by more on Wednesday instead of a just a quarter point, according to Jeff Gundlach, founder of DoubleLine.
+"I would have called that stun and done," Gundlach said Wednesday on CNBC's "Closing Bell," a play on the term "one and done" referring to the belief by some that the Fed may only do one or two hikes instead of embarking on a tightening cycle.
+Gundlach, one of the most prominent bond investors, said a half-point hike would have provided the market with a "truing up" to the Fed funds rates.
+The 2-year Treasury rate was more than 100 basis points above the Fed funds rate, according to Gundlach. The yield on the 2-year U.S. Treasury, which tracks short-term Fed interest rate expectations, climbed around 7 basis points in Wednesday afternoon trading.
+Gundlach said he worries that the inflation problem facing the U.S. may not be "fully respected."
+"I would have just done the 50 and then see what the data does," Gundlach said.
+To be sure, Gundlach said he has previously advocated for larger rate hikes than the Fed has implemented. He said the 2-year Treasury "leads" the Fed, a hypothesis that the investor said was proven correct on Wednesday.
+Gundlach said he wasn't surprised to see stocks take a leg down during Federal Reserve Chairman Kevin Warsh's post-decision press conference. The Dow Jones Industrial Average fell 700 points in late afternoon trading, with losses accelerating during and in the aftermath of Warsh's gathering.
+"I thought the content was pretty thin," Gundlach said of Warsh's press conference, later adding that the central bank chief was "opaque."
+Gundlach also said he didn't approve of Warsh's push to bring task forces in to evaluate several key aspects on the Fed's operation.
+"It's like a company that's having trouble that wants to hire consultants," Gundlach said. "The consultants always want to figure out what the … people at the company really want to hear, and then they tell them what they want to hear."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+    publishedAt: "2026-09-16T19:38:41+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "boeing-ceo-737-max-production-taking-a-l-11ce7f25",
+    title: "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+    titleJa: "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+    summaryJa: "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
+    bodyOriginal: `Boeing's 737 Max production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year, CEO Kelly Ortberg told investors Wednesday.
+Boeing stock extended its losses for the day and was down more than 5% in afternoon trading after Ortberg's comments.
+The manufacturer has been working to steadily ramp up the output of its best-selling plane after years of safety and quality crises. Ortberg said wing production at its Renton, Washington, factory is a constraint now, adding the company has plans in place to address it.
+Boeing is producing about 47 of the aircraft per month.
+Ortberg reiterated to investors at a Morgan Stanley industry conference that he expects certification of the Max 10, the largest model in the family "very soon." That plane is years behind schedule.
+Kelly didn't say that he expected aircraft orders from China when President Donald Trump is scheduled to host Chinese leader Xi Jinping at the White House on Sept. 24.
+Orders from China are "going to be announced by the airlines at their pace," he said.`,
+    bodyJa: `Boeing's 737 Max production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year, CEO Kelly Ortberg told investors Wednesday.
+Boeing stock extended its losses for the day and was down more than 5% in afternoon trading after Ortberg's comments.
+The manufacturer has been working to steadily ramp up the output of its best-selling plane after years of safety and quality crises. Ortberg said wing production at its Renton, Washington, factory is a constraint now, adding the company has plans in place to address it.
+Boeing is producing about 47 of the aircraft per month.
+Ortberg reiterated to investors at a Morgan Stanley industry conference that he expects certification of the Max 10, the largest model in the family "very soon." That plane is years behind schedule.
+Kelly didn't say that he expected aircraft orders from China when President Donald Trump is scheduled to host Chinese leader Xi Jinping at the White House on Sept. 24.
+Orders from China are "going to be announced by the airlines at their pace," he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+    publishedAt: "2026-09-16T19:36:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
     id: "pentagon-cto-says-u-s-government-shouldn-37712a0e",
     title: "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
     titleJa: "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
@@ -1541,408 +1807,6 @@ In August, CNBC reported that Friar told employees that the lab "will be a publi
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 4,
-  },
-  {
-    id: "saudi-pipeline-closure-is-a-brief-interr-ec7216f6",
-    title: "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
-    titleJa: "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy Secretary tells CNBC",
-    summaryJa: "The Saudis closed the East-West pipeline after it sustained damage in a drone attack launched from Iraq.",
-    bodyOriginal: `Saudi Arabia's critical East-West crude oil pipeline will start operating again "very soon" after Iran-backed attacks forced its closure, U.S. Energy Secretary Chris Wright told CNBC in an interview Tuesday.
-"This will be a brief and temporary interruption," Wright told CNBC's Morgan Brennan at a meeting of G20 nations in Houston. "It will be measured in days."
-The Saudis closed the pipeline late last week after it sustained damage in drone attacks launched from Iraq. Iran-backed proxy groups were responsible for the strikes, Wright said.
-Riyadh has relied on the pipeline to shift crude oil exports to the Red Sea as the U.S. and Iran battle for control over the Strait of Hormuz. The Saudis are now shifting some oil exports back through Hormuz with U.S. military support while the pipeline is down, Wright said.
-U.S. crude oil prices have gained more than 5% this week to trade above $105 per barrel, as the market tries to assess how big a supply disruption the pipeline outage will cause.
-Satellite imagery appears to show extensive damage to one of the pipeline's pumping stations. "Judging from the on-line pictures, it will take months to repair," said Andy Lipow, president of Lipow Oil Associates, in a Monday note.
-Riyadh has described the closure as a "precautionary measure." It has not provided a damage assessment or said how long the pipeline will stay shut.
-This is a developing story. Please check back for updates.`,
-    bodyJa: `Saudi Arabia's critical East-West crude oil pipeline will start operating again "very soon" after Iran-backed attacks forced its closure, U.S. Energy Secretary Chris Wright told CNBC in an interview Tuesday.
-"This will be a brief and temporary interruption," Wright told CNBC's Morgan Brennan at a meeting of G20 nations in Houston. "It will be measured in days."
-The Saudis closed the pipeline late last week after it sustained damage in drone attacks launched from Iraq. Iran-backed proxy groups were responsible for the strikes, Wright said.
-Riyadh has relied on the pipeline to shift crude oil exports to the Red Sea as the U.S. and Iran battle for control over the Strait of Hormuz. The Saudis are now shifting some oil exports back through Hormuz with U.S. military support while the pipeline is down, Wright said.
-U.S. crude oil prices have gained more than 5% this week to trade above $105 per barrel, as the market tries to assess how big a supply disruption the pipeline outage will cause.
-Satellite imagery appears to show extensive damage to one of the pipeline's pumping stations. "Judging from the on-line pictures, it will take months to repair," said Andy Lipow, president of Lipow Oil Associates, in a Monday note.
-Riyadh has described the closure as a "precautionary measure." It has not provided a damage assessment or said how long the pipeline will stay shut.
-This is a developing story. Please check back for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
-    publishedAt: "2026-09-15T16:43:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "judge-blocks-kennedy-center-board-from-p-09311593",
-    title: "Judge blocks Kennedy Center board from putting Trump's name on plaza, building",
-    titleJa: "Judge blocks Kennedy Center board from putting Trump's name on plaza, building",
-    summaryJa: "The ruling comes four months after the same judge ordered that the Kennedy Center could not be renamed to include President Trump's name",
-    bodyOriginal: `A federal judge on Tuesday blocked the board of the John F. Kennedy Center for the Performing Arts from inscribing President Donald Trump's name on the center's main building to honor him and from naming its campus after Trump.
-The judge's order came after a renewed push by the Kennedy Center's board — which the president chairs — to get Trump's name on official markers after the same judge ruled the board could not add Trump to the center's official name.
-"Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing," Judge Christopher Cooper wrote in his order in U.S. District Court in Washington, D.C.
-"The board resolution bucks a federal court order and a statute Congress enacted," Cooper wrote.
-Rep. Joyce Beatty, D-Ohio, an ex officio member of the center's board, had asked Cooper to block the effects of the board's Aug. 13 resolution, which was "to recognize and honor President Trump's future existential and unprecedented contributions to the survival of the Center."
-The board said it would put an inscription recognizing Trump on the center's building so that it would read, "The John F. Kennedy Memorial Center for the Performing Arts," with the words "renovated and restored by President Donald J. Trump" underneath.
-The board also said it would name the physical grounds of the center "The President Donald J. Trump Plaza."
-Both actions were originally planned to be implemented by Sept. 8, but the board later extended the deadline to Oct. 8.
-The Department of Justice, in defending the board's actions, had argued to Cooper that if he blocked the moves donors would stop contributing to the center, leaving the facility short of funds while it badly needed renovation.
-"Four months ago, this Court declared that Congress named the John F. Kennedy Center
-for the Performing Arts for President John F. Kennedy alone," Cooper said in his order Tuesday.
-"It came to this conclusion for a simple reason: The federal law that created the Kennedy Center permitted no other result," Cooper wrote. "In 1983, Congress amended that law to guarantee 'no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas of the John F. Kennedy Center for the Performing Arts.' "
-"Yet the drama at the Kennedy Center continues," the judge added, referring to the board's resolutions.
-This is breaking news. Please refresh for updates.`,
-    bodyJa: `A federal judge on Tuesday blocked the board of the John F. Kennedy Center for the Performing Arts from inscribing President Donald Trump's name on the center's main building to honor him and from naming its campus after Trump.
-The judge's order came after a renewed push by the Kennedy Center's board — which the president chairs — to get Trump's name on official markers after the same judge ruled the board could not add Trump to the center's official name.
-"Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing," Judge Christopher Cooper wrote in his order in U.S. District Court in Washington, D.C.
-"The board resolution bucks a federal court order and a statute Congress enacted," Cooper wrote.
-Rep. Joyce Beatty, D-Ohio, an ex officio member of the center's board, had asked Cooper to block the effects of the board's Aug. 13 resolution, which was "to recognize and honor President Trump's future existential and unprecedented contributions to the survival of the Center."
-The board said it would put an inscription recognizing Trump on the center's building so that it would read, "The John F. Kennedy Memorial Center for the Performing Arts," with the words "renovated and restored by President Donald J. Trump" underneath.
-The board also said it would name the physical grounds of the center "The President Donald J. Trump Plaza."
-Both actions were originally planned to be implemented by Sept. 8, but the board later extended the deadline to Oct. 8.
-The Department of Justice, in defending the board's actions, had argued to Cooper that if he blocked the moves donors would stop contributing to the center, leaving the facility short of funds while it badly needed renovation.
-"Four months ago, this Court declared that Congress named the John F. Kennedy Center
-for the Performing Arts for President John F. Kennedy alone," Cooper said in his order Tuesday.
-"It came to this conclusion for a simple reason: The federal law that created the Kennedy Center permitted no other result," Cooper wrote. "In 1983, Congress amended that law to guarantee 'no additional memorials or plaques in the nature of memorials shall be designated or installed in the public areas of the John F. Kennedy Center for the Performing Arts.' "
-"Yet the drama at the Kennedy Center continues," the judge added, referring to the board's resolutions.
-This is breaking news. Please refresh for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
-    publishedAt: "2026-09-15T16:42:07+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "treasury-secretary-bessent-defends-trump-539f4eed",
-    title: "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
-    titleJa: "Treasury Secretary Bessent defends Trump economic record in contentious hearing",
-    summaryJa: "Treasury Secretary Scott Bessent is facing questions on rising energy prices, government debt and the Trump team's economic agenda.",
-    bodyOriginal: `A contentious hearing is underway as Treasury Secretary Scott Bessent appears before the House Financial Services Committee for his annual testimony. Bessent on Tuesday initially struggled to get a word in as protesters and a leading House Democrat repeatedly talked over him.
-"The strength of our economy has allowed the United States to wage the greatest economic isolation campaign in the history of the world against the Islamic Republic of Iran and its enablers," Bessent said in his opening statement. Bessent touted the success of the Iran war and rising wages for the lowest-income Americans. Protesters objecting to U.S. sanctions against Iran and Cuba broke in repeatedly.
-Bessent is fielding questions about issues including artificial intelligence, inflation, and energy prices and will likely be probed on interest rates and the federal debt.
-Several leading AI executives have said in recent days they are concerned about the potential for AI to advance beyond their ability to control the technology. Bessent on Tuesday suggested Chinese companies are a greater threat than U.S. firms. Anthropic, creator of Claude, said earlier this month that a Chinese AI model had routed some of its users' queries to Anthropic.
-"Kimi had a breach and sent Chinese weapons plans back to Anthropic," Bessent said Tuesday, speaking about the first known example of a Chinese AI model being involved in a breach.
-Anthropic didn't immediately respond to a request for comment about Bessent's remarks.
-Bessent's testimony is formally part of Congress' oversight of the International Monetary Fund, a Washington-based international organization that was established in 1944 to help ensure global financial stability. Bessent has criticized the organization as subject to mission creep, and his former chief of staff, Dan Katz, became its No. 2 official last year. The U.S. government's priority is "ensuring that American time and resources serve American interests," Bessent said.
-Members of Congress used the secretary's appearance to ask questions about other issues.
-Democrats are criticizing the Treasury secretary about the economy. The 10-year Treasury note traded at 5% as the hearing kicked off Tuesday morning. That has raised consumer borrowing costs. The 30-year fixed mortgage rate average topped 7% last week.
-"Despite your feeble efforts, there continues to be a sell-off of U.S. Treasuries," Rep. Maxine Waters, the ranking Democrat on the committee, told Bessent.
-Bessent attempted to respond at length, but Waters, of California, held up her hand and said she was reclaiming her time.
-Bessent defended his management of the U.S. Treasury market during questioning by other lawmakers. The Treasury Department increased its purchases of certain long-dated Treasury bonds that it sees as mispriced. Democrats suggested those buybacks weren't successful because yields on long-dated bonds have continued to rise.
-Bessent disagreed, saying bond yields would be yet higher had the department not intervened.
-"There was the counterfactual of what it would have done," he said. "And then we proceeded to have two of most successful bond Treasury auctions that we've had in 20 years."
-Bessent said he is working on deficit-reduction plans, which would ease Treasury yields.
-"I believe that the 10-year yield reflects many things, but the need to address the deficit is one of those," Bessent said.
-Yields have risen alongside the price of oil. A barrel is of oil trading above $100 a barrel as the Iran war has heated up again recently. That has pushed the price of gas in the U.S. to an average of $4.32 a gallon as of Monday, up $1.14 from a year ago, according to AAA. Diesel costs $6.23, up $2.54 over the past year.
-Bessent has been a full-throated supporter of the war. His department has ratcheted up sanctions on Iran and banks that facilitate its business.
-The national debt has ballooned past $40 trillion. The huge supply of debt combined with artificial intelligence spending and the surge in oil prices to hike funding costs for government debt.
-Bessent and House Republicans emphasized positive aspects of the Trump economy. Stocks have been volatile lately but remain near highs. The S&P 500 is up about 27% since Trump took office for his second term.
-The economy has also continued to produce jobs, while the administration slows immigration. Unemployment is low at 4.1%.
-Bessent said wages for the bottom 25% of earners have risen faster than the top group of earners. More than 64 million tax returns have claimed one of the tax cuts passed last year, he said.
-— Karen James Sloan and Matt Peterson contributed to this report.`,
-    bodyJa: `A contentious hearing is underway as Treasury Secretary Scott Bessent appears before the House Financial Services Committee for his annual testimony. Bessent on Tuesday initially struggled to get a word in as protesters and a leading House Democrat repeatedly talked over him.
-"The strength of our economy has allowed the United States to wage the greatest economic isolation campaign in the history of the world against the Islamic Republic of Iran and its enablers," Bessent said in his opening statement. Bessent touted the success of the Iran war and rising wages for the lowest-income Americans. Protesters objecting to U.S. sanctions against Iran and Cuba broke in repeatedly.
-Bessent is fielding questions about issues including artificial intelligence, inflation, and energy prices and will likely be probed on interest rates and the federal debt.
-Several leading AI executives have said in recent days they are concerned about the potential for AI to advance beyond their ability to control the technology. Bessent on Tuesday suggested Chinese companies are a greater threat than U.S. firms. Anthropic, creator of Claude, said earlier this month that a Chinese AI model had routed some of its users' queries to Anthropic.
-"Kimi had a breach and sent Chinese weapons plans back to Anthropic," Bessent said Tuesday, speaking about the first known example of a Chinese AI model being involved in a breach.
-Anthropic didn't immediately respond to a request for comment about Bessent's remarks.
-Bessent's testimony is formally part of Congress' oversight of the International Monetary Fund, a Washington-based international organization that was established in 1944 to help ensure global financial stability. Bessent has criticized the organization as subject to mission creep, and his former chief of staff, Dan Katz, became its No. 2 official last year. The U.S. government's priority is "ensuring that American time and resources serve American interests," Bessent said.
-Members of Congress used the secretary's appearance to ask questions about other issues.
-Democrats are criticizing the Treasury secretary about the economy. The 10-year Treasury note traded at 5% as the hearing kicked off Tuesday morning. That has raised consumer borrowing costs. The 30-year fixed mortgage rate average topped 7% last week.
-"Despite your feeble efforts, there continues to be a sell-off of U.S. Treasuries," Rep. Maxine Waters, the ranking Democrat on the committee, told Bessent.
-Bessent attempted to respond at length, but Waters, of California, held up her hand and said she was reclaiming her time.
-Bessent defended his management of the U.S. Treasury market during questioning by other lawmakers. The Treasury Department increased its purchases of certain long-dated Treasury bonds that it sees as mispriced. Democrats suggested those buybacks weren't successful because yields on long-dated bonds have continued to rise.
-Bessent disagreed, saying bond yields would be yet higher had the department not intervened.
-"There was the counterfactual of what it would have done," he said. "And then we proceeded to have two of most successful bond Treasury auctions that we've had in 20 years."
-Bessent said he is working on deficit-reduction plans, which would ease Treasury yields.
-"I believe that the 10-year yield reflects many things, but the need to address the deficit is one of those," Bessent said.
-Yields have risen alongside the price of oil. A barrel is of oil trading above $100 a barrel as the Iran war has heated up again recently. That has pushed the price of gas in the U.S. to an average of $4.32 a gallon as of Monday, up $1.14 from a year ago, according to AAA. Diesel costs $6.23, up $2.54 over the past year.
-Bessent has been a full-throated supporter of the war. His department has ratcheted up sanctions on Iran and banks that facilitate its business.
-The national debt has ballooned past $40 trillion. The huge supply of debt combined with artificial intelligence spending and the surge in oil prices to hike funding costs for government debt.
-Bessent and House Republicans emphasized positive aspects of the Trump economy. Stocks have been volatile lately but remain near highs. The S&P 500 is up about 27% since Trump took office for his second term.
-The economy has also continued to produce jobs, while the administration slows immigration. Unemployment is low at 4.1%.
-Bessent said wages for the bottom 25% of earners have risen faster than the top group of earners. More than 64 million tax returns have claimed one of the tax cuts passed last year, he said.
-— Karen James Sloan and Matt Peterson contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-    publishedAt: "2026-09-15T16:23:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "musk-urges-top-ai-labs-chinese-companies-f4545aaf",
-    title: "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-    titleJa: "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown",
-    summaryJa: "Elon Musk called for the leading AI labs to peer review each others' models before they're released to the public as a way to evaluate their safety.",
-    bodyOriginal: `Elon Musk called for the top artificial intelligence companies to work together and test each other's models before they're released to the public, as some of the industry's leaders warn of the technology's dangers and push for greater government regulation.
-Speaking at the All-In Summit in Los Angeles on Monday, the SpaceX CEO said SpaceX's xAI business, OpenAI, Anthropic, Google, Meta and "three or four of the leading Chinese companies" should let rivals run a "test harness" on their models to evaluate their safety.
-"So, you know, instead of grading your own homework, you would at least have competitors grading your homework and raising the alarm if they see concerns," Musk said.
-The debate around how to regulate AI has intensified after the leaders of Anthropic, OpenAI and other AI companies spent the weekend warning about the technology's harms and called for a slowdown in model development. Musk and OpenAI CEO Sam Altman were among the tech leaders who backed Anthropic CEO Dario Amodei's proposal for a slowdown, marking a rare show of unity.
-The push from top AI leaders came amid a broader warning about the fate of humanity as AI researchers sounded the alarm last week, sparked by a post from Jacob Coxon, who announced that he quit his job at Anthropic.
-Coxon, who also worked at OpenAI, wrote that the leading AI labs are "gambling with our lives." Researchers quickly chimed in, with Evan Hubinger, an alignment lead at Anthropic, also backing Coxon's statements.
-"Jacob is correct here — we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," Hubinger wrote.
-The Trump administration has pushed back on tech leaders' calls for greater limits on AI. President Donald Trump pushed out a flurry of posts on Truth Social on Monday, referring to fears over AI as a "hoax" and a "scam."
-National Economic Council Director Kevin Hassett told CNBC on Tuesday that the private sector is the "right place" to address concerns with AI. He said the government continues to monitor the industry and will use "law enforcement when necessary to make sure that the firms are acting responsibly."
-Musk said Monday that his peer-review method may not be a perfect solution, but he added, "The odds that you will find issues are dramatically greater."
-Musk acknowledged that rival AI labs that compete with xAI, which SpaceX acquired in February, haven't agreed to his proposal. Amodei, in his essay, suggested that AI labs could agree to third-party technology assessments from "embedded evaluators" who would verify safety practices.
-Trump has suggested that any attempts to pace the development of AI would give China the upper hand in developing the technology. Amodei echoed those concerns over the weekend, calling it the "toughest dilemma."
-A spokesperson for China's Foreign Ministry on Monday called AI companies' push for a slowdown "fear mongering," according to an English translation of their remarks published by Reuters.
-"What I'm suggesting here is it's a step in the right direction and it's something that we do quickly," Musk said. "I think it's probably something that China would agree to."`,
-    bodyJa: `Elon Musk called for the top artificial intelligence companies to work together and test each other's models before they're released to the public, as some of the industry's leaders warn of the technology's dangers and push for greater government regulation.
-Speaking at the All-In Summit in Los Angeles on Monday, the SpaceX CEO said SpaceX's xAI business, OpenAI, Anthropic, Google, Meta and "three or four of the leading Chinese companies" should let rivals run a "test harness" on their models to evaluate their safety.
-"So, you know, instead of grading your own homework, you would at least have competitors grading your homework and raising the alarm if they see concerns," Musk said.
-The debate around how to regulate AI has intensified after the leaders of Anthropic, OpenAI and other AI companies spent the weekend warning about the technology's harms and called for a slowdown in model development. Musk and OpenAI CEO Sam Altman were among the tech leaders who backed Anthropic CEO Dario Amodei's proposal for a slowdown, marking a rare show of unity.
-The push from top AI leaders came amid a broader warning about the fate of humanity as AI researchers sounded the alarm last week, sparked by a post from Jacob Coxon, who announced that he quit his job at Anthropic.
-Coxon, who also worked at OpenAI, wrote that the leading AI labs are "gambling with our lives." Researchers quickly chimed in, with Evan Hubinger, an alignment lead at Anthropic, also backing Coxon's statements.
-"Jacob is correct here — we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade," Hubinger wrote.
-The Trump administration has pushed back on tech leaders' calls for greater limits on AI. President Donald Trump pushed out a flurry of posts on Truth Social on Monday, referring to fears over AI as a "hoax" and a "scam."
-National Economic Council Director Kevin Hassett told CNBC on Tuesday that the private sector is the "right place" to address concerns with AI. He said the government continues to monitor the industry and will use "law enforcement when necessary to make sure that the firms are acting responsibly."
-Musk said Monday that his peer-review method may not be a perfect solution, but he added, "The odds that you will find issues are dramatically greater."
-Musk acknowledged that rival AI labs that compete with xAI, which SpaceX acquired in February, haven't agreed to his proposal. Amodei, in his essay, suggested that AI labs could agree to third-party technology assessments from "embedded evaluators" who would verify safety practices.
-Trump has suggested that any attempts to pace the development of AI would give China the upper hand in developing the technology. Amodei echoed those concerns over the weekend, calling it the "toughest dilemma."
-A spokesperson for China's Foreign Ministry on Monday called AI companies' push for a slowdown "fear mongering," according to an English translation of their remarks published by Reuters.
-"What I'm suggesting here is it's a step in the right direction and it's something that we do quickly," Musk said. "I think it's probably something that China would agree to."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-    publishedAt: "2026-09-15T16:14:29+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "trump-calls-supreme-court-mail-ballot-ru-60bcaa26",
-    title: "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-    titleJa: "Trump calls Supreme Court mail ballot ruling 'big loss for Republicans'",
-    summaryJa: "President Trump blasted his three Supreme Court appointees for blocking a Postal Service rule that would have allowed mail-in ballots in November's elections.",
-    bodyOriginal: `President Donald Trump on Tuesday blasted the Supreme Court for blocking a new controversial U.S. Postal Service rule on mail-in ballots from being used for the upcoming midterm elections after critics warned it would make voting difficult for many people.
-"Republicans just got another bad decision from the United States Supreme Court, one that the Court System took forever to give, and then blamed it, in part, on no time left to implement a solution to our totally CORRUPT and out of control Mail-In voting 'disaster,'" Trump wrote in a Truth Social post.
-"It is a big loss for Republicans, and America itself, and makes cheating by the Radical Left 'Dumocrats,' on Mail-In Ballots, a much easier thing to do," Trump said, a day after the Supreme Court decision.
-Trump's fellow Republicans are trying to retain their slim majorities in both chambers of Congress in November's elections.
-Trump also harshly criticized his three Supreme Court appointees for apparently joining with all three liberal justices, plus Chief Justice John Roberts, on Monday in leaving in place a Boston federal district court judge's injunction preventing the Postal Service rule from being applied to ballots mailed in for November's elections.
-"These are not the people I interviewed to serve on the United States Supreme Court, they are merely a shell of their original selves, a Court that is costing the United States Trillions of Dollars with shockingly bad rulings," Trump wrote in his post.
-One of Trump's appointees who agreed to block the rule for now, Justice Brett Kavanaugh, wrote in a concurrence Monday that there is "a fair prospect" the Postal Service rule might ultimately be found to be legal.
-But Kavanaugh added that "applying the rule in the 2026 elections would be arbitrary and capricious in violation of the Administrative Procedure Act because state and local election officials do not have sufficient time to reasonably implement the rule before the elections."
-Trump's other two appointees are Justices Neil Gorsuch and Amy Coney Barrett.
-In February, when Gorsuch and Barrett had joined their fellow conservative Roberts and the three liberal justices in a majority ruling against Trump's wide-ranging tariffs on imports, the president called their votes "an embarrassment to their families, to one another."
-In June, Barrett joined with other justices to block Trump's executive order that aimed to undo automatic birthright citizenship for children born to many immigrants. Kavanaugh separately agreed the order was unlawful, but because it conflicted with a federal law, not on the constitutional grounds cited by the majority.
-In his post Tuesday, Trump noted both the tariff and birthright citizenship rulings.
-"Certain Justices are petrified of these crazed and depraved Democrats, and are totally unable to show the courage necessary to save our America," the president wrote. "Their horrible decision on Tariffs will be costing the U.S.A., for many years to come, Trillions and Trillions of Dollars."
-"Likewise, the Supreme Court's Decision on Birthright Citizenship is a complete and total disaster for America, and has already led to massive corruption with respect to 'citizenship' in our Country," Trump said.
-Monday's majority ruling by the Supreme Court was unsigned, and only Kavanaugh wrote a separate, brief concurrence. The majority in its decision said the Trump administration "is unlikely to succeed on the merits of its challenge to the" preliminary injunction
-The fact that only two conservative justices, Samuel Alito and Clarence Thomas, publicly dissented implies a 7-2 vote to block the Postal Service rule.
-Trump praised Alito and Thomas for their dissent, calling them "legends."
-The Postal Service rule, which was issued in late August, implemented an executive order on mail-in ballots issued by Trump in March.
-The rule set new standards for ballot envelopes and required states to enter information about voters and ballot envelopes into a Postal Service portal.`,
-    bodyJa: `President Donald Trump on Tuesday blasted the Supreme Court for blocking a new controversial U.S. Postal Service rule on mail-in ballots from being used for the upcoming midterm elections after critics warned it would make voting difficult for many people.
-"Republicans just got another bad decision from the United States Supreme Court, one that the Court System took forever to give, and then blamed it, in part, on no time left to implement a solution to our totally CORRUPT and out of control Mail-In voting 'disaster,'" Trump wrote in a Truth Social post.
-"It is a big loss for Republicans, and America itself, and makes cheating by the Radical Left 'Dumocrats,' on Mail-In Ballots, a much easier thing to do," Trump said, a day after the Supreme Court decision.
-Trump's fellow Republicans are trying to retain their slim majorities in both chambers of Congress in November's elections.
-Trump also harshly criticized his three Supreme Court appointees for apparently joining with all three liberal justices, plus Chief Justice John Roberts, on Monday in leaving in place a Boston federal district court judge's injunction preventing the Postal Service rule from being applied to ballots mailed in for November's elections.
-"These are not the people I interviewed to serve on the United States Supreme Court, they are merely a shell of their original selves, a Court that is costing the United States Trillions of Dollars with shockingly bad rulings," Trump wrote in his post.
-One of Trump's appointees who agreed to block the rule for now, Justice Brett Kavanaugh, wrote in a concurrence Monday that there is "a fair prospect" the Postal Service rule might ultimately be found to be legal.
-But Kavanaugh added that "applying the rule in the 2026 elections would be arbitrary and capricious in violation of the Administrative Procedure Act because state and local election officials do not have sufficient time to reasonably implement the rule before the elections."
-Trump's other two appointees are Justices Neil Gorsuch and Amy Coney Barrett.
-In February, when Gorsuch and Barrett had joined their fellow conservative Roberts and the three liberal justices in a majority ruling against Trump's wide-ranging tariffs on imports, the president called their votes "an embarrassment to their families, to one another."
-In June, Barrett joined with other justices to block Trump's executive order that aimed to undo automatic birthright citizenship for children born to many immigrants. Kavanaugh separately agreed the order was unlawful, but because it conflicted with a federal law, not on the constitutional grounds cited by the majority.
-In his post Tuesday, Trump noted both the tariff and birthright citizenship rulings.
-"Certain Justices are petrified of these crazed and depraved Democrats, and are totally unable to show the courage necessary to save our America," the president wrote. "Their horrible decision on Tariffs will be costing the U.S.A., for many years to come, Trillions and Trillions of Dollars."
-"Likewise, the Supreme Court's Decision on Birthright Citizenship is a complete and total disaster for America, and has already led to massive corruption with respect to 'citizenship' in our Country," Trump said.
-Monday's majority ruling by the Supreme Court was unsigned, and only Kavanaugh wrote a separate, brief concurrence. The majority in its decision said the Trump administration "is unlikely to succeed on the merits of its challenge to the" preliminary injunction
-The fact that only two conservative justices, Samuel Alito and Clarence Thomas, publicly dissented implies a 7-2 vote to block the Postal Service rule.
-Trump praised Alito and Thomas for their dissent, calling them "legends."
-The Postal Service rule, which was issued in late August, implemented an executive order on mail-in ballots issued by Trump in March.
-The rule set new standards for ballot envelopes and required states to enter information about voters and ballot envelopes into a Postal Service portal.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/trump-supreme-court-mail-ballots-election.html",
-    publishedAt: "2026-09-15T15:37:17+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "what-weapon-could-the-us-have-put-into-s-531569b0",
-    title: "What weapon could the US have put into space?",
-    titleJa: "What weapon could the US have put into space?",
-    summaryJa: "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-    bodyOriginal: `What weapon could the US have put into space?
-- Published
-The announcement by the United States that it has deployed a space weapon in Earth's orbit has raised questions about what weaponry is actually in space, and what role it could play in efforts by great powers to dominate that arena.
-Washington has given away little in its announcement. Secretary of the Air Force Troy Meink said the "on orbit" weapon was necessary to safeguard US forces against hostile enemy action, but gave no details about the weapon's capabilities or when it was put into orbit.
-So what could this weapon be, and what is wider picture like for military developments in space? Who else could have similar weaponry?
-Advanced militaries already deploy satellites in space for range of purposes, from supplying secure communications to reconnaissance, and providing precise location information for targeted strikes and detecting missile launches.
-As warfare become more technologically advanced, analysts expect the use of military hardware in space to increase.
-Dr Bleddyn Bowen, an associate fellow in military sciences at the Royal United Services Institute and associate professor in astropolitics at Durham University, said he was only able to hazard a guess about the weapon announced by the US.
-"I would expect there to be some kind of electronic warfare or radio-jamming platform, possibly, this would be a non-destructive kind of anti-satellite weapon," he told BBC Radio 4's Today programme.
-Such weaponry already exists on Earth and can disrupt satellite communications, he said. "If you take out the radio links then your satellite is very useless."
-Bowen also would not rule out some sort of more disruptive and riskier weaponry, which could create a lot of debris and destruction.
-"Less likely would be a kinetic kill vehicle of some sort, so a vehicle that would release a projectile of some sort that could ram into a satellite and destroy it," he said.
-"Possibly some sort of close inspection and grappling satellite would be another possibility as well."
-But while the weapon placed in orbit appears to be a first, the US - and indeed its Russian and Chinese rivals - have had weapons that can be pointed and shot into space for some time.
-In fact in the last 10 years, Russia and China have been doing a lot more manoeuvres in space, known as rendezvous and proximity operations (RPOs) - "buzzing" Western satellites.
-"Theoretically, these RPO sats can become hunter-killer satellites by physically colliding with them or by nudging them out of orbit," Dr Rod Thornton, reader in Russian Defence and Security Studies at King's College, London, told the BBC.
-Bowen adds that the Chinese have demonstrated "space tug capability", saying: "A vehicle can go up to a satellite, can grapple it and move it into a different orbit."
-This, he says, can be a positive development - a way of removing space junk as well as knocking out working satellites.
-Thornton says that what Russia lacks in space weaponry and satellites, it makes up for in missile capability.
-"The Russians... have ground-based missiles which can be launched into space to strike sats in low Earth orbit. They also have ASAT missiles that can be launched from a great height by aircraft," he says.
-"From the Russian point of view they see Nato as having much better and more sats than the Russian military can call up, therefore they have invested heavily in ASATs in order to 'level the battlefield' somewhat."
-Thornton adds a sobering thought: "As a last resort, the Russians can also launch nuclear weapons into space and the EPM blast would 'fry' any unhardened sats over a wide expanse."
-He says that, having so few satellites, Russia would be the "big winner" in any space war, which would involve "missiles fired up into space, manoeuvring sats designed to nudge/destroy them and ground-based lasers".`,
-    bodyJa: `What weapon could the US have put into space?
-- Published
-The announcement by the United States that it has deployed a space weapon in Earth's orbit has raised questions about what weaponry is actually in space, and what role it could play in efforts by great powers to dominate that arena.
-Washington has given away little in its announcement. Secretary of the Air Force Troy Meink said the "on orbit" weapon was necessary to safeguard US forces against hostile enemy action, but gave no details about the weapon's capabilities or when it was put into orbit.
-So what could this weapon be, and what is wider picture like for military developments in space? Who else could have similar weaponry?
-Advanced militaries already deploy satellites in space for range of purposes, from supplying secure communications to reconnaissance, and providing precise location information for targeted strikes and detecting missile launches.
-As warfare become more technologically advanced, analysts expect the use of military hardware in space to increase.
-Dr Bleddyn Bowen, an associate fellow in military sciences at the Royal United Services Institute and associate professor in astropolitics at Durham University, said he was only able to hazard a guess about the weapon announced by the US.
-"I would expect there to be some kind of electronic warfare or radio-jamming platform, possibly, this would be a non-destructive kind of anti-satellite weapon," he told BBC Radio 4's Today programme.
-Such weaponry already exists on Earth and can disrupt satellite communications, he said. "If you take out the radio links then your satellite is very useless."
-Bowen also would not rule out some sort of more disruptive and riskier weaponry, which could create a lot of debris and destruction.
-"Less likely would be a kinetic kill vehicle of some sort, so a vehicle that would release a projectile of some sort that could ram into a satellite and destroy it," he said.
-"Possibly some sort of close inspection and grappling satellite would be another possibility as well."
-But while the weapon placed in orbit appears to be a first, the US - and indeed its Russian and Chinese rivals - have had weapons that can be pointed and shot into space for some time.
-In fact in the last 10 years, Russia and China have been doing a lot more manoeuvres in space, known as rendezvous and proximity operations (RPOs) - "buzzing" Western satellites.
-"Theoretically, these RPO sats can become hunter-killer satellites by physically colliding with them or by nudging them out of orbit," Dr Rod Thornton, reader in Russian Defence and Security Studies at King's College, London, told the BBC.
-Bowen adds that the Chinese have demonstrated "space tug capability", saying: "A vehicle can go up to a satellite, can grapple it and move it into a different orbit."
-This, he says, can be a positive development - a way of removing space junk as well as knocking out working satellites.
-Thornton says that what Russia lacks in space weaponry and satellites, it makes up for in missile capability.
-"The Russians... have ground-based missiles which can be launched into space to strike sats in low Earth orbit. They also have ASAT missiles that can be launched from a great height by aircraft," he says.
-"From the Russian point of view they see Nato as having much better and more sats than the Russian military can call up, therefore they have invested heavily in ASATs in order to 'level the battlefield' somewhat."
-Thornton adds a sobering thought: "As a last resort, the Russians can also launch nuclear weapons into space and the EPM blast would 'fry' any unhardened sats over a wide expanse."
-He says that, having so few satellites, Russia would be the "big winner" in any space war, which would involve "missiles fired up into space, manoeuvring sats designed to nudge/destroy them and ground-based lasers".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T14:23:14+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "suspected-sabotage-causes-major-netherla-d6ceac96",
-    title: "Suspected sabotage causes major Netherlands rail disruption",
-    titleJa: "Suspected sabotage causes major Netherlands rail disruption",
-    summaryJa: "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
-    bodyOriginal: `Suspected sabotage causes major Netherlands rail disruption
-- Published
-Parts of the Netherlands, including Amsterdam, have been hit by major rail disruption after suspected sabotage to the tracks, the country's railway infrastructure operator has said.
-A spokesperson for operator ProRail told the BBC disruption was not yet over but services were gradually recovering, after widespread cancellations and delays in the country's centre and north on Tuesday.
-Pipes and cables were placed on the tracks in multiple locations, according to local media. In a statement, ProRail said the incident appeared to be "an intentional disruption... caused by human action".
-It added that no suspects or motives had been identified. Police said a criminal investigation had been launched.
-"Objects were found on railway tracks at several locations across the country, causing major disruption to rail traffic," Dutch police said in a statement.
-The national public prosecutor's office and the Netherlands' intelligence agency AIVD is investigating the incident alongside police.
-Routes to the main international airport, Schiphol, Eindhoven and Utrecht were among those affected on Tuesday, with the network saying that 30 disruptions had been reported across the country.
-The closure of some level crossing also caused some disruption to roads.
-"At some locations, multiple reports were received. We removed items that had been found on the tracks, but later received another report of a fault at the same location," ProRail added.
-Train operator Nederlandse Spoorwegen earlier said that disruption was so extensive it was "not possible" to provide a bus replacement service.
-In an update on Tuesday afternoon it said train service was gradually resuming but with some delays and cancellations.
-A Eurostar train from Amsterdam to Paris was earlier delayed due to "operational restrictions" at Amsterdam Centraal, but the company said it was not impacted by the wider disruption in the Netherlands.
-ProRail said in a statement: "Materials were found at multiple locations in the track that were deliberately placed there. This causes section malfunctions. Sabotage appears to be involved".
-In an update at lunchtime on Tuesday, Netherlands Police said officers remained at impacted sites and were in close contact with ProRail to ensure train lines were "reopened for use as quickly as possible".
-Footage published by Dutch public broadcaster NOS on Tuesday showed police carrying what appeared to be metal pipes - about 1.5 metres (5ft) long - and cables away from railway tracks at Veenendaal in the central Netherlands.
-One train in the city of Steenwijk struck one of the objects, ProRail said, but added there were no injuries as a result.
-Tuesday is Prinsjesdag in the Netherlands - the day the government presents its budget.
-Hay bales were lit on fire along various roads across the Netherlands in the afternoon, after Farmers Defence Force (FDF) - a group aimed at defending the interests of Dutch farmers and farm workers - said protests would take place.
-The group is opposing government plans asking them to reduce nitrogen emissions.
-Authorities have not established a link between the protests and the disruption on the rail network.
-The FDF said it was not responsible for the railway sabotage, but said it could not rule out the involvement of individual farmers.
-Disruption in the Netherlands came after separate reports in French media suggested a derailment in Normandy on Friday could have been an act of sabotage.
-According to prosecutors, a section of rail found on the track may have caused the crash. But France's interior minister Laurent Nunez has urged caution while an investigation is ongoing, saying that authorities are pursuing all leads.`,
-    bodyJa: `Suspected sabotage causes major Netherlands rail disruption
-- Published
-Parts of the Netherlands, including Amsterdam, have been hit by major rail disruption after suspected sabotage to the tracks, the country's railway infrastructure operator has said.
-A spokesperson for operator ProRail told the BBC disruption was not yet over but services were gradually recovering, after widespread cancellations and delays in the country's centre and north on Tuesday.
-Pipes and cables were placed on the tracks in multiple locations, according to local media. In a statement, ProRail said the incident appeared to be "an intentional disruption... caused by human action".
-It added that no suspects or motives had been identified. Police said a criminal investigation had been launched.
-"Objects were found on railway tracks at several locations across the country, causing major disruption to rail traffic," Dutch police said in a statement.
-The national public prosecutor's office and the Netherlands' intelligence agency AIVD is investigating the incident alongside police.
-Routes to the main international airport, Schiphol, Eindhoven and Utrecht were among those affected on Tuesday, with the network saying that 30 disruptions had been reported across the country.
-The closure of some level crossing also caused some disruption to roads.
-"At some locations, multiple reports were received. We removed items that had been found on the tracks, but later received another report of a fault at the same location," ProRail added.
-Train operator Nederlandse Spoorwegen earlier said that disruption was so extensive it was "not possible" to provide a bus replacement service.
-In an update on Tuesday afternoon it said train service was gradually resuming but with some delays and cancellations.
-A Eurostar train from Amsterdam to Paris was earlier delayed due to "operational restrictions" at Amsterdam Centraal, but the company said it was not impacted by the wider disruption in the Netherlands.
-ProRail said in a statement: "Materials were found at multiple locations in the track that were deliberately placed there. This causes section malfunctions. Sabotage appears to be involved".
-In an update at lunchtime on Tuesday, Netherlands Police said officers remained at impacted sites and were in close contact with ProRail to ensure train lines were "reopened for use as quickly as possible".
-Footage published by Dutch public broadcaster NOS on Tuesday showed police carrying what appeared to be metal pipes - about 1.5 metres (5ft) long - and cables away from railway tracks at Veenendaal in the central Netherlands.
-One train in the city of Steenwijk struck one of the objects, ProRail said, but added there were no injuries as a result.
-Tuesday is Prinsjesdag in the Netherlands - the day the government presents its budget.
-Hay bales were lit on fire along various roads across the Netherlands in the afternoon, after Farmers Defence Force (FDF) - a group aimed at defending the interests of Dutch farmers and farm workers - said protests would take place.
-The group is opposing government plans asking them to reduce nitrogen emissions.
-Authorities have not established a link between the protests and the disruption on the rail network.
-The FDF said it was not responsible for the railway sabotage, but said it could not rule out the involvement of individual farmers.
-Disruption in the Netherlands came after separate reports in French media suggested a derailment in Normandy on Friday could have been an act of sabotage.
-According to prosecutors, a section of rail found on the track may have caused the crash. But France's interior minister Laurent Nunez has urged caution while an investigation is ongoing, saying that authorities are pursuing all leads.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T13:33:16+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg",
-    readTime: 9,
-  },
-  {
-    id: "denmark-says-russian-warship-fired-flare-495d90dd",
-    title: "Denmark says Russian warship fired flares at military helicopter",
-    titleJa: "Denmark says Russian warship fired flares at military helicopter",
-    summaryJa: "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
-    bodyOriginal: `Denmark says Russian warship fired flares at military helicopter
-- Published
-Denmark has accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.
-The Danish government has summoned the Russian ambassador over the incident, which it said happened during a "routine" monitoring operation on Monday.
-Prime Minister Mette Frederiksen branded the Russian action "reckless" and said it was designed to "intimidate and divide".
-Russia said it would "thoroughly investigate" the incident but accused Danish helicopters of making "dangerous manoeuvres" near Russian warships.
-It came on the same day that Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high amid Russia's full-scale invasion of Ukraine.
-In a statement detailing the incident in the Baltic Sea, the Danish armed forces said: "One of the air force's Fennec helicopters was today fired at with flares during a routine photographic operation of a Russian frigate, which was located in international waters off Gedser."
-Of the two flares fired at the helicopter, one passed close to it, the statement added.
-The Danish foreign ministry described the incident as "completely unacceptable".
-Danish Foreign Minister Lars Lokke Rasmussen accused Russia of "gradually shifting the boundary for what they consider acceptable behaviour", adding: "That is something we cannot accept."
-In a statement, Russian ambassador Vladimir Barbin said Moscow would "thoroughly investigate all the circumstances of the incident" but accused the Danish helicopter of carrying out "provocative actions".
-Barbin said this was "not the first time that Danish Air Force helicopters have carried out dangerous manoeuvres near Russian warships".
-He said he had complained about a similar incident last year, adding that the latest event showed that "communication problems lie not with the Russian Navy's vessels, but with the Danish side".
-Russia's behaviour was "reckless and dangerous," the President of the European Commission Ursula von der Leyen said in a post on social media.
-This incident – together with the drone over Lithuania – was "part of a broader pattern of Russian aggression and provocation against Europe", she added.
-Danish Defence Minister Jeppe Bruus told Reuters no attempt to make contact with helicopters had been made by the frigate's crew.
-Overnight, Nato fighter pilots shot down a drone that entered Lithuania's airspace.
-Authorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus shortly after midnight on Tuesday.
-The origins of the drone have yet to be determined, the Lithuanian national crisis management centre said, but the country's president pointed to increased Russian aggression in recent months.
-President Gitanas Nausėda wrote on X: "With Russia intensifying its aggression against Ukraine, such readiness is vital for our region. Together with our Nato Allies, Lithuania will defend its airspace."
-Lithuania shares a large part of its southern and eastern border with Belarus, a key Russian ally.
-Poland also announced there had been "aviation operations" in its airspace on Monday night "due to the activity of Russian Federation's jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territory".
-It said the overnight operations were of a "preventive nature" and aimed at "securing airspace and its protection, especially in areas adjacent to threatened regions".
-Nato jets have been scrambled several times to shoot down stray Ukrainian drones that have crossed into Baltic countries Estonia and Latvia this year.
-Ukraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.
-- Published3 hours ago`,
-    bodyJa: `Denmark says Russian warship fired flares at military helicopter
-- Published
-Denmark has accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.
-The Danish government has summoned the Russian ambassador over the incident, which it said happened during a "routine" monitoring operation on Monday.
-Prime Minister Mette Frederiksen branded the Russian action "reckless" and said it was designed to "intimidate and divide".
-Russia said it would "thoroughly investigate" the incident but accused Danish helicopters of making "dangerous manoeuvres" near Russian warships.
-It came on the same day that Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high amid Russia's full-scale invasion of Ukraine.
-In a statement detailing the incident in the Baltic Sea, the Danish armed forces said: "One of the air force's Fennec helicopters was today fired at with flares during a routine photographic operation of a Russian frigate, which was located in international waters off Gedser."
-Of the two flares fired at the helicopter, one passed close to it, the statement added.
-The Danish foreign ministry described the incident as "completely unacceptable".
-Danish Foreign Minister Lars Lokke Rasmussen accused Russia of "gradually shifting the boundary for what they consider acceptable behaviour", adding: "That is something we cannot accept."
-In a statement, Russian ambassador Vladimir Barbin said Moscow would "thoroughly investigate all the circumstances of the incident" but accused the Danish helicopter of carrying out "provocative actions".
-Barbin said this was "not the first time that Danish Air Force helicopters have carried out dangerous manoeuvres near Russian warships".
-He said he had complained about a similar incident last year, adding that the latest event showed that "communication problems lie not with the Russian Navy's vessels, but with the Danish side".
-Russia's behaviour was "reckless and dangerous," the President of the European Commission Ursula von der Leyen said in a post on social media.
-This incident – together with the drone over Lithuania – was "part of a broader pattern of Russian aggression and provocation against Europe", she added.
-Danish Defence Minister Jeppe Bruus told Reuters no attempt to make contact with helicopters had been made by the frigate's crew.
-Overnight, Nato fighter pilots shot down a drone that entered Lithuania's airspace.
-Authorities said the drone likely entered southern Lithuania, near the second-largest city of Kaunas, from neighbouring Belarus shortly after midnight on Tuesday.
-The origins of the drone have yet to be determined, the Lithuanian national crisis management centre said, but the country's president pointed to increased Russian aggression in recent months.
-President Gitanas Nausėda wrote on X: "With Russia intensifying its aggression against Ukraine, such readiness is vital for our region. Together with our Nato Allies, Lithuania will defend its airspace."
-Lithuania shares a large part of its southern and eastern border with Belarus, a key Russian ally.
-Poland also announced there had been "aviation operations" in its airspace on Monday night "due to the activity of Russian Federation's jet-powered unmanned aerial vehicles conducting strikes on Ukrainian territory".
-It said the overnight operations were of a "preventive nature" and aimed at "securing airspace and its protection, especially in areas adjacent to threatened regions".
-Nato jets have been scrambled several times to shoot down stray Ukrainian drones that have crossed into Baltic countries Estonia and Latvia this year.
-Ukraine has blamed the stray drones on Russian electronic warfare, technology designed to change the flight paths of Ukrainian drones.
-- Published3 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T11:40:00+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg",
-    readTime: 10,
   },
 ];
 
