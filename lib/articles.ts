@@ -15,6 +15,296 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "pentagon-cto-says-u-s-government-shouldn-37712a0e",
+    title: "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+    titleJa: "Pentagon CTO says U.S. government shouldn't take stakes in tech giants, questions adding AI rules",
+    summaryJa: "President Donald Trump has angrily pushed back on the calls from industry and lawmakers for an AI slowdown or greater regulation.",
+    bodyOriginal: `The top Pentagon technology official said Wednesday the Trump administration shouldn't seek to nationalize or take partial government stakes in artificial intelligence companies.
+"I hope not," Emil Michael, Department of Defense chief technology officer, told CNBC's "Squawk on the Street" when asked about that prospect of partial government ownership, which has emerged amid growing concerns about rapid AI advancement.
+Despite its frequent warnings about the dangers of big-government socialism, President Donald Trump's second administration has taken stakes in a growing portfolio of private-sector companies, including a 10% stake in Intel and a "golden share" in U.S. Steel, now a subsidiary of Nippon Steel.
+But when it comes to AI, Michael told CNBC, "We don't want government to get in the middle."
+"That doesn't really go well in terms of nationalization," he said, noting that U.S. AI leaders are among the "biggest companies in the history of the world."
+Michael also repeatedly signaled opposition to ramping up government regulatory oversight of those companies, even as AI leaders such as Anthropic CEO Dario Amodei have warned the industry should slow its fast-improving models to mitigate risks.
+"This is the the sort of tension you get between people who want to pre-regulate like Europe, and those who want to hold companies responsible for good products being developed that are aligned and safe, not releasing them until they have those dimensions in them," he said.
+He acknowledged that the recent example of the AI hack of Hugging Face is "concerning," but added, "I don't know what kind of regulation would stop that from happening."
+At the same time, he said it would be "dangerous" to place all trust in the hands of a few AI chiefs.
+"I think we're going to make sure that all the laws are enforced," Michael said, noting there are already "a ton of laws on the book from the Federal Trade Commission."
+Trump, whose administration strongly supports the rapid growth of AI and data centers in an effort to box out China, has angrily pushed back on the calls for an AI slowdown or greater regulation.
+The president accused those raising alarms of pushing a "hoax" and a "scam."
+Michael agreed with Trump and other administration officials that there is a "coordinated campaign to scare people to make irrational decisions that benefit some of these incumbents" in AI.
+Michael suggested that those developing new tech could voluntarily "just stop some of these things until they figure it out."
+"The promoters of some of these extinction, death-cult-like philosophies are part of that effort," he said.`,
+    bodyJa: `The top Pentagon technology official said Wednesday the Trump administration shouldn't seek to nationalize or take partial government stakes in artificial intelligence companies.
+"I hope not," Emil Michael, Department of Defense chief technology officer, told CNBC's "Squawk on the Street" when asked about that prospect of partial government ownership, which has emerged amid growing concerns about rapid AI advancement.
+Despite its frequent warnings about the dangers of big-government socialism, President Donald Trump's second administration has taken stakes in a growing portfolio of private-sector companies, including a 10% stake in Intel and a "golden share" in U.S. Steel, now a subsidiary of Nippon Steel.
+But when it comes to AI, Michael told CNBC, "We don't want government to get in the middle."
+"That doesn't really go well in terms of nationalization," he said, noting that U.S. AI leaders are among the "biggest companies in the history of the world."
+Michael also repeatedly signaled opposition to ramping up government regulatory oversight of those companies, even as AI leaders such as Anthropic CEO Dario Amodei have warned the industry should slow its fast-improving models to mitigate risks.
+"This is the the sort of tension you get between people who want to pre-regulate like Europe, and those who want to hold companies responsible for good products being developed that are aligned and safe, not releasing them until they have those dimensions in them," he said.
+He acknowledged that the recent example of the AI hack of Hugging Face is "concerning," but added, "I don't know what kind of regulation would stop that from happening."
+At the same time, he said it would be "dangerous" to place all trust in the hands of a few AI chiefs.
+"I think we're going to make sure that all the laws are enforced," Michael said, noting there are already "a ton of laws on the book from the Federal Trade Commission."
+Trump, whose administration strongly supports the rapid growth of AI and data centers in an effort to box out China, has angrily pushed back on the calls for an AI slowdown or greater regulation.
+The president accused those raising alarms of pushing a "hoax" and a "scam."
+Michael agreed with Trump and other administration officials that there is a "coordinated campaign to scare people to make irrational decisions that benefit some of these incumbents" in AI.
+Michael suggested that those developing new tech could voluntarily "just stop some of these things until they figure it out."
+"The promoters of some of these extinction, death-cult-like philosophies are part of that effort," he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/emil-michael-ai-regulation-trump.html",
+    publishedAt: "2026-09-16T16:26:58+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "classic-budgeting-rules-don-t-work-anymo-95bca7f1",
+    title: "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+    titleJa: "Classic budgeting rules don’t work anymore — even if your household makes $100,000. Here’s what does.",
+    summaryJa: "Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.",
+    bodyOriginal: `Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.`,
+    bodyJa: `Spending guidelines designed to put diligent consumers in a solid financial position may not set them up to succeed in today’s economy.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/classic-budgeting-rules-dont-work-anymore-even-if-your-household-makes-100-000-heres-what-does-cfb235a8?mod=mw_rss_topstories",
+    publishedAt: "2026-09-16T16:24:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.mktw.net/im-71917168",
+    readTime: 2,
+  },
+  {
+    id: "house-set-to-pass-sweeping-russia-sancti-8b5cd107",
+    title: "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+    titleJa: "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+    summaryJa: "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+    bodyOriginal: `The U.S. House is expected to pass a Russia sanctions bill introduced over a year ago by the late Sen. Lindsey Graham, R-S.C., on Wednesday afternoon, sending it to President Donald Trump's desk.
+The bill, titled the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, would target Russia's economy, intending to penalize the country over its continued full-scale invasion of Ukraine. I
+The legislation would allow Trump to impose tariffs up to 100% on countries including China and India, that are within the top five purchasers of Russian crude oil or gas. Money from oil sales is critical to funding Russia's war effort. It would also put sanctions on Russian leaders, officials and financial institutions and expand sanctions on Iran.
+Senators voted overwhelmingly in favor of the bill last month and passed it by a vote of 86-11 with strong bipartisan support. However, opponents of the bill say it gives Trump too much tariff authority.
+Reps. Gregory Meeks, D-N.Y., Don Beyer, D-Va., and Richard Neal, D-Ma., said in a joint statement last week that while House Democrats staunchly support Ukraine, this bill would "do more harm than good."
+"This bill would dramatically expand presidential tariff authorities while failing to mandate sanctions on Russia, both of which are unacceptable. These flaws would raise Americans' prices while undermining support for Ukraine in the long term," the lawmakers said.
+Presuming the measure clears the House, Trump intends to sign the bill into law, a White House official confirmed.`,
+    bodyJa: `The U.S. House is expected to pass a Russia sanctions bill introduced over a year ago by the late Sen. Lindsey Graham, R-S.C., on Wednesday afternoon, sending it to President Donald Trump's desk.
+The bill, titled the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, would target Russia's economy, intending to penalize the country over its continued full-scale invasion of Ukraine. I
+The legislation would allow Trump to impose tariffs up to 100% on countries including China and India, that are within the top five purchasers of Russian crude oil or gas. Money from oil sales is critical to funding Russia's war effort. It would also put sanctions on Russian leaders, officials and financial institutions and expand sanctions on Iran.
+Senators voted overwhelmingly in favor of the bill last month and passed it by a vote of 86-11 with strong bipartisan support. However, opponents of the bill say it gives Trump too much tariff authority.
+Reps. Gregory Meeks, D-N.Y., Don Beyer, D-Va., and Richard Neal, D-Ma., said in a joint statement last week that while House Democrats staunchly support Ukraine, this bill would "do more harm than good."
+"This bill would dramatically expand presidential tariff authorities while failing to mandate sanctions on Russia, both of which are unacceptable. These flaws would raise Americans' prices while undermining support for Ukraine in the long term," the lawmakers said.
+Presuming the measure clears the House, Trump intends to sign the bill into law, a White House official confirmed.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+    publishedAt: "2026-09-16T16:08:39+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "openai-investors-have-approached-the-com-3f0e1d85",
+    title: "OpenAI investors have approached the company about a new funding round",
+    titleJa: "OpenAI investors have approached the company about a new funding round",
+    summaryJa: "OpenAI is gearing up for what is widely expected to be a blockbuster IPO next year, after it confidentially filed its prospectus in June.",
+    bodyOriginal: `OpenAI investors have approached the company with proposals to kick-start a new funding round, but no formal discussions are underway, multiple sources told CNBC.
+Investors have floated a $1.2 trillion valuation to OpenAI, and some have positioned the potential new funding round as a way for employees to sell stock, according to the people, who asked not to be named in order to discuss nonpublic information.
+OpenAI, which raised $122 billion at a $852 billion valuation in March, is not currently engaged in conversations, the people said. Following the round, OpenAI completed a secondary share sale totaling roughly $7 billion in August, allowing employees to cash in a portion of their holdings.
+"We still have an incredible balance sheet," OpenAI CFO Sarah Friar told CNBC's Jim Cramer in an interview on Tuesday.
+The Financial Times was first to report the potential round. OpenAI declined to comment.
+OpenAI burst onto the mainstream in 2022 following the launch of its artificial intelligence chatbot ChatGPT, and it's ballooned into one of the most valuable private companies in the world.
+The startup is gearing up for what is widely expected to be a blockbuster initial public offering next year, after it confidentially filed its prospectus with the Securities and Exchange Commission in June.
+Friar told employees during an all-hands meeting last month that OpenAI "will be a public company in 2027," but that it could make its public market debut sooner if "our business continues to inflect."
+OpenAI has been under intense scrutiny in recent months after two of its models escaped containment, accessed the open internet and breached the open-source developer platform Hugging Face. OpenAI CEO Sam Altman endorsed a proposal to slow the pace of model development on Saturday in an effort to better address safety risks.
+In an interview with Fortune on Saturday, Altman said that now would be an "ill-advised" moment to go public, in part because of the widespread concerns about safety.
+WATCH: OpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety`,
+    bodyJa: `OpenAI investors have approached the company with proposals to kick-start a new funding round, but no formal discussions are underway, multiple sources told CNBC.
+Investors have floated a $1.2 trillion valuation to OpenAI, and some have positioned the potential new funding round as a way for employees to sell stock, according to the people, who asked not to be named in order to discuss nonpublic information.
+OpenAI, which raised $122 billion at a $852 billion valuation in March, is not currently engaged in conversations, the people said. Following the round, OpenAI completed a secondary share sale totaling roughly $7 billion in August, allowing employees to cash in a portion of their holdings.
+"We still have an incredible balance sheet," OpenAI CFO Sarah Friar told CNBC's Jim Cramer in an interview on Tuesday.
+The Financial Times was first to report the potential round. OpenAI declined to comment.
+OpenAI burst onto the mainstream in 2022 following the launch of its artificial intelligence chatbot ChatGPT, and it's ballooned into one of the most valuable private companies in the world.
+The startup is gearing up for what is widely expected to be a blockbuster initial public offering next year, after it confidentially filed its prospectus with the Securities and Exchange Commission in June.
+Friar told employees during an all-hands meeting last month that OpenAI "will be a public company in 2027," but that it could make its public market debut sooner if "our business continues to inflect."
+OpenAI has been under intense scrutiny in recent months after two of its models escaped containment, accessed the open internet and breached the open-source developer platform Hugging Face. OpenAI CEO Sam Altman endorsed a proposal to slow the pace of model development on Saturday in an effort to better address safety risks.
+In an interview with Fortune on Saturday, Altman said that now would be an "ill-advised" moment to go public, in part because of the widespread concerns about safety.
+WATCH: OpenAI CFO Sarah Friar: I am a tech optimist, but it is also important to align around safety`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+    publishedAt: "2026-09-16T15:18:16+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "henry-zeffman-andy-burnham-and-his-chanc-9b0db7ce",
+    title: "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+    titleJa: "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+    summaryJa: "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister.",
+    bodyOriginal: `Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches
+- Published
+Today's inflation figures underscore that the economy is the biggest challenge facing Andy Burnham.
+It is only 42 days until John Healey's first Budget, and there is increasingly apparent concern at all levels of the government and Labour Party about how that Budget can – or, as it may prove, cannot – substantiate Burnham's rhetoric about offering the biggest change in British politics in 40 years.
+Much of the tricky economic environment, yes, is driven by global factors including the persistence, and to some degree worsening, of the conflicts in the Middle East and Ukraine.
+And the AI boom pushing up borrowing costs is another issue affecting many countries.
+But there are clearly domestic factors particular to Britain, and on that front it was very striking to hear the former Bank of England chief economist Andy Haldane telling LBC on Tuesday that without signs of cuts to public spending "the markets now suspect that this is a traditional tax and spend socialist government with better TikTok videos".
+From somebody who at times has informally advised Burnham's operation, that will sting, not least because a similar criticism has been voiced in recent weeks by the prominent economist Lord O'Neill – another sometime adviser.
+The prime minister gave a direct response to Haldane, saying: "That doesn't tell the story. We are not that."
+He identified "putting digital ID on hold" as an example of how he had already "taken difficult decisions in this job in relation to reprioritising government spending" and vowed to continue to "take difficult decisions to make sure the economy remains on track".
+Digital ID is a striking choice of example. Burnham announced that he was abandoning the scheme in the days before he became prime minister so that he could focus on policies affecting the everyday cost of living.
+But the spending was then, within the new government's first few days, re-allocated to cut VAT on household electricity bills.
+So in that sense it was not a reduction in public spending, just a reprioritisation. And in any case, the former cabinet minister Darren Jones criticised Burnham at the time on the grounds that the government had not yet allocated the money for digital ID.
+Certainly the signs from Healey's first major speech as chancellor last week were that he wants to reassure the markets, promising to "control public spending" and praising Rachel Reeves for beginning to "recover Britain's fiscal discipline".
+Burnham and Healey would hardly be the first PM-chancellor double act to adopt different tones and emphasise different priorities in their public appearances.
+As a junior minister at the Treasury almost 25 years ago, Healey was engaged in the question of how to boost growth around the country, long before it became central to Burnham's vision for Britain.
+But there are people in government who are beginning to wonder whether their economic visions are quite as aligned as expected. "It's what everyone is thinking and some of us are vocalising," one government source said.
+There are also those who fear the adverse political consequences of a Labour government seeking to go out of its way to demonstrate its fiscal credibility. Arguably that was behind the removal of the Winter Fuel Allowance for most pensioners as one of Sir Keir Starmer's first acts, an early factor in his political demise.
+For Labour's political opponents, all this amounts to a question of whether the prime minister is willing to disappoint his own MPs. Yet it's worth remembering that with winter fuel the frustration in parliament was primarily caused by the furious reaction of Labour MPs' constituents.
+Arguably this presents a more fundamental tension: are the kinds of policies needed to soothe the markets politically deliverable given Labour's electoral coalition and its need to shore up the 'progressive' vote?
+The Budget is only six weeks away and will be the first and most important sign of the new government's answer to that question.
+Burnham refuses to rule out tax rises in autumn Budget
+- Published25 August
+Call to raise tax thresholds among union demands ahead of Budget
+- Published2 hours ago
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches
+- Published
+Today's inflation figures underscore that the economy is the biggest challenge facing Andy Burnham.
+It is only 42 days until John Healey's first Budget, and there is increasingly apparent concern at all levels of the government and Labour Party about how that Budget can – or, as it may prove, cannot – substantiate Burnham's rhetoric about offering the biggest change in British politics in 40 years.
+Much of the tricky economic environment, yes, is driven by global factors including the persistence, and to some degree worsening, of the conflicts in the Middle East and Ukraine.
+And the AI boom pushing up borrowing costs is another issue affecting many countries.
+But there are clearly domestic factors particular to Britain, and on that front it was very striking to hear the former Bank of England chief economist Andy Haldane telling LBC on Tuesday that without signs of cuts to public spending "the markets now suspect that this is a traditional tax and spend socialist government with better TikTok videos".
+From somebody who at times has informally advised Burnham's operation, that will sting, not least because a similar criticism has been voiced in recent weeks by the prominent economist Lord O'Neill – another sometime adviser.
+The prime minister gave a direct response to Haldane, saying: "That doesn't tell the story. We are not that."
+He identified "putting digital ID on hold" as an example of how he had already "taken difficult decisions in this job in relation to reprioritising government spending" and vowed to continue to "take difficult decisions to make sure the economy remains on track".
+Digital ID is a striking choice of example. Burnham announced that he was abandoning the scheme in the days before he became prime minister so that he could focus on policies affecting the everyday cost of living.
+But the spending was then, within the new government's first few days, re-allocated to cut VAT on household electricity bills.
+So in that sense it was not a reduction in public spending, just a reprioritisation. And in any case, the former cabinet minister Darren Jones criticised Burnham at the time on the grounds that the government had not yet allocated the money for digital ID.
+Certainly the signs from Healey's first major speech as chancellor last week were that he wants to reassure the markets, promising to "control public spending" and praising Rachel Reeves for beginning to "recover Britain's fiscal discipline".
+Burnham and Healey would hardly be the first PM-chancellor double act to adopt different tones and emphasise different priorities in their public appearances.
+As a junior minister at the Treasury almost 25 years ago, Healey was engaged in the question of how to boost growth around the country, long before it became central to Burnham's vision for Britain.
+But there are people in government who are beginning to wonder whether their economic visions are quite as aligned as expected. "It's what everyone is thinking and some of us are vocalising," one government source said.
+There are also those who fear the adverse political consequences of a Labour government seeking to go out of its way to demonstrate its fiscal credibility. Arguably that was behind the removal of the Winter Fuel Allowance for most pensioners as one of Sir Keir Starmer's first acts, an early factor in his political demise.
+For Labour's political opponents, all this amounts to a question of whether the prime minister is willing to disappoint his own MPs. Yet it's worth remembering that with winter fuel the frustration in parliament was primarily caused by the furious reaction of Labour MPs' constituents.
+Arguably this presents a more fundamental tension: are the kinds of policies needed to soothe the markets politically deliverable given Labour's electoral coalition and its need to shore up the 'progressive' vote?
+The Budget is only six weeks away and will be the first and most important sign of the new government's answer to that question.
+Burnham refuses to rule out tax rises in autumn Budget
+- Published25 August
+Call to raise tax thresholds among union demands ahead of Budget
+- Published2 hours ago
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-16T14:52:38+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a48e/live/4c8ed8e0-b1d0-11f1-8493-1910d79d53eb.png",
+    readTime: 10,
+  },
+  {
+    id: "world-s-top-performing-sovereign-wealth-57b69376",
+    title: "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+    titleJa: "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+    summaryJa: "Investors behind the world's top-performing sovereign wealth fund warned Wednesday that the U.S. equity market could be due a correction.Jo Townsend, CEO of the Guardians of New Zealand Superannuation — which manages the country's $54 billion wealth fund — warned of a potential downturn as she revealed the fund had grown 14.2% in the year to June 30.",
+    bodyOriginal: `Investors behind the world's top-performing sovereign wealth fund warned Wednesday that the U.S. equity market could be due a correction.
+Jo Townsend, CEO of the Guardians of New Zealand Superannuation — which manages the country's $54 billion wealth fund — warned of a potential downturn as she revealed the fund had grown 14.2% in the year to June 30.
+The New Zealand Superannuation Fund, which had a value of 94.4 billion New Zealand dollars ($54.4 billion) at the end of the 2026 financial year, was ranked the world's best-performing sovereign wealth fund earlier this year by analytics firm Global SWF.
+The Guardians said Wednesday that the returns posted in the fiscal year represented annual fund growth of NZ$9.3 billion but came in 0.1 percentage point below its benchmark index.
+New Zealand Super Fund warns U.S. equity returns may cool
+While Townsend said Wednesday that the fund had performed exceptionally well in 2026, she cautioned that the returns enjoyed by stock market investors in recent years are likely to slow.
+"Returns for U.S. equities over the past couple of years are close to double annualized returns for the past 20 years, so we would expect there to be some reversion to the mean at some point," she said in a statement alongside the performance update.
+"In the short term, a concentrated portfolio can achieve strong results; however, over the long-term, we firmly believe a more diversified portfolio is better suited to our mandate."
+The wealth fund has delivered an annual average return of 9.68% over the past two decades.
+Earlier this year, the Guardians announced it had lowered the fund's long-term expected annual return from 7.8% to 7.2%, which Townsend said on Wednesday reflected the fund management's view that returns on equities were likely to decrease. The fund has also reduced its active risk budget, she said.
+How the fund's diversified strategy drove growth
+The fund's managers publish data on their portfolio holdings every six months. Its most recent update, reflective of its portfolio at the end of December, showed the fund's most valuable positions were a NZ$3 billion stake in Nvidia, with Apple, Microsoft, Alphabet and Amazon accounting for the remainder of its top five positions by value.
+Its total U.S. equity portfolio was worth NZ$31.7 billion at the end of last year.
+Established in 2001 in a bid to make pension costs for New Zealand's aging population more affordable, New Zealand's wealth fund also allocates capital to timber, real estate and private markets, alongside other alternatives.
+The first withdrawals from the New Zealand Superannuation Fund are expected in 2054.
+Townsend's view on what's in store for stock markets echoes a recent warning to investors from the head of the management team behind Norway's sovereign wealth fund, the world's largest.
+Nicolai Tangen, the CEO of Norges Bank Investment Management, told CNBC last month: "We should not be expecting the same kind of returns going forward as we've seen over the last six months."
+NBIM manages Norway's $2.3 trillion oil fund, which posted a record first-half profit nearing $185 billion.`,
+    bodyJa: `Investors behind the world's top-performing sovereign wealth fund warned Wednesday that the U.S. equity market could be due a correction.
+Jo Townsend, CEO of the Guardians of New Zealand Superannuation — which manages the country's $54 billion wealth fund — warned of a potential downturn as she revealed the fund had grown 14.2% in the year to June 30.
+The New Zealand Superannuation Fund, which had a value of 94.4 billion New Zealand dollars ($54.4 billion) at the end of the 2026 financial year, was ranked the world's best-performing sovereign wealth fund earlier this year by analytics firm Global SWF.
+The Guardians said Wednesday that the returns posted in the fiscal year represented annual fund growth of NZ$9.3 billion but came in 0.1 percentage point below its benchmark index.
+New Zealand Super Fund warns U.S. equity returns may cool
+While Townsend said Wednesday that the fund had performed exceptionally well in 2026, she cautioned that the returns enjoyed by stock market investors in recent years are likely to slow.
+"Returns for U.S. equities over the past couple of years are close to double annualized returns for the past 20 years, so we would expect there to be some reversion to the mean at some point," she said in a statement alongside the performance update.
+"In the short term, a concentrated portfolio can achieve strong results; however, over the long-term, we firmly believe a more diversified portfolio is better suited to our mandate."
+The wealth fund has delivered an annual average return of 9.68% over the past two decades.
+Earlier this year, the Guardians announced it had lowered the fund's long-term expected annual return from 7.8% to 7.2%, which Townsend said on Wednesday reflected the fund management's view that returns on equities were likely to decrease. The fund has also reduced its active risk budget, she said.
+How the fund's diversified strategy drove growth
+The fund's managers publish data on their portfolio holdings every six months. Its most recent update, reflective of its portfolio at the end of December, showed the fund's most valuable positions were a NZ$3 billion stake in Nvidia, with Apple, Microsoft, Alphabet and Amazon accounting for the remainder of its top five positions by value.
+Its total U.S. equity portfolio was worth NZ$31.7 billion at the end of last year.
+Established in 2001 in a bid to make pension costs for New Zealand's aging population more affordable, New Zealand's wealth fund also allocates capital to timber, real estate and private markets, alongside other alternatives.
+The first withdrawals from the New Zealand Superannuation Fund are expected in 2054.
+Townsend's view on what's in store for stock markets echoes a recent warning to investors from the head of the management team behind Norway's sovereign wealth fund, the world's largest.
+Nicolai Tangen, the CEO of Norges Bank Investment Management, told CNBC last month: "We should not be expecting the same kind of returns going forward as we've seen over the last six months."
+NBIM manages Norway's $2.3 trillion oil fund, which posted a record first-half profit nearing $185 billion.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+    publishedAt: "2026-09-16T14:31:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "j-b-hunt-stock-plunges-10-after-company-9c23aa26",
+    title: "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+    titleJa: "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+    summaryJa: "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
+    bodyOriginal: `Shares of J.B. Hunt plunged more than 10% on Wednesday after the trucking company said it expects its earnings to drop in the third quarter.
+"We kind of want to be transparent with investors and give an update that in light of these costs that are sort of hitting us, we are expecting our Q2 to Q3 earnings to actually drop 5% to 10%," CFO Brad Delco said at the Morgan Stanley Industrials conference.
+Delco said between costs for recruiting, advertising, onboarding, training and sign-on bonuses, the company expects to see about $25 million more in the third quarter compared with the second quarter. He said that means J.B. Hunt is "preparing for growth."
+Still, he added the company has also seen "some of the most radical and abnormal swings" in fuel prices that it has ever seen and record-high diesel prices, which are causing at least a $10 million headwind.
+Delco added that he expects volumes to improve sequentially to offset the incremental pressures.
+"It really is more of a timing issue," he said. "I think you can look at a glass half-empty or a glass half-full. I'm really glad that we have visibility to these costs right now."
+Delco also said J.B. Hunt is working on repairing its margins, though he believes the company still has a long way to go.
+J.B. Hunt stock has risen nearly 100% over the past year.`,
+    bodyJa: `Shares of J.B. Hunt plunged more than 10% on Wednesday after the trucking company said it expects its earnings to drop in the third quarter.
+"We kind of want to be transparent with investors and give an update that in light of these costs that are sort of hitting us, we are expecting our Q2 to Q3 earnings to actually drop 5% to 10%," CFO Brad Delco said at the Morgan Stanley Industrials conference.
+Delco said between costs for recruiting, advertising, onboarding, training and sign-on bonuses, the company expects to see about $25 million more in the third quarter compared with the second quarter. He said that means J.B. Hunt is "preparing for growth."
+Still, he added the company has also seen "some of the most radical and abnormal swings" in fuel prices that it has ever seen and record-high diesel prices, which are causing at least a $10 million headwind.
+Delco added that he expects volumes to improve sequentially to offset the incremental pressures.
+"It really is more of a timing issue," he said. "I think you can look at a glass half-empty or a glass half-full. I'm really glad that we have visibility to these costs right now."
+Delco also said J.B. Hunt is working on repairing its margins, though he believes the company still has a long way to go.
+J.B. Hunt stock has risen nearly 100% over the past year.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+    publishedAt: "2026-09-16T13:17:09+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "bizarre-volatility-bet-in-the-options-pi-ceb8f4d3",
+    title: "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+    titleJa: "Bizarre volatility bet in the options pits is a head scratcher ahead of Fed rate decision",
+    summaryJa: "The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts.",
+    bodyOriginal: `The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts that might be an unusual interest-rate play ahead of Wednesday's highly-anticipated Federal Reserve rate decision.
+Around 10 a.m. Chicago time, someone purchased 563 110-strike VIX puts expiring Oct. 21 for $5.1 million, as well as $1.2 million of the 130-strike puts expiring Nov. 18, the scheduled release date for next month's FOMC minutes. Not only was the premium more than any other single trade on the day, the choice to use extremely options so deep in the money – the VIX ended the session at 17.2 – with no open interest prior to Tuesday, is odd on its own.
+Deep in the money puts have a much higher delta, or probability of expiring in the money, suggesting a high conviction that the VIX will move lower.
+Taken at face value, it's a bet volatility will decline over the next two months. The 110-strike puts cost $91 each and the 130-strike puts cost $110 each, bringing the total breakeven on the trade to a little over $19.
+That's if they were standalone positions, which most traders I spoke to said is unlikely to be the case. Their estimation of what else the trader might have on in connection to the trade, however, was varied.
+"If someone is short a bunch of the calls, they may buy the puts and the futures to mitigate risk," Noel Smith, founder and chief investment officer of Convex Asset Management, said in a call. "People buy these tiny little VIX calls for 10 cents because if they go to 20 they can say they made a hundred. But the seller of those calls, they may have something else they want, but they have this wingy risk on the book they need to manage."
+Combine the odd trade with other notable activity in VIX options, futures and S&P 500 options, and an argument begins to emerge that market-makers and big traders across volatility products are at odds over how to price the near-term range of outcomes despite the bond market saying an interest-rate hike is a 90% certainty.
+Options volume in the VIX has been above average for almost a week as the gauge climbed to just over 18 at its high last Thursday. Yet swings in the S&P 500 have been below one percent for the past five days, despite the VIX holding above 16, which implies a daily move of one percent. At the same time, S&P 500 options are implying a move of 0.8% at expiry on Wednesday, unusually low for a Fed meeting.
+If you believe the S&P options, and recent trading behavior, it would suggest VIX is too high. Similarly, the gap between the VIX index and futures as of Tuesday's close is near the highest since June.
+The bizarre buyer of puts may be trying to take advantage of this by trading a spread between VIX options and the underlying futures, according to one explanation offered by SpotGamma's Brent Kochuba.
+"You can own that super deep in-the-money put against a long call and long future position," Kochuba said. "As long as VIX is under 110, you can lock in whatever the difference in price is between the option and the future."`,
+    bodyJa: `The biggest trade in options on the Cboe VIX Index Tuesday was an unusual $6 million purchase of deep, deep in-the-money-puts that might be an unusual interest-rate play ahead of Wednesday's highly-anticipated Federal Reserve rate decision.
+Around 10 a.m. Chicago time, someone purchased 563 110-strike VIX puts expiring Oct. 21 for $5.1 million, as well as $1.2 million of the 130-strike puts expiring Nov. 18, the scheduled release date for next month's FOMC minutes. Not only was the premium more than any other single trade on the day, the choice to use extremely options so deep in the money – the VIX ended the session at 17.2 – with no open interest prior to Tuesday, is odd on its own.
+Deep in the money puts have a much higher delta, or probability of expiring in the money, suggesting a high conviction that the VIX will move lower.
+Taken at face value, it's a bet volatility will decline over the next two months. The 110-strike puts cost $91 each and the 130-strike puts cost $110 each, bringing the total breakeven on the trade to a little over $19.
+That's if they were standalone positions, which most traders I spoke to said is unlikely to be the case. Their estimation of what else the trader might have on in connection to the trade, however, was varied.
+"If someone is short a bunch of the calls, they may buy the puts and the futures to mitigate risk," Noel Smith, founder and chief investment officer of Convex Asset Management, said in a call. "People buy these tiny little VIX calls for 10 cents because if they go to 20 they can say they made a hundred. But the seller of those calls, they may have something else they want, but they have this wingy risk on the book they need to manage."
+Combine the odd trade with other notable activity in VIX options, futures and S&P 500 options, and an argument begins to emerge that market-makers and big traders across volatility products are at odds over how to price the near-term range of outcomes despite the bond market saying an interest-rate hike is a 90% certainty.
+Options volume in the VIX has been above average for almost a week as the gauge climbed to just over 18 at its high last Thursday. Yet swings in the S&P 500 have been below one percent for the past five days, despite the VIX holding above 16, which implies a daily move of one percent. At the same time, S&P 500 options are implying a move of 0.8% at expiry on Wednesday, unusually low for a Fed meeting.
+If you believe the S&P options, and recent trading behavior, it would suggest VIX is too high. Similarly, the gap between the VIX index and futures as of Tuesday's close is near the highest since June.
+The bizarre buyer of puts may be trying to take advantage of this by trading a spread between VIX options and the underlying futures, according to one explanation offered by SpotGamma's Brent Kochuba.
+"You can own that super deep in-the-money put against a long call and long future position," Kochuba said. "As long as VIX is under 110, you can lock in whatever the difference in price is between the option and the future."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/bizarre-volatility-bet-in-the-options-pits-is-a-head-scratcher-ahead-of-fed-rate-decision.html",
+    publishedAt: "2026-09-16T12:14:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "the-cia-strategy-beating-the-market-how-06498100",
     title: "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks.",
     titleJa: "The ‘CIA’ strategy beating the market: How one top-performing money manager spots mispriced stocks.",
@@ -1653,316 +1943,6 @@ Ukraine has blamed the stray drones on Russian electronic warfare, technology de
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg",
     readTime: 10,
-  },
-  {
-    id: "here-s-the-best-way-to-invest-in-bonds-f-7d577d2e",
-    title: "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
-    titleJa: "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
-    summaryJa: "A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.",
-    bodyOriginal: `A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.`,
-    bodyJa: `A fixed-income team at Morgan Stanley say investing in distressed debt and frontier local-market investing have helped drive solid returns for their fund.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
-    publishedAt: "2026-09-15T11:34:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-91707062",
-    readTime: 2,
-  },
-  {
-    id: "it-might-be-time-to-consider-the-most-ha-1e0e8557",
-    title: "It might be time to consider the ‘most hated, under-owned asset class,’ says this strategist",
-    titleJa: "It might be time to consider the ‘most hated, under-owned asset class,’ says this strategist",
-    summaryJa: "Vincent Deluard, market strategist at StoneX, recommends pairing British equities with a trade that shorts the euro against the Japanese yen.",
-    bodyOriginal: `Vincent Deluard, market strategist at StoneX, recommends pairing British equities with a trade that shorts the euro against the Japanese yen.`,
-    bodyJa: `Vincent Deluard, market strategist at StoneX, recommends pairing British equities with a trade that shorts the euro against the Japanese yen.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/it-might-be-time-to-consider-the-most-hated-under-owned-asset-class-says-this-strategist-1b86c059?mod=mw_rss_topstories",
-    publishedAt: "2026-09-15T11:24:00+00:00",
-    category: "貿易",
-    imageUrl: "https://images.mktw.net/im-03704237",
-    readTime: 2,
-  },
-  {
-    id: "no-one-and-done-the-fed-will-hike-at-lea-fc0f14e7",
-    title: "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-    titleJa: "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-    summaryJa: "While higher oil is cited as a main reason for the change in view, roughly three quarters of respondents see the inflation problem as broader than just energy prices.",
-    bodyOriginal: `It's not going to be one and done.
-A majority of respondents to the CNBC Fed Survey now forecast at least two hikes over the next one year, with a third predicting three or more. It's a stark change from last month when just 46% expected a hike ahead. That's grown to 86% with 55% expecting more than a single hike.
-Since last month, Fed Chairman Kevin Warsh delivered a hawkish speech in Jackson Hole, oil prices surged, inflation failed to cool and respondents now seem to believe inflation has spread beyond energy and won't take care of itself without action by the Fed.
-"There is nothing in the data that suggests inflation will return to target 'soon,'" said Neil Dutta, head of economic research at Renaissance Macro Research. Dutta quoted Fed Governor Christopher Waller, who has said, "Sternly staring at inflation until it melts before our withering gaze is not an option."
-Most of the 29 respondents, including economists, fund managers and strategists, believe the Strait of Hormuz will remain closed at least a month longer and that oil prices will remain elevated for longer than six months.
-"The renewed march higher in oil, gasoline, and diesel prices adds to concerns higher energy prices could spill over to other goods and services and inflation expectations," wrote Kathy Bostjancic, chief U.S. economist at Nationwide.
-There's already concern that that's happening. Roughly three quarters of respondents see the inflation problem as broader than just energy prices. CPI forecasts rose for both 2026 and 2027, with the average forecast rising to near 3.5% for this year and then settling in at 2.85% in 2027.
-Several respondents, however, were skeptical of the Fed's ability to lower fuel-driven inflation with rate hikes. "The FOMC faces a challenge in showing institutional credibility vis-a-vis the inflation piece of its mandate relative to its limited ability to impact supply-driven inflation using its rate setting tool," said Douglas Gordon, senior portfolio manager at Russell Investments.
-The Fed will decide on rates Wednesday at the conclusion of its two-day meeting. The last FOMC meeting was in July.
-Despite a shift to forecasts for multiple Fed rate hikes, the growth outlook has not changed much. Recession concerns remain unchanged with an average 29% probability estimated over the next 12 months, just somewhat above normal. GDP is still seen at around 2.25% this year and next, up from 2.1% in 2025, and the unemployment rate outlook remains around 4.25%. Forecasts for stocks remain buoyant. The S&P 500 is forecast to maintain its current level through year-end and rise 8% to 8,274 next year.
-The question is whether the forecasts are compatible. Generally, the Fed has to slow the economy to have an effect on inflation, meaning growth would typically need to dip below potential for inflation to decline.
-"Economic conditions in the U.S. are incompatible with the Fed's policy rate," wrote Guy LeBas, chief fixed income strategist at Janney Montgomery Scott. "Something has to give — either inflation needs to fall or the Fed has to hike--or the long end of the U.S. yield curve will continue to sell off."
-Warsh's credibility
-Views on the communications and independence of Fed Chairman Warsh are largely positive, suggesting that his Jackson Hole speech had an impact. Fifty-nine percent of respondents say he has provided enough information on his economic and monetary policy views; 69% say the administration's push for lower rates will have no effect on the outcome of this month's meeting; and 66% say his conduct of monetary policy is very or mostly independent, though that represents a 9-point decline from the prior survey. Respondents believe that too little information from the Fed chairman could result in less effective monetary policy and more volatility.
-Just 31% of respondents now say the Fed "talks too much," compared with 68% in July. That could be a sign that respondents support the less loquacious communication from Warsh. While 69% say the Fed should not be regularly providing forward guidance, 59% say it should regularly offer its reaction function, or how they expect policy to develop relative to incoming data.
-Warsh was still seen by far offering the most important information about the outlook and policy, followed by Fed Governor Waller and New York Fed President John Williams. Most Fed bank presidents and other Fed governors were far behind.
-Continued high inflation, the Iran War and high oil prices were the top three risks to the expansion. But 61% said there is some market risk that could come from ongoing legal battles from the midterm elections.
-A 46% plurality see the Democrats gaining control of the House while Republicans retain control of the Senate. Twenty-nine percent predict the Democrats winning full control of Congress.
-See here for full survey results.`,
-    bodyJa: `It's not going to be one and done.
-A majority of respondents to the CNBC Fed Survey now forecast at least two hikes over the next one year, with a third predicting three or more. It's a stark change from last month when just 46% expected a hike ahead. That's grown to 86% with 55% expecting more than a single hike.
-Since last month, Fed Chairman Kevin Warsh delivered a hawkish speech in Jackson Hole, oil prices surged, inflation failed to cool and respondents now seem to believe inflation has spread beyond energy and won't take care of itself without action by the Fed.
-"There is nothing in the data that suggests inflation will return to target 'soon,'" said Neil Dutta, head of economic research at Renaissance Macro Research. Dutta quoted Fed Governor Christopher Waller, who has said, "Sternly staring at inflation until it melts before our withering gaze is not an option."
-Most of the 29 respondents, including economists, fund managers and strategists, believe the Strait of Hormuz will remain closed at least a month longer and that oil prices will remain elevated for longer than six months.
-"The renewed march higher in oil, gasoline, and diesel prices adds to concerns higher energy prices could spill over to other goods and services and inflation expectations," wrote Kathy Bostjancic, chief U.S. economist at Nationwide.
-There's already concern that that's happening. Roughly three quarters of respondents see the inflation problem as broader than just energy prices. CPI forecasts rose for both 2026 and 2027, with the average forecast rising to near 3.5% for this year and then settling in at 2.85% in 2027.
-Several respondents, however, were skeptical of the Fed's ability to lower fuel-driven inflation with rate hikes. "The FOMC faces a challenge in showing institutional credibility vis-a-vis the inflation piece of its mandate relative to its limited ability to impact supply-driven inflation using its rate setting tool," said Douglas Gordon, senior portfolio manager at Russell Investments.
-The Fed will decide on rates Wednesday at the conclusion of its two-day meeting. The last FOMC meeting was in July.
-Despite a shift to forecasts for multiple Fed rate hikes, the growth outlook has not changed much. Recession concerns remain unchanged with an average 29% probability estimated over the next 12 months, just somewhat above normal. GDP is still seen at around 2.25% this year and next, up from 2.1% in 2025, and the unemployment rate outlook remains around 4.25%. Forecasts for stocks remain buoyant. The S&P 500 is forecast to maintain its current level through year-end and rise 8% to 8,274 next year.
-The question is whether the forecasts are compatible. Generally, the Fed has to slow the economy to have an effect on inflation, meaning growth would typically need to dip below potential for inflation to decline.
-"Economic conditions in the U.S. are incompatible with the Fed's policy rate," wrote Guy LeBas, chief fixed income strategist at Janney Montgomery Scott. "Something has to give — either inflation needs to fall or the Fed has to hike--or the long end of the U.S. yield curve will continue to sell off."
-Warsh's credibility
-Views on the communications and independence of Fed Chairman Warsh are largely positive, suggesting that his Jackson Hole speech had an impact. Fifty-nine percent of respondents say he has provided enough information on his economic and monetary policy views; 69% say the administration's push for lower rates will have no effect on the outcome of this month's meeting; and 66% say his conduct of monetary policy is very or mostly independent, though that represents a 9-point decline from the prior survey. Respondents believe that too little information from the Fed chairman could result in less effective monetary policy and more volatility.
-Just 31% of respondents now say the Fed "talks too much," compared with 68% in July. That could be a sign that respondents support the less loquacious communication from Warsh. While 69% say the Fed should not be regularly providing forward guidance, 59% say it should regularly offer its reaction function, or how they expect policy to develop relative to incoming data.
-Warsh was still seen by far offering the most important information about the outlook and policy, followed by Fed Governor Waller and New York Fed President John Williams. Most Fed bank presidents and other Fed governors were far behind.
-Continued high inflation, the Iran War and high oil prices were the top three risks to the expansion. But 61% said there is some market risk that could come from ongoing legal battles from the midterm elections.
-A 46% plurality see the Democrats gaining control of the House while Republicans retain control of the Senate. Twenty-nine percent predict the Democrats winning full control of Congress.
-See here for full survey results.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
-    publishedAt: "2026-09-15T11:15:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "u-s-confirms-for-first-time-it-has-weapo-0d91281c",
-    title: "U.S. confirms for first time it has weapons deployed in space",
-    titleJa: "U.S. confirms for first time it has weapons deployed in space",
-    summaryJa: "U.S. Air Force Secretary Troy Meink said Monday that the U.S. has \"on-orbit space control weapons,\" as he outlined a broader push to modernize the Air Force.",
-    bodyOriginal: `The U.S. has said for the first time Monday that the Space Force has deployed weapons in orbit.
-U.S. Air Force Secretary Troy Meink told the Air and Space Cyber Conference that the U.S. has "on-orbit space control weapons," as he outlined a broader push to modernize the Air Force and Space Force in response to advances by U.S. adversaries, AI, and the growing use of autonomous weapons.
-He did not specify what kind of weapons in space had been deployed, or when, according to the official Air Force account.
-In the speech, Meink described a rapidly accelerating threat environment facing the U.S., saying that adversaries were exploiting new technologies and arguing that the U.S. needed to increase combat power faster and more affordably, including through autonomous systems and cheaper weapons.
-"We will dramatically increase our combat power by adding large numbers of highly autonomous systems," he said. "Because of the steps we're taking today, we'll have a radically different-looking Air Force by 2032."
-His comments come as governments are reassessing what weapons and defense systems they'll need to defend themselves against an increased threat from hybrid attacks. The fighting in Ukraine in particular has highlighted how warfare is moving more towards autonomous systems, AI and drones.
-Boosted by the successful public listing of SpaceX earlier this year – the largest IPO ever – investors are increasingly looking to place bets on the growing commercial space economy.`,
-    bodyJa: `The U.S. has said for the first time Monday that the Space Force has deployed weapons in orbit.
-U.S. Air Force Secretary Troy Meink told the Air and Space Cyber Conference that the U.S. has "on-orbit space control weapons," as he outlined a broader push to modernize the Air Force and Space Force in response to advances by U.S. adversaries, AI, and the growing use of autonomous weapons.
-He did not specify what kind of weapons in space had been deployed, or when, according to the official Air Force account.
-In the speech, Meink described a rapidly accelerating threat environment facing the U.S., saying that adversaries were exploiting new technologies and arguing that the U.S. needed to increase combat power faster and more affordably, including through autonomous systems and cheaper weapons.
-"We will dramatically increase our combat power by adding large numbers of highly autonomous systems," he said. "Because of the steps we're taking today, we'll have a radically different-looking Air Force by 2032."
-His comments come as governments are reassessing what weapons and defense systems they'll need to defend themselves against an increased threat from hybrid attacks. The fighting in Ukraine in particular has highlighted how warfare is moving more towards autonomous systems, AI and drones.
-Boosted by the successful public listing of SpaceX earlier this year – the largest IPO ever – investors are increasingly looking to place bets on the growing commercial space economy.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html",
-    publishedAt: "2026-09-15T11:06:33+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "state-pension-likely-to-top-13-000-a-yea-c797d366",
-    title: "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-    titleJa: "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-    summaryJa: "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
-    bodyOriginal: `State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
-- Published
-The state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.
-The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.
-The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.5% - whichever is highest.
-Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.
-'Substantial' cost
-The triple lock was designed to ensure the value of the state pension was not overtaken by the increase in the cost of living or the incomes of working people.
-Although the state pension age is rising to 67, the cost to the government has risen considerably too. Forecasts suggest state pension spending, already at £154bn this year, could go up by a further £600m a year by 2029-30.
-The policy is "crazy," Ruth Curtice, the chief executive of the Resolution Foundation think tank, told the BBC.
-The triple lock is creating a "ratchet effect" where "pensioners' living standards grow even faster than just a typical worker," she added.
-"Pensioners have seen living standards grow three times more than typical workers over the last 20 years."
-Jonathan Cribb, deputy director of Institute for Fiscal Studies (IFS) think tank, said: "Each increase in spending builds upon the last and so the long-run cost is substantial but very uncertain."
-How much could pensioners receive?
-The state pension is expected to match wage growth in the next calculation and is likely to be higher than the rate of inflation.
-Average wage growth, including bonuses, stood at 3.9% between May and July, according to the Office for National Statistics (ONS), external, down from 4.2% between April and June.
-But it is higher than average pay growth, not including bonuses, which rose by 3.5%.
-This means:
-the flat-rate state pension - for those who reached state pension age after April 2016 – will likely be £250.70 a week, or £13,036.40 a year. That would be an increase of £488
-the old basic state pension - for those who reached state pension age before April 2016 – will likely be £192.10 a week, or £9,989.20 a year, an increase of £374.40
-Pensioner groups have said older people face significant cost of living pressures, such as high energy bills and the state pension itself remained relatively small compared with state provision across Europe.
-Will pensioners pay tax?
-Almost 13 million people receive the state pension in the UK. If it does rise by 3.9%, it would take the flat-rate state pension above the personal allowance of £12,570 and therefore be liable for income tax.
-The government said it has recommitted to exempting people whose only income is the state pension from tax.
-The Labour government - when Rachel Reeves was chancellor - promised that pensioners who rely solely on the state pension would not be required to complete a tax return, nor be chased to pay.
-When asked by the BBC on Tuesday morning, Business Secretary Jonathan Reynolds refused to confirm that pensioners reliant on the state pension will be exempted from paying income tax.
-Later, pensions minister Torsten Bell, said: "In line with the commitment made at Budget 2025, pensioners who only just the exceed the personal allowance will not pay small amounts of tax in this parliament which we know is an administrative burden.
-"The chancellor will set out further details on how that commitment will be delivered at the Budget."
-Analysis by consultants LCP suggested that only one in 16 pensioners would benefit under the government's pledge, saving about £91 each a year.
-The majority of pensioners have additional pension income and so pay income tax already.
-"The government's plans to address this point are a mess," said Sir Steve Webb, a partner at LCP and a former Liberal Democrat pensions minister.
-Prior to the government saying it had recommitted to its pledge on tax and pensions, shadow chancellor Andrew Griffith said: "People living on nothing but their state pension are now facing a tax bill for the first time ever.
-"Many will spend the last years of their lives filing tax returns or hanging on HMRC telephone helplines."
-The ONS also published figures on the UK labour force.
-While the unemployment rate was unchanged at 4.9%, the number of vacancies and employees on payrolls fell in recent months.
-Get in touch
-Will the increase see you pay tax for the first time?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
-- Published
-The state pension is expected to top £13,000 a year, reigniting the debate about its long-term affordability and generational fairness.
-The full, flat-rate state pension is expected to rise by £488 a year in April, based on the latest official earnings figure released on Tuesday.
-The so-called triple lock pension policy guarantees that the state pension will increase by either average wage growth, inflation or 2.5% - whichever is highest.
-Labour made a manifesto pledge to keep the triple lock until 2029, however economists have warned about the cost of the policy ahead of the Budget although pensioner groups say many people still face poverty in old age.
-'Substantial' cost
-The triple lock was designed to ensure the value of the state pension was not overtaken by the increase in the cost of living or the incomes of working people.
-Although the state pension age is rising to 67, the cost to the government has risen considerably too. Forecasts suggest state pension spending, already at £154bn this year, could go up by a further £600m a year by 2029-30.
-The policy is "crazy," Ruth Curtice, the chief executive of the Resolution Foundation think tank, told the BBC.
-The triple lock is creating a "ratchet effect" where "pensioners' living standards grow even faster than just a typical worker," she added.
-"Pensioners have seen living standards grow three times more than typical workers over the last 20 years."
-Jonathan Cribb, deputy director of Institute for Fiscal Studies (IFS) think tank, said: "Each increase in spending builds upon the last and so the long-run cost is substantial but very uncertain."
-How much could pensioners receive?
-The state pension is expected to match wage growth in the next calculation and is likely to be higher than the rate of inflation.
-Average wage growth, including bonuses, stood at 3.9% between May and July, according to the Office for National Statistics (ONS), external, down from 4.2% between April and June.
-But it is higher than average pay growth, not including bonuses, which rose by 3.5%.
-This means:
-the flat-rate state pension - for those who reached state pension age after April 2016 – will likely be £250.70 a week, or £13,036.40 a year. That would be an increase of £488
-the old basic state pension - for those who reached state pension age before April 2016 – will likely be £192.10 a week, or £9,989.20 a year, an increase of £374.40
-Pensioner groups have said older people face significant cost of living pressures, such as high energy bills and the state pension itself remained relatively small compared with state provision across Europe.
-Will pensioners pay tax?
-Almost 13 million people receive the state pension in the UK. If it does rise by 3.9%, it would take the flat-rate state pension above the personal allowance of £12,570 and therefore be liable for income tax.
-The government said it has recommitted to exempting people whose only income is the state pension from tax.
-The Labour government - when Rachel Reeves was chancellor - promised that pensioners who rely solely on the state pension would not be required to complete a tax return, nor be chased to pay.
-When asked by the BBC on Tuesday morning, Business Secretary Jonathan Reynolds refused to confirm that pensioners reliant on the state pension will be exempted from paying income tax.
-Later, pensions minister Torsten Bell, said: "In line with the commitment made at Budget 2025, pensioners who only just the exceed the personal allowance will not pay small amounts of tax in this parliament which we know is an administrative burden.
-"The chancellor will set out further details on how that commitment will be delivered at the Budget."
-Analysis by consultants LCP suggested that only one in 16 pensioners would benefit under the government's pledge, saving about £91 each a year.
-The majority of pensioners have additional pension income and so pay income tax already.
-"The government's plans to address this point are a mess," said Sir Steve Webb, a partner at LCP and a former Liberal Democrat pensions minister.
-Prior to the government saying it had recommitted to its pledge on tax and pensions, shadow chancellor Andrew Griffith said: "People living on nothing but their state pension are now facing a tax bill for the first time ever.
-"Many will spend the last years of their lives filing tax returns or hanging on HMRC telephone helplines."
-The ONS also published figures on the UK labour force.
-While the unemployment rate was unchanged at 4.9%, the number of vacancies and employees on payrolls fell in recent months.
-Get in touch
-Will the increase see you pay tax for the first time?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T11:05:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fa5/live/91781d40-b0ea-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "10-year-treasury-yield-rises-to-highest-bf541d9e",
-    title: "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-    titleJa: "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-    summaryJa: "The sell-off in U.S. government debt is deepening as investors increasingly price in an interest rate hike this week.",
-    bodyOriginal: `The benchmark 10-year Treasury yield climbed to its highest level since 2007 on Tuesday as a sell-off in U.S. government debt deepened ahead of the Federal Reserve's interest-rate decision, which could ripple through the economy.
-The 10-year yield jumped 5 basis points to 5.014% as of 6:29 a.m. ET. Earlier in the session, it scaled to 5.041%.
-One basis point equals 0.01 percentage point, and yields and prices move in opposite directions.
-The yield on the longer-dated 30-year Treasury bond, more sensitive to geopolitical risks, rose 5 basis points to 5.381%. The 2-year Treasury note yield climbed about 3 basis points to 4..663%
-The move comes ahead of the Federal Reserve's two-day policy meeting beginning Tuesday, with markets pricing in higher chances of a quarter-point rate hike after August inflation remained well above the central bank's 2% target.
-Traders are pricing in a more than 92% chance that the Fed will raise rates by 25 basis points in its latest meeting, according to the CME FedWatch tool.
-"U.S. 10-year treasuries are highly sensitive to inflation expectations, and with inflation gauges still above the Fed's target of 2%, we believe this tight correlation will likely persist for a while," said Jonathan Liang, Standard Chartered's CIO of fixed income and FX.
-The tight relationship between oil and Treasurys could add further upward pressure on yields if crude prices remain elevated, as higher energy costs feed into inflation expectations, experts told CNBC.
-The one-month rolling correlation between front-month West Texas Intermediate crude and the 10-year Treasury yield has climbed to 0.96, according to BMO Capital Markets.
-"Speaking simplistically, higher oil prices lead to higher inflation expectations and vice versa," said Steve Sosnick, chief strategist at Interactive Brokers.
-"Normally, the relationship isn't as clean as it is now, but the geopolitical drivers behind the price of oil and global inflation are so prominent that the normally modest correlation has become much tighter," he told CNBC via email.
-"As long as oil prices remain firm and continue to drift higher, this will add pressure to interest rates," he added.`,
-    bodyJa: `The benchmark 10-year Treasury yield climbed to its highest level since 2007 on Tuesday as a sell-off in U.S. government debt deepened ahead of the Federal Reserve's interest-rate decision, which could ripple through the economy.
-The 10-year yield jumped 5 basis points to 5.014% as of 6:29 a.m. ET. Earlier in the session, it scaled to 5.041%.
-One basis point equals 0.01 percentage point, and yields and prices move in opposite directions.
-The yield on the longer-dated 30-year Treasury bond, more sensitive to geopolitical risks, rose 5 basis points to 5.381%. The 2-year Treasury note yield climbed about 3 basis points to 4..663%
-The move comes ahead of the Federal Reserve's two-day policy meeting beginning Tuesday, with markets pricing in higher chances of a quarter-point rate hike after August inflation remained well above the central bank's 2% target.
-Traders are pricing in a more than 92% chance that the Fed will raise rates by 25 basis points in its latest meeting, according to the CME FedWatch tool.
-"U.S. 10-year treasuries are highly sensitive to inflation expectations, and with inflation gauges still above the Fed's target of 2%, we believe this tight correlation will likely persist for a while," said Jonathan Liang, Standard Chartered's CIO of fixed income and FX.
-The tight relationship between oil and Treasurys could add further upward pressure on yields if crude prices remain elevated, as higher energy costs feed into inflation expectations, experts told CNBC.
-The one-month rolling correlation between front-month West Texas Intermediate crude and the 10-year Treasury yield has climbed to 0.96, according to BMO Capital Markets.
-"Speaking simplistically, higher oil prices lead to higher inflation expectations and vice versa," said Steve Sosnick, chief strategist at Interactive Brokers.
-"Normally, the relationship isn't as clean as it is now, but the geopolitical drivers behind the price of oil and global inflation are so prominent that the normally modest correlation has become much tighter," he told CNBC via email.
-"As long as oil prices remain firm and continue to drift higher, this will add pressure to interest rates," he added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
-    publishedAt: "2026-09-15T10:31:24+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "kraft-heinz-bets-on-more-flavors-for-phi-ef06fc9e",
-    title: "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-    titleJa: "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
-    summaryJa: "Philadelphia will release more cream cheese flavors as part of Kraft Heinz's turnaround.",
-    bodyOriginal: `Philadelphia cream cheese will release three new flavors on Tuesday as part of Kraft Heinz's broader plan to reinvest in its iconic brands and win back shoppers.
-Previously, the 154-year-old brand released about one or two new flavors such as garden vegetable or pineapple every year. Over the next two years, it plans to launch 10 new varieties, with the goal of "creating some excitement" within the cream cheese category, according to Jerome Drolet, Kraft Heinz's president of taste elevation.
-Drolet's position is a nod to Kraft Heinz's now-paused split. When the packaged foods giant planned to spin off into two separate companies, one had the temporary name of "Global Taste Elevation," which would house condiments, sauces and Kraft Mac & Cheese. For now, Kraft Heinz is sticking together and trying to stage a comeback by making its legacy brands more relevant.
-In the period since Kraft Heinz announced the split was paused, the company's shares have fallen 2%. Some investors are pessimistic that its well-known but stalled brands can ever regain shoppers' favor, even with a $700 million investment from Kraft Heinz.
-Some of that money is pouring into Philadelphia. The company's spending on the cream cheese brand is expected to climb 63% this year compared with 2025, including more backing for its research and development, according to Drolet. And investment in new flavors has quadrupled, he said.
-Philadelphia accounts for about 62% of U.S. cream cheese sales, according to data from Euromonitor International. But its dominance means that it is responsible for growing sales of the overall cream cheese category.
-Kraft Heinz is hoping that new flavors will drive more cream cheese sales. The first round of new Philadelphia releases includes Mike's Hot Honey whipped cream cheese, salted caramel and a seasonal cranberry orange, which will only be available for a limited time. The Mike's Hot Honey flavor will launch in Walmart exclusively until it hits other retailers' shelves in January.
-"We want to make sure that the profile of the products we're launching are hitting critical masses," Drolet said. "It needs to be incremental, but it also cannot be too niche so that it only sells a few units."
-As part of the strategy to widen cream cheese's appeal to shoppers, Philadelphia also launched a lactose-free version earlier this year.
-Some of Philadelphia's expanded marketing spend will once again focus on the brand's "pure dairy equity," according to Drolet. The strategy recalls the ethos that inspired its Philadelphia cream cheese angel campaigns of the 1990s. In February, it launched its "Really Philly good" campaign.
-The brand is also trying to reach consumers to encourage them to use cream cheese as more than a schmear for a bagel. Philadelphia's cream cheese brick has already been a cooking and baking staple for decades. Expect to see more TikTok influencers and recipe websites using Philadelphia cream cheese in creative ways.
-Drolet sees opportunities to use them in dips and even pasta sauce — like swapping out heavy cream for the Mike's Hot Honey cream cheese in a Bolognese.
-"We're definitely the leader in the category, and as the leader, it's also on us to really drive the occasion," he said.
-Spreading the investment
-While Kraft Heinz does not break down sales for Philadelphia, the cream cheese is one of the company's billion-dollar brands, along with the likes of Kraft Mac & Cheese, Kraft Singles, Heinz, Lunchables and Oscar Mayer.
-But the size of those brands conceals their struggles. For years after the 2015 megamerger that created Kraft Heinz, the company saw its U.S. sales slip as its biggest names lost shoppers. In early 2019, Philadelphia was one of six brands the company wrote down as the value of its intangible assets fell.
-Executives and analysts have pointed to previous management's underinvestment in the company's products as the primary culprit for many of its business challenges.
-A year ago, Kraft Heinz announced plans to break up, which would effectively unwind much of the merger that combined Kraft with Heinz. But in February, new CEO Steve Cahillane announced that Kraft Heinz would pause the split to fix the company instead. He also said that Kraft Heinz would invest $600 million back into the business.
-Kraft Heinz recently upped that number to $700 million, saying that early investments were already paying off for the company. About 35% of Kraft Heinz's portfolio is holding or gaining market share, up from 21% at the end of 2025, Cahillane said at the Barclays Global Consumer Conference earlier this month.
-Of course, Philadelphia isn't the only Kraft Heinz brand netting more investment during the company's turnaround. The company has released improved packaging for Oscar Mayer products and unveiled Kool-Aid electrolyte packets and protein-packed Kraft Mac & Cheese PowerMac, among other efforts to grow sales for some of its best-known brands.`,
-    bodyJa: `Philadelphia cream cheese will release three new flavors on Tuesday as part of Kraft Heinz's broader plan to reinvest in its iconic brands and win back shoppers.
-Previously, the 154-year-old brand released about one or two new flavors such as garden vegetable or pineapple every year. Over the next two years, it plans to launch 10 new varieties, with the goal of "creating some excitement" within the cream cheese category, according to Jerome Drolet, Kraft Heinz's president of taste elevation.
-Drolet's position is a nod to Kraft Heinz's now-paused split. When the packaged foods giant planned to spin off into two separate companies, one had the temporary name of "Global Taste Elevation," which would house condiments, sauces and Kraft Mac & Cheese. For now, Kraft Heinz is sticking together and trying to stage a comeback by making its legacy brands more relevant.
-In the period since Kraft Heinz announced the split was paused, the company's shares have fallen 2%. Some investors are pessimistic that its well-known but stalled brands can ever regain shoppers' favor, even with a $700 million investment from Kraft Heinz.
-Some of that money is pouring into Philadelphia. The company's spending on the cream cheese brand is expected to climb 63% this year compared with 2025, including more backing for its research and development, according to Drolet. And investment in new flavors has quadrupled, he said.
-Philadelphia accounts for about 62% of U.S. cream cheese sales, according to data from Euromonitor International. But its dominance means that it is responsible for growing sales of the overall cream cheese category.
-Kraft Heinz is hoping that new flavors will drive more cream cheese sales. The first round of new Philadelphia releases includes Mike's Hot Honey whipped cream cheese, salted caramel and a seasonal cranberry orange, which will only be available for a limited time. The Mike's Hot Honey flavor will launch in Walmart exclusively until it hits other retailers' shelves in January.
-"We want to make sure that the profile of the products we're launching are hitting critical masses," Drolet said. "It needs to be incremental, but it also cannot be too niche so that it only sells a few units."
-As part of the strategy to widen cream cheese's appeal to shoppers, Philadelphia also launched a lactose-free version earlier this year.
-Some of Philadelphia's expanded marketing spend will once again focus on the brand's "pure dairy equity," according to Drolet. The strategy recalls the ethos that inspired its Philadelphia cream cheese angel campaigns of the 1990s. In February, it launched its "Really Philly good" campaign.
-The brand is also trying to reach consumers to encourage them to use cream cheese as more than a schmear for a bagel. Philadelphia's cream cheese brick has already been a cooking and baking staple for decades. Expect to see more TikTok influencers and recipe websites using Philadelphia cream cheese in creative ways.
-Drolet sees opportunities to use them in dips and even pasta sauce — like swapping out heavy cream for the Mike's Hot Honey cream cheese in a Bolognese.
-"We're definitely the leader in the category, and as the leader, it's also on us to really drive the occasion," he said.
-Spreading the investment
-While Kraft Heinz does not break down sales for Philadelphia, the cream cheese is one of the company's billion-dollar brands, along with the likes of Kraft Mac & Cheese, Kraft Singles, Heinz, Lunchables and Oscar Mayer.
-But the size of those brands conceals their struggles. For years after the 2015 megamerger that created Kraft Heinz, the company saw its U.S. sales slip as its biggest names lost shoppers. In early 2019, Philadelphia was one of six brands the company wrote down as the value of its intangible assets fell.
-Executives and analysts have pointed to previous management's underinvestment in the company's products as the primary culprit for many of its business challenges.
-A year ago, Kraft Heinz announced plans to break up, which would effectively unwind much of the merger that combined Kraft with Heinz. But in February, new CEO Steve Cahillane announced that Kraft Heinz would pause the split to fix the company instead. He also said that Kraft Heinz would invest $600 million back into the business.
-Kraft Heinz recently upped that number to $700 million, saying that early investments were already paying off for the company. About 35% of Kraft Heinz's portfolio is holding or gaining market share, up from 21% at the end of 2025, Cahillane said at the Barclays Global Consumer Conference earlier this month.
-Of course, Philadelphia isn't the only Kraft Heinz brand netting more investment during the company's turnaround. The company has released improved packaging for Oscar Mayer products and unveiled Kool-Aid electrolyte packets and protein-packed Kraft Mac & Cheese PowerMac, among other efforts to grow sales for some of its best-known brands.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
-    publishedAt: "2026-09-15T10:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "oil-extends-gains-following-houthi-strik-be64398f",
-    title: "Oil extends gains following Houthi strikes on Saudi Arabia",
-    titleJa: "Oil extends gains following Houthi strikes on Saudi Arabia",
-    summaryJa: "Oil extended gains amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.",
-    bodyOriginal: `Oil extended gains Tuesday, amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.
-Futures for international benchmark Brent crude for November delivery gained 1.28% to $107.03 a barrel. U.S. West Texas Intermediate futures for October advanced 1.50% at $102.91 per barrel.
-Saudi Arabia closed its critical East-West pipeline that bypasses the Strait of Hormuz, after drones launched from Iraq damaged it, exacerbating oil supply disruptions at a time when the market is already tight.
-Al Jazeera reported that the Saudi-led coalition in Yemen says 13 civilians were injured on Monday, after Houthi forces launched a wave of ballistic missile and drone attacks into Saudi Arabia.
-Meanwhile, Iran's military said it destroyed an advanced American drone over the Strait of Hormuz, following a series of operations by Tehran against U.S. unmanned naval systems in the Gulf. U.S. President Donald Trump said Sunday that the U.S. could continue its campaign against Iran and take control of its oil.
-U.S. Central Command also disputed a claim by Iran's Islamic Revolutionary Guard Corps that Panama-flagged oil tanker El Gaia struck a naval mine in the Strait of Hormuz.
-"The Panama-flagged oil tanker El Gaia was struck by an Iranian missile last month and rendered inoperable," CENTCOM said. "The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait."
-Inflation is going to pick up, given the oil pipelines are being attacked and the Saudi east west pipeline is closed, Komal Sri-Kumar, the president of Sri-Kumar Global Strategies, said on CNBC's "Squawk Box Asia."
-"In addition to that, there is a tariff war which is quite accelerating, and that is going to put upward pressure on prices and therefore on bond yields," Sri-Kumar added.`,
-    bodyJa: `Oil extended gains Tuesday, amid reports of fresh Houthi strikes on Saudi Arabia and attacks by Iran on ships in the Gulf.
-Futures for international benchmark Brent crude for November delivery gained 1.28% to $107.03 a barrel. U.S. West Texas Intermediate futures for October advanced 1.50% at $102.91 per barrel.
-Saudi Arabia closed its critical East-West pipeline that bypasses the Strait of Hormuz, after drones launched from Iraq damaged it, exacerbating oil supply disruptions at a time when the market is already tight.
-Al Jazeera reported that the Saudi-led coalition in Yemen says 13 civilians were injured on Monday, after Houthi forces launched a wave of ballistic missile and drone attacks into Saudi Arabia.
-Meanwhile, Iran's military said it destroyed an advanced American drone over the Strait of Hormuz, following a series of operations by Tehran against U.S. unmanned naval systems in the Gulf. U.S. President Donald Trump said Sunday that the U.S. could continue its campaign against Iran and take control of its oil.
-U.S. Central Command also disputed a claim by Iran's Islamic Revolutionary Guard Corps that Panama-flagged oil tanker El Gaia struck a naval mine in the Strait of Hormuz.
-"The Panama-flagged oil tanker El Gaia was struck by an Iranian missile last month and rendered inoperable," CENTCOM said. "The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait."
-Inflation is going to pick up, given the oil pipelines are being attacked and the Saudi east west pipeline is closed, Komal Sri-Kumar, the president of Sri-Kumar Global Strategies, said on CNBC's "Squawk Box Asia."
-"In addition to that, there is a tariff war which is quite accelerating, and that is going to put upward pressure on prices and therefore on bond yields," Sri-Kumar added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-    publishedAt: "2026-09-15T04:41:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
   },
 ];
 
