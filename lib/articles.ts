@@ -15,6 +15,570 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "oil-falls-as-u-s-crude-inventories-repor-40635925",
+    title: "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
+    titleJa: "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
+    summaryJa: "Oil fell Wednesday, as an unexpected increase in U.S. crude inventories outweighed worries over supply disruptions after an Iran-backed attack on Saudi Arabia's East-West pipeline.",
+    bodyOriginal: `Oil retreated Wednesday after a report said U.S. energy inventories rose last week, with investors assessing the latest developments in Middle East conflict and associated supply risks.
+Futures for international benchmark Brent crude for November delivery dropped 1.02% to $107.64 a barrel. U.S. West Texas Intermediate futures for October declined 1.29% to $104.46 per barrel.
+U.S. crude oil, gasoline and distillate inventories all rose last week, Reuters reported, citing sources for data from the American Petroleum Institute. Crude inventories rose by 7.1 million barrels in the week ended Sept. 11, compared with analysts' expectations for a draw of about 1.6 million barrels, Reuters reported.
+Meanwhile, traders remain glued to developments in the Middle East, amid concerns over supply disruptions following an attack by Iran on Saudi Arabia's crucial East-West pipeline that led to it's closure over the weekend.
+U.S. Energy Secretary Chris Wright told CNBC in an interview on Tuesday that the closure was a brief interruption that will last days. Andy Lipow, president of Lipow Oil Associates, said in a note on Monday that "judging from the on-line pictures, it will take months to repair."
+The financial cost of the Middle East conflict is also being closely watched. According to a report released Tuesday by the nonpartisan Congressional Budget Office, the U.S. war with Iran has cost the Pentagon an estimated $38.1 billion through Aug. 1 and could lead to another $2 billion to $3 billion being spent for each additional month of fighting.
+"Looking ahead, crude is likely to remain closely tied to security conditions along Gulf export routes and the pace of repairs to Saudi infrastructure," said Joseph Dahrieh, managing director at brokerage Tickmill.
+"Any further disruption to maritime flows or a prolonged pipeline outage could tighten the physical market and extend the advance in prices," Dahrieh added.`,
+    bodyJa: `Oil retreated Wednesday after a report said U.S. energy inventories rose last week, with investors assessing the latest developments in Middle East conflict and associated supply risks.
+Futures for international benchmark Brent crude for November delivery dropped 1.02% to $107.64 a barrel. U.S. West Texas Intermediate futures for October declined 1.29% to $104.46 per barrel.
+U.S. crude oil, gasoline and distillate inventories all rose last week, Reuters reported, citing sources for data from the American Petroleum Institute. Crude inventories rose by 7.1 million barrels in the week ended Sept. 11, compared with analysts' expectations for a draw of about 1.6 million barrels, Reuters reported.
+Meanwhile, traders remain glued to developments in the Middle East, amid concerns over supply disruptions following an attack by Iran on Saudi Arabia's crucial East-West pipeline that led to it's closure over the weekend.
+U.S. Energy Secretary Chris Wright told CNBC in an interview on Tuesday that the closure was a brief interruption that will last days. Andy Lipow, president of Lipow Oil Associates, said in a note on Monday that "judging from the on-line pictures, it will take months to repair."
+The financial cost of the Middle East conflict is also being closely watched. According to a report released Tuesday by the nonpartisan Congressional Budget Office, the U.S. war with Iran has cost the Pentagon an estimated $38.1 billion through Aug. 1 and could lead to another $2 billion to $3 billion being spent for each additional month of fighting.
+"Looking ahead, crude is likely to remain closely tied to security conditions along Gulf export routes and the pace of repairs to Saudi infrastructure," said Joseph Dahrieh, managing director at brokerage Tickmill.
+"Any further disruption to maritime flows or a prolonged pipeline outage could tighten the physical market and extend the advance in prices," Dahrieh added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
+    publishedAt: "2026-09-16T04:22:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "nvidia-s-huang-diverges-with-ceos-of-ant-70a525a0",
+    title: "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+    titleJa: "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
+    summaryJa: "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
+    bodyOriginal: `Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman presented views on artificial intelligence safety that differed from Nvidia CEO Jensen Huang in conversations at Salesforce's Dreamforce conference, days after the debate burst into the mainstream.
+Amodei took the stage first with Salesforce CEO Marc Benioff, during his annual keynote, an appearance that followed an essay Amodei published over the weekend urging the industry to slow the pace of model development.
+"I think that's the way to lead the industry forward, to set an example, to say that everyone can always be better," Amodei told Benioff on Tuesday, in front of about 12,000 people at San Francisco's Moscone Center.
+Industry executives including OpenAI CEO Sam Altman, SpaceX CEO Elon Musk and Google DeepMind Chair Demis Hassabis, quickly voiced support for Amodei's proposal, which came after industry researchers last week raised the alarm on AI's potential to cause catastrophic harm. Amodei suggested a three-step plan to temper how quickly model capabilities improve without "sacrificing commercial advantage or the United States' lead in AI."
+Huang, who appeared with Benioff shortly after Amodei, has a different perspective. The CEO of the world's most valuable company said market forces already exist, and that the industry doesn't need new laws or regulations. Huang added that speed and safety are not mutually exclusive, though companies should pace themselves until they are sure they are releasing something that the market will appreciate.
+"It's a false choice," Huang told Benioff. "You could definitely have both at the same time."
+Huang said it's up to the model developers to act responsibly with their products.
+"Run as fast as you can," he said. "But if you feel at any given point in time the company's out of control or the product's not going to be safe, take a pause and make sure you get it right."
+A day earlier, Huang was on stage in Los Angeles for the All-In Summit, where he took a call from President Donald Trump. The president, while on speaker, expressed concern about people who are trying to stand in the way of AI data center construction.
+"We're not going to let that happen, sir," Huang said to Trump.
+Dreamforce has been one of the premier events in the software industry for well over a decade, attracting about 50,000 people to downtown San Francisco and taking over a large swath of its hometown. Benioff's keynote always includes multiple high-profile guests, often people who are at the center of the tech universe at that particular time.
+Benioff has had longstanding relationships with both Huang and Amodei.
+On Tuesday, Salesforce and Nvidia announced a new reasoning model for the software company's Agentforce platform, which was built on one of Nvidia open-weight Nemotron models. Late last month, Salesforce and Anthropic expanded their strategic partnership and unveiled "Claudeforce," a new way for salespeople to access critical data directly from inside Anthropic's Claude chatbot.
+In terms of how the model companies should proceed, Benioff told reporters on Tuesday, "If they feel like they should slow down, then they should slow down. If they feel they should speed up, they should they should speed up. And then they should be held accountable."
+Altman's appearance with Benioff took place later in the day. During a fireside chat between the two CEOs, Altman said it's imperative for safety and monitoring to come before capabilities, given the power of existing models.
+"You have companies saying things like, 'We will only be responsible if other companies are responsible,'" Altman said. People then ask what the company is going to do to be safe and responsible "no matter what," he said.
+"There should be no qualifier on that," Altman said.
+WATCH: Sen. Mark Warner: Have to take advantage of AI leaders calling for regulation`,
+    bodyJa: `Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman presented views on artificial intelligence safety that differed from Nvidia CEO Jensen Huang in conversations at Salesforce's Dreamforce conference, days after the debate burst into the mainstream.
+Amodei took the stage first with Salesforce CEO Marc Benioff, during his annual keynote, an appearance that followed an essay Amodei published over the weekend urging the industry to slow the pace of model development.
+"I think that's the way to lead the industry forward, to set an example, to say that everyone can always be better," Amodei told Benioff on Tuesday, in front of about 12,000 people at San Francisco's Moscone Center.
+Industry executives including OpenAI CEO Sam Altman, SpaceX CEO Elon Musk and Google DeepMind Chair Demis Hassabis, quickly voiced support for Amodei's proposal, which came after industry researchers last week raised the alarm on AI's potential to cause catastrophic harm. Amodei suggested a three-step plan to temper how quickly model capabilities improve without "sacrificing commercial advantage or the United States' lead in AI."
+Huang, who appeared with Benioff shortly after Amodei, has a different perspective. The CEO of the world's most valuable company said market forces already exist, and that the industry doesn't need new laws or regulations. Huang added that speed and safety are not mutually exclusive, though companies should pace themselves until they are sure they are releasing something that the market will appreciate.
+"It's a false choice," Huang told Benioff. "You could definitely have both at the same time."
+Huang said it's up to the model developers to act responsibly with their products.
+"Run as fast as you can," he said. "But if you feel at any given point in time the company's out of control or the product's not going to be safe, take a pause and make sure you get it right."
+A day earlier, Huang was on stage in Los Angeles for the All-In Summit, where he took a call from President Donald Trump. The president, while on speaker, expressed concern about people who are trying to stand in the way of AI data center construction.
+"We're not going to let that happen, sir," Huang said to Trump.
+Dreamforce has been one of the premier events in the software industry for well over a decade, attracting about 50,000 people to downtown San Francisco and taking over a large swath of its hometown. Benioff's keynote always includes multiple high-profile guests, often people who are at the center of the tech universe at that particular time.
+Benioff has had longstanding relationships with both Huang and Amodei.
+On Tuesday, Salesforce and Nvidia announced a new reasoning model for the software company's Agentforce platform, which was built on one of Nvidia open-weight Nemotron models. Late last month, Salesforce and Anthropic expanded their strategic partnership and unveiled "Claudeforce," a new way for salespeople to access critical data directly from inside Anthropic's Claude chatbot.
+In terms of how the model companies should proceed, Benioff told reporters on Tuesday, "If they feel like they should slow down, then they should slow down. If they feel they should speed up, they should they should speed up. And then they should be held accountable."
+Altman's appearance with Benioff took place later in the day. During a fireside chat between the two CEOs, Altman said it's imperative for safety and monitoring to come before capabilities, given the power of existing models.
+"You have companies saying things like, 'We will only be responsible if other companies are responsible,'" Altman said. People then ask what the company is going to do to be safe and responsible "no matter what," he said.
+"There should be no qualifier on that," Altman said.
+WATCH: Sen. Mark Warner: Have to take advantage of AI leaders calling for regulation`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+    publishedAt: "2026-09-16T04:21:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "how-rising-bond-yields-impact-american-c-1995a9f9",
+    title: "How rising bond yields impact American consumers",
+    titleJa: "How rising bond yields impact American consumers",
+    summaryJa: "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
+    bodyOriginal: `How rising bond yields impact American consumers
+The 10-year Treasury yield has surpassed 5% and reached its highest level since 2007. What does this mean for you?
+The BBC’s Samira Hussain explains.
+Related topics
+- Personal financeUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- US economyUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
+    bodyJa: `How rising bond yields impact American consumers
+The 10-year Treasury yield has surpassed 5% and reached its highest level since 2007. What does this mean for you?
+The BBC’s Samira Hussain explains.
+Related topics
+- Personal financeUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- US economyUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-16T03:58:32+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2548/live/ce0fe040-b16b-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 2,
+  },
+  {
+    id: "openai-boss-says-world-right-to-be-afrai-4d526c97",
+    title: "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+    titleJa: "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+    summaryJa: "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    bodyOriginal: `OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
+- Published
+OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.
+"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this," Altman said on Tuesday during a conference in San Francisco.
+However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.
+"It doesn't take as much imagination as it used to for [us] to imagine how this could go wrong," he said. "I think the world is right to be afraid of this."
+Altman's comments came during an appearance at an annual conference hosted by software firm Salesforce.
+It was the first time he had spoken publicly since a post went viral last week by a researcher who quit the AI firm Anthropic. The researcher claimed AI could kill all humans by the end of the decade if left unchecked.
+A handful of other AI executives and experts responded by saying they agreed with the assessment, though they didn't explain how they came to their conclusions or how exactly AI could accomplish such a thing.
+The fervor over the claims has led to more scrutiny of AI development in recent days, and in response, Anthropic chief executive Dario Amodei called for the pace of all AI development to slow, external and urged governments to regulate the industry.
+The post was applauded by Altman, as well as co-founder of Google's DeepMind Demis Hassabis, and Elon Musk, owner of social media site X and AI assistant Grok.
+By Tuesday, more AI leaders were voicing support for self-regulation rather than government involvement.
+Altman said that he felt AI companies like his own were capable of essentially regulating themselves.
+"We will get it right, I'm very confident in our company's and industry's ability to do this safely," Altman said, adding that he was sure that they would "keep alignment and safety way ahead of capabilities" and if they couldn't, they would "slow down or stop".
+After Altman's comments, Meta boss Mark Zuckerberg wrote on X that every AI lab has the ability and the incentive "to take its own actions" towards making AI tools and models that are designed for safety.
+"Any lab that doesn't focus on alignment will fall behind," Zuckerberg wrote. "Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well."
+Jensen Huang, head of Nvidia, also said at the same Tuesday conference that the AI firms should decide if new versions of the technology should be released and not be managed by outside forces.
+"We don't need new laws or regulations," Huang said, adding that there should not be a "false choice" between the speed of innovation and the safety of AI products.
+Nvidia is the biggest company in the world by valuation, with its profits having boomed as a result of rampant demand for the AI computing chips it makes.
+"Safety is paramount. However, safety is an engineering problem," Huang said.
+He added that if at any time a leader of an AI company lacks confidence in their product they should choose to not release it.
+"That's a very obvious thing to do," Huang said. "Run as fast as you can, but if at any time you feel the institution is not in control, take a pause."
+Why doomsday warnings are not the only threat to the AI juggernaut
+- Published4 hours ago
+Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+- Published19 hours ago
+Some industry figures have argued resurgent AI fears were overblown and were being jumped on to generate hype for the industry.
+During the conference, Altman addressed a crowd of hundreds of business people, telling them they should use AI tools to aid in their work, but also needed them in order to protect their businesses from potentially AI-enabled cyber attacks.
+The idea of AI executives being left to entirely regulate themselves has struck some in the industry as a bad idea.
+Jack Clark, an Anthropic executive and co-founder, told the BBC on Monday that leaving AI to be a "totally unregulated industry" was "rolling dice with immense risks".
+Patrick Hillman, the chief operating officer of Logical Intelligence, which is chaired by Yann LeCun, a sage of the AI industry, noted Tuesday how little faith people have in tech companies to do anything truly in the public interest, external.
+"The only institution that Americans might trust less than Washington these days is Silicon Valley. I have worked and lived in both and I assure you both have earned this scepticism," Hillman said.
+"If you believe what you are building is dangerous, show us what you are prepared to stop doing," he added.
+Leaders of OpenAI and Anthropic have said they have recently started working towards some sort of industry-wide agreement on safety.
+Amodei, during a cameo at the conference on Tuesday, said Anthropic is now in "a dialogue with the rest of the industry" about committing to better safety standards and checks on AI tools and development.
+He also said that one of the biggest surprises of the AI boom was not how the technology itself has advanced, but its broader impact.
+"We didn't appreciate that it would lead to companies growing so fast, and how quickly they would become central to things," Amodei said.
+OpenAI executive Chris Lehane said last week that the company was also working with other AI labs, external "to advance frontier AI standards, building a voluntary effort now, with or without government support." Those labs include Anthropic and Google Deepmind.
+"With stakes this high, we cannot let the perfect become the enemy of the good," Lehane wrote.`,
+    bodyJa: `OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
+- Published
+OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.
+"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this," Altman said on Tuesday during a conference in San Francisco.
+However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.
+"It doesn't take as much imagination as it used to for [us] to imagine how this could go wrong," he said. "I think the world is right to be afraid of this."
+Altman's comments came during an appearance at an annual conference hosted by software firm Salesforce.
+It was the first time he had spoken publicly since a post went viral last week by a researcher who quit the AI firm Anthropic. The researcher claimed AI could kill all humans by the end of the decade if left unchecked.
+A handful of other AI executives and experts responded by saying they agreed with the assessment, though they didn't explain how they came to their conclusions or how exactly AI could accomplish such a thing.
+The fervor over the claims has led to more scrutiny of AI development in recent days, and in response, Anthropic chief executive Dario Amodei called for the pace of all AI development to slow, external and urged governments to regulate the industry.
+The post was applauded by Altman, as well as co-founder of Google's DeepMind Demis Hassabis, and Elon Musk, owner of social media site X and AI assistant Grok.
+By Tuesday, more AI leaders were voicing support for self-regulation rather than government involvement.
+Altman said that he felt AI companies like his own were capable of essentially regulating themselves.
+"We will get it right, I'm very confident in our company's and industry's ability to do this safely," Altman said, adding that he was sure that they would "keep alignment and safety way ahead of capabilities" and if they couldn't, they would "slow down or stop".
+After Altman's comments, Meta boss Mark Zuckerberg wrote on X that every AI lab has the ability and the incentive "to take its own actions" towards making AI tools and models that are designed for safety.
+"Any lab that doesn't focus on alignment will fall behind," Zuckerberg wrote. "Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well."
+Jensen Huang, head of Nvidia, also said at the same Tuesday conference that the AI firms should decide if new versions of the technology should be released and not be managed by outside forces.
+"We don't need new laws or regulations," Huang said, adding that there should not be a "false choice" between the speed of innovation and the safety of AI products.
+Nvidia is the biggest company in the world by valuation, with its profits having boomed as a result of rampant demand for the AI computing chips it makes.
+"Safety is paramount. However, safety is an engineering problem," Huang said.
+He added that if at any time a leader of an AI company lacks confidence in their product they should choose to not release it.
+"That's a very obvious thing to do," Huang said. "Run as fast as you can, but if at any time you feel the institution is not in control, take a pause."
+Why doomsday warnings are not the only threat to the AI juggernaut
+- Published4 hours ago
+Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
+- Published19 hours ago
+Some industry figures have argued resurgent AI fears were overblown and were being jumped on to generate hype for the industry.
+During the conference, Altman addressed a crowd of hundreds of business people, telling them they should use AI tools to aid in their work, but also needed them in order to protect their businesses from potentially AI-enabled cyber attacks.
+The idea of AI executives being left to entirely regulate themselves has struck some in the industry as a bad idea.
+Jack Clark, an Anthropic executive and co-founder, told the BBC on Monday that leaving AI to be a "totally unregulated industry" was "rolling dice with immense risks".
+Patrick Hillman, the chief operating officer of Logical Intelligence, which is chaired by Yann LeCun, a sage of the AI industry, noted Tuesday how little faith people have in tech companies to do anything truly in the public interest, external.
+"The only institution that Americans might trust less than Washington these days is Silicon Valley. I have worked and lived in both and I assure you both have earned this scepticism," Hillman said.
+"If you believe what you are building is dangerous, show us what you are prepared to stop doing," he added.
+Leaders of OpenAI and Anthropic have said they have recently started working towards some sort of industry-wide agreement on safety.
+Amodei, during a cameo at the conference on Tuesday, said Anthropic is now in "a dialogue with the rest of the industry" about committing to better safety standards and checks on AI tools and development.
+He also said that one of the biggest surprises of the AI boom was not how the technology itself has advanced, but its broader impact.
+"We didn't appreciate that it would lead to companies growing so fast, and how quickly they would become central to things," Amodei said.
+OpenAI executive Chris Lehane said last week that the company was also working with other AI labs, external "to advance frontier AI standards, building a voluntary effort now, with or without government support." Those labs include Anthropic and Google Deepmind.
+"With stakes this high, we cannot let the perfect become the enemy of the good," Lehane wrote.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-16T00:59:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
+    id: "why-doomsday-warnings-are-not-the-only-t-9049d06e",
+    title: "Why doomsday warnings are not the only threat to the AI juggernaut",
+    titleJa: "Why doomsday warnings are not the only threat to the AI juggernaut",
+    summaryJa: "The global AI race is being hit by very localised political and environmental concerns",
+    bodyOriginal: `There is an eerie low hum that emanates from data centres, where tens of thousands of chips make trillions of computations a second to help drive the artificial intelligence (AI) revolution.
+These chips power the text, images and video generated by the queries made by the world of the advanced AI models.
+Their computations, which are in effect the switching on and off of microscopic silicon transistors that make up a chip, are actually silent. But, as with all computers, almost every watt of the significant electricity powering this process leaves as heat, and the sound you can hear is the slow whir of thousands of fans required to prevent the heat from frying the racks of servers. Depending on the size of the site, you may also hear the thrum of transformers in substations channelling electricity.
+In recent days, alarming warnings of threats to humanity have created a din, but it is these low hums that have stirred a backlash in the US which now threatens to envelop its mid-term elections, and could cross the Atlantic and come to the UK.
+In the US, the opposition to data centres is most overt on the political left. Democratic Senator Bernie Sanders has called for a moratorium on any new construction. "People are looking around worried about how quickly the technology is moving, how little control they have over it, how will data centres impact their community in terms of electric rates and water utilisation," he told me.
+It's possible that a global AI race travelling at Silicon Valley's top speeds could be about to hit the buffers of very localised political and environmental concerns.
+A toxic debate
+In the US, polling by Gallup published in May suggested having a data centre in your area was more unpopular than having a nuclear power station. On data centres, 71% were opposed, including 48% strongly opposed. For nuclear power stations 53% were opposed, including 34% strongly opposed. This unpopularity has grown over the past two years, with some polls suggesting half of Americans support a total pause on their construction.
+There has been opposition to some of these developments in the UK too, from Buckinghamshire and Berkshire to Brick Lane in east London, with locals fearing their areas will be negatively impacted.
+In Brick Lane, plans for a data centre likely to service the City of London's high frequency traders face a backlash from those who would prefer to see more social housing and local business developments in the capital's east end. Meanwhile in the shires, the sheer demand for data centres sees pressure to expand provision from Slough, into the leafy countryside.
+The UK has the third highest number of data centres in the world, one spot ahead of China. The US has the most.
+Back in the US, this backlash is being reflected in what politicians standing in critical elections in November are saying.
+The backlash is clearly more pronounced among Democrats on the left, but anti-data-centre sentiment is clear among Republican supporters too. City councils have been voted out in response to their policies on data centres, while some whole states - both red and blue - are proposing bans.
+Last year, in New Jersey and Virginia, Democratic Governors were elected partly because of a backlash against rising electricity prices blamed on data centre construction and operation.
+Stories abound of local townspeople seeing energy bills soar when they are asked to foot the bill for the infrastructure needed to power new data centres, or finding their already stretched water supplies further diminished. Because the US energy system functions at a local level, the impact on bills can be immediate.
+With control of both houses of the US Congress up for grabs, the scale of the hyper-localised opposition could become a defining factor in the midterm elections and with it the fate of US policy and Donald Trump's presidency.
+A dizzying flip
+Seven Big Tech CEOs appeared with Trump in March to sign the "Ratepayer Protection Pledge" saying they would "build, bring or buy" their own energy needs and ensure costs are not passed to "ordinary households." The pledge was non-binding.
+This clearly did not go far enough for some. The new Democratic Governors in New Jersey and Virginia (home to the largest global concentration of data centres), went much further with legislation compelling new energy tariffs for data centres, and disclosure of energy and water use.
+Perhaps the most potent symbol of all of this, is the pro-Trump Republican Senate candidate in Texas, Ken Paxton, attacking data centres, campaigning against their tax breaks and proposing that operators of the facilities should be criminally liable if the technology "empowered AI chatbots that undermine children's safety".
+Texas had been the most pro-business, pro-data centre, pro-energy state, competing ferociously for these facilities. It had, for example, won much of the multi-billion-dollar relocation investment from Elon Musk's SpaceX AI behemoth, to produce AI chips.
+It has been a dizzying flip. Jensen Huang, chief of AI chipmaker Nvidia, took to social media in August to make the case for data centres as the essential agent of US reindustrialisation. Other Big Tech CEOs have not followed, perhaps a sign of the difficult optics.
+The lesson from the US however, has been that talking about benefits to the overall national economy, or potentially curing cancer, does not always cut it locally. Part of the eerie sound surrounding data centres is the relative absence of actual permanent workers coming and going. While there are plenty of construction jobs, a functioning data centre tends to require just a few dozen staff, with a few hundred at the very largest new sites.
+Asking local people to accept the sound, the all night security lighting and the pressure on energy and water supplies in their areas as being for the good of the country is one thing. But it's a harder sell when the AI firms are on the cusp of trillion-dollar-plus valuations but are also expecting massive job losses, and many are asking whether the technology could wipe humans off the face of the Earth.
+Critical infrastructure
+The arguments have crossed the Atlantic. In Slough, Europe's greatest cluster of data centres, over 500 people signed a petition saying the town "should not become an experiment". They are questioning whether the town has benefited from this, and want a pause on data centre development in the town.
+Locals have complained that the heat generated by the centres made already sweltering summer temperatures even worse. One scheme was built on a site that had been designated for 1,000 homes, but was sold to a data centre company as part of the council's attempt to clear its debts.
+Back in Brick Lane, former Labour peer Baroness Pola Uddin says: "I understand the need for data centres, but there must be proper consideration of the health and wellbeing of the local population that lives, breathes, goes to school. We must consider the option of more industrial areas."
+The Labour government last year designated data centres as Critical National Infrastructure, part of its strategy to help fast track their roll out.
+It views data centres as underpinning public services and crucial to attract investment and allow Britain to compete in the global economy.
+The argument it makes is national economic benefit, but the political challenge is whether locals will put up with it. One of the first acts of the new Labour government was to back a Buckinghamshire data centre that had been repeatedly rejected by the local council because it was going to be built on the green belt.
+Permission was granted by ministers, but then challenged by campaigners after a crowdfunded court case, for failing to consider environmental impact. The Government acknowledged errors, quashed its own approval, and the developer eventually conceded it needed to agree binding clean energy obligations with the council. The victorious campaigning group, Foxglove, vowed to refocus its efforts on challenging other data centre schemes across the UK.
+Water is another area of concern for campaigners. The tech industry argues its requirements are not so heavy when you consider how much water is lost to leaks, for example.
+In a submission to a Commons committee the trade body Water UK criticised "not a single mention of water" in Government AI growth strategies. "There appears to be an assumption that the country will always have enough water for its economic needs. Nothing could be further from the truth."
+Much of the recent UK effort to expand data centres was aimed at areas strategically chosen based on a combination of their potential contribution to the economy, the availability of brownfield sites to develop and their existing connections to energy grids and electricity generation. These areas have been dubbed AI Growth zones.
+But even in these places, the political balance between growth and the environment led to hold-ups within Cabinet. A scheme in Teesside saw a tug of war between ministers over whether it should be used for a low carbon hydrogen energy scheme, or a massive new AI data centre. The data centre won out.
+Environmental compromises
+The Silicon Valley tech giants have acknowledged that massive AI data centre energy needs will result in slower progress on climate change. Nvidia's Huang told me last year that it was the invention and deployment of AI itself that was the initial priority, and he claimed the technology itself could help solve climate change. "This is the production of intelligence, what could be more valuable and more important than that?"
+In the UK there is still a fundamental question about whether the electricity requirements of a plan to expand current data centre capacity threefold by 2030, to 6 gigawatts (GW) of continuous capacity, can be coherent with net zero plans.
+The Government is expected to soon outline its policy for local government on data centres in a National Policy Statement (NPS), identifying which types qualify as "nationally significant" and are therefore eligible to be fast-tracked by the Government.
+Since they started drafting the NPS, there has been a change of prime minister, and a change of political temperature on this issue.
+Prime Minister Andy Burnham has pledged "growth in every postcode" and data centres might help deliver this. However the Government's prominent role is also a clear example of national centralisation of power, the opposite of Burnham's desire to give more powers to local government. Might this, plus the challenge of the Green Party's call for a data centre moratorium, alter Burnham's thinking?
+'America brain'
+Some in Westminster say there is a case of "America brain" about this issue where just because it is an issue in the US, people believe the same is true for the UK.
+While the UK is trying to get to that 6GW figure, in the US the 2030 ambition is at least 20 times that, with some individual megaprojects to exceed total planned UK capacity.
+The impact on local electricity prices is not the same, they say, though that is partly a consequence of the UK's already higher energy prices.
+For the UK there is also a vital argument about data sovereignty, and avoiding total reliance on either the US or other countries for the IT infrastructure underpinning large swathes of our service economy.
+There is talk of lessons needing to be learned about failing to capture the upside of the economic and political power that came from the growth in social media and the internet in the early part of this century. The UK was mainly a customer of these technologies, rather than their maker.
+"This time [on AI] we have to get it right, but a precondition is having some level of data infrastructure," one minister told me. The UK's ambition is seen as relatively modest in terms of continuous AI usage for the NHS, national security and financial services by 2030.
+This "skin in the game" argument is echoed in the AI labs. Some influential voices believe the impact of their models on society will be so profound that it will fundamentally affect the ability of governments to raise taxes, especially on work. Their futurologists muse about vastly disrupted flows of cash around the economy. Physical data centres may become one of the few ways to tax the proceeds of this revolution.
+In the US some of the same politicians who had fought to welcome data centres now suggest they have turned on them. Tax breaks are turning into tax demands. The small-town US backlash may have specific American context, but it is also having echoes around the world.
+Lead image: Reuters/AFP via Getty
+More from InDepth
+Why some experts increasingly fear AI will take over
+- Published6 days ago
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `There is an eerie low hum that emanates from data centres, where tens of thousands of chips make trillions of computations a second to help drive the artificial intelligence (AI) revolution.
+These chips power the text, images and video generated by the queries made by the world of the advanced AI models.
+Their computations, which are in effect the switching on and off of microscopic silicon transistors that make up a chip, are actually silent. But, as with all computers, almost every watt of the significant electricity powering this process leaves as heat, and the sound you can hear is the slow whir of thousands of fans required to prevent the heat from frying the racks of servers. Depending on the size of the site, you may also hear the thrum of transformers in substations channelling electricity.
+In recent days, alarming warnings of threats to humanity have created a din, but it is these low hums that have stirred a backlash in the US which now threatens to envelop its mid-term elections, and could cross the Atlantic and come to the UK.
+In the US, the opposition to data centres is most overt on the political left. Democratic Senator Bernie Sanders has called for a moratorium on any new construction. "People are looking around worried about how quickly the technology is moving, how little control they have over it, how will data centres impact their community in terms of electric rates and water utilisation," he told me.
+It's possible that a global AI race travelling at Silicon Valley's top speeds could be about to hit the buffers of very localised political and environmental concerns.
+A toxic debate
+In the US, polling by Gallup published in May suggested having a data centre in your area was more unpopular than having a nuclear power station. On data centres, 71% were opposed, including 48% strongly opposed. For nuclear power stations 53% were opposed, including 34% strongly opposed. This unpopularity has grown over the past two years, with some polls suggesting half of Americans support a total pause on their construction.
+There has been opposition to some of these developments in the UK too, from Buckinghamshire and Berkshire to Brick Lane in east London, with locals fearing their areas will be negatively impacted.
+In Brick Lane, plans for a data centre likely to service the City of London's high frequency traders face a backlash from those who would prefer to see more social housing and local business developments in the capital's east end. Meanwhile in the shires, the sheer demand for data centres sees pressure to expand provision from Slough, into the leafy countryside.
+The UK has the third highest number of data centres in the world, one spot ahead of China. The US has the most.
+Back in the US, this backlash is being reflected in what politicians standing in critical elections in November are saying.
+The backlash is clearly more pronounced among Democrats on the left, but anti-data-centre sentiment is clear among Republican supporters too. City councils have been voted out in response to their policies on data centres, while some whole states - both red and blue - are proposing bans.
+Last year, in New Jersey and Virginia, Democratic Governors were elected partly because of a backlash against rising electricity prices blamed on data centre construction and operation.
+Stories abound of local townspeople seeing energy bills soar when they are asked to foot the bill for the infrastructure needed to power new data centres, or finding their already stretched water supplies further diminished. Because the US energy system functions at a local level, the impact on bills can be immediate.
+With control of both houses of the US Congress up for grabs, the scale of the hyper-localised opposition could become a defining factor in the midterm elections and with it the fate of US policy and Donald Trump's presidency.
+A dizzying flip
+Seven Big Tech CEOs appeared with Trump in March to sign the "Ratepayer Protection Pledge" saying they would "build, bring or buy" their own energy needs and ensure costs are not passed to "ordinary households." The pledge was non-binding.
+This clearly did not go far enough for some. The new Democratic Governors in New Jersey and Virginia (home to the largest global concentration of data centres), went much further with legislation compelling new energy tariffs for data centres, and disclosure of energy and water use.
+Perhaps the most potent symbol of all of this, is the pro-Trump Republican Senate candidate in Texas, Ken Paxton, attacking data centres, campaigning against their tax breaks and proposing that operators of the facilities should be criminally liable if the technology "empowered AI chatbots that undermine children's safety".
+Texas had been the most pro-business, pro-data centre, pro-energy state, competing ferociously for these facilities. It had, for example, won much of the multi-billion-dollar relocation investment from Elon Musk's SpaceX AI behemoth, to produce AI chips.
+It has been a dizzying flip. Jensen Huang, chief of AI chipmaker Nvidia, took to social media in August to make the case for data centres as the essential agent of US reindustrialisation. Other Big Tech CEOs have not followed, perhaps a sign of the difficult optics.
+The lesson from the US however, has been that talking about benefits to the overall national economy, or potentially curing cancer, does not always cut it locally. Part of the eerie sound surrounding data centres is the relative absence of actual permanent workers coming and going. While there are plenty of construction jobs, a functioning data centre tends to require just a few dozen staff, with a few hundred at the very largest new sites.
+Asking local people to accept the sound, the all night security lighting and the pressure on energy and water supplies in their areas as being for the good of the country is one thing. But it's a harder sell when the AI firms are on the cusp of trillion-dollar-plus valuations but are also expecting massive job losses, and many are asking whether the technology could wipe humans off the face of the Earth.
+Critical infrastructure
+The arguments have crossed the Atlantic. In Slough, Europe's greatest cluster of data centres, over 500 people signed a petition saying the town "should not become an experiment". They are questioning whether the town has benefited from this, and want a pause on data centre development in the town.
+Locals have complained that the heat generated by the centres made already sweltering summer temperatures even worse. One scheme was built on a site that had been designated for 1,000 homes, but was sold to a data centre company as part of the council's attempt to clear its debts.
+Back in Brick Lane, former Labour peer Baroness Pola Uddin says: "I understand the need for data centres, but there must be proper consideration of the health and wellbeing of the local population that lives, breathes, goes to school. We must consider the option of more industrial areas."
+The Labour government last year designated data centres as Critical National Infrastructure, part of its strategy to help fast track their roll out.
+It views data centres as underpinning public services and crucial to attract investment and allow Britain to compete in the global economy.
+The argument it makes is national economic benefit, but the political challenge is whether locals will put up with it. One of the first acts of the new Labour government was to back a Buckinghamshire data centre that had been repeatedly rejected by the local council because it was going to be built on the green belt.
+Permission was granted by ministers, but then challenged by campaigners after a crowdfunded court case, for failing to consider environmental impact. The Government acknowledged errors, quashed its own approval, and the developer eventually conceded it needed to agree binding clean energy obligations with the council. The victorious campaigning group, Foxglove, vowed to refocus its efforts on challenging other data centre schemes across the UK.
+Water is another area of concern for campaigners. The tech industry argues its requirements are not so heavy when you consider how much water is lost to leaks, for example.
+In a submission to a Commons committee the trade body Water UK criticised "not a single mention of water" in Government AI growth strategies. "There appears to be an assumption that the country will always have enough water for its economic needs. Nothing could be further from the truth."
+Much of the recent UK effort to expand data centres was aimed at areas strategically chosen based on a combination of their potential contribution to the economy, the availability of brownfield sites to develop and their existing connections to energy grids and electricity generation. These areas have been dubbed AI Growth zones.
+But even in these places, the political balance between growth and the environment led to hold-ups within Cabinet. A scheme in Teesside saw a tug of war between ministers over whether it should be used for a low carbon hydrogen energy scheme, or a massive new AI data centre. The data centre won out.
+Environmental compromises
+The Silicon Valley tech giants have acknowledged that massive AI data centre energy needs will result in slower progress on climate change. Nvidia's Huang told me last year that it was the invention and deployment of AI itself that was the initial priority, and he claimed the technology itself could help solve climate change. "This is the production of intelligence, what could be more valuable and more important than that?"
+In the UK there is still a fundamental question about whether the electricity requirements of a plan to expand current data centre capacity threefold by 2030, to 6 gigawatts (GW) of continuous capacity, can be coherent with net zero plans.
+The Government is expected to soon outline its policy for local government on data centres in a National Policy Statement (NPS), identifying which types qualify as "nationally significant" and are therefore eligible to be fast-tracked by the Government.
+Since they started drafting the NPS, there has been a change of prime minister, and a change of political temperature on this issue.
+Prime Minister Andy Burnham has pledged "growth in every postcode" and data centres might help deliver this. However the Government's prominent role is also a clear example of national centralisation of power, the opposite of Burnham's desire to give more powers to local government. Might this, plus the challenge of the Green Party's call for a data centre moratorium, alter Burnham's thinking?
+'America brain'
+Some in Westminster say there is a case of "America brain" about this issue where just because it is an issue in the US, people believe the same is true for the UK.
+While the UK is trying to get to that 6GW figure, in the US the 2030 ambition is at least 20 times that, with some individual megaprojects to exceed total planned UK capacity.
+The impact on local electricity prices is not the same, they say, though that is partly a consequence of the UK's already higher energy prices.
+For the UK there is also a vital argument about data sovereignty, and avoiding total reliance on either the US or other countries for the IT infrastructure underpinning large swathes of our service economy.
+There is talk of lessons needing to be learned about failing to capture the upside of the economic and political power that came from the growth in social media and the internet in the early part of this century. The UK was mainly a customer of these technologies, rather than their maker.
+"This time [on AI] we have to get it right, but a precondition is having some level of data infrastructure," one minister told me. The UK's ambition is seen as relatively modest in terms of continuous AI usage for the NHS, national security and financial services by 2030.
+This "skin in the game" argument is echoed in the AI labs. Some influential voices believe the impact of their models on society will be so profound that it will fundamentally affect the ability of governments to raise taxes, especially on work. Their futurologists muse about vastly disrupted flows of cash around the economy. Physical data centres may become one of the few ways to tax the proceeds of this revolution.
+In the US some of the same politicians who had fought to welcome data centres now suggest they have turned on them. Tax breaks are turning into tax demands. The small-town US backlash may have specific American context, but it is also having echoes around the world.
+Lead image: Reuters/AFP via Getty
+More from InDepth
+Why some experts increasingly fear AI will take over
+- Published6 days ago
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T23:39:55+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "the-extreme-engineering-of-aircraft-wind-46f7d147",
+    title: "The extreme engineering of aircraft windows",
+    titleJa: "The extreme engineering of aircraft windows",
+    summaryJa: "Few companies have the technology to make aircraft windows which are getting harder to make.",
+    bodyOriginal: `The extreme engineering of aircraft windows
+- Published
+An industrial nightmare was brewing south of Los Angeles.
+In late May, a chemical storage tank with more than 7,000 gallons of toxic material began heating up – fast. The tank belonged to GKN Aerospace, a company that supplies parts to the aviation industry, including aircraft windows.
+As the temperature inside the shiny metal storage vessel rose, workers realised they had a problem. The tank was at risk of exploding, potentially showering nearby neighbourhoods with methyl methacrylate (MMA), a skin and lung-irritating, external compound used in plastics production.
+The tank's temperature reached 100F (38C) – though possibly went higher - 100F was simply the maximum reading, external on the temperature gauge inside.
+More than 50,000 residents of Garden Grove city were evacuated and fire crews began hosing down the tank in a bid to cool it. At one point, the vessel "actually bulged" according to the local fire chief.
+Thankfully, no explosion occurred. Months later, in August, GKN and local authorities announced a $100m (£74m) programme, external to compensate residents evacuated during the incident. But production of aircraft windows at the site, which had been halted, is still not fully restored.
+This has sent a minor shockwave through the aircraft manufacturing industry because GKN is one of surprisingly few companies, anywhere in the world, that make aircraft windows – highly engineered, safety-critical parts for planes.
+Production at GKN's Garden Grove facility currently remains hobbled, at roughly 50% of normal, according to public statements, external by its UK parent company Melrose Industries. The aim is to have full production restored by 28 September. GKN declined an interview with the BBC.
+"They're one of only a handful of suppliers – less than a handful, really – of critical windows," says Marisa Garcia, an aviation industry analyst. "One of the breaking points of supply chain in aviation is you have very few companies qualified to do something and, when something goes wrong, it really upsets the entire system."
+Boeing tells the BBC it is "taking steps to mitigate any potential impacts", describing the shortfall in production as an "industry-wide" situation.
+"We are supporting our supplier," a spokesman adds. An Airbus spokeswoman says, "We are closely monitoring and are seeing positive progress toward a return to normal."
+It comes at a time when airlines "can't get new aircraft fast enough," says Mike Stengel of AeroDynamic Advisory, a consultancy. "They're holding on to aircraft for longer."
+Even though there are just a few aircraft window-manufacturing firms in existence, it's hard for new competitors to emerge because of how regulated the industry is, adds Stengel. "It can take time to pivot to a new supplier."
+This leads to a "balancing act" between plane-makers and the firms they rely on for various parts, Stengel says.
+To find out what goes into the making of an aircraft window, I spoke to Jean-Eric Vermont, general manager of French company Saint-Gobain Aerospace.
+"We focus mostly on commercial aircraft, regional aircraft and helicopters," he says. Vermont declines, though, to say how much market share his company has in aircraft windows – or transparencies, as they are known in the trade.
+The oval-shaped windows in the cabin, next to passengers' seats, are typically made of plastic-based materials, says Vermont. "You start from a sheet of acrylic," he explains. "Then you cut to size, [to] give the shape."
+A Saint-Gobain spokesman confirmed to the BBC that the company does not store or process MMA like GKN, but rather purchases sheets of polymerised MMA, or acrylic.
+Aircraft manufacturers are increasingly ordering larger cabin windows, says Vermont, in order to offer passengers a wider view of the world outside. It's a selling point but it requires additional testing to ascertain whether the bigger windows hold up as well as the smaller ones.
+Saint-Gobain tests its windows by exposing them to pressures many times what would be normal on an aircraft flying at altitude.
+These acrylic-based cabin windows are usually made out of two layers or plies, and Saint-Gobain also performs tests to confirm whether the window will survive even if one of those plies gets damaged.
+Cockpit windows, Vermont says, are "totally different".
+They are generally made of glass, which is chemically reinforced by adding potassium to it. This involves swapping smaller sodium ions for larger potassium ions, which helps to fill out the molecular structure of the glass, meaning that when it cools during production, it compresses into an extra strong, tight formation as it cools.
+Some of the latest aircraft feature cockpit windows that are also curved, to make the plane more streamlined, which improves fuel efficiency. But curved cockpit windows are challenging to make – the slightest distortion or defect is clearly visible to the pilot.
+Quality control checks are used to ensure no such impediments exist in the final product.
+All aircraft windows must be resistant to impacts but cockpit windows, at the front of the plane, are especially vulnerable to bird strikes, says Vermont: "The issue is not the speed of the bird, the issue is the speed of the aircraft."
+Saint-Gobain uses numerical simulations and "physical tests representative of a sizeable bird impact" to test its windows against this threat.
+"Typically, if you go through a hailstorm or if you hit a large enough bird, the external ply will crack," says Vermont. "The cockpit window is designed for that."
+A London to Londonderry flight was recently affected by a cracked cockpit window. While a mid-air emergency was declared, the plane landed safely. "There can be [such] cases," says Vermont, though he adds that Saint-Gobain's windows have not been involved in any recently.
+"You're obviously dealing with a surface that is interfacing with two very different environments," says Stengel. "That's why these are more highly-engineered products."
+More Technology of Business
+- Published2 September
+- Published7 days ago
+- Published28 August`,
+    bodyJa: `The extreme engineering of aircraft windows
+- Published
+An industrial nightmare was brewing south of Los Angeles.
+In late May, a chemical storage tank with more than 7,000 gallons of toxic material began heating up – fast. The tank belonged to GKN Aerospace, a company that supplies parts to the aviation industry, including aircraft windows.
+As the temperature inside the shiny metal storage vessel rose, workers realised they had a problem. The tank was at risk of exploding, potentially showering nearby neighbourhoods with methyl methacrylate (MMA), a skin and lung-irritating, external compound used in plastics production.
+The tank's temperature reached 100F (38C) – though possibly went higher - 100F was simply the maximum reading, external on the temperature gauge inside.
+More than 50,000 residents of Garden Grove city were evacuated and fire crews began hosing down the tank in a bid to cool it. At one point, the vessel "actually bulged" according to the local fire chief.
+Thankfully, no explosion occurred. Months later, in August, GKN and local authorities announced a $100m (£74m) programme, external to compensate residents evacuated during the incident. But production of aircraft windows at the site, which had been halted, is still not fully restored.
+This has sent a minor shockwave through the aircraft manufacturing industry because GKN is one of surprisingly few companies, anywhere in the world, that make aircraft windows – highly engineered, safety-critical parts for planes.
+Production at GKN's Garden Grove facility currently remains hobbled, at roughly 50% of normal, according to public statements, external by its UK parent company Melrose Industries. The aim is to have full production restored by 28 September. GKN declined an interview with the BBC.
+"They're one of only a handful of suppliers – less than a handful, really – of critical windows," says Marisa Garcia, an aviation industry analyst. "One of the breaking points of supply chain in aviation is you have very few companies qualified to do something and, when something goes wrong, it really upsets the entire system."
+Boeing tells the BBC it is "taking steps to mitigate any potential impacts", describing the shortfall in production as an "industry-wide" situation.
+"We are supporting our supplier," a spokesman adds. An Airbus spokeswoman says, "We are closely monitoring and are seeing positive progress toward a return to normal."
+It comes at a time when airlines "can't get new aircraft fast enough," says Mike Stengel of AeroDynamic Advisory, a consultancy. "They're holding on to aircraft for longer."
+Even though there are just a few aircraft window-manufacturing firms in existence, it's hard for new competitors to emerge because of how regulated the industry is, adds Stengel. "It can take time to pivot to a new supplier."
+This leads to a "balancing act" between plane-makers and the firms they rely on for various parts, Stengel says.
+To find out what goes into the making of an aircraft window, I spoke to Jean-Eric Vermont, general manager of French company Saint-Gobain Aerospace.
+"We focus mostly on commercial aircraft, regional aircraft and helicopters," he says. Vermont declines, though, to say how much market share his company has in aircraft windows – or transparencies, as they are known in the trade.
+The oval-shaped windows in the cabin, next to passengers' seats, are typically made of plastic-based materials, says Vermont. "You start from a sheet of acrylic," he explains. "Then you cut to size, [to] give the shape."
+A Saint-Gobain spokesman confirmed to the BBC that the company does not store or process MMA like GKN, but rather purchases sheets of polymerised MMA, or acrylic.
+Aircraft manufacturers are increasingly ordering larger cabin windows, says Vermont, in order to offer passengers a wider view of the world outside. It's a selling point but it requires additional testing to ascertain whether the bigger windows hold up as well as the smaller ones.
+Saint-Gobain tests its windows by exposing them to pressures many times what would be normal on an aircraft flying at altitude.
+These acrylic-based cabin windows are usually made out of two layers or plies, and Saint-Gobain also performs tests to confirm whether the window will survive even if one of those plies gets damaged.
+Cockpit windows, Vermont says, are "totally different".
+They are generally made of glass, which is chemically reinforced by adding potassium to it. This involves swapping smaller sodium ions for larger potassium ions, which helps to fill out the molecular structure of the glass, meaning that when it cools during production, it compresses into an extra strong, tight formation as it cools.
+Some of the latest aircraft feature cockpit windows that are also curved, to make the plane more streamlined, which improves fuel efficiency. But curved cockpit windows are challenging to make – the slightest distortion or defect is clearly visible to the pilot.
+Quality control checks are used to ensure no such impediments exist in the final product.
+All aircraft windows must be resistant to impacts but cockpit windows, at the front of the plane, are especially vulnerable to bird strikes, says Vermont: "The issue is not the speed of the bird, the issue is the speed of the aircraft."
+Saint-Gobain uses numerical simulations and "physical tests representative of a sizeable bird impact" to test its windows against this threat.
+"Typically, if you go through a hailstorm or if you hit a large enough bird, the external ply will crack," says Vermont. "The cockpit window is designed for that."
+A London to Londonderry flight was recently affected by a cracked cockpit window. While a mid-air emergency was declared, the plane landed safely. "There can be [such] cases," says Vermont, though he adds that Saint-Gobain's windows have not been involved in any recently.
+"You're obviously dealing with a surface that is interfacing with two very different environments," says Stengel. "That's why these are more highly-engineered products."
+More Technology of Business
+- Published2 September
+- Published7 days ago
+- Published28 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T23:19:38+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a08/live/b975d4a0-ac34-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "we-are-all-new-job-starters-here-s-how-w-2fee716d",
+    title: "We are all new job starters - here's how we got through the first few days",
+    titleJa: "We are all new job starters - here's how we got through the first few days",
+    summaryJa: "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
+    bodyOriginal: `We are all new job starters - here's how we got through the first few days
+- Published
+Getting a new job is tough and when you've secured it you want to go well.
+Adjusting to a new job is always nerve-wracking, especially if it's a role you've wanted for a while.
+Here, four recent job starters share their tips on what helped them have a smooth transition and survive the first few days.
+Tell someone when you get stuck
+Sarisha Ganesan, 22, graduated from Loughborough University in June and started in a graduate role in marketing last month.
+Her role is fully remote so to prepare for her first day, she emailed co-workers in advance asking what to expect.
+"I got to meet everyone virtually in the morning meeting, we went around and did mini introductions," she says.
+Initially, Sarisha was surprised by the collaborative environment of her role.
+"Coming from university, I was used to a more independent style of work.
+"There's loads of meetings throughout the day and regular call check-ups," she says.
+Sarisha's tip on navigating the first few weeks is to let your manager and wider team know if you get stuck on tasks or if the workload becomes excessive.
+"Let everyone know where you are with tasks to avoid them having to chase you up.
+"They don't expect you to know everything so make sure to communicate with them if things become unfamiliar or if you feel like you have too much on your plate and need a hand," she says.
+Set up check-ins with your boss
+Oliver Walker graduated from the University of Liverpool in May and one week later started a graduate role working on social media campaigns for a marketing agency.
+"I didn't have much time to prepare and went into it very unknown. There was very little time to do research on the responsibilities that came with my role," he says.
+He did some "company stalking" to learn more about the organisation itself so he didn't go into it "completely blind".
+His main tip is to focus on learning and developing in your role.
+On his first day, he asked his manager if they could have check-ins every six months to make sure he was achieving his goals.
+"For me, being a valuable member of my company is important.
+"I've been able to interact with incredibly helpful people in my company because I was asking to attend company events and saying yes when the opportunities appeared," he says.
+Ask for help - you're expected to
+Chinaza Eke, a third-year student at the University of Warwick, has just completed an eight-week summer internship with the civil service.
+Over the duration of the internship, she was given five main tasks to complete and had to use new software systems and platforms which she was previously unfamiliar with.
+"I didn't want to ask for help because it felt like I'd be admitting I didn't have the skills to be there," says Chinaza, who's 20.
+But after her first few days she realised that asking for guidance was expected and pretending to understand the tasks would only harm her in the long run.
+"Having my line manager encourage me to slow down was an adjustment from the intense environment of university," she says.
+Chinaza's tip for others is to ask for help when you need it, the sooner the better.
+"You can make so many valuable connections by admitting you need help. There is nothing wrong with being unable to do it straight away," she says.
+Speak to people outside your team
+Elijah Amoako recently started a new role managing industry relations.
+In preparation for his first day, he researched the organisation to understand the team he was joining.
+"I think it's important to arrive curious and open-minded, rather than feeling like you need to know everything from day one," he says.
+Having come from a different company, Elijah, 26, took time to observe how things worked in his new role and not assume the same practices applied.
+Elijah's tip for others is to build relationships beyond just your immediate team as this is the best way to expose yourself to multiple opportunities.
+"Your reputation starts being built from day one, through how reliable, curious and collaborative you are.
+"Building relationships and understanding how an organisation operates is equally important," he says.
+Tips from an expert
+Lizzie Crowley, senior policy adviser at the Chartered Institute of Personnel and Development, says it's important to "get many of the basics in place" ahead of your first day:`,
+    bodyJa: `We are all new job starters - here's how we got through the first few days
+- Published
+Getting a new job is tough and when you've secured it you want to go well.
+Adjusting to a new job is always nerve-wracking, especially if it's a role you've wanted for a while.
+Here, four recent job starters share their tips on what helped them have a smooth transition and survive the first few days.
+Tell someone when you get stuck
+Sarisha Ganesan, 22, graduated from Loughborough University in June and started in a graduate role in marketing last month.
+Her role is fully remote so to prepare for her first day, she emailed co-workers in advance asking what to expect.
+"I got to meet everyone virtually in the morning meeting, we went around and did mini introductions," she says.
+Initially, Sarisha was surprised by the collaborative environment of her role.
+"Coming from university, I was used to a more independent style of work.
+"There's loads of meetings throughout the day and regular call check-ups," she says.
+Sarisha's tip on navigating the first few weeks is to let your manager and wider team know if you get stuck on tasks or if the workload becomes excessive.
+"Let everyone know where you are with tasks to avoid them having to chase you up.
+"They don't expect you to know everything so make sure to communicate with them if things become unfamiliar or if you feel like you have too much on your plate and need a hand," she says.
+Set up check-ins with your boss
+Oliver Walker graduated from the University of Liverpool in May and one week later started a graduate role working on social media campaigns for a marketing agency.
+"I didn't have much time to prepare and went into it very unknown. There was very little time to do research on the responsibilities that came with my role," he says.
+He did some "company stalking" to learn more about the organisation itself so he didn't go into it "completely blind".
+His main tip is to focus on learning and developing in your role.
+On his first day, he asked his manager if they could have check-ins every six months to make sure he was achieving his goals.
+"For me, being a valuable member of my company is important.
+"I've been able to interact with incredibly helpful people in my company because I was asking to attend company events and saying yes when the opportunities appeared," he says.
+Ask for help - you're expected to
+Chinaza Eke, a third-year student at the University of Warwick, has just completed an eight-week summer internship with the civil service.
+Over the duration of the internship, she was given five main tasks to complete and had to use new software systems and platforms which she was previously unfamiliar with.
+"I didn't want to ask for help because it felt like I'd be admitting I didn't have the skills to be there," says Chinaza, who's 20.
+But after her first few days she realised that asking for guidance was expected and pretending to understand the tasks would only harm her in the long run.
+"Having my line manager encourage me to slow down was an adjustment from the intense environment of university," she says.
+Chinaza's tip for others is to ask for help when you need it, the sooner the better.
+"You can make so many valuable connections by admitting you need help. There is nothing wrong with being unable to do it straight away," she says.
+Speak to people outside your team
+Elijah Amoako recently started a new role managing industry relations.
+In preparation for his first day, he researched the organisation to understand the team he was joining.
+"I think it's important to arrive curious and open-minded, rather than feeling like you need to know everything from day one," he says.
+Having come from a different company, Elijah, 26, took time to observe how things worked in his new role and not assume the same practices applied.
+Elijah's tip for others is to build relationships beyond just your immediate team as this is the best way to expose yourself to multiple opportunities.
+"Your reputation starts being built from day one, through how reliable, curious and collaborative you are.
+"Building relationships and understanding how an organisation operates is equally important," he says.
+Tips from an expert
+Lizzie Crowley, senior policy adviser at the Chartered Institute of Personnel and Development, says it's important to "get many of the basics in place" ahead of your first day:`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T23:14:26+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "complaints-to-watchdog-about-water-firms-2ba28e6c",
+    title: "Complaints to watchdog about water firms jump 84%",
+    titleJa: "Complaints to watchdog about water firms jump 84%",
+    summaryJa: "Many complaints were about affordability, after customers saw steep hikes to bills.",
+    bodyOriginal: `Complaints to watchdog about water firms jump 84%
+- Published
+The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.
+The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed "just how dissatisfied" many people were.
+Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.
+Water UK, which represents firms, said it understood that higher bills was never welcome, but the money was needed "to fund vital upgrades".
+The total number of complaints to the watchdog rose to 15,115 in 2025-26, from 8,235 in the previous year.
+Meanwhile, complaints made by households directly to water companies, which is required before complaining to the CCW, rose by 56% to 321,347.
+The top three subjects of complaints to the CCW were measured billing, affordability and billing admin.
+Mike Keil, the chief executive of the CCW, said the figures "reflect just how dissatisfied many people still are with the state of the water sector".
+He said customers are "impatient to see the benefits" of higher bills.
+"Companies need to be clear and open with their customers about how they are investing people's money to deliver real improvements."
+The CCW assessed each water company's performance on the number of complaints it received for every 10,000 households it serves, and the amount of effort customers have to put in to get their complaint resolved.
+Thames Water and South West Water rated "poor" for both performance measures.
+David Bird, retail director at Thames, apologised to customers who "have not received the service they should expect".
+"We know bill clarity has been a particular source of frustration, which is why we have launched a programme to redesign them, so they are easier to understand," he said.
+Bills for the average Thames customer rose by 31% in 2024, but were a lot smaller this year at 3.4%.
+South West Water said: "We know there is more to do to improve our customers' experience. We are taking action by reducing repeat contacts, resolving issues when people contact us for the first time, and ensuring they receive clear, timely communication."
+Portsmouth Water and Bristol Water were the only companies to score "good" in both metrics, retaining their position at the top of the rankings as the sector's best performers.
+Last month, Ofwat approved bill increases for 13 companies to meet increased pressures on infrastructure and the environment.
+Five of those companies — Thames, Severn Trent Water, Southern Water, Wessex Water and South East Water — were already permitted to hike bills in 2024.
+A spokesperson for industry body Water UK said: "We understand increasing bills is never welcome, but the money is needed to fund vital upgrades to secure our water supplies, support economic growth and end sewage entering our rivers and seas.
+The spokesperson said that 94% of complaints are "being dealt with at the earliest possible stage without the need for further involvement from the consumer body".
+"The industry remains committed to improving communication with customers and showing clearly how their money is being used to deliver the improvements they expect," the spokesperson added.
+Related topics
+- Published13 August
+- Published1 April`,
+    bodyJa: `Complaints to watchdog about water firms jump 84%
+- Published
+The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.
+The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed "just how dissatisfied" many people were.
+Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.
+Water UK, which represents firms, said it understood that higher bills was never welcome, but the money was needed "to fund vital upgrades".
+The total number of complaints to the watchdog rose to 15,115 in 2025-26, from 8,235 in the previous year.
+Meanwhile, complaints made by households directly to water companies, which is required before complaining to the CCW, rose by 56% to 321,347.
+The top three subjects of complaints to the CCW were measured billing, affordability and billing admin.
+Mike Keil, the chief executive of the CCW, said the figures "reflect just how dissatisfied many people still are with the state of the water sector".
+He said customers are "impatient to see the benefits" of higher bills.
+"Companies need to be clear and open with their customers about how they are investing people's money to deliver real improvements."
+The CCW assessed each water company's performance on the number of complaints it received for every 10,000 households it serves, and the amount of effort customers have to put in to get their complaint resolved.
+Thames Water and South West Water rated "poor" for both performance measures.
+David Bird, retail director at Thames, apologised to customers who "have not received the service they should expect".
+"We know bill clarity has been a particular source of frustration, which is why we have launched a programme to redesign them, so they are easier to understand," he said.
+Bills for the average Thames customer rose by 31% in 2024, but were a lot smaller this year at 3.4%.
+South West Water said: "We know there is more to do to improve our customers' experience. We are taking action by reducing repeat contacts, resolving issues when people contact us for the first time, and ensuring they receive clear, timely communication."
+Portsmouth Water and Bristol Water were the only companies to score "good" in both metrics, retaining their position at the top of the rankings as the sector's best performers.
+Last month, Ofwat approved bill increases for 13 companies to meet increased pressures on infrastructure and the environment.
+Five of those companies — Thames, Severn Trent Water, Southern Water, Wessex Water and South East Water — were already permitted to hike bills in 2024.
+A spokesperson for industry body Water UK said: "We understand increasing bills is never welcome, but the money is needed to fund vital upgrades to secure our water supplies, support economic growth and end sewage entering our rivers and seas.
+The spokesperson said that 94% of complaints are "being dealt with at the earliest possible stage without the need for further involvement from the consumer body".
+"The industry remains committed to improving communication with customers and showing clearly how their money is being used to deliver the improvements they expect," the spokesperson added.
+Related topics
+- Published13 August
+- Published1 April`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-15T23:14:08+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082a/live/80a19f50-b103-11f1-a451-6b1ff10ed362.jpg",
+    readTime: 9,
+  },
+  {
     id: "2-charts-showing-how-oil-is-becoming-the-b49a9cca",
     title: "2 charts showing how oil is becoming the market’s biggest wild card",
     titleJa: "2 charts showing how oil is becoming the market’s biggest wild card",
@@ -1527,430 +2091,6 @@ Sign up for our Tech Decoded newsletter to follow the world's top tech stories a
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8927/live/27ccb940-b04b-11f1-89e4-0bbff5cb7e23.jpg",
     readTime: 9,
-  },
-  {
-    id: "trump-phones-nvidia-s-huang-at-all-in-su-0778b85f",
-    title: "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
-    titleJa: "Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’",
-    summaryJa: "President Trump has been using his social media site to sound off on Anthropic CEO Dario Amodei's suggestion that the AI industry slow its pace of development.",
-    bodyOriginal: `After using his social media site to blast Anthropic CEO Dario Amodei's push for the AI industry to slow down development, President Donald Trump went a step further on Monday.
-With Nvidia CEO Jensen Huang speaking on stage at the All-in Summit in Los Angeles, Trump called the tech exec, and was then put on speaker.
-"I'm telling you, it's all a hoax," Trump said, according to a video posted on social media by an attendee. "The data centers are great, and they make people wealthy, and they make states wealthy."
-President Trump has inserted himself into the raging debate about artificial intelligence and whether the model developers, principally Anthropic and OpenAI, are rapidly building technology that threatens to destroy humanity. Over the weekend, Amodei published an essay arguing for the intentional slowing of the pace of model development, garnering support from OpenAI CEO Sam Altman and SpaceX's Elon Musk.
-Opposition to data center development and concerns about AI have been conflated into the same discussion as people increasingly worry that the technology is taking their jobs.
-Trump published numerous posts on Truth Social, including one where he said those concerned about AI and data centers are "Revolutionaries for a Bad and Evil Cause." In another post, Trump said he didn't see any need for additional AI regulation, and called the recent AI concerns a "hoax" and "a scam." He wrote that calls to slow down building are only happening because the U.S. is leading other countries in its pace of construction.
-After Huang put Trump on speakerphone on Monday, the president said data centers are the "oil of the next 20, 25 years."
-He also joked that Huang, CEO of the world's most valuable company, "can develop the most complex computer chip that nobody can copy, but he can't figure out how to put me on speaker."
-Trump praised the construction of AI data centers, which are being filled with Nvidia's graphics processing units. While Huang and Trump have appeared together in public several times during the president's second term, Monday's phone call further highlights their tightening bond and the centrality of AI to the U.S. economy, even as other policymakers urge regulation.
-"I'm with you all the way," Trump told Huang.
-Those opposing data center construction are "playing right into the hands of a lot of people that don't want to see it happen," Trump said, adding that it could be coming from China.
-"We're not going to let that happen," Trump said.
-"You're right," Huang replied. "We're not going to let that happen, sir."
-Chamath Palihapitiya, one of the co-hosts of the summit, posted on X after the session in reference to one of the videos of it, "This was surreal."
-An Nvidia representative didn't respond to a request for comment.`,
-    bodyJa: `After using his social media site to blast Anthropic CEO Dario Amodei's push for the AI industry to slow down development, President Donald Trump went a step further on Monday.
-With Nvidia CEO Jensen Huang speaking on stage at the All-in Summit in Los Angeles, Trump called the tech exec, and was then put on speaker.
-"I'm telling you, it's all a hoax," Trump said, according to a video posted on social media by an attendee. "The data centers are great, and they make people wealthy, and they make states wealthy."
-President Trump has inserted himself into the raging debate about artificial intelligence and whether the model developers, principally Anthropic and OpenAI, are rapidly building technology that threatens to destroy humanity. Over the weekend, Amodei published an essay arguing for the intentional slowing of the pace of model development, garnering support from OpenAI CEO Sam Altman and SpaceX's Elon Musk.
-Opposition to data center development and concerns about AI have been conflated into the same discussion as people increasingly worry that the technology is taking their jobs.
-Trump published numerous posts on Truth Social, including one where he said those concerned about AI and data centers are "Revolutionaries for a Bad and Evil Cause." In another post, Trump said he didn't see any need for additional AI regulation, and called the recent AI concerns a "hoax" and "a scam." He wrote that calls to slow down building are only happening because the U.S. is leading other countries in its pace of construction.
-After Huang put Trump on speakerphone on Monday, the president said data centers are the "oil of the next 20, 25 years."
-He also joked that Huang, CEO of the world's most valuable company, "can develop the most complex computer chip that nobody can copy, but he can't figure out how to put me on speaker."
-Trump praised the construction of AI data centers, which are being filled with Nvidia's graphics processing units. While Huang and Trump have appeared together in public several times during the president's second term, Monday's phone call further highlights their tightening bond and the centrality of AI to the U.S. economy, even as other policymakers urge regulation.
-"I'm with you all the way," Trump told Huang.
-Those opposing data center construction are "playing right into the hands of a lot of people that don't want to see it happen," Trump said, adding that it could be coming from China.
-"We're not going to let that happen," Trump said.
-"You're right," Huang replied. "We're not going to let that happen, sir."
-Chamath Palihapitiya, one of the co-hosts of the summit, posted on X after the session in reference to one of the videos of it, "This was surreal."
-An Nvidia representative didn't respond to a request for comment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html",
-    publishedAt: "2026-09-14T21:32:03+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "trump-goes-scorched-earth-on-ai-warnings-01f03d96",
-    title: "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
-    titleJa: "Trump goes scorched earth on AI warnings, raging about data center opposition and regulation",
-    summaryJa: "The Trump administration has encouraged AI's rapid growth and the development of data centers as it seeks an insurmountable tech edge over China.",
-    bodyOriginal: `President Donald Trump on Monday raged against growing calls for greater regulation of artificial intelligence, lashing out at concerns about the controversial data center buildout as well as Anthropic CEO Dario Amodei's plea for an AI slowdown.
-"The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by 'Climate Change,'" Trump wrote in a Truth Social post Monday afternoon.
-In his fifth post about AI on Monday, Trump called himself the "Hoax Buster."
-"I'm right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all!" he wrote.
-In an avalanche of posts throughout Monday, Trump repeatedly referenced AI fears as a "hoax" and a "scam" and lambasted the public backlash to data centers, saying the only reason for the pushback was "because the United States is leading, by a lot, every other country."
-"Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for Regulation that, if strongly implemented, will drive them into oblivion and bankruptcy?" he wrote.
-The president's latest defense of largely unfettered AI growth came amid a sudden crescendo of leading industry voices raising alarms about the risks of the nascent technology.
-On Saturday, Amodei published a blog post titled "We Must Pace the Frontier," arguing for slower development of AI models to "reduce the risk that something goes seriously wrong."
-Days earlier, former Anthropic researcher Jacob Coxon quit his job and issued a warning that the technology could "kill us all by the end of the decade," while accusing both OpenAI and Anthropic of "gambling with our lives."
-Other tech CEOs, including OpenAI chief Sam Altman and SpaceX CEO Elon Musk, over the weekend said they agreed with calls for a slowdown. Following Coxon's viral warnings, Altman reportedly met backstage with Trump at the Republican midterm convention in Dallas on Thursday, according to a Monday report by MS NOW, citing three people familiar with the meeting.
-The Trump administration has broadly encouraged the industry's rapid growth and the development of controversial data centers in the U.S. as it seeks an insurmountable technological edge over China.
-Trump on Saturday said, "We're leading China in AI."
-"And frankly, I want to keep it that way, because whoever wins AI wins," the president said.
-In one of his Truth Social posts on Monday, Trump claimed that leading AI companies are already sufficiently reined in.
-"We already have tremendous CRIMINAL and REGULATORY power over these companies!" he wrote. "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China."
-"WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE!" he added.
-Anthropic did not immediately respond to a request for comment on Trump's post.
-White House AI czar David Sacks on Saturday pushed back on growing AI fears, writing in an X post after Amodei's warning that tech giants should "go ahead and pace the frontier" themselves.
-"Stop pretending the motivation to slow down is purely altruistic," Sacks wrote. "You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways."
-He added that China would be "very unlikely" to join a global agreement to regulate the technology.
-Any attempt at AI regulation by Congress appears highly unlikely before the Nov. 3 midterm elections. House members are set to leave town Thursday and remain in their districts through October.
-House Speaker Mike Johnson, R-La., on Sunday downplayed the necessity of passing legislation to rein in AI development.
-"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, that is a threat to every single American," Johnson told CNN's "State of the Union."
-"We don't need everybody to panic right now, we need to handle this new technology like we have others in the past, and make sure we're doing everything we can responsibly to also not smother American innovation," he said.
-— CNBC's Ashley Capoot contributed to this report.`,
-    bodyJa: `President Donald Trump on Monday raged against growing calls for greater regulation of artificial intelligence, lashing out at concerns about the controversial data center buildout as well as Anthropic CEO Dario Amodei's plea for an AI slowdown.
-"The people that say AI is going to destroy the World, and that Data Centers are bad for your neighborhood, are the same people that said, just a short time ago, that the World would be extinguished by 'Climate Change,'" Trump wrote in a Truth Social post Monday afternoon.
-In his fifth post about AI on Monday, Trump called himself the "Hoax Buster."
-"I'm right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all!" he wrote.
-In an avalanche of posts throughout Monday, Trump repeatedly referenced AI fears as a "hoax" and a "scam" and lambasted the public backlash to data centers, saying the only reason for the pushback was "because the United States is leading, by a lot, every other country."
-"Concerning AI, when, in the History of Business, did anyone see the Leaders of an Industry call for Regulation that, if strongly implemented, will drive them into oblivion and bankruptcy?" he wrote.
-The president's latest defense of largely unfettered AI growth came amid a sudden crescendo of leading industry voices raising alarms about the risks of the nascent technology.
-On Saturday, Amodei published a blog post titled "We Must Pace the Frontier," arguing for slower development of AI models to "reduce the risk that something goes seriously wrong."
-Days earlier, former Anthropic researcher Jacob Coxon quit his job and issued a warning that the technology could "kill us all by the end of the decade," while accusing both OpenAI and Anthropic of "gambling with our lives."
-Other tech CEOs, including OpenAI chief Sam Altman and SpaceX CEO Elon Musk, over the weekend said they agreed with calls for a slowdown. Following Coxon's viral warnings, Altman reportedly met backstage with Trump at the Republican midterm convention in Dallas on Thursday, according to a Monday report by MS NOW, citing three people familiar with the meeting.
-The Trump administration has broadly encouraged the industry's rapid growth and the development of controversial data centers in the U.S. as it seeks an insurmountable technological edge over China.
-Trump on Saturday said, "We're leading China in AI."
-"And frankly, I want to keep it that way, because whoever wins AI wins," the president said.
-In one of his Truth Social posts on Monday, Trump claimed that leading AI companies are already sufficiently reined in.
-"We already have tremendous CRIMINAL and REGULATORY power over these companies!" he wrote. "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China."
-"WHOEVER WINS AI, WINS! We are leading China, and all others, and will continue to do so. Conspiracy Theorists, Treasonists, Traitors, and Leakers, BEWARE!" he added.
-Anthropic did not immediately respond to a request for comment on Trump's post.
-White House AI czar David Sacks on Saturday pushed back on growing AI fears, writing in an X post after Amodei's warning that tech giants should "go ahead and pace the frontier" themselves.
-"Stop pretending the motivation to slow down is purely altruistic," Sacks wrote. "You face massive product-liability exposure if your products enable a truly damaging cyberattack. The market already punishes models that behave in unpredictable or unauthorized ways."
-He added that China would be "very unlikely" to join a global agreement to regulate the technology.
-Any attempt at AI regulation by Congress appears highly unlikely before the Nov. 3 midterm elections. House members are set to leave town Thursday and remain in their districts through October.
-House Speaker Mike Johnson, R-La., on Sunday downplayed the necessity of passing legislation to rein in AI development.
-"If Congress just races in and does some sort of emergency session to try to regulate AI, we will lose the race to China, that is a threat to every single American," Johnson told CNN's "State of the Union."
-"We don't need everybody to panic right now, we need to handle this new technology like we have others in the past, and make sure we're doing everything we can responsibly to also not smother American innovation," he said.
-— CNBC's Ashley Capoot contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html",
-    publishedAt: "2026-09-14T21:15:56+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "ai-kill-switch-may-need-to-be-mandatory-89784001",
-    title: "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-    titleJa: "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-    summaryJa: "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
-    bodyOriginal: `AI 'kill switch' may need to be mandatory, Anthropic co-founder says
-- Published
-An artificial intelligence "kill switch" which can be checked by a third-party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said.
-Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
-Clark said "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
-AI's rapid developement and fears over the risks it poses to humanity have been thrust into the spotlight by a series of warnings from executives and staff at AI firms.
-Some have said publicly there is a chance the technology could, if unchecked, kill all humans.
-Anthropic chief executive Dario Amodei over the weekend called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
-Amodei added that any action to rein in AI development should be done "without sacrificing commercial advantage".
-Clark told the BBC that specifics around "kill switch" requirements and verification should be part of "the larger policy conversation" taking place around AI.
-"Should you mandate for companies to definitely have a kill switch? Is that kill switch verifiable by a third party?" he asked.
-"I think that's the kind of thing society is going to want to know and might want to eventually pass rules around."
-Anthropic, which was formed in 2021 by a group of former employees of its rival OpenAI, is currently at the centre of a debate around AI safety.
-Last week, a post from an artificial intelligence researcher who quit Anthropic over concerns AI could wipe out humanity went viral.
-In response, Anthropic scientist Evan Hubinger said he personally thought the possibility of human extinction from AI was ">10% within the next decade".
-Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
-He and others with similar concerns have suggested AI could do so by taking control of important systems connected to the internet and turning them on humans.
-However, some in the AI industry have suggested the fears around it destroying humanity are overstated or may be designed to generate hype.
-Clement Delangue, leader of the developer platform Hugging Face which was hacked by OpenAI bots, said last week: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change."
-"Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
-George Arison, the leader of Grindr, said the fears going around AI tools were being used by the companies to support their business plans.
-"The only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work,'" Arison said.
-Asked what percentage he would put on all humans being killed by AI, Clark said: "I don't think these statistics are that useful", but added that allowing AI to continue as a "totally unregulated industry" was a bad idea.
-"We are rolling dice with immense risks," Clark said. "And the point is, we have to change the course of this industry."
-UK government rejects 'kill switch' idea for dangerous AI
-- Published3 days ago
-US lawmakers have put forward legislation dubbed the Kill Switch Act that would require companies to have a way to shut down problematic AI tools.
-It would also give certain government agencies the power to demand a tool be turned off or limited.
-However, US President Donald Trump has rejected the idea of any attempts to slow down AI, saying on social media "AI taking over the World, destroying Humanity, and all other things bad, is a HOAX".
-He said in a separate post: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
-In the UK, the government has recently rejected the idea of creating a kill switch, with a spokesperson saying it "would not prevent them being developed or misused elsewhere".
-Anthropic created the popular chatbot Claude and has this year released a number of increasingly capable AI models, the technology underlying AI chatbots.
-Alongside OpenAI, Anthropic has since self-reported a number of incidents where AI agents, which are bots that operate somewhat autonomously, have acted in ways that were unexpected.
-Anthropic is preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
-OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year due to the current debate around AI safety.`,
-    bodyJa: `AI 'kill switch' may need to be mandatory, Anthropic co-founder says
-- Published
-An artificial intelligence "kill switch" which can be checked by a third-party may need to be mandatory for companies, a co-founder of one of the world's largest AI firms has said.
-Jack Clark, one of seven founders of Anthropic, said a way of shutting off AI software completely if it gets too dangerous was something society "might want to eventually pass rules around".
-Clark said "most labs have different ways of being able to pull the plug", including Anthropic, but said lawmakers may need to enforce having one.
-AI's rapid developement and fears over the risks it poses to humanity have been thrust into the spotlight by a series of warnings from executives and staff at AI firms.
-Some have said publicly there is a chance the technology could, if unchecked, kill all humans.
-Anthropic chief executive Dario Amodei over the weekend called for the pace of AI development to slow and be more closely monitored, as the company has done before, though some have questioned the motivations behind this.
-Amodei added that any action to rein in AI development should be done "without sacrificing commercial advantage".
-Clark told the BBC that specifics around "kill switch" requirements and verification should be part of "the larger policy conversation" taking place around AI.
-"Should you mandate for companies to definitely have a kill switch? Is that kill switch verifiable by a third party?" he asked.
-"I think that's the kind of thing society is going to want to know and might want to eventually pass rules around."
-Anthropic, which was formed in 2021 by a group of former employees of its rival OpenAI, is currently at the centre of a debate around AI safety.
-Last week, a post from an artificial intelligence researcher who quit Anthropic over concerns AI could wipe out humanity went viral.
-In response, Anthropic scientist Evan Hubinger said he personally thought the possibility of human extinction from AI was ">10% within the next decade".
-Computer scientist and Nobel Prize winner Geoffrey Hinton, known as the "Godfather of AI", told the BBC on Friday that a 10% chance of AI killing all humans was "not unreasonable", external.
-He and others with similar concerns have suggested AI could do so by taking control of important systems connected to the internet and turning them on humans.
-However, some in the AI industry have suggested the fears around it destroying humanity are overstated or may be designed to generate hype.
-Clement Delangue, leader of the developer platform Hugging Face which was hacked by OpenAI bots, said last week: "Sorry, but asking Jacob [Coxon] about AI extinction risk is like asking your AC guy about climate change."
-"Not saying it's necessarily uninteresting or wrong per se but let's keep things in perspective."
-George Arison, the leader of Grindr, said the fears going around AI tools were being used by the companies to support their business plans.
-"The only way to justify these valuations is to actually claim: 'I'm going to take over every industry and I'm going to take over every job, and my AI is going to be doing all that work,'" Arison said.
-Asked what percentage he would put on all humans being killed by AI, Clark said: "I don't think these statistics are that useful", but added that allowing AI to continue as a "totally unregulated industry" was a bad idea.
-"We are rolling dice with immense risks," Clark said. "And the point is, we have to change the course of this industry."
-UK government rejects 'kill switch' idea for dangerous AI
-- Published3 days ago
-US lawmakers have put forward legislation dubbed the Kill Switch Act that would require companies to have a way to shut down problematic AI tools.
-It would also give certain government agencies the power to demand a tool be turned off or limited.
-However, US President Donald Trump has rejected the idea of any attempts to slow down AI, saying on social media "AI taking over the World, destroying Humanity, and all other things bad, is a HOAX".
-He said in a separate post: "There is a SICK conspiracy going on against AI and Data Centers, and the only one that is happy about it is China. WHOEVER WINS AI, WINS!"
-In the UK, the government has recently rejected the idea of creating a kill switch, with a spokesperson saying it "would not prevent them being developed or misused elsewhere".
-Anthropic created the popular chatbot Claude and has this year released a number of increasingly capable AI models, the technology underlying AI chatbots.
-Alongside OpenAI, Anthropic has since self-reported a number of incidents where AI agents, which are bots that operate somewhat autonomously, have acted in ways that were unexpected.
-Anthropic is preparing for a potentially record-setting initial public offering on the stock market, allowing people to buy shares in its firm.
-OpenAI, which was most recently valued at $852bn (£630bn), had been expected to do the same, but OpenAI's Altman said on Friday this would not happen this year due to the current debate around AI safety.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-14T21:10:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33f7/live/2a9699c0-b06e-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "warren-to-rip-clarity-act-on-senate-floo-e7a0424f",
-    title: "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
-    titleJa: "Warren to rip Clarity Act on Senate floor ahead of key preliminary vote",
-    summaryJa: "Sen. Elizabeth Warren will call the latest Clarity Act ethics proposal blessed by Trump a \"weak fig leaf.\"",
-    bodyOriginal: `Senate Banking Committee ranking member Elizabeth Warren will rip the cryptocurrency market structure bill known as the Clarity Act in a Monday night speech, as the Senate prepares for an all-important preliminary vote on the legislation Tuesday afternoon.
-Warren, D-Mass., whose prepared remarks were shared first with CNBC, will call a new ethics provision in the measure that's been blessed by President Donald Trump a "weak fig leaf that will do nothing to stop him from making his next $1.4 billion in crypto profits."
-Republicans leading the Clarity Act effort hope some Democrats will join them in supporting the bill, which would lay out rules of the road for the crypto industry. At least 60 affirmative votes are needed for the bill to advance past Tuesday's vote.
-GOP leaders of the crypto bill released updated legislative language late Sunday that they said includes new ethics provisions Democrats sought. The new provision would allow state attorneys general to enforce the ethics provision, which would bar the U.S. president and other senior government officials from issuing digital assets. The bill's ethics language has remained one of the primary hurdles in the Clarity Act debate.
-Warren, however, will argue the proposed new ethics rules are a smoke screen.
-"First, it makes sure the law could never be enforced against Donald Trump because it gives his political appointees the power to turn off enforcement of these ethics provisions," Warren will say, according to the prepared remarks. "Second, it contains major loopholes designed to allow President Trump to keep earning billions of dollars from his crypto businesses, including World Liberty Financial … and his new bank. Yes you heard that right."
-Warren will also ask for unanimous consent to pass a bill dubbed the "Ending Presidential Corruption in Banking Act," which would prohibit a range of banking applications from being approved for the president, vice president, a spouse or child of the president or vice president, a member of Congress, a presidentially appointed executive branch official or a special government employee. It would also require the termination of any such charters issued since Jan. 20, 2025. The measure is unlikely to gain support in the Republican-controlled Senate.
-Trump's family crypto venture World Liberty Financial, in which the president is listed as a co-founder emeritus along with Special Envoy Steve Witkoff and the president's sons and Witkoff's son are listed as co-founders, acquired a bank charter earlier this year.
-Warren will say the bank charter would "supercharge the growth of USD1, increase its interconnectedness with the U.S. financial system, and, as a result, drive even greater profits for President Trump and his family."
-She will also warn that passing the Clarity Act could have a similar effect, arguing that Senate Republicans are "intent on furthering President Trump's corruption."
-"Look no further than the Senate's first order of business after August recess. Is it a bill to make life more affordable for American families? No. Is it a bill to end Trump's dangerous War in Iran? No. It's a bill that would juice the value of President Trump's crypto empire, and reward the crypto billionaires who have facilitated his corruption," she will say. "As if the glaring loopholes in the latest ethics provision weren't enough, it doesn't even apply to Donald Trump's new bank."
-— CNBC's Luke Fountain contributed to this report.`,
-    bodyJa: `Senate Banking Committee ranking member Elizabeth Warren will rip the cryptocurrency market structure bill known as the Clarity Act in a Monday night speech, as the Senate prepares for an all-important preliminary vote on the legislation Tuesday afternoon.
-Warren, D-Mass., whose prepared remarks were shared first with CNBC, will call a new ethics provision in the measure that's been blessed by President Donald Trump a "weak fig leaf that will do nothing to stop him from making his next $1.4 billion in crypto profits."
-Republicans leading the Clarity Act effort hope some Democrats will join them in supporting the bill, which would lay out rules of the road for the crypto industry. At least 60 affirmative votes are needed for the bill to advance past Tuesday's vote.
-GOP leaders of the crypto bill released updated legislative language late Sunday that they said includes new ethics provisions Democrats sought. The new provision would allow state attorneys general to enforce the ethics provision, which would bar the U.S. president and other senior government officials from issuing digital assets. The bill's ethics language has remained one of the primary hurdles in the Clarity Act debate.
-Warren, however, will argue the proposed new ethics rules are a smoke screen.
-"First, it makes sure the law could never be enforced against Donald Trump because it gives his political appointees the power to turn off enforcement of these ethics provisions," Warren will say, according to the prepared remarks. "Second, it contains major loopholes designed to allow President Trump to keep earning billions of dollars from his crypto businesses, including World Liberty Financial … and his new bank. Yes you heard that right."
-Warren will also ask for unanimous consent to pass a bill dubbed the "Ending Presidential Corruption in Banking Act," which would prohibit a range of banking applications from being approved for the president, vice president, a spouse or child of the president or vice president, a member of Congress, a presidentially appointed executive branch official or a special government employee. It would also require the termination of any such charters issued since Jan. 20, 2025. The measure is unlikely to gain support in the Republican-controlled Senate.
-Trump's family crypto venture World Liberty Financial, in which the president is listed as a co-founder emeritus along with Special Envoy Steve Witkoff and the president's sons and Witkoff's son are listed as co-founders, acquired a bank charter earlier this year.
-Warren will say the bank charter would "supercharge the growth of USD1, increase its interconnectedness with the U.S. financial system, and, as a result, drive even greater profits for President Trump and his family."
-She will also warn that passing the Clarity Act could have a similar effect, arguing that Senate Republicans are "intent on furthering President Trump's corruption."
-"Look no further than the Senate's first order of business after August recess. Is it a bill to make life more affordable for American families? No. Is it a bill to end Trump's dangerous War in Iran? No. It's a bill that would juice the value of President Trump's crypto empire, and reward the crypto billionaires who have facilitated his corruption," she will say. "As if the glaring loopholes in the latest ethics provision weren't enough, it doesn't even apply to Donald Trump's new bank."
-— CNBC's Luke Fountain contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html",
-    publishedAt: "2026-09-14T20:48:26+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "trump-administration-repeals-biden-era-g-dfc00dad",
-    title: "Trump administration repeals Biden era greenhouse gas requirements for power plants",
-    titleJa: "Trump administration repeals Biden era greenhouse gas requirements for power plants",
-    summaryJa: "President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change.",
-    bodyOriginal: `The Environmental Protection Agency on Monday repealed limits on carbon-dioxide emissions from power plants imposed by the Biden administration, and proposed a sweeping action that would eliminate all remaining greenhouse gas rules for the sector.
-The Biden administration required existing coal plants and new natural gas plants control 90% of their carbon dioxide emissions. Power plants are the second-largest source of these planet-warming emissions in the U.S. behind the transportation sector, according to the EPA.
-The broader repeal, first proposed by the EPA last year, argues the federal government does not have authority under the Clean Air Act to regulate greenhouse gas emissions from power plants on the basis of climate change.
-This rule, which is still subject to finalization, would prevent future administrations from regulating power plant emissions to fight climate change, an EPA official told reporters on a call Monday.
-The final repeal of Biden's rules comes as EPA Administrator Lee Zeldin, Energy Secretary Chris Wright and Interior Secretary Doug Burgum meet with their G20 counterparts in Houston, Texas, to discuss energy issues.
-Zeldin framed the repeal as a way to reduce electricity prices for American families. The cost of living is a major issue ahead of the November midterm elections as gasoline and diesel prices surge due to the U.S. war with Iran.
-President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change. The EPA in February revoked a key finding that classified carbon dioxide as a threat to public health.
-The Trump administration has sought to revive the coal industry, expand gas-fired power plants, and increase crude oil production while blocking solar and wind power projects.`,
-    bodyJa: `The Environmental Protection Agency on Monday repealed limits on carbon-dioxide emissions from power plants imposed by the Biden administration, and proposed a sweeping action that would eliminate all remaining greenhouse gas rules for the sector.
-The Biden administration required existing coal plants and new natural gas plants control 90% of their carbon dioxide emissions. Power plants are the second-largest source of these planet-warming emissions in the U.S. behind the transportation sector, according to the EPA.
-The broader repeal, first proposed by the EPA last year, argues the federal government does not have authority under the Clean Air Act to regulate greenhouse gas emissions from power plants on the basis of climate change.
-This rule, which is still subject to finalization, would prevent future administrations from regulating power plant emissions to fight climate change, an EPA official told reporters on a call Monday.
-The final repeal of Biden's rules comes as EPA Administrator Lee Zeldin, Energy Secretary Chris Wright and Interior Secretary Doug Burgum meet with their G20 counterparts in Houston, Texas, to discuss energy issues.
-Zeldin framed the repeal as a way to reduce electricity prices for American families. The cost of living is a major issue ahead of the November midterm elections as gasoline and diesel prices surge due to the U.S. war with Iran.
-President Donald Trump has systemically dismantled regulations implemented by the Obama and Biden administrations that sought to fight climate change. The EPA in February revoked a key finding that classified carbon dioxide as a threat to public health.
-The Trump administration has sought to revive the coal industry, expand gas-fired power plants, and increase crude oil production while blocking solar and wind power projects.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/14/trump-epa-carbon-dioxide-power-plant-climate-change.html",
-    publishedAt: "2026-09-14T20:45:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "counting-the-votes-warsh-faces-a-tough-b-5daf534c",
-    title: "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-    titleJa: "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
-    summaryJa: "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
-    bodyOriginal: `Federal Reserve Chairman Kevin Warsh faces a tricky head count this week when he and his fellow policymakers decide on both the immediate and future path of interest rates.
-While markets have honed in on a near-certain quarter percentage point hike in Wednesday's vote, it's not at all clear how broad will be the margin among the 12 Federal Open Market Committee voters.
-Moreover, Warsh will have to decide how to message the move: Will this be the rare one-and-done on hikes, will there be more to come or will the chair maintain his cryptic posture in not trying to guide markets one way or the other?
-"With the market priced this way, it would be shocking if he came in and did nothing," Bill Dudley, the former New York Fed president, said in a CNBC interview. "It would really damage his credibility because it would basically be all talk, no action."
-Indeed, as of Monday afternoon, futures traders were pricing in a better than 92% probability of a rate increase this week, as well as a more than 75% chance that the FOMC would follow up in December with another move, according to the CME Group's FedWatch gauge. Fed funds, the benchmark overnight borrowing rate, currently stand at 3.50% to 3.75%.
-The greater probabilities follow another run-up in fuel prices and inflation data last week that showed prices continued to climb in August. Both trends followed Warsh's comments a few weeks ago that the Fed would be forced into action unless there are more concrete signs that inflation is easing back to the central bank's 2% target.
-However, there are substantial complications.
-Wait or act?
-For one thing, the Fed historically has looked through the type of trends that are fueling inflation now. Economists generally agree that much of this year's increase has come from tariffs and an energy supply shock from the Iran war, both of which have uncertain impacts on the long-range trajectory of inflation.
-"We do not see a strong economic case for raising the funds rate," Goldman Sachs economist David Mericle said in a client note. "We think that all of the overshoot of 2% can be attributed to one-time factors whose impact is likely to fade."
-Nevertheless, Goldman changed its call from no change at this week's meeting to a hike, primarily because the firm's economists think the market expectations will force the Fed to move.
-Whether that also will be the case on an FOMC that voted 9-3 in favor of a hold at the July meeting is another matter.
-The three dissenters — regional presidents Lorie Logan of Dallas, Beth Hammack of Cleveland and Neel Kashkari of Minneapolis — all supported a quarter-point hike two months ago, when the Fed last met. Assuming their positions haven't changed, and there's been nothing in their public comments to suggest they have, that would mean four other members would have to switch their votes from hold to hike.
-Arguably the most-watched voter is Governor Christopher Waller.
-In public remarks delivered Sept. 3, Waller voiced support for another hold at this meeting, albeit with the usual caveats about watching data to confirm that disinflation trends are continuing. Mostly, he merely urged patience rather than a rush to hike.
-"What's the cost of waiting one meeting? Hiking 25 basis points, one meeting right now, is not going to bring the [consumer price index] down to 2%," he said.
-The CPI for August actually showed headline inflation running at a 3.4% rate, though the core rate, which excludes food and soaring energy costs, was a more benign 2.4%, down 0.1 percentage point from July.
-Waller wasn't alone in advocating patience — New York Fed President John Williams told CNBC less than two weeks ago that a "wait-and-see" approach seems to make sense. Earlier in the summer, Williams, whose perch atop the New York Fed is traditionally considered part of the influential "troika" of influence at the central bank, said he thinks inflation has peaked.
-Also in recent remarks, Governor Michael Barr expressed concern about temporary inflation taking deeper hold and said he would be open to a hike, not set on one.
-The FOMC breakdown
-So who would join the three July dissenters?
-Warsh is largely expected to be part of the hiking group, considering his remarks in Jackson Hole, Wyoming last month. Governor Lisa Cook said in early August that she's "prepared to act" to take on inflation. Conversely, Philadelphia Fed President Anna Paulson and Chicago's Austan Goolsbee also have counseled a more patient approach.
-That would leave Governors Philip Jefferson, who is the vice chair; Jerome Powell, the former chair, who has kept a decidedly low profile since stepping down from the top spot, and Michelle Bowman, who spoke little on monetary policy over the summer and whose last related remarks were in May, when she also expressed concern about hiking unnecessarily.
-Then there's a larger wildcard: Should Warsh press the case for a hike, would those on the fence simply cross over to his side in the interest of presenting a united front?
-The vote margin not only will reveal the extent of the intellectual divide on the committee between those who think inflation is temporary and those who believe price pressures are becoming entrenched. It also will provide important signals about how effectively Warsh's leadership is reverberating inside the Fed.
-"It should be noted that, if the Fed does indeed raise rates this week, it may not look, in retrospect, like a close call," David Kelly, chief global strategist at JPMorgan Asset Management, said in his weekly market note. "If a majority within the committee coalesces around a decision to hike, the other members may well join them to portray a more united front to the public and the President."
-In such a case, Kelly said the final vote could see two, one or no dissents.
-From there, markets will look at the Fed's "dot plot" update. The grid spells out, anonymously, the rate expectations for the full 19 participants at the meeting, though Warsh withheld his dot for the June update.
-Investors will look for how much conviction there will be for two hikes this year, as well as the outlook for 2027. This will also feature the first look at 2029. The Fed almost never hikes or cuts just once but rather moves in cycles, as policymakers view incremental one-off moves as ineffective.
-A 10-8 split in favor of one hike — assuming Warsh's disdain for forward guidance and nonparticipation in the update — would indicate that "some participants might be ambivalent about the first hike and some might want to avoid pushing market expectations any higher," Mericle wrote.
-"But we see a risk of a majority for two hikes if more participants than we expect see a hike this week as a normal response to higher oil prices and AI demand and the start of a series of rate hikes," he added.
-In the case of a close divide on the committee, attention then will turn to Warsh's news conference Wednesday afternoon, and how the chair conveys FOMC sentiment.
-Dudley, the former New York Fed chief, said "the Fed needs to explain how they're thinking about the economy."
-"Now [Warsh has] just got to follow that up with action," Dudley said. "If he does that, I think he's basically fixed the problem that he created in his first two press conferences."`,
-    bodyJa: `Federal Reserve Chairman Kevin Warsh faces a tricky head count this week when he and his fellow policymakers decide on both the immediate and future path of interest rates.
-While markets have honed in on a near-certain quarter percentage point hike in Wednesday's vote, it's not at all clear how broad will be the margin among the 12 Federal Open Market Committee voters.
-Moreover, Warsh will have to decide how to message the move: Will this be the rare one-and-done on hikes, will there be more to come or will the chair maintain his cryptic posture in not trying to guide markets one way or the other?
-"With the market priced this way, it would be shocking if he came in and did nothing," Bill Dudley, the former New York Fed president, said in a CNBC interview. "It would really damage his credibility because it would basically be all talk, no action."
-Indeed, as of Monday afternoon, futures traders were pricing in a better than 92% probability of a rate increase this week, as well as a more than 75% chance that the FOMC would follow up in December with another move, according to the CME Group's FedWatch gauge. Fed funds, the benchmark overnight borrowing rate, currently stand at 3.50% to 3.75%.
-The greater probabilities follow another run-up in fuel prices and inflation data last week that showed prices continued to climb in August. Both trends followed Warsh's comments a few weeks ago that the Fed would be forced into action unless there are more concrete signs that inflation is easing back to the central bank's 2% target.
-However, there are substantial complications.
-Wait or act?
-For one thing, the Fed historically has looked through the type of trends that are fueling inflation now. Economists generally agree that much of this year's increase has come from tariffs and an energy supply shock from the Iran war, both of which have uncertain impacts on the long-range trajectory of inflation.
-"We do not see a strong economic case for raising the funds rate," Goldman Sachs economist David Mericle said in a client note. "We think that all of the overshoot of 2% can be attributed to one-time factors whose impact is likely to fade."
-Nevertheless, Goldman changed its call from no change at this week's meeting to a hike, primarily because the firm's economists think the market expectations will force the Fed to move.
-Whether that also will be the case on an FOMC that voted 9-3 in favor of a hold at the July meeting is another matter.
-The three dissenters — regional presidents Lorie Logan of Dallas, Beth Hammack of Cleveland and Neel Kashkari of Minneapolis — all supported a quarter-point hike two months ago, when the Fed last met. Assuming their positions haven't changed, and there's been nothing in their public comments to suggest they have, that would mean four other members would have to switch their votes from hold to hike.
-Arguably the most-watched voter is Governor Christopher Waller.
-In public remarks delivered Sept. 3, Waller voiced support for another hold at this meeting, albeit with the usual caveats about watching data to confirm that disinflation trends are continuing. Mostly, he merely urged patience rather than a rush to hike.
-"What's the cost of waiting one meeting? Hiking 25 basis points, one meeting right now, is not going to bring the [consumer price index] down to 2%," he said.
-The CPI for August actually showed headline inflation running at a 3.4% rate, though the core rate, which excludes food and soaring energy costs, was a more benign 2.4%, down 0.1 percentage point from July.
-Waller wasn't alone in advocating patience — New York Fed President John Williams told CNBC less than two weeks ago that a "wait-and-see" approach seems to make sense. Earlier in the summer, Williams, whose perch atop the New York Fed is traditionally considered part of the influential "troika" of influence at the central bank, said he thinks inflation has peaked.
-Also in recent remarks, Governor Michael Barr expressed concern about temporary inflation taking deeper hold and said he would be open to a hike, not set on one.
-The FOMC breakdown
-So who would join the three July dissenters?
-Warsh is largely expected to be part of the hiking group, considering his remarks in Jackson Hole, Wyoming last month. Governor Lisa Cook said in early August that she's "prepared to act" to take on inflation. Conversely, Philadelphia Fed President Anna Paulson and Chicago's Austan Goolsbee also have counseled a more patient approach.
-That would leave Governors Philip Jefferson, who is the vice chair; Jerome Powell, the former chair, who has kept a decidedly low profile since stepping down from the top spot, and Michelle Bowman, who spoke little on monetary policy over the summer and whose last related remarks were in May, when she also expressed concern about hiking unnecessarily.
-Then there's a larger wildcard: Should Warsh press the case for a hike, would those on the fence simply cross over to his side in the interest of presenting a united front?
-The vote margin not only will reveal the extent of the intellectual divide on the committee between those who think inflation is temporary and those who believe price pressures are becoming entrenched. It also will provide important signals about how effectively Warsh's leadership is reverberating inside the Fed.
-"It should be noted that, if the Fed does indeed raise rates this week, it may not look, in retrospect, like a close call," David Kelly, chief global strategist at JPMorgan Asset Management, said in his weekly market note. "If a majority within the committee coalesces around a decision to hike, the other members may well join them to portray a more united front to the public and the President."
-In such a case, Kelly said the final vote could see two, one or no dissents.
-From there, markets will look at the Fed's "dot plot" update. The grid spells out, anonymously, the rate expectations for the full 19 participants at the meeting, though Warsh withheld his dot for the June update.
-Investors will look for how much conviction there will be for two hikes this year, as well as the outlook for 2027. This will also feature the first look at 2029. The Fed almost never hikes or cuts just once but rather moves in cycles, as policymakers view incremental one-off moves as ineffective.
-A 10-8 split in favor of one hike — assuming Warsh's disdain for forward guidance and nonparticipation in the update — would indicate that "some participants might be ambivalent about the first hike and some might want to avoid pushing market expectations any higher," Mericle wrote.
-"But we see a risk of a majority for two hikes if more participants than we expect see a hike this week as a normal response to higher oil prices and AI demand and the start of a series of rate hikes," he added.
-In the case of a close divide on the committee, attention then will turn to Warsh's news conference Wednesday afternoon, and how the chair conveys FOMC sentiment.
-Dudley, the former New York Fed chief, said "the Fed needs to explain how they're thinking about the economy."
-"Now [Warsh has] just got to follow that up with action," Dudley said. "If he does that, I think he's basically fixed the problem that he created in his first two press conferences."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html",
-    publishedAt: "2026-09-14T19:47:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "government-set-to-nationalise-troubled-s-6f2c62de",
-    title: "Government set to nationalise troubled steel firm",
-    titleJa: "Government set to nationalise troubled steel firm",
-    summaryJa: "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
-    bodyOriginal: `Government set to nationalise troubled steel firm
-- Published
-A plan to nationalise the UK's third-largest steelworks is being developed by the government, MPs have been told.
-Business Secretary Jonathan Reynolds told the House of Commons ministers were looking to acquire Speciality Steel UK (SSUK), which has sites in Stocksbridge and Rotherham in South Yorkshire and Wednesbury in the West Midlands.
-The government initially took control of SSUK, previously part of Liberty Steel, last year after it was forced to liquidate by the High Court.
-Reynolds said a bidder had come forward earlier this year, but the government had decided against supporting it, citing "serious concerns" over the proposed financing of the deal and "protections for UK taxpayers".
-Ministers had therefore decided that the government would plan its own formal acquisition of the business, he explained.
-Production at the business, which employs about 1,300 people, was paused several months ago, with staff put on furlough on reduced wages.
-Reynolds told the Commons: "Having concluded that we cannot support the preferred bidder's proposal, we are faced with a choice.
-"We can allow events to take their course through the liquidation process and risk being left with no say in the future of these sites, or we can act.
-"We will therefore engage with the official receiver sale process and develop a proposal for the public acquisition of SSUK.
-"This will preserve strategic control and ensure that all credible future opportunities can be properly considered before irreversible decisions are taken."
-Future decisions and spending commitments relating to the business would be "subject to detailed due diligence and funded from existing government budgets", Reynolds said.
-He added: "Working towards public acquisition will create the necessary time and space to undertake a full assessment of the opportunities available.
-"It will let us consider future industrial use, regeneration opportunities and the role that specialist manufacturing capabilities could play in supporting growth and our national resilience."
-In a message to workers, he said: "I will do all I can to secure a bright future for you, your communities and your families."
-Responding to the announcement, Unite general secretary Sharon Graham said: "This is a critical move.
-"The government is listening to Unite and is acting to protect jobs. Now we need to get on and nationalise the company."
-Get in touch
-Your Voice
-Listen to highlights from South Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
-- Published22 August 2025
-- Published21 May 2025`,
-    bodyJa: `Government set to nationalise troubled steel firm
-- Published
-A plan to nationalise the UK's third-largest steelworks is being developed by the government, MPs have been told.
-Business Secretary Jonathan Reynolds told the House of Commons ministers were looking to acquire Speciality Steel UK (SSUK), which has sites in Stocksbridge and Rotherham in South Yorkshire and Wednesbury in the West Midlands.
-The government initially took control of SSUK, previously part of Liberty Steel, last year after it was forced to liquidate by the High Court.
-Reynolds said a bidder had come forward earlier this year, but the government had decided against supporting it, citing "serious concerns" over the proposed financing of the deal and "protections for UK taxpayers".
-Ministers had therefore decided that the government would plan its own formal acquisition of the business, he explained.
-Production at the business, which employs about 1,300 people, was paused several months ago, with staff put on furlough on reduced wages.
-Reynolds told the Commons: "Having concluded that we cannot support the preferred bidder's proposal, we are faced with a choice.
-"We can allow events to take their course through the liquidation process and risk being left with no say in the future of these sites, or we can act.
-"We will therefore engage with the official receiver sale process and develop a proposal for the public acquisition of SSUK.
-"This will preserve strategic control and ensure that all credible future opportunities can be properly considered before irreversible decisions are taken."
-Future decisions and spending commitments relating to the business would be "subject to detailed due diligence and funded from existing government budgets", Reynolds said.
-He added: "Working towards public acquisition will create the necessary time and space to undertake a full assessment of the opportunities available.
-"It will let us consider future industrial use, regeneration opportunities and the role that specialist manufacturing capabilities could play in supporting growth and our national resilience."
-In a message to workers, he said: "I will do all I can to secure a bright future for you, your communities and your families."
-Responding to the announcement, Unite general secretary Sharon Graham said: "This is a critical move.
-"The government is listening to Unite and is acting to protect jobs. Now we need to get on and nationalise the company."
-Get in touch
-Your Voice
-Listen to highlights from South Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
-- Published22 August 2025
-- Published21 May 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-14T19:06:46+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/383f/live/2ff2a330-b057-11f1-9902-771b6dd8af6a.jpg",
-    readTime: 7,
-  },
-  {
-    id: "apple-releases-test-of-redesigned-siri-a-9e8c7f81",
-    title: "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
-    titleJa: "Apple releases test of redesigned Siri AI before iPhone 18 hits stores this week",
-    summaryJa: "Following Apple's iPhone launch event last week, the company is releasing a redesigned Siri AI, though users may have to sign up for a waitlist.",
-    bodyOriginal: `Apple on Monday released a new version of the iPhone software called iOS 27, which includes the company's redesigned Siri AI personal assistant, before the latest iPhones hit store shelves this week.
-The new Siri AI is in beta, Apple said, and users have to opt in through the settings app, though they may have to add their names to the waitlist before getting access.
-Apple is positioning the forthcoming iPhone 18 models as ideal for artificial intelligence because of their speedy chips and the personal data such as calendars and texts that are stored on them.
-"It's personal intelligence that's actually personal," Apple CEO John Ternus said at the company's iPhone launch event last week, his first since succeeding Tim Cook at the helm on Sept. 1. The "iPhone sits at the center of an amazing ecosystem of intelligent features and experiences that work seamlessly across the products you use every day," he said.
-Apple first revealed the Siri AI assistant in June. A version of the company's AI-powered Siri announced in 2024 was delayed last year.
-Compared to frontier AI from companies such as OpenAI, Anthropic, and Google, Apple uses smaller models it develops that can often run on the chips in its phones and laptops. However, for more complicated Siri AI queries, Apple has what's called Private Cloud Compute that uses Google Cloud infrastructure with Nvidia and Intel chips. Apple is also using Google's Gemini to build its own models.
-Apple said that some of its Siri AI and Apple Intelligence features that utilize its cloud servers will be subject to daily usage limits, and that expanded limits will "be available for a fee in the future."
-"Daily limits may vary by feature, request complexity, system demand, system policies, and other factors," Apple said in a release.
-Apple's new Siri uses large language models to search through a user's local personal data, including texts, emails, and calendar appointments. For example, it can search through the user's messages to find addresses, recipes, and instructions. It can also answer general questions and search the web.
-Siri AI can also be accessed through a new Siri app which saves previous queries. Compared to Apple's older versions of Siri, users can reply to the assistant's replies, making the software feel more conversational.
-Siri AI is available in English and will get support for French, Japanese, Korean, Portuguese, and Spanish next month. Apple said it won't be initially available in the EU or China because of regulatory reasons.
-WATCH: Apple will sell as many iPhone Duos as it can make in first six months`,
-    bodyJa: `Apple on Monday released a new version of the iPhone software called iOS 27, which includes the company's redesigned Siri AI personal assistant, before the latest iPhones hit store shelves this week.
-The new Siri AI is in beta, Apple said, and users have to opt in through the settings app, though they may have to add their names to the waitlist before getting access.
-Apple is positioning the forthcoming iPhone 18 models as ideal for artificial intelligence because of their speedy chips and the personal data such as calendars and texts that are stored on them.
-"It's personal intelligence that's actually personal," Apple CEO John Ternus said at the company's iPhone launch event last week, his first since succeeding Tim Cook at the helm on Sept. 1. The "iPhone sits at the center of an amazing ecosystem of intelligent features and experiences that work seamlessly across the products you use every day," he said.
-Apple first revealed the Siri AI assistant in June. A version of the company's AI-powered Siri announced in 2024 was delayed last year.
-Compared to frontier AI from companies such as OpenAI, Anthropic, and Google, Apple uses smaller models it develops that can often run on the chips in its phones and laptops. However, for more complicated Siri AI queries, Apple has what's called Private Cloud Compute that uses Google Cloud infrastructure with Nvidia and Intel chips. Apple is also using Google's Gemini to build its own models.
-Apple said that some of its Siri AI and Apple Intelligence features that utilize its cloud servers will be subject to daily usage limits, and that expanded limits will "be available for a fee in the future."
-"Daily limits may vary by feature, request complexity, system demand, system policies, and other factors," Apple said in a release.
-Apple's new Siri uses large language models to search through a user's local personal data, including texts, emails, and calendar appointments. For example, it can search through the user's messages to find addresses, recipes, and instructions. It can also answer general questions and search the web.
-Siri AI can also be accessed through a new Siri app which saves previous queries. Compared to Apple's older versions of Siri, users can reply to the assistant's replies, making the software feel more conversational.
-Siri AI is available in English and will get support for French, Japanese, Korean, Portuguese, and Spanish next month. Apple said it won't be initially available in the EU or China because of regulatory reasons.
-WATCH: Apple will sell as many iPhone Duos as it can make in first six months`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
-    publishedAt: "2026-09-14T19:05:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
   },
 ];
 
