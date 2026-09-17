@@ -15,6 +15,472 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "carney-says-canada-will-decide-its-own-p-bef1c623",
+    title: "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+    titleJa: "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+    summaryJa: "U.S. President Donald Trump had described the prospect of Canada becoming the first associate member of the EU as \"laughable.\"",
+    bodyOriginal: `Canadian Prime Minister Mark Carney on Thursday welcomed the European Union's ambition to make Ottawa an associate member of the 27-nation bloc and said Canadian lawmakers would ultimately vote on the final structure of the alliance.
+"Canada and Europe are each strong. Europe and Canada are stronger together," Carney told EU lawmakers in Strasbourg, France.
+Canada's prime minister did not name President Donald Trump in his speech, but he nodded to his U.S. counterpart's use of tariffs by saying: "Economic integration is now being weaponized — tariffs being used to exert pressure."
+Speaking in French, Carney continued: "Financial mechanisms have been used for coercion. Supply chains constitute weak points to be exploited."
+His comments come shortly after Trump described the prospect of Canada becoming the first associate member of the EU as "laughable" and threatened the bloc with tariffs if he deemed the move to be a "hostile act."
+Speaking to reporters in North Carolina, Trump called Canada a "terrible trade partner" and said the U.S. could even "stop trading with Europe on many things" if the EU moves ahead with its plan. "If it's a good intention, that's fine. If it's a bad intention, we'll put very heavy tariffs on Europe," Trump said.
+The Trump administration recently increased tariffs on Canadian goods, prompting Canada to respond with levies of its own. Carney has pledged to impose reciprocal tariffs on U.S. goods dollar for dollar.
+European Commission President Ursula von der Leyen said Wednesday that the 27-nation bloc wanted to bring the relationship with Canada "to the highest level possible."
+Addressing Carney, who was in attendance for the EU chief's state of the union speech, Von der Leyen said she would like to work with him "on opening the door for Canada to being the first associate member of the European Union."
+Associate membership doesn't currently exist as a formal category under EU treaties, and any such arrangement would need to be created and ratified by member states.
+"This alliance is a positive process; that's my response to the American president. A stronger, more resilient, more sovereign Canada will be a more effective partner with the United States," Carney told reporters in a news conference shortly after his speech.
+"Canadians are united that nobody is going to tell us what language we speak, no one is going to dictate our culture or with whom we can strike agreements internationally," he added.
+'We do not seek power to dominate others'
+The EU has previously been reluctant to entertain the prospect of flexible membership categories, notably when earlier in the year, German Chancellor Friedrich Merz pushed for the EU to consider associate membership for Ukraine.
+Nonetheless, Von der Leyen's backing for Canada to receive associate membership with the EU signals a major deepening of ties between Ottawa and Brussels and comes at a time when Canada is locked in a bitter trade war with the U.S.
+Asked whether Canadian lawmakers would be able to debate and vote on the future relationship between Canada and the EU, Carney said: "Of course, there will be debates, plural, not just a single debate, and there will be a vote in the Canadian parliament. Absolutely, that is clear, but at this particular juncture, we are at the start of a road."
+Carney also sought to make clear that a closer relationship between the EU and Canada would bolster collective resilience and "create a beacon" for other democracies.
+"Now, I also want to be precise about what I am not proposing, I'm not proposing a third bloc in order to become a great power rival, only with better manners," Carney said.
+"We do not seek power to dominate others. On the contrary, we are pursuing resilience so no one, no one can control our open markets, impair our sovereignty, threaten our territorial integrity, or undermine our freedoms, our democracies, our rule of law," he added.
+Carney meets Burnham
+The EU and Canada already have a free trade agreement, one that eliminated 99% of all tariff lines when it provisionally came into force in 2017. The pact is known as the EU-Canada Comprehensive Economic and Trade Agreement, or CETA.
+"We will move from CETA to an alliance for the future, to create a common prosperity and economic security space," Von der Leyen said.
+She added that the EU and Canada "see the world with the same eyes" and pledged to work together on issues such as artificial intelligence, climate change, geopolitics and Arctic security.
+Before returning to Strasbourg to address EU lawmakers on Thursday, Carney met with U.K. Prime Minister Andy Burnham on Wednesday to watch soccer club Everton play in Liverpool, England.
+The two leaders emphasized the importance of building similar close ties with European partners, particularly on issues such as trade and defense, Downing Street said in a statement.
+Carney and Burnham also discussed deepening defense cooperation, including the complementary roles of the Multilateral Defence Mechanism and the Canada-led Defence Security Resilience Bank.`,
+    bodyJa: `Canadian Prime Minister Mark Carney on Thursday welcomed the European Union's ambition to make Ottawa an associate member of the 27-nation bloc and said Canadian lawmakers would ultimately vote on the final structure of the alliance.
+"Canada and Europe are each strong. Europe and Canada are stronger together," Carney told EU lawmakers in Strasbourg, France.
+Canada's prime minister did not name President Donald Trump in his speech, but he nodded to his U.S. counterpart's use of tariffs by saying: "Economic integration is now being weaponized — tariffs being used to exert pressure."
+Speaking in French, Carney continued: "Financial mechanisms have been used for coercion. Supply chains constitute weak points to be exploited."
+His comments come shortly after Trump described the prospect of Canada becoming the first associate member of the EU as "laughable" and threatened the bloc with tariffs if he deemed the move to be a "hostile act."
+Speaking to reporters in North Carolina, Trump called Canada a "terrible trade partner" and said the U.S. could even "stop trading with Europe on many things" if the EU moves ahead with its plan. "If it's a good intention, that's fine. If it's a bad intention, we'll put very heavy tariffs on Europe," Trump said.
+The Trump administration recently increased tariffs on Canadian goods, prompting Canada to respond with levies of its own. Carney has pledged to impose reciprocal tariffs on U.S. goods dollar for dollar.
+European Commission President Ursula von der Leyen said Wednesday that the 27-nation bloc wanted to bring the relationship with Canada "to the highest level possible."
+Addressing Carney, who was in attendance for the EU chief's state of the union speech, Von der Leyen said she would like to work with him "on opening the door for Canada to being the first associate member of the European Union."
+Associate membership doesn't currently exist as a formal category under EU treaties, and any such arrangement would need to be created and ratified by member states.
+"This alliance is a positive process; that's my response to the American president. A stronger, more resilient, more sovereign Canada will be a more effective partner with the United States," Carney told reporters in a news conference shortly after his speech.
+"Canadians are united that nobody is going to tell us what language we speak, no one is going to dictate our culture or with whom we can strike agreements internationally," he added.
+'We do not seek power to dominate others'
+The EU has previously been reluctant to entertain the prospect of flexible membership categories, notably when earlier in the year, German Chancellor Friedrich Merz pushed for the EU to consider associate membership for Ukraine.
+Nonetheless, Von der Leyen's backing for Canada to receive associate membership with the EU signals a major deepening of ties between Ottawa and Brussels and comes at a time when Canada is locked in a bitter trade war with the U.S.
+Asked whether Canadian lawmakers would be able to debate and vote on the future relationship between Canada and the EU, Carney said: "Of course, there will be debates, plural, not just a single debate, and there will be a vote in the Canadian parliament. Absolutely, that is clear, but at this particular juncture, we are at the start of a road."
+Carney also sought to make clear that a closer relationship between the EU and Canada would bolster collective resilience and "create a beacon" for other democracies.
+"Now, I also want to be precise about what I am not proposing, I'm not proposing a third bloc in order to become a great power rival, only with better manners," Carney said.
+"We do not seek power to dominate others. On the contrary, we are pursuing resilience so no one, no one can control our open markets, impair our sovereignty, threaten our territorial integrity, or undermine our freedoms, our democracies, our rule of law," he added.
+Carney meets Burnham
+The EU and Canada already have a free trade agreement, one that eliminated 99% of all tariff lines when it provisionally came into force in 2017. The pact is known as the EU-Canada Comprehensive Economic and Trade Agreement, or CETA.
+"We will move from CETA to an alliance for the future, to create a common prosperity and economic security space," Von der Leyen said.
+She added that the EU and Canada "see the world with the same eyes" and pledged to work together on issues such as artificial intelligence, climate change, geopolitics and Arctic security.
+Before returning to Strasbourg to address EU lawmakers on Thursday, Carney met with U.K. Prime Minister Andy Burnham on Wednesday to watch soccer club Everton play in Liverpool, England.
+The two leaders emphasized the importance of building similar close ties with European partners, particularly on issues such as trade and defense, Downing Street said in a statement.
+Carney and Burnham also discussed deepening defense cooperation, including the complementary roles of the Multilateral Defence Mechanism and the Canada-led Defence Security Resilience Bank.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+    publishedAt: "2026-09-17T11:23:27+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "bank-of-england-defies-fed-s-rate-hike-l-02870ee3",
+    title: "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+    titleJa: "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
+    summaryJa: "The Bank of England is expected to keep rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs keep pressure on prices.",
+    bodyOriginal: `The Bank of England left interest rates unchanged on Thursday, despite inflation rising well above its 2% target.
+Markets had been pricing in a 76% chance that the central bank will hold interest rates steady on Thursday, according to LSEG data, but a hike of at least 25 basis points is widely anticipated at its next meeting in November.
+The hold marks a divergence from other major central banks. The U.S. Federal Reserve announced a quarter-point hike on Wednesday, its first hike since 2023. Last week, the European Central Bank announced its second rate hike this year, after raising rates in June for the first time in three years. The Bank of Japan is expected to raise its key interest rate at the end of its two-day meeting on Friday.
+Read more
+The Bank of England has not altered its key interest rate this year. It last changed rates in December, with a 25-basis-point cut.
+Data released Wednesday showed that the U.K.'s inflation rate rose to 3.1% in August, marking its first rise above 3% since March.
+The country's Office for National Statistics (ONS) said the spike was largely driven by rising motor fuel costs, which surged 23% year-on-year.
+As a net energy importer, the U.K. is particularly vulnerable to external energy shocks, and is still grappling with a cost-of-living crisis brought on by post-Covid inflation and the Russia-Ukraine war's impact on natural gas supplies.
+Global inflation concerns, political instability and apprehension about U.K. fiscal policy have put pressure on British government bonds, known as gilts, this year. Britain has the highest borrowing costs in the G7, with yields on its long-dated 20- and 30-year gilts approaching the 6% mark.
+Earlier this week, British newspaper The Telegraph reported that the Bank of England would announce plans to stop selling 20- and 30-year gilts alongside its interest rate decision.
+Although the inflation increase was "unlikely to convince the Bank of England to hike interest rates just yet," it could raise fresh concerns about the outlook for inflation among policymakers, said Scott Gardner, an investment strategist at J.P. Morgan Personal Investing.
+"The U.S.-Iran conflict began over six months ago but higher energy costs are still filtering through to business input prices and household spending," he said in a note Wednesday.
+Shreyas Gopal, an FX strategist at Deutsche Bank, said in a Wednesday note that the absence of any materially hawkish surprises in both this week's U.K. labor market and inflation data had been "enough for pricing for [hikes at] this upcoming meeting to fall back again."`,
+    bodyJa: `The Bank of England left interest rates unchanged on Thursday, despite inflation rising well above its 2% target.
+Markets had been pricing in a 76% chance that the central bank will hold interest rates steady on Thursday, according to LSEG data, but a hike of at least 25 basis points is widely anticipated at its next meeting in November.
+The hold marks a divergence from other major central banks. The U.S. Federal Reserve announced a quarter-point hike on Wednesday, its first hike since 2023. Last week, the European Central Bank announced its second rate hike this year, after raising rates in June for the first time in three years. The Bank of Japan is expected to raise its key interest rate at the end of its two-day meeting on Friday.
+Read more
+The Bank of England has not altered its key interest rate this year. It last changed rates in December, with a 25-basis-point cut.
+Data released Wednesday showed that the U.K.'s inflation rate rose to 3.1% in August, marking its first rise above 3% since March.
+The country's Office for National Statistics (ONS) said the spike was largely driven by rising motor fuel costs, which surged 23% year-on-year.
+As a net energy importer, the U.K. is particularly vulnerable to external energy shocks, and is still grappling with a cost-of-living crisis brought on by post-Covid inflation and the Russia-Ukraine war's impact on natural gas supplies.
+Global inflation concerns, political instability and apprehension about U.K. fiscal policy have put pressure on British government bonds, known as gilts, this year. Britain has the highest borrowing costs in the G7, with yields on its long-dated 20- and 30-year gilts approaching the 6% mark.
+Earlier this week, British newspaper The Telegraph reported that the Bank of England would announce plans to stop selling 20- and 30-year gilts alongside its interest rate decision.
+Although the inflation increase was "unlikely to convince the Bank of England to hike interest rates just yet," it could raise fresh concerns about the outlook for inflation among policymakers, said Scott Gardner, an investment strategist at J.P. Morgan Personal Investing.
+"The U.S.-Iran conflict began over six months ago but higher energy costs are still filtering through to business input prices and household spending," he said in a note Wednesday.
+Shreyas Gopal, an FX strategist at Deutsche Bank, said in a Wednesday note that the absence of any materially hawkish surprises in both this week's U.K. labor market and inflation data had been "enough for pricing for [hikes at] this upcoming meeting to fall back again."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+    publishedAt: "2026-09-17T11:01:41+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "ninth-woman-s-body-found-as-south-africa-a6fd9148",
+    title: "Ninth woman's body found as South African police investigate string of deaths",
+    titleJa: "Ninth woman's body found as South African police investigate string of deaths",
+    summaryJa: "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
+    bodyOriginal: `Ninth woman's body found as South African police investigate string of deaths
+- Published
+Police in South Africa have confirmed the discovery of a ninth woman's body in just two months, amid growing concern over a string of unexplained deaths east of Johannesburg.
+The latest victim was found half-naked and wrapped in a sheet on the side of a road in Dawn Park on Thursday morning, police said. Her identity has not yet been released.
+The discovery follows the deaths of eight other women whose bodies have been found since July across Ekurhuleni, a major urban area of Johannesburg.
+Several of the women were found partially clothed and with injuries, but police have stressed that they have not established whether all the deaths are connected or whether a serial killer is responsible.
+Abducted South African journalist found dead with gunshot wounds
+- Published4 hours ago
+President Cyril Ramaphosa has vowed that "no stone will be left unturned" in finding those behind the killings, which he said were "causing fear and uncertainty in our communities".
+Among the victims was 38-year-old Elizabeth "Tsontso" Moselakgomo, who disappeared last week after leaving her home for an afternoon run. Her body was found three days later behind a hotel in Kempton Park.
+Two other victims have since been identified as Itumeleng Kekana, who had been missing since July, and 38-year-old Dineo Evelyn Motapane, whose body was discovered by the roadside in KwaThema on Tuesday.
+The first of the nine bodies was discovered in Kempton Park on 15 July. A suspect was arrested two days later in connection with that case and remains in custody, but police have not linked that suspect to the other deaths.
+Further bodies were discovered in August and September, including in Kempton Park, Olifantsfontein, Clayville and KwaThema.
+The latest body is of a woman believed to be in her 30s and appeared to have bruises and stab wounds, local media reported.
+Police have assembled a multidisciplinary team of detectives, intelligence officers, forensic experts and other specialists to investigate the deaths and establish whether there are links between the cases.
+They are also pursuing a person of interest, although they have not disclosed which case or cases that person may be connected to.
+"Let's not get emotional, the gloves are off," said Gauteng Premier Panyaza Lesufi on Thursday, adding that the authorities had the capacity to deal with the killings.
+In a statement on Thursday, South African police said the recent rise in serious and violent crimes against women remained a "matter of grave concern", urging women in the country to remain vigilant about their personal safety.
+They advised women to avoid walking alone or using isolated routes, remain alert to strangers and suspicious vehicles, and share their location or travel plans with someone they trust. They also advised against walking with earphones or earbuds at high volume, warning this could reduce awareness of their surroundings.
+"Practising personal safety measures can save lives."
+Authorities have offered a 400,000 rand ($24,000; £18,000) reward for information that could lead to arrests and have appealed to families with missing relatives to help identify the remaining victims.
+The discoveries have caused widespread alarm in Ekurhuleni, particularly around Kempton Park, and come against the backdrop of longstanding concern about high levels of violence against women in South Africa.
+Police say they are not linking the deaths to a serial killer at this stage, but are investigating the possibility that a group of people is behind the killings.
+Acting Police Minister Firoz Cachalia has cautioned against speculation, saying investigators were dealing with what appeared, at this stage, to be "quite distinct, separate events".
+South Africa experiences some of the world's highest levels of gender-based violence (GBV), with the rate at which women are killed five times higher than the global average, according to UN Women.
+Last November, the country classified violence against women a national disaster following an online campaign that culminated in countrywide protests.
+You may also be interested in:
+I built this 'AI aunt' for women after family tragedy in South Africa
+- Published3 November 2025
+The volunteer crime fighters using whistles, whips and guns
+- Published13 May 2024
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
+    bodyJa: `Ninth woman's body found as South African police investigate string of deaths
+- Published
+Police in South Africa have confirmed the discovery of a ninth woman's body in just two months, amid growing concern over a string of unexplained deaths east of Johannesburg.
+The latest victim was found half-naked and wrapped in a sheet on the side of a road in Dawn Park on Thursday morning, police said. Her identity has not yet been released.
+The discovery follows the deaths of eight other women whose bodies have been found since July across Ekurhuleni, a major urban area of Johannesburg.
+Several of the women were found partially clothed and with injuries, but police have stressed that they have not established whether all the deaths are connected or whether a serial killer is responsible.
+Abducted South African journalist found dead with gunshot wounds
+- Published4 hours ago
+President Cyril Ramaphosa has vowed that "no stone will be left unturned" in finding those behind the killings, which he said were "causing fear and uncertainty in our communities".
+Among the victims was 38-year-old Elizabeth "Tsontso" Moselakgomo, who disappeared last week after leaving her home for an afternoon run. Her body was found three days later behind a hotel in Kempton Park.
+Two other victims have since been identified as Itumeleng Kekana, who had been missing since July, and 38-year-old Dineo Evelyn Motapane, whose body was discovered by the roadside in KwaThema on Tuesday.
+The first of the nine bodies was discovered in Kempton Park on 15 July. A suspect was arrested two days later in connection with that case and remains in custody, but police have not linked that suspect to the other deaths.
+Further bodies were discovered in August and September, including in Kempton Park, Olifantsfontein, Clayville and KwaThema.
+The latest body is of a woman believed to be in her 30s and appeared to have bruises and stab wounds, local media reported.
+Police have assembled a multidisciplinary team of detectives, intelligence officers, forensic experts and other specialists to investigate the deaths and establish whether there are links between the cases.
+They are also pursuing a person of interest, although they have not disclosed which case or cases that person may be connected to.
+"Let's not get emotional, the gloves are off," said Gauteng Premier Panyaza Lesufi on Thursday, adding that the authorities had the capacity to deal with the killings.
+In a statement on Thursday, South African police said the recent rise in serious and violent crimes against women remained a "matter of grave concern", urging women in the country to remain vigilant about their personal safety.
+They advised women to avoid walking alone or using isolated routes, remain alert to strangers and suspicious vehicles, and share their location or travel plans with someone they trust. They also advised against walking with earphones or earbuds at high volume, warning this could reduce awareness of their surroundings.
+"Practising personal safety measures can save lives."
+Authorities have offered a 400,000 rand ($24,000; £18,000) reward for information that could lead to arrests and have appealed to families with missing relatives to help identify the remaining victims.
+The discoveries have caused widespread alarm in Ekurhuleni, particularly around Kempton Park, and come against the backdrop of longstanding concern about high levels of violence against women in South Africa.
+Police say they are not linking the deaths to a serial killer at this stage, but are investigating the possibility that a group of people is behind the killings.
+Acting Police Minister Firoz Cachalia has cautioned against speculation, saying investigators were dealing with what appeared, at this stage, to be "quite distinct, separate events".
+South Africa experiences some of the world's highest levels of gender-based violence (GBV), with the rate at which women are killed five times higher than the global average, according to UN Women.
+Last November, the country classified violence against women a national disaster following an online campaign that culminated in countrywide protests.
+You may also be interested in:
+I built this 'AI aunt' for women after family tragedy in South Africa
+- Published3 November 2025
+The volunteer crime fighters using whistles, whips and guns
+- Published13 May 2024
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T10:40:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e812/live/08938de0-b27d-11f1-94d0-89db86965db8.jpg",
+    readTime: 10,
+  },
+  {
+    id: "eu-announces-plan-to-restrict-social-med-d15ae9fc",
+    title: "EU announces plan to restrict social media access for under-15s",
+    titleJa: "EU announces plan to restrict social media access for under-15s",
+    summaryJa: "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+    bodyOriginal: `EU announces plan to restrict social media access for under-15s
+- Published
+The EU has announced plans to restrict social media access for under-15s across its member states, in a bid to increase wellbeing and tackle online safety.
+Under the plans, there would be a gradual approach to children using social media which would include banning under 13s from accessing platforms.
+Those aged 13 to 15 would only be able to access platforms for an hour per day via "mini accounts" set up through their parent or guardian's social media account.
+The European Commission said social media companies would need to prove platforms were safe by design or face fines of up to 6% of their global sales. EU chief Ursula von der Leyen said the move would "put parents back in the driving seat".
+She added the legislation - called the EU Kids Act - would give parents "the tools to help their children navigate a safer world".
+The restrictions would not just affect well-known apps such as TikTok, Instagram, and Snapchat but also YouTube and other video sharing platforms as well as AI chatbots and online games.
+"Too many children are being exposed too early to an online world they are not ready to navigate - an environment where bullying can follow you home, where every mistake can be recorded forever," von der Leyen said.
+Under the act, only children aged 15 and over would be able to set up their own social media accounts.
+But von der Leyen told the EU Parliament on Thursday that "an age limit does not mean letting tech companies off the hook for the content on the platform".
+She added that under the legislation - if it is approved - companies would be required to submit detailed child safety plans.
+"For every person under 18, the platforms must follow the principle of safety by design, no toxic or addictive features, no traps, etc," she said.
+Some individual EU countries have already announced their own separate plans to restrict social media for children, including France and Spain.
+Any potential EU-wide legislation would supersede those, but it would be possible for individual EU members to then go further than the bloc's action.
+Already there are questions about how this EU-wide legislation would be enforced and the plans are likely to face opposition in the months to come.
+France provides an indication of how the path ahead could be bumpy as individual member states may try to strengthen or weaken the proposals.
+The Macron government drew up legislation for a ban on social media for under-15s but last month the country's top court blocked it, ruling that it infringed upon freedom of expression.
+French ministers have now amended their original plans.
+Some critics of social media bans for children cite privacy concerns.
+They worry about teenagers being forced to submit personal information as they go through an age verification process to prove they are old enough to access platforms.
+The Commission has said age would be verified using the EU's preexisting age verification app, and no personal data would be collected or shared.
+Social media companies will also make their position on the restrictions clear as the act is debated in the months to come.
+Von der Leyen had previously proposed a social media "delay" for children in Europe, saying in May that "the discussion about a minimum age for social media can no longer be ignored".
+The policy, formally outlined on Thursday, was also trailed in the EU chief's annual address on Wednesday.
+In July, the EU said Meta must change the "addictive" design of Facebook and Instagram or face a heavy fine.
+In preliminary findings, the European Commission said features such as infinite scroll, autoplaying videos and personalised recommendations could encourage "compulsive use", particularly among children and teens.
+A spokesperson for the tech giant told the BBC it disagreed with the findings "which don't accurately take into account the significant steps we've taken to protect teens".
+In a separate case, Meta agreed in August to a $18bn (£13.3bn) settlement with US states and territories to resolve claims that Facebook and Instagram harmed children. It denied any wrongdoing as part of the settlement.
+The European Commission said its proposed legislation built on findings, external from its special panel on child safety online, which recommended age-appropriate regulation for children, with different guidance for each age group.
+It also cited recent EU survey data, external, which found 92% of respondents considered the need to strengthen children's protection online as a top policy priority.
+Von der Leyen said the Commission had "looked at Australia" - which banned social media platforms for under-16s last year - when putting together the proposal.
+The ban has been difficult for the country to enforce, with its Communications Minister Anika Wells admitting earlier this month that so far no tech firm had been fined despite research showing many under-16s were still on platforms.
+A similar ban for under-16s is set to come into force in the UK in spring next year.
+Related topics
+- Published14 August
+- Published3 February`,
+    bodyJa: `EU announces plan to restrict social media access for under-15s
+- Published
+The EU has announced plans to restrict social media access for under-15s across its member states, in a bid to increase wellbeing and tackle online safety.
+Under the plans, there would be a gradual approach to children using social media which would include banning under 13s from accessing platforms.
+Those aged 13 to 15 would only be able to access platforms for an hour per day via "mini accounts" set up through their parent or guardian's social media account.
+The European Commission said social media companies would need to prove platforms were safe by design or face fines of up to 6% of their global sales. EU chief Ursula von der Leyen said the move would "put parents back in the driving seat".
+She added the legislation - called the EU Kids Act - would give parents "the tools to help their children navigate a safer world".
+The restrictions would not just affect well-known apps such as TikTok, Instagram, and Snapchat but also YouTube and other video sharing platforms as well as AI chatbots and online games.
+"Too many children are being exposed too early to an online world they are not ready to navigate - an environment where bullying can follow you home, where every mistake can be recorded forever," von der Leyen said.
+Under the act, only children aged 15 and over would be able to set up their own social media accounts.
+But von der Leyen told the EU Parliament on Thursday that "an age limit does not mean letting tech companies off the hook for the content on the platform".
+She added that under the legislation - if it is approved - companies would be required to submit detailed child safety plans.
+"For every person under 18, the platforms must follow the principle of safety by design, no toxic or addictive features, no traps, etc," she said.
+Some individual EU countries have already announced their own separate plans to restrict social media for children, including France and Spain.
+Any potential EU-wide legislation would supersede those, but it would be possible for individual EU members to then go further than the bloc's action.
+Already there are questions about how this EU-wide legislation would be enforced and the plans are likely to face opposition in the months to come.
+France provides an indication of how the path ahead could be bumpy as individual member states may try to strengthen or weaken the proposals.
+The Macron government drew up legislation for a ban on social media for under-15s but last month the country's top court blocked it, ruling that it infringed upon freedom of expression.
+French ministers have now amended their original plans.
+Some critics of social media bans for children cite privacy concerns.
+They worry about teenagers being forced to submit personal information as they go through an age verification process to prove they are old enough to access platforms.
+The Commission has said age would be verified using the EU's preexisting age verification app, and no personal data would be collected or shared.
+Social media companies will also make their position on the restrictions clear as the act is debated in the months to come.
+Von der Leyen had previously proposed a social media "delay" for children in Europe, saying in May that "the discussion about a minimum age for social media can no longer be ignored".
+The policy, formally outlined on Thursday, was also trailed in the EU chief's annual address on Wednesday.
+In July, the EU said Meta must change the "addictive" design of Facebook and Instagram or face a heavy fine.
+In preliminary findings, the European Commission said features such as infinite scroll, autoplaying videos and personalised recommendations could encourage "compulsive use", particularly among children and teens.
+A spokesperson for the tech giant told the BBC it disagreed with the findings "which don't accurately take into account the significant steps we've taken to protect teens".
+In a separate case, Meta agreed in August to a $18bn (£13.3bn) settlement with US states and territories to resolve claims that Facebook and Instagram harmed children. It denied any wrongdoing as part of the settlement.
+The European Commission said its proposed legislation built on findings, external from its special panel on child safety online, which recommended age-appropriate regulation for children, with different guidance for each age group.
+It also cited recent EU survey data, external, which found 92% of respondents considered the need to strengthen children's protection online as a top policy priority.
+Von der Leyen said the Commission had "looked at Australia" - which banned social media platforms for under-16s last year - when putting together the proposal.
+The ban has been difficult for the country to enforce, with its Communications Minister Anika Wells admitting earlier this month that so far no tech firm had been fined despite research showing many under-16s were still on platforms.
+A similar ban for under-16s is set to come into force in the UK in spring next year.
+Related topics
+- Published14 August
+- Published3 February`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T10:00:14+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39d1/live/a17b23d0-b26c-11f1-b67f-2b40fa83cfed.jpg",
+    readTime: 10,
+  },
+  {
+    id: "uncontrolled-ai-could-lead-to-silicon-sp-1f9107c6",
+    title: "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    titleJa: "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+    summaryJa: "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
+    bodyOriginal: `Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft
+- Published
+The head of Microsoft AI has warned that without adequate safeguards, the development of AI could lead to the emergence of a new "silicon species" which competes with humans.
+Mustafa Suleyman said rival firm Anthropic is treating AI like it is human, an approach he called "misguided" which could create technology that humanity cannot control.
+Speaking to the BBC's Today programme, the chief executive said it was "right" for people to be concerned about AI, but there were "very practical things that we can do" to control it.
+The comments are the latest in a series of stark warnings from the AI industry about the technology's possible dangers. Anthropic has been approached for comment.
+Why are there concerns AI could threaten humanity, and how real are they?
+- Published2 hours ago
+OpenAI boss says world 'right to be afraid' but should trust AI firms
+- Published1 day ago
+Speaking to the Today programme on Thursday, Suleyman warned against firms continuing to create AI systems capable of setting their own objectives, earning money and owning assets.
+That would mean "essentially seeding a new silicon species", he said, which could "no doubt compete with us for resources, no matter how much it cares about humanity and loves us".
+Suleyman's comments to the BBC follow an essay he published earlier this week, external, in which he questioned Anthropic's approach to training its AI model Claude, despite praising boss Dario Amodei and his team as "intellectually honest people".
+In it, he criticised Anthropic for teaching its AI to have human-like qualities, a practice known as anthropomorphising, which he said made it seem as though Claude had its own desires, values and sense of self.
+He also warned tech firms risk creating something "impossible" to control by treating the technology like a human.
+"AIs are not conscious," he wrote.
+"They do not feel, experience, or suffer. They do not have innate preferences or underlying motivations.
+"They are sequence completion engines, internally hollow, designed to follow instructions, and accomplish goals set by humans."
+The Microsoft boss said greater transparency was needed around how AI systems are trained and evaluated.
+This, he said, included independent scrutiny of AI behaviour and stronger tools to monitor and control the technology.
+"We must not sleepwalk our way into a decision we later come to bitterly regret," he wrote.
+Dame Wendy Hall, professor of Computer Science at the University of Southampton, described the comments as "the sort of conversation we need to be having internationally", contrasting it with the "histrionics" from some AI companies which she said only served to "scare everyone".
+'Humanist' superintelligence
+The question of how much autonomy AI systems should have is increasingly dividing the industry.
+Speaking to the BBC about an upcoming AI summit, Suleyman called for "alignment" to create technology that must be "subordinate" to humanity.
+Alignment is a field which aims to build human ethical ideas and principles into AI. In other words, it aims to keep it on track with what humans value.
+"I think that the good news here is that everybody who is human is going to have a very strong interest in making sure that the systems that we all create and... are used around the world in every nation are safe and controllable and subordinate to humanity," he said.
+"Everybody must be aligned."
+Microsoft founded its own superintelligence team in October 2025 and the company, much like its rival Anthropic, is also pursuing efforts in advanced AI development.
+Suleyman's comments reflect Microsoft's initial draft of its Humanist AI Code of Conduct, external, a "training manual" published on Monday for how the company is developing its AI, which sets out the idea of "humanist superintelligence".
+This, the code states, is "very advanced AI that always works for people, stays within limits, and remains under human control".
+The company's vision of a "humanist" AI highlights the central challenge facing the technology - how to make it more powerful, without losing sight of the values it is meant to serve.
+Additional reporting by Henry Moore
+Get in touch
+Have you been affected by the issues in this story? Share your experience
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published8 hours ago
+- Published1 day ago`,
+    bodyJa: `Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft
+- Published
+The head of Microsoft AI has warned that without adequate safeguards, the development of AI could lead to the emergence of a new "silicon species" which competes with humans.
+Mustafa Suleyman said rival firm Anthropic is treating AI like it is human, an approach he called "misguided" which could create technology that humanity cannot control.
+Speaking to the BBC's Today programme, the chief executive said it was "right" for people to be concerned about AI, but there were "very practical things that we can do" to control it.
+The comments are the latest in a series of stark warnings from the AI industry about the technology's possible dangers. Anthropic has been approached for comment.
+Why are there concerns AI could threaten humanity, and how real are they?
+- Published2 hours ago
+OpenAI boss says world 'right to be afraid' but should trust AI firms
+- Published1 day ago
+Speaking to the Today programme on Thursday, Suleyman warned against firms continuing to create AI systems capable of setting their own objectives, earning money and owning assets.
+That would mean "essentially seeding a new silicon species", he said, which could "no doubt compete with us for resources, no matter how much it cares about humanity and loves us".
+Suleyman's comments to the BBC follow an essay he published earlier this week, external, in which he questioned Anthropic's approach to training its AI model Claude, despite praising boss Dario Amodei and his team as "intellectually honest people".
+In it, he criticised Anthropic for teaching its AI to have human-like qualities, a practice known as anthropomorphising, which he said made it seem as though Claude had its own desires, values and sense of self.
+He also warned tech firms risk creating something "impossible" to control by treating the technology like a human.
+"AIs are not conscious," he wrote.
+"They do not feel, experience, or suffer. They do not have innate preferences or underlying motivations.
+"They are sequence completion engines, internally hollow, designed to follow instructions, and accomplish goals set by humans."
+The Microsoft boss said greater transparency was needed around how AI systems are trained and evaluated.
+This, he said, included independent scrutiny of AI behaviour and stronger tools to monitor and control the technology.
+"We must not sleepwalk our way into a decision we later come to bitterly regret," he wrote.
+Dame Wendy Hall, professor of Computer Science at the University of Southampton, described the comments as "the sort of conversation we need to be having internationally", contrasting it with the "histrionics" from some AI companies which she said only served to "scare everyone".
+'Humanist' superintelligence
+The question of how much autonomy AI systems should have is increasingly dividing the industry.
+Speaking to the BBC about an upcoming AI summit, Suleyman called for "alignment" to create technology that must be "subordinate" to humanity.
+Alignment is a field which aims to build human ethical ideas and principles into AI. In other words, it aims to keep it on track with what humans value.
+"I think that the good news here is that everybody who is human is going to have a very strong interest in making sure that the systems that we all create and... are used around the world in every nation are safe and controllable and subordinate to humanity," he said.
+"Everybody must be aligned."
+Microsoft founded its own superintelligence team in October 2025 and the company, much like its rival Anthropic, is also pursuing efforts in advanced AI development.
+Suleyman's comments reflect Microsoft's initial draft of its Humanist AI Code of Conduct, external, a "training manual" published on Monday for how the company is developing its AI, which sets out the idea of "humanist superintelligence".
+This, the code states, is "very advanced AI that always works for people, stays within limits, and remains under human control".
+The company's vision of a "humanist" AI highlights the central challenge facing the technology - how to make it more powerful, without losing sight of the values it is meant to serve.
+Additional reporting by Henry Moore
+Get in touch
+Have you been affected by the issues in this story? Share your experience
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published8 hours ago
+- Published1 day ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T08:22:12+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
+    id: "assad-regime-planned-us-journalist-s-kid-24cbe1da",
+    title: "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+    titleJa: "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+    summaryJa: "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+    bodyOriginal: `Assad regime planned US journalist's kidnap for weeks, BBC finds
+- Published
+US journalist Austin Tice, who disappeared in Syria in 2012, was kidnapped in a calculated operation which was more than a month in the planning, the BBC can reveal.
+A member of the group which detained Tice has also claimed the abduction was sanctioned by Syria's leader at the time, President Bashar al-Assad.
+Tice was seen getting into a car with a driver he knew and trusted. For years, many assumed they had stumbled upon a government checkpoint, and that the abduction of the journalist had been opportunistic.
+But we have uncovered evidence that, in fact, his disappearance was anything but chance.
+In a new BBC podcast: Where is Austin Tice? Series 3 of I'm Not A Monster Presents, we reveal the findings of a years-long investigation into what happened to Tice, who had been reporting on Syria's civil war at the time.
+His case has been followed closely by international media and cited by successive US presidents.
+Where is Austin Tice?
+Josh Baker enters a dangerous world of fear, greed and betrayal as he uncovers what happened in one of the biggest missing-person cases of our time - the abduction of Austin Tice.
+Georgetown University law student Tice, who had served as a US Marines captain, was last seen in a video - blindfolded and in apparent distress - posted more than a month after his capture.
+As the regime fell 12 years later, tens of thousands of people emerged from the administration's prisons. Tice was not one of them.
+We obtained co-ordinates from an intelligence source for multiple locations US authorities suspected he could have been held at, and searched for him for more than a month, but found no sign of him.
+A former Syrian commander has said Tice was executed. Others have questioned this account and no remains have been found.
+But in the aftermath of the regime's collapse, we did uncover secret Syrian intelligence files on Tice - hundreds of pages of internal records providing the first definitive proof that it was the regime that had held the journalist.
+Two crucial questions remained unanswered, however: how exactly had Tice been taken in the first place? And, who was responsible for his abduction?
+We have spoken to a number of men from the regime involved in Tice's detention, and have reviewed recordings of discussions about it. One man we spoke to, Abu Ali, is a former member of the National Defence Forces (NDF), a militia which was fiercely loyal to Assad.
+He says the abduction operation began when Tice's driver - who multiple sources say had been passing the regime information for some time - told a senior NDF member that Tice was moving through rebel-held areas, reporting on the opposition.
+Tice had pushed into areas most journalists deemed too dangerous and was writing front-page stories for the Washington Post. The Assad regime was cracking down on anyone highlighting its human rights abuses.
+We have been told the NDF member Tice's driver spoke to was Sakr Rustom - not just any NDF militia contact, but nephew of Bassam al-Hassan, one of Assad's most trusted security figures and head of the NDF.
+The information on Tice was passed up to Hassan, Abu Ali says, who is then said to have telephoned Assad.
+"Bring him to us," Assad replied, claims Abu Ali.
+Abu Ali says he was subsequently called into Hassan's office and told the president had approved the operation.
+But Tice was not taken immediately. The driver, Abu Ali says, suggested that he and the NDF continue watching him, to uncover more about what he was doing.
+"He trusts me," Abu Ali recalls the driver saying.
+Some time later, the driver reported back that Tice's actions seemed suspicious, Abu Ali says.
+Tice, as a trained marine, would sometimes share his military experience with rebel fighters - according to several people we spoke to - and would correct fighters on how they used their weapons.
+To the men watching him, that behaviour made Tice look less like a journalist and more like someone from the CIA. The BBC has found no evidence to suggest this was the case, and a former senior US official responsible for part of Tice's case has denied he was an intelligence officer.
+In the days before Tice vanished, the driver made one particularly brazen move while Tice was interviewing rebel fighters. He secretly took the American's backpack, containing his MacBook, a satellite transmitter and other personal items, for regime operatives to look through, multiple sources say.
+On 11 August 2012, Tice celebrated his 31st birthday at a rebel safehouse on the western edge of Damascus, a few miles from Assad's presidential palace. There was a swimming pool, Free Syrian Army fighters, Taylor Swift music and whiskey, Tice revealed in what would become his final tweet.
+"Hands down, best birthday ever," he wrote.
+Then came the time for Tice to leave Syria. He had told various people he was planning to take time out in Lebanon.
+But he was not heading to safety. He was heading to a state facility where Hassan had an office, in an area called Tahouneh on the outskirts of Damascus, according to several sources. Abu Ali was waiting there for Tice.
+Abu Ali says Tice's driver told him that when he drew up to the gates, he pulled out a gun.
+Tice laughed at first, Ali recalls the driver saying, apparently believing the man he trusted was joking. But the driver told Tice he was serious, Abu Ali says, and the journalist realised what was happening.
+According to Ali, Tice pulled out his chequebook and pleaded with the driver to name his price, rather than go through with the kidnap.
+NDF militia members then grabbed Tice, covering his eyes, Abu Ali says.
+Another NDF member told us he would never forget Tice's expression as he realised he had been betrayed. Abu Ali says Hassan immediately called President Assad to tell him they had the American.
+For years, the identity of Tice's driver has remained a mystery.
+The BBC spoke to more than 20 people to discover who he was, with the trail eventually leading to the city of Homs, and the family of a man called Hamid Abu Obeid.
+They confirmed he was the man who had driven Tice away, an account also supported by multiple NDF members. But by the time we identified him, Abu Obeid had disappeared.
+His family say they do not know where he is, and fear for his safety. They say they were not aware of Hamid's involvement in Tice's case, and learned about it from him afterwards.
+But they did give a motive for his betrayal of Tice.
+The Abu Obeid family, Palestinian refugees from Gaza, live in poverty. Under Syrian law they are not entitled to Syrian citizenship and live under significant restrictions.
+According to Hamid's brother, he had been promised a passport, Syrian citizenship, a house, and a weapon, in return for delivering Tice - life-changing rewards. But after the abduction, the family says all he got was a pistol.
+Then, after Assad's regime fell, Abu Obeid's wife says her husband was called by a man who knew about his involvement in Tice's case and was threatening to tell the US embassy, hoping it might help him secure asylum.
+Abu Obeid urged him not to. He then took some money, told his wife he was going shopping, and she says she has not seen him since. She does not know if he is in hiding, or if he has been detained or killed.
+Not long after he disappeared, she says masked men - some dressed in military clothes - visited and took a number of Abu Obeid's possessions, including his laptop and other devices.
+The wishes of Abu Obeid's wife now chillingly mirror those of Tice's mother and family. On opposite sides of a disappearance that began more than a decade ago, both families are searching for the same thing: a loved one who vanished, and an answer to where he went.`,
+    bodyJa: `Assad regime planned US journalist's kidnap for weeks, BBC finds
+- Published
+US journalist Austin Tice, who disappeared in Syria in 2012, was kidnapped in a calculated operation which was more than a month in the planning, the BBC can reveal.
+A member of the group which detained Tice has also claimed the abduction was sanctioned by Syria's leader at the time, President Bashar al-Assad.
+Tice was seen getting into a car with a driver he knew and trusted. For years, many assumed they had stumbled upon a government checkpoint, and that the abduction of the journalist had been opportunistic.
+But we have uncovered evidence that, in fact, his disappearance was anything but chance.
+In a new BBC podcast: Where is Austin Tice? Series 3 of I'm Not A Monster Presents, we reveal the findings of a years-long investigation into what happened to Tice, who had been reporting on Syria's civil war at the time.
+His case has been followed closely by international media and cited by successive US presidents.
+Where is Austin Tice?
+Josh Baker enters a dangerous world of fear, greed and betrayal as he uncovers what happened in one of the biggest missing-person cases of our time - the abduction of Austin Tice.
+Georgetown University law student Tice, who had served as a US Marines captain, was last seen in a video - blindfolded and in apparent distress - posted more than a month after his capture.
+As the regime fell 12 years later, tens of thousands of people emerged from the administration's prisons. Tice was not one of them.
+We obtained co-ordinates from an intelligence source for multiple locations US authorities suspected he could have been held at, and searched for him for more than a month, but found no sign of him.
+A former Syrian commander has said Tice was executed. Others have questioned this account and no remains have been found.
+But in the aftermath of the regime's collapse, we did uncover secret Syrian intelligence files on Tice - hundreds of pages of internal records providing the first definitive proof that it was the regime that had held the journalist.
+Two crucial questions remained unanswered, however: how exactly had Tice been taken in the first place? And, who was responsible for his abduction?
+We have spoken to a number of men from the regime involved in Tice's detention, and have reviewed recordings of discussions about it. One man we spoke to, Abu Ali, is a former member of the National Defence Forces (NDF), a militia which was fiercely loyal to Assad.
+He says the abduction operation began when Tice's driver - who multiple sources say had been passing the regime information for some time - told a senior NDF member that Tice was moving through rebel-held areas, reporting on the opposition.
+Tice had pushed into areas most journalists deemed too dangerous and was writing front-page stories for the Washington Post. The Assad regime was cracking down on anyone highlighting its human rights abuses.
+We have been told the NDF member Tice's driver spoke to was Sakr Rustom - not just any NDF militia contact, but nephew of Bassam al-Hassan, one of Assad's most trusted security figures and head of the NDF.
+The information on Tice was passed up to Hassan, Abu Ali says, who is then said to have telephoned Assad.
+"Bring him to us," Assad replied, claims Abu Ali.
+Abu Ali says he was subsequently called into Hassan's office and told the president had approved the operation.
+But Tice was not taken immediately. The driver, Abu Ali says, suggested that he and the NDF continue watching him, to uncover more about what he was doing.
+"He trusts me," Abu Ali recalls the driver saying.
+Some time later, the driver reported back that Tice's actions seemed suspicious, Abu Ali says.
+Tice, as a trained marine, would sometimes share his military experience with rebel fighters - according to several people we spoke to - and would correct fighters on how they used their weapons.
+To the men watching him, that behaviour made Tice look less like a journalist and more like someone from the CIA. The BBC has found no evidence to suggest this was the case, and a former senior US official responsible for part of Tice's case has denied he was an intelligence officer.
+In the days before Tice vanished, the driver made one particularly brazen move while Tice was interviewing rebel fighters. He secretly took the American's backpack, containing his MacBook, a satellite transmitter and other personal items, for regime operatives to look through, multiple sources say.
+On 11 August 2012, Tice celebrated his 31st birthday at a rebel safehouse on the western edge of Damascus, a few miles from Assad's presidential palace. There was a swimming pool, Free Syrian Army fighters, Taylor Swift music and whiskey, Tice revealed in what would become his final tweet.
+"Hands down, best birthday ever," he wrote.
+Then came the time for Tice to leave Syria. He had told various people he was planning to take time out in Lebanon.
+But he was not heading to safety. He was heading to a state facility where Hassan had an office, in an area called Tahouneh on the outskirts of Damascus, according to several sources. Abu Ali was waiting there for Tice.
+Abu Ali says Tice's driver told him that when he drew up to the gates, he pulled out a gun.
+Tice laughed at first, Ali recalls the driver saying, apparently believing the man he trusted was joking. But the driver told Tice he was serious, Abu Ali says, and the journalist realised what was happening.
+According to Ali, Tice pulled out his chequebook and pleaded with the driver to name his price, rather than go through with the kidnap.
+NDF militia members then grabbed Tice, covering his eyes, Abu Ali says.
+Another NDF member told us he would never forget Tice's expression as he realised he had been betrayed. Abu Ali says Hassan immediately called President Assad to tell him they had the American.
+For years, the identity of Tice's driver has remained a mystery.
+The BBC spoke to more than 20 people to discover who he was, with the trail eventually leading to the city of Homs, and the family of a man called Hamid Abu Obeid.
+They confirmed he was the man who had driven Tice away, an account also supported by multiple NDF members. But by the time we identified him, Abu Obeid had disappeared.
+His family say they do not know where he is, and fear for his safety. They say they were not aware of Hamid's involvement in Tice's case, and learned about it from him afterwards.
+But they did give a motive for his betrayal of Tice.
+The Abu Obeid family, Palestinian refugees from Gaza, live in poverty. Under Syrian law they are not entitled to Syrian citizenship and live under significant restrictions.
+According to Hamid's brother, he had been promised a passport, Syrian citizenship, a house, and a weapon, in return for delivering Tice - life-changing rewards. But after the abduction, the family says all he got was a pistol.
+Then, after Assad's regime fell, Abu Obeid's wife says her husband was called by a man who knew about his involvement in Tice's case and was threatening to tell the US embassy, hoping it might help him secure asylum.
+Abu Obeid urged him not to. He then took some money, told his wife he was going shopping, and she says she has not seen him since. She does not know if he is in hiding, or if he has been detained or killed.
+Not long after he disappeared, she says masked men - some dressed in military clothes - visited and took a number of Abu Obeid's possessions, including his laptop and other devices.
+The wishes of Abu Obeid's wife now chillingly mirror those of Tice's mother and family. On opposite sides of a disappearance that began more than a decade ago, both families are searching for the same thing: a loved one who vanished, and an answer to where he went.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T05:00:18+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f662/live/68ede5c0-b25d-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 10,
+  },
+  {
     id: "trump-plans-to-meet-gulf-leaders-at-un-n-0639cf38",
     title: "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
     titleJa: "Trump plans to meet Gulf leaders at UN next week on Iran war's endgame: report",
@@ -583,6 +1049,76 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a58a/live/dab4a350-b1be-11f1-bdcf-d393eb724fa3.jpg",
     readTime: 10,
+  },
+  {
+    id: "openai-reports-6-new-instances-of-concer-da03ff2d",
+    title: "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+    titleJa: "OpenAI reports 6 new instances of 'concerning model behavior' since March",
+    summaryJa: "OpenAI has disclosed six new cases of model misbehavior and offered a framework for disclosing future instances, as the debate over AI model safety intensifies.",
+    bodyOriginal: `OpenAI on Wednesday said it found six instances of "unexpected or concerning model behavior" over the past six months, outside of the recent Hugging Face crisis, as the company continues to call for more safety protections in the development of artificial intelligence models.
+In a blog post, OpenAI outlined a new framework the company plans to follow for reporting future model misbehavior.
+The disclosure comes at a time of mounting pressure on AI companies to take model misalignment and safety more seriously. OpenAI, which is valued at close to $1 trillion, confidentially filed for an IPO earlier this year, but said recently an offering likely won't happen until 2027.
+"We do not believe that the AI industry has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer," the blog post says, reiterating a prior statement from the company.
+Alignment refers to the idea that models are pursuing outcomes in line with human interests.
+On Saturday, OpenAI CEO Sam Altman endorsed a call to slow down the rate of model progress, which was proposed by the company's chief rival, Anthropic. The proposal came after several industry researchers sounded the alarm about AI's growing potential to cause catastrophic harm last week.
+Altman said in a post on X that a slowdown has been a "primary topic of discussions we've had at OpenAI in recent weeks." He said the company would have more to share "soon."
+In Wednesday's post, OpenAI said two of the main instances of misbehavior include models — an unreleased research model and a training run of GPT‑5.6 Sol — inserting instructions to future versions of itself in summaries of its chat windows "to conceal mistakes or misaligned behavior from the user." Another instance involved an internal-only model using a leaked API key "without authorization" and then fabricating data.
+Two instances include models and agents communicating with each other through unsanctioned messaged boards and file sharing, while the final case includes two training examples of models uploading files to the internet so they could cite them as relevant answers to human evaluators.
+OpenAI said its new framework for divulging model misbehavior to the public starts with disclosure, and that any employee can flag an issue for the safety and alignment team to investigate. They will produce "deadlines for each step to ensure timely investigation and disclosure," the post said.
+Investigations will lead to reports with essential information such as the behavior observed, the external and internal impacts, and measures to be taken in response. OpenAI said it retains the right to revise this security protocol as it sees fit.
+WATCH: Our business is a diversified set of revenue streams, says OpenAI CFO Sarah Friar`,
+    bodyJa: `OpenAI on Wednesday said it found six instances of "unexpected or concerning model behavior" over the past six months, outside of the recent Hugging Face crisis, as the company continues to call for more safety protections in the development of artificial intelligence models.
+In a blog post, OpenAI outlined a new framework the company plans to follow for reporting future model misbehavior.
+The disclosure comes at a time of mounting pressure on AI companies to take model misalignment and safety more seriously. OpenAI, which is valued at close to $1 trillion, confidentially filed for an IPO earlier this year, but said recently an offering likely won't happen until 2027.
+"We do not believe that the AI industry has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer," the blog post says, reiterating a prior statement from the company.
+Alignment refers to the idea that models are pursuing outcomes in line with human interests.
+On Saturday, OpenAI CEO Sam Altman endorsed a call to slow down the rate of model progress, which was proposed by the company's chief rival, Anthropic. The proposal came after several industry researchers sounded the alarm about AI's growing potential to cause catastrophic harm last week.
+Altman said in a post on X that a slowdown has been a "primary topic of discussions we've had at OpenAI in recent weeks." He said the company would have more to share "soon."
+In Wednesday's post, OpenAI said two of the main instances of misbehavior include models — an unreleased research model and a training run of GPT‑5.6 Sol — inserting instructions to future versions of itself in summaries of its chat windows "to conceal mistakes or misaligned behavior from the user." Another instance involved an internal-only model using a leaked API key "without authorization" and then fabricating data.
+Two instances include models and agents communicating with each other through unsanctioned messaged boards and file sharing, while the final case includes two training examples of models uploading files to the internet so they could cite them as relevant answers to human evaluators.
+OpenAI said its new framework for divulging model misbehavior to the public starts with disclosure, and that any employee can flag an issue for the safety and alignment team to investigate. They will produce "deadlines for each step to ensure timely investigation and disclosure," the post said.
+Investigations will lead to reports with essential information such as the behavior observed, the external and internal impacts, and measures to be taken in response. OpenAI said it retains the right to revise this security protocol as it sees fit.
+WATCH: Our business is a diversified set of revenue streams, says OpenAI CFO Sarah Friar`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/openai-6-new-instances-of-concerning-model-behavior-since-march.html",
+    publishedAt: "2026-09-16T23:05:48+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "here-are-five-key-takeaways-from-wednesd-b0d4e881",
+    title: "Here are five key takeaways from Wednesday's Fed rate hike",
+    titleJa: "Here are five key takeaways from Wednesday's Fed rate hike",
+    summaryJa: "The Federal Reserve on Wednesday delivered a much-expected interest rate hike, and Chairman Kevin Warsh followed with a notably terse news conference at which he stressed policymakers' staunch commitment to tackling inflation.",
+    bodyOriginal: `The Federal Reserve on Wednesday delivered a much-expected interest rate hike, and Chairman Kevin Warsh followed with a notably terse news conference at which he stressed policymakers' staunch commitment to tackling inflation.
+Here are five key takeaways:
+- A fairly unified message: The Fed's quarter-percentage-point rate increase was largely in keeping with market expectations. At least somewhat surprisingly, the vote was unanimous. Given the range of views expressed by policymakers in recent weeks, there was widespread speculation that at least one voter would dissent, with much of the speculation centered on Governor Christopher Waller. In the end, however, all 12 voters on the Federal Open Market Committee agreed with the decision.
+- The market didn't like it: Stocks were in the green heading into the rate decision and bond yields were lower. That didn't last long. Whether it was Warsh's hawkish tone on inflation or just the general prospect of multiple hikes, stocks sold off sharply after the decision. The Dow Jones Industrial Average tumbled 631 points and the 2-year Treasury yield, the security most sensitive to Fed rate expectations, rocketed more than 7 basis points higher. The sell-off was reminiscent of the reaction to the July FOMC meeting and Warsh news conference.
+- Short statement, short presser: In keeping with the prior two meetings under the Warsh regime, the post-meeting statement was terse, to say the least. Clocking in at a meager 130 words, the statement was even shorter than July's, which was 166 words, and was tied with the June missive. Warsh followed that with a news conference in which he took reporters' questions for a grand total of some 22 minutes during a session that lasted barely half an hour total.
+- Connecting the dots: The FOMC dot plot of officials' individual expectations for interest rates showed a fairly cohesive group for 2026 but a wide dispersion afterward. Sixteen of the 18 participants expected at least one more rate hike this year. For out years, though, there was considerable disagreement. Eight expected another hike in 2027, nine of 17 saw rates steady or higher in 2028 and 10 figured on no cuts through 2029.
+- Bucking the president: Warsh deflected a couple questions with political overtones. That was significant because President Donald Trump has been rattling his anti-Fed saber again, going so far as to threaten to cut off trade with some countries unless the Fed cuts. "I've got nothing for you on a discussion with the president," he said at one point, later adding, "Part of the independence of the Federal Reserve is we stay in our lane. Independence is a two-way street."
+What they're saying
+"This is unlikely to be the end of Fed rate hikes …. It's hard to look at roughly 4% unemployment and a core PCE forecast of 3.5% and say the Fed shouldn't be focused on inflation. But monetary policy looks like a really costly way to solve this problem right now." — Mike Madowitz, principal economist at the Roosevelt Institute, a liberal think tank
+"Risk assets were not enamored with the outcome of today's FOMC. Hopes of limited hikes ahead faded in the face of the Fed's resolve to address inflation. Still, after the initial reset, we believe Chair Warsh's clear messaging could actually help support Treasury prices further out the curve." — Andrzej Skiba, head of the BlueBay U.S. Fixed Income team at RBC Global Asset Management
+"Warsh's press conference was coherent, confident and consistently hawkish without coming across as crazily so. He balanced a stern but disciplined message on inflation with an upbeat take on growth which he said has been strengthening since the start of the summer." — Krishna Guha, head of economics and central bank strategy at Evercore ISI`,
+    bodyJa: `The Federal Reserve on Wednesday delivered a much-expected interest rate hike, and Chairman Kevin Warsh followed with a notably terse news conference at which he stressed policymakers' staunch commitment to tackling inflation.
+Here are five key takeaways:
+- A fairly unified message: The Fed's quarter-percentage-point rate increase was largely in keeping with market expectations. At least somewhat surprisingly, the vote was unanimous. Given the range of views expressed by policymakers in recent weeks, there was widespread speculation that at least one voter would dissent, with much of the speculation centered on Governor Christopher Waller. In the end, however, all 12 voters on the Federal Open Market Committee agreed with the decision.
+- The market didn't like it: Stocks were in the green heading into the rate decision and bond yields were lower. That didn't last long. Whether it was Warsh's hawkish tone on inflation or just the general prospect of multiple hikes, stocks sold off sharply after the decision. The Dow Jones Industrial Average tumbled 631 points and the 2-year Treasury yield, the security most sensitive to Fed rate expectations, rocketed more than 7 basis points higher. The sell-off was reminiscent of the reaction to the July FOMC meeting and Warsh news conference.
+- Short statement, short presser: In keeping with the prior two meetings under the Warsh regime, the post-meeting statement was terse, to say the least. Clocking in at a meager 130 words, the statement was even shorter than July's, which was 166 words, and was tied with the June missive. Warsh followed that with a news conference in which he took reporters' questions for a grand total of some 22 minutes during a session that lasted barely half an hour total.
+- Connecting the dots: The FOMC dot plot of officials' individual expectations for interest rates showed a fairly cohesive group for 2026 but a wide dispersion afterward. Sixteen of the 18 participants expected at least one more rate hike this year. For out years, though, there was considerable disagreement. Eight expected another hike in 2027, nine of 17 saw rates steady or higher in 2028 and 10 figured on no cuts through 2029.
+- Bucking the president: Warsh deflected a couple questions with political overtones. That was significant because President Donald Trump has been rattling his anti-Fed saber again, going so far as to threaten to cut off trade with some countries unless the Fed cuts. "I've got nothing for you on a discussion with the president," he said at one point, later adding, "Part of the independence of the Federal Reserve is we stay in our lane. Independence is a two-way street."
+What they're saying
+"This is unlikely to be the end of Fed rate hikes …. It's hard to look at roughly 4% unemployment and a core PCE forecast of 3.5% and say the Fed shouldn't be focused on inflation. But monetary policy looks like a really costly way to solve this problem right now." — Mike Madowitz, principal economist at the Roosevelt Institute, a liberal think tank
+"Risk assets were not enamored with the outcome of today's FOMC. Hopes of limited hikes ahead faded in the face of the Fed's resolve to address inflation. Still, after the initial reset, we believe Chair Warsh's clear messaging could actually help support Treasury prices further out the curve." — Andrzej Skiba, head of the BlueBay U.S. Fixed Income team at RBC Global Asset Management
+"Warsh's press conference was coherent, confident and consistently hawkish without coming across as crazily so. He balanced a stern but disciplined message on inflation with an upbeat take on growth which he said has been strengthening since the start of the summer." — Krishna Guha, head of economics and central bank strategy at Evercore ISI`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+    publishedAt: "2026-09-16T21:23:51+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
   },
   {
     id: "amazon-obtains-right-to-buy-stock-in-gen-818553b0",
@@ -1481,608 +2017,6 @@ The financial cost of the Middle East conflict is also being closely watched. Ac
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "nvidia-s-huang-diverges-with-ceos-of-ant-70a525a0",
-    title: "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-    titleJa: "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-    summaryJa: "Comments from the two tech leaders landed days after Anthropic's Dario Amodei published an essay urging the AI industry to slow the pace of model development.",
-    bodyOriginal: `Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman presented views on artificial intelligence safety that differed from Nvidia CEO Jensen Huang in conversations at Salesforce's Dreamforce conference, days after the debate burst into the mainstream.
-Amodei took the stage first with Salesforce CEO Marc Benioff, during his annual keynote, an appearance that followed an essay Amodei published over the weekend urging the industry to slow the pace of model development.
-"I think that's the way to lead the industry forward, to set an example, to say that everyone can always be better," Amodei told Benioff on Tuesday, in front of about 12,000 people at San Francisco's Moscone Center.
-Industry executives including OpenAI CEO Sam Altman, SpaceX CEO Elon Musk and Google DeepMind Chair Demis Hassabis, quickly voiced support for Amodei's proposal, which came after industry researchers last week raised the alarm on AI's potential to cause catastrophic harm. Amodei suggested a three-step plan to temper how quickly model capabilities improve without "sacrificing commercial advantage or the United States' lead in AI."
-Huang, who appeared with Benioff shortly after Amodei, has a different perspective. The CEO of the world's most valuable company said market forces already exist, and that the industry doesn't need new laws or regulations. Huang added that speed and safety are not mutually exclusive, though companies should pace themselves until they are sure they are releasing something that the market will appreciate.
-"It's a false choice," Huang told Benioff. "You could definitely have both at the same time."
-Huang said it's up to the model developers to act responsibly with their products.
-"Run as fast as you can," he said. "But if you feel at any given point in time the company's out of control or the product's not going to be safe, take a pause and make sure you get it right."
-A day earlier, Huang was on stage in Los Angeles for the All-In Summit, where he took a call from President Donald Trump. The president, while on speaker, expressed concern about people who are trying to stand in the way of AI data center construction.
-"We're not going to let that happen, sir," Huang said to Trump.
-Dreamforce has been one of the premier events in the software industry for well over a decade, attracting about 50,000 people to downtown San Francisco and taking over a large swath of its hometown. Benioff's keynote always includes multiple high-profile guests, often people who are at the center of the tech universe at that particular time.
-Benioff has had longstanding relationships with both Huang and Amodei.
-On Tuesday, Salesforce and Nvidia announced a new reasoning model for the software company's Agentforce platform, which was built on one of Nvidia open-weight Nemotron models. Late last month, Salesforce and Anthropic expanded their strategic partnership and unveiled "Claudeforce," a new way for salespeople to access critical data directly from inside Anthropic's Claude chatbot.
-In terms of how the model companies should proceed, Benioff told reporters on Tuesday, "If they feel like they should slow down, then they should slow down. If they feel they should speed up, they should they should speed up. And then they should be held accountable."
-Altman's appearance with Benioff took place later in the day. During a fireside chat between the two CEOs, Altman said it's imperative for safety and monitoring to come before capabilities, given the power of existing models.
-"You have companies saying things like, 'We will only be responsible if other companies are responsible,'" Altman said. People then ask what the company is going to do to be safe and responsible "no matter what," he said.
-"There should be no qualifier on that," Altman said.
-WATCH: Sen. Mark Warner: Have to take advantage of AI leaders calling for regulation`,
-    bodyJa: `Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman presented views on artificial intelligence safety that differed from Nvidia CEO Jensen Huang in conversations at Salesforce's Dreamforce conference, days after the debate burst into the mainstream.
-Amodei took the stage first with Salesforce CEO Marc Benioff, during his annual keynote, an appearance that followed an essay Amodei published over the weekend urging the industry to slow the pace of model development.
-"I think that's the way to lead the industry forward, to set an example, to say that everyone can always be better," Amodei told Benioff on Tuesday, in front of about 12,000 people at San Francisco's Moscone Center.
-Industry executives including OpenAI CEO Sam Altman, SpaceX CEO Elon Musk and Google DeepMind Chair Demis Hassabis, quickly voiced support for Amodei's proposal, which came after industry researchers last week raised the alarm on AI's potential to cause catastrophic harm. Amodei suggested a three-step plan to temper how quickly model capabilities improve without "sacrificing commercial advantage or the United States' lead in AI."
-Huang, who appeared with Benioff shortly after Amodei, has a different perspective. The CEO of the world's most valuable company said market forces already exist, and that the industry doesn't need new laws or regulations. Huang added that speed and safety are not mutually exclusive, though companies should pace themselves until they are sure they are releasing something that the market will appreciate.
-"It's a false choice," Huang told Benioff. "You could definitely have both at the same time."
-Huang said it's up to the model developers to act responsibly with their products.
-"Run as fast as you can," he said. "But if you feel at any given point in time the company's out of control or the product's not going to be safe, take a pause and make sure you get it right."
-A day earlier, Huang was on stage in Los Angeles for the All-In Summit, where he took a call from President Donald Trump. The president, while on speaker, expressed concern about people who are trying to stand in the way of AI data center construction.
-"We're not going to let that happen, sir," Huang said to Trump.
-Dreamforce has been one of the premier events in the software industry for well over a decade, attracting about 50,000 people to downtown San Francisco and taking over a large swath of its hometown. Benioff's keynote always includes multiple high-profile guests, often people who are at the center of the tech universe at that particular time.
-Benioff has had longstanding relationships with both Huang and Amodei.
-On Tuesday, Salesforce and Nvidia announced a new reasoning model for the software company's Agentforce platform, which was built on one of Nvidia open-weight Nemotron models. Late last month, Salesforce and Anthropic expanded their strategic partnership and unveiled "Claudeforce," a new way for salespeople to access critical data directly from inside Anthropic's Claude chatbot.
-In terms of how the model companies should proceed, Benioff told reporters on Tuesday, "If they feel like they should slow down, then they should slow down. If they feel they should speed up, they should they should speed up. And then they should be held accountable."
-Altman's appearance with Benioff took place later in the day. During a fireside chat between the two CEOs, Altman said it's imperative for safety and monitoring to come before capabilities, given the power of existing models.
-"You have companies saying things like, 'We will only be responsible if other companies are responsible,'" Altman said. People then ask what the company is going to do to be safe and responsible "no matter what," he said.
-"There should be no qualifier on that," Altman said.
-WATCH: Sen. Mark Warner: Have to take advantage of AI leaders calling for regulation`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-    publishedAt: "2026-09-16T04:21:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "how-rising-bond-yields-impact-american-c-1995a9f9",
-    title: "How rising bond yields impact American consumers",
-    titleJa: "How rising bond yields impact American consumers",
-    summaryJa: "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
-    bodyOriginal: `How rising bond yields impact American consumers
-The 10-year Treasury yield has surpassed 5% and reached its highest level since 2007. What does this mean for you?
-The BBC’s Samira Hussain explains.
-Related topics
-- Personal financeUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- US economyUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
-    bodyJa: `How rising bond yields impact American consumers
-The 10-year Treasury yield has surpassed 5% and reached its highest level since 2007. What does this mean for you?
-The BBC’s Samira Hussain explains.
-Related topics
-- Personal financeUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- US economyUpdates from your News topics will appear in My News and in a collection on the News homepage.
-- United StatesUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-16T03:58:32+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2548/live/ce0fe040-b16b-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 2,
-  },
-  {
-    id: "openai-boss-says-world-right-to-be-afrai-4d526c97",
-    title: "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    titleJa: "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-    summaryJa: "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-    bodyOriginal: `OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
-- Published
-OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.
-"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this," Altman said on Tuesday during a conference in San Francisco.
-However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.
-"It doesn't take as much imagination as it used to for [us] to imagine how this could go wrong," he said. "I think the world is right to be afraid of this."
-Altman's comments came during an appearance at an annual conference hosted by software firm Salesforce.
-It was the first time he had spoken publicly since a post went viral last week by a researcher who quit the AI firm Anthropic. The researcher claimed AI could kill all humans by the end of the decade if left unchecked.
-A handful of other AI executives and experts responded by saying they agreed with the assessment, though they didn't explain how they came to their conclusions or how exactly AI could accomplish such a thing.
-The fervor over the claims has led to more scrutiny of AI development in recent days, and in response, Anthropic chief executive Dario Amodei called for the pace of all AI development to slow, external and urged governments to regulate the industry.
-The post was applauded by Altman, as well as co-founder of Google's DeepMind Demis Hassabis, and Elon Musk, owner of social media site X and AI assistant Grok.
-By Tuesday, more AI leaders were voicing support for self-regulation rather than government involvement.
-Altman said that he felt AI companies like his own were capable of essentially regulating themselves.
-"We will get it right, I'm very confident in our company's and industry's ability to do this safely," Altman said, adding that he was sure that they would "keep alignment and safety way ahead of capabilities" and if they couldn't, they would "slow down or stop".
-After Altman's comments, Meta boss Mark Zuckerberg wrote on X that every AI lab has the ability and the incentive "to take its own actions" towards making AI tools and models that are designed for safety.
-"Any lab that doesn't focus on alignment will fall behind," Zuckerberg wrote. "Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well."
-Jensen Huang, head of Nvidia, also said at the same Tuesday conference that the AI firms should decide if new versions of the technology should be released and not be managed by outside forces.
-"We don't need new laws or regulations," Huang said, adding that there should not be a "false choice" between the speed of innovation and the safety of AI products.
-Nvidia is the biggest company in the world by valuation, with its profits having boomed as a result of rampant demand for the AI computing chips it makes.
-"Safety is paramount. However, safety is an engineering problem," Huang said.
-He added that if at any time a leader of an AI company lacks confidence in their product they should choose to not release it.
-"That's a very obvious thing to do," Huang said. "Run as fast as you can, but if at any time you feel the institution is not in control, take a pause."
-Why doomsday warnings are not the only threat to the AI juggernaut
-- Published4 hours ago
-Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
-- Published19 hours ago
-Some industry figures have argued resurgent AI fears were overblown and were being jumped on to generate hype for the industry.
-During the conference, Altman addressed a crowd of hundreds of business people, telling them they should use AI tools to aid in their work, but also needed them in order to protect their businesses from potentially AI-enabled cyber attacks.
-The idea of AI executives being left to entirely regulate themselves has struck some in the industry as a bad idea.
-Jack Clark, an Anthropic executive and co-founder, told the BBC on Monday that leaving AI to be a "totally unregulated industry" was "rolling dice with immense risks".
-Patrick Hillman, the chief operating officer of Logical Intelligence, which is chaired by Yann LeCun, a sage of the AI industry, noted Tuesday how little faith people have in tech companies to do anything truly in the public interest, external.
-"The only institution that Americans might trust less than Washington these days is Silicon Valley. I have worked and lived in both and I assure you both have earned this scepticism," Hillman said.
-"If you believe what you are building is dangerous, show us what you are prepared to stop doing," he added.
-Leaders of OpenAI and Anthropic have said they have recently started working towards some sort of industry-wide agreement on safety.
-Amodei, during a cameo at the conference on Tuesday, said Anthropic is now in "a dialogue with the rest of the industry" about committing to better safety standards and checks on AI tools and development.
-He also said that one of the biggest surprises of the AI boom was not how the technology itself has advanced, but its broader impact.
-"We didn't appreciate that it would lead to companies growing so fast, and how quickly they would become central to things," Amodei said.
-OpenAI executive Chris Lehane said last week that the company was also working with other AI labs, external "to advance frontier AI standards, building a voluntary effort now, with or without government support." Those labs include Anthropic and Google Deepmind.
-"With stakes this high, we cannot let the perfect become the enemy of the good," Lehane wrote.`,
-    bodyJa: `OpenAI boss says world 'right to be afraid' but 'should trust' AI firms
-- Published
-OpenAI boss Sam Altman thinks people should have more faith in his company and others like it to do the right thing when it comes to artificial intelligence (AI) development amid rising public concerns about all the risks.
-"The world should trust that we are going to do the right thing because it's the right thing and we feel the magnitude of this," Altman said on Tuesday during a conference in San Francisco.
-However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.
-"It doesn't take as much imagination as it used to for [us] to imagine how this could go wrong," he said. "I think the world is right to be afraid of this."
-Altman's comments came during an appearance at an annual conference hosted by software firm Salesforce.
-It was the first time he had spoken publicly since a post went viral last week by a researcher who quit the AI firm Anthropic. The researcher claimed AI could kill all humans by the end of the decade if left unchecked.
-A handful of other AI executives and experts responded by saying they agreed with the assessment, though they didn't explain how they came to their conclusions or how exactly AI could accomplish such a thing.
-The fervor over the claims has led to more scrutiny of AI development in recent days, and in response, Anthropic chief executive Dario Amodei called for the pace of all AI development to slow, external and urged governments to regulate the industry.
-The post was applauded by Altman, as well as co-founder of Google's DeepMind Demis Hassabis, and Elon Musk, owner of social media site X and AI assistant Grok.
-By Tuesday, more AI leaders were voicing support for self-regulation rather than government involvement.
-Altman said that he felt AI companies like his own were capable of essentially regulating themselves.
-"We will get it right, I'm very confident in our company's and industry's ability to do this safely," Altman said, adding that he was sure that they would "keep alignment and safety way ahead of capabilities" and if they couldn't, they would "slow down or stop".
-After Altman's comments, Meta boss Mark Zuckerberg wrote on X that every AI lab has the ability and the incentive "to take its own actions" towards making AI tools and models that are designed for safety.
-"Any lab that doesn't focus on alignment will fall behind," Zuckerberg wrote. "Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well."
-Jensen Huang, head of Nvidia, also said at the same Tuesday conference that the AI firms should decide if new versions of the technology should be released and not be managed by outside forces.
-"We don't need new laws or regulations," Huang said, adding that there should not be a "false choice" between the speed of innovation and the safety of AI products.
-Nvidia is the biggest company in the world by valuation, with its profits having boomed as a result of rampant demand for the AI computing chips it makes.
-"Safety is paramount. However, safety is an engineering problem," Huang said.
-He added that if at any time a leader of an AI company lacks confidence in their product they should choose to not release it.
-"That's a very obvious thing to do," Huang said. "Run as fast as you can, but if at any time you feel the institution is not in control, take a pause."
-Why doomsday warnings are not the only threat to the AI juggernaut
-- Published4 hours ago
-Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards
-- Published19 hours ago
-Some industry figures have argued resurgent AI fears were overblown and were being jumped on to generate hype for the industry.
-During the conference, Altman addressed a crowd of hundreds of business people, telling them they should use AI tools to aid in their work, but also needed them in order to protect their businesses from potentially AI-enabled cyber attacks.
-The idea of AI executives being left to entirely regulate themselves has struck some in the industry as a bad idea.
-Jack Clark, an Anthropic executive and co-founder, told the BBC on Monday that leaving AI to be a "totally unregulated industry" was "rolling dice with immense risks".
-Patrick Hillman, the chief operating officer of Logical Intelligence, which is chaired by Yann LeCun, a sage of the AI industry, noted Tuesday how little faith people have in tech companies to do anything truly in the public interest, external.
-"The only institution that Americans might trust less than Washington these days is Silicon Valley. I have worked and lived in both and I assure you both have earned this scepticism," Hillman said.
-"If you believe what you are building is dangerous, show us what you are prepared to stop doing," he added.
-Leaders of OpenAI and Anthropic have said they have recently started working towards some sort of industry-wide agreement on safety.
-Amodei, during a cameo at the conference on Tuesday, said Anthropic is now in "a dialogue with the rest of the industry" about committing to better safety standards and checks on AI tools and development.
-He also said that one of the biggest surprises of the AI boom was not how the technology itself has advanced, but its broader impact.
-"We didn't appreciate that it would lead to companies growing so fast, and how quickly they would become central to things," Amodei said.
-OpenAI executive Chris Lehane said last week that the company was also working with other AI labs, external "to advance frontier AI standards, building a voluntary effort now, with or without government support." Those labs include Anthropic and Google Deepmind.
-"With stakes this high, we cannot let the perfect become the enemy of the good," Lehane wrote.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-16T00:59:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg",
-    readTime: 10,
-  },
-  {
-    id: "uk-in-talks-about-joining-global-defence-94ba5532",
-    title: "UK in talks about joining global defence bank led by Canada",
-    titleJa: "UK in talks about joining global defence bank led by Canada",
-    summaryJa: "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
-    bodyOriginal: `UK in talks about joining global defence bank led by Canada
-- Published
-The UK government is in discussions about joining a global investment bank aimed at raising more money for defence spending.
-Chancellor John Healey is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
-Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
-Treasury officials stressed that no decision has been made. A government spokesperson said it was "fully committed to working alongside our international partners to scale defence industrial capacity."
-Before he cancelled commitments due to the death of his father, Prime Minister Andy Burnham had been due to meet Canada's Prime Minister Mark Carney in the UK on Wednesday.
-Nato Secretary General Mark Rutte is also travelling to the UK for his first meeting with the prime minister.
-He is giving a speech in Oxfordshire, where he is expected to say the UK is "serious about security" and praise the country's efforts supporting Ukraine.
-He will also say that Nato will "not be intimidated by Russia's campaign of hostile actions.
-"Russia wants to stop us helping Ukraine – but their actions will only lead us to do more for Ukraine."
-It comes after Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high amid Russia's full-scale invasion of Ukraine.
-And on Tuesday Denmark also accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.
-The DSRB is a multilateral bank aimed at providing cheaper loans to fund defence projects and has backing from Albania, Bulgaria, Belgium, Greece, Latvia, Luxembourg, Romania, Turkey and Ukraine.
-Membership of the bank for the UK and other G7 countries would come with an upfront investment cost of around £870m spread over three years.
-Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
-The government has so far avoided committing to raising defence spending to 3% of national income by 2030, only repeating the longer term goal of 3.5% by 2035.
-As defence secretary, Healey privately pushed for the UK to join the DSRB as a means of raising money.
-He resigned in June, accusing the Treasury of being unwilling to provide the resources needed to defend the country.
-In his resignation letter, he said there were "credible ways" to fund extra defence spending, including "working multinationally".
-A government spokesperson said: "We are fully committed to working alongside our international partners to scale defence industrial capacity.
-"We are working closely with our Canadian allies on ensuring the Multilateral Defence Mechanism and Defence Security Resilience Bank are complementary."
-Healey wanted UK to join global defence bank, BBC told
-- Published13 June
-Jarvis 'working round clock' to finalise defence plan
-- Published18 June
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `UK in talks about joining global defence bank led by Canada
-- Published
-The UK government is in discussions about joining a global investment bank aimed at raising more money for defence spending.
-Chancellor John Healey is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
-Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
-Treasury officials stressed that no decision has been made. A government spokesperson said it was "fully committed to working alongside our international partners to scale defence industrial capacity."
-Before he cancelled commitments due to the death of his father, Prime Minister Andy Burnham had been due to meet Canada's Prime Minister Mark Carney in the UK on Wednesday.
-Nato Secretary General Mark Rutte is also travelling to the UK for his first meeting with the prime minister.
-He is giving a speech in Oxfordshire, where he is expected to say the UK is "serious about security" and praise the country's efforts supporting Ukraine.
-He will also say that Nato will "not be intimidated by Russia's campaign of hostile actions.
-"Russia wants to stop us helping Ukraine – but their actions will only lead us to do more for Ukraine."
-It comes after Nato forces shot down a drone over Lithuania in the latest security scare on the alliance's eastern flank, where tensions remain high amid Russia's full-scale invasion of Ukraine.
-And on Tuesday Denmark also accused a Russian warship of firing two emergency flares at one of its helicopters while it was tracking the vessel in the Baltic Sea.
-The DSRB is a multilateral bank aimed at providing cheaper loans to fund defence projects and has backing from Albania, Bulgaria, Belgium, Greece, Latvia, Luxembourg, Romania, Turkey and Ukraine.
-Membership of the bank for the UK and other G7 countries would come with an upfront investment cost of around £870m spread over three years.
-Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
-The government has so far avoided committing to raising defence spending to 3% of national income by 2030, only repeating the longer term goal of 3.5% by 2035.
-As defence secretary, Healey privately pushed for the UK to join the DSRB as a means of raising money.
-He resigned in June, accusing the Treasury of being unwilling to provide the resources needed to defend the country.
-In his resignation letter, he said there were "credible ways" to fund extra defence spending, including "working multinationally".
-A government spokesperson said: "We are fully committed to working alongside our international partners to scale defence industrial capacity.
-"We are working closely with our Canadian allies on ensuring the Multilateral Defence Mechanism and Defence Security Resilience Bank are complementary."
-Healey wanted UK to join global defence bank, BBC told
-- Published13 June
-Jarvis 'working round clock' to finalise defence plan
-- Published18 June
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T23:50:55+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8d/live/97804d80-b189-11f1-8867-6b6a7f037413.jpg",
-    readTime: 8,
-  },
-  {
-    id: "why-doomsday-warnings-are-not-the-only-t-9049d06e",
-    title: "Why doomsday warnings are not the only threat to the AI juggernaut",
-    titleJa: "Why doomsday warnings are not the only threat to the AI juggernaut",
-    summaryJa: "The global AI race is being hit by very localised political and environmental concerns",
-    bodyOriginal: `There is an eerie low hum that emanates from data centres, where tens of thousands of chips make trillions of computations a second to help drive the artificial intelligence (AI) revolution.
-These chips power the text, images and video generated by the queries made by the world of the advanced AI models.
-Their computations, which are in effect the switching on and off of microscopic silicon transistors that make up a chip, are actually silent. But, as with all computers, almost every watt of the significant electricity powering this process leaves as heat, and the sound you can hear is the slow whir of thousands of fans required to prevent the heat from frying the racks of servers. Depending on the size of the site, you may also hear the thrum of transformers in substations channelling electricity.
-In recent days, alarming warnings of threats to humanity have created a din, but it is these low hums that have stirred a backlash in the US which now threatens to envelop its mid-term elections, and could cross the Atlantic and come to the UK.
-In the US, the opposition to data centres is most overt on the political left. Democratic Senator Bernie Sanders has called for a moratorium on any new construction. "People are looking around worried about how quickly the technology is moving, how little control they have over it, how will data centres impact their community in terms of electric rates and water utilisation," he told me.
-It's possible that a global AI race travelling at Silicon Valley's top speeds could be about to hit the buffers of very localised political and environmental concerns.
-A toxic debate
-In the US, polling by Gallup published in May suggested having a data centre in your area was more unpopular than having a nuclear power station. On data centres, 71% were opposed, including 48% strongly opposed. For nuclear power stations 53% were opposed, including 34% strongly opposed. This unpopularity has grown over the past two years, with some polls suggesting half of Americans support a total pause on their construction.
-There has been opposition to some of these developments in the UK too, from Buckinghamshire and Berkshire to Brick Lane in east London, with locals fearing their areas will be negatively impacted.
-In Brick Lane, plans for a data centre likely to service the City of London's high frequency traders face a backlash from those who would prefer to see more social housing and local business developments in the capital's east end. Meanwhile in the shires, the sheer demand for data centres sees pressure to expand provision from Slough, into the leafy countryside.
-The UK has the third highest number of data centres in the world, one spot ahead of China. The US has the most.
-Back in the US, this backlash is being reflected in what politicians standing in critical elections in November are saying.
-The backlash is clearly more pronounced among Democrats on the left, but anti-data-centre sentiment is clear among Republican supporters too. City councils have been voted out in response to their policies on data centres, while some whole states - both red and blue - are proposing bans.
-Last year, in New Jersey and Virginia, Democratic Governors were elected partly because of a backlash against rising electricity prices blamed on data centre construction and operation.
-Stories abound of local townspeople seeing energy bills soar when they are asked to foot the bill for the infrastructure needed to power new data centres, or finding their already stretched water supplies further diminished. Because the US energy system functions at a local level, the impact on bills can be immediate.
-With control of both houses of the US Congress up for grabs, the scale of the hyper-localised opposition could become a defining factor in the midterm elections and with it the fate of US policy and Donald Trump's presidency.
-A dizzying flip
-Seven Big Tech CEOs appeared with Trump in March to sign the "Ratepayer Protection Pledge" saying they would "build, bring or buy" their own energy needs and ensure costs are not passed to "ordinary households." The pledge was non-binding.
-This clearly did not go far enough for some. The new Democratic Governors in New Jersey and Virginia (home to the largest global concentration of data centres), went much further with legislation compelling new energy tariffs for data centres, and disclosure of energy and water use.
-Perhaps the most potent symbol of all of this, is the pro-Trump Republican Senate candidate in Texas, Ken Paxton, attacking data centres, campaigning against their tax breaks and proposing that operators of the facilities should be criminally liable if the technology "empowered AI chatbots that undermine children's safety".
-Texas had been the most pro-business, pro-data centre, pro-energy state, competing ferociously for these facilities. It had, for example, won much of the multi-billion-dollar relocation investment from Elon Musk's SpaceX AI behemoth, to produce AI chips.
-It has been a dizzying flip. Jensen Huang, chief of AI chipmaker Nvidia, took to social media in August to make the case for data centres as the essential agent of US reindustrialisation. Other Big Tech CEOs have not followed, perhaps a sign of the difficult optics.
-The lesson from the US however, has been that talking about benefits to the overall national economy, or potentially curing cancer, does not always cut it locally. Part of the eerie sound surrounding data centres is the relative absence of actual permanent workers coming and going. While there are plenty of construction jobs, a functioning data centre tends to require just a few dozen staff, with a few hundred at the very largest new sites.
-Asking local people to accept the sound, the all night security lighting and the pressure on energy and water supplies in their areas as being for the good of the country is one thing. But it's a harder sell when the AI firms are on the cusp of trillion-dollar-plus valuations but are also expecting massive job losses, and many are asking whether the technology could wipe humans off the face of the Earth.
-Critical infrastructure
-The arguments have crossed the Atlantic. In Slough, Europe's greatest cluster of data centres, over 500 people signed a petition saying the town "should not become an experiment". They are questioning whether the town has benefited from this, and want a pause on data centre development in the town.
-Locals have complained that the heat generated by the centres made already sweltering summer temperatures even worse. One scheme was built on a site that had been designated for 1,000 homes, but was sold to a data centre company as part of the council's attempt to clear its debts.
-Back in Brick Lane, former Labour peer Baroness Pola Uddin says: "I understand the need for data centres, but there must be proper consideration of the health and wellbeing of the local population that lives, breathes, goes to school. We must consider the option of more industrial areas."
-The Labour government last year designated data centres as Critical National Infrastructure, part of its strategy to help fast track their roll out.
-It views data centres as underpinning public services and crucial to attract investment and allow Britain to compete in the global economy.
-The argument it makes is national economic benefit, but the political challenge is whether locals will put up with it. One of the first acts of the new Labour government was to back a Buckinghamshire data centre that had been repeatedly rejected by the local council because it was going to be built on the green belt.
-Permission was granted by ministers, but then challenged by campaigners after a crowdfunded court case, for failing to consider environmental impact. The Government acknowledged errors, quashed its own approval, and the developer eventually conceded it needed to agree binding clean energy obligations with the council. The victorious campaigning group, Foxglove, vowed to refocus its efforts on challenging other data centre schemes across the UK.
-Water is another area of concern for campaigners. The tech industry argues its requirements are not so heavy when you consider how much water is lost to leaks, for example.
-In a submission to a Commons committee the trade body Water UK criticised "not a single mention of water" in Government AI growth strategies. "There appears to be an assumption that the country will always have enough water for its economic needs. Nothing could be further from the truth."
-Much of the recent UK effort to expand data centres was aimed at areas strategically chosen based on a combination of their potential contribution to the economy, the availability of brownfield sites to develop and their existing connections to energy grids and electricity generation. These areas have been dubbed AI Growth zones.
-But even in these places, the political balance between growth and the environment led to hold-ups within Cabinet. A scheme in Teesside saw a tug of war between ministers over whether it should be used for a low carbon hydrogen energy scheme, or a massive new AI data centre. The data centre won out.
-Environmental compromises
-The Silicon Valley tech giants have acknowledged that massive AI data centre energy needs will result in slower progress on climate change. Nvidia's Huang told me last year that it was the invention and deployment of AI itself that was the initial priority, and he claimed the technology itself could help solve climate change. "This is the production of intelligence, what could be more valuable and more important than that?"
-In the UK there is still a fundamental question about whether the electricity requirements of a plan to expand current data centre capacity threefold by 2030, to 6 gigawatts (GW) of continuous capacity, can be coherent with net zero plans.
-The Government is expected to soon outline its policy for local government on data centres in a National Policy Statement (NPS), identifying which types qualify as "nationally significant" and are therefore eligible to be fast-tracked by the Government.
-Since they started drafting the NPS, there has been a change of prime minister, and a change of political temperature on this issue.
-Prime Minister Andy Burnham has pledged "growth in every postcode" and data centres might help deliver this. However the Government's prominent role is also a clear example of national centralisation of power, the opposite of Burnham's desire to give more powers to local government. Might this, plus the challenge of the Green Party's call for a data centre moratorium, alter Burnham's thinking?
-'America brain'
-Some in Westminster say there is a case of "America brain" about this issue where just because it is an issue in the US, people believe the same is true for the UK.
-While the UK is trying to get to that 6GW figure, in the US the 2030 ambition is at least 20 times that, with some individual megaprojects to exceed total planned UK capacity.
-The impact on local electricity prices is not the same, they say, though that is partly a consequence of the UK's already higher energy prices.
-For the UK there is also a vital argument about data sovereignty, and avoiding total reliance on either the US or other countries for the IT infrastructure underpinning large swathes of our service economy.
-There is talk of lessons needing to be learned about failing to capture the upside of the economic and political power that came from the growth in social media and the internet in the early part of this century. The UK was mainly a customer of these technologies, rather than their maker.
-"This time [on AI] we have to get it right, but a precondition is having some level of data infrastructure," one minister told me. The UK's ambition is seen as relatively modest in terms of continuous AI usage for the NHS, national security and financial services by 2030.
-This "skin in the game" argument is echoed in the AI labs. Some influential voices believe the impact of their models on society will be so profound that it will fundamentally affect the ability of governments to raise taxes, especially on work. Their futurologists muse about vastly disrupted flows of cash around the economy. Physical data centres may become one of the few ways to tax the proceeds of this revolution.
-In the US some of the same politicians who had fought to welcome data centres now suggest they have turned on them. Tax breaks are turning into tax demands. The small-town US backlash may have specific American context, but it is also having echoes around the world.
-Lead image: Reuters/AFP via Getty
-More from InDepth
-Why some experts increasingly fear AI will take over
-- Published6 days ago
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `There is an eerie low hum that emanates from data centres, where tens of thousands of chips make trillions of computations a second to help drive the artificial intelligence (AI) revolution.
-These chips power the text, images and video generated by the queries made by the world of the advanced AI models.
-Their computations, which are in effect the switching on and off of microscopic silicon transistors that make up a chip, are actually silent. But, as with all computers, almost every watt of the significant electricity powering this process leaves as heat, and the sound you can hear is the slow whir of thousands of fans required to prevent the heat from frying the racks of servers. Depending on the size of the site, you may also hear the thrum of transformers in substations channelling electricity.
-In recent days, alarming warnings of threats to humanity have created a din, but it is these low hums that have stirred a backlash in the US which now threatens to envelop its mid-term elections, and could cross the Atlantic and come to the UK.
-In the US, the opposition to data centres is most overt on the political left. Democratic Senator Bernie Sanders has called for a moratorium on any new construction. "People are looking around worried about how quickly the technology is moving, how little control they have over it, how will data centres impact their community in terms of electric rates and water utilisation," he told me.
-It's possible that a global AI race travelling at Silicon Valley's top speeds could be about to hit the buffers of very localised political and environmental concerns.
-A toxic debate
-In the US, polling by Gallup published in May suggested having a data centre in your area was more unpopular than having a nuclear power station. On data centres, 71% were opposed, including 48% strongly opposed. For nuclear power stations 53% were opposed, including 34% strongly opposed. This unpopularity has grown over the past two years, with some polls suggesting half of Americans support a total pause on their construction.
-There has been opposition to some of these developments in the UK too, from Buckinghamshire and Berkshire to Brick Lane in east London, with locals fearing their areas will be negatively impacted.
-In Brick Lane, plans for a data centre likely to service the City of London's high frequency traders face a backlash from those who would prefer to see more social housing and local business developments in the capital's east end. Meanwhile in the shires, the sheer demand for data centres sees pressure to expand provision from Slough, into the leafy countryside.
-The UK has the third highest number of data centres in the world, one spot ahead of China. The US has the most.
-Back in the US, this backlash is being reflected in what politicians standing in critical elections in November are saying.
-The backlash is clearly more pronounced among Democrats on the left, but anti-data-centre sentiment is clear among Republican supporters too. City councils have been voted out in response to their policies on data centres, while some whole states - both red and blue - are proposing bans.
-Last year, in New Jersey and Virginia, Democratic Governors were elected partly because of a backlash against rising electricity prices blamed on data centre construction and operation.
-Stories abound of local townspeople seeing energy bills soar when they are asked to foot the bill for the infrastructure needed to power new data centres, or finding their already stretched water supplies further diminished. Because the US energy system functions at a local level, the impact on bills can be immediate.
-With control of both houses of the US Congress up for grabs, the scale of the hyper-localised opposition could become a defining factor in the midterm elections and with it the fate of US policy and Donald Trump's presidency.
-A dizzying flip
-Seven Big Tech CEOs appeared with Trump in March to sign the "Ratepayer Protection Pledge" saying they would "build, bring or buy" their own energy needs and ensure costs are not passed to "ordinary households." The pledge was non-binding.
-This clearly did not go far enough for some. The new Democratic Governors in New Jersey and Virginia (home to the largest global concentration of data centres), went much further with legislation compelling new energy tariffs for data centres, and disclosure of energy and water use.
-Perhaps the most potent symbol of all of this, is the pro-Trump Republican Senate candidate in Texas, Ken Paxton, attacking data centres, campaigning against their tax breaks and proposing that operators of the facilities should be criminally liable if the technology "empowered AI chatbots that undermine children's safety".
-Texas had been the most pro-business, pro-data centre, pro-energy state, competing ferociously for these facilities. It had, for example, won much of the multi-billion-dollar relocation investment from Elon Musk's SpaceX AI behemoth, to produce AI chips.
-It has been a dizzying flip. Jensen Huang, chief of AI chipmaker Nvidia, took to social media in August to make the case for data centres as the essential agent of US reindustrialisation. Other Big Tech CEOs have not followed, perhaps a sign of the difficult optics.
-The lesson from the US however, has been that talking about benefits to the overall national economy, or potentially curing cancer, does not always cut it locally. Part of the eerie sound surrounding data centres is the relative absence of actual permanent workers coming and going. While there are plenty of construction jobs, a functioning data centre tends to require just a few dozen staff, with a few hundred at the very largest new sites.
-Asking local people to accept the sound, the all night security lighting and the pressure on energy and water supplies in their areas as being for the good of the country is one thing. But it's a harder sell when the AI firms are on the cusp of trillion-dollar-plus valuations but are also expecting massive job losses, and many are asking whether the technology could wipe humans off the face of the Earth.
-Critical infrastructure
-The arguments have crossed the Atlantic. In Slough, Europe's greatest cluster of data centres, over 500 people signed a petition saying the town "should not become an experiment". They are questioning whether the town has benefited from this, and want a pause on data centre development in the town.
-Locals have complained that the heat generated by the centres made already sweltering summer temperatures even worse. One scheme was built on a site that had been designated for 1,000 homes, but was sold to a data centre company as part of the council's attempt to clear its debts.
-Back in Brick Lane, former Labour peer Baroness Pola Uddin says: "I understand the need for data centres, but there must be proper consideration of the health and wellbeing of the local population that lives, breathes, goes to school. We must consider the option of more industrial areas."
-The Labour government last year designated data centres as Critical National Infrastructure, part of its strategy to help fast track their roll out.
-It views data centres as underpinning public services and crucial to attract investment and allow Britain to compete in the global economy.
-The argument it makes is national economic benefit, but the political challenge is whether locals will put up with it. One of the first acts of the new Labour government was to back a Buckinghamshire data centre that had been repeatedly rejected by the local council because it was going to be built on the green belt.
-Permission was granted by ministers, but then challenged by campaigners after a crowdfunded court case, for failing to consider environmental impact. The Government acknowledged errors, quashed its own approval, and the developer eventually conceded it needed to agree binding clean energy obligations with the council. The victorious campaigning group, Foxglove, vowed to refocus its efforts on challenging other data centre schemes across the UK.
-Water is another area of concern for campaigners. The tech industry argues its requirements are not so heavy when you consider how much water is lost to leaks, for example.
-In a submission to a Commons committee the trade body Water UK criticised "not a single mention of water" in Government AI growth strategies. "There appears to be an assumption that the country will always have enough water for its economic needs. Nothing could be further from the truth."
-Much of the recent UK effort to expand data centres was aimed at areas strategically chosen based on a combination of their potential contribution to the economy, the availability of brownfield sites to develop and their existing connections to energy grids and electricity generation. These areas have been dubbed AI Growth zones.
-But even in these places, the political balance between growth and the environment led to hold-ups within Cabinet. A scheme in Teesside saw a tug of war between ministers over whether it should be used for a low carbon hydrogen energy scheme, or a massive new AI data centre. The data centre won out.
-Environmental compromises
-The Silicon Valley tech giants have acknowledged that massive AI data centre energy needs will result in slower progress on climate change. Nvidia's Huang told me last year that it was the invention and deployment of AI itself that was the initial priority, and he claimed the technology itself could help solve climate change. "This is the production of intelligence, what could be more valuable and more important than that?"
-In the UK there is still a fundamental question about whether the electricity requirements of a plan to expand current data centre capacity threefold by 2030, to 6 gigawatts (GW) of continuous capacity, can be coherent with net zero plans.
-The Government is expected to soon outline its policy for local government on data centres in a National Policy Statement (NPS), identifying which types qualify as "nationally significant" and are therefore eligible to be fast-tracked by the Government.
-Since they started drafting the NPS, there has been a change of prime minister, and a change of political temperature on this issue.
-Prime Minister Andy Burnham has pledged "growth in every postcode" and data centres might help deliver this. However the Government's prominent role is also a clear example of national centralisation of power, the opposite of Burnham's desire to give more powers to local government. Might this, plus the challenge of the Green Party's call for a data centre moratorium, alter Burnham's thinking?
-'America brain'
-Some in Westminster say there is a case of "America brain" about this issue where just because it is an issue in the US, people believe the same is true for the UK.
-While the UK is trying to get to that 6GW figure, in the US the 2030 ambition is at least 20 times that, with some individual megaprojects to exceed total planned UK capacity.
-The impact on local electricity prices is not the same, they say, though that is partly a consequence of the UK's already higher energy prices.
-For the UK there is also a vital argument about data sovereignty, and avoiding total reliance on either the US or other countries for the IT infrastructure underpinning large swathes of our service economy.
-There is talk of lessons needing to be learned about failing to capture the upside of the economic and political power that came from the growth in social media and the internet in the early part of this century. The UK was mainly a customer of these technologies, rather than their maker.
-"This time [on AI] we have to get it right, but a precondition is having some level of data infrastructure," one minister told me. The UK's ambition is seen as relatively modest in terms of continuous AI usage for the NHS, national security and financial services by 2030.
-This "skin in the game" argument is echoed in the AI labs. Some influential voices believe the impact of their models on society will be so profound that it will fundamentally affect the ability of governments to raise taxes, especially on work. Their futurologists muse about vastly disrupted flows of cash around the economy. Physical data centres may become one of the few ways to tax the proceeds of this revolution.
-In the US some of the same politicians who had fought to welcome data centres now suggest they have turned on them. Tax breaks are turning into tax demands. The small-town US backlash may have specific American context, but it is also having echoes around the world.
-Lead image: Reuters/AFP via Getty
-More from InDepth
-Why some experts increasingly fear AI will take over
-- Published6 days ago
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T23:39:55+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-extreme-engineering-of-aircraft-wind-46f7d147",
-    title: "The extreme engineering of aircraft windows",
-    titleJa: "The extreme engineering of aircraft windows",
-    summaryJa: "Few companies have the technology to make aircraft windows which are getting harder to make.",
-    bodyOriginal: `The extreme engineering of aircraft windows
-- Published
-An industrial nightmare was brewing south of Los Angeles.
-In late May, a chemical storage tank with more than 7,000 gallons of toxic material began heating up – fast. The tank belonged to GKN Aerospace, a company that supplies parts to the aviation industry, including aircraft windows.
-As the temperature inside the shiny metal storage vessel rose, workers realised they had a problem. The tank was at risk of exploding, potentially showering nearby neighbourhoods with methyl methacrylate (MMA), a skin and lung-irritating, external compound used in plastics production.
-The tank's temperature reached 100F (38C) – though possibly went higher - 100F was simply the maximum reading, external on the temperature gauge inside.
-More than 50,000 residents of Garden Grove city were evacuated and fire crews began hosing down the tank in a bid to cool it. At one point, the vessel "actually bulged" according to the local fire chief.
-Thankfully, no explosion occurred. Months later, in August, GKN and local authorities announced a $100m (£74m) programme, external to compensate residents evacuated during the incident. But production of aircraft windows at the site, which had been halted, is still not fully restored.
-This has sent a minor shockwave through the aircraft manufacturing industry because GKN is one of surprisingly few companies, anywhere in the world, that make aircraft windows – highly engineered, safety-critical parts for planes.
-Production at GKN's Garden Grove facility currently remains hobbled, at roughly 50% of normal, according to public statements, external by its UK parent company Melrose Industries. The aim is to have full production restored by 28 September. GKN declined an interview with the BBC.
-"They're one of only a handful of suppliers – less than a handful, really – of critical windows," says Marisa Garcia, an aviation industry analyst. "One of the breaking points of supply chain in aviation is you have very few companies qualified to do something and, when something goes wrong, it really upsets the entire system."
-Boeing tells the BBC it is "taking steps to mitigate any potential impacts", describing the shortfall in production as an "industry-wide" situation.
-"We are supporting our supplier," a spokesman adds. An Airbus spokeswoman says, "We are closely monitoring and are seeing positive progress toward a return to normal."
-It comes at a time when airlines "can't get new aircraft fast enough," says Mike Stengel of AeroDynamic Advisory, a consultancy. "They're holding on to aircraft for longer."
-Even though there are just a few aircraft window-manufacturing firms in existence, it's hard for new competitors to emerge because of how regulated the industry is, adds Stengel. "It can take time to pivot to a new supplier."
-This leads to a "balancing act" between plane-makers and the firms they rely on for various parts, Stengel says.
-To find out what goes into the making of an aircraft window, I spoke to Jean-Eric Vermont, general manager of French company Saint-Gobain Aerospace.
-"We focus mostly on commercial aircraft, regional aircraft and helicopters," he says. Vermont declines, though, to say how much market share his company has in aircraft windows – or transparencies, as they are known in the trade.
-The oval-shaped windows in the cabin, next to passengers' seats, are typically made of plastic-based materials, says Vermont. "You start from a sheet of acrylic," he explains. "Then you cut to size, [to] give the shape."
-A Saint-Gobain spokesman confirmed to the BBC that the company does not store or process MMA like GKN, but rather purchases sheets of polymerised MMA, or acrylic.
-Aircraft manufacturers are increasingly ordering larger cabin windows, says Vermont, in order to offer passengers a wider view of the world outside. It's a selling point but it requires additional testing to ascertain whether the bigger windows hold up as well as the smaller ones.
-Saint-Gobain tests its windows by exposing them to pressures many times what would be normal on an aircraft flying at altitude.
-These acrylic-based cabin windows are usually made out of two layers or plies, and Saint-Gobain also performs tests to confirm whether the window will survive even if one of those plies gets damaged.
-Cockpit windows, Vermont says, are "totally different".
-They are generally made of glass, which is chemically reinforced by adding potassium to it. This involves swapping smaller sodium ions for larger potassium ions, which helps to fill out the molecular structure of the glass, meaning that when it cools during production, it compresses into an extra strong, tight formation as it cools.
-Some of the latest aircraft feature cockpit windows that are also curved, to make the plane more streamlined, which improves fuel efficiency. But curved cockpit windows are challenging to make – the slightest distortion or defect is clearly visible to the pilot.
-Quality control checks are used to ensure no such impediments exist in the final product.
-All aircraft windows must be resistant to impacts but cockpit windows, at the front of the plane, are especially vulnerable to bird strikes, says Vermont: "The issue is not the speed of the bird, the issue is the speed of the aircraft."
-Saint-Gobain uses numerical simulations and "physical tests representative of a sizeable bird impact" to test its windows against this threat.
-"Typically, if you go through a hailstorm or if you hit a large enough bird, the external ply will crack," says Vermont. "The cockpit window is designed for that."
-A London to Londonderry flight was recently affected by a cracked cockpit window. While a mid-air emergency was declared, the plane landed safely. "There can be [such] cases," says Vermont, though he adds that Saint-Gobain's windows have not been involved in any recently.
-"You're obviously dealing with a surface that is interfacing with two very different environments," says Stengel. "That's why these are more highly-engineered products."
-More Technology of Business
-- Published2 September
-- Published7 days ago
-- Published28 August`,
-    bodyJa: `The extreme engineering of aircraft windows
-- Published
-An industrial nightmare was brewing south of Los Angeles.
-In late May, a chemical storage tank with more than 7,000 gallons of toxic material began heating up – fast. The tank belonged to GKN Aerospace, a company that supplies parts to the aviation industry, including aircraft windows.
-As the temperature inside the shiny metal storage vessel rose, workers realised they had a problem. The tank was at risk of exploding, potentially showering nearby neighbourhoods with methyl methacrylate (MMA), a skin and lung-irritating, external compound used in plastics production.
-The tank's temperature reached 100F (38C) – though possibly went higher - 100F was simply the maximum reading, external on the temperature gauge inside.
-More than 50,000 residents of Garden Grove city were evacuated and fire crews began hosing down the tank in a bid to cool it. At one point, the vessel "actually bulged" according to the local fire chief.
-Thankfully, no explosion occurred. Months later, in August, GKN and local authorities announced a $100m (£74m) programme, external to compensate residents evacuated during the incident. But production of aircraft windows at the site, which had been halted, is still not fully restored.
-This has sent a minor shockwave through the aircraft manufacturing industry because GKN is one of surprisingly few companies, anywhere in the world, that make aircraft windows – highly engineered, safety-critical parts for planes.
-Production at GKN's Garden Grove facility currently remains hobbled, at roughly 50% of normal, according to public statements, external by its UK parent company Melrose Industries. The aim is to have full production restored by 28 September. GKN declined an interview with the BBC.
-"They're one of only a handful of suppliers – less than a handful, really – of critical windows," says Marisa Garcia, an aviation industry analyst. "One of the breaking points of supply chain in aviation is you have very few companies qualified to do something and, when something goes wrong, it really upsets the entire system."
-Boeing tells the BBC it is "taking steps to mitigate any potential impacts", describing the shortfall in production as an "industry-wide" situation.
-"We are supporting our supplier," a spokesman adds. An Airbus spokeswoman says, "We are closely monitoring and are seeing positive progress toward a return to normal."
-It comes at a time when airlines "can't get new aircraft fast enough," says Mike Stengel of AeroDynamic Advisory, a consultancy. "They're holding on to aircraft for longer."
-Even though there are just a few aircraft window-manufacturing firms in existence, it's hard for new competitors to emerge because of how regulated the industry is, adds Stengel. "It can take time to pivot to a new supplier."
-This leads to a "balancing act" between plane-makers and the firms they rely on for various parts, Stengel says.
-To find out what goes into the making of an aircraft window, I spoke to Jean-Eric Vermont, general manager of French company Saint-Gobain Aerospace.
-"We focus mostly on commercial aircraft, regional aircraft and helicopters," he says. Vermont declines, though, to say how much market share his company has in aircraft windows – or transparencies, as they are known in the trade.
-The oval-shaped windows in the cabin, next to passengers' seats, are typically made of plastic-based materials, says Vermont. "You start from a sheet of acrylic," he explains. "Then you cut to size, [to] give the shape."
-A Saint-Gobain spokesman confirmed to the BBC that the company does not store or process MMA like GKN, but rather purchases sheets of polymerised MMA, or acrylic.
-Aircraft manufacturers are increasingly ordering larger cabin windows, says Vermont, in order to offer passengers a wider view of the world outside. It's a selling point but it requires additional testing to ascertain whether the bigger windows hold up as well as the smaller ones.
-Saint-Gobain tests its windows by exposing them to pressures many times what would be normal on an aircraft flying at altitude.
-These acrylic-based cabin windows are usually made out of two layers or plies, and Saint-Gobain also performs tests to confirm whether the window will survive even if one of those plies gets damaged.
-Cockpit windows, Vermont says, are "totally different".
-They are generally made of glass, which is chemically reinforced by adding potassium to it. This involves swapping smaller sodium ions for larger potassium ions, which helps to fill out the molecular structure of the glass, meaning that when it cools during production, it compresses into an extra strong, tight formation as it cools.
-Some of the latest aircraft feature cockpit windows that are also curved, to make the plane more streamlined, which improves fuel efficiency. But curved cockpit windows are challenging to make – the slightest distortion or defect is clearly visible to the pilot.
-Quality control checks are used to ensure no such impediments exist in the final product.
-All aircraft windows must be resistant to impacts but cockpit windows, at the front of the plane, are especially vulnerable to bird strikes, says Vermont: "The issue is not the speed of the bird, the issue is the speed of the aircraft."
-Saint-Gobain uses numerical simulations and "physical tests representative of a sizeable bird impact" to test its windows against this threat.
-"Typically, if you go through a hailstorm or if you hit a large enough bird, the external ply will crack," says Vermont. "The cockpit window is designed for that."
-A London to Londonderry flight was recently affected by a cracked cockpit window. While a mid-air emergency was declared, the plane landed safely. "There can be [such] cases," says Vermont, though he adds that Saint-Gobain's windows have not been involved in any recently.
-"You're obviously dealing with a surface that is interfacing with two very different environments," says Stengel. "That's why these are more highly-engineered products."
-More Technology of Business
-- Published2 September
-- Published7 days ago
-- Published28 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c0lr69zeyrwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T23:19:38+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a08/live/b975d4a0-ac34-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "we-are-all-new-job-starters-here-s-how-w-2fee716d",
-    title: "We are all new job starters - here's how we got through the first few days",
-    titleJa: "We are all new job starters - here's how we got through the first few days",
-    summaryJa: "Four recent job starters share their tips on what helped them have a smooth transition and survive their first few days.",
-    bodyOriginal: `We are all new job starters - here's how we got through the first few days
-- Published
-Getting a new job is tough and when you've secured it you want to go well.
-Adjusting to a new job is always nerve-wracking, especially if it's a role you've wanted for a while.
-Here, four recent job starters share their tips on what helped them have a smooth transition and survive the first few days.
-Tell someone when you get stuck
-Sarisha Ganesan, 22, graduated from Loughborough University in June and started in a graduate role in marketing last month.
-Her role is fully remote so to prepare for her first day, she emailed co-workers in advance asking what to expect.
-"I got to meet everyone virtually in the morning meeting, we went around and did mini introductions," she says.
-Initially, Sarisha was surprised by the collaborative environment of her role.
-"Coming from university, I was used to a more independent style of work.
-"There's loads of meetings throughout the day and regular call check-ups," she says.
-Sarisha's tip on navigating the first few weeks is to let your manager and wider team know if you get stuck on tasks or if the workload becomes excessive.
-"Let everyone know where you are with tasks to avoid them having to chase you up.
-"They don't expect you to know everything so make sure to communicate with them if things become unfamiliar or if you feel like you have too much on your plate and need a hand," she says.
-Set up check-ins with your boss
-Oliver Walker graduated from the University of Liverpool in May and one week later started a graduate role working on social media campaigns for a marketing agency.
-"I didn't have much time to prepare and went into it very unknown. There was very little time to do research on the responsibilities that came with my role," he says.
-He did some "company stalking" to learn more about the organisation itself so he didn't go into it "completely blind".
-His main tip is to focus on learning and developing in your role.
-On his first day, he asked his manager if they could have check-ins every six months to make sure he was achieving his goals.
-"For me, being a valuable member of my company is important.
-"I've been able to interact with incredibly helpful people in my company because I was asking to attend company events and saying yes when the opportunities appeared," he says.
-Ask for help - you're expected to
-Chinaza Eke, a third-year student at the University of Warwick, has just completed an eight-week summer internship with the civil service.
-Over the duration of the internship, she was given five main tasks to complete and had to use new software systems and platforms which she was previously unfamiliar with.
-"I didn't want to ask for help because it felt like I'd be admitting I didn't have the skills to be there," says Chinaza, who's 20.
-But after her first few days she realised that asking for guidance was expected and pretending to understand the tasks would only harm her in the long run.
-"Having my line manager encourage me to slow down was an adjustment from the intense environment of university," she says.
-Chinaza's tip for others is to ask for help when you need it, the sooner the better.
-"You can make so many valuable connections by admitting you need help. There is nothing wrong with being unable to do it straight away," she says.
-Speak to people outside your team
-Elijah Amoako recently started a new role managing industry relations.
-In preparation for his first day, he researched the organisation to understand the team he was joining.
-"I think it's important to arrive curious and open-minded, rather than feeling like you need to know everything from day one," he says.
-Having come from a different company, Elijah, 26, took time to observe how things worked in his new role and not assume the same practices applied.
-Elijah's tip for others is to build relationships beyond just your immediate team as this is the best way to expose yourself to multiple opportunities.
-"Your reputation starts being built from day one, through how reliable, curious and collaborative you are.
-"Building relationships and understanding how an organisation operates is equally important," he says.
-Tips from an expert
-Lizzie Crowley, senior policy adviser at the Chartered Institute of Personnel and Development, says it's important to "get many of the basics in place" ahead of your first day:`,
-    bodyJa: `We are all new job starters - here's how we got through the first few days
-- Published
-Getting a new job is tough and when you've secured it you want to go well.
-Adjusting to a new job is always nerve-wracking, especially if it's a role you've wanted for a while.
-Here, four recent job starters share their tips on what helped them have a smooth transition and survive the first few days.
-Tell someone when you get stuck
-Sarisha Ganesan, 22, graduated from Loughborough University in June and started in a graduate role in marketing last month.
-Her role is fully remote so to prepare for her first day, she emailed co-workers in advance asking what to expect.
-"I got to meet everyone virtually in the morning meeting, we went around and did mini introductions," she says.
-Initially, Sarisha was surprised by the collaborative environment of her role.
-"Coming from university, I was used to a more independent style of work.
-"There's loads of meetings throughout the day and regular call check-ups," she says.
-Sarisha's tip on navigating the first few weeks is to let your manager and wider team know if you get stuck on tasks or if the workload becomes excessive.
-"Let everyone know where you are with tasks to avoid them having to chase you up.
-"They don't expect you to know everything so make sure to communicate with them if things become unfamiliar or if you feel like you have too much on your plate and need a hand," she says.
-Set up check-ins with your boss
-Oliver Walker graduated from the University of Liverpool in May and one week later started a graduate role working on social media campaigns for a marketing agency.
-"I didn't have much time to prepare and went into it very unknown. There was very little time to do research on the responsibilities that came with my role," he says.
-He did some "company stalking" to learn more about the organisation itself so he didn't go into it "completely blind".
-His main tip is to focus on learning and developing in your role.
-On his first day, he asked his manager if they could have check-ins every six months to make sure he was achieving his goals.
-"For me, being a valuable member of my company is important.
-"I've been able to interact with incredibly helpful people in my company because I was asking to attend company events and saying yes when the opportunities appeared," he says.
-Ask for help - you're expected to
-Chinaza Eke, a third-year student at the University of Warwick, has just completed an eight-week summer internship with the civil service.
-Over the duration of the internship, she was given five main tasks to complete and had to use new software systems and platforms which she was previously unfamiliar with.
-"I didn't want to ask for help because it felt like I'd be admitting I didn't have the skills to be there," says Chinaza, who's 20.
-But after her first few days she realised that asking for guidance was expected and pretending to understand the tasks would only harm her in the long run.
-"Having my line manager encourage me to slow down was an adjustment from the intense environment of university," she says.
-Chinaza's tip for others is to ask for help when you need it, the sooner the better.
-"You can make so many valuable connections by admitting you need help. There is nothing wrong with being unable to do it straight away," she says.
-Speak to people outside your team
-Elijah Amoako recently started a new role managing industry relations.
-In preparation for his first day, he researched the organisation to understand the team he was joining.
-"I think it's important to arrive curious and open-minded, rather than feeling like you need to know everything from day one," he says.
-Having come from a different company, Elijah, 26, took time to observe how things worked in his new role and not assume the same practices applied.
-Elijah's tip for others is to build relationships beyond just your immediate team as this is the best way to expose yourself to multiple opportunities.
-"Your reputation starts being built from day one, through how reliable, curious and collaborative you are.
-"Building relationships and understanding how an organisation operates is equally important," he says.
-Tips from an expert
-Lizzie Crowley, senior policy adviser at the Chartered Institute of Personnel and Development, says it's important to "get many of the basics in place" ahead of your first day:`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T23:14:26+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f76/live/ed4dd290-b126-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "complaints-to-watchdog-about-water-firms-2ba28e6c",
-    title: "Complaints to watchdog about water firms jump 84%",
-    titleJa: "Complaints to watchdog about water firms jump 84%",
-    summaryJa: "Many complaints were about affordability, after customers saw steep hikes to bills.",
-    bodyOriginal: `Complaints to watchdog about water firms jump 84%
-- Published
-The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.
-The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed "just how dissatisfied" many people were.
-Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.
-Water UK, which represents firms, said it understood that higher bills was never welcome, but the money was needed "to fund vital upgrades".
-The total number of complaints to the watchdog rose to 15,115 in 2025-26, from 8,235 in the previous year.
-Meanwhile, complaints made by households directly to water companies, which is required before complaining to the CCW, rose by 56% to 321,347.
-The top three subjects of complaints to the CCW were measured billing, affordability and billing admin.
-Mike Keil, the chief executive of the CCW, said the figures "reflect just how dissatisfied many people still are with the state of the water sector".
-He said customers are "impatient to see the benefits" of higher bills.
-"Companies need to be clear and open with their customers about how they are investing people's money to deliver real improvements."
-The CCW assessed each water company's performance on the number of complaints it received for every 10,000 households it serves, and the amount of effort customers have to put in to get their complaint resolved.
-Thames Water and South West Water rated "poor" for both performance measures.
-David Bird, retail director at Thames, apologised to customers who "have not received the service they should expect".
-"We know bill clarity has been a particular source of frustration, which is why we have launched a programme to redesign them, so they are easier to understand," he said.
-Bills for the average Thames customer rose by 31% in 2024, but were a lot smaller this year at 3.4%.
-South West Water said: "We know there is more to do to improve our customers' experience. We are taking action by reducing repeat contacts, resolving issues when people contact us for the first time, and ensuring they receive clear, timely communication."
-Portsmouth Water and Bristol Water were the only companies to score "good" in both metrics, retaining their position at the top of the rankings as the sector's best performers.
-Last month, Ofwat approved bill increases for 13 companies to meet increased pressures on infrastructure and the environment.
-Five of those companies — Thames, Severn Trent Water, Southern Water, Wessex Water and South East Water — were already permitted to hike bills in 2024.
-A spokesperson for industry body Water UK said: "We understand increasing bills is never welcome, but the money is needed to fund vital upgrades to secure our water supplies, support economic growth and end sewage entering our rivers and seas.
-The spokesperson said that 94% of complaints are "being dealt with at the earliest possible stage without the need for further involvement from the consumer body".
-"The industry remains committed to improving communication with customers and showing clearly how their money is being used to deliver the improvements they expect," the spokesperson added.
-Related topics
-- Published13 August
-- Published1 April`,
-    bodyJa: `Complaints to watchdog about water firms jump 84%
-- Published
-The number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over rising bills.
-The Consumer Council for Water (CCW) said the year-on-year increase was the highest in its 20-year history and showed "just how dissatisfied" many people were.
-Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.
-Water UK, which represents firms, said it understood that higher bills was never welcome, but the money was needed "to fund vital upgrades".
-The total number of complaints to the watchdog rose to 15,115 in 2025-26, from 8,235 in the previous year.
-Meanwhile, complaints made by households directly to water companies, which is required before complaining to the CCW, rose by 56% to 321,347.
-The top three subjects of complaints to the CCW were measured billing, affordability and billing admin.
-Mike Keil, the chief executive of the CCW, said the figures "reflect just how dissatisfied many people still are with the state of the water sector".
-He said customers are "impatient to see the benefits" of higher bills.
-"Companies need to be clear and open with their customers about how they are investing people's money to deliver real improvements."
-The CCW assessed each water company's performance on the number of complaints it received for every 10,000 households it serves, and the amount of effort customers have to put in to get their complaint resolved.
-Thames Water and South West Water rated "poor" for both performance measures.
-David Bird, retail director at Thames, apologised to customers who "have not received the service they should expect".
-"We know bill clarity has been a particular source of frustration, which is why we have launched a programme to redesign them, so they are easier to understand," he said.
-Bills for the average Thames customer rose by 31% in 2024, but were a lot smaller this year at 3.4%.
-South West Water said: "We know there is more to do to improve our customers' experience. We are taking action by reducing repeat contacts, resolving issues when people contact us for the first time, and ensuring they receive clear, timely communication."
-Portsmouth Water and Bristol Water were the only companies to score "good" in both metrics, retaining their position at the top of the rankings as the sector's best performers.
-Last month, Ofwat approved bill increases for 13 companies to meet increased pressures on infrastructure and the environment.
-Five of those companies — Thames, Severn Trent Water, Southern Water, Wessex Water and South East Water — were already permitted to hike bills in 2024.
-A spokesperson for industry body Water UK said: "We understand increasing bills is never welcome, but the money is needed to fund vital upgrades to secure our water supplies, support economic growth and end sewage entering our rivers and seas.
-The spokesperson said that 94% of complaints are "being dealt with at the earliest possible stage without the need for further involvement from the consumer body".
-"The industry remains committed to improving communication with customers and showing clearly how their money is being used to deliver the improvements they expect," the spokesperson added.
-Related topics
-- Published13 August
-- Published1 April`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-15T23:14:08+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082a/live/80a19f50-b103-11f1-a451-6b1ff10ed362.jpg",
-    readTime: 9,
   },
 ];
 
