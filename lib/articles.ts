@@ -15,6 +15,436 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-says-he-s-banning-ms-now-cnn-and-p-b17ea2a8",
+    title: "Trump says he's banning MS NOW, CNN and Politico from White House",
+    titleJa: "Trump says he's banning MS NOW, CNN and Politico from White House",
+    summaryJa: "Trump, who often accuses mainstream media outlets of writing \"fake news,\" said on Truth Social that those outlets shouldn't be allowed to \"FICTION and LIES.\"",
+    bodyOriginal: `President Donald Trump said Friday that he is banning MS NOW, CNN and Politico from the White House over their coverage of him.
+Trump, who frequently accuses mainstream media outlets of writing "fake news," said in a Truth Social post that those outlets "shouldn't be able to constantly write or report FICTION and LIES."
+He did not identify any specific coverage. But he added, "Other Fake News Media Outlets to follow."
+In the Oval Office later Friday afternoon, Trump said he was imposing the ban in response to "cumulative stories" by the three outlets.
+"You get sick of it," he said.
+Trump, whose White House briefly tried to suspend a CNN reporter's press pass in 2018 and is currently in a lawsuit over an attempted ban of Associated Press journalists, said the bid to bar more news outlets was worthwhile even if it does not hold up in court.
+"I think it's good to point it out whether it survives or doesn't," Trump said.
+Trump has long targeted news outlets and individual journalists over what he claims is unfair coverage. He encourages his supporters at political rallies to boo and jeer at reporters present, and he regularly takes to social media to call out journalists by name and insult them in personal terms.
+But the attempt to block White House access to disfavored news outlets takes Trump's open hostility for critical reporting to a new extreme.
+It could also draw legal challenges over violations of the U.S. Constitution's First Amendment, which protects the freedom of the press.
+"In our view, it's unconstitutional," Arthur Spitzer, a lawyer for the American Civil Liberties Union, said in an interview with CNBC when asked about Trump's post.
+"He's plainly discriminating against them because they don't like the way they report the news, and the government isn't supposed to do that," the lawyer said. "Certainly, our view is the president cannot control, or try to control, the news by banning outlets from official events because he doesn't like the way they're reporting on him."
+Spitzer is representing the ACLU in an ongoing case related to Trump's ban of AP journalists from spaces including the Oval Office and Air Force One.
+Trump sought to bar the wire service from those places following its decision to refer to the Gulf of Mexico by its centuries-old name despite Trump's attempt to rename it the "Gulf of America."
+A federal judge ruled in April 2025 that Trump's action against the AP was "contrary to the First Amendment." An appeal of that decision is still pending.
+Asked for comment on Trump's Friday post, the White House referred CNBC to the president's latest comments in the Oval Office. MS NOW had no immediate comment. CNBC has reached out for comment from CNN and Politico.
+Weija Jiang, who served as president of the White House Correspondents' Association until July, responded to the Friday post by quoting the First Amendment.
+"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances," the amendment reads.
+The correspondents' association, whose current president is Fox News senior White House correspondent Jacqui Heinrich, did not immediately respond to CNBC's request for comment.
+This is breaking news. Please refresh for updates.
+Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
+    bodyJa: `President Donald Trump said Friday that he is banning MS NOW, CNN and Politico from the White House over their coverage of him.
+Trump, who frequently accuses mainstream media outlets of writing "fake news," said in a Truth Social post that those outlets "shouldn't be able to constantly write or report FICTION and LIES."
+He did not identify any specific coverage. But he added, "Other Fake News Media Outlets to follow."
+In the Oval Office later Friday afternoon, Trump said he was imposing the ban in response to "cumulative stories" by the three outlets.
+"You get sick of it," he said.
+Trump, whose White House briefly tried to suspend a CNN reporter's press pass in 2018 and is currently in a lawsuit over an attempted ban of Associated Press journalists, said the bid to bar more news outlets was worthwhile even if it does not hold up in court.
+"I think it's good to point it out whether it survives or doesn't," Trump said.
+Trump has long targeted news outlets and individual journalists over what he claims is unfair coverage. He encourages his supporters at political rallies to boo and jeer at reporters present, and he regularly takes to social media to call out journalists by name and insult them in personal terms.
+But the attempt to block White House access to disfavored news outlets takes Trump's open hostility for critical reporting to a new extreme.
+It could also draw legal challenges over violations of the U.S. Constitution's First Amendment, which protects the freedom of the press.
+"In our view, it's unconstitutional," Arthur Spitzer, a lawyer for the American Civil Liberties Union, said in an interview with CNBC when asked about Trump's post.
+"He's plainly discriminating against them because they don't like the way they report the news, and the government isn't supposed to do that," the lawyer said. "Certainly, our view is the president cannot control, or try to control, the news by banning outlets from official events because he doesn't like the way they're reporting on him."
+Spitzer is representing the ACLU in an ongoing case related to Trump's ban of AP journalists from spaces including the Oval Office and Air Force One.
+Trump sought to bar the wire service from those places following its decision to refer to the Gulf of Mexico by its centuries-old name despite Trump's attempt to rename it the "Gulf of America."
+A federal judge ruled in April 2025 that Trump's action against the AP was "contrary to the First Amendment." An appeal of that decision is still pending.
+Asked for comment on Trump's Friday post, the White House referred CNBC to the president's latest comments in the Oval Office. MS NOW had no immediate comment. CNBC has reached out for comment from CNN and Politico.
+Weija Jiang, who served as president of the White House Correspondents' Association until July, responded to the Friday post by quoting the First Amendment.
+"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances," the amendment reads.
+The correspondents' association, whose current president is Fox News senior White House correspondent Jacqui Heinrich, did not immediately respond to CNBC's request for comment.
+This is breaking news. Please refresh for updates.
+Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/trump-white-house-ban-msnow-cnn-politico.html",
+    publishedAt: "2026-09-18T20:34:58+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "elon-musk-talks-up-ai-safety-while-fight-d0978272",
+    title: "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+    titleJa: "Elon Musk talks up AI safety while fighting regulation in wild week of strange alliances",
+    summaryJa: "In the past week, Musk has agreed with the CEOs of Anthropic and OpenAI, while getting contradicted by President Trump and Nvidia's Jensen Huang.",
+    bodyOriginal: `Elon Musk had a head-spinning week in AI.
+After agreeing with bitter rivals Dario Amodei and Sam Altman in their call for foundation model labs to slow the pace of development, Musk was contradicted by President Donald Trump and Nvidia CEO Jensen Huang, who said AI companies actually need to go faster.
+Trump, whose stock portfolio includes shares of Nvidia and SpaceX according to his most recent disclosure, called fears of runaway AI a "hoax."
+Speaking on a panel at the All-In Summit on Tuesday that included longtime friend and former White House AI czar David Sacks, Musk took a more middle-of-the-road approach. He urged companies to test each other's new models to identify and fix safety issues before they get released, an option he sees as preferable to the government taking a heavy-handed regulatory position in AI.
+"You can always escalate the amount of regulatory oversight, but it is very difficult to reduce it," Musk said in a virtual appearance at the event. "It does tend to be very much a one-way ratchet."
+Behind the scenes, the Wall Street Journal reported this week that Musk had joined Huang and Meta CEO Mark Zuckerberg in advising President Trump to oppose an industry-funded regulator.
+Musk didn't immediately respond to a request for comment for this story.
+The back and forth in just the past week is a microcosm of Musk's history in artificial intelligence, dating back to an early check he wrote to fund DeepMind, which Google acquired in 2014. The year after that deal, Musk co-founded OpenAI with Altman and others as a nonprofit research lab.
+While Musk has long expressed controversial and often conflicting views in AI, torching friendships along the way with the likes of Google co-founder Larry Page and Altman, the stakes now are higher than ever. Model developers are rolling out technology that has industry insiders sounding the alarm about the potentially existential threats of AI, while internet giants spend hundreds of billions of dollars a year on the infrastructure to power it.
+Musk's SpaceX is heavily invested in the technology's growth. The company merged with xAI, Musk's AI startup, in February, and completed a $60 billion acquisition of AI coding tools provider Cursor in August. In between those two events, SpaceX went public in the largest IPO on record, briefly turning Musk into a trillionaire.
+Meanwhile, Musk's other public company, Tesla, continues work on so-called physical AI, including driverless cars and humanoid robots.
+"Tesla is arguably the world's biggest robotics company," Musk said at Tesla's "AI Day" in 2021. "Because our cars are semi-sentient robots on wheels."
+'Some scary outcomes'
+Since Musk's early days in AI, he's simultaneously drummed up public fears of world-ending threats from AI "superintelligence" while building out his own AI businesses and fighting off regulation. He told CNBC's "Closing Bell" in 2014, "I like to just keep an eye on what's going on with artificial intelligence," adding, "There have been movies about this, you know, like '[The] Terminator.' There are some scary outcomes."
+His fear-plus-optimism campaign is part of a strategy documented by AI ethics and computer science researchers Timnit Gebru and Emile Torres in a March 2024 paper.
+The paper mentions Musk more than 30 times and concludes that he and a small group of elite players in AI have claimed they are, "safeguarding humanity's future, while simultaneously creating unsafe products, centralizing power, and evading accountability," and disproportionately harming marginalized groups.
+In late 2014, Musk told students at the Massachusetts Institute of Technology that AI development was like "summoning the demon." Around that time, he donated $10 million through his foundation to seed the Future of Life Institute (FLI), a nonprofit led by MIT researcher Max Tegmark, who aimed to raise awareness of AI's terrifying potential and to steer the technology in a manner that would avoid driving humans to extinction.
+Speaking at a keynote at the 2015 Effective Altruism conference, Musk said the threat of AI advancements spinning out of human control was the biggest existential risk that he could envision. He soon signed an open letter from FLI calling to "pause AI."
+That same year, Musk co-founded OpenAI with a mission to "advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return."
+His rift with Altman came in 2018, when Musk privately pressured his OpenAI co-founders to give him control of the lab and to make OpenAI a for-profit subsidiary of Tesla. Musk poached key talent from OpenAI for Tesla, and resigned from the organization's board that year.
+It was another four years before the magnitude of that breakup would start to become apparent. In November 2022, OpenAI released ChatGPT, kicking off the generative AI boom, with Musk largely on the sidelines.
+A few months later, in March 2023, Musk signed another "pause AI letter" from FLI.
+"AI systems with human-competitive intelligence can pose profound risks to society and humanity, as shown by extensive research and acknowledged by top AI labs," the letter began.
+At roughly the same time, Musk was incorporating his new AI venture, xAI, in Nevada, but he kept it quiet from Tesla investors and the public until July.
+Musk v. Altman
+Then came the legal battle with Altman.
+In August 2024, Musk filed a suit against OpenAI and its co-founders, claiming they had violated a promise to keep the lab a nonprofit. Musk lost the high-profile California trial in May, when a jury and federal judge determined his claims were filed outside of the statute of limitations. Musk said he would appeal but has yet to do so.
+Correspondence brought to light in the case showed that Musk's obsession with creating OpenAI was built on fears that Google would control the technology after acquiring DeepMind, though in public he and Altman touted more altruistic aspects of their mission.
+Now, Musk is back to calling for safety. Following Amodei's essay last weekend imploring the industry to "pace the frontier," Musk posted on X, "Dario is right."
+That's quite the contrast from February, when Musk called Anthropic "misanthropic and evil" and said it "hates Western civilization." Things changed dramatically in May, when Anthropic agreed to pay SpaceX up to $1.25 billion a month to rent computing infrastructure in Memphis, giving Musk's company a hefty dose of sorely needed AI revenue before SpaceX's IPO.
+"I was clearly wrong about Anthropic," Musk wrote on X in July. "They are obviously currently the leader in AI."
+Musk's recent track record on AI safety has been rocky.
+He's built out data centers in and around Memphis, Tennessee, while fighting off litigation from residents nearby suffering from air and noise pollution from the operations.
+At SpaceX, Musk sold a version of xAI's Grok models to the U.S. military which "enabled U.S. forces to deploy over 2,000 munitions to 2,000 distinct targets within 96 hours," according to DOJ legal filings.
+And at xAI — now known as SpaceXAI — Musk sued to stop state regulations that would ban Grok's "nudify" features in Minnesota, and that would require his company to be transparent about the data used to train its models in California.
+As Musk and his peers and rivals debate the right approach to AI safety, and whether the government should have a big role or no role at all, lawmakers and third-party researchers are growing increasingly skeptical of the industry's ability to police itself.
+Tyler Whitmer, CEO of the nonprofit Legal Advocates for Safe Science and Technology (LASST), told CNBC that self-regulation won't be enough to protect the public from existing and future harms enabled by AI systems.
+"We need real regulation that creates a level playing field for companies but also protects the public, and the companies just can't do that themselves," Whitmer said. "There needs to be a government-enforceable requirement that third-party evaluators be involved, not just the companies themselves."`,
+    bodyJa: `Elon Musk had a head-spinning week in AI.
+After agreeing with bitter rivals Dario Amodei and Sam Altman in their call for foundation model labs to slow the pace of development, Musk was contradicted by President Donald Trump and Nvidia CEO Jensen Huang, who said AI companies actually need to go faster.
+Trump, whose stock portfolio includes shares of Nvidia and SpaceX according to his most recent disclosure, called fears of runaway AI a "hoax."
+Speaking on a panel at the All-In Summit on Tuesday that included longtime friend and former White House AI czar David Sacks, Musk took a more middle-of-the-road approach. He urged companies to test each other's new models to identify and fix safety issues before they get released, an option he sees as preferable to the government taking a heavy-handed regulatory position in AI.
+"You can always escalate the amount of regulatory oversight, but it is very difficult to reduce it," Musk said in a virtual appearance at the event. "It does tend to be very much a one-way ratchet."
+Behind the scenes, the Wall Street Journal reported this week that Musk had joined Huang and Meta CEO Mark Zuckerberg in advising President Trump to oppose an industry-funded regulator.
+Musk didn't immediately respond to a request for comment for this story.
+The back and forth in just the past week is a microcosm of Musk's history in artificial intelligence, dating back to an early check he wrote to fund DeepMind, which Google acquired in 2014. The year after that deal, Musk co-founded OpenAI with Altman and others as a nonprofit research lab.
+While Musk has long expressed controversial and often conflicting views in AI, torching friendships along the way with the likes of Google co-founder Larry Page and Altman, the stakes now are higher than ever. Model developers are rolling out technology that has industry insiders sounding the alarm about the potentially existential threats of AI, while internet giants spend hundreds of billions of dollars a year on the infrastructure to power it.
+Musk's SpaceX is heavily invested in the technology's growth. The company merged with xAI, Musk's AI startup, in February, and completed a $60 billion acquisition of AI coding tools provider Cursor in August. In between those two events, SpaceX went public in the largest IPO on record, briefly turning Musk into a trillionaire.
+Meanwhile, Musk's other public company, Tesla, continues work on so-called physical AI, including driverless cars and humanoid robots.
+"Tesla is arguably the world's biggest robotics company," Musk said at Tesla's "AI Day" in 2021. "Because our cars are semi-sentient robots on wheels."
+'Some scary outcomes'
+Since Musk's early days in AI, he's simultaneously drummed up public fears of world-ending threats from AI "superintelligence" while building out his own AI businesses and fighting off regulation. He told CNBC's "Closing Bell" in 2014, "I like to just keep an eye on what's going on with artificial intelligence," adding, "There have been movies about this, you know, like '[The] Terminator.' There are some scary outcomes."
+His fear-plus-optimism campaign is part of a strategy documented by AI ethics and computer science researchers Timnit Gebru and Emile Torres in a March 2024 paper.
+The paper mentions Musk more than 30 times and concludes that he and a small group of elite players in AI have claimed they are, "safeguarding humanity's future, while simultaneously creating unsafe products, centralizing power, and evading accountability," and disproportionately harming marginalized groups.
+In late 2014, Musk told students at the Massachusetts Institute of Technology that AI development was like "summoning the demon." Around that time, he donated $10 million through his foundation to seed the Future of Life Institute (FLI), a nonprofit led by MIT researcher Max Tegmark, who aimed to raise awareness of AI's terrifying potential and to steer the technology in a manner that would avoid driving humans to extinction.
+Speaking at a keynote at the 2015 Effective Altruism conference, Musk said the threat of AI advancements spinning out of human control was the biggest existential risk that he could envision. He soon signed an open letter from FLI calling to "pause AI."
+That same year, Musk co-founded OpenAI with a mission to "advance digital intelligence in the way that is most likely to benefit humanity as a whole, unconstrained by a need to generate financial return."
+His rift with Altman came in 2018, when Musk privately pressured his OpenAI co-founders to give him control of the lab and to make OpenAI a for-profit subsidiary of Tesla. Musk poached key talent from OpenAI for Tesla, and resigned from the organization's board that year.
+It was another four years before the magnitude of that breakup would start to become apparent. In November 2022, OpenAI released ChatGPT, kicking off the generative AI boom, with Musk largely on the sidelines.
+A few months later, in March 2023, Musk signed another "pause AI letter" from FLI.
+"AI systems with human-competitive intelligence can pose profound risks to society and humanity, as shown by extensive research and acknowledged by top AI labs," the letter began.
+At roughly the same time, Musk was incorporating his new AI venture, xAI, in Nevada, but he kept it quiet from Tesla investors and the public until July.
+Musk v. Altman
+Then came the legal battle with Altman.
+In August 2024, Musk filed a suit against OpenAI and its co-founders, claiming they had violated a promise to keep the lab a nonprofit. Musk lost the high-profile California trial in May, when a jury and federal judge determined his claims were filed outside of the statute of limitations. Musk said he would appeal but has yet to do so.
+Correspondence brought to light in the case showed that Musk's obsession with creating OpenAI was built on fears that Google would control the technology after acquiring DeepMind, though in public he and Altman touted more altruistic aspects of their mission.
+Now, Musk is back to calling for safety. Following Amodei's essay last weekend imploring the industry to "pace the frontier," Musk posted on X, "Dario is right."
+That's quite the contrast from February, when Musk called Anthropic "misanthropic and evil" and said it "hates Western civilization." Things changed dramatically in May, when Anthropic agreed to pay SpaceX up to $1.25 billion a month to rent computing infrastructure in Memphis, giving Musk's company a hefty dose of sorely needed AI revenue before SpaceX's IPO.
+"I was clearly wrong about Anthropic," Musk wrote on X in July. "They are obviously currently the leader in AI."
+Musk's recent track record on AI safety has been rocky.
+He's built out data centers in and around Memphis, Tennessee, while fighting off litigation from residents nearby suffering from air and noise pollution from the operations.
+At SpaceX, Musk sold a version of xAI's Grok models to the U.S. military which "enabled U.S. forces to deploy over 2,000 munitions to 2,000 distinct targets within 96 hours," according to DOJ legal filings.
+And at xAI — now known as SpaceXAI — Musk sued to stop state regulations that would ban Grok's "nudify" features in Minnesota, and that would require his company to be transparent about the data used to train its models in California.
+As Musk and his peers and rivals debate the right approach to AI safety, and whether the government should have a big role or no role at all, lawmakers and third-party researchers are growing increasingly skeptical of the industry's ability to police itself.
+Tyler Whitmer, CEO of the nonprofit Legal Advocates for Safe Science and Technology (LASST), told CNBC that self-regulation won't be enough to protect the public from existing and future harms enabled by AI systems.
+"We need real regulation that creates a level playing field for companies but also protects the public, and the companies just can't do that themselves," Whitmer said. "There needs to be a government-enforceable requirement that third-party evaluators be involved, not just the companies themselves."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/after-decade-of-clashes-in-ai-elon-musk-forging-strange-alliances.html",
+    publishedAt: "2026-09-18T19:15:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "three-words-from-kevin-warsh-have-wall-s-0ab2a766",
+    title: "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+    titleJa: "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+    summaryJa: "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+    bodyOriginal: `With a few carefully chosen words, Federal Reserve Chairman Kevin Warsh both explained this week's decision to hike interest rates and raised vexing questions about what comes next.
+Warsh described Wednesday's decision to lift the central bank's benchmark rate by a quarter percentage point not specifically as a tightening of policy but rather as removing "a dose of accommodation." Further, he said the move was possible because of a U.S. economy that appears to have "strengthened" and financial conditions that have become less restrictive.
+While the language may sound like central bank semantics, it gets to the heart of what markets are debating now: How far will the Warsh Fed go if it has only removed a "dose" of help, and what are the guidelines it will be using to formulate policy?
+The phrase was "the one stand-out hawkish element" of Warsh's post-meeting commentary to the press, Krishna Guha, head of economics and central bank strategy at Evercore ISI, said in a client note.
+"This was not a mistake; it was a phrase he repeated several times and looked very much a deliberate choice to frame policy in this way," Guha added, noting that "the framing is substantively different to that used by the Fed in recent years, and raises the possibility of a more open-ended approach to the number of hikes that might be required."
+That framework has included a calibration of where policy should sit relative to the so-called neutral rate, one that neither boosts nor holds back growth. By extension, benchmark rates that sit well above the neutral rate are considered restrictive, while those closer to or below neutral are regarded as accommodative.
+What about neutral?
+Warsh's framing of the hike as removing "a dose" of accommodation could be seen as the first of multiple steps toward withdrawing support the Fed no longer feels is necessary. The Fed is looking to return inflation to 2%, and policymakers generally consider raising rates as a way to tamp down demand and control price pressures.
+"Warsh's framing, if taken literally, raises the possibility that rates might have to keep going up until financial conditions facing the private sector are no longer 'accommodative' — however that is defined," Guha said. "This is a relatively open-ended prospect."
+Warsh had the chance to clarify what benchmark he was using to determine how much accommodation remains in policy.
+Asked by CNBC's Steve Liesman to explain how far he sees the current rate — in a target range of 3.75%-4% — sitting above neutral, Warsh essentially rejected the framing, in a statement that runs counter to how central bank policy has operated for more than a decade.
+Warsh said measuring the benchmark rate relative to neutral is "useful academically. It's a discussion to help us think about policy. Do I think it has any operational effect of decisions that we make today? No, I don't."
+The answer helped add a layer of mystery to a Fed chairman already developing a reputation for being cryptic when it comes to how he views the wheels of policy needing to be tuned.
+Markets wonder what's next
+A round of post-meeting speculation on Wall Street about what's to come has ensued.
+One of the initial reactions was pricing in higher odds for another hike when the Fed next meets in October. Goldman Sachs added an October increase to its forecast, as does Bank of America, which also expects another move in December. The market-implied odds of an October increase were near 58% Friday morning, according to the CME Group's FedWatch gauge. A week ago, the probability was 42%.
+"The word 'accommodation' means 'stimulus' at the Fed; this comment implies that the current monetary policy stance is meaningfully stimulative," wrote James Egelhof, chief U.S. economist at BNP Paribas Securities.
+"With policy starting at a stimulative stance, a strong cyclical impulse, and persistent inflation, we think significant rate increases, perhaps more than the three we expect, may be necessary to stabilize the unemployment rate from below and prevent overheating next year," he added.
+Egelhof agreed that the "dose of accommodation" remark was "the most striking feature" of Warsh's abbreviated news conference.
+Markets are pricing in the likelihood that the Warsh Fed removes a few more "doses" before it is finished. Futures are implying a fed funds rate of 4.635% near the end of 2027, which would argue for three or four more hikes ahead.
+If that's the case, the Fed at the very least will undo many of the FOMC rate cuts approved under Warsh's predecessor, Jerome Powell, who now sits on the committee as a governor.
+The "dose of accommodation" remarks "seemingly helped to underscore this hawkish tone, implying that [the] committee no longer views policy as modestly restrictive," said Jack Janasiewicz, portfolio manager and lead portfolio strategist at Natixis Investment Managers Solutions.
+"We remain unconvinced that this is the start of an aggressive new tightening cycle," he said. "Rather, we see this as a removal of the insurance cuts the Fed delivered in the fall of 2025."`,
+    bodyJa: `With a few carefully chosen words, Federal Reserve Chairman Kevin Warsh both explained this week's decision to hike interest rates and raised vexing questions about what comes next.
+Warsh described Wednesday's decision to lift the central bank's benchmark rate by a quarter percentage point not specifically as a tightening of policy but rather as removing "a dose of accommodation." Further, he said the move was possible because of a U.S. economy that appears to have "strengthened" and financial conditions that have become less restrictive.
+While the language may sound like central bank semantics, it gets to the heart of what markets are debating now: How far will the Warsh Fed go if it has only removed a "dose" of help, and what are the guidelines it will be using to formulate policy?
+The phrase was "the one stand-out hawkish element" of Warsh's post-meeting commentary to the press, Krishna Guha, head of economics and central bank strategy at Evercore ISI, said in a client note.
+"This was not a mistake; it was a phrase he repeated several times and looked very much a deliberate choice to frame policy in this way," Guha added, noting that "the framing is substantively different to that used by the Fed in recent years, and raises the possibility of a more open-ended approach to the number of hikes that might be required."
+That framework has included a calibration of where policy should sit relative to the so-called neutral rate, one that neither boosts nor holds back growth. By extension, benchmark rates that sit well above the neutral rate are considered restrictive, while those closer to or below neutral are regarded as accommodative.
+What about neutral?
+Warsh's framing of the hike as removing "a dose" of accommodation could be seen as the first of multiple steps toward withdrawing support the Fed no longer feels is necessary. The Fed is looking to return inflation to 2%, and policymakers generally consider raising rates as a way to tamp down demand and control price pressures.
+"Warsh's framing, if taken literally, raises the possibility that rates might have to keep going up until financial conditions facing the private sector are no longer 'accommodative' — however that is defined," Guha said. "This is a relatively open-ended prospect."
+Warsh had the chance to clarify what benchmark he was using to determine how much accommodation remains in policy.
+Asked by CNBC's Steve Liesman to explain how far he sees the current rate — in a target range of 3.75%-4% — sitting above neutral, Warsh essentially rejected the framing, in a statement that runs counter to how central bank policy has operated for more than a decade.
+Warsh said measuring the benchmark rate relative to neutral is "useful academically. It's a discussion to help us think about policy. Do I think it has any operational effect of decisions that we make today? No, I don't."
+The answer helped add a layer of mystery to a Fed chairman already developing a reputation for being cryptic when it comes to how he views the wheels of policy needing to be tuned.
+Markets wonder what's next
+A round of post-meeting speculation on Wall Street about what's to come has ensued.
+One of the initial reactions was pricing in higher odds for another hike when the Fed next meets in October. Goldman Sachs added an October increase to its forecast, as does Bank of America, which also expects another move in December. The market-implied odds of an October increase were near 58% Friday morning, according to the CME Group's FedWatch gauge. A week ago, the probability was 42%.
+"The word 'accommodation' means 'stimulus' at the Fed; this comment implies that the current monetary policy stance is meaningfully stimulative," wrote James Egelhof, chief U.S. economist at BNP Paribas Securities.
+"With policy starting at a stimulative stance, a strong cyclical impulse, and persistent inflation, we think significant rate increases, perhaps more than the three we expect, may be necessary to stabilize the unemployment rate from below and prevent overheating next year," he added.
+Egelhof agreed that the "dose of accommodation" remark was "the most striking feature" of Warsh's abbreviated news conference.
+Markets are pricing in the likelihood that the Warsh Fed removes a few more "doses" before it is finished. Futures are implying a fed funds rate of 4.635% near the end of 2027, which would argue for three or four more hikes ahead.
+If that's the case, the Fed at the very least will undo many of the FOMC rate cuts approved under Warsh's predecessor, Jerome Powell, who now sits on the committee as a governor.
+The "dose of accommodation" remarks "seemingly helped to underscore this hawkish tone, implying that [the] committee no longer views policy as modestly restrictive," said Jack Janasiewicz, portfolio manager and lead portfolio strategist at Natixis Investment Managers Solutions.
+"We remain unconvinced that this is the start of an aggressive new tightening cycle," he said. "Rather, we see this as a removal of the insurance cuts the Fed delivered in the fall of 2025."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+    publishedAt: "2026-09-18T18:28:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "we-simply-don-t-know-jp-morgan-struggli-b987ea1e",
+    title: "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    titleJa: "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+    summaryJa: "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+    bodyOriginal: `'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran
+- Published
+Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that "we simply don't know how to model the endgame".
+The bank said it assumed at the start of the conflict that there would be "economic red lines" that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.
+It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.
+"The market is on edge," analysts said.
+JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump's next moves.
+An oil and gas industry source told the BBC it was "unusual" for such a high-profile investment firm to issue such a note, but added it was a "reflection on the state of play", given the uncertainties around the conflict.
+Investors often make investment decisions on inflation expectations and the price of oil is a major factor in prices rising across the world, given the commodity's widespread use and humanity's dependence on it.
+While gasoline remains below $5 and inflation has also not reached 4%, oil prices have surged back above $100 in recent weeks and the interest rate - known as a yield - on government bonds, which are issued in order for the US to borrow money from financial markets, has ticked over 5%.
+"Six months later [since the war began], many of those lines have been crossed, yet the exit strategy is less clear, not more," said the commodities research team at JP Morgan in note.
+"For the first time since the start of the Iran conflict, we don't have a baseline view. We simply don't know how to model the endgame."
+How Trump and the oil markets move in sync: A tango in five charts
+- Published31 March
+US borrowing costs hit fresh highs over inflation fears
+- Published1 September
+US President Donald Trump said last week he did not think the Iran war would end until after November's midterm elections in the US.
+"Right after the election, oil prices are going to be tumbling downward," Trump told reporters last week. "I think it's going to take a little bit longer than the midterm."
+High oil prices have been behind the rising cost of living in the US and around the world, with fuel and energy prices surging ahead of the colder months.
+The US central bank, the Federal Reserve, raised interest rates this week for the first time in more than three years and signaled they could be increased further this year and into 2027 in an effort to slow rising prices.
+Fed Chair Kevin Warsh said the move was because "inflation is too high and has been for too long", though Trump disagreed with the decision.
+'No clear signs of de-escalation'
+In JP Morgan's note, analysts said it estimated the "fair value" for oil in September would be around $90 a barrel, despite it trading above $100.
+But it said "the market is pricing in the risk" of more disruption to trade.
+Analysts cited further risks to oil supply in the Middle East, with Yemen's Houthis, which are backed by Iran, seizing an area at the mouth of the waterway in the Bab al-Mandab Strait, which is another key international shipping route.
+The conflict between Russia and Ukraine also continues to have an impact.
+Analysts said with "no clear signals" of the war de-escalating, the assumption that global oil supply disruption was temporary is "becoming increasingly difficult to sustain".`,
+    bodyJa: `'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran
+- Published
+Investment banking giant JP Morgan has said it is struggling to predict how oil prices will be impacted by the US-Iran war, telling investors in a rare note that "we simply don't know how to model the endgame".
+The bank said it assumed at the start of the conflict that there would be "economic red lines" that the Trump administration would be unwilling to cross, and therefore it believed a deal would have been struck to open up the Strait of Hormuz shipping lane back in June.
+It said such red lines included oil prices rising above $100 a barrel, inflation reaching 4%, gasoline topping $5 a gallon and rates on 10-year government borrowing hitting 5%.
+"The market is on edge," analysts said.
+JP Morgan is a huge name in the financial world, so for the investment bank to admit its experts are grappling with working out the economic impact of the US-Iran conflict reflects the tricky nature of trying to predict President Donald Trump's next moves.
+An oil and gas industry source told the BBC it was "unusual" for such a high-profile investment firm to issue such a note, but added it was a "reflection on the state of play", given the uncertainties around the conflict.
+Investors often make investment decisions on inflation expectations and the price of oil is a major factor in prices rising across the world, given the commodity's widespread use and humanity's dependence on it.
+While gasoline remains below $5 and inflation has also not reached 4%, oil prices have surged back above $100 in recent weeks and the interest rate - known as a yield - on government bonds, which are issued in order for the US to borrow money from financial markets, has ticked over 5%.
+"Six months later [since the war began], many of those lines have been crossed, yet the exit strategy is less clear, not more," said the commodities research team at JP Morgan in note.
+"For the first time since the start of the Iran conflict, we don't have a baseline view. We simply don't know how to model the endgame."
+How Trump and the oil markets move in sync: A tango in five charts
+- Published31 March
+US borrowing costs hit fresh highs over inflation fears
+- Published1 September
+US President Donald Trump said last week he did not think the Iran war would end until after November's midterm elections in the US.
+"Right after the election, oil prices are going to be tumbling downward," Trump told reporters last week. "I think it's going to take a little bit longer than the midterm."
+High oil prices have been behind the rising cost of living in the US and around the world, with fuel and energy prices surging ahead of the colder months.
+The US central bank, the Federal Reserve, raised interest rates this week for the first time in more than three years and signaled they could be increased further this year and into 2027 in an effort to slow rising prices.
+Fed Chair Kevin Warsh said the move was because "inflation is too high and has been for too long", though Trump disagreed with the decision.
+'No clear signs of de-escalation'
+In JP Morgan's note, analysts said it estimated the "fair value" for oil in September would be around $90 a barrel, despite it trading above $100.
+But it said "the market is pricing in the risk" of more disruption to trade.
+Analysts cited further risks to oil supply in the Middle East, with Yemen's Houthis, which are backed by Iran, seizing an area at the mouth of the waterway in the Bab al-Mandab Strait, which is another key international shipping route.
+The conflict between Russia and Ukraine also continues to have an impact.
+Analysts said with "no clear signals" of the war de-escalating, the assumption that global oil supply disruption was temporary is "becoming increasingly difficult to sustain".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T17:57:30+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e01/live/68ca8e80-b38a-11f1-ae81-31b49a394756.jpg",
+    readTime: 10,
+  },
+  {
+    id: "spacex-scores-another-950-million-from-n-63518d56",
+    title: "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+    titleJa: "SpaceX scores another $950 million from NASA for 3 more crewed flights to ISS",
+    summaryJa: "SpaceX is getting an extension to an existing contract that will allow three additional crewed Dragon flights to the International Space Station.",
+    bodyOriginal: `SpaceX has expanded its contract with NASA and will conduct an additional three crewed Dragon flights to the International Space Station through 2030, netting Elon Musk's company up to $946 million upon completion.
+The award for flight support brings SpaceX's total missions under the Commercial Crew Transportation Capability contract to 17 operational flights, the space agency said in a statement on Friday, and "helps NASA to maintain access to the space station with two unique commercial crew industry partners."
+Boeing is also providing flights to the ISS for NASA via its Starliner, which is expected to fly without people on board in a few months, and to conduct crewed missions starting in the third quarter of 2027.
+SpaceX will provide "ground, launch, in-orbit, and return and recovery operations, cargo transportation for each mission, and a lifeboat capability while docked to the International Space Station," NASA said.
+SpaceX went public in June in the largest IPO on record. The company counts on government contracts from NASA and the Department of Defense to bolster its core launch business. Under this contract with NASA, SpaceX will have earned $5.92 billion from the space agency.
+NASA's Crew 13 launch with SpaceX is expected in October, and Crew 14 is looking to fly next spring. Beyond its NASA flights, SpaceX is reportedly winding down its Dragon program, which began flying humans just six years ago. The company aims to use its Starship rocket, which is still in development, for most future launches.`,
+    bodyJa: `SpaceX has expanded its contract with NASA and will conduct an additional three crewed Dragon flights to the International Space Station through 2030, netting Elon Musk's company up to $946 million upon completion.
+The award for flight support brings SpaceX's total missions under the Commercial Crew Transportation Capability contract to 17 operational flights, the space agency said in a statement on Friday, and "helps NASA to maintain access to the space station with two unique commercial crew industry partners."
+Boeing is also providing flights to the ISS for NASA via its Starliner, which is expected to fly without people on board in a few months, and to conduct crewed missions starting in the third quarter of 2027.
+SpaceX will provide "ground, launch, in-orbit, and return and recovery operations, cargo transportation for each mission, and a lifeboat capability while docked to the International Space Station," NASA said.
+SpaceX went public in June in the largest IPO on record. The company counts on government contracts from NASA and the Department of Defense to bolster its core launch business. Under this contract with NASA, SpaceX will have earned $5.92 billion from the space agency.
+NASA's Crew 13 launch with SpaceX is expected in October, and Crew 14 is looking to fly next spring. Beyond its NASA flights, SpaceX is reportedly winding down its Dragon program, which began flying humans just six years ago. The company aims to use its Starship rocket, which is still in development, for most future launches.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html",
+    publishedAt: "2026-09-18T17:41:45+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "jpmorgan-citigroup-ceos-attending-trump-4f4453f8",
+    title: "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+    titleJa: "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+    summaryJa: "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+    bodyOriginal: `JPMorgan Chase CEO Jamie Dimon and Citigroup chief Jane Fraser are set to attend President Donald Trump's state dinner for Chinese leader Xi Jinping in Washington next week, sources familiar with the matter told CNBC on Friday.
+The White House did not immediately respond to CNBC's requests for comment on the information from the sources, who requested anonymity to discuss the guest list that has not been made public.
+Dimon and Fraser join other top executives, including OpenAI CEO Sam Altman and Nvidia chief Jensen Huang, who are also reportedly planning to attend the state dinner next Thursday.
+Fraser was also part of the U.S. delegation of business leaders who joined Trump on his trip to Beijing in May.
+Reuters first reported the bank CEOs' planned attendance earlier Friday.
+— CNBC's Ritika Shah contributed reporting.`,
+    bodyJa: `JPMorgan Chase CEO Jamie Dimon and Citigroup chief Jane Fraser are set to attend President Donald Trump's state dinner for Chinese leader Xi Jinping in Washington next week, sources familiar with the matter told CNBC on Friday.
+The White House did not immediately respond to CNBC's requests for comment on the information from the sources, who requested anonymity to discuss the guest list that has not been made public.
+Dimon and Fraser join other top executives, including OpenAI CEO Sam Altman and Nvidia chief Jensen Huang, who are also reportedly planning to attend the state dinner next Thursday.
+Fraser was also part of the U.S. delegation of business leaders who joined Trump on his trip to Beijing in May.
+Reuters first reported the bank CEOs' planned attendance earlier Friday.
+— CNBC's Ritika Shah contributed reporting.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
+    publishedAt: "2026-09-18T17:34:49+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "warren-buffett-steps-down-after-six-deca-86ef1dff",
+    title: "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    titleJa: "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+    summaryJa: "Since taking control in 1965, Buffett grew a struggling textile mill into a global conglomerate.",
+    bodyOriginal: `Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'
+- Published
+Warren Buffett has stepped down as chairman of Berkshire Hathaway, handing over leadership to his son Howard in the final chapter of a long-planned transition at the US business giant.
+At 96, the world-famous investor will move into an advisory role as chairman emeritus and remain on the company board to offer his "judgement and perspective", according to a letter to shareholders, external.
+The decision comes nine months after Buffett passed the chief executive role to Greg Abel, with his son, Howard, who has been a director since 1993, taking over non-executive board duties.
+Known as the "Oracle of Omaha," Buffett built one of the most successful investment track records in modern history.
+He took control of Berkshire Hathaway in 1965 when it was a struggling New England textile mill and turned it into a $1.1 trillion (£822b), global conglomerate.
+Today, the business owns a wide range of well-known brands including GEICO car insurance, Dairy Queen, and BNSF railway system. It also owns large stakes in companies like Apple and Coca-Cola – a brand close to Buffett's heart, as he famously drinks five cans a day.
+Buffett has made his mark through "value investing" – a strategy focused on finding companies with solid fundamentals, buying them at fair prices, and holding them for decades.
+His annual letters to shareholders and festival-like annual meetings turned him into a leading mentor across the financial world.
+Despite his retirement from the top board post, the change is considered an orderly passing of the baton rather than a sudden shock.
+"The timing is right to complete the transition," Buffett wrote, noting he had recently celebrated his 96th birthday and the first birthday of one of his great-grandchildren, who is "moving a bit faster" than he is.
+The company assured investors that day-to-day operations will remain steady.
+While Greg Abel manages corporate strategy and capital decisions, Howard Buffett's main duty as chairman will be guarding the firm's "culture and values". A former farmer, philanthropist, and sheriff, the younger Buffett brings more than three decades of board experience to the role.
+Buffett concluded his letter by saying it had been the "privilege of a lifetime" to serve as chairman, but acknowledged that in the end, "Father Time always wins".
+- Published15 July
+- Published14 July
+- Published3 May 2025`,
+    bodyJa: `Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'
+- Published
+Warren Buffett has stepped down as chairman of Berkshire Hathaway, handing over leadership to his son Howard in the final chapter of a long-planned transition at the US business giant.
+At 96, the world-famous investor will move into an advisory role as chairman emeritus and remain on the company board to offer his "judgement and perspective", according to a letter to shareholders, external.
+The decision comes nine months after Buffett passed the chief executive role to Greg Abel, with his son, Howard, who has been a director since 1993, taking over non-executive board duties.
+Known as the "Oracle of Omaha," Buffett built one of the most successful investment track records in modern history.
+He took control of Berkshire Hathaway in 1965 when it was a struggling New England textile mill and turned it into a $1.1 trillion (£822b), global conglomerate.
+Today, the business owns a wide range of well-known brands including GEICO car insurance, Dairy Queen, and BNSF railway system. It also owns large stakes in companies like Apple and Coca-Cola – a brand close to Buffett's heart, as he famously drinks five cans a day.
+Buffett has made his mark through "value investing" – a strategy focused on finding companies with solid fundamentals, buying them at fair prices, and holding them for decades.
+His annual letters to shareholders and festival-like annual meetings turned him into a leading mentor across the financial world.
+Despite his retirement from the top board post, the change is considered an orderly passing of the baton rather than a sudden shock.
+"The timing is right to complete the transition," Buffett wrote, noting he had recently celebrated his 96th birthday and the first birthday of one of his great-grandchildren, who is "moving a bit faster" than he is.
+The company assured investors that day-to-day operations will remain steady.
+While Greg Abel manages corporate strategy and capital decisions, Howard Buffett's main duty as chairman will be guarding the firm's "culture and values". A former farmer, philanthropist, and sheriff, the younger Buffett brings more than three decades of board experience to the role.
+Buffett concluded his letter by saying it had been the "privilege of a lifetime" to serve as chairman, but acknowledged that in the end, "Father Time always wins".
+- Published15 July
+- Published14 July
+- Published3 May 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T17:15:02+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da37/live/10112b30-b38c-11f1-a430-4d16ee157c41.jpg",
+    readTime: 6,
+  },
+  {
+    id: "ryanair-boss-michael-o-leary-apologises-dfc80db4",
+    title: "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+    titleJa: "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+    summaryJa: "O'Leary described his choice of language as \"careless\" and said \"it won't happen again\".",
+    bodyOriginal: `Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks
+- Published
+Ryanair chief executive Michael O'Leary has said he is "truly sorry" for describing rival airlines as "high-fare rapists".
+He had previously refused to apologise to a rape crisis centre which criticised him for the comments.
+O'Leary had made the remark earlier this month while talking to journalists ahead of Ryanair's yearly meeting with shareholders.
+Following the comments, the Dublin Rape Crisis Centre (DRCC) wrote to him asking for an apology, in a letter seen by the BBC.
+O'Leary had originally said that some people were "desperate to get to Ryanair's low fares because they can't afford to fly with the high-fare rapists around Europe".
+He subsequently defended his choice of words when asked by a reporter from the Press Association whether the language was appropriate.
+"British Airways, Lufthansa, and everybody else's high fares, I'll happily offend them on a regular basis," he had added.
+Asked whether it would offend sexual assault victims, he said rape was "a terrible crime".
+In a video posted on Friday, O'Leary said that, over the last ten days, he had had "conversations with family and friends, both inside and outside Ryanair".
+"I have come to realise however that the word that I used so carelessly has caused considerable upset and offence to a wide number of people, especially to victims and survivors.
+"I want to apologise, sincerely and unreservedly, to those people, especially to the survivors."
+O'Leary described his choice of language as "careless", and said "it won't happen again".
+"I will try to learn from this mistake, and do better in future."
+Following O'Leary's first comments, the DRCC's chief executive Rachel Morrogh had written to O'Leary accusing him of trying to get a headline with his comments.
+She said the DRCC had received calls from rape victims who were "upset and distressed because of what you said".
+She offered O'Leary training on the impact of sexual violence and urged him to apologise.
+"I can't imagine you would ever use the term so flippantly again if you truly understood [what] it was like to survive rape," she wrote.
+In response, O'Leary had said: "I am quite clear that no remarks of mine could possibly trivialise the heinous crime of rape."
+He added that as he had not "trivialised the heinous crime of rape" he would "not be issuing any apology or accepting your offer of training".
+It was not the first time O'Leary had offended people while talking about his business.
+In 2004, he reportedly called the owners of Stansted Airport "a bunch of overcharging rapists", external in a row over airport charges.
+He has also previously called some of his own staff "lazy bastards" and once said to passengers looking for a refund "we don't want to hear your sob stories".
+In June, he said the airline would "reluctantly" stop charging parents to sit next to children after a watchdog investigation was opened, but insisted its previous policy complied with laws.
+Related topics
+- Published7 days ago
+- Published21 July`,
+    bodyJa: `Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks
+- Published
+Ryanair chief executive Michael O'Leary has said he is "truly sorry" for describing rival airlines as "high-fare rapists".
+He had previously refused to apologise to a rape crisis centre which criticised him for the comments.
+O'Leary had made the remark earlier this month while talking to journalists ahead of Ryanair's yearly meeting with shareholders.
+Following the comments, the Dublin Rape Crisis Centre (DRCC) wrote to him asking for an apology, in a letter seen by the BBC.
+O'Leary had originally said that some people were "desperate to get to Ryanair's low fares because they can't afford to fly with the high-fare rapists around Europe".
+He subsequently defended his choice of words when asked by a reporter from the Press Association whether the language was appropriate.
+"British Airways, Lufthansa, and everybody else's high fares, I'll happily offend them on a regular basis," he had added.
+Asked whether it would offend sexual assault victims, he said rape was "a terrible crime".
+In a video posted on Friday, O'Leary said that, over the last ten days, he had had "conversations with family and friends, both inside and outside Ryanair".
+"I have come to realise however that the word that I used so carelessly has caused considerable upset and offence to a wide number of people, especially to victims and survivors.
+"I want to apologise, sincerely and unreservedly, to those people, especially to the survivors."
+O'Leary described his choice of language as "careless", and said "it won't happen again".
+"I will try to learn from this mistake, and do better in future."
+Following O'Leary's first comments, the DRCC's chief executive Rachel Morrogh had written to O'Leary accusing him of trying to get a headline with his comments.
+She said the DRCC had received calls from rape victims who were "upset and distressed because of what you said".
+She offered O'Leary training on the impact of sexual violence and urged him to apologise.
+"I can't imagine you would ever use the term so flippantly again if you truly understood [what] it was like to survive rape," she wrote.
+In response, O'Leary had said: "I am quite clear that no remarks of mine could possibly trivialise the heinous crime of rape."
+He added that as he had not "trivialised the heinous crime of rape" he would "not be issuing any apology or accepting your offer of training".
+It was not the first time O'Leary had offended people while talking about his business.
+In 2004, he reportedly called the owners of Stansted Airport "a bunch of overcharging rapists", external in a row over airport charges.
+He has also previously called some of his own staff "lazy bastards" and once said to passengers looking for a refund "we don't want to hear your sob stories".
+In June, he said the airline would "reluctantly" stop charging parents to sit next to children after a watchdog investigation was opened, but insisted its previous policy complied with laws.
+Related topics
+- Published7 days ago
+- Published21 July`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T17:10:58+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4468/live/9a3d9590-9fbc-11ef-8538-e1655f5a8342.jpg",
+    readTime: 8,
+  },
+  {
     id: "disney-names-cto-for-the-first-time-as-m-fe47e2a4",
     title: "Disney names CTO for the first time as media giant expands tech push",
     titleJa: "Disney names CTO for the first time as media giant expands tech push",
@@ -1495,422 +1925,6 @@ He initiated coverage of the stock with a buy rating.`,
     category: "貿易",
     imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     readTime: 4,
-  },
-  {
-    id: "ai-needs-to-have-reasonable-guidelines-p-929051d3",
-    title: "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
-    titleJa: "AI needs to have 'reasonable guidelines,' Palantir's Karp tells CNBC",
-    summaryJa: "Palantir CEO Alex Karp called for \"reasonable guidelines\" on artificial intelligence regulation as tech and policy leaders deliberate over the technology.",
-    bodyOriginal: `Palantir CEO Alex Karp called for "reasonable guidelines" on artificial intelligence regulation and said nationalization may be needed as leaders deliberate over the technology's risks.
-"You have to find a way to set reasonable guidelines that are enforced, but you can't do it," he told CNBC's "Squawk on the Street" on Thursday. "The first line of defense is you're liable for your own actions."
-Karp repeatedly referenced the risks and responsibilities tied to building the powerful technology, calling for nationalizing AI labs and both civil and criminal liabilities for tech builders "not being responsible."
-"The view that I believe they have is, these businesses have to be nationalized because if you don't nationalize it every single one of my clients is going to sue," he said.
-The tech executive's comments come as policymakers and tech leaders fiercely debate how to regulate sophisticated AI models after researchers warned of the technology's dire risks to humanity. Anthropic's Dario Amodei chimed in over the weekend, calling for a slowdown in the frontier.
-The calls for AI regulation have brought together unlikely rivals Amodei, OpenAI's Sam Altman and SpaceX and Tesla CEO Elon Musk. President Donald Trump, however, has pushed back, calling AI risks a "hoax" in several social media posts over the last few days.
-Tech CEOs, including Nvidia's Jensen Huang and Meta Platforms CEO Mark Zuckerberg, have also joined his side. Zuckerberg said on X this week that AI labs that fail to "focus on alignment will fall behind."
-OpenAI on Wednesday disclosed six new cases of "unexpected or concerning" model behavior within the last six months. This comes in addition to the Hugging Face breach, which sparked debate over wider AI safety precautions.
-"We need to get serious," Karp told CNBC on Thursday.
-The AI alarm has also sparked a legislative push in Washington and renewed calls for oversight.
-Sen. Richard Blumenthal, D-Conn., who has introduced AI safety legislation, told CNBC this week that the U.S. is on the "verge of losing control completely" and called for some form of "objective review" before releasing AI models.
-Lawmakers have also pressed for implementing a so-called kill switch, which would force AI labs to build the capability to pull the plug on AI when the technology goes rogue. A bill has already been proposed in the House. Similar moves have faced backlash in the Senate.`,
-    bodyJa: `Palantir CEO Alex Karp called for "reasonable guidelines" on artificial intelligence regulation and said nationalization may be needed as leaders deliberate over the technology's risks.
-"You have to find a way to set reasonable guidelines that are enforced, but you can't do it," he told CNBC's "Squawk on the Street" on Thursday. "The first line of defense is you're liable for your own actions."
-Karp repeatedly referenced the risks and responsibilities tied to building the powerful technology, calling for nationalizing AI labs and both civil and criminal liabilities for tech builders "not being responsible."
-"The view that I believe they have is, these businesses have to be nationalized because if you don't nationalize it every single one of my clients is going to sue," he said.
-The tech executive's comments come as policymakers and tech leaders fiercely debate how to regulate sophisticated AI models after researchers warned of the technology's dire risks to humanity. Anthropic's Dario Amodei chimed in over the weekend, calling for a slowdown in the frontier.
-The calls for AI regulation have brought together unlikely rivals Amodei, OpenAI's Sam Altman and SpaceX and Tesla CEO Elon Musk. President Donald Trump, however, has pushed back, calling AI risks a "hoax" in several social media posts over the last few days.
-Tech CEOs, including Nvidia's Jensen Huang and Meta Platforms CEO Mark Zuckerberg, have also joined his side. Zuckerberg said on X this week that AI labs that fail to "focus on alignment will fall behind."
-OpenAI on Wednesday disclosed six new cases of "unexpected or concerning" model behavior within the last six months. This comes in addition to the Hugging Face breach, which sparked debate over wider AI safety precautions.
-"We need to get serious," Karp told CNBC on Thursday.
-The AI alarm has also sparked a legislative push in Washington and renewed calls for oversight.
-Sen. Richard Blumenthal, D-Conn., who has introduced AI safety legislation, told CNBC this week that the U.S. is on the "verge of losing control completely" and called for some form of "objective review" before releasing AI models.
-Lawmakers have also pressed for implementing a so-called kill switch, which would force AI labs to build the capability to pull the plug on AI when the technology goes rogue. A bill has already been proposed in the House. Similar moves have faced backlash in the Senate.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/17/ai-safety-palantir-karp.html",
-    publishedAt: "2026-09-17T16:48:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "how-record-diesel-prices-will-rip-throug-d87acd01",
-    title: "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
-    titleJa: "How record diesel prices will rip through the U.S. economy. Trucks and rails are only the start",
-    summaryJa: "Record diesel prices are already walloping the transportation sector, and if energy prices stay high, the economic impact will spread.",
-    bodyOriginal: `Ever since the outbreak of war with Iran earlier this year, motorists have been warily eyeing prices at the pump. While unleaded gas prices have largely avoided historic highs, the same can't be said for diesel fuel, which hit an all-time high of $6.31 per gallon on Wednesday.
-That was just the latest grim milestone in what has been a steady march upward. Economists and supply chain experts say what starts in the transportation sector, where trucking and rail companies are feeling the pain now — will eventually push prices on virtually everything in the economy up.
-This is not surprising, because diesel is the economy's single most universal tangible input, said David Russell, global head of market strategy at TradeStation Group.
-The first to feel it are freight haulers, but there will be plenty of other losers — consumers and companies — if diesel remains at record price levels.
-The chief commercial officer for Norfolk Southern railroad noted at a Morgan Stanley conference on Tuesday that in California, the price of diesel was already $8.
-Consumers are getting a taste of what could come next in the form of higher prices at the gas pump. What is driving up gas prices right now isn't just the price of oil, said Jeff Lenard, vice president of media and strategic communications at the National Association of Convenience Stores. It's the price of diesel. The cost to get the gas to the gas station is the driving factor behind the steady increase at the pump.
-"The higher transit costs are adding several additional cents to the cost of selling fuel – as do swipe fees that are percentage based and increase as prices increase," Lenard said. Retailers are faced with the tough decision of whether to absorb these added increases or pass them along at the pump.
-"Right now, they are absorbing the bulk of the costs, which typically happens when wholesale prices and costs increase dramatically. Right now, retail gross margins have constricted by about 15 cents a gallon, which is typically what their net margin is," Lenard said.
-And then the chips, soda, and doughnuts inside your favorite convenience store also have to get there — by diesel-powered trucks — so the pain from the pump seeps into the store because getting the items there is costing a lot more.
-Costco recently made the decision to limit how much gas its members can buy.
-Carmit Glik, CEO of Ship4wd, an all-in-one digital freight forwarder and subsidiary of Israeli shipping giant ZIM, said that diesel is the price nobody watches until it's already inside everything else. "It moves through freight rates, farm equipment, food delivery, and home heating, anything that touches a truck at some point in its journey," Glik said.
-It can take awhile for the diesel cost to work its way through the economy and into your bank account.
-"Consumers feel it last but not least. It shows up in grocery prices, delivery fees, and anything seasonal that depends on trucking to move fast, usually a few weeks after the spike, once surcharges work their way through the supply chain. That's different from gas, where drivers see the pain immediately at the pump," Glik said.
-Truckers are the most immediately impacted, especially because many independent operators can't adjust quickly when costs rise. "Smaller players might get pushed to the sidelines, removing capacity and pushing shipping costs even higher. It's not a linear process," Russell said.
-But if you are planning a trip this winter, you may pay more for it.
-"Travelers face higher costs for holiday airfares because jet fuel is similar to diesel," Russell said.
-"Higher diesel prices will spread across the economy, with consumers facing higher costs for ordinary goods delivered by trucks and services like home improvement," he added, noting the last PPI report showed pressure in a broad array of items from packaging to circuit boards.
-"The list of impacted goods and services will only grow the longer diesel stays high," Russell said.
-Heating oil costs this winter could surge
-Home heating oil, used extensively in the Northeast to heat homes, tracks closely with diesel prices since they are made from the same ingredients.
-Mark Wolfe, executive director of the National Energy Assistance Directors Association, said that home heating oil customers can expect to pay as much as 31% more this winter if prices stay at current levels.
-But he said that is not the whole story. "Families are going to get hit three ways: heating oil, and then everyone will get hit with high gas prices, and delivery on everything is dependent on diesel, so regular, everyday families will really struggle," Wolfe said.
-Wolfe's organization has been lobbying Congress to appropriate more funding for federal heat assistance programs, but with the chamber in recess until November that looks unlikely, he said.
-"Unless the states step in there will be significant hardship for low income and even middle class. It has gotten expensive enough that families will not be able to afford fuel without significant sacrifices," Wolfe said.
-One possible saving grace could be this season's Super El Nino which has the National Weather Service predicting well above normal seasonal temperatures for the Northeast.
-Steve Blough, chief supply chain strategist at Infios, a supply chain software provider, thinks the price still has higher to climb.
-"Many factors are affecting the price. The reduction in refining capacity in the Gulf states combined with the Ukraine war shutting down much of the Russian production and then the attack on the Saudi pipeline are making for a perfect storm," Blough said.
-He said any other unforeseen disruptions, such as a late-season hurricane or another geopolitical storm, could force things higher, though many experts are hesitant to make firm forecasts about addition increases given the volatility in the market and geopolitics.
-Saudi Arabia is taking measures to get more oil to the market, which sent crude prices lower on Thursday.
-Why diesel prices are so high, and why it will be hard to lower them
-Jack Buffington, associate professor in supply chain management at the University of Denver, said that while oil prices have largely been held in check, diesel prices are exploding not because of anything tied to crude but rather a lack of global refining capacity.
-"Oil distribution has been a problem with the shutdowns in the Persian Gulf and Red Sea, but not as significant as the losses in refining capacity in Russia and the Middle East, Russia especially," Buffington said, noting that nearly 100% of the world's available refining capacity is currently being utilized.
-"It doesn't mean that 100% of the world's capacity is being utilized, but rather 100% of what isn't damaged. So perhaps 20% of the world's capacity is offline, which is the bottleneck," Buffington said. But even if conflicts around the world stopped today, prices would not start sinking significantly.
-"Some believe, incorrectly, that once the kinetic fighting stops that diesel prices will fall, but that's not the case due to net refining capacity," Buffington said, adding it could take a year or longer for prices to return to the $4 level.
-The biggest losers right now are truckload carriers, especially small firms or owner-operators. "Large carriers tend to protect themselves somewhat better with fuel surcharge programs," Blough said. Shippers that don't have fuel protection in their contracts — manufacturers, retailers and distributors — also ultimately pay more when carriers increase rates or fuel surcharges.
-But big trucking companies are not immune from the pain. Trucking giant J.B. Hunt CFO Brad Delco said the company has seen "some of the most radical and abnormal swings" in fuel prices that it has ever seen and record-high diesel prices, which are causing at least a $10 million headwind. The company warned of lower earnings to come because of the diesel headwinds.
-Blough said farmers will be clocked by the high prices because of the high use of diesel to transport fertilizers and crops and operate tractors and combines. "Those costs can be hard to pass on," Blough said. That has already become a big midterm elections headwind for Republicans in farm states.
-Construction, public transit, and food distribution are all poised to be clobbered by higher prices. Construction is especially exposed because the machinery that consumes heavy commodities like cement and gravel is all diesel driven. "They could also get squeezed as they need to complete work at contracted prices," Russell said.
-Blough said transportation companies will do what they can to adapt, reassessing routes, carriers, modes, inventory and delivery priorities, because when diesel becomes this expensive, "every mile matters."
-"Simply absorbing the higher cost," he said, is not a winning business strategy.
-Glik said there will be a few winners in this diesel surge. One is refiners with strong distillate margins benefit from a wider crack spread — the difference between crude oil prices and wholesale petroleum-product prices.
-Another is larger carriers who lock in fuel at wholesale while billing surcharges at retail can see a real margin gain. Railroads might get more business because they are cheaper than trucks, but they also stand to lose business if the economy slows at a broader level.
-"That's a structural advantage smaller carriers don't have, and a big shipper can wait out a fuel spike in a way a small business owner can't. They have to decide today whether to eat the cost or pass it to their customer," Glik said.
-Federal Reserve Chair Kevin Warsh referenced the crack spread in his post FOMC meeting press conference on Wednesday as a contributing factor to inflation and the Fed's decision to raise interest rates as the best way to bring price stability back to the U.S. economy on behalf of stressed consumers.
-"It is not simply spot prices of energy, or spot prices for corn or soybeans or wheat, but it is the difference between those spot prices and so-called crack spreads," Warsh said. "What that means for products that find their way into a store across the country."
-For diesel prices headed into this winter, much depends on how long the Strait of Hormuz disruption and the Russian refinery issues persist. U.S. refinery utilization is already near max, so there's limited slack left to absorb another supply shock. Russell said any expert claiming certainty on this right now is guessing, but the glass is more likely half empty. "We face a lose-lose scenario in most cases," Russell said.
-—CNBC's Alex Harring contributed to this report`,
-    bodyJa: `Ever since the outbreak of war with Iran earlier this year, motorists have been warily eyeing prices at the pump. While unleaded gas prices have largely avoided historic highs, the same can't be said for diesel fuel, which hit an all-time high of $6.31 per gallon on Wednesday.
-That was just the latest grim milestone in what has been a steady march upward. Economists and supply chain experts say what starts in the transportation sector, where trucking and rail companies are feeling the pain now — will eventually push prices on virtually everything in the economy up.
-This is not surprising, because diesel is the economy's single most universal tangible input, said David Russell, global head of market strategy at TradeStation Group.
-The first to feel it are freight haulers, but there will be plenty of other losers — consumers and companies — if diesel remains at record price levels.
-The chief commercial officer for Norfolk Southern railroad noted at a Morgan Stanley conference on Tuesday that in California, the price of diesel was already $8.
-Consumers are getting a taste of what could come next in the form of higher prices at the gas pump. What is driving up gas prices right now isn't just the price of oil, said Jeff Lenard, vice president of media and strategic communications at the National Association of Convenience Stores. It's the price of diesel. The cost to get the gas to the gas station is the driving factor behind the steady increase at the pump.
-"The higher transit costs are adding several additional cents to the cost of selling fuel – as do swipe fees that are percentage based and increase as prices increase," Lenard said. Retailers are faced with the tough decision of whether to absorb these added increases or pass them along at the pump.
-"Right now, they are absorbing the bulk of the costs, which typically happens when wholesale prices and costs increase dramatically. Right now, retail gross margins have constricted by about 15 cents a gallon, which is typically what their net margin is," Lenard said.
-And then the chips, soda, and doughnuts inside your favorite convenience store also have to get there — by diesel-powered trucks — so the pain from the pump seeps into the store because getting the items there is costing a lot more.
-Costco recently made the decision to limit how much gas its members can buy.
-Carmit Glik, CEO of Ship4wd, an all-in-one digital freight forwarder and subsidiary of Israeli shipping giant ZIM, said that diesel is the price nobody watches until it's already inside everything else. "It moves through freight rates, farm equipment, food delivery, and home heating, anything that touches a truck at some point in its journey," Glik said.
-It can take awhile for the diesel cost to work its way through the economy and into your bank account.
-"Consumers feel it last but not least. It shows up in grocery prices, delivery fees, and anything seasonal that depends on trucking to move fast, usually a few weeks after the spike, once surcharges work their way through the supply chain. That's different from gas, where drivers see the pain immediately at the pump," Glik said.
-Truckers are the most immediately impacted, especially because many independent operators can't adjust quickly when costs rise. "Smaller players might get pushed to the sidelines, removing capacity and pushing shipping costs even higher. It's not a linear process," Russell said.
-But if you are planning a trip this winter, you may pay more for it.
-"Travelers face higher costs for holiday airfares because jet fuel is similar to diesel," Russell said.
-"Higher diesel prices will spread across the economy, with consumers facing higher costs for ordinary goods delivered by trucks and services like home improvement," he added, noting the last PPI report showed pressure in a broad array of items from packaging to circuit boards.
-"The list of impacted goods and services will only grow the longer diesel stays high," Russell said.
-Heating oil costs this winter could surge
-Home heating oil, used extensively in the Northeast to heat homes, tracks closely with diesel prices since they are made from the same ingredients.
-Mark Wolfe, executive director of the National Energy Assistance Directors Association, said that home heating oil customers can expect to pay as much as 31% more this winter if prices stay at current levels.
-But he said that is not the whole story. "Families are going to get hit three ways: heating oil, and then everyone will get hit with high gas prices, and delivery on everything is dependent on diesel, so regular, everyday families will really struggle," Wolfe said.
-Wolfe's organization has been lobbying Congress to appropriate more funding for federal heat assistance programs, but with the chamber in recess until November that looks unlikely, he said.
-"Unless the states step in there will be significant hardship for low income and even middle class. It has gotten expensive enough that families will not be able to afford fuel without significant sacrifices," Wolfe said.
-One possible saving grace could be this season's Super El Nino which has the National Weather Service predicting well above normal seasonal temperatures for the Northeast.
-Steve Blough, chief supply chain strategist at Infios, a supply chain software provider, thinks the price still has higher to climb.
-"Many factors are affecting the price. The reduction in refining capacity in the Gulf states combined with the Ukraine war shutting down much of the Russian production and then the attack on the Saudi pipeline are making for a perfect storm," Blough said.
-He said any other unforeseen disruptions, such as a late-season hurricane or another geopolitical storm, could force things higher, though many experts are hesitant to make firm forecasts about addition increases given the volatility in the market and geopolitics.
-Saudi Arabia is taking measures to get more oil to the market, which sent crude prices lower on Thursday.
-Why diesel prices are so high, and why it will be hard to lower them
-Jack Buffington, associate professor in supply chain management at the University of Denver, said that while oil prices have largely been held in check, diesel prices are exploding not because of anything tied to crude but rather a lack of global refining capacity.
-"Oil distribution has been a problem with the shutdowns in the Persian Gulf and Red Sea, but not as significant as the losses in refining capacity in Russia and the Middle East, Russia especially," Buffington said, noting that nearly 100% of the world's available refining capacity is currently being utilized.
-"It doesn't mean that 100% of the world's capacity is being utilized, but rather 100% of what isn't damaged. So perhaps 20% of the world's capacity is offline, which is the bottleneck," Buffington said. But even if conflicts around the world stopped today, prices would not start sinking significantly.
-"Some believe, incorrectly, that once the kinetic fighting stops that diesel prices will fall, but that's not the case due to net refining capacity," Buffington said, adding it could take a year or longer for prices to return to the $4 level.
-The biggest losers right now are truckload carriers, especially small firms or owner-operators. "Large carriers tend to protect themselves somewhat better with fuel surcharge programs," Blough said. Shippers that don't have fuel protection in their contracts — manufacturers, retailers and distributors — also ultimately pay more when carriers increase rates or fuel surcharges.
-But big trucking companies are not immune from the pain. Trucking giant J.B. Hunt CFO Brad Delco said the company has seen "some of the most radical and abnormal swings" in fuel prices that it has ever seen and record-high diesel prices, which are causing at least a $10 million headwind. The company warned of lower earnings to come because of the diesel headwinds.
-Blough said farmers will be clocked by the high prices because of the high use of diesel to transport fertilizers and crops and operate tractors and combines. "Those costs can be hard to pass on," Blough said. That has already become a big midterm elections headwind for Republicans in farm states.
-Construction, public transit, and food distribution are all poised to be clobbered by higher prices. Construction is especially exposed because the machinery that consumes heavy commodities like cement and gravel is all diesel driven. "They could also get squeezed as they need to complete work at contracted prices," Russell said.
-Blough said transportation companies will do what they can to adapt, reassessing routes, carriers, modes, inventory and delivery priorities, because when diesel becomes this expensive, "every mile matters."
-"Simply absorbing the higher cost," he said, is not a winning business strategy.
-Glik said there will be a few winners in this diesel surge. One is refiners with strong distillate margins benefit from a wider crack spread — the difference between crude oil prices and wholesale petroleum-product prices.
-Another is larger carriers who lock in fuel at wholesale while billing surcharges at retail can see a real margin gain. Railroads might get more business because they are cheaper than trucks, but they also stand to lose business if the economy slows at a broader level.
-"That's a structural advantage smaller carriers don't have, and a big shipper can wait out a fuel spike in a way a small business owner can't. They have to decide today whether to eat the cost or pass it to their customer," Glik said.
-Federal Reserve Chair Kevin Warsh referenced the crack spread in his post FOMC meeting press conference on Wednesday as a contributing factor to inflation and the Fed's decision to raise interest rates as the best way to bring price stability back to the U.S. economy on behalf of stressed consumers.
-"It is not simply spot prices of energy, or spot prices for corn or soybeans or wheat, but it is the difference between those spot prices and so-called crack spreads," Warsh said. "What that means for products that find their way into a store across the country."
-For diesel prices headed into this winter, much depends on how long the Strait of Hormuz disruption and the Russian refinery issues persist. U.S. refinery utilization is already near max, so there's limited slack left to absorb another supply shock. Russell said any expert claiming certainty on this right now is guessing, but the glass is more likely half empty. "We face a lose-lose scenario in most cases," Russell said.
-—CNBC's Alex Harring contributed to this report`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/17/diesel-gas-prices-oil-us-economy.html",
-    publishedAt: "2026-09-17T16:14:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-photo-seems-to-reference-kennedy-c-edef15d6",
-    title: "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
-    titleJa: "Trump photo seems to reference Kennedy Center demolition amid legal battle over closure",
-    summaryJa: "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
-    bodyOriginal: `A new photo shows President Donald Trump eyeing a poster that appears to reference the John F. Kennedy Center for the Performing Arts being demolished, hours after he warned that the building "will end up being ripped down" if he is not properly recognized for his efforts to renovate it.
-Rep. Joyce Beatty, the Ohio Democrat battling Trump over his efforts to get his name affixed to the Kennedy Center, notified a federal judge Thursday morning in a court filing about the image and the president's threat.
-Beatty, a day earlier, asked Judge Christopher Cooper to schedule an emergency hearing in U.S. District Court in Washington, D.C., on what she says is the "unlawful" closure of the Kennedy Center by its board of trustees in violation of a prior order by Cooper.
-In her filing Thursday, Beatty's lawyers told Cooper, "Plaintiff files this Notice to apprise the Court of two new pieces of evidence that came to light last night."
-"First, yesterday evening, in response to reporter questions regarding the Kennedy Center project, President Trump stated, 'for the Trump administration, for me, to get involved, and to take on long term, and to carry it, or to raise money to carry it, I think that the Trump administration should certainly have recognition,'" the filing said.
-"'Because frankly, if we don't do that, it's going to close, it will end up being ripped down,'" Trump had said, the lawyers noted.
-The attorneys added, "Separately, a photo has been circulated on social media depicting President Trump reading a placard on Air Force One that appears to read 'Kennedy Center DEMOLISHED.'"
-The filing included a copy of the photo and a blown-up version showing the letters "DEMOLIS."
-"Given the emergency nature of this matter ... Plaintiff wanted to make sure the Court and Defendants are aware of this new information," Beatty's lawyers told Cooper.
-In a second filing Thursday morning, Beatty's lawyers asked Cooper to "enter an order making clear that either the wholesale demolition of the building or demolition that would make public access impossible would violate the Court's existing order."
-The Department of Justice told Cooper in its own court filing that Beatty's request for a hearing should be denied, saying that the center's executive director Matt Floca on Wednesday had "decided to temporarily close the Center due to 'acute risks to public safety resulting from continued structural deterioration at the center."
-The closure will last for seven days, unless extended, while Floca assesses safety risks, according to a declaration by the executive director filed by the DOJ.
-The DOJ's attorneys noted that Cooper in May had enjoined Trump and the board from taking steps to effectuate the board's March 16 decision to close the center for repair and restoration."
-"Defendants are in compliance with this order and, after two recent Board votes, intend to move for dissolution of the preliminary injunction to allow for the closure necessary to complete the restoration and renovations," the DOJ said.
-"No part of the Court's preliminary injunction order forbids a temporary closure like this
-one," the filing said.
-"There is no emergency caused by Defendants' temporary closure of the Center; the only emergency is the risk to the public and the Center's employees and artists if it remained fully open without further safety assessment," the DOJ attorneys told Cooper.
-Beatty's lawyers quickly replied to the DOJ filing, telling Cooper that the DOJ's "latest explanation" for why the center is closed "cannot be squared with the record."
-"Defendants' rationale that they are only temporarily closing the Kennedy Center is a plain pretext to justify shutting down the Center permanently," Beatty's lawyers said.
-"A hearing is imperative to clarify what Defendants are doing," the attorneys said.
-Cooper has not yet ruled whether to hold a hearing.
-Beatty is an ex officio member of the center's board.
-The center's closure came after Cooper on Tuesday rebuffed a new effort by the Kennedy Center's board of trustees to honor Trump by putting his name on the center in recognition of planned renovations to the building. The board voted to close the center for renovations after Cooper issued his order.
-Trump later Tuesday said the center would close immediately, and that planned renovations and reconstruction would not occur until Cooper's initial ruling barring the addition of Trump's name to the center was reversed by either a federal appeals court or the Supreme Court.
-The White House did not immediately respond to a request for comment about the photo.
-In a statement Wednesday, Beatty's lawyers said, "Closing the Kennedy Center without Judge Cooper's approval appears to directly violate his order. This is an assault on the rule of law."
-"The board cannot simply ignore Judge Cooper's rulings whenever it suits them. In this country, no one — including the president — is above the law," the attorneys, Norm Eisen and Nathaniel Zelinsky, said.
-Two nieces of former President Kennedy criticized Trump's stance on the center.
-"This is a tragedy," said Kerry Kennedy, the daughter of late Sen. Robert F. Kennedy in an interview with CNN on Tuesday, following the vote by the board to close for renovations.
-"The American people love the Kennedy Center, they love the arts, they understand what's going on, they see the corruption of this," said Kennedy, whose brother, Robert F. Kennedy Jr., serves as secretary of Health and Human Services under Trump.
-On the same day, Maria Shriver, whose mother was President Kennedy's sister, in an X post wrote, "And so here we are. This statement from Trump blows my mind."
-"That a sitting president would not let any renovations to a public building go on unless he gets to first put his name in the said building… What a sad state of affairs. What a tragedy. Actually, how small minded, how narcissistic," Shriver wrote. "Actually great men, devoted to public service and the public good do not act like this. It seems that this man will not rest until his name is permanently connected to the name of a great president, whose memory this building was dedicated to."
-"Imagine spending your time and your days focused on this, as everyday Americans struggle with healthcare, gas prices, rent, and food. Imagine spending your days focused on this, while a war rages under your leadership," Shriver wrote.`,
-    bodyJa: `A new photo shows President Donald Trump eyeing a poster that appears to reference the John F. Kennedy Center for the Performing Arts being demolished, hours after he warned that the building "will end up being ripped down" if he is not properly recognized for his efforts to renovate it.
-Rep. Joyce Beatty, the Ohio Democrat battling Trump over his efforts to get his name affixed to the Kennedy Center, notified a federal judge Thursday morning in a court filing about the image and the president's threat.
-Beatty, a day earlier, asked Judge Christopher Cooper to schedule an emergency hearing in U.S. District Court in Washington, D.C., on what she says is the "unlawful" closure of the Kennedy Center by its board of trustees in violation of a prior order by Cooper.
-In her filing Thursday, Beatty's lawyers told Cooper, "Plaintiff files this Notice to apprise the Court of two new pieces of evidence that came to light last night."
-"First, yesterday evening, in response to reporter questions regarding the Kennedy Center project, President Trump stated, 'for the Trump administration, for me, to get involved, and to take on long term, and to carry it, or to raise money to carry it, I think that the Trump administration should certainly have recognition,'" the filing said.
-"'Because frankly, if we don't do that, it's going to close, it will end up being ripped down,'" Trump had said, the lawyers noted.
-The attorneys added, "Separately, a photo has been circulated on social media depicting President Trump reading a placard on Air Force One that appears to read 'Kennedy Center DEMOLISHED.'"
-The filing included a copy of the photo and a blown-up version showing the letters "DEMOLIS."
-"Given the emergency nature of this matter ... Plaintiff wanted to make sure the Court and Defendants are aware of this new information," Beatty's lawyers told Cooper.
-In a second filing Thursday morning, Beatty's lawyers asked Cooper to "enter an order making clear that either the wholesale demolition of the building or demolition that would make public access impossible would violate the Court's existing order."
-The Department of Justice told Cooper in its own court filing that Beatty's request for a hearing should be denied, saying that the center's executive director Matt Floca on Wednesday had "decided to temporarily close the Center due to 'acute risks to public safety resulting from continued structural deterioration at the center."
-The closure will last for seven days, unless extended, while Floca assesses safety risks, according to a declaration by the executive director filed by the DOJ.
-The DOJ's attorneys noted that Cooper in May had enjoined Trump and the board from taking steps to effectuate the board's March 16 decision to close the center for repair and restoration."
-"Defendants are in compliance with this order and, after two recent Board votes, intend to move for dissolution of the preliminary injunction to allow for the closure necessary to complete the restoration and renovations," the DOJ said.
-"No part of the Court's preliminary injunction order forbids a temporary closure like this
-one," the filing said.
-"There is no emergency caused by Defendants' temporary closure of the Center; the only emergency is the risk to the public and the Center's employees and artists if it remained fully open without further safety assessment," the DOJ attorneys told Cooper.
-Beatty's lawyers quickly replied to the DOJ filing, telling Cooper that the DOJ's "latest explanation" for why the center is closed "cannot be squared with the record."
-"Defendants' rationale that they are only temporarily closing the Kennedy Center is a plain pretext to justify shutting down the Center permanently," Beatty's lawyers said.
-"A hearing is imperative to clarify what Defendants are doing," the attorneys said.
-Cooper has not yet ruled whether to hold a hearing.
-Beatty is an ex officio member of the center's board.
-The center's closure came after Cooper on Tuesday rebuffed a new effort by the Kennedy Center's board of trustees to honor Trump by putting his name on the center in recognition of planned renovations to the building. The board voted to close the center for renovations after Cooper issued his order.
-Trump later Tuesday said the center would close immediately, and that planned renovations and reconstruction would not occur until Cooper's initial ruling barring the addition of Trump's name to the center was reversed by either a federal appeals court or the Supreme Court.
-The White House did not immediately respond to a request for comment about the photo.
-In a statement Wednesday, Beatty's lawyers said, "Closing the Kennedy Center without Judge Cooper's approval appears to directly violate his order. This is an assault on the rule of law."
-"The board cannot simply ignore Judge Cooper's rulings whenever it suits them. In this country, no one — including the president — is above the law," the attorneys, Norm Eisen and Nathaniel Zelinsky, said.
-Two nieces of former President Kennedy criticized Trump's stance on the center.
-"This is a tragedy," said Kerry Kennedy, the daughter of late Sen. Robert F. Kennedy in an interview with CNN on Tuesday, following the vote by the board to close for renovations.
-"The American people love the Kennedy Center, they love the arts, they understand what's going on, they see the corruption of this," said Kennedy, whose brother, Robert F. Kennedy Jr., serves as secretary of Health and Human Services under Trump.
-On the same day, Maria Shriver, whose mother was President Kennedy's sister, in an X post wrote, "And so here we are. This statement from Trump blows my mind."
-"That a sitting president would not let any renovations to a public building go on unless he gets to first put his name in the said building… What a sad state of affairs. What a tragedy. Actually, how small minded, how narcissistic," Shriver wrote. "Actually great men, devoted to public service and the public good do not act like this. It seems that this man will not rest until his name is permanently connected to the name of a great president, whose memory this building was dedicated to."
-"Imagine spending your time and your days focused on this, as everyday Americans struggle with healthcare, gas prices, rent, and food. Imagine spending your days focused on this, while a war rages under your leadership," Shriver wrote.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-    publishedAt: "2026-09-17T16:06:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "book-your-thanksgiving-and-christmas-tra-e0fd9700",
-    title: "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
-    titleJa: "Book your Thanksgiving and Christmas travel now — or risk getting priced out of flying home for the holidays",
-    summaryJa: "Thanksgiving, Hanukkah and Christmas are still months away — but travel experts are advising those heading home for the holidays to book their flights now.",
-    bodyOriginal: `Thanksgiving, Hanukkah and Christmas are still months away — but travel experts are advising those heading home for the holidays to book their flights now.`,
-    bodyJa: `Thanksgiving, Hanukkah and Christmas are still months away — but travel experts are advising those heading home for the holidays to book their flights now.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-best-time-to-book-your-flight-home-for-the-holidays-yesterday-6f5928f2?mod=mw_rss_topstories",
-    publishedAt: "2026-09-17T15:49:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-21434443",
-    readTime: 2,
-  },
-  {
-    id: "like-costco-walmart-will-sell-medicare-a-800110e0",
-    title: "Like Costco, Walmart will sell Medicare Advantage plans",
-    titleJa: "Like Costco, Walmart will sell Medicare Advantage plans",
-    summaryJa: "Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.",
-    bodyOriginal: `Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.`,
-    bodyJa: `Walmart will sell Medicare Advantage plans as part of a new partnership with a nonprofit health insurer.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/like-costco-walmart-to-sell-medicare-advantage-plans-b31977d2?mod=mw_rss_topstories",
-    publishedAt: "2026-09-17T15:24:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-65083014",
-    readTime: 2,
-  },
-  {
-    id: "micron-intel-and-other-chip-stocks-are-f-1cf8a567",
-    title: "Micron, Intel and other chip stocks are furthering their strong comebacks",
-    titleJa: "Micron, Intel and other chip stocks are furthering their strong comebacks",
-    summaryJa: "Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.",
-    bodyOriginal: `Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.`,
-    bodyJa: `Investor fears about an AI spending slowdown and the impact of interest-rate hikes are subsiding.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
-    publishedAt: "2026-09-17T15:22:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-37901280",
-    readTime: 2,
-  },
-  {
-    id: "gm-touts-new-v-8-engines-in-revived-truc-7aa9f7c8",
-    title: "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
-    titleJa: "GM touts new V-8 engines in revived ‘truck wars’ with Ford, Ram amid lackluster EV sales",
-    summaryJa: "The large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.",
-    bodyOriginal: `DETROIT — The buzzing of all-electric vehicles has once again been overtaken by the revving of V-8 engines in the Motor City amid deregulation by the Trump administration and lackluster demand for EVs.
-General Motors followed Ford Motor this week in touting new and improved gas-powered engines as well as a class-exclusive diesel option to build upon GM's highly profitable full-size pickup truck business.
-The Detroit automaker on Thursday released details of the engine lineup for its upcoming 2027 Chevrolet Silverado 1500 and GMC Sierra 1500 pickup trucks that include two new V-8 engines, a carryover inline-six-cylinder diesel engine and an enhanced four-cylinder turbocharged option.
-GM executives said they expect the upgraded engine lineup and the redesigned pickup trucks to continue the automaker's six consecutive years of sales leadership over its competitors in the segment, including Ford and Chrysler parent Stellantis.
-"If we don't stomp the competition with these trucks, then I'd be very sad and questioning myself. That's the goal," GM President Mark Reuss said during a media event Wednesday at the automaker's massive Flint Engine plant near Detroit. "That's what success looks like: continued truck leadership."
-While Ford, which also updated its engine offerings for the 2027 model year, is the top-selling full-size truck and brand with its F-Series lineup, Chevrolet and GMC combined have outsold Ford since 2020.
-The full-size pickup truck market is more than marketing claims and bragging rights — it's massively profitable for the Detroit automakers, with Ford previously saying its F-Series business generated more revenue than many Fortune 100 companies.
-Full-size trucks in the U.S., including light-duty models and larger variants, are what pay the bills for U.S. automakers and allow them to invest in emerging markets and technologies.
-"This is history today and we don't take that lightly," Reuss said about the launch of its new trucks with GM's sixth generation of small-block V-8 engines, which the company first produced in 1955.
-The segment continues to help offset losses of EVs, which have been a major focal point for the automotive industry this decade. But that focus has changed with the Trump administration's moves to remove federal support of up to $7,500 in incentives to purchase an EV and reduce or eliminate federal fuel economy rules and penalties.
-GM said the decision to build a new generation of V-8 engines occurred far before the Trump administration's regulatory changes, as it takes years to develop such products. It said development of its Gen 6 small-block engine started in 2018.
-2027 'truck wars'
-The 2027 model year marks the newest "truck wars" for the Detroit automakers.
-While GM, Ford and Stellantis regularly compete with one another, the pressure and attention is renewed whenever one automaker introduces new or redesigned versions of full-size pickup trucks, like GM is for the 2027 model year.
-"Full-size pickup trucks are crucial for the three companies, without any doubt," Stephanie Brinley, associate director of Mobility Global's AutoIntelligence, said. "Part of the reason that we have the truck wars cadence that we do is simply because products get refreshed so often."
-The new battle renews a focus on V-8 engines. Ford is expanding the availability of trucks with the engines, while Ram is touting the ongoing return of its Hemi V-8 engines, including new performance "muscle trucks," and GM is rolling out two new V-8 engines.
-While many vehicle segments and automakers have dropped V-8 engine options amid tougher fuel economy standards and improved performances in smaller engines, the large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.
-Analysts have said all-electric pickup trucks have failed to sell well, among other reasons, because many customers use the vehicles to tow or haul objects, which significantly reduces an EV's range.
-Even as hybrid vehicles have rapidly increased in sales this year, pickup trucks have remained an outlier. Part of that is a lack of choices, but hybrid leader Toyota Motor reports only 18.7% of its Tundra full-size pickup truck sales this year have been hybrids.
-"No one has the efficiency on a diesel that we have," GM's Reuss said. "So if you look at the performance efficiency, but also in raw performance and range, hybrids don't do it. … At the end of the day, we have focused on something that the customer wants, and that's what we have here."
-GM reports a majority of sales of its full-size pickup trucks this year are models with V-8 engines, including 55% for the Chevy Silverado and roughly 61% for the GMC Sierra 1500. The 3.0-liter TurboMax diesel engine represents 20% of sales for Sierra 1500 and 35% of sales for Silverado 1500.
-When Ram dropped its well-known V-8 Hemi engines from its pickups for a more efficient inline six-cylinder, sales suffered so much the brand last year announced plans to resurrect it, but supplies remain tight.
-"Ram showed that you can lose buyers by not having [V-8 engines] available," Brinley said. "Part of it is because of that expectation that there is something that the V-8 is better at."
-Sales
-Full-size pickup trucks have led new U.S. vehicle sales for decades, with Ford's F-Series claiming to be the top-selling vehicle since 1981.
-GM's Chevrolet Silverado has typically followed at No. 2, with Ram not too far behind and the GMC Sierra with varying top 10 sales rankings.
-GM's plans to "stomp" the competition may be easier said than done, but the company has made gains against Ford, which has battled production issues over the past year due to supplier fires.
-Pickup truck buyers are among the most loyal customers in the U.S. automotive industry. Mobility Global, formerly S&P Global Mobility, last year reported the Silverado 1500, F-150 and Ram 1500 have regularly ranked among U.S. vehicles with the highest brand loyalty.
-However, there can be dips in loyalty when changes are made, such as when Ram canceled its Hemi, or automakers deal with recall issues.
-GM's new V-8 engines, which also are used for its full-size SUVs, come as the automaker continues to deal with issues with some of the engines in its current generation.
-The National Highway Traffic Safety Administration opened an investigation into GM's 6.2-liter V-8 over continued failures, even after the automaker recalled and said it had fixed engine issues.
-Norman Peralta, GM executive chief engineer of global engines and battery systems, said the company is cooperating with the NHTSA and is "very confident" the new engines will not have similar problems.
-Sales of GM's pickups through the first half of this year were level for Sierra compared with a year earlier, while Silverado is off 4.6%. That compares with a 19% increase for Ram and a 13% decline for the F-Series amid its supplier issues.`,
-    bodyJa: `DETROIT — The buzzing of all-electric vehicles has once again been overtaken by the revving of V-8 engines in the Motor City amid deregulation by the Trump administration and lackluster demand for EVs.
-General Motors followed Ford Motor this week in touting new and improved gas-powered engines as well as a class-exclusive diesel option to build upon GM's highly profitable full-size pickup truck business.
-The Detroit automaker on Thursday released details of the engine lineup for its upcoming 2027 Chevrolet Silverado 1500 and GMC Sierra 1500 pickup trucks that include two new V-8 engines, a carryover inline-six-cylinder diesel engine and an enhanced four-cylinder turbocharged option.
-GM executives said they expect the upgraded engine lineup and the redesigned pickup trucks to continue the automaker's six consecutive years of sales leadership over its competitors in the segment, including Ford and Chrysler parent Stellantis.
-"If we don't stomp the competition with these trucks, then I'd be very sad and questioning myself. That's the goal," GM President Mark Reuss said during a media event Wednesday at the automaker's massive Flint Engine plant near Detroit. "That's what success looks like: continued truck leadership."
-While Ford, which also updated its engine offerings for the 2027 model year, is the top-selling full-size truck and brand with its F-Series lineup, Chevrolet and GMC combined have outsold Ford since 2020.
-The full-size pickup truck market is more than marketing claims and bragging rights — it's massively profitable for the Detroit automakers, with Ford previously saying its F-Series business generated more revenue than many Fortune 100 companies.
-Full-size trucks in the U.S., including light-duty models and larger variants, are what pay the bills for U.S. automakers and allow them to invest in emerging markets and technologies.
-"This is history today and we don't take that lightly," Reuss said about the launch of its new trucks with GM's sixth generation of small-block V-8 engines, which the company first produced in 1955.
-The segment continues to help offset losses of EVs, which have been a major focal point for the automotive industry this decade. But that focus has changed with the Trump administration's moves to remove federal support of up to $7,500 in incentives to purchase an EV and reduce or eliminate federal fuel economy rules and penalties.
-GM said the decision to build a new generation of V-8 engines occurred far before the Trump administration's regulatory changes, as it takes years to develop such products. It said development of its Gen 6 small-block engine started in 2018.
-2027 'truck wars'
-The 2027 model year marks the newest "truck wars" for the Detroit automakers.
-While GM, Ford and Stellantis regularly compete with one another, the pressure and attention is renewed whenever one automaker introduces new or redesigned versions of full-size pickup trucks, like GM is for the 2027 model year.
-"Full-size pickup trucks are crucial for the three companies, without any doubt," Stephanie Brinley, associate director of Mobility Global's AutoIntelligence, said. "Part of the reason that we have the truck wars cadence that we do is simply because products get refreshed so often."
-The new battle renews a focus on V-8 engines. Ford is expanding the availability of trucks with the engines, while Ram is touting the ongoing return of its Hemi V-8 engines, including new performance "muscle trucks," and GM is rolling out two new V-8 engines.
-While many vehicle segments and automakers have dropped V-8 engine options amid tougher fuel economy standards and improved performances in smaller engines, the large, gas-guzzling models continue to sell well in pickup trucks thanks to their ability to tow and haul heavy things.
-Analysts have said all-electric pickup trucks have failed to sell well, among other reasons, because many customers use the vehicles to tow or haul objects, which significantly reduces an EV's range.
-Even as hybrid vehicles have rapidly increased in sales this year, pickup trucks have remained an outlier. Part of that is a lack of choices, but hybrid leader Toyota Motor reports only 18.7% of its Tundra full-size pickup truck sales this year have been hybrids.
-"No one has the efficiency on a diesel that we have," GM's Reuss said. "So if you look at the performance efficiency, but also in raw performance and range, hybrids don't do it. … At the end of the day, we have focused on something that the customer wants, and that's what we have here."
-GM reports a majority of sales of its full-size pickup trucks this year are models with V-8 engines, including 55% for the Chevy Silverado and roughly 61% for the GMC Sierra 1500. The 3.0-liter TurboMax diesel engine represents 20% of sales for Sierra 1500 and 35% of sales for Silverado 1500.
-When Ram dropped its well-known V-8 Hemi engines from its pickups for a more efficient inline six-cylinder, sales suffered so much the brand last year announced plans to resurrect it, but supplies remain tight.
-"Ram showed that you can lose buyers by not having [V-8 engines] available," Brinley said. "Part of it is because of that expectation that there is something that the V-8 is better at."
-Sales
-Full-size pickup trucks have led new U.S. vehicle sales for decades, with Ford's F-Series claiming to be the top-selling vehicle since 1981.
-GM's Chevrolet Silverado has typically followed at No. 2, with Ram not too far behind and the GMC Sierra with varying top 10 sales rankings.
-GM's plans to "stomp" the competition may be easier said than done, but the company has made gains against Ford, which has battled production issues over the past year due to supplier fires.
-Pickup truck buyers are among the most loyal customers in the U.S. automotive industry. Mobility Global, formerly S&P Global Mobility, last year reported the Silverado 1500, F-150 and Ram 1500 have regularly ranked among U.S. vehicles with the highest brand loyalty.
-However, there can be dips in loyalty when changes are made, such as when Ram canceled its Hemi, or automakers deal with recall issues.
-GM's new V-8 engines, which also are used for its full-size SUVs, come as the automaker continues to deal with issues with some of the engines in its current generation.
-The National Highway Traffic Safety Administration opened an investigation into GM's 6.2-liter V-8 over continued failures, even after the automaker recalled and said it had fixed engine issues.
-Norman Peralta, GM executive chief engineer of global engines and battery systems, said the company is cooperating with the NHTSA and is "very confident" the new engines will not have similar problems.
-Sales of GM's pickups through the first half of this year were level for Sierra compared with a year earlier, while Silverado is off 4.6%. That compares with a 19% increase for Ram and a 13% decline for the F-Series amid its supplier issues.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/17/chevy-silverado-gmc-sierra-v-8-engines.html",
-    publishedAt: "2026-09-17T14:39:40+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "barclays-workers-ask-for-more-money-to-r-da77bc77",
-    title: "Barclays workers ask for more money to return to the office",
-    titleJa: "Barclays workers ask for more money to return to the office",
-    summaryJa: "Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.",
-    bodyOriginal: `Barclays workers ask for more money to return to the office
-- Published
-Thousands of Barclays staff are demanding concessions from the bank after it said it wants employees to work from the office more often.
-Staff who have been expected to work in the office for two days per week should be in the office for at least three days a week from next month, according to the company.
-Unite, which represents about 36,000 Barclays staff, is calling for the bank to reverse its decision. The union is also pressing for exemptions and a payment to offset increased travel and childcare costs.
-Barclays said many employees already work in the office for three or more days and that being on-site fostered collaboration and helped people learn from eachother.
-It added that it recognised "the benefits of balancing flexibility for colleagues with the importance of working together in our physical locations".
-The bank sent a memo to staff in July outlining its expectations, which include that senior leaders work at least four days per week in the office.
-But the bank is facing a growing backlash against the proposed rules change, first reported in the Financial Times, external,
-Unite national officer Rick Coyle said thousands of employees have signed an open letter calling for Barclays to reverse the decision, and the number of signatories "continues to rise".
-He added that Barclays is "trying to fix a problem that doesn't exist" in making its working-from-home rules less flexible.
-The open letter, external says workers are delivering "strong financial results and improved customer services" with its current working from home policy.
-It adds that thousands of workers have made suggestions, which the union has condensed into a series of demands.
-These include:
-an exemption for people whose commutes are longer than 40 minutes or 35 miles
-exemptions during Christmas, summer, and school holidays
-a maximum one day in the office for carers
-flexibility for wrap-around childcare, and childcare vouchers and onsite creches to be explored
-a one-off payment to offset costs
-"Our minimum time in office requirements vary by business area, reflecting the nature of the work and the needs of the business," a spokesperson for the bank said.
-Barclays declined to say how many staff would be affected by the rule change. However, the BBC understands that there are different requirements depending on teams, with, for example, investment bankers in the office for five days per week.
-The coronavirus pandemic forced many businesses to allow working from home, depending on the nature of the business.
-Since then, many organisations have been increasingly recalling workers to the office.
-There is evidence that hybrid working may be the best fit for many workers and businesses.
-But a lot of large organisations including Amazon, Boots and JP Morgan took the decision to bring in policies requiring head office staff to be in every day after the pandemic.
-This week, Ewan Venters, the executive chair of fashion brand Paul Smith, told the BBC's Big Boss Interview podcast that working from home "just doesn't work" for young people and urged the government to stay out of decisions over where employees work.
-In June, digital bank Revolut said it was shifting away from its "remote-first" policy for new recruits in 2027, but for other employees that policy wouldn't change.
-Get in touch
-Have you been asked to work in the office more regularly? Tell us about your experience.
-Related topics
-- Published20 January 2025
-- Published22 September 2024`,
-    bodyJa: `Barclays workers ask for more money to return to the office
-- Published
-Thousands of Barclays staff are demanding concessions from the bank after it said it wants employees to work from the office more often.
-Staff who have been expected to work in the office for two days per week should be in the office for at least three days a week from next month, according to the company.
-Unite, which represents about 36,000 Barclays staff, is calling for the bank to reverse its decision. The union is also pressing for exemptions and a payment to offset increased travel and childcare costs.
-Barclays said many employees already work in the office for three or more days and that being on-site fostered collaboration and helped people learn from eachother.
-It added that it recognised "the benefits of balancing flexibility for colleagues with the importance of working together in our physical locations".
-The bank sent a memo to staff in July outlining its expectations, which include that senior leaders work at least four days per week in the office.
-But the bank is facing a growing backlash against the proposed rules change, first reported in the Financial Times, external,
-Unite national officer Rick Coyle said thousands of employees have signed an open letter calling for Barclays to reverse the decision, and the number of signatories "continues to rise".
-He added that Barclays is "trying to fix a problem that doesn't exist" in making its working-from-home rules less flexible.
-The open letter, external says workers are delivering "strong financial results and improved customer services" with its current working from home policy.
-It adds that thousands of workers have made suggestions, which the union has condensed into a series of demands.
-These include:
-an exemption for people whose commutes are longer than 40 minutes or 35 miles
-exemptions during Christmas, summer, and school holidays
-a maximum one day in the office for carers
-flexibility for wrap-around childcare, and childcare vouchers and onsite creches to be explored
-a one-off payment to offset costs
-"Our minimum time in office requirements vary by business area, reflecting the nature of the work and the needs of the business," a spokesperson for the bank said.
-Barclays declined to say how many staff would be affected by the rule change. However, the BBC understands that there are different requirements depending on teams, with, for example, investment bankers in the office for five days per week.
-The coronavirus pandemic forced many businesses to allow working from home, depending on the nature of the business.
-Since then, many organisations have been increasingly recalling workers to the office.
-There is evidence that hybrid working may be the best fit for many workers and businesses.
-But a lot of large organisations including Amazon, Boots and JP Morgan took the decision to bring in policies requiring head office staff to be in every day after the pandemic.
-This week, Ewan Venters, the executive chair of fashion brand Paul Smith, told the BBC's Big Boss Interview podcast that working from home "just doesn't work" for young people and urged the government to stay out of decisions over where employees work.
-In June, digital bank Revolut said it was shifting away from its "remote-first" policy for new recruits in 2027, but for other employees that policy wouldn't change.
-Get in touch
-Have you been asked to work in the office more regularly? Tell us about your experience.
-Related topics
-- Published20 January 2025
-- Published22 September 2024`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-17T14:20:27+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4b/live/ea69b660-b28f-11f1-8096-b33a1297275a.jpg",
-    readTime: 9,
   },
 ];
 
