@@ -15,6 +15,494 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "bank-of-japan-raises-interest-rates-to-3-a7dfceda",
+    title: "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+    titleJa: "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+    summaryJa: "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
+    bodyOriginal: `The Bank of Japan has raised its policy rate by 25 basis points to 1.25%, the highest level since 1995.
+The move also marked a quickening in the BOJ's rate hike cycle since it started monetary policy normalization in March 2024, with the rise taking place three months from the BOJ's last hike, as compared to six months previously.
+The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike. The duo are seen as reflationists and were appointed by Prime Minister Sanae Takaichi earlier this year.
+The rise in rate hikes was widely expected, with almost 90% of economists surveyed by CNBC expecting the 25-basis-point tightening. Those surveyed also correctly predicted the dissenters to the decision.
+In its statement, the BOJ said the move was because of a risk that inflation will deviate upward to beyond its 2% target.
+The central bank added that it aims to stabilize underlying inflation at "around 2%" so that price rises do not overshoot its target and adversely affect the Japanese economy afterward.
+The hike comes amid rising inflation in the country and a historically weak yen, with the latest inflation headline rate for August at 1.9% and Tokyo and Washington conducting a coordinated intervention to prop up the yen.
+The currency traded at 156.64 after the decision, weakening 0.45%, while the benchmark 10-year Japanese government bond yield fell 4.9 basis points to 2.947%.
+Dissenter Asada noted that as the core inflation rate was below 2%, he was of the view that the economic situation may not be strong, and instead advocated for a hold. Core inflation for August stood at 1.7%, down from 1.8% in July.
+Sato also said current economic and price developments did not appear to have substantially accelerated compared to before.
+The U.S. has been vocal about Japan continuing its rate-hiking cycle, pressuring Takaichi's preference for an easy monetary policy and an expansionary fiscal policy.
+Most recently, Treasury Secretary Scott Bessent told BOJ Governor Kazuo Ueda to take "decisive market and monetary steps" at the G20 finance ministers and central bank governors meeting earlier this month.`,
+    bodyJa: `The Bank of Japan has raised its policy rate by 25 basis points to 1.25%, the highest level since 1995.
+The move also marked a quickening in the BOJ's rate hike cycle since it started monetary policy normalization in March 2024, with the rise taking place three months from the BOJ's last hike, as compared to six months previously.
+The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike. The duo are seen as reflationists and were appointed by Prime Minister Sanae Takaichi earlier this year.
+The rise in rate hikes was widely expected, with almost 90% of economists surveyed by CNBC expecting the 25-basis-point tightening. Those surveyed also correctly predicted the dissenters to the decision.
+In its statement, the BOJ said the move was because of a risk that inflation will deviate upward to beyond its 2% target.
+The central bank added that it aims to stabilize underlying inflation at "around 2%" so that price rises do not overshoot its target and adversely affect the Japanese economy afterward.
+The hike comes amid rising inflation in the country and a historically weak yen, with the latest inflation headline rate for August at 1.9% and Tokyo and Washington conducting a coordinated intervention to prop up the yen.
+The currency traded at 156.64 after the decision, weakening 0.45%, while the benchmark 10-year Japanese government bond yield fell 4.9 basis points to 2.947%.
+Dissenter Asada noted that as the core inflation rate was below 2%, he was of the view that the economic situation may not be strong, and instead advocated for a hold. Core inflation for August stood at 1.7%, down from 1.8% in July.
+Sato also said current economic and price developments did not appear to have substantially accelerated compared to before.
+The U.S. has been vocal about Japan continuing its rate-hiking cycle, pressuring Takaichi's preference for an easy monetary policy and an expansionary fiscal policy.
+Most recently, Treasury Secretary Scott Bessent told BOJ Governor Kazuo Ueda to take "decisive market and monetary steps" at the G20 finance ministers and central bank governors meeting earlier this month.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+    publishedAt: "2026-09-18T03:31:45+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "un-mission-finds-evidence-signaling-u-s-609ee8a0",
+    title: "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+    titleJa: "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+    summaryJa: "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
+    bodyOriginal: `A United Nations fact-finding mission said there was evidence to believe that the U.S. committed war crimes during the Iran war, lending credibility to Tehran's similar claims.
+There are "reasonable grounds" to believe that Washington's forces "committed the war crime of launching indiscriminate attacks resulting in the loss of life or injury to civilians or damage to civilian objects," the UN's Independent International Fact-Finding Mission on Iran said on Thursday.
+The mission pointed out the Tomahawk missile strike on a primary school that killed more than 150 people in the city of Minab, and another airstrike where missiles were used against a "clearly identifiable sports complex and residential area," killing 22 civilians.
+The report said the school was the intended point of impact, and the resulting damage wasn't the result of an errant strike or collateral damage from an attack on a compound of Iran's Revolutionary Guard next to the school.
+The experts said they found no information indicating that the school was used for military purposes at the time.
+A State Department Official said the U.S. does not give credibility to the report's findings, adding that the UN council "pushes anti-American rhetoric and antisemitism" and "appeases repressive regimes."
+CNBC has reached out to the Pentagon for comments.
+The Associated Press reported that the White House has also pushed back on the report, with spokesperson Anna Kelly saying "The only party in this conflict that has committed war crimes is the Iranian regime."
+The fact-finding mission also charged Iran with human rights violations and "crimes against humanity committed."
+Washington had withdrawn from the UN Human Rights Council via an executive order from President Donald Trump in February 2025, saying that some UN agencies and bodies, including the council, were acting contrary to the interests of the U.S.
+Separately, hopes are rising again that negotiations around the Middle East conflict could restart. According to an MS NOW report, government officials have said that a meeting between Gulf Arab nations, the U.S. and Iran could take place around the time of the United Nations General Assembly next week.
+The report comes as the U.S. approved the Iranian delegation's travel to attend the United Nations General Assembly. A State Department spokesperson said that the delegation will be under travel restrictions, and will be prohibited from purchasing luxury or other goods.
+The AP reported that Tehran's delegation is expected to include President Masoud Pezeshkian and Foreign Minister Abbas Araghchi.
+— CNBC's Sam Meredith contributed to this report.`,
+    bodyJa: `A United Nations fact-finding mission said there was evidence to believe that the U.S. committed war crimes during the Iran war, lending credibility to Tehran's similar claims.
+There are "reasonable grounds" to believe that Washington's forces "committed the war crime of launching indiscriminate attacks resulting in the loss of life or injury to civilians or damage to civilian objects," the UN's Independent International Fact-Finding Mission on Iran said on Thursday.
+The mission pointed out the Tomahawk missile strike on a primary school that killed more than 150 people in the city of Minab, and another airstrike where missiles were used against a "clearly identifiable sports complex and residential area," killing 22 civilians.
+The report said the school was the intended point of impact, and the resulting damage wasn't the result of an errant strike or collateral damage from an attack on a compound of Iran's Revolutionary Guard next to the school.
+The experts said they found no information indicating that the school was used for military purposes at the time.
+A State Department Official said the U.S. does not give credibility to the report's findings, adding that the UN council "pushes anti-American rhetoric and antisemitism" and "appeases repressive regimes."
+CNBC has reached out to the Pentagon for comments.
+The Associated Press reported that the White House has also pushed back on the report, with spokesperson Anna Kelly saying "The only party in this conflict that has committed war crimes is the Iranian regime."
+The fact-finding mission also charged Iran with human rights violations and "crimes against humanity committed."
+Washington had withdrawn from the UN Human Rights Council via an executive order from President Donald Trump in February 2025, saying that some UN agencies and bodies, including the council, were acting contrary to the interests of the U.S.
+Separately, hopes are rising again that negotiations around the Middle East conflict could restart. According to an MS NOW report, government officials have said that a meeting between Gulf Arab nations, the U.S. and Iran could take place around the time of the United Nations General Assembly next week.
+The report comes as the U.S. approved the Iranian delegation's travel to attend the United Nations General Assembly. A State Department spokesperson said that the delegation will be under travel restrictions, and will be prohibited from purchasing luxury or other goods.
+The AP reported that Tehran's delegation is expected to include President Masoud Pezeshkian and Foreign Minister Abbas Araghchi.
+— CNBC's Sam Meredith contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+    publishedAt: "2026-09-18T03:09:22+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "japan-raises-interest-rate-to-new-31-yea-1dfd8d95",
+    title: "Japan raises interest rate to new 31-year high to curb rising prices",
+    titleJa: "Japan raises interest rate to new 31-year high to curb rising prices",
+    summaryJa: "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
+    bodyOriginal: `Japan raises interest rate to new 31-year high to curb rising prices
+- Published
+Japan's central bank has raised its main interest rate to a fresh 31-year high as it continues to move away from decades of ultra-low borrowing costs and as the country faces increasing economic pressures.
+In a widely expected move on Friday, the Bank of Japan (BOJ) increased the rate from 1% to 1.25% - a level not seen since 1995.
+It comes as major central banks around the world are hiking rates as higher energy prices caused by the Iran war are helping to push up inflation.
+On Wednesday, the US Federal Reserve raised its benchmark interest rate for the first time in over three years, while the European Central Bank also increased its borrowing costs earlier this month.
+The BOJ has been raising the rate since 2024, when it stood at minus 0.1%. It has now hiked rates six times in the last two and a half years.
+Since then the bank has been steadily putting up the rate as it tries to reach a level similar to other major economies.
+When a central bank raises rates, the country's currency usually becomes stronger as it makes the it more attractive to traders.
+Japan is facing several economic challenges including a persistently weak yen, rising prices and a shrinking workforce.
+Official figures published on Friday ahead of the BOJ announcement showed that inflation eased slightly last month.
+Core inflation fell to 1.7% in August from 1.8% the previous month but remains close to the bank's 2% target level.
+While Japan's inflation rate is not high by international standards, rising prices are a relatively new development in the economy.
+Until recently the country had experienced very low inflation or deflation - falling prices - for around three decades.
+Global oil and gas prices have risen this year as the Iran war caused major disruptions to shipments through the key Strait of Hormuz shipping route.
+Japan is particularly vulnerable to those supply interruptions as it is heavily reliant on energy from the Middle East.
+The country's currency has also been under pressure in recent months.
+In August, Tokyo and Washington confirmed that they had jointly intervened to halt a slide in the yen after it fell to a fresh 40-year low.
+The coordinated intervention was the first since 2011, when both countries took action together to weaken the yen after the devastating earthquake and tsunami that hit eastern Japan.
+Both Japan's Ministry of Finance and US Treasury Secretary Scott Bessent said at the time that they would not hesitate to conduct more joint interventions in the future.
+Bessent has also been ramping up pressure on the BOJ to raise interest rates to help support the yen, calling on its Governor Kazuo Ueda to "do the right thing".`,
+    bodyJa: `Japan raises interest rate to new 31-year high to curb rising prices
+- Published
+Japan's central bank has raised its main interest rate to a fresh 31-year high as it continues to move away from decades of ultra-low borrowing costs and as the country faces increasing economic pressures.
+In a widely expected move on Friday, the Bank of Japan (BOJ) increased the rate from 1% to 1.25% - a level not seen since 1995.
+It comes as major central banks around the world are hiking rates as higher energy prices caused by the Iran war are helping to push up inflation.
+On Wednesday, the US Federal Reserve raised its benchmark interest rate for the first time in over three years, while the European Central Bank also increased its borrowing costs earlier this month.
+The BOJ has been raising the rate since 2024, when it stood at minus 0.1%. It has now hiked rates six times in the last two and a half years.
+Since then the bank has been steadily putting up the rate as it tries to reach a level similar to other major economies.
+When a central bank raises rates, the country's currency usually becomes stronger as it makes the it more attractive to traders.
+Japan is facing several economic challenges including a persistently weak yen, rising prices and a shrinking workforce.
+Official figures published on Friday ahead of the BOJ announcement showed that inflation eased slightly last month.
+Core inflation fell to 1.7% in August from 1.8% the previous month but remains close to the bank's 2% target level.
+While Japan's inflation rate is not high by international standards, rising prices are a relatively new development in the economy.
+Until recently the country had experienced very low inflation or deflation - falling prices - for around three decades.
+Global oil and gas prices have risen this year as the Iran war caused major disruptions to shipments through the key Strait of Hormuz shipping route.
+Japan is particularly vulnerable to those supply interruptions as it is heavily reliant on energy from the Middle East.
+The country's currency has also been under pressure in recent months.
+In August, Tokyo and Washington confirmed that they had jointly intervened to halt a slide in the yen after it fell to a fresh 40-year low.
+The coordinated intervention was the first since 2011, when both countries took action together to weaken the yen after the devastating earthquake and tsunami that hit eastern Japan.
+Both Japan's Ministry of Finance and US Treasury Secretary Scott Bessent said at the time that they would not hesitate to conduct more joint interventions in the future.
+Bessent has also been ramping up pressure on the BOJ to raise interest rates to help support the yen, calling on its Governor Kazuo Ueda to "do the right thing".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T02:56:35+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae8/live/de6aa0d0-b24a-11f1-ad58-cb8b59d51cf1.jpg",
+    readTime: 7,
+  },
+  {
+    id: "oil-prices-fall-as-saudi-supply-hopes-ou-53506360",
+    title: "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+    titleJa: "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+    summaryJa: "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
+    bodyOriginal: `Oil prices fell on Friday as investors weighed fresh strikes between Saudi Arabia and Yemen's Iran-backed Houthis against signs that additional Saudi crude could reach global markets and help ease supply concerns.
+Brent crude futures, the international benchmark, were down 0.94% to $103.83 per barrel. U.S. West Texas Intermediate futures were down 0.88% to $101.01 per barrel.
+Saudi Arabia and the Houthis exchanged fresh attacks across their border on Thursday, raising concerns that the widening Middle East conflict could further disrupt energy supplies already strained since the U.S. and Israel attacked Iran in February.
+Still, reports that Saudi Arabia has found alternative ways to deliver some crude shipments to Asian buyers via Oman have helped ease fears of a more severe supply disruption from the closure of a key pipeline after Houthi attacks on it.
+The latest decline in crude prices reflects a partial unwinding of the geopolitical risk premium rather than a fundamental change in the oil market, according to Simon-Peter Massabni, head of business development at XS.com.
+Improved logistics for Saudi crude exports have reduced the market's assessment of how much supply is at risk, Massabni said, adding that oil prices reflect not just available barrels but also the probability of those supplies being disrupted.
+Still, the Middle East supply network remains vulnerable, with traders particularly sensitive to developments around the Strait of Hormuz, export routes and oil terminals, he said. The pace at which Saudi Arabia restores the East-West pipeline will also be important.
+Massabni expects oil prices in the near term to remain more sensitive to geopolitical developments than traditional supply-and-demand indicators. Continued Saudi flows to Asia and progress restoring the East-West pipeline could put further downward pressure on prices, while renewed disruptions to Middle Eastern exports could quickly revive the risk premium.`,
+    bodyJa: `Oil prices fell on Friday as investors weighed fresh strikes between Saudi Arabia and Yemen's Iran-backed Houthis against signs that additional Saudi crude could reach global markets and help ease supply concerns.
+Brent crude futures, the international benchmark, were down 0.94% to $103.83 per barrel. U.S. West Texas Intermediate futures were down 0.88% to $101.01 per barrel.
+Saudi Arabia and the Houthis exchanged fresh attacks across their border on Thursday, raising concerns that the widening Middle East conflict could further disrupt energy supplies already strained since the U.S. and Israel attacked Iran in February.
+Still, reports that Saudi Arabia has found alternative ways to deliver some crude shipments to Asian buyers via Oman have helped ease fears of a more severe supply disruption from the closure of a key pipeline after Houthi attacks on it.
+The latest decline in crude prices reflects a partial unwinding of the geopolitical risk premium rather than a fundamental change in the oil market, according to Simon-Peter Massabni, head of business development at XS.com.
+Improved logistics for Saudi crude exports have reduced the market's assessment of how much supply is at risk, Massabni said, adding that oil prices reflect not just available barrels but also the probability of those supplies being disrupted.
+Still, the Middle East supply network remains vulnerable, with traders particularly sensitive to developments around the Strait of Hormuz, export routes and oil terminals, he said. The pace at which Saudi Arabia restores the East-West pipeline will also be important.
+Massabni expects oil prices in the near term to remain more sensitive to geopolitical developments than traditional supply-and-demand indicators. Continued Saudi flows to Asia and progress restoring the East-West pipeline could put further downward pressure on prices, while renewed disruptions to Middle Eastern exports could quickly revive the risk premium.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+    publishedAt: "2026-09-18T01:35:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "early-bowie-music-available-to-stream-fo-b2bede7c",
+    title: "Early Bowie music available to stream for first time",
+    titleJa: "Early Bowie music available to stream for first time",
+    summaryJa: "Previously unheard material from the start of the artist's career has been released for the first time.",
+    bodyOriginal: `Early Bowie music available to stream for first time
+- Published
+Ten years ago Alec Palao was casually flicking through a collection of old records when he noticed some faint pencil markings that were enough to draw a gasp. "Davie Jones," it read.
+What he had found was musical gold: five unreleased songs by a young David Bowie, filed away under his birth name.
+From Friday, those tracks, plus another five unreleased songs that came Palao's way after the initial discovery, will be available to buy and stream.
+"They are probably the most visceral, raw you'll ever hear the man," said Palao, a music historian and archivist.
+For the music industry, David Bowie is big business. He entered the mainstream with his 1969 single, Space Oddity, and went on to achieve 11 number one albums.
+He died in 2016, but remains one of Britain's most recognisable cultural icons.
+Six of the previously unreleased tracks from the new collection will be available on vinyl, tapping into Bowie's popularity in that format specifically. In 2022, Bowie was named the best-selling vinyl artist of the 21st century by Music Week, ahead of The Beatles.
+"It's just a fascinating window into London in 1965 and its possibilities," said Palao.
+In the early sixties, Bowie was a teenager, performing as Davie Jones at London clubs and dreaming of stardom. Many of the tracks he recorded in that period are either little known or lost to time.
+But his first professional producer, Shel Talmy, had kept a recording from 1965 among his collection of material by other artists he had worked with: The Kinks; The Who; Manfred Mann; The Easybeats.
+It was within Talmy's collection that Palao came across the valuable 12-inch acetate.
+That material and the five other previously unheard tunes, as well as demos and remastered songs, form part of a new, posthumous album called The Shel Talmy Recordings.
+A limited edition vinyl will be sold at Record Store Day and HMV outlets.
+In 2022, David Bowie's estate sold the publishing rights to decades of the singer's work to Warner Music Group. For this new material, Palao, along with Talmy Enterprises Incorporated, licensed the album to Warner, and it will be released by the company's subsidiary, Parlophone. Royalties will be paid to Bowie's estate by Warner.
+Bowie experimenting
+"I think it's wonderful that people can get to hear the early Davie Jones music," said Dana Gillespie, an early collaborator of Bowie's.
+She met him after a performance at the Marquee Club in London when Bowie was 17.
+"They're songs that don't really sound like David but it's him trying to find his voice. He was experimenting."
+Gillespie became close friends with Bowie, eventually working with him on his "Ziggy Stardust" album. Talmy worked with both artists and Bowie's song "Andy Warhol", on his fourth studio album, was originally written for Gillespie.
+"He was very driven," remembered Gillespie, who is still touring and making music at the age of 77.
+"Some time in the sixties, he asked me to come and visit his parents. We were in his little house in Bromley, and when his parents left the room he turned to me and said: 'Whatever it takes, I want to get out of here.' And he did," she said.
+It is a decade since Palao found the recordings. Since then, it has been a long process to bring them to market. The result is an album that he says is "absolutely pure rock 'n' roll".
+"If you're looking for clues as to what he was to become, there's maybe less of that," said Palao, "but objectively speaking, I feel it's important stuff."
+Gillespie is excited by one song in particular.
+"There was a famous café called the Gioconda in Denmark Street where I often used to go with David," she said, recalling the centre of musical life in London in the 1960s.
+"One day when I was sitting there, David rushed in and took me by the hand. He said: 'You have to hear this'.
+"He ran with me around the corner and squeezed us into a small listening booth. I had one speaker and he had the other, and he played me 'I Pity The Fool'."
+A remastered version of the song can be heard in the new album.
+For music historians, fans of Bowie, and those who were there, the new album is another chance to reconnect with an enduring cultural icon.
+"David always wanted to be a big star," said Gillespie. "I'm so happy that his early stuff hasn't been forgotten."
+Related topics
+- Published27 August
+- Published10 January`,
+    bodyJa: `Early Bowie music available to stream for first time
+- Published
+Ten years ago Alec Palao was casually flicking through a collection of old records when he noticed some faint pencil markings that were enough to draw a gasp. "Davie Jones," it read.
+What he had found was musical gold: five unreleased songs by a young David Bowie, filed away under his birth name.
+From Friday, those tracks, plus another five unreleased songs that came Palao's way after the initial discovery, will be available to buy and stream.
+"They are probably the most visceral, raw you'll ever hear the man," said Palao, a music historian and archivist.
+For the music industry, David Bowie is big business. He entered the mainstream with his 1969 single, Space Oddity, and went on to achieve 11 number one albums.
+He died in 2016, but remains one of Britain's most recognisable cultural icons.
+Six of the previously unreleased tracks from the new collection will be available on vinyl, tapping into Bowie's popularity in that format specifically. In 2022, Bowie was named the best-selling vinyl artist of the 21st century by Music Week, ahead of The Beatles.
+"It's just a fascinating window into London in 1965 and its possibilities," said Palao.
+In the early sixties, Bowie was a teenager, performing as Davie Jones at London clubs and dreaming of stardom. Many of the tracks he recorded in that period are either little known or lost to time.
+But his first professional producer, Shel Talmy, had kept a recording from 1965 among his collection of material by other artists he had worked with: The Kinks; The Who; Manfred Mann; The Easybeats.
+It was within Talmy's collection that Palao came across the valuable 12-inch acetate.
+That material and the five other previously unheard tunes, as well as demos and remastered songs, form part of a new, posthumous album called The Shel Talmy Recordings.
+A limited edition vinyl will be sold at Record Store Day and HMV outlets.
+In 2022, David Bowie's estate sold the publishing rights to decades of the singer's work to Warner Music Group. For this new material, Palao, along with Talmy Enterprises Incorporated, licensed the album to Warner, and it will be released by the company's subsidiary, Parlophone. Royalties will be paid to Bowie's estate by Warner.
+Bowie experimenting
+"I think it's wonderful that people can get to hear the early Davie Jones music," said Dana Gillespie, an early collaborator of Bowie's.
+She met him after a performance at the Marquee Club in London when Bowie was 17.
+"They're songs that don't really sound like David but it's him trying to find his voice. He was experimenting."
+Gillespie became close friends with Bowie, eventually working with him on his "Ziggy Stardust" album. Talmy worked with both artists and Bowie's song "Andy Warhol", on his fourth studio album, was originally written for Gillespie.
+"He was very driven," remembered Gillespie, who is still touring and making music at the age of 77.
+"Some time in the sixties, he asked me to come and visit his parents. We were in his little house in Bromley, and when his parents left the room he turned to me and said: 'Whatever it takes, I want to get out of here.' And he did," she said.
+It is a decade since Palao found the recordings. Since then, it has been a long process to bring them to market. The result is an album that he says is "absolutely pure rock 'n' roll".
+"If you're looking for clues as to what he was to become, there's maybe less of that," said Palao, "but objectively speaking, I feel it's important stuff."
+Gillespie is excited by one song in particular.
+"There was a famous café called the Gioconda in Denmark Street where I often used to go with David," she said, recalling the centre of musical life in London in the 1960s.
+"One day when I was sitting there, David rushed in and took me by the hand. He said: 'You have to hear this'.
+"He ran with me around the corner and squeezed us into a small listening booth. I had one speaker and he had the other, and he played me 'I Pity The Fool'."
+A remastered version of the song can be heard in the new album.
+For music historians, fans of Bowie, and those who were there, the new album is another chance to reconnect with an enduring cultural icon.
+"David always wanted to be a big star," said Gillespie. "I'm so happy that his early stuff hasn't been forgotten."
+Related topics
+- Published27 August
+- Published10 January`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T23:01:03+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba7/live/8786a940-b2da-11f1-849c-b1b42bb6aefc.jpg",
+    readTime: 10,
+  },
+  {
+    id: "why-we-bought-our-first-home-with-a-100-5427387d",
+    title: "Why we bought our first home with a 100% mortgage - despite the risks",
+    titleJa: "Why we bought our first home with a 100% mortgage - despite the risks",
+    summaryJa: "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+    bodyOriginal: `Why we bought our first home with a 100% mortgage - despite the risks
+- Published
+Until last year, Conroy, 32, and his partner Amber, 28, saw little prospect of owning their own home. They were renting in central Manchester where they work and could not afford to save up for a deposit.
+Then they came across a relatively niche, and some experts say riskier, type of mortgage that offered a solution.
+The Track Record mortgage from Skipton Building Society covers 100% of the value of a property, with the borrower paying nothing upfront.
+Borrowers must meet strict eligibility checks and pay a higher interest rate - in Conroy and Amber's case 5.33% fixed for five years - but they were happy to do this. And in August they bought a four-bed home for £242,000 in Swinton on the edge of Manchester.
+"I don't think it's dawned on us it's really ours," says Conroy, a video editor.
+The return of low-deposit deals
+According to the Bank of England, the share of UK mortgages with deposits worth less than 10% of the property's value is currently the highest it has been since 2008, external when such loans were widely available.
+The average deposit for first-time buyers is currently around 20%.
+It comes as lenders such as Lloyds, Santander, Skipton and Yorkshire Building Society have launched a raft of new mortgage deals over the last few years covering upwards of 95% of the value of a property, and in some cases as much as 100%.
+They say they want to help first-time buyers get on the housing ladder as property prices continue to rise and while saving for a deposit remains a struggle.
+But these loans tend to charge higher rates, aren't available for all types of property or borrower, and come with risks customers should be aware of.
+Conroy and Amber, a solicitor, have a 25-year loan with monthly repayments of £1,500 - roughly what they were paying in rent.
+He says they feel comfortable with the higher cost because they "earn quite well" and expect their salaries to rise.
+But he is aware there is a greater risk of falling into negative equity with a no- or low-deposit mortgage. That is when the value of a property falls below the value of the loan still owed on it - leaving the borrower with potentially painful costs if they suddenly have to sell.
+Conroy says they plan to overpay their mortgage for the first five years to build up more equity in their home.
+"There is always the element of a gamble with the property market," he says.
+"But I have researched the area we moved to and don't think house prices are going to drop."
+'We plan to stay here our whole lives'
+Twenty-seven-year-old Bronya and her partner George, 29, also used a low-deposit mortgage to buy their four-bedroom house in Rhuddlan, North Wales in August.
+Lloyds lent them £258,000 - roughly 98% of the property's value - over a 33-year term and they only had to put down £5,000 as a deposit.
+The couple pay an interest rate of 5.89%, fixed for five years, equating to monthly repayments of £1,400 - about the same as what they paid to rent a one-bed flat before.
+Bronya, a civil servant, says they could have put down a bigger deposit but wanted to use their savings for a renovation project costing upwards of £20,000.
+They are aware of the risks of negative equity but believe the refurbishment will boost the value of their home.
+"We also plan to stay here our whole lives," George adds, explaining that they are prepared to ride out any dips in the property market.
+Widespread uptake of low-deposit mortgages by borrowers who could not afford them was seen as a major factor in the 2008 global financial crisis.
+But today's deals have much stronger affordability checks and do not pose the same risks, says David Hollingworth, associate director at brokers L&C Mortgages.
+Borrowers of Skipton's zero-deposit mortgage, for example, have to prove they have kept up with their rent for at least 12 consecutive months and credit payments for the last six months.
+And Lloyds won't issue one of its £5,000 deposit mortgages for new-build properties and shared ownership homes.
+Hollingworth says lenders are recognising that some people have "good affordability but may be struggling to save for a deposit while paying a rent and dealing with cost of living pressures".
+Following a recent rule change, he adds, lenders are also offering more "flex" on how much someone can borrow as long as it's within their means.
+Nevertheless, he urges borrowers to use common sense.
+"Think carefully - what do monthly payments look like? Are you aware that interest rates could go up?"
+Get in touch
+Are you buying your first home? How have you managed it?`,
+    bodyJa: `Why we bought our first home with a 100% mortgage - despite the risks
+- Published
+Until last year, Conroy, 32, and his partner Amber, 28, saw little prospect of owning their own home. They were renting in central Manchester where they work and could not afford to save up for a deposit.
+Then they came across a relatively niche, and some experts say riskier, type of mortgage that offered a solution.
+The Track Record mortgage from Skipton Building Society covers 100% of the value of a property, with the borrower paying nothing upfront.
+Borrowers must meet strict eligibility checks and pay a higher interest rate - in Conroy and Amber's case 5.33% fixed for five years - but they were happy to do this. And in August they bought a four-bed home for £242,000 in Swinton on the edge of Manchester.
+"I don't think it's dawned on us it's really ours," says Conroy, a video editor.
+The return of low-deposit deals
+According to the Bank of England, the share of UK mortgages with deposits worth less than 10% of the property's value is currently the highest it has been since 2008, external when such loans were widely available.
+The average deposit for first-time buyers is currently around 20%.
+It comes as lenders such as Lloyds, Santander, Skipton and Yorkshire Building Society have launched a raft of new mortgage deals over the last few years covering upwards of 95% of the value of a property, and in some cases as much as 100%.
+They say they want to help first-time buyers get on the housing ladder as property prices continue to rise and while saving for a deposit remains a struggle.
+But these loans tend to charge higher rates, aren't available for all types of property or borrower, and come with risks customers should be aware of.
+Conroy and Amber, a solicitor, have a 25-year loan with monthly repayments of £1,500 - roughly what they were paying in rent.
+He says they feel comfortable with the higher cost because they "earn quite well" and expect their salaries to rise.
+But he is aware there is a greater risk of falling into negative equity with a no- or low-deposit mortgage. That is when the value of a property falls below the value of the loan still owed on it - leaving the borrower with potentially painful costs if they suddenly have to sell.
+Conroy says they plan to overpay their mortgage for the first five years to build up more equity in their home.
+"There is always the element of a gamble with the property market," he says.
+"But I have researched the area we moved to and don't think house prices are going to drop."
+'We plan to stay here our whole lives'
+Twenty-seven-year-old Bronya and her partner George, 29, also used a low-deposit mortgage to buy their four-bedroom house in Rhuddlan, North Wales in August.
+Lloyds lent them £258,000 - roughly 98% of the property's value - over a 33-year term and they only had to put down £5,000 as a deposit.
+The couple pay an interest rate of 5.89%, fixed for five years, equating to monthly repayments of £1,400 - about the same as what they paid to rent a one-bed flat before.
+Bronya, a civil servant, says they could have put down a bigger deposit but wanted to use their savings for a renovation project costing upwards of £20,000.
+They are aware of the risks of negative equity but believe the refurbishment will boost the value of their home.
+"We also plan to stay here our whole lives," George adds, explaining that they are prepared to ride out any dips in the property market.
+Widespread uptake of low-deposit mortgages by borrowers who could not afford them was seen as a major factor in the 2008 global financial crisis.
+But today's deals have much stronger affordability checks and do not pose the same risks, says David Hollingworth, associate director at brokers L&C Mortgages.
+Borrowers of Skipton's zero-deposit mortgage, for example, have to prove they have kept up with their rent for at least 12 consecutive months and credit payments for the last six months.
+And Lloyds won't issue one of its £5,000 deposit mortgages for new-build properties and shared ownership homes.
+Hollingworth says lenders are recognising that some people have "good affordability but may be struggling to save for a deposit while paying a rent and dealing with cost of living pressures".
+Following a recent rule change, he adds, lenders are also offering more "flex" on how much someone can borrow as long as it's within their means.
+Nevertheless, he urges borrowers to use common sense.
+"Think carefully - what do monthly payments look like? Are you aware that interest rates could go up?"
+Get in touch
+Are you buying your first home? How have you managed it?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T23:00:53+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg",
+    readTime: 10,
+  },
+  {
+    id: "the-virtual-worlds-where-robots-are-trai-e6af584f",
+    title: "The virtual worlds where robots are trained",
+    titleJa: "The virtual worlds where robots are trained",
+    summaryJa: "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+    bodyOriginal: `The virtual worlds where robots are trained
+- Published
+Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.
+Given that a robot recently beat Usain Bolt's 100m sprint record, it's not the most startling achievement.
+But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.
+I'm at Vsim, a British start-up based in Cambridge. Founders Michelle Lu and Kier Storey hope one day their software will control robots that can navigate and do useful tasks in the home and workplace.
+But there's a long way to go.
+"It's a weird situation with robotics because actually the stuff that we find as humans to be incredibly difficult, like gymnastics, you can get robots to do reasonably well. The stuff that humans are really good at, like fine dexterity, is really hard in robots," Storey says.
+Freddo's skills were honed in a virtual environment, where a task can be performed in a computer simulation millions of times. Once the optimum solution (known as a policy) is found, it can be uploaded and used by the hardware - in this case Freddo.
+Such virtual simulations are a common way to train robots. Tech giant Nvidia has a system called Isaac Sim which works that way - Lu and Storey both worked on an early version of it.
+In 2022 they decided to set up Vsim, to build the their own training system environment and other tools.
+As they were starting from scratch Lu and Storey could optimise the software to exploit the powerful computer chips used in AI, known as graphics processing units or GPUs.
+"The underlying algorithms that we were using for most of these robotic simulations they hark back to the 1970s and 1980s, but those algorithms are not really brilliant fits for GPUs," Storey says.
+Within months they realised their system could work much faster than anything they had seen before.
+"Eighteen months in and we actually have a completely functional, super high-performance simulator," says Lu.
+The software is so efficient that it can run on the hardware carried by Freddo. That means the robot can run tens of thousand of simulations while it is moving around.
+"It can look about a second, or so, ahead into the future for 20,000 different kind of combinations of things that might happen," Storey explains.
+And that would be vital for a robot moving around an unstructured environment like the average home.
+"Things outside of the robot's control, like humans, animals or even other robots, could do things that require a change of strategy. These unexpected events could happen very quickly and the robot needs to be able to quickly adapt to ensure its actions remain safe and on-mission," Lu says.
+Vsim is a start-up with 10 engineers working on its tech. Nvidia is at the other end of the industry. It dominates the market for computer chips used for AI and has a leading robotics software division, with hundreds of engineers.
+It does not build robots, instead it has a suite of software designed to let organisations train and control robots.
+That includes virtual simulation training systems and a so-called world model, external, called Cosmos, which gives a robot an understanding of the physics of the real world and how its environment might change as it moves around.
+But even with the powerful computer resources available to Nvidia, the software only gives a rudimentary understanding of the real world.
+"Manipulation, - where I just grab a bottle, that's not too hard. The problem is when you start doing long-horizon tasks, where I say: 'I want you to take the bottle and I want you to fill it up and I want you to go pour'," says Spencer Huang, director of product for robotics at Nvidia.
+But he's confident that good progress is being made. This year Nvidia has started using AI agents to help build virtual environments to train robots and validate whether the solutions from training work or not.
+"When we talk about creating the [virtual] world and actually scanning it in - a lot of that is actually manual labour.
+"We're just throwing agents at it... it's basically given us a huge workforce," Huang says.
+Simulation is not the only method for training robots. They can also be trained by watching human or video demonstrations.
+Rika Antonova has been working in the field of robotics since 2015 and is currently an associate professor at the Department of Computer Science and Technology at the University of Cambridge.
+Her research is focused on, external developing software and hardware that can aid robots to learn complex behaviour.
+Antonova works with a training system called MuJoCo, owned by Google's DeepMind since 2021. It's open-source software, which means researchers can use it for free, and are allowed to tinker with the code.
+"It is very, very user-friendly. So for research groups or for small start-ups, that's useful," she says.
+She says that Vsim's approach - very fast simulation - is promising.
+"If you have a very, very fast simulator, then you can simulate hundreds of millions of samples in that few seconds that your robot is thinking about how to adjust its motion, and then you can change the motion almost in real time," she says.
+But those simulated environments are still rough approximations of the real world, which limits what can be trained.
+"There are certain things that are hard to model in simulation, like highly deformable objects and cutting," she says.
+It's a challenge that Nvidia and Lu and Storey at Vsim are working on.
+Lu says their system has "reduced approximation, using accurate simulations to train models that genuinely work in reality as well as they do in simulations."
+Soon a second robot, to be called Nacho, will be helping develop that tech.
+Lu says that should speed up their development process and ensure their software can run on different machines.
+And, of course, provide Freddo with some company.
+Related topics
+- Published19 August
+- Published12 August
+- Published7 August`,
+    bodyJa: `The virtual worlds where robots are trained
+- Published
+Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.
+Given that a robot recently beat Usain Bolt's 100m sprint record, it's not the most startling achievement.
+But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.
+I'm at Vsim, a British start-up based in Cambridge. Founders Michelle Lu and Kier Storey hope one day their software will control robots that can navigate and do useful tasks in the home and workplace.
+But there's a long way to go.
+"It's a weird situation with robotics because actually the stuff that we find as humans to be incredibly difficult, like gymnastics, you can get robots to do reasonably well. The stuff that humans are really good at, like fine dexterity, is really hard in robots," Storey says.
+Freddo's skills were honed in a virtual environment, where a task can be performed in a computer simulation millions of times. Once the optimum solution (known as a policy) is found, it can be uploaded and used by the hardware - in this case Freddo.
+Such virtual simulations are a common way to train robots. Tech giant Nvidia has a system called Isaac Sim which works that way - Lu and Storey both worked on an early version of it.
+In 2022 they decided to set up Vsim, to build the their own training system environment and other tools.
+As they were starting from scratch Lu and Storey could optimise the software to exploit the powerful computer chips used in AI, known as graphics processing units or GPUs.
+"The underlying algorithms that we were using for most of these robotic simulations they hark back to the 1970s and 1980s, but those algorithms are not really brilliant fits for GPUs," Storey says.
+Within months they realised their system could work much faster than anything they had seen before.
+"Eighteen months in and we actually have a completely functional, super high-performance simulator," says Lu.
+The software is so efficient that it can run on the hardware carried by Freddo. That means the robot can run tens of thousand of simulations while it is moving around.
+"It can look about a second, or so, ahead into the future for 20,000 different kind of combinations of things that might happen," Storey explains.
+And that would be vital for a robot moving around an unstructured environment like the average home.
+"Things outside of the robot's control, like humans, animals or even other robots, could do things that require a change of strategy. These unexpected events could happen very quickly and the robot needs to be able to quickly adapt to ensure its actions remain safe and on-mission," Lu says.
+Vsim is a start-up with 10 engineers working on its tech. Nvidia is at the other end of the industry. It dominates the market for computer chips used for AI and has a leading robotics software division, with hundreds of engineers.
+It does not build robots, instead it has a suite of software designed to let organisations train and control robots.
+That includes virtual simulation training systems and a so-called world model, external, called Cosmos, which gives a robot an understanding of the physics of the real world and how its environment might change as it moves around.
+But even with the powerful computer resources available to Nvidia, the software only gives a rudimentary understanding of the real world.
+"Manipulation, - where I just grab a bottle, that's not too hard. The problem is when you start doing long-horizon tasks, where I say: 'I want you to take the bottle and I want you to fill it up and I want you to go pour'," says Spencer Huang, director of product for robotics at Nvidia.
+But he's confident that good progress is being made. This year Nvidia has started using AI agents to help build virtual environments to train robots and validate whether the solutions from training work or not.
+"When we talk about creating the [virtual] world and actually scanning it in - a lot of that is actually manual labour.
+"We're just throwing agents at it... it's basically given us a huge workforce," Huang says.
+Simulation is not the only method for training robots. They can also be trained by watching human or video demonstrations.
+Rika Antonova has been working in the field of robotics since 2015 and is currently an associate professor at the Department of Computer Science and Technology at the University of Cambridge.
+Her research is focused on, external developing software and hardware that can aid robots to learn complex behaviour.
+Antonova works with a training system called MuJoCo, owned by Google's DeepMind since 2021. It's open-source software, which means researchers can use it for free, and are allowed to tinker with the code.
+"It is very, very user-friendly. So for research groups or for small start-ups, that's useful," she says.
+She says that Vsim's approach - very fast simulation - is promising.
+"If you have a very, very fast simulator, then you can simulate hundreds of millions of samples in that few seconds that your robot is thinking about how to adjust its motion, and then you can change the motion almost in real time," she says.
+But those simulated environments are still rough approximations of the real world, which limits what can be trained.
+"There are certain things that are hard to model in simulation, like highly deformable objects and cutting," she says.
+It's a challenge that Nvidia and Lu and Storey at Vsim are working on.
+Lu says their system has "reduced approximation, using accurate simulations to train models that genuinely work in reality as well as they do in simulations."
+Soon a second robot, to be called Nacho, will be helping develop that tech.
+Lu says that should speed up their development process and ensure their software can run on different machines.
+And, of course, provide Freddo with some company.
+Related topics
+- Published19 August
+- Published12 August
+- Published7 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T23:00:47+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "healey-to-ask-eu-finance-ministers-to-le-2db9fd6b",
+    title: "Healey to ask EU finance ministers to let UK into industry scheme",
+    titleJa: "Healey to ask EU finance ministers to let UK into industry scheme",
+    summaryJa: "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
+    bodyOriginal: `Healey to ask EU finance ministers to let UK into industry scheme
+- Published
+The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.
+John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.
+But he will call on the EU to design its "Made in Europe" programme in a way that deepens ties with the UK "rather than erecting new barriers", Treasury sources told the BBC.
+Officials said Healey will tell European finance ministers it is important to "learn lessons" after talks collapsed last year for Britain to join an EU defence loans scheme.
+That dispute centred on how much money the UK would pay to join.
+The "Made in Europe" policy, officially called the Industrial Accelerator Act (IAA), is currently being considered by the bloc and aims to protect EU manufacturing with restrictions on goods from outside countries.
+There is concern in government the scheme could lock British firms out of European supply chains.
+Treasury officials said Healey wanted to reduce the economic impact of Brexit and build closer ties with the EU, but not at any cost to the UK.
+Healey said: "The next chapter of Britain's growth story will be written in more places.
+"To me, closer ties with the EU means British businesses – wherever they are based across the UK – get better access to both the supply chains and the customers they need to grow."
+Healey will use the meeting in Dublin to focus on tech firms, defence companies, and manufacturing.
+"The chancellor wants to make sure nothing holds them back," a Treasury source said.
+It comes after a reset summit with the EU was delayed after Sir Keir Starmer's resignation as prime minister.
+Treasury sources now expect that to take place in November.
+Healey's meeting in Dublin comes after it emerged earlier this week that he is in discussions about joining a global investment bank aimed at raising more money for defence spending.
+He is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
+Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
+Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
+Conservatives urge Burnham to rule out tax rises at Budget
+- Published15 hours ago
+UK in talks about joining global defence bank led by Canada
+- Published2 days ago
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Healey to ask EU finance ministers to let UK into industry scheme
+- Published
+The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.
+John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.
+But he will call on the EU to design its "Made in Europe" programme in a way that deepens ties with the UK "rather than erecting new barriers", Treasury sources told the BBC.
+Officials said Healey will tell European finance ministers it is important to "learn lessons" after talks collapsed last year for Britain to join an EU defence loans scheme.
+That dispute centred on how much money the UK would pay to join.
+The "Made in Europe" policy, officially called the Industrial Accelerator Act (IAA), is currently being considered by the bloc and aims to protect EU manufacturing with restrictions on goods from outside countries.
+There is concern in government the scheme could lock British firms out of European supply chains.
+Treasury officials said Healey wanted to reduce the economic impact of Brexit and build closer ties with the EU, but not at any cost to the UK.
+Healey said: "The next chapter of Britain's growth story will be written in more places.
+"To me, closer ties with the EU means British businesses – wherever they are based across the UK – get better access to both the supply chains and the customers they need to grow."
+Healey will use the meeting in Dublin to focus on tech firms, defence companies, and manufacturing.
+"The chancellor wants to make sure nothing holds them back," a Treasury source said.
+It comes after a reset summit with the EU was delayed after Sir Keir Starmer's resignation as prime minister.
+Treasury sources now expect that to take place in November.
+Healey's meeting in Dublin comes after it emerged earlier this week that he is in discussions about joining a global investment bank aimed at raising more money for defence spending.
+He is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
+Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
+Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
+Conservatives urge Burnham to rule out tax rises at Budget
+- Published15 hours ago
+UK in talks about joining global defence bank led by Canada
+- Published2 days ago
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-17T22:07:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b5/live/362ff930-b2e3-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 7,
+  },
+  {
     id: "wall-street-is-betting-trump-backs-down-d91e250d",
     title: "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
     titleJa: "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
@@ -1759,272 +2247,6 @@ What they're saying
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 9,
-  },
-  {
-    id: "amazon-obtains-right-to-buy-stock-in-gen-818553b0",
-    title: "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-    titleJa: "Amazon obtains right to buy stock in Generac, boosting power company's share price by over 40%",
-    summaryJa: "Amazon was granted warrants to buy up to $340 million worth of Generac stock as part of a deal to supply backup power generators for its data centers.",
-    bodyOriginal: `An aerial view of an Amazon Web Services Data Center known as US East 1 in Ashburn, Virginia, U.S., October 20, 2025.
-Jonathan Ernst | Reuters
-Amazon was granted warrants to purchase up to $340 million worth of Generac stock, sending shares of the backup power provider soaring more than 40% in extended trading on Wednesday.
-As part of the agreement, Generac said in a securities filing that it issued warrants to Amazon to acquire up to 1.69 million shares in the company at $200.93 a piece for a total investment that could be worth as much as $8 billion.
-Generac will supply Amazon with backup power generators for its data centers, with initial deliveries expected to total $2.4 billion in 2027 and 2028, the filing states.
-The warrants are equivalent to almost 3% of outstanding shares in Generac, which has a market cap of about $10.3 billion, as of Wednesday's close.`,
-    bodyJa: `An aerial view of an Amazon Web Services Data Center known as US East 1 in Ashburn, Virginia, U.S., October 20, 2025.
-Jonathan Ernst | Reuters
-Amazon was granted warrants to purchase up to $340 million worth of Generac stock, sending shares of the backup power provider soaring more than 40% in extended trading on Wednesday.
-As part of the agreement, Generac said in a securities filing that it issued warrants to Amazon to acquire up to 1.69 million shares in the company at $200.93 a piece for a total investment that could be worth as much as $8 billion.
-Generac will supply Amazon with backup power generators for its data centers, with initial deliveries expected to total $2.4 billion in 2027 and 2028, the filing states.
-The warrants are equivalent to almost 3% of outstanding shares in Generac, which has a market cap of about $10.3 billion, as of Wednesday's close.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/16/amazon-obtains-right-to-buy-up-to-340m-of-generac-boosting-stock-.html",
-    publishedAt: "2026-09-16T21:07:12+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "trump-demands-1-or-lower-interest-rate-a-916021f5",
-    title: "Trump demands 1% or lower interest rate after first Fed hike since 2023",
-    titleJa: "Trump demands 1% or lower interest rate after first Fed hike since 2023",
-    summaryJa: "President Donald Trump demanded the Federal Reserve slash interest rates to 1% \"or less,\" hours after the central bank announced its first rate hike since 2023.",
-    bodyOriginal: `President Donald Trump on Wednesday demanded the Federal Reserve slash interest rates to 1% "or less," hours after the central bank announced its first rate hike since 2023.
-"We are 'carrying' almost every country in the World, and that cannot go on any longer," Trump wrote in a Truth Social post.
-"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!" he wrote.
-The Fed, led by Trump-picked Chairman Kevin Warsh, earlier Wednesday afternoon raised benchmark interest rates a quarter percentage point, to a target range of 3.75%-4%.
-The decision, by the 12-member Federal Open Market Committee, was unanimous.
-"Inflation remains elevated," the committee said in a statement following its latest meeting.
-But Trump, who has relentlessly pressured the Fed to drastically lower borrowing costs, insisted in his Truth post that rates in the U.S. "should be 1%, or less, because we are the Best Credit in the World — BY FAR."
-"Our Country is BOOMING with new Investment!" wrote Trump, who has repeatedly claimed that the U.S. has raked in as much as $20 trillion or more during his second term. Fact-checkers say Trump's figures are false.
-"If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year," Trump claimed in Wednesday's post.
-Less than two weeks earlier, Trump threatened that if the Fed doesn't cut rates, he will cut off trade with countries that have trade surpluses with the U.S. That group includes most of the U.S.'s top trading partners, along with dozens of other countries.
-This is breaking news. Please refresh for updates.`,
-    bodyJa: `President Donald Trump on Wednesday demanded the Federal Reserve slash interest rates to 1% "or less," hours after the central bank announced its first rate hike since 2023.
-"We are 'carrying' almost every country in the World, and that cannot go on any longer," Trump wrote in a Truth Social post.
-"LOWER THE INTEREST RATES FOR THE UNITED STATES OF AMERICA, AND FAST!" he wrote.
-The Fed, led by Trump-picked Chairman Kevin Warsh, earlier Wednesday afternoon raised benchmark interest rates a quarter percentage point, to a target range of 3.75%-4%.
-The decision, by the 12-member Federal Open Market Committee, was unanimous.
-"Inflation remains elevated," the committee said in a statement following its latest meeting.
-But Trump, who has relentlessly pressured the Fed to drastically lower borrowing costs, insisted in his Truth post that rates in the U.S. "should be 1%, or less, because we are the Best Credit in the World — BY FAR."
-"Our Country is BOOMING with new Investment!" wrote Trump, who has repeatedly claimed that the U.S. has raked in as much as $20 trillion or more during his second term. Fact-checkers say Trump's figures are false.
-"If we stopped Trading with every country that we have a Deficit with, which is most of them, we would make, at least, 1.5 Trillion Dollars a year," Trump claimed in Wednesday's post.
-Less than two weeks earlier, Trump threatened that if the Fed doesn't cut rates, he will cut off trade with countries that have trade surpluses with the U.S. That group includes most of the U.S.'s top trading partners, along with dozens of other countries.
-This is breaking news. Please refresh for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-    publishedAt: "2026-09-16T21:05:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "house-votes-to-hold-leon-black-in-contem-83bb1ac7",
-    title: "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-    titleJa: "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
-    summaryJa: "Billionaire Leon Black is suing the House Committee on Oversight and Government Reform seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
-    bodyOriginal: `The House of Representatives voted Wednesday to hold billionaire Leon Black in contempt of Congress for his refusal to comply with subpoenas issued to him related to a committee's ongoing investigation of the notorious late sex offender Jeffrey Epstein.
-The vote by unanimous consent sets the stage for House Speaker Mike Johnson, R-La., to certify the matter to refer Black's conduct to the Department of Justice for possible criminal prosecution.
-It came a day after the House Committee on Oversight and Government Reform, in a 41-0 vote, passed a resolution recommending the full House hold the former Apollo Global Management CEO in contempt.
-It is not clear whether the DOJ ultimately will prosecute Black.
-Defendants convicted of contempt of Congress face a possible sentence of not less than one month and not more than 12 months in prison.
-A DOJ spokesperson, in a statement to MS NOW, said, "The Department of Justice is expecting to receive the referral from [the] House Oversight Committee and takes allegations of contempt of Congress seriously."
-"For the past 18 months, the Department has repeatedly said it will follow additional investigative leads in all matters relating to Jeffrey Epstein," the spokesperson said. "The US Attorney's Office for the District of Columbia will review the referral of Mr. Black carefully and will not hesitate to pursue additional cases where the evidence supports."
-The contempt action stems from Black's failure to appear for a transcribed deposition by the committee on Sept. 3 after it issued him a subpoena for that appearance, and his failure to comply fully with a separate subpoena seeking copies of nondisclosure agreements he has been party to.
-Black gave the committee one of the NDAs, which his lawyers said was the "only" one that Epstein knew about, but withheld others.
-"No one is above the law," House Oversight Chairman Rep. James Comer, R-Ky., said in a statement.
-"Leon Black defied two subpoenas, and the U.S. House of Representatives acted swiftly to find him in contempt of Congress," Comer said. "We will continue to seek transparency for the American people and justice for survivors in our investigation of the federal government's handling of the Jeffrey Epstein and Ghislaine Maxwell criminal cases."
-Rep. Robert Garcia of California, the ranking Democrat on the House oversight panel, said, "This vote is an important step towards justice and accountability."
-"We will continue to center the survivors in our fight to hold those responsible for these horrific crimes," Garcia said. "We are just getting started."
-Black's attorneys blasted the House for its contempt holding, calling it "an outrageous action that ignores the facts and the truth about Mr. Black."
-"The House of Representatives has rushed through every stage of this inquiry. First, the Committee on Oversight and Government Reform and Chairman Comer rushed to issue him subpoenas," the lawyers, Susan Estrich and Aaron Cutler, said in a statement.
-"Then, the Committee rushed to hold him in contempt, even in the face of active litigation and an ethics complaint. Now, the full House is holding him in contempt without any regard to the active litigation challenging the lawfulness of the Committee's actions and the ethics complaint against Chairman [James] Comer.
-"Mr. Black is a private citizen who has helped create hundreds of thousands of jobs, has given away more than $700 million in philanthropic and charitable contributions, and has supported research that has been at the vanguard of cancer treatment," the attorneys said. "To think, he is being held in contempt over invalid subpoenas is ridiculous. It is so out of line that the behavior of this Committee is reminiscent of the 1950's where another Congressional Committee abused its investigative authority and destroyed people's lives."
-Black sued the committee and Comer on Sept. 3, seeking to block those subpoenas. That lawsuit is pending in U.S. District Court in Washington.
-"The subpoenas are invalid to the extent they exceed [the committee's] delegated authority in seeking private information that bears no legitimate connection to [its] legislative purpose," the suit says.
-The civil complaint says the subpoenas issued by the panel "would also expose women who value their privacy, who have no known or public connection to Epstein, who bargained for confidentiality and have refused to release it, and who have no ability to protect themselves and their privacy before the Committee."
-In their statement Wednesday, Black's lawyers said: "Our lawsuit shows the Committee and Chairman Comer abused their Congressional power and broke the law."
-They also said that they believe a confidential ethics complaint they filed against Comer "will further show that Chairman Comer violated the rules of the House."
-Black has not been charged with any wrongdoing in connection with his dealings with Epstein, who killed himself in 2019 after being charged with child sex trafficking.
-But he stepped down as Apollo's CEO in March 2021, two months after the firm disclosed that Black had paid Epstein $158 million for tax and estate planning advice from 2012 through 2017.
-Black, who has said Epstein's advice led to significant savings for him, knew at the time that Epstein had pleaded guilty in Florida state court in 2008 to two prostitution-related charges, among them soliciting prostitution from an underage girl.
-"Mr. Black has repeatedly said that he feels terrible for Epstein's victims and that he regrets ever doing business with Epstein," Black's lawyers said Wednesday.
-"He never abused a woman. He never was with an underage woman. He never engaged in sex trafficking. He never paid Epstein for access to women. He was never blackmailed by Epstein. Mr. Black had no knowledge of any of Epstein's heinous conduct. He never forced any woman to sign any NDA."`,
-    bodyJa: `The House of Representatives voted Wednesday to hold billionaire Leon Black in contempt of Congress for his refusal to comply with subpoenas issued to him related to a committee's ongoing investigation of the notorious late sex offender Jeffrey Epstein.
-The vote by unanimous consent sets the stage for House Speaker Mike Johnson, R-La., to certify the matter to refer Black's conduct to the Department of Justice for possible criminal prosecution.
-It came a day after the House Committee on Oversight and Government Reform, in a 41-0 vote, passed a resolution recommending the full House hold the former Apollo Global Management CEO in contempt.
-It is not clear whether the DOJ ultimately will prosecute Black.
-Defendants convicted of contempt of Congress face a possible sentence of not less than one month and not more than 12 months in prison.
-A DOJ spokesperson, in a statement to MS NOW, said, "The Department of Justice is expecting to receive the referral from [the] House Oversight Committee and takes allegations of contempt of Congress seriously."
-"For the past 18 months, the Department has repeatedly said it will follow additional investigative leads in all matters relating to Jeffrey Epstein," the spokesperson said. "The US Attorney's Office for the District of Columbia will review the referral of Mr. Black carefully and will not hesitate to pursue additional cases where the evidence supports."
-The contempt action stems from Black's failure to appear for a transcribed deposition by the committee on Sept. 3 after it issued him a subpoena for that appearance, and his failure to comply fully with a separate subpoena seeking copies of nondisclosure agreements he has been party to.
-Black gave the committee one of the NDAs, which his lawyers said was the "only" one that Epstein knew about, but withheld others.
-"No one is above the law," House Oversight Chairman Rep. James Comer, R-Ky., said in a statement.
-"Leon Black defied two subpoenas, and the U.S. House of Representatives acted swiftly to find him in contempt of Congress," Comer said. "We will continue to seek transparency for the American people and justice for survivors in our investigation of the federal government's handling of the Jeffrey Epstein and Ghislaine Maxwell criminal cases."
-Rep. Robert Garcia of California, the ranking Democrat on the House oversight panel, said, "This vote is an important step towards justice and accountability."
-"We will continue to center the survivors in our fight to hold those responsible for these horrific crimes," Garcia said. "We are just getting started."
-Black's attorneys blasted the House for its contempt holding, calling it "an outrageous action that ignores the facts and the truth about Mr. Black."
-"The House of Representatives has rushed through every stage of this inquiry. First, the Committee on Oversight and Government Reform and Chairman Comer rushed to issue him subpoenas," the lawyers, Susan Estrich and Aaron Cutler, said in a statement.
-"Then, the Committee rushed to hold him in contempt, even in the face of active litigation and an ethics complaint. Now, the full House is holding him in contempt without any regard to the active litigation challenging the lawfulness of the Committee's actions and the ethics complaint against Chairman [James] Comer.
-"Mr. Black is a private citizen who has helped create hundreds of thousands of jobs, has given away more than $700 million in philanthropic and charitable contributions, and has supported research that has been at the vanguard of cancer treatment," the attorneys said. "To think, he is being held in contempt over invalid subpoenas is ridiculous. It is so out of line that the behavior of this Committee is reminiscent of the 1950's where another Congressional Committee abused its investigative authority and destroyed people's lives."
-Black sued the committee and Comer on Sept. 3, seeking to block those subpoenas. That lawsuit is pending in U.S. District Court in Washington.
-"The subpoenas are invalid to the extent they exceed [the committee's] delegated authority in seeking private information that bears no legitimate connection to [its] legislative purpose," the suit says.
-The civil complaint says the subpoenas issued by the panel "would also expose women who value their privacy, who have no known or public connection to Epstein, who bargained for confidentiality and have refused to release it, and who have no ability to protect themselves and their privacy before the Committee."
-In their statement Wednesday, Black's lawyers said: "Our lawsuit shows the Committee and Chairman Comer abused their Congressional power and broke the law."
-They also said that they believe a confidential ethics complaint they filed against Comer "will further show that Chairman Comer violated the rules of the House."
-Black has not been charged with any wrongdoing in connection with his dealings with Epstein, who killed himself in 2019 after being charged with child sex trafficking.
-But he stepped down as Apollo's CEO in March 2021, two months after the firm disclosed that Black had paid Epstein $158 million for tax and estate planning advice from 2012 through 2017.
-Black, who has said Epstein's advice led to significant savings for him, knew at the time that Epstein had pleaded guilty in Florida state court in 2008 to two prostitution-related charges, among them soliciting prostitution from an underage girl.
-"Mr. Black has repeatedly said that he feels terrible for Epstein's victims and that he regrets ever doing business with Epstein," Black's lawyers said Wednesday.
-"He never abused a woman. He never was with an underage woman. He never engaged in sex trafficking. He never paid Epstein for access to women. He was never blackmailed by Epstein. Mr. Black had no knowledge of any of Epstein's heinous conduct. He never forced any woman to sign any NDA."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
-    publishedAt: "2026-09-16T20:54:15+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "intel-s-stock-rises-as-investors-hope-me-61882454",
-    title: "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-    titleJa: "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
-    summaryJa: "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
-    bodyOriginal: `A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.`,
-    bodyJa: `A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
-    publishedAt: "2026-09-16T20:53:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-00632956",
-    readTime: 2,
-  },
-  {
-    id: "why-optical-stocks-lumentum-and-coherent-df9a0778",
-    title: "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-    titleJa: "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
-    summaryJa: "Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.",
-    bodyOriginal: `Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.`,
-    bodyJa: `Investors are looking further down the AI data-center supply chain for signs of demand amid concerns of a spending slowdown, one expert says.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
-    publishedAt: "2026-09-16T20:52:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-759206",
-    readTime: 2,
-  },
-  {
-    id: "trump-s-kennedy-center-closure-is-unlawf-1bc57353",
-    title: "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
-    titleJa: "Trump's Kennedy Center closure is 'unlawful,' Rep. Beatty tells judge in emergency hearing request",
-    summaryJa: "President Donald Trump says renovations at the Kennedy Center will not occur until the courts allow his name to be restored on the performing arts center.",
-    bodyOriginal: `Rep. Joyce Beatty asked a judge Wednesday to hold an emergency hearing on what the Ohio Democrat called the "unlawful" closure of the Kennedy Center by President Donald Trump and the performing arts facility's board of trustees.
-Beatty's motion says the closure is in "apparent violation" of a prior order from Judge Christopher Cooper in U.S. District Court in Washington.
-Cooper later Wednesday ordered Trump and the board to respond to Beatty's request by Thursday morning.
-"The Court will schedule a prompt hearing if necessary after reviewing the response," Cooper said in his order.
-Beatty's request came a day after the board, of which she is an ex officio member, voted to close the Kennedy Center for renovations. Trump later Tuesday said it would close "immediately."
-Trump also said planned renovations and reconstruction of the Washington center would not begin until a federal appeals court or the Supreme Court rules that his name can be included in the facility's official name.
-A staff member for a law firm representing Beatty visited the center Wednesday morning and was barred from entering, according to the congresswoman's motion. The staffer "was informed by several security staff members that the building is currently closed to the public," the motion said.
-"In addition, the staff member was informed that construction is beginning on the interior of the building and that the public is completely barred from accessing the facility for 'safety reasons,'" the filing said.
-"Closing the Kennedy Center without Judge Cooper's approval appears to directly violate his order. This is an assault on the rule of law," Beatty's lawyers, Norm Eisen and Nathaniel Zelinsky, said in a statement.
-"The board cannot simply ignore Judge Cooper's rulings whenever it suits them. In this country, no one — including the president — is above the law," the attorneys said.
-The lawyers pointed to a May ruling by Cooper in which he ordered that Trump's name be removed from the center and which enjoined the board from shuttering the center "until the Board approves any closure consistent with" Cooper's ruling "and the Court issues a further Order dissolving or modifying this preliminary injunction."
-The Kennedy Center's board, which Trump named himself to head, voted in December to rename the center, which honors the late President John F. Kennedy. The facility then became known as the Trump Kennedy Center, though Congress never formally changed its name.
-Beatty filed a lawsuit in December seeking to reverse the board's action. Cooper ordered in May that Trump's name be stripped off.
-"Congress gave the Kennedy Center its name, and only Congress can change it," Cooper wrote in his ruling.
-The Department of Justice, which represents Trump and the board in the case, did not immediately respond to a request for comment.
-The DOJ is appealing a decision by Cooper issued on Tuesday that barred the board from adding Trump's name back to the building and naming the grounds of the center after him.
-The board in an Aug. 13 resolution said it intended "to recognize and honor President Trump's future existential and unprecedented contributions to the survival of the Center."
-The board planned to inscribe the words "renovated and restored by President Donald J. Trump" underneath the words that currently say, "The John F. Kennedy Memorial Center for the Performing Arts."
-The board also said it would name the center's physical grounds "The President Donald J. Trump Plaza."
-Cooper, in his order Tuesday, said, "Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing."
-""The board resolution bucks a federal court order and a statute Congress enacted," the judge said.`,
-    bodyJa: `Rep. Joyce Beatty asked a judge Wednesday to hold an emergency hearing on what the Ohio Democrat called the "unlawful" closure of the Kennedy Center by President Donald Trump and the performing arts facility's board of trustees.
-Beatty's motion says the closure is in "apparent violation" of a prior order from Judge Christopher Cooper in U.S. District Court in Washington.
-Cooper later Wednesday ordered Trump and the board to respond to Beatty's request by Thursday morning.
-"The Court will schedule a prompt hearing if necessary after reviewing the response," Cooper said in his order.
-Beatty's request came a day after the board, of which she is an ex officio member, voted to close the Kennedy Center for renovations. Trump later Tuesday said it would close "immediately."
-Trump also said planned renovations and reconstruction of the Washington center would not begin until a federal appeals court or the Supreme Court rules that his name can be included in the facility's official name.
-A staff member for a law firm representing Beatty visited the center Wednesday morning and was barred from entering, according to the congresswoman's motion. The staffer "was informed by several security staff members that the building is currently closed to the public," the motion said.
-"In addition, the staff member was informed that construction is beginning on the interior of the building and that the public is completely barred from accessing the facility for 'safety reasons,'" the filing said.
-"Closing the Kennedy Center without Judge Cooper's approval appears to directly violate his order. This is an assault on the rule of law," Beatty's lawyers, Norm Eisen and Nathaniel Zelinsky, said in a statement.
-"The board cannot simply ignore Judge Cooper's rulings whenever it suits them. In this country, no one — including the president — is above the law," the attorneys said.
-The lawyers pointed to a May ruling by Cooper in which he ordered that Trump's name be removed from the center and which enjoined the board from shuttering the center "until the Board approves any closure consistent with" Cooper's ruling "and the Court issues a further Order dissolving or modifying this preliminary injunction."
-The Kennedy Center's board, which Trump named himself to head, voted in December to rename the center, which honors the late President John F. Kennedy. The facility then became known as the Trump Kennedy Center, though Congress never formally changed its name.
-Beatty filed a lawsuit in December seeking to reverse the board's action. Cooper ordered in May that Trump's name be stripped off.
-"Congress gave the Kennedy Center its name, and only Congress can change it," Cooper wrote in his ruling.
-The Department of Justice, which represents Trump and the board in the case, did not immediately respond to a request for comment.
-The DOJ is appealing a decision by Cooper issued on Tuesday that barred the board from adding Trump's name back to the building and naming the grounds of the center after him.
-The board in an Aug. 13 resolution said it intended "to recognize and honor President Trump's future existential and unprecedented contributions to the survival of the Center."
-The board planned to inscribe the words "renovated and restored by President Donald J. Trump" underneath the words that currently say, "The John F. Kennedy Memorial Center for the Performing Arts."
-The board also said it would name the center's physical grounds "The President Donald J. Trump Plaza."
-Cooper, in his order Tuesday, said, "Simply put, Defendants cannot install memorials for President Trump or anyone or anything else at the Kennedy Center without Congress's blessing."
-""The board resolution bucks a federal court order and a statute Congress enacted," the judge said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/16/trump-kennedy-center-beatty.html",
-    publishedAt: "2026-09-16T20:32:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "jeff-gundlach-says-the-fed-should-have-h-d5d7823d",
-    title: "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
-    titleJa: "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
-    summaryJa: "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
-    bodyOriginal: `The Federal Reserve should have hiked rates by more on Wednesday instead of a just a quarter point, according to Jeff Gundlach, founder of DoubleLine.
-"I would have called that stun and done," Gundlach said Wednesday on CNBC's "Closing Bell," a play on the term "one and done" referring to the belief by some that the Fed may only do one or two hikes instead of embarking on a tightening cycle.
-Gundlach, one of the most prominent bond investors, said a half-point hike would have provided the market with a "truing up" to the Fed funds rates.
-The 2-year Treasury rate was more than 100 basis points above the Fed funds rate, according to Gundlach. The yield on the 2-year U.S. Treasury, which tracks short-term Fed interest rate expectations, climbed around 7 basis points in Wednesday afternoon trading.
-Gundlach said he worries that the inflation problem facing the U.S. may not be "fully respected."
-"I would have just done the 50 and then see what the data does," Gundlach said.
-To be sure, Gundlach said he has previously advocated for larger rate hikes than the Fed has implemented. He said the 2-year Treasury "leads" the Fed, a hypothesis that the investor said was proven correct on Wednesday.
-Gundlach said he wasn't surprised to see stocks take a leg down during Federal Reserve Chairman Kevin Warsh's post-decision press conference. The Dow Jones Industrial Average fell 700 points in late afternoon trading, with losses accelerating during and in the aftermath of Warsh's gathering.
-"I thought the content was pretty thin," Gundlach said of Warsh's press conference, later adding that the central bank chief was "opaque."
-Gundlach also said he didn't approve of Warsh's push to bring task forces in to evaluate several key aspects on the Fed's operation.
-"It's like a company that's having trouble that wants to hire consultants," Gundlach said. "The consultants always want to figure out what the … people at the company really want to hear, and then they tell them what they want to hear."`,
-    bodyJa: `The Federal Reserve should have hiked rates by more on Wednesday instead of a just a quarter point, according to Jeff Gundlach, founder of DoubleLine.
-"I would have called that stun and done," Gundlach said Wednesday on CNBC's "Closing Bell," a play on the term "one and done" referring to the belief by some that the Fed may only do one or two hikes instead of embarking on a tightening cycle.
-Gundlach, one of the most prominent bond investors, said a half-point hike would have provided the market with a "truing up" to the Fed funds rates.
-The 2-year Treasury rate was more than 100 basis points above the Fed funds rate, according to Gundlach. The yield on the 2-year U.S. Treasury, which tracks short-term Fed interest rate expectations, climbed around 7 basis points in Wednesday afternoon trading.
-Gundlach said he worries that the inflation problem facing the U.S. may not be "fully respected."
-"I would have just done the 50 and then see what the data does," Gundlach said.
-To be sure, Gundlach said he has previously advocated for larger rate hikes than the Fed has implemented. He said the 2-year Treasury "leads" the Fed, a hypothesis that the investor said was proven correct on Wednesday.
-Gundlach said he wasn't surprised to see stocks take a leg down during Federal Reserve Chairman Kevin Warsh's post-decision press conference. The Dow Jones Industrial Average fell 700 points in late afternoon trading, with losses accelerating during and in the aftermath of Warsh's gathering.
-"I thought the content was pretty thin," Gundlach said of Warsh's press conference, later adding that the central bank chief was "opaque."
-Gundlach also said he didn't approve of Warsh's push to bring task forces in to evaluate several key aspects on the Fed's operation.
-"It's like a company that's having trouble that wants to hire consultants," Gundlach said. "The consultants always want to figure out what the … people at the company really want to hear, and then they tell them what they want to hear."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
-    publishedAt: "2026-09-16T19:38:41+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "boeing-ceo-737-max-production-taking-a-l-11ce7f25",
-    title: "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-    titleJa: "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
-    summaryJa: "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
-    bodyOriginal: `Boeing's 737 Max production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year, CEO Kelly Ortberg told investors Wednesday.
-Boeing stock extended its losses for the day and was down more than 5% in afternoon trading after Ortberg's comments.
-The manufacturer has been working to steadily ramp up the output of its best-selling plane after years of safety and quality crises. Ortberg said wing production at its Renton, Washington, factory is a constraint now, adding the company has plans in place to address it.
-Boeing is producing about 47 of the aircraft per month.
-Ortberg reiterated to investors at a Morgan Stanley industry conference that he expects certification of the Max 10, the largest model in the family "very soon." That plane is years behind schedule.
-Kelly didn't say that he expected aircraft orders from China when President Donald Trump is scheduled to host Chinese leader Xi Jinping at the White House on Sept. 24.
-Orders from China are "going to be announced by the airlines at their pace," he said.`,
-    bodyJa: `Boeing's 737 Max production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year, CEO Kelly Ortberg told investors Wednesday.
-Boeing stock extended its losses for the day and was down more than 5% in afternoon trading after Ortberg's comments.
-The manufacturer has been working to steadily ramp up the output of its best-selling plane after years of safety and quality crises. Ortberg said wing production at its Renton, Washington, factory is a constraint now, adding the company has plans in place to address it.
-Boeing is producing about 47 of the aircraft per month.
-Ortberg reiterated to investors at a Morgan Stanley industry conference that he expects certification of the Max 10, the largest model in the family "very soon." That plane is years behind schedule.
-Kelly didn't say that he expected aircraft orders from China when President Donald Trump is scheduled to host Chinese leader Xi Jinping at the White House on Sept. 24.
-Orders from China are "going to be announced by the airlines at their pace," he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
-    publishedAt: "2026-09-16T19:36:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
   },
 ];
 
