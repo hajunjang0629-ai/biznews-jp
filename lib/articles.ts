@@ -15,6 +15,316 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "deadly-shark-attack-prompts-rare-kill-or-f884346e",
+    title: "Deadly shark attack prompts rare kill order in Western Australia",
+    titleJa: "Deadly shark attack prompts rare kill order in Western Australia",
+    summaryJa: "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
+    bodyOriginal: `Deadly shark attack prompts rare kill order in Western Australia
+- Published
+A rare catch-and-kill order has been issued for a great white shark off the coast of Western Australia, after a man was killed while on a morning swim at a popular beach on Friday. His body has still not been found.
+Authorities have said that beaches along the state's coast, including in the capital Perth, will remain closed until at least Sunday as the search for the shark continues.
+It is the second shark attack in Western Australia (WA) this week, and the third fatal attack in the state this year.
+The incident, at Sorrento Beach in Perth's north, has reignited debate about how to keep beachgoers safe in Australia.
+The swimmer has been identified as 63-year-old Greg O'Neill, the Australian Broadcasting Corporation (ABC) has reported.
+"Greg loved the ocean and was known as a passionate swimmer, sports lover, dedicated worker and an all-round generous, witty guy," his family said in a statement to the broadcaster.
+Witness Jacqui Rapaic told the ABC that two men were swimming, but only one made it back to shore, and that she could see "a pool of blood" in the water.
+Another witness told WAtoday that she saw the man being "mauled" as the shark "tossed him around like a fish".
+Members of the public reported seeing a 2.5m-long (8ft 2in) shark at around the same time.
+Authorities in Perth's Joondalup area, where Sorrento is located, said all beaches were closed "as a precautionary measure" and would remain so until at least midday on Sunday.
+Pictures on Saturday showed the coastline being patrolled by a police boat and helicopter.
+Catch-and-kill orders are rare and controversial in Australia, where great white sharks are a protected species.
+WA Fisheries Minister Jackie Jarvis said that she took the "extraordinary step" of issuing the order after the shark was spotted by water police on Saturday morning, and "positively identified as the shark involved in the incident".
+The minister said she authorised fisheries officers to "destroy the shark" if it could be captured because of the "exceptional circumstances" of the attack and the "hazard posed by the shark".
+It is believed to be the first time in 10 years that such an order had been issued in WA, Jarvis added, emphasising that the order was not a widespread cull as the state has seen in the past.
+The minister also said that the use of drones and tagging would be increased to help protect beachgoers.
+Catching and killing sharks has a long and controversial history in Western Australia - there were months of huge protests in 2014 when the state government authorised a cull after a spate of attacks.
+The incident in Sorrento is the second in WA this week - on Monday a 56-year-old man was bitten while surfing off the coast of Geraldton, 430km (270 miles) north of Perth. He survived but lost part of his leg, another surfer who rescued him told the ABC.
+There have been five fatal shark attacks in Australia this year.
+A 12-year-old boy died after he was bitten in Sydney Harbour in January, and three divers were fatally mauled in separate incidents between May and June - two in Western Australia and the third in Queensland.
+Related topics
+- Published1 day ago
+- Published16 August`,
+    bodyJa: `Deadly shark attack prompts rare kill order in Western Australia
+- Published
+A rare catch-and-kill order has been issued for a great white shark off the coast of Western Australia, after a man was killed while on a morning swim at a popular beach on Friday. His body has still not been found.
+Authorities have said that beaches along the state's coast, including in the capital Perth, will remain closed until at least Sunday as the search for the shark continues.
+It is the second shark attack in Western Australia (WA) this week, and the third fatal attack in the state this year.
+The incident, at Sorrento Beach in Perth's north, has reignited debate about how to keep beachgoers safe in Australia.
+The swimmer has been identified as 63-year-old Greg O'Neill, the Australian Broadcasting Corporation (ABC) has reported.
+"Greg loved the ocean and was known as a passionate swimmer, sports lover, dedicated worker and an all-round generous, witty guy," his family said in a statement to the broadcaster.
+Witness Jacqui Rapaic told the ABC that two men were swimming, but only one made it back to shore, and that she could see "a pool of blood" in the water.
+Another witness told WAtoday that she saw the man being "mauled" as the shark "tossed him around like a fish".
+Members of the public reported seeing a 2.5m-long (8ft 2in) shark at around the same time.
+Authorities in Perth's Joondalup area, where Sorrento is located, said all beaches were closed "as a precautionary measure" and would remain so until at least midday on Sunday.
+Pictures on Saturday showed the coastline being patrolled by a police boat and helicopter.
+Catch-and-kill orders are rare and controversial in Australia, where great white sharks are a protected species.
+WA Fisheries Minister Jackie Jarvis said that she took the "extraordinary step" of issuing the order after the shark was spotted by water police on Saturday morning, and "positively identified as the shark involved in the incident".
+The minister said she authorised fisheries officers to "destroy the shark" if it could be captured because of the "exceptional circumstances" of the attack and the "hazard posed by the shark".
+It is believed to be the first time in 10 years that such an order had been issued in WA, Jarvis added, emphasising that the order was not a widespread cull as the state has seen in the past.
+The minister also said that the use of drones and tagging would be increased to help protect beachgoers.
+Catching and killing sharks has a long and controversial history in Western Australia - there were months of huge protests in 2014 when the state government authorised a cull after a spate of attacks.
+The incident in Sorrento is the second in WA this week - on Monday a 56-year-old man was bitten while surfing off the coast of Geraldton, 430km (270 miles) north of Perth. He survived but lost part of his leg, another surfer who rescued him told the ABC.
+There have been five fatal shark attacks in Australia this year.
+A 12-year-old boy died after he was bitten in Sydney Harbour in January, and three divers were fatally mauled in separate incidents between May and June - two in Western Australia and the third in Queensland.
+Related topics
+- Published1 day ago
+- Published16 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-19T09:19:12+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/316642d0-b3f9-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 8,
+  },
+  {
+    id: "trump-says-he-is-banning-cnn-and-politic-88485642",
+    title: "Trump says he is banning CNN and Politico from White House",
+    titleJa: "Trump says he is banning CNN and Politico from White House",
+    summaryJa: "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+    bodyOriginal: `Trump says he is banning CNN and Politico from White House
+- Published
+US President Donald Trump has announced that he is "immediately" banning CNN, MS NOW and Politico from the White House, the latest twist in his fraught relationship with media outlets.
+In a post on Truth Social on Friday, Trump said that the outlets "constantly write or report fiction or lies" about his administration, although he provided no examples.
+Trump later called it a "very simple ban", but did not explain how it would work. It is unclear whether employees of those outlets would be prevented from entering the White House grounds.
+CNN swiftly slammed the move as an "illegal assault" on American press freedoms. The move by Trump is likely to be met with legal challenges.
+Reporters from both Politico and CNN were still on the White House grounds shortly after the announcement was made.
+A crew from CNN was also travelling with Vice-President JD Vance to and from an event in Iowa.
+In a statement, the network called a potential ban illegal and said it "stands fully behind our White House team and their fair and accurate reporting".
+"We have a right under the US Constitution to do that reporting without hindrance or interference from the government," the CNN statement said. "Should the ban which President Trump threatened go ahead, it would be an illegal assault on that fundamental and constitutionally-protected right."
+Politico also released a statement, saying it would "continue to fairly report on this White House and future ones.
+"We will vigorously defend our First Amendment rights against any attempt to restrict them."
+MS NOW, formerly MSNBC, declined to comment.
+Trump had said in his post: "Media outlets shouldn't be able to constantly write or report fiction and lies when they're covering the President of the United States, the Trump Administration or the United States of America. Other news outlets to follow."
+The post did not mention specific stories or reporting that prompted the move.
+Asked by a reporter what he meant by others to come, Trump responded: "Others to come in terms of fake news? Well, you know, the New York Times is fake news, the Washington Post is fake news."
+The White House Correspondents' Association President Jacqui Heinrich said it stood in "defence" of its colleagues who were "being singled out for doing their jobs".
+"This is about more than the rights of journalists," Heinrich, who works for Fox News, also said. "It is about the right of the American people to receive a full and independent account of the activities, policies and decisions of whoever occupies the nation's highest office."
+Asked about the ban later in the Oval Office, Trump said that there was "no reason" for the announcement being made on Friday afternoon.
+"It's really just cumulative stories over the last few years," he said. "You get sick of it."
+Trump added that there "may be others to join them", but did not name any specific news outlets.
+He also acknowledged that legal challenges may follow his announcement, saying "I think it's good to point it out, whether it survives or doesn't".
+Since returning to office in January 2025, Trump and administration officials have repeatedly clashed with members of the White House press corps. In his second term, Trump has also moved to bring conservative bloggers, influencers and other media into the press room, arguing it is necessary to provide diverse perspectives to the American public.
+In February, the White House announced it was taking control of the press pool which has access to Trump and had for more than a century been managed by the White House Correspondents' Association.
+The same month, the administration moved to bar Associated Press (AP) reporters and photographers from spaces where access is limited, such as the Oval Office or Air Force One, because of the outlet's usage of the term "Gulf of Mexico" instead of "Gulf of America".
+AP swiftly filed a lawsuit and the case remains ongoing.
+The president has frequently clashed with reporters in the Oval Office on Air Force One and during White House events, often referring to them as "fake news" and "rude".
+In his first term, Trump also banned CNN correspondent Jim Acosta from the White House, although his credentials were restored after CNN sued.
+CNN is one of only five US news outlets that film video for the pool. The pool refers to an outlet or reporter sharing material from a presidential event with other media outlets. The BBC contributes to the White House radio pool.
+The announcement was immediately criticised by leading advocacy organisations for freedom of the press.
+In a statement on Friday afternoon, the Knight First Amendment Institute at Columbia University said that "with so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now".
+"If President Trump means to expel these news organizations from the White House press pool, his action is doubly unconstitutional because the press pool is a 'public forum' under the First Amendment, which means the president can't exclude journalists from it on the basis of their viewpoints," said the institute's executive director, Jameel Jaffer.
+A major group that provides legal services to the media - the Reporters Committee for Freedom of the Press - said it expected Trump's ban to be struck down quickly by the courts because it was "flatly unconstitutional".
+"The First Amendment is clear that once the White House invites in some journalists, it can't ban others because it doesn't like their reporting," said the group's president Bruce Brown, calling the potential ban "textbook viewpoint discrimination".
+The Freedom of the Press Foundation also said it was illegal, adding: "It's also hard to imagine a dumber move".
+Trump "has been retaliating against the press for years, but it hasn't helped him," it said, saying "these outrageous attacks only demonstrate how scared he is of an informed public".
+Trump has pursued legal action against a number of US and international news outlets, including The Wall Street Journal, The New York Times and the BBC.
+Some of the lawsuits have resulted in media organisations agreeing to pay multimillion dollar settlements. Trump's lawsuit against the BBC is ongoing.
+Related topics
+- Published15 hours ago`,
+    bodyJa: `Trump says he is banning CNN and Politico from White House
+- Published
+US President Donald Trump has announced that he is "immediately" banning CNN, MS NOW and Politico from the White House, the latest twist in his fraught relationship with media outlets.
+In a post on Truth Social on Friday, Trump said that the outlets "constantly write or report fiction or lies" about his administration, although he provided no examples.
+Trump later called it a "very simple ban", but did not explain how it would work. It is unclear whether employees of those outlets would be prevented from entering the White House grounds.
+CNN swiftly slammed the move as an "illegal assault" on American press freedoms. The move by Trump is likely to be met with legal challenges.
+Reporters from both Politico and CNN were still on the White House grounds shortly after the announcement was made.
+A crew from CNN was also travelling with Vice-President JD Vance to and from an event in Iowa.
+In a statement, the network called a potential ban illegal and said it "stands fully behind our White House team and their fair and accurate reporting".
+"We have a right under the US Constitution to do that reporting without hindrance or interference from the government," the CNN statement said. "Should the ban which President Trump threatened go ahead, it would be an illegal assault on that fundamental and constitutionally-protected right."
+Politico also released a statement, saying it would "continue to fairly report on this White House and future ones.
+"We will vigorously defend our First Amendment rights against any attempt to restrict them."
+MS NOW, formerly MSNBC, declined to comment.
+Trump had said in his post: "Media outlets shouldn't be able to constantly write or report fiction and lies when they're covering the President of the United States, the Trump Administration or the United States of America. Other news outlets to follow."
+The post did not mention specific stories or reporting that prompted the move.
+Asked by a reporter what he meant by others to come, Trump responded: "Others to come in terms of fake news? Well, you know, the New York Times is fake news, the Washington Post is fake news."
+The White House Correspondents' Association President Jacqui Heinrich said it stood in "defence" of its colleagues who were "being singled out for doing their jobs".
+"This is about more than the rights of journalists," Heinrich, who works for Fox News, also said. "It is about the right of the American people to receive a full and independent account of the activities, policies and decisions of whoever occupies the nation's highest office."
+Asked about the ban later in the Oval Office, Trump said that there was "no reason" for the announcement being made on Friday afternoon.
+"It's really just cumulative stories over the last few years," he said. "You get sick of it."
+Trump added that there "may be others to join them", but did not name any specific news outlets.
+He also acknowledged that legal challenges may follow his announcement, saying "I think it's good to point it out, whether it survives or doesn't".
+Since returning to office in January 2025, Trump and administration officials have repeatedly clashed with members of the White House press corps. In his second term, Trump has also moved to bring conservative bloggers, influencers and other media into the press room, arguing it is necessary to provide diverse perspectives to the American public.
+In February, the White House announced it was taking control of the press pool which has access to Trump and had for more than a century been managed by the White House Correspondents' Association.
+The same month, the administration moved to bar Associated Press (AP) reporters and photographers from spaces where access is limited, such as the Oval Office or Air Force One, because of the outlet's usage of the term "Gulf of Mexico" instead of "Gulf of America".
+AP swiftly filed a lawsuit and the case remains ongoing.
+The president has frequently clashed with reporters in the Oval Office on Air Force One and during White House events, often referring to them as "fake news" and "rude".
+In his first term, Trump also banned CNN correspondent Jim Acosta from the White House, although his credentials were restored after CNN sued.
+CNN is one of only five US news outlets that film video for the pool. The pool refers to an outlet or reporter sharing material from a presidential event with other media outlets. The BBC contributes to the White House radio pool.
+The announcement was immediately criticised by leading advocacy organisations for freedom of the press.
+In a statement on Friday afternoon, the Knight First Amendment Institute at Columbia University said that "with so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now".
+"If President Trump means to expel these news organizations from the White House press pool, his action is doubly unconstitutional because the press pool is a 'public forum' under the First Amendment, which means the president can't exclude journalists from it on the basis of their viewpoints," said the institute's executive director, Jameel Jaffer.
+A major group that provides legal services to the media - the Reporters Committee for Freedom of the Press - said it expected Trump's ban to be struck down quickly by the courts because it was "flatly unconstitutional".
+"The First Amendment is clear that once the White House invites in some journalists, it can't ban others because it doesn't like their reporting," said the group's president Bruce Brown, calling the potential ban "textbook viewpoint discrimination".
+The Freedom of the Press Foundation also said it was illegal, adding: "It's also hard to imagine a dumber move".
+Trump "has been retaliating against the press for years, but it hasn't helped him," it said, saying "these outrageous attacks only demonstrate how scared he is of an informed public".
+Trump has pursued legal action against a number of US and international news outlets, including The Wall Street Journal, The New York Times and the BBC.
+Some of the lawsuits have resulted in media organisations agreeing to pay multimillion dollar settlements. Trump's lawsuit against the BBC is ongoing.
+Related topics
+- Published15 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-19T05:36:36+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
+    readTime: 10,
+  },
+  {
+    id: "a-new-arms-race-is-unfolding-on-the-ocea-2f4d3d4e",
+    title: "A new arms race is unfolding on the ocean floor",
+    titleJa: "A new arms race is unfolding on the ocean floor",
+    summaryJa: "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
+    bodyOriginal: `Companies and governments are increasingly waking up to the fact that the future of warfare isn't just in the skies, but also on the ocean floor.
+Nations and corporations alike are devoting attention as well as piles of cash to new technologies designed for underwater use, as concerns grow about the vulnerability of critical infrastructure like connectivity cables and energy pipelines traversing the seabed.
+It comes amid growing concerns of so-called hybrid warfare, a broad term which can include cyberattacks, energy sabotage, disinformation, and economic pressure, with or without being accompanied by conventional military methods.
+"It's the changing threat environment that's brought this to the fore," Katja Bego, senior research fellow at Chatham House, told CNBC.
+At the same time, rapid advances in artificial intelligence, drones and autonomous technology are making new approaches to underwater surveillance possible, she said.
+From autonomous underwater vehicles to sensors attached to subsea cables, governments and military alliances are exploring ways to better monitor the infrastructure that underpins the global economy.
+"Our whole economy is built on top of this," Bego said.
+'The next logical domain'
+In September 2022, months after Russia launched its full-scale invasion of Ukraine, explosions ruptured the Nord Stream gas pipelines beneath the Baltic Sea. Investigators determined the pipelines, built to deliver natural gas from Russia to Germany, had been deliberately sabotaged.
+The incident, alongside damage to subsea infrastructure in other parts of the world like the Arctic and near Taiwan, has focused governments' attention on vulnerabilities that received little attention in the decades following the Cold War, according to Bego.
+"This has been neglected for quite a long time, so it's quite a lot of catching up to be done," she said.
+More than 1.5 million kilometers of submarine communications cables are in service globally as of early 2026, according to TeleGeography, a telecommunications research firm that tracks global subsea cable networks.
+Alongside telecommunications cables and oil and gas pipelines, a growing network of subsea power cables also connects electricity markets and carries electricity from offshore wind farms to land.
+Meanwhile, the widespread deployment of aerial drones during the war between Ukraine and Russia has shown how autonomous systems operated from afar can change the nature of warfare. Bego described the maritime environment as "the next logical domain."
+Defense companies are now positioning themselves for that shift.
+Italian shipbuilder Fincantieri announced in July plans to acquire majority stakes in four companies, for around 600 million euros ($689 million) to expand capabilities across underwater and surface drones, marine surveying and subsea communications.
+The company is building on more than a century of submarine expertise to move from what CEO Pierroberto Folgiero calls the "conventional underwater" world into an "unconventional" one encompassing smaller submarines, drones and underwater telecommunications. Speaking to CNBC in July, Folgiero described underwater telecommunications as "the real enabler of this new ecosystem."
+Folgiero sees future surface ships acting as "motherships," coordinating networks of vehicles operating above the seabed and throughout the water column.
+Fincantieri isn't alone. Major defense groups, including France's Thales, have established businesses spanning sonar, anti-submarine warfare, mine detection and autonomous underwater systems, as large and small firms alike seek a role in the emerging market for operating beneath the ocean surface.
+Underwater drones
+Germany-based defense-tech company Euroatlas is another company with its sights set on the potentially lucrative business of defending the seabed.
+It has developed an autonomous underwater vehicle called GrayShark that can travel to an assigned area and carry out a mission without continuous human control, according to Verineia Codrean, the company's chief strategy and partnerships officer.
+It's designed to avoid obstacles and follow predetermined instructions when it encounters something unexpected. While inspecting a pipeline, for example, it could identify a mine-like object, report the discovery and wait for an operator to decide whether it should investigate further.
+Rather than guarding every mile of cable with warships, Codrean imagines a future with fleets of autonomous vehicles continuously patrolling strategic areas of the seabed and converging when one detects something unusual.
+"It is virtually impossible to cover the entire ocean," Codrean told CNBC. "You just need to know which are the areas that are more interesting to have that constant visibility of what is happening there."
+She argued that this is fundamentally a problem of scale, as frigates, submarines and maritime patrol aircraft are too expensive and scarce to maintain a continuous presence across the vast areas where cables, pipelines and other strategic assets are located.
+"The underwater space domain is gaining a bigger set of problems that wasn't present until now," she said, adding that "from a mathematics perspective, [crewed assets] cannot be everywhere and anywhere where these problems are popping up, either a sabotage or some movement from an enemy submarine."
+Machines versus machines
+Autonomous vehicles aren't only being developed to watch infrastructure. Alongside anti-submarine warfare where submarines target other crewed submarines, Codrean points to the emergence of so-called anti-autonomous underwater vehicle (AUV) missions, aimed at detecting, tracking and identifying autonomous and unmanned underwater vehicles operated by other countries.
+"What we are building, so are our non-allies or our enemies building as well," she said.
+"Because others are also having autonomous underwater vehicles built, you need to be able to classify which are from... NATO-friendly countries or allies, and which are not from friendly countries," Codrean said. That raises the prospect of more machine-on-machine activity beneath the surface.
+But Codrean does not expect autonomous vehicles to replace conventional submarines and warships. "I wouldn't be as deterministic to say drones versus drones only, but for sure a much more increased activity from drones against drones until you need a manned asset to step in as well," she said.
+Instead, she expects navies to increasingly combine crewed and autonomous systems, making interoperability between them increasingly important.
+While Fincantieri's Folgiero said underwater telecommunications is the "real enabler" to the emerging underwater domain, Codrean argued that advances in acoustic and other subsea communications mean the bigger bottleneck is range and endurance.
+Euroatlas is also developing a hydrogen fuel-cell version of GrayShark designed for up to 16 weeks underwater or 8,000 nautical miles, though the company has not yet demonstrated that endurance underwater.
+Euroatlas says it has signed more than 100 million euros in GrayShark contracts with unnamed European navies. Codrean said the vehicles are not armed, with their missions instead including surveillance, detection and deterrence.
+Catching up
+For all the investment and technological advances, a fundamental problem remains – nobody can realistically protect every mile of infrastructure on the seabed.
+"I don't think anyone, listening to NATO people, would pretend that [we] can protect a network of a million kilometers plus," Bego said.
+Responsibility for protecting that infrastructure is also blurred. Much of the world's subsea infrastructure is owned or operated by private companies, which have traditionally dealt with routine maintenance and accidental damage. But protecting them against deliberate interference or even an outright war scenario increasingly brings governments and militaries into the picture.
+Governments are pushing for stronger security measures, according to Bego, potentially ranging from increased monitoring to sensors and deeper burial of cables. Those measures can be costly, however, raising questions over who should pay and where responsibility ultimately lies.
+The result, Bego said, will likely require much closer cooperation between governments and infrastructure owners rather than regulation alone.
+The investment opportunity is attracting companies on both sides of the Atlantic, while Bego said Russia and China are also investing heavily in the underwater domain.
+"There's clearly a lot more money available because of it, because there's just this massive boom in investing in drones," she said.
+But operating autonomously underwater is considerably harder than in the air. Visibility is poor, communications are difficult and signals do not travel underwater in the same way they do through the air.
+"This is not technology that's anywhere near the level of the drones we see in Ukraine," Bego said.
+"Progress is being made, but it's just very difficult," she added. "Tech hurdles are really quite significant."
+For that reason, Bego cautioned against seeing autonomous underwater vehicles as a technological solution capable of making the seabed secure.
+"It's helpful," she said. "It's mostly about deterrence and signaling. It's good to develop into this field of things. It's not a panacea that's going to fix it."`,
+    bodyJa: `Companies and governments are increasingly waking up to the fact that the future of warfare isn't just in the skies, but also on the ocean floor.
+Nations and corporations alike are devoting attention as well as piles of cash to new technologies designed for underwater use, as concerns grow about the vulnerability of critical infrastructure like connectivity cables and energy pipelines traversing the seabed.
+It comes amid growing concerns of so-called hybrid warfare, a broad term which can include cyberattacks, energy sabotage, disinformation, and economic pressure, with or without being accompanied by conventional military methods.
+"It's the changing threat environment that's brought this to the fore," Katja Bego, senior research fellow at Chatham House, told CNBC.
+At the same time, rapid advances in artificial intelligence, drones and autonomous technology are making new approaches to underwater surveillance possible, she said.
+From autonomous underwater vehicles to sensors attached to subsea cables, governments and military alliances are exploring ways to better monitor the infrastructure that underpins the global economy.
+"Our whole economy is built on top of this," Bego said.
+'The next logical domain'
+In September 2022, months after Russia launched its full-scale invasion of Ukraine, explosions ruptured the Nord Stream gas pipelines beneath the Baltic Sea. Investigators determined the pipelines, built to deliver natural gas from Russia to Germany, had been deliberately sabotaged.
+The incident, alongside damage to subsea infrastructure in other parts of the world like the Arctic and near Taiwan, has focused governments' attention on vulnerabilities that received little attention in the decades following the Cold War, according to Bego.
+"This has been neglected for quite a long time, so it's quite a lot of catching up to be done," she said.
+More than 1.5 million kilometers of submarine communications cables are in service globally as of early 2026, according to TeleGeography, a telecommunications research firm that tracks global subsea cable networks.
+Alongside telecommunications cables and oil and gas pipelines, a growing network of subsea power cables also connects electricity markets and carries electricity from offshore wind farms to land.
+Meanwhile, the widespread deployment of aerial drones during the war between Ukraine and Russia has shown how autonomous systems operated from afar can change the nature of warfare. Bego described the maritime environment as "the next logical domain."
+Defense companies are now positioning themselves for that shift.
+Italian shipbuilder Fincantieri announced in July plans to acquire majority stakes in four companies, for around 600 million euros ($689 million) to expand capabilities across underwater and surface drones, marine surveying and subsea communications.
+The company is building on more than a century of submarine expertise to move from what CEO Pierroberto Folgiero calls the "conventional underwater" world into an "unconventional" one encompassing smaller submarines, drones and underwater telecommunications. Speaking to CNBC in July, Folgiero described underwater telecommunications as "the real enabler of this new ecosystem."
+Folgiero sees future surface ships acting as "motherships," coordinating networks of vehicles operating above the seabed and throughout the water column.
+Fincantieri isn't alone. Major defense groups, including France's Thales, have established businesses spanning sonar, anti-submarine warfare, mine detection and autonomous underwater systems, as large and small firms alike seek a role in the emerging market for operating beneath the ocean surface.
+Underwater drones
+Germany-based defense-tech company Euroatlas is another company with its sights set on the potentially lucrative business of defending the seabed.
+It has developed an autonomous underwater vehicle called GrayShark that can travel to an assigned area and carry out a mission without continuous human control, according to Verineia Codrean, the company's chief strategy and partnerships officer.
+It's designed to avoid obstacles and follow predetermined instructions when it encounters something unexpected. While inspecting a pipeline, for example, it could identify a mine-like object, report the discovery and wait for an operator to decide whether it should investigate further.
+Rather than guarding every mile of cable with warships, Codrean imagines a future with fleets of autonomous vehicles continuously patrolling strategic areas of the seabed and converging when one detects something unusual.
+"It is virtually impossible to cover the entire ocean," Codrean told CNBC. "You just need to know which are the areas that are more interesting to have that constant visibility of what is happening there."
+She argued that this is fundamentally a problem of scale, as frigates, submarines and maritime patrol aircraft are too expensive and scarce to maintain a continuous presence across the vast areas where cables, pipelines and other strategic assets are located.
+"The underwater space domain is gaining a bigger set of problems that wasn't present until now," she said, adding that "from a mathematics perspective, [crewed assets] cannot be everywhere and anywhere where these problems are popping up, either a sabotage or some movement from an enemy submarine."
+Machines versus machines
+Autonomous vehicles aren't only being developed to watch infrastructure. Alongside anti-submarine warfare where submarines target other crewed submarines, Codrean points to the emergence of so-called anti-autonomous underwater vehicle (AUV) missions, aimed at detecting, tracking and identifying autonomous and unmanned underwater vehicles operated by other countries.
+"What we are building, so are our non-allies or our enemies building as well," she said.
+"Because others are also having autonomous underwater vehicles built, you need to be able to classify which are from... NATO-friendly countries or allies, and which are not from friendly countries," Codrean said. That raises the prospect of more machine-on-machine activity beneath the surface.
+But Codrean does not expect autonomous vehicles to replace conventional submarines and warships. "I wouldn't be as deterministic to say drones versus drones only, but for sure a much more increased activity from drones against drones until you need a manned asset to step in as well," she said.
+Instead, she expects navies to increasingly combine crewed and autonomous systems, making interoperability between them increasingly important.
+While Fincantieri's Folgiero said underwater telecommunications is the "real enabler" to the emerging underwater domain, Codrean argued that advances in acoustic and other subsea communications mean the bigger bottleneck is range and endurance.
+Euroatlas is also developing a hydrogen fuel-cell version of GrayShark designed for up to 16 weeks underwater or 8,000 nautical miles, though the company has not yet demonstrated that endurance underwater.
+Euroatlas says it has signed more than 100 million euros in GrayShark contracts with unnamed European navies. Codrean said the vehicles are not armed, with their missions instead including surveillance, detection and deterrence.
+Catching up
+For all the investment and technological advances, a fundamental problem remains – nobody can realistically protect every mile of infrastructure on the seabed.
+"I don't think anyone, listening to NATO people, would pretend that [we] can protect a network of a million kilometers plus," Bego said.
+Responsibility for protecting that infrastructure is also blurred. Much of the world's subsea infrastructure is owned or operated by private companies, which have traditionally dealt with routine maintenance and accidental damage. But protecting them against deliberate interference or even an outright war scenario increasingly brings governments and militaries into the picture.
+Governments are pushing for stronger security measures, according to Bego, potentially ranging from increased monitoring to sensors and deeper burial of cables. Those measures can be costly, however, raising questions over who should pay and where responsibility ultimately lies.
+The result, Bego said, will likely require much closer cooperation between governments and infrastructure owners rather than regulation alone.
+The investment opportunity is attracting companies on both sides of the Atlantic, while Bego said Russia and China are also investing heavily in the underwater domain.
+"There's clearly a lot more money available because of it, because there's just this massive boom in investing in drones," she said.
+But operating autonomously underwater is considerably harder than in the air. Visibility is poor, communications are difficult and signals do not travel underwater in the same way they do through the air.
+"This is not technology that's anywhere near the level of the drones we see in Ukraine," Bego said.
+"Progress is being made, but it's just very difficult," she added. "Tech hurdles are really quite significant."
+For that reason, Bego cautioned against seeing autonomous underwater vehicles as a technological solution capable of making the seabed secure.
+"It's helpful," she said. "It's mostly about deterrence and signaling. It's good to develop into this field of things. It's not a panacea that's going to fix it."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
+    publishedAt: "2026-09-19T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "google-s-gemini-ai-hacked-three-companie-c3351581",
+    title: "Google's Gemini AI hacked three companies in security test",
+    titleJa: "Google's Gemini AI hacked three companies in security test",
+    summaryJa: "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+    bodyOriginal: `Google's Gemini AI hacked three companies in security test
+- Published
+Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.
+Gemini found "public information online and guessed credentials to access websites it thought were part of the test", a Google official told the BBC, noting that in each instance "the model stopped".
+The affected companies have been informed about the breach.
+It comes after renewed public scrutiny over the pace of AI development, with some tech firms calling for a slowdown as they raise concerns over its potential threat to humanity - though not all companies agree.
+The hacks first reported by the Wall Street Journal, occurred in May during a test conducted by an independent company that carries out cyber-security evaluations.
+Heather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: "We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes."
+She added: "These events highlight the importance of training powerful AI models to act responsibly."
+Other AI systems have recently reported similar instances of breaches.
+In July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after OpenAI said its models had carried out cyber-attacks against several "publicly available services".
+As public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.
+Both Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.
+On Friday, Huang told CBS News, the BBC's US partner, "we should go as fast as we can" with AI development.
+Related topics
+- Published2 days ago
+- Published9 hours ago`,
+    bodyJa: `Google's Gemini AI hacked three companies in security test
+- Published
+Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.
+Gemini found "public information online and guessed credentials to access websites it thought were part of the test", a Google official told the BBC, noting that in each instance "the model stopped".
+The affected companies have been informed about the breach.
+It comes after renewed public scrutiny over the pace of AI development, with some tech firms calling for a slowdown as they raise concerns over its potential threat to humanity - though not all companies agree.
+The hacks first reported by the Wall Street Journal, occurred in May during a test conducted by an independent company that carries out cyber-security evaluations.
+Heather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: "We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes."
+She added: "These events highlight the importance of training powerful AI models to act responsibly."
+Other AI systems have recently reported similar instances of breaches.
+In July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after OpenAI said its models had carried out cyber-attacks against several "publicly available services".
+As public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.
+Both Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.
+On Friday, Huang told CBS News, the BBC's US partner, "we should go as fast as we can" with AI development.
+Related topics
+- Published2 days ago
+- Published9 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-19T04:27:11+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
+    readTime: 5,
+  },
+  {
     id: "google-s-gemini-becomes-latest-ai-model-aff845cc",
     title: "Google's Gemini becomes latest AI model to break out and hack computer systems",
     titleJa: "Google's Gemini becomes latest AI model to break out and hack computer systems",
@@ -109,6 +419,130 @@ The official text of any deal was not immediately available. The White House did
     readTime: 5,
   },
   {
+    id: "grim-discoveries-of-murdered-women-spark-0cb166a2",
+    title: "Grim discoveries of murdered women spark fear in South Africa",
+    titleJa: "Grim discoveries of murdered women spark fear in South Africa",
+    summaryJa: "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
+    bodyOriginal: `Grim discoveries of murdered women spark fear in South Africa
+- Published
+"What we are going to do, I have no idea," sobs Nokwanda Matshikiza, reflecting on the murder of her niece Dineo Motapane. "But something must give."
+"For us, for all the other women. How many other bodies will be found before something happens?"
+Nokwanda is speaking to the BBC from the family home near South Africa's main city, Johannesburg, just two days after relatives identified Dineo's body.
+The 38-year-old mother-of-two was last seen alive on Sunday. Her battered and partly burned body was later found in the residential region of Ekurhuleni.
+Nokwanda weeps as she describes how the family will have to face, at some point, the grim task of telling Dineo's daughter of her death.
+"How do you explain that your parent was brutally murdered, dumped in a field, and just left there, discarded like a piece of rubbish.
+"There's no coming to peace with it," she adds. "It's something that you can never reconcile yourself with, that you can never get over."
+Dineo's death this week has come amid a series of comparable incidents in Ekurhuleni – her body one of three discovered there this week. In total, nine bodies of murdered women have been found in similar circumstances in the region since July.
+The problem has always been there but this spate of grim discoveries has once again sparked a national outcry about the scale of violence against women in the country – which has one of the highest rates of gender-based violence in the world.
+Themba Kekana is also living in shock at the death of a loved one.
+His sister, Itumeleng, was one of the first to disappear in Ekurhuleni.
+The 32-year-old shopkeeper's body was found in July, 17 days after she was last seen alive. Her body was badly bruised, partially clothed and dumped on a bridge.
+"We are devastated with grief," says Themba, wet eyes shining.
+"I look at my sister's young daughter and my eyes fill with tears, I know there is no way that I can ever take this pain away from her.
+"No family should have to deal with what we are faced with."
+Only one arrest has been made in connection with the murders – and that was two days after the first body was discovered on 15 July.
+Nobody has been detained following the murders of Itumeleng or Dineo or the other six Ekurhuleni women.
+Most of the victims were young, in their 20s or 30s, and almost all had suffered extreme violence before their deaths.
+Police have said they are not sure if they are hunting a serial killer. It is possible the cases are not linked.
+Either way, what has happened in this residential district east of South Africa's biggest city has traumatised the nation, shining a spotlight on a situation that many believe is a crisis.
+South Africa's police issue detailed crime statistics every quarter, which show that between April and June this year - 5,427 people were murdered.
+The official data does not distinguish between the genders of the victims, but this week the country's Human Rights Commission released figures showing that 569 women had been killed in that period (six a day on average), with another 1,052 who faced attempted murder.
+Many women - already feeling unsafe - have been left reeling by recent events.
+And it has put pressure on the government, less than a year after ministers acknowledged the scale of the issue and declared gender-based violence a national disaster.
+Announcing the move last November, Minister of Social Development Nokuzola Sisisi Tolashe said that treating the issue as a national disaster would help the government tackle the crisis.
+It followed weeks of protests, culminating in a "Women's Shut Down" march as South Africa hosted the G20 summit.
+This week has seen a chorus of calls for things to go further.
+Rights group Amnesty International said an important first step towards protecting South Africa's women was to recognise femicide as a separate crime.
+"Every day that femicide remains unrecognised as a crime is a failure to confront the targeted killing of women," said Amnesty's country director Shenilla Mohamed in a statement. "It is time to call it what it is: Femicide.
+"Femicide is a gender-motivated crime. It is the killing of a woman because she is a woman."
+Amnesty says femicide is criminalised as a specific crime in 33 countries, including Gabon and Morocco in Africa.
+It argues that making that change in South Africa could help focus on the scale of the issue.
+"It would compel the state to confront their failure to protect women and girls from violence," says Mohamed. "You cannot fix what you are not tracking."
+Almost everyone in South Africa agrees more needs to be done.
+President Cyril Ramaphosa this week pledged to leave "no stone unturned" in investigating the crimes in Ekurhuleni, adding: "As a nation, we must stand up for the rights, safety and dignity of women and girls."
+Lebogang Ramofoko, an advocate for gender and social justice, said the levels of violence against women in the country were symptomatic of a much bigger problem – a lack of regard for humanity.
+"The bodies of black women have been treated as disposable in this country for time immemorial, passed down from colonisation through to apartheid," she tells the BBC, referring to the legalised system of racism that was in place until 1994.
+"What we see happening to women is testimony to legacies of violence from those systems whose traumas were never addressed.
+"This is not to say black men are inherently violent, but in systems where violence was meted out against them for decades, historically black women were the people that that violence would be taken out on - that cycle has not been broken."
+In Kempton Park, a district of Ekurhuleni where five of the nine recent bodies were found, Lumka Maqhubela is part of the Girl2Woman Foundation group which has held protests to raise awareness of the crimes.
+"We are grieved, we are scared," she says. "If the police cannot protect us any more the government should step in and do something.
+"It's clear that we are not safe, we cannot be told by the police to be more vigilant. They should be doing more to make our communities safe – what else are we expected to do? We are not safe anywhere, not in our homes, not in the streets, it needs to stop."
+"I feel uncomfortable," says Thulisile Sibande, 32. "When I go to a shop, I have to look around. I'm shocked and scared. So scared, it's a trauma."
+Thembi Mabena, 60, tells the BBC she lived in the same neighbourhood as Dineo Motapane.
+"She was laughing every day, with everybody," she remembers. "Now I'm worried.
+"I know many children, girls, who tell me they are afraid to go to the shop alone. There is no safety, even for me too. I am old, but there is no safety."
+"In South Africa," says Lerato Mzizi, 20, simply, "women are not safe any more."
+You may also be interested in:
+South Africa calls gender violence a national disaster after protests
+- Published21 November 2025
+I built this 'AI aunt' for women after family tragedy in South Africa
+- Published3 November 2025
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
+    bodyJa: `Grim discoveries of murdered women spark fear in South Africa
+- Published
+"What we are going to do, I have no idea," sobs Nokwanda Matshikiza, reflecting on the murder of her niece Dineo Motapane. "But something must give."
+"For us, for all the other women. How many other bodies will be found before something happens?"
+Nokwanda is speaking to the BBC from the family home near South Africa's main city, Johannesburg, just two days after relatives identified Dineo's body.
+The 38-year-old mother-of-two was last seen alive on Sunday. Her battered and partly burned body was later found in the residential region of Ekurhuleni.
+Nokwanda weeps as she describes how the family will have to face, at some point, the grim task of telling Dineo's daughter of her death.
+"How do you explain that your parent was brutally murdered, dumped in a field, and just left there, discarded like a piece of rubbish.
+"There's no coming to peace with it," she adds. "It's something that you can never reconcile yourself with, that you can never get over."
+Dineo's death this week has come amid a series of comparable incidents in Ekurhuleni – her body one of three discovered there this week. In total, nine bodies of murdered women have been found in similar circumstances in the region since July.
+The problem has always been there but this spate of grim discoveries has once again sparked a national outcry about the scale of violence against women in the country – which has one of the highest rates of gender-based violence in the world.
+Themba Kekana is also living in shock at the death of a loved one.
+His sister, Itumeleng, was one of the first to disappear in Ekurhuleni.
+The 32-year-old shopkeeper's body was found in July, 17 days after she was last seen alive. Her body was badly bruised, partially clothed and dumped on a bridge.
+"We are devastated with grief," says Themba, wet eyes shining.
+"I look at my sister's young daughter and my eyes fill with tears, I know there is no way that I can ever take this pain away from her.
+"No family should have to deal with what we are faced with."
+Only one arrest has been made in connection with the murders – and that was two days after the first body was discovered on 15 July.
+Nobody has been detained following the murders of Itumeleng or Dineo or the other six Ekurhuleni women.
+Most of the victims were young, in their 20s or 30s, and almost all had suffered extreme violence before their deaths.
+Police have said they are not sure if they are hunting a serial killer. It is possible the cases are not linked.
+Either way, what has happened in this residential district east of South Africa's biggest city has traumatised the nation, shining a spotlight on a situation that many believe is a crisis.
+South Africa's police issue detailed crime statistics every quarter, which show that between April and June this year - 5,427 people were murdered.
+The official data does not distinguish between the genders of the victims, but this week the country's Human Rights Commission released figures showing that 569 women had been killed in that period (six a day on average), with another 1,052 who faced attempted murder.
+Many women - already feeling unsafe - have been left reeling by recent events.
+And it has put pressure on the government, less than a year after ministers acknowledged the scale of the issue and declared gender-based violence a national disaster.
+Announcing the move last November, Minister of Social Development Nokuzola Sisisi Tolashe said that treating the issue as a national disaster would help the government tackle the crisis.
+It followed weeks of protests, culminating in a "Women's Shut Down" march as South Africa hosted the G20 summit.
+This week has seen a chorus of calls for things to go further.
+Rights group Amnesty International said an important first step towards protecting South Africa's women was to recognise femicide as a separate crime.
+"Every day that femicide remains unrecognised as a crime is a failure to confront the targeted killing of women," said Amnesty's country director Shenilla Mohamed in a statement. "It is time to call it what it is: Femicide.
+"Femicide is a gender-motivated crime. It is the killing of a woman because she is a woman."
+Amnesty says femicide is criminalised as a specific crime in 33 countries, including Gabon and Morocco in Africa.
+It argues that making that change in South Africa could help focus on the scale of the issue.
+"It would compel the state to confront their failure to protect women and girls from violence," says Mohamed. "You cannot fix what you are not tracking."
+Almost everyone in South Africa agrees more needs to be done.
+President Cyril Ramaphosa this week pledged to leave "no stone unturned" in investigating the crimes in Ekurhuleni, adding: "As a nation, we must stand up for the rights, safety and dignity of women and girls."
+Lebogang Ramofoko, an advocate for gender and social justice, said the levels of violence against women in the country were symptomatic of a much bigger problem – a lack of regard for humanity.
+"The bodies of black women have been treated as disposable in this country for time immemorial, passed down from colonisation through to apartheid," she tells the BBC, referring to the legalised system of racism that was in place until 1994.
+"What we see happening to women is testimony to legacies of violence from those systems whose traumas were never addressed.
+"This is not to say black men are inherently violent, but in systems where violence was meted out against them for decades, historically black women were the people that that violence would be taken out on - that cycle has not been broken."
+In Kempton Park, a district of Ekurhuleni where five of the nine recent bodies were found, Lumka Maqhubela is part of the Girl2Woman Foundation group which has held protests to raise awareness of the crimes.
+"We are grieved, we are scared," she says. "If the police cannot protect us any more the government should step in and do something.
+"It's clear that we are not safe, we cannot be told by the police to be more vigilant. They should be doing more to make our communities safe – what else are we expected to do? We are not safe anywhere, not in our homes, not in the streets, it needs to stop."
+"I feel uncomfortable," says Thulisile Sibande, 32. "When I go to a shop, I have to look around. I'm shocked and scared. So scared, it's a trauma."
+Thembi Mabena, 60, tells the BBC she lived in the same neighbourhood as Dineo Motapane.
+"She was laughing every day, with everybody," she remembers. "Now I'm worried.
+"I know many children, girls, who tell me they are afraid to go to the shop alone. There is no safety, even for me too. I am old, but there is no safety."
+"In South Africa," says Lerato Mzizi, 20, simply, "women are not safe any more."
+You may also be interested in:
+South Africa calls gender violence a national disaster after protests
+- Published21 November 2025
+I built this 'AI aunt' for women after family tragedy in South Africa
+- Published3 November 2025
+Go to BBCAfrica.com, external for more news from the African continent.
+Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T23:04:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a2/live/be22b180-b3a0-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
     id: "i-m-burned-out-i-m-constantly-helping-m-57e1ebd4",
     title: "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
     titleJa: "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
@@ -121,6 +555,82 @@ The official text of any deal was not immediately available. The White House did
     category: "エネルギー",
     imageUrl: "https://images.mktw.net/im-59442466",
     readTime: 2,
+  },
+  {
+    id: "us-and-denmark-reach-deal-over-greenland-491edc8a",
+    title: "US and Denmark reach deal over Greenland after Trump annexation threats",
+    titleJa: "US and Denmark reach deal over Greenland after Trump annexation threats",
+    summaryJa: "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
+    bodyOriginal: `US and Denmark reach deal over Greenland after Trump annexation threats
+- Published
+The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force.
+Trump said the agreement would grant the US "permanent control over security, and all other needs" in the semi-autonomous Danish territory.
+The leaders of Denmark and Greenland welcomed the deal to "strengthen security" in the region, which they said was expected to be signed next week, but did not outline its contents.
+The announcement comes after months of threats by Trump to "take" Greenland over national security concerns, citing its strategic location for defence purposes and its mineral wealth.
+No text of the agreement has been released. Trump said the deal came with "no cost to the United States" and would grant the US the ability "to do what is necessary" to "secure and defend the security of Greenland", in a post on Truth Social.
+He said it included a rule that no US adversary could maintain a military presence in Greenland or "make sensitive investments in Greenland, without our express written approval".
+Denmark's Prime Minister Mette Frederiksen said she was "pleased that there is a prospect of a good agreement" for all three parties, which was expected to be signed at the UN General Assembly next week.
+The deal "strengthens our common security in the Arctic and the North Atlantic area" while also recognising "the sovereignty and territorial integrity of the Kingdom and the right of the Greenlandic people to self-determination", she said in a joint statement with Greenland's Prime Minister Jens-Frederik Nielsen.
+The agreement would still need to go through "the necessary parliamentary procedures to enter into force" once signed, the statement noted.
+Nielsen said it was "gratifying that we are about to enter into an agreement that ensures and strengthens the security of Greenland, the Kingdom of Denmark, the United States and the Western alliance".
+"The agreement recognises Greenland's interests and our place in international co-operation. It is for the benefit of us all," he said.
+Trump had tried for months to purchase or annex the mineral-rich, semi-autonomous Danish territory, arguing that it was vulnerable to adversaries, including Russia and China. He even threatened military action in Greenland, prompting an outcry from Danes and other Nato countries.
+US Secretary of State Marco Rubio called it a "historic deal" and a "huge win for the United States and the American people".
+"This deal permanently and completely addresses our national security concerns in Greenland," he said in a statement.
+The text of the agreement has not been published. The BBC has contacted the Danish Embassy in the US and the White House.
+However, an unnamed US State Department official outlined the deal without providing specifics.
+Among the agreed provisions is one stating the deal would not expire even if Greenland became an independent country in the future.
+The official added that under the deal, the US has unilateral power to build additional military structures with no approval needed from Greenland or Denmark. It includes "permanent access, basing and overflights rights," the official said.
+It also bans non-Nato countries from building bases in Greenland, and "bans adversaries from making investments in Greenland that could threaten the United States".
+The official added that under the current status quo, adversaries have been allowed to invest in Greenland's "sensitive sectors without investment screening".
+The official specifically referenced Russia and China, saying it blocks them from deploying troops or making investments in "sensitive sectors".
+Without the official text being released, it is unclear how exactly the deal differs from a 1951 agreement with Denmark, under which the US can send as many troops as it wants to Greenland.
+The US already has more than 100 military personnel permanently stationed at its Pituffik base in the north-western tip of the territory.
+Trump says Greenland is essential for his plan to build a Golden Dome defence system, designed to protect the US against missile attacks from Russia and China, and that European allies could co-operate in this endeavour.
+The island has vast - and largely untapped - reserves of rare earth minerals, many of which are crucial for technologies including mobile phones and electric vehicles.
+Related topics
+- Published21 January
+- Published12 May
+- Published22 January
+- Published22 January`,
+    bodyJa: `US and Denmark reach deal over Greenland after Trump annexation threats
+- Published
+The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force.
+Trump said the agreement would grant the US "permanent control over security, and all other needs" in the semi-autonomous Danish territory.
+The leaders of Denmark and Greenland welcomed the deal to "strengthen security" in the region, which they said was expected to be signed next week, but did not outline its contents.
+The announcement comes after months of threats by Trump to "take" Greenland over national security concerns, citing its strategic location for defence purposes and its mineral wealth.
+No text of the agreement has been released. Trump said the deal came with "no cost to the United States" and would grant the US the ability "to do what is necessary" to "secure and defend the security of Greenland", in a post on Truth Social.
+He said it included a rule that no US adversary could maintain a military presence in Greenland or "make sensitive investments in Greenland, without our express written approval".
+Denmark's Prime Minister Mette Frederiksen said she was "pleased that there is a prospect of a good agreement" for all three parties, which was expected to be signed at the UN General Assembly next week.
+The deal "strengthens our common security in the Arctic and the North Atlantic area" while also recognising "the sovereignty and territorial integrity of the Kingdom and the right of the Greenlandic people to self-determination", she said in a joint statement with Greenland's Prime Minister Jens-Frederik Nielsen.
+The agreement would still need to go through "the necessary parliamentary procedures to enter into force" once signed, the statement noted.
+Nielsen said it was "gratifying that we are about to enter into an agreement that ensures and strengthens the security of Greenland, the Kingdom of Denmark, the United States and the Western alliance".
+"The agreement recognises Greenland's interests and our place in international co-operation. It is for the benefit of us all," he said.
+Trump had tried for months to purchase or annex the mineral-rich, semi-autonomous Danish territory, arguing that it was vulnerable to adversaries, including Russia and China. He even threatened military action in Greenland, prompting an outcry from Danes and other Nato countries.
+US Secretary of State Marco Rubio called it a "historic deal" and a "huge win for the United States and the American people".
+"This deal permanently and completely addresses our national security concerns in Greenland," he said in a statement.
+The text of the agreement has not been published. The BBC has contacted the Danish Embassy in the US and the White House.
+However, an unnamed US State Department official outlined the deal without providing specifics.
+Among the agreed provisions is one stating the deal would not expire even if Greenland became an independent country in the future.
+The official added that under the deal, the US has unilateral power to build additional military structures with no approval needed from Greenland or Denmark. It includes "permanent access, basing and overflights rights," the official said.
+It also bans non-Nato countries from building bases in Greenland, and "bans adversaries from making investments in Greenland that could threaten the United States".
+The official added that under the current status quo, adversaries have been allowed to invest in Greenland's "sensitive sectors without investment screening".
+The official specifically referenced Russia and China, saying it blocks them from deploying troops or making investments in "sensitive sectors".
+Without the official text being released, it is unclear how exactly the deal differs from a 1951 agreement with Denmark, under which the US can send as many troops as it wants to Greenland.
+The US already has more than 100 military personnel permanently stationed at its Pituffik base in the north-western tip of the territory.
+Trump says Greenland is essential for his plan to build a Golden Dome defence system, designed to protect the US against missile attacks from Russia and China, and that European allies could co-operate in this endeavour.
+The island has vast - and largely untapped - reserves of rare earth minerals, many of which are crucial for technologies including mobile phones and electric vehicles.
+Related topics
+- Published21 January
+- Published12 May
+- Published22 January
+- Published22 January`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T22:58:55+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
+    readTime: 10,
   },
   {
     id: "my-total-balance-should-be-20-million-i-9b9d17f2",
@@ -149,6 +659,56 @@ The official text of any deal was not immediately available. The White House did
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-96714164",
     readTime: 2,
+  },
+  {
+    id: "trump-signs-sweeping-russia-sanctions-bi-4e826f44",
+    title: "Trump signs sweeping Russia sanctions bill",
+    titleJa: "Trump signs sweeping Russia sanctions bill",
+    summaryJa: "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+    bodyOriginal: `Trump signs sweeping Russia sanctions bill
+- Published
+US President Donald Trump has signed a sweeping sanctions bill, taking aim at Russia's economy by punishing major purchasers of its oil and gas.
+The bill, passed by the US House of Representatives earlier this week, gives Trump broad powers to levy tariffs of up to 100% on the top five purchasers of Russian oil and gas – most significantly China and India.
+At Trump's behest, the bill also extends to Iran's energy and weapons sectors.
+The bill is named after the late Senator Lindsey Graham, one of Ukraine's staunchest defenders in Washington before his death on 11 July.
+The 48-page bill, formally titled the Lindsey O Graham Sanctioning Russia and Iran Act of 2026, includes exceptions for countries that import less than 15% of their natural gas from Russia and are working to lessen their dependency.
+Additionally, the bill includes sanctions against Russian President Vladimir Putin, senior figures within the Russian government as well as banks and other financial institutions and Russia's "shadow fleet" of tankers used to circumvent existing sanctions.
+Senator Richard Blumenthal, a New York Democrat, previously described the legislation as "scorching sanctions" which would "throttle Putin's war machine".
+Data from the Centre for Research on Energy and Clean Air, or CREA, shows that China accounted for 50% of Russian crude exports between December 2022 and August 2026, followed by India at 37%.
+Turkey and the European Union each accounted for 5% during the same time period, although Russian energy exports to the EU have been decreasing.
+Senator Graham had long sought to push the Trump administration to do more to punish Russia for the war that followed its invasion of Ukraine in February 2022.
+The bill also received the support of Ukrainian President Volodymyr Zelensky, who thanked Trump for signing the "critically important legislation".
+"The best way to honour Lindsey's memory will be to implement the provisions of this law fully and swiftly," he wrote on social media.
+"Senator Graham never doubted for a second that America has enough strength to stand up to dictators and achieve results if it acts the right way."
+Graham, 71, died on 11 July of an "aortic dissection" caused by cardiovascular disease shortly after returning from a trip to Kyiv.
+"He died doing the work he was born to do," Trump said at the time.
+Prior to his death, he was widely considered one of Ukraine's fiercest allies on Capitol Hill, at a time when Republicans were bitterly divided over the extent of US involvement abroad and the amount of aid being given to Ukraine.
+- Published2 days ago`,
+    bodyJa: `Trump signs sweeping Russia sanctions bill
+- Published
+US President Donald Trump has signed a sweeping sanctions bill, taking aim at Russia's economy by punishing major purchasers of its oil and gas.
+The bill, passed by the US House of Representatives earlier this week, gives Trump broad powers to levy tariffs of up to 100% on the top five purchasers of Russian oil and gas – most significantly China and India.
+At Trump's behest, the bill also extends to Iran's energy and weapons sectors.
+The bill is named after the late Senator Lindsey Graham, one of Ukraine's staunchest defenders in Washington before his death on 11 July.
+The 48-page bill, formally titled the Lindsey O Graham Sanctioning Russia and Iran Act of 2026, includes exceptions for countries that import less than 15% of their natural gas from Russia and are working to lessen their dependency.
+Additionally, the bill includes sanctions against Russian President Vladimir Putin, senior figures within the Russian government as well as banks and other financial institutions and Russia's "shadow fleet" of tankers used to circumvent existing sanctions.
+Senator Richard Blumenthal, a New York Democrat, previously described the legislation as "scorching sanctions" which would "throttle Putin's war machine".
+Data from the Centre for Research on Energy and Clean Air, or CREA, shows that China accounted for 50% of Russian crude exports between December 2022 and August 2026, followed by India at 37%.
+Turkey and the European Union each accounted for 5% during the same time period, although Russian energy exports to the EU have been decreasing.
+Senator Graham had long sought to push the Trump administration to do more to punish Russia for the war that followed its invasion of Ukraine in February 2022.
+The bill also received the support of Ukrainian President Volodymyr Zelensky, who thanked Trump for signing the "critically important legislation".
+"The best way to honour Lindsey's memory will be to implement the provisions of this law fully and swiftly," he wrote on social media.
+"Senator Graham never doubted for a second that America has enough strength to stand up to dictators and achieve results if it acts the right way."
+Graham, 71, died on 11 July of an "aortic dissection" caused by cardiovascular disease shortly after returning from a trip to Kyiv.
+"He died doing the work he was born to do," Trump said at the time.
+Prior to his death, he was widely considered one of Ukraine's fiercest allies on Capitol Hill, at a time when Republicans were bitterly divided over the extent of US involvement abroad and the amount of aid being given to Ukraine.
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-18T22:05:47+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
+    readTime: 7,
   },
   {
     id: "anthropic-selects-accenture-as-first-emb-9dfe2d69",
@@ -192,6 +752,20 @@ The company emphasized that it is still responsible for the safety of its models
     publishedAt: "2026-09-18T21:16:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-49059327",
+    readTime: 2,
+  },
+  {
+    id: "amazon-palantir-and-12-more-top-tech-sto-fb83dc68",
+    title: "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+    titleJa: "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+    summaryJa: "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
+    bodyOriginal: `The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.`,
+    bodyJa: `The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
+    publishedAt: "2026-09-18T21:14:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-77701466",
     readTime: 2,
   },
   {
@@ -1393,494 +1967,6 @@ Related topics
     category: "自動車",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d090/live/59b31070-b2b8-11f1-a430-4d16ee157c41.png",
     readTime: 9,
-  },
-  {
-    id: "bank-of-japan-raises-interest-rates-to-3-a7dfceda",
-    title: "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-    titleJa: "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
-    summaryJa: "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
-    bodyOriginal: `The Bank of Japan has raised its policy rate by 25 basis points to 1.25%, the highest level since 1995.
-The move also marked a quickening in the BOJ's rate hike cycle since it started monetary policy normalization in March 2024, with the rise taking place three months from the BOJ's last hike, as compared to six months previously.
-The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike. The duo are seen as reflationists and were appointed by Prime Minister Sanae Takaichi earlier this year.
-The rise in rate hikes was widely expected, with almost 90% of economists surveyed by CNBC expecting the 25-basis-point tightening. Those surveyed also correctly predicted the dissenters to the decision.
-In its statement, the BOJ said the move was because of a risk that inflation will deviate upward to beyond its 2% target.
-The central bank added that it aims to stabilize underlying inflation at "around 2%" so that price rises do not overshoot its target and adversely affect the Japanese economy afterward.
-The hike comes amid rising inflation in the country and a historically weak yen, with the latest inflation headline rate for August at 1.9% and Tokyo and Washington conducting a coordinated intervention to prop up the yen.
-The currency traded at 156.64 after the decision, weakening 0.45%, while the benchmark 10-year Japanese government bond yield fell 4.9 basis points to 2.947%.
-Dissenter Asada noted that as the core inflation rate was below 2%, he was of the view that the economic situation may not be strong, and instead advocated for a hold. Core inflation for August stood at 1.7%, down from 1.8% in July.
-Sato also said current economic and price developments did not appear to have substantially accelerated compared to before.
-The U.S. has been vocal about Japan continuing its rate-hiking cycle, pressuring Takaichi's preference for an easy monetary policy and an expansionary fiscal policy.
-Most recently, Treasury Secretary Scott Bessent told BOJ Governor Kazuo Ueda to take "decisive market and monetary steps" at the G20 finance ministers and central bank governors meeting earlier this month.`,
-    bodyJa: `The Bank of Japan has raised its policy rate by 25 basis points to 1.25%, the highest level since 1995.
-The move also marked a quickening in the BOJ's rate hike cycle since it started monetary policy normalization in March 2024, with the rise taking place three months from the BOJ's last hike, as compared to six months previously.
-The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike. The duo are seen as reflationists and were appointed by Prime Minister Sanae Takaichi earlier this year.
-The rise in rate hikes was widely expected, with almost 90% of economists surveyed by CNBC expecting the 25-basis-point tightening. Those surveyed also correctly predicted the dissenters to the decision.
-In its statement, the BOJ said the move was because of a risk that inflation will deviate upward to beyond its 2% target.
-The central bank added that it aims to stabilize underlying inflation at "around 2%" so that price rises do not overshoot its target and adversely affect the Japanese economy afterward.
-The hike comes amid rising inflation in the country and a historically weak yen, with the latest inflation headline rate for August at 1.9% and Tokyo and Washington conducting a coordinated intervention to prop up the yen.
-The currency traded at 156.64 after the decision, weakening 0.45%, while the benchmark 10-year Japanese government bond yield fell 4.9 basis points to 2.947%.
-Dissenter Asada noted that as the core inflation rate was below 2%, he was of the view that the economic situation may not be strong, and instead advocated for a hold. Core inflation for August stood at 1.7%, down from 1.8% in July.
-Sato also said current economic and price developments did not appear to have substantially accelerated compared to before.
-The U.S. has been vocal about Japan continuing its rate-hiking cycle, pressuring Takaichi's preference for an easy monetary policy and an expansionary fiscal policy.
-Most recently, Treasury Secretary Scott Bessent told BOJ Governor Kazuo Ueda to take "decisive market and monetary steps" at the G20 finance ministers and central bank governors meeting earlier this month.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
-    publishedAt: "2026-09-18T03:31:45+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "un-mission-finds-evidence-signaling-u-s-609ee8a0",
-    title: "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-    titleJa: "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
-    summaryJa: "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
-    bodyOriginal: `A United Nations fact-finding mission said there was evidence to believe that the U.S. committed war crimes during the Iran war, lending credibility to Tehran's similar claims.
-There are "reasonable grounds" to believe that Washington's forces "committed the war crime of launching indiscriminate attacks resulting in the loss of life or injury to civilians or damage to civilian objects," the UN's Independent International Fact-Finding Mission on Iran said on Thursday.
-The mission pointed out the Tomahawk missile strike on a primary school that killed more than 150 people in the city of Minab, and another airstrike where missiles were used against a "clearly identifiable sports complex and residential area," killing 22 civilians.
-The report said the school was the intended point of impact, and the resulting damage wasn't the result of an errant strike or collateral damage from an attack on a compound of Iran's Revolutionary Guard next to the school.
-The experts said they found no information indicating that the school was used for military purposes at the time.
-A State Department Official said the U.S. does not give credibility to the report's findings, adding that the UN council "pushes anti-American rhetoric and antisemitism" and "appeases repressive regimes."
-CNBC has reached out to the Pentagon for comments.
-The Associated Press reported that the White House has also pushed back on the report, with spokesperson Anna Kelly saying "The only party in this conflict that has committed war crimes is the Iranian regime."
-The fact-finding mission also charged Iran with human rights violations and "crimes against humanity committed."
-Washington had withdrawn from the UN Human Rights Council via an executive order from President Donald Trump in February 2025, saying that some UN agencies and bodies, including the council, were acting contrary to the interests of the U.S.
-Separately, hopes are rising again that negotiations around the Middle East conflict could restart. According to an MS NOW report, government officials have said that a meeting between Gulf Arab nations, the U.S. and Iran could take place around the time of the United Nations General Assembly next week.
-The report comes as the U.S. approved the Iranian delegation's travel to attend the United Nations General Assembly. A State Department spokesperson said that the delegation will be under travel restrictions, and will be prohibited from purchasing luxury or other goods.
-The AP reported that Tehran's delegation is expected to include President Masoud Pezeshkian and Foreign Minister Abbas Araghchi.
-— CNBC's Sam Meredith contributed to this report.`,
-    bodyJa: `A United Nations fact-finding mission said there was evidence to believe that the U.S. committed war crimes during the Iran war, lending credibility to Tehran's similar claims.
-There are "reasonable grounds" to believe that Washington's forces "committed the war crime of launching indiscriminate attacks resulting in the loss of life or injury to civilians or damage to civilian objects," the UN's Independent International Fact-Finding Mission on Iran said on Thursday.
-The mission pointed out the Tomahawk missile strike on a primary school that killed more than 150 people in the city of Minab, and another airstrike where missiles were used against a "clearly identifiable sports complex and residential area," killing 22 civilians.
-The report said the school was the intended point of impact, and the resulting damage wasn't the result of an errant strike or collateral damage from an attack on a compound of Iran's Revolutionary Guard next to the school.
-The experts said they found no information indicating that the school was used for military purposes at the time.
-A State Department Official said the U.S. does not give credibility to the report's findings, adding that the UN council "pushes anti-American rhetoric and antisemitism" and "appeases repressive regimes."
-CNBC has reached out to the Pentagon for comments.
-The Associated Press reported that the White House has also pushed back on the report, with spokesperson Anna Kelly saying "The only party in this conflict that has committed war crimes is the Iranian regime."
-The fact-finding mission also charged Iran with human rights violations and "crimes against humanity committed."
-Washington had withdrawn from the UN Human Rights Council via an executive order from President Donald Trump in February 2025, saying that some UN agencies and bodies, including the council, were acting contrary to the interests of the U.S.
-Separately, hopes are rising again that negotiations around the Middle East conflict could restart. According to an MS NOW report, government officials have said that a meeting between Gulf Arab nations, the U.S. and Iran could take place around the time of the United Nations General Assembly next week.
-The report comes as the U.S. approved the Iranian delegation's travel to attend the United Nations General Assembly. A State Department spokesperson said that the delegation will be under travel restrictions, and will be prohibited from purchasing luxury or other goods.
-The AP reported that Tehran's delegation is expected to include President Masoud Pezeshkian and Foreign Minister Abbas Araghchi.
-— CNBC's Sam Meredith contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-09-18T03:09:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "japan-raises-interest-rate-to-new-31-yea-1dfd8d95",
-    title: "Japan raises interest rate to new 31-year high to curb rising prices",
-    titleJa: "Japan raises interest rate to new 31-year high to curb rising prices",
-    summaryJa: "Central banks around the world have hiked rates as high energy prices are pushing up inflation.",
-    bodyOriginal: `Japan raises interest rate to new 31-year high to curb rising prices
-- Published
-Japan's central bank has raised its main interest rate to a fresh 31-year high as it continues to move away from decades of ultra-low borrowing costs and as the country faces increasing economic pressures.
-In a widely expected move on Friday, the Bank of Japan (BOJ) increased the rate from 1% to 1.25% - a level not seen since 1995.
-It comes as major central banks around the world are hiking rates as higher energy prices caused by the Iran war are helping to push up inflation.
-On Wednesday, the US Federal Reserve raised its benchmark interest rate for the first time in over three years, while the European Central Bank also increased its borrowing costs earlier this month.
-The BOJ has been raising the rate since 2024, when it stood at minus 0.1%. It has now hiked rates six times in the last two and a half years.
-Since then the bank has been steadily putting up the rate as it tries to reach a level similar to other major economies.
-When a central bank raises rates, the country's currency usually becomes stronger as it makes the it more attractive to traders.
-Japan is facing several economic challenges including a persistently weak yen, rising prices and a shrinking workforce.
-Official figures published on Friday ahead of the BOJ announcement showed that inflation eased slightly last month.
-Core inflation fell to 1.7% in August from 1.8% the previous month but remains close to the bank's 2% target level.
-While Japan's inflation rate is not high by international standards, rising prices are a relatively new development in the economy.
-Until recently the country had experienced very low inflation or deflation - falling prices - for around three decades.
-Global oil and gas prices have risen this year as the Iran war caused major disruptions to shipments through the key Strait of Hormuz shipping route.
-Japan is particularly vulnerable to those supply interruptions as it is heavily reliant on energy from the Middle East.
-The country's currency has also been under pressure in recent months.
-In August, Tokyo and Washington confirmed that they had jointly intervened to halt a slide in the yen after it fell to a fresh 40-year low.
-The coordinated intervention was the first since 2011, when both countries took action together to weaken the yen after the devastating earthquake and tsunami that hit eastern Japan.
-Both Japan's Ministry of Finance and US Treasury Secretary Scott Bessent said at the time that they would not hesitate to conduct more joint interventions in the future.
-Bessent has also been ramping up pressure on the BOJ to raise interest rates to help support the yen, calling on its Governor Kazuo Ueda to "do the right thing".`,
-    bodyJa: `Japan raises interest rate to new 31-year high to curb rising prices
-- Published
-Japan's central bank has raised its main interest rate to a fresh 31-year high as it continues to move away from decades of ultra-low borrowing costs and as the country faces increasing economic pressures.
-In a widely expected move on Friday, the Bank of Japan (BOJ) increased the rate from 1% to 1.25% - a level not seen since 1995.
-It comes as major central banks around the world are hiking rates as higher energy prices caused by the Iran war are helping to push up inflation.
-On Wednesday, the US Federal Reserve raised its benchmark interest rate for the first time in over three years, while the European Central Bank also increased its borrowing costs earlier this month.
-The BOJ has been raising the rate since 2024, when it stood at minus 0.1%. It has now hiked rates six times in the last two and a half years.
-Since then the bank has been steadily putting up the rate as it tries to reach a level similar to other major economies.
-When a central bank raises rates, the country's currency usually becomes stronger as it makes the it more attractive to traders.
-Japan is facing several economic challenges including a persistently weak yen, rising prices and a shrinking workforce.
-Official figures published on Friday ahead of the BOJ announcement showed that inflation eased slightly last month.
-Core inflation fell to 1.7% in August from 1.8% the previous month but remains close to the bank's 2% target level.
-While Japan's inflation rate is not high by international standards, rising prices are a relatively new development in the economy.
-Until recently the country had experienced very low inflation or deflation - falling prices - for around three decades.
-Global oil and gas prices have risen this year as the Iran war caused major disruptions to shipments through the key Strait of Hormuz shipping route.
-Japan is particularly vulnerable to those supply interruptions as it is heavily reliant on energy from the Middle East.
-The country's currency has also been under pressure in recent months.
-In August, Tokyo and Washington confirmed that they had jointly intervened to halt a slide in the yen after it fell to a fresh 40-year low.
-The coordinated intervention was the first since 2011, when both countries took action together to weaken the yen after the devastating earthquake and tsunami that hit eastern Japan.
-Both Japan's Ministry of Finance and US Treasury Secretary Scott Bessent said at the time that they would not hesitate to conduct more joint interventions in the future.
-Bessent has also been ramping up pressure on the BOJ to raise interest rates to help support the yen, calling on its Governor Kazuo Ueda to "do the right thing".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-18T02:56:35+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bae8/live/de6aa0d0-b24a-11f1-ad58-cb8b59d51cf1.jpg",
-    readTime: 7,
-  },
-  {
-    id: "oil-prices-fall-as-saudi-supply-hopes-ou-53506360",
-    title: "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-    titleJa: "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
-    summaryJa: "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
-    bodyOriginal: `Oil prices fell on Friday as investors weighed fresh strikes between Saudi Arabia and Yemen's Iran-backed Houthis against signs that additional Saudi crude could reach global markets and help ease supply concerns.
-Brent crude futures, the international benchmark, were down 0.94% to $103.83 per barrel. U.S. West Texas Intermediate futures were down 0.88% to $101.01 per barrel.
-Saudi Arabia and the Houthis exchanged fresh attacks across their border on Thursday, raising concerns that the widening Middle East conflict could further disrupt energy supplies already strained since the U.S. and Israel attacked Iran in February.
-Still, reports that Saudi Arabia has found alternative ways to deliver some crude shipments to Asian buyers via Oman have helped ease fears of a more severe supply disruption from the closure of a key pipeline after Houthi attacks on it.
-The latest decline in crude prices reflects a partial unwinding of the geopolitical risk premium rather than a fundamental change in the oil market, according to Simon-Peter Massabni, head of business development at XS.com.
-Improved logistics for Saudi crude exports have reduced the market's assessment of how much supply is at risk, Massabni said, adding that oil prices reflect not just available barrels but also the probability of those supplies being disrupted.
-Still, the Middle East supply network remains vulnerable, with traders particularly sensitive to developments around the Strait of Hormuz, export routes and oil terminals, he said. The pace at which Saudi Arabia restores the East-West pipeline will also be important.
-Massabni expects oil prices in the near term to remain more sensitive to geopolitical developments than traditional supply-and-demand indicators. Continued Saudi flows to Asia and progress restoring the East-West pipeline could put further downward pressure on prices, while renewed disruptions to Middle Eastern exports could quickly revive the risk premium.`,
-    bodyJa: `Oil prices fell on Friday as investors weighed fresh strikes between Saudi Arabia and Yemen's Iran-backed Houthis against signs that additional Saudi crude could reach global markets and help ease supply concerns.
-Brent crude futures, the international benchmark, were down 0.94% to $103.83 per barrel. U.S. West Texas Intermediate futures were down 0.88% to $101.01 per barrel.
-Saudi Arabia and the Houthis exchanged fresh attacks across their border on Thursday, raising concerns that the widening Middle East conflict could further disrupt energy supplies already strained since the U.S. and Israel attacked Iran in February.
-Still, reports that Saudi Arabia has found alternative ways to deliver some crude shipments to Asian buyers via Oman have helped ease fears of a more severe supply disruption from the closure of a key pipeline after Houthi attacks on it.
-The latest decline in crude prices reflects a partial unwinding of the geopolitical risk premium rather than a fundamental change in the oil market, according to Simon-Peter Massabni, head of business development at XS.com.
-Improved logistics for Saudi crude exports have reduced the market's assessment of how much supply is at risk, Massabni said, adding that oil prices reflect not just available barrels but also the probability of those supplies being disrupted.
-Still, the Middle East supply network remains vulnerable, with traders particularly sensitive to developments around the Strait of Hormuz, export routes and oil terminals, he said. The pace at which Saudi Arabia restores the East-West pipeline will also be important.
-Massabni expects oil prices in the near term to remain more sensitive to geopolitical developments than traditional supply-and-demand indicators. Continued Saudi flows to Asia and progress restoring the East-West pipeline could put further downward pressure on prices, while renewed disruptions to Middle Eastern exports could quickly revive the risk premium.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
-    publishedAt: "2026-09-18T01:35:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "early-bowie-music-available-to-stream-fo-b2bede7c",
-    title: "Early Bowie music available to stream for first time",
-    titleJa: "Early Bowie music available to stream for first time",
-    summaryJa: "Previously unheard material from the start of the artist's career has been released for the first time.",
-    bodyOriginal: `Early Bowie music available to stream for first time
-- Published
-Ten years ago Alec Palao was casually flicking through a collection of old records when he noticed some faint pencil markings that were enough to draw a gasp. "Davie Jones," it read.
-What he had found was musical gold: five unreleased songs by a young David Bowie, filed away under his birth name.
-From Friday, those tracks, plus another five unreleased songs that came Palao's way after the initial discovery, will be available to buy and stream.
-"They are probably the most visceral, raw you'll ever hear the man," said Palao, a music historian and archivist.
-For the music industry, David Bowie is big business. He entered the mainstream with his 1969 single, Space Oddity, and went on to achieve 11 number one albums.
-He died in 2016, but remains one of Britain's most recognisable cultural icons.
-Six of the previously unreleased tracks from the new collection will be available on vinyl, tapping into Bowie's popularity in that format specifically. In 2022, Bowie was named the best-selling vinyl artist of the 21st century by Music Week, ahead of The Beatles.
-"It's just a fascinating window into London in 1965 and its possibilities," said Palao.
-In the early sixties, Bowie was a teenager, performing as Davie Jones at London clubs and dreaming of stardom. Many of the tracks he recorded in that period are either little known or lost to time.
-But his first professional producer, Shel Talmy, had kept a recording from 1965 among his collection of material by other artists he had worked with: The Kinks; The Who; Manfred Mann; The Easybeats.
-It was within Talmy's collection that Palao came across the valuable 12-inch acetate.
-That material and the five other previously unheard tunes, as well as demos and remastered songs, form part of a new, posthumous album called The Shel Talmy Recordings.
-A limited edition vinyl will be sold at Record Store Day and HMV outlets.
-In 2022, David Bowie's estate sold the publishing rights to decades of the singer's work to Warner Music Group. For this new material, Palao, along with Talmy Enterprises Incorporated, licensed the album to Warner, and it will be released by the company's subsidiary, Parlophone. Royalties will be paid to Bowie's estate by Warner.
-Bowie experimenting
-"I think it's wonderful that people can get to hear the early Davie Jones music," said Dana Gillespie, an early collaborator of Bowie's.
-She met him after a performance at the Marquee Club in London when Bowie was 17.
-"They're songs that don't really sound like David but it's him trying to find his voice. He was experimenting."
-Gillespie became close friends with Bowie, eventually working with him on his "Ziggy Stardust" album. Talmy worked with both artists and Bowie's song "Andy Warhol", on his fourth studio album, was originally written for Gillespie.
-"He was very driven," remembered Gillespie, who is still touring and making music at the age of 77.
-"Some time in the sixties, he asked me to come and visit his parents. We were in his little house in Bromley, and when his parents left the room he turned to me and said: 'Whatever it takes, I want to get out of here.' And he did," she said.
-It is a decade since Palao found the recordings. Since then, it has been a long process to bring them to market. The result is an album that he says is "absolutely pure rock 'n' roll".
-"If you're looking for clues as to what he was to become, there's maybe less of that," said Palao, "but objectively speaking, I feel it's important stuff."
-Gillespie is excited by one song in particular.
-"There was a famous café called the Gioconda in Denmark Street where I often used to go with David," she said, recalling the centre of musical life in London in the 1960s.
-"One day when I was sitting there, David rushed in and took me by the hand. He said: 'You have to hear this'.
-"He ran with me around the corner and squeezed us into a small listening booth. I had one speaker and he had the other, and he played me 'I Pity The Fool'."
-A remastered version of the song can be heard in the new album.
-For music historians, fans of Bowie, and those who were there, the new album is another chance to reconnect with an enduring cultural icon.
-"David always wanted to be a big star," said Gillespie. "I'm so happy that his early stuff hasn't been forgotten."
-Related topics
-- Published27 August
-- Published10 January`,
-    bodyJa: `Early Bowie music available to stream for first time
-- Published
-Ten years ago Alec Palao was casually flicking through a collection of old records when he noticed some faint pencil markings that were enough to draw a gasp. "Davie Jones," it read.
-What he had found was musical gold: five unreleased songs by a young David Bowie, filed away under his birth name.
-From Friday, those tracks, plus another five unreleased songs that came Palao's way after the initial discovery, will be available to buy and stream.
-"They are probably the most visceral, raw you'll ever hear the man," said Palao, a music historian and archivist.
-For the music industry, David Bowie is big business. He entered the mainstream with his 1969 single, Space Oddity, and went on to achieve 11 number one albums.
-He died in 2016, but remains one of Britain's most recognisable cultural icons.
-Six of the previously unreleased tracks from the new collection will be available on vinyl, tapping into Bowie's popularity in that format specifically. In 2022, Bowie was named the best-selling vinyl artist of the 21st century by Music Week, ahead of The Beatles.
-"It's just a fascinating window into London in 1965 and its possibilities," said Palao.
-In the early sixties, Bowie was a teenager, performing as Davie Jones at London clubs and dreaming of stardom. Many of the tracks he recorded in that period are either little known or lost to time.
-But his first professional producer, Shel Talmy, had kept a recording from 1965 among his collection of material by other artists he had worked with: The Kinks; The Who; Manfred Mann; The Easybeats.
-It was within Talmy's collection that Palao came across the valuable 12-inch acetate.
-That material and the five other previously unheard tunes, as well as demos and remastered songs, form part of a new, posthumous album called The Shel Talmy Recordings.
-A limited edition vinyl will be sold at Record Store Day and HMV outlets.
-In 2022, David Bowie's estate sold the publishing rights to decades of the singer's work to Warner Music Group. For this new material, Palao, along with Talmy Enterprises Incorporated, licensed the album to Warner, and it will be released by the company's subsidiary, Parlophone. Royalties will be paid to Bowie's estate by Warner.
-Bowie experimenting
-"I think it's wonderful that people can get to hear the early Davie Jones music," said Dana Gillespie, an early collaborator of Bowie's.
-She met him after a performance at the Marquee Club in London when Bowie was 17.
-"They're songs that don't really sound like David but it's him trying to find his voice. He was experimenting."
-Gillespie became close friends with Bowie, eventually working with him on his "Ziggy Stardust" album. Talmy worked with both artists and Bowie's song "Andy Warhol", on his fourth studio album, was originally written for Gillespie.
-"He was very driven," remembered Gillespie, who is still touring and making music at the age of 77.
-"Some time in the sixties, he asked me to come and visit his parents. We were in his little house in Bromley, and when his parents left the room he turned to me and said: 'Whatever it takes, I want to get out of here.' And he did," she said.
-It is a decade since Palao found the recordings. Since then, it has been a long process to bring them to market. The result is an album that he says is "absolutely pure rock 'n' roll".
-"If you're looking for clues as to what he was to become, there's maybe less of that," said Palao, "but objectively speaking, I feel it's important stuff."
-Gillespie is excited by one song in particular.
-"There was a famous café called the Gioconda in Denmark Street where I often used to go with David," she said, recalling the centre of musical life in London in the 1960s.
-"One day when I was sitting there, David rushed in and took me by the hand. He said: 'You have to hear this'.
-"He ran with me around the corner and squeezed us into a small listening booth. I had one speaker and he had the other, and he played me 'I Pity The Fool'."
-A remastered version of the song can be heard in the new album.
-For music historians, fans of Bowie, and those who were there, the new album is another chance to reconnect with an enduring cultural icon.
-"David always wanted to be a big star," said Gillespie. "I'm so happy that his early stuff hasn't been forgotten."
-Related topics
-- Published27 August
-- Published10 January`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-17T23:01:03+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ba7/live/8786a940-b2da-11f1-849c-b1b42bb6aefc.jpg",
-    readTime: 10,
-  },
-  {
-    id: "why-we-bought-our-first-home-with-a-100-5427387d",
-    title: "Why we bought our first home with a 100% mortgage - despite the risks",
-    titleJa: "Why we bought our first home with a 100% mortgage - despite the risks",
-    summaryJa: "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
-    bodyOriginal: `Why we bought our first home with a 100% mortgage - despite the risks
-- Published
-Until last year, Conroy, 32, and his partner Amber, 28, saw little prospect of owning their own home. They were renting in central Manchester where they work and could not afford to save up for a deposit.
-Then they came across a relatively niche, and some experts say riskier, type of mortgage that offered a solution.
-The Track Record mortgage from Skipton Building Society covers 100% of the value of a property, with the borrower paying nothing upfront.
-Borrowers must meet strict eligibility checks and pay a higher interest rate - in Conroy and Amber's case 5.33% fixed for five years - but they were happy to do this. And in August they bought a four-bed home for £242,000 in Swinton on the edge of Manchester.
-"I don't think it's dawned on us it's really ours," says Conroy, a video editor.
-The return of low-deposit deals
-According to the Bank of England, the share of UK mortgages with deposits worth less than 10% of the property's value is currently the highest it has been since 2008, external when such loans were widely available.
-The average deposit for first-time buyers is currently around 20%.
-It comes as lenders such as Lloyds, Santander, Skipton and Yorkshire Building Society have launched a raft of new mortgage deals over the last few years covering upwards of 95% of the value of a property, and in some cases as much as 100%.
-They say they want to help first-time buyers get on the housing ladder as property prices continue to rise and while saving for a deposit remains a struggle.
-But these loans tend to charge higher rates, aren't available for all types of property or borrower, and come with risks customers should be aware of.
-Conroy and Amber, a solicitor, have a 25-year loan with monthly repayments of £1,500 - roughly what they were paying in rent.
-He says they feel comfortable with the higher cost because they "earn quite well" and expect their salaries to rise.
-But he is aware there is a greater risk of falling into negative equity with a no- or low-deposit mortgage. That is when the value of a property falls below the value of the loan still owed on it - leaving the borrower with potentially painful costs if they suddenly have to sell.
-Conroy says they plan to overpay their mortgage for the first five years to build up more equity in their home.
-"There is always the element of a gamble with the property market," he says.
-"But I have researched the area we moved to and don't think house prices are going to drop."
-'We plan to stay here our whole lives'
-Twenty-seven-year-old Bronya and her partner George, 29, also used a low-deposit mortgage to buy their four-bedroom house in Rhuddlan, North Wales in August.
-Lloyds lent them £258,000 - roughly 98% of the property's value - over a 33-year term and they only had to put down £5,000 as a deposit.
-The couple pay an interest rate of 5.89%, fixed for five years, equating to monthly repayments of £1,400 - about the same as what they paid to rent a one-bed flat before.
-Bronya, a civil servant, says they could have put down a bigger deposit but wanted to use their savings for a renovation project costing upwards of £20,000.
-They are aware of the risks of negative equity but believe the refurbishment will boost the value of their home.
-"We also plan to stay here our whole lives," George adds, explaining that they are prepared to ride out any dips in the property market.
-Widespread uptake of low-deposit mortgages by borrowers who could not afford them was seen as a major factor in the 2008 global financial crisis.
-But today's deals have much stronger affordability checks and do not pose the same risks, says David Hollingworth, associate director at brokers L&C Mortgages.
-Borrowers of Skipton's zero-deposit mortgage, for example, have to prove they have kept up with their rent for at least 12 consecutive months and credit payments for the last six months.
-And Lloyds won't issue one of its £5,000 deposit mortgages for new-build properties and shared ownership homes.
-Hollingworth says lenders are recognising that some people have "good affordability but may be struggling to save for a deposit while paying a rent and dealing with cost of living pressures".
-Following a recent rule change, he adds, lenders are also offering more "flex" on how much someone can borrow as long as it's within their means.
-Nevertheless, he urges borrowers to use common sense.
-"Think carefully - what do monthly payments look like? Are you aware that interest rates could go up?"
-Get in touch
-Are you buying your first home? How have you managed it?`,
-    bodyJa: `Why we bought our first home with a 100% mortgage - despite the risks
-- Published
-Until last year, Conroy, 32, and his partner Amber, 28, saw little prospect of owning their own home. They were renting in central Manchester where they work and could not afford to save up for a deposit.
-Then they came across a relatively niche, and some experts say riskier, type of mortgage that offered a solution.
-The Track Record mortgage from Skipton Building Society covers 100% of the value of a property, with the borrower paying nothing upfront.
-Borrowers must meet strict eligibility checks and pay a higher interest rate - in Conroy and Amber's case 5.33% fixed for five years - but they were happy to do this. And in August they bought a four-bed home for £242,000 in Swinton on the edge of Manchester.
-"I don't think it's dawned on us it's really ours," says Conroy, a video editor.
-The return of low-deposit deals
-According to the Bank of England, the share of UK mortgages with deposits worth less than 10% of the property's value is currently the highest it has been since 2008, external when such loans were widely available.
-The average deposit for first-time buyers is currently around 20%.
-It comes as lenders such as Lloyds, Santander, Skipton and Yorkshire Building Society have launched a raft of new mortgage deals over the last few years covering upwards of 95% of the value of a property, and in some cases as much as 100%.
-They say they want to help first-time buyers get on the housing ladder as property prices continue to rise and while saving for a deposit remains a struggle.
-But these loans tend to charge higher rates, aren't available for all types of property or borrower, and come with risks customers should be aware of.
-Conroy and Amber, a solicitor, have a 25-year loan with monthly repayments of £1,500 - roughly what they were paying in rent.
-He says they feel comfortable with the higher cost because they "earn quite well" and expect their salaries to rise.
-But he is aware there is a greater risk of falling into negative equity with a no- or low-deposit mortgage. That is when the value of a property falls below the value of the loan still owed on it - leaving the borrower with potentially painful costs if they suddenly have to sell.
-Conroy says they plan to overpay their mortgage for the first five years to build up more equity in their home.
-"There is always the element of a gamble with the property market," he says.
-"But I have researched the area we moved to and don't think house prices are going to drop."
-'We plan to stay here our whole lives'
-Twenty-seven-year-old Bronya and her partner George, 29, also used a low-deposit mortgage to buy their four-bedroom house in Rhuddlan, North Wales in August.
-Lloyds lent them £258,000 - roughly 98% of the property's value - over a 33-year term and they only had to put down £5,000 as a deposit.
-The couple pay an interest rate of 5.89%, fixed for five years, equating to monthly repayments of £1,400 - about the same as what they paid to rent a one-bed flat before.
-Bronya, a civil servant, says they could have put down a bigger deposit but wanted to use their savings for a renovation project costing upwards of £20,000.
-They are aware of the risks of negative equity but believe the refurbishment will boost the value of their home.
-"We also plan to stay here our whole lives," George adds, explaining that they are prepared to ride out any dips in the property market.
-Widespread uptake of low-deposit mortgages by borrowers who could not afford them was seen as a major factor in the 2008 global financial crisis.
-But today's deals have much stronger affordability checks and do not pose the same risks, says David Hollingworth, associate director at brokers L&C Mortgages.
-Borrowers of Skipton's zero-deposit mortgage, for example, have to prove they have kept up with their rent for at least 12 consecutive months and credit payments for the last six months.
-And Lloyds won't issue one of its £5,000 deposit mortgages for new-build properties and shared ownership homes.
-Hollingworth says lenders are recognising that some people have "good affordability but may be struggling to save for a deposit while paying a rent and dealing with cost of living pressures".
-Following a recent rule change, he adds, lenders are also offering more "flex" on how much someone can borrow as long as it's within their means.
-Nevertheless, he urges borrowers to use common sense.
-"Think carefully - what do monthly payments look like? Are you aware that interest rates could go up?"
-Get in touch
-Are you buying your first home? How have you managed it?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-17T23:00:53+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57a2/live/3087bfa0-b2ba-11f1-9830-658a48c7da16.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-virtual-worlds-where-robots-are-trai-e6af584f",
-    title: "The virtual worlds where robots are trained",
-    titleJa: "The virtual worlds where robots are trained",
-    summaryJa: "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
-    bodyOriginal: `The virtual worlds where robots are trained
-- Published
-Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.
-Given that a robot recently beat Usain Bolt's 100m sprint record, it's not the most startling achievement.
-But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.
-I'm at Vsim, a British start-up based in Cambridge. Founders Michelle Lu and Kier Storey hope one day their software will control robots that can navigate and do useful tasks in the home and workplace.
-But there's a long way to go.
-"It's a weird situation with robotics because actually the stuff that we find as humans to be incredibly difficult, like gymnastics, you can get robots to do reasonably well. The stuff that humans are really good at, like fine dexterity, is really hard in robots," Storey says.
-Freddo's skills were honed in a virtual environment, where a task can be performed in a computer simulation millions of times. Once the optimum solution (known as a policy) is found, it can be uploaded and used by the hardware - in this case Freddo.
-Such virtual simulations are a common way to train robots. Tech giant Nvidia has a system called Isaac Sim which works that way - Lu and Storey both worked on an early version of it.
-In 2022 they decided to set up Vsim, to build the their own training system environment and other tools.
-As they were starting from scratch Lu and Storey could optimise the software to exploit the powerful computer chips used in AI, known as graphics processing units or GPUs.
-"The underlying algorithms that we were using for most of these robotic simulations they hark back to the 1970s and 1980s, but those algorithms are not really brilliant fits for GPUs," Storey says.
-Within months they realised their system could work much faster than anything they had seen before.
-"Eighteen months in and we actually have a completely functional, super high-performance simulator," says Lu.
-The software is so efficient that it can run on the hardware carried by Freddo. That means the robot can run tens of thousand of simulations while it is moving around.
-"It can look about a second, or so, ahead into the future for 20,000 different kind of combinations of things that might happen," Storey explains.
-And that would be vital for a robot moving around an unstructured environment like the average home.
-"Things outside of the robot's control, like humans, animals or even other robots, could do things that require a change of strategy. These unexpected events could happen very quickly and the robot needs to be able to quickly adapt to ensure its actions remain safe and on-mission," Lu says.
-Vsim is a start-up with 10 engineers working on its tech. Nvidia is at the other end of the industry. It dominates the market for computer chips used for AI and has a leading robotics software division, with hundreds of engineers.
-It does not build robots, instead it has a suite of software designed to let organisations train and control robots.
-That includes virtual simulation training systems and a so-called world model, external, called Cosmos, which gives a robot an understanding of the physics of the real world and how its environment might change as it moves around.
-But even with the powerful computer resources available to Nvidia, the software only gives a rudimentary understanding of the real world.
-"Manipulation, - where I just grab a bottle, that's not too hard. The problem is when you start doing long-horizon tasks, where I say: 'I want you to take the bottle and I want you to fill it up and I want you to go pour'," says Spencer Huang, director of product for robotics at Nvidia.
-But he's confident that good progress is being made. This year Nvidia has started using AI agents to help build virtual environments to train robots and validate whether the solutions from training work or not.
-"When we talk about creating the [virtual] world and actually scanning it in - a lot of that is actually manual labour.
-"We're just throwing agents at it... it's basically given us a huge workforce," Huang says.
-Simulation is not the only method for training robots. They can also be trained by watching human or video demonstrations.
-Rika Antonova has been working in the field of robotics since 2015 and is currently an associate professor at the Department of Computer Science and Technology at the University of Cambridge.
-Her research is focused on, external developing software and hardware that can aid robots to learn complex behaviour.
-Antonova works with a training system called MuJoCo, owned by Google's DeepMind since 2021. It's open-source software, which means researchers can use it for free, and are allowed to tinker with the code.
-"It is very, very user-friendly. So for research groups or for small start-ups, that's useful," she says.
-She says that Vsim's approach - very fast simulation - is promising.
-"If you have a very, very fast simulator, then you can simulate hundreds of millions of samples in that few seconds that your robot is thinking about how to adjust its motion, and then you can change the motion almost in real time," she says.
-But those simulated environments are still rough approximations of the real world, which limits what can be trained.
-"There are certain things that are hard to model in simulation, like highly deformable objects and cutting," she says.
-It's a challenge that Nvidia and Lu and Storey at Vsim are working on.
-Lu says their system has "reduced approximation, using accurate simulations to train models that genuinely work in reality as well as they do in simulations."
-Soon a second robot, to be called Nacho, will be helping develop that tech.
-Lu says that should speed up their development process and ensure their software can run on different machines.
-And, of course, provide Freddo with some company.
-Related topics
-- Published19 August
-- Published12 August
-- Published7 August`,
-    bodyJa: `The virtual worlds where robots are trained
-- Published
-Freddo the robot walks across the office and takes a plastic bottled offered by a staff member.
-Given that a robot recently beat Usain Bolt's 100m sprint record, it's not the most startling achievement.
-But the speed by which Freddo has been trained to walk, recognise the bottle and grasp it is impressive. It took just a few minutes to develop those skills and upload them to Freddo. His developers say rival systems could take days to attain such skills.
-I'm at Vsim, a British start-up based in Cambridge. Founders Michelle Lu and Kier Storey hope one day their software will control robots that can navigate and do useful tasks in the home and workplace.
-But there's a long way to go.
-"It's a weird situation with robotics because actually the stuff that we find as humans to be incredibly difficult, like gymnastics, you can get robots to do reasonably well. The stuff that humans are really good at, like fine dexterity, is really hard in robots," Storey says.
-Freddo's skills were honed in a virtual environment, where a task can be performed in a computer simulation millions of times. Once the optimum solution (known as a policy) is found, it can be uploaded and used by the hardware - in this case Freddo.
-Such virtual simulations are a common way to train robots. Tech giant Nvidia has a system called Isaac Sim which works that way - Lu and Storey both worked on an early version of it.
-In 2022 they decided to set up Vsim, to build the their own training system environment and other tools.
-As they were starting from scratch Lu and Storey could optimise the software to exploit the powerful computer chips used in AI, known as graphics processing units or GPUs.
-"The underlying algorithms that we were using for most of these robotic simulations they hark back to the 1970s and 1980s, but those algorithms are not really brilliant fits for GPUs," Storey says.
-Within months they realised their system could work much faster than anything they had seen before.
-"Eighteen months in and we actually have a completely functional, super high-performance simulator," says Lu.
-The software is so efficient that it can run on the hardware carried by Freddo. That means the robot can run tens of thousand of simulations while it is moving around.
-"It can look about a second, or so, ahead into the future for 20,000 different kind of combinations of things that might happen," Storey explains.
-And that would be vital for a robot moving around an unstructured environment like the average home.
-"Things outside of the robot's control, like humans, animals or even other robots, could do things that require a change of strategy. These unexpected events could happen very quickly and the robot needs to be able to quickly adapt to ensure its actions remain safe and on-mission," Lu says.
-Vsim is a start-up with 10 engineers working on its tech. Nvidia is at the other end of the industry. It dominates the market for computer chips used for AI and has a leading robotics software division, with hundreds of engineers.
-It does not build robots, instead it has a suite of software designed to let organisations train and control robots.
-That includes virtual simulation training systems and a so-called world model, external, called Cosmos, which gives a robot an understanding of the physics of the real world and how its environment might change as it moves around.
-But even with the powerful computer resources available to Nvidia, the software only gives a rudimentary understanding of the real world.
-"Manipulation, - where I just grab a bottle, that's not too hard. The problem is when you start doing long-horizon tasks, where I say: 'I want you to take the bottle and I want you to fill it up and I want you to go pour'," says Spencer Huang, director of product for robotics at Nvidia.
-But he's confident that good progress is being made. This year Nvidia has started using AI agents to help build virtual environments to train robots and validate whether the solutions from training work or not.
-"When we talk about creating the [virtual] world and actually scanning it in - a lot of that is actually manual labour.
-"We're just throwing agents at it... it's basically given us a huge workforce," Huang says.
-Simulation is not the only method for training robots. They can also be trained by watching human or video demonstrations.
-Rika Antonova has been working in the field of robotics since 2015 and is currently an associate professor at the Department of Computer Science and Technology at the University of Cambridge.
-Her research is focused on, external developing software and hardware that can aid robots to learn complex behaviour.
-Antonova works with a training system called MuJoCo, owned by Google's DeepMind since 2021. It's open-source software, which means researchers can use it for free, and are allowed to tinker with the code.
-"It is very, very user-friendly. So for research groups or for small start-ups, that's useful," she says.
-She says that Vsim's approach - very fast simulation - is promising.
-"If you have a very, very fast simulator, then you can simulate hundreds of millions of samples in that few seconds that your robot is thinking about how to adjust its motion, and then you can change the motion almost in real time," she says.
-But those simulated environments are still rough approximations of the real world, which limits what can be trained.
-"There are certain things that are hard to model in simulation, like highly deformable objects and cutting," she says.
-It's a challenge that Nvidia and Lu and Storey at Vsim are working on.
-Lu says their system has "reduced approximation, using accurate simulations to train models that genuinely work in reality as well as they do in simulations."
-Soon a second robot, to be called Nacho, will be helping develop that tech.
-Lu says that should speed up their development process and ensure their software can run on different machines.
-And, of course, provide Freddo with some company.
-Related topics
-- Published19 August
-- Published12 August
-- Published7 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-17T23:00:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "healey-to-ask-eu-finance-ministers-to-le-2db9fd6b",
-    title: "Healey to ask EU finance ministers to let UK into industry scheme",
-    titleJa: "Healey to ask EU finance ministers to let UK into industry scheme",
-    summaryJa: "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
-    bodyOriginal: `Healey to ask EU finance ministers to let UK into industry scheme
-- Published
-The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.
-John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.
-But he will call on the EU to design its "Made in Europe" programme in a way that deepens ties with the UK "rather than erecting new barriers", Treasury sources told the BBC.
-Officials said Healey will tell European finance ministers it is important to "learn lessons" after talks collapsed last year for Britain to join an EU defence loans scheme.
-That dispute centred on how much money the UK would pay to join.
-The "Made in Europe" policy, officially called the Industrial Accelerator Act (IAA), is currently being considered by the bloc and aims to protect EU manufacturing with restrictions on goods from outside countries.
-There is concern in government the scheme could lock British firms out of European supply chains.
-Treasury officials said Healey wanted to reduce the economic impact of Brexit and build closer ties with the EU, but not at any cost to the UK.
-Healey said: "The next chapter of Britain's growth story will be written in more places.
-"To me, closer ties with the EU means British businesses – wherever they are based across the UK – get better access to both the supply chains and the customers they need to grow."
-Healey will use the meeting in Dublin to focus on tech firms, defence companies, and manufacturing.
-"The chancellor wants to make sure nothing holds them back," a Treasury source said.
-It comes after a reset summit with the EU was delayed after Sir Keir Starmer's resignation as prime minister.
-Treasury sources now expect that to take place in November.
-Healey's meeting in Dublin comes after it emerged earlier this week that he is in discussions about joining a global investment bank aimed at raising more money for defence spending.
-He is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
-Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
-Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
-Conservatives urge Burnham to rule out tax rises at Budget
-- Published15 hours ago
-UK in talks about joining global defence bank led by Canada
-- Published2 days ago
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Healey to ask EU finance ministers to let UK into industry scheme
-- Published
-The chancellor is to warn the European Union (EU) not to lock the UK out of its scheme to protect industries from unfair Chinese competition.
-John Healey will push for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin on Friday.
-But he will call on the EU to design its "Made in Europe" programme in a way that deepens ties with the UK "rather than erecting new barriers", Treasury sources told the BBC.
-Officials said Healey will tell European finance ministers it is important to "learn lessons" after talks collapsed last year for Britain to join an EU defence loans scheme.
-That dispute centred on how much money the UK would pay to join.
-The "Made in Europe" policy, officially called the Industrial Accelerator Act (IAA), is currently being considered by the bloc and aims to protect EU manufacturing with restrictions on goods from outside countries.
-There is concern in government the scheme could lock British firms out of European supply chains.
-Treasury officials said Healey wanted to reduce the economic impact of Brexit and build closer ties with the EU, but not at any cost to the UK.
-Healey said: "The next chapter of Britain's growth story will be written in more places.
-"To me, closer ties with the EU means British businesses – wherever they are based across the UK – get better access to both the supply chains and the customers they need to grow."
-Healey will use the meeting in Dublin to focus on tech firms, defence companies, and manufacturing.
-"The chancellor wants to make sure nothing holds them back," a Treasury source said.
-It comes after a reset summit with the EU was delayed after Sir Keir Starmer's resignation as prime minister.
-Treasury sources now expect that to take place in November.
-Healey's meeting in Dublin comes after it emerged earlier this week that he is in discussions about joining a global investment bank aimed at raising more money for defence spending.
-He is considering a bid to join the Defence, Security and Resilience Bank (DSRB), not long after his predecessor Rachel Reeves rejected the idea.
-Canada has been leading efforts to establish the bank, which supporters say would enable governments to borrow at lower costs to increase military spending.
-Paying for the UK's growing defence commitments is one of Healey's biggest headaches as he prepares for the Budget in October and next year's spending review.
-Conservatives urge Burnham to rule out tax rises at Budget
-- Published15 hours ago
-UK in talks about joining global defence bank led by Canada
-- Published2 days ago
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-17T22:07:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b5/live/362ff930-b2e3-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 7,
   },
 ];
 
