@@ -15,6 +15,402 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "ed-sheeran-admits-mistakes-as-he-address-096d210b",
+    title: "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+    titleJa: "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+    summaryJa: "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+    bodyOriginal: `Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+- Published
+Singer Ed Sheeran has apologised to fans for making "mistakes", as he opened a solo show in Philadelphia by addressing the controversy that has engulfed his tour.
+The star responded to the fallout over rapper Macklemore being dropped from the tour for making pro-Palestinian remarks on stage earlier in September.
+"I never wanted to be an activist musician, but this has put me in the middle of an important and passionate argument about free speech and the most complex political issue on the planet," he said at Saturday's show.
+He described the 7 October 2023 Hamas-led attacks as "horrific" and called the situation in Gaza "unjustifiable" in his first in-person remarks since the controversy began.
+Several artists left the tour and the price of tickets dropped and sales declined for the remaining US leg of his Loop Tour due to the controversy.
+The singer has said the decision to drop Macklemore was made by his promoters, not him.
+"My concerts have always been a safe space for everyone," he said at the start of Saturday's show, adding that he is committed to his fans and that is why he returned to the stage.
+"Now, I want to address the question of where I stand in the situation in Israel and Palestine, and whether my doing this concert here tonight implies where I stand," he said.
+"I have tried in my career not to be a political commentator of any kind, because I want my music and shows to be about unity, not division; about humanity, not politics. But this is a humanitarian issue, and I cannot hide how I feel about it anymore."
+Sheeran said what happened in Israel during the 7 October 2023 attacks was "horrific and compounded centuries of Jewish pain".
+He added: "What is happening in Gaza is catastrophic and unjustifiable and disproportionate. My heart has been broken by the scale of of devastation and loss of civilian lives, of children's lives, and this systemic injustice we're seeing unfold in the West Bank cannot be overlooked."
+He said he is trying "to work out how to make a contribution that helps victims of these terrible times and listening and learning, because I do not know enough".
+Getting emotional, Sheeran told concertgoers: "I am honestly so grateful that you're here tonight with me.
+"This concert is still a place where everyone is welcome and everyone here can stand beside people that have opposing views."
+The singer said he took issue with the idea that venues would "preapprove" content or performers, which received applause from the audience.
+Sheeran then closed his statement by saying that he hoped his concert could be a place where everyone could gather irrespective of their beliefs.
+Sheeran's remaining tour dates are scheduled with shows set throughout North and South America. While the mega-star's previous tour was among the highest-grossing of all time, some ticket prices for this show dropped to $32 (£24).
+Fans also reported being able to get ticket refunds, though Ticketmaster and concert promoter Messina Touring Group did not confirm they were being reimbursed.
+Some protesters waved flags outside the venue, but the concert proceeded largely unfettered.
+Ed Sheeran and Macklemore: How a tour spiraled into controversy
+- Published2 hours ago
+Of the handful of attendees who stopped to talk to the BBC, there was a sentiment of determination to enjoy an evening of music while at the same time supporting freedom of speech.
+One married couple, who paid $450 (£335) per ticket, said that they respect Macklemore's right to speak freely.
+Another group of two ladies, who told us they got a "deal" for Saturday's concert after prices dropped, said that they support a free Palestine and at the same time love Sheeran's music.
+Finally, one family let their two young teenage daughters, Victoria, 15, and Sadie,13, be interviewed.
+When we asked what they thought of the controversy and Macklemore's removal, they replied "Who is Macklemore?".
+One protestor, who gave his name as Cooper, told the BBC that he came out "to support the struggle for" the Palestinian people.
+"We need more people like Macklemore and other artists who have a voice, who have a public platform, to be able to speak on behalf of the Palestinian people and their struggle for liberation, especially in the United States," he said.
+Cooper said that a best-case scenario at the concert would be an apology from Sheeran, but he was not optimistic.
+The controversy began in early September, when Macklemore performed a song dedicated to pro-Palestinian protestors, and referred to "genocide" in Gaza, a description Israel rejects. The rapper also said criticism of Israel was not intended as criticism of "my Jewish brothers and sisters".
+Messina Touring Group said Macklemore was dropped because some venues - such Gillette Stadium in Boston, Massachusetts - would refuse to let the concerts take place if he performed.
+Billionaire Robert Kraft who owns Gillette Stadium and the American football team the New England Patriots, confirmed he had banned Macklemore from performing during the British singer's forthcoming shows.
+Kraft, who is Jewish, accused the US rapper of hate speech and said he was "only sharing selective information and ignoring the actions of Hamas".
+Meanwhile, support acts including Irish singer-songwriter Aaron Rowe and Danish musician Lukas Graham and his backing band Beoga quit the tour in solidarity with Macklemore.
+The artists argued his removal represented a chilling effect on free speech.
+Related topics
+- Published2 days ago`,
+    bodyJa: `Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show
+- Published
+Singer Ed Sheeran has apologised to fans for making "mistakes", as he opened a solo show in Philadelphia by addressing the controversy that has engulfed his tour.
+The star responded to the fallout over rapper Macklemore being dropped from the tour for making pro-Palestinian remarks on stage earlier in September.
+"I never wanted to be an activist musician, but this has put me in the middle of an important and passionate argument about free speech and the most complex political issue on the planet," he said at Saturday's show.
+He described the 7 October 2023 Hamas-led attacks as "horrific" and called the situation in Gaza "unjustifiable" in his first in-person remarks since the controversy began.
+Several artists left the tour and the price of tickets dropped and sales declined for the remaining US leg of his Loop Tour due to the controversy.
+The singer has said the decision to drop Macklemore was made by his promoters, not him.
+"My concerts have always been a safe space for everyone," he said at the start of Saturday's show, adding that he is committed to his fans and that is why he returned to the stage.
+"Now, I want to address the question of where I stand in the situation in Israel and Palestine, and whether my doing this concert here tonight implies where I stand," he said.
+"I have tried in my career not to be a political commentator of any kind, because I want my music and shows to be about unity, not division; about humanity, not politics. But this is a humanitarian issue, and I cannot hide how I feel about it anymore."
+Sheeran said what happened in Israel during the 7 October 2023 attacks was "horrific and compounded centuries of Jewish pain".
+He added: "What is happening in Gaza is catastrophic and unjustifiable and disproportionate. My heart has been broken by the scale of of devastation and loss of civilian lives, of children's lives, and this systemic injustice we're seeing unfold in the West Bank cannot be overlooked."
+He said he is trying "to work out how to make a contribution that helps victims of these terrible times and listening and learning, because I do not know enough".
+Getting emotional, Sheeran told concertgoers: "I am honestly so grateful that you're here tonight with me.
+"This concert is still a place where everyone is welcome and everyone here can stand beside people that have opposing views."
+The singer said he took issue with the idea that venues would "preapprove" content or performers, which received applause from the audience.
+Sheeran then closed his statement by saying that he hoped his concert could be a place where everyone could gather irrespective of their beliefs.
+Sheeran's remaining tour dates are scheduled with shows set throughout North and South America. While the mega-star's previous tour was among the highest-grossing of all time, some ticket prices for this show dropped to $32 (£24).
+Fans also reported being able to get ticket refunds, though Ticketmaster and concert promoter Messina Touring Group did not confirm they were being reimbursed.
+Some protesters waved flags outside the venue, but the concert proceeded largely unfettered.
+Ed Sheeran and Macklemore: How a tour spiraled into controversy
+- Published2 hours ago
+Of the handful of attendees who stopped to talk to the BBC, there was a sentiment of determination to enjoy an evening of music while at the same time supporting freedom of speech.
+One married couple, who paid $450 (£335) per ticket, said that they respect Macklemore's right to speak freely.
+Another group of two ladies, who told us they got a "deal" for Saturday's concert after prices dropped, said that they support a free Palestine and at the same time love Sheeran's music.
+Finally, one family let their two young teenage daughters, Victoria, 15, and Sadie,13, be interviewed.
+When we asked what they thought of the controversy and Macklemore's removal, they replied "Who is Macklemore?".
+One protestor, who gave his name as Cooper, told the BBC that he came out "to support the struggle for" the Palestinian people.
+"We need more people like Macklemore and other artists who have a voice, who have a public platform, to be able to speak on behalf of the Palestinian people and their struggle for liberation, especially in the United States," he said.
+Cooper said that a best-case scenario at the concert would be an apology from Sheeran, but he was not optimistic.
+The controversy began in early September, when Macklemore performed a song dedicated to pro-Palestinian protestors, and referred to "genocide" in Gaza, a description Israel rejects. The rapper also said criticism of Israel was not intended as criticism of "my Jewish brothers and sisters".
+Messina Touring Group said Macklemore was dropped because some venues - such Gillette Stadium in Boston, Massachusetts - would refuse to let the concerts take place if he performed.
+Billionaire Robert Kraft who owns Gillette Stadium and the American football team the New England Patriots, confirmed he had banned Macklemore from performing during the British singer's forthcoming shows.
+Kraft, who is Jewish, accused the US rapper of hate speech and said he was "only sharing selective information and ignoring the actions of Hamas".
+Meanwhile, support acts including Irish singer-songwriter Aaron Rowe and Danish musician Lukas Graham and his backing band Beoga quit the tour in solidarity with Macklemore.
+The artists argued his removal represented a chilling effect on free speech.
+Related topics
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-20T01:38:30+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
+    readTime: 10,
+  },
+  {
+    id: "cultural-treasures-are-being-destroyed-b-311614ba",
+    title: "Cultural treasures are being destroyed by war, and people want justice",
+    titleJa: "Cultural treasures are being destroyed by war, and people want justice",
+    summaryJa: "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
+    bodyOriginal: `August was a brutal month for Ukraine. Russian aerial attacks increased significantly, launching thousands of drones. Kyiv was intensely bombarded, as were the southern cities of Mykolaiv and Odesa. Amid the destruction and loss of life, Odesa reported damage to six Unesco-protected sites, including the salmon-pink 19th Century Alexandru Sturdza House.
+It raised again the question of why it is so hard to hold actors accountable for the destruction of buildings and objects with real cultural significance.
+In the last month alone, Ukraine's Ministry of Culture reported that 148 cultural heritage sites were recorded as damaged or destroyed, including in Odesa.
+Several Ukrainian activist groups have tried to get accountability by lodging complaints with the International Criminal Court (ICC) against Russia over cultural destruction and looting, but no indictments have been issued.
+Bijan Rouhani, a senior researcher at the Endangered Archaeology in the Middle East and North Africa project, says that the legal framework may be strong on paper but in practice it almost inevitably falls short. "No state actor has ever been tried for this offence. The obstacle is no longer evidence. We have satellite imagery, remote sensing and monitoring teams. The obstacle is jurisdiction and political will."
+Looking at the cauldron of conflicts convulsing the world, the question is ever more pressing as to whether effective action is possible to stop the damage being done or ensure accountability when it does.
+A casualty of war
+The conflict in Ukraine is just one of the panoply of wars in recent years that have revealed once again the disastrous impact of conflict on cultural heritage.
+Tareq Abu Dayyeh sells craftwork, souvenirs and antiquities in Gaza. The Great Omari Mosque features on many of the items he sells. It represents the very identity of Gaza - charting its history through the building's many manifestations from ancient pagan temple to Byzantine church to Seventh Century mosque to Crusader Cathedral and then back to being a mosque.
+The Great Omari Mosque was all but destroyed in an Israeli strike in 2023. The Israeli military said the strike was targeting Hamas.
+Now Dayyeh says his heart is broken every time he sees the ruins. "When your past is destroyed, you have no present."
+The war in Gaza has claimed tens of thousands of lives and an estimated 200,000 buildings have been damaged or destroyed by Israeli bombardment. But despite the overwhelming death and devastation, such cultural losses run deep.
+This is a sentiment expressed throughout history by people living through war.
+In Sudan, Lebanon, Yemen and Iran, the alarm has been raised time and time again.
+More than 100 sites in Iran are reported to have been damaged during the aerial war launched by the US and Israel back in February. They include the Unesco-listed Golestan Palace in the capital, Tehran, and Naqsh-e Jahan Square in Isfahan.
+The civil war in Sudan has further imperilled one of the ancient wonders of the world - the Meroe Pyramids, built during the flourishing civilisation of the Kingdom of Kush.
+Unesco, which designated Meroe as a World Heritage Site in 2011, has warned that the fighting has halted all preservation work there, leaving the fragile ancient structures prey to erosion from the encroaching sand and vegetation.
+A difficult task
+In response to the massive destruction of World War Two, the first-ever international treaty exclusively dedicated to protecting cultural heritage during armed conflict was adopted in The Hague in 1954.
+It applies to monuments and architecture, but also works of art and books, requiring states to safeguard and respect cultural property and refrain from any actions that might endanger it.
+Since the Hague Convention, there have been several additional moves to strengthen protective measures for cultural heritage.
+A Second Protocol to the Convention in 1999 said that any site that has been placed under enhanced protection due to its immense cultural significance must not be made a military target even if it is being used in such a way as to have become a 'military objective' - unless there is no other feasible way of ending its use in that way.
+When the International Criminal Court was established in The Hague in 2002, part of its remit was to bring accountability for deliberate attacks in war against buildings of religious, artistic and educational value as well as historical monuments, which had been defined as war crimes.
+But this has been a complex and difficult task.
+So far, only one case has been successfully brought at the ICC. Ahmad al-Faqi al-Mahdi was a jihadist militant leader in Mali who was found guilty of directing attacks that destroyed mausoleums and a mosque in Timbuktu. He was sentenced to nine years in prison.
+Rouhani says that without the full backing of the major powers and a genuine commitment to international law and its enforcement, the world will simply keep watching the same devastating pattern repeat itself.
+"For most governments, heritage is a secondary concern, unless it becomes useful for propaganda," Rouhani says. "The Hague Convention requires states to build protection into their military rules and to respect cultural property abroad as well as at home. Looking at the scale of damage in recent conflicts, it is difficult to conclude that these obligations are taken seriously."
+In conflicts from Ukraine to Iran to Gaza, where schools and hospitals are seen as permissible military targets by combatants, how likely is it that a museum or pile of ancient stones, however freighted with beauty and history and memory, will be spared?
+Heritage ambulances
+In an isolated position in open countryside, a museum dedicated to the 18th Century Ukrainian philosopher and poet Hryhoriy Skovoroda was destroyed by Russian shelling during an overnight attack in 2022. Ukrainian President Volodymyr Zelensky said it had left him speechless: "Targeted strikes against museums - not even terrorists would think of this. But this is the kind of army we are fighting against."
+The building was set ablaze and a caretaker was injured, but much of the collection had already been removed.
+Joe Biden, then the US president, said that Russian President Vladimir Putin was not only trying to take over Ukraine, but "literally trying to wipe out the culture and identity of the Ukrainian people".
+That pattern has been repeated across much of the frontline in Ukraine where local organisations have worked with international groups to try to safeguard their national heritage from Russian attack.
+One international group that's played a big role is the Aliph Foundation, which was set up in Geneva in 2017 to protect and repair cultural heritage.
+Alexandra Fiebig, a project manager with Aliph, says that her group provided millions of dollars in funds to Ukrainian museums scrambling to move their most valuable items to safety.
+This has involved the use of what she describes as 'heritage ambulances': "These vehicles that have specialised equipment and space with specialised teams and equipment, they were in the beginning travelling a lot to affected museums that were damaged through military action."
+Now, she says the teams also check on the artefacts that were transported in great haste to safer places to make sure they remain in good condition.
+Blue Shield International is a group that operates in multiple war zones, working with armed forces and local heritage officials to such an extent that it's come to be known as the Red Cross for culture.
+Dr Emma Cunliffe, the head of operations for the group, says Ukrainians are risking their lives to protect their heritage.
+"They are taking great measures to document the damage even when they are risking their own lives to do it. In fact one of the things we really see is that the government is taking huge steps despite the many many competing priorities and the struggles they are facing."
+Other conflicts have seen civilians take similar measures to protect their culture.
+In February 2015, Isis turned its attention from hacking down ancient statues and artefacts in Mosul in northern Iraq to ransacking its written heritage as its fighters laid waste to the city's much treasured public libraries. They burned the Central Library and destroyed or stole many thousands of books - many of them rare manuscripts that told the story of the city.
+"These were not simply books or shelves, they represented decades of knowledge and research and formed an important part of the intellectual heritage of Mosul University and the wider community… Within days, everything was gone," Dr Mohammed Jasim Mohammed al-Hamdani says. The main library in Mosul has played a key role in his life - to such an extent that he is now the director there.
+"Seeing it destroyed felt like losing a part of myself. Many people in the city had a story connected to the University of Mosul and therefore the loss felt very close to home. And this is why when that part of Mosul was liberated from Isis, young people, old people rushed to the library to save what they could."
+A lucrative trade
+The obverse of communities taking it into their own hands to protect cultural property is the looting of those same sites.
+Again, this is a byproduct of war that dates back to the dawn of history.
+Cunliffe says that understanding the reasons for looting - which can vary from place to place - is a necessary starting point: "That might then in turn result in greater sanctions, greater prosecutions to take it seriously as a threat." She says that it's important if possible to convey a sense to local communities that by assisting this, they are selling their own heritage.
+In Iraq and Syria for example, both during and after the Isis rampage, looting of priceless artefacts was carried out on an industrial scale.
+The precious objects were spirited out and trafficked abroad, including to the US.
+A years-long investigation by the US Justice Department traced and tracked the smuggling routes and resulted in thousands of looted artefacts being returned to Iraq.
+In Europe and elsewhere, co-ordinated, multi-national police and customs operations take place regularly, seizing large numbers of stolen antiquities and arresting some of the traffickers.
+But the trade remains highly lucrative and the plethora of conflicts provides ever more opportunities.
+In Sudan, the national museum in Khartoum was stripped of its treasures in 2023 when it came under the control of one of the warring factions, the RSF, which loaded them onto trucks and left the display rooms bare.
+As in other conflict zones like Ukraine, specialised training has been provided for those involved in trying to recover the antiquities, which has had some success. But much of the museum's display - which told the story of the region over thousands of years - may have disappeared for good.
+Slim chance of deterrence
+The challenges of trying to limit the scale of destruction and looting of cultural heritage are huge.
+At an international or state level, there are regulations in place, but putting them into practice in a timely fashion is difficult enough - and often there isn't even the will to attempt this.
+Local initiatives backed by organisations like Aliph and Blue Shield International can make a difference on a small scale.
+But if - as seems the case right now - the chances of anyone facing consequences for destroying a heritage site are close to zero, then there is all but no real deterrent.
+"What would change the calculation is not harsher sentences," says Dr Bijan Rouhani, "but a real prospect of being named - arrest warrants for the commanders who authorise these strikes, prosecutions in national courts under universal jurisdiction, and targeted sanctions on named individuals. Those measures don't require a new treaty. They require states to be willing to use the instruments they already have, against allies as well as adversaries."
+Of all the recent attempts to erase the cultural past embodied in stone, Palmyra in Syria still stands out. Isis blew up temples there and might have done far worse if it had not been defeated.
+One man became emblematic for standing up to them. For 40 years, the archaeologist Khaled al-Asaad had been the principal custodian of Palmyra. He was in his eighties when Isis descended on the ancient city.
+They captured him and tortured him to try to find out where its most valuable artefacts had been hidden. When he refused to tell them, they beheaded him in a public square and hung his corpse from a traffic light.
+Al-Asaad was celebrated across the world as a heroic defender of culture against the forces of darkness. He was awarded the Order of Civil Merit in Syria and in Palmyra, a school was named in his honour.
+But nothing is free from political complications.
+Years later, under the new authorities in Syria, his name has now been removed from the school.
+More from InDepth
+John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'
+- Published29 December 2025
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `August was a brutal month for Ukraine. Russian aerial attacks increased significantly, launching thousands of drones. Kyiv was intensely bombarded, as were the southern cities of Mykolaiv and Odesa. Amid the destruction and loss of life, Odesa reported damage to six Unesco-protected sites, including the salmon-pink 19th Century Alexandru Sturdza House.
+It raised again the question of why it is so hard to hold actors accountable for the destruction of buildings and objects with real cultural significance.
+In the last month alone, Ukraine's Ministry of Culture reported that 148 cultural heritage sites were recorded as damaged or destroyed, including in Odesa.
+Several Ukrainian activist groups have tried to get accountability by lodging complaints with the International Criminal Court (ICC) against Russia over cultural destruction and looting, but no indictments have been issued.
+Bijan Rouhani, a senior researcher at the Endangered Archaeology in the Middle East and North Africa project, says that the legal framework may be strong on paper but in practice it almost inevitably falls short. "No state actor has ever been tried for this offence. The obstacle is no longer evidence. We have satellite imagery, remote sensing and monitoring teams. The obstacle is jurisdiction and political will."
+Looking at the cauldron of conflicts convulsing the world, the question is ever more pressing as to whether effective action is possible to stop the damage being done or ensure accountability when it does.
+A casualty of war
+The conflict in Ukraine is just one of the panoply of wars in recent years that have revealed once again the disastrous impact of conflict on cultural heritage.
+Tareq Abu Dayyeh sells craftwork, souvenirs and antiquities in Gaza. The Great Omari Mosque features on many of the items he sells. It represents the very identity of Gaza - charting its history through the building's many manifestations from ancient pagan temple to Byzantine church to Seventh Century mosque to Crusader Cathedral and then back to being a mosque.
+The Great Omari Mosque was all but destroyed in an Israeli strike in 2023. The Israeli military said the strike was targeting Hamas.
+Now Dayyeh says his heart is broken every time he sees the ruins. "When your past is destroyed, you have no present."
+The war in Gaza has claimed tens of thousands of lives and an estimated 200,000 buildings have been damaged or destroyed by Israeli bombardment. But despite the overwhelming death and devastation, such cultural losses run deep.
+This is a sentiment expressed throughout history by people living through war.
+In Sudan, Lebanon, Yemen and Iran, the alarm has been raised time and time again.
+More than 100 sites in Iran are reported to have been damaged during the aerial war launched by the US and Israel back in February. They include the Unesco-listed Golestan Palace in the capital, Tehran, and Naqsh-e Jahan Square in Isfahan.
+The civil war in Sudan has further imperilled one of the ancient wonders of the world - the Meroe Pyramids, built during the flourishing civilisation of the Kingdom of Kush.
+Unesco, which designated Meroe as a World Heritage Site in 2011, has warned that the fighting has halted all preservation work there, leaving the fragile ancient structures prey to erosion from the encroaching sand and vegetation.
+A difficult task
+In response to the massive destruction of World War Two, the first-ever international treaty exclusively dedicated to protecting cultural heritage during armed conflict was adopted in The Hague in 1954.
+It applies to monuments and architecture, but also works of art and books, requiring states to safeguard and respect cultural property and refrain from any actions that might endanger it.
+Since the Hague Convention, there have been several additional moves to strengthen protective measures for cultural heritage.
+A Second Protocol to the Convention in 1999 said that any site that has been placed under enhanced protection due to its immense cultural significance must not be made a military target even if it is being used in such a way as to have become a 'military objective' - unless there is no other feasible way of ending its use in that way.
+When the International Criminal Court was established in The Hague in 2002, part of its remit was to bring accountability for deliberate attacks in war against buildings of religious, artistic and educational value as well as historical monuments, which had been defined as war crimes.
+But this has been a complex and difficult task.
+So far, only one case has been successfully brought at the ICC. Ahmad al-Faqi al-Mahdi was a jihadist militant leader in Mali who was found guilty of directing attacks that destroyed mausoleums and a mosque in Timbuktu. He was sentenced to nine years in prison.
+Rouhani says that without the full backing of the major powers and a genuine commitment to international law and its enforcement, the world will simply keep watching the same devastating pattern repeat itself.
+"For most governments, heritage is a secondary concern, unless it becomes useful for propaganda," Rouhani says. "The Hague Convention requires states to build protection into their military rules and to respect cultural property abroad as well as at home. Looking at the scale of damage in recent conflicts, it is difficult to conclude that these obligations are taken seriously."
+In conflicts from Ukraine to Iran to Gaza, where schools and hospitals are seen as permissible military targets by combatants, how likely is it that a museum or pile of ancient stones, however freighted with beauty and history and memory, will be spared?
+Heritage ambulances
+In an isolated position in open countryside, a museum dedicated to the 18th Century Ukrainian philosopher and poet Hryhoriy Skovoroda was destroyed by Russian shelling during an overnight attack in 2022. Ukrainian President Volodymyr Zelensky said it had left him speechless: "Targeted strikes against museums - not even terrorists would think of this. But this is the kind of army we are fighting against."
+The building was set ablaze and a caretaker was injured, but much of the collection had already been removed.
+Joe Biden, then the US president, said that Russian President Vladimir Putin was not only trying to take over Ukraine, but "literally trying to wipe out the culture and identity of the Ukrainian people".
+That pattern has been repeated across much of the frontline in Ukraine where local organisations have worked with international groups to try to safeguard their national heritage from Russian attack.
+One international group that's played a big role is the Aliph Foundation, which was set up in Geneva in 2017 to protect and repair cultural heritage.
+Alexandra Fiebig, a project manager with Aliph, says that her group provided millions of dollars in funds to Ukrainian museums scrambling to move their most valuable items to safety.
+This has involved the use of what she describes as 'heritage ambulances': "These vehicles that have specialised equipment and space with specialised teams and equipment, they were in the beginning travelling a lot to affected museums that were damaged through military action."
+Now, she says the teams also check on the artefacts that were transported in great haste to safer places to make sure they remain in good condition.
+Blue Shield International is a group that operates in multiple war zones, working with armed forces and local heritage officials to such an extent that it's come to be known as the Red Cross for culture.
+Dr Emma Cunliffe, the head of operations for the group, says Ukrainians are risking their lives to protect their heritage.
+"They are taking great measures to document the damage even when they are risking their own lives to do it. In fact one of the things we really see is that the government is taking huge steps despite the many many competing priorities and the struggles they are facing."
+Other conflicts have seen civilians take similar measures to protect their culture.
+In February 2015, Isis turned its attention from hacking down ancient statues and artefacts in Mosul in northern Iraq to ransacking its written heritage as its fighters laid waste to the city's much treasured public libraries. They burned the Central Library and destroyed or stole many thousands of books - many of them rare manuscripts that told the story of the city.
+"These were not simply books or shelves, they represented decades of knowledge and research and formed an important part of the intellectual heritage of Mosul University and the wider community… Within days, everything was gone," Dr Mohammed Jasim Mohammed al-Hamdani says. The main library in Mosul has played a key role in his life - to such an extent that he is now the director there.
+"Seeing it destroyed felt like losing a part of myself. Many people in the city had a story connected to the University of Mosul and therefore the loss felt very close to home. And this is why when that part of Mosul was liberated from Isis, young people, old people rushed to the library to save what they could."
+A lucrative trade
+The obverse of communities taking it into their own hands to protect cultural property is the looting of those same sites.
+Again, this is a byproduct of war that dates back to the dawn of history.
+Cunliffe says that understanding the reasons for looting - which can vary from place to place - is a necessary starting point: "That might then in turn result in greater sanctions, greater prosecutions to take it seriously as a threat." She says that it's important if possible to convey a sense to local communities that by assisting this, they are selling their own heritage.
+In Iraq and Syria for example, both during and after the Isis rampage, looting of priceless artefacts was carried out on an industrial scale.
+The precious objects were spirited out and trafficked abroad, including to the US.
+A years-long investigation by the US Justice Department traced and tracked the smuggling routes and resulted in thousands of looted artefacts being returned to Iraq.
+In Europe and elsewhere, co-ordinated, multi-national police and customs operations take place regularly, seizing large numbers of stolen antiquities and arresting some of the traffickers.
+But the trade remains highly lucrative and the plethora of conflicts provides ever more opportunities.
+In Sudan, the national museum in Khartoum was stripped of its treasures in 2023 when it came under the control of one of the warring factions, the RSF, which loaded them onto trucks and left the display rooms bare.
+As in other conflict zones like Ukraine, specialised training has been provided for those involved in trying to recover the antiquities, which has had some success. But much of the museum's display - which told the story of the region over thousands of years - may have disappeared for good.
+Slim chance of deterrence
+The challenges of trying to limit the scale of destruction and looting of cultural heritage are huge.
+At an international or state level, there are regulations in place, but putting them into practice in a timely fashion is difficult enough - and often there isn't even the will to attempt this.
+Local initiatives backed by organisations like Aliph and Blue Shield International can make a difference on a small scale.
+But if - as seems the case right now - the chances of anyone facing consequences for destroying a heritage site are close to zero, then there is all but no real deterrent.
+"What would change the calculation is not harsher sentences," says Dr Bijan Rouhani, "but a real prospect of being named - arrest warrants for the commanders who authorise these strikes, prosecutions in national courts under universal jurisdiction, and targeted sanctions on named individuals. Those measures don't require a new treaty. They require states to be willing to use the instruments they already have, against allies as well as adversaries."
+Of all the recent attempts to erase the cultural past embodied in stone, Palmyra in Syria still stands out. Isis blew up temples there and might have done far worse if it had not been defeated.
+One man became emblematic for standing up to them. For 40 years, the archaeologist Khaled al-Asaad had been the principal custodian of Palmyra. He was in his eighties when Isis descended on the ancient city.
+They captured him and tortured him to try to find out where its most valuable artefacts had been hidden. When he refused to tell them, they beheaded him in a public square and hung his corpse from a traffic light.
+Al-Asaad was celebrated across the world as a heroic defender of culture against the forces of darkness. He was awarded the Order of Civil Merit in Syria and in Palmyra, a school was named in his honour.
+But nothing is free from political complications.
+Years later, under the new authorities in Syria, his name has now been removed from the school.
+More from InDepth
+John Simpson: 'I've reported on 40 wars but I've never seen a year like 2025'
+- Published29 December 2025
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-19T23:18:18+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "our-head-teacher-was-an-abuser-we-joined-2098c5ef",
+    title: "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+    titleJa: "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+    summaryJa: "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
+    bodyOriginal: `Our head teacher was an abuser. We joined forces to get justice - now we're married
+- Published
+Warning: This story contains details of sexual assault
+The voice on the end of the phone made Yusron Azzahidi's stomach lurch. He had rung his sister's number after she had texted, urgently asking him to call. But this was not her on the line - it was Yusron's former head teacher. He was in Yusron's family home.
+"I knew. I knew exactly what he wanted to talk about," Yusron says.
+Ahmad Imanuddin Sumar, known to his students as "Abah" ["father"], had a reputation to uphold. He was the widely respected leader of an Islamic boarding school on the Indonesian island of Lombok. And Abah had discovered that Yusron and his old school friends had been collating testimony from several students who say he sexually assaulted them.
+Sexual abuse in Islamic boarding schools has been described as a national emergency by Indonesia's National Commission on Violence Against Women. But many cases never reach the courts because the victims are persuaded to withdraw their allegations, or are pressured into staying quiet, legal experts say.
+And now Abah was on the phone to Yusron, making exactly that kind of demand.
+"Cover the shame of your teacher. Everyone makes mistakes, my child," he sobbed.
+What he did not realise was that Yusron was recording his every word.
+World of Secrets: Catching My Teacher
+When a dark secret emerges at the heart of their school in Indonesia, former students turn detective to seek the truth.
+The full story with be available in subsequent episodes of World of Secrets Catching My Teacher
+Watch the full investigation on iPlayer from 0001 Monday 21 September. If you are outside the UK, you will be able watch on YouTube
+Yusron began investigating Abah a year previously, sparked by a revelation one night by his former classmate Ziadatur Rahmah. They had both been star pupils at Lombok's Abu Barokat school. Now they were at university - Yusron in the capital Jakarta, and Ziadatur in Cairo, Egypt - and had begun reminiscing over the phone about their school days.
+One night Ziadatur, known to her friends as Zia, told Yusron that Abah had sexually assaulted her when she was 16.
+She had needed to go to the toilet during class and Abah had intercepted her in the school gardens and asked her to accompany him to his house which was on the premises.
+Once inside, he had told her he loved her, she told Yusron.
+"He pulled me down so I was sitting on his lap… Then he started kissing me… He was stroking and touching my body," she later told the BBC World Service, too, explaining that he told her to do the same to him.
+Luckily, she said, one of his children began banging on the locked front door. Abah signalled to her to leave and she bolted out the back. But the effect was devastating.
+"I felt very dirty, ruined, and I was lost."
+Yusron, when he heard Zia's account, was unsure what to do. Their school had inculcated them with the motto: "Sami'na wa ata'na" ["We hear, and we obey"].
+But he also could not stop thinking about it.
+So he suggested that he and Zia, together with her school friends Wanda Hamidah and Mahima Eka, gather corroborating evidence to support her testimony.
+And slowly, as they spoke to their old classmates, other recollections emerged - the friends sharing their findings with each other on WhatsApp.
+The most significant was from a friend of Wanda's. She recalled seeing a younger girl crying in the school bathroom during their final year, late at night. And that Abah had come looking for her, red-faced and panting.
+This girl, Sukma Rohana, was still at the school. She told the BBC about her ordeal.
+When Sukma was 17, Abah had asked her to join him for new year's prayers, she told us. When she entered Abah's house, he had covered her mouth and told her to lie down, she said, before he stripped below the waist.
+"He kept talking, saying he couldn't control himself any more," Sukma said.
+"He was feeling me up through my knickers… He tried to rape me."
+And then, she said, she had found the strength to kick him hard in the stomach and took the opportunity to flee.
+As she ran, she said she had looked back to see his torch seeking her out.
+As evidence like this emerged, Yusron would co-ordinate it - following up with calls to the students making the allegations, and keeping painstaking notes.
+He typed up a seven-page document outlining the alleged abuse of Sukma, Zia and four other former students.
+Wanda organised a meeting with representatives from the Nahdlatul Wathan Diniyah Islamiyah (NWDI) - the powerful organisation that ran their school and hundreds of others, and which was also funding some of the students' studies in Cairo.
+The meeting went well, the friends told us - the NWDI representatives had said they would help them take the case to the police.
+But three weeks later, when Yusron received that ominous text from his sister - calling back to find Abah on the end of the phone in Yusron's family home - it became clear the NWDI had passed on Yusron's written documents to him.
+"If this is leaked to the media… I'll be destroyed," Abah can be heard saying on Yusron's recording of him.
+He pleads with Yusron to lie for him, giving him a series of cover stories he can use to retract his evidence document.
+He then called Zia and exerted similar pressure. Like Yusron, she recorded the call. In it, Abah admits he abused her but pleads with her to stay silent.
+Sukma, for her part, told us she was called to Abah's house to discover two police officers and an NWDI lawyer waiting for her. They forced her to sign a document saying all her allegations were lies, she said. Her account is backed up by a secret recording she later made as she challenged Abah's wife, Hurmiati.
+Hurmiati can be heard telling her to respect their "agreement" that nothing happened, adding: "Do you want this to haunt you for the rest of your life? Do you want it to damage the chances of you getting married?"
+This pressure even extended to Abah asking Yusron's parents to fly to Jakarta to look for him at university. They didn't find him - he was hiding in a hotel - but the ordeal was too much for Yusron's mother. She told her son the stress was killing her.
+So Yusron reluctantly stopped his investigation.
+Meanwhile he and Zia were slowly getting closer. The friendship had become a long-distance relationship, and they were regularly speaking on the phone.
+"And I could see she was really struggling… She'd say things like: 'Why do I keep thinking about what [Abah] did?'."
+Yusron was torn between helping the girl he was falling in love with, and the promise he had made to his mother.
+And then, eight months later, Yusron heard about a group raising awareness about sexual abuse in Islamic schools. It had been set up by a young woman called Ayu Masruroh, who had helped her friend get justice after she had been sexually assaulted at another school, by a teacher called Moch Subchi Azal Tsani.
+Ayu was now actively posting on social media about the need to speak out.
+It inspired Zia to post a call-out on Instagram, asking any Indonesian student who had experienced abuse to get in touch.
+And she was to discover that, despite Abah's remonstrations, and promises to change, he had apparently offended again. Someone who went to Zia's school got in touch to say she too had been sexually exploited by Abah. The alleged abuse had taken place almost a year after his pledges to Zia and Yusron.
+"It made me realise [Abah] hadn't really changed at all… all the things he said about stopping… It was all just lies," said Zia.
+If you are in the UK, and have been affected by issues of sexual abuse or violence, information and support is available at BBC Action Line
+Yusron's parents finally agreed he should help Zia and Sukma to continue their quest for justice.
+But this time, the friends decided to do things differently. They contacted Ayu, and she was clear: get a lawyer. She introduced them to someone experienced in representing sexual abuse survivors. He advised that Sukma's case was the strongest to ensure a prosecution.
+We contacted Abah and Hurmiati about the allegations against them - they did not respond.
+NWDI said it was still investigating the allegations internally and denied ever trying to cover up sexual abuse claims.
+It said it had "a duty to safeguard the organisation from being tarnished by the alleged actions of individuals".
+Sukma filed her claim against Abah to the police in February last year. She is still waiting for them to take action and Abah is still in post.
+"I don't want what happened to me, to happen to any other students. I want justice," she told the BBC.
+The investigation has, however, brought Zia and Yusron ever closer. Last February, after three years of messaging and speaking, Yusron decided to move to Cairo to be with her.
+"I was exhausted. Jakarta had been intense, because I was dealing with the police case the whole time. So when I saw Zia… it was like medicine," he told the BBC.
+Zia said she was so happy she "started talking non-stop.
+"That's when I knew he was serious. He had come all the way to Egypt for me. I trust him. That's why I'm with him."
+It is a trust built, in part, on their shared pursuit of justice. Last month the couple got married.
+Their lawyer, Joko Jumadi, says he has been struck by the students' courage and precision.
+The recordings they secretly collected, he told us, capture the pressure to stay silent in real time and are exceptionally valuable. "Several victims are mentioned - acknowledged by the individual himself. These are key pieces of evidence," he said.
+Joko and his team have handled 20 sexual abuse cases involving Islamic boarding schools in his local West Nusa Tenggara province over the past three years, and he believes this is "just the tip of the iceberg".`,
+    bodyJa: `Our head teacher was an abuser. We joined forces to get justice - now we're married
+- Published
+Warning: This story contains details of sexual assault
+The voice on the end of the phone made Yusron Azzahidi's stomach lurch. He had rung his sister's number after she had texted, urgently asking him to call. But this was not her on the line - it was Yusron's former head teacher. He was in Yusron's family home.
+"I knew. I knew exactly what he wanted to talk about," Yusron says.
+Ahmad Imanuddin Sumar, known to his students as "Abah" ["father"], had a reputation to uphold. He was the widely respected leader of an Islamic boarding school on the Indonesian island of Lombok. And Abah had discovered that Yusron and his old school friends had been collating testimony from several students who say he sexually assaulted them.
+Sexual abuse in Islamic boarding schools has been described as a national emergency by Indonesia's National Commission on Violence Against Women. But many cases never reach the courts because the victims are persuaded to withdraw their allegations, or are pressured into staying quiet, legal experts say.
+And now Abah was on the phone to Yusron, making exactly that kind of demand.
+"Cover the shame of your teacher. Everyone makes mistakes, my child," he sobbed.
+What he did not realise was that Yusron was recording his every word.
+World of Secrets: Catching My Teacher
+When a dark secret emerges at the heart of their school in Indonesia, former students turn detective to seek the truth.
+The full story with be available in subsequent episodes of World of Secrets Catching My Teacher
+Watch the full investigation on iPlayer from 0001 Monday 21 September. If you are outside the UK, you will be able watch on YouTube
+Yusron began investigating Abah a year previously, sparked by a revelation one night by his former classmate Ziadatur Rahmah. They had both been star pupils at Lombok's Abu Barokat school. Now they were at university - Yusron in the capital Jakarta, and Ziadatur in Cairo, Egypt - and had begun reminiscing over the phone about their school days.
+One night Ziadatur, known to her friends as Zia, told Yusron that Abah had sexually assaulted her when she was 16.
+She had needed to go to the toilet during class and Abah had intercepted her in the school gardens and asked her to accompany him to his house which was on the premises.
+Once inside, he had told her he loved her, she told Yusron.
+"He pulled me down so I was sitting on his lap… Then he started kissing me… He was stroking and touching my body," she later told the BBC World Service, too, explaining that he told her to do the same to him.
+Luckily, she said, one of his children began banging on the locked front door. Abah signalled to her to leave and she bolted out the back. But the effect was devastating.
+"I felt very dirty, ruined, and I was lost."
+Yusron, when he heard Zia's account, was unsure what to do. Their school had inculcated them with the motto: "Sami'na wa ata'na" ["We hear, and we obey"].
+But he also could not stop thinking about it.
+So he suggested that he and Zia, together with her school friends Wanda Hamidah and Mahima Eka, gather corroborating evidence to support her testimony.
+And slowly, as they spoke to their old classmates, other recollections emerged - the friends sharing their findings with each other on WhatsApp.
+The most significant was from a friend of Wanda's. She recalled seeing a younger girl crying in the school bathroom during their final year, late at night. And that Abah had come looking for her, red-faced and panting.
+This girl, Sukma Rohana, was still at the school. She told the BBC about her ordeal.
+When Sukma was 17, Abah had asked her to join him for new year's prayers, she told us. When she entered Abah's house, he had covered her mouth and told her to lie down, she said, before he stripped below the waist.
+"He kept talking, saying he couldn't control himself any more," Sukma said.
+"He was feeling me up through my knickers… He tried to rape me."
+And then, she said, she had found the strength to kick him hard in the stomach and took the opportunity to flee.
+As she ran, she said she had looked back to see his torch seeking her out.
+As evidence like this emerged, Yusron would co-ordinate it - following up with calls to the students making the allegations, and keeping painstaking notes.
+He typed up a seven-page document outlining the alleged abuse of Sukma, Zia and four other former students.
+Wanda organised a meeting with representatives from the Nahdlatul Wathan Diniyah Islamiyah (NWDI) - the powerful organisation that ran their school and hundreds of others, and which was also funding some of the students' studies in Cairo.
+The meeting went well, the friends told us - the NWDI representatives had said they would help them take the case to the police.
+But three weeks later, when Yusron received that ominous text from his sister - calling back to find Abah on the end of the phone in Yusron's family home - it became clear the NWDI had passed on Yusron's written documents to him.
+"If this is leaked to the media… I'll be destroyed," Abah can be heard saying on Yusron's recording of him.
+He pleads with Yusron to lie for him, giving him a series of cover stories he can use to retract his evidence document.
+He then called Zia and exerted similar pressure. Like Yusron, she recorded the call. In it, Abah admits he abused her but pleads with her to stay silent.
+Sukma, for her part, told us she was called to Abah's house to discover two police officers and an NWDI lawyer waiting for her. They forced her to sign a document saying all her allegations were lies, she said. Her account is backed up by a secret recording she later made as she challenged Abah's wife, Hurmiati.
+Hurmiati can be heard telling her to respect their "agreement" that nothing happened, adding: "Do you want this to haunt you for the rest of your life? Do you want it to damage the chances of you getting married?"
+This pressure even extended to Abah asking Yusron's parents to fly to Jakarta to look for him at university. They didn't find him - he was hiding in a hotel - but the ordeal was too much for Yusron's mother. She told her son the stress was killing her.
+So Yusron reluctantly stopped his investigation.
+Meanwhile he and Zia were slowly getting closer. The friendship had become a long-distance relationship, and they were regularly speaking on the phone.
+"And I could see she was really struggling… She'd say things like: 'Why do I keep thinking about what [Abah] did?'."
+Yusron was torn between helping the girl he was falling in love with, and the promise he had made to his mother.
+And then, eight months later, Yusron heard about a group raising awareness about sexual abuse in Islamic schools. It had been set up by a young woman called Ayu Masruroh, who had helped her friend get justice after she had been sexually assaulted at another school, by a teacher called Moch Subchi Azal Tsani.
+Ayu was now actively posting on social media about the need to speak out.
+It inspired Zia to post a call-out on Instagram, asking any Indonesian student who had experienced abuse to get in touch.
+And she was to discover that, despite Abah's remonstrations, and promises to change, he had apparently offended again. Someone who went to Zia's school got in touch to say she too had been sexually exploited by Abah. The alleged abuse had taken place almost a year after his pledges to Zia and Yusron.
+"It made me realise [Abah] hadn't really changed at all… all the things he said about stopping… It was all just lies," said Zia.
+If you are in the UK, and have been affected by issues of sexual abuse or violence, information and support is available at BBC Action Line
+Yusron's parents finally agreed he should help Zia and Sukma to continue their quest for justice.
+But this time, the friends decided to do things differently. They contacted Ayu, and she was clear: get a lawyer. She introduced them to someone experienced in representing sexual abuse survivors. He advised that Sukma's case was the strongest to ensure a prosecution.
+We contacted Abah and Hurmiati about the allegations against them - they did not respond.
+NWDI said it was still investigating the allegations internally and denied ever trying to cover up sexual abuse claims.
+It said it had "a duty to safeguard the organisation from being tarnished by the alleged actions of individuals".
+Sukma filed her claim against Abah to the police in February last year. She is still waiting for them to take action and Abah is still in post.
+"I don't want what happened to me, to happen to any other students. I want justice," she told the BBC.
+The investigation has, however, brought Zia and Yusron ever closer. Last February, after three years of messaging and speaking, Yusron decided to move to Cairo to be with her.
+"I was exhausted. Jakarta had been intense, because I was dealing with the police case the whole time. So when I saw Zia… it was like medicine," he told the BBC.
+Zia said she was so happy she "started talking non-stop.
+"That's when I knew he was serious. He had come all the way to Egypt for me. I trust him. That's why I'm with him."
+It is a trust built, in part, on their shared pursuit of justice. Last month the couple got married.
+Their lawyer, Joko Jumadi, says he has been struck by the students' courage and precision.
+The recordings they secretly collected, he told us, capture the pressure to stay silent in real time and are exceptionally valuable. "Several victims are mentioned - acknowledged by the individual himself. These are key pieces of evidence," he said.
+Joko and his team have handled 20 sexual abuse cases involving Islamic boarding schools in his local West Nusa Tenggara province over the past three years, and he believes this is "just the tip of the iceberg".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-19T23:01:38+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
     id: "houthis-say-they-targeted-saudi-capital-e8c5f81b",
     title: "Houthis say they targeted Saudi capital with ballistic missiles",
     titleJa: "Houthis say they targeted Saudi capital with ballistic missiles",
@@ -1917,156 +2313,6 @@ The spokesperson acknowledged at the time that while some characters on its plat
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 9,
-  },
-  {
-    id: "auto-industry-urges-trump-to-not-allow-c-7dd59a5c",
-    title: "Auto industry urges Trump to not allow Chinese automakers in U.S. ahead of Xi visit",
-    titleJa: "Auto industry urges Trump to not allow Chinese automakers in U.S. ahead of Xi visit",
-    summaryJa: "Leaders of six major auto trade groups joined to sign a letter to the president.",
-    bodyOriginal: `The American automotive industry wants President Donald Trump to maintain policies that make it difficult for Chinese automakers to operate in the U.S. — or even ban them altogether.
-In a letter to Trump dated Thursday and viewed by CNBC, groups representing major facets of the U.S. automotive industry — from franchised dealers and suppliers to domestic and foreign automakers — urged the president to "maintain policies that keep the door firmly shut to Chinese automakers seeking to sell, import or manufacture vehicles inside the U.S."
-"The automotive sector is foundational to our advanced manufacturing and defense base, with the capacity and workforce to respond during a national emergency. Once that base is hollowed out, it can't be rebuilt overnight," the letter reads.
-The letter comes ahead of Trump's expected visit next week with Chinese President Xi Jinping in Washington, D.C., as well as Trump last week saying he would permit Chinese automakers to move manufacturing to the U.S.
-"If China wanted to come in and open a plant to build their cars here, I'd be OK with it," Trump said Sept. 11 on Fox News' "The Ingraham Angle."
-The letter argues that allowing Chinese automakers to manufacture in the U.S. would "undermine fair competition and jeopardize the progress" the administration has made in preventing "Chinese dominance in key industries." Chinese automakers are heavily subsidized by their governments and are rapidly expanding outside of China to other countries.
-The letter is the latest in a string of messages from the automotive industry to the Trump administration, but this time represented a more unified coalition.
-It was signed by leaders of six trade associations that represent every major automaker operating in the U.S., including Tesla and foreign automakers, as well as the nation's roughly 17,000 franchised dealers.`,
-    bodyJa: `The American automotive industry wants President Donald Trump to maintain policies that make it difficult for Chinese automakers to operate in the U.S. — or even ban them altogether.
-In a letter to Trump dated Thursday and viewed by CNBC, groups representing major facets of the U.S. automotive industry — from franchised dealers and suppliers to domestic and foreign automakers — urged the president to "maintain policies that keep the door firmly shut to Chinese automakers seeking to sell, import or manufacture vehicles inside the U.S."
-"The automotive sector is foundational to our advanced manufacturing and defense base, with the capacity and workforce to respond during a national emergency. Once that base is hollowed out, it can't be rebuilt overnight," the letter reads.
-The letter comes ahead of Trump's expected visit next week with Chinese President Xi Jinping in Washington, D.C., as well as Trump last week saying he would permit Chinese automakers to move manufacturing to the U.S.
-"If China wanted to come in and open a plant to build their cars here, I'd be OK with it," Trump said Sept. 11 on Fox News' "The Ingraham Angle."
-The letter argues that allowing Chinese automakers to manufacture in the U.S. would "undermine fair competition and jeopardize the progress" the administration has made in preventing "Chinese dominance in key industries." Chinese automakers are heavily subsidized by their governments and are rapidly expanding outside of China to other countries.
-The letter is the latest in a string of messages from the automotive industry to the Trump administration, but this time represented a more unified coalition.
-It was signed by leaders of six trade associations that represent every major automaker operating in the U.S., including Tesla and foreign automakers, as well as the nation's roughly 17,000 franchised dealers.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/xi-visit-automakers-urge-trump-to-bar-chinese-automakers-in-us.html",
-    publishedAt: "2026-09-18T16:10:01+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "flight-chaos-caused-by-millisecond-softw-85ae0ccb",
-    title: "Flight chaos caused by 'millisecond' software defect, report says",
-    titleJa: "Flight chaos caused by 'millisecond' software defect, report says",
-    summaryJa: "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
-    bodyOriginal: `Flight chaos caused by 'millisecond' software defect, report says
-- Published
-An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a "software defect" affecting the system underpinning UK air space management, the national air traffic service Nats has said.
-The problem happened "in the space of a millisecond", Nats said, leading to the system producing corrupted data.
-The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.
-Nats chief executive Martin Rolfe told the BBC he would not resign, saying the software defect was "very, very obscure."
-"You can fly to almost anywhere from almost any airport at almost any time. If that stops, even for a moment, then you get huge disruption.
-"My job is to make sure that we have this happen as infrequently as possible," he added.
-Transport Secretary Heidi Alexander called the disruption "completely unacceptable", while industry body Airlines UK is writing to Nats to demand immediate compensation for costs incurred.
-The incident prompted questions over the resilience of Nats' systems, and some airlines questioned the position of Mr Rolfe.
-There has also been anger from passengers about how much support they got from airlines, and about the fact that they are unlikely to be entitled to compensation because the regulator judges the situation was extraordinary circumstances.
-In an initial report, external, Nats said the software defect meant air traffic controllers had reduced information available, so restrictions were put in place to limit air traffic to maintain safety.
-The defect occurred at 10:00am on 8 September, but it did not become apparent this was a serious problem for another two and a half hours.
-The system restart did not start until just after 3:15pm, and restrictions on UK airspace were not lifted until 7:30pm.
-Flights in and out of the UK's main airports were affected, including Heathrow, Gatwick, Luton and Glasgow.
-The disruption took days to completely resolve because of the number of planes and crew left out of place.
-Mr Rolfe apologised to those affected by the disruption, saying Nats was "devastated".
-"However, our primary role is to keep our skies safe, and everyone who flies through them. At no point last week was safety in question."
-Nats has "tested these systems so much," he added.
-"We spent so much time making sure they work that anything that does happen of this nature is, by its very nature, going to be incredibly complicated and probably difficult to understand at the time," he said.
-Reacting to the Nats report, the transport secretary described the disruption as "completely unacceptable" and "frustrating" for passengers, airlines and airports.
-"It's clear we need to urgently understand why this issue was not discovered and fixed before it caused chaos," Alexander said, adding that a Civil Aviation Authority review was underway.
-This is the third national air traffic incident in the past three years.
-In 2023, a computer shutdown over the August bank holiday weekend caused chaos for 700,000 passengers.
-There was another, smaller Nats outage in 2025, which caused 150 cancellations.
-Tim Alderslade, chief executive of Airlines UK, said: "Once again, it is passengers who have suffered and airlines who have picked up the pieces - and the tab - of an ATC [Air Traffic Control] system failure, while Nats itself faces no real consequences."
-He added that passengers deserved "commitment and proof that the system is being fixed".
-Alderslade also said Airlines UK was writing to NATS "to demand immediate compensation for the costs incurred and a credible plan to improve resilience."
-'I'm out of pocket by £100'
-Addie Kitson, 26, had been on holiday in China when her flight home was diverted to Sweden.
-"I thought I landed fine" she told the BBC, "but then they went: 'Welcome to Stockholm' and I went: 'Ooh, that's not London'".
-After being told about the issues affecting UK airspace, passengers were kept on the plane for a few hours, and then spent 19 hours inside Stockholm airport.
-Addie ended up with nearly £100 in unexpected costs after having to buy refreshments, adaptors and to pay for Wi-Fi to work.
-"I got one £11 food voucher that didn't even cover the cost of a sandwich in Stockholm airport", Addie said.
-Addie questioned the rules around compensation, saying there had been multiple air traffic outages.
-"It doesn't seem that extraordinary," she said.
-Get in touch
-Were you affected by this air traffic control failure?`,
-    bodyJa: `Flight chaos caused by 'millisecond' software defect, report says
-- Published
-An air traffic control failure that sparked widespread travel chaos earlier this month was caused by a "software defect" affecting the system underpinning UK air space management, the national air traffic service Nats has said.
-The problem happened "in the space of a millisecond", Nats said, leading to the system producing corrupted data.
-The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected, with some sleeping on airport floors or getting stuck overseas.
-Nats chief executive Martin Rolfe told the BBC he would not resign, saying the software defect was "very, very obscure."
-"You can fly to almost anywhere from almost any airport at almost any time. If that stops, even for a moment, then you get huge disruption.
-"My job is to make sure that we have this happen as infrequently as possible," he added.
-Transport Secretary Heidi Alexander called the disruption "completely unacceptable", while industry body Airlines UK is writing to Nats to demand immediate compensation for costs incurred.
-The incident prompted questions over the resilience of Nats' systems, and some airlines questioned the position of Mr Rolfe.
-There has also been anger from passengers about how much support they got from airlines, and about the fact that they are unlikely to be entitled to compensation because the regulator judges the situation was extraordinary circumstances.
-In an initial report, external, Nats said the software defect meant air traffic controllers had reduced information available, so restrictions were put in place to limit air traffic to maintain safety.
-The defect occurred at 10:00am on 8 September, but it did not become apparent this was a serious problem for another two and a half hours.
-The system restart did not start until just after 3:15pm, and restrictions on UK airspace were not lifted until 7:30pm.
-Flights in and out of the UK's main airports were affected, including Heathrow, Gatwick, Luton and Glasgow.
-The disruption took days to completely resolve because of the number of planes and crew left out of place.
-Mr Rolfe apologised to those affected by the disruption, saying Nats was "devastated".
-"However, our primary role is to keep our skies safe, and everyone who flies through them. At no point last week was safety in question."
-Nats has "tested these systems so much," he added.
-"We spent so much time making sure they work that anything that does happen of this nature is, by its very nature, going to be incredibly complicated and probably difficult to understand at the time," he said.
-Reacting to the Nats report, the transport secretary described the disruption as "completely unacceptable" and "frustrating" for passengers, airlines and airports.
-"It's clear we need to urgently understand why this issue was not discovered and fixed before it caused chaos," Alexander said, adding that a Civil Aviation Authority review was underway.
-This is the third national air traffic incident in the past three years.
-In 2023, a computer shutdown over the August bank holiday weekend caused chaos for 700,000 passengers.
-There was another, smaller Nats outage in 2025, which caused 150 cancellations.
-Tim Alderslade, chief executive of Airlines UK, said: "Once again, it is passengers who have suffered and airlines who have picked up the pieces - and the tab - of an ATC [Air Traffic Control] system failure, while Nats itself faces no real consequences."
-He added that passengers deserved "commitment and proof that the system is being fixed".
-Alderslade also said Airlines UK was writing to NATS "to demand immediate compensation for the costs incurred and a credible plan to improve resilience."
-'I'm out of pocket by £100'
-Addie Kitson, 26, had been on holiday in China when her flight home was diverted to Sweden.
-"I thought I landed fine" she told the BBC, "but then they went: 'Welcome to Stockholm' and I went: 'Ooh, that's not London'".
-After being told about the issues affecting UK airspace, passengers were kept on the plane for a few hours, and then spent 19 hours inside Stockholm airport.
-Addie ended up with nearly £100 in unexpected costs after having to buy refreshments, adaptors and to pay for Wi-Fi to work.
-"I got one £11 food voucher that didn't even cover the cost of a sandwich in Stockholm airport", Addie said.
-Addie questioned the rules around compensation, saying there had been multiple air traffic outages.
-"It doesn't seem that extraordinary," she said.
-Get in touch
-Were you affected by this air traffic control failure?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-18T15:48:58+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f648/live/18fc40e0-b34b-11f1-91a3-393282eb9f17.jpg",
-    readTime: 10,
-  },
-  {
-    id: "california-gov-newsom-issues-executive-o-0c3a6354",
-    title: "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
-    titleJa: "California Gov. Newsom issues executive order to rein in AI 'before it's too late'",
-    summaryJa: "California Gov. Gavin Newsom and other 2028 Democratic presidential hopefuls have called for a more aggressive approach to addressing AI fears.",
-    bodyOriginal: `California Gov. Gavin Newsom on Friday issued an executive order aimed at addressing the potential dangers related to artificial intelligence.
-Newsom is part of a group of 2028 Democratic presidential hopefuls who have urged a more aggressive regulatory approach to the rapidly evolving technology, after a researcher at Anthropic resigned and warned of AI's potentially humanity-ending capabilities in a social media post earlier this month.
-The post set off a frenzy in Washington, D.C., as lawmakers grapple with how to establish guardrails for AI. But Congress appears unlikely to take any meaningful legislative action on AI fears before the 2026 midterm elections, and President Donald Trump has so far resisted calls for regulation.
-“The federal government’s abject failure to create any form of meaningful AI oversight or accountability should alarm every American, especially when AI CEOs themselves are begging for regulation," Newsom said in a statement on Friday.
-“We're not waiting to act – we’re going to speed up our work on substantial and responsible AI oversight before it's too late. We’re going to do this thoughtfully but with urgent velocity; the stakes are too high to wait or delay action," Newsom continued.
-The order calls on a group of experts to meet and create, within two months, a guide for the state to strengthen its AI safety and security laws. Those enhanced laws may include a requirement for independent third parties to write safety plans for frontier AI companies, or mandating that companies develop a "kill switch" to shut down their models in case of emergency, according to an announcement from Newsom's office.
-While Trump has called fears of AI safety a "hoax," Democrats have largely rallied around calls for stricter regulations. And those with presidential ambitions have been among the loudest voices in recent weeks.
-Pennsylvania Gov. Josh Shapiro has similarly called for "third-party" oversight of frontier models and stricter guardrails. Sen. Mark Kelly, D-Ariz., told Politico he's introducing legislation to crate a fund paid for by AI companies that would support workers displaced by the technology. And Sen. Cory Booker, D-N.J., urged Trump to convene a special session of Congress to address AI risks.
-Newsom, whose term as California governor ends on Jan. 4, has not announced a presidential campaign, though he has said he is mulling the possibility.
-In his announcement of the executive order, Newsom touted laws already in effect in the state, including one he signed earlier this month that creates a framework for third-party AI auditors.
-"While Washington abdicates its responsibility to protect Americans, California is building on the strongest AI regulatory framework in the nation," Newsom said. "California has already built a national model, and our policy should be the national baseline."`,
-    bodyJa: `California Gov. Gavin Newsom on Friday issued an executive order aimed at addressing the potential dangers related to artificial intelligence.
-Newsom is part of a group of 2028 Democratic presidential hopefuls who have urged a more aggressive regulatory approach to the rapidly evolving technology, after a researcher at Anthropic resigned and warned of AI's potentially humanity-ending capabilities in a social media post earlier this month.
-The post set off a frenzy in Washington, D.C., as lawmakers grapple with how to establish guardrails for AI. But Congress appears unlikely to take any meaningful legislative action on AI fears before the 2026 midterm elections, and President Donald Trump has so far resisted calls for regulation.
-“The federal government’s abject failure to create any form of meaningful AI oversight or accountability should alarm every American, especially when AI CEOs themselves are begging for regulation," Newsom said in a statement on Friday.
-“We're not waiting to act – we’re going to speed up our work on substantial and responsible AI oversight before it's too late. We’re going to do this thoughtfully but with urgent velocity; the stakes are too high to wait or delay action," Newsom continued.
-The order calls on a group of experts to meet and create, within two months, a guide for the state to strengthen its AI safety and security laws. Those enhanced laws may include a requirement for independent third parties to write safety plans for frontier AI companies, or mandating that companies develop a "kill switch" to shut down their models in case of emergency, according to an announcement from Newsom's office.
-While Trump has called fears of AI safety a "hoax," Democrats have largely rallied around calls for stricter regulations. And those with presidential ambitions have been among the loudest voices in recent weeks.
-Pennsylvania Gov. Josh Shapiro has similarly called for "third-party" oversight of frontier models and stricter guardrails. Sen. Mark Kelly, D-Ariz., told Politico he's introducing legislation to crate a fund paid for by AI companies that would support workers displaced by the technology. And Sen. Cory Booker, D-N.J., urged Trump to convene a special session of Congress to address AI risks.
-Newsom, whose term as California governor ends on Jan. 4, has not announced a presidential campaign, though he has said he is mulling the possibility.
-In his announcement of the executive order, Newsom touted laws already in effect in the state, including one he signed earlier this month that creates a framework for third-party AI auditors.
-"While Washington abdicates its responsibility to protect Americans, California is building on the strongest AI regulatory framework in the nation," Newsom said. "California has already built a national model, and our policy should be the national baseline."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/california-newsom-executive-order-ai.html",
-    publishedAt: "2026-09-18T15:02:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
   },
 ];
 
