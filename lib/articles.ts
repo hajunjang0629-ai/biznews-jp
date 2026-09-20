@@ -15,6 +15,204 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "german-chancellor-merz-calls-state-elect-576faa5a",
+    title: "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    titleJa: "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    summaryJa: "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+    bodyOriginal: `German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
+- Published
+Embattled German Chancellor Friedrich Merz has vowed to stay on despite exit polls in two local elections suggesting damaging defeats for his centre-right Christian Democratic Union (CDU) party.
+In the north-eastern state of Mecklenburg-Vorpommern, the party was initially projected to only just scrape through, with its worst ever election result. A few hours later, however, it had dipped below the 5% threshold needed to stay in parliament. Merz called the result "a disaster" for his party.
+Meanwhile the far-right AfD was on track to win the most votes in Mecklenburg-Vorpommern, but it is unlikely to govern as other parties refuse to work with it.
+In Berlin, the ruling CDU was also expected to be beaten by Die Linke (The Left).
+Merz is under mounting pressure, with poor approval ratings and rumours he could even be replaced mid-term in a so-called chancellor swap.
+Votes took place on Sunday, a fortnight after the CDU saw its vote halved as the Alternative for Germany (AfD) won a major victory in the state of Saxony-Anhalt.
+Echoing comments he made after that defeat, Merz told reporters at the party's Berlin headquarters on Sunday that he would forge ahead with his coalition government's plans to push through a package of economic, tax and welfare reforms.
+"The reforms have to come," he insisted. "I am taking on this responsibility, because I want to move our country forward".
+"What needs to be done now requires backbone, steadfastness and patience," Merz said. "I will demonstrate this as CDU party chairman and, above all, as chancellor of our country."
+"I would even go so far as to say that these reforms are the antidote to the authoritarian poison that, with the fascination of authoritarianism, is penetrating ever deeper into our society," Merz added.
+As the projected results came up on the screen at the CDU's election night gathering in Berlin, there were no cheers or celebration.
+This is a party that knows it's in trouble, and its leader quickly went on the offensive, declaring that he is going nowhere.
+Merz has long coveted the top job in German politics, and likely won't give it up easily.
+Polls for both states closed at 18:00 local time (17:00 BST), with a final result expected later on Sunday night, or even Monday morning.
+Public broadcasters ZDF and ARD put the AfD slightly ahead in Mecklenburg-Vorpommern.
+The party was projected to take 38% of the vote share in the state, followed in second place by the centre-left SPD, on 36%.
+For Berlin, the broadcasters put the CDU on 20% of the vote share when polls closed, behind Die Linke - which has never topped polls in the capital before - on nearly 26%.
+The AfD also looks set to increase its vote in Berlin, with a projected 16% of the vote.
+Prior to Sunday's elections, there had been intense speculation in Germany that Merz could be replaced unless his party's political fortunes improved.
+Earlier this week, the leaders of eight German states backed Merz, who has only been chancellor for 16 months.
+On Sunday, Burkard Dregger from the CDU in Berlin, told the BBC it was right that Merz should stay on. "He has a lot of work to do and we don't have time to waste to form new government in the federal level".
+He described the electorate as "impatient", adding that it was "not realistic to expect that every issue has been solved within one year.
+"He has got four years and we have to give him the four years," Dregger said.
+While his backers have argued that many of the problems the nation faces are inherited, Merz himself is deeply unpopular.
+The former corporate lawyer's tack to the right on issues like immigration has failed to erode AfD support, while also alienating people further to the left.
+- Published12 hours ago
+- Published4 days ago
+- Published7 September`,
+    bodyJa: `German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on
+- Published
+Embattled German Chancellor Friedrich Merz has vowed to stay on despite exit polls in two local elections suggesting damaging defeats for his centre-right Christian Democratic Union (CDU) party.
+In the north-eastern state of Mecklenburg-Vorpommern, the party was initially projected to only just scrape through, with its worst ever election result. A few hours later, however, it had dipped below the 5% threshold needed to stay in parliament. Merz called the result "a disaster" for his party.
+Meanwhile the far-right AfD was on track to win the most votes in Mecklenburg-Vorpommern, but it is unlikely to govern as other parties refuse to work with it.
+In Berlin, the ruling CDU was also expected to be beaten by Die Linke (The Left).
+Merz is under mounting pressure, with poor approval ratings and rumours he could even be replaced mid-term in a so-called chancellor swap.
+Votes took place on Sunday, a fortnight after the CDU saw its vote halved as the Alternative for Germany (AfD) won a major victory in the state of Saxony-Anhalt.
+Echoing comments he made after that defeat, Merz told reporters at the party's Berlin headquarters on Sunday that he would forge ahead with his coalition government's plans to push through a package of economic, tax and welfare reforms.
+"The reforms have to come," he insisted. "I am taking on this responsibility, because I want to move our country forward".
+"What needs to be done now requires backbone, steadfastness and patience," Merz said. "I will demonstrate this as CDU party chairman and, above all, as chancellor of our country."
+"I would even go so far as to say that these reforms are the antidote to the authoritarian poison that, with the fascination of authoritarianism, is penetrating ever deeper into our society," Merz added.
+As the projected results came up on the screen at the CDU's election night gathering in Berlin, there were no cheers or celebration.
+This is a party that knows it's in trouble, and its leader quickly went on the offensive, declaring that he is going nowhere.
+Merz has long coveted the top job in German politics, and likely won't give it up easily.
+Polls for both states closed at 18:00 local time (17:00 BST), with a final result expected later on Sunday night, or even Monday morning.
+Public broadcasters ZDF and ARD put the AfD slightly ahead in Mecklenburg-Vorpommern.
+The party was projected to take 38% of the vote share in the state, followed in second place by the centre-left SPD, on 36%.
+For Berlin, the broadcasters put the CDU on 20% of the vote share when polls closed, behind Die Linke - which has never topped polls in the capital before - on nearly 26%.
+The AfD also looks set to increase its vote in Berlin, with a projected 16% of the vote.
+Prior to Sunday's elections, there had been intense speculation in Germany that Merz could be replaced unless his party's political fortunes improved.
+Earlier this week, the leaders of eight German states backed Merz, who has only been chancellor for 16 months.
+On Sunday, Burkard Dregger from the CDU in Berlin, told the BBC it was right that Merz should stay on. "He has a lot of work to do and we don't have time to waste to form new government in the federal level".
+He described the electorate as "impatient", adding that it was "not realistic to expect that every issue has been solved within one year.
+"He has got four years and we have to give him the four years," Dregger said.
+While his backers have argued that many of the problems the nation faces are inherited, Merz himself is deeply unpopular.
+The former corporate lawyer's tack to the right on issues like immigration has failed to erode AfD support, while also alienating people further to the left.
+- Published12 hours ago
+- Published4 days ago
+- Published7 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-20T20:21:40+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b8/live/cb4d6df0-b526-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trump-to-meet-with-nyc-mayor-zohran-mamd-5f694b74",
+    title: "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+    titleJa: "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+    summaryJa: "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
+    bodyOriginal: `President Donald Trump will meet with New York City Mayor Zohran Mamdani on Monday ahead of the upcoming U.N. General Assembly, the mayor's office confirmed to CNBC on Sunday.
+The mayor's press office said the meeting will take place at Gracie Mansion and "will focus on issues affecting New York City and New Yorkers."
+Mamdani, a 34-year-old democratic socialist, rose to national prominence after winning New York City's 2025 mayoral election. He has emerged as a top leader amid the Democratic Party's leftward shift, and Monday's meeting will be the latest tete-a-tete between the two political adversaries.
+Trump's Republican Party has placed Mamdani at the center of its messaging blitz ahead of November's midterm elections, where the GOP is trying to paint Democrats as "communists." Democrats are surging in public polling heading into the midterms, where Republicans risk losing control of both the House and the Senate.
+Trump himself has maintained an unusually cordial relationship with Mamdani — whom he actively worked against during the mayoral race — despite his own party's attempts to attack the mayor. A native New Yorker, the president has hosted Mamdani at the White House twice for surprisingly friendly meetings.`,
+    bodyJa: `President Donald Trump will meet with New York City Mayor Zohran Mamdani on Monday ahead of the upcoming U.N. General Assembly, the mayor's office confirmed to CNBC on Sunday.
+The mayor's press office said the meeting will take place at Gracie Mansion and "will focus on issues affecting New York City and New Yorkers."
+Mamdani, a 34-year-old democratic socialist, rose to national prominence after winning New York City's 2025 mayoral election. He has emerged as a top leader amid the Democratic Party's leftward shift, and Monday's meeting will be the latest tete-a-tete between the two political adversaries.
+Trump's Republican Party has placed Mamdani at the center of its messaging blitz ahead of November's midterm elections, where the GOP is trying to paint Democrats as "communists." Democrats are surging in public polling heading into the midterms, where Republicans risk losing control of both the House and the Senate.
+Trump himself has maintained an unusually cordial relationship with Mamdani — whom he actively worked against during the mayoral race — despite his own party's attempts to attack the mayor. A native New Yorker, the president has hosted Mamdani at the White House twice for surprisingly friendly meetings.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+    publishedAt: "2026-09-20T19:06:16+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "i-have-125-000-in-credit-card-debt-will-db8ad995",
+    title: "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+    titleJa: "I have $125,000 in credit-card debt. Will $17,000 a month in income, including disability, affect my bankruptcy?",
+    summaryJa: "“I racked up this debt to cover my living expenses for two years without an income stream.”",
+    bodyOriginal: `“I racked up this debt to cover my living expenses for two years without an income stream.”`,
+    bodyJa: `“I racked up this debt to cover my living expenses for two years without an income stream.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-am-drowning-in-debt-i-have-125-000-in-credit-card-debt-will-9-000-in-disability-income-affect-my-bankruptcy-f897c131?mod=mw_rss_topstories",
+    publishedAt: "2026-09-20T17:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-58969241",
+    readTime: 2,
+  },
+  {
+    id: "bessent-meets-china-vice-premier-he-life-40b46f7e",
+    title: "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+    titleJa: "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+    summaryJa: "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
+    bodyOriginal: `Treasury Secretary Scott Bessent is meeting with Chinese Vice Premier He Lifeng ahead of Chinese President Xi Jinping's visit to the U.S. this week.
+The talks are expected to cover artificial intelligence, tariffs, rare earths and other economic issues ahead of Trump and Xi's Sept. 24 summit in Washington, D.C.
+"In New York City, Vice Premier He Lifeng and I are continuing our discussions on the U.S.-China economic and trade relationship ahead of [President Donald Trump's] historic summit with President Xi in Washington," Bessent said in a post to X along with a photo of himself and He.
+He added: "These talks help lay the groundwork for President Trump to advance America's economic interests and deliver results for the American people."
+In brief remarks to reporters before the meeting at JPMorgan Chase in New York, Bessent said he looks forward to "focused, fulsome and constructive talks today that will set the stage" for this week's summit between the leaders of the world's two largest national economies.
+U.S. Trade Representative Jamieson Greer is also expected to participate in the talks.
+The meeting comes before Xi's high-stakes visit to Washington this week, his first during Trump's second term. Trump visited Beijing earlier this year amid escalating tensions between the world's largest economies.
+Bessent's meeting with He also comes amid intensifying debate in Washington over the safety of artificial intelligence and national security as the U.S. and China compete for technological leadership. The Trump administration has favored voluntary and national-security-focused safeguards over broad mandatory rules for AI developers. The issue is expected to be part of discussions between Xi and Trump during the Chinese president's visit.
+Top AI executives have recently warned that the technology could quickly become out of control and poses sweeping new threats. They urged Washington to set guardrails and regulations on the industry, something Trump himself has recently derided.
+CNBC reported Friday that JPMorgan CEO Jamie Dimon and Citigroup chief Jane Fraser are expected at a state dinner during Xi's visit. OpenAI CEO Sam Altman and Nvidia chief Jensen Huang are also set to attend.
+The summit in Washington is expected to include high-stakes economic dialogue as the U.S. and China remain locked in competition.
+In addition to AI, the summit is likely to broach other issues such as trade and tariffs. A key part of the current U.S.-China trade truce — Washington's suspension of heightened reciprocal tariffs on Chinese imports — is scheduled to expire Nov. 10.
+The current truce includes Chinese commitments on rare-earth exports and U.S. agricultural purchases, while the Trump administration reduced some tariffs and suspended higher reciprocal tariffs on Chinese goods.`,
+    bodyJa: `Treasury Secretary Scott Bessent is meeting with Chinese Vice Premier He Lifeng ahead of Chinese President Xi Jinping's visit to the U.S. this week.
+The talks are expected to cover artificial intelligence, tariffs, rare earths and other economic issues ahead of Trump and Xi's Sept. 24 summit in Washington, D.C.
+"In New York City, Vice Premier He Lifeng and I are continuing our discussions on the U.S.-China economic and trade relationship ahead of [President Donald Trump's] historic summit with President Xi in Washington," Bessent said in a post to X along with a photo of himself and He.
+He added: "These talks help lay the groundwork for President Trump to advance America's economic interests and deliver results for the American people."
+In brief remarks to reporters before the meeting at JPMorgan Chase in New York, Bessent said he looks forward to "focused, fulsome and constructive talks today that will set the stage" for this week's summit between the leaders of the world's two largest national economies.
+U.S. Trade Representative Jamieson Greer is also expected to participate in the talks.
+The meeting comes before Xi's high-stakes visit to Washington this week, his first during Trump's second term. Trump visited Beijing earlier this year amid escalating tensions between the world's largest economies.
+Bessent's meeting with He also comes amid intensifying debate in Washington over the safety of artificial intelligence and national security as the U.S. and China compete for technological leadership. The Trump administration has favored voluntary and national-security-focused safeguards over broad mandatory rules for AI developers. The issue is expected to be part of discussions between Xi and Trump during the Chinese president's visit.
+Top AI executives have recently warned that the technology could quickly become out of control and poses sweeping new threats. They urged Washington to set guardrails and regulations on the industry, something Trump himself has recently derided.
+CNBC reported Friday that JPMorgan CEO Jamie Dimon and Citigroup chief Jane Fraser are expected at a state dinner during Xi's visit. OpenAI CEO Sam Altman and Nvidia chief Jensen Huang are also set to attend.
+The summit in Washington is expected to include high-stakes economic dialogue as the U.S. and China remain locked in competition.
+In addition to AI, the summit is likely to broach other issues such as trade and tariffs. A key part of the current U.S.-China trade truce — Washington's suspension of heightened reciprocal tariffs on Chinese imports — is scheduled to expire Nov. 10.
+The current truce includes Chinese commitments on rare-earth exports and U.S. agricultural purchases, while the Trump administration reduced some tariffs and suspended higher reciprocal tariffs on Chinese goods.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+    publishedAt: "2026-09-20T16:56:14+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "trump-says-triumphal-arch-will-be-milita-55f1d70d",
+    title: "Trump says triumphal arch will be military complex with drones and snipers",
+    titleJa: "Trump says triumphal arch will be military complex with drones and snipers",
+    summaryJa: "Trump said the updated plans were at the request of the US military and for national security purposes.",
+    bodyOriginal: `Trump says triumphal arch will be military complex with drones and snipers
+- Published
+US President Donald Trump has said his proposed triumphal arch will double as a complex to store military equipment, complete with the ability to deploy snipers and drones.
+In a Sunday morning post, Trump said he is updating the plans at the "strong request" of the US military and for "national security purposes".
+The "top grade" military complex and arch will "house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage", he said.
+He did not provide details on construction plans or timing, and it's not clear if he needs further approval for the facility.
+"There will be no facility like this anywhere in the World," Trump wrote on his Truth Social platform. He added that out of "the 59 top cities and Capitals", Washington DC is "the only one in the world that does not have a triumphal arch", without specifying what those cities are.
+Construction on Trump's 250-foot arch, planned for a site across the Potomac River from Washington DC just outside the Arlington National Cemetery, was expected to begin this month.
+A rendering of the design from earlier this year includes a golden, winged Lady Liberty on the top of the arch, flanked by two gold eagles, and with the phrases "One Nation Under God" and "Liberty and Justice for All" inscribed in gold on either side of the structure. It will stand 250-feet (76m) from its base to the top of the golden lady statue.
+At that height, the structure would dwarf the 99-foot Lincoln Memorial nearby and be half as high as the Washington Monument.
+The Department of Defence declined to provide additional details when reached for comment.
+Trump has pursued a number of construction projects during his second term to revamp the US capital, including a gilded makeover of the Oval Office, constructing a White House ballroom estimated to cost around $400m, paving over the White House Rose Garden, and renovating the Lincoln Memorial Reflecting Pool.
+The triumphal arch is one of the biggest projects Trump has set his sights on.`,
+    bodyJa: `Trump says triumphal arch will be military complex with drones and snipers
+- Published
+US President Donald Trump has said his proposed triumphal arch will double as a complex to store military equipment, complete with the ability to deploy snipers and drones.
+In a Sunday morning post, Trump said he is updating the plans at the "strong request" of the US military and for "national security purposes".
+The "top grade" military complex and arch will "house, store, and have the rapid ability to use large numbers of drones, plus Snipers, on both the roof and plaza areas, and additionally have and hold large quantities of sniper ammunition in storage", he said.
+He did not provide details on construction plans or timing, and it's not clear if he needs further approval for the facility.
+"There will be no facility like this anywhere in the World," Trump wrote on his Truth Social platform. He added that out of "the 59 top cities and Capitals", Washington DC is "the only one in the world that does not have a triumphal arch", without specifying what those cities are.
+Construction on Trump's 250-foot arch, planned for a site across the Potomac River from Washington DC just outside the Arlington National Cemetery, was expected to begin this month.
+A rendering of the design from earlier this year includes a golden, winged Lady Liberty on the top of the arch, flanked by two gold eagles, and with the phrases "One Nation Under God" and "Liberty and Justice for All" inscribed in gold on either side of the structure. It will stand 250-feet (76m) from its base to the top of the golden lady statue.
+At that height, the structure would dwarf the 99-foot Lincoln Memorial nearby and be half as high as the Washington Monument.
+The Department of Defence declined to provide additional details when reached for comment.
+Trump has pursued a number of construction projects during his second term to revamp the US capital, including a gilded makeover of the Oval Office, constructing a White House ballroom estimated to cost around $400m, paving over the White House Rose Garden, and renovating the Lincoln Memorial Reflecting Pool.
+The triumphal arch is one of the biggest projects Trump has set his sights on.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-20T16:36:43+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e12/live/3a464990-b4f8-11f1-947c-4906c0564be0.jpg",
+    readTime: 6,
+  },
+  {
+    id: "my-rental-property-is-paid-off-but-i-nee-ad0c832c",
+    title: "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    titleJa: "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+    summaryJa: "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+    bodyOriginal: `The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.`,
+    bodyJa: `The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+    publishedAt: "2026-09-20T15:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-39768792",
+    readTime: 2,
+  },
+  {
     id: "u-s-urges-americans-to-reconsider-middle-680f3745",
     title: "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
     titleJa: "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
@@ -63,6 +261,20 @@ Brent crude oil, the international benchmark, is up 72% since the start of 2026 
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 10,
+  },
+  {
+    id: "snoopy-cups-at-starbucks-and-mcdonald-s-d18ff19c",
+    title: "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+    titleJa: "Snoopy cups at Starbucks and McDonald’s SpongeBob toys are commanding huge markups on eBay",
+    summaryJa: "Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .",
+    bodyOriginal: `Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .`,
+    bodyJa: `Adults are scooping up promotional items out of nostalgia — and playing into a frenzy around collectibles .`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/starbuckss-snoopy-cups-and-mcdonalds-spongebob-toys-are-commanding-huge-markups-on-ebay-ed3e514d?mod=mw_rss_topstories",
+    publishedAt: "2026-09-20T14:08:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-29689052",
+    readTime: 2,
   },
   {
     id: "lib-dems-vow-to-end-computer-says-no-eco-e02b5a5b",
@@ -143,6 +355,20 @@ Sign up for our Politics Essential newsletter to read top political analysis, ga
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c80/live/a36260c0-b4e5-11f1-88d0-9b6aa3313295.png",
     readTime: 10,
+  },
+  {
+    id: "china-is-chasing-spacex-and-setting-its-1bd2f4f7",
+    title: "China is chasing SpaceX and setting its sights on the global space economy",
+    titleJa: "China is chasing SpaceX and setting its sights on the global space economy",
+    summaryJa: "Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.",
+    bodyOriginal: `Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.`,
+    bodyJa: `Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
+    publishedAt: "2026-09-20T13:53:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.mktw.net/im-25340089",
+    readTime: 2,
   },
   {
     id: "it-s-awful-how-tariffs-soaring-fuel-cos-86025492",
@@ -2347,428 +2573,6 @@ Related topics
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
     readTime: 5,
-  },
-  {
-    id: "google-s-gemini-becomes-latest-ai-model-aff845cc",
-    title: "Google's Gemini becomes latest AI model to break out and hack computer systems",
-    titleJa: "Google's Gemini becomes latest AI model to break out and hack computer systems",
-    summaryJa: "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
-    bodyOriginal: `Google said on Friday that its Gemini model had hacked three other companies, the first time the search giant has disclosed that one of its models autonomously gained access to third-party computer systems without permission.
-In May, the Gemini model accessed three separate private computer systems by guessing passwords and by twice using a repository of publicly listed passwords, Google said.
-The incident happened as part of a "capture-the-flag" security test run by Israeli startup Irregular, and Google's agents were never supposed to access the broader internet, but a bug in the testing environment made internet access available.
-The agents stopped their intrusion when they determined they had accessed real company systems, not just part of the testing environment, Google said.
-"In a standard evaluation, the model found public information online and guessed credentials to access websites it thought were part of the test," Heather Adkins, vice president of security engineering at Google, said in a statement. "In all three of these instances, the model stopped."
-The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
-OpenAI, Anthropic and Meta have in recent weeks reported incidents where their AI models had broken out of their testing environments and attempted to hack other companies to gain unauthorized access to computer systems.
-The disclosures of so-called "misaligned" AI models prompted Anthropic CEO Dario Amodei to call for the industry to collectively slow down the development of the most advanced AI models until companies can ensure they are safe.
-All of the above incidents involved Israeli startup Irregular. The company, which is backed by Sequoia and Redpoint Ventures, was valued last year at $450 million. Its tools help foundation model developers perform cybersecurity tests on their cutting-edge technologies.
-An Irregular spokesperson told CNBC that the Google incident was related to the same issue that allowed the other models to access the internet.
-"This is the same issue that was already reported and does not represent a materially separate incident," an Irregular spokesperson said in a statement. "All relevant labs were notified in late July, and affected entities were contacted as part of the investigation."
-Google said the incident happened in May and it was notified by Irregular in late July. Google has worked with Irregular to change its testing process.
-A Google spokesperson declined to identify the exact Gemini model involved.
-"These events highlight the importance of training powerful AI models to act responsibly," Google's Adkins said in a statement.
-The Wall Street Journal first reported the security incident.
-CNBC's Jonathan Vanian contributed reporting.`,
-    bodyJa: `Google said on Friday that its Gemini model had hacked three other companies, the first time the search giant has disclosed that one of its models autonomously gained access to third-party computer systems without permission.
-In May, the Gemini model accessed three separate private computer systems by guessing passwords and by twice using a repository of publicly listed passwords, Google said.
-The incident happened as part of a "capture-the-flag" security test run by Israeli startup Irregular, and Google's agents were never supposed to access the broader internet, but a bug in the testing environment made internet access available.
-The agents stopped their intrusion when they determined they had accessed real company systems, not just part of the testing environment, Google said.
-"In a standard evaluation, the model found public information online and guessed credentials to access websites it thought were part of the test," Heather Adkins, vice president of security engineering at Google, said in a statement. "In all three of these instances, the model stopped."
-The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.
-OpenAI, Anthropic and Meta have in recent weeks reported incidents where their AI models had broken out of their testing environments and attempted to hack other companies to gain unauthorized access to computer systems.
-The disclosures of so-called "misaligned" AI models prompted Anthropic CEO Dario Amodei to call for the industry to collectively slow down the development of the most advanced AI models until companies can ensure they are safe.
-All of the above incidents involved Israeli startup Irregular. The company, which is backed by Sequoia and Redpoint Ventures, was valued last year at $450 million. Its tools help foundation model developers perform cybersecurity tests on their cutting-edge technologies.
-An Irregular spokesperson told CNBC that the Google incident was related to the same issue that allowed the other models to access the internet.
-"This is the same issue that was already reported and does not represent a materially separate incident," an Irregular spokesperson said in a statement. "All relevant labs were notified in late July, and affected entities were contacted as part of the investigation."
-Google said the incident happened in May and it was notified by Irregular in late July. Google has worked with Irregular to change its testing process.
-A Google spokesperson declined to identify the exact Gemini model involved.
-"These events highlight the importance of training powerful AI models to act responsibly," Google's Adkins said in a statement.
-The Wall Street Journal first reported the security incident.
-CNBC's Jonathan Vanian contributed reporting.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-    publishedAt: "2026-09-19T01:41:49+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "i-m-in-my-50s-my-mother-died-from-alzhei-4fa73984",
-    title: "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    titleJa: "I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?",
-    summaryJa: "“By the time my mother died, the insurance company had paid out almost $600,000.”",
-    bodyOriginal: `“By the time my mother died, the insurance company had paid out almost $600,000.”`,
-    bodyJa: `“By the time my mother died, the insurance company had paid out almost $600,000.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories",
-    publishedAt: "2026-09-18T23:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-68469739",
-    readTime: 2,
-  },
-  {
-    id: "trump-says-u-s-to-build-a-large-military-ed0ec9ea",
-    title: "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-    titleJa: "Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark",
-    summaryJa: "Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.",
-    bodyOriginal: `President Donald Trump on Friday announced an agreement with Greenland and Denmark that gives the U.S. what he described as "permanent control over security, and all other needs" in the Danish island territory.
-"We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many," Trump said in a Truth Social post.
-Greenland already has a U.S. military presence under a decades-old defense agreement with Denmark.
-The deal as described in Trump's post appears to stop far short of his prior insistence that Greenland must be made a part of the United States.
-Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.
-But Trump signaled Friday that he was satisfied by the new deal, claiming that it addresses "ALL of our many U.S. concerns."
-"There will be NO COST to the United States," he wrote.
-The Danish prime minister's office in a press release later Friday said that the three governments expect to sign the agreement at the United Nations General Assembly next week.
-Greenland Prime Minister Mette Frederiksen said in an included statement that the deal "strengthens our common security in the Arctic and the North Atlantic area and therefore is great for NATO and Europe as well."
-He added that it "recognizes the sovereignty and territorial integrity of the Kingdom and the Greenlandic people's right to self-determination."
-Trump's post included some vague claims about the agreement, including that it guarantees that the U.S. "will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland."
-The official text of any deal was not immediately available. The White House did not immediately respond to CNBC's request for additional information on the deal.`,
-    bodyJa: `President Donald Trump on Friday announced an agreement with Greenland and Denmark that gives the U.S. what he described as "permanent control over security, and all other needs" in the Danish island territory.
-"We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many," Trump said in a Truth Social post.
-Greenland already has a U.S. military presence under a decades-old defense agreement with Denmark.
-The deal as described in Trump's post appears to stop far short of his prior insistence that Greenland must be made a part of the United States.
-Greenland has maintained it is not for sale, and the European Union earlier this year united to rebuke Trump over his push to acquire the island.
-But Trump signaled Friday that he was satisfied by the new deal, claiming that it addresses "ALL of our many U.S. concerns."
-"There will be NO COST to the United States," he wrote.
-The Danish prime minister's office in a press release later Friday said that the three governments expect to sign the agreement at the United Nations General Assembly next week.
-Greenland Prime Minister Mette Frederiksen said in an included statement that the deal "strengthens our common security in the Arctic and the North Atlantic area and therefore is great for NATO and Europe as well."
-He added that it "recognizes the sovereignty and territorial integrity of the Kingdom and the Greenlandic people's right to self-determination."
-Trump's post included some vague claims about the agreement, including that it guarantees that the U.S. "will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland."
-The official text of any deal was not immediately available. The White House did not immediately respond to CNBC's request for additional information on the deal.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/18/trump-greenland-denmark-military-deal.html",
-    publishedAt: "2026-09-18T23:28:06+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "billionaire-man-united-owner-says-he-has-f982d01d",
-    title: "Billionaire Man United owner says he has lost confidence in the UK",
-    titleJa: "Billionaire Man United owner says he has lost confidence in the UK",
-    summaryJa: "Ineos founder Sir Jim Ratcliffe tells the BBC he thinks the country is \"on the slide\" and calls for more investment in the North Sea.",
-    bodyOriginal: `Billionaire Man United owner says he has lost confidence in the UK
-- Published
-One of Britain's richest people, Sir Jim Ratcliffe, says he has lost confidence in the UK, describing the country as "on the slide".
-The founder of petrochemical giant Ineos, who also owns a large stake in Manchester United, said the UK was in decline due to a combination of high taxes and high immigration.
-He told the BBC failing to invest further in North Sea oil and gas amounted to "insanity" and warned gas storage was so low that the UK could "run out of gas" if there was a cold snap this winter.
-In response to the billionaire's criticism, the government said it was working to deliver growth and that business investment had increased in the last two years.
-A spokesperson said they did not foresee any problems with gas supply: "We have a diverse energy mix and are confident in our security of supply."
-Sir Jim, whose wealth is estimated to be around £15bn, has prompted controversy in the past with his comments on immigration. He was a supporter of Brexit but has been a tax resident in Monaco since 2020.
-The businessman's UK exit has been followed by other high-profile billionaires, including steel tycoon Lakshmi Mittal and most recently hedge-fund boss Chris Rokos.
-Sir Jim said the politics of envy was driving people away from the UK.
-"In America they applaud people who create wealth," he said. "Unfortunately the UK has got a bit of a green eye towards wealth at the moment."
-He said for him to return to the UK "things would have to get better".
-Prime Minister Andy Burnham has said he will take a "pragmatic approach" to oil and gas, but one of the biggest decisions facing the government, whether to give the go-ahead to further development of the oil and gas fields at Rosebank and Jackdaw, is still waiting to be resolved.
-Sir Jim criticised the hesitation and suggested high taxes on North Sea operators were threatening the sector's viability. Tax on energy company profits is being reformed, but won't be fully implemented until 2030.
-Ineos operates the Forties pipeline which transports about 30% of the UK's North Sea oil.
-"You would expect [the government] to exploit our natural resources and we're clearly not doing that. We're shutting it down.
-"If you tax everybody to death, they're all going to leave. And that's what's happening."
-Recent climate data combined with record heatwaves have given weight to the argument against further exploitation of fossil fuels. However, political pressure has grown on the government to proceed with Rosebank and Jackdaw to support UK jobs, tax revenues and boost energy security.
-Sir Jim backed those calls, saying it was "absurd" to import more energy than necessary.
-The government spokesperson said that oil and gas would play an important role in the UK "for decades to come", but they added: "The transition to homegrown clean power is the only way to deliver energy and financial security for families and businesses."
-Sir Jim warned that low gas storage levels in Europe posed a risk to the UK in the months ahead.
-"If we have a really sharp cold spell, then there is conceivably the possibility that we'll run out of gas and have to switch industry off... our storage is not full," he said.
-The UK does not typically store a great deal of gas, relying instead on LNG (liquefied natural gas) and gas imports from Europe.
-Energy specialist consultancy Cornwall Insight said that current gas storage levels in the EU were at about 69%, when typically they would be at 85% at this time of the year.
-However, Adam Bell of consultancy Stonehaven, said supplies were unlikely to run short.
-"We are down compared to where we normally would be but not what I'd regard as catastrophic," he said.
-"The physical risk of running out of gas is relatively low, especially if Jackdaw gets the go ahead."
-He said the main source of uncertainty was policy in the US, which supplies LNG to the UK.
-Sir Jim was speaking in Denmark at the launch of the EU's first carbon capture and storage system (CCS). Ineos has invested in the scheme which is being subsidised by the Danish government and the EU.
-He said he had hoped to develop CCS in the UK but there had not been enough government support.
-The Department for Energy Security and Net Zero (DESNZ) said the government had committed £21.7bn for CCS projects over 25 years, however, no projects are yet operational in the UK.
-At the project in Esbjerg in the south west of Denmark, carbon captured from around the country arrives in huge zeppelin-like tanks before being pumped into a ship called Carbon Destroyer 1. It is then pumped into a depleted oil field nearly 200 miles off shore.
-Critics say CCS is expensive, money that could be better used to invest in renewables rather than supporting continued fossil fuel use.
-Sir Jim's critique of the UK is not limited to energy and tax policy. He said the country had at one time been "a fantastic place".
-"We had the greatest empire in the world. We were a great people. We won two world wars," he said.
-But he said immigration and welfare spending were both currently too high and that politicians had proved reluctant to tackle either.
-"Nobody's tough enough to deal with the immigration problem. Nobody's tough enough to deal with the benefits problem. But somebody needs to do it," he said.
-Earlier this year he caused controversy by saying the UK had been "colonised by immigrants".
-He later offered an apology for "offending some people".
-You can listen to the full interview here on the Big Boss Interview podcast with Simon Jack.
-- Published8 September
-- Published12 February
-- Published12 February
-- Published17 August`,
-    bodyJa: `Billionaire Man United owner says he has lost confidence in the UK
-- Published
-One of Britain's richest people, Sir Jim Ratcliffe, says he has lost confidence in the UK, describing the country as "on the slide".
-The founder of petrochemical giant Ineos, who also owns a large stake in Manchester United, said the UK was in decline due to a combination of high taxes and high immigration.
-He told the BBC failing to invest further in North Sea oil and gas amounted to "insanity" and warned gas storage was so low that the UK could "run out of gas" if there was a cold snap this winter.
-In response to the billionaire's criticism, the government said it was working to deliver growth and that business investment had increased in the last two years.
-A spokesperson said they did not foresee any problems with gas supply: "We have a diverse energy mix and are confident in our security of supply."
-Sir Jim, whose wealth is estimated to be around £15bn, has prompted controversy in the past with his comments on immigration. He was a supporter of Brexit but has been a tax resident in Monaco since 2020.
-The businessman's UK exit has been followed by other high-profile billionaires, including steel tycoon Lakshmi Mittal and most recently hedge-fund boss Chris Rokos.
-Sir Jim said the politics of envy was driving people away from the UK.
-"In America they applaud people who create wealth," he said. "Unfortunately the UK has got a bit of a green eye towards wealth at the moment."
-He said for him to return to the UK "things would have to get better".
-Prime Minister Andy Burnham has said he will take a "pragmatic approach" to oil and gas, but one of the biggest decisions facing the government, whether to give the go-ahead to further development of the oil and gas fields at Rosebank and Jackdaw, is still waiting to be resolved.
-Sir Jim criticised the hesitation and suggested high taxes on North Sea operators were threatening the sector's viability. Tax on energy company profits is being reformed, but won't be fully implemented until 2030.
-Ineos operates the Forties pipeline which transports about 30% of the UK's North Sea oil.
-"You would expect [the government] to exploit our natural resources and we're clearly not doing that. We're shutting it down.
-"If you tax everybody to death, they're all going to leave. And that's what's happening."
-Recent climate data combined with record heatwaves have given weight to the argument against further exploitation of fossil fuels. However, political pressure has grown on the government to proceed with Rosebank and Jackdaw to support UK jobs, tax revenues and boost energy security.
-Sir Jim backed those calls, saying it was "absurd" to import more energy than necessary.
-The government spokesperson said that oil and gas would play an important role in the UK "for decades to come", but they added: "The transition to homegrown clean power is the only way to deliver energy and financial security for families and businesses."
-Sir Jim warned that low gas storage levels in Europe posed a risk to the UK in the months ahead.
-"If we have a really sharp cold spell, then there is conceivably the possibility that we'll run out of gas and have to switch industry off... our storage is not full," he said.
-The UK does not typically store a great deal of gas, relying instead on LNG (liquefied natural gas) and gas imports from Europe.
-Energy specialist consultancy Cornwall Insight said that current gas storage levels in the EU were at about 69%, when typically they would be at 85% at this time of the year.
-However, Adam Bell of consultancy Stonehaven, said supplies were unlikely to run short.
-"We are down compared to where we normally would be but not what I'd regard as catastrophic," he said.
-"The physical risk of running out of gas is relatively low, especially if Jackdaw gets the go ahead."
-He said the main source of uncertainty was policy in the US, which supplies LNG to the UK.
-Sir Jim was speaking in Denmark at the launch of the EU's first carbon capture and storage system (CCS). Ineos has invested in the scheme which is being subsidised by the Danish government and the EU.
-He said he had hoped to develop CCS in the UK but there had not been enough government support.
-The Department for Energy Security and Net Zero (DESNZ) said the government had committed £21.7bn for CCS projects over 25 years, however, no projects are yet operational in the UK.
-At the project in Esbjerg in the south west of Denmark, carbon captured from around the country arrives in huge zeppelin-like tanks before being pumped into a ship called Carbon Destroyer 1. It is then pumped into a depleted oil field nearly 200 miles off shore.
-Critics say CCS is expensive, money that could be better used to invest in renewables rather than supporting continued fossil fuel use.
-Sir Jim's critique of the UK is not limited to energy and tax policy. He said the country had at one time been "a fantastic place".
-"We had the greatest empire in the world. We were a great people. We won two world wars," he said.
-But he said immigration and welfare spending were both currently too high and that politicians had proved reluctant to tackle either.
-"Nobody's tough enough to deal with the immigration problem. Nobody's tough enough to deal with the benefits problem. But somebody needs to do it," he said.
-Earlier this year he caused controversy by saying the UK had been "colonised by immigrants".
-He later offered an apology for "offending some people".
-You can listen to the full interview here on the Big Boss Interview podcast with Simon Jack.
-- Published8 September
-- Published12 February
-- Published12 February
-- Published17 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm0463619r1no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-18T23:06:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d178/live/30a2f140-b395-11f1-bf60-ad6e22c4842e.jpg",
-    readTime: 10,
-  },
-  {
-    id: "grim-discoveries-of-murdered-women-spark-0cb166a2",
-    title: "Grim discoveries of murdered women spark fear in South Africa",
-    titleJa: "Grim discoveries of murdered women spark fear in South Africa",
-    summaryJa: "Dineo Motapane is one of nine recent victims whose deaths have left a nation traumatised over the level of violence against women.",
-    bodyOriginal: `Grim discoveries of murdered women spark fear in South Africa
-- Published
-"What we are going to do, I have no idea," sobs Nokwanda Matshikiza, reflecting on the murder of her niece Dineo Motapane. "But something must give."
-"For us, for all the other women. How many other bodies will be found before something happens?"
-Nokwanda is speaking to the BBC from the family home near South Africa's main city, Johannesburg, just two days after relatives identified Dineo's body.
-The 38-year-old mother-of-two was last seen alive on Sunday. Her battered and partly burned body was later found in the residential region of Ekurhuleni.
-Nokwanda weeps as she describes how the family will have to face, at some point, the grim task of telling Dineo's daughter of her death.
-"How do you explain that your parent was brutally murdered, dumped in a field, and just left there, discarded like a piece of rubbish.
-"There's no coming to peace with it," she adds. "It's something that you can never reconcile yourself with, that you can never get over."
-Dineo's death this week has come amid a series of comparable incidents in Ekurhuleni – her body one of three discovered there this week. In total, nine bodies of murdered women have been found in similar circumstances in the region since July.
-The problem has always been there but this spate of grim discoveries has once again sparked a national outcry about the scale of violence against women in the country – which has one of the highest rates of gender-based violence in the world.
-Themba Kekana is also living in shock at the death of a loved one.
-His sister, Itumeleng, was one of the first to disappear in Ekurhuleni.
-The 32-year-old shopkeeper's body was found in July, 17 days after she was last seen alive. Her body was badly bruised, partially clothed and dumped on a bridge.
-"We are devastated with grief," says Themba, wet eyes shining.
-"I look at my sister's young daughter and my eyes fill with tears, I know there is no way that I can ever take this pain away from her.
-"No family should have to deal with what we are faced with."
-Only one arrest has been made in connection with the murders – and that was two days after the first body was discovered on 15 July.
-Nobody has been detained following the murders of Itumeleng or Dineo or the other six Ekurhuleni women.
-Most of the victims were young, in their 20s or 30s, and almost all had suffered extreme violence before their deaths.
-Police have said they are not sure if they are hunting a serial killer. It is possible the cases are not linked.
-Either way, what has happened in this residential district east of South Africa's biggest city has traumatised the nation, shining a spotlight on a situation that many believe is a crisis.
-South Africa's police issue detailed crime statistics every quarter, which show that between April and June this year - 5,427 people were murdered.
-The official data does not distinguish between the genders of the victims, but this week the country's Human Rights Commission released figures showing that 569 women had been killed in that period (six a day on average), with another 1,052 who faced attempted murder.
-Many women - already feeling unsafe - have been left reeling by recent events.
-And it has put pressure on the government, less than a year after ministers acknowledged the scale of the issue and declared gender-based violence a national disaster.
-Announcing the move last November, Minister of Social Development Nokuzola Sisisi Tolashe said that treating the issue as a national disaster would help the government tackle the crisis.
-It followed weeks of protests, culminating in a "Women's Shut Down" march as South Africa hosted the G20 summit.
-This week has seen a chorus of calls for things to go further.
-Rights group Amnesty International said an important first step towards protecting South Africa's women was to recognise femicide as a separate crime.
-"Every day that femicide remains unrecognised as a crime is a failure to confront the targeted killing of women," said Amnesty's country director Shenilla Mohamed in a statement. "It is time to call it what it is: Femicide.
-"Femicide is a gender-motivated crime. It is the killing of a woman because she is a woman."
-Amnesty says femicide is criminalised as a specific crime in 33 countries, including Gabon and Morocco in Africa.
-It argues that making that change in South Africa could help focus on the scale of the issue.
-"It would compel the state to confront their failure to protect women and girls from violence," says Mohamed. "You cannot fix what you are not tracking."
-Almost everyone in South Africa agrees more needs to be done.
-President Cyril Ramaphosa this week pledged to leave "no stone unturned" in investigating the crimes in Ekurhuleni, adding: "As a nation, we must stand up for the rights, safety and dignity of women and girls."
-Lebogang Ramofoko, an advocate for gender and social justice, said the levels of violence against women in the country were symptomatic of a much bigger problem – a lack of regard for humanity.
-"The bodies of black women have been treated as disposable in this country for time immemorial, passed down from colonisation through to apartheid," she tells the BBC, referring to the legalised system of racism that was in place until 1994.
-"What we see happening to women is testimony to legacies of violence from those systems whose traumas were never addressed.
-"This is not to say black men are inherently violent, but in systems where violence was meted out against them for decades, historically black women were the people that that violence would be taken out on - that cycle has not been broken."
-In Kempton Park, a district of Ekurhuleni where five of the nine recent bodies were found, Lumka Maqhubela is part of the Girl2Woman Foundation group which has held protests to raise awareness of the crimes.
-"We are grieved, we are scared," she says. "If the police cannot protect us any more the government should step in and do something.
-"It's clear that we are not safe, we cannot be told by the police to be more vigilant. They should be doing more to make our communities safe – what else are we expected to do? We are not safe anywhere, not in our homes, not in the streets, it needs to stop."
-"I feel uncomfortable," says Thulisile Sibande, 32. "When I go to a shop, I have to look around. I'm shocked and scared. So scared, it's a trauma."
-Thembi Mabena, 60, tells the BBC she lived in the same neighbourhood as Dineo Motapane.
-"She was laughing every day, with everybody," she remembers. "Now I'm worried.
-"I know many children, girls, who tell me they are afraid to go to the shop alone. There is no safety, even for me too. I am old, but there is no safety."
-"In South Africa," says Lerato Mzizi, 20, simply, "women are not safe any more."
-You may also be interested in:
-South Africa calls gender violence a national disaster after protests
-- Published21 November 2025
-I built this 'AI aunt' for women after family tragedy in South Africa
-- Published3 November 2025
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
-    bodyJa: `Grim discoveries of murdered women spark fear in South Africa
-- Published
-"What we are going to do, I have no idea," sobs Nokwanda Matshikiza, reflecting on the murder of her niece Dineo Motapane. "But something must give."
-"For us, for all the other women. How many other bodies will be found before something happens?"
-Nokwanda is speaking to the BBC from the family home near South Africa's main city, Johannesburg, just two days after relatives identified Dineo's body.
-The 38-year-old mother-of-two was last seen alive on Sunday. Her battered and partly burned body was later found in the residential region of Ekurhuleni.
-Nokwanda weeps as she describes how the family will have to face, at some point, the grim task of telling Dineo's daughter of her death.
-"How do you explain that your parent was brutally murdered, dumped in a field, and just left there, discarded like a piece of rubbish.
-"There's no coming to peace with it," she adds. "It's something that you can never reconcile yourself with, that you can never get over."
-Dineo's death this week has come amid a series of comparable incidents in Ekurhuleni – her body one of three discovered there this week. In total, nine bodies of murdered women have been found in similar circumstances in the region since July.
-The problem has always been there but this spate of grim discoveries has once again sparked a national outcry about the scale of violence against women in the country – which has one of the highest rates of gender-based violence in the world.
-Themba Kekana is also living in shock at the death of a loved one.
-His sister, Itumeleng, was one of the first to disappear in Ekurhuleni.
-The 32-year-old shopkeeper's body was found in July, 17 days after she was last seen alive. Her body was badly bruised, partially clothed and dumped on a bridge.
-"We are devastated with grief," says Themba, wet eyes shining.
-"I look at my sister's young daughter and my eyes fill with tears, I know there is no way that I can ever take this pain away from her.
-"No family should have to deal with what we are faced with."
-Only one arrest has been made in connection with the murders – and that was two days after the first body was discovered on 15 July.
-Nobody has been detained following the murders of Itumeleng or Dineo or the other six Ekurhuleni women.
-Most of the victims were young, in their 20s or 30s, and almost all had suffered extreme violence before their deaths.
-Police have said they are not sure if they are hunting a serial killer. It is possible the cases are not linked.
-Either way, what has happened in this residential district east of South Africa's biggest city has traumatised the nation, shining a spotlight on a situation that many believe is a crisis.
-South Africa's police issue detailed crime statistics every quarter, which show that between April and June this year - 5,427 people were murdered.
-The official data does not distinguish between the genders of the victims, but this week the country's Human Rights Commission released figures showing that 569 women had been killed in that period (six a day on average), with another 1,052 who faced attempted murder.
-Many women - already feeling unsafe - have been left reeling by recent events.
-And it has put pressure on the government, less than a year after ministers acknowledged the scale of the issue and declared gender-based violence a national disaster.
-Announcing the move last November, Minister of Social Development Nokuzola Sisisi Tolashe said that treating the issue as a national disaster would help the government tackle the crisis.
-It followed weeks of protests, culminating in a "Women's Shut Down" march as South Africa hosted the G20 summit.
-This week has seen a chorus of calls for things to go further.
-Rights group Amnesty International said an important first step towards protecting South Africa's women was to recognise femicide as a separate crime.
-"Every day that femicide remains unrecognised as a crime is a failure to confront the targeted killing of women," said Amnesty's country director Shenilla Mohamed in a statement. "It is time to call it what it is: Femicide.
-"Femicide is a gender-motivated crime. It is the killing of a woman because she is a woman."
-Amnesty says femicide is criminalised as a specific crime in 33 countries, including Gabon and Morocco in Africa.
-It argues that making that change in South Africa could help focus on the scale of the issue.
-"It would compel the state to confront their failure to protect women and girls from violence," says Mohamed. "You cannot fix what you are not tracking."
-Almost everyone in South Africa agrees more needs to be done.
-President Cyril Ramaphosa this week pledged to leave "no stone unturned" in investigating the crimes in Ekurhuleni, adding: "As a nation, we must stand up for the rights, safety and dignity of women and girls."
-Lebogang Ramofoko, an advocate for gender and social justice, said the levels of violence against women in the country were symptomatic of a much bigger problem – a lack of regard for humanity.
-"The bodies of black women have been treated as disposable in this country for time immemorial, passed down from colonisation through to apartheid," she tells the BBC, referring to the legalised system of racism that was in place until 1994.
-"What we see happening to women is testimony to legacies of violence from those systems whose traumas were never addressed.
-"This is not to say black men are inherently violent, but in systems where violence was meted out against them for decades, historically black women were the people that that violence would be taken out on - that cycle has not been broken."
-In Kempton Park, a district of Ekurhuleni where five of the nine recent bodies were found, Lumka Maqhubela is part of the Girl2Woman Foundation group which has held protests to raise awareness of the crimes.
-"We are grieved, we are scared," she says. "If the police cannot protect us any more the government should step in and do something.
-"It's clear that we are not safe, we cannot be told by the police to be more vigilant. They should be doing more to make our communities safe – what else are we expected to do? We are not safe anywhere, not in our homes, not in the streets, it needs to stop."
-"I feel uncomfortable," says Thulisile Sibande, 32. "When I go to a shop, I have to look around. I'm shocked and scared. So scared, it's a trauma."
-Thembi Mabena, 60, tells the BBC she lived in the same neighbourhood as Dineo Motapane.
-"She was laughing every day, with everybody," she remembers. "Now I'm worried.
-"I know many children, girls, who tell me they are afraid to go to the shop alone. There is no safety, even for me too. I am old, but there is no safety."
-"In South Africa," says Lerato Mzizi, 20, simply, "women are not safe any more."
-You may also be interested in:
-South Africa calls gender violence a national disaster after protests
-- Published21 November 2025
-I built this 'AI aunt' for women after family tragedy in South Africa
-- Published3 November 2025
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjkg71e67k17o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-18T23:04:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33a2/live/be22b180-b3a0-11f1-a430-4d16ee157c41.jpg",
-    readTime: 10,
-  },
-  {
-    id: "i-m-burned-out-i-m-constantly-helping-m-57e1ebd4",
-    title: "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-    titleJa: "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. Is it too much to expect his sister to help?",
-    summaryJa: "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
-    bodyOriginal: `“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”`,
-    bodyJa: `“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
-    publishedAt: "2026-09-18T23:00:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.mktw.net/im-59442466",
-    readTime: 2,
-  },
-  {
-    id: "us-and-denmark-reach-deal-over-greenland-491edc8a",
-    title: "US and Denmark reach deal over Greenland after Trump annexation threats",
-    titleJa: "US and Denmark reach deal over Greenland after Trump annexation threats",
-    summaryJa: "Trump says the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics have not been confirmed by Danish officials.",
-    bodyOriginal: `US and Denmark reach deal over Greenland after Trump annexation threats
-- Published
-The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force.
-Trump said the agreement would grant the US "permanent control over security, and all other needs" in the semi-autonomous Danish territory.
-The leaders of Denmark and Greenland welcomed the deal to "strengthen security" in the region, which they said was expected to be signed next week, but did not outline its contents.
-The announcement comes after months of threats by Trump to "take" Greenland over national security concerns, citing its strategic location for defence purposes and its mineral wealth.
-No text of the agreement has been released. Trump said the deal came with "no cost to the United States" and would grant the US the ability "to do what is necessary" to "secure and defend the security of Greenland", in a post on Truth Social.
-He said it included a rule that no US adversary could maintain a military presence in Greenland or "make sensitive investments in Greenland, without our express written approval".
-Denmark's Prime Minister Mette Frederiksen said she was "pleased that there is a prospect of a good agreement" for all three parties, which was expected to be signed at the UN General Assembly next week.
-The deal "strengthens our common security in the Arctic and the North Atlantic area" while also recognising "the sovereignty and territorial integrity of the Kingdom and the right of the Greenlandic people to self-determination", she said in a joint statement with Greenland's Prime Minister Jens-Frederik Nielsen.
-The agreement would still need to go through "the necessary parliamentary procedures to enter into force" once signed, the statement noted.
-Nielsen said it was "gratifying that we are about to enter into an agreement that ensures and strengthens the security of Greenland, the Kingdom of Denmark, the United States and the Western alliance".
-"The agreement recognises Greenland's interests and our place in international co-operation. It is for the benefit of us all," he said.
-Trump had tried for months to purchase or annex the mineral-rich, semi-autonomous Danish territory, arguing that it was vulnerable to adversaries, including Russia and China. He even threatened military action in Greenland, prompting an outcry from Danes and other Nato countries.
-US Secretary of State Marco Rubio called it a "historic deal" and a "huge win for the United States and the American people".
-"This deal permanently and completely addresses our national security concerns in Greenland," he said in a statement.
-The text of the agreement has not been published. The BBC has contacted the Danish Embassy in the US and the White House.
-However, an unnamed US State Department official outlined the deal without providing specifics.
-Among the agreed provisions is one stating the deal would not expire even if Greenland became an independent country in the future.
-The official added that under the deal, the US has unilateral power to build additional military structures with no approval needed from Greenland or Denmark. It includes "permanent access, basing and overflights rights," the official said.
-It also bans non-Nato countries from building bases in Greenland, and "bans adversaries from making investments in Greenland that could threaten the United States".
-The official added that under the current status quo, adversaries have been allowed to invest in Greenland's "sensitive sectors without investment screening".
-The official specifically referenced Russia and China, saying it blocks them from deploying troops or making investments in "sensitive sectors".
-Without the official text being released, it is unclear how exactly the deal differs from a 1951 agreement with Denmark, under which the US can send as many troops as it wants to Greenland.
-The US already has more than 100 military personnel permanently stationed at its Pituffik base in the north-western tip of the territory.
-Trump says Greenland is essential for his plan to build a Golden Dome defence system, designed to protect the US against missile attacks from Russia and China, and that European allies could co-operate in this endeavour.
-The island has vast - and largely untapped - reserves of rare earth minerals, many of which are crucial for technologies including mobile phones and electric vehicles.
-Related topics
-- Published21 January
-- Published12 May
-- Published22 January
-- Published22 January`,
-    bodyJa: `US and Denmark reach deal over Greenland after Trump annexation threats
-- Published
-The US and Denmark have announced a deal on Greenland's security, resolving a diplomatic dispute sparked by President Donald Trump's threats to seize the territory by force.
-Trump said the agreement would grant the US "permanent control over security, and all other needs" in the semi-autonomous Danish territory.
-The leaders of Denmark and Greenland welcomed the deal to "strengthen security" in the region, which they said was expected to be signed next week, but did not outline its contents.
-The announcement comes after months of threats by Trump to "take" Greenland over national security concerns, citing its strategic location for defence purposes and its mineral wealth.
-No text of the agreement has been released. Trump said the deal came with "no cost to the United States" and would grant the US the ability "to do what is necessary" to "secure and defend the security of Greenland", in a post on Truth Social.
-He said it included a rule that no US adversary could maintain a military presence in Greenland or "make sensitive investments in Greenland, without our express written approval".
-Denmark's Prime Minister Mette Frederiksen said she was "pleased that there is a prospect of a good agreement" for all three parties, which was expected to be signed at the UN General Assembly next week.
-The deal "strengthens our common security in the Arctic and the North Atlantic area" while also recognising "the sovereignty and territorial integrity of the Kingdom and the right of the Greenlandic people to self-determination", she said in a joint statement with Greenland's Prime Minister Jens-Frederik Nielsen.
-The agreement would still need to go through "the necessary parliamentary procedures to enter into force" once signed, the statement noted.
-Nielsen said it was "gratifying that we are about to enter into an agreement that ensures and strengthens the security of Greenland, the Kingdom of Denmark, the United States and the Western alliance".
-"The agreement recognises Greenland's interests and our place in international co-operation. It is for the benefit of us all," he said.
-Trump had tried for months to purchase or annex the mineral-rich, semi-autonomous Danish territory, arguing that it was vulnerable to adversaries, including Russia and China. He even threatened military action in Greenland, prompting an outcry from Danes and other Nato countries.
-US Secretary of State Marco Rubio called it a "historic deal" and a "huge win for the United States and the American people".
-"This deal permanently and completely addresses our national security concerns in Greenland," he said in a statement.
-The text of the agreement has not been published. The BBC has contacted the Danish Embassy in the US and the White House.
-However, an unnamed US State Department official outlined the deal without providing specifics.
-Among the agreed provisions is one stating the deal would not expire even if Greenland became an independent country in the future.
-The official added that under the deal, the US has unilateral power to build additional military structures with no approval needed from Greenland or Denmark. It includes "permanent access, basing and overflights rights," the official said.
-It also bans non-Nato countries from building bases in Greenland, and "bans adversaries from making investments in Greenland that could threaten the United States".
-The official added that under the current status quo, adversaries have been allowed to invest in Greenland's "sensitive sectors without investment screening".
-The official specifically referenced Russia and China, saying it blocks them from deploying troops or making investments in "sensitive sectors".
-Without the official text being released, it is unclear how exactly the deal differs from a 1951 agreement with Denmark, under which the US can send as many troops as it wants to Greenland.
-The US already has more than 100 military personnel permanently stationed at its Pituffik base in the north-western tip of the territory.
-Trump says Greenland is essential for his plan to build a Golden Dome defence system, designed to protect the US against missile attacks from Russia and China, and that European allies could co-operate in this endeavour.
-The island has vast - and largely untapped - reserves of rare earth minerals, many of which are crucial for technologies including mobile phones and electric vehicles.
-Related topics
-- Published21 January
-- Published12 May
-- Published22 January
-- Published22 January`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-18T22:58:55+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
-    readTime: 10,
-  },
-  {
-    id: "my-total-balance-should-be-20-million-i-9b9d17f2",
-    title: "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-    titleJa: "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
-    summaryJa: "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
-    bodyOriginal: `“I invested on the recommendation of an executive vice president of a major New York investment bank.”`,
-    bodyJa: `“I invested on the recommendation of an executive vice president of a major New York investment bank.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
-    publishedAt: "2026-09-18T22:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-78021125",
-    readTime: 2,
   },
 ];
 
