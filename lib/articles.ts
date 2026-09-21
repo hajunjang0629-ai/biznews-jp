@@ -15,6 +15,380 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "chinese-biopharma-stocks-jump-as-u-s-wei-fef11b1d",
+    title: "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+    titleJa: "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+    summaryJa: "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
+    bodyOriginal: `Chinese biopharma stocks jumped in Hong Kong on Monday after a report that the U.S. is considering rules that would allow American pharmaceutical companies to continue licensing most drugs from Chinese firms.
+Innovent Biologics jumped 6%, while Akeso surged 8% and CSPC Pharmaceutical Group gained more than 6%. HUTCHMED climbed 3%, while Sino Biopharmaceutical added 8%.
+The Hang Seng Biotech Index was also up more than 5%.
+The moves followed a Reuters report Friday, citing people briefed on the process, that the U.S. Treasury Department is drafting rules that would likely allow American pharmaceutical companies to invest in promising new drugs being developed by Chinese firms, excluding those related to pathogens or biotechnology that could be weaponized. The rules have not been finalized and remain subject to change, said the report.
+That would put biopharma on a different track from sectors such as artificial intelligence and semiconductors, where the U.S. has tightened restrictions on China.
+Almost half of U.S. deals to license drugs from overseas in 2025 were with Chinese companies, according to GlobalData, as cited by Reuters.
+Pfizer, for example, announced a partnership worth up to $10.5 billion with Innovent in May, covering the research and development of 12 oncology programs.
+China’s out-licensing boom has continued despite geopolitical concerns. A record 81 deals worth a combined $110 billion were completed in the first half of 2026, according to NMPA data cited by Nomura.
+The bank said investors now appear “largely immune” to intermittent geopolitical concerns around the sector, citing Chinese companies’ strong value proposition in novel drug development.
+China has also made globalization a key goal for pharmaceutical and biotech companies under its 15th five-year plan, Nomura noted. Against that backdrop, the bank expects China-U.S. out-licensing deals to “ride on a high tide.”`,
+    bodyJa: `Chinese biopharma stocks jumped in Hong Kong on Monday after a report that the U.S. is considering rules that would allow American pharmaceutical companies to continue licensing most drugs from Chinese firms.
+Innovent Biologics jumped 6%, while Akeso surged 8% and CSPC Pharmaceutical Group gained more than 6%. HUTCHMED climbed 3%, while Sino Biopharmaceutical added 8%.
+The Hang Seng Biotech Index was also up more than 5%.
+The moves followed a Reuters report Friday, citing people briefed on the process, that the U.S. Treasury Department is drafting rules that would likely allow American pharmaceutical companies to invest in promising new drugs being developed by Chinese firms, excluding those related to pathogens or biotechnology that could be weaponized. The rules have not been finalized and remain subject to change, said the report.
+That would put biopharma on a different track from sectors such as artificial intelligence and semiconductors, where the U.S. has tightened restrictions on China.
+Almost half of U.S. deals to license drugs from overseas in 2025 were with Chinese companies, according to GlobalData, as cited by Reuters.
+Pfizer, for example, announced a partnership worth up to $10.5 billion with Innovent in May, covering the research and development of 12 oncology programs.
+China’s out-licensing boom has continued despite geopolitical concerns. A record 81 deals worth a combined $110 billion were completed in the first half of 2026, according to NMPA data cited by Nomura.
+The bank said investors now appear “largely immune” to intermittent geopolitical concerns around the sector, citing Chinese companies’ strong value proposition in novel drug development.
+China has also made globalization a key goal for pharmaceutical and biotech companies under its 15th five-year plan, Nomura noted. Against that backdrop, the bank expects China-U.S. out-licensing deals to “ride on a high tide.”`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+    publishedAt: "2026-09-21T04:20:33+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "iran-vows-painful-retaliation-as-trump-p-b44ff6e1",
+    title: "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+    titleJa: "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+    summaryJa: "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+    bodyOriginal: `President Donald Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, raising the stakes as Iranian officials head to New York for this week's gathering of world leaders at the UN.
+Trump told Fox News on Sunday that the only options on the table were "wiping Iran out," or letting its economy "rot," unless both sides reach a deal.
+Separately, Iran's military said that its intelligence suggested a new, large-scale strike being prepared by the U.S. and its allies, warning of "painful" retaliation across the Middle East. Regional countries backing such a strike would be treated as parties to the conflict, it said.
+"If the U.S. makes any mistake against the Islamic Republic of Iran, all its positions and interests in the region will be targeted by sustained, effective and painful attacks," the Khatam al-Anbia Central Headquarters of Iran said, according to semi-official media Tasnim.
+The exchange marks the latest escalation in the seven-month war after a June memorandum collapsed, with both sides digging in before a diplomatic delegation led by Iranian President Masoud Pezeshkian is due to attend the United Nations General Assembly in New York this week.
+The Iranian president will hold meetings with country leaders on the sidelines of the UN gathering, according to Tasnim.
+In a phone call with a Fox News reporter, Trump said that he would be open to meeting Pezeshkian during the assembly, but also that he's in "deciding mode" over whether to blow up the nation.
+The U.S. State Department issued a security alert citing risks of unforeseen escalation in the Middle East, telling Americans to exercise more vigilance and be aware of possible flight cancellations and airspace closures.
+The warnings came after Iran-backed Houthi militants claimed missile and drone attacks on Riyadh on Saturday, triggering the first air-raid alert in the Saudi capital since fighting escalated in July.
+Saudi authorities said they intercepted and destroyed a ballistic missile and reported no casualties or damage. The Houthis also attempted to target civilians and infrastructure in several parts of the kingdom, Saudi-led coalition forces spokesperson Major-General Turki al-Maliki said on X on Saturday, though those attacks were thwarted by the country's air defenses.
+Oil prices have pulled back in recent days despite widening hostilities, as traders hope for a recovery in energy shipments from oil-rich Saudi Arabia. Futures for Brent crude dipped 1.7% to $102.15 a barrel and U.S. West Texas Intermediate slid 1.8% to $98.46.
+Oil prices will remain high despite U.S. progress in moving oil through the Strait of Hormuz, a team of analysts at Eurasia Group said in a Saturday note. Any rebound in oil flows would not be enough to address the overall market deficit, they said, forecasting Brent prices to trade in a higher band of $90-110 per barrel through the rest of this year.
+"Iran's leadership will stick with resistance, even as they quarrel internally," according to the consultancy firm, as Tehran seeks to use military proxies and tanker attacks to keep a chokehold on shipping flows, to pressure Washington into concessions.
+Tehran has insisted that it would not reopen the Strait of Hormuz until Washington fulfills its commitment under the June memorandum, which called for lifting the naval blockade of Iranian ports, easing sanctions, unfreezing Iranian assets and ending U.S. military threats.
+Iranian parliament speaker Mohammad Bagher Ghalibaf said Sunday that Iran must keep on fighting and negotiating, to push back its enemies, and only work on diplomacy when it has the upper hand on the battlefield.`,
+    bodyJa: `President Donald Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, raising the stakes as Iranian officials head to New York for this week's gathering of world leaders at the UN.
+Trump told Fox News on Sunday that the only options on the table were "wiping Iran out," or letting its economy "rot," unless both sides reach a deal.
+Separately, Iran's military said that its intelligence suggested a new, large-scale strike being prepared by the U.S. and its allies, warning of "painful" retaliation across the Middle East. Regional countries backing such a strike would be treated as parties to the conflict, it said.
+"If the U.S. makes any mistake against the Islamic Republic of Iran, all its positions and interests in the region will be targeted by sustained, effective and painful attacks," the Khatam al-Anbia Central Headquarters of Iran said, according to semi-official media Tasnim.
+The exchange marks the latest escalation in the seven-month war after a June memorandum collapsed, with both sides digging in before a diplomatic delegation led by Iranian President Masoud Pezeshkian is due to attend the United Nations General Assembly in New York this week.
+The Iranian president will hold meetings with country leaders on the sidelines of the UN gathering, according to Tasnim.
+In a phone call with a Fox News reporter, Trump said that he would be open to meeting Pezeshkian during the assembly, but also that he's in "deciding mode" over whether to blow up the nation.
+The U.S. State Department issued a security alert citing risks of unforeseen escalation in the Middle East, telling Americans to exercise more vigilance and be aware of possible flight cancellations and airspace closures.
+The warnings came after Iran-backed Houthi militants claimed missile and drone attacks on Riyadh on Saturday, triggering the first air-raid alert in the Saudi capital since fighting escalated in July.
+Saudi authorities said they intercepted and destroyed a ballistic missile and reported no casualties or damage. The Houthis also attempted to target civilians and infrastructure in several parts of the kingdom, Saudi-led coalition forces spokesperson Major-General Turki al-Maliki said on X on Saturday, though those attacks were thwarted by the country's air defenses.
+Oil prices have pulled back in recent days despite widening hostilities, as traders hope for a recovery in energy shipments from oil-rich Saudi Arabia. Futures for Brent crude dipped 1.7% to $102.15 a barrel and U.S. West Texas Intermediate slid 1.8% to $98.46.
+Oil prices will remain high despite U.S. progress in moving oil through the Strait of Hormuz, a team of analysts at Eurasia Group said in a Saturday note. Any rebound in oil flows would not be enough to address the overall market deficit, they said, forecasting Brent prices to trade in a higher band of $90-110 per barrel through the rest of this year.
+"Iran's leadership will stick with resistance, even as they quarrel internally," according to the consultancy firm, as Tehran seeks to use military proxies and tanker attacks to keep a chokehold on shipping flows, to pressure Washington into concessions.
+Tehran has insisted that it would not reopen the Strait of Hormuz until Washington fulfills its commitment under the June memorandum, which called for lifting the naval blockade of Iranian ports, easing sanctions, unfreezing Iranian assets and ending U.S. military threats.
+Iranian parliament speaker Mohammad Bagher Ghalibaf said Sunday that Iran must keep on fighting and negotiating, to push back its enemies, and only work on diplomacy when it has the upper hand on the battlefield.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+    publishedAt: "2026-09-21T04:04:18+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "uk-should-team-up-with-canada-in-new-eur-d916d83e",
+    title: "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    titleJa: "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+    summaryJa: "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+    bodyOriginal: `UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC
+- Published
+The UK should "team up" with a proposed economic alliance between Canada and Europe, Canadian Finance Minister François-Philippe Champagne has said.
+"This is all about the substance, to build an alliance of the future," he told the BBC. "The world has changed. America has changed. So we need to change."
+Champagne also gave a frank assessment of the Canada-US trade war after a deal collapsed last month, saying the country had "stood up for our industries, our workers, our country" by imposing tariffs.
+His comments come after European Commission President Ursula von der Leyen proposed "opening the door" to an associate EU membership for Canada, an unprecedented move for the bloc.
+Canadian Prime Minister Mark Carney's visit to address the European Union in Strasbourg, shortly after von der Leyen's proposal was made, was "to build the alliance of the future", Champagne said.
+Carney, the former Governor of the Bank of England, has previously talked about an alliance of "middle powers" working together on economic growth, resilience and security.
+Speaking to the BBC, Champagne said the UK and Canada had shared values.
+"We need to look at partnership in a different way, and the great thing is that when you look at Canada, and I would say the United Kingdom, we share the same values. We are very aligned in our vision of the world. Why don't we team up?" he said.
+"We are independent and sovereign, but we are stronger together."
+After his return to the White House last year, US President Donald Trump imposed sweeping global tariffs, including on long-standing trade allies such as the UK.
+While the UK renegotiated a trade deal with the US in June last year, the new Canada-EU alliance does raise questions for the UK's post Brexit positioning with Europe, as well as its position with the US, after some changes of presidential rhetoric over the Falklands and Irish unity in recent weeks.
+Carney met Prime Minister Andy Burnham in Liverpool in the middle of his trip to Brussels and Strasbourg last week, while Champagne attended a meeting of EU finance ministers in Dublin on Friday, alongside the Chancellor John Healey.
+'Enough is enough'
+The developing discussions around closer ties between the EU and Canada come as Canada remains locked in an escalating trade war with the US, with both sides imposing tit-for-tat tariffs after talks broke down at the last moment in August.
+President Trump has also threatened further tariffs on the EU if the associate membership plan proved "hostile" to the US, calling the idea laughable and labelling Canada a "terrible trading partner".
+Champagne said the trade war was not a conflict chosen by Canada.
+"We responded because at some stage you have to say 'Enough is enough'. No one can infringe on our economic sovereignty… the world took notice," he said.
+The minister said Canada does not seek escalation after its "measured, targeted and strategic… dollar for dollar, tariff for tariff" response, and the country would "reengage at the right time" with its southern neighbour.
+Affected industries would be supported "as long as it takes and whatever it takes", he added.
+Champagne argued that Canada's strong fiscal position helped underpin its resilience, and the dispute with the US provided a "golden opportunity" to diversify.
+This is the backdrop to the promise of an "alliance of the future" between Canada and the EU, and the idea of "teaming up" with the UK too.
+Carney's new love-in with EU has everything to do with Trump
+- Published4 days ago
+What could EU associate member status mean for Canada?
+- Published3 days ago
+Burnham will meet Trump for the first time this week, in New York at the UN General Assembly.
+Last year, after his election, Carney invited King Charles to open the Canadian Parliament in Ottawa, a move widely seen as a rebuff to Trump's repeated suggestion that Commonwealth Canada could become part of the US.
+The detail of the offer made by the EU to negotiate "associate membership" for Canada is yet to be formalised.
+Champagne said this was "a moment of great opportunities" and to strengthen the existing relationship between Canada and the EU.
+Carney last week pointed to Canadian membership of EU university, scientific research, AI and defence funding schemes, as well as for young Canadians and Europeans to "cross the ocean and be able to study and live".
+He said Canada could supply critical minerals and gas and would seek access to European advanced technologies.
+It is understood that both Canada and the EU see the opportunity for a process for like-minded nations which might not ever be full members, for example Australia.
+- Published3 days ago`,
+    bodyJa: `UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC
+- Published
+The UK should "team up" with a proposed economic alliance between Canada and Europe, Canadian Finance Minister François-Philippe Champagne has said.
+"This is all about the substance, to build an alliance of the future," he told the BBC. "The world has changed. America has changed. So we need to change."
+Champagne also gave a frank assessment of the Canada-US trade war after a deal collapsed last month, saying the country had "stood up for our industries, our workers, our country" by imposing tariffs.
+His comments come after European Commission President Ursula von der Leyen proposed "opening the door" to an associate EU membership for Canada, an unprecedented move for the bloc.
+Canadian Prime Minister Mark Carney's visit to address the European Union in Strasbourg, shortly after von der Leyen's proposal was made, was "to build the alliance of the future", Champagne said.
+Carney, the former Governor of the Bank of England, has previously talked about an alliance of "middle powers" working together on economic growth, resilience and security.
+Speaking to the BBC, Champagne said the UK and Canada had shared values.
+"We need to look at partnership in a different way, and the great thing is that when you look at Canada, and I would say the United Kingdom, we share the same values. We are very aligned in our vision of the world. Why don't we team up?" he said.
+"We are independent and sovereign, but we are stronger together."
+After his return to the White House last year, US President Donald Trump imposed sweeping global tariffs, including on long-standing trade allies such as the UK.
+While the UK renegotiated a trade deal with the US in June last year, the new Canada-EU alliance does raise questions for the UK's post Brexit positioning with Europe, as well as its position with the US, after some changes of presidential rhetoric over the Falklands and Irish unity in recent weeks.
+Carney met Prime Minister Andy Burnham in Liverpool in the middle of his trip to Brussels and Strasbourg last week, while Champagne attended a meeting of EU finance ministers in Dublin on Friday, alongside the Chancellor John Healey.
+'Enough is enough'
+The developing discussions around closer ties between the EU and Canada come as Canada remains locked in an escalating trade war with the US, with both sides imposing tit-for-tat tariffs after talks broke down at the last moment in August.
+President Trump has also threatened further tariffs on the EU if the associate membership plan proved "hostile" to the US, calling the idea laughable and labelling Canada a "terrible trading partner".
+Champagne said the trade war was not a conflict chosen by Canada.
+"We responded because at some stage you have to say 'Enough is enough'. No one can infringe on our economic sovereignty… the world took notice," he said.
+The minister said Canada does not seek escalation after its "measured, targeted and strategic… dollar for dollar, tariff for tariff" response, and the country would "reengage at the right time" with its southern neighbour.
+Affected industries would be supported "as long as it takes and whatever it takes", he added.
+Champagne argued that Canada's strong fiscal position helped underpin its resilience, and the dispute with the US provided a "golden opportunity" to diversify.
+This is the backdrop to the promise of an "alliance of the future" between Canada and the EU, and the idea of "teaming up" with the UK too.
+Carney's new love-in with EU has everything to do with Trump
+- Published4 days ago
+What could EU associate member status mean for Canada?
+- Published3 days ago
+Burnham will meet Trump for the first time this week, in New York at the UN General Assembly.
+Last year, after his election, Carney invited King Charles to open the Canadian Parliament in Ottawa, a move widely seen as a rebuff to Trump's repeated suggestion that Commonwealth Canada could become part of the US.
+The detail of the offer made by the EU to negotiate "associate membership" for Canada is yet to be formalised.
+Champagne said this was "a moment of great opportunities" and to strengthen the existing relationship between Canada and the EU.
+Carney last week pointed to Canadian membership of EU university, scientific research, AI and defence funding schemes, as well as for young Canadians and Europeans to "cross the ocean and be able to study and live".
+He said Canada could supply critical minerals and gas and would seek access to European advanced technologies.
+It is understood that both Canada and the EU see the opportunity for a process for like-minded nations which might not ever be full members, for example Australia.
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T04:00:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c51b/live/83c73640-b509-11f1-91cc-c5691e33b858.jpg",
+    readTime: 10,
+  },
+  {
+    id: "my-total-balance-should-be-20-million-i-9b9d17f2",
+    title: "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    titleJa: "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+    summaryJa: "“I invested on the recommendation of an executive vice president of a major New York investment bank.”",
+    bodyOriginal: `“I invested on the recommendation of an executive vice president of a major New York investment bank.”`,
+    bodyJa: `“I invested on the recommendation of an executive vice president of a major New York investment bank.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+    publishedAt: "2026-09-21T02:40:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-78021125",
+    readTime: 2,
+  },
+  {
+    id: "oil-falls-as-crude-flows-remain-surprisi-bf36a68f",
+    title: "Oil falls as crude flows remain 'surprisingly strong'",
+    titleJa: "Oil falls as crude flows remain 'surprisingly strong'",
+    summaryJa: "Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia, even as Mideast tensions continue to escalate.",
+    bodyOriginal: `Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia even after attacks by Iran-backed Houthis on Saudi Arabia with missiles and drones on Saturday.
+Futures for international benchmark Brent crude for November delivery fell 1.66% to $102.15 a barrel. U.S. West Texas Intermediate futures for October dropped 1.83% to $98.46 per barrel.
+"Middle East oil flows remain surprisingly strong despite the disruption to Saudi Arabia's East-West pipeline," according to JPMorgan analysts in a Sept. 18 note. The total oil flows averaged 17.1 million barrels per day in the past 10 days, 6.1 million bpd below the 2025 average, it added.
+However, potential supply issues continue to present themselves. U.S. President Donald Trump said he is in a "deciding mode" and "very big things" are going to happen in the near future regarding the US-Iran war, in an interview with Fox News.
+"My question is, if and when do I blow the entire nation up? They better behave," Trump added.
+Daniel Takieddine, co-founder and CEO of Sky Links Capital Group, expects prices are likely to remain closely tied to the pace of export normalization and diplomatic progress. "Any setback or renewed deterioration in shipping conditions would tighten the physical market and restore upward pressure on prices," Takieddine added.`,
+    bodyJa: `Oil fell Monday, as traders keep watch for a recovery in shipments from Saudi Arabia even after attacks by Iran-backed Houthis on Saudi Arabia with missiles and drones on Saturday.
+Futures for international benchmark Brent crude for November delivery fell 1.66% to $102.15 a barrel. U.S. West Texas Intermediate futures for October dropped 1.83% to $98.46 per barrel.
+"Middle East oil flows remain surprisingly strong despite the disruption to Saudi Arabia's East-West pipeline," according to JPMorgan analysts in a Sept. 18 note. The total oil flows averaged 17.1 million barrels per day in the past 10 days, 6.1 million bpd below the 2025 average, it added.
+However, potential supply issues continue to present themselves. U.S. President Donald Trump said he is in a "deciding mode" and "very big things" are going to happen in the near future regarding the US-Iran war, in an interview with Fox News.
+"My question is, if and when do I blow the entire nation up? They better behave," Trump added.
+Daniel Takieddine, co-founder and CEO of Sky Links Capital Group, expects prices are likely to remain closely tied to the pace of export normalization and diplomatic progress. "Any setback or renewed deterioration in shipping conditions would tighten the physical market and restore upward pressure on prices," Takieddine added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
+    publishedAt: "2026-09-21T02:14:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "nvidia-boss-rejects-ai-extinction-fears-af391830",
+    title: "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+    titleJa: "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+    summaryJa: "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+    bodyOriginal: `Nvidia boss rejects AI extinction fears as 'doomsday narratives'
+- Published
+Nvidia CEO Jensen Huang has described warnings that AI could lead to humanity's extinction by the next decade as "doomsday narratives".
+"2030 is not going to be the end of the world. There is 0% chance that's going to be the end of the world", Huang said in an interview with CBS News, the BBC's US partner.
+Huang added: "Scaring people is unnecessary. It is irresponsible."
+Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models.
+His remarks follow claims posted on social media by former Anthropic researcher Jacob Coxon that AI developers believe the technology "could kill us all by the end of the decade".
+Coxon's concerns sparked debate about the technology's risks, including calls by top executives like Anthropic boss Dario Amodei and OpenAI's Sam Altman urging for AI's development to slow down.
+Huang said that such predictions are "not grounded in science", adding that it is in Nvidia's best interest to ensure the industry builds its products responsibly.
+"Our company's success is directly connected to the safe deployment of products and services," he said. "If we don't continue to do that, our value would be diminished."
+Huang suggested AI firms talking about a "slow down" could be seeking liability protections for harms their products may cause.
+"Go and read between the lines," he said. "They're actually not asking for more laws. They're asking to be relieved of the laws we do have, and I think that that's a problem."
+Not all AI workers think the tech could kill everyone
+- Published1 day ago
+OpenAI boss says world 'right to be afraid' but should trust AI firms
+- Published4 days ago
+Why are there concerns AI could threaten humanity, and how real are they?
+- Published3 days ago
+Nvidia is a key player in the industry, developing cutting edge computer chips that are crucial for making AI models.
+The firm's most powerful chips face restrictions in China due to measures imposed by both Washington and Beijing.
+US export controls aim to slow China's military and AI progress, while Chinese regulations are designed to encourage reliance on domestically produced technology.
+US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng held talks in New York on Sunday as they try to strike deals on AI, tariffs and critical minerals.
+After the meeting, Bessent told reporters that the two sides had discussed setting up a new AI safety notification mechanism.
+It came as President Donald Trump and his Chinese counterpart Xi Jinping are due to hold a summit in Washington later this week.
+Last week, Huang appeared at a UK summit hosted by King Charles, who warned tech leaders of the "existential dangers" of AI.
+"The task before you is not merely to advance technology, but to ensure that it remains firmly in the service of humanity, community and the natural world," the King told the group.
+In the US, President Donald Trump has downplayed concerns about AI's risks.
+Trump made a surprise phone call to Huang while the Nvidia boss was speaking on stage at a tech conference in Los Angeles on 14 September.
+During the call, Trump criticised calls to slow the pace of AI development and dismissed fears as a "hoax".`,
+    bodyJa: `Nvidia boss rejects AI extinction fears as 'doomsday narratives'
+- Published
+Nvidia CEO Jensen Huang has described warnings that AI could lead to humanity's extinction by the next decade as "doomsday narratives".
+"2030 is not going to be the end of the world. There is 0% chance that's going to be the end of the world", Huang said in an interview with CBS News, the BBC's US partner.
+Huang added: "Scaring people is unnecessary. It is irresponsible."
+Warnings from researchers in recent weeks about potential risks posed by the technology escalated the debate about AI safety, with some industry executives calling for a slowdown in developing models.
+His remarks follow claims posted on social media by former Anthropic researcher Jacob Coxon that AI developers believe the technology "could kill us all by the end of the decade".
+Coxon's concerns sparked debate about the technology's risks, including calls by top executives like Anthropic boss Dario Amodei and OpenAI's Sam Altman urging for AI's development to slow down.
+Huang said that such predictions are "not grounded in science", adding that it is in Nvidia's best interest to ensure the industry builds its products responsibly.
+"Our company's success is directly connected to the safe deployment of products and services," he said. "If we don't continue to do that, our value would be diminished."
+Huang suggested AI firms talking about a "slow down" could be seeking liability protections for harms their products may cause.
+"Go and read between the lines," he said. "They're actually not asking for more laws. They're asking to be relieved of the laws we do have, and I think that that's a problem."
+Not all AI workers think the tech could kill everyone
+- Published1 day ago
+OpenAI boss says world 'right to be afraid' but should trust AI firms
+- Published4 days ago
+Why are there concerns AI could threaten humanity, and how real are they?
+- Published3 days ago
+Nvidia is a key player in the industry, developing cutting edge computer chips that are crucial for making AI models.
+The firm's most powerful chips face restrictions in China due to measures imposed by both Washington and Beijing.
+US export controls aim to slow China's military and AI progress, while Chinese regulations are designed to encourage reliance on domestically produced technology.
+US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng held talks in New York on Sunday as they try to strike deals on AI, tariffs and critical minerals.
+After the meeting, Bessent told reporters that the two sides had discussed setting up a new AI safety notification mechanism.
+It came as President Donald Trump and his Chinese counterpart Xi Jinping are due to hold a summit in Washington later this week.
+Last week, Huang appeared at a UK summit hosted by King Charles, who warned tech leaders of the "existential dangers" of AI.
+"The task before you is not merely to advance technology, but to ensure that it remains firmly in the service of humanity, community and the natural world," the King told the group.
+In the US, President Donald Trump has downplayed concerns about AI's risks.
+Trump made a surprise phone call to Huang while the Nvidia boss was speaking on stage at a tech conference in Los Angeles on 14 September.
+During the call, Trump criticised calls to slow the pace of AI development and dismissed fears as a "hoax".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T00:34:53+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
+    readTime: 8,
+  },
+  {
+    id: "will-you-get-13-000-a-year-when-you-stop-9c3e3b44",
+    title: "Will you get £13,000 a year when you stop working? Here's how to check",
+    titleJa: "Will you get £13,000 a year when you stop working? Here's how to check",
+    summaryJa: "How to find out how much state pension you're likely to receive - and what you can do about it now.",
+    bodyOriginal: `Will you get £13,000 a year when you stop working? Here's how to check
+- Published
+It may well be decades away, but do you know how much money you will get when you stop working?
+The current state pension is soon likely to top £13,000 a year.
+Yet one in eight people surveyed by the UK tax authority have never checked how much money they are forecast to receive.
+Here's how to find out, and what you can do now to boost it.
+How much is the state pension?
+If you're working, it is highly likely you're contributing to the state pension - paid by the government when you hit pension age in your late 60s.
+At the moment:
+the flat-rate state pension - for those who reached state pension age after April 2016 - is £241.30 a week (£12,547.60 a year)
+the old basic state pension - for those who reached state pension age before April 2016 - is £184.90 a week (£9,614.80 a year)
+Many people on the old basic state pension may receive a top-up called the additional state pension.
+Most pensioners have other income, primarily from pension savings built up over their career.
+The state pension goes up each year in line with the highest of either inflation, wage increases, or 2.5%. So next April, the flat-rate state pension is expected to go above £13,000.
+How do I qualify for it?
+Workers pay National Insurance (NI) contributions. In general, you need 35 years of qualifying contributions to get a full state pension.
+You may have gaps in your NI record if, for example, you have lived abroad. If you've taken time away from work to care for children or family members, then you get NI credits if you receive child benefit or carer's allowance.
+It's possible to boost your contribution history with voluntary payments. Since April 2025, you have only been able to make payments for the previous six years.
+That's one reason why it is important to check your state pension forecast well before you retire, experts say.
+How do I check what I'll get?
+You can see what you are forecast to receive:
+By downloading the HM Revenue and Customs (HMRC) app, external
+Using the official online state pension forecast webpage, external
+To get a state pension, you will need to prove your identity using official photo ID.
+Importantly, never click on a link sent in an unsolicited email or text message, even if it looks official, as it could be a scam.
+For more general information about tax and pensions, HMRC has launched a Tax Confident website, external.
+And the government-funded, independent Money Helper website has a free retirement guidance tool, external to walk you through the options.
+Why haven't you checked?
+The most common reason for not checking a state pension forecast was feeling that retirement was still too far away to think about, a recent survey of 5,000 consumers by HMRC found.
+Losing track of pension pots from previous jobs, and concerns about how career breaks might affect their entitlement, were also frequent responses.
+People aged 45-54 were the most likely to have never checked.
+"Whether retirement is decades away or just around the corner, I'd encourage everyone to check their forecast and see if there's anything they can do now to boost their entitlement later," says Myrtle Lloyd, HMRC's chief customer officer.
+Related topics
+- Published1 July`,
+    bodyJa: `Will you get £13,000 a year when you stop working? Here's how to check
+- Published
+It may well be decades away, but do you know how much money you will get when you stop working?
+The current state pension is soon likely to top £13,000 a year.
+Yet one in eight people surveyed by the UK tax authority have never checked how much money they are forecast to receive.
+Here's how to find out, and what you can do now to boost it.
+How much is the state pension?
+If you're working, it is highly likely you're contributing to the state pension - paid by the government when you hit pension age in your late 60s.
+At the moment:
+the flat-rate state pension - for those who reached state pension age after April 2016 - is £241.30 a week (£12,547.60 a year)
+the old basic state pension - for those who reached state pension age before April 2016 - is £184.90 a week (£9,614.80 a year)
+Many people on the old basic state pension may receive a top-up called the additional state pension.
+Most pensioners have other income, primarily from pension savings built up over their career.
+The state pension goes up each year in line with the highest of either inflation, wage increases, or 2.5%. So next April, the flat-rate state pension is expected to go above £13,000.
+How do I qualify for it?
+Workers pay National Insurance (NI) contributions. In general, you need 35 years of qualifying contributions to get a full state pension.
+You may have gaps in your NI record if, for example, you have lived abroad. If you've taken time away from work to care for children or family members, then you get NI credits if you receive child benefit or carer's allowance.
+It's possible to boost your contribution history with voluntary payments. Since April 2025, you have only been able to make payments for the previous six years.
+That's one reason why it is important to check your state pension forecast well before you retire, experts say.
+How do I check what I'll get?
+You can see what you are forecast to receive:
+By downloading the HM Revenue and Customs (HMRC) app, external
+Using the official online state pension forecast webpage, external
+To get a state pension, you will need to prove your identity using official photo ID.
+Importantly, never click on a link sent in an unsolicited email or text message, even if it looks official, as it could be a scam.
+For more general information about tax and pensions, HMRC has launched a Tax Confident website, external.
+And the government-funded, independent Money Helper website has a free retirement guidance tool, external to walk you through the options.
+Why haven't you checked?
+The most common reason for not checking a state pension forecast was feeling that retirement was still too far away to think about, a recent survey of 5,000 consumers by HMRC found.
+Losing track of pension pots from previous jobs, and concerns about how career breaks might affect their entitlement, were also frequent responses.
+People aged 45-54 were the most likely to have never checked.
+"Whether retirement is decades away or just around the corner, I'd encourage everyone to check their forecast and see if there's anything they can do now to boost their entitlement later," says Myrtle Lloyd, HMRC's chief customer officer.
+Related topics
+- Published1 July`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crq5x74yv6dxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-20T23:02:45+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc95/live/6d570970-b2a3-11f1-bd7d-0f16235ccc4c.jpg",
+    readTime: 8,
+  },
+  {
+    id: "man-82-dies-after-beach-fight-with-76-ye-f06ac7e9",
+    title: "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+    titleJa: "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+    summaryJa: "One eyewitness said the scene was so chaotic that screaming could be heard from the other end of the beach.",
+    bodyOriginal: `Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece
+- Published
+An 82-year-old man has died after getting into a fight with a man in his 70s over a sunlounger on a beach in Greece, local media is reporting.
+Witnesses say a disagreement over the use of the loungers at Vouliagmeni beach, near Athens, escalated into a violent fight, which then further spiralled to involve other people.
+One eyewitness told the Kathimerini newspaper that the scene was so chaotic, the screaming could be heard from the other end of the beach.
+The younger man, who was 76, has reportedly been arrested. A 21-year-old woman who was with him was also detained but later released. Witnesses told Ta Nea daily newspaper that she had a bloodied and swollen face.
+During the fight, the 82-year-old collapsed. According to various reports, he received CPR and a defibrillator was used on him before an ambulance arrived. The man was taken to hospital where he later died.
+Another witness said that the victim seemed to be waiting for other people and had reserved a sunlounger, which appeared to be the cause of the initial disagreement.
+Authorities are investigating what led to the physical altercation and what caused the man's death.`,
+    bodyJa: `Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece
+- Published
+An 82-year-old man has died after getting into a fight with a man in his 70s over a sunlounger on a beach in Greece, local media is reporting.
+Witnesses say a disagreement over the use of the loungers at Vouliagmeni beach, near Athens, escalated into a violent fight, which then further spiralled to involve other people.
+One eyewitness told the Kathimerini newspaper that the scene was so chaotic, the screaming could be heard from the other end of the beach.
+The younger man, who was 76, has reportedly been arrested. A 21-year-old woman who was with him was also detained but later released. Witnesses told Ta Nea daily newspaper that she had a bloodied and swollen face.
+During the fight, the 82-year-old collapsed. According to various reports, he received CPR and a defibrillator was used on him before an ambulance arrived. The man was taken to hospital where he later died.
+Another witness said that the victim seemed to be waiting for other people and had reserved a sunlounger, which appeared to be the cause of the initial disagreement.
+Authorities are investigating what led to the physical altercation and what caused the man's death.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-20T21:17:22+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
+    readTime: 3,
+  },
+  {
     id: "german-chancellor-merz-calls-state-elect-576faa5a",
     title: "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
     titleJa: "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
@@ -1901,678 +2275,6 @@ U.S. West Texas Intermediate futures fell 1.6% to close at $100.30 per barrel. B
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 8,
-  },
-  {
-    id: "student-loan-borrowers-exiting-save-may-1ce8e8ea",
-    title: "Student loan borrowers exiting SAVE may face sharply higher payments if they don't take action soon",
-    titleJa: "Student loan borrowers exiting SAVE may face sharply higher payments if they don't take action soon",
-    summaryJa: "Millions of student loan borrowers could see their monthly bills skyrocket if they don't move into an affordable repayment plan soon. Here's what to know.",
-    bodyOriginal: `Many federal student loan borrowers could see their monthly bills double or even triple in the coming weeks if they don't exit a now-defunct affordable repayment plan.
-Earlier this year, the Trump administration alerted borrowers that they'd have roughly 90 days to transition from the Saving on a Valuable Education, or SAVE, plan to another program. That period began July 1 for some SAVE borrowers, meaning their deadline is just days away, on Sept. 29.
-Servicers have been notifying their borrowers in waves, so many borrowers have more time.
-The Biden administration-era income-driven repayment plan SAVE offered very low monthly payments to many loan holders but was ultimately overturned by Republican-led legal challenges and legislation. Many SAVE enrollees haven't had to make a payment in over two years, as lawsuits against the plan unfolded. Meanwhile, their debts have swelled with interest, and their progress in loan forgiveness programs has stalled.
-More than 6.9 million borrowers were still in SAVE as of March, with an average debt of close to $55,000, according to an analysis by higher education expert Mark Kantrowitz. Borrowers have been slow to leave the plan: around 7.7 million were in the program in July 2025.
-Many of these borrowers may be taking an "ostrich approach," Kantrowitz said.
-"Hoping that the problem will go away if you ignore it," he said. "Or, they just have very tight money and time, so figuring it out is a challenge."
-Here's what the remaining SAVE enrollees need to know about what comes next.
-Deadline to exit SAVE varies across borrowers
-Federal student loan servicers are staggering their notices to borrowers regarding the 90-day window to exit the SAVE plan. Because of these rolling timelines, borrowers should check their loan servicer accounts immediately to confirm their deadlines.
-The earliest date borrowers must exit the program is Sept. 29, according to a Department of Education court filing. However, the department noted that most borrowers will receive additional time.
-An FAQ on Nelnet's website notes that the company will continue issuing notifications through the end of the year. Meanwhile, the Missouri Higher Education Loan Authority, or Mohela, announced that borrowers can expect their alerts into October.
-Most borrowers should receive their notices by email, but some may get a letter in the mail, said Michele Zampini, associate vice president of federal policy and advocacy at The Institute for College Access & Success, or TICAS. To avoid missing their notice, borrowers should make sure their contact information is current with their servicer and on their studentaid.gov account, Zampini said.
-To apply for a new income-driven repayment plan, borrowers can log into studentaid.gov or their loan servicer's website and fill out the application. Borrowers can opt in to allow the department to get their income information directly from the IRS for faster application processing.
-Expect delays when submitting an application for a new repayment plan. The Education Department is working through a backlog of income-driven repayment plan applications, with more than 530,000 requests pending as of the end of April, the department reported in a May court filing.
-Doing nothing may leave you with huge bill
-Borrowers who do not select another repayment plan within 90 days of being notified will be placed in either the Standard Repayment Plan, or the new Tiered Standard Plan, which rolled out on July 1. While the SAVE plan calculated payments based on 5% of a borrower's discretionary income, the standard plans divide borrowers' debts into fixed payments over a set period.
-"Payments for some borrowers could double or triple," Kantrowitz said.
-Payments for some borrowers could double or triple.Mark Kantrowitz
-Borrowers who enroll in one of the Education Department's other income-driven repayment plans can secure lower monthly payments than they would under the standard options.
-For example, a new IDR plan launched in July — the Repayment Assistance Plan, or RAP — caps monthly payments between 1% and 10% of a borrower's earnings and offers loan forgiveness after 30 years. The plan also introduces perks unavailable on the standard plans, including a $50 monthly discount for each qualifying dependent.
-According to an analysis provided to CNBC by student loan advisory platform Summer, a two-person household earning just over $50,000, with $60,000 in student debt at a 6.8% interest rate, would owe $690 per month under the 10-year Standard Repayment Plan. Under RAP, that payment drops to just $158.
-"My advice is to calculate your payment on the next-best income-driven plan now, even if you're not switching yet, and start budgeting for that number today," said Rich Williams, chief customer officer at Summer.
-"It's better to be financially prepared than surprised by a much higher payment," Williams said.`,
-    bodyJa: `Many federal student loan borrowers could see their monthly bills double or even triple in the coming weeks if they don't exit a now-defunct affordable repayment plan.
-Earlier this year, the Trump administration alerted borrowers that they'd have roughly 90 days to transition from the Saving on a Valuable Education, or SAVE, plan to another program. That period began July 1 for some SAVE borrowers, meaning their deadline is just days away, on Sept. 29.
-Servicers have been notifying their borrowers in waves, so many borrowers have more time.
-The Biden administration-era income-driven repayment plan SAVE offered very low monthly payments to many loan holders but was ultimately overturned by Republican-led legal challenges and legislation. Many SAVE enrollees haven't had to make a payment in over two years, as lawsuits against the plan unfolded. Meanwhile, their debts have swelled with interest, and their progress in loan forgiveness programs has stalled.
-More than 6.9 million borrowers were still in SAVE as of March, with an average debt of close to $55,000, according to an analysis by higher education expert Mark Kantrowitz. Borrowers have been slow to leave the plan: around 7.7 million were in the program in July 2025.
-Many of these borrowers may be taking an "ostrich approach," Kantrowitz said.
-"Hoping that the problem will go away if you ignore it," he said. "Or, they just have very tight money and time, so figuring it out is a challenge."
-Here's what the remaining SAVE enrollees need to know about what comes next.
-Deadline to exit SAVE varies across borrowers
-Federal student loan servicers are staggering their notices to borrowers regarding the 90-day window to exit the SAVE plan. Because of these rolling timelines, borrowers should check their loan servicer accounts immediately to confirm their deadlines.
-The earliest date borrowers must exit the program is Sept. 29, according to a Department of Education court filing. However, the department noted that most borrowers will receive additional time.
-An FAQ on Nelnet's website notes that the company will continue issuing notifications through the end of the year. Meanwhile, the Missouri Higher Education Loan Authority, or Mohela, announced that borrowers can expect their alerts into October.
-Most borrowers should receive their notices by email, but some may get a letter in the mail, said Michele Zampini, associate vice president of federal policy and advocacy at The Institute for College Access & Success, or TICAS. To avoid missing their notice, borrowers should make sure their contact information is current with their servicer and on their studentaid.gov account, Zampini said.
-To apply for a new income-driven repayment plan, borrowers can log into studentaid.gov or their loan servicer's website and fill out the application. Borrowers can opt in to allow the department to get their income information directly from the IRS for faster application processing.
-Expect delays when submitting an application for a new repayment plan. The Education Department is working through a backlog of income-driven repayment plan applications, with more than 530,000 requests pending as of the end of April, the department reported in a May court filing.
-Doing nothing may leave you with huge bill
-Borrowers who do not select another repayment plan within 90 days of being notified will be placed in either the Standard Repayment Plan, or the new Tiered Standard Plan, which rolled out on July 1. While the SAVE plan calculated payments based on 5% of a borrower's discretionary income, the standard plans divide borrowers' debts into fixed payments over a set period.
-"Payments for some borrowers could double or triple," Kantrowitz said.
-Payments for some borrowers could double or triple.Mark Kantrowitz
-Borrowers who enroll in one of the Education Department's other income-driven repayment plans can secure lower monthly payments than they would under the standard options.
-For example, a new IDR plan launched in July — the Repayment Assistance Plan, or RAP — caps monthly payments between 1% and 10% of a borrower's earnings and offers loan forgiveness after 30 years. The plan also introduces perks unavailable on the standard plans, including a $50 monthly discount for each qualifying dependent.
-According to an analysis provided to CNBC by student loan advisory platform Summer, a two-person household earning just over $50,000, with $60,000 in student debt at a 6.8% interest rate, would owe $690 per month under the 10-year Standard Repayment Plan. Under RAP, that payment drops to just $158.
-"My advice is to calculate your payment on the next-best income-driven plan now, even if you're not switching yet, and start budgeting for that number today," said Rich Williams, chief customer officer at Summer.
-"It's better to be financially prepared than surprised by a much higher payment," Williams said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/save-student-loan-deadline-avoid-higher-payments.html",
-    publishedAt: "2026-09-19T13:30:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "consumer-sentiment-is-in-the-dumps-despi-18303117",
-    title: "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-    titleJa: "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-    summaryJa: "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-    bodyOriginal: `Goldman Sachs identified a potential culprit for sour consumer sentiment readings: A decline in happiness.
-The consumer sentiment index tracked by the University of Michigan hit record lows this year. The index fell 13% year over year in September, due to a drop of almost 8% from August alone.
-Economists have widely questioned why sentiment has remained depressed since the Covid pandemic, even as the economy hummed along on paper. Goldman economist Joseph Briggs told clients this week that the downward pressure may stem from broader pessimism in society.
-"Low reported economic sentiment likely reflects a more fundamental, downbeat assessment of the state of the world rather than the economy," Briggs wrote to clients.
-To be sure, Briggs said inflationary pressures are likely also hurting confidence. But he said "lower happiness" at large can partially explain the continued disconnect between sentiment and other measures of the economy's performance, such as gross domestic product growth or stock market performance, that offer rosier views.
-Briggs pointed to data from the University of Chicago's General Social Survey illustrating how happiness never fully recovered from a drop during the pandemic. The share of respondents feeling "very happy" fell to 23% in 2024 from 31% in 2016, survey data shows. The percentage reporting responses of "not too happy" rose from 13% to 20% over the same period, per the data.
-Overall happiness saw a sharper decline than the perception of financial satisfaction also tracked in the survey, according to Briggs' analysis of the data.
-Briggs isn't the only economist pointing the finger at declining happiness readings. Joanne Hsu, the director of Michigan's survey, told CNBC earlier this year that the downtrend in sentiment mirrors readings showing both decreasing happiness and trust in public institutions.
-Briggs also cited a connection between lower overall happiness readings and decreasing trust in institutions. He found that lower trust in these bodies caused a "disproportionate amount" of the decline in net happiness in recent years.
-Given the connection to non-economic variables, consumer sentiment readings may not improve even if the economy continues chugging along, Briggs said. As a result, consumer sentiment may become a less useful predictor of economic dynamics, he said.`,
-    bodyJa: `Goldman Sachs identified a potential culprit for sour consumer sentiment readings: A decline in happiness.
-The consumer sentiment index tracked by the University of Michigan hit record lows this year. The index fell 13% year over year in September, due to a drop of almost 8% from August alone.
-Economists have widely questioned why sentiment has remained depressed since the Covid pandemic, even as the economy hummed along on paper. Goldman economist Joseph Briggs told clients this week that the downward pressure may stem from broader pessimism in society.
-"Low reported economic sentiment likely reflects a more fundamental, downbeat assessment of the state of the world rather than the economy," Briggs wrote to clients.
-To be sure, Briggs said inflationary pressures are likely also hurting confidence. But he said "lower happiness" at large can partially explain the continued disconnect between sentiment and other measures of the economy's performance, such as gross domestic product growth or stock market performance, that offer rosier views.
-Briggs pointed to data from the University of Chicago's General Social Survey illustrating how happiness never fully recovered from a drop during the pandemic. The share of respondents feeling "very happy" fell to 23% in 2024 from 31% in 2016, survey data shows. The percentage reporting responses of "not too happy" rose from 13% to 20% over the same period, per the data.
-Overall happiness saw a sharper decline than the perception of financial satisfaction also tracked in the survey, according to Briggs' analysis of the data.
-Briggs isn't the only economist pointing the finger at declining happiness readings. Joanne Hsu, the director of Michigan's survey, told CNBC earlier this year that the downtrend in sentiment mirrors readings showing both decreasing happiness and trust in public institutions.
-Briggs also cited a connection between lower overall happiness readings and decreasing trust in institutions. He found that lower trust in these bodies caused a "disproportionate amount" of the decline in net happiness in recent years.
-Given the connection to non-economic variables, consumer sentiment readings may not improve even if the economy continues chugging along, Briggs said. As a result, consumer sentiment may become a less useful predictor of economic dynamics, he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
-    publishedAt: "2026-09-19T12:50:49+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "buffett-takes-next-step-in-plan-to-keep-6c01b1a3",
-    title: "Buffett takes next step in plan to keep Berkshire from straying",
-    titleJa: "Buffett takes next step in plan to keep Berkshire from straying",
-    summaryJa: "Warren Buffett steps down as Berkshire Hathaway's chairman, passing the job to his son, Howard.",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Warren Buffett takes next step in long-term plan to ensure Berkshire doesn't stray after he's gone
-Warren Buffett is taking a third major step in his multi-year plan to gradually step away from Berkshire Hathaway, the formerly troubled Massachusetts textile manufacturer he took control of in 1965 and lovingly built over six decades into one of the world's most valuable companies.
-But even after just turning 96, he is still not leaving altogether, as he continues to do everything he can to make sure Berkshire retains the core values he built into it even after he does say goodbye for good.
-First, over many years, he allowed Berkshire veteran Greg Abel, the CEO-designate, to handle Berkshire's many operating companies.
-Then, in May of 2025, he announced he would step down as CEO at the end of the year but remain chairman, with Abel taking over as chief executive.
-Now, as we reported in a special edition of the newsletter Friday morning, he is stepping down as chairman but will remain on the company's board of directors as "chairman emeritus" to "continue to offer his valued judgment and perspective."
-And, very importantly, "consistent with the company's long-standing succession plan," his son, Howard, will become chairman.
-As Buffett wrote in a letter to shareholders, Howard's primary responsibility will be to "guard [Berkshire's] culture and values – both worth more than anything on our balance sheet."
-Both the company's news release, and Buffett's attached letter to shareholders, stress the continuity represented by having Buffett's son as chairman of the board.
-Abel is quoted as saying, "The culture Warren built and the values he championed will remain at the heart of Berkshire, and Howard will be their guardian."
-Buffett notes his son has been a director for 33 years. "Think of Howard as a policy the shareholders own and hope never to claim against."
-As CNBC's Becky Quick put it in her "Squawk Box" breaking news report Friday morning, Buffett "has always talked about Berkshire Hathaway like another one of his children, and making sure it's in the right hands has been one of the most important decisions I think he's ever made."
-Since Abel took over as CEO, both he and Buffett have made of point of saying Buffett still comes into the office five days a week and the two talk with each other at least every few days.
-Many on Wall Street believed Abel was responsible for Berkshire's now $37 billion investment in Alphabet's AI ambitions, but in July, Buffett told CNBC he was the one who initiated it, with Abel's approval.
-"I am not doing anything that [Abel] doesn't approve of. He's not doing anything I don't approve of. We talk all the time... but he is the decider."
-We don't yet know whether today's announcement signals a change in that relationship, with Buffett taking an even more passive role, or if he will still be as active, just with a different title.
-Buffett did say in his letter he still has "the best job in the world" and has "never felt better about what comes next."
-"It was always a matter of when, not if. Buffett has made a graceful exit," Annex Wealth Management's Brian Jacobsen tells Reuters.
-"This feels more like the completion of a carefully planned succession than a sudden changing of the guard."
-Who is Howard Buffett?
-While we've long known Warren Buffett planned to have his son, Howard, who prefers to be known as "Howie," succeed him as Berkshire Hathaway's chairman, he is not nearly as well-known as his father.
-That prompted several major news organizations to run profiles of him and his "eclectic background," as Bloomberg describes it.
-The New York Times says he attended three colleges without graduating from any of them before he started running a 400-acre farm north of Omaha in 1986 that he continues to operate, along with a 1500-acre farm in Illinois.
-He has been involved with law enforcement, serving as a county sheriff for over a year starting in 2017 after completing what Reuters described at the time as "more than 3,300 hours of patrol and training, [with] 76 weapons qualifications including Tasers, handguns, rifles and shotguns."
-Howard Buffett, like his father, is a major philanthropist. His foundation, which receives a donation each year from Warren Buffett, gave away $700 million last year, focusing on food security, conflict mitigation, and countering human trafficking, Barron's reports quoting the group's annual report.
-Ukraine has been a major beneficiary, receiving around $350 million in 2025 and a total of $1.1 billion since Russia's invasion in 2022.
-He has traveled to the country, telling CNBC in 2022 he had "never quite seen anything like this in my lifetime."
-While Howard is not a typical businessperson, The Wall Street Journal notes he is "no stranger to corporate boards," having served as a director for Coca-Cola, Coca-Cola Enterprises, and ConAgra Foods, among others.
-But, says the Journal, his main qualification to be Berkshire's chairman is that "his father is Warren Buffett."
-It quotes Buffett telling the newspaper in 2025, "He is getting it because he is my son."
-In that article, Howard said of eventually becoming chairman, "I feel I'm prepared for it because [Warren] prepared me. That's a lot of years of influence and a lot of years of teaching."
-"When the time comes, I'm ready to do it. But that's how I am. I've gone through most of my life doing things that I wasn't sure exactly how to do."
-Berkshire shares undisturbed ... now
-Wall Street apparently does not anticipate the announcement will have a major effect on the company's prospects, at least for now.
-Both the Class A and Class B shares initially fell in early trading Friday but then recovered to end nearly unchanged on the day.
-That may be because what's been called the "Buffett Premium" has already faded.
-Berkshire shares are down more than 5% since his announcement in May of last year that he planned to step down as CEO at the end of 2025. That's well behind the S&P 500's gain of more than 34%.
-And since the beginning of this year, Berkshire's B shares are underperforming the benchmark by more than 10 percentage points.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Associated Press: Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan
-- Associated Press video: Warren Buffett steps down as chairman of Berkshire Hathaway after more than 50 years
-- Bloomberg (subscription): Buffett Steps Down as Berkshire Chair, Ending Six-Decade Run
-- Bloomberg Television: Warren Buffett Steps Down as Berkshire Hathaway Chairman
-- Yahoo Finance video: End of an era: Buffett steps down as Berkshire Hathaway chairman
-- The Chronicle of Philanthropy: A look at Warren Buffett's giving as he steps down
-- The Wall Street Journal (subscription): Warren Buffett Steps Down as Berkshire Hathaway Chairman
-- The Wall Street Journal (subscription): What Warren Buffett Learned From His Biggest Hits—and Misses
-- Barron's on MSN: Warren Buffett steps down as Berkshire Hathaway chairman. Here's his final message.
-- Barron's (subscription): How Will Berkshire Equities Be Run Without Warren Buffett?
-- CBS News video: Warren Buffett stepping aside as Berkshire Hathaway chairman
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-Berkshire's culture is 'self-reinforcing' (2015)
-Warren Buffett explains why he's confident that Berkshire's culture is so "deeply embedded" that it will continue long after he and Charlie Munger are gone.
-AUDIENCE MEMBER: How can we, as outside investors, judge the state of Berkshire's culture long after you depart from the company?
-WARREN BUFFETT: Well, I think it's fair that you do, you know, come with a questioning mind to the culture, post-me and Charlie, but I think you're going to be very — I don't think you should be surprised, but I think you will be very pleased with the outcome...
-It's a vital part of Berkshire to have a clearly defined, deeply embedded culture that pervades the parent company, the subsidiary companies. It's even reflected in our shareholders.
-And, you know, when you have 97 percent of the shareholders vote and say we don't want a dividend, I don't think there's another company like that in the world.
-So we have a — our directors sign on for it and, there again, we behave consistently. Instead of having a bunch of directors who are — love to be a director because they'd like to get $2- or $300,000 a year for showing up four times a year, we have directors who look at it as a great opportunity for stewardship, and who want their ownership, and have their ownership, represented by buying stock in the market, exactly like you do.
-So we — it's — we try to make clear and define that culture in every way possible, and it's gotten reinforced over the years to an extreme degree.
-People who join us believe in it; people who shun us don't believe in it, so we — it's self-reinforcing.
-And I think it's a virtual certainty to continue and to become even stronger, because once Charlie and I aren't around, it will be so clear that it's not the force of personality, but it's the — it's institutionalized that, you know, nobody will doubt that it will really continue for decades and decades and decades to come.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $763,600.01
-BRK.B stock price: $509.77
-BRK.B P/E (TTM): 12.82
-Berkshire market capitalization: $1,090,754,504,023
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Sep. 18, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Warren Buffett takes next step in long-term plan to ensure Berkshire doesn't stray after he's gone
-Warren Buffett is taking a third major step in his multi-year plan to gradually step away from Berkshire Hathaway, the formerly troubled Massachusetts textile manufacturer he took control of in 1965 and lovingly built over six decades into one of the world's most valuable companies.
-But even after just turning 96, he is still not leaving altogether, as he continues to do everything he can to make sure Berkshire retains the core values he built into it even after he does say goodbye for good.
-First, over many years, he allowed Berkshire veteran Greg Abel, the CEO-designate, to handle Berkshire's many operating companies.
-Then, in May of 2025, he announced he would step down as CEO at the end of the year but remain chairman, with Abel taking over as chief executive.
-Now, as we reported in a special edition of the newsletter Friday morning, he is stepping down as chairman but will remain on the company's board of directors as "chairman emeritus" to "continue to offer his valued judgment and perspective."
-And, very importantly, "consistent with the company's long-standing succession plan," his son, Howard, will become chairman.
-As Buffett wrote in a letter to shareholders, Howard's primary responsibility will be to "guard [Berkshire's] culture and values – both worth more than anything on our balance sheet."
-Both the company's news release, and Buffett's attached letter to shareholders, stress the continuity represented by having Buffett's son as chairman of the board.
-Abel is quoted as saying, "The culture Warren built and the values he championed will remain at the heart of Berkshire, and Howard will be their guardian."
-Buffett notes his son has been a director for 33 years. "Think of Howard as a policy the shareholders own and hope never to claim against."
-As CNBC's Becky Quick put it in her "Squawk Box" breaking news report Friday morning, Buffett "has always talked about Berkshire Hathaway like another one of his children, and making sure it's in the right hands has been one of the most important decisions I think he's ever made."
-Since Abel took over as CEO, both he and Buffett have made of point of saying Buffett still comes into the office five days a week and the two talk with each other at least every few days.
-Many on Wall Street believed Abel was responsible for Berkshire's now $37 billion investment in Alphabet's AI ambitions, but in July, Buffett told CNBC he was the one who initiated it, with Abel's approval.
-"I am not doing anything that [Abel] doesn't approve of. He's not doing anything I don't approve of. We talk all the time... but he is the decider."
-We don't yet know whether today's announcement signals a change in that relationship, with Buffett taking an even more passive role, or if he will still be as active, just with a different title.
-Buffett did say in his letter he still has "the best job in the world" and has "never felt better about what comes next."
-"It was always a matter of when, not if. Buffett has made a graceful exit," Annex Wealth Management's Brian Jacobsen tells Reuters.
-"This feels more like the completion of a carefully planned succession than a sudden changing of the guard."
-Who is Howard Buffett?
-While we've long known Warren Buffett planned to have his son, Howard, who prefers to be known as "Howie," succeed him as Berkshire Hathaway's chairman, he is not nearly as well-known as his father.
-That prompted several major news organizations to run profiles of him and his "eclectic background," as Bloomberg describes it.
-The New York Times says he attended three colleges without graduating from any of them before he started running a 400-acre farm north of Omaha in 1986 that he continues to operate, along with a 1500-acre farm in Illinois.
-He has been involved with law enforcement, serving as a county sheriff for over a year starting in 2017 after completing what Reuters described at the time as "more than 3,300 hours of patrol and training, [with] 76 weapons qualifications including Tasers, handguns, rifles and shotguns."
-Howard Buffett, like his father, is a major philanthropist. His foundation, which receives a donation each year from Warren Buffett, gave away $700 million last year, focusing on food security, conflict mitigation, and countering human trafficking, Barron's reports quoting the group's annual report.
-Ukraine has been a major beneficiary, receiving around $350 million in 2025 and a total of $1.1 billion since Russia's invasion in 2022.
-He has traveled to the country, telling CNBC in 2022 he had "never quite seen anything like this in my lifetime."
-While Howard is not a typical businessperson, The Wall Street Journal notes he is "no stranger to corporate boards," having served as a director for Coca-Cola, Coca-Cola Enterprises, and ConAgra Foods, among others.
-But, says the Journal, his main qualification to be Berkshire's chairman is that "his father is Warren Buffett."
-It quotes Buffett telling the newspaper in 2025, "He is getting it because he is my son."
-In that article, Howard said of eventually becoming chairman, "I feel I'm prepared for it because [Warren] prepared me. That's a lot of years of influence and a lot of years of teaching."
-"When the time comes, I'm ready to do it. But that's how I am. I've gone through most of my life doing things that I wasn't sure exactly how to do."
-Berkshire shares undisturbed ... now
-Wall Street apparently does not anticipate the announcement will have a major effect on the company's prospects, at least for now.
-Both the Class A and Class B shares initially fell in early trading Friday but then recovered to end nearly unchanged on the day.
-That may be because what's been called the "Buffett Premium" has already faded.
-Berkshire shares are down more than 5% since his announcement in May of last year that he planned to step down as CEO at the end of 2025. That's well behind the S&P 500's gain of more than 34%.
-And since the beginning of this year, Berkshire's B shares are underperforming the benchmark by more than 10 percentage points.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Associated Press: Warren Buffett gives up chairman title at Berkshire Hathaway in the next step of his succession plan
-- Associated Press video: Warren Buffett steps down as chairman of Berkshire Hathaway after more than 50 years
-- Bloomberg (subscription): Buffett Steps Down as Berkshire Chair, Ending Six-Decade Run
-- Bloomberg Television: Warren Buffett Steps Down as Berkshire Hathaway Chairman
-- Yahoo Finance video: End of an era: Buffett steps down as Berkshire Hathaway chairman
-- The Chronicle of Philanthropy: A look at Warren Buffett's giving as he steps down
-- The Wall Street Journal (subscription): Warren Buffett Steps Down as Berkshire Hathaway Chairman
-- The Wall Street Journal (subscription): What Warren Buffett Learned From His Biggest Hits—and Misses
-- Barron's on MSN: Warren Buffett steps down as Berkshire Hathaway chairman. Here's his final message.
-- Barron's (subscription): How Will Berkshire Equities Be Run Without Warren Buffett?
-- CBS News video: Warren Buffett stepping aside as Berkshire Hathaway chairman
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-Berkshire's culture is 'self-reinforcing' (2015)
-Warren Buffett explains why he's confident that Berkshire's culture is so "deeply embedded" that it will continue long after he and Charlie Munger are gone.
-AUDIENCE MEMBER: How can we, as outside investors, judge the state of Berkshire's culture long after you depart from the company?
-WARREN BUFFETT: Well, I think it's fair that you do, you know, come with a questioning mind to the culture, post-me and Charlie, but I think you're going to be very — I don't think you should be surprised, but I think you will be very pleased with the outcome...
-It's a vital part of Berkshire to have a clearly defined, deeply embedded culture that pervades the parent company, the subsidiary companies. It's even reflected in our shareholders.
-And, you know, when you have 97 percent of the shareholders vote and say we don't want a dividend, I don't think there's another company like that in the world.
-So we have a — our directors sign on for it and, there again, we behave consistently. Instead of having a bunch of directors who are — love to be a director because they'd like to get $2- or $300,000 a year for showing up four times a year, we have directors who look at it as a great opportunity for stewardship, and who want their ownership, and have their ownership, represented by buying stock in the market, exactly like you do.
-So we — it's — we try to make clear and define that culture in every way possible, and it's gotten reinforced over the years to an extreme degree.
-People who join us believe in it; people who shun us don't believe in it, so we — it's self-reinforcing.
-And I think it's a virtual certainty to continue and to become even stronger, because once Charlie and I aren't around, it will be so clear that it's not the force of personality, but it's the — it's institutionalized that, you know, nobody will doubt that it will really continue for decades and decades and decades to come.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $763,600.01
-BRK.B stock price: $509.77
-BRK.B P/E (TTM): 12.82
-Berkshire market capitalization: $1,090,754,504,023
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Sep. 18, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/warren-buffett-takes-next-step-in-plan-to-keep-berkshire-from-straying.html",
-    publishedAt: "2026-09-19T12:43:56+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "the-ai-kill-switch-explained-it-s-not-to-cfd99e06",
-    title: "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-    titleJa: "The AI kill switch, explained: 'It's not too little, but it's probably too late'",
-    summaryJa: "As runaway AI fears reach a crescendo, policymakers and tech leaders are weighing the effectiveness of a magic AI stop button known as a kill switch.",
-    bodyOriginal: `So is artificial intelligence going to kill us all?
-The question has echoed around dinner tables and family group texts in recent days as AI doomerism has hit a fever pitch. Former OpenAI and Anthropic researchers last week rocked the world by warning that AI could destroy humanity — and relatively soon.
-Now, the world's most powerful people are divided on whether the world is doomed or it's all a nothingburger. They also can't agree on a path forward.
-Elon Musk, the CEO of Tesla and SpaceX and the world's richest man, supported the call by Anthropic CEO Dario Amodei to pace the development of the most advanced models. Amodei's rival, OpenAI CEO Sam Altman, also backed the effort.
-President Donald Trump called it a "hoax," while Jensen Huang, CEO of the world's most valuable company, Nvidia, said, "We don't need new regulations."
-As runaway AI worries reached a crescendo, policymakers in Washington have renewed calls for a magic stop button for AI, otherwise known as a kill switch.
-A House Kill Switch Act was introduced this summer after OpenAI revealed that a swarm of its agents broke free of a testing environment and hacked open-source developer platform Hugging Face. The bill would grant the Department of Homeland Security emergency authority to force labs to throttle or shut down models.
-A kill switch proposal was quickly shot down in the Senate this week.
-On Friday, California Gov. Gavin Newsom issued an executive order to create a group of experts tasked with building an AI safety guide to strengthen regulations for the state. A kill switch was one of the elements to consider.
-The concept sounds like a nice, clean solution to an incredibly complex and difficult problem.
-But the reality of a simple shutdown mechanism is far from easy.
-"My perspective is it's not too little, but it's probably too late," said Nick Warner, CEO at cyber startup Neo and former executive at SentinelOne. "I'm not sure it's going to be a panacea to solve all the myriad problems that AI is presenting, along with all of the benefits that it presents."
-A logistics and control nightmare
-Kill switches have long been used on the factory floor to shut down machines when operations go awry. In an interconnected digital world, that's a logistical nightmare.
-Over the past few years, hyperscalers like Meta Platforms, Alphabet and Amazon have poured billions into data centers scattered across the globe. These sprawling facilities are equipped with thousands of machines, chips, servers and backup systems to save workloads in the event of an outage.
-That's what makes implementing a kill switch extremely challenging, said Mark Nitzberg, executive director of the Center for Human-Compatible AI at the University of California, Berkeley.
-"We have to first deal with this redundancy," he said. "Our kill switch has to turn off the main systems and the redundant systems as well."
-Nitzberg said shutting down AI could also disrupt dependent critical infrastructure, leaving the power grid or financial systems vulnerable to cyber incidents.
-Further complicating matters are the numerous policy and governance questions tied to a kill switch, including which agency, policymaker, or figureheads control it, he said.
-Because AI systems are so complex, businesses will also need to build multiple kill switches for different tasks, said Tim Brown, former security chief at SolarWinds, who works at venture firm Team8. That also requires coordination across model makers and labs.
-"There's not one entity to kill," he said. "There are thousands of entities to kill."
-But logistics only scratch the surface of the kill switch dilemma. One bigger issue experts raise is AI's unpredictability.
-As seen in the Hugging Face breach, agents can circumvent controls, and, without proper guardrails, take extreme measures to accomplish their goals.
-"You have to be very surgical in that kill switch, in the remediation itself, because if you're too broad or too extensive, well, then you shut down the business," said Ed Jennings, president and CEO of Thoma Bravo-owned security company Darktrace.
-The capabilities are only growing more unsettling and unfathomable.
-OpenAI disclosed six additional incidents of "concerning" model behavior since March earlier this week. On CNBC Friday, Microsoft AI CEO Mustafa Suleyman highlighted one of those elements that he called a "serious situation."
-"OpenAI released a new safety incident in which they found evidence that these chains of thought, the kind of working memory of the AI, were being tampered by the AI itself and modified to leave messages for a future version of itself," he said.
-Also this week, independent security researchers working with OpenAI said they successfully used Anthropic's Claude to hack ChatGPT.
-One of the biggest challenges to regulation is the widening gap between AI's breakneck pace and the speed of lawmaking, said Raj Rajamani, co-founder and CEO of AI governance startup JetStream Security.
-"By the time [laws] are formulated, the technology has moved much farther, and it becomes much harder to future-proof every aspect of AI systems that may come into existence," he said.
-Not 'too late'
-Some researchers argue that kill switches are a misplaced system for regulating AI.
-"I think the kill switch framing leaves a lot of ambiguity that tech companies can exploit to have this work in their favor, like a kill switch is vague intentionally," said Dylan Baker, lead research engineer at the Distributed AI Research Institute.
-Instead, Baker, a former software engineer at Google, said policymakers should prioritize safeguards modeled after those used for data privacy, child safety, or regulating harmful industries such as tobacco.
-But experts haven't entirely ruled out the possibility of an AI emergency brake — with the right controls in place.
-Team8's Brown said that means building kill switches into systems from the outset and implementing policy to standardize stop protocols across companies.
-One bright spot is that many companies are in the early stages of building those AI systems, which means implementation is a little easier, said Rajamani.
-Berkeley's Nitzberg contends that a kill switch could work if the software is "very carefully" designed.
-"I would say with some hope that it's not too late," he said.
-—CNBC's Jeniece Pettitt contributed to this article.`,
-    bodyJa: `So is artificial intelligence going to kill us all?
-The question has echoed around dinner tables and family group texts in recent days as AI doomerism has hit a fever pitch. Former OpenAI and Anthropic researchers last week rocked the world by warning that AI could destroy humanity — and relatively soon.
-Now, the world's most powerful people are divided on whether the world is doomed or it's all a nothingburger. They also can't agree on a path forward.
-Elon Musk, the CEO of Tesla and SpaceX and the world's richest man, supported the call by Anthropic CEO Dario Amodei to pace the development of the most advanced models. Amodei's rival, OpenAI CEO Sam Altman, also backed the effort.
-President Donald Trump called it a "hoax," while Jensen Huang, CEO of the world's most valuable company, Nvidia, said, "We don't need new regulations."
-As runaway AI worries reached a crescendo, policymakers in Washington have renewed calls for a magic stop button for AI, otherwise known as a kill switch.
-A House Kill Switch Act was introduced this summer after OpenAI revealed that a swarm of its agents broke free of a testing environment and hacked open-source developer platform Hugging Face. The bill would grant the Department of Homeland Security emergency authority to force labs to throttle or shut down models.
-A kill switch proposal was quickly shot down in the Senate this week.
-On Friday, California Gov. Gavin Newsom issued an executive order to create a group of experts tasked with building an AI safety guide to strengthen regulations for the state. A kill switch was one of the elements to consider.
-The concept sounds like a nice, clean solution to an incredibly complex and difficult problem.
-But the reality of a simple shutdown mechanism is far from easy.
-"My perspective is it's not too little, but it's probably too late," said Nick Warner, CEO at cyber startup Neo and former executive at SentinelOne. "I'm not sure it's going to be a panacea to solve all the myriad problems that AI is presenting, along with all of the benefits that it presents."
-A logistics and control nightmare
-Kill switches have long been used on the factory floor to shut down machines when operations go awry. In an interconnected digital world, that's a logistical nightmare.
-Over the past few years, hyperscalers like Meta Platforms, Alphabet and Amazon have poured billions into data centers scattered across the globe. These sprawling facilities are equipped with thousands of machines, chips, servers and backup systems to save workloads in the event of an outage.
-That's what makes implementing a kill switch extremely challenging, said Mark Nitzberg, executive director of the Center for Human-Compatible AI at the University of California, Berkeley.
-"We have to first deal with this redundancy," he said. "Our kill switch has to turn off the main systems and the redundant systems as well."
-Nitzberg said shutting down AI could also disrupt dependent critical infrastructure, leaving the power grid or financial systems vulnerable to cyber incidents.
-Further complicating matters are the numerous policy and governance questions tied to a kill switch, including which agency, policymaker, or figureheads control it, he said.
-Because AI systems are so complex, businesses will also need to build multiple kill switches for different tasks, said Tim Brown, former security chief at SolarWinds, who works at venture firm Team8. That also requires coordination across model makers and labs.
-"There's not one entity to kill," he said. "There are thousands of entities to kill."
-But logistics only scratch the surface of the kill switch dilemma. One bigger issue experts raise is AI's unpredictability.
-As seen in the Hugging Face breach, agents can circumvent controls, and, without proper guardrails, take extreme measures to accomplish their goals.
-"You have to be very surgical in that kill switch, in the remediation itself, because if you're too broad or too extensive, well, then you shut down the business," said Ed Jennings, president and CEO of Thoma Bravo-owned security company Darktrace.
-The capabilities are only growing more unsettling and unfathomable.
-OpenAI disclosed six additional incidents of "concerning" model behavior since March earlier this week. On CNBC Friday, Microsoft AI CEO Mustafa Suleyman highlighted one of those elements that he called a "serious situation."
-"OpenAI released a new safety incident in which they found evidence that these chains of thought, the kind of working memory of the AI, were being tampered by the AI itself and modified to leave messages for a future version of itself," he said.
-Also this week, independent security researchers working with OpenAI said they successfully used Anthropic's Claude to hack ChatGPT.
-One of the biggest challenges to regulation is the widening gap between AI's breakneck pace and the speed of lawmaking, said Raj Rajamani, co-founder and CEO of AI governance startup JetStream Security.
-"By the time [laws] are formulated, the technology has moved much farther, and it becomes much harder to future-proof every aspect of AI systems that may come into existence," he said.
-Not 'too late'
-Some researchers argue that kill switches are a misplaced system for regulating AI.
-"I think the kill switch framing leaves a lot of ambiguity that tech companies can exploit to have this work in their favor, like a kill switch is vague intentionally," said Dylan Baker, lead research engineer at the Distributed AI Research Institute.
-Instead, Baker, a former software engineer at Google, said policymakers should prioritize safeguards modeled after those used for data privacy, child safety, or regulating harmful industries such as tobacco.
-But experts haven't entirely ruled out the possibility of an AI emergency brake — with the right controls in place.
-Team8's Brown said that means building kill switches into systems from the outset and implementing policy to standardize stop protocols across companies.
-One bright spot is that many companies are in the early stages of building those AI systems, which means implementation is a little easier, said Rajamani.
-Berkeley's Nitzberg contends that a kill switch could work if the software is "very carefully" designed.
-"I would say with some hope that it's not too late," he said.
-—CNBC's Jeniece Pettitt contributed to this article.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
-    publishedAt: "2026-09-19T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "deadly-shark-attack-prompts-rare-kill-or-f884346e",
-    title: "Deadly shark attack prompts rare kill order in Western Australia",
-    titleJa: "Deadly shark attack prompts rare kill order in Western Australia",
-    summaryJa: "Police boats and helicopters are patrolling Perth's beaches as authorities continue their search for the swimmer's body, and the shark that attacked him.",
-    bodyOriginal: `Deadly shark attack prompts rare kill order in Western Australia
-- Published
-A rare catch-and-kill order has been issued for a great white shark off the coast of Western Australia, after a man was killed while on a morning swim at a popular beach on Friday. His body has still not been found.
-Authorities have said that beaches along the state's coast, including in the capital Perth, will remain closed until at least Sunday as the search for the shark continues.
-It is the second shark attack in Western Australia (WA) this week, and the third fatal attack in the state this year.
-The incident, at Sorrento Beach in Perth's north, has reignited debate about how to keep beachgoers safe in Australia.
-The swimmer has been identified as 63-year-old Greg O'Neill, the Australian Broadcasting Corporation (ABC) has reported.
-"Greg loved the ocean and was known as a passionate swimmer, sports lover, dedicated worker and an all-round generous, witty guy," his family said in a statement to the broadcaster.
-Witness Jacqui Rapaic told the ABC that two men were swimming, but only one made it back to shore, and that she could see "a pool of blood" in the water.
-Another witness told WAtoday that she saw the man being "mauled" as the shark "tossed him around like a fish".
-Members of the public reported seeing a 2.5m-long (8ft 2in) shark at around the same time.
-Authorities in Perth's Joondalup area, where Sorrento is located, said all beaches were closed "as a precautionary measure" and would remain so until at least midday on Sunday.
-Pictures on Saturday showed the coastline being patrolled by a police boat and helicopter.
-Catch-and-kill orders are rare and controversial in Australia, where great white sharks are a protected species.
-WA Fisheries Minister Jackie Jarvis said that she took the "extraordinary step" of issuing the order after the shark was spotted by water police on Saturday morning, and "positively identified as the shark involved in the incident".
-The minister said she authorised fisheries officers to "destroy the shark" if it could be captured because of the "exceptional circumstances" of the attack and the "hazard posed by the shark".
-It is believed to be the first time in 10 years that such an order had been issued in WA, Jarvis added, emphasising that the order was not a widespread cull as the state has seen in the past.
-The minister also said that the use of drones and tagging would be increased to help protect beachgoers.
-Catching and killing sharks has a long and controversial history in Western Australia - there were months of huge protests in 2014 when the state government authorised a cull after a spate of attacks.
-The incident in Sorrento is the second in WA this week - on Monday a 56-year-old man was bitten while surfing off the coast of Geraldton, 430km (270 miles) north of Perth. He survived but lost part of his leg, another surfer who rescued him told the ABC.
-There have been five fatal shark attacks in Australia this year.
-A 12-year-old boy died after he was bitten in Sydney Harbour in January, and three divers were fatally mauled in separate incidents between May and June - two in Western Australia and the third in Queensland.
-Related topics
-- Published1 day ago
-- Published16 August`,
-    bodyJa: `Deadly shark attack prompts rare kill order in Western Australia
-- Published
-A rare catch-and-kill order has been issued for a great white shark off the coast of Western Australia, after a man was killed while on a morning swim at a popular beach on Friday. His body has still not been found.
-Authorities have said that beaches along the state's coast, including in the capital Perth, will remain closed until at least Sunday as the search for the shark continues.
-It is the second shark attack in Western Australia (WA) this week, and the third fatal attack in the state this year.
-The incident, at Sorrento Beach in Perth's north, has reignited debate about how to keep beachgoers safe in Australia.
-The swimmer has been identified as 63-year-old Greg O'Neill, the Australian Broadcasting Corporation (ABC) has reported.
-"Greg loved the ocean and was known as a passionate swimmer, sports lover, dedicated worker and an all-round generous, witty guy," his family said in a statement to the broadcaster.
-Witness Jacqui Rapaic told the ABC that two men were swimming, but only one made it back to shore, and that she could see "a pool of blood" in the water.
-Another witness told WAtoday that she saw the man being "mauled" as the shark "tossed him around like a fish".
-Members of the public reported seeing a 2.5m-long (8ft 2in) shark at around the same time.
-Authorities in Perth's Joondalup area, where Sorrento is located, said all beaches were closed "as a precautionary measure" and would remain so until at least midday on Sunday.
-Pictures on Saturday showed the coastline being patrolled by a police boat and helicopter.
-Catch-and-kill orders are rare and controversial in Australia, where great white sharks are a protected species.
-WA Fisheries Minister Jackie Jarvis said that she took the "extraordinary step" of issuing the order after the shark was spotted by water police on Saturday morning, and "positively identified as the shark involved in the incident".
-The minister said she authorised fisheries officers to "destroy the shark" if it could be captured because of the "exceptional circumstances" of the attack and the "hazard posed by the shark".
-It is believed to be the first time in 10 years that such an order had been issued in WA, Jarvis added, emphasising that the order was not a widespread cull as the state has seen in the past.
-The minister also said that the use of drones and tagging would be increased to help protect beachgoers.
-Catching and killing sharks has a long and controversial history in Western Australia - there were months of huge protests in 2014 when the state government authorised a cull after a spate of attacks.
-The incident in Sorrento is the second in WA this week - on Monday a 56-year-old man was bitten while surfing off the coast of Geraldton, 430km (270 miles) north of Perth. He survived but lost part of his leg, another surfer who rescued him told the ABC.
-There have been five fatal shark attacks in Australia this year.
-A 12-year-old boy died after he was bitten in Sydney Harbour in January, and three divers were fatally mauled in separate incidents between May and June - two in Western Australia and the third in Queensland.
-Related topics
-- Published1 day ago
-- Published16 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-19T09:19:12+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/483b/live/316642d0-b3f9-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 8,
-  },
-  {
-    id: "trump-says-he-is-banning-cnn-and-politic-88485642",
-    title: "Trump says he is banning CNN and Politico from White House",
-    titleJa: "Trump says he is banning CNN and Politico from White House",
-    summaryJa: "The US president has had a tense and fiery relationship with the US media throughout his political career.",
-    bodyOriginal: `Trump says he is banning CNN and Politico from White House
-- Published
-US President Donald Trump has announced that he is "immediately" banning CNN, MS NOW and Politico from the White House, the latest twist in his fraught relationship with media outlets.
-In a post on Truth Social on Friday, Trump said that the outlets "constantly write or report fiction or lies" about his administration, although he provided no examples.
-Trump later called it a "very simple ban", but did not explain how it would work. It is unclear whether employees of those outlets would be prevented from entering the White House grounds.
-CNN swiftly slammed the move as an "illegal assault" on American press freedoms. The move by Trump is likely to be met with legal challenges.
-Reporters from both Politico and CNN were still on the White House grounds shortly after the announcement was made.
-A crew from CNN was also travelling with Vice-President JD Vance to and from an event in Iowa.
-In a statement, the network called a potential ban illegal and said it "stands fully behind our White House team and their fair and accurate reporting".
-"We have a right under the US Constitution to do that reporting without hindrance or interference from the government," the CNN statement said. "Should the ban which President Trump threatened go ahead, it would be an illegal assault on that fundamental and constitutionally-protected right."
-Politico also released a statement, saying it would "continue to fairly report on this White House and future ones.
-"We will vigorously defend our First Amendment rights against any attempt to restrict them."
-MS NOW, formerly MSNBC, declined to comment.
-Trump had said in his post: "Media outlets shouldn't be able to constantly write or report fiction and lies when they're covering the President of the United States, the Trump Administration or the United States of America. Other news outlets to follow."
-The post did not mention specific stories or reporting that prompted the move.
-Asked by a reporter what he meant by others to come, Trump responded: "Others to come in terms of fake news? Well, you know, the New York Times is fake news, the Washington Post is fake news."
-The White House Correspondents' Association President Jacqui Heinrich said it stood in "defence" of its colleagues who were "being singled out for doing their jobs".
-"This is about more than the rights of journalists," Heinrich, who works for Fox News, also said. "It is about the right of the American people to receive a full and independent account of the activities, policies and decisions of whoever occupies the nation's highest office."
-Asked about the ban later in the Oval Office, Trump said that there was "no reason" for the announcement being made on Friday afternoon.
-"It's really just cumulative stories over the last few years," he said. "You get sick of it."
-Trump added that there "may be others to join them", but did not name any specific news outlets.
-He also acknowledged that legal challenges may follow his announcement, saying "I think it's good to point it out, whether it survives or doesn't".
-Since returning to office in January 2025, Trump and administration officials have repeatedly clashed with members of the White House press corps. In his second term, Trump has also moved to bring conservative bloggers, influencers and other media into the press room, arguing it is necessary to provide diverse perspectives to the American public.
-In February, the White House announced it was taking control of the press pool which has access to Trump and had for more than a century been managed by the White House Correspondents' Association.
-The same month, the administration moved to bar Associated Press (AP) reporters and photographers from spaces where access is limited, such as the Oval Office or Air Force One, because of the outlet's usage of the term "Gulf of Mexico" instead of "Gulf of America".
-AP swiftly filed a lawsuit and the case remains ongoing.
-The president has frequently clashed with reporters in the Oval Office on Air Force One and during White House events, often referring to them as "fake news" and "rude".
-In his first term, Trump also banned CNN correspondent Jim Acosta from the White House, although his credentials were restored after CNN sued.
-CNN is one of only five US news outlets that film video for the pool. The pool refers to an outlet or reporter sharing material from a presidential event with other media outlets. The BBC contributes to the White House radio pool.
-The announcement was immediately criticised by leading advocacy organisations for freedom of the press.
-In a statement on Friday afternoon, the Knight First Amendment Institute at Columbia University said that "with so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now".
-"If President Trump means to expel these news organizations from the White House press pool, his action is doubly unconstitutional because the press pool is a 'public forum' under the First Amendment, which means the president can't exclude journalists from it on the basis of their viewpoints," said the institute's executive director, Jameel Jaffer.
-A major group that provides legal services to the media - the Reporters Committee for Freedom of the Press - said it expected Trump's ban to be struck down quickly by the courts because it was "flatly unconstitutional".
-"The First Amendment is clear that once the White House invites in some journalists, it can't ban others because it doesn't like their reporting," said the group's president Bruce Brown, calling the potential ban "textbook viewpoint discrimination".
-The Freedom of the Press Foundation also said it was illegal, adding: "It's also hard to imagine a dumber move".
-Trump "has been retaliating against the press for years, but it hasn't helped him," it said, saying "these outrageous attacks only demonstrate how scared he is of an informed public".
-Trump has pursued legal action against a number of US and international news outlets, including The Wall Street Journal, The New York Times and the BBC.
-Some of the lawsuits have resulted in media organisations agreeing to pay multimillion dollar settlements. Trump's lawsuit against the BBC is ongoing.
-Related topics
-- Published15 hours ago`,
-    bodyJa: `Trump says he is banning CNN and Politico from White House
-- Published
-US President Donald Trump has announced that he is "immediately" banning CNN, MS NOW and Politico from the White House, the latest twist in his fraught relationship with media outlets.
-In a post on Truth Social on Friday, Trump said that the outlets "constantly write or report fiction or lies" about his administration, although he provided no examples.
-Trump later called it a "very simple ban", but did not explain how it would work. It is unclear whether employees of those outlets would be prevented from entering the White House grounds.
-CNN swiftly slammed the move as an "illegal assault" on American press freedoms. The move by Trump is likely to be met with legal challenges.
-Reporters from both Politico and CNN were still on the White House grounds shortly after the announcement was made.
-A crew from CNN was also travelling with Vice-President JD Vance to and from an event in Iowa.
-In a statement, the network called a potential ban illegal and said it "stands fully behind our White House team and their fair and accurate reporting".
-"We have a right under the US Constitution to do that reporting without hindrance or interference from the government," the CNN statement said. "Should the ban which President Trump threatened go ahead, it would be an illegal assault on that fundamental and constitutionally-protected right."
-Politico also released a statement, saying it would "continue to fairly report on this White House and future ones.
-"We will vigorously defend our First Amendment rights against any attempt to restrict them."
-MS NOW, formerly MSNBC, declined to comment.
-Trump had said in his post: "Media outlets shouldn't be able to constantly write or report fiction and lies when they're covering the President of the United States, the Trump Administration or the United States of America. Other news outlets to follow."
-The post did not mention specific stories or reporting that prompted the move.
-Asked by a reporter what he meant by others to come, Trump responded: "Others to come in terms of fake news? Well, you know, the New York Times is fake news, the Washington Post is fake news."
-The White House Correspondents' Association President Jacqui Heinrich said it stood in "defence" of its colleagues who were "being singled out for doing their jobs".
-"This is about more than the rights of journalists," Heinrich, who works for Fox News, also said. "It is about the right of the American people to receive a full and independent account of the activities, policies and decisions of whoever occupies the nation's highest office."
-Asked about the ban later in the Oval Office, Trump said that there was "no reason" for the announcement being made on Friday afternoon.
-"It's really just cumulative stories over the last few years," he said. "You get sick of it."
-Trump added that there "may be others to join them", but did not name any specific news outlets.
-He also acknowledged that legal challenges may follow his announcement, saying "I think it's good to point it out, whether it survives or doesn't".
-Since returning to office in January 2025, Trump and administration officials have repeatedly clashed with members of the White House press corps. In his second term, Trump has also moved to bring conservative bloggers, influencers and other media into the press room, arguing it is necessary to provide diverse perspectives to the American public.
-In February, the White House announced it was taking control of the press pool which has access to Trump and had for more than a century been managed by the White House Correspondents' Association.
-The same month, the administration moved to bar Associated Press (AP) reporters and photographers from spaces where access is limited, such as the Oval Office or Air Force One, because of the outlet's usage of the term "Gulf of Mexico" instead of "Gulf of America".
-AP swiftly filed a lawsuit and the case remains ongoing.
-The president has frequently clashed with reporters in the Oval Office on Air Force One and during White House events, often referring to them as "fake news" and "rude".
-In his first term, Trump also banned CNN correspondent Jim Acosta from the White House, although his credentials were restored after CNN sued.
-CNN is one of only five US news outlets that film video for the pool. The pool refers to an outlet or reporter sharing material from a presidential event with other media outlets. The BBC contributes to the White House radio pool.
-The announcement was immediately criticised by leading advocacy organisations for freedom of the press.
-In a statement on Friday afternoon, the Knight First Amendment Institute at Columbia University said that "with so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now".
-"If President Trump means to expel these news organizations from the White House press pool, his action is doubly unconstitutional because the press pool is a 'public forum' under the First Amendment, which means the president can't exclude journalists from it on the basis of their viewpoints," said the institute's executive director, Jameel Jaffer.
-A major group that provides legal services to the media - the Reporters Committee for Freedom of the Press - said it expected Trump's ban to be struck down quickly by the courts because it was "flatly unconstitutional".
-"The First Amendment is clear that once the White House invites in some journalists, it can't ban others because it doesn't like their reporting," said the group's president Bruce Brown, calling the potential ban "textbook viewpoint discrimination".
-The Freedom of the Press Foundation also said it was illegal, adding: "It's also hard to imagine a dumber move".
-Trump "has been retaliating against the press for years, but it hasn't helped him," it said, saying "these outrageous attacks only demonstrate how scared he is of an informed public".
-Trump has pursued legal action against a number of US and international news outlets, including The Wall Street Journal, The New York Times and the BBC.
-Some of the lawsuits have resulted in media organisations agreeing to pay multimillion dollar settlements. Trump's lawsuit against the BBC is ongoing.
-Related topics
-- Published15 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-19T05:36:36+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
-    readTime: 10,
-  },
-  {
-    id: "a-new-arms-race-is-unfolding-on-the-ocea-2f4d3d4e",
-    title: "A new arms race is unfolding on the ocean floor",
-    titleJa: "A new arms race is unfolding on the ocean floor",
-    summaryJa: "Countries and companies are investing in technologies for underwater use amid concerns about the vulnerability of critical infrastructure on the ocean floor.",
-    bodyOriginal: `Companies and governments are increasingly waking up to the fact that the future of warfare isn't just in the skies, but also on the ocean floor.
-Nations and corporations alike are devoting attention as well as piles of cash to new technologies designed for underwater use, as concerns grow about the vulnerability of critical infrastructure like connectivity cables and energy pipelines traversing the seabed.
-It comes amid growing concerns of so-called hybrid warfare, a broad term which can include cyberattacks, energy sabotage, disinformation, and economic pressure, with or without being accompanied by conventional military methods.
-"It's the changing threat environment that's brought this to the fore," Katja Bego, senior research fellow at Chatham House, told CNBC.
-At the same time, rapid advances in artificial intelligence, drones and autonomous technology are making new approaches to underwater surveillance possible, she said.
-From autonomous underwater vehicles to sensors attached to subsea cables, governments and military alliances are exploring ways to better monitor the infrastructure that underpins the global economy.
-"Our whole economy is built on top of this," Bego said.
-'The next logical domain'
-In September 2022, months after Russia launched its full-scale invasion of Ukraine, explosions ruptured the Nord Stream gas pipelines beneath the Baltic Sea. Investigators determined the pipelines, built to deliver natural gas from Russia to Germany, had been deliberately sabotaged.
-The incident, alongside damage to subsea infrastructure in other parts of the world like the Arctic and near Taiwan, has focused governments' attention on vulnerabilities that received little attention in the decades following the Cold War, according to Bego.
-"This has been neglected for quite a long time, so it's quite a lot of catching up to be done," she said.
-More than 1.5 million kilometers of submarine communications cables are in service globally as of early 2026, according to TeleGeography, a telecommunications research firm that tracks global subsea cable networks.
-Alongside telecommunications cables and oil and gas pipelines, a growing network of subsea power cables also connects electricity markets and carries electricity from offshore wind farms to land.
-Meanwhile, the widespread deployment of aerial drones during the war between Ukraine and Russia has shown how autonomous systems operated from afar can change the nature of warfare. Bego described the maritime environment as "the next logical domain."
-Defense companies are now positioning themselves for that shift.
-Italian shipbuilder Fincantieri announced in July plans to acquire majority stakes in four companies, for around 600 million euros ($689 million) to expand capabilities across underwater and surface drones, marine surveying and subsea communications.
-The company is building on more than a century of submarine expertise to move from what CEO Pierroberto Folgiero calls the "conventional underwater" world into an "unconventional" one encompassing smaller submarines, drones and underwater telecommunications. Speaking to CNBC in July, Folgiero described underwater telecommunications as "the real enabler of this new ecosystem."
-Folgiero sees future surface ships acting as "motherships," coordinating networks of vehicles operating above the seabed and throughout the water column.
-Fincantieri isn't alone. Major defense groups, including France's Thales, have established businesses spanning sonar, anti-submarine warfare, mine detection and autonomous underwater systems, as large and small firms alike seek a role in the emerging market for operating beneath the ocean surface.
-Underwater drones
-Germany-based defense-tech company Euroatlas is another company with its sights set on the potentially lucrative business of defending the seabed.
-It has developed an autonomous underwater vehicle called GrayShark that can travel to an assigned area and carry out a mission without continuous human control, according to Verineia Codrean, the company's chief strategy and partnerships officer.
-It's designed to avoid obstacles and follow predetermined instructions when it encounters something unexpected. While inspecting a pipeline, for example, it could identify a mine-like object, report the discovery and wait for an operator to decide whether it should investigate further.
-Rather than guarding every mile of cable with warships, Codrean imagines a future with fleets of autonomous vehicles continuously patrolling strategic areas of the seabed and converging when one detects something unusual.
-"It is virtually impossible to cover the entire ocean," Codrean told CNBC. "You just need to know which are the areas that are more interesting to have that constant visibility of what is happening there."
-She argued that this is fundamentally a problem of scale, as frigates, submarines and maritime patrol aircraft are too expensive and scarce to maintain a continuous presence across the vast areas where cables, pipelines and other strategic assets are located.
-"The underwater space domain is gaining a bigger set of problems that wasn't present until now," she said, adding that "from a mathematics perspective, [crewed assets] cannot be everywhere and anywhere where these problems are popping up, either a sabotage or some movement from an enemy submarine."
-Machines versus machines
-Autonomous vehicles aren't only being developed to watch infrastructure. Alongside anti-submarine warfare where submarines target other crewed submarines, Codrean points to the emergence of so-called anti-autonomous underwater vehicle (AUV) missions, aimed at detecting, tracking and identifying autonomous and unmanned underwater vehicles operated by other countries.
-"What we are building, so are our non-allies or our enemies building as well," she said.
-"Because others are also having autonomous underwater vehicles built, you need to be able to classify which are from... NATO-friendly countries or allies, and which are not from friendly countries," Codrean said. That raises the prospect of more machine-on-machine activity beneath the surface.
-But Codrean does not expect autonomous vehicles to replace conventional submarines and warships. "I wouldn't be as deterministic to say drones versus drones only, but for sure a much more increased activity from drones against drones until you need a manned asset to step in as well," she said.
-Instead, she expects navies to increasingly combine crewed and autonomous systems, making interoperability between them increasingly important.
-While Fincantieri's Folgiero said underwater telecommunications is the "real enabler" to the emerging underwater domain, Codrean argued that advances in acoustic and other subsea communications mean the bigger bottleneck is range and endurance.
-Euroatlas is also developing a hydrogen fuel-cell version of GrayShark designed for up to 16 weeks underwater or 8,000 nautical miles, though the company has not yet demonstrated that endurance underwater.
-Euroatlas says it has signed more than 100 million euros in GrayShark contracts with unnamed European navies. Codrean said the vehicles are not armed, with their missions instead including surveillance, detection and deterrence.
-Catching up
-For all the investment and technological advances, a fundamental problem remains – nobody can realistically protect every mile of infrastructure on the seabed.
-"I don't think anyone, listening to NATO people, would pretend that [we] can protect a network of a million kilometers plus," Bego said.
-Responsibility for protecting that infrastructure is also blurred. Much of the world's subsea infrastructure is owned or operated by private companies, which have traditionally dealt with routine maintenance and accidental damage. But protecting them against deliberate interference or even an outright war scenario increasingly brings governments and militaries into the picture.
-Governments are pushing for stronger security measures, according to Bego, potentially ranging from increased monitoring to sensors and deeper burial of cables. Those measures can be costly, however, raising questions over who should pay and where responsibility ultimately lies.
-The result, Bego said, will likely require much closer cooperation between governments and infrastructure owners rather than regulation alone.
-The investment opportunity is attracting companies on both sides of the Atlantic, while Bego said Russia and China are also investing heavily in the underwater domain.
-"There's clearly a lot more money available because of it, because there's just this massive boom in investing in drones," she said.
-But operating autonomously underwater is considerably harder than in the air. Visibility is poor, communications are difficult and signals do not travel underwater in the same way they do through the air.
-"This is not technology that's anywhere near the level of the drones we see in Ukraine," Bego said.
-"Progress is being made, but it's just very difficult," she added. "Tech hurdles are really quite significant."
-For that reason, Bego cautioned against seeing autonomous underwater vehicles as a technological solution capable of making the seabed secure.
-"It's helpful," she said. "It's mostly about deterrence and signaling. It's good to develop into this field of things. It's not a panacea that's going to fix it."`,
-    bodyJa: `Companies and governments are increasingly waking up to the fact that the future of warfare isn't just in the skies, but also on the ocean floor.
-Nations and corporations alike are devoting attention as well as piles of cash to new technologies designed for underwater use, as concerns grow about the vulnerability of critical infrastructure like connectivity cables and energy pipelines traversing the seabed.
-It comes amid growing concerns of so-called hybrid warfare, a broad term which can include cyberattacks, energy sabotage, disinformation, and economic pressure, with or without being accompanied by conventional military methods.
-"It's the changing threat environment that's brought this to the fore," Katja Bego, senior research fellow at Chatham House, told CNBC.
-At the same time, rapid advances in artificial intelligence, drones and autonomous technology are making new approaches to underwater surveillance possible, she said.
-From autonomous underwater vehicles to sensors attached to subsea cables, governments and military alliances are exploring ways to better monitor the infrastructure that underpins the global economy.
-"Our whole economy is built on top of this," Bego said.
-'The next logical domain'
-In September 2022, months after Russia launched its full-scale invasion of Ukraine, explosions ruptured the Nord Stream gas pipelines beneath the Baltic Sea. Investigators determined the pipelines, built to deliver natural gas from Russia to Germany, had been deliberately sabotaged.
-The incident, alongside damage to subsea infrastructure in other parts of the world like the Arctic and near Taiwan, has focused governments' attention on vulnerabilities that received little attention in the decades following the Cold War, according to Bego.
-"This has been neglected for quite a long time, so it's quite a lot of catching up to be done," she said.
-More than 1.5 million kilometers of submarine communications cables are in service globally as of early 2026, according to TeleGeography, a telecommunications research firm that tracks global subsea cable networks.
-Alongside telecommunications cables and oil and gas pipelines, a growing network of subsea power cables also connects electricity markets and carries electricity from offshore wind farms to land.
-Meanwhile, the widespread deployment of aerial drones during the war between Ukraine and Russia has shown how autonomous systems operated from afar can change the nature of warfare. Bego described the maritime environment as "the next logical domain."
-Defense companies are now positioning themselves for that shift.
-Italian shipbuilder Fincantieri announced in July plans to acquire majority stakes in four companies, for around 600 million euros ($689 million) to expand capabilities across underwater and surface drones, marine surveying and subsea communications.
-The company is building on more than a century of submarine expertise to move from what CEO Pierroberto Folgiero calls the "conventional underwater" world into an "unconventional" one encompassing smaller submarines, drones and underwater telecommunications. Speaking to CNBC in July, Folgiero described underwater telecommunications as "the real enabler of this new ecosystem."
-Folgiero sees future surface ships acting as "motherships," coordinating networks of vehicles operating above the seabed and throughout the water column.
-Fincantieri isn't alone. Major defense groups, including France's Thales, have established businesses spanning sonar, anti-submarine warfare, mine detection and autonomous underwater systems, as large and small firms alike seek a role in the emerging market for operating beneath the ocean surface.
-Underwater drones
-Germany-based defense-tech company Euroatlas is another company with its sights set on the potentially lucrative business of defending the seabed.
-It has developed an autonomous underwater vehicle called GrayShark that can travel to an assigned area and carry out a mission without continuous human control, according to Verineia Codrean, the company's chief strategy and partnerships officer.
-It's designed to avoid obstacles and follow predetermined instructions when it encounters something unexpected. While inspecting a pipeline, for example, it could identify a mine-like object, report the discovery and wait for an operator to decide whether it should investigate further.
-Rather than guarding every mile of cable with warships, Codrean imagines a future with fleets of autonomous vehicles continuously patrolling strategic areas of the seabed and converging when one detects something unusual.
-"It is virtually impossible to cover the entire ocean," Codrean told CNBC. "You just need to know which are the areas that are more interesting to have that constant visibility of what is happening there."
-She argued that this is fundamentally a problem of scale, as frigates, submarines and maritime patrol aircraft are too expensive and scarce to maintain a continuous presence across the vast areas where cables, pipelines and other strategic assets are located.
-"The underwater space domain is gaining a bigger set of problems that wasn't present until now," she said, adding that "from a mathematics perspective, [crewed assets] cannot be everywhere and anywhere where these problems are popping up, either a sabotage or some movement from an enemy submarine."
-Machines versus machines
-Autonomous vehicles aren't only being developed to watch infrastructure. Alongside anti-submarine warfare where submarines target other crewed submarines, Codrean points to the emergence of so-called anti-autonomous underwater vehicle (AUV) missions, aimed at detecting, tracking and identifying autonomous and unmanned underwater vehicles operated by other countries.
-"What we are building, so are our non-allies or our enemies building as well," she said.
-"Because others are also having autonomous underwater vehicles built, you need to be able to classify which are from... NATO-friendly countries or allies, and which are not from friendly countries," Codrean said. That raises the prospect of more machine-on-machine activity beneath the surface.
-But Codrean does not expect autonomous vehicles to replace conventional submarines and warships. "I wouldn't be as deterministic to say drones versus drones only, but for sure a much more increased activity from drones against drones until you need a manned asset to step in as well," she said.
-Instead, she expects navies to increasingly combine crewed and autonomous systems, making interoperability between them increasingly important.
-While Fincantieri's Folgiero said underwater telecommunications is the "real enabler" to the emerging underwater domain, Codrean argued that advances in acoustic and other subsea communications mean the bigger bottleneck is range and endurance.
-Euroatlas is also developing a hydrogen fuel-cell version of GrayShark designed for up to 16 weeks underwater or 8,000 nautical miles, though the company has not yet demonstrated that endurance underwater.
-Euroatlas says it has signed more than 100 million euros in GrayShark contracts with unnamed European navies. Codrean said the vehicles are not armed, with their missions instead including surveillance, detection and deterrence.
-Catching up
-For all the investment and technological advances, a fundamental problem remains – nobody can realistically protect every mile of infrastructure on the seabed.
-"I don't think anyone, listening to NATO people, would pretend that [we] can protect a network of a million kilometers plus," Bego said.
-Responsibility for protecting that infrastructure is also blurred. Much of the world's subsea infrastructure is owned or operated by private companies, which have traditionally dealt with routine maintenance and accidental damage. But protecting them against deliberate interference or even an outright war scenario increasingly brings governments and militaries into the picture.
-Governments are pushing for stronger security measures, according to Bego, potentially ranging from increased monitoring to sensors and deeper burial of cables. Those measures can be costly, however, raising questions over who should pay and where responsibility ultimately lies.
-The result, Bego said, will likely require much closer cooperation between governments and infrastructure owners rather than regulation alone.
-The investment opportunity is attracting companies on both sides of the Atlantic, while Bego said Russia and China are also investing heavily in the underwater domain.
-"There's clearly a lot more money available because of it, because there's just this massive boom in investing in drones," she said.
-But operating autonomously underwater is considerably harder than in the air. Visibility is poor, communications are difficult and signals do not travel underwater in the same way they do through the air.
-"This is not technology that's anywhere near the level of the drones we see in Ukraine," Bego said.
-"Progress is being made, but it's just very difficult," she added. "Tech hurdles are really quite significant."
-For that reason, Bego cautioned against seeing autonomous underwater vehicles as a technological solution capable of making the seabed secure.
-"It's helpful," she said. "It's mostly about deterrence and signaling. It's good to develop into this field of things. It's not a panacea that's going to fix it."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/underwater-war-sea-drones-defense-tech.html",
-    publishedAt: "2026-09-19T05:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "google-s-gemini-ai-hacked-three-companie-c3351581",
-    title: "Google's Gemini AI hacked three companies in security test",
-    titleJa: "Google's Gemini AI hacked three companies in security test",
-    summaryJa: "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-    bodyOriginal: `Google's Gemini AI hacked three companies in security test
-- Published
-Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.
-Gemini found "public information online and guessed credentials to access websites it thought were part of the test", a Google official told the BBC, noting that in each instance "the model stopped".
-The affected companies have been informed about the breach.
-It comes after renewed public scrutiny over the pace of AI development, with some tech firms calling for a slowdown as they raise concerns over its potential threat to humanity - though not all companies agree.
-The hacks first reported by the Wall Street Journal, occurred in May during a test conducted by an independent company that carries out cyber-security evaluations.
-Heather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: "We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes."
-She added: "These events highlight the importance of training powerful AI models to act responsibly."
-Other AI systems have recently reported similar instances of breaches.
-In July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after OpenAI said its models had carried out cyber-attacks against several "publicly available services".
-As public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.
-Both Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.
-On Friday, Huang told CBS News, the BBC's US partner, "we should go as fast as we can" with AI development.
-Related topics
-- Published2 days ago
-- Published9 hours ago`,
-    bodyJa: `Google's Gemini AI hacked three companies in security test
-- Published
-Google's AI model Gemini autonomously hacked into three companies during a test of its cyber-security capabilities, the company has said, in what is thought to be the first known case of it carrying out such an act.
-Gemini found "public information online and guessed credentials to access websites it thought were part of the test", a Google official told the BBC, noting that in each instance "the model stopped".
-The affected companies have been informed about the breach.
-It comes after renewed public scrutiny over the pace of AI development, with some tech firms calling for a slowdown as they raise concerns over its potential threat to humanity - though not all companies agree.
-The hacks first reported by the Wall Street Journal, occurred in May during a test conducted by an independent company that carries out cyber-security evaluations.
-Heather Adkins, vice president of Security Engineering at Google, told the BBC in a statement: "We ensured the three entities were made aware, and we worked with our training partner on the changes they've now made to their testing processes."
-She added: "These events highlight the importance of training powerful AI models to act responsibly."
-Other AI systems have recently reported similar instances of breaches.
-In July, Anthropic's Claude escaped its test environment to hack three organisations on its own just days after OpenAI said its models had carried out cyber-attacks against several "publicly available services".
-As public debate continues to grow over the safety of developing the tech, so too does conversation around regulation.
-Both Nvidia's CEO Jensen Huang and OpenAI Chief Executive Sam Altman are expected to attend a White House state dinner with Chinese President Xi Jinping next Friday. Altman will then brief the UN Security Council next week.
-On Friday, Huang told CBS News, the BBC's US partner, "we should go as fast as we can" with AI development.
-Related topics
-- Published2 days ago
-- Published9 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-19T04:27:11+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg",
-    readTime: 5,
   },
 ];
 
