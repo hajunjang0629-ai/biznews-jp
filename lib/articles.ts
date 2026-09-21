@@ -15,6 +15,554 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-admin-won-t-give-ai-leaders-a-liab-fe9c7e12",
+    title: "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+    titleJa: "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+    summaryJa: "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
+    bodyOriginal: `Artificial intelligence developers "need to take responsibility for themselves" instead of expecting the federal government to give them a "liability shield," Treasury Secretary Scott Bessent told CNBC on Monday.
+"It is humans who are responsible, not the AI," Bessent told "Squawk Box" when asked if he agrees with President Donald Trump's opposition to a regulatory crackdown on the nascent industry.
+Bessent's comments came as some AI leaders have raised alarms about the risks posed by their rapidly advancing models. But their calls for a potential slowdown of the industry have received pushback from Trump, who strongly supports the industry's expansion in the U.S.
+Bessent was also asked about interest rates, his talks over the weekend with his Chinese counterpart, He Lifeng, as well as Trump's attempt to ban media outlets from the White House.
+The Treasury secretary met with the Chinese vice premier ahead of the summit in Washington later this week between Trump and Chinese President Xi Jinping.
+The Treasury chief last week touted a Sept. 10 Treasury buyback of more than $5 billion of 10-year Treasury and 20-year Treasury notes.
+Since the U.S. and Israel's war against Iran began in late February, the benchmark 10-year Treasury's yield — which moves inversely to the note's price — has increased by about 100 basis points, rising above 5% last week for the first time since 2007.
+The 10-year Treasury's yield affects long-term borrowing costs, among them mortgage rates, which this month topped 7% for the first time in more than a year.
+In testimony to the House Financial Services Committee on Sept. 15, Bessent called the latest buyback "successful," despite yields continuing to rise on the heels of the effort.
+"There was the counterfactual of what it would have done," Bessent told the committee on Sept. 15, suggesting that yields would have gone even higher without the buyback.
+"Since President Trump has come in, [the U.S. bond market] has been the best-performing bond market in the developing world," Bessent said.
+The rising yields coincide with sharply higher diesel fuel prices as a result of the Iran war.
+Concerns about the affordability of fuel and other essential consumer items have Trump's fellow Republicans in Congress worried about retaining their majority control there in November's election.
+At the midterm Republican National Convention on Sept. 9, Trump vowed every U.S. citizen adult would get a "dividend" of $5,000 if Republicans kept control of both the Senate and House of Representatives.
+On Sept. 16, the Federal Reserve's Federal Open Market Committee for the first time since 2023 raised benchmark interest rates to a target range of 3.75% to 4% in what the committee said was an effort to reduce what it termed "elevated inflation."
+Trump, who appointed Fed Chairman Kevin Warsh, has repeatedly demanded that the Fed cut rates. But the president told reporters he spoke with Warsh before the FOMC meeting and said, "You might as well vote with the board. It's not going to matter.'"`,
+    bodyJa: `Artificial intelligence developers "need to take responsibility for themselves" instead of expecting the federal government to give them a "liability shield," Treasury Secretary Scott Bessent told CNBC on Monday.
+"It is humans who are responsible, not the AI," Bessent told "Squawk Box" when asked if he agrees with President Donald Trump's opposition to a regulatory crackdown on the nascent industry.
+Bessent's comments came as some AI leaders have raised alarms about the risks posed by their rapidly advancing models. But their calls for a potential slowdown of the industry have received pushback from Trump, who strongly supports the industry's expansion in the U.S.
+Bessent was also asked about interest rates, his talks over the weekend with his Chinese counterpart, He Lifeng, as well as Trump's attempt to ban media outlets from the White House.
+The Treasury secretary met with the Chinese vice premier ahead of the summit in Washington later this week between Trump and Chinese President Xi Jinping.
+The Treasury chief last week touted a Sept. 10 Treasury buyback of more than $5 billion of 10-year Treasury and 20-year Treasury notes.
+Since the U.S. and Israel's war against Iran began in late February, the benchmark 10-year Treasury's yield — which moves inversely to the note's price — has increased by about 100 basis points, rising above 5% last week for the first time since 2007.
+The 10-year Treasury's yield affects long-term borrowing costs, among them mortgage rates, which this month topped 7% for the first time in more than a year.
+In testimony to the House Financial Services Committee on Sept. 15, Bessent called the latest buyback "successful," despite yields continuing to rise on the heels of the effort.
+"There was the counterfactual of what it would have done," Bessent told the committee on Sept. 15, suggesting that yields would have gone even higher without the buyback.
+"Since President Trump has come in, [the U.S. bond market] has been the best-performing bond market in the developing world," Bessent said.
+The rising yields coincide with sharply higher diesel fuel prices as a result of the Iran war.
+Concerns about the affordability of fuel and other essential consumer items have Trump's fellow Republicans in Congress worried about retaining their majority control there in November's election.
+At the midterm Republican National Convention on Sept. 9, Trump vowed every U.S. citizen adult would get a "dividend" of $5,000 if Republicans kept control of both the Senate and House of Representatives.
+On Sept. 16, the Federal Reserve's Federal Open Market Committee for the first time since 2023 raised benchmark interest rates to a target range of 3.75% to 4% in what the committee said was an effort to reduce what it termed "elevated inflation."
+Trump, who appointed Fed Chairman Kevin Warsh, has repeatedly demanded that the Fed cut rates. But the president told reporters he spoke with Warsh before the FOMC meeting and said, "You might as well vote with the board. It's not going to matter.'"`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
+    publishedAt: "2026-09-21T12:35:02+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "trump-to-be-sued-by-ms-now-cnn-politico-3790439f",
+    title: "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+    titleJa: "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
+    summaryJa: "President Trump cited what he called \"cumulative stories\" by the three media outlets for his ban of them, saying, \"You get sick of it.\"",
+    bodyOriginal: `MS NOW, CNN and Politico are set to sue President Donald Trump on Monday morning and to ask a federal judge to reverse his total ban on those three media outlets from the White House.
+Journalists from the outlets were prevented from entering the White House on Saturday, a day after Trump announced he would bar them from working there.
+"This ban could not be a more direct assault on the First Amendment nor a more blatant violation of our most fundamental constitutional principles," the lawsuit says, arguing that the ban has already "severely impeded the ability of" the three outlets to cover Trump and his administration.
+"Presidents from the earliest days of the Republic have disagreed with and complained about the tenor and content of press coverage of their administrations," the civil complaint, set to be filed in U.S. District Court in Washington, notes.
+But "the Constitution protects the liberty and property interests that news organizations and White House reporters have in their press credentials and the access those credentials afford them to cover the White House for the benefit of the public," the suit says. "No official can deprive Plaintiffs of those interests on a whim — with no notice, no process, and no warning — as the President did here."
+Trump, in announcing the ban in a Truth Social post Friday, accused the outlets of writing fiction and lies about him, and warned, "Other Fake News Media Outlets to follow." The president cited what he called "cumulative stories" by the three news organizations, adding, "You get sick of it."
+On Monday morning, after the lawsuit was announced, Trump in a Truth Social post said, "The White House is not instituting an assault on the Free Press, something which I cherish."
+"It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America," Trump wrote. "It is corrupt, purposeful, pervasive, fully coordinated, and totally out of control."
+"It is a threat to our National Security, and must be stopped, NOW!" he said. Trump had not previously cited national security in justifying the ban.
+The suit alleges the ban violates the Due Process Clause of the U.S. Constitution by failing to give the outlets advance notice and an opportunity to challenge it, without establishing clear standards for Trump's decision.
+The complaint also says the ban violates the Constitution's First Amendment by retaliating "against protected newsgathering and speech."
+And it says the ban violates the First Amendment for a separate reason: it bars the three media outlets "from a nonpublic forum for unlawful reasons." Those reasons include so-called viewpoint discrimination, or targeting the outlets for their perceived "motivating ideology or the opinion or perspective."
+In a joint statement on Monday, the three outlets said, "This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes."
+Without notice or process, the White House revoked our journalists' credentials because it objected to our reporting," the statement said. "Left unchallenged, this threatens press freedom and the public's right to independent journalism free from government interference."
+The White House and the Department of Justice did not immediately respond to a request for comment from CNBC about the lawsuit.
+The three outlets will file a joint motion asking a judge to issue a temporary restraining order barring Trump and other defendants from taking further action to enforce the ban and requiring them to immediately restore so-called hard pass press credentials to the plaintiffs, which give their reporters access to the White House.
+In addition to Trump, the defendants are his assistant for communications, Steven Cheung, White House Chief of Staff Susan Wiles, and Sean Curran, director of the U.S. Secret Service.
+The named plaintiffs are the three outlets and three White House reporters: Akayla Gardner of MS NOW; Betsy Klein of CNN; and Politico's Cheyenne Haslett. All three journalists were denied entry to the White House on Saturday and had their hard passes taken away by a Secret Service officer there, the suit says.
+On Sunday night, the White House removed CNN from its scheduled rotation as the pool network for the White House travel pool. The pool is set to travel Monday with Trump for his visit to New York for the United Nations General Assembly.
+The lawsuit cites the White House's removal of CNN from Monday's pool schedule as an example of the ban "causing irreparable harm to" the outlets.
+The suit is being filed in the same court where The Associated Press has a pending lawsuit against the White House for a ban on that wire service's journalists working in certain restricted spaces in the White House, including the Oval Office and on Air Force One. The White House's partial ban on the AP came in February 2025 after the wire service refused to reflect Trump's renaming of the Gulf of Mexico to the Gulf of America in how it routinely refers to that international body of water.
+Trump told reporters on Friday that the latest ban is worth implementing, even if it is overturned by a judge.
+"I think it's good to point it out, whether it survives or doesn't," he said.
+The Knight First Amendment Institute at Columbia University, in a statement after Trump's announcement, suggested he would lose a legal challenge to the ban because of the U.S. Constitution's First Amendment protections for the media.
+"The First Amendment prohibits the president from punishing journalists because he doesn't like their coverage, just as it prohibits him from punishing universities because he doesn't like the courses they offer, or from punishing law firms because he doesn't like the clients they represent," said Jameel Jaffer, executive director of the institute.
+"With so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now," Jaffer said.
+MS NOW, in a statement Saturday, had said, "The White House belongs to the American people and the decisions made inside are funded by our tax dollars."
+"MS NOW intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy," the network said. MS NOW also vowed to "continue to report on the President, the administration, and the issues that impact the American people."
+CNN and Politico issued similar statements, which referred to their constitutional right to report news without government interference.
+White House Correspondents' Association President Jacqui Heinrich, in a statement Saturday, said, "The American people, through a free and independent press, must be able to scrutinize those elected to power, regardless of whether government officials view it favorably."
+"That's why courts have repeatedly held that once the White House provides access to journalists, it cannot deny that access arbitrarily or based on the content of their reporting," Heinrich, a Fox News correspondent, said.
+In the AP's lawsuit, Judge Trevor McFadden ruled in April 2025 that Trump's partial ban of the agency's journalists violated the First Amendment and ordered that the AP be given the same access as other members of the presidential press pool to the Oval Office, other restricted areas of the White House and Air Force One.
+"The Court simply holds that under the First Amendment, if the Government opens its doors to some journalists — be it to the Oval Office, the East Room, or elsewhere — it cannot then shut those doors to other journalists because of their viewpoints," wrote McFadden, who was appointed to the federal bench by Trump.
+"The Constitution requires no less," the judge said.
+Rather than allowing The Associated Press access to places the White House press pool goes to cover the president, the White House said it would abolish the so-called wire pool, which included the AP, Bloomberg and Reuters. The wire pool for decades had traveled with presidents to bring news coverage to news consumers around the world. It has not been reinstated.
+A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit, in a 2-1 vote in June 2025, blocked McFadden's ruling from taking effect while Trump appealed it.
+The panel heard oral arguments in the appeal in November, but has not issued a decision.
+Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
+    bodyJa: `MS NOW, CNN and Politico are set to sue President Donald Trump on Monday morning and to ask a federal judge to reverse his total ban on those three media outlets from the White House.
+Journalists from the outlets were prevented from entering the White House on Saturday, a day after Trump announced he would bar them from working there.
+"This ban could not be a more direct assault on the First Amendment nor a more blatant violation of our most fundamental constitutional principles," the lawsuit says, arguing that the ban has already "severely impeded the ability of" the three outlets to cover Trump and his administration.
+"Presidents from the earliest days of the Republic have disagreed with and complained about the tenor and content of press coverage of their administrations," the civil complaint, set to be filed in U.S. District Court in Washington, notes.
+But "the Constitution protects the liberty and property interests that news organizations and White House reporters have in their press credentials and the access those credentials afford them to cover the White House for the benefit of the public," the suit says. "No official can deprive Plaintiffs of those interests on a whim — with no notice, no process, and no warning — as the President did here."
+Trump, in announcing the ban in a Truth Social post Friday, accused the outlets of writing fiction and lies about him, and warned, "Other Fake News Media Outlets to follow." The president cited what he called "cumulative stories" by the three news organizations, adding, "You get sick of it."
+On Monday morning, after the lawsuit was announced, Trump in a Truth Social post said, "The White House is not instituting an assault on the Free Press, something which I cherish."
+"It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America," Trump wrote. "It is corrupt, purposeful, pervasive, fully coordinated, and totally out of control."
+"It is a threat to our National Security, and must be stopped, NOW!" he said. Trump had not previously cited national security in justifying the ban.
+The suit alleges the ban violates the Due Process Clause of the U.S. Constitution by failing to give the outlets advance notice and an opportunity to challenge it, without establishing clear standards for Trump's decision.
+The complaint also says the ban violates the Constitution's First Amendment by retaliating "against protected newsgathering and speech."
+And it says the ban violates the First Amendment for a separate reason: it bars the three media outlets "from a nonpublic forum for unlawful reasons." Those reasons include so-called viewpoint discrimination, or targeting the outlets for their perceived "motivating ideology or the opinion or perspective."
+In a joint statement on Monday, the three outlets said, "This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes."
+Without notice or process, the White House revoked our journalists' credentials because it objected to our reporting," the statement said. "Left unchallenged, this threatens press freedom and the public's right to independent journalism free from government interference."
+The White House and the Department of Justice did not immediately respond to a request for comment from CNBC about the lawsuit.
+The three outlets will file a joint motion asking a judge to issue a temporary restraining order barring Trump and other defendants from taking further action to enforce the ban and requiring them to immediately restore so-called hard pass press credentials to the plaintiffs, which give their reporters access to the White House.
+In addition to Trump, the defendants are his assistant for communications, Steven Cheung, White House Chief of Staff Susan Wiles, and Sean Curran, director of the U.S. Secret Service.
+The named plaintiffs are the three outlets and three White House reporters: Akayla Gardner of MS NOW; Betsy Klein of CNN; and Politico's Cheyenne Haslett. All three journalists were denied entry to the White House on Saturday and had their hard passes taken away by a Secret Service officer there, the suit says.
+On Sunday night, the White House removed CNN from its scheduled rotation as the pool network for the White House travel pool. The pool is set to travel Monday with Trump for his visit to New York for the United Nations General Assembly.
+The lawsuit cites the White House's removal of CNN from Monday's pool schedule as an example of the ban "causing irreparable harm to" the outlets.
+The suit is being filed in the same court where The Associated Press has a pending lawsuit against the White House for a ban on that wire service's journalists working in certain restricted spaces in the White House, including the Oval Office and on Air Force One. The White House's partial ban on the AP came in February 2025 after the wire service refused to reflect Trump's renaming of the Gulf of Mexico to the Gulf of America in how it routinely refers to that international body of water.
+Trump told reporters on Friday that the latest ban is worth implementing, even if it is overturned by a judge.
+"I think it's good to point it out, whether it survives or doesn't," he said.
+The Knight First Amendment Institute at Columbia University, in a statement after Trump's announcement, suggested he would lose a legal challenge to the ban because of the U.S. Constitution's First Amendment protections for the media.
+"The First Amendment prohibits the president from punishing journalists because he doesn't like their coverage, just as it prohibits him from punishing universities because he doesn't like the courses they offer, or from punishing law firms because he doesn't like the clients they represent," said Jameel Jaffer, executive director of the institute.
+"With so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now," Jaffer said.
+MS NOW, in a statement Saturday, had said, "The White House belongs to the American people and the decisions made inside are funded by our tax dollars."
+"MS NOW intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy," the network said. MS NOW also vowed to "continue to report on the President, the administration, and the issues that impact the American people."
+CNN and Politico issued similar statements, which referred to their constitutional right to report news without government interference.
+White House Correspondents' Association President Jacqui Heinrich, in a statement Saturday, said, "The American people, through a free and independent press, must be able to scrutinize those elected to power, regardless of whether government officials view it favorably."
+"That's why courts have repeatedly held that once the White House provides access to journalists, it cannot deny that access arbitrarily or based on the content of their reporting," Heinrich, a Fox News correspondent, said.
+In the AP's lawsuit, Judge Trevor McFadden ruled in April 2025 that Trump's partial ban of the agency's journalists violated the First Amendment and ordered that the AP be given the same access as other members of the presidential press pool to the Oval Office, other restricted areas of the White House and Air Force One.
+"The Court simply holds that under the First Amendment, if the Government opens its doors to some journalists — be it to the Oval Office, the East Room, or elsewhere — it cannot then shut those doors to other journalists because of their viewpoints," wrote McFadden, who was appointed to the federal bench by Trump.
+"The Constitution requires no less," the judge said.
+Rather than allowing The Associated Press access to places the White House press pool goes to cover the president, the White House said it would abolish the so-called wire pool, which included the AP, Bloomberg and Reuters. The wire pool for decades had traveled with presidents to bring news coverage to news consumers around the world. It has not been reinstated.
+A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit, in a 2-1 vote in June 2025, blocked McFadden's ruling from taking effect while Trump appealed it.
+The panel heard oral arguments in the appeal in November, but has not issued a decision.
+Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+    publishedAt: "2026-09-21T12:02:29+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "bitcoin-hits-highest-level-since-january-5c6c3621",
+    title: "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
+    titleJa: "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
+    summaryJa: "Bitcoin rose above $85,000 on Monday as the cryptocurrency continued its sharp rally over the past few days.Bitcoin was trading at $84,256 at around 06:35 a.m. ET, up around 3.8%, according to CoinMetrics. Earlier in the day, the cryptocurrency rose as high as $85,229, its highest level since late January.",
+    bodyOriginal: `Bitcoin rose above $85,000 on Monday as the cryptocurrency continued its sharp rally over the past few days.
+Bitcoin was trading at $84,256 at around 06:35 a.m. ET, up around 3.8%, according to CoinMetrics. Earlier in the day, the cryptocurrency rose as high as $85,229, its highest level since late January.
+Investors are assessing whether the "crypto winter" — a depressed period of digital asset prices — which began after bitcoin hit an all-time high of over $126,000 in October 2025, is over.
+"I do think it's over, it's crypto spring, the crocuses are blooming," Matt Hougan, CIO at Bitwise, told CNBC's "Squawk Box Europe" on Monday.
+"I think this will actually be the strongest and longest-running bull market in crypto's history."
+While bitcoin is still down this year, it has risen more than 7% in the last 5 days and nearly 35% over the last 3 months. It is still well off its record high.
+Hougan said even though the market was down for a while, the "fundamentals went up" in cryptocurrency, pointing to more transactions across blockchains and involvement from major firms like BlackRock.
+"So I think we had this unusual situation where you had a cyclical decline in prices even as you had a secular improvement in fundamentals. And now I suspect that prices are going to catch up toward the end of the year," Hougan said.
+"I don't think if I came back next year, we'd still be below those all-time highs."
+Analysts at BTIG said in a note on Sunday that, as long as the $75,000 level of bitcoin holds, "bulls can target a push through 82k on the way to" $90,000.
+Crypto-related stocks, including Strategy and Coinbase, were higher in U.S. premarket trading on Monday.
+AI rotation?
+The rally comes even as the U.S. Senate last week blocked the Clarity Act from advancing. It would have set up a framework for crypto in the U.S. and divided industry oversight between the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).
+More regulation in the U.S., such as the Genius Act that was passed last year, has supported crypto prices. But the Clarity Act failing to pass could still boost prices, as the SEC and CFTC will set the rules for now, Hougan said.
+"It's the most pro-crypto SEC in the history of the U.S.; it's the most pro-crypto CFTC in the history of the U.S. So ironically, in the absence of Clarity passing, we may actually have stronger pro-crypto regulation," Hougan said.
+The Bitwise CIO also said that investors are rotating out of AI stocks back into crypto.
+He added that the AI boom had "sucked all the oxygen out of the room. Any investor who was a momentum-driven investor was focused on that. Now that that has sort of levelled off, you're seeing that money rotate back into crypto."
+- CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
+    bodyJa: `Bitcoin rose above $85,000 on Monday as the cryptocurrency continued its sharp rally over the past few days.
+Bitcoin was trading at $84,256 at around 06:35 a.m. ET, up around 3.8%, according to CoinMetrics. Earlier in the day, the cryptocurrency rose as high as $85,229, its highest level since late January.
+Investors are assessing whether the "crypto winter" — a depressed period of digital asset prices — which began after bitcoin hit an all-time high of over $126,000 in October 2025, is over.
+"I do think it's over, it's crypto spring, the crocuses are blooming," Matt Hougan, CIO at Bitwise, told CNBC's "Squawk Box Europe" on Monday.
+"I think this will actually be the strongest and longest-running bull market in crypto's history."
+While bitcoin is still down this year, it has risen more than 7% in the last 5 days and nearly 35% over the last 3 months. It is still well off its record high.
+Hougan said even though the market was down for a while, the "fundamentals went up" in cryptocurrency, pointing to more transactions across blockchains and involvement from major firms like BlackRock.
+"So I think we had this unusual situation where you had a cyclical decline in prices even as you had a secular improvement in fundamentals. And now I suspect that prices are going to catch up toward the end of the year," Hougan said.
+"I don't think if I came back next year, we'd still be below those all-time highs."
+Analysts at BTIG said in a note on Sunday that, as long as the $75,000 level of bitcoin holds, "bulls can target a push through 82k on the way to" $90,000.
+Crypto-related stocks, including Strategy and Coinbase, were higher in U.S. premarket trading on Monday.
+AI rotation?
+The rally comes even as the U.S. Senate last week blocked the Clarity Act from advancing. It would have set up a framework for crypto in the U.S. and divided industry oversight between the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).
+More regulation in the U.S., such as the Genius Act that was passed last year, has supported crypto prices. But the Clarity Act failing to pass could still boost prices, as the SEC and CFTC will set the rules for now, Hougan said.
+"It's the most pro-crypto SEC in the history of the U.S.; it's the most pro-crypto CFTC in the history of the U.S. So ironically, in the absence of Clarity passing, we may actually have stronger pro-crypto regulation," Hougan said.
+The Bitwise CIO also said that investors are rotating out of AI stocks back into crypto.
+He added that the AI boom had "sucked all the oxygen out of the room. Any investor who was a momentum-driven investor was focused on that. Now that that has sort of levelled off, you're seeing that money rotate back into crypto."
+- CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
+    publishedAt: "2026-09-21T11:10:55+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "nissan-eyes-increasing-u-s-production-as-13c8f57e",
+    title: "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+    titleJa: "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+    summaryJa: "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
+    bodyOriginal: `Nissan Motor is looking to increase its U.S. production as it launches the 2027 Rogue crossover, including with a new hybrid model that the company views as a crucial offering for American consumers.
+"We're now maxing out the production capacity in the U.S.," Christian Meunier, chairman of Nissan Americas, told CNBC. "The next step is going to be three shifts, and I'm pretty optimistic that with the launch of the new Rogue that is happening in the next couple months, we'll be able to do that pretty quickly with the launch of the hybrid."
+The Japanese automaker currently produces the Rogue alongside other Nissan and Infiniti crossovers at a 6 million-square-foot assembly plant on two production shifts in Smyrna, Tennessee. It also has another large manufacturing plant producing the Nissan Altima sedan and Frontier midsize pickup truck in Canton, Mississippi.
+Additional production at assembly plants typically means hundreds, if not thousands, of new jobs. Nissan's moves come as the Trump administration has been focused on increasing employment and domestic production in the U.S. auto industry.
+U.S. manufacturing of the hybrid is expected to start next year after the spring production launch of the 2027 Rogue with a traditional gas engine at the Tennessee plant.
+In the meantime, Meunier said Nissan plans to import the vehicles from Japan as a way to get them to market more quickly to lift sales and help with an ongoing global turnaround plan for the company.
+Meunier said if Nissan can add a third shift to each of its assembly plants, it would boost the automaker's U.S. production to roughly 1 million units annually, up from nearly 487,000 in 2025.
+Nissan has a target to produce 80% of the vehicles it sells in the U.S. domestically by 2030, but the company has no plans for a new plant as of now.
+"I think we're very well equipped to succeed without major investment and a new factory and everything else. Maybe after 2030," he said. "Over the next four or five years, we'll see."
+Nissan e-Power
+Nissan on Monday officially revealed the 2027 Rogue with its new "e-Power" technology for the U.S., which is the first hybrid of its kind for the American market.
+The "e-Power" system is called a series hybrid.
+It uses the engine as a generator to power the vehicle's electric motors that then propel the vehicle. It operates like emerging extended-range electric vehicles, or EREVs, but has a smaller battery and doesn't require a plug. It also does not use the engine to power the wheels, just electric motors.
+Meunier said the Rogue hybrid and resurrecting the Xterra off-road SUV were his top vehicle priorities when he rejoined Nissan in January 2025 after four and a half years with Jeep. That included pulling ahead the Rogue hybrid twice for the U.S.
+The Rogue is a sales leader for the company in the U.S. It competes in the highly competitive small crossover segment against the Toyota RAV4 and Honda CR-V, which have the best-selling hybrid options in that category.
+"The hybrid power that we're launching on Rogue is going to really be the boost to our performance," Meunier said. "It's been quite remarkable to be able to grow without having a hybrid in the U.S. because the hybrids are obviously becoming more and more popular."
+Meunier said Nissan plans to position the Rogue e-Power squarely against the Toyota RAV4. He said that may include an unconventional sales option to allow potential customers to test drive both vehicles at Nissan dealerships, which wouldn't typically have a Toyota available.
+The focus on the Rogue hybrid comes after Nissan and other automakers lost billions of dollars on all-electric vehicles amid a pullback in regulatory support as well as lackluster consumer demand.
+Nissan has said the e-Power is a better solution than EVs or even traditional hybrids for U.S. consumers, especially amid inflated fuel prices due to the Iran war.
+"It's going to make people look at Nissan with different eyes," Meunier said. "A lot of customers that didn't even consider us until the hybrid comes to market."
+Nissan turnaround
+Nissan's renewed focus on the U.S. comes amid a global turnaround plan.
+Under the strategy, the Japanese automaker intends to streamline its automobile lineup by getting rid of low-performing models and increasing its use of technologies such as artificial intelligence.
+The plan includes the company targeting 1 million vehicle sales for its Nissan brand in both the U.S. and China by the 2030 financial year and growing its annual sales volume in Japan to 550,000 cars by that time.
+For the U.S., Meunier said he is satisfied with the progress Nissan has made since he returned to the automaker last year.
+After several years of struggling sales, Nissan's U.S. sales through the first half of the year were up roughly 10% compared with Cox Automotive reporting a roughly 3% decline for the broader industry during that time.
+"I think the next few months are going to be pretty good. Pretty tough, but pretty good," Meunier said. "We're going to have a strong close of the calendar year in December."`,
+    bodyJa: `Nissan Motor is looking to increase its U.S. production as it launches the 2027 Rogue crossover, including with a new hybrid model that the company views as a crucial offering for American consumers.
+"We're now maxing out the production capacity in the U.S.," Christian Meunier, chairman of Nissan Americas, told CNBC. "The next step is going to be three shifts, and I'm pretty optimistic that with the launch of the new Rogue that is happening in the next couple months, we'll be able to do that pretty quickly with the launch of the hybrid."
+The Japanese automaker currently produces the Rogue alongside other Nissan and Infiniti crossovers at a 6 million-square-foot assembly plant on two production shifts in Smyrna, Tennessee. It also has another large manufacturing plant producing the Nissan Altima sedan and Frontier midsize pickup truck in Canton, Mississippi.
+Additional production at assembly plants typically means hundreds, if not thousands, of new jobs. Nissan's moves come as the Trump administration has been focused on increasing employment and domestic production in the U.S. auto industry.
+U.S. manufacturing of the hybrid is expected to start next year after the spring production launch of the 2027 Rogue with a traditional gas engine at the Tennessee plant.
+In the meantime, Meunier said Nissan plans to import the vehicles from Japan as a way to get them to market more quickly to lift sales and help with an ongoing global turnaround plan for the company.
+Meunier said if Nissan can add a third shift to each of its assembly plants, it would boost the automaker's U.S. production to roughly 1 million units annually, up from nearly 487,000 in 2025.
+Nissan has a target to produce 80% of the vehicles it sells in the U.S. domestically by 2030, but the company has no plans for a new plant as of now.
+"I think we're very well equipped to succeed without major investment and a new factory and everything else. Maybe after 2030," he said. "Over the next four or five years, we'll see."
+Nissan e-Power
+Nissan on Monday officially revealed the 2027 Rogue with its new "e-Power" technology for the U.S., which is the first hybrid of its kind for the American market.
+The "e-Power" system is called a series hybrid.
+It uses the engine as a generator to power the vehicle's electric motors that then propel the vehicle. It operates like emerging extended-range electric vehicles, or EREVs, but has a smaller battery and doesn't require a plug. It also does not use the engine to power the wheels, just electric motors.
+Meunier said the Rogue hybrid and resurrecting the Xterra off-road SUV were his top vehicle priorities when he rejoined Nissan in January 2025 after four and a half years with Jeep. That included pulling ahead the Rogue hybrid twice for the U.S.
+The Rogue is a sales leader for the company in the U.S. It competes in the highly competitive small crossover segment against the Toyota RAV4 and Honda CR-V, which have the best-selling hybrid options in that category.
+"The hybrid power that we're launching on Rogue is going to really be the boost to our performance," Meunier said. "It's been quite remarkable to be able to grow without having a hybrid in the U.S. because the hybrids are obviously becoming more and more popular."
+Meunier said Nissan plans to position the Rogue e-Power squarely against the Toyota RAV4. He said that may include an unconventional sales option to allow potential customers to test drive both vehicles at Nissan dealerships, which wouldn't typically have a Toyota available.
+The focus on the Rogue hybrid comes after Nissan and other automakers lost billions of dollars on all-electric vehicles amid a pullback in regulatory support as well as lackluster consumer demand.
+Nissan has said the e-Power is a better solution than EVs or even traditional hybrids for U.S. consumers, especially amid inflated fuel prices due to the Iran war.
+"It's going to make people look at Nissan with different eyes," Meunier said. "A lot of customers that didn't even consider us until the hybrid comes to market."
+Nissan turnaround
+Nissan's renewed focus on the U.S. comes amid a global turnaround plan.
+Under the strategy, the Japanese automaker intends to streamline its automobile lineup by getting rid of low-performing models and increasing its use of technologies such as artificial intelligence.
+The plan includes the company targeting 1 million vehicle sales for its Nissan brand in both the U.S. and China by the 2030 financial year and growing its annual sales volume in Japan to 550,000 cars by that time.
+For the U.S., Meunier said he is satisfied with the progress Nissan has made since he returned to the automaker last year.
+After several years of struggling sales, Nissan's U.S. sales through the first half of the year were up roughly 10% compared with Cox Automotive reporting a roughly 3% decline for the broader industry during that time.
+"I think the next few months are going to be pretty good. Pretty tough, but pretty good," Meunier said. "We're going to have a strong close of the calendar year in December."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+    publishedAt: "2026-09-21T11:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "novo-shares-slide-as-drugmaker-lays-out-c3d35f76",
+    title: "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+    titleJa: "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+    summaryJa: "The Danish company seeks to convince investors it can compete in an increasingly crowded field it helped pioneer.",
+    bodyOriginal: `Novo shares plummeted on Monday after the company's new long-term goals failed to ease investor concerns about its ability to compete in the increasingly crowded weight loss market it helped pioneer.
+The Danish drugmaker said it aims to launch more than five drugs with "multi-blockbuster" potential by 2030 and generate more than 150 billion Danish kroner ($23 billion) in risk-adjusted pipeline sales by 2035, including current assets.
+It also expects revenue growth between 2026 and 2030 to be in line with industry peers, without giving further details.
+Copenhagen-listed shares fell as much as 7% but later pared some losses to trade 5.4% lower at 12:30 pm local time.
+"Investors hoped for a project 'miracle' that could turn the momentum around short term," Per Hansen, savings economist at Nordnet, told CNBC. "For obvious reasons that miracle does not exist."
+'The elephant in the room'
+CEO Mike Doustdar told investors at the company's Capital Markets Day in London that the "elephant in the room" was that semaglutide, the active ingredient in weight-loss and diabetes medicines Wegovy and Ozempic, will lose key patent exclusivity starting early next decade. The semaglutide patent expires in 2032 in the U.S., a market that accounted for more than half of Novo's overall sales last year.
+This loss of exclusivity "is what's on most people's mind, and rightfully so," Doustdar said.
+"We created an incredibly attractive market, and now almost every other single pharma company, big or small, is trying to come and compete with us. We need to be ready for that," he added.
+Doustdar also laid out plans to diversify the company, adding that the company did not "belittle" the loss of exclusivity "or the challenges that comes with it, related to the price pressure."
+"We plan to come on the other side of the LOE as a bigger company than we are today and a much more diversified version of it," he said.
+Ahead of the opening bell on Monday, Novo shares had fallen 27% over the past 12 months, while its chief rival Eli Lilly shares have gained 52% over the same period.
+Lilly has managed to grab a majority market share in the injectable GLP-1 space with Mounjaro and Zepbound, despite launching years after Novo's drugs.
+While Novo's launched its Wegovy pill in the U.S. at the beginning of this year to great success, investors are still cautious around the drugmaker's prospects of regaining ground. It has begun to roll out the Wegovy pill in other markets as well, but it still represents a small portion of its total sales.
+A series of clinical setbacks and leadership upheavals over the past year has added to investors' concerns.
+Last week, Novo said it is rebranding from Novo Nordisk to Novo and updating its corporate culture. Doustdar told CNBC the rebrand and culture revamp were "parts of the same package" to meet fierce competition from Lilly.
+Investors wanted more
+Even as Novo indicates stable operating margins, Monday's announcement lacks the financial ambition the market wanted to see, Jacob Pedersen, investment strategist at Danish bank Middelfart Sparekasse, told CNBC.
+"The investors, they are very particular in what they want from Novo, and this doesn't add up to it," Pedersen said, adding that Novo's target for growth in line with a broad group of pharma peers suggests slower growth than investors have historically come to expect from the company.
+In August, Novo said it expects adjusted sales and operating profit to both be down 6% to flat in 2026, at constant exchange rates.
+Analysts and investors have had mixed views on whether Novo should broaden its portfolio significantly, or focus on its existing therapy areas.
+"It hasn't been long since the company wanted to focus more, and now they want to broaden out," Pedersen said.
+The push to diversify marks a shift in the strategy Doustdar laid out after taking over as CEO last year, when Novo sharpened its focus on its core obesity and diabetes businesses and moved away from expanding into new areas.
+Novo said Monday it is now moving beyond its core areas of obesity and diabetes. Doustdar said those remain Novo's foundation, but that the company now wants to build out its portfolio around blood and endocrine disorders, liver disease, and cardiovascular disease.
+He also said Novo will be more active in business development, which was not included in the 2030 sales target.
+- CNBC's Charlotte Reed and Mike Considine contributed to this report.`,
+    bodyJa: `Novo shares plummeted on Monday after the company's new long-term goals failed to ease investor concerns about its ability to compete in the increasingly crowded weight loss market it helped pioneer.
+The Danish drugmaker said it aims to launch more than five drugs with "multi-blockbuster" potential by 2030 and generate more than 150 billion Danish kroner ($23 billion) in risk-adjusted pipeline sales by 2035, including current assets.
+It also expects revenue growth between 2026 and 2030 to be in line with industry peers, without giving further details.
+Copenhagen-listed shares fell as much as 7% but later pared some losses to trade 5.4% lower at 12:30 pm local time.
+"Investors hoped for a project 'miracle' that could turn the momentum around short term," Per Hansen, savings economist at Nordnet, told CNBC. "For obvious reasons that miracle does not exist."
+'The elephant in the room'
+CEO Mike Doustdar told investors at the company's Capital Markets Day in London that the "elephant in the room" was that semaglutide, the active ingredient in weight-loss and diabetes medicines Wegovy and Ozempic, will lose key patent exclusivity starting early next decade. The semaglutide patent expires in 2032 in the U.S., a market that accounted for more than half of Novo's overall sales last year.
+This loss of exclusivity "is what's on most people's mind, and rightfully so," Doustdar said.
+"We created an incredibly attractive market, and now almost every other single pharma company, big or small, is trying to come and compete with us. We need to be ready for that," he added.
+Doustdar also laid out plans to diversify the company, adding that the company did not "belittle" the loss of exclusivity "or the challenges that comes with it, related to the price pressure."
+"We plan to come on the other side of the LOE as a bigger company than we are today and a much more diversified version of it," he said.
+Ahead of the opening bell on Monday, Novo shares had fallen 27% over the past 12 months, while its chief rival Eli Lilly shares have gained 52% over the same period.
+Lilly has managed to grab a majority market share in the injectable GLP-1 space with Mounjaro and Zepbound, despite launching years after Novo's drugs.
+While Novo's launched its Wegovy pill in the U.S. at the beginning of this year to great success, investors are still cautious around the drugmaker's prospects of regaining ground. It has begun to roll out the Wegovy pill in other markets as well, but it still represents a small portion of its total sales.
+A series of clinical setbacks and leadership upheavals over the past year has added to investors' concerns.
+Last week, Novo said it is rebranding from Novo Nordisk to Novo and updating its corporate culture. Doustdar told CNBC the rebrand and culture revamp were "parts of the same package" to meet fierce competition from Lilly.
+Investors wanted more
+Even as Novo indicates stable operating margins, Monday's announcement lacks the financial ambition the market wanted to see, Jacob Pedersen, investment strategist at Danish bank Middelfart Sparekasse, told CNBC.
+"The investors, they are very particular in what they want from Novo, and this doesn't add up to it," Pedersen said, adding that Novo's target for growth in line with a broad group of pharma peers suggests slower growth than investors have historically come to expect from the company.
+In August, Novo said it expects adjusted sales and operating profit to both be down 6% to flat in 2026, at constant exchange rates.
+Analysts and investors have had mixed views on whether Novo should broaden its portfolio significantly, or focus on its existing therapy areas.
+"It hasn't been long since the company wanted to focus more, and now they want to broaden out," Pedersen said.
+The push to diversify marks a shift in the strategy Doustdar laid out after taking over as CEO last year, when Novo sharpened its focus on its core obesity and diabetes businesses and moved away from expanding into new areas.
+Novo said Monday it is now moving beyond its core areas of obesity and diabetes. Doustdar said those remain Novo's foundation, but that the company now wants to build out its portfolio around blood and endocrine disorders, liver disease, and cardiovascular disease.
+He also said Novo will be more active in business development, which was not included in the 2030 sales target.
+- CNBC's Charlotte Reed and Mike Considine contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+    publishedAt: "2026-09-21T10:40:51+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "tories-pledge-to-bring-back-tax-free-sho-fe919800",
+    title: "Tories pledge to bring back tax-free shopping for tourists",
+    titleJa: "Tories pledge to bring back tax-free shopping for tourists",
+    summaryJa: "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
+    bodyOriginal: `Tories pledge to bring back tax-free shopping for tourists
+- Published
+The Conservative Party has pledged to bring back tax-free shopping for tourists from outside the European Union.
+The Tories said the decision to scrap the scheme in 2021 left the UK less competitive than European destinations.
+Leader Kemi Badenoch, who was a Treasury minister when the tax relief was abolished, said businesses were being "let down by a tax policy that is chasing their customers away".
+But Labour accused the party of "a spectacular U-turn".
+The VAT Retail Export Scheme - which allowed overseas visitors to get a VAT refund on items they had bought in Great Britain and took home in their luggage - was scrapped for non-EU visitors under the previous Conservative government in 2021, while it was also not extended for EU visitors.
+At the time, Badenoch said it was "a costly relief which does not benefit the whole of GB equally".
+However, the Conservatives have now set out plans to restore VAT refunds for eligible visitors from outside the EU.
+The party said that if evidence confirms the scheme "pays its way", this would be extended to visitors from the EU by the end of the next Parliament.
+It said the cost of reintroducing the scheme would be offset by cracking down on "NHS health tourism", including more consistent charging of patients ineligible for free treatment, minimum recovery targets for debts and requiring full repayment of debts before visa applications or renewals will be considered.
+The remaining costs would be funded from a package of savings set out by the Tories last year.
+Reinstate VAT-free tourist shopping, businesses say
+- Published7 September 2023
+Bring back duty-free perk to boost London - mayor
+- Published2 February 2023
+The party also argued the move would benefit shops, hotels, restaurants and the wider tourism industry.
+It pointed to research by the Centre for Economics and Business Research (Cebr), which suggested fully restoring tax-free shopping for tourists could attract up to 2.35 million extra visitors and generate £4.1bn in extra spending.
+The report from earlier this month also estimated that for every £1 of VAT refunded, this could generate £1.54 in other taxes.
+Badenoch said: "We have iconic retailers, inventive designers and brilliant manufacturers, but they are being let down by a tax policy that is chasing their customers away.
+"Holidaymakers are choosing rival cities in other countries for the simple reason that it saves them money."
+Businesses have long called for tax-free shopping for tourists to be reintroduced, arguing they are at a disadvantage to other European countries.
+EU countries offer VAT refunds for non-EU visitors, while other European countries such as Switzerland have similar schemes.
+Helen Dickinson, chief executive at the British Retail Consortium, said: "Introducing a modern tax-free shopping scheme would help attract more international spending to the UK, supporting high streets, jobs and investment in towns and cities across the country.
+"Done properly, it would boost economic growth and deliver a net benefit to the Exchequer."
+However, a Labour spokesperson said: "Kemi Badenoch used to say tax-free shopping was a costly giveaway and now she's trying to sell it as an economic miracle.
+"If they really think it's such a great idea, they should explain why they scrapped it in the first place and how they'd pay for bringing it back."
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Tories pledge to bring back tax-free shopping for tourists
+- Published
+The Conservative Party has pledged to bring back tax-free shopping for tourists from outside the European Union.
+The Tories said the decision to scrap the scheme in 2021 left the UK less competitive than European destinations.
+Leader Kemi Badenoch, who was a Treasury minister when the tax relief was abolished, said businesses were being "let down by a tax policy that is chasing their customers away".
+But Labour accused the party of "a spectacular U-turn".
+The VAT Retail Export Scheme - which allowed overseas visitors to get a VAT refund on items they had bought in Great Britain and took home in their luggage - was scrapped for non-EU visitors under the previous Conservative government in 2021, while it was also not extended for EU visitors.
+At the time, Badenoch said it was "a costly relief which does not benefit the whole of GB equally".
+However, the Conservatives have now set out plans to restore VAT refunds for eligible visitors from outside the EU.
+The party said that if evidence confirms the scheme "pays its way", this would be extended to visitors from the EU by the end of the next Parliament.
+It said the cost of reintroducing the scheme would be offset by cracking down on "NHS health tourism", including more consistent charging of patients ineligible for free treatment, minimum recovery targets for debts and requiring full repayment of debts before visa applications or renewals will be considered.
+The remaining costs would be funded from a package of savings set out by the Tories last year.
+Reinstate VAT-free tourist shopping, businesses say
+- Published7 September 2023
+Bring back duty-free perk to boost London - mayor
+- Published2 February 2023
+The party also argued the move would benefit shops, hotels, restaurants and the wider tourism industry.
+It pointed to research by the Centre for Economics and Business Research (Cebr), which suggested fully restoring tax-free shopping for tourists could attract up to 2.35 million extra visitors and generate £4.1bn in extra spending.
+The report from earlier this month also estimated that for every £1 of VAT refunded, this could generate £1.54 in other taxes.
+Badenoch said: "We have iconic retailers, inventive designers and brilliant manufacturers, but they are being let down by a tax policy that is chasing their customers away.
+"Holidaymakers are choosing rival cities in other countries for the simple reason that it saves them money."
+Businesses have long called for tax-free shopping for tourists to be reintroduced, arguing they are at a disadvantage to other European countries.
+EU countries offer VAT refunds for non-EU visitors, while other European countries such as Switzerland have similar schemes.
+Helen Dickinson, chief executive at the British Retail Consortium, said: "Introducing a modern tax-free shopping scheme would help attract more international spending to the UK, supporting high streets, jobs and investment in towns and cities across the country.
+"Done properly, it would boost economic growth and deliver a net benefit to the Exchequer."
+However, a Labour spokesperson said: "Kemi Badenoch used to say tax-free shopping was a costly giveaway and now she's trying to sell it as an economic miracle.
+"If they really think it's such a great idea, they should explain why they scrapped it in the first place and how they'd pay for bringing it back."
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T10:37:23+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb95/live/de334f30-b5a2-11f1-abe6-535e7b14de4c.jpg",
+    readTime: 9,
+  },
+  {
+    id: "what-are-my-rights-if-my-flight-is-cance-21903081",
+    title: "What are my rights if my flight is cancelled or delayed?",
+    titleJa: "What are my rights if my flight is cancelled or delayed?",
+    summaryJa: "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+    bodyOriginal: `What are my rights if my flight is cancelled or delayed?
+- Published
+Flights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks.
+When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost. However, these can vary depending on which carrier you are flying with and from where.
+Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems.
+Here's what it means for you.
+What do airlines have to offer passengers?
+Under UK law, airlines have a duty to look after you when flights are delayed or cancelled.
+The reason for the delay or cancellation does not matter. So anyone affected by the air transport delays will be eligible.
+That includes providing meals and accommodation, if necessary, and getting you to your destination. The airline should organise putting you on an alternative flight at no extra cost.
+Additional losses, such as unused accommodation, might require a claim to a credit card provider, if that was the payment option used.
+After that, a claim may need to go to your travel insurance provider, but there is no standard definition of what is covered.
+It may require a close look at the details of the policy to see what is covered and in which circumstances.
+Passengers are also being urged to heed travel advice from the UK government, external, as this can also affect travel insurance rights.
+Does UK law apply to my flight?
+UK law generally applies to your flight if you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
+If your flight was coming into the UK on a non-UK or EU airline, then you should check the terms and conditions of your booking.
+If my flight is cancelled, can I get a refund or another flight?
+If your flight is covered by UK law, your airline must let you choose between either getting a refund or being booked on to an alternative flight.
+That's regardless of how far in advance the cancellation was made.
+You can get your money back for any part of the ticket you have not used.
+So, if you booked a return flight and the outbound leg is cancelled, you can get the full cost of the return ticket refunded.
+If you still want to travel, your airline must find you an alternative flight.
+If another airline is flying to your destination significantly sooner, or there are other suitable modes of transport, then you have a right to be booked on to that alternative transport instead.
+Will the airline pay for food and accommodation?
+If you are stuck abroad or at the airport because of a flight cancellation, airlines covered by UK legislation must also provide you with other assistance.
+This includes the following:
+a reasonable amount of food and drink (often in the form of vouchers)
+a way for you to communicate (often by refunding the cost of calls)
+free accommodation, if you have to stay overnight to fly the next day
+transport to and from the accommodation
+If your airline is unable to arrange assistance, you have the right to organise this yourself and claim back the cost later.
+The Civil Aviation Authority advises people to keep receipts and not spend more than necessary.
+You are entitled to the same assistance as for a cancellation if your flight is delayed by more than two hours for a short-haul flight, three hours for a medium-haul, or four hours for a long-haul.
+If you are delayed by more than five hours and no longer want to travel, you can get a full refund.
+What are my rights if I have booked a package holiday?
+If you booked a package holiday with a company that is an ABTA member and your flight is cancelled, you are entitled to a suitable alternative flight or a full refund.
+Can I claim extra compensation for disruption?
+Disruption caused by "extraordinary circumstances" – which includes things like air traffic control issues, bad weather, strikes by airport staff, or conflict – does not entitle you to extra compensation.
+However, in other circumstances, when it is considered to be the airline's fault, you have a number of rights, external if your flight is covered under UK law.
+What you are entitled to depends on what caused the cancellation and how much notice you are given.
+If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
+The amount you are entitled to also depends on how far you were travelling:
+for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
+for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
+for flights over 3,500km, such as London to New York, you can claim up to £520 per person
+What if flight delays mean I am late for work?
+Airlines will not refund you for loss of earnings. Travel insurance policies will not usually cover loss of earnings either.
+If you think you're going to be late back at work because of flight delays, you have a responsibility to let your employer know, legal experts say.
+You should agree with your employer how to deal with the absence – for example, by using annual leave or taking unpaid leave.
+Employers have no legal obligation to pay employees who are absent in this situation, experts say, unless it is stated in their contract.
+Get in touch
+Have your travel plans been disrupted? Share your experience.`,
+    bodyJa: `What are my rights if my flight is cancelled or delayed?
+- Published
+Flights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks.
+When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost. However, these can vary depending on which carrier you are flying with and from where.
+Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems.
+Here's what it means for you.
+What do airlines have to offer passengers?
+Under UK law, airlines have a duty to look after you when flights are delayed or cancelled.
+The reason for the delay or cancellation does not matter. So anyone affected by the air transport delays will be eligible.
+That includes providing meals and accommodation, if necessary, and getting you to your destination. The airline should organise putting you on an alternative flight at no extra cost.
+Additional losses, such as unused accommodation, might require a claim to a credit card provider, if that was the payment option used.
+After that, a claim may need to go to your travel insurance provider, but there is no standard definition of what is covered.
+It may require a close look at the details of the policy to see what is covered and in which circumstances.
+Passengers are also being urged to heed travel advice from the UK government, external, as this can also affect travel insurance rights.
+Does UK law apply to my flight?
+UK law generally applies to your flight if you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
+If your flight was coming into the UK on a non-UK or EU airline, then you should check the terms and conditions of your booking.
+If my flight is cancelled, can I get a refund or another flight?
+If your flight is covered by UK law, your airline must let you choose between either getting a refund or being booked on to an alternative flight.
+That's regardless of how far in advance the cancellation was made.
+You can get your money back for any part of the ticket you have not used.
+So, if you booked a return flight and the outbound leg is cancelled, you can get the full cost of the return ticket refunded.
+If you still want to travel, your airline must find you an alternative flight.
+If another airline is flying to your destination significantly sooner, or there are other suitable modes of transport, then you have a right to be booked on to that alternative transport instead.
+Will the airline pay for food and accommodation?
+If you are stuck abroad or at the airport because of a flight cancellation, airlines covered by UK legislation must also provide you with other assistance.
+This includes the following:
+a reasonable amount of food and drink (often in the form of vouchers)
+a way for you to communicate (often by refunding the cost of calls)
+free accommodation, if you have to stay overnight to fly the next day
+transport to and from the accommodation
+If your airline is unable to arrange assistance, you have the right to organise this yourself and claim back the cost later.
+The Civil Aviation Authority advises people to keep receipts and not spend more than necessary.
+You are entitled to the same assistance as for a cancellation if your flight is delayed by more than two hours for a short-haul flight, three hours for a medium-haul, or four hours for a long-haul.
+If you are delayed by more than five hours and no longer want to travel, you can get a full refund.
+What are my rights if I have booked a package holiday?
+If you booked a package holiday with a company that is an ABTA member and your flight is cancelled, you are entitled to a suitable alternative flight or a full refund.
+Can I claim extra compensation for disruption?
+Disruption caused by "extraordinary circumstances" – which includes things like air traffic control issues, bad weather, strikes by airport staff, or conflict – does not entitle you to extra compensation.
+However, in other circumstances, when it is considered to be the airline's fault, you have a number of rights, external if your flight is covered under UK law.
+What you are entitled to depends on what caused the cancellation and how much notice you are given.
+If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
+The amount you are entitled to also depends on how far you were travelling:
+for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
+for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
+for flights over 3,500km, such as London to New York, you can claim up to £520 per person
+What if flight delays mean I am late for work?
+Airlines will not refund you for loss of earnings. Travel insurance policies will not usually cover loss of earnings either.
+If you think you're going to be late back at work because of flight delays, you have a responsibility to let your employer know, legal experts say.
+You should agree with your employer how to deal with the absence – for example, by using annual leave or taking unpaid leave.
+Employers have no legal obligation to pay employees who are absent in this situation, experts say, unless it is stated in their contract.
+Get in touch
+Have your travel plans been disrupted? Share your experience.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T10:28:17+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a08/live/30e50cb0-ac29-11f1-bc1f-3f186ca4140c.png",
+    readTime: 10,
+  },
+  {
+    id: "us-and-china-discuss-ai-safety-plan-ahea-b6bc1127",
+    title: "US and China discuss AI safety plan ahead of Trump-Xi summit",
+    titleJa: "US and China discuss AI safety plan ahead of Trump-Xi summit",
+    summaryJa: "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
+    bodyOriginal: `US and China discuss AI safety plan ahead of Trump-Xi summit
+- Published
+Top US and Chinese officials have discussed creating a new "notification mechanism" for AI incidents that could affect national security, Treasury Secretary Scott Bessent told reporters on Sunday.
+Bessent made the comments after what he called "successful" talks with Chinese Vice Premier He Lifeng in New York.
+The meeting came as US President Donald Trump and his Chinese counterpart Xi Jinping are due to hold a summit in Washington later this week.
+AI has come under intense scrutiny in recent days after researchers warned of the potential risks posed by the technology and some of the industry's most high profile figures called for developers to take a more cautious approach.
+"We think that, just like with any cross-border activity, that moving from opaque to more transparency between the number one and the number two AI powers in the world is very important," Bessent told reporters after the talks.
+He said the meeting also covered other topics, including plans to "operationalise" a process to identify potential tariff cuts on goods called the Board of Trade.
+A truce in the tariffs war between the world's two biggest economies is due to expire on 10 November.
+The BBC has contacted the Chinese embassy in the US for comment.
+Chinese state news agency Xinhua said the two sides had "candid, in-depth and constructive exchanges on key economic and trade issues", noting that they had discussed AI.
+Bessent said in a post on X on Sunday that the talks "help lay the groundwork for President Trump to advance America's economic interests and deliver results for the American people."
+The US and China are locked in a race to dominate the AI and technology industries.
+In recent days Washington has faced calls to slow down the development of AI over fears abouts its potential negative impact on humanity.
+Trump has largely dismissed those concerns, arguing that there are sufficient policies around AI and that the US cannot lose its edge to China.
+He said earlier this month "whoever wins in AI, wins."
+In May, when Xi hosted Trump in Beijing, ways to collaborate on AI was one of the issues the two leaders discussed.
+Those talks ended with an agreement that China would buy Boeing jets and US agricultural goods in exchange for lower tariffs.
+- Published5 days ago
+- Published5 days ago`,
+    bodyJa: `US and China discuss AI safety plan ahead of Trump-Xi summit
+- Published
+Top US and Chinese officials have discussed creating a new "notification mechanism" for AI incidents that could affect national security, Treasury Secretary Scott Bessent told reporters on Sunday.
+Bessent made the comments after what he called "successful" talks with Chinese Vice Premier He Lifeng in New York.
+The meeting came as US President Donald Trump and his Chinese counterpart Xi Jinping are due to hold a summit in Washington later this week.
+AI has come under intense scrutiny in recent days after researchers warned of the potential risks posed by the technology and some of the industry's most high profile figures called for developers to take a more cautious approach.
+"We think that, just like with any cross-border activity, that moving from opaque to more transparency between the number one and the number two AI powers in the world is very important," Bessent told reporters after the talks.
+He said the meeting also covered other topics, including plans to "operationalise" a process to identify potential tariff cuts on goods called the Board of Trade.
+A truce in the tariffs war between the world's two biggest economies is due to expire on 10 November.
+The BBC has contacted the Chinese embassy in the US for comment.
+Chinese state news agency Xinhua said the two sides had "candid, in-depth and constructive exchanges on key economic and trade issues", noting that they had discussed AI.
+Bessent said in a post on X on Sunday that the talks "help lay the groundwork for President Trump to advance America's economic interests and deliver results for the American people."
+The US and China are locked in a race to dominate the AI and technology industries.
+In recent days Washington has faced calls to slow down the development of AI over fears abouts its potential negative impact on humanity.
+Trump has largely dismissed those concerns, arguing that there are sufficient policies around AI and that the US cannot lose its edge to China.
+He said earlier this month "whoever wins in AI, wins."
+In May, when Xi hosted Trump in Beijing, ways to collaborate on AI was one of the issues the two leaders discussed.
+Those talks ended with an agreement that China would buy Boeing jets and US agricultural goods in exchange for lower tariffs.
+- Published5 days ago
+- Published5 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T05:50:56+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
+    readTime: 6,
+  },
+  {
     id: "chinese-biopharma-stocks-jump-as-u-s-wei-fef11b1d",
     title: "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
     titleJa: "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
@@ -1959,322 +2507,6 @@ Joko and his team have handled 20 sexual abuse cases involving Islamic boarding 
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg",
     readTime: 10,
-  },
-  {
-    id: "houthis-say-they-targeted-saudi-capital-e8c5f81b",
-    title: "Houthis say they targeted Saudi capital with ballistic missiles",
-    titleJa: "Houthis say they targeted Saudi capital with ballistic missiles",
-    summaryJa: "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
-    bodyOriginal: `Houthis say they targeted Saudi capital with ballistic missiles
-- Published
-Iran-backed Houthi militants in Yemen say they carried out drone and ballistic missile attacks on the Saudi capital Riyadh, as well as energy sites on the country's Red Sea coast.
-Saudi authorities said they intercepted and destroyed a ballistic missile fired at Riyadh earlier that day, without confirming any further strikes or causalities.
-Earlier, a column of black smoke was seen rising from fuel tanks near the Saudi capital's international airport, where flights were disrupted temporarily on Saturday.
-Air raid alerts had sounded in the capital for the first time since the Iran-backed Houthis increased their attacks on Saudi Arabia in July.
-Air defences also stopped "hostile attempts to target civilians" in the cities of Bish, Taif, Farasan and Yanbu, an official spokesperson for the Saudi-led coalition said in a statement.
-In a statement posted online, Houthi military spokesman Yahya al-Sarea said a "large number of ballistic and cruise missiles and drones" had been used to attack "sensitive sites" in Riyadh and Aramco state oil and gas company facilities in Yanbu on the coast.
-He added that the attacks were "in response to the Saudi enemy's criminal attempts" to target the Yemeni capital Sanaa.
-Earlier, Sarea had accused Saudi Arabia of carrying out 300 strikes across Yemen during the past week.
-The Houthis are locked in a civil war with Yemen's internationally recognised government, which is backed by Saudi Arabia.
-They have attacked targets inside Saudi Arabia on several occasions in recent months, and said this week that they were responsible for downing a Saudi fighter jet over Yemen.
-According to an unconfirmed report from AFP news agency, quoting military sources on both sides of Yemen's civil war, fighting between the Houthis and Saudi-backed government forces claimed 48 lives on Saturday.
-The Houthis said 31 of their fighters had been killed while government sources said their side had lost 17 soldiers, according to the news agency.
-On Friday, the International Organization for Migration, a UN body, reported that the number of people displaced as a result of recent fighting had passed 104,796, external.
-How escalating Saudi oil crisis could drive up prices everywhere
-- Published3 days ago
-Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
-- Published16 hours ago
-A number of apparent explosions were heard in Riyadh and major problems were reported at King Khalid International Airport earlier on Saturday, with the tracking website FlightRadar24 reporting delays and cancellations., external
-An AFP journalist reported that firefighters could be seen trying to extinguish the flames of a burnt-out fuel tank belonging to Aramco.
-The Saudi Civil Defence had sent out phone alerts overnight warning of potential danger in Riyadh and other regions, before issuing an all-clear on Saturday morning.
-Residents told AFP on condition of anonymity that they had heard what sounded like a round of explosions echoing through the city after the alerts.
-"I heard the alarm, then my windows shook," said a resident of northern Riyadh, 27. "It was definitely scary. I was not expecting this."
-The Houthis recently seized control of the strategic port city of Mokha and Perim Island, a gateway to a key shipping route used by the Gulf state to export to Asia and Europe.
-The group said the naval blockade was in retaliation for a Saudi blockade of ports and airports in Houthi-controlled north-western Yemen.
-Saudi vessels have relied on that stretch of the Red Sea for oil exports since the US and Israel's war with Iran effectively closed the Strait of Hormuz.
-On Friday, investment banking giant JP Morgan said it was struggling to predict how oil prices would be impacted by the war, telling investors in a rare note that "we simply don't know how to model the endgame".
-Related topics
-- Published2 days ago
-- Published3 days ago
-- Published11 September
-- Published4 days ago`,
-    bodyJa: `Houthis say they targeted Saudi capital with ballistic missiles
-- Published
-Iran-backed Houthi militants in Yemen say they carried out drone and ballistic missile attacks on the Saudi capital Riyadh, as well as energy sites on the country's Red Sea coast.
-Saudi authorities said they intercepted and destroyed a ballistic missile fired at Riyadh earlier that day, without confirming any further strikes or causalities.
-Earlier, a column of black smoke was seen rising from fuel tanks near the Saudi capital's international airport, where flights were disrupted temporarily on Saturday.
-Air raid alerts had sounded in the capital for the first time since the Iran-backed Houthis increased their attacks on Saudi Arabia in July.
-Air defences also stopped "hostile attempts to target civilians" in the cities of Bish, Taif, Farasan and Yanbu, an official spokesperson for the Saudi-led coalition said in a statement.
-In a statement posted online, Houthi military spokesman Yahya al-Sarea said a "large number of ballistic and cruise missiles and drones" had been used to attack "sensitive sites" in Riyadh and Aramco state oil and gas company facilities in Yanbu on the coast.
-He added that the attacks were "in response to the Saudi enemy's criminal attempts" to target the Yemeni capital Sanaa.
-Earlier, Sarea had accused Saudi Arabia of carrying out 300 strikes across Yemen during the past week.
-The Houthis are locked in a civil war with Yemen's internationally recognised government, which is backed by Saudi Arabia.
-They have attacked targets inside Saudi Arabia on several occasions in recent months, and said this week that they were responsible for downing a Saudi fighter jet over Yemen.
-According to an unconfirmed report from AFP news agency, quoting military sources on both sides of Yemen's civil war, fighting between the Houthis and Saudi-backed government forces claimed 48 lives on Saturday.
-The Houthis said 31 of their fighters had been killed while government sources said their side had lost 17 soldiers, according to the news agency.
-On Friday, the International Organization for Migration, a UN body, reported that the number of people displaced as a result of recent fighting had passed 104,796, external.
-How escalating Saudi oil crisis could drive up prices everywhere
-- Published3 days ago
-Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks
-- Published16 hours ago
-A number of apparent explosions were heard in Riyadh and major problems were reported at King Khalid International Airport earlier on Saturday, with the tracking website FlightRadar24 reporting delays and cancellations., external
-An AFP journalist reported that firefighters could be seen trying to extinguish the flames of a burnt-out fuel tank belonging to Aramco.
-The Saudi Civil Defence had sent out phone alerts overnight warning of potential danger in Riyadh and other regions, before issuing an all-clear on Saturday morning.
-Residents told AFP on condition of anonymity that they had heard what sounded like a round of explosions echoing through the city after the alerts.
-"I heard the alarm, then my windows shook," said a resident of northern Riyadh, 27. "It was definitely scary. I was not expecting this."
-The Houthis recently seized control of the strategic port city of Mokha and Perim Island, a gateway to a key shipping route used by the Gulf state to export to Asia and Europe.
-The group said the naval blockade was in retaliation for a Saudi blockade of ports and airports in Houthi-controlled north-western Yemen.
-Saudi vessels have relied on that stretch of the Red Sea for oil exports since the US and Israel's war with Iran effectively closed the Strait of Hormuz.
-On Friday, investment banking giant JP Morgan said it was struggling to predict how oil prices would be impacted by the war, telling investors in a rare note that "we simply don't know how to model the endgame".
-Related topics
-- Published2 days ago
-- Published3 days ago
-- Published11 September
-- Published4 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-19T20:16:07+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39c5/live/a0844fe0-b45d-11f1-b213-1db858c3e27c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "journalists-denied-white-house-access-af-bbf8c428",
-    title: "Journalists denied White House access after Trump banned some media outlets",
-    titleJa: "Journalists denied White House access after Trump banned some media outlets",
-    summaryJa: "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-    bodyOriginal: `Journalists denied White House access after Trump banned some media outlets
-- Published
-Politico, CNN and MS NOW journalists have been denied access to the White House after US President Donald Trump announced he was banning the outlets.
-An MS NOW reporter and a photographer tried entering the White House grounds on Saturday morning, but their badges would not scan and an officer confiscated them, the outlet reported.
-Both CNN and Politico also said Saturday morning that their reporters were denied access and had their badges seized.
-Trump said on Friday he was barring all three major US media outlets from the White House, accusing them of writing "fiction or lies" about his administration.
-"The officer asked me to hand over my badge. He said that it was disabled," MS NOW reporter Akayla Gardner said. "I asked why I was not able to get inside. He said it was above him."
-Gardner added that while her and her colleague's badges were disabled, an MS NOW producer was still able to scan her badge to get in, though she was not given an explanation as to why the producer's badge still worked.
-CNN reporter Betsy Klein said a Secret Service agent told her her badge had been deactivated.
-Later on Saturday morning, Politico said its reporter Cheyenne Haslett was denied entry and Secret Service revoked her pass.
-All three outlets have spoken out against the decision, accusing Trump of violating their constitutional rights to free speech and freedom of the press.
-An MS NOW spokesperson said in a statement that the White House "belongs to the American people and the decisions made inside are funded by our tax dollars".
-MS NOW said it "intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy".
-Politico Editor-in-Chief Jonathan Greenberger said in an internal email, shared in the outlet's Playbook newsletter, that the company stands by its reporters and will "vigorously defend" their First Amendment rights.
-And CNN said, "We have a right under the US Constitution to do our reporting without hindrance or interference from the government and this ban is an illegal assault on this fundamental right."
-In his announcement, Trump did not mention specific stories or reporting from the three outlets that prompted the move, but later said "it's really just cumulative stories over the last few years".
-Trump added that there "may be others to join them", but has not given a directive banning additional news outlets. When later asked by a reporter what he meant by others to come, Trump responded: "Others to come in terms of fake news? Well, you know, the New York Times is fake news, the Washington Post is fake news."
-The White House Correspondents Association (WHCA) - the independent, non-profit group that represents journalists who cover the US presidency - called on the administration "to immediately restore" access to the journalists and accused it of violating the First Amendment.
-"The implications extend beyond these organizations: a standard used to exclude one news outlet because of its coverage could be applied to any outlet in the future," said WHCA President Jacqui Heinrich, who works for Fox News.
-Heinrich said that the Americans, through a free and independent press, must be able to scrutinise those elected in their coverage "regardless of whether government officials view it favorably".
-"That's why courts have repeatedly held that once the White House provides access to journalists, it cannot deny that access arbitrarily or based on the content of their reporting."
-Several groups dedicated to the freedom of the press have called Trump's White House ban illegal and unconstitutional.
-A major group that provides legal services to the media - the Reporters Committee for Freedom of the Press - said it expected Trump's ban to be struck down quickly by the courts because it was "flatly unconstitutional".
-"The First Amendment is clear that once the White House invites in some journalists, it can't ban others because it doesn't like their reporting," said Bruce Brown, president of the Reporters Committee for Freedom of the Press, which provides legal services to the media.
-It's the latest in a series of moves by the administration to target media outlets Trump says are critical of him, including legal action against US and international outlets like The New York Times, The Wall Street Journal, and the BBC.
-Some of the lawsuits have resulted in media organisations agreeing to pay multimillion dollar settlements. Trump's lawsuit against the BBC is ongoing.
-Additional reporting from Bernd Debusmann Jr and Max Matza.
-Related topics
-- Published19 September 2025
-- Published18 August
-- Published14 hours ago`,
-    bodyJa: `Journalists denied White House access after Trump banned some media outlets
-- Published
-Politico, CNN and MS NOW journalists have been denied access to the White House after US President Donald Trump announced he was banning the outlets.
-An MS NOW reporter and a photographer tried entering the White House grounds on Saturday morning, but their badges would not scan and an officer confiscated them, the outlet reported.
-Both CNN and Politico also said Saturday morning that their reporters were denied access and had their badges seized.
-Trump said on Friday he was barring all three major US media outlets from the White House, accusing them of writing "fiction or lies" about his administration.
-"The officer asked me to hand over my badge. He said that it was disabled," MS NOW reporter Akayla Gardner said. "I asked why I was not able to get inside. He said it was above him."
-Gardner added that while her and her colleague's badges were disabled, an MS NOW producer was still able to scan her badge to get in, though she was not given an explanation as to why the producer's badge still worked.
-CNN reporter Betsy Klein said a Secret Service agent told her her badge had been deactivated.
-Later on Saturday morning, Politico said its reporter Cheyenne Haslett was denied entry and Secret Service revoked her pass.
-All three outlets have spoken out against the decision, accusing Trump of violating their constitutional rights to free speech and freedom of the press.
-An MS NOW spokesperson said in a statement that the White House "belongs to the American people and the decisions made inside are funded by our tax dollars".
-MS NOW said it "intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy".
-Politico Editor-in-Chief Jonathan Greenberger said in an internal email, shared in the outlet's Playbook newsletter, that the company stands by its reporters and will "vigorously defend" their First Amendment rights.
-And CNN said, "We have a right under the US Constitution to do our reporting without hindrance or interference from the government and this ban is an illegal assault on this fundamental right."
-In his announcement, Trump did not mention specific stories or reporting from the three outlets that prompted the move, but later said "it's really just cumulative stories over the last few years".
-Trump added that there "may be others to join them", but has not given a directive banning additional news outlets. When later asked by a reporter what he meant by others to come, Trump responded: "Others to come in terms of fake news? Well, you know, the New York Times is fake news, the Washington Post is fake news."
-The White House Correspondents Association (WHCA) - the independent, non-profit group that represents journalists who cover the US presidency - called on the administration "to immediately restore" access to the journalists and accused it of violating the First Amendment.
-"The implications extend beyond these organizations: a standard used to exclude one news outlet because of its coverage could be applied to any outlet in the future," said WHCA President Jacqui Heinrich, who works for Fox News.
-Heinrich said that the Americans, through a free and independent press, must be able to scrutinise those elected in their coverage "regardless of whether government officials view it favorably".
-"That's why courts have repeatedly held that once the White House provides access to journalists, it cannot deny that access arbitrarily or based on the content of their reporting."
-Several groups dedicated to the freedom of the press have called Trump's White House ban illegal and unconstitutional.
-A major group that provides legal services to the media - the Reporters Committee for Freedom of the Press - said it expected Trump's ban to be struck down quickly by the courts because it was "flatly unconstitutional".
-"The First Amendment is clear that once the White House invites in some journalists, it can't ban others because it doesn't like their reporting," said Bruce Brown, president of the Reporters Committee for Freedom of the Press, which provides legal services to the media.
-It's the latest in a series of moves by the administration to target media outlets Trump says are critical of him, including legal action against US and international outlets like The New York Times, The Wall Street Journal, and the BBC.
-Some of the lawsuits have resulted in media organisations agreeing to pay multimillion dollar settlements. Trump's lawsuit against the BBC is ongoing.
-Additional reporting from Bernd Debusmann Jr and Max Matza.
-Related topics
-- Published19 September 2025
-- Published18 August
-- Published14 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-19T19:13:49+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
-    readTime: 10,
-  },
-  {
-    id: "90-of-retirees-are-making-this-miscalcul-74f59e67",
-    title: "90% of retirees are making this miscalculation with their savings",
-    titleJa: "90% of retirees are making this miscalculation with their savings",
-    summaryJa: "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
-    bodyOriginal: `Fix My Portfolio
-90% of retirees are making this miscalculation with their savings
-The order in which you spend your money makes a difference for your taxes — and your enjoyment of life
-When you retire, you ideally have a couple different buckets of money to draw from — like pretax, Roth, cash and Social Security — which helps you diversify your income sources and better manage your taxes.
-But retirees are marking their IRAs and 401(k)s as off-limits for a decade or more, and then only taking from them sparingly, according to a new report from Vanguard, one of the biggest retirement-account custodians. This leads to people constraining their budgets early in retirement, and dying with even more money than they started with at the beginning of retirement.`,
-    bodyJa: `Fix My Portfolio
-90% of retirees are making this miscalculation with their savings
-The order in which you spend your money makes a difference for your taxes — and your enjoyment of life
-When you retire, you ideally have a couple different buckets of money to draw from — like pretax, Roth, cash and Social Security — which helps you diversify your income sources and better manage your taxes.
-But retirees are marking their IRAs and 401(k)s as off-limits for a decade or more, and then only taking from them sparingly, according to a new report from Vanguard, one of the biggest retirement-account custodians. This leads to people constraining their budgets early in retirement, and dying with even more money than they started with at the beginning of retirement.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
-    publishedAt: "2026-09-19T18:40:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-08685542",
-    readTime: 2,
-  },
-  {
-    id: "many-young-investors-can-t-afford-to-inv-786e90f6",
-    title: "Many young investors can’t afford to invest without their parents’ help",
-    titleJa: "Many young investors can’t afford to invest without their parents’ help",
-    summaryJa: "Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.",
-    bodyOriginal: `Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.`,
-    bodyJa: `Parents are providing help with things like housing and groceries, and sometimes directly investing for their children, to give them a head start in a challenging economy.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/many-young-investors-cant-afford-to-invest-without-their-parents-help-dbb05687?mod=mw_rss_topstories",
-    publishedAt: "2026-09-19T18:22:00+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.mktw.net/im-96227400",
-    readTime: 2,
-  },
-  {
-    id: "the-future-of-retirement-work-until-you-9b8b1c1b",
-    title: "The future of retirement? Work until you die.",
-    titleJa: "The future of retirement? Work until you die.",
-    summaryJa: "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
-    bodyOriginal: `Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.`,
-    bodyJa: `Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
-    publishedAt: "2026-09-19T17:53:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-92547390",
-    readTime: 2,
-  },
-  {
-    id: "what-happens-if-you-never-buy-a-house-wh-ba0fe3a0",
-    title: "What happens if you never buy a house? What renters are gaining — and giving up.",
-    titleJa: "What happens if you never buy a house? What renters are gaining — and giving up.",
-    summaryJa: "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
-    bodyOriginal: `The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.`,
-    bodyJa: `The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
-    publishedAt: "2026-09-19T16:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-39365960",
-    readTime: 2,
-  },
-  {
-    id: "ms-now-cnn-and-politico-journalists-bloc-0476f9b8",
-    title: "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-    titleJa: "MS NOW, CNN and Politico journalists blocked from White House after Trump ban",
-    summaryJa: "Journalists from MS NOW, CNN and Politico were denied access to the White House, one day after Trump banned three media outlets over their coverage of him.",
-    bodyOriginal: `Journalists from MS NOW, CNN and Politico were denied access to the White House grounds on Saturday, one day after President Donald Trump said he is banning the three outlets over their coverage of him.
-White House reporter Akayla Gardner said MS NOW journalists were blocked from the grounds for the first time Saturday morning.
-"Yesterday our journalists were able to stay here working on the White House grounds," she said. "This was the first action we know of them actually denying us entry into the White House."
-"The White House belongs to the American people and the decisions made inside are funded by our tax dollars," MS NOW said in a statement. "MS NOW intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy."
-MS NOW said it will "continue to report on the President, the administration, and the issues that impact the American people."
-CNN reported later Saturday that its journalists were denied access to the White House.
-"CNN's mission to report on the U.S. government will continue regardless of any attempts to restrict physical access to the White House and other government buildings, or any other attempts to impede our journalism," CNN said in a statement. "We have a right under the U.S. Constitution to do our reporting without hindrance or interference from the government and this ban is an illegal assault under that right."
-The news organization reiterated it "stands fully behind our White House team."
-And Politico's editor-in-chief, Jonathan Greenberger, emailed the newsroom: "A few minutes ago, our colleague Cheyenne Haslett attempted to enter the White House to do her job as a POLITICO reporter. Secret Service denied her entry to the complex and confiscated the pass that allows her access to the White House. We stand by her and all reporters here covering the White House. As we said yesterday, we will vigorously defend our First Amendment rights."
-When asked to respond, the White House referred CNBC to the president's comments yesterday.
-On Friday, Trump said in a Truth Social post that those outlets "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States, the Trump Administration, or the United States of America."
-"Other Fake News Media Outlets to follow," he added.
-Later that day, in the Oval Office, the president said he was imposing the ban in response to "cumulative stories" by the three outlets.
-"You get sick of it," he said.
-In 2018, Trump's White House briefly tried to suspend a CNN reporter's press pass, and it is currently being sued over an attempted ban of Associated Press journalists from certain spaces.
-Trump said Friday that the effort to bar news outlets is worthwhile, even if it does not hold up in court.
-"I think it's good to point it out whether it survives or doesn't," Trump said.
-Arthur Spitzer, a lawyer for the American Civil Liberties Union, told CNBC that Trump's move to ban what the president himself has called "the free press" is likely unconstitutional.
-"He's plainly discriminating against them because they don't like the way they report the news, and the government isn't supposed to do that," Spitzer said, referring to Trump. "Certainly, our view is the president cannot control, or try to control, the news by banning outlets from official events because he doesn't like the way they're reporting on him."
-Spitzer represents the ACLU in a case related to Trump's ban of AP journalists from certain government spaces, including the Oval Office and Air Force One.
-— CNBC's Kevin Breuninger and Dan Mangan contributed to this report.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    bodyJa: `Journalists from MS NOW, CNN and Politico were denied access to the White House grounds on Saturday, one day after President Donald Trump said he is banning the three outlets over their coverage of him.
-White House reporter Akayla Gardner said MS NOW journalists were blocked from the grounds for the first time Saturday morning.
-"Yesterday our journalists were able to stay here working on the White House grounds," she said. "This was the first action we know of them actually denying us entry into the White House."
-"The White House belongs to the American people and the decisions made inside are funded by our tax dollars," MS NOW said in a statement. "MS NOW intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy."
-MS NOW said it will "continue to report on the President, the administration, and the issues that impact the American people."
-CNN reported later Saturday that its journalists were denied access to the White House.
-"CNN's mission to report on the U.S. government will continue regardless of any attempts to restrict physical access to the White House and other government buildings, or any other attempts to impede our journalism," CNN said in a statement. "We have a right under the U.S. Constitution to do our reporting without hindrance or interference from the government and this ban is an illegal assault under that right."
-The news organization reiterated it "stands fully behind our White House team."
-And Politico's editor-in-chief, Jonathan Greenberger, emailed the newsroom: "A few minutes ago, our colleague Cheyenne Haslett attempted to enter the White House to do her job as a POLITICO reporter. Secret Service denied her entry to the complex and confiscated the pass that allows her access to the White House. We stand by her and all reporters here covering the White House. As we said yesterday, we will vigorously defend our First Amendment rights."
-When asked to respond, the White House referred CNBC to the president's comments yesterday.
-On Friday, Trump said in a Truth Social post that those outlets "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States, the Trump Administration, or the United States of America."
-"Other Fake News Media Outlets to follow," he added.
-Later that day, in the Oval Office, the president said he was imposing the ban in response to "cumulative stories" by the three outlets.
-"You get sick of it," he said.
-In 2018, Trump's White House briefly tried to suspend a CNN reporter's press pass, and it is currently being sued over an attempted ban of Associated Press journalists from certain spaces.
-Trump said Friday that the effort to bar news outlets is worthwhile, even if it does not hold up in court.
-"I think it's good to point it out whether it survives or doesn't," Trump said.
-Arthur Spitzer, a lawyer for the American Civil Liberties Union, told CNBC that Trump's move to ban what the president himself has called "the free press" is likely unconstitutional.
-"He's plainly discriminating against them because they don't like the way they report the news, and the government isn't supposed to do that," Spitzer said, referring to Trump. "Certainly, our view is the president cannot control, or try to control, the news by banning outlets from official events because he doesn't like the way they're reporting on him."
-Spitzer represents the ACLU in a case related to Trump's ban of AP journalists from certain government spaces, including the Oval Office and Air Force One.
-— CNBC's Kevin Breuninger and Dan Mangan contributed to this report.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/trump-media-ban-ms-now.html",
-    publishedAt: "2026-09-19T15:14:46+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "flames-reported-near-saudi-capital-airpo-330c2d68",
-    title: "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-    titleJa: "Flames reported near Saudi capital airport as Pakistan presses Iran over energy supplies",
-    summaryJa: "Smoke and flames were seen near Riyadh’s main airport after Saudi civil-defense alerts, while Pakistan urged Iran to protect energy supplies and shipping.",
-    bodyOriginal: `Saudi Arabia issued alerts to its citizens early Saturday amid reports of explosions in the capital Riyadh, as Pakistan's foreign minister stressed to his Iranian counterpart the need for uninterrupted energy supplies as war in the Middle East continued.
-The Directorate of Saudi Civil Defense issued the early warning alerts while Reuters reported the sound of two booms in Riyadh, but the agency later gave the all-clear. It subsequently reported a large plume of smoke and flames visible near the city's main airport, King Khalid International Airport.
-It was unclear what caused the smoke and flames, and Saudi authorities did not immediately respond to CNBC's request for comment.
-The Iran-backed Houthis in Yemen stepped up their attacks on Saudi Arabia in recent weeks and launched a lightning ground offensive around Bab el-Mandeb Strait — a strategically vital oil choke point — seizing Mokha and nearby islands
-U.S. President Donald Trump's administration last week approved the potential $24.3 billion sale of nearly 50 F-35 warplanes to Saudi Arabia, seen as a major boost for the kingdom.
-The package, announced on Thursday, includes the sale of 48 of Lockheed Martin's advanced F-35 jets, plus 49 Pratt & Whitney engines and other parts.
-Meanwhile, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar spoke with Iranian Foreign Minister Abbas Araghchi on Saturday as regional diplomatic efforts to resolve the conflict between the U.S. and Iran have stalled.
-"DPM/FM stressed the importance of uninterrupted energy supplies and the safe and expeditious passage of ships, particularly given their implications for developing countries and global supply chains," Pakistan's foreign ministry said in a post on X.
-The two diplomats agreed to meet on the sidelines of the United Nations General Assembly in New York next week, the ministry said.
-Reuters quoted a State Department spokesperson as saying on Sept. 11 that a "core delegation from the Iranian regime" would be allowed to attend the meeting in line with the United States' obligations as the world body's host country.
-'Hopefully' nearing the end of the war
-Trump said Wednesday that the country is "hopefully" approaching the end of its nearly seven-month war with Iran.
-Brent crude oil, the international benchmark, is up 72% since the start of 2026 as the war choked off energy supplies flowing through the Strait of Hormuz between Iran and Oman.
-Saudi Arabia has tried to divert its oil exports away from the strait by pumping it through its East-West pipeline to the Red Sea. But a drone attack that Saudi Arabia said originated in Iraq damaged the East-West pipeline on Sept. 11, forcing a shutdown.
-Crude prices fell for the third consecutive session Friday to finish the week basically flat, as the market anticipates the closure of Saudi Arabia's East-West pipeline will not have as big an impact on supplies as originally feared.
-U.S. West Texas Intermediate futures fell 1.6% to close at $100.30 per barrel. Brent crude traded 0.9% lower, settling at $103.87.`,
-    bodyJa: `Saudi Arabia issued alerts to its citizens early Saturday amid reports of explosions in the capital Riyadh, as Pakistan's foreign minister stressed to his Iranian counterpart the need for uninterrupted energy supplies as war in the Middle East continued.
-The Directorate of Saudi Civil Defense issued the early warning alerts while Reuters reported the sound of two booms in Riyadh, but the agency later gave the all-clear. It subsequently reported a large plume of smoke and flames visible near the city's main airport, King Khalid International Airport.
-It was unclear what caused the smoke and flames, and Saudi authorities did not immediately respond to CNBC's request for comment.
-The Iran-backed Houthis in Yemen stepped up their attacks on Saudi Arabia in recent weeks and launched a lightning ground offensive around Bab el-Mandeb Strait — a strategically vital oil choke point — seizing Mokha and nearby islands
-U.S. President Donald Trump's administration last week approved the potential $24.3 billion sale of nearly 50 F-35 warplanes to Saudi Arabia, seen as a major boost for the kingdom.
-The package, announced on Thursday, includes the sale of 48 of Lockheed Martin's advanced F-35 jets, plus 49 Pratt & Whitney engines and other parts.
-Meanwhile, Pakistan's Deputy Prime Minister and Foreign Minister Ishaq Dar spoke with Iranian Foreign Minister Abbas Araghchi on Saturday as regional diplomatic efforts to resolve the conflict between the U.S. and Iran have stalled.
-"DPM/FM stressed the importance of uninterrupted energy supplies and the safe and expeditious passage of ships, particularly given their implications for developing countries and global supply chains," Pakistan's foreign ministry said in a post on X.
-The two diplomats agreed to meet on the sidelines of the United Nations General Assembly in New York next week, the ministry said.
-Reuters quoted a State Department spokesperson as saying on Sept. 11 that a "core delegation from the Iranian regime" would be allowed to attend the meeting in line with the United States' obligations as the world body's host country.
-'Hopefully' nearing the end of the war
-Trump said Wednesday that the country is "hopefully" approaching the end of its nearly seven-month war with Iran.
-Brent crude oil, the international benchmark, is up 72% since the start of 2026 as the war choked off energy supplies flowing through the Strait of Hormuz between Iran and Oman.
-Saudi Arabia has tried to divert its oil exports away from the strait by pumping it through its East-West pipeline to the Red Sea. But a drone attack that Saudi Arabia said originated in Iraq damaged the East-West pipeline on Sept. 11, forcing a shutdown.
-Crude prices fell for the third consecutive session Friday to finish the week basically flat, as the market anticipates the closure of Saudi Arabia's East-West pipeline will not have as big an impact on supplies as originally feared.
-U.S. West Texas Intermediate futures fell 1.6% to close at $100.30 per barrel. Brent crude traded 0.9% lower, settling at $103.87.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/19/riyadh-airport-smoke-saudi-arabia.html",
-    publishedAt: "2026-09-19T13:48:04+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
   },
 ];
 
