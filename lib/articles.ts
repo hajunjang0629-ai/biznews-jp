@@ -15,6 +15,378 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "oil-rises-amid-worries-of-growing-iran-u-564b8e36",
+    title: "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+    titleJa: "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
+    summaryJa: "Oil rose Tuesday, amid concerns of growing Iran-U.S. tensions. after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.",
+    bodyOriginal: `Oil rose Tuesday amid concerns of growing Iran-U.S. tensions, after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.
+Futures for international benchmark Brent crude for November delivery gained 1.2% at $101.54 a barrel. U.S. West Texas Intermediate futures for October advanced 0.77% at $96.55 per barrel.
+Bessent told CNBC that all Iranian airlines will be shut down from Wednesday. "How do we do that? That if they land, you cannot provide them with fuel. You cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system," Bessent said on CNBC's "Squawk Box."
+Investors are still eyeing a possible diplomatic solution to the Mideast conflict, following news that Iranian president Masoud Pezeshkian is set to fly to the United Nations in New York.
+Pezeshkian will address the assembly and present Iran's positions on "international developments," with a particular focus on its war with the U.S. and Israel, according to the country's semi-official Tasnim news agency. Talks with the leaders of several countries are also scheduled to take place Sept. 22 to 26, and 28, on the sidelines of the event.
+Attention will likely remain focused on diplomatic developments, said Lukman Otunuga, head of market research at online brokerage FXTM.
+"Confirmation of direct talks between Washington and Tehran could place additional selling pressure on prices by improving expectations for regional supply," Otunuga said.
+"Conversely, Tehran has warned that renewed escalation would trigger a significant response, which could push crude prices higher," he added.
+—CNBC's Anniek Bao contributed to the report.`,
+    bodyJa: `Oil rose Tuesday amid concerns of growing Iran-U.S. tensions, after U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.
+Futures for international benchmark Brent crude for November delivery gained 1.2% at $101.54 a barrel. U.S. West Texas Intermediate futures for October advanced 0.77% at $96.55 per barrel.
+Bessent told CNBC that all Iranian airlines will be shut down from Wednesday. "How do we do that? That if they land, you cannot provide them with fuel. You cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system," Bessent said on CNBC's "Squawk Box."
+Investors are still eyeing a possible diplomatic solution to the Mideast conflict, following news that Iranian president Masoud Pezeshkian is set to fly to the United Nations in New York.
+Pezeshkian will address the assembly and present Iran's positions on "international developments," with a particular focus on its war with the U.S. and Israel, according to the country's semi-official Tasnim news agency. Talks with the leaders of several countries are also scheduled to take place Sept. 22 to 26, and 28, on the sidelines of the event.
+Attention will likely remain focused on diplomatic developments, said Lukman Otunuga, head of market research at online brokerage FXTM.
+"Confirmation of direct talks between Washington and Tehran could place additional selling pressure on prices by improving expectations for regional supply," Otunuga said.
+"Conversely, Tehran has warned that renewed escalation would trigger a significant response, which could push crude prices higher," he added.
+—CNBC's Anniek Bao contributed to the report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+    publishedAt: "2026-09-22T04:22:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "princeton-s-15-year-run-as-the-nation-s-c1eeb7bb",
+    title: "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+    titleJa: "Princeton’s 15-year run as the nation’s top college is over. MIT is now No. 1.",
+    summaryJa: "A change in methodology in the U.S. News rankings helped boost schools where students have high earnings",
+    bodyOriginal: `A change in methodology in the U.S. News rankings helped boost schools where students have high earnings`,
+    bodyJa: `A change in methodology in the U.S. News rankings helped boost schools where students have high earnings`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/princetons-15-year-run-as-the-nations-top-college-is-over-mit-is-now-no-1-e9f17169?mod=mw_rss_topstories",
+    publishedAt: "2026-09-22T04:02:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-854565",
+    readTime: 2,
+  },
+  {
+    id: "investors-rush-into-india-s-national-sto-bd2df7e9",
+    title: "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
+    titleJa: "Investors rush into India’s National Stock Exchange IPO at valuation multiple above Nasdaq",
+    summaryJa: "The $2.3 billion NSE IPO, India's largest public share sale issue so far this year, has drawn strong interest from investors, with bids of more than $10 billion.",
+    bodyOriginal: `The $2.3 billion initial public offer of shares in India's National Stock Exchange has received a frenzied response from investors, drawing bids worth more than $10 billion despite its hefty price-to-earnings multiple, which values it above several U.S. stock exchange businesses such as Nasdaq.
+Driven by strong demand from institutional and high-net-worth buyers, the NSE IPO secured bids for 505.81 million shares on Monday, 5.7 times the 88.64 million shares on offer.
+As part of the IPO, the company also raised 67.5 billion rupees ($704 million) last week from anchor investors such as the Monetary Authority of Singapore, the Abu Dhabi Investment Authority and India's top life insurer Life Insurance Corporation of India.
+The NSE IPO is the country's biggest listing so far this year and the second largest ever after Hyundai Motor India's share offer of $3.3 billion in 2024.
+The offer has been one of the most anticipated large listings this year in India and has been in the works since 2016. The business offers investors a strong play on India's broadening retail participation in capital markets.
+According to the country's economic survey released earlier this year, equity investments, which were once a limited part of household balance sheets, have become a "significant component of financial wealth." The share of equity and mutual funds in annual household financial savings increased to 15.2% in the financial year ending March 2025 from 2% in the financial year ending March 2012, it said.
+India is among the top 10 equity markets globally with a total market cap of around 492 trillion rupees ($5.1 trillion), and NSE is the main exchange. It commands a 93% share of India's cash market and accounts for nearly 100% of the country's equity futures trading, alongside 75% of equity options trading, according to the IPO filing.
+NSE's "asset-light business model enables consistently high margins and cash generation," Indian brokerage Geojit Financial Services said in a report on Sept. 16, asking investors to subscribe to the IPO.
+The report added that the growing capital market participation and "increasing financialization" in India provided NSE with "a strong long-term growth runway."
+NSE is valued at a price-to-earnings ratio of 42.9 times based on the upper end of the IPO price band and earnings per share for the year ended in March 2026, as per a report by Indian brokerage Yes Securities.
+In contrast, stock exchange companies in the U.S., the world's largest equity market, are trading at a price-to-earnings ratio of less than 24 times. Nasdaq trades at price-to-earnings of 23.6 times, while Intercontinental Exchange trades at 21.9 times, according to data from LSEG.
+Earlier this year, Sundararaman Ramamurthy, the managing director of the Bombay Stock Exchange (BSE), a competitor of the NSE, said that growing local investor participation had shielded the Indian markets from a freefall even as foreign investors exited in large numbers.
+He said that 35 million Indian investors had registered with his platform in 2025 and a "significant amount of population" was yet to come into the capital markets.`,
+    bodyJa: `The $2.3 billion initial public offer of shares in India's National Stock Exchange has received a frenzied response from investors, drawing bids worth more than $10 billion despite its hefty price-to-earnings multiple, which values it above several U.S. stock exchange businesses such as Nasdaq.
+Driven by strong demand from institutional and high-net-worth buyers, the NSE IPO secured bids for 505.81 million shares on Monday, 5.7 times the 88.64 million shares on offer.
+As part of the IPO, the company also raised 67.5 billion rupees ($704 million) last week from anchor investors such as the Monetary Authority of Singapore, the Abu Dhabi Investment Authority and India's top life insurer Life Insurance Corporation of India.
+The NSE IPO is the country's biggest listing so far this year and the second largest ever after Hyundai Motor India's share offer of $3.3 billion in 2024.
+The offer has been one of the most anticipated large listings this year in India and has been in the works since 2016. The business offers investors a strong play on India's broadening retail participation in capital markets.
+According to the country's economic survey released earlier this year, equity investments, which were once a limited part of household balance sheets, have become a "significant component of financial wealth." The share of equity and mutual funds in annual household financial savings increased to 15.2% in the financial year ending March 2025 from 2% in the financial year ending March 2012, it said.
+India is among the top 10 equity markets globally with a total market cap of around 492 trillion rupees ($5.1 trillion), and NSE is the main exchange. It commands a 93% share of India's cash market and accounts for nearly 100% of the country's equity futures trading, alongside 75% of equity options trading, according to the IPO filing.
+NSE's "asset-light business model enables consistently high margins and cash generation," Indian brokerage Geojit Financial Services said in a report on Sept. 16, asking investors to subscribe to the IPO.
+The report added that the growing capital market participation and "increasing financialization" in India provided NSE with "a strong long-term growth runway."
+NSE is valued at a price-to-earnings ratio of 42.9 times based on the upper end of the IPO price band and earnings per share for the year ended in March 2026, as per a report by Indian brokerage Yes Securities.
+In contrast, stock exchange companies in the U.S., the world's largest equity market, are trading at a price-to-earnings ratio of less than 24 times. Nasdaq trades at price-to-earnings of 23.6 times, while Intercontinental Exchange trades at 21.9 times, according to data from LSEG.
+Earlier this year, Sundararaman Ramamurthy, the managing director of the Bombay Stock Exchange (BSE), a competitor of the NSE, said that growing local investor participation had shielded the Indian markets from a freefall even as foreign investors exited in large numbers.
+He said that 35 million Indian investors had registered with his platform in 2025 and a "significant amount of population" was yet to come into the capital markets.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/india-nse-ipo-billion-nasdaq.html",
+    publishedAt: "2026-09-22T04:00:28+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "here-s-who-we-know-is-going-to-the-trump-d7d51bfb",
+    title: "Here's who we know is going to the Trump-Xi dinner so far",
+    titleJa: "Here's who we know is going to the Trump-Xi dinner so far",
+    summaryJa: "Very little is known about which Chinese business executives, if any, are expected to attend.",
+    bodyOriginal: `BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which Chinese executives will join him.
+China's Ministry of Foreign Affairs did not immediately respond to a CNBC request for comment Tuesday morning. Late on Monday, the ministry confirmed Xi's U.S. trip, planned for Wednesday to Friday.
+On the U.S. side, Microsoft CEO Satya Nadella is one of the executives who will attend a dinner expected Thursday in Washington, D.C., according to a source familiar.
+Microsoft and the White House did not immediately respond to a CNBC request for comment.
+Senior U.S. officials have shared names of some other executives who will join:
+Those business leaders include:
+- Nvidia's Jensen Huang
+- OpenAI's Sam Altman
+- Google's Sundar Pichai
+- Tesla and SpaceX's Elon Musk
+- Citigroup's Jane Fraser
+- Amazon's Jeff Bezos
+- Apple's Tim Cook
+- Dell's Michael Dell
+On the Chinese side, Reuters reported last week that business representatives under consideration included those from electric car giant BYD, smartphone company Xiaomi, battery makers CATL and Gotion, consumer electronics manufacturer Hisense, automotive parts company Wanxiang, state-owned Bank of China and agricultural conglomerate COFCO Group.
+BYD had no comment when contacted by CNBC. The other Chinese companies did not immediately respond to requests for comment.
+As tensions between the U.S. and China have escalated in recent years, both governments have put companies from the other country on blacklists that restrict business activity.
+—CNBC's Jordan Novet and Ashlee Trujillo contributed to this report.`,
+    bodyJa: `BEIJING — With two days to go before Chinese President Xi Jinping is expected to land in the U.S., very little is known about which Chinese executives will join him.
+China's Ministry of Foreign Affairs did not immediately respond to a CNBC request for comment Tuesday morning. Late on Monday, the ministry confirmed Xi's U.S. trip, planned for Wednesday to Friday.
+On the U.S. side, Microsoft CEO Satya Nadella is one of the executives who will attend a dinner expected Thursday in Washington, D.C., according to a source familiar.
+Microsoft and the White House did not immediately respond to a CNBC request for comment.
+Senior U.S. officials have shared names of some other executives who will join:
+Those business leaders include:
+- Nvidia's Jensen Huang
+- OpenAI's Sam Altman
+- Google's Sundar Pichai
+- Tesla and SpaceX's Elon Musk
+- Citigroup's Jane Fraser
+- Amazon's Jeff Bezos
+- Apple's Tim Cook
+- Dell's Michael Dell
+On the Chinese side, Reuters reported last week that business representatives under consideration included those from electric car giant BYD, smartphone company Xiaomi, battery makers CATL and Gotion, consumer electronics manufacturer Hisense, automotive parts company Wanxiang, state-owned Bank of China and agricultural conglomerate COFCO Group.
+BYD had no comment when contacted by CNBC. The other Chinese companies did not immediately respond to requests for comment.
+As tensions between the U.S. and China have escalated in recent years, both governments have put companies from the other country on blacklists that restrict business activity.
+—CNBC's Jordan Novet and Ashlee Trujillo contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/heres-who-we-know-is-going-to-the-trump-xi-dinner-so-far.html",
+    publishedAt: "2026-09-22T02:41:10+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "all-iranian-airlines-to-be-shut-down-fro-71263acb",
+    title: "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+    titleJa: "All Iranian airlines to be 'shut down' from Wednesday, Bessent tells CNBC",
+    summaryJa: "The Treasury Secretary said that Washington was pressuring Iran \"like never before\"",
+    bodyOriginal: `All Iranian airlines will be shut down from Sept. 23, according to U.S. Treasury Secretary Scott Bessent.
+Speaking to CNBC's "Squawk Box," Bessent added, "How do we do that? That if they land, you cannot provide them with fuel. You cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system."
+The Treasury Secretary said that Washington was pressuring Iran "like never before," saying that the U.S. was putting a stop to Iran's enablers around the world, such as sanctioning banks.
+Last week, the Treasury announced new sanctions on Russia's state-controlled VTB Bank as part of its effort to economically isolate Iran by targeting its business partners and other financial "enablers."
+UK lends support to Saudi Arabia
+Separately, the U.K. will reportedly support Saudi Arabia against Iranian backed Houthi rebels, with the Royal Air Force providing air to air refueling of Saudi planes.
+Prime Minister Andy Burnham told reporters that the arrangement will be for a matter of weeks, and will be kept under review.
+The move comes as U.S. President Donald Trump refused Riyadh's request for help against the rebels on the weekend, reportedly cancelling a planned airstrike.
+Burnham said he was "acting to secure the interests of Britain and the wider region, because of course Saudi Arabia has been experiencing attack, is looking at potential further disruption, and we need to keep those pathways (for oil) open," according to the Associated Press.
+Houthi rebels recently seized Yemen's Perim Island on the Red Sea, tightening their grip on the Bab el-Mandeb Strait, which puts Iran and its proxies on course to exercise control over two critically important oil choke points: that and the Strait of Hormuz.
+The Bab el-Mandeb Strait is an important alternative for oil exports to bypass the Strait of Hormuz, especially for Saudi Arabia, whose East-West pipeline allows the kingdom to divert some oil flows to be exported from the Red Sea.
+Last week, NATO Secretary Mark Rutte signaled that European nations could also provide support to Saudi Arabia, telling a BBC interview that "I would not be surprised if some phone calls were taking place between European allies — 'hey, how are we going to deal with this?'"`,
+    bodyJa: `All Iranian airlines will be shut down from Sept. 23, according to U.S. Treasury Secretary Scott Bessent.
+Speaking to CNBC's "Squawk Box," Bessent added, "How do we do that? That if they land, you cannot provide them with fuel. You cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system."
+The Treasury Secretary said that Washington was pressuring Iran "like never before," saying that the U.S. was putting a stop to Iran's enablers around the world, such as sanctioning banks.
+Last week, the Treasury announced new sanctions on Russia's state-controlled VTB Bank as part of its effort to economically isolate Iran by targeting its business partners and other financial "enablers."
+UK lends support to Saudi Arabia
+Separately, the U.K. will reportedly support Saudi Arabia against Iranian backed Houthi rebels, with the Royal Air Force providing air to air refueling of Saudi planes.
+Prime Minister Andy Burnham told reporters that the arrangement will be for a matter of weeks, and will be kept under review.
+The move comes as U.S. President Donald Trump refused Riyadh's request for help against the rebels on the weekend, reportedly cancelling a planned airstrike.
+Burnham said he was "acting to secure the interests of Britain and the wider region, because of course Saudi Arabia has been experiencing attack, is looking at potential further disruption, and we need to keep those pathways (for oil) open," according to the Associated Press.
+Houthi rebels recently seized Yemen's Perim Island on the Red Sea, tightening their grip on the Bab el-Mandeb Strait, which puts Iran and its proxies on course to exercise control over two critically important oil choke points: that and the Strait of Hormuz.
+The Bab el-Mandeb Strait is an important alternative for oil exports to bypass the Strait of Hormuz, especially for Saudi Arabia, whose East-West pipeline allows the kingdom to divert some oil flows to be exported from the Red Sea.
+Last week, NATO Secretary Mark Rutte signaled that European nations could also provide support to Saudi Arabia, telling a BBC interview that "I would not be surprised if some phone calls were taking place between European allies — 'hey, how are we going to deal with this?'"`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+    publishedAt: "2026-09-22T01:51:44+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "jamie-dimon-says-hyperscaler-ai-spending-edaec657",
+    title: "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    titleJa: "Jamie Dimon says hyperscaler AI spending could hit $1 trillion next year",
+    summaryJa: "JPMorgan CEO Jamie Dimon says AI spending across the hyperscaler ecosystem could reach $1 trillion next year as investment continues to surge.",
+    bodyOriginal: `The artificial intelligence spending boom is showing little sign of slowing, with investment across the hyperscaler ecosystem potentially reaching $1 trillion next year, according to JPMorgan Chase CEO Jamie Dimon.
+Spending across the hyperscaler ecosystem has more than doubled from about $300 billion last year to around $700 billion this year, a surge Dimon said is boosting economic growth while potentially adding to inflation.
+"That's like 1% increase to GDP each year," Dimon told CNBC-TV18 on the sidelines of the 11th annual JPMorgan India Conference, adding that the spending "may add a little bit to inflation" as companies hire workers, build factories and power plants, and buy equipment and materials.
+Over the longer term, however, Dimon said AI could have a deflationary effect, calling it an "unbelievable technology" whose rapid expansion "looks like it's going to continue."
+Still, he said it was too early to pick winners from the AI boom, pointing to the internet bubble, where many familiar names failed while previously little-known companies emerged as major winners, as an example of how the AI industry could evolve.
+Asked about returns on AI spending, Dimon said investments would not always come down to a straightforward calculation of returns, saying that "sometimes it's just table stakes."
+He pointed to improvements in customer experience as one benefit that can be difficult to quantify, and said companies could become more efficient in how they deploy AI over time.
+Beyond AI, Dimon said heavy demand for capital from infrastructure, remilitarization and ongoing government deficits may be pushing interest rates higher. He also said there "may be a market correction" but that he was not sure AI would be the cause.
+Inflation outlook
+He also remained cautious on inflation, saying he hoped price pressure would ease but "there's a chance it won't, and it may even go up a little bit," adding that the Federal Reserve should stick to its 2% inflation target.
+Ahead of the summit between U.S. President Donald Trump and Chinese President Xi Jinping, Dimon said the two sides appeared to be making progress and should "fully engage" on issues including trade, AI and security.
+He said he hoped the two countries would use the talks to address their differences, calling the discussions "important for the whole free world."
+Turning to India-U.S. relations, Dimon said the two countries should return to the negotiating table and complete a trade agreement.
+"It obviously hasn't moved forward," he said. "I hope it's not put in the back burner."
+Dimon said he understood concerns in the U.S. about purchases of Russian oil, but said Washington should take into account India's refining needs and avoid "punishing India and the world oil markets."
+More broadly, Dimon said India's economy could grow to three times its current size over the next decade, adding that JPMorgan would continue expanding in the country: "We're going to keep on building."`,
+    bodyJa: `The artificial intelligence spending boom is showing little sign of slowing, with investment across the hyperscaler ecosystem potentially reaching $1 trillion next year, according to JPMorgan Chase CEO Jamie Dimon.
+Spending across the hyperscaler ecosystem has more than doubled from about $300 billion last year to around $700 billion this year, a surge Dimon said is boosting economic growth while potentially adding to inflation.
+"That's like 1% increase to GDP each year," Dimon told CNBC-TV18 on the sidelines of the 11th annual JPMorgan India Conference, adding that the spending "may add a little bit to inflation" as companies hire workers, build factories and power plants, and buy equipment and materials.
+Over the longer term, however, Dimon said AI could have a deflationary effect, calling it an "unbelievable technology" whose rapid expansion "looks like it's going to continue."
+Still, he said it was too early to pick winners from the AI boom, pointing to the internet bubble, where many familiar names failed while previously little-known companies emerged as major winners, as an example of how the AI industry could evolve.
+Asked about returns on AI spending, Dimon said investments would not always come down to a straightforward calculation of returns, saying that "sometimes it's just table stakes."
+He pointed to improvements in customer experience as one benefit that can be difficult to quantify, and said companies could become more efficient in how they deploy AI over time.
+Beyond AI, Dimon said heavy demand for capital from infrastructure, remilitarization and ongoing government deficits may be pushing interest rates higher. He also said there "may be a market correction" but that he was not sure AI would be the cause.
+Inflation outlook
+He also remained cautious on inflation, saying he hoped price pressure would ease but "there's a chance it won't, and it may even go up a little bit," adding that the Federal Reserve should stick to its 2% inflation target.
+Ahead of the summit between U.S. President Donald Trump and Chinese President Xi Jinping, Dimon said the two sides appeared to be making progress and should "fully engage" on issues including trade, AI and security.
+He said he hoped the two countries would use the talks to address their differences, calling the discussions "important for the whole free world."
+Turning to India-U.S. relations, Dimon said the two countries should return to the negotiating table and complete a trade agreement.
+"It obviously hasn't moved forward," he said. "I hope it's not put in the back burner."
+Dimon said he understood concerns in the U.S. about purchases of Russian oil, but said Washington should take into account India's refining needs and avoid "punishing India and the world oil markets."
+More broadly, Dimon said India's economy could grow to three times its current size over the next decade, adding that JPMorgan would continue expanding in the country: "We're going to keep on building."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/21/jamie-dimon-jpm-jpmorgan-indiaconference.html",
+    publishedAt: "2026-09-22T01:30:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "i-d-rather-pay-thousands-on-a-holiday-me-a98f3112",
+    title: "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+    titleJa: "I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance",
+    summaryJa: "The phenomenon sees retirees spend all their money on enjoying life to the full.",
+    bodyOriginal: `I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance
+- Published
+Happily retired, Sarah Moorhouse is using her private pension "to go places and do nice things at the drop of a hat".
+While other retirees with a decent monthly pension income may choose to build up an inheritance for their children, Sarah, 64, and her husband Geoff are opting to spend their money on living life to the max.
+"We like going to Scotland," says Sarah, a retired school administrator. "We've been down to Cambridgeshire, which was lovely. We go up to the Lake District quite regularly to a holiday cottage, and we're planning to go to Norfolk."
+The couple, who live in the Yorkshire Dales, go on holiday four or five times a year, spending hundreds of pounds each time because, in Sarah's view, "you only have one opportunity at life".
+They did recently sell their vintage Sunbeam Alpine sports car. But only so they could replace it with a more modern, sporty two-seater convertible, a Mazda MX-5.
+"I'm of an age where I'm going to friends' and acquaintances' funerals, and I think you just need to live life and enjoy it while you can, because it's a very precious commodity," says Sarah.
+Sarah and Geoff are part of a global personal finance phenomenon that has been dubbed "skiing", which stands for spending the kids' inheritance. It is challenging the notion that assets will get handed down to the next generation.
+One in seven UK parents of children of all ages (15%) now plan to prioritise enjoying their money in their retirement over leaving an inheritance, according to a March report, external by pension provider Standard Life.
+And in the US, the number of people expecting to get an inheritance from their parents dropped to 20% last year, from 25% in 2024, according to a study, external by financial services firm Northwestern Mutual.
+'Wild' to expect an inheritance
+Sarah and Geoff have two adult daughters. One of them, Poppy, tells the BBC that she couldn't be happier that her parents are out and about having fun.
+She firmly rejects the notion that she and her sister should expect an inheritance. "To me that's wild. It never even crossed my mind that I'll get money when my mum and dad die. I'd so much rather them do what they want to do."
+Mike Ambery, retirement and savings director at Standard Life, believes that the move towards skiing in the UK has been driven by the disappearance of final-salary pensions, which provide guaranteed monthly pension payments that last for as long as the retiree lives.
+Instead, more people in the UK now have what are called defined contribution pension pots, which can run out. Ambery argues that it's easier to be generous with a legacy if you know your retirement income will last as long as you need it.
+He also points to pensioners wanting to simply enjoy themselves after a life of working.
+"It's just having a little bit of indulgence to enjoy life. Let's face it, working life can be very hard for some people."
+Not all retirees are well off, of course. In the UK, 16% of pensioners live in poverty, , externalaccording to the Joseph Rowntree Foundation charity.
+The figure for the US is 15.4%, newly released data shows., external
+But at the same time, UK pensioners have seen their disposable income, excluding housing costs, increase by more than that of non-pensioners over the last three decades, according to the Institute for Fiscal Studies think tank, external.
+Some 69% of retirees in the UK have a private pension in addition to their state one, official figures show., external In the US 56% of pensioners, external have a private pension.
+'I'm spending it all'
+Karen Green, 60, says she has been very upfront with her children. "I have been quite explicit to say there is unlikely to be a legacy because I'm anticipating spending it all."
+Originally from Berkshire, Karen has lived in Provence in the south of France for the past 11 years, and spends more than £10,000 a year on holidays.
+"This year, I'm going to a yoga retreat. I did one in March in Morocco," she says. "Then in October into November I'm going to Vietnam and Laos to do a little bit of a tour."
+She describes herself as semi-retired, as she tops up her private pension by still doing some business consultancy work, the job she used to do full-time.
+When it comes to how much money she has per month, she says that her income is the same as when she was working full-time. In addition to her pension and income from her part-time work, she gains 40% of her funds from renting out a property.
+But Karen insists she's not "crazy with money" and likes "to get a deal".
+Like Sarah Moorhouse she won't get her UK state pension until she is 67. That's currently a standard £12,547.60 a year for people who reached the state pension age after April 2016, but it is due to go up next year.
+As a comparison, retirees in the US get state payments known as social security retirement benefits.
+The maximum annual amount starting from the "full retirement age" of 67 is $49,824 (£36,993)., external However, people can choose to take a lower payment, external from the age of 62.
+Matthew Loveless, a vice president at Northwestern Mutual, based in Ohio, says retirees need to be upfront with their adult children, some of whom might be expecting an inheritance that they intend to rely on.
+Back in Yorkshire, Sarah is planning her next holiday. "I've worked hard all my life and I think I deserve to have a bit of free time and to be able to do nice things."
+- Published7 days ago
+- Published8 September
+- Published30 June
+- Published28 May`,
+    bodyJa: `I'd rather pay thousands on a holiday: Meet the pensioners spending the kids' inheritance
+- Published
+Happily retired, Sarah Moorhouse is using her private pension "to go places and do nice things at the drop of a hat".
+While other retirees with a decent monthly pension income may choose to build up an inheritance for their children, Sarah, 64, and her husband Geoff are opting to spend their money on living life to the max.
+"We like going to Scotland," says Sarah, a retired school administrator. "We've been down to Cambridgeshire, which was lovely. We go up to the Lake District quite regularly to a holiday cottage, and we're planning to go to Norfolk."
+The couple, who live in the Yorkshire Dales, go on holiday four or five times a year, spending hundreds of pounds each time because, in Sarah's view, "you only have one opportunity at life".
+They did recently sell their vintage Sunbeam Alpine sports car. But only so they could replace it with a more modern, sporty two-seater convertible, a Mazda MX-5.
+"I'm of an age where I'm going to friends' and acquaintances' funerals, and I think you just need to live life and enjoy it while you can, because it's a very precious commodity," says Sarah.
+Sarah and Geoff are part of a global personal finance phenomenon that has been dubbed "skiing", which stands for spending the kids' inheritance. It is challenging the notion that assets will get handed down to the next generation.
+One in seven UK parents of children of all ages (15%) now plan to prioritise enjoying their money in their retirement over leaving an inheritance, according to a March report, external by pension provider Standard Life.
+And in the US, the number of people expecting to get an inheritance from their parents dropped to 20% last year, from 25% in 2024, according to a study, external by financial services firm Northwestern Mutual.
+'Wild' to expect an inheritance
+Sarah and Geoff have two adult daughters. One of them, Poppy, tells the BBC that she couldn't be happier that her parents are out and about having fun.
+She firmly rejects the notion that she and her sister should expect an inheritance. "To me that's wild. It never even crossed my mind that I'll get money when my mum and dad die. I'd so much rather them do what they want to do."
+Mike Ambery, retirement and savings director at Standard Life, believes that the move towards skiing in the UK has been driven by the disappearance of final-salary pensions, which provide guaranteed monthly pension payments that last for as long as the retiree lives.
+Instead, more people in the UK now have what are called defined contribution pension pots, which can run out. Ambery argues that it's easier to be generous with a legacy if you know your retirement income will last as long as you need it.
+He also points to pensioners wanting to simply enjoy themselves after a life of working.
+"It's just having a little bit of indulgence to enjoy life. Let's face it, working life can be very hard for some people."
+Not all retirees are well off, of course. In the UK, 16% of pensioners live in poverty, , externalaccording to the Joseph Rowntree Foundation charity.
+The figure for the US is 15.4%, newly released data shows., external
+But at the same time, UK pensioners have seen their disposable income, excluding housing costs, increase by more than that of non-pensioners over the last three decades, according to the Institute for Fiscal Studies think tank, external.
+Some 69% of retirees in the UK have a private pension in addition to their state one, official figures show., external In the US 56% of pensioners, external have a private pension.
+'I'm spending it all'
+Karen Green, 60, says she has been very upfront with her children. "I have been quite explicit to say there is unlikely to be a legacy because I'm anticipating spending it all."
+Originally from Berkshire, Karen has lived in Provence in the south of France for the past 11 years, and spends more than £10,000 a year on holidays.
+"This year, I'm going to a yoga retreat. I did one in March in Morocco," she says. "Then in October into November I'm going to Vietnam and Laos to do a little bit of a tour."
+She describes herself as semi-retired, as she tops up her private pension by still doing some business consultancy work, the job she used to do full-time.
+When it comes to how much money she has per month, she says that her income is the same as when she was working full-time. In addition to her pension and income from her part-time work, she gains 40% of her funds from renting out a property.
+But Karen insists she's not "crazy with money" and likes "to get a deal".
+Like Sarah Moorhouse she won't get her UK state pension until she is 67. That's currently a standard £12,547.60 a year for people who reached the state pension age after April 2016, but it is due to go up next year.
+As a comparison, retirees in the US get state payments known as social security retirement benefits.
+The maximum annual amount starting from the "full retirement age" of 67 is $49,824 (£36,993)., external However, people can choose to take a lower payment, external from the age of 62.
+Matthew Loveless, a vice president at Northwestern Mutual, based in Ohio, says retirees need to be upfront with their adult children, some of whom might be expecting an inheritance that they intend to rely on.
+Back in Yorkshire, Sarah is planning her next holiday. "I've worked hard all my life and I think I deserve to have a bit of free time and to be able to do nice things."
+- Published7 days ago
+- Published8 September
+- Published30 June
+- Published28 May`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cje8y3w2zdpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T23:01:26+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cdb/live/ffc48210-ac22-11f1-9bd9-7b7da208bd5c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "vet-prescription-fees-capped-under-rule-5bc6e4b5",
+    title: "Vet prescription fees capped under rule changes",
+    titleJa: "Vet prescription fees capped under rule changes",
+    summaryJa: "Vets must also tell clients if cheaper medicine is available online as part of the rule updates which surgeries have the coming months to bring in.",
+    bodyOriginal: `Vet prescription fees capped under rule changes
+- Published
+Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.
+Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates.
+The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation.
+However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices.
+The Competition and Markets Authority (CMA) made its remedies for the sector legally binding as of Tuesday and vets have up to 12 months to bring all the changes in.
+As well as capping prescription fees, other changes include:
+Vet practices must publish a "comprehensive" price list for standard services – including consultations, common procedures, and cremation options
+A written estimate must be provided in advance for any treatment expected to cost £500 or more, including aftercare costs, plus an itemised bill. Emergencies are the only exception to this
+Vet businesses must make clear whether they are part of a group or an independent business
+To help pet owners compare local practices, price and ownership information will be made available through the Royal College of Veterinary Surgeons' "Find a Vet" service, which will share the data with third-party comparison sites.
+The timelines for when vets need to bring in the fixes depends on the exact regulation and the group's size. The CMA sets it out here., external
+"The changes that are being required are changes that will help inform pet owners about prices," said CMA panel chair Martin Coleman.
+However, Cate Titterton, the owner of an independent vet service in Saltburn, told BBC Your Voice the changes will make trips to the vets more expensive for customers.
+"Veterinary practices still have to have a pharmacy that is fully stocked, so if we're not making that tiny profit on the drugs, we're going to have to make some profit elsewhere.
+"So, things like services, consultations, surgeries – unfortunately, those prices are very, very likely to have to go up."
+She believes there is "one clear winner" from this - larger vet groups and the corporates.
+British Veterinary Association President Dr Rob Williams said veterinary practices were already largely working to the CMA's remedies, including the orders relating to complaints handling, price estimates for routine procedures and prescription costs.
+"We've been clear with the CMA throughout its investigation that it must ensure its remedies do not disproportionately impact smaller, independent practices and we've pushed back where we've had concerns," Williams said.
+Vet surgeries 'not interested in the animal'
+One person hoping to see a cheaper more transparent market for vet services is Clive Di Giorgio, who got in touch with BBC Your Voice.
+He says he was quoted thousands of pounds for treatment after a vet told him that a rash on his dog Louis' back was "definitely" a sign of cancer.
+However, after going to a different vet surgery, he says he was told Louis' rash was not cancerous.
+A treatment of steroids, antibiotics, and a spray cleared up the rash in two weeks, Clive says.
+"You just don't feel as if when you go to the vets now they're interested in the animal," he says.
+"You feel as if all the interest is how much money they can basically squeeze from you."
+Get in touch
+How have vet charges affected you? Do you welcome the changes?
+Related topics
+- Published24 March`,
+    bodyJa: `Vet prescription fees capped under rule changes
+- Published
+Written prescription fees from vets will be capped at £21 as part of a raft of changes that practices will be legally required to bring in over the coming months.
+Vets must also tell clients if cheaper medicine is available online, write price estimates ahead of treatment, and publish price lists for services as part of the rule updates.
+The official competition watchdog has brought the measures into force after its investigation into the sector found prices had been rising at nearly twice the rate of inflation.
+However, critics say the measures will hit independent vets hardest and will benefit the six firms that own more than two-thirds of practices.
+The Competition and Markets Authority (CMA) made its remedies for the sector legally binding as of Tuesday and vets have up to 12 months to bring all the changes in.
+As well as capping prescription fees, other changes include:
+Vet practices must publish a "comprehensive" price list for standard services – including consultations, common procedures, and cremation options
+A written estimate must be provided in advance for any treatment expected to cost £500 or more, including aftercare costs, plus an itemised bill. Emergencies are the only exception to this
+Vet businesses must make clear whether they are part of a group or an independent business
+To help pet owners compare local practices, price and ownership information will be made available through the Royal College of Veterinary Surgeons' "Find a Vet" service, which will share the data with third-party comparison sites.
+The timelines for when vets need to bring in the fixes depends on the exact regulation and the group's size. The CMA sets it out here., external
+"The changes that are being required are changes that will help inform pet owners about prices," said CMA panel chair Martin Coleman.
+However, Cate Titterton, the owner of an independent vet service in Saltburn, told BBC Your Voice the changes will make trips to the vets more expensive for customers.
+"Veterinary practices still have to have a pharmacy that is fully stocked, so if we're not making that tiny profit on the drugs, we're going to have to make some profit elsewhere.
+"So, things like services, consultations, surgeries – unfortunately, those prices are very, very likely to have to go up."
+She believes there is "one clear winner" from this - larger vet groups and the corporates.
+British Veterinary Association President Dr Rob Williams said veterinary practices were already largely working to the CMA's remedies, including the orders relating to complaints handling, price estimates for routine procedures and prescription costs.
+"We've been clear with the CMA throughout its investigation that it must ensure its remedies do not disproportionately impact smaller, independent practices and we've pushed back where we've had concerns," Williams said.
+Vet surgeries 'not interested in the animal'
+One person hoping to see a cheaper more transparent market for vet services is Clive Di Giorgio, who got in touch with BBC Your Voice.
+He says he was quoted thousands of pounds for treatment after a vet told him that a rash on his dog Louis' back was "definitely" a sign of cancer.
+However, after going to a different vet surgery, he says he was told Louis' rash was not cancerous.
+A treatment of steroids, antibiotics, and a spray cleared up the rash in two weeks, Clive says.
+"You just don't feel as if when you go to the vets now they're interested in the animal," he says.
+"You feel as if all the interest is how much money they can basically squeeze from you."
+Get in touch
+How have vet charges affected you? Do you welcome the changes?
+Related topics
+- Published24 March`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqzjz2gx18ggo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-21T23:01:18+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/342d/live/bc86a7d0-b5dc-11f1-8c16-65d8f060d73f.jpg",
+    readTime: 9,
+  },
+  {
     id: "hundreds-of-flights-into-newark-new-york-1a51b0b1",
     title: "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
     titleJa: "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
@@ -1641,530 +2013,6 @@ Brent crude oil, the international benchmark, is up 72% since the start of 2026 
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-29689052",
     readTime: 2,
-  },
-  {
-    id: "lib-dems-vow-to-end-computer-says-no-eco-e02b5a5b",
-    title: "Lib Dems vow to end 'computer says no' economy to boost growth",
-    titleJa: "Lib Dems vow to end 'computer says no' economy to boost growth",
-    summaryJa: "Deputy leader Daisy Cooper also proposes a Growth and Defence Partnership with the EU in a speech to her party conference.",
-    bodyOriginal: `Lib Dems vow to end 'computer says no' economy to boost growth
-- Published
-Liberal Democrat deputy leader Daisy Cooper has warned the UK's economic growth is being held back by a "computer says no" approach.
-She unveiled a 30-page growth plan, external aimed at removing barriers to business as part of her speech to the Lib Dem conference in Brighton.
-Cooper, who is also the party's Treasury spokesperson, said too many ideas, start-ups and research started in Britain but ended up being taken overseas.
-She also outlined a new Growth and Defence Partnership with the EU to reverse the economic damage of Brexit, that she claimed is currently costing the UK £90bn a year in lost tax revenue.
-Speaking on stage in Brighton, she said: "We build brilliant start-ups, and watch too many leave to scale somewhere else. We produce world-class research, and too little of it becomes a British product."
-"Britain has the potential," she went on. "The system holds it back. The computer says no.
-"This plan tears down the barriers to investment, to innovation, and to skills."
-Cooper called for the creation of a digital one-stop-shop service for businesses and investors, combining tax, regulatory, legal, Companies House, and general business services.
-Creating this within a new Department for Growth would simplify red tape and help small and medium-sized businesses compete and grow, she said.
-Cooper said a new Growth and Defence Partnership with the EU, would be the "single biggest growth lever we could pull" by deepening ties with Europe.
-"It could turbo-charge our economy and start to reverse the economic damage of Brexit which is currently costing us £90bn a year in lost tax revenue," she said.
-"In power, we will strike the deal on the single market, we will strike the deal on a customs union, we will strike the deal on defence."
-She claimed the Lib Dems would say "what no other party dares to say" that Britain "belongs at the heart of Europe, and we will take her there".
-Speaking to journalists after her speech, she added she believed re-joining the EU single market and customs union could be done "within a year".
-"We are very clear we want to join the single market and have a customs union and we think we can get there within a year," she said.
-Asked whether associate partnership could be an option for the UK, following the EU offer of a potential deal for Canada, she said: "I don't see why we need to wait - Canada is a long way away, the geography is different, it's a different relationship.
-"We are just a few miles away from the EU, our closest, biggest trading partner, we've got that historical relationship, we think we could get into the single market and have a customs union within 12 months."
-Before becoming prime minister, Andy Burnham said he would like to see the UK re-join the EU in his lifetime but he respected the result of the 2016 referendum and had no plans to "re-run" Brexit arguments.
-On Friday, Chancellor John Healey met EU ministers and asked them to let the UK into its Made in Europe scheme, aimed at protecting industries from unfair Chinese competition.
-Healey also pushed for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin the same day, as Burnham held his first official meeting with Taoiseach (Irish prime minister) Micheál Martin in No 10 North.
-Seeking to differentiate the Liberal Democrats from rival parties, she said her party would avoid "more punishing tax hikes from Labour or painful spending cuts by the Conservatives and Reform UK".
-She attacked Healey for his speech earlier this month, which "contained no vision, no ideas, and absolutely no mention of Europe".
-Cooper also attacked Reform and the Conservatives for being "locked in a race to the bottom without a single credible costing between them".
-She highlighted how the new Shadow Chancellor Andrew Griffith had helped to deliver and defend the Liz Truss mini-budget, which she said "crashed the pound, it spiked your mortgage, it cost the country billions", and Nigel Farage defended the move.
-"But the worst could be yet to come: Farage is modelling himself on Trump," she said.
-"A President who has used the presidency to enrich himself, dismantled anti-corruption safeguards and pardoned crypto criminals.
-"We cannot allow that kind of politics to take hold in our country -- We cannot afford to allow Nigel Farage to win the keys to No 10 or let the Tories put him there."
-Ed Davey calls for immediate 10p cut to fuel duty
-- Published1 hour ago
-Davey says Lib Dems are 'firewall against Farage' as conference begins
-- Published21 hours ago
-Sign up for our Politics Essential newsletter to read top political analysis, gain insight from across the UK and stay up to speed with the big moments. It'll be delivered straight to your inbox every weekday.`,
-    bodyJa: `Lib Dems vow to end 'computer says no' economy to boost growth
-- Published
-Liberal Democrat deputy leader Daisy Cooper has warned the UK's economic growth is being held back by a "computer says no" approach.
-She unveiled a 30-page growth plan, external aimed at removing barriers to business as part of her speech to the Lib Dem conference in Brighton.
-Cooper, who is also the party's Treasury spokesperson, said too many ideas, start-ups and research started in Britain but ended up being taken overseas.
-She also outlined a new Growth and Defence Partnership with the EU to reverse the economic damage of Brexit, that she claimed is currently costing the UK £90bn a year in lost tax revenue.
-Speaking on stage in Brighton, she said: "We build brilliant start-ups, and watch too many leave to scale somewhere else. We produce world-class research, and too little of it becomes a British product."
-"Britain has the potential," she went on. "The system holds it back. The computer says no.
-"This plan tears down the barriers to investment, to innovation, and to skills."
-Cooper called for the creation of a digital one-stop-shop service for businesses and investors, combining tax, regulatory, legal, Companies House, and general business services.
-Creating this within a new Department for Growth would simplify red tape and help small and medium-sized businesses compete and grow, she said.
-Cooper said a new Growth and Defence Partnership with the EU, would be the "single biggest growth lever we could pull" by deepening ties with Europe.
-"It could turbo-charge our economy and start to reverse the economic damage of Brexit which is currently costing us £90bn a year in lost tax revenue," she said.
-"In power, we will strike the deal on the single market, we will strike the deal on a customs union, we will strike the deal on defence."
-She claimed the Lib Dems would say "what no other party dares to say" that Britain "belongs at the heart of Europe, and we will take her there".
-Speaking to journalists after her speech, she added she believed re-joining the EU single market and customs union could be done "within a year".
-"We are very clear we want to join the single market and have a customs union and we think we can get there within a year," she said.
-Asked whether associate partnership could be an option for the UK, following the EU offer of a potential deal for Canada, she said: "I don't see why we need to wait - Canada is a long way away, the geography is different, it's a different relationship.
-"We are just a few miles away from the EU, our closest, biggest trading partner, we've got that historical relationship, we think we could get into the single market and have a customs union within 12 months."
-Before becoming prime minister, Andy Burnham said he would like to see the UK re-join the EU in his lifetime but he respected the result of the 2016 referendum and had no plans to "re-run" Brexit arguments.
-On Friday, Chancellor John Healey met EU ministers and asked them to let the UK into its Made in Europe scheme, aimed at protecting industries from unfair Chinese competition.
-Healey also pushed for closer UK-EU partnerships on tech, defence, and manufacturing at a meeting of EU finance ministers in Dublin the same day, as Burnham held his first official meeting with Taoiseach (Irish prime minister) Micheál Martin in No 10 North.
-Seeking to differentiate the Liberal Democrats from rival parties, she said her party would avoid "more punishing tax hikes from Labour or painful spending cuts by the Conservatives and Reform UK".
-She attacked Healey for his speech earlier this month, which "contained no vision, no ideas, and absolutely no mention of Europe".
-Cooper also attacked Reform and the Conservatives for being "locked in a race to the bottom without a single credible costing between them".
-She highlighted how the new Shadow Chancellor Andrew Griffith had helped to deliver and defend the Liz Truss mini-budget, which she said "crashed the pound, it spiked your mortgage, it cost the country billions", and Nigel Farage defended the move.
-"But the worst could be yet to come: Farage is modelling himself on Trump," she said.
-"A President who has used the presidency to enrich himself, dismantled anti-corruption safeguards and pardoned crypto criminals.
-"We cannot allow that kind of politics to take hold in our country -- We cannot afford to allow Nigel Farage to win the keys to No 10 or let the Tories put him there."
-Ed Davey calls for immediate 10p cut to fuel duty
-- Published1 hour ago
-Davey says Lib Dems are 'firewall against Farage' as conference begins
-- Published21 hours ago
-Sign up for our Politics Essential newsletter to read top political analysis, gain insight from across the UK and stay up to speed with the big moments. It'll be delivered straight to your inbox every weekday.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqrk31k7pprlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-20T14:05:15+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c80/live/a36260c0-b4e5-11f1-88d0-9b6aa3313295.png",
-    readTime: 10,
-  },
-  {
-    id: "china-is-chasing-spacex-and-setting-its-1bd2f4f7",
-    title: "China is chasing SpaceX and setting its sights on the global space economy",
-    titleJa: "China is chasing SpaceX and setting its sights on the global space economy",
-    summaryJa: "Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.",
-    bodyOriginal: `Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.`,
-    bodyJa: `Chinese space-technology players are looking to grow their reach, experts say. They’re closing in on Elon Musk and company.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/china-is-chasing-spacex-and-setting-its-sights-on-the-global-space-economy-3b9e37ff?mod=mw_rss_topstories",
-    publishedAt: "2026-09-20T13:53:00+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.mktw.net/im-25340089",
-    readTime: 2,
-  },
-  {
-    id: "it-s-awful-how-tariffs-soaring-fuel-cos-86025492",
-    title: "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-    titleJa: "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-    summaryJa: "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-    bodyOriginal: `Fewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.
-For American companies large and small, the combination of tariffs imposed under President Donald Trump's trade policies, surging fuel prices from the Iran war and, now, rising interest rates is forcing executives to make tough choices.
-Allen Eden has been holding onto extra inventory for his 25-person business, the Original Saw Co. in Britt, Iowa, which makes industrial power saws for wood and metalwork, as he grapples with spiking prices for aluminum, steel and essential parts.
-One example: A "little bracket" used for his saw motors more than doubled in price this summer, surging to $87 from $42, he said.
-"It's awful," Eden, 56, told CNBC. "[I'm] just trying to keep more of the stuff around because I don't know if we can get it down the road."
-It's a three-way squeeze for businesses across manufacturing, transportation and retail: Tariffs are making raw materials and goods more expensive. Higher fuel prices are pushing up the cost of making and moving them. And rising rates are making it more expensive to finance the inventory and equipment businesses need to keep running.
-While few sectors are completely insulated from these pressures, middle-market manufacturers are caught in a particularly tight vise. Rising steel and fuel costs are forcing them to pass at least some of those expenses on through higher prices, helping feed the stubborn inflation of the past few years.
-But to wrangle inflation, the Federal Reserve raised interest rates for the first time in three years and signaled another hike is possible this year. That makes it more expensive for businesses to finance inventory and borrow for growth at the same time that higher input costs and record prices for diesel, which is used for trucking, squeeze margins.
-Price increases for Eden's saws, sold both to megaretailers like Home Depot and directly to small- and medium-sized manufacturers, look inevitable, the business owner said.
-The pain isn't being evenly distributed. Smaller companies typically rely on shorter-term lending, meaning Fed hikes pass more directly into their costs, JPMorgan Chase global strategy head Dubravko Lakos-Bujas said in a Sept. 14 note.
-But regardless of size, capital-intensive sectors like manufacturing and equipment suppliers, logistics firms including trucking fleets, and commercial real estate also suffer more in a rising-rate environment, according to Lakos-Bujas.
-"The combination of higher rates and higher fuel prices means that sectors with heavy exposure to both are first in the line of fire," said Gregory Daco, chief economist at EY-Parthenon, the global consulting arm of Ernst & Young.
-"Any type of manufacturing is going to be disproportionately exposed to higher fuel prices," he said.
-Rising fuel and commodity costs have strained both material makers and the retailers they serve.
-Mark Costa, CEO of industrial giant Eastman Chemical, said in May that the one-two punch of interest rates and inflation was forcing his industry into a corner. Eastman makes the plastics, additives, and other materials used in products as diverse as medical devices, animal feed, and car windshields.
-"Everyone had their back against the wall and had no room to absorb these increases," Costa said. "Everyone is very quickly raising prices faster than I've ever seen in 20 years."
-On the retail side, unexpected pressure from energy and raw materials costs will "fully offset" the benefit of $730 million in tariff refunds, Home Depot CFO Richard McPhail said last month.
-"There's just so much uncertainty right now. … You think inflation, interest rates, fuel prices," McPhail said last week at a conference.
-Supply chain holes
-Among those hardest hit are manufacturers in the domestic automobile supply chain.
-Lucerne International, a privately held auto parts maker based in suburban Detroit, stopped manufacturing operations in the U.S. and canceled plans last year for a $50 million aluminum forging plant in Michigan.
-"The onset of the Trump tariffs 2.0 has just really torn holes in our global supply chains and increased costs significantly," Lucerne CEO Mary Buchzeiger said, citing higher costs for raw materials, including aluminum, as well as finished parts.
-Buchzeiger, whose firm still manufactures overseas, said she has shifted U.S. operations to warehousing, distribution, and tariff-mitigation solutions for other companies, which offer "much better margins."
-"There's no doubt that there's margin pressure for suppliers," Paul McCarthy, CEO of vehicle supplier trade association MEMA, said. "Some of it, we try to absorb … and then some of it does have to be passed on."
-Growth, as measured by earnings before interest and taxes for the top 100 auto suppliers, fell last year to 4.2%, down from more than 6% in 2021, according to consulting firm Berylls by AlixPartners. Among the top 10 automakers, that figure is 5.2%, down from nearly 8% in 2022.
-Not all auto companies have managed the additional costs. Spanish auto parts maker Grupo Antolin, which supplies components to automakers including Ford, GM, Volkswagen and Stellantis, filed for Chapter 15 bankruptcy protection in the U.S. in July. The company cited tariffs, higher raw-material and energy costs, and supply-chain disruptions as reasons for its restructuring.
-Divide in corporate America
-Better off are the giants of the corporate world, like the tech and finance companies that fill the S&P 500. These firms typically have more cash reserves and take out long-term debt, insulating them somewhat from the sting of higher rates.
-Most larger companies can thrive until borrowing costs rise much further. The pain would hit when the yield on the 10-year Treasury bond reaches 6%, up from around 5% now, according to JPMorgan's Lakos-Bujas, who cited 80 years of data.
-Borrowing costs are expected to stay higher for longer. Persistent inflation, which forced Warsh to raise the benchmark Fed rate against Trump's wishes, along with heavy borrowing from the U.S. government, is keeping upward pressure on rates.
-Across corporate America, companies are grappling with these shocks in different ways. The divide comes down to one question: Who has pricing power?
-Some industries have learned they can readily pass higher costs on to consumers, while others are caught in a catch-22: If they raise prices too much, they risk destroying demand.
-Airline executives last week boasted of higher fares as customers keep booking trips, especially abroad, allowing them to pass increased fuel costs on to travelers. Airlines scaled back growth plans, cutting less profitable flights even after the collapse of Spirit Airlines this year.
-Fewer flights can mean pricier airline tickets, and fares were up more than 23% in August from last year, according to the latest inflation read. Yet even strong demand has its limits.
-"The consumer has been incredibly, incredibly resilient," United Chief Financial Officer Mike Leskinen said Wednesday during a Morgan Stanley conference in Laguna Beach, California.
-"But there's some marginal routes that don't make sense in a higher fuel environment. So we cut them," Leskinen said. "You should see us continue to ... behave that way."
-Much of corporate America remains resilient despite higher fuel and financing costs. Profit margins for major companies hover near historic highs, propelled by strong productivity gains, labor costs that have stayed in check and surging artificial intelligence investment that is driving growth.
-But a risk of Warsh's efforts is that higher rates don't directly address the root causes of inflation: the Iran war, the Trump administration's tariffs, and the AI boom, which has driven up the prices for everything required to build and run data centers, from electricity to memory chips, copper, and land.
-Raising rates to tap the brakes on the U.S. economy could slow it down too much, or send stocks into a tailspin, said EY-Parthenon's Daco.
-"The economy is resilient, but it's exposed to growing pockets of risk," he said. "A shock could materialize faster than we all think."`,
-    bodyJa: `Fewer, pricier flights. Freight surcharges. Manufacturers hoarding inventory. Even bankruptcy.
-For American companies large and small, the combination of tariffs imposed under President Donald Trump's trade policies, surging fuel prices from the Iran war and, now, rising interest rates is forcing executives to make tough choices.
-Allen Eden has been holding onto extra inventory for his 25-person business, the Original Saw Co. in Britt, Iowa, which makes industrial power saws for wood and metalwork, as he grapples with spiking prices for aluminum, steel and essential parts.
-One example: A "little bracket" used for his saw motors more than doubled in price this summer, surging to $87 from $42, he said.
-"It's awful," Eden, 56, told CNBC. "[I'm] just trying to keep more of the stuff around because I don't know if we can get it down the road."
-It's a three-way squeeze for businesses across manufacturing, transportation and retail: Tariffs are making raw materials and goods more expensive. Higher fuel prices are pushing up the cost of making and moving them. And rising rates are making it more expensive to finance the inventory and equipment businesses need to keep running.
-While few sectors are completely insulated from these pressures, middle-market manufacturers are caught in a particularly tight vise. Rising steel and fuel costs are forcing them to pass at least some of those expenses on through higher prices, helping feed the stubborn inflation of the past few years.
-But to wrangle inflation, the Federal Reserve raised interest rates for the first time in three years and signaled another hike is possible this year. That makes it more expensive for businesses to finance inventory and borrow for growth at the same time that higher input costs and record prices for diesel, which is used for trucking, squeeze margins.
-Price increases for Eden's saws, sold both to megaretailers like Home Depot and directly to small- and medium-sized manufacturers, look inevitable, the business owner said.
-The pain isn't being evenly distributed. Smaller companies typically rely on shorter-term lending, meaning Fed hikes pass more directly into their costs, JPMorgan Chase global strategy head Dubravko Lakos-Bujas said in a Sept. 14 note.
-But regardless of size, capital-intensive sectors like manufacturing and equipment suppliers, logistics firms including trucking fleets, and commercial real estate also suffer more in a rising-rate environment, according to Lakos-Bujas.
-"The combination of higher rates and higher fuel prices means that sectors with heavy exposure to both are first in the line of fire," said Gregory Daco, chief economist at EY-Parthenon, the global consulting arm of Ernst & Young.
-"Any type of manufacturing is going to be disproportionately exposed to higher fuel prices," he said.
-Rising fuel and commodity costs have strained both material makers and the retailers they serve.
-Mark Costa, CEO of industrial giant Eastman Chemical, said in May that the one-two punch of interest rates and inflation was forcing his industry into a corner. Eastman makes the plastics, additives, and other materials used in products as diverse as medical devices, animal feed, and car windshields.
-"Everyone had their back against the wall and had no room to absorb these increases," Costa said. "Everyone is very quickly raising prices faster than I've ever seen in 20 years."
-On the retail side, unexpected pressure from energy and raw materials costs will "fully offset" the benefit of $730 million in tariff refunds, Home Depot CFO Richard McPhail said last month.
-"There's just so much uncertainty right now. … You think inflation, interest rates, fuel prices," McPhail said last week at a conference.
-Supply chain holes
-Among those hardest hit are manufacturers in the domestic automobile supply chain.
-Lucerne International, a privately held auto parts maker based in suburban Detroit, stopped manufacturing operations in the U.S. and canceled plans last year for a $50 million aluminum forging plant in Michigan.
-"The onset of the Trump tariffs 2.0 has just really torn holes in our global supply chains and increased costs significantly," Lucerne CEO Mary Buchzeiger said, citing higher costs for raw materials, including aluminum, as well as finished parts.
-Buchzeiger, whose firm still manufactures overseas, said she has shifted U.S. operations to warehousing, distribution, and tariff-mitigation solutions for other companies, which offer "much better margins."
-"There's no doubt that there's margin pressure for suppliers," Paul McCarthy, CEO of vehicle supplier trade association MEMA, said. "Some of it, we try to absorb … and then some of it does have to be passed on."
-Growth, as measured by earnings before interest and taxes for the top 100 auto suppliers, fell last year to 4.2%, down from more than 6% in 2021, according to consulting firm Berylls by AlixPartners. Among the top 10 automakers, that figure is 5.2%, down from nearly 8% in 2022.
-Not all auto companies have managed the additional costs. Spanish auto parts maker Grupo Antolin, which supplies components to automakers including Ford, GM, Volkswagen and Stellantis, filed for Chapter 15 bankruptcy protection in the U.S. in July. The company cited tariffs, higher raw-material and energy costs, and supply-chain disruptions as reasons for its restructuring.
-Divide in corporate America
-Better off are the giants of the corporate world, like the tech and finance companies that fill the S&P 500. These firms typically have more cash reserves and take out long-term debt, insulating them somewhat from the sting of higher rates.
-Most larger companies can thrive until borrowing costs rise much further. The pain would hit when the yield on the 10-year Treasury bond reaches 6%, up from around 5% now, according to JPMorgan's Lakos-Bujas, who cited 80 years of data.
-Borrowing costs are expected to stay higher for longer. Persistent inflation, which forced Warsh to raise the benchmark Fed rate against Trump's wishes, along with heavy borrowing from the U.S. government, is keeping upward pressure on rates.
-Across corporate America, companies are grappling with these shocks in different ways. The divide comes down to one question: Who has pricing power?
-Some industries have learned they can readily pass higher costs on to consumers, while others are caught in a catch-22: If they raise prices too much, they risk destroying demand.
-Airline executives last week boasted of higher fares as customers keep booking trips, especially abroad, allowing them to pass increased fuel costs on to travelers. Airlines scaled back growth plans, cutting less profitable flights even after the collapse of Spirit Airlines this year.
-Fewer flights can mean pricier airline tickets, and fares were up more than 23% in August from last year, according to the latest inflation read. Yet even strong demand has its limits.
-"The consumer has been incredibly, incredibly resilient," United Chief Financial Officer Mike Leskinen said Wednesday during a Morgan Stanley conference in Laguna Beach, California.
-"But there's some marginal routes that don't make sense in a higher fuel environment. So we cut them," Leskinen said. "You should see us continue to ... behave that way."
-Much of corporate America remains resilient despite higher fuel and financing costs. Profit margins for major companies hover near historic highs, propelled by strong productivity gains, labor costs that have stayed in check and surging artificial intelligence investment that is driving growth.
-But a risk of Warsh's efforts is that higher rates don't directly address the root causes of inflation: the Iran war, the Trump administration's tariffs, and the AI boom, which has driven up the prices for everything required to build and run data centers, from electricity to memory chips, copper, and land.
-Raising rates to tap the brakes on the U.S. economy could slow it down too much, or send stocks into a tailspin, said EY-Parthenon's Daco.
-"The economy is resilient, but it's exposed to growing pockets of risk," he said. "A shock could materialize faster than we all think."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-    publishedAt: "2026-09-20T12:47:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "williams-sonoma-s-stock-has-soared-in-a-d751bbc5",
-    title: "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-    titleJa: "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
-    summaryJa: "Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.",
-    bodyOriginal: `Williams-Sonoma is one of the top-performing retail stocks of the year, despite weakness in the housing market that has dampened sales of home goods.
-The company's share price had climbed about 23% year to date as of Friday, outperforming the S&P 1500 Home Furnishings index as well as competitors such as Wayfair, Arhaus, Ethan Allen and RH, formerly known as Restoration Hardware.
-"We've been working on the product, we've been working on the service and the quality, but also the storytelling," said Williams-Sonoma CEO Laura Alber in a late August interview on CNBC's "Mad Money." "And that is also what's attracting ... many new customers to our brands, and then bringing people back to our brands."
-The traditional investing thesis around home furnishings often revolves around home sales: As people buy new homes, they also purchase new furniture. In the U.S., which accounts for 96% of Williams-Sonoma's sales, consumers face a sluggish housing market driven by high interest rates, along with rising energy and food costs.
-Yet over a three-year period, Williams-Sonoma shares have climbed more than 200%.
-Fixing the underlying business fundamentals has been key to the success of the company, which includes its namesake brand along with retailers such as Pottery Barn and West Elm. In 2019, the company's operating margin, which is a key measure of profitability, was 7.9%. By 2021, it reached 17.6%.
-After a Covid-fueled housing boom, the market slumped. Williams-Sonoma's sales fell accordingly, but it proved to investors that it could sustain profitability.
-"They made a number of savvy moves, including reducing the amount of promotions and also optimizing their supply chain with home deliveries and, all in, they drove over 10% expansion in their EBIT [earnings before interest and taxes] margin during those tough years," said Peter Keith, head of consumer research at Piper Sandler.
-Those moves continue to pay off for Williams-Sonoma. Revenue was $7.81 billion in 2025, down from $8.25 billion in 2021, but its operating income was nearly the same.
-Finding growth
-Williams-Sonoma is now focused on capturing more of the existing home furnishings market, while maintaining strong profit margins.
-One of the ways it's been able to do that is selling its products at full price at a time when some rivals have run more promotions.
-"When you're not running sales, it tends to spread your overall sales volume out quite evenly ... it's really also had some positive carryout effects to their supply chain and driven margin expansion there," Keith said.
-On top of that, e-commerce — which is generally more profitable than brick-and-mortar — makes up more than two-thirds of Williams-Sonoma's sales. The company is also using AI to further grow that part of the business.
-On an earnings call in November, the company said it launched an AI sales assistant nicknamed "Olive." In August, it said customers who engage with it make purchases at three times the rate of customers who don't.
-Williams-Sonoma has also used AI to reduce costs in its supply chain and deliveries, Chief Technology and Digital Officer Sameer Hassan said on the company's first-quarter earnings call in May.
-Business-to-business, or B2B, sales have also been a bright spot for the company. Its most recent quarter ended in August saw nearly 15% growth in the category as it expands selling in areas such as cruise ships, senior living and student housing.
-Williams-Sonoma has said it believes its B2B business, which currently accounts for around $1 billion in annual sales, could double over the next several years.
-Pottery Barn turnaround
-Keith said the company's success with products such as candles, pillows and kitchen items has helped make the company less dependent on the underlying housing fundamentals.
-Still, furniture is the bread and butter of many of its brands, and it has had to take steps to improve that piece of the business.
-From fiscal 2022 to 2025, Pottery Barn, which is Williams-Sonoma's biggest brand, saw revenue fall more than 15%. In its fourth-quarter fiscal 2025 earnings call in March, the company said it leaned too heavily into decor to offset furniture declines during the post-Covid housing slump.
-Pottery Barn's same-store sales were up 5.1% in its most recent quarter ended in August.
-"This is really one of the more exciting parts of Williams-Sonoma today ... this renewed growth in Pottery Barn," Keith said.
-Handling tariffs
-Despite its relative strength in its sector, Williams-Sonoma faces challenges. Tariffs pose a risk for the company, as over 80% of its merchandise purchases in 2025 came from foreign manufacturers.
-"I really am looking forward to the tariff stabilizing. If they just stay in one place, it's going to be a lot easier for everybody, including our investors," Alber said in the August "Mad Money" interview.
-Williams-Sonoma received a tariff refund of $200 million after the Supreme Court ruled in February that President Donald Trump, who imposed tariffs under the International Emergency Economic Powers Act, did not have the authority to do so.
-Alber said the company paid back vendors and that it spent $10 million to contribute $1,000 to each employee's 401(k). The total reimbursed to vendors was $47.5 million, according to the second-quarter earnings report.
-Unlike many other retailers, Williams-Sonoma decided to keep that tariff refund separate from its reported earnings figures, which Keith said highlights the company's strong underlying fundamentals.
-"They've built a model here with multiple brands that all have growth opportunities," Keith said. "They're smaller emerging brands that have significant growth opportunities all with this omnichannel approach with stores and e-commerce, which we think is a strong competitive advantage for Williams-Sonoma in a highly, highly fragmented furniture industry."`,
-    bodyJa: `Williams-Sonoma is one of the top-performing retail stocks of the year, despite weakness in the housing market that has dampened sales of home goods.
-The company's share price had climbed about 23% year to date as of Friday, outperforming the S&P 1500 Home Furnishings index as well as competitors such as Wayfair, Arhaus, Ethan Allen and RH, formerly known as Restoration Hardware.
-"We've been working on the product, we've been working on the service and the quality, but also the storytelling," said Williams-Sonoma CEO Laura Alber in a late August interview on CNBC's "Mad Money." "And that is also what's attracting ... many new customers to our brands, and then bringing people back to our brands."
-The traditional investing thesis around home furnishings often revolves around home sales: As people buy new homes, they also purchase new furniture. In the U.S., which accounts for 96% of Williams-Sonoma's sales, consumers face a sluggish housing market driven by high interest rates, along with rising energy and food costs.
-Yet over a three-year period, Williams-Sonoma shares have climbed more than 200%.
-Fixing the underlying business fundamentals has been key to the success of the company, which includes its namesake brand along with retailers such as Pottery Barn and West Elm. In 2019, the company's operating margin, which is a key measure of profitability, was 7.9%. By 2021, it reached 17.6%.
-After a Covid-fueled housing boom, the market slumped. Williams-Sonoma's sales fell accordingly, but it proved to investors that it could sustain profitability.
-"They made a number of savvy moves, including reducing the amount of promotions and also optimizing their supply chain with home deliveries and, all in, they drove over 10% expansion in their EBIT [earnings before interest and taxes] margin during those tough years," said Peter Keith, head of consumer research at Piper Sandler.
-Those moves continue to pay off for Williams-Sonoma. Revenue was $7.81 billion in 2025, down from $8.25 billion in 2021, but its operating income was nearly the same.
-Finding growth
-Williams-Sonoma is now focused on capturing more of the existing home furnishings market, while maintaining strong profit margins.
-One of the ways it's been able to do that is selling its products at full price at a time when some rivals have run more promotions.
-"When you're not running sales, it tends to spread your overall sales volume out quite evenly ... it's really also had some positive carryout effects to their supply chain and driven margin expansion there," Keith said.
-On top of that, e-commerce — which is generally more profitable than brick-and-mortar — makes up more than two-thirds of Williams-Sonoma's sales. The company is also using AI to further grow that part of the business.
-On an earnings call in November, the company said it launched an AI sales assistant nicknamed "Olive." In August, it said customers who engage with it make purchases at three times the rate of customers who don't.
-Williams-Sonoma has also used AI to reduce costs in its supply chain and deliveries, Chief Technology and Digital Officer Sameer Hassan said on the company's first-quarter earnings call in May.
-Business-to-business, or B2B, sales have also been a bright spot for the company. Its most recent quarter ended in August saw nearly 15% growth in the category as it expands selling in areas such as cruise ships, senior living and student housing.
-Williams-Sonoma has said it believes its B2B business, which currently accounts for around $1 billion in annual sales, could double over the next several years.
-Pottery Barn turnaround
-Keith said the company's success with products such as candles, pillows and kitchen items has helped make the company less dependent on the underlying housing fundamentals.
-Still, furniture is the bread and butter of many of its brands, and it has had to take steps to improve that piece of the business.
-From fiscal 2022 to 2025, Pottery Barn, which is Williams-Sonoma's biggest brand, saw revenue fall more than 15%. In its fourth-quarter fiscal 2025 earnings call in March, the company said it leaned too heavily into decor to offset furniture declines during the post-Covid housing slump.
-Pottery Barn's same-store sales were up 5.1% in its most recent quarter ended in August.
-"This is really one of the more exciting parts of Williams-Sonoma today ... this renewed growth in Pottery Barn," Keith said.
-Handling tariffs
-Despite its relative strength in its sector, Williams-Sonoma faces challenges. Tariffs pose a risk for the company, as over 80% of its merchandise purchases in 2025 came from foreign manufacturers.
-"I really am looking forward to the tariff stabilizing. If they just stay in one place, it's going to be a lot easier for everybody, including our investors," Alber said in the August "Mad Money" interview.
-Williams-Sonoma received a tariff refund of $200 million after the Supreme Court ruled in February that President Donald Trump, who imposed tariffs under the International Emergency Economic Powers Act, did not have the authority to do so.
-Alber said the company paid back vendors and that it spent $10 million to contribute $1,000 to each employee's 401(k). The total reimbursed to vendors was $47.5 million, according to the second-quarter earnings report.
-Unlike many other retailers, Williams-Sonoma decided to keep that tariff refund separate from its reported earnings figures, which Keith said highlights the company's strong underlying fundamentals.
-"They've built a model here with multiple brands that all have growth opportunities," Keith said. "They're smaller emerging brands that have significant growth opportunities all with this omnichannel approach with stores and e-commerce, which we think is a strong competitive advantage for Williams-Sonoma in a highly, highly fragmented furniture industry."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/20/williams-sonoma-stock-rises-housing-market.html",
-    publishedAt: "2026-09-20T12:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "caruso-cabrera-the-investing-tailwinds-f-2daf4871",
-    title: "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
-    titleJa: "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
-    summaryJa: "As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&amp;P 500 year to date, up 15% compared to the S&amp;P's 11% move",
-    bodyOriginal: `As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&P 500 year to date, up 15% compared to the S&P's 11% move. It's up more than 70% since late 2024.
-Can it continue?
-In a new report from Citi, Chief Latin America Economist Ernesto Revilla answers with a qualified yes — only if the countries seize the moment.
-"Latin America is poised for take-off. Or to be more precise: the conditions for Latin America to achieve a higher rate of growth are the best they have been in decades, and it is time to capitalize on the opportunity," wrote Revilla.
-The tailwinds helping the region are the best in decades: a weak dollar, strong commodities, favorable geo-politics, and a wave of elections that have brought pro-business and pro-reform leaders to power. The most important factor in the region's success is the weaker dollar, said Revilla.
-Investors seek out "stronger currencies and returns, debt repayment is cheaper (because they borrow in dollars) and commodity prices move higher." Add modern and mature central banking which is far better at controlling inflation than in decades past.
-Real rates in Latin America are some of the highest in the world leading to carry levels as high as 10% in Brazil, the report highlights. That attracts fixed income and foreign exchange inflows. At the same time, it also leaves room for cuts, which in turn would help stocks.
-Best countries to capitalize
-Beyond the macroeconomic tailwinds, there are country-specific reasons to be optimistic according to the report, whether its Mexico benefitting from the AI boom through the export of CPUs assembled there, or Argentina undergoing the "most market friendly shift in a generation."
-Danny Osorio, CEO of Andean Capital Advisors, said private capital flows into Latin America "have been reenergized" as "the region is on more stable footing than it has been in a while." An advisor to asset managers, family offices, and sovereign wealth funds, Osorio said he is seeing repatriation of capital back to Colombia, Peru, Ecuador and Argentina.
-Also helping is the recent strengthening of ties between the U.S. and Latin America. This month, Secretary of State Marco Rubio visited Colombia, Ecuador and Peru, which are closely aligned with the current U.S. administration. His visit reflects the White House's focus on the Western Hemisphere as articulated in both the National Security Strategy and National Defense Strategy, which called for a renewal of the Monroe Doctrine — leading to the portmanteau of "Donroe Doctrine."
-This aligns with numerous elections leading to leaders who want stable currencies, increased trade, more open economies, and closer ties with the United States.
-The risks
-The region is not without risks and headwinds. The greatest potential threat — a continued rise in U.S. interest rates.
-"If the US sneezes interest rate wise, that's full-on pneumonia for Latin America," said Osorio. Both Revilla and Osorio also point to El Nino, which is leading to both droughts and flash floods, hurting the important agriculture sector in countries such as Colombia and Peru.
-Cit's Latin American equity analysts acknowledge the regions' markets have been on a strong run and "part of the opportunity has already been reflected in valuations." For it to continue, earnings will have to improve, which they believe could lead investors to increase their allocation to the region.
-"Even a modest reallocation of global capital toward the region could have a meaningful impact," wrote Andres Cardona, director, LatAm Equity Research for Citi.
-Investors in Europe have put more money into Latin America stocks already in 2026 than they have the last 16 years, according to The Financial Times, citing Morningstar figures.
-How to play it
-The most liquid play in Latin American equities is the iShares MSCI Brazil ETF (EWZ) with $8.6 billion assets under management and average daily volume of 23 million shares. The ETF is up 18% so far this year.
-The fund has heavy exposure to mining with Vale S.A., oil via Petroleo Brasileiro SA Petrobras, and financials through Itau Unibanco and Nu Holdings.
-The region is underbanked and Osorio says the expansion of financial services is a strong trend with lots of opportunity as mortgages and car loans are becoming more available than ever before.
-Nu, a digital bank started in Brazil that has since expanded to Colombia and Mexico, is rated an overweight by Morgan Stanley with a price target of $21, up from its current price just under $14. The company announced this month it will expand into the United States.
-Brazil also has a key near-term catalyst and/or risk. The country's presidential election is just weeks away. New polling shows Flavio Bolsonaro, the more business friendly candidate neck and neck with current President Lula da Silva. That poll, the first to show Bolsonaro within reach of becoming president, led to a sharp rally in the Bovespa. The first round will be October 4 with a runoff scheduled for October 25.`,
-    bodyJa: `As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&P 500 year to date, up 15% compared to the S&P's 11% move. It's up more than 70% since late 2024.
-Can it continue?
-In a new report from Citi, Chief Latin America Economist Ernesto Revilla answers with a qualified yes — only if the countries seize the moment.
-"Latin America is poised for take-off. Or to be more precise: the conditions for Latin America to achieve a higher rate of growth are the best they have been in decades, and it is time to capitalize on the opportunity," wrote Revilla.
-The tailwinds helping the region are the best in decades: a weak dollar, strong commodities, favorable geo-politics, and a wave of elections that have brought pro-business and pro-reform leaders to power. The most important factor in the region's success is the weaker dollar, said Revilla.
-Investors seek out "stronger currencies and returns, debt repayment is cheaper (because they borrow in dollars) and commodity prices move higher." Add modern and mature central banking which is far better at controlling inflation than in decades past.
-Real rates in Latin America are some of the highest in the world leading to carry levels as high as 10% in Brazil, the report highlights. That attracts fixed income and foreign exchange inflows. At the same time, it also leaves room for cuts, which in turn would help stocks.
-Best countries to capitalize
-Beyond the macroeconomic tailwinds, there are country-specific reasons to be optimistic according to the report, whether its Mexico benefitting from the AI boom through the export of CPUs assembled there, or Argentina undergoing the "most market friendly shift in a generation."
-Danny Osorio, CEO of Andean Capital Advisors, said private capital flows into Latin America "have been reenergized" as "the region is on more stable footing than it has been in a while." An advisor to asset managers, family offices, and sovereign wealth funds, Osorio said he is seeing repatriation of capital back to Colombia, Peru, Ecuador and Argentina.
-Also helping is the recent strengthening of ties between the U.S. and Latin America. This month, Secretary of State Marco Rubio visited Colombia, Ecuador and Peru, which are closely aligned with the current U.S. administration. His visit reflects the White House's focus on the Western Hemisphere as articulated in both the National Security Strategy and National Defense Strategy, which called for a renewal of the Monroe Doctrine — leading to the portmanteau of "Donroe Doctrine."
-This aligns with numerous elections leading to leaders who want stable currencies, increased trade, more open economies, and closer ties with the United States.
-The risks
-The region is not without risks and headwinds. The greatest potential threat — a continued rise in U.S. interest rates.
-"If the US sneezes interest rate wise, that's full-on pneumonia for Latin America," said Osorio. Both Revilla and Osorio also point to El Nino, which is leading to both droughts and flash floods, hurting the important agriculture sector in countries such as Colombia and Peru.
-Cit's Latin American equity analysts acknowledge the regions' markets have been on a strong run and "part of the opportunity has already been reflected in valuations." For it to continue, earnings will have to improve, which they believe could lead investors to increase their allocation to the region.
-"Even a modest reallocation of global capital toward the region could have a meaningful impact," wrote Andres Cardona, director, LatAm Equity Research for Citi.
-Investors in Europe have put more money into Latin America stocks already in 2026 than they have the last 16 years, according to The Financial Times, citing Morningstar figures.
-How to play it
-The most liquid play in Latin American equities is the iShares MSCI Brazil ETF (EWZ) with $8.6 billion assets under management and average daily volume of 23 million shares. The ETF is up 18% so far this year.
-The fund has heavy exposure to mining with Vale S.A., oil via Petroleo Brasileiro SA Petrobras, and financials through Itau Unibanco and Nu Holdings.
-The region is underbanked and Osorio says the expansion of financial services is a strong trend with lots of opportunity as mortgages and car loans are becoming more available than ever before.
-Nu, a digital bank started in Brazil that has since expanded to Colombia and Mexico, is rated an overweight by Morgan Stanley with a price target of $21, up from its current price just under $14. The company announced this month it will expand into the United States.
-Brazil also has a key near-term catalyst and/or risk. The country's presidential election is just weeks away. New polling shows Flavio Bolsonaro, the more business friendly candidate neck and neck with current President Lula da Silva. That poll, the first to show Bolsonaro within reach of becoming president, led to a sharp rally in the Bovespa. The first round will be October 4 with a runoff scheduled for October 25.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
-    publishedAt: "2026-09-20T11:59:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-ceo-jensen-huang-emerges-as-trump-04b1f35a",
-    title: "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-    titleJa: "Nvidia CEO Jensen Huang emerges as Trump's top ally in AI safety debate",
-    summaryJa: "Jensen Huang's position as the leader of the world's most valuable company, has earned him Trump's ear on the most important topics in AI.",
-    bodyOriginal: `With the debate about regulating artificial intelligence raging in Washington this week, President Donald Trump picked up the phone to call his top ally on the subject: Nvidia CEO Jensen Huang.
-"The robots are not going to be taking over the world," Trump told Huang, who'd put the president on speaker while on stage at the All-In Summit in Los Angeles on Monday. Trump repeated a point he'd made on social media: that mounting AI and data center concerns are a "hoax."
-While other tech leaders like Meta CEO Mark Zuckerberg and Amazon founder Jeff Bezos have cozied up to Trump during his second term, experts told CNBC that Huang is exercising outsized influence in the White House. He's slated to attend Trump's high-profile state dinner for Chinese President Xi Jinping next week, according to a person familiar with the matter who asked not to be named due to confidentiality.
-Nvidia has been powering the AI boom since before the launch of ChatGPT in late 2022, supplying the graphics processing units used by OpenAI, Anthropic and others to train their models and run large workloads. Revenue surged to $215 billion in the latest fiscal year, up from $17 billion in 2021.
-Huang's position as the leader of the world's most valuable company and the chipmaker at the heart of the AI boom has earned him the president's ear on the most important AI topics.
-"Trump just likes winners, and Jensen's very good at speaking his language," Samuel Hammond, director of AI policy at the think tank Foundation for American Innovation, said in an interview.
-An Nvidia spokesperson declined to comment, and White House representatives didn't respond to a request for comment.
-Whether joining Trump for a candlelit dinner at his Mar-a-Lago club in Florida, or closing a keynote by thanking guests for "making America great again," Huang has learned how to appeal to the president. Trump and Huang have appeared together at least six times in public since the start of the second term, including trips to Saudi Arabia and the U.K., and a recent trip to China via Air Force One.
-Huang is pushing for U.S. AI to move faster while some of Nvidia's most important customers — namely OpenAI and Anthropic — are ramping up pressure on governments to regulate the technology as fears spread about its potential dangers.
-An Anthropic researcher, Jacob Coxon, who previously worked at OpenAI, said he quit his job earlier this month because he feared top AI labs are "gambling with our lives." Coxon's resignation set off a firestorm on social media, prompting calls for increased oversight from more than 20 members of Congress.
-Concerns were already swirling after OpenAI disclosed a significant security incident in July, when two of its models escaped containment, accessed the open internet, and breached the online AI repository Hugging Face to get a better score on a benchmark test.
-Anthropic CEO Dario Amodei cited that episode in a bombshell essay a week ago, urging AI developers to slow how quickly they improve their most advanced AI models. Amodei encouraged companies to cooperate directly with the U.S. government, and reiterated his desire for "well-considered regulation of AI."
-Amodei's "pacing" proposal was endorsed by other industry leaders, including OpenAI CEO Sam Altman, SpaceX CEO Elon Musk and Google DeepMind Chair Demis Hassabis, who agreed on the need for a slowdown and additional oversight.
-'Did no harm'
-Huang took a different position.
-In public appearances over the past week, the Nvidia CEO brushed off concerns about AI's risks. He said that predictions of doom aren't grounded in science, and that model developers are responsible for securing their products before releasing them.
-The solution to safety concerns, Huang said in Scotland on Thursday, is "good old-fashioned engineering."
-"There were incidents, and those incidents, thankfully, did no harm," Huang said.
-Huang's position is largely shared publicly by David Sacks, a venture capitalist who previously served as Trump's AI and crypto czar. Sacks co-hosts the "All-In" Podcast, which produced Monday's event that featured the Trump-Huang call.
-"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!," Trump wrote in a post on Truth Social on the same day as the summit.
-Before the recent uproar over safety, Nvidia focused its Washington outreach on export controls.
-Last year, Nvidia was pushing to sell its AI chips to restricted countries, including China, drawing sharp criticism from U.S. lawmakers.
-Some members of Congress, including Sens. Elizabeth Warren, D-Mass., and Josh Hawley, R-Mo., have cautioned that selling Nvidia hardware to China could threaten U.S. national security and narrow America's lead in AI.
-In December, Huang's strategy paid off. Trump announced that Nvidia was granted permission to ship its H200 chip to Chinese customers, and that the U.S. would collect a 25% fee in exchange.
-The H200 announcement drew intense pushback from both sides of the aisle. Huang declined an invitation from Warren to testify before the Senate Banking Committee in June. The following month, a top U.S. trade official confirmed that H200 sales to China were underway.
-Profit motive
-Nvidia and Huang argued that banning Nvidia exports to China would be against American interests, in part because such a move would spur the world's second-largest economy and computing market to develop its own cutting-edge AI chips. The H200 is no longer Nvidia's most powerful chip, as it has shipped two generations of its newer Blackwell processors in the U.S.
-But Nvidia's fate wasn't entirely up to U.S. lawmakers, as China's regulators mostly blocked imports of the H200 chips.
-Nvidia's clear profit motive leads some experts to say it takes the concerns expressed by model developers more seriously than those of the chipmaker, because the labs are the ones responsible for the actual AI technology.
-"Nvidia is the most aggressive in terms of, let's just make money," said Andrew Yoon, a researcher at CivAI, a nonprofit warning about the dangers of AI. "At every turn, they are really trying to just make sure whatever happens is good for Nvidia's bottom line."
-Nvidia's ambitions in China will loom large during the state dinner on Thursday, when Trump, Huang and Xi will all be in the same room. The White House is also planning a meeting with major AI executives to coincide with the event, according to CNN. Other industry executives, including Altman, are expected to attend.
-But Huang's presence carries extra weight. During a House hearing on Monday, Treasury Secretary Scott Bessent was asked if Trump understands the threat AI presents.
-"I would just say the president is completely aligned with Jensen Huang, the CEO of Nvidia," Bessent said.
-WATCH: Nvidia CEO Jensen Huang says safety is an engineering problem`,
-    bodyJa: `With the debate about regulating artificial intelligence raging in Washington this week, President Donald Trump picked up the phone to call his top ally on the subject: Nvidia CEO Jensen Huang.
-"The robots are not going to be taking over the world," Trump told Huang, who'd put the president on speaker while on stage at the All-In Summit in Los Angeles on Monday. Trump repeated a point he'd made on social media: that mounting AI and data center concerns are a "hoax."
-While other tech leaders like Meta CEO Mark Zuckerberg and Amazon founder Jeff Bezos have cozied up to Trump during his second term, experts told CNBC that Huang is exercising outsized influence in the White House. He's slated to attend Trump's high-profile state dinner for Chinese President Xi Jinping next week, according to a person familiar with the matter who asked not to be named due to confidentiality.
-Nvidia has been powering the AI boom since before the launch of ChatGPT in late 2022, supplying the graphics processing units used by OpenAI, Anthropic and others to train their models and run large workloads. Revenue surged to $215 billion in the latest fiscal year, up from $17 billion in 2021.
-Huang's position as the leader of the world's most valuable company and the chipmaker at the heart of the AI boom has earned him the president's ear on the most important AI topics.
-"Trump just likes winners, and Jensen's very good at speaking his language," Samuel Hammond, director of AI policy at the think tank Foundation for American Innovation, said in an interview.
-An Nvidia spokesperson declined to comment, and White House representatives didn't respond to a request for comment.
-Whether joining Trump for a candlelit dinner at his Mar-a-Lago club in Florida, or closing a keynote by thanking guests for "making America great again," Huang has learned how to appeal to the president. Trump and Huang have appeared together at least six times in public since the start of the second term, including trips to Saudi Arabia and the U.K., and a recent trip to China via Air Force One.
-Huang is pushing for U.S. AI to move faster while some of Nvidia's most important customers — namely OpenAI and Anthropic — are ramping up pressure on governments to regulate the technology as fears spread about its potential dangers.
-An Anthropic researcher, Jacob Coxon, who previously worked at OpenAI, said he quit his job earlier this month because he feared top AI labs are "gambling with our lives." Coxon's resignation set off a firestorm on social media, prompting calls for increased oversight from more than 20 members of Congress.
-Concerns were already swirling after OpenAI disclosed a significant security incident in July, when two of its models escaped containment, accessed the open internet, and breached the online AI repository Hugging Face to get a better score on a benchmark test.
-Anthropic CEO Dario Amodei cited that episode in a bombshell essay a week ago, urging AI developers to slow how quickly they improve their most advanced AI models. Amodei encouraged companies to cooperate directly with the U.S. government, and reiterated his desire for "well-considered regulation of AI."
-Amodei's "pacing" proposal was endorsed by other industry leaders, including OpenAI CEO Sam Altman, SpaceX CEO Elon Musk and Google DeepMind Chair Demis Hassabis, who agreed on the need for a slowdown and additional oversight.
-'Did no harm'
-Huang took a different position.
-In public appearances over the past week, the Nvidia CEO brushed off concerns about AI's risks. He said that predictions of doom aren't grounded in science, and that model developers are responsible for securing their products before releasing them.
-The solution to safety concerns, Huang said in Scotland on Thursday, is "good old-fashioned engineering."
-"There were incidents, and those incidents, thankfully, did no harm," Huang said.
-Huang's position is largely shared publicly by David Sacks, a venture capitalist who previously served as Trump's AI and crypto czar. Sacks co-hosts the "All-In" Podcast, which produced Monday's event that featured the Trump-Huang call.
-"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!," Trump wrote in a post on Truth Social on the same day as the summit.
-Before the recent uproar over safety, Nvidia focused its Washington outreach on export controls.
-Last year, Nvidia was pushing to sell its AI chips to restricted countries, including China, drawing sharp criticism from U.S. lawmakers.
-Some members of Congress, including Sens. Elizabeth Warren, D-Mass., and Josh Hawley, R-Mo., have cautioned that selling Nvidia hardware to China could threaten U.S. national security and narrow America's lead in AI.
-In December, Huang's strategy paid off. Trump announced that Nvidia was granted permission to ship its H200 chip to Chinese customers, and that the U.S. would collect a 25% fee in exchange.
-The H200 announcement drew intense pushback from both sides of the aisle. Huang declined an invitation from Warren to testify before the Senate Banking Committee in June. The following month, a top U.S. trade official confirmed that H200 sales to China were underway.
-Profit motive
-Nvidia and Huang argued that banning Nvidia exports to China would be against American interests, in part because such a move would spur the world's second-largest economy and computing market to develop its own cutting-edge AI chips. The H200 is no longer Nvidia's most powerful chip, as it has shipped two generations of its newer Blackwell processors in the U.S.
-But Nvidia's fate wasn't entirely up to U.S. lawmakers, as China's regulators mostly blocked imports of the H200 chips.
-Nvidia's clear profit motive leads some experts to say it takes the concerns expressed by model developers more seriously than those of the chipmaker, because the labs are the ones responsible for the actual AI technology.
-"Nvidia is the most aggressive in terms of, let's just make money," said Andrew Yoon, a researcher at CivAI, a nonprofit warning about the dangers of AI. "At every turn, they are really trying to just make sure whatever happens is good for Nvidia's bottom line."
-Nvidia's ambitions in China will loom large during the state dinner on Thursday, when Trump, Huang and Xi will all be in the same room. The White House is also planning a meeting with major AI executives to coincide with the event, according to CNN. Other industry executives, including Altman, are expected to attend.
-But Huang's presence carries extra weight. During a House hearing on Monday, Treasury Secretary Scott Bessent was asked if Trump understands the threat AI presents.
-"I would just say the president is completely aligned with Jensen Huang, the CEO of Nvidia," Bessent said.
-WATCH: Nvidia CEO Jensen Huang says safety is an engineering problem`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/20/nvidia-ceo-jensen-huang-emerges-as-trumps-top-ally-in-ai-debate.html",
-    publishedAt: "2026-09-20T11:25:08+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "billionaire-man-united-owner-loses-moral-480764b6",
-    title: "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-    titleJa: "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-    summaryJa: "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
-    bodyOriginal: `Billionaire Man United owner loses moral high ground after tax exile, Labour chair says
-- Published
-The Labour Party chair has said Sir Jim Ratcliffe loses "the moral high ground" by making statements about the UK while living in tax exile.
-Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman's comments that the UK was "on the slide" with a "pinch of salt".
-Sir Jim, the founder of petrochemical giant Ineos and Manchester United's co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.
-He has been a tax resident in Monaco since 2020 and said "things would have to get better" in the UK for him to return.
-When questioned over the remarks, Phillipson said Sir Jim loses "the moral high ground" by "making these kinds of pronouncements while choosing to make decisions, that he is within his rights to make, to become a tax exile".
-Pushed on whether it bothers her that people who create jobs and pay a lot of tax were leaving the UK, the minister said she was "optimistic about our country's prospects".
-Other high profile billionaires have left the UK, including including steel tycoon Lakshmi Mittal and most recently the UK's third biggest taxpayer, hedge-fund boss Chris Rokos.
-But, Philipson argued the country was in a good position ahead of the Budget next month, and Andy Burnham has shown a "sense of hope and optimism whilst recognising that many families are still struggling and there is more to do."
-"Of course, there are challenges, including big international headwinds, but I fundamentally believe that we are in a strong position going into this budget because of the decisions taken over the last two years, and I believe our country's best days lie ahead of us," she said.
-Philipson declined to speculate over whether there would be tax rises in the Budget on 28 October, and said the government remained committed to being disciplined about its spending rules.
-Billionaire Man United owner says he has lost confidence in the UK
-- Published1 day ago
-UK's third-biggest taxpayer to leave for Greece
-- Published8 September
-Sir Jim, whose wealth is estimated to be about £15bn, also criticised the government for failing to invest further in North Sea oil and gas, claiming it amounted to "insanity".
-"You would expect [the government] to exploit our natural resources and we're clearly not doing that. We're shutting it down.
-"If you tax everybody to death, they're all going to leave. And that's what's happening," he added.
-Sir Jim's company, Ineos, operates the Forties pipeline which transports about 30% of the UK's North Sea oil.
-The government spokesperson said that oil and gas would play an important role in the UK "for decades to come", but they added: "The transition to homegrown clean power is the only way to deliver energy and financial security for families and businesses."
-Related topics
-- Published3 days ago
-- Published1 hour ago`,
-    bodyJa: `Billionaire Man United owner loses moral high ground after tax exile, Labour chair says
-- Published
-The Labour Party chair has said Sir Jim Ratcliffe loses "the moral high ground" by making statements about the UK while living in tax exile.
-Speaking to Sunday with Laura Kuenssberg, Bridget Phillipson said she would take the billionaire businessman's comments that the UK was "on the slide" with a "pinch of salt".
-Sir Jim, the founder of petrochemical giant Ineos and Manchester United's co-owner, told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.
-He has been a tax resident in Monaco since 2020 and said "things would have to get better" in the UK for him to return.
-When questioned over the remarks, Phillipson said Sir Jim loses "the moral high ground" by "making these kinds of pronouncements while choosing to make decisions, that he is within his rights to make, to become a tax exile".
-Pushed on whether it bothers her that people who create jobs and pay a lot of tax were leaving the UK, the minister said she was "optimistic about our country's prospects".
-Other high profile billionaires have left the UK, including including steel tycoon Lakshmi Mittal and most recently the UK's third biggest taxpayer, hedge-fund boss Chris Rokos.
-But, Philipson argued the country was in a good position ahead of the Budget next month, and Andy Burnham has shown a "sense of hope and optimism whilst recognising that many families are still struggling and there is more to do."
-"Of course, there are challenges, including big international headwinds, but I fundamentally believe that we are in a strong position going into this budget because of the decisions taken over the last two years, and I believe our country's best days lie ahead of us," she said.
-Philipson declined to speculate over whether there would be tax rises in the Budget on 28 October, and said the government remained committed to being disciplined about its spending rules.
-Billionaire Man United owner says he has lost confidence in the UK
-- Published1 day ago
-UK's third-biggest taxpayer to leave for Greece
-- Published8 September
-Sir Jim, whose wealth is estimated to be about £15bn, also criticised the government for failing to invest further in North Sea oil and gas, claiming it amounted to "insanity".
-"You would expect [the government] to exploit our natural resources and we're clearly not doing that. We're shutting it down.
-"If you tax everybody to death, they're all going to leave. And that's what's happening," he added.
-Sir Jim's company, Ineos, operates the Forties pipeline which transports about 30% of the UK's North Sea oil.
-The government spokesperson said that oil and gas would play an important role in the UK "for decades to come", but they added: "The transition to homegrown clean power is the only way to deliver energy and financial security for families and businesses."
-Related topics
-- Published3 days ago
-- Published1 hour ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-20T11:22:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 7,
-  },
-  {
-    id: "chiltern-railways-renationalised-after-3-4fa93d46",
-    title: "Chiltern Railways renationalised after 30 years",
-    titleJa: "Chiltern Railways renationalised after 30 years",
-    summaryJa: "It joins Great British Railways as part of government plans to save money and improve services.",
-    bodyOriginal: `Train operator renationalised after 30 years
-- Published
-Chiltern Railways has been brought into public ownership after 30 years as a private company.
-It is the 10th rail company now under the Great British Railways (GBR), the government's programme of public ownership, which it says will save money and improve services.
-Chiltern Railways, which was privatised in 1996, operates services from London Marylebone to Buckinghamshire, Oxfordshire and Warwickshire, as well as destinations in the West Midlands.
-The government said the transfer into public ownership would tackle overcrowding by introducing 25 additional daily services from December.
-The start of the first day of public ownership saw some disruption, with Chiltern warning the line between Birmingham and Marylebone, external was "expected to be much busier" due to the late notice of the West Coast Main Line closure affecting services at London Euston.
-The operator said it would run more trains than usual between the stations with significantly enhanced capacity.
-The Department for Transport (DfT) said the additional weekday services under GBR would provide 10,000 extra seats.
-They would include half hourly services during weekdays on the Chiltern Main Line between London and Birmingham, as well as more weekend services.
-Rail minister Lord Peter Hendy met staff at Marylebone Station on Thursday alongside the first Chiltern train in the GBR livery.
-"The most difficult thing on Chiltern is that it's shorter capacity and those extra trains and those extra seats will make a real difference to people travelling on this line up here from Marylebone every day," he said.
-The rollout of the new trains would also improve accessibility and provide better Wi-Fi on board, the rail operator said.
-From Sunday, passengers whose train had been cancelled can use another operator's service two hours either side of their train to get to their destination at no extra cost, it added.
-Chiltern's interim managing director Tony Baxter said: "Sunday is a significant milestone for Chiltern Railways and we look forward to working together with the wider rail industry to deliver a better railway for everyone in Great Britain."
-The aim is for GBR to operate all passenger services by the end of 2027.
-Great Western Railway's services will be the next operator to be brought into public ownership, on 13 December.
-Lord Henry said: "Every transfer into public ownership gives us the chance to tackle the bread-and-butter issues people care about – more frequent, comfortable trains that turn up on time.
-"As we set up Great British Railways (GBR), we're putting passengers first.
-"It will not happen overnight, but we will build a railway the country can trust and rely on and that will create growth, jobs and homes."
-Get in touch
-Tell us which stories we should cover in Birmingham and the Black Country
-Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.
-- Published29 May
-- Published2 days ago
-- Published30 January`,
-    bodyJa: `Train operator renationalised after 30 years
-- Published
-Chiltern Railways has been brought into public ownership after 30 years as a private company.
-It is the 10th rail company now under the Great British Railways (GBR), the government's programme of public ownership, which it says will save money and improve services.
-Chiltern Railways, which was privatised in 1996, operates services from London Marylebone to Buckinghamshire, Oxfordshire and Warwickshire, as well as destinations in the West Midlands.
-The government said the transfer into public ownership would tackle overcrowding by introducing 25 additional daily services from December.
-The start of the first day of public ownership saw some disruption, with Chiltern warning the line between Birmingham and Marylebone, external was "expected to be much busier" due to the late notice of the West Coast Main Line closure affecting services at London Euston.
-The operator said it would run more trains than usual between the stations with significantly enhanced capacity.
-The Department for Transport (DfT) said the additional weekday services under GBR would provide 10,000 extra seats.
-They would include half hourly services during weekdays on the Chiltern Main Line between London and Birmingham, as well as more weekend services.
-Rail minister Lord Peter Hendy met staff at Marylebone Station on Thursday alongside the first Chiltern train in the GBR livery.
-"The most difficult thing on Chiltern is that it's shorter capacity and those extra trains and those extra seats will make a real difference to people travelling on this line up here from Marylebone every day," he said.
-The rollout of the new trains would also improve accessibility and provide better Wi-Fi on board, the rail operator said.
-From Sunday, passengers whose train had been cancelled can use another operator's service two hours either side of their train to get to their destination at no extra cost, it added.
-Chiltern's interim managing director Tony Baxter said: "Sunday is a significant milestone for Chiltern Railways and we look forward to working together with the wider rail industry to deliver a better railway for everyone in Great Britain."
-The aim is for GBR to operate all passenger services by the end of 2027.
-Great Western Railway's services will be the next operator to be brought into public ownership, on 13 December.
-Lord Henry said: "Every transfer into public ownership gives us the chance to tackle the bread-and-butter issues people care about – more frequent, comfortable trains that turn up on time.
-"As we set up Great British Railways (GBR), we're putting passengers first.
-"It will not happen overnight, but we will build a railway the country can trust and rely on and that will create growth, jobs and homes."
-Get in touch
-Tell us which stories we should cover in Birmingham and the Black Country
-Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.
-- Published29 May
-- Published2 days ago
-- Published30 January`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c68xk701d975o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-20T10:45:39+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a8/live/e6a8b090-b2ac-11f1-bc1f-3f186ca4140c.png",
-    readTime: 8,
   },
 ];
 
