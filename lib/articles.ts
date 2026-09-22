@@ -15,6 +15,302 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-administration-removes-around-760-572f4833",
+    title: "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
+    titleJa: "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
+    summaryJa: "Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.",
+    bodyOriginal: `The Centers for Medicare and Medicaid Services said on Tuesday it canceled roughly 315,000 Affordable Care Act marketplace enrollments covering about 760,000 people last month, alleging unauthorized enrollments, characterized by Vice President JD Vance as "rampant fraud."
+The enforcement action also involves verifying roughly 419,000 people to ensure they are legal U.S. residents and meet the income threshold requirements to receive benefits from the public exchanges of the ACA, also known as Obamacare, according to a CMS release.
+The vice president's White House Task Force to Eliminate Fraud led the cancellations, and it estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies. Speaking at a Tuesday briefing, Vance accused the Biden administration of maintaining a system that enabled fraud.
+"You have a system where, on the one hand, brokers are paid money to feed patients into the system, while on the other hand, the government isn't even checking whether the people enrolled are actually eligible for the program. What do you have? Of course, rampant, rampant fraud," Vance said.
+It is unclear how many of those 315,000 enrollments involved people who were not eligible to receive coverage, or whether the Biden administration hadn't actually verified they could enroll. The action comes as the Trump administration has made widespread accusations of fraud in U.S. health programs and restricted funding and eligibility for the federal-state Medicaid program.
+During the briefing Tuesday, CMS Administrator Dr. Mehmet Oz claimed that around 35% of people currently in the Obamacare system "have never used the program." He said those people never used a prescription or saw a doctor.
+The law has an individual mandate, or requirement that most people buy insurance, in part because having healthier people who use less care in the patient pool makes the system more affordable. However, the federal penalty for going without coverage has been $0 since 2019.
+Obamacare plans, created by President Barack Obama's Affordable Care Act, offer subsidies based on household size and estimated yearly income. President Donald Trump failed to overturn the legislation during his first term, but has proposed modifications that would make those insurance plans less comprehensive.
+Oz argued that bad actors were attracted to ACA marketplace subsidies during the Covid-19 pandemic, when federal spending surged dramatically. He pointed to enrollment growth from about 10 million people before the pandemic to roughly 22 million after, arguing that weakened safeguards and a lack of enforcement by the Biden administration contributed to improper enrollments.
+Obamacare plans experienced "unprecedented enrollment growth from 2021 to 2024," according to a June report from the Office of the Assistant Secretary for Planning and Evaluation, the principal advisor to the Secretary of the Department of Health and Human Services on policy development. The report said of this enrollment that "nearly half ... was suspected to be improper, phantom, or fraudulent." The report defined improper or fraudulent enrollment as individuals misstating their income to gain access to free plans.
+The spike in enrollment came after the American Rescue Plan, a Covid response bill passed in 2021, enhanced available subsidies to make healthcare more affordable during the crisis. Those broader credits were extended but later expired at the end of 2025, raising premiums for many covered by ACA exchanges.
+An estimated 19.2 million Americans are currently enrolled in Obamacare plans, according to the report.`,
+    bodyJa: `The Centers for Medicare and Medicaid Services said on Tuesday it canceled roughly 315,000 Affordable Care Act marketplace enrollments covering about 760,000 people last month, alleging unauthorized enrollments, characterized by Vice President JD Vance as "rampant fraud."
+The enforcement action also involves verifying roughly 419,000 people to ensure they are legal U.S. residents and meet the income threshold requirements to receive benefits from the public exchanges of the ACA, also known as Obamacare, according to a CMS release.
+The vice president's White House Task Force to Eliminate Fraud led the cancellations, and it estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies. Speaking at a Tuesday briefing, Vance accused the Biden administration of maintaining a system that enabled fraud.
+"You have a system where, on the one hand, brokers are paid money to feed patients into the system, while on the other hand, the government isn't even checking whether the people enrolled are actually eligible for the program. What do you have? Of course, rampant, rampant fraud," Vance said.
+It is unclear how many of those 315,000 enrollments involved people who were not eligible to receive coverage, or whether the Biden administration hadn't actually verified they could enroll. The action comes as the Trump administration has made widespread accusations of fraud in U.S. health programs and restricted funding and eligibility for the federal-state Medicaid program.
+During the briefing Tuesday, CMS Administrator Dr. Mehmet Oz claimed that around 35% of people currently in the Obamacare system "have never used the program." He said those people never used a prescription or saw a doctor.
+The law has an individual mandate, or requirement that most people buy insurance, in part because having healthier people who use less care in the patient pool makes the system more affordable. However, the federal penalty for going without coverage has been $0 since 2019.
+Obamacare plans, created by President Barack Obama's Affordable Care Act, offer subsidies based on household size and estimated yearly income. President Donald Trump failed to overturn the legislation during his first term, but has proposed modifications that would make those insurance plans less comprehensive.
+Oz argued that bad actors were attracted to ACA marketplace subsidies during the Covid-19 pandemic, when federal spending surged dramatically. He pointed to enrollment growth from about 10 million people before the pandemic to roughly 22 million after, arguing that weakened safeguards and a lack of enforcement by the Biden administration contributed to improper enrollments.
+Obamacare plans experienced "unprecedented enrollment growth from 2021 to 2024," according to a June report from the Office of the Assistant Secretary for Planning and Evaluation, the principal advisor to the Secretary of the Department of Health and Human Services on policy development. The report said of this enrollment that "nearly half ... was suspected to be improper, phantom, or fraudulent." The report defined improper or fraudulent enrollment as individuals misstating their income to gain access to free plans.
+The spike in enrollment came after the American Rescue Plan, a Covid response bill passed in 2021, enhanced available subsidies to make healthcare more affordable during the crisis. Those broader credits were extended but later expired at the end of 2025, raising premiums for many covered by ACA exchanges.
+An estimated 19.2 million Americans are currently enrolled in Obamacare plans, according to the report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
+    publishedAt: "2026-09-22T21:07:21+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "why-apple-could-soon-join-nvidia-in-the-e3947638",
+    title: "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+    titleJa: "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
+    summaryJa: "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
+    bodyOriginal: `A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year`,
+    bodyJa: `A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
+    publishedAt: "2026-09-22T20:54:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-20070537",
+    readTime: 2,
+  },
+  {
+    id: "cisco-stock-sinks-5-after-piper-sandler-5ba4f15f",
+    title: "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+    titleJa: "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
+    summaryJa: "Cisco stock hit a record over the summer, but Piper Sandler analysts expressed concerns that growth is peaking in the industry.",
+    bodyOriginal: `Cisco stock dropped almost 5% on Tuesday as Piper Sandler cut its price target for the networking equipment vendor to $125 from $132.
+Piper analysts cited lower price-to-earnings multiple expectations stemming from concerns that growth is peaking in the industry.
+The stock hit a record high in June, and is up 57% over the past 12 months as revenue has surged along with the artificial intelligence boom. The shares closed on Tuesday at $106.44.
+Last month, Cisco posted strong fourth-quarter earnings that beat estimates, reporting $17.25 billion in revenue that topped a $16.8 billion estimate, according to LSEG.
+The company issued strong guidance for its FY2027 during its last earnings call in August, but shares sank as it was met with a lackluster reception from analysts.
+While Cisco projected nearly 15% revenue growth, analysts argued sales growth would dip back into single digits. Piper analysts called the projection "conservative" in the context of greater market demand.
+"We're starting a new fiscal year. We're operating in incredible markets," Robbins told CNBC's Jim Cramer last month. "But it's also a time that we're going to start the year being a little bit prudent."
+Hyperscalers made up about $4 billion in revenue in fiscal year 2026, and Cisco expects that number to almost double in fiscal 2027 to $7.5 billion.
+WATCH: AI agents need supervision`,
+    bodyJa: `Cisco stock dropped almost 5% on Tuesday as Piper Sandler cut its price target for the networking equipment vendor to $125 from $132.
+Piper analysts cited lower price-to-earnings multiple expectations stemming from concerns that growth is peaking in the industry.
+The stock hit a record high in June, and is up 57% over the past 12 months as revenue has surged along with the artificial intelligence boom. The shares closed on Tuesday at $106.44.
+Last month, Cisco posted strong fourth-quarter earnings that beat estimates, reporting $17.25 billion in revenue that topped a $16.8 billion estimate, according to LSEG.
+The company issued strong guidance for its FY2027 during its last earnings call in August, but shares sank as it was met with a lackluster reception from analysts.
+While Cisco projected nearly 15% revenue growth, analysts argued sales growth would dip back into single digits. Piper analysts called the projection "conservative" in the context of greater market demand.
+"We're starting a new fiscal year. We're operating in incredible markets," Robbins told CNBC's Jim Cramer last month. "But it's also a time that we're going to start the year being a little bit prudent."
+Hyperscalers made up about $4 billion in revenue in fiscal year 2026, and Cisco expects that number to almost double in fiscal 2027 to $7.5 billion.
+WATCH: AI agents need supervision`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
+    publishedAt: "2026-09-22T20:49:25+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "u-s-regulators-rush-to-write-crypto-rule-eee791f6",
+    title: "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+    titleJa: "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
+    summaryJa: "State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.",
+    bodyOriginal: `State and federal regulators are rushing to fill the void in U.S. cryptocurrency regulation after the Clarity Act, a comprehensive set of proposed rules for digital assets, stalled in the Senate.
+Just two days after the Clarity Act failed to advance in the Senate, the Securities and Exchange Commission expanded its crypto rulebook under its existing authority. The agency issued an order creating a temporary pathway for trading certain tokenized stocks, inching financial markets closer to 24/7 trading.
+The same day, the Commodity Futures Trading Commission submitted a crypto rulemaking proposal to the White House for review. The details of the proposal weren't made public, but a post by the Office of Management and Budget confirmed the rules were pending review.
+The crypto industry, which had supported the Clarity Act, says it is eager for regulatory guidelines for the developing industry, as it has worked to shape the regulatory environment to its liking.
+"When you're thinking about traditional finance entering in and using some of this technology, they're being held back right now because there is this regulatory uncertainty," Summer Mersinger, CEO of the Blockchain Association and a former CFTC commissioner, said. "Having the regulators provide some sort of certainty is going to really open up the industry to more investment, more integration into traditional finance, and really grow the sector."
+And Coinbase CEO Brian Armstrong, who is a key industry player urging Congress to act on the Clarity Act, told CNBC after a failed Senate procedural vote on Sept. 15: "At this point, I don't think we can wait on Congress and the Senate." Senate banking committee Chairman Tim Scott, R-S.C., also called on federal agencies to set "clear rules of the road" for digital assets until Congress legislates.
+But new rules from federal agencies don't come quickly.
+When asked how the agency plans to regulate crypto, the CFTC pointed CNBC to Chair Michael Selig's Sept. 16 statement where he said, "President Trump promised to deliver a future-proof crypto asset regulatory market structure one way or the other, and we will help him get the job done using our existing statutory authorities."
+CNBC also reached out to the SEC regarding next steps for regulating the digital asset industry, and a spokesperson said the agency will consider a proposal to "modernize the rules around custody of investment adviser client assets and fund assets, including to address crypto assets."
+Caroline Pham, who served as acting CFTC chair from the day President Donald Trump took office for his second term until December, told CNBC that "a plan B to move forward at the agency level was always in the cards." Pham is now the CEO of MoonPay Institutional and chief legal officer and chief administrative officer for MoonPay, a crypto services provider.
+"You have to have a contingency plan," she said, explaining that the CFTC and SEC took that into account with the work the agencies have been doing since Trump's second term began. That includes the "Project Crypto" initiative introduced in July 2025 to modernize securities regulations and align the SEC and CFTC's crypto rules.
+In August 2025, Pham announced the CFTC would start implementing the recommendations from the President's Working Group on Digital Asset Markets.
+States target crypto scams
+As Washington grapples with crypto regulation, states are also fighting for the chance to regulate the asset class.
+In a Sept. 14 letter, a bipartisan coalition of state attorneys general urged the Senate Banking Committee to oppose the Clarity Act, arguing the bill displaces states' abilities to regulate securities markets.
+"We write to urge the Senate to expressly preserve the police powers of the states and ensure that the states remain armed with the tools necessary to protect the American people from predatory scammers," they wrote to Scott and the panel's top Democrat Sen. Elizabeth Warren, of Massachusetts.
+Aaron Klein, senior fellow in economic studies at the Brookings Institution, told CNBC he doesn't think states are best positioned to regulate national and international capital markets.
+"Capital market regulation, I think, needs to be done at the federal level," Klein, who was previously a top staff member for the Senate banking committee, said. "In terms of stopping fraud and scams, states have a lot of authority."
+He said that in the absence of a federal framework for crypto, states should be more aggressively monitoring payment processing and prosecuting criminals.
+Mersinger noted that state enforcement comes after a crime is already committed.
+"What we really need is the oversight from the federal side to make sure that we're not having these situations where [a] state AG has to come in and file a lawsuit because there was some bad actor involved or some of their constituents in their state were somehow harmed," she said.
+The midterm election is now taking center stage, but lawmakers haven't completely abandoned the Clarity Act. Sen. Thom Tillis, R-N.C., revised his vote to oppose the bill, allowing him to bring a motion to reconsider the legislation in the Senate.
+— CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
+    bodyJa: `State and federal regulators are rushing to fill the void in U.S. cryptocurrency regulation after the Clarity Act, a comprehensive set of proposed rules for digital assets, stalled in the Senate.
+Just two days after the Clarity Act failed to advance in the Senate, the Securities and Exchange Commission expanded its crypto rulebook under its existing authority. The agency issued an order creating a temporary pathway for trading certain tokenized stocks, inching financial markets closer to 24/7 trading.
+The same day, the Commodity Futures Trading Commission submitted a crypto rulemaking proposal to the White House for review. The details of the proposal weren't made public, but a post by the Office of Management and Budget confirmed the rules were pending review.
+The crypto industry, which had supported the Clarity Act, says it is eager for regulatory guidelines for the developing industry, as it has worked to shape the regulatory environment to its liking.
+"When you're thinking about traditional finance entering in and using some of this technology, they're being held back right now because there is this regulatory uncertainty," Summer Mersinger, CEO of the Blockchain Association and a former CFTC commissioner, said. "Having the regulators provide some sort of certainty is going to really open up the industry to more investment, more integration into traditional finance, and really grow the sector."
+And Coinbase CEO Brian Armstrong, who is a key industry player urging Congress to act on the Clarity Act, told CNBC after a failed Senate procedural vote on Sept. 15: "At this point, I don't think we can wait on Congress and the Senate." Senate banking committee Chairman Tim Scott, R-S.C., also called on federal agencies to set "clear rules of the road" for digital assets until Congress legislates.
+But new rules from federal agencies don't come quickly.
+When asked how the agency plans to regulate crypto, the CFTC pointed CNBC to Chair Michael Selig's Sept. 16 statement where he said, "President Trump promised to deliver a future-proof crypto asset regulatory market structure one way or the other, and we will help him get the job done using our existing statutory authorities."
+CNBC also reached out to the SEC regarding next steps for regulating the digital asset industry, and a spokesperson said the agency will consider a proposal to "modernize the rules around custody of investment adviser client assets and fund assets, including to address crypto assets."
+Caroline Pham, who served as acting CFTC chair from the day President Donald Trump took office for his second term until December, told CNBC that "a plan B to move forward at the agency level was always in the cards." Pham is now the CEO of MoonPay Institutional and chief legal officer and chief administrative officer for MoonPay, a crypto services provider.
+"You have to have a contingency plan," she said, explaining that the CFTC and SEC took that into account with the work the agencies have been doing since Trump's second term began. That includes the "Project Crypto" initiative introduced in July 2025 to modernize securities regulations and align the SEC and CFTC's crypto rules.
+In August 2025, Pham announced the CFTC would start implementing the recommendations from the President's Working Group on Digital Asset Markets.
+States target crypto scams
+As Washington grapples with crypto regulation, states are also fighting for the chance to regulate the asset class.
+In a Sept. 14 letter, a bipartisan coalition of state attorneys general urged the Senate Banking Committee to oppose the Clarity Act, arguing the bill displaces states' abilities to regulate securities markets.
+"We write to urge the Senate to expressly preserve the police powers of the states and ensure that the states remain armed with the tools necessary to protect the American people from predatory scammers," they wrote to Scott and the panel's top Democrat Sen. Elizabeth Warren, of Massachusetts.
+Aaron Klein, senior fellow in economic studies at the Brookings Institution, told CNBC he doesn't think states are best positioned to regulate national and international capital markets.
+"Capital market regulation, I think, needs to be done at the federal level," Klein, who was previously a top staff member for the Senate banking committee, said. "In terms of stopping fraud and scams, states have a lot of authority."
+He said that in the absence of a federal framework for crypto, states should be more aggressively monitoring payment processing and prosecuting criminals.
+Mersinger noted that state enforcement comes after a crime is already committed.
+"What we really need is the oversight from the federal side to make sure that we're not having these situations where [a] state AG has to come in and file a lawsuit because there was some bad actor involved or some of their constituents in their state were somehow harmed," she said.
+The midterm election is now taking center stage, but lawmakers haven't completely abandoned the Clarity Act. Sen. Thom Tillis, R-N.C., revised his vote to oppose the bill, allowing him to bring a motion to reconsider the legislation in the Senate.
+— CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
+    publishedAt: "2026-09-22T20:46:52+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-says-he-would-back-ban-on-diesel-e-096679cf",
+    title: "Trump says he would back ban on diesel exports",
+    titleJa: "Trump says he would back ban on diesel exports",
+    summaryJa: "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
+    bodyOriginal: `Trump says he would back ban on diesel exports
+- Published
+US President Donald Trump has said he would back proposals to halt American diesel exports in a bid to ease prices for drivers at the pumps.
+His comments come after Republicans lawmakers put pressure on the president ahead of November's mid-term elections to curb exports, as diesel prices soar to record highs in the US.
+Speaking on the sidelines at the United Nations General Assembly, Trump suggested keeping domestic supplies inside the US could also ease broader petrol prices.
+"I've called for that too. I've said let's not send out the diesel. We make a lot of diesel. That could have a little bit of an effect on regular automobile gasoline," he said .
+US Treasury Secretary Scott Bessent confirmed officials were assessing "whether a full or partial ban would work" without disrupting refinery capabilities.
+National average diesel prices surpassed $6.50 (£4.87) a gallon on Tuesday according to AAA data, a new high.
+The conflict in the Middle East has constrained global oil supplies, putting pressure on pump prices.
+The surge in the cost of diesel has sparked political urgency ahead of crucial mid-term elections on 3 November, with several Republicans pressing the administration to restrict the fuel's export to ease financial strain on voters.
+US Representative Ashley Hinson, a Republican running for Senate in Iowa, said on Monday that the state's consumers were "being squeezed and shouldn't have to foot the bill at the pump."
+In Alaska on Tuesday, Senator Dan Sullivan similarly urged for a "temporary pause of American diesel and exports" to rebuild domestic reserves.
+Adding to the global market volatility, Ukraine's targeting of Russian energy facilities has knocked out the country's refining capacity.
+"It is a serious hit on the Russians," Trump said during a meeting with Ukrainian counterpart Volodymyr Zelensky on Tuesday. "It's also a serious hit on the price of diesel."
+Trump confirmed he would discuss the strikes with the Ukrainian president, alongside broader efforts to negotiate an end to the conflict. "I think it's going to happen," he said.
+Kyiv has intensified drone attacks on Russian processing plants in recent months to choke off the Kremlin's primary source of war funding.
+Because Russia ranks among the world's leading diesel suppliers, reduced refining capacity – combined with Moscow's own strict export bans – has severely squeezed global reserves.
+While restricting US exports could offer short-term relief for American drivers, a ban may risk pushing up prices internationally.
+The US exports roughly 1.3 million barrels of diesel per day – nearly a quarter of its refining output.
+Cutting these shipments could put pressure on supplies for Western allies, including the UK and the Netherlands, which have relied on American fuel to cover deficits left by sanctions on Russian energy.
+Related topics
+- Published1 hour ago
+- Published2 hours ago`,
+    bodyJa: `Trump says he would back ban on diesel exports
+- Published
+US President Donald Trump has said he would back proposals to halt American diesel exports in a bid to ease prices for drivers at the pumps.
+His comments come after Republicans lawmakers put pressure on the president ahead of November's mid-term elections to curb exports, as diesel prices soar to record highs in the US.
+Speaking on the sidelines at the United Nations General Assembly, Trump suggested keeping domestic supplies inside the US could also ease broader petrol prices.
+"I've called for that too. I've said let's not send out the diesel. We make a lot of diesel. That could have a little bit of an effect on regular automobile gasoline," he said .
+US Treasury Secretary Scott Bessent confirmed officials were assessing "whether a full or partial ban would work" without disrupting refinery capabilities.
+National average diesel prices surpassed $6.50 (£4.87) a gallon on Tuesday according to AAA data, a new high.
+The conflict in the Middle East has constrained global oil supplies, putting pressure on pump prices.
+The surge in the cost of diesel has sparked political urgency ahead of crucial mid-term elections on 3 November, with several Republicans pressing the administration to restrict the fuel's export to ease financial strain on voters.
+US Representative Ashley Hinson, a Republican running for Senate in Iowa, said on Monday that the state's consumers were "being squeezed and shouldn't have to foot the bill at the pump."
+In Alaska on Tuesday, Senator Dan Sullivan similarly urged for a "temporary pause of American diesel and exports" to rebuild domestic reserves.
+Adding to the global market volatility, Ukraine's targeting of Russian energy facilities has knocked out the country's refining capacity.
+"It is a serious hit on the Russians," Trump said during a meeting with Ukrainian counterpart Volodymyr Zelensky on Tuesday. "It's also a serious hit on the price of diesel."
+Trump confirmed he would discuss the strikes with the Ukrainian president, alongside broader efforts to negotiate an end to the conflict. "I think it's going to happen," he said.
+Kyiv has intensified drone attacks on Russian processing plants in recent months to choke off the Kremlin's primary source of war funding.
+Because Russia ranks among the world's leading diesel suppliers, reduced refining capacity – combined with Moscow's own strict export bans – has severely squeezed global reserves.
+While restricting US exports could offer short-term relief for American drivers, a ban may risk pushing up prices internationally.
+The US exports roughly 1.3 million barrels of diesel per day – nearly a quarter of its refining output.
+Cutting these shipments could put pressure on supplies for Western allies, including the UK and the Netherlands, which have relied on American fuel to cover deficits left by sanctions on Russian energy.
+Related topics
+- Published1 hour ago
+- Published2 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-22T20:41:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c38/live/f49ca2e0-b6c3-11f1-8a9f-c7141bd7738d.jpg",
+    readTime: 7,
+  },
+  {
+    id: "trump-administration-is-examining-whethe-5a38137f",
+    title: "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+    titleJa: "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
+    summaryJa: "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.",
+    bodyOriginal: `The Trump administration is looking into whether implementing a diesel export ban would ease record high prices for the critical fuel, Treasury Secretary Scott Bessent said Tuesday.
+"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work," Bessent said at a bilateral meeting between President Donald Trump and Ukrainian President Volodymyr Zelenskyy at the United Nations.
+Trump said Tuesday he's advocated for a diesel export ban during internal administration deliberations. The president said a decision would quickly be made "one way or another" on whether to implement a ban.
+"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters. Republican lawmakers including Sen. Chuck Grassley of Iowa have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.
+Diesel in the U.S. has surged to a record high $6.53 per gallon, almost $3 above the level last year, according to data from AAA. In California, diesel costs $8.44 per gallon.
+Fuel prices have jumped as the wars in Eastern Europe and the Middle East have slashed global refining capacity.
+Ukraine's attacks on Russian refineries have forced Moscow to implement a diesel export ban. Refineries in the Middle East have also come under attack from Iran and its Houthi allies. And product exports through the Strait of Hormuz are constrained due to Iranian threats to tankers.
+U.S. refiners have rushed to take advantage, ramping up diesel exports to help supply the world and reap sky-high profits. Diesel cost around $207 a barrel Tuesday, more than $100 above the price of crude oil.
+Diesel plays an essential role in the economy. It fuels the trucks and trains that deliver goods to market and the farm equipment that harvests crops. Higher diesel prices trickle down to consumers in higher grocery bills and what they pay for consumer products.`,
+    bodyJa: `The Trump administration is looking into whether implementing a diesel export ban would ease record high prices for the critical fuel, Treasury Secretary Scott Bessent said Tuesday.
+"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work," Bessent said at a bilateral meeting between President Donald Trump and Ukrainian President Volodymyr Zelenskyy at the United Nations.
+Trump said Tuesday he's advocated for a diesel export ban during internal administration deliberations. The president said a decision would quickly be made "one way or another" on whether to implement a ban.
+"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters. Republican lawmakers including Sen. Chuck Grassley of Iowa have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.
+Diesel in the U.S. has surged to a record high $6.53 per gallon, almost $3 above the level last year, according to data from AAA. In California, diesel costs $8.44 per gallon.
+Fuel prices have jumped as the wars in Eastern Europe and the Middle East have slashed global refining capacity.
+Ukraine's attacks on Russian refineries have forced Moscow to implement a diesel export ban. Refineries in the Middle East have also come under attack from Iran and its Houthi allies. And product exports through the Strait of Hormuz are constrained due to Iranian threats to tankers.
+U.S. refiners have rushed to take advantage, ramping up diesel exports to help supply the world and reap sky-high profits. Diesel cost around $207 a barrel Tuesday, more than $100 above the price of crude oil.
+Diesel plays an essential role in the economy. It fuels the trucks and trains that deliver goods to market and the farm equipment that harvests crops. Higher diesel prices trickle down to consumers in higher grocery bills and what they pay for consumer products.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
+    publishedAt: "2026-09-22T19:59:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "royal-caribbean-nears-3-billion-deal-to-2188e73d",
+    title: "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+    titleJa: "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
+    summaryJa: "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
+    bodyOriginal: `Royal Caribbean is nearing a $3 billion deal to take a 50% equity stake in Sandals, according to a person familiar with the matter.
+The person, who spoke on the condition of anonymity to discuss talks that had not been made public, said the deal values the Caribbean resort chain at $6 billion and that it was expected to boost for growth for both companies. The talks are ongoing and may not result in a deal, according to the person.
+Royal Caribbean shares fell roughly 6% on the news, which was first reported by the Financial Times.
+The company's stock is down roughly 25% over the past year after it trimmed its forecasts for revenue growth on softer demand for European sailings.
+The cruise company has been intent on diversifying beyond cruises and becoming a leader overall in vacations. Royal Caribbean already operates several private destinations for its cruise passengers, but it has been working to build out those land offerings.
+Sandals and its Beaches brand, meanwhile, have more than a dozen properties across the Caribbean, which would give Royal Caribbean a foothold in all-inclusive options.
+Neither Royal Caribbean nor Sandals immediately responded to a request for comment.`,
+    bodyJa: `Royal Caribbean is nearing a $3 billion deal to take a 50% equity stake in Sandals, according to a person familiar with the matter.
+The person, who spoke on the condition of anonymity to discuss talks that had not been made public, said the deal values the Caribbean resort chain at $6 billion and that it was expected to boost for growth for both companies. The talks are ongoing and may not result in a deal, according to the person.
+Royal Caribbean shares fell roughly 6% on the news, which was first reported by the Financial Times.
+The company's stock is down roughly 25% over the past year after it trimmed its forecasts for revenue growth on softer demand for European sailings.
+The cruise company has been intent on diversifying beyond cruises and becoming a leader overall in vacations. Royal Caribbean already operates several private destinations for its cruise passengers, but it has been working to build out those land offerings.
+Sandals and its Beaches brand, meanwhile, have more than a dozen properties across the Caribbean, which would give Royal Caribbean a foothold in all-inclusive options.
+Neither Royal Caribbean nor Sandals immediately responded to a request for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
+    publishedAt: "2026-09-22T19:51:13+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "trump-discloses-more-than-1-100-july-tra-d04a9150",
+    title: "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+    titleJa: "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
+    summaryJa: "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
+    bodyOriginal: `President Donald Trump disclosed, in a filing released Tuesday, more than 1,100 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, as his sprawling investment portfolio underwent another month of heavy trading.
+The 1,156 purchases and sales totaled between roughly $79 million and $270 million, according to a CNBC analysis of Trump's latest financial disclosure. Purchases totaled at least $43.6 million, while sales came to at least $35.6 million, CNBC calculated, in what appears to be a broad reshuffling of his portfolio.
+The largest transactions were July 20 sales of between $5 million and $25 million each of Microsoft and Amazon, according to the filing. Three days later, Trump reported buying between $100,001 and $250,000 of Microsoft and between $1,001 and $15,000 of Amazon.
+The same July 20 entries show sales of between $1 million and $5 million of Oracle, along with purchases that included between $500,001 and $1 million of Nvidia.
+The filing also shows a $250,001 to $500,000 sale of Northrop Grumman that day, when Trump signed an executive order tightening supply chain requirements for defense contractors and restricting waivers for certain critical materials sourced from China and other covered countries. The disclosure does not show what time the trade occurred or who made the investment decision.
+While the filing shows activity conducted on Trump's behalf, broad value ranges obscure his exact holdings. Still, heavy trading has been a feature of his second term. In June, Trump disclosed 1,051 transactions totaling between $78.1 million and $263.1 million, including purchases and sales of stocks, bonds and exchange-traded funds.
+The president's 2025 annual financial disclosure showed more than 21,000 securities trades across eight accounts holding at least $858 million, compared with 86 stock transactions disclosed during his first year in office in 2017.
+The White House has repeatedly defended the trades and said independent advisors manage the portfolio without input from Trump or his family. Recent presidents, however, have generally divested individual stocks or relied on blind trusts or diversified funds to avoid even the appearance of conflicts of interest.
+"President Trump's stock and bond portfolio is independently managed by third-party financial institutions," White House spokesman Davis Ingle said in response to CNBC's questions about Trump's latest disclosure. "Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold."
+The Trump Organization did not immediately respond to a request for comment on the latest disclosure.
+The July 20 transactions were part of a wider rotation including purchases of between $1 million and $5 million each of Intuit, Marvell Technology, Salesforce and Church & Dwight. Trump also bought between $250,000 and $500,000 of taser maker Axon Enterprises, which works frequently with Immigration and Customs Enforcement.
+The president also continued moving money among ETFs.
+On July 8, Trump disclosed purchases worth between $1 million and $5 million each of the State Street SPDR Bloomberg International Treasury Bond ETF, Fidelity MSCI Communication Services Index ETF, Vanguard Short-Term Bond Index Fund ETF and Vanguard Dividend Appreciation Index Fund ETF.
+That same day, he sold between $1 million and $5 million each of the iShares U.S. Treasury Bond ETF, State Street Communication Services Select Sector SPDR ETF and iShares International Treasury Bond ETF.
+Ten-year yields climbed on July 8, led by soaring oil prices, after Trump said at the NATO summit in Turkey that he thought a ceasefire with Iran was over.
+Trump also made several large purchases of municipal and other bonds. The filing shows purchases worth between $1 million and $5 million each of two Miami-Dade County aviation revenue bonds, a St. Louis County school district bond and a Main Street Natural Gas bond.`,
+    bodyJa: `President Donald Trump disclosed, in a filing released Tuesday, more than 1,100 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, as his sprawling investment portfolio underwent another month of heavy trading.
+The 1,156 purchases and sales totaled between roughly $79 million and $270 million, according to a CNBC analysis of Trump's latest financial disclosure. Purchases totaled at least $43.6 million, while sales came to at least $35.6 million, CNBC calculated, in what appears to be a broad reshuffling of his portfolio.
+The largest transactions were July 20 sales of between $5 million and $25 million each of Microsoft and Amazon, according to the filing. Three days later, Trump reported buying between $100,001 and $250,000 of Microsoft and between $1,001 and $15,000 of Amazon.
+The same July 20 entries show sales of between $1 million and $5 million of Oracle, along with purchases that included between $500,001 and $1 million of Nvidia.
+The filing also shows a $250,001 to $500,000 sale of Northrop Grumman that day, when Trump signed an executive order tightening supply chain requirements for defense contractors and restricting waivers for certain critical materials sourced from China and other covered countries. The disclosure does not show what time the trade occurred or who made the investment decision.
+While the filing shows activity conducted on Trump's behalf, broad value ranges obscure his exact holdings. Still, heavy trading has been a feature of his second term. In June, Trump disclosed 1,051 transactions totaling between $78.1 million and $263.1 million, including purchases and sales of stocks, bonds and exchange-traded funds.
+The president's 2025 annual financial disclosure showed more than 21,000 securities trades across eight accounts holding at least $858 million, compared with 86 stock transactions disclosed during his first year in office in 2017.
+The White House has repeatedly defended the trades and said independent advisors manage the portfolio without input from Trump or his family. Recent presidents, however, have generally divested individual stocks or relied on blind trusts or diversified funds to avoid even the appearance of conflicts of interest.
+"President Trump's stock and bond portfolio is independently managed by third-party financial institutions," White House spokesman Davis Ingle said in response to CNBC's questions about Trump's latest disclosure. "Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold."
+The Trump Organization did not immediately respond to a request for comment on the latest disclosure.
+The July 20 transactions were part of a wider rotation including purchases of between $1 million and $5 million each of Intuit, Marvell Technology, Salesforce and Church & Dwight. Trump also bought between $250,000 and $500,000 of taser maker Axon Enterprises, which works frequently with Immigration and Customs Enforcement.
+The president also continued moving money among ETFs.
+On July 8, Trump disclosed purchases worth between $1 million and $5 million each of the State Street SPDR Bloomberg International Treasury Bond ETF, Fidelity MSCI Communication Services Index ETF, Vanguard Short-Term Bond Index Fund ETF and Vanguard Dividend Appreciation Index Fund ETF.
+That same day, he sold between $1 million and $5 million each of the iShares U.S. Treasury Bond ETF, State Street Communication Services Select Sector SPDR ETF and iShares International Treasury Bond ETF.
+Ten-year yields climbed on July 8, led by soaring oil prices, after Trump said at the NATO summit in Turkey that he thought a ceasefire with Iran was over.
+Trump also made several large purchases of municipal and other bonds. The filing shows purchases worth between $1 million and $5 million each of two Miami-Dade County aviation revenue bonds, a St. Louis County school district bond and a Main Street Natural Gas bond.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
+    publishedAt: "2026-09-22T19:30:03+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "want-to-retire-with-more-money-leave-the-45ce5eb2",
     title: "Want to retire with more money? Leave the country for work early in your career.",
     titleJa: "Want to retire with more money? Leave the country for work early in your career.",
@@ -1823,554 +2119,6 @@ Nevertheless, it is clear that impatience with the Nats failures is growing, bot
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg",
     readTime: 10,
-  },
-  {
-    id: "trump-admin-won-t-give-ai-leaders-a-liab-fe9c7e12",
-    title: "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-    titleJa: "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
-    summaryJa: "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
-    bodyOriginal: `Artificial intelligence developers "need to take responsibility for themselves" instead of expecting the federal government to give them a "liability shield," Treasury Secretary Scott Bessent told CNBC on Monday.
-"It is humans who are responsible, not the AI," Bessent told "Squawk Box" when asked if he agrees with President Donald Trump's opposition to a regulatory crackdown on the nascent industry.
-Bessent's comments came as some AI leaders have raised alarms about the risks posed by their rapidly advancing models. But their calls for a potential slowdown of the industry have received pushback from Trump, who strongly supports the industry's expansion in the U.S.
-Bessent was also asked about interest rates, his talks over the weekend with his Chinese counterpart, He Lifeng, as well as Trump's attempt to ban media outlets from the White House.
-The Treasury secretary met with the Chinese vice premier ahead of the summit in Washington later this week between Trump and Chinese President Xi Jinping.
-The Treasury chief last week touted a Sept. 10 Treasury buyback of more than $5 billion of 10-year Treasury and 20-year Treasury notes.
-Since the U.S. and Israel's war against Iran began in late February, the benchmark 10-year Treasury's yield — which moves inversely to the note's price — has increased by about 100 basis points, rising above 5% last week for the first time since 2007.
-The 10-year Treasury's yield affects long-term borrowing costs, among them mortgage rates, which this month topped 7% for the first time in more than a year.
-In testimony to the House Financial Services Committee on Sept. 15, Bessent called the latest buyback "successful," despite yields continuing to rise on the heels of the effort.
-"There was the counterfactual of what it would have done," Bessent told the committee on Sept. 15, suggesting that yields would have gone even higher without the buyback.
-"Since President Trump has come in, [the U.S. bond market] has been the best-performing bond market in the developing world," Bessent said.
-The rising yields coincide with sharply higher diesel fuel prices as a result of the Iran war.
-Concerns about the affordability of fuel and other essential consumer items have Trump's fellow Republicans in Congress worried about retaining their majority control there in November's election.
-At the midterm Republican National Convention on Sept. 9, Trump vowed every U.S. citizen adult would get a "dividend" of $5,000 if Republicans kept control of both the Senate and House of Representatives.
-On Sept. 16, the Federal Reserve's Federal Open Market Committee for the first time since 2023 raised benchmark interest rates to a target range of 3.75% to 4% in what the committee said was an effort to reduce what it termed "elevated inflation."
-Trump, who appointed Fed Chairman Kevin Warsh, has repeatedly demanded that the Fed cut rates. But the president told reporters he spoke with Warsh before the FOMC meeting and said, "You might as well vote with the board. It's not going to matter.'"`,
-    bodyJa: `Artificial intelligence developers "need to take responsibility for themselves" instead of expecting the federal government to give them a "liability shield," Treasury Secretary Scott Bessent told CNBC on Monday.
-"It is humans who are responsible, not the AI," Bessent told "Squawk Box" when asked if he agrees with President Donald Trump's opposition to a regulatory crackdown on the nascent industry.
-Bessent's comments came as some AI leaders have raised alarms about the risks posed by their rapidly advancing models. But their calls for a potential slowdown of the industry have received pushback from Trump, who strongly supports the industry's expansion in the U.S.
-Bessent was also asked about interest rates, his talks over the weekend with his Chinese counterpart, He Lifeng, as well as Trump's attempt to ban media outlets from the White House.
-The Treasury secretary met with the Chinese vice premier ahead of the summit in Washington later this week between Trump and Chinese President Xi Jinping.
-The Treasury chief last week touted a Sept. 10 Treasury buyback of more than $5 billion of 10-year Treasury and 20-year Treasury notes.
-Since the U.S. and Israel's war against Iran began in late February, the benchmark 10-year Treasury's yield — which moves inversely to the note's price — has increased by about 100 basis points, rising above 5% last week for the first time since 2007.
-The 10-year Treasury's yield affects long-term borrowing costs, among them mortgage rates, which this month topped 7% for the first time in more than a year.
-In testimony to the House Financial Services Committee on Sept. 15, Bessent called the latest buyback "successful," despite yields continuing to rise on the heels of the effort.
-"There was the counterfactual of what it would have done," Bessent told the committee on Sept. 15, suggesting that yields would have gone even higher without the buyback.
-"Since President Trump has come in, [the U.S. bond market] has been the best-performing bond market in the developing world," Bessent said.
-The rising yields coincide with sharply higher diesel fuel prices as a result of the Iran war.
-Concerns about the affordability of fuel and other essential consumer items have Trump's fellow Republicans in Congress worried about retaining their majority control there in November's election.
-At the midterm Republican National Convention on Sept. 9, Trump vowed every U.S. citizen adult would get a "dividend" of $5,000 if Republicans kept control of both the Senate and House of Representatives.
-On Sept. 16, the Federal Reserve's Federal Open Market Committee for the first time since 2023 raised benchmark interest rates to a target range of 3.75% to 4% in what the committee said was an effort to reduce what it termed "elevated inflation."
-Trump, who appointed Fed Chairman Kevin Warsh, has repeatedly demanded that the Fed cut rates. But the president told reporters he spoke with Warsh before the FOMC meeting and said, "You might as well vote with the board. It's not going to matter.'"`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
-    publishedAt: "2026-09-21T12:35:02+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "trump-to-be-sued-by-ms-now-cnn-politico-3790439f",
-    title: "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-    titleJa: "Trump to be sued by MS NOW, CNN, Politico to reverse White House ban",
-    summaryJa: "President Trump cited what he called \"cumulative stories\" by the three media outlets for his ban of them, saying, \"You get sick of it.\"",
-    bodyOriginal: `MS NOW, CNN and Politico are set to sue President Donald Trump on Monday morning and to ask a federal judge to reverse his total ban on those three media outlets from the White House.
-Journalists from the outlets were prevented from entering the White House on Saturday, a day after Trump announced he would bar them from working there.
-"This ban could not be a more direct assault on the First Amendment nor a more blatant violation of our most fundamental constitutional principles," the lawsuit says, arguing that the ban has already "severely impeded the ability of" the three outlets to cover Trump and his administration.
-"Presidents from the earliest days of the Republic have disagreed with and complained about the tenor and content of press coverage of their administrations," the civil complaint, set to be filed in U.S. District Court in Washington, notes.
-But "the Constitution protects the liberty and property interests that news organizations and White House reporters have in their press credentials and the access those credentials afford them to cover the White House for the benefit of the public," the suit says. "No official can deprive Plaintiffs of those interests on a whim — with no notice, no process, and no warning — as the President did here."
-Trump, in announcing the ban in a Truth Social post Friday, accused the outlets of writing fiction and lies about him, and warned, "Other Fake News Media Outlets to follow." The president cited what he called "cumulative stories" by the three news organizations, adding, "You get sick of it."
-On Monday morning, after the lawsuit was announced, Trump in a Truth Social post said, "The White House is not instituting an assault on the Free Press, something which I cherish."
-"It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America," Trump wrote. "It is corrupt, purposeful, pervasive, fully coordinated, and totally out of control."
-"It is a threat to our National Security, and must be stopped, NOW!" he said. Trump had not previously cited national security in justifying the ban.
-The suit alleges the ban violates the Due Process Clause of the U.S. Constitution by failing to give the outlets advance notice and an opportunity to challenge it, without establishing clear standards for Trump's decision.
-The complaint also says the ban violates the Constitution's First Amendment by retaliating "against protected newsgathering and speech."
-And it says the ban violates the First Amendment for a separate reason: it bars the three media outlets "from a nonpublic forum for unlawful reasons." Those reasons include so-called viewpoint discrimination, or targeting the outlets for their perceived "motivating ideology or the opinion or perspective."
-In a joint statement on Monday, the three outlets said, "This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes."
-Without notice or process, the White House revoked our journalists' credentials because it objected to our reporting," the statement said. "Left unchallenged, this threatens press freedom and the public's right to independent journalism free from government interference."
-The White House and the Department of Justice did not immediately respond to a request for comment from CNBC about the lawsuit.
-The three outlets will file a joint motion asking a judge to issue a temporary restraining order barring Trump and other defendants from taking further action to enforce the ban and requiring them to immediately restore so-called hard pass press credentials to the plaintiffs, which give their reporters access to the White House.
-In addition to Trump, the defendants are his assistant for communications, Steven Cheung, White House Chief of Staff Susan Wiles, and Sean Curran, director of the U.S. Secret Service.
-The named plaintiffs are the three outlets and three White House reporters: Akayla Gardner of MS NOW; Betsy Klein of CNN; and Politico's Cheyenne Haslett. All three journalists were denied entry to the White House on Saturday and had their hard passes taken away by a Secret Service officer there, the suit says.
-On Sunday night, the White House removed CNN from its scheduled rotation as the pool network for the White House travel pool. The pool is set to travel Monday with Trump for his visit to New York for the United Nations General Assembly.
-The lawsuit cites the White House's removal of CNN from Monday's pool schedule as an example of the ban "causing irreparable harm to" the outlets.
-The suit is being filed in the same court where The Associated Press has a pending lawsuit against the White House for a ban on that wire service's journalists working in certain restricted spaces in the White House, including the Oval Office and on Air Force One. The White House's partial ban on the AP came in February 2025 after the wire service refused to reflect Trump's renaming of the Gulf of Mexico to the Gulf of America in how it routinely refers to that international body of water.
-Trump told reporters on Friday that the latest ban is worth implementing, even if it is overturned by a judge.
-"I think it's good to point it out, whether it survives or doesn't," he said.
-The Knight First Amendment Institute at Columbia University, in a statement after Trump's announcement, suggested he would lose a legal challenge to the ban because of the U.S. Constitution's First Amendment protections for the media.
-"The First Amendment prohibits the president from punishing journalists because he doesn't like their coverage, just as it prohibits him from punishing universities because he doesn't like the courses they offer, or from punishing law firms because he doesn't like the clients they represent," said Jameel Jaffer, executive director of the institute.
-"With so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now," Jaffer said.
-MS NOW, in a statement Saturday, had said, "The White House belongs to the American people and the decisions made inside are funded by our tax dollars."
-"MS NOW intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy," the network said. MS NOW also vowed to "continue to report on the President, the administration, and the issues that impact the American people."
-CNN and Politico issued similar statements, which referred to their constitutional right to report news without government interference.
-White House Correspondents' Association President Jacqui Heinrich, in a statement Saturday, said, "The American people, through a free and independent press, must be able to scrutinize those elected to power, regardless of whether government officials view it favorably."
-"That's why courts have repeatedly held that once the White House provides access to journalists, it cannot deny that access arbitrarily or based on the content of their reporting," Heinrich, a Fox News correspondent, said.
-In the AP's lawsuit, Judge Trevor McFadden ruled in April 2025 that Trump's partial ban of the agency's journalists violated the First Amendment and ordered that the AP be given the same access as other members of the presidential press pool to the Oval Office, other restricted areas of the White House and Air Force One.
-"The Court simply holds that under the First Amendment, if the Government opens its doors to some journalists — be it to the Oval Office, the East Room, or elsewhere — it cannot then shut those doors to other journalists because of their viewpoints," wrote McFadden, who was appointed to the federal bench by Trump.
-"The Constitution requires no less," the judge said.
-Rather than allowing The Associated Press access to places the White House press pool goes to cover the president, the White House said it would abolish the so-called wire pool, which included the AP, Bloomberg and Reuters. The wire pool for decades had traveled with presidents to bring news coverage to news consumers around the world. It has not been reinstated.
-A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit, in a 2-1 vote in June 2025, blocked McFadden's ruling from taking effect while Trump appealed it.
-The panel heard oral arguments in the appeal in November, but has not issued a decision.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    bodyJa: `MS NOW, CNN and Politico are set to sue President Donald Trump on Monday morning and to ask a federal judge to reverse his total ban on those three media outlets from the White House.
-Journalists from the outlets were prevented from entering the White House on Saturday, a day after Trump announced he would bar them from working there.
-"This ban could not be a more direct assault on the First Amendment nor a more blatant violation of our most fundamental constitutional principles," the lawsuit says, arguing that the ban has already "severely impeded the ability of" the three outlets to cover Trump and his administration.
-"Presidents from the earliest days of the Republic have disagreed with and complained about the tenor and content of press coverage of their administrations," the civil complaint, set to be filed in U.S. District Court in Washington, notes.
-But "the Constitution protects the liberty and property interests that news organizations and White House reporters have in their press credentials and the access those credentials afford them to cover the White House for the benefit of the public," the suit says. "No official can deprive Plaintiffs of those interests on a whim — with no notice, no process, and no warning — as the President did here."
-Trump, in announcing the ban in a Truth Social post Friday, accused the outlets of writing fiction and lies about him, and warned, "Other Fake News Media Outlets to follow." The president cited what he called "cumulative stories" by the three news organizations, adding, "You get sick of it."
-On Monday morning, after the lawsuit was announced, Trump in a Truth Social post said, "The White House is not instituting an assault on the Free Press, something which I cherish."
-"It is instituting an assault on the FAKE NEWS, something that has grown like Cancer in our beloved United States of America," Trump wrote. "It is corrupt, purposeful, pervasive, fully coordinated, and totally out of control."
-"It is a threat to our National Security, and must be stopped, NOW!" he said. Trump had not previously cited national security in justifying the ban.
-The suit alleges the ban violates the Due Process Clause of the U.S. Constitution by failing to give the outlets advance notice and an opportunity to challenge it, without establishing clear standards for Trump's decision.
-The complaint also says the ban violates the Constitution's First Amendment by retaliating "against protected newsgathering and speech."
-And it says the ban violates the First Amendment for a separate reason: it bars the three media outlets "from a nonpublic forum for unlawful reasons." Those reasons include so-called viewpoint discrimination, or targeting the outlets for their perceived "motivating ideology or the opinion or perspective."
-In a joint statement on Monday, the three outlets said, "This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes."
-Without notice or process, the White House revoked our journalists' credentials because it objected to our reporting," the statement said. "Left unchallenged, this threatens press freedom and the public's right to independent journalism free from government interference."
-The White House and the Department of Justice did not immediately respond to a request for comment from CNBC about the lawsuit.
-The three outlets will file a joint motion asking a judge to issue a temporary restraining order barring Trump and other defendants from taking further action to enforce the ban and requiring them to immediately restore so-called hard pass press credentials to the plaintiffs, which give their reporters access to the White House.
-In addition to Trump, the defendants are his assistant for communications, Steven Cheung, White House Chief of Staff Susan Wiles, and Sean Curran, director of the U.S. Secret Service.
-The named plaintiffs are the three outlets and three White House reporters: Akayla Gardner of MS NOW; Betsy Klein of CNN; and Politico's Cheyenne Haslett. All three journalists were denied entry to the White House on Saturday and had their hard passes taken away by a Secret Service officer there, the suit says.
-On Sunday night, the White House removed CNN from its scheduled rotation as the pool network for the White House travel pool. The pool is set to travel Monday with Trump for his visit to New York for the United Nations General Assembly.
-The lawsuit cites the White House's removal of CNN from Monday's pool schedule as an example of the ban "causing irreparable harm to" the outlets.
-The suit is being filed in the same court where The Associated Press has a pending lawsuit against the White House for a ban on that wire service's journalists working in certain restricted spaces in the White House, including the Oval Office and on Air Force One. The White House's partial ban on the AP came in February 2025 after the wire service refused to reflect Trump's renaming of the Gulf of Mexico to the Gulf of America in how it routinely refers to that international body of water.
-Trump told reporters on Friday that the latest ban is worth implementing, even if it is overturned by a judge.
-"I think it's good to point it out, whether it survives or doesn't," he said.
-The Knight First Amendment Institute at Columbia University, in a statement after Trump's announcement, suggested he would lose a legal challenge to the ban because of the U.S. Constitution's First Amendment protections for the media.
-"The First Amendment prohibits the president from punishing journalists because he doesn't like their coverage, just as it prohibits him from punishing universities because he doesn't like the courses they offer, or from punishing law firms because he doesn't like the clients they represent," said Jameel Jaffer, executive director of the institute.
-"With so many courts having ruled against him on exactly this point, you'd think President Trump would have learned this lesson by now," Jaffer said.
-MS NOW, in a statement Saturday, had said, "The White House belongs to the American people and the decisions made inside are funded by our tax dollars."
-"MS NOW intends to take any and all steps necessary to defend our First Amendment rights and the essential role of independent journalism in our democracy," the network said. MS NOW also vowed to "continue to report on the President, the administration, and the issues that impact the American people."
-CNN and Politico issued similar statements, which referred to their constitutional right to report news without government interference.
-White House Correspondents' Association President Jacqui Heinrich, in a statement Saturday, said, "The American people, through a free and independent press, must be able to scrutinize those elected to power, regardless of whether government officials view it favorably."
-"That's why courts have repeatedly held that once the White House provides access to journalists, it cannot deny that access arbitrarily or based on the content of their reporting," Heinrich, a Fox News correspondent, said.
-In the AP's lawsuit, Judge Trevor McFadden ruled in April 2025 that Trump's partial ban of the agency's journalists violated the First Amendment and ordered that the AP be given the same access as other members of the presidential press pool to the Oval Office, other restricted areas of the White House and Air Force One.
-"The Court simply holds that under the First Amendment, if the Government opens its doors to some journalists — be it to the Oval Office, the East Room, or elsewhere — it cannot then shut those doors to other journalists because of their viewpoints," wrote McFadden, who was appointed to the federal bench by Trump.
-"The Constitution requires no less," the judge said.
-Rather than allowing The Associated Press access to places the White House press pool goes to cover the president, the White House said it would abolish the so-called wire pool, which included the AP, Bloomberg and Reuters. The wire pool for decades had traveled with presidents to bring news coverage to news consumers around the world. It has not been reinstated.
-A three-judge panel of the U.S. Court of Appeals for the District of Columbia Circuit, in a 2-1 vote in June 2025, blocked McFadden's ruling from taking effect while Trump appealed it.
-The panel heard oral arguments in the appeal in November, but has not issued a decision.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
-    publishedAt: "2026-09-21T12:02:29+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "bitcoin-hits-highest-level-since-january-5c6c3621",
-    title: "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
-    titleJa: "Bitcoin hits highest level since January at $85,000, as the market debates whether the 'crypto winter' is over",
-    summaryJa: "Bitcoin rose above $85,000 on Monday as the cryptocurrency continued its sharp rally over the past few days.Bitcoin was trading at $84,256 at around 06:35 a.m. ET, up around 3.8%, according to CoinMetrics. Earlier in the day, the cryptocurrency rose as high as $85,229, its highest level since late January.",
-    bodyOriginal: `Bitcoin rose above $85,000 on Monday as the cryptocurrency continued its sharp rally over the past few days.
-Bitcoin was trading at $84,256 at around 06:35 a.m. ET, up around 3.8%, according to CoinMetrics. Earlier in the day, the cryptocurrency rose as high as $85,229, its highest level since late January.
-Investors are assessing whether the "crypto winter" — a depressed period of digital asset prices — which began after bitcoin hit an all-time high of over $126,000 in October 2025, is over.
-"I do think it's over, it's crypto spring, the crocuses are blooming," Matt Hougan, CIO at Bitwise, told CNBC's "Squawk Box Europe" on Monday.
-"I think this will actually be the strongest and longest-running bull market in crypto's history."
-While bitcoin is still down this year, it has risen more than 7% in the last 5 days and nearly 35% over the last 3 months. It is still well off its record high.
-Hougan said even though the market was down for a while, the "fundamentals went up" in cryptocurrency, pointing to more transactions across blockchains and involvement from major firms like BlackRock.
-"So I think we had this unusual situation where you had a cyclical decline in prices even as you had a secular improvement in fundamentals. And now I suspect that prices are going to catch up toward the end of the year," Hougan said.
-"I don't think if I came back next year, we'd still be below those all-time highs."
-Analysts at BTIG said in a note on Sunday that, as long as the $75,000 level of bitcoin holds, "bulls can target a push through 82k on the way to" $90,000.
-Crypto-related stocks, including Strategy and Coinbase, were higher in U.S. premarket trading on Monday.
-AI rotation?
-The rally comes even as the U.S. Senate last week blocked the Clarity Act from advancing. It would have set up a framework for crypto in the U.S. and divided industry oversight between the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).
-More regulation in the U.S., such as the Genius Act that was passed last year, has supported crypto prices. But the Clarity Act failing to pass could still boost prices, as the SEC and CFTC will set the rules for now, Hougan said.
-"It's the most pro-crypto SEC in the history of the U.S.; it's the most pro-crypto CFTC in the history of the U.S. So ironically, in the absence of Clarity passing, we may actually have stronger pro-crypto regulation," Hougan said.
-The Bitwise CIO also said that investors are rotating out of AI stocks back into crypto.
-He added that the AI boom had "sucked all the oxygen out of the room. Any investor who was a momentum-driven investor was focused on that. Now that that has sort of levelled off, you're seeing that money rotate back into crypto."
-- CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
-    bodyJa: `Bitcoin rose above $85,000 on Monday as the cryptocurrency continued its sharp rally over the past few days.
-Bitcoin was trading at $84,256 at around 06:35 a.m. ET, up around 3.8%, according to CoinMetrics. Earlier in the day, the cryptocurrency rose as high as $85,229, its highest level since late January.
-Investors are assessing whether the "crypto winter" — a depressed period of digital asset prices — which began after bitcoin hit an all-time high of over $126,000 in October 2025, is over.
-"I do think it's over, it's crypto spring, the crocuses are blooming," Matt Hougan, CIO at Bitwise, told CNBC's "Squawk Box Europe" on Monday.
-"I think this will actually be the strongest and longest-running bull market in crypto's history."
-While bitcoin is still down this year, it has risen more than 7% in the last 5 days and nearly 35% over the last 3 months. It is still well off its record high.
-Hougan said even though the market was down for a while, the "fundamentals went up" in cryptocurrency, pointing to more transactions across blockchains and involvement from major firms like BlackRock.
-"So I think we had this unusual situation where you had a cyclical decline in prices even as you had a secular improvement in fundamentals. And now I suspect that prices are going to catch up toward the end of the year," Hougan said.
-"I don't think if I came back next year, we'd still be below those all-time highs."
-Analysts at BTIG said in a note on Sunday that, as long as the $75,000 level of bitcoin holds, "bulls can target a push through 82k on the way to" $90,000.
-Crypto-related stocks, including Strategy and Coinbase, were higher in U.S. premarket trading on Monday.
-AI rotation?
-The rally comes even as the U.S. Senate last week blocked the Clarity Act from advancing. It would have set up a framework for crypto in the U.S. and divided industry oversight between the Securities and Exchange Commission (SEC) and the Commodity Futures Trading Commission (CFTC).
-More regulation in the U.S., such as the Genius Act that was passed last year, has supported crypto prices. But the Clarity Act failing to pass could still boost prices, as the SEC and CFTC will set the rules for now, Hougan said.
-"It's the most pro-crypto SEC in the history of the U.S.; it's the most pro-crypto CFTC in the history of the U.S. So ironically, in the absence of Clarity passing, we may actually have stronger pro-crypto regulation," Hougan said.
-The Bitwise CIO also said that investors are rotating out of AI stocks back into crypto.
-He added that the AI boom had "sucked all the oxygen out of the room. Any investor who was a momentum-driven investor was focused on that. Now that that has sort of levelled off, you're seeing that money rotate back into crypto."
-- CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/bitcoin-price-crypto-rally.html",
-    publishedAt: "2026-09-21T11:10:55+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "nissan-eyes-increasing-u-s-production-as-13c8f57e",
-    title: "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-    titleJa: "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
-    summaryJa: "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
-    bodyOriginal: `Nissan Motor is looking to increase its U.S. production as it launches the 2027 Rogue crossover, including with a new hybrid model that the company views as a crucial offering for American consumers.
-"We're now maxing out the production capacity in the U.S.," Christian Meunier, chairman of Nissan Americas, told CNBC. "The next step is going to be three shifts, and I'm pretty optimistic that with the launch of the new Rogue that is happening in the next couple months, we'll be able to do that pretty quickly with the launch of the hybrid."
-The Japanese automaker currently produces the Rogue alongside other Nissan and Infiniti crossovers at a 6 million-square-foot assembly plant on two production shifts in Smyrna, Tennessee. It also has another large manufacturing plant producing the Nissan Altima sedan and Frontier midsize pickup truck in Canton, Mississippi.
-Additional production at assembly plants typically means hundreds, if not thousands, of new jobs. Nissan's moves come as the Trump administration has been focused on increasing employment and domestic production in the U.S. auto industry.
-U.S. manufacturing of the hybrid is expected to start next year after the spring production launch of the 2027 Rogue with a traditional gas engine at the Tennessee plant.
-In the meantime, Meunier said Nissan plans to import the vehicles from Japan as a way to get them to market more quickly to lift sales and help with an ongoing global turnaround plan for the company.
-Meunier said if Nissan can add a third shift to each of its assembly plants, it would boost the automaker's U.S. production to roughly 1 million units annually, up from nearly 487,000 in 2025.
-Nissan has a target to produce 80% of the vehicles it sells in the U.S. domestically by 2030, but the company has no plans for a new plant as of now.
-"I think we're very well equipped to succeed without major investment and a new factory and everything else. Maybe after 2030," he said. "Over the next four or five years, we'll see."
-Nissan e-Power
-Nissan on Monday officially revealed the 2027 Rogue with its new "e-Power" technology for the U.S., which is the first hybrid of its kind for the American market.
-The "e-Power" system is called a series hybrid.
-It uses the engine as a generator to power the vehicle's electric motors that then propel the vehicle. It operates like emerging extended-range electric vehicles, or EREVs, but has a smaller battery and doesn't require a plug. It also does not use the engine to power the wheels, just electric motors.
-Meunier said the Rogue hybrid and resurrecting the Xterra off-road SUV were his top vehicle priorities when he rejoined Nissan in January 2025 after four and a half years with Jeep. That included pulling ahead the Rogue hybrid twice for the U.S.
-The Rogue is a sales leader for the company in the U.S. It competes in the highly competitive small crossover segment against the Toyota RAV4 and Honda CR-V, which have the best-selling hybrid options in that category.
-"The hybrid power that we're launching on Rogue is going to really be the boost to our performance," Meunier said. "It's been quite remarkable to be able to grow without having a hybrid in the U.S. because the hybrids are obviously becoming more and more popular."
-Meunier said Nissan plans to position the Rogue e-Power squarely against the Toyota RAV4. He said that may include an unconventional sales option to allow potential customers to test drive both vehicles at Nissan dealerships, which wouldn't typically have a Toyota available.
-The focus on the Rogue hybrid comes after Nissan and other automakers lost billions of dollars on all-electric vehicles amid a pullback in regulatory support as well as lackluster consumer demand.
-Nissan has said the e-Power is a better solution than EVs or even traditional hybrids for U.S. consumers, especially amid inflated fuel prices due to the Iran war.
-"It's going to make people look at Nissan with different eyes," Meunier said. "A lot of customers that didn't even consider us until the hybrid comes to market."
-Nissan turnaround
-Nissan's renewed focus on the U.S. comes amid a global turnaround plan.
-Under the strategy, the Japanese automaker intends to streamline its automobile lineup by getting rid of low-performing models and increasing its use of technologies such as artificial intelligence.
-The plan includes the company targeting 1 million vehicle sales for its Nissan brand in both the U.S. and China by the 2030 financial year and growing its annual sales volume in Japan to 550,000 cars by that time.
-For the U.S., Meunier said he is satisfied with the progress Nissan has made since he returned to the automaker last year.
-After several years of struggling sales, Nissan's U.S. sales through the first half of the year were up roughly 10% compared with Cox Automotive reporting a roughly 3% decline for the broader industry during that time.
-"I think the next few months are going to be pretty good. Pretty tough, but pretty good," Meunier said. "We're going to have a strong close of the calendar year in December."`,
-    bodyJa: `Nissan Motor is looking to increase its U.S. production as it launches the 2027 Rogue crossover, including with a new hybrid model that the company views as a crucial offering for American consumers.
-"We're now maxing out the production capacity in the U.S.," Christian Meunier, chairman of Nissan Americas, told CNBC. "The next step is going to be three shifts, and I'm pretty optimistic that with the launch of the new Rogue that is happening in the next couple months, we'll be able to do that pretty quickly with the launch of the hybrid."
-The Japanese automaker currently produces the Rogue alongside other Nissan and Infiniti crossovers at a 6 million-square-foot assembly plant on two production shifts in Smyrna, Tennessee. It also has another large manufacturing plant producing the Nissan Altima sedan and Frontier midsize pickup truck in Canton, Mississippi.
-Additional production at assembly plants typically means hundreds, if not thousands, of new jobs. Nissan's moves come as the Trump administration has been focused on increasing employment and domestic production in the U.S. auto industry.
-U.S. manufacturing of the hybrid is expected to start next year after the spring production launch of the 2027 Rogue with a traditional gas engine at the Tennessee plant.
-In the meantime, Meunier said Nissan plans to import the vehicles from Japan as a way to get them to market more quickly to lift sales and help with an ongoing global turnaround plan for the company.
-Meunier said if Nissan can add a third shift to each of its assembly plants, it would boost the automaker's U.S. production to roughly 1 million units annually, up from nearly 487,000 in 2025.
-Nissan has a target to produce 80% of the vehicles it sells in the U.S. domestically by 2030, but the company has no plans for a new plant as of now.
-"I think we're very well equipped to succeed without major investment and a new factory and everything else. Maybe after 2030," he said. "Over the next four or five years, we'll see."
-Nissan e-Power
-Nissan on Monday officially revealed the 2027 Rogue with its new "e-Power" technology for the U.S., which is the first hybrid of its kind for the American market.
-The "e-Power" system is called a series hybrid.
-It uses the engine as a generator to power the vehicle's electric motors that then propel the vehicle. It operates like emerging extended-range electric vehicles, or EREVs, but has a smaller battery and doesn't require a plug. It also does not use the engine to power the wheels, just electric motors.
-Meunier said the Rogue hybrid and resurrecting the Xterra off-road SUV were his top vehicle priorities when he rejoined Nissan in January 2025 after four and a half years with Jeep. That included pulling ahead the Rogue hybrid twice for the U.S.
-The Rogue is a sales leader for the company in the U.S. It competes in the highly competitive small crossover segment against the Toyota RAV4 and Honda CR-V, which have the best-selling hybrid options in that category.
-"The hybrid power that we're launching on Rogue is going to really be the boost to our performance," Meunier said. "It's been quite remarkable to be able to grow without having a hybrid in the U.S. because the hybrids are obviously becoming more and more popular."
-Meunier said Nissan plans to position the Rogue e-Power squarely against the Toyota RAV4. He said that may include an unconventional sales option to allow potential customers to test drive both vehicles at Nissan dealerships, which wouldn't typically have a Toyota available.
-The focus on the Rogue hybrid comes after Nissan and other automakers lost billions of dollars on all-electric vehicles amid a pullback in regulatory support as well as lackluster consumer demand.
-Nissan has said the e-Power is a better solution than EVs or even traditional hybrids for U.S. consumers, especially amid inflated fuel prices due to the Iran war.
-"It's going to make people look at Nissan with different eyes," Meunier said. "A lot of customers that didn't even consider us until the hybrid comes to market."
-Nissan turnaround
-Nissan's renewed focus on the U.S. comes amid a global turnaround plan.
-Under the strategy, the Japanese automaker intends to streamline its automobile lineup by getting rid of low-performing models and increasing its use of technologies such as artificial intelligence.
-The plan includes the company targeting 1 million vehicle sales for its Nissan brand in both the U.S. and China by the 2030 financial year and growing its annual sales volume in Japan to 550,000 cars by that time.
-For the U.S., Meunier said he is satisfied with the progress Nissan has made since he returned to the automaker last year.
-After several years of struggling sales, Nissan's U.S. sales through the first half of the year were up roughly 10% compared with Cox Automotive reporting a roughly 3% decline for the broader industry during that time.
-"I think the next few months are going to be pretty good. Pretty tough, but pretty good," Meunier said. "We're going to have a strong close of the calendar year in December."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
-    publishedAt: "2026-09-21T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "novo-shares-slide-as-drugmaker-lays-out-c3d35f76",
-    title: "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-    titleJa: "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
-    summaryJa: "The Danish company seeks to convince investors it can compete in an increasingly crowded field it helped pioneer.",
-    bodyOriginal: `Novo shares plummeted on Monday after the company's new long-term goals failed to ease investor concerns about its ability to compete in the increasingly crowded weight loss market it helped pioneer.
-The Danish drugmaker said it aims to launch more than five drugs with "multi-blockbuster" potential by 2030 and generate more than 150 billion Danish kroner ($23 billion) in risk-adjusted pipeline sales by 2035, including current assets.
-It also expects revenue growth between 2026 and 2030 to be in line with industry peers, without giving further details.
-Copenhagen-listed shares fell as much as 7% but later pared some losses to trade 5.4% lower at 12:30 pm local time.
-"Investors hoped for a project 'miracle' that could turn the momentum around short term," Per Hansen, savings economist at Nordnet, told CNBC. "For obvious reasons that miracle does not exist."
-'The elephant in the room'
-CEO Mike Doustdar told investors at the company's Capital Markets Day in London that the "elephant in the room" was that semaglutide, the active ingredient in weight-loss and diabetes medicines Wegovy and Ozempic, will lose key patent exclusivity starting early next decade. The semaglutide patent expires in 2032 in the U.S., a market that accounted for more than half of Novo's overall sales last year.
-This loss of exclusivity "is what's on most people's mind, and rightfully so," Doustdar said.
-"We created an incredibly attractive market, and now almost every other single pharma company, big or small, is trying to come and compete with us. We need to be ready for that," he added.
-Doustdar also laid out plans to diversify the company, adding that the company did not "belittle" the loss of exclusivity "or the challenges that comes with it, related to the price pressure."
-"We plan to come on the other side of the LOE as a bigger company than we are today and a much more diversified version of it," he said.
-Ahead of the opening bell on Monday, Novo shares had fallen 27% over the past 12 months, while its chief rival Eli Lilly shares have gained 52% over the same period.
-Lilly has managed to grab a majority market share in the injectable GLP-1 space with Mounjaro and Zepbound, despite launching years after Novo's drugs.
-While Novo's launched its Wegovy pill in the U.S. at the beginning of this year to great success, investors are still cautious around the drugmaker's prospects of regaining ground. It has begun to roll out the Wegovy pill in other markets as well, but it still represents a small portion of its total sales.
-A series of clinical setbacks and leadership upheavals over the past year has added to investors' concerns.
-Last week, Novo said it is rebranding from Novo Nordisk to Novo and updating its corporate culture. Doustdar told CNBC the rebrand and culture revamp were "parts of the same package" to meet fierce competition from Lilly.
-Investors wanted more
-Even as Novo indicates stable operating margins, Monday's announcement lacks the financial ambition the market wanted to see, Jacob Pedersen, investment strategist at Danish bank Middelfart Sparekasse, told CNBC.
-"The investors, they are very particular in what they want from Novo, and this doesn't add up to it," Pedersen said, adding that Novo's target for growth in line with a broad group of pharma peers suggests slower growth than investors have historically come to expect from the company.
-In August, Novo said it expects adjusted sales and operating profit to both be down 6% to flat in 2026, at constant exchange rates.
-Analysts and investors have had mixed views on whether Novo should broaden its portfolio significantly, or focus on its existing therapy areas.
-"It hasn't been long since the company wanted to focus more, and now they want to broaden out," Pedersen said.
-The push to diversify marks a shift in the strategy Doustdar laid out after taking over as CEO last year, when Novo sharpened its focus on its core obesity and diabetes businesses and moved away from expanding into new areas.
-Novo said Monday it is now moving beyond its core areas of obesity and diabetes. Doustdar said those remain Novo's foundation, but that the company now wants to build out its portfolio around blood and endocrine disorders, liver disease, and cardiovascular disease.
-He also said Novo will be more active in business development, which was not included in the 2030 sales target.
-- CNBC's Charlotte Reed and Mike Considine contributed to this report.`,
-    bodyJa: `Novo shares plummeted on Monday after the company's new long-term goals failed to ease investor concerns about its ability to compete in the increasingly crowded weight loss market it helped pioneer.
-The Danish drugmaker said it aims to launch more than five drugs with "multi-blockbuster" potential by 2030 and generate more than 150 billion Danish kroner ($23 billion) in risk-adjusted pipeline sales by 2035, including current assets.
-It also expects revenue growth between 2026 and 2030 to be in line with industry peers, without giving further details.
-Copenhagen-listed shares fell as much as 7% but later pared some losses to trade 5.4% lower at 12:30 pm local time.
-"Investors hoped for a project 'miracle' that could turn the momentum around short term," Per Hansen, savings economist at Nordnet, told CNBC. "For obvious reasons that miracle does not exist."
-'The elephant in the room'
-CEO Mike Doustdar told investors at the company's Capital Markets Day in London that the "elephant in the room" was that semaglutide, the active ingredient in weight-loss and diabetes medicines Wegovy and Ozempic, will lose key patent exclusivity starting early next decade. The semaglutide patent expires in 2032 in the U.S., a market that accounted for more than half of Novo's overall sales last year.
-This loss of exclusivity "is what's on most people's mind, and rightfully so," Doustdar said.
-"We created an incredibly attractive market, and now almost every other single pharma company, big or small, is trying to come and compete with us. We need to be ready for that," he added.
-Doustdar also laid out plans to diversify the company, adding that the company did not "belittle" the loss of exclusivity "or the challenges that comes with it, related to the price pressure."
-"We plan to come on the other side of the LOE as a bigger company than we are today and a much more diversified version of it," he said.
-Ahead of the opening bell on Monday, Novo shares had fallen 27% over the past 12 months, while its chief rival Eli Lilly shares have gained 52% over the same period.
-Lilly has managed to grab a majority market share in the injectable GLP-1 space with Mounjaro and Zepbound, despite launching years after Novo's drugs.
-While Novo's launched its Wegovy pill in the U.S. at the beginning of this year to great success, investors are still cautious around the drugmaker's prospects of regaining ground. It has begun to roll out the Wegovy pill in other markets as well, but it still represents a small portion of its total sales.
-A series of clinical setbacks and leadership upheavals over the past year has added to investors' concerns.
-Last week, Novo said it is rebranding from Novo Nordisk to Novo and updating its corporate culture. Doustdar told CNBC the rebrand and culture revamp were "parts of the same package" to meet fierce competition from Lilly.
-Investors wanted more
-Even as Novo indicates stable operating margins, Monday's announcement lacks the financial ambition the market wanted to see, Jacob Pedersen, investment strategist at Danish bank Middelfart Sparekasse, told CNBC.
-"The investors, they are very particular in what they want from Novo, and this doesn't add up to it," Pedersen said, adding that Novo's target for growth in line with a broad group of pharma peers suggests slower growth than investors have historically come to expect from the company.
-In August, Novo said it expects adjusted sales and operating profit to both be down 6% to flat in 2026, at constant exchange rates.
-Analysts and investors have had mixed views on whether Novo should broaden its portfolio significantly, or focus on its existing therapy areas.
-"It hasn't been long since the company wanted to focus more, and now they want to broaden out," Pedersen said.
-The push to diversify marks a shift in the strategy Doustdar laid out after taking over as CEO last year, when Novo sharpened its focus on its core obesity and diabetes businesses and moved away from expanding into new areas.
-Novo said Monday it is now moving beyond its core areas of obesity and diabetes. Doustdar said those remain Novo's foundation, but that the company now wants to build out its portfolio around blood and endocrine disorders, liver disease, and cardiovascular disease.
-He also said Novo will be more active in business development, which was not included in the 2030 sales target.
-- CNBC's Charlotte Reed and Mike Considine contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
-    publishedAt: "2026-09-21T10:40:51+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "tories-pledge-to-bring-back-tax-free-sho-fe919800",
-    title: "Tories pledge to bring back tax-free shopping for tourists",
-    titleJa: "Tories pledge to bring back tax-free shopping for tourists",
-    summaryJa: "The party says scrapping the scheme in 2021 left the UK less competitive than European destinations.",
-    bodyOriginal: `Tories pledge to bring back tax-free shopping for tourists
-- Published
-The Conservative Party has pledged to bring back tax-free shopping for tourists from outside the European Union.
-The Tories said the decision to scrap the scheme in 2021 left the UK less competitive than European destinations.
-Leader Kemi Badenoch, who was a Treasury minister when the tax relief was abolished, said businesses were being "let down by a tax policy that is chasing their customers away".
-But Labour accused the party of "a spectacular U-turn".
-The VAT Retail Export Scheme - which allowed overseas visitors to get a VAT refund on items they had bought in Great Britain and took home in their luggage - was scrapped for non-EU visitors under the previous Conservative government in 2021, while it was also not extended for EU visitors.
-At the time, Badenoch said it was "a costly relief which does not benefit the whole of GB equally".
-However, the Conservatives have now set out plans to restore VAT refunds for eligible visitors from outside the EU.
-The party said that if evidence confirms the scheme "pays its way", this would be extended to visitors from the EU by the end of the next Parliament.
-It said the cost of reintroducing the scheme would be offset by cracking down on "NHS health tourism", including more consistent charging of patients ineligible for free treatment, minimum recovery targets for debts and requiring full repayment of debts before visa applications or renewals will be considered.
-The remaining costs would be funded from a package of savings set out by the Tories last year.
-Reinstate VAT-free tourist shopping, businesses say
-- Published7 September 2023
-Bring back duty-free perk to boost London - mayor
-- Published2 February 2023
-The party also argued the move would benefit shops, hotels, restaurants and the wider tourism industry.
-It pointed to research by the Centre for Economics and Business Research (Cebr), which suggested fully restoring tax-free shopping for tourists could attract up to 2.35 million extra visitors and generate £4.1bn in extra spending.
-The report from earlier this month also estimated that for every £1 of VAT refunded, this could generate £1.54 in other taxes.
-Badenoch said: "We have iconic retailers, inventive designers and brilliant manufacturers, but they are being let down by a tax policy that is chasing their customers away.
-"Holidaymakers are choosing rival cities in other countries for the simple reason that it saves them money."
-Businesses have long called for tax-free shopping for tourists to be reintroduced, arguing they are at a disadvantage to other European countries.
-EU countries offer VAT refunds for non-EU visitors, while other European countries such as Switzerland have similar schemes.
-Helen Dickinson, chief executive at the British Retail Consortium, said: "Introducing a modern tax-free shopping scheme would help attract more international spending to the UK, supporting high streets, jobs and investment in towns and cities across the country.
-"Done properly, it would boost economic growth and deliver a net benefit to the Exchequer."
-However, a Labour spokesperson said: "Kemi Badenoch used to say tax-free shopping was a costly giveaway and now she's trying to sell it as an economic miracle.
-"If they really think it's such a great idea, they should explain why they scrapped it in the first place and how they'd pay for bringing it back."
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Tories pledge to bring back tax-free shopping for tourists
-- Published
-The Conservative Party has pledged to bring back tax-free shopping for tourists from outside the European Union.
-The Tories said the decision to scrap the scheme in 2021 left the UK less competitive than European destinations.
-Leader Kemi Badenoch, who was a Treasury minister when the tax relief was abolished, said businesses were being "let down by a tax policy that is chasing their customers away".
-But Labour accused the party of "a spectacular U-turn".
-The VAT Retail Export Scheme - which allowed overseas visitors to get a VAT refund on items they had bought in Great Britain and took home in their luggage - was scrapped for non-EU visitors under the previous Conservative government in 2021, while it was also not extended for EU visitors.
-At the time, Badenoch said it was "a costly relief which does not benefit the whole of GB equally".
-However, the Conservatives have now set out plans to restore VAT refunds for eligible visitors from outside the EU.
-The party said that if evidence confirms the scheme "pays its way", this would be extended to visitors from the EU by the end of the next Parliament.
-It said the cost of reintroducing the scheme would be offset by cracking down on "NHS health tourism", including more consistent charging of patients ineligible for free treatment, minimum recovery targets for debts and requiring full repayment of debts before visa applications or renewals will be considered.
-The remaining costs would be funded from a package of savings set out by the Tories last year.
-Reinstate VAT-free tourist shopping, businesses say
-- Published7 September 2023
-Bring back duty-free perk to boost London - mayor
-- Published2 February 2023
-The party also argued the move would benefit shops, hotels, restaurants and the wider tourism industry.
-It pointed to research by the Centre for Economics and Business Research (Cebr), which suggested fully restoring tax-free shopping for tourists could attract up to 2.35 million extra visitors and generate £4.1bn in extra spending.
-The report from earlier this month also estimated that for every £1 of VAT refunded, this could generate £1.54 in other taxes.
-Badenoch said: "We have iconic retailers, inventive designers and brilliant manufacturers, but they are being let down by a tax policy that is chasing their customers away.
-"Holidaymakers are choosing rival cities in other countries for the simple reason that it saves them money."
-Businesses have long called for tax-free shopping for tourists to be reintroduced, arguing they are at a disadvantage to other European countries.
-EU countries offer VAT refunds for non-EU visitors, while other European countries such as Switzerland have similar schemes.
-Helen Dickinson, chief executive at the British Retail Consortium, said: "Introducing a modern tax-free shopping scheme would help attract more international spending to the UK, supporting high streets, jobs and investment in towns and cities across the country.
-"Done properly, it would boost economic growth and deliver a net benefit to the Exchequer."
-However, a Labour spokesperson said: "Kemi Badenoch used to say tax-free shopping was a costly giveaway and now she's trying to sell it as an economic miracle.
-"If they really think it's such a great idea, they should explain why they scrapped it in the first place and how they'd pay for bringing it back."
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmd68px5qqddo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T10:37:23+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb95/live/de334f30-b5a2-11f1-abe6-535e7b14de4c.jpg",
-    readTime: 9,
-  },
-  {
-    id: "what-are-my-rights-if-my-flight-is-cance-21903081",
-    title: "What are my rights if my flight is cancelled or delayed?",
-    titleJa: "What are my rights if my flight is cancelled or delayed?",
-    summaryJa: "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
-    bodyOriginal: `What are my rights if my flight is cancelled or delayed?
-- Published
-Flights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks.
-When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost. However, these can vary depending on which carrier you are flying with and from where.
-Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems.
-Here's what it means for you.
-What do airlines have to offer passengers?
-Under UK law, airlines have a duty to look after you when flights are delayed or cancelled.
-The reason for the delay or cancellation does not matter. So anyone affected by the air transport delays will be eligible.
-That includes providing meals and accommodation, if necessary, and getting you to your destination. The airline should organise putting you on an alternative flight at no extra cost.
-Additional losses, such as unused accommodation, might require a claim to a credit card provider, if that was the payment option used.
-After that, a claim may need to go to your travel insurance provider, but there is no standard definition of what is covered.
-It may require a close look at the details of the policy to see what is covered and in which circumstances.
-Passengers are also being urged to heed travel advice from the UK government, external, as this can also affect travel insurance rights.
-Does UK law apply to my flight?
-UK law generally applies to your flight if you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
-If your flight was coming into the UK on a non-UK or EU airline, then you should check the terms and conditions of your booking.
-If my flight is cancelled, can I get a refund or another flight?
-If your flight is covered by UK law, your airline must let you choose between either getting a refund or being booked on to an alternative flight.
-That's regardless of how far in advance the cancellation was made.
-You can get your money back for any part of the ticket you have not used.
-So, if you booked a return flight and the outbound leg is cancelled, you can get the full cost of the return ticket refunded.
-If you still want to travel, your airline must find you an alternative flight.
-If another airline is flying to your destination significantly sooner, or there are other suitable modes of transport, then you have a right to be booked on to that alternative transport instead.
-Will the airline pay for food and accommodation?
-If you are stuck abroad or at the airport because of a flight cancellation, airlines covered by UK legislation must also provide you with other assistance.
-This includes the following:
-a reasonable amount of food and drink (often in the form of vouchers)
-a way for you to communicate (often by refunding the cost of calls)
-free accommodation, if you have to stay overnight to fly the next day
-transport to and from the accommodation
-If your airline is unable to arrange assistance, you have the right to organise this yourself and claim back the cost later.
-The Civil Aviation Authority advises people to keep receipts and not spend more than necessary.
-You are entitled to the same assistance as for a cancellation if your flight is delayed by more than two hours for a short-haul flight, three hours for a medium-haul, or four hours for a long-haul.
-If you are delayed by more than five hours and no longer want to travel, you can get a full refund.
-What are my rights if I have booked a package holiday?
-If you booked a package holiday with a company that is an ABTA member and your flight is cancelled, you are entitled to a suitable alternative flight or a full refund.
-Can I claim extra compensation for disruption?
-Disruption caused by "extraordinary circumstances" – which includes things like air traffic control issues, bad weather, strikes by airport staff, or conflict – does not entitle you to extra compensation.
-However, in other circumstances, when it is considered to be the airline's fault, you have a number of rights, external if your flight is covered under UK law.
-What you are entitled to depends on what caused the cancellation and how much notice you are given.
-If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
-The amount you are entitled to also depends on how far you were travelling:
-for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
-for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
-for flights over 3,500km, such as London to New York, you can claim up to £520 per person
-What if flight delays mean I am late for work?
-Airlines will not refund you for loss of earnings. Travel insurance policies will not usually cover loss of earnings either.
-If you think you're going to be late back at work because of flight delays, you have a responsibility to let your employer know, legal experts say.
-You should agree with your employer how to deal with the absence – for example, by using annual leave or taking unpaid leave.
-Employers have no legal obligation to pay employees who are absent in this situation, experts say, unless it is stated in their contract.
-Get in touch
-Have your travel plans been disrupted? Share your experience.`,
-    bodyJa: `What are my rights if my flight is cancelled or delayed?
-- Published
-Flights in Scotland, Northern Ireland and northern England have been affected by air traffic control issues – the second major disruption at UK airports in a few weeks.
-When a flight is cancelled or delayed, passengers affected have various rights, such as a refund or an alternative flight at no extra cost. However, these can vary depending on which carrier you are flying with and from where.
-Extra compensation is payable only when an airline is at fault, which is not the case with air traffic control problems.
-Here's what it means for you.
-What do airlines have to offer passengers?
-Under UK law, airlines have a duty to look after you when flights are delayed or cancelled.
-The reason for the delay or cancellation does not matter. So anyone affected by the air transport delays will be eligible.
-That includes providing meals and accommodation, if necessary, and getting you to your destination. The airline should organise putting you on an alternative flight at no extra cost.
-Additional losses, such as unused accommodation, might require a claim to a credit card provider, if that was the payment option used.
-After that, a claim may need to go to your travel insurance provider, but there is no standard definition of what is covered.
-It may require a close look at the details of the policy to see what is covered and in which circumstances.
-Passengers are also being urged to heed travel advice from the UK government, external, as this can also affect travel insurance rights.
-Does UK law apply to my flight?
-UK law generally applies to your flight if you are flying from a UK airport on any airline, arriving at a UK airport on an EU or UK airline, or arriving at an airport in the EU on a UK airline.
-If your flight was coming into the UK on a non-UK or EU airline, then you should check the terms and conditions of your booking.
-If my flight is cancelled, can I get a refund or another flight?
-If your flight is covered by UK law, your airline must let you choose between either getting a refund or being booked on to an alternative flight.
-That's regardless of how far in advance the cancellation was made.
-You can get your money back for any part of the ticket you have not used.
-So, if you booked a return flight and the outbound leg is cancelled, you can get the full cost of the return ticket refunded.
-If you still want to travel, your airline must find you an alternative flight.
-If another airline is flying to your destination significantly sooner, or there are other suitable modes of transport, then you have a right to be booked on to that alternative transport instead.
-Will the airline pay for food and accommodation?
-If you are stuck abroad or at the airport because of a flight cancellation, airlines covered by UK legislation must also provide you with other assistance.
-This includes the following:
-a reasonable amount of food and drink (often in the form of vouchers)
-a way for you to communicate (often by refunding the cost of calls)
-free accommodation, if you have to stay overnight to fly the next day
-transport to and from the accommodation
-If your airline is unable to arrange assistance, you have the right to organise this yourself and claim back the cost later.
-The Civil Aviation Authority advises people to keep receipts and not spend more than necessary.
-You are entitled to the same assistance as for a cancellation if your flight is delayed by more than two hours for a short-haul flight, three hours for a medium-haul, or four hours for a long-haul.
-If you are delayed by more than five hours and no longer want to travel, you can get a full refund.
-What are my rights if I have booked a package holiday?
-If you booked a package holiday with a company that is an ABTA member and your flight is cancelled, you are entitled to a suitable alternative flight or a full refund.
-Can I claim extra compensation for disruption?
-Disruption caused by "extraordinary circumstances" – which includes things like air traffic control issues, bad weather, strikes by airport staff, or conflict – does not entitle you to extra compensation.
-However, in other circumstances, when it is considered to be the airline's fault, you have a number of rights, external if your flight is covered under UK law.
-What you are entitled to depends on what caused the cancellation and how much notice you are given.
-If your flight is cancelled with less than two weeks' notice, you may be able to claim compensation based on the timings of the alternative flight you are offered.
-The amount you are entitled to also depends on how far you were travelling:
-for flights under 1,500km, such as Glasgow to Amsterdam, you can claim up to £220 per person
-for flights of 1,500km to 3,500km, such as East Midlands to Marrakesh, you can claim up to £350 per person
-for flights over 3,500km, such as London to New York, you can claim up to £520 per person
-What if flight delays mean I am late for work?
-Airlines will not refund you for loss of earnings. Travel insurance policies will not usually cover loss of earnings either.
-If you think you're going to be late back at work because of flight delays, you have a responsibility to let your employer know, legal experts say.
-You should agree with your employer how to deal with the absence – for example, by using annual leave or taking unpaid leave.
-Employers have no legal obligation to pay employees who are absent in this situation, experts say, unless it is stated in their contract.
-Get in touch
-Have your travel plans been disrupted? Share your experience.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T10:28:17+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a08/live/30e50cb0-ac29-11f1-bc1f-3f186ca4140c.png",
-    readTime: 10,
-  },
-  {
-    id: "us-and-china-discuss-ai-safety-plan-ahea-b6bc1127",
-    title: "US and China discuss AI safety plan ahead of Trump-Xi summit",
-    titleJa: "US and China discuss AI safety plan ahead of Trump-Xi summit",
-    summaryJa: "Top US and Chinese officials held talks in New York on Sunday ahead of a Trump-Xi summit this week.",
-    bodyOriginal: `US and China discuss AI safety plan ahead of Trump-Xi summit
-- Published
-Top US and Chinese officials have discussed creating a new "notification mechanism" for AI incidents that could affect national security, Treasury Secretary Scott Bessent told reporters on Sunday.
-Bessent made the comments after what he called "successful" talks with Chinese Vice Premier He Lifeng in New York.
-The meeting came as US President Donald Trump and his Chinese counterpart Xi Jinping are due to hold a summit in Washington later this week.
-AI has come under intense scrutiny in recent days after researchers warned of the potential risks posed by the technology and some of the industry's most high profile figures called for developers to take a more cautious approach.
-"We think that, just like with any cross-border activity, that moving from opaque to more transparency between the number one and the number two AI powers in the world is very important," Bessent told reporters after the talks.
-He said the meeting also covered other topics, including plans to "operationalise" a process to identify potential tariff cuts on goods called the Board of Trade.
-A truce in the tariffs war between the world's two biggest economies is due to expire on 10 November.
-The BBC has contacted the Chinese embassy in the US for comment.
-Chinese state news agency Xinhua said the two sides had "candid, in-depth and constructive exchanges on key economic and trade issues", noting that they had discussed AI.
-Bessent said in a post on X on Sunday that the talks "help lay the groundwork for President Trump to advance America's economic interests and deliver results for the American people."
-The US and China are locked in a race to dominate the AI and technology industries.
-In recent days Washington has faced calls to slow down the development of AI over fears abouts its potential negative impact on humanity.
-Trump has largely dismissed those concerns, arguing that there are sufficient policies around AI and that the US cannot lose its edge to China.
-He said earlier this month "whoever wins in AI, wins."
-In May, when Xi hosted Trump in Beijing, ways to collaborate on AI was one of the issues the two leaders discussed.
-Those talks ended with an agreement that China would buy Boeing jets and US agricultural goods in exchange for lower tariffs.
-- Published5 days ago
-- Published5 days ago`,
-    bodyJa: `US and China discuss AI safety plan ahead of Trump-Xi summit
-- Published
-Top US and Chinese officials have discussed creating a new "notification mechanism" for AI incidents that could affect national security, Treasury Secretary Scott Bessent told reporters on Sunday.
-Bessent made the comments after what he called "successful" talks with Chinese Vice Premier He Lifeng in New York.
-The meeting came as US President Donald Trump and his Chinese counterpart Xi Jinping are due to hold a summit in Washington later this week.
-AI has come under intense scrutiny in recent days after researchers warned of the potential risks posed by the technology and some of the industry's most high profile figures called for developers to take a more cautious approach.
-"We think that, just like with any cross-border activity, that moving from opaque to more transparency between the number one and the number two AI powers in the world is very important," Bessent told reporters after the talks.
-He said the meeting also covered other topics, including plans to "operationalise" a process to identify potential tariff cuts on goods called the Board of Trade.
-A truce in the tariffs war between the world's two biggest economies is due to expire on 10 November.
-The BBC has contacted the Chinese embassy in the US for comment.
-Chinese state news agency Xinhua said the two sides had "candid, in-depth and constructive exchanges on key economic and trade issues", noting that they had discussed AI.
-Bessent said in a post on X on Sunday that the talks "help lay the groundwork for President Trump to advance America's economic interests and deliver results for the American people."
-The US and China are locked in a race to dominate the AI and technology industries.
-In recent days Washington has faced calls to slow down the development of AI over fears abouts its potential negative impact on humanity.
-Trump has largely dismissed those concerns, arguing that there are sufficient policies around AI and that the US cannot lose its edge to China.
-He said earlier this month "whoever wins in AI, wins."
-In May, when Xi hosted Trump in Beijing, ways to collaborate on AI was one of the issues the two leaders discussed.
-Those talks ended with an agreement that China would buy Boeing jets and US agricultural goods in exchange for lower tariffs.
-- Published5 days ago
-- Published5 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T05:50:56+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8242/live/884826e0-b57f-11f1-b53e-014a16f73df2.jpg",
-    readTime: 6,
   },
 ];
 
