@@ -15,6 +15,592 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "oil-falls-after-u-s-and-iran-talk-for-ho-f09d9768",
+    title: "Oil falls after U.S. and Iran talk for hours at UN meeting",
+    titleJa: "Oil falls after U.S. and Iran talk for hours at UN meeting",
+    summaryJa: "Oil fell Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.",
+    bodyOriginal: `Oil fell Wednesday, amid optimism that supply disruptions would ease following U.S.-Iran talks which raised hopes of a diplomatic solution to the conflict in the Middle East.
+Futures for international benchmark Brent crude for November delivery dropped 1.15% to $98.11 a barrel. U.S. West Texas Intermediate futures for November fell 1.75% to $88.94 per barrel.
+President Donald Trump said Tuesday that U.S. officials had a "very good meeting" with Iran's delegation and that it lasted about three hours. Earlier in his address to the U.N., Trump said he has a "big decision" over whether to reach a deal with Tehran or "annihilate" the country.
+"Pakistan's mediation efforts with Tehran could also reduce the risk of a broader escalation," said Paolo Broccardo, chief executive officer at private digital bank BankPro.
+Oil prices are also unlikely to see a huge jump for now, he said.
+"Over the past five consecutive sessions, the price has fallen by almost 12%, retreating once again from the 'intervention zone' above $100, where we have repeatedly seen intensified peace-building efforts from both sides," Broccardo said.`,
+    bodyJa: `Oil fell Wednesday, amid optimism that supply disruptions would ease following U.S.-Iran talks which raised hopes of a diplomatic solution to the conflict in the Middle East.
+Futures for international benchmark Brent crude for November delivery dropped 1.15% to $98.11 a barrel. U.S. West Texas Intermediate futures for November fell 1.75% to $88.94 per barrel.
+President Donald Trump said Tuesday that U.S. officials had a "very good meeting" with Iran's delegation and that it lasted about three hours. Earlier in his address to the U.N., Trump said he has a "big decision" over whether to reach a deal with Tehran or "annihilate" the country.
+"Pakistan's mediation efforts with Tehran could also reduce the risk of a broader escalation," said Paolo Broccardo, chief executive officer at private digital bank BankPro.
+Oil prices are also unlikely to see a huge jump for now, he said.
+"Over the past five consecutive sessions, the price has fallen by almost 12%, retreating once again from the 'intervention zone' above $100, where we have repeatedly seen intensified peace-building efforts from both sides," Broccardo said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+    publishedAt: "2026-09-23T04:34:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "will-trump-s-ai-rebrand-to-super-intelli-65cc5fee",
+    title: "Will Trump's AI rebrand to 'super intelligence' catch on?",
+    titleJa: "Will Trump's AI rebrand to 'super intelligence' catch on?",
+    summaryJa: "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
+    bodyOriginal: `Will Trump's AI rebrand to 'super intelligence' catch on?
+- Published
+US President Donald Trump says the term artificial intelligence (AI) makes the technology "sound fake" and wants it to be called "super intelligence".
+"Welcome to the new world of super intelligence - SI," Trump said during a wide-ranging speech to the United Nations General Assembly in New York on Tuesday.
+While some people close to the president immediately started to use the term, experts have told the BBC it is unlikely to gain widespread traction in the industry because it is a name typically used to refer to more advanced systems.
+The announcement is Trump's latest rebranding move after he had the names of Lake Ontario and the Gulf of Mexico changed on US maps and federal communications.
+"From this point forward, all of United States' documents, and hopefully the world's, will be changed to use the more accurate term 'super' as opposed to 'artificial'. So it's 'super intelligence'," Trump said.
+In the past week, Trump asked his social media followers to vote on other potential new names for AI including superior intelligence, extreme intelligence and supreme intelligence.
+After a series of polls on his Truth Social platform, super intelligence came out as the winner.
+The purpose of renaming AI - and whether it will be adopted by the technology industry - is unclear.
+AI refers to computer technology that allows machines to do tasks that usually require human thinking.
+Meanwhile, super intelligence has a specific meaning within the tech community.
+The term is often linked to the author and philosopher Nick Bostrom, who more than a decade ago defined the idea as an "intellect" that is superior to humans in all forms. It is still entirely hypothetical.
+The rebranding is "misleading", as super intelligence typically refers to a system that has the ability to improve by itself, said digital ethics lecturer Simon Coghlan from The University of Melbourne.
+"I doubt 'SI' will stick, in part because it exaggerates the current capacities of AI," he said.
+"A superintelligent system, if it came about, would be regarded by experts as the most consequential technology ever made," Coghlan said.
+"Not all AI platforms today exude super intelligence", said computer scientist Kokil Jaidka, adding that the new name "borrows the prestige of a term researchers reserve for a much bigger leap".
+National University of Singapore computer science lecturer Ben Leong said: "My guess is that professionals will want to save 'SI' for a higher level of AI, not so much to describe AI today. It doesn't feel like it's at that level yet."
+But some in Trump's circle have already started to use the new term.
+"The Super Intelligence (SI) President has spoken! The United States is and will remain the global leader in SI," US Chief Technology Officer Ethan Klein wrote on social media.
+While Trump's ambassador to the UN Michael Waltz later said: "If you didn't see the president's speech, it's now super intelligence. I think he's absolutely right."
+However, when asked for his thoughts on the new name, Canada's minister of AI Evan Solomon said: "Canadians are not enthusiastic, at all, about renaming things," in an apparent reference to Trump renaming Lake Ontario.
+American power, AI and a walkout - key moments from Trump's UN speech
+- Published8 hours ago
+It comes as top tech executives and researchers have in recent weeks called on the US government to regulate the industry over fears that AI could endanger humanity - concerns that Trump has dismissed as "a hoax".
+He has argued against regulating the technology and said the US cannot afford to give China - its key technology rival - an advantage, adding that whichever side "wins AI, wins".
+"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said.
+The US is not going to "stifle the growth of something that will be bigger than the industrial revolution," he added.
+The government will "rein things in" if needed and will lead the sector responsibly, Trump said.
+Trump is set to meet his Chinese counterpart Xi Jinping this week, with AI expected to be discussed by the leaders of the world's two biggest economies.`,
+    bodyJa: `Will Trump's AI rebrand to 'super intelligence' catch on?
+- Published
+US President Donald Trump says the term artificial intelligence (AI) makes the technology "sound fake" and wants it to be called "super intelligence".
+"Welcome to the new world of super intelligence - SI," Trump said during a wide-ranging speech to the United Nations General Assembly in New York on Tuesday.
+While some people close to the president immediately started to use the term, experts have told the BBC it is unlikely to gain widespread traction in the industry because it is a name typically used to refer to more advanced systems.
+The announcement is Trump's latest rebranding move after he had the names of Lake Ontario and the Gulf of Mexico changed on US maps and federal communications.
+"From this point forward, all of United States' documents, and hopefully the world's, will be changed to use the more accurate term 'super' as opposed to 'artificial'. So it's 'super intelligence'," Trump said.
+In the past week, Trump asked his social media followers to vote on other potential new names for AI including superior intelligence, extreme intelligence and supreme intelligence.
+After a series of polls on his Truth Social platform, super intelligence came out as the winner.
+The purpose of renaming AI - and whether it will be adopted by the technology industry - is unclear.
+AI refers to computer technology that allows machines to do tasks that usually require human thinking.
+Meanwhile, super intelligence has a specific meaning within the tech community.
+The term is often linked to the author and philosopher Nick Bostrom, who more than a decade ago defined the idea as an "intellect" that is superior to humans in all forms. It is still entirely hypothetical.
+The rebranding is "misleading", as super intelligence typically refers to a system that has the ability to improve by itself, said digital ethics lecturer Simon Coghlan from The University of Melbourne.
+"I doubt 'SI' will stick, in part because it exaggerates the current capacities of AI," he said.
+"A superintelligent system, if it came about, would be regarded by experts as the most consequential technology ever made," Coghlan said.
+"Not all AI platforms today exude super intelligence", said computer scientist Kokil Jaidka, adding that the new name "borrows the prestige of a term researchers reserve for a much bigger leap".
+National University of Singapore computer science lecturer Ben Leong said: "My guess is that professionals will want to save 'SI' for a higher level of AI, not so much to describe AI today. It doesn't feel like it's at that level yet."
+But some in Trump's circle have already started to use the new term.
+"The Super Intelligence (SI) President has spoken! The United States is and will remain the global leader in SI," US Chief Technology Officer Ethan Klein wrote on social media.
+While Trump's ambassador to the UN Michael Waltz later said: "If you didn't see the president's speech, it's now super intelligence. I think he's absolutely right."
+However, when asked for his thoughts on the new name, Canada's minister of AI Evan Solomon said: "Canadians are not enthusiastic, at all, about renaming things," in an apparent reference to Trump renaming Lake Ontario.
+American power, AI and a walkout - key moments from Trump's UN speech
+- Published8 hours ago
+It comes as top tech executives and researchers have in recent weeks called on the US government to regulate the industry over fears that AI could endanger humanity - concerns that Trump has dismissed as "a hoax".
+He has argued against regulating the technology and said the US cannot afford to give China - its key technology rival - an advantage, adding that whichever side "wins AI, wins".
+"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said.
+The US is not going to "stifle the growth of something that will be bigger than the industrial revolution," he added.
+The government will "rein things in" if needed and will lead the sector responsibly, Trump said.
+Trump is set to meet his Chinese counterpart Xi Jinping this week, with AI expected to be discussed by the leaders of the world's two biggest economies.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-23T03:20:30+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
+    readTime: 10,
+  },
+  {
+    id: "in-photos-key-takeaways-from-day-one-of-2193606d",
+    title: "In photos: Key takeaways from day one of the UN General Assembly",
+    titleJa: "In photos: Key takeaways from day one of the UN General Assembly",
+    summaryJa: "World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.",
+    bodyOriginal: `World leaders descended on New York this week for the annual United Nations General Assembly, where the agenda spans the U.S.-Iran war and Russia's invasion of Ukraine to the fragile ceasefire in Gaza and the risks posed by artificial intelligence.
+Nearly 130 heads of state and government started taking the podium on Tuesday, including U.S. President Donald Trump, French President Emmanuel Macron, Ukrainian President Volodymyr Zelenskyy, and European Commission President Ursula von der Leyen. Brazil's Luiz Inácio Lula da Silva, Jordan's King Abdullah II and Qatar's Emir Sheikh Tamim bin Hamad Al Thani are also attending.
+Motorcades, road closures and security details for visiting leaders have choked midtown Manhattan. Inside UN headquarters, delegates face a week of back-to-back speeches and sideline meetings that come at a crucial time for a world order already under strain.
+Chinese leader Xi Jinping will skip the assembly but head to Washington for a high-level summit with Trump on Wednesday. Leaders from India and Russia are also staying away.
+Trump on Tuesday told world leaders at the assembly that he faces a "big decision": make a deal with Iran or "annihilate" the Islamic Republic. He later told reporters that U.S. officials held a "very good" three-hour meeting with Iranian envoys on the sidelines, reviving fragile hopes for a diplomatic off-ramp to the seven-month war.
+South Korean President Lee Jae Myung set out a three-part plan for "peaceful coexistence" with North Korea. It calls on Pyongyang to "first halt the advancement" of its nuclear program before reducing it.
+Brazil's Lula spoke first, as his country traditionally does. "Brazilian democracy belongs to Brazilians," Lula said. "Brazil is nobody's backyard." He said the UN "is failing in one of its highest missions: to save humanity from the scourge of war."
+Trump also signed a security agreement with Denmark and Greenland that expands U.S. military access in the semi-autonomous Danish territory of Greenland.
+Trump then met Ukrainian President Volodymyr Zelenskyy for about 40 minutes. He pressed for a Russia-Ukraine energy truce and backed a ban on U.S. diesel exports as fuel prices hit records before the midterms.
+French President Emmanuel Macron gave his own UN address. "There can be no peace without justice," he said. After meeting Trump, he pledged to push for a moratorium on strikes on Ukraine's energy grid.
+Turkish President Recep Tayyip Erdogan called Gaza "the most inhumane, most shameful concentration camp of our time," prompting Israel's delegation to walk out. Mahmoud Abbas, President of the Palestinian Authority, will address the assembly by video after being denied a U.S. visa.`,
+    bodyJa: `World leaders descended on New York this week for the annual United Nations General Assembly, where the agenda spans the U.S.-Iran war and Russia's invasion of Ukraine to the fragile ceasefire in Gaza and the risks posed by artificial intelligence.
+Nearly 130 heads of state and government started taking the podium on Tuesday, including U.S. President Donald Trump, French President Emmanuel Macron, Ukrainian President Volodymyr Zelenskyy, and European Commission President Ursula von der Leyen. Brazil's Luiz Inácio Lula da Silva, Jordan's King Abdullah II and Qatar's Emir Sheikh Tamim bin Hamad Al Thani are also attending.
+Motorcades, road closures and security details for visiting leaders have choked midtown Manhattan. Inside UN headquarters, delegates face a week of back-to-back speeches and sideline meetings that come at a crucial time for a world order already under strain.
+Chinese leader Xi Jinping will skip the assembly but head to Washington for a high-level summit with Trump on Wednesday. Leaders from India and Russia are also staying away.
+Trump on Tuesday told world leaders at the assembly that he faces a "big decision": make a deal with Iran or "annihilate" the Islamic Republic. He later told reporters that U.S. officials held a "very good" three-hour meeting with Iranian envoys on the sidelines, reviving fragile hopes for a diplomatic off-ramp to the seven-month war.
+South Korean President Lee Jae Myung set out a three-part plan for "peaceful coexistence" with North Korea. It calls on Pyongyang to "first halt the advancement" of its nuclear program before reducing it.
+Brazil's Lula spoke first, as his country traditionally does. "Brazilian democracy belongs to Brazilians," Lula said. "Brazil is nobody's backyard." He said the UN "is failing in one of its highest missions: to save humanity from the scourge of war."
+Trump also signed a security agreement with Denmark and Greenland that expands U.S. military access in the semi-autonomous Danish territory of Greenland.
+Trump then met Ukrainian President Volodymyr Zelenskyy for about 40 minutes. He pressed for a Russia-Ukraine energy truce and backed a ban on U.S. diesel exports as fuel prices hit records before the midterms.
+French President Emmanuel Macron gave his own UN address. "There can be no peace without justice," he said. After meeting Trump, he pledged to push for a moratorium on strikes on Ukraine's energy grid.
+Turkish President Recep Tayyip Erdogan called Gaza "the most inhumane, most shameful concentration camp of our time," prompting Israel's delegation to walk out. Mahmoud Abbas, President of the Palestinian Authority, will address the assembly by video after being denied a U.S. visa.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
+    publishedAt: "2026-09-23T03:13:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "south-korean-solar-stocks-jump-as-curbs-5fd99ccf",
+    title: "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
+    titleJa: "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
+    summaryJa: "South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.",
+    bodyOriginal: `Shares of South Korean solar companies Hanwha Solutions and OCI Holdings jumped more than 8% on Wednesday, as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.
+The two leaders are set to meet in Washington this week, with trade expected to be among the key issues discussed.
+Hana Securities said it was highly unlikely that the U.S. would ease restrictions on Chinese solar products as part of the talks, arguing that Washington increasingly views solar as a strategic industry tied to national security.
+"If the U.S. were to ease restrictions on Chinese solar products at the U.S.-China summit, it would effectively mean stepping back from efforts to build a domestic supply chain for a strategic national security asset," analyst Yoon Jae-sung said in a note Wednesday.
+He named Hanwha Solutions and OCI Holdings as top picks in the sector, citing a low likelihood of an unfavorable outcome from the U.S.-China summit.
+Yoon added that any tariff reductions discussed in the talks were expected to focus on non-strategic goods, pointing to Trump's signing of Section 232 measures on polysilicon and its derivatives in August on national security grounds.
+Solar has become a strategic asset spanning AI and semiconductor power demand, semiconductor supply chains, defense and space, making efforts to reduce reliance on Chinese supply increasingly important to Washington, he added.
+Wednesday's stock moves came hours after Hanwha Solutions' solar unit Qcells welcomed actions by the U.S. Department of Commerce and U.S. Customs and Border Protection to curb what it called the "illegal stockpiling" of imported solar panels, as the Trump administration moves to implement Section 232 tariffs on polysilicon and its derivatives.
+Qcells said the measures would help prevent importers from circumventing U.S. trade policy and support domestic solar manufacturing.
+"Flooding the U.S. market with large volumes of imported products is a strategy that companies abroad have long used to undermine American manufacturers," Qcells Global CEO Andy Park said in a statement.
+Qcells, which describes itself as the largest silicon-based solar manufacturer in the U.S., has invested $2.5 billion to expand its solar manufacturing operations in Georgia, where it produces solar cells and panels.
+OCI Holdings also has a significant U.S. presence through its subsidiary OCI Energy, which earlier this month broke ground on new solar facility in Texas.`,
+    bodyJa: `Shares of South Korean solar companies Hanwha Solutions and OCI Holdings jumped more than 8% on Wednesday, as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.
+The two leaders are set to meet in Washington this week, with trade expected to be among the key issues discussed.
+Hana Securities said it was highly unlikely that the U.S. would ease restrictions on Chinese solar products as part of the talks, arguing that Washington increasingly views solar as a strategic industry tied to national security.
+"If the U.S. were to ease restrictions on Chinese solar products at the U.S.-China summit, it would effectively mean stepping back from efforts to build a domestic supply chain for a strategic national security asset," analyst Yoon Jae-sung said in a note Wednesday.
+He named Hanwha Solutions and OCI Holdings as top picks in the sector, citing a low likelihood of an unfavorable outcome from the U.S.-China summit.
+Yoon added that any tariff reductions discussed in the talks were expected to focus on non-strategic goods, pointing to Trump's signing of Section 232 measures on polysilicon and its derivatives in August on national security grounds.
+Solar has become a strategic asset spanning AI and semiconductor power demand, semiconductor supply chains, defense and space, making efforts to reduce reliance on Chinese supply increasingly important to Washington, he added.
+Wednesday's stock moves came hours after Hanwha Solutions' solar unit Qcells welcomed actions by the U.S. Department of Commerce and U.S. Customs and Border Protection to curb what it called the "illegal stockpiling" of imported solar panels, as the Trump administration moves to implement Section 232 tariffs on polysilicon and its derivatives.
+Qcells said the measures would help prevent importers from circumventing U.S. trade policy and support domestic solar manufacturing.
+"Flooding the U.S. market with large volumes of imported products is a strategy that companies abroad have long used to undermine American manufacturers," Qcells Global CEO Andy Park said in a statement.
+Qcells, which describes itself as the largest silicon-based solar manufacturer in the U.S., has invested $2.5 billion to expand its solar manufacturing operations in Georgia, where it produces solar cells and panels.
+OCI Holdings also has a significant U.S. presence through its subsidiary OCI Energy, which earlier this month broke ground on new solar facility in Texas.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+    publishedAt: "2026-09-23T03:08:23+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "i-don-t-have-a-buoyancy-aid-living-with-c390a65a",
+    title: "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+    titleJa: "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
+    summaryJa: "Three 20-somethings tell BBC News how they are navigating life without parental support.",
+    bodyOriginal: `'I don't have a buoyancy aid': Living without the Bank of Mum and Dad
+- Published
+Buying a home or even moving into a rented property is an increasingly unrealistic dream for many young people.
+This summer, BBC Your Voice revealed more than 40% of 25-year-olds were now living with their parents. Dozens of young people told us they were having to rely on the so-called Bank of Mum and Dad to help cover rent, bills and other living costs.
+But what happens if you cannot rely on help from family? Citizens Advice says increasing numbers are struggling to afford everyday essentials like rent and food without support from their parents.
+Three women told us how they are navigating life without that safety net.
+'I want to be independent... so when you get to this kind of thing it's like hitting a wall'
+Eleanor Bell, 23, from East Riding of Yorkshire, has a first-class degree but is struggling to find work
+Eleanor Bell is now 23, but was taken into care when she was 10. She grafted hard to do well at school and got a first-class degree from the University of Central Lancashire.
+After graduating two years ago, she thought the playing field would even out. It hasn't.
+Eleanor says she has applied for more jobs than she can count and had a handful of unsuccessful interviews.
+She's currently living in her boyfriend's home outside Penistone in South Yorkshire, which helps with living costs, but the rural location has made the job hunt harder for someone without a driving licence.
+"I know a lot of people who've got jobs because their mum or dad worked there before them."
+When she saw a BBC article about how many young people now live with their parents, she got in touch.
+"I guess it makes me a bit sad. I'd like to live with my parents... but it made me think about the people like me, the people that don't have that, what are they doing then? Where are they? Who do they have to fall back on?
+"It's like everyone in their 20s is having to tread water, but I haven't been given a buoyancy aid," Eleanor tells the BBC.
+Official figures show that 39% of care leavers aged 19 to 21 in England are not in education, employment or training, compared with around 13% of young people overall.
+"I want to be independent and so when you get to this kind of thing it's like hitting a wall."
+For Eleanor, it's not just financial support and the roof over her head that she's missing.
+"You don't have someone to hold you and go, 'Look I've done the same thing, but don't worry' … that lack of preparation I think really does affect you," she explains.
+"I don't quite know what to do, that's how I feel, just a bit lost. I'm just back to being in the dark without a torch kind of thing, that's what it feels like."
+'I don't buy any luxuries, I rarely do anything fun'
+Sam Barrett, 24, from Sunderland, is studying part-time. She left her full-time job to care for her mum
+In Sunderland, Sam Barrett, 24, feels frustrated that others her age have a financial back-stop that isn't available to her.
+She left her full-time job in the hospitality business to care for her mum and is studying health and social care part-time, but says that Careers Allowance and Universal Credit don't cover her main expenses.
+"Not a lot is coming in, you only get so much being a carer. I don't buy any luxuries, I rarely do anything fun," she says.
+Her mum helps financially when she can, but there's not a lot of money to go around and Sam says she's conscious of that.
+"I've always felt it was a bit unfair growing up and seeing other people being at a massive advantage compared to me. Like a lot of parents would be like, 'here's money for driving lessons, and here's your car', and I can't just do that," she says.
+Sam's angry there isn't more pay for carers like her. "I'm saving the government money by caring for my mam. The government aren't doing anything to help you, they're basically saying just get into debt."
+'My parents were struggling financially, just like I am, just like everyone else'
+Ezgi Polat, 23, from Cambridgeshire, lost her job a year ago and quickly fell behind on rent and bills
+In a recent survey of more than 5,500 people, commissioned by Citizens Advice, 36% adults said they were behind on at least one bill, but for those in their 20s that figure climbs to 57%.
+Ezgi Polat is one of them. When the 23-year-old, from Ramsey in Cambridgeshire, lost her job 12 months ago, her family weren't in a position to help, so she quickly fell behind on rent and bills.
+"My parents were struggling financially, just like I am, just like everyone else.... I got myself in arrears, a lot of debt because I just couldn't afford it - £300 was not covering any of my bills at that point."
+Her local bus service was cancelled, making trips to the job centre increasingly difficult, so her benefits were then cut. She was receiving £360 a month in Universal Credit, but with rent at £460, plus utility bills, council tax and living costs, her total debt spiralled to about £4,000.
+After turning to Citizens Advice for help, her rent arrears were wiped out by the council three months ago, and she's agreed to paying £200 a month to both her electricity and water company in repayment plans.
+She's delighted to have now got work in a warehouse and feels like life is getting back on track, but it's not been an easy road.
+"A lot of older people feel like we're not ambitious enough, or we're not striving hard enough, but they'd be surprised at the amount of people out there so desperate for work and so desperate for support but with nowhere to turn to," she says.
+The latest government figures show that just under a million young people are currently not in employment, education or training.
+A government spokesperson said "We are determined to restore hope and deliver opportunity for young people in every postcode. That's why we are investing £2.5 billion to create opportunities for young people to earn or learn through more apprenticeships, job grants, and training. And for those moving out for the first time, our Renters' Rights Act gives tenants more rights and protection from excessive increases."
+But Luke Young, head of policy at Citizens Advice, thinks young people are trapped between rising costs and a difficult jobs market.
+"For young people right now the divide is growing bigger between those who do have financial support from families and other networks, and then those who don't. Young people who don't have that wider support network are being let down."
+Additional reporting: Adam Clarkson and Elliot Deady
+Related topics
+- Published21 April`,
+    bodyJa: `'I don't have a buoyancy aid': Living without the Bank of Mum and Dad
+- Published
+Buying a home or even moving into a rented property is an increasingly unrealistic dream for many young people.
+This summer, BBC Your Voice revealed more than 40% of 25-year-olds were now living with their parents. Dozens of young people told us they were having to rely on the so-called Bank of Mum and Dad to help cover rent, bills and other living costs.
+But what happens if you cannot rely on help from family? Citizens Advice says increasing numbers are struggling to afford everyday essentials like rent and food without support from their parents.
+Three women told us how they are navigating life without that safety net.
+'I want to be independent... so when you get to this kind of thing it's like hitting a wall'
+Eleanor Bell, 23, from East Riding of Yorkshire, has a first-class degree but is struggling to find work
+Eleanor Bell is now 23, but was taken into care when she was 10. She grafted hard to do well at school and got a first-class degree from the University of Central Lancashire.
+After graduating two years ago, she thought the playing field would even out. It hasn't.
+Eleanor says she has applied for more jobs than she can count and had a handful of unsuccessful interviews.
+She's currently living in her boyfriend's home outside Penistone in South Yorkshire, which helps with living costs, but the rural location has made the job hunt harder for someone without a driving licence.
+"I know a lot of people who've got jobs because their mum or dad worked there before them."
+When she saw a BBC article about how many young people now live with their parents, she got in touch.
+"I guess it makes me a bit sad. I'd like to live with my parents... but it made me think about the people like me, the people that don't have that, what are they doing then? Where are they? Who do they have to fall back on?
+"It's like everyone in their 20s is having to tread water, but I haven't been given a buoyancy aid," Eleanor tells the BBC.
+Official figures show that 39% of care leavers aged 19 to 21 in England are not in education, employment or training, compared with around 13% of young people overall.
+"I want to be independent and so when you get to this kind of thing it's like hitting a wall."
+For Eleanor, it's not just financial support and the roof over her head that she's missing.
+"You don't have someone to hold you and go, 'Look I've done the same thing, but don't worry' … that lack of preparation I think really does affect you," she explains.
+"I don't quite know what to do, that's how I feel, just a bit lost. I'm just back to being in the dark without a torch kind of thing, that's what it feels like."
+'I don't buy any luxuries, I rarely do anything fun'
+Sam Barrett, 24, from Sunderland, is studying part-time. She left her full-time job to care for her mum
+In Sunderland, Sam Barrett, 24, feels frustrated that others her age have a financial back-stop that isn't available to her.
+She left her full-time job in the hospitality business to care for her mum and is studying health and social care part-time, but says that Careers Allowance and Universal Credit don't cover her main expenses.
+"Not a lot is coming in, you only get so much being a carer. I don't buy any luxuries, I rarely do anything fun," she says.
+Her mum helps financially when she can, but there's not a lot of money to go around and Sam says she's conscious of that.
+"I've always felt it was a bit unfair growing up and seeing other people being at a massive advantage compared to me. Like a lot of parents would be like, 'here's money for driving lessons, and here's your car', and I can't just do that," she says.
+Sam's angry there isn't more pay for carers like her. "I'm saving the government money by caring for my mam. The government aren't doing anything to help you, they're basically saying just get into debt."
+'My parents were struggling financially, just like I am, just like everyone else'
+Ezgi Polat, 23, from Cambridgeshire, lost her job a year ago and quickly fell behind on rent and bills
+In a recent survey of more than 5,500 people, commissioned by Citizens Advice, 36% adults said they were behind on at least one bill, but for those in their 20s that figure climbs to 57%.
+Ezgi Polat is one of them. When the 23-year-old, from Ramsey in Cambridgeshire, lost her job 12 months ago, her family weren't in a position to help, so she quickly fell behind on rent and bills.
+"My parents were struggling financially, just like I am, just like everyone else.... I got myself in arrears, a lot of debt because I just couldn't afford it - £300 was not covering any of my bills at that point."
+Her local bus service was cancelled, making trips to the job centre increasingly difficult, so her benefits were then cut. She was receiving £360 a month in Universal Credit, but with rent at £460, plus utility bills, council tax and living costs, her total debt spiralled to about £4,000.
+After turning to Citizens Advice for help, her rent arrears were wiped out by the council three months ago, and she's agreed to paying £200 a month to both her electricity and water company in repayment plans.
+She's delighted to have now got work in a warehouse and feels like life is getting back on track, but it's not been an easy road.
+"A lot of older people feel like we're not ambitious enough, or we're not striving hard enough, but they'd be surprised at the amount of people out there so desperate for work and so desperate for support but with nowhere to turn to," she says.
+The latest government figures show that just under a million young people are currently not in employment, education or training.
+A government spokesperson said "We are determined to restore hope and deliver opportunity for young people in every postcode. That's why we are investing £2.5 billion to create opportunities for young people to earn or learn through more apprenticeships, job grants, and training. And for those moving out for the first time, our Renters' Rights Act gives tenants more rights and protection from excessive increases."
+But Luke Young, head of policy at Citizens Advice, thinks young people are trapped between rising costs and a difficult jobs market.
+"For young people right now the divide is growing bigger between those who do have financial support from families and other networks, and then those who don't. Young people who don't have that wider support network are being let down."
+Additional reporting: Adam Clarkson and Elliot Deady
+Related topics
+- Published21 April`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-22T23:20:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf88/live/3e21a580-b699-11f1-bc1f-3f186ca4140c.png",
+    readTime: 10,
+  },
+  {
+    id: "europe-s-car-makers-are-in-crisis-will-t-25012ba0",
+    title: "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    titleJa: "Europe's car makers are in crisis. Will the threat of war rescue them?",
+    summaryJa: "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+    bodyOriginal: `It's green, bulging and intimidating. Ford's latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford's Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.
+Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.
+Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company's UK boss calls the most challenging environment since the invention of the motor car. Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.
+Ford is part of a joint venture with defence specialists General Dynamics and Ricardo bidding for a Ministry of Defence (MoD) contract to supply 9,000 vehicles over the next five to seven years to replace the Army's ageing Land Rover-based fleet.
+Lisa Brankin, chair of Ford UK, says it is a chance to showcase their abilities to respond quickly to defence needs: "As a manufacturer you look at every opportunity that comes at you and this is a great opportunity that we would love to take advantage of."
+This is not the first time Ford has busied itself with defence work.
+Ahead of World War Two, Ford's factory in Dagenham, east London, was the largest car plant in Europe.
+When war broke out, civilian car assembly stopped completely, and the factory was converted entirely to military production. Between 1939 and 1945, the Dagenham plant built 360,000 vehicles for the Allied war effort.
+Ford workers in Manchester manufactured 34,000 Rolls-Royce-designed Merlin engines, which powered Spitfires and Hurricane fighter planes.
+Eighty years later, the UK and European car industries are hoping that the engines of war can help defend against what one supplier told the BBC was a "terminal decline".
+As Europe feels compelled to commit hundreds of billions to ramp up defence spending in the face of the menace from Russia and US reluctance to be Europe's protector, car makers that are under commercial attack from Chinese rivals have taken notice.
+So can the rearmament of Europe save an auto industry and a supply chain facing crisis?
+The shift to defence
+Ford is far from the only car company that sees defence as a growth industry - and one that can utilise the growing overcapacity at car plants across Europe.
+French car maker Renault has signed a strategic agreement with defence giant Thales to produce military drones - targeting an output of up to 1,000 units per month. The French military and Directorate General for Armament want to tap into Renault's mass-production capabilities to bypass traditional, slower defence supply chains.
+Meanwhile, Volkswagen has agreed to sell an under-used factory in Osnabruck, western Germany, which will become a military manufacturing hub in a joint venture with an Israeli-based defence investor.
+Jaguar Land Rover (JLR), which makes the Land Rover, is also bidding for the same contract as Ford - as the Army retires its existing Land Rover-based fleet by 2030. JLR has also established a new dedicated business unit to support its global military ambitions.
+It makes sense for under-utilised auto manufacturing capacity to switch to defence, says Mike Hawes of the Society for Motor Manufacturers and Traders (SMMT) trade association.
+The UK car industry and its suppliers are heavily reliant on a few big manufacturers – Nissan in Sunderland, Toyota in Derbyshire, BMW in Oxfordshire and the biggest of them all by value of output, JLR at multiple sites in the Midlands and Merseyside.
+And Hawes says the supply chain is very vulnerable.
+"UK automotive output has been in decline over the last eight or nine years," he says. "We're probably half of what we were 10 years ago. Now, that's obviously going to hit the supply chain because they're not making the same number of parts. So they've got capacity. They may be quite dependent on one particular manufacturer as well."
+So they will welcome "the opportunity to broaden their customer base and potentially move into defence", he says.
+Just two weeks ago, JLR announced it was cutting 4,000 jobs from its 30,000-strong UK workforce in order to reduce costs to stay competitive with international – particularly Chinese – rivals. Dave Roberts of the firm Evtec, which supplies cooling systems components to JLR, is worried about the implications of this.
+"JLR is the critical mass in the UK automotive manufacturing space," he says. "It is the glue that holds the whole of the sector together. Because remember, when you're making volumes for JLR, they're significantly higher than any other car maker in the UK.
+"If they suffer, the ripples run deeper through the supply chain."
+Earlier this week, major JLR suppliers urged the government to help automotive manufacturers move into aerospace and defence, warning that large-scale car production in the UK faces long-term decline.
+In an open letter to the prime minister, chancellor and West Midlands Mayor Richard Parker, industry leaders argued Britain's automotive supply chain was "not in decline" but "in the wrong market".
+The letter was signed by executives representing businesses with more than 8,600 direct employees, alongside the Confederation of British Metalforming, which represents about 75,000 workers.
+Signatories to the letter said the redundancies were "the first visible crack" in a UK automotive supply chain supporting about 183,000 manufacturing jobs.
+Across Europe, the industry is facing what Sigrid de Vries, director general of the ACEA auto industry manufacturers' association called "a perfect storm". Car makers are spending billions to shift to electric vehicles and insist that government sales targets for EVs are outpacing consumer demand.
+And the EVs people are buying are increasingly from the biggest new threat to the industry – China.
+The China syndrome
+In the early 2000s, Western firms saw China as a land of opportunity. The country's rapidly growing middle class had plenty of money and a seemingly insatiable appetite for cars, including the most profitable upmarket models. It was a lucrative business – the Chinese market once accounted for half of Volkswagen's profits.
+However, it didn't last. China wanted a home-grown car industry and lavish state funding was ploughed into making the country a leader in high-tech businesses, including electric cars.
+Today, the Chinese market is overloaded with brands, both foreign and domestic, and is characterised by cut-throat competition. Chinese car makers have focused their attention on foreign markets, and have used the transition to electric vehicles as a pathway to gaining market share. The likes of BYD, Chery and Geely are moving aggressively into Europe.
+For European brands, all of this could not have happened at a worse time. The loss of the steady stream of profits from China, and the emergence of Chinese rivals on their home turf, has come after they invested heavily in producing electric vehicles (EVs). But EV sales have not increased as quickly as expected. Executives admit they have struggled to match the low production costs and development speed of the Chinese insurgents.
+The result is that European manufacturers are now rushing to cut costs, while wondering what to do with expensive factories capable of producing millions more cars than they are able to sell.
+Volkswagen has already announced plans to cut 100,000 jobs over the next few years. Whereas once closing plants in Germany would have been unthinkable, the company has now shuttered one in Dresden and may shut down four more. That includes a site in Zwickau, where VW spent over €1bn (£857m) converting production lines to build electric vehicles - a process that was completed just four years ago.
+Industry estimates indicate that western European car plants have roughly 2.5 million vehicles worth of annual spare capacity.
+Little wonder that car makers are jealously eyeing soaring defence budgets across Europe.
+Sigrid de Vries says car makers are well placed to help Europe rearm.
+"Many of the capabilities that defence needs are needed for and also delivered by the automotive sector," she says. "So automotive manufacturers and suppliers possess industrial assets, they possess manufacturing expertise, logistics capabilities, also advanced technologies. They have vast and also very integrated supply chains that may be relevant for Europe's broader defence preparedness objective."
+But it is not that simple – security protocols, political and economic rivalries within Europe plus the fact that unless you're actually at war, the volumes will not replace the mass consumer market, all of which present challenges, she says.
+"These are two very different worlds," she says. Governments want to invest in their defence capabilities and that is why it's now, more than ever, interesting for manufacturers and suppliers to see what's possible, but it will not be enough to address the underutilisation of manufacturing capacity we currently see."
+Let the fox into the henhouse?
+If defence can't plug the yawning gaps in UK and European car manufacturing production – is it time for the henhouse to rent a room to the fox?
+In other words, let Chinese companies move into European production facilities?
+To offset the immense fixed costs of running idle assembly lines, legacy European and UK automakers are opening their doors to Chinese rivals.
+Stellantis – owners of the Vauxhall, Fiat, Peugeot and Citroen marques – has taken a 20% stake in Chinese EV maker Leapmotor and production of the Chinese brand started in Poland two years ago. (Leapmotor then moved production to Spain after Poland voted to impose steep tariffs on Chinese EVs while Spain abstained – an example of how trade politics can get complicated.)
+Nissan and Chery International UK have signed a non-binding Memorandum of Understanding for the study of contract manufacturing for Nissan to manufacture Chery vehicles at its Sunderland plant.
+VW CEO Oliver Blume said in April of this year that Volkswagen was considering sharing spare European factory capacity with Chinese joint-venture partners.
+In one sense it could be a win-win. European factories would have extra work while Chinese manufacturers could avoid high tariffs when selling into the US and the EU by making and exporting the cars in and from those markets.
+But building cars in Europe does not automatically mean creating or saving European supply chains.
+Some plants may only perform final assembly while many of the components – especially batteries – may continue to come from China.
+More from InDepth
+War may be coming. Are we psychologically ready?
+- Published3 days ago
+Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine
+- Published14 September
+Car making is still seen as central to countries' sovereign manufacturing capability – in the old days the mantra was: "What's good for General Motors is good for America." You could say the same for Volkswagen, Mercedes and BMW for Germany and JLR for the UK.
+Car plants are often the major employer in their area and support local supply chains, so job losses can hit particularly hard. That's why countries go to great lengths to protect and preserve them.
+Australia is a case in point. When its final locally made car left the production line in 2017, it didn't just lose a car industry, it lost an engineering mindset and key skills, says Dave Roberts of Evtec.
+"Over the next decade... ripple effects crept into all manufacturing," he says. "So they lost infrastructure capability. They lost advanced manufacturing capability.
+"They're vulnerable. They're not resilient in those sectors anymore."
+Ford UK's Lisa Brankin acknowledges 9,000 engines over five to seven years is a far cry from the 90,000 per year the plant used to produce – but she insists every little helps.
+"It is a drop in the ocean but every single opportunity is worth having, isn't it?"
+A spokesperson for the Ministry of Defence says it wants UK industry to play a "central role" in delivering thousands of modern light mobility vehicles. The spokesperson adds: "We are backing British businesses and supporting our defence industrial base with 85% of our defence spending currently staying in the UK, driving reindustrialisation and making defence an engine for growth."
+It's understandable why a declining European car industry wants to gatecrash the spending splurge in the defence sector. But even if they can, right now it is hard to see how they'll ever be able to wield the muscle that they once did.
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `It's green, bulging and intimidating. Ford's latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford's Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.
+Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.
+Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company's UK boss calls the most challenging environment since the invention of the motor car. Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.
+Ford is part of a joint venture with defence specialists General Dynamics and Ricardo bidding for a Ministry of Defence (MoD) contract to supply 9,000 vehicles over the next five to seven years to replace the Army's ageing Land Rover-based fleet.
+Lisa Brankin, chair of Ford UK, says it is a chance to showcase their abilities to respond quickly to defence needs: "As a manufacturer you look at every opportunity that comes at you and this is a great opportunity that we would love to take advantage of."
+This is not the first time Ford has busied itself with defence work.
+Ahead of World War Two, Ford's factory in Dagenham, east London, was the largest car plant in Europe.
+When war broke out, civilian car assembly stopped completely, and the factory was converted entirely to military production. Between 1939 and 1945, the Dagenham plant built 360,000 vehicles for the Allied war effort.
+Ford workers in Manchester manufactured 34,000 Rolls-Royce-designed Merlin engines, which powered Spitfires and Hurricane fighter planes.
+Eighty years later, the UK and European car industries are hoping that the engines of war can help defend against what one supplier told the BBC was a "terminal decline".
+As Europe feels compelled to commit hundreds of billions to ramp up defence spending in the face of the menace from Russia and US reluctance to be Europe's protector, car makers that are under commercial attack from Chinese rivals have taken notice.
+So can the rearmament of Europe save an auto industry and a supply chain facing crisis?
+The shift to defence
+Ford is far from the only car company that sees defence as a growth industry - and one that can utilise the growing overcapacity at car plants across Europe.
+French car maker Renault has signed a strategic agreement with defence giant Thales to produce military drones - targeting an output of up to 1,000 units per month. The French military and Directorate General for Armament want to tap into Renault's mass-production capabilities to bypass traditional, slower defence supply chains.
+Meanwhile, Volkswagen has agreed to sell an under-used factory in Osnabruck, western Germany, which will become a military manufacturing hub in a joint venture with an Israeli-based defence investor.
+Jaguar Land Rover (JLR), which makes the Land Rover, is also bidding for the same contract as Ford - as the Army retires its existing Land Rover-based fleet by 2030. JLR has also established a new dedicated business unit to support its global military ambitions.
+It makes sense for under-utilised auto manufacturing capacity to switch to defence, says Mike Hawes of the Society for Motor Manufacturers and Traders (SMMT) trade association.
+The UK car industry and its suppliers are heavily reliant on a few big manufacturers – Nissan in Sunderland, Toyota in Derbyshire, BMW in Oxfordshire and the biggest of them all by value of output, JLR at multiple sites in the Midlands and Merseyside.
+And Hawes says the supply chain is very vulnerable.
+"UK automotive output has been in decline over the last eight or nine years," he says. "We're probably half of what we were 10 years ago. Now, that's obviously going to hit the supply chain because they're not making the same number of parts. So they've got capacity. They may be quite dependent on one particular manufacturer as well."
+So they will welcome "the opportunity to broaden their customer base and potentially move into defence", he says.
+Just two weeks ago, JLR announced it was cutting 4,000 jobs from its 30,000-strong UK workforce in order to reduce costs to stay competitive with international – particularly Chinese – rivals. Dave Roberts of the firm Evtec, which supplies cooling systems components to JLR, is worried about the implications of this.
+"JLR is the critical mass in the UK automotive manufacturing space," he says. "It is the glue that holds the whole of the sector together. Because remember, when you're making volumes for JLR, they're significantly higher than any other car maker in the UK.
+"If they suffer, the ripples run deeper through the supply chain."
+Earlier this week, major JLR suppliers urged the government to help automotive manufacturers move into aerospace and defence, warning that large-scale car production in the UK faces long-term decline.
+In an open letter to the prime minister, chancellor and West Midlands Mayor Richard Parker, industry leaders argued Britain's automotive supply chain was "not in decline" but "in the wrong market".
+The letter was signed by executives representing businesses with more than 8,600 direct employees, alongside the Confederation of British Metalforming, which represents about 75,000 workers.
+Signatories to the letter said the redundancies were "the first visible crack" in a UK automotive supply chain supporting about 183,000 manufacturing jobs.
+Across Europe, the industry is facing what Sigrid de Vries, director general of the ACEA auto industry manufacturers' association called "a perfect storm". Car makers are spending billions to shift to electric vehicles and insist that government sales targets for EVs are outpacing consumer demand.
+And the EVs people are buying are increasingly from the biggest new threat to the industry – China.
+The China syndrome
+In the early 2000s, Western firms saw China as a land of opportunity. The country's rapidly growing middle class had plenty of money and a seemingly insatiable appetite for cars, including the most profitable upmarket models. It was a lucrative business – the Chinese market once accounted for half of Volkswagen's profits.
+However, it didn't last. China wanted a home-grown car industry and lavish state funding was ploughed into making the country a leader in high-tech businesses, including electric cars.
+Today, the Chinese market is overloaded with brands, both foreign and domestic, and is characterised by cut-throat competition. Chinese car makers have focused their attention on foreign markets, and have used the transition to electric vehicles as a pathway to gaining market share. The likes of BYD, Chery and Geely are moving aggressively into Europe.
+For European brands, all of this could not have happened at a worse time. The loss of the steady stream of profits from China, and the emergence of Chinese rivals on their home turf, has come after they invested heavily in producing electric vehicles (EVs). But EV sales have not increased as quickly as expected. Executives admit they have struggled to match the low production costs and development speed of the Chinese insurgents.
+The result is that European manufacturers are now rushing to cut costs, while wondering what to do with expensive factories capable of producing millions more cars than they are able to sell.
+Volkswagen has already announced plans to cut 100,000 jobs over the next few years. Whereas once closing plants in Germany would have been unthinkable, the company has now shuttered one in Dresden and may shut down four more. That includes a site in Zwickau, where VW spent over €1bn (£857m) converting production lines to build electric vehicles - a process that was completed just four years ago.
+Industry estimates indicate that western European car plants have roughly 2.5 million vehicles worth of annual spare capacity.
+Little wonder that car makers are jealously eyeing soaring defence budgets across Europe.
+Sigrid de Vries says car makers are well placed to help Europe rearm.
+"Many of the capabilities that defence needs are needed for and also delivered by the automotive sector," she says. "So automotive manufacturers and suppliers possess industrial assets, they possess manufacturing expertise, logistics capabilities, also advanced technologies. They have vast and also very integrated supply chains that may be relevant for Europe's broader defence preparedness objective."
+But it is not that simple – security protocols, political and economic rivalries within Europe plus the fact that unless you're actually at war, the volumes will not replace the mass consumer market, all of which present challenges, she says.
+"These are two very different worlds," she says. Governments want to invest in their defence capabilities and that is why it's now, more than ever, interesting for manufacturers and suppliers to see what's possible, but it will not be enough to address the underutilisation of manufacturing capacity we currently see."
+Let the fox into the henhouse?
+If defence can't plug the yawning gaps in UK and European car manufacturing production – is it time for the henhouse to rent a room to the fox?
+In other words, let Chinese companies move into European production facilities?
+To offset the immense fixed costs of running idle assembly lines, legacy European and UK automakers are opening their doors to Chinese rivals.
+Stellantis – owners of the Vauxhall, Fiat, Peugeot and Citroen marques – has taken a 20% stake in Chinese EV maker Leapmotor and production of the Chinese brand started in Poland two years ago. (Leapmotor then moved production to Spain after Poland voted to impose steep tariffs on Chinese EVs while Spain abstained – an example of how trade politics can get complicated.)
+Nissan and Chery International UK have signed a non-binding Memorandum of Understanding for the study of contract manufacturing for Nissan to manufacture Chery vehicles at its Sunderland plant.
+VW CEO Oliver Blume said in April of this year that Volkswagen was considering sharing spare European factory capacity with Chinese joint-venture partners.
+In one sense it could be a win-win. European factories would have extra work while Chinese manufacturers could avoid high tariffs when selling into the US and the EU by making and exporting the cars in and from those markets.
+But building cars in Europe does not automatically mean creating or saving European supply chains.
+Some plants may only perform final assembly while many of the components – especially batteries – may continue to come from China.
+More from InDepth
+War may be coming. Are we psychologically ready?
+- Published3 days ago
+Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine
+- Published14 September
+Car making is still seen as central to countries' sovereign manufacturing capability – in the old days the mantra was: "What's good for General Motors is good for America." You could say the same for Volkswagen, Mercedes and BMW for Germany and JLR for the UK.
+Car plants are often the major employer in their area and support local supply chains, so job losses can hit particularly hard. That's why countries go to great lengths to protect and preserve them.
+Australia is a case in point. When its final locally made car left the production line in 2017, it didn't just lose a car industry, it lost an engineering mindset and key skills, says Dave Roberts of Evtec.
+"Over the next decade... ripple effects crept into all manufacturing," he says. "So they lost infrastructure capability. They lost advanced manufacturing capability.
+"They're vulnerable. They're not resilient in those sectors anymore."
+Ford UK's Lisa Brankin acknowledges 9,000 engines over five to seven years is a far cry from the 90,000 per year the plant used to produce – but she insists every little helps.
+"It is a drop in the ocean but every single opportunity is worth having, isn't it?"
+A spokesperson for the Ministry of Defence says it wants UK industry to play a "central role" in delivering thousands of modern light mobility vehicles. The spokesperson adds: "We are backing British businesses and supporting our defence industrial base with 85% of our defence spending currently staying in the UK, driving reindustrialisation and making defence an engine for growth."
+It's understandable why a declining European car industry wants to gatecrash the spending splurge in the defence sector. But even if they can, right now it is hard to see how they'll ever be able to wield the muscle that they once did.
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-22T23:11:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "will-a-switch-to-light-speed-cut-power-u-645272a8",
+    title: "Will a switch to light speed cut power use at data centres?",
+    titleJa: "Will a switch to light speed cut power use at data centres?",
+    summaryJa: "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
+    bodyOriginal: `Will a switch to light speed cut power use at data centres?
+- Published
+"I think we're at the end of copper," says Chris Sharp, the chief technology officer at data centre operator Digital Reality.
+He's not saying that we are running out of copper, instead Sharp, and many others in the data centre industry, are betting that it will be used less.
+Data centres use vast amounts of the metal: around 400 tonnes, external will go into typical facility of around 100MW (data centre size is measured megawatts, a unit of electrical power).
+Most of that copper is used in the electrical infrastructure needed to power the datacentre and for cooling systems. But up to 70 tonnes is used by the computer servers that do the work of processing data in that 100MW facility.
+Meanwhile, up to 20 tonnes is used for the network wiring connecting up those computer servers.
+It's here, in the spaghetti-like wiring which snakes through a data centre where copper is targeted for replacement.
+"The wires between these GPUs, CPUs, and all this compute are what's slowing us down," says Sharp.
+Data is shunted around data centres in the form of electrons, which travel efficiently in copper wiring.
+Many think there's an even better way of doing that, using light in the form of photons.
+Light has been used for decades for long-distance communications over optical fibre - the data for this article probably travelled down a fibre optic cable at some stage.
+But researchers and companies want to extend fibre's use to inside the data centre.
+It involves intricate engineering, where optical components are connected directly to electrical ones, sometimes on the computer chips themselves.
+The technology is called photonics and the big benefit is that light does not have the heating effects of electricity. Less heat means less energy is needed to cool data centre systems.
+"You can save so much energy," says Callum Littlejohns, deputy director of silicon photonics foundry Cornerstone Labs.
+Photonics are unlikely to make data centres any more popular with the public, but could make them a bit less energy hungry.
+Littlejohns also points out that multiple data streams can be transmitted down the same channel to create more capacity.
+Peter O'Brien, head of research for photonics packaging and systems integration at Ireland's Tyndall Research Institute, said academics and commercial companies alike have been working with photonics for years, but the technology faced multiple manufacturing challenges.
+Now, O'Brien continues, the technology is ready to make the leap from the lab into widespread application.
+"What's happening now with optics and photonics is there's kind of a reset," he says.
+It helps that AI chip giant Nvidia has thrown its weight behind the technology.
+But shifting to photonics is not a straightforward swap, as it brings together different engineering traditions and different supply chains.
+"We've really gotten good at bringing the cost down on that electrical side, how to design it, how to manufacture it, how to test it, how to deploy it," says Andrew Wheeler, senior vice president at Hewlett Packard Labs.
+But he says, the industry is still working out how to bring the cost down.
+Part of the problem is that different elements of the manufacturing process are distributed across the globe. For example final assembly is done in so-called packaging houses, which are clustered in Taiwan.
+Engineering challenges remain. Optical networking devices may generate far less heat but other components within a data centre are still making the local environment hot.
+And that's a problem for optical components which are very sensitive to heat, explains Wheeler. This raises reliability concerns, unless data centre operators and equipment manufacturers can keep within strict thermal limits.
+And while optical networks can carry data at – almost - the speed of light, installing and maintaining them will still proceed at human speed. Network designers, field support engineers, installers, all need to learn new skills around installation and servicing.
+For example, says Sharp, with fibre, "You can't take tight turns. There are little nuances on how to structure that."
+Ultimately, the benefits of optical networking can only be fully realised when light is used for not just carrying data, but for processing it too, says Ofer Shapiro, CEO of optical company Resolight.ai.
+The company is proposing an architecture to replace the traditional electronic network switches that control communications between servers with all optical devices.
+He argues that it doesn't make sense to constantly convert data from photons to electrons and back to photons.
+Optical interconnects between the computer chips and network elements would mean data would remain in the optical domain, saving even more energy, Shapiro argues.
+But that's in the future. More immediately, companies are still working on scaling up photonics manufacturing.
+Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
+"We know we can make it huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
+Photonics components are generally larger than silicon components, used in computer chips.
+Counterintuitively, this means that organizations like Cornerstone can repurpose older silicon manufacturing equipment used for earlier generations of processors.
+One of Cornerstone's manufacturing tools comes from a former Intel production line used to make the Pentium 4 chips released back at the turn of the century.
+Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
+"We know we can make it at a huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
+Related topics
+More Technology of Business
+- Published3 July
+- Published12 June
+- Published26 June`,
+    bodyJa: `Will a switch to light speed cut power use at data centres?
+- Published
+"I think we're at the end of copper," says Chris Sharp, the chief technology officer at data centre operator Digital Reality.
+He's not saying that we are running out of copper, instead Sharp, and many others in the data centre industry, are betting that it will be used less.
+Data centres use vast amounts of the metal: around 400 tonnes, external will go into typical facility of around 100MW (data centre size is measured megawatts, a unit of electrical power).
+Most of that copper is used in the electrical infrastructure needed to power the datacentre and for cooling systems. But up to 70 tonnes is used by the computer servers that do the work of processing data in that 100MW facility.
+Meanwhile, up to 20 tonnes is used for the network wiring connecting up those computer servers.
+It's here, in the spaghetti-like wiring which snakes through a data centre where copper is targeted for replacement.
+"The wires between these GPUs, CPUs, and all this compute are what's slowing us down," says Sharp.
+Data is shunted around data centres in the form of electrons, which travel efficiently in copper wiring.
+Many think there's an even better way of doing that, using light in the form of photons.
+Light has been used for decades for long-distance communications over optical fibre - the data for this article probably travelled down a fibre optic cable at some stage.
+But researchers and companies want to extend fibre's use to inside the data centre.
+It involves intricate engineering, where optical components are connected directly to electrical ones, sometimes on the computer chips themselves.
+The technology is called photonics and the big benefit is that light does not have the heating effects of electricity. Less heat means less energy is needed to cool data centre systems.
+"You can save so much energy," says Callum Littlejohns, deputy director of silicon photonics foundry Cornerstone Labs.
+Photonics are unlikely to make data centres any more popular with the public, but could make them a bit less energy hungry.
+Littlejohns also points out that multiple data streams can be transmitted down the same channel to create more capacity.
+Peter O'Brien, head of research for photonics packaging and systems integration at Ireland's Tyndall Research Institute, said academics and commercial companies alike have been working with photonics for years, but the technology faced multiple manufacturing challenges.
+Now, O'Brien continues, the technology is ready to make the leap from the lab into widespread application.
+"What's happening now with optics and photonics is there's kind of a reset," he says.
+It helps that AI chip giant Nvidia has thrown its weight behind the technology.
+But shifting to photonics is not a straightforward swap, as it brings together different engineering traditions and different supply chains.
+"We've really gotten good at bringing the cost down on that electrical side, how to design it, how to manufacture it, how to test it, how to deploy it," says Andrew Wheeler, senior vice president at Hewlett Packard Labs.
+But he says, the industry is still working out how to bring the cost down.
+Part of the problem is that different elements of the manufacturing process are distributed across the globe. For example final assembly is done in so-called packaging houses, which are clustered in Taiwan.
+Engineering challenges remain. Optical networking devices may generate far less heat but other components within a data centre are still making the local environment hot.
+And that's a problem for optical components which are very sensitive to heat, explains Wheeler. This raises reliability concerns, unless data centre operators and equipment manufacturers can keep within strict thermal limits.
+And while optical networks can carry data at – almost - the speed of light, installing and maintaining them will still proceed at human speed. Network designers, field support engineers, installers, all need to learn new skills around installation and servicing.
+For example, says Sharp, with fibre, "You can't take tight turns. There are little nuances on how to structure that."
+Ultimately, the benefits of optical networking can only be fully realised when light is used for not just carrying data, but for processing it too, says Ofer Shapiro, CEO of optical company Resolight.ai.
+The company is proposing an architecture to replace the traditional electronic network switches that control communications between servers with all optical devices.
+He argues that it doesn't make sense to constantly convert data from photons to electrons and back to photons.
+Optical interconnects between the computer chips and network elements would mean data would remain in the optical domain, saving even more energy, Shapiro argues.
+But that's in the future. More immediately, companies are still working on scaling up photonics manufacturing.
+Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
+"We know we can make it huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
+Photonics components are generally larger than silicon components, used in computer chips.
+Counterintuitively, this means that organizations like Cornerstone can repurpose older silicon manufacturing equipment used for earlier generations of processors.
+One of Cornerstone's manufacturing tools comes from a former Intel production line used to make the Pentium 4 chips released back at the turn of the century.
+Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
+"We know we can make it at a huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
+Related topics
+More Technology of Business
+- Published3 July
+- Published12 June
+- Published26 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-22T23:03:48+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
+    readTime: 10,
+  },
+  {
+    id: "rich-nations-must-cut-debt-as-global-sho-3645963d",
+    title: "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+    titleJa: "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
+    summaryJa: "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
+    bodyOriginal: `Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC
+- Published
+The world's advanced economies including the UK and US need to cut borrowing and reduce debt levels following weeks of spiralling government interest costs, the head of the International Monetary Fund (IMF) has warned.
+In an exclusive interview, Kristalina Georgieva said global economic shocks had been "pushing debt levels up like a staircase not to heaven" but that governments had taken "no action to contain that service cost".
+"[It's] time to take that action," she said, adding that "courage" was needed by politicians to take the necessary steps.
+The intervention comes as government borrowing costs have surged in response to wars disrupting the supply of oil, which has fuelled inflation.
+Higher global borrowing costs have hit the UK government in the run-up to UK Prime Minister Andy Burnham's first Budget next month, with speculation building over potential tax and spending policies.
+The latest figures show borrowing - the difference between tax receipts and government spending - was £18.3bn ($24.4bn) in August, almost a fifth higher than the year before and higher than official forecasts. Meanwhile debt interest for the month was the highest August figure since monthly records began in 1997.
+Higher borrowing costs have also hit the US, the world's largest economy, which has seen its debt pile surpass $40tn. The amount has doubled within the space of a decade, prompting concerns at home and abroad.
+On the sidelines of the United Nations General Assembly, Georgieva said the IMF's message to advanced economies was that while there were economic factors occurring outside the control of governments, they did have command over domestic policies.
+"There are these two things that must be done: bring debt levels down, put fiscal consolidation as a priority, and make sure that the central banks deliver on their mandate for price stability," she said.
+"It is impossible to stress strongly enough how critical it is to get the courage to take the steps that are necessary. These are politically tough steps to take, but necessary steps to take."
+Asked specifically about the UK's higher interest costs compared to other major economies, Georgieva said its position was "not very different" from others.
+She pointed to "fairly consistent action" on lowering debt and praised planning and housing reforms, adding that advanced economies "don't have the cash" to boost growth and so had to rely on reforms to encourage the private sector to invest.
+AI could present 'financial stability risk'
+Governments around the world raise money by selling bonds - essentially an IOU - and in return pay interest to the investment funds that buy them.
+Concerns over inflation eating away at returns has sent the interest rates on bonds - known as yields - higher in recent months.
+But there are other factors pushing yields up, including increasing competition in the bond market from large tech companies looking to raise huge amounts of money to invest in artificial intelligence (AI) development.
+On AI, Georgieva referenced recent concerns about loss of safe control over such systems as a potential financial stability problem, alongside debt levels.
+"If we see more incidents when AI takes [on a] life of its own, then we can be faced with a significant financial stability risk," she said.
+The IMF's managing director repeated the influential body's assessment that the global economy was affected by two forces "pushing in opposite directions" - the energy price shock and investment in AI.
+She said it was important for the low exports of oil and gas from the Gulf "to resume in a durable manner, for the energy supply shock to finally be in the rearview mirror".
+"That is a very significant step to normalisation," she said, but acknowledged it was yet to happen.`,
+    bodyJa: `Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC
+- Published
+The world's advanced economies including the UK and US need to cut borrowing and reduce debt levels following weeks of spiralling government interest costs, the head of the International Monetary Fund (IMF) has warned.
+In an exclusive interview, Kristalina Georgieva said global economic shocks had been "pushing debt levels up like a staircase not to heaven" but that governments had taken "no action to contain that service cost".
+"[It's] time to take that action," she said, adding that "courage" was needed by politicians to take the necessary steps.
+The intervention comes as government borrowing costs have surged in response to wars disrupting the supply of oil, which has fuelled inflation.
+Higher global borrowing costs have hit the UK government in the run-up to UK Prime Minister Andy Burnham's first Budget next month, with speculation building over potential tax and spending policies.
+The latest figures show borrowing - the difference between tax receipts and government spending - was £18.3bn ($24.4bn) in August, almost a fifth higher than the year before and higher than official forecasts. Meanwhile debt interest for the month was the highest August figure since monthly records began in 1997.
+Higher borrowing costs have also hit the US, the world's largest economy, which has seen its debt pile surpass $40tn. The amount has doubled within the space of a decade, prompting concerns at home and abroad.
+On the sidelines of the United Nations General Assembly, Georgieva said the IMF's message to advanced economies was that while there were economic factors occurring outside the control of governments, they did have command over domestic policies.
+"There are these two things that must be done: bring debt levels down, put fiscal consolidation as a priority, and make sure that the central banks deliver on their mandate for price stability," she said.
+"It is impossible to stress strongly enough how critical it is to get the courage to take the steps that are necessary. These are politically tough steps to take, but necessary steps to take."
+Asked specifically about the UK's higher interest costs compared to other major economies, Georgieva said its position was "not very different" from others.
+She pointed to "fairly consistent action" on lowering debt and praised planning and housing reforms, adding that advanced economies "don't have the cash" to boost growth and so had to rely on reforms to encourage the private sector to invest.
+AI could present 'financial stability risk'
+Governments around the world raise money by selling bonds - essentially an IOU - and in return pay interest to the investment funds that buy them.
+Concerns over inflation eating away at returns has sent the interest rates on bonds - known as yields - higher in recent months.
+But there are other factors pushing yields up, including increasing competition in the bond market from large tech companies looking to raise huge amounts of money to invest in artificial intelligence (AI) development.
+On AI, Georgieva referenced recent concerns about loss of safe control over such systems as a potential financial stability problem, alongside debt levels.
+"If we see more incidents when AI takes [on a] life of its own, then we can be faced with a significant financial stability risk," she said.
+The IMF's managing director repeated the influential body's assessment that the global economy was affected by two forces "pushing in opposite directions" - the energy price shock and investment in AI.
+She said it was important for the low exports of oil and gas from the Gulf "to resume in a durable manner, for the energy supply shock to finally be in the rearview mirror".
+"That is a very significant step to normalisation," she said, but acknowledged it was yet to happen.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-22T23:01:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg",
+    readTime: 10,
+  },
+  {
     id: "trump-administration-removes-around-760-572f4833",
     title: "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
     titleJa: "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
@@ -1674,450 +2260,6 @@ The first lady last week posted a video hyping up her meticulous planning for th
     publishedAt: "2026-09-21T22:25:33+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "hundreds-of-flights-into-newark-new-york-1a51b0b1",
-    title: "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-    titleJa: "Hundreds of flights into Newark, New York, Philadelphia disrupted after Verizon fiber line cut",
-    summaryJa: "An FAA equipment problem snarled air travel at Newark Liberty International Airport and Philadelphia International Airport Monday.",
-    bodyOriginal: `Hundreds of flights to and from the New York area and Philadelphia were canceled, delayed or diverted Monday after a Verizon fiber cable was accidentally cut during construction in New Jersey, severing a backup feed of key data for air traffic controllers, officials said.
-The Federal Aviation Administration halted flights bound for Newark, New Jersey, and Philadelphia and forced close to 100 planes, some of them after hourslong trips from Europe, to divert to other U.S. airports because of the issue.
-More than 600 flights in and out of Newark were canceled Monday by 5 p.m., half of the day's schedule, according to FlightAware, while nearly 100 were delayed. Nearly 200 Philadelphia flights were canceled and more than 400 delayed.
-The problem started with an initial circuit failure and "when it went to flip into the backup, we discovered the backup fiber had a break," FAA Administrator Bryan Bedford told reporters at an event showcasing a new artificial intelligence-powered air traffic control tool in Washington, D.C.
-Public transportation system NJ Transit said a construction crew working on a rail project between New Brunswick and North Brunswick, New Jersey, "accidentally severed a fiber-optic cable while working at the site." The transit agency said the crew was operating about 10 feet from utility markings.
-The circuit and backup feed loss were affecting the Terminal Radar Approach Control, or TRACON, facility, in Philadelphia, which guides planes in and out of Newark and Philadelphia.
-The disruptions spread to New York City in the early afternoon, where flights into LaGuardia Airport and John F. Kennedy International Airport were also halted by the FAA, though they were resuming with residual delays by late afternoon.
-"Construction contractors working in the area dug up and cut our cable," Verizon said in a statement. "Verizon's facilities were fully functional up to that point. Verizon bears no responsibility for this incident."
-NJ Transit said its staff "is currently on site working to determine the status of the repairs, while also determining whether it was Verizon or the contractor who made the utility markings at the site."
-Verizon said it "immediately deployed our technicians to the scene" and added that it was "actively working to repair the damaged cable and restore connectivity as quickly as possible."
-The affected airports were Newark Liberty International Airport, United Airlines' busiest international hub, Philadelphia International Airport and New Jersey's Teterboro Airport.
-United waived flight change fees for travelers affected by the disruption. American Airlines, which operates a hub out of Philadelphia, also waived change fees and allowed customers to fly out of other airports.
-More than 100 flights bound for Newark were forced to divert, according to Flightradar24, including international flights from Iceland, Egypt, Greece, Spain and France.
-A United flight from Berlin diverted to Detroit Metropolitan Wayne County Airport, while an SAS flight from Stockholm bound for Newark was sent to Washington Dulles International Airport.
-Aging air traffic control equipment and technology issues have vexed airline executives for years. The Trump administration last year announced a multibillion-dollar overhaul of U.S. air traffic control equipment and resources.
-"This incident underscores the need for additional funding to modernize aging infrastructure and prevent disruptions like this in the future," Transportation Secretary Sean Duffy said in a post on X on Monday.
-The disruptions happened hours before President Donald Trump and a host of international leaders were scheduled to arrive in New York for the United Nations General Assembly.`,
-    bodyJa: `Hundreds of flights to and from the New York area and Philadelphia were canceled, delayed or diverted Monday after a Verizon fiber cable was accidentally cut during construction in New Jersey, severing a backup feed of key data for air traffic controllers, officials said.
-The Federal Aviation Administration halted flights bound for Newark, New Jersey, and Philadelphia and forced close to 100 planes, some of them after hourslong trips from Europe, to divert to other U.S. airports because of the issue.
-More than 600 flights in and out of Newark were canceled Monday by 5 p.m., half of the day's schedule, according to FlightAware, while nearly 100 were delayed. Nearly 200 Philadelphia flights were canceled and more than 400 delayed.
-The problem started with an initial circuit failure and "when it went to flip into the backup, we discovered the backup fiber had a break," FAA Administrator Bryan Bedford told reporters at an event showcasing a new artificial intelligence-powered air traffic control tool in Washington, D.C.
-Public transportation system NJ Transit said a construction crew working on a rail project between New Brunswick and North Brunswick, New Jersey, "accidentally severed a fiber-optic cable while working at the site." The transit agency said the crew was operating about 10 feet from utility markings.
-The circuit and backup feed loss were affecting the Terminal Radar Approach Control, or TRACON, facility, in Philadelphia, which guides planes in and out of Newark and Philadelphia.
-The disruptions spread to New York City in the early afternoon, where flights into LaGuardia Airport and John F. Kennedy International Airport were also halted by the FAA, though they were resuming with residual delays by late afternoon.
-"Construction contractors working in the area dug up and cut our cable," Verizon said in a statement. "Verizon's facilities were fully functional up to that point. Verizon bears no responsibility for this incident."
-NJ Transit said its staff "is currently on site working to determine the status of the repairs, while also determining whether it was Verizon or the contractor who made the utility markings at the site."
-Verizon said it "immediately deployed our technicians to the scene" and added that it was "actively working to repair the damaged cable and restore connectivity as quickly as possible."
-The affected airports were Newark Liberty International Airport, United Airlines' busiest international hub, Philadelphia International Airport and New Jersey's Teterboro Airport.
-United waived flight change fees for travelers affected by the disruption. American Airlines, which operates a hub out of Philadelphia, also waived change fees and allowed customers to fly out of other airports.
-More than 100 flights bound for Newark were forced to divert, according to Flightradar24, including international flights from Iceland, Egypt, Greece, Spain and France.
-A United flight from Berlin diverted to Detroit Metropolitan Wayne County Airport, while an SAS flight from Stockholm bound for Newark was sent to Washington Dulles International Airport.
-Aging air traffic control equipment and technology issues have vexed airline executives for years. The Trump administration last year announced a multibillion-dollar overhaul of U.S. air traffic control equipment and resources.
-"This incident underscores the need for additional funding to modernize aging infrastructure and prevent disruptions like this in the future," Transportation Secretary Sean Duffy said in a post on X on Monday.
-The disruptions happened hours before President Donald Trump and a host of international leaders were scheduled to arrive in New York for the United Nations General Assembly.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/newark-philadelphia-nyc-flight-disruptions.html",
-    publishedAt: "2026-09-21T21:51:32+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "paramount-settles-lawsuit-with-us-states-b010b360",
-    title: "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-    titleJa: "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-    summaryJa: "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
-    bodyOriginal: `Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros
-- Published
-Paramount Skydance has settled a lawsuit with a dozen US states, paving the way for its $110bn (£82.8bn) merger with Warner Bros Discovery.
-Under the agreement, Paramount must produce at least 30 films a year and ensure a certain percentage are produced in the US, or face penalties including selling off parts of its business.
-The deal clears one of the final hurdles for the merger that is set to reshape Hollywood, combining legacy studios, major streamers, and national networks under one umbrella.
-Announcing the settlement, California Attorney General Rob Bonta said the agreement was "not a vote of support for this merger", while Parmount's chief executive welcomed the resolution.
-David Ellison said that now the state attorneys general and the Writers Guild of America (WGA) concerns had been addressed, "we have complete clearance for this merger and look forward to putting these commitments into action".
-"Our shared aim was an outcome that best serves consumers, workers and - most importantly -the creative community so vital to the art of visual storytelling," he said.
-The WGA said it continues to believe the deal "will cause damage to writers and the industry at large".
-The guild said it was forced to settle its own lawsuit because, as a non-profit, it could not afford to fight the merger alone without government support.
-The studio is set to pay $17.5m into the WGA health fund, cover legal fees, and prohibit writer layoffs at CBS News Broadcast for five years.
-Bonta said the settlement will help boost film production in the US. Under the agreement, Paramount must release at least 30 films each year.
-To prevent the studio from fulfilling its annual quota with low-budget or automated content, Bonta said there were strict guardrails against "AI-generated" films.
-Officials wanted to guarantee "real, robust movies" that generate economic activity and put people back to work, he added.
-If Paramount fails to meet its annual production quota, it will be forced to sell its 49% stake in Miramax.
-"Divestitures are part of our solutions to all three markets," Bonta said, arguing the deal turned what could have been a "falling off the cliff in domestic production into a huge increase," leading to more movies, jobs, and economic activity.
-Though Ellison previously indicated the merged company would keep its headquarters in California for the foreseeable future, Bonta clarified that this commitment was not written into the legal agreement.
-"It's not part of the deal," Bonta said.
-Ellison had previously threatened to move studio operations out of California.
-To ensure remaining terms are enforced, Paramount has agreed to the appointment of an independent monitor to oversee ongoing compliance with the settlement.
-California led the legal push alongside a coalition of state attorneys general from Arizona, Colorado, and New Jersey.
-Under the deal's initial terms, Paramount must ensure 20% of all film production takes place in the US for the first two years, rising over 30% over the following three years.
-While mergers typically lead to corporate overlap and redundancies, Bonta maintained that it would be a "job creator" that will put people back to work across the industry.
-Thanks to the deal, Bonta said that economic activity would be "$300m to $1.5bn more, at minimum, for film and TV production right here in our country".
-"Importantly, that is the baseline. That is the minimum," Bonta said, noting that production commitments could surge by up to 700% if Congress passes a federal film tax credit.`,
-    bodyJa: `Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros
-- Published
-Paramount Skydance has settled a lawsuit with a dozen US states, paving the way for its $110bn (£82.8bn) merger with Warner Bros Discovery.
-Under the agreement, Paramount must produce at least 30 films a year and ensure a certain percentage are produced in the US, or face penalties including selling off parts of its business.
-The deal clears one of the final hurdles for the merger that is set to reshape Hollywood, combining legacy studios, major streamers, and national networks under one umbrella.
-Announcing the settlement, California Attorney General Rob Bonta said the agreement was "not a vote of support for this merger", while Parmount's chief executive welcomed the resolution.
-David Ellison said that now the state attorneys general and the Writers Guild of America (WGA) concerns had been addressed, "we have complete clearance for this merger and look forward to putting these commitments into action".
-"Our shared aim was an outcome that best serves consumers, workers and - most importantly -the creative community so vital to the art of visual storytelling," he said.
-The WGA said it continues to believe the deal "will cause damage to writers and the industry at large".
-The guild said it was forced to settle its own lawsuit because, as a non-profit, it could not afford to fight the merger alone without government support.
-The studio is set to pay $17.5m into the WGA health fund, cover legal fees, and prohibit writer layoffs at CBS News Broadcast for five years.
-Bonta said the settlement will help boost film production in the US. Under the agreement, Paramount must release at least 30 films each year.
-To prevent the studio from fulfilling its annual quota with low-budget or automated content, Bonta said there were strict guardrails against "AI-generated" films.
-Officials wanted to guarantee "real, robust movies" that generate economic activity and put people back to work, he added.
-If Paramount fails to meet its annual production quota, it will be forced to sell its 49% stake in Miramax.
-"Divestitures are part of our solutions to all three markets," Bonta said, arguing the deal turned what could have been a "falling off the cliff in domestic production into a huge increase," leading to more movies, jobs, and economic activity.
-Though Ellison previously indicated the merged company would keep its headquarters in California for the foreseeable future, Bonta clarified that this commitment was not written into the legal agreement.
-"It's not part of the deal," Bonta said.
-Ellison had previously threatened to move studio operations out of California.
-To ensure remaining terms are enforced, Paramount has agreed to the appointment of an independent monitor to oversee ongoing compliance with the settlement.
-California led the legal push alongside a coalition of state attorneys general from Arizona, Colorado, and New Jersey.
-Under the deal's initial terms, Paramount must ensure 20% of all film production takes place in the US for the first two years, rising over 30% over the following three years.
-While mergers typically lead to corporate overlap and redundancies, Bonta maintained that it would be a "job creator" that will put people back to work across the industry.
-Thanks to the deal, Bonta said that economic activity would be "$300m to $1.5bn more, at minimum, for film and TV production right here in our country".
-"Importantly, that is the baseline. That is the minimum," Bonta said, noting that production commitments could surge by up to 700% if Congress passes a federal film tax credit.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T21:34:32+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b081/live/0dfb6860-b5ee-11f1-aff1-eb6baa3fda4f.jpg",
-    readTime: 9,
-  },
-  {
-    id: "flights-at-major-us-airports-delayed-aft-7630c591",
-    title: "Flights at major US airports delayed after cable cut by construction workers",
-    titleJa: "Flights at major US airports delayed after cable cut by construction workers",
-    summaryJa: "Verizon, which owns the cable, says it is working to repair it \"as quickly as possible\".",
-    bodyOriginal: `Flights at major US airports delayed after cable cut by construction workers
-- Published
-Hundreds of flights have been delayed at major airports in the US after construction workers accidentally cut a cable needed for air traffic control.
-Ground stops and delays were issued on Monday afternoon for airports in New York, Pennsylvania, New Jersey and Massachusetts.
-Transport officials said the damage impacted the Terminal Radar Approach Control system, which is used to guide planes during takeoff and landing.
-Telecommunications company Verizon, which owns the cable, told US media it was working to repair it "as quickly as possible" and that it "bears no responsibility" for the incident.
-Newark Liberty International Airport in New Jersey was the most heavily impacted by today's air traffic control disruptions, according to flight-tracking website FlightAware.
-It reported that 267 departing flights were delayed today, while a further 257 flights destined for Newark were also delayed.
-John F Kennedy International Airport and LaGuardia Airport, both in New York, were also affected, as was Philadelphia International Airport.
-US Transportation Secretary Sean Duffy said the damage was caused by workers from Amtrak, the US national operator of intercity railroad service, who were doing construction in New Jersey.
-This "caused a telecom outage" which forced the Federal Aviation Administration (FAA) to ground flights, Duffy posted on X. The severed cable was actually a backup network, and the error was only discovered after the primary circuit failed, officials said.
-The major east coast disruption comes ahead of the UN General Assembly (UNGA) in New York City on Tuesday, which is expected to be attended by scores of world leaders arriving into New York-area airports.`,
-    bodyJa: `Flights at major US airports delayed after cable cut by construction workers
-- Published
-Hundreds of flights have been delayed at major airports in the US after construction workers accidentally cut a cable needed for air traffic control.
-Ground stops and delays were issued on Monday afternoon for airports in New York, Pennsylvania, New Jersey and Massachusetts.
-Transport officials said the damage impacted the Terminal Radar Approach Control system, which is used to guide planes during takeoff and landing.
-Telecommunications company Verizon, which owns the cable, told US media it was working to repair it "as quickly as possible" and that it "bears no responsibility" for the incident.
-Newark Liberty International Airport in New Jersey was the most heavily impacted by today's air traffic control disruptions, according to flight-tracking website FlightAware.
-It reported that 267 departing flights were delayed today, while a further 257 flights destined for Newark were also delayed.
-John F Kennedy International Airport and LaGuardia Airport, both in New York, were also affected, as was Philadelphia International Airport.
-US Transportation Secretary Sean Duffy said the damage was caused by workers from Amtrak, the US national operator of intercity railroad service, who were doing construction in New Jersey.
-This "caused a telecom outage" which forced the Federal Aviation Administration (FAA) to ground flights, Duffy posted on X. The severed cable was actually a backup network, and the error was only discovered after the primary circuit failed, officials said.
-The major east coast disruption comes ahead of the UN General Assembly (UNGA) in New York City on Tuesday, which is expected to be attended by scores of world leaders arriving into New York-area airports.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckvgyzzgvv4wo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T21:31:42+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4059/live/5d79f3b0-b5fe-11f1-8545-2d937b40d4bf.jpg",
-    readTime: 4,
-  },
-  {
-    id: "stocks-had-a-great-day-on-the-surface-bu-66c8442f",
-    title: "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
-    titleJa: "Stocks had a great day on the surface. But something alarming occurred not seen since 1999",
-    summaryJa: "The market just posted major gains, but the latest performance is not as strong as it may seem.",
-    bodyOriginal: `The stock market just posted a banner day by nearly any measure on Monday. The Nasdaq Composite surged 2% to a new record. The broader S&P 500 jumped about 1.5% and now sits less than 1% below a new high.
-But traders are buzzing about something unhealthy that occurred under the surface.
-More stocks fell to new 52-week lows on Monday than rose to 52-week highs in the index. More specifically, 30 S&P 500 stocks hit new lows, while only seven reached fresh highs.
-The last time the index advanced at least 1% to within 1% of a new 52-week high as new lows outnumbered new highs was Dec. 21, 1999, a few months before the Dotcom Bubble top. That's according to Jason Goepfert, who founded SentimenTrader and now serves as an adviser at NextGen News.
-Prior to that, the only other time in history this dynamic has played out was July 23, 1929, he noted in a post on X.
-For Monday's trading action, it all comes to where the leadership is coming from exactly, according to Art Hogan, chief market strategist at B. Riley Wealth.
-The S&P 500's gains were led by communication services, information technology and consumer discretionary, and while information technology stands less than 1% from a fresh 52-week high, communication services and consumer discretionary sit much farther back at 4% and 7% below their respective highs.
-"The leadership's battling against weaker performance in the near term, and what's selling off has been selling off, so the creation of new lows has an easier glide path than the creation of new highs with today's leadership," he said.
-Hogan added that the market could experience more trading days like this sporadically over the coming months if sentiment remains subdued amid tensions in the Middle East.
-"We're not going to make new highs in this market if the war persists, energy prices remain stubbornly high and the Fed has to continue to hike rates," he said.
-The S&P 500 has risen more than 13% in 2026. It's also gained more than 19% in the last six months.
-— CNBC's Christopher Hayes contributed to this report.`,
-    bodyJa: `The stock market just posted a banner day by nearly any measure on Monday. The Nasdaq Composite surged 2% to a new record. The broader S&P 500 jumped about 1.5% and now sits less than 1% below a new high.
-But traders are buzzing about something unhealthy that occurred under the surface.
-More stocks fell to new 52-week lows on Monday than rose to 52-week highs in the index. More specifically, 30 S&P 500 stocks hit new lows, while only seven reached fresh highs.
-The last time the index advanced at least 1% to within 1% of a new 52-week high as new lows outnumbered new highs was Dec. 21, 1999, a few months before the Dotcom Bubble top. That's according to Jason Goepfert, who founded SentimenTrader and now serves as an adviser at NextGen News.
-Prior to that, the only other time in history this dynamic has played out was July 23, 1929, he noted in a post on X.
-For Monday's trading action, it all comes to where the leadership is coming from exactly, according to Art Hogan, chief market strategist at B. Riley Wealth.
-The S&P 500's gains were led by communication services, information technology and consumer discretionary, and while information technology stands less than 1% from a fresh 52-week high, communication services and consumer discretionary sit much farther back at 4% and 7% below their respective highs.
-"The leadership's battling against weaker performance in the near term, and what's selling off has been selling off, so the creation of new lows has an easier glide path than the creation of new highs with today's leadership," he said.
-Hogan added that the market could experience more trading days like this sporadically over the coming months if sentiment remains subdued amid tensions in the Middle East.
-"We're not going to make new highs in this market if the war persists, energy prices remain stubbornly high and the Fed has to continue to hike rates," he said.
-The S&P 500 has risen more than 13% in 2026. It's also gained more than 19% in the last six months.
-— CNBC's Christopher Hayes contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/stocks-had-a-great-day-on-the-surface-but-something-alarming-occurred-not-seen-since-1999.html",
-    publishedAt: "2026-09-21T21:20:41+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "openai-proposes-development-of-global-ai-28e8a852",
-    title: "OpenAI proposes development of global AI standards to guide alignment, RSI",
-    titleJa: "OpenAI proposes development of global AI standards to guide alignment, RSI",
-    summaryJa: "Jacob Coxon's post nearly two weeks ago that Anthropic and OpenAI were \"gambling with our lives\" set off a global debate about AI safety.",
-    bodyOriginal: `OpenAI on Monday posted a set of proposals for safety and security in the development of frontier artificial intelligence with a heavy focus on alignment research and a computing technique known as recursive self-improvement, or RSI.
-"Navigating this transition safely requires alignment research to keep pace with these capabilities so that the systems we and others build remain aligned with human values and under human control," the company said in a blog post.
-OpenAI called for international cooperation to develop frontier standards and recommended building on the work of existing AI safety institutes around the world.
-The ChatGPT maker said these technical standards should focus on frontier AI models and developers, as well as benefit-risk management for automated AI researchers, which includes RSI.
-RSI has excited AI developers over its potential to create foundation models that can upgrade themselves without human involvement.
-But advancements within RSI have led some technologists to raise concerns that foundation model makers could lose control of the underlying technology or fail to account for potential unintended consequences as the AI systems become more complicated and ubiquitous across the Internet.
-"Fully autonomous RSI is not happening today, and we should not pursue it unless and until it can be done safely," the OpenAI blog post said. "Done without appropriate care and caution, RSI could result in humans losing practical control over AI development, unable to provide oversight on research processes they no longer understand."
-The OpenAI blog post mentioned the Hugging Face agent hack, which did not involve the RSI technique, as a kind of "preview of the kinds of risks that could become much more severe without robust safeguards and alignment."
-Last week, rival Anthropic rolled out its own ideas for the safe development of frontier AI models, a response to the recent chorus of warnings about AI's threat to humanity from industry researchers. Jacob Coxon, who has worked at both Anthropic and OpenAI, ignited a global debate when he announced his resignation nearly two weeks ago and said the companies were "gambling with our lives."
-In the aftermath of recent AI-related security incidents and Coxon's public proclamations, Anthropic CEO Dario Amodei published an essay that called for AI companies to slow the pace of their foundation model development, among other proposals.
-Amodei also raised the notion of embedding third-party evaluators into their companies as a way to audit and mitigate any potential risks that their technologies could pose to society, such as turbocharging cybersecurity-related hacks or creating bioweapons.
-Rival leaders like OpenAI CEO Sam Altman and Tesla and SpaceX CEO Elon Musk also publicly supported Amodei's proposition.
-But because the field of AI evaluation is so nascent, there has yet to be a uniform consensus on the basic standards and principles that would allow independent third parties to more thoroughly inspect the cutting-edge technologies beyond what they currently do.
-That's partly why a coalition of AI evaluators are urging foundation model makers to consider a set of "minimum conditions" intended to let them more deeply perform their technology-related audits and checks, including deeper access and the prevention of retribution for publishing unflattering reports.`,
-    bodyJa: `OpenAI on Monday posted a set of proposals for safety and security in the development of frontier artificial intelligence with a heavy focus on alignment research and a computing technique known as recursive self-improvement, or RSI.
-"Navigating this transition safely requires alignment research to keep pace with these capabilities so that the systems we and others build remain aligned with human values and under human control," the company said in a blog post.
-OpenAI called for international cooperation to develop frontier standards and recommended building on the work of existing AI safety institutes around the world.
-The ChatGPT maker said these technical standards should focus on frontier AI models and developers, as well as benefit-risk management for automated AI researchers, which includes RSI.
-RSI has excited AI developers over its potential to create foundation models that can upgrade themselves without human involvement.
-But advancements within RSI have led some technologists to raise concerns that foundation model makers could lose control of the underlying technology or fail to account for potential unintended consequences as the AI systems become more complicated and ubiquitous across the Internet.
-"Fully autonomous RSI is not happening today, and we should not pursue it unless and until it can be done safely," the OpenAI blog post said. "Done without appropriate care and caution, RSI could result in humans losing practical control over AI development, unable to provide oversight on research processes they no longer understand."
-The OpenAI blog post mentioned the Hugging Face agent hack, which did not involve the RSI technique, as a kind of "preview of the kinds of risks that could become much more severe without robust safeguards and alignment."
-Last week, rival Anthropic rolled out its own ideas for the safe development of frontier AI models, a response to the recent chorus of warnings about AI's threat to humanity from industry researchers. Jacob Coxon, who has worked at both Anthropic and OpenAI, ignited a global debate when he announced his resignation nearly two weeks ago and said the companies were "gambling with our lives."
-In the aftermath of recent AI-related security incidents and Coxon's public proclamations, Anthropic CEO Dario Amodei published an essay that called for AI companies to slow the pace of their foundation model development, among other proposals.
-Amodei also raised the notion of embedding third-party evaluators into their companies as a way to audit and mitigate any potential risks that their technologies could pose to society, such as turbocharging cybersecurity-related hacks or creating bioweapons.
-Rival leaders like OpenAI CEO Sam Altman and Tesla and SpaceX CEO Elon Musk also publicly supported Amodei's proposition.
-But because the field of AI evaluation is so nascent, there has yet to be a uniform consensus on the basic standards and principles that would allow independent third parties to more thoroughly inspect the cutting-edge technologies beyond what they currently do.
-That's partly why a coalition of AI evaluators are urging foundation model makers to consider a set of "minimum conditions" intended to let them more deeply perform their technology-related audits and checks, including deeper access and the prevention of retribution for publishing unflattering reports.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/open-ai-alignment-rsi.html",
-    publishedAt: "2026-09-21T20:51:11+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "much-of-trump-s-promised-midterm-electio-8c948fef",
-    title: "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
-    titleJa: "Much of Trump’s promised midterm election spending has yet to surface, new filing shows",
-    summaryJa: "MAGA Inc. entered September with $415.8 million as much of Trump’s promised midterm spending had yet to surface publicly.",
-    bodyOriginal: `President Donald Trump's flagship super PAC grew its $400 million-plus war chest again in August, even as Republican candidates press him to put more of it to work with six weeks to go before the 2026 midterm election.
-MAGA Inc. ended August with about $415.8 million in cash after modest spending, more than $12 million above the $403.5 million it held at the beginning of the month, according to a Federal Election Commission filing posted late Sunday.
-The super PAC took in more than twice as much as it spent in August, reporting raising about $23.7 million while spending $11.4 million.
-Among those replenishing its coffers were cryptocurrency billionaires Cameron and Tyler Winklevoss, who contributed $10 million combined; NASA Administrator Jared Isaacman, who gave $2 million; and venture capital firm Trousdale Ventures CEO Phillip Sarofim, who gave $1 million.
-That left MAGA Inc.'s cash pile still growing just days before Trump said on Sept. 4 he planned to deploy $400 million to $500 million from MAGA Inc. to help Republicans in November.
-Yet, more than two weeks later, MAGA Inc. itself has publicly disclosed only a fraction of that amount in spending. The FEC's reporting requirements generally require disclosure within 48 hours when independent expenditures reach $10,000 for a political race.
-So far in September, the super PAC has reported about $15 million in spending in the Texas Senate race. However, a much larger Trump-linked advertising blitz is instead being booked through two super PACs created Sept. 1: No Going Back PAC Inc. and Safety & Affordability PAC Inc.
-The groups have reserved at least $126 million in advertising — about $98.5 million from No Going Back and $27 million from Safety & Affordability, according to AdImpact data and federal filings. No Going Back PAC also shares a treasurer, address and phone number with MAGA Inc.
-The spending follows months of public pressure from Republicans who questioned why Trump's massive political war chest remained largely on the sidelines.
-"We need help from the president," Sen. John Kennedy, R-La., said on Fox News in late August. Kennedy said he hoped Trump would spend "$100 or $200 million in Texas," where Republican nominee Ken Paxton had been dramatically outraised by Democrat James Talarico.
-Meanwhile, Senate Majority Leader John Thune, R-S.D., made a similar public appeal Sept. 1, saying Trump and his allies' resources "need to be brought to bear on Texas."
-"We flat have to win there," Thune said on Fox News
-Republicans are trying to retain control of the House and Senate, while Democrats are trying to take it.
-The calls for Trump to unleash his campaign cash came after MAGA Inc. spent much of the summer accumulating money instead of making major general-election investments. At the beginning of September, MAGA Inc. officials had reportedly told Republican vendors to prepare for spending but had not given them a comprehensive plan.
-Three days later, Trump told reporters in the Oval Office that he planned to "spend whatever amount of money necessary to try to help us."
-"This is money from MAGA Inc. This is money that I control," Trump said. MAGA Inc.'s money is not Trump's personal money. The president the same day also said he expects money to remain in the PAC's account for 2028, and there is no requirement that it be spent down.
-The next day, MAGA Inc. launched a $10 million advertising push in Texas supporting Paxton and opposing Talarico. Another $5 million in spending in the race was reported over the weekend.
-The money is arriving as Republican candidates face sizable fundraising gaps.
-Entering July, Democratic Senate candidates held about $75 million across seven closely watched battlegrounds, roughly twice the $38 million held by their Republican opponents, according to a CNBC analysis of FEC filings. Trump's hundreds of millions dwarfs those totals.
-The late spending also comes with trade-offs.
-Television inventory was already nearing saturation in some battlegrounds by mid-September, CNBC reported Friday, while super PACs can pay substantially more than candidates for comparable airtime. The later reservations are also costing Trump-aligned groups more than they would have if the ads had been booked earlier.
-Still, there is an argument for waiting until voters are paying closer attention.
-"The weight of the evidence is that spending earlier than September is most likely ineffective," Vanderbilt University political scientist John Sides told CNBC last week. "We can't say exactly how close to Election Day is the truly optimal time, but it makes more sense to start advertising now than spend money all summer."`,
-    bodyJa: `President Donald Trump's flagship super PAC grew its $400 million-plus war chest again in August, even as Republican candidates press him to put more of it to work with six weeks to go before the 2026 midterm election.
-MAGA Inc. ended August with about $415.8 million in cash after modest spending, more than $12 million above the $403.5 million it held at the beginning of the month, according to a Federal Election Commission filing posted late Sunday.
-The super PAC took in more than twice as much as it spent in August, reporting raising about $23.7 million while spending $11.4 million.
-Among those replenishing its coffers were cryptocurrency billionaires Cameron and Tyler Winklevoss, who contributed $10 million combined; NASA Administrator Jared Isaacman, who gave $2 million; and venture capital firm Trousdale Ventures CEO Phillip Sarofim, who gave $1 million.
-That left MAGA Inc.'s cash pile still growing just days before Trump said on Sept. 4 he planned to deploy $400 million to $500 million from MAGA Inc. to help Republicans in November.
-Yet, more than two weeks later, MAGA Inc. itself has publicly disclosed only a fraction of that amount in spending. The FEC's reporting requirements generally require disclosure within 48 hours when independent expenditures reach $10,000 for a political race.
-So far in September, the super PAC has reported about $15 million in spending in the Texas Senate race. However, a much larger Trump-linked advertising blitz is instead being booked through two super PACs created Sept. 1: No Going Back PAC Inc. and Safety & Affordability PAC Inc.
-The groups have reserved at least $126 million in advertising — about $98.5 million from No Going Back and $27 million from Safety & Affordability, according to AdImpact data and federal filings. No Going Back PAC also shares a treasurer, address and phone number with MAGA Inc.
-The spending follows months of public pressure from Republicans who questioned why Trump's massive political war chest remained largely on the sidelines.
-"We need help from the president," Sen. John Kennedy, R-La., said on Fox News in late August. Kennedy said he hoped Trump would spend "$100 or $200 million in Texas," where Republican nominee Ken Paxton had been dramatically outraised by Democrat James Talarico.
-Meanwhile, Senate Majority Leader John Thune, R-S.D., made a similar public appeal Sept. 1, saying Trump and his allies' resources "need to be brought to bear on Texas."
-"We flat have to win there," Thune said on Fox News
-Republicans are trying to retain control of the House and Senate, while Democrats are trying to take it.
-The calls for Trump to unleash his campaign cash came after MAGA Inc. spent much of the summer accumulating money instead of making major general-election investments. At the beginning of September, MAGA Inc. officials had reportedly told Republican vendors to prepare for spending but had not given them a comprehensive plan.
-Three days later, Trump told reporters in the Oval Office that he planned to "spend whatever amount of money necessary to try to help us."
-"This is money from MAGA Inc. This is money that I control," Trump said. MAGA Inc.'s money is not Trump's personal money. The president the same day also said he expects money to remain in the PAC's account for 2028, and there is no requirement that it be spent down.
-The next day, MAGA Inc. launched a $10 million advertising push in Texas supporting Paxton and opposing Talarico. Another $5 million in spending in the race was reported over the weekend.
-The money is arriving as Republican candidates face sizable fundraising gaps.
-Entering July, Democratic Senate candidates held about $75 million across seven closely watched battlegrounds, roughly twice the $38 million held by their Republican opponents, according to a CNBC analysis of FEC filings. Trump's hundreds of millions dwarfs those totals.
-The late spending also comes with trade-offs.
-Television inventory was already nearing saturation in some battlegrounds by mid-September, CNBC reported Friday, while super PACs can pay substantially more than candidates for comparable airtime. The later reservations are also costing Trump-aligned groups more than they would have if the ads had been booked earlier.
-Still, there is an argument for waiting until voters are paying closer attention.
-"The weight of the evidence is that spending earlier than September is most likely ineffective," Vanderbilt University political scientist John Sides told CNBC last week. "We can't say exactly how close to Election Day is the truly optimal time, but it makes more sense to start advertising now than spend money all summer."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/21/trump-maga-midterm-spending-war-chest.html",
-    publishedAt: "2026-09-21T20:34:33+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "airlines-criticise-air-traffic-control-a-2a8af898",
-    title: "Airlines criticise air traffic control as second glitch causes more disruption",
-    titleJa: "Airlines criticise air traffic control as second glitch causes more disruption",
-    summaryJa: "Prime Minister Andy Burnham said further issues today \"cause even greater concern\" about the UK's air traffic control and the head of the organisation that runs it.",
-    bodyOriginal: `Airlines criticise air traffic control as second glitch causes more disruption
-- Published
-Airlines have criticised the UK's air traffic control system after a second technical problem in two weeks caused major disruption to UK flights.
-EasyJet said Monday's incident "once again calls into question the resilience" of the service, while Wizz Air said there was a "national confidence crisis" in National Air Traffic Services (Nats), which runs the UK's air traffic.
-Nats said a "connectivity issue" at Prestwick was behind the disruption across Scotland, Northern Ireland and northern England - and had "nothing to do" with a separate software defect at Swanwick earlier this month.
-Prime Minister Andy Burnham said further issues today "cause even greater concern" about the UK's air traffic control.
-When asked by reporters whether he would look to fire the head of Nats, Burnham said "these are clearly serious issues and they need to be fully investigated".
-He added that the transport secretary was taking the issues "extremely seriously" and initially it's a matter for her "to get to the bottom of... and why there has been a recurrence."
-The underlying issue causing Monday's disruption has since been resolved, with Nats saying it was running at "full capacity" although officials warned of knock-on effects.
-A spokesperson said they were now "focused on working with our customers to recover their residual delays and help get their operations back to normal".
-More than 150 flights were cancelled at UK airports on Monday - including 140 departures and 137 arrivals, according to aviation analytics company Cirium.
-Easyjet was the worst affected airline, with 48 of its 670 scheduled departures cancelled, while British Airways has seen 13 cancellations from its 513 scheduled departures.
-The UK Civil Aviation Authority (CAA) said passengers who had flights disrupted were "unlikely" to be entitled to compensation.
-It said the technical issue is "likely to be considered the result of 'extraordinary circumstances' under passenger rights rules", meaning that "although passengers should be looked after by airlines, they are unlikely to be entitled to compensation for delays or cancellations that were directly caused by the incident".
-An independent review by the CAA into the resilience of the UK's air traffic control system is under way and the results will be published "within six months", it said.
-Repeated air traffic control failures leave us in worrying territory
-- Published5 hours ago
-Flight chaos caused by 'millisecond' software defect, report says
-- Published3 days ago
-Industry representative body Airlines UK said both passengers and airlines "deserve better" service after "yet another Nats failure".
-Managing director of Wizz Air UK, Yvonne Moynihan, called for "urgent reform" of Nats, adding that she did not have confidence in its current leadership.
-Asked on BBC Radio 4's World at One programme if Nats chief Martin Rolfe should resign, Moynihan said: "We need to look at the leadership at the top. But more than that, what are the board of directors doing?"
-Jet2 boss Steve Heapy called for "urgent and accountable" action to bolster the UK's air traffic control infrastructure.
-Ryanair reiterated its calls for Rolfe to resign, saying he had failed to deliver" either a reliable system or an effective back-up". The latest outage affected 140 of the airline's flights and 25,000 passengers.
-British Airways said "yet another technical fault with Nats" was "disappointing".
-A Nats spokesperson apologised, saying: "In the real world, we accept technology can and sometimes does fail. Our job is minimising disruption where possible.
-"What isn't acceptable is any incident where safety is compromised - this is always our first priority."
-They added that it was working to return air traffic to normal as quickly as possible and urged passengers to check their flight status with their airline.
-Transport Secretary Heidi Alexander acknowledged the situation was "deeply frustrating" for passengers.
-Steve Davies, 74, told the BBC he was "cheesed off with air traffic control" as technical issues with its systems seemed to be "happening a lot".
-He and his wife Sadie became stuck at Birmingham airport after being told to disembark their EasyJet flight to Edinburgh on Monday morning.
-Nicole McCloskey, from Kilmarnock, had been due to go to Disneyland Paris with her family before their flight was cancelled.
-She told the BBC her family got a message to say the flight was delayed while they were travelling to Glasgow airport, but only found out it had been grounded altogether once they arrived.
-Nicole said they have been rebooked on another flight on later on Monday and were hopeful "it's sorted in time".
-Rebecca Freeman became stranded at Bristol Airport after her flight to Edinburgh for a business meeting was cancelled. She described the atmosphere as "chaos".
-"I was caught up in the Nats issue earlier this month and spent nine hours at Bristol airport," she told the BBC.
-"I can't believe it's happened again. It is very frustrating and I will have to attempt the business meeting again for a third time," adding that she still has not received money back from the associated costs for the last time her flights were cancelled.
-Not much is known about what caused the latest Nats problems, except that there was a technical failure at its control centre in Prestwick, which handles traffic across northern England, Scotland and Northern Ireland - catering for about 42% of the UK's air traffic.
-The other Nats centre at Swanwick in Hampshire looks after airspace in the southern part of the UK, including the approaches to Heathrow and Gatwick.
-Last month's Swanwick incident affected hundreds of thousands of passengers, with some sleeping on airport floors or getting stuck overseas earlier this month.
-It was more severe as it affected intercontinental and long-haul travel via UK airspace.
-Nats said in a report last week that the software glitch happened "in the space of a millisecond" leading to the system producing corrupted data.
-Sources say that behind the scenes, airlines are "furious" that disruption keeps on happening, and that they must bear the costs of refunding passengers and looking after those affected by delays.
-There are deep concerns that not enough resources are being put into ensuring the air traffic control system has the resilience it needs.
-Rolfe told the BBC at the time of the Swanwick incident that he would not resign, saying the software defect was "very, very obscure".
-Get in touch
-Have you been affected by the disruption to flights?`,
-    bodyJa: `Airlines criticise air traffic control as second glitch causes more disruption
-- Published
-Airlines have criticised the UK's air traffic control system after a second technical problem in two weeks caused major disruption to UK flights.
-EasyJet said Monday's incident "once again calls into question the resilience" of the service, while Wizz Air said there was a "national confidence crisis" in National Air Traffic Services (Nats), which runs the UK's air traffic.
-Nats said a "connectivity issue" at Prestwick was behind the disruption across Scotland, Northern Ireland and northern England - and had "nothing to do" with a separate software defect at Swanwick earlier this month.
-Prime Minister Andy Burnham said further issues today "cause even greater concern" about the UK's air traffic control.
-When asked by reporters whether he would look to fire the head of Nats, Burnham said "these are clearly serious issues and they need to be fully investigated".
-He added that the transport secretary was taking the issues "extremely seriously" and initially it's a matter for her "to get to the bottom of... and why there has been a recurrence."
-The underlying issue causing Monday's disruption has since been resolved, with Nats saying it was running at "full capacity" although officials warned of knock-on effects.
-A spokesperson said they were now "focused on working with our customers to recover their residual delays and help get their operations back to normal".
-More than 150 flights were cancelled at UK airports on Monday - including 140 departures and 137 arrivals, according to aviation analytics company Cirium.
-Easyjet was the worst affected airline, with 48 of its 670 scheduled departures cancelled, while British Airways has seen 13 cancellations from its 513 scheduled departures.
-The UK Civil Aviation Authority (CAA) said passengers who had flights disrupted were "unlikely" to be entitled to compensation.
-It said the technical issue is "likely to be considered the result of 'extraordinary circumstances' under passenger rights rules", meaning that "although passengers should be looked after by airlines, they are unlikely to be entitled to compensation for delays or cancellations that were directly caused by the incident".
-An independent review by the CAA into the resilience of the UK's air traffic control system is under way and the results will be published "within six months", it said.
-Repeated air traffic control failures leave us in worrying territory
-- Published5 hours ago
-Flight chaos caused by 'millisecond' software defect, report says
-- Published3 days ago
-Industry representative body Airlines UK said both passengers and airlines "deserve better" service after "yet another Nats failure".
-Managing director of Wizz Air UK, Yvonne Moynihan, called for "urgent reform" of Nats, adding that she did not have confidence in its current leadership.
-Asked on BBC Radio 4's World at One programme if Nats chief Martin Rolfe should resign, Moynihan said: "We need to look at the leadership at the top. But more than that, what are the board of directors doing?"
-Jet2 boss Steve Heapy called for "urgent and accountable" action to bolster the UK's air traffic control infrastructure.
-Ryanair reiterated its calls for Rolfe to resign, saying he had failed to deliver" either a reliable system or an effective back-up". The latest outage affected 140 of the airline's flights and 25,000 passengers.
-British Airways said "yet another technical fault with Nats" was "disappointing".
-A Nats spokesperson apologised, saying: "In the real world, we accept technology can and sometimes does fail. Our job is minimising disruption where possible.
-"What isn't acceptable is any incident where safety is compromised - this is always our first priority."
-They added that it was working to return air traffic to normal as quickly as possible and urged passengers to check their flight status with their airline.
-Transport Secretary Heidi Alexander acknowledged the situation was "deeply frustrating" for passengers.
-Steve Davies, 74, told the BBC he was "cheesed off with air traffic control" as technical issues with its systems seemed to be "happening a lot".
-He and his wife Sadie became stuck at Birmingham airport after being told to disembark their EasyJet flight to Edinburgh on Monday morning.
-Nicole McCloskey, from Kilmarnock, had been due to go to Disneyland Paris with her family before their flight was cancelled.
-She told the BBC her family got a message to say the flight was delayed while they were travelling to Glasgow airport, but only found out it had been grounded altogether once they arrived.
-Nicole said they have been rebooked on another flight on later on Monday and were hopeful "it's sorted in time".
-Rebecca Freeman became stranded at Bristol Airport after her flight to Edinburgh for a business meeting was cancelled. She described the atmosphere as "chaos".
-"I was caught up in the Nats issue earlier this month and spent nine hours at Bristol airport," she told the BBC.
-"I can't believe it's happened again. It is very frustrating and I will have to attempt the business meeting again for a third time," adding that she still has not received money back from the associated costs for the last time her flights were cancelled.
-Not much is known about what caused the latest Nats problems, except that there was a technical failure at its control centre in Prestwick, which handles traffic across northern England, Scotland and Northern Ireland - catering for about 42% of the UK's air traffic.
-The other Nats centre at Swanwick in Hampshire looks after airspace in the southern part of the UK, including the approaches to Heathrow and Gatwick.
-Last month's Swanwick incident affected hundreds of thousands of passengers, with some sleeping on airport floors or getting stuck overseas earlier this month.
-It was more severe as it affected intercontinental and long-haul travel via UK airspace.
-Nats said in a report last week that the software glitch happened "in the space of a millisecond" leading to the system producing corrupted data.
-Sources say that behind the scenes, airlines are "furious" that disruption keeps on happening, and that they must bear the costs of refunding passengers and looking after those affected by delays.
-There are deep concerns that not enough resources are being put into ensuring the air traffic control system has the resilience it needs.
-Rolfe told the BBC at the time of the Swanwick incident that he would not resign, saying the software defect was "very, very obscure".
-Get in touch
-Have you been affected by the disruption to flights?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T20:21:18+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fc4/live/2a039960-b5d0-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "repeated-air-traffic-control-failures-le-3a289e20",
-    title: "Repeated air traffic control failures leave us in worrying territory",
-    titleJa: "Repeated air traffic control failures leave us in worrying territory",
-    summaryJa: "The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.",
-    bodyOriginal: `Repeated air traffic control failures leave us in worrying territory
-- Published
-To have one air traffic control failure in a fortnight may be regarded as a misfortune, to have two looks like carelessness. The UK's air traffic services provider is coming in for a wave of criticism at the moment, so where is it all leading?
-The incident at the Nats main control centre in Swanwick earlier this month was extremely serious. It caused more than 2,000 flight cancellations over two days, affecting hundreds of thousands of passengers. Some were left sleeping on airport floors, others were stranded in foreign airports.
-Monday's failure at the Prestwick centre, which looks after air traffic in Scotland, northern England and northern Ireland was not as dramatic. But according to the aviation analytics company Cirium, it still led to about 150 flights being cancelled and many other delays affecting tens of thousands of travellers.
-The first failure this month was attributed to a previously undetected software flaw, which had an impact due to a very specific set of circumstances combining in a millisecond. Today's issue was blamed on a "connectivity issue" specific to the system used in Scotland. The two, Nats says, were unrelated.
-But this is becoming worryingly familiar territory.
-In August 2023, on a bank holiday weekend, a problem with a single aircraft's flight plan caused a key system at Swanwick to break down, leading to cancellations and delays that affected 700,000 passengers.
-Two years later, a smaller "radar-related issue" disrupted air traffic for four hours, and led to the cancellation of 150 flights.
-The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.
-There is no question that the job Nats has to do is fiendishly complicated, looking after some of the busiest airspace in Europe - including the approaches to Heathrow and Gatwick - which means handling up to 8,000 flights a day.
-Visiting the Swanwick centre, it's hard not to be impressed by the sheer scale of the place, where hundreds of staff sit behind an array of large radar screens, calmly making sense of what looks to the untrained eye like utter chaos. But these controllers need reliable equipment, and the concern is that they aren't getting it.
-Steve Heapy, chief executive of Jet2 made the point: "It is simply not good enough for this critical national infrastructure to keep letting customers down."
-Easyjet said the latest incident "calls into question the resilience of Nats' systems and demonstrates the need for firm actions to prevent these repeated failures."
-A Nats spokesperson, apologising for the latest issue, said technology "can and sometimes does fail. Our job is minimising disruption where possible."
-They continued: "What isn't acceptable is any incident where safety is compromised - this is always our first priority."
-Sources say that behind the scenes, airlines are "furious" that disruption keeps on happening, and that they have to bear the costs of refunding passengers and looking after those who are affected by delays. There are deep concerns that not enough resources are being put into ensuring the air traffic control system has the resilience it needs.
-Some have gone further. Ryanair, for example, has repeatedly called for the Nats chief executive Martin Rolfe to resign, or failing that for the Transport Secretary Heidi Alexander to remove him from his post.
-But although Alexander has described the disruption in early September as "completely unacceptable", there seems little appetite to force through a change of leadership at Nats.
-The government has asked the Civil Aviation Authority (CAA) to carry out an independent review of the first incident from this month, which is expected to take six months to complete.
-Action is unlikely before the CAA's report appears, and today's events do not appear to have changed that.
-Meanwhile, Rolfe made it clear on Friday that he has no plans to resign. He emphasised that in systems of such complexity, obscure faults are extremely hard to prevent.
-"We spent so much time making sure they work that anything that does happen of this nature is, by its very nature, going to be incredibly complicated and probably difficult to understand at the time," he said.
-Nevertheless, it is clear that impatience with the Nats failures is growing, both among the airlines that pay for air traffic services and among passengers who bear the brunt when systems do not work as they should.`,
-    bodyJa: `Repeated air traffic control failures leave us in worrying territory
-- Published
-To have one air traffic control failure in a fortnight may be regarded as a misfortune, to have two looks like carelessness. The UK's air traffic services provider is coming in for a wave of criticism at the moment, so where is it all leading?
-The incident at the Nats main control centre in Swanwick earlier this month was extremely serious. It caused more than 2,000 flight cancellations over two days, affecting hundreds of thousands of passengers. Some were left sleeping on airport floors, others were stranded in foreign airports.
-Monday's failure at the Prestwick centre, which looks after air traffic in Scotland, northern England and northern Ireland was not as dramatic. But according to the aviation analytics company Cirium, it still led to about 150 flights being cancelled and many other delays affecting tens of thousands of travellers.
-The first failure this month was attributed to a previously undetected software flaw, which had an impact due to a very specific set of circumstances combining in a millisecond. Today's issue was blamed on a "connectivity issue" specific to the system used in Scotland. The two, Nats says, were unrelated.
-But this is becoming worryingly familiar territory.
-In August 2023, on a bank holiday weekend, a problem with a single aircraft's flight plan caused a key system at Swanwick to break down, leading to cancellations and delays that affected 700,000 passengers.
-Two years later, a smaller "radar-related issue" disrupted air traffic for four hours, and led to the cancellation of 150 flights.
-The question is whether all of these incidents were isolated and unavoidable, or whether they point to something more systemic.
-There is no question that the job Nats has to do is fiendishly complicated, looking after some of the busiest airspace in Europe - including the approaches to Heathrow and Gatwick - which means handling up to 8,000 flights a day.
-Visiting the Swanwick centre, it's hard not to be impressed by the sheer scale of the place, where hundreds of staff sit behind an array of large radar screens, calmly making sense of what looks to the untrained eye like utter chaos. But these controllers need reliable equipment, and the concern is that they aren't getting it.
-Steve Heapy, chief executive of Jet2 made the point: "It is simply not good enough for this critical national infrastructure to keep letting customers down."
-Easyjet said the latest incident "calls into question the resilience of Nats' systems and demonstrates the need for firm actions to prevent these repeated failures."
-A Nats spokesperson, apologising for the latest issue, said technology "can and sometimes does fail. Our job is minimising disruption where possible."
-They continued: "What isn't acceptable is any incident where safety is compromised - this is always our first priority."
-Sources say that behind the scenes, airlines are "furious" that disruption keeps on happening, and that they have to bear the costs of refunding passengers and looking after those who are affected by delays. There are deep concerns that not enough resources are being put into ensuring the air traffic control system has the resilience it needs.
-Some have gone further. Ryanair, for example, has repeatedly called for the Nats chief executive Martin Rolfe to resign, or failing that for the Transport Secretary Heidi Alexander to remove him from his post.
-But although Alexander has described the disruption in early September as "completely unacceptable", there seems little appetite to force through a change of leadership at Nats.
-The government has asked the Civil Aviation Authority (CAA) to carry out an independent review of the first incident from this month, which is expected to take six months to complete.
-Action is unlikely before the CAA's report appears, and today's events do not appear to have changed that.
-Meanwhile, Rolfe made it clear on Friday that he has no plans to resign. He emphasised that in systems of such complexity, obscure faults are extremely hard to prevent.
-"We spent so much time making sure they work that anything that does happen of this nature is, by its very nature, going to be incredibly complicated and probably difficult to understand at the time," he said.
-Nevertheless, it is clear that impatience with the Nats failures is growing, both among the airlines that pay for air traffic services and among passengers who bear the brunt when systems do not work as they should.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmde0pp22r5go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-21T16:39:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b31/live/a4cf8470-b5d9-11f1-b1d1-571ed4d7ff2c.jpg",
     readTime: 10,
   },
 ];
