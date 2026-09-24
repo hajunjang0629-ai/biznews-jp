@@ -15,6 +15,376 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "philadelphia-fed-s-anna-paulson-says-mod-79511e56",
+    title: "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+    titleJa: "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
+    summaryJa: "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
+    bodyOriginal: `Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.
+Speaking a week after the Federal Open Market Committee raised benchmark borrowing rates by a quarter percentage point, Paulson said inflation trends are still worrying.
+The rate hike, which took the key funds rate to a target range of 3.75%-4%, "brings policy closer to what I believe is needed to return inflation to 2% at a pace that balances inflation with risks to the labor market. Looking ahead, if conditions evolve as I expect, some modest further tightening may be warranted."
+Though the summer showed some moderating in price pressures, she said underlying inflation is still running around 2.5%-3%, "well above our 2% target, and the gap has shown little signs of closing."
+"The best I can say about underlying inflation this year is that it hasn't gotten worse," Paulson said in prepared remarks for a fintech conference in her home district. She noted that inflation has held higher even outside of the oil supply shocks from the Iran war and tariffs.
+Outside of inflation, Paulson said economic output "has been solid" while the labor market is "holding steady."
+The comments come as markets have raised their expectations for Fed tightening dramatically.
+Another leg up this week has taken longer-duration Treasury yields to highs not seen since 2004. Traders are now pricing in a 64% chance the FOMC hikes again in October, then expect another move in January, according to the CME Group's FedWatch tool. Fed funds futures contracts are implying a rate of 4.8% by the end of 2027, which would indicate the expectation of as many as four quarter-point increases ahead.
+New York Fed President John Williams said earlier Thursday that he thinks it's "reasonable" to expect another hike before the end of the year.`,
+    bodyJa: `Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.
+Speaking a week after the Federal Open Market Committee raised benchmark borrowing rates by a quarter percentage point, Paulson said inflation trends are still worrying.
+The rate hike, which took the key funds rate to a target range of 3.75%-4%, "brings policy closer to what I believe is needed to return inflation to 2% at a pace that balances inflation with risks to the labor market. Looking ahead, if conditions evolve as I expect, some modest further tightening may be warranted."
+Though the summer showed some moderating in price pressures, she said underlying inflation is still running around 2.5%-3%, "well above our 2% target, and the gap has shown little signs of closing."
+"The best I can say about underlying inflation this year is that it hasn't gotten worse," Paulson said in prepared remarks for a fintech conference in her home district. She noted that inflation has held higher even outside of the oil supply shocks from the Iran war and tariffs.
+Outside of inflation, Paulson said economic output "has been solid" while the labor market is "holding steady."
+The comments come as markets have raised their expectations for Fed tightening dramatically.
+Another leg up this week has taken longer-duration Treasury yields to highs not seen since 2004. Traders are now pricing in a 64% chance the FOMC hikes again in October, then expect another move in January, according to the CME Group's FedWatch tool. Fed funds futures contracts are implying a rate of 4.8% by the end of 2027, which would indicate the expectation of as many as four quarter-point increases ahead.
+New York Fed President John Williams said earlier Thursday that he thinks it's "reasonable" to expect another hike before the end of the year.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
+    publishedAt: "2026-09-24T17:00:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "oracle-sends-force-majeure-notice-about-1798a854",
+    title: "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+    titleJa: "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
+    summaryJa: "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
+    bodyOriginal: `Oracle shares fell 4% on Thursday following news that the company sent a "force majeure" notice tied to its New Mexico data center project to protect itself from higher expenses.
+"Project Jupiter remains on our planned schedule," Oracle said in a statement to CNBC. "We are fully committed to New Mexico and confident in our path forward."
+Bloomberg was first to report the news, citing sources familiar with the matter.
+The company is looking to delay payment on the campus, dubbed Project Jupiter, if it fails to come online as expected in 2028, according to the report.
+Oracle sent the notice to the developer, which is a unit of Blue Owl Capital, CNBC confirmed. Blue Owl also saw its shares fall on Thursday.
+"This notice does not change the financial commitments to this multi-year project," Blue Owl Capital said in a statement to CNBC.
+The New Mexico data center project, which is part of the broader Stargate artificial intelligence infrastructure build-out with President Donald Trump, has been riddled with setbacks and regulatory hurdles.
+That includes local opposition to data centers ahead of the upcoming midterm elections and concerns from environmental groups.
+Oracle co-CEO Clay Magouyrk told analysts on the company's earnings call on Sept. 10 that Project Jupiter would not affect its previously stated fiscal 2027 revenue or earnings guidance.
+Concerns have also mounted over Oracle's $18 billion in debt tied to the data center, which is already trading at stressed levels, according to the Financial Times.
+— CNBC's Seema Mody and Leslie Picker contributed reporting.`,
+    bodyJa: `Oracle shares fell 4% on Thursday following news that the company sent a "force majeure" notice tied to its New Mexico data center project to protect itself from higher expenses.
+"Project Jupiter remains on our planned schedule," Oracle said in a statement to CNBC. "We are fully committed to New Mexico and confident in our path forward."
+Bloomberg was first to report the news, citing sources familiar with the matter.
+The company is looking to delay payment on the campus, dubbed Project Jupiter, if it fails to come online as expected in 2028, according to the report.
+Oracle sent the notice to the developer, which is a unit of Blue Owl Capital, CNBC confirmed. Blue Owl also saw its shares fall on Thursday.
+"This notice does not change the financial commitments to this multi-year project," Blue Owl Capital said in a statement to CNBC.
+The New Mexico data center project, which is part of the broader Stargate artificial intelligence infrastructure build-out with President Donald Trump, has been riddled with setbacks and regulatory hurdles.
+That includes local opposition to data centers ahead of the upcoming midterm elections and concerns from environmental groups.
+Oracle co-CEO Clay Magouyrk told analysts on the company's earnings call on Sept. 10 that Project Jupiter would not affect its previously stated fiscal 2027 revenue or earnings guidance.
+Concerns have also mounted over Oracle's $18 billion in debt tied to the data center, which is already trading at stressed levels, according to the Financial Times.
+— CNBC's Seema Mody and Leslie Picker contributed reporting.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
+    publishedAt: "2026-09-24T16:48:38+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "my-husband-and-i-are-in-our-50s-and-have-eda0d7ac",
+    title: "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+    titleJa: "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+    summaryJa: "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+    bodyOriginal: `“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”`,
+    bodyJa: `“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+    publishedAt: "2026-09-24T16:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-79889315",
+    readTime: 2,
+  },
+  {
+    id: "new-york-sues-polymarket-u-s-two-months-14259a61",
+    title: "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+    titleJa: "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+    summaryJa: "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
+    bodyOriginal: `New York State filed suit against Polymarket U.S. on Thursday, nearly two months after the state sued the platform's competitor, Kalshi.
+"By skirting New York's laws, Polymarket is targeting the most vulnerable and depriving New York families of critical services and support," state Attorney General Letitia James said in a statement.
+The lawsuit claims Polymarket operates an illegal gambling platform and is in violation of state gambling laws, including having no license with the New York State Gaming Commission. The lawsuit further claims Polymarket allows activity by users over 18 and cited a report from the state's Office of Addiction Services and Supports that those between 18 and 24 are at "high-risk" of gambling addictions.
+"By running an unlicensed gambling operation, Polymarket has done more than just knowingly violate state law, they have put New Yorkers at risk, especially those underage who are most vulnerable to problem gaming," Governor Kathy Hochul said in a statement.
+Penalties and earnings
+The lawsuit asks for penalties, including three times the amount of any Polymarket gains, and to pay $100,000 for each attempt or offer of "sports wagering or mobile sports wagering" in New York. The lawsuit also asks Polymarket U.S. to provide an account of all trades placed on the platform, the money lost by users and the amount Polymarket U.S. earned.
+Polymarket U.S. debuted in December 2025 and is regulated by the Commodity Futures Trading Commission, the federal agency that regulates prediction markets platforms. The company also runs an offshore predictions platform, which was founded in 2020. The CFTC has not responded to a request for comment.
+The lawsuit is the latest in the escalating regulatory feud between states and the platforms. The CFTC has retaliated, suing several states and asserting it has the right to regulate the markets.
+Polymarket defended itself against the latest New York action.
+""Polymarket was founded in a tiny NYC apartment and now has more than 350 employees here, embodying why people and businesses come here to make it. We believe in New York and we're staying here. While the AG's decision to copy/paste a recycled lawsuit is disappointing, we'll fight for our users," said Neal Kumar, the chief legal officer for the platform.
+- Davis Giangiulio contributed to this report.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `New York State filed suit against Polymarket U.S. on Thursday, nearly two months after the state sued the platform's competitor, Kalshi.
+"By skirting New York's laws, Polymarket is targeting the most vulnerable and depriving New York families of critical services and support," state Attorney General Letitia James said in a statement.
+The lawsuit claims Polymarket operates an illegal gambling platform and is in violation of state gambling laws, including having no license with the New York State Gaming Commission. The lawsuit further claims Polymarket allows activity by users over 18 and cited a report from the state's Office of Addiction Services and Supports that those between 18 and 24 are at "high-risk" of gambling addictions.
+"By running an unlicensed gambling operation, Polymarket has done more than just knowingly violate state law, they have put New Yorkers at risk, especially those underage who are most vulnerable to problem gaming," Governor Kathy Hochul said in a statement.
+Penalties and earnings
+The lawsuit asks for penalties, including three times the amount of any Polymarket gains, and to pay $100,000 for each attempt or offer of "sports wagering or mobile sports wagering" in New York. The lawsuit also asks Polymarket U.S. to provide an account of all trades placed on the platform, the money lost by users and the amount Polymarket U.S. earned.
+Polymarket U.S. debuted in December 2025 and is regulated by the Commodity Futures Trading Commission, the federal agency that regulates prediction markets platforms. The company also runs an offshore predictions platform, which was founded in 2020. The CFTC has not responded to a request for comment.
+The lawsuit is the latest in the escalating regulatory feud between states and the platforms. The CFTC has retaliated, suing several states and asserting it has the right to regulate the markets.
+Polymarket defended itself against the latest New York action.
+""Polymarket was founded in a tiny NYC apartment and now has more than 350 employees here, embodying why people and businesses come here to make it. We believe in New York and we're staying here. While the AG's decision to copy/paste a recycled lawsuit is disappointing, we'll fight for our users," said Neal Kumar, the chief legal officer for the platform.
+- Davis Giangiulio contributed to this report.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
+    publishedAt: "2026-09-24T16:37:02+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "rogue-openai-agent-infiltrated-australia-37782ca2",
+    title: "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+    titleJa: "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+    summaryJa: "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+    bodyOriginal: `Rogue OpenAI agent 'infiltrated' Australian government website in world first
+- Published
+A rogue OpenAI agent hacked an Australian government website in June and accessed private data in what experts say is the first known case of its kind in the world.
+The agent "infiltrated" a statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Prime Minister Anthony Albanese said in New York on Wednesday, local time.
+He had a "very frank discussion" with OpenAI boss Sam Altman for taking "too long" to disclose the breach and said there would be "legal consequences".
+OpenAI said it only learnt of the breach in August while reviewing "misaligned model activity" and emailed a general inbox of an Australian government agency on 10 September.
+Five days later, that government agency, Services Australia, escalated the email to Australia's cybersecurity centre before a government minister was notified and the prime minister alerted.
+Albanese said he spoke to Altman and raised "Australia's extreme concern about this incident" as well as his "disappointment" that the company had taken months to reveal the breach and "the nature of the way" it did so.
+The Australian leader said Altman had acknowledged there were "issues with protocols" at OpenAI.
+A "forensic investigation" led by the country's cybersecurity agency would aim to find out if other government systems were affected, Albanese said.
+The probe would also assess if the matter needed to be dealt with by police, he said, noting there "will obviously be legal consequences".
+Detailing the breach, Albanese said it had involved "public and non-public files" on the Medicare Statistics Reporting Service portal, home to "non-sensitive" data and statistics.
+Three other government systems "may" also have been affected: the Australian Institute of Health and Welfare and two state-based agencies - the New South Wales Bureau of Crime Statistics and Research and the Victorian Department of Health.
+"No personal information is believed to have been accessed at this stage, but investigations are ongoing," Albanese said.
+"Nonetheless this situation is obviously unacceptable," he said.
+OpenAI, in a statement, said it had "identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation".
+"In the course of that, our models took actions we did not intend," the statement said.
+It has also emerged that OpenAI's systems tried, and failed, to hack a digital library at the University of New Mexico in May, according to Transluce, a not-for-profit AI research lab.
+It said the systems also attempted to hack Data USA, a repository of public government data that same month. This also failed.
+Albanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.
+Australia was one of 22 countries that earlier this week signed a joint statement calling for global oversight and guardrails for the development of AI.
+Cybersecurity experts told the BBC the incident is a wake up call for regulators, given that AI agents are becoming more widely available for individual and commercial use.
+Dr Hammond Pearce, senior lecturer at the University of NSW Institute for Cyber Security, told the BBC that though this is the first known incident where AI agents have chosen to breach a government body of their own volition, there'll be more to come.
+"I expect that these kinds of attacks will keep occurring," he said, adding that they would likely "grow in severity and in frequency".
+"I do hope that this incident does start ringing alarm bells in governments around the world."
+Earlier this year, OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm named Hugging Face.
+And a string of other rogue AI incidents have also been made public this year, including a case where a digital assistant - without instruction - booted someone off a pilates class waiting list in a bid to get an Australian man in.
+Several AI firm leaders themselves - including Altman, Anthropic's Dario Amodei, and Elon Musk - have said the speed at which AI is developing is dangerous to humanity and needs to be reined in.
+But the US and China, who are vying for AI supremacy, are roadblocks. Both are hostile to greater regulation, wanting the economic and technological spoils of AI, and have downplayed safety concerns.
+Related topics
+- Published4 September
+- Published18 hours ago
+- Published1 day ago`,
+    bodyJa: `Rogue OpenAI agent 'infiltrated' Australian government website in world first
+- Published
+A rogue OpenAI agent hacked an Australian government website in June and accessed private data in what experts say is the first known case of its kind in the world.
+The agent "infiltrated" a statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Prime Minister Anthony Albanese said in New York on Wednesday, local time.
+He had a "very frank discussion" with OpenAI boss Sam Altman for taking "too long" to disclose the breach and said there would be "legal consequences".
+OpenAI said it only learnt of the breach in August while reviewing "misaligned model activity" and emailed a general inbox of an Australian government agency on 10 September.
+Five days later, that government agency, Services Australia, escalated the email to Australia's cybersecurity centre before a government minister was notified and the prime minister alerted.
+Albanese said he spoke to Altman and raised "Australia's extreme concern about this incident" as well as his "disappointment" that the company had taken months to reveal the breach and "the nature of the way" it did so.
+The Australian leader said Altman had acknowledged there were "issues with protocols" at OpenAI.
+A "forensic investigation" led by the country's cybersecurity agency would aim to find out if other government systems were affected, Albanese said.
+The probe would also assess if the matter needed to be dealt with by police, he said, noting there "will obviously be legal consequences".
+Detailing the breach, Albanese said it had involved "public and non-public files" on the Medicare Statistics Reporting Service portal, home to "non-sensitive" data and statistics.
+Three other government systems "may" also have been affected: the Australian Institute of Health and Welfare and two state-based agencies - the New South Wales Bureau of Crime Statistics and Research and the Victorian Department of Health.
+"No personal information is believed to have been accessed at this stage, but investigations are ongoing," Albanese said.
+"Nonetheless this situation is obviously unacceptable," he said.
+OpenAI, in a statement, said it had "identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation".
+"In the course of that, our models took actions we did not intend," the statement said.
+It has also emerged that OpenAI's systems tried, and failed, to hack a digital library at the University of New Mexico in May, according to Transluce, a not-for-profit AI research lab.
+It said the systems also attempted to hack Data USA, a repository of public government data that same month. This also failed.
+Albanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.
+Australia was one of 22 countries that earlier this week signed a joint statement calling for global oversight and guardrails for the development of AI.
+Cybersecurity experts told the BBC the incident is a wake up call for regulators, given that AI agents are becoming more widely available for individual and commercial use.
+Dr Hammond Pearce, senior lecturer at the University of NSW Institute for Cyber Security, told the BBC that though this is the first known incident where AI agents have chosen to breach a government body of their own volition, there'll be more to come.
+"I expect that these kinds of attacks will keep occurring," he said, adding that they would likely "grow in severity and in frequency".
+"I do hope that this incident does start ringing alarm bells in governments around the world."
+Earlier this year, OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm named Hugging Face.
+And a string of other rogue AI incidents have also been made public this year, including a case where a digital assistant - without instruction - booted someone off a pilates class waiting list in a bid to get an Australian man in.
+Several AI firm leaders themselves - including Altman, Anthropic's Dario Amodei, and Elon Musk - have said the speed at which AI is developing is dangerous to humanity and needs to be reined in.
+But the US and China, who are vying for AI supremacy, are roadblocks. Both are hostile to greater regulation, wanting the economic and technological spoils of AI, and have downplayed safety concerns.
+Related topics
+- Published4 September
+- Published18 hours ago
+- Published1 day ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T15:42:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
+    id: "analysis-higher-treasury-yields-deliver-b19322a2",
+    title: "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
+    titleJa: "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
+    summaryJa: "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
+    bodyOriginal: `The jump in Treasury yields this week is delivering a reality check about a strong economy, stubborn inflation, and the growing cost of the national debt.
+That will put the squeeze on the debt-heavy Trump administration as it tries to find a path forward for the economy.
+It also highlights the tension between the nation's top two economic policymakers. Federal Reserve Chairman Kevin Warsh wants to hear what markets are saying. Treasury Secretary Scott Bessent wants to use his tools to change the message when he believes it's wrong.
+Bond yields jumped Wednesday, and were trading near multiple-decade highs Thursday, as traders digested surprisingly positive purchasing managers indices against the backdrop of a Fed that as of last week has started hiking its short-term policy rate. The 2-year Treasury yield rose 10 basis points to 4.87%, while the 10-year Treasury rose 17 basis points to 5.12% Thursday morning.
+Those yields are extraordinary by recent standards but less so over a longer horizon. The 10-year Treasury averaged about 5.9% from 1990 through 2006, before years of slow growth and usually low interest rates reset Americans' expectations about borrowing costs.
+Now the economy looks stronger, propelled in part by a surge in investment in artificial intelligence. Competition for capital has contributed to higher interest rates.
+The boom appears to go deeper. The Census Bureau reported last week that real median household income rose 2.6% to $87,460 and the poverty rate fell by half a percentage point to 10.2%.
+The economy's recent strength has also come on the back of a flood of government deficit spending, driven in part by large tax cuts under the first and second Trump administrations, with Iran war spending piling on. The federal deficit is set to come in above 6% of gross domestic product this year, based on data from the Congressional Budget Office. The agency projects that the tax-and-policy law passed last year will raise deficits by $4.7 trillion over 10 years, though tariffs will offset some of that.
+The nation is awash in credit. Warsh pointed to heavy debt issuance by banks and other financial institutions and tight credit spreads — suggesting borrowers have little trouble seeking loans — as among the key factors that prompted him to vote with the rest of the Fed's policymakers to raise interest rates.
+In the days since, several other Fed officials, including Governor Michael Barr on Wednesday, said they thought more rate increases would likely be needed.
+Bond yields likely benefitted from Warsh's decision to raise interest rates this week. Had Warsh not acted on inflation, traders would have run up long-term yields to account for the uncertainty of when and how the Fed might act.
+But Warsh will only go so far to influence the 10-year. "Ensuring continuous, sustainable, durable, economic growth, that's the business we're in," he said last week. Warsh and the Fed will act to try to tamp down the risk of inflation, but he doesn't want to induce a recession.
+The Fed's decision to move up interest rates highlights the possibility for tension with the Treasury Department.
+Warsh treats the 10-year Treasury as a vital source of information about the economy. He called it "the most important asset anywhere in the world" at his most recent press conference. He has changed the way the Fed communicates to make it easier for him to read the market's unfiltered signal.
+Bessent, on the other hand, has shown willingness to intervene when he believes markets have moved away from equilibrium. He recently ramped up the Treasury's efforts to buy back some long-term debt maturities because he saw a "fever" in the markets.
+"I don't believe that I can change the equilibrium price, but nothing's ever in equilibrium," Bessent said at a Breitbart event on Sept. 8. "When there's a disequilibrium, my job is to try to push things back towards equilibrium," he said.
+The stakes are growing because the Treasury must refinance a huge stock of debt while continuing to refinance large deficits. Some in the markets expect the Treasury to cut the supply of long-term debt it issues in favor of more short-term bills.
+That can get expensive for the U.S. government, and the taxpayer, when the Fed is raising short-term interest rates.
+Higher long-term rates compound the risks. The Committee for a Responsible Federal Budget calculates that the 10-year Treasury at 5% is about 80 basis points above CBO's baseline. If it stays that way over the coming decade, interest costs would rise to an annual $2.7 trillion — more than Social Security or Medicare, the nonpartisan group said.
+Higher average interest rates also mean U.S. growth has to stay higher for longer for the nation to have any chance at growing its way out of debt.
+That already looks unlikely. The International Monetary Fund estimated earlier this year that the U.S. government would need to run a primary budget surplus of 1% of GDP to put U.S. debt on a downward trajectory.
+With President Donald Trump promising $5,000 checks if Republicans sweep the midterm election, a turn toward fiscal rectitude looks unlikely.
+The bond market doesn't care about the politics. It's rendering a verdict about the cost of capital in a strong economy with continuing inflation pressure and vast government borrowing needs.
+Policymakers may not like that judgment, but they can't ignore it.`,
+    bodyJa: `The jump in Treasury yields this week is delivering a reality check about a strong economy, stubborn inflation, and the growing cost of the national debt.
+That will put the squeeze on the debt-heavy Trump administration as it tries to find a path forward for the economy.
+It also highlights the tension between the nation's top two economic policymakers. Federal Reserve Chairman Kevin Warsh wants to hear what markets are saying. Treasury Secretary Scott Bessent wants to use his tools to change the message when he believes it's wrong.
+Bond yields jumped Wednesday, and were trading near multiple-decade highs Thursday, as traders digested surprisingly positive purchasing managers indices against the backdrop of a Fed that as of last week has started hiking its short-term policy rate. The 2-year Treasury yield rose 10 basis points to 4.87%, while the 10-year Treasury rose 17 basis points to 5.12% Thursday morning.
+Those yields are extraordinary by recent standards but less so over a longer horizon. The 10-year Treasury averaged about 5.9% from 1990 through 2006, before years of slow growth and usually low interest rates reset Americans' expectations about borrowing costs.
+Now the economy looks stronger, propelled in part by a surge in investment in artificial intelligence. Competition for capital has contributed to higher interest rates.
+The boom appears to go deeper. The Census Bureau reported last week that real median household income rose 2.6% to $87,460 and the poverty rate fell by half a percentage point to 10.2%.
+The economy's recent strength has also come on the back of a flood of government deficit spending, driven in part by large tax cuts under the first and second Trump administrations, with Iran war spending piling on. The federal deficit is set to come in above 6% of gross domestic product this year, based on data from the Congressional Budget Office. The agency projects that the tax-and-policy law passed last year will raise deficits by $4.7 trillion over 10 years, though tariffs will offset some of that.
+The nation is awash in credit. Warsh pointed to heavy debt issuance by banks and other financial institutions and tight credit spreads — suggesting borrowers have little trouble seeking loans — as among the key factors that prompted him to vote with the rest of the Fed's policymakers to raise interest rates.
+In the days since, several other Fed officials, including Governor Michael Barr on Wednesday, said they thought more rate increases would likely be needed.
+Bond yields likely benefitted from Warsh's decision to raise interest rates this week. Had Warsh not acted on inflation, traders would have run up long-term yields to account for the uncertainty of when and how the Fed might act.
+But Warsh will only go so far to influence the 10-year. "Ensuring continuous, sustainable, durable, economic growth, that's the business we're in," he said last week. Warsh and the Fed will act to try to tamp down the risk of inflation, but he doesn't want to induce a recession.
+The Fed's decision to move up interest rates highlights the possibility for tension with the Treasury Department.
+Warsh treats the 10-year Treasury as a vital source of information about the economy. He called it "the most important asset anywhere in the world" at his most recent press conference. He has changed the way the Fed communicates to make it easier for him to read the market's unfiltered signal.
+Bessent, on the other hand, has shown willingness to intervene when he believes markets have moved away from equilibrium. He recently ramped up the Treasury's efforts to buy back some long-term debt maturities because he saw a "fever" in the markets.
+"I don't believe that I can change the equilibrium price, but nothing's ever in equilibrium," Bessent said at a Breitbart event on Sept. 8. "When there's a disequilibrium, my job is to try to push things back towards equilibrium," he said.
+The stakes are growing because the Treasury must refinance a huge stock of debt while continuing to refinance large deficits. Some in the markets expect the Treasury to cut the supply of long-term debt it issues in favor of more short-term bills.
+That can get expensive for the U.S. government, and the taxpayer, when the Fed is raising short-term interest rates.
+Higher long-term rates compound the risks. The Committee for a Responsible Federal Budget calculates that the 10-year Treasury at 5% is about 80 basis points above CBO's baseline. If it stays that way over the coming decade, interest costs would rise to an annual $2.7 trillion — more than Social Security or Medicare, the nonpartisan group said.
+Higher average interest rates also mean U.S. growth has to stay higher for longer for the nation to have any chance at growing its way out of debt.
+That already looks unlikely. The International Monetary Fund estimated earlier this year that the U.S. government would need to run a primary budget surplus of 1% of GDP to put U.S. debt on a downward trajectory.
+With President Donald Trump promising $5,000 checks if Republicans sweep the midterm election, a turn toward fiscal rectitude looks unlikely.
+The bond market doesn't care about the politics. It's rendering a verdict about the cost of capital in a strong economy with continuing inflation pressure and vast government borrowing needs.
+Policymakers may not like that judgment, but they can't ignore it.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
+    publishedAt: "2026-09-24T15:40:19+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "reported-assaults-on-britain-s-rail-serv-6ccddc97",
+    title: "Reported assaults on Britain's rail services rise by more than a third",
+    titleJa: "Reported assaults on Britain's rail services rise by more than a third",
+    summaryJa: "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+    bodyOriginal: `Reported assaults on Britain's rail services rise by more than a third
+- Published
+Reports of violent incidents and harassment on rail services "rose substantially" last year, figures from the rail regulator show.
+Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).
+In total 13,464 assaults against passengers and members of the public were recorded on Britain's mainline railway, the highest number recorded since the series began in 2004.
+The ORR said the figures were "concerning" and that it was working with the industry to address the problem.
+According to the figures, harassment increased by 52% compared with the previous year and common assaults rose by 30%.
+The increase comes against a backdrop of five years of rising reports of incidents and industry campaigns to raise awareness.
+Assaults on the mainline railway are recorded according to their type. As a result each incident can lead to reports in more than one category, for example if someone is harassed and then physically assaulted.
+There were also 11,289 reported assaults against members of the workforce on the mainline railway, up 12% compared with the previous year.
+Of those 2,487 were physical assaults, while more than half (6,390 incidents) involved verbal abuse. The rest were threats.
+"We're working with industry and our trade union colleagues to address work-related violence and harassment," said Richard Hines, the ORR's chief inspector of railways.
+"This includes understanding where the risks are, putting effective controls in place, encouraging staff to report incidents and providing appropriate support afterwards," he said.
+The statistics include mainline rail services in England, Scotland and Wales, but not Northern Ireland. The data release also covers the London Underground, trams, metros and other light rail services.
+On the London Underground, recorded assaults increased 20% to 5,534 in the latest year, but reported workforce assaults fell 3% to 3,525.
+Transport for London does not record multiple aspects of each incident. Instead it records the most severe aspect reported.
+A spokesperson responding on behalf of Network Rail and the train companies said all operators were working to reduce risk and prevent harm by sharing information, improving reporting processes and deploying body-worn cameras.
+"Keeping passengers and colleagues safe is at the heart of everything we do," the spokesperson said.
+"Violence, abuse and intimidation directed at passengers or staff are completely unacceptable. The rail industry works closely with British Transport Police to investigate incidents, support victims and bring offenders to justice."
+The passenger body, Transport Focus, said the ORR's figures supported research it conducted which found personal security was "one of the highest priorities" for passengers. However, only 3% of passengers it surveyed said they were dissatisfied with personal safety at the station.
+Transport Focus acknowledged that some of the increase might reflect better reporting. Nevertheless, every incident represented someone negatively affected, it said, adding it would like to see "a much more strategic approach" to tackling the issue.
+The RMT union, representing rail industry workers, said the figures corresponded with the union's own figures indicating two-thirds of its members had experienced violence at work.
+RMT general secretary Eddie Dempsey called for an increase in staffing on public transport, including an end to lone working, to combat the problem.
+"We also clearly need stronger legal protections for public transport workers against assaults at work," he said.
+He said cuts to British Transport Police funding had been "disastrous" and called for outsourced security and enforcement staff to be brought in-house "as a matter of urgency".
+Other notable figures from the statistical release include that 11 members of the public died at mainline level crossings in the latest year, six more than the previous year. Eight were pedestrians and the others were road vehicle users.
+Get in touch
+Have you experienced an assault on rail services? How safe do you feel? What measures would reassure you of your safety? Tell us.
+Related topics
+- Published16 September
+- Published6 August`,
+    bodyJa: `Reported assaults on Britain's rail services rise by more than a third
+- Published
+Reports of violent incidents and harassment on rail services "rose substantially" last year, figures from the rail regulator show.
+Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).
+In total 13,464 assaults against passengers and members of the public were recorded on Britain's mainline railway, the highest number recorded since the series began in 2004.
+The ORR said the figures were "concerning" and that it was working with the industry to address the problem.
+According to the figures, harassment increased by 52% compared with the previous year and common assaults rose by 30%.
+The increase comes against a backdrop of five years of rising reports of incidents and industry campaigns to raise awareness.
+Assaults on the mainline railway are recorded according to their type. As a result each incident can lead to reports in more than one category, for example if someone is harassed and then physically assaulted.
+There were also 11,289 reported assaults against members of the workforce on the mainline railway, up 12% compared with the previous year.
+Of those 2,487 were physical assaults, while more than half (6,390 incidents) involved verbal abuse. The rest were threats.
+"We're working with industry and our trade union colleagues to address work-related violence and harassment," said Richard Hines, the ORR's chief inspector of railways.
+"This includes understanding where the risks are, putting effective controls in place, encouraging staff to report incidents and providing appropriate support afterwards," he said.
+The statistics include mainline rail services in England, Scotland and Wales, but not Northern Ireland. The data release also covers the London Underground, trams, metros and other light rail services.
+On the London Underground, recorded assaults increased 20% to 5,534 in the latest year, but reported workforce assaults fell 3% to 3,525.
+Transport for London does not record multiple aspects of each incident. Instead it records the most severe aspect reported.
+A spokesperson responding on behalf of Network Rail and the train companies said all operators were working to reduce risk and prevent harm by sharing information, improving reporting processes and deploying body-worn cameras.
+"Keeping passengers and colleagues safe is at the heart of everything we do," the spokesperson said.
+"Violence, abuse and intimidation directed at passengers or staff are completely unacceptable. The rail industry works closely with British Transport Police to investigate incidents, support victims and bring offenders to justice."
+The passenger body, Transport Focus, said the ORR's figures supported research it conducted which found personal security was "one of the highest priorities" for passengers. However, only 3% of passengers it surveyed said they were dissatisfied with personal safety at the station.
+Transport Focus acknowledged that some of the increase might reflect better reporting. Nevertheless, every incident represented someone negatively affected, it said, adding it would like to see "a much more strategic approach" to tackling the issue.
+The RMT union, representing rail industry workers, said the figures corresponded with the union's own figures indicating two-thirds of its members had experienced violence at work.
+RMT general secretary Eddie Dempsey called for an increase in staffing on public transport, including an end to lone working, to combat the problem.
+"We also clearly need stronger legal protections for public transport workers against assaults at work," he said.
+He said cuts to British Transport Police funding had been "disastrous" and called for outsourced security and enforcement staff to be brought in-house "as a matter of urgency".
+Other notable figures from the statistical release include that 11 members of the public died at mainline level crossings in the latest year, six more than the previous year. Eight were pedestrians and the others were road vehicle users.
+Get in touch
+Have you experienced an assault on rail services? How safe do you feel? What measures would reassure you of your safety? Tell us.
+Related topics
+- Published16 September
+- Published6 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T15:38:50+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg",
+    readTime: 10,
+  },
+  {
+    id: "big-business-warns-trump-against-diesel-8cdcb3c3",
+    title: "Big business warns Trump against diesel export ban in joint letter",
+    titleJa: "Big business warns Trump against diesel export ban in joint letter",
+    summaryJa: "The national average for a gallon of diesel reached $6.51 on Thursday, nearly $3 more than the same period a year ago, according to data from AAA.",
+    bodyOriginal: `The biggest business groups in the U.S. warned President Trump against a diesel export ban this week, saying in a joint letter that such an action would prove counterproductive and raise fuel prices rather than lower them.
+The U.S. Chamber of Commerce, Business Roundtable, National Association of Manufacturers, American Petroleum Institute and dozens of other groups told Trump that an export ban would "lead to less fuel production, tighter supplies and rising costs for American families, farmers and truckers."
+"You have been asked by some to ban or limit the export of diesel to help lower prices, when in fact the opposite would occur," the groups warned in the letter sent to Trump on Wednesday.
+You can download the letter here
+Trump is facing growing political pressure from Republican lawmakers in farm states including Iowa to take action to lower fuel prices ahead of the U.S. midterm elections. Diesel cost a national average of $6.51 per gallon Thursday, $2.82 more expensive than the same period last year, according to data from AAA.
+Trump said Tuesday that he has advocated for an export ban during deliberations within the administration. The remarks took the oil industry and business groups by surprise.
+"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters on the sidelines of the U.N. General Assembly in New York. "I've called for it within my people. I've been talking about it."
+Feasibility study
+Asked by Trump to explain the administration's deliberations to the press, Treasury Secretary Scott Bessent said the White House was examining whether an export ban is "feasible in terms of the overall refining capacity and whether a full or partial ban would work."
+A report on Politico Wednesday citing unnamed sources that the administration was preparing a plan to ban diesel exports for 90 days drove down diesel futures and shares of U.S. oil refiners.
+But U.S. Energy Secretary Chris Wright told The New York Times later Wednesday that "nobody wants a full blanket ban or zero exports of diesel."
+"That's not being discussed," Wright told the Times. "What's being discussed is what's the most efficient way to get more diesel into the United States of America and continue maximum flows of gasoline and jet fuel and all that."
+Wright, an oil industry veteran who previoulsy served as CEO of oilfield servicer Liberty Energy, has said a diesel export ban would raise U.S. gasoline prices.
+Energy experts say an export ban would lead to a brief collapse in diesel prices in some U.S. regions but fuel prices would then shoot higher as refiners cut production in response to the restrictions.
+Diesel prices have soared as Ukraine's attacks on Russian refineries have forced Moscow to ban diesel exports. Russia was previously the second-largest diesel exporter in the world. A ban on U.S. diesel exports would remove the global market's largest source of supply.
+Iran and its Houthi allies have also attacked refineries in the Middle East, and exports through the Strait of Hormuz are constrained as Iran continues to threaten and attack tankers.`,
+    bodyJa: `The biggest business groups in the U.S. warned President Trump against a diesel export ban this week, saying in a joint letter that such an action would prove counterproductive and raise fuel prices rather than lower them.
+The U.S. Chamber of Commerce, Business Roundtable, National Association of Manufacturers, American Petroleum Institute and dozens of other groups told Trump that an export ban would "lead to less fuel production, tighter supplies and rising costs for American families, farmers and truckers."
+"You have been asked by some to ban or limit the export of diesel to help lower prices, when in fact the opposite would occur," the groups warned in the letter sent to Trump on Wednesday.
+You can download the letter here
+Trump is facing growing political pressure from Republican lawmakers in farm states including Iowa to take action to lower fuel prices ahead of the U.S. midterm elections. Diesel cost a national average of $6.51 per gallon Thursday, $2.82 more expensive than the same period last year, according to data from AAA.
+Trump said Tuesday that he has advocated for an export ban during deliberations within the administration. The remarks took the oil industry and business groups by surprise.
+"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters on the sidelines of the U.N. General Assembly in New York. "I've called for it within my people. I've been talking about it."
+Feasibility study
+Asked by Trump to explain the administration's deliberations to the press, Treasury Secretary Scott Bessent said the White House was examining whether an export ban is "feasible in terms of the overall refining capacity and whether a full or partial ban would work."
+A report on Politico Wednesday citing unnamed sources that the administration was preparing a plan to ban diesel exports for 90 days drove down diesel futures and shares of U.S. oil refiners.
+But U.S. Energy Secretary Chris Wright told The New York Times later Wednesday that "nobody wants a full blanket ban or zero exports of diesel."
+"That's not being discussed," Wright told the Times. "What's being discussed is what's the most efficient way to get more diesel into the United States of America and continue maximum flows of gasoline and jet fuel and all that."
+Wright, an oil industry veteran who previoulsy served as CEO of oilfield servicer Liberty Energy, has said a diesel export ban would raise U.S. gasoline prices.
+Energy experts say an export ban would lead to a brief collapse in diesel prices in some U.S. regions but fuel prices would then shoot higher as refiners cut production in response to the restrictions.
+Diesel prices have soared as Ukraine's attacks on Russian refineries have forced Moscow to ban diesel exports. Russia was previously the second-largest diesel exporter in the world. A ban on U.S. diesel exports would remove the global market's largest source of supply.
+Iran and its Houthi allies have also attacked refineries in the Middle East, and exports through the Strait of Hormuz are constrained as Iran continues to threaten and attack tankers.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
+    publishedAt: "2026-09-24T14:23:33+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "trump-xi-expected-to-talk-taiwan-ai-trad-3dfdd4a4",
     title: "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
     titleJa: "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
@@ -1751,484 +2121,6 @@ Trump has previously publicly disclosed thousands of stock market trades since h
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4148/live/6d68fee0-b745-11f1-aa9c-3d062fa3aea7.jpg",
     readTime: 4,
-  },
-  {
-    id: "uk-warned-over-ballooning-debt-costs-and-116d5f5b",
-    title: "UK warned over ballooning debt costs and slower growth ahead of Budget",
-    titleJa: "UK warned over ballooning debt costs and slower growth ahead of Budget",
-    summaryJa: "Higher energy prices due to the conflict in the Middle East and climate change could hit growth.",
-    bodyOriginal: `UK warned over ballooning debt costs and slower growth ahead of Budget
-- Published
-The UK has been warned over ballooning debt costs and slower economic growth ahead of Chancellor John Healey's first Budget next month.
-The UK was among countries facing downgraded growth forecasts in a report by the influential Organisation of Economic Co-operation and Development (OECD) on Wednesday.
-That came as the head of the International Monetary Fund (IMF) told the BBC that Britain and the US needed to reduce debt due to spiralling borrowing costs.
-The ongoing conflict in the Middle East and the Russia-Ukraine war has pushed up the cost of crude oil leading to higher fuel and energy costs, which in turn has driven up inflation around the world.
-The UK economy will grow by slightly less than expected next year, according to the OECD which now expects growth of 1% next year rather than 1.1%.
-However, it said the UK had proved more resilient than expected this year, upgrading its forecast for growth 0.9% to 1.1%.
-Meanwhile, IMF head Kristalina Georgieva told the BBC on Tuesday that global economic shocks had been "pushing debt levels up like a staircase not to heaven" but that governments had taken "no action to contain that service cost".
-"[It's] time to take that action," she said, adding that "courage" was needed by politicians to take the necessary steps.
-Inflation has also pushed up the cost of interest on government debt, which alongside an unexpected surge in government borrowing in August has added to the pressure on Healey.
-Prime Minister Andy Burnham has made easing the cost of living for households one of his key aims, while the government is under pressure to spend more on defence.
-However, Burnham and Healey face a difficult balancing act, trying to offer more support to households while sticking to Labour's manifesto commitments on tax and the government's self-imposed fiscal rules.
-The impact of higher fuel prices next year depends on how long supply disruptions last, the OECD said. Stockpiles of oil and supplies from outside the Gulf states have helped cushion the effects on economies so far, it said.
-Risks to the global economy include the war in the Middle East and climate-change related supply shocks, the OECD said.
-Next year, global growth is expected to also be 0.1% lower, with countries affected including Australia, Canada, and the Euro-area.
-Conflict in the Middle East has contributed to higher oil and gas prices globally, pushing up inflation in countries including the UK.
-Weather-related shocks, including from a strong El Nino, could hit farmers and help push up food prices, it added.
-In addition, tariffs and export restrictions on trade continue to add to uncertainty, it said. New US tariffs from July as part of the Trump administration's ongoing volatile trade policy have raised its effective tariff rate by 1%.
-Chief Secretary to the Treasury Emma Reynolds said: "Despite unprecedented pressures and conflict in both the Middle East and in Europe, the UK economy is showing strong resilience."
-She added that the government is "already giving families space to breathe" and "starting the big, long-term changes needed to create good jobs and growth in every postcode".
-However, Conservative shadow chancellor Andrew Griffith said the OECD urges countries to "control spending and improve public sector efficiency".
-"Instead, this government is trying to find new ways to tax you whilst having to pay interest rates on their borrowing which are the highest in the G7," he said.`,
-    bodyJa: `UK warned over ballooning debt costs and slower growth ahead of Budget
-- Published
-The UK has been warned over ballooning debt costs and slower economic growth ahead of Chancellor John Healey's first Budget next month.
-The UK was among countries facing downgraded growth forecasts in a report by the influential Organisation of Economic Co-operation and Development (OECD) on Wednesday.
-That came as the head of the International Monetary Fund (IMF) told the BBC that Britain and the US needed to reduce debt due to spiralling borrowing costs.
-The ongoing conflict in the Middle East and the Russia-Ukraine war has pushed up the cost of crude oil leading to higher fuel and energy costs, which in turn has driven up inflation around the world.
-The UK economy will grow by slightly less than expected next year, according to the OECD which now expects growth of 1% next year rather than 1.1%.
-However, it said the UK had proved more resilient than expected this year, upgrading its forecast for growth 0.9% to 1.1%.
-Meanwhile, IMF head Kristalina Georgieva told the BBC on Tuesday that global economic shocks had been "pushing debt levels up like a staircase not to heaven" but that governments had taken "no action to contain that service cost".
-"[It's] time to take that action," she said, adding that "courage" was needed by politicians to take the necessary steps.
-Inflation has also pushed up the cost of interest on government debt, which alongside an unexpected surge in government borrowing in August has added to the pressure on Healey.
-Prime Minister Andy Burnham has made easing the cost of living for households one of his key aims, while the government is under pressure to spend more on defence.
-However, Burnham and Healey face a difficult balancing act, trying to offer more support to households while sticking to Labour's manifesto commitments on tax and the government's self-imposed fiscal rules.
-The impact of higher fuel prices next year depends on how long supply disruptions last, the OECD said. Stockpiles of oil and supplies from outside the Gulf states have helped cushion the effects on economies so far, it said.
-Risks to the global economy include the war in the Middle East and climate-change related supply shocks, the OECD said.
-Next year, global growth is expected to also be 0.1% lower, with countries affected including Australia, Canada, and the Euro-area.
-Conflict in the Middle East has contributed to higher oil and gas prices globally, pushing up inflation in countries including the UK.
-Weather-related shocks, including from a strong El Nino, could hit farmers and help push up food prices, it added.
-In addition, tariffs and export restrictions on trade continue to add to uncertainty, it said. New US tariffs from July as part of the Trump administration's ongoing volatile trade policy have raised its effective tariff rate by 1%.
-Chief Secretary to the Treasury Emma Reynolds said: "Despite unprecedented pressures and conflict in both the Middle East and in Europe, the UK economy is showing strong resilience."
-She added that the government is "already giving families space to breathe" and "starting the big, long-term changes needed to create good jobs and growth in every postcode".
-However, Conservative shadow chancellor Andrew Griffith said the OECD urges countries to "control spending and improve public sector efficiency".
-"Instead, this government is trying to find new ways to tax you whilst having to pay interest rates on their borrowing which are the highest in the G7," he said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T11:00:08+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a8c/live/e0daf3a0-b723-11f1-8d21-19ad84e0e822.jpg",
-    readTime: 9,
-  },
-  {
-    id: "nearly-10-of-borrowers-opted-for-riskier-6bc0f691",
-    title: "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
-    titleJa: "Nearly 10% of borrowers opted for riskier mortgages last week, as rates soared over 7%",
-    summaryJa: "As mortgage rates rise, borrowers are seeking savings in riskier, adjustable-rate mortgages that offer lower rates.",
-    bodyOriginal: `Mortgage rates soared to the highest level since 2024 last week, causing loan demand to fall back again and more borrowers to opt for riskier loans. Total application volume decreased 1.5% from the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, increased to 7.12% from 6.97%, with points increasing to 0.73 from 0.72, including the origination fee, for loans with a 20% down payment.
-Applications to refinance a home loan dropped 3% for the week and were 62% lower than the same week one year ago. That was the lowest level since February 2025. The 30-year fixed loan was 78 basis points, or more than a quarter of a percentage point lower at the same time last year.
-Applications for a mortgage to purchase a home fell 1% for the week and were 11% lower year-over year. The fall housing market, usually the second busiest compared with spring, is now underway, but real estate agents are already noting a sharp pullback due to higher rates. Buyers and current homeowners are also searching for savings anywhere they can find them, even in riskier, adjustable-rate loans.
-"With fixed rates much higher, more borrowers opted for ARMs, with the ARM share reaching 9.8%, as rates for 5/1 ARMs were more than a percentage point lower than those for fixed rate loans," said Mike Fratantoni, MBA's SVP and chief economist.
-The ARM share of applications the week before last was just 8.4%. During the first years of the pandemic, when rates were hitting multiple record lows, the ARM share was barely 3%. ARMs can carry a fixed rate for up to 10 years but will adjust either higher or lower depending on where the market is when that term is up.
-Mortgage rates moved slightly lower to start this week, according to a separate survey from Mortgage News Daily, as the price of oil fell and bond yields moved lower as a result.`,
-    bodyJa: `Mortgage rates soared to the highest level since 2024 last week, causing loan demand to fall back again and more borrowers to opt for riskier loans. Total application volume decreased 1.5% from the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, increased to 7.12% from 6.97%, with points increasing to 0.73 from 0.72, including the origination fee, for loans with a 20% down payment.
-Applications to refinance a home loan dropped 3% for the week and were 62% lower than the same week one year ago. That was the lowest level since February 2025. The 30-year fixed loan was 78 basis points, or more than a quarter of a percentage point lower at the same time last year.
-Applications for a mortgage to purchase a home fell 1% for the week and were 11% lower year-over year. The fall housing market, usually the second busiest compared with spring, is now underway, but real estate agents are already noting a sharp pullback due to higher rates. Buyers and current homeowners are also searching for savings anywhere they can find them, even in riskier, adjustable-rate loans.
-"With fixed rates much higher, more borrowers opted for ARMs, with the ARM share reaching 9.8%, as rates for 5/1 ARMs were more than a percentage point lower than those for fixed rate loans," said Mike Fratantoni, MBA's SVP and chief economist.
-The ARM share of applications the week before last was just 8.4%. During the first years of the pandemic, when rates were hitting multiple record lows, the ARM share was barely 3%. ARMs can carry a fixed rate for up to 10 years but will adjust either higher or lower depending on where the market is when that term is up.
-Mortgage rates moved slightly lower to start this week, according to a separate survey from Mortgage News Daily, as the price of oil fell and bond yields moved lower as a result.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/nearly-10percent-of-borrowers-opted-for-riskier-mortgages-last-week.html",
-    publishedAt: "2026-09-23T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "off-sick-you-need-to-phone-your-boss-bac-f501a41d",
-    title: "Off sick? You need to phone your boss, back-to-work adviser says",
-    titleJa: "Off sick? You need to phone your boss, back-to-work adviser says",
-    summaryJa: "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
-    bodyOriginal: `Off sick? You need to phone your boss, back-to-work adviser says
-- Published
-People off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.
-Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.
-His latest report said health-related economic inactivity was costing Britain around £212m a year in benefit payments and lost output.
-Talking on the phone was just "one piece of the jigsaw" he said on Wednesday.
-The report calls for more workplace support, external for people with health conditions and disabilities and the establishment of a Workplace Health System alongside the NHS.
-But improving communication was also a way to "rehumanise" the workplace and help prevent people dropping out of work altogether, Sir Charlie said.
-The report does not suggest that someone struck down by flu needs to croak through their symptoms over the phone or that bosses need to provide down-the-line sickbed sympathy if an employee is off with food poisoning.
-"I'm not worried about a day here and a day there. It is more about longer term issues," Sir Charlie told the BBC's Today Programme.
-But he said Britain was doing a "poor job" of handling sickness in the workplace, leading to more people becoming disengaged and dropping out altogether.
-"I have met so many people who have said to me, 'You know, I was signed off sick and I was off sick for a month, two months, three months, and I had almost no contact with my employer'," Sir Charlie said.
-Around 300,000 people leave work every year with a health condition, much of which is preventable, the report said.
-Sir Charlie said employees sometimes feared talking about long-term health issues with their employer.
-"But the fear is also felt by employers as well because they're afraid of causing offence or creating a complaint or a grievance," he added.
-Fear on both sides can create a distance and lack of understanding, he warned, with longer absences making it much more likely a worker will drop out of the labour force altogether.
-"If you can keep more people in work, there's a massive opportunity for us to add billions to the economy and, frankly, to people's livelihoods," Sir Charlie said.
-"To get that, though, you need to have people talking to each other, and you've got to more actively manage sickness and ill health in the workplace."
-Employers need to do more, he said, and employees need to engage with it.
-Other ways for bosses to support staff include ensuring access to treatments such as physiotherapy and talking therapies, he said.
-Get in touch
-Have you been affected by issues covered in this story? Has your boss asked you to phone in about sickness? Share your experiences.
-- Published7 days ago`,
-    bodyJa: `Off sick? You need to phone your boss, back-to-work adviser says
-- Published
-People off sick from work should keep in phone contact with their boss, government-appointed back-to-work expert Sir Charlie Mayfield has said.
-Getting bosses and workers to have a conversation, rather than simply exchanging emails and sicknotes, could help get people back into work, Sir Charlie, who is leading the Keep Britain Working taskforce, said.
-His latest report said health-related economic inactivity was costing Britain around £212m a year in benefit payments and lost output.
-Talking on the phone was just "one piece of the jigsaw" he said on Wednesday.
-The report calls for more workplace support, external for people with health conditions and disabilities and the establishment of a Workplace Health System alongside the NHS.
-But improving communication was also a way to "rehumanise" the workplace and help prevent people dropping out of work altogether, Sir Charlie said.
-The report does not suggest that someone struck down by flu needs to croak through their symptoms over the phone or that bosses need to provide down-the-line sickbed sympathy if an employee is off with food poisoning.
-"I'm not worried about a day here and a day there. It is more about longer term issues," Sir Charlie told the BBC's Today Programme.
-But he said Britain was doing a "poor job" of handling sickness in the workplace, leading to more people becoming disengaged and dropping out altogether.
-"I have met so many people who have said to me, 'You know, I was signed off sick and I was off sick for a month, two months, three months, and I had almost no contact with my employer'," Sir Charlie said.
-Around 300,000 people leave work every year with a health condition, much of which is preventable, the report said.
-Sir Charlie said employees sometimes feared talking about long-term health issues with their employer.
-"But the fear is also felt by employers as well because they're afraid of causing offence or creating a complaint or a grievance," he added.
-Fear on both sides can create a distance and lack of understanding, he warned, with longer absences making it much more likely a worker will drop out of the labour force altogether.
-"If you can keep more people in work, there's a massive opportunity for us to add billions to the economy and, frankly, to people's livelihoods," Sir Charlie said.
-"To get that, though, you need to have people talking to each other, and you've got to more actively manage sickness and ill health in the workplace."
-Employers need to do more, he said, and employees need to engage with it.
-Other ways for bosses to support staff include ensuring access to treatments such as physiotherapy and talking therapies, he said.
-Get in touch
-Have you been affected by issues covered in this story? Has your boss asked you to phone in about sickness? Share your experiences.
-- Published7 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T10:49:51+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f9eba800-b730-11f1-9f81-a10976817ca3.jpg",
-    readTime: 7,
-  },
-  {
-    id: "texas-turning-blue-may-hinge-on-democrat-7feef8aa",
-    title: "Texas turning blue may hinge on Democrats harnessing data center opposition",
-    titleJa: "Texas turning blue may hinge on Democrats harnessing data center opposition",
-    summaryJa: "Data center opposition is reshaping Texas' 2026 governor and Senate races as voters raise concerns over power, water and utility costs.",
-    bodyOriginal: `TEXAS — Mason McCallister said it was an act of God that sent him down a gravel road near his home in Bells, Texas, one Sunday last December.
-It wasn't the normal route he and his family take back from church, but he decided to detour so his daughters could shout hello to their grandmother as they drove by her home.
-What he saw that day catapulted him into a debate playing out around the country — and especially in Texas — over data centers. It's one that may now affect the outcome of key elections in the Lone Star State.
-As they rolled past, flashes of red caught McCallister's eye among the lush green of the area's gentle hills.
-"Driving down that road, I just see survey markers everywhere," McCallister, a real estate agent, told CNBC. "And I knew at that time what was happening. I could feel it" — a data center is coming, he said.
-McCallister's home is less than a mile from the survey markers, in a rural stretch between Dallas and the Oklahoma border. He and his wife, Heather, built the house on 26 acres, where they keep three horses and a donkey and host frequent family gatherings at a long farmhouse table on their spacious back patio.
-The outcry over data centers — warehouses that contain the hardware for powering artificial intelligence and other technology — was only a faint murmur when McCallister first saw the survey markers. In the months since, it's become a dull roar, as increasingly more projects are proposed and built, and general anxiety over AI and its potentially humanity-ending powers grows.
-Across Texas and the country, people have flooded local meetings to protest proposed projects, citing concerns about the use of water and other resources, noise and light pollution, rising utility costs and falling property values. Some towns and cities have moved to block their development, as anti-data center advocacy groups and social media pages proliferate.
-Polling shows the economy and cost of living are top of mind for voters in the runup to the 2026 midterm elections. But some political strategists say data centers are a potent enough issue that they could shift the balance of power in Texas, potentially paving the way for Democrats to win statewide for the first time since 1994. Democrats have their sights set on the governor's mansion, as well as an open U.S. Senate seat, and the outcome of the Senate race could determine control of Congress.
-Populists on both the left and the right — including Sens. Bernie Sanders, I-Vt., and Josh Hawley, R-Mo. — were quick to try to rein in data centers and protect consumers against associated utility cost increases. But Democrats have broadly staked out a clear position against data centers, as President Donald Trump cheers development of new facilities.
-That dynamic has left Republicans — including Texas Gov. Greg Abbott, who is running for reelection, and Texas Attorney General Ken Paxton, who is running for Senate — playing defense as public opinion turns against the facilities.
-"I don't think Republicans have a clear, standard message on data centers and AI at this moment," said Brendan Steinhauser, a GOP strategist and CEO of The Alliance for Secure AI Action, who has called data centers a "sleeper issue" of this election cycle.
-The survey markers set McCallister on a hunt for answers that included knocking on neighbors' doors, approaching surveyors in fields near his house, chasing down local officials and eventually cornering Rhett Bennett, the CEO of Black Mountain, a Fort Worth-based energy and natural resources development company he discerned had designs on the land.
-Black Mountain did not respond to multiple requests for comment from CNBC about the potential project. But McCallister said Bennett — whom he confronted at a public meeting, with a Texas Tribune reporter in tow — confirmed the company was exploring a data center near his house. McCallister fears that if it is completed, it could effectively envelop his property.
-McCallister said he and his wife never planned to sell their house, so any potential hit to their property value isn't particularly worrying. He says his primary concerns are water and power usage. Other data center opponents CNBC spoke with in Texas said they were concerned about noise and light pollution as well as the long-term economic and job displacement impacts of AI, which some of the facilities power.
-More than anything, the ordeal has made McCallister — who said he's a lifelong Republican and voted for Trump three times — question his political leanings. The GOP, he said, has been too slow to react.
-"I'm definitely frustrated with the Republican Party. I have gone literally out of my way to warn them, to tell them what's happening," he said. "Y'all should have picked up on this much earlier than y'all did."
-'Let Data Reign'
-Trump's outright dismissal of data center concerns and his reluctance to regulate rapidly evolving AI have complicated the issue for Republican leaders such as Abbott and Paxton, who are fighting for their political lives in one of the most closely watched states in the 2026 election.
-"The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign," Trump posted on Truth Social on Aug. 31.
-With Trump's unyielding stance on the issue, Abbott and Paxton face a dilemma: Either they defy Trump, the de facto head of the Republican Party, and their donors with tech and data center-industry connections. Or they anger a sizable bloc of data center opponents that has emerged within their base.
-Fifty-seven percent of Texas voters polled by the Texas Politics Project said they opposed a data center being built in their community, including 43% of Republicans, 54% of independents and 60% of rural voters.
-The cross-partisan grassroots movement could threaten Republicans' hopes of keeping Texas red in what is already expected to be a difficult year for the GOP, amid high consumer prices and Trump's falling approval ratings.
-"This issue is politically toxic, and if Republicans have a message that says let Big Tech run wild and let them do these hyperscale data centers all over the country, Republicans are going to pay a price at the ballot box," Steinhauser said, though he said he sees the GOP starting to coalesce around a stronger, pro-regulation platform.
-Amid that political environment, both Texas GOP leaders have dipped their toes into data center opposition in recent months.
-Abbott — who is polling slightly ahead of Democratic state Rep. Gina Hinojosa in a race the Cook Political Report with Amy Walter labels "likely R" — in 2015 signed legislation creating new sales tax exemptions for large data centers and as recently as November called Texas the "epicenter of AI development."
-But Abbott in recent months has shifted his posture toward data centers. In August, he unveiled a new plan that instructs state regulators to audit all proposed data centers seeking to connect to Texas' power grid before allowing projects to proceed. Abbott went a step further this week, ordering the state's environmental regulator to halt all data center-related permits, including those that aren't seeking to connect to the state's power grid, while an audit of the existing waitlist is completed. He's also suggested the state legislature, which will not meet again until 2027, repeal the data center tax break.
-Paxton — who has faced scandals including a 2023 impeachment over corruption allegations, in which the state Senate acquitted him, and felony securities fraud charges, which were dropped in 2024 — voted in 2013 as a freshman member of the state Senate in favor of a sales tax exemption for data centers. He also has refrained from issuing an opinion — first sought by local officials in February — on whether Hood County had the legal authority to halt data center development in the area.
-But in late August, he introduced a "Texas first" data center plan, which called for the passage of legislation to bar Chinese technology from powering U.S. data centers and hold AI companies criminally liable if their chatbots harm children. Paxton also said he'd support legislation introduced by Sen. Tom Cotton, R-Ark., that would ease federal regulation to allow data centers to build customized electricity systems, sparing the existing power grid and preventing utility cost hikes, according to Paxton.
-Paxton's announcement of the plan, posted to X, was flagged by the social media platform as being "made with AI."
-Both Abbott and Paxton, through their spokespeople, declined multiple requests for interviews.
-"Governor Abbott is taking decisive action to ensure data centers pay their own way, protect Texas water and power, and meet strict standards before connecting to the grid," Eduardo Leal, Abbott's campaign press secretary, said in a statement.
-Abbott has received millions of dollars in contributions from AI and data center interests, including $500,000 donations from xAI founder Elon Musk and from Bennett, the Black Mountain CEO. Paxton's campaign and affiliated groups have received more than $400,000 from individuals and companies with data center ties, The Washington Sun reported.
-In response to CNBC's questions, Paxton's campaign, through spokesperson Madison Cercy, shrugged off those contributions and instead attacked his opponent, state Rep. James Talarico, calling him a "hypocrite and a liar."
-A pro-Talarico super PAC, Lone Star Rising, which has spent more than $3 million in support of the Democratic Senate candidate, has received more than $11 million from LinkedIn co-founder Reid Hoffman, a key AI and data center investor.
-Campaigns are legally forbidden from coordinating with super PACs, and Talarico has called for the political fundraising groups to be banned.
-'Epicenter' of a crisis
-Anxiety over AI and data centers has only grown following a call to action by former Anthropic employee Jacob Coxon, who resigned from the company, then posted to X: "The people building AI earnestly believe that it could kill us all by the end of the decade." That prompted Anthropic CEO Dario Amodei to urge other tech leaders to slow AI development, with OpenAI CEO Sam Altman and Musk endorsing Amodei's call.
-"I think data centers brings together a lot of the issues that people are concerned about: cost of living, corruption in our government, artificial intelligence, and the fact that our government seems to be MIA when it comes to creating guardrails for this new technology," Talarico, who is leading Paxton in most Senate race polls, told CNBC on the sidelines of a food drive in Dallas in early September.
-"All of those issues are kind of combined in this problem of data centers, and it's why it's so emotional for Texans. We're the epicenter of this data center crisis," Talarico said.
-The Cook Political Report lists the Senate race as a "toss up," though Republican groups are flooding Paxton with campaign cash in the closing months of the campaign. The new super PAC tied to Trump, the No Going Back PAC, has spent about $935,000 on Paxton.
-But as much of Washington scrambles to get its arms around emerging AI risks, elsewhere in the country, opposition to data centers does not necessarily indicate animosity toward AI.
-"I never used it," McCallister said, when asked his thoughts on AI. "I could go the rest of my life without using it, but I know a lot of people can't. So I'm not pro- or I'm not anti-AI." When it comes to data centers, he said, "I'm just focused on regulations. Put these in places that make sense for the communities, not places that make sense for the data centers."
-A boon or a burden?
-Data center developments have flooded into Texas, with its pro-business ethos and vast swaths of open land, in recent years. The state could overtake Virginia as the largest global data center market by 2030, according to projections from the real estate services company JLL.
-That interest from developers could have benefits, industry advocates argue.
-Dan Diorio, executive vice president of state policy and government affairs for the Data Center Coalition, an industry trade group, said projects often come with massive capital investments and added tax revenues that can be reinvested into schools and local infrastructure. Diorio said data centers are also job creators, particularly for construction workers during build-out, and don't sap natural resources to the extent many opponents believe.
-"We see throughout the country data centers using as much, if not less, water than a large commercial office building," Diorio said.
-While Talarico and Hinojosa, the Democratic nominee for governor, have been outspoken in their desire to rein in data center development, both are taking a nuanced position.
-Hinojosa has called for a moratorium until laws can be passed to protect people from potential impacts on the environment, local economies or the power grid. Talarico has rolled out a plan that he said would require data center companies to pay for their own energy, recycle water and provide jobs as a condition of being built.
-"It's not a black-and-white issue," Talarico said. "Because if a community feels like these data centers can be a benefit, then I trust those communities to make those decisions for themselves."
-'An existential threat'
-On a Thursday night at the University of Texas at Austin, Hinojosa sat in an upstairs common room of a fraternity house.
-Downstairs an hour earlier, more than 100 college students had skipped the local bars — or at least delayed their arrival — to hear Hinojosa speak about her campaign. They crammed into the musky parlor of the Tejas Club, where the only beverages that night were of the non-alcoholic variety.
-It was the latest in a series of unusual rooms in which Hinojosa has found herself on the campaign trail.
-Recently, that included a trip to a home in Red Oak, a suburb of Dallas, where she sat in the host's living room with a group of data center opponents that she described as "all MAGA."
-"It was people who typically don't give someone like me a chance. And they were very curious about my campaign. They were very curious about me," Hinojosa told CNBC in the upstairs living room after the event. To her right, a concert poster for the band Geese hung on a door. Behind her, a shotski — a prop for communal shot-taking popular on college campuses — leaned against a wall in the corner.
-There was not universal agreement on all issues in that room in Red Oak, Hinojosa recalled. But the first question the group asked her, she said, was about data centers, one of which is proposed nearby.
-"It is a threat to their families, to their homes, to their communities, to their way of life, to their water that they drink," she said. "So it is, for many Texans, a kind of existential threat. And I have met single-issue voters on it."
-Appealing to those voters will be key for Hinojosa and Talarico in a state where Republicans have dominated for decades. And Talarico, in particular, may have a plausible path to victory. Not since Beto O'Rourke came within a few points of defeating Sen. Ted Cruz in 2018 has a Texas Democrat generated the national attention Talarico has.
-But it remains unclear just how many Republicans in deep-red Texas will be willing to defect and how big of an issue data centers are for the average Texas voter.
-"Concern about the economy and cost of living remain far and away the most important issue to Texas voters right now," said Joshua Blank, research director at the nonpartisan Texas Politics Project. Data centers have become a "persistent area of focus," he said.
-But Blank said the question of whether they play a role in determining election outcomes will depend on "broader questions about economic stewardship and whether or not data centers or data center developers are getting preferential treatment when people feel like ... their own cost of living is going up."
-Red to blue?
-Chris Tronzano is a landscape architect and a "hobbyist" rancher who moved with his wife in 2021 from Dallas County to Fannin County, where they hoped to retire. Shortly after, a battery energy storage system —which can be used to help power data centers — went up next door. Then, they learned a data center could also be coming to the area.
-Tronzano, a Trump supporter who said he has always voted straight down party lines for Republicans, said the news scuttled their plans. They sold their property and moved again, this time to nearby Grayson County. The experience soured him on Trump and other Republicans who have advocated for data centers. And it tested his political loyalties.
-"Why is he on this huge push for data centers?" Tronzano asked, of Trump. "If they're so important and so needed for national security, or there's this fight between us and China — what exactly is it? I don't think the normal citizen understands it."
-Citing his data center frustration, Tronzano said he likely won't vote for Abbott this year and is undecided on Paxton. But it's more likely he'll skip those races than vote for Democrats, who as a party he feels espouse a progressivism that doesn't sync with his values, he said.
-Meanwhile, McCallister said he's never voted for a Democrat but he's considering it for the first time. He still hasn't settled on his choice for governor and Senate, but he said data centers will be the top issue as he makes his decision.
-He is soft-spoken and mild-mannered, with a bushy beard that covers the lower quadrant of his face, and he has an aversion to social media. He didn't set out to get into the weeds of Texas data center politics, but he's become an unlikely and outspoken grassroots leader on the issue.
-Overcoming his social media skepticism, McCallister recently created a Facebook page and launched a nonprofit calling for stricter data center regulations. There, he's connected with a network of Texans opposed to data centers. He says many are just as disillusioned with the Republican Party as he is.
-"No longer do we just vote red all the way down," McCallister said. "If your elected official is not listening to you ... you should replace that person."
-— Luke Fountain contributed to this report.`,
-    bodyJa: `TEXAS — Mason McCallister said it was an act of God that sent him down a gravel road near his home in Bells, Texas, one Sunday last December.
-It wasn't the normal route he and his family take back from church, but he decided to detour so his daughters could shout hello to their grandmother as they drove by her home.
-What he saw that day catapulted him into a debate playing out around the country — and especially in Texas — over data centers. It's one that may now affect the outcome of key elections in the Lone Star State.
-As they rolled past, flashes of red caught McCallister's eye among the lush green of the area's gentle hills.
-"Driving down that road, I just see survey markers everywhere," McCallister, a real estate agent, told CNBC. "And I knew at that time what was happening. I could feel it" — a data center is coming, he said.
-McCallister's home is less than a mile from the survey markers, in a rural stretch between Dallas and the Oklahoma border. He and his wife, Heather, built the house on 26 acres, where they keep three horses and a donkey and host frequent family gatherings at a long farmhouse table on their spacious back patio.
-The outcry over data centers — warehouses that contain the hardware for powering artificial intelligence and other technology — was only a faint murmur when McCallister first saw the survey markers. In the months since, it's become a dull roar, as increasingly more projects are proposed and built, and general anxiety over AI and its potentially humanity-ending powers grows.
-Across Texas and the country, people have flooded local meetings to protest proposed projects, citing concerns about the use of water and other resources, noise and light pollution, rising utility costs and falling property values. Some towns and cities have moved to block their development, as anti-data center advocacy groups and social media pages proliferate.
-Polling shows the economy and cost of living are top of mind for voters in the runup to the 2026 midterm elections. But some political strategists say data centers are a potent enough issue that they could shift the balance of power in Texas, potentially paving the way for Democrats to win statewide for the first time since 1994. Democrats have their sights set on the governor's mansion, as well as an open U.S. Senate seat, and the outcome of the Senate race could determine control of Congress.
-Populists on both the left and the right — including Sens. Bernie Sanders, I-Vt., and Josh Hawley, R-Mo. — were quick to try to rein in data centers and protect consumers against associated utility cost increases. But Democrats have broadly staked out a clear position against data centers, as President Donald Trump cheers development of new facilities.
-That dynamic has left Republicans — including Texas Gov. Greg Abbott, who is running for reelection, and Texas Attorney General Ken Paxton, who is running for Senate — playing defense as public opinion turns against the facilities.
-"I don't think Republicans have a clear, standard message on data centers and AI at this moment," said Brendan Steinhauser, a GOP strategist and CEO of The Alliance for Secure AI Action, who has called data centers a "sleeper issue" of this election cycle.
-The survey markers set McCallister on a hunt for answers that included knocking on neighbors' doors, approaching surveyors in fields near his house, chasing down local officials and eventually cornering Rhett Bennett, the CEO of Black Mountain, a Fort Worth-based energy and natural resources development company he discerned had designs on the land.
-Black Mountain did not respond to multiple requests for comment from CNBC about the potential project. But McCallister said Bennett — whom he confronted at a public meeting, with a Texas Tribune reporter in tow — confirmed the company was exploring a data center near his house. McCallister fears that if it is completed, it could effectively envelop his property.
-McCallister said he and his wife never planned to sell their house, so any potential hit to their property value isn't particularly worrying. He says his primary concerns are water and power usage. Other data center opponents CNBC spoke with in Texas said they were concerned about noise and light pollution as well as the long-term economic and job displacement impacts of AI, which some of the facilities power.
-More than anything, the ordeal has made McCallister — who said he's a lifelong Republican and voted for Trump three times — question his political leanings. The GOP, he said, has been too slow to react.
-"I'm definitely frustrated with the Republican Party. I have gone literally out of my way to warn them, to tell them what's happening," he said. "Y'all should have picked up on this much earlier than y'all did."
-'Let Data Reign'
-Trump's outright dismissal of data center concerns and his reluctance to regulate rapidly evolving AI have complicated the issue for Republican leaders such as Abbott and Paxton, who are fighting for their political lives in one of the most closely watched states in the 2026 election.
-"The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the place, let Data Reign," Trump posted on Truth Social on Aug. 31.
-With Trump's unyielding stance on the issue, Abbott and Paxton face a dilemma: Either they defy Trump, the de facto head of the Republican Party, and their donors with tech and data center-industry connections. Or they anger a sizable bloc of data center opponents that has emerged within their base.
-Fifty-seven percent of Texas voters polled by the Texas Politics Project said they opposed a data center being built in their community, including 43% of Republicans, 54% of independents and 60% of rural voters.
-The cross-partisan grassroots movement could threaten Republicans' hopes of keeping Texas red in what is already expected to be a difficult year for the GOP, amid high consumer prices and Trump's falling approval ratings.
-"This issue is politically toxic, and if Republicans have a message that says let Big Tech run wild and let them do these hyperscale data centers all over the country, Republicans are going to pay a price at the ballot box," Steinhauser said, though he said he sees the GOP starting to coalesce around a stronger, pro-regulation platform.
-Amid that political environment, both Texas GOP leaders have dipped their toes into data center opposition in recent months.
-Abbott — who is polling slightly ahead of Democratic state Rep. Gina Hinojosa in a race the Cook Political Report with Amy Walter labels "likely R" — in 2015 signed legislation creating new sales tax exemptions for large data centers and as recently as November called Texas the "epicenter of AI development."
-But Abbott in recent months has shifted his posture toward data centers. In August, he unveiled a new plan that instructs state regulators to audit all proposed data centers seeking to connect to Texas' power grid before allowing projects to proceed. Abbott went a step further this week, ordering the state's environmental regulator to halt all data center-related permits, including those that aren't seeking to connect to the state's power grid, while an audit of the existing waitlist is completed. He's also suggested the state legislature, which will not meet again until 2027, repeal the data center tax break.
-Paxton — who has faced scandals including a 2023 impeachment over corruption allegations, in which the state Senate acquitted him, and felony securities fraud charges, which were dropped in 2024 — voted in 2013 as a freshman member of the state Senate in favor of a sales tax exemption for data centers. He also has refrained from issuing an opinion — first sought by local officials in February — on whether Hood County had the legal authority to halt data center development in the area.
-But in late August, he introduced a "Texas first" data center plan, which called for the passage of legislation to bar Chinese technology from powering U.S. data centers and hold AI companies criminally liable if their chatbots harm children. Paxton also said he'd support legislation introduced by Sen. Tom Cotton, R-Ark., that would ease federal regulation to allow data centers to build customized electricity systems, sparing the existing power grid and preventing utility cost hikes, according to Paxton.
-Paxton's announcement of the plan, posted to X, was flagged by the social media platform as being "made with AI."
-Both Abbott and Paxton, through their spokespeople, declined multiple requests for interviews.
-"Governor Abbott is taking decisive action to ensure data centers pay their own way, protect Texas water and power, and meet strict standards before connecting to the grid," Eduardo Leal, Abbott's campaign press secretary, said in a statement.
-Abbott has received millions of dollars in contributions from AI and data center interests, including $500,000 donations from xAI founder Elon Musk and from Bennett, the Black Mountain CEO. Paxton's campaign and affiliated groups have received more than $400,000 from individuals and companies with data center ties, The Washington Sun reported.
-In response to CNBC's questions, Paxton's campaign, through spokesperson Madison Cercy, shrugged off those contributions and instead attacked his opponent, state Rep. James Talarico, calling him a "hypocrite and a liar."
-A pro-Talarico super PAC, Lone Star Rising, which has spent more than $3 million in support of the Democratic Senate candidate, has received more than $11 million from LinkedIn co-founder Reid Hoffman, a key AI and data center investor.
-Campaigns are legally forbidden from coordinating with super PACs, and Talarico has called for the political fundraising groups to be banned.
-'Epicenter' of a crisis
-Anxiety over AI and data centers has only grown following a call to action by former Anthropic employee Jacob Coxon, who resigned from the company, then posted to X: "The people building AI earnestly believe that it could kill us all by the end of the decade." That prompted Anthropic CEO Dario Amodei to urge other tech leaders to slow AI development, with OpenAI CEO Sam Altman and Musk endorsing Amodei's call.
-"I think data centers brings together a lot of the issues that people are concerned about: cost of living, corruption in our government, artificial intelligence, and the fact that our government seems to be MIA when it comes to creating guardrails for this new technology," Talarico, who is leading Paxton in most Senate race polls, told CNBC on the sidelines of a food drive in Dallas in early September.
-"All of those issues are kind of combined in this problem of data centers, and it's why it's so emotional for Texans. We're the epicenter of this data center crisis," Talarico said.
-The Cook Political Report lists the Senate race as a "toss up," though Republican groups are flooding Paxton with campaign cash in the closing months of the campaign. The new super PAC tied to Trump, the No Going Back PAC, has spent about $935,000 on Paxton.
-But as much of Washington scrambles to get its arms around emerging AI risks, elsewhere in the country, opposition to data centers does not necessarily indicate animosity toward AI.
-"I never used it," McCallister said, when asked his thoughts on AI. "I could go the rest of my life without using it, but I know a lot of people can't. So I'm not pro- or I'm not anti-AI." When it comes to data centers, he said, "I'm just focused on regulations. Put these in places that make sense for the communities, not places that make sense for the data centers."
-A boon or a burden?
-Data center developments have flooded into Texas, with its pro-business ethos and vast swaths of open land, in recent years. The state could overtake Virginia as the largest global data center market by 2030, according to projections from the real estate services company JLL.
-That interest from developers could have benefits, industry advocates argue.
-Dan Diorio, executive vice president of state policy and government affairs for the Data Center Coalition, an industry trade group, said projects often come with massive capital investments and added tax revenues that can be reinvested into schools and local infrastructure. Diorio said data centers are also job creators, particularly for construction workers during build-out, and don't sap natural resources to the extent many opponents believe.
-"We see throughout the country data centers using as much, if not less, water than a large commercial office building," Diorio said.
-While Talarico and Hinojosa, the Democratic nominee for governor, have been outspoken in their desire to rein in data center development, both are taking a nuanced position.
-Hinojosa has called for a moratorium until laws can be passed to protect people from potential impacts on the environment, local economies or the power grid. Talarico has rolled out a plan that he said would require data center companies to pay for their own energy, recycle water and provide jobs as a condition of being built.
-"It's not a black-and-white issue," Talarico said. "Because if a community feels like these data centers can be a benefit, then I trust those communities to make those decisions for themselves."
-'An existential threat'
-On a Thursday night at the University of Texas at Austin, Hinojosa sat in an upstairs common room of a fraternity house.
-Downstairs an hour earlier, more than 100 college students had skipped the local bars — or at least delayed their arrival — to hear Hinojosa speak about her campaign. They crammed into the musky parlor of the Tejas Club, where the only beverages that night were of the non-alcoholic variety.
-It was the latest in a series of unusual rooms in which Hinojosa has found herself on the campaign trail.
-Recently, that included a trip to a home in Red Oak, a suburb of Dallas, where she sat in the host's living room with a group of data center opponents that she described as "all MAGA."
-"It was people who typically don't give someone like me a chance. And they were very curious about my campaign. They were very curious about me," Hinojosa told CNBC in the upstairs living room after the event. To her right, a concert poster for the band Geese hung on a door. Behind her, a shotski — a prop for communal shot-taking popular on college campuses — leaned against a wall in the corner.
-There was not universal agreement on all issues in that room in Red Oak, Hinojosa recalled. But the first question the group asked her, she said, was about data centers, one of which is proposed nearby.
-"It is a threat to their families, to their homes, to their communities, to their way of life, to their water that they drink," she said. "So it is, for many Texans, a kind of existential threat. And I have met single-issue voters on it."
-Appealing to those voters will be key for Hinojosa and Talarico in a state where Republicans have dominated for decades. And Talarico, in particular, may have a plausible path to victory. Not since Beto O'Rourke came within a few points of defeating Sen. Ted Cruz in 2018 has a Texas Democrat generated the national attention Talarico has.
-But it remains unclear just how many Republicans in deep-red Texas will be willing to defect and how big of an issue data centers are for the average Texas voter.
-"Concern about the economy and cost of living remain far and away the most important issue to Texas voters right now," said Joshua Blank, research director at the nonpartisan Texas Politics Project. Data centers have become a "persistent area of focus," he said.
-But Blank said the question of whether they play a role in determining election outcomes will depend on "broader questions about economic stewardship and whether or not data centers or data center developers are getting preferential treatment when people feel like ... their own cost of living is going up."
-Red to blue?
-Chris Tronzano is a landscape architect and a "hobbyist" rancher who moved with his wife in 2021 from Dallas County to Fannin County, where they hoped to retire. Shortly after, a battery energy storage system —which can be used to help power data centers — went up next door. Then, they learned a data center could also be coming to the area.
-Tronzano, a Trump supporter who said he has always voted straight down party lines for Republicans, said the news scuttled their plans. They sold their property and moved again, this time to nearby Grayson County. The experience soured him on Trump and other Republicans who have advocated for data centers. And it tested his political loyalties.
-"Why is he on this huge push for data centers?" Tronzano asked, of Trump. "If they're so important and so needed for national security, or there's this fight between us and China — what exactly is it? I don't think the normal citizen understands it."
-Citing his data center frustration, Tronzano said he likely won't vote for Abbott this year and is undecided on Paxton. But it's more likely he'll skip those races than vote for Democrats, who as a party he feels espouse a progressivism that doesn't sync with his values, he said.
-Meanwhile, McCallister said he's never voted for a Democrat but he's considering it for the first time. He still hasn't settled on his choice for governor and Senate, but he said data centers will be the top issue as he makes his decision.
-He is soft-spoken and mild-mannered, with a bushy beard that covers the lower quadrant of his face, and he has an aversion to social media. He didn't set out to get into the weeds of Texas data center politics, but he's become an unlikely and outspoken grassroots leader on the issue.
-Overcoming his social media skepticism, McCallister recently created a Facebook page and launched a nonprofit calling for stricter data center regulations. There, he's connected with a network of Texans opposed to data centers. He says many are just as disillusioned with the Republican Party as he is.
-"No longer do we just vote red all the way down," McCallister said. "If your elected official is not listening to you ... you should replace that person."
-— Luke Fountain contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/texas-data-centers-election.html",
-    publishedAt: "2026-09-23T10:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "ai-drone-maker-hits-6-4-billion-valuatio-8e387547",
-    title: "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
-    titleJa: "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech",
-    summaryJa: "Tekever is one of a number of European defense tech startups raising sizable rounds amid a rearmament campaign from countries in the region.",
-    bodyOriginal: `AI drone maker Tekever on Wednesday said it had hit a $6.4 billion valuation, as Europe races to rearm amid the Ukraine war and mounting threats from Russia.
-The Portuguese-British company, which raised a $580 million round, develops AI-powered autonomous systems including surveillance drones. Tekever says its drones have clocked more than 50,000 operational flight hours in Ukraine since 2022, when Russia's full-scale invasion began.
-University of California Investments and Baillie Gifford led the round, with Merlyn Advisors, Crescent Cove, Ventura Capital and Iberis Capital also contributing.
-Tekever said in July that the U.K. Ministry of Defence had selected it to provide surveillance technology under a program worth up to £400 million (around $530 million) over 10 years.
-"Artificial intelligence, autonomy and sovereign technological capability will be fundamental to the security and resilience of democratic societies in the decades ahead," Ricardo Mendes, Tekever's founder and CEO, said in a statement.
-"This investment gives us the resources to move faster, scale further and continue building a global technology leader from Europe."
-Tekever said it would use the funds to deepen its international presence, expand its industrial and technological capabilities, and accelerate strategic acquisitions.
-"Europe's security will increasingly depend on its ability to build technology companies that
-can innovate at speed, scale industrially and deliver capabilities that respond to real operational needs," Ben Wallace, portfolio manager at Merlyn Advisors and a former U.K. defense secretary, said in a statement.
-"Tekever has a proven track record that shows it can do all three."
-The company is one of a number of European defense tech startups that are raising increasingly sizable rounds amid a rearmament campaign from countries in the region.
-German autonomous drone duo Helsing and Quantum Systems raised $1.8 billion and 1 billion euros, respectively, in July. British air and missile defense company Cambridge Aerospace raised $300 million in August and German AI-enable unmanned systems startup Stark raised 500 million euros in June.`,
-    bodyJa: `AI drone maker Tekever on Wednesday said it had hit a $6.4 billion valuation, as Europe races to rearm amid the Ukraine war and mounting threats from Russia.
-The Portuguese-British company, which raised a $580 million round, develops AI-powered autonomous systems including surveillance drones. Tekever says its drones have clocked more than 50,000 operational flight hours in Ukraine since 2022, when Russia's full-scale invasion began.
-University of California Investments and Baillie Gifford led the round, with Merlyn Advisors, Crescent Cove, Ventura Capital and Iberis Capital also contributing.
-Tekever said in July that the U.K. Ministry of Defence had selected it to provide surveillance technology under a program worth up to £400 million (around $530 million) over 10 years.
-"Artificial intelligence, autonomy and sovereign technological capability will be fundamental to the security and resilience of democratic societies in the decades ahead," Ricardo Mendes, Tekever's founder and CEO, said in a statement.
-"This investment gives us the resources to move faster, scale further and continue building a global technology leader from Europe."
-Tekever said it would use the funds to deepen its international presence, expand its industrial and technological capabilities, and accelerate strategic acquisitions.
-"Europe's security will increasingly depend on its ability to build technology companies that
-can innovate at speed, scale industrially and deliver capabilities that respond to real operational needs," Ben Wallace, portfolio manager at Merlyn Advisors and a former U.K. defense secretary, said in a statement.
-"Tekever has a proven track record that shows it can do all three."
-The company is one of a number of European defense tech startups that are raising increasingly sizable rounds amid a rearmament campaign from countries in the region.
-German autonomous drone duo Helsing and Quantum Systems raised $1.8 billion and 1 billion euros, respectively, in July. British air and missile defense company Cambridge Aerospace raised $300 million in August and German AI-enable unmanned systems startup Stark raised 500 million euros in June.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html",
-    publishedAt: "2026-09-23T09:47:31+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "trump-xi-summit-puts-ai-safety-talks-on-65ce9337",
-    title: "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-    titleJa: "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down",
-    summaryJa: "Recent weeks have seen AI safety fears reach new heights. That will be a key focus for the U.S. and Chinese premiers, analysts told CNBC.",
-    bodyOriginal: `Donald Trump wants the U.S. to beat China in the AI race. But as he meets Chinese President Xi Jinping, both countries are also weighing how to address the risks posed by rapidly advancing technology.
-In recent months, AI systems have taken more consequential actions online: OpenAI said one of its research models gained unauthorized access to parts of the AI platform Hugging Face, while Anthropic found AI was being used to automate parts of cyberattacks. The incidents have raised fears that increasingly autonomous models could make attacks faster and harder to contain.
-Ahead of Trump and Xi's meeting on Thursday, U.S. Treasury Scott Bessent discussed the prospect of a "U.S.-China AI dialogue" with his Chinese counterpart, He Lifeng, over the weekend, including a channel for incidents "up to a national security level."
-"Leaders in both countries are spooked by the increasing cyber capabilities of AI models, and especially agents acting autonomously to escape containment and breach websites," Aalok Mehta, director of the Wadhwani AI Center at the Center for Strategic and International Studies, told CNBC.
-But as fears have intensified, tensions have not dissipated.
-Washington continues to restrict China's access to Nvidia's most advanced AI chips and has accused Chinese AI companies of using "distillation" — training models on the output of more advanced U.S. systems — a claim Beijing rejects.
-What's been said so far?
-While the U.S. took an early lead in developing large language models (LLMs), thanks to companies like OpenAI and Anthropic, Chinese models have made big capability gains in recent months and are increasingly being adopted by companies globally, including in America.
-Trump previously dismissed warnings that AI poses an existential threat to humanity, risks amplified by OpenAI CEO Sam Altman and Anthropic chief Dario Amodei as they called for an industry slowdown and regulatory oversight.
-"If we don't win AI, we're going to be put in a very bad position," Trump told reporters earlier this month.
-But in a Truth Social post on Monday, he said the government "will rein things in if we have to."
-AI safety and access to chips
-The likeliest areas of agreement between the U.S. and China could be common definitions and frameworks for AI safety for powerful models and an emergency communication mechanism to discuss incidents, Mehta told CNBC.
-A channel for relating national security-related incidents would be a "modest" but positive step, Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, told CNBC.
-But an agreement to slow down AI's breakneck development speed is "extremely unlikely," he added.
-China has historically used AI dialogues "to complain about U.S. export controls," McGuire said, which the U.S. uses to prevent the most advanced AI chips from being sold to China.
-"Its state media has largely rejected the concerns expressed by leading U.S. AI labs about the potential for catastrophic risk, which is consistent with China's long-held skepticism of all U.S. arms control proposals," he added.
-Despite U.S. restrictions, several Chinese firms have reportedly been able to access the chips' compute power remotely, via data centers in Southeast Asia.
-While U.S. trade representative Jamieson Greer said controls on chips were not on the agenda during preliminary talks on the weekend, China could push to have them relaxed, said Melanie Hart, senior director of the think tank Atlantic Council's Global China Hub.
-"China's asking the U.S. to embrace Chinese AI models and drop some of the U.S. controls on China's access to semiconductor chips," she told reporters on Tuesday.
-Distillation could also come up in the talks. U.S. companies and officials have accused Chinese labs of using the practice to gain ground, characterizing it as theft; China rejects the allegations.
-In July, Bessent threatened sanctions against companies doing it and said the Trump administration had found "watermarks of our U.S. large language models on many of the Chinese models," calling it "unacceptable."
-Progress on AI cooperation relies on two things, said Mehta. "The first is that it can't hurt the ability for the U.S. and China to compete on the merits of their technology."
-The second is a verification mechanism, he added. "Policymakers won't be inclined to take their counterparts just on their word, so we'll need to find ways to ensure information flowing between the two countries is accurate. That means both technical and governance verification tools."`,
-    bodyJa: `Donald Trump wants the U.S. to beat China in the AI race. But as he meets Chinese President Xi Jinping, both countries are also weighing how to address the risks posed by rapidly advancing technology.
-In recent months, AI systems have taken more consequential actions online: OpenAI said one of its research models gained unauthorized access to parts of the AI platform Hugging Face, while Anthropic found AI was being used to automate parts of cyberattacks. The incidents have raised fears that increasingly autonomous models could make attacks faster and harder to contain.
-Ahead of Trump and Xi's meeting on Thursday, U.S. Treasury Scott Bessent discussed the prospect of a "U.S.-China AI dialogue" with his Chinese counterpart, He Lifeng, over the weekend, including a channel for incidents "up to a national security level."
-"Leaders in both countries are spooked by the increasing cyber capabilities of AI models, and especially agents acting autonomously to escape containment and breach websites," Aalok Mehta, director of the Wadhwani AI Center at the Center for Strategic and International Studies, told CNBC.
-But as fears have intensified, tensions have not dissipated.
-Washington continues to restrict China's access to Nvidia's most advanced AI chips and has accused Chinese AI companies of using "distillation" — training models on the output of more advanced U.S. systems — a claim Beijing rejects.
-What's been said so far?
-While the U.S. took an early lead in developing large language models (LLMs), thanks to companies like OpenAI and Anthropic, Chinese models have made big capability gains in recent months and are increasingly being adopted by companies globally, including in America.
-Trump previously dismissed warnings that AI poses an existential threat to humanity, risks amplified by OpenAI CEO Sam Altman and Anthropic chief Dario Amodei as they called for an industry slowdown and regulatory oversight.
-"If we don't win AI, we're going to be put in a very bad position," Trump told reporters earlier this month.
-But in a Truth Social post on Monday, he said the government "will rein things in if we have to."
-AI safety and access to chips
-The likeliest areas of agreement between the U.S. and China could be common definitions and frameworks for AI safety for powerful models and an emergency communication mechanism to discuss incidents, Mehta told CNBC.
-A channel for relating national security-related incidents would be a "modest" but positive step, Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, told CNBC.
-But an agreement to slow down AI's breakneck development speed is "extremely unlikely," he added.
-China has historically used AI dialogues "to complain about U.S. export controls," McGuire said, which the U.S. uses to prevent the most advanced AI chips from being sold to China.
-"Its state media has largely rejected the concerns expressed by leading U.S. AI labs about the potential for catastrophic risk, which is consistent with China's long-held skepticism of all U.S. arms control proposals," he added.
-Despite U.S. restrictions, several Chinese firms have reportedly been able to access the chips' compute power remotely, via data centers in Southeast Asia.
-While U.S. trade representative Jamieson Greer said controls on chips were not on the agenda during preliminary talks on the weekend, China could push to have them relaxed, said Melanie Hart, senior director of the think tank Atlantic Council's Global China Hub.
-"China's asking the U.S. to embrace Chinese AI models and drop some of the U.S. controls on China's access to semiconductor chips," she told reporters on Tuesday.
-Distillation could also come up in the talks. U.S. companies and officials have accused Chinese labs of using the practice to gain ground, characterizing it as theft; China rejects the allegations.
-In July, Bessent threatened sanctions against companies doing it and said the Trump administration had found "watermarks of our U.S. large language models on many of the Chinese models," calling it "unacceptable."
-Progress on AI cooperation relies on two things, said Mehta. "The first is that it can't hurt the ability for the U.S. and China to compete on the merits of their technology."
-The second is a verification mechanism, he added. "Policymakers won't be inclined to take their counterparts just on their word, so we'll need to find ways to ensure information flowing between the two countries is accurate. That means both technical and governance verification tools."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
-    publishedAt: "2026-09-23T09:14:32+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "iran-says-trump-s-threats-a-sign-of-stra-2f8c73c4",
-    title: "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
-    titleJa: "Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening",
-    summaryJa: "Tehran's proposal could pave the way for restoring traffic through the Strait of Hormuz, reviving fragile hopes for a diplomatic off-ramp.",
-    bodyOriginal: `Iran's military on Wednesday described U.S. President Donald Trump's threats to annihilate Tehran as "a sign of strategic desperation," warning the country stands ready to inflict strikes "more crushing" than earlier in the nearly seven-month conflict.
-The combative message, which was carried by Iran's semi-official Mehr news agency, accused Trump of trying to use the United Nations podium to justify aggression.
-"Such words demonstrate America's strategic dead end in its aggression against the Iranian nation, and the repetition of baseless claims and threats, given the exhaustion of the U.S. military, is not a sign of power but a sign of their strategic desperation," Iran's General Staff said.
-Trump said during his address to the United Nations General Assembly (UNGA) on Tuesday that he faced a choice between a deal and more aggressive military action, before telling reporters that U.S. officials held a "very good" three-hour meeting with Iranian envoys on the sidelines.
-"Will a deal be made with Iran? Or do I annihilate the Islamic Republic, and do it quickly?" Trump said on Tuesday. He called on all nations to "enforce the complete economic isolation of Iran."
-Trump also said he expected an agreement after November's midterm elections. "I believe we'll make a deal right after the election, because it doesn't make sense for them not to," he said. "They're waiting to see how I do in the midterm election."
-Iranian President Masoud Pezeshkian is scheduled to speak at the UNGA later on Wednesday.
-Iran has been in negotiations with the U.S. through a Qatari mediator in New York, and communicated its conditions for ending the war on all fronts, according to regional media reports.
-Tehran's conditions include a halt to what it calls U.S. "acts of aggression," an end to the naval blockade and economic warfare, and the release of Iranian assets, Iranian foreign ministry spokesman Esmaeil Baghaei said.
-The proposal laid out concrete details aimed at restoring traffic through the Strait of Hormuz, which carried about a fifth of global oil and gas shipments before the war, reviving fragile hopes for a diplomatic off-ramp to the seven-month war.
-Separately, a senior Iranian official said Tehran could reopen the strait within a week if the U.S. eases military pressure and lifts its blockade of Iranian ports.
-'A Saudi-controlled shuttle corridor'
-Shipping through Hormuz remains far below normal. Confirmed transits through the strait averaged 6.98 million barrels a day in the seven days to Sept. 20, according to Kpler. That's about 38% of the 18.3 million barrel pre-war baseline.
-Iran's own crude exports have dried up as the U.S. reinstated its naval blockade. Its crude loadings fell to zero so far in September from 893,000 barrels a day in July, according to Kpler.
-The strait "is increasingly a Saudi-controlled shuttle corridor," the shipping research agency said Tuesday. Saudi Arabia has shifted exports to its Gulf coast since a Houthi attack earlier this month halted flows on its East-West pipeline to the Red Sea port of Yanbu.
-An interim peace agreement between Washington and Tehran collapsed in July, weeks after it was signed, and neither side has signaled when the next round of talks will take place.
-Oil prices were mixed on Wednesday. Futures for international benchmark Brent crude were last seen 0.7% higher at $99.90 per barrel, while U.S. West Texas Intermediate futures fell 0.1% to $90.42 per barrel.`,
-    bodyJa: `Iran's military on Wednesday described U.S. President Donald Trump's threats to annihilate Tehran as "a sign of strategic desperation," warning the country stands ready to inflict strikes "more crushing" than earlier in the nearly seven-month conflict.
-The combative message, which was carried by Iran's semi-official Mehr news agency, accused Trump of trying to use the United Nations podium to justify aggression.
-"Such words demonstrate America's strategic dead end in its aggression against the Iranian nation, and the repetition of baseless claims and threats, given the exhaustion of the U.S. military, is not a sign of power but a sign of their strategic desperation," Iran's General Staff said.
-Trump said during his address to the United Nations General Assembly (UNGA) on Tuesday that he faced a choice between a deal and more aggressive military action, before telling reporters that U.S. officials held a "very good" three-hour meeting with Iranian envoys on the sidelines.
-"Will a deal be made with Iran? Or do I annihilate the Islamic Republic, and do it quickly?" Trump said on Tuesday. He called on all nations to "enforce the complete economic isolation of Iran."
-Trump also said he expected an agreement after November's midterm elections. "I believe we'll make a deal right after the election, because it doesn't make sense for them not to," he said. "They're waiting to see how I do in the midterm election."
-Iranian President Masoud Pezeshkian is scheduled to speak at the UNGA later on Wednesday.
-Iran has been in negotiations with the U.S. through a Qatari mediator in New York, and communicated its conditions for ending the war on all fronts, according to regional media reports.
-Tehran's conditions include a halt to what it calls U.S. "acts of aggression," an end to the naval blockade and economic warfare, and the release of Iranian assets, Iranian foreign ministry spokesman Esmaeil Baghaei said.
-The proposal laid out concrete details aimed at restoring traffic through the Strait of Hormuz, which carried about a fifth of global oil and gas shipments before the war, reviving fragile hopes for a diplomatic off-ramp to the seven-month war.
-Separately, a senior Iranian official said Tehran could reopen the strait within a week if the U.S. eases military pressure and lifts its blockade of Iranian ports.
-'A Saudi-controlled shuttle corridor'
-Shipping through Hormuz remains far below normal. Confirmed transits through the strait averaged 6.98 million barrels a day in the seven days to Sept. 20, according to Kpler. That's about 38% of the 18.3 million barrel pre-war baseline.
-Iran's own crude exports have dried up as the U.S. reinstated its naval blockade. Its crude loadings fell to zero so far in September from 893,000 barrels a day in July, according to Kpler.
-The strait "is increasingly a Saudi-controlled shuttle corridor," the shipping research agency said Tuesday. Saudi Arabia has shifted exports to its Gulf coast since a Houthi attack earlier this month halted flows on its East-West pipeline to the Red Sea port of Yanbu.
-An interim peace agreement between Washington and Tehran collapsed in July, weeks after it was signed, and neither side has signaled when the next round of talks will take place.
-Oil prices were mixed on Wednesday. Futures for international benchmark Brent crude were last seen 0.7% higher at $99.90 per barrel, while U.S. West Texas Intermediate futures fell 0.1% to $90.42 per barrel.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-09-23T09:05:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "doj-defends-trump-ban-of-3-news-outlets-3764564d",
-    title: "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-    titleJa: "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-    summaryJa: "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-    bodyOriginal: `The U.S. Department of Justice late Tuesday evening urged a federal judge not to block President Donald Trump's total ban of three news outlets from the White House, saying, "Access to the White House is a privilege — not a right."
-The DOJ, in a new court filing, also said Trump was motivated by concerns about national security in his decision Friday to summarily ban MS NOW, CNN and Politico from the White House.
-The filing came ahead of Wednesday's scheduled teleconference hearing in U.S. District Court in Washington, D.C., where Judge Timothy Kelly will hear arguments by a lawyer for the outlets, which have asked him to enjoin Trump from continuing the ban as part of a lawsuit filed against him Monday.
-"The President has determined that Plaintiffs have reported classified or sensitive information bearing on national security," the DOJ said in the filing to Kelly, who is a Trump appointee.
-"The President therefore has a compelling interest in limiting access to White House grounds to organizations that do not pose such a risk to national security," the filing says.
-Targeting claims by the media outlets in their lawsuit, the DOJ said that there is no First Amendment right of news reporters to the White House.
-The outlets in their suit say that Trump's ban was motivated by so-called viewpoint discrimination, or targeting them for their perceived "motivating ideology or the opinion or perspective."
-The DOJ, in its filing, included new letters, dated Tuesday, to the media outlets, giving each of them to chance to contest the initial decision to ban them and the factual basis for the ban.
-The letters reference stories published by the outlets that purportedly threatened national security.
-"Plaintiffs may submit any response by 5:00 pm on Friday, September 25, 2026," the filing says.
-"Otherwise, 'this initial decision will be final."
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    bodyJa: `The U.S. Department of Justice late Tuesday evening urged a federal judge not to block President Donald Trump's total ban of three news outlets from the White House, saying, "Access to the White House is a privilege — not a right."
-The DOJ, in a new court filing, also said Trump was motivated by concerns about national security in his decision Friday to summarily ban MS NOW, CNN and Politico from the White House.
-The filing came ahead of Wednesday's scheduled teleconference hearing in U.S. District Court in Washington, D.C., where Judge Timothy Kelly will hear arguments by a lawyer for the outlets, which have asked him to enjoin Trump from continuing the ban as part of a lawsuit filed against him Monday.
-"The President has determined that Plaintiffs have reported classified or sensitive information bearing on national security," the DOJ said in the filing to Kelly, who is a Trump appointee.
-"The President therefore has a compelling interest in limiting access to White House grounds to organizations that do not pose such a risk to national security," the filing says.
-Targeting claims by the media outlets in their lawsuit, the DOJ said that there is no First Amendment right of news reporters to the White House.
-The outlets in their suit say that Trump's ban was motivated by so-called viewpoint discrimination, or targeting them for their perceived "motivating ideology or the opinion or perspective."
-The DOJ, in its filing, included new letters, dated Tuesday, to the media outlets, giving each of them to chance to contest the initial decision to ban them and the factual basis for the ban.
-The letters reference stories published by the outlets that purportedly threatened national security.
-"Plaintiffs may submit any response by 5:00 pm on Friday, September 25, 2026," the filing says.
-"Otherwise, 'this initial decision will be final."
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
-    publishedAt: "2026-09-23T05:49:57+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
   },
 ];
 
