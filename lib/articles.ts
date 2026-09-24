@@ -15,6 +15,682 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "world-heads-into-food-crises-blind-as-u-f0599505",
+    title: "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+    titleJa: "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+    summaryJa: "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+    bodyOriginal: `SINGAPORE — Other nations will have to fill the funding gap at the UN Food and Agriculture Organization as Washington pulls back, according to Phil Hogan, a former European Union commissioner who is now running to lead the world's biggest food agency.
+"It is important to continue to support [the agency] financially ... as the United States pulls back from some of these programs, other member countries of the FAO will have to step in to ensure all the animal disease issues and food safety issues remain in place," Hogan told CNBC in an exclusive interview in Singapore on Wednesday.
+The Trump administration has drastically scaled back U.S. foreign aid by dismantling the U.S. Agency for International Development (USAID), once the world's largest humanitarian donor.
+Hogan, Ireland's former EU agriculture and trade commissioner, is now the frontrunner to become director-general of the Rome-based agency that oversees global rules for food security and sounds alarms over looming famines. He is on a weeks-long tour in Asia to meet regional leaders, ahead of a vote among member countries next summer when current chief Qu Dongyu's term expires in July.
+UN agencies and virtually all international humanitarian response NGOs and research organizations are struggling for funding as donors, notably but not only the U.S., have sharply reduced foreign assistance, said Chris Barrett, an agricultural and development economist at Cornell University.
+The funding shortfalls mean "less monitoring and surveillance for early warning of looming problems," and limit the world's ability to cushion the blows to poor families suddenly facing higher food prices," said Barrett. That ultimately leads to more severe hunger problems and sociopolitical unrest as populations grow frustrated with governments that cannot safeguard their food security, he warned.
+More than a quarter of the world's population faced moderate or severe food insecurity in 2025, and over 266 million people face acute hunger this year, according to the World Health Organization and UN World Food Programme.
+Food 'disasters' loom
+The conflict around the Strait of Hormuz and the war in Ukraine are "contributing towards potential disasters in 2027 in many parts of the world," Hogan said, adding that El Niño would compound the risk.
+The Middle East war and the subsequent crisis in the strategically vital Strait of Hormuz have stoked fears of a global agrifood catastrophe as flows of fertilizer and energy exports essentially ground to a halt. The FAO sounded the alarm that poor countries were most exposed, as delayed commodity supplies could lead to lower output, higher inflation and weaker global growth.
+The prolonged war in Ukraine has also snarled global wheat trade through the Black Sea, compounding economic effects and undermining food security in vulnerable countries. Forecasts of a powerful El Niño weather event may further threaten global food security.
+We're going into this on our way to being blind and with one hand tied behind our back, in terms of global capacity to foresee and respond to major food crises.Chris NewtonFood security analyst, International Crisis Group
+Any reform plan for the agency must reckon with a tighter budget, Hogan said. "We have to be conscious of the fact that we have less money." His first 100 days would focus on moving staff out of headquarters and into offices in so-called "hunger hotspots" characterized by severe food shortages.
+The candidate also stressed cost efficiency and collaborations with other UN agencies in implementing the organization's mandate of providing regular access to enough high-quality food and ending hunger and malnutrition.
+He argued the agency had been too quiet in the Black Sea Grain Initiative — a now-suspended agreement between Russia, Ukraine, Turkey and the UN to get food and fertilizer exports from Ukraine flowing after Russia's attacks since 2022 largely halted vessel traffic through Ukraine's Black Sea ports, previously responsible for around 90% of Ukraine's agricultural exports.
+"Perhaps the FAO was a bit behind the curve in not elevating this issue and becoming more centrally involved in solutions around food security within the United Nations family," he said. The UN played a key role in the Black Sea agreement but the FAO "was not at the table."
+Climate shocks, geopolitical conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave the world poorly placed to respond, said Chris Newton, food security analyst at International Crisis Group.
+"We're going into this on our way to being blind and with one hand tied behind our back, in terms of global capacity to foresee and respond to major food crises."
+Some experts are less alarmed. Even with an "exceptionally strong" El Niño, "we are currently well short of the conditions for a global food crisis," said Ian Mitchell, a senior policy fellow at the Center for Global Development. Global grain stockpiles remain healthy by historical standards, and futures markets aren't signaling a supply crunch, he said.`,
+    bodyJa: `SINGAPORE — Other nations will have to fill the funding gap at the UN Food and Agriculture Organization as Washington pulls back, according to Phil Hogan, a former European Union commissioner who is now running to lead the world's biggest food agency.
+"It is important to continue to support [the agency] financially ... as the United States pulls back from some of these programs, other member countries of the FAO will have to step in to ensure all the animal disease issues and food safety issues remain in place," Hogan told CNBC in an exclusive interview in Singapore on Wednesday.
+The Trump administration has drastically scaled back U.S. foreign aid by dismantling the U.S. Agency for International Development (USAID), once the world's largest humanitarian donor.
+Hogan, Ireland's former EU agriculture and trade commissioner, is now the frontrunner to become director-general of the Rome-based agency that oversees global rules for food security and sounds alarms over looming famines. He is on a weeks-long tour in Asia to meet regional leaders, ahead of a vote among member countries next summer when current chief Qu Dongyu's term expires in July.
+UN agencies and virtually all international humanitarian response NGOs and research organizations are struggling for funding as donors, notably but not only the U.S., have sharply reduced foreign assistance, said Chris Barrett, an agricultural and development economist at Cornell University.
+The funding shortfalls mean "less monitoring and surveillance for early warning of looming problems," and limit the world's ability to cushion the blows to poor families suddenly facing higher food prices," said Barrett. That ultimately leads to more severe hunger problems and sociopolitical unrest as populations grow frustrated with governments that cannot safeguard their food security, he warned.
+More than a quarter of the world's population faced moderate or severe food insecurity in 2025, and over 266 million people face acute hunger this year, according to the World Health Organization and UN World Food Programme.
+Food 'disasters' loom
+The conflict around the Strait of Hormuz and the war in Ukraine are "contributing towards potential disasters in 2027 in many parts of the world," Hogan said, adding that El Niño would compound the risk.
+The Middle East war and the subsequent crisis in the strategically vital Strait of Hormuz have stoked fears of a global agrifood catastrophe as flows of fertilizer and energy exports essentially ground to a halt. The FAO sounded the alarm that poor countries were most exposed, as delayed commodity supplies could lead to lower output, higher inflation and weaker global growth.
+The prolonged war in Ukraine has also snarled global wheat trade through the Black Sea, compounding economic effects and undermining food security in vulnerable countries. Forecasts of a powerful El Niño weather event may further threaten global food security.
+We're going into this on our way to being blind and with one hand tied behind our back, in terms of global capacity to foresee and respond to major food crises.Chris NewtonFood security analyst, International Crisis Group
+Any reform plan for the agency must reckon with a tighter budget, Hogan said. "We have to be conscious of the fact that we have less money." His first 100 days would focus on moving staff out of headquarters and into offices in so-called "hunger hotspots" characterized by severe food shortages.
+The candidate also stressed cost efficiency and collaborations with other UN agencies in implementing the organization's mandate of providing regular access to enough high-quality food and ending hunger and malnutrition.
+He argued the agency had been too quiet in the Black Sea Grain Initiative — a now-suspended agreement between Russia, Ukraine, Turkey and the UN to get food and fertilizer exports from Ukraine flowing after Russia's attacks since 2022 largely halted vessel traffic through Ukraine's Black Sea ports, previously responsible for around 90% of Ukraine's agricultural exports.
+"Perhaps the FAO was a bit behind the curve in not elevating this issue and becoming more centrally involved in solutions around food security within the United Nations family," he said. The UN played a key role in the Black Sea agreement but the FAO "was not at the table."
+Climate shocks, geopolitical conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave the world poorly placed to respond, said Chris Newton, food security analyst at International Crisis Group.
+"We're going into this on our way to being blind and with one hand tied behind our back, in terms of global capacity to foresee and respond to major food crises."
+Some experts are less alarmed. Even with an "exceptionally strong" El Niño, "we are currently well short of the conditions for a global food crisis," said Ian Mitchell, a senior policy fellow at the Center for Global Development. Global grain stockpiles remain healthy by historical standards, and futures markets aren't signaling a supply crunch, he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+    publishedAt: "2026-09-24T04:02:26+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "u-s-china-trade-truce-extended-for-two-m-0e8c5fd0",
+    title: "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+    titleJa: "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
+    summaryJa: "The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said, noting the need for Beijing to fulfill more deliverables.",
+    bodyOriginal: `The U.S. and China have extended a truce to keep tariffs lower for longer and rare earths flowing, U.S. Treasury Secretary Scott Bessent said Wednesday local time.
+He was speaking on Fox News, as Chinese President Xi Jinping landed in Washington, D.C. for a state visit through Friday.
+Xi and Trump agreed to a one-year trade truce at a meeting in South Korea last October. The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said. He added that Beijing needs to fulfill more deliverables.
+Ahead of this week's summit, many had expected the truce would be extended by six months or longer.
+Chinese state media did not immediately note Bessent's comments on the trade truce.
+The two-month extension "suggests to me the U.S. is unsatisfied with China's offers and wants to keep the heat on, with a bonus being it is more likely that Xi goes to the G20 in Miami," said Scott Kennedy of the U.S.-based think tank Center for Strategic and International Studies.
+Trump visited Beijing in May. The two leaders could also meet alongside an APEC meeting in Shenzhen in November, and the G20 summit in Miami in December.
+However, Jens Eskelund, president of the European Chamber of Commerce in China, pointed out that simply extending the trade truce does not address challenges companies face, including the lack of a standardized approach to apply for rare earths export licenses.
+Xi said in an official readout for his arrival that he is confident the visit will produce "fruitful results" for both sides. He said the two countries should be partners, not rivals, and work to build a stable relationship where competition and differences are managed. The readout did not mention tariffs, rare earths or artificial intelligence.
+Footage streamed on China's state broadcaster showed U.S. President Donald Trump and First Lady Melania Trump meeting Xi and First Lady of China Peng Liyuan at the foot of the Chinese leader's jet. The video did not show the U.S. and Chinese leaders shaking hands — it focused on Xi and his wife shaking hands with two children presenting them each with bouquets.
+After greeting Xi, Trump told reporters he would discuss the Iran war with the Chinese leader, among "many other subjects."
+Bessent met with Chinese Vice Premier He Lifeng in New York ahead of Xi's arrival in the U.S. The two sides discussed setting up an alert system for AI incidents, according to Bessent.
+While executives of major U.S. tech companies plan to join a summit dinner on Thursday, none of their Chinese counterparts are expected to attend.
+Politburo Standing Committee Member Cai Qi and China's top diplomat Wang Yi accompanied Xi, according to state media.
+—CNBC's Eunice Yoon and Ashlee Trujillo contributed to this report.`,
+    bodyJa: `The U.S. and China have extended a truce to keep tariffs lower for longer and rare earths flowing, U.S. Treasury Secretary Scott Bessent said Wednesday local time.
+He was speaking on Fox News, as Chinese President Xi Jinping landed in Washington, D.C. for a state visit through Friday.
+Xi and Trump agreed to a one-year trade truce at a meeting in South Korea last October. The deal, which was set to expire in November, will now be extended to Jan. 10, Bessent said. He added that Beijing needs to fulfill more deliverables.
+Ahead of this week's summit, many had expected the truce would be extended by six months or longer.
+Chinese state media did not immediately note Bessent's comments on the trade truce.
+The two-month extension "suggests to me the U.S. is unsatisfied with China's offers and wants to keep the heat on, with a bonus being it is more likely that Xi goes to the G20 in Miami," said Scott Kennedy of the U.S.-based think tank Center for Strategic and International Studies.
+Trump visited Beijing in May. The two leaders could also meet alongside an APEC meeting in Shenzhen in November, and the G20 summit in Miami in December.
+However, Jens Eskelund, president of the European Chamber of Commerce in China, pointed out that simply extending the trade truce does not address challenges companies face, including the lack of a standardized approach to apply for rare earths export licenses.
+Xi said in an official readout for his arrival that he is confident the visit will produce "fruitful results" for both sides. He said the two countries should be partners, not rivals, and work to build a stable relationship where competition and differences are managed. The readout did not mention tariffs, rare earths or artificial intelligence.
+Footage streamed on China's state broadcaster showed U.S. President Donald Trump and First Lady Melania Trump meeting Xi and First Lady of China Peng Liyuan at the foot of the Chinese leader's jet. The video did not show the U.S. and Chinese leaders shaking hands — it focused on Xi and his wife shaking hands with two children presenting them each with bouquets.
+After greeting Xi, Trump told reporters he would discuss the Iran war with the Chinese leader, among "many other subjects."
+Bessent met with Chinese Vice Premier He Lifeng in New York ahead of Xi's arrival in the U.S. The two sides discussed setting up an alert system for AI incidents, according to Bessent.
+While executives of major U.S. tech companies plan to join a summit dinner on Thursday, none of their Chinese counterparts are expected to attend.
+Politburo Standing Committee Member Cai Qi and China's top diplomat Wang Yi accompanied Xi, according to state media.
+—CNBC's Eunice Yoon and Ashlee Trujillo contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+    publishedAt: "2026-09-24T03:50:24+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "chinese-authorities-reportedly-in-posses-10cda6ca",
+    title: "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+    titleJa: "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
+    summaryJa: "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
+    bodyOriginal: `Chinese authorities are reportedly in possession of F-35 stealth fighter parts after components of the aircraft were "inexplicably diverted to Hong Kong."
+Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted, Bloomberg reported on Thursday, citing sources.
+Both parts were coated with a radar absorbing material that enhances their stealth capabilities, the sources said, and it was not clear why the shipment was diverted to Hong Kong.
+On Tuesday, Australian Defense Minister Richard Marles told reporters Tuesday that Australia was aware of the shipment, and was working with the U.S. and Lockheed Martin to see how Canberra can assist in the investigation.
+Marles also said it was his understanding that no sensitive parts were in the missing shipment, according to CNN.
+Lockheed Martin, UPS and the Pentagon didn't immediately respond to requests for comment from CNBC.
+The F-35 is a fifth-generation stealth fighter made by Lockheed Martin, and Washington controls the sale of these aircraft only to its closest partners and allies.
+For example, Turkey was excluded from the F-35 program in 2019 after the country purchased the Russian S-400 anti-aircraft system, which raised fears that the Russian system could be used as an intelligence collection platform to learn about the aircraft's capabilities.
+China has targeted F-35-related U.S. military data in past espionage cases, according to U.S. prosecutors in 2024.
+A $24 billion sale of F-35s to Saudi Arabia was approved last week, but some lawmakers in Congress have already expressed concerns over the technology finding its way into Chinese hands.
+Congressman Raja Krishnamoorthi (D-IL) said that the U.S. intelligence community has warned that the sale "could put the crown jewels of American military technology within reach of the Chinese Communist Party."
+Users of the fighter jet include Australia and Belgium, as well as the U.S. itself, with other countries like Japan, Canada and Singapore having also ordered the aircraft.
+F-35s have also been used by the U.S. during the Iran conflict, with one aircraft suffering damage from enemy fire, according to the Department of Defense.`,
+    bodyJa: `Chinese authorities are reportedly in possession of F-35 stealth fighter parts after components of the aircraft were "inexplicably diverted to Hong Kong."
+Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted, Bloomberg reported on Thursday, citing sources.
+Both parts were coated with a radar absorbing material that enhances their stealth capabilities, the sources said, and it was not clear why the shipment was diverted to Hong Kong.
+On Tuesday, Australian Defense Minister Richard Marles told reporters Tuesday that Australia was aware of the shipment, and was working with the U.S. and Lockheed Martin to see how Canberra can assist in the investigation.
+Marles also said it was his understanding that no sensitive parts were in the missing shipment, according to CNN.
+Lockheed Martin, UPS and the Pentagon didn't immediately respond to requests for comment from CNBC.
+The F-35 is a fifth-generation stealth fighter made by Lockheed Martin, and Washington controls the sale of these aircraft only to its closest partners and allies.
+For example, Turkey was excluded from the F-35 program in 2019 after the country purchased the Russian S-400 anti-aircraft system, which raised fears that the Russian system could be used as an intelligence collection platform to learn about the aircraft's capabilities.
+China has targeted F-35-related U.S. military data in past espionage cases, according to U.S. prosecutors in 2024.
+A $24 billion sale of F-35s to Saudi Arabia was approved last week, but some lawmakers in Congress have already expressed concerns over the technology finding its way into Chinese hands.
+Congressman Raja Krishnamoorthi (D-IL) said that the U.S. intelligence community has warned that the sale "could put the crown jewels of American military technology within reach of the Chinese Communist Party."
+Users of the fighter jet include Australia and Belgium, as well as the U.S. itself, with other countries like Japan, Canada and Singapore having also ordered the aircraft.
+F-35s have also been used by the U.S. during the Iran conflict, with one aircraft suffering damage from enemy fire, according to the Department of Defense.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
+    publishedAt: "2026-09-24T01:16:34+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "they-were-labelled-pervert-glasses-will-57de2040",
+    title: "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+    titleJa: "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
+    summaryJa: "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
+    bodyOriginal: `When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the trendy sunglasses brand Ray-Ban, it unleashed a storm of controversy.
+There have been multiple reports of the devices being used to harass women and girls in particular, filming them without their consent, then sharing the footage.
+The image problem doesn't seem to have been cured by Meta's enlistment this summer of Kylie Jenner, Kim Kardashian's sister, as their prime model. The devices have been dubbed "pervert" or "creepy" glasses. In the UK, JD Wetherspoon pubs, a handful of major theatres, Comic-Con, some schools, and Faslane, home of the UK's nuclear submarines, have all chosen to ban them.
+On Thursday, Meta is unveiling a new version which does not contain a camera at all, called Ray-Ban Meta Audio. They will have the audio functions of the original glasses - including the ability to make phone calls or play music, with the sound funnelled directly into your ear - but with fewer implications for privacy.
+To some in the industry, it looks like an interesting pivot - a response, perhaps, to the backlash over privacy.
+The tech giant denies that the new glasses have been rushed out in response to public anger. They say the product has been in development for two years. The audio-only version is cheaper than its camera-enabled cousins, and Meta says it has a lighter frame and better battery life.
+When I put it to Meta Glasses' head of product Ankit Brahmbhatt that I thought they might overtake the original camera-enabled glasses in sales, there was a pregnant pause.
+"We have, I think, something for everyone," he said, choosing his words very carefully.
+Does the release of a camera-free option represent a shift in how tech companies see the future of smart glasses? And is Meta's original vision getting further away?
+Or should we see camera-free glasses as a niche side-product that serves a small market - a bit like how some mobile manufacturers are now releasing internet-disabled "brick" phones for people who are tired of social media?
+Music, maps, and washing cars
+There's no doubt that smart glasses have become controversial.
+I was lent a pair of Meta Ray-Bans – with cameras - to try out. I was initially nervous about wearing them in public, in case someone got physical: I have heard of people knocking them off wearers' heads and smashing them in the street.
+The reality was that I wore them on public transport and on foot in several cities including London, Glasgow and Portsmouth, and nobody batted an eyelid. It made me wonder whether awareness of them is really as high as both Meta and anti-glasses campaigners believe.
+That said, some people quietly told me they would not be confident enough to approach someone wearing them even if they did spot them, for fear of the interaction being filmed and uploaded.
+The glasses are designed to work as an extension of your phone. They use Bluetooth to sync with a handset via Meta's AI app. They are voice-activated, with open speakers in the arms funnelling sound into your ears. The result is a bit like wearing headphones without the addition of noise-cancelling features, so you can still hear the world around you.
+My potentially cancellable opinion is that I found many of the glasses' features useful. Interestingly, none of them included the camera.
+Listening to music and podcasts on the move without having earbuds stuffed into my ears felt safer. I felt more confident about avoiding the gamut of e-bike-riding phone thieves in central London without my phone physically in my hand.
+And as someone with a pitiful sense of direction, I rely a lot on map apps. It was handy to have the directions spoken in my ears. The pay-off for this, however, was having to accept allowing the Meta AI app to know exactly where I was at all times. Meta is notorious for its hunger for personal data.
+When I posted about using the Meta Ray-Bans on social media, I got a bit of a hard time. Less so when I showed them to people in my everyday life.
+My hairdresser loved the idea of using them to record her clients' hair transformations. A builder I chatted to at the gym reckoned they would be useful on sites for recording what he was doing, either in the event of an accident or even to teach others new skills. My friend who runs said he would like to wear them on a jog.
+Plenty of content creators are big fans. My son borrowed them to wash my car, and was proud of his film showing me how he delicately chipped away at a stubborn bit of bird poo without damaging the paintwork (I was pleased, and happy to take his word for it).
+More broadly, smart glasses have been welcomed by the blind community. One user described them to the BBC as a "game-changer" because they can give audio descriptions of current locations and read out visible text like restaurant menu options. Earlier this year Meta donated 15,000 pairs to a charity for the blind in Ireland.
+Calls for regulation
+But still, anger over privacy has grown.
+The glasses have a blinking white LED that switches on when the camera is active, but a whole industry has sprung up around finding technical workarounds to disable that light, some of which involve taking the glasses apart.
+Meta says less than 0.1% of the frames it has sold worldwide have been physically tampered with. Exact sales figures are unknown, but Ray-Ban's parent company EssilorLuxottica has reported that it sold seven million last year.
+Liz Hunter, a tech founder and parent who has set up a petition calling for urgent new regulation of smart glasses, is furious.
+"They should never, ever have left the lab at Meta," she told me. "It's a real travesty of public trust, and of women's equality, and it's rolled back our privacy rights right before our very eyes."
+Hunter thinks smart glasses should remain available for blind people, but not for the general population.
+"We don't need them, we don't want them," she says.
+A Polish developer has released an app called ZuckOff which uses Bluetooth to identify nearby smart glasses. It's been downloaded thousands of times, reports Wired magazine.
+Ben Wood, from tech research firm CCS Insight, remembers first reading the phrase "pervert glasses" in the usually strait-laced Financial Times - a sign, he says, that it had prompted a "significant public backlash".
+The furore has not deterred other companies from eyeing the market, however.
+Samsung is reported to be working on a collaboration with the upmarket glasses brand Warby Parker. Google is also said to be working on a set. Snap, the firm behind Snapchat, has just launched Specs, which are retailing in the US for $2,195 (and £1,995 in the UK). Users can see data inside the glass, and snap their fingers to take a photo.
+Snap founder Evan Spiegel says he thinks smart glasses will eventually replace phones, and he's not alone.
+Step back or 'half step to the side'?
+When Meta launched smart glasses in 2021, they were geared in part around what the user could see. The firm promised they would allow users to "easily record the world as you see it", and to "capture life's moments as they happen from a unique first-person perspective".
+So Meta's latest announcement - glasses without a camera - is notable.
+Janusz Swierczynski, a researcher at Oxford University's Saïd Business School, who is worried about smart glasses, says the release of a camera-free version is a "positive sign" that Meta seems to have listened to privacy concerns. "They're thinking about it and that they're responding," he says, though he thinks it's "not a perfect" response because the camera-enabled glasses are still on the market.
+Others are less sure it represents a real shift.
+"It's certainly not the end of cameras in glasses," says Wood, from CCS Insight. He thinks that smart glasses are largely about capturing information; the glasses collect as much data as they can from your surroundings and then use AI to tell you about it.
+And glasses armed with a camera - trained on whatever you can see - are an "extremely good" source of that information.
+"That is an invaluable data stream to an AI platform, which can then interpret that data and provide you with the best possible information related to it," Wood says. "So having the vision parts of it with the cameras is a key pillar for getting the best experience."
+More from InDepth
+AI 'slop' is transforming social media - and a backlash is brewing
+- Published4 February
+Tech billionaires seem to be doom prepping. Should we all be worried?
+- Published10 October 2025
+He imagines Meta has been working on the camera-free glasses for several years, and the current backlash over privacy provides "fantastic timing" for their release.
+Indeed, Meta doesn't yet show any signs of slowing down its development of camera-enabled glasses. The company is bringing its third generation of the glasses to the UK next month. These can visually display data inside the specs' lenses. (As a live broadcast journalist who has talked openly about brain fog, I can see the appeal of glasses that can discreetly display a script).
+Kate Winick, a tech analyst at the research firm Forrester, says it's not a step back from camera-enabled glasses but more of a "half step to the side, where they give users time to get comfortable with the technology… so that users themselves start to say, 'Oh, this would be so much more useful if it had a camera'."
+And she says, paradoxically, the existence of camera-free glasses might help "take the heat" off people who wear camera-enabled glasses in public. "It's now clear that out in the market some glasses have cameras and some don't," she says. "You can't automatically get mad at everybody wearing Meta's glasses, because you may not know whether or not they have a camera."
+Towards a social norm
+And other companies are trying to address privacy concerns in different ways - without getting rid of the camera.
+The Taiwanese firm HTC recently launched Vive Eagle glasses, which cost less than a quarter of Snap's.
+Thomas Dexmier, a vice president at HTC Vive, says that if anyone near an Eagle specs wearer says "stop filming" or "stop recording", and it is picked up by one of the four microphones, the camera will deactivate.
+And he adds that all recordings captured by the glasses are encrypted, and the firm itself cannot see them - though this also means HTC cannot flag harmful content.
+"We acknowledge that there are some challenges, potentially becoming a real problem, especially for women," he said.
+He said HTC Vive was working to make it as difficult as possible for the tech to be misused but said it was "too early to comment" on whether the firm would consider a version without cameras.
+Ultimately, Wood thinks that camera-enabled glasses are "not going away".
+He says the current moment reminds him of the 2000s, when some people said that mobile phone companies couldn't install cameras in their devices because of similar concerns over privacy. "There's an inevitability there," he says.
+"We will have to find a societal norm, a framework for the use of these products."
+Top image credit: Getty.
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the trendy sunglasses brand Ray-Ban, it unleashed a storm of controversy.
+There have been multiple reports of the devices being used to harass women and girls in particular, filming them without their consent, then sharing the footage.
+The image problem doesn't seem to have been cured by Meta's enlistment this summer of Kylie Jenner, Kim Kardashian's sister, as their prime model. The devices have been dubbed "pervert" or "creepy" glasses. In the UK, JD Wetherspoon pubs, a handful of major theatres, Comic-Con, some schools, and Faslane, home of the UK's nuclear submarines, have all chosen to ban them.
+On Thursday, Meta is unveiling a new version which does not contain a camera at all, called Ray-Ban Meta Audio. They will have the audio functions of the original glasses - including the ability to make phone calls or play music, with the sound funnelled directly into your ear - but with fewer implications for privacy.
+To some in the industry, it looks like an interesting pivot - a response, perhaps, to the backlash over privacy.
+The tech giant denies that the new glasses have been rushed out in response to public anger. They say the product has been in development for two years. The audio-only version is cheaper than its camera-enabled cousins, and Meta says it has a lighter frame and better battery life.
+When I put it to Meta Glasses' head of product Ankit Brahmbhatt that I thought they might overtake the original camera-enabled glasses in sales, there was a pregnant pause.
+"We have, I think, something for everyone," he said, choosing his words very carefully.
+Does the release of a camera-free option represent a shift in how tech companies see the future of smart glasses? And is Meta's original vision getting further away?
+Or should we see camera-free glasses as a niche side-product that serves a small market - a bit like how some mobile manufacturers are now releasing internet-disabled "brick" phones for people who are tired of social media?
+Music, maps, and washing cars
+There's no doubt that smart glasses have become controversial.
+I was lent a pair of Meta Ray-Bans – with cameras - to try out. I was initially nervous about wearing them in public, in case someone got physical: I have heard of people knocking them off wearers' heads and smashing them in the street.
+The reality was that I wore them on public transport and on foot in several cities including London, Glasgow and Portsmouth, and nobody batted an eyelid. It made me wonder whether awareness of them is really as high as both Meta and anti-glasses campaigners believe.
+That said, some people quietly told me they would not be confident enough to approach someone wearing them even if they did spot them, for fear of the interaction being filmed and uploaded.
+The glasses are designed to work as an extension of your phone. They use Bluetooth to sync with a handset via Meta's AI app. They are voice-activated, with open speakers in the arms funnelling sound into your ears. The result is a bit like wearing headphones without the addition of noise-cancelling features, so you can still hear the world around you.
+My potentially cancellable opinion is that I found many of the glasses' features useful. Interestingly, none of them included the camera.
+Listening to music and podcasts on the move without having earbuds stuffed into my ears felt safer. I felt more confident about avoiding the gamut of e-bike-riding phone thieves in central London without my phone physically in my hand.
+And as someone with a pitiful sense of direction, I rely a lot on map apps. It was handy to have the directions spoken in my ears. The pay-off for this, however, was having to accept allowing the Meta AI app to know exactly where I was at all times. Meta is notorious for its hunger for personal data.
+When I posted about using the Meta Ray-Bans on social media, I got a bit of a hard time. Less so when I showed them to people in my everyday life.
+My hairdresser loved the idea of using them to record her clients' hair transformations. A builder I chatted to at the gym reckoned they would be useful on sites for recording what he was doing, either in the event of an accident or even to teach others new skills. My friend who runs said he would like to wear them on a jog.
+Plenty of content creators are big fans. My son borrowed them to wash my car, and was proud of his film showing me how he delicately chipped away at a stubborn bit of bird poo without damaging the paintwork (I was pleased, and happy to take his word for it).
+More broadly, smart glasses have been welcomed by the blind community. One user described them to the BBC as a "game-changer" because they can give audio descriptions of current locations and read out visible text like restaurant menu options. Earlier this year Meta donated 15,000 pairs to a charity for the blind in Ireland.
+Calls for regulation
+But still, anger over privacy has grown.
+The glasses have a blinking white LED that switches on when the camera is active, but a whole industry has sprung up around finding technical workarounds to disable that light, some of which involve taking the glasses apart.
+Meta says less than 0.1% of the frames it has sold worldwide have been physically tampered with. Exact sales figures are unknown, but Ray-Ban's parent company EssilorLuxottica has reported that it sold seven million last year.
+Liz Hunter, a tech founder and parent who has set up a petition calling for urgent new regulation of smart glasses, is furious.
+"They should never, ever have left the lab at Meta," she told me. "It's a real travesty of public trust, and of women's equality, and it's rolled back our privacy rights right before our very eyes."
+Hunter thinks smart glasses should remain available for blind people, but not for the general population.
+"We don't need them, we don't want them," she says.
+A Polish developer has released an app called ZuckOff which uses Bluetooth to identify nearby smart glasses. It's been downloaded thousands of times, reports Wired magazine.
+Ben Wood, from tech research firm CCS Insight, remembers first reading the phrase "pervert glasses" in the usually strait-laced Financial Times - a sign, he says, that it had prompted a "significant public backlash".
+The furore has not deterred other companies from eyeing the market, however.
+Samsung is reported to be working on a collaboration with the upmarket glasses brand Warby Parker. Google is also said to be working on a set. Snap, the firm behind Snapchat, has just launched Specs, which are retailing in the US for $2,195 (and £1,995 in the UK). Users can see data inside the glass, and snap their fingers to take a photo.
+Snap founder Evan Spiegel says he thinks smart glasses will eventually replace phones, and he's not alone.
+Step back or 'half step to the side'?
+When Meta launched smart glasses in 2021, they were geared in part around what the user could see. The firm promised they would allow users to "easily record the world as you see it", and to "capture life's moments as they happen from a unique first-person perspective".
+So Meta's latest announcement - glasses without a camera - is notable.
+Janusz Swierczynski, a researcher at Oxford University's Saïd Business School, who is worried about smart glasses, says the release of a camera-free version is a "positive sign" that Meta seems to have listened to privacy concerns. "They're thinking about it and that they're responding," he says, though he thinks it's "not a perfect" response because the camera-enabled glasses are still on the market.
+Others are less sure it represents a real shift.
+"It's certainly not the end of cameras in glasses," says Wood, from CCS Insight. He thinks that smart glasses are largely about capturing information; the glasses collect as much data as they can from your surroundings and then use AI to tell you about it.
+And glasses armed with a camera - trained on whatever you can see - are an "extremely good" source of that information.
+"That is an invaluable data stream to an AI platform, which can then interpret that data and provide you with the best possible information related to it," Wood says. "So having the vision parts of it with the cameras is a key pillar for getting the best experience."
+More from InDepth
+AI 'slop' is transforming social media - and a backlash is brewing
+- Published4 February
+Tech billionaires seem to be doom prepping. Should we all be worried?
+- Published10 October 2025
+He imagines Meta has been working on the camera-free glasses for several years, and the current backlash over privacy provides "fantastic timing" for their release.
+Indeed, Meta doesn't yet show any signs of slowing down its development of camera-enabled glasses. The company is bringing its third generation of the glasses to the UK next month. These can visually display data inside the specs' lenses. (As a live broadcast journalist who has talked openly about brain fog, I can see the appeal of glasses that can discreetly display a script).
+Kate Winick, a tech analyst at the research firm Forrester, says it's not a step back from camera-enabled glasses but more of a "half step to the side, where they give users time to get comfortable with the technology… so that users themselves start to say, 'Oh, this would be so much more useful if it had a camera'."
+And she says, paradoxically, the existence of camera-free glasses might help "take the heat" off people who wear camera-enabled glasses in public. "It's now clear that out in the market some glasses have cameras and some don't," she says. "You can't automatically get mad at everybody wearing Meta's glasses, because you may not know whether or not they have a camera."
+Towards a social norm
+And other companies are trying to address privacy concerns in different ways - without getting rid of the camera.
+The Taiwanese firm HTC recently launched Vive Eagle glasses, which cost less than a quarter of Snap's.
+Thomas Dexmier, a vice president at HTC Vive, says that if anyone near an Eagle specs wearer says "stop filming" or "stop recording", and it is picked up by one of the four microphones, the camera will deactivate.
+And he adds that all recordings captured by the glasses are encrypted, and the firm itself cannot see them - though this also means HTC cannot flag harmful content.
+"We acknowledge that there are some challenges, potentially becoming a real problem, especially for women," he said.
+He said HTC Vive was working to make it as difficult as possible for the tech to be misused but said it was "too early to comment" on whether the firm would consider a version without cameras.
+Ultimately, Wood thinks that camera-enabled glasses are "not going away".
+He says the current moment reminds him of the 2000s, when some people said that mobile phone companies couldn't install cameras in their devices because of similar concerns over privacy. "There's an inevitability there," he says.
+"We will have to find a societal norm, a framework for the use of these products."
+Top image credit: Getty.
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T00:50:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "how-the-oil-capital-of-the-us-welcomed-a-ed890858",
+    title: "How the oil capital of the US welcomed a solar power boom",
+    titleJa: "How the oil capital of the US welcomed a solar power boom",
+    summaryJa: "How the oil capital of the US welcomed a solar power boom- Published",
+    bodyOriginal: `How the oil capital of the US welcomed a solar power boom
+- Published
+Steve Cargil's family has farmed the flat, dry land around Uvalde, a small city in southwest Texas, since 1953.
+Cargil, 67, had always assumed that one of his three children would eventually take it over, the way he had from his father.
+But that assumption took a hit one night in 2018 after a violent hailstorm.
+Cargil and his son, Ryan, had spent months nursing crops of cabbage and onions to harvest. Then a storm rolled through and destroyed them overnight.
+"I remember my son saying, 'Dad, I just don't know if I can do this. You do everything right, and we work so hard, and you come out one morning and it's all gone'," Cargil says.
+Cargil's farm was at risk of ending with him, he says, with none of his three children wanting to farm full time. For years, that left him wondering what would happen to the land, and to his own retirement, since farmers rarely have a pension to fall back on.
+Then in 2001 Cargil signed a deal to lease 600 acres of his land, about a quarter of the total, to a company called OCI Energy which built a vast solar farm.
+"Never in my wildest dreams did I think that a solar project would be on my farm," Cargil says. Looking back now, he calls it a blessing.
+The lease, which pays Cargil $200,000 (£150,000) a year, has let him keep his farm running through a punishing drought. He has been able to concentrate his water irrigation allowance on the land he still farms, and he has stopped losing sleep over rises in the price of things such as diesel and fertiliser. "It's changed my life."
+Texas, which remains the largest oil producer in the US, earlier this year overtook California to become the country's biggest generator of electricity from solar farms., external
+And in March of last year, more electricity was produced by solar in Texas than from coal for the first time, according to the US Energy Information Administration.
+On hot afternoons, when demand for power peaks, solar is now regularly supplying around a third of the electricity used across Texas, says Mark Stover, executive director of the Texas Solar and Storage Association.
+He says that the solar boom is being driven by two main things. Firstly, it is cheap and quick to connect solar farms to Texas' power grid, which is separate to the rest of the US. Secondly, Texas has a huge and growing appetite for electricity, driven by a burgeoning population.
+Between 2015 and 2025, Texas's population increased by 15.8%,, external making it one of the fastest-growing states in the nation.
+"We need a whole lot of power in Texas, and we need it quickly," Stover says.
+Solar has also become inexpensive. James Scott, vice president of project development at OCI, says the technology has had years of small manufacturing gains that brought the price down to the point where it is now the cheapest way to generate power in the state.
+"No one would have believed that 20 years ago," Scott says.
+Once a project is built, he says, the price of the electricity it produces can be fixed for decades, since the fuel, sunlight, is free.
+"We'll charge you $40 a megawatt hour for the next 25 years," Scott says, adding that large buyers such as Amazon and Apple value being able to lock in a price for that long.
+By contrast, new coal plants in the US produce power at nearly $90 megawatts per hour, says the Energy Information Administration.
+Farmers have become central to that growth because solar developers need large stretches of flat land.
+Stover says the industry is now paying out multigenerational income to families through leases that typically run 25 to 30 years and rise in value each year, letting some retire, set up family trusts, or simply keep a farm solvent.
+Stover argues solar's footprint is smaller than critics assume. "The industry is utilizing less than 0.15% of Texas land," he says.
+Yet solar has its opponents. In Franklin County, in northeast Texas, a small group of residents has spent the past few years fighting its growth.
+BF Hicks, a local lawyer whose family has owned land in the county since the 1800s, says he watched neighbours sign 30-year leases with solar companies and bulldozers clear centuries-old oak trees near his property.
+He describes a summer when smoke from burning cleared land hung over his town for weeks. "It got real personal," he says, when a solar farm was built next to his family's cemetery. His relatives have been buried here dating back two centuries.
+David Truesdale, a retired federal law enforcement agent who moved to the county to get away from city life, says he became involved after learning that a neighbouring solar project would sit near his home. And that under Texan law no environmental review was required.
+"We're destroying the world as we're trying to save it," Truesdale says of the land clearing he has seen. He also points to the large lithium-ion battery units installed alongside many solar farms, drawing a comparison to fires that have occasionally engulfed similar batteries in electric bikes.
+"If one of those things catches fire, they go off in series, so each one will progressively cause another one to go off," he says.
+Both men say their objections are not about politics. Franklin County is solidly conservative, but its residents helped push through one of the state's first county-level moratoriums on new solar construction, before it was later rescinded under legal pressure from developers.
+Their complaints echo a broader unease that has followed solar's expansion into rural Texas - worries about visual impact, water runoff after land is cleared, and battery storage units that scorch their land.
+President Trump has called solar and wind power "farmer destroying" and moved to unwind tax credits for renewable projects.
+Yet Fabrizio Lee and Associates, the polling firm used by President Trump, found back in February that 68% of Republican voters believe the country needs "all forms of electricity generation, including utility solar" to keep costs down., external
+Stover says he has found broad support in the Republican-controlled Texas state legislature. "There is an acceptance that these technologies bring reliability benefits to the grid," he says.
+Back in Uvalde, Steve Cargil says that while he has no plans to retire any time soon, he is more positive that the farm might make it to a fifth generation after all, now that the solar farm has put a floor under its finances.
+"You're better off being lucky than being smart," Cargil says, echoing something his father used to tell him. "And this was one of those cases where I was just lucky."
+- Published1 day ago
+- Published7 days ago
+- Published3 September`,
+    bodyJa: `How the oil capital of the US welcomed a solar power boom
+- Published
+Steve Cargil's family has farmed the flat, dry land around Uvalde, a small city in southwest Texas, since 1953.
+Cargil, 67, had always assumed that one of his three children would eventually take it over, the way he had from his father.
+But that assumption took a hit one night in 2018 after a violent hailstorm.
+Cargil and his son, Ryan, had spent months nursing crops of cabbage and onions to harvest. Then a storm rolled through and destroyed them overnight.
+"I remember my son saying, 'Dad, I just don't know if I can do this. You do everything right, and we work so hard, and you come out one morning and it's all gone'," Cargil says.
+Cargil's farm was at risk of ending with him, he says, with none of his three children wanting to farm full time. For years, that left him wondering what would happen to the land, and to his own retirement, since farmers rarely have a pension to fall back on.
+Then in 2001 Cargil signed a deal to lease 600 acres of his land, about a quarter of the total, to a company called OCI Energy which built a vast solar farm.
+"Never in my wildest dreams did I think that a solar project would be on my farm," Cargil says. Looking back now, he calls it a blessing.
+The lease, which pays Cargil $200,000 (£150,000) a year, has let him keep his farm running through a punishing drought. He has been able to concentrate his water irrigation allowance on the land he still farms, and he has stopped losing sleep over rises in the price of things such as diesel and fertiliser. "It's changed my life."
+Texas, which remains the largest oil producer in the US, earlier this year overtook California to become the country's biggest generator of electricity from solar farms., external
+And in March of last year, more electricity was produced by solar in Texas than from coal for the first time, according to the US Energy Information Administration.
+On hot afternoons, when demand for power peaks, solar is now regularly supplying around a third of the electricity used across Texas, says Mark Stover, executive director of the Texas Solar and Storage Association.
+He says that the solar boom is being driven by two main things. Firstly, it is cheap and quick to connect solar farms to Texas' power grid, which is separate to the rest of the US. Secondly, Texas has a huge and growing appetite for electricity, driven by a burgeoning population.
+Between 2015 and 2025, Texas's population increased by 15.8%,, external making it one of the fastest-growing states in the nation.
+"We need a whole lot of power in Texas, and we need it quickly," Stover says.
+Solar has also become inexpensive. James Scott, vice president of project development at OCI, says the technology has had years of small manufacturing gains that brought the price down to the point where it is now the cheapest way to generate power in the state.
+"No one would have believed that 20 years ago," Scott says.
+Once a project is built, he says, the price of the electricity it produces can be fixed for decades, since the fuel, sunlight, is free.
+"We'll charge you $40 a megawatt hour for the next 25 years," Scott says, adding that large buyers such as Amazon and Apple value being able to lock in a price for that long.
+By contrast, new coal plants in the US produce power at nearly $90 megawatts per hour, says the Energy Information Administration.
+Farmers have become central to that growth because solar developers need large stretches of flat land.
+Stover says the industry is now paying out multigenerational income to families through leases that typically run 25 to 30 years and rise in value each year, letting some retire, set up family trusts, or simply keep a farm solvent.
+Stover argues solar's footprint is smaller than critics assume. "The industry is utilizing less than 0.15% of Texas land," he says.
+Yet solar has its opponents. In Franklin County, in northeast Texas, a small group of residents has spent the past few years fighting its growth.
+BF Hicks, a local lawyer whose family has owned land in the county since the 1800s, says he watched neighbours sign 30-year leases with solar companies and bulldozers clear centuries-old oak trees near his property.
+He describes a summer when smoke from burning cleared land hung over his town for weeks. "It got real personal," he says, when a solar farm was built next to his family's cemetery. His relatives have been buried here dating back two centuries.
+David Truesdale, a retired federal law enforcement agent who moved to the county to get away from city life, says he became involved after learning that a neighbouring solar project would sit near his home. And that under Texan law no environmental review was required.
+"We're destroying the world as we're trying to save it," Truesdale says of the land clearing he has seen. He also points to the large lithium-ion battery units installed alongside many solar farms, drawing a comparison to fires that have occasionally engulfed similar batteries in electric bikes.
+"If one of those things catches fire, they go off in series, so each one will progressively cause another one to go off," he says.
+Both men say their objections are not about politics. Franklin County is solidly conservative, but its residents helped push through one of the state's first county-level moratoriums on new solar construction, before it was later rescinded under legal pressure from developers.
+Their complaints echo a broader unease that has followed solar's expansion into rural Texas - worries about visual impact, water runoff after land is cleared, and battery storage units that scorch their land.
+President Trump has called solar and wind power "farmer destroying" and moved to unwind tax credits for renewable projects.
+Yet Fabrizio Lee and Associates, the polling firm used by President Trump, found back in February that 68% of Republican voters believe the country needs "all forms of electricity generation, including utility solar" to keep costs down., external
+Stover says he has found broad support in the Republican-controlled Texas state legislature. "There is an acceptance that these technologies bring reliability benefits to the grid," he says.
+Back in Uvalde, Steve Cargil says that while he has no plans to retire any time soon, he is more positive that the farm might make it to a fifth generation after all, now that the solar farm has put a floor under its finances.
+"You're better off being lucky than being smart," Cargil says, echoing something his father used to tell him. "And this was one of those cases where I was just lucky."
+- Published1 day ago
+- Published7 days ago
+- Published3 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-23T23:12:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "proteinflation-meet-the-people-paying-u-d0f89755",
+    title: "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+    titleJa: "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+    summaryJa: "'Proteinflation': Meet the people paying up to £100 for a bag of protein- Published",
+    bodyOriginal: `'Proteinflation': Meet the people paying up to £100 for a bag of protein
+- Published
+Amarpreet Singh has been drinking protein shakes since he was 16.
+The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders.
+Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive.
+He says a 4.5kg bag of the whey protein he buys cost around £60 in 2020.
+By last year, the price had gone up to £120, though he managed to get one from eBay for £90.
+Now the same bag is £170.
+"I was a bit gobsmacked," he says.
+Among his gym friends, the rising prices have even been given a nickname – "proteinflation".
+Over the years, protein powders and shakes have attracted a much broader customer base, while food manufacturers now offer high-protein versions of everything from bagels to water.
+Evie Lewis is a more recent buyer of protein powder.
+The 19-year-old University of Manchester student began using it a few months ago because she felt she wasn't getting enough protein in her diet.
+"You hear a lot more about protein now on social media," she says.
+But at £32.99 for a 420g tub, she's feeling the high price and tries to make the product stretch.
+"I've been rationing it and using less than what's suggested," she admits.
+'I have a protein shake every day'
+Max Longman, 32, from Manchester, works in real estate and has been taking protein supplements for 10 years, originally to help him gain weight.
+He now drinks a protein shake every day and says his monthly spending on whey protein has risen from around £45 a year ago to £60 now.
+"Loads of foods have protein added to them now. Up until a few years ago, I'd never heard of high-protein yoghurt, and now I eat it three or four times a week," he says.
+More recently, weight-loss drugs such as Wegovy and Mounjaro have added another source of demand.
+People taking these drugs typically eat less, and are often encouraged to make sure they get enough protein while losing weight to help preserve muscle.
+But that growing appetite for protein is running up against a problem - supply has not kept pace.
+And the result has been a sharp rise in the wholesale price of some key ingredients, and consumers are feeling the squeeze.
+High whey protein prices take chunk out of THG profits
+- Published6 August 2025
+Food firms scramble to meet the high-protein craze
+- Published7 October 2025
+According to global market intelligence platform Expana, the European price of one widely used type of high-protein whey was 130% higher in late August than a year earlier, and more than four times its level three years ago.
+There is no equivalent UK measure, but Expana says the UK market is closely linked to mainland Europe, where some British businesses source their whey protein.
+Other dairy proteins have also become more expensive, with another type of whey protein up 60% over the year, while one type of milk protein concentrate was up 80%.
+Adapting products
+Manufacturers say that increasing production takes time and is costly, as producing high-protein whey requires specialist processing and drying equipment.
+So some are starting to adapt what they make, by changing recipes or looking for cheaper sources of protein.
+Warrior, a UK sports nutrition company, is one of those looking for alternatives.
+"Our whey protein powder was £12.50 on the shelf last year. We've put that up to £17.99 and we're still subsidising that from other aspects of the business," says its founder Kieran Fisher.
+The company is now launching a product using other sources of protein, which Fisher says costs around half as much as whey.
+The effects are also being felt outside the fitness market.
+Dairy proteins are used in infant formula, and Expana says higher dairy protein costs have contributed to price rises there too.
+Will people keep buying protein?
+There are, however, early signs that the market is starting to adjust.
+Wholesale prices for high-protein whey have begun to level off over the past couple of months, although they remain much higher than they were a few years ago.
+For now though, the higher prices aren't putting off Max.
+"It feels like protein is so important now, a lot more than it used to be. It's pushed out everywhere," he says.
+"If you're doing exercise and not taking any, you feel like you wouldn't be recovering properly."
+But for students like Evie, managing on a much tighter budget, it's a different story.
+"It was affordable on my gap year [when she was working], but now I'm at university, I don't think I'll continue buying it. It's not a necessity right now," she says.
+Amarpreet says he will continue buying protein, but admits "it's becoming a luxury". He says £170 for a bag is too much for him, so he's switching to a cheaper brand, which he can get for about £100 a bag.`,
+    bodyJa: `'Proteinflation': Meet the people paying up to £100 for a bag of protein
+- Published
+Amarpreet Singh has been drinking protein shakes since he was 16.
+The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders.
+Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive.
+He says a 4.5kg bag of the whey protein he buys cost around £60 in 2020.
+By last year, the price had gone up to £120, though he managed to get one from eBay for £90.
+Now the same bag is £170.
+"I was a bit gobsmacked," he says.
+Among his gym friends, the rising prices have even been given a nickname – "proteinflation".
+Over the years, protein powders and shakes have attracted a much broader customer base, while food manufacturers now offer high-protein versions of everything from bagels to water.
+Evie Lewis is a more recent buyer of protein powder.
+The 19-year-old University of Manchester student began using it a few months ago because she felt she wasn't getting enough protein in her diet.
+"You hear a lot more about protein now on social media," she says.
+But at £32.99 for a 420g tub, she's feeling the high price and tries to make the product stretch.
+"I've been rationing it and using less than what's suggested," she admits.
+'I have a protein shake every day'
+Max Longman, 32, from Manchester, works in real estate and has been taking protein supplements for 10 years, originally to help him gain weight.
+He now drinks a protein shake every day and says his monthly spending on whey protein has risen from around £45 a year ago to £60 now.
+"Loads of foods have protein added to them now. Up until a few years ago, I'd never heard of high-protein yoghurt, and now I eat it three or four times a week," he says.
+More recently, weight-loss drugs such as Wegovy and Mounjaro have added another source of demand.
+People taking these drugs typically eat less, and are often encouraged to make sure they get enough protein while losing weight to help preserve muscle.
+But that growing appetite for protein is running up against a problem - supply has not kept pace.
+And the result has been a sharp rise in the wholesale price of some key ingredients, and consumers are feeling the squeeze.
+High whey protein prices take chunk out of THG profits
+- Published6 August 2025
+Food firms scramble to meet the high-protein craze
+- Published7 October 2025
+According to global market intelligence platform Expana, the European price of one widely used type of high-protein whey was 130% higher in late August than a year earlier, and more than four times its level three years ago.
+There is no equivalent UK measure, but Expana says the UK market is closely linked to mainland Europe, where some British businesses source their whey protein.
+Other dairy proteins have also become more expensive, with another type of whey protein up 60% over the year, while one type of milk protein concentrate was up 80%.
+Adapting products
+Manufacturers say that increasing production takes time and is costly, as producing high-protein whey requires specialist processing and drying equipment.
+So some are starting to adapt what they make, by changing recipes or looking for cheaper sources of protein.
+Warrior, a UK sports nutrition company, is one of those looking for alternatives.
+"Our whey protein powder was £12.50 on the shelf last year. We've put that up to £17.99 and we're still subsidising that from other aspects of the business," says its founder Kieran Fisher.
+The company is now launching a product using other sources of protein, which Fisher says costs around half as much as whey.
+The effects are also being felt outside the fitness market.
+Dairy proteins are used in infant formula, and Expana says higher dairy protein costs have contributed to price rises there too.
+Will people keep buying protein?
+There are, however, early signs that the market is starting to adjust.
+Wholesale prices for high-protein whey have begun to level off over the past couple of months, although they remain much higher than they were a few years ago.
+For now though, the higher prices aren't putting off Max.
+"It feels like protein is so important now, a lot more than it used to be. It's pushed out everywhere," he says.
+"If you're doing exercise and not taking any, you feel like you wouldn't be recovering properly."
+But for students like Evie, managing on a much tighter budget, it's a different story.
+"It was affordable on my gap year [when she was working], but now I'm at university, I don't think I'll continue buying it. It's not a necessity right now," she says.
+Amarpreet says he will continue buying protein, but admits "it's becoming a luxury". He says £170 for a bag is too much for him, so he's switching to a cheaper brand, which he can get for about £100 a bag.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-23T23:12:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9929/live/60547480-b76a-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "us-rejects-pleas-from-openai-anthropic-f-68ad8e83",
+    title: "US rejects pleas from OpenAI, Anthropic for global AI standards",
+    titleJa: "US rejects pleas from OpenAI, Anthropic for global AI standards",
+    summaryJa: "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+    bodyOriginal: `US rejects pleas from OpenAI, Anthropic for global AI standards
+- Published
+The heads of OpenAI, Anthropic, and Hugging Face have told the UN that the current pace of artificial intelligence (AI) development, and the risks it poses to society, demands international coordination.
+Altman called for common risk evaluation standards, as did Dario Amodei of Anthropic, a main rival of OpenAI, and Clement Delangue of Hugging Face.
+Earlier this month, Amodei wrote an essay welcomed by Altman and others calling an AI development slowdown in response to fears about the technology's threat to humanity.
+However, at the same UN conference, a key technology advisor to US President Donald Trump, rejected the idea any new form of AI regulation.
+Michael Kratsios, a former Scale AI executive, admitted that the speed of AI development is increasing and that there are risks presented by the technology, but told the UN this was not reason enough "to pause development or constrain it with new global governance structures".
+"International dialogue in this forum and others cannot be allowed to drift toward global governance," Kratsios added.
+Kratsios's comments echoed similar statements made by Trump in recent weeks.
+Trump told the UN on Tuesday he wanted to rebrand it "super intelligence" and has strongly opposed any idea of an AI slowdown because of the US's competitive advantage in the sector.
+"We're leading China on AI... and, frankly, I want to keep it that way because whoever wins AI, wins," he said earlier this month.
+Sam Altman of OpenAI and other AI chief executives expressed a different view in their talks to the UN on Wednesday.
+"If AI is to be democratic, the most important decisions cannot be made by labs in San Francisco alone," said Altman.
+He told the UN that he wanted countries to start working together toward "the collective good in the face of powerful new technology".
+He called for "national and international" AI standards on measuring the capabilities of an AI tool, assessing related risks, AI safeguards, and the degree to which human oversight over such tools is maintained.
+He also called for "speedy incident reporting, classification, and reporting protocols so the world can learn from failures before they become catastrophes".
+"We need common standards so countries can compare evidence, verify compliance, and have a shared language and understanding what is happening," Altman added.
+Not all AI workers think the tech could kill everyone
+- Published4 days ago
+AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+- Published15 September
+Anthropic's Amodei and Hugging Face's Delangue made similar comments in their speeches.
+Amodei said that AI "if managed poorly... could be a risk to humanity as a whole".
+He added that further development of AI tools calls for "even more stringent standards of safety".
+"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe," Amodei added.
+"But regardless of what we do, managing these risks is ultimately bigger than any one company, and it has an industry-wide and global scale."
+Hugging Face's Delangue said: "The global community needs stronger standards for monitoring and incident disclosure."
+All three of the executives are based in the US and directly involved in the development of AI technology.
+Hugging Face, a platform for AI developers, more recently rose to prominence after it admitted to being hacked by AI agents, or AI bots that operate somewhat autonomously, that came out of OpenAI.
+Hugging Face has since been acquired by AI chipmaker Nvidia.
+The Hugging Face hack has been treated as a 'wake-up call' within the industry for the ways in which AI technology has advanced and could hypothetically act in ways that could harm humanity.`,
+    bodyJa: `US rejects pleas from OpenAI, Anthropic for global AI standards
+- Published
+The heads of OpenAI, Anthropic, and Hugging Face have told the UN that the current pace of artificial intelligence (AI) development, and the risks it poses to society, demands international coordination.
+Altman called for common risk evaluation standards, as did Dario Amodei of Anthropic, a main rival of OpenAI, and Clement Delangue of Hugging Face.
+Earlier this month, Amodei wrote an essay welcomed by Altman and others calling an AI development slowdown in response to fears about the technology's threat to humanity.
+However, at the same UN conference, a key technology advisor to US President Donald Trump, rejected the idea any new form of AI regulation.
+Michael Kratsios, a former Scale AI executive, admitted that the speed of AI development is increasing and that there are risks presented by the technology, but told the UN this was not reason enough "to pause development or constrain it with new global governance structures".
+"International dialogue in this forum and others cannot be allowed to drift toward global governance," Kratsios added.
+Kratsios's comments echoed similar statements made by Trump in recent weeks.
+Trump told the UN on Tuesday he wanted to rebrand it "super intelligence" and has strongly opposed any idea of an AI slowdown because of the US's competitive advantage in the sector.
+"We're leading China on AI... and, frankly, I want to keep it that way because whoever wins AI, wins," he said earlier this month.
+Sam Altman of OpenAI and other AI chief executives expressed a different view in their talks to the UN on Wednesday.
+"If AI is to be democratic, the most important decisions cannot be made by labs in San Francisco alone," said Altman.
+He told the UN that he wanted countries to start working together toward "the collective good in the face of powerful new technology".
+He called for "national and international" AI standards on measuring the capabilities of an AI tool, assessing related risks, AI safeguards, and the degree to which human oversight over such tools is maintained.
+He also called for "speedy incident reporting, classification, and reporting protocols so the world can learn from failures before they become catastrophes".
+"We need common standards so countries can compare evidence, verify compliance, and have a shared language and understanding what is happening," Altman added.
+Not all AI workers think the tech could kill everyone
+- Published4 days ago
+AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
+- Published15 September
+Anthropic's Amodei and Hugging Face's Delangue made similar comments in their speeches.
+Amodei said that AI "if managed poorly... could be a risk to humanity as a whole".
+He added that further development of AI tools calls for "even more stringent standards of safety".
+"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe," Amodei added.
+"But regardless of what we do, managing these risks is ultimately bigger than any one company, and it has an industry-wide and global scale."
+Hugging Face's Delangue said: "The global community needs stronger standards for monitoring and incident disclosure."
+All three of the executives are based in the US and directly involved in the development of AI technology.
+Hugging Face, a platform for AI developers, more recently rose to prominence after it admitted to being hacked by AI agents, or AI bots that operate somewhat autonomously, that came out of OpenAI.
+Hugging Face has since been acquired by AI chipmaker Nvidia.
+The Hugging Face hack has been treated as a 'wake-up call' within the industry for the ways in which AI technology has advanced and could hypothetically act in ways that could harm humanity.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-23T22:35:14+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
+    readTime: 10,
+  },
+  {
+    id: "ai-superpower-ambitions-take-centre-stag-1d611b39",
+    title: "AI superpower ambitions take centre stage as Trump and Xi meet",
+    titleJa: "AI superpower ambitions take centre stage as Trump and Xi meet",
+    summaryJa: "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+    bodyOriginal: `AI superpower ambitions take centre stage as Trump and Xi meet
+- Published
+"Whoever wins AI, WINS!"
+US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
+His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
+"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
+You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
+For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
+China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
+It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
+Is the US in the lead?
+There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
+American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
+In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
+Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
+The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
+So that might partly explain why President Trump sees AI as key to US success.
+Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
+China's advantage
+Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
+Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
+The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
+This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
+Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
+Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
+Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
+"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
+AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
+"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
+In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
+The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
+Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
+But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
+China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
+Safety concerns?
+China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
+While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
+Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
+"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
+Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
+Beijing has taken a different strategy to the US hands-off approach.
+Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
+"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
+The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
+Will they cooperate?
+Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
+The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
+"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
+Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
+Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
+While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
+What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
+- Published1 day ago
+- Published13 September
+- Published13 September
+- Published6 days ago`,
+    bodyJa: `AI superpower ambitions take centre stage as Trump and Xi meet
+- Published
+"Whoever wins AI, WINS!"
+US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
+His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
+"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
+You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
+For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
+China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
+It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
+Is the US in the lead?
+There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
+American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
+In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
+Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
+The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
+So that might partly explain why President Trump sees AI as key to US success.
+Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
+China's advantage
+Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
+Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
+The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
+This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
+Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
+Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
+Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
+"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
+AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
+"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
+In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
+The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
+Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
+But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
+China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
+Safety concerns?
+China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
+While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
+Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
+"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
+Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
+Beijing has taken a different strategy to the US hands-off approach.
+Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
+"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
+The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
+Will they cooperate?
+Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
+The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
+"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
+Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
+Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
+While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
+What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
+- Published1 day ago
+- Published13 September
+- Published13 September
+- Published6 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-23T22:01:17+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
+    readTime: 10,
+  },
+  {
     id: "as-trump-and-xi-meet-chinese-automakers-e1ad86f4",
     title: "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
     titleJa: "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
@@ -1844,302 +2520,6 @@ She said it was important for the low exports of oil and gas from the Gulf "to r
     publishedAt: "2026-09-22T23:01:28+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-administration-removes-around-760-572f4833",
-    title: "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-    titleJa: "Trump administration removes around 760,000 Obamacare enrollments, alleging fraud",
-    summaryJa: "Vice President JD Vance's White House Task Force to Eliminate Fraud estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies.",
-    bodyOriginal: `The Centers for Medicare and Medicaid Services said on Tuesday it canceled roughly 315,000 Affordable Care Act marketplace enrollments covering about 760,000 people last month, alleging unauthorized enrollments, characterized by Vice President JD Vance as "rampant fraud."
-The enforcement action also involves verifying roughly 419,000 people to ensure they are legal U.S. residents and meet the income threshold requirements to receive benefits from the public exchanges of the ACA, also known as Obamacare, according to a CMS release.
-The vice president's White House Task Force to Eliminate Fraud led the cancellations, and it estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies. Speaking at a Tuesday briefing, Vance accused the Biden administration of maintaining a system that enabled fraud.
-"You have a system where, on the one hand, brokers are paid money to feed patients into the system, while on the other hand, the government isn't even checking whether the people enrolled are actually eligible for the program. What do you have? Of course, rampant, rampant fraud," Vance said.
-It is unclear how many of those 315,000 enrollments involved people who were not eligible to receive coverage, or whether the Biden administration hadn't actually verified they could enroll. The action comes as the Trump administration has made widespread accusations of fraud in U.S. health programs and restricted funding and eligibility for the federal-state Medicaid program.
-During the briefing Tuesday, CMS Administrator Dr. Mehmet Oz claimed that around 35% of people currently in the Obamacare system "have never used the program." He said those people never used a prescription or saw a doctor.
-The law has an individual mandate, or requirement that most people buy insurance, in part because having healthier people who use less care in the patient pool makes the system more affordable. However, the federal penalty for going without coverage has been $0 since 2019.
-Obamacare plans, created by President Barack Obama's Affordable Care Act, offer subsidies based on household size and estimated yearly income. President Donald Trump failed to overturn the legislation during his first term, but has proposed modifications that would make those insurance plans less comprehensive.
-Oz argued that bad actors were attracted to ACA marketplace subsidies during the Covid-19 pandemic, when federal spending surged dramatically. He pointed to enrollment growth from about 10 million people before the pandemic to roughly 22 million after, arguing that weakened safeguards and a lack of enforcement by the Biden administration contributed to improper enrollments.
-Obamacare plans experienced "unprecedented enrollment growth from 2021 to 2024," according to a June report from the Office of the Assistant Secretary for Planning and Evaluation, the principal advisor to the Secretary of the Department of Health and Human Services on policy development. The report said of this enrollment that "nearly half ... was suspected to be improper, phantom, or fraudulent." The report defined improper or fraudulent enrollment as individuals misstating their income to gain access to free plans.
-The spike in enrollment came after the American Rescue Plan, a Covid response bill passed in 2021, enhanced available subsidies to make healthcare more affordable during the crisis. Those broader credits were extended but later expired at the end of 2025, raising premiums for many covered by ACA exchanges.
-An estimated 19.2 million Americans are currently enrolled in Obamacare plans, according to the report.`,
-    bodyJa: `The Centers for Medicare and Medicaid Services said on Tuesday it canceled roughly 315,000 Affordable Care Act marketplace enrollments covering about 760,000 people last month, alleging unauthorized enrollments, characterized by Vice President JD Vance as "rampant fraud."
-The enforcement action also involves verifying roughly 419,000 people to ensure they are legal U.S. residents and meet the income threshold requirements to receive benefits from the public exchanges of the ACA, also known as Obamacare, according to a CMS release.
-The vice president's White House Task Force to Eliminate Fraud led the cancellations, and it estimates the action will save roughly $2.2 billion in taxpayer-funded subsidies. Speaking at a Tuesday briefing, Vance accused the Biden administration of maintaining a system that enabled fraud.
-"You have a system where, on the one hand, brokers are paid money to feed patients into the system, while on the other hand, the government isn't even checking whether the people enrolled are actually eligible for the program. What do you have? Of course, rampant, rampant fraud," Vance said.
-It is unclear how many of those 315,000 enrollments involved people who were not eligible to receive coverage, or whether the Biden administration hadn't actually verified they could enroll. The action comes as the Trump administration has made widespread accusations of fraud in U.S. health programs and restricted funding and eligibility for the federal-state Medicaid program.
-During the briefing Tuesday, CMS Administrator Dr. Mehmet Oz claimed that around 35% of people currently in the Obamacare system "have never used the program." He said those people never used a prescription or saw a doctor.
-The law has an individual mandate, or requirement that most people buy insurance, in part because having healthier people who use less care in the patient pool makes the system more affordable. However, the federal penalty for going without coverage has been $0 since 2019.
-Obamacare plans, created by President Barack Obama's Affordable Care Act, offer subsidies based on household size and estimated yearly income. President Donald Trump failed to overturn the legislation during his first term, but has proposed modifications that would make those insurance plans less comprehensive.
-Oz argued that bad actors were attracted to ACA marketplace subsidies during the Covid-19 pandemic, when federal spending surged dramatically. He pointed to enrollment growth from about 10 million people before the pandemic to roughly 22 million after, arguing that weakened safeguards and a lack of enforcement by the Biden administration contributed to improper enrollments.
-Obamacare plans experienced "unprecedented enrollment growth from 2021 to 2024," according to a June report from the Office of the Assistant Secretary for Planning and Evaluation, the principal advisor to the Secretary of the Department of Health and Human Services on policy development. The report said of this enrollment that "nearly half ... was suspected to be improper, phantom, or fraudulent." The report defined improper or fraudulent enrollment as individuals misstating their income to gain access to free plans.
-The spike in enrollment came after the American Rescue Plan, a Covid response bill passed in 2021, enhanced available subsidies to make healthcare more affordable during the crisis. Those broader credits were extended but later expired at the end of 2025, raising premiums for many covered by ACA exchanges.
-An estimated 19.2 million Americans are currently enrolled in Obamacare plans, according to the report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-    publishedAt: "2026-09-22T21:07:21+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "why-apple-could-soon-join-nvidia-in-the-e3947638",
-    title: "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-    titleJa: "Why Apple could soon join Nvidia in the exclusive $5 trillion club",
-    summaryJa: "A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year",
-    bodyOriginal: `A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year`,
-    bodyJa: `A new foldable iPhone and a disciplined AI-spending approach have sent Apple shares to new highs this year`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-apple-could-soon-join-nvidia-in-the-exclusive-5-trillion-club-4e7724e7?mod=mw_rss_topstories",
-    publishedAt: "2026-09-22T20:54:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-20070537",
-    readTime: 2,
-  },
-  {
-    id: "cisco-stock-sinks-5-after-piper-sandler-5ba4f15f",
-    title: "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
-    titleJa: "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns",
-    summaryJa: "Cisco stock hit a record over the summer, but Piper Sandler analysts expressed concerns that growth is peaking in the industry.",
-    bodyOriginal: `Cisco stock dropped almost 5% on Tuesday as Piper Sandler cut its price target for the networking equipment vendor to $125 from $132.
-Piper analysts cited lower price-to-earnings multiple expectations stemming from concerns that growth is peaking in the industry.
-The stock hit a record high in June, and is up 57% over the past 12 months as revenue has surged along with the artificial intelligence boom. The shares closed on Tuesday at $106.44.
-Last month, Cisco posted strong fourth-quarter earnings that beat estimates, reporting $17.25 billion in revenue that topped a $16.8 billion estimate, according to LSEG.
-The company issued strong guidance for its FY2027 during its last earnings call in August, but shares sank as it was met with a lackluster reception from analysts.
-While Cisco projected nearly 15% revenue growth, analysts argued sales growth would dip back into single digits. Piper analysts called the projection "conservative" in the context of greater market demand.
-"We're starting a new fiscal year. We're operating in incredible markets," Robbins told CNBC's Jim Cramer last month. "But it's also a time that we're going to start the year being a little bit prudent."
-Hyperscalers made up about $4 billion in revenue in fiscal year 2026, and Cisco expects that number to almost double in fiscal 2027 to $7.5 billion.
-WATCH: AI agents need supervision`,
-    bodyJa: `Cisco stock dropped almost 5% on Tuesday as Piper Sandler cut its price target for the networking equipment vendor to $125 from $132.
-Piper analysts cited lower price-to-earnings multiple expectations stemming from concerns that growth is peaking in the industry.
-The stock hit a record high in June, and is up 57% over the past 12 months as revenue has surged along with the artificial intelligence boom. The shares closed on Tuesday at $106.44.
-Last month, Cisco posted strong fourth-quarter earnings that beat estimates, reporting $17.25 billion in revenue that topped a $16.8 billion estimate, according to LSEG.
-The company issued strong guidance for its FY2027 during its last earnings call in August, but shares sank as it was met with a lackluster reception from analysts.
-While Cisco projected nearly 15% revenue growth, analysts argued sales growth would dip back into single digits. Piper analysts called the projection "conservative" in the context of greater market demand.
-"We're starting a new fiscal year. We're operating in incredible markets," Robbins told CNBC's Jim Cramer last month. "But it's also a time that we're going to start the year being a little bit prudent."
-Hyperscalers made up about $4 billion in revenue in fiscal year 2026, and Cisco expects that number to almost double in fiscal 2027 to $7.5 billion.
-WATCH: AI agents need supervision`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/22/cisco-stock-piper-sandler-price-target.html",
-    publishedAt: "2026-09-22T20:49:25+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "u-s-regulators-rush-to-write-crypto-rule-eee791f6",
-    title: "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-    titleJa: "U.S. regulators rush to write crypto rulebook after Clarity Act stalls in Senate",
-    summaryJa: "State and federal regulators are rushing to fill the void after comprehensive crypto rules failed to clear the Senate.",
-    bodyOriginal: `State and federal regulators are rushing to fill the void in U.S. cryptocurrency regulation after the Clarity Act, a comprehensive set of proposed rules for digital assets, stalled in the Senate.
-Just two days after the Clarity Act failed to advance in the Senate, the Securities and Exchange Commission expanded its crypto rulebook under its existing authority. The agency issued an order creating a temporary pathway for trading certain tokenized stocks, inching financial markets closer to 24/7 trading.
-The same day, the Commodity Futures Trading Commission submitted a crypto rulemaking proposal to the White House for review. The details of the proposal weren't made public, but a post by the Office of Management and Budget confirmed the rules were pending review.
-The crypto industry, which had supported the Clarity Act, says it is eager for regulatory guidelines for the developing industry, as it has worked to shape the regulatory environment to its liking.
-"When you're thinking about traditional finance entering in and using some of this technology, they're being held back right now because there is this regulatory uncertainty," Summer Mersinger, CEO of the Blockchain Association and a former CFTC commissioner, said. "Having the regulators provide some sort of certainty is going to really open up the industry to more investment, more integration into traditional finance, and really grow the sector."
-And Coinbase CEO Brian Armstrong, who is a key industry player urging Congress to act on the Clarity Act, told CNBC after a failed Senate procedural vote on Sept. 15: "At this point, I don't think we can wait on Congress and the Senate." Senate banking committee Chairman Tim Scott, R-S.C., also called on federal agencies to set "clear rules of the road" for digital assets until Congress legislates.
-But new rules from federal agencies don't come quickly.
-When asked how the agency plans to regulate crypto, the CFTC pointed CNBC to Chair Michael Selig's Sept. 16 statement where he said, "President Trump promised to deliver a future-proof crypto asset regulatory market structure one way or the other, and we will help him get the job done using our existing statutory authorities."
-CNBC also reached out to the SEC regarding next steps for regulating the digital asset industry, and a spokesperson said the agency will consider a proposal to "modernize the rules around custody of investment adviser client assets and fund assets, including to address crypto assets."
-Caroline Pham, who served as acting CFTC chair from the day President Donald Trump took office for his second term until December, told CNBC that "a plan B to move forward at the agency level was always in the cards." Pham is now the CEO of MoonPay Institutional and chief legal officer and chief administrative officer for MoonPay, a crypto services provider.
-"You have to have a contingency plan," she said, explaining that the CFTC and SEC took that into account with the work the agencies have been doing since Trump's second term began. That includes the "Project Crypto" initiative introduced in July 2025 to modernize securities regulations and align the SEC and CFTC's crypto rules.
-In August 2025, Pham announced the CFTC would start implementing the recommendations from the President's Working Group on Digital Asset Markets.
-States target crypto scams
-As Washington grapples with crypto regulation, states are also fighting for the chance to regulate the asset class.
-In a Sept. 14 letter, a bipartisan coalition of state attorneys general urged the Senate Banking Committee to oppose the Clarity Act, arguing the bill displaces states' abilities to regulate securities markets.
-"We write to urge the Senate to expressly preserve the police powers of the states and ensure that the states remain armed with the tools necessary to protect the American people from predatory scammers," they wrote to Scott and the panel's top Democrat Sen. Elizabeth Warren, of Massachusetts.
-Aaron Klein, senior fellow in economic studies at the Brookings Institution, told CNBC he doesn't think states are best positioned to regulate national and international capital markets.
-"Capital market regulation, I think, needs to be done at the federal level," Klein, who was previously a top staff member for the Senate banking committee, said. "In terms of stopping fraud and scams, states have a lot of authority."
-He said that in the absence of a federal framework for crypto, states should be more aggressively monitoring payment processing and prosecuting criminals.
-Mersinger noted that state enforcement comes after a crime is already committed.
-"What we really need is the oversight from the federal side to make sure that we're not having these situations where [a] state AG has to come in and file a lawsuit because there was some bad actor involved or some of their constituents in their state were somehow harmed," she said.
-The midterm election is now taking center stage, but lawmakers haven't completely abandoned the Clarity Act. Sen. Thom Tillis, R-N.C., revised his vote to oppose the bill, allowing him to bring a motion to reconsider the legislation in the Senate.
-— CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
-    bodyJa: `State and federal regulators are rushing to fill the void in U.S. cryptocurrency regulation after the Clarity Act, a comprehensive set of proposed rules for digital assets, stalled in the Senate.
-Just two days after the Clarity Act failed to advance in the Senate, the Securities and Exchange Commission expanded its crypto rulebook under its existing authority. The agency issued an order creating a temporary pathway for trading certain tokenized stocks, inching financial markets closer to 24/7 trading.
-The same day, the Commodity Futures Trading Commission submitted a crypto rulemaking proposal to the White House for review. The details of the proposal weren't made public, but a post by the Office of Management and Budget confirmed the rules were pending review.
-The crypto industry, which had supported the Clarity Act, says it is eager for regulatory guidelines for the developing industry, as it has worked to shape the regulatory environment to its liking.
-"When you're thinking about traditional finance entering in and using some of this technology, they're being held back right now because there is this regulatory uncertainty," Summer Mersinger, CEO of the Blockchain Association and a former CFTC commissioner, said. "Having the regulators provide some sort of certainty is going to really open up the industry to more investment, more integration into traditional finance, and really grow the sector."
-And Coinbase CEO Brian Armstrong, who is a key industry player urging Congress to act on the Clarity Act, told CNBC after a failed Senate procedural vote on Sept. 15: "At this point, I don't think we can wait on Congress and the Senate." Senate banking committee Chairman Tim Scott, R-S.C., also called on federal agencies to set "clear rules of the road" for digital assets until Congress legislates.
-But new rules from federal agencies don't come quickly.
-When asked how the agency plans to regulate crypto, the CFTC pointed CNBC to Chair Michael Selig's Sept. 16 statement where he said, "President Trump promised to deliver a future-proof crypto asset regulatory market structure one way or the other, and we will help him get the job done using our existing statutory authorities."
-CNBC also reached out to the SEC regarding next steps for regulating the digital asset industry, and a spokesperson said the agency will consider a proposal to "modernize the rules around custody of investment adviser client assets and fund assets, including to address crypto assets."
-Caroline Pham, who served as acting CFTC chair from the day President Donald Trump took office for his second term until December, told CNBC that "a plan B to move forward at the agency level was always in the cards." Pham is now the CEO of MoonPay Institutional and chief legal officer and chief administrative officer for MoonPay, a crypto services provider.
-"You have to have a contingency plan," she said, explaining that the CFTC and SEC took that into account with the work the agencies have been doing since Trump's second term began. That includes the "Project Crypto" initiative introduced in July 2025 to modernize securities regulations and align the SEC and CFTC's crypto rules.
-In August 2025, Pham announced the CFTC would start implementing the recommendations from the President's Working Group on Digital Asset Markets.
-States target crypto scams
-As Washington grapples with crypto regulation, states are also fighting for the chance to regulate the asset class.
-In a Sept. 14 letter, a bipartisan coalition of state attorneys general urged the Senate Banking Committee to oppose the Clarity Act, arguing the bill displaces states' abilities to regulate securities markets.
-"We write to urge the Senate to expressly preserve the police powers of the states and ensure that the states remain armed with the tools necessary to protect the American people from predatory scammers," they wrote to Scott and the panel's top Democrat Sen. Elizabeth Warren, of Massachusetts.
-Aaron Klein, senior fellow in economic studies at the Brookings Institution, told CNBC he doesn't think states are best positioned to regulate national and international capital markets.
-"Capital market regulation, I think, needs to be done at the federal level," Klein, who was previously a top staff member for the Senate banking committee, said. "In terms of stopping fraud and scams, states have a lot of authority."
-He said that in the absence of a federal framework for crypto, states should be more aggressively monitoring payment processing and prosecuting criminals.
-Mersinger noted that state enforcement comes after a crime is already committed.
-"What we really need is the oversight from the federal side to make sure that we're not having these situations where [a] state AG has to come in and file a lawsuit because there was some bad actor involved or some of their constituents in their state were somehow harmed," she said.
-The midterm election is now taking center stage, but lawmakers haven't completely abandoned the Clarity Act. Sen. Thom Tillis, R-N.C., revised his vote to oppose the bill, allowing him to bring a motion to reconsider the legislation in the Senate.
-— CNBC's Tanaya Macheel and Garrett Downs contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/22/clarity-act-crypto-rules-regulators.html",
-    publishedAt: "2026-09-22T20:46:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-says-he-would-back-ban-on-diesel-e-096679cf",
-    title: "Trump says he would back ban on diesel exports",
-    titleJa: "Trump says he would back ban on diesel exports",
-    summaryJa: "Republicans lawmakers have put pressure on the president to curb exports as diesel prices soar to record highs in the US.",
-    bodyOriginal: `Trump says he would back ban on diesel exports
-- Published
-US President Donald Trump has said he would back proposals to halt American diesel exports in a bid to ease prices for drivers at the pumps.
-His comments come after Republicans lawmakers put pressure on the president ahead of November's mid-term elections to curb exports, as diesel prices soar to record highs in the US.
-Speaking on the sidelines at the United Nations General Assembly, Trump suggested keeping domestic supplies inside the US could also ease broader petrol prices.
-"I've called for that too. I've said let's not send out the diesel. We make a lot of diesel. That could have a little bit of an effect on regular automobile gasoline," he said .
-US Treasury Secretary Scott Bessent confirmed officials were assessing "whether a full or partial ban would work" without disrupting refinery capabilities.
-National average diesel prices surpassed $6.50 (£4.87) a gallon on Tuesday according to AAA data, a new high.
-The conflict in the Middle East has constrained global oil supplies, putting pressure on pump prices.
-The surge in the cost of diesel has sparked political urgency ahead of crucial mid-term elections on 3 November, with several Republicans pressing the administration to restrict the fuel's export to ease financial strain on voters.
-US Representative Ashley Hinson, a Republican running for Senate in Iowa, said on Monday that the state's consumers were "being squeezed and shouldn't have to foot the bill at the pump."
-In Alaska on Tuesday, Senator Dan Sullivan similarly urged for a "temporary pause of American diesel and exports" to rebuild domestic reserves.
-Adding to the global market volatility, Ukraine's targeting of Russian energy facilities has knocked out the country's refining capacity.
-"It is a serious hit on the Russians," Trump said during a meeting with Ukrainian counterpart Volodymyr Zelensky on Tuesday. "It's also a serious hit on the price of diesel."
-Trump confirmed he would discuss the strikes with the Ukrainian president, alongside broader efforts to negotiate an end to the conflict. "I think it's going to happen," he said.
-Kyiv has intensified drone attacks on Russian processing plants in recent months to choke off the Kremlin's primary source of war funding.
-Because Russia ranks among the world's leading diesel suppliers, reduced refining capacity – combined with Moscow's own strict export bans – has severely squeezed global reserves.
-While restricting US exports could offer short-term relief for American drivers, a ban may risk pushing up prices internationally.
-The US exports roughly 1.3 million barrels of diesel per day – nearly a quarter of its refining output.
-Cutting these shipments could put pressure on supplies for Western allies, including the UK and the Netherlands, which have relied on American fuel to cover deficits left by sanctions on Russian energy.
-Related topics
-- Published1 hour ago
-- Published2 hours ago`,
-    bodyJa: `Trump says he would back ban on diesel exports
-- Published
-US President Donald Trump has said he would back proposals to halt American diesel exports in a bid to ease prices for drivers at the pumps.
-His comments come after Republicans lawmakers put pressure on the president ahead of November's mid-term elections to curb exports, as diesel prices soar to record highs in the US.
-Speaking on the sidelines at the United Nations General Assembly, Trump suggested keeping domestic supplies inside the US could also ease broader petrol prices.
-"I've called for that too. I've said let's not send out the diesel. We make a lot of diesel. That could have a little bit of an effect on regular automobile gasoline," he said .
-US Treasury Secretary Scott Bessent confirmed officials were assessing "whether a full or partial ban would work" without disrupting refinery capabilities.
-National average diesel prices surpassed $6.50 (£4.87) a gallon on Tuesday according to AAA data, a new high.
-The conflict in the Middle East has constrained global oil supplies, putting pressure on pump prices.
-The surge in the cost of diesel has sparked political urgency ahead of crucial mid-term elections on 3 November, with several Republicans pressing the administration to restrict the fuel's export to ease financial strain on voters.
-US Representative Ashley Hinson, a Republican running for Senate in Iowa, said on Monday that the state's consumers were "being squeezed and shouldn't have to foot the bill at the pump."
-In Alaska on Tuesday, Senator Dan Sullivan similarly urged for a "temporary pause of American diesel and exports" to rebuild domestic reserves.
-Adding to the global market volatility, Ukraine's targeting of Russian energy facilities has knocked out the country's refining capacity.
-"It is a serious hit on the Russians," Trump said during a meeting with Ukrainian counterpart Volodymyr Zelensky on Tuesday. "It's also a serious hit on the price of diesel."
-Trump confirmed he would discuss the strikes with the Ukrainian president, alongside broader efforts to negotiate an end to the conflict. "I think it's going to happen," he said.
-Kyiv has intensified drone attacks on Russian processing plants in recent months to choke off the Kremlin's primary source of war funding.
-Because Russia ranks among the world's leading diesel suppliers, reduced refining capacity – combined with Moscow's own strict export bans – has severely squeezed global reserves.
-While restricting US exports could offer short-term relief for American drivers, a ban may risk pushing up prices internationally.
-The US exports roughly 1.3 million barrels of diesel per day – nearly a quarter of its refining output.
-Cutting these shipments could put pressure on supplies for Western allies, including the UK and the Netherlands, which have relied on American fuel to cover deficits left by sanctions on Russian energy.
-Related topics
-- Published1 hour ago
-- Published2 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-22T20:41:13+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c38/live/f49ca2e0-b6c3-11f1-8a9f-c7141bd7738d.jpg",
-    readTime: 7,
-  },
-  {
-    id: "trump-administration-is-examining-whethe-5a38137f",
-    title: "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-    titleJa: "Trump administration is examining whether a diesel export ban is feasible, Treasury Secretary says",
-    summaryJa: "Republican lawmakers have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.",
-    bodyOriginal: `The Trump administration is looking into whether implementing a diesel export ban would ease record high prices for the critical fuel, Treasury Secretary Scott Bessent said Tuesday.
-"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work," Bessent said at a bilateral meeting between President Donald Trump and Ukrainian President Volodymyr Zelenskyy at the United Nations.
-Trump said Tuesday he's advocated for a diesel export ban during internal administration deliberations. The president said a decision would quickly be made "one way or another" on whether to implement a ban.
-"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters. Republican lawmakers including Sen. Chuck Grassley of Iowa have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.
-Diesel in the U.S. has surged to a record high $6.53 per gallon, almost $3 above the level last year, according to data from AAA. In California, diesel costs $8.44 per gallon.
-Fuel prices have jumped as the wars in Eastern Europe and the Middle East have slashed global refining capacity.
-Ukraine's attacks on Russian refineries have forced Moscow to implement a diesel export ban. Refineries in the Middle East have also come under attack from Iran and its Houthi allies. And product exports through the Strait of Hormuz are constrained due to Iranian threats to tankers.
-U.S. refiners have rushed to take advantage, ramping up diesel exports to help supply the world and reap sky-high profits. Diesel cost around $207 a barrel Tuesday, more than $100 above the price of crude oil.
-Diesel plays an essential role in the economy. It fuels the trucks and trains that deliver goods to market and the farm equipment that harvests crops. Higher diesel prices trickle down to consumers in higher grocery bills and what they pay for consumer products.`,
-    bodyJa: `The Trump administration is looking into whether implementing a diesel export ban would ease record high prices for the critical fuel, Treasury Secretary Scott Bessent said Tuesday.
-"We're examining whether it's feasible in terms of the overall refining capacity and whether a full or partial ban would work," Bessent said at a bilateral meeting between President Donald Trump and Ukrainian President Volodymyr Zelenskyy at the United Nations.
-Trump said Tuesday he's advocated for a diesel export ban during internal administration deliberations. The president said a decision would quickly be made "one way or another" on whether to implement a ban.
-"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters. Republican lawmakers including Sen. Chuck Grassley of Iowa have called for an export ban as high diesel prices hit farmers and truckers ahead of the November midterm elections.
-Diesel in the U.S. has surged to a record high $6.53 per gallon, almost $3 above the level last year, according to data from AAA. In California, diesel costs $8.44 per gallon.
-Fuel prices have jumped as the wars in Eastern Europe and the Middle East have slashed global refining capacity.
-Ukraine's attacks on Russian refineries have forced Moscow to implement a diesel export ban. Refineries in the Middle East have also come under attack from Iran and its Houthi allies. And product exports through the Strait of Hormuz are constrained due to Iranian threats to tankers.
-U.S. refiners have rushed to take advantage, ramping up diesel exports to help supply the world and reap sky-high profits. Diesel cost around $207 a barrel Tuesday, more than $100 above the price of crude oil.
-Diesel plays an essential role in the economy. It fuels the trucks and trains that deliver goods to market and the farm equipment that harvests crops. Higher diesel prices trickle down to consumers in higher grocery bills and what they pay for consumer products.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html",
-    publishedAt: "2026-09-22T19:59:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "royal-caribbean-nears-3-billion-deal-to-2188e73d",
-    title: "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-    titleJa: "Royal Caribbean nears $3 billion deal to take 50% equity stake in Sandals",
-    summaryJa: "Royal Caribbean has been trying to diversify beyond cruises and become a leader overall in vacations.",
-    bodyOriginal: `Royal Caribbean is nearing a $3 billion deal to take a 50% equity stake in Sandals, according to a person familiar with the matter.
-The person, who spoke on the condition of anonymity to discuss talks that had not been made public, said the deal values the Caribbean resort chain at $6 billion and that it was expected to boost for growth for both companies. The talks are ongoing and may not result in a deal, according to the person.
-Royal Caribbean shares fell roughly 6% on the news, which was first reported by the Financial Times.
-The company's stock is down roughly 25% over the past year after it trimmed its forecasts for revenue growth on softer demand for European sailings.
-The cruise company has been intent on diversifying beyond cruises and becoming a leader overall in vacations. Royal Caribbean already operates several private destinations for its cruise passengers, but it has been working to build out those land offerings.
-Sandals and its Beaches brand, meanwhile, have more than a dozen properties across the Caribbean, which would give Royal Caribbean a foothold in all-inclusive options.
-Neither Royal Caribbean nor Sandals immediately responded to a request for comment.`,
-    bodyJa: `Royal Caribbean is nearing a $3 billion deal to take a 50% equity stake in Sandals, according to a person familiar with the matter.
-The person, who spoke on the condition of anonymity to discuss talks that had not been made public, said the deal values the Caribbean resort chain at $6 billion and that it was expected to boost for growth for both companies. The talks are ongoing and may not result in a deal, according to the person.
-Royal Caribbean shares fell roughly 6% on the news, which was first reported by the Financial Times.
-The company's stock is down roughly 25% over the past year after it trimmed its forecasts for revenue growth on softer demand for European sailings.
-The cruise company has been intent on diversifying beyond cruises and becoming a leader overall in vacations. Royal Caribbean already operates several private destinations for its cruise passengers, but it has been working to build out those land offerings.
-Sandals and its Beaches brand, meanwhile, have more than a dozen properties across the Caribbean, which would give Royal Caribbean a foothold in all-inclusive options.
-Neither Royal Caribbean nor Sandals immediately responded to a request for comment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/22/royal-caribbean-sandals.html",
-    publishedAt: "2026-09-22T19:51:13+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "trump-discloses-more-than-1-100-july-tra-d04a9150",
-    title: "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-    titleJa: "Trump discloses more than 1,100 July trades, including up to $25 million each in sales of Microsoft, Amazon",
-    summaryJa: "Trump sold tech stocks including Amazon and Microsoft when the Mag 7 stocks popped on July 20, adding $291 billion in market value in one day.",
-    bodyOriginal: `President Donald Trump disclosed, in a filing released Tuesday, more than 1,100 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, as his sprawling investment portfolio underwent another month of heavy trading.
-The 1,156 purchases and sales totaled between roughly $79 million and $270 million, according to a CNBC analysis of Trump's latest financial disclosure. Purchases totaled at least $43.6 million, while sales came to at least $35.6 million, CNBC calculated, in what appears to be a broad reshuffling of his portfolio.
-The largest transactions were July 20 sales of between $5 million and $25 million each of Microsoft and Amazon, according to the filing. Three days later, Trump reported buying between $100,001 and $250,000 of Microsoft and between $1,001 and $15,000 of Amazon.
-The same July 20 entries show sales of between $1 million and $5 million of Oracle, along with purchases that included between $500,001 and $1 million of Nvidia.
-The filing also shows a $250,001 to $500,000 sale of Northrop Grumman that day, when Trump signed an executive order tightening supply chain requirements for defense contractors and restricting waivers for certain critical materials sourced from China and other covered countries. The disclosure does not show what time the trade occurred or who made the investment decision.
-While the filing shows activity conducted on Trump's behalf, broad value ranges obscure his exact holdings. Still, heavy trading has been a feature of his second term. In June, Trump disclosed 1,051 transactions totaling between $78.1 million and $263.1 million, including purchases and sales of stocks, bonds and exchange-traded funds.
-The president's 2025 annual financial disclosure showed more than 21,000 securities trades across eight accounts holding at least $858 million, compared with 86 stock transactions disclosed during his first year in office in 2017.
-The White House has repeatedly defended the trades and said independent advisors manage the portfolio without input from Trump or his family. Recent presidents, however, have generally divested individual stocks or relied on blind trusts or diversified funds to avoid even the appearance of conflicts of interest.
-"President Trump's stock and bond portfolio is independently managed by third-party financial institutions," White House spokesman Davis Ingle said in response to CNBC's questions about Trump's latest disclosure. "Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold."
-The Trump Organization did not immediately respond to a request for comment on the latest disclosure.
-The July 20 transactions were part of a wider rotation including purchases of between $1 million and $5 million each of Intuit, Marvell Technology, Salesforce and Church & Dwight. Trump also bought between $250,000 and $500,000 of taser maker Axon Enterprises, which works frequently with Immigration and Customs Enforcement.
-The president also continued moving money among ETFs.
-On July 8, Trump disclosed purchases worth between $1 million and $5 million each of the State Street SPDR Bloomberg International Treasury Bond ETF, Fidelity MSCI Communication Services Index ETF, Vanguard Short-Term Bond Index Fund ETF and Vanguard Dividend Appreciation Index Fund ETF.
-That same day, he sold between $1 million and $5 million each of the iShares U.S. Treasury Bond ETF, State Street Communication Services Select Sector SPDR ETF and iShares International Treasury Bond ETF.
-Ten-year yields climbed on July 8, led by soaring oil prices, after Trump said at the NATO summit in Turkey that he thought a ceasefire with Iran was over.
-Trump also made several large purchases of municipal and other bonds. The filing shows purchases worth between $1 million and $5 million each of two Miami-Dade County aviation revenue bonds, a St. Louis County school district bond and a Main Street Natural Gas bond.`,
-    bodyJa: `President Donald Trump disclosed, in a filing released Tuesday, more than 1,100 securities transactions made on his behalf in July, including sales of as much as $25 million each of Microsoft and Amazon shares, as his sprawling investment portfolio underwent another month of heavy trading.
-The 1,156 purchases and sales totaled between roughly $79 million and $270 million, according to a CNBC analysis of Trump's latest financial disclosure. Purchases totaled at least $43.6 million, while sales came to at least $35.6 million, CNBC calculated, in what appears to be a broad reshuffling of his portfolio.
-The largest transactions were July 20 sales of between $5 million and $25 million each of Microsoft and Amazon, according to the filing. Three days later, Trump reported buying between $100,001 and $250,000 of Microsoft and between $1,001 and $15,000 of Amazon.
-The same July 20 entries show sales of between $1 million and $5 million of Oracle, along with purchases that included between $500,001 and $1 million of Nvidia.
-The filing also shows a $250,001 to $500,000 sale of Northrop Grumman that day, when Trump signed an executive order tightening supply chain requirements for defense contractors and restricting waivers for certain critical materials sourced from China and other covered countries. The disclosure does not show what time the trade occurred or who made the investment decision.
-While the filing shows activity conducted on Trump's behalf, broad value ranges obscure his exact holdings. Still, heavy trading has been a feature of his second term. In June, Trump disclosed 1,051 transactions totaling between $78.1 million and $263.1 million, including purchases and sales of stocks, bonds and exchange-traded funds.
-The president's 2025 annual financial disclosure showed more than 21,000 securities trades across eight accounts holding at least $858 million, compared with 86 stock transactions disclosed during his first year in office in 2017.
-The White House has repeatedly defended the trades and said independent advisors manage the portfolio without input from Trump or his family. Recent presidents, however, have generally divested individual stocks or relied on blind trusts or diversified funds to avoid even the appearance of conflicts of interest.
-"President Trump's stock and bond portfolio is independently managed by third-party financial institutions," White House spokesman Davis Ingle said in response to CNBC's questions about Trump's latest disclosure. "Neither President Trump nor any member of his family has any ability to direct, influence, or provide input regarding how the portfolio is invested or when investments are bought or sold."
-The Trump Organization did not immediately respond to a request for comment on the latest disclosure.
-The July 20 transactions were part of a wider rotation including purchases of between $1 million and $5 million each of Intuit, Marvell Technology, Salesforce and Church & Dwight. Trump also bought between $250,000 and $500,000 of taser maker Axon Enterprises, which works frequently with Immigration and Customs Enforcement.
-The president also continued moving money among ETFs.
-On July 8, Trump disclosed purchases worth between $1 million and $5 million each of the State Street SPDR Bloomberg International Treasury Bond ETF, Fidelity MSCI Communication Services Index ETF, Vanguard Short-Term Bond Index Fund ETF and Vanguard Dividend Appreciation Index Fund ETF.
-That same day, he sold between $1 million and $5 million each of the iShares U.S. Treasury Bond ETF, State Street Communication Services Select Sector SPDR ETF and iShares International Treasury Bond ETF.
-Ten-year yields climbed on July 8, led by soaring oil prices, after Trump said at the NATO summit in Turkey that he thought a ceasefire with Iran was over.
-Trump also made several large purchases of municipal and other bonds. The filing shows purchases worth between $1 million and $5 million each of two Miami-Dade County aviation revenue bonds, a St. Louis County school district bond and a Main Street Natural Gas bond.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/22/trump-trades-microsoft-amazon-july-financial-disclosure.html",
-    publishedAt: "2026-09-22T19:30:03+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 10,
   },
 ];
