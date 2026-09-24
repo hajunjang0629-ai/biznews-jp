@@ -15,6 +15,226 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-xi-expected-to-talk-taiwan-ai-trad-3dfdd4a4",
+    title: "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+    titleJa: "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+    summaryJa: "Trump greeted China's Xi at Joint Base Andrews, his first time traveling to the facility to welcome a foreign leader.",
+    bodyOriginal: `President Donald Trump and Chinese Leader Xi Jinping are expected to meet at the White House on Thursday for high-stakes talks about trade, artificial intelligence and the Iran war — in between displays of military fanfare and a lavish banquet.
+While China analysts broadly predict the leaders' personal relationship and policy goals will result in a cautious summit that yields few major deliverables, their latest face-to-face nevertheless carries real geopolitical risk.
+That significance was on display the moment Xi arrived Wednesday evening at Maryland's Joint Base Andrews, where he was greeted on the tarmac by Trump — who met him at the airplane stairs after walking down a red carpet that U.S. service members had rolled out.
+It was Trump's first time traveling to the base to welcome a foreign leader, a source familiar confirmed to CNBC on condition of anonymity to discuss the president's plans for the summit. The last president to make the gesture was Barack Obama, who greeted then-Pope Francis on the Andrews tarmac 11 years years ago this week.
+On Thursday morning, Trump and First Lady Melania Trump are set to welcome Xi and Chinese First Lady Peng Liyuan at the White House for an "arrival ceremony" on the State Floor. It is Xi's first visit to Washington since September 2015, coming to the capital city right after the pope.
+The leaders will then head to the Rose Garden for a military review, after which Trump and Xi will hold a bilateral meeting, while Melania Trump and Madame Peng branch off for a separate event.
+That evening, Trump and the first lady will host the Chinese delegation for a state dinner in the White House's East Room, with both countries' leaders expected to give remarks at the top of the event.
+A slew of U.S. business executives are slated to join the dinner. Reuters had reported that Xi was expected to bring along his own crew of CEOs, but that entourage did not materialize.
+On Friday, the presidents and first ladies will hold a private tea at the White House, then take a tour of the National Archives before Xi's departure.
+"President Xi hosted President Trump in China for a historic summit this summer, and President Trump is reciprocating his hospitality by welcoming the Chinese delegation for a reciprocal visit this week," White House spokeswoman Anna Kelly told CNBC in a statement.
+"The President will forge relationships with anyone in order to advance our national interests and make good deals for the American people," Kelly added.
+This is developing news. Please check back for updates.`,
+    bodyJa: `President Donald Trump and Chinese Leader Xi Jinping are expected to meet at the White House on Thursday for high-stakes talks about trade, artificial intelligence and the Iran war — in between displays of military fanfare and a lavish banquet.
+While China analysts broadly predict the leaders' personal relationship and policy goals will result in a cautious summit that yields few major deliverables, their latest face-to-face nevertheless carries real geopolitical risk.
+That significance was on display the moment Xi arrived Wednesday evening at Maryland's Joint Base Andrews, where he was greeted on the tarmac by Trump — who met him at the airplane stairs after walking down a red carpet that U.S. service members had rolled out.
+It was Trump's first time traveling to the base to welcome a foreign leader, a source familiar confirmed to CNBC on condition of anonymity to discuss the president's plans for the summit. The last president to make the gesture was Barack Obama, who greeted then-Pope Francis on the Andrews tarmac 11 years years ago this week.
+On Thursday morning, Trump and First Lady Melania Trump are set to welcome Xi and Chinese First Lady Peng Liyuan at the White House for an "arrival ceremony" on the State Floor. It is Xi's first visit to Washington since September 2015, coming to the capital city right after the pope.
+The leaders will then head to the Rose Garden for a military review, after which Trump and Xi will hold a bilateral meeting, while Melania Trump and Madame Peng branch off for a separate event.
+That evening, Trump and the first lady will host the Chinese delegation for a state dinner in the White House's East Room, with both countries' leaders expected to give remarks at the top of the event.
+A slew of U.S. business executives are slated to join the dinner. Reuters had reported that Xi was expected to bring along his own crew of CEOs, but that entourage did not materialize.
+On Friday, the presidents and first ladies will hold a private tea at the White House, then take a tour of the National Archives before Xi's departure.
+"President Xi hosted President Trump in China for a historic summit this summer, and President Trump is reciprocating his hospitality by welcoming the Chinese delegation for a reciprocal visit this week," White House spokeswoman Anna Kelly told CNBC in a statement.
+"The President will forge relationships with anyone in order to advance our national interests and make good deals for the American people," Kelly added.
+This is developing news. Please check back for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+    publishedAt: "2026-09-24T11:20:52+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "china-confirms-first-ai-talks-with-u-s-h-8032eea8",
+    title: "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+    titleJa: "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+    summaryJa: "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
+    bodyOriginal: `BEIJING—China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.
+Spokesperson He Yadong told reporters the two sides also discussed plans for reducing tariffs, and extending trade arrangements agreed in Kuala Lumpur last October.
+He was referring to China's Vice Premier He Lifeng meeting with his counterpart, Treasury Secretary Scott Bessent, in New York in the runup to the summit this week between U.S. President Donald Trump and Chinese President Xi Jinping.
+As Xi landed in the U.S., Bessent told Fox News on Wednesday the two countries agreed to extend a trade truce to January. The truce, reached in October 2025, kept tariffs lower and limited China's export controls on rare earths, which are critical components of semiconductors and many household goods, as well as defense products.
+Earlier in the week, Bessent said the two sides discussed establishing an AI dialogue and a mechanism to alert each other about AI risks.
+The Chinese confirmation of the AI talks came just hours before Xi and Trump were scheduled to begin talks in Washington, D.C., as part of a state visit.
+The ministry added the two sides held constructive, candid talks, and reached multiple points of consensus.
+Both countries are weighing how to address the risks posed by rapidly advancing technology after recent incidents involving AI systems raised fears that increasingly autonomous models could make attacks faster and harder to contain.`,
+    bodyJa: `BEIJING—China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.
+Spokesperson He Yadong told reporters the two sides also discussed plans for reducing tariffs, and extending trade arrangements agreed in Kuala Lumpur last October.
+He was referring to China's Vice Premier He Lifeng meeting with his counterpart, Treasury Secretary Scott Bessent, in New York in the runup to the summit this week between U.S. President Donald Trump and Chinese President Xi Jinping.
+As Xi landed in the U.S., Bessent told Fox News on Wednesday the two countries agreed to extend a trade truce to January. The truce, reached in October 2025, kept tariffs lower and limited China's export controls on rare earths, which are critical components of semiconductors and many household goods, as well as defense products.
+Earlier in the week, Bessent said the two sides discussed establishing an AI dialogue and a mechanism to alert each other about AI risks.
+The Chinese confirmation of the AI talks came just hours before Xi and Trump were scheduled to begin talks in Washington, D.C., as part of a state visit.
+The ministry added the two sides held constructive, candid talks, and reached multiple points of consensus.
+Both countries are weighing how to address the risks posed by rapidly advancing technology after recent incidents involving AI systems raised fears that increasingly autonomous models could make attacks faster and harder to contain.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+    publishedAt: "2026-09-24T10:18:19+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "rolls-royce-signs-multi-million-engine-d-01f4a1e8",
+    title: "Rolls-Royce signs 'multi-million' engine deal",
+    titleJa: "Rolls-Royce signs 'multi-million' engine deal",
+    summaryJa: "The order will see 18 engines built and maintained by the company from its Derby aerospace centre.",
+    bodyOriginal: `Rolls-Royce signs 'multi-million' engine deal
+- Published
+Rolls-Royce has moved forward with a deal to power a new fleet of Airbus long-haul jets for Philippine Airlines.
+The FTSE-100 firm will provide 18 engines for nine new Airbus A350-1000 aircraft in a deal worth "hundreds of millions of pounds".
+The agreement, once finalised, also includes a maintenance package, meaning Rolls-Royce will continue servicing and monitoring the engines throughout their operational life, officials said.
+The government welcomed the deal, saying it would bring "good quality jobs" to the company's Derby base.
+The order was first announced as a memorandum of understanding at the Farnborough International Airshow in July.
+At the time, Rob Watson, president of civil airspace at Rolls-Royce, said the company was "proud to continue strengthening our long-standing relationship with Philippine Airlines".
+While the deal is described as being worth "hundreds of millions", the precise value has not been confirmed.
+Airbus designs and manufactures wings for all its commercial aircraft at its Broughton site in North Wales.
+Minister for trade Anas Sarwar said: "This news shows British engineering is flying high with world-class innovation that puts our companies at the front of the pack.
+"Building these engines and wings brings good quality jobs to Derby and Broughton, and means UK expertise is at the heart of thousands of flights by one of the fastest-growing airlines around the world."
+The engine involved, the Trent XWB-97, can operate using a 50% sustainable aviation fuel blend, with plans for it to run on 100% sustainable aviation fuel in the future.
+This order follows Philippine Airlines's previous order for nine Trent XWB-97-powered Airbus A350-1000 in 2023.
+Get in touch
+Tell us which stories we should cover in Derby
+Listen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.
+Related topics
+- Published2 days ago
+- Published24 July
+- Published2 July
+- Published21 November 2025`,
+    bodyJa: `Rolls-Royce signs 'multi-million' engine deal
+- Published
+Rolls-Royce has moved forward with a deal to power a new fleet of Airbus long-haul jets for Philippine Airlines.
+The FTSE-100 firm will provide 18 engines for nine new Airbus A350-1000 aircraft in a deal worth "hundreds of millions of pounds".
+The agreement, once finalised, also includes a maintenance package, meaning Rolls-Royce will continue servicing and monitoring the engines throughout their operational life, officials said.
+The government welcomed the deal, saying it would bring "good quality jobs" to the company's Derby base.
+The order was first announced as a memorandum of understanding at the Farnborough International Airshow in July.
+At the time, Rob Watson, president of civil airspace at Rolls-Royce, said the company was "proud to continue strengthening our long-standing relationship with Philippine Airlines".
+While the deal is described as being worth "hundreds of millions", the precise value has not been confirmed.
+Airbus designs and manufactures wings for all its commercial aircraft at its Broughton site in North Wales.
+Minister for trade Anas Sarwar said: "This news shows British engineering is flying high with world-class innovation that puts our companies at the front of the pack.
+"Building these engines and wings brings good quality jobs to Derby and Broughton, and means UK expertise is at the heart of thousands of flights by one of the fastest-growing airlines around the world."
+The engine involved, the Trent XWB-97, can operate using a 50% sustainable aviation fuel blend, with plans for it to run on 100% sustainable aviation fuel in the future.
+This order follows Philippine Airlines's previous order for nine Trent XWB-97-powered Airbus A350-1000 in 2023.
+Get in touch
+Tell us which stories we should cover in Derby
+Listen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.
+Related topics
+- Published2 days ago
+- Published24 July
+- Published2 July
+- Published21 November 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmpwle47zxgyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T10:14:47+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc85/live/41e196b0-748d-11f1-bb8c-7bdd252343cb.jpg",
+    readTime: 5,
+  },
+  {
+    id: "30-year-treasury-yield-hits-highest-leve-36652917",
+    title: "30-year Treasury yield hits highest level since 2004",
+    titleJa: "30-year Treasury yield hits highest level since 2004",
+    summaryJa: "U.S. Treasury yields continued their upward momentum after hitting a 19-year high on Wednesday.",
+    bodyOriginal: `Treasury yields were trading at multi-decade highs early Thursday morning, as investor bets on another rate hike from the Federal Reserve mounted.
+The benchmark 10-year Treasury note yield, which is tied to rates on mortgages, surged to 5.139% — its highest level since July 2007. The yield on the 2-year note climbed to 4.897% for its highest since 2023, while the 30-year Treasury yield was up more than 3 basis points to reach a post-2004 peak of 5.438%.
+One basis point equals 0.01%, and yields and prices move in opposite directions.
+It comes amid a global government bond selloff, with Japan's 10-year JGB yield rising 8 basis points to 3.055%, the highest since August 1996. U.K. Gilts and German Bunds also moved higher, with yields on various European bonds hitting fresh multi-year highs.
+Several factors drove the Treasury selloff, including stronger-than-expected U.S. economic activity, hawkish commentary from a Federal Reserve official, and high oil prices.
+S&P Global's purchasing managers' index, released on Wednesday, showed that services PMI rose to 58.7 in September, the highest level in almost five years. Its manufacturing counterpart was up to 56.7, a level not seen in over four years.
+The data drove expectations of more rate hikes, with traders last pricing in a more-than-75 % chance that the Federal Open Market Committee will increase rates again at its October meeting, per the CME Group's FedWatch tool. That compares to a roughly 49% probability just a week ago.
+Michael Barr, a member of the Fed's Board of Governors, said in a speech on Wednesday that "further policy adjustments" are likely to come to bring inflation down to target.
+Speaking in London on Thursday, New York Federal Reserve President John Williams said it would be "reasonable" to expect another Fed interest rate hike by the end of the year.
+"The main driver was a strong batch of PMIs, along with a rebound in oil prices, which both led to mounting speculation about faster rate hikes," Deutsche Bank analysts said of the Treasurys selloff in a note Thursday.
+"So [PMI results] played into the narrative of resilient growth, which in turn would enable the Fed to keep hiking rates to deal with inflation," they added.
+Thursday's moves came as oil prices rose sharply. International Brent crude futures rose about 2.8% to trade at $105.95 a barrel, while West Texas Intermediate crude gained 2.2% to $94.40.
+Investors will await the weekly jobless claims and new home sales for August on Thursday as they look for further insights on the state of the U.S. economy.`,
+    bodyJa: `Treasury yields were trading at multi-decade highs early Thursday morning, as investor bets on another rate hike from the Federal Reserve mounted.
+The benchmark 10-year Treasury note yield, which is tied to rates on mortgages, surged to 5.139% — its highest level since July 2007. The yield on the 2-year note climbed to 4.897% for its highest since 2023, while the 30-year Treasury yield was up more than 3 basis points to reach a post-2004 peak of 5.438%.
+One basis point equals 0.01%, and yields and prices move in opposite directions.
+It comes amid a global government bond selloff, with Japan's 10-year JGB yield rising 8 basis points to 3.055%, the highest since August 1996. U.K. Gilts and German Bunds also moved higher, with yields on various European bonds hitting fresh multi-year highs.
+Several factors drove the Treasury selloff, including stronger-than-expected U.S. economic activity, hawkish commentary from a Federal Reserve official, and high oil prices.
+S&P Global's purchasing managers' index, released on Wednesday, showed that services PMI rose to 58.7 in September, the highest level in almost five years. Its manufacturing counterpart was up to 56.7, a level not seen in over four years.
+The data drove expectations of more rate hikes, with traders last pricing in a more-than-75 % chance that the Federal Open Market Committee will increase rates again at its October meeting, per the CME Group's FedWatch tool. That compares to a roughly 49% probability just a week ago.
+Michael Barr, a member of the Fed's Board of Governors, said in a speech on Wednesday that "further policy adjustments" are likely to come to bring inflation down to target.
+Speaking in London on Thursday, New York Federal Reserve President John Williams said it would be "reasonable" to expect another Fed interest rate hike by the end of the year.
+"The main driver was a strong batch of PMIs, along with a rebound in oil prices, which both led to mounting speculation about faster rate hikes," Deutsche Bank analysts said of the Treasurys selloff in a note Thursday.
+"So [PMI results] played into the narrative of resilient growth, which in turn would enable the Fed to keep hiking rates to deal with inflation," they added.
+Thursday's moves came as oil prices rose sharply. International Brent crude futures rose about 2.8% to trade at $105.95 a barrel, while West Texas Intermediate crude gained 2.2% to $94.40.
+Investors will await the weekly jobless claims and new home sales for August on Thursday as they look for further insights on the state of the U.S. economy.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+    publishedAt: "2026-09-24T09:36:19+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "new-york-fed-s-williams-says-it-s-reason-54bb6613",
+    title: "New York Fed’s Williams says it's 'reasonable' to expect another rate hike by year-end",
+    titleJa: "New York Fed’s Williams says it's 'reasonable' to expect another rate hike by year-end",
+    summaryJa: "It would be \"reasonable\" to expect another interest rate hike from the Federal Reserve by the end of the year, New York Federal Reserve President John Williams said on Thursday.Williams said investor sentiment suggests that \"it's likely that another rate hike may be appropriate by the end of the year.\"",
+    bodyOriginal: `It would be "reasonable" to expect another interest rate hike from the Federal Reserve by the end of the year, New York Federal Reserve President John Williams said on Thursday.
+Williams said investor sentiment suggests that "it's likely that another rate hike may be appropriate by the end of the year."
+"That seems to me a reasonable way of thinking about it. But we have to see. We're going to collect the data and do what we did between July and September," he said.
+Williams also said the time for explicit forward guidance was "over," echoing the approach of Fed Chairman Kevin Warsh, who has said the central bank will refrain from directly signalling to the market what it intends to do at coming meetings.
+He was speaking at the London Macro Policy Forum.
+The Federal Reserve raised its benchmark interest rate by a quarter percentage point earlier this month, taking the overnight funds rate to a target range of 3.75%-4%.
+Commentary from Warsh and from other central bank officials following that decision has fueled market expectations that another hike will follow in the coming months. CME Group's FedWatch tool put the probability of an October raise at 77.5% on Thursday, up from around 53% on Wednesday.
+Recent data suggests the U.S. economy remains strong while inflation remains above 3%.
+Boston Federal Reserve President Susan Collins on Wednesday warned there was "an increased likelihood" that inflation will stay "notably" above the Federal Reserve's 2% target.
+Fed Governor Michael Barr said Wednesday that "further policy adjustments are likely to be needed to ensure inflation comes down to target in a timely fashion."`,
+    bodyJa: `It would be "reasonable" to expect another interest rate hike from the Federal Reserve by the end of the year, New York Federal Reserve President John Williams said on Thursday.
+Williams said investor sentiment suggests that "it's likely that another rate hike may be appropriate by the end of the year."
+"That seems to me a reasonable way of thinking about it. But we have to see. We're going to collect the data and do what we did between July and September," he said.
+Williams also said the time for explicit forward guidance was "over," echoing the approach of Fed Chairman Kevin Warsh, who has said the central bank will refrain from directly signalling to the market what it intends to do at coming meetings.
+He was speaking at the London Macro Policy Forum.
+The Federal Reserve raised its benchmark interest rate by a quarter percentage point earlier this month, taking the overnight funds rate to a target range of 3.75%-4%.
+Commentary from Warsh and from other central bank officials following that decision has fueled market expectations that another hike will follow in the coming months. CME Group's FedWatch tool put the probability of an October raise at 77.5% on Thursday, up from around 53% on Wednesday.
+Recent data suggests the U.S. economy remains strong while inflation remains above 3%.
+Boston Federal Reserve President Susan Collins on Wednesday warned there was "an increased likelihood" that inflation will stay "notably" above the Federal Reserve's 2% target.
+Fed Governor Michael Barr said Wednesday that "further policy adjustments are likely to be needed to ensure inflation comes down to target in a timely fashion."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html",
+    publishedAt: "2026-09-24T09:06:18+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "judge-lifts-trump-ban-on-cnn-ms-now-poli-f7979d91",
+    title: "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+    titleJa: "Judge lifts Trump ban on CNN, MS NOW, Politico from White House",
+    summaryJa: "District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18.",
+    bodyOriginal: `A federal judge on Thursday ordered White House access to journalists from CNN, MS Now and Politico to be temporarily restored, saying U.S. President Donald Trump's media ban was likely unconstitutional.
+The ruling represents a victory for the three media outlets, who had argued the ban violated their First Amendment rights, and comes as Trump hosts Chinese President Xi Jinping for a high-stakes meeting.
+In his ruling, District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18, rejecting a request by the Justice Department to delay it for at least two days. The judge was nominated by Trump to the federal bench in 2017.
+Kelly said the Trump administration must return, reinstate and restore the White House "hard pass" press credentials held by employees of the three outlets that had been revoked. The temporary restraining order remains in effect for 14 days, with Kelly noting that such orders are "generally unappealable."
+"Simply put—the record lacks factual support for Defendants' contention that the revocation of Plaintiffs' hard passes will in fact protect national security or that national security will be endangered if the Court orders their passes reinstated while this litigation proceeds," Kelly said.
+In a Truth Social post last week, Trump said he was banning the outlets from the White House effective immediately, warning that other "Fake News Media Outlets" could follow. The president cited what he called "cumulative stories" by the three news organizations, adding, "You get sick of it."
+In his ruling, Kelly said the court declined "to stay" the temporary restraining order's entry or effective date, as the defendants had requested.
+"Doing so runs against the purpose of such an order, which is to immediately—but temporarily—preserve the last uncontested status quo while the litigation proceeds," he added.
+Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
+    bodyJa: `A federal judge on Thursday ordered White House access to journalists from CNN, MS Now and Politico to be temporarily restored, saying U.S. President Donald Trump's media ban was likely unconstitutional.
+The ruling represents a victory for the three media outlets, who had argued the ban violated their First Amendment rights, and comes as Trump hosts Chinese President Xi Jinping for a high-stakes meeting.
+In his ruling, District Judge Tim Kelly said the three outlets should have their access immediately restored from the ban that the president had announced on Sept. 18, rejecting a request by the Justice Department to delay it for at least two days. The judge was nominated by Trump to the federal bench in 2017.
+Kelly said the Trump administration must return, reinstate and restore the White House "hard pass" press credentials held by employees of the three outlets that had been revoked. The temporary restraining order remains in effect for 14 days, with Kelly noting that such orders are "generally unappealable."
+"Simply put—the record lacks factual support for Defendants' contention that the revocation of Plaintiffs' hard passes will in fact protect national security or that national security will be endangered if the Court orders their passes reinstated while this litigation proceeds," Kelly said.
+In a Truth Social post last week, Trump said he was banning the outlets from the White House effective immediately, warning that other "Fake News Media Outlets" could follow. The president cited what he called "cumulative stories" by the three news organizations, adding, "You get sick of it."
+In his ruling, Kelly said the court declined "to stay" the temporary restraining order's entry or effective date, as the defendants had requested.
+"Doing so runs against the purpose of such an order, which is to immediately—but temporarily—preserve the last uncontested status quo while the litigation proceeds," he added.
+Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html",
+    publishedAt: "2026-09-24T06:22:46+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
     id: "world-heads-into-food-crises-blind-as-u-f0599505",
     title: "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
     titleJa: "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
@@ -105,6 +325,32 @@ Politburo Standing Committee Member Cai Qi and China's top diplomat Wang Yi acco
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 7,
+  },
+  {
+    id: "mark-zuckerberg-debuts-1-299-meta-vr-gla-12a3d8ee",
+    title: "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+    titleJa: "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
+    summaryJa: "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
+    bodyOriginal: `Meta CEO Mark Zuckerberg is continuing his metaverse while simultaneously pushing forward on AI agents.
+At Meta Connect, the Facebook co-founder revealed on Wednesday the Meta VR Glasses, a smaller and slimmer device compared to the company's older Quest-branded family of VR headsets, and a handheld device called the Muse Charm that works with the company's recently released Muse AI personal agent. He revealed the products while speaking on stage at the annual Connect conference for developers.
+Zuckerberg shared few details about what Muse Charm can do, only to say that people will be able to speak to the gadget to interact with their Meta AI agents "without having to unlock a phone or open an app." He didn't say how much it would cost, but said that Meta needs to "finalize laying out the components" and is "planning to have this ready to ship in time for the holidays in December."
+"We've packed a lot of technology with this little guy," Zuckerberg said. "So, if you're not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show it what's going on around you."
+The Meta VR Glasses are slimmer and lighter than the company's older Quest-branded VR headsets, but they are also more expensive, costing $1,299 when they go on sale in spring 2027. They represent Meta's first VR device since 2024, when the company debuted the $299 Quest 3S.
+The Meta VR Glasses are powered by an external puck that houses a Qualcomm processor and battery, allowing it to function as a mini-computer that also helps reduce the glasses' overall weight and size. The glasses are able to display better visuals than the older Quest headset, and contain sensors that track users' eyes and hand movements, which reduces the need to use controllers to interact with the device.
+"We have built a new kind of VR device that delivers the same magical feeling of presence and immersion, high-resolution displays and views of the world around you in a form factor that is a pair of glasses for the first time," Zuckerberg said.`,
+    bodyJa: `Meta CEO Mark Zuckerberg is continuing his metaverse while simultaneously pushing forward on AI agents.
+At Meta Connect, the Facebook co-founder revealed on Wednesday the Meta VR Glasses, a smaller and slimmer device compared to the company's older Quest-branded family of VR headsets, and a handheld device called the Muse Charm that works with the company's recently released Muse AI personal agent. He revealed the products while speaking on stage at the annual Connect conference for developers.
+Zuckerberg shared few details about what Muse Charm can do, only to say that people will be able to speak to the gadget to interact with their Meta AI agents "without having to unlock a phone or open an app." He didn't say how much it would cost, but said that Meta needs to "finalize laying out the components" and is "planning to have this ready to ship in time for the holidays in December."
+"We've packed a lot of technology with this little guy," Zuckerberg said. "So, if you're not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show it what's going on around you."
+The Meta VR Glasses are slimmer and lighter than the company's older Quest-branded VR headsets, but they are also more expensive, costing $1,299 when they go on sale in spring 2027. They represent Meta's first VR device since 2024, when the company debuted the $299 Quest 3S.
+The Meta VR Glasses are powered by an external puck that houses a Qualcomm processor and battery, allowing it to function as a mini-computer that also helps reduce the glasses' overall weight and size. The glasses are able to display better visuals than the older Quest headset, and contain sensors that track users' eyes and hand movements, which reduces the need to use controllers to interact with the device.
+"We have built a new kind of VR device that delivers the same magical feeling of presence and immersion, high-resolution displays and views of the world around you in a form factor that is a pair of glasses for the first time," Zuckerberg said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+    publishedAt: "2026-09-24T01:56:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
   },
   {
     id: "chinese-authorities-reportedly-in-posses-10cda6ca",
@@ -689,6 +935,54 @@ What we don't want, she added, was for an "unhealthy version of the race narrati
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
     readTime: 10,
+  },
+  {
+    id: "lidl-banned-from-selling-copycat-birkens-6d7b2e30",
+    title: "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+    titleJa: "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
+    summaryJa: "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
+    bodyOriginal: `Lidl banned from selling copycat Birkenstock sandals, Dutch court rules
+- Published
+Lidl must stop selling copycat versions of Birkenstock's famous sandals in the Netherlands, a Dutch court has ruled.
+The discount supermarket chain faces a fine of €5,000 (£4,200) per day if it fails to comply and must also hand over sales data to Birkenstock, according to the ruling.
+Lidl must also compensate Birkenstock and pay its legal fees, with the amount to be decided in separate court decisions.
+Birkenstock said the judgement sent a clear message that "copycats must not be allowed to free-ride on [our] creativity and innovation". The BBC has contacted Lidl for comment.
+The ruling, which can still be appealed against, means Lidl cannot sell its copycat versions of Birkenstock's Arizona, Madrid, Gizeh, Boston, and Florida models across the Netherlands, after the court found the discount grocer infringed on the brand's trademark "footbed design".
+It is the latest in a string of court decisions on Birkenstock designs.
+In November 2025, a Dutch court order stopped retailer Scapino from selling similar lookalikes in a judgment which is being appealed against.
+And in December 2025, Europe's highest court ruled everyday commercial products can hold copyright if they represent creative design choices, a decision which Birkenstock said was relevant to its "iconic" sandals.
+However, Birkenstock also faced a setback in Germany's highest court in early 2025.
+The sandals may have been cool enough for Margot Robbie to wear in the Barbie film, but the German judges ruled they were practical products rather than works of art – an outcome Birkenstock called a "missed opportunity" at the time.
+Following Wednesday's ruling, Birkenstock said it will "continue to defend its rights vigorously and will use all available legal means to combat imitations of its iconic products".
+"To protect its retail partners and consumers, Birkenstock will continue to take decisive action against copycats seeking to profit from the company's creative ideas and innovations," it added.
+Birkenstock is far from the only fashion brand locked in battles with mass retailers over design mimicry.
+Footwear giants like Dr. Martens have repeatedly taken online big-box sellers to court over boot designs, while luxury house Christian Louboutin spent years in global litigation defending its signature red soles against high-street copycats.
+Related topics
+- Published20 February 2025`,
+    bodyJa: `Lidl banned from selling copycat Birkenstock sandals, Dutch court rules
+- Published
+Lidl must stop selling copycat versions of Birkenstock's famous sandals in the Netherlands, a Dutch court has ruled.
+The discount supermarket chain faces a fine of €5,000 (£4,200) per day if it fails to comply and must also hand over sales data to Birkenstock, according to the ruling.
+Lidl must also compensate Birkenstock and pay its legal fees, with the amount to be decided in separate court decisions.
+Birkenstock said the judgement sent a clear message that "copycats must not be allowed to free-ride on [our] creativity and innovation". The BBC has contacted Lidl for comment.
+The ruling, which can still be appealed against, means Lidl cannot sell its copycat versions of Birkenstock's Arizona, Madrid, Gizeh, Boston, and Florida models across the Netherlands, after the court found the discount grocer infringed on the brand's trademark "footbed design".
+It is the latest in a string of court decisions on Birkenstock designs.
+In November 2025, a Dutch court order stopped retailer Scapino from selling similar lookalikes in a judgment which is being appealed against.
+And in December 2025, Europe's highest court ruled everyday commercial products can hold copyright if they represent creative design choices, a decision which Birkenstock said was relevant to its "iconic" sandals.
+However, Birkenstock also faced a setback in Germany's highest court in early 2025.
+The sandals may have been cool enough for Margot Robbie to wear in the Barbie film, but the German judges ruled they were practical products rather than works of art – an outcome Birkenstock called a "missed opportunity" at the time.
+Following Wednesday's ruling, Birkenstock said it will "continue to defend its rights vigorously and will use all available legal means to combat imitations of its iconic products".
+"To protect its retail partners and consumers, Birkenstock will continue to take decisive action against copycats seeking to profit from the company's creative ideas and innovations," it added.
+Birkenstock is far from the only fashion brand locked in battles with mass retailers over design mimicry.
+Footwear giants like Dr. Martens have repeatedly taken online big-box sellers to court over boot designs, while luxury house Christian Louboutin spent years in global litigation defending its signature red soles against high-street copycats.
+Related topics
+- Published20 February 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-23T21:25:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898d/live/3cf26740-b7ec-11f1-b86f-f9f95031dc8c.jpg",
+    readTime: 6,
   },
   {
     id: "as-trump-and-xi-meet-chinese-automakers-e1ad86f4",
@@ -1935,592 +2229,6 @@ Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "oil-falls-after-u-s-and-iran-talk-for-ho-f09d9768",
-    title: "Oil falls after U.S. and Iran talk for hours at UN meeting",
-    titleJa: "Oil falls after U.S. and Iran talk for hours at UN meeting",
-    summaryJa: "Oil fell Wednesday, amid hopes of a diplomatic solution to the conflict in the Middle East after Iran and the U.S. had talks.",
-    bodyOriginal: `Oil fell Wednesday, amid optimism that supply disruptions would ease following U.S.-Iran talks which raised hopes of a diplomatic solution to the conflict in the Middle East.
-Futures for international benchmark Brent crude for November delivery dropped 1.15% to $98.11 a barrel. U.S. West Texas Intermediate futures for November fell 1.75% to $88.94 per barrel.
-President Donald Trump said Tuesday that U.S. officials had a "very good meeting" with Iran's delegation and that it lasted about three hours. Earlier in his address to the U.N., Trump said he has a "big decision" over whether to reach a deal with Tehran or "annihilate" the country.
-"Pakistan's mediation efforts with Tehran could also reduce the risk of a broader escalation," said Paolo Broccardo, chief executive officer at private digital bank BankPro.
-Oil prices are also unlikely to see a huge jump for now, he said.
-"Over the past five consecutive sessions, the price has fallen by almost 12%, retreating once again from the 'intervention zone' above $100, where we have repeatedly seen intensified peace-building efforts from both sides," Broccardo said.`,
-    bodyJa: `Oil fell Wednesday, amid optimism that supply disruptions would ease following U.S.-Iran talks which raised hopes of a diplomatic solution to the conflict in the Middle East.
-Futures for international benchmark Brent crude for November delivery dropped 1.15% to $98.11 a barrel. U.S. West Texas Intermediate futures for November fell 1.75% to $88.94 per barrel.
-President Donald Trump said Tuesday that U.S. officials had a "very good meeting" with Iran's delegation and that it lasted about three hours. Earlier in his address to the U.N., Trump said he has a "big decision" over whether to reach a deal with Tehran or "annihilate" the country.
-"Pakistan's mediation efforts with Tehran could also reduce the risk of a broader escalation," said Paolo Broccardo, chief executive officer at private digital bank BankPro.
-Oil prices are also unlikely to see a huge jump for now, he said.
-"Over the past five consecutive sessions, the price has fallen by almost 12%, retreating once again from the 'intervention zone' above $100, where we have repeatedly seen intensified peace-building efforts from both sides," Broccardo said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
-    publishedAt: "2026-09-23T04:34:31+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "will-trump-s-ai-rebrand-to-super-intelli-65cc5fee",
-    title: "Will Trump's AI rebrand to 'super intelligence' catch on?",
-    titleJa: "Will Trump's AI rebrand to 'super intelligence' catch on?",
-    summaryJa: "Some people close to the president have started to use the term but experts say it is unlikely to catch on.",
-    bodyOriginal: `Will Trump's AI rebrand to 'super intelligence' catch on?
-- Published
-US President Donald Trump says the term artificial intelligence (AI) makes the technology "sound fake" and wants it to be called "super intelligence".
-"Welcome to the new world of super intelligence - SI," Trump said during a wide-ranging speech to the United Nations General Assembly in New York on Tuesday.
-While some people close to the president immediately started to use the term, experts have told the BBC it is unlikely to gain widespread traction in the industry because it is a name typically used to refer to more advanced systems.
-The announcement is Trump's latest rebranding move after he had the names of Lake Ontario and the Gulf of Mexico changed on US maps and federal communications.
-"From this point forward, all of United States' documents, and hopefully the world's, will be changed to use the more accurate term 'super' as opposed to 'artificial'. So it's 'super intelligence'," Trump said.
-In the past week, Trump asked his social media followers to vote on other potential new names for AI including superior intelligence, extreme intelligence and supreme intelligence.
-After a series of polls on his Truth Social platform, super intelligence came out as the winner.
-The purpose of renaming AI - and whether it will be adopted by the technology industry - is unclear.
-AI refers to computer technology that allows machines to do tasks that usually require human thinking.
-Meanwhile, super intelligence has a specific meaning within the tech community.
-The term is often linked to the author and philosopher Nick Bostrom, who more than a decade ago defined the idea as an "intellect" that is superior to humans in all forms. It is still entirely hypothetical.
-The rebranding is "misleading", as super intelligence typically refers to a system that has the ability to improve by itself, said digital ethics lecturer Simon Coghlan from The University of Melbourne.
-"I doubt 'SI' will stick, in part because it exaggerates the current capacities of AI," he said.
-"A superintelligent system, if it came about, would be regarded by experts as the most consequential technology ever made," Coghlan said.
-"Not all AI platforms today exude super intelligence", said computer scientist Kokil Jaidka, adding that the new name "borrows the prestige of a term researchers reserve for a much bigger leap".
-National University of Singapore computer science lecturer Ben Leong said: "My guess is that professionals will want to save 'SI' for a higher level of AI, not so much to describe AI today. It doesn't feel like it's at that level yet."
-But some in Trump's circle have already started to use the new term.
-"The Super Intelligence (SI) President has spoken! The United States is and will remain the global leader in SI," US Chief Technology Officer Ethan Klein wrote on social media.
-While Trump's ambassador to the UN Michael Waltz later said: "If you didn't see the president's speech, it's now super intelligence. I think he's absolutely right."
-However, when asked for his thoughts on the new name, Canada's minister of AI Evan Solomon said: "Canadians are not enthusiastic, at all, about renaming things," in an apparent reference to Trump renaming Lake Ontario.
-American power, AI and a walkout - key moments from Trump's UN speech
-- Published8 hours ago
-It comes as top tech executives and researchers have in recent weeks called on the US government to regulate the industry over fears that AI could endanger humanity - concerns that Trump has dismissed as "a hoax".
-He has argued against regulating the technology and said the US cannot afford to give China - its key technology rival - an advantage, adding that whichever side "wins AI, wins".
-"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said.
-The US is not going to "stifle the growth of something that will be bigger than the industrial revolution," he added.
-The government will "rein things in" if needed and will lead the sector responsibly, Trump said.
-Trump is set to meet his Chinese counterpart Xi Jinping this week, with AI expected to be discussed by the leaders of the world's two biggest economies.`,
-    bodyJa: `Will Trump's AI rebrand to 'super intelligence' catch on?
-- Published
-US President Donald Trump says the term artificial intelligence (AI) makes the technology "sound fake" and wants it to be called "super intelligence".
-"Welcome to the new world of super intelligence - SI," Trump said during a wide-ranging speech to the United Nations General Assembly in New York on Tuesday.
-While some people close to the president immediately started to use the term, experts have told the BBC it is unlikely to gain widespread traction in the industry because it is a name typically used to refer to more advanced systems.
-The announcement is Trump's latest rebranding move after he had the names of Lake Ontario and the Gulf of Mexico changed on US maps and federal communications.
-"From this point forward, all of United States' documents, and hopefully the world's, will be changed to use the more accurate term 'super' as opposed to 'artificial'. So it's 'super intelligence'," Trump said.
-In the past week, Trump asked his social media followers to vote on other potential new names for AI including superior intelligence, extreme intelligence and supreme intelligence.
-After a series of polls on his Truth Social platform, super intelligence came out as the winner.
-The purpose of renaming AI - and whether it will be adopted by the technology industry - is unclear.
-AI refers to computer technology that allows machines to do tasks that usually require human thinking.
-Meanwhile, super intelligence has a specific meaning within the tech community.
-The term is often linked to the author and philosopher Nick Bostrom, who more than a decade ago defined the idea as an "intellect" that is superior to humans in all forms. It is still entirely hypothetical.
-The rebranding is "misleading", as super intelligence typically refers to a system that has the ability to improve by itself, said digital ethics lecturer Simon Coghlan from The University of Melbourne.
-"I doubt 'SI' will stick, in part because it exaggerates the current capacities of AI," he said.
-"A superintelligent system, if it came about, would be regarded by experts as the most consequential technology ever made," Coghlan said.
-"Not all AI platforms today exude super intelligence", said computer scientist Kokil Jaidka, adding that the new name "borrows the prestige of a term researchers reserve for a much bigger leap".
-National University of Singapore computer science lecturer Ben Leong said: "My guess is that professionals will want to save 'SI' for a higher level of AI, not so much to describe AI today. It doesn't feel like it's at that level yet."
-But some in Trump's circle have already started to use the new term.
-"The Super Intelligence (SI) President has spoken! The United States is and will remain the global leader in SI," US Chief Technology Officer Ethan Klein wrote on social media.
-While Trump's ambassador to the UN Michael Waltz later said: "If you didn't see the president's speech, it's now super intelligence. I think he's absolutely right."
-However, when asked for his thoughts on the new name, Canada's minister of AI Evan Solomon said: "Canadians are not enthusiastic, at all, about renaming things," in an apparent reference to Trump renaming Lake Ontario.
-American power, AI and a walkout - key moments from Trump's UN speech
-- Published8 hours ago
-It comes as top tech executives and researchers have in recent weeks called on the US government to regulate the industry over fears that AI could endanger humanity - concerns that Trump has dismissed as "a hoax".
-He has argued against regulating the technology and said the US cannot afford to give China - its key technology rival - an advantage, adding that whichever side "wins AI, wins".
-"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said.
-The US is not going to "stifle the growth of something that will be bigger than the industrial revolution," he added.
-The government will "rein things in" if needed and will lead the sector responsibly, Trump said.
-Trump is set to meet his Chinese counterpart Xi Jinping this week, with AI expected to be discussed by the leaders of the world's two biggest economies.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T03:20:30+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891c/live/a452a4e0-b6ed-11f1-af5e-b359cc50acc4.jpg",
-    readTime: 10,
-  },
-  {
-    id: "in-photos-key-takeaways-from-day-one-of-2193606d",
-    title: "In photos: Key takeaways from day one of the UN General Assembly",
-    titleJa: "In photos: Key takeaways from day one of the UN General Assembly",
-    summaryJa: "World leaders descended on New York for the annual United Nations General Assembly, where the agenda covers topics from wars to the risks posed by AI.",
-    bodyOriginal: `World leaders descended on New York this week for the annual United Nations General Assembly, where the agenda spans the U.S.-Iran war and Russia's invasion of Ukraine to the fragile ceasefire in Gaza and the risks posed by artificial intelligence.
-Nearly 130 heads of state and government started taking the podium on Tuesday, including U.S. President Donald Trump, French President Emmanuel Macron, Ukrainian President Volodymyr Zelenskyy, and European Commission President Ursula von der Leyen. Brazil's Luiz Inácio Lula da Silva, Jordan's King Abdullah II and Qatar's Emir Sheikh Tamim bin Hamad Al Thani are also attending.
-Motorcades, road closures and security details for visiting leaders have choked midtown Manhattan. Inside UN headquarters, delegates face a week of back-to-back speeches and sideline meetings that come at a crucial time for a world order already under strain.
-Chinese leader Xi Jinping will skip the assembly but head to Washington for a high-level summit with Trump on Wednesday. Leaders from India and Russia are also staying away.
-Trump on Tuesday told world leaders at the assembly that he faces a "big decision": make a deal with Iran or "annihilate" the Islamic Republic. He later told reporters that U.S. officials held a "very good" three-hour meeting with Iranian envoys on the sidelines, reviving fragile hopes for a diplomatic off-ramp to the seven-month war.
-South Korean President Lee Jae Myung set out a three-part plan for "peaceful coexistence" with North Korea. It calls on Pyongyang to "first halt the advancement" of its nuclear program before reducing it.
-Brazil's Lula spoke first, as his country traditionally does. "Brazilian democracy belongs to Brazilians," Lula said. "Brazil is nobody's backyard." He said the UN "is failing in one of its highest missions: to save humanity from the scourge of war."
-Trump also signed a security agreement with Denmark and Greenland that expands U.S. military access in the semi-autonomous Danish territory of Greenland.
-Trump then met Ukrainian President Volodymyr Zelenskyy for about 40 minutes. He pressed for a Russia-Ukraine energy truce and backed a ban on U.S. diesel exports as fuel prices hit records before the midterms.
-French President Emmanuel Macron gave his own UN address. "There can be no peace without justice," he said. After meeting Trump, he pledged to push for a moratorium on strikes on Ukraine's energy grid.
-Turkish President Recep Tayyip Erdogan called Gaza "the most inhumane, most shameful concentration camp of our time," prompting Israel's delegation to walk out. Mahmoud Abbas, President of the Palestinian Authority, will address the assembly by video after being denied a U.S. visa.`,
-    bodyJa: `World leaders descended on New York this week for the annual United Nations General Assembly, where the agenda spans the U.S.-Iran war and Russia's invasion of Ukraine to the fragile ceasefire in Gaza and the risks posed by artificial intelligence.
-Nearly 130 heads of state and government started taking the podium on Tuesday, including U.S. President Donald Trump, French President Emmanuel Macron, Ukrainian President Volodymyr Zelenskyy, and European Commission President Ursula von der Leyen. Brazil's Luiz Inácio Lula da Silva, Jordan's King Abdullah II and Qatar's Emir Sheikh Tamim bin Hamad Al Thani are also attending.
-Motorcades, road closures and security details for visiting leaders have choked midtown Manhattan. Inside UN headquarters, delegates face a week of back-to-back speeches and sideline meetings that come at a crucial time for a world order already under strain.
-Chinese leader Xi Jinping will skip the assembly but head to Washington for a high-level summit with Trump on Wednesday. Leaders from India and Russia are also staying away.
-Trump on Tuesday told world leaders at the assembly that he faces a "big decision": make a deal with Iran or "annihilate" the Islamic Republic. He later told reporters that U.S. officials held a "very good" three-hour meeting with Iranian envoys on the sidelines, reviving fragile hopes for a diplomatic off-ramp to the seven-month war.
-South Korean President Lee Jae Myung set out a three-part plan for "peaceful coexistence" with North Korea. It calls on Pyongyang to "first halt the advancement" of its nuclear program before reducing it.
-Brazil's Lula spoke first, as his country traditionally does. "Brazilian democracy belongs to Brazilians," Lula said. "Brazil is nobody's backyard." He said the UN "is failing in one of its highest missions: to save humanity from the scourge of war."
-Trump also signed a security agreement with Denmark and Greenland that expands U.S. military access in the semi-autonomous Danish territory of Greenland.
-Trump then met Ukrainian President Volodymyr Zelenskyy for about 40 minutes. He pressed for a Russia-Ukraine energy truce and backed a ban on U.S. diesel exports as fuel prices hit records before the midterms.
-French President Emmanuel Macron gave his own UN address. "There can be no peace without justice," he said. After meeting Trump, he pledged to push for a moratorium on strikes on Ukraine's energy grid.
-Turkish President Recep Tayyip Erdogan called Gaza "the most inhumane, most shameful concentration camp of our time," prompting Israel's delegation to walk out. Mahmoud Abbas, President of the Palestinian Authority, will address the assembly by video after being denied a U.S. visa.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html",
-    publishedAt: "2026-09-23T03:13:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "south-korean-solar-stocks-jump-as-curbs-5fd99ccf",
-    title: "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
-    titleJa: "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
-    summaryJa: "South Korean solar stocks jumped as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.",
-    bodyOriginal: `Shares of South Korean solar companies Hanwha Solutions and OCI Holdings jumped more than 8% on Wednesday, as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.
-The two leaders are set to meet in Washington this week, with trade expected to be among the key issues discussed.
-Hana Securities said it was highly unlikely that the U.S. would ease restrictions on Chinese solar products as part of the talks, arguing that Washington increasingly views solar as a strategic industry tied to national security.
-"If the U.S. were to ease restrictions on Chinese solar products at the U.S.-China summit, it would effectively mean stepping back from efforts to build a domestic supply chain for a strategic national security asset," analyst Yoon Jae-sung said in a note Wednesday.
-He named Hanwha Solutions and OCI Holdings as top picks in the sector, citing a low likelihood of an unfavorable outcome from the U.S.-China summit.
-Yoon added that any tariff reductions discussed in the talks were expected to focus on non-strategic goods, pointing to Trump's signing of Section 232 measures on polysilicon and its derivatives in August on national security grounds.
-Solar has become a strategic asset spanning AI and semiconductor power demand, semiconductor supply chains, defense and space, making efforts to reduce reliance on Chinese supply increasingly important to Washington, he added.
-Wednesday's stock moves came hours after Hanwha Solutions' solar unit Qcells welcomed actions by the U.S. Department of Commerce and U.S. Customs and Border Protection to curb what it called the "illegal stockpiling" of imported solar panels, as the Trump administration moves to implement Section 232 tariffs on polysilicon and its derivatives.
-Qcells said the measures would help prevent importers from circumventing U.S. trade policy and support domestic solar manufacturing.
-"Flooding the U.S. market with large volumes of imported products is a strategy that companies abroad have long used to undermine American manufacturers," Qcells Global CEO Andy Park said in a statement.
-Qcells, which describes itself as the largest silicon-based solar manufacturer in the U.S., has invested $2.5 billion to expand its solar manufacturing operations in Georgia, where it produces solar cells and panels.
-OCI Holdings also has a significant U.S. presence through its subsidiary OCI Energy, which earlier this month broke ground on new solar facility in Texas.`,
-    bodyJa: `Shares of South Korean solar companies Hanwha Solutions and OCI Holdings jumped more than 8% on Wednesday, as U.S. restrictions on Chinese solar products came into focus ahead of the Trump-Xi summit.
-The two leaders are set to meet in Washington this week, with trade expected to be among the key issues discussed.
-Hana Securities said it was highly unlikely that the U.S. would ease restrictions on Chinese solar products as part of the talks, arguing that Washington increasingly views solar as a strategic industry tied to national security.
-"If the U.S. were to ease restrictions on Chinese solar products at the U.S.-China summit, it would effectively mean stepping back from efforts to build a domestic supply chain for a strategic national security asset," analyst Yoon Jae-sung said in a note Wednesday.
-He named Hanwha Solutions and OCI Holdings as top picks in the sector, citing a low likelihood of an unfavorable outcome from the U.S.-China summit.
-Yoon added that any tariff reductions discussed in the talks were expected to focus on non-strategic goods, pointing to Trump's signing of Section 232 measures on polysilicon and its derivatives in August on national security grounds.
-Solar has become a strategic asset spanning AI and semiconductor power demand, semiconductor supply chains, defense and space, making efforts to reduce reliance on Chinese supply increasingly important to Washington, he added.
-Wednesday's stock moves came hours after Hanwha Solutions' solar unit Qcells welcomed actions by the U.S. Department of Commerce and U.S. Customs and Border Protection to curb what it called the "illegal stockpiling" of imported solar panels, as the Trump administration moves to implement Section 232 tariffs on polysilicon and its derivatives.
-Qcells said the measures would help prevent importers from circumventing U.S. trade policy and support domestic solar manufacturing.
-"Flooding the U.S. market with large volumes of imported products is a strategy that companies abroad have long used to undermine American manufacturers," Qcells Global CEO Andy Park said in a statement.
-Qcells, which describes itself as the largest silicon-based solar manufacturer in the U.S., has invested $2.5 billion to expand its solar manufacturing operations in Georgia, where it produces solar cells and panels.
-OCI Holdings also has a significant U.S. presence through its subsidiary OCI Energy, which earlier this month broke ground on new solar facility in Texas.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
-    publishedAt: "2026-09-23T03:08:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "i-don-t-have-a-buoyancy-aid-living-with-c390a65a",
-    title: "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-    titleJa: "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-    summaryJa: "Three 20-somethings tell BBC News how they are navigating life without parental support.",
-    bodyOriginal: `'I don't have a buoyancy aid': Living without the Bank of Mum and Dad
-- Published
-Buying a home or even moving into a rented property is an increasingly unrealistic dream for many young people.
-This summer, BBC Your Voice revealed more than 40% of 25-year-olds were now living with their parents. Dozens of young people told us they were having to rely on the so-called Bank of Mum and Dad to help cover rent, bills and other living costs.
-But what happens if you cannot rely on help from family? Citizens Advice says increasing numbers are struggling to afford everyday essentials like rent and food without support from their parents.
-Three women told us how they are navigating life without that safety net.
-'I want to be independent... so when you get to this kind of thing it's like hitting a wall'
-Eleanor Bell, 23, from East Riding of Yorkshire, has a first-class degree but is struggling to find work
-Eleanor Bell is now 23, but was taken into care when she was 10. She grafted hard to do well at school and got a first-class degree from the University of Central Lancashire.
-After graduating two years ago, she thought the playing field would even out. It hasn't.
-Eleanor says she has applied for more jobs than she can count and had a handful of unsuccessful interviews.
-She's currently living in her boyfriend's home outside Penistone in South Yorkshire, which helps with living costs, but the rural location has made the job hunt harder for someone without a driving licence.
-"I know a lot of people who've got jobs because their mum or dad worked there before them."
-When she saw a BBC article about how many young people now live with their parents, she got in touch.
-"I guess it makes me a bit sad. I'd like to live with my parents... but it made me think about the people like me, the people that don't have that, what are they doing then? Where are they? Who do they have to fall back on?
-"It's like everyone in their 20s is having to tread water, but I haven't been given a buoyancy aid," Eleanor tells the BBC.
-Official figures show that 39% of care leavers aged 19 to 21 in England are not in education, employment or training, compared with around 13% of young people overall.
-"I want to be independent and so when you get to this kind of thing it's like hitting a wall."
-For Eleanor, it's not just financial support and the roof over her head that she's missing.
-"You don't have someone to hold you and go, 'Look I've done the same thing, but don't worry' … that lack of preparation I think really does affect you," she explains.
-"I don't quite know what to do, that's how I feel, just a bit lost. I'm just back to being in the dark without a torch kind of thing, that's what it feels like."
-'I don't buy any luxuries, I rarely do anything fun'
-Sam Barrett, 24, from Sunderland, is studying part-time. She left her full-time job to care for her mum
-In Sunderland, Sam Barrett, 24, feels frustrated that others her age have a financial back-stop that isn't available to her.
-She left her full-time job in the hospitality business to care for her mum and is studying health and social care part-time, but says that Careers Allowance and Universal Credit don't cover her main expenses.
-"Not a lot is coming in, you only get so much being a carer. I don't buy any luxuries, I rarely do anything fun," she says.
-Her mum helps financially when she can, but there's not a lot of money to go around and Sam says she's conscious of that.
-"I've always felt it was a bit unfair growing up and seeing other people being at a massive advantage compared to me. Like a lot of parents would be like, 'here's money for driving lessons, and here's your car', and I can't just do that," she says.
-Sam's angry there isn't more pay for carers like her. "I'm saving the government money by caring for my mam. The government aren't doing anything to help you, they're basically saying just get into debt."
-'My parents were struggling financially, just like I am, just like everyone else'
-Ezgi Polat, 23, from Cambridgeshire, lost her job a year ago and quickly fell behind on rent and bills
-In a recent survey of more than 5,500 people, commissioned by Citizens Advice, 36% adults said they were behind on at least one bill, but for those in their 20s that figure climbs to 57%.
-Ezgi Polat is one of them. When the 23-year-old, from Ramsey in Cambridgeshire, lost her job 12 months ago, her family weren't in a position to help, so she quickly fell behind on rent and bills.
-"My parents were struggling financially, just like I am, just like everyone else.... I got myself in arrears, a lot of debt because I just couldn't afford it - £300 was not covering any of my bills at that point."
-Her local bus service was cancelled, making trips to the job centre increasingly difficult, so her benefits were then cut. She was receiving £360 a month in Universal Credit, but with rent at £460, plus utility bills, council tax and living costs, her total debt spiralled to about £4,000.
-After turning to Citizens Advice for help, her rent arrears were wiped out by the council three months ago, and she's agreed to paying £200 a month to both her electricity and water company in repayment plans.
-She's delighted to have now got work in a warehouse and feels like life is getting back on track, but it's not been an easy road.
-"A lot of older people feel like we're not ambitious enough, or we're not striving hard enough, but they'd be surprised at the amount of people out there so desperate for work and so desperate for support but with nowhere to turn to," she says.
-The latest government figures show that just under a million young people are currently not in employment, education or training.
-A government spokesperson said "We are determined to restore hope and deliver opportunity for young people in every postcode. That's why we are investing £2.5 billion to create opportunities for young people to earn or learn through more apprenticeships, job grants, and training. And for those moving out for the first time, our Renters' Rights Act gives tenants more rights and protection from excessive increases."
-But Luke Young, head of policy at Citizens Advice, thinks young people are trapped between rising costs and a difficult jobs market.
-"For young people right now the divide is growing bigger between those who do have financial support from families and other networks, and then those who don't. Young people who don't have that wider support network are being let down."
-Additional reporting: Adam Clarkson and Elliot Deady
-Related topics
-- Published21 April`,
-    bodyJa: `'I don't have a buoyancy aid': Living without the Bank of Mum and Dad
-- Published
-Buying a home or even moving into a rented property is an increasingly unrealistic dream for many young people.
-This summer, BBC Your Voice revealed more than 40% of 25-year-olds were now living with their parents. Dozens of young people told us they were having to rely on the so-called Bank of Mum and Dad to help cover rent, bills and other living costs.
-But what happens if you cannot rely on help from family? Citizens Advice says increasing numbers are struggling to afford everyday essentials like rent and food without support from their parents.
-Three women told us how they are navigating life without that safety net.
-'I want to be independent... so when you get to this kind of thing it's like hitting a wall'
-Eleanor Bell, 23, from East Riding of Yorkshire, has a first-class degree but is struggling to find work
-Eleanor Bell is now 23, but was taken into care when she was 10. She grafted hard to do well at school and got a first-class degree from the University of Central Lancashire.
-After graduating two years ago, she thought the playing field would even out. It hasn't.
-Eleanor says she has applied for more jobs than she can count and had a handful of unsuccessful interviews.
-She's currently living in her boyfriend's home outside Penistone in South Yorkshire, which helps with living costs, but the rural location has made the job hunt harder for someone without a driving licence.
-"I know a lot of people who've got jobs because their mum or dad worked there before them."
-When she saw a BBC article about how many young people now live with their parents, she got in touch.
-"I guess it makes me a bit sad. I'd like to live with my parents... but it made me think about the people like me, the people that don't have that, what are they doing then? Where are they? Who do they have to fall back on?
-"It's like everyone in their 20s is having to tread water, but I haven't been given a buoyancy aid," Eleanor tells the BBC.
-Official figures show that 39% of care leavers aged 19 to 21 in England are not in education, employment or training, compared with around 13% of young people overall.
-"I want to be independent and so when you get to this kind of thing it's like hitting a wall."
-For Eleanor, it's not just financial support and the roof over her head that she's missing.
-"You don't have someone to hold you and go, 'Look I've done the same thing, but don't worry' … that lack of preparation I think really does affect you," she explains.
-"I don't quite know what to do, that's how I feel, just a bit lost. I'm just back to being in the dark without a torch kind of thing, that's what it feels like."
-'I don't buy any luxuries, I rarely do anything fun'
-Sam Barrett, 24, from Sunderland, is studying part-time. She left her full-time job to care for her mum
-In Sunderland, Sam Barrett, 24, feels frustrated that others her age have a financial back-stop that isn't available to her.
-She left her full-time job in the hospitality business to care for her mum and is studying health and social care part-time, but says that Careers Allowance and Universal Credit don't cover her main expenses.
-"Not a lot is coming in, you only get so much being a carer. I don't buy any luxuries, I rarely do anything fun," she says.
-Her mum helps financially when she can, but there's not a lot of money to go around and Sam says she's conscious of that.
-"I've always felt it was a bit unfair growing up and seeing other people being at a massive advantage compared to me. Like a lot of parents would be like, 'here's money for driving lessons, and here's your car', and I can't just do that," she says.
-Sam's angry there isn't more pay for carers like her. "I'm saving the government money by caring for my mam. The government aren't doing anything to help you, they're basically saying just get into debt."
-'My parents were struggling financially, just like I am, just like everyone else'
-Ezgi Polat, 23, from Cambridgeshire, lost her job a year ago and quickly fell behind on rent and bills
-In a recent survey of more than 5,500 people, commissioned by Citizens Advice, 36% adults said they were behind on at least one bill, but for those in their 20s that figure climbs to 57%.
-Ezgi Polat is one of them. When the 23-year-old, from Ramsey in Cambridgeshire, lost her job 12 months ago, her family weren't in a position to help, so she quickly fell behind on rent and bills.
-"My parents were struggling financially, just like I am, just like everyone else.... I got myself in arrears, a lot of debt because I just couldn't afford it - £300 was not covering any of my bills at that point."
-Her local bus service was cancelled, making trips to the job centre increasingly difficult, so her benefits were then cut. She was receiving £360 a month in Universal Credit, but with rent at £460, plus utility bills, council tax and living costs, her total debt spiralled to about £4,000.
-After turning to Citizens Advice for help, her rent arrears were wiped out by the council three months ago, and she's agreed to paying £200 a month to both her electricity and water company in repayment plans.
-She's delighted to have now got work in a warehouse and feels like life is getting back on track, but it's not been an easy road.
-"A lot of older people feel like we're not ambitious enough, or we're not striving hard enough, but they'd be surprised at the amount of people out there so desperate for work and so desperate for support but with nowhere to turn to," she says.
-The latest government figures show that just under a million young people are currently not in employment, education or training.
-A government spokesperson said "We are determined to restore hope and deliver opportunity for young people in every postcode. That's why we are investing £2.5 billion to create opportunities for young people to earn or learn through more apprenticeships, job grants, and training. And for those moving out for the first time, our Renters' Rights Act gives tenants more rights and protection from excessive increases."
-But Luke Young, head of policy at Citizens Advice, thinks young people are trapped between rising costs and a difficult jobs market.
-"For young people right now the divide is growing bigger between those who do have financial support from families and other networks, and then those who don't. Young people who don't have that wider support network are being let down."
-Additional reporting: Adam Clarkson and Elliot Deady
-Related topics
-- Published21 April`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-22T23:20:31+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf88/live/3e21a580-b699-11f1-bc1f-3f186ca4140c.png",
-    readTime: 10,
-  },
-  {
-    id: "europe-s-car-makers-are-in-crisis-will-t-25012ba0",
-    title: "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    titleJa: "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    summaryJa: "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-    bodyOriginal: `It's green, bulging and intimidating. Ford's latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford's Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.
-Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.
-Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company's UK boss calls the most challenging environment since the invention of the motor car. Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.
-Ford is part of a joint venture with defence specialists General Dynamics and Ricardo bidding for a Ministry of Defence (MoD) contract to supply 9,000 vehicles over the next five to seven years to replace the Army's ageing Land Rover-based fleet.
-Lisa Brankin, chair of Ford UK, says it is a chance to showcase their abilities to respond quickly to defence needs: "As a manufacturer you look at every opportunity that comes at you and this is a great opportunity that we would love to take advantage of."
-This is not the first time Ford has busied itself with defence work.
-Ahead of World War Two, Ford's factory in Dagenham, east London, was the largest car plant in Europe.
-When war broke out, civilian car assembly stopped completely, and the factory was converted entirely to military production. Between 1939 and 1945, the Dagenham plant built 360,000 vehicles for the Allied war effort.
-Ford workers in Manchester manufactured 34,000 Rolls-Royce-designed Merlin engines, which powered Spitfires and Hurricane fighter planes.
-Eighty years later, the UK and European car industries are hoping that the engines of war can help defend against what one supplier told the BBC was a "terminal decline".
-As Europe feels compelled to commit hundreds of billions to ramp up defence spending in the face of the menace from Russia and US reluctance to be Europe's protector, car makers that are under commercial attack from Chinese rivals have taken notice.
-So can the rearmament of Europe save an auto industry and a supply chain facing crisis?
-The shift to defence
-Ford is far from the only car company that sees defence as a growth industry - and one that can utilise the growing overcapacity at car plants across Europe.
-French car maker Renault has signed a strategic agreement with defence giant Thales to produce military drones - targeting an output of up to 1,000 units per month. The French military and Directorate General for Armament want to tap into Renault's mass-production capabilities to bypass traditional, slower defence supply chains.
-Meanwhile, Volkswagen has agreed to sell an under-used factory in Osnabruck, western Germany, which will become a military manufacturing hub in a joint venture with an Israeli-based defence investor.
-Jaguar Land Rover (JLR), which makes the Land Rover, is also bidding for the same contract as Ford - as the Army retires its existing Land Rover-based fleet by 2030. JLR has also established a new dedicated business unit to support its global military ambitions.
-It makes sense for under-utilised auto manufacturing capacity to switch to defence, says Mike Hawes of the Society for Motor Manufacturers and Traders (SMMT) trade association.
-The UK car industry and its suppliers are heavily reliant on a few big manufacturers – Nissan in Sunderland, Toyota in Derbyshire, BMW in Oxfordshire and the biggest of them all by value of output, JLR at multiple sites in the Midlands and Merseyside.
-And Hawes says the supply chain is very vulnerable.
-"UK automotive output has been in decline over the last eight or nine years," he says. "We're probably half of what we were 10 years ago. Now, that's obviously going to hit the supply chain because they're not making the same number of parts. So they've got capacity. They may be quite dependent on one particular manufacturer as well."
-So they will welcome "the opportunity to broaden their customer base and potentially move into defence", he says.
-Just two weeks ago, JLR announced it was cutting 4,000 jobs from its 30,000-strong UK workforce in order to reduce costs to stay competitive with international – particularly Chinese – rivals. Dave Roberts of the firm Evtec, which supplies cooling systems components to JLR, is worried about the implications of this.
-"JLR is the critical mass in the UK automotive manufacturing space," he says. "It is the glue that holds the whole of the sector together. Because remember, when you're making volumes for JLR, they're significantly higher than any other car maker in the UK.
-"If they suffer, the ripples run deeper through the supply chain."
-Earlier this week, major JLR suppliers urged the government to help automotive manufacturers move into aerospace and defence, warning that large-scale car production in the UK faces long-term decline.
-In an open letter to the prime minister, chancellor and West Midlands Mayor Richard Parker, industry leaders argued Britain's automotive supply chain was "not in decline" but "in the wrong market".
-The letter was signed by executives representing businesses with more than 8,600 direct employees, alongside the Confederation of British Metalforming, which represents about 75,000 workers.
-Signatories to the letter said the redundancies were "the first visible crack" in a UK automotive supply chain supporting about 183,000 manufacturing jobs.
-Across Europe, the industry is facing what Sigrid de Vries, director general of the ACEA auto industry manufacturers' association called "a perfect storm". Car makers are spending billions to shift to electric vehicles and insist that government sales targets for EVs are outpacing consumer demand.
-And the EVs people are buying are increasingly from the biggest new threat to the industry – China.
-The China syndrome
-In the early 2000s, Western firms saw China as a land of opportunity. The country's rapidly growing middle class had plenty of money and a seemingly insatiable appetite for cars, including the most profitable upmarket models. It was a lucrative business – the Chinese market once accounted for half of Volkswagen's profits.
-However, it didn't last. China wanted a home-grown car industry and lavish state funding was ploughed into making the country a leader in high-tech businesses, including electric cars.
-Today, the Chinese market is overloaded with brands, both foreign and domestic, and is characterised by cut-throat competition. Chinese car makers have focused their attention on foreign markets, and have used the transition to electric vehicles as a pathway to gaining market share. The likes of BYD, Chery and Geely are moving aggressively into Europe.
-For European brands, all of this could not have happened at a worse time. The loss of the steady stream of profits from China, and the emergence of Chinese rivals on their home turf, has come after they invested heavily in producing electric vehicles (EVs). But EV sales have not increased as quickly as expected. Executives admit they have struggled to match the low production costs and development speed of the Chinese insurgents.
-The result is that European manufacturers are now rushing to cut costs, while wondering what to do with expensive factories capable of producing millions more cars than they are able to sell.
-Volkswagen has already announced plans to cut 100,000 jobs over the next few years. Whereas once closing plants in Germany would have been unthinkable, the company has now shuttered one in Dresden and may shut down four more. That includes a site in Zwickau, where VW spent over €1bn (£857m) converting production lines to build electric vehicles - a process that was completed just four years ago.
-Industry estimates indicate that western European car plants have roughly 2.5 million vehicles worth of annual spare capacity.
-Little wonder that car makers are jealously eyeing soaring defence budgets across Europe.
-Sigrid de Vries says car makers are well placed to help Europe rearm.
-"Many of the capabilities that defence needs are needed for and also delivered by the automotive sector," she says. "So automotive manufacturers and suppliers possess industrial assets, they possess manufacturing expertise, logistics capabilities, also advanced technologies. They have vast and also very integrated supply chains that may be relevant for Europe's broader defence preparedness objective."
-But it is not that simple – security protocols, political and economic rivalries within Europe plus the fact that unless you're actually at war, the volumes will not replace the mass consumer market, all of which present challenges, she says.
-"These are two very different worlds," she says. Governments want to invest in their defence capabilities and that is why it's now, more than ever, interesting for manufacturers and suppliers to see what's possible, but it will not be enough to address the underutilisation of manufacturing capacity we currently see."
-Let the fox into the henhouse?
-If defence can't plug the yawning gaps in UK and European car manufacturing production – is it time for the henhouse to rent a room to the fox?
-In other words, let Chinese companies move into European production facilities?
-To offset the immense fixed costs of running idle assembly lines, legacy European and UK automakers are opening their doors to Chinese rivals.
-Stellantis – owners of the Vauxhall, Fiat, Peugeot and Citroen marques – has taken a 20% stake in Chinese EV maker Leapmotor and production of the Chinese brand started in Poland two years ago. (Leapmotor then moved production to Spain after Poland voted to impose steep tariffs on Chinese EVs while Spain abstained – an example of how trade politics can get complicated.)
-Nissan and Chery International UK have signed a non-binding Memorandum of Understanding for the study of contract manufacturing for Nissan to manufacture Chery vehicles at its Sunderland plant.
-VW CEO Oliver Blume said in April of this year that Volkswagen was considering sharing spare European factory capacity with Chinese joint-venture partners.
-In one sense it could be a win-win. European factories would have extra work while Chinese manufacturers could avoid high tariffs when selling into the US and the EU by making and exporting the cars in and from those markets.
-But building cars in Europe does not automatically mean creating or saving European supply chains.
-Some plants may only perform final assembly while many of the components – especially batteries – may continue to come from China.
-More from InDepth
-War may be coming. Are we psychologically ready?
-- Published3 days ago
-Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine
-- Published14 September
-Car making is still seen as central to countries' sovereign manufacturing capability – in the old days the mantra was: "What's good for General Motors is good for America." You could say the same for Volkswagen, Mercedes and BMW for Germany and JLR for the UK.
-Car plants are often the major employer in their area and support local supply chains, so job losses can hit particularly hard. That's why countries go to great lengths to protect and preserve them.
-Australia is a case in point. When its final locally made car left the production line in 2017, it didn't just lose a car industry, it lost an engineering mindset and key skills, says Dave Roberts of Evtec.
-"Over the next decade... ripple effects crept into all manufacturing," he says. "So they lost infrastructure capability. They lost advanced manufacturing capability.
-"They're vulnerable. They're not resilient in those sectors anymore."
-Ford UK's Lisa Brankin acknowledges 9,000 engines over five to seven years is a far cry from the 90,000 per year the plant used to produce – but she insists every little helps.
-"It is a drop in the ocean but every single opportunity is worth having, isn't it?"
-A spokesperson for the Ministry of Defence says it wants UK industry to play a "central role" in delivering thousands of modern light mobility vehicles. The spokesperson adds: "We are backing British businesses and supporting our defence industrial base with 85% of our defence spending currently staying in the UK, driving reindustrialisation and making defence an engine for growth."
-It's understandable why a declining European car industry wants to gatecrash the spending splurge in the defence sector. But even if they can, right now it is hard to see how they'll ever be able to wield the muscle that they once did.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `It's green, bulging and intimidating. Ford's latest vehicle looks like a pick-up truck that has been through an Incredible Hulk transformation. Based on its popular Ranger series, this beefy number parked outside the front door of Ford's Dagenham plant can carry a load of two tonnes, tow up to four tonnes and is also shouldering the hopes of the 2,000-strong workforce that still makes engines here.
-Inside the factory, the three-litre diesel engines that will power this camo-painted beast drift down a production line that has seen output cut from 90,000 engines a year to about half that over the last decade.
-Ford is hoping that a pivot towards military vehicles can help fill the void created by what the company's UK boss calls the most challenging environment since the invention of the motor car. Once mighty, the European car industry is starting to look puny and is hoping surging defence budgets as Europe re-arms can help it flex its industrial muscles once more.
-Ford is part of a joint venture with defence specialists General Dynamics and Ricardo bidding for a Ministry of Defence (MoD) contract to supply 9,000 vehicles over the next five to seven years to replace the Army's ageing Land Rover-based fleet.
-Lisa Brankin, chair of Ford UK, says it is a chance to showcase their abilities to respond quickly to defence needs: "As a manufacturer you look at every opportunity that comes at you and this is a great opportunity that we would love to take advantage of."
-This is not the first time Ford has busied itself with defence work.
-Ahead of World War Two, Ford's factory in Dagenham, east London, was the largest car plant in Europe.
-When war broke out, civilian car assembly stopped completely, and the factory was converted entirely to military production. Between 1939 and 1945, the Dagenham plant built 360,000 vehicles for the Allied war effort.
-Ford workers in Manchester manufactured 34,000 Rolls-Royce-designed Merlin engines, which powered Spitfires and Hurricane fighter planes.
-Eighty years later, the UK and European car industries are hoping that the engines of war can help defend against what one supplier told the BBC was a "terminal decline".
-As Europe feels compelled to commit hundreds of billions to ramp up defence spending in the face of the menace from Russia and US reluctance to be Europe's protector, car makers that are under commercial attack from Chinese rivals have taken notice.
-So can the rearmament of Europe save an auto industry and a supply chain facing crisis?
-The shift to defence
-Ford is far from the only car company that sees defence as a growth industry - and one that can utilise the growing overcapacity at car plants across Europe.
-French car maker Renault has signed a strategic agreement with defence giant Thales to produce military drones - targeting an output of up to 1,000 units per month. The French military and Directorate General for Armament want to tap into Renault's mass-production capabilities to bypass traditional, slower defence supply chains.
-Meanwhile, Volkswagen has agreed to sell an under-used factory in Osnabruck, western Germany, which will become a military manufacturing hub in a joint venture with an Israeli-based defence investor.
-Jaguar Land Rover (JLR), which makes the Land Rover, is also bidding for the same contract as Ford - as the Army retires its existing Land Rover-based fleet by 2030. JLR has also established a new dedicated business unit to support its global military ambitions.
-It makes sense for under-utilised auto manufacturing capacity to switch to defence, says Mike Hawes of the Society for Motor Manufacturers and Traders (SMMT) trade association.
-The UK car industry and its suppliers are heavily reliant on a few big manufacturers – Nissan in Sunderland, Toyota in Derbyshire, BMW in Oxfordshire and the biggest of them all by value of output, JLR at multiple sites in the Midlands and Merseyside.
-And Hawes says the supply chain is very vulnerable.
-"UK automotive output has been in decline over the last eight or nine years," he says. "We're probably half of what we were 10 years ago. Now, that's obviously going to hit the supply chain because they're not making the same number of parts. So they've got capacity. They may be quite dependent on one particular manufacturer as well."
-So they will welcome "the opportunity to broaden their customer base and potentially move into defence", he says.
-Just two weeks ago, JLR announced it was cutting 4,000 jobs from its 30,000-strong UK workforce in order to reduce costs to stay competitive with international – particularly Chinese – rivals. Dave Roberts of the firm Evtec, which supplies cooling systems components to JLR, is worried about the implications of this.
-"JLR is the critical mass in the UK automotive manufacturing space," he says. "It is the glue that holds the whole of the sector together. Because remember, when you're making volumes for JLR, they're significantly higher than any other car maker in the UK.
-"If they suffer, the ripples run deeper through the supply chain."
-Earlier this week, major JLR suppliers urged the government to help automotive manufacturers move into aerospace and defence, warning that large-scale car production in the UK faces long-term decline.
-In an open letter to the prime minister, chancellor and West Midlands Mayor Richard Parker, industry leaders argued Britain's automotive supply chain was "not in decline" but "in the wrong market".
-The letter was signed by executives representing businesses with more than 8,600 direct employees, alongside the Confederation of British Metalforming, which represents about 75,000 workers.
-Signatories to the letter said the redundancies were "the first visible crack" in a UK automotive supply chain supporting about 183,000 manufacturing jobs.
-Across Europe, the industry is facing what Sigrid de Vries, director general of the ACEA auto industry manufacturers' association called "a perfect storm". Car makers are spending billions to shift to electric vehicles and insist that government sales targets for EVs are outpacing consumer demand.
-And the EVs people are buying are increasingly from the biggest new threat to the industry – China.
-The China syndrome
-In the early 2000s, Western firms saw China as a land of opportunity. The country's rapidly growing middle class had plenty of money and a seemingly insatiable appetite for cars, including the most profitable upmarket models. It was a lucrative business – the Chinese market once accounted for half of Volkswagen's profits.
-However, it didn't last. China wanted a home-grown car industry and lavish state funding was ploughed into making the country a leader in high-tech businesses, including electric cars.
-Today, the Chinese market is overloaded with brands, both foreign and domestic, and is characterised by cut-throat competition. Chinese car makers have focused their attention on foreign markets, and have used the transition to electric vehicles as a pathway to gaining market share. The likes of BYD, Chery and Geely are moving aggressively into Europe.
-For European brands, all of this could not have happened at a worse time. The loss of the steady stream of profits from China, and the emergence of Chinese rivals on their home turf, has come after they invested heavily in producing electric vehicles (EVs). But EV sales have not increased as quickly as expected. Executives admit they have struggled to match the low production costs and development speed of the Chinese insurgents.
-The result is that European manufacturers are now rushing to cut costs, while wondering what to do with expensive factories capable of producing millions more cars than they are able to sell.
-Volkswagen has already announced plans to cut 100,000 jobs over the next few years. Whereas once closing plants in Germany would have been unthinkable, the company has now shuttered one in Dresden and may shut down four more. That includes a site in Zwickau, where VW spent over €1bn (£857m) converting production lines to build electric vehicles - a process that was completed just four years ago.
-Industry estimates indicate that western European car plants have roughly 2.5 million vehicles worth of annual spare capacity.
-Little wonder that car makers are jealously eyeing soaring defence budgets across Europe.
-Sigrid de Vries says car makers are well placed to help Europe rearm.
-"Many of the capabilities that defence needs are needed for and also delivered by the automotive sector," she says. "So automotive manufacturers and suppliers possess industrial assets, they possess manufacturing expertise, logistics capabilities, also advanced technologies. They have vast and also very integrated supply chains that may be relevant for Europe's broader defence preparedness objective."
-But it is not that simple – security protocols, political and economic rivalries within Europe plus the fact that unless you're actually at war, the volumes will not replace the mass consumer market, all of which present challenges, she says.
-"These are two very different worlds," she says. Governments want to invest in their defence capabilities and that is why it's now, more than ever, interesting for manufacturers and suppliers to see what's possible, but it will not be enough to address the underutilisation of manufacturing capacity we currently see."
-Let the fox into the henhouse?
-If defence can't plug the yawning gaps in UK and European car manufacturing production – is it time for the henhouse to rent a room to the fox?
-In other words, let Chinese companies move into European production facilities?
-To offset the immense fixed costs of running idle assembly lines, legacy European and UK automakers are opening their doors to Chinese rivals.
-Stellantis – owners of the Vauxhall, Fiat, Peugeot and Citroen marques – has taken a 20% stake in Chinese EV maker Leapmotor and production of the Chinese brand started in Poland two years ago. (Leapmotor then moved production to Spain after Poland voted to impose steep tariffs on Chinese EVs while Spain abstained – an example of how trade politics can get complicated.)
-Nissan and Chery International UK have signed a non-binding Memorandum of Understanding for the study of contract manufacturing for Nissan to manufacture Chery vehicles at its Sunderland plant.
-VW CEO Oliver Blume said in April of this year that Volkswagen was considering sharing spare European factory capacity with Chinese joint-venture partners.
-In one sense it could be a win-win. European factories would have extra work while Chinese manufacturers could avoid high tariffs when selling into the US and the EU by making and exporting the cars in and from those markets.
-But building cars in Europe does not automatically mean creating or saving European supply chains.
-Some plants may only perform final assembly while many of the components – especially batteries – may continue to come from China.
-More from InDepth
-War may be coming. Are we psychologically ready?
-- Published3 days ago
-Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine
-- Published14 September
-Car making is still seen as central to countries' sovereign manufacturing capability – in the old days the mantra was: "What's good for General Motors is good for America." You could say the same for Volkswagen, Mercedes and BMW for Germany and JLR for the UK.
-Car plants are often the major employer in their area and support local supply chains, so job losses can hit particularly hard. That's why countries go to great lengths to protect and preserve them.
-Australia is a case in point. When its final locally made car left the production line in 2017, it didn't just lose a car industry, it lost an engineering mindset and key skills, says Dave Roberts of Evtec.
-"Over the next decade... ripple effects crept into all manufacturing," he says. "So they lost infrastructure capability. They lost advanced manufacturing capability.
-"They're vulnerable. They're not resilient in those sectors anymore."
-Ford UK's Lisa Brankin acknowledges 9,000 engines over five to seven years is a far cry from the 90,000 per year the plant used to produce – but she insists every little helps.
-"It is a drop in the ocean but every single opportunity is worth having, isn't it?"
-A spokesperson for the Ministry of Defence says it wants UK industry to play a "central role" in delivering thousands of modern light mobility vehicles. The spokesperson adds: "We are backing British businesses and supporting our defence industrial base with 85% of our defence spending currently staying in the UK, driving reindustrialisation and making defence an engine for growth."
-It's understandable why a declining European car industry wants to gatecrash the spending splurge in the defence sector. But even if they can, right now it is hard to see how they'll ever be able to wield the muscle that they once did.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-22T23:11:33+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "will-a-switch-to-light-speed-cut-power-u-645272a8",
-    title: "Will a switch to light speed cut power use at data centres?",
-    titleJa: "Will a switch to light speed cut power use at data centres?",
-    summaryJa: "To save power and add capacity,  data centres are switching from copper wires to tech using light.",
-    bodyOriginal: `Will a switch to light speed cut power use at data centres?
-- Published
-"I think we're at the end of copper," says Chris Sharp, the chief technology officer at data centre operator Digital Reality.
-He's not saying that we are running out of copper, instead Sharp, and many others in the data centre industry, are betting that it will be used less.
-Data centres use vast amounts of the metal: around 400 tonnes, external will go into typical facility of around 100MW (data centre size is measured megawatts, a unit of electrical power).
-Most of that copper is used in the electrical infrastructure needed to power the datacentre and for cooling systems. But up to 70 tonnes is used by the computer servers that do the work of processing data in that 100MW facility.
-Meanwhile, up to 20 tonnes is used for the network wiring connecting up those computer servers.
-It's here, in the spaghetti-like wiring which snakes through a data centre where copper is targeted for replacement.
-"The wires between these GPUs, CPUs, and all this compute are what's slowing us down," says Sharp.
-Data is shunted around data centres in the form of electrons, which travel efficiently in copper wiring.
-Many think there's an even better way of doing that, using light in the form of photons.
-Light has been used for decades for long-distance communications over optical fibre - the data for this article probably travelled down a fibre optic cable at some stage.
-But researchers and companies want to extend fibre's use to inside the data centre.
-It involves intricate engineering, where optical components are connected directly to electrical ones, sometimes on the computer chips themselves.
-The technology is called photonics and the big benefit is that light does not have the heating effects of electricity. Less heat means less energy is needed to cool data centre systems.
-"You can save so much energy," says Callum Littlejohns, deputy director of silicon photonics foundry Cornerstone Labs.
-Photonics are unlikely to make data centres any more popular with the public, but could make them a bit less energy hungry.
-Littlejohns also points out that multiple data streams can be transmitted down the same channel to create more capacity.
-Peter O'Brien, head of research for photonics packaging and systems integration at Ireland's Tyndall Research Institute, said academics and commercial companies alike have been working with photonics for years, but the technology faced multiple manufacturing challenges.
-Now, O'Brien continues, the technology is ready to make the leap from the lab into widespread application.
-"What's happening now with optics and photonics is there's kind of a reset," he says.
-It helps that AI chip giant Nvidia has thrown its weight behind the technology.
-But shifting to photonics is not a straightforward swap, as it brings together different engineering traditions and different supply chains.
-"We've really gotten good at bringing the cost down on that electrical side, how to design it, how to manufacture it, how to test it, how to deploy it," says Andrew Wheeler, senior vice president at Hewlett Packard Labs.
-But he says, the industry is still working out how to bring the cost down.
-Part of the problem is that different elements of the manufacturing process are distributed across the globe. For example final assembly is done in so-called packaging houses, which are clustered in Taiwan.
-Engineering challenges remain. Optical networking devices may generate far less heat but other components within a data centre are still making the local environment hot.
-And that's a problem for optical components which are very sensitive to heat, explains Wheeler. This raises reliability concerns, unless data centre operators and equipment manufacturers can keep within strict thermal limits.
-And while optical networks can carry data at – almost - the speed of light, installing and maintaining them will still proceed at human speed. Network designers, field support engineers, installers, all need to learn new skills around installation and servicing.
-For example, says Sharp, with fibre, "You can't take tight turns. There are little nuances on how to structure that."
-Ultimately, the benefits of optical networking can only be fully realised when light is used for not just carrying data, but for processing it too, says Ofer Shapiro, CEO of optical company Resolight.ai.
-The company is proposing an architecture to replace the traditional electronic network switches that control communications between servers with all optical devices.
-He argues that it doesn't make sense to constantly convert data from photons to electrons and back to photons.
-Optical interconnects between the computer chips and network elements would mean data would remain in the optical domain, saving even more energy, Shapiro argues.
-But that's in the future. More immediately, companies are still working on scaling up photonics manufacturing.
-Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
-"We know we can make it huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
-Photonics components are generally larger than silicon components, used in computer chips.
-Counterintuitively, this means that organizations like Cornerstone can repurpose older silicon manufacturing equipment used for earlier generations of processors.
-One of Cornerstone's manufacturing tools comes from a former Intel production line used to make the Pentium 4 chips released back at the turn of the century.
-Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
-"We know we can make it at a huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
-Related topics
-More Technology of Business
-- Published3 July
-- Published12 June
-- Published26 June`,
-    bodyJa: `Will a switch to light speed cut power use at data centres?
-- Published
-"I think we're at the end of copper," says Chris Sharp, the chief technology officer at data centre operator Digital Reality.
-He's not saying that we are running out of copper, instead Sharp, and many others in the data centre industry, are betting that it will be used less.
-Data centres use vast amounts of the metal: around 400 tonnes, external will go into typical facility of around 100MW (data centre size is measured megawatts, a unit of electrical power).
-Most of that copper is used in the electrical infrastructure needed to power the datacentre and for cooling systems. But up to 70 tonnes is used by the computer servers that do the work of processing data in that 100MW facility.
-Meanwhile, up to 20 tonnes is used for the network wiring connecting up those computer servers.
-It's here, in the spaghetti-like wiring which snakes through a data centre where copper is targeted for replacement.
-"The wires between these GPUs, CPUs, and all this compute are what's slowing us down," says Sharp.
-Data is shunted around data centres in the form of electrons, which travel efficiently in copper wiring.
-Many think there's an even better way of doing that, using light in the form of photons.
-Light has been used for decades for long-distance communications over optical fibre - the data for this article probably travelled down a fibre optic cable at some stage.
-But researchers and companies want to extend fibre's use to inside the data centre.
-It involves intricate engineering, where optical components are connected directly to electrical ones, sometimes on the computer chips themselves.
-The technology is called photonics and the big benefit is that light does not have the heating effects of electricity. Less heat means less energy is needed to cool data centre systems.
-"You can save so much energy," says Callum Littlejohns, deputy director of silicon photonics foundry Cornerstone Labs.
-Photonics are unlikely to make data centres any more popular with the public, but could make them a bit less energy hungry.
-Littlejohns also points out that multiple data streams can be transmitted down the same channel to create more capacity.
-Peter O'Brien, head of research for photonics packaging and systems integration at Ireland's Tyndall Research Institute, said academics and commercial companies alike have been working with photonics for years, but the technology faced multiple manufacturing challenges.
-Now, O'Brien continues, the technology is ready to make the leap from the lab into widespread application.
-"What's happening now with optics and photonics is there's kind of a reset," he says.
-It helps that AI chip giant Nvidia has thrown its weight behind the technology.
-But shifting to photonics is not a straightforward swap, as it brings together different engineering traditions and different supply chains.
-"We've really gotten good at bringing the cost down on that electrical side, how to design it, how to manufacture it, how to test it, how to deploy it," says Andrew Wheeler, senior vice president at Hewlett Packard Labs.
-But he says, the industry is still working out how to bring the cost down.
-Part of the problem is that different elements of the manufacturing process are distributed across the globe. For example final assembly is done in so-called packaging houses, which are clustered in Taiwan.
-Engineering challenges remain. Optical networking devices may generate far less heat but other components within a data centre are still making the local environment hot.
-And that's a problem for optical components which are very sensitive to heat, explains Wheeler. This raises reliability concerns, unless data centre operators and equipment manufacturers can keep within strict thermal limits.
-And while optical networks can carry data at – almost - the speed of light, installing and maintaining them will still proceed at human speed. Network designers, field support engineers, installers, all need to learn new skills around installation and servicing.
-For example, says Sharp, with fibre, "You can't take tight turns. There are little nuances on how to structure that."
-Ultimately, the benefits of optical networking can only be fully realised when light is used for not just carrying data, but for processing it too, says Ofer Shapiro, CEO of optical company Resolight.ai.
-The company is proposing an architecture to replace the traditional electronic network switches that control communications between servers with all optical devices.
-He argues that it doesn't make sense to constantly convert data from photons to electrons and back to photons.
-Optical interconnects between the computer chips and network elements would mean data would remain in the optical domain, saving even more energy, Shapiro argues.
-But that's in the future. More immediately, companies are still working on scaling up photonics manufacturing.
-Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
-"We know we can make it huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
-Photonics components are generally larger than silicon components, used in computer chips.
-Counterintuitively, this means that organizations like Cornerstone can repurpose older silicon manufacturing equipment used for earlier generations of processors.
-One of Cornerstone's manufacturing tools comes from a former Intel production line used to make the Pentium 4 chips released back at the turn of the century.
-Littlejohns says this ability to reuse knowledge gained through electronics manufacturing will ultimately help lower the cost of photonics.
-"We know we can make it at a huge scale, so that's why it's such an interesting technology, because it can underpin many applications."
-Related topics
-More Technology of Business
-- Published3 July
-- Published12 June
-- Published26 June`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-22T23:03:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
-    readTime: 10,
-  },
-  {
-    id: "rich-nations-must-cut-debt-as-global-sho-3645963d",
-    title: "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
-    titleJa: "Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC",
-    summaryJa: "In an interview with the BBC, Kristalina Georgieva says economic shocks had pushed \"debt levels up like a staircase not to heaven\".",
-    bodyOriginal: `Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC
-- Published
-The world's advanced economies including the UK and US need to cut borrowing and reduce debt levels following weeks of spiralling government interest costs, the head of the International Monetary Fund (IMF) has warned.
-In an exclusive interview, Kristalina Georgieva said global economic shocks had been "pushing debt levels up like a staircase not to heaven" but that governments had taken "no action to contain that service cost".
-"[It's] time to take that action," she said, adding that "courage" was needed by politicians to take the necessary steps.
-The intervention comes as government borrowing costs have surged in response to wars disrupting the supply of oil, which has fuelled inflation.
-Higher global borrowing costs have hit the UK government in the run-up to UK Prime Minister Andy Burnham's first Budget next month, with speculation building over potential tax and spending policies.
-The latest figures show borrowing - the difference between tax receipts and government spending - was £18.3bn ($24.4bn) in August, almost a fifth higher than the year before and higher than official forecasts. Meanwhile debt interest for the month was the highest August figure since monthly records began in 1997.
-Higher borrowing costs have also hit the US, the world's largest economy, which has seen its debt pile surpass $40tn. The amount has doubled within the space of a decade, prompting concerns at home and abroad.
-On the sidelines of the United Nations General Assembly, Georgieva said the IMF's message to advanced economies was that while there were economic factors occurring outside the control of governments, they did have command over domestic policies.
-"There are these two things that must be done: bring debt levels down, put fiscal consolidation as a priority, and make sure that the central banks deliver on their mandate for price stability," she said.
-"It is impossible to stress strongly enough how critical it is to get the courage to take the steps that are necessary. These are politically tough steps to take, but necessary steps to take."
-Asked specifically about the UK's higher interest costs compared to other major economies, Georgieva said its position was "not very different" from others.
-She pointed to "fairly consistent action" on lowering debt and praised planning and housing reforms, adding that advanced economies "don't have the cash" to boost growth and so had to rely on reforms to encourage the private sector to invest.
-AI could present 'financial stability risk'
-Governments around the world raise money by selling bonds - essentially an IOU - and in return pay interest to the investment funds that buy them.
-Concerns over inflation eating away at returns has sent the interest rates on bonds - known as yields - higher in recent months.
-But there are other factors pushing yields up, including increasing competition in the bond market from large tech companies looking to raise huge amounts of money to invest in artificial intelligence (AI) development.
-On AI, Georgieva referenced recent concerns about loss of safe control over such systems as a potential financial stability problem, alongside debt levels.
-"If we see more incidents when AI takes [on a] life of its own, then we can be faced with a significant financial stability risk," she said.
-The IMF's managing director repeated the influential body's assessment that the global economy was affected by two forces "pushing in opposite directions" - the energy price shock and investment in AI.
-She said it was important for the low exports of oil and gas from the Gulf "to resume in a durable manner, for the energy supply shock to finally be in the rearview mirror".
-"That is a very significant step to normalisation," she said, but acknowledged it was yet to happen.`,
-    bodyJa: `Rich nations must cut debt as global shocks push up borrowing costs, IMF chief tells BBC
-- Published
-The world's advanced economies including the UK and US need to cut borrowing and reduce debt levels following weeks of spiralling government interest costs, the head of the International Monetary Fund (IMF) has warned.
-In an exclusive interview, Kristalina Georgieva said global economic shocks had been "pushing debt levels up like a staircase not to heaven" but that governments had taken "no action to contain that service cost".
-"[It's] time to take that action," she said, adding that "courage" was needed by politicians to take the necessary steps.
-The intervention comes as government borrowing costs have surged in response to wars disrupting the supply of oil, which has fuelled inflation.
-Higher global borrowing costs have hit the UK government in the run-up to UK Prime Minister Andy Burnham's first Budget next month, with speculation building over potential tax and spending policies.
-The latest figures show borrowing - the difference between tax receipts and government spending - was £18.3bn ($24.4bn) in August, almost a fifth higher than the year before and higher than official forecasts. Meanwhile debt interest for the month was the highest August figure since monthly records began in 1997.
-Higher borrowing costs have also hit the US, the world's largest economy, which has seen its debt pile surpass $40tn. The amount has doubled within the space of a decade, prompting concerns at home and abroad.
-On the sidelines of the United Nations General Assembly, Georgieva said the IMF's message to advanced economies was that while there were economic factors occurring outside the control of governments, they did have command over domestic policies.
-"There are these two things that must be done: bring debt levels down, put fiscal consolidation as a priority, and make sure that the central banks deliver on their mandate for price stability," she said.
-"It is impossible to stress strongly enough how critical it is to get the courage to take the steps that are necessary. These are politically tough steps to take, but necessary steps to take."
-Asked specifically about the UK's higher interest costs compared to other major economies, Georgieva said its position was "not very different" from others.
-She pointed to "fairly consistent action" on lowering debt and praised planning and housing reforms, adding that advanced economies "don't have the cash" to boost growth and so had to rely on reforms to encourage the private sector to invest.
-AI could present 'financial stability risk'
-Governments around the world raise money by selling bonds - essentially an IOU - and in return pay interest to the investment funds that buy them.
-Concerns over inflation eating away at returns has sent the interest rates on bonds - known as yields - higher in recent months.
-But there are other factors pushing yields up, including increasing competition in the bond market from large tech companies looking to raise huge amounts of money to invest in artificial intelligence (AI) development.
-On AI, Georgieva referenced recent concerns about loss of safe control over such systems as a potential financial stability problem, alongside debt levels.
-"If we see more incidents when AI takes [on a] life of its own, then we can be faced with a significant financial stability risk," she said.
-The IMF's managing director repeated the influential body's assessment that the global economy was affected by two forces "pushing in opposite directions" - the energy price shock and investment in AI.
-She said it was important for the low exports of oil and gas from the Gulf "to resume in a durable manner, for the energy supply shock to finally be in the rearview mirror".
-"That is a very significant step to normalisation," she said, but acknowledged it was yet to happen.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-22T23:01:28+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e08/live/faec7d00-b6be-11f1-9432-8739e6adbfdf.jpg",
-    readTime: 10,
   },
 ];
 
