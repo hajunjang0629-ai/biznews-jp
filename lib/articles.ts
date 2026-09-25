@@ -15,6 +15,542 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "see-which-incumbents-have-the-biggest-ca-b0542418",
+    title: "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
+    titleJa: "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
+    summaryJa: "Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.",
+    bodyOriginal: `The most competitive races for control of the House of Representatives in the 2026 midterm election may be toss-ups on the political map. But in the most fiercely contested districts, one candidate often holds a massive financial edge.
+In 11 of the 19 incumbent-versus-challenger matchups rated as "toss ups" by The Cook Political Report with Amy Walter, a clear financial divide emerged: One campaign had at least twice as much money available as the other, according to Federal Election Commission data compiled by OpenSecrets, a nonprofit, nonpartisan organization that tracks money in politics. In every one of those races, the incumbent held that commanding lead.
+The latest uniform quarterly reports covered activity through June 30, though some candidates have since filed additional reports tied to their states' primary calendars. CNBC used figures from the most recent FEC reporting period available for each candidate as of Sept. 18.
+The pattern cuts across party lines, but it matters especially for Republicans because the GOP is defending most of the seats at the center of the House battlefield. The Cook Report currently rates 21 House races as toss-ups, including 16 Republican-held seats and five Democratic-held seats.
+In Michigan's 7th District, Republican Rep. Tom Barrett had about $2.9 million on hand compared with roughly $383,000 for Democratic challenger William Lawrence — a more than 7-to-1 advantage.
+Republican Rep. Gabe Evans had about $3.9 million available in Colorado's 8th District compared with roughly $601,000 for Democratic challenger Manny Rutinel. And in California's 22nd District, Republican Rep. David Valadao held about $3.4 million, nearly six times the roughly $572,000 held by Democratic challenger Randy Villegas.
+Democratic incumbents have built large cushions of their own. Democratic Rep. Marcy Kaptur had about $3.5 million on hand in Ohio's 9th District, more than seven times the amount available to Republican challenger Derek Merrin. Democratic Reps. Jared Moskowitz of Florida and Texas's Vicente Gonzalez also held more than three times as much cash as their Republican opponents.
+But incumbency does not guarantee the advantage.
+Democratic challengers had more cash than Republican incumbents in both Iowa toss-up races and two of Pennsylvania's three.
+Christina Bohannan had about $5.4 million on hand compared with roughly $4.7 million for Republican Rep. Mariannette Miller-Meeks in Iowa's 1st District.
+In Pennsylvania's 10th District, Democrat Janelle Stelson had nearly $4.5 million available compared with about $2.8 million for Republican Rep. Scott Perry.
+Paige Cognetti also led Republican Rep. Rob Bresnahan in Pennsylvania's 8th District, while Democrat Elaine Luria held a narrow cash advantage over Republican Rep. Jen Kiggans, who defeated Luria in 2024, in Virginia's 2nd District.
+Still, the challenger advantages were generally much smaller. Among the 21 races CNBC analyzed, six challengers led incumbents in cash, but none had twice as much money as the sitting member. By contrast, 11 incumbents held at least a 2-to-1 advantage.
+Cash on hand offers a different view than top-line fundraising because it shows what campaigns still have available after spending as Election Day approaches. It also captures only part of the money flowing into these contests.
+Super PACs and other groups can independently spend to support or oppose candidates without those dollars flowing through the candidates' campaign accounts, under federal campaign finance rules.
+The next quarterly reports, covering activity through Sept. 30, are due Oct. 15.`,
+    bodyJa: `The most competitive races for control of the House of Representatives in the 2026 midterm election may be toss-ups on the political map. But in the most fiercely contested districts, one candidate often holds a massive financial edge.
+In 11 of the 19 incumbent-versus-challenger matchups rated as "toss ups" by The Cook Political Report with Amy Walter, a clear financial divide emerged: One campaign had at least twice as much money available as the other, according to Federal Election Commission data compiled by OpenSecrets, a nonprofit, nonpartisan organization that tracks money in politics. In every one of those races, the incumbent held that commanding lead.
+The latest uniform quarterly reports covered activity through June 30, though some candidates have since filed additional reports tied to their states' primary calendars. CNBC used figures from the most recent FEC reporting period available for each candidate as of Sept. 18.
+The pattern cuts across party lines, but it matters especially for Republicans because the GOP is defending most of the seats at the center of the House battlefield. The Cook Report currently rates 21 House races as toss-ups, including 16 Republican-held seats and five Democratic-held seats.
+In Michigan's 7th District, Republican Rep. Tom Barrett had about $2.9 million on hand compared with roughly $383,000 for Democratic challenger William Lawrence — a more than 7-to-1 advantage.
+Republican Rep. Gabe Evans had about $3.9 million available in Colorado's 8th District compared with roughly $601,000 for Democratic challenger Manny Rutinel. And in California's 22nd District, Republican Rep. David Valadao held about $3.4 million, nearly six times the roughly $572,000 held by Democratic challenger Randy Villegas.
+Democratic incumbents have built large cushions of their own. Democratic Rep. Marcy Kaptur had about $3.5 million on hand in Ohio's 9th District, more than seven times the amount available to Republican challenger Derek Merrin. Democratic Reps. Jared Moskowitz of Florida and Texas's Vicente Gonzalez also held more than three times as much cash as their Republican opponents.
+But incumbency does not guarantee the advantage.
+Democratic challengers had more cash than Republican incumbents in both Iowa toss-up races and two of Pennsylvania's three.
+Christina Bohannan had about $5.4 million on hand compared with roughly $4.7 million for Republican Rep. Mariannette Miller-Meeks in Iowa's 1st District.
+In Pennsylvania's 10th District, Democrat Janelle Stelson had nearly $4.5 million available compared with about $2.8 million for Republican Rep. Scott Perry.
+Paige Cognetti also led Republican Rep. Rob Bresnahan in Pennsylvania's 8th District, while Democrat Elaine Luria held a narrow cash advantage over Republican Rep. Jen Kiggans, who defeated Luria in 2024, in Virginia's 2nd District.
+Still, the challenger advantages were generally much smaller. Among the 21 races CNBC analyzed, six challengers led incumbents in cash, but none had twice as much money as the sitting member. By contrast, 11 incumbents held at least a 2-to-1 advantage.
+Cash on hand offers a different view than top-line fundraising because it shows what campaigns still have available after spending as Election Day approaches. It also captures only part of the money flowing into these contests.
+Super PACs and other groups can independently spend to support or oppose candidates without those dollars flowing through the candidates' campaign accounts, under federal campaign finance rules.
+The next quarterly reports, covering activity through Sept. 30, are due Oct. 15.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/house-midterms-toss-ups-campaign-cash-incumbents.html",
+    publishedAt: "2026-09-25T11:17:27+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "iran-offers-to-reopen-strait-of-hormuz-w-fb84d05f",
+    title: "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+    titleJa: "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+    summaryJa: "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+    bodyOriginal: `Iran's Foreign Minister Abbas Araghchi has proposed reopening the strategically vital Strait of Hormuz and resuming nuclear talks with the U.S. within seven days if the Trump administration accepts its conditions.
+The latest offer comes shortly after Iranian President Masoud Pezeshkian delivered a defiant response to President Donald Trump's "annihilation" threat at the United Nations General Assembly (UNGA) this week, and nearly seven months after the U.S. and Israel launched their war against Tehran.
+"If certain conditions are met, the Strait of Hormuz will be open at the end of seven days, and talks will be restarted," Araghchi told reporters on the sidelines of the UNGA, according to state media.
+"The conditions we have asked the U.S. to meet are nothing new, nothing more than what was already in the Islamabad MOU, which was signed by the U.S. President," he added.
+The Islamabad Memorandum of Understanding refers to a June ceasefire agreement between the U.S. and Iran that ultimately collapsed in early July. The Trump administration has previously said it will not return to the terms of the June agreement.
+Oil prices were slightly lower on Friday. International benchmark Brent crude futures with November expiry traded 1% lower at $105.56 per barrel, while U.S. West Texas Intermediate futures with November expiry were last seen down 1.8% at $92.94.
+Iran's Pezeshkian said Thursday that it is up to the U.S. to decide whether to end their seven-month war, amid continued missile strikes in the Middle East and a fresh push by China to help broker a peace resolution.
+"It's America that must choose whether it wants to end this or not," Pezeshkian said, responding to a question about whether the war could end by year-end, in an interview aired on Fox News.
+The remarks came as the Houthis fired dozens of missiles and drones at Saudi targets on Friday morning, according to Saudi authorities, who said they intercepted six ballistic missiles.
+Emergency alerts were issued in Mecca, Jeddah and Yanbu. Saudi Arabia, Turkey and Pakistan planned an urgent meeting of their chiefs of staff to discuss ways to support the kingdom under the Mecca Joint Defense Agreement.
+Pezeshkian has sought to distance Tehran from the escalation, telling Fox News "the Houthis are responsible for their own actions" and that Iran is "not at war with Saudi Arabia." The Houthis, he said, "have their own issues."
+Saudi Arabia's Grand Mufti struck a starkly different tone, telling troops to be ready "to lay down their lives" to fight the Houthis until the group is ousted from power.
+Trump-Xi talks
+Vessel transits through the Strait of Hormuz, normally the route for about a fifth of global oil supply, fell to 9, far below peacetime levels, according to Reuters, citing preliminary ship-tracking data showed on Friday.
+Diplomatically, the war has become entangled with this week's U.S.-China summit in Washington. Chinese President Xi Jinping is on a three-day state visit to the U.S., meeting with President Donald Trump on issues spanning trade, artificial intelligence, Taiwan and Iran.
+Zhai Jun, China's special envoy for the Middle East, said at an event in Singapore that "the Middle East situation was a big issue in the leaders' discussion that just took place, and the consensus they reached there will be critical to cooling the temperature in the conflict."
+Trump has sought Beijing's help pressuring Tehran toward a settlement, after indirect U.S.-Iran talks resumed on the sidelines of the UN General Assembly in New York this week.`,
+    bodyJa: `Iran's Foreign Minister Abbas Araghchi has proposed reopening the strategically vital Strait of Hormuz and resuming nuclear talks with the U.S. within seven days if the Trump administration accepts its conditions.
+The latest offer comes shortly after Iranian President Masoud Pezeshkian delivered a defiant response to President Donald Trump's "annihilation" threat at the United Nations General Assembly (UNGA) this week, and nearly seven months after the U.S. and Israel launched their war against Tehran.
+"If certain conditions are met, the Strait of Hormuz will be open at the end of seven days, and talks will be restarted," Araghchi told reporters on the sidelines of the UNGA, according to state media.
+"The conditions we have asked the U.S. to meet are nothing new, nothing more than what was already in the Islamabad MOU, which was signed by the U.S. President," he added.
+The Islamabad Memorandum of Understanding refers to a June ceasefire agreement between the U.S. and Iran that ultimately collapsed in early July. The Trump administration has previously said it will not return to the terms of the June agreement.
+Oil prices were slightly lower on Friday. International benchmark Brent crude futures with November expiry traded 1% lower at $105.56 per barrel, while U.S. West Texas Intermediate futures with November expiry were last seen down 1.8% at $92.94.
+Iran's Pezeshkian said Thursday that it is up to the U.S. to decide whether to end their seven-month war, amid continued missile strikes in the Middle East and a fresh push by China to help broker a peace resolution.
+"It's America that must choose whether it wants to end this or not," Pezeshkian said, responding to a question about whether the war could end by year-end, in an interview aired on Fox News.
+The remarks came as the Houthis fired dozens of missiles and drones at Saudi targets on Friday morning, according to Saudi authorities, who said they intercepted six ballistic missiles.
+Emergency alerts were issued in Mecca, Jeddah and Yanbu. Saudi Arabia, Turkey and Pakistan planned an urgent meeting of their chiefs of staff to discuss ways to support the kingdom under the Mecca Joint Defense Agreement.
+Pezeshkian has sought to distance Tehran from the escalation, telling Fox News "the Houthis are responsible for their own actions" and that Iran is "not at war with Saudi Arabia." The Houthis, he said, "have their own issues."
+Saudi Arabia's Grand Mufti struck a starkly different tone, telling troops to be ready "to lay down their lives" to fight the Houthis until the group is ousted from power.
+Trump-Xi talks
+Vessel transits through the Strait of Hormuz, normally the route for about a fifth of global oil supply, fell to 9, far below peacetime levels, according to Reuters, citing preliminary ship-tracking data showed on Friday.
+Diplomatically, the war has become entangled with this week's U.S.-China summit in Washington. Chinese President Xi Jinping is on a three-day state visit to the U.S., meeting with President Donald Trump on issues spanning trade, artificial intelligence, Taiwan and Iran.
+Zhai Jun, China's special envoy for the Middle East, said at an event in Singapore that "the Middle East situation was a big issue in the leaders' discussion that just took place, and the consensus they reached there will be critical to cooling the temperature in the conflict."
+Trump has sought Beijing's help pressuring Tehran toward a settlement, after indirect U.S.-Iran talks resumed on the sidelines of the UN General Assembly in New York this week.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+    publishedAt: "2026-09-25T11:14:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "uk-diesel-price-close-to-all-time-high-8fc7b7c0",
+    title: "UK diesel price close to all-time high",
+    titleJa: "UK diesel price close to all-time high",
+    summaryJa: "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+    bodyOriginal: `UK diesel price close to all-time high
+- Published
+Diesel prices in the UK are expected to hit record levels over the weekend as the fallout from the US-Israel war with Iran continues to drive up costs.
+The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body. That's close to the all-time high of 199.09p recorded on 25 June 2022, following Russia's full-scale invasion of Ukraine.
+Simon Williams, head of policy at RAC, said the June 2022 high would "almost certainly be surpassed over the weekend as retailers continue to pass on the increases they're seeing when they buy new supply".
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
+Motor fuel prices fell back when the US and Iran agreed in June to a framework deal to end the fighting, but rose again as tensions resurfaced.
+Meanwhile, US President Donald Trump has responded to rising diesel prices by mulling a ban on US diesel producers selling overseas, in a move which could push up the UK price even higher.
+How do wholesale oil prices affect the cost of petrol and diesel at the pump?
+Crude oil is a key ingredient in petrol and diesel, which means that higher wholesale costs make filling up a car more expensive. The price of petrol and diesel is also heavily influenced by demand and refining capacity.
+Analysts say every $10 (£7.44) per barrel increase in the oil price pushes up pump prices by roughly 7p a litre.
+Since the war began, the price of a barrel of Brent crude – the global benchmark for wholesale oil prices – has been very volatile.
+Generally speaking, news of further conflict drives the price up while hopes of an end to the war pushes the price down.
+Before the conflict, Brent was about $70 a barrel, but the fighting saw it peak at above $120.
+In early July, after the framework deal was signed, prices fell back to near the $70 a barrel mark.
+The price climbed back up again after peace talks collapsed and it is now above $100 a barrel.
+What has happened to petrol and diesel prices in the UK?
+Before the war began, the average price of petrol was 132.83p per litre and diesel was 142.38p.
+At 198.32p for a litre of diesel, the price is now near a record high.
+Meanwhile, petrol has hit an average 173.6p a litre, which is the highest in more than four years but lower than its peak of 191.5p during the summer of 2022.
+Williams said: "Sadly for drivers, there appears to be no end in sight to high prices at the pumps."
+Because transporting oil is a slow process, price movements in wholesale oil markets take about a fortnight to show at the pump.
+Fuel retailers have denied accusations of price gouging during the conflict. The official markets regulator said it had "not seen evidence of retailers actively changing their pricing strategies to take advantage of the crisis".
+A government scheme called Fuel Finder, external lets drivers compare the cost of fuel offered by petrol stations across the UK.
+In May, the then Prime Minister Sir Keir Starmer said a planned 5p increase in fuel duty due in September would be postponed until the end of December because of the conflict.
+RAC has said there is "a very strong case" for leaving fuel duty at its current level, at least until the end of the Parliament.
+Why has the Iran war had a big impact on oil prices?
+The Middle East conflict sent global oil prices soaring as it effectively closed the Strait of Hormuz — one of the world's key water transport routes for oil, liquid natural gas and other essential commodities — limiting global supplies.
+About 20% of the world's oil and liquefied natural gas normally passes through the waterway.
+Even if a deal is agreed to reopen the strait, experts warn it will take time before normal levels of shipping through the Strait of Hormuz resume, and the impact of the war will continue to affect the global economy for potentially months to come.
+Will Trump ban US diesel exports?
+While Trump has suggested he might ban US producers from selling diesel overseas, he has not done it yet and views differ on how serious this threat is.
+If it does happen, many agree it would hurt the countries which heavily depend on US diesel, such as the UK and several European countries.
+Others note that, while the ban would be likely to reduce US diesel prices in the short-term, it could have unintended effects that could hurt US production – and put pressure on US diesel prices – in the long-term.
+Why and how is US blockading Iranian ports in Strait of Hormuz?
+- Published30 April
+Oil price predicted to remain above $100 for rest of year
+- Published11 May
+Where does the UK get its oil and gas?
+The UK is heavily reliant on oil and gas imports, with the majority coming from the US and Norway.
+The price of oil on the global market determines how much the UK pays for it.
+Although the UK does get some oil from the North Sea, most of that is exported for refining elsewhere.
+You can also send us your questions by following this link
+Reporting by Faarea Masud, Jemma Crew, Alex Daniel, Michael Race, Mitchell Labiak, Emer Moreau and Miguel Roca-Terry
+Get in touch
+How have you been affected by the price rises? Share your experiences
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    bodyJa: `UK diesel price close to all-time high
+- Published
+Diesel prices in the UK are expected to hit record levels over the weekend as the fallout from the US-Israel war with Iran continues to drive up costs.
+The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body. That's close to the all-time high of 199.09p recorded on 25 June 2022, following Russia's full-scale invasion of Ukraine.
+Simon Williams, head of policy at RAC, said the June 2022 high would "almost certainly be surpassed over the weekend as retailers continue to pass on the increases they're seeing when they buy new supply".
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
+Motor fuel prices fell back when the US and Iran agreed in June to a framework deal to end the fighting, but rose again as tensions resurfaced.
+Meanwhile, US President Donald Trump has responded to rising diesel prices by mulling a ban on US diesel producers selling overseas, in a move which could push up the UK price even higher.
+How do wholesale oil prices affect the cost of petrol and diesel at the pump?
+Crude oil is a key ingredient in petrol and diesel, which means that higher wholesale costs make filling up a car more expensive. The price of petrol and diesel is also heavily influenced by demand and refining capacity.
+Analysts say every $10 (£7.44) per barrel increase in the oil price pushes up pump prices by roughly 7p a litre.
+Since the war began, the price of a barrel of Brent crude – the global benchmark for wholesale oil prices – has been very volatile.
+Generally speaking, news of further conflict drives the price up while hopes of an end to the war pushes the price down.
+Before the conflict, Brent was about $70 a barrel, but the fighting saw it peak at above $120.
+In early July, after the framework deal was signed, prices fell back to near the $70 a barrel mark.
+The price climbed back up again after peace talks collapsed and it is now above $100 a barrel.
+What has happened to petrol and diesel prices in the UK?
+Before the war began, the average price of petrol was 132.83p per litre and diesel was 142.38p.
+At 198.32p for a litre of diesel, the price is now near a record high.
+Meanwhile, petrol has hit an average 173.6p a litre, which is the highest in more than four years but lower than its peak of 191.5p during the summer of 2022.
+Williams said: "Sadly for drivers, there appears to be no end in sight to high prices at the pumps."
+Because transporting oil is a slow process, price movements in wholesale oil markets take about a fortnight to show at the pump.
+Fuel retailers have denied accusations of price gouging during the conflict. The official markets regulator said it had "not seen evidence of retailers actively changing their pricing strategies to take advantage of the crisis".
+A government scheme called Fuel Finder, external lets drivers compare the cost of fuel offered by petrol stations across the UK.
+In May, the then Prime Minister Sir Keir Starmer said a planned 5p increase in fuel duty due in September would be postponed until the end of December because of the conflict.
+RAC has said there is "a very strong case" for leaving fuel duty at its current level, at least until the end of the Parliament.
+Why has the Iran war had a big impact on oil prices?
+The Middle East conflict sent global oil prices soaring as it effectively closed the Strait of Hormuz — one of the world's key water transport routes for oil, liquid natural gas and other essential commodities — limiting global supplies.
+About 20% of the world's oil and liquefied natural gas normally passes through the waterway.
+Even if a deal is agreed to reopen the strait, experts warn it will take time before normal levels of shipping through the Strait of Hormuz resume, and the impact of the war will continue to affect the global economy for potentially months to come.
+Will Trump ban US diesel exports?
+While Trump has suggested he might ban US producers from selling diesel overseas, he has not done it yet and views differ on how serious this threat is.
+If it does happen, many agree it would hurt the countries which heavily depend on US diesel, such as the UK and several European countries.
+Others note that, while the ban would be likely to reduce US diesel prices in the short-term, it could have unintended effects that could hurt US production – and put pressure on US diesel prices – in the long-term.
+Why and how is US blockading Iranian ports in Strait of Hormuz?
+- Published30 April
+Oil price predicted to remain above $100 for rest of year
+- Published11 May
+Where does the UK get its oil and gas?
+The UK is heavily reliant on oil and gas imports, with the majority coming from the US and Norway.
+The price of oil on the global market determines how much the UK pays for it.
+Although the UK does get some oil from the North Sea, most of that is exported for refining elsewhere.
+You can also send us your questions by following this link
+Reporting by Faarea Masud, Jemma Crew, Alex Daniel, Michael Race, Mitchell Labiak, Emer Moreau and Miguel Roca-Terry
+Get in touch
+How have you been affected by the price rises? Share your experiences
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-25T10:50:49+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trump-and-xi-exchange-warm-words-at-stat-7b2b1868",
+    title: "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+    titleJa: "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+    summaryJa: "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+    bodyOriginal: `Trump and Xi exchange warm words at state dinner but little progress on key issues
+- Published
+US President Donald Trump and China's President Xi Jinping exchanged warm words at a lavish White House state dinner but gave little indication of progress on pressing issues.
+Xi stressed that they should ensure AI remain "under human control" and act "as responsible major countries", while Trump toasted a future of "harmony, peace and success" for both nations.
+But tensions remain despite the diplomatic niceties, including over Taiwan - with Xi urging Trump earlier in the day to take the "correct position" on the self-governing island which Beijing claims, amid a weapons package paused by Trump.
+Billionaire business leaders and US tech CEOs joined the leaders at the extravagant dinner late on Thursday.
+Their arrival was marked by protesters shouting from just outside the White House gates, some of whom were arrested.
+Trump lavished praise on Xi during his first visit to the US in over a decade, telling those attending the dinner that while the two countries had "different systems", they had "never gotten along better".
+Xi meanwhile welcomed the "historic juncture" in US-China relations - and said both leaders' ambitions could "surely be mutually reinforcing".
+"China and the United States must act as responsible major countries to meet the expectations of our peoples, keep pace with the trend of our times, and explore a new approach for major countries to get along with each other," he said.
+While Xi said he and Trump had shared "in-depth exchanges and reached common understanding on many issues", little to no mention was made of the crucial matters which divide the leaders of the world's two most powerful countries.
+China believes the US is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.
+Trump has meanwhile been expected to aim for deals around trade and tariffs during the visit – like lowering Chinese tariffs on American goods, increasing imports of Chinese rare earth minerals, and increasing exports of US agricultural products.
+Trump has been blunt about his ambitions for artificial intelligence (AI) - and clear that he considers China to be the US's main rival for its development.
+But beyond Xi's reference to AI remaining under "human control", little indication was given of what progress the two leaders may have made on the issue - if any - during their talks.
+The dinner also came just hours after Chinese state media reported Xi had, behind closed doors, advised Washington to handle "with prudence" its approach to Taiwan.
+Washington is yet to comment publicly on the remarks, and the matter was another neither leader addressed late on Thursday.
+The US is legally bound to provide Taiwan with the means to defend itself, but Trump delayed approving a $14bn (£11bn) arms package for it after Xi in May warned that mishandling the issue could cause the two countries to "collide or even enter into conflict".
+At the time, Trump called it a "very good negotiating chip" with Beijing.
+Xi visit to Washington all pomp but little progress so far
+- Published13 hours ago
+Trump and Xi come face-to-face as US and China battle to win the AI race
+- Published1 day ago
+Xi got Trump's red carpet welcome - but not everything he wanted
+- Published7 hours ago
+The evening instead marked a continuation of the lavish welcome Xi has so far received in the US.
+Trump presented the Chinese president with a sculpture of a bald eagle - America's national symbol - saying it embodied "the free and soaring spirit of America". First Lady Melania had participated in its design, Trump added.
+Others in attendance included key White House figures, such as Defence Secretary Pete Hegseth, chief of staff Monica Crowley, and Trump's son-in-law Jared Kushner.
+They were joined by scores of US officials, as well as conservative broadcasters, tech industry bosses, social media CEOs and corporate executives.
+Apple's Tim Cook and Nvidia's Jensen Huang were seated at the same table as Trump and Xi, as was Elon Musk, who previously worked in Trump's administration leading the effort to shrink government.
+OpenAI's Sam Altman, Google's Sundar Pichai, and Amazon's Jeff Bezos were also present, as were Mark Zuckerberg and Jeff Yass, the American billionaire who owns a share of TikTok.
+The leaders of companies including General Motors, Visa, Paramount Skydance and ExxonMobil could also be seen in the room.
+"Everybody wanted to be there," Trump said ahead of the event. "I would say you have the entire tech world, the entire banking world, and a lot more."
+One notable absence was Anthropic - one of the biggest and most valuable AI firms in the world. The BBC has asked Anthropic if it was invited, or if they chose not to be there.
+The office of the First Lady Melania Trump, which planned the event, said the dinner menu would showcase "American ingredients with subtle Chinese influence".
+The first course was yellow squash, wild mushrooms and crispy pancetta. The guests ate off red tablecloths - red being a symbol of luck and good fortune in China.
+For their main course they dined on a sesame-crusted sea bass, braised bok choy and roasted eggplant.
+Dessert featured the two leaders and their fellow diners tucking into vanilla crémeux with sour cherry confit, with an accompanying ice cream "made with harvested White House honey".
+The wine chosen by the first lady included Schramsberg Blanc De Noir - a nod to President Nixon's 1972 "Toast to Peace" with former Chinese Premier Zhou Enlai, when they used a bottle from the same vineyard.
+Trump and Xi will begin the final day of their visit on Friday with tea at the White House's Red Room with their wives.
+The group will then head to the US National Archives for a tour of the building and its exhibits.
+Formally called the National Archives and Records Administration, the building holds some of the most important documents regarding the founding of the United States - including the US Constitution, the Declaration of Independence and the Bill of Rights.
+Xi and his wife will depart Washington later in the day.`,
+    bodyJa: `Trump and Xi exchange warm words at state dinner but little progress on key issues
+- Published
+US President Donald Trump and China's President Xi Jinping exchanged warm words at a lavish White House state dinner but gave little indication of progress on pressing issues.
+Xi stressed that they should ensure AI remain "under human control" and act "as responsible major countries", while Trump toasted a future of "harmony, peace and success" for both nations.
+But tensions remain despite the diplomatic niceties, including over Taiwan - with Xi urging Trump earlier in the day to take the "correct position" on the self-governing island which Beijing claims, amid a weapons package paused by Trump.
+Billionaire business leaders and US tech CEOs joined the leaders at the extravagant dinner late on Thursday.
+Their arrival was marked by protesters shouting from just outside the White House gates, some of whom were arrested.
+Trump lavished praise on Xi during his first visit to the US in over a decade, telling those attending the dinner that while the two countries had "different systems", they had "never gotten along better".
+Xi meanwhile welcomed the "historic juncture" in US-China relations - and said both leaders' ambitions could "surely be mutually reinforcing".
+"China and the United States must act as responsible major countries to meet the expectations of our peoples, keep pace with the trend of our times, and explore a new approach for major countries to get along with each other," he said.
+While Xi said he and Trump had shared "in-depth exchanges and reached common understanding on many issues", little to no mention was made of the crucial matters which divide the leaders of the world's two most powerful countries.
+China believes the US is trying to contain its rise as a superpower, and it wants Washington to stay out of its way - particularly when it comes to trade, technology and Taiwan.
+Trump has meanwhile been expected to aim for deals around trade and tariffs during the visit – like lowering Chinese tariffs on American goods, increasing imports of Chinese rare earth minerals, and increasing exports of US agricultural products.
+Trump has been blunt about his ambitions for artificial intelligence (AI) - and clear that he considers China to be the US's main rival for its development.
+But beyond Xi's reference to AI remaining under "human control", little indication was given of what progress the two leaders may have made on the issue - if any - during their talks.
+The dinner also came just hours after Chinese state media reported Xi had, behind closed doors, advised Washington to handle "with prudence" its approach to Taiwan.
+Washington is yet to comment publicly on the remarks, and the matter was another neither leader addressed late on Thursday.
+The US is legally bound to provide Taiwan with the means to defend itself, but Trump delayed approving a $14bn (£11bn) arms package for it after Xi in May warned that mishandling the issue could cause the two countries to "collide or even enter into conflict".
+At the time, Trump called it a "very good negotiating chip" with Beijing.
+Xi visit to Washington all pomp but little progress so far
+- Published13 hours ago
+Trump and Xi come face-to-face as US and China battle to win the AI race
+- Published1 day ago
+Xi got Trump's red carpet welcome - but not everything he wanted
+- Published7 hours ago
+The evening instead marked a continuation of the lavish welcome Xi has so far received in the US.
+Trump presented the Chinese president with a sculpture of a bald eagle - America's national symbol - saying it embodied "the free and soaring spirit of America". First Lady Melania had participated in its design, Trump added.
+Others in attendance included key White House figures, such as Defence Secretary Pete Hegseth, chief of staff Monica Crowley, and Trump's son-in-law Jared Kushner.
+They were joined by scores of US officials, as well as conservative broadcasters, tech industry bosses, social media CEOs and corporate executives.
+Apple's Tim Cook and Nvidia's Jensen Huang were seated at the same table as Trump and Xi, as was Elon Musk, who previously worked in Trump's administration leading the effort to shrink government.
+OpenAI's Sam Altman, Google's Sundar Pichai, and Amazon's Jeff Bezos were also present, as were Mark Zuckerberg and Jeff Yass, the American billionaire who owns a share of TikTok.
+The leaders of companies including General Motors, Visa, Paramount Skydance and ExxonMobil could also be seen in the room.
+"Everybody wanted to be there," Trump said ahead of the event. "I would say you have the entire tech world, the entire banking world, and a lot more."
+One notable absence was Anthropic - one of the biggest and most valuable AI firms in the world. The BBC has asked Anthropic if it was invited, or if they chose not to be there.
+The office of the First Lady Melania Trump, which planned the event, said the dinner menu would showcase "American ingredients with subtle Chinese influence".
+The first course was yellow squash, wild mushrooms and crispy pancetta. The guests ate off red tablecloths - red being a symbol of luck and good fortune in China.
+For their main course they dined on a sesame-crusted sea bass, braised bok choy and roasted eggplant.
+Dessert featured the two leaders and their fellow diners tucking into vanilla crémeux with sour cherry confit, with an accompanying ice cream "made with harvested White House honey".
+The wine chosen by the first lady included Schramsberg Blanc De Noir - a nod to President Nixon's 1972 "Toast to Peace" with former Chinese Premier Zhou Enlai, when they used a bottle from the same vineyard.
+Trump and Xi will begin the final day of their visit on Friday with tea at the White House's Red Room with their wives.
+The group will then head to the US National Archives for a tour of the building and its exhibits.
+Formally called the National Archives and Records Administration, the building holds some of the most important documents regarding the founding of the United States - including the US Constitution, the Declaration of Independence and the Bill of Rights.
+Xi and his wife will depart Washington later in the day.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-25T10:36:55+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
+    id: "warsh-s-regime-change-at-the-fed-pushes-17276369",
+    title: "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+    titleJa: "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+    summaryJa: "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
+    bodyOriginal: `Chairman Kevin Warsh likes to measure his tenure as Federal Reserve chairman in days, and 127 days in, his promise of regime change is taking shape. He's moving fast on some easy and very visible items directly in his control but is constrained from making bigger changes by the state of the economy and by his colleagues on the Fed.
+Warsh has quickly put his stamp on the way the Fed communicates. Some changes appear cosmetic, such as shortening the news conference that occurs after meetings of the Fed's rate-setting Federal Open Market Committee and changing the seating arrangements for reporters to be alphabetical by news organization. But those cosmetic changes hide a more profound shift: the way Warsh thinks about and communicates his views on monetary policy represents a sharp break from his predecessors.
+Warsh hasn't been able to act yet on one of his key priorities, cutting the Fed's balance sheet, in part because inflation is a more pressing concern. And he constrained himself on other priorities by appointing five task forces to examine Fed practices. They are supposed to report back early next year.
+Last week's unanimous quarter-point interest rate increase and any ones that follow will likely be the highlights of Warsh's early tenure in a move that answered his critics' concern about his independence from President Donald Trump. Based on how he has explained his way of thinking about markets and the economy, Warsh seems likely to support additional hikes if inflation remains a problem. Last week's increase was the first since 2023.
+For a Fed chairman who prides himself on taking signals from the market, Wall Street is sending a strong one. The 2-year Treasury yield traded nearly a full percentage point above the effective federal funds rate on Wednesday, indicating traders expect more rate increases. It's the largest spread of the 2-year over the funds rate since 2023. Inflation is running at 3.7% as measured by the Fed's preferred personal consumption expenditures indicator in July, the most recent reading. It has been above the central bank's 2% target for more than 5½ years.
+Fed chairs for years described the funds rate as either accommodative, neutral or restrictive. But asked at his Sept. 16 news conference where the Fed was relative to neutral, Warsh dismissed the very premise. He responded that the concept is "useful academically" but had no bearing on the decision to hike.
+The comments caused consternation among some in the central banking world who had been accustomed to thinking of the funds rate in those terms.
+"What is odd is that Warsh framed the decision as 'removing a dose of accommodation' and then distanced himself from the concept that defines accommodation,'' wrote economist Claudia Sahm. "But now that the Fed has hiked, how will he judge whether to hike again, and when to stop?"
+Warsh's critics argued after his vague performance in July that he lacked credibility because he hadn't articulated a consistent theory for how to set interest rates. Yet a careful look at Warsh's public comments suggests a new regime for determining policy is being gradually articulated.
+That regime encompasses a broad array of financial and market indicators. Three times in his Jackson Hole, Wyoming, speech and three more times in his most recent news conference, Warsh highlighted "financial conditions" as a key to his thinking. He said a review of market conditions indicated to him that conditions were not restrictive.
+He pointed in Jackson Hole to "the level and change in asset prices across sectors ... the prices and trading volumes of Treasury securities ... the foreign exchange value of the dollar ... the cost and availability of credit ... and the price of a broad set of commodities." Warsh went on to say: "These and other indicators should inform the Fed's near-term outlook on economic activity and inflation throughout the business cycle. They should also reveal the state of broader financial conditions ... and the risks and uncertainties in the financial cycle.''
+That logic may strike some as circular, since expectations for the Fed form a large part of financial conditions. So the feedback can amount to the market telling the Fed what it expects the central bank to do.
+But taken at face value, the comments indicate scope for further hikes. The stock market remains buoyant; the labor market is robust; most financial conditions indicators continue to show little restraint, either in lending or borrowing. Growth looks to be strong.
+The market is sending the same message with the probability of a follow-on hike in October at 70%, and as many as two more priced in from now until March.
+Warsh's focus on sometimes arcane market indicators is more intense than previous chairs and somewhat reminiscent of former Fed Chair Alan Greenspan, who was famous for digging deeply into everything from company capital expenditures plans to scrap metal prices.
+In his Jackson Hole speech, Warsh said he was watching a suite of indicators for monetary expansion including credit spreads, the Fed's Senior Loan Officer Opinion Survey, which gauges the willingness of banks to lend, and credit availability and demand. His conclusion? Money is easy.
+"That helps explain the growth we've seen this year in those loans," he said. "Credit and loan markets are showing few signs of policy restraint." Easy credit conditions would not necessarily require rate hikes. In Warsh's formulation, the central bank could need to lean against a private credit system making credit too easy when inflation is running above target.
+"We should pay attention to money created by the central bank and money that comes from the banking and financial systems," Warsh said at Jackson Hole. Continuing loose credit conditions clear the way for further rate increases in Warsh's framework. But hikes will be likely only if inflation remains high along with oil and diesel prices.
+"The recent rise in overall commodity prices also bears watching," Warsh said at Jackson Hole. The Bloomberg Commodity Index, a broad measure of commodity prices, is up more than 30% this year. Some energy products are faring worse: diesel has risen 83%.
+A slower pace for other Fed officials
+It's unclear if other members of the FOMC have cast off the neutral framework and adopted one more closely aligned with Warsh's broad concept of financial conditions. While those conditions have always been part of the way Fed officials have evaluated policy, few speak about them now as much more than just a part of their decision-making. Former Fed Chair Jerome Powell often noted how difficult it was to determine the neutral rate, but still often described rates as "modestly restrictive."
+So far, Warsh has been virtually alone in refusing to forecast the outlook for the funds rate in the Summary of Economic Projections, the so-called dot plot. And many board members also continue to offer their outlooks for the economy and rates in speeches and interviews, a practice Warsh has rejected.
+That reluctance highlights the slower parts of regime change so far. Warsh inherited his committee and the economy he has to steward, both of which work together to slow the reforms Warsh wants to put in place.
+Reform has arguably been slowest on what may be Warsh's longest-standing policy priority. Since at least 2011, Warsh said the Fed should reverse the growth in its balance sheet, now at $6.7 trillion. He hasn't committed to a plan for making that happen, which could mean selling securities the Fed already owns or allowing bonds to mature without replacing them. He quit his first stint on the Fed's board that year because he was uncomfortable with the growth in the balance sheet, though he said he voted for expanding it out of loyalty to the institution.
+Now, back and in control of the Fed's agenda, Warsh finds himself unable to quickly follow through on his plans for balance sheet cuts, even though that could in theory have taken more accommodation out of the economy. The FOMC's minutes for July show other voters were reluctant to move quickly toward cutting the balance sheet, preferring to wait for Warsh's task forces to report back.
+The state of the economy and the markets also may have complicated Warsh's plans. With inflation above the Fed's target and oil surging, the committee had an immediate need to address prices, making it the wrong time to experiment with whether Warsh was right that cutting the balance sheet would meaningfully restrain the economy.
+Meanwhile, the yield on the 10-year Treasury has risen above 5%, pulling up rates on mortgages and other consumer debt with it. That makes this a particularly inopportune time for the Fed to start asking the market to take on additional supply of mortgages and Treasury notes if the Fed were to reduce the balance sheet.`,
+    bodyJa: `Chairman Kevin Warsh likes to measure his tenure as Federal Reserve chairman in days, and 127 days in, his promise of regime change is taking shape. He's moving fast on some easy and very visible items directly in his control but is constrained from making bigger changes by the state of the economy and by his colleagues on the Fed.
+Warsh has quickly put his stamp on the way the Fed communicates. Some changes appear cosmetic, such as shortening the news conference that occurs after meetings of the Fed's rate-setting Federal Open Market Committee and changing the seating arrangements for reporters to be alphabetical by news organization. But those cosmetic changes hide a more profound shift: the way Warsh thinks about and communicates his views on monetary policy represents a sharp break from his predecessors.
+Warsh hasn't been able to act yet on one of his key priorities, cutting the Fed's balance sheet, in part because inflation is a more pressing concern. And he constrained himself on other priorities by appointing five task forces to examine Fed practices. They are supposed to report back early next year.
+Last week's unanimous quarter-point interest rate increase and any ones that follow will likely be the highlights of Warsh's early tenure in a move that answered his critics' concern about his independence from President Donald Trump. Based on how he has explained his way of thinking about markets and the economy, Warsh seems likely to support additional hikes if inflation remains a problem. Last week's increase was the first since 2023.
+For a Fed chairman who prides himself on taking signals from the market, Wall Street is sending a strong one. The 2-year Treasury yield traded nearly a full percentage point above the effective federal funds rate on Wednesday, indicating traders expect more rate increases. It's the largest spread of the 2-year over the funds rate since 2023. Inflation is running at 3.7% as measured by the Fed's preferred personal consumption expenditures indicator in July, the most recent reading. It has been above the central bank's 2% target for more than 5½ years.
+Fed chairs for years described the funds rate as either accommodative, neutral or restrictive. But asked at his Sept. 16 news conference where the Fed was relative to neutral, Warsh dismissed the very premise. He responded that the concept is "useful academically" but had no bearing on the decision to hike.
+The comments caused consternation among some in the central banking world who had been accustomed to thinking of the funds rate in those terms.
+"What is odd is that Warsh framed the decision as 'removing a dose of accommodation' and then distanced himself from the concept that defines accommodation,'' wrote economist Claudia Sahm. "But now that the Fed has hiked, how will he judge whether to hike again, and when to stop?"
+Warsh's critics argued after his vague performance in July that he lacked credibility because he hadn't articulated a consistent theory for how to set interest rates. Yet a careful look at Warsh's public comments suggests a new regime for determining policy is being gradually articulated.
+That regime encompasses a broad array of financial and market indicators. Three times in his Jackson Hole, Wyoming, speech and three more times in his most recent news conference, Warsh highlighted "financial conditions" as a key to his thinking. He said a review of market conditions indicated to him that conditions were not restrictive.
+He pointed in Jackson Hole to "the level and change in asset prices across sectors ... the prices and trading volumes of Treasury securities ... the foreign exchange value of the dollar ... the cost and availability of credit ... and the price of a broad set of commodities." Warsh went on to say: "These and other indicators should inform the Fed's near-term outlook on economic activity and inflation throughout the business cycle. They should also reveal the state of broader financial conditions ... and the risks and uncertainties in the financial cycle.''
+That logic may strike some as circular, since expectations for the Fed form a large part of financial conditions. So the feedback can amount to the market telling the Fed what it expects the central bank to do.
+But taken at face value, the comments indicate scope for further hikes. The stock market remains buoyant; the labor market is robust; most financial conditions indicators continue to show little restraint, either in lending or borrowing. Growth looks to be strong.
+The market is sending the same message with the probability of a follow-on hike in October at 70%, and as many as two more priced in from now until March.
+Warsh's focus on sometimes arcane market indicators is more intense than previous chairs and somewhat reminiscent of former Fed Chair Alan Greenspan, who was famous for digging deeply into everything from company capital expenditures plans to scrap metal prices.
+In his Jackson Hole speech, Warsh said he was watching a suite of indicators for monetary expansion including credit spreads, the Fed's Senior Loan Officer Opinion Survey, which gauges the willingness of banks to lend, and credit availability and demand. His conclusion? Money is easy.
+"That helps explain the growth we've seen this year in those loans," he said. "Credit and loan markets are showing few signs of policy restraint." Easy credit conditions would not necessarily require rate hikes. In Warsh's formulation, the central bank could need to lean against a private credit system making credit too easy when inflation is running above target.
+"We should pay attention to money created by the central bank and money that comes from the banking and financial systems," Warsh said at Jackson Hole. Continuing loose credit conditions clear the way for further rate increases in Warsh's framework. But hikes will be likely only if inflation remains high along with oil and diesel prices.
+"The recent rise in overall commodity prices also bears watching," Warsh said at Jackson Hole. The Bloomberg Commodity Index, a broad measure of commodity prices, is up more than 30% this year. Some energy products are faring worse: diesel has risen 83%.
+A slower pace for other Fed officials
+It's unclear if other members of the FOMC have cast off the neutral framework and adopted one more closely aligned with Warsh's broad concept of financial conditions. While those conditions have always been part of the way Fed officials have evaluated policy, few speak about them now as much more than just a part of their decision-making. Former Fed Chair Jerome Powell often noted how difficult it was to determine the neutral rate, but still often described rates as "modestly restrictive."
+So far, Warsh has been virtually alone in refusing to forecast the outlook for the funds rate in the Summary of Economic Projections, the so-called dot plot. And many board members also continue to offer their outlooks for the economy and rates in speeches and interviews, a practice Warsh has rejected.
+That reluctance highlights the slower parts of regime change so far. Warsh inherited his committee and the economy he has to steward, both of which work together to slow the reforms Warsh wants to put in place.
+Reform has arguably been slowest on what may be Warsh's longest-standing policy priority. Since at least 2011, Warsh said the Fed should reverse the growth in its balance sheet, now at $6.7 trillion. He hasn't committed to a plan for making that happen, which could mean selling securities the Fed already owns or allowing bonds to mature without replacing them. He quit his first stint on the Fed's board that year because he was uncomfortable with the growth in the balance sheet, though he said he voted for expanding it out of loyalty to the institution.
+Now, back and in control of the Fed's agenda, Warsh finds himself unable to quickly follow through on his plans for balance sheet cuts, even though that could in theory have taken more accommodation out of the economy. The FOMC's minutes for July show other voters were reluctant to move quickly toward cutting the balance sheet, preferring to wait for Warsh's task forces to report back.
+The state of the economy and the markets also may have complicated Warsh's plans. With inflation above the Fed's target and oil surging, the committee had an immediate need to address prices, making it the wrong time to experiment with whether Warsh was right that cutting the balance sheet would meaningfully restrain the economy.
+Meanwhile, the yield on the 10-year Treasury has risen above 5%, pulling up rates on mortgages and other consumer debt with it. That makes this a particularly inopportune time for the Fed to start asking the market to take on additional supply of mortgages and Treasury notes if the Fed were to reduce the balance sheet.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
+    publishedAt: "2026-09-25T10:30:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "china-saw-surprise-jump-in-u-s-orders-ah-f82c0644",
+    title: "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    titleJa: "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    summaryJa: "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+    bodyOriginal: `American businesses ramped up orders for Chinese goods in the weeks leading up to the high-stakes summit this week, as companies positioned for continued stability between the world's two largest economies.
+The jump in orders was a "surprise," with shipments to the U.S. rising on both a yearly and monthly basis "as China's relative tariff position improved," according to China Beige Book, a New York-based research firm that surveyed 1,295 Chinese companies between Sept. 1-22.
+The gauge measuring orders from the U.S. — calculated as the proportion of surveyed firms reporting an increase minus the share reporting a decrease — jumped to 13 in September, from negative-12 a year earlier and 3 in August, according to the report.
+Even so, overall Chinese domestic and export orders remained below their levels a year earlier, and new orders weakened from August, the report showed.
+The upswing in U.S.-bound orders came as businesses positioned for a friendlier outcome at the summit between President Donald Trump and Chinese leader Xi Jinping, who is in Washington this week for his first state visit in more than a decade.
+The two countries agreed to extend by two months to January a trade truce that keeps tariffs lower, suspends restrictive controls on rare earth exports and holds off higher port fees on ships.
+The U.S. also reportedly planned to delay a threatened round of tariffs tied to industrial overcapacity until at least after this week's summit, easing near-term pressure on Chinese exporters.
+The effective U.S. tariff rate on Chinese goods of around 23% remains well above the average levy the U.S. imposes on other major trading partners, according to Barclays.
+The export order figures align with recent official data that showed China's ports saw their busiest week on record in the run-up to the summit, another sign that trade flows were recovering amid hopes for a further thaw in bilateral relations.
+Following the truce extension, Eurasia Group raised its odds of continued stability in the bilateral relationship to the highest level since Trump returned to office. The shorter-than-expected extension of the truce is also unlikely to reignite tensions, the consultancy firm said.
+"Neither government has an interest in renewed escalation," said Dan Wang, China director at Eurasia Group, who expects both sides to press each other for near-term commitments to maintain the fragile stability.
+Washington is likely to seek further progress on expedited Chinese approval of rare-earth export licenses for U.S. end users, as well as increased purchases of U.S. agricultural goods, Wang said, and in return, Beijing would expect the White House to maintain its current pause on arms sales to Taiwan.
+The two leaders are expected to meet again at the APEC summit in Shenzhen in November, and potentially on the sidelines of the G20 summit the U.S. is hosting in Miami in December. No bilateral meeting after this week's summit has been confirmed.`,
+    bodyJa: `American businesses ramped up orders for Chinese goods in the weeks leading up to the high-stakes summit this week, as companies positioned for continued stability between the world's two largest economies.
+The jump in orders was a "surprise," with shipments to the U.S. rising on both a yearly and monthly basis "as China's relative tariff position improved," according to China Beige Book, a New York-based research firm that surveyed 1,295 Chinese companies between Sept. 1-22.
+The gauge measuring orders from the U.S. — calculated as the proportion of surveyed firms reporting an increase minus the share reporting a decrease — jumped to 13 in September, from negative-12 a year earlier and 3 in August, according to the report.
+Even so, overall Chinese domestic and export orders remained below their levels a year earlier, and new orders weakened from August, the report showed.
+The upswing in U.S.-bound orders came as businesses positioned for a friendlier outcome at the summit between President Donald Trump and Chinese leader Xi Jinping, who is in Washington this week for his first state visit in more than a decade.
+The two countries agreed to extend by two months to January a trade truce that keeps tariffs lower, suspends restrictive controls on rare earth exports and holds off higher port fees on ships.
+The U.S. also reportedly planned to delay a threatened round of tariffs tied to industrial overcapacity until at least after this week's summit, easing near-term pressure on Chinese exporters.
+The effective U.S. tariff rate on Chinese goods of around 23% remains well above the average levy the U.S. imposes on other major trading partners, according to Barclays.
+The export order figures align with recent official data that showed China's ports saw their busiest week on record in the run-up to the summit, another sign that trade flows were recovering amid hopes for a further thaw in bilateral relations.
+Following the truce extension, Eurasia Group raised its odds of continued stability in the bilateral relationship to the highest level since Trump returned to office. The shorter-than-expected extension of the truce is also unlikely to reignite tensions, the consultancy firm said.
+"Neither government has an interest in renewed escalation," said Dan Wang, China director at Eurasia Group, who expects both sides to press each other for near-term commitments to maintain the fragile stability.
+Washington is likely to seek further progress on expedited Chinese approval of rare-earth export licenses for U.S. end users, as well as increased purchases of U.S. agricultural goods, Wang said, and in return, Beijing would expect the White House to maintain its current pause on arms sales to Taiwan.
+The two leaders are expected to meet again at the APEC summit in Shenzhen in November, and potentially on the sidelines of the G20 summit the U.S. is hosting in Miami in December. No bilateral meeting after this week's summit has been confirmed.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html",
+    publishedAt: "2026-09-25T10:25:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "us-backs-elon-musk-s-bid-to-overturn-120-d0fede88",
+    title: "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    titleJa: "US backs Elon Musk's bid to overturn €120m EU fine against X",
+    summaryJa: "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+    bodyOriginal: `US backs Elon Musk's bid to overturn €120m EU fine against X
+- Published
+The US government is seeking to join Elon Musk's legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.
+In December 2025, the European Commission said the platform "deceives users" by allowing people to pay for a blue verified check mark, because it is not "meaningfully verifying" who is behind the account.
+But US Assistant Attorney General Brett A. Shumate said on Thursday that the commission had "inappropriately attempted" to expand its reach to American companies outside its control.
+Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation "inhibits progress" for companies.
+The US Department of Justice (DOJ) has filed an application, external with the EU's General Court in support of Musk's and X's attempts to dismiss the case.
+It claims that under a section of law in the Statute of the Court of Justice of the EU, a state may intervene in disputes before the court if it "can establish an interest in the result of the case to the court".
+The DOJ said the US "has a clear interest" in ensuring any decision by the commission was applied consistently with "how territorial jurisdiction is generally understood in international law".
+It also wants to make sure it would not "otherwise prejudice" US-headquartered digital services that "contribute significantly" to its economy.
+In a press briefing on Friday, external, European Commission spokesperson Thomas Regnier said it was "ready to defend" its position in court.
+He added that the commission had an "solid case" at its disposal, due to the alleged breach of its Digital Services Act.
+They are carrying out, of course, the hearing and the ruling, but I can tell you from our side is that we have a very solid case that we have advanced indeed with the €120 million fine against X last year in December,
+and the Commission is of course absolutely ready to defend its position in court. And a follow up.
+In addition to its use of blue ticks, EU regulators accused X of failing to provide transparency around its adverts and denying researchers access to public data.
+Henna Virkkunen, the regulator's executive vice-president for tech sovereignty, said at the time of the fine's issue it was "holding X responsible for undermining users' rights and evading accountability".
+"Deceiving users with blue checkmarks, obscuring information on ads and shutting out researchers have no place online in the EU," she said.
+US Secretary of State Marco Rubio and the Federal Communications Commission (FCC) had criticised the EU regulator, accusing it of attacking and censoring US firms.
+"The European Commission's fine isn't just an attack on X, it's an attack on all American tech platforms and the American people by foreign governments," Rubio wrote in a post on X.
+"The days of censoring Americans online are over."
+His remarks were reposted by Musk, who added "absolutely".
+The European Commission denied targeting any specific nationality, stating it is simply protecting its digital and democratic standards to maintain its role as a global benchmark.
+The action marked the Commission's first official non-compliance decision under the Digital Services Act (DSA), one of two mandatory rulebooks governing online platforms in the EU.
+However, the EU is also conducting several other investigations into the platform, including one into its integrated AI assistant Grok over concerns it was used to create sexualised images of real people.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+- Published15 January
+- Published12 July 2024
+- Published24 November 2025`,
+    bodyJa: `US backs Elon Musk's bid to overturn €120m EU fine against X
+- Published
+The US government is seeking to join Elon Musk's legal challenge to overturn a €120m (£105m) EU fine against X over its blue tick badges.
+In December 2025, the European Commission said the platform "deceives users" by allowing people to pay for a blue verified check mark, because it is not "meaningfully verifying" who is behind the account.
+But US Assistant Attorney General Brett A. Shumate said on Thursday that the commission had "inappropriately attempted" to expand its reach to American companies outside its control.
+Musk, who spent millions helping elect Donald Trump and other Republicans, has previously claimed EU tech regulation "inhibits progress" for companies.
+The US Department of Justice (DOJ) has filed an application, external with the EU's General Court in support of Musk's and X's attempts to dismiss the case.
+It claims that under a section of law in the Statute of the Court of Justice of the EU, a state may intervene in disputes before the court if it "can establish an interest in the result of the case to the court".
+The DOJ said the US "has a clear interest" in ensuring any decision by the commission was applied consistently with "how territorial jurisdiction is generally understood in international law".
+It also wants to make sure it would not "otherwise prejudice" US-headquartered digital services that "contribute significantly" to its economy.
+In a press briefing on Friday, external, European Commission spokesperson Thomas Regnier said it was "ready to defend" its position in court.
+He added that the commission had an "solid case" at its disposal, due to the alleged breach of its Digital Services Act.
+They are carrying out, of course, the hearing and the ruling, but I can tell you from our side is that we have a very solid case that we have advanced indeed with the €120 million fine against X last year in December,
+and the Commission is of course absolutely ready to defend its position in court. And a follow up.
+In addition to its use of blue ticks, EU regulators accused X of failing to provide transparency around its adverts and denying researchers access to public data.
+Henna Virkkunen, the regulator's executive vice-president for tech sovereignty, said at the time of the fine's issue it was "holding X responsible for undermining users' rights and evading accountability".
+"Deceiving users with blue checkmarks, obscuring information on ads and shutting out researchers have no place online in the EU," she said.
+US Secretary of State Marco Rubio and the Federal Communications Commission (FCC) had criticised the EU regulator, accusing it of attacking and censoring US firms.
+"The European Commission's fine isn't just an attack on X, it's an attack on all American tech platforms and the American people by foreign governments," Rubio wrote in a post on X.
+"The days of censoring Americans online are over."
+His remarks were reposted by Musk, who added "absolutely".
+The European Commission denied targeting any specific nationality, stating it is simply protecting its digital and democratic standards to maintain its role as a global benchmark.
+The action marked the Commission's first official non-compliance decision under the Digital Services Act (DSA), one of two mandatory rulebooks governing online platforms in the EU.
+However, the EU is also conducting several other investigations into the platform, including one into its integrated AI assistant Grok over concerns it was used to create sexualised images of real people.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+- Published15 January
+- Published12 July 2024
+- Published24 November 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-25T09:48:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fed0/live/93ad40c0-b8c1-11f1-ad1f-538855f30ba1.jpg",
+    readTime: 9,
+  },
+  {
+    id: "farmers-down-240-million-litres-of-milk-bd8beab9",
+    title: "Farmers down 240 million litres of milk after heat",
+    titleJa: "Farmers down 240 million litres of milk after heat",
+    summaryJa: "Milk yield was affected by a series of extreme heatwaves which led to poor grazing conditions, researchers say.",
+    bodyOriginal: `Farmers down 240 million litres of milk after heat
+- Published
+Extreme heat this summer has led to dairy farmers delivering 240 million fewer litres of milk than expected, researchers have said.
+Farmers delivered four fewer days of milk supply than would be expected between May and August, according to the Energy and Climate Intelligence Unit (ECIU).
+With the heat leading to poor grazing conditions, stunted harvests and heat strain on livestock in England and Wales, many farmers have started giving winter feed to cattle, including Debbie Wilkins, a dairy and beef farmer in Gloucestershire.
+"The costs pile up when you have to bring the cows indoors and the loss of milk production compounds the issue," she said.
+More from Gloucestershire
+Council leader voted out after no confidence motion
+- Published35 minutes ago
+Cotswolds home to UK's first air taxi centre
+- Published6 hours ago
+Rare Bronze Age finds unearthed in city dig
+- Published17 hours ago
+Wilkins, who farms in Prior's Norton, said it had been a "difficult" summer.
+In total, the ECIU said dairy farmers lost milk valued at more than £83m - enough milk to fill more than one billion school milk cartons.
+It follows the UK's hottest summer on record in 2026, with five intense heatwaves and drought declarations.
+But while farmers delivered significantly less than expected over the summer, the ECIU said UK milk production could still hit near record levels in 2026.
+It said this was because farmers built up a cushion earlier in 2026 which had partially offset the litres lost over the summer.
+ECIU said the consolidation of dairy farms in recent years had allowed for "economies of scale and mechanisation to increase milk outputs while the herd size reduces".
+Tom Cantillon, a senior analyst at ECIU, said future heatwaves would become progressively harder to recover from, especially as milk was an "unforgiving product in farming" as it cannot be stockpiled.
+"The costs don't stop now that the rain has come," Cantillon said.
+"A second bad year for grass has pushed farmers into their winter forage early, with feed prices to follow."
+Cantillon said farmers needed help to roll out climate resilience measures such as more shade, trees and water.
+Get in touch
+Your Voice
+Related topics
+- Published30 July
+- Published28 August 2025
+- Published14 January 2025`,
+    bodyJa: `Farmers down 240 million litres of milk after heat
+- Published
+Extreme heat this summer has led to dairy farmers delivering 240 million fewer litres of milk than expected, researchers have said.
+Farmers delivered four fewer days of milk supply than would be expected between May and August, according to the Energy and Climate Intelligence Unit (ECIU).
+With the heat leading to poor grazing conditions, stunted harvests and heat strain on livestock in England and Wales, many farmers have started giving winter feed to cattle, including Debbie Wilkins, a dairy and beef farmer in Gloucestershire.
+"The costs pile up when you have to bring the cows indoors and the loss of milk production compounds the issue," she said.
+More from Gloucestershire
+Council leader voted out after no confidence motion
+- Published35 minutes ago
+Cotswolds home to UK's first air taxi centre
+- Published6 hours ago
+Rare Bronze Age finds unearthed in city dig
+- Published17 hours ago
+Wilkins, who farms in Prior's Norton, said it had been a "difficult" summer.
+In total, the ECIU said dairy farmers lost milk valued at more than £83m - enough milk to fill more than one billion school milk cartons.
+It follows the UK's hottest summer on record in 2026, with five intense heatwaves and drought declarations.
+But while farmers delivered significantly less than expected over the summer, the ECIU said UK milk production could still hit near record levels in 2026.
+It said this was because farmers built up a cushion earlier in 2026 which had partially offset the litres lost over the summer.
+ECIU said the consolidation of dairy farms in recent years had allowed for "economies of scale and mechanisation to increase milk outputs while the herd size reduces".
+Tom Cantillon, a senior analyst at ECIU, said future heatwaves would become progressively harder to recover from, especially as milk was an "unforgiving product in farming" as it cannot be stockpiled.
+"The costs don't stop now that the rain has come," Cantillon said.
+"A second bad year for grass has pushed farmers into their winter forage early, with feed prices to follow."
+Cantillon said farmers needed help to roll out climate resilience measures such as more shade, trees and water.
+Get in touch
+Your Voice
+Related topics
+- Published30 July
+- Published28 August 2025
+- Published14 January 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjvgy7qd20wgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-25T05:30:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3125/live/7d6b4f20-b838-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 6,
+  },
+  {
     id: "oracle-japan-shares-surge-7-after-record-e4e655df",
     title: "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
     titleJa: "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
@@ -1645,664 +2181,6 @@ Politburo Standing Committee Member Cai Qi and China's top diplomat Wang Yi acco
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 7,
-  },
-  {
-    id: "mark-zuckerberg-debuts-1-299-meta-vr-gla-12a3d8ee",
-    title: "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-    titleJa: "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant as part of AI agent push",
-    summaryJa: "At Meta Connect, CEO Mark Zuckerberg revealed new VR Glasses and the Muse Charm gadget for AI agents.",
-    bodyOriginal: `Meta CEO Mark Zuckerberg is continuing his metaverse while simultaneously pushing forward on AI agents.
-At Meta Connect, the Facebook co-founder revealed on Wednesday the Meta VR Glasses, a smaller and slimmer device compared to the company's older Quest-branded family of VR headsets, and a handheld device called the Muse Charm that works with the company's recently released Muse AI personal agent. He revealed the products while speaking on stage at the annual Connect conference for developers.
-Zuckerberg shared few details about what Muse Charm can do, only to say that people will be able to speak to the gadget to interact with their Meta AI agents "without having to unlock a phone or open an app." He didn't say how much it would cost, but said that Meta needs to "finalize laying out the components" and is "planning to have this ready to ship in time for the holidays in December."
-"We've packed a lot of technology with this little guy," Zuckerberg said. "So, if you're not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show it what's going on around you."
-The Meta VR Glasses are slimmer and lighter than the company's older Quest-branded VR headsets, but they are also more expensive, costing $1,299 when they go on sale in spring 2027. They represent Meta's first VR device since 2024, when the company debuted the $299 Quest 3S.
-The Meta VR Glasses are powered by an external puck that houses a Qualcomm processor and battery, allowing it to function as a mini-computer that also helps reduce the glasses' overall weight and size. The glasses are able to display better visuals than the older Quest headset, and contain sensors that track users' eyes and hand movements, which reduces the need to use controllers to interact with the device.
-"We have built a new kind of VR device that delivers the same magical feeling of presence and immersion, high-resolution displays and views of the world around you in a form factor that is a pair of glasses for the first time," Zuckerberg said.`,
-    bodyJa: `Meta CEO Mark Zuckerberg is continuing his metaverse while simultaneously pushing forward on AI agents.
-At Meta Connect, the Facebook co-founder revealed on Wednesday the Meta VR Glasses, a smaller and slimmer device compared to the company's older Quest-branded family of VR headsets, and a handheld device called the Muse Charm that works with the company's recently released Muse AI personal agent. He revealed the products while speaking on stage at the annual Connect conference for developers.
-Zuckerberg shared few details about what Muse Charm can do, only to say that people will be able to speak to the gadget to interact with their Meta AI agents "without having to unlock a phone or open an app." He didn't say how much it would cost, but said that Meta needs to "finalize laying out the components" and is "planning to have this ready to ship in time for the holidays in December."
-"We've packed a lot of technology with this little guy," Zuckerberg said. "So, if you're not wearing glasses, this is going to be by far the fastest way to talk to your Muse and to show it what's going on around you."
-The Meta VR Glasses are slimmer and lighter than the company's older Quest-branded VR headsets, but they are also more expensive, costing $1,299 when they go on sale in spring 2027. They represent Meta's first VR device since 2024, when the company debuted the $299 Quest 3S.
-The Meta VR Glasses are powered by an external puck that houses a Qualcomm processor and battery, allowing it to function as a mini-computer that also helps reduce the glasses' overall weight and size. The glasses are able to display better visuals than the older Quest headset, and contain sensors that track users' eyes and hand movements, which reduces the need to use controllers to interact with the device.
-"We have built a new kind of VR device that delivers the same magical feeling of presence and immersion, high-resolution displays and views of the world around you in a form factor that is a pair of glasses for the first time," Zuckerberg said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-    publishedAt: "2026-09-24T01:56:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "chinese-authorities-reportedly-in-posses-10cda6ca",
-    title: "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
-    titleJa: "Chinese authorities reportedly in possession of F-35 components in Hong Kong",
-    summaryJa: "Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted to Hong Kong.",
-    bodyOriginal: `Chinese authorities are reportedly in possession of F-35 stealth fighter parts after components of the aircraft were "inexplicably diverted to Hong Kong."
-Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted, Bloomberg reported on Thursday, citing sources.
-Both parts were coated with a radar absorbing material that enhances their stealth capabilities, the sources said, and it was not clear why the shipment was diverted to Hong Kong.
-On Tuesday, Australian Defense Minister Richard Marles told reporters Tuesday that Australia was aware of the shipment, and was working with the U.S. and Lockheed Martin to see how Canberra can assist in the investigation.
-Marles also said it was his understanding that no sensitive parts were in the missing shipment, according to CNN.
-Lockheed Martin, UPS and the Pentagon didn't immediately respond to requests for comment from CNBC.
-The F-35 is a fifth-generation stealth fighter made by Lockheed Martin, and Washington controls the sale of these aircraft only to its closest partners and allies.
-For example, Turkey was excluded from the F-35 program in 2019 after the country purchased the Russian S-400 anti-aircraft system, which raised fears that the Russian system could be used as an intelligence collection platform to learn about the aircraft's capabilities.
-China has targeted F-35-related U.S. military data in past espionage cases, according to U.S. prosecutors in 2024.
-A $24 billion sale of F-35s to Saudi Arabia was approved last week, but some lawmakers in Congress have already expressed concerns over the technology finding its way into Chinese hands.
-Congressman Raja Krishnamoorthi (D-IL) said that the U.S. intelligence community has warned that the sale "could put the crown jewels of American military technology within reach of the Chinese Communist Party."
-Users of the fighter jet include Australia and Belgium, as well as the U.S. itself, with other countries like Japan, Canada and Singapore having also ordered the aircraft.
-F-35s have also been used by the U.S. during the Iran conflict, with one aircraft suffering damage from enemy fire, according to the Department of Defense.`,
-    bodyJa: `Chinese authorities are reportedly in possession of F-35 stealth fighter parts after components of the aircraft were "inexplicably diverted to Hong Kong."
-Shipping giant UPS was sending a cockpit canopy and weapons bay door to the U.S. from Australia in late May when it was diverted, Bloomberg reported on Thursday, citing sources.
-Both parts were coated with a radar absorbing material that enhances their stealth capabilities, the sources said, and it was not clear why the shipment was diverted to Hong Kong.
-On Tuesday, Australian Defense Minister Richard Marles told reporters Tuesday that Australia was aware of the shipment, and was working with the U.S. and Lockheed Martin to see how Canberra can assist in the investigation.
-Marles also said it was his understanding that no sensitive parts were in the missing shipment, according to CNN.
-Lockheed Martin, UPS and the Pentagon didn't immediately respond to requests for comment from CNBC.
-The F-35 is a fifth-generation stealth fighter made by Lockheed Martin, and Washington controls the sale of these aircraft only to its closest partners and allies.
-For example, Turkey was excluded from the F-35 program in 2019 after the country purchased the Russian S-400 anti-aircraft system, which raised fears that the Russian system could be used as an intelligence collection platform to learn about the aircraft's capabilities.
-China has targeted F-35-related U.S. military data in past espionage cases, according to U.S. prosecutors in 2024.
-A $24 billion sale of F-35s to Saudi Arabia was approved last week, but some lawmakers in Congress have already expressed concerns over the technology finding its way into Chinese hands.
-Congressman Raja Krishnamoorthi (D-IL) said that the U.S. intelligence community has warned that the sale "could put the crown jewels of American military technology within reach of the Chinese Communist Party."
-Users of the fighter jet include Australia and Belgium, as well as the U.S. itself, with other countries like Japan, Canada and Singapore having also ordered the aircraft.
-F-35s have also been used by the U.S. during the Iran conflict, with one aircraft suffering damage from enemy fire, according to the Department of Defense.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/24/chinaf-f35-components-hong-kong.html",
-    publishedAt: "2026-09-24T01:16:34+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "they-were-labelled-pervert-glasses-will-57de2040",
-    title: "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-    titleJa: "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-    summaryJa: "Meta has unveiled audio-only smart glasses, with some questioning whether it is a response to the backlash over privacy.",
-    bodyOriginal: `When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the trendy sunglasses brand Ray-Ban, it unleashed a storm of controversy.
-There have been multiple reports of the devices being used to harass women and girls in particular, filming them without their consent, then sharing the footage.
-The image problem doesn't seem to have been cured by Meta's enlistment this summer of Kylie Jenner, Kim Kardashian's sister, as their prime model. The devices have been dubbed "pervert" or "creepy" glasses. In the UK, JD Wetherspoon pubs, a handful of major theatres, Comic-Con, some schools, and Faslane, home of the UK's nuclear submarines, have all chosen to ban them.
-On Thursday, Meta is unveiling a new version which does not contain a camera at all, called Ray-Ban Meta Audio. They will have the audio functions of the original glasses - including the ability to make phone calls or play music, with the sound funnelled directly into your ear - but with fewer implications for privacy.
-To some in the industry, it looks like an interesting pivot - a response, perhaps, to the backlash over privacy.
-The tech giant denies that the new glasses have been rushed out in response to public anger. They say the product has been in development for two years. The audio-only version is cheaper than its camera-enabled cousins, and Meta says it has a lighter frame and better battery life.
-When I put it to Meta Glasses' head of product Ankit Brahmbhatt that I thought they might overtake the original camera-enabled glasses in sales, there was a pregnant pause.
-"We have, I think, something for everyone," he said, choosing his words very carefully.
-Does the release of a camera-free option represent a shift in how tech companies see the future of smart glasses? And is Meta's original vision getting further away?
-Or should we see camera-free glasses as a niche side-product that serves a small market - a bit like how some mobile manufacturers are now releasing internet-disabled "brick" phones for people who are tired of social media?
-Music, maps, and washing cars
-There's no doubt that smart glasses have become controversial.
-I was lent a pair of Meta Ray-Bans – with cameras - to try out. I was initially nervous about wearing them in public, in case someone got physical: I have heard of people knocking them off wearers' heads and smashing them in the street.
-The reality was that I wore them on public transport and on foot in several cities including London, Glasgow and Portsmouth, and nobody batted an eyelid. It made me wonder whether awareness of them is really as high as both Meta and anti-glasses campaigners believe.
-That said, some people quietly told me they would not be confident enough to approach someone wearing them even if they did spot them, for fear of the interaction being filmed and uploaded.
-The glasses are designed to work as an extension of your phone. They use Bluetooth to sync with a handset via Meta's AI app. They are voice-activated, with open speakers in the arms funnelling sound into your ears. The result is a bit like wearing headphones without the addition of noise-cancelling features, so you can still hear the world around you.
-My potentially cancellable opinion is that I found many of the glasses' features useful. Interestingly, none of them included the camera.
-Listening to music and podcasts on the move without having earbuds stuffed into my ears felt safer. I felt more confident about avoiding the gamut of e-bike-riding phone thieves in central London without my phone physically in my hand.
-And as someone with a pitiful sense of direction, I rely a lot on map apps. It was handy to have the directions spoken in my ears. The pay-off for this, however, was having to accept allowing the Meta AI app to know exactly where I was at all times. Meta is notorious for its hunger for personal data.
-When I posted about using the Meta Ray-Bans on social media, I got a bit of a hard time. Less so when I showed them to people in my everyday life.
-My hairdresser loved the idea of using them to record her clients' hair transformations. A builder I chatted to at the gym reckoned they would be useful on sites for recording what he was doing, either in the event of an accident or even to teach others new skills. My friend who runs said he would like to wear them on a jog.
-Plenty of content creators are big fans. My son borrowed them to wash my car, and was proud of his film showing me how he delicately chipped away at a stubborn bit of bird poo without damaging the paintwork (I was pleased, and happy to take his word for it).
-More broadly, smart glasses have been welcomed by the blind community. One user described them to the BBC as a "game-changer" because they can give audio descriptions of current locations and read out visible text like restaurant menu options. Earlier this year Meta donated 15,000 pairs to a charity for the blind in Ireland.
-Calls for regulation
-But still, anger over privacy has grown.
-The glasses have a blinking white LED that switches on when the camera is active, but a whole industry has sprung up around finding technical workarounds to disable that light, some of which involve taking the glasses apart.
-Meta says less than 0.1% of the frames it has sold worldwide have been physically tampered with. Exact sales figures are unknown, but Ray-Ban's parent company EssilorLuxottica has reported that it sold seven million last year.
-Liz Hunter, a tech founder and parent who has set up a petition calling for urgent new regulation of smart glasses, is furious.
-"They should never, ever have left the lab at Meta," she told me. "It's a real travesty of public trust, and of women's equality, and it's rolled back our privacy rights right before our very eyes."
-Hunter thinks smart glasses should remain available for blind people, but not for the general population.
-"We don't need them, we don't want them," she says.
-A Polish developer has released an app called ZuckOff which uses Bluetooth to identify nearby smart glasses. It's been downloaded thousands of times, reports Wired magazine.
-Ben Wood, from tech research firm CCS Insight, remembers first reading the phrase "pervert glasses" in the usually strait-laced Financial Times - a sign, he says, that it had prompted a "significant public backlash".
-The furore has not deterred other companies from eyeing the market, however.
-Samsung is reported to be working on a collaboration with the upmarket glasses brand Warby Parker. Google is also said to be working on a set. Snap, the firm behind Snapchat, has just launched Specs, which are retailing in the US for $2,195 (and £1,995 in the UK). Users can see data inside the glass, and snap their fingers to take a photo.
-Snap founder Evan Spiegel says he thinks smart glasses will eventually replace phones, and he's not alone.
-Step back or 'half step to the side'?
-When Meta launched smart glasses in 2021, they were geared in part around what the user could see. The firm promised they would allow users to "easily record the world as you see it", and to "capture life's moments as they happen from a unique first-person perspective".
-So Meta's latest announcement - glasses without a camera - is notable.
-Janusz Swierczynski, a researcher at Oxford University's Saïd Business School, who is worried about smart glasses, says the release of a camera-free version is a "positive sign" that Meta seems to have listened to privacy concerns. "They're thinking about it and that they're responding," he says, though he thinks it's "not a perfect" response because the camera-enabled glasses are still on the market.
-Others are less sure it represents a real shift.
-"It's certainly not the end of cameras in glasses," says Wood, from CCS Insight. He thinks that smart glasses are largely about capturing information; the glasses collect as much data as they can from your surroundings and then use AI to tell you about it.
-And glasses armed with a camera - trained on whatever you can see - are an "extremely good" source of that information.
-"That is an invaluable data stream to an AI platform, which can then interpret that data and provide you with the best possible information related to it," Wood says. "So having the vision parts of it with the cameras is a key pillar for getting the best experience."
-More from InDepth
-AI 'slop' is transforming social media - and a backlash is brewing
-- Published4 February
-Tech billionaires seem to be doom prepping. Should we all be worried?
-- Published10 October 2025
-He imagines Meta has been working on the camera-free glasses for several years, and the current backlash over privacy provides "fantastic timing" for their release.
-Indeed, Meta doesn't yet show any signs of slowing down its development of camera-enabled glasses. The company is bringing its third generation of the glasses to the UK next month. These can visually display data inside the specs' lenses. (As a live broadcast journalist who has talked openly about brain fog, I can see the appeal of glasses that can discreetly display a script).
-Kate Winick, a tech analyst at the research firm Forrester, says it's not a step back from camera-enabled glasses but more of a "half step to the side, where they give users time to get comfortable with the technology… so that users themselves start to say, 'Oh, this would be so much more useful if it had a camera'."
-And she says, paradoxically, the existence of camera-free glasses might help "take the heat" off people who wear camera-enabled glasses in public. "It's now clear that out in the market some glasses have cameras and some don't," she says. "You can't automatically get mad at everybody wearing Meta's glasses, because you may not know whether or not they have a camera."
-Towards a social norm
-And other companies are trying to address privacy concerns in different ways - without getting rid of the camera.
-The Taiwanese firm HTC recently launched Vive Eagle glasses, which cost less than a quarter of Snap's.
-Thomas Dexmier, a vice president at HTC Vive, says that if anyone near an Eagle specs wearer says "stop filming" or "stop recording", and it is picked up by one of the four microphones, the camera will deactivate.
-And he adds that all recordings captured by the glasses are encrypted, and the firm itself cannot see them - though this also means HTC cannot flag harmful content.
-"We acknowledge that there are some challenges, potentially becoming a real problem, especially for women," he said.
-He said HTC Vive was working to make it as difficult as possible for the tech to be misused but said it was "too early to comment" on whether the firm would consider a version without cameras.
-Ultimately, Wood thinks that camera-enabled glasses are "not going away".
-He says the current moment reminds him of the 2000s, when some people said that mobile phone companies couldn't install cameras in their devices because of similar concerns over privacy. "There's an inevitability there," he says.
-"We will have to find a societal norm, a framework for the use of these products."
-Top image credit: Getty.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `When Meta first launched its AI-powered smart glasses in 2023, in collaboration with the trendy sunglasses brand Ray-Ban, it unleashed a storm of controversy.
-There have been multiple reports of the devices being used to harass women and girls in particular, filming them without their consent, then sharing the footage.
-The image problem doesn't seem to have been cured by Meta's enlistment this summer of Kylie Jenner, Kim Kardashian's sister, as their prime model. The devices have been dubbed "pervert" or "creepy" glasses. In the UK, JD Wetherspoon pubs, a handful of major theatres, Comic-Con, some schools, and Faslane, home of the UK's nuclear submarines, have all chosen to ban them.
-On Thursday, Meta is unveiling a new version which does not contain a camera at all, called Ray-Ban Meta Audio. They will have the audio functions of the original glasses - including the ability to make phone calls or play music, with the sound funnelled directly into your ear - but with fewer implications for privacy.
-To some in the industry, it looks like an interesting pivot - a response, perhaps, to the backlash over privacy.
-The tech giant denies that the new glasses have been rushed out in response to public anger. They say the product has been in development for two years. The audio-only version is cheaper than its camera-enabled cousins, and Meta says it has a lighter frame and better battery life.
-When I put it to Meta Glasses' head of product Ankit Brahmbhatt that I thought they might overtake the original camera-enabled glasses in sales, there was a pregnant pause.
-"We have, I think, something for everyone," he said, choosing his words very carefully.
-Does the release of a camera-free option represent a shift in how tech companies see the future of smart glasses? And is Meta's original vision getting further away?
-Or should we see camera-free glasses as a niche side-product that serves a small market - a bit like how some mobile manufacturers are now releasing internet-disabled "brick" phones for people who are tired of social media?
-Music, maps, and washing cars
-There's no doubt that smart glasses have become controversial.
-I was lent a pair of Meta Ray-Bans – with cameras - to try out. I was initially nervous about wearing them in public, in case someone got physical: I have heard of people knocking them off wearers' heads and smashing them in the street.
-The reality was that I wore them on public transport and on foot in several cities including London, Glasgow and Portsmouth, and nobody batted an eyelid. It made me wonder whether awareness of them is really as high as both Meta and anti-glasses campaigners believe.
-That said, some people quietly told me they would not be confident enough to approach someone wearing them even if they did spot them, for fear of the interaction being filmed and uploaded.
-The glasses are designed to work as an extension of your phone. They use Bluetooth to sync with a handset via Meta's AI app. They are voice-activated, with open speakers in the arms funnelling sound into your ears. The result is a bit like wearing headphones without the addition of noise-cancelling features, so you can still hear the world around you.
-My potentially cancellable opinion is that I found many of the glasses' features useful. Interestingly, none of them included the camera.
-Listening to music and podcasts on the move without having earbuds stuffed into my ears felt safer. I felt more confident about avoiding the gamut of e-bike-riding phone thieves in central London without my phone physically in my hand.
-And as someone with a pitiful sense of direction, I rely a lot on map apps. It was handy to have the directions spoken in my ears. The pay-off for this, however, was having to accept allowing the Meta AI app to know exactly where I was at all times. Meta is notorious for its hunger for personal data.
-When I posted about using the Meta Ray-Bans on social media, I got a bit of a hard time. Less so when I showed them to people in my everyday life.
-My hairdresser loved the idea of using them to record her clients' hair transformations. A builder I chatted to at the gym reckoned they would be useful on sites for recording what he was doing, either in the event of an accident or even to teach others new skills. My friend who runs said he would like to wear them on a jog.
-Plenty of content creators are big fans. My son borrowed them to wash my car, and was proud of his film showing me how he delicately chipped away at a stubborn bit of bird poo without damaging the paintwork (I was pleased, and happy to take his word for it).
-More broadly, smart glasses have been welcomed by the blind community. One user described them to the BBC as a "game-changer" because they can give audio descriptions of current locations and read out visible text like restaurant menu options. Earlier this year Meta donated 15,000 pairs to a charity for the blind in Ireland.
-Calls for regulation
-But still, anger over privacy has grown.
-The glasses have a blinking white LED that switches on when the camera is active, but a whole industry has sprung up around finding technical workarounds to disable that light, some of which involve taking the glasses apart.
-Meta says less than 0.1% of the frames it has sold worldwide have been physically tampered with. Exact sales figures are unknown, but Ray-Ban's parent company EssilorLuxottica has reported that it sold seven million last year.
-Liz Hunter, a tech founder and parent who has set up a petition calling for urgent new regulation of smart glasses, is furious.
-"They should never, ever have left the lab at Meta," she told me. "It's a real travesty of public trust, and of women's equality, and it's rolled back our privacy rights right before our very eyes."
-Hunter thinks smart glasses should remain available for blind people, but not for the general population.
-"We don't need them, we don't want them," she says.
-A Polish developer has released an app called ZuckOff which uses Bluetooth to identify nearby smart glasses. It's been downloaded thousands of times, reports Wired magazine.
-Ben Wood, from tech research firm CCS Insight, remembers first reading the phrase "pervert glasses" in the usually strait-laced Financial Times - a sign, he says, that it had prompted a "significant public backlash".
-The furore has not deterred other companies from eyeing the market, however.
-Samsung is reported to be working on a collaboration with the upmarket glasses brand Warby Parker. Google is also said to be working on a set. Snap, the firm behind Snapchat, has just launched Specs, which are retailing in the US for $2,195 (and £1,995 in the UK). Users can see data inside the glass, and snap their fingers to take a photo.
-Snap founder Evan Spiegel says he thinks smart glasses will eventually replace phones, and he's not alone.
-Step back or 'half step to the side'?
-When Meta launched smart glasses in 2021, they were geared in part around what the user could see. The firm promised they would allow users to "easily record the world as you see it", and to "capture life's moments as they happen from a unique first-person perspective".
-So Meta's latest announcement - glasses without a camera - is notable.
-Janusz Swierczynski, a researcher at Oxford University's Saïd Business School, who is worried about smart glasses, says the release of a camera-free version is a "positive sign" that Meta seems to have listened to privacy concerns. "They're thinking about it and that they're responding," he says, though he thinks it's "not a perfect" response because the camera-enabled glasses are still on the market.
-Others are less sure it represents a real shift.
-"It's certainly not the end of cameras in glasses," says Wood, from CCS Insight. He thinks that smart glasses are largely about capturing information; the glasses collect as much data as they can from your surroundings and then use AI to tell you about it.
-And glasses armed with a camera - trained on whatever you can see - are an "extremely good" source of that information.
-"That is an invaluable data stream to an AI platform, which can then interpret that data and provide you with the best possible information related to it," Wood says. "So having the vision parts of it with the cameras is a key pillar for getting the best experience."
-More from InDepth
-AI 'slop' is transforming social media - and a backlash is brewing
-- Published4 February
-Tech billionaires seem to be doom prepping. Should we all be worried?
-- Published10 October 2025
-He imagines Meta has been working on the camera-free glasses for several years, and the current backlash over privacy provides "fantastic timing" for their release.
-Indeed, Meta doesn't yet show any signs of slowing down its development of camera-enabled glasses. The company is bringing its third generation of the glasses to the UK next month. These can visually display data inside the specs' lenses. (As a live broadcast journalist who has talked openly about brain fog, I can see the appeal of glasses that can discreetly display a script).
-Kate Winick, a tech analyst at the research firm Forrester, says it's not a step back from camera-enabled glasses but more of a "half step to the side, where they give users time to get comfortable with the technology… so that users themselves start to say, 'Oh, this would be so much more useful if it had a camera'."
-And she says, paradoxically, the existence of camera-free glasses might help "take the heat" off people who wear camera-enabled glasses in public. "It's now clear that out in the market some glasses have cameras and some don't," she says. "You can't automatically get mad at everybody wearing Meta's glasses, because you may not know whether or not they have a camera."
-Towards a social norm
-And other companies are trying to address privacy concerns in different ways - without getting rid of the camera.
-The Taiwanese firm HTC recently launched Vive Eagle glasses, which cost less than a quarter of Snap's.
-Thomas Dexmier, a vice president at HTC Vive, says that if anyone near an Eagle specs wearer says "stop filming" or "stop recording", and it is picked up by one of the four microphones, the camera will deactivate.
-And he adds that all recordings captured by the glasses are encrypted, and the firm itself cannot see them - though this also means HTC cannot flag harmful content.
-"We acknowledge that there are some challenges, potentially becoming a real problem, especially for women," he said.
-He said HTC Vive was working to make it as difficult as possible for the tech to be misused but said it was "too early to comment" on whether the firm would consider a version without cameras.
-Ultimately, Wood thinks that camera-enabled glasses are "not going away".
-He says the current moment reminds him of the 2000s, when some people said that mobile phone companies couldn't install cameras in their devices because of similar concerns over privacy. "There's an inevitability there," he says.
-"We will have to find a societal norm, a framework for the use of these products."
-Top image credit: Getty.
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-24T00:50:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bad/live/e6a022b0-b75a-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "how-the-oil-capital-of-the-us-welcomed-a-ed890858",
-    title: "How the oil capital of the US welcomed a solar power boom",
-    titleJa: "How the oil capital of the US welcomed a solar power boom",
-    summaryJa: "How the oil capital of the US welcomed a solar power boom- Published",
-    bodyOriginal: `How the oil capital of the US welcomed a solar power boom
-- Published
-Steve Cargil's family has farmed the flat, dry land around Uvalde, a small city in southwest Texas, since 1953.
-Cargil, 67, had always assumed that one of his three children would eventually take it over, the way he had from his father.
-But that assumption took a hit one night in 2018 after a violent hailstorm.
-Cargil and his son, Ryan, had spent months nursing crops of cabbage and onions to harvest. Then a storm rolled through and destroyed them overnight.
-"I remember my son saying, 'Dad, I just don't know if I can do this. You do everything right, and we work so hard, and you come out one morning and it's all gone'," Cargil says.
-Cargil's farm was at risk of ending with him, he says, with none of his three children wanting to farm full time. For years, that left him wondering what would happen to the land, and to his own retirement, since farmers rarely have a pension to fall back on.
-Then in 2001 Cargil signed a deal to lease 600 acres of his land, about a quarter of the total, to a company called OCI Energy which built a vast solar farm.
-"Never in my wildest dreams did I think that a solar project would be on my farm," Cargil says. Looking back now, he calls it a blessing.
-The lease, which pays Cargil $200,000 (£150,000) a year, has let him keep his farm running through a punishing drought. He has been able to concentrate his water irrigation allowance on the land he still farms, and he has stopped losing sleep over rises in the price of things such as diesel and fertiliser. "It's changed my life."
-Texas, which remains the largest oil producer in the US, earlier this year overtook California to become the country's biggest generator of electricity from solar farms., external
-And in March of last year, more electricity was produced by solar in Texas than from coal for the first time, according to the US Energy Information Administration.
-On hot afternoons, when demand for power peaks, solar is now regularly supplying around a third of the electricity used across Texas, says Mark Stover, executive director of the Texas Solar and Storage Association.
-He says that the solar boom is being driven by two main things. Firstly, it is cheap and quick to connect solar farms to Texas' power grid, which is separate to the rest of the US. Secondly, Texas has a huge and growing appetite for electricity, driven by a burgeoning population.
-Between 2015 and 2025, Texas's population increased by 15.8%,, external making it one of the fastest-growing states in the nation.
-"We need a whole lot of power in Texas, and we need it quickly," Stover says.
-Solar has also become inexpensive. James Scott, vice president of project development at OCI, says the technology has had years of small manufacturing gains that brought the price down to the point where it is now the cheapest way to generate power in the state.
-"No one would have believed that 20 years ago," Scott says.
-Once a project is built, he says, the price of the electricity it produces can be fixed for decades, since the fuel, sunlight, is free.
-"We'll charge you $40 a megawatt hour for the next 25 years," Scott says, adding that large buyers such as Amazon and Apple value being able to lock in a price for that long.
-By contrast, new coal plants in the US produce power at nearly $90 megawatts per hour, says the Energy Information Administration.
-Farmers have become central to that growth because solar developers need large stretches of flat land.
-Stover says the industry is now paying out multigenerational income to families through leases that typically run 25 to 30 years and rise in value each year, letting some retire, set up family trusts, or simply keep a farm solvent.
-Stover argues solar's footprint is smaller than critics assume. "The industry is utilizing less than 0.15% of Texas land," he says.
-Yet solar has its opponents. In Franklin County, in northeast Texas, a small group of residents has spent the past few years fighting its growth.
-BF Hicks, a local lawyer whose family has owned land in the county since the 1800s, says he watched neighbours sign 30-year leases with solar companies and bulldozers clear centuries-old oak trees near his property.
-He describes a summer when smoke from burning cleared land hung over his town for weeks. "It got real personal," he says, when a solar farm was built next to his family's cemetery. His relatives have been buried here dating back two centuries.
-David Truesdale, a retired federal law enforcement agent who moved to the county to get away from city life, says he became involved after learning that a neighbouring solar project would sit near his home. And that under Texan law no environmental review was required.
-"We're destroying the world as we're trying to save it," Truesdale says of the land clearing he has seen. He also points to the large lithium-ion battery units installed alongside many solar farms, drawing a comparison to fires that have occasionally engulfed similar batteries in electric bikes.
-"If one of those things catches fire, they go off in series, so each one will progressively cause another one to go off," he says.
-Both men say their objections are not about politics. Franklin County is solidly conservative, but its residents helped push through one of the state's first county-level moratoriums on new solar construction, before it was later rescinded under legal pressure from developers.
-Their complaints echo a broader unease that has followed solar's expansion into rural Texas - worries about visual impact, water runoff after land is cleared, and battery storage units that scorch their land.
-President Trump has called solar and wind power "farmer destroying" and moved to unwind tax credits for renewable projects.
-Yet Fabrizio Lee and Associates, the polling firm used by President Trump, found back in February that 68% of Republican voters believe the country needs "all forms of electricity generation, including utility solar" to keep costs down., external
-Stover says he has found broad support in the Republican-controlled Texas state legislature. "There is an acceptance that these technologies bring reliability benefits to the grid," he says.
-Back in Uvalde, Steve Cargil says that while he has no plans to retire any time soon, he is more positive that the farm might make it to a fifth generation after all, now that the solar farm has put a floor under its finances.
-"You're better off being lucky than being smart," Cargil says, echoing something his father used to tell him. "And this was one of those cases where I was just lucky."
-- Published1 day ago
-- Published7 days ago
-- Published3 September`,
-    bodyJa: `How the oil capital of the US welcomed a solar power boom
-- Published
-Steve Cargil's family has farmed the flat, dry land around Uvalde, a small city in southwest Texas, since 1953.
-Cargil, 67, had always assumed that one of his three children would eventually take it over, the way he had from his father.
-But that assumption took a hit one night in 2018 after a violent hailstorm.
-Cargil and his son, Ryan, had spent months nursing crops of cabbage and onions to harvest. Then a storm rolled through and destroyed them overnight.
-"I remember my son saying, 'Dad, I just don't know if I can do this. You do everything right, and we work so hard, and you come out one morning and it's all gone'," Cargil says.
-Cargil's farm was at risk of ending with him, he says, with none of his three children wanting to farm full time. For years, that left him wondering what would happen to the land, and to his own retirement, since farmers rarely have a pension to fall back on.
-Then in 2001 Cargil signed a deal to lease 600 acres of his land, about a quarter of the total, to a company called OCI Energy which built a vast solar farm.
-"Never in my wildest dreams did I think that a solar project would be on my farm," Cargil says. Looking back now, he calls it a blessing.
-The lease, which pays Cargil $200,000 (£150,000) a year, has let him keep his farm running through a punishing drought. He has been able to concentrate his water irrigation allowance on the land he still farms, and he has stopped losing sleep over rises in the price of things such as diesel and fertiliser. "It's changed my life."
-Texas, which remains the largest oil producer in the US, earlier this year overtook California to become the country's biggest generator of electricity from solar farms., external
-And in March of last year, more electricity was produced by solar in Texas than from coal for the first time, according to the US Energy Information Administration.
-On hot afternoons, when demand for power peaks, solar is now regularly supplying around a third of the electricity used across Texas, says Mark Stover, executive director of the Texas Solar and Storage Association.
-He says that the solar boom is being driven by two main things. Firstly, it is cheap and quick to connect solar farms to Texas' power grid, which is separate to the rest of the US. Secondly, Texas has a huge and growing appetite for electricity, driven by a burgeoning population.
-Between 2015 and 2025, Texas's population increased by 15.8%,, external making it one of the fastest-growing states in the nation.
-"We need a whole lot of power in Texas, and we need it quickly," Stover says.
-Solar has also become inexpensive. James Scott, vice president of project development at OCI, says the technology has had years of small manufacturing gains that brought the price down to the point where it is now the cheapest way to generate power in the state.
-"No one would have believed that 20 years ago," Scott says.
-Once a project is built, he says, the price of the electricity it produces can be fixed for decades, since the fuel, sunlight, is free.
-"We'll charge you $40 a megawatt hour for the next 25 years," Scott says, adding that large buyers such as Amazon and Apple value being able to lock in a price for that long.
-By contrast, new coal plants in the US produce power at nearly $90 megawatts per hour, says the Energy Information Administration.
-Farmers have become central to that growth because solar developers need large stretches of flat land.
-Stover says the industry is now paying out multigenerational income to families through leases that typically run 25 to 30 years and rise in value each year, letting some retire, set up family trusts, or simply keep a farm solvent.
-Stover argues solar's footprint is smaller than critics assume. "The industry is utilizing less than 0.15% of Texas land," he says.
-Yet solar has its opponents. In Franklin County, in northeast Texas, a small group of residents has spent the past few years fighting its growth.
-BF Hicks, a local lawyer whose family has owned land in the county since the 1800s, says he watched neighbours sign 30-year leases with solar companies and bulldozers clear centuries-old oak trees near his property.
-He describes a summer when smoke from burning cleared land hung over his town for weeks. "It got real personal," he says, when a solar farm was built next to his family's cemetery. His relatives have been buried here dating back two centuries.
-David Truesdale, a retired federal law enforcement agent who moved to the county to get away from city life, says he became involved after learning that a neighbouring solar project would sit near his home. And that under Texan law no environmental review was required.
-"We're destroying the world as we're trying to save it," Truesdale says of the land clearing he has seen. He also points to the large lithium-ion battery units installed alongside many solar farms, drawing a comparison to fires that have occasionally engulfed similar batteries in electric bikes.
-"If one of those things catches fire, they go off in series, so each one will progressively cause another one to go off," he says.
-Both men say their objections are not about politics. Franklin County is solidly conservative, but its residents helped push through one of the state's first county-level moratoriums on new solar construction, before it was later rescinded under legal pressure from developers.
-Their complaints echo a broader unease that has followed solar's expansion into rural Texas - worries about visual impact, water runoff after land is cleared, and battery storage units that scorch their land.
-President Trump has called solar and wind power "farmer destroying" and moved to unwind tax credits for renewable projects.
-Yet Fabrizio Lee and Associates, the polling firm used by President Trump, found back in February that 68% of Republican voters believe the country needs "all forms of electricity generation, including utility solar" to keep costs down., external
-Stover says he has found broad support in the Republican-controlled Texas state legislature. "There is an acceptance that these technologies bring reliability benefits to the grid," he says.
-Back in Uvalde, Steve Cargil says that while he has no plans to retire any time soon, he is more positive that the farm might make it to a fifth generation after all, now that the solar farm has put a floor under its finances.
-"You're better off being lucky than being smart," Cargil says, echoing something his father used to tell him. "And this was one of those cases where I was just lucky."
-- Published1 day ago
-- Published7 days ago
-- Published3 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T23:12:22+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f97/live/4aae6ad0-b68b-11f1-b1d1-571ed4d7ff2c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "proteinflation-meet-the-people-paying-u-d0f89755",
-    title: "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-    titleJa: "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-    summaryJa: "'Proteinflation': Meet the people paying up to £100 for a bag of protein- Published",
-    bodyOriginal: `'Proteinflation': Meet the people paying up to £100 for a bag of protein
-- Published
-Amarpreet Singh has been drinking protein shakes since he was 16.
-The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders.
-Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive.
-He says a 4.5kg bag of the whey protein he buys cost around £60 in 2020.
-By last year, the price had gone up to £120, though he managed to get one from eBay for £90.
-Now the same bag is £170.
-"I was a bit gobsmacked," he says.
-Among his gym friends, the rising prices have even been given a nickname – "proteinflation".
-Over the years, protein powders and shakes have attracted a much broader customer base, while food manufacturers now offer high-protein versions of everything from bagels to water.
-Evie Lewis is a more recent buyer of protein powder.
-The 19-year-old University of Manchester student began using it a few months ago because she felt she wasn't getting enough protein in her diet.
-"You hear a lot more about protein now on social media," she says.
-But at £32.99 for a 420g tub, she's feeling the high price and tries to make the product stretch.
-"I've been rationing it and using less than what's suggested," she admits.
-'I have a protein shake every day'
-Max Longman, 32, from Manchester, works in real estate and has been taking protein supplements for 10 years, originally to help him gain weight.
-He now drinks a protein shake every day and says his monthly spending on whey protein has risen from around £45 a year ago to £60 now.
-"Loads of foods have protein added to them now. Up until a few years ago, I'd never heard of high-protein yoghurt, and now I eat it three or four times a week," he says.
-More recently, weight-loss drugs such as Wegovy and Mounjaro have added another source of demand.
-People taking these drugs typically eat less, and are often encouraged to make sure they get enough protein while losing weight to help preserve muscle.
-But that growing appetite for protein is running up against a problem - supply has not kept pace.
-And the result has been a sharp rise in the wholesale price of some key ingredients, and consumers are feeling the squeeze.
-High whey protein prices take chunk out of THG profits
-- Published6 August 2025
-Food firms scramble to meet the high-protein craze
-- Published7 October 2025
-According to global market intelligence platform Expana, the European price of one widely used type of high-protein whey was 130% higher in late August than a year earlier, and more than four times its level three years ago.
-There is no equivalent UK measure, but Expana says the UK market is closely linked to mainland Europe, where some British businesses source their whey protein.
-Other dairy proteins have also become more expensive, with another type of whey protein up 60% over the year, while one type of milk protein concentrate was up 80%.
-Adapting products
-Manufacturers say that increasing production takes time and is costly, as producing high-protein whey requires specialist processing and drying equipment.
-So some are starting to adapt what they make, by changing recipes or looking for cheaper sources of protein.
-Warrior, a UK sports nutrition company, is one of those looking for alternatives.
-"Our whey protein powder was £12.50 on the shelf last year. We've put that up to £17.99 and we're still subsidising that from other aspects of the business," says its founder Kieran Fisher.
-The company is now launching a product using other sources of protein, which Fisher says costs around half as much as whey.
-The effects are also being felt outside the fitness market.
-Dairy proteins are used in infant formula, and Expana says higher dairy protein costs have contributed to price rises there too.
-Will people keep buying protein?
-There are, however, early signs that the market is starting to adjust.
-Wholesale prices for high-protein whey have begun to level off over the past couple of months, although they remain much higher than they were a few years ago.
-For now though, the higher prices aren't putting off Max.
-"It feels like protein is so important now, a lot more than it used to be. It's pushed out everywhere," he says.
-"If you're doing exercise and not taking any, you feel like you wouldn't be recovering properly."
-But for students like Evie, managing on a much tighter budget, it's a different story.
-"It was affordable on my gap year [when she was working], but now I'm at university, I don't think I'll continue buying it. It's not a necessity right now," she says.
-Amarpreet says he will continue buying protein, but admits "it's becoming a luxury". He says £170 for a bag is too much for him, so he's switching to a cheaper brand, which he can get for about £100 a bag.`,
-    bodyJa: `'Proteinflation': Meet the people paying up to £100 for a bag of protein
-- Published
-Amarpreet Singh has been drinking protein shakes since he was 16.
-The 30-year-old, who lives in London and works in banking, started going to the gym at a time when he says protein supplements were mostly associated with bodybuilders.
-Fourteen years later, shakes are still part of his routine, but they have become considerably more expensive.
-He says a 4.5kg bag of the whey protein he buys cost around £60 in 2020.
-By last year, the price had gone up to £120, though he managed to get one from eBay for £90.
-Now the same bag is £170.
-"I was a bit gobsmacked," he says.
-Among his gym friends, the rising prices have even been given a nickname – "proteinflation".
-Over the years, protein powders and shakes have attracted a much broader customer base, while food manufacturers now offer high-protein versions of everything from bagels to water.
-Evie Lewis is a more recent buyer of protein powder.
-The 19-year-old University of Manchester student began using it a few months ago because she felt she wasn't getting enough protein in her diet.
-"You hear a lot more about protein now on social media," she says.
-But at £32.99 for a 420g tub, she's feeling the high price and tries to make the product stretch.
-"I've been rationing it and using less than what's suggested," she admits.
-'I have a protein shake every day'
-Max Longman, 32, from Manchester, works in real estate and has been taking protein supplements for 10 years, originally to help him gain weight.
-He now drinks a protein shake every day and says his monthly spending on whey protein has risen from around £45 a year ago to £60 now.
-"Loads of foods have protein added to them now. Up until a few years ago, I'd never heard of high-protein yoghurt, and now I eat it three or four times a week," he says.
-More recently, weight-loss drugs such as Wegovy and Mounjaro have added another source of demand.
-People taking these drugs typically eat less, and are often encouraged to make sure they get enough protein while losing weight to help preserve muscle.
-But that growing appetite for protein is running up against a problem - supply has not kept pace.
-And the result has been a sharp rise in the wholesale price of some key ingredients, and consumers are feeling the squeeze.
-High whey protein prices take chunk out of THG profits
-- Published6 August 2025
-Food firms scramble to meet the high-protein craze
-- Published7 October 2025
-According to global market intelligence platform Expana, the European price of one widely used type of high-protein whey was 130% higher in late August than a year earlier, and more than four times its level three years ago.
-There is no equivalent UK measure, but Expana says the UK market is closely linked to mainland Europe, where some British businesses source their whey protein.
-Other dairy proteins have also become more expensive, with another type of whey protein up 60% over the year, while one type of milk protein concentrate was up 80%.
-Adapting products
-Manufacturers say that increasing production takes time and is costly, as producing high-protein whey requires specialist processing and drying equipment.
-So some are starting to adapt what they make, by changing recipes or looking for cheaper sources of protein.
-Warrior, a UK sports nutrition company, is one of those looking for alternatives.
-"Our whey protein powder was £12.50 on the shelf last year. We've put that up to £17.99 and we're still subsidising that from other aspects of the business," says its founder Kieran Fisher.
-The company is now launching a product using other sources of protein, which Fisher says costs around half as much as whey.
-The effects are also being felt outside the fitness market.
-Dairy proteins are used in infant formula, and Expana says higher dairy protein costs have contributed to price rises there too.
-Will people keep buying protein?
-There are, however, early signs that the market is starting to adjust.
-Wholesale prices for high-protein whey have begun to level off over the past couple of months, although they remain much higher than they were a few years ago.
-For now though, the higher prices aren't putting off Max.
-"It feels like protein is so important now, a lot more than it used to be. It's pushed out everywhere," he says.
-"If you're doing exercise and not taking any, you feel like you wouldn't be recovering properly."
-But for students like Evie, managing on a much tighter budget, it's a different story.
-"It was affordable on my gap year [when she was working], but now I'm at university, I don't think I'll continue buying it. It's not a necessity right now," she says.
-Amarpreet says he will continue buying protein, but admits "it's becoming a luxury". He says £170 for a bag is too much for him, so he's switching to a cheaper brand, which he can get for about £100 a bag.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T23:12:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9929/live/60547480-b76a-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "us-rejects-pleas-from-openai-anthropic-f-68ad8e83",
-    title: "US rejects pleas from OpenAI, Anthropic for global AI standards",
-    titleJa: "US rejects pleas from OpenAI, Anthropic for global AI standards",
-    summaryJa: "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-    bodyOriginal: `US rejects pleas from OpenAI, Anthropic for global AI standards
-- Published
-The heads of OpenAI, Anthropic, and Hugging Face have told the UN that the current pace of artificial intelligence (AI) development, and the risks it poses to society, demands international coordination.
-Altman called for common risk evaluation standards, as did Dario Amodei of Anthropic, a main rival of OpenAI, and Clement Delangue of Hugging Face.
-Earlier this month, Amodei wrote an essay welcomed by Altman and others calling an AI development slowdown in response to fears about the technology's threat to humanity.
-However, at the same UN conference, a key technology advisor to US President Donald Trump, rejected the idea any new form of AI regulation.
-Michael Kratsios, a former Scale AI executive, admitted that the speed of AI development is increasing and that there are risks presented by the technology, but told the UN this was not reason enough "to pause development or constrain it with new global governance structures".
-"International dialogue in this forum and others cannot be allowed to drift toward global governance," Kratsios added.
-Kratsios's comments echoed similar statements made by Trump in recent weeks.
-Trump told the UN on Tuesday he wanted to rebrand it "super intelligence" and has strongly opposed any idea of an AI slowdown because of the US's competitive advantage in the sector.
-"We're leading China on AI... and, frankly, I want to keep it that way because whoever wins AI, wins," he said earlier this month.
-Sam Altman of OpenAI and other AI chief executives expressed a different view in their talks to the UN on Wednesday.
-"If AI is to be democratic, the most important decisions cannot be made by labs in San Francisco alone," said Altman.
-He told the UN that he wanted countries to start working together toward "the collective good in the face of powerful new technology".
-He called for "national and international" AI standards on measuring the capabilities of an AI tool, assessing related risks, AI safeguards, and the degree to which human oversight over such tools is maintained.
-He also called for "speedy incident reporting, classification, and reporting protocols so the world can learn from failures before they become catastrophes".
-"We need common standards so countries can compare evidence, verify compliance, and have a shared language and understanding what is happening," Altman added.
-Not all AI workers think the tech could kill everyone
-- Published4 days ago
-AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
-- Published15 September
-Anthropic's Amodei and Hugging Face's Delangue made similar comments in their speeches.
-Amodei said that AI "if managed poorly... could be a risk to humanity as a whole".
-He added that further development of AI tools calls for "even more stringent standards of safety".
-"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe," Amodei added.
-"But regardless of what we do, managing these risks is ultimately bigger than any one company, and it has an industry-wide and global scale."
-Hugging Face's Delangue said: "The global community needs stronger standards for monitoring and incident disclosure."
-All three of the executives are based in the US and directly involved in the development of AI technology.
-Hugging Face, a platform for AI developers, more recently rose to prominence after it admitted to being hacked by AI agents, or AI bots that operate somewhat autonomously, that came out of OpenAI.
-Hugging Face has since been acquired by AI chipmaker Nvidia.
-The Hugging Face hack has been treated as a 'wake-up call' within the industry for the ways in which AI technology has advanced and could hypothetically act in ways that could harm humanity.`,
-    bodyJa: `US rejects pleas from OpenAI, Anthropic for global AI standards
-- Published
-The heads of OpenAI, Anthropic, and Hugging Face have told the UN that the current pace of artificial intelligence (AI) development, and the risks it poses to society, demands international coordination.
-Altman called for common risk evaluation standards, as did Dario Amodei of Anthropic, a main rival of OpenAI, and Clement Delangue of Hugging Face.
-Earlier this month, Amodei wrote an essay welcomed by Altman and others calling an AI development slowdown in response to fears about the technology's threat to humanity.
-However, at the same UN conference, a key technology advisor to US President Donald Trump, rejected the idea any new form of AI regulation.
-Michael Kratsios, a former Scale AI executive, admitted that the speed of AI development is increasing and that there are risks presented by the technology, but told the UN this was not reason enough "to pause development or constrain it with new global governance structures".
-"International dialogue in this forum and others cannot be allowed to drift toward global governance," Kratsios added.
-Kratsios's comments echoed similar statements made by Trump in recent weeks.
-Trump told the UN on Tuesday he wanted to rebrand it "super intelligence" and has strongly opposed any idea of an AI slowdown because of the US's competitive advantage in the sector.
-"We're leading China on AI... and, frankly, I want to keep it that way because whoever wins AI, wins," he said earlier this month.
-Sam Altman of OpenAI and other AI chief executives expressed a different view in their talks to the UN on Wednesday.
-"If AI is to be democratic, the most important decisions cannot be made by labs in San Francisco alone," said Altman.
-He told the UN that he wanted countries to start working together toward "the collective good in the face of powerful new technology".
-He called for "national and international" AI standards on measuring the capabilities of an AI tool, assessing related risks, AI safeguards, and the degree to which human oversight over such tools is maintained.
-He also called for "speedy incident reporting, classification, and reporting protocols so the world can learn from failures before they become catastrophes".
-"We need common standards so countries can compare evidence, verify compliance, and have a shared language and understanding what is happening," Altman added.
-Not all AI workers think the tech could kill everyone
-- Published4 days ago
-AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC
-- Published15 September
-Anthropic's Amodei and Hugging Face's Delangue made similar comments in their speeches.
-Amodei said that AI "if managed poorly... could be a risk to humanity as a whole".
-He added that further development of AI tools calls for "even more stringent standards of safety".
-"We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe," Amodei added.
-"But regardless of what we do, managing these risks is ultimately bigger than any one company, and it has an industry-wide and global scale."
-Hugging Face's Delangue said: "The global community needs stronger standards for monitoring and incident disclosure."
-All three of the executives are based in the US and directly involved in the development of AI technology.
-Hugging Face, a platform for AI developers, more recently rose to prominence after it admitted to being hacked by AI agents, or AI bots that operate somewhat autonomously, that came out of OpenAI.
-Hugging Face has since been acquired by AI chipmaker Nvidia.
-The Hugging Face hack has been treated as a 'wake-up call' within the industry for the ways in which AI technology has advanced and could hypothetically act in ways that could harm humanity.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T22:35:14+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c6c/live/9e4ea090-b791-11f1-a7dc-51a9fb487fda.jpg",
-    readTime: 10,
-  },
-  {
-    id: "ai-superpower-ambitions-take-centre-stag-1d611b39",
-    title: "AI superpower ambitions take centre stage as Trump and Xi meet",
-    titleJa: "AI superpower ambitions take centre stage as Trump and Xi meet",
-    summaryJa: "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-    bodyOriginal: `AI superpower ambitions take centre stage as Trump and Xi meet
-- Published
-"Whoever wins AI, WINS!"
-US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
-His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
-"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
-You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
-For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
-China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
-It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
-Is the US in the lead?
-There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
-American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
-In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
-Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
-The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
-So that might partly explain why President Trump sees AI as key to US success.
-Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
-China's advantage
-Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
-Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
-The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
-This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
-Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
-Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
-Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
-"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
-AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
-"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
-In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
-The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
-Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
-But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
-China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
-Safety concerns?
-China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
-While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
-Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
-"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
-Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
-Beijing has taken a different strategy to the US hands-off approach.
-Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
-"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
-The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
-Will they cooperate?
-Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
-The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
-"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
-Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
-Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
-While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
-What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
-- Published1 day ago
-- Published13 September
-- Published13 September
-- Published6 days ago`,
-    bodyJa: `AI superpower ambitions take centre stage as Trump and Xi meet
-- Published
-"Whoever wins AI, WINS!"
-US President Donald Trump has been blunt about his AI ambitions, as well as about who he considers the US's main rival to be: China.
-His Chinese counterpart, Xi Jinping, has not said anything so forthright - but it seems he holds a similar view.
-"China very much sees it as a race, they very much think China should be the leading force in AI - they see AI as a power maximiser," says Rebecca Arcesati, from the Mercator Institute for China Studies.
-You can look beyond the rhetoric for evidence of this: AI has been a cornerstone of China's technological ambitions for more than a decade, whether Xi emphasises it publicly or not.
-For Trump, beating China to AI supremacy outweighs any risks of the technology to humans - something he has described as "a hoax".
-China's foreign ministry warned that "narratives of threat" and confrontation hinder global AI governance, calling for cooperation to ensure it benefits all.
-It means when the two presidents sit down on Thursday there will be few more important topics than their AI ambitions - and what they say and decide will matter to the whole world.
-Is the US in the lead?
-There's no doubt the US and China are global leaders in AI but who is ahead depends on how success is measured.
-American companies lead on so-called frontier models, with the highest-performing systems on most benchmarks coming from firms such as Anthropic, Google and OpenAI.
-In February 2025, an AI model by China's DeepSeek "briefly matched the top US model" and as of March 2026, Anthropic's top model led the pack "by just 2.7%", according to researchers at Stanford University, external.
-Part of the US advantage stems from the vast sums being invested in leading AI companies as the frontier labs burn through mountains of cash to build the infrastructure to train new models.
-The stock market is booming and a large part of the US economy's expansion relies on the enormous growth - and projected profitability - of AI companies.
-So that might partly explain why President Trump sees AI as key to US success.
-Another factor limiting China's ability is the sweeping government restrictions placed on US companies that prevent them from selling advanced microchips to Chinese firms - these are crucial for developing cutting-edge models.
-China's advantage
-Despite the chip restrictions, new AI models are coming out almost monthly in both countries and it's unclear what "winning" the AI race would actually mean, or whether there is a finish line at all.
-Many companies are racing to develop artificial general intelligence (AGI), a theoretical form of AI capable of learning, reasoning and performing a wide range of tasks at or above the level of humans.
-The Chinese AI industry has so far focused not on creating frontier models but releasing what is known as open weight models - downloadable and tweakable in a similar way to open source software.
-This contrasts with the approach taken by many US firms, which largely focus on proprietary models accessed through paid subscriptions or company platforms.
-Chinese open weight models are being released at a rapid pace, with benchmarks showing the country's top models trailing US rivals by only a few months.
-Models such as Moonshot AI's Kimi K3 have become popular in China and overseas because they perform close to the frontier models while remaining freely downloadable and adaptable.
-Beijing's focus is more about deploying the technology across its economy, China analyst Lizzi Lee from the Asia Society Policy Institute said.
-"AI isn't the moon landing," she said. "The US may lead at the frontier, while China could still gain enormous economic and geopolitical leverage by making capable AI cheap, open and ubiquitous."
-AI is also very energy hungry, and China is very well placed there, Rebecca Arcesati told Tech Life on the BBC World Service.
-"Chinese AI companies are able to access the electricity they need for a much lower cost and that really is an advantage," she said.
-In robotics - a field of AI that some believe will be world-changing - China has become the world's biggest manufacturer of robots, with more than two million working in the country's factories, the International Federation of Robotics estimated.
-The nation is also the world's biggest maker of humanoid robots, accounting for more than nine-tenths of global shipments in the first half of the year, according to independent policy institute Chatham House.
-Chinese AI developers have showed "remarkable resilience and innovation" in spite of the shortage of advanced American chips, analyst Lian Jye Su from tech research firm Omdia said.
-But US officials and AI firms have also alleged that Chinese developers closed the gap by using distillation - a technique that enables models to learn from more advanced platforms.
-China's foreign ministry said in response that AI development was "fuelled" by the country's "vision of extensive consultation and joint contribution for shared benefit".
-Safety concerns?
-China and the US may be in fierce competition, but their governments' approaches to safety concerns are markedly different.
-While some in the industry have recently warned that AI could pose an existential risk to humanity, Chinese researchers seem less concerned about that and are more worried about potential misuse of the technology and cyber war.
-Responding to concerns over AI, Trump has said the US already has sufficient rules in place and that the only guardrails AI needs are a "high IQ" president.
-"We're leading now over China by a lot, and everyone else, and we're going to keep it that way," Trump said this week, adding that the US was not going to "stifle the growth of something that will be bigger than the industrial revolution".
-Washington has prioritised innovation and sought to reduce regulation in an effort to "keep American labs ahead", said information security officer Jayant Dave from cybersecurity firm Check Point Software Technologies.
-Beijing has taken a different strategy to the US hands-off approach.
-Xi urged the country's leaders to keep a close eye on AI's risks and ensure the technology was always "under human control".
-"China has taken a relatively cautious and centrally-coordinated approach," introducing guides on data usage and algorithms before many other countries, helping to address many underlying concerns, Dave said.
-The use of guidelines, though not legally binding, sets expectations while giving developers room to innovate, said National University of Singapore AI ethics lecturer Jonathan Sim.
-Will they cooperate?
-Despite calls for international cooperation, it remains unclear how the AI superpowers plan to address the technology's potential dangers - if at all.
-The two countries have previously cooperated on existential threats such as nuclear weapons, but that was based on a shared understanding of the threat, which is not currently the case with AI, Dave said.
-"Washington worries about capability escaping control. Beijing worries about capability threatening domestic stability," he added.
-Trump has dismissed proposals for an industry-wide slowdown, arguing that it could allow Chinese developers to close the gap.
-Ahead of the Trump-Xi summit, US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng discussed establishing a notification mechanism for serious AI incidents.
-While the messaging from Trump on China in recent weeks has been "more antagonistic", the fact that AI is expected to be on the agenda was a "good start", said policy analyst Leia Wang from the Carnegie Endowment for International Peace.
-What we don't want, she added, was for an "unhealthy version of the race narrative to perpetuate", potentially escalating an already fierce rivalry in AI.
-- Published1 day ago
-- Published13 September
-- Published13 September
-- Published6 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T22:01:17+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg",
-    readTime: 10,
-  },
-  {
-    id: "lidl-banned-from-selling-copycat-birkens-6d7b2e30",
-    title: "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-    titleJa: "Lidl banned from selling copycat Birkenstock sandals, Dutch court rules",
-    summaryJa: "Lidl must also compensate Birkenstock and pay its legal fees, according to the court ruling",
-    bodyOriginal: `Lidl banned from selling copycat Birkenstock sandals, Dutch court rules
-- Published
-Lidl must stop selling copycat versions of Birkenstock's famous sandals in the Netherlands, a Dutch court has ruled.
-The discount supermarket chain faces a fine of €5,000 (£4,200) per day if it fails to comply and must also hand over sales data to Birkenstock, according to the ruling.
-Lidl must also compensate Birkenstock and pay its legal fees, with the amount to be decided in separate court decisions.
-Birkenstock said the judgement sent a clear message that "copycats must not be allowed to free-ride on [our] creativity and innovation". The BBC has contacted Lidl for comment.
-The ruling, which can still be appealed against, means Lidl cannot sell its copycat versions of Birkenstock's Arizona, Madrid, Gizeh, Boston, and Florida models across the Netherlands, after the court found the discount grocer infringed on the brand's trademark "footbed design".
-It is the latest in a string of court decisions on Birkenstock designs.
-In November 2025, a Dutch court order stopped retailer Scapino from selling similar lookalikes in a judgment which is being appealed against.
-And in December 2025, Europe's highest court ruled everyday commercial products can hold copyright if they represent creative design choices, a decision which Birkenstock said was relevant to its "iconic" sandals.
-However, Birkenstock also faced a setback in Germany's highest court in early 2025.
-The sandals may have been cool enough for Margot Robbie to wear in the Barbie film, but the German judges ruled they were practical products rather than works of art – an outcome Birkenstock called a "missed opportunity" at the time.
-Following Wednesday's ruling, Birkenstock said it will "continue to defend its rights vigorously and will use all available legal means to combat imitations of its iconic products".
-"To protect its retail partners and consumers, Birkenstock will continue to take decisive action against copycats seeking to profit from the company's creative ideas and innovations," it added.
-Birkenstock is far from the only fashion brand locked in battles with mass retailers over design mimicry.
-Footwear giants like Dr. Martens have repeatedly taken online big-box sellers to court over boot designs, while luxury house Christian Louboutin spent years in global litigation defending its signature red soles against high-street copycats.
-Related topics
-- Published20 February 2025`,
-    bodyJa: `Lidl banned from selling copycat Birkenstock sandals, Dutch court rules
-- Published
-Lidl must stop selling copycat versions of Birkenstock's famous sandals in the Netherlands, a Dutch court has ruled.
-The discount supermarket chain faces a fine of €5,000 (£4,200) per day if it fails to comply and must also hand over sales data to Birkenstock, according to the ruling.
-Lidl must also compensate Birkenstock and pay its legal fees, with the amount to be decided in separate court decisions.
-Birkenstock said the judgement sent a clear message that "copycats must not be allowed to free-ride on [our] creativity and innovation". The BBC has contacted Lidl for comment.
-The ruling, which can still be appealed against, means Lidl cannot sell its copycat versions of Birkenstock's Arizona, Madrid, Gizeh, Boston, and Florida models across the Netherlands, after the court found the discount grocer infringed on the brand's trademark "footbed design".
-It is the latest in a string of court decisions on Birkenstock designs.
-In November 2025, a Dutch court order stopped retailer Scapino from selling similar lookalikes in a judgment which is being appealed against.
-And in December 2025, Europe's highest court ruled everyday commercial products can hold copyright if they represent creative design choices, a decision which Birkenstock said was relevant to its "iconic" sandals.
-However, Birkenstock also faced a setback in Germany's highest court in early 2025.
-The sandals may have been cool enough for Margot Robbie to wear in the Barbie film, but the German judges ruled they were practical products rather than works of art – an outcome Birkenstock called a "missed opportunity" at the time.
-Following Wednesday's ruling, Birkenstock said it will "continue to defend its rights vigorously and will use all available legal means to combat imitations of its iconic products".
-"To protect its retail partners and consumers, Birkenstock will continue to take decisive action against copycats seeking to profit from the company's creative ideas and innovations," it added.
-Birkenstock is far from the only fashion brand locked in battles with mass retailers over design mimicry.
-Footwear giants like Dr. Martens have repeatedly taken online big-box sellers to court over boot designs, while luxury house Christian Louboutin spent years in global litigation defending its signature red soles against high-street copycats.
-Related topics
-- Published20 February 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqrm90m2g1dzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T21:25:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898d/live/3cf26740-b7ec-11f1-b86f-f9f95031dc8c.jpg",
-    readTime: 6,
   },
 ];
 
