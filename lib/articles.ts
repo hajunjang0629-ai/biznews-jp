@@ -15,6 +15,276 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "appeals-court-rules-that-states-can-regu-6d20f3b8",
+    title: "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+    titleJa: "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+    summaryJa: "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
+    bodyOriginal: `The 6th U.S. Circuit Court of Appeals ruled on Friday that states have a right to regulate sports-related event contracts on prediction market platforms, marking a second major legal defeat for the industry as a fight at the U.S. Supreme Court looms.
+In a unanimous decision, the three judge panel said that Ohio and Tennessee are permitted to apply their state gambling laws to Kalshi's sports-related event contracts.
+"We hold that Kalshi has not shown that its sports-event contracts satisfy the statutory definition of a 'swap' so as to fall within the scope of the CFTC's 'exclusive jurisdiction,'" the opinion said.
+Kalshi and other prediction market platforms argue all event contracts are swaps, a type of financial derivative that is regulated by the Commodity Futures Trading Commission. However, states assert that platforms' sports-related offerings amount to gambling, and thus should be regulated by their laws related to sports betting.
+This disagreement has spawned a legal battle across the country as states sue platforms for operating what they often claim are illegal gambling operations, while exchanges also sue states to block them from enforcing local laws on what they argue should be federally-regulated financial exchanges.
+The CFTC has sued nine states to defend what it believes is its exclusive right to regulate event contracts, given to it by the Commodity Exchange Act. But the 6th Circuit panel rejected that notion.
+"Even assuming that Kalshi's sports-event contracts are swaps, we alternatively hold that the CEA neither expressly nor impliedly preempts Ohio's or Tennessee's gambling laws," the opinion said. The decision overturns a Tennessee federal district court ruling that sided with Kalshi, and reaffirms a decision by a federal district court in Ohio that sided with the states' argument.
+Kalshi nor the CFTC immediately responded to requests for comment. CNBC has also reached out to the Ohio and Tennessee attorneys general offices for comments.
+The latest ruling now means prediction market platforms have notched two losses in legal fights at the appeals court level. The 9th U.S. Circuit Court of Appeals ruled last month that Nevada has a right to regulate sports-related event contracts, stating that they were sports bets and not swaps. Meanwhile, the 3rd U.S. Circuit Court of Appeals ruled against New Jersey in April and said the CFTC has the exclusive right to regulate all swaps, no matter the contract type.
+New Jersey appealed that decision in a petition to the Supreme Court earlier this month. It is not clear whether the Supreme Court will take up the case now, or wait until further decisions from circuit courts on the issue of sports-related event contracts are delivered.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `The 6th U.S. Circuit Court of Appeals ruled on Friday that states have a right to regulate sports-related event contracts on prediction market platforms, marking a second major legal defeat for the industry as a fight at the U.S. Supreme Court looms.
+In a unanimous decision, the three judge panel said that Ohio and Tennessee are permitted to apply their state gambling laws to Kalshi's sports-related event contracts.
+"We hold that Kalshi has not shown that its sports-event contracts satisfy the statutory definition of a 'swap' so as to fall within the scope of the CFTC's 'exclusive jurisdiction,'" the opinion said.
+Kalshi and other prediction market platforms argue all event contracts are swaps, a type of financial derivative that is regulated by the Commodity Futures Trading Commission. However, states assert that platforms' sports-related offerings amount to gambling, and thus should be regulated by their laws related to sports betting.
+This disagreement has spawned a legal battle across the country as states sue platforms for operating what they often claim are illegal gambling operations, while exchanges also sue states to block them from enforcing local laws on what they argue should be federally-regulated financial exchanges.
+The CFTC has sued nine states to defend what it believes is its exclusive right to regulate event contracts, given to it by the Commodity Exchange Act. But the 6th Circuit panel rejected that notion.
+"Even assuming that Kalshi's sports-event contracts are swaps, we alternatively hold that the CEA neither expressly nor impliedly preempts Ohio's or Tennessee's gambling laws," the opinion said. The decision overturns a Tennessee federal district court ruling that sided with Kalshi, and reaffirms a decision by a federal district court in Ohio that sided with the states' argument.
+Kalshi nor the CFTC immediately responded to requests for comment. CNBC has also reached out to the Ohio and Tennessee attorneys general offices for comments.
+The latest ruling now means prediction market platforms have notched two losses in legal fights at the appeals court level. The 9th U.S. Circuit Court of Appeals ruled last month that Nevada has a right to regulate sports-related event contracts, stating that they were sports bets and not swaps. Meanwhile, the 3rd U.S. Circuit Court of Appeals ruled against New Jersey in April and said the CFTC has the exclusive right to regulate all swaps, no matter the contract type.
+New Jersey appealed that decision in a petition to the Supreme Court earlier this month. It is not clear whether the Supreme Court will take up the case now, or wait until further decisions from circuit courts on the issue of sports-related event contracts are delivered.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+    publishedAt: "2026-09-25T21:06:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "microsoft-s-stock-has-roared-back-to-lif-a72b278f",
+    title: "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+    titleJa: "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+    summaryJa: "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
+    bodyOriginal: `Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.`,
+    bodyJa: `Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+    publishedAt: "2026-09-25T21:04:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-28113577",
+    readTime: 2,
+  },
+  {
+    id: "coca-cola-hires-rob-gehring-from-monster-cd7c9407",
+    title: "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+    titleJa: "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+    summaryJa: "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+    bodyOriginal: `Rob Gehring, the head of Monster Energy's Americas business, will leave to run Coca-Cola's North America unit, the companies said Friday.
+He will take over the position on Dec. 1.
+The move comes as Coke tries to maintain growth while U.S. consumers cut back on spending in the face of higher gas and grocery prices. Despite those dynamics, the beverage giant posted net sales growth of 7% in the second quarter, as volume — a key measure of demand — rose 3% in North America.
+Though Monster Energy parent Monster Beverage is considerably smaller than Coke, its sales have soared in part due to innovation in the energy drink space. The company reported net sales growth of 20% in its second quarter.
+Coke is also investing in developing new beverages beyond its core soda offerings, including refreshers and dirty sodas.
+Gehring, 59, took on his previous role at Monster in February after serving as chief growth officer since 2024. In a press release, Coke said he was "part of the leadership team that drove the company's growth agenda and modernized commercial capabilities."
+Before joining Monster, Gehring was CEO of Swire Coca-Cola USA, a major bottler of Coke products in the western U.S.
+Coke shares have climbed more than 25% this year, while Monster's stock has risen more than 12%.`,
+    bodyJa: `Rob Gehring, the head of Monster Energy's Americas business, will leave to run Coca-Cola's North America unit, the companies said Friday.
+He will take over the position on Dec. 1.
+The move comes as Coke tries to maintain growth while U.S. consumers cut back on spending in the face of higher gas and grocery prices. Despite those dynamics, the beverage giant posted net sales growth of 7% in the second quarter, as volume — a key measure of demand — rose 3% in North America.
+Though Monster Energy parent Monster Beverage is considerably smaller than Coke, its sales have soared in part due to innovation in the energy drink space. The company reported net sales growth of 20% in its second quarter.
+Coke is also investing in developing new beverages beyond its core soda offerings, including refreshers and dirty sodas.
+Gehring, 59, took on his previous role at Monster in February after serving as chief growth officer since 2024. In a press release, Coke said he was "part of the leadership team that drove the company's growth agenda and modernized commercial capabilities."
+Before joining Monster, Gehring was CEO of Swire Coca-Cola USA, a major bottler of Coke products in the western U.S.
+Coke shares have climbed more than 25% this year, while Monster's stock has risen more than 12%.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
+    publishedAt: "2026-09-25T21:02:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "how-recent-grads-and-college-students-sh-fc12883c",
+    title: "How recent grads and college students should be thinking about AI, the CV, and the job market",
+    titleJa: "How recent grads and college students should be thinking about AI, the CV, and the job market",
+    summaryJa: "It is getting harder for college students and recent graduates to be seen in the job market as AI is used as a hiring tool and demanded by employers as a skill.",
+    bodyOriginal: `Artificial intelligence is transforming the hiring process, leaving many college students and recent graduates searching for ways to stand out in an increasingly competitive job market. As employers adopt AI-powered screening tools, young job seekers say landing an interview can feel more challenging than ever.
+Michela DiLorenzo, a student at Seton Hall and student editor at The Setonian who has covered the careers sentiment on campus, recently wrote that post-graduation plans for many of her peers have changed as they enter an uncertain job market. Rather than immediately pursuing graduate degrees, some are taking summer jobs or other work to save money as they consider their next steps.
+"AI is really changing the motivation that students have going into the job market. It's changing the hiring process, how people are formatting their resumes and just overall, how students are approaching life post-grad," DiLorenzo said in an interview with CNBC's Jon Fortt on Friday.
+According to the Federal Reserve Bank of New York, college graduates in the 22- to 27-year-old age bracket had an unemployment rate of 5.7% as of June 2026, significantly above the national average and a full percentage point higher than it was two years ago for their cohort. The unemployment rate for all young workers as of June was 7.2%. Meanwhile, the underemployment rate — college graduates working in jobs that do not require a bachelor's degree — has reached 42% for graduates of recent years, compared to 33.7% for all college graduates.
+For students, the challenge is not only finding an opportunity but getting noticed. Employers are using AI to screen and review applications, while students are trying to figure out how to incorporate it into their job hunt.
+Sixty-six percent of recruiters said at the beginning of 2026 that they were planning to increase their use of AI for pre-screening interviews, according to LinkedIn research, while 81% of job seekers said they had used or planned to use AI in their job search. That puts more of the earliest stages of the job search into automated systems.
+There are also concerns that AI is eliminating jobs that are at the entry level of organizations, but the research remains preliminary in nature. The Federal Reserve Bank of New York has found an overall slowdown in hiring in recent years, but not specifically concentrated in entry-level jobs with higher AI exposure.
+Based on its study of job postings, the NY Fed wrote, "while AI may be contributing to recent labor market developments, it is not the main driver of the slowdown in hiring."
+Its survey work with employers found that they "mostly intend to incorporate AI mainly via retraining, with limited effects on hiring."
+Students are trying to understand how their materials may be evaluated before reaching a hiring manager. Students are tailoring resumes to specific job descriptions, emphasizing relevant skills and using language that aligns with the position.
+Handshake, an early-career platform for students and job seekers which has worked with OpenAI on tools to increase student tech skills, says graduating seniors in 2026 mentioned AI skills on their resumes at twice the rate of the class of 2022. Its analysis found that 74% of those mentions were tied to real-world projects rather than coursework, an indication students are trying to demonstrate their applied experience.
+"Early talent is already starting to answer this shift by sharing real projects directly on their Handshake profiles, turning AI from a claimed skill into demonstrated capability," Handshake wrote in a blog post. "The data tells us that early talent isn't being displaced by AI—they're being amplified by it. ... in an AI-driven workforce, resumes alone aren't enough."
+The National Association of Colleges + Employers says its recent research shows more employers expecting AI skills in new hires, with the requirement cited in 16.5% of job descriptions in the spring versus 10.5% last fall. Overall, 28% of employers say they are seeking early career talent who can use AI in their work, according to NACE.
+NACE is concerned about what it calls a "striking disconnect" between some members of Gen Z and the labor market. "Employers are increasingly asking graduates to be ready for AI, while a significant portion of students are asking whether AI deserves a place in their work at all," Shawn VanDerziel, NACE president and CEO, stated in the research release.
+In NACE's 2026 Student Survey, close to one-third of graduating seniors said AI skills would be "of little or no importance to their future career."
+Over half said they were not building AI skills for the future and were not using AI in their job search.
+"Right now, it is too early to tell what the long-term impact of AI will be on early career talent, but it is obvious that students have mixed expectations and views on the ways AI will impact their careers," VanDerziel stated.
+DiLorenzo's reporting showed how uncertainty is affecting students at Seton Hall. One student said she had received only two interviews after submitting 50 applications. Another said he had applied for as many as 150 jobs, describing the process as impersonal and discouraging.
+While AI can help employers manage a high number of applications, students say they still want meaningful feedback and a clearer path to being seen by a person.
+At a broader labor market level, being seen as a person is becoming a significant problem for the youngest workers. The companies that are adopting AI faster are also hiring faster than peers, according to Evan Sohn, founder and CEO of labor market research firm Revelio Labs. But that may not be of much help to recent college grads, he told CNBC's Kelly Evans in a recent interview, because these firms are also prioritizing senior-level roles over junior-level positions. "AI is really making it difficult for the entry-level people to get in there. ... The 22- to 25-year-olds are really getting lost in the shuffle," he said.
+Nevertheless, Sohn's advice for all job seekers is to "be AI-forward."
+"Be ahead of everybody else when it comes to AI," he said.`,
+    bodyJa: `Artificial intelligence is transforming the hiring process, leaving many college students and recent graduates searching for ways to stand out in an increasingly competitive job market. As employers adopt AI-powered screening tools, young job seekers say landing an interview can feel more challenging than ever.
+Michela DiLorenzo, a student at Seton Hall and student editor at The Setonian who has covered the careers sentiment on campus, recently wrote that post-graduation plans for many of her peers have changed as they enter an uncertain job market. Rather than immediately pursuing graduate degrees, some are taking summer jobs or other work to save money as they consider their next steps.
+"AI is really changing the motivation that students have going into the job market. It's changing the hiring process, how people are formatting their resumes and just overall, how students are approaching life post-grad," DiLorenzo said in an interview with CNBC's Jon Fortt on Friday.
+According to the Federal Reserve Bank of New York, college graduates in the 22- to 27-year-old age bracket had an unemployment rate of 5.7% as of June 2026, significantly above the national average and a full percentage point higher than it was two years ago for their cohort. The unemployment rate for all young workers as of June was 7.2%. Meanwhile, the underemployment rate — college graduates working in jobs that do not require a bachelor's degree — has reached 42% for graduates of recent years, compared to 33.7% for all college graduates.
+For students, the challenge is not only finding an opportunity but getting noticed. Employers are using AI to screen and review applications, while students are trying to figure out how to incorporate it into their job hunt.
+Sixty-six percent of recruiters said at the beginning of 2026 that they were planning to increase their use of AI for pre-screening interviews, according to LinkedIn research, while 81% of job seekers said they had used or planned to use AI in their job search. That puts more of the earliest stages of the job search into automated systems.
+There are also concerns that AI is eliminating jobs that are at the entry level of organizations, but the research remains preliminary in nature. The Federal Reserve Bank of New York has found an overall slowdown in hiring in recent years, but not specifically concentrated in entry-level jobs with higher AI exposure.
+Based on its study of job postings, the NY Fed wrote, "while AI may be contributing to recent labor market developments, it is not the main driver of the slowdown in hiring."
+Its survey work with employers found that they "mostly intend to incorporate AI mainly via retraining, with limited effects on hiring."
+Students are trying to understand how their materials may be evaluated before reaching a hiring manager. Students are tailoring resumes to specific job descriptions, emphasizing relevant skills and using language that aligns with the position.
+Handshake, an early-career platform for students and job seekers which has worked with OpenAI on tools to increase student tech skills, says graduating seniors in 2026 mentioned AI skills on their resumes at twice the rate of the class of 2022. Its analysis found that 74% of those mentions were tied to real-world projects rather than coursework, an indication students are trying to demonstrate their applied experience.
+"Early talent is already starting to answer this shift by sharing real projects directly on their Handshake profiles, turning AI from a claimed skill into demonstrated capability," Handshake wrote in a blog post. "The data tells us that early talent isn't being displaced by AI—they're being amplified by it. ... in an AI-driven workforce, resumes alone aren't enough."
+The National Association of Colleges + Employers says its recent research shows more employers expecting AI skills in new hires, with the requirement cited in 16.5% of job descriptions in the spring versus 10.5% last fall. Overall, 28% of employers say they are seeking early career talent who can use AI in their work, according to NACE.
+NACE is concerned about what it calls a "striking disconnect" between some members of Gen Z and the labor market. "Employers are increasingly asking graduates to be ready for AI, while a significant portion of students are asking whether AI deserves a place in their work at all," Shawn VanDerziel, NACE president and CEO, stated in the research release.
+In NACE's 2026 Student Survey, close to one-third of graduating seniors said AI skills would be "of little or no importance to their future career."
+Over half said they were not building AI skills for the future and were not using AI in their job search.
+"Right now, it is too early to tell what the long-term impact of AI will be on early career talent, but it is obvious that students have mixed expectations and views on the ways AI will impact their careers," VanDerziel stated.
+DiLorenzo's reporting showed how uncertainty is affecting students at Seton Hall. One student said she had received only two interviews after submitting 50 applications. Another said he had applied for as many as 150 jobs, describing the process as impersonal and discouraging.
+While AI can help employers manage a high number of applications, students say they still want meaningful feedback and a clearer path to being seen by a person.
+At a broader labor market level, being seen as a person is becoming a significant problem for the youngest workers. The companies that are adopting AI faster are also hiring faster than peers, according to Evan Sohn, founder and CEO of labor market research firm Revelio Labs. But that may not be of much help to recent college grads, he told CNBC's Kelly Evans in a recent interview, because these firms are also prioritizing senior-level roles over junior-level positions. "AI is really making it difficult for the entry-level people to get in there. ... The 22- to 25-year-olds are really getting lost in the shuffle," he said.
+Nevertheless, Sohn's advice for all job seekers is to "be AI-forward."
+"Be ahead of everybody else when it comes to AI," he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/ai-jobs-recent-graduates-college-degrees.html",
+    publishedAt: "2026-09-25T20:52:09+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "a-10-risk-free-yield-for-some-yes-7f6de0e5",
+    title: "A 10% risk-free yield? For some, yes.",
+    titleJa: "A 10% risk-free yield? For some, yes.",
+    summaryJa: "This could be a bargain, especially for very high earners and those in high-tax locations.",
+    bodyOriginal: `This could be a bargain, especially for very high earners and those in high-tax locations.`,
+    bodyJa: `This could be a bargain, especially for very high earners and those in high-tax locations.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/a-10-risk-free-yield-for-some-yes-0d1fa51a?mod=mw_rss_topstories",
+    publishedAt: "2026-09-25T20:32:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-11433023",
+    readTime: 2,
+  },
+  {
+    id: "these-under-the-radar-risk-factors-may-e-8e4aff68",
+    title: "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
+    titleJa: "These under-the-radar risk factors may explain why some older people are more vulnerable to scams",
+    summaryJa: "Criminals use sophisticated techniques to form deep emotional attachments to their victims",
+    bodyOriginal: `Criminals use sophisticated techniques to form deep emotional attachments to their victims`,
+    bodyJa: `Criminals use sophisticated techniques to form deep emotional attachments to their victims`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
+    publishedAt: "2026-09-25T20:19:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-78794591",
+    readTime: 2,
+  },
+  {
+    id: "trump-xi-wrap-state-visit-centered-on-sp-235ac99e",
+    title: "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+    titleJa: "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+    summaryJa: "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+    bodyOriginal: `Chinese leader Xi Jinping ended his first formal trip to Washington in 11 years Friday, capping a highly anticipated state visit with President Donald Trump that saw three days of bonhomie and pageantry but delivered few concrete agreements.
+Trump gave Xi a rare airport tarmac greeting, the two leaders enjoyed a splashy state dinner and tea with their spouses and visited the National Archives. In between ceremonial elements, Trump and Xi inked an extension to an existing trade pact, and Xi promised to send a pair of pandas to Atlanta.
+What didn't happen were promises of purchases or agreement on addressing artificial intelligence risks, the war in Iran or taking steps toward resolving other vexing world challenges.
+A state visit that featured much pomp but little change in circumstances might have been intentional.
+"Ahead of the midterms, President Trump's interest is to keep things calm," Scott Kennedy, a Center for Strategic and International Studies senior advisor who studies the Chinese economy. "We have interest rates getting to record highs, and he doesn't want to make markets even more skittish."
+For those watching from afar in China, the mood was upbeat.
+"I think it's a great success," said Hai Zhao, a director of international political studies at the Chinese Academy of Social Sciences, a state-affiliated think tank. "Chinese people are very happy to see that President Xi is very well received in Washington, D.C.," he said as the Trump-Xi dinner was wrapping up.
+Here's what to know about the historic visit:
+Trade truce continues
+One concrete deliverable came when Treasury Secretary Scott Bessent announced the U.S. and China agreed to continue their soon-to-expire trade truce until Jan. 10, a two-month extension of the agreement inked last year.
+Without specifying a date, Xi noted a "new joint arrangement" on bilateral trade, according to Beijing's readout of his meeting with Trump.
+The truce, struck after Trump and Xi met in Busan, South Korea, lowered U.S. tariffs and suspended Beijing's controls on exports of rare earths and critical minerals, among other provisions.
+China experts told CNBC a shorter extension could slightly favor the U.S., which can use the prospect of renewed trade hostilities as leverage.
+Many had expected a longer, six-month extension. But the shorter time frame could give both sides negotiating leverage into future talks between Xi and Trump. They are expected to meet twice more this year: at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, in November, and the G20 in Miami in December.
+After those two events, "I think you need to be cautious that things will not stay as calm as they look right now," Kennedy said Friday on CNBC's "Squawk Box Asia."
+"As some have said, on the surface, like a polo match, things look relatively calm, but underneath, there's a lot of kicking, and that kicking will become more visible as we get to the new year," he said.
+'Thucydides Trap' avoided?
+China's rhetoric has grown notably more confident.
+"The Thucydides Trap can be overcome," Xi said on his arrival at the White House, according to the Chinese side's official readout.
+That contrasts with his rhetorical question when the pair met in May in Beijing of whether the two countries could avoid the Thucydides Trap. The term refers to how tensions historically between a rising and ruling power have often resulted in war.
+Xi said Thursday the two countries can have "healthy" competition without confrontation. "It should be a race of catching up with one another, not a wrestle in which one either wins or loses," he said.
+Establishing a bottom line — on competing intensely without military conflict — is the "most significant political outcome" of the summit, Cui Shoujun, a professor at Renmin University of China's School of International Studies, said in Chinese, translated by CNBC. "This injected certainty into the volatile bilateral relationship."
+Trump's comments upon Xi's arrival at the White House only emphasized general collaboration. The U.S. president has yet to comment on Taiwan around this summit, despite Xi calling on the U.S. to "oppose 'Taiwan independence,'" according to Beijing's readout of the two president's talks on Thursday.
+China's readout also noted Trump and Xi discussed the Middle East situation, without mentioning the Iran war.
+However, Zhai Jun, China's special envoy for the Middle East, said at an event Friday in Singapore that "the Middle East situation was a big issue in the leaders' discussion that just took place, and the consensus they reached there will be critical to cooling the temperature in the conflict."
+AI questions linger
+Neither side signaled major steps to curtail AI. That's despite some tech leaders and U.S. lawmakers sounding alarms about the risks posed by rapidly advancing AI models.
+"I want to leave it exactly where it is," Trump said of AI in a Truth Social post sent before Xi arrived at the White House. "That is China's position also."
+Xi, speaking at the White House later, struck a different tone, saying he U.S. and China have "both the capability and responsibility to develop and manage AI for good, and ensure that the development of AI is always under human control and serves the well-being of the people."
+The Chinese leader underscored the need for the two countries to cooperate on AI.
+Trump and Xi are both being "pulled in two directions" as they balance the aims of breakneck AI growth with concerns about the technology spiraling out of control, Ho-Fung Hung, a China expert and professor at Johns Hopkins University's School of Advanced International Studies, told CNBC.
+But it was again a topic where public announcements fell short of specifics, amid a flurry of photo-ops.
+"There are a range of issues in this complex relationship that are not really being addressed below the leader-to-leader level in an institutionalized, system-wide manner," Dewardric McNeal, Longview Global senior policy analyst, told CNBC's "Closing Bell: Overtime" Thursday afternoon.
+Fanfare, flattery flow freely
+Xi was expected to receive red-carpet treatment from Trump, and he got it — literally: A red carpet was rolled out to Xi's plane on the Joint Base Andrews tarmac, and another appeared at the White House as his motorcade arrived at the South Portico.
+Trump and First Lady Melania Trump waited for Xi at the airport stairs upon his arrival. It was Trump's first time traveling to the base to welcome a foreign leader.
+That set the tone for a fanfare-filled summit stuffed with displays of synchronized military power from large numbers of service members, who performed music, raised flags and rifles and marched in formation in various locations.
+In the newly paved-over Rose Garden, Xi and Trump stood for a military review that included a rooftop performance from the U.S. Army Herald Trumpets and demonstrations from the Army's Old Guard Fife and Drum Corps, as well as the Marines' Silent Drill Platoon and its Drum and Bugle Corps.
+Service members also conducted low flyovers Wednesday and Thursday – the first of which arrived with a loud roar that drew a flinching grimace from Trump, while Xi had no reaction.
+After a private bilateral meeting midday Thursday, Trump gave Xi a tour of the newly built helipad installed outside the White House. "He loves good granite," Trump said of Xi as the leaders passed reporters en route to the helipad, where they toured the presidential helicopter.
+It's not unusual for a leader to go heavy on hospitality and arrange ornate ceremonies when hosting a state visit, the highest form of leader-to-leader diplomacy. But Trump's treatment of Xi still stands out.
+"Trump has taken the pageantry further than most of his predecessors," Ryan Hass, director of the Brookings Institution's John L. Thornton China Center Hass, told CNBC. "The portion of the day devoted to substantive discussion is smaller than the amount of time both leaders will spend on ceremonial affairs."
+Not seen on TV
+The summit overflowed with colorful, large-scale displays of military choreography – but major television networks didn't air them.
+That's because of a now-ended suspension of so-called TV pool coverage of the White House, implemented in solidarity with MS NOW, CNN and Politico, whom Trump banned last week over what he claims is their harmful reporting.
+A federal judge ordered the White House to restore access to the three outlets for up to two weeks, while casting doubt on a claim from the government that the ban is a matter of national security.
+Despite the ruling, some journalists from all three outlets were barred from entering the White House on Thursday morning – even as Chinese state media outlets were granted entry. Access was fully restored later Thursday, the Trump administration said in a court filing.
+In a Truth Social post Thursday afternoon, Trump railed against the networks for not broadcasting Xi's arrival, complaining that the moment was "Actually made for Television."
+— CNBC's Anniek Bao contributed to this report.`,
+    bodyJa: `Chinese leader Xi Jinping ended his first formal trip to Washington in 11 years Friday, capping a highly anticipated state visit with President Donald Trump that saw three days of bonhomie and pageantry but delivered few concrete agreements.
+Trump gave Xi a rare airport tarmac greeting, the two leaders enjoyed a splashy state dinner and tea with their spouses and visited the National Archives. In between ceremonial elements, Trump and Xi inked an extension to an existing trade pact, and Xi promised to send a pair of pandas to Atlanta.
+What didn't happen were promises of purchases or agreement on addressing artificial intelligence risks, the war in Iran or taking steps toward resolving other vexing world challenges.
+A state visit that featured much pomp but little change in circumstances might have been intentional.
+"Ahead of the midterms, President Trump's interest is to keep things calm," Scott Kennedy, a Center for Strategic and International Studies senior advisor who studies the Chinese economy. "We have interest rates getting to record highs, and he doesn't want to make markets even more skittish."
+For those watching from afar in China, the mood was upbeat.
+"I think it's a great success," said Hai Zhao, a director of international political studies at the Chinese Academy of Social Sciences, a state-affiliated think tank. "Chinese people are very happy to see that President Xi is very well received in Washington, D.C.," he said as the Trump-Xi dinner was wrapping up.
+Here's what to know about the historic visit:
+Trade truce continues
+One concrete deliverable came when Treasury Secretary Scott Bessent announced the U.S. and China agreed to continue their soon-to-expire trade truce until Jan. 10, a two-month extension of the agreement inked last year.
+Without specifying a date, Xi noted a "new joint arrangement" on bilateral trade, according to Beijing's readout of his meeting with Trump.
+The truce, struck after Trump and Xi met in Busan, South Korea, lowered U.S. tariffs and suspended Beijing's controls on exports of rare earths and critical minerals, among other provisions.
+China experts told CNBC a shorter extension could slightly favor the U.S., which can use the prospect of renewed trade hostilities as leverage.
+Many had expected a longer, six-month extension. But the shorter time frame could give both sides negotiating leverage into future talks between Xi and Trump. They are expected to meet twice more this year: at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, in November, and the G20 in Miami in December.
+After those two events, "I think you need to be cautious that things will not stay as calm as they look right now," Kennedy said Friday on CNBC's "Squawk Box Asia."
+"As some have said, on the surface, like a polo match, things look relatively calm, but underneath, there's a lot of kicking, and that kicking will become more visible as we get to the new year," he said.
+'Thucydides Trap' avoided?
+China's rhetoric has grown notably more confident.
+"The Thucydides Trap can be overcome," Xi said on his arrival at the White House, according to the Chinese side's official readout.
+That contrasts with his rhetorical question when the pair met in May in Beijing of whether the two countries could avoid the Thucydides Trap. The term refers to how tensions historically between a rising and ruling power have often resulted in war.
+Xi said Thursday the two countries can have "healthy" competition without confrontation. "It should be a race of catching up with one another, not a wrestle in which one either wins or loses," he said.
+Establishing a bottom line — on competing intensely without military conflict — is the "most significant political outcome" of the summit, Cui Shoujun, a professor at Renmin University of China's School of International Studies, said in Chinese, translated by CNBC. "This injected certainty into the volatile bilateral relationship."
+Trump's comments upon Xi's arrival at the White House only emphasized general collaboration. The U.S. president has yet to comment on Taiwan around this summit, despite Xi calling on the U.S. to "oppose 'Taiwan independence,'" according to Beijing's readout of the two president's talks on Thursday.
+China's readout also noted Trump and Xi discussed the Middle East situation, without mentioning the Iran war.
+However, Zhai Jun, China's special envoy for the Middle East, said at an event Friday in Singapore that "the Middle East situation was a big issue in the leaders' discussion that just took place, and the consensus they reached there will be critical to cooling the temperature in the conflict."
+AI questions linger
+Neither side signaled major steps to curtail AI. That's despite some tech leaders and U.S. lawmakers sounding alarms about the risks posed by rapidly advancing AI models.
+"I want to leave it exactly where it is," Trump said of AI in a Truth Social post sent before Xi arrived at the White House. "That is China's position also."
+Xi, speaking at the White House later, struck a different tone, saying he U.S. and China have "both the capability and responsibility to develop and manage AI for good, and ensure that the development of AI is always under human control and serves the well-being of the people."
+The Chinese leader underscored the need for the two countries to cooperate on AI.
+Trump and Xi are both being "pulled in two directions" as they balance the aims of breakneck AI growth with concerns about the technology spiraling out of control, Ho-Fung Hung, a China expert and professor at Johns Hopkins University's School of Advanced International Studies, told CNBC.
+But it was again a topic where public announcements fell short of specifics, amid a flurry of photo-ops.
+"There are a range of issues in this complex relationship that are not really being addressed below the leader-to-leader level in an institutionalized, system-wide manner," Dewardric McNeal, Longview Global senior policy analyst, told CNBC's "Closing Bell: Overtime" Thursday afternoon.
+Fanfare, flattery flow freely
+Xi was expected to receive red-carpet treatment from Trump, and he got it — literally: A red carpet was rolled out to Xi's plane on the Joint Base Andrews tarmac, and another appeared at the White House as his motorcade arrived at the South Portico.
+Trump and First Lady Melania Trump waited for Xi at the airport stairs upon his arrival. It was Trump's first time traveling to the base to welcome a foreign leader.
+That set the tone for a fanfare-filled summit stuffed with displays of synchronized military power from large numbers of service members, who performed music, raised flags and rifles and marched in formation in various locations.
+In the newly paved-over Rose Garden, Xi and Trump stood for a military review that included a rooftop performance from the U.S. Army Herald Trumpets and demonstrations from the Army's Old Guard Fife and Drum Corps, as well as the Marines' Silent Drill Platoon and its Drum and Bugle Corps.
+Service members also conducted low flyovers Wednesday and Thursday – the first of which arrived with a loud roar that drew a flinching grimace from Trump, while Xi had no reaction.
+After a private bilateral meeting midday Thursday, Trump gave Xi a tour of the newly built helipad installed outside the White House. "He loves good granite," Trump said of Xi as the leaders passed reporters en route to the helipad, where they toured the presidential helicopter.
+It's not unusual for a leader to go heavy on hospitality and arrange ornate ceremonies when hosting a state visit, the highest form of leader-to-leader diplomacy. But Trump's treatment of Xi still stands out.
+"Trump has taken the pageantry further than most of his predecessors," Ryan Hass, director of the Brookings Institution's John L. Thornton China Center Hass, told CNBC. "The portion of the day devoted to substantive discussion is smaller than the amount of time both leaders will spend on ceremonial affairs."
+Not seen on TV
+The summit overflowed with colorful, large-scale displays of military choreography – but major television networks didn't air them.
+That's because of a now-ended suspension of so-called TV pool coverage of the White House, implemented in solidarity with MS NOW, CNN and Politico, whom Trump banned last week over what he claims is their harmful reporting.
+A federal judge ordered the White House to restore access to the three outlets for up to two weeks, while casting doubt on a claim from the government that the ban is a matter of national security.
+Despite the ruling, some journalists from all three outlets were barred from entering the White House on Thursday morning – even as Chinese state media outlets were granted entry. Access was fully restored later Thursday, the Trump administration said in a court filing.
+In a Truth Social post Thursday afternoon, Trump railed against the networks for not broadcasting Xi's arrival, complaining that the moment was "Actually made for Television."
+— CNBC's Anniek Bao contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+    publishedAt: "2026-09-25T18:52:40+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "u-s-appeals-court-upholds-pentagon-desig-7e6a6459",
     title: "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
     titleJa: "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
@@ -293,6 +563,40 @@ Sign up for our Tech Decoded newsletter to follow the world's top tech stories a
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
     readTime: 10,
+  },
+  {
+    id: "ceo-who-posted-lake-america-sweatshirt-p-f4d4a5b0",
+    title: "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+    titleJa: "CEO who posted 'Lake America' sweatshirt photos is no longer with the company",
+    summaryJa: "Smith on Sept. 11 had posted an allegedly AI-edited photo on Facebook of her family dressed in \"Lake America\" sweatshirts.",
+    bodyOriginal: `The CEO of U.S.-based credit union Family First is no longer with the company, days after she posted an allegedly artificial intelligence-edited photo of her family with "Lake America" sweatshirts.
+On Wednesday, a statement posted on the credit union's website revealed that Jane Smith was no longer with Family First "effective immediately," with Chief Operations Officer Jason Acosta serving as interim CEO. It was signed by Maurice Patterson, chairman of the Family First Credit Union board, and Acosta.
+Family First did not state that if the reaction was the reason for Smith leaving, even though the credit union posted on Thursday that "we sincerely apologize for the concern, disappointment and pain this situation has caused our members and community."
+Family First is based in Michigan, a state that borders Canada.
+Smith on Sept. 11 had posted the photo on Facebook with the caption: "Like our sweatshirts? Not sure Canada will. Lol lol"
+The post has since been deleted from Facebook, CBC News reported.
+U.S. President Donald Trump declared the renaming of Lake Ontario on the U.S.-Canadian border to "Lake America" last month, prompting massive backlash from Canadians, Prime Minister Mark Carney, and even animated comedy TV show "South Park," which changed its name to "South America" in a jab at the U.S. president's order.
+In an interview on Sept. 17 with ABC12 News in Michigan, Smith said that the picture contained an artificial intelligence marker, but was later reposted by her sister without the AI marker.
+"We weren't trying to make a political statement," Smith reportedly said. "However, we were, you know, kind of poking fun at the fact that you know one of the Great Lakes' names were getting changed."
+In an earlier statement to ABC12 News, Family First had said it "unequivocally disapproves and rejects the content of the social media post involving our CEO, Jane Smith."
+U.S. Rep. Timothy Kennedy, D-N.Y., has also introduced legislation to block Trump's attempt to rename Lake Ontario and prohibit the future renaming of any of the five Great Lakes.`,
+    bodyJa: `The CEO of U.S.-based credit union Family First is no longer with the company, days after she posted an allegedly artificial intelligence-edited photo of her family with "Lake America" sweatshirts.
+On Wednesday, a statement posted on the credit union's website revealed that Jane Smith was no longer with Family First "effective immediately," with Chief Operations Officer Jason Acosta serving as interim CEO. It was signed by Maurice Patterson, chairman of the Family First Credit Union board, and Acosta.
+Family First did not state that if the reaction was the reason for Smith leaving, even though the credit union posted on Thursday that "we sincerely apologize for the concern, disappointment and pain this situation has caused our members and community."
+Family First is based in Michigan, a state that borders Canada.
+Smith on Sept. 11 had posted the photo on Facebook with the caption: "Like our sweatshirts? Not sure Canada will. Lol lol"
+The post has since been deleted from Facebook, CBC News reported.
+U.S. President Donald Trump declared the renaming of Lake Ontario on the U.S.-Canadian border to "Lake America" last month, prompting massive backlash from Canadians, Prime Minister Mark Carney, and even animated comedy TV show "South Park," which changed its name to "South America" in a jab at the U.S. president's order.
+In an interview on Sept. 17 with ABC12 News in Michigan, Smith said that the picture contained an artificial intelligence marker, but was later reposted by her sister without the AI marker.
+"We weren't trying to make a political statement," Smith reportedly said. "However, we were, you know, kind of poking fun at the fact that you know one of the Great Lakes' names were getting changed."
+In an earlier statement to ABC12 News, Family First had said it "unequivocally disapproves and rejects the content of the social media post involving our CEO, Jane Smith."
+U.S. Rep. Timothy Kennedy, D-N.Y., has also introduced legislation to block Trump's attempt to rename Lake Ontario and prohibit the future renaming of any of the five Great Lakes.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/ceo-who-posted-lake-america-sweatshirt-photos-has-left-the-company.html",
+    publishedAt: "2026-09-25T13:32:57+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
   },
   {
     id: "see-which-incumbents-have-the-biggest-ca-b0542418",
@@ -1779,376 +2083,6 @@ Related topics
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
     readTime: 10,
-  },
-  {
-    id: "philadelphia-fed-s-anna-paulson-says-mod-79511e56",
-    title: "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-    titleJa: "Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation",
-    summaryJa: "The policymaker said she and her colleagues may need to raise interest rates further to bring inflation back to target.",
-    bodyOriginal: `Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.
-Speaking a week after the Federal Open Market Committee raised benchmark borrowing rates by a quarter percentage point, Paulson said inflation trends are still worrying.
-The rate hike, which took the key funds rate to a target range of 3.75%-4%, "brings policy closer to what I believe is needed to return inflation to 2% at a pace that balances inflation with risks to the labor market. Looking ahead, if conditions evolve as I expect, some modest further tightening may be warranted."
-Though the summer showed some moderating in price pressures, she said underlying inflation is still running around 2.5%-3%, "well above our 2% target, and the gap has shown little signs of closing."
-"The best I can say about underlying inflation this year is that it hasn't gotten worse," Paulson said in prepared remarks for a fintech conference in her home district. She noted that inflation has held higher even outside of the oil supply shocks from the Iran war and tariffs.
-Outside of inflation, Paulson said economic output "has been solid" while the labor market is "holding steady."
-The comments come as markets have raised their expectations for Fed tightening dramatically.
-Another leg up this week has taken longer-duration Treasury yields to highs not seen since 2004. Traders are now pricing in a 64% chance the FOMC hikes again in October, then expect another move in January, according to the CME Group's FedWatch tool. Fed funds futures contracts are implying a rate of 4.8% by the end of 2027, which would indicate the expectation of as many as four quarter-point increases ahead.
-New York Fed President John Williams said earlier Thursday that he thinks it's "reasonable" to expect another hike before the end of the year.`,
-    bodyJa: `Philadelphia Federal Reserve President Anna Paulson said Thursday that she and her colleagues may need to raise interest rates further to bring inflation back to target.
-Speaking a week after the Federal Open Market Committee raised benchmark borrowing rates by a quarter percentage point, Paulson said inflation trends are still worrying.
-The rate hike, which took the key funds rate to a target range of 3.75%-4%, "brings policy closer to what I believe is needed to return inflation to 2% at a pace that balances inflation with risks to the labor market. Looking ahead, if conditions evolve as I expect, some modest further tightening may be warranted."
-Though the summer showed some moderating in price pressures, she said underlying inflation is still running around 2.5%-3%, "well above our 2% target, and the gap has shown little signs of closing."
-"The best I can say about underlying inflation this year is that it hasn't gotten worse," Paulson said in prepared remarks for a fintech conference in her home district. She noted that inflation has held higher even outside of the oil supply shocks from the Iran war and tariffs.
-Outside of inflation, Paulson said economic output "has been solid" while the labor market is "holding steady."
-The comments come as markets have raised their expectations for Fed tightening dramatically.
-Another leg up this week has taken longer-duration Treasury yields to highs not seen since 2004. Traders are now pricing in a 64% chance the FOMC hikes again in October, then expect another move in January, according to the CME Group's FedWatch tool. Fed funds futures contracts are implying a rate of 4.8% by the end of 2027, which would indicate the expectation of as many as four quarter-point increases ahead.
-New York Fed President John Williams said earlier Thursday that he thinks it's "reasonable" to expect another hike before the end of the year.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html",
-    publishedAt: "2026-09-24T17:00:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "oracle-sends-force-majeure-notice-about-1798a854",
-    title: "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
-    titleJa: "Oracle sends 'force majeure' notice about data center project — stock sinks 4%",
-    summaryJa: "Oracle is reportedly looking to delay payment on Project Jupiter if it the data center fails to come online in 2028",
-    bodyOriginal: `Oracle shares fell 4% on Thursday following news that the company sent a "force majeure" notice tied to its New Mexico data center project to protect itself from higher expenses.
-"Project Jupiter remains on our planned schedule," Oracle said in a statement to CNBC. "We are fully committed to New Mexico and confident in our path forward."
-Bloomberg was first to report the news, citing sources familiar with the matter.
-The company is looking to delay payment on the campus, dubbed Project Jupiter, if it fails to come online as expected in 2028, according to the report.
-Oracle sent the notice to the developer, which is a unit of Blue Owl Capital, CNBC confirmed. Blue Owl also saw its shares fall on Thursday.
-"This notice does not change the financial commitments to this multi-year project," Blue Owl Capital said in a statement to CNBC.
-The New Mexico data center project, which is part of the broader Stargate artificial intelligence infrastructure build-out with President Donald Trump, has been riddled with setbacks and regulatory hurdles.
-That includes local opposition to data centers ahead of the upcoming midterm elections and concerns from environmental groups.
-Oracle co-CEO Clay Magouyrk told analysts on the company's earnings call on Sept. 10 that Project Jupiter would not affect its previously stated fiscal 2027 revenue or earnings guidance.
-Concerns have also mounted over Oracle's $18 billion in debt tied to the data center, which is already trading at stressed levels, according to the Financial Times.
-— CNBC's Seema Mody and Leslie Picker contributed reporting.`,
-    bodyJa: `Oracle shares fell 4% on Thursday following news that the company sent a "force majeure" notice tied to its New Mexico data center project to protect itself from higher expenses.
-"Project Jupiter remains on our planned schedule," Oracle said in a statement to CNBC. "We are fully committed to New Mexico and confident in our path forward."
-Bloomberg was first to report the news, citing sources familiar with the matter.
-The company is looking to delay payment on the campus, dubbed Project Jupiter, if it fails to come online as expected in 2028, according to the report.
-Oracle sent the notice to the developer, which is a unit of Blue Owl Capital, CNBC confirmed. Blue Owl also saw its shares fall on Thursday.
-"This notice does not change the financial commitments to this multi-year project," Blue Owl Capital said in a statement to CNBC.
-The New Mexico data center project, which is part of the broader Stargate artificial intelligence infrastructure build-out with President Donald Trump, has been riddled with setbacks and regulatory hurdles.
-That includes local opposition to data centers ahead of the upcoming midterm elections and concerns from environmental groups.
-Oracle co-CEO Clay Magouyrk told analysts on the company's earnings call on Sept. 10 that Project Jupiter would not affect its previously stated fiscal 2027 revenue or earnings guidance.
-Concerns have also mounted over Oracle's $18 billion in debt tied to the data center, which is already trading at stressed levels, according to the Financial Times.
-— CNBC's Seema Mody and Leslie Picker contributed reporting.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-    publishedAt: "2026-09-24T16:48:38+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "my-husband-and-i-are-in-our-50s-and-have-eda0d7ac",
-    title: "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-    titleJa: "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-    summaryJa: "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
-    bodyOriginal: `“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”`,
-    bodyJa: `“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-    publishedAt: "2026-09-24T16:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-79889315",
-    readTime: 2,
-  },
-  {
-    id: "new-york-sues-polymarket-u-s-two-months-14259a61",
-    title: "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-    titleJa: "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-    summaryJa: "State attorney general Letitia James claims Polymarket has violated the state's gambling laws.",
-    bodyOriginal: `New York State filed suit against Polymarket U.S. on Thursday, nearly two months after the state sued the platform's competitor, Kalshi.
-"By skirting New York's laws, Polymarket is targeting the most vulnerable and depriving New York families of critical services and support," state Attorney General Letitia James said in a statement.
-The lawsuit claims Polymarket operates an illegal gambling platform and is in violation of state gambling laws, including having no license with the New York State Gaming Commission. The lawsuit further claims Polymarket allows activity by users over 18 and cited a report from the state's Office of Addiction Services and Supports that those between 18 and 24 are at "high-risk" of gambling addictions.
-"By running an unlicensed gambling operation, Polymarket has done more than just knowingly violate state law, they have put New Yorkers at risk, especially those underage who are most vulnerable to problem gaming," Governor Kathy Hochul said in a statement.
-Penalties and earnings
-The lawsuit asks for penalties, including three times the amount of any Polymarket gains, and to pay $100,000 for each attempt or offer of "sports wagering or mobile sports wagering" in New York. The lawsuit also asks Polymarket U.S. to provide an account of all trades placed on the platform, the money lost by users and the amount Polymarket U.S. earned.
-Polymarket U.S. debuted in December 2025 and is regulated by the Commodity Futures Trading Commission, the federal agency that regulates prediction markets platforms. The company also runs an offshore predictions platform, which was founded in 2020. The CFTC has not responded to a request for comment.
-The lawsuit is the latest in the escalating regulatory feud between states and the platforms. The CFTC has retaliated, suing several states and asserting it has the right to regulate the markets.
-Polymarket defended itself against the latest New York action.
-""Polymarket was founded in a tiny NYC apartment and now has more than 350 employees here, embodying why people and businesses come here to make it. We believe in New York and we're staying here. While the AG's decision to copy/paste a recycled lawsuit is disappointing, we'll fight for our users," said Neal Kumar, the chief legal officer for the platform.
-- Davis Giangiulio contributed to this report.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `New York State filed suit against Polymarket U.S. on Thursday, nearly two months after the state sued the platform's competitor, Kalshi.
-"By skirting New York's laws, Polymarket is targeting the most vulnerable and depriving New York families of critical services and support," state Attorney General Letitia James said in a statement.
-The lawsuit claims Polymarket operates an illegal gambling platform and is in violation of state gambling laws, including having no license with the New York State Gaming Commission. The lawsuit further claims Polymarket allows activity by users over 18 and cited a report from the state's Office of Addiction Services and Supports that those between 18 and 24 are at "high-risk" of gambling addictions.
-"By running an unlicensed gambling operation, Polymarket has done more than just knowingly violate state law, they have put New Yorkers at risk, especially those underage who are most vulnerable to problem gaming," Governor Kathy Hochul said in a statement.
-Penalties and earnings
-The lawsuit asks for penalties, including three times the amount of any Polymarket gains, and to pay $100,000 for each attempt or offer of "sports wagering or mobile sports wagering" in New York. The lawsuit also asks Polymarket U.S. to provide an account of all trades placed on the platform, the money lost by users and the amount Polymarket U.S. earned.
-Polymarket U.S. debuted in December 2025 and is regulated by the Commodity Futures Trading Commission, the federal agency that regulates prediction markets platforms. The company also runs an offshore predictions platform, which was founded in 2020. The CFTC has not responded to a request for comment.
-The lawsuit is the latest in the escalating regulatory feud between states and the platforms. The CFTC has retaliated, suing several states and asserting it has the right to regulate the markets.
-Polymarket defended itself against the latest New York action.
-""Polymarket was founded in a tiny NYC apartment and now has more than 350 employees here, embodying why people and businesses come here to make it. We believe in New York and we're staying here. While the AG's decision to copy/paste a recycled lawsuit is disappointing, we'll fight for our users," said Neal Kumar, the chief legal officer for the platform.
-- Davis Giangiulio contributed to this report.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/24/new-york-sues-polymarket-us-two-months-after-filing-suit-against-kalshi-.html",
-    publishedAt: "2026-09-24T16:37:02+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "rogue-openai-agent-infiltrated-australia-37782ca2",
-    title: "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-    titleJa: "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-    summaryJa: "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-    bodyOriginal: `Rogue OpenAI agent 'infiltrated' Australian government website in world first
-- Published
-A rogue OpenAI agent hacked an Australian government website in June and accessed private data in what experts say is the first known case of its kind in the world.
-The agent "infiltrated" a statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Prime Minister Anthony Albanese said in New York on Wednesday, local time.
-He had a "very frank discussion" with OpenAI boss Sam Altman for taking "too long" to disclose the breach and said there would be "legal consequences".
-OpenAI said it only learnt of the breach in August while reviewing "misaligned model activity" and emailed a general inbox of an Australian government agency on 10 September.
-Five days later, that government agency, Services Australia, escalated the email to Australia's cybersecurity centre before a government minister was notified and the prime minister alerted.
-Albanese said he spoke to Altman and raised "Australia's extreme concern about this incident" as well as his "disappointment" that the company had taken months to reveal the breach and "the nature of the way" it did so.
-The Australian leader said Altman had acknowledged there were "issues with protocols" at OpenAI.
-A "forensic investigation" led by the country's cybersecurity agency would aim to find out if other government systems were affected, Albanese said.
-The probe would also assess if the matter needed to be dealt with by police, he said, noting there "will obviously be legal consequences".
-Detailing the breach, Albanese said it had involved "public and non-public files" on the Medicare Statistics Reporting Service portal, home to "non-sensitive" data and statistics.
-Three other government systems "may" also have been affected: the Australian Institute of Health and Welfare and two state-based agencies - the New South Wales Bureau of Crime Statistics and Research and the Victorian Department of Health.
-"No personal information is believed to have been accessed at this stage, but investigations are ongoing," Albanese said.
-"Nonetheless this situation is obviously unacceptable," he said.
-OpenAI, in a statement, said it had "identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation".
-"In the course of that, our models took actions we did not intend," the statement said.
-It has also emerged that OpenAI's systems tried, and failed, to hack a digital library at the University of New Mexico in May, according to Transluce, a not-for-profit AI research lab.
-It said the systems also attempted to hack Data USA, a repository of public government data that same month. This also failed.
-Albanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.
-Australia was one of 22 countries that earlier this week signed a joint statement calling for global oversight and guardrails for the development of AI.
-Cybersecurity experts told the BBC the incident is a wake up call for regulators, given that AI agents are becoming more widely available for individual and commercial use.
-Dr Hammond Pearce, senior lecturer at the University of NSW Institute for Cyber Security, told the BBC that though this is the first known incident where AI agents have chosen to breach a government body of their own volition, there'll be more to come.
-"I expect that these kinds of attacks will keep occurring," he said, adding that they would likely "grow in severity and in frequency".
-"I do hope that this incident does start ringing alarm bells in governments around the world."
-Earlier this year, OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm named Hugging Face.
-And a string of other rogue AI incidents have also been made public this year, including a case where a digital assistant - without instruction - booted someone off a pilates class waiting list in a bid to get an Australian man in.
-Several AI firm leaders themselves - including Altman, Anthropic's Dario Amodei, and Elon Musk - have said the speed at which AI is developing is dangerous to humanity and needs to be reined in.
-But the US and China, who are vying for AI supremacy, are roadblocks. Both are hostile to greater regulation, wanting the economic and technological spoils of AI, and have downplayed safety concerns.
-Related topics
-- Published4 September
-- Published18 hours ago
-- Published1 day ago`,
-    bodyJa: `Rogue OpenAI agent 'infiltrated' Australian government website in world first
-- Published
-A rogue OpenAI agent hacked an Australian government website in June and accessed private data in what experts say is the first known case of its kind in the world.
-The agent "infiltrated" a statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare, Prime Minister Anthony Albanese said in New York on Wednesday, local time.
-He had a "very frank discussion" with OpenAI boss Sam Altman for taking "too long" to disclose the breach and said there would be "legal consequences".
-OpenAI said it only learnt of the breach in August while reviewing "misaligned model activity" and emailed a general inbox of an Australian government agency on 10 September.
-Five days later, that government agency, Services Australia, escalated the email to Australia's cybersecurity centre before a government minister was notified and the prime minister alerted.
-Albanese said he spoke to Altman and raised "Australia's extreme concern about this incident" as well as his "disappointment" that the company had taken months to reveal the breach and "the nature of the way" it did so.
-The Australian leader said Altman had acknowledged there were "issues with protocols" at OpenAI.
-A "forensic investigation" led by the country's cybersecurity agency would aim to find out if other government systems were affected, Albanese said.
-The probe would also assess if the matter needed to be dealt with by police, he said, noting there "will obviously be legal consequences".
-Detailing the breach, Albanese said it had involved "public and non-public files" on the Medicare Statistics Reporting Service portal, home to "non-sensitive" data and statistics.
-Three other government systems "may" also have been affected: the Australian Institute of Health and Welfare and two state-based agencies - the New South Wales Bureau of Crime Statistics and Research and the Victorian Department of Health.
-"No personal information is believed to have been accessed at this stage, but investigations are ongoing," Albanese said.
-"Nonetheless this situation is obviously unacceptable," he said.
-OpenAI, in a statement, said it had "identified activity involving several Australian government websites and services as our models attempted to look up answers, and available statistics for questions about Australia during an internal evaluation".
-"In the course of that, our models took actions we did not intend," the statement said.
-It has also emerged that OpenAI's systems tried, and failed, to hack a digital library at the University of New Mexico in May, according to Transluce, a not-for-profit AI research lab.
-It said the systems also attempted to hack Data USA, a repository of public government data that same month. This also failed.
-Albanese declined to answer whether he raised the matter with US President Donald Trump during their face-to-face meeting on Tuesday night in New York, where world leaders have gathered for the UN General Assembly.
-Australia was one of 22 countries that earlier this week signed a joint statement calling for global oversight and guardrails for the development of AI.
-Cybersecurity experts told the BBC the incident is a wake up call for regulators, given that AI agents are becoming more widely available for individual and commercial use.
-Dr Hammond Pearce, senior lecturer at the University of NSW Institute for Cyber Security, told the BBC that though this is the first known incident where AI agents have chosen to breach a government body of their own volition, there'll be more to come.
-"I expect that these kinds of attacks will keep occurring," he said, adding that they would likely "grow in severity and in frequency".
-"I do hope that this incident does start ringing alarm bells in governments around the world."
-Earlier this year, OpenAI revealed a group of AI agents it had been testing had escaped from their controls and secretly worked together to hack another tech firm named Hugging Face.
-And a string of other rogue AI incidents have also been made public this year, including a case where a digital assistant - without instruction - booted someone off a pilates class waiting list in a bid to get an Australian man in.
-Several AI firm leaders themselves - including Altman, Anthropic's Dario Amodei, and Elon Musk - have said the speed at which AI is developing is dangerous to humanity and needs to be reined in.
-But the US and China, who are vying for AI supremacy, are roadblocks. Both are hostile to greater regulation, wanting the economic and technological spoils of AI, and have downplayed safety concerns.
-Related topics
-- Published4 September
-- Published18 hours ago
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-24T15:42:07+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-    readTime: 10,
-  },
-  {
-    id: "analysis-higher-treasury-yields-deliver-b19322a2",
-    title: "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
-    titleJa: "Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy",
-    summaryJa: "Elevated Treasury yields will complicate both Federal Reserve policy and Treasury financing.",
-    bodyOriginal: `The jump in Treasury yields this week is delivering a reality check about a strong economy, stubborn inflation, and the growing cost of the national debt.
-That will put the squeeze on the debt-heavy Trump administration as it tries to find a path forward for the economy.
-It also highlights the tension between the nation's top two economic policymakers. Federal Reserve Chairman Kevin Warsh wants to hear what markets are saying. Treasury Secretary Scott Bessent wants to use his tools to change the message when he believes it's wrong.
-Bond yields jumped Wednesday, and were trading near multiple-decade highs Thursday, as traders digested surprisingly positive purchasing managers indices against the backdrop of a Fed that as of last week has started hiking its short-term policy rate. The 2-year Treasury yield rose 10 basis points to 4.87%, while the 10-year Treasury rose 17 basis points to 5.12% Thursday morning.
-Those yields are extraordinary by recent standards but less so over a longer horizon. The 10-year Treasury averaged about 5.9% from 1990 through 2006, before years of slow growth and usually low interest rates reset Americans' expectations about borrowing costs.
-Now the economy looks stronger, propelled in part by a surge in investment in artificial intelligence. Competition for capital has contributed to higher interest rates.
-The boom appears to go deeper. The Census Bureau reported last week that real median household income rose 2.6% to $87,460 and the poverty rate fell by half a percentage point to 10.2%.
-The economy's recent strength has also come on the back of a flood of government deficit spending, driven in part by large tax cuts under the first and second Trump administrations, with Iran war spending piling on. The federal deficit is set to come in above 6% of gross domestic product this year, based on data from the Congressional Budget Office. The agency projects that the tax-and-policy law passed last year will raise deficits by $4.7 trillion over 10 years, though tariffs will offset some of that.
-The nation is awash in credit. Warsh pointed to heavy debt issuance by banks and other financial institutions and tight credit spreads — suggesting borrowers have little trouble seeking loans — as among the key factors that prompted him to vote with the rest of the Fed's policymakers to raise interest rates.
-In the days since, several other Fed officials, including Governor Michael Barr on Wednesday, said they thought more rate increases would likely be needed.
-Bond yields likely benefitted from Warsh's decision to raise interest rates this week. Had Warsh not acted on inflation, traders would have run up long-term yields to account for the uncertainty of when and how the Fed might act.
-But Warsh will only go so far to influence the 10-year. "Ensuring continuous, sustainable, durable, economic growth, that's the business we're in," he said last week. Warsh and the Fed will act to try to tamp down the risk of inflation, but he doesn't want to induce a recession.
-The Fed's decision to move up interest rates highlights the possibility for tension with the Treasury Department.
-Warsh treats the 10-year Treasury as a vital source of information about the economy. He called it "the most important asset anywhere in the world" at his most recent press conference. He has changed the way the Fed communicates to make it easier for him to read the market's unfiltered signal.
-Bessent, on the other hand, has shown willingness to intervene when he believes markets have moved away from equilibrium. He recently ramped up the Treasury's efforts to buy back some long-term debt maturities because he saw a "fever" in the markets.
-"I don't believe that I can change the equilibrium price, but nothing's ever in equilibrium," Bessent said at a Breitbart event on Sept. 8. "When there's a disequilibrium, my job is to try to push things back towards equilibrium," he said.
-The stakes are growing because the Treasury must refinance a huge stock of debt while continuing to refinance large deficits. Some in the markets expect the Treasury to cut the supply of long-term debt it issues in favor of more short-term bills.
-That can get expensive for the U.S. government, and the taxpayer, when the Fed is raising short-term interest rates.
-Higher long-term rates compound the risks. The Committee for a Responsible Federal Budget calculates that the 10-year Treasury at 5% is about 80 basis points above CBO's baseline. If it stays that way over the coming decade, interest costs would rise to an annual $2.7 trillion — more than Social Security or Medicare, the nonpartisan group said.
-Higher average interest rates also mean U.S. growth has to stay higher for longer for the nation to have any chance at growing its way out of debt.
-That already looks unlikely. The International Monetary Fund estimated earlier this year that the U.S. government would need to run a primary budget surplus of 1% of GDP to put U.S. debt on a downward trajectory.
-With President Donald Trump promising $5,000 checks if Republicans sweep the midterm election, a turn toward fiscal rectitude looks unlikely.
-The bond market doesn't care about the politics. It's rendering a verdict about the cost of capital in a strong economy with continuing inflation pressure and vast government borrowing needs.
-Policymakers may not like that judgment, but they can't ignore it.`,
-    bodyJa: `The jump in Treasury yields this week is delivering a reality check about a strong economy, stubborn inflation, and the growing cost of the national debt.
-That will put the squeeze on the debt-heavy Trump administration as it tries to find a path forward for the economy.
-It also highlights the tension between the nation's top two economic policymakers. Federal Reserve Chairman Kevin Warsh wants to hear what markets are saying. Treasury Secretary Scott Bessent wants to use his tools to change the message when he believes it's wrong.
-Bond yields jumped Wednesday, and were trading near multiple-decade highs Thursday, as traders digested surprisingly positive purchasing managers indices against the backdrop of a Fed that as of last week has started hiking its short-term policy rate. The 2-year Treasury yield rose 10 basis points to 4.87%, while the 10-year Treasury rose 17 basis points to 5.12% Thursday morning.
-Those yields are extraordinary by recent standards but less so over a longer horizon. The 10-year Treasury averaged about 5.9% from 1990 through 2006, before years of slow growth and usually low interest rates reset Americans' expectations about borrowing costs.
-Now the economy looks stronger, propelled in part by a surge in investment in artificial intelligence. Competition for capital has contributed to higher interest rates.
-The boom appears to go deeper. The Census Bureau reported last week that real median household income rose 2.6% to $87,460 and the poverty rate fell by half a percentage point to 10.2%.
-The economy's recent strength has also come on the back of a flood of government deficit spending, driven in part by large tax cuts under the first and second Trump administrations, with Iran war spending piling on. The federal deficit is set to come in above 6% of gross domestic product this year, based on data from the Congressional Budget Office. The agency projects that the tax-and-policy law passed last year will raise deficits by $4.7 trillion over 10 years, though tariffs will offset some of that.
-The nation is awash in credit. Warsh pointed to heavy debt issuance by banks and other financial institutions and tight credit spreads — suggesting borrowers have little trouble seeking loans — as among the key factors that prompted him to vote with the rest of the Fed's policymakers to raise interest rates.
-In the days since, several other Fed officials, including Governor Michael Barr on Wednesday, said they thought more rate increases would likely be needed.
-Bond yields likely benefitted from Warsh's decision to raise interest rates this week. Had Warsh not acted on inflation, traders would have run up long-term yields to account for the uncertainty of when and how the Fed might act.
-But Warsh will only go so far to influence the 10-year. "Ensuring continuous, sustainable, durable, economic growth, that's the business we're in," he said last week. Warsh and the Fed will act to try to tamp down the risk of inflation, but he doesn't want to induce a recession.
-The Fed's decision to move up interest rates highlights the possibility for tension with the Treasury Department.
-Warsh treats the 10-year Treasury as a vital source of information about the economy. He called it "the most important asset anywhere in the world" at his most recent press conference. He has changed the way the Fed communicates to make it easier for him to read the market's unfiltered signal.
-Bessent, on the other hand, has shown willingness to intervene when he believes markets have moved away from equilibrium. He recently ramped up the Treasury's efforts to buy back some long-term debt maturities because he saw a "fever" in the markets.
-"I don't believe that I can change the equilibrium price, but nothing's ever in equilibrium," Bessent said at a Breitbart event on Sept. 8. "When there's a disequilibrium, my job is to try to push things back towards equilibrium," he said.
-The stakes are growing because the Treasury must refinance a huge stock of debt while continuing to refinance large deficits. Some in the markets expect the Treasury to cut the supply of long-term debt it issues in favor of more short-term bills.
-That can get expensive for the U.S. government, and the taxpayer, when the Fed is raising short-term interest rates.
-Higher long-term rates compound the risks. The Committee for a Responsible Federal Budget calculates that the 10-year Treasury at 5% is about 80 basis points above CBO's baseline. If it stays that way over the coming decade, interest costs would rise to an annual $2.7 trillion — more than Social Security or Medicare, the nonpartisan group said.
-Higher average interest rates also mean U.S. growth has to stay higher for longer for the nation to have any chance at growing its way out of debt.
-That already looks unlikely. The International Monetary Fund estimated earlier this year that the U.S. government would need to run a primary budget surplus of 1% of GDP to put U.S. debt on a downward trajectory.
-With President Donald Trump promising $5,000 checks if Republicans sweep the midterm election, a turn toward fiscal rectitude looks unlikely.
-The bond market doesn't care about the politics. It's rendering a verdict about the cost of capital in a strong economy with continuing inflation pressure and vast government borrowing needs.
-Policymakers may not like that judgment, but they can't ignore it.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html",
-    publishedAt: "2026-09-24T15:40:19+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "reported-assaults-on-britain-s-rail-serv-6ccddc97",
-    title: "Reported assaults on Britain's rail services rise by more than a third",
-    titleJa: "Reported assaults on Britain's rail services rise by more than a third",
-    summaryJa: "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
-    bodyOriginal: `Reported assaults on Britain's rail services rise by more than a third
-- Published
-Reports of violent incidents and harassment on rail services "rose substantially" last year, figures from the rail regulator show.
-Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).
-In total 13,464 assaults against passengers and members of the public were recorded on Britain's mainline railway, the highest number recorded since the series began in 2004.
-The ORR said the figures were "concerning" and that it was working with the industry to address the problem.
-According to the figures, harassment increased by 52% compared with the previous year and common assaults rose by 30%.
-The increase comes against a backdrop of five years of rising reports of incidents and industry campaigns to raise awareness.
-Assaults on the mainline railway are recorded according to their type. As a result each incident can lead to reports in more than one category, for example if someone is harassed and then physically assaulted.
-There were also 11,289 reported assaults against members of the workforce on the mainline railway, up 12% compared with the previous year.
-Of those 2,487 were physical assaults, while more than half (6,390 incidents) involved verbal abuse. The rest were threats.
-"We're working with industry and our trade union colleagues to address work-related violence and harassment," said Richard Hines, the ORR's chief inspector of railways.
-"This includes understanding where the risks are, putting effective controls in place, encouraging staff to report incidents and providing appropriate support afterwards," he said.
-The statistics include mainline rail services in England, Scotland and Wales, but not Northern Ireland. The data release also covers the London Underground, trams, metros and other light rail services.
-On the London Underground, recorded assaults increased 20% to 5,534 in the latest year, but reported workforce assaults fell 3% to 3,525.
-Transport for London does not record multiple aspects of each incident. Instead it records the most severe aspect reported.
-A spokesperson responding on behalf of Network Rail and the train companies said all operators were working to reduce risk and prevent harm by sharing information, improving reporting processes and deploying body-worn cameras.
-"Keeping passengers and colleagues safe is at the heart of everything we do," the spokesperson said.
-"Violence, abuse and intimidation directed at passengers or staff are completely unacceptable. The rail industry works closely with British Transport Police to investigate incidents, support victims and bring offenders to justice."
-The passenger body, Transport Focus, said the ORR's figures supported research it conducted which found personal security was "one of the highest priorities" for passengers. However, only 3% of passengers it surveyed said they were dissatisfied with personal safety at the station.
-Transport Focus acknowledged that some of the increase might reflect better reporting. Nevertheless, every incident represented someone negatively affected, it said, adding it would like to see "a much more strategic approach" to tackling the issue.
-The RMT union, representing rail industry workers, said the figures corresponded with the union's own figures indicating two-thirds of its members had experienced violence at work.
-RMT general secretary Eddie Dempsey called for an increase in staffing on public transport, including an end to lone working, to combat the problem.
-"We also clearly need stronger legal protections for public transport workers against assaults at work," he said.
-He said cuts to British Transport Police funding had been "disastrous" and called for outsourced security and enforcement staff to be brought in-house "as a matter of urgency".
-Other notable figures from the statistical release include that 11 members of the public died at mainline level crossings in the latest year, six more than the previous year. Eight were pedestrians and the others were road vehicle users.
-Get in touch
-Have you experienced an assault on rail services? How safe do you feel? What measures would reassure you of your safety? Tell us.
-Related topics
-- Published16 September
-- Published6 August`,
-    bodyJa: `Reported assaults on Britain's rail services rise by more than a third
-- Published
-Reports of violent incidents and harassment on rail services "rose substantially" last year, figures from the rail regulator show.
-Reported assaults, including physical and verbal, were up 36% in the year to March 2026 compared with the previous year, according to the Office of Rail and Road (ORR).
-In total 13,464 assaults against passengers and members of the public were recorded on Britain's mainline railway, the highest number recorded since the series began in 2004.
-The ORR said the figures were "concerning" and that it was working with the industry to address the problem.
-According to the figures, harassment increased by 52% compared with the previous year and common assaults rose by 30%.
-The increase comes against a backdrop of five years of rising reports of incidents and industry campaigns to raise awareness.
-Assaults on the mainline railway are recorded according to their type. As a result each incident can lead to reports in more than one category, for example if someone is harassed and then physically assaulted.
-There were also 11,289 reported assaults against members of the workforce on the mainline railway, up 12% compared with the previous year.
-Of those 2,487 were physical assaults, while more than half (6,390 incidents) involved verbal abuse. The rest were threats.
-"We're working with industry and our trade union colleagues to address work-related violence and harassment," said Richard Hines, the ORR's chief inspector of railways.
-"This includes understanding where the risks are, putting effective controls in place, encouraging staff to report incidents and providing appropriate support afterwards," he said.
-The statistics include mainline rail services in England, Scotland and Wales, but not Northern Ireland. The data release also covers the London Underground, trams, metros and other light rail services.
-On the London Underground, recorded assaults increased 20% to 5,534 in the latest year, but reported workforce assaults fell 3% to 3,525.
-Transport for London does not record multiple aspects of each incident. Instead it records the most severe aspect reported.
-A spokesperson responding on behalf of Network Rail and the train companies said all operators were working to reduce risk and prevent harm by sharing information, improving reporting processes and deploying body-worn cameras.
-"Keeping passengers and colleagues safe is at the heart of everything we do," the spokesperson said.
-"Violence, abuse and intimidation directed at passengers or staff are completely unacceptable. The rail industry works closely with British Transport Police to investigate incidents, support victims and bring offenders to justice."
-The passenger body, Transport Focus, said the ORR's figures supported research it conducted which found personal security was "one of the highest priorities" for passengers. However, only 3% of passengers it surveyed said they were dissatisfied with personal safety at the station.
-Transport Focus acknowledged that some of the increase might reflect better reporting. Nevertheless, every incident represented someone negatively affected, it said, adding it would like to see "a much more strategic approach" to tackling the issue.
-The RMT union, representing rail industry workers, said the figures corresponded with the union's own figures indicating two-thirds of its members had experienced violence at work.
-RMT general secretary Eddie Dempsey called for an increase in staffing on public transport, including an end to lone working, to combat the problem.
-"We also clearly need stronger legal protections for public transport workers against assaults at work," he said.
-He said cuts to British Transport Police funding had been "disastrous" and called for outsourced security and enforcement staff to be brought in-house "as a matter of urgency".
-Other notable figures from the statistical release include that 11 members of the public died at mainline level crossings in the latest year, six more than the previous year. Eight were pedestrians and the others were road vehicle users.
-Get in touch
-Have you experienced an assault on rail services? How safe do you feel? What measures would reassure you of your safety? Tell us.
-Related topics
-- Published16 September
-- Published6 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-24T15:38:50+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b070/live/bbedba70-b811-11f1-9172-17f860da9de7.jpg",
-    readTime: 10,
-  },
-  {
-    id: "big-business-warns-trump-against-diesel-8cdcb3c3",
-    title: "Big business warns Trump against diesel export ban in joint letter",
-    titleJa: "Big business warns Trump against diesel export ban in joint letter",
-    summaryJa: "The national average for a gallon of diesel reached $6.51 on Thursday, nearly $3 more than the same period a year ago, according to data from AAA.",
-    bodyOriginal: `The biggest business groups in the U.S. warned President Trump against a diesel export ban this week, saying in a joint letter that such an action would prove counterproductive and raise fuel prices rather than lower them.
-The U.S. Chamber of Commerce, Business Roundtable, National Association of Manufacturers, American Petroleum Institute and dozens of other groups told Trump that an export ban would "lead to less fuel production, tighter supplies and rising costs for American families, farmers and truckers."
-"You have been asked by some to ban or limit the export of diesel to help lower prices, when in fact the opposite would occur," the groups warned in the letter sent to Trump on Wednesday.
-You can download the letter here
-Trump is facing growing political pressure from Republican lawmakers in farm states including Iowa to take action to lower fuel prices ahead of the U.S. midterm elections. Diesel cost a national average of $6.51 per gallon Thursday, $2.82 more expensive than the same period last year, according to data from AAA.
-Trump said Tuesday that he has advocated for an export ban during deliberations within the administration. The remarks took the oil industry and business groups by surprise.
-"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters on the sidelines of the U.N. General Assembly in New York. "I've called for it within my people. I've been talking about it."
-Feasibility study
-Asked by Trump to explain the administration's deliberations to the press, Treasury Secretary Scott Bessent said the White House was examining whether an export ban is "feasible in terms of the overall refining capacity and whether a full or partial ban would work."
-A report on Politico Wednesday citing unnamed sources that the administration was preparing a plan to ban diesel exports for 90 days drove down diesel futures and shares of U.S. oil refiners.
-But U.S. Energy Secretary Chris Wright told The New York Times later Wednesday that "nobody wants a full blanket ban or zero exports of diesel."
-"That's not being discussed," Wright told the Times. "What's being discussed is what's the most efficient way to get more diesel into the United States of America and continue maximum flows of gasoline and jet fuel and all that."
-Wright, an oil industry veteran who previoulsy served as CEO of oilfield servicer Liberty Energy, has said a diesel export ban would raise U.S. gasoline prices.
-Energy experts say an export ban would lead to a brief collapse in diesel prices in some U.S. regions but fuel prices would then shoot higher as refiners cut production in response to the restrictions.
-Diesel prices have soared as Ukraine's attacks on Russian refineries have forced Moscow to ban diesel exports. Russia was previously the second-largest diesel exporter in the world. A ban on U.S. diesel exports would remove the global market's largest source of supply.
-Iran and its Houthi allies have also attacked refineries in the Middle East, and exports through the Strait of Hormuz are constrained as Iran continues to threaten and attack tankers.`,
-    bodyJa: `The biggest business groups in the U.S. warned President Trump against a diesel export ban this week, saying in a joint letter that such an action would prove counterproductive and raise fuel prices rather than lower them.
-The U.S. Chamber of Commerce, Business Roundtable, National Association of Manufacturers, American Petroleum Institute and dozens of other groups told Trump that an export ban would "lead to less fuel production, tighter supplies and rising costs for American families, farmers and truckers."
-"You have been asked by some to ban or limit the export of diesel to help lower prices, when in fact the opposite would occur," the groups warned in the letter sent to Trump on Wednesday.
-You can download the letter here
-Trump is facing growing political pressure from Republican lawmakers in farm states including Iowa to take action to lower fuel prices ahead of the U.S. midterm elections. Diesel cost a national average of $6.51 per gallon Thursday, $2.82 more expensive than the same period last year, according to data from AAA.
-Trump said Tuesday that he has advocated for an export ban during deliberations within the administration. The remarks took the oil industry and business groups by surprise.
-"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters on the sidelines of the U.N. General Assembly in New York. "I've called for it within my people. I've been talking about it."
-Feasibility study
-Asked by Trump to explain the administration's deliberations to the press, Treasury Secretary Scott Bessent said the White House was examining whether an export ban is "feasible in terms of the overall refining capacity and whether a full or partial ban would work."
-A report on Politico Wednesday citing unnamed sources that the administration was preparing a plan to ban diesel exports for 90 days drove down diesel futures and shares of U.S. oil refiners.
-But U.S. Energy Secretary Chris Wright told The New York Times later Wednesday that "nobody wants a full blanket ban or zero exports of diesel."
-"That's not being discussed," Wright told the Times. "What's being discussed is what's the most efficient way to get more diesel into the United States of America and continue maximum flows of gasoline and jet fuel and all that."
-Wright, an oil industry veteran who previoulsy served as CEO of oilfield servicer Liberty Energy, has said a diesel export ban would raise U.S. gasoline prices.
-Energy experts say an export ban would lead to a brief collapse in diesel prices in some U.S. regions but fuel prices would then shoot higher as refiners cut production in response to the restrictions.
-Diesel prices have soared as Ukraine's attacks on Russian refineries have forced Moscow to ban diesel exports. Russia was previously the second-largest diesel exporter in the world. A ban on U.S. diesel exports would remove the global market's largest source of supply.
-Iran and its Houthi allies have also attacked refineries in the Middle East, and exports through the Strait of Hormuz are constrained as Iran continues to threaten and attack tankers.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html",
-    publishedAt: "2026-09-24T14:23:33+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
   },
 ];
 
