@@ -15,6 +15,594 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "oracle-japan-shares-surge-7-after-record-e4e655df",
+    title: "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
+    titleJa: "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
+    summaryJa: "Oracle Japan shares surged after the company reported record fiscal first-quarter sales and profits.",
+    bodyOriginal: `Shares of Oracle Corp Japan surged more than 7% Friday after the company reported record fiscal first-quarter sales and profits, as its cloud business posted strong growth.
+The rally in Tokyo stood in contrast to a more than 3% drop in U.S.-listed Oracle shares overnight, after the company sent a "force majeure" notice tied to its New Mexico data center project.
+The Japanese arm said Thursday that net sales for the June-August quarter rose 13% from a year earlier to 74.86 billion yen ($472 million), while operating profit jumped 22.7% to 25.92 billion yen. Net profit climbed 23.2% to 18.25 billion yen.
+Net sales and all profit items hit record highs for a fiscal first quarter, the company said.
+Cloud revenue jumped 31.7% year on year to 25.14 billion yen, increasing its share of total sales to 33.6% from 28.8% a year earlier.
+Oracle Japan said demand for cloud infrastructure had driven usage of its Tokyo and Osaka data centers. The company also said it plans to expand its sovereign cloud offering and strengthen its AI solutions in Japan.
+The company maintained its full-year outlook for sales growth of 6-10%.
+Oracle in 2024 committed more than $8 billion to cloud and AI infrastructure in Japan over a decade, while SoftBank has rolled out sovereign cloud and generative AI services using Oracle technology.`,
+    bodyJa: `Shares of Oracle Corp Japan surged more than 7% Friday after the company reported record fiscal first-quarter sales and profits, as its cloud business posted strong growth.
+The rally in Tokyo stood in contrast to a more than 3% drop in U.S.-listed Oracle shares overnight, after the company sent a "force majeure" notice tied to its New Mexico data center project.
+The Japanese arm said Thursday that net sales for the June-August quarter rose 13% from a year earlier to 74.86 billion yen ($472 million), while operating profit jumped 22.7% to 25.92 billion yen. Net profit climbed 23.2% to 18.25 billion yen.
+Net sales and all profit items hit record highs for a fiscal first quarter, the company said.
+Cloud revenue jumped 31.7% year on year to 25.14 billion yen, increasing its share of total sales to 33.6% from 28.8% a year earlier.
+Oracle Japan said demand for cloud infrastructure had driven usage of its Tokyo and Osaka data centers. The company also said it plans to expand its sovereign cloud offering and strengthen its AI solutions in Japan.
+The company maintained its full-year outlook for sales growth of 6-10%.
+Oracle in 2024 committed more than $8 billion to cloud and AI infrastructure in Japan over a decade, while SoftBank has rolled out sovereign cloud and generative AI services using Oracle technology.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
+    publishedAt: "2026-09-25T01:56:24+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "china-s-xi-urges-u-s-to-cooperate-on-ai-8ba6c48f",
+    title: "China's Xi urges U.S. to cooperate on AI",
+    titleJa: "China's Xi urges U.S. to cooperate on AI",
+    summaryJa: "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
+    bodyOriginal: `BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.
+That's according to a state media readout of the two leaders' meeting in the White House Oval Office Thursday local time.
+"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI," Xi said in Chinese, according to a CNBC translation of the state media readout.
+He noted AI is important to both the U.S. and China. "Both sides have competition. Cooperation, even more so," he said.
+Xi also emphasized that humans should maintain control of the technology, and that AI should support human progress.
+The U.S. has restricted China's ability to access advanced semiconductors for training AI models, and criticized Chinese companies for allegedly taking part in illicit distillation of American AI capabilities.
+Recent incidents have raised fears that increasingly autonomous AI models could make attacks faster and harder to contain.
+Following a meeting with Chinese negotiators in New York, U.S. Treasury Secretary Scott Bessent said earlier this week the two sides had discussed setting up a "U.S.-China AI Dialogue." He said the U.S. proposed introducing an alert system for AI incidents.
+China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.`,
+    bodyJa: `BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.
+That's according to a state media readout of the two leaders' meeting in the White House Oval Office Thursday local time.
+"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI," Xi said in Chinese, according to a CNBC translation of the state media readout.
+He noted AI is important to both the U.S. and China. "Both sides have competition. Cooperation, even more so," he said.
+Xi also emphasized that humans should maintain control of the technology, and that AI should support human progress.
+The U.S. has restricted China's ability to access advanced semiconductors for training AI models, and criticized Chinese companies for allegedly taking part in illicit distillation of American AI capabilities.
+Recent incidents have raised fears that increasingly autonomous AI models could make attacks faster and harder to contain.
+Following a meeting with Chinese negotiators in New York, U.S. Treasury Secretary Scott Bessent said earlier this week the two sides had discussed setting up a "U.S.-China AI Dialogue." He said the U.S. proposed introducing an alert system for AI incidents.
+China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
+    publishedAt: "2026-09-25T01:22:17+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "atlanta-is-getting-pandas-china-s-xi-rev-fb70a251",
+    title: "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
+    titleJa: "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
+    summaryJa: "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
+    bodyOriginal: `Chinese leader Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive on the opening day of his first state visit to the U.S. in more than a decade.
+Two giant pandas, Ping Ping and Fu Shuang, from a research base in Chengdu will arrive at the Georgia zoo "in the coming days," Xi said. They would be Zoo Atlanta's first pandas since its previous four returned to China in November 2024, when it became the last U.S. zoo to lose its bears.
+The Chinese president made the announcement at the start of his state visit in Washington, where he and President Donald Trump are meeting through Friday on an agenda spanning artificial intelligence, tariffs, critical minerals, Taiwan and the Iran war.
+"The giant panda has been an envoy of friendship between the Chinese and Americans," he said at a White House ceremony.
+China has used pandas as a diplomatic barometer since Mao Zedong sent a pair to Washington's National Zoo following Richard Nixon's 1972 visit, a gift so anticipated that more than a million people came to see the animals in their first year.
+Beijing shifted from gifting pandas outright to leasing them in 1984, and the loans have since tracked the temperature of the relationship — thinning as trade and Taiwan tensions rose, then resuming as San Diego and the Washington DC National Zoo took in new pairs in 2024.
+Pandas on loan to the U.S. have bred 17 cubs, including six in San Diego, four in Washington and seven in Atlanta, according to Chinese state media.
+"Panda diplomacy conveys a message of friendship and goodwill from China," said Wu Xinbo, director of the Center for American Studies at Fudan University. "Americans may not like China, but they will certainly like pandas."
+The gesture would improve the atmosphere between the world's two largest economies and generate positive momentum in bilateral relations, he said.
+Experts have kept expectations muted for a summit likely to yield few major deliverables, even as the leaders' first meeting carries real geopolitical risk.
+"For Beijing, the message is friendship without requiring major policy concessions. For Washington, it's a reminder that even amid intense competition, there is room for visible, people-to-people engagement," said Han Shen Lin, associate professor at NYU Shanghai.
+Xi also said China would invite 100,000 young Americans to study there over the next five years.
+Trump greeted Xi planeside at Joint Base Andrews on Wednesday, a welcome rarely extended to visiting heads of state. It is Xi's first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.`,
+    bodyJa: `Chinese leader Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive on the opening day of his first state visit to the U.S. in more than a decade.
+Two giant pandas, Ping Ping and Fu Shuang, from a research base in Chengdu will arrive at the Georgia zoo "in the coming days," Xi said. They would be Zoo Atlanta's first pandas since its previous four returned to China in November 2024, when it became the last U.S. zoo to lose its bears.
+The Chinese president made the announcement at the start of his state visit in Washington, where he and President Donald Trump are meeting through Friday on an agenda spanning artificial intelligence, tariffs, critical minerals, Taiwan and the Iran war.
+"The giant panda has been an envoy of friendship between the Chinese and Americans," he said at a White House ceremony.
+China has used pandas as a diplomatic barometer since Mao Zedong sent a pair to Washington's National Zoo following Richard Nixon's 1972 visit, a gift so anticipated that more than a million people came to see the animals in their first year.
+Beijing shifted from gifting pandas outright to leasing them in 1984, and the loans have since tracked the temperature of the relationship — thinning as trade and Taiwan tensions rose, then resuming as San Diego and the Washington DC National Zoo took in new pairs in 2024.
+Pandas on loan to the U.S. have bred 17 cubs, including six in San Diego, four in Washington and seven in Atlanta, according to Chinese state media.
+"Panda diplomacy conveys a message of friendship and goodwill from China," said Wu Xinbo, director of the Center for American Studies at Fudan University. "Americans may not like China, but they will certainly like pandas."
+The gesture would improve the atmosphere between the world's two largest economies and generate positive momentum in bilateral relations, he said.
+Experts have kept expectations muted for a summit likely to yield few major deliverables, even as the leaders' first meeting carries real geopolitical risk.
+"For Beijing, the message is friendship without requiring major policy concessions. For Washington, it's a reminder that even amid intense competition, there is room for visible, people-to-people engagement," said Han Shen Lin, associate professor at NYU Shanghai.
+Xi also said China would invite 100,000 young Americans to study there over the next five years.
+Trump greeted Xi planeside at Joint Base Andrews on Wednesday, a welcome rarely extended to visiting heads of state. It is Xi's first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
+    publishedAt: "2026-09-25T01:12:19+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "here-s-who-is-attending-the-trump-xi-sta-b9486453",
+    title: "Here's who is attending the Trump-Xi state dinner",
+    titleJa: "Here's who is attending the Trump-Xi state dinner",
+    summaryJa: "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
+    bodyOriginal: `U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.
+On the Chinese side, the delegation consisted primarily of government officials, accompanying Chinese President Xi Jinping and U.S. President Donald Trump and their wives.
+Talks with Trump have "added new substance" to U.S.-China relations, Xi said in a toast, according to an official translation. Trump gave Xi a statue of a bald eagle.
+The U.S. and Chinese presidential couples were seated with Apple's Tim Cook, Nvidia's Jensen Huang and his wife, Elon Musk and AMD's Lisa Su.
+Meta and OpenAI were among the other major U.S. tech companies represented. Anthropic was not on the list.
+The two-course menu included a silky yellow squash velouté with crispy pancetta, sesame-crusted sea bass served over braised baby bok choy, and a fruit-shaped vanilla cremeux with ice cream made with White House honey.
+Other attendees included members of Trump's extended family, including Melania's father Viktor Knavs.
+Chinese business leaders were previously expected to attend the dinner. Earlier, CNBC reported that someone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join Xi on his trip.
+Xi is making his first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.
+Here's the full list:
+- President Donald J. Trump
+- First Lady Melania Trump
+- President Xi Jinping
+- Madame Peng Liyuan
+- Vice President JD Vance
+- Second Lady Usha Vance
+- Secretary of State Marco Rubio
+- Jeanette Rubio, Spouse of the Secretary of State
+- Chief of Staff Susie Wiles
+- U.S. Ambassador to China David Perdue
+- Bonnie Perdue, Spouse of the U.S. Ambassador to China
+- Secretary of the Treasury Scott Bessent
+- John Freeman, Spouse of the Secretary of the Treasury
+- Secretary of War Pete Hegseth
+- Ambassador Jamieson Greer, United States Trade Representative
+- Marlo Greer, Spouse of Ambassador Greer
+- Cai Qi, CPC Political Bureau Standing Committee Member, Chief of Staff to President Xi
+- Wang Yi, CPC Political Bureau Central Committee Member
+- He Lifeng, CPC Political Bureau Central Committee, Vice Premier of State Council
+- Zheng Shanjie, Chairman of the National Development and Reform Commission
+- Wang Wentao, Minister of Commerce
+- Ma Zhaoxu, Executive Vice Foreign Minister
+- Ambassador Xie Feng, Chinese Ambassador to the United States
+- Hong Lei, Assistant Foreign Minister Director General, Protocol Department
+- Cai Wei, Assistant Foreign Minister Director General, Department of North American and Oceanian Affairs
+- Mao Ning, Director General, Department of Press, Communication and Public Diplomacy, Ministry of Foreign Affairs
+- Zhang Quan, Secretary to Madame Peng
+- Zhang Yongchao, Deputy Director General, Department of North American and Oceanian Affairs, Ministry of Foreign Affairs
+- Tang Fangyu, Director, Central Policy Research Office of the CPC Central Committee
+- Lan Fo'an, Minister of Finance
+- Wang Dan, Wife of Ambassador Xie Feng
+- Zhou Hongxu, Deputy Director, General Office of the CPC Central Committee Director, Central Security Bureau
+- Ms. Ivanka Trump
+- Mr. Eric Trump
+- Ms. Lara Trump
+- Ms. Tiffany Trump
+- Mr. Michael Boulos
+- Mr. Viktor Knavs
+- Ms. Arabella Kushner
+- Jensen Huang, Nvidia, CEO
+- Lori Huang, Spouse of Jensen Huang
+- Mark Zuckerberg, Meta, CEO
+- Dr. Lisa Su, Advanced Micro Devices, CEO
+- Daniel Lin, Spouse of Lisa Su
+- Tim Cook, Chairman of the Board of Apple
+- John F.W. Rogers, Goldman Sachs EVP and Secretary to the Board
+- Lynn Martin, President of the NYSE
+- Linda Mills, President of New York University
+- Eric Yuan, Zoom, CEO
+- Lyu Luhua, Secretary to the President
+- Kelly Ortberg, Boeing, CEO
+- Larry Fink, Blackrock, CEO
+- Stephen Schwarzman, Blackstone, CEO
+- Sam Altman, OpenAI, CEO
+- Greg Brockman, OpenAI, President & Co-Founder
+- Anna Brockman, Wife of Greg Brockman
+- Dr. Miriam Adelson, Las Vegas Sand, Controlling Shareholder
+- Sergey Brin, Google/Alphabet, Co-Founder
+- Gerelyn Gilbert-Soto, Partner of Sergey Brin
+- Satya Nadella, Microsoft, Chairman & CEO
+- Jim Taiclet, Lockheed Martin, Chairman, President & CEO
+- Sundar Pichai, Google, CEO
+- Larry Culp, GE Aerospace, CEO
+- Sanjay Mehrotra, Micron, CEO
+- Cristiano Amon, Qualcomm, CEO
+- Jeff Bezos, Amazon, Chairman
+- Lauren Sanchez-Bezos, Spouse of Jeff Bezos
+- Jeff Yass, TikTok
+- Jamie Dimon, JP Morgan, CEO
+- Michael Dell, Dell, CEO
+- Mary Barra, General Motors, CEO
+- David Solomon, Goldman Sachs, CEO
+- Jane Fraser, Citi, CEO
+- Elon Musk, SpaceX & Tesla, CEO
+- Darren Woods, ExxonMobil, CEO
+- Chief Justice John Roberts, Chief Supreme Court Justice
+- Jane Sullivan Roberts, Chief Supreme Court Justice Spouse
+- Justice Amy Coney Barrett, Supreme Court Justice
+- Jesse Barrett, Supreme Court Justice Spouse
+- Justice Brett Kavanaugh, Supreme Court Justice
+- Ashley Estes Kavanaugh, Spouse of Supreme Court Justice
+- Speaker Mike Johnson, United States House of Representatives, Louisiana
+- Kelly Johnson, Spouse of Speaker Mike Johnson
+- Bret Baier, FOX News, American Journalist and Host
+- Amy Baier, Spouse of Brett Baier
+- Laura Ingraham, FOX News, American Television Presenter
+- Representative Richard McCormick, United States House of Representatives, Georgia
+- Jesse Watters, FOX News Host
+- Emma Watters, Spouse of Jesse Watters
+- David Ellison, Paramount Skydance, CEO
+- Susan Dell, Spouse to Michael Dell
+- Kevin Warsh, Chairman of the Federal Reserve
+- Jane Lauder, Spouse to Kevin Warsh
+- Secretary Howard Lutnick, Secretary of Commerce
+- Allison Lutnick, Spouse to Secretary Lutnick
+- Director John Ratcliffe, Director of the Central Intelligence Agency
+- Michelle Ratcliffe, Spouse to Director Ratcliffe
+- Special Envoy Steve Witkoff, U.S. Special Envoy to Middle East
+- Stephen Miller, Deputy Chief of Staff for Policy and Homeland Security Advisor, Assistant to the President
+- Katie Miller, Spouse of Stephen Miller
+- Dan Scavino, Deputy Chief of Staff, Assistant to the President
+- Erin Scavino, Spouse to Dan Scavino
+- Attorney General Todd Blanche, Attorney General of the United States
+- Kristine Blanche, Spouse to Attorney General Todd Blanche
+- Meredith O'Rourke, The O'Rourke Group
+- Secretary Chris Wright, Secretary of Energy
+- Secretary Robert F. Kennedy, Secretary of Health & Human Services
+- Secretary Linda McMahon, Secretary of Education
+- Secretary Doug Burgum, Secretary of Interior
+- Kathryn Burgum, Spouse to Secretary Burgum
+- Secretary Sean Duffy, Secretary of Transportation
+- Rachel Campos-Duffy, Spouse of Sean Duffy
+- Director Russell Vought, Director of Office of Management & Budget
+- Administrator Lee Zeldin, Administrator of the Environmental Protection Agency
+- Acting Secretary Keith Sonderling, Acting Secretary of Labor
+- Brad Gerstner, Altimeter, CEO
+- Sangeeta Mehrota, Spouse of Sanjay Mehrotra
+- Anthony Barra, Spouse of Mary Barra
+- Kathy Woods, Spouse of Darren Woods
+- Albert Bourla, Pfizer, CEO
+- David Sacks, Co-chair, President's Council of Advisors on Science and Technology
+- Administrator Kelly Loeffler, Small Business Administrator
+- Jeff Sprecher, Spouse of Kelly Loeffler
+- Katie Simpson, Fiancé to Brad Gerstner
+- Representative Jason Smith, United States House of Representatives, Missouri
+- Senator Steven Daines, United States Senator, Montana
+- General Dan Caine, Chairman of the Joint Chiefs of Staff
+- Director Jay Clayton, Director of Office of the Director of National Intelligence
+- Bernard Arnault, LVMH, CEO
+- Alexandre Arnault, Son of Bernard Arnault
+- Ryan McInerey, Visa, CEO
+- Michael Miebach, Mastercard, CEO
+- Sandra Lynn Ellison, Spouse of David Ellison
+- Cheryl Hines, Spouse of Secretary Kennedy
+—CNBC's Hui Jie Lim, David Sucherman and Bria Cousins contributed to this report
+Correction: This story has been updated to remove an incorrect reference to the number of Chinese officials present.`,
+    bodyJa: `U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.
+On the Chinese side, the delegation consisted primarily of government officials, accompanying Chinese President Xi Jinping and U.S. President Donald Trump and their wives.
+Talks with Trump have "added new substance" to U.S.-China relations, Xi said in a toast, according to an official translation. Trump gave Xi a statue of a bald eagle.
+The U.S. and Chinese presidential couples were seated with Apple's Tim Cook, Nvidia's Jensen Huang and his wife, Elon Musk and AMD's Lisa Su.
+Meta and OpenAI were among the other major U.S. tech companies represented. Anthropic was not on the list.
+The two-course menu included a silky yellow squash velouté with crispy pancetta, sesame-crusted sea bass served over braised baby bok choy, and a fruit-shaped vanilla cremeux with ice cream made with White House honey.
+Other attendees included members of Trump's extended family, including Melania's father Viktor Knavs.
+Chinese business leaders were previously expected to attend the dinner. Earlier, CNBC reported that someone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join Xi on his trip.
+Xi is making his first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.
+Here's the full list:
+- President Donald J. Trump
+- First Lady Melania Trump
+- President Xi Jinping
+- Madame Peng Liyuan
+- Vice President JD Vance
+- Second Lady Usha Vance
+- Secretary of State Marco Rubio
+- Jeanette Rubio, Spouse of the Secretary of State
+- Chief of Staff Susie Wiles
+- U.S. Ambassador to China David Perdue
+- Bonnie Perdue, Spouse of the U.S. Ambassador to China
+- Secretary of the Treasury Scott Bessent
+- John Freeman, Spouse of the Secretary of the Treasury
+- Secretary of War Pete Hegseth
+- Ambassador Jamieson Greer, United States Trade Representative
+- Marlo Greer, Spouse of Ambassador Greer
+- Cai Qi, CPC Political Bureau Standing Committee Member, Chief of Staff to President Xi
+- Wang Yi, CPC Political Bureau Central Committee Member
+- He Lifeng, CPC Political Bureau Central Committee, Vice Premier of State Council
+- Zheng Shanjie, Chairman of the National Development and Reform Commission
+- Wang Wentao, Minister of Commerce
+- Ma Zhaoxu, Executive Vice Foreign Minister
+- Ambassador Xie Feng, Chinese Ambassador to the United States
+- Hong Lei, Assistant Foreign Minister Director General, Protocol Department
+- Cai Wei, Assistant Foreign Minister Director General, Department of North American and Oceanian Affairs
+- Mao Ning, Director General, Department of Press, Communication and Public Diplomacy, Ministry of Foreign Affairs
+- Zhang Quan, Secretary to Madame Peng
+- Zhang Yongchao, Deputy Director General, Department of North American and Oceanian Affairs, Ministry of Foreign Affairs
+- Tang Fangyu, Director, Central Policy Research Office of the CPC Central Committee
+- Lan Fo'an, Minister of Finance
+- Wang Dan, Wife of Ambassador Xie Feng
+- Zhou Hongxu, Deputy Director, General Office of the CPC Central Committee Director, Central Security Bureau
+- Ms. Ivanka Trump
+- Mr. Eric Trump
+- Ms. Lara Trump
+- Ms. Tiffany Trump
+- Mr. Michael Boulos
+- Mr. Viktor Knavs
+- Ms. Arabella Kushner
+- Jensen Huang, Nvidia, CEO
+- Lori Huang, Spouse of Jensen Huang
+- Mark Zuckerberg, Meta, CEO
+- Dr. Lisa Su, Advanced Micro Devices, CEO
+- Daniel Lin, Spouse of Lisa Su
+- Tim Cook, Chairman of the Board of Apple
+- John F.W. Rogers, Goldman Sachs EVP and Secretary to the Board
+- Lynn Martin, President of the NYSE
+- Linda Mills, President of New York University
+- Eric Yuan, Zoom, CEO
+- Lyu Luhua, Secretary to the President
+- Kelly Ortberg, Boeing, CEO
+- Larry Fink, Blackrock, CEO
+- Stephen Schwarzman, Blackstone, CEO
+- Sam Altman, OpenAI, CEO
+- Greg Brockman, OpenAI, President & Co-Founder
+- Anna Brockman, Wife of Greg Brockman
+- Dr. Miriam Adelson, Las Vegas Sand, Controlling Shareholder
+- Sergey Brin, Google/Alphabet, Co-Founder
+- Gerelyn Gilbert-Soto, Partner of Sergey Brin
+- Satya Nadella, Microsoft, Chairman & CEO
+- Jim Taiclet, Lockheed Martin, Chairman, President & CEO
+- Sundar Pichai, Google, CEO
+- Larry Culp, GE Aerospace, CEO
+- Sanjay Mehrotra, Micron, CEO
+- Cristiano Amon, Qualcomm, CEO
+- Jeff Bezos, Amazon, Chairman
+- Lauren Sanchez-Bezos, Spouse of Jeff Bezos
+- Jeff Yass, TikTok
+- Jamie Dimon, JP Morgan, CEO
+- Michael Dell, Dell, CEO
+- Mary Barra, General Motors, CEO
+- David Solomon, Goldman Sachs, CEO
+- Jane Fraser, Citi, CEO
+- Elon Musk, SpaceX & Tesla, CEO
+- Darren Woods, ExxonMobil, CEO
+- Chief Justice John Roberts, Chief Supreme Court Justice
+- Jane Sullivan Roberts, Chief Supreme Court Justice Spouse
+- Justice Amy Coney Barrett, Supreme Court Justice
+- Jesse Barrett, Supreme Court Justice Spouse
+- Justice Brett Kavanaugh, Supreme Court Justice
+- Ashley Estes Kavanaugh, Spouse of Supreme Court Justice
+- Speaker Mike Johnson, United States House of Representatives, Louisiana
+- Kelly Johnson, Spouse of Speaker Mike Johnson
+- Bret Baier, FOX News, American Journalist and Host
+- Amy Baier, Spouse of Brett Baier
+- Laura Ingraham, FOX News, American Television Presenter
+- Representative Richard McCormick, United States House of Representatives, Georgia
+- Jesse Watters, FOX News Host
+- Emma Watters, Spouse of Jesse Watters
+- David Ellison, Paramount Skydance, CEO
+- Susan Dell, Spouse to Michael Dell
+- Kevin Warsh, Chairman of the Federal Reserve
+- Jane Lauder, Spouse to Kevin Warsh
+- Secretary Howard Lutnick, Secretary of Commerce
+- Allison Lutnick, Spouse to Secretary Lutnick
+- Director John Ratcliffe, Director of the Central Intelligence Agency
+- Michelle Ratcliffe, Spouse to Director Ratcliffe
+- Special Envoy Steve Witkoff, U.S. Special Envoy to Middle East
+- Stephen Miller, Deputy Chief of Staff for Policy and Homeland Security Advisor, Assistant to the President
+- Katie Miller, Spouse of Stephen Miller
+- Dan Scavino, Deputy Chief of Staff, Assistant to the President
+- Erin Scavino, Spouse to Dan Scavino
+- Attorney General Todd Blanche, Attorney General of the United States
+- Kristine Blanche, Spouse to Attorney General Todd Blanche
+- Meredith O'Rourke, The O'Rourke Group
+- Secretary Chris Wright, Secretary of Energy
+- Secretary Robert F. Kennedy, Secretary of Health & Human Services
+- Secretary Linda McMahon, Secretary of Education
+- Secretary Doug Burgum, Secretary of Interior
+- Kathryn Burgum, Spouse to Secretary Burgum
+- Secretary Sean Duffy, Secretary of Transportation
+- Rachel Campos-Duffy, Spouse of Sean Duffy
+- Director Russell Vought, Director of Office of Management & Budget
+- Administrator Lee Zeldin, Administrator of the Environmental Protection Agency
+- Acting Secretary Keith Sonderling, Acting Secretary of Labor
+- Brad Gerstner, Altimeter, CEO
+- Sangeeta Mehrota, Spouse of Sanjay Mehrotra
+- Anthony Barra, Spouse of Mary Barra
+- Kathy Woods, Spouse of Darren Woods
+- Albert Bourla, Pfizer, CEO
+- David Sacks, Co-chair, President's Council of Advisors on Science and Technology
+- Administrator Kelly Loeffler, Small Business Administrator
+- Jeff Sprecher, Spouse of Kelly Loeffler
+- Katie Simpson, Fiancé to Brad Gerstner
+- Representative Jason Smith, United States House of Representatives, Missouri
+- Senator Steven Daines, United States Senator, Montana
+- General Dan Caine, Chairman of the Joint Chiefs of Staff
+- Director Jay Clayton, Director of Office of the Director of National Intelligence
+- Bernard Arnault, LVMH, CEO
+- Alexandre Arnault, Son of Bernard Arnault
+- Ryan McInerey, Visa, CEO
+- Michael Miebach, Mastercard, CEO
+- Sandra Lynn Ellison, Spouse of David Ellison
+- Cheryl Hines, Spouse of Secretary Kennedy
+—CNBC's Hui Jie Lim, David Sucherman and Bria Cousins contributed to this report
+Correction: This story has been updated to remove an incorrect reference to the number of Chinese officials present.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
+    publishedAt: "2026-09-25T01:02:40+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "3-things-micron-investors-need-to-watch-c4188a59",
+    title: "3 things Micron investors need to watch as the stakes get higher",
+    titleJa: "3 things Micron investors need to watch as the stakes get higher",
+    summaryJa: "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.",
+    bodyOriginal: `When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.`,
+    bodyJa: `When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
+    publishedAt: "2026-09-24T23:28:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-54177591",
+    readTime: 2,
+  },
+  {
+    id: "x-planes-are-they-needed-in-the-new-era-041d8f44",
+    title: "X-planes: Are they needed in the new era of drones?",
+    titleJa: "X-planes: Are they needed in the new era of drones?",
+    summaryJa: "X-planes: Are they needed in the new era of drones?- Published",
+    bodyOriginal: `X-planes: Are they needed in the new era of drones?
+- Published
+There's a weird and wonderful jet flying over the US. It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he's going.
+This contraption, the X-59, might just be the future of air travel.
+The X-59's owes its eccentric design to the problem of sonic booms. The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.
+Now Nasa is working around that problem using the X-59's elongated snout to flatten supersonic booms into tolerable bumps in the background.
+On top of its bizarre appearance the X-59 boasts a remarkable lineage. It's the latest in a series of experimental Nasa aircraft dating back to 1947 and the first plane to break the sound barrier, the Bell X-1.
+Peter Coen, a 43-year Nasa veteran who manages the programme, explains the thinking behind 80 years of X-planes. "Our approach is to pick small goals we aim to prove with flight data and we construct an airframe for that one task."
+The X-plane philosophy is to "minimise goals, the more goals you have the more expensive it gets." For the X-59 it's about suppressing sonic booms on a budget and nothing else.
+In the case of the X-1, flown through the sound barrier in 1947 by the legendary test pilot Chuck Yeager, Nasa knew a .50 calibre bullet travelled faster than the speed of sound. So the stumpy little aircraft was shaped like a bullet with wings added.
+A mere 20 years later the X-15 rocket plane, a cylinder with tiny wings dropped from a B-52 bomber, flew to 6.7 times the speed of sound (4,520 mph) and the edge of space, paving the way for heat-resistant materials vital to the Space Shuttle.
+Nasa is flying the X-59 in conjunction with community surveys to assess what people think when a supersonic boom is bent by the planes stretched nose and hushed up.
+"We want to figure out what level of boom is acceptable to people on a regular basis," says Coen, who reckons his machine will sound "like a car door being closed across the street" when it flies past Mach 1, around 660mph at airline cruising altitude.
+With its cockpit and ejector seat taken from a T-38 training jet, its landing gear from an F-16 fighter and engine courtesy of the F-18 this jigsaw of an aircraft was assembled by Lockheed Martin for Nasa.
+A camera feeding a screen in front of the pilot relies on instantaneous computer processing to get round the lack of forward vision. It first flew in 2025 and is now breaking the sound barrier over chosen US towns.
+But is there still a place for X-plane projects in a world where relatively cheap drones are being rapidly developed - not least in Ukraine's war against Russia.
+Even Nasa considered an uncrewed X-59. But drones are not always a cheaper option.
+Removing the pilot would have added the cost and complication of certifying a robot jet to fly fast over urban areas.
+Plus the X-59 had to be big enough to resemble an airliner punching through the sound barrier, which in turn allowed space for a cockpit.
+Nasa is no stranger to drone X-planes. The X-48, a scaled down model of an airliner that blends wing and fuselage to create a single lifting body, flew in 2007.
+Small was beautiful for the tiny X-48 with its 20ft wingspan as this kept the programme within budget.
+"It's likely that future X-planes will be uncrewed," says Coen, before adding the vital caveats "unless the technology we're researching relates to piloting or if crewing it is more cost-effective".
+Guy Gratton, professor of Aircraft Test and Evaluation at Cranfield University, gets frustrated at the suggestion crewed test planes have had their day.
+"There's a belief in certain quarters that drones can do everything. In Ukraine they've done amazing things with drones, but if you want to carry people you can't take short-cuts."
+Gratton has tested light aircraft and stresses the importance of a human in the loop. "You lose a huge amount without pilots, you miss lessons a pilot would identify, plus it can take four times as many people on the ground to test a drone."
+Staff monitoring signals from a drone are an indirect cost that keeps some piloted X-planes relatively affordable.
+The UK has flown its own technology testbeds and Chris Yeo was in the pilot's seat of one. The Experimental Aircraft Programme (EAP) flew from Lancashire in 1986 and tried out core systems for the Typhoon fighter.
+Yeo acknowledges the EAP's shared heritage with X-planes. "They all research some facet of flight, and demonstrate the design is working correctly. A lot of people say they can do something, but you only know it works when the design has been tested and certified."
+Forty years on from Yeo's EAP flights a new UK technology demonstrator is taking shape. It is, says Tony Godbold who runs the project for BAE Systems, "the X-plane of our generation".
+This BAE Systems initiative pulls together 100 UK suppliers including Rolls-Royce to test out ideas that might make it into the Global Combat Air Programme (GCAP), a fighter due to fly in the 2030s. The technology demonstrator will borrow engines from the existing Typhoon and fly sometime in 2028.
+This has triggered great excitement in the UK's small community of qualified fast jet test pilots. Almost every one, around 14 of them says Godbold, has already tried out this plane on a flight simulator.
+For many in the aerospace industry, the human element still matters as much as it did in Yeager's day. "You can model a lot on computers and simulators, but the experience of test pilots is when stuff gets real, we only really learn things when we get their feedback," Godbold admits.
+There's a political dimension to such jets too. Godbold says his plane underlines the UK's commitment to GCAP, a joint effort with Italy and Japan. "This proves we are serious in this space."
+- Published3 July
+- Published30 July
+- Published28 July`,
+    bodyJa: `X-planes: Are they needed in the new era of drones?
+- Published
+There's a weird and wonderful jet flying over the US. It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he's going.
+This contraption, the X-59, might just be the future of air travel.
+The X-59's owes its eccentric design to the problem of sonic booms. The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.
+Now Nasa is working around that problem using the X-59's elongated snout to flatten supersonic booms into tolerable bumps in the background.
+On top of its bizarre appearance the X-59 boasts a remarkable lineage. It's the latest in a series of experimental Nasa aircraft dating back to 1947 and the first plane to break the sound barrier, the Bell X-1.
+Peter Coen, a 43-year Nasa veteran who manages the programme, explains the thinking behind 80 years of X-planes. "Our approach is to pick small goals we aim to prove with flight data and we construct an airframe for that one task."
+The X-plane philosophy is to "minimise goals, the more goals you have the more expensive it gets." For the X-59 it's about suppressing sonic booms on a budget and nothing else.
+In the case of the X-1, flown through the sound barrier in 1947 by the legendary test pilot Chuck Yeager, Nasa knew a .50 calibre bullet travelled faster than the speed of sound. So the stumpy little aircraft was shaped like a bullet with wings added.
+A mere 20 years later the X-15 rocket plane, a cylinder with tiny wings dropped from a B-52 bomber, flew to 6.7 times the speed of sound (4,520 mph) and the edge of space, paving the way for heat-resistant materials vital to the Space Shuttle.
+Nasa is flying the X-59 in conjunction with community surveys to assess what people think when a supersonic boom is bent by the planes stretched nose and hushed up.
+"We want to figure out what level of boom is acceptable to people on a regular basis," says Coen, who reckons his machine will sound "like a car door being closed across the street" when it flies past Mach 1, around 660mph at airline cruising altitude.
+With its cockpit and ejector seat taken from a T-38 training jet, its landing gear from an F-16 fighter and engine courtesy of the F-18 this jigsaw of an aircraft was assembled by Lockheed Martin for Nasa.
+A camera feeding a screen in front of the pilot relies on instantaneous computer processing to get round the lack of forward vision. It first flew in 2025 and is now breaking the sound barrier over chosen US towns.
+But is there still a place for X-plane projects in a world where relatively cheap drones are being rapidly developed - not least in Ukraine's war against Russia.
+Even Nasa considered an uncrewed X-59. But drones are not always a cheaper option.
+Removing the pilot would have added the cost and complication of certifying a robot jet to fly fast over urban areas.
+Plus the X-59 had to be big enough to resemble an airliner punching through the sound barrier, which in turn allowed space for a cockpit.
+Nasa is no stranger to drone X-planes. The X-48, a scaled down model of an airliner that blends wing and fuselage to create a single lifting body, flew in 2007.
+Small was beautiful for the tiny X-48 with its 20ft wingspan as this kept the programme within budget.
+"It's likely that future X-planes will be uncrewed," says Coen, before adding the vital caveats "unless the technology we're researching relates to piloting or if crewing it is more cost-effective".
+Guy Gratton, professor of Aircraft Test and Evaluation at Cranfield University, gets frustrated at the suggestion crewed test planes have had their day.
+"There's a belief in certain quarters that drones can do everything. In Ukraine they've done amazing things with drones, but if you want to carry people you can't take short-cuts."
+Gratton has tested light aircraft and stresses the importance of a human in the loop. "You lose a huge amount without pilots, you miss lessons a pilot would identify, plus it can take four times as many people on the ground to test a drone."
+Staff monitoring signals from a drone are an indirect cost that keeps some piloted X-planes relatively affordable.
+The UK has flown its own technology testbeds and Chris Yeo was in the pilot's seat of one. The Experimental Aircraft Programme (EAP) flew from Lancashire in 1986 and tried out core systems for the Typhoon fighter.
+Yeo acknowledges the EAP's shared heritage with X-planes. "They all research some facet of flight, and demonstrate the design is working correctly. A lot of people say they can do something, but you only know it works when the design has been tested and certified."
+Forty years on from Yeo's EAP flights a new UK technology demonstrator is taking shape. It is, says Tony Godbold who runs the project for BAE Systems, "the X-plane of our generation".
+This BAE Systems initiative pulls together 100 UK suppliers including Rolls-Royce to test out ideas that might make it into the Global Combat Air Programme (GCAP), a fighter due to fly in the 2030s. The technology demonstrator will borrow engines from the existing Typhoon and fly sometime in 2028.
+This has triggered great excitement in the UK's small community of qualified fast jet test pilots. Almost every one, around 14 of them says Godbold, has already tried out this plane on a flight simulator.
+For many in the aerospace industry, the human element still matters as much as it did in Yeager's day. "You can model a lot on computers and simulators, but the experience of test pilots is when stuff gets real, we only really learn things when we get their feedback," Godbold admits.
+There's a political dimension to such jets too. Godbold says his plane underlines the UK's commitment to GCAP, a joint effort with Italy and Japan. "This proves we are serious in this space."
+- Published3 July
+- Published30 July
+- Published28 July`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T23:03:53+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
+    readTime: 10,
+  },
+  {
+    id: "we-re-all-broke-would-you-chase-a-frien-e54e0f17",
+    title: "'We're all broke': Would you chase a friend for £5?",
+    titleJa: "'We're all broke': Would you chase a friend for £5?",
+    summaryJa: "'We're all broke': Would you chase a friend for £5?- Published",
+    bodyOriginal: `'We're all broke': Would you chase a friend for £5?
+- Published
+You pick up the bill for dinner, pay for the taxi home or grab a friend's coffee with the promise they'll pay you back later, but days go by and the money never arrives.
+At what point do you ask them for it again and how small is too small to chase?
+For some, $5 (£3.70) is worth a reminder, while for others, asking a friend to repay anything under $20 (£15) feels more awkward than simply taking the hit.
+Henry Payne says he's "sent a request for $8.50, but I wouldn't go lower than $8".
+The 21-year-old New Yorker adds that he will chase someone once but "two requests is insane".
+"I would rather swallow the $8.50 than send another request."
+He does admit that he's sometimes the person on the other side of the transaction and can be forgetful himself.
+"For everyone that I haven't sent back money to, I just forgot, feel free to double request me."
+Kaz Jahanbini, 19, says needing to ask to be paid back in the first place can be frustrating.
+"If someone bought me something, I'm immediately paying them back. So then I'm thinking for them, what's the delay?"
+His rule for navigating friendship and finances is to "keep your wallet close but your friends closer".
+His friend Nouria agrees and says as a student "every extra dollar counts" but she would usually only ask for money back from a friend if it was more than $10.
+A recent study, external found that 76% of Gen Z who have fronted money for a group expense, like a trip or event, say they were not fully repaid, and 55% say it created tension or negatively affected a relationship.
+For British student Betsie Brooke-Taylor, 19, the threshold to ask for money back is a fiver as she says "every little helps".
+She sees a cultural difference between the UK and US and even though "we are all broke, I think Americans are a bit more generous".
+Betsie also thinks technology makes settling small debts easier in the US, where payment apps such as Venmo are widely used.
+Venmo lets users send and request money through an app which includes the function of sending a reminder if someone hasn't paid you. In the US, more than 95 million people have a Venmo account, external.
+"In the UK you have to ask for the account number and sort code, and not everyone has that on hand," she says.
+For 19-year-old Annika Violet, the amount she would ask back from a friend depends on whether she's consistently paying for them.
+"I prefer to do something where I get them this time and they get me next time but if I'm consistently paying and you're not, then I will request the $5."
+Unlike many, Annika doesn't find money conversations uncomfortable.
+"I am so confrontational, I do not find it awkward. If you're my friend, you would pay me back."
+Annika's friend Hanako Stepper says she finds it awkward asking for money but wishes she didn't.
+"I've never chased anyone - I'm just sad if I don't get paid back."
+Annika's advice to those who do struggle to ask is to "be brave and bold".
+"If they are going to give you flak about it, maybe it's a sign they are not a good friend."
+How do you ask for money back without making it awkward?
+Money expert Laura Pomfret says many people feel embarrassed about asking to be paid back, and Britons in particular can find it awkward.
+"We're often very British about asking for money back," she says, suggesting people may be worried about being judged as a "cheapskate".
+Her top tips for asking friends to pay up are:
+She adds that you shouldn't convince yourself that a debt is too small to justify asking for it as "if you want the money paid back then the amount shouldn't matter".
+And if the same friend repeatedly fails to pay, Pomfret suggests remembering it the next time you're about to pay for them and think twice.
+Several people the BBC spoke to said the amount itself mattered less when somebody repeatedly failed to pay.
+New York student Ella Feuille, 21, says $15 is roughly the point at which she would consider requesting money.
+If a significant amount was owed, Ella says she would ask around three times before giving up but wouldn't necessarily forget about it.
+"I have friends who I know now it has to go on their card because they're not going to pay me back."
+Her friend Katrina Dimingot agrees and says she much prefers a method where "we don't pay each other back, we just take it in turns to get things for each other".`,
+    bodyJa: `'We're all broke': Would you chase a friend for £5?
+- Published
+You pick up the bill for dinner, pay for the taxi home or grab a friend's coffee with the promise they'll pay you back later, but days go by and the money never arrives.
+At what point do you ask them for it again and how small is too small to chase?
+For some, $5 (£3.70) is worth a reminder, while for others, asking a friend to repay anything under $20 (£15) feels more awkward than simply taking the hit.
+Henry Payne says he's "sent a request for $8.50, but I wouldn't go lower than $8".
+The 21-year-old New Yorker adds that he will chase someone once but "two requests is insane".
+"I would rather swallow the $8.50 than send another request."
+He does admit that he's sometimes the person on the other side of the transaction and can be forgetful himself.
+"For everyone that I haven't sent back money to, I just forgot, feel free to double request me."
+Kaz Jahanbini, 19, says needing to ask to be paid back in the first place can be frustrating.
+"If someone bought me something, I'm immediately paying them back. So then I'm thinking for them, what's the delay?"
+His rule for navigating friendship and finances is to "keep your wallet close but your friends closer".
+His friend Nouria agrees and says as a student "every extra dollar counts" but she would usually only ask for money back from a friend if it was more than $10.
+A recent study, external found that 76% of Gen Z who have fronted money for a group expense, like a trip or event, say they were not fully repaid, and 55% say it created tension or negatively affected a relationship.
+For British student Betsie Brooke-Taylor, 19, the threshold to ask for money back is a fiver as she says "every little helps".
+She sees a cultural difference between the UK and US and even though "we are all broke, I think Americans are a bit more generous".
+Betsie also thinks technology makes settling small debts easier in the US, where payment apps such as Venmo are widely used.
+Venmo lets users send and request money through an app which includes the function of sending a reminder if someone hasn't paid you. In the US, more than 95 million people have a Venmo account, external.
+"In the UK you have to ask for the account number and sort code, and not everyone has that on hand," she says.
+For 19-year-old Annika Violet, the amount she would ask back from a friend depends on whether she's consistently paying for them.
+"I prefer to do something where I get them this time and they get me next time but if I'm consistently paying and you're not, then I will request the $5."
+Unlike many, Annika doesn't find money conversations uncomfortable.
+"I am so confrontational, I do not find it awkward. If you're my friend, you would pay me back."
+Annika's friend Hanako Stepper says she finds it awkward asking for money but wishes she didn't.
+"I've never chased anyone - I'm just sad if I don't get paid back."
+Annika's advice to those who do struggle to ask is to "be brave and bold".
+"If they are going to give you flak about it, maybe it's a sign they are not a good friend."
+How do you ask for money back without making it awkward?
+Money expert Laura Pomfret says many people feel embarrassed about asking to be paid back, and Britons in particular can find it awkward.
+"We're often very British about asking for money back," she says, suggesting people may be worried about being judged as a "cheapskate".
+Her top tips for asking friends to pay up are:
+She adds that you shouldn't convince yourself that a debt is too small to justify asking for it as "if you want the money paid back then the amount shouldn't matter".
+And if the same friend repeatedly fails to pay, Pomfret suggests remembering it the next time you're about to pay for them and think twice.
+Several people the BBC spoke to said the amount itself mattered less when somebody repeatedly failed to pay.
+New York student Ella Feuille, 21, says $15 is roughly the point at which she would consider requesting money.
+If a significant amount was owed, Ella says she would ask around three times before giving up but wouldn't necessarily forget about it.
+"I have friends who I know now it has to go on their card because they're not going to pay me back."
+Her friend Katrina Dimingot agrees and says she much prefers a method where "we don't pay each other back, we just take it in turns to get things for each other".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T23:00:45+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
+    readTime: 10,
+  },
+  {
     id: "why-investors-aren-t-buying-yet-another-2eae9466",
     title: "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
     titleJa: "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
@@ -310,6 +898,70 @@ For now, at least, markets are going with the interpretation that Warsh will let
     publishedAt: "2026-09-24T18:35:11+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "why-australia-chose-the-world-s-biggest-c7e9debd",
+    title: "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    titleJa: "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+    summaryJa: "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
+    bodyOriginal: `Why Australia chose the world's biggest political stage to reveal OpenAI hack
+- Published
+Australia made a dramatic revelation on Wednesday during the United Nations General Assembly.
+Rogue AI agents had hacked one of its government bodies - the first known incident of its kind in the world. Private data, but not sensitive information, was taken from Medicare, Australia's universal healthcare scheme.
+The breach happened in June, but OpenAI says it only became aware of it in August - and then took until 10 September to alert Australia's government, by sending an email to an address used by researchers and academics to alert authorities to concerns of vulnerabilities.
+While worrying, the timing of the incident is somewhat of a gift for Australia.
+A middle power that doesn't usually get as much of a platform as its influential allies, the country wants to be seen as punching above its weight on one of the most defining issues of our time - big tech regulation.
+In the past year alone, it has implemented the world's strictest social media ban, announced what it says are the world's strongest algorithm controls, floated the possibility of "world-leading" limits on smart glasses, and is now the first government to confront AI firms over a rogue attack on its data.
+It's entirely possible other governments have been the victim of rogue AI agents.
+Former Australian government cybersecurity adviser Alastair MacGibbon told the BBC he'd heard whispers that several others have been notified of similar recent breaches by OpenAI agents.
+"Some have chosen to not be public – that's every government's choice on how it wants to handle these things," the CyberCX chief strategy officer said. "The [Australian] government chose a time to release this to gain maximum publicity which is their wont to do."
+Revealing a data breach can of course be a risky strategy for governments - it leaves them vulnerable to criticism that their security systems aren't up to scratch. But the fact that no sensitive information was leaked put Australia in a stronger position to use the incident.
+"Nobody has died," says the University of Queensland's associate professor Michael Noetel, who studies AI risks. "This is another canary in the coal mine. This sort of loss-of-control incident, even though it's minor now, is what CEOs are worried about getting worse over time."
+Though Australia has made a name for itself by taking a stand against social media companies, taking up the AI mantle now is another way for Australia to rein in big tech, says Tama Leaver, professor of internet studies at Curtin University in Perth.
+"It's impossible to say for sure, but it seems incredibly likely that this was very carefully planned."
+The fact that leaders were all together in New York this week has probably helped.
+Albanese says he had a "frank" discussion with OpenAI CEO Sam Altman to express Australia's "extreme concern" about what happened. Altman acknowledged "issues with protocols" at OpenAI, he said.
+The Australian leader also posed with Donald Trump for a selfie - and the two may have had face-to-face talks. But Australia risks the ire of the US president, who wants to encourage AI, "not rein it in", and even rename it "super intelligence".
+Earlier this week, Albanese had to deflect criticism from the Trump administration over his government's proposal to give users the ability to opt out of social media algorithms. The US said it amounted to "censorship of protected speech".
+Back home, Australia's very own eSafety commission is currently arming itself with lawyers, preparing to take on social media platforms objecting to its social media law for under 16s.
+Australia isn't popular with big tech. But its bold policies on social media and internet safety have been largely supported among Australians themselves, especially parents.
+The government is taking advantage of the hack to position itself as a leader on one of the biggest talking points of our time. And it's wasting no time in using the incident to advance the country's broader crusade.
+Within hours of the announcement, Communications Minister Anika Wells told reporters: "This is an example of an unregulated industry where big tech clearly feels like they can do whatever they like, and that's not going to wash here in Australia."
+Related topics
+- Published17 September
+- Published1 day ago`,
+    bodyJa: `Why Australia chose the world's biggest political stage to reveal OpenAI hack
+- Published
+Australia made a dramatic revelation on Wednesday during the United Nations General Assembly.
+Rogue AI agents had hacked one of its government bodies - the first known incident of its kind in the world. Private data, but not sensitive information, was taken from Medicare, Australia's universal healthcare scheme.
+The breach happened in June, but OpenAI says it only became aware of it in August - and then took until 10 September to alert Australia's government, by sending an email to an address used by researchers and academics to alert authorities to concerns of vulnerabilities.
+While worrying, the timing of the incident is somewhat of a gift for Australia.
+A middle power that doesn't usually get as much of a platform as its influential allies, the country wants to be seen as punching above its weight on one of the most defining issues of our time - big tech regulation.
+In the past year alone, it has implemented the world's strictest social media ban, announced what it says are the world's strongest algorithm controls, floated the possibility of "world-leading" limits on smart glasses, and is now the first government to confront AI firms over a rogue attack on its data.
+It's entirely possible other governments have been the victim of rogue AI agents.
+Former Australian government cybersecurity adviser Alastair MacGibbon told the BBC he'd heard whispers that several others have been notified of similar recent breaches by OpenAI agents.
+"Some have chosen to not be public – that's every government's choice on how it wants to handle these things," the CyberCX chief strategy officer said. "The [Australian] government chose a time to release this to gain maximum publicity which is their wont to do."
+Revealing a data breach can of course be a risky strategy for governments - it leaves them vulnerable to criticism that their security systems aren't up to scratch. But the fact that no sensitive information was leaked put Australia in a stronger position to use the incident.
+"Nobody has died," says the University of Queensland's associate professor Michael Noetel, who studies AI risks. "This is another canary in the coal mine. This sort of loss-of-control incident, even though it's minor now, is what CEOs are worried about getting worse over time."
+Though Australia has made a name for itself by taking a stand against social media companies, taking up the AI mantle now is another way for Australia to rein in big tech, says Tama Leaver, professor of internet studies at Curtin University in Perth.
+"It's impossible to say for sure, but it seems incredibly likely that this was very carefully planned."
+The fact that leaders were all together in New York this week has probably helped.
+Albanese says he had a "frank" discussion with OpenAI CEO Sam Altman to express Australia's "extreme concern" about what happened. Altman acknowledged "issues with protocols" at OpenAI, he said.
+The Australian leader also posed with Donald Trump for a selfie - and the two may have had face-to-face talks. But Australia risks the ire of the US president, who wants to encourage AI, "not rein it in", and even rename it "super intelligence".
+Earlier this week, Albanese had to deflect criticism from the Trump administration over his government's proposal to give users the ability to opt out of social media algorithms. The US said it amounted to "censorship of protected speech".
+Back home, Australia's very own eSafety commission is currently arming itself with lawyers, preparing to take on social media platforms objecting to its social media law for under 16s.
+Australia isn't popular with big tech. But its bold policies on social media and internet safety have been largely supported among Australians themselves, especially parents.
+The government is taking advantage of the hack to position itself as a leader on one of the biggest talking points of our time. And it's wasting no time in using the incident to advance the country's broader crusade.
+Within hours of the announcement, Communications Minister Anika Wells told reporters: "This is an example of an unregulated industry where big tech clearly feels like they can do whatever they like, and that's not going to wash here in Australia."
+Related topics
+- Published17 September
+- Published1 day ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-24T18:06:40+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg",
     readTime: 10,
   },
   {
@@ -1651,454 +2303,6 @@ Related topics
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/898d/live/3cf26740-b7ec-11f1-b86f-f9f95031dc8c.jpg",
     readTime: 6,
-  },
-  {
-    id: "as-trump-and-xi-meet-chinese-automakers-e1ad86f4",
-    title: "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-    titleJa: "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-    summaryJa: "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-    bodyOriginal: `DETROIT — As President Donald Trump meets with Chinese President Xi Jinping this week, U.S. politicians as well as the global automotive industry are warning that allowing Chinese automakers to enter the market could be a Pandora's box.
-Trump earlier this month said he might be "OK" letting Chinese automakers into the U.S. if they produced vehicles domestically, leading a consortium of auto trade groups representing every major facet of the American auto industry to urge him to rethink that position.
-It was an uncharacteristically unified message from automakers operating in the U.S., franchised dealers and suppliers. More than two dozen Democratic lawmakers followed that push with their own letter, urging Trump to keep in place U.S. restrictions against Chinese automakers.
-"It's not at this point a partisan issue," Sen. Elissa Slotkin, D-Mich., told reporters Wednesday. "It's about whether we want to make cars in America and whether we want a manufacturing base that can pivot when we need it. If we want that, we shouldn't let them in our country."
-Trump is scheduled to host Xi and a delegation from China on Thursday and Friday that reportedly could include Wang Chuanfu, founder of BYD, China's largest automaker, and Robin Zeng, founder of CATL, the world's top battery maker for electric vehicles.
-Michael Dunne, an expert on China's automotive industry and a former General Motors executive, said even the potential that those two executives could attend underscores the importance of Xi's trip for the U.S. auto industry.
-GM CEO Mary Barra is also expected to be among the attendees at Trump's state dinner for Xi, Reuters reported Wednesday, along with several other U.S. executives, including Tesla CEO Elon Musk.
-As for America's other largest automakers, Ford Motor declined to disclose whether CEO Jim Farley will be attending after the Department of Transportation criticized the company for its Chinese ties, including a licensing deal with CATL. Reuters reported Chrysler parent Stellantis said CEO Antonio Filosa is out of the country and not planning to attend.
-Industry insiders and onlookers have expressed concerns similar to those raised by automakers and lawmakers as bipartisan bills to ban Chinese automakers from the U.S. move through Congress.
-The pressure campaign comes as Chinese automakers have been rapidly expanding outside of their domestic market, especially to Europe and Central and South America. There's fear among global automakers that Chinese rivals, like BYD and Geely, which are heavily subsidized by their governments, could flood global markets, undercutting domestic production and vehicle prices.
-Dunne said he doesn't believe those concerns are overblown. He said Chinese automakers would "quickly overwhelm America's auto industry, just as it is now ravaging Europe."
-Global market share for Chinese brands jumped nearly 70% from 2020 to 2025, according to market research and consulting firm GlobalData. The automakers' market share in Europe was virtually nothing in 2020 but hit 12% in August, according to Germany-based Dataforce.
-"China's scores of automakers are currently engaged in a fight-to-the-death price war at home," Dunne wrote in a post Monday. "There's red ink everywhere. Access to the U.S., by far the most lucrative car market in the world, is like a giant tank of life-saving oxygen."
-'Attacking very aggressively'
-For much of this century, China was one of the largest and fastest-growing markets in the world. Non-China automakers flocked to the historically enclosed country with hopes of massive sales and profits.
-But after years of success for automakers such as GM, the Chinese automotive sector has rapidly changed from an insular industry to the biggest exporter of vehicles globally.
-China's growth has been fueled by government funding for companies as well as a culture of innovation and speed the country has instilled in its workers, experts said. The decision to ramp up exports has come on the heels of a slowing Chinese market and plant underutilization.
-Christian Meunier, Nissan Motor chairman of the Americas, described competing against Chinese automakers as a "hell of a challenge" in countries outside of the U.S.
-"They have decent product but it's all dumping," he told CNBC during a recent interview. "We know we're not competing with [automakers], we're competing against the governments. … They're attacking very aggressively."
-Meunier said the Japanese automaker has been trying to battle the Chinese as best as it can through growing scale globally to lower costs and become more efficient.
-"We need to get ready for the day when they come to the U.S. because it will happen one day. Hopefully not tomorrow, but it will happen one day," he said.
-Dunne said China's ambitions and ways of doing business are vastly different from those of U.S. allies, which makes it different from allowing imports from Japan, South Korea and other countries.
-"As Xi Jinping has alluded to many times, the goal for China is to 'make other countries more dependent on China and China less dependent on other countries.' That's not a friendly posture," Dunne said.
-— CNBC's Justin Papp contributed to this report.`,
-    bodyJa: `DETROIT — As President Donald Trump meets with Chinese President Xi Jinping this week, U.S. politicians as well as the global automotive industry are warning that allowing Chinese automakers to enter the market could be a Pandora's box.
-Trump earlier this month said he might be "OK" letting Chinese automakers into the U.S. if they produced vehicles domestically, leading a consortium of auto trade groups representing every major facet of the American auto industry to urge him to rethink that position.
-It was an uncharacteristically unified message from automakers operating in the U.S., franchised dealers and suppliers. More than two dozen Democratic lawmakers followed that push with their own letter, urging Trump to keep in place U.S. restrictions against Chinese automakers.
-"It's not at this point a partisan issue," Sen. Elissa Slotkin, D-Mich., told reporters Wednesday. "It's about whether we want to make cars in America and whether we want a manufacturing base that can pivot when we need it. If we want that, we shouldn't let them in our country."
-Trump is scheduled to host Xi and a delegation from China on Thursday and Friday that reportedly could include Wang Chuanfu, founder of BYD, China's largest automaker, and Robin Zeng, founder of CATL, the world's top battery maker for electric vehicles.
-Michael Dunne, an expert on China's automotive industry and a former General Motors executive, said even the potential that those two executives could attend underscores the importance of Xi's trip for the U.S. auto industry.
-GM CEO Mary Barra is also expected to be among the attendees at Trump's state dinner for Xi, Reuters reported Wednesday, along with several other U.S. executives, including Tesla CEO Elon Musk.
-As for America's other largest automakers, Ford Motor declined to disclose whether CEO Jim Farley will be attending after the Department of Transportation criticized the company for its Chinese ties, including a licensing deal with CATL. Reuters reported Chrysler parent Stellantis said CEO Antonio Filosa is out of the country and not planning to attend.
-Industry insiders and onlookers have expressed concerns similar to those raised by automakers and lawmakers as bipartisan bills to ban Chinese automakers from the U.S. move through Congress.
-The pressure campaign comes as Chinese automakers have been rapidly expanding outside of their domestic market, especially to Europe and Central and South America. There's fear among global automakers that Chinese rivals, like BYD and Geely, which are heavily subsidized by their governments, could flood global markets, undercutting domestic production and vehicle prices.
-Dunne said he doesn't believe those concerns are overblown. He said Chinese automakers would "quickly overwhelm America's auto industry, just as it is now ravaging Europe."
-Global market share for Chinese brands jumped nearly 70% from 2020 to 2025, according to market research and consulting firm GlobalData. The automakers' market share in Europe was virtually nothing in 2020 but hit 12% in August, according to Germany-based Dataforce.
-"China's scores of automakers are currently engaged in a fight-to-the-death price war at home," Dunne wrote in a post Monday. "There's red ink everywhere. Access to the U.S., by far the most lucrative car market in the world, is like a giant tank of life-saving oxygen."
-'Attacking very aggressively'
-For much of this century, China was one of the largest and fastest-growing markets in the world. Non-China automakers flocked to the historically enclosed country with hopes of massive sales and profits.
-But after years of success for automakers such as GM, the Chinese automotive sector has rapidly changed from an insular industry to the biggest exporter of vehicles globally.
-China's growth has been fueled by government funding for companies as well as a culture of innovation and speed the country has instilled in its workers, experts said. The decision to ramp up exports has come on the heels of a slowing Chinese market and plant underutilization.
-Christian Meunier, Nissan Motor chairman of the Americas, described competing against Chinese automakers as a "hell of a challenge" in countries outside of the U.S.
-"They have decent product but it's all dumping," he told CNBC during a recent interview. "We know we're not competing with [automakers], we're competing against the governments. … They're attacking very aggressively."
-Meunier said the Japanese automaker has been trying to battle the Chinese as best as it can through growing scale globally to lower costs and become more efficient.
-"We need to get ready for the day when they come to the U.S. because it will happen one day. Hopefully not tomorrow, but it will happen one day," he said.
-Dunne said China's ambitions and ways of doing business are vastly different from those of U.S. allies, which makes it different from allowing imports from Japan, South Korea and other countries.
-"As Xi Jinping has alluded to many times, the goal for China is to 'make other countries more dependent on China and China less dependent on other countries.' That's not a friendly posture," Dunne said.
-— CNBC's Justin Papp contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
-    publishedAt: "2026-09-23T21:25:01+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "judge-hears-arguments-on-trump-white-hou-1f34df28",
-    title: "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-    titleJa: "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-    summaryJa: "The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.",
-    bodyOriginal: `A federal judge in Washington, D.C., heard arguments on Wednesday on President Donald Trump's controversial ban of three media outlets from the White House.
-Judge Timothy Kelly ended the hearing without immediately ruling on a request by the outlets — MS NOW, CNN, Politico — to block Trump from continuing to bar them from the White House.
-"I'll consider what you told me today. I'll try and get you an answer as soon as I can," Kelly told a lawyer for the outlets and a Justice Department attorney who defended the ban during the teleconference hearing that lasted about 46 minutes.
-The outlets, in a lawsuit against Trump, argue the ban violates the First Amendment of the U.S. Constitution, which protects free press rights by punishing them for the content of stories they have published about Trump and his administration.
-"This is a clear retaliation case," Theodore Boutrous Jr., a lawyer representing the outlets, argued at Wednesday's hearing to Kelly, whom Trump nominated for his seat in U.S. District Court in D.C. in 2018.
-The Justice Department, in a late Tuesday night filing, said Trump had barred the outlets on the grounds of national security concerns, and that the president had the legal right to do so. Trump did not cite that rationale when he announced the ban last Friday.
-Kelly, at the beginning of the hearing, noted a 1977 ruling by the U.S. Court of Appeals for the District of Columbia Circuit had found that media outlets were entitled to due process in any decision affecting an outlet's holding of so-called hard passes to the White House.
-The three media outlets were not warned before Trump's announcement that he was considering yanking their hard pass access.
-"I think it is fair to say that process ... wasn't followed here, talking about predeprivation process," Kelly said.
-The judge noted that the Justice Department, in defending Trump's ban, argued that the 1977 ruling was wrong.
-"There wasn't a semblance of due process here," said Boutrous. "This came completely out of the blue."
-The attorney said Trump's public statements about the ban back up the outlets' argument that they are being targeted with "viewpoint discrimination" over how they cover the president and his administration.
-Boutrous said that in Truth Social posts and in the Oval Office, Trump has said that he implemented the ban because "the coverage is too negative" and "purposely negative."
-"He keeps saying the same thing," Boutrous said. "He keeps proving our point. He's literally our lead witness here."
-Addressing the Justice Department's argument that the ban is justified on national security grounds, Boutrous said, "They're literally arguing that reporters shouldn't scrutinize national security."
-The First Amendment protects the media's right to cover that subject, because "journalists can and should hold the government accountable," the attorney said.
-Michael Velchik, an attorney for the Justice Department, opened his argument to Kelly by saying, "Access to the White House is a privilege, not a right."
-Velchik also said, "The president should be able to take immediate action to protect national security."
-The attorney also said Trump was not acting in retaliation against the three outlets.
-"The president criticizes many people," but has only applied the determination that led to his ban to the three outlets, Velchik said.
-The attorney noted that Trump has called ABC News "the worst." But the president did not ban ABC from the White House.
-The Justice Department, in its court filing Tuesday, appeared to react to the outlets' claim that they had been denied due process by including three separate letters to the outlets that cited the grounds for their purported "initial" banning, and giving them until this Friday to respond to avoid a permanent ban.
-Kelly could issue his ruling at any time.
-Kelly in 2018 ruled against the White House when he ordered that it restore the access pass of then-CNN correspondent Jim Acosta, who had it revoked after a contentious exchange with Trump.
-Trump in announcing the ban Friday, accused the outlets of "cumulative" stories that contained so-called "fake news" about him and his administration.
-The ban took effect on Saturday, with journalists from the outlets having their access passes taken away by the Secret Service when they arrived at the White House.
-The three outlets jointly sued Trump on Monday.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    bodyJa: `A federal judge in Washington, D.C., heard arguments on Wednesday on President Donald Trump's controversial ban of three media outlets from the White House.
-Judge Timothy Kelly ended the hearing without immediately ruling on a request by the outlets — MS NOW, CNN, Politico — to block Trump from continuing to bar them from the White House.
-"I'll consider what you told me today. I'll try and get you an answer as soon as I can," Kelly told a lawyer for the outlets and a Justice Department attorney who defended the ban during the teleconference hearing that lasted about 46 minutes.
-The outlets, in a lawsuit against Trump, argue the ban violates the First Amendment of the U.S. Constitution, which protects free press rights by punishing them for the content of stories they have published about Trump and his administration.
-"This is a clear retaliation case," Theodore Boutrous Jr., a lawyer representing the outlets, argued at Wednesday's hearing to Kelly, whom Trump nominated for his seat in U.S. District Court in D.C. in 2018.
-The Justice Department, in a late Tuesday night filing, said Trump had barred the outlets on the grounds of national security concerns, and that the president had the legal right to do so. Trump did not cite that rationale when he announced the ban last Friday.
-Kelly, at the beginning of the hearing, noted a 1977 ruling by the U.S. Court of Appeals for the District of Columbia Circuit had found that media outlets were entitled to due process in any decision affecting an outlet's holding of so-called hard passes to the White House.
-The three media outlets were not warned before Trump's announcement that he was considering yanking their hard pass access.
-"I think it is fair to say that process ... wasn't followed here, talking about predeprivation process," Kelly said.
-The judge noted that the Justice Department, in defending Trump's ban, argued that the 1977 ruling was wrong.
-"There wasn't a semblance of due process here," said Boutrous. "This came completely out of the blue."
-The attorney said Trump's public statements about the ban back up the outlets' argument that they are being targeted with "viewpoint discrimination" over how they cover the president and his administration.
-Boutrous said that in Truth Social posts and in the Oval Office, Trump has said that he implemented the ban because "the coverage is too negative" and "purposely negative."
-"He keeps saying the same thing," Boutrous said. "He keeps proving our point. He's literally our lead witness here."
-Addressing the Justice Department's argument that the ban is justified on national security grounds, Boutrous said, "They're literally arguing that reporters shouldn't scrutinize national security."
-The First Amendment protects the media's right to cover that subject, because "journalists can and should hold the government accountable," the attorney said.
-Michael Velchik, an attorney for the Justice Department, opened his argument to Kelly by saying, "Access to the White House is a privilege, not a right."
-Velchik also said, "The president should be able to take immediate action to protect national security."
-The attorney also said Trump was not acting in retaliation against the three outlets.
-"The president criticizes many people," but has only applied the determination that led to his ban to the three outlets, Velchik said.
-The attorney noted that Trump has called ABC News "the worst." But the president did not ban ABC from the White House.
-The Justice Department, in its court filing Tuesday, appeared to react to the outlets' claim that they had been denied due process by including three separate letters to the outlets that cited the grounds for their purported "initial" banning, and giving them until this Friday to respond to avoid a permanent ban.
-Kelly could issue his ruling at any time.
-Kelly in 2018 ruled against the White House when he ordered that it restore the access pass of then-CNN correspondent Jim Acosta, who had it revoked after a contentious exchange with Trump.
-Trump in announcing the ban Friday, accused the outlets of "cumulative" stories that contained so-called "fake news" about him and his administration.
-The ban took effect on Saturday, with journalists from the outlets having their access passes taken away by the Secret Service when they arrived at the White House.
-The three outlets jointly sued Trump on Monday.
-Disclosure: CNBC and MS NOW are divisions of Versant Media.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
-    publishedAt: "2026-09-23T21:22:30+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "here-s-what-happens-to-the-economy-when-d0b08bb8",
-    title: "Here's what happens to the economy when Treasury yields soar like they are now",
-    titleJa: "Here's what happens to the economy when Treasury yields soar like they are now",
-    summaryJa: "Soaring Treasury yields aren't just bad for the government and its $40 trillion debt. They also threaten to raise borrowing costs, hitting everyone from homeowners to credit card users, while providing limited relief to savers and potential benefits to banks.",
-    bodyOriginal: `Soaring Treasury yields aren't just bad for the government and its $40 trillion debt. They also threaten to raise borrowing costs, hitting everyone from homeowners to credit card users, while providing limited relief to savers and potential benefits to banks.
-Government debt costs leaped higher Wednesday, the product of multiple factors including a fresh report showing higher inflation pressures, surging expectations for a Federal Reserve rate hike in October, and an auction for 5-year notes showing that Treasury demand was weak. Competition from hyperscaler debt issuance also is seen as an aggravating factor.
-Yields responded by jumping more than they have in nearly a year and a half, dating back to April 2025 when President Donald Trump first announced so-called reciprocal tariffs against U.S. trading partners. Recent market liquidity efforts pushed by Treasury Secretary Scott Bessent have had no impact so far, with rates surging higher despite intensified buyback efforts on longer-dated debt.
-The 10-year note, a benchmark for mortgages and other longer-term borrowing, saw its yield hit, 5.125%, a level not seen since prior to the global financial crisis. Similarly, the 2-year note, which typically responds to Fed rate expectations and signals rates for home equity, auto loans and other debt, climbed more than 13 basis points past 4.9% as traders priced in a strong possibility that the central bank would follow its hike last week with another in October.
-One basis point equals 0.01% and yields move opposite prices.
-Such moves generally portend higher borrowing rates that hit the U.S. economy where it hurts the most — consumers, who drive nearly 70% of all economic activity and hold nearly $19 trillion in total debt.
-While savers will benefit with incrementally higher rates on their bank savings accounts, it's unlikely to offset the pain they'll feel elsewhere, said Dan North, senior economist with Allianz Trade North America.
-"The consumer's the most important part of the economy," North said. "They're going from little tiny yields on savings to ever slightly bigger tiny yields on savings. So I don't think that really yet helps the consumer that much. But it sure does crush housing, and it [impacts] on all those personal consumer loans, the credit cards and so forth."
-Indeed, the interest rate on plain-vanilla savings accounts is around 0.37% and has been on a modest decline since the Fed enacted three quarter-point cuts late in 2025, according to FDIC data.
-Mortgage rates, though, have been on an entirely different trajectory and are likely to continue rising. A typical 30-year mortgage is now at 7.26%, up more than a quarter percentage point in just the past couple weeks and nearly a full point over the past year, according to Mortgage News Daily.
-Credit card interest rates have been fairly steady over the past few years, but also are unlikely to stay that way if current trends hold up.
-How it works
-When the Fed hikes, it feeds directly into the prime rate, which is used as a baseline for adjustable-rate credit and most recently was at 7%, after rising a quarter point off last week's Fed move.
-Taken together, the factors make it more expensive for consumers to borrow and less likely that they'll seek the loans and credit that fuel a lot of the activity in the $32 trillion U.S. economy.
-"You raise the fed funds rate, rates in the short term and effectively all along the curve go up," North said. "If it makes it harder for somebody to buy a car, then there's less demand for cars and there's less demand for auto workers, and the economy slows down. That's sort of basic economics, but that's how it works."
-There are some positives from the higher rates.
-Aside from whatever benefit savers get, banks can benefit. The industry's model is based on a variety of factors that can benefit in times of higher rates, from what they can charge borrowers to the margin they earn from what they charge to what they pay depositors, as well as the opportunity to get better return on their cash.
-However, even bank stocks were mostly lower Wednesday as dramatically higher yields could slow loan demand and broader economic activity, which otherwise has been solid. The Atlanta Fed is tracking GDP growth of 5.1% for the third quarter, another element that could be factoring into higher yields.
-Persistently higher yields, though, pose dangers to that growth picture.
-"Smaller and medium enterprises are going to be suffering the worst because they have less ability to borrow," North said. "Less availability of credit makes it more difficult."`,
-    bodyJa: `Soaring Treasury yields aren't just bad for the government and its $40 trillion debt. They also threaten to raise borrowing costs, hitting everyone from homeowners to credit card users, while providing limited relief to savers and potential benefits to banks.
-Government debt costs leaped higher Wednesday, the product of multiple factors including a fresh report showing higher inflation pressures, surging expectations for a Federal Reserve rate hike in October, and an auction for 5-year notes showing that Treasury demand was weak. Competition from hyperscaler debt issuance also is seen as an aggravating factor.
-Yields responded by jumping more than they have in nearly a year and a half, dating back to April 2025 when President Donald Trump first announced so-called reciprocal tariffs against U.S. trading partners. Recent market liquidity efforts pushed by Treasury Secretary Scott Bessent have had no impact so far, with rates surging higher despite intensified buyback efforts on longer-dated debt.
-The 10-year note, a benchmark for mortgages and other longer-term borrowing, saw its yield hit, 5.125%, a level not seen since prior to the global financial crisis. Similarly, the 2-year note, which typically responds to Fed rate expectations and signals rates for home equity, auto loans and other debt, climbed more than 13 basis points past 4.9% as traders priced in a strong possibility that the central bank would follow its hike last week with another in October.
-One basis point equals 0.01% and yields move opposite prices.
-Such moves generally portend higher borrowing rates that hit the U.S. economy where it hurts the most — consumers, who drive nearly 70% of all economic activity and hold nearly $19 trillion in total debt.
-While savers will benefit with incrementally higher rates on their bank savings accounts, it's unlikely to offset the pain they'll feel elsewhere, said Dan North, senior economist with Allianz Trade North America.
-"The consumer's the most important part of the economy," North said. "They're going from little tiny yields on savings to ever slightly bigger tiny yields on savings. So I don't think that really yet helps the consumer that much. But it sure does crush housing, and it [impacts] on all those personal consumer loans, the credit cards and so forth."
-Indeed, the interest rate on plain-vanilla savings accounts is around 0.37% and has been on a modest decline since the Fed enacted three quarter-point cuts late in 2025, according to FDIC data.
-Mortgage rates, though, have been on an entirely different trajectory and are likely to continue rising. A typical 30-year mortgage is now at 7.26%, up more than a quarter percentage point in just the past couple weeks and nearly a full point over the past year, according to Mortgage News Daily.
-Credit card interest rates have been fairly steady over the past few years, but also are unlikely to stay that way if current trends hold up.
-How it works
-When the Fed hikes, it feeds directly into the prime rate, which is used as a baseline for adjustable-rate credit and most recently was at 7%, after rising a quarter point off last week's Fed move.
-Taken together, the factors make it more expensive for consumers to borrow and less likely that they'll seek the loans and credit that fuel a lot of the activity in the $32 trillion U.S. economy.
-"You raise the fed funds rate, rates in the short term and effectively all along the curve go up," North said. "If it makes it harder for somebody to buy a car, then there's less demand for cars and there's less demand for auto workers, and the economy slows down. That's sort of basic economics, but that's how it works."
-There are some positives from the higher rates.
-Aside from whatever benefit savers get, banks can benefit. The industry's model is based on a variety of factors that can benefit in times of higher rates, from what they can charge borrowers to the margin they earn from what they charge to what they pay depositors, as well as the opportunity to get better return on their cash.
-However, even bank stocks were mostly lower Wednesday as dramatically higher yields could slow loan demand and broader economic activity, which otherwise has been solid. The Atlanta Fed is tracking GDP growth of 5.1% for the third quarter, another element that could be factoring into higher yields.
-Persistently higher yields, though, pose dangers to that growth picture.
-"Smaller and medium enterprises are going to be suffering the worst because they have less ability to borrow," North said. "Less availability of credit makes it more difficult."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html",
-    publishedAt: "2026-09-23T21:11:28+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "meta-s-standoff-with-amazon-over-muse-co-7f39d672",
-    title: "Meta's standoff with Amazon over Muse could be a sign of things to come",
-    titleJa: "Meta's standoff with Amazon over Muse could be a sign of things to come",
-    summaryJa: "Meta's new Muse AI personal agent is garnering excitement and shows signs of becoming a hit, but Amazon has blocked the app from its site.",
-    bodyOriginal: `Meta's rollout of its Muse AI personal agent has been a big hit with consumers and investors. The stock has jumped more than 20% in the two weeks since its introduction, and the app has shot up to the top of Apple's App Store, eclipsing ChatGPT.
-But with CEO Mark Zuckerberg set to take the stage at Meta Connect, the company's annual developer conference, late Wednesday afternoon, there are reasons for skepticism regarding Meta's latest effort to find a real and lasting niche in the consumer artificial intelligence market.
-Meta is touting Muse's ability to book appointments and travel, fill out electronic forms for users, and monitor home security cameras. It can also shop on a user's behalf, searching for a specific product across various sites and marketplaces and linking to Shopify or Stripe for payment.
-Amazon has said that's a no-go, blocking Muse from purchasing products on the e-commerce app, claiming that it would violate the company's terms of service. Whether it's other retailers taking similar steps out of concern that they're at risk of losing the direct relationship with customers, or it's consumers that don't trust the Facebook parent with sensitive data, experts say the social media giant has a long way to go to turn its early momentum in Muse into a winning product.
-"People are going to be very wary," said Joseph Turow, a professor emeritus at the University of Pennsylvania and an expert on digital media and privacy. "Some people are going to dip their toes into it, and some people are going to accept it for particular companies that they trust."
-Turow said there will be "early adopters," and then others will get "seduced into this," seeing that using this sort of personal agent can save them money by finding the best discounts.
-Zuckerberg is pushing deeper into the agentic AI market at a fraught moment for the the AI industry and for Meta. Anthropic and OpenAI are calling for a slowdown in the pace of model development as fears intensify that advanced AI is spinning out of human control and, unless it gets reined in, could threaten humanity or at least amplify cybersecurity attacks.
-Meta, meanwhile, agreed last month to pay up to $17 billion to settle a lawsuit brought by a host of states that alleged the company misrepresented the extent of child mental health harms caused by apps like Facebook and Instagram. The emergence of generative AI and chatbots has made the issue of online addiction even more pressing, as both OpenAI and Google have been sued by plaintiffs alleging their technology caused harm, including suicides.
-'Fiercely guarding the customer relationship'
-Amazon has made clear in the recent past that it won't let AI services stand between the company and its customers. It sued Perplexity in November, alleging the startup took steps to "conceal" its AI agents so they could continue to scrape the retailer's website without its approval. Amazon has also blocked agentic tools from OpenAI and Google.
-Amazon's "whole model is fiercely guarding the customer relationship," said Matthew Hassett, CEO of smart alarm clock company Loftie, which sells on Amazon, and of AI-focused ecommerce startup Deliberate. "'Respect service provider decisions' is the polite version of 'not on our shelf.'"
-Hassett was quoting Amazon, which said in a statement that "third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate."
-Meta declined to comment.
-Max Willens, an analyst at Emarketer, said that as more consumers use AI agents like Muse, Amazon will get more protective of its role in the "consumer journey."
-"For many years, Amazon was the place most U.S. consumers went first if they wanted to buy something online," Willens said "Today, those consumers are increasingly starting those shopper journeys with AI assistants."
-Outside of commerce, Muse is raising concern that other industries could see Meta's new agent take over powerful functionality. Shares of financial services companies including Charles Schwab and LPL Financial Holdings tumbled on Tuesday, while travel sites Booking Holdings and Expedia plummeted on Wednesday.
-For Meta, the early Muse momentum has reignited optimism on Wall Street, where the stock had been underperforming most of its megacap peers and the broader tech sector this year. With the post-Muse rally, the shares are now up 13% in 2026, just below the Nasdaq's 16% gain.
-Analysts at Cantor who recommend buying Meta shares published a report on Tuesday with the headline, "Meta is racing while AI is pacing." They wrote that the business model isn't yet clear for a company that generates almost all of its revenue from digital ads, but the opportunity is apparent.
-"We believe the unit economics of Muse are being subsidized in the early days, but we think META has several paths to a profitable freemium model," the analysts wrote.
-Mizuho analysts, who also have the equivalent of a buy rating on the stock, said Meta Connect lands at just the right time for the company to link Muse with its AI narrative, particularly around wearables. While Meta never found a big market for its Quest-branded virtual reality glasses, it's seeing much higher adoption of its smart glasses, in partnership with Ray-Ban parent EssilorLuxottica
-"We expect Connect to move the Muse story from app adoption to platform creation," the Mizuho analysts wrote on Tuesday. "The likely headline is Muse-on-glasses, combining Meta's rapidly growing AI agent with wearables and creating what we view as the clearest consumer AI use case yet."
-— CNBC's Isabel O'Brien contributed to this report.
-WATCH: Meta Connect 2026 happens Wednesday. Here's what to expect.`,
-    bodyJa: `Meta's rollout of its Muse AI personal agent has been a big hit with consumers and investors. The stock has jumped more than 20% in the two weeks since its introduction, and the app has shot up to the top of Apple's App Store, eclipsing ChatGPT.
-But with CEO Mark Zuckerberg set to take the stage at Meta Connect, the company's annual developer conference, late Wednesday afternoon, there are reasons for skepticism regarding Meta's latest effort to find a real and lasting niche in the consumer artificial intelligence market.
-Meta is touting Muse's ability to book appointments and travel, fill out electronic forms for users, and monitor home security cameras. It can also shop on a user's behalf, searching for a specific product across various sites and marketplaces and linking to Shopify or Stripe for payment.
-Amazon has said that's a no-go, blocking Muse from purchasing products on the e-commerce app, claiming that it would violate the company's terms of service. Whether it's other retailers taking similar steps out of concern that they're at risk of losing the direct relationship with customers, or it's consumers that don't trust the Facebook parent with sensitive data, experts say the social media giant has a long way to go to turn its early momentum in Muse into a winning product.
-"People are going to be very wary," said Joseph Turow, a professor emeritus at the University of Pennsylvania and an expert on digital media and privacy. "Some people are going to dip their toes into it, and some people are going to accept it for particular companies that they trust."
-Turow said there will be "early adopters," and then others will get "seduced into this," seeing that using this sort of personal agent can save them money by finding the best discounts.
-Zuckerberg is pushing deeper into the agentic AI market at a fraught moment for the the AI industry and for Meta. Anthropic and OpenAI are calling for a slowdown in the pace of model development as fears intensify that advanced AI is spinning out of human control and, unless it gets reined in, could threaten humanity or at least amplify cybersecurity attacks.
-Meta, meanwhile, agreed last month to pay up to $17 billion to settle a lawsuit brought by a host of states that alleged the company misrepresented the extent of child mental health harms caused by apps like Facebook and Instagram. The emergence of generative AI and chatbots has made the issue of online addiction even more pressing, as both OpenAI and Google have been sued by plaintiffs alleging their technology caused harm, including suicides.
-'Fiercely guarding the customer relationship'
-Amazon has made clear in the recent past that it won't let AI services stand between the company and its customers. It sued Perplexity in November, alleging the startup took steps to "conceal" its AI agents so they could continue to scrape the retailer's website without its approval. Amazon has also blocked agentic tools from OpenAI and Google.
-Amazon's "whole model is fiercely guarding the customer relationship," said Matthew Hassett, CEO of smart alarm clock company Loftie, which sells on Amazon, and of AI-focused ecommerce startup Deliberate. "'Respect service provider decisions' is the polite version of 'not on our shelf.'"
-Hassett was quoting Amazon, which said in a statement that "third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate."
-Meta declined to comment.
-Max Willens, an analyst at Emarketer, said that as more consumers use AI agents like Muse, Amazon will get more protective of its role in the "consumer journey."
-"For many years, Amazon was the place most U.S. consumers went first if they wanted to buy something online," Willens said "Today, those consumers are increasingly starting those shopper journeys with AI assistants."
-Outside of commerce, Muse is raising concern that other industries could see Meta's new agent take over powerful functionality. Shares of financial services companies including Charles Schwab and LPL Financial Holdings tumbled on Tuesday, while travel sites Booking Holdings and Expedia plummeted on Wednesday.
-For Meta, the early Muse momentum has reignited optimism on Wall Street, where the stock had been underperforming most of its megacap peers and the broader tech sector this year. With the post-Muse rally, the shares are now up 13% in 2026, just below the Nasdaq's 16% gain.
-Analysts at Cantor who recommend buying Meta shares published a report on Tuesday with the headline, "Meta is racing while AI is pacing." They wrote that the business model isn't yet clear for a company that generates almost all of its revenue from digital ads, but the opportunity is apparent.
-"We believe the unit economics of Muse are being subsidized in the early days, but we think META has several paths to a profitable freemium model," the analysts wrote.
-Mizuho analysts, who also have the equivalent of a buy rating on the stock, said Meta Connect lands at just the right time for the company to link Muse with its AI narrative, particularly around wearables. While Meta never found a big market for its Quest-branded virtual reality glasses, it's seeing much higher adoption of its smart glasses, in partnership with Ray-Ban parent EssilorLuxottica
-"We expect Connect to move the Muse story from app adoption to platform creation," the Mizuho analysts wrote on Tuesday. "The likely headline is Muse-on-glasses, combining Meta's rapidly growing AI agent with wearables and creating what we view as the clearest consumer AI use case yet."
-— CNBC's Isabel O'Brien contributed to this report.
-WATCH: Meta Connect 2026 happens Wednesday. Here's what to expect.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
-    publishedAt: "2026-09-23T21:04:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "openai-and-anthropic-ceos-push-for-ai-co-9d336c6a",
-    title: "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
-    titleJa: "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
-    summaryJa: "Altman is one of several tech executives who's argued that AI companies should temper the pace of AI development in order to manage potential risks.",
-    bodyOriginal: `OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei addressed the United Nations Security Council on Wednesday and called for international coordination to address the potential risks posed by artificial intelligence.
-"In our history, there have been times where countries who compete and don't always like each other very much still come together for shared interests and the collective good in the face of a powerful new technology," Altman said. "We believe this must be one of those times"
-Earlier this month, Amodei rocked the tech sector by publishing a proposal to slow down the pace of AI development. Altman, in a rare sign of solidarity with his chief rival, publicly agreed with Amodei on the need to "pace the frontier." The safety practices at both companies have been under intense scrutiny after industry researchers warned about AI's growing potential to cause catastrophic harm.
-The executives' remarks on Wednesday came just one day after President Donald Trump gave his own wide-ranging speech to the United Nations General Assembly. Trump criticized what he described as a "globalist scheme" to control AI, and said the U.S. would continue to encourage the technology's progress, "not rein it in."
-"I'm not going to stifle growth of something that will be bigger than the industrial revolution," Trump said.
-OpenAI and Anthropic's public positions have raised questions about what a slowdown would mean in practice, especially as both companies are gearing up for what are widely expected to be blockbuster IPOs. Neither company has officially disclosed when it plans to debut.
-"Beating companies in a competitive race is not a reason to make rash decisions," Altman said Wednesday. "We have unilaterally slowed down in the past. We will do so in the future."
-OpenAI opted to temporarily pause some of its research and training efforts after two of its models escaped containment, accessed the open internet breached the developer platform Hugging Face in July. The incident spooked industry researchers and executives, including Anthropic's Amodei, who referenced it in his proposal for a slowdown.
-Amodei outlined a three-step plan aimed at slowing the pace of development without "sacrificing commercial advantage or the United States' lead in AI." He acknowledged that some steps will be easier to achieve than others.
-The third step of his plan, for instance, calls for coordination between democratic governments and authoritarian governments. Amodei reiterated that position on Wednesday, and he encouraged world leaders to put aside their differences and address the "global opportunity," as well as the "global threat," ahead of them.
-"No leader, no company, and no nation can manage this alone," he said. "We commit to working with governments in this room on this urgent work."
-WATCH: Trump: We’re going to encourage ‘super intelligence,’ not rein it in`,
-    bodyJa: `OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei addressed the United Nations Security Council on Wednesday and called for international coordination to address the potential risks posed by artificial intelligence.
-"In our history, there have been times where countries who compete and don't always like each other very much still come together for shared interests and the collective good in the face of a powerful new technology," Altman said. "We believe this must be one of those times"
-Earlier this month, Amodei rocked the tech sector by publishing a proposal to slow down the pace of AI development. Altman, in a rare sign of solidarity with his chief rival, publicly agreed with Amodei on the need to "pace the frontier." The safety practices at both companies have been under intense scrutiny after industry researchers warned about AI's growing potential to cause catastrophic harm.
-The executives' remarks on Wednesday came just one day after President Donald Trump gave his own wide-ranging speech to the United Nations General Assembly. Trump criticized what he described as a "globalist scheme" to control AI, and said the U.S. would continue to encourage the technology's progress, "not rein it in."
-"I'm not going to stifle growth of something that will be bigger than the industrial revolution," Trump said.
-OpenAI and Anthropic's public positions have raised questions about what a slowdown would mean in practice, especially as both companies are gearing up for what are widely expected to be blockbuster IPOs. Neither company has officially disclosed when it plans to debut.
-"Beating companies in a competitive race is not a reason to make rash decisions," Altman said Wednesday. "We have unilaterally slowed down in the past. We will do so in the future."
-OpenAI opted to temporarily pause some of its research and training efforts after two of its models escaped containment, accessed the open internet breached the developer platform Hugging Face in July. The incident spooked industry researchers and executives, including Anthropic's Amodei, who referenced it in his proposal for a slowdown.
-Amodei outlined a three-step plan aimed at slowing the pace of development without "sacrificing commercial advantage or the United States' lead in AI." He acknowledged that some steps will be easier to achieve than others.
-The third step of his plan, for instance, calls for coordination between democratic governments and authoritarian governments. Amodei reiterated that position on Wednesday, and he encouraged world leaders to put aside their differences and address the "global opportunity," as well as the "global threat," ahead of them.
-"No leader, no company, and no nation can manage this alone," he said. "We commit to working with governments in this room on this urgent work."
-WATCH: Trump: We’re going to encourage ‘super intelligence,’ not rein it in`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html",
-    publishedAt: "2026-09-23T20:29:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "oil-industry-warns-a-diesel-export-ban-w-40bd8660",
-    title: "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
-    titleJa: "Oil industry warns a diesel export ban will raise fuel prices as Trump weighs restrictions",
-    summaryJa: "A diesel export ban would provide only brief relief before prices start to rise again as refiners cut production, experts say.",
-    bodyOriginal: `The oil industry has warned a diesel export ban will backfire and exacerbate the global fuel crisis as President Donald Trump weighs restrictions.
-Trump appeared to back an export ban earlier this week, as he faces mounting political pressure to tackle rising fuel prices ahead of the midterm elections in November.
-"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters Tuesday on the sidelines of the annual United Nations General Assembly. "I've called for it within my people. I've been talking about it."
-The American Petroleum Institute, an oil lobby group, quickly pushed back after Trump's comments. API CEO Mike Sommers warned "restricting U.S. energy exports would only compound the problem—exacerbating refining challenges and ultimately hurting consumers."
-"The answer is more supply and more flexibility—not new restrictions that risk making a difficult situation worse," Sommers said in a statement Tuesday.
-The stocks of U.S. refiners Valero, Marathon Petroleum and Phillips 66 fell Wednesday after Politico reported that the Trump administration is preparing a plan to ban diesel exports for 90 days.
-But Energy Secretary Chris Wright told The Wall Street Journal that the Trump administration was considering restrictions rather than an outright export ban.
-"We're trying to avoid a blunt hammer of a government policy, understanding the complexity of refining," Wright told the Journal on Wednesday.
-Gas prices would rise
-An export ban would result in "more expensive gasoline right away," the Energy secretary said last week. U.S. refineries would cut production, including gasoline, as storage tanks are filled, said Wright, an industry insider who previously served as CEO of the oilfield services firm Liberty Energy.
-"If you start putting barriers on flows, pretty quickly you will reduce the production, and you'll have less supply," Wright told The Daily Caller in an interview on Sept. 17.
-An oil industry executive told CNBC's Brian Sullivan that a diesel export ban could raise the price of fuel by 30 cents per gallon. Gasoline prices could rise toward record levels if an export ban is implemented, said Patrick De Haan, head of petroleum analysis at GasBuddy, in a social media post.
-An export ban would briefly lead to a price collapse but likely only on the Gulf Coast where there's a lot of refining capacity and the lower Midwest, said Bob McNally, president of Rapidan Energy and former energy advisor to President George W. Bush. The Northeast will likely not see much relief because the region is more dependent on imports, the analyst said.
-After some brief relief in certain regions of the U.S., prices will rise to levels higher than they would have been otherwise as refiners cut production, McNally said. Prices will "soar globally," he said.
-And there's a risk that U.S. trade partners could retaliate, McNally said. The U.S. exports diesel to Europe and the Europeans export gasoline to the U.S.
-There is concern in the oil industry that Europe could ban gasoline exports to the U.S., the analyst said. This would be particularly problematic for the more import-dependent U.S. Northeast, he said.
-Election pressure
-But the White House faces mounting pressure from a growing group of Republican lawmakers to implement an export ban as diesel prices have reached record highs ahead of the midterm elections.
-This past weekend, Sen. Chuck Grassley of Iowa for the White House to "embargo diesel" to help farmers. Iowa is one of the biggest farming states in the U.S., diesel is crucial for agriculture, and Republicans face a very competitive senate race in the Hawkeye State despite voters there backing Trump three times.
-Diesel cost $6.52 per gallon on average nationwide Wednesday, nearly $3 more expensive than this time last year, according to data from AAA. Gas cost $4.47 per gallon, $1.30 more expensive than the same period in 2025.
-"It's panic," McNally said. "It's a tough election and historically rising diesel prices. It's full-blown panic."
-It's still not clear what course of action Trump will ultimately take.
-The White House is examining whether an export ban is "feasible in terms of the overall refining capacity and whether a full or partial ban would work," Treasury Secretary Scott Bessent said Tuesday when asked by Trump to explain the administration's deliberations to the press.
-A White House official told CNBC on Wednesday that Trump "wants to see gas prices at the pump fall and is evaluating all the options on the table."
-One of the key reasons why diesel prices are so high right now is because Russia banned exports due to Ukraine's attacks on its refineries.
-Moscow's ban removed the second-largest source of diesel from the global market. A U.S. export ban would compound the problem by removing the biggest source of diesel from the market.
-"I don't know of an oil economist or expert or analyst who actually understands oil who thinks it's a good idea," McNally said. "I think there's widespread opposition, even in the administration."`,
-    bodyJa: `The oil industry has warned a diesel export ban will backfire and exacerbate the global fuel crisis as President Donald Trump weighs restrictions.
-Trump appeared to back an export ban earlier this week, as he faces mounting political pressure to tackle rising fuel prices ahead of the midterm elections in November.
-"I've said let's not send out the diesel. We make a lot of diesel," Trump told reporters Tuesday on the sidelines of the annual United Nations General Assembly. "I've called for it within my people. I've been talking about it."
-The American Petroleum Institute, an oil lobby group, quickly pushed back after Trump's comments. API CEO Mike Sommers warned "restricting U.S. energy exports would only compound the problem—exacerbating refining challenges and ultimately hurting consumers."
-"The answer is more supply and more flexibility—not new restrictions that risk making a difficult situation worse," Sommers said in a statement Tuesday.
-The stocks of U.S. refiners Valero, Marathon Petroleum and Phillips 66 fell Wednesday after Politico reported that the Trump administration is preparing a plan to ban diesel exports for 90 days.
-But Energy Secretary Chris Wright told The Wall Street Journal that the Trump administration was considering restrictions rather than an outright export ban.
-"We're trying to avoid a blunt hammer of a government policy, understanding the complexity of refining," Wright told the Journal on Wednesday.
-Gas prices would rise
-An export ban would result in "more expensive gasoline right away," the Energy secretary said last week. U.S. refineries would cut production, including gasoline, as storage tanks are filled, said Wright, an industry insider who previously served as CEO of the oilfield services firm Liberty Energy.
-"If you start putting barriers on flows, pretty quickly you will reduce the production, and you'll have less supply," Wright told The Daily Caller in an interview on Sept. 17.
-An oil industry executive told CNBC's Brian Sullivan that a diesel export ban could raise the price of fuel by 30 cents per gallon. Gasoline prices could rise toward record levels if an export ban is implemented, said Patrick De Haan, head of petroleum analysis at GasBuddy, in a social media post.
-An export ban would briefly lead to a price collapse but likely only on the Gulf Coast where there's a lot of refining capacity and the lower Midwest, said Bob McNally, president of Rapidan Energy and former energy advisor to President George W. Bush. The Northeast will likely not see much relief because the region is more dependent on imports, the analyst said.
-After some brief relief in certain regions of the U.S., prices will rise to levels higher than they would have been otherwise as refiners cut production, McNally said. Prices will "soar globally," he said.
-And there's a risk that U.S. trade partners could retaliate, McNally said. The U.S. exports diesel to Europe and the Europeans export gasoline to the U.S.
-There is concern in the oil industry that Europe could ban gasoline exports to the U.S., the analyst said. This would be particularly problematic for the more import-dependent U.S. Northeast, he said.
-Election pressure
-But the White House faces mounting pressure from a growing group of Republican lawmakers to implement an export ban as diesel prices have reached record highs ahead of the midterm elections.
-This past weekend, Sen. Chuck Grassley of Iowa for the White House to "embargo diesel" to help farmers. Iowa is one of the biggest farming states in the U.S., diesel is crucial for agriculture, and Republicans face a very competitive senate race in the Hawkeye State despite voters there backing Trump three times.
-Diesel cost $6.52 per gallon on average nationwide Wednesday, nearly $3 more expensive than this time last year, according to data from AAA. Gas cost $4.47 per gallon, $1.30 more expensive than the same period in 2025.
-"It's panic," McNally said. "It's a tough election and historically rising diesel prices. It's full-blown panic."
-It's still not clear what course of action Trump will ultimately take.
-The White House is examining whether an export ban is "feasible in terms of the overall refining capacity and whether a full or partial ban would work," Treasury Secretary Scott Bessent said Tuesday when asked by Trump to explain the administration's deliberations to the press.
-A White House official told CNBC on Wednesday that Trump "wants to see gas prices at the pump fall and is evaluating all the options on the table."
-One of the key reasons why diesel prices are so high right now is because Russia banned exports due to Ukraine's attacks on its refineries.
-Moscow's ban removed the second-largest source of diesel from the global market. A U.S. export ban would compound the problem by removing the biggest source of diesel from the market.
-"I don't know of an oil economist or expert or analyst who actually understands oil who thinks it's a good idea," McNally said. "I think there's widespread opposition, even in the administration."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/23/trump-diesel-export-ban-gas-prices.html",
-    publishedAt: "2026-09-23T19:30:54+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "bentley-unveils-its-first-fully-electric-8adbf30a",
-    title: "Bentley unveils its first fully electric car",
-    titleJa: "Bentley unveils its first fully electric car",
-    summaryJa: "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
-    bodyOriginal: `Bentley unveils its first fully electric car
-- Published
-Bentley has unveiled its first fully electric car after investing £350m to upgrade its factory in Cheshire.
-The Torcal SUV will be built on a brand-new production line at the site, which has been the luxury carmaker's headquarters since 1946.
-Business secretary Jonathan Reynolds said the investment would "support 4,000 high-value local jobs in Crewe".
-The Department for Business, Innovation, Science and Trade said the Torcal would strengthen automotive supply chains, as Bentley is supplied by more than 700 businesses including 82 within a 50-mile radius of its base.
-The announcement comes as the UK motor industry is facing strong headwinds, with JLR recently announcing large-scale job cuts and manufacturers looking for new avenues to grow their businesses.
-Despite announcements of new electric models to future-proof the industry, there have been calls to slow the switch to a fully EV future.
-Bentley said the Torcal's 113kWh battery gave it a range of up to 375 miles (600km), adding that it could charge from 10% to 80% in less than 20 minutes using a 400kW charger.
-The company said the Torcal S model would also be its most powerful car yet with a top speed of 162mph, and the fastest-accelerating from standstill, reaching 60mph in 2.8 seconds.
-The standard Torcal model can travel at up to 155mph and takes 3.3 seconds to accelerate to 60mph.
-Dr Frank-Steffen Walliser, Bentley's chairman and chief executive, called the Torcal "one of the best Bentleys ever" and said it had been designed to combine luxury with electric technology.
-"The Torcal is a Bentley first and foremost, created by hand by people who care, using the best available materials and technology to blend heritage with cutting-edge innovation," he said.
-The new production line is inside one of the Crewe site's original factory buildings dating from 1938.
-It previously housed the company's machining shop and later its research and development workshop. It has been stripped and fitted with a new floor designed to allow autonomous guided vehicles to move cars through the production process.
-Reynolds described Bentley's £350m investment as "the third win in just seven days" for Britain's automotive industry following £500m announced by McLaren and £170m from Nissan.
-The government said it was investing £7.5bn to support a transition to electric vehicles, with plans to phase out new petrol and diesel cars from 2030.
-Get in touch
-Tell us which stories we should cover in Staffordshire
-Follow BBC Stoke & Staffordshire on BBC Sounds, Facebook, external, X, external and Instagram, external.
-Related topics
-- Published18 March
-- Published17 March`,
-    bodyJa: `Bentley unveils its first fully electric car
-- Published
-Bentley has unveiled its first fully electric car after investing £350m to upgrade its factory in Cheshire.
-The Torcal SUV will be built on a brand-new production line at the site, which has been the luxury carmaker's headquarters since 1946.
-Business secretary Jonathan Reynolds said the investment would "support 4,000 high-value local jobs in Crewe".
-The Department for Business, Innovation, Science and Trade said the Torcal would strengthen automotive supply chains, as Bentley is supplied by more than 700 businesses including 82 within a 50-mile radius of its base.
-The announcement comes as the UK motor industry is facing strong headwinds, with JLR recently announcing large-scale job cuts and manufacturers looking for new avenues to grow their businesses.
-Despite announcements of new electric models to future-proof the industry, there have been calls to slow the switch to a fully EV future.
-Bentley said the Torcal's 113kWh battery gave it a range of up to 375 miles (600km), adding that it could charge from 10% to 80% in less than 20 minutes using a 400kW charger.
-The company said the Torcal S model would also be its most powerful car yet with a top speed of 162mph, and the fastest-accelerating from standstill, reaching 60mph in 2.8 seconds.
-The standard Torcal model can travel at up to 155mph and takes 3.3 seconds to accelerate to 60mph.
-Dr Frank-Steffen Walliser, Bentley's chairman and chief executive, called the Torcal "one of the best Bentleys ever" and said it had been designed to combine luxury with electric technology.
-"The Torcal is a Bentley first and foremost, created by hand by people who care, using the best available materials and technology to blend heritage with cutting-edge innovation," he said.
-The new production line is inside one of the Crewe site's original factory buildings dating from 1938.
-It previously housed the company's machining shop and later its research and development workshop. It has been stripped and fitted with a new floor designed to allow autonomous guided vehicles to move cars through the production process.
-Reynolds described Bentley's £350m investment as "the third win in just seven days" for Britain's automotive industry following £500m announced by McLaren and £170m from Nissan.
-The government said it was investing £7.5bn to support a transition to electric vehicles, with plans to phase out new petrol and diesel cars from 2030.
-Get in touch
-Tell us which stories we should cover in Staffordshire
-Follow BBC Stoke & Staffordshire on BBC Sounds, Facebook, external, X, external and Instagram, external.
-Related topics
-- Published18 March
-- Published17 March`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c65ymznkr291o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T19:21:10+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d28/live/4a744720-b77f-11f1-82bf-a7fbaca3dc9e.jpg",
-    readTime: 7,
-  },
-  {
-    id: "barrecore-and-boom-cycle-owner-suddenly-ada722dd",
-    title: "Barrecore and Boom Cycle owner suddenly shuts studios",
-    titleJa: "Barrecore and Boom Cycle owner suddenly shuts studios",
-    summaryJa: "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
-    bodyOriginal: `Barrecore and Boom Cycle owner suddenly shuts studios
-- Published
-The fitness company behind high-end exercise classes Barrecore, Boom Cycle, and Kobox has suddenly shut all its studios.
-Common Bond emailed customers announcing its locations, all of which are currently in London, were closed "until further notice".
-The firm describes itself as a wellness collective and charges £2,400 for 12 months of unlimited classes. It also runs Reformcore and Triyoga brands and said in August last year it had ten sites.
-Its website is no longer publicly accessible. The BBC has contacted Common Bond for comment.
-The email sent to customers on Wednesday seen by the BBC said: "We're sorry to let you know that all Common Bond studios are closed until further notice.
-"We sincerely apologise for the inconvenience and disruption this may cause . We understand this is frustrating, and we appreciate your patience while we work through this."
-Instructors have told the BBC they were told last week they would not be paid on time and that they only found out about the studios closures from the Wednesday email.
-One instructor said she and her colleagues were told their pay would be delayed on the day it was due on 14 August.
-She said: "In good faith, I continued to teach my classes without any news on when or if payment would be made. I have heard absolutely nothing since."
-It is not clear how many instructors and customers have been hit by the sudden decision to shut the studios down.
-Companies House filings for Common Bond show the company was incorporated in June last year, so has it has not yet published any accounts.
-The most recent filings show a director, Ben Allen, left the role last month.
-Gaspar Lipszyc, listed as a Belgian national living in Spain, is the only currently shown director of the company.
-Barrecore is a brand specialising in barre, a fitness discipline that combines pilates, ballet, and yoga.
-Barre is a low impact exercise and its popularity has soared in recent years as famous names including Pippa Middleton have praised its benefits.
-- Published20 August
-- Published21 August`,
-    bodyJa: `Barrecore and Boom Cycle owner suddenly shuts studios
-- Published
-The fitness company behind high-end exercise classes Barrecore, Boom Cycle, and Kobox has suddenly shut all its studios.
-Common Bond emailed customers announcing its locations, all of which are currently in London, were closed "until further notice".
-The firm describes itself as a wellness collective and charges £2,400 for 12 months of unlimited classes. It also runs Reformcore and Triyoga brands and said in August last year it had ten sites.
-Its website is no longer publicly accessible. The BBC has contacted Common Bond for comment.
-The email sent to customers on Wednesday seen by the BBC said: "We're sorry to let you know that all Common Bond studios are closed until further notice.
-"We sincerely apologise for the inconvenience and disruption this may cause . We understand this is frustrating, and we appreciate your patience while we work through this."
-Instructors have told the BBC they were told last week they would not be paid on time and that they only found out about the studios closures from the Wednesday email.
-One instructor said she and her colleagues were told their pay would be delayed on the day it was due on 14 August.
-She said: "In good faith, I continued to teach my classes without any news on when or if payment would be made. I have heard absolutely nothing since."
-It is not clear how many instructors and customers have been hit by the sudden decision to shut the studios down.
-Companies House filings for Common Bond show the company was incorporated in June last year, so has it has not yet published any accounts.
-The most recent filings show a director, Ben Allen, left the role last month.
-Gaspar Lipszyc, listed as a Belgian national living in Spain, is the only currently shown director of the company.
-Barrecore is a brand specialising in barre, a fitness discipline that combines pilates, ballet, and yoga.
-Barre is a low impact exercise and its popularity has soared in recent years as famous names including Pippa Middleton have praised its benefits.
-- Published20 August
-- Published21 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-23T19:10:22+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68a/live/b1d1e440-b752-11f1-97a1-31b436cb8908.jpg",
-    readTime: 5,
   },
 ];
 
