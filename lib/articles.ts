@@ -15,6 +15,312 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "meta-turned-muse-into-a-viral-hit-now-co-ed0d20c9",
+    title: "Meta turned Muse into a viral hit. Now comes the hard part.",
+    titleJa: "Meta turned Muse into a viral hit. Now comes the hard part.",
+    summaryJa: "Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.",
+    bodyOriginal: `Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.`,
+    bodyJa: `Meta is quickly racking up downloads for its Muse AI assistant, but the next step for Mark Zuckerberg is getting users to make the agent part of their everyday routines.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/meta-turned-muse-into-a-viral-hit-now-comes-the-hard-part-fb3177a8?mod=mw_rss_topstories",
+    publishedAt: "2026-09-26T11:00:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-77085715",
+    readTime: 2,
+  },
+  {
+    id: "at-least-two-dead-after-explosion-destro-600dfd6f",
+    title: "At least two dead after explosion destroys building close to Acropolis in Athens",
+    titleJa: "At least two dead after explosion destroys building close to Acropolis in Athens",
+    summaryJa: "Local media report the property included a holiday rental, with US tourists and a UK national among the missing.",
+    bodyOriginal: `At least two dead after explosion destroys building close to Acropolis in Athens
+- Published
+At least two people have died and four more are missing after an explosion destroyed a building housing a holiday rental property in the historic centre of Athens.
+The blast happened in the Plaka area of the Greek capital, a neighbourhood close to tourist sites such as the Acropolis, with local media reporting the building housed a holiday rental.
+An American man and woman have died, with two more US tourists missing, AFP news agency reported citing local officials. A Greek national and UK national who lived in the building are also said to be missing.
+Pictures from the scene showed emergency service workers searching through rubble, with a gas leak the suspected cause of the blast.
+The body of a woman was found on Saturday morning, with a Greek fire official later telling reporters the body of a man had also been found.
+The tourists were confirmed to be missing when they did not arrive for their flight at Athens airport, Reuters news agency reported citing local police.
+Athens Mayor Haris Doukas said: "We are talking about an incredible disaster."
+The three-storey building completely collapsed due to the force of the blast, with neighbouring buildings damaged and debris scattered across the road.
+Local media reported people were injured by material scattered across nearby streets and some buildings needed to be evacuated.
+Excavators and thermal imaging cameras have been used at the scene to search for survivors.
+The explosion happened on a small road situated between two of Athens' most visited sites - the Acropolis and the Temple of Olympian Zeus.
+BBC News has contacted the UK Foreign Office.`,
+    bodyJa: `At least two dead after explosion destroys building close to Acropolis in Athens
+- Published
+At least two people have died and four more are missing after an explosion destroyed a building housing a holiday rental property in the historic centre of Athens.
+The blast happened in the Plaka area of the Greek capital, a neighbourhood close to tourist sites such as the Acropolis, with local media reporting the building housed a holiday rental.
+An American man and woman have died, with two more US tourists missing, AFP news agency reported citing local officials. A Greek national and UK national who lived in the building are also said to be missing.
+Pictures from the scene showed emergency service workers searching through rubble, with a gas leak the suspected cause of the blast.
+The body of a woman was found on Saturday morning, with a Greek fire official later telling reporters the body of a man had also been found.
+The tourists were confirmed to be missing when they did not arrive for their flight at Athens airport, Reuters news agency reported citing local police.
+Athens Mayor Haris Doukas said: "We are talking about an incredible disaster."
+The three-storey building completely collapsed due to the force of the blast, with neighbouring buildings damaged and debris scattered across the road.
+Local media reported people were injured by material scattered across nearby streets and some buildings needed to be evacuated.
+Excavators and thermal imaging cameras have been used at the scene to search for survivors.
+The explosion happened on a small road situated between two of Athens' most visited sites - the Acropolis and the Temple of Olympian Zeus.
+BBC News has contacted the UK Foreign Office.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-26T10:18:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/b65e6fe0-b984-11f1-a8ed-73305fe15fa1.jpg",
+    readTime: 4,
+  },
+  {
+    id: "could-an-iced-coffee-freeze-you-out-of-t-dd075903",
+    title: "Could an iced coffee freeze you out of the job market?",
+    titleJa: "Could an iced coffee freeze you out of the job market?",
+    summaryJa: "Employees and recruiters weigh into the online debate around interview etiquette.",
+    bodyOriginal: `Could an iced coffee freeze you out of the job market?
+- Published
+Would you bring an iced coffee to a job interview?
+The question on the internet's lips this week started life, as many do, in a TikTok video.
+"Don't waltz into your interview all casual with an iced coffee, it just looks like you didn't have time to finish your coffee beforehand," said US recruiter Caitlin Wehniainen.
+It's what her Gen Z job candidates are doing, she said, warning it makes it look like the interview is "just a stop on your list of errands for the day".
+The post has started what Wehniainen calls the Great Iced Coffee Debate of 2026.
+Some believe turning up with an iced matcha latte in hand is a cardinal sin. They say it's unprofessional, too informal, and a distraction.
+Others feel this is an overreaction - distracting from how difficult it is to secure a job - or even just get an interview in the first place.
+In a subsequent LinkedIn post, Wehniainen says she "was never saying that bringing coffee makes someone a bad candidate.
+"My point was simply about avoiding distractions."
+Hanad, 28, works for an energy supplier in London. He likes iced coffee but wouldn't bring one to an interview.
+"A job interview is all about first impressions," he says. "Anything can deter the employer from employing you.
+"Iced coffee is something a lot of teens drink… it would look immature and too informal."
+He would never bring along an energy drink for the same reasons. But he says water or a hot coffee would be okay.
+His colleague Tsvetina, 24, thinks a potential employee shouldn't be judged by what they bring to the interview, nor their dress code.
+"I think we should be moving away from these traditional corporate stigmas. What matters is what the person is actually communicating during the interview."
+Aisha, 28, says she would take along an iced coffee. "I think it shows that I have come early enough to get iced coffee."
+She wouldn't bring a fizzy drink, however.
+In general, she thinks a lot of employers like to see personality in a candidate. "It makes you stand out from other people who are coming [applying] for the job."
+Katy, 25, a personal assistant in events, says she personally wouldn't turn up to a job interview with an iced coffee.
+But she sees the controversy around Wehniainen's post as "a bit sexist, because it's usually girls who drink iced coffee".
+"If it was a hot coffee, which is more masculine, there wouldn't be a discourse about that."
+Young people trying to land their first job are facing multiple challenges.
+The number of graduate vacancies in the UK has almost halved in the past year, as employers cut entry-level roles in favour of AI and battle rising costs.
+Around one in eight people aged 16-24 are not in education, employment or training - so called Neets.
+Young workers in the US are also struggling with a tight jobs market, external as hiring slows.
+'A little bit flippant'
+Lucy Cooper is the founder of Spark, a design and branding recruitment company in London.
+She says her industry - marketing - is really tough right now, and she doesn't know of any Gen Z candidates who would risk turning up to an interview with an iced coffee.
+You could "seem too relaxed and a little bit flippant, like you're not taking it seriously enough, or you are interviewing the employer rather than the other way round".
+"I think people at junior level are very conscious about not doing anything that could jeopardise their chances," she says.
+She adds that it would be fine to accept a coffee offered by the employer, however, or drink one on a video interview.
+Dan Craddock, director at Hays, says employers shouldn't rely on "snap judgements".
+"It's important not to read too much into a single item a candidate brings to an interview.
+"Whether that's an iced coffee, a bottle of water or a notebook, employers are ultimately assessing the skills, experience and behaviours that will make someone successful in the role."
+Chris Mason, co-founder of Intelligent People - a specialist recruitment agency for the tech industry, says focusing on ice coffees alone "does seem to be an overreaction on the US recruiter's part".
+He advises candidates to "try to do everything possible to project the right image and attitude".
+He warns bringing snacks or specialist drinks may undermine the impression candidates will want to give - that they're "serious and focused on the interview".
+He says the main issue they see with some younger candidates is a lack of preparation, not being punctual, and not researching the role, organisation or interviewer.
+- Published4 September
+- Published15 July
+- Published24 August
+- Published25 June`,
+    bodyJa: `Could an iced coffee freeze you out of the job market?
+- Published
+Would you bring an iced coffee to a job interview?
+The question on the internet's lips this week started life, as many do, in a TikTok video.
+"Don't waltz into your interview all casual with an iced coffee, it just looks like you didn't have time to finish your coffee beforehand," said US recruiter Caitlin Wehniainen.
+It's what her Gen Z job candidates are doing, she said, warning it makes it look like the interview is "just a stop on your list of errands for the day".
+The post has started what Wehniainen calls the Great Iced Coffee Debate of 2026.
+Some believe turning up with an iced matcha latte in hand is a cardinal sin. They say it's unprofessional, too informal, and a distraction.
+Others feel this is an overreaction - distracting from how difficult it is to secure a job - or even just get an interview in the first place.
+In a subsequent LinkedIn post, Wehniainen says she "was never saying that bringing coffee makes someone a bad candidate.
+"My point was simply about avoiding distractions."
+Hanad, 28, works for an energy supplier in London. He likes iced coffee but wouldn't bring one to an interview.
+"A job interview is all about first impressions," he says. "Anything can deter the employer from employing you.
+"Iced coffee is something a lot of teens drink… it would look immature and too informal."
+He would never bring along an energy drink for the same reasons. But he says water or a hot coffee would be okay.
+His colleague Tsvetina, 24, thinks a potential employee shouldn't be judged by what they bring to the interview, nor their dress code.
+"I think we should be moving away from these traditional corporate stigmas. What matters is what the person is actually communicating during the interview."
+Aisha, 28, says she would take along an iced coffee. "I think it shows that I have come early enough to get iced coffee."
+She wouldn't bring a fizzy drink, however.
+In general, she thinks a lot of employers like to see personality in a candidate. "It makes you stand out from other people who are coming [applying] for the job."
+Katy, 25, a personal assistant in events, says she personally wouldn't turn up to a job interview with an iced coffee.
+But she sees the controversy around Wehniainen's post as "a bit sexist, because it's usually girls who drink iced coffee".
+"If it was a hot coffee, which is more masculine, there wouldn't be a discourse about that."
+Young people trying to land their first job are facing multiple challenges.
+The number of graduate vacancies in the UK has almost halved in the past year, as employers cut entry-level roles in favour of AI and battle rising costs.
+Around one in eight people aged 16-24 are not in education, employment or training - so called Neets.
+Young workers in the US are also struggling with a tight jobs market, external as hiring slows.
+'A little bit flippant'
+Lucy Cooper is the founder of Spark, a design and branding recruitment company in London.
+She says her industry - marketing - is really tough right now, and she doesn't know of any Gen Z candidates who would risk turning up to an interview with an iced coffee.
+You could "seem too relaxed and a little bit flippant, like you're not taking it seriously enough, or you are interviewing the employer rather than the other way round".
+"I think people at junior level are very conscious about not doing anything that could jeopardise their chances," she says.
+She adds that it would be fine to accept a coffee offered by the employer, however, or drink one on a video interview.
+Dan Craddock, director at Hays, says employers shouldn't rely on "snap judgements".
+"It's important not to read too much into a single item a candidate brings to an interview.
+"Whether that's an iced coffee, a bottle of water or a notebook, employers are ultimately assessing the skills, experience and behaviours that will make someone successful in the role."
+Chris Mason, co-founder of Intelligent People - a specialist recruitment agency for the tech industry, says focusing on ice coffees alone "does seem to be an overreaction on the US recruiter's part".
+He advises candidates to "try to do everything possible to project the right image and attitude".
+He warns bringing snacks or specialist drinks may undermine the impression candidates will want to give - that they're "serious and focused on the interview".
+He says the main issue they see with some younger candidates is a lack of preparation, not being punctual, and not researching the role, organisation or interviewer.
+- Published4 September
+- Published15 July
+- Published24 August
+- Published25 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-26T10:05:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2add/live/03c9d510-b905-11f1-bc1f-3f186ca4140c.png",
+    readTime: 10,
+  },
+  {
+    id: "audemars-piguet-says-its-royal-pop-colla-4b95770a",
+    title: "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+    titleJa: "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+    summaryJa: "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+    bodyOriginal: `Luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch earlier this year, according to the company's CEO.
+Audemars Piguet in May teamed up with Swatch to launch a line of brightly colored timepieces attached to lanyards and priced at $400 apiece. The Royal Pop collaboration set off a frenzy of interest on social media, with Swatch posting a request on Instagram for customers "not to rush to our stores." The furor sparked a debate in the luxury industry about whether Audemars Piguet, whose ultra-rare watches sell for more than $30,000, had cheapened the brand and debased a revered member of the "Holy Trinity" of Swiss watchmakers, which includes Patek Philippe and Vacheron Constantin.
+Yet Ilaria Resta, CEO of Audemars Piguet, said sales and interest in the brand have skyrocketed. The launch generated more than 20 billion mentions and conversations on social media, she said. Millions of young consumers were suddenly diving into the workings of mechanical watches and horology. Even Audemars Piguet's top collectors were calling to request their own Royal Pop.
+"We've had a record month every month since the launch of the Royal Pop," Resta said. "Our website crashed. We have nonstop visits in our boutiques. Simply by putting the spotlight on an object and a mechanical movement, all of a sudden you discover the world of Audemars Piguet."
+The company's success has become a case study for the ailing $50 billion Swiss watch industry and the broader luxury economy. While the ultra-high end of the Swiss watch industry is thriving, business and profits in the broader industry are on the decline.
+The number of Swiss watches exported globally has fallen by more than half since 2011, and total sales fell 1.7% last year, according to a report from Morgan Stanley and LuxeConsult. While there are about 450 Swiss watch brands, the top four — Rolex, Patek Philippe, Audemars Piguet and Richard Mille — now account for about half of industry sales and about 76% of profits, the report found.
+The top of the market has become so rarified that it's become inaccessible even to wealthy watch fans. Audemars Piguet makes only 53,000 watches a year, compared with more than 1 million produced by Rolex, according to Morgan Stanley. Audemars Piguet's coveted Royal Oak models typically start at $30,000, with the most complicated models selling for over $200,000. Waitlists are long, for those lucky enough to buy them. Preowned APs typically sell for 30% or more above retail price since supply is so scarce.
+Resta said that Swiss watch brands that follow the old playbook — relying on their history, older clientele and elitist marketing — face extinction.
+"Either you dare or you die," she said.
+She calls her new strategy "radical openness." The goal is to open the elite world of Swiss watchmaking to a broader, younger audience. Along with the Royal Pop collection, Audemars Piguet is also rolling out AP Labs – pop-up experiences that immerse visitors in the world of mechanical watchmaking. Visitors can play watch-themed games, learn about movements and complications, see watchmakers at work and even try their hand at fastening tiny watch components.
+No watches are sold at AP Labs, Resta said. The purpose is solely education, along with recruiting new watchmakers for an industry that is perpetually short on skilled craftspeople.
+"This is a category that is born and fueled by love, passion and understanding," Resta said. "If you do not understand watchmaking, you will never appreciate a mechanical watch. You will always default to the easiest and cheapest way to tell the time. Telling time is the last reason you buy a mechanical watch. You buy it because you understand the mechanical invention behind it, you appreciate the movement, you appreciate the aesthetics and the meaning of an object that is meant to last forever."
+As one of the few remaining luxury watchmakers that's still private and family-owned, Audemars Piguet doesn't report revenue or profits. Resta said the company recorded organic sales growth of 10% in 2025, mainly driven by more-complicated, higher-priced watches. She said 2026 "will beat that record even further."
+Audemars Piguet is donating all of its proceeds from the Royal Pop collaboration to fund a dedicated initiative to train and educate watchmakers.
+Along with its successes, however, Audemars Piguet also faces new industry pressures. The U.S. has imposed a series of tariffs on Swiss goods over the past year, leading to the current tariff rate of up to 12.5%. Expensive Swiss watches have been hit especially hard. Exports of Swiss watches to the U.S. fell 19% in August, despite growing 9% worldwide, according to the Federation of the Swiss Watch Industry.
+While wealthy watch buyers can easily afford the extra tax, some are preferring to hold off on purchases or deliveries until the tariff is lifted or lowered, industry analysts say. Prices for luxury watch materials, especially gold, have also skyrocketed, adding to production costs. The Swiss franc has strengthened against many currencies over the past year, especially the U.S. dollar, reducing revenue for Swiss companies that sell abroad.
+The combination of tariffs, material prices and currencies have squeezed margins for Swiss watchmakers. Some companies are passing along the higher costs to customers through double-digit price increases. Resta said AP has chosen not to pass along the tariff costs and only impose small price increases to partially offset higher material prices.
+"All of these headwinds I manage in a way that is not punishing to our clients," Resta said. "What I'm after is not the yearly profit results. I am lucky enough to be at the helm of a privately owned company that has a very long time horizon. You want to preserve the relationship with the client, but you also want to preserve the right value of the product you offer."
+Resta said challenging times are exactly when companies need to innovate most. AP is creating a new state-of-the-art service center in Raleigh, North Carolina, to repair and service watches, even as other watchmakers reduce their footprints.
+"I always say, if you change your strategy because you are going through a crisis, it meant you did a lazy job working on your strategy," Resta said. "Strategies should be bulletproof in any crisis."
+A bright spot for demand is tech wealth, with many of the new AI millionaires and billionaires starting to collect luxury watches. Executives and founders in Silicon Valley are searching for hobbies and experiences that are decidedly anti-tech, whether it's wilderness hikes and remote flyfishing, or buying classic cars and mechanical watches.
+"These are two worlds that theoretically should be opposed," Resta said. "The worlds of analog and digital, the hyperconnected and the disconnected, are blending together."`,
+    bodyJa: `Luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch earlier this year, according to the company's CEO.
+Audemars Piguet in May teamed up with Swatch to launch a line of brightly colored timepieces attached to lanyards and priced at $400 apiece. The Royal Pop collaboration set off a frenzy of interest on social media, with Swatch posting a request on Instagram for customers "not to rush to our stores." The furor sparked a debate in the luxury industry about whether Audemars Piguet, whose ultra-rare watches sell for more than $30,000, had cheapened the brand and debased a revered member of the "Holy Trinity" of Swiss watchmakers, which includes Patek Philippe and Vacheron Constantin.
+Yet Ilaria Resta, CEO of Audemars Piguet, said sales and interest in the brand have skyrocketed. The launch generated more than 20 billion mentions and conversations on social media, she said. Millions of young consumers were suddenly diving into the workings of mechanical watches and horology. Even Audemars Piguet's top collectors were calling to request their own Royal Pop.
+"We've had a record month every month since the launch of the Royal Pop," Resta said. "Our website crashed. We have nonstop visits in our boutiques. Simply by putting the spotlight on an object and a mechanical movement, all of a sudden you discover the world of Audemars Piguet."
+The company's success has become a case study for the ailing $50 billion Swiss watch industry and the broader luxury economy. While the ultra-high end of the Swiss watch industry is thriving, business and profits in the broader industry are on the decline.
+The number of Swiss watches exported globally has fallen by more than half since 2011, and total sales fell 1.7% last year, according to a report from Morgan Stanley and LuxeConsult. While there are about 450 Swiss watch brands, the top four — Rolex, Patek Philippe, Audemars Piguet and Richard Mille — now account for about half of industry sales and about 76% of profits, the report found.
+The top of the market has become so rarified that it's become inaccessible even to wealthy watch fans. Audemars Piguet makes only 53,000 watches a year, compared with more than 1 million produced by Rolex, according to Morgan Stanley. Audemars Piguet's coveted Royal Oak models typically start at $30,000, with the most complicated models selling for over $200,000. Waitlists are long, for those lucky enough to buy them. Preowned APs typically sell for 30% or more above retail price since supply is so scarce.
+Resta said that Swiss watch brands that follow the old playbook — relying on their history, older clientele and elitist marketing — face extinction.
+"Either you dare or you die," she said.
+She calls her new strategy "radical openness." The goal is to open the elite world of Swiss watchmaking to a broader, younger audience. Along with the Royal Pop collection, Audemars Piguet is also rolling out AP Labs – pop-up experiences that immerse visitors in the world of mechanical watchmaking. Visitors can play watch-themed games, learn about movements and complications, see watchmakers at work and even try their hand at fastening tiny watch components.
+No watches are sold at AP Labs, Resta said. The purpose is solely education, along with recruiting new watchmakers for an industry that is perpetually short on skilled craftspeople.
+"This is a category that is born and fueled by love, passion and understanding," Resta said. "If you do not understand watchmaking, you will never appreciate a mechanical watch. You will always default to the easiest and cheapest way to tell the time. Telling time is the last reason you buy a mechanical watch. You buy it because you understand the mechanical invention behind it, you appreciate the movement, you appreciate the aesthetics and the meaning of an object that is meant to last forever."
+As one of the few remaining luxury watchmakers that's still private and family-owned, Audemars Piguet doesn't report revenue or profits. Resta said the company recorded organic sales growth of 10% in 2025, mainly driven by more-complicated, higher-priced watches. She said 2026 "will beat that record even further."
+Audemars Piguet is donating all of its proceeds from the Royal Pop collaboration to fund a dedicated initiative to train and educate watchmakers.
+Along with its successes, however, Audemars Piguet also faces new industry pressures. The U.S. has imposed a series of tariffs on Swiss goods over the past year, leading to the current tariff rate of up to 12.5%. Expensive Swiss watches have been hit especially hard. Exports of Swiss watches to the U.S. fell 19% in August, despite growing 9% worldwide, according to the Federation of the Swiss Watch Industry.
+While wealthy watch buyers can easily afford the extra tax, some are preferring to hold off on purchases or deliveries until the tariff is lifted or lowered, industry analysts say. Prices for luxury watch materials, especially gold, have also skyrocketed, adding to production costs. The Swiss franc has strengthened against many currencies over the past year, especially the U.S. dollar, reducing revenue for Swiss companies that sell abroad.
+The combination of tariffs, material prices and currencies have squeezed margins for Swiss watchmakers. Some companies are passing along the higher costs to customers through double-digit price increases. Resta said AP has chosen not to pass along the tariff costs and only impose small price increases to partially offset higher material prices.
+"All of these headwinds I manage in a way that is not punishing to our clients," Resta said. "What I'm after is not the yearly profit results. I am lucky enough to be at the helm of a privately owned company that has a very long time horizon. You want to preserve the relationship with the client, but you also want to preserve the right value of the product you offer."
+Resta said challenging times are exactly when companies need to innovate most. AP is creating a new state-of-the-art service center in Raleigh, North Carolina, to repair and service watches, even as other watchmakers reduce their footprints.
+"I always say, if you change your strategy because you are going through a crisis, it meant you did a lazy job working on your strategy," Resta said. "Strategies should be bulletproof in any crisis."
+A bright spot for demand is tech wealth, with many of the new AI millionaires and billionaires starting to collect luxury watches. Executives and founders in Silicon Valley are searching for hobbies and experiences that are decidedly anti-tech, whether it's wilderness hikes and remote flyfishing, or buying classic cars and mechanical watches.
+"These are two worlds that theoretically should be opposed," Resta said. "The worlds of analog and digital, the hyperconnected and the disconnected, are blending together."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
+    publishedAt: "2026-09-26T10:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "bangkok-roads-submerged-as-flood-disaste-c79291de",
+    title: "Bangkok roads submerged as flood disaster declared",
+    titleJa: "Bangkok roads submerged as flood disaster declared",
+    summaryJa: "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+    bodyOriginal: `Bangkok roads submerged as flood disaster declared
+- Published
+A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.
+People have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.
+Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.
+The rain is expected to continue into Sunday, raising fears that more canals could burst their banks.
+Somkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: "The water keeps coming in. It's hard to go out now. It's like at my waist level now.
+"I cannot go anywhere. I have been closing my shop for two days now."
+She said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.
+Hundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.
+The Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.
+All 50 of Bangkok's districts have been declared emergency zones.
+Chadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.
+He continued: "The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled."
+Related topics
+- Published4 hours ago
+- Published2 days ago`,
+    bodyJa: `Bangkok roads submerged as flood disaster declared
+- Published
+A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.
+People have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.
+Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.
+The rain is expected to continue into Sunday, raising fears that more canals could burst their banks.
+Somkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: "The water keeps coming in. It's hard to go out now. It's like at my waist level now.
+"I cannot go anywhere. I have been closing my shop for two days now."
+She said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.
+Hundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.
+The Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.
+All 50 of Bangkok's districts have been declared emergency zones.
+Chadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.
+He continued: "The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled."
+Related topics
+- Published4 hours ago
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-26T07:21:30+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b19/live/342eea60-b978-11f1-97d9-a9cee45390c5.jpg",
+    readTime: 5,
+  },
+  {
+    id: "chinese-ai-models-surge-in-global-popula-567dca23",
+    title: "Chinese AI models surge in global popularity — and Washington is worried",
+    titleJa: "Chinese AI models surge in global popularity — and Washington is worried",
+    summaryJa: "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026.",
+    bodyOriginal: `AI was a major focus as U.S. President Donald Trump and Chinese President Xi Jinping met this week.
+The most advanced U.S. models lead most benchmarks, but Chinese companies like DeepSeek, Z.ai and Alibaba have released new models with major performance gains in tasks such as coding.
+According to usage data shared with CNBC, the global adoption of Chinese models by companies has increased substantially in 2026.
+Chinese AI models have gone from a relatively small share of usage to a majority on two major developer platforms that provide gateways for companies to access models from different providers. On OpenRouter, they accounted for 57%-67% of tokens used in the week of Sept. 14, up from 6%-13% in February. On Vercel, their share rose to 55% in August from 11% in January.
+OpenRouter's data related to companies in the U.S., Europe and what it defines as the "Global South" — 82 countries across Central and South America, Africa, and Asia. Vercel did not specify its data's geographical breakdown.
+Concern is growing in Washington, where two U.S. House Committees are investigating the impact of rising adoption of Chinese models.
+The U.S. has sought to preserve its AI lead by restricting Chinese AI companies from buying the most advanced chips through export controls.
+Washington is concerned about them accessing Nvidia chips remotely, via overseas data centers, and gaining ground by using "distillation" where new models mimic older, more established ones.
+Chinese AI represents "real economic and security risks for the United States," said Daniel Remler, a senior fellow in the technology and national security program at the Center for a New American Security (CNAS), a think tank.
+"The ultimate concern is that the integration of Chinese AI models pulls countries into a Chinese technology sphere of influence that hardens into geopolitical alignment," he told CNBC.
+Peter Walker, head of insights at OpenRouter, told CNBC, Chinese open source models released this year "can credibly perform in advanced agentic use cases, especially in regards to coding, in a way that was just not true in late 2025."
+They're also "incredibly cost-effective compared to most models from American labs," he added.
+Earlier this week, OpenAI and Anthropic both announced new, cheaper models. Dianne Penn, head of product management, research and labs at Anthropic, told CNBC that the company was trying to make its models answers "more efficient, so it uses less tokens depending on your effort setting."
+Price is key in rising adoption of Chinese models, Harpreet Arora, head of agentic infrastructure at Vercel, told CNBC. "Chinese models are becoming capable enough for more tasks at a much lower cost. Once a model meets the quality bar for the job, that price difference becomes compelling."
+But he added that companies still want to use frontier U.S. models for some more complicated tasks.
+Businesses in what OpenRouter defines as "Global South" have been the biggest users of Chinese AI models on the company's system in recent weeks.
+More than two-thirds — 67% — of the tokens these companies use are on Chinese models. About half the tokens on OpenRouter are used by companies in the U.S.
+"Southeast Asia in particular may see significant uptake of Chinese AI models given the close economic and cultural linkages [with China] plus growing digital infrastructure," said CNAS' Remler.
+"Anywhere from Lagos to São Paulo to Jakarta where entrepreneurs and governments are looking for cheap, open models, will look first to Chinese AI."`,
+    bodyJa: `AI was a major focus as U.S. President Donald Trump and Chinese President Xi Jinping met this week.
+The most advanced U.S. models lead most benchmarks, but Chinese companies like DeepSeek, Z.ai and Alibaba have released new models with major performance gains in tasks such as coding.
+According to usage data shared with CNBC, the global adoption of Chinese models by companies has increased substantially in 2026.
+Chinese AI models have gone from a relatively small share of usage to a majority on two major developer platforms that provide gateways for companies to access models from different providers. On OpenRouter, they accounted for 57%-67% of tokens used in the week of Sept. 14, up from 6%-13% in February. On Vercel, their share rose to 55% in August from 11% in January.
+OpenRouter's data related to companies in the U.S., Europe and what it defines as the "Global South" — 82 countries across Central and South America, Africa, and Asia. Vercel did not specify its data's geographical breakdown.
+Concern is growing in Washington, where two U.S. House Committees are investigating the impact of rising adoption of Chinese models.
+The U.S. has sought to preserve its AI lead by restricting Chinese AI companies from buying the most advanced chips through export controls.
+Washington is concerned about them accessing Nvidia chips remotely, via overseas data centers, and gaining ground by using "distillation" where new models mimic older, more established ones.
+Chinese AI represents "real economic and security risks for the United States," said Daniel Remler, a senior fellow in the technology and national security program at the Center for a New American Security (CNAS), a think tank.
+"The ultimate concern is that the integration of Chinese AI models pulls countries into a Chinese technology sphere of influence that hardens into geopolitical alignment," he told CNBC.
+Peter Walker, head of insights at OpenRouter, told CNBC, Chinese open source models released this year "can credibly perform in advanced agentic use cases, especially in regards to coding, in a way that was just not true in late 2025."
+They're also "incredibly cost-effective compared to most models from American labs," he added.
+Earlier this week, OpenAI and Anthropic both announced new, cheaper models. Dianne Penn, head of product management, research and labs at Anthropic, told CNBC that the company was trying to make its models answers "more efficient, so it uses less tokens depending on your effort setting."
+Price is key in rising adoption of Chinese models, Harpreet Arora, head of agentic infrastructure at Vercel, told CNBC. "Chinese models are becoming capable enough for more tasks at a much lower cost. Once a model meets the quality bar for the job, that price difference becomes compelling."
+But he added that companies still want to use frontier U.S. models for some more complicated tasks.
+Businesses in what OpenRouter defines as "Global South" have been the biggest users of Chinese AI models on the company's system in recent weeks.
+More than two-thirds — 67% — of the tokens these companies use are on Chinese models. About half the tokens on OpenRouter are used by companies in the U.S.
+"Southeast Asia in particular may see significant uptake of Chinese AI models given the close economic and cultural linkages [with China] plus growing digital infrastructure," said CNAS' Remler.
+"Anywhere from Lagos to São Paulo to Jakarta where entrepreneurs and governments are looking for cheap, open models, will look first to Chinese AI."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
+    publishedAt: "2026-09-26T05:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
     id: "iran-offers-us-deal-to-reopen-strait-of-cce10c63",
     title: "Iran offers US deal to reopen Strait of Hormuz in seven days",
     titleJa: "Iran offers US deal to reopen Strait of Hormuz in seven days",
@@ -421,6 +727,100 @@ Related topics
     readTime: 10,
   },
   {
+    id: "here-s-exactly-what-paramount-promised-h-73b458f4",
+    title: "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+    titleJa: "Here's exactly what Paramount promised Hollywood to land WBD — and why some are still skeptical",
+    summaryJa: "Paramount CEO David Ellison's antitrust settlement eased some theatrical concerns, but questions remain about what happens when the five-year agreement ends.",
+    bodyOriginal: `A new movie every 11 days? That's what Paramount's David Ellison is promising after clearing a path this week for his company's acquisition of Warner Bros. Discovery, combining two storied Hollywood studios.
+The CEO's settlement with a group of state attorneys general over antitrust concerns stipulates that the newly minted company will release at least 30 films into theaters in 2027 and 2028 and at least 32 films in 2029, 2030 and 2031.
+Currently, the combined entity has 35 films scheduled to be released next year, according to data from Rentrak.
+But questions remain about what caliber of releases the industry can expect — and what happens after the five-year agreement expires.
+"This is much more complicated than simply asking whether 30 movies is enough," Paul Dergarabedian, head of marketplace trends at Rentrak, told CNBC. "Thirty wide releases would represent a meaningful commitment to theatrical, and I think everyone in exhibition would welcome a robust pipeline of films.
+"But ultimately the proof will be in how those movies perform, how varied the slate is, how consistently they reach theaters and how the combined company executes on those commitments," he said.
+Hollywood has been clamoring for more theatrical titles since the Covid pandemic shuttered theaters and clogged the production pipeline. Ellison's theatrical commitment, which he touted as early as April at the industry's annual CinemaCon event, had garnered approval from the CEOs of the "Big Three" cinema operators — AMC's Adam Aron, Cinemark's Sean Gamble and Regal's Eduardo Acuna — even before Paramount's settlement.
+Cinema United, the lobbying group that represents theater owners, had been staunchly against the merger, but gave its seal of approval this week, saying the agreement with the states "accomplishes many of exhibition's objectives."
+However, not all exhibitors are on board. A number of theater executives, who requested anonymity to speak candidly, told CNBC they remain skeptical.
+Consolidation concerns
+Paramount's settlement includes stipulations about the number of theatrical releases the company must distribute over the next five years, how many of those releases need to be distributed widely and how many need to have a budget of more than $50 million. Paramount agreed to face steep penalties if it fails to meet the thresholds.
+Consolidation among movie studios has traditionally led to fewer film releases, which, in turn, results in lower revenue, particularly for smaller theater chains and independent operators.
+Overall industry dynamics have shifted drastically since Covid disrupted the theatrical space, leading to fewer screens and fewer moviegoers. Some of these woes have been masked by higher movie ticket prices — which are expected to help boost the domestic box office above $10 billion for the first time since the pandemic — but the moviegoing industry is still adapting to new economics.
+Several theater operators told CNBC they were concerned the merger between Paramount and Warner Bros. would not only decrease the number of studios contributing films to the ecosystem, but also decrease competition and give the combined company a more powerful bargaining position when it comes to windowing terms and rental fees.
+While larger exhibitors, which operate hundreds of locations, can weather consolidation, the smaller players have far less leverage.
+Some theater owners also said they fear that Paramount will not be able to sustain its 30-plus theatrical output after the five-year deal, especially as production and marketing costs continue to rise and as Paramount contends with around $79 billion in debt once the merger closes.
+"Of course, I worry about what happens in year six," Rob Lehman, president and chief operating officer at Santikos Theaters, told CNBC. "You know, after the five years is up, does it then drop down to 18 movies a year?"
+Still, Lehman called Paramount's guaranteed number of films "a win for the industry."
+Under the terms of its settlement agreement, if Paramount falls short of its annual quotas, it'll be fined $30 million per film, 90% of which will be paid out to film workers and 10% to the National Association of Attorneys General.
+Though $30 million per film could prove to be a material penalty if Paramount significantly misses the mark, it pales in comparison to the cost of actually making and marketing a film.
+And, "quantity by itself is not enough," Dergarabedian said. "You could say you are going to release 30 movies, or even 100 movies, but those movies still have to connect with audiences. If you had half as many films and every one of them became a major hit, which scenario would you rather have? So ultimately, it is not simply about how many movies are released. It is about having enough movies, released at the right cadence, that audiences actually want to see."
+Next year, the combined Paramount-Warner Bros. slate includes new entries in popular franchises like Sonic, Godzilla, Minecraft, A Quiet Place, Teenage Mutant Ninja Turtles, Lord of the Rings, The Conjuring and the DC superhero universe.
+A packed calendar
+There are also simple logistical questions around 30 films released from one company in a year.
+With 52 weeks on the calendar, that's less than 2 weeks between new releases — not accounting for marquee weekends when the industry typically stacks big premieres.
+A merged Paramount-Warner Bros. could easily cannibalize its own ticket sales if major releases are placed too close to one another.
+Combine that with growing competition for coveted premium large format screens like Imax and Dolby and the schedule looks even trickier.
+At present, the combined slate of Paramount and Warner Bros. for 2027 contains six dates where both studios have a theatrical release planned. There are also pockets on the calendar that have three to five releases stacked up on a weekly basis.
+"From a pure strategy standpoint, it's reasonable to expect release date shifts among the two studios' planned slates," Dergarabedian said. "In some cases, it'll be to avoid overlapping audiences while, in others, it may be to diversify their cadence of box office."
+For example, the combined company currently has nine horror films slated for 2027 and could look to shift dates to allow these features to have longer playability without competing.
+"Hopefully, they put together some great movies and counterprogramming," Lehman said. "Show us the kids' movies, show us the horror movies, show us the high-end action movies."
+The fine print
+Paramount's settlement with the state AGs mandates that at least 20 of the films released by the combined company in each of the first two years after closing have a wide release in more than 2,000 theaters. For the following three years, that increases to at least 21 films.
+"The agreement very specifically stipulates that it only has to be 20 wide releases, which is nothing," said industry analyst David Poland.
+Currently, Paramount is on track to have 14 wide releases in 2026 and Warner Bros. is set for 13, for a total of 27 wide releases between them, according to Rentrak data.
+"The importance of wide releases cannot be overstated," Dergarabedian said. "These are the films that generate the biggest theatrical impact, fill auditoriums, drive concession sales and create the kind of cultural conversation that benefits the entire moviegoing ecosystem."
+Then there is the definition of "tentpole."
+In Hollywood, a tentpole film is one with a high budget that makes enough money between ticket sales and merchandise tie-ins that a studio can fund smaller-budget projects that may not be as profitable.
+For many in the industry, a tentpole feature is one that costs more than $100 million to produce, often exceeding $200 million or $250 million, and that drives significant traffic to movie theaters. Think, the Marvel Cinematic Universe, Universal's recent hit "The Odyssey" or Sony's "Spider-Man: Brand New Day."
+The Paramount settlement, which mandates that at least 20% of the company's annual releases be tentpole films, defines that category as a film with a budget of at least $50 million.
+"A $50 million production budget feels like a relatively low threshold for what we traditionally think of as a tentpole movie," Dergarabedian said. "But at the same time, a $50 million movie can absolutely become a tentpole if it breaks out and becomes a cultural and box office phenomenon."`,
+    bodyJa: `A new movie every 11 days? That's what Paramount's David Ellison is promising after clearing a path this week for his company's acquisition of Warner Bros. Discovery, combining two storied Hollywood studios.
+The CEO's settlement with a group of state attorneys general over antitrust concerns stipulates that the newly minted company will release at least 30 films into theaters in 2027 and 2028 and at least 32 films in 2029, 2030 and 2031.
+Currently, the combined entity has 35 films scheduled to be released next year, according to data from Rentrak.
+But questions remain about what caliber of releases the industry can expect — and what happens after the five-year agreement expires.
+"This is much more complicated than simply asking whether 30 movies is enough," Paul Dergarabedian, head of marketplace trends at Rentrak, told CNBC. "Thirty wide releases would represent a meaningful commitment to theatrical, and I think everyone in exhibition would welcome a robust pipeline of films.
+"But ultimately the proof will be in how those movies perform, how varied the slate is, how consistently they reach theaters and how the combined company executes on those commitments," he said.
+Hollywood has been clamoring for more theatrical titles since the Covid pandemic shuttered theaters and clogged the production pipeline. Ellison's theatrical commitment, which he touted as early as April at the industry's annual CinemaCon event, had garnered approval from the CEOs of the "Big Three" cinema operators — AMC's Adam Aron, Cinemark's Sean Gamble and Regal's Eduardo Acuna — even before Paramount's settlement.
+Cinema United, the lobbying group that represents theater owners, had been staunchly against the merger, but gave its seal of approval this week, saying the agreement with the states "accomplishes many of exhibition's objectives."
+However, not all exhibitors are on board. A number of theater executives, who requested anonymity to speak candidly, told CNBC they remain skeptical.
+Consolidation concerns
+Paramount's settlement includes stipulations about the number of theatrical releases the company must distribute over the next five years, how many of those releases need to be distributed widely and how many need to have a budget of more than $50 million. Paramount agreed to face steep penalties if it fails to meet the thresholds.
+Consolidation among movie studios has traditionally led to fewer film releases, which, in turn, results in lower revenue, particularly for smaller theater chains and independent operators.
+Overall industry dynamics have shifted drastically since Covid disrupted the theatrical space, leading to fewer screens and fewer moviegoers. Some of these woes have been masked by higher movie ticket prices — which are expected to help boost the domestic box office above $10 billion for the first time since the pandemic — but the moviegoing industry is still adapting to new economics.
+Several theater operators told CNBC they were concerned the merger between Paramount and Warner Bros. would not only decrease the number of studios contributing films to the ecosystem, but also decrease competition and give the combined company a more powerful bargaining position when it comes to windowing terms and rental fees.
+While larger exhibitors, which operate hundreds of locations, can weather consolidation, the smaller players have far less leverage.
+Some theater owners also said they fear that Paramount will not be able to sustain its 30-plus theatrical output after the five-year deal, especially as production and marketing costs continue to rise and as Paramount contends with around $79 billion in debt once the merger closes.
+"Of course, I worry about what happens in year six," Rob Lehman, president and chief operating officer at Santikos Theaters, told CNBC. "You know, after the five years is up, does it then drop down to 18 movies a year?"
+Still, Lehman called Paramount's guaranteed number of films "a win for the industry."
+Under the terms of its settlement agreement, if Paramount falls short of its annual quotas, it'll be fined $30 million per film, 90% of which will be paid out to film workers and 10% to the National Association of Attorneys General.
+Though $30 million per film could prove to be a material penalty if Paramount significantly misses the mark, it pales in comparison to the cost of actually making and marketing a film.
+And, "quantity by itself is not enough," Dergarabedian said. "You could say you are going to release 30 movies, or even 100 movies, but those movies still have to connect with audiences. If you had half as many films and every one of them became a major hit, which scenario would you rather have? So ultimately, it is not simply about how many movies are released. It is about having enough movies, released at the right cadence, that audiences actually want to see."
+Next year, the combined Paramount-Warner Bros. slate includes new entries in popular franchises like Sonic, Godzilla, Minecraft, A Quiet Place, Teenage Mutant Ninja Turtles, Lord of the Rings, The Conjuring and the DC superhero universe.
+A packed calendar
+There are also simple logistical questions around 30 films released from one company in a year.
+With 52 weeks on the calendar, that's less than 2 weeks between new releases — not accounting for marquee weekends when the industry typically stacks big premieres.
+A merged Paramount-Warner Bros. could easily cannibalize its own ticket sales if major releases are placed too close to one another.
+Combine that with growing competition for coveted premium large format screens like Imax and Dolby and the schedule looks even trickier.
+At present, the combined slate of Paramount and Warner Bros. for 2027 contains six dates where both studios have a theatrical release planned. There are also pockets on the calendar that have three to five releases stacked up on a weekly basis.
+"From a pure strategy standpoint, it's reasonable to expect release date shifts among the two studios' planned slates," Dergarabedian said. "In some cases, it'll be to avoid overlapping audiences while, in others, it may be to diversify their cadence of box office."
+For example, the combined company currently has nine horror films slated for 2027 and could look to shift dates to allow these features to have longer playability without competing.
+"Hopefully, they put together some great movies and counterprogramming," Lehman said. "Show us the kids' movies, show us the horror movies, show us the high-end action movies."
+The fine print
+Paramount's settlement with the state AGs mandates that at least 20 of the films released by the combined company in each of the first two years after closing have a wide release in more than 2,000 theaters. For the following three years, that increases to at least 21 films.
+"The agreement very specifically stipulates that it only has to be 20 wide releases, which is nothing," said industry analyst David Poland.
+Currently, Paramount is on track to have 14 wide releases in 2026 and Warner Bros. is set for 13, for a total of 27 wide releases between them, according to Rentrak data.
+"The importance of wide releases cannot be overstated," Dergarabedian said. "These are the films that generate the biggest theatrical impact, fill auditoriums, drive concession sales and create the kind of cultural conversation that benefits the entire moviegoing ecosystem."
+Then there is the definition of "tentpole."
+In Hollywood, a tentpole film is one with a high budget that makes enough money between ticket sales and merchandise tie-ins that a studio can fund smaller-budget projects that may not be as profitable.
+For many in the industry, a tentpole feature is one that costs more than $100 million to produce, often exceeding $200 million or $250 million, and that drives significant traffic to movie theaters. Think, the Marvel Cinematic Universe, Universal's recent hit "The Odyssey" or Sony's "Spider-Man: Brand New Day."
+The Paramount settlement, which mandates that at least 20% of the company's annual releases be tentpole films, defines that category as a film with a budget of at least $50 million.
+"A $50 million production budget feels like a relatively low threshold for what we traditionally think of as a tentpole movie," Dergarabedian said. "But at the same time, a $50 million movie can absolutely become a tentpole if it breaks out and becomes a cultural and box office phenomenon."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/25/paramount-hollywood-promises.html",
+    publishedAt: "2026-09-25T22:53:52+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "a-death-cross-is-coming-for-the-dollar-w-431c683a",
     title: "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
     titleJa: "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
@@ -693,6 +1093,128 @@ Earlier this month, Germany blamed Russia for an attempted drone attack on Leipz
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-78794591",
     readTime: 2,
+  },
+  {
+    id: "clubs-seek-legal-advice-over-man-city-ch-3fecdd4b",
+    title: "Clubs seek legal advice over Man City charges compensation",
+    titleJa: "Clubs seek legal advice over Man City charges compensation",
+    summaryJa: "Premier League clubs are seeking legal advice as to whether they would have a compensation claim over the Manchester City 115 charges case.",
+    bodyOriginal: `Clubs seek legal advice over Man City charges compensation
+- Published
+Premier League clubs are seeking legal advice about compensation after Manchester City were found guilty of the vast majority of 115 breaches of financial rules they had been accused of by the Premier League.
+Sanctions on the club are yet to be announced, but repercussions could include a points deduction, expulsion from the Premier League or a huge fine. BBC Sport has been told that the club will appeal.
+The news that City had been found guilty was broken by the Athletic,, external which reported that 114 of the 115 counts were upheld.
+It came 1,327 days after City were charged by the Premier League in February 2023 following a four-year investigation, and 22 months since a hearing by an independent commission concluded.
+No official announcement has been made by the Premier League, which has declined to comment.
+BBC Sport has been told the independent panel has ruled, and the majority of the charges have been upheld.
+Manchester City were accused of a wide-range of rule breaches which centred around claims that they inflated sponsorship revenue from connected companies and made other "off the books" payments to circumvent football's financial rules.
+The seismic decisions have left a huge number of questions about what will happen next, what City's punishment might be and how the current season will be affected.
+And one possibility emerging is that rival Premier League sides may take legal action for compensation, claiming they have been impacted by City's actions.
+A number of sides, prior to Friday's news, had already started seeking advice over whether they would have a case for financial compensation.
+One source, who held a senior executive position at one Premier League club before moving to another, said they expected clubs to submit individual compensation claims against Manchester City.
+However, another leading lawyer told the BBC that process could even be centralised by the league.
+Such a move is not unprecedented. In June, Everton were told they must pay Burnley £35m after they broke profit and sustainability regulations (PSR) over a three-year period.
+Burnley argued the breach impacted their chances of staying in the Premier League, and sought compensation for the losses associated with being relegated.
+Everton have appealed, with sources saying they would "robustly and thoroughly" contest the ruling, but it provides an interesting backdrop to the Manchester City case.
+Meanwhile, it also emerged that:
+Other Premier League clubs have been formally told about the independent panel's decision. A select group of club directors were informed by email and had to sign a non-disclosure agreement before they could read the document, a source told the BBC. It is not yet known when the decision of the panel will be announced officially.
+Manchester City deny wrongdoing but being found guilty on the most serious charges means they could be looking at a points deduction serious enough to relegate them, large fines or even expulsion from the Premier League
+A sanctions hearing will need to take place to decide the punishment. That has not happened yet and could take months.
+An appeal would then take place - and while it is possible the punishment is not made public until after that, there remains the possibility that any sanctions will be communicated before any appeal takes place
+An appeal process could mean the uncertainty surrounding the case continues to cloud the top flight
+It is understood a number of City players do not have relegation release clauses in their contracts in the event of the club losing their Premier League status as a result of any sanctions
+Manchester City declined to comment on whether they had been found guilty, instead providing a statement which read: "Premier League process remains ongoing with significant elements to be completed, and subject to strict confidentiality.
+"The club has diligently respected due process for eight years on the basis that the Premier League board and executive would behave as an independent, impartial and fair-minded regulator, free from partisan influence."
+Man City and the 115 charges - key questions answered
+- Published14 hours ago
+Man City fans face up to reality of guilty verdict
+- Published14 hours ago
+Everton told to pay Burnley £35m over PSR breach
+- Published10 June
+What is the background?
+In February 2023, City were charged with more than 100 breaches of the Premier League's financial rules following a four-year investigation.
+The club was referred to an independent commission over allegations it breached financial rules between 2009 and 2018.
+The hearing began in September 2024 behind closed doors and concluded that December after around 12 weeks.
+The Premier League claimed City breached rules requiring the club to provide "accurate financial information that gives a true and fair view of the club's financial position".
+City strongly denied all charges and have said their case is supported by a "comprehensive body of irrefutable evidence".
+The club won eight trophies in the period covered by the case, including three Premier League titles, three League Cups, one Community Shield and one FA Cup.
+The charges cover the mangerial tenures of Roberto Mancini and Manuel Pellegrini, and the first two years under Pep Guardiola, who left the club after 10 seasons at the end of the 2025-26 campaign.
+A separate case between City and the Premier League was also heard last year.
+In 2024, an independent arbitration panel found against aspects of the league's Associated Party Transaction regulations (APTs) after City launched an arbitration challenge.
+A tribunal held in February 2025 found the Premier League's rules governing sponsorship deals from the period between 2021 and 2024 are "void and unenforceable".
+City and the Premier League reached a settlement in September 2025, with the club accepting the APT rules are valid and binding and both parties agreeing to terminate legal proceedings.
+The rules were formed by the Premier League to prevent clubs from profiting from commercial deals with companies linked to their owners that are deemed above "fair market value".
+What were the 115 charges?
+• 54x Failure to provide accurate financial information 2009-10 to 2017-18.
+• 14x Failure to provide accurate details for player and manager payments from 2009-10 to 2017-18.
+• 5x Failure to comply with Uefa's rules including Financial Fair Play (FFP) 2013-14 to 2017-18.
+• 7x Breaching Premier League's Profitability and Sustainability Rules (PSR) 2015-16 to 2017-18.
+• 35x Failure to co-operate with Premier League investigations December 2018 - Feb 2023.
+There have been suggestions by the Times and football finance expert Kieran Maguire the number of charges is as high as 130. BBC Sport has been unable to verify this.
+Follow Manchester City on BBC Sounds
+Pre-match, post-match and topical City content
+Subscribe and listen for everything you love about City`,
+    bodyJa: `Clubs seek legal advice over Man City charges compensation
+- Published
+Premier League clubs are seeking legal advice about compensation after Manchester City were found guilty of the vast majority of 115 breaches of financial rules they had been accused of by the Premier League.
+Sanctions on the club are yet to be announced, but repercussions could include a points deduction, expulsion from the Premier League or a huge fine. BBC Sport has been told that the club will appeal.
+The news that City had been found guilty was broken by the Athletic,, external which reported that 114 of the 115 counts were upheld.
+It came 1,327 days after City were charged by the Premier League in February 2023 following a four-year investigation, and 22 months since a hearing by an independent commission concluded.
+No official announcement has been made by the Premier League, which has declined to comment.
+BBC Sport has been told the independent panel has ruled, and the majority of the charges have been upheld.
+Manchester City were accused of a wide-range of rule breaches which centred around claims that they inflated sponsorship revenue from connected companies and made other "off the books" payments to circumvent football's financial rules.
+The seismic decisions have left a huge number of questions about what will happen next, what City's punishment might be and how the current season will be affected.
+And one possibility emerging is that rival Premier League sides may take legal action for compensation, claiming they have been impacted by City's actions.
+A number of sides, prior to Friday's news, had already started seeking advice over whether they would have a case for financial compensation.
+One source, who held a senior executive position at one Premier League club before moving to another, said they expected clubs to submit individual compensation claims against Manchester City.
+However, another leading lawyer told the BBC that process could even be centralised by the league.
+Such a move is not unprecedented. In June, Everton were told they must pay Burnley £35m after they broke profit and sustainability regulations (PSR) over a three-year period.
+Burnley argued the breach impacted their chances of staying in the Premier League, and sought compensation for the losses associated with being relegated.
+Everton have appealed, with sources saying they would "robustly and thoroughly" contest the ruling, but it provides an interesting backdrop to the Manchester City case.
+Meanwhile, it also emerged that:
+Other Premier League clubs have been formally told about the independent panel's decision. A select group of club directors were informed by email and had to sign a non-disclosure agreement before they could read the document, a source told the BBC. It is not yet known when the decision of the panel will be announced officially.
+Manchester City deny wrongdoing but being found guilty on the most serious charges means they could be looking at a points deduction serious enough to relegate them, large fines or even expulsion from the Premier League
+A sanctions hearing will need to take place to decide the punishment. That has not happened yet and could take months.
+An appeal would then take place - and while it is possible the punishment is not made public until after that, there remains the possibility that any sanctions will be communicated before any appeal takes place
+An appeal process could mean the uncertainty surrounding the case continues to cloud the top flight
+It is understood a number of City players do not have relegation release clauses in their contracts in the event of the club losing their Premier League status as a result of any sanctions
+Manchester City declined to comment on whether they had been found guilty, instead providing a statement which read: "Premier League process remains ongoing with significant elements to be completed, and subject to strict confidentiality.
+"The club has diligently respected due process for eight years on the basis that the Premier League board and executive would behave as an independent, impartial and fair-minded regulator, free from partisan influence."
+Man City and the 115 charges - key questions answered
+- Published14 hours ago
+Man City fans face up to reality of guilty verdict
+- Published14 hours ago
+Everton told to pay Burnley £35m over PSR breach
+- Published10 June
+What is the background?
+In February 2023, City were charged with more than 100 breaches of the Premier League's financial rules following a four-year investigation.
+The club was referred to an independent commission over allegations it breached financial rules between 2009 and 2018.
+The hearing began in September 2024 behind closed doors and concluded that December after around 12 weeks.
+The Premier League claimed City breached rules requiring the club to provide "accurate financial information that gives a true and fair view of the club's financial position".
+City strongly denied all charges and have said their case is supported by a "comprehensive body of irrefutable evidence".
+The club won eight trophies in the period covered by the case, including three Premier League titles, three League Cups, one Community Shield and one FA Cup.
+The charges cover the mangerial tenures of Roberto Mancini and Manuel Pellegrini, and the first two years under Pep Guardiola, who left the club after 10 seasons at the end of the 2025-26 campaign.
+A separate case between City and the Premier League was also heard last year.
+In 2024, an independent arbitration panel found against aspects of the league's Associated Party Transaction regulations (APTs) after City launched an arbitration challenge.
+A tribunal held in February 2025 found the Premier League's rules governing sponsorship deals from the period between 2021 and 2024 are "void and unenforceable".
+City and the Premier League reached a settlement in September 2025, with the club accepting the APT rules are valid and binding and both parties agreeing to terminate legal proceedings.
+The rules were formed by the Premier League to prevent clubs from profiting from commercial deals with companies linked to their owners that are deemed above "fair market value".
+What were the 115 charges?
+• 54x Failure to provide accurate financial information 2009-10 to 2017-18.
+• 14x Failure to provide accurate details for player and manager payments from 2009-10 to 2017-18.
+• 5x Failure to comply with Uefa's rules including Financial Fair Play (FFP) 2013-14 to 2017-18.
+• 7x Breaching Premier League's Profitability and Sustainability Rules (PSR) 2015-16 to 2017-18.
+• 35x Failure to co-operate with Premier League investigations December 2018 - Feb 2023.
+There have been suggestions by the Times and football finance expert Kieran Maguire the number of charges is as high as 130. BBC Sport has been unable to verify this.
+Follow Manchester City on BBC Sounds
+Pre-match, post-match and topical City content
+Subscribe and listen for everything you love about City`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-25T20:13:53+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/72e11970-b96b-11f1-b55e-350150ef61ab.jpg",
+    readTime: 10,
   },
   {
     id: "man-city-found-guilty-of-breaking-financ-21380120",
@@ -1733,608 +2255,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3125/live/7d6b4f20-b838-11f1-bc1f-3f186ca4140c.jpg",
     readTime: 6,
-  },
-  {
-    id: "oracle-japan-shares-surge-7-after-record-e4e655df",
-    title: "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
-    titleJa: "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent",
-    summaryJa: "Oracle Japan shares surged after the company reported record fiscal first-quarter sales and profits.",
-    bodyOriginal: `Shares of Oracle Corp Japan surged more than 7% Friday after the company reported record fiscal first-quarter sales and profits, as its cloud business posted strong growth.
-The rally in Tokyo stood in contrast to a more than 3% drop in U.S.-listed Oracle shares overnight, after the company sent a "force majeure" notice tied to its New Mexico data center project.
-The Japanese arm said Thursday that net sales for the June-August quarter rose 13% from a year earlier to 74.86 billion yen ($472 million), while operating profit jumped 22.7% to 25.92 billion yen. Net profit climbed 23.2% to 18.25 billion yen.
-Net sales and all profit items hit record highs for a fiscal first quarter, the company said.
-Cloud revenue jumped 31.7% year on year to 25.14 billion yen, increasing its share of total sales to 33.6% from 28.8% a year earlier.
-Oracle Japan said demand for cloud infrastructure had driven usage of its Tokyo and Osaka data centers. The company also said it plans to expand its sovereign cloud offering and strengthen its AI solutions in Japan.
-The company maintained its full-year outlook for sales growth of 6-10%.
-Oracle in 2024 committed more than $8 billion to cloud and AI infrastructure in Japan over a decade, while SoftBank has rolled out sovereign cloud and generative AI services using Oracle technology.`,
-    bodyJa: `Shares of Oracle Corp Japan surged more than 7% Friday after the company reported record fiscal first-quarter sales and profits, as its cloud business posted strong growth.
-The rally in Tokyo stood in contrast to a more than 3% drop in U.S.-listed Oracle shares overnight, after the company sent a "force majeure" notice tied to its New Mexico data center project.
-The Japanese arm said Thursday that net sales for the June-August quarter rose 13% from a year earlier to 74.86 billion yen ($472 million), while operating profit jumped 22.7% to 25.92 billion yen. Net profit climbed 23.2% to 18.25 billion yen.
-Net sales and all profit items hit record highs for a fiscal first quarter, the company said.
-Cloud revenue jumped 31.7% year on year to 25.14 billion yen, increasing its share of total sales to 33.6% from 28.8% a year earlier.
-Oracle Japan said demand for cloud infrastructure had driven usage of its Tokyo and Osaka data centers. The company also said it plans to expand its sovereign cloud offering and strengthen its AI solutions in Japan.
-The company maintained its full-year outlook for sales growth of 6-10%.
-Oracle in 2024 committed more than $8 billion to cloud and AI infrastructure in Japan over a decade, while SoftBank has rolled out sovereign cloud and generative AI services using Oracle technology.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/25/oracle-japan-shares-earnings.html",
-    publishedAt: "2026-09-25T01:56:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "china-s-xi-urges-u-s-to-cooperate-on-ai-8ba6c48f",
-    title: "China's Xi urges U.S. to cooperate on AI",
-    titleJa: "China's Xi urges U.S. to cooperate on AI",
-    summaryJa: "U.S. President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-    bodyOriginal: `BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.
-That's according to a state media readout of the two leaders' meeting in the White House Oval Office Thursday local time.
-"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI," Xi said in Chinese, according to a CNBC translation of the state media readout.
-He noted AI is important to both the U.S. and China. "Both sides have competition. Cooperation, even more so," he said.
-Xi also emphasized that humans should maintain control of the technology, and that AI should support human progress.
-The U.S. has restricted China's ability to access advanced semiconductors for training AI models, and criticized Chinese companies for allegedly taking part in illicit distillation of American AI capabilities.
-Recent incidents have raised fears that increasingly autonomous AI models could make attacks faster and harder to contain.
-Following a meeting with Chinese negotiators in New York, U.S. Treasury Secretary Scott Bessent said earlier this week the two sides had discussed setting up a "U.S.-China AI Dialogue." He said the U.S. proposed introducing an alert system for AI incidents.
-China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.`,
-    bodyJa: `BEIJING — Chinese President Xi Jinping told U.S. President Donald Trump that there is more opportunity for cooperation than competition on artificial intelligence.
-That's according to a state media readout of the two leaders' meeting in the White House Oval Office Thursday local time.
-"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI," Xi said in Chinese, according to a CNBC translation of the state media readout.
-He noted AI is important to both the U.S. and China. "Both sides have competition. Cooperation, even more so," he said.
-Xi also emphasized that humans should maintain control of the technology, and that AI should support human progress.
-The U.S. has restricted China's ability to access advanced semiconductors for training AI models, and criticized Chinese companies for allegedly taking part in illicit distillation of American AI capabilities.
-Recent incidents have raised fears that increasingly autonomous AI models could make attacks faster and harder to contain.
-Following a meeting with Chinese negotiators in New York, U.S. Treasury Secretary Scott Bessent said earlier this week the two sides had discussed setting up a "U.S.-China AI Dialogue." He said the U.S. proposed introducing an alert system for AI incidents.
-China's Commerce Ministry confirmed Thursday that its senior trade negotiators had held their first talks with the U.S. on artificial intelligence.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/25/chinas-xi-urges-us-to-cooperate-on-ai.html",
-    publishedAt: "2026-09-25T01:22:17+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "atlanta-is-getting-pandas-china-s-xi-rev-fb70a251",
-    title: "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-    titleJa: "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-    summaryJa: "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
-    bodyOriginal: `Chinese leader Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive on the opening day of his first state visit to the U.S. in more than a decade.
-Two giant pandas, Ping Ping and Fu Shuang, from a research base in Chengdu will arrive at the Georgia zoo "in the coming days," Xi said. They would be Zoo Atlanta's first pandas since its previous four returned to China in November 2024, when it became the last U.S. zoo to lose its bears.
-The Chinese president made the announcement at the start of his state visit in Washington, where he and President Donald Trump are meeting through Friday on an agenda spanning artificial intelligence, tariffs, critical minerals, Taiwan and the Iran war.
-"The giant panda has been an envoy of friendship between the Chinese and Americans," he said at a White House ceremony.
-China has used pandas as a diplomatic barometer since Mao Zedong sent a pair to Washington's National Zoo following Richard Nixon's 1972 visit, a gift so anticipated that more than a million people came to see the animals in their first year.
-Beijing shifted from gifting pandas outright to leasing them in 1984, and the loans have since tracked the temperature of the relationship — thinning as trade and Taiwan tensions rose, then resuming as San Diego and the Washington DC National Zoo took in new pairs in 2024.
-Pandas on loan to the U.S. have bred 17 cubs, including six in San Diego, four in Washington and seven in Atlanta, according to Chinese state media.
-"Panda diplomacy conveys a message of friendship and goodwill from China," said Wu Xinbo, director of the Center for American Studies at Fudan University. "Americans may not like China, but they will certainly like pandas."
-The gesture would improve the atmosphere between the world's two largest economies and generate positive momentum in bilateral relations, he said.
-Experts have kept expectations muted for a summit likely to yield few major deliverables, even as the leaders' first meeting carries real geopolitical risk.
-"For Beijing, the message is friendship without requiring major policy concessions. For Washington, it's a reminder that even amid intense competition, there is room for visible, people-to-people engagement," said Han Shen Lin, associate professor at NYU Shanghai.
-Xi also said China would invite 100,000 young Americans to study there over the next five years.
-Trump greeted Xi planeside at Joint Base Andrews on Wednesday, a welcome rarely extended to visiting heads of state. It is Xi's first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.`,
-    bodyJa: `Chinese leader Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive on the opening day of his first state visit to the U.S. in more than a decade.
-Two giant pandas, Ping Ping and Fu Shuang, from a research base in Chengdu will arrive at the Georgia zoo "in the coming days," Xi said. They would be Zoo Atlanta's first pandas since its previous four returned to China in November 2024, when it became the last U.S. zoo to lose its bears.
-The Chinese president made the announcement at the start of his state visit in Washington, where he and President Donald Trump are meeting through Friday on an agenda spanning artificial intelligence, tariffs, critical minerals, Taiwan and the Iran war.
-"The giant panda has been an envoy of friendship between the Chinese and Americans," he said at a White House ceremony.
-China has used pandas as a diplomatic barometer since Mao Zedong sent a pair to Washington's National Zoo following Richard Nixon's 1972 visit, a gift so anticipated that more than a million people came to see the animals in their first year.
-Beijing shifted from gifting pandas outright to leasing them in 1984, and the loans have since tracked the temperature of the relationship — thinning as trade and Taiwan tensions rose, then resuming as San Diego and the Washington DC National Zoo took in new pairs in 2024.
-Pandas on loan to the U.S. have bred 17 cubs, including six in San Diego, four in Washington and seven in Atlanta, according to Chinese state media.
-"Panda diplomacy conveys a message of friendship and goodwill from China," said Wu Xinbo, director of the Center for American Studies at Fudan University. "Americans may not like China, but they will certainly like pandas."
-The gesture would improve the atmosphere between the world's two largest economies and generate positive momentum in bilateral relations, he said.
-Experts have kept expectations muted for a summit likely to yield few major deliverables, even as the leaders' first meeting carries real geopolitical risk.
-"For Beijing, the message is friendship without requiring major policy concessions. For Washington, it's a reminder that even amid intense competition, there is room for visible, people-to-people engagement," said Han Shen Lin, associate professor at NYU Shanghai.
-Xi also said China would invite 100,000 young Americans to study there over the next five years.
-Trump greeted Xi planeside at Joint Base Andrews on Wednesday, a welcome rarely extended to visiting heads of state. It is Xi's first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
-    publishedAt: "2026-09-25T01:12:19+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "here-s-who-is-attending-the-trump-xi-sta-b9486453",
-    title: "Here's who is attending the Trump-Xi state dinner",
-    titleJa: "Here's who is attending the Trump-Xi state dinner",
-    summaryJa: "U.S. President Donald Trump hosted a dinner Thursday for Chinese President Xi Jinping.",
-    bodyOriginal: `U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.
-On the Chinese side, the delegation consisted primarily of government officials, accompanying Chinese President Xi Jinping and U.S. President Donald Trump and their wives.
-Talks with Trump have "added new substance" to U.S.-China relations, Xi said in a toast, according to an official translation. Trump gave Xi a statue of a bald eagle.
-The U.S. and Chinese presidential couples were seated with Apple's Tim Cook, Nvidia's Jensen Huang and his wife, Elon Musk and AMD's Lisa Su.
-Meta and OpenAI were among the other major U.S. tech companies represented. Anthropic was not on the list.
-The two-course menu included a silky yellow squash velouté with crispy pancetta, sesame-crusted sea bass served over braised baby bok choy, and a fruit-shaped vanilla cremeux with ice cream made with White House honey.
-Other attendees included members of Trump's extended family, including Melania's father Viktor Knavs.
-Chinese business leaders were previously expected to attend the dinner. Earlier, CNBC reported that someone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join Xi on his trip.
-Xi is making his first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.
-Here's the full list:
-- President Donald J. Trump
-- First Lady Melania Trump
-- President Xi Jinping
-- Madame Peng Liyuan
-- Vice President JD Vance
-- Second Lady Usha Vance
-- Secretary of State Marco Rubio
-- Jeanette Rubio, Spouse of the Secretary of State
-- Chief of Staff Susie Wiles
-- U.S. Ambassador to China David Perdue
-- Bonnie Perdue, Spouse of the U.S. Ambassador to China
-- Secretary of the Treasury Scott Bessent
-- John Freeman, Spouse of the Secretary of the Treasury
-- Secretary of War Pete Hegseth
-- Ambassador Jamieson Greer, United States Trade Representative
-- Marlo Greer, Spouse of Ambassador Greer
-- Cai Qi, CPC Political Bureau Standing Committee Member, Chief of Staff to President Xi
-- Wang Yi, CPC Political Bureau Central Committee Member
-- He Lifeng, CPC Political Bureau Central Committee, Vice Premier of State Council
-- Zheng Shanjie, Chairman of the National Development and Reform Commission
-- Wang Wentao, Minister of Commerce
-- Ma Zhaoxu, Executive Vice Foreign Minister
-- Ambassador Xie Feng, Chinese Ambassador to the United States
-- Hong Lei, Assistant Foreign Minister Director General, Protocol Department
-- Cai Wei, Assistant Foreign Minister Director General, Department of North American and Oceanian Affairs
-- Mao Ning, Director General, Department of Press, Communication and Public Diplomacy, Ministry of Foreign Affairs
-- Zhang Quan, Secretary to Madame Peng
-- Zhang Yongchao, Deputy Director General, Department of North American and Oceanian Affairs, Ministry of Foreign Affairs
-- Tang Fangyu, Director, Central Policy Research Office of the CPC Central Committee
-- Lan Fo'an, Minister of Finance
-- Wang Dan, Wife of Ambassador Xie Feng
-- Zhou Hongxu, Deputy Director, General Office of the CPC Central Committee Director, Central Security Bureau
-- Ms. Ivanka Trump
-- Mr. Eric Trump
-- Ms. Lara Trump
-- Ms. Tiffany Trump
-- Mr. Michael Boulos
-- Mr. Viktor Knavs
-- Ms. Arabella Kushner
-- Jensen Huang, Nvidia, CEO
-- Lori Huang, Spouse of Jensen Huang
-- Mark Zuckerberg, Meta, CEO
-- Dr. Lisa Su, Advanced Micro Devices, CEO
-- Daniel Lin, Spouse of Lisa Su
-- Tim Cook, Chairman of the Board of Apple
-- John F.W. Rogers, Goldman Sachs EVP and Secretary to the Board
-- Lynn Martin, President of the NYSE
-- Linda Mills, President of New York University
-- Eric Yuan, Zoom, CEO
-- Lyu Luhua, Secretary to the President
-- Kelly Ortberg, Boeing, CEO
-- Larry Fink, Blackrock, CEO
-- Stephen Schwarzman, Blackstone, CEO
-- Sam Altman, OpenAI, CEO
-- Greg Brockman, OpenAI, President & Co-Founder
-- Anna Brockman, Wife of Greg Brockman
-- Dr. Miriam Adelson, Las Vegas Sand, Controlling Shareholder
-- Sergey Brin, Google/Alphabet, Co-Founder
-- Gerelyn Gilbert-Soto, Partner of Sergey Brin
-- Satya Nadella, Microsoft, Chairman & CEO
-- Jim Taiclet, Lockheed Martin, Chairman, President & CEO
-- Sundar Pichai, Google, CEO
-- Larry Culp, GE Aerospace, CEO
-- Sanjay Mehrotra, Micron, CEO
-- Cristiano Amon, Qualcomm, CEO
-- Jeff Bezos, Amazon, Chairman
-- Lauren Sanchez-Bezos, Spouse of Jeff Bezos
-- Jeff Yass, TikTok
-- Jamie Dimon, JP Morgan, CEO
-- Michael Dell, Dell, CEO
-- Mary Barra, General Motors, CEO
-- David Solomon, Goldman Sachs, CEO
-- Jane Fraser, Citi, CEO
-- Elon Musk, SpaceX & Tesla, CEO
-- Darren Woods, ExxonMobil, CEO
-- Chief Justice John Roberts, Chief Supreme Court Justice
-- Jane Sullivan Roberts, Chief Supreme Court Justice Spouse
-- Justice Amy Coney Barrett, Supreme Court Justice
-- Jesse Barrett, Supreme Court Justice Spouse
-- Justice Brett Kavanaugh, Supreme Court Justice
-- Ashley Estes Kavanaugh, Spouse of Supreme Court Justice
-- Speaker Mike Johnson, United States House of Representatives, Louisiana
-- Kelly Johnson, Spouse of Speaker Mike Johnson
-- Bret Baier, FOX News, American Journalist and Host
-- Amy Baier, Spouse of Brett Baier
-- Laura Ingraham, FOX News, American Television Presenter
-- Representative Richard McCormick, United States House of Representatives, Georgia
-- Jesse Watters, FOX News Host
-- Emma Watters, Spouse of Jesse Watters
-- David Ellison, Paramount Skydance, CEO
-- Susan Dell, Spouse to Michael Dell
-- Kevin Warsh, Chairman of the Federal Reserve
-- Jane Lauder, Spouse to Kevin Warsh
-- Secretary Howard Lutnick, Secretary of Commerce
-- Allison Lutnick, Spouse to Secretary Lutnick
-- Director John Ratcliffe, Director of the Central Intelligence Agency
-- Michelle Ratcliffe, Spouse to Director Ratcliffe
-- Special Envoy Steve Witkoff, U.S. Special Envoy to Middle East
-- Stephen Miller, Deputy Chief of Staff for Policy and Homeland Security Advisor, Assistant to the President
-- Katie Miller, Spouse of Stephen Miller
-- Dan Scavino, Deputy Chief of Staff, Assistant to the President
-- Erin Scavino, Spouse to Dan Scavino
-- Attorney General Todd Blanche, Attorney General of the United States
-- Kristine Blanche, Spouse to Attorney General Todd Blanche
-- Meredith O'Rourke, The O'Rourke Group
-- Secretary Chris Wright, Secretary of Energy
-- Secretary Robert F. Kennedy, Secretary of Health & Human Services
-- Secretary Linda McMahon, Secretary of Education
-- Secretary Doug Burgum, Secretary of Interior
-- Kathryn Burgum, Spouse to Secretary Burgum
-- Secretary Sean Duffy, Secretary of Transportation
-- Rachel Campos-Duffy, Spouse of Sean Duffy
-- Director Russell Vought, Director of Office of Management & Budget
-- Administrator Lee Zeldin, Administrator of the Environmental Protection Agency
-- Acting Secretary Keith Sonderling, Acting Secretary of Labor
-- Brad Gerstner, Altimeter, CEO
-- Sangeeta Mehrota, Spouse of Sanjay Mehrotra
-- Anthony Barra, Spouse of Mary Barra
-- Kathy Woods, Spouse of Darren Woods
-- Albert Bourla, Pfizer, CEO
-- David Sacks, Co-chair, President's Council of Advisors on Science and Technology
-- Administrator Kelly Loeffler, Small Business Administrator
-- Jeff Sprecher, Spouse of Kelly Loeffler
-- Katie Simpson, Fiancé to Brad Gerstner
-- Representative Jason Smith, United States House of Representatives, Missouri
-- Senator Steven Daines, United States Senator, Montana
-- General Dan Caine, Chairman of the Joint Chiefs of Staff
-- Director Jay Clayton, Director of Office of the Director of National Intelligence
-- Bernard Arnault, LVMH, CEO
-- Alexandre Arnault, Son of Bernard Arnault
-- Ryan McInerey, Visa, CEO
-- Michael Miebach, Mastercard, CEO
-- Sandra Lynn Ellison, Spouse of David Ellison
-- Cheryl Hines, Spouse of Secretary Kennedy
-—CNBC's Hui Jie Lim, David Sucherman and Bria Cousins contributed to this report
-Correction: This story has been updated to remove an incorrect reference to the number of Chinese officials present.`,
-    bodyJa: `U.S. government officials, business leaders and their spouses dominated a list of more than 100 people who will attend a state dinner Thursday, according to a White House press release.
-On the Chinese side, the delegation consisted primarily of government officials, accompanying Chinese President Xi Jinping and U.S. President Donald Trump and their wives.
-Talks with Trump have "added new substance" to U.S.-China relations, Xi said in a toast, according to an official translation. Trump gave Xi a statue of a bald eagle.
-The U.S. and Chinese presidential couples were seated with Apple's Tim Cook, Nvidia's Jensen Huang and his wife, Elon Musk and AMD's Lisa Su.
-Meta and OpenAI were among the other major U.S. tech companies represented. Anthropic was not on the list.
-The two-course menu included a silky yellow squash velouté with crispy pancetta, sesame-crusted sea bass served over braised baby bok choy, and a fruit-shaped vanilla cremeux with ice cream made with White House honey.
-Other attendees included members of Trump's extended family, including Melania's father Viktor Knavs.
-Chinese business leaders were previously expected to attend the dinner. Earlier, CNBC reported that someone briefed about the preparations but who wasn't authorized to speak on the record said they weren't aware of any Chinese companies who have been invited to join Xi on his trip.
-Xi is making his first state visit to the U.S. since Barack Obama's presidency more than a decade ago. He arrived in the U.S. on Wednesday and is scheduled to leave Friday.
-Here's the full list:
-- President Donald J. Trump
-- First Lady Melania Trump
-- President Xi Jinping
-- Madame Peng Liyuan
-- Vice President JD Vance
-- Second Lady Usha Vance
-- Secretary of State Marco Rubio
-- Jeanette Rubio, Spouse of the Secretary of State
-- Chief of Staff Susie Wiles
-- U.S. Ambassador to China David Perdue
-- Bonnie Perdue, Spouse of the U.S. Ambassador to China
-- Secretary of the Treasury Scott Bessent
-- John Freeman, Spouse of the Secretary of the Treasury
-- Secretary of War Pete Hegseth
-- Ambassador Jamieson Greer, United States Trade Representative
-- Marlo Greer, Spouse of Ambassador Greer
-- Cai Qi, CPC Political Bureau Standing Committee Member, Chief of Staff to President Xi
-- Wang Yi, CPC Political Bureau Central Committee Member
-- He Lifeng, CPC Political Bureau Central Committee, Vice Premier of State Council
-- Zheng Shanjie, Chairman of the National Development and Reform Commission
-- Wang Wentao, Minister of Commerce
-- Ma Zhaoxu, Executive Vice Foreign Minister
-- Ambassador Xie Feng, Chinese Ambassador to the United States
-- Hong Lei, Assistant Foreign Minister Director General, Protocol Department
-- Cai Wei, Assistant Foreign Minister Director General, Department of North American and Oceanian Affairs
-- Mao Ning, Director General, Department of Press, Communication and Public Diplomacy, Ministry of Foreign Affairs
-- Zhang Quan, Secretary to Madame Peng
-- Zhang Yongchao, Deputy Director General, Department of North American and Oceanian Affairs, Ministry of Foreign Affairs
-- Tang Fangyu, Director, Central Policy Research Office of the CPC Central Committee
-- Lan Fo'an, Minister of Finance
-- Wang Dan, Wife of Ambassador Xie Feng
-- Zhou Hongxu, Deputy Director, General Office of the CPC Central Committee Director, Central Security Bureau
-- Ms. Ivanka Trump
-- Mr. Eric Trump
-- Ms. Lara Trump
-- Ms. Tiffany Trump
-- Mr. Michael Boulos
-- Mr. Viktor Knavs
-- Ms. Arabella Kushner
-- Jensen Huang, Nvidia, CEO
-- Lori Huang, Spouse of Jensen Huang
-- Mark Zuckerberg, Meta, CEO
-- Dr. Lisa Su, Advanced Micro Devices, CEO
-- Daniel Lin, Spouse of Lisa Su
-- Tim Cook, Chairman of the Board of Apple
-- John F.W. Rogers, Goldman Sachs EVP and Secretary to the Board
-- Lynn Martin, President of the NYSE
-- Linda Mills, President of New York University
-- Eric Yuan, Zoom, CEO
-- Lyu Luhua, Secretary to the President
-- Kelly Ortberg, Boeing, CEO
-- Larry Fink, Blackrock, CEO
-- Stephen Schwarzman, Blackstone, CEO
-- Sam Altman, OpenAI, CEO
-- Greg Brockman, OpenAI, President & Co-Founder
-- Anna Brockman, Wife of Greg Brockman
-- Dr. Miriam Adelson, Las Vegas Sand, Controlling Shareholder
-- Sergey Brin, Google/Alphabet, Co-Founder
-- Gerelyn Gilbert-Soto, Partner of Sergey Brin
-- Satya Nadella, Microsoft, Chairman & CEO
-- Jim Taiclet, Lockheed Martin, Chairman, President & CEO
-- Sundar Pichai, Google, CEO
-- Larry Culp, GE Aerospace, CEO
-- Sanjay Mehrotra, Micron, CEO
-- Cristiano Amon, Qualcomm, CEO
-- Jeff Bezos, Amazon, Chairman
-- Lauren Sanchez-Bezos, Spouse of Jeff Bezos
-- Jeff Yass, TikTok
-- Jamie Dimon, JP Morgan, CEO
-- Michael Dell, Dell, CEO
-- Mary Barra, General Motors, CEO
-- David Solomon, Goldman Sachs, CEO
-- Jane Fraser, Citi, CEO
-- Elon Musk, SpaceX & Tesla, CEO
-- Darren Woods, ExxonMobil, CEO
-- Chief Justice John Roberts, Chief Supreme Court Justice
-- Jane Sullivan Roberts, Chief Supreme Court Justice Spouse
-- Justice Amy Coney Barrett, Supreme Court Justice
-- Jesse Barrett, Supreme Court Justice Spouse
-- Justice Brett Kavanaugh, Supreme Court Justice
-- Ashley Estes Kavanaugh, Spouse of Supreme Court Justice
-- Speaker Mike Johnson, United States House of Representatives, Louisiana
-- Kelly Johnson, Spouse of Speaker Mike Johnson
-- Bret Baier, FOX News, American Journalist and Host
-- Amy Baier, Spouse of Brett Baier
-- Laura Ingraham, FOX News, American Television Presenter
-- Representative Richard McCormick, United States House of Representatives, Georgia
-- Jesse Watters, FOX News Host
-- Emma Watters, Spouse of Jesse Watters
-- David Ellison, Paramount Skydance, CEO
-- Susan Dell, Spouse to Michael Dell
-- Kevin Warsh, Chairman of the Federal Reserve
-- Jane Lauder, Spouse to Kevin Warsh
-- Secretary Howard Lutnick, Secretary of Commerce
-- Allison Lutnick, Spouse to Secretary Lutnick
-- Director John Ratcliffe, Director of the Central Intelligence Agency
-- Michelle Ratcliffe, Spouse to Director Ratcliffe
-- Special Envoy Steve Witkoff, U.S. Special Envoy to Middle East
-- Stephen Miller, Deputy Chief of Staff for Policy and Homeland Security Advisor, Assistant to the President
-- Katie Miller, Spouse of Stephen Miller
-- Dan Scavino, Deputy Chief of Staff, Assistant to the President
-- Erin Scavino, Spouse to Dan Scavino
-- Attorney General Todd Blanche, Attorney General of the United States
-- Kristine Blanche, Spouse to Attorney General Todd Blanche
-- Meredith O'Rourke, The O'Rourke Group
-- Secretary Chris Wright, Secretary of Energy
-- Secretary Robert F. Kennedy, Secretary of Health & Human Services
-- Secretary Linda McMahon, Secretary of Education
-- Secretary Doug Burgum, Secretary of Interior
-- Kathryn Burgum, Spouse to Secretary Burgum
-- Secretary Sean Duffy, Secretary of Transportation
-- Rachel Campos-Duffy, Spouse of Sean Duffy
-- Director Russell Vought, Director of Office of Management & Budget
-- Administrator Lee Zeldin, Administrator of the Environmental Protection Agency
-- Acting Secretary Keith Sonderling, Acting Secretary of Labor
-- Brad Gerstner, Altimeter, CEO
-- Sangeeta Mehrota, Spouse of Sanjay Mehrotra
-- Anthony Barra, Spouse of Mary Barra
-- Kathy Woods, Spouse of Darren Woods
-- Albert Bourla, Pfizer, CEO
-- David Sacks, Co-chair, President's Council of Advisors on Science and Technology
-- Administrator Kelly Loeffler, Small Business Administrator
-- Jeff Sprecher, Spouse of Kelly Loeffler
-- Katie Simpson, Fiancé to Brad Gerstner
-- Representative Jason Smith, United States House of Representatives, Missouri
-- Senator Steven Daines, United States Senator, Montana
-- General Dan Caine, Chairman of the Joint Chiefs of Staff
-- Director Jay Clayton, Director of Office of the Director of National Intelligence
-- Bernard Arnault, LVMH, CEO
-- Alexandre Arnault, Son of Bernard Arnault
-- Ryan McInerey, Visa, CEO
-- Michael Miebach, Mastercard, CEO
-- Sandra Lynn Ellison, Spouse of David Ellison
-- Cheryl Hines, Spouse of Secretary Kennedy
-—CNBC's Hui Jie Lim, David Sucherman and Bria Cousins contributed to this report
-Correction: This story has been updated to remove an incorrect reference to the number of Chinese officials present.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/25/heres-who-is-attending-the-trump-xi-state-dinner.html",
-    publishedAt: "2026-09-25T01:02:40+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "3-things-micron-investors-need-to-watch-c4188a59",
-    title: "3 things Micron investors need to watch as the stakes get higher",
-    titleJa: "3 things Micron investors need to watch as the stakes get higher",
-    summaryJa: "When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.",
-    bodyOriginal: `When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.`,
-    bodyJa: `When Micron reports earnings next week, a Rosenblatt analyst expects to hear about additional customer agreements, rising prices and stock buybacks.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories",
-    publishedAt: "2026-09-24T23:28:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-54177591",
-    readTime: 2,
-  },
-  {
-    id: "x-planes-are-they-needed-in-the-new-era-041d8f44",
-    title: "X-planes: Are they needed in the new era of drones?",
-    titleJa: "X-planes: Are they needed in the new era of drones?",
-    summaryJa: "X-planes: Are they needed in the new era of drones?- Published",
-    bodyOriginal: `X-planes: Are they needed in the new era of drones?
-- Published
-There's a weird and wonderful jet flying over the US. It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he's going.
-This contraption, the X-59, might just be the future of air travel.
-The X-59's owes its eccentric design to the problem of sonic booms. The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.
-Now Nasa is working around that problem using the X-59's elongated snout to flatten supersonic booms into tolerable bumps in the background.
-On top of its bizarre appearance the X-59 boasts a remarkable lineage. It's the latest in a series of experimental Nasa aircraft dating back to 1947 and the first plane to break the sound barrier, the Bell X-1.
-Peter Coen, a 43-year Nasa veteran who manages the programme, explains the thinking behind 80 years of X-planes. "Our approach is to pick small goals we aim to prove with flight data and we construct an airframe for that one task."
-The X-plane philosophy is to "minimise goals, the more goals you have the more expensive it gets." For the X-59 it's about suppressing sonic booms on a budget and nothing else.
-In the case of the X-1, flown through the sound barrier in 1947 by the legendary test pilot Chuck Yeager, Nasa knew a .50 calibre bullet travelled faster than the speed of sound. So the stumpy little aircraft was shaped like a bullet with wings added.
-A mere 20 years later the X-15 rocket plane, a cylinder with tiny wings dropped from a B-52 bomber, flew to 6.7 times the speed of sound (4,520 mph) and the edge of space, paving the way for heat-resistant materials vital to the Space Shuttle.
-Nasa is flying the X-59 in conjunction with community surveys to assess what people think when a supersonic boom is bent by the planes stretched nose and hushed up.
-"We want to figure out what level of boom is acceptable to people on a regular basis," says Coen, who reckons his machine will sound "like a car door being closed across the street" when it flies past Mach 1, around 660mph at airline cruising altitude.
-With its cockpit and ejector seat taken from a T-38 training jet, its landing gear from an F-16 fighter and engine courtesy of the F-18 this jigsaw of an aircraft was assembled by Lockheed Martin for Nasa.
-A camera feeding a screen in front of the pilot relies on instantaneous computer processing to get round the lack of forward vision. It first flew in 2025 and is now breaking the sound barrier over chosen US towns.
-But is there still a place for X-plane projects in a world where relatively cheap drones are being rapidly developed - not least in Ukraine's war against Russia.
-Even Nasa considered an uncrewed X-59. But drones are not always a cheaper option.
-Removing the pilot would have added the cost and complication of certifying a robot jet to fly fast over urban areas.
-Plus the X-59 had to be big enough to resemble an airliner punching through the sound barrier, which in turn allowed space for a cockpit.
-Nasa is no stranger to drone X-planes. The X-48, a scaled down model of an airliner that blends wing and fuselage to create a single lifting body, flew in 2007.
-Small was beautiful for the tiny X-48 with its 20ft wingspan as this kept the programme within budget.
-"It's likely that future X-planes will be uncrewed," says Coen, before adding the vital caveats "unless the technology we're researching relates to piloting or if crewing it is more cost-effective".
-Guy Gratton, professor of Aircraft Test and Evaluation at Cranfield University, gets frustrated at the suggestion crewed test planes have had their day.
-"There's a belief in certain quarters that drones can do everything. In Ukraine they've done amazing things with drones, but if you want to carry people you can't take short-cuts."
-Gratton has tested light aircraft and stresses the importance of a human in the loop. "You lose a huge amount without pilots, you miss lessons a pilot would identify, plus it can take four times as many people on the ground to test a drone."
-Staff monitoring signals from a drone are an indirect cost that keeps some piloted X-planes relatively affordable.
-The UK has flown its own technology testbeds and Chris Yeo was in the pilot's seat of one. The Experimental Aircraft Programme (EAP) flew from Lancashire in 1986 and tried out core systems for the Typhoon fighter.
-Yeo acknowledges the EAP's shared heritage with X-planes. "They all research some facet of flight, and demonstrate the design is working correctly. A lot of people say they can do something, but you only know it works when the design has been tested and certified."
-Forty years on from Yeo's EAP flights a new UK technology demonstrator is taking shape. It is, says Tony Godbold who runs the project for BAE Systems, "the X-plane of our generation".
-This BAE Systems initiative pulls together 100 UK suppliers including Rolls-Royce to test out ideas that might make it into the Global Combat Air Programme (GCAP), a fighter due to fly in the 2030s. The technology demonstrator will borrow engines from the existing Typhoon and fly sometime in 2028.
-This has triggered great excitement in the UK's small community of qualified fast jet test pilots. Almost every one, around 14 of them says Godbold, has already tried out this plane on a flight simulator.
-For many in the aerospace industry, the human element still matters as much as it did in Yeager's day. "You can model a lot on computers and simulators, but the experience of test pilots is when stuff gets real, we only really learn things when we get their feedback," Godbold admits.
-There's a political dimension to such jets too. Godbold says his plane underlines the UK's commitment to GCAP, a joint effort with Italy and Japan. "This proves we are serious in this space."
-- Published3 July
-- Published30 July
-- Published28 July`,
-    bodyJa: `X-planes: Are they needed in the new era of drones?
-- Published
-There's a weird and wonderful jet flying over the US. It has the nose of anteater, parts cannibalised from other planes and a cockpit so far back the pilot depends on a camera to see where he's going.
-This contraption, the X-59, might just be the future of air travel.
-The X-59's owes its eccentric design to the problem of sonic booms. The shockwave created by a jet breaking the sound barrier restricted Concorde to flights over the sea and barred it from lucrative routes across the US.
-Now Nasa is working around that problem using the X-59's elongated snout to flatten supersonic booms into tolerable bumps in the background.
-On top of its bizarre appearance the X-59 boasts a remarkable lineage. It's the latest in a series of experimental Nasa aircraft dating back to 1947 and the first plane to break the sound barrier, the Bell X-1.
-Peter Coen, a 43-year Nasa veteran who manages the programme, explains the thinking behind 80 years of X-planes. "Our approach is to pick small goals we aim to prove with flight data and we construct an airframe for that one task."
-The X-plane philosophy is to "minimise goals, the more goals you have the more expensive it gets." For the X-59 it's about suppressing sonic booms on a budget and nothing else.
-In the case of the X-1, flown through the sound barrier in 1947 by the legendary test pilot Chuck Yeager, Nasa knew a .50 calibre bullet travelled faster than the speed of sound. So the stumpy little aircraft was shaped like a bullet with wings added.
-A mere 20 years later the X-15 rocket plane, a cylinder with tiny wings dropped from a B-52 bomber, flew to 6.7 times the speed of sound (4,520 mph) and the edge of space, paving the way for heat-resistant materials vital to the Space Shuttle.
-Nasa is flying the X-59 in conjunction with community surveys to assess what people think when a supersonic boom is bent by the planes stretched nose and hushed up.
-"We want to figure out what level of boom is acceptable to people on a regular basis," says Coen, who reckons his machine will sound "like a car door being closed across the street" when it flies past Mach 1, around 660mph at airline cruising altitude.
-With its cockpit and ejector seat taken from a T-38 training jet, its landing gear from an F-16 fighter and engine courtesy of the F-18 this jigsaw of an aircraft was assembled by Lockheed Martin for Nasa.
-A camera feeding a screen in front of the pilot relies on instantaneous computer processing to get round the lack of forward vision. It first flew in 2025 and is now breaking the sound barrier over chosen US towns.
-But is there still a place for X-plane projects in a world where relatively cheap drones are being rapidly developed - not least in Ukraine's war against Russia.
-Even Nasa considered an uncrewed X-59. But drones are not always a cheaper option.
-Removing the pilot would have added the cost and complication of certifying a robot jet to fly fast over urban areas.
-Plus the X-59 had to be big enough to resemble an airliner punching through the sound barrier, which in turn allowed space for a cockpit.
-Nasa is no stranger to drone X-planes. The X-48, a scaled down model of an airliner that blends wing and fuselage to create a single lifting body, flew in 2007.
-Small was beautiful for the tiny X-48 with its 20ft wingspan as this kept the programme within budget.
-"It's likely that future X-planes will be uncrewed," says Coen, before adding the vital caveats "unless the technology we're researching relates to piloting or if crewing it is more cost-effective".
-Guy Gratton, professor of Aircraft Test and Evaluation at Cranfield University, gets frustrated at the suggestion crewed test planes have had their day.
-"There's a belief in certain quarters that drones can do everything. In Ukraine they've done amazing things with drones, but if you want to carry people you can't take short-cuts."
-Gratton has tested light aircraft and stresses the importance of a human in the loop. "You lose a huge amount without pilots, you miss lessons a pilot would identify, plus it can take four times as many people on the ground to test a drone."
-Staff monitoring signals from a drone are an indirect cost that keeps some piloted X-planes relatively affordable.
-The UK has flown its own technology testbeds and Chris Yeo was in the pilot's seat of one. The Experimental Aircraft Programme (EAP) flew from Lancashire in 1986 and tried out core systems for the Typhoon fighter.
-Yeo acknowledges the EAP's shared heritage with X-planes. "They all research some facet of flight, and demonstrate the design is working correctly. A lot of people say they can do something, but you only know it works when the design has been tested and certified."
-Forty years on from Yeo's EAP flights a new UK technology demonstrator is taking shape. It is, says Tony Godbold who runs the project for BAE Systems, "the X-plane of our generation".
-This BAE Systems initiative pulls together 100 UK suppliers including Rolls-Royce to test out ideas that might make it into the Global Combat Air Programme (GCAP), a fighter due to fly in the 2030s. The technology demonstrator will borrow engines from the existing Typhoon and fly sometime in 2028.
-This has triggered great excitement in the UK's small community of qualified fast jet test pilots. Almost every one, around 14 of them says Godbold, has already tried out this plane on a flight simulator.
-For many in the aerospace industry, the human element still matters as much as it did in Yeager's day. "You can model a lot on computers and simulators, but the experience of test pilots is when stuff gets real, we only really learn things when we get their feedback," Godbold admits.
-There's a political dimension to such jets too. Godbold says his plane underlines the UK's commitment to GCAP, a joint effort with Italy and Japan. "This proves we are serious in this space."
-- Published3 July
-- Published30 July
-- Published28 July`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-24T23:03:53+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44d0/live/25738d60-97e9-11f1-a7ab-8b30adf0800a.jpg",
-    readTime: 10,
-  },
-  {
-    id: "we-re-all-broke-would-you-chase-a-frien-e54e0f17",
-    title: "'We're all broke': Would you chase a friend for £5?",
-    titleJa: "'We're all broke': Would you chase a friend for £5?",
-    summaryJa: "'We're all broke': Would you chase a friend for £5?- Published",
-    bodyOriginal: `'We're all broke': Would you chase a friend for £5?
-- Published
-You pick up the bill for dinner, pay for the taxi home or grab a friend's coffee with the promise they'll pay you back later, but days go by and the money never arrives.
-At what point do you ask them for it again and how small is too small to chase?
-For some, $5 (£3.70) is worth a reminder, while for others, asking a friend to repay anything under $20 (£15) feels more awkward than simply taking the hit.
-Henry Payne says he's "sent a request for $8.50, but I wouldn't go lower than $8".
-The 21-year-old New Yorker adds that he will chase someone once but "two requests is insane".
-"I would rather swallow the $8.50 than send another request."
-He does admit that he's sometimes the person on the other side of the transaction and can be forgetful himself.
-"For everyone that I haven't sent back money to, I just forgot, feel free to double request me."
-Kaz Jahanbini, 19, says needing to ask to be paid back in the first place can be frustrating.
-"If someone bought me something, I'm immediately paying them back. So then I'm thinking for them, what's the delay?"
-His rule for navigating friendship and finances is to "keep your wallet close but your friends closer".
-His friend Nouria agrees and says as a student "every extra dollar counts" but she would usually only ask for money back from a friend if it was more than $10.
-A recent study, external found that 76% of Gen Z who have fronted money for a group expense, like a trip or event, say they were not fully repaid, and 55% say it created tension or negatively affected a relationship.
-For British student Betsie Brooke-Taylor, 19, the threshold to ask for money back is a fiver as she says "every little helps".
-She sees a cultural difference between the UK and US and even though "we are all broke, I think Americans are a bit more generous".
-Betsie also thinks technology makes settling small debts easier in the US, where payment apps such as Venmo are widely used.
-Venmo lets users send and request money through an app which includes the function of sending a reminder if someone hasn't paid you. In the US, more than 95 million people have a Venmo account, external.
-"In the UK you have to ask for the account number and sort code, and not everyone has that on hand," she says.
-For 19-year-old Annika Violet, the amount she would ask back from a friend depends on whether she's consistently paying for them.
-"I prefer to do something where I get them this time and they get me next time but if I'm consistently paying and you're not, then I will request the $5."
-Unlike many, Annika doesn't find money conversations uncomfortable.
-"I am so confrontational, I do not find it awkward. If you're my friend, you would pay me back."
-Annika's friend Hanako Stepper says she finds it awkward asking for money but wishes she didn't.
-"I've never chased anyone - I'm just sad if I don't get paid back."
-Annika's advice to those who do struggle to ask is to "be brave and bold".
-"If they are going to give you flak about it, maybe it's a sign they are not a good friend."
-How do you ask for money back without making it awkward?
-Money expert Laura Pomfret says many people feel embarrassed about asking to be paid back, and Britons in particular can find it awkward.
-"We're often very British about asking for money back," she says, suggesting people may be worried about being judged as a "cheapskate".
-Her top tips for asking friends to pay up are:
-She adds that you shouldn't convince yourself that a debt is too small to justify asking for it as "if you want the money paid back then the amount shouldn't matter".
-And if the same friend repeatedly fails to pay, Pomfret suggests remembering it the next time you're about to pay for them and think twice.
-Several people the BBC spoke to said the amount itself mattered less when somebody repeatedly failed to pay.
-New York student Ella Feuille, 21, says $15 is roughly the point at which she would consider requesting money.
-If a significant amount was owed, Ella says she would ask around three times before giving up but wouldn't necessarily forget about it.
-"I have friends who I know now it has to go on their card because they're not going to pay me back."
-Her friend Katrina Dimingot agrees and says she much prefers a method where "we don't pay each other back, we just take it in turns to get things for each other".`,
-    bodyJa: `'We're all broke': Would you chase a friend for £5?
-- Published
-You pick up the bill for dinner, pay for the taxi home or grab a friend's coffee with the promise they'll pay you back later, but days go by and the money never arrives.
-At what point do you ask them for it again and how small is too small to chase?
-For some, $5 (£3.70) is worth a reminder, while for others, asking a friend to repay anything under $20 (£15) feels more awkward than simply taking the hit.
-Henry Payne says he's "sent a request for $8.50, but I wouldn't go lower than $8".
-The 21-year-old New Yorker adds that he will chase someone once but "two requests is insane".
-"I would rather swallow the $8.50 than send another request."
-He does admit that he's sometimes the person on the other side of the transaction and can be forgetful himself.
-"For everyone that I haven't sent back money to, I just forgot, feel free to double request me."
-Kaz Jahanbini, 19, says needing to ask to be paid back in the first place can be frustrating.
-"If someone bought me something, I'm immediately paying them back. So then I'm thinking for them, what's the delay?"
-His rule for navigating friendship and finances is to "keep your wallet close but your friends closer".
-His friend Nouria agrees and says as a student "every extra dollar counts" but she would usually only ask for money back from a friend if it was more than $10.
-A recent study, external found that 76% of Gen Z who have fronted money for a group expense, like a trip or event, say they were not fully repaid, and 55% say it created tension or negatively affected a relationship.
-For British student Betsie Brooke-Taylor, 19, the threshold to ask for money back is a fiver as she says "every little helps".
-She sees a cultural difference between the UK and US and even though "we are all broke, I think Americans are a bit more generous".
-Betsie also thinks technology makes settling small debts easier in the US, where payment apps such as Venmo are widely used.
-Venmo lets users send and request money through an app which includes the function of sending a reminder if someone hasn't paid you. In the US, more than 95 million people have a Venmo account, external.
-"In the UK you have to ask for the account number and sort code, and not everyone has that on hand," she says.
-For 19-year-old Annika Violet, the amount she would ask back from a friend depends on whether she's consistently paying for them.
-"I prefer to do something where I get them this time and they get me next time but if I'm consistently paying and you're not, then I will request the $5."
-Unlike many, Annika doesn't find money conversations uncomfortable.
-"I am so confrontational, I do not find it awkward. If you're my friend, you would pay me back."
-Annika's friend Hanako Stepper says she finds it awkward asking for money but wishes she didn't.
-"I've never chased anyone - I'm just sad if I don't get paid back."
-Annika's advice to those who do struggle to ask is to "be brave and bold".
-"If they are going to give you flak about it, maybe it's a sign they are not a good friend."
-How do you ask for money back without making it awkward?
-Money expert Laura Pomfret says many people feel embarrassed about asking to be paid back, and Britons in particular can find it awkward.
-"We're often very British about asking for money back," she says, suggesting people may be worried about being judged as a "cheapskate".
-Her top tips for asking friends to pay up are:
-She adds that you shouldn't convince yourself that a debt is too small to justify asking for it as "if you want the money paid back then the amount shouldn't matter".
-And if the same friend repeatedly fails to pay, Pomfret suggests remembering it the next time you're about to pay for them and think twice.
-Several people the BBC spoke to said the amount itself mattered less when somebody repeatedly failed to pay.
-New York student Ella Feuille, 21, says $15 is roughly the point at which she would consider requesting money.
-If a significant amount was owed, Ella says she would ask around three times before giving up but wouldn't necessarily forget about it.
-"I have friends who I know now it has to go on their card because they're not going to pay me back."
-Her friend Katrina Dimingot agrees and says she much prefers a method where "we don't pay each other back, we just take it in turns to get things for each other".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-24T23:00:45+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
-    readTime: 10,
-  },
-  {
-    id: "why-investors-aren-t-buying-yet-another-2eae9466",
-    title: "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-    titleJa: "Why investors aren’t buying yet another attempt by the Treasury to calm the rattled bond market",
-    summaryJa: "Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.",
-    bodyOriginal: `Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.`,
-    bodyJa: `Back-to-back weak auctions for Treasury notes show that government repurchases haven’t spurred demand for bonds.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories",
-    publishedAt: "2026-09-24T21:23:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-28958175",
-    readTime: 2,
   },
 ];
 
