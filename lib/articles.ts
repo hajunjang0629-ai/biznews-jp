@@ -15,6 +15,58 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "nor-easter-brings-flooding-as-new-york-a-8cd98fce",
+    title: "Nor'easter brings flooding as New York and New Jersey declare emergency",
+    titleJa: "Nor'easter brings flooding as New York and New Jersey declare emergency",
+    summaryJa: "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+    bodyOriginal: `Nor'easter brings flooding as New York and New Jersey declare emergency
+- Published
+Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.
+The so-called nor'easter is bringing "dangerous coastal flooding and beach conditions, strong winds and heavy rainfall" to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.
+States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.
+In Brooklyn, a man was killed by a falling tree, the BBC's US partner CBS News reported.
+The nor'easter has caused widespread power cuts. More than 100,000 households, nearly all in the northeast US, have lost electricity, according to tracker PowerOutage.
+The Federal Aviation Administration recommended air passengers check with airlines about their flight status. More than 2,400 flights have been delayed and another 1,199 grounded, according to FlightAware.
+Saturday's full moon is projected to worsen coastal flooding. Streets and homes were inundated with floodwater in the coastal New Jersey communities of Surf City and Manasquan on Saturday.
+"I urge all New Jerseyans to take this storm seriously, stay alert and follow local guidance," Governor Mikie Sherrill said.
+NWS said in its alert: "Prepare immediately for significant inundation in low-lying areas near the shore, including roads underwater and impacts to homes and businesses."
+In New York, officials are warning of wind gusts of up to 55mph (86km/h) throughout the weekend, leading to downed trees and power lines.
+"Don't travel if you don't have to," NYC Mayor Zohran Mamdani told residents in a video message. "Do not drive or walk through floodwater."
+In the Boston area, the Red Sox moved the last game in their series against the Chicago Cubs to Sunday afternoon in Florida.
+A professional football match between Red Bull New York and St Louis City SC was also cancelled.
+The Global Citizen Festival concert in New York City's Central Park, which was to be headlined by Lauryn Hill, Wyclef Jean and John Legend, will not go ahead.
+Ed Sheeran's Boston concert was also among events called off due to the weather.
+Sheeran's concert at the Gillette Stadium in the Boston area was cancelled for safety reasons, the venue said.
+Related topics
+- Published1 day ago`,
+    bodyJa: `Nor'easter brings flooding as New York and New Jersey declare emergency
+- Published
+Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.
+The so-called nor'easter is bringing "dangerous coastal flooding and beach conditions, strong winds and heavy rainfall" to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.
+States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.
+In Brooklyn, a man was killed by a falling tree, the BBC's US partner CBS News reported.
+The nor'easter has caused widespread power cuts. More than 100,000 households, nearly all in the northeast US, have lost electricity, according to tracker PowerOutage.
+The Federal Aviation Administration recommended air passengers check with airlines about their flight status. More than 2,400 flights have been delayed and another 1,199 grounded, according to FlightAware.
+Saturday's full moon is projected to worsen coastal flooding. Streets and homes were inundated with floodwater in the coastal New Jersey communities of Surf City and Manasquan on Saturday.
+"I urge all New Jerseyans to take this storm seriously, stay alert and follow local guidance," Governor Mikie Sherrill said.
+NWS said in its alert: "Prepare immediately for significant inundation in low-lying areas near the shore, including roads underwater and impacts to homes and businesses."
+In New York, officials are warning of wind gusts of up to 55mph (86km/h) throughout the weekend, leading to downed trees and power lines.
+"Don't travel if you don't have to," NYC Mayor Zohran Mamdani told residents in a video message. "Do not drive or walk through floodwater."
+In the Boston area, the Red Sox moved the last game in their series against the Chicago Cubs to Sunday afternoon in Florida.
+A professional football match between Red Bull New York and St Louis City SC was also cancelled.
+The Global Citizen Festival concert in New York City's Central Park, which was to be headlined by Lauryn Hill, Wyclef Jean and John Legend, will not go ahead.
+Ed Sheeran's Boston concert was also among events called off due to the weather.
+Sheeran's concert at the Gillette Stadium in the Boston area was cancelled for safety reasons, the venue said.
+Related topics
+- Published1 day ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-27T04:23:09+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+    readTime: 6,
+  },
+  {
     id: "trump-says-he-approved-new-fuel-economy-553e0202",
     title: "Trump says he approved new fuel economy standards rolling back Biden-era rules",
     titleJa: "Trump says he approved new fuel economy standards rolling back Biden-era rules",
@@ -75,6 +127,118 @@ There are 2,430 Max aircraft currently in service globally, according to Cirium.
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 6,
+  },
+  {
+    id: "republic-of-ireland-to-wear-black-armban-e1aad8e2",
+    title: "Republic of Ireland to wear black armbands for Israel game",
+    titleJa: "Republic of Ireland to wear black armbands for Israel game",
+    summaryJa: "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+    bodyOriginal: `Republic of Ireland to wear black armbands for Israel game
+- Published
+Republic of Ireland players intend to wear black armbands "in recognition of all lives lost in the [Gaza] conflict" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.
+Football Association of Ireland (FAI) chief executive David Courell confirmed one player has withdrawn from the squad before the match.
+But he added that a vote among the squad produced a "significant majority" in favour of playing.
+As well as the intention to wear black armbands for Sunday's 'away' game against Israel in Debrecen, Courell said the players will make further gestures for the initial game and the return 'home' fixture against Israel next Sunday in Serbia.
+The fixtures have been embroiled in controversy since the two teams were drawn to play each other in Group B3.
+Republic of Ireland players faced calls to withdraw from the games because of the ongoing Israel-Gaza war with a "Stop The Game" campaign - organised by the pressure group Irish Sport for Palestine - gathering pace.
+"One of their requests is to remove their media obligations for the remainder of this window," Courell said at Saturday's delayed news conference.
+"They also have the intention to wear black armbands in recognition of all lives lost in the [Gaza] conflict.
+"There will be elements of the pre-match ceremony not be partaken in by the Republic of Ireland and it is also the intention of the players to make a significant contribution to charitable donation by virtue of both [Israel] match fees and also the fixture against Austria at the Aviva [Stadium in Dublin on Thursday]."
+There appeared to be real doubt on Saturday morning whether the fixture would take place.
+A pre-match news conference with manager Heimir Hallgrimsson and a player, scheduled for 09:15 BST, was postponed just 15 minutes before it was scheduled to start, with reporters informed it would instead take place after the team's training session which was also delayed.
+The players were locked in a meeting back at their hotel after it emerged a player, goalkeeper Gavin Bazunu, withdrew from the game in protest with several other expressing their concerns about fielding.
+About 13:00, players began to filter out of the meeting room, with it then confirmed the news conference would indeed go ahead, back at Nagyerdei Stadion at 14:30, with training to follow.
+More than five hours after the initial news conference was scheduled to begin, Courell - flanked by Hallgrimsson and FAI director of football John Martin - confirmed a players' vote passed by a "significant majority" to play the game.
+"This morning, a player expressed their discomfort at the fixture and indicated their intent to withdraw," Courell said.
+"This new variable required time for the rest of the squad to consider and what proceeded was another four hours of conversations, predominantly among the players, but also at times with coaching staff and the [FAI] executive.
+"There were a lot of positions presented and the association is fully respectful of everyone's right to their respective opinion."
+Later on Saturday, Bazunu posted on social media explaining his decision, one that he said he had "not taken lightly".
+"I am a man of strong faith and try my best to be a person of character and principle, therefore I feel it would be wrong to participate in the upcoming fixtures against Israel," he said.
+"My decision is based purely upon my personal belief that the killing of innocent people is wrong.
+"It is important to note that my stance is not in opposition of the Israel people or the Jewish community but against the atrocities in the region.
+"There are few times when you get a chance in life to stand up for something bigger and I strongly believe that this is one of them."
+Republic of Ireland squad will meet to discuss Israel games
+- Published3 days ago
+'It's a situation you can't win' - Hallgrimsson
+Former Republic of Ireland manager Brian Kerr and ex-international James McClean are among those to have backed calls for a boycott of the fixtures.
+The armed Palestinian group Hamas attacked Israel on 7 October 2023, killing about 1,200 people and taking 251 hostages.
+In response, Israel launched a massive military offensive in Gaza, during which more than 73,000 people have been killed, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the United Nations.
+Hallgrimsson relayed that nobody "can understand the pressure that has been going on these players" and said the lengthy meeting on Saturday stemmed from "a change of mind for one of the players to play the game".
+"All of the rest of the players are training today," he confirmed.
+"The balance [to play] changed with this [withdrawal] and obviously it was an ongoing discussion but we came to a conclusion and the game is going ahead.
+"We will train and there will probably be more discussions tonight and probably tomorrow. It's a unique situation and we are just trying to limit the damage."
+The Republic of Ireland lost their opening Nations League fixture in Kosovo on Thursday, a match overshadowed in the build-up by the Israel games.
+Asked whether the far from ideal preparation for Sunday's game would affect the players, the Irish boss said "we will see".
+"Nobody is comfortable but it's about limiting the damage, both personally and for Irish football, that we need to find some solution on it," Hallgrimsson added.
+"There is no action we do that everyone will agree to, so we need to find a solution to limit the damage for us as a group, for Ireland as a nation and the association for football in Ireland.
+"We don't know the consequences if we don't play the game but a lot of players share a common feeling, so there are two choices and both are tough. It's a situation you can't win."
+A spokesperson for the Irish governement insists any decision regarding the fixtures lie firmly at the door of the FAI and Uefa.
+"The FAI had decided to play the fixtures against Israel in accordance with their obligations as members of Uefa. Following engagement with players today decision stands," they said.
+"The FAI has strongly represented the views of its membership that Israel should be excluded from international football competitions, including bringing a motion to Uefa to this effect last year. The reality is that this motion was not passed by Uefa and that the FAI was obliged to fulfil the fixture."
+'Football has won' - Israel FA's Barzel
+Israel Football Association [IFA] head of communications Shlomi Barzel commended the Republic of Ireland team for confirming they will play, saying "football has won".
+Barzel began Israel's news conference with a statement before requesting questions regarding the game-only were directed towards captain Dor Peretz and head coach Ran Ben-Shimon who remained on script.
+"The separation between football and politics must be maintained, any other approach spell chaos," he said, confirming Israel players intend to shake hands before the game.
+"The Irish football association [FAI] and the national team players did he right thing by recognising this, even if it took a bit longer than it should. Yet, it is better to be late than never.
+"The one who certainly lost today are those who want to intimidate to separate and turn the football pitch into a political arena. Uefa, the IFA [Israel Football and the FAI stood strong together to prevent it."
+Barzel also confirmed the IFA intend to appeal both yellow cards shown to Sayed Abu Farhi in Thursday's 3-1 defeat by Austria.
+Abu Farhi was shown a second yellow for his goal celebration which Barzel insists was not mimicking the firing of a gun, but an "imitation of a snooker player, like the legendary Ken Doherty."`,
+    bodyJa: `Republic of Ireland to wear black armbands for Israel game
+- Published
+Republic of Ireland players intend to wear black armbands "in recognition of all lives lost in the [Gaza] conflict" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.
+Football Association of Ireland (FAI) chief executive David Courell confirmed one player has withdrawn from the squad before the match.
+But he added that a vote among the squad produced a "significant majority" in favour of playing.
+As well as the intention to wear black armbands for Sunday's 'away' game against Israel in Debrecen, Courell said the players will make further gestures for the initial game and the return 'home' fixture against Israel next Sunday in Serbia.
+The fixtures have been embroiled in controversy since the two teams were drawn to play each other in Group B3.
+Republic of Ireland players faced calls to withdraw from the games because of the ongoing Israel-Gaza war with a "Stop The Game" campaign - organised by the pressure group Irish Sport for Palestine - gathering pace.
+"One of their requests is to remove their media obligations for the remainder of this window," Courell said at Saturday's delayed news conference.
+"They also have the intention to wear black armbands in recognition of all lives lost in the [Gaza] conflict.
+"There will be elements of the pre-match ceremony not be partaken in by the Republic of Ireland and it is also the intention of the players to make a significant contribution to charitable donation by virtue of both [Israel] match fees and also the fixture against Austria at the Aviva [Stadium in Dublin on Thursday]."
+There appeared to be real doubt on Saturday morning whether the fixture would take place.
+A pre-match news conference with manager Heimir Hallgrimsson and a player, scheduled for 09:15 BST, was postponed just 15 minutes before it was scheduled to start, with reporters informed it would instead take place after the team's training session which was also delayed.
+The players were locked in a meeting back at their hotel after it emerged a player, goalkeeper Gavin Bazunu, withdrew from the game in protest with several other expressing their concerns about fielding.
+About 13:00, players began to filter out of the meeting room, with it then confirmed the news conference would indeed go ahead, back at Nagyerdei Stadion at 14:30, with training to follow.
+More than five hours after the initial news conference was scheduled to begin, Courell - flanked by Hallgrimsson and FAI director of football John Martin - confirmed a players' vote passed by a "significant majority" to play the game.
+"This morning, a player expressed their discomfort at the fixture and indicated their intent to withdraw," Courell said.
+"This new variable required time for the rest of the squad to consider and what proceeded was another four hours of conversations, predominantly among the players, but also at times with coaching staff and the [FAI] executive.
+"There were a lot of positions presented and the association is fully respectful of everyone's right to their respective opinion."
+Later on Saturday, Bazunu posted on social media explaining his decision, one that he said he had "not taken lightly".
+"I am a man of strong faith and try my best to be a person of character and principle, therefore I feel it would be wrong to participate in the upcoming fixtures against Israel," he said.
+"My decision is based purely upon my personal belief that the killing of innocent people is wrong.
+"It is important to note that my stance is not in opposition of the Israel people or the Jewish community but against the atrocities in the region.
+"There are few times when you get a chance in life to stand up for something bigger and I strongly believe that this is one of them."
+Republic of Ireland squad will meet to discuss Israel games
+- Published3 days ago
+'It's a situation you can't win' - Hallgrimsson
+Former Republic of Ireland manager Brian Kerr and ex-international James McClean are among those to have backed calls for a boycott of the fixtures.
+The armed Palestinian group Hamas attacked Israel on 7 October 2023, killing about 1,200 people and taking 251 hostages.
+In response, Israel launched a massive military offensive in Gaza, during which more than 73,000 people have been killed, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the United Nations.
+Hallgrimsson relayed that nobody "can understand the pressure that has been going on these players" and said the lengthy meeting on Saturday stemmed from "a change of mind for one of the players to play the game".
+"All of the rest of the players are training today," he confirmed.
+"The balance [to play] changed with this [withdrawal] and obviously it was an ongoing discussion but we came to a conclusion and the game is going ahead.
+"We will train and there will probably be more discussions tonight and probably tomorrow. It's a unique situation and we are just trying to limit the damage."
+The Republic of Ireland lost their opening Nations League fixture in Kosovo on Thursday, a match overshadowed in the build-up by the Israel games.
+Asked whether the far from ideal preparation for Sunday's game would affect the players, the Irish boss said "we will see".
+"Nobody is comfortable but it's about limiting the damage, both personally and for Irish football, that we need to find some solution on it," Hallgrimsson added.
+"There is no action we do that everyone will agree to, so we need to find a solution to limit the damage for us as a group, for Ireland as a nation and the association for football in Ireland.
+"We don't know the consequences if we don't play the game but a lot of players share a common feeling, so there are two choices and both are tough. It's a situation you can't win."
+A spokesperson for the Irish governement insists any decision regarding the fixtures lie firmly at the door of the FAI and Uefa.
+"The FAI had decided to play the fixtures against Israel in accordance with their obligations as members of Uefa. Following engagement with players today decision stands," they said.
+"The FAI has strongly represented the views of its membership that Israel should be excluded from international football competitions, including bringing a motion to Uefa to this effect last year. The reality is that this motion was not passed by Uefa and that the FAI was obliged to fulfil the fixture."
+'Football has won' - Israel FA's Barzel
+Israel Football Association [IFA] head of communications Shlomi Barzel commended the Republic of Ireland team for confirming they will play, saying "football has won".
+Barzel began Israel's news conference with a statement before requesting questions regarding the game-only were directed towards captain Dor Peretz and head coach Ran Ben-Shimon who remained on script.
+"The separation between football and politics must be maintained, any other approach spell chaos," he said, confirming Israel players intend to shake hands before the game.
+"The Irish football association [FAI] and the national team players did he right thing by recognising this, even if it took a bit longer than it should. Yet, it is better to be late than never.
+"The one who certainly lost today are those who want to intimidate to separate and turn the football pitch into a political arena. Uefa, the IFA [Israel Football and the FAI stood strong together to prevent it."
+Barzel also confirmed the IFA intend to appeal both yellow cards shown to Sayed Abu Farhi in Thursday's 3-1 defeat by Austria.
+Abu Farhi was shown a second yellow for his goal celebration which Barzel insists was not mimicking the firing of a gun, but an "imitation of a snooker player, like the legendary Ken Doherty."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-26T19:59:00+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg",
+    readTime: 10,
   },
   {
     id: "from-6-eggs-to-50-000-cars-these-charts-7e600e3f",
@@ -183,6 +347,70 @@ WATCH: Apple’s three-part iPhone rollout complicates the demand read`,
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 4,
+  },
+  {
+    id: "german-town-bans-stumbling-stone-memoria-c11f337b",
+    title: "German town bans 'stumbling stone' memorials to Nazi victims",
+    titleJa: "German town bans 'stumbling stone' memorials to Nazi victims",
+    summaryJa: "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
+    bodyOriginal: `German town bans 'stumbling stone' memorials to Nazi victims
+- Published
+There has been a wave of criticism in Germany after the town of Heidenau, near Dresden in Saxony, decided to ban "stumbling stone" memorials to victims of the Nazis.
+Germany's Education Minister Karin Prien told newspaper Bild that the ban was a "scandal".
+Since the 1990s, many towns in countries across Europe, including in Germany and Austria, have embedded small brass plaques in the streets in memory of Jews and other victims of Nazi atrocities.
+The plaques, called Stolpersteine in German, are often placed outside the houses where the victims used to live or work. They are frequently funded by donations.
+But now councillors from the Alternative für Deutschland (AfD) party and the conservative CDU in Heidenau have voted to ban stumbling stones in their town.
+The AfD in Saxony has been classified as extreme-right by German intelligence, a designation the party rejects.
+The motion in the town council said that many citizens felt that this form of commemoration of Nazi victims was inappropriate.
+Memorials should in future be placed at the city's Nordfriedhof cemetery to make it "impossible to step directly onto the memorial elements", the motion stated.
+However, Karin Prien, a member of the CDU, criticised the decision.
+"Anyone who banishes Stolpersteine and memorial sites commemorating Jewish life from public spaces to the cemetery is prioritising death over life and rendering Jewish people invisible once again," she told Bild.
+She said her own CDU party in Saxony also bore responsibility for the decision.
+Charlotte Knobloch, a Holocaust survivor and president of the Jewish Community in Munich, said that removing memorials from the cityscape was "completely the wrong approach".
+She told the Funke Media Group that she was "appalled that a democratic party would stoop to supporting such a transparent manoeuvre by the extremists of the AfD".
+Knobloch said that she was not a supporter of the stumbling stones, but added that "decentralised remembrance – which is not banished from public space but, on the contrary, permeates and shapes it" was crucial to a genuine culture of remembrance.
+In her own city of Munich, there are no Stolpersteine on municipal land. Instead, the city allows memorial plaques on public buildings.
+As the name suggests, Stolpersteine are intended as memorials people stumble upon, making them reflect on the history of their location.
+Gunter Demnig, the artist who initiated the Stolperstein project, said that given the recent electoral successes of the AfD "it was certainly to be expected that something like this would happen".
+The AfD recently secured major victories in state elections in Saxony-Anhalt and Mecklenburg-Vorpommern.
+Some branches of the populist AfD are classed as right-wing extremist by domestic intelligence, a designation the party strongly rejects.
+Its anti-immigration, "Germany first" and Russian-friendly agenda has found fertile ground in the country's former communist east.
+Related topics
+- Published30 May 2022
+- Published7 May
+- Published24 November 2025`,
+    bodyJa: `German town bans 'stumbling stone' memorials to Nazi victims
+- Published
+There has been a wave of criticism in Germany after the town of Heidenau, near Dresden in Saxony, decided to ban "stumbling stone" memorials to victims of the Nazis.
+Germany's Education Minister Karin Prien told newspaper Bild that the ban was a "scandal".
+Since the 1990s, many towns in countries across Europe, including in Germany and Austria, have embedded small brass plaques in the streets in memory of Jews and other victims of Nazi atrocities.
+The plaques, called Stolpersteine in German, are often placed outside the houses where the victims used to live or work. They are frequently funded by donations.
+But now councillors from the Alternative für Deutschland (AfD) party and the conservative CDU in Heidenau have voted to ban stumbling stones in their town.
+The AfD in Saxony has been classified as extreme-right by German intelligence, a designation the party rejects.
+The motion in the town council said that many citizens felt that this form of commemoration of Nazi victims was inappropriate.
+Memorials should in future be placed at the city's Nordfriedhof cemetery to make it "impossible to step directly onto the memorial elements", the motion stated.
+However, Karin Prien, a member of the CDU, criticised the decision.
+"Anyone who banishes Stolpersteine and memorial sites commemorating Jewish life from public spaces to the cemetery is prioritising death over life and rendering Jewish people invisible once again," she told Bild.
+She said her own CDU party in Saxony also bore responsibility for the decision.
+Charlotte Knobloch, a Holocaust survivor and president of the Jewish Community in Munich, said that removing memorials from the cityscape was "completely the wrong approach".
+She told the Funke Media Group that she was "appalled that a democratic party would stoop to supporting such a transparent manoeuvre by the extremists of the AfD".
+Knobloch said that she was not a supporter of the stumbling stones, but added that "decentralised remembrance – which is not banished from public space but, on the contrary, permeates and shapes it" was crucial to a genuine culture of remembrance.
+In her own city of Munich, there are no Stolpersteine on municipal land. Instead, the city allows memorial plaques on public buildings.
+As the name suggests, Stolpersteine are intended as memorials people stumble upon, making them reflect on the history of their location.
+Gunter Demnig, the artist who initiated the Stolperstein project, said that given the recent electoral successes of the AfD "it was certainly to be expected that something like this would happen".
+The AfD recently secured major victories in state elections in Saxony-Anhalt and Mecklenburg-Vorpommern.
+Some branches of the populist AfD are classed as right-wing extremist by domestic intelligence, a designation the party strongly rejects.
+Its anti-immigration, "Germany first" and Russian-friendly agenda has found fertile ground in the country's former communist east.
+Related topics
+- Published30 May 2022
+- Published7 May
+- Published24 November 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-26T15:48:51+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b9/live/73f91880-b9c0-11f1-a430-4d16ee157c41.jpg",
+    readTime: 8,
   },
   {
     id: "tax-free-bond-yields-are-in-a-sweet-spot-27b72f47",
@@ -371,6 +599,132 @@ His paternal grandmother was born in Le Havre in Normandy in 1894. When she marr
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
     readTime: 7,
+  },
+  {
+    id: "berkshire-adds-to-nearly-doubled-stake-i-91398718",
+    title: "Berkshire adds to nearly doubled stake in slumping homebuilder",
+    titleJa: "Berkshire adds to nearly doubled stake in slumping homebuilder",
+    summaryJa: "Berkshire Hathaway has increased its bet on a long-term recovery for the struggling U.S. housing market by nearly doubling its stake in Lennar, the nation's second largest homebuilder, since the beginning of July.",
+    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
+Berkshire reveals nearly doubled stake in slumping homebuilder
+Berkshire Hathaway has increased its bet on a long-term recovery for the struggling U.S. housing market by nearly doubling its stake in Lennar, the nation's second largest homebuilder, since the beginning of July.
+As of late Friday, Berkshire reports owning almost 25.4 million shares of LEN and another 549 thousand of its Class B super-voting shares for a total of 25.9 million shares, currently valued at $2.1 billion.
+That's 10.9% of Lennar's roughly 238 million shares outstanding for both classes.
+And it's a 93% increase from the 13.4 million shares Berkshire owned as of June 30, according to the company's mid-August SEC 13F portfolio snapshot filing for its second quarter.
+Despite the big increase, it's still a medium-to-small sized position by Berkshire standards and is likely the work of portfolio manager Ted Weschler.
+For most of the stocks in its portfolio, we will have to wait until mid-November for the next 13F to find out whether Berkshire was buying or selling during its third quarter ending this coming Wednesday.
+In this case, however, Berkshire had to quickly disclose its stake had hit 10% on September 21 under an SEC rule that defines any holder at or above that trigger as an "insider" potentially able to "change or influence company management and policies."
+The rule also requires that any additional transactions must be disclosed within two business days.
+On Monday, Berkshire reported buying Lennar shares worth $212.4 million between September 17 and September 21.
+Another filing after Friday's closing bell disclosed an additional $136.4 million of purchases Wednesday, Thursday, and Friday.
+Lennar's stock price was up as much as 6.8% in Tuesday's trading after the first filing the night before and held much of it for a four-day gain of 5.2%.
+Berkshire's Q3 buying came as the stock fell 9.2% through Friday's close. It's down 20.1% so far this year.
+Last week, Lennar's quarterly earnings came in below Wall Street's forecast and revenue fell 8%.
+Its forecast for the current quarter was also disappointing, with the CEO telling analysts houses are less affordable and there are fewer qualified buyers with 30-year mortgages hitting 7%.
+CNBC.com quotes CFRA Research analyst Cathy Seifert as saying it's a "classic Berkshire value play."
+She points out Berkshire has a "pretty significant presence" in housing following CEO Greg Abel's $6.8 billion acquisition of Taylor Morrison Home, announced in June. He plans to combine its operations with Berkshire's Clayton Homes.
+Earlier this month, Abel said in a CNBC interview that while he does not see "any type of immediate recovery" for U.S. homebuilders, he expects Taylor Morrison will be a "very strong asset" five to 10 years from now because the "American dream will continue to exist."
+The company's other housing and home improvement subsidiaries include Shaw Industries, Johns Manville, and Benjamin Moore.
+At Barron's, Andrew Bary suggests Berkshire "probably would like to buy all of Lennar," and could afford it at a cost of approximately $25 billion, but may be coming up against Chairman and CEO Stuart Miller's 70% ownership of the company's controlling Class B shares.
+"One issue could be that the Millers think Lennar stock is undervalued-trading for less than half its 2024 high of almost $200 and below book value-and aren't interested in selling even at a premium to the currently depressed price."
+GEICO joining Macy's Thanksgiving Day parade for first time
+The GEICO Gekko and several of the insurer's other advertising characters, including the Caveman and Caleb the "Hump Day" camel, will be featured on a "Road Trip to Parade" float at this year's Macy's Thanksgiving Day Parade, according to a news release this week.
+It is the first time the Berkshire Hathaway subsidiary, which is celebrating its 90th anniversary, has participated in the event.
+The first parade was in 1924, but it was canceled during World War II, so this is the department store's 100th march along the streets of Manhattan.
+Before the parade, the Gecko will headline a 10-week promotional tour from San Francisco to New York, stopping in 12 cities.
+BUFFETT & BERKSHIRE AROUND THE INTERNET
+Some links may require a subscription:
+- Associated Press: Even as trading and markets moved faster, Warren Buffett made patience profitable and cool
+- The Wall Street Journal on MSN: Why Warren Buffett's son Howie, Berkshire's new chairman, is also its guardian
+- Bloomberg Opinion (subscription): Howard Buffett Is the Right Kind of Nepo Baby
+- The Wall Street Journal Markets A.M. Newsletter: You Can't Be Like Warren Buffett—Not Even He Could Again
+- CBS News video (via WBBM Chicago): Some investment lessons from Warren Buffet
+- BNN Bloomberg video: Berkshire Hathaway will 'be able to do things in the future that we just don't foresee yet': Sneddon
+- Yahoo Finance video: Warren Buffett will go down as the 'greatest investor of all time'
+- WMTW-TV (Portland, ME): How Warren Buffett's 'worst deal' became a historic win for the state of Maine
+- The Age (Australia): Warren Buffett just took a big risk with the $1.5 trillion [AU$] giant he built
+BERKSHIRE STOCK WATCH
+Twelve months
+BRK.A stock price: $758,505.68
+BRK.B stock price: $505.48
+BRK.B P/E (TTM): 12.71
+Berkshire market capitalization: $1,082,225,722,347
+Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
+Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
+Berkshire repurchased $4.5 billion of its shares in Q2 2026.
+BERKSHIRE'S TOP EQUITY HOLDINGS - Sep. 25, 2026
+Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
+Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
+- Mitsubishi, which is as of April 30, 2026
+The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
+QUESTIONS OR COMMENTS
+Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
+If you aren't already subscribed to this newsletter, you can sign up here.
+Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
+-- Alex Crippen, Editor, Warren Buffett Watch`,
+    bodyJa: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
+Berkshire reveals nearly doubled stake in slumping homebuilder
+Berkshire Hathaway has increased its bet on a long-term recovery for the struggling U.S. housing market by nearly doubling its stake in Lennar, the nation's second largest homebuilder, since the beginning of July.
+As of late Friday, Berkshire reports owning almost 25.4 million shares of LEN and another 549 thousand of its Class B super-voting shares for a total of 25.9 million shares, currently valued at $2.1 billion.
+That's 10.9% of Lennar's roughly 238 million shares outstanding for both classes.
+And it's a 93% increase from the 13.4 million shares Berkshire owned as of June 30, according to the company's mid-August SEC 13F portfolio snapshot filing for its second quarter.
+Despite the big increase, it's still a medium-to-small sized position by Berkshire standards and is likely the work of portfolio manager Ted Weschler.
+For most of the stocks in its portfolio, we will have to wait until mid-November for the next 13F to find out whether Berkshire was buying or selling during its third quarter ending this coming Wednesday.
+In this case, however, Berkshire had to quickly disclose its stake had hit 10% on September 21 under an SEC rule that defines any holder at or above that trigger as an "insider" potentially able to "change or influence company management and policies."
+The rule also requires that any additional transactions must be disclosed within two business days.
+On Monday, Berkshire reported buying Lennar shares worth $212.4 million between September 17 and September 21.
+Another filing after Friday's closing bell disclosed an additional $136.4 million of purchases Wednesday, Thursday, and Friday.
+Lennar's stock price was up as much as 6.8% in Tuesday's trading after the first filing the night before and held much of it for a four-day gain of 5.2%.
+Berkshire's Q3 buying came as the stock fell 9.2% through Friday's close. It's down 20.1% so far this year.
+Last week, Lennar's quarterly earnings came in below Wall Street's forecast and revenue fell 8%.
+Its forecast for the current quarter was also disappointing, with the CEO telling analysts houses are less affordable and there are fewer qualified buyers with 30-year mortgages hitting 7%.
+CNBC.com quotes CFRA Research analyst Cathy Seifert as saying it's a "classic Berkshire value play."
+She points out Berkshire has a "pretty significant presence" in housing following CEO Greg Abel's $6.8 billion acquisition of Taylor Morrison Home, announced in June. He plans to combine its operations with Berkshire's Clayton Homes.
+Earlier this month, Abel said in a CNBC interview that while he does not see "any type of immediate recovery" for U.S. homebuilders, he expects Taylor Morrison will be a "very strong asset" five to 10 years from now because the "American dream will continue to exist."
+The company's other housing and home improvement subsidiaries include Shaw Industries, Johns Manville, and Benjamin Moore.
+At Barron's, Andrew Bary suggests Berkshire "probably would like to buy all of Lennar," and could afford it at a cost of approximately $25 billion, but may be coming up against Chairman and CEO Stuart Miller's 70% ownership of the company's controlling Class B shares.
+"One issue could be that the Millers think Lennar stock is undervalued-trading for less than half its 2024 high of almost $200 and below book value-and aren't interested in selling even at a premium to the currently depressed price."
+GEICO joining Macy's Thanksgiving Day parade for first time
+The GEICO Gekko and several of the insurer's other advertising characters, including the Caveman and Caleb the "Hump Day" camel, will be featured on a "Road Trip to Parade" float at this year's Macy's Thanksgiving Day Parade, according to a news release this week.
+It is the first time the Berkshire Hathaway subsidiary, which is celebrating its 90th anniversary, has participated in the event.
+The first parade was in 1924, but it was canceled during World War II, so this is the department store's 100th march along the streets of Manhattan.
+Before the parade, the Gecko will headline a 10-week promotional tour from San Francisco to New York, stopping in 12 cities.
+BUFFETT & BERKSHIRE AROUND THE INTERNET
+Some links may require a subscription:
+- Associated Press: Even as trading and markets moved faster, Warren Buffett made patience profitable and cool
+- The Wall Street Journal on MSN: Why Warren Buffett's son Howie, Berkshire's new chairman, is also its guardian
+- Bloomberg Opinion (subscription): Howard Buffett Is the Right Kind of Nepo Baby
+- The Wall Street Journal Markets A.M. Newsletter: You Can't Be Like Warren Buffett—Not Even He Could Again
+- CBS News video (via WBBM Chicago): Some investment lessons from Warren Buffet
+- BNN Bloomberg video: Berkshire Hathaway will 'be able to do things in the future that we just don't foresee yet': Sneddon
+- Yahoo Finance video: Warren Buffett will go down as the 'greatest investor of all time'
+- WMTW-TV (Portland, ME): How Warren Buffett's 'worst deal' became a historic win for the state of Maine
+- The Age (Australia): Warren Buffett just took a big risk with the $1.5 trillion [AU$] giant he built
+BERKSHIRE STOCK WATCH
+Twelve months
+BRK.A stock price: $758,505.68
+BRK.B stock price: $505.48
+BRK.B P/E (TTM): 12.71
+Berkshire market capitalization: $1,082,225,722,347
+Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
+Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
+Berkshire repurchased $4.5 billion of its shares in Q2 2026.
+BERKSHIRE'S TOP EQUITY HOLDINGS - Sep. 25, 2026
+Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
+Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
+- Mitsubishi, which is as of April 30, 2026
+The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
+QUESTIONS OR COMMENTS
+Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
+If you aren't already subscribed to this newsletter, you can sign up here.
+Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
+-- Alex Crippen, Editor, Warren Buffett Watch`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/26/berkshire-adds-to-nearly-doubled-stake-in-slumping-homebuilder.html",
+    publishedAt: "2026-09-26T13:14:15+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
   },
   {
     id: "meta-turned-muse-into-a-viral-hit-now-co-ed0d20c9",
@@ -1763,124 +2117,6 @@ In a Truth Social post Thursday afternoon, Trump railed against the networks for
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
-  },
-  {
-    id: "u-s-appeals-court-upholds-pentagon-desig-7e6a6459",
-    title: "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-    titleJa: "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
-    summaryJa: "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
-    bodyOriginal: `A federal appeals court panel in Washington, D.C., on Friday upheld the Pentagon's blacklisting of Anthropic, dealing a blow to the artificial intelligence company in its months-long battle with the Trump administration.
-The 2-1 decision rejected Anthropic's argument that the Department of Defense's ban on its Claude models was arbitrary, unauthorized and unconstitutional.
-"The Department had ample support for its conclusion that the continued integration of Claude into the Department's information systems, by the Department or its contractors, presented a statutorily covered national-security risk," Judge Gregory Katsas wrote in the majority opinion for the U.S. Court of Appeals for the District of Columbia, which Judge Neomi Rao joined. Katsas and Rao were appointed by President Donald Trump.
-Judge Karen LeCraft Henderson, who was appointed by former President George H.W. Bush, dissented.
-In March, the DOD labeled Anthropic a supply chain risk, meaning the company purportedly threatened U.S. national security, after negotiations about how the military could use its Claude AI models spiraled out of control. The designation prevents the U.S. military from using Anthropic's models and blocks defense contractors from using them in their work with the agency.
-Anthropic's relationship with the Trump administration has been fraught ever since, and Trump has repeatedly slammed company's CEO Dario Amodei on social media. Amodei recently drew Trump's ire by calling for an industry wide slowdown, and he was not invited to the glitzy state dinner the White House hosted for Chinese President Xi Jinping on Thursday.
-"The Trump Administration has stopped AI "people" from doing bad, or potentially bad, "things," like Dario (Anthropic!), who is now pretending to be a "perfect little angel" - and we will continue to do so!," Trump wrote in a post on Truth Social on Monday.
-Anthropic sued the Trump administration in U.S. District Court in San Francisco and in the D.C. Circuit Appeals Court in March, seeking to reverse its blacklisting. The DOD relied on two distinct designations to justify its supply chain risk action, which meant they had to be litigated in two separate courts.
-A San Francisco federal judge ruled last month that one designation was illegal. The ruling Friday by the D.C. appeals court upheld the second designation.
-"We respectfully disagree with the court's decision," an Anthropic spokesperson told CNBC in a statement. "Another federal court has already held the government's parallel designation unlawful. We remain confident in our position and are considering all options, including further review."
-The appellate panel said it would delay the decision from taking immediate effect to give Anthropic time to petition the same panel for a rehearing or to seek an en banc rehearing of the case, by all of the judges on the D.C. Circuit Court of Appeals. Anthropic could also ask the Supreme Court to take the case.
-Before the clash between the two sides spilled into the public's view earlier this year, Anthropic served as an early partner across many U.S. agencies, including the DOD. Anthropic signed a $200 million contract with the Pentagon in July of 2025, but as the company began negotiating Claude's deployment on the DOD's GenAI.mil AI platform that September, talks collapsed.
-The DOD wanted Anthropic to grant the military unfettered access to its models across all lawful purposes, while Anthropic wanted assurance that its technology would not be used for fully autonomous weapons or domestic mass surveillance. They were unable to come to an agreement, and Defense Secretary Pete Hegseth accused Anthropic of attempting to "to seize veto power over the operational decisions of the United States military."
-"The Department reasonably feared that Anthropic might manipulate Claude's design to prevent it from performing national-security functions that the Department deems contractually authorized and necessary," Katsas wrote Friday.
-WATCH: CEOs of OpenAI, Anthropic and Hugging Face to brief UN Security Council`,
-    bodyJa: `A federal appeals court panel in Washington, D.C., on Friday upheld the Pentagon's blacklisting of Anthropic, dealing a blow to the artificial intelligence company in its months-long battle with the Trump administration.
-The 2-1 decision rejected Anthropic's argument that the Department of Defense's ban on its Claude models was arbitrary, unauthorized and unconstitutional.
-"The Department had ample support for its conclusion that the continued integration of Claude into the Department's information systems, by the Department or its contractors, presented a statutorily covered national-security risk," Judge Gregory Katsas wrote in the majority opinion for the U.S. Court of Appeals for the District of Columbia, which Judge Neomi Rao joined. Katsas and Rao were appointed by President Donald Trump.
-Judge Karen LeCraft Henderson, who was appointed by former President George H.W. Bush, dissented.
-In March, the DOD labeled Anthropic a supply chain risk, meaning the company purportedly threatened U.S. national security, after negotiations about how the military could use its Claude AI models spiraled out of control. The designation prevents the U.S. military from using Anthropic's models and blocks defense contractors from using them in their work with the agency.
-Anthropic's relationship with the Trump administration has been fraught ever since, and Trump has repeatedly slammed company's CEO Dario Amodei on social media. Amodei recently drew Trump's ire by calling for an industry wide slowdown, and he was not invited to the glitzy state dinner the White House hosted for Chinese President Xi Jinping on Thursday.
-"The Trump Administration has stopped AI "people" from doing bad, or potentially bad, "things," like Dario (Anthropic!), who is now pretending to be a "perfect little angel" - and we will continue to do so!," Trump wrote in a post on Truth Social on Monday.
-Anthropic sued the Trump administration in U.S. District Court in San Francisco and in the D.C. Circuit Appeals Court in March, seeking to reverse its blacklisting. The DOD relied on two distinct designations to justify its supply chain risk action, which meant they had to be litigated in two separate courts.
-A San Francisco federal judge ruled last month that one designation was illegal. The ruling Friday by the D.C. appeals court upheld the second designation.
-"We respectfully disagree with the court's decision," an Anthropic spokesperson told CNBC in a statement. "Another federal court has already held the government's parallel designation unlawful. We remain confident in our position and are considering all options, including further review."
-The appellate panel said it would delay the decision from taking immediate effect to give Anthropic time to petition the same panel for a rehearing or to seek an en banc rehearing of the case, by all of the judges on the D.C. Circuit Court of Appeals. Anthropic could also ask the Supreme Court to take the case.
-Before the clash between the two sides spilled into the public's view earlier this year, Anthropic served as an early partner across many U.S. agencies, including the DOD. Anthropic signed a $200 million contract with the Pentagon in July of 2025, but as the company began negotiating Claude's deployment on the DOD's GenAI.mil AI platform that September, talks collapsed.
-The DOD wanted Anthropic to grant the military unfettered access to its models across all lawful purposes, while Anthropic wanted assurance that its technology would not be used for fully autonomous weapons or domestic mass surveillance. They were unable to come to an agreement, and Defense Secretary Pete Hegseth accused Anthropic of attempting to "to seize veto power over the operational decisions of the United States military."
-"The Department reasonably feared that Anthropic might manipulate Claude's design to prevent it from performing national-security functions that the Department deems contractually authorized and necessary," Katsas wrote Friday.
-WATCH: CEOs of OpenAI, Anthropic and Hugging Face to brief UN Security Council`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    publishedAt: "2026-09-25T17:01:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "micron-investors-should-get-ready-for-a-ccb6c706",
-    title: "Micron investors should get ready for a seesaw ride, analyst says",
-    titleJa: "Micron investors should get ready for a seesaw ride, analyst says",
-    summaryJa: "The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.",
-    bodyOriginal: `The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.`,
-    bodyJa: `The timing of an Nvidia product ramp may require a balancing act for Micron investors, as some estimated revenue shifts toward next year instead of this year.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
-    publishedAt: "2026-09-25T16:27:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-40268001",
-    readTime: 2,
-  },
-  {
-    id: "details-on-u-s-china-trade-negotiations-763004b0",
-    title: "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-    titleJa: "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-    summaryJa: "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
-    bodyOriginal: `U.S. Trade Representative Jamieson Greer told CNBC on Friday that the U.S. and China have reached agreements covering a subset of goods the two countries can trade on more favorable terms, marking fresh progress in negotiations between the world's two largest economies.
-"We've actually reached agreement with the Chinese on a number of these things," Greer said on CNBC's "Squawk Box," referring to goods including U.S. agricultural products and medical devices and Chinese consumer goods considered nonsensitive.
-Greer said the Trump administration plans to release "a lot more details" Monday about what the two sides have accomplished in negotiations over the past several weeks. He said the goal is to carve out areas of trade that could remain insulated from future tariff measures or broader trade disputes.
-The two countries want some goods to be traded on a "more preferential basis" and potentially left aside if either country imposes new tariffs.
-Greer did not specify Friday which products are covered by the agreements, how tariffs on those goods could change or when the new terms would take effect. Negotiations under the new U.S.-China "Board of Trade" mechanism are focused on "pure trade issues," Greer said, rather than U.S. national security restrictions on advanced technology.
-"All those export controls that are national security issues, we take those off the table," Greer said.
-President Donald Trump and Chinese President Xi Jinping, after they met in Beijing in May, announced the establishment of the Board of Trade to manage trade between the two rivals in nonsensitive products. Businesses have been waiting for more details on what categories of trade would be set aside under the new framework for lower tariffs.
-The news comes as Washington and Beijing have also agreed to extend their broader trade truce by two months, giving the two sides more time to negotiate over long-standing economic disputes.
-Greer said Friday that the U.S. views those two months as "compliance periods" to assess whether China is following through on earlier commitments, including purchases of U.S. soybeans and other agricultural products and access to rare earths needed by American manufacturers.
-"Whenever we have these compliance periods that roll over, it's a time for us to assess, reassess and determine whether or not to continue this period of relative peace on the economic front with the Chinese," Greer said.
-Meanwhile, tariffs have sharply altered U.S. trade flows. Greer said Friday that the U.S. goods trade deficit with China has fallen nearly 40%, while acknowledging that some trade has shifted to other countries as companies adjust their supply chains.
-Mexico has been one beneficiary of that shift. U.S. imports from Mexico reached a record $60.6 billion in July, according to the Census Bureau. The seasonally adjusted U.S. goods deficit with Mexico increased by $7.2 billion that month to $27.5 billion, according to the Census Bureau.
-"When you impose tariffs ... you see market actors starting to do what market actors do, which is respond to new terms of trade, respond to new incentives in the market," Greer said. "We're actually seeing a lot come back to North America."
-Greer's comments also provided new detail from the U.S. side following Trump's meeting with Xi at the White House on Thursday. Beijing has so far released a more detailed public account of the talks than Washington.
-Xi told Trump on Thursday that artificial intelligence presents greater opportunities for U.S.-China cooperation than competition, according to a Chinese state media readout.
-"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI," Xi said, according to a CNBC translation of the readout.
-Trump, in a Truth Social post Friday morning, called the meeting with Xi "very productive" and said the Chinese leader appeared receptive to Trump's preferred term of "SUPER INTELLIGENCE" for artificial intelligence.
-"Tremendous things will be happening," Trump wrote.`,
-    bodyJa: `U.S. Trade Representative Jamieson Greer told CNBC on Friday that the U.S. and China have reached agreements covering a subset of goods the two countries can trade on more favorable terms, marking fresh progress in negotiations between the world's two largest economies.
-"We've actually reached agreement with the Chinese on a number of these things," Greer said on CNBC's "Squawk Box," referring to goods including U.S. agricultural products and medical devices and Chinese consumer goods considered nonsensitive.
-Greer said the Trump administration plans to release "a lot more details" Monday about what the two sides have accomplished in negotiations over the past several weeks. He said the goal is to carve out areas of trade that could remain insulated from future tariff measures or broader trade disputes.
-The two countries want some goods to be traded on a "more preferential basis" and potentially left aside if either country imposes new tariffs.
-Greer did not specify Friday which products are covered by the agreements, how tariffs on those goods could change or when the new terms would take effect. Negotiations under the new U.S.-China "Board of Trade" mechanism are focused on "pure trade issues," Greer said, rather than U.S. national security restrictions on advanced technology.
-"All those export controls that are national security issues, we take those off the table," Greer said.
-President Donald Trump and Chinese President Xi Jinping, after they met in Beijing in May, announced the establishment of the Board of Trade to manage trade between the two rivals in nonsensitive products. Businesses have been waiting for more details on what categories of trade would be set aside under the new framework for lower tariffs.
-The news comes as Washington and Beijing have also agreed to extend their broader trade truce by two months, giving the two sides more time to negotiate over long-standing economic disputes.
-Greer said Friday that the U.S. views those two months as "compliance periods" to assess whether China is following through on earlier commitments, including purchases of U.S. soybeans and other agricultural products and access to rare earths needed by American manufacturers.
-"Whenever we have these compliance periods that roll over, it's a time for us to assess, reassess and determine whether or not to continue this period of relative peace on the economic front with the Chinese," Greer said.
-Meanwhile, tariffs have sharply altered U.S. trade flows. Greer said Friday that the U.S. goods trade deficit with China has fallen nearly 40%, while acknowledging that some trade has shifted to other countries as companies adjust their supply chains.
-Mexico has been one beneficiary of that shift. U.S. imports from Mexico reached a record $60.6 billion in July, according to the Census Bureau. The seasonally adjusted U.S. goods deficit with Mexico increased by $7.2 billion that month to $27.5 billion, according to the Census Bureau.
-"When you impose tariffs ... you see market actors starting to do what market actors do, which is respond to new terms of trade, respond to new incentives in the market," Greer said. "We're actually seeing a lot come back to North America."
-Greer's comments also provided new detail from the U.S. side following Trump's meeting with Xi at the White House on Thursday. Beijing has so far released a more detailed public account of the talks than Washington.
-Xi told Trump on Thursday that artificial intelligence presents greater opportunities for U.S.-China cooperation than competition, according to a Chinese state media readout.
-"The two sides can continue AI dialogue, exchange views on risks and benefits, and together guard against the misuse or malicious use of AI," Xi said, according to a CNBC translation of the readout.
-Trump, in a Truth Social post Friday morning, called the meeting with Xi "very productive" and said the Chinese leader appeared receptive to Trump's preferred term of "SUPER INTELLIGENCE" for artificial intelligence.
-"Tremendous things will be happening," Trump wrote.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
-    publishedAt: "2026-09-25T16:20:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "apple-s-expensive-new-iphones-could-be-a-9a58eef0",
-    title: "Apple’s expensive new iPhones could be a double-edged sword for the company",
-    titleJa: "Apple’s expensive new iPhones could be a double-edged sword for the company",
-    summaryJa: "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
-    bodyOriginal: `Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.`,
-    bodyJa: `Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
-    publishedAt: "2026-09-25T16:11:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-38300245",
-    readTime: 2,
   },
 ];
 
