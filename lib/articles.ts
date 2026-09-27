@@ -15,6 +15,194 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "embattled-serbian-president-resigns-pavi-23e1d1ca",
+    title: "Embattled Serbian president resigns, paving way for early elections",
+    titleJa: "Embattled Serbian president resigns, paving way for early elections",
+    summaryJa: "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+    bodyOriginal: `Embattled Serbian president resigns, paving way for early elections
+- Published
+Serbia's president has resigned after more than a year of student-led protests and growing public discontent over allegations of government corruption.
+Aleksandar Vučić said his administration had preserved peace and stability during his nine-year tenure as he addressed supporters outside the presidential building in the capital, Belgrade.
+He had already announced his intention to resign in June and is currently standing to be his party's candidate for prime minister in the upcoming parliamentary elections. Vučić cannot run for a third presidential term under Serbia's constitution.
+The pro-Russian populist's administration has been dogged by anger over alleged corner-cutting.
+It was the collapse of the Novi Sad railway station's roof, killing 16 people, that first galvanised anger towards the government in 2024.
+Protests involving a wide range of citizens - from students and teachers to workers and farmers - followed.
+Demonstrators believed that the disaster reflected more than a decade of governing by the Progressive Party of Vucic, who closely associated himself with the station's renovation, which was supposed to be a symbol of Serbia's progress.
+A series of resignations of those under the embattled president failed to placate the protesters, who continued to demonstrate throughout this summer, turning to unrest following accusations of police brutality.
+Vučić's presidency was due to expire next year. Under Serbia's constitution, presidential elections must be held no more than three months after his resignation.
+This means Serbians will go to the polls twice before the end of the year.
+Vučić said the presidential election will take place more than a month after the snap parliamentary election in late October, itself called in response to the protests, which had added calls for a vote to their list of demands.
+He had earlier announced that he planned to run in that election as Progressive Party's leader, leaving the possibility he could retain a position at the top of Serbian politics.
+Parliamentary speaker Ana Brnabić, also a Progressive Party member, will assume the role of interim president until a new one is elected.
+Vučić used his constitutional powers to pardon 49 people, including 23 students and party loyalists suspected of offences related to what he called the "terrible events we have gone through over the past year and a half", according to Serbian public broadcaster RTS.
+The upcoming parliamentary elections will pit Vučić's Progressive Party against a student-led, anti-corruption movement called Students Win and a coalition of pro-Western opposition parties known as European Serbia.
+Vucic has been a fixture of Serbian politics for more than a decade, becoming prime minister in 2014, before being elected to his first term as president in 2017.
+He has publicly said he wants Serbia to join the EU while courting close ties with Russia and opening Serbia up to Chinese investment.
+Related topics
+- Published1 November 2025
+- Published29 June 2025
+- Published15 March 2025
+- Published17 August 2025
+- Published29 June 2025`,
+    bodyJa: `Embattled Serbian president resigns, paving way for early elections
+- Published
+Serbia's president has resigned after more than a year of student-led protests and growing public discontent over allegations of government corruption.
+Aleksandar Vučić said his administration had preserved peace and stability during his nine-year tenure as he addressed supporters outside the presidential building in the capital, Belgrade.
+He had already announced his intention to resign in June and is currently standing to be his party's candidate for prime minister in the upcoming parliamentary elections. Vučić cannot run for a third presidential term under Serbia's constitution.
+The pro-Russian populist's administration has been dogged by anger over alleged corner-cutting.
+It was the collapse of the Novi Sad railway station's roof, killing 16 people, that first galvanised anger towards the government in 2024.
+Protests involving a wide range of citizens - from students and teachers to workers and farmers - followed.
+Demonstrators believed that the disaster reflected more than a decade of governing by the Progressive Party of Vucic, who closely associated himself with the station's renovation, which was supposed to be a symbol of Serbia's progress.
+A series of resignations of those under the embattled president failed to placate the protesters, who continued to demonstrate throughout this summer, turning to unrest following accusations of police brutality.
+Vučić's presidency was due to expire next year. Under Serbia's constitution, presidential elections must be held no more than three months after his resignation.
+This means Serbians will go to the polls twice before the end of the year.
+Vučić said the presidential election will take place more than a month after the snap parliamentary election in late October, itself called in response to the protests, which had added calls for a vote to their list of demands.
+He had earlier announced that he planned to run in that election as Progressive Party's leader, leaving the possibility he could retain a position at the top of Serbian politics.
+Parliamentary speaker Ana Brnabić, also a Progressive Party member, will assume the role of interim president until a new one is elected.
+Vučić used his constitutional powers to pardon 49 people, including 23 students and party loyalists suspected of offences related to what he called the "terrible events we have gone through over the past year and a half", according to Serbian public broadcaster RTS.
+The upcoming parliamentary elections will pit Vučić's Progressive Party against a student-led, anti-corruption movement called Students Win and a coalition of pro-Western opposition parties known as European Serbia.
+Vucic has been a fixture of Serbian politics for more than a decade, becoming prime minister in 2014, before being elected to his first term as president in 2017.
+He has publicly said he wants Serbia to join the EU while courting close ties with Russia and opening Serbia up to Chinese investment.
+Related topics
+- Published1 November 2025
+- Published29 June 2025
+- Published15 March 2025
+- Published17 August 2025
+- Published29 June 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-27T20:04:21+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
+    readTime: 8,
+  },
+  {
+    id: "a-death-cross-is-coming-for-the-dollar-w-431c683a",
+    title: "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+    titleJa: "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
+    summaryJa: "Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”",
+    bodyOriginal: `Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”`,
+    bodyJa: `Don’t look now, but there are some technical reasons to believe that U.S. Treasury Secretary Scott Bessent was right when he declared to the financial markets that “I am the house now.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
+    publishedAt: "2026-09-27T19:21:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-01060620",
+    readTime: 2,
+  },
+  {
+    id: "anthropic-ceo-amodei-set-to-meet-with-tr-ac4a9601",
+    title: "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+    titleJa: "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+    summaryJa: "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+    bodyOriginal: `Anthropic CEO Dario Amodei will join President Donald Trump for a private dinner at the White House on Sunday, CNBC confirmed, in what will be the first one-on-one meeting between the two leaders.
+Amodei was noticeably absent from Trump's glitzy state dinner for Chinese President Xi Jinping on Thursday, as other tech bigwigs — OpenAI CEO Sam Altman, SpaceX CEO Elon Musk, Nvidia CEO Jensen Huang and Meta CEO Mark Zuckerberg — were photographed rubbing elbows with government officials. Amodei had a scheduling conflict, so Trump invited him to a private dinner, according to a source familiar with the details who was not authorized to speak publicly.
+The meeting, first reported by Axios, comes at a high-stakes moment for Anthropic, which is gearing up for what's widely expected to be a blockbuster IPO. The company's precarious relationship with the Trump administration has been under strain for much of the last year, so Amodei's sit-down with the president could serve as a valuable opportunity to ease tensions.
+"President Trump has been clear: America will lead the world in Super Intelligence, while protecting American consumers," a White House official said in a statement, in response to CNBC's inquiry about Sunday's dinner. "We will drive innovation, strengthen American competitiveness, and ensure this transformative technology works for the American people."
+Amodei drew Trump's ire earlier this month by publicly urging the AI industry to slow down the pace of advanced model development and better address potential risks. He published a three-step proposal and called for additional government oversight, which angered the president even as it gained the support of other industry leaders like Altman and Musk.
+"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!," Trump wrote in a post on Truth Social. "The Trump Administration has stopped AI 'people' from doing bad, or potentially bad, 'things,' like Dario (Anthropic!), who is now pretending to be a 'perfect little angel' - and we will continue to do so!"
+Amodei was already in a difficult spot with the president, because he supported Kamala Harris in the 2024 presidential election and was a vocal critic of Trump.
+But before Amodei's call for a slowdown rocked the tech sector, Anthropic's relationship with the Trump administration appeared to be on the mend.
+Commerce Secretary Howard Lutnick, who temporarily imposed export controls on two of the company's most advanced models in June, told Axios earlier this month that Anthropic is "back on the right side." He also hosted a fireside chat with Anthropic co-founder Tom Brown at the G20 Innovation Ministerial in North Carolina.
+Brown, who serves as Anthropic's chief compute officer, has taken on a much more active role in interfacing with the Trump administration in recent months. He reportedly led the company's negotiations with the Commerce Department over its export control directive, replacing Amodei in that role.
+"We trust Anthropic," Lutnick said on the sidelines of the event.
+That same day, White House Office of Science and Technology Policy (OSTP) Director Michael Kratsios told CNBC that the administration was "in a good cadence" with Anthropic. He said the company was "open" and actively sharing models with the government as part of Trump's voluntary AI executive order.
+Anthropic has had less success winning over officials at the Department of Defense, however.
+Negotiations between the company and the Pentagon spiraled in February after the two sides failed to agree on how the military could use its models. The DOD wanted Anthropic to grant the military unfettered access to its models across all lawful purposes, while Anthropic wanted assurance that its technology would not be used for fully autonomous weapons or domestic mass surveillance.
+After talks collapsed, the DOD labeled Anthropic a supply chain risk, an unprecedented move that meant the company purportedly threatened U.S. national security. The designation prevents the U.S. military from using Anthropic's models and blocks defense contractors from using them in their work with the agency.
+Anthropic sued the Trump administration in an effort to reverse it's blacklisting, but the company suffered a blow on Friday after a federal appeals court panel in Washington, D.C., upheld the Pentagon's action. The company could still petition for a rehearing, and could also ask the Supreme Court to take the case.
+Emil Michael, the DOD's technology chief, celebrated the ruling in a post on X.
+"The hammer of justice has smashed @AnthropicAI arguments," Michael wrote on Friday. "They are a Supply Chain Risk to the defense industrial base serving the @DeptofWar. Warfighters will sleep better knowing that no private company will insert their opinions in the chain of command. @SecWar was right!"
+Defense Secretary Hegseth accused Anthropic of "duplicity" and argued that the company attempted "to strong-arm the United States military into submission" when negotiations collapsed in February. He reaffirmed that position in a post on X on Friday.
+"Confirmed: @AnthropicAI = Supply Chain Risk," Hegseth wrote. The @DeptofWar does what is right for the Country and our Warriors."
+WATCH: Pres. Trump and Pres. Xi share a toast at state dinner surrounded by U.S. executives`,
+    bodyJa: `Anthropic CEO Dario Amodei will join President Donald Trump for a private dinner at the White House on Sunday, CNBC confirmed, in what will be the first one-on-one meeting between the two leaders.
+Amodei was noticeably absent from Trump's glitzy state dinner for Chinese President Xi Jinping on Thursday, as other tech bigwigs — OpenAI CEO Sam Altman, SpaceX CEO Elon Musk, Nvidia CEO Jensen Huang and Meta CEO Mark Zuckerberg — were photographed rubbing elbows with government officials. Amodei had a scheduling conflict, so Trump invited him to a private dinner, according to a source familiar with the details who was not authorized to speak publicly.
+The meeting, first reported by Axios, comes at a high-stakes moment for Anthropic, which is gearing up for what's widely expected to be a blockbuster IPO. The company's precarious relationship with the Trump administration has been under strain for much of the last year, so Amodei's sit-down with the president could serve as a valuable opportunity to ease tensions.
+"President Trump has been clear: America will lead the world in Super Intelligence, while protecting American consumers," a White House official said in a statement, in response to CNBC's inquiry about Sunday's dinner. "We will drive innovation, strengthen American competitiveness, and ensure this transformative technology works for the American people."
+Amodei drew Trump's ire earlier this month by publicly urging the AI industry to slow down the pace of advanced model development and better address potential risks. He published a three-step proposal and called for additional government oversight, which angered the president even as it gained the support of other industry leaders like Altman and Musk.
+"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!," Trump wrote in a post on Truth Social. "The Trump Administration has stopped AI 'people' from doing bad, or potentially bad, 'things,' like Dario (Anthropic!), who is now pretending to be a 'perfect little angel' - and we will continue to do so!"
+Amodei was already in a difficult spot with the president, because he supported Kamala Harris in the 2024 presidential election and was a vocal critic of Trump.
+But before Amodei's call for a slowdown rocked the tech sector, Anthropic's relationship with the Trump administration appeared to be on the mend.
+Commerce Secretary Howard Lutnick, who temporarily imposed export controls on two of the company's most advanced models in June, told Axios earlier this month that Anthropic is "back on the right side." He also hosted a fireside chat with Anthropic co-founder Tom Brown at the G20 Innovation Ministerial in North Carolina.
+Brown, who serves as Anthropic's chief compute officer, has taken on a much more active role in interfacing with the Trump administration in recent months. He reportedly led the company's negotiations with the Commerce Department over its export control directive, replacing Amodei in that role.
+"We trust Anthropic," Lutnick said on the sidelines of the event.
+That same day, White House Office of Science and Technology Policy (OSTP) Director Michael Kratsios told CNBC that the administration was "in a good cadence" with Anthropic. He said the company was "open" and actively sharing models with the government as part of Trump's voluntary AI executive order.
+Anthropic has had less success winning over officials at the Department of Defense, however.
+Negotiations between the company and the Pentagon spiraled in February after the two sides failed to agree on how the military could use its models. The DOD wanted Anthropic to grant the military unfettered access to its models across all lawful purposes, while Anthropic wanted assurance that its technology would not be used for fully autonomous weapons or domestic mass surveillance.
+After talks collapsed, the DOD labeled Anthropic a supply chain risk, an unprecedented move that meant the company purportedly threatened U.S. national security. The designation prevents the U.S. military from using Anthropic's models and blocks defense contractors from using them in their work with the agency.
+Anthropic sued the Trump administration in an effort to reverse it's blacklisting, but the company suffered a blow on Friday after a federal appeals court panel in Washington, D.C., upheld the Pentagon's action. The company could still petition for a rehearing, and could also ask the Supreme Court to take the case.
+Emil Michael, the DOD's technology chief, celebrated the ruling in a post on X.
+"The hammer of justice has smashed @AnthropicAI arguments," Michael wrote on Friday. "They are a Supply Chain Risk to the defense industrial base serving the @DeptofWar. Warfighters will sleep better knowing that no private company will insert their opinions in the chain of command. @SecWar was right!"
+Defense Secretary Hegseth accused Anthropic of "duplicity" and argued that the company attempted "to strong-arm the United States military into submission" when negotiations collapsed in February. He reaffirmed that position in a post on X on Friday.
+"Confirmed: @AnthropicAI = Supply Chain Risk," Hegseth wrote. The @DeptofWar does what is right for the Country and our Warriors."
+WATCH: Pres. Trump and Pres. Xi share a toast at state dinner surrounded by U.S. executives`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+    publishedAt: "2026-09-27T19:13:27+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "two-bodies-found-after-avalanche-hits-hi-d075c8b9",
+    title: "Two bodies found after avalanche hits Himalayan climbing group",
+    titleJa: "Two bodies found after avalanche hits Himalayan climbing group",
+    summaryJa: "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+    bodyOriginal: `Two bodies found after avalanche hits Himalayan climbing group
+- Published
+Rescuers have recovered two bodies from the site of an avalanche that struck a climbing group camping in the Nepalese part of the Himalayas.
+Around a dozen people are still thought to be missing after a sheet of snow fell on the base camp of Himlung Himal peak on Manang district on Sunday morning.
+The group of Nepalese nationals, including climbers and support staff, had been sent ahead of foreign climbers to prepare the camp and fix ropes.
+Forecasts showed there was heavy snowfall around the 7,126m (23,380ft) peak in recent days, which lies on Nepal's border with Tibet.
+Poor weather has hampered rescue efforts, with helicopters and rescue teams initially unable to reach the site.
+Bibhuti Chand Thakur, of Himalaya Holidays Trekking, told news agency AFP that at least eight members of his expedition team had been reported missing. The exact number of climbers still unaccounted for remains unclear.
+A rescue team consisting of experienced mountaineers was rushed from the Nepalese capital, Kathmandu, via helicopter.
+That effort is now expected to continue on Monday due to the thick snow and bad weather, local media report.
+The Nepalese team had been sent ahead of foreign climbers to prepare the camp, manage the route and fix ropes on the mountain.
+Nepal's mountain districts have seen persistent rain and snow in recent days, creating treacherous conditions for the country's economically important climbing tourism industry.
+Climbers were forced to leave Mount Manaslu, the eighth highest peak in the world, earlier this week due to the rising threat of avalanches.
+The latest death of Nepalese climbers comes less than two months after six lost their lives on Broad Peak in Pakistan, including renowned British-Nepalese mountaineer Nirmal Purja.
+It also comes as efforts to recover bodies continues on the Nepal-Tibet border, where more than 6,000 people are still missing after a massive flood and landslide in August.
+More than 1,400 people are confirmed to have died after a glacial collapse in the Himalayas sent vast quantities of water and debris careering down the Trishuli River valley, sweeping away settlements.
+Extreme weather events have also affected other parts of Asia in the past week.
+Extreme weather in the neighbouring Indian region of Uttar Pradesh has killed more than 50 people, officials there said.
+Meanwhile, a flood emergency disaster has been declared across Bangkok because of heavy rainfall since Thursday, with people being urged to stay at home or move to higher floors.
+Earlier this week, a deadly typhoon that battered Tokyo, triggering landslides in neighbouring prefectures that killed four people.
+Typhoon Dujuan was the latest in a series of storms in the Pacific, made more intense by the "super El Niño", an area of warmer sea water that facilitates the formation of powerful storms.
+Related topics
+- Published17 September`,
+    bodyJa: `Two bodies found after avalanche hits Himalayan climbing group
+- Published
+Rescuers have recovered two bodies from the site of an avalanche that struck a climbing group camping in the Nepalese part of the Himalayas.
+Around a dozen people are still thought to be missing after a sheet of snow fell on the base camp of Himlung Himal peak on Manang district on Sunday morning.
+The group of Nepalese nationals, including climbers and support staff, had been sent ahead of foreign climbers to prepare the camp and fix ropes.
+Forecasts showed there was heavy snowfall around the 7,126m (23,380ft) peak in recent days, which lies on Nepal's border with Tibet.
+Poor weather has hampered rescue efforts, with helicopters and rescue teams initially unable to reach the site.
+Bibhuti Chand Thakur, of Himalaya Holidays Trekking, told news agency AFP that at least eight members of his expedition team had been reported missing. The exact number of climbers still unaccounted for remains unclear.
+A rescue team consisting of experienced mountaineers was rushed from the Nepalese capital, Kathmandu, via helicopter.
+That effort is now expected to continue on Monday due to the thick snow and bad weather, local media report.
+The Nepalese team had been sent ahead of foreign climbers to prepare the camp, manage the route and fix ropes on the mountain.
+Nepal's mountain districts have seen persistent rain and snow in recent days, creating treacherous conditions for the country's economically important climbing tourism industry.
+Climbers were forced to leave Mount Manaslu, the eighth highest peak in the world, earlier this week due to the rising threat of avalanches.
+The latest death of Nepalese climbers comes less than two months after six lost their lives on Broad Peak in Pakistan, including renowned British-Nepalese mountaineer Nirmal Purja.
+It also comes as efforts to recover bodies continues on the Nepal-Tibet border, where more than 6,000 people are still missing after a massive flood and landslide in August.
+More than 1,400 people are confirmed to have died after a glacial collapse in the Himalayas sent vast quantities of water and debris careering down the Trishuli River valley, sweeping away settlements.
+Extreme weather events have also affected other parts of Asia in the past week.
+Extreme weather in the neighbouring Indian region of Uttar Pradesh has killed more than 50 people, officials there said.
+Meanwhile, a flood emergency disaster has been declared across Bangkok because of heavy rainfall since Thursday, with people being urged to stay at home or move to higher floors.
+Earlier this week, a deadly typhoon that battered Tokyo, triggering landslides in neighbouring prefectures that killed four people.
+Typhoon Dujuan was the latest in a series of storms in the Pacific, made more intense by the "super El Niño", an area of warmer sea water that facilitates the formation of powerful storms.
+Related topics
+- Published17 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-27T17:05:26+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f6/live/f8a40890-ba6c-11f1-a109-c7409015a263.jpg",
+    readTime: 7,
+  },
+  {
     id: "social-security-overpaid-my-82-year-old-da2c161c",
     title: "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
     titleJa: "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
@@ -89,6 +277,20 @@ WTI is up nearly 61% year to date, while Brent crude is more than 71% higher ove
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 10,
+  },
+  {
+    id: "my-husband-and-i-are-in-our-50s-and-have-eda0d7ac",
+    title: "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+    titleJa: "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+    summaryJa: "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+    bodyOriginal: `“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”`,
+    bodyJa: `“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+    publishedAt: "2026-09-27T16:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-79889315",
+    readTime: 2,
   },
   {
     id: "it-doesn-t-seem-fair-i-m-retired-and-ha-bc27f4b3",
@@ -271,6 +473,60 @@ Whether it is AI or the consumer taking action, when people stop paying for some
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
+  },
+  {
+    id: "two-mass-shootings-in-south-africa-leave-2bce2b27",
+    title: "Two mass shootings in South Africa leave 27 dead",
+    titleJa: "Two mass shootings in South Africa leave 27 dead",
+    summaryJa: "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+    bodyOriginal: `Two mass shootings in South Africa leave 27 dead
+- Published
+Twenty-seven people have been killed in two mass shootings hours apart in South Africa, the latest gun violence to hit the country.
+Seventeen people were killed when eight gunmen stormed a bar close to Johannesburg on Saturday evening, with 15 more injured.
+In a separate shooting in the early hours of Sunday morning, 10 people were killed outside an entertainment venue in a township near Cape Town and a further 11 were injured.
+South Africa has one of the highest murder rates in the world and has struggled to contain gang-related gun violence in recent years. Police have not given a definitive motive for either of the latest attacks.
+In Johannesburg, gunmen opened fire on customers outside the bar before continuing the attack inside and torching two vehicles before fleeing.
+Police said thirteen men and four women were killed.
+Gauteng Police Commissioner Lt Gen Tommy Mthombeni said people from Ethiopia and Lesotho were among those caught up in the shooting, but that the vast majority were South African.
+He also said police believed the motive behind the shooting was robbery, as personal belongings had been taken, but that they could not rule out turf wars between illegal mining groups.
+Mining without permission in abandoned shafts or dump sites is a persistent problem in South Africa, causing numerous deaths from unsafe conditions. Authorities say the miners are typically undocumented migrants recruited by organised crime gangs.
+Earlier, deputy provincial police commissioner Maj Gen Fred Kekana said the attack may have been a retaliation for an incident last month, in which one person was killed and another wounded, according to news agency AFP.
+He said at the scene that police had clear pictures and in some cases names for the suspects.
+In Cape Town, five victims died at the scene and a further five people died in hospital.
+No arrests had been made in either case on Sunday morning.
+The two mass shootings came days after 11 people were killed in the city of Durban when gunmen stormed a house in the KwaMakhutha township.
+Illegal weapons are prevalent in South Africa and gun violence has been a persistent problem for decades, with about 60 murders recorded every day in the country of 62 million.
+But a recent spate of mass shootings has raised fears that the problem is deepening, with violence often linked to turf wars between gangs engaged in drug trafficking and illegal mining.
+In February, President Cyril Ramaphosa called organised crime "the most immediate threat to our democracy, our society and our economic development".
+Earlier this year, the military was deployed alongside police in areas with the highest murder rates in an effort to reduce armed violence.
+On Saturday, a tenth woman's body was found in Ekurhuleni, to the east of Johannesburg, with local police saying they were unable to rule out a serial killer operating in the area with similarities between the deaths.`,
+    bodyJa: `Two mass shootings in South Africa leave 27 dead
+- Published
+Twenty-seven people have been killed in two mass shootings hours apart in South Africa, the latest gun violence to hit the country.
+Seventeen people were killed when eight gunmen stormed a bar close to Johannesburg on Saturday evening, with 15 more injured.
+In a separate shooting in the early hours of Sunday morning, 10 people were killed outside an entertainment venue in a township near Cape Town and a further 11 were injured.
+South Africa has one of the highest murder rates in the world and has struggled to contain gang-related gun violence in recent years. Police have not given a definitive motive for either of the latest attacks.
+In Johannesburg, gunmen opened fire on customers outside the bar before continuing the attack inside and torching two vehicles before fleeing.
+Police said thirteen men and four women were killed.
+Gauteng Police Commissioner Lt Gen Tommy Mthombeni said people from Ethiopia and Lesotho were among those caught up in the shooting, but that the vast majority were South African.
+He also said police believed the motive behind the shooting was robbery, as personal belongings had been taken, but that they could not rule out turf wars between illegal mining groups.
+Mining without permission in abandoned shafts or dump sites is a persistent problem in South Africa, causing numerous deaths from unsafe conditions. Authorities say the miners are typically undocumented migrants recruited by organised crime gangs.
+Earlier, deputy provincial police commissioner Maj Gen Fred Kekana said the attack may have been a retaliation for an incident last month, in which one person was killed and another wounded, according to news agency AFP.
+He said at the scene that police had clear pictures and in some cases names for the suspects.
+In Cape Town, five victims died at the scene and a further five people died in hospital.
+No arrests had been made in either case on Sunday morning.
+The two mass shootings came days after 11 people were killed in the city of Durban when gunmen stormed a house in the KwaMakhutha township.
+Illegal weapons are prevalent in South Africa and gun violence has been a persistent problem for decades, with about 60 murders recorded every day in the country of 62 million.
+But a recent spate of mass shootings has raised fears that the problem is deepening, with violence often linked to turf wars between gangs engaged in drug trafficking and illegal mining.
+In February, President Cyril Ramaphosa called organised crime "the most immediate threat to our democracy, our society and our economic development".
+Earlier this year, the military was deployed alongside police in areas with the highest murder rates in an effort to reduce armed violence.
+On Saturday, a tenth woman's body was found in Ekurhuleni, to the east of Johannesburg, with local police saying they were unable to rule out a serial killer operating in the area with similarities between the deaths.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-27T14:09:22+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
+    readTime: 7,
   },
   {
     id: "top-wall-street-analysts-like-these-3-di-3571603b",
@@ -1646,508 +1902,6 @@ A bright spot for demand is tech wealth, with many of the new AI millionaires an
     publishedAt: "2026-09-26T10:00:01+00:00",
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "bangkok-roads-submerged-as-flood-disaste-c79291de",
-    title: "Bangkok roads submerged as flood disaster declared",
-    titleJa: "Bangkok roads submerged as flood disaster declared",
-    summaryJa: "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-    bodyOriginal: `Bangkok roads submerged as flood disaster declared
-- Published
-A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.
-People have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.
-Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.
-The rain is expected to continue into Sunday, raising fears that more canals could burst their banks.
-Somkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: "The water keeps coming in. It's hard to go out now. It's like at my waist level now.
-"I cannot go anywhere. I have been closing my shop for two days now."
-She said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.
-Hundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.
-The Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.
-All 50 of Bangkok's districts have been declared emergency zones.
-Chadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.
-He continued: "The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled."
-Related topics
-- Published4 hours ago
-- Published2 days ago`,
-    bodyJa: `Bangkok roads submerged as flood disaster declared
-- Published
-A flood emergency disaster has been declared across Bangkok after 48 hours of heavy rain left roads in the Thai capital submerged.
-People have been urged to stay at home and those living close to the city's network of canals have been advised to move their belongings to upper floors.
-Thunderstorms are common in Thailand at this time of year but extreme weather in recent days has inundated Bangkok's drainage system, causing traffic chaos on roads that are already famously congested.
-The rain is expected to continue into Sunday, raising fears that more canals could burst their banks.
-Somkid Pheuk-ngam, a 67-year-old who lives near a canal just north of central Bangkok, told the AFP news agency: "The water keeps coming in. It's hard to go out now. It's like at my waist level now.
-"I cannot go anywhere. I have been closing my shop for two days now."
-She said water levels in the city appeared to be worse than in 2011, when Bangkok was impacted by nationwide flooding.
-Hundreds were killed across Thailand then in an extreme weather event that lasted for three months. So far, no casualties have been reported in Bangkok from this latest flooding.
-The Thai Meteorological Service has forecast more heavy rain through the week, though the area of low pressure causing the downpours of recent days is expected to move towards central Thailand.
-All 50 of Bangkok's districts have been declared emergency zones.
-Chadchart Sittipunt, the city's governor, said the east of the city had been hardest hit, AFP reported.
-He continued: "The rain keeps falling and we are doing our best. We are trying to pump the water out, but the water in canals are full... The risk areas are those who live near canals. Every canal is now filled."
-Related topics
-- Published4 hours ago
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-26T07:21:30+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b19/live/342eea60-b978-11f1-97d9-a9cee45390c5.jpg",
-    readTime: 5,
-  },
-  {
-    id: "chinese-ai-models-surge-in-global-popula-567dca23",
-    title: "Chinese AI models surge in global popularity — and Washington is worried",
-    titleJa: "Chinese AI models surge in global popularity — and Washington is worried",
-    summaryJa: "Usage of Chinese AI models by businesses across the globe has increased substantially in 2026.",
-    bodyOriginal: `AI was a major focus as U.S. President Donald Trump and Chinese President Xi Jinping met this week.
-The most advanced U.S. models lead most benchmarks, but Chinese companies like DeepSeek, Z.ai and Alibaba have released new models with major performance gains in tasks such as coding.
-According to usage data shared with CNBC, the global adoption of Chinese models by companies has increased substantially in 2026.
-Chinese AI models have gone from a relatively small share of usage to a majority on two major developer platforms that provide gateways for companies to access models from different providers. On OpenRouter, they accounted for 57%-67% of tokens used in the week of Sept. 14, up from 6%-13% in February. On Vercel, their share rose to 55% in August from 11% in January.
-OpenRouter's data related to companies in the U.S., Europe and what it defines as the "Global South" — 82 countries across Central and South America, Africa, and Asia. Vercel did not specify its data's geographical breakdown.
-Concern is growing in Washington, where two U.S. House Committees are investigating the impact of rising adoption of Chinese models.
-The U.S. has sought to preserve its AI lead by restricting Chinese AI companies from buying the most advanced chips through export controls.
-Washington is concerned about them accessing Nvidia chips remotely, via overseas data centers, and gaining ground by using "distillation" where new models mimic older, more established ones.
-Chinese AI represents "real economic and security risks for the United States," said Daniel Remler, a senior fellow in the technology and national security program at the Center for a New American Security (CNAS), a think tank.
-"The ultimate concern is that the integration of Chinese AI models pulls countries into a Chinese technology sphere of influence that hardens into geopolitical alignment," he told CNBC.
-Peter Walker, head of insights at OpenRouter, told CNBC, Chinese open source models released this year "can credibly perform in advanced agentic use cases, especially in regards to coding, in a way that was just not true in late 2025."
-They're also "incredibly cost-effective compared to most models from American labs," he added.
-Earlier this week, OpenAI and Anthropic both announced new, cheaper models. Dianne Penn, head of product management, research and labs at Anthropic, told CNBC that the company was trying to make its models answers "more efficient, so it uses less tokens depending on your effort setting."
-Price is key in rising adoption of Chinese models, Harpreet Arora, head of agentic infrastructure at Vercel, told CNBC. "Chinese models are becoming capable enough for more tasks at a much lower cost. Once a model meets the quality bar for the job, that price difference becomes compelling."
-But he added that companies still want to use frontier U.S. models for some more complicated tasks.
-Businesses in what OpenRouter defines as "Global South" have been the biggest users of Chinese AI models on the company's system in recent weeks.
-More than two-thirds — 67% — of the tokens these companies use are on Chinese models. About half the tokens on OpenRouter are used by companies in the U.S.
-"Southeast Asia in particular may see significant uptake of Chinese AI models given the close economic and cultural linkages [with China] plus growing digital infrastructure," said CNAS' Remler.
-"Anywhere from Lagos to São Paulo to Jakarta where entrepreneurs and governments are looking for cheap, open models, will look first to Chinese AI."`,
-    bodyJa: `AI was a major focus as U.S. President Donald Trump and Chinese President Xi Jinping met this week.
-The most advanced U.S. models lead most benchmarks, but Chinese companies like DeepSeek, Z.ai and Alibaba have released new models with major performance gains in tasks such as coding.
-According to usage data shared with CNBC, the global adoption of Chinese models by companies has increased substantially in 2026.
-Chinese AI models have gone from a relatively small share of usage to a majority on two major developer platforms that provide gateways for companies to access models from different providers. On OpenRouter, they accounted for 57%-67% of tokens used in the week of Sept. 14, up from 6%-13% in February. On Vercel, their share rose to 55% in August from 11% in January.
-OpenRouter's data related to companies in the U.S., Europe and what it defines as the "Global South" — 82 countries across Central and South America, Africa, and Asia. Vercel did not specify its data's geographical breakdown.
-Concern is growing in Washington, where two U.S. House Committees are investigating the impact of rising adoption of Chinese models.
-The U.S. has sought to preserve its AI lead by restricting Chinese AI companies from buying the most advanced chips through export controls.
-Washington is concerned about them accessing Nvidia chips remotely, via overseas data centers, and gaining ground by using "distillation" where new models mimic older, more established ones.
-Chinese AI represents "real economic and security risks for the United States," said Daniel Remler, a senior fellow in the technology and national security program at the Center for a New American Security (CNAS), a think tank.
-"The ultimate concern is that the integration of Chinese AI models pulls countries into a Chinese technology sphere of influence that hardens into geopolitical alignment," he told CNBC.
-Peter Walker, head of insights at OpenRouter, told CNBC, Chinese open source models released this year "can credibly perform in advanced agentic use cases, especially in regards to coding, in a way that was just not true in late 2025."
-They're also "incredibly cost-effective compared to most models from American labs," he added.
-Earlier this week, OpenAI and Anthropic both announced new, cheaper models. Dianne Penn, head of product management, research and labs at Anthropic, told CNBC that the company was trying to make its models answers "more efficient, so it uses less tokens depending on your effort setting."
-Price is key in rising adoption of Chinese models, Harpreet Arora, head of agentic infrastructure at Vercel, told CNBC. "Chinese models are becoming capable enough for more tasks at a much lower cost. Once a model meets the quality bar for the job, that price difference becomes compelling."
-But he added that companies still want to use frontier U.S. models for some more complicated tasks.
-Businesses in what OpenRouter defines as "Global South" have been the biggest users of Chinese AI models on the company's system in recent weeks.
-More than two-thirds — 67% — of the tokens these companies use are on Chinese models. About half the tokens on OpenRouter are used by companies in the U.S.
-"Southeast Asia in particular may see significant uptake of Chinese AI models given the close economic and cultural linkages [with China] plus growing digital infrastructure," said CNAS' Remler.
-"Anywhere from Lagos to São Paulo to Jakarta where entrepreneurs and governments are looking for cheap, open models, will look first to Chinese AI."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html",
-    publishedAt: "2026-09-26T05:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "iran-offers-us-deal-to-reopen-strait-of-cce10c63",
-    title: "Iran offers US deal to reopen Strait of Hormuz in seven days",
-    titleJa: "Iran offers US deal to reopen Strait of Hormuz in seven days",
-    summaryJa: "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-    bodyOriginal: `Iran offers US deal to reopen Strait of Hormuz in seven days
-- Published
-Iranian Foreign Minister Abbas Araghchi says his country has proposed a deal to the US that would see the Strait of Hormuz reopened within a week.
-Araghchi told reporters at the UN in New York that this could be done "if the necessary conditions are met" and said these were contained within the memorandum of understanding (MOU) signed in June.
-"The choice now rests with the United States," he said, adding the plan was delivered to the US via Qatar.
-Asked about the Iranian offer, a US official told the BBC positive discussions were taking place through mediators, including about nuclear issues. Earlier this week, US President Donald Trump threatened to "annihilate the Islamic Republic".
-The US and Israel launched air strikes on Iran on 28 February. Iran responded by attacking Israel and US bases in the Gulf and Arab Gulf allies of the US - as well as blocking the Strait of Hormuz.
-Some 20% of the world's oil and liquefied natural gas used to pass through the strait before the war and its closure has caused wild fluctuations of energy prices.
-It has also increased pressure on Trump to find a way of ending the conflict - particularly as the US heads to Congressional elections in November.
-"If the necessary conditions are met, the strait can be reopened, a normal maritime passage restored within seven days," Araghchi told reporters.
-He did not specify what steps Iran wanted the US to take but added that "the actions that the United States should take are not new. They are all already in the MOU".
-"I can tell you if there is seriousness in the US side to come to a deal and reopen the Strait of Hormuz, everything is now prepared," he added.
-A US official told the BBC that the US was "in a very strong position with control of the Strait of Hormuz, so we are not in a rush".
-In an interview with CBS News, the BBC's US partner, Iranian President Masoud Pezeshkian said that the ceasefire process "will begin from the very day they accept it".
-"We had previously reached an agreement based on the MOU that was signed in Pakistan... if the United States agrees to proceed in that way, everything will return to the way it was before," he added.
-Pezeshkian also said Iran would now allow UN nuclear inspectors into the country.
-Rejecting claims that Iran is trying to develop a nuclear weapon, the Iranian president said: "If they wish to come in and have inspections, we can reach accords and agreements vis-à-vis that specific topic within the negotiations."
-The MOU between the US and Iran, signed on 18 June, was designed to bring about a ceasefire and at least partly reopen the Strait of Hormuz.
-The 14-point agreement said Iran would never have a nuclear weapon. It noted that the US, Iran and their allies would end military operations on "all fronts" and contained provisions including the end of a US naval blockade and sanctions relief.
-It also said Iran would "make arrangements using its best efforts for the safe passage of commercial vessels" through the strait and hold talks with Oman over future shipping arrangements.
-But it fell apart a short time later when both sides resumed strikes.
-Iran has attacked vessels it says have attempted to cross the Strait of Hormuz without authorisation.
-The US has attacked Iranian sites in the strait - as well as Iranian tankers off the country's coast. It has also maintained a blockade of Iranian ports, causing huge disruption to the Iranian economy.
-Trump since has claimed the US has been successful in getting oil out through the Strait of Hormuz.
-Shipping data shows a recent 10-day average of about 18 transits per day, with daily numbers dropping as low as nine vessels on certain days, according to Kpler, a commodities data and analytics firm cited by Reuters.
-However, Yemen's Houthis - allied to Iran - have recently intensified attacks aimed at disrupting oil exports from Saudi Arabia via the Red Sea on the other side of the Arabian peninsula.
-The group seized large strategically important stretches of the Red Sea coast in a rapid offensive this month, including the port of Mokha, which overlooks the Bab al-Mandab Strait, another chokepoint for global shipping.
-The situation has been exacerbated by Houthi attacks on Saudi oil installations. US media has reported that Saudi Crown Prince Mohammed bin Salman has requested military support from Trump.
-On Saturday, the Saudi-led coalition in Yemen said it had intercepted two ballistic missiles and drones launched by the Houthis towards Saudi Arabia.
-During his speech at the UN General Assembly this week, Trump said he believed an Iran deal, which has so far eluded him, would come right after November's elections.
-"Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?" he said.
-"Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell?"
-On Friday, Araghchi said Iran did not accept "coercion, threats or intimidation" and added that "peace cannot be built through threats of annihilation".
-- Published11 September
-- Published2 days ago
-- Published18 June`,
-    bodyJa: `Iran offers US deal to reopen Strait of Hormuz in seven days
-- Published
-Iranian Foreign Minister Abbas Araghchi says his country has proposed a deal to the US that would see the Strait of Hormuz reopened within a week.
-Araghchi told reporters at the UN in New York that this could be done "if the necessary conditions are met" and said these were contained within the memorandum of understanding (MOU) signed in June.
-"The choice now rests with the United States," he said, adding the plan was delivered to the US via Qatar.
-Asked about the Iranian offer, a US official told the BBC positive discussions were taking place through mediators, including about nuclear issues. Earlier this week, US President Donald Trump threatened to "annihilate the Islamic Republic".
-The US and Israel launched air strikes on Iran on 28 February. Iran responded by attacking Israel and US bases in the Gulf and Arab Gulf allies of the US - as well as blocking the Strait of Hormuz.
-Some 20% of the world's oil and liquefied natural gas used to pass through the strait before the war and its closure has caused wild fluctuations of energy prices.
-It has also increased pressure on Trump to find a way of ending the conflict - particularly as the US heads to Congressional elections in November.
-"If the necessary conditions are met, the strait can be reopened, a normal maritime passage restored within seven days," Araghchi told reporters.
-He did not specify what steps Iran wanted the US to take but added that "the actions that the United States should take are not new. They are all already in the MOU".
-"I can tell you if there is seriousness in the US side to come to a deal and reopen the Strait of Hormuz, everything is now prepared," he added.
-A US official told the BBC that the US was "in a very strong position with control of the Strait of Hormuz, so we are not in a rush".
-In an interview with CBS News, the BBC's US partner, Iranian President Masoud Pezeshkian said that the ceasefire process "will begin from the very day they accept it".
-"We had previously reached an agreement based on the MOU that was signed in Pakistan... if the United States agrees to proceed in that way, everything will return to the way it was before," he added.
-Pezeshkian also said Iran would now allow UN nuclear inspectors into the country.
-Rejecting claims that Iran is trying to develop a nuclear weapon, the Iranian president said: "If they wish to come in and have inspections, we can reach accords and agreements vis-à-vis that specific topic within the negotiations."
-The MOU between the US and Iran, signed on 18 June, was designed to bring about a ceasefire and at least partly reopen the Strait of Hormuz.
-The 14-point agreement said Iran would never have a nuclear weapon. It noted that the US, Iran and their allies would end military operations on "all fronts" and contained provisions including the end of a US naval blockade and sanctions relief.
-It also said Iran would "make arrangements using its best efforts for the safe passage of commercial vessels" through the strait and hold talks with Oman over future shipping arrangements.
-But it fell apart a short time later when both sides resumed strikes.
-Iran has attacked vessels it says have attempted to cross the Strait of Hormuz without authorisation.
-The US has attacked Iranian sites in the strait - as well as Iranian tankers off the country's coast. It has also maintained a blockade of Iranian ports, causing huge disruption to the Iranian economy.
-Trump since has claimed the US has been successful in getting oil out through the Strait of Hormuz.
-Shipping data shows a recent 10-day average of about 18 transits per day, with daily numbers dropping as low as nine vessels on certain days, according to Kpler, a commodities data and analytics firm cited by Reuters.
-However, Yemen's Houthis - allied to Iran - have recently intensified attacks aimed at disrupting oil exports from Saudi Arabia via the Red Sea on the other side of the Arabian peninsula.
-The group seized large strategically important stretches of the Red Sea coast in a rapid offensive this month, including the port of Mokha, which overlooks the Bab al-Mandab Strait, another chokepoint for global shipping.
-The situation has been exacerbated by Houthi attacks on Saudi oil installations. US media has reported that Saudi Crown Prince Mohammed bin Salman has requested military support from Trump.
-On Saturday, the Saudi-led coalition in Yemen said it had intercepted two ballistic missiles and drones launched by the Houthis towards Saudi Arabia.
-During his speech at the UN General Assembly this week, Trump said he believed an Iran deal, which has so far eluded him, would come right after November's elections.
-"Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?" he said.
-"Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell?"
-On Friday, Araghchi said Iran did not accept "coercion, threats or intimidation" and added that "peace cannot be built through threats of annihilation".
-- Published11 September
-- Published2 days ago
-- Published18 June`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-26T04:14:30+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5316/live/c3211510-b930-11f1-902b-af1a6d672907.jpg",
-    readTime: 10,
-  },
-  {
-    id: "openai-bots-meddled-with-multiple-us-gov-ed9ef96f",
-    title: "OpenAI bots meddled with multiple US government agency sites",
-    titleJa: "OpenAI bots meddled with multiple US government agency sites",
-    summaryJa: "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-    bodyOriginal: `OpenAI bots meddled with multiple US government agency sites
-- Published
-OpenAI has acknowledged that it alerted "dozens" of global institutions that their websites may have been meddled with by its AI bots acting improperly.
-AI agents attempted to get information from "governments, universities, public agencies, and other institutions", including the SEC, Census Bureau and Education Department, the company said.
-The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.
-Since August, public fears have grown around the potentially serious, even life-threatening, impacts of AI tools falling outside of human control.
-OpenAI said that some of the data was accessed by AI agents, essentially bots that are designed and trained to operate somewhat autonomously, which were working to find "authoritative sources of public information".
-But the company noted that some of the bots went beyond that and worked to bypass security measures on websites.
-When attempting to get information from the Census Bureau, for instance, AI agents used tools reserved for software developers to access it, the company said.
-OpenAI said all of the government data accessed by bots was public.
-However, it noted that information that its bots accessed from the SEC, which regulates the US stock market and protects investors, was later published by AI agents on another website. OpenAI says this action was not intended.
-In other instances that OpenAI disclosed on Friday, its AI agents transferred data when it should not have.
-Such activity resulted in at least 53 incidents where an OpenAI agent took an image from ChatGPT user activity and transferred it elsewhere.
-The company said that in each instance of a user image being used and transferred by an AI agent, the user had opted in to allow OpenAI to train models using their data.
-Nevertheless, OpenAI admitted: "This is not an appropriate use of this data".
-It added that the leak of user images occurred before it had put in place new safeguards on AI training, and it was working to get all the user images transferred to any third-party removed.
-Reuters first reported the expanded investigations. OpenAI also published details to its public blog.
-In certain instances of the agent activity, OpenAI said the tools "bypassed" security controls of some websites.
-In other instances, the AI agents showed "misalignment" in attempts to get at information from websites. Misalignment is a term used by AI companies and researchers to describe instances where an AI tool did something that it was not trained to do or was otherwise unintended.
-OpenAI said that it was limiting identifying what entities were impacted because many had asked the company to not disclose details.
-"Our goal is to give each organization the facts and defer to them on if and when to make the incident public," it said.
-Not all of the instances involved in this incident were being considered a significant security breach, the company noted.
-"Some organizations may review what we share and conclude that the information was intentionally public or that the model's interaction was not concerning," it explained. "Others may identify a design issue or security weakness they want to address."
-Why are there concerns AI could threaten humanity, and how real are they?
-- Published17 September
-Could AI wipe out humans and how might it do it?
-- Published7 days ago
-The company said many of the incidents are being referred to as "agent spam", which it described as "unexpected or concerning" AI agent activity, like posting information to the internet.
-OpenAI began taking such incidents more seriously after an incident in July where a group, or "swarm," of its AI agents hacked the AI developer platform Hugging Face without being prompted to do so.
-Hugging Face was first to go public with the incident, with OpenAI publicly taking responsibility for it later.
-Clement Delangue, the head of Hugging Face, said Wednesday during a United Nations Security Council session on AI: "I often wonder what would have happened had I decided not to disclose this attack publicly."
-"Especially now that we know similar incidents had been happening months earlier in secret at a handful of frontier labs without monitoring," Delangue added.
-During that same UN meeting, OpenAI CEO Sam Altman and Dario Amodei, the head of rival firm Anthropic, asked for international leaders to form global standards for AI safety and ways to monitor and report such incidents.
-While OpenAI and Anthropic have both said in recent weeks that they will bring third-party evaluators inside their companies to do real-time safety evaluations of AI tools and models, such evaluators have not yet arrived, as the BBC has reported.
-OpenAI said on Friday that it is currently reviewing training activity by its AI agents and going back on a "month by month" basis from when the Hugging Face hack occurred.
-"Most cases identified so far have been low severity, with limited or no evidence of meaningful impact," the company said. "Given the scale of the review required, and the need to verify each case, this work will take months to complete."
-David Krueger, a professor of machine learning at University of Montreal and the founder of AI safety group Evitable, said on Friday that he was "deeply troubled" by the increasing number of AI-related safety incidents.
-He called for "an immediate, indefinite, international moratorium" on AI development.
-"We have yet to understand the extent of existing incidents, and future rogue AI scenarios could be catastrophic," Krueger said.
-Related topics
-- Published1 day ago
-- Published10 September
-- Published6 days ago`,
-    bodyJa: `OpenAI bots meddled with multiple US government agency sites
-- Published
-OpenAI has acknowledged that it alerted "dozens" of global institutions that their websites may have been meddled with by its AI bots acting improperly.
-AI agents attempted to get information from "governments, universities, public agencies, and other institutions", including the SEC, Census Bureau and Education Department, the company said.
-The disclosures come just days after Australian Prime Minister Anthony Albanese announced that OpenAI agents had breached non-public files on the website of its government-run health care scheme, Medicare.
-Since August, public fears have grown around the potentially serious, even life-threatening, impacts of AI tools falling outside of human control.
-OpenAI said that some of the data was accessed by AI agents, essentially bots that are designed and trained to operate somewhat autonomously, which were working to find "authoritative sources of public information".
-But the company noted that some of the bots went beyond that and worked to bypass security measures on websites.
-When attempting to get information from the Census Bureau, for instance, AI agents used tools reserved for software developers to access it, the company said.
-OpenAI said all of the government data accessed by bots was public.
-However, it noted that information that its bots accessed from the SEC, which regulates the US stock market and protects investors, was later published by AI agents on another website. OpenAI says this action was not intended.
-In other instances that OpenAI disclosed on Friday, its AI agents transferred data when it should not have.
-Such activity resulted in at least 53 incidents where an OpenAI agent took an image from ChatGPT user activity and transferred it elsewhere.
-The company said that in each instance of a user image being used and transferred by an AI agent, the user had opted in to allow OpenAI to train models using their data.
-Nevertheless, OpenAI admitted: "This is not an appropriate use of this data".
-It added that the leak of user images occurred before it had put in place new safeguards on AI training, and it was working to get all the user images transferred to any third-party removed.
-Reuters first reported the expanded investigations. OpenAI also published details to its public blog.
-In certain instances of the agent activity, OpenAI said the tools "bypassed" security controls of some websites.
-In other instances, the AI agents showed "misalignment" in attempts to get at information from websites. Misalignment is a term used by AI companies and researchers to describe instances where an AI tool did something that it was not trained to do or was otherwise unintended.
-OpenAI said that it was limiting identifying what entities were impacted because many had asked the company to not disclose details.
-"Our goal is to give each organization the facts and defer to them on if and when to make the incident public," it said.
-Not all of the instances involved in this incident were being considered a significant security breach, the company noted.
-"Some organizations may review what we share and conclude that the information was intentionally public or that the model's interaction was not concerning," it explained. "Others may identify a design issue or security weakness they want to address."
-Why are there concerns AI could threaten humanity, and how real are they?
-- Published17 September
-Could AI wipe out humans and how might it do it?
-- Published7 days ago
-The company said many of the incidents are being referred to as "agent spam", which it described as "unexpected or concerning" AI agent activity, like posting information to the internet.
-OpenAI began taking such incidents more seriously after an incident in July where a group, or "swarm," of its AI agents hacked the AI developer platform Hugging Face without being prompted to do so.
-Hugging Face was first to go public with the incident, with OpenAI publicly taking responsibility for it later.
-Clement Delangue, the head of Hugging Face, said Wednesday during a United Nations Security Council session on AI: "I often wonder what would have happened had I decided not to disclose this attack publicly."
-"Especially now that we know similar incidents had been happening months earlier in secret at a handful of frontier labs without monitoring," Delangue added.
-During that same UN meeting, OpenAI CEO Sam Altman and Dario Amodei, the head of rival firm Anthropic, asked for international leaders to form global standards for AI safety and ways to monitor and report such incidents.
-While OpenAI and Anthropic have both said in recent weeks that they will bring third-party evaluators inside their companies to do real-time safety evaluations of AI tools and models, such evaluators have not yet arrived, as the BBC has reported.
-OpenAI said on Friday that it is currently reviewing training activity by its AI agents and going back on a "month by month" basis from when the Hugging Face hack occurred.
-"Most cases identified so far have been low severity, with limited or no evidence of meaningful impact," the company said. "Given the scale of the review required, and the need to verify each case, this work will take months to complete."
-David Krueger, a professor of machine learning at University of Montreal and the founder of AI safety group Evitable, said on Friday that he was "deeply troubled" by the increasing number of AI-related safety incidents.
-He called for "an immediate, indefinite, international moratorium" on AI development.
-"We have yet to understand the extent of existing incidents, and future rogue AI scenarios could be catastrophic," Krueger said.
-Related topics
-- Published1 day ago
-- Published10 September
-- Published6 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-26T02:50:56+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "south-african-white-genocide-does-not-ex-e330f042",
-    title: "South African white genocide does not exist, new ambassador to US tells BBC",
-    titleJa: "South African white genocide does not exist, new ambassador to US tells BBC",
-    summaryJa: "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
-    bodyOriginal: `South African white genocide does not exist, new ambassador to US tells BBC
-- Published
-South Africa's new ambassador to Washington has a personal reason to challenge Donald Trump's assertion that there is a genocide against white Afrikaners - he is "a born Afrikaner" himself.
-"Is he talking about us?", Roelf Meyer remembers thinking, when he first heard President Trump say it.
-His response to the US president's claim is blunt.
-The notion of a mass attack on the white Afrikaner minority in South Africa does not exist, he told the BBC, adding that his identity gave him the legitimacy to say so.
-Meyer was one of the chief mediators to end white-minority rule known as apartheid in South Africa in the 1990s. He was appointed ambassador to the US in April, after diplomatic relations between the US and South Africa plummeted.
-In an interview with the BBC, Meyer said the facts about violence in South Africa had been misrepresented and he never got a clear answer about where this "misdirection of information" was coming from.
-Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House and launched a US refugee pathway for Afrikaners.
-Since last year, nearly 13,000 refugees were admitted to the United States and all but three were South African.
-Among them was Lielie, the name she uses publicly, who moved with her family to Texas from South Africa, where they had lived on her stepfather's farm, growing macadamia nuts and bananas.
-Despite walls around the house, an electric fence, and eight bull terriers, she said she felt "fear the whole time" and that on three occasions she saw people entering her property.
-"Nothing was stolen, we weren't harmed, but there are friends of my husband, people that lived around us, they were brutally attacked," she said.
-She said since moving to the US under the Trump administration's refugee pathway her life had changed, she felt safer walking around, and "my kids can actually play outside".
-The Trump administration is planning to admit up to 17,500 additional white Afrikaners as refugees over the next 12 months, according to a notice sent to Congress on Tuesday.
-In a statement to the BBC, a White House spokeswoman said: "President Trump has provided a lifeline for Afrikaners, who are being raped, maimed, killed and driven off their property across South Africa.
-"While the South African government and many in the media have brushed off the horrific lived experiences of this community, the Trump administration continues to process applications for refugee status because the president has a humanitarian heart."
-SJ Du Venage, who lives on South Africa's west coast, has been trying to move to the US under the new scheme.
-Du Venage is a council member of the Freedom Front Plus, a right-wing Afrikaner party, and argues that there is a "political drive towards killing white people, and killing the farmers on the farms".
-"There's absolutely an agenda to wipe us out here," he says.
-Race policies or Israel - what's really driving Trump's fury with South Africa?
-- Published23 February 2025
-Is there a genocide of white South Africans as Trump claims?
-- Published2 June 2025
-Do Afrikaners want to take Trump up on his South African refugee offer?
-- Published15 May 2025
-An Afrikaner lobby group is holding a vigil on Saturday with thousands of white crosses on Washington's National Mall to commemorate what it says are victims of "farm attacks".
-Claims of genocide against white South Africans have been discredited by every political party in the country, including by those representing Afrikaners.
-"I'm an Afrikaner from South Africa myself," Ambassador Meyer said, "and I can say that I've never experienced something of that kind."
-Meyer said he would like to have a conversation with Trump about the reality of the situation, saying that as a "born Afrikaner", he has the "legitimacy" to speak about the subject.
-The ambassador helped negotiate an end to apartheid on behalf of the National Party, which was responsible for it, with now-president Cyril Ramaphosa also a key negotiator for the African National Congress party.
-He said the "trust" between the two men was one reason President Ramaphosa appointed him to help mend US-South Africa relations, as well as "the fact he also saw the value of me being an Afrikaner".
-"But I'm not here to represent the Afrikaner only," Meyer says.
-Last week, the Trump administration announced visa restrictions for those South Africans who it said were responsible for "race-based discrimination" against white people. It also warned of further punitive actions if South African leaders did not address the issue.
-Police data shows the majority of victims of crime in South Africa, including on farms, are black. Farm violence, often motivated by robberies, is an issue but represents a smaller number of homicides in the country.
-While no politician disputes that crime is a problem in South Africa, many experts say this does not qualify as "persecution".
-Larry Bartlett, the former director of the US Refugee Assistance Programme, said it could even be "unlawful" to appropriate a programme defined in law for people who "really have no chance to go home".
-He said white people who were unlikely to qualify as refugee in law were taking scarce opportunities meant for those fleeing war or ethnic cleansing.
-The programme has its critics among Afrikaners in South Africa too.
-"Why single out the white Afrikaner to say this group qualifies to flee to the US? This country suffers gender-based violence. Why not single out women?" Rudi Swanepoel, a pastor from Johannesburg told the BBC.
-Swanepoel thinks it is not persecution but a "loss of privilege" that is causing some Afrikaners to feel aggrieved.
-"To use the metaphor of a cake, 30, 40 years ago the white people of South Africa controlled the cake," he says. "Since democracy came, the obvious reality was we had to now start sharing that cake and those privileges."
-Alongside "rural safety", the Trump administration has raised other concerns about South Africa, including targets for companies to increase non-white employment and a law allowing the state, in exceptional circumstances, to expropriate land without compensation. These are aimed at redressing historic racial inequality.
-Meyer wants Trump's executive order against South Africa, which underpins the refugee pathway, revoked.
-He said South Africa had never prevented people from leaving and had addressed all the US concerns, stressing that the land expropriation law is awaiting a court judgement.
-"South Africa has challenges with the prevention of crime and with the combatting of crime," he said.
-But he added: "It's a problem all around. It's not rural. It's not farm attacks only. If you look at the total picture, the huge levels of crime in the black townships of South Africa are the biggest concern, proportionally, far more than anything else."
-He said he would encourage the US to help South Africa with resources on combatting crime, including by providing equipment to speed up reaction times.
-Meyer also has a message for Afrikaners protesting against "farm attacks" by laying white crosses in Washington.
-"It doesn't help us to raise a voice outside, if we are not committed to doing something inside the country," he says.`,
-    bodyJa: `South African white genocide does not exist, new ambassador to US tells BBC
-- Published
-South Africa's new ambassador to Washington has a personal reason to challenge Donald Trump's assertion that there is a genocide against white Afrikaners - he is "a born Afrikaner" himself.
-"Is he talking about us?", Roelf Meyer remembers thinking, when he first heard President Trump say it.
-His response to the US president's claim is blunt.
-The notion of a mass attack on the white Afrikaner minority in South Africa does not exist, he told the BBC, adding that his identity gave him the legitimacy to say so.
-Meyer was one of the chief mediators to end white-minority rule known as apartheid in South Africa in the 1990s. He was appointed ambassador to the US in April, after diplomatic relations between the US and South Africa plummeted.
-In an interview with the BBC, Meyer said the facts about violence in South Africa had been misrepresented and he never got a clear answer about where this "misdirection of information" was coming from.
-Last year, Trump accused South Africa of white genocide in a meeting with President Cyril Ramaphosa at the White House and launched a US refugee pathway for Afrikaners.
-Since last year, nearly 13,000 refugees were admitted to the United States and all but three were South African.
-Among them was Lielie, the name she uses publicly, who moved with her family to Texas from South Africa, where they had lived on her stepfather's farm, growing macadamia nuts and bananas.
-Despite walls around the house, an electric fence, and eight bull terriers, she said she felt "fear the whole time" and that on three occasions she saw people entering her property.
-"Nothing was stolen, we weren't harmed, but there are friends of my husband, people that lived around us, they were brutally attacked," she said.
-She said since moving to the US under the Trump administration's refugee pathway her life had changed, she felt safer walking around, and "my kids can actually play outside".
-The Trump administration is planning to admit up to 17,500 additional white Afrikaners as refugees over the next 12 months, according to a notice sent to Congress on Tuesday.
-In a statement to the BBC, a White House spokeswoman said: "President Trump has provided a lifeline for Afrikaners, who are being raped, maimed, killed and driven off their property across South Africa.
-"While the South African government and many in the media have brushed off the horrific lived experiences of this community, the Trump administration continues to process applications for refugee status because the president has a humanitarian heart."
-SJ Du Venage, who lives on South Africa's west coast, has been trying to move to the US under the new scheme.
-Du Venage is a council member of the Freedom Front Plus, a right-wing Afrikaner party, and argues that there is a "political drive towards killing white people, and killing the farmers on the farms".
-"There's absolutely an agenda to wipe us out here," he says.
-Race policies or Israel - what's really driving Trump's fury with South Africa?
-- Published23 February 2025
-Is there a genocide of white South Africans as Trump claims?
-- Published2 June 2025
-Do Afrikaners want to take Trump up on his South African refugee offer?
-- Published15 May 2025
-An Afrikaner lobby group is holding a vigil on Saturday with thousands of white crosses on Washington's National Mall to commemorate what it says are victims of "farm attacks".
-Claims of genocide against white South Africans have been discredited by every political party in the country, including by those representing Afrikaners.
-"I'm an Afrikaner from South Africa myself," Ambassador Meyer said, "and I can say that I've never experienced something of that kind."
-Meyer said he would like to have a conversation with Trump about the reality of the situation, saying that as a "born Afrikaner", he has the "legitimacy" to speak about the subject.
-The ambassador helped negotiate an end to apartheid on behalf of the National Party, which was responsible for it, with now-president Cyril Ramaphosa also a key negotiator for the African National Congress party.
-He said the "trust" between the two men was one reason President Ramaphosa appointed him to help mend US-South Africa relations, as well as "the fact he also saw the value of me being an Afrikaner".
-"But I'm not here to represent the Afrikaner only," Meyer says.
-Last week, the Trump administration announced visa restrictions for those South Africans who it said were responsible for "race-based discrimination" against white people. It also warned of further punitive actions if South African leaders did not address the issue.
-Police data shows the majority of victims of crime in South Africa, including on farms, are black. Farm violence, often motivated by robberies, is an issue but represents a smaller number of homicides in the country.
-While no politician disputes that crime is a problem in South Africa, many experts say this does not qualify as "persecution".
-Larry Bartlett, the former director of the US Refugee Assistance Programme, said it could even be "unlawful" to appropriate a programme defined in law for people who "really have no chance to go home".
-He said white people who were unlikely to qualify as refugee in law were taking scarce opportunities meant for those fleeing war or ethnic cleansing.
-The programme has its critics among Afrikaners in South Africa too.
-"Why single out the white Afrikaner to say this group qualifies to flee to the US? This country suffers gender-based violence. Why not single out women?" Rudi Swanepoel, a pastor from Johannesburg told the BBC.
-Swanepoel thinks it is not persecution but a "loss of privilege" that is causing some Afrikaners to feel aggrieved.
-"To use the metaphor of a cake, 30, 40 years ago the white people of South Africa controlled the cake," he says. "Since democracy came, the obvious reality was we had to now start sharing that cake and those privileges."
-Alongside "rural safety", the Trump administration has raised other concerns about South Africa, including targets for companies to increase non-white employment and a law allowing the state, in exceptional circumstances, to expropriate land without compensation. These are aimed at redressing historic racial inequality.
-Meyer wants Trump's executive order against South Africa, which underpins the refugee pathway, revoked.
-He said South Africa had never prevented people from leaving and had addressed all the US concerns, stressing that the land expropriation law is awaiting a court judgement.
-"South Africa has challenges with the prevention of crime and with the combatting of crime," he said.
-But he added: "It's a problem all around. It's not rural. It's not farm attacks only. If you look at the total picture, the huge levels of crime in the black townships of South Africa are the biggest concern, proportionally, far more than anything else."
-He said he would encourage the US to help South Africa with resources on combatting crime, including by providing equipment to speed up reaction times.
-Meyer also has a message for Afrikaners protesting against "farm attacks" by laying white crosses in Washington.
-"It doesn't help us to raise a voice outside, if we are not committed to doing something inside the country," he says.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-25T23:20:48+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg",
-    readTime: 10,
-  },
-  {
-    id: "inside-the-fbi-hack-agents-fearful-and-a-00a6f3df",
-    title: "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-    titleJa: "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-    summaryJa: "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-    bodyOriginal: `Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach
-- Published
-Current and former FBI agents have spoken to BBC News of their shock, fear and anger following a hack that appears to have exposed the private and personal information of the agency's entire workforce.
-"This is really bad for our undercover agents," says one former FBI agent, who fears for the safety of his colleagues.
-The former cyber investigator is in a group chat with current agents who are worried their personal information could soon be freely available online to criminals and hostile nation-state hackers.
-He says staff fear they could be targeted, or that criminals could use the data to create highly convincing phishing attempts, scams or demands for bribes.
-The hacking group ShinyHunters is threatening to publish the stolen databases and documents within four days unless its demands are met.
-Some agents are also concerned about the risk of physical attacks from cyber criminals they have investigated.
-"One of the things we are discussing in the group chat is 'violence-as-a-service' attacks from young online gangs," says the former worker.
-"They could use this information to harass an FBI agent who has worked on their cases."
-Personal concerns
-Groups similar to ShinyHunters - believed to be an English-speaking gang - have in the past been linked to swatting incidents, and even petrol bomb attacks against law enforcement officers and rivals.
-The group claims it breached FBI systems on Monday and later posted details of the attack on its darknet site.
-The FBI has not responded to requests for comment.
-However, on Wednesday the agency acknowledged the breach - saying it was "aggressively investigating" how it occurred.
-For Michael McPherson, a former FBI agent who is now senior vice president of security operations at cyber firm ReliaQuest, the hack presents "a security threat which cuts to the core of agent safety, particularly their families".
-He says agents understand the "inherent risks" that come with the job.
-"But this incident reportedly includes personal data such as home addresses and contact information, which could expose family members who are normally insulated from the threats associated with such a career," McPherson says.
-ShinyHunters shared samples of the alleged stolen data with reporters, along with an extortion demand.
-The samples appear genuine and include names, addresses, phone numbers, badge numbers, job titles and information about spouses.
-The records appear to relate to thousands of agents, including senior officials such as deputy directors.
-The criminals also appear to possess highly sensitive medical information relating to thousands of special agents.
-BBC News has seen samples of stolen "fitness-for-work" medical examinations containing information such as blood and urine test results, along with doctors' notes mentioning conditions including a "shellfish and banana allergy".
-Agents' full names and addresses, as well as references to medical issues including "blood in the urine" and "high cholesterol" are now in the criminals' hands.
-Cynthia Kaiser, who was the Deputy Director of Cyber at the FBI and now leads the Research Centre at Halcyon says ShinyHunters appear to already have lost control of some of the data which is circulating in various online groups of cyber researchers and could lead to harm even before the main tranche is published.
-"A lot of the damage may already be done, and as we have seen in past FBI data breaches, that information continues to circulate the dark web years later," she said.
-There are also concerns about the breach's national security implications, such as staff becoming targets for recruitment efforts by hostile foreign intelligence services.
-Fallout fears
-Alongside fear, many of those who spoke to the BBC expressed anger at the FBI for allowing the data to be stolen.
-The hack is particularly embarrassing from a technical perspective because ShinyHunters is not generally regarded as a highly sophisticated hacking group.
-One former cyber agent said FBI staff were furious about the "sloppy and lazy security failures" that allegedly enabled the breach.
-There is also confusion about how to handle any fallout if data is published next week, as threatened.
-The FBI appears unlikely to comply with the extortion demands, and the hackers have indicated they intend to post the information on their darknet site.
-Unusually, the group is not demanding money. Instead, it wants the FBI to retract an advisory published in May, which it claims "offended" them.
-"The agency leadership is lost," the former cyber investigator tells me.
-He says staff have been advised to sign up to a service called DeleteMe, which helps remove personal information from data broker websites - a response he feels is inadequate.
-According to another former agent, there is widespread shock that such a breach could happen at one of the world's best-resourced law enforcement agencies.
-"You would think this information would not be internet-exposed. It's disturbing, actually," he says.
-'Kicked a sleeping lion'
-There is also embarrassment that a prolific group of young cyber criminals has repeatedly managed to evade law enforcement while carrying out a string of high-profile hacks.
-ShinyHunters has been linked to numerous extortion attacks, including on Rockstar Games and the education platform Canvas.
-The group regularly communicates with reporters via Telegram, where members often boast about their activities.
-"The bureau doesn't know what to do with teenage cyber criminals," one former agent says.
-McPherson says there is no doubt the FBI is taking the incident extremely seriously.
-He expects the agency to draw on its extensive network of partners and resources "to make this group suffer the consequences for this brazen and taunting attack".
-Kaiser added that the hackers have been "reckless and foolish" and warned them to expect "a significant effort by the FBI to quickly bring them to justice."
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published13 April
-- Published16 July`,
-    bodyJa: `Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach
-- Published
-Current and former FBI agents have spoken to BBC News of their shock, fear and anger following a hack that appears to have exposed the private and personal information of the agency's entire workforce.
-"This is really bad for our undercover agents," says one former FBI agent, who fears for the safety of his colleagues.
-The former cyber investigator is in a group chat with current agents who are worried their personal information could soon be freely available online to criminals and hostile nation-state hackers.
-He says staff fear they could be targeted, or that criminals could use the data to create highly convincing phishing attempts, scams or demands for bribes.
-The hacking group ShinyHunters is threatening to publish the stolen databases and documents within four days unless its demands are met.
-Some agents are also concerned about the risk of physical attacks from cyber criminals they have investigated.
-"One of the things we are discussing in the group chat is 'violence-as-a-service' attacks from young online gangs," says the former worker.
-"They could use this information to harass an FBI agent who has worked on their cases."
-Personal concerns
-Groups similar to ShinyHunters - believed to be an English-speaking gang - have in the past been linked to swatting incidents, and even petrol bomb attacks against law enforcement officers and rivals.
-The group claims it breached FBI systems on Monday and later posted details of the attack on its darknet site.
-The FBI has not responded to requests for comment.
-However, on Wednesday the agency acknowledged the breach - saying it was "aggressively investigating" how it occurred.
-For Michael McPherson, a former FBI agent who is now senior vice president of security operations at cyber firm ReliaQuest, the hack presents "a security threat which cuts to the core of agent safety, particularly their families".
-He says agents understand the "inherent risks" that come with the job.
-"But this incident reportedly includes personal data such as home addresses and contact information, which could expose family members who are normally insulated from the threats associated with such a career," McPherson says.
-ShinyHunters shared samples of the alleged stolen data with reporters, along with an extortion demand.
-The samples appear genuine and include names, addresses, phone numbers, badge numbers, job titles and information about spouses.
-The records appear to relate to thousands of agents, including senior officials such as deputy directors.
-The criminals also appear to possess highly sensitive medical information relating to thousands of special agents.
-BBC News has seen samples of stolen "fitness-for-work" medical examinations containing information such as blood and urine test results, along with doctors' notes mentioning conditions including a "shellfish and banana allergy".
-Agents' full names and addresses, as well as references to medical issues including "blood in the urine" and "high cholesterol" are now in the criminals' hands.
-Cynthia Kaiser, who was the Deputy Director of Cyber at the FBI and now leads the Research Centre at Halcyon says ShinyHunters appear to already have lost control of some of the data which is circulating in various online groups of cyber researchers and could lead to harm even before the main tranche is published.
-"A lot of the damage may already be done, and as we have seen in past FBI data breaches, that information continues to circulate the dark web years later," she said.
-There are also concerns about the breach's national security implications, such as staff becoming targets for recruitment efforts by hostile foreign intelligence services.
-Fallout fears
-Alongside fear, many of those who spoke to the BBC expressed anger at the FBI for allowing the data to be stolen.
-The hack is particularly embarrassing from a technical perspective because ShinyHunters is not generally regarded as a highly sophisticated hacking group.
-One former cyber agent said FBI staff were furious about the "sloppy and lazy security failures" that allegedly enabled the breach.
-There is also confusion about how to handle any fallout if data is published next week, as threatened.
-The FBI appears unlikely to comply with the extortion demands, and the hackers have indicated they intend to post the information on their darknet site.
-Unusually, the group is not demanding money. Instead, it wants the FBI to retract an advisory published in May, which it claims "offended" them.
-"The agency leadership is lost," the former cyber investigator tells me.
-He says staff have been advised to sign up to a service called DeleteMe, which helps remove personal information from data broker websites - a response he feels is inadequate.
-According to another former agent, there is widespread shock that such a breach could happen at one of the world's best-resourced law enforcement agencies.
-"You would think this information would not be internet-exposed. It's disturbing, actually," he says.
-'Kicked a sleeping lion'
-There is also embarrassment that a prolific group of young cyber criminals has repeatedly managed to evade law enforcement while carrying out a string of high-profile hacks.
-ShinyHunters has been linked to numerous extortion attacks, including on Rockstar Games and the education platform Canvas.
-The group regularly communicates with reporters via Telegram, where members often boast about their activities.
-"The bureau doesn't know what to do with teenage cyber criminals," one former agent says.
-McPherson says there is no doubt the FBI is taking the incident extremely seriously.
-He expects the agency to draw on its extensive network of partners and resources "to make this group suffer the consequences for this brazen and taunting attack".
-Kaiser added that the hackers have been "reckless and foolish" and warned them to expect "a significant effort by the FBI to quickly bring them to justice."
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published13 April
-- Published16 July`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-25T23:05:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d538/live/369f0e30-b903-11f1-83cd-2998f68d9572.jpg",
     readTime: 10,
   },
 ];
