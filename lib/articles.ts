@@ -15,6 +15,468 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "openai-abandons-plan-to-release-upcoming-0c22688d",
+    title: "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+    titleJa: "OpenAI abandons plan to release upcoming model as safety concerns escalate",
+    summaryJa: "The heads of OpenAI and rival Anthropic have both indicated recently that top AI labs should slow the pace of model development.",
+    bodyOriginal: `OpenAI decided not to release an upcoming artificial intelligence model, GPT-6.1 Astra, after determining that it did not adequately meet the company's safety standards, CNBC confirmed on Monday.
+The announcement, which landed a day before OpenAI's annual developers conference, comes as the AI industry faces intensifying concerns surrounding the safety of advanced models. Leadership at OpenAI's chief rival, Anthropic, urged AI companies to slow the pace of model development earlier this month— a proposal that OpenAI CEO Sam Altman expressed support for.
+"Of course we want to make sure our model development is safe no matter whether that's in the company, or when we ship it to users," Saachi Jain, head of safety systems at OpenAI, said in a statement. "But when we ship it to users, we have an extremely high bar in terms of safety and alignment."
+The Wall Street Journal was first to report OpenAI's decision to scrap the release.
+Earlier this month, OpenAI released GPT-6 Astra, which the company described as the product of "years of research and big bets." Altman told CNBC at the time that Astra comes with a "new capability level" and would lead to "a boom of entrepreneurship, of creativity, of economic growth, of scientific discovery."
+OpenAI introduced two additional tiers to its GPT-6 family, GPT-6 Sol and GPT-6 Luna, last week. A spokesperson said Monday that the company has other models coming soon.
+The safety and security practices at OpenAI, in particular, have been under intense scrutiny since July, when two of its models escaped containment, accessed the open internet and breached the open-source developer platform Hugging Face. The company has since disclosed several additional incidents where its models behaved in unintended ways, prompting industry researchers and government officials to call for additional oversight.
+Following the incidents, OpenAI pledged to invest more in its safeguards and alignment work, which is the process where the company works to ensure that its models act in accordance with human interests and values.
+"For anything regarding safety and alignment, there's a trade off," Jain said Monday. "You really do need to find what's the right line between staying within scope, but also avoiding laziness in terms of how the model actually pursues tasks even when it hits friction."
+Balancing safety and speed has been a particularly challenging line for AI companies to toe in Washington. President Donald Trump has repeatedly expressed frustration with calls for a slowdown, and emphasized his desire for the U.S. to maintain its lead over China.
+Altman was one of the tech bigwigs photographed in attendance at Trump's glitzy state dinner for Chinese President Xi Jinping last week. Other executives, including SpaceX CEO Elon Musk, Nvidia CEO Jensen Huang and Meta CEO Mark Zuckerberg, were also present.
+"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!" Trump wrote in a post on Truth Social earlier this month.
+WATCH: OpenAI offered to invest $100 million into Hugging Face before Nvidia’s $13 billion deal`,
+    bodyJa: `OpenAI decided not to release an upcoming artificial intelligence model, GPT-6.1 Astra, after determining that it did not adequately meet the company's safety standards, CNBC confirmed on Monday.
+The announcement, which landed a day before OpenAI's annual developers conference, comes as the AI industry faces intensifying concerns surrounding the safety of advanced models. Leadership at OpenAI's chief rival, Anthropic, urged AI companies to slow the pace of model development earlier this month— a proposal that OpenAI CEO Sam Altman expressed support for.
+"Of course we want to make sure our model development is safe no matter whether that's in the company, or when we ship it to users," Saachi Jain, head of safety systems at OpenAI, said in a statement. "But when we ship it to users, we have an extremely high bar in terms of safety and alignment."
+The Wall Street Journal was first to report OpenAI's decision to scrap the release.
+Earlier this month, OpenAI released GPT-6 Astra, which the company described as the product of "years of research and big bets." Altman told CNBC at the time that Astra comes with a "new capability level" and would lead to "a boom of entrepreneurship, of creativity, of economic growth, of scientific discovery."
+OpenAI introduced two additional tiers to its GPT-6 family, GPT-6 Sol and GPT-6 Luna, last week. A spokesperson said Monday that the company has other models coming soon.
+The safety and security practices at OpenAI, in particular, have been under intense scrutiny since July, when two of its models escaped containment, accessed the open internet and breached the open-source developer platform Hugging Face. The company has since disclosed several additional incidents where its models behaved in unintended ways, prompting industry researchers and government officials to call for additional oversight.
+Following the incidents, OpenAI pledged to invest more in its safeguards and alignment work, which is the process where the company works to ensure that its models act in accordance with human interests and values.
+"For anything regarding safety and alignment, there's a trade off," Jain said Monday. "You really do need to find what's the right line between staying within scope, but also avoiding laziness in terms of how the model actually pursues tasks even when it hits friction."
+Balancing safety and speed has been a particularly challenging line for AI companies to toe in Washington. President Donald Trump has repeatedly expressed frustration with calls for a slowdown, and emphasized his desire for the U.S. to maintain its lead over China.
+Altman was one of the tech bigwigs photographed in attendance at Trump's glitzy state dinner for Chinese President Xi Jinping last week. Other executives, including SpaceX CEO Elon Musk, Nvidia CEO Jensen Huang and Meta CEO Mark Zuckerberg, were also present.
+"The only control or 'guardrails' that AI needs is a STRONG AND SMART (High IQ!) PRESIDENT, and the U.S.A. has that, in spades!" Trump wrote in a post on Truth Social earlier this month.
+WATCH: OpenAI offered to invest $100 million into Hugging Face before Nvidia’s $13 billion deal`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/openai-abandons-plan-to-release-upcoming-model-as-safety-concerns-escalate.html",
+    publishedAt: "2026-09-28T23:10:31+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "trump-announces-plan-for-15-billion-stee-0c34c3e3",
+    title: "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+    titleJa: "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+    summaryJa: "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+    bodyOriginal: `President Donald Trump on Monday announced a steel-making company's plan to invest about $15 billion to build what would be the largest plant of its kind in U.S. history.
+The Oval Office announcement with Mesabi Metallics came just weeks before the November midterm election, which is poised to be shaped by Americans' increasingly sour views of Trump's handling of the economy.
+The steel plant is planned to be built in Iowa and aims to begin production in 2030, a White House official told CNBC on condition of anonymity ahead of the Oval Office event.
+The Wall Street Journal first reported the announcement earlier Monday morning.
+Mesabi Metallics, based in Nashwauk, Minnesota, told CNBC the project will deliver "100% American steel: mined, melted and poured in Minnesota and Iowa."
+The steel plant will use iron ore from Mesabi's mine on Minnesota's Iron Range, a more than $2.5 billion project that is just beginning production after roughly two decades in development. That project was beset by controversies and setbacks, including Essar Steel Minnesota filing for bankruptcy in 2016. Mesabi is part of the Essar Group, an Indian conglomerate.
+The first phase of the Iowa steel plant is estimated to produce some 7.5 million tons per year, supporting up to 6,000 construction jobs, according to the White House. It is slated to eventually ramp up to 10 million tons annually and support at least 1,750 permanent jobs, the official told CNBC. The Minnesota mine project has reportedly created 200 full-time jobs out of an anticipated 350 total, according to Minnesota Public Radio.
+Trump was joined in the Oval Office by Mesabi Metallics' CEO Joe Broking and Chairman Rewant Ruia, as well as Commerce Secretary Howard Lutnick, Energy Secretary Chris Wright, Export-Import Bank Chairman John Jovanovic and a number of Iowa elected officials.
+Trump slapped 25% tariffs on steel and aluminum imports near the start of his second term, and then doubled them to 50%. The president, who strongly dislikes trade deficits and has criticized free-trade deals, has doled out a variety of heavy import duties as he seeks to boost domestic manufacturing.
+Critics say the tariffs have played a major role in raising U.S. steel prices, which have recently hit multi-year highs.
+But numerous steel trade groups on Friday sent a letter to Trump, crediting his steel tariffs with driving $47 billion in "announced and underway investment." They urged him not to weaken those tariffs, arguing that doing so would "put that progress at risk."
+Lutnick said in the Oval Office that the plan is a "done deal." But complex, long-term construction projects can change drastically, or face insurmountable roadblocks, over their development cycles.
+Construction on the Minnesota iron mine, for instance, was supposed to finish by 2016, prior to the company behind the project filing for bankruptcy, Minnesota Public Radio reported.
+As president, Trump has previously touted projects that did not live up to their initial hype.
+In his first term, Trump attended Taiwan electronics manufacturer Foxconn's groundbreaking for a planned $10 billion factory in Wisconsin, and praised the project as "the eighth wonder of the world." But in 2021, Foxconn reduced its planned investment to $672 million and cut the number of new jobs down to 1,454 from 13,000.
+White House spokeswoman Taylor Rogers told CNBC in a statement on Monday's factory announcement, "President Trump is delivering on his promise to rebuild American industry, reshore manufacturing, and create new jobs."
+"Today's announcement underscores the President's historic efforts to revitalize the U.S. steel industry —supporting local communities, strengthening supply chains, and protecting our national security," Rogers said. "After decades of decline, this President is restoring America's industrial competitiveness and securing trillions of dollars in new investment."`,
+    bodyJa: `President Donald Trump on Monday announced a steel-making company's plan to invest about $15 billion to build what would be the largest plant of its kind in U.S. history.
+The Oval Office announcement with Mesabi Metallics came just weeks before the November midterm election, which is poised to be shaped by Americans' increasingly sour views of Trump's handling of the economy.
+The steel plant is planned to be built in Iowa and aims to begin production in 2030, a White House official told CNBC on condition of anonymity ahead of the Oval Office event.
+The Wall Street Journal first reported the announcement earlier Monday morning.
+Mesabi Metallics, based in Nashwauk, Minnesota, told CNBC the project will deliver "100% American steel: mined, melted and poured in Minnesota and Iowa."
+The steel plant will use iron ore from Mesabi's mine on Minnesota's Iron Range, a more than $2.5 billion project that is just beginning production after roughly two decades in development. That project was beset by controversies and setbacks, including Essar Steel Minnesota filing for bankruptcy in 2016. Mesabi is part of the Essar Group, an Indian conglomerate.
+The first phase of the Iowa steel plant is estimated to produce some 7.5 million tons per year, supporting up to 6,000 construction jobs, according to the White House. It is slated to eventually ramp up to 10 million tons annually and support at least 1,750 permanent jobs, the official told CNBC. The Minnesota mine project has reportedly created 200 full-time jobs out of an anticipated 350 total, according to Minnesota Public Radio.
+Trump was joined in the Oval Office by Mesabi Metallics' CEO Joe Broking and Chairman Rewant Ruia, as well as Commerce Secretary Howard Lutnick, Energy Secretary Chris Wright, Export-Import Bank Chairman John Jovanovic and a number of Iowa elected officials.
+Trump slapped 25% tariffs on steel and aluminum imports near the start of his second term, and then doubled them to 50%. The president, who strongly dislikes trade deficits and has criticized free-trade deals, has doled out a variety of heavy import duties as he seeks to boost domestic manufacturing.
+Critics say the tariffs have played a major role in raising U.S. steel prices, which have recently hit multi-year highs.
+But numerous steel trade groups on Friday sent a letter to Trump, crediting his steel tariffs with driving $47 billion in "announced and underway investment." They urged him not to weaken those tariffs, arguing that doing so would "put that progress at risk."
+Lutnick said in the Oval Office that the plan is a "done deal." But complex, long-term construction projects can change drastically, or face insurmountable roadblocks, over their development cycles.
+Construction on the Minnesota iron mine, for instance, was supposed to finish by 2016, prior to the company behind the project filing for bankruptcy, Minnesota Public Radio reported.
+As president, Trump has previously touted projects that did not live up to their initial hype.
+In his first term, Trump attended Taiwan electronics manufacturer Foxconn's groundbreaking for a planned $10 billion factory in Wisconsin, and praised the project as "the eighth wonder of the world." But in 2021, Foxconn reduced its planned investment to $672 million and cut the number of new jobs down to 1,454 from 13,000.
+White House spokeswoman Taylor Rogers told CNBC in a statement on Monday's factory announcement, "President Trump is delivering on his promise to rebuild American industry, reshore manufacturing, and create new jobs."
+"Today's announcement underscores the President's historic efforts to revitalize the U.S. steel industry —supporting local communities, strengthening supply chains, and protecting our national security," Rogers said. "After decades of decline, this President is restoring America's industrial competitiveness and securing trillions of dollars in new investment."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+    publishedAt: "2026-09-28T21:20:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "uk-tries-to-stop-trump-s-diesel-export-b-88b3c320",
+    title: "UK tries to stop Trump's diesel export ban",
+    titleJa: "UK tries to stop Trump's diesel export ban",
+    summaryJa: "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+    bodyOriginal: `UK tries to stop Trump's diesel export ban
+- Published
+The UK is in talks with US authorities over a potential stoppage of diesel exports and has started preparing for a ban, Chancellor John Healey has told BBC News.
+Diesel prices in the UK reached a new high on Monday due to supply pressures springing from the US-Israel conflict with Iran and Russia's war with Ukraine.
+Fuel prices are rising globally and US President Donald Trump has threatened to ban diesel exports, stating at the weekend: "We're thinking about it very seriously."
+Healey, who admitted that UK diesel prices are "extreme", said the government was in discussions with the US, adding: "We're also making the provision that we may need to and we have our own stocks in the UK."
+Speaking on the sidelines of the annual Labour Party Conference in Liverpool, Healey said: "We work very closely with the Americans.
+"In the end, we're also working with the Americans where we can try and put in place what will solve this, or at least significantly ease it, which would be a diplomatic settlement [and] an end to the fighting with Iran."
+The UK depends on the US for around a third of its diesel imports and a ban would send prices even higher.
+US sources suggest that Trump is considering a ban to attempt to bring down prices for domestic consumers ahead of the critical midterm elections.
+The BBC has contacted the White House for comment.
+In the UK, the average price for a litre of diesel reached 199.33p on Monday, according to the RAC motoring organisation, surpassing a previous high of 199.09p in June 2022 after Russia launched its full-scale invasion of Ukraine.
+Petrol prices are also still rising, with a litre currently costing 174.23p.
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
+The RAC said diesel prices had entered "uncharted territory" and served as a reminder of "just how exposed the UK is to events occurring far away".
+Healey said he was "very aware" of these cost of living pressures as he prepared what he called a "breathing space" Budget on 28 October.
+A freeze on fuel duty, first implemented by the Conservative government in 2022, is due to expire at the end of the year. Duty is scheduled to increase by 3p in January and a further 2p in March.
+Healey said: "Fundamentally, what we need is a settlement in the Middle East. We need an easing of the pressure of costs on business, the costs on households and on ordinary families that we see at the pumps in the most extreme level today for diesel."
+Get in touch
+Have you been affected by the issues raised in this story? Let us know
+Related topics
+- Published6 days ago
+- Published2 hours ago`,
+    bodyJa: `UK tries to stop Trump's diesel export ban
+- Published
+The UK is in talks with US authorities over a potential stoppage of diesel exports and has started preparing for a ban, Chancellor John Healey has told BBC News.
+Diesel prices in the UK reached a new high on Monday due to supply pressures springing from the US-Israel conflict with Iran and Russia's war with Ukraine.
+Fuel prices are rising globally and US President Donald Trump has threatened to ban diesel exports, stating at the weekend: "We're thinking about it very seriously."
+Healey, who admitted that UK diesel prices are "extreme", said the government was in discussions with the US, adding: "We're also making the provision that we may need to and we have our own stocks in the UK."
+Speaking on the sidelines of the annual Labour Party Conference in Liverpool, Healey said: "We work very closely with the Americans.
+"In the end, we're also working with the Americans where we can try and put in place what will solve this, or at least significantly ease it, which would be a diplomatic settlement [and] an end to the fighting with Iran."
+The UK depends on the US for around a third of its diesel imports and a ban would send prices even higher.
+US sources suggest that Trump is considering a ban to attempt to bring down prices for domestic consumers ahead of the critical midterm elections.
+The BBC has contacted the White House for comment.
+In the UK, the average price for a litre of diesel reached 199.33p on Monday, according to the RAC motoring organisation, surpassing a previous high of 199.09p in June 2022 after Russia launched its full-scale invasion of Ukraine.
+Petrol prices are also still rising, with a litre currently costing 174.23p.
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
+The RAC said diesel prices had entered "uncharted territory" and served as a reminder of "just how exposed the UK is to events occurring far away".
+Healey said he was "very aware" of these cost of living pressures as he prepared what he called a "breathing space" Budget on 28 October.
+A freeze on fuel duty, first implemented by the Conservative government in 2022, is due to expire at the end of the year. Duty is scheduled to increase by 3p in January and a further 2p in March.
+Healey said: "Fundamentally, what we need is a settlement in the Middle East. We need an easing of the pressure of costs on business, the costs on households and on ordinary families that we see at the pumps in the most extreme level today for diesel."
+Get in touch
+Have you been affected by the issues raised in this story? Let us know
+Related topics
+- Published6 days ago
+- Published2 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T20:39:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg",
+    readTime: 7,
+  },
+  {
+    id: "boeing-737-max-10-certification-delayed-73f24731",
+    title: "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+    titleJa: "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+    summaryJa: "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+    bodyOriginal: `The head of the Federal Aviation Administration said a software problem will delay its certification of the Boeing 737 Max 10 as the agency assesses whether it poses a safety issue, a potential setback for the manufacturer as it seeks to complete government approval of its best-selling family of aircraft.
+Boeing had expected to receive a green light from its regulator on the years-delayed planes "very soon," CEO Kelly Ortberg told investors earlier this month. But Boeing said Saturday that last month it flagged a software glitch on some 737 Max aircraft that could affect certain landing procedures.
+"We haven't concluded whether this is a safety-of-flight issue or not, but we will be delaying the 10 ... until we're satisfied that we don't have an issue here," FAA Administrator Bryan Bedford said at a press conference on air traffic modernization in Washington, D.C., on Monday.
+The FAA said in a statement that "safety dictates the certification timeline." It added that the agency was "following our safety review process to investigate this software glitch and won't hesitate to take action if needed."
+Boeing shares extended earlier losses after Bedford's comments, shedding nearly 7% Monday, as investors assessed another delay after years of setbacks for the aircraft.
+"We continue to follow the lead of the FAA as we work through the certification process," Boeing said in a statement.
+Boeing said over the weekend that the issue could occur with a vertical navigation system after an aircraft misses an approach and has to go around and line up to land again, such as in situations when there is an obstruction on the runway, for example. Both the company and Bedford said pilots are trained for those circumstances.
+"The pilots remain in control of the airliner, train for these scenarios," Bedford said Monday. "The issue that we're looking at right now is the workload component."
+The FAA certified the Max 7, the smallest of the family, last month. Those planes have the most updated version of the software, which the FAA is evaluating. It isn't clear how that could affect deliveries of those planes to customers like Southwest Airlines.
+U.S. airlines said they don't have any Max aircraft with the issue, in part because they are allowed to revert to older software on those models, if needed, not the newer version that has the potential issue.
+Bedford said Boeing had fixed a previous bug in the system but "unexpectedly ... introduced a new bug."
+Boeing has been trying to move on from years of safety crises, including two crashes of the Max 8 in 2018 and 2019. A flight control system was implicated in those crashes.
+Bedford added on Monday that unlike that system, this "doesn't take control away from the pilots."
+The company had originally planned to start delivering the Max 10 in 2020 before those safety concerns and other problems delayed the plane. It is the last of the Max family waiting to be certified.`,
+    bodyJa: `The head of the Federal Aviation Administration said a software problem will delay its certification of the Boeing 737 Max 10 as the agency assesses whether it poses a safety issue, a potential setback for the manufacturer as it seeks to complete government approval of its best-selling family of aircraft.
+Boeing had expected to receive a green light from its regulator on the years-delayed planes "very soon," CEO Kelly Ortberg told investors earlier this month. But Boeing said Saturday that last month it flagged a software glitch on some 737 Max aircraft that could affect certain landing procedures.
+"We haven't concluded whether this is a safety-of-flight issue or not, but we will be delaying the 10 ... until we're satisfied that we don't have an issue here," FAA Administrator Bryan Bedford said at a press conference on air traffic modernization in Washington, D.C., on Monday.
+The FAA said in a statement that "safety dictates the certification timeline." It added that the agency was "following our safety review process to investigate this software glitch and won't hesitate to take action if needed."
+Boeing shares extended earlier losses after Bedford's comments, shedding nearly 7% Monday, as investors assessed another delay after years of setbacks for the aircraft.
+"We continue to follow the lead of the FAA as we work through the certification process," Boeing said in a statement.
+Boeing said over the weekend that the issue could occur with a vertical navigation system after an aircraft misses an approach and has to go around and line up to land again, such as in situations when there is an obstruction on the runway, for example. Both the company and Bedford said pilots are trained for those circumstances.
+"The pilots remain in control of the airliner, train for these scenarios," Bedford said Monday. "The issue that we're looking at right now is the workload component."
+The FAA certified the Max 7, the smallest of the family, last month. Those planes have the most updated version of the software, which the FAA is evaluating. It isn't clear how that could affect deliveries of those planes to customers like Southwest Airlines.
+U.S. airlines said they don't have any Max aircraft with the issue, in part because they are allowed to revert to older software on those models, if needed, not the newer version that has the potential issue.
+Bedford said Boeing had fixed a previous bug in the system but "unexpectedly ... introduced a new bug."
+Boeing has been trying to move on from years of safety crises, including two crashes of the Max 8 in 2018 and 2019. A flight control system was implicated in those crashes.
+Bedford added on Monday that unlike that system, this "doesn't take control away from the pilots."
+The company had originally planned to start delivering the Max 10 in 2020 before those safety concerns and other problems delayed the plane. It is the last of the Max family waiting to be certified.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+    publishedAt: "2026-09-28T20:16:04+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "supreme-court-justice-alito-will-not-par-d929995d",
+    title: "Supreme Court Justice Alito will not participate in big climate change case next week",
+    titleJa: "Supreme Court Justice Alito will not participate in big climate change case next week",
+    summaryJa: "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
+    bodyOriginal: `Supreme Court Justice Samuel Alito, in a surprising reversal, has recused himself from participating in a major climate-change case the Supreme Court is set to hear next week, which involves the oil companies Exxon Mobil and Suncor Energy.
+Environmental groups had called on Alito, one of the court's six conservative justices, to not participate in the case because of his holdings of stock in oil and gas companies. Alito does not hold stock in Exxon Mobil or Suncor Energy, according to his most recent financial disclosure for 2025.
+Alito previously refused to step off the case after the Supreme Court accepted it for consideration earlier this year. However, in 2023, he did not participate in the court's decision not to consider jurisdictional questions raised by the companies in the same case.
+The case, known as Suncor Energy (USA) Inc. v. County Commissioners of Boulder County, is focused on the question of whether federal law precludes claims made under state law seeking damages for injuries allegedly caused by climate change to greenhouse gas emissions.
+The case is set to be argued on Oct. 5.
+"I am writing to inform the parties that Justice Alito has determined that he will not continue to participate in this case," Scott Harris, the clerk of the Supreme Court, wrote lawyers for the parties in the case, on Monday.
+Alito's sudden recusal sets up the possibility of a 4-4 split ruling on the Supreme Court in the case. A tie in a Supreme Court decision leaves in place the lower-court decision that was being appealed.
+The case involves a lawsuit by the city of Boulder, Colorado, and its surrounding county, that seeks damages for alleged harms from the effects of global climate change. A trial court denied a motion to dismiss that was filed by Suncor and Exxon, and the Colorado state Supreme Court affirmed that ruling, allowing the suit to head to trial.
+If the Supreme Court rules against the oil companies, the case would proceed toward trial.
+In May, a Supreme Court spokeswoman told NBC News that Alito would not step aside from the case.
+"Justice Alito does not have a financial interest in any party" involved in the case, the spokeswoman told NBC News at the time.
+She added that the Supreme Court's legal counsel had advised Alito that "his recusal is not required," according to NBC.`,
+    bodyJa: `Supreme Court Justice Samuel Alito, in a surprising reversal, has recused himself from participating in a major climate-change case the Supreme Court is set to hear next week, which involves the oil companies Exxon Mobil and Suncor Energy.
+Environmental groups had called on Alito, one of the court's six conservative justices, to not participate in the case because of his holdings of stock in oil and gas companies. Alito does not hold stock in Exxon Mobil or Suncor Energy, according to his most recent financial disclosure for 2025.
+Alito previously refused to step off the case after the Supreme Court accepted it for consideration earlier this year. However, in 2023, he did not participate in the court's decision not to consider jurisdictional questions raised by the companies in the same case.
+The case, known as Suncor Energy (USA) Inc. v. County Commissioners of Boulder County, is focused on the question of whether federal law precludes claims made under state law seeking damages for injuries allegedly caused by climate change to greenhouse gas emissions.
+The case is set to be argued on Oct. 5.
+"I am writing to inform the parties that Justice Alito has determined that he will not continue to participate in this case," Scott Harris, the clerk of the Supreme Court, wrote lawyers for the parties in the case, on Monday.
+Alito's sudden recusal sets up the possibility of a 4-4 split ruling on the Supreme Court in the case. A tie in a Supreme Court decision leaves in place the lower-court decision that was being appealed.
+The case involves a lawsuit by the city of Boulder, Colorado, and its surrounding county, that seeks damages for alleged harms from the effects of global climate change. A trial court denied a motion to dismiss that was filed by Suncor and Exxon, and the Colorado state Supreme Court affirmed that ruling, allowing the suit to head to trial.
+If the Supreme Court rules against the oil companies, the case would proceed toward trial.
+In May, a Supreme Court spokeswoman told NBC News that Alito would not step aside from the case.
+"Justice Alito does not have a financial interest in any party" involved in the case, the spokeswoman told NBC News at the time.
+She added that the Supreme Court's legal counsel had advised Alito that "his recusal is not required," according to NBC.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+    publishedAt: "2026-09-28T20:13:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "what-a-us-diesel-export-ban-could-mean-f-48c5f4b2",
+    title: "What a US diesel export ban could mean for you",
+    titleJa: "What a US diesel export ban could mean for you",
+    summaryJa: "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+    bodyOriginal: `What a US diesel export ban could mean for you
+- Published
+US President Donald Trump has said he would back a ban on diesel producers selling overseas as surging fuel prices hit drivers ahead of the midterm elections.
+Diesel prices are hovering near a record $6.45 per gallon on average, according to the American Automobile Association (AAA), due to the ongoing US-Israel war with Iran and tight global supplies.
+Trump and his backers say a US diesel export ban would protect domestic consumers from those rising costs, but experts say it could trigger major economic waves both at home and across the world if it were to happen.
+How much diesel does the US produce and export?
+The US is one of the world's leading energy producers, with domestic refineries churning out roughly four to five million barrels of diesel every day, according to the US Energy Information Administration (EIA).
+Americans consume about 3.6 million barrels of that daily output. Refiners export the remaining1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
+Between 60% and 70% of this exported fuel goes to Latin America. Nations like Mexico, Brazil, Chile, and Ecuador depend heavily on American shipments to power their transport, farming, and factory sectors.
+Significant volumes also head across the Atlantic to European countries like France, the Netherlands, and the UK, as buyers search for alternatives to Middle Eastern supplies.
+What has happened to diesel prices in the US and abroad?
+US diesel prices have climbed to a record high of over $6.50 per gallon – up nearly 70% year-on-year.
+The spike has been driven by broader energy market shocks tied to ongoing conflict with Iran, which has restricted critical shipping routes through the Strait of Hormuz, a waterway south of Iran through which one fifth of the world's oil and gas usually flows.
+Diesel primarily fuels commercial vehicles in the US – such as freight trucks, farm machinery, and cargo trains – which are used for transporting goods and construction.
+This means higher diesel prices can drive up the price of food, building projects, and many other things.
+Outside the US, diesel is used in both commercial and consumer vehicles, but the effects of higher prices are similar.
+In the UK, diesel prices at the pump have hit an all-time high, prompting warnings about logistics costs and household budgets.
+UK Chancellor John Healey has told BBC News that the UK is in talks with US authorities over a potential diesel export ban and has started preparing for it.
+Meanwhile, in France and across continental Europe, governments are struggling with similar cost-of-living pressures because of rising fuel prices.
+What has Trump said, and what is his argument?
+Trump suggested over the weekend that restricting or outright banning US diesel exports could keep fuel in the domestic market and drive down prices for American consumers.
+The president said on Sunday that the administration was "thinking about it very seriously".
+His comments mirror remarks made on the sidelines of the United Nations General Assembly, where he stated that he had called to "not send out the diesel".
+Trump argues that keeping those extra barrels in the US would lower pump prices, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.
+Supporters, including key Republican lawmakers like Congresswoman Ashley Hinson and Senator Dan Sullivan, view the strategy as an effective way to shield the domestic economy from foreign shocks, arguing that American energy should serve American workers first.
+What would an export ban mean for the US and the rest of the world?
+For the US economy, a ban could deliver short-term relief at the pump by flooding the domestic market with excess supply.
+However, energy analysts warn it could backfire.
+David Fyfe, chief economist at Argus Media, notes that cutting off American supply would likely cause international prices to skyrocket.
+That would push up global freight, food, and industrial costs, ultimately "feeding inflation back into the global economy".
+"At a stroke, the US's reputation as a reliable supplier of energy to the world would be shot," Fyfe added.
+Removing more than a million barrels of daily American supply would trigger a fierce bidding war among importing nations in Latin America and Europe.
+Sarah Raffoul, analytics manager at Argus Media, noted that while higher international prices would eventually curb demand, the immediate gap would severely strain trade relationships and accelerate global inflation.
+Get in touch
+Have you been affected by the issues raised in this story? Let us know
+- Published6 days ago
+- Published2 hours ago`,
+    bodyJa: `What a US diesel export ban could mean for you
+- Published
+US President Donald Trump has said he would back a ban on diesel producers selling overseas as surging fuel prices hit drivers ahead of the midterm elections.
+Diesel prices are hovering near a record $6.45 per gallon on average, according to the American Automobile Association (AAA), due to the ongoing US-Israel war with Iran and tight global supplies.
+Trump and his backers say a US diesel export ban would protect domestic consumers from those rising costs, but experts say it could trigger major economic waves both at home and across the world if it were to happen.
+How much diesel does the US produce and export?
+The US is one of the world's leading energy producers, with domestic refineries churning out roughly four to five million barrels of diesel every day, according to the US Energy Information Administration (EIA).
+Americans consume about 3.6 million barrels of that daily output. Refiners export the remaining1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
+Between 60% and 70% of this exported fuel goes to Latin America. Nations like Mexico, Brazil, Chile, and Ecuador depend heavily on American shipments to power their transport, farming, and factory sectors.
+Significant volumes also head across the Atlantic to European countries like France, the Netherlands, and the UK, as buyers search for alternatives to Middle Eastern supplies.
+What has happened to diesel prices in the US and abroad?
+US diesel prices have climbed to a record high of over $6.50 per gallon – up nearly 70% year-on-year.
+The spike has been driven by broader energy market shocks tied to ongoing conflict with Iran, which has restricted critical shipping routes through the Strait of Hormuz, a waterway south of Iran through which one fifth of the world's oil and gas usually flows.
+Diesel primarily fuels commercial vehicles in the US – such as freight trucks, farm machinery, and cargo trains – which are used for transporting goods and construction.
+This means higher diesel prices can drive up the price of food, building projects, and many other things.
+Outside the US, diesel is used in both commercial and consumer vehicles, but the effects of higher prices are similar.
+In the UK, diesel prices at the pump have hit an all-time high, prompting warnings about logistics costs and household budgets.
+UK Chancellor John Healey has told BBC News that the UK is in talks with US authorities over a potential diesel export ban and has started preparing for it.
+Meanwhile, in France and across continental Europe, governments are struggling with similar cost-of-living pressures because of rising fuel prices.
+What has Trump said, and what is his argument?
+Trump suggested over the weekend that restricting or outright banning US diesel exports could keep fuel in the domestic market and drive down prices for American consumers.
+The president said on Sunday that the administration was "thinking about it very seriously".
+His comments mirror remarks made on the sidelines of the United Nations General Assembly, where he stated that he had called to "not send out the diesel".
+Trump argues that keeping those extra barrels in the US would lower pump prices, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.
+Supporters, including key Republican lawmakers like Congresswoman Ashley Hinson and Senator Dan Sullivan, view the strategy as an effective way to shield the domestic economy from foreign shocks, arguing that American energy should serve American workers first.
+What would an export ban mean for the US and the rest of the world?
+For the US economy, a ban could deliver short-term relief at the pump by flooding the domestic market with excess supply.
+However, energy analysts warn it could backfire.
+David Fyfe, chief economist at Argus Media, notes that cutting off American supply would likely cause international prices to skyrocket.
+That would push up global freight, food, and industrial costs, ultimately "feeding inflation back into the global economy".
+"At a stroke, the US's reputation as a reliable supplier of energy to the world would be shot," Fyfe added.
+Removing more than a million barrels of daily American supply would trigger a fierce bidding war among importing nations in Latin America and Europe.
+Sarah Raffoul, analytics manager at Argus Media, noted that while higher international prices would eventually curb demand, the immediate gap would severely strain trade relationships and accelerate global inflation.
+Get in touch
+Have you been affected by the issues raised in this story? Let us know
+- Published6 days ago
+- Published2 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T18:18:30+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e413/live/471b3a50-bb5f-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
+    id: "aldi-boss-says-some-of-rivals-loyalty-di-035af9f2",
+    title: "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+    titleJa: "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+    summaryJa: "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+    bodyOriginal: `Aldi boss says some of rivals' loyalty discounts 'dupe' customers
+- Published
+Aldi's UK boss has accused rival supermarket chains of duping customers in some cases with loyalty discounts that start with "unrealistically high prices" and then drop.
+Chief executive Giles Hurley said discounts are helpful "when they're real and when they show realistic reductions", but hit out at what he said were unrealistic reductions which "dupe customers".
+Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are used by millions of shoppers.
+The UK's official competition watchdog investigated supermarkets' loyalty pricing schemes in 2024 and concluded shoppers "almost always make a genuine saving".
+Former Asda buyer and retail consultant Ged Futter told the BBC Hurley's comments were a "a distraction from the fact is that Aldi is under pressure in the UK".
+He said Aldi was "on a meteoric rise until about two years ago" but that it is "now growing behind the main supermarket pack".
+"The price gap isn't as clear as it once was," he added.
+Hurley, who has made similar comments on discount schemes in the past, was speaking as Aldi reported a 5% increase in sales to £19bn for 2025 from 2024.
+However, operating profits had fallen slightly over the same period, which the retailer said was due to higher staff pay as well as investments in infrastructure and prices.
+Hurley said the business was attracting new customers despite fierce competition across the sector.
+"We are the only retailer where the price of your weekly shop is actually cheaper this summer than last summer," said Hurley
+He said the business was focussed on "everyday low prices, not short-lived offers that disappear the following week".
+"Promotions can supplement every day low prices when they're meaningful, when they're real and when they show realistic reductions.
+"However, when promotions start with unrealistically high prices – and come down to prices which aren't that competitive and dupe customers – we would view that as loyalty that isn't supportive, that isn't transparent and doesn't help customers plan and budget."
+Aldi said it had spent £340m this year on cutting prices. The German-owned chain also announced plans to open 40 new stores next year as part of a £900m investment programme and expand long-term agreements with British suppliers.
+Hurley said recent droughts and global events had highlighted vulnerabilities in food supply chains, arguing that boosting domestic production should be a national strategic priority, helping to reduce the UK's exposure to shocks that can push up food prices.`,
+    bodyJa: `Aldi boss says some of rivals' loyalty discounts 'dupe' customers
+- Published
+Aldi's UK boss has accused rival supermarket chains of duping customers in some cases with loyalty discounts that start with "unrealistically high prices" and then drop.
+Chief executive Giles Hurley said discounts are helpful "when they're real and when they show realistic reductions", but hit out at what he said were unrealistic reductions which "dupe customers".
+Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are used by millions of shoppers.
+The UK's official competition watchdog investigated supermarkets' loyalty pricing schemes in 2024 and concluded shoppers "almost always make a genuine saving".
+Former Asda buyer and retail consultant Ged Futter told the BBC Hurley's comments were a "a distraction from the fact is that Aldi is under pressure in the UK".
+He said Aldi was "on a meteoric rise until about two years ago" but that it is "now growing behind the main supermarket pack".
+"The price gap isn't as clear as it once was," he added.
+Hurley, who has made similar comments on discount schemes in the past, was speaking as Aldi reported a 5% increase in sales to £19bn for 2025 from 2024.
+However, operating profits had fallen slightly over the same period, which the retailer said was due to higher staff pay as well as investments in infrastructure and prices.
+Hurley said the business was attracting new customers despite fierce competition across the sector.
+"We are the only retailer where the price of your weekly shop is actually cheaper this summer than last summer," said Hurley
+He said the business was focussed on "everyday low prices, not short-lived offers that disappear the following week".
+"Promotions can supplement every day low prices when they're meaningful, when they're real and when they show realistic reductions.
+"However, when promotions start with unrealistically high prices – and come down to prices which aren't that competitive and dupe customers – we would view that as loyalty that isn't supportive, that isn't transparent and doesn't help customers plan and budget."
+Aldi said it had spent £340m this year on cutting prices. The German-owned chain also announced plans to open 40 new stores next year as part of a £900m investment programme and expand long-term agreements with British suppliers.
+Hurley said recent droughts and global events had highlighted vulnerabilities in food supply chains, arguing that boosting domestic production should be a national strategic priority, helping to reduce the UK's exposure to shocks that can push up food prices.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T17:45:52+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9fb/live/1a3e24c0-bb64-11f1-b3b3-91d0b491a464.jpg",
+    readTime: 7,
+  },
+  {
+    id: "what-is-the-budget-and-what-could-be-in-0be38d30",
+    title: "What is the Budget and what could be in it?",
+    titleJa: "What is the Budget and what could be in it?",
+    summaryJa: "What is the Budget and what could be in it?- Published",
+    bodyOriginal: `What is the Budget and what could be in it?
+- Published
+Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.
+He has refused to rule out tax increases after acknowledging government borrowing costs are at "historic highs".
+But the government's room for manoeuvre on tax is limited.
+Before the 2024 general election, Labour promised not to increase three big revenue earners for the government: income tax, National Insurance and VAT.
+What is the Budget?
+In his statement, delivered to MPs in the House of Commons, Healey will set out how the government plans to raise or lower taxes.
+Alongside the Budget, the Treasury will publish details about the measures and their costs.
+The independent Office for Budget Responsibility (OBR), which monitors government spending, will also publish an assessment of the health of the UK economy and a forecast of what it thinks will happen in the future.
+What might be in the Budget?
+The run-up to the Budget typically sees speculation about what might be in it, which the government is trying to keep to a minimum this year.
+Healey and Prime Minister Andy Burnham face a difficult balancing act, trying to offer more support to households and meet commitments on defence spending, while also sticking to Labour's manifesto commitments on tax and the government's self-imposed fiscal rules.
+The previous chancellor, Rachel Reeves, set out two main rules, which the new leadership has vowed to follow. These are:
+Not to borrow to fund day-to-day public spending by the end of this parliament
+To get government debt falling as a share of national income by the end of this parliament
+In March, the OBR calculated that the first rule would be met with a gap - or headroom - of £23.6bn. However, this headroom is expected to have shrunk.
+Analysts at KPMG believe it could have fallen to £12bn, mainly due to the rise in government borrowing costs this year.
+However, one option that has been floated is Healey potentially accepting a smaller buffer, reducing the need to increase taxes in the Budget.
+Your First Home scheme
+Further details on the "Your First Home" scheme, aimed at helping first-time buyers in England to purchase a property, are expected to be announced in the Budget.
+The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
+Capital Gains Tax
+There has been speculation that Capital Gains Tax - which is imposed on the profit people make when they sell an asset that has increased in value - could be changed, through either higher rates or by removing or amending exemptions.
+Mansion Tax
+The High Value Council Tax Surcharge - dubbed the Mansion Tax - was announced in last year's Budget and will apply to properties in England valued above £2m from April 2028. However, reports have suggested the government is considering extending it to properties worth more than £1.5m.
+Taxes on banks
+Banks have been reporting bumper profits, leading to calls from unions to increase taxes on the sector. But banks have pushed back, suggesting heavier levies would undermine the government's aim to boost growth and make the UK less competitive.
+Fuel duty
+Fuel duty was frozen under the Conservatives in March 2022 and Sir Keir Starmer's government continued the freeze, deciding in May to push back a planned 3p increase in September until the end of this year.
+Healey told the BBC in late September that the "place" and "time" for dealing with rising petrol and diesel costs was the Budget, but would not give details on whether the freeze would be extended again.
+How is the economy doing?
+In the first three months of the year, the UK's economy grew by 0.6%, although it slowed to 0.4% in the April-to-June period.
+The Office for National Statistics said that figure was "relatively robust", with the UK growing faster than other G7 countries.
+The most recent data showed the economy grew by 0.4% in July, which was much stronger than expected.
+Analysts say the UK economy is proving resilient in the face of energy price shocks caused by the US-Israel war with Iran.
+The conflict has led to the effective closure of the Strait of Hormuz, a key waterway for oil and gas trade. This caused a sharp jump in oil prices, which has fed through to higher energy and fuel prices.
+Economists expect UK growth to slow in the months ahead as those costs continue to weigh on households and businesses.
+Prices for goods and services are still rising faster than wanted. Inflation hit 3.1% in the year to August, the highest rate in five months, and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
+The Bank of England held interest rates at 3.75% for the sixth time in a row in September, but said they were likely to rise if high energy prices persist.
+What time is the Budget and what happens afterwards?
+The Budget speech usually starts at about 12:30 UK time - after Prime Minister's Questions - and lasts about an hour.
+It will be broadcast live on the BBC iPlayer and on the BBC News website.
+The Leader of the Opposition, Conservative MP Kemi Badenoch, will respond to the speech in the House of Commons.
+MPs debate the measures for four days, before voting on them.
+If approved by MPs, tax changes can come into effect immediately.
+However, the government must pass a finance bill to make them permanent.
+Get in touch
+Do you have any views, comments or questions about this story?`,
+    bodyJa: `What is the Budget and what could be in it?
+- Published
+Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.
+He has refused to rule out tax increases after acknowledging government borrowing costs are at "historic highs".
+But the government's room for manoeuvre on tax is limited.
+Before the 2024 general election, Labour promised not to increase three big revenue earners for the government: income tax, National Insurance and VAT.
+What is the Budget?
+In his statement, delivered to MPs in the House of Commons, Healey will set out how the government plans to raise or lower taxes.
+Alongside the Budget, the Treasury will publish details about the measures and their costs.
+The independent Office for Budget Responsibility (OBR), which monitors government spending, will also publish an assessment of the health of the UK economy and a forecast of what it thinks will happen in the future.
+What might be in the Budget?
+The run-up to the Budget typically sees speculation about what might be in it, which the government is trying to keep to a minimum this year.
+Healey and Prime Minister Andy Burnham face a difficult balancing act, trying to offer more support to households and meet commitments on defence spending, while also sticking to Labour's manifesto commitments on tax and the government's self-imposed fiscal rules.
+The previous chancellor, Rachel Reeves, set out two main rules, which the new leadership has vowed to follow. These are:
+Not to borrow to fund day-to-day public spending by the end of this parliament
+To get government debt falling as a share of national income by the end of this parliament
+In March, the OBR calculated that the first rule would be met with a gap - or headroom - of £23.6bn. However, this headroom is expected to have shrunk.
+Analysts at KPMG believe it could have fallen to £12bn, mainly due to the rise in government borrowing costs this year.
+However, one option that has been floated is Healey potentially accepting a smaller buffer, reducing the need to increase taxes in the Budget.
+Your First Home scheme
+Further details on the "Your First Home" scheme, aimed at helping first-time buyers in England to purchase a property, are expected to be announced in the Budget.
+The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
+Capital Gains Tax
+There has been speculation that Capital Gains Tax - which is imposed on the profit people make when they sell an asset that has increased in value - could be changed, through either higher rates or by removing or amending exemptions.
+Mansion Tax
+The High Value Council Tax Surcharge - dubbed the Mansion Tax - was announced in last year's Budget and will apply to properties in England valued above £2m from April 2028. However, reports have suggested the government is considering extending it to properties worth more than £1.5m.
+Taxes on banks
+Banks have been reporting bumper profits, leading to calls from unions to increase taxes on the sector. But banks have pushed back, suggesting heavier levies would undermine the government's aim to boost growth and make the UK less competitive.
+Fuel duty
+Fuel duty was frozen under the Conservatives in March 2022 and Sir Keir Starmer's government continued the freeze, deciding in May to push back a planned 3p increase in September until the end of this year.
+Healey told the BBC in late September that the "place" and "time" for dealing with rising petrol and diesel costs was the Budget, but would not give details on whether the freeze would be extended again.
+How is the economy doing?
+In the first three months of the year, the UK's economy grew by 0.6%, although it slowed to 0.4% in the April-to-June period.
+The Office for National Statistics said that figure was "relatively robust", with the UK growing faster than other G7 countries.
+The most recent data showed the economy grew by 0.4% in July, which was much stronger than expected.
+Analysts say the UK economy is proving resilient in the face of energy price shocks caused by the US-Israel war with Iran.
+The conflict has led to the effective closure of the Strait of Hormuz, a key waterway for oil and gas trade. This caused a sharp jump in oil prices, which has fed through to higher energy and fuel prices.
+Economists expect UK growth to slow in the months ahead as those costs continue to weigh on households and businesses.
+Prices for goods and services are still rising faster than wanted. Inflation hit 3.1% in the year to August, the highest rate in five months, and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
+The Bank of England held interest rates at 3.75% for the sixth time in a row in September, but said they were likely to rise if high energy prices persist.
+What time is the Budget and what happens afterwards?
+The Budget speech usually starts at about 12:30 UK time - after Prime Minister's Questions - and lasts about an hour.
+It will be broadcast live on the BBC iPlayer and on the BBC News website.
+The Leader of the Opposition, Conservative MP Kemi Badenoch, will respond to the speech in the House of Commons.
+MPs debate the measures for four days, before voting on them.
+If approved by MPs, tax changes can come into effect immediately.
+However, the government must pass a finance bill to make them permanent.
+Get in touch
+Do you have any views, comments or questions about this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T17:14:16+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+    readTime: 10,
+  },
+  {
     id: "meta-hires-mongodb-ceo-cj-desai-to-lead-6bb5df46",
     title: "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
     titleJa: "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
@@ -1827,422 +2289,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg",
     readTime: 10,
-  },
-  {
-    id: "funflation-is-on-the-rise-as-hobbies-ge-e2115aeb",
-    title: "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-    titleJa: "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
-    summaryJa: "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
-    bodyOriginal: `It's getting more expensive to have fun in America, but consumers are splurging anyway, seeking out experiences ranging from outdoor activities to video games.
-The Bank of America's latest analysis suggested that "funflation" — the increased cost of fun — may be rising, but consumers aren't cutting back.
-In fact, spending on hobbies, which ranges from arts and crafts and hobby shops to retailers selling skiing, hiking, camping, or scuba diving gear, grew 7.9% in August 2026, year on year, per the bank.
-This was double the growth of actual transactions, which were up 3.4%, meaning consumers are making more hobby purchases overall, as well as spending more on those hobbies.
-"Funflation is the escalating cost of leisure activities, which is seen across prices from gas for weekend cars to ice creams on holiday," John Gathergood, an economics professor at the University of Nottingham in the U.K., told CNBC.
-The latest Bureau of Labor Statistics' Consumer Price Index data found that the recreation index, which includes video and audio, pets and pet services, sporting goods, photography and recreational reading, rose 2.7% in the 12 months through August.
-Meanwhile, sales at sporting goods, hobby, musical instrument, and book stores rose 10.7% in the 12 months through August, outpacing the 6% increase in total U.S. retail and food-services sales over the same period, according to the U.S. Census Bureau's Advance Monthly Retail Trade Report.
-"When prices rise, consumers might substitute between activities," Gathergood said. "More hobbies at home might replace holidays away. More food made at home might replace eating out. So, people may be spending more on hobbies, but are spending less on other activities the hobbies are replacing."
-Travel gets more expensive
-The BofA analysts said the bank's card data suggested the growth in "hobby spending" in recent months may be because people are balancing "a shift away from travel due to higher prices from rising fuel costs," as jet fuel prices jumped thanks to the U.S-Iran war. Their analysis excluded travel from its hobby categories.
-Jet fuel prices were last $194 per barrel for the week ending Sept. 18, up 116% from the prior year's average, according to the International Air Travel Association's Jet Fuel Price Monitor.
-U.S. airfare prices have increased 26.5% year-on-year, according to federal data in August.
-"By foregoing travel abroad, consumers can free up substantial amounts of cash to spend on hobbies at home," The University of Nottingham's Gathergood said.
-Dan Wasiolek, a senior equity analyst at Morningstar, told CNBC that the Covid-19 pandemic accelerated a shift towards "spending on experiences rather than 'things,'" even as consumer confidence and savings come under pressure.
-Wasiolek noted that higher-income families have continued to travel despite higher costs, and regular Americans also said they'd spend on travel over the summer period.
-They planned to spend an average of nearly $2,900 on travel in the summer, according to a PWC survey in April of over 2,000 adults. Some 71% of respondents said they expect to spend the same or more than the previous summer.
-Gen Z versus millennials
-The BofA analysis found that older millennials spent the most on hobbies in the three months to August, spending more than double per consumer than Gen Z, the cohort BofA identified as spending the least.
-"To us, this suggests that these generations are likely gravitating most of their spending toward less expensive hobbies like arts, crafts, and board games," the analysts wrote. "It's also possible that this reflects a shift to more 'granny core' activities like knitting, sewing, or baking."
-The BofA analysis found big growth in per-person video-game spending across age groups in the 12 months to August, with even Gen Z, the generation with the smallest increase, spending 20% more.`,
-    bodyJa: `It's getting more expensive to have fun in America, but consumers are splurging anyway, seeking out experiences ranging from outdoor activities to video games.
-The Bank of America's latest analysis suggested that "funflation" — the increased cost of fun — may be rising, but consumers aren't cutting back.
-In fact, spending on hobbies, which ranges from arts and crafts and hobby shops to retailers selling skiing, hiking, camping, or scuba diving gear, grew 7.9% in August 2026, year on year, per the bank.
-This was double the growth of actual transactions, which were up 3.4%, meaning consumers are making more hobby purchases overall, as well as spending more on those hobbies.
-"Funflation is the escalating cost of leisure activities, which is seen across prices from gas for weekend cars to ice creams on holiday," John Gathergood, an economics professor at the University of Nottingham in the U.K., told CNBC.
-The latest Bureau of Labor Statistics' Consumer Price Index data found that the recreation index, which includes video and audio, pets and pet services, sporting goods, photography and recreational reading, rose 2.7% in the 12 months through August.
-Meanwhile, sales at sporting goods, hobby, musical instrument, and book stores rose 10.7% in the 12 months through August, outpacing the 6% increase in total U.S. retail and food-services sales over the same period, according to the U.S. Census Bureau's Advance Monthly Retail Trade Report.
-"When prices rise, consumers might substitute between activities," Gathergood said. "More hobbies at home might replace holidays away. More food made at home might replace eating out. So, people may be spending more on hobbies, but are spending less on other activities the hobbies are replacing."
-Travel gets more expensive
-The BofA analysts said the bank's card data suggested the growth in "hobby spending" in recent months may be because people are balancing "a shift away from travel due to higher prices from rising fuel costs," as jet fuel prices jumped thanks to the U.S-Iran war. Their analysis excluded travel from its hobby categories.
-Jet fuel prices were last $194 per barrel for the week ending Sept. 18, up 116% from the prior year's average, according to the International Air Travel Association's Jet Fuel Price Monitor.
-U.S. airfare prices have increased 26.5% year-on-year, according to federal data in August.
-"By foregoing travel abroad, consumers can free up substantial amounts of cash to spend on hobbies at home," The University of Nottingham's Gathergood said.
-Dan Wasiolek, a senior equity analyst at Morningstar, told CNBC that the Covid-19 pandemic accelerated a shift towards "spending on experiences rather than 'things,'" even as consumer confidence and savings come under pressure.
-Wasiolek noted that higher-income families have continued to travel despite higher costs, and regular Americans also said they'd spend on travel over the summer period.
-They planned to spend an average of nearly $2,900 on travel in the summer, according to a PWC survey in April of over 2,000 adults. Some 71% of respondents said they expect to spend the same or more than the previous summer.
-Gen Z versus millennials
-The BofA analysis found that older millennials spent the most on hobbies in the three months to August, spending more than double per consumer than Gen Z, the cohort BofA identified as spending the least.
-"To us, this suggests that these generations are likely gravitating most of their spending toward less expensive hobbies like arts, crafts, and board games," the analysts wrote. "It's also possible that this reflects a shift to more 'granny core' activities like knitting, sewing, or baking."
-The BofA analysis found big growth in per-person video-game spending across age groups in the 12 months to August, with even Gen Z, the generation with the smallest increase, spending 20% more.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
-    publishedAt: "2026-09-27T05:00:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "nor-easter-brings-flooding-as-new-york-a-8cd98fce",
-    title: "Nor'easter brings flooding as New York and New Jersey declare emergency",
-    titleJa: "Nor'easter brings flooding as New York and New Jersey declare emergency",
-    summaryJa: "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-    bodyOriginal: `Nor'easter brings flooding as New York and New Jersey declare emergency
-- Published
-Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.
-The so-called nor'easter is bringing "dangerous coastal flooding and beach conditions, strong winds and heavy rainfall" to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.
-States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.
-In Brooklyn, a man was killed by a falling tree, the BBC's US partner CBS News reported.
-The nor'easter has caused widespread power cuts. More than 100,000 households, nearly all in the northeast US, have lost electricity, according to tracker PowerOutage.
-The Federal Aviation Administration recommended air passengers check with airlines about their flight status. More than 2,400 flights have been delayed and another 1,199 grounded, according to FlightAware.
-Saturday's full moon is projected to worsen coastal flooding. Streets and homes were inundated with floodwater in the coastal New Jersey communities of Surf City and Manasquan on Saturday.
-"I urge all New Jerseyans to take this storm seriously, stay alert and follow local guidance," Governor Mikie Sherrill said.
-NWS said in its alert: "Prepare immediately for significant inundation in low-lying areas near the shore, including roads underwater and impacts to homes and businesses."
-In New York, officials are warning of wind gusts of up to 55mph (86km/h) throughout the weekend, leading to downed trees and power lines.
-"Don't travel if you don't have to," NYC Mayor Zohran Mamdani told residents in a video message. "Do not drive or walk through floodwater."
-In the Boston area, the Red Sox moved the last game in their series against the Chicago Cubs to Sunday afternoon in Florida.
-A professional football match between Red Bull New York and St Louis City SC was also cancelled.
-The Global Citizen Festival concert in New York City's Central Park, which was to be headlined by Lauryn Hill, Wyclef Jean and John Legend, will not go ahead.
-Ed Sheeran's Boston concert was also among events called off due to the weather.
-Sheeran's concert at the Gillette Stadium in the Boston area was cancelled for safety reasons, the venue said.
-Related topics
-- Published1 day ago`,
-    bodyJa: `Nor'easter brings flooding as New York and New Jersey declare emergency
-- Published
-Tens of millions of people across the north-eastern US are in the path of a powerful storm bringing coastal flooding, power cuts, travel chaos and cancelled stadium events.
-The so-called nor'easter is bringing "dangerous coastal flooding and beach conditions, strong winds and heavy rainfall" to areas including New York City and Boston on Saturday, the US National Weather Service (NWS) said.
-States of emergency have been declared in New York and New Jersey, both of which faced a coastal deluge in some areas. Rain and strong winds are forecast from Virginia to Maine.
-In Brooklyn, a man was killed by a falling tree, the BBC's US partner CBS News reported.
-The nor'easter has caused widespread power cuts. More than 100,000 households, nearly all in the northeast US, have lost electricity, according to tracker PowerOutage.
-The Federal Aviation Administration recommended air passengers check with airlines about their flight status. More than 2,400 flights have been delayed and another 1,199 grounded, according to FlightAware.
-Saturday's full moon is projected to worsen coastal flooding. Streets and homes were inundated with floodwater in the coastal New Jersey communities of Surf City and Manasquan on Saturday.
-"I urge all New Jerseyans to take this storm seriously, stay alert and follow local guidance," Governor Mikie Sherrill said.
-NWS said in its alert: "Prepare immediately for significant inundation in low-lying areas near the shore, including roads underwater and impacts to homes and businesses."
-In New York, officials are warning of wind gusts of up to 55mph (86km/h) throughout the weekend, leading to downed trees and power lines.
-"Don't travel if you don't have to," NYC Mayor Zohran Mamdani told residents in a video message. "Do not drive or walk through floodwater."
-In the Boston area, the Red Sox moved the last game in their series against the Chicago Cubs to Sunday afternoon in Florida.
-A professional football match between Red Bull New York and St Louis City SC was also cancelled.
-The Global Citizen Festival concert in New York City's Central Park, which was to be headlined by Lauryn Hill, Wyclef Jean and John Legend, will not go ahead.
-Ed Sheeran's Boston concert was also among events called off due to the weather.
-Sheeran's concert at the Gillette Stadium in the Boston area was cancelled for safety reasons, the venue said.
-Related topics
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-27T04:23:09+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 6,
-  },
-  {
-    id: "faisal-islam-the-two-big-decisions-the-c-814d2cae",
-    title: "Faisal Islam: The two big decisions the chancellor must make",
-    titleJa: "Faisal Islam: The two big decisions the chancellor must make",
-    summaryJa: "He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.",
-    bodyOriginal: `Faisal Islam: The two big decisions the chancellor must make
-- Published
-"It is tough," John Healey admitted to me earlier this month when I asked him if there had been too much doom-mongering?
-"Conflicts, uncertainty, driving up inflation, driving up interest rates. But we've got great strengths. We've got good reasons to be confident about the future of Britain," he insisted.
-The new scheme to try and help young people get on the property ladder, announced on Saturday, was aimed at boosting confidence in the economy.
-But the chancellor is now facing two big decisions before his inaugural Budget on 28 October.
-Firstly, about the longevity of the economic pressures caused by the Iran War, and then about how to sustain a modest but notable uptick in economic spirits, through yet more global turbulence.
-In his first weeks as chancellor the oil price fell as low as $75 a barrel while the yield - the effective interest rate - on 10-year government bonds was 4.9%.
-Just over two months later oil has largely traded above $100 and the 10-year yield is at around 5.4%. It is the ultimate double whammy for a chancellor facing his first Budget.
-1. How long could Iran pressures last?
-Yet there is something unusual about this energy shock. It could quickly reverse, as illustrated earlier in the summer when assumptions about a deescalation in the US Iran conflict led to sharp falls in energy prices and yields.
-In New York this week both President Trump and his Iranian counterpart President Pezeshkian suggested November's US midterm elections were connected to when the war might end.
-The Iranians would wait until after the elections to seek peace because the war's impact on the cost of living - particularly soaring diesel costs - could damage him electorally, the US president told the UN General Assembly.
-The Iranian president said his nation "didn't want it to get to the midterms".
-Both sides in this war are feeling the economic squeeze of conflict.
-The 3 November vote is six days after the Budget. No one could rely on there being a settlement by then, but it is plausible.
-So the Budget tax, spend and borrowing forecasts could be based on a prolonged conflict, which is actually on the cusp of ending, or even already ended.
-The chancellor has to therefore decide whether to plan for the worst, and make some painful permanent tax and spend decisions, or buy some time.
-One option is to let borrowing take some of the strain, by tolerating a reduction in the £24bn of headroom - room for manoeuvre against its self-imposed borrowing rules - left by his predecessor, Rachel Reeves.
-This year's headroom will be judged in three years rather than four, so there is some rationale as to why a smaller number over a closer target might be appropriate.
-And while higher inflation means higher interest costs, it also means higher cash tax receipts, at a time when thresholds continue to be frozen.
-2. Will he keep the vibes going?
-There is a second consideration. The hopeful optimism "vibes" strategy of the Burnham administration appears to have had some impact.
-The longest running UK consumer confidence survey has hit a two-year high. Among younger people it has not been this high since before Brexit.
-Some data companies call it a "Burnham bounce", although the weather and World Cup were also factors.
-There is evidence, more mixed, that business optimism has also perked up in recent months, possibly because of earlier falls in energy prices, though this has been clouded by anticipation of possible tax rises. Business group, the Institute of Directors said this was despite, rather than because of, the new government.
-While no one should get too carried away with these turnarounds, they do stand in contrast to the admitted mistake of the Starmer government in talking up consumer pain, two years ago.
-The question for the chancellor is whether better consumer and business spirits can be reconciled with the need for a "challenging" Budget?
-Indeed, it's important to determine how much of the summer global bond market shock is solely down to the impact of the Iran war and how much is more structural.
-Governments are facing new and intense competition in bond markets from the world's biggest AI businesses. In addition, the UK has had recent, prominent political and economic uncertainty.
-Right now the bond markets are like a pack of wolves stalking red deer, probing for weaknesses.
-"At times like this you don't want to be at the back of the herd," said one very senior former Treasury adviser.
-UK and US warned to take action on spiralling debt costs by IMF
-- Published4 days ago
-Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
-- Published5 days ago
-Government borrowing, bonds and yields explained
-- Published14 February 2025
-In response, the Treasury has pointed to the UK having the highest growth and the fastest falling borrowing of the major G7 countries so far this year and our overall energy prices starting to decouple from high and volatile gas prices.
-However, the IMF chief Kristalina Georgieva this week dismissed the idea that advanced nations could pause their fiscal homework, while the Gulf situation calmed.
-"Bring debt levels down, make fiscal consolidation as a priority… it is impossible to stress strongly enough how critical it is to get the courage to take the steps that are necessary," Georgieva told me, acknowledging the UK's "fairly consistent, credible" plans.
-Then there is the curious conundrum of British productivity. Last year, the government's official forecaster the Office for Budget Responsibility (OBR) downgraded the UK's productivity peformance, leading to a notable hit to the public finances.
-Now the UK's productivity record has been upgraded materially by the Office for National Statistics, although this is because of fewer hours worked. There could therefore be an argument to reverse some of that downgrade.
-Separately, the new chair of the OBR Jonathan Haskel is known for his argument that official statistics understate investment in intangibles like software and data. His latest research suggests AI-related investment is already visible in US productivity figures, and he has long been optimistic about tech's impact on the future.
-While it seems unlikely that such factors will make it into the OBR's calculations next month, there is a real debate here.
-Officially, however, part of the job at the Budget is to identify cuts to fund the Defence Investment Plan, inherited from Sir Keir. That's before funding the additional move to 3% of GDP and a new social care system.
-Even a promise of less welfare spending looks like being built on an upfront investment in jobs for young people.
-One change from last year is that so far, the government has parked the "pitch-rolling" with a silence that would rival the Trappist monks.
-Instead, policy announcements are strategically timed such as the "Your First Home" scheme just as the Labour party conference got underway. We can expect to hear plenty more as the Budget nears.`,
-    bodyJa: `Faisal Islam: The two big decisions the chancellor must make
-- Published
-"It is tough," John Healey admitted to me earlier this month when I asked him if there had been too much doom-mongering?
-"Conflicts, uncertainty, driving up inflation, driving up interest rates. But we've got great strengths. We've got good reasons to be confident about the future of Britain," he insisted.
-The new scheme to try and help young people get on the property ladder, announced on Saturday, was aimed at boosting confidence in the economy.
-But the chancellor is now facing two big decisions before his inaugural Budget on 28 October.
-Firstly, about the longevity of the economic pressures caused by the Iran War, and then about how to sustain a modest but notable uptick in economic spirits, through yet more global turbulence.
-In his first weeks as chancellor the oil price fell as low as $75 a barrel while the yield - the effective interest rate - on 10-year government bonds was 4.9%.
-Just over two months later oil has largely traded above $100 and the 10-year yield is at around 5.4%. It is the ultimate double whammy for a chancellor facing his first Budget.
-1. How long could Iran pressures last?
-Yet there is something unusual about this energy shock. It could quickly reverse, as illustrated earlier in the summer when assumptions about a deescalation in the US Iran conflict led to sharp falls in energy prices and yields.
-In New York this week both President Trump and his Iranian counterpart President Pezeshkian suggested November's US midterm elections were connected to when the war might end.
-The Iranians would wait until after the elections to seek peace because the war's impact on the cost of living - particularly soaring diesel costs - could damage him electorally, the US president told the UN General Assembly.
-The Iranian president said his nation "didn't want it to get to the midterms".
-Both sides in this war are feeling the economic squeeze of conflict.
-The 3 November vote is six days after the Budget. No one could rely on there being a settlement by then, but it is plausible.
-So the Budget tax, spend and borrowing forecasts could be based on a prolonged conflict, which is actually on the cusp of ending, or even already ended.
-The chancellor has to therefore decide whether to plan for the worst, and make some painful permanent tax and spend decisions, or buy some time.
-One option is to let borrowing take some of the strain, by tolerating a reduction in the £24bn of headroom - room for manoeuvre against its self-imposed borrowing rules - left by his predecessor, Rachel Reeves.
-This year's headroom will be judged in three years rather than four, so there is some rationale as to why a smaller number over a closer target might be appropriate.
-And while higher inflation means higher interest costs, it also means higher cash tax receipts, at a time when thresholds continue to be frozen.
-2. Will he keep the vibes going?
-There is a second consideration. The hopeful optimism "vibes" strategy of the Burnham administration appears to have had some impact.
-The longest running UK consumer confidence survey has hit a two-year high. Among younger people it has not been this high since before Brexit.
-Some data companies call it a "Burnham bounce", although the weather and World Cup were also factors.
-There is evidence, more mixed, that business optimism has also perked up in recent months, possibly because of earlier falls in energy prices, though this has been clouded by anticipation of possible tax rises. Business group, the Institute of Directors said this was despite, rather than because of, the new government.
-While no one should get too carried away with these turnarounds, they do stand in contrast to the admitted mistake of the Starmer government in talking up consumer pain, two years ago.
-The question for the chancellor is whether better consumer and business spirits can be reconciled with the need for a "challenging" Budget?
-Indeed, it's important to determine how much of the summer global bond market shock is solely down to the impact of the Iran war and how much is more structural.
-Governments are facing new and intense competition in bond markets from the world's biggest AI businesses. In addition, the UK has had recent, prominent political and economic uncertainty.
-Right now the bond markets are like a pack of wolves stalking red deer, probing for weaknesses.
-"At times like this you don't want to be at the back of the herd," said one very senior former Treasury adviser.
-UK and US warned to take action on spiralling debt costs by IMF
-- Published4 days ago
-Unexpected UK borrowing surge adds to pre-Budget pressure on chancellor
-- Published5 days ago
-Government borrowing, bonds and yields explained
-- Published14 February 2025
-In response, the Treasury has pointed to the UK having the highest growth and the fastest falling borrowing of the major G7 countries so far this year and our overall energy prices starting to decouple from high and volatile gas prices.
-However, the IMF chief Kristalina Georgieva this week dismissed the idea that advanced nations could pause their fiscal homework, while the Gulf situation calmed.
-"Bring debt levels down, make fiscal consolidation as a priority… it is impossible to stress strongly enough how critical it is to get the courage to take the steps that are necessary," Georgieva told me, acknowledging the UK's "fairly consistent, credible" plans.
-Then there is the curious conundrum of British productivity. Last year, the government's official forecaster the Office for Budget Responsibility (OBR) downgraded the UK's productivity peformance, leading to a notable hit to the public finances.
-Now the UK's productivity record has been upgraded materially by the Office for National Statistics, although this is because of fewer hours worked. There could therefore be an argument to reverse some of that downgrade.
-Separately, the new chair of the OBR Jonathan Haskel is known for his argument that official statistics understate investment in intangibles like software and data. His latest research suggests AI-related investment is already visible in US productivity figures, and he has long been optimistic about tech's impact on the future.
-While it seems unlikely that such factors will make it into the OBR's calculations next month, there is a real debate here.
-Officially, however, part of the job at the Budget is to identify cuts to fund the Defence Investment Plan, inherited from Sir Keir. That's before funding the additional move to 3% of GDP and a new social care system.
-Even a promise of less welfare spending looks like being built on an upfront investment in jobs for young people.
-One change from last year is that so far, the government has parked the "pitch-rolling" with a silence that would rival the Trappist monks.
-Instead, policy announcements are strategically timed such as the "Your First Home" scheme just as the Labour party conference got underway. We can expect to hear plenty more as the Budget nears.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-26T23:00:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8047/live/4b558d20-b9f5-11f1-afb9-0ba46641015c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-says-he-approved-new-fuel-economy-553e0202",
-    title: "Trump says he approved new fuel economy standards rolling back Biden-era rules",
-    titleJa: "Trump says he approved new fuel economy standards rolling back Biden-era rules",
-    summaryJa: "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
-    bodyOriginal: `President Donald Trump on Saturday said he approved new fuel economy standards, reversing former President Joe Biden's stricter policies meant to fuel electric vehicle adoption.
-Since the Corporate Average Fuel Economy, or CAFE, standards were established in 1975, they have been periodically updated, typically to make vehicles more efficient. Under former President Joe Biden's standards, automakers would have had to increase the fuel efficiency of their passenger cars and light trucks to roughly 50 miles per gallon by 2031. The stricter standards were designed to incentivize electric vehicle production and sales in the U.S.
-Trump presented the policy change as a boon for both automakers and consumers, though the final standards have not yet been publicly detailed.
-"These new Standards will take the waste out of building cars in America. That means LOWER PRICES, saving families thousands on a new, beautiful, and safe car — Far better than the Environmental Monsters that we were building heretofore," he wrote in the Truth Social post. "Every Manufacturer, from General Motors to Ford to Stellantis, has called me wanting to build here, and now they can!"
-The regulatory change would fulfill a campaign promise from Trump to rescind policies that encouraged or incentivized electric vehicles.
-It is unclear what the final fuel economy standards will be, although Transportation Secretary Sean Duffy previously said that they would be sharply lower than the Biden-era policies.
-Weaker fuel economy standards mean that automakers can produce more pickup trucks and SUVs, which are much more profitable than smaller cars but have worse gas mileage. Electric vehicles also become much less attractive to automakers, although some companies, like General Motors, have said that they will still make them.`,
-    bodyJa: `President Donald Trump on Saturday said he approved new fuel economy standards, reversing former President Joe Biden's stricter policies meant to fuel electric vehicle adoption.
-Since the Corporate Average Fuel Economy, or CAFE, standards were established in 1975, they have been periodically updated, typically to make vehicles more efficient. Under former President Joe Biden's standards, automakers would have had to increase the fuel efficiency of their passenger cars and light trucks to roughly 50 miles per gallon by 2031. The stricter standards were designed to incentivize electric vehicle production and sales in the U.S.
-Trump presented the policy change as a boon for both automakers and consumers, though the final standards have not yet been publicly detailed.
-"These new Standards will take the waste out of building cars in America. That means LOWER PRICES, saving families thousands on a new, beautiful, and safe car — Far better than the Environmental Monsters that we were building heretofore," he wrote in the Truth Social post. "Every Manufacturer, from General Motors to Ford to Stellantis, has called me wanting to build here, and now they can!"
-The regulatory change would fulfill a campaign promise from Trump to rescind policies that encouraged or incentivized electric vehicles.
-It is unclear what the final fuel economy standards will be, although Transportation Secretary Sean Duffy previously said that they would be sharply lower than the Biden-era policies.
-Weaker fuel economy standards mean that automakers can produce more pickup trucks and SUVs, which are much more profitable than smaller cars but have worse gas mileage. Electric vehicles also become much less attractive to automakers, although some companies, like General Motors, have said that they will still make them.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-    publishedAt: "2026-09-26T20:50:06+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "boeing-flags-737-max-software-glitch-aff-9f3919b8",
-    title: "Boeing flags 737 Max software glitch affecting some automated approach functions",
-    titleJa: "Boeing flags 737 Max software glitch affecting some automated approach functions",
-    summaryJa: "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
-    bodyOriginal: `Boeing said it flagged a software glitch last month on some 737 Max aircraft that could affect certain landing procedures, as the manufacturer seeks federal approval for the fourth and final model in its best-selling aircraft family.
-The Federal Aviation Administration said Saturday that it is assessing the problem and "will take immediate action if it identifies a safety concern" and that it will review Boeing's proposed fix.
-Boeing said the issue could arise after a missed approach when pilots alter a preprogrammed flight path, and that pilots must take additional steps to use automated tools on subsequent approaches.
-"We shared information with operators that reinforced existing pilot procedures for safely handling such cases. Our engineers are working on a software update to permanently address the issue," Boeing said. The Wall Street Journal reported the issue earlier.
-The company said that pilots are trained to land without the automated system. "We are working directly with airlines to formalize a procedure that will allow pilots to reenable automated vertical navigation should this situation occur," Boeing said.
-U.S. airlines told CNBC that they do not have Max 8 and Max 9 airplanes with the updated software tied to the glitch in their fleets. Airlines can revert some Maxes to the older software version.
-All-Boeing 737 Max carrier Southwest Airlines said it is "aware of the issue and is engaged with Boeing and the FAA."
-It added that "none of our fleet is equipped with Version U.14, including new deliveries of Max 8 airplanes." United Airlines also said it's not taking any Max aircraft deliveries with the new software.
-However, questions remain about the two other models, the Max 7 and Max 10. The Federal Aviation Administration certified the Max 7, the smallest of the Max family, in early August with the newest software installed. It wasn't immediately clear if the aircraft could be delivered or fly with an older version of software.
-Additionally, Boeing CEO Kelly Ortberg told investors earlier this month that he expected FAA certification of the Max 10 "very soon."
-The issue comes after years of delays of Boeing's Max planes following safety and manufacturing crises, including the two deadly crashes of Max 8 aircraft in 2018 and 2019 that killed 346 people. A flawed flight control software system — which has since been updated — was implicated in both crashes.
-There are 2,430 Max aircraft currently in service globally, according to Cirium.`,
-    bodyJa: `Boeing said it flagged a software glitch last month on some 737 Max aircraft that could affect certain landing procedures, as the manufacturer seeks federal approval for the fourth and final model in its best-selling aircraft family.
-The Federal Aviation Administration said Saturday that it is assessing the problem and "will take immediate action if it identifies a safety concern" and that it will review Boeing's proposed fix.
-Boeing said the issue could arise after a missed approach when pilots alter a preprogrammed flight path, and that pilots must take additional steps to use automated tools on subsequent approaches.
-"We shared information with operators that reinforced existing pilot procedures for safely handling such cases. Our engineers are working on a software update to permanently address the issue," Boeing said. The Wall Street Journal reported the issue earlier.
-The company said that pilots are trained to land without the automated system. "We are working directly with airlines to formalize a procedure that will allow pilots to reenable automated vertical navigation should this situation occur," Boeing said.
-U.S. airlines told CNBC that they do not have Max 8 and Max 9 airplanes with the updated software tied to the glitch in their fleets. Airlines can revert some Maxes to the older software version.
-All-Boeing 737 Max carrier Southwest Airlines said it is "aware of the issue and is engaged with Boeing and the FAA."
-It added that "none of our fleet is equipped with Version U.14, including new deliveries of Max 8 airplanes." United Airlines also said it's not taking any Max aircraft deliveries with the new software.
-However, questions remain about the two other models, the Max 7 and Max 10. The Federal Aviation Administration certified the Max 7, the smallest of the Max family, in early August with the newest software installed. It wasn't immediately clear if the aircraft could be delivered or fly with an older version of software.
-Additionally, Boeing CEO Kelly Ortberg told investors earlier this month that he expected FAA certification of the Max 10 "very soon."
-The issue comes after years of delays of Boeing's Max planes following safety and manufacturing crises, including the two deadly crashes of Max 8 aircraft in 2018 and 2019 that killed 346 people. A flawed flight control software system — which has since been updated — was implicated in both crashes.
-There are 2,430 Max aircraft currently in service globally, according to Cirium.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/26/boeing-737-max-navigation-software-glitch.html",
-    publishedAt: "2026-09-26T20:30:58+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "republic-of-ireland-to-wear-black-armban-e1aad8e2",
-    title: "Republic of Ireland to wear black armbands for Israel game",
-    titleJa: "Republic of Ireland to wear black armbands for Israel game",
-    summaryJa: "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
-    bodyOriginal: `Republic of Ireland to wear black armbands for Israel game
-- Published
-Republic of Ireland players intend to wear black armbands "in recognition of all lives lost in the [Gaza] conflict" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.
-Football Association of Ireland (FAI) chief executive David Courell confirmed one player has withdrawn from the squad before the match.
-But he added that a vote among the squad produced a "significant majority" in favour of playing.
-As well as the intention to wear black armbands for Sunday's 'away' game against Israel in Debrecen, Courell said the players will make further gestures for the initial game and the return 'home' fixture against Israel next Sunday in Serbia.
-The fixtures have been embroiled in controversy since the two teams were drawn to play each other in Group B3.
-Republic of Ireland players faced calls to withdraw from the games because of the ongoing Israel-Gaza war with a "Stop The Game" campaign - organised by the pressure group Irish Sport for Palestine - gathering pace.
-"One of their requests is to remove their media obligations for the remainder of this window," Courell said at Saturday's delayed news conference.
-"They also have the intention to wear black armbands in recognition of all lives lost in the [Gaza] conflict.
-"There will be elements of the pre-match ceremony not be partaken in by the Republic of Ireland and it is also the intention of the players to make a significant contribution to charitable donation by virtue of both [Israel] match fees and also the fixture against Austria at the Aviva [Stadium in Dublin on Thursday]."
-There appeared to be real doubt on Saturday morning whether the fixture would take place.
-A pre-match news conference with manager Heimir Hallgrimsson and a player, scheduled for 09:15 BST, was postponed just 15 minutes before it was scheduled to start, with reporters informed it would instead take place after the team's training session which was also delayed.
-The players were locked in a meeting back at their hotel after it emerged a player, goalkeeper Gavin Bazunu, withdrew from the game in protest with several other expressing their concerns about fielding.
-About 13:00, players began to filter out of the meeting room, with it then confirmed the news conference would indeed go ahead, back at Nagyerdei Stadion at 14:30, with training to follow.
-More than five hours after the initial news conference was scheduled to begin, Courell - flanked by Hallgrimsson and FAI director of football John Martin - confirmed a players' vote passed by a "significant majority" to play the game.
-"This morning, a player expressed their discomfort at the fixture and indicated their intent to withdraw," Courell said.
-"This new variable required time for the rest of the squad to consider and what proceeded was another four hours of conversations, predominantly among the players, but also at times with coaching staff and the [FAI] executive.
-"There were a lot of positions presented and the association is fully respectful of everyone's right to their respective opinion."
-Later on Saturday, Bazunu posted on social media explaining his decision, one that he said he had "not taken lightly".
-"I am a man of strong faith and try my best to be a person of character and principle, therefore I feel it would be wrong to participate in the upcoming fixtures against Israel," he said.
-"My decision is based purely upon my personal belief that the killing of innocent people is wrong.
-"It is important to note that my stance is not in opposition of the Israel people or the Jewish community but against the atrocities in the region.
-"There are few times when you get a chance in life to stand up for something bigger and I strongly believe that this is one of them."
-Republic of Ireland squad will meet to discuss Israel games
-- Published3 days ago
-'It's a situation you can't win' - Hallgrimsson
-Former Republic of Ireland manager Brian Kerr and ex-international James McClean are among those to have backed calls for a boycott of the fixtures.
-The armed Palestinian group Hamas attacked Israel on 7 October 2023, killing about 1,200 people and taking 251 hostages.
-In response, Israel launched a massive military offensive in Gaza, during which more than 73,000 people have been killed, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the United Nations.
-Hallgrimsson relayed that nobody "can understand the pressure that has been going on these players" and said the lengthy meeting on Saturday stemmed from "a change of mind for one of the players to play the game".
-"All of the rest of the players are training today," he confirmed.
-"The balance [to play] changed with this [withdrawal] and obviously it was an ongoing discussion but we came to a conclusion and the game is going ahead.
-"We will train and there will probably be more discussions tonight and probably tomorrow. It's a unique situation and we are just trying to limit the damage."
-The Republic of Ireland lost their opening Nations League fixture in Kosovo on Thursday, a match overshadowed in the build-up by the Israel games.
-Asked whether the far from ideal preparation for Sunday's game would affect the players, the Irish boss said "we will see".
-"Nobody is comfortable but it's about limiting the damage, both personally and for Irish football, that we need to find some solution on it," Hallgrimsson added.
-"There is no action we do that everyone will agree to, so we need to find a solution to limit the damage for us as a group, for Ireland as a nation and the association for football in Ireland.
-"We don't know the consequences if we don't play the game but a lot of players share a common feeling, so there are two choices and both are tough. It's a situation you can't win."
-A spokesperson for the Irish governement insists any decision regarding the fixtures lie firmly at the door of the FAI and Uefa.
-"The FAI had decided to play the fixtures against Israel in accordance with their obligations as members of Uefa. Following engagement with players today decision stands," they said.
-"The FAI has strongly represented the views of its membership that Israel should be excluded from international football competitions, including bringing a motion to Uefa to this effect last year. The reality is that this motion was not passed by Uefa and that the FAI was obliged to fulfil the fixture."
-'Football has won' - Israel FA's Barzel
-Israel Football Association [IFA] head of communications Shlomi Barzel commended the Republic of Ireland team for confirming they will play, saying "football has won".
-Barzel began Israel's news conference with a statement before requesting questions regarding the game-only were directed towards captain Dor Peretz and head coach Ran Ben-Shimon who remained on script.
-"The separation between football and politics must be maintained, any other approach spell chaos," he said, confirming Israel players intend to shake hands before the game.
-"The Irish football association [FAI] and the national team players did he right thing by recognising this, even if it took a bit longer than it should. Yet, it is better to be late than never.
-"The one who certainly lost today are those who want to intimidate to separate and turn the football pitch into a political arena. Uefa, the IFA [Israel Football and the FAI stood strong together to prevent it."
-Barzel also confirmed the IFA intend to appeal both yellow cards shown to Sayed Abu Farhi in Thursday's 3-1 defeat by Austria.
-Abu Farhi was shown a second yellow for his goal celebration which Barzel insists was not mimicking the firing of a gun, but an "imitation of a snooker player, like the legendary Ken Doherty."`,
-    bodyJa: `Republic of Ireland to wear black armbands for Israel game
-- Published
-Republic of Ireland players intend to wear black armbands "in recognition of all lives lost in the [Gaza] conflict" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture.
-Football Association of Ireland (FAI) chief executive David Courell confirmed one player has withdrawn from the squad before the match.
-But he added that a vote among the squad produced a "significant majority" in favour of playing.
-As well as the intention to wear black armbands for Sunday's 'away' game against Israel in Debrecen, Courell said the players will make further gestures for the initial game and the return 'home' fixture against Israel next Sunday in Serbia.
-The fixtures have been embroiled in controversy since the two teams were drawn to play each other in Group B3.
-Republic of Ireland players faced calls to withdraw from the games because of the ongoing Israel-Gaza war with a "Stop The Game" campaign - organised by the pressure group Irish Sport for Palestine - gathering pace.
-"One of their requests is to remove their media obligations for the remainder of this window," Courell said at Saturday's delayed news conference.
-"They also have the intention to wear black armbands in recognition of all lives lost in the [Gaza] conflict.
-"There will be elements of the pre-match ceremony not be partaken in by the Republic of Ireland and it is also the intention of the players to make a significant contribution to charitable donation by virtue of both [Israel] match fees and also the fixture against Austria at the Aviva [Stadium in Dublin on Thursday]."
-There appeared to be real doubt on Saturday morning whether the fixture would take place.
-A pre-match news conference with manager Heimir Hallgrimsson and a player, scheduled for 09:15 BST, was postponed just 15 minutes before it was scheduled to start, with reporters informed it would instead take place after the team's training session which was also delayed.
-The players were locked in a meeting back at their hotel after it emerged a player, goalkeeper Gavin Bazunu, withdrew from the game in protest with several other expressing their concerns about fielding.
-About 13:00, players began to filter out of the meeting room, with it then confirmed the news conference would indeed go ahead, back at Nagyerdei Stadion at 14:30, with training to follow.
-More than five hours after the initial news conference was scheduled to begin, Courell - flanked by Hallgrimsson and FAI director of football John Martin - confirmed a players' vote passed by a "significant majority" to play the game.
-"This morning, a player expressed their discomfort at the fixture and indicated their intent to withdraw," Courell said.
-"This new variable required time for the rest of the squad to consider and what proceeded was another four hours of conversations, predominantly among the players, but also at times with coaching staff and the [FAI] executive.
-"There were a lot of positions presented and the association is fully respectful of everyone's right to their respective opinion."
-Later on Saturday, Bazunu posted on social media explaining his decision, one that he said he had "not taken lightly".
-"I am a man of strong faith and try my best to be a person of character and principle, therefore I feel it would be wrong to participate in the upcoming fixtures against Israel," he said.
-"My decision is based purely upon my personal belief that the killing of innocent people is wrong.
-"It is important to note that my stance is not in opposition of the Israel people or the Jewish community but against the atrocities in the region.
-"There are few times when you get a chance in life to stand up for something bigger and I strongly believe that this is one of them."
-Republic of Ireland squad will meet to discuss Israel games
-- Published3 days ago
-'It's a situation you can't win' - Hallgrimsson
-Former Republic of Ireland manager Brian Kerr and ex-international James McClean are among those to have backed calls for a boycott of the fixtures.
-The armed Palestinian group Hamas attacked Israel on 7 October 2023, killing about 1,200 people and taking 251 hostages.
-In response, Israel launched a massive military offensive in Gaza, during which more than 73,000 people have been killed, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the United Nations.
-Hallgrimsson relayed that nobody "can understand the pressure that has been going on these players" and said the lengthy meeting on Saturday stemmed from "a change of mind for one of the players to play the game".
-"All of the rest of the players are training today," he confirmed.
-"The balance [to play] changed with this [withdrawal] and obviously it was an ongoing discussion but we came to a conclusion and the game is going ahead.
-"We will train and there will probably be more discussions tonight and probably tomorrow. It's a unique situation and we are just trying to limit the damage."
-The Republic of Ireland lost their opening Nations League fixture in Kosovo on Thursday, a match overshadowed in the build-up by the Israel games.
-Asked whether the far from ideal preparation for Sunday's game would affect the players, the Irish boss said "we will see".
-"Nobody is comfortable but it's about limiting the damage, both personally and for Irish football, that we need to find some solution on it," Hallgrimsson added.
-"There is no action we do that everyone will agree to, so we need to find a solution to limit the damage for us as a group, for Ireland as a nation and the association for football in Ireland.
-"We don't know the consequences if we don't play the game but a lot of players share a common feeling, so there are two choices and both are tough. It's a situation you can't win."
-A spokesperson for the Irish governement insists any decision regarding the fixtures lie firmly at the door of the FAI and Uefa.
-"The FAI had decided to play the fixtures against Israel in accordance with their obligations as members of Uefa. Following engagement with players today decision stands," they said.
-"The FAI has strongly represented the views of its membership that Israel should be excluded from international football competitions, including bringing a motion to Uefa to this effect last year. The reality is that this motion was not passed by Uefa and that the FAI was obliged to fulfil the fixture."
-'Football has won' - Israel FA's Barzel
-Israel Football Association [IFA] head of communications Shlomi Barzel commended the Republic of Ireland team for confirming they will play, saying "football has won".
-Barzel began Israel's news conference with a statement before requesting questions regarding the game-only were directed towards captain Dor Peretz and head coach Ran Ben-Shimon who remained on script.
-"The separation between football and politics must be maintained, any other approach spell chaos," he said, confirming Israel players intend to shake hands before the game.
-"The Irish football association [FAI] and the national team players did he right thing by recognising this, even if it took a bit longer than it should. Yet, it is better to be late than never.
-"The one who certainly lost today are those who want to intimidate to separate and turn the football pitch into a political arena. Uefa, the IFA [Israel Football and the FAI stood strong together to prevent it."
-Barzel also confirmed the IFA intend to appeal both yellow cards shown to Sayed Abu Farhi in Thursday's 3-1 defeat by Austria.
-Abu Farhi was shown a second yellow for his goal celebration which Barzel insists was not mimicking the firing of a gun, but an "imitation of a snooker player, like the legendary Ken Doherty."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-26T19:59:00+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg",
-    readTime: 10,
-  },
-  {
-    id: "from-6-eggs-to-50-000-cars-these-charts-7e600e3f",
-    title: "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-    titleJa: "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
-    summaryJa: "Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.",
-    bodyOriginal: `Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.`,
-    bodyJa: `Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
-    publishedAt: "2026-09-26T17:54:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-82153957",
-    readTime: 2,
-  },
-  {
-    id: "social-security-checks-are-projected-to-af0d8e90",
-    title: "Social Security checks are projected to be cut by $540 a month in just six years",
-    titleJa: "Social Security checks are projected to be cut by $540 a month in just six years",
-    summaryJa: "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
-    bodyOriginal: `Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.`,
-    bodyJa: `Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/social-security-checks-are-projected-to-be-cut-by-540-a-month-in-just-six-years-a8842912?mod=mw_rss_topstories",
-    publishedAt: "2026-09-26T17:15:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-02028869",
-    readTime: 2,
   },
 ];
 
