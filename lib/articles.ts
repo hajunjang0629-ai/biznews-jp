@@ -15,6 +15,450 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "meta-hires-mongodb-ceo-cj-desai-to-lead-6bb5df46",
+    title: "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+    titleJa: "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+    summaryJa: "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
+    bodyOriginal: `MongoDB CEO CJ Desai is joining Meta Platforms as its chief enterprise platform officer and will report directly to Meta CEO Mark Zuckerberg.
+Desai, who was in his role at MongoDB for less than a year, will be leading the social media giant's new Meta Enterprise Platform for businesses, according to a release.
+The new platform will initially prioritize a suite of tools that includes its new Muse agent, business agent and a coding tool.
+Meta plans to use "strengths that few other companies have: advanced models, leading agents, large-scale infrastructure, and years of working closely with many businesses," Zuckerberg wrote in a release.
+The news sent shares of MongoDB plummeting 25%.
+The MongoDB board named Dev Ittycheria as interim president and CEO. Desai took over from Ittycheria, who served as CEO for 11 years, in November 2025. Desai previously served as president of product and engineering at Cloudflare.
+Desai's transition comes as Meta undergoes a massive pivot, betting big on new AI products and services for its enterprise customers. Amid this transition, investors have demanded a payoff from the company's hefty AI investments on new infrastructure and tools.
+The social media giant's push into the AI agent market with its Muse personal AI assistant has seen a rush of consumer demand, overtaking OpenAI's ChatGPT as the leading free iOS app.
+At the same time, a heated battle is unfolding in both Washington and Silicon Valley after top AI researchers and tech leaders, such as Anthropic's Dario Amodei, called for a development slowdown amid mounting concerns over AI safety.
+MongoDB has shed nearly a quarter of its market value in 2026.`,
+    bodyJa: `MongoDB CEO CJ Desai is joining Meta Platforms as its chief enterprise platform officer and will report directly to Meta CEO Mark Zuckerberg.
+Desai, who was in his role at MongoDB for less than a year, will be leading the social media giant's new Meta Enterprise Platform for businesses, according to a release.
+The new platform will initially prioritize a suite of tools that includes its new Muse agent, business agent and a coding tool.
+Meta plans to use "strengths that few other companies have: advanced models, leading agents, large-scale infrastructure, and years of working closely with many businesses," Zuckerberg wrote in a release.
+The news sent shares of MongoDB plummeting 25%.
+The MongoDB board named Dev Ittycheria as interim president and CEO. Desai took over from Ittycheria, who served as CEO for 11 years, in November 2025. Desai previously served as president of product and engineering at Cloudflare.
+Desai's transition comes as Meta undergoes a massive pivot, betting big on new AI products and services for its enterprise customers. Amid this transition, investors have demanded a payoff from the company's hefty AI investments on new infrastructure and tools.
+The social media giant's push into the AI agent market with its Muse personal AI assistant has seen a rush of consumer demand, overtaking OpenAI's ChatGPT as the leading free iOS app.
+At the same time, a heated battle is unfolding in both Washington and Silicon Valley after top AI researchers and tech leaders, such as Anthropic's Dario Amodei, called for a development slowdown amid mounting concerns over AI safety.
+MongoDB has shed nearly a quarter of its market value in 2026.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+    publishedAt: "2026-09-28T13:42:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "nvidia-share-buyback-plan-gets-150-billi-509fba15",
+    title: "Nvidia share buyback plan gets $150 billion boost",
+    titleJa: "Nvidia share buyback plan gets $150 billion boost",
+    summaryJa: "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+    bodyOriginal: `Nvidia said Monday it has authorized an additional $150 billion to its share buyback program, taking its total to $235 billion, amid record spending on AI.
+The chip giant said it marks the largest share repurchase authorization increase in history. It expects to complete the total remaining buyback program through the fiscal year 2028.
+Nvidia produces the most advanced chips used for AI and has been a huge beneficiary of the boom in spending on the infrastructure needed to power the tech.
+Nvidia's shares have climbed 24% over the past 12 months, lifting the company's market cap to $5.42 trillion. The stock was up 1.24% in premarket trading on Monday.
+"NVIDIA's growth is being driven by a once-in-a-generation platform shift to AI and accelerated computing," said CEO Jensen Huang in a statement.
+"Our cash generation gives us the capacity to invest in the technologies that advance this transformation and return capital to shareholders," he added. "This authorization reflects our confidence in the long-term opportunity ahead."
+Combined hyperscaler capital expenditure is projected to exceed $1.3 trillion by 2027, S&P Global Ratings said in August, as companies race to build AI infrastructure including data centers.
+Huang earlier this month said Nvidia would double the number of chips it sells in 2027.
+Alongside making the leading chips for AI — graphics processing units — including its Grace Blackwell and Vera Rubin systems, the company makes a variety of additional semiconductors. That includes central processors, or CPUs, switch chips, chips for optical networking, chips for laptops, Jetson chips for robots and cars, and the chip inside Nintendo's Switch 2 gaming console.
+"I think we're going through the largest infrastructure buildout in human history, and we have the benefit of being a very central part of that," Huang told CNBC's "Squawk Box" on Monday.
+"We're going to generate a lot of cash in the coming years, and every single year, as we generate more cash, we'd like to be able to return it back to shareholders," he said.`,
+    bodyJa: `Nvidia said Monday it has authorized an additional $150 billion to its share buyback program, taking its total to $235 billion, amid record spending on AI.
+The chip giant said it marks the largest share repurchase authorization increase in history. It expects to complete the total remaining buyback program through the fiscal year 2028.
+Nvidia produces the most advanced chips used for AI and has been a huge beneficiary of the boom in spending on the infrastructure needed to power the tech.
+Nvidia's shares have climbed 24% over the past 12 months, lifting the company's market cap to $5.42 trillion. The stock was up 1.24% in premarket trading on Monday.
+"NVIDIA's growth is being driven by a once-in-a-generation platform shift to AI and accelerated computing," said CEO Jensen Huang in a statement.
+"Our cash generation gives us the capacity to invest in the technologies that advance this transformation and return capital to shareholders," he added. "This authorization reflects our confidence in the long-term opportunity ahead."
+Combined hyperscaler capital expenditure is projected to exceed $1.3 trillion by 2027, S&P Global Ratings said in August, as companies race to build AI infrastructure including data centers.
+Huang earlier this month said Nvidia would double the number of chips it sells in 2027.
+Alongside making the leading chips for AI — graphics processing units — including its Grace Blackwell and Vera Rubin systems, the company makes a variety of additional semiconductors. That includes central processors, or CPUs, switch chips, chips for optical networking, chips for laptops, Jetson chips for robots and cars, and the chip inside Nintendo's Switch 2 gaming console.
+"I think we're going through the largest infrastructure buildout in human history, and we have the benefit of being a very central part of that," Huang told CNBC's "Squawk Box" on Monday.
+"We're going to generate a lot of cash in the coming years, and every single year, as we generate more cash, we'd like to be able to return it back to shareholders," he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+    publishedAt: "2026-09-28T13:08:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "treasury-secretary-scott-bessent-hires-w-a04674b7",
+    title: "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+    titleJa: "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+    summaryJa: "Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.",
+    bodyOriginal: `Treasury Secretary Scott Bessent has hired veteran Wall Street economist David Zervos, the longtime chief market strategist at Jefferies, as a counselor in the Treasury Department. Zervos was a CNBC contributor.
+Bessent announced the hire Monday in a statement obtained first by CNBC. Zervos will serve in a broad advisory capacity and is expected to begin immediately.
+He has backed Bessent's recent decision to increase buybacks of some long-term Treasury debt and has called for lower interest rates from the Federal Reserve.
+Zervos in a brief interview called himself a "Wall Street geek" and said he was excited for his third stint in government. Bessent "has done an incredible job in this administration at guiding the economy through a lot of tumultuous periods," Zervos said.
+"Whether it's trade, whether it's war, he's stepped up," he said of Bessent.
+Zervos will add intellectual firepower to the Treasury after a series of staff departures that have drawn some attention. Seven of the department's 16 Senate-confirmed appointees had left the department as of mid-August, the Washington Sun reported. Bessent is on his third chief of staff since becoming Treasury secretary in January 2025.
+Fellow Wall Street economist Joseph Lavorgna served in a similar role as counselor to Bessent before leaving in March. The position doesn't require Senate confirmation.
+Bessent handles an especially broad portfolio for a Treasury secretary. He has been effectively President Donald Trump's top negotiator on China and has been closely involved in policy debates about artificial intelligence, although Trump on Friday said Bessent would not add a role as the administration's top AI advisor.
+Zervos was considered by Trump to run the Federal Reserve, though the president ultimately chose Kevin Warsh for the job in January.
+Zervos has worked at Jefferies, a New York-based investment bank, since 2010.
+Zervos has a doctorate in economics and has worked twice for the Fed. The first time was at the start of his career, in the early 1990s, when he did technical economics and interest-rate research. He left for the private sector and returned to the Fed in 2009 as a visiting advisor in the wake of the financial crisis. Warsh was a governor at the Fed then, though it isn't clear if he and Zervos worked together directly at the time.
+Zervos will serve as a special government employee, he said in an email to his clients. That status allows him to avoid some often-onerous divestiture requirements that come with other federal appointments, but it restricts how long he can hold the position. Zervos said he expects his term to end in April 2027.
+Zervos said last year he believed interest rates should be "much lower." Since Warsh took the job, Zervos has said he believes Warsh can make room for lower interest rates by cutting the Fed's balance sheet. Those cuts are one of Warsh's top priorities.
+The Fed raised interest rates earlier this month for the first time since 2023. That decision prompted frustration from some economists in the Trump administration, but Bessent has been more circumspect. He said Sunday in an appearance on Fox News that the Fed "should have an open mind" about how to manage the economy.
+Bessent has intervened in Treasury markets as interest rates have continued to rise. The 10-year Treasury hit 5.2% Friday, a level last seen in 2007, powered by a strong economy, competition for capital from the artificial intelligence buildout and concerns about inflation as the Iran war continues.
+Zervos, in a CNBC appearance last month, backed Bessent's decision to increase buybacks of some long-term Treasury debt, a move that may have eased pressure on some Treasury yields. Some on Wall Street had criticized the buybacks, but Zervos said he supported them.
+"I don't see how you could fight this when the firepower and the cards are all sitting in the Treasury Department," Zervos said.`,
+    bodyJa: `Treasury Secretary Scott Bessent has hired veteran Wall Street economist David Zervos, the longtime chief market strategist at Jefferies, as a counselor in the Treasury Department. Zervos was a CNBC contributor.
+Bessent announced the hire Monday in a statement obtained first by CNBC. Zervos will serve in a broad advisory capacity and is expected to begin immediately.
+He has backed Bessent's recent decision to increase buybacks of some long-term Treasury debt and has called for lower interest rates from the Federal Reserve.
+Zervos in a brief interview called himself a "Wall Street geek" and said he was excited for his third stint in government. Bessent "has done an incredible job in this administration at guiding the economy through a lot of tumultuous periods," Zervos said.
+"Whether it's trade, whether it's war, he's stepped up," he said of Bessent.
+Zervos will add intellectual firepower to the Treasury after a series of staff departures that have drawn some attention. Seven of the department's 16 Senate-confirmed appointees had left the department as of mid-August, the Washington Sun reported. Bessent is on his third chief of staff since becoming Treasury secretary in January 2025.
+Fellow Wall Street economist Joseph Lavorgna served in a similar role as counselor to Bessent before leaving in March. The position doesn't require Senate confirmation.
+Bessent handles an especially broad portfolio for a Treasury secretary. He has been effectively President Donald Trump's top negotiator on China and has been closely involved in policy debates about artificial intelligence, although Trump on Friday said Bessent would not add a role as the administration's top AI advisor.
+Zervos was considered by Trump to run the Federal Reserve, though the president ultimately chose Kevin Warsh for the job in January.
+Zervos has worked at Jefferies, a New York-based investment bank, since 2010.
+Zervos has a doctorate in economics and has worked twice for the Fed. The first time was at the start of his career, in the early 1990s, when he did technical economics and interest-rate research. He left for the private sector and returned to the Fed in 2009 as a visiting advisor in the wake of the financial crisis. Warsh was a governor at the Fed then, though it isn't clear if he and Zervos worked together directly at the time.
+Zervos will serve as a special government employee, he said in an email to his clients. That status allows him to avoid some often-onerous divestiture requirements that come with other federal appointments, but it restricts how long he can hold the position. Zervos said he expects his term to end in April 2027.
+Zervos said last year he believed interest rates should be "much lower." Since Warsh took the job, Zervos has said he believes Warsh can make room for lower interest rates by cutting the Fed's balance sheet. Those cuts are one of Warsh's top priorities.
+The Fed raised interest rates earlier this month for the first time since 2023. That decision prompted frustration from some economists in the Trump administration, but Bessent has been more circumspect. He said Sunday in an appearance on Fox News that the Fed "should have an open mind" about how to manage the economy.
+Bessent has intervened in Treasury markets as interest rates have continued to rise. The 10-year Treasury hit 5.2% Friday, a level last seen in 2007, powered by a strong economy, competition for capital from the artificial intelligence buildout and concerns about inflation as the Iran war continues.
+Zervos, in a CNBC appearance last month, backed Bessent's decision to increase buybacks of some long-term Treasury debt, a move that may have eased pressure on some Treasury yields. Some on Wall Street had criticized the buybacks, but Zervos said he supported them.
+"I don't see how you could fight this when the firepower and the cards are all sitting in the Treasury Department," Zervos said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+    publishedAt: "2026-09-28T12:53:03+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "why-uk-diesel-prices-have-hit-an-all-tim-8fc7b7c0",
+    title: "Why UK diesel prices have hit an all-time high",
+    titleJa: "Why UK diesel prices have hit an all-time high",
+    summaryJa: "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+    bodyOriginal: `Why UK diesel prices have hit an all-time high
+- Published
+The price of diesel in the UK has hit an all-time high, as the fallout from the US-Israel war with Iran continues to drive up costs.
+The average price of a litre of diesel at the pump stands at 199.18p, according to the RAC motoring body. The previous record was 199.09p, recorded on 25 June 2022, following Russia's full-scale invasion of Ukraine earlier that year.
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from crude to surge.
+Motor fuel prices fell back when the US and Iran agreed in June to a framework deal to end the fighting, but rose again as tensions resurfaced.
+Meanwhile, US President Donald Trump has responded to rising prices by mulling a ban on US diesel producers selling overseas - a move which could push UK prices even higher.
+How do wholesale oil prices affect the cost of petrol and diesel at the pump?
+Crude oil is a key ingredient in petrol and diesel, which means that higher wholesale costs make filling up a car more expensive. The price of petrol and diesel is also heavily influenced by demand and refining capacity.
+Analysts say every $10 (£7.44) per barrel increase in the oil price pushes up pump prices by roughly 7p a litre.
+Since the war began, the price of a barrel of Brent crude – the global benchmark for wholesale oil prices – has been very volatile.
+Generally speaking, news of further conflict drives the price up while hopes of an end to the war pushes the price down.
+Additionally, Russia has implemented an export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply.
+Before the Middle East conflict, Brent was trading just over $70 a barrel but the fighting saw it peak at above $120.
+In early July, after the framework deal was signed, prices fell back to near the $70 mark.
+The price climbed back up again after peace talks collapsed and it is now above $100 a barrel.
+What has happened to petrol and diesel prices in the UK?
+Before the war began, the average price of petrol was 132.83p per litre and diesel was 142.38p.
+Diesel is now 199.18p, the highest on record.
+Meanwhile, petrol has hit an average 174.13p a litre, which is the highest in more than four years but lower than its peak of 191.5p during the summer of 2022.
+Simon Williams, head of policy at the RAC, said prices at the pumps will not come down until there is a "sustained lower oil price - over several weeks, not days".
+Because transporting oil is a slow process, price movements in wholesale oil markets take about a fortnight to show at the pump.
+Fuel retailers have denied accusations of price gouging during the conflict. The official markets regulator said it had "not seen evidence of retailers actively changing their pricing strategies to take advantage of the crisis".
+A government scheme called Fuel Finder, external lets drivers compare the cost of fuel offered by petrol stations across the UK.
+In May, the then Prime Minister Sir Keir Starmer said a planned 5p increase in fuel duty due in September would be postponed until the end of December because of the conflict.
+Williams said that the UK government has "limited leverage when it comes to ending the US/Iran war" but lowering fuel duty further or reducing VAT could "ease the burden" at home.
+Why has the Iran war had a big impact on oil prices?
+The Middle East conflict sent global oil prices soaring as it effectively closed the Strait of Hormuz — one of the world's key water transport routes for oil, liquid natural gas and other essential commodities — limiting global supplies.
+About 20% of the world's oil and liquefied natural gas normally passes through the waterway.
+Even if a deal is agreed to reopen the strait, experts warn it will take time before normal levels of shipping through the Strait of Hormuz resume, and the impact of the war will continue to affect the global economy for potentially months to come.
+Will Trump ban US diesel exports?
+While Trump has suggested he might ban US producers from selling diesel overseas, he has not done it yet and views differ on how serious this threat is.
+If it does happen, many agree it would hurt the countries which heavily depend on US diesel, such as the UK and several European countries.
+Others note that, while the ban would be likely to reduce US diesel prices in the short-term, it could have unintended effects that could hurt US production – and put pressure on US diesel prices – in the long-term.
+Why and how is US blockading Iranian ports in Strait of Hormuz?
+- Published30 April
+Oil price predicted to remain above $100 for rest of year
+- Published11 May
+Where does the UK get its oil and gas?
+The UK is heavily reliant on oil and gas imports, with the majority coming from the US and Norway.
+The price of oil on the global market determines how much the UK pays for it.
+Although the UK does get some oil from the North Sea, most of that is exported for refining elsewhere.
+You can also send us your questions by following this link
+Reporting by Faarea Masud, Jemma Crew, Alex Daniel, Michael Race, Mitchell Labiak, Emer Moreau and Miguel Roca-Terry
+Get in touch
+How have you been affected by the price rises? Share your experiences
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    bodyJa: `Why UK diesel prices have hit an all-time high
+- Published
+The price of diesel in the UK has hit an all-time high, as the fallout from the US-Israel war with Iran continues to drive up costs.
+The average price of a litre of diesel at the pump stands at 199.18p, according to the RAC motoring body. The previous record was 199.09p, recorded on 25 June 2022, following Russia's full-scale invasion of Ukraine earlier that year.
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from crude to surge.
+Motor fuel prices fell back when the US and Iran agreed in June to a framework deal to end the fighting, but rose again as tensions resurfaced.
+Meanwhile, US President Donald Trump has responded to rising prices by mulling a ban on US diesel producers selling overseas - a move which could push UK prices even higher.
+How do wholesale oil prices affect the cost of petrol and diesel at the pump?
+Crude oil is a key ingredient in petrol and diesel, which means that higher wholesale costs make filling up a car more expensive. The price of petrol and diesel is also heavily influenced by demand and refining capacity.
+Analysts say every $10 (£7.44) per barrel increase in the oil price pushes up pump prices by roughly 7p a litre.
+Since the war began, the price of a barrel of Brent crude – the global benchmark for wholesale oil prices – has been very volatile.
+Generally speaking, news of further conflict drives the price up while hopes of an end to the war pushes the price down.
+Additionally, Russia has implemented an export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply.
+Before the Middle East conflict, Brent was trading just over $70 a barrel but the fighting saw it peak at above $120.
+In early July, after the framework deal was signed, prices fell back to near the $70 mark.
+The price climbed back up again after peace talks collapsed and it is now above $100 a barrel.
+What has happened to petrol and diesel prices in the UK?
+Before the war began, the average price of petrol was 132.83p per litre and diesel was 142.38p.
+Diesel is now 199.18p, the highest on record.
+Meanwhile, petrol has hit an average 174.13p a litre, which is the highest in more than four years but lower than its peak of 191.5p during the summer of 2022.
+Simon Williams, head of policy at the RAC, said prices at the pumps will not come down until there is a "sustained lower oil price - over several weeks, not days".
+Because transporting oil is a slow process, price movements in wholesale oil markets take about a fortnight to show at the pump.
+Fuel retailers have denied accusations of price gouging during the conflict. The official markets regulator said it had "not seen evidence of retailers actively changing their pricing strategies to take advantage of the crisis".
+A government scheme called Fuel Finder, external lets drivers compare the cost of fuel offered by petrol stations across the UK.
+In May, the then Prime Minister Sir Keir Starmer said a planned 5p increase in fuel duty due in September would be postponed until the end of December because of the conflict.
+Williams said that the UK government has "limited leverage when it comes to ending the US/Iran war" but lowering fuel duty further or reducing VAT could "ease the burden" at home.
+Why has the Iran war had a big impact on oil prices?
+The Middle East conflict sent global oil prices soaring as it effectively closed the Strait of Hormuz — one of the world's key water transport routes for oil, liquid natural gas and other essential commodities — limiting global supplies.
+About 20% of the world's oil and liquefied natural gas normally passes through the waterway.
+Even if a deal is agreed to reopen the strait, experts warn it will take time before normal levels of shipping through the Strait of Hormuz resume, and the impact of the war will continue to affect the global economy for potentially months to come.
+Will Trump ban US diesel exports?
+While Trump has suggested he might ban US producers from selling diesel overseas, he has not done it yet and views differ on how serious this threat is.
+If it does happen, many agree it would hurt the countries which heavily depend on US diesel, such as the UK and several European countries.
+Others note that, while the ban would be likely to reduce US diesel prices in the short-term, it could have unintended effects that could hurt US production – and put pressure on US diesel prices – in the long-term.
+Why and how is US blockading Iranian ports in Strait of Hormuz?
+- Published30 April
+Oil price predicted to remain above $100 for rest of year
+- Published11 May
+Where does the UK get its oil and gas?
+The UK is heavily reliant on oil and gas imports, with the majority coming from the US and Norway.
+The price of oil on the global market determines how much the UK pays for it.
+Although the UK does get some oil from the North Sea, most of that is exported for refining elsewhere.
+You can also send us your questions by following this link
+Reporting by Faarea Masud, Jemma Crew, Alex Daniel, Michael Race, Mitchell Labiak, Emer Moreau and Miguel Roca-Terry
+Get in touch
+How have you been affected by the price rises? Share your experiences
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T11:50:18+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+    readTime: 10,
+  },
+  {
+    id: "tourism-tax-needs-to-be-more-flexible-in-f2c82a26",
+    title: "Tourism tax needs to be more flexible in Wales, warns expert",
+    titleJa: "Tourism tax needs to be more flexible in Wales, warns expert",
+    summaryJa: "Anglesey, Conwy and Gwynedd councils have all put a pause on introducing the nightly tourist tax.",
+    bodyOriginal: `Tourism tax needs to be more flexible in Wales, warns expert
+- Published
+Wales' tourism tax needs to be more flexible, an expert has said.
+Last week, Anglesey council rejected introducing the visitor levy for now, over concerns for its tourism industry, while Gwynedd and Conwy councils both postponed making any decision on the nightly fee.
+It is down to local authorities to decide whether they want to introduce the Welsh government legislation - meaning from 2027 a fixed price can be charged per person, per night - and applies to both adults and children.
+The Welsh government said the legislation allowed for decisions to be taken at a local level, with councils able to introduce the levy "to support investment in tourism services and facilities".
+What is a tourism tax?
+A tourism tax, or levy, is a charge which would need to be paid by anyone staying overnight in any area which introduces it.
+The idea is that it covers, or contributes to, the costs which authorities face as a result of the tourism industry.
+If a local authority decides to introduce the tourism tax, fees for people staying in hostels, shared rooms and tent pitches would be 75p + VAT per person per night, while most other types of accommodation would be charged at £1.30 + VAT.
+But according to Dr Linda Osti, senior tourism lecturer at Bangor University, decisions on how much is charged, and how a levy is brought in, should be made on a more local level instead of a one-size-fits-all approach.
+"It's one legislation for every county and and it's applied at county level, when we should think about sub-county level," she said.
+"Geographically, if we think about Gwynedd... we cannot have the same levy on Eryri or Porthmadog. The same legislation cannot work for Cardiff or in Anglesey, on the coast.
+"There are different visitors, there are also different conditions."
+Osti also suggested there was a "mistrust" from tourism businesses on how local authorities would spend money generated from tourism tax, compared to places like the Italian alps where decisions are made through smaller co-operatives.
+Earlier this month, it was announced that regional mayors in England would gain new powers to charge an uncapped levy on overnight stays for visitors.
+Osti, who co-authored a 2024 report for the Welsh government studying how visitor levies worked in other countries, external, said: "If we compare what we know from England, which is very little at the moment, it appears to be much more flexible.
+"So local authorities can decide the percentage to charge and whether to introduce exemptions, and it seems they may also decide for how many nights, and whether to charge children or not.
+"I wish Wales would go back and think about flexibility and revisit the legislation."
+On Thursday, Anglesey council confirmed it would not introduce the so-called tourism tax for now, "given the challenges already facing its tourism industry".
+It said a public consultation received more than 2,000 responses, including from residents, businesses and tourism stakeholders, with concerns voiced about increased costs for visitors, and the island's "competitiveness" as a holiday destination.
+Meanwhile, Cyngor Gywnedd agreed to delay its decision over the levy so more analysis could be done of almost 7,000 responses to its consultation - a number it said was "much higher" than other areas.
+The local authority said initial figures showed a mixed reaction to the proposals, with more support from residents but higher levels of opposition from visitors and businesses.
+In Conwy, council members also chose to defer a decision on implementing the levy until "further evidence and practical experience are available".
+It said concerns from consultations included fears over reduced bookings, shorter stays and reduced visitor spend at a time when local businesses are facing economic pressures.
+Bethan Evans, of family-run business Dolgamedd caravan park in Dolgellau, Gwynedd, is one of those in support of introducing a tourism tax in the county to help areas cope with busy roads and car parks at peak times.
+She said she was "disappointed" that councils appeared to be "scared of a noisy, selfish minority" opposing the fee, and described the 75p per night levy for people camping as "nothing" compared to the rubbish that some visitors left behind at the site.
+"You get people [with] brand new tents who can't be bothered to put a wet tent back in the car so they try and dump them in our bins, which we pay for," she said.
+"There is such a lot of that happening, and the amount of food waste is just incredible. So it's ridiculous saying they can't afford it, oh yes they can."
+But she added: "Some people are wonderful, and those people are happy to pay the tax. We want people who respect the area, who are willing to pay the tax, so that's the kind of tourist I'd like."
+Nicky Williamson, of the Professional Association of Self-Caterers (PASC) UK Cymru, described the pause on introducing the levy across the three counties as a "welcome victory for common sense and for listening to the evidence".
+She said: "Tourism businesses across Wales have been clear about the pressures they are already facing, and the response to these consultations shows the strength of concern about adding another cost to Welsh holidays.
+"This is simply the wrong time to introduce another cost for either businesses or visitors. We welcome councils listening to the evidence and urge others to do the same before taking decisions that could have long-term consequences for Wales' visitor economy."
+So far, Cardiff council looks set to become the only local authority in Wales to introduce the visitor levy in 2027, according to the Welsh government, external.
+From 28 September, those staying in the county must pay the levy on bookings made for 1 April 2027 onwards.
+According to Osti, Cardiff is an example of where the current tourism tax legislation should work well, especially with business tourists who are less "price sensitive".
+"Why would it work in Cardiff? Because it's a typical city destination. People tend to go to Cardiff for a few nights," she said.
+"For two people, two nights, it's not even £10 extra when they're paying £100, £140, £160 per night for a double bedroom.
+"So it would work for Cardiff and then Cardiff can easily organise events as Manchester and Liverpool did in the past... they could do very good things with the charge."
+How does the tourism tax work?
+The visitor levy came about as part of a co-operation deal signed between Labour and Plaid Cymru in 2021, with the legislation published in 2024.
+Officials said they wanted the tax to be simple to understand, so the same rate would be paid for adults and children - although under 18s are exempt from the 75p rate.
+Local authorities decide not only whether to implement the levy, but also how the money generated is spent, according to local needs.
+This is ring-fenced in their budgets for specific things, like promoting tourism, promoting the Welsh language, and improving infrastructure or services used by visitors.
+While the current fee per night is fixed, councils could also charge more in future if they go through a consultation process and give 12 months' notice.
+Stays of more than 31 nights will not be taxed, and neither will people forced into temporary accommodation or people in homeless hostels.
+Louise Emery, Reform spokesperson for culture, tourism, sport and hospitality, said: "Our tourism sector is the lifeblood of our economy.
+"We'll fight attempts to tax it to death."
+Paul Davies, the Welsh Conservative spokesperson for culture, tourism and sport, said: "We should be encouraging tourists to come to Wales, to spend money in our local economy and support our pubs, shops, restaurants and hotels.
+"We should not be deterring tourists with yet more taxes.
+Local authorities must continue to rule out introducing a tourism tax and the Welsh government must scrap it altogether."
+A Welsh government spokesperson said: "It is for local authorities to decide if they want to introduce a levy in their area following consultation with their communities.
+"Cardiff, for example, will implement a levy from April 2027, generating revenues to be reinvested in and around the city that will further enhance the experience for visitors."
+More top stories
+- Published8 hours ago`,
+    bodyJa: `Tourism tax needs to be more flexible in Wales, warns expert
+- Published
+Wales' tourism tax needs to be more flexible, an expert has said.
+Last week, Anglesey council rejected introducing the visitor levy for now, over concerns for its tourism industry, while Gwynedd and Conwy councils both postponed making any decision on the nightly fee.
+It is down to local authorities to decide whether they want to introduce the Welsh government legislation - meaning from 2027 a fixed price can be charged per person, per night - and applies to both adults and children.
+The Welsh government said the legislation allowed for decisions to be taken at a local level, with councils able to introduce the levy "to support investment in tourism services and facilities".
+What is a tourism tax?
+A tourism tax, or levy, is a charge which would need to be paid by anyone staying overnight in any area which introduces it.
+The idea is that it covers, or contributes to, the costs which authorities face as a result of the tourism industry.
+If a local authority decides to introduce the tourism tax, fees for people staying in hostels, shared rooms and tent pitches would be 75p + VAT per person per night, while most other types of accommodation would be charged at £1.30 + VAT.
+But according to Dr Linda Osti, senior tourism lecturer at Bangor University, decisions on how much is charged, and how a levy is brought in, should be made on a more local level instead of a one-size-fits-all approach.
+"It's one legislation for every county and and it's applied at county level, when we should think about sub-county level," she said.
+"Geographically, if we think about Gwynedd... we cannot have the same levy on Eryri or Porthmadog. The same legislation cannot work for Cardiff or in Anglesey, on the coast.
+"There are different visitors, there are also different conditions."
+Osti also suggested there was a "mistrust" from tourism businesses on how local authorities would spend money generated from tourism tax, compared to places like the Italian alps where decisions are made through smaller co-operatives.
+Earlier this month, it was announced that regional mayors in England would gain new powers to charge an uncapped levy on overnight stays for visitors.
+Osti, who co-authored a 2024 report for the Welsh government studying how visitor levies worked in other countries, external, said: "If we compare what we know from England, which is very little at the moment, it appears to be much more flexible.
+"So local authorities can decide the percentage to charge and whether to introduce exemptions, and it seems they may also decide for how many nights, and whether to charge children or not.
+"I wish Wales would go back and think about flexibility and revisit the legislation."
+On Thursday, Anglesey council confirmed it would not introduce the so-called tourism tax for now, "given the challenges already facing its tourism industry".
+It said a public consultation received more than 2,000 responses, including from residents, businesses and tourism stakeholders, with concerns voiced about increased costs for visitors, and the island's "competitiveness" as a holiday destination.
+Meanwhile, Cyngor Gywnedd agreed to delay its decision over the levy so more analysis could be done of almost 7,000 responses to its consultation - a number it said was "much higher" than other areas.
+The local authority said initial figures showed a mixed reaction to the proposals, with more support from residents but higher levels of opposition from visitors and businesses.
+In Conwy, council members also chose to defer a decision on implementing the levy until "further evidence and practical experience are available".
+It said concerns from consultations included fears over reduced bookings, shorter stays and reduced visitor spend at a time when local businesses are facing economic pressures.
+Bethan Evans, of family-run business Dolgamedd caravan park in Dolgellau, Gwynedd, is one of those in support of introducing a tourism tax in the county to help areas cope with busy roads and car parks at peak times.
+She said she was "disappointed" that councils appeared to be "scared of a noisy, selfish minority" opposing the fee, and described the 75p per night levy for people camping as "nothing" compared to the rubbish that some visitors left behind at the site.
+"You get people [with] brand new tents who can't be bothered to put a wet tent back in the car so they try and dump them in our bins, which we pay for," she said.
+"There is such a lot of that happening, and the amount of food waste is just incredible. So it's ridiculous saying they can't afford it, oh yes they can."
+But she added: "Some people are wonderful, and those people are happy to pay the tax. We want people who respect the area, who are willing to pay the tax, so that's the kind of tourist I'd like."
+Nicky Williamson, of the Professional Association of Self-Caterers (PASC) UK Cymru, described the pause on introducing the levy across the three counties as a "welcome victory for common sense and for listening to the evidence".
+She said: "Tourism businesses across Wales have been clear about the pressures they are already facing, and the response to these consultations shows the strength of concern about adding another cost to Welsh holidays.
+"This is simply the wrong time to introduce another cost for either businesses or visitors. We welcome councils listening to the evidence and urge others to do the same before taking decisions that could have long-term consequences for Wales' visitor economy."
+So far, Cardiff council looks set to become the only local authority in Wales to introduce the visitor levy in 2027, according to the Welsh government, external.
+From 28 September, those staying in the county must pay the levy on bookings made for 1 April 2027 onwards.
+According to Osti, Cardiff is an example of where the current tourism tax legislation should work well, especially with business tourists who are less "price sensitive".
+"Why would it work in Cardiff? Because it's a typical city destination. People tend to go to Cardiff for a few nights," she said.
+"For two people, two nights, it's not even £10 extra when they're paying £100, £140, £160 per night for a double bedroom.
+"So it would work for Cardiff and then Cardiff can easily organise events as Manchester and Liverpool did in the past... they could do very good things with the charge."
+How does the tourism tax work?
+The visitor levy came about as part of a co-operation deal signed between Labour and Plaid Cymru in 2021, with the legislation published in 2024.
+Officials said they wanted the tax to be simple to understand, so the same rate would be paid for adults and children - although under 18s are exempt from the 75p rate.
+Local authorities decide not only whether to implement the levy, but also how the money generated is spent, according to local needs.
+This is ring-fenced in their budgets for specific things, like promoting tourism, promoting the Welsh language, and improving infrastructure or services used by visitors.
+While the current fee per night is fixed, councils could also charge more in future if they go through a consultation process and give 12 months' notice.
+Stays of more than 31 nights will not be taxed, and neither will people forced into temporary accommodation or people in homeless hostels.
+Louise Emery, Reform spokesperson for culture, tourism, sport and hospitality, said: "Our tourism sector is the lifeblood of our economy.
+"We'll fight attempts to tax it to death."
+Paul Davies, the Welsh Conservative spokesperson for culture, tourism and sport, said: "We should be encouraging tourists to come to Wales, to spend money in our local economy and support our pubs, shops, restaurants and hotels.
+"We should not be deterring tourists with yet more taxes.
+Local authorities must continue to rule out introducing a tourism tax and the Welsh government must scrap it altogether."
+A Welsh government spokesperson said: "It is for local authorities to decide if they want to introduce a levy in their area following consultation with their communities.
+"Cardiff, for example, will implement a levy from April 2027, generating revenues to be reinvested in and around the city that will further enhance the experience for visitors."
+More top stories
+- Published8 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4glxn32zypo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T10:49:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb00/live/bc487bd0-bb0a-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
+  },
+  {
+    id: "uk-diesel-price-hits-all-time-high-rac-s-9f1864c7",
+    title: "UK diesel price hits all-time high, RAC says",
+    titleJa: "UK diesel price hits all-time high, RAC says",
+    summaryJa: "UK diesel price hits all-time high, RAC says- Published",
+    bodyOriginal: `UK diesel price hits all-time high, RAC says
+- Published
+Diesel prices have hit an all-time high of 199.18p per litre, according to the motoring organisation RAC, as the war in the Middle East continues to push up the cost of fuel.
+Petrol prices are also still rising, with a litre currently costing 174.13p.
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
+RAC said diesel prices had entered "uncharted territory" and served as a reminder of "just how exposed the UK is to events occurring far away".
+The cost of diesel has now risen by 59p a litre, or just under 40%, since the conflict between the USA and Iran erupted at the end of February. The previous record was 199.09p in June 2022.
+The increase means the cost of filling an average family car with diesel is now £110, £31 more than at the start of the conflict.
+Petrol prices are now 41p per litre more than at the start of the conflict, but still well below a 2022 peak.
+The RAC data is based on the average price of diesel at a range of supermarkets, motorway service stations and independent retailers.
+Simon Williams, RAC's head of policy, said the diesel record "spells pain not only at the pumps for drivers, but for everyone who buys goods or services that rely on diesel lorries and vans".
+"Undoubtedly these increased costs will be passed on to consumers," he said. Williams said prices at the pumps will not come down until there is a "sustained lower oil price - over several weeks, not days".
+The price of Brent crude, a benchmark for global oil used to make petrol, diesel and other fuel products, rose over the weekend and is now hovering at around $108 per barrel. Before the US invaded Iran, it was trading at around $73.
+Supplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.
+Russia, which is also a major producer, has also implemented an export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply.
+Diesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.
+The UK is heavily reliant on imports. Although the four refineries in the UK make more than enough petrol to meet demand, they do not make enough diesel for the country's needs.
+UK diesel price hits all-time high
+- Published1 hour ago
+There were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.
+There were 9.8 million diesel cars, down year on year from 10.4 million.`,
+    bodyJa: `UK diesel price hits all-time high, RAC says
+- Published
+Diesel prices have hit an all-time high of 199.18p per litre, according to the motoring organisation RAC, as the war in the Middle East continues to push up the cost of fuel.
+Petrol prices are also still rising, with a litre currently costing 174.13p.
+Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
+RAC said diesel prices had entered "uncharted territory" and served as a reminder of "just how exposed the UK is to events occurring far away".
+The cost of diesel has now risen by 59p a litre, or just under 40%, since the conflict between the USA and Iran erupted at the end of February. The previous record was 199.09p in June 2022.
+The increase means the cost of filling an average family car with diesel is now £110, £31 more than at the start of the conflict.
+Petrol prices are now 41p per litre more than at the start of the conflict, but still well below a 2022 peak.
+The RAC data is based on the average price of diesel at a range of supermarkets, motorway service stations and independent retailers.
+Simon Williams, RAC's head of policy, said the diesel record "spells pain not only at the pumps for drivers, but for everyone who buys goods or services that rely on diesel lorries and vans".
+"Undoubtedly these increased costs will be passed on to consumers," he said. Williams said prices at the pumps will not come down until there is a "sustained lower oil price - over several weeks, not days".
+The price of Brent crude, a benchmark for global oil used to make petrol, diesel and other fuel products, rose over the weekend and is now hovering at around $108 per barrel. Before the US invaded Iran, it was trading at around $73.
+Supplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.
+Russia, which is also a major producer, has also implemented an export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply.
+Diesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.
+The UK is heavily reliant on imports. Although the four refineries in the UK make more than enough petrol to meet demand, they do not make enough diesel for the country's needs.
+UK diesel price hits all-time high
+- Published1 hour ago
+There were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.
+There were 9.8 million diesel cars, down year on year from 10.4 million.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T10:00:18+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7b/live/e8d5cf70-bb20-11f1-bd21-bdf910f2cec6.jpg",
+    readTime: 7,
+  },
+  {
+    id: "why-the-pm-could-finally-drop-the-triple-eb612ce2",
+    title: "Why the PM could finally drop the triple lock pension pledge",
+    titleJa: "Why the PM could finally drop the triple lock pension pledge",
+    summaryJa: "Andy Burnham said that he would make tough decisions to fund a new national care service.",
+    bodyOriginal: `Why the PM could finally drop the triple lock pension pledge
+- Published
+The prime minister's Sunday morning BBC interview set hares running when it comes to the future of a policy once seen as politically untouchable.
+The timing of the PM's new social care plan sparked suggestions the government could be about to signal the death knell to the state pension triple lock after 16 years.
+Andy Burnham said he will put forward tough decisions to fund a new national care service as part of Labour's next general election manifesto, seeking a mandate to make the changes next Parliament.
+The triple lock, which in theory expires at the end of this Parliament, means state pensions rise every April by at least 2.5%, or in line with the highest of prices or earnings.
+Earlier this month, BBC News put this precise question about changing the triple lock in the next Parliament to Chancellor John Healey, who replied "the PM has said, like I have, that we must bring down welfare costs".
+It was a non-denial reflecting the fact that the PM has been besieged with advice, including from some of his favourite economists, that scrapping the triple lock, or even signalling it is a future possibility, is a golden opportunity for Britain's economic policy at a tricky moment in the bond markets for all heavily indebted nations.
+The UK specifically is seen as a place where successive governments have shirked tough long-term decisions. Could this be Burnham and Healey's attempt to shift that perception, even in the slightly wild markets for government borrowing?
+The politics are trickier. Reform's leaders see the policy as a key potential dividing line with Labour.
+Many in Westminster privately agree the Osborne-era policy is unsustainable economically, but argue it is politically impossible to unpick.
+Many pensions campaigners point to the fact that even after increases, the UK's state pension is not generous by international standards, though other countries have very different systems and rates of private provision.
+Former ministers point out that the quid pro quo of redeploying the pension cash savings towards an in kind care service could shift the argument.
+The lock is costing £15.5bn a year, treble original estimates of the 2030 cost, especially because of the volatility of prices and earnings.
+Reverting to an earnings link could save tens of billions of pounds a year in the long run.
+It is the sort of saving that could plausibly fund some form of national care service, potentially with cash left over as a buffer in a volatile world - but that depends on the ambition of the care plan, the generosity of any replacement for the triple lock, and how volatile prices are in the long term.
+It had been deemed politically unthinkable, but the government now seems to be thinking about it, at least for the future.
+Get in touch
+What are you views on the triple lock?`,
+    bodyJa: `Why the PM could finally drop the triple lock pension pledge
+- Published
+The prime minister's Sunday morning BBC interview set hares running when it comes to the future of a policy once seen as politically untouchable.
+The timing of the PM's new social care plan sparked suggestions the government could be about to signal the death knell to the state pension triple lock after 16 years.
+Andy Burnham said he will put forward tough decisions to fund a new national care service as part of Labour's next general election manifesto, seeking a mandate to make the changes next Parliament.
+The triple lock, which in theory expires at the end of this Parliament, means state pensions rise every April by at least 2.5%, or in line with the highest of prices or earnings.
+Earlier this month, BBC News put this precise question about changing the triple lock in the next Parliament to Chancellor John Healey, who replied "the PM has said, like I have, that we must bring down welfare costs".
+It was a non-denial reflecting the fact that the PM has been besieged with advice, including from some of his favourite economists, that scrapping the triple lock, or even signalling it is a future possibility, is a golden opportunity for Britain's economic policy at a tricky moment in the bond markets for all heavily indebted nations.
+The UK specifically is seen as a place where successive governments have shirked tough long-term decisions. Could this be Burnham and Healey's attempt to shift that perception, even in the slightly wild markets for government borrowing?
+The politics are trickier. Reform's leaders see the policy as a key potential dividing line with Labour.
+Many in Westminster privately agree the Osborne-era policy is unsustainable economically, but argue it is politically impossible to unpick.
+Many pensions campaigners point to the fact that even after increases, the UK's state pension is not generous by international standards, though other countries have very different systems and rates of private provision.
+Former ministers point out that the quid pro quo of redeploying the pension cash savings towards an in kind care service could shift the argument.
+The lock is costing £15.5bn a year, treble original estimates of the 2030 cost, especially because of the volatility of prices and earnings.
+Reverting to an earnings link could save tens of billions of pounds a year in the long run.
+It is the sort of saving that could plausibly fund some form of national care service, potentially with cash left over as a buffer in a volatile world - but that depends on the ambition of the care plan, the generosity of any replacement for the triple lock, and how volatile prices are in the long term.
+It had been deemed politically unthinkable, but the government now seems to be thinking about it, at least for the future.
+Get in touch
+What are you views on the triple lock?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-28T07:38:21+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/8f3a1c10-bb1a-11f1-bd21-bdf910f2cec6.png",
+    readTime: 7,
+  },
+  {
     id: "brent-gains-2-7-as-trump-rejects-iranian-7b82c359",
     title: "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
     titleJa: "Brent gains 2.7% as Trump rejects Iranian proposal to reopen Hormuz Strait",
@@ -267,6 +711,180 @@ Again that's not available to all, but a survey by the Nationwide Building Socie
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/575c/live/fae572d0-bac9-11f1-84a6-95681df48b66.jpg",
     readTime: 9,
+  },
+  {
+    id: "my-hometown-shows-that-high-streets-have-13bf7f2e",
+    title: "My hometown shows that high streets have to change or die",
+    titleJa: "My hometown shows that high streets have to change or die",
+    summaryJa: "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+    bodyOriginal: `The empty building that used to be the home of Marks & Spencer in Aberdeen is one of the first things you see when you arrive off the train and come into the city centre. The sign has gone, though the shape of the lettering can still be made out; the windows are blacked out and the doors boarded up.
+This is my hometown. As a teenager, I spent hours on Union Street, its main thoroughfare, nicknamed the Granite Mile after the local silver-grey stone. It was the place to try on all the latest fashions from the likes of Clockhouse and Chelsea Girl.
+The street used to be packed with shoppers from across the north-east of Scotland.
+Now, it's pockmarked with empty shops.
+"I come to Union Street to take a bus somewhere else... there's nothing to shop for now… it's horrendous," complains Marie Sim, a lifelong Aberdeen resident.
+It's a similar story across the country: High Streets, once bursting with shops, hit first by the rise of out-of-town retail centres and then by online commerce.
+But Aberdeen is in the thick of an ambitious turnaround plan. The port city has essentially declared war on its empty shop problem, taking an unusually hands-on approach to filling vacant units and bringing long-neglected upper floors of buildings into use.
+On top of that, the council is pouring tens of millions into trying to make the city centre a destination again. Like many other places, it's leaning into the "experience economy", with a new indoor food and drink market and a major redevelopment of the seafront.
+High Streets are integral to how we feel about where we live. The sight of vacant shops and graffiti can quickly become a vicious circle, deterring shoppers, discouraging investment and leading to anti-social behaviour.
+Politicians of all stripes have been trying for years to breathe new life into town centres - and Andy Burnham, who has made a focus on "place" part of his political identity, is the latest. He argues they should become "symbols of Britain's renaissance".
+But can it be achieved? And if they're to survive, do town centres need a fundamental rethink?
+'Too much retail space'
+One in eight properties on British High Streets are currently vacant, according to Green Street, the property and retail analytics company, a number that's stayed stubbornly high for years.
+"If there was a silver bullet, it would have been fired years ago," says Jackie Sadek, a former government adviser on urban regeneration, who has spent nearly four decades working in town centre renewal.
+One of the biggest obstacles is fractured ownership. Shops and buildings are often owned by dozens of different landlords, sometimes through offshore companies or complex structures, each with their own interests and priorities. That can slow decision-making and make large-scale regeneration difficult.
+But even with empty units that are available, you need to find someone willing to take them on.
+Many units are old and need modernising.
+The cost of running a High Street business has also risen; employment costs are higher, and there's the burden of business rates.
+Firms need customers. Footfall on many High Streets has been in long-term decline as shopping and services move online, and this enormous structural shift has yet to play out fully.
+Two-thirds of town centre experts think there is still 20% to 40% too much retail space, according to a survey by retail body Revo and real estate consultancy Lambert Smith Hampton.
+Whack-a-mole shop filling
+In Aberdeen's boom years of North Sea oil, from the late 1970s through to the early 2010s, it didn't have to work hard to fill its hotels and restaurants and get the cash tills ringing because of the wealth the energy industry brought to the city.
+I remember weekends with friends as a teenager, spending whatever cash we had in the fashion chains and shoe shops. Later came the pubs and bar-hopping, and trips to the art deco Capitol Theatre (now office space), where I saw Duran Duran.
+But by the end of 2022, Union Street had hit rock bottom. Aberdonians had long deserted the High Street for a shopping centre, which opened in 2009 next to the railway station.
+"They'd fallen out of love with their city," says Bob Keiller, head of Our Union Street coalition, a community-led group formed after an emergency summit to reverse the decline.
+The first thing it did was listen to what residents wanted, receiving thousands of submissions. Restoring a bit of civic pride and filling empty units became the focus.
+It's been a co-ordinated effort, involving letting agents, the council, landlords, businesses and a big team of volunteers, led by Keiller, a former FTSE 100 CEO, who isn't getting paid. He has a map on his office wall, detailing the status of every property, unit by unit, with colour-coded Post-it notes.
+They audited the street, tracking down absent landlords, and logging what was empty and why. Volunteers offered to give the empty properties a clean and a lick of paint, to make them more attractive to let. They also spruced up the streets, picking litter, weeding, and painting bins. A small team still goes out once a fortnight.
+There's a website where all the available properties are collated; crucially, all of the financial incentives are also listed. These can include council fit-out grants (where a new business gets money to decorate premises), and a two-year discount from business rates.
+In 2023, 57 of the 198 units on Union Street were empty. As of today, 33 have been filled, with a further 14 in the process of being let.
+But it can feel like a game of whack-a-mole because since the initiative started, another 20 units have become vacant. "The key thing is, we're filling quicker than emptying," Keiller insists.
+Keiller's operations director, David McKeith, describes it as putting an arm round the shoulder of those they can help and being a "wasp in the ear" of people who just say no.
+At one end of the office, a small, young team produces social media content, linking visitors and residents to a new Our Aberdeen app, showing what the city can offer.
+For Keiller, the "small wins" - like tackling graffiti - are needed to help change public perception.
+"We've realised the psychology is not to do it once but be prepared to do it two or three times before people that do these things eventually say, 'there's no point in putting it there because somebody's going to paint over it.'"
+The upper floor problem
+Attention is also turning to the often-forgotten upper floors of buildings along the once-iconic Union Street. In a separate initiative run by the business group Aberdeen Inspired, experts are getting inside those vacant high-up spaces to identify the barriers to bringing them back into use.
+Aberdeen sought the help of a High Street troubleshooter, Iain Nicholson, who's worked with dozens of towns and cities through his Vacant Shops Academy.
+Out of more than 1,000 empty units he helped audit nationally, on average more than half didn't have a letting agent actively marketing the property. He says some councils don't even know who the landlords are.
+Empty shops, he says, won't all be filled by the market alone. Towns and cities need to encourage a broader range of occupiers, from arts and culture to leisure, health and well-being.
+He says what's striking about Aberdeen is its joined-up approach, and the fact people "rolled up their sleeves" and overcame differences. "That's not something you can yet say about everywhere."
+New markets and widened pavements
+Can other places learn from Aberdeen?
+Every town and city faces its own mix of challenges.
+Nicholson also helped Crewe in Cheshire. As a smaller place than Aberdeen, it is focusing on arts, culture, and community, with a new women's centre opened this month.
+And English councils are being encouraged to take a more interventionist role.
+They can now force an empty commercial unit that's been vacant for at least a year to be offered to tenants through a High Street Rental Auction, even if the landlord doesn't want to let it.
+It's early days but the mere prospect of losing control of a property is delivering some results. Bassetlaw Council in Nottinghamshire, an early adopter of the scheme, says more than 30 shops across the district have been let or are currently under offer as a result of the policy.
+But filling empty units is only part of the challenge. The bigger question is what town and city centres are actually for.
+Changing habits mean we won't need so many shops. Instead, it's argued, town centres will need more people living and working in them, with new homes and office space alongside services that can't be done online. With an ageing population, for example, bringing NHS health centres into the heart of a town could be a big opportunity.
+In Aberdeen, the building that used to house BHS - a department store shuttered in 2016 - is being converted into an entrance plaza for the new food and drink market.
+The physical appearance of Union Street is changing too. Like many Victorian shopping thoroughfares, it was built with a wide road (probably to give space to horses and carriages). Now parts of the pavements are being widened to make it a more pleasant place to spend time, though many Aberdonians are weary of the disruption, and of new traffic restrictions.
+Money is a big barrier. Aberdeen's new indoor food and drink market is costing £40m, funded by the council and the UK Levelling Up Fund. In other places, regeneration schemes can struggle because the cost of redevelopment outweighs the likely financial return, making support from the public sector essential. And the economics are becoming more challenging.
+"Higher interest rates, rising costs of construction and other issues are impacting the viability and delivery of new housing and big redevelopment projects," says Steve Norris, a director at Lambert Smith Hampton. He says that big projects usually require cash from both the public and private sectors.
+He wants to see "more creative ways of funding".
+Part of Burnham's plan is to give local leaders more freedom to invest in town centres and drive regeneration, building on the approach he has championed in Greater Manchester. But bigger projects take years.
+Making it easier and cheaper to open and run a High Street business is one of the more immediate solutions being called for, with business rates a particular concern.
+Burnham has promised further rates reform. All eyes are on this month's Budget to see how far he will go.
+The chief executive of Next, Simon Wolfson, argues that the bigger challenge is not business rates, but planning reform.
+"The most important thing that the government can do for high streets is let them develop," says Wolfson, who's also a Conservative peer.
+Rome 'not built in a day'
+Back in Aberdeen, there are some signs of traction.
+Lauren Reid and her mother Rose moved their fashion boutique to Union Street in 2024. A council grant helped with the refurbishment after they decided to make the leap.
+Can they make the sums add up? "We're getting there," she says.
+She feels the same about the future of her street. "I always say Rome wasn't built in a day."
+Right now the area feels like a construction site - but another gaping hole will soon be filled. Robert Keane is a local property developer who in 2023 bought the Trinity shopping centre, once home to Debenhams. The space is now set to be re-occupied by a national leisure brand. A notoriously tiring stairway leading to the Trinity from the train station is also being replaced by an escalator.
+"We saw a real good opportunity, because it was dying," he says.
+He reckons he can make a go of it, cutting the cost of parking and overheads, resetting rents and being more nimble than previous far-flung owners.
+It was a bold move given Lambert Smith Hampton suggests that more than one in 10 UK shopping centres is ripe for demolition.
+But he's betting the dynamics of Aberdeen are finally changing.
+"I think by 2027 it should look and feel like a different city."
+That is certainly the hope. Yet walking along Union Street today, past the boarded-up shopfronts and roadworks, it can still feel like a city caught between its past and whatever comes next.
+Top image credit: Getty Images
+More from InDepth
+Why the UK is dithering over what to do about e-scooters
+- Published23 July
+The sale of illegal cigarettes signals a deeper problem with UK high streets
+- Published3 July 2025
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `The empty building that used to be the home of Marks & Spencer in Aberdeen is one of the first things you see when you arrive off the train and come into the city centre. The sign has gone, though the shape of the lettering can still be made out; the windows are blacked out and the doors boarded up.
+This is my hometown. As a teenager, I spent hours on Union Street, its main thoroughfare, nicknamed the Granite Mile after the local silver-grey stone. It was the place to try on all the latest fashions from the likes of Clockhouse and Chelsea Girl.
+The street used to be packed with shoppers from across the north-east of Scotland.
+Now, it's pockmarked with empty shops.
+"I come to Union Street to take a bus somewhere else... there's nothing to shop for now… it's horrendous," complains Marie Sim, a lifelong Aberdeen resident.
+It's a similar story across the country: High Streets, once bursting with shops, hit first by the rise of out-of-town retail centres and then by online commerce.
+But Aberdeen is in the thick of an ambitious turnaround plan. The port city has essentially declared war on its empty shop problem, taking an unusually hands-on approach to filling vacant units and bringing long-neglected upper floors of buildings into use.
+On top of that, the council is pouring tens of millions into trying to make the city centre a destination again. Like many other places, it's leaning into the "experience economy", with a new indoor food and drink market and a major redevelopment of the seafront.
+High Streets are integral to how we feel about where we live. The sight of vacant shops and graffiti can quickly become a vicious circle, deterring shoppers, discouraging investment and leading to anti-social behaviour.
+Politicians of all stripes have been trying for years to breathe new life into town centres - and Andy Burnham, who has made a focus on "place" part of his political identity, is the latest. He argues they should become "symbols of Britain's renaissance".
+But can it be achieved? And if they're to survive, do town centres need a fundamental rethink?
+'Too much retail space'
+One in eight properties on British High Streets are currently vacant, according to Green Street, the property and retail analytics company, a number that's stayed stubbornly high for years.
+"If there was a silver bullet, it would have been fired years ago," says Jackie Sadek, a former government adviser on urban regeneration, who has spent nearly four decades working in town centre renewal.
+One of the biggest obstacles is fractured ownership. Shops and buildings are often owned by dozens of different landlords, sometimes through offshore companies or complex structures, each with their own interests and priorities. That can slow decision-making and make large-scale regeneration difficult.
+But even with empty units that are available, you need to find someone willing to take them on.
+Many units are old and need modernising.
+The cost of running a High Street business has also risen; employment costs are higher, and there's the burden of business rates.
+Firms need customers. Footfall on many High Streets has been in long-term decline as shopping and services move online, and this enormous structural shift has yet to play out fully.
+Two-thirds of town centre experts think there is still 20% to 40% too much retail space, according to a survey by retail body Revo and real estate consultancy Lambert Smith Hampton.
+Whack-a-mole shop filling
+In Aberdeen's boom years of North Sea oil, from the late 1970s through to the early 2010s, it didn't have to work hard to fill its hotels and restaurants and get the cash tills ringing because of the wealth the energy industry brought to the city.
+I remember weekends with friends as a teenager, spending whatever cash we had in the fashion chains and shoe shops. Later came the pubs and bar-hopping, and trips to the art deco Capitol Theatre (now office space), where I saw Duran Duran.
+But by the end of 2022, Union Street had hit rock bottom. Aberdonians had long deserted the High Street for a shopping centre, which opened in 2009 next to the railway station.
+"They'd fallen out of love with their city," says Bob Keiller, head of Our Union Street coalition, a community-led group formed after an emergency summit to reverse the decline.
+The first thing it did was listen to what residents wanted, receiving thousands of submissions. Restoring a bit of civic pride and filling empty units became the focus.
+It's been a co-ordinated effort, involving letting agents, the council, landlords, businesses and a big team of volunteers, led by Keiller, a former FTSE 100 CEO, who isn't getting paid. He has a map on his office wall, detailing the status of every property, unit by unit, with colour-coded Post-it notes.
+They audited the street, tracking down absent landlords, and logging what was empty and why. Volunteers offered to give the empty properties a clean and a lick of paint, to make them more attractive to let. They also spruced up the streets, picking litter, weeding, and painting bins. A small team still goes out once a fortnight.
+There's a website where all the available properties are collated; crucially, all of the financial incentives are also listed. These can include council fit-out grants (where a new business gets money to decorate premises), and a two-year discount from business rates.
+In 2023, 57 of the 198 units on Union Street were empty. As of today, 33 have been filled, with a further 14 in the process of being let.
+But it can feel like a game of whack-a-mole because since the initiative started, another 20 units have become vacant. "The key thing is, we're filling quicker than emptying," Keiller insists.
+Keiller's operations director, David McKeith, describes it as putting an arm round the shoulder of those they can help and being a "wasp in the ear" of people who just say no.
+At one end of the office, a small, young team produces social media content, linking visitors and residents to a new Our Aberdeen app, showing what the city can offer.
+For Keiller, the "small wins" - like tackling graffiti - are needed to help change public perception.
+"We've realised the psychology is not to do it once but be prepared to do it two or three times before people that do these things eventually say, 'there's no point in putting it there because somebody's going to paint over it.'"
+The upper floor problem
+Attention is also turning to the often-forgotten upper floors of buildings along the once-iconic Union Street. In a separate initiative run by the business group Aberdeen Inspired, experts are getting inside those vacant high-up spaces to identify the barriers to bringing them back into use.
+Aberdeen sought the help of a High Street troubleshooter, Iain Nicholson, who's worked with dozens of towns and cities through his Vacant Shops Academy.
+Out of more than 1,000 empty units he helped audit nationally, on average more than half didn't have a letting agent actively marketing the property. He says some councils don't even know who the landlords are.
+Empty shops, he says, won't all be filled by the market alone. Towns and cities need to encourage a broader range of occupiers, from arts and culture to leisure, health and well-being.
+He says what's striking about Aberdeen is its joined-up approach, and the fact people "rolled up their sleeves" and overcame differences. "That's not something you can yet say about everywhere."
+New markets and widened pavements
+Can other places learn from Aberdeen?
+Every town and city faces its own mix of challenges.
+Nicholson also helped Crewe in Cheshire. As a smaller place than Aberdeen, it is focusing on arts, culture, and community, with a new women's centre opened this month.
+And English councils are being encouraged to take a more interventionist role.
+They can now force an empty commercial unit that's been vacant for at least a year to be offered to tenants through a High Street Rental Auction, even if the landlord doesn't want to let it.
+It's early days but the mere prospect of losing control of a property is delivering some results. Bassetlaw Council in Nottinghamshire, an early adopter of the scheme, says more than 30 shops across the district have been let or are currently under offer as a result of the policy.
+But filling empty units is only part of the challenge. The bigger question is what town and city centres are actually for.
+Changing habits mean we won't need so many shops. Instead, it's argued, town centres will need more people living and working in them, with new homes and office space alongside services that can't be done online. With an ageing population, for example, bringing NHS health centres into the heart of a town could be a big opportunity.
+In Aberdeen, the building that used to house BHS - a department store shuttered in 2016 - is being converted into an entrance plaza for the new food and drink market.
+The physical appearance of Union Street is changing too. Like many Victorian shopping thoroughfares, it was built with a wide road (probably to give space to horses and carriages). Now parts of the pavements are being widened to make it a more pleasant place to spend time, though many Aberdonians are weary of the disruption, and of new traffic restrictions.
+Money is a big barrier. Aberdeen's new indoor food and drink market is costing £40m, funded by the council and the UK Levelling Up Fund. In other places, regeneration schemes can struggle because the cost of redevelopment outweighs the likely financial return, making support from the public sector essential. And the economics are becoming more challenging.
+"Higher interest rates, rising costs of construction and other issues are impacting the viability and delivery of new housing and big redevelopment projects," says Steve Norris, a director at Lambert Smith Hampton. He says that big projects usually require cash from both the public and private sectors.
+He wants to see "more creative ways of funding".
+Part of Burnham's plan is to give local leaders more freedom to invest in town centres and drive regeneration, building on the approach he has championed in Greater Manchester. But bigger projects take years.
+Making it easier and cheaper to open and run a High Street business is one of the more immediate solutions being called for, with business rates a particular concern.
+Burnham has promised further rates reform. All eyes are on this month's Budget to see how far he will go.
+The chief executive of Next, Simon Wolfson, argues that the bigger challenge is not business rates, but planning reform.
+"The most important thing that the government can do for high streets is let them develop," says Wolfson, who's also a Conservative peer.
+Rome 'not built in a day'
+Back in Aberdeen, there are some signs of traction.
+Lauren Reid and her mother Rose moved their fashion boutique to Union Street in 2024. A council grant helped with the refurbishment after they decided to make the leap.
+Can they make the sums add up? "We're getting there," she says.
+She feels the same about the future of her street. "I always say Rome wasn't built in a day."
+Right now the area feels like a construction site - but another gaping hole will soon be filled. Robert Keane is a local property developer who in 2023 bought the Trinity shopping centre, once home to Debenhams. The space is now set to be re-occupied by a national leisure brand. A notoriously tiring stairway leading to the Trinity from the train station is also being replaced by an escalator.
+"We saw a real good opportunity, because it was dying," he says.
+He reckons he can make a go of it, cutting the cost of parking and overheads, resetting rents and being more nimble than previous far-flung owners.
+It was a bold move given Lambert Smith Hampton suggests that more than one in 10 UK shopping centres is ripe for demolition.
+But he's betting the dynamics of Aberdeen are finally changing.
+"I think by 2027 it should look and feel like a different city."
+That is certainly the hope. Yet walking along Union Street today, past the boarded-up shopfronts and roadworks, it can still feel like a city caught between its past and whatever comes next.
+Top image credit: Getty Images
+More from InDepth
+Why the UK is dithering over what to do about e-scooters
+- Published23 July
+The sale of illegal cigarettes signals a deeper problem with UK high streets
+- Published3 July 2025
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-27T23:05:53+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/7686be90-b8cb-11f1-a430-4d16ee157c41.jpg",
+    readTime: 10,
   },
   {
     id: "healey-to-promise-new-age-of-industriali-337d4a67",
@@ -1624,240 +2242,6 @@ Abu Farhi was shown a second yellow for his goal celebration which Barzel insist
     publishedAt: "2026-09-26T17:15:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-02028869",
-    readTime: 2,
-  },
-  {
-    id: "openai-expands-review-of-model-behavior-8178d053",
-    title: "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-    titleJa: "OpenAI expands review of model behavior after more rogue agent incidents emerge",
-    summaryJa: "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
-    bodyOriginal: `OpenAI said Friday that it is conducting an "extensive" review of its models' activities following the Hugging Face breach, after additional examples of unusual or unauthorized agent activity were disclosed this week.
-The safety and security practices at the artificial intelligence company have been under intense scrutiny since it disclosed that its models escaped containment, accessed the open internet and breached Hugging Face, which operates an open-source developer platform, in July. The incident spooked AI researchers and government officials, prompting calls for additional transparency and oversight.
-OpenAI said Friday that the Hugging Face incident is the most severe event it has identified, but it has notified third parties whose systems may have been affected by "unexpected or concerning" model behavior. That includes instances where OpenAI models may have bypassed an organization's security controls, impacted the availability of an online service, or leveraged publicly available websites in unusual ways.
-"We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not," OpenAI CEO Sam Altman said in a post on X on Friday.
-Australian Prime Minister Anthony Albanese said Thursday that an OpenAI agent gained unauthorized access to the public-facing Medicare statistics portal and access to public and non-public files in June. He said no personal information was believed to have been accessed.
-During a press conference in New York, Albanese said he spoke with Altman about the incident and expressed concern and disappointment about how long it took OpenAI to disclose what happened and that "the nature of the way that that notification occurred as well was unacceptable."
-"Most of the activity we've reviewed so far involved routine research tasks, such as accessing public web content to answer questions," an OpenAI spokesperson told CNBC in a statement late Friday. "Some involved government websites because our models often turn to them as authoritative sources of public information."
-Transluce, an independent AI research lab, published a report detailing several additional incidents this week. In one case, agents that researchers said may be linked to OpenAI unsuccessfully tried to access a photograph from a digital library at the University of New Mexico in May. That same month, agents looking for information about the University of Iowa attempted, and failed, to access a public data platform called Data USA, Transluce reported.
-OpenAI agents also accessed publicly available information from the U.S. Securities and Exchange Commission and the U.S. Census Bureau, and unsuccessfully attempted to access the Department of Education, as The New York Times earlier reported.
-"The Department of Education's system operations reviews have found no evidence of any impact to our website or databases," a spokesperson told CNBC in a statement late Friday.
-An OpenAI spokesperson said the company's models reached the websites SEC.gov and Investor.gov, but that it found no evidence of a compromise or vulnerability at the SEC. Similarly, the spokesperson said OpenAI models used publicly available developer keys to read demographic and economic Census Bureau data, but that the company found no evidence of improper access to Census accounts.
-OpenAI said Friday that most of the cases identified so far have been low severity, but that given the scale of its review, the full process will take months to complete.
-WATCH: OpenAI agent hacks Australian government website: What you need to know`,
-    bodyJa: `OpenAI said Friday that it is conducting an "extensive" review of its models' activities following the Hugging Face breach, after additional examples of unusual or unauthorized agent activity were disclosed this week.
-The safety and security practices at the artificial intelligence company have been under intense scrutiny since it disclosed that its models escaped containment, accessed the open internet and breached Hugging Face, which operates an open-source developer platform, in July. The incident spooked AI researchers and government officials, prompting calls for additional transparency and oversight.
-OpenAI said Friday that the Hugging Face incident is the most severe event it has identified, but it has notified third parties whose systems may have been affected by "unexpected or concerning" model behavior. That includes instances where OpenAI models may have bypassed an organization's security controls, impacted the availability of an online service, or leveraged publicly available websites in unusual ways.
-"We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not," OpenAI CEO Sam Altman said in a post on X on Friday.
-Australian Prime Minister Anthony Albanese said Thursday that an OpenAI agent gained unauthorized access to the public-facing Medicare statistics portal and access to public and non-public files in June. He said no personal information was believed to have been accessed.
-During a press conference in New York, Albanese said he spoke with Altman about the incident and expressed concern and disappointment about how long it took OpenAI to disclose what happened and that "the nature of the way that that notification occurred as well was unacceptable."
-"Most of the activity we've reviewed so far involved routine research tasks, such as accessing public web content to answer questions," an OpenAI spokesperson told CNBC in a statement late Friday. "Some involved government websites because our models often turn to them as authoritative sources of public information."
-Transluce, an independent AI research lab, published a report detailing several additional incidents this week. In one case, agents that researchers said may be linked to OpenAI unsuccessfully tried to access a photograph from a digital library at the University of New Mexico in May. That same month, agents looking for information about the University of Iowa attempted, and failed, to access a public data platform called Data USA, Transluce reported.
-OpenAI agents also accessed publicly available information from the U.S. Securities and Exchange Commission and the U.S. Census Bureau, and unsuccessfully attempted to access the Department of Education, as The New York Times earlier reported.
-"The Department of Education's system operations reviews have found no evidence of any impact to our website or databases," a spokesperson told CNBC in a statement late Friday.
-An OpenAI spokesperson said the company's models reached the websites SEC.gov and Investor.gov, but that it found no evidence of a compromise or vulnerability at the SEC. Similarly, the spokesperson said OpenAI models used publicly available developer keys to read demographic and economic Census Bureau data, but that the company found no evidence of improper access to Census accounts.
-OpenAI said Friday that most of the cases identified so far have been low severity, but that given the scale of its review, the full process will take months to complete.
-WATCH: OpenAI agent hacks Australian government website: What you need to know`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/26/openai-agent-model-behavior-review.html",
-    publishedAt: "2026-09-26T17:10:32+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "choosing-these-ai-exposed-college-majors-4c10e110",
-    title: "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-    titleJa: "Choosing these AI-exposed college majors could dent your job prospects — and lower your pay",
-    summaryJa: "At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.",
-    bodyOriginal: `At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.`,
-    bodyJa: `At a time when many college students say they are rethinking their academic focus because of AI, new findings supply hard data on the potential costs of these decisions.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/choosing-these-ai-exposed-college-majors-could-dent-your-job-prospects-and-lower-your-pay-b80576cb?mod=mw_rss_topstories",
-    publishedAt: "2026-09-26T16:22:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-30767503",
-    readTime: 2,
-  },
-  {
-    id: "apple-faces-5-7-billion-patent-infringem-4273a6aa",
-    title: "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-    titleJa: "Apple faces $5.7 billion patent infringement verdict over iPhone and Apple Watch haptics",
-    summaryJa: "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
-    bodyOriginal: `A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents.
-Taction sued Apple in 2021 in the U.S. District Court for the Southern District of California. The company alleged that Apple was improperly "capitalizing on Taction's innovation and success" by selling devices that infringed on its vibration technology, according to the complaint. Apple initially won dismissal in 2023, and the Federal Circuit later revived the case.
-"While we thank the jury for their consideration, we strongly disagree with today's verdict and the damages awarded, which are entirely unsupported by the facts," Apple told CNBC in a statement. "Apple's Taptic Engine is fundamentally different from Taction's technology, which Taction's own testing of Apple's products confirmed during trial. Apple does not use Taction's technology, and we will appeal."
-Taction did not immediately respond to CNBC's request for comment.
-The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input. Taction argued that Apple's "Taptic Engine," which is embedded in its Apple Watches and iPhones, uses its inventions without proper license or authority.
-The jury trial began Sept. 14, and the seven jurors deliberated for two days after proceedings concluded. They returned at 1:15 p.m. PT on Friday and delivered the verdict in favor of Taction.
-The jury did not find Apple's infringement willful.
-WATCH: Apple’s three-part iPhone rollout complicates the demand read`,
-    bodyJa: `A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents.
-Taction sued Apple in 2021 in the U.S. District Court for the Southern District of California. The company alleged that Apple was improperly "capitalizing on Taction's innovation and success" by selling devices that infringed on its vibration technology, according to the complaint. Apple initially won dismissal in 2023, and the Federal Circuit later revived the case.
-"While we thank the jury for their consideration, we strongly disagree with today's verdict and the damages awarded, which are entirely unsupported by the facts," Apple told CNBC in a statement. "Apple's Taptic Engine is fundamentally different from Taction's technology, which Taction's own testing of Apple's products confirmed during trial. Apple does not use Taction's technology, and we will appeal."
-Taction did not immediately respond to CNBC's request for comment.
-The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input. Taction argued that Apple's "Taptic Engine," which is embedded in its Apple Watches and iPhones, uses its inventions without proper license or authority.
-The jury trial began Sept. 14, and the seven jurors deliberated for two days after proceedings concluded. They returned at 1:15 p.m. PT on Friday and delivered the verdict in favor of Taction.
-The jury did not find Apple's infringement willful.
-WATCH: Apple’s three-part iPhone rollout complicates the demand read`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/26/apple-taction-technology-patent-infringement-verdict.html",
-    publishedAt: "2026-09-26T16:08:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "german-town-bans-stumbling-stone-memoria-c11f337b",
-    title: "German town bans 'stumbling stone' memorials to Nazi victims",
-    titleJa: "German town bans 'stumbling stone' memorials to Nazi victims",
-    summaryJa: "Germany's education minister has branded the ban on the small brass memorial plaques a \"scandal\".",
-    bodyOriginal: `German town bans 'stumbling stone' memorials to Nazi victims
-- Published
-There has been a wave of criticism in Germany after the town of Heidenau, near Dresden in Saxony, decided to ban "stumbling stone" memorials to victims of the Nazis.
-Germany's Education Minister Karin Prien told newspaper Bild that the ban was a "scandal".
-Since the 1990s, many towns in countries across Europe, including in Germany and Austria, have embedded small brass plaques in the streets in memory of Jews and other victims of Nazi atrocities.
-The plaques, called Stolpersteine in German, are often placed outside the houses where the victims used to live or work. They are frequently funded by donations.
-But now councillors from the Alternative für Deutschland (AfD) party and the conservative CDU in Heidenau have voted to ban stumbling stones in their town.
-The AfD in Saxony has been classified as extreme-right by German intelligence, a designation the party rejects.
-The motion in the town council said that many citizens felt that this form of commemoration of Nazi victims was inappropriate.
-Memorials should in future be placed at the city's Nordfriedhof cemetery to make it "impossible to step directly onto the memorial elements", the motion stated.
-However, Karin Prien, a member of the CDU, criticised the decision.
-"Anyone who banishes Stolpersteine and memorial sites commemorating Jewish life from public spaces to the cemetery is prioritising death over life and rendering Jewish people invisible once again," she told Bild.
-She said her own CDU party in Saxony also bore responsibility for the decision.
-Charlotte Knobloch, a Holocaust survivor and president of the Jewish Community in Munich, said that removing memorials from the cityscape was "completely the wrong approach".
-She told the Funke Media Group that she was "appalled that a democratic party would stoop to supporting such a transparent manoeuvre by the extremists of the AfD".
-Knobloch said that she was not a supporter of the stumbling stones, but added that "decentralised remembrance – which is not banished from public space but, on the contrary, permeates and shapes it" was crucial to a genuine culture of remembrance.
-In her own city of Munich, there are no Stolpersteine on municipal land. Instead, the city allows memorial plaques on public buildings.
-As the name suggests, Stolpersteine are intended as memorials people stumble upon, making them reflect on the history of their location.
-Gunter Demnig, the artist who initiated the Stolperstein project, said that given the recent electoral successes of the AfD "it was certainly to be expected that something like this would happen".
-The AfD recently secured major victories in state elections in Saxony-Anhalt and Mecklenburg-Vorpommern.
-Some branches of the populist AfD are classed as right-wing extremist by domestic intelligence, a designation the party strongly rejects.
-Its anti-immigration, "Germany first" and Russian-friendly agenda has found fertile ground in the country's former communist east.
-Related topics
-- Published30 May 2022
-- Published7 May
-- Published24 November 2025`,
-    bodyJa: `German town bans 'stumbling stone' memorials to Nazi victims
-- Published
-There has been a wave of criticism in Germany after the town of Heidenau, near Dresden in Saxony, decided to ban "stumbling stone" memorials to victims of the Nazis.
-Germany's Education Minister Karin Prien told newspaper Bild that the ban was a "scandal".
-Since the 1990s, many towns in countries across Europe, including in Germany and Austria, have embedded small brass plaques in the streets in memory of Jews and other victims of Nazi atrocities.
-The plaques, called Stolpersteine in German, are often placed outside the houses where the victims used to live or work. They are frequently funded by donations.
-But now councillors from the Alternative für Deutschland (AfD) party and the conservative CDU in Heidenau have voted to ban stumbling stones in their town.
-The AfD in Saxony has been classified as extreme-right by German intelligence, a designation the party rejects.
-The motion in the town council said that many citizens felt that this form of commemoration of Nazi victims was inappropriate.
-Memorials should in future be placed at the city's Nordfriedhof cemetery to make it "impossible to step directly onto the memorial elements", the motion stated.
-However, Karin Prien, a member of the CDU, criticised the decision.
-"Anyone who banishes Stolpersteine and memorial sites commemorating Jewish life from public spaces to the cemetery is prioritising death over life and rendering Jewish people invisible once again," she told Bild.
-She said her own CDU party in Saxony also bore responsibility for the decision.
-Charlotte Knobloch, a Holocaust survivor and president of the Jewish Community in Munich, said that removing memorials from the cityscape was "completely the wrong approach".
-She told the Funke Media Group that she was "appalled that a democratic party would stoop to supporting such a transparent manoeuvre by the extremists of the AfD".
-Knobloch said that she was not a supporter of the stumbling stones, but added that "decentralised remembrance – which is not banished from public space but, on the contrary, permeates and shapes it" was crucial to a genuine culture of remembrance.
-In her own city of Munich, there are no Stolpersteine on municipal land. Instead, the city allows memorial plaques on public buildings.
-As the name suggests, Stolpersteine are intended as memorials people stumble upon, making them reflect on the history of their location.
-Gunter Demnig, the artist who initiated the Stolperstein project, said that given the recent electoral successes of the AfD "it was certainly to be expected that something like this would happen".
-The AfD recently secured major victories in state elections in Saxony-Anhalt and Mecklenburg-Vorpommern.
-Some branches of the populist AfD are classed as right-wing extremist by domestic intelligence, a designation the party strongly rejects.
-Its anti-immigration, "Germany first" and Russian-friendly agenda has found fertile ground in the country's former communist east.
-Related topics
-- Published30 May 2022
-- Published7 May
-- Published24 November 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqm2mm4y5dkko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-26T15:48:51+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b9/live/73f91880-b9c0-11f1-a430-4d16ee157c41.jpg",
-    readTime: 8,
-  },
-  {
-    id: "tax-free-bond-yields-are-in-a-sweet-spot-27b72f47",
-    title: "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-    titleJa: "Tax-free bond yields are in a sweet spot. Get in before it’s too late.",
-    summaryJa: "Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.",
-    bodyOriginal: `Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.`,
-    bodyJa: `Yields on municipal bonds — adjusted for taxable-equivalent comparisons — have widened dramatically over those of corporate bonds over the past two months.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/tax-free-bond-yields-are-in-a-sweet-spot-get-in-before-its-too-late-94b8adac?mod=mw_rss_topstories",
-    publishedAt: "2026-09-26T15:48:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-30557006",
-    readTime: 2,
-  },
-  {
-    id: "millions-will-lose-medicaid-once-new-wor-84359e21",
-    title: "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-    titleJa: "Millions will lose Medicaid once new work rules kick in. These groups will be hit the hardest.",
-    summaryJa: "The changes will cut about $1 trillion from federal Medicaid spending over 10 years.",
-    bodyOriginal: `The changes will cut about $1 trillion from federal Medicaid spending over 10 years.`,
-    bodyJa: `The changes will cut about $1 trillion from federal Medicaid spending over 10 years.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/millions-will-lose-medicaid-once-new-work-rules-kick-in-these-groups-will-be-hit-the-hardest-507694d3?mod=mw_rss_topstories",
-    publishedAt: "2026-09-26T15:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-25328252",
-    readTime: 2,
-  },
-  {
-    id: "trump-rejects-iran-s-conditional-ceasefi-39063776",
-    title: "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-    titleJa: "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
-    summaryJa: "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
-    bodyOriginal: `President Donald Trump has rejected Iran's conditional proposal for reopening the Strait of Hormuz, telling aides he expects to resume bombing the country after November's midterm elections, The Wall Street Journal reported Saturday, quoting unnamed U.S. officials.
-In a gaggle with reporters later on Saturday, Trump confirmed he had rejected Iran's latest offer: "They made a proposal but I rejected it."
-Meanwhile, Yemen's Saudi-led coalition forces said they intercepted projectiles fired by Iran-backed Houthi rebels.
-Iranian Foreign Minister Abbas Araghchi on Friday proposed reopening the strategically vital strait and resuming nuclear talks with the U.S. within seven days if the Trump administration accepts its conditions.
-"If certain conditions are met, the Strait of Hormuz will be open at the end of seven days, and talks will be restarted," Araghchi told reporters on the sidelines of the United Nations General Assembly in New York.
-Tehran's conditions include a halt to what it calls U.S. "acts of aggression," an end to the naval blockade and economic warfare, and the release of Iranian assets, Iranian foreign ministry spokesman Esmaeil Baghaei said this week.
-Trump said earlier this month that he expects the war, which began on Feb. 28 with U.S. and Israeli airstrikes on Iran, to end shortly after the midterms and for oil prices to fall afterward.
-But privately, Trump is skeptical Iran would meet his demands and has told his staff that he sees a renewed bombing campaign as likely, the WSJ quoted officials as saying.
-CNBC could not immediately confirm the report.
-The Journal quoted a U.S. official as saying Washington and Tehran were still negotiating through mediators, including over U.S. demands intended to prevent Iran from developing a nuclear weapon.
-'Intercepted and destroyed'
-Though direct fighting between U.S. and Iranian forces has been greatly reduced in recent weeks, Iran-backed Houthi rebels in Yemen have stepped up their attacks on their neighbor and U.S. ally Saudi Arabia.
-The Saudi-backed Coalition to Support Legitimacy in Yemen "intercepted and destroyed" two drones launched by Houthi militia towards the Saudi capital Riyadh, and two ballistic missiles aimed at the Khamis Mushait region near the city of Abha in the country's southwest, Colonel Turki Al-Maliki, the coalition's official spokesman, said in a series of posts on X.
-The Houthis said last Saturday that they had attacked "sensitive" sites in Riyadh shortly after flames and smoke were seen near the city's main airport. Saudi Arabia said earlier this month that its air defenses destroyed a Houthi drone headed for the holy city of Mecca, a claim the group denied.
-The war has severely restricted energy shipments out of the Middle East, sending oil prices soaring and raising concerns about accelerating inflation globally.
-But crude prices posted a sharp drop for the week as Tehran and Washington held discussions on the sidelines of the U.N. General Assembly.
-West Texas Intermediate dropped 2.3% to close at $92.41 per barrel. Brent, the international benchmark, declined 2.1% to settle at $104.32. U.S. crude finished the week 7.9% lower while Brent was flat.
-WTI is up nearly 61% year to date, while Brent crude is more than 71% higher over the same period.`,
-    bodyJa: `President Donald Trump has rejected Iran's conditional proposal for reopening the Strait of Hormuz, telling aides he expects to resume bombing the country after November's midterm elections, The Wall Street Journal reported Saturday, quoting unnamed U.S. officials.
-In a gaggle with reporters later on Saturday, Trump confirmed he had rejected Iran's latest offer: "They made a proposal but I rejected it."
-Meanwhile, Yemen's Saudi-led coalition forces said they intercepted projectiles fired by Iran-backed Houthi rebels.
-Iranian Foreign Minister Abbas Araghchi on Friday proposed reopening the strategically vital strait and resuming nuclear talks with the U.S. within seven days if the Trump administration accepts its conditions.
-"If certain conditions are met, the Strait of Hormuz will be open at the end of seven days, and talks will be restarted," Araghchi told reporters on the sidelines of the United Nations General Assembly in New York.
-Tehran's conditions include a halt to what it calls U.S. "acts of aggression," an end to the naval blockade and economic warfare, and the release of Iranian assets, Iranian foreign ministry spokesman Esmaeil Baghaei said this week.
-Trump said earlier this month that he expects the war, which began on Feb. 28 with U.S. and Israeli airstrikes on Iran, to end shortly after the midterms and for oil prices to fall afterward.
-But privately, Trump is skeptical Iran would meet his demands and has told his staff that he sees a renewed bombing campaign as likely, the WSJ quoted officials as saying.
-CNBC could not immediately confirm the report.
-The Journal quoted a U.S. official as saying Washington and Tehran were still negotiating through mediators, including over U.S. demands intended to prevent Iran from developing a nuclear weapon.
-'Intercepted and destroyed'
-Though direct fighting between U.S. and Iranian forces has been greatly reduced in recent weeks, Iran-backed Houthi rebels in Yemen have stepped up their attacks on their neighbor and U.S. ally Saudi Arabia.
-The Saudi-backed Coalition to Support Legitimacy in Yemen "intercepted and destroyed" two drones launched by Houthi militia towards the Saudi capital Riyadh, and two ballistic missiles aimed at the Khamis Mushait region near the city of Abha in the country's southwest, Colonel Turki Al-Maliki, the coalition's official spokesman, said in a series of posts on X.
-The Houthis said last Saturday that they had attacked "sensitive" sites in Riyadh shortly after flames and smoke were seen near the city's main airport. Saudi Arabia said earlier this month that its air defenses destroyed a Houthi drone headed for the holy city of Mecca, a claim the group denied.
-The war has severely restricted energy shipments out of the Middle East, sending oil prices soaring and raising concerns about accelerating inflation globally.
-But crude prices posted a sharp drop for the week as Tehran and Washington held discussions on the sidelines of the U.N. General Assembly.
-West Texas Intermediate dropped 2.3% to close at $92.41 per barrel. Brent, the international benchmark, declined 2.1% to settle at $104.32. U.S. crude finished the week 7.9% lower while Brent was flat.
-WTI is up nearly 61% year to date, while Brent crude is more than 71% higher over the same period.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
-    publishedAt: "2026-09-26T15:05:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "do-this-one-thing-to-help-prevent-your-p-70e16bc3",
-    title: "Do this one thing to help prevent your parents from being scammed",
-    titleJa: "Do this one thing to help prevent your parents from being scammed",
-    summaryJa: "“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.",
-    bodyOriginal: `“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.`,
-    bodyJa: `“I felt like I was talking to a robot,” said one adviser about a client who was ensnared in a romance scam.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/do-this-one-thing-to-help-prevent-your-parents-from-being-scammed-27a0ca4b?mod=mw_rss_topstories",
-    publishedAt: "2026-09-26T15:04:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-93049114",
     readTime: 2,
   },
 ];
